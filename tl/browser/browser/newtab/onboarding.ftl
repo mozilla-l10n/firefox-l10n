@@ -18,8 +18,11 @@ onboarding-start-browsing-button-label = Mag-simulang mag-browse
 ## The string for the button is found above, in the UI strings section
 
 onboarding-private-browsing-title = Pribadong pag-browse
+onboarding-private-browsing-text = Mag-browse ng mag-isa. Pribadong Pag-Browse na may Content Blocking ay haharang sa mga online trackers na gustong sumubaybay sa bawat kilos mo sa web.
 onboarding-screenshots-title = Mga screenshot
+onboarding-screenshots-text = Kumuha, i-save o magbahagi ng screenshot - nang hindi umaalis sa { -brand-short-name }. Kunan ang rehiyon o ang buong pahina habang nagba-browse. Pagkatapos, i-save ito sa web upang madaling ma-access o maibahagi sa iba.
 onboarding-addons-title = Mga Add-on
+onboarding-addons-text = Mag-dagdag ng iba pang katangian upang ang { -brand-short-name } ay makapag-silbi ng lubos sa iyo. Maghambing ng presyo, suriin ang panahon o magpahayag ng iyong pagkatao gamit ang custom theme.
 onboarding-ghostery-title = Ghostery
 onboarding-ghostery-text = Mag-browse nang mas mabilis, mas wais, o mas ligtas na may extensyon tulad ng Ghostery, na nahaharang ang mga nakakainis na patalastas.
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"

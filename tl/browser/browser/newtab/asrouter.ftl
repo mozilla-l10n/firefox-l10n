@@ -9,6 +9,10 @@ cfr-doorhanger-extension-cancel-button = Hindi Ngayon
     .accesskey = H
 cfr-doorhanger-extension-ok-button = Idagdag Ngayon
     .accesskey = A
+cfr-doorhanger-extension-manage-settings-button = Mangasiwa sa Rekomendasyong Itinakda
+    .accesskey = M
+cfr-doorhanger-extension-never-show-recommendation = Itago ang Rekomendasyong ito
+    .accesskey = I
 cfr-doorhanger-extension-learn-more-link = Alamin
 # This string is used on a new line below the add-on name
 # Variables:
@@ -22,3 +26,18 @@ cfr-doorhanger-extension-notification = Rekomendasyon
 ## These strings are used to display the total number of
 ## users and rating for an add-on. They are shown next to each other.
 
+# Variables:
+#   $total (Number) - The rating of the add-on from 1 to 5
+cfr-doorhanger-extension-rating =
+    .tooltiptext =
+        { $total ->
+            [one] { $total } bituin
+           *[other] { $total } mga bituin
+        }
+# Variables:
+#   $total (Number) - The total number of users using the add-on
+cfr-doorhanger-extension-total-users =
+    { $total ->
+        [one] { $total } taga-gamit
+       *[other] { $total } mga taga-gamit
+    }
