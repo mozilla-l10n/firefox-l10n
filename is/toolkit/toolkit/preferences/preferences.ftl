@@ -15,3 +15,4 @@ pw-change-success-title = Lykilorði breytt
 pw-change-failed-title = Gat ekki breytt lykilorði
 pw-remove-button =
     .label = Fjarlægja
+set-password-reenter-password = Staðfestu lykilorðið:
