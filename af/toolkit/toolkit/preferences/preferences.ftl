@@ -15,3 +15,4 @@ pw-change-success-title = Wagwoordverandering was suksesvol
 pw-change-failed-title = Kon nie wagwoord verander nie
 pw-remove-button =
     .label = Verwyder
+set-password-reenter-password = Tik nuwe wagwoord weer in:
