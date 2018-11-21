@@ -14,6 +14,12 @@ restore-page-restore-header =
     .label = Restaurar
 restore-page-list-header =
     .label = Janelas e abas
+restore-page-try-again-button =
+    .label = Restaurar sessão
+    .accesskey = R
+restore-page-close-button =
+    .label = Iniciar nova sessão
+    .accesskey = N
 
 ## The following strings are used in about:welcomeback
 
