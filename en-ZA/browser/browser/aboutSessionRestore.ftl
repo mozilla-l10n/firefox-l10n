@@ -23,3 +23,4 @@ welcome-back-restore-button =
     .label = Let’s go!
     .accesskey = L
 welcome-back-restore-some-label = Restore only the ones you want
+welcome-back-page-info-link = Your add-ons and customisations have been removed and your browser settings have been restored to their defaults. If this didn’t fix your issue, <a data-l10n-name="link-more">learn more about what you can do.</a>
