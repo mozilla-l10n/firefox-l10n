@@ -3,6 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restore-page-tab-title = بازیابی نشست
+# The title is intended to be apologetic and disarming, expressing dismay
+# and regret that we are unable to restore the session for the user
+restore-page-error-title = متاسفیم. برای برگرداندن صفحه‌های شما مشکل داریم.
+restore-page-problem-desc = برای بازیابی آخرین نشست مرورگر شما مشکل داریم. با انتخاب بازیابی نشست دوباره امتحان کنید.
+restore-page-hide-tabs = پنهان کردن زبانه های قبلی
+restore-page-show-tabs = دیدن زبانه‌های قبلی
 # When tabs are distributed across multiple windows, this message is used as a
 # header above the group of tabs for each window.
 #
@@ -13,6 +19,12 @@ restore-page-restore-header =
     .label = بازگرداندن
 restore-page-list-header =
     .label = پنجره‌ها و زبانه‌ها
+restore-page-try-again-button =
+    .label = بازیابی نشست
+    .accesskey = R
+restore-page-close-button =
+    .label = آغاز یک نشست جدید
+    .accesskey = N
 
 ## The following strings are used in about:welcomeback
 
