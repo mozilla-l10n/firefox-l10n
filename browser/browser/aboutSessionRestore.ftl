@@ -9,3 +9,7 @@ restore-page-list-header =
 
 ## The following strings are used in about:welcomeback
 
+welcome-back-tab-title = Thành công!
+welcome-back-page-title = Thành công!
+welcome-back-page-info = { -brand-short-name } đã sẵn sàng.
+welcome-back-page-info-link = Phần mở rộng và tùy biến của bạn đã xóa và các thiết lập của trình duyệt sẽ được khôi phục về trạng thái mặc định. Nếu điều này không giải quyết được vấn đề của bạn, <a data-l10n-name="link-more">tìm hiểu thêm về những gì bạn có thể làm.</a>
