@@ -15,3 +15,4 @@ pw-change-success-title = Cambiament de senhal capitat
 pw-change-failed-title = La modificacion de senhal a pas capitat
 pw-remove-button =
     .label = Suprimir
+set-password-reenter-password = Tornatz picatz lo senhal :
