@@ -29,5 +29,12 @@ restore-page-close-button =
 
 ## The following strings are used in about:welcomeback
 
+welcome-back-tab-title = Erfolleg!
+welcome-back-page-title = Erfolleg!
+welcome-back-page-info = { -brand-short-name } ass prett.
+welcome-back-restore-button =
+    .label = Lass geet et!
+    .accesskey = L
 welcome-back-restore-all-label = All Fënsteren & Tabs restauréieren
 welcome-back-restore-some-label = Nëmmen déi restauréieren déi's Du wëlls
+welcome-back-page-info-link = Deng Add-ons an Upassungen si geläscht ginn an Deng Browserastellungen sinn op d'Standardwäerter zeréck gesat. Wann dëst de Problem net behieft, <a data-l10n-name="link-more">wësse wat's Du méi maache kanns.</a>
