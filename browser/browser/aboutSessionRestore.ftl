@@ -17,3 +17,5 @@ restore-page-list-header =
 ## The following strings are used in about:welcomeback
 
 welcome-back-page-info = { -brand-short-name } es prèst.
+welcome-back-restore-all-label = Restablir totas las fenèstras e totes los onglets
+welcome-back-restore-some-label = Causir çò que vòli restablir
