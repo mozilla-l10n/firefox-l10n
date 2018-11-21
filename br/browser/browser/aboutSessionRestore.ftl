@@ -6,6 +6,7 @@ restore-page-tab-title = Assav an estez
 # The title is intended to be apologetic and disarming, expressing dismay
 # and regret that we are unable to restore the session for the user
 restore-page-error-title = Digarezit. Diaesterioù hon eus o kaout ho pajennoù en-dro.
+restore-page-problem-desc = Poan hon eus oc'h assav hoc'h estez merdeiñ diwezhañ. Diuzit “Assav an estez” da glask en-dro.
 restore-page-try-this = Divarrek c'hoazh da assav hoc'h estez? A-wechoù eo un ivinell a zo kaoz. Gwelit an ivinelloù kent, lamit kuit al log da gevaskañ diouzh an ivinelloù n'ho peus ket c'hoant da assav, hag assavit goude-se.
 restore-page-hide-tabs = Kuzhat an ivinelloù gent
 restore-page-show-tabs = Gwelet an ivinelloù kent
