@@ -11,9 +11,14 @@ restore-page-tab-title = სეანსის აღდგენა
 restore-page-window-label = სარკმელი { $windowNumber }
 restore-page-restore-header =
     .label = აღდგენა
+restore-page-list-header =
+    .label = ფანჯრები და ჩანართები
 
 ## The following strings are used in about:welcomeback
 
 welcome-back-tab-title = მზადაა!
 welcome-back-page-title = მზადაა!
 welcome-back-page-info = { -brand-short-name } გასაშვებად მზადაა.
+welcome-back-restore-button =
+    .label = წინ!{ " " }
+    .accesskey = წ
