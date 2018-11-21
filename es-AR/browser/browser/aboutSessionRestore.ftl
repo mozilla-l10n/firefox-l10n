@@ -22,3 +22,4 @@ welcome-back-page-info = { -brand-short-name } está listo.
 welcome-back-restore-button =
     .label = ¡Vamos!
     .accesskey = V
+welcome-back-page-info-link = Los complementos y personalizaciones han sido eliminados y la configuración del navegador ha sido restaurada a sus valores predeterminados. Si esto no corrige el problema, <a data-l10n-name="link-more">conozca más acerca de lo que puede hacer.</a>
