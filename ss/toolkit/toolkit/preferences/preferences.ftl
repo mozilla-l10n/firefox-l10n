@@ -14,3 +14,4 @@ pw-change-success-title = Kwenteke ngemphukelelo kuguculwa kwelibitophawu
 pw-change-failed-title = Alikakhoni kuguculeka libitophawu
 pw-remove-button =
     .label = Susa
+set-password-reenter-password = Phindza ulifake Libitophawu:
