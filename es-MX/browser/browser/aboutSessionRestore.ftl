@@ -7,6 +7,7 @@ restore-page-tab-title = Restaurar sesión
 # and regret that we are unable to restore the session for the user
 restore-page-error-title = Disculpa. Tenemos dificultades para recuperar tus páginas.
 restore-page-problem-desc = Estamos teniendo problemas para restaurar tu navegación de la sesión anterior. Selecciona Restaurar Sesión para intentar de nuevo.
+restore-page-try-this = ¿Aún no puedes restaurar tu sesión? A veces una pestaña causa el problema. Revisa las pestañas anteriores, remueve la marca de las que no necesitas recuperar y luego restaura.
 # When tabs are distributed across multiple windows, this message is used as a
 # header above the group of tabs for each window.
 #
@@ -17,6 +18,12 @@ restore-page-restore-header =
     .label = Restaurar
 restore-page-list-header =
     .label = Ventanas y pestañas
+restore-page-try-again-button =
+    .label = Restaurar sesión
+    .accesskey = R
+restore-page-close-button =
+    .label = Iniciar nueva sesión
+    .accesskey = N
 
 ## The following strings are used in about:welcomeback
 
