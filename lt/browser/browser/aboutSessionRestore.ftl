@@ -3,6 +3,13 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restore-page-tab-title = Seanso atkūrimas
+# The title is intended to be apologetic and disarming, expressing dismay
+# and regret that we are unable to restore the session for the user
+restore-page-error-title = Atsiprašome. Mums nepavyksta atkurti jūsų tinklalapių.
+restore-page-problem-desc = Mums nepavyksta atkurti jūsų paskutinio naršymo seanso. Pasirinkite „Atkurti seansą“ norėdami pabandyti dar kartą.
+restore-page-try-this = Vis tiek nepavyksta atkurti seanso? Kartais taip būna dėl kortelių. Peržiūrėkite ankstesnes korteles ir nuimkite varneles nuo tų, kurių nebūtinai reikia, ir pabandykite atkurti tada.
+restore-page-hide-tabs = Slėpti ankstesnes korteles
+restore-page-show-tabs = Rodyti ankstesnes korteles
 # When tabs are distributed across multiple windows, this message is used as a
 # header above the group of tabs for each window.
 #
@@ -13,6 +20,12 @@ restore-page-restore-header =
     .label = Atkurti
 restore-page-list-header =
     .label = Langai ir kortelės
+restore-page-try-again-button =
+    .label = Atkurti seansą
+    .accesskey = r
+restore-page-close-button =
+    .label = Pradėti naują seansą
+    .accesskey = n
 
 ## The following strings are used in about:welcomeback
 
