@@ -698,6 +698,19 @@ content-blocking-setting-standard =
 content-blocking-setting-strict =
     .label = Estricto
     .accesskey = r
+content-blocking-setting-custom =
+    .label = Personalizado
+    .accesskey = C
+content-blocking-standard-desc = Equilibrado para la protección y el rendimiento. Permite algunos rastreadores para que los sitios web funcionen correctamente.
+content-blocking-strict-desc = Bloquea todos los rastreadores detectados por { -brand-short-name }. Puede causar que algunos sitios fallen.
+content-blocking-custom-desc = Elegir qué bloquear
+content-blocking-private-trackers = Rastreadores conocidos solo en Ventanas privadas
+content-blocking-third-party-cookies = Cookies de rastreo de terceros
+content-blocking-all-windows-trackers = Rastreadores conocidos en todas las ventanas.
+content-blocking-all-third-party-cookies = Todas las cookies de terceros
+content-blocking-warning-title = ¡Atención!
+content-blocking-warning-desc = El bloqueo de cookies y rastreadores puede causar que algunos sitios web fallen. Es fácil deshabilitar el bloqueo para sitios en los que confía.
+content-blocking-learn-how = Aprender como
 content-blocking-tracking-protection-trackers-label =
     .label = Rastreadores
     .accesskey = T
@@ -733,6 +746,9 @@ content-blocking-reject-trackers-block-trackers-option =
 content-blocking-reject-trackers-all-third-parties-option =
     .label = Todas las cookies de terceros (puede causar errores en los sitios web)
     .accesskey = A
+content-blocking-cookies-label =
+    .label = Cookies
+    .accesskey = C
 
 ## Privacy Section - Tracking
 
@@ -754,6 +770,9 @@ tracking-exceptions =
 tracking-change-block-list =
     .label = Cambiar lista de bloqueo…
     .accesskey = C
+tracking-manage-exceptions =
+    .label = Administrar excepciones ...
+    .accesskey = x
 
 ## Privacy Section - Permissions
 
