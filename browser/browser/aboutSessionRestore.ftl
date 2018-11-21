@@ -3,6 +3,11 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restore-page-tab-title = सत्रलाई पूर्वावस्थामा ल्याउनुहोस्
+# The title is intended to be apologetic and disarming, expressing dismay
+# and regret that we are unable to restore the session for the user
+restore-page-error-title = माफ गर्नुहोस्। तपाईँको पृष्ठहरू फिर्ता ल्याउन हामीलाई समस्या भइरहेको छ।
+restore-page-problem-desc = तपाईँको अन्तिम ब्राउजिङ्ग सत्र पूर्वावस्थामा ल्याउन हामीलाई समस्या भइरहेको छ। पुनःप्रयास गर्नको लागि सत्रलाई पूर्वावस्थामा ल्याउनुहोस् चयन गर्नुहोस्।
+restore-page-try-this = के अझै पनि तपाईँको सत्र पूर्वावस्थामा ल्याउन सकिएन? कहिलेकाहीँ ट्याबले समस्या उत्पन्न गरेको हुन्छ। अघिल्लो ट्याबहरू हेर्नुहोस्, ट्याबहरूबाट चयन गरिएको चिन्ह हटाउनुहोस् जुन तपाईँलाई पुनःप्राप्त गर्न आवश्यक छैन, र त्यसपछि पूर्वावस्थामा ल्याउनुहोस्।
 restore-page-hide-tabs = अघिल्लो ट्याबहरू लुकाउनुहोस्
 restore-page-show-tabs = अघिल्लो ट्याबहरू हेर्नुहोस्
 # When tabs are distributed across multiple windows, this message is used as a
