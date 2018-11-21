@@ -651,6 +651,9 @@ sitedata-cookies-exceptions =
 # in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
 # Cookies and Site Data section.
 sitedata-warning-your-settings-prevent-changes = Vaše nastavenia blokovania obsahu bránia zmenám nastavenia cookies a údajov stránok.
+sitedata-cookies-permissions =
+    .label = Spravovať povolenia…
+    .accesskey = S
 
 ## Privacy Section - Address Bar
 
@@ -691,6 +694,10 @@ content-blocking-fastblock-slow-loading-trackers-label =
     .label = Spomaľovacie sledovacie prvky
     .accesskey = S
 content-blocking-fastblock-new-description = Blokované budú len sledovacie prvky, ktoré spomaľujú načítanie stránok.
+content-blocking-custom-desc = Vyberte si, čo chcete blokovať.
+content-blocking-warning-title = Pozor!
+content-blocking-warning-desc = Blokovanie cookies a sledovacích prvkov môže spôsobiť rozbitie niektorých webových stránok. Na dôveryhodných stránkach môžete blokovanie jednoducho vypnúť.
+content-blocking-learn-how = Ďalšie informácie
 content-blocking-tracking-protection-trackers-label =
     .label = Sledovacie prvky
     .accesskey = l
