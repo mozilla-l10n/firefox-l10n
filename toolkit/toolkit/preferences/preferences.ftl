@@ -15,3 +15,4 @@ pw-change-success-title = Camudóse con esitu la contraseña
 pw-change-failed-title = Falló'l cambéu de contraseña
 pw-remove-button =
     .label = Desaniciar
+set-password-meter-loading = Cargando
