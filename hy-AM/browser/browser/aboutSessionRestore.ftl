@@ -17,6 +17,7 @@ restore-page-list-header =
 ## The following strings are used in about:welcomeback
 
 welcome-back-tab-title = Պատրաստ է
+welcome-back-page-title = Պատրաստ է
 welcome-back-page-info = { -brand-short-name }-ը պատրաստ է:
 welcome-back-restore-button =
     .label = Առա՛ջ
