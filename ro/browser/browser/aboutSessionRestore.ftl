@@ -15,6 +15,8 @@ restore-page-show-tabs = Vezi filele anterioare
 # Variables:
 #    $windowNumber: Progressive number associated to each window
 restore-page-window-label = Fereastra { $windowNumber }
+restore-page-restore-header =
+    .label = Restaurează
 restore-page-list-header =
     .label = Ferestre și file
 restore-page-try-again-button =
@@ -28,6 +30,10 @@ restore-page-close-button =
 
 welcome-back-tab-title = Succes!
 welcome-back-page-title = Succes!
+welcome-back-page-info = { -brand-short-name } este pregătit de funcționare.
 welcome-back-restore-button =
     .label = Să începem!
     .accesskey = S
+welcome-back-restore-all-label = Restaurează toate ferestrele și filele
+welcome-back-restore-some-label = Restaurează numai pe cele care le dorești
+welcome-back-page-info-link = Suplimentele și personalizările au fost eliminate, iar setările browserului au fost retaurate la cele implicite. Dacă aceasta nu ți-a rezolvat problema, <a data-l10n-name="link-more">află mai multe despre ce poți face.</a>
