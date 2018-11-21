@@ -22,4 +22,5 @@ welcome-back-page-info = { -brand-short-name } जाने के लिए त
 welcome-back-restore-button =
     .label = चलिए चलते हैं!
     .accesskey = L
+welcome-back-restore-all-label = सभी विंडो और टैब को पुरानी स्थिति में लाएँ
 welcome-back-restore-some-label = अपने चाहते को पुनर्स्थापित करें
