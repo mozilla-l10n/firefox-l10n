@@ -231,6 +231,9 @@ update-application-use-service=
 update-enable-search-update=
   .label=Automatyczne aktualizacje wyszukiwarek
   .accesskey=z
+update-pref-write-failure-title=Błąd zapisu
+update-pref-write-failure-message=Nie udało się zapisać ustawienia. Nie można było zapisać pliku: { $path }
+
 performance-title=Wydajność
 performance-use-recommended-settings-checkbox=
   .label=Zalecane ustawienia wydajności.
