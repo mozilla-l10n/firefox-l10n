@@ -35,3 +35,16 @@ policy-DisablePrivateBrowsing = Desactiva a navegación privada.
 policy-DisableProfileImport = Desactiva o comando do menú para importar datos dende outro navegador.
 policy-DisableProfileRefresh = Desactiva o botón de Refrescar { -brand-short-name } na páxina about:support.
 policy-DisableSystemAddonUpdate = Evita que o navegador instale e actualice complementos do sistema.
+policy-DisableTelemetry = Desactivar a telemetría.
+policy-DisplayBookmarksToolbar = Amosa a barra de ferramentas de marcadores de forma predeterminada.
+policy-DisplayMenuBar = Amosar a barra de menú de forma predeterminada.
+policy-DNSOverHTTPS = Permite configurar o DNS baixo HTTPS.
+policy-DontCheckDefaultBrowser = Desactiva a comprobación do navegador predeterminado no inicio.
+policy-FlashPlugin = Permite ou denega o uso do engadido Flash.
+policy-HardwareAcceleration = Se é falso, desactiva a aceleración por hardware.
+# “lock” means that the user won’t be able to change this setting
+policy-Homepage = Estabelece e opcionalmente bloquea a páxina de inicio.
+policy-InstallAddonsPermission = Permite que certos sitios web instalen complementos.
+policy-Proxy = Configura os axustes do proxy.
+# For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
+policy-SecurityDevices = Permite instalar os módulos PKCS #11.
