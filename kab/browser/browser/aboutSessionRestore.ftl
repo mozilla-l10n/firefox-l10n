@@ -7,6 +7,7 @@ restore-page-tab-title = Tiririt n tɣimit{ " " }
 # and regret that we are unable to restore the session for the user
 restore-page-error-title = Nesḥassef. Nesɛa uguren akken ad d-nerr asebter-inek.
 restore-page-problem-desc = Nesɛa uguren akken ad d-nerr tiɣimit-inek n tunigin taneggarut. Fren err-d tiɣimit akken ad neɛreḍ tikkelt-nniḍen.
+restore-page-try-this = Ur tezmireḍ ara ad d-terreḍ tiɣimit-ik? Tikwal iccer igellu-d s wugur-agi. Wali accaren yezrin, kkes tacreḍt n rrcem seg waccaren ur tesriḍ ara ad d-terreḍ, sakin err-d.
 restore-page-hide-tabs = Ffer accaren yezrin
 restore-page-show-tabs = Sken accaren yezrin
 # When tabs are distributed across multiple windows, this message is used as a
@@ -17,6 +18,8 @@ restore-page-show-tabs = Sken accaren yezrin
 restore-page-window-label = Asfaylu { $windowNumber }
 restore-page-restore-header =
     .label = Err-it-id
+restore-page-list-header =
+    .label = Isfuyla d waccaren
 restore-page-try-again-button =
     .label = Err-d tiɣimit
     .accesskey = R
@@ -34,3 +37,4 @@ welcome-back-restore-button =
     .accesskey = L
 welcome-back-restore-all-label = Err-d akk isfuyla & d waccaren
 welcome-back-restore-some-label = Fren ayen tebɣiḍ ad d-terreḍ
+welcome-back-page-info-link = Aggan akked izegrar-inek ttwakksen, iɣewwaren n yiminig-inek uɣalen ɣer wazalen-nsen amezwer. Ma yella ugur-inek ur yefri-ara, tzemreḍ <a data-l10n-name="link-more">issin ugar ɣef wayen i tzemreḍ ad tgeḍ.</a>
