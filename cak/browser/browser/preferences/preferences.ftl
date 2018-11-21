@@ -710,6 +710,7 @@ content-blocking-all-windows-trackers = Ojqanela' etaman kiwäch pa ronojel tzuw
 content-blocking-all-third-party-cookies = Ronojel kikuki aj rox winäq
 content-blocking-warning-title = ¡Tak'axäx!
 content-blocking-warning-desc = Ri kiq'atik taq kuki chuqa' taq ojqanela' nitikïr nub'än chi jujun taq ajk'amaya'l ruxaq itzel yesamäj. Man kayew ta richin nachüp ri kiq'atik taq ruxaq akuqub'an ak'u'x chi kij.
+content-blocking-learn-how = Tetamäx achike rub'eyal
 content-blocking-tracking-protection-trackers-label =
     .label = Ojqanela'
     .accesskey = O
@@ -745,6 +746,9 @@ content-blocking-reject-trackers-block-trackers-option =
 content-blocking-reject-trackers-all-third-parties-option =
     .label = Ronojel kikaxlanwäy aj rox winäq (yetikïr yekib'än sachoj pan ajk'amaya'l ruxaq)
     .accesskey = R
+content-blocking-cookies-label =
+    .label = Taq kuki
+    .accesskey = k
 
 ## Privacy Section - Tracking
 
@@ -766,6 +770,9 @@ tracking-exceptions =
 tracking-change-block-list =
     .label = Tijal Rucholajem q'atoj…
     .accesskey = T
+tracking-manage-exceptions =
+    .label = Kenuk'samajïx taq Man Relik Ta...
+    .accesskey = x
 
 ## Privacy Section - Permissions
 
