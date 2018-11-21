@@ -15,3 +15,4 @@ pw-change-success-title = Пароль паспяхова зменены
 pw-change-failed-title = Няўдача змены пароля
 pw-remove-button =
     .label = Выдаліць
+set-password-reenter-password = Увядзіце новы пароль ізноў:
