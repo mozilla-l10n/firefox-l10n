@@ -9,6 +9,8 @@ restore-page-tab-title = Rejesha Kikao
 # Variables:
 #    $windowNumber: Progressive number associated to each window
 restore-page-window-label = Dirisha { $windowNumber }
+restore-page-restore-header =
+    .label = Rejesha
 restore-page-list-header =
     .label = Dirisha na Vichupo
 
