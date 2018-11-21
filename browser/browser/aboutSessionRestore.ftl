@@ -16,3 +16,11 @@ restore-page-list-header =
 
 ## The following strings are used in about:welcomeback
 
+welcome-back-tab-title = ಯಶಸ್ವಿಯಾಗಿದೆ!
+welcome-back-page-title = ಯಶಸ್ವಿಯಾಗಿದೆ!
+welcome-back-page-info = { -brand-short-name } ನಿಮ್ಮ ಬಳಕೆಗೆ ಸಿದ್ಧವಿದೆ.
+welcome-back-restore-button =
+    .label = ಬನ್ನಿ ಹೋಗೋಣ!
+    .accesskey = L
+welcome-back-restore-all-label = ಎಲ್ಲಾ ಕಿಟಕಿಗಳನ್ನು ಹಾಗು ಟ್ಯಾಬ್‌ಗಳನ್ನು ಪುನಃಸ್ಥಾಪಿಸು
+welcome-back-restore-some-label = ನಿಮಗೆ ಬೇಕಾದವುಗಳನ್ನು ಮಾತ್ರ ಪುನಃಸ್ಥಾಪಿಸಿ
