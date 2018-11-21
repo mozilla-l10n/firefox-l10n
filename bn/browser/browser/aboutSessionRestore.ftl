@@ -16,3 +16,11 @@ restore-page-list-header =
 
 ## The following strings are used in about:welcomeback
 
+welcome-back-tab-title = সফল!
+welcome-back-page-title = সফল!
+welcome-back-page-info = { -brand-short-name } ব্যবহারের জন্য তৈরি।
+welcome-back-restore-button =
+    .label = চলুন যাওয়া যাক!
+    .accesskey = L
+welcome-back-restore-all-label = সব উইন্ডো ও ট্যাব পুনরুদ্ধার করুন
+welcome-back-restore-some-label = শুধু আপনি যা চাইছেন সেটাই কেবল পুনরুদ্ধার করুন
