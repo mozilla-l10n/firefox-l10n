@@ -9,6 +9,12 @@ restore-page-tab-title = Tiririt n tɣimit{ " " }
 # Variables:
 #    $windowNumber: Progressive number associated to each window
 restore-page-window-label = Asfaylu { $windowNumber }
+restore-page-try-again-button =
+    .label = Err-d tiɣimit
+    .accesskey = R
+restore-page-close-button =
+    .label = Senker tiɣimit tamaynut
+    .accesskey = N
 
 ## The following strings are used in about:welcomeback
 
