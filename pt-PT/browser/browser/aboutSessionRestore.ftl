@@ -37,3 +37,4 @@ welcome-back-restore-button =
     .accesskey = l
 welcome-back-restore-all-label = Restaurar todas as janelas e separadores
 welcome-back-restore-some-label = Restaurar apenas aqueles que quiser
+welcome-back-page-info-link = Os seus extras e personalizações foram removidos e as definições do seu navegador foram restauradas para as suas predefinições. Se isto não corrigiu o seu problema, <a data-l10n-name="link-more">saiba mais sobre o que pode fazer.</a>
