@@ -31,3 +31,4 @@ welcome-back-restore-button =
     .accesskey = L
 welcome-back-restore-all-label = सर्व पटल आणि टॅब पूर्वस्थितीत आणा
 welcome-back-restore-some-label = आपल्याला हवे असेल तेच पूर्वस्थितीत आणा
+welcome-back-page-info-link = आपले ॲड-ऑन्स् आणि कस्टमायझेशन्स काढले गेले आहे आणि आपले ब्राऊझर सेटिंग्स त्यांच्या मूळ सेटिंग्स ला पूर्ववत करण्यात आली आहेत. जर याच्यामुळे आपली समस्या सुटली नसेल तर, <a data-l10n-name="link-more">जाणा आपण आणखी काय करु शकता.</a>
