@@ -13,6 +13,7 @@
 <!ENTITY continue2.label "Mehr…">
 <!ENTITY moreInformation.label "Weitere Informationen">
 
+<!ENTITY viewCertificate.label "Zertifikat anzeigen">
 
 <!-- Specific error messages -->
 

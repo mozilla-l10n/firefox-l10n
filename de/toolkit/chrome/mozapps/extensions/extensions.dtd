@@ -5,6 +5,7 @@
 
 <!ENTITY search.placeholder2                  "Auf addons.mozilla.org suchen">
 
+<!ENTITY search.placeholder3                  "Auf addons.mozilla.org suchen">
 <!ENTITY search.buttonlabel                   "Suchen">
 <!-- LOCALIZATION NOTE (search.commandkey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
@@ -84,6 +85,7 @@
 <!ENTITY cmd.preferencesUnix.label            "Einstellungen">
 <!ENTITY cmd.preferencesUnix.accesskey        "E">
 
+<!-- addon actions -->
 <!ENTITY cmd.enableAddon.label                "Aktivieren">
 <!ENTITY cmd.enableAddon.accesskey            "A">
 <!ENTITY cmd.disableAddon.label               "Deaktivieren">
@@ -164,6 +166,8 @@ einige der besten und populärsten Add-ons zum Ausprobieren anbieten.">
 
 <!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "Pause">
+
+<!-- download/install progress -->
 <!ENTITY progress.cancel.tooltip              "Abbrechen">
 
 <!ENTITY addon.homepage                       "Homepage">
