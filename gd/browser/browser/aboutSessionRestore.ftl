@@ -9,8 +9,19 @@ restore-page-tab-title = Aisig an seisean
 # Variables:
 #    $windowNumber: Progressive number associated to each window
 restore-page-window-label = Uinneag { $windowNumber }
+restore-page-restore-header =
+    .label = Aisig
 restore-page-list-header =
     .label = Uinneagan is tabaichean
 
 ## The following strings are used in about:welcomeback
 
+welcome-back-tab-title = Shoirbheas!
+welcome-back-page-title = Soirbheas!
+welcome-back-page-info = Tha { -brand-short-name } deiseil is deònach.
+welcome-back-restore-button =
+    .label = Tiugainn!
+    .accesskey = L
+welcome-back-restore-all-label = Aisig gach uinneag ⁊ taba
+welcome-back-restore-some-label = Na aisig ach an fheadhainn a tha a dhìth ort
+welcome-back-page-info-link = Chaidh na tuilleadain ’s na gnàthachaidhean agad a thoirt air falbh ’s chaidh gach bun-roghainn a thilleadh sa bhrabhsair agad. Mur an cuir seo ceart an duilgheadas, <a data-l10n-name="link-more">faigh fiosrachadh air rudan eile as urrainn dhut feuchainn.</a>
