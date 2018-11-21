@@ -2,8 +2,26 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+restore-page-tab-title = بازیابی نشست
+# When tabs are distributed across multiple windows, this message is used as a
+# header above the group of tabs for each window.
+#
+# Variables:
+#    $windowNumber: Progressive number associated to each window
+restore-page-window-label = پنجره { $windowNumber }
+restore-page-restore-header =
+    .label = بازگرداندن
 restore-page-list-header =
     .label = پنجره‌ها و زبانه‌ها
 
 ## The following strings are used in about:welcomeback
 
+welcome-back-tab-title = با موفقیت انجام شد!
+welcome-back-page-title = با موفقیت انجام شد!
+welcome-back-page-info = { -brand-short-name } آماده شروع است.
+welcome-back-restore-button =
+    .label = بزن بریم!
+    .accesskey = L
+welcome-back-restore-all-label = & برگرداندن تمام پنجره‌ها و زبانه‌ها
+welcome-back-restore-some-label = تنها‌ مواردی که من می‌خواهم بازگردانده شود
+welcome-back-page-info-link = افزودنی‌ها و شخصی‌سازی‌های شما حذف شده‌اند و تنظیمات مروگر شما دوباره به حالت پیش‌فرض برگشته است. اگر این مشکل شما را حل نکرد، <a data-l10n-name="link-more">در مورد کارهایی که میتوانید انجام دهید بیشتر بدانید.</a>
