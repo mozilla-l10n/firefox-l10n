@@ -1017,7 +1017,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.fastBlock.add.label "Blokowanje přidać…">
 
 <!ENTITY contentBlocking.trackingProtection2.label "Wšě wotkryte přesćěhowaki">
+
 <!ENTITY contentBlocking.trackingProtection3.label "Přesćěhowaki">
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.allowed.label):
+     This label signals that this type of content blocking is turned
+     OFF and is not blocking tracker content, so this is not
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Trackers [are] Allowed"-->
+<!ENTITY contentBlocking.trackingProtection.allowed.label "Dowoleny">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking tracker content, so this is
@@ -1053,6 +1060,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.3rdPartyCookies.add.label "Blokowanje přidać…">
+
+<!ENTITY contentBlocking.manageSettings.label "Blokowanje wobsaha rjadować">
+<!ENTITY contentBlocking.manageSettings.accesskey "B">
+
+<!ENTITY contentBlocking.trackersView.label "Přesćěhowaki">
+<!ENTITY contentBlocking.trackersView.strictInfo.label "Zo byšće wšě přesćěhowaki blokował, stajće blokowanje wobsaha na “Striktny”.">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Problem zdźělić">
 <!ENTITY contentBlocking.breakageReportView.label "Problemy zdźělić">

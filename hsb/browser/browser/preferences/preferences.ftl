@@ -708,6 +708,15 @@ content-blocking-setting-custom =
     .label = Swójski
     .accesskey = S
 content-blocking-standard-desc = Wurunany za škit a wukon. Dowoluje někotre přesćěhowaki, zo bychu websydła porjadnje fungowali.
+content-blocking-strict-desc = Blokuje wšě pčesćěhowaki, kotrež { -brand-short-name } namaka. Tohodla njemóhli někotre websydła korektnje fungować.
+content-blocking-custom-desc = Wubjerće, štož chceće blokować.
+content-blocking-private-trackers = Znate přeścěhowaki jenož w priwatnych woknach
+content-blocking-third-party-cookies = Slědowace placki třećich
+content-blocking-all-windows-trackers = Znate přesćěhowaki we wšěch woknach
+content-blocking-all-third-party-cookies = Wšě placki třećich
+content-blocking-warning-title = Kedźbu!
+content-blocking-warning-desc = Hdyž placki a přesćěhowaki blokujeće, njemóhli někotre websydła korektnje fungować. Je lochko, blokowanje sydłow, kotrymž dowěrjeće, znjemóžnić.
+content-blocking-learn-how = Zhońće kak
 content-blocking-tracking-protection-trackers-label =
     .label = Přesćěhowaki
     .accesskey = P
@@ -743,6 +752,9 @@ content-blocking-reject-trackers-block-trackers-option =
 content-blocking-reject-trackers-all-third-parties-option =
     .label = Wšě placki třećich (móže zawinować, zo websydła njefunguja)
     .accesskey = t
+content-blocking-cookies-label =
+    .label = Placki
+    .accesskey = P
 
 ## Privacy Section - Tracking
 
@@ -764,6 +776,9 @@ tracking-exceptions =
 tracking-change-block-list =
     .label = Blokowansku lisćinu změnić…
     .accesskey = z
+tracking-manage-exceptions =
+    .label = Wuwzaća rjadować…
+    .accesskey = u
 
 ## Privacy Section - Permissions
 
