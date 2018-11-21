@@ -15,7 +15,19 @@ findbar-highlight-all =
     .label = Realzar todo
     .accesskey = a
     .tooltiptext = Realzar todas as aparicións da frase
+findbar-highlight-all2 =
+    .label = Realzar todo
+    .accesskey =
+        { PLATFORM() ->
+            [macos] l
+           *[other] a
+        }
+    .tooltiptext = Realzar todas as aparicións da frase
 findbar-case-sensitive =
     .label = Diferenciar maiúsculas de minúsculas
     .accesskey = c
     .tooltiptext = Diferencias maiúsculas de minúsculas na busca
+findbar-entire-word =
+    .label = Palabras completas
+    .accesskey = P
+    .tooltiptext = Busca só palabras completas
