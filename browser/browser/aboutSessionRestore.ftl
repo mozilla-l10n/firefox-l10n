@@ -3,6 +3,13 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restore-page-tab-title = Відновити сеанс
+# The title is intended to be apologetic and disarming, expressing dismay
+# and regret that we are unable to restore the session for the user
+restore-page-error-title = Вибачте. Нам не вдається відновити ваші сторінки.
+restore-page-problem-desc = Нам не вдається відновити ваш останній сеанс перегляду. Оберіть "Відновити сеанс", щоб спробувати знову.
+restore-page-try-this = Досі не вдається відновити сеанс? Інколи причиною є одна вкладка. Перегляньте попередні вкладки, приберіть позначки з тих, що вам не потрібні, і спробуйте відновити ще раз.
+restore-page-hide-tabs = Приховати попередні вкладки
+restore-page-show-tabs = Показати попередні вкладки
 # When tabs are distributed across multiple windows, this message is used as a
 # header above the group of tabs for each window.
 #
@@ -16,3 +23,12 @@ restore-page-list-header =
 
 ## The following strings are used in about:welcomeback
 
+welcome-back-tab-title = Успішно!
+welcome-back-page-title = Успішно!
+welcome-back-page-info = { -brand-short-name } готовий почати.
+welcome-back-restore-button =
+    .label = Вперед!
+    .accesskey = В
+welcome-back-restore-all-label = Відновити всі вікна і вкладки
+welcome-back-restore-some-label = Відновити лише деякі
+welcome-back-page-info-link = Ваші додатки і пристосування було вилучено, а налаштування браузера відновлено до типових значень. Якщо це не вирішило вашу проблему, <a data-l10n-name="link-more">дізнайтесь більше, що можна зробити.</a>
