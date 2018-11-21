@@ -3,7 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 password-not-set=
-    .value=(nieustawione)
+  .value=(nieustawione)
+
 failed-pw-change=Nie można zmienić hasła głównego.
 incorrect-pw=Nie podano właściwego hasła głównego. Proszę spróbować ponownie.
 pw-change-ok=Hasło główne zostało zmienione.
@@ -12,12 +13,12 @@ pw-erased-ok=Usunięto hasło główne. { pw-empty-warning }
 pw-not-wanted=Uwaga! Hasło główne nie będzie używane. { pw-empty-warning }
 pw-change2empty-in-fips-mode=Program pracuje obecnie w trybie FIPS. Tryb FIPS wymaga niepustego hasła głównego.
 pw-change-success-title=Hasło zostało zmienione
-pw-change-failed-title=Nie udało się zmienić hasła
+pw-change-failed-title=Nieudana próba zmiany hasła
 pw-remove-button=
-    .label=Usuń
+  .label=Usuń
 
 set-password=
-    .title=Zmiana hasła głównego
+  .title=Zmiana hasła głównego
 
 set-password-old-password=Bieżące hasło:
 set-password-new-password=Wprowadź nowe hasło:
@@ -29,10 +30,10 @@ master-password-description=Hasło główne jest stosowane do ochrony prywatnych
 master-password-warning=Hasło główne należy zapamiętać. Jeśli je zapomnisz, stracisz dostęp do wszystkich informacji nim chronionych.
 
 remove-password=
-    .title=Usuń hasło główne
+  .title=Usuwanie hasła głównego
 remove-info=
-    .value=Wprowadź bieżące hasło, aby kontynuować:
+  .value=Podaj bieżące hasło, aby kontynuować.
 remove-warning1=Hasło główne jest stosowane do ochrony prywatnych informacji, takich jak hasła do witryn.
 remove-warning2=Usunięcie hasła głównego sprawi, że informacje te nie będą chronione w przypadku naruszenia bezpieczeństwa komputera użytkownika.
 remove-password-old-password=
-    .value=Bieżące hasło:
+  .value=Bieżące hasło:
