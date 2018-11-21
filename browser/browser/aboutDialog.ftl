@@ -22,7 +22,7 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } vegn actualisà d'in
 update-manual = Actualisaziuns disponiblas sin <label data-l10n-name="manual-link"/>
 update-unsupported = Sin quest sistem na pon naginas actualisaziuns vegnir exequidas pli. <label data-l10n-name="unsupported-link">Dapli infurmaziuns</label>
 update-restarting = Reaviar…
-channel-description = Ti retschaivas actualmain las actualisaziuns dal chanal <label data-l10n-name="current-channel"></label>.{ " " }
+channel-description = Ti retschaivas actualmain las actualisaziuns dal chanal <label data-l10n-name="current-channel"></label>.
 warningDesc-version = { -brand-short-name } è experimental e pudess esser instabel.
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> è ina <label data-l10n-name="community-exp-creditsLink">communitad globala</label> che lavura communablamain per che l'internet resta avert, public ed accessibel a tuts.
 community-2 = { -brand-short-name } vegn sviluppà da <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, ina <label data-l10n-name="community-creditsLink">communitad globala</label> che lavura communablamain per che l'internet resta avert, public ed accessibel a tuts.
