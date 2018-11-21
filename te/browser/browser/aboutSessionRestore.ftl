@@ -20,6 +20,12 @@ restore-page-restore-header =
     .label = పునరుద్ధరించు
 restore-page-list-header =
     .label = విండోలూ ట్యాబులూ
+restore-page-try-again-button =
+    .label = సెషన్ను పునరుద్ధరించు
+    .accesskey = R
+restore-page-close-button =
+    .label = కొత్త సెషన్ ప్రారంభించండి
+    .accesskey = N
 
 ## The following strings are used in about:welcomeback
 
