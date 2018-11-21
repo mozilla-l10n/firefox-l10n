@@ -3,6 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restore-page-tab-title = Restore Session
+# When tabs are distributed across multiple windows, this message is used as a
+# header above the group of tabs for each window.
+#
+# Variables:
+#    $windowNumber: Progressive number associated to each window
+restore-page-window-label = Window { $windowNumber }
 restore-page-restore-header =
     .label = Restore
 restore-page-list-header =
