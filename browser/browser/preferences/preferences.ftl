@@ -651,6 +651,9 @@ sitedata-cookies-exceptions =
 # in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
 # Cookies and Site Data section.
 sitedata-warning-your-settings-prevent-changes = Вашы налады блакавання змесціва не дазваляюць змяняць налады для кукаў і дадзеных сайтаў.
+sitedata-cookies-permissions =
+    .label = Кіраваць дазволамі...
+    .accesskey = з
 
 ## Privacy Section - Address Bar
 
