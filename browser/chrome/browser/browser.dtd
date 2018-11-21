@@ -349,7 +349,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideBookmarksToolbar.label         "Masquer la barre personnelle">
 <!ENTITY searchBookmarks.label              "Rechercher dans les marque-pages">
 <!ENTITY bookmarkingTools.label             "Outils de marque-pages">
-<!ENTITY addBookmarksMenu.label             "Ajouter le menu à la barre personnelle">
+<!ENTITY addBookmarksMenu.label             "Ajouter le menu à la barre d’outils">
 <!ENTITY removeBookmarksMenu.label          "Retirer le menu de la barre personnelle">
 
 <!-- LOCALIZATION NOTE (bookmarksGtkCmd.commandkey): This command
