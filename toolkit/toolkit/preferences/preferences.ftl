@@ -15,3 +15,4 @@ pw-change-success-title = Go fetoša Lentšuphetišo go Atlegile
 pw-change-failed-title = Go fetoša Lentšuphetišo go Paletšwe
 pw-remove-button =
     .label = Tloša
+set-password-reenter-password = Tsenya lentšuphetišo gape:
