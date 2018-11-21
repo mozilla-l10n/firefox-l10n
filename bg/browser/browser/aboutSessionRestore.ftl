@@ -11,6 +11,8 @@ restore-page-tab-title = Възстановяване на сесия
 restore-page-window-label = Прозорец №{ $windowNumber }
 restore-page-restore-header =
     .label = Възстановяване
+restore-page-list-header =
+    .label = Прозорци и раздели
 
 ## The following strings are used in about:welcomeback
 
