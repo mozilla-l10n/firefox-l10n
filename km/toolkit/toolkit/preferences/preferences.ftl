@@ -15,3 +15,4 @@ pw-change-success-title = បាន​ទទួល​ជោគជ័យ​ក្
 pw-change-failed-title = បាន​បរាជ័យ​ក្នុង​ការ​ផ្លាស់ប្ដូរ​ពាក្យសម្ងាត់
 pw-remove-button =
     .label = យកចេញ
+set-password-reenter-password = បញ្ចូល​ពាក្យ​សម្ងាត់​ម្ដង​ទៀត ៖
