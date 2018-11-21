@@ -15,3 +15,4 @@ pw-change-success-title = पासवर्ड बदल यशस्वी
 pw-change-failed-title = पासवर्ड बदल अपयशी
 pw-remove-button =
     .label = काढुन टाका
+set-password-meter-loading = दाखल करीत आहे
