@@ -22,6 +22,7 @@ onboarding-private-browsing-text = Navegue vostede só. A navegación privada co
 onboarding-screenshots-title = Capturas de pantalla
 onboarding-screenshots-text = Faga, garde e comparta as capturas de pantalla sen saír do { -brand-short-name }. Capture unha zona ou toda a páxina mentres navega. Despois gárdea na web para acceder a ela e compartila facilmente.
 onboarding-addons-title = Complementos
+onboarding-addons-text = Engada aínda máis características que fagan que { -brand-short-name } faga máis por vostede. Compare prezos, comprobe o tempo ou exprese a súa personalidade cun tema personalizado.
 onboarding-ghostery-title = Ghostery
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Sincronizar
