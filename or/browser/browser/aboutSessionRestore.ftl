@@ -3,6 +3,16 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restore-page-tab-title = ଅଧିବେଶନକୁ ପୁନଃସ୍ଥାପନ କରନ୍ତୁ
+# When tabs are distributed across multiple windows, this message is used as a
+# header above the group of tabs for each window.
+#
+# Variables:
+#    $windowNumber: Progressive number associated to each window
+restore-page-window-label = ୱିଣ୍ଡୋ { $windowNumber }
+restore-page-restore-header =
+    .label = ପୁନଃସ୍ଥାପନ କରନ୍ତୁ
+restore-page-list-header =
+    .label = ୱିଣ୍ଡୋ ଏବଂ ଟ୍ୟାବଗୁଡ଼ିକ
 
 ## The following strings are used in about:welcomeback
 
