@@ -10,6 +10,12 @@ restore-page-problem-desc = យើង​មាន​បញ្ហា​ក្ន�
 restore-page-try-this = នៅតែ​មិន​អាច​ស្ដារ​សម័យ​របស់​អ្នក​បាន? ពេល​ខ្លះ​វា​អាច​បញ្ហា​ដោយសារ​ផ្ទាំង​មួយ។ មើល​ផ្ទាំង​ពីមុន ដោះ​សញ្ញា​ធីក​ចំណាំ​ចេញពី​ផ្ទាំង​ដែល​អ្នក​មិន​ត្រូវការ​ដើម្បី​យក​មក​វិញ បន្ទាប់មក​ស្ដារ។
 restore-page-hide-tabs = លាក់​ផ្ទាំង​ពីមុន
 restore-page-show-tabs = មើល​ផ្ទាំង​ពីមុន
+# When tabs are distributed across multiple windows, this message is used as a
+# header above the group of tabs for each window.
+#
+# Variables:
+#    $windowNumber: Progressive number associated to each window
+restore-page-window-label = បង្អួច { $windowNumber }
 restore-page-restore-header =
     .label = ស្ដារ
 restore-page-try-again-button =
