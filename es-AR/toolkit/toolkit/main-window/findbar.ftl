@@ -22,7 +22,7 @@ findbar-highlight-all2 =
             [macos] l
            *[other] a
         }
-    .tooltiptext = Resaltar todas las ocurencias de la frase
+    .tooltiptext = Resaltar todas las ocurrencias de la frase
 findbar-case-sensitive =
     .label = Coincidir mayúsculas
     .accesskey = C
