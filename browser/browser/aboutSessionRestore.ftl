@@ -17,3 +17,10 @@ restore-page-list-header =
 
 ## The following strings are used in about:welcomeback
 
+welcome-back-tab-title = Sukses!
+welcome-back-page-title = Sukses!
+welcome-back-page-info = { -brand-short-name } siap bertugas.
+welcome-back-restore-button =
+    .label = Mulai!
+    .accesskey = M
+welcome-back-page-info-link = Pengaya dan pengubahsuaian Anda telah dibuang dan setelan peramban Anda telah dipulihkan ke setelan bawaan. Jika masalahnya masih belum teratasi, <a data-l10n-name="link-more">pelajari lebih lanjut apa yang dapat Anda lakukan berikutnya.</a>
