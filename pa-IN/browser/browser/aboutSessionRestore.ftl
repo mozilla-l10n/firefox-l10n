@@ -8,6 +8,15 @@
 # Variables:
 #    $windowNumber: Progressive number associated to each window
 restore-page-window-label = ਵਿੰਡੋ { $windowNumber }
+restore-page-list-header =
+    .label = ਵਿੰਡੋ ਤੇ ਟੈਬਾਂ
 
 ## The following strings are used in about:welcomeback
 
+welcome-back-tab-title = ਕਾਮਯਾਬ!
+welcome-back-page-title = ਕਾਮਯਾਬ!
+welcome-back-page-info = { -brand-short-name } ਤਿਆਰ ਹੈ।
+welcome-back-restore-button =
+    .label = ਆਓ ਚੱਲੀਏ!
+    .accesskey = L
+welcome-back-page-info-link = ਤੁਹਾਡੇ ਐਡ-ਆਨ ਤੇ ਕਸਟਮਾਈਜ਼ੇਸ਼ਨ ਨੂੰ ਹਟਾਇਆ ਜਾ ਚੁੱਕਿਆ ਹੈ ਤੇ ਤੁਹਾਡੇ ਬਰਾਊਜ਼ਰ ਸੈਟਿੰਗ ਨੂੰ ਉਹਨਾਂ ਦੇ ਮੂਲ ਲਈ ਮੁੜ-ਸਟੋਰ ਕੀਤਾ ਜਾ ਚੁੱਕਾ ਹੈ। ਜੇ ਇਸ ਨਾਲ ਤੁਹਾਡਾ ਮਸਲਾ ਠੀਕ ਨਹੀਂ ਹੋਇਆ ਤਾਂ <a data-l10n-name="link-more">ਰਾਹੀਂ ਸਿੱਖੋ ਕਿ ਤੁਸੀਂ ਹੋਰ ਕੀ ਕਰ ਸਕਦੇ ਹੋ।</a>
