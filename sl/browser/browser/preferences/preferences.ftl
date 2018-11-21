@@ -654,6 +654,9 @@ sitedata-cookies-exceptions =
 # in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
 # Cookies and Site Data section.
 sitedata-warning-your-settings-prevent-changes = Vaše nastavitve zavračanja vsebine preprečujejo spremembe nastavitev piškotkov in podatkov strani.
+sitedata-cookies-permissions =
+    .label = Upravljanje dovoljenj ...
+    .accesskey = a
 
 ## Privacy Section - Address Bar
 
@@ -694,6 +697,22 @@ content-blocking-fastblock-slow-loading-trackers-label =
     .label = Počasne sledilce
     .accesskey = č
 content-blocking-fastblock-new-description = Zavračaj samo sledilce, ki upočasnjujejo nalaganje strani.
+content-blocking-setting-standard =
+    .label = Običajno
+    .accesskey = č
+content-blocking-setting-strict =
+    .label = Strogo
+    .accesskey = S
+content-blocking-setting-custom =
+    .label = Po meri
+    .accesskey = m
+content-blocking-strict-desc = Zavračaj vse sledilce, ki jih { -brand-short-name } zazna. Lahko povzroči nedelovanje nekaterih strani.
+content-blocking-custom-desc = Izberite, kaj želite zavračati.
+content-blocking-private-trackers = Znane sledilce samo v zasebnih oknih
+content-blocking-all-windows-trackers = Znane sledilce v vseh oknih
+content-blocking-all-third-party-cookies = Vse piškotke tretjih strani
+content-blocking-warning-title = Opozorilo!
+content-blocking-learn-how = Naučite se, kako
 content-blocking-tracking-protection-trackers-label =
     .label = Sledilce
     .accesskey = S
@@ -729,6 +748,9 @@ content-blocking-reject-trackers-block-trackers-option =
 content-blocking-reject-trackers-all-third-parties-option =
     .label = Vse piškotke tretjih strani (lahko povzroči nedelovanje spletnih strani)
     .accesskey = V
+content-blocking-cookies-label =
+    .label = Piškotke
+    .accesskey = š
 
 ## Privacy Section - Tracking
 
@@ -750,6 +772,9 @@ tracking-exceptions =
 tracking-change-block-list =
     .label = Zamenjaj seznam za zavračanje …
     .accesskey = a
+tracking-manage-exceptions =
+    .label = Upravljanje izjem ...
+    .accesskey = j
 
 ## Privacy Section - Permissions
 
