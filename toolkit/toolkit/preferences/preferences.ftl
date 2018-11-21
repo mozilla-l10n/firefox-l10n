@@ -15,3 +15,4 @@ pw-change-success-title = Cambio de contraseña correcto
 pw-change-failed-title = Falló el cambio de contraseña
 pw-remove-button =
     .label = Eliminar
+set-password-reenter-password = Confirmar contraseña:
