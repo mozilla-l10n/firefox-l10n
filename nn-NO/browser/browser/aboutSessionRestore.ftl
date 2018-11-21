@@ -3,6 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restore-page-tab-title = Bygg oppatt programøkta
+# The title is intended to be apologetic and disarming, expressing dismay
+# and regret that we are unable to restore the session for the user
+restore-page-error-title = Orsak. Vi har problem med å få sidene dine tilbake.
 restore-page-problem-desc = Vi har problem med å byggje oppatt den siste nettlesarøkta di. Vel Bygg oppatt programøkta for å prøve på nytt.
 restore-page-try-this = Kan du framleis ikkje byggje oppatt programøkta di? Nokre gongar er ei fane årsak til problemet. Sjå over tidlegare faner, fjern merket frå fanene du ikkje treng å byggje oppatt, og bygg oppatt deretter.
 restore-page-hide-tabs = Gøym tidlegare faner
