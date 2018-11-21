@@ -3,6 +3,13 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restore-page-tab-title = Adfer y Sesiwn
+# The title is intended to be apologetic and disarming, expressing dismay
+# and regret that we are unable to restore the session for the user
+restore-page-error-title = Ymddiheuriadau. Rydym yn cael anhawster adfer eich tudalennau.
+restore-page-problem-desc = Rydym yn cael anhawster adfer eich sesiwn pori diwethaf. Dewiswch Adfer Sesiwn er mwyn ceisio eto.
+restore-page-try-this = Dal dim yn gallu adfer eich sesiwn? Weithiau bydd tab yn achosi problem. Edrychwch ar dabiau blaenorol, tynnwch y marc ticio o'r tabiau does dim angen eu hadfer ac yna adfer.
+restore-page-hide-tabs = Cuddio'r Tabiau Blaenorol
+restore-page-show-tabs = Edrych ar Dabiau Blaenorol
 # When tabs are distributed across multiple windows, this message is used as a
 # header above the group of tabs for each window.
 #
@@ -13,6 +20,12 @@ restore-page-restore-header =
     .label = Adfer
 restore-page-list-header =
     .label = Ffenestri a Thabiau
+restore-page-try-again-button =
+    .label = Adfer Sesiwn
+    .accesskey = A
+restore-page-close-button =
+    .label = Cychwyn Sesiwn Newydd
+    .accesskey = N
 
 ## The following strings are used in about:welcomeback
 
