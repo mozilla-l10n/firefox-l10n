@@ -654,6 +654,9 @@ sitedata-cookies-exceptions =
 # in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
 # Cookies and Site Data section.
 sitedata-warning-your-settings-prevent-changes = Waše nastajenja blokowanja wobsaha změnam na nastajenjach plackow a sydłowych datow zadźěwa.
+sitedata-cookies-permissions =
+    .label = Prawa rjadować…
+    .accesskey = P
 
 ## Privacy Section - Address Bar
 
@@ -674,6 +677,7 @@ addressbar-suggestions-settings = Nastajenja za namjety pytawy změnić
 
 content-blocking-header = Blokowanje wobsaha
 content-blocking-desc = Blokujće wobsah třećich poskićowarjow kaž wabjenje abo kod, kotryž móže waše přehladowanje spomalić a was přez web přesćěhować. Přiměrće swoje nastajenja za najlěpšu balansu mjez škitom a wukonom.
+content-blocking-description = Blokujće wobsah třećich, kotryž wam po webje slěduje. Kontrolujće, kak husto so waša aktiwita online składuje a mjez websydłami dźěli.
 content-blocking-learn-more = Dalše informacije
 content-blocking-restore-defaults =
     .label = Standard wobnowić
@@ -694,6 +698,16 @@ content-blocking-fastblock-slow-loading-trackers-label =
     .label = Pomału čitace přesćěhowaki
     .accesskey = P
 content-blocking-fastblock-new-description = Jenož přesćěhowaki blokować, kotrež strony při spěšnym začitanju haća.
+content-blocking-setting-standard =
+    .label = Standard
+    .accesskey = d
+content-blocking-setting-strict =
+    .label = Striktny
+    .accesskey = r
+content-blocking-setting-custom =
+    .label = Swójski
+    .accesskey = S
+content-blocking-standard-desc = Wurunany za škit a wukon. Dowoluje někotre přesćěhowaki, zo bychu websydła porjadnje fungowali.
 content-blocking-tracking-protection-trackers-label =
     .label = Přesćěhowaki
     .accesskey = P
