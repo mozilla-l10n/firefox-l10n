@@ -4,6 +4,7 @@
 
 crash-reports-title = ক্র্যাশ রিপোর্ট
 clear-all-reports-label = সব প্রতিবেদন অপসারণ
+delete-button-label = সব পরিষ্কার
 delete-confirm-title = আপনি কি নিশ্চিত?
 delete-confirm-description = এটি সব প্রতিবেদন মুছে দেবে এবং পরে আর ফেরত পাওয়া যাবে না।
 crashes-unsubmitted-label = জমা না দেয়া ক্র্যাশ প্রতিবেদনসমূহ
