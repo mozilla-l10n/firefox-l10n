@@ -5,6 +5,12 @@
 restore-page-tab-title = سیشن بحال کریں
 restore-page-hide-tabs = پچھلا ٹیب چھپائیں
 restore-page-show-tabs = پچھلا ٹیب دیکھیں
+# When tabs are distributed across multiple windows, this message is used as a
+# header above the group of tabs for each window.
+#
+# Variables:
+#    $windowNumber: Progressive number associated to each window
+restore-page-window-label = ونڈوں { $windowNumber }
 restore-page-restore-header =
     .label = بحال کریں
 restore-page-list-header =
