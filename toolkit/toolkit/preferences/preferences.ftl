@@ -15,3 +15,4 @@ pw-change-success-title = Ukuguqulwa Kwegama Lokugqithisa Kuphumelele
 pw-change-failed-title = Ukuguqulwa Kwegama Lokugqithisa Akuphumelelanga
 pw-remove-button =
     .label = Susa
+set-password-reenter-password = Phinda ungenise igama lokugqithisa:
