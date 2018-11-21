@@ -15,6 +15,12 @@ restore-page-restore-header =
     .label = पूर्वावस्थामा ल्याउनुहोस्
 restore-page-list-header =
     .label = सञ्झ्याल तथा ट्याबहरू
+restore-page-try-again-button =
+    .label = सत्रलाई पूर्वावस्थामा ल्याउनुहोस्
+    .accesskey = R
+restore-page-close-button =
+    .label = नयाँ सत्र सुरु गर्नुहोस्
+    .accesskey = N
 
 ## The following strings are used in about:welcomeback
 
