@@ -15,3 +15,4 @@ pw-change-success-title = 已成功變更密碼
 pw-change-failed-title = 密碼變更失敗
 pw-remove-button =
     .label = 移除
+set-password-reenter-password = 重新輸入密碼:
