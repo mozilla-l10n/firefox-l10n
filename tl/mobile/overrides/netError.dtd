@@ -200,3 +200,5 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> gumagamit ng teknolohiya ng seguridad na lipas na sa panahon at mahina ang pag-atake. Ang isang magsasalakay ay madaling maipakita ang impormasyon na inisip mong ligtas. Kailangan ng administrator ng website na ayusin ang server muna bago mo mabisita ang site.</p><p>Error code: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+<!ENTITY networkProtocolError.title "Network Protocol Error">

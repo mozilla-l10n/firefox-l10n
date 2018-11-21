@@ -291,6 +291,17 @@
      Similar to the already existing "pref_whats_new_notification_summary"-->
 <!ENTITY pref_feature_tips_notification_summary "Alamin ang tungkol sa paggamit ng &brandShortName; at iba pang produkto ng &vendorShortName;">
 
+<!-- Localization note (pref_feature_tips_notification_enabling_hint):
+     Describe the action the user should do to enable this preference
+     Will be used in the context "<Turn on> ... to enable this feature" -->
+<!ENTITY pref_feature_tips_notification_enabling_hint "i-On">
+
+<!-- Localization note (pref_feature_tips_notification_enabling_path):
+     Nothing to translate. Simple concatenation of already localized strings. Result is used below. -->
+<!ENTITY pref_feature_tips_notification_enabling_path "&pref_category_privacy_short; > &pref_category_datareporting; > &datareporting_fhr_title;">
+<!-- Localization note (pref_feature_tips_notification_enabling_hint):
+     Describe the action the user should do to enable this preference. -->
+
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
 <!ENTITY pref_category_experimental "Mga pang-eksperimentong tampok">
@@ -363,7 +374,6 @@
 <!ENTITY pref_use_system_font_size_summary "Scale web content ayon sa laki ng font ng system">
 
 <!ENTITY pref_media_autoplay_enabled "Payagan ang autoplay">
-<!ENTITY pref_media_autoplay_enabled_summary "Kontrolin kung maaaring i-autoplay ng mga website ang mga video at iba pang nilalaman ng media">
 <!ENTITY pref_media_autoplay_allow "Payagan ang autoplay">
 <!ENTITY pref_media_autoplay_block "I-block ang autoplay">
 <!ENTITY pref_zoom_force_enabled "Laging paganahin ang pag-zoom">
@@ -831,9 +841,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE(corrupt_apk): This notification is shown if corruption has been detected on startup and the user has to reinstall Firefox -->
 <!ENTITY corrupt_apk "Hindi mabuksan at &brandShortName;. Paki-install muli at subukang muli.">
 
-<!ENTITY eol_notification_title2 "&brandShortName; ay hindi na i-update">
-<!ENTITY eol_notification_summary "I-tap para matuto ng higit pa">
-
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "&brandShortName; napapanahon">
@@ -900,10 +907,17 @@ Picture-in-picture mini window -->
 
 <!-- Notification channels names -->
 <!ENTITY default_notification_channel "&brandShortName;">
+
+<!-- Notification channels names -->
+<!ENTITY default_notification_channel2 "Browser">
 <!ENTITY mls_notification_channel "&vendorShortName; Serbisyo ng Lokasyon">
 <!ENTITY download_notification_channel "Mga pag-download">
 <!ENTITY media_notification_channel "Pag-playback ng media">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel "&brandShortName; Mga push notification">
+<!ENTITY media_notification_channel2 "Tunog at video">
+<!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY updater_notification_channel "Mga update ng app">
 <!ENTITY synced_tabs_notification_channel "Mga naka-sync na tab">
+<!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
+web sites through the HTML Notifications API. -->
