@@ -3,6 +3,13 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restore-page-tab-title = Artin Naatal
+# The title is intended to be apologetic and disarming, expressing dismay
+# and regret that we are unable to restore the session for the user
+restore-page-error-title = Ay haame. A min ngondi e caɗeele heɓtude kelle maa.
+restore-page-problem-desc = A min njogii caɗeele artirde naatal maa banngagol cakkitiingal. Suɓo Artir naatal ngal ngam ennditde.
+restore-page-try-this = Haa hannde a waawaa artirde naatal maa ? Heen sahaaji cegenel ina waawi addude saɗeende ndee. Hollit cegenon caggal kon, momtaa maantal cegenon kon a soklaani artirde kon, caggal ɗuum ngartiraa kon.
+restore-page-hide-tabs = Suuɗ cegenon caggal kon
+restore-page-show-tabs = Hollit cegenon ɓennukon kon
 # When tabs are distributed across multiple windows, this message is used as a
 # header above the group of tabs for each window.
 #
@@ -13,6 +20,12 @@ restore-page-restore-header =
     .label = Artir
 restore-page-list-header =
     .label = Kenorɗe e Tabbe
+restore-page-try-again-button =
+    .label = Artir naatannde
+    .accesskey = R
+restore-page-close-button =
+    .label = Fuɗɗo naatal kesal
+    .accesskey = N
 
 ## The following strings are used in about:welcomeback
 
