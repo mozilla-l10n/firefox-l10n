@@ -15,3 +15,7 @@ pw-change-success-title = Wachtwurdwiziging suksesfol
 pw-change-failed-title = Wachtwurdwiziging mislearre
 pw-remove-button =
     .label = Fourtsmite
+set-password-new-password = Nij wachtwurd ynfiere:
+set-password-meter = Wachtwurdkwaliteitsmeter
+remove-password =
+    .title = Haadwachtwurd fuortsmite
