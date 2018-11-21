@@ -8,6 +8,8 @@ restore-page-tab-title = Pulihkan Sesi
 restore-page-error-title = Maaf. Kami kesulitan mendapatkan kembali laman Anda.
 restore-page-problem-desc = Kami kesulitan memulihkan sesi penjelajahan terakhir Anda. Pilih Pulihkan Sesi untuk mencoba lagi.
 restore-page-try-this = Masih tidak bisa memulihkan sesi Anda? Kadang tab adalah penyebabnya. Lihat tab sebelumnya, hapus centang dari tab yang tidak Anda perlukan, dan kemudian pulihkan.
+restore-page-hide-tabs = Sembunyikan Tab Sebelumnya
+restore-page-show-tabs = Lihat Tab Sebelumnya
 # When tabs are distributed across multiple windows, this message is used as a
 # header above the group of tabs for each window.
 #
