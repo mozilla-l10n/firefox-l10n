@@ -20,6 +20,12 @@ restore-page-restore-header =
     .label = Відновити
 restore-page-list-header =
     .label = Вікна та вкладки
+restore-page-try-again-button =
+    .label = Відновити сеанс
+    .accesskey = В
+restore-page-close-button =
+    .label = Почати новий сеанс
+    .accesskey = н
 
 ## The following strings are used in about:welcomeback
 
