@@ -15,3 +15,4 @@ pw-change-success-title = Šennikufal barmay ka boori
 pw-change-failed-title = Šennikufal mana barmay ka boori
 pw-remove-button =
     .label = Kaa
+set-password-reenter-password = Šennikufal dam taaga:
