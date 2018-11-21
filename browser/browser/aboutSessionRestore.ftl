@@ -3,6 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restore-page-tab-title = Endurheimta vafralotu
+# The title is intended to be apologetic and disarming, expressing dismay
+# and regret that we are unable to restore the session for the user
+restore-page-error-title = Því miður erum við í smá vandræðum með að ná í síðurnar aftur.
+restore-page-problem-desc = Vandræði eru við að endurheimta seinustu lotu. Veldu endurheimta vafralotu til að reyna aftur.
 # When tabs are distributed across multiple windows, this message is used as a
 # header above the group of tabs for each window.
 #
@@ -13,6 +17,12 @@ restore-page-restore-header =
     .label = Endurheimta
 restore-page-list-header =
     .label = Gluggar og flipar
+restore-page-try-again-button =
+    .label = Endurheimta vafralotu
+    .accesskey = R
+restore-page-close-button =
+    .label = Byrja nýja lotu
+    .accesskey = N
 
 ## The following strings are used in about:welcomeback
 
