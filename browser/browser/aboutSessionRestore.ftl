@@ -7,3 +7,5 @@ restore-page-list-header =
 
 ## The following strings are used in about:welcomeback
 
+welcome-back-tab-title = Berjaya!
+welcome-back-page-title = Berjaya!
