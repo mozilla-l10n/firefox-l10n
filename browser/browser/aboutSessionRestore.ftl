@@ -16,3 +16,10 @@ restore-page-list-header =
 
 ## The following strings are used in about:welcomeback
 
+welcome-back-tab-title = Success!
+welcome-back-page-title = Success!
+welcome-back-page-info = { -brand-short-name } is ready to go.
+welcome-back-restore-button =
+    .label = Let’s go!
+    .accesskey = L
+welcome-back-restore-some-label = Restore only the ones you want
