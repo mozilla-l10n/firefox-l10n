@@ -15,3 +15,4 @@ pw-change-success-title = Guherandina Nasnavê bi ser ket
 pw-change-failed-title = Guherandina Nasnavê bi ser neket
 pw-remove-button =
     .label = Rake
+set-password-reenter-password = nasnavê nû dîsa têkevê:
