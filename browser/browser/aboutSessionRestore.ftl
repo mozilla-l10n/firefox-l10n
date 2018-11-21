@@ -3,7 +3,13 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restore-page-tab-title = Restaurar sessão
+# The title is intended to be apologetic and disarming, expressing dismay
+# and regret that we are unable to restore the session for the user
+restore-page-error-title = Desculpe, estamos tendo problemas ao restaurar suas páginas.
 restore-page-problem-desc = Estamos tendo problemas para restaurar a sua última sessão. Selecione Restaurar Sessão para tentar novamente.
+restore-page-try-this = Ainda não conseguiu restaurar sua sessão? Às vezes uma aba pode estar causando o problema. Veja as abas que estavam abertas, desmarque as abas que você não precisa recuperar e depois restaure.
+restore-page-hide-tabs = Ocultar abas anteriores
+restore-page-show-tabs = Exibir abas anteriores
 # When tabs are distributed across multiple windows, this message is used as a
 # header above the group of tabs for each window.
 #
