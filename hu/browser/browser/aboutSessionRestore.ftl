@@ -8,3 +8,5 @@ restore-page-list-header =
 
 ## The following strings are used in about:welcomeback
 
+welcome-back-tab-title = Sikerült!
+welcome-back-page-info = A { -brand-short-name } készen áll.
