@@ -13,3 +13,9 @@ restore-page-restore-header =
 
 ## The following strings are used in about:welcomeback
 
+welcome-back-tab-title = Поспех!
+welcome-back-page-title = Поспех!
+welcome-back-page-info = { -brand-short-name } гатовы.
+welcome-back-restore-button =
+    .label = Пачнём!
+    .accesskey = П
