@@ -23,6 +23,7 @@ set-password-reenter-password = Tijikib'äx ewan tzij:
 set-password-meter = Retanel rutzil ri ewan tzij
 set-password-meter-loading = Tajin nijote'
 master-password-description = Jun rute' ewan tzij nokisäx richin nichajïx ri jeb'ël na'oj achi'el ewan taq rutzij ruxaq k'amaya'l.  We nanük' jun rute' ewan atzij, junelïk xtatz'ib'aj qa jumul pa jujun molojri'ïl toq { -brand-short-name } nuköl ri na'oj chajin ruma re ewan tzij re'.
+master-password-warning = Jantape' tanataj ri Ajtij Ewan Tzij xatz'ib'aj.  We xtamestaj, man xkatikïr ta chik xkatok chi kipam ri na'oj eruchajin.
 remove-password =
     .title = Tiyuj nimaläj ewan tzij
 remove-info =
