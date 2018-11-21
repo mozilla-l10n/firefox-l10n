@@ -14,3 +14,4 @@ pw-change-success-title = Phetolo ya Khunololamoraba e atlegile
 pw-change-failed-title = Phetolo ya Khunololamoraba e retetse
 pw-remove-button =
     .label = Tlosa
+set-password-reenter-password = Tsenya khunulolamoraba gape:
