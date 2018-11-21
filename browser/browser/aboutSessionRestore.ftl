@@ -30,4 +30,5 @@ welcome-back-restore-button =
     .label = వెళ్దాం పద!
     .accesskey = L
 welcome-back-restore-all-label = అన్ని విండోలను, ట్యాబులను పునరుద్ధరించు
+welcome-back-restore-some-label = మీకు కావలసిన వాటిని మాత్రమే పునరుద్ధరించండి
 welcome-back-page-info-link = మీ పొడిగింతలు, అభిమత కూర్పులు తీసివేయబడినవి, విహారిణి అమర్పులు వాటి అప్రమేయాలకు పునరుద్ధరించబడ్డాయి. ఇది మీ సమస్యను పరిష్కరించకపోతే, <a data-l10n-name="link-more">మీరు ఇంకా ఏమి చేయవచ్చో తెలుసుకోండి.</a>
