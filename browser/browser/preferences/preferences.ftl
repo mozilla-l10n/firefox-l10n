@@ -671,6 +671,7 @@ addressbar-suggestions-settings = Alterar preferências das sugestões do mecani
 
 content-blocking-header = Bloqueio de conteúdo
 content-blocking-desc = Bloqueie conteúdo de terceiros, como propaganda ou código que podem tornar sua navegação mais lenta e rastreá-lo através da Web. Personalize suas configurações para uma proteção e desempenho balanceados.
+content-blocking-description = Bloqueie conteúdo de terceiros que rastreia você pela web. Controle o quanto de suas atividades online é armazenado e compartilhado entre sites.
 content-blocking-learn-more = Saiba mais
 content-blocking-restore-defaults =
     .label = Restaurar padrões
@@ -695,8 +696,8 @@ content-blocking-setting-standard =
     .label = Padrão
     .accesskey = d
 content-blocking-setting-strict =
-    .label = Estrito
-    .accesskey = r
+    .label = Rigoroso
+    .accesskey = R
 content-blocking-setting-custom =
     .label = Personalizado
     .accesskey = z
@@ -769,6 +770,9 @@ tracking-exceptions =
 tracking-change-block-list =
     .label = Alterar Lista de Bloqueios…
     .accesskey = B
+tracking-manage-exceptions =
+    .label = Gerenciar exceções…
+    .accesskey = x
 
 ## Privacy Section - Permissions
 
