@@ -7,6 +7,7 @@ restore-page-tab-title = بازیابی نشست
 # and regret that we are unable to restore the session for the user
 restore-page-error-title = متاسفیم. برای برگرداندن صفحه‌های شما مشکل داریم.
 restore-page-problem-desc = برای بازیابی آخرین نشست مرورگر شما مشکل داریم. با انتخاب بازیابی نشست دوباره امتحان کنید.
+restore-page-try-this = هنوز قادر به برگرداندن نشست خود نیستید؟ گاهی اوقات یک زبانه منجر به این اشکال می‌شود. زبانه‌های قبلی را مشاهده کنید،‌ تیک زبانه‌هایی که نیاز به برگرداندن ندارند را بردارید و بعد بازیابی کنید.
 restore-page-hide-tabs = پنهان کردن زبانه های قبلی
 restore-page-show-tabs = دیدن زبانه‌های قبلی
 # When tabs are distributed across multiple windows, this message is used as a
