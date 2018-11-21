@@ -3,6 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restore-page-tab-title = Враќање на сесија
+# The title is intended to be apologetic and disarming, expressing dismay
+# and regret that we are unable to restore the session for the user
+restore-page-error-title = Извинете. Имаме проблеми со враќањето на вашите страници.
 # When tabs are distributed across multiple windows, this message is used as a
 # header above the group of tabs for each window.
 #
