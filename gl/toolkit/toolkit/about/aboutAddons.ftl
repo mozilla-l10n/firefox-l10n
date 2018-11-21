@@ -4,6 +4,9 @@
 
 addons-window =
     .title = Xestor de complementos
+search-header =
+    .placeholder = Buscar en addons.mozilla.org
+    .searchbuttonlabel = Buscar
 search-header-shortcut =
     .key = f
 loading-label =
@@ -21,6 +24,12 @@ list-empty-button =
 install-addon-from-file =
     .label = Instalar complemento desde o ficheiro…
     .accesskey = I
+help-button = Asistencia dos módulos
+preferences =
+    { PLATFORM() ->
+        [windows] Opcións de { -brand-short-name }
+       *[other] Preferencias de { -brand-short-name }
+    }
 tools-menu =
     .tooltiptext = Ferramentas para todos os complementos
 show-unsigned-extensions-button =
@@ -116,6 +125,11 @@ disabled-unsigned-heading =
 disabled-unsigned-description = Os seguintes complementos non se comprobaron para o seu uso en { -brand-short-name }. Pode <label data-l10n-name="find-addons">atopar substitutos</label> ou pedirlle ao desenvolvedor que consiga que sexan verificados.
 disabled-unsigned-learn-more = Obteña máis información sobre os nosos esforzos para axudalo a manterse seguro en liña.
 disabled-unsigned-devinfo = Os desenvolvedores interesados en conseguir que os seus complementos sexa verificados poden continuar lendo o noso <label data-l10n-name="learn-more">manual</label>.
+plugin-deprecation-description = Bota en falta algo? Algúns engadidos xa non son compatíbeis co { -brand-short-name }. <label data-l10n-name="learn-more">Máis información.</label>
+legacy-warning-show-legacy = Amosar as extensións herdadas
+legacy-extensions =
+    .value = Extensións herdadas
+legacy-extensions-description = Estas extensións non cumpren os estándares actuais de { -brand-short-name }, así que foron desactivadas. <label data-l10n-name="legacy-learn-more">Máis información sobre os cambios nos complementos</label>
 extensions-view-discover =
     .name = Obter complementos
     .tooltiptext = { extensions-view-discover.name }
