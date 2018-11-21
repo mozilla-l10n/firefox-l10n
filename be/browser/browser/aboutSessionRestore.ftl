@@ -8,6 +8,8 @@ restore-page-tab-title = Аднаўленне сеанса
 restore-page-error-title = Выбачайце. Ніяк не выходзіць вярнуць вашы старонкі.
 restore-page-problem-desc = Не ўдаецца аднавіць ваш апошні сеанс аглядання. Выберыце Аднавіць сеанс і паспрабуйце ізноў.
 restore-page-try-this = Не ўдаецца ўзнавіць ваш сеанс? Часам пэўная картка можа быць праблемай. Гляньце папярэднія карткі, прыміце пазнакі з тых з іх, якія не трэба вяртаць, і ўзнаўляйце.
+restore-page-hide-tabs = Схаваць папярэднія карткі
+restore-page-show-tabs = Паказаць папярэднія карткі
 # When tabs are distributed across multiple windows, this message is used as a
 # header above the group of tabs for each window.
 #
