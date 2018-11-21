@@ -15,3 +15,4 @@ pw-change-success-title = Schimbarea parolei a reușit
 pw-change-failed-title = Schimbarea parolei a eșuat
 pw-remove-button =
     .label = Elimină
+set-password-meter-loading = Încărcare
