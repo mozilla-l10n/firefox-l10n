@@ -18,3 +18,6 @@ restore-page-list-header =
 
 welcome-back-tab-title = Επιτυχία!
 welcome-back-page-title = Επιτυχία!
+welcome-back-restore-button =
+    .label = Φύγαμε!
+    .accesskey = Φ
