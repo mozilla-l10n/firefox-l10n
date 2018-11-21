@@ -654,6 +654,9 @@ sitedata-cookies-exceptions =
 # in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
 # Cookies and Site Data section.
 sitedata-warning-your-settings-prevent-changes = Tha na roghainnean agad san earrann “Bacadh susbaint” a’ bacadh atharraichean air roghainnean nam briosgaidean is dàta làraichean.
+sitedata-cookies-permissions =
+    .label = Stiùirich na ceadan…
+    .accesskey = S
 
 ## Privacy Section - Address Bar
 
@@ -694,6 +697,15 @@ content-blocking-fastblock-slow-loading-trackers-label =
     .label = Tracaichean a tha slaodach ’gan luchdadh
     .accesskey = s
 content-blocking-fastblock-new-description = Bac dìreach na tracaichean a chuireadh maille air luchdadh dhuilleagan.
+content-blocking-setting-standard =
+    .label = Stannardach
+    .accesskey = d
+content-blocking-setting-strict =
+    .label = Teann
+    .accesskey = n
+content-blocking-setting-custom =
+    .label = Gnàthaichte
+    .accesskey = G
 content-blocking-tracking-protection-trackers-label =
     .label = Tracaichean
     .accesskey = T
