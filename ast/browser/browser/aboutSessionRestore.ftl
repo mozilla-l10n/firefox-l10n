@@ -22,8 +22,12 @@ restore-page-close-button =
 
 ## The following strings are used in about:welcomeback
 
+welcome-back-tab-title = ¡Ésitu!
+welcome-back-page-title = ¡Ésitu!
+welcome-back-page-info = { -brand-short-name } ta preparáu pa siguir.
 welcome-back-restore-button =
     .label = ¡Vamos!
     .accesskey = g
 welcome-back-restore-all-label = Restaurar toles ventanes y llingüetes
 welcome-back-restore-some-label = Restaurar namái les que quies
+welcome-back-page-info-link = Desaniciáronse los complementos y personalizaciones amás de reafitar los axustes de restolar. Si esto nun igua'l to problema, <a data-l10n-name="link-more">deprendi más tocante a lo que pues facer.</a>
