@@ -15,3 +15,4 @@ pw-change-success-title = نجح تغيير كلمة السر
 pw-change-failed-title = فشل تغيير كلمة السر
 pw-remove-button =
     .label = احذف
+set-password-reenter-password = أعد إدخال كلمة السرّ:
