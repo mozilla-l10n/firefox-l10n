@@ -691,6 +691,20 @@ content-blocking-fastblock-slow-loading-trackers-label =
     .label = Марудныя элементы сачэння
     .accesskey = ы
 content-blocking-fastblock-new-description = Блакаваць толькі тыя трэкеры, што замінаюць хуткай загрузцы старонак.
+content-blocking-setting-standard =
+    .label = Стандартна
+    .accesskey = т
+content-blocking-setting-strict =
+    .label = Строга
+    .accesskey = о
+content-blocking-setting-custom =
+    .label = Адмыслова
+    .accesskey = с
+content-blocking-custom-desc = Выберыце, што блакаваць.
+content-blocking-private-trackers = Вядомыя трэкеры толькі ў прыватных вокнах
+content-blocking-all-third-party-cookies = Усе кукі трэцяга боку
+content-blocking-warning-title = Увага!
+content-blocking-learn-how = Даведацца, як
 content-blocking-tracking-protection-trackers-label =
     .label = Трэкеры
     .accesskey = е
@@ -726,6 +740,9 @@ content-blocking-reject-trackers-block-trackers-option =
 content-blocking-reject-trackers-all-third-parties-option =
     .label = Усе кукі трэцяга боку (можа парушыць працу вэб-сайтаў)
     .accesskey = У
+content-blocking-cookies-label =
+    .label = Кукі
+    .accesskey = К
 
 ## Privacy Section - Tracking
 
