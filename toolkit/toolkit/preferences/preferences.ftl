@@ -26,6 +26,7 @@ remove-password =
     .title = Supression del senhal principal
 remove-info =
     .value = Vos cal picar vòstre senhal principal actual per contunhar :
+remove-warning1 = Vòstre senhal principal es utilizat per protegir d'entresenhas sensiblas coma lo senhals utilizats suls sites.
 remove-warning2 = Se suprimissètz vòstre senhal principal, vòstras informacions seràn pas protegidas se vòstre ordenador es compromés.
 remove-password-old-password =
     .value = Senhal actual :
