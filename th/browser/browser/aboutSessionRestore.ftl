@@ -3,6 +3,11 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restore-page-tab-title = เรียกคืนวาระ
+# The title is intended to be apologetic and disarming, expressing dismay
+# and regret that we are unable to restore the session for the user
+restore-page-error-title = ขออภัย เรามีปัญหาในการนำหน้าต่าง ๆ ของคุณกลับมา
+restore-page-problem-desc = เรามีปัญหาในการเรียกคืนวาระการท่องเว็บครั้งล่าสุดของคุณ ให้เลือก เรียกคืนวาระ เพื่อลองอีกครั้ง
+restore-page-try-this = ยังไม่สามารถเรียกคืนวาระของคุณได้งั้นหรือ? บางครั้งอาจมีบางแท็บที่กำลังก่อให้เกิดปัญหา ดูแท็บก่อนหน้า, เอาเครื่องหมายออกจากแท็บที่คุณไม่ต้องการเรียกคืน แล้วลองเรียกคืนใหม่
 restore-page-hide-tabs = ซ่อนแท็บก่อนหน้า
 restore-page-show-tabs = ดูแท็บก่อนหน้า
 # When tabs are distributed across multiple windows, this message is used as a
