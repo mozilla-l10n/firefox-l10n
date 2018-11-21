@@ -15,3 +15,4 @@ pw-change-success-title = Woetumi asesa wo ehintasɛmfua-papa no
 pw-change-failed-title = Woentumi ansesa wo ehintasɛmfua-papa no
 pw-remove-button =
     .label = Yi
+set-password-reenter-password = San-bɔ ehintasɛmfua:
