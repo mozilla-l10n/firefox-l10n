@@ -11,6 +11,13 @@ restore-page-tab-title = Restaurar sessão
 restore-page-window-label = Janela { $windowNumber }
 restore-page-restore-header =
     .label = Restaurar
+restore-page-list-header =
+    .label = Janelas e abas
 
 ## The following strings are used in about:welcomeback
 
+welcome-back-tab-title = Sucesso!
+welcome-back-page-title = Sucesso!
+welcome-back-restore-button =
+    .label = Vamos!
+    .accesskey = V
