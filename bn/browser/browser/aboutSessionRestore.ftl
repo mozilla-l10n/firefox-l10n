@@ -13,6 +13,12 @@ restore-page-restore-header =
     .label = পুনরুদ্ধার
 restore-page-list-header =
     .label = উইন্ডো এবং ট্যাব
+restore-page-try-again-button =
+    .label = সেশন পুনরুদ্ধার
+    .accesskey = R
+restore-page-close-button =
+    .label = নতুন সেশন শুরু করুন
+    .accesskey = N
 
 ## The following strings are used in about:welcomeback
 
