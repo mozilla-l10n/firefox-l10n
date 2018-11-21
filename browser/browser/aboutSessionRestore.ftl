@@ -8,6 +8,8 @@ restore-page-tab-title = Επαναφορά συνεδρίας
 restore-page-error-title = Συγγνώμη. Έχουμε πρόβλημα στην επαναφορά των σελίδων σας.
 restore-page-problem-desc = Αντιμετωπίζουμε προβλήματα με την επαναφορά της τελευταίας σας συνεδρίας περιήγησης. Επιλέξτε το "Επαναφορά συνεδρίας" για να δοκιμάσετε ξανά.
 restore-page-try-this = Δεν είστε ακόμα σε θέση να επαναφέρετε την συνεδρία σας; Μερικές φορές μια καρτέλα προκαλεί αυτό το πρόβλημα. Προβάλετε προηγούμενες καρτέλες, καταργήστε το σημάδι ελέγχου από τις καρτέλες που δεν χρειάζεται να ανακτήσετε και στη συνέχεια επαναφέρετε.
+restore-page-hide-tabs = Απόκρυψη προηγούμενων καρτελών
+restore-page-show-tabs = Προβολή προηγούμενων καρτελών
 # When tabs are distributed across multiple windows, this message is used as a
 # header above the group of tabs for each window.
 #
