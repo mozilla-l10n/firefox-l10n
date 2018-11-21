@@ -636,6 +636,9 @@ sitedata-cookies-exceptions =
 # in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
 # Cookies and Site Data section.
 sitedata-warning-your-settings-prevent-changes = Tetapan dalam Sekatan Kandungan menghalang perubahan kepada Tetapan Kuki dan Data Laman.
+sitedata-cookies-permissions =
+    .label = Urus Keizinan
+    .accesskey = U
 
 ## Privacy Section - Address Bar
 
@@ -656,6 +659,7 @@ addressbar-suggestions-settings = Tukar keutamaan bagi cadangan enjin carian
 
 content-blocking-header = Sekatan Kandungan
 content-blocking-desc = Sekat kandungan pihak ketiga seperti iklan atau kod yang boleh melambatkan pelayaran dan menjejaki anda di seluruh web. Sesuaikan tetapan untuk mendapatkan imbangan perlindungan dan prestasi yang terbaik.
+content-blocking-description = Sekat kandungan pihak ketiga yang menjejaki anda di seluruh web. Kawal bilangan aktiviti atas talian anda yang disimpan dan dikongsi di antara laman web.
 content-blocking-learn-more = Ketahui selanjutnya
 content-blocking-restore-defaults =
     .label = Pulih Piawai
@@ -676,6 +680,24 @@ content-blocking-fastblock-slow-loading-trackers-label =
     .label = Penjejak Pemuatan-Lambat
     .accesskey = L
 content-blocking-fastblock-new-description = Cuma sekat penjejak yang membuatkan halaman tidak dimuatkan dengan cepat.
+content-blocking-setting-standard =
+    .label = Piawai
+    .accesskey = i
+content-blocking-setting-strict =
+    .label = Rapi
+    .accesskey = p
+content-blocking-setting-custom =
+    .label = Penyesuaian
+    .accesskey = P
+content-blocking-standard-desc = Seimbang untuk perlindungan dan prestasi. Mengizinkan beberapa penjejak supaya laman web berfungsi dengan betul.
+content-blocking-strict-desc = Sekat semua penjejak yang dikesan { -brand-short-name }. Boleh menyebabkan beberapa laman pecah.
+content-blocking-custom-desc = Pilih apa yang hendak disekat.
+content-blocking-private-trackers = Penjejak yang diketahui sahaja dalam Private Windows
+content-blocking-third-party-cookies = Kuki penjejakan pihak ketiga
+content-blocking-all-windows-trackers = Penjejak yang diketahui dalam semua tetingkap
+content-blocking-all-third-party-cookies = Semua kuki pihak ketiga
+content-blocking-warning-desc = Menyekat kuki dan penjejak boleh menyebabkan sesetengah laman web pecah. Sangat mudah untuk menyahaktifkan sekatan laman yang anda percayai.
+content-blocking-learn-how = Ketahui caranya
 content-blocking-tracking-protection-trackers-label =
     .label = Penjejak
     .accesskey = P
@@ -711,6 +733,9 @@ content-blocking-reject-trackers-block-trackers-option =
 content-blocking-reject-trackers-all-third-parties-option =
     .label = Semua kuki pihak ketiga (boleh menyebabkan laman web pecah)
     .accesskey = S
+content-blocking-cookies-label =
+    .label = Kuki
+    .accesskey = K
 
 ## Privacy Section - Tracking
 
@@ -732,6 +757,9 @@ tracking-exceptions =
 tracking-change-block-list =
     .label = Tukar Senarai Sekatan…
     .accesskey = T
+tracking-manage-exceptions =
+    .label = Urus Pengecualian ...
+    .accesskey = c
 
 ## Privacy Section - Permissions
 
