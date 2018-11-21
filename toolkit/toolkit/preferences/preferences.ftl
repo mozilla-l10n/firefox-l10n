@@ -15,3 +15,4 @@ pw-change-success-title = Parole sekmīgi nomainīta
 pw-change-failed-title = Neizdevās nomainīt paroli
 pw-remove-button =
     .label = Noņemt
+set-password-reenter-password = Vēlreiz ievadiet paroli:
