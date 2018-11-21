@@ -648,6 +648,9 @@ sitedata-cookies-exceptions =
 # in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
 # Cookies and Site Data section.
 sitedata-warning-your-settings-prevent-changes = IƔewwaren-inek/inem deg usewḥel n ugbur sewḥalen isnifal deg iƔewwaren n yinagan n tuqqna akked wid isefka.
+sitedata-cookies-permissions =
+    .label = Sefrek tisirag...
+    .accesskey = s
 
 ## Privacy Section - Address Bar
 
@@ -698,10 +701,13 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = Udmawan
     .accesskey = d
+content-blocking-strict-desc = Isewḥal akk ineḍfaren id-yettaf { -brand-short-name }. Kra n yesmal zemren ad ḥebsen.
 content-blocking-custom-desc = Fren ayen ara tesweḥleḍ.
 content-blocking-private-trackers = Ineḍfaren yettwasnen deg usfaylu uslig kan
 content-blocking-third-party-cookies = Inagan n tuqna n uḍfar n tɣawsiwin tis kraḍ
+content-blocking-all-windows-trackers = Ineḍfaren yettwasnen deg akk isfuyla
 content-blocking-all-third-party-cookies = Akk inagan n tuqqna n wis kraḍ
+content-blocking-warning-desc = Asewḥel n inagan n tuqqna akked ineḍfaren yezmer ad iseḥbes kra n yesmal web. Yeshel ad tekkseḍ asewḥel i yesmal tettamneḍ.
 content-blocking-learn-how = Issin amek
 content-blocking-tracking-protection-trackers-label =
     .label = Ineḍfaren
@@ -762,6 +768,9 @@ tracking-exceptions =
 tracking-change-block-list =
     .label = Snifel tabdart n usewḥel…
     .accesskey = D
+tracking-manage-exceptions =
+    .label = Sefrek tisuraf
+    .accesskey = t
 
 ## Privacy Section - Permissions
 

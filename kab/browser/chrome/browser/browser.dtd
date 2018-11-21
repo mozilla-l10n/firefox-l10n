@@ -1061,8 +1061,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.3rdPartyCookies.add.label "Asewḥel n udellel…">
 
+<!ENTITY contentBlocking.manageSettings.label "Sefrek Asewḥel n Ugbur">
 
 <!ENTITY contentBlocking.trackersView.label "Ineḍfaren">
+<!ENTITY contentBlocking.trackersView.strictInfo.label "Akken ad tesweḥleḍ akk ineḍfaren, sbadu asewḥel n ugbur ɣer “Uḥris”.">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Azen-d ugur">
 <!ENTITY contentBlocking.breakageReportView.label "Azen-d uguren">
