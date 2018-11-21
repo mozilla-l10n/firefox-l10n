@@ -16,3 +16,11 @@ restore-page-list-header =
 
 ## The following strings are used in about:welcomeback
 
+welcome-back-tab-title = সফল!
+welcome-back-page-title = সফল!
+welcome-back-page-info = { -brand-short-name } আৰম্ভ হবলৈ প্ৰস্তুত।
+welcome-back-restore-button =
+    .label = যাওঁ বোলক!
+    .accesskey = L
+welcome-back-restore-some-label = কেৱল আপুনি বিচৰাবোৰ পুনৰুদ্ধাৰ কৰক
+welcome-back-page-info-link = আপোনাৰ এড-অনসমূহ আৰু স্বনিৰ্বাচনসমূহক আতৰোৱা হৈছে আৰু আপোনাৰ ব্ৰাউছাৰৰ সংহতিসমূহক তাৰ অবিকল্পিতলৈ পুনৰুদ্ধাৰ কৰা হৈছে। যদি ই আপোনাৰ সমস্যাৰ সমাধান কৰা নাই, <a data-l10n-name="link-more">আপুনি কি কৰিব পাৰিব তাৰ বিষয়ে অধিক জানক।</a>
