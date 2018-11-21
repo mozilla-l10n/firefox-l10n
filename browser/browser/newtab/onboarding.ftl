@@ -18,6 +18,7 @@ onboarding-start-browsing-button-label = ចាប់​ផ្ដើម​រុ
 ## The string for the button is found above, in the UI strings section
 
 onboarding-private-browsing-title = ការ​រក​មើល​ឯកជន
+onboarding-screenshots-title = រូប​ថត​​អេក្រង់
 onboarding-addons-title = កម្មវិធី​បន្ថែម
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = ធ្វើ​សមកាលកម្ម

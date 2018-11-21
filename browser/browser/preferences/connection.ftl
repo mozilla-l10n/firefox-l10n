@@ -70,3 +70,12 @@ connection-proxy-socks-remote-dns =
 connection-dns-over-https =
     .label = បើកដំណើរការ DNS លើ HTTPS
     .accesskey = b
+connection-dns-over-https-url = URL
+    .accesskey = U
+    .tooltiptext = URL សម្រាប់​​ដោះស្រាយ DNS នៅ​លើ HTTPS
+# Variables:
+#   $url (String) - URL for the DNS over HTTPS provider
+connection-dns-over-https-url-default =
+    .label = ប្រើ​លំនាំដើម ({ $url })
+    .accesskey = U
+    .tooltiptext = ប្រើ URL លំនាំដើម​សម្រាប់​​​ដោះស្រាយ DNS នៅ​លើ HTTPS
