@@ -16,3 +16,10 @@ restore-page-list-header =
 
 ## The following strings are used in about:welcomeback
 
+welcome-back-tab-title = 成功！
+welcome-back-page-title = 成功！
+welcome-back-page-info = 已經準備好可以使用 { -brand-short-name }。
+welcome-back-restore-button =
+    .label = 出發吧！
+    .accesskey = L
+welcome-back-page-info-link = 已移除您的附加元件與自訂調整，並將瀏覽器設定恢復成預設值。若這樣還無法解決您的問題，<a data-l10n-name="link-more">瞭解您還可以做什麼。</a>
