@@ -3,6 +3,11 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restore-page-tab-title = সেশন পুনরুদ্ধার
+# The title is intended to be apologetic and disarming, expressing dismay
+# and regret that we are unable to restore the session for the user
+restore-page-error-title = দুঃখিত। আপনার পূর্বের পাতাগুলি ফিরিয়ে আনতে আমাদের সমস্যা হচ্ছে।
+restore-page-problem-desc = আপনার পূর্ববর্তী ব্রাউজিং সেশন ফিরিয়ে আনতে সমস্যা হচ্ছে। সেশন পুনরুদ্ধার নির্বাচন করে আবার চেষ্টা করুন।
+restore-page-try-this = এখনও আপনার সেশন পুনরুদ্ধার করতে পারেননি? মাঝেমধ্যে একটি মাত্র ট্যাব সমস্যার মূল কারণ হয়ে থাকে। পূর্ববর্তী ট্যাব গুলি দেখুন এবং যেগুলি আপনার পুনরুদ্ধার করার প্রয়োজন নেই সেগুলির পাশের টিক চিহ্ন উঠিয়ে দিয়ে পুনরুদ্ধার করুণ।
 # When tabs are distributed across multiple windows, this message is used as a
 # header above the group of tabs for each window.
 #
