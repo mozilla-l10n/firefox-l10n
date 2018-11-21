@@ -15,6 +15,14 @@ findbar-highlight-all =
     .label = সব হাইলাইট কর
     .accesskey = l
     .tooltiptext = সম্পূর্ণ বাক্য হাইলাইট কর
+findbar-highlight-all2 =
+    .label = সব হাইলাইট কর
+    .accesskey =
+        { PLATFORM() ->
+            [macos] l
+           *[other] a
+        }
+    .tooltiptext = এই বাক্যের সকল আবির্ভাব হাইলাইট কর
 findbar-case-sensitive =
     .label = অক্ষরের ছাঁদ মেলাও
     .accesskey = c

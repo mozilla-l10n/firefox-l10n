@@ -36,12 +36,13 @@
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "রানটাইম তথ্য">
 <!ENTITY runtimeMenu_showDetails_accesskey "E">
-<!ENTITY runtimeMenu_showMonitor_label "মনিটর">
-<!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "সাইট সংক্রান্ত পছন্দসমূহ">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
 <!ENTITY runtimeMenu_showSettings_label "ডিভাইস সেটিং">
 <!ENTITY runtimeMenu_showSettings_accesskey "s">
+
+<!ENTITY runtimeMenu_showPerformancePanel_label "কার্যকারিতা">
+<!ENTITY runtimeMenu_showPerformancePanel_accesskey "p">
 
 <!ENTITY viewMenu_label "প্রদর্শন">
 <!ENTITY viewMenu_accesskey "V">
@@ -146,10 +147,6 @@
 <!ENTITY devicesetting_newname "সেটিং এর নতুন নাম">
 <!ENTITY devicesetting_newtext "সেটিং এর মান">
 <!ENTITY devicesetting_addnew "নতুন সেটিং যোগ করুন">
-
-<!-- Monitor -->
-<!ENTITY monitor_title "মনিটর">
-<!ENTITY monitor_help "সাহায্য">
 
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog

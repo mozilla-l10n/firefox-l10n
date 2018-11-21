@@ -4,6 +4,9 @@
 
 addons-window =
     .title = অ্যাড-অন ব্যবস্থাপক
+search-header =
+    .placeholder = addons.mozilla.org এ অনুসন্ধান করুন
+    .searchbuttonlabel = অনুসন্ধান
 search-header-shortcut =
     .key = f
 loading-label =
@@ -21,6 +24,12 @@ list-empty-button =
 install-addon-from-file =
     .label = ফাইল থেকে অ্যাড-অন ইনস্টল… I
     .accesskey = I
+help-button = অ্যাড-অন সহযোগীতা
+preferences =
+    { PLATFORM() ->
+        [windows] { -brand-short-name } অপশন
+       *[other] { -brand-short-name } পছন্দসমূহ
+    }
 tools-menu =
     .tooltiptext = সব অ্যাড-অন এর জন্য টুল
 show-unsigned-extensions-button =

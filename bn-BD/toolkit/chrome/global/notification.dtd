@@ -10,3 +10,5 @@
 
 <!ENTITY defaultButton.label "ঠিক আছে!">
 <!ENTITY defaultButton.accesskey "O">
+
+<!ENTITY moreActionsButton.accessibleLabel "আরও অপশন">
