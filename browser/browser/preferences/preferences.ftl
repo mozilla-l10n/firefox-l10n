@@ -648,6 +648,9 @@ sitedata-cookies-exceptions =
 # in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
 # Cookies and Site Data section.
 sitedata-warning-your-settings-prevent-changes = Dina inställningar i innehållsblockering hindrar ändringar i inställningar för kakor och webbplatsdata.
+sitedata-cookies-permissions =
+    .label = Hantera tillåtelser...
+    .accesskey = t
 
 ## Privacy Section - Address Bar
 
@@ -668,6 +671,7 @@ addressbar-suggestions-settings = Ändra inställningar för förslag från sök
 
 content-blocking-header = Innehållsblockering
 content-blocking-desc = Blockera innehåll från tredje part, som annonser eller kod, som kan slöa ner din webbläsning och spåra dig på webben. Anpassa dina inställningar för bästa balans mellan skydd och prestanda.
+content-blocking-description = Blockera innehåll från tredje part som spårar dig på webben. Kontrollera hur mycket av din onlineaktivitet som lagras och delas mellan webbplatser.
 content-blocking-learn-more = Läs mer
 content-blocking-restore-defaults =
     .label = Återställ standard
