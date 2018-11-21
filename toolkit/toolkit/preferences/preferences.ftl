@@ -22,6 +22,7 @@ set-password-new-password = Új jelszó:
 set-password-reenter-password = Jelszó megerősítése:
 set-password-meter = Jelszó minősége
 set-password-meter-loading = Betöltés
+master-password-description = A mesterjelszó érzékeny adatok, például webhelyek belépési jelszavai védelmére használható. Ha létrehozza a mesterjelszót, akkor minden munkamenetben egyszer be kell írnia, amikor a { -brand-short-name } betölti a jelszóval védett mentett adatokat.
 master-password-warning = A mesterjelszót jól jegyezze meg. Ha elfelejti, nem fog tudni hozzáférni az általa védett adatokhoz.
 remove-password =
     .title = Mesterjelszó törlése
