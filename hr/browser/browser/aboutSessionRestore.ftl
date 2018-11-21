@@ -3,6 +3,13 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restore-page-tab-title = Obnovi sesiju
+# The title is intended to be apologetic and disarming, expressing dismay
+# and regret that we are unable to restore the session for the user
+restore-page-error-title = Žao nam je. Imamo poteškoća s vraćanjem vaših stranica.
+restore-page-problem-desc = Imamo poteškoća s vraćanjem vaše posljednje sesije pregledavanja. Odaberite Obnovi sesiju za ponovni pokušaj.
+restore-page-try-this = Još uvijek ne možete vratiti vašu sesiju? Ponekad je uzrok problema kartica. Pregledajte posljednje kartice, uklonite kvačicu s kartica koje ne trebate vratiti, i zatim obnovite.
+restore-page-hide-tabs = Sakrij prethodne kartice
+restore-page-show-tabs = Prikaži prethodne kartice
 # When tabs are distributed across multiple windows, this message is used as a
 # header above the group of tabs for each window.
 #
@@ -13,6 +20,12 @@ restore-page-restore-header =
     .label = Vrati
 restore-page-list-header =
     .label = Prozore i kartice
+restore-page-try-again-button =
+    .label = Obnovi sesiju
+    .accesskey = O
+restore-page-close-button =
+    .label = Započni novu sesiju
+    .accesskey = n
 
 ## The following strings are used in about:welcomeback
 
