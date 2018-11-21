@@ -18,6 +18,9 @@ restore-page-list-header =
 restore-page-try-again-button =
     .label = Restaurar sessão
     .accesskey = R
+restore-page-close-button =
+    .label = Iniciar nova sessão
+    .accesskey = n
 
 ## The following strings are used in about:welcomeback
 
