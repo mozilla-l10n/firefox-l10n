@@ -24,6 +24,7 @@ onboarding-screenshots-text = Faga, garde e comparta as capturas de pantalla sen
 onboarding-addons-title = Complementos
 onboarding-addons-text = Engada aínda máis características que fagan que { -brand-short-name } faga máis por vostede. Compare prezos, comprobe o tempo ou exprese a súa personalidade cun tema personalizado.
 onboarding-ghostery-title = Ghostery
+onboarding-ghostery-text = Navegue más rápido, de forma más intelixente ou máis segura con extensións como Ghostery, que lle permite bloquear os anuncios molestos.
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Sincronizar
 onboarding-fxa-text = Rexístrese para crear unha { -fxaccount-brand-name } e sincronice os marcadores, os contrasinais e as lapelas abertas en calquera lugar no que use { -brand-short-name }.
