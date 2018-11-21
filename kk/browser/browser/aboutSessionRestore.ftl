@@ -3,6 +3,13 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restore-page-tab-title = Сессияны қалпына келтіру
+# The title is intended to be apologetic and disarming, expressing dismay
+# and regret that we are unable to restore the session for the user
+restore-page-error-title = Кешіріңіз. Беттерді қалпына келтіру кезінде мәселелер орын алды.
+restore-page-problem-desc = Соңғы сессияны қалпына келтіруде мәселелер орын алды. Қайталап көру үшін, Сессияны қалпына келтіруді таңдаңыз.
+restore-page-try-this = Әлі де сессияны қалпына келтіре алмайсыз ба? Кейде бұл мәселе бір беттен болуы мүмкін. Алдыңғы беттерді қарап, керек емес беттерден белгілеуді алып тастап, қалпына келтіріңіз.
+restore-page-hide-tabs = Алдыңғы беттерді жасыру
+restore-page-show-tabs = Алдыңғы беттерді қарау
 # When tabs are distributed across multiple windows, this message is used as a
 # header above the group of tabs for each window.
 #
@@ -13,6 +20,12 @@ restore-page-restore-header =
     .label = Қалпына келтіру
 restore-page-list-header =
     .label = Терезелер мен беттер
+restore-page-try-again-button =
+    .label = Сессияны қалпына келтіру
+    .accesskey = п
+restore-page-close-button =
+    .label = Жаңа сессияны бастау
+    .accesskey = ж
 
 ## The following strings are used in about:welcomeback
 
