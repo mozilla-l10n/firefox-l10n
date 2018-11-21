@@ -3,6 +3,13 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restore-page-tab-title = Pósejźenje wótnowiś
+# The title is intended to be apologetic and disarming, expressing dismay
+# and regret that we are unable to restore the session for the user
+restore-page-error-title = Bóžko mamy problemy, waše boki slědk pśinjasć.
+restore-page-problem-desc = Mamy problemy, waše slědke pśeglědowańske pósejźenje wótnowiś. Wubjeŕśo Pósejźenje wótnowiś a wopytajśo hyšći raz.
+restore-page-try-this = Njamóžośo hyšći swójo pósejźenje wótnowiś? Wótergi rejtark problem zawinujo. Pśeglědajśo pjerwjejšne rrjtarki, wótwónoźćo kokulku z rejtarkow, kótarež njetrjebaśo wobchowaś, a wótnowśo pótom.
+restore-page-hide-tabs = Pjerwjejšne rejtarki schowaś
+restore-page-show-tabs = Pjerwjejšne rejtarki pokazaś
 # When tabs are distributed across multiple windows, this message is used as a
 # header above the group of tabs for each window.
 #
@@ -13,6 +20,12 @@ restore-page-restore-header =
     .label = Wótnowiś
 restore-page-list-header =
     .label = Wokna a rejtarki
+restore-page-try-again-button =
+    .label = Pósejźenje wótnowiś
+    .accesskey = P
+restore-page-close-button =
+    .label = Nowe pósejźenje zachopiś
+    .accesskey = N
 
 ## The following strings are used in about:welcomeback
 
