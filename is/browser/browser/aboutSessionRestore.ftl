@@ -7,6 +7,9 @@ restore-page-tab-title = Endurheimta vafralotu
 # and regret that we are unable to restore the session for the user
 restore-page-error-title = Því miður erum við í smá vandræðum með að ná í síðurnar aftur.
 restore-page-problem-desc = Vandræði eru við að endurheimta seinustu lotu. Veldu endurheimta vafralotu til að reyna aftur.
+restore-page-try-this = Geturðu ekki endurheimt lotu? Stundum er einn flipi sem er að valda vandræðum. Skoðaðu fyrri flipa, fjarlægðu hakið á þeim flipum sem þú vilt ekki og reyndu að endurheimta aftur.
+restore-page-hide-tabs = Fela fyrri flipa
+restore-page-show-tabs = Sýna fyrri flipa
 # When tabs are distributed across multiple windows, this message is used as a
 # header above the group of tabs for each window.
 #
