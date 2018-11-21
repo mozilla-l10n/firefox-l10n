@@ -2,6 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+restore-page-tab-title = Restaurează sesiunea
+# The title is intended to be apologetic and disarming, expressing dismay
+# and regret that we are unable to restore the session for the user
+restore-page-error-title = Ne pare rău. Avem probleme în recuperarea paginilor tale.
+restore-page-problem-desc = Avem probleme cu restaurarea ultimei sesiuni de navigare. Selectează Restaurează sesiunea pentru a încerca din nou.
+restore-page-hide-tabs = Ascunde filele anterioare
+restore-page-show-tabs = Vezi filele anterioare
 # When tabs are distributed across multiple windows, this message is used as a
 # header above the group of tabs for each window.
 #
@@ -10,6 +17,12 @@
 restore-page-window-label = Fereastra { $windowNumber }
 restore-page-list-header =
     .label = Ferestre și file
+restore-page-try-again-button =
+    .label = Restaurează sesiunea
+    .accesskey = R
+restore-page-close-button =
+    .label = Începe o sesiune nouă
+    .accesskey = N
 
 ## The following strings are used in about:welcomeback
 
