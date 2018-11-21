@@ -16,3 +16,10 @@ restore-page-list-header =
 
 ## The following strings are used in about:welcomeback
 
+welcome-back-tab-title = Terminé !
+welcome-back-page-title = Terminé !
+welcome-back-page-info = { -brand-short-name } est prêt.
+welcome-back-restore-button =
+    .label = Terminer
+    .accesskey = T
+welcome-back-page-info-link = Vos personnalisations et vos modules complémentaires ont été supprimés, et les paramètres de votre navigateur ont été restaurés à leur valeur par défaut. Si cela n’a pas corrigé votre problème, vous pouvez <a data-l10n-name="link-more">en apprendre davantage sur les autres possibilités.</a>
