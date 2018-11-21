@@ -701,6 +701,7 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = Udmawan
     .accesskey = d
+content-blocking-standard-desc = Iseggem i ummesten akked tmellit. Isirig kra n ineḍfaren akken ismal web ad ddun akken iwata.
 content-blocking-strict-desc = Isewḥal akk ineḍfaren id-yettaf { -brand-short-name }. Kra n yesmal zemren ad ḥebsen.
 content-blocking-custom-desc = Fren ayen ara tesweḥleḍ.
 content-blocking-private-trackers = Ineḍfaren yettwasnen deg usfaylu uslig kan
