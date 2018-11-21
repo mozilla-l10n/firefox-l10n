@@ -37,3 +37,4 @@ welcome-back-restore-button =
     .accesskey = L
 welcome-back-restore-all-label = সব উইন্ডো ও ট্যাব পুনরুদ্ধার করুন
 welcome-back-restore-some-label = শুধু আপনি যা চাইছেন সেটাই কেবল পুনরুদ্ধার করুন
+welcome-back-page-info-link = আপনার অ্যাড-অনসমূহ এবং কাস্টমাইজেশানসমূহ সরিয়ে ফেলা হয়েছে এবং আপনার ব্রাউজারের সেটিং আগের মত করে দেওয়া হয়েছে। এতে যদি আপনার সমস্যার সমাধান না হয়ে থাকে, <a data-l10n-name="link-more">আপনি আরও কি কি করতে পারবেন তা আরও বিস্তারিত জানুন।</a>
