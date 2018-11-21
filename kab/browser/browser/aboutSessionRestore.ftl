@@ -9,6 +9,8 @@ restore-page-tab-title = Tiririt n tɣimit{ " " }
 # Variables:
 #    $windowNumber: Progressive number associated to each window
 restore-page-window-label = Asfaylu { $windowNumber }
+restore-page-restore-header =
+    .label = Err-it-id
 restore-page-try-again-button =
     .label = Err-d tiɣimit
     .accesskey = R
@@ -24,3 +26,4 @@ welcome-back-page-info = { -brand-short-name } ihegga.
 welcome-back-restore-button =
     .label = Bdu!
     .accesskey = L
+welcome-back-restore-some-label = Fren ayen tebɣiḍ ad d-terreḍ
