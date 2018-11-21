@@ -16,3 +16,6 @@ restore-page-list-header =
 
 ## The following strings are used in about:welcomeback
 
+welcome-back-restore-button =
+    .label = Twende kazi!
+    .accesskey = L
