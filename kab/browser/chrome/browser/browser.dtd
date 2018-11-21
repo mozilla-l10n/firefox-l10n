@@ -1062,6 +1062,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.3rdPartyCookies.add.label "Asewḥel n udellel…">
 
 <!ENTITY contentBlocking.manageSettings.label "Sefrek Asewḥel n Ugbur">
+<!ENTITY contentBlocking.manageSettings.accesskey "S">
 
 <!ENTITY contentBlocking.trackersView.label "Ineḍfaren">
 <!ENTITY contentBlocking.trackersView.strictInfo.label "Akken ad tesweḥleḍ akk ineḍfaren, sbadu asewḥel n ugbur ɣer “Uḥris”.">
