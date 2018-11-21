@@ -648,6 +648,9 @@ sitedata-cookies-exceptions =
 # in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
 # Cookies and Site Data section.
 sitedata-warning-your-settings-prevent-changes = Vos paramètres de blocage de contenu empêchent la modification des paramètres sur les cookies et les données de sites.
+sitedata-cookies-permissions =
+    .label = Gérer les permissions…
+    .accesskey = p
 
 ## Privacy Section - Address Bar
 
@@ -688,6 +691,16 @@ content-blocking-fastblock-slow-loading-trackers-label =
     .label = Traqueurs qui ralentissent
     .accesskey = s
 content-blocking-fastblock-new-description = Ne bloquer que les traqueurs qui empêchent les pages de se charger rapidement.
+content-blocking-setting-standard =
+    .label = Standard
+    .accesskey = d
+content-blocking-setting-strict =
+    .label = Strict
+    .accesskey = r
+content-blocking-setting-custom =
+    .label = Personnalisé
+    .accesskey = P
+content-blocking-warning-title = Attention !
 content-blocking-tracking-protection-trackers-label =
     .label = Traqueurs
     .accesskey = T
@@ -723,6 +736,9 @@ content-blocking-reject-trackers-block-trackers-option =
 content-blocking-reject-trackers-all-third-parties-option =
     .label = Tous les cookies tiers (peut empêcher certains sites de fonctionner)
     .accesskey = t
+content-blocking-cookies-label =
+    .label = Cookies
+    .accesskey = C
 
 ## Privacy Section - Tracking
 
@@ -744,6 +760,9 @@ tracking-exceptions =
 tracking-change-block-list =
     .label = Modifier les listes de blocage…
     .accesskey = b
+tracking-manage-exceptions =
+    .label = Gérer les exceptions…
+    .accesskey = x
 
 ## Privacy Section - Permissions
 
