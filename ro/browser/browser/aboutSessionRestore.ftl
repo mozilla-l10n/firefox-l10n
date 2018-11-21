@@ -7,6 +7,7 @@ restore-page-tab-title = Restaurează sesiunea
 # and regret that we are unable to restore the session for the user
 restore-page-error-title = Ne pare rău. Avem probleme în recuperarea paginilor tale.
 restore-page-problem-desc = Avem probleme cu restaurarea ultimei sesiuni de navigare. Selectează Restaurează sesiunea pentru a încerca din nou.
+restore-page-try-this = Tot nu poți restaura sesiunea? Uneori o filă este cauza problemei. Vezi filele anterioare, debifează filele de care nu ai nevoie, apoi restaurează.
 restore-page-hide-tabs = Ascunde filele anterioare
 restore-page-show-tabs = Vezi filele anterioare
 # When tabs are distributed across multiple windows, this message is used as a
