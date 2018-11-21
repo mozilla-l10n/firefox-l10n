@@ -15,3 +15,4 @@ pw-change-success-title = Pasahitza ondo aldatu da
 pw-change-failed-title = Pasahitz aldaketak huts egin du
 pw-remove-button =
     .label = Ezabatu
+set-password-reenter-password = Idatzi berriz pasahitza:
