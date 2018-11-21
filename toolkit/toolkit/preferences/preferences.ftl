@@ -15,3 +15,4 @@ pw-change-success-title = Промената на лозинката успеа
 pw-change-failed-title = Промената на лозинката не успеа
 pw-remove-button =
     .label = Отстрани
+set-password-reenter-password = Повторно внесете ја лозинката:
