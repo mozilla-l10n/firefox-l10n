@@ -3,6 +3,11 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restore-page-tab-title = સત્ર પુનઃસંગ્રહો
+# The title is intended to be apologetic and disarming, expressing dismay
+# and regret that we are unable to restore the session for the user
+restore-page-error-title = માફ કરશો. અમને તમારા પૃષ્ઠો પરત લાવવામાં તકલીફ થઇ રહી છે.
+restore-page-problem-desc = અમને તમારું છેલ્લું જોયેલું સત્ર પુનઃસંગ્રહિત કરવામાં તકલીફ થઇ રહી છે. ફરીથી પ્રયત્ન કરવા માટે સત્ર પુનઃસંગ્રહો પસંદ કરો.
+restore-page-try-this = હજુ સુધી તમારુ સત્ર પુનઃસંગ્રહિત નથી કરી શકતા? કેટલીક વખત ટૅબને કારણે સમસ્યા સર્જાય છે. આગલી ટૅબ્સ જુઓ, તમારે જે ટૅબને પરત લાવવાની જરુર ન હોય તેનાં પરથી પસંદગી ચિહ્ન દૂર કરો, અને પછી પુનઃસંગ્રહિત કરો.
 # When tabs are distributed across multiple windows, this message is used as a
 # header above the group of tabs for each window.
 #
@@ -11,6 +16,14 @@ restore-page-tab-title = સત્ર પુનઃસંગ્રહો
 restore-page-window-label = વિન્ડો { $windowNumber }
 restore-page-restore-header =
     .label = પુનઃસંગ્રહો
+restore-page-list-header =
+    .label = વિન્ડો અને ટૅબ્સ
+restore-page-try-again-button =
+    .label = સત્ર પુનઃસંગ્રહો
+    .accesskey = R
+restore-page-close-button =
+    .label = નવું સત્ર શરુ કરો
+    .accesskey = N
 
 ## The following strings are used in about:welcomeback
 
