@@ -13,6 +13,17 @@ restore-page-restore-header =
     .label = Restaurar
 restore-page-list-header =
     .label = Ventanes y llingüetes
+restore-page-try-again-button =
+    .label = Restaurar Sesión
+    .accesskey = R
+restore-page-close-button =
+    .label = Aniciar sesión nueva
+    .accesskey = N
 
 ## The following strings are used in about:welcomeback
 
+welcome-back-restore-button =
+    .label = ¡Vamos!
+    .accesskey = g
+welcome-back-restore-all-label = Restaurar toles ventanes y llingüetes
+welcome-back-restore-some-label = Restaurar namái les que quies
