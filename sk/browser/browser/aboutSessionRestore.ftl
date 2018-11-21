@@ -20,6 +20,12 @@ restore-page-restore-header =
     .label = Obnoviť
 restore-page-list-header =
     .label = Okná a karty
+restore-page-try-again-button =
+    .label = Obnoviť reláciu
+    .accesskey = O
+restore-page-close-button =
+    .label = Spustiť novú reláciu
+    .accesskey = S
 
 ## The following strings are used in about:welcomeback
 
