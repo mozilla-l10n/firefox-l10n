@@ -648,6 +648,9 @@ sitedata-cookies-exceptions =
 # in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
 # Cookies and Site Data section.
 sitedata-warning-your-settings-prevent-changes = “İçerik engelleme” ayarlarınız, “çerezler ve site verileri” ayarlarının değiştirilmesini engelliyor.
+sitedata-cookies-permissions =
+    .label = İzinleri yönet…
+    .accesskey = z
 
 ## Privacy Section - Address Bar
 
@@ -688,6 +691,18 @@ content-blocking-fastblock-slow-loading-trackers-label =
     .label = Yavaş yüklenen takipçiler
     .accesskey = Y
 content-blocking-fastblock-new-description = Yalnızca sayfaların çabuk yüklenmesini önleyen takipçileri engeller.
+content-blocking-setting-standard =
+    .label = Standart
+    .accesskey = S
+content-blocking-setting-strict =
+    .label = Sıkı
+    .accesskey = k
+content-blocking-setting-custom =
+    .label = Özel
+    .accesskey = Ö
+content-blocking-custom-desc = Nelerin engelleneceğini seçin.
+content-blocking-all-third-party-cookies = Tüm üçüncü taraf çerezleri
+content-blocking-warning-title = Dikkat!
 content-blocking-tracking-protection-trackers-label =
     .label = Takipçiler
     .accesskey = T
@@ -723,6 +738,9 @@ content-blocking-reject-trackers-block-trackers-option =
 content-blocking-reject-trackers-all-third-parties-option =
     .label = Tüm üçüncü taraf çerezleri (Bazı siteler bozulabilir.)
     .accesskey = ü
+content-blocking-cookies-label =
+    .label = Çerezler
+    .accesskey = e
 
 ## Privacy Section - Tracking
 
@@ -744,6 +762,9 @@ tracking-exceptions =
 tracking-change-block-list =
     .label = Engelleme listesini değiştir…
     .accesskey = E
+tracking-manage-exceptions =
+    .label = İstisnaları yönet…
+    .accesskey = n
 
 ## Privacy Section - Permissions
 
