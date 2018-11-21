@@ -3,8 +3,13 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restore-page-tab-title = เรียกคืนวาระ
+restore-page-restore-header =
+    .label = เรียกคืน
 restore-page-list-header =
     .label = หน้าต่างและแท็บ
 
 ## The following strings are used in about:welcomeback
 
+welcome-back-tab-title = สำเร็จ!
+welcome-back-page-title = สำเร็จ!
+welcome-back-page-info = { -brand-short-name } พร้อมที่จะเริ่ม
