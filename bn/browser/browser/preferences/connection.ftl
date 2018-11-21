@@ -73,3 +73,7 @@ connection-dns-over-https =
 connection-dns-over-https-url = URL
     .accesskey = U
     .tooltiptext = HTTPS দ্বারা DNS রিজল্ভ করার URL
+connection-dns-over-https-url-custom =
+    .label = স্বনির্ধারিত
+    .accesskey = C
+    .tooltiptext = DNS এ HTTPS সমাধানের জন্য আপনার পছন্দের URL লিখুন
