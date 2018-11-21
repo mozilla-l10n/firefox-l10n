@@ -6,6 +6,8 @@ restore-page-tab-title = Restaurar sesión previa
 # The title is intended to be apologetic and disarming, expressing dismay
 # and regret that we are unable to restore the session for the user
 restore-page-error-title = Disculpe. Tenemos dificultades para recuperar sus páginas.
+restore-page-problem-desc = Hay algunos problemas intentando restaurar la última sesión. Elegí Restaurar sesión para volver a intentarlo.
+restore-page-try-this = ¿Todavía no pudo restaurar la sesión? A veces una pestaña puede causar el problema. Mire las pestañas previas, quite de la lista las pestañas que no necesite, y vuelva a intentarlo.
 restore-page-hide-tabs = Ocultar pestañas anteriores
 restore-page-show-tabs = Mostrar pestaña anteriores
 # When tabs are distributed across multiple windows, this message is used as a
@@ -18,6 +20,12 @@ restore-page-restore-header =
     .label = Restaurar
 restore-page-list-header =
     .label = Ventanas y pestañas
+restore-page-try-again-button =
+    .label = Restaurar sesión
+    .accesskey = R
+restore-page-close-button =
+    .label = Empezar una sesión nueva
+    .accesskey = N
 
 ## The following strings are used in about:welcomeback
 
