@@ -7,10 +7,15 @@ clear-all-reports-label = Alle Berichte entfernen
 delete-button-label = Alle löschen
 delete-confirm-title = Sind Sie sicher?
 delete-confirm-description = Dies löscht alle Berichte und kann nicht rückgängig gemacht werden.
+delete-unsubmitted-description = Dies löscht alle nicht gesendeten Absturzberichte und kann nicht rückgängig gemacht werden.
+delete-submitted-description = Dies entfernt die Liste der gesendeten Absturzberichte, löscht aber nicht die gesendeten Daten. Dies kann nicht rückgängig gemacht werden.
 crashes-unsubmitted-label = Nicht gesendete Absturzberichte
 id-heading = Meldungs-ID
 date-crashed-heading = Absturzdatum
 submit-crash-button-label = Absenden
+# This text is used to replace the label of the crash submit button
+# if the crash submission fails.
+submit-crash-button-failure-label = Fehlgeschlagen
 crashes-submitted-label = Gesendete Absturzberichte
 date-submitted-heading = Sendedatum
 view-crash-button-label = Anzeigen

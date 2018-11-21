@@ -876,3 +876,7 @@ space-alert-under-5gb-message = { -brand-short-name } verfügt über nur noch we
 desktop-folder-name = Desktop
 downloads-folder-name = Downloads
 choose-download-folder-title = Download-Ordner wählen:
+# Variables:
+#   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
+save-files-to-cloud-storage =
+    .label = Speichert Dateien in { $service-name }

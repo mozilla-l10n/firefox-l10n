@@ -19,6 +19,11 @@ ghost-windows = Kürzlich geschlossene Tabs
 ##   $value (Number) - Value of the energy impact, eg. 0.25 (low),
 ##                     5.38 (medium), 105.38 (high)
 
+energy-impact-high = Hoch ({ $value })
+energy-impact-medium = Mittel ({ $value })
+energy-impact-low = Niedrig ({ $value })
 
 ## Tooltips for the action buttons
 
+show-addon =
+    .title = In der Add-ons-Verwaltung anzeigen
