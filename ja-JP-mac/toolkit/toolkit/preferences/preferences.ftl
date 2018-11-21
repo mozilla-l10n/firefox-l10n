@@ -29,5 +29,6 @@ remove-password =
 remove-info =
     .value = 現在のパスワードを入力してください:
 remove-warning1 = マスターパスワードはサイトパスワードなどの機密情報を保護するために使用されます
+remove-warning2 = マスターパスワードを削除すると、コンピューターを紛失したときなどにあなたの情報が保護されなくなります。
 remove-password-old-password =
     .value = 現在のパスワード:
