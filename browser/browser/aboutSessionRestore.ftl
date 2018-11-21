@@ -9,6 +9,7 @@ restore-page-error-title = نأسف، فنحن نواجه مشكلة في است
 restore-page-problem-desc = نواجه مشكلة في استعادة آخر جلسة تصفح لك. اختر ”استعِد الجلسة“ لإعادة المحاولة.
 restore-page-try-this = أما زلت غير قادر على استعادة جلستك؟ في بعض الأحيان يتسبب أحد الألسنة بالمشكلة. اعرض ألسنتك السابقة، وأزِل علامة التأشير من الألسنة التي لا تريد استرجاعها، ومن ثم أجرِ الاستعادة.
 restore-page-hide-tabs = أخفِ الألسنة السابقة
+restore-page-show-tabs = اعرض الألسنة السابقة
 # When tabs are distributed across multiple windows, this message is used as a
 # header above the group of tabs for each window.
 #
@@ -36,3 +37,4 @@ welcome-back-restore-button =
     .accesskey = ه
 welcome-back-restore-all-label = استعد كل الألسنة و النوافذ
 welcome-back-restore-some-label = استعد ما تريده فقط
+welcome-back-page-info-link = أزيلت تخصيصاتك و إضافاتك و استرجعت إعدادات متصفحك المبدئية. إذا لم يُصلح هذا المشكلة، <a data-l10n-name="link-more">تعلم أكثر عما يمكنك فعله.</a>
