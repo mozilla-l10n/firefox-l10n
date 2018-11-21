@@ -667,6 +667,7 @@ addressbar-suggestions-settings = 更改搜索引擎建议的首选项
 
 content-blocking-header = 内容拦截
 content-blocking-desc = 拦截可能减慢您浏览速度且在网络上跟踪您的广告、代码等第三方内容。您可自行设置以在保护与性能之间达到最佳平衡。
+content-blocking-description = 拦截会在网络上跟踪您的第三方内容。控制您要让不同网站存储并共享多少在线行为。
 content-blocking-learn-more = 详细了解
 content-blocking-restore-defaults =
     .label = 恢复默认设置
@@ -687,6 +688,25 @@ content-blocking-fastblock-slow-loading-trackers-label =
     .label = 减慢加载的跟踪器
     .accesskey = S
 content-blocking-fastblock-new-description = 拦截减慢页面加载速度的跟踪器。
+content-blocking-setting-standard =
+    .label = 标准
+    .accesskey = d
+content-blocking-setting-strict =
+    .label = 严格
+    .accesskey = r
+content-blocking-setting-custom =
+    .label = 自定义
+    .accesskey = C
+content-blocking-standard-desc = 平衡保护与性能。允许部分跟踪器以确保网站运行正常。
+content-blocking-strict-desc = 拦截 { -brand-short-name } 检测到的所有跟踪器。可能导致某些网站异常。
+content-blocking-custom-desc = 选择要拦截的内容。
+content-blocking-private-trackers = 仅在隐私窗口中拦截已知的跟踪器
+content-blocking-third-party-cookies = 第三方跟踪 Cookie
+content-blocking-all-windows-trackers = 在所有窗口拦截已知的跟踪器
+content-blocking-all-third-party-cookies = 所有第三方 Cookie
+content-blocking-warning-title = 注意！
+content-blocking-warning-desc = 拦截 Cookie 与跟踪器可能导致某些网站异常。但对您信任的网站禁用拦截非常简单。
+content-blocking-learn-how = 了解方法
 content-blocking-tracking-protection-trackers-label =
     .label = 跟踪器
     .accesskey = T
@@ -722,6 +742,9 @@ content-blocking-reject-trackers-block-trackers-option =
 content-blocking-reject-trackers-all-third-parties-option =
     .label = 所有第三方 Cookie（可能导致网站故障）
     .accesskey = A
+content-blocking-cookies-label =
+    .label = Cookie
+    .accesskey = C
 
 ## Privacy Section - Tracking
 
@@ -743,6 +766,9 @@ tracking-exceptions =
 tracking-change-block-list =
     .label = 更换拦截列表…
     .accesskey = C
+tracking-manage-exceptions =
+    .label = 管理例外…
+    .accesskey = x
 
 ## Privacy Section - Permissions
 

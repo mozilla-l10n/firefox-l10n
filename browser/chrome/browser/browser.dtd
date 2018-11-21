@@ -1017,7 +1017,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.fastBlock.add.label "添加拦截…">
 
 <!ENTITY contentBlocking.trackingProtection2.label "检测到的所有跟踪器">
+
 <!ENTITY contentBlocking.trackingProtection3.label "跟踪器">
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.allowed.label):
+     This label signals that this type of content blocking is turned
+     OFF and is not blocking tracker content, so this is not
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Trackers [are] Allowed"-->
+<!ENTITY contentBlocking.trackingProtection.allowed.label "已允许">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking tracker content, so this is
@@ -1053,6 +1060,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.3rdPartyCookies.add.label "添加拦截…">
+
+<!ENTITY contentBlocking.manageSettings.label "管理内容拦截">
+<!ENTITY contentBlocking.manageSettings.accesskey "M">
+
+<!ENTITY contentBlocking.trackersView.label "跟踪器">
+<!ENTITY contentBlocking.trackersView.strictInfo.label "要拦截所有跟踪器，请将内容拦截设置为“严格”。">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "反馈故障">
 <!ENTITY contentBlocking.breakageReportView.label "反馈故障">
