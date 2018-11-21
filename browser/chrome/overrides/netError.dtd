@@ -13,6 +13,8 @@
 <!ENTITY continue2.label "আরও…">
 <!ENTITY moreInformation.label "অধিক তথ্য">
 
+<!ENTITY viewCertificate.label "সার্টিফিকেট প্রদর্শন">
+
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "সংযোগ করতে ব্যর্থ">
@@ -102,6 +104,8 @@ was trying to connect. -->
 
 <!ENTITY certerror.expiredCert.secondPara "এই সমস্যাটি সবচেয়ে বড় সম্ভাব্য কারণ হতে পারে আপনার কম্পিউটারের ঘড়ি ভুল সময়ে সেট করা আছে, যা &brandShortName; নিরাপদ সংযোগ করে।">
 
+
+
 <!ENTITY certerror.whatCanYouDoAboutItTitle "এ ব্যাপারে আপনি কি করতে পারেন?">
 
 <!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "
@@ -125,6 +129,7 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "ব্যতিক্রম যোগ…">
+<!ENTITY securityOverride.exceptionButton1Label "ঝুঁকি নিন এবং চালিয়ে যান">
 
 <!ENTITY errorReporting.automatic2 "মজিলাকে এই ধরনের প্রতিবেদন দিয়ে ক্ষরিকারক সাইট চিহ্নিত এবং অবরুদ্ধ করতে সাহায্য করুন।">
 <!ENTITY errorReporting.learnMore "আরও জানুন…">
@@ -161,3 +166,5 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "আপনার নেটওয়ার্কের সুরক্ষা সেটিং এই সমস্যা কারণ বলে প্রতীয়মান হচ্ছে। আপনি কি সেটিং পূর্বাবস্থায় ফিরিয়ে নিতে চান?">
 <!ENTITY prefReset.label "ডিফল্ট সেটিং পুনঃস্থাপন করুন">
+
+<!ENTITY networkProtocolError.title "নেটওয়ার্ক প্রটোকল ত্রুটি">
