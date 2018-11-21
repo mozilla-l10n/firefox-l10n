@@ -20,6 +20,9 @@ restore-page-restore-header =
     .label = Återställ
 restore-page-list-header =
     .label = Fönster och flikar
+restore-page-close-button =
+    .label = Starta en ny session
+    .accesskey = n
 
 ## The following strings are used in about:welcomeback
 
