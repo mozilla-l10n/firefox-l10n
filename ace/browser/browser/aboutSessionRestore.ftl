@@ -3,6 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restore-page-tab-title = Peuriwang Sesi
+# The title is intended to be apologetic and disarming, expressing dismay
+# and regret that we are unable to restore the session for the user
+restore-page-error-title = Kamoe lakee meu'ah, kamoe h'an meuhasé meupeuhah mieng droeneuh
+restore-page-problem-desc = Kamoe h'an meuhasé peuriwang sesi keuneulhueh droeneuh, neuci piléh Peuriwang Sesi
 restore-page-try-this = Mantöng hanjeut neupeuriwang sesi? Mungkén wab jih bak tab. Kalön tab seugolomjih, lhi tanda bak tab nyang hana peureulèe, leuhnyan neupeuriwang.
 restore-page-hide-tabs = Peusom Tab Seugolomjih
 restore-page-show-tabs = Kalön Tab Seugolomjih
@@ -33,3 +37,4 @@ welcome-back-restore-button =
     .accesskey = L
 welcome-back-restore-all-label = Peuriwang mandum tingkap & tab
 welcome-back-restore-some-label = Peuriwang nyang drouneuh h'eut tok
+welcome-back-page-info-link = Pengaya ngon kustomisasi droeneuh ka meusampôh,jinoe atôran browser Droeneuh ka meuriwang lagè awai phôn. Meunye nyoe h'an jeuet keu peuseuleusoe masalah droeneuh,<a data-l10n-name="link-more">meureunoe lom bhah peu nyang jeut neupeulaku.</a>
