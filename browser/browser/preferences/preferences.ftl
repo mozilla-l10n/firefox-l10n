@@ -655,6 +655,9 @@ sitedata-cookies-exceptions =
 # in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
 # Cookies and Site Data section.
 sitedata-warning-your-settings-prevent-changes = Vaše nastavení blokování obsahu brání změnám nastavení cookies a dat stránek.
+sitedata-cookies-permissions =
+    .label = Spravovat oprávnění…
+    .accesskey = S
 
 ## Privacy Section - Address Bar
 
@@ -675,6 +678,7 @@ addressbar-suggestions-settings = Nastavit našeptávání vyhledávače
 
 content-blocking-header = Blokování obsahu
 content-blocking-desc = Zablokujte obsah třetích stran, jako jsou reklamy nebo kód, který zpomaluje načítání stránek a sleduje vaše aktivity na internetu. Úroveň blokování můžete upravit podle vlastních nároků na rychlost načítání i ochranu soukromí.
+content-blocking-description = Blokuje obsah třetích stran, který vás na webu sleduje. Sami určete, jak velká část z vašich aktivit na internetu se bude ukládat a sdílet mezi stránkami.
 content-blocking-learn-more = Zjistit více
 content-blocking-restore-defaults =
     .label = Obnovit výchozí nastavení
@@ -695,6 +699,25 @@ content-blocking-fastblock-slow-loading-trackers-label =
     .label = Zpomalující sledovací prvky
     .accesskey = Z
 content-blocking-fastblock-new-description = Blokovat jen sledovací prvky, které zpomalují načítání stránek.
+content-blocking-setting-standard =
+    .label = Standardní
+    .accesskey = d
+content-blocking-setting-strict =
+    .label = Přísné
+    .accesskey = P
+content-blocking-setting-custom =
+    .label = Vlastní
+    .accesskey = V
+content-blocking-standard-desc = Vyvážená úroveň ochrany a výkonu. Povoluje některé sledovací prvky, aby stránky fungovaly správně.
+content-blocking-strict-desc = Blokuje všechny sledovací prvky, které { -brand-short-name } najde. Může omezit fungování některých stránek.
+content-blocking-custom-desc = Vyberte si, co chcete blokovat.
+content-blocking-private-trackers = Známé sledovací prvky blokovány v anonymním prohlížení
+content-blocking-third-party-cookies = Sledovací cookies třetích stran
+content-blocking-all-windows-trackers = Známé sledovací prvky blokovány vždy
+content-blocking-all-third-party-cookies = Všechny cookies třetích stran
+content-blocking-warning-title = Pozor!
+content-blocking-warning-desc = Blokování cookies a sledovacích prvků může omezit fungování některých stránek. Pro stránky, kterým důvěřujete, ale můžete blokování snadno vypnout.
+content-blocking-learn-how = Jak na to?
 content-blocking-tracking-protection-trackers-label =
     .label = Sledovací prvky
     .accesskey = S
@@ -730,6 +753,9 @@ content-blocking-reject-trackers-block-trackers-option =
 content-blocking-reject-trackers-all-third-parties-option =
     .label = Všechny cookies třetích stran (může omezit fungování některých stránek)
     .accesskey = a
+content-blocking-cookies-label =
+    .label = Cookies
+    .accesskey = C
 
 ## Privacy Section - Tracking
 
@@ -751,6 +777,9 @@ tracking-exceptions =
 tracking-change-block-list =
     .label = Změnit seznam blokací…
     .accesskey = c
+tracking-manage-exceptions =
+    .label = Spravovat výjimky…
+    .accesskey = p
 
 ## Privacy Section - Permissions
 
