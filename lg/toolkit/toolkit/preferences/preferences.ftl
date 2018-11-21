@@ -15,3 +15,4 @@ pw-change-success-title = Okukyusa ekisumuluzo kuyiseemu
 pw-change-failed-title = Okukyuusa Akasumulizo Kuganye
 pw-remove-button =
     .label = Jjawo
+set-password-reenter-password = Ddamu oyingize akasumuluzo:
