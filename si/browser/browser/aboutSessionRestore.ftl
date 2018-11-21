@@ -6,7 +6,7 @@ restore-page-tab-title = සැසිය ප්‍රතිස්ථාපනය
 # The title is intended to be apologetic and disarming, expressing dismay
 # and regret that we are unable to restore the session for the user
 restore-page-error-title = සමාවන්න.  ඔබේ පිටි යළි ලබා ගැණිමේ ගැටලුවක් අපට ඇත.
-restore-page-problem-desc = අපිට ඔබේ පෙර සැසිය යළි පිහිටුවිම සම්බන්දව ගැටලුවක් ඇත. සැසිය යළි පිහිටුවන්න තෝරා යළි උත්සාහ කරන්න.{ " " }
+restore-page-problem-desc = අපිට ඔබේ පෙර සැසිය යළි පිහිටුවිම සම්බන්දව ගැටලුවක් ඇත. සැසිය යළි පිහිටුවන්න තෝරා යළි උත්සාහ කරන්න.
 restore-page-try-this = තවමත් ඔබේ සැසිය යළි පිහිටු විමට නොහැකි ද? සමහරවිට එක් ටැබයක් මෙම ගැටලුව ඇති කරනවා විය හැක. ඔබට යළි පිහිටු විමට අනවශ්‍ය ටැබ් තෝරා ඉවත් කර, යළි පිහිටු වන්න.
 restore-page-hide-tabs = පෙර ටැබ් සගවන්න
 restore-page-show-tabs = පෙර ටැබ් බලන්න
@@ -37,4 +37,4 @@ welcome-back-restore-button =
     .accesskey = L
 welcome-back-restore-all-label = සියලු කවුළු සහ ටැබ් යළි පිහිටු වන්න
 welcome-back-restore-some-label = ඔබට අවශ්‍ය දෑ පමණක් යලි පිහිටුවන්න
-welcome-back-page-info-link = ඔබේ ඇඩෝන හා රුචිකරණ ඉවත්වී ඇති අතර ඔබේ ගවේශක සැකසුම් එහි පෙරනිමියට පත්වී ඇත. මෙය ඔබේ ගැටළුව නිරාකරණය නොකරයි නම්,   <a data-l10n-name="link-more">ඔබට කළ හැකි දෑ පිළිබඳ තවත් දැනගන්න.</a>{ " " }
+welcome-back-page-info-link = ඔබේ ඇඩෝන හා රුචිකරණ ඉවත්වී ඇති අතර ඔබේ ගවේශක සැකසුම් එහි පෙරනිමියට පත්වී ඇත. මෙය ඔබේ ගැටළුව නිරාකරණය නොකරයි නම්, <a data-l10n-name="link-more">ඔබට කළ හැකි දෑ පිළිබඳ තවත් දැනගන්න.</a>
