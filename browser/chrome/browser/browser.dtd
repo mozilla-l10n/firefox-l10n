@@ -1061,7 +1061,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.3rdPartyCookies.add.label "Ajouter un blocage…">
 
+<!ENTITY contentBlocking.manageSettings.label "Gérer le blocage de contenu">
+<!ENTITY contentBlocking.manageSettings.accesskey "G">
 
+<!ENTITY contentBlocking.trackersView.label "Traqueurs">
+<!ENTITY contentBlocking.trackersView.strictInfo.label "Pour bloquer tous les traqueurs, définissez le blocage du contenu sur « Strict ».">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Signaler un problème">
 <!ENTITY contentBlocking.breakageReportView.label "Signaler des problèmes">
