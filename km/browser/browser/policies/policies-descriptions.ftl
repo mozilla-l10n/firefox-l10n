@@ -22,3 +22,5 @@ policy-DNSOverHTTPS = កំណត់​រចនាសម្ព័ន្ធ DNS
 policy-InstallAddonsPermission = អនុញ្ញាតគេហទំព័រជាក់លាក់ដើម្បីដំឡើងកម្មវិធីបន្ថែម។
 policy-Proxy = កំណត់​ការកំណត់​ប្រូកស៊ី។
 policy-SanitizeOnShutdown = សម្អាត​ទិន្នន័យ​រុករក​ទាំងអស់​នៅ​ពេល​បិទ។
+# For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
+policy-SecurityDevices = ដំឡើងម៉ូឌុល PKCS # 11 ។

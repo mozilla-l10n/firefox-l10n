@@ -33,6 +33,11 @@ languages-customize-add =
 #   $code (String) - Locale code of the locale (for example: "is", "es-CL")
 languages-code-format =
     .label = { $locale }  [{ $code }]
+languages-active-code-format =
+    .value = { languages-code-format.label }
+browser-languages-search = ស្វែងរក​ភាសា​ច្រើន​ទៀត...
+browser-languages-searching =
+    .label = កំពុង​ស្វែង​រក​ភាសា...
 browser-languages-downloading =
     .label = កំពុង​ទាញ​យក...
 browser-languages-select-language =
