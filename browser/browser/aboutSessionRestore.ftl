@@ -20,6 +20,12 @@ restore-page-restore-header =
     .label = 恢复
 restore-page-list-header =
     .label = 窗口和标签页
+restore-page-try-again-button =
+    .label = 恢复浏览状态
+    .accesskey = R
+restore-page-close-button =
+    .label = 开始新一次浏览
+    .accesskey = N
 
 ## The following strings are used in about:welcomeback
 
