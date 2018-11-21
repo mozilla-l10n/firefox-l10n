@@ -18,6 +18,7 @@ restore-page-list-header =
 
 welcome-back-tab-title = Sucesso!
 welcome-back-page-title = Sucesso!
+welcome-back-page-info = O { -brand-short-name } está pronto.
 welcome-back-restore-button =
     .label = Vamos!
     .accesskey = V
