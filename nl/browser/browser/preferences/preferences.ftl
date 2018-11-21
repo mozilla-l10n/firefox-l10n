@@ -819,6 +819,10 @@ sitedata-cookies-exceptions =
 # Cookies and Site Data section.
 sitedata-warning-your-settings-prevent-changes = Uw instellingen in Inhoudsblokkering voorkomen wijzigingen aan instellingen voor Cookies en websitegegevens.
 
+sitedata-cookies-permissions =
+    .label = Toestemmingen beheren…
+    .accesskey = T
+
 ## Privacy Section - Address Bar
 
 addressbar-header = Adresbalk
@@ -842,6 +846,8 @@ addressbar-suggestions-settings = Voorkeuren voor zoekmachinesuggesties wijzigen
 content-blocking-header = Inhoudsblokkering
 
 content-blocking-desc = Blokkeer inhoud van derden, zoals advertenties of code, die het surfen kan vertragen en u op het web kan volgen. Pas uw instellingen aan voor het optimale evenwicht tussen bescherming en prestaties.
+
+content-blocking-description = Blokkeer inhoud van derden die uw surfgedrag volgt. Bepaal hoeveel van uw online-activiteit wordt bewaard en tussen websites wordt gedeeld.
 
 content-blocking-learn-more = Meer info
 content-blocking-restore-defaults =
@@ -867,6 +873,29 @@ content-blocking-fastblock-slow-loading-trackers-label =
     .label = Traag ladende trackers
     .accesskey = T
 content-blocking-fastblock-new-description = Alleen de trackers blokkeren die snel laden van pagina’s tegengaan.
+
+content-blocking-setting-standard =
+  .label = Standaard
+  .accesskey = S
+content-blocking-setting-strict =
+  .label = Streng
+  .accesskey = r
+content-blocking-setting-custom =
+  .label = Aangepast
+  .accesskey = A
+
+content-blocking-standard-desc = Gebalanceerd voor bescherming en prestaties. Staat bepaalde trackers toe, zodat websites goed werken.
+content-blocking-strict-desc = Blokkeert alle trackers die { -brand-short-name } detecteert. Kan ervoor zorgen dat bepaalde websites niet goed werken.
+content-blocking-custom-desc = Kies wat er wordt geblokkeerd.
+
+content-blocking-private-trackers = Bekende trackers alleen in privévensters
+content-blocking-third-party-cookies = Tracking-cookies van derden
+content-blocking-all-windows-trackers = Bekende trackers in alle vensters
+content-blocking-all-third-party-cookies = Alle cookies van derden
+
+content-blocking-warning-title = Let op!
+content-blocking-warning-desc = Het blokkeren van cookies kan ervoor zorgen dat bepaalde websites niet goed werken. Blokkering kan eenvoudig worden uitgeschakeld voor websites die u vertrouwt.
+content-blocking-learn-how = Lezen hoe
 
 content-blocking-tracking-protection-trackers-label =
     .label = Trackers
@@ -905,6 +934,10 @@ content-blocking-reject-trackers-all-third-parties-option =
     .label = Alle cookies van derden (kan ervoor zorgen dat websites niet goed werken)
     .accesskey = A
 
+content-blocking-cookies-label =
+  .label = Cookies
+  .accesskey = C
+
 ## Privacy Section - Tracking
 
 tracking-header = Bescherming tegen volgen
@@ -930,6 +963,10 @@ tracking-exceptions =
 tracking-change-block-list =
     .label = Blokkeerlijst wijzigen…
     .accesskey = k
+
+tracking-manage-exceptions =
+    .label = Uitzonderingen beheren…
+    .accesskey = z
 
 ## Privacy Section - Permissions
 
