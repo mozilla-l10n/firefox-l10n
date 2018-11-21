@@ -18,6 +18,7 @@ pw-remove-button =
 set-password =
     .title = Alterar palavra-passe mestra
 set-password-old-password = Palavra-passe atual:
+set-password-new-password = Introduza a nova palavra-passe:
 set-password-reenter-password = Volte a introduzir a palavra-passe:
 set-password-meter = Indicador de qualidade da palavra-passe
 set-password-meter-loading = A carregar
