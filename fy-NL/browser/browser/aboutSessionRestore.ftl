@@ -5,4 +5,10 @@
 
 ## The following strings are used in about:welcomeback
 
+welcome-back-tab-title = Slagge!
+welcome-back-page-title = Slagge!
+welcome-back-page-info = { -brand-short-name } is klear foar gebrûk.
+welcome-back-restore-button =
+    .label = Begjinne!
+    .accesskey = B
 welcome-back-page-info-link = Jo add-ons en persoanlike oanpassingen binne fuortsmiten en jo browserynstellingen binne nei de standertwearden weromset. <a data-l10n-name="link-more">Mear ynfo oer wat jo dwaan kinne</a>, as dit jo probleem net oplost hat.
