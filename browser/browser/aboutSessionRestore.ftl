@@ -8,6 +8,8 @@ restore-page-tab-title = Restaurar la sesida
 restore-page-error-title = Perstgisa. I dat difficultads cun restaurar tias paginas.
 restore-page-problem-desc = I dat difficultads cun restaurar tia ultima sesida da navigar. Tscherna «Restaurar la sesida» per empruvar danovamain.
 restore-page-try-this = Na funcziunescha la restauraziun anc adina betg? Mintgatant fa in tab problems. Controllescha ils ultims tabs, allontanescha il crutsch dals tabs che ti na dovras betg pli ed emprova lura anc ina giada da restaurar.
+restore-page-hide-tabs = Zuppentar ils tabs precedents
+restore-page-show-tabs = Mussar ils tabs precedents
 # When tabs are distributed across multiple windows, this message is used as a
 # header above the group of tabs for each window.
 #
