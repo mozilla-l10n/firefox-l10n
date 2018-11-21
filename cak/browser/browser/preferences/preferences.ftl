@@ -648,6 +648,9 @@ sitedata-cookies-exceptions =
 # in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
 # Cookies and Site Data section.
 sitedata-warning-your-settings-prevent-changes = Ri taq anuk'ulem pa ri Kiq'atik Rupam yekiq'ät ri taq Kijalik Kinuk'ulem Kaxlanwäy chuqa' Kitzij taq Ruxaq.
+sitedata-cookies-permissions =
+    .label = Kenuk'samajïx taq Ya'oj Q'ij...
+    .accesskey = Y
 
 ## Privacy Section - Address Bar
 
@@ -668,6 +671,7 @@ addressbar-suggestions-settings = Kek'ex ri taq kajowab'al ri taq kichilab'enik 
 
 content-blocking-header = Ruq'atik Rupam
 content-blocking-desc = Ke'aq'ata' taq rupam ketamab'al aj rox winäq, achi'el taq rutzijol o b'itz'ib', ri nitikïr nuyokob'a' ri okem pa ka'amaya'l chuqa' yerutzeqelb'ej ri taq ruxaq k'amaya'l ye'atz'ët. Tawichinaj ri anuk'ulem richin choj napäj ri chajinïk chuqa' ri rub'eyal nisamäj.
+content-blocking-description = Taq'ata' rupam kichin aj rox winäq yatkojqaj pa ajk'amaya'l. Tachajij jarupe' ri asamaj pa k'amab'ey yeyak chuqa' yekomonïx chi kikojol ajk'amaya'l taq ruxaq.
 content-blocking-learn-more = Tetamäx Ch'aqa' Chik
 content-blocking-restore-defaults =
     .label = Ketzolij ri taq Wachinel e K'o Wi
@@ -688,6 +692,9 @@ content-blocking-fastblock-slow-loading-trackers-label =
     .label = Eqal-Yesamajib'ëx Ojqanela'
     .accesskey = E
 content-blocking-fastblock-new-description = Xa xe keq'at ri ojqanela' eqal nikib'än richin yesamajib'ëx ri taq ruxaq.
+content-blocking-setting-standard =
+    .label = Pa rub'eyal
+    .accesskey = b
 content-blocking-tracking-protection-trackers-label =
     .label = Ojqanela'
     .accesskey = O
