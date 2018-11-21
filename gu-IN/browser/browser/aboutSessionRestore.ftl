@@ -14,3 +14,10 @@ restore-page-restore-header =
 
 ## The following strings are used in about:welcomeback
 
+welcome-back-tab-title = સફળતા!
+welcome-back-page-title = સફળતા!
+welcome-back-page-info = { -brand-short-name }જવા માટે તૈયાર છે
+welcome-back-restore-button =
+    .label = ચાલો જઇએ!
+    .accesskey = એલ
+welcome-back-page-info-link = અગર તમારી સમસ્યાન દૂર ના થાય તો તમારા એડ-ઓન અને કસ્ટમાઇઝેશન દૂર કરવામાં આવી છે અને તમારા બ્રાઉઝર સેટિંગ્સને તેમના મૂળભૂત પુનઃસ્થાપિત કરવામાં આવી છે.<a data-l10n-name="link-more">તમે કરી શકો છો તે વિશે વધુ શીખો.</a>
