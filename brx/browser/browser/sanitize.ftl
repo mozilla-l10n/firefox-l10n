@@ -14,7 +14,7 @@ sanitize-prefs-style =
 ## Time range to clear: (Last Hour, Today, etc.)
 
 clear-time-duration-prefix =
-    .value = खोमोरनोगोनां समनि सारिसिमा:{ " " }
+    .value = खोमोरनोगोनां समनि सारिसिमा:
     .accesskey = T
 clear-time-duration-value-last-hour =
     .label = जोबथा घन्टा
