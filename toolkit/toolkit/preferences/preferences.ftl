@@ -28,6 +28,7 @@ remove-password =
     .title = הסרת ססמה ראשית
 remove-info =
     .value = עליך להכניס את הססמה הנוכחית שלך כדי להמשיך:
+remove-warning1 = הססמה הראשית שלך מגינה על מידע רגיש כמו ססמאות לאתרים.
 remove-warning2 = אם תסיר את הססמה הראשית שלך, המידע שלך לא ישמר אם תהיה לך פריצה למחשב.
 remove-password-old-password =
     .value = ססמה נוכחית:
