@@ -8,6 +8,12 @@ restore-page-error-title = Özür dileriz. Sayfalarınızı geri getirmeyi becer
 restore-page-try-this = Yine mi olmadı? Bazen sorun tek bir sekmeden kaynaklanıyor olabilir. Önceki sekmelerinize bir bakın, geri yüklenmesi gerekmeyen sekmelerin işaretini kaldırıp yeniden deneyin.
 restore-page-hide-tabs = Önceki sekmeleri gizle
 restore-page-show-tabs = Önceki sekmeleri göster
+# When tabs are distributed across multiple windows, this message is used as a
+# header above the group of tabs for each window.
+#
+# Variables:
+#    $windowNumber: Progressive number associated to each window
+restore-page-window-label = { $windowNumber }. pencere
 restore-page-list-header =
     .label = Pencereler ve sekmeler
 restore-page-try-again-button =
