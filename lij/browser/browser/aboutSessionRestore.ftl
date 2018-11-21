@@ -16,3 +16,9 @@ restore-page-list-header =
 
 ## The following strings are used in about:welcomeback
 
+welcome-back-tab-title = Operaçion ariescia
+welcome-back-page-title = Operaçion ariescia
+welcome-back-page-info = { -brand-short-name } o l'é pronto.
+welcome-back-restore-button =
+    .label = Inandia
+    .accesskey = a
