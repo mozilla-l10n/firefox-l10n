@@ -20,6 +20,7 @@ set-password =
 set-password-old-password = Parola actuală:
 set-password-new-password = Introdu parola nouă:
 set-password-reenter-password = Tastează din nou parola:
+set-password-meter = Indicatorul de calitate a parolei
 set-password-meter-loading = Încărcare
 master-password-description = O parolă generală este folosită să protejeze informațiile sensibile precum parolele de la site-uri.  Dacă creezi o parolă generală, ți se va cere să o introduci o dată per sesiune atunci când { -brand-short-name } preia informațiile salvate protejate de parolă.
 master-password-warning = Te rugăm să te asiguri că reții parola generală pe care ai setat-o.  Dacă uiți parola generală, nu vei mai avea acces la nicio informație din cele protejate de aceasta.
