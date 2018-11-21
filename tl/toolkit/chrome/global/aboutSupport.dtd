@@ -9,7 +9,7 @@
 
 <!ENTITY aboutSupport.crashes.title "Ulat ng mga Crash">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
-This is likely the same like id.heading in crashes.dtd. -->
+This is likely the same like id.heading in aboutcrashes.ftl. -->
 <!ENTITY aboutSupport.crashes.id "Ulat ID">
 <!ENTITY aboutSupport.crashes.sendDate "Nai-sumite">
 <!ENTITY aboutSupport.crashes.allReports "Lahat ng Ulat ng Pag-crash">
@@ -32,15 +32,6 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.featureVersion "Bersyon">
 <!ENTITY aboutSupport.featureId "ID">
 
-<!ENTITY aboutSupport.experimentsTitle "Mga Tampok na Sinusuri">
-<!ENTITY aboutSupport.experimentName "Pangalan">
-<!ENTITY aboutSupport.experimentId "ID">
-<!ENTITY aboutSupport.experimentDescription "Paglalarawan">
-<!ENTITY aboutSupport.experimentActive "Aktibo">
-<!ENTITY aboutSupport.experimentEndDate "Katapusan">
-<!ENTITY aboutSupport.experimentHomepage "Homepage">
-<!ENTITY aboutSupport.experimentBranch "Sangay">
-
 <!ENTITY aboutSupport.appBasicsTitle "Mga panimula ng Aplikasyon">
 <!ENTITY aboutSupport.appBasicsName "Pangalan">
 <!ENTITY aboutSupport.appBasicsVersion "Bersyon">
@@ -52,7 +43,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.appBasicsUpdateHistory "I-update ang History">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "Ipakita ang Kasaysayan ng Update">
 
-<!ENTITY aboutSupport.appBasicsProfileDir "Direktory ng Profile">
+<!ENTITY aboutSupport.appBasicsProfileDir "Talaan ng Profile">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
 This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
 Windows/Mac use the term "Folder" instead of "Directory" -->
@@ -71,6 +62,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsProfiles "Mga Profile">
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Multiprocess Windows">
+
 
 
 <!ENTITY aboutSupport.appBasicsKeyGoogle "Google Key">
