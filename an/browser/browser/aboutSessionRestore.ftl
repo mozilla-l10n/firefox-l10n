@@ -5,4 +5,7 @@
 
 ## The following strings are used in about:welcomeback
 
+welcome-back-restore-button =
+    .label = Imo-nos-ne!
+    .accesskey = L
 welcome-back-restore-some-label = Restaurar solo que as que quieras
