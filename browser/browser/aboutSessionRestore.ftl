@@ -22,3 +22,6 @@ welcome-back-page-info = Tá { -brand-short-name } réidh anois.
 welcome-back-restore-button =
     .label = Ar aghaidh linn!
     .accesskey = L
+welcome-back-restore-all-label = Athchóirigh na fuinneoga agus na cluaisíní go léir
+welcome-back-restore-some-label = Athchóirigh cinn áirithe amháin
+welcome-back-page-info-link = Baineadh do chuid breiseán agus gnéithe saincheaptha, agus cuireadh réamhshocruithe an bhrabhsálaí i bhfeidhm arís. Má tá fadhb agat fós, <a data-l10n-name="link-more">is féidir leat tuilleadh eolais a fháil anseo.</a>
