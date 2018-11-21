@@ -3,6 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restore-page-tab-title = استعد الجلسة
+# The title is intended to be apologetic and disarming, expressing dismay
+# and regret that we are unable to restore the session for the user
+restore-page-error-title = نأسف، فنحن نواجه مشكلة في استعادة صفحاتك.
+restore-page-problem-desc = نواجه مشكلة في استعادة آخر جلسة تصفح لك. اختر ”استعِد الجلسة“ لإعادة المحاولة.
+restore-page-try-this = أما زلت غير قادر على استعادة جلستك؟ في بعض الأحيان يتسبب أحد الألسنة بالمشكلة. اعرض ألسنتك السابقة، وأزِل علامة التأشير من الألسنة التي لا تريد استرجاعها، ومن ثم أجرِ الاستعادة.
+restore-page-hide-tabs = أخفِ الألسنة السابقة
 # When tabs are distributed across multiple windows, this message is used as a
 # header above the group of tabs for each window.
 #
@@ -13,6 +19,12 @@ restore-page-restore-header =
     .label = استعِد
 restore-page-list-header =
     .label = النوافذ و الألسنة
+restore-page-try-again-button =
+    .label = استعِد الجلسة
+    .accesskey = س
+restore-page-close-button =
+    .label = ابدأ جلسة جديدة
+    .accesskey = د
 
 ## The following strings are used in about:welcomeback
 
