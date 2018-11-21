@@ -636,6 +636,9 @@ sitedata-cookies-exceptions =
 # in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
 # Cookies and Site Data section.
 sitedata-warning-your-settings-prevent-changes = 您的內容封鎖設定不允許調整 Cookie 與網站資料設定。
+sitedata-cookies-permissions =
+    .label = 管理權限…
+    .accesskey = P
 
 ## Privacy Section - Address Bar
 
@@ -656,6 +659,7 @@ addressbar-suggestions-settings = 修改搜尋建議偏好設定
 
 content-blocking-header = 內容封鎖
 content-blocking-desc = 封鎖會拖慢您上網速度並追蹤您的廣告或程式碼等第三方網頁內容。可調整相關設定以在保護與效能間取得最佳平衡。
+content-blocking-description = 封鎖會在網路上追蹤您的第三方內容。控制您要讓不同網站儲存並分享多少線上行為。
 content-blocking-learn-more = 了解更多
 content-blocking-restore-defaults =
     .label = 回復為預設值
@@ -676,6 +680,25 @@ content-blocking-fastblock-slow-loading-trackers-label =
     .label = 慢速載入的追蹤器
     .accesskey = S
 content-blocking-fastblock-new-description = 只封鎖會影響頁面載入速度的追蹤器。
+content-blocking-setting-standard =
+    .label = 標準
+    .accesskey = d
+content-blocking-setting-strict =
+    .label = 嚴格
+    .accesskey = r
+content-blocking-setting-custom =
+    .label = 自訂
+    .accesskey = C
+content-blocking-standard-desc = 在保護與效能間取得平衡。允許某些追蹤器以確保網站運作正常。
+content-blocking-strict-desc = 封鎖所有 { -brand-short-name } 偵測到的追蹤器。可能造成某些網站故障。
+content-blocking-custom-desc = 選擇要封鎖哪些內容。
+content-blocking-private-trackers = 僅在隱私視窗中封鎖已知的追蹤器
+content-blocking-third-party-cookies = 第三方追蹤 Cookie
+content-blocking-all-windows-trackers = 在所有視窗封鎖已知的追蹤器
+content-blocking-all-third-party-cookies = 所有第三方 Cookie
+content-blocking-warning-title = 注意！
+content-blocking-warning-desc = 封鎖 Cookie 與追蹤器可能會造成某些網站故障。很簡單就能為您信任的網站關閉封鎖。
+content-blocking-learn-how = 了解要怎麼做
 content-blocking-tracking-protection-trackers-label =
     .label = 追蹤器
     .accesskey = T
@@ -711,6 +734,9 @@ content-blocking-reject-trackers-block-trackers-option =
 content-blocking-reject-trackers-all-third-parties-option =
     .label = 所有第三方 Cookie（可能會造成某些網站不正常）
     .accesskey = A
+content-blocking-cookies-label =
+    .label = Cookie
+    .accesskey = C
 
 ## Privacy Section - Tracking
 
@@ -732,6 +758,9 @@ tracking-exceptions =
 tracking-change-block-list =
     .label = 變更封鎖清單…
     .accesskey = C
+tracking-manage-exceptions =
+    .label = 管理例外網站…
+    .accesskey = x
 
 ## Privacy Section - Permissions
 
