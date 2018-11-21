@@ -23,6 +23,7 @@ set-password-reenter-password = Neues Passwort (nochmals):
 set-password-meter = Passwort-Qualitätsmessung
 set-password-meter-loading = Laden
 master-password-description = Das Master-Passwort wird verwendet, um Ihre sensiblen Daten (z. B. Passwörter) zu schützen. Wenn Sie ein Master-Passwort festlegen, werden Sie einmal pro Sitzung danach gefragt, sobald { -brand-short-name } auf die geschützten Daten zugreifen muss.
+master-password-warning = Bitte stellen Sie sicher, dass Sie das Master-Passwort nicht vergessen. Falls Sie das Master-Passwort vergessen sollten, gibt es keine Möglichkeit, an die Daten zu gelangen, die davon geschützt werden.
 remove-password =
     .title = Master-Passwort entfernen
 remove-info =
