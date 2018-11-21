@@ -3,6 +3,11 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restore-page-tab-title = அமர்வை மீட்டமை
+# The title is intended to be apologetic and disarming, expressing dismay
+# and regret that we are unable to restore the session for the user
+restore-page-error-title = மன்னிக்கவும். உங்களது பக்கத்தைத் திரும்ப பெறுவதில் எங்களுக்குச் சிரமம் ஏற்படுகிறது.
+restore-page-hide-tabs = முந்தைய கீற்றுகளை மறை
+restore-page-show-tabs = முந்தைய கீற்றுகளைப் பார்
 # When tabs are distributed across multiple windows, this message is used as a
 # header above the group of tabs for each window.
 #
@@ -13,6 +18,12 @@ restore-page-restore-header =
     .label = மீட்டெடு
 restore-page-list-header =
     .label = சாளரங்களும் கீற்றுகளும்
+restore-page-try-again-button =
+    .label = அமர்வை மீட்டமை
+    .accesskey = R
+restore-page-close-button =
+    .label = புதிய அமர்வைத் தொடங்கு
+    .accesskey = N
 
 ## The following strings are used in about:welcomeback
 
