@@ -3,6 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restore-page-tab-title = Obnovi sejo
+# The title is intended to be apologetic and disarming, expressing dismay
+# and regret that we are unable to restore the session for the user
+restore-page-error-title = Žal imamo težave pri obnavljanju vaših strani.
+restore-page-problem-desc = Imamo težave pri pri obnavljanju vaše zadnje seje brskanja. Izberite Obnovi sejo in poskusite znova.
+restore-page-hide-tabs = Skrij prejšnje zavihke
+restore-page-show-tabs = Prikaži prejšnje zavihke
 # When tabs are distributed across multiple windows, this message is used as a
 # header above the group of tabs for each window.
 #
@@ -22,4 +28,6 @@ welcome-back-page-info = { -brand-short-name } je pripravljen.
 welcome-back-restore-button =
     .label = Pojdi!
     .accesskey = P
+welcome-back-restore-all-label = Obnovi vsa okna in zavihke
+welcome-back-restore-some-label = Obnovi samo izbrano
 welcome-back-page-info-link = Vaši dodatki in prilagoditve so bili odstranjeni, nastavitve brskalnika pa povrnjene na privzete vrednosti. Če vaša težava še vedno ni odpravljena, <a data-l10n-name="link-more">se pozanimajte o nadaljnjih korakih.</a>
