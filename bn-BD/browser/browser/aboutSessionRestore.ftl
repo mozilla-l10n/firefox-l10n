@@ -8,6 +8,8 @@ restore-page-tab-title = সেশন পুনরুদ্ধার
 restore-page-error-title = দুঃখিত। আপনার পূর্বের পাতাগুলি ফিরিয়ে আনতে আমাদের সমস্যা হচ্ছে।
 restore-page-problem-desc = আপনার পূর্ববর্তী ব্রাউজিং সেশন ফিরিয়ে আনতে সমস্যা হচ্ছে। সেশন পুনরুদ্ধার নির্বাচন করে আবার চেষ্টা করুন।
 restore-page-try-this = এখনও আপনার সেশন পুনরুদ্ধার করতে পারেননি? মাঝেমধ্যে একটি মাত্র ট্যাব সমস্যার মূল কারণ হয়ে থাকে। পূর্ববর্তী ট্যাব গুলি দেখুন এবং যেগুলি আপনার পুনরুদ্ধার করার প্রয়োজন নেই সেগুলির পাশের টিক চিহ্ন উঠিয়ে দিয়ে পুনরুদ্ধার করুণ।
+restore-page-hide-tabs = পূর্ববর্তী ট্যাব লুকান
+restore-page-show-tabs = পূর্ববর্তী ট্যাব দেখুন
 # When tabs are distributed across multiple windows, this message is used as a
 # header above the group of tabs for each window.
 #
