@@ -15,3 +15,4 @@ pw-change-success-title = Ukushintsha Igama Lokungena Kuphumelele
 pw-change-failed-title = Ukushintsha Igama Lokungena Kuhlulekile
 pw-remove-button =
     .label = Susa
+set-password-reenter-password = Bhala kabusha igama lokungena:
