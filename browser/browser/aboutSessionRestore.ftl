@@ -8,6 +8,8 @@ restore-page-tab-title = שחזור הפעלה
 restore-page-error-title = אנו מצטערים, אך אירעה צרה בעת שחזור הדפים שלך בחזרה.
 restore-page-problem-desc = אירעה צרה בעת שחזור ההפעלה הקודמת שלך. נא לבחור באפשרות שחזור ההפעלה כדי לנסות שוב.
 restore-page-try-this = עדיין אין באפשרותך לשחזר את ההפעלה? לעתים אחת מהלשוניות היא הגורם לתקלה. נא לעבור על רשימת הלשוניות הקודמות ולהסיר את הסימון מלשוניות שאין בהן צורך עוד, ואז לנסות שוב לשחזר.
+restore-page-hide-tabs = הסתרת הלשוניות הקודמות
+restore-page-show-tabs = הצגת הלשוניות הקודמות
 # When tabs are distributed across multiple windows, this message is used as a
 # header above the group of tabs for each window.
 #
@@ -33,3 +35,5 @@ welcome-back-page-info = { -brand-short-name } מוכן כעת לנסיעה.
 welcome-back-restore-button =
     .label = דרך צלחה!
     .accesskey = ד
+welcome-back-restore-all-label = שחזור כל החלונות והלשוניות
+welcome-back-restore-some-label = שחזור של הלשוניות הרצויות בלבד
