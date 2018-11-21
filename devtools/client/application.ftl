@@ -19,6 +19,11 @@ serviceworker-list-header = সার্ভিস ওয়ার্কার্
 serviceworker-list-aboutdebugging = অন্য ডোমেইনের সেবা কর্মীদের জন্য <a>about:debugging</a> খুলুন
 # Text for the button to unregister a Service Worker. Displayed for active Service Workers.
 serviceworker-worker-unregister = Unregister
+# Text for the debug link displayed for an already started Service Worker. Clicking on the
+# link opens a new devtools toolbox for this service worker. The title attribute is only
+# displayed when the link is disabled.
+serviceworker-worker-debug = ডিবাগ
+    .title = কেবলমাত্র চলন্ত সার্ভিস ওয়ার্কার ডিবাগ করা যাবে
 # Text for the start link displayed for a registered but not running Service Worker.
 # Clicking on the link will attempt to start the service worker.
 serviceworker-worker-start = শুরু
