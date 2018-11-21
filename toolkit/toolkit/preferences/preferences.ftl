@@ -15,3 +15,4 @@ pw-change-success-title = Parola değiştirme başarılı
 pw-change-failed-title = Parola değiştirme başarısız
 pw-remove-button =
     .label = Kaldır
+set-password-reenter-password = Yeni parola (tekrar):
