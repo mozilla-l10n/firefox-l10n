@@ -22,6 +22,7 @@ set-password-new-password = Forneça a nova senha:
 set-password-reenter-password = Confirme a nova senha:
 set-password-meter = Medidor de qualidade da senha
 set-password-meter-loading = Carregando
+master-password-description = A senha mestra é usada para proteger informações confidenciais como senhas de sites. Se você criar uma senha mestra, precisará fornecê-la uma vez por sessão, quando o { -brand-short-name } precisar de informações protegidas pela senha.
 master-password-warning = Certifique-se de que vai lembrar da senha mestra. Caso a esqueça, você não conseguirá acessar nenhuma informação protegida por ela.
 remove-password =
     .title = Remover senha mestra
