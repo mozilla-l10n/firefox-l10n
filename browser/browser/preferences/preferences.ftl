@@ -648,6 +648,9 @@ sitedata-cookies-exceptions =
 # in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
 # Cookies and Site Data section.
 sitedata-warning-your-settings-prevent-changes = As suas definições no Bloqueio de conteúdo estão a impedir alterações às definições de Cookies e Dados de sites.
+sitedata-cookies-permissions =
+    .label = Gerir permissões…
+    .accesskey = p
 
 ## Privacy Section - Address Bar
 
@@ -668,6 +671,7 @@ addressbar-suggestions-settings = Alterar preferências para as sugestões dos m
 
 content-blocking-header = Bloqueio de conteúdo
 content-blocking-desc = Bloqueie conteúdo de terceiros, tal como anúncios ou código, que podem tornar o seu navegador mais lento e lhe monitorizam ao longo da web. Personalize as suas definições para o melhor equilíbrio de proteção e desempenho.
+content-blocking-description = Bloqueie conteúdo de terceiros que lhe monitoriza pela web. Controle quanto da sua atividade online é armazenada e partilhada entre websites.
 content-blocking-learn-more = Saber mais
 content-blocking-restore-defaults =
     .label = Restaurar predefinições
@@ -688,6 +692,25 @@ content-blocking-fastblock-slow-loading-trackers-label =
     .label = Trackers de carregamento lento
     .accesskey = s
 content-blocking-fastblock-new-description = Bloquear apenas os trackers que impedem as páginas de carregar rapidamente.
+content-blocking-setting-standard =
+    .label = Padrão
+    .accesskey = d
+content-blocking-setting-strict =
+    .label = Estrito
+    .accesskey = r
+content-blocking-setting-custom =
+    .label = Personalizado
+    .accesskey = e
+content-blocking-standard-desc = Equilibrada para proteção e desempenho. Permite alguns trackers para que os websites funcionem corretamente.
+content-blocking-strict-desc = Bloquear todos os trackers que o { -brand-short-name } deteta. Pode causar com que alguns sites quebrem.
+content-blocking-custom-desc = Escolha o que bloquear.
+content-blocking-private-trackers = Trackers conhecidos apenas em janelas privadas
+content-blocking-third-party-cookies = Cookies de trackers de terceiros
+content-blocking-all-windows-trackers = Trackers conhecidos em todas as janelas
+content-blocking-all-third-party-cookies = Todos os cookies de terceiros
+content-blocking-warning-title = Atenção!
+content-blocking-warning-desc = Bloquear cookies e trackers pode causar com que alguns websites quebrem. É fácil desativar o bloqueio para sites que confia.
+content-blocking-learn-how = Saber mais
 content-blocking-tracking-protection-trackers-label =
     .label = Trackers
     .accesskey = T
@@ -723,6 +746,9 @@ content-blocking-reject-trackers-block-trackers-option =
 content-blocking-reject-trackers-all-third-parties-option =
     .label = Todos os cookies de terceiros (pode causar que websites quebrem)
     .accesskey = a
+content-blocking-cookies-label =
+    .label = Cookies
+    .accesskey = C
 
 ## Privacy Section - Tracking
 
@@ -744,6 +770,9 @@ tracking-exceptions =
 tracking-change-block-list =
     .label = Alterar lista de bloqueio…
     .accesskey = A
+tracking-manage-exceptions =
+    .label = Gerir exceções…
+    .accesskey = x
 
 ## Privacy Section - Permissions
 
