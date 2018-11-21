@@ -3,10 +3,18 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restore-page-tab-title = سیشن بحال کریں
+restore-page-hide-tabs = پچھلا ٹیب چھپائیں
+restore-page-show-tabs = پچھلا ٹیب دیکھیں
 restore-page-restore-header =
     .label = بحال کریں
 restore-page-list-header =
     .label = دریچے اور ٹیب
+restore-page-try-again-button =
+    .label = سیشن بحال کریں
+    .accesskey = R
+restore-page-close-button =
+    .label = نئے سیشن کا آغازکریں
+    .accesskey = N
 
 ## The following strings are used in about:welcomeback
 
