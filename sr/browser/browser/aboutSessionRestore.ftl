@@ -16,3 +16,7 @@ restore-page-list-header =
 
 ## The following strings are used in about:welcomeback
 
+welcome-back-tab-title = Успех!
+welcome-back-page-title = Успех!
+welcome-back-page-info = { -brand-short-name } је спреман.
+welcome-back-page-info-link = Ваши додаци и прилагођавања су уклоњена и подешавања прегледача су враћена на подразумевана. Ако ово није решило проблем, <a data-l10n-name="link-more">сазнајте шта можете да урадите.</a>
