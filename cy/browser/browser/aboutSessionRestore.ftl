@@ -22,4 +22,6 @@ welcome-back-page-info = Mae { -brand-short-name } yn barod i fynd.
 welcome-back-restore-button =
     .label = Ffwrdd â ni!
     .accesskey = F
+welcome-back-restore-all-label = Adfer pob ffenestr a thab
+welcome-back-restore-some-label = Adfer dim ond y rhai rydych eu heisiau
 welcome-back-page-info-link = Mae eich ychwanegion a'ch cyfaddasu wedi eu tynnu ac mae gosodiadau eich porwr wedi eu hadfer i'w rhagosodiad. Os nad yw hyn wedi trwsio eich anhawster, <a data-l10n-name="link-more">dysgu rhagor am beth fedrwch ei wneud.</a>
