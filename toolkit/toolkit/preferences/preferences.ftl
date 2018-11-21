@@ -15,3 +15,6 @@ pw-change-success-title = เปลี่ยนรหัสผ่านสำเ
 pw-change-failed-title = การเปลี่ยนรหัสผ่านล้มเหลว
 pw-remove-button =
     .label = เอาออก
+set-password =
+    .title = เปลี่ยนรหัสผ่านหลัก
+set-password-meter-loading = กำลังโหลด
