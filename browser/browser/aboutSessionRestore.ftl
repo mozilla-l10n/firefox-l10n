@@ -9,6 +9,8 @@ restore-page-tab-title = सत्र पुनर्स्थापित क�
 # Variables:
 #    $windowNumber: Progressive number associated to each window
 restore-page-window-label = विंडो { $windowNumber }
+restore-page-restore-header =
+    .label = पुनर्स्थापित करें
 restore-page-list-header =
     .label = विंडोज और टैब
 
