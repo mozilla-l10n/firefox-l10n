@@ -648,6 +648,9 @@ sitedata-cookies-exceptions =
 # in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
 # Cookies and Site Data section.
 sitedata-warning-your-settings-prevent-changes = Jo ynstellingen yn Ynhâldsblokkearring foarkomme wizigingen oan ynstellingen foar Cookies en websitegegevens.
+sitedata-cookies-permissions =
+    .label = Tastimmingen beheare…
+    .accesskey = T
 
 ## Privacy Section - Address Bar
 
@@ -688,6 +691,16 @@ content-blocking-fastblock-slow-loading-trackers-label =
     .label = Stadich ladende trackers
     .accesskey = S
 content-blocking-fastblock-new-description = Allinnich de trackers blokkearje dy't fluch laden fan siden tsjingean.
+content-blocking-setting-standard =
+    .label = Standert
+    .accesskey = S
+content-blocking-setting-strict =
+    .label = Streng
+    .accesskey = k
+content-blocking-setting-custom =
+    .label = Oanpast
+    .accesskey = O
+content-blocking-learn-how = Mear ynfo
 content-blocking-tracking-protection-trackers-label =
     .label = Trackers
     .accesskey = T
@@ -723,6 +736,9 @@ content-blocking-reject-trackers-block-trackers-option =
 content-blocking-reject-trackers-all-third-parties-option =
     .label = Alle cookies fan tredden (kin derfoar soargje dat websites net goed wurkje)
     .accesskey = A
+content-blocking-cookies-label =
+    .label = Cookies
+    .accesskey = C
 
 ## Privacy Section - Tracking
 
@@ -744,6 +760,9 @@ tracking-exceptions =
 tracking-change-block-list =
     .label = Blokkearlist wizigje…
     .accesskey = B
+tracking-manage-exceptions =
+    .label = Utsûndering beheare…
+    .accesskey = U
 
 ## Privacy Section - Permissions
 

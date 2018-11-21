@@ -1017,7 +1017,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.fastBlock.add.label "Blokkearring tafoegje…">
 
 <!ENTITY contentBlocking.trackingProtection2.label "Alle detektearre trackers">
+
 <!ENTITY contentBlocking.trackingProtection3.label "Trackers">
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.allowed.label):
+     This label signals that this type of content blocking is turned
+     OFF and is not blocking tracker content, so this is not
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Trackers [are] Allowed"-->
+<!ENTITY contentBlocking.trackingProtection.allowed.label "Tastien">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking tracker content, so this is
@@ -1053,6 +1060,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.3rdPartyCookies.add.label "Blokkearring tafoegje…">
+
+<!ENTITY contentBlocking.manageSettings.label "Ynhâldsblokkearring beheare">
+<!ENTITY contentBlocking.manageSettings.accesskey "Y">
+
+<!ENTITY contentBlocking.trackersView.label "Trackers">
+<!ENTITY contentBlocking.trackersView.strictInfo.label "Stel ynhâldsblokkearring yn op ‘Strang’ om alle trackers te blokkearjen.">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "In probleem rapportearje">
 <!ENTITY contentBlocking.breakageReportView.label "Problemen rapportearje">
