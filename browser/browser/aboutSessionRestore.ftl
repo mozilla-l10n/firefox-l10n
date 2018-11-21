@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restore-page-tab-title = ಅಧಿವೇಶನವನ್ನು ಮರಳಿ ಸ್ಥಾಪಿಸು
+restore-page-hide-tabs = ಹಿಂದಿನ ಹಾಳೆಯನ್ನು ಅಡಗಿಸು
+restore-page-show-tabs = ಹಿಂದಿನ ಹಾಳೆಯನ್ನು ತೋರಿಸು
 # When tabs are distributed across multiple windows, this message is used as a
 # header above the group of tabs for each window.
 #
@@ -13,6 +15,12 @@ restore-page-restore-header =
     .label = ಮರಳಿ ಸ್ಥಾಪಿಸು
 restore-page-list-header =
     .label = ವಿಂಡೋಗಳು ಹಾಗು ಹಾಳೆಗಳು
+restore-page-try-again-button =
+    .label = ಅಧಿವೇಶನವನ್ನು ಮರಳಿ ಸ್ಥಾಪಿಸು
+    .accesskey = R
+restore-page-close-button =
+    .label = ಹೊಸ ಅಧಿವೇಶನವನ್ನು ಆರಂಭಿಸಿ
+    .accesskey = N
 
 ## The following strings are used in about:welcomeback
 
