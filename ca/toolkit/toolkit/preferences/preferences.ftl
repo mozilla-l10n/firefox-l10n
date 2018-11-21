@@ -18,6 +18,7 @@ pw-remove-button =
 set-password =
     .title = Canvia la contrasenya mestra
 set-password-old-password = Contrasenya actual:
+set-password-new-password = Introduïu una contrasenya nova:
 set-password-reenter-password = Torneu a introduir la contrasenya:
 set-password-meter = Mesura de la qualitat de la contrasenya
 set-password-meter-loading = S'està carregant
