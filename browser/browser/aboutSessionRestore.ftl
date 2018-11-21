@@ -37,3 +37,4 @@ welcome-back-restore-button =
     .accesskey = ד
 welcome-back-restore-all-label = שחזור כל החלונות והלשוניות
 welcome-back-restore-some-label = שחזור של הלשוניות הרצויות בלבד
+welcome-back-page-info-link = ההרחבות וההתאמות האישיות שלך הוסרו והגדרות הדפדפן שוחזרו לברירת המחדל. אם פעולה זו לא פותרת את הבעיות, <a data-l10n-name="link-more">ניתן למצוא כאן פתרונות נוספים.</a>
