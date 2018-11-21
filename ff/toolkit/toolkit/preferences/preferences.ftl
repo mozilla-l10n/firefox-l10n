@@ -15,3 +15,7 @@ pw-change-success-title = Baylugol Finnde Moƴƴii
 pw-change-failed-title = Baylugol Finnde Woorii
 pw-remove-button =
     .label = Momtu
+set-password-old-password = Finnde woodnde:
+set-password-meter = Ɓetirɗe moƴƴugol finnde
+remove-password-old-password =
+    .value = Finnde woodnde:
