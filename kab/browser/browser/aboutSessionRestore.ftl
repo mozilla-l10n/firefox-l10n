@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-restore-page-tab-title = Tiririt n tɣimit{ " " }
+restore-page-tab-title = Tiririt n tɣimit
 # The title is intended to be apologetic and disarming, expressing dismay
 # and regret that we are unable to restore the session for the user
 restore-page-error-title = Nesḥassef. Nesɛa uguren akken ad d-nerr asebter-inek.
