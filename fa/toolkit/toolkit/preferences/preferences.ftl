@@ -15,3 +15,4 @@ pw-change-success-title = تغییر گذرواژه موفقیت‌آمیز بو
 pw-change-failed-title = تغییر گذرواژه شکست خورد
 pw-remove-button =
     .label = حذف
+set-password-reenter-password = گذرواژه را دوباره وارد کنید:
