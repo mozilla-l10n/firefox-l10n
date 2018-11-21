@@ -5,6 +5,9 @@
 
 ## Strings used for device manager
 
+devmgr =
+    .title = Xestor de dispositivos
+    .style = width: 67em; height: 32em;
 devmgr-devlist =
     .label = Módulos e dispositivos de seguranza
 devmgr-header-details =
@@ -35,9 +38,17 @@ devmgr-button-disable-fips =
 
 ## Strings used for load device
 
+load-device =
+    .title = Cargar o controlador do dispositivo PKCS#11
 load-device-info = Introduza a información do módulo que desexa engadir.
+load-device-modname =
+    .value = Nome do módulo
+    .accesskey = m
 load-device-modname-default =
     .value = Novo módulo PKCS#11
+load-device-filename =
+    .value = Nome do ficheiro do módulo
+    .accesskey = f
 load-device-browse =
     .label = Explorar…
     .accesskey = E
@@ -77,6 +88,13 @@ devinfo-serialnum =
     .label = Número de serie
 fips-nonempty-password-required = O modo FIPS requier que dispoña dun contrasinal principal para cada dispositivo de seguranza. Estabeleza o contrasinal antes de tentar activar este modo.
 unable-to-toggle-fips = Non é posíbel cambiar o modo FIPS para o dispositivo de seguranza. Recomendase que saia e reinicie este aplicativo.
+load-pk11-module-file-picker-title = Escolla un controlador de dispositivo PKCS#11 para cargar
+# Load Module Dialog
+load-module-help-empty-module-name =
+    .value = Non é posíbel que o nome do módulo estea baleiro.
+# Do not translate 'Root Certs'
+load-module-help-root-certs-module-name =
+    .value = «Root Certs» está reservado e non é posíbel usalo como nome do módulo.
 add-module-failure = Non foi posíbel engadir o módulo
 del-module-warning = Confirma que quere eliminar este módulo de seguranza?
 del-module-error = Non foi posíbel eliminar o módulo
