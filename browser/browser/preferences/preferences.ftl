@@ -665,6 +665,18 @@ content-blocking-toggle-label-on = চালু করুন
 content-blocking-toggle-label-off = বন্ধ
     .accesskey = O
 content-blocking-category-label = কি ব্লক করতে চান বলুন
+content-blocking-setting-standard =
+    .label = প্রমিত
+    .accesskey = d
+content-blocking-setting-strict =
+    .label = প্রখর
+    .accesskey = r
+content-blocking-setting-custom =
+    .label = স্বনির্ধারিত
+    .accesskey = C
+content-blocking-custom-desc = নির্বাচন করুন কি ব্লক করবেন
+content-blocking-third-party-cookies = তৃতীয় পক্ষের ট্র্যাকিং কুকি
+content-blocking-learn-how = শিখুন কিভাবে হয়
 content-blocking-tracking-protection-trackers-label =
     .label = ট্রাকারসমূহ
     .accesskey = T
@@ -690,6 +702,9 @@ content-blocking-reject-trackers-block-trackers-option-recommended =
 content-blocking-reject-trackers-block-trackers-option =
     .label = ট্রাকারসমূহ
     .accesskey = k
+content-blocking-cookies-label =
+    .label = কুকি
+    .accesskey = C
 
 ## Privacy Section - Tracking
 
@@ -711,6 +726,9 @@ tracking-exceptions =
 tracking-change-block-list =
     .label = ব্লক তালিকা পরিবর্তন করুন…
     .accesskey = C
+tracking-manage-exceptions =
+    .label = ব্যাতিক্রম ব্যবস্থাপনা…
+    .accesskey = x
 
 ## Privacy Section - Permissions
 
@@ -856,3 +874,7 @@ space-alert-under-5gb-message = { -brand-short-name } এ যথেষ্ট প
 desktop-folder-name = ডেস্কটপ
 downloads-folder-name = ডাউনলোড
 choose-download-folder-title = ডাউনলোড ফোল্ডার নির্বাচন করুন:
+# Variables:
+#   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
+save-files-to-cloud-storage =
+    .label = { $service-name } এ ফাইল সংরক্ষণ করুন
