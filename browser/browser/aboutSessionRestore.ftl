@@ -3,7 +3,11 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restore-page-tab-title = Επαναφορά συνεδρίας
+# The title is intended to be apologetic and disarming, expressing dismay
+# and regret that we are unable to restore the session for the user
+restore-page-error-title = Συγγνώμη. Έχουμε πρόβλημα στην επαναφορά των σελίδων σας.
 restore-page-problem-desc = Αντιμετωπίζουμε προβλήματα με την επαναφορά της τελευταίας σας συνεδρίας περιήγησης. Επιλέξτε το "Επαναφορά συνεδρίας" για να δοκιμάσετε ξανά.
+restore-page-try-this = Δεν είστε ακόμα σε θέση να επαναφέρετε την συνεδρία σας; Μερικές φορές μια καρτέλα προκαλεί αυτό το πρόβλημα. Προβάλετε προηγούμενες καρτέλες, καταργήστε το σημάδι ελέγχου από τις καρτέλες που δεν χρειάζεται να ανακτήσετε και στη συνέχεια επαναφέρετε.
 # When tabs are distributed across multiple windows, this message is used as a
 # header above the group of tabs for each window.
 #
