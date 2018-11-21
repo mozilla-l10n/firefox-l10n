@@ -10,6 +10,12 @@ restore-page-problem-desc = Chúng tôi đang gặp sự cố khi khôi phục l
 restore-page-try-this = Vẫn không thể phục hồi phiên làm việc của bạn? Đôi khi một thẻ đang gây ra sự cố. Xem các thẻ trước đó, bỏ chọn các thẻ mà bạn không cần khôi phục, và sau đó khôi phục lại.
 restore-page-hide-tabs = Ẩn thẻ trước đó
 restore-page-show-tabs = Xem thẻ trước đó
+# When tabs are distributed across multiple windows, this message is used as a
+# header above the group of tabs for each window.
+#
+# Variables:
+#    $windowNumber: Progressive number associated to each window
+restore-page-window-label = Cửa sổ { $windowNumber }
 restore-page-restore-header =
     .label = Khôi phục
 restore-page-list-header =
