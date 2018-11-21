@@ -648,6 +648,9 @@ sitedata-cookies-exceptions =
 # in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
 # Cookies and Site Data section.
 sitedata-warning-your-settings-prevent-changes = Suas configurações de bloqueio de conteúdo estão impedindo mudanças nas configurações de Cookies e Dados de sites.
+sitedata-cookies-permissions =
+    .label = Gerenciar permissões…
+    .accesskey = p
 
 ## Privacy Section - Address Bar
 
@@ -688,6 +691,25 @@ content-blocking-fastblock-slow-loading-trackers-label =
     .label = Rastreadores que atrasam o carregamento
     .accesskey = a
 content-blocking-fastblock-new-description = Bloqueia somente os rastreadores que impedem que páginas sejam carregadas rapidamente.
+content-blocking-setting-standard =
+    .label = Padrão
+    .accesskey = d
+content-blocking-setting-strict =
+    .label = Estrito
+    .accesskey = r
+content-blocking-setting-custom =
+    .label = Personalizado
+    .accesskey = z
+content-blocking-standard-desc = Balanceado entre proteção e desempenho. Permite alguns rastreadores, para que a maioria dos sites funcione adequadamente.
+content-blocking-strict-desc = Bloqueia todos os rastreadores que o { -brand-short-name } detecta. Pode atrapalhar alguns sites.
+content-blocking-custom-desc = Escolha o que bloquear.
+content-blocking-private-trackers = Rastreadores conhecidos, somente em janelas privativas
+content-blocking-third-party-cookies = Cookies rastreadores de terceiros
+content-blocking-all-windows-trackers = Rastreadores conhecidos, em todas as janelas
+content-blocking-all-third-party-cookies = Todos os cookies de terceiros
+content-blocking-warning-title = Preste atenção!
+content-blocking-warning-desc = Bloquear cookies e rastreadores pode atrapalhar alguns sites. É fácil desativar o bloqueio em sites que você confia.
+content-blocking-learn-how = Saiba como
 content-blocking-tracking-protection-trackers-label =
     .label = Rastreadores
     .accesskey = t
@@ -723,6 +745,9 @@ content-blocking-reject-trackers-block-trackers-option =
 content-blocking-reject-trackers-all-third-parties-option =
     .label = Todos os cookies de terceiros (pode atrapalhar sites)
     .accesskey = a
+content-blocking-cookies-label =
+    .label = Cookies
+    .accesskey = C
 
 ## Privacy Section - Tracking
 
