@@ -8,6 +8,8 @@ restore-page-tab-title = Restore Session
 restore-page-error-title = Sorry. We’re having trouble getting your pages back.
 restore-page-problem-desc = We are having trouble restoring your last browsing session. Select Restore Session to try again.
 restore-page-try-this = Still not able to restore your session? Sometimes a tab is causing the issue. View previous tabs, remove the tick from the tabs you don’t need to recover, and then restore.
+restore-page-hide-tabs = Hide Previous Tabs
+restore-page-show-tabs = View Previous Tabs
 # When tabs are distributed across multiple windows, this message is used as a
 # header above the group of tabs for each window.
 #
