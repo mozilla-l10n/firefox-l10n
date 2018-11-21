@@ -37,3 +37,4 @@ welcome-back-restore-button =
     .accesskey = L
 welcome-back-restore-all-label = सभी विंडो और टैब को पुरानी स्थिति में लाएँ
 welcome-back-restore-some-label = अपने चाहते को पुनर्स्थापित करें
+welcome-back-page-info-link = आपका ऐड-ऑन और मनपसंदीदा को मिटा दिया गया है। और आपके ब्राउज़र सेटिंग को पुरानी स्तिथि में ला दिया गाया है।यदि ये आपकी समस्या का हल न कर पाये, <a data-l10n-name="link-more">अधिक जानने ,कि आप क्या कर सकते हैं.</a>
