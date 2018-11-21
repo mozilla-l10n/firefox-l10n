@@ -62,6 +62,7 @@ permissions-exceptions-tracking-protection-window =
     .title = Ausnahmen - Schutz vor Aktivitätenverfolgung
     .style = { permissions-window.style }
 permissions-exceptions-tracking-protection-desc = Sie haben den Schutz vor Aktivitätenverfolgung auf folgenden Seiten deaktiviert.
+permissions-exceptions-content-blocking-desc = Sie haben das Blockieren von Seitenelementen auf diesen Websites deaktiviert.
 
 ## Exceptions - Cookies
 
