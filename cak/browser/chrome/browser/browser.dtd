@@ -1062,7 +1062,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.3rdPartyCookies.add.label "Nitz'aqatisäx Q'atoj…">
 
 <!ENTITY contentBlocking.manageSettings.label "Tinuk'samajïx Ruq'atik Rupam">
+<!ENTITY contentBlocking.manageSettings.accesskey "T">
 
+<!ENTITY contentBlocking.trackersView.label "Ojqanela'">
+<!ENTITY contentBlocking.trackersView.strictInfo.label "Richin yeq'at ri ojqanela', tib'an runuk'ulem ruq'atik rupam pa  “Nimaläj”.">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Tiya' rutzijol jun k'ayewal">
 <!ENTITY contentBlocking.breakageReportView.label "Tiya' Kitzijol K'ayewal">
