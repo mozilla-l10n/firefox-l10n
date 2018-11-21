@@ -1017,7 +1017,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.fastBlock.add.label "Asewḥel n udellel…">
 
 <!ENTITY contentBlocking.trackingProtection2.label "Ineḍfaren meṛṛa ittwaksen">
+
 <!ENTITY contentBlocking.trackingProtection3.label "Ineḍfaren">
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.allowed.label):
+     This label signals that this type of content blocking is turned
+     OFF and is not blocking tracker content, so this is not
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Trackers [are] Allowed"-->
+<!ENTITY contentBlocking.trackingProtection.allowed.label "Ittusireg">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking tracker content, so this is
@@ -1053,6 +1060,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.3rdPartyCookies.add.label "Asewḥel n udellel…">
+
+
+<!ENTITY contentBlocking.trackersView.label "Ineḍfaren">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Azen-d ugur">
 <!ENTITY contentBlocking.breakageReportView.label "Azen-d uguren">

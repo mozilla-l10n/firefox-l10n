@@ -668,6 +668,7 @@ addressbar-suggestions-settings = Snifel ismenyifen i yisumar n umsedday n unadi
 
 content-blocking-header = Asewḥel n ugbur
 content-blocking-desc = Sewḥel Agbur n tɣawsiwin tis kraḍ, am udellel neɣ tangalt, isaẓayen timing-inek, i k-iṭṭafaren deg web. Sagen iɣewwaren-inek i tunigin ifazen deg taɣellist.
+content-blocking-description = Sewḥel Agbur n tɣawsiwin tis kraḍ i k-yeṭṭafaren di web. Senqed acḥal seg urmud-ik di web i yettwakelsen u yettwabḍan gar ismal.
 content-blocking-learn-more = Issin ugar
 content-blocking-restore-defaults =
     .label = Err-d imezwar
@@ -688,6 +689,20 @@ content-blocking-fastblock-slow-loading-trackers-label =
     .label = Ineḍfaren isaẓẓayen asali
     .accesskey = s
 content-blocking-fastblock-new-description = Sewḥel kan ineḍfaren isaẓẓayen asali n isebtar.
+content-blocking-setting-standard =
+    .label = Tizeɣt
+    .accesskey = z
+content-blocking-setting-strict =
+    .label = Uḥris
+    .accesskey = ḥ
+content-blocking-setting-custom =
+    .label = Udmawan
+    .accesskey = d
+content-blocking-custom-desc = Fren ayen ara tesweḥleḍ.
+content-blocking-private-trackers = Ineḍfaren yettwasnen deg usfaylu uslig kan
+content-blocking-third-party-cookies = Inagan n tuqna n uḍfar n tɣawsiwin tis kraḍ
+content-blocking-all-third-party-cookies = Akk inagan n tuqqna n wis kraḍ
+content-blocking-learn-how = Issin amek
 content-blocking-tracking-protection-trackers-label =
     .label = Ineḍfaren
     .accesskey = I
@@ -723,6 +738,9 @@ content-blocking-reject-trackers-block-trackers-option =
 content-blocking-reject-trackers-all-third-parties-option =
     .label = Akk inagan n tuqqna wis kraḍ (zemren ad rẓen isaml web)
     .accesskey = A
+content-blocking-cookies-label =
+    .label = Inagan n tuqqna
+    .accesskey = I
 
 ## Privacy Section - Tracking
 
