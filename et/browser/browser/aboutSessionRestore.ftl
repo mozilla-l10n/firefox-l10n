@@ -35,4 +35,6 @@ welcome-back-page-info = { -brand-short-name } on kasutamiseks valmis.
 welcome-back-restore-button =
     .label = Alustame!
     .accesskey = A
+welcome-back-restore-all-label = Taastatakse kõik aknad ja kaardid
+welcome-back-restore-some-label = Taastatakse ainult need, mida soovid
 welcome-back-page-info-link = Sinu lisatud lisad ja kohandamised on eemaldatud ning sinu brauseri sätted on lähtestatud algseisu. Kui see ei parandanud sinu probleemi, siis <a data-l10n-name="link-more">loe edasi, mida veel saad teha.</a>
