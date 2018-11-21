@@ -15,3 +15,4 @@ pw-change-success-title = Paròlla segreta cangiâ
 pw-change-failed-title = Cangio de paròlla segreta no ariescio
 pw-remove-button =
     .label = Scancella
+set-password-meter-loading = Caregando
