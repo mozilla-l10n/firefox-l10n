@@ -22,6 +22,7 @@ set-password-new-password = Ngenisa igama lokugqithisa elitsha:
 set-password-reenter-password = Phinda ungenise igama lokugqithisa:
 set-password-meter = Umlinganiselo womgangatho wegama lokugqithisa
 set-password-meter-loading = Kuyalayishwa
+master-password-description = Kusetyenziswa Igama Lokugqithisa Elingumalathindlela ukukhusela ulwazi olubuthathaka olufana namagama okugqithisa esiza.  Ukuba uyila Igama Lokugqithisa Elingumalathindlela uya kucelwa ukuba ulingenise kanye ngeseshoni nganye xa i-{ -brand-short-name } ifumana kwakhona ulwazi olugciniweyo olukhuselwe ligama lokugqithisa.
 master-password-warning = Nceda qiniseka ukuba ukhumbula Igama Lokugqithisa olimiseleyo.  Ukuba uyalilibala igama Lokugqithisa Elingumalathindlela, akusayi kukwazi ukufikelela nakoluphi ulwazi olukhuselwe lilo.
 remove-password =
     .title = Susa Igama Lokugqithisa Elingumalathindlela
