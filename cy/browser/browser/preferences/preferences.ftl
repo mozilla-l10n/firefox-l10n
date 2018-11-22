@@ -700,6 +700,12 @@ content-blocking-fastblock-slow-loading-trackers-label =
     .label = Tracwyr Llwytho'n Araf
     .accesskey = A
 content-blocking-fastblock-new-description = Rhwystro dim ond y tracwyr sy'n atal tudalennau rhag llwytho'n gyflym.
+content-blocking-setting-standard =
+    .label = Safonol
+    .accesskey = S
+content-blocking-setting-strict =
+    .label = Llym
+    .accesskey = L
 content-blocking-tracking-protection-trackers-label =
     .label = Tracwyr
     .accesskey = T
@@ -735,6 +741,9 @@ content-blocking-reject-trackers-block-trackers-option =
 content-blocking-reject-trackers-all-third-parties-option =
     .label = Pob cwci trydydd parti (gall achosi i wefannau dorri)
     .accesskey = P
+content-blocking-cookies-label =
+    .label = Cwcis
+    .accesskey = C
 
 ## Privacy Section - Tracking
 
