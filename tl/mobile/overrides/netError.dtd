@@ -202,3 +202,4 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> gumagamit ng teknolohiya ng seguridad na lipas na sa panahon at mahina ang pag-atake. Ang isang magsasalakay ay madaling maipakita ang impormasyon na inisip mong ligtas. Kailangan ng administrator ng website na ayusin ang server muna bago mo mabisita ang site.</p><p>Error code: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY networkProtocolError.title "Network Protocol Error">
+<!ENTITY networkProtocolError.longDesc "<p>The page you are trying to view cannot be shown because an error in the network protocol was detected.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">

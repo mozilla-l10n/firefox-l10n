@@ -301,6 +301,7 @@
 <!ENTITY pref_feature_tips_notification_enabling_path "&pref_category_privacy_short; > &pref_category_datareporting; > &datareporting_fhr_title;">
 <!-- Localization note (pref_feature_tips_notification_enabling_hint):
      Describe the action the user should do to enable this preference. -->
+<!ENTITY pref_feature_tips_notification_enabling_hint2 "(To enable this option, &pref_feature_tips_notification_enabling_path; must already be enabled.)">
 
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
@@ -917,7 +918,9 @@ Picture-in-picture mini window -->
 <!ENTITY leanplum_default_notifications_channel "&brandShortName; Mga push notification">
 <!ENTITY media_notification_channel2 "Tunog at video">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
+<!ENTITY leanplum_default_notifications_channel2 "&vendorShortName; tips and tricks">
 <!ENTITY updater_notification_channel "Mga update ng app">
 <!ENTITY synced_tabs_notification_channel "Mga naka-sync na tab">
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
 web sites through the HTML Notifications API. -->
+<!ENTITY site_notifications_channel "Mga notipikasyon">
