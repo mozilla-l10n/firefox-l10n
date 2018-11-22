@@ -600,6 +600,9 @@ sitedata-keep-until-expire =
     .label = 만료 될 때까지
 sitedata-keep-until-closed =
     .label = { -brand-short-name }가 닫힐때 까지
+sitedata-delete-on-close =
+    .label = { -brand-short-name }가 닫힐 때 쿠키와 사이트 데이타를 삭제
+    .accesskey = c
 sitedata-allow-cookies-option =
     .label = 쿠키와 사이트 데이타 허용
     .accesskey = A
@@ -633,6 +636,9 @@ sitedata-cookies-exceptions =
 # in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
 # Cookies and Site Data section.
 sitedata-warning-your-settings-prevent-changes = 콘텐츠 차단 설정이 쿠키와 사이트 데이타 설정의 변경을 막고 있습니다.
+sitedata-cookies-permissions =
+    .label = 권한 관리…
+    .accesskey = P
 
 ## Privacy Section - Address Bar
 
@@ -874,3 +880,7 @@ space-alert-under-5gb-message = { -brand-short-name } 디스크 용량이 부족
 desktop-folder-name = 바탕 화면
 downloads-folder-name = 다운로드
 choose-download-folder-title = 다운로드 폴더 선택:
+# Variables:
+#   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
+save-files-to-cloud-storage =
+    .label = { $service-name }에 파일 저장
