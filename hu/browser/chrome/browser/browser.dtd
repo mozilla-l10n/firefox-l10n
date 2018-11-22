@@ -1060,7 +1060,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.3rdPartyCookies.add.label "Blokkolás hozzáadása…">
 
+<!ENTITY contentBlocking.manageSettings.label "Tartalomblokkolás kezelése">
+<!ENTITY contentBlocking.manageSettings.accesskey "T">
 
+<!ENTITY contentBlocking.trackersView.label "Követők">
+<!ENTITY contentBlocking.trackersView.strictInfo.label "Az összes követő blokkolásához állítson be „Szigorú” tartalomblokkolást.">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Probléma bejelentése">
 <!ENTITY contentBlocking.breakageReportView.label "Problémák bejelentése">
