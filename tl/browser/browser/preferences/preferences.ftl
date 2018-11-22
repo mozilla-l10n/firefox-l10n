@@ -334,10 +334,14 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Maghahanap ng text kapag nag umpisang mag-type
     .accesskey = x
+browsing-cfr-recommendations =
+    .label = Magrekomenda ng mga extension habang nagba-browse ka
+    .accesskey = R
 browsing-cfr-recommendations-learn-more = Alamin pa
 
 ## General Section - Proxy
 
+network-settings-title = Ibalik ang Mga Setting
 network-proxy-connection-description = I-configure kung pano kumokonekta ang { -brand-short-name } sa internet.
 network-proxy-connection-learn-more = Matuto ng higit pa
 network-proxy-connection-settings =
@@ -353,6 +357,9 @@ home-new-windows-tabs-description2 = Pumili ng kung ano ang gustong makita kapag
 
 home-homepage-mode-label = Homepage at bagong windows
 home-newtabs-mode-label = Bagong mga tab
+home-restore-defaults =
+    .label = Ibalik sa dating ayos
+    .accesskey = I
 # "Firefox" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
