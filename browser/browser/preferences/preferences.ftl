@@ -209,6 +209,11 @@ choose-language-description = Escolla o seu idioma preferido para amosar as páx
 choose-button =
     .label = Escoller…
     .accesskey = o
+manage-browser-languages-button =
+    .label = Estabelecer alternativas…
+    .accesskey = l
+confirm-browser-language-change-description = Reiniciar { -brand-short-name } para aplicar estes cambios
+confirm-browser-language-change-button = Aplicar e reiniciar
 translate-web-pages =
     .label = Traducir contido web
     .accesskey = T
@@ -280,6 +285,10 @@ update-application-use-service =
 update-enable-search-update =
     .label = Actualizar automaticamente os buscadores
     .accesskey = e
+update-pref-write-failure-title = Erro de escritura
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = Non é posíbel gardar a preferencia. Non foi posíbel escribir no ficheiro: { $path }
 
 ## General Section - Performance
 
@@ -319,9 +328,14 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Buscar o texto ao comezar a escribir
     .accesskey = x
+browsing-cfr-recommendations =
+    .label = Recomendar extensións mentres navega
+    .accesskey = R
+browsing-cfr-recommendations-learn-more = Máis información
 
 ## General Section - Proxy
 
+network-settings-title = Configuración de rede
 network-proxy-connection-description = Configurar o modo en que { -brand-short-name } se conecta á Internet.
 network-proxy-connection-learn-more = Obter máis información
 network-proxy-connection-settings =
@@ -519,6 +533,7 @@ privacy-header = Privacidade do navegador
 ## Privacy Section - Forms
 
 forms-header = Formularios e contrasinais
+logins-header = Identificacións e contrasinais
 forms-ask-to-save-logins =
     .label = Preguntar se gardar identificacións e contrasinais de acceso nos sitios web
     .accesskey = r
@@ -591,6 +606,19 @@ sitedata-keep-until-expire =
     .label = Que caduquen
 sitedata-keep-until-closed =
     .label = Pechar { -brand-short-name }
+sitedata-delete-on-close =
+    .label = Eliminar as cookies e datos do sitio cando peche { -brand-short-name }
+    .accesskey = c
+sitedata-allow-cookies-option =
+    .label = Aceptar cookies e datos do sitio
+    .accesskey = A
+sitedata-disallow-cookies-option =
+    .label = Bloquear cookies e datos do sitio
+    .accesskey = B
+# This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
+# The list items are the strings named sitedata-block-*-option*.
+sitedata-block-desc = Tipo de contido bloqueado
+    .accesskey = T
 sitedata-clear =
     .label = Borrar datos...
     .accesskey = B
@@ -618,6 +646,73 @@ addressbar-suggestions-settings = Cambiar as preferencias relacionadas coas suxe
 
 ## Privacy Section - Content Blocking
 
+content-blocking-learn-more = Máis información
+content-blocking-restore-defaults =
+    .label = Restaurar predeterminados
+    .accesskey = R
+content-blocking-toggle-on =
+    .tooltiptext = Desactivar o bloqueo de contido
+content-blocking-toggle-off =
+    .tooltiptext = Activar o bloqueo de contido
+content-blocking-toggle-label-on = ACTIVADO
+    .accesskey = O
+content-blocking-toggle-label-off = DESACTIVADO
+    .accesskey = O
+content-blocking-category-label = Escolla que vai bloquear
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-slow-loading-trackers-label =
+    .label = Elementos de seguimento que demoran
+    .accesskey = s
+content-blocking-fastblock-new-description = Bloquear só os elementos de seguimento que impiden que as páxinas se carguen rapidamente.
+content-blocking-setting-standard =
+    .label = Estándar
+    .accesskey = d
+content-blocking-setting-strict =
+    .label = Estrito
+    .accesskey = r
+content-blocking-setting-custom =
+    .label = Personalizado
+    .accesskey = z
+content-blocking-custom-desc = Escolla que vai bloquear.
+content-blocking-third-party-cookies = Cookies de terceiros usadas con fins de seguimento
+content-blocking-all-windows-trackers = Elementos de seguimento coñecidos en todas as xanelas
+content-blocking-all-third-party-cookies = Todas as cookies de terceiros
+content-blocking-warning-title = Atención!
+content-blocking-learn-how = Coñeza como
+content-blocking-tracking-protection-trackers-label =
+    .label = Elementos de seguimento
+    .accesskey = t
+content-blocking-tracking-protection-all-detected-trackers-label =
+    .label = Todos os elementos de seguimento detectados
+    .accesskey = T
+content-blocking-tracking-protection-new-description = Bloquear todos os elementos de seguimento coñecidos. (Pode impedir que algunhas páxinas se carguen.)
+content-blocking-tracking-protection-option-always =
+    .label = Sempre
+    .accesskey = m
+content-blocking-tracking-protection-option-private =
+    .label = Só nas xanelas privadas
+    .accesskey = p
+content-blocking-tracking-protection-change-block-list = Cambiar a lista de bloqueo
+content-blocking-third-party-cookies-label =
+    .label = Cookies de terceiros
+    .accesskey = C
+content-blocking-change-cookie-settings =
+    .label = Cambiar a configuración de cookies
+    .accesskey = s
+content-blocking-reject-trackers-block-trackers-option-recommended =
+    .label = Elementos de seguimento (recomendado)
+    .accesskey = g
+content-blocking-reject-trackers-block-trackers-option =
+    .label = Elementos de seguimento
+    .accesskey = E
+content-blocking-reject-trackers-all-third-parties-option =
+    .label = Todas as cookies de terceiros (pode causar erros nos sitios web)
+    .accesskey = a
+content-blocking-cookies-label =
+    .label = Cookies
+    .accesskey = C
 
 ## Privacy Section - Tracking
 
@@ -639,6 +734,9 @@ tracking-exceptions =
 tracking-change-block-list =
     .label = Cambiar a lista de bloqueo…
     .accesskey = C
+tracking-manage-exceptions =
+    .label = Xestionar as excepcións…
+    .accesskey = X
 
 ## Privacy Section - Permissions
 
@@ -676,6 +774,7 @@ autoplay-option-allow =
     .label = Permitir reprodución automática
 autoplay-option-dont =
     .label = Non reproducir de forma automática
+permissions-autoplay-link = Máis información
 permissions-block-popups =
     .label = Bloquear xanelas emerxentes
     .accesskey = B
@@ -701,7 +800,7 @@ collection-privacy-notice = Política de privacidade
 collection-health-report =
     .label = Permitir a { -brand-short-name } o envío de datos técnicos e de interacción a { -vendor-short-name }
     .accesskey = r
-collection-health-report-link = Obter máis información
+collection-health-report-link = Máis información
 collection-studies =
     .label = Permitir a { -brand-short-name } instalar e executar estudios
 collection-studies-link = Ver os estudos de { -brand-short-name }
