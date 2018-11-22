@@ -23,6 +23,7 @@
 <!ENTITY  reloadTab.accesskey                "R">
 <!ENTITY  reloadAllTabs.label                "ផ្ទុក​ផ្ទាំង​ទាំងអស់​ឡើងវិញ">
 <!ENTITY  reloadAllTabs.accesskey            "A">
+<!ENTITY  selectAllTabs.label                "ជ្រើសរើស​ផ្ទាំង​ទាំងអស់">
 <!ENTITY  selectAllTabs.accesskey            "S">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
@@ -30,6 +31,7 @@ a tab (i.e. it is a verb, not adjective). -->
 <!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  duplicateTab.accesskey             "D">
+<!ENTITY  closeTabOptions.label              "បិទ​ផ្ទាំងជម្រើស">
 <!ENTITY  closeTabOptions.accesskey          "O">
 <!-- LOCALIZATION NOTE (duplicateTabs.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
@@ -46,6 +48,7 @@ left instead of right. -->
 
 <!ENTITY  closeSelectedTabs.accesskey        "S">
 
+<!ENTITY  closeTabs.label                    "បិទ​ផ្ទាំង">
 <!ENTITY  closeTabs.accesskey                "S">
 <!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
@@ -60,6 +63,7 @@ but will never be visible at the same time. -->
 <!ENTITY  reloadSelectedTabs.accesskey       "R">
 <!-- LOCALIZATION NOTE(reloadTab.label, reloadTabs.label): have the same accesskey
 but will never be visible at the same time. -->
+<!ENTITY  reloadTabs.label                   "ផ្ទុក​ផ្ទាំង​ឡើងវិញ">
 <!ENTITY  reloadTabs.accesskey               "R">
 <!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
@@ -88,7 +92,9 @@ same accesskey but will never be visible at the same time. -->
 <!ENTITY  sendLinkToDevice.accesskey         "D">
 <!-- LOCALIZATION NOTE (moveTabOptions.label and moveSelectedTabOptions.label):
 These two items have the same accesskey but will never be visible at the same time. -->
+<!ENTITY  moveTabOptions.label               "ផ្លាស់ទី​ផ្ទាំង">
 <!ENTITY  moveTabOptions.accesskey           "v">
+<!ENTITY  moveSelectedTabOptions.label       "ផ្លាស់ទី​ផ្ទាំង">
 <!ENTITY  moveSelectedTabOptions.accesskey   "v">
 <!ENTITY  moveToStart.label                  "ផ្លាស់ទី​ទៅ​ចាប់ផ្ដើម">
 <!ENTITY  moveToStart.accesskey              "S">
@@ -976,11 +982,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
 
+
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.allowed.label):
+     This label signals that this type of content blocking is turned
+     OFF and is not blocking tracker content, so this is not
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Trackers [are] Allowed"-->
+<!ENTITY contentBlocking.trackingProtection.allowed.label "បាន​អនុញ្ញាត">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking tracker content, so this is
      a positive thing. It forms the end of the (imaginary) sentence
      "Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.trackingProtection.blocked.label "បាន​ទប់ស្កាត់">
 <!-- LOCALIZATION NOTE (contentBlocking.tranckingProtection.blocking.label):
      This label signals that this type of content blocking is turned
      ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
@@ -995,6 +1009,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      ON and is successfully blocking third-party cookies, so this is
      a positive thing. It forms the end of the (imaginary) sentence
      "Third-Party Cookies [are] Blocked"-->
+<!ENTITY contentBlocking.3rdPartyCookies.blocked.label "បាន​ទប់ស្កាត់">
 <!-- LOCALIZATION NOTE (contentBlocking.tranckingProtection.blocking.label):
      This label signals that this type of content blocking is turned
      ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
@@ -1004,6 +1019,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
 
+
+
+<!ENTITY contentBlocking.breakageReportView.learnMore "ស្វែង​យល់​បន្ថែម">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "ផ្ញើ​របាយការណ៍">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "បោះបង់">
 
