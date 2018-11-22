@@ -92,6 +92,9 @@ permissions-exceptions-addons-desc = သင်သည်မည်သည့်၀�
 
 ## Exceptions - Autoplay Media
 
+permissions-exceptions-autoplay-media-window2 =
+    .title = ခြွင်းချက်- အလိုလျောက်ပြသမှု
+    .style = { permissions-window.style }
 
 ## Site Permissions - Notifications
 

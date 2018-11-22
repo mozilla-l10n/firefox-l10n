@@ -5,6 +5,8 @@
 
 ## Settings
 
+site-data-settings-window =
+    .title = ကွတ်ကီးနှင့်ဆိုက်အချက်အလက်များကို စီမံပါ
 site-data-search-textbox =
     .placeholder = ဝဘ်ဆိုက်များကို ရှာဖွေရန်
     .accesskey = S

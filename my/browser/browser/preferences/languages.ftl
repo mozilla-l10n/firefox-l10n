@@ -50,3 +50,5 @@ browser-languages-downloading =
 browser-languages-select-language =
     .label = ပေါင်းထည့်ရန် ဘာသာစကားရွေးပါ
     .placeholder = ပေါင်းထည့်ရန် ဘာသာစကားရွေးပါ
+browser-languages-installed-label = သွင်းထားသော ဘာသာစကားများ
+browser-languages-available-label = ရရှိနိုင်သော ဘာသာစကားများ

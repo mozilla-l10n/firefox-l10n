@@ -51,6 +51,7 @@ pane-sync-title = Firefox အကောင့်
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = { -brand-short-name } အထောက်အပံ့
+addons-button-label = တိုးချဲ့မှုနှင့် အပြင်အဆင်များ
 focus-search =
     .key = f
 close-button =
@@ -615,6 +616,9 @@ addressbar-suggestions-settings = ရှာဖွေရေးယန္တရာ�
 ## Privacy Section - Content Blocking
 
 content-blocking-learn-more = ပိုမိုလေ့လာရန်
+content-blocking-restore-defaults =
+    .label = စံပုံစံများ ပြန်လည်သိမ်းပါ
+    .accesskey = R
 content-blocking-toggle-label-on = ဖွင့်
     .accesskey = O
 content-blocking-toggle-label-off = ပိတ်
@@ -622,6 +626,19 @@ content-blocking-toggle-label-off = ပိတ်
 content-blocking-tracking-protection-option-always =
     .label = အမြဲ
     .accesskey = A
+content-blocking-tracking-protection-option-private =
+    .label = သီးသန့်ကြည့်ရှုမှုသာလျှင်
+    .accesskey = p
+content-blocking-tracking-protection-change-block-list = ပိတ်ထားသည့်စာရင်းကို ပြောင်းရန်
+content-blocking-third-party-cookies-label =
+    .label = အခြား ကွတ်ကီးများ
+    .accesskey = C
+content-blocking-reject-trackers-block-trackers-option-recommended =
+    .label = ခြေရာခံသူများ (အကြံပေးချက်)
+    .accesskey = k
+content-blocking-reject-trackers-block-trackers-option =
+    .label = ခြေရာခံသူများ
+    .accesskey = k
 
 ## Privacy Section - Tracking
 
@@ -669,6 +686,12 @@ permissions-notification-pause =
 permissions-block-autoplay-media-exceptions =
     .label = ခြွင်းချက်များ
     .accesskey = E
+autoplay-option-ask =
+    .label = အမြဲမေးပါ
+autoplay-option-allow =
+    .label = အလိုအလျောက်ပြသမှု ဖွင့်ပါ
+autoplay-option-dont =
+    .label = အလိုအလျောက်ပြသမှု ပိတ်ပါ
 permissions-autoplay-link = ပိုမိုလေ့လာရန်
 permissions-block-popups =
     .label = ပေါ့အပ်ဝင်းဒိုးများကို မဖွင့်ပါနှင့်
@@ -770,3 +793,7 @@ space-alert-under-5gb-message = { -brand-short-name } ကို အသုံး�
 desktop-folder-name = ဒက်စ်တော့
 downloads-folder-name = ဆွဲယူထားသော ဖိုင်များ
 choose-download-folder-title = ဆွဲယူထားသည့် ဖိုင်များထားရာနေရာကို ရွေးပါ
+# Variables:
+#   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
+save-files-to-cloud-storage =
+    .label = { $service-name } သို့ ဖိုင်မှတ်သားပါ

@@ -15,6 +15,7 @@ dialog-title =
 dialog-title-everything =
     .title = မှတ်တမ်းအားလုံးကို ရှင်းပါမည်
     .style = width: 34em
+clear-data-settings-label = ပိတ်သည့်အခါ { -brand-short-name } နှင့်ဆိုင်သည့်အချက်အလက်များကို အလိုအလျောက် ရှင်းလင်းသင့်တယ်
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
