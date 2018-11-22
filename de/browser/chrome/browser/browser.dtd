@@ -1072,6 +1072,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate6.label, trackingProtection.unblockPrivate6.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate5.label "Blockieren temporär deaktivieren">
 <!ENTITY trackingProtection.block6.label "Blockierung für diese Website aktivieren">
 <!ENTITY trackingProtection.reload2.label "Seite neu laden">
 <!ENTITY trackingProtection.reload2.accesskey "n">
