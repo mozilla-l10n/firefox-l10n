@@ -648,6 +648,9 @@ sitedata-cookies-exceptions =
 # in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
 # Cookies and Site Data section.
 sitedata-warning-your-settings-prevent-changes = A Tartalomblokkolási beállítások megakadályozzák, hogy módosítson a Sütik és oldaladatok beállításain.
+sitedata-cookies-permissions =
+    .label = Engedélyek kezelése…
+    .accesskey = E
 
 ## Privacy Section - Address Bar
 
@@ -688,6 +691,7 @@ content-blocking-fastblock-slow-loading-trackers-label =
     .label = Lassan betöltő követők
     .accesskey = L
 content-blocking-fastblock-new-description = Csak azon követők blokkolása, melyek megakadályozzák az oldalak gyors betöltését.
+content-blocking-learn-how = Tudja meg, hogyan
 content-blocking-tracking-protection-trackers-label =
     .label = Követők
     .accesskey = K
