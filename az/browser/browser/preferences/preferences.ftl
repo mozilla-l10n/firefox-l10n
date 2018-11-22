@@ -648,6 +648,9 @@ sitedata-cookies-exceptions =
 # in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
 # Cookies and Site Data section.
 sitedata-warning-your-settings-prevent-changes = Məzmun Əngəlləmə tənzimləmələriniz Çərəzlər və Sayt Məlumatları tənzimləmələrini dəyişdirməyə imkan vermirlər.
+sitedata-cookies-permissions =
+    .label = İcazələri idarə et…
+    .accesskey = P
 
 ## Privacy Section - Address Bar
 
@@ -668,6 +671,7 @@ addressbar-suggestions-settings = Axtarış mühərriyi təklifləri üçün niz
 
 content-blocking-header = Məzmun Əngəlləmə
 content-blocking-desc = Səyahətinizi yavaşladacaq və sizi internetdə izləyəcək reklam və kod kimi üçüncü tərəf məzmunları əngəllə. Tənzimləmələrinizi qoruma və məhsuldarlıq arasında ehtiyyacınıza görə tarazlaşdırın.
+content-blocking-description = Sizi internetdə izləyən üçüncü tərəf məzmunlarını əngəlləyin. Onlayn aktivliyinizin nə qədər saxlandığını və hansı saytlar arasında paylaşıldığını idarə edin.
 content-blocking-learn-more = Ətraflı Öyrən
 content-blocking-restore-defaults =
     .label = İlkin Seçənəkləri bərpa et
@@ -688,6 +692,25 @@ content-blocking-fastblock-slow-loading-trackers-label =
     .label = Yavaş yüklənən izləyicilər
     .accesskey = S
 content-blocking-fastblock-new-description = Ancaq səhifənin tez yüklənməsini əngəlləyən izləyiciləri əngəllə.
+content-blocking-setting-standard =
+    .label = Standart
+    .accesskey = d
+content-blocking-setting-strict =
+    .label = Sərt
+    .accesskey = r
+content-blocking-setting-custom =
+    .label = Fərdi
+    .accesskey = C
+content-blocking-standard-desc = Qoruma və məhsuldarlıq arasında tarazlaşdırılıb. Saytların düzgün işləyə bilmələri üçün bəzi izləyicilərə icazə verir.
+content-blocking-strict-desc = { -brand-short-name } tərəfindən aşkarlanan bütün izləyiciləri əngəlləyir. Bəzi saytların düz işləməməsinə səbəb ola bilər.
+content-blocking-custom-desc = Nəyi əngəlləyəcəyini seçin.
+content-blocking-private-trackers = Ancaq Məxfi Pəncərələrdə bilinən izləyicilər
+content-blocking-third-party-cookies = Üçüncü tərəf izləmə çərəzləri
+content-blocking-all-windows-trackers = Bütün pəncərələrdə bilinən izləyicilər
+content-blocking-all-third-party-cookies = Bütün üçüncü tərəf çərəzləri
+content-blocking-warning-title = Diqqət!
+content-blocking-warning-desc = Çərəzləri və izləyiciləri əngəlləmə bəzi saytların düzgün işləməmələrinə səbəb ola bilər. Güvəndiyiniz saytlar üçün əngəlləməni söndürmək çox asandır.
+content-blocking-learn-how = Necə edəcəyinizi öyrənin
 content-blocking-tracking-protection-trackers-label =
     .label = İzləyicilər
     .accesskey = T
@@ -723,6 +746,9 @@ content-blocking-reject-trackers-block-trackers-option =
 content-blocking-reject-trackers-all-third-parties-option =
     .label = Bütün üçüncü-tərəf çərəzlər (bəzi saytlar düz işləməyə bilər)
     .accesskey = A
+content-blocking-cookies-label =
+    .label = Çərəzlər
+    .accesskey = C
 
 ## Privacy Section - Tracking
 
@@ -744,6 +770,9 @@ tracking-exceptions =
 tracking-change-block-list =
     .label = Qara Siyahını Dəyiş…
     .accesskey = C
+tracking-manage-exceptions =
+    .label = İstisnaları idarə et…
+    .accesskey = x
 
 ## Privacy Section - Permissions
 
