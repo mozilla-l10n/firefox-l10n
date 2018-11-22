@@ -520,6 +520,8 @@ sitedata-total-size-calculating = កំពុងគណនាទិន្នន�
 sitedata-learn-more = ស្វែងយល់​បន្ថែម
 sitedata-keep-until = រក្សាទុករហូតដល់
     .accesskey = u
+sitedata-keep-until-expire =
+    .label = ពួកវា​ផុត​កំណត់
 sitedata-keep-until-closed =
     .label = { -brand-short-name } ត្រូវបានបិទ
 sitedata-clear =
@@ -549,6 +551,7 @@ addressbar-suggestions-settings = ប្ដូរ​ចំណូលចិត្�
 
 ## Privacy Section - Content Blocking
 
+content-blocking-header = ទប់ស្កាត់​មាតិកា
 content-blocking-learn-more = ស្វែងយល់​បន្ថែម
 content-blocking-restore-defaults =
     .label = ស្ដារ​លំនាំ​ដើម
@@ -557,6 +560,13 @@ content-blocking-toggle-label-on = បើក
     .accesskey = O
 content-blocking-toggle-label-off = បិទ
     .accesskey = O
+content-blocking-setting-standard =
+    .label = ស្ដង់ដា
+    .accesskey = d
+content-blocking-setting-custom =
+    .label = ផ្ទាល់ខ្លួន
+    .accesskey = C
+content-blocking-learn-how = ស្វែងយល់​ពី​របៀប
 
 ## Privacy Section - Tracking
 
