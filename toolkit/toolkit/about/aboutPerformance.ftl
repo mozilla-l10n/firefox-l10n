@@ -9,6 +9,7 @@ about-performance-title = Feladatkezelő
 
 column-name = Név
 column-type = Típus
+column-energy-impact = Energiahatás
 
 ## Special values for the Name column
 
@@ -43,3 +44,13 @@ close-tab =
     .title = Lap bezárása
 show-addon =
     .title = Megjelenítés a kiegészítőkezelőben
+# Tooltip when hovering an item of the about:performance table
+# Variables:
+#   $totalDispatches (Number) - how many dispatches occured for this page since it loaded
+#   $totalDuration (Number) - how much CPU time was used by this page since it loaded
+#   $dispatchesSincePrevious (Number) - how many dispatches occured in the last 2 seconds
+#   $durationSincePrevious (Number) - how much CPU time was used in the last 2 seconds
+item =
+    .title =
+        Átküldések a betöltés óta: { $totalDispatches } ({ $totalDuration } ms)
+        Átküldések az elmúlt két másodpercben: { $dispatchesSincePrevious } ({ $durationSincePrevious } ms)
