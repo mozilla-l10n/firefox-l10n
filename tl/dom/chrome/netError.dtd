@@ -21,6 +21,8 @@
 <!ENTITY netInterrupt.title "Naging Interrupted ang Data Transfer">
 
 
+<!ENTITY netOffline.title "Offline Mode">
+<!ENTITY netOffline.longDesc2 "<p>The browser is operating in its offline mode and cannot connect to the requested item.</p><ul><li>Is the computer connected to an active network?</li><li>Press &quot;Try Again&quot; to switch to online mode and reload the page.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Error sa Pag-encode ng Nilalaman">
 

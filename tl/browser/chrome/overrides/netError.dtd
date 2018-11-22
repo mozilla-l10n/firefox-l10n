@@ -28,8 +28,10 @@
 <!ENTITY dnsNotFound.title1 "Hmm. Nagkakaproblema kami sa paghahanap ng site na iyon.">
 
 <!ENTITY fileNotFound.title "Hindi makita ang file">
+<!ENTITY fileNotFound.longDesc "<ul><li>Suriin ang file name kung may capitalization o anumang mali sa pagkasulat.</li><li>Suriin kung ang file ay nalipat, nabago ang pangalan, o nabura.</li></ul>">
 
 <!ENTITY fileAccessDenied.title "Ang pagbukas ng file na ito ay hindi pinahihintulutan">
+<!ENTITY fileAccessDenied.longDesc "<ul><li>Maaaring ito ay nabura, nalipat, o ang nailagay na pahintulot sa file ang humarang upang ma-access ito.</li> </ul>">
 
 <!ENTITY generic.title "Oops.">
 

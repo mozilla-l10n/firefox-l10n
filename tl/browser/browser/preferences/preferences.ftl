@@ -6,6 +6,8 @@ do-not-track-description = Magpadala ng mga website ng signal na ”Huwag Subayb
 do-not-track-learn-more = Matuto ng higit pa
 do-not-track-option-default =
     .label = Lamang kapag gumagamit ng Pagsubaybay na Proteksyon
+do-not-track-option-default-content-blocking =
+    .label = Only when { -brand-short-name } is set to block Detected Trackers
 do-not-track-option-always =
     .label = Palagi
 pref-page =
@@ -82,6 +84,9 @@ extension-controlled-homepage-override = Ang extension, <img data-l10n-name="ico
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
 extension-controlled-new-tab-url = Ang extension, <img data-l10n-name="icon"/> { $name }, ay kumokontrol sa iyong Bagong Tab page.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlled-web-notifications = An extension, <img data-l10n-name="icon"/> { $name }, is controlling this setting.
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
 extension-controlled-default-search = Ang extension, <img data-l10n-name="icon"/> { $name }, ay sinet ang iyong default search engine.
@@ -91,9 +96,18 @@ extension-controlled-privacy-containers = Ang extension, <img data-l10n-name="ic
 # This string is shown to notify the user that their tracking protection preferences
 # are being controlled by an extension.
 extension-controlled-websites-tracking-protection-mode = Ang extension, <img data-l10n-name="icon"/> { $name }, ay nagkokontrol sa tracking protection.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlled-websites-content-blocking-all-trackers = An extension, <img data-l10n-name="icon"/> { $name }, is controlling this setting.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = Ang extension, <img data-l10n-name="icon"/> { $name }, ay nagkokontrol kung pano nagcoconnect ang { -brand-short-name } sa internet.
+# This string is shown after the user disables an extension to notify the user
+# how to enable an extension that they disabled.
+#
+# <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
+# <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
+extension-controlled-enable = Upang paganahin ang extension pumunta sa <img data-l10n-name = "addons-icon" /> Mga Add-on sa menu na <img data-l10n-name = "menu-icon" />.
 
 ## Preferences UI Search Results
 
@@ -124,6 +138,9 @@ is-not-default = Ang { -brand-short-name } ay hindi ang iyong default na browser
 set-as-my-default-browser =
     .label = Gawing Default…
     .accesskey = D
+startup-restore-previous-session =
+    .label = Ibalik ang Nakaraang Session
+    .accesskey = S
 disable-extension =
     .label = Huwag Paganahin and Extensyon
 tabs-group-header = Tabs
@@ -134,6 +151,9 @@ open-new-link-as-tabs =
     .label = Buksan ang mga link sa mga tab sa halip ng mga bagong window
     .accesskey = w
 warn-on-close-multiple-tabs =
+    .label = Babalaan ka kapag nagsasara ng maraming mga tab
+    .accesskey = m
+warn-on-quit-close-multiple-tabs =
     .label = Babalaan ka kapag nagsasara ng maraming mga tab
     .accesskey = m
 warn-on-open-many-tabs =
@@ -194,6 +214,12 @@ choose-language-description = Pumili ng iyong gustong wika para sa pagpapakita n
 choose-button =
     .label = Mamili…
     .accesskey = M
+choose-browser-language-description = Choose the languages used to display menus, messages, and notifications from { -brand-short-name }.
+manage-browser-languages-button =
+    .label = Itakda ang Alternatibo ...
+    .accesskey = I
+confirm-browser-language-change-description = Restart { -brand-short-name } to apply these changes
+confirm-browser-language-change-button = Mag-apply at I-restart
 translate-web-pages =
     .label = Isalin ang nilalaman ng web
     .accesskey = T
@@ -265,6 +291,10 @@ update-application-use-service =
 update-enable-search-update =
     .label = Awtomatikong i-update ang mga search engine
     .accesskey = e
+update-pref-write-failure-title = Isulat ang Kabiguan
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = Unable to save preference. Could not write to file: { $path }
 
 ## General Section - Performance
 
@@ -577,6 +607,7 @@ content-blocking-toggle-label-off = OFF
 content-blocking-setting-strict =
     .label = Istrikto
     .accesskey = I
+content-blocking-strict-desc = Blocks all trackers { -brand-short-name } detects. May cause some sites to break.
 content-blocking-tracking-protection-trackers-label =
     .label = mga Tracker
     .accesskey = T
@@ -743,3 +774,7 @@ space-alert-under-5gb-message = { -brand-short-name } ay tumatakbo sa labas ng p
 desktop-folder-name = Desktop
 downloads-folder-name = Mga Download
 choose-download-folder-title = Pumili ng Download Folder:
+# Variables:
+#   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
+save-files-to-cloud-storage =
+    .label = Save files to { $service-name }

@@ -62,6 +62,10 @@ permissions-exceptions-tracking-protection-window =
     .title = Mga Exception - Tracking Protection
     .style = { permissions-window.style }
 permissions-exceptions-tracking-protection-desc = Hindi mo pinagana ang Tracking Protection sa mga website na ito.
+permissions-exceptions-content-blocking-window =
+    .title = Firefox Content Blocking
+    .style = { permissions-window.style }
+permissions-exceptions-content-blocking-desc = Pinatay mo ang Pagharang ng Nilalaman sa site na ito.
 
 ## Exceptions - Cookies
 
@@ -93,6 +97,10 @@ permissions-exceptions-addons-desc = You can specify which web sites are allowed
 
 ## Exceptions - Autoplay Media
 
+permissions-exceptions-autoplay-media-window2 =
+    .title = Mga Pagbubukod - Autoplay
+    .style = { permissions-window.style }
+permissions-exceptions-autoplay-media-desc2 = You can specify which web sites are always or never allowed to use cookies.  Type the exact address of the site you want to manage and then click Block, Allow for Session, or Allow.
 
 ## Site Permissions - Notifications
 

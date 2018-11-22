@@ -11,9 +11,11 @@
 ## in the documentation section in about:policies.
 
 policy-AppUpdateURL = Set custom app update URL.
+policy-Authentication = I-configure ang integrated na pagpapatotoo para sa mga website na sumusuporta dito.I-configure ang integrated na pagpapatotoo para sa mga website na sumusuporta dito.
 policy-BlockAboutConfig = Bawal i-access ang about:config page.
 policy-BlockAboutProfiles = Bawal i-access ang about:profiles page.
 policy-BlockAboutSupport = Bawal i-access ang about:support page.
+policy-DisableFirefoxStudies = Pigilan ang { -brand-short-name } mula sa pagpapatakbo ng mga pag-aaral.
 policy-DisablePocket = Huwag paganahin ang tampok upang i-save ang mga webpage sa Pocket.
 policy-DisablePrivateBrowsing = Huwag paganahin ang Pribadong Pagba-browse.
 policy-DisableTelemetry = I-off ang Telemetry

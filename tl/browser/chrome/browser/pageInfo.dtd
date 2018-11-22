@@ -66,6 +66,7 @@
 
 <!ENTITY  securityView.privacy.header                   "Kasaysayan ng Privadong &amp;">
 <!ENTITY  securityView.privacy.history                  "Have I visited this web site prior to today?">
+<!ENTITY  securityView.privacy.siteData                 "Ang website ba na ito ay nag-iimbak ng impormasyon sa aking computer?">
 <!ENTITY  securityView.privacy.clearSiteData            "I-clear ang Cookies at Site Data">
 <!ENTITY  securityView.privacy.clearSiteData.accessKey  "C">
 <!ENTITY  securityView.privacy.passwords                "Have I saved any passwords for this web site?">

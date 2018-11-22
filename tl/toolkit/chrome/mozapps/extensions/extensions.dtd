@@ -3,11 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY addons.windowTitle                   "Add-ons Manager">
 
-<!ENTITY search.placeholder                   "Hanapin lahat ng add-ons">
-
 <!ENTITY search.placeholder2                  "Maghanap sa addons.mozilla.org">
+
 <!ENTITY search.buttonlabel                   "Hanapin">
-<!-- LOCALIZATION NOTE (search.commandKey):
+<!-- LOCALIZATION NOTE (search.commandkey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
 
@@ -16,7 +15,6 @@
 <!ENTITY listEmpty.availableUpdates.label     "Walang updates na nakita">
 <!ENTITY listEmpty.recentUpdates.label        "Wala kang bagong update na add-ons">
 <!ENTITY listEmpty.findUpdates.label          "Maghanap ng mga Update">
-<!ENTITY listEmpty.search.label               "Walang mahanap na tumutugmang add-ons">
 <!ENTITY listEmpty.button.label               "Dagdag-kaalaman tungkol sa add-ons">
 <!ENTITY installAddonFromFile.label           "Mag-install ng Add-on Mula sa File…">
 <!ENTITY installAddonFromFile.accesskey       "i">
@@ -41,10 +39,12 @@
 <!ENTITY warning.updatesecurity.enable.tooltip     "I-enable ang add-on security checking">
 
 <!-- categories / views -->
-<!ENTITY view.search.label                    "Hanapin">
 <!ENTITY view.discover.label                  "Kumuha ng Add-ons">
 <!ENTITY view.recentUpdates.label             "Mga Bagong Updates">
 <!ENTITY view.availableUpdates.label          "Mga Available na Update">
+
+<!ENTITY preferencesWin.label                  "&brandShortName; Options">
+<!ENTITY preferencesUnix.label                 "&brandShortName; Preferences">
 
 <!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "Maghanap ng mga Update">
@@ -84,9 +84,8 @@
 <!ENTITY cmd.preferencesWin.accesskey         "O">
 <!ENTITY cmd.preferencesUnix.label            "Mga Preferences">
 <!ENTITY cmd.preferencesUnix.accesskey        "P">
-<!ENTITY cmd.about.label                      "Tungkol">
-<!ENTITY cmd.about.accesskey                  "T">
 
+<!-- addon actions -->
 <!ENTITY cmd.enableAddon.label                "I-enable">
 <!ENTITY cmd.enableAddon.accesskey            "E">
 <!ENTITY cmd.disableAddon.label               "I-disable">
@@ -95,6 +94,7 @@
 <!ENTITY cmd.enableTheme.accesskey            "I">
 <!ENTITY cmd.disableTheme.label               "Tigilan ang pagsuot ng Theme">
 <!ENTITY cmd.disableTheme.accesskey           "W">
+
 <!ENTITY cmd.askToActivate.label              "Itanong para i-Activate">
 <!ENTITY cmd.askToActivate.tooltip            "Itanong para gamitin itong add-on bawat oras">
 <!ENTITY cmd.alwaysActivate.label             "Palaging i-activate">
@@ -104,6 +104,7 @@
 <!ENTITY cmd.stateMenu.tooltip                "Magbago kung itong add-on ay natakbo">
 <!ENTITY cmd.installAddon.label               "I-install">
 <!ENTITY cmd.installAddon.accesskey           "I">
+
 <!ENTITY cmd.uninstallAddon.label             "Alisin">
 <!ENTITY cmd.uninstallAddon.accesskey         "A">
 <!ENTITY cmd.showPreferencesWin.label         "Options">
@@ -132,7 +133,6 @@
 <!ENTITY detail.lastupdated.label             "Huling In-update">
 <!ENTITY detail.creator.label                 "Gumawa">
 <!ENTITY detail.homepage.label                "Ang homepage">
-<!ENTITY detail.numberOfDownloads.label       "Mga Download">
 
 <!ENTITY detail.contributions.description     "Hinihiling ang iyong suporta para sa pagpapatuloy ng development ng add-on na ito sa pamamagitan ng pagbibigay ng ano mang halaga ng kontribusyon.">
 
@@ -163,26 +163,12 @@
 
 <!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "I-pause">
+
+<!-- download/install progress -->
 <!ENTITY progress.cancel.tooltip              "Kanselahin">
 
-
-<!-- list sorting -->
-<!ENTITY sort.name.label                      "Pangalan">
-<!ENTITY sort.name.tooltip                    "I-sort ayon sa Pangalan">
-<!ENTITY sort.dateUpdated.label               "Huling In-update">
-<!ENTITY sort.dateUpdated.tooltip             "I-sort ayon sa petsang inupdate">
-<!ENTITY sort.relevance.label                 "Pinakamagandang match">
-<!ENTITY sort.relevance.tooltip               "I-sort ayon sa kaugnayan">
-<!ENTITY sort.price.label                     "Presyo">
-<!ENTITY sort.price.tooltip                   "I-sort ayon sa presyo">
-
-<!ENTITY search.filter2.label                 "Hanapin:">
-<!ENTITY search.filter2.installed.label       "Aking Add-ons">
-<!ENTITY search.filter2.installed.tooltip     "Ipakita ang mga nakainstall na add-ons">
-<!ENTITY search.filter2.available.label       "Magagamit na Add-ons">
-<!ENTITY search.filter2.available.tooltip     "Ipakita ang mga add-ons na pwedeng i-install">
-
 <!ENTITY addon.homepage                       "Ang homepage">
+
 <!ENTITY addon.details.label                  "Karagdagan">
 <!ENTITY addon.details.tooltip                "Magpakita ng mga detalye tungkol sa add-on na ito">
 <!ENTITY addon.unknownDate                    "Unknown">
@@ -204,6 +190,7 @@
 <!ENTITY addon.undoRemove.label               "i-Undo">
 <!ENTITY addon.undoRemove.tooltip             "Hayaang naka-install ang add-on na ito">
 <!ENTITY addon.restartNow.label               "Magrestart ngayon">
+
 <!ENTITY addon.install.label                  "Mag-install">
 <!ENTITY addon.install.tooltip                "I-install itong add-on">
 <!ENTITY addon.updateNow.label                "I-update Ngayon">
@@ -223,17 +210,6 @@
 <!ENTITY eula.accept                          "Tanggapin at mag-install…">
 
 <!ENTITY settings.path.button.label           "Magbrowse…">
-
-<!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
-     experiments are present on the "Experiments" tab of the add-ons manager.
-     This tab won't be displayed unless an Experiment add-on is installed.
-     Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
-     to cause this tab to appear. -->
-<!ENTITY experiment.info.label "Ano ito? Ang Telemetry ay maaaring mag-install at mag eksperimento sa anumang oras.">
-<!ENTITY experiment.info.learnmore "Alamin pa">
-<!ENTITY experiment.info.learnmore.accesskey "L">
-<!ENTITY experiment.info.changetelemetry "Settings ng Telemetry">
-<!ENTITY experiment.info.changetelemetry.accesskey "T">
 
 <!ENTITY setting.learnmore "Matuto pa…">
 

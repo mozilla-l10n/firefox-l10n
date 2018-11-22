@@ -83,6 +83,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedPrefsValue "Halaga">
 
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
+<!ENTITY aboutSupport.userJSDescription "Your profile folder contains a <a id='prefs-user-js-link'>user.js file</a>, which includes preferences that were not created by &brandShortName;.">
 
 <!ENTITY aboutSupport.lockedPrefsName "Pangalan">
 <!ENTITY aboutSupport.lockedPrefsValue "Halaga">
@@ -122,8 +123,10 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
 <!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "Log ng mga Desisyon">
+<!ENTITY aboutSupport.graphicsCrashGuardsTitle "Crash Guard Disabled Features">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Workarounds">
 
+<!ENTITY aboutSupport.mediaTitle "Media">
 <!ENTITY aboutSupport.mediaDeviceName "Pangalan">
 <!ENTITY aboutSupport.mediaDeviceGroup "Grupo">
 <!ENTITY aboutSupport.mediaDeviceVendor "Tindero">
@@ -134,3 +137,4 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceRate "Rate">
 <!ENTITY aboutSupport.mediaDeviceLatency "Latency">
 
+<!ENTITY aboutSupport.intlTitle "Internationalization &amp; Localization">

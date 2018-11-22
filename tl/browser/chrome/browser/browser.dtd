@@ -990,6 +990,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.detected "May natuklasang nilalaman na maaring harangin sa pahinang ito.">
 <!ENTITY contentBlocking.notDetected "Walang natuklasang nilalaman na maaring harangin sa pahinang ito.">
 <!ENTITY contentBlocking.disabled.label "Di magamit">
+<!ENTITY contentBlocking.disabled.tooltip "Pinatay mo ang Pagharang ng Nilalaman.">
+<!ENTITY contentBlocking.exception.tooltip "Pinatay mo ang Pagharang ng Nilalaman sa site na ito.">
 
 <!ENTITY contentBlocking.fastBlock.label "Mga mabagal mag load na Tracker">
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
@@ -1164,6 +1166,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.label "Disable Extension">
 <!ENTITY newTabControlled.disableButton.accesskey "D">
 
+<!ENTITY homepageControlled.message "May ekstensyon na nagpabago sa kung anong nakikita mo ngayon bilang homepage. Maaari mong ibalik ang dating mga setting kung ayaw mo sa nagawang pagbabago.">
 <!ENTITY homepageControlled.header.message "Ang iyong home page ay nagbago.">
 <!ENTITY homepageControlled.keepButton.label "Panatilihin ang mga Pagbabago">
 <!ENTITY homepageControlled.keepButton.accesskey "K">

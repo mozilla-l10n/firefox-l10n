@@ -46,5 +46,5 @@ clear-site-data-cancel =
     .label = Kanselahin
     .accesskey = C
 clear-site-data-clear =
-    .label = Alisin ang nilalaman
-    .accesskey = l
+    .label = Burahin
+    .accesskey = B
