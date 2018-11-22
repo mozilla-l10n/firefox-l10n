@@ -671,6 +671,7 @@ addressbar-suggestions-settings = Keresőszolgáltatás-javaslatok beállítása
 
 content-blocking-header = Tartalomblokkolás
 content-blocking-desc = Az olyan harmadik féltől származó tartalom blokkolása, mint a hirdetések vagy kódok, melyek lelassíthatják a böngészését, és követketik a weben. Szabja testre a beállításait a védelem és a teljesítmény közti legjobb egyensúly érdekében.
+content-blocking-description = A harmadik féltől származó tartalmak blokkolása, melyek követik a weben. Irányítsa, hogy az online tevékenysége mekkora része legyen tárolva és megosztva a webhelyek közt.
 content-blocking-learn-more = További tudnivalók
 content-blocking-restore-defaults =
     .label = Alapértelmezések visszaállítása
@@ -691,6 +692,24 @@ content-blocking-fastblock-slow-loading-trackers-label =
     .label = Lassan betöltő követők
     .accesskey = L
 content-blocking-fastblock-new-description = Csak azon követők blokkolása, melyek megakadályozzák az oldalak gyors betöltését.
+content-blocking-setting-standard =
+    .label = Szokásos
+    .accesskey = k
+content-blocking-setting-strict =
+    .label = Szigorú
+    .accesskey = r
+content-blocking-setting-custom =
+    .label = Egyéni
+    .accesskey = E
+content-blocking-standard-desc = Kiegyensúlyozott védelem és teljesítmény. Engedélyez néhány követőt, hogy a webhelyek megfelelően működjenek.
+content-blocking-strict-desc = A { -brand-short-name } blokkolja az összes észlelt követőt. Egyes webhelyek lehet, hogy nem fognak megfelelően működni.
+content-blocking-custom-desc = Válassza ki, mit akar blokkolni.
+content-blocking-private-trackers = Ismert követők csak privát ablakokban
+content-blocking-third-party-cookies = Harmadik féltől származó követő sütik
+content-blocking-all-windows-trackers = Ismert követők minden ablakban
+content-blocking-all-third-party-cookies = Összes harmadik féltől származó süti
+content-blocking-warning-title = Figyelem!
+content-blocking-warning-desc = A sütik és követők blokkolása egyes webhelyek nem megfelelő működését okozhatják. Könnyű letiltani a blokkolása azokon az oldalakon, melyekben megbízik.
 content-blocking-learn-how = Tudja meg, hogyan
 content-blocking-tracking-protection-trackers-label =
     .label = Követők
@@ -727,6 +746,9 @@ content-blocking-reject-trackers-block-trackers-option =
 content-blocking-reject-trackers-all-third-parties-option =
     .label = Összes harmadik féltől származó süti (egyes weboldalak eltörhetnek)
     .accesskey = e
+content-blocking-cookies-label =
+    .label = Sütik
+    .accesskey = S
 
 ## Privacy Section - Tracking
 
@@ -748,6 +770,9 @@ tracking-exceptions =
 tracking-change-block-list =
     .label = Blokkolási lista módosítása…
     .accesskey = m
+tracking-manage-exceptions =
+    .label = Kivételek kezelése…
+    .accesskey = K
 
 ## Privacy Section - Permissions
 
