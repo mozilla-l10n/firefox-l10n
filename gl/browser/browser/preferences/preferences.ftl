@@ -619,6 +619,16 @@ sitedata-disallow-cookies-option =
 # The list items are the strings named sitedata-block-*-option*.
 sitedata-block-desc = Tipo de contido bloqueado
     .accesskey = T
+sitedata-block-trackers-option-recommended =
+    .label = Elementos de seguimento de terceiros (recomendado)
+sitedata-block-trackers-option =
+    .label = Elementos de seguimento de terceiros
+sitedata-block-unvisited-option =
+    .label = Cookies de sitios non visitados
+sitedata-block-all-third-party-option =
+    .label = Todas as cookies de terceiros (pode causar erros nos sitios web)
+sitedata-block-all-option =
+    .label = Todas as cookies (pode causar erros nos sitios web)
 sitedata-clear =
     .label = Borrar datos...
     .accesskey = B
@@ -628,6 +638,9 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Excepcións…
     .accesskey = E
+sitedata-cookies-permissions =
+    .label = Xestionar permisos…
+    .accesskey = p
 
 ## Privacy Section - Address Bar
 
@@ -646,6 +659,7 @@ addressbar-suggestions-settings = Cambiar as preferencias relacionadas coas suxe
 
 ## Privacy Section - Content Blocking
 
+content-blocking-header = Bloqueo de contido
 content-blocking-learn-more = Máis información
 content-blocking-restore-defaults =
     .label = Restaurar predeterminados
@@ -676,6 +690,7 @@ content-blocking-setting-custom =
     .label = Personalizado
     .accesskey = z
 content-blocking-custom-desc = Escolla que vai bloquear.
+content-blocking-private-trackers = Só elementos de seguimento coñecidos nas xanelas privadas
 content-blocking-third-party-cookies = Cookies de terceiros usadas con fins de seguimento
 content-blocking-all-windows-trackers = Elementos de seguimento coñecidos en todas as xanelas
 content-blocking-all-third-party-cookies = Todas as cookies de terceiros
@@ -853,9 +868,30 @@ certs-view =
 certs-devices =
     .label = Dispositivos de seguranza...
     .accesskey = D
+space-alert-learn-more-button =
+    .label = Máis información
+    .accesskey = M
+space-alert-over-5gb-pref-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Abrir opcións
+           *[other] Abrir preferencias
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] o
+           *[other] b
+        }
+space-alert-under-5gb-ok-button =
+    .label = Entendín
+    .accesskey = d
 
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Escritorio
 downloads-folder-name = Descargas
 choose-download-folder-title = Escolla o cartafol de descarga:
+# Variables:
+#   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
+save-files-to-cloud-storage =
+    .label = Gardar os ficheiros en { $service-name }
