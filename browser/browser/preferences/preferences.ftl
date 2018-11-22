@@ -648,6 +648,9 @@ sitedata-cookies-exceptions =
 # in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
 # Cookies and Site Data section.
 sitedata-warning-your-settings-prevent-changes = Tes parameters en Bloccada da cuntegn impedeschan la modificaziun dals parameters dals cookies e da las datas da websites.
+sitedata-cookies-permissions =
+    .label = Administrar las permissiuns…
+    .accesskey = p
 
 ## Privacy Section - Address Bar
 
@@ -668,6 +671,7 @@ addressbar-suggestions-settings = Midar las preferenzas per propostas da maschin
 
 content-blocking-header = Bloccada da cuntegn
 content-blocking-desc = Blochescha cuntegn da terzas partidas sco reclamas u code che po ralentar la navigaziun e ta fastizar en il web. Adattescha las preferenzas per chattar l'equiliber ideal tranter protecziun e performanza.
+content-blocking-description = Blochescha cuntegn da terzas partidas che ta fastizescha en il web. Controllescha quant da tia activitad online che vegn memorisada e cundividida tranter websites.
 content-blocking-learn-more = Ulteriuras infurmaziuns
 content-blocking-restore-defaults =
     .label = Restaurar il standard
@@ -688,6 +692,25 @@ content-blocking-fastblock-slow-loading-trackers-label =
     .label = Fastizaders che chargian plaun
     .accesskey = F
 content-blocking-fastblock-new-description = Mo bloccar ils fastizaders che impedeschan che las paginas sa chargian svelt.
+content-blocking-setting-standard =
+    .label = Standard
+    .accesskey = d
+content-blocking-setting-strict =
+    .label = Restrictiv
+    .accesskey = r
+content-blocking-setting-custom =
+    .label = Persunalisà
+    .accesskey = P
+content-blocking-standard-desc = Equiliber tranter protecziun e prestaziun. Permetta tscherts fastizaders per che las websites funcziunian endretg.
+content-blocking-strict-desc = Blochescha tut ils fastizaders che { -brand-short-name } chatta. Eventualmain na funcziunan tschertas websites betg pli endretg.
+content-blocking-custom-desc = Tscherna tge bloccar.
+content-blocking-private-trackers = Fastizaders enconuschents mo en il modus privat
+content-blocking-third-party-cookies = Cookies che fastizeschan da terzas partidas
+content-blocking-all-windows-trackers = Fastizaders enconuschents en tut las fanestras
+content-blocking-all-third-party-cookies = Tut ils cookies da terzas partidas
+content-blocking-warning-title = Attenziun!
+content-blocking-warning-desc = La bloccada da cookies e fastizaders po impedir che tschertas websites funcziunian endretg. Igl è simpel da deactivar la bloccada per websites da las qualas ti ta fidas.
+content-blocking-learn-how = Vegnir a savair co
 content-blocking-tracking-protection-trackers-label =
     .label = Fastizaders
     .accesskey = t
@@ -723,6 +746,9 @@ content-blocking-reject-trackers-block-trackers-option =
 content-blocking-reject-trackers-all-third-parties-option =
     .label = Tut ils cookies da terzas partidas (po chaschunar problems cun websites)
     .accesskey = T
+content-blocking-cookies-label =
+    .label = Cookies
+    .accesskey = C
 
 ## Privacy Section - Tracking
 
@@ -744,6 +770,9 @@ tracking-exceptions =
 tracking-change-block-list =
     .label = Midar la glista da bloccar…
     .accesskey = M
+tracking-manage-exceptions =
+    .label = Administrar excepziuns…
+    .accesskey = x
 
 ## Privacy Section - Permissions
 
