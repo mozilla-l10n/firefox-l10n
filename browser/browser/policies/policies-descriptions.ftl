@@ -10,9 +10,12 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
+policy-AppUpdateURL = កំណត់ URL ធ្វើ​បច្ចុប្បន្នភាព​កម្មវិធី​ផ្ទាល់​ខ្លួន។
 policy-Cookies = អនុញ្ញាត ឬបដិសេធវេបសាយដើម្បីកំណត់ខូគី។
 policy-DisableAppUpdate = បង្ការ​កម្មវិធី​រុករក​ពី​ការ​ធ្វើ​បច្ចុប្បន្នភាព។
 policy-DisableDeveloperTools = ទប់ស្កាត់​ការ​ចូល​ទៅ​ឧបករណ៍​អភិវឌ្ឍន៍។
+# Firefox Screenshots is the name of the feature, and should not be translated.
+policy-DisableFirefoxScreenshots = បិទ​មុខងារ​រូបថត​អេក្រង់​របស់ Firefox ។
 policy-DisableForgetButton = រារាំង​ការ​ចូល​ប្រើ​ប៊ូតុង​រំលង។
 policy-DisableFormHistory = មិន​ចងចាំ​ប្រវត្តិ​ស្វែងរក និង​សំណុំ​បែបបទ
 policy-DisableMasterPasswordCreation = ប្រសិន​បើ​ពិត​ពាក្យ​សម្ងាត់​មេ​មិន​អាច​បង្កើត​បានទេ។
