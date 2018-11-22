@@ -648,6 +648,9 @@ sitedata-cookies-exceptions =
 # in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
 # Cookies and Site Data section.
 sitedata-warning-your-settings-prevent-changes = Сіздің Құраманы бұғаттау ішіндегі баптаулар Cookies файлдары және Сайт деректеріне өзгерістерді енгізуге жол бермей тұр.
+sitedata-cookies-permissions =
+    .label = Рұқсаттарды басқару…
+    .accesskey = р
 
 ## Privacy Section - Address Bar
 
