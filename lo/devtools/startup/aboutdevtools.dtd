@@ -21,9 +21,12 @@
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.inspectElementTitle): Title of the top
   -  section displayed when devtools are disabled and the user triggered DevTools by using
   -  the Inspect Element menu item. -->
+<!ENTITY  aboutDevtools.enable.inspectElementTitle "ເປີດໃຊ້ເຄື່ອງມືພັດທະນາຂອງ Firefox ເພື່ອນຳໃຊ້ Inspect Element">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.inspectElementMessage): Message displayed
   -  when users come from using the Inspect Element menu item. -->
+<!ENTITY  aboutDevtools.enable.inspectElementMessage
+          "ກວດເບິ່ງ ແລະ ແກ້ໄຂ HTML ແລະ CSS ດ້ວຍເຄື່ອງມືຂອງນັກພັດທະນາ Inspector.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.aboutDebuggingMessage): Message displayed
   -  when users come from about:debugging. -->
