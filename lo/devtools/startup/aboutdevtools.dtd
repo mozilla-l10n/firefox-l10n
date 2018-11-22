@@ -54,6 +54,7 @@
   -  The newsletter is only available in english at the moment.
   -  See Bug 1415273 for support of additional languages.-->
 <!ENTITY  aboutDevtools.newsletter.email.placeholder "ອີເມລ">
+<!ENTITY  aboutDevtools.newsletter.subscribeButton "ຕິດຕາມ">
 <!ENTITY  aboutDevtools.newsletter.thanks.title "ຂອບໃຈ!">
 
 
