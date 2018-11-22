@@ -90,3 +90,4 @@
 <!ENTITY blockedByPolicy.title "Blokkolt oldal">
 
 <!ENTITY networkProtocolError.title "Hálózati protokoll hiba">
+<!ENTITY networkProtocolError.longDesc "<p>A megtekinteni kívánt oldal nem jeleníthető meg, mert hiba történt a hálózati protokollban.</p><ul><li>Lépjen kapcsolatba a webhely üzemeltetőjével, és értesítse a problémáról.</li></ul>">
