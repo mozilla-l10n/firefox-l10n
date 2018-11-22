@@ -8,10 +8,18 @@ findbar-previous=
   .tooltiptext=Znajdź poprzednie wystąpienie wyszukiwanej frazy
 findbar-find-button-close=
   .tooltiptext=Zamknij pasek wyszukiwania
+
 findbar-highlight-all=
   .label=Podświetlanie wszystkich
   .accesskey=P
   .tooltiptext=Podświetl wszystkie wystąpienia szukanej frazy
+findbar-highlight-all2=
+  .label=Podświetlanie wszystkich
+  .accesskey= { PLATFORM() ->
+    [macos] P
+    *[other] P
+  }
+
 findbar-case-sensitive=
   .label=Rozróżnianie wielkości liter
   .accesskey=R
