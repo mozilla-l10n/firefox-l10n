@@ -11,6 +11,9 @@
 <!ENTITY castingButton.castingLabel "Isalin sa Screen">
 <!ENTITY closedCaption.off "Nakapatay">
 
+<!-- LOCALIZATION NOTE (volumeScrubber.label): This label is exposed to
+     accessibility software to clarify what the slider is for. -->
+
 <!ENTITY stats.media "Mga Paraan">
 <!ENTITY stats.size "Sukat">
 <!ENTITY stats.activity "aktibidad">
@@ -18,11 +21,11 @@
 <!ENTITY stats.activityPlaying "paglalaro">
 <!ENTITY stats.activityEnded "pagkatapos">
 <!ENTITY stats.activitySeeking "(naghahanap)">
-<!ENTITY stats.volume "dami">
-<!ENTITY stats.framesParsed "pinaghiwa-hiwalay na frames.">
-<!ENTITY stats.framesDecoded "Frames nadecoded">
+<!ENTITY stats.volume "Dami">
+<!ENTITY stats.framesParsed "Frames parsed">
+<!ENTITY stats.framesDecoded "Frames decoded">
 <!ENTITY stats.framesPresented "Frames na napakita">
-<!ENTITY stats.framesPainted "Frames na naipakita">
+<!ENTITY stats.framesPainted "Frames painted">
 
 <!ENTITY error.aborted "Ang pagload ng video ay tumigil.">
 <!ENTITY error.network "Ang pagplay ng video ay nahinto dahil sa network error.">
@@ -47,3 +50,4 @@ unknown duration video, #1 would be "5:00" and the string which is surrounded by
 <span> would be deleted, result string would be "5:00".
 -->
 <!ENTITY positionAndDuration.nameFormat "#1<span> / #2</span>">
+

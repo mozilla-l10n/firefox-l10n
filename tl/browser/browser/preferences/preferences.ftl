@@ -589,6 +589,9 @@ content-blocking-tracking-protection-option-private =
 content-blocking-reject-trackers-block-trackers-option =
     .label = mga Tracker
     .accesskey = T
+content-blocking-cookies-label =
+    .label = Mga Cookie
+    .accesskey = C
 
 ## Privacy Section - Tracking
 
