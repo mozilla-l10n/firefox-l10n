@@ -30,31 +30,33 @@ policies-notice=
   }
 pane-general-title=Ogólne
 category-general=
-  .tooltiptext={ pane-general-title }
+  .tooltiptext=Ogólne ustawienia
 pane-home-title=Uruchamianie
 category-home=
   .tooltiptext=Ustawienia powiązane z uruchamianiem programu
 pane-search-title=Wyszukiwanie
 category-search=
-  .tooltiptext={ pane-search-title }
+  .tooltiptext=Ustawienia dotyczące wyszukiwania
 pane-privacy-title=Prywatność i bezpieczeństwo
 category-privacy=
-  .tooltiptext={ pane-privacy-title }
-pane-sync-title=Konto Firefoksa
+  .tooltiptext=Ustawienia dotyczące prywatności i bezpieczeństwa
+pane-sync-title=Synchronizacja
 category-sync=
-  .tooltiptext={ pane-sync-title }
+  .tooltiptext=Konto programu Firefox
 help-button-label=Wsparcie programu { -brand-short-name }
 addons-button-label=Dodatki i motywy
 focus-search=
   .key=f
 close-button=
   .aria-label=Zamknij
-feature-enable-requires-restart=Konieczne jest ponowne uruchomienie programu { -brand-short-name }, aby włączyć tę funkcję.
-feature-disable-requires-restart=Konieczne jest ponowne uruchomienie programu { -brand-short-name }, aby wyłączyć tę funkcję.
-should-restart-title=Ponowne uruchamianie programu { -brand-short-name }
+
+feature-enable-requires-restart=Konieczne jest ponowne uruchomienie programu, aby włączyć tę funkcję.
+feature-disable-requires-restart=Konieczne jest ponowne uruchomienie programu, aby wyłączyć tę funkcję.
+should-restart-title=Wymagane ponowne uruchamianie programu
 should-restart-ok=Uruchom ponownie
 cancel-no-restart-button=Anuluj
 restart-later=Później
+
 extension-controlled-homepage-override=Rozszerzenie „{ $name }” <img data-l10n-name="icon"/> kontroluje stronę startową.
 extension-controlled-new-tab-url=Rozszerzenie „{ $name }” <img data-l10n-name="icon"/> kontroluje stronę nowej karty.
 extension-controlled-web-notifications=Rozszerzenie „{ $name }” <img data-l10n-name="icon"/> kontroluje to ustawienie.
@@ -70,10 +72,11 @@ search-results-empty-message=
     [windows] Niestety! W opcjach niczego nie odnaleziono dla wyszukiwania „<span data-l10n-name="query"></span>”.
     *[other] Niestety! W preferencjach niczego nie odnaleziono dla wyszukiwania „<span data-l10n-name="query"></span>”.
   }
-search-results-help-link=Potrzebujesz pomocy? Odwiedź witrynę <a data-l10n-name="url">wsparcia programu { -brand-short-name }</a>.
+search-results-help-link=Potrzebujesz pomocy? Odwiedź <a data-l10n-name="url">witrynę wsparcia</a>.
+
 startup-header=Uruchamianie
 separate-profile-mode=
-  .label=Jednoczesne działanie programu { -brand-short-name } oraz Firefoksa
+  .label=Jednoczesne działanie programu { -brand-short-name } oraz programu Firefox
 use-firefox-sync=Podczas jednoczesnego działania wykorzystywane są oddzielne profile. Można wykorzystać synchronizację, aby dzielić dane między nimi.
 get-started-not-logged-in=Zaloguj się, aby synchronizować…
 get-started-configured=Otwórz ustawienia synchronizacji
@@ -104,7 +107,7 @@ warn-on-quit-close-multiple-tabs =
   .label=Ostrzeganie przed zamknięciem wielu kart podczas zamykania programu
   .accesskey=O
 warn-on-open-many-tabs=
-  .label=Ostrzeganie o otwarciu zbyt wielu kart mogących spowolnić program { -brand-short-name }
+  .label=Ostrzeganie o otwarciu zbyt wielu kart mogących spowolnić program
   .accesskey=m
 switch-links-to-new-tabs=
   .label=Przechodzenie do nowych kart otwieranych poprzez odnośniki
@@ -195,7 +198,7 @@ download-always-ask-where=
   .label=Pytaj, gdzie zapisać każdy plik
   .accesskey=t
 applications-header=Aplikacje
-applications-description=Wybierz, jak program { -brand-short-name } obsługuje pobierane z sieci pliki lub aplikacje używane podczas przeglądania.
+applications-description=Wybierz, jak { -brand-short-name } będzie obsługiwać pobierane z sieci pliki i aplikacje używane podczas przeglądania.
 applications-filter=
   .placeholder=Typ pliku lub nazwa aplikacji
 applications-type-column=
@@ -209,13 +212,14 @@ play-drm-content=
   .label=Odtwarzanie treści chronionych przez DRM.
   .accesskey=O
 play-drm-content-learn-more=Więcej informacji
-update-application-title=Aktualizacje programu { -brand-short-name }
-update-application-description=Utrzymuj program { -brand-short-name } aktualnym dla najlepszej wydajności, stabilności i bezpieczeństwa.
+
+update-application-title=Aktualizacje
+update-application-description=Utrzymuj program aktualnym dla najlepszej wydajności, stabilności i bezpieczeństwa.
 update-application-version=Wersja: { $version }. <a data-l10n-name="learn-more">Informacje o wydaniu</a>.
 update-history=
   .label=Wyświetl historię aktualizacji…
   .accesskey=W
-update-application-allow-description=Zezwalaj programowi { -brand-short-name } na:
+update-application-allow-description=Zezwalaj na:
 update-application-auto=
   .label=automatyczne instalowanie aktualizacji (zalecane)
   .accesskey=a
@@ -283,7 +287,7 @@ home-restore-defaults=
   .label=Przywróć domyślne
   .accesskey=P
 home-mode-choice-default=
-  .label=strona startowa programu Firefox (domyślnie)
+  .label=strona startowa programu (domyślnie)
 home-mode-choice-custom=
   .label=inne strony
 home-mode-choice-blank=
@@ -315,7 +319,7 @@ search-show-suggestions-url-bar-option=
   .accesskey=e
 search-show-suggestions-above-history-option=
   .label=Podpowiedzi wyszukiwania nad historią przeglądania w wynikach paska adresu
-search-suggestions-cant-show=Podpowiedzi wyszukiwania nie będą wyświetlane w podpowiedziach paska adresu, ponieważ wyłączono zachowywanie historii przeglądania programu { -brand-short-name }.
+search-suggestions-cant-show=Podpowiedzi wyszukiwania nie będą wyświetlane w podpowiedziach paska adresu, ponieważ wyłączono zachowywanie historii przeglądania.
 search-one-click-header=Dodatkowe wyszukiwarki
 search-one-click-desc=Wybierz dodatkowe wyszukiwarki wyświetlane na dole wyników wyszukiwania w pasku adresu i pasku wyszukiwania.
 search-choose-engine-column=
@@ -349,7 +353,7 @@ sync-signedout-account-create=Nie masz konta? Utwórz je…
 sync-signedout-account-signin=
   .label=Zaloguj się
   .accesskey=Z
-sync-mobile-promo=Pobierz Firefoksa na <a data-l10n-name="android-link">Androida</a> <img data-l10n-name="android-icon"/> lub <a data-l10n-name="ios-link">iOSa</a> <img data-l10n-name="ios-icon"/>, aby synchronizować ze swoim urządzeniem przenośnym.
+sync-mobile-promo=Firefox na <a data-l10n-name="android-link">Androida</a> <img data-l10n-name="android-icon"/> i <a data-l10n-name="ios-link">iOSa</a> <img data-l10n-name="ios-icon"/> daje możliwość synchronizacji ze swoim urządzeniem przenośnym.
 sync-profile-picture=
     .tooltiptext=Zmień obraz przypisany do konta
 sync-disconnect=
@@ -369,32 +373,32 @@ sync-sign-in=
   .label=Zaloguj
   .accesskey=o
 sync-signedin-settings-header=Ustawienia synchronizacji
-sync-signedin-settings-desc=Wybierz, co synchronizować pomiędzy urządzeniami używając programu { -brand-short-name }.
+sync-signedin-settings-desc=Wybierz, co synchronizować pomiędzy urządzeniami:
 sync-engine-bookmarks=
-  .label=Zakładki
-  .accesskey=Z
+  .label=zakładki
+  .accesskey=z
 sync-engine-history=
-  .label=Historia
-  .accesskey=H
+  .label=historia
+  .accesskey=h
 sync-engine-tabs=
-  .label=Karty
+  .label=karty
   .tooltiptext=Lista otwartych stron na wszystkich synchronizowanych urządzeniach
-  .accesskey=K
-sync-engine-logins=
-  .label=Dane logowania
-  .tooltiptext=Zachowane nazwy użytkownika i hasła
-  .accesskey=a
-sync-engine-addresses=
-  .label=Adresy
-  .tooltiptext=Zachowane adresy pocztowe (tylko na komputerach)
-  .accesskey=d
-sync-engine-creditcards=
-  .label=Dane kart płatniczych
-  .tooltiptext=Nazwiska, numery i okresy ważności (tylko na komputerach)
   .accesskey=k
+sync-engine-logins=
+  .label=dane logowania
+  .tooltiptext=Zachowane nazwy użytkownika i hasła
+  .accesskey=l
+sync-engine-addresses=
+  .label=adresy
+  .tooltiptext=Zachowane adresy pocztowe (tylko na komputerach)
+  .accesskey=a
+sync-engine-creditcards=
+  .label=dane kart płatniczych
+  .tooltiptext=Nazwiska, numery i okresy ważności (tylko na komputerach)
+  .accesskey=d
 sync-engine-addons=
-  .label=Dodatki
-  .tooltiptext=Rozszerzenia i motywy dla Firefoksa na komputery
+  .label=dodatki
+  .tooltiptext=Rozszerzenia i motywy w wersji na komputery
   .accesskey=d
 sync-engine-prefs=
   .label=
@@ -457,7 +461,7 @@ history-remember-search-option=
   .label=Historia pola wyszukiwania i formularzy
   .accesskey=H
 history-clear-on-close-option=
-  .label=Czyszczenie historii podczas zamykania programu { -brand-short-name }
+  .label=Czyszczenie historii podczas zamykania programu
   .accesskey=z
 history-clear-on-close-settings=
   .label=Ustawienia…
@@ -606,7 +610,7 @@ permissions-notification-settings=
   .accesskey=s
 permissions-notification-link=Więcej informacji
 permissions-notification-pause=
-  .label=Wstrzymaj powiadomienia do czasu ponownego uruchomienia Firefoksa
+  .label=Wstrzymaj powiadomienia do czasu ponownego uruchomienia programu
   .accesskey=W
 permissions-block-autoplay-media=
   .label=Blokowanie automatycznego odtwarzania treści z dźwiękiem przez strony
@@ -702,13 +706,13 @@ space-alert-over-5gb-pref-button=
     }
 space-alert-over-5gb-message=
   { PLATFORM() ->
-    [windows] Zaczyna brakować miejsca na dysku dla programu { -brand-short-name }. Zawartość stron może być wyświetlana niepoprawnie. Przechowywane dane może wyczyścić w Opcje → Prywatność i bezpieczeństwo → Ciasteczka i dane stron.
-    *[other] Zaczyna brakować miejsca na dysku dla programu { -brand-short-name }. Zawartość stron może być wyświetlana niepoprawnie. Przechowywane dane może wyczyścić w Preferencje → Prywatność i bezpieczeństwo → Ciasteczka i dane stron.
+    [windows] Zaczyna brakować miejsca na dysku. Zawartość stron może być wyświetlana niepoprawnie. Przechowywane dane może wyczyścić w Opcje → Prywatność i bezpieczeństwo → Ciasteczka i dane stron.
+    *[other] Zaczyna brakować miejsca na dysku. Zawartość stron może być wyświetlana niepoprawnie. Przechowywane dane może wyczyścić w Preferencje → Prywatność i bezpieczeństwo → Ciasteczka i dane stron.
   }
 space-alert-under-5gb-ok-button=
   .label=OK
   .accesskey=O
-space-alert-under-5gb-message=Zaczyna brakować miejsca na dysku dla programu { -brand-short-name }. Zawartość stron może być wyświetlana niepoprawnie. Skorzystaj z odnośnika „Więcej informacji”, aby zoptymalizować użycie dysku dla lepszego przeglądania.
+space-alert-under-5gb-message=Zaczyna brakować miejsca na dysku. Zawartość stron może być wyświetlana niepoprawnie. Skorzystaj z odnośnika „Więcej informacji”, aby zoptymalizować użycie dysku dla lepszego przeglądania.
 desktop-folder-name=Pulpit
 downloads-folder-name=Pobrane
 choose-download-folder-title=Wybór folderu dla pobieranych plików

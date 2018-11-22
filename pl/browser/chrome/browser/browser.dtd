@@ -656,7 +656,7 @@
 <!ENTITY tabsToolbar.label "Karty przeglądarki">
 <!ENTITY syncTabsMenu3.label "Karty z innych urządzeń">
 <!ENTITY syncedTabs.sidebar.label "Karty z innych urządzeń">
-<!ENTITY syncedTabs.sidebar.noclients.label "Zaloguj się w Firefoksie na innym urządzeniu, aby wyświetlić tutaj listę otwartych na nim kart.">
+<!ENTITY syncedTabs.sidebar.noclients.label "Zaloguj się w programie &brandShortName; na innym urządzeniu, aby wyświetlić tutaj listę otwartych na nim kart.">
 <!ENTITY syncedTabs.sidebar.noclients.title "Synchronizacja kart wyłączona">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Czy wyświetlić tutaj listę kart otwartych na innych urządzeniach?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label "Zaloguj się, aby wyświetlić listę kart z innych urządzeń.">
@@ -851,14 +851,14 @@
 <!ENTITY updateManual.message "Pobierz świeżą kopię programu &brandShorterName;, a my pomożemy ją zainstalować.">
 <!ENTITY updateManual.whatsnew.label "Sprawdź co nowego.">
 <!ENTITY updateManual.header.message "&brandShorterName; nie może zostać uaktualniony do najnowszej wersji.">
-<!ENTITY updateManual.acceptButton.label "Pobierz program &brandShorterName;">
+<!ENTITY updateManual.acceptButton.label "Pobierz program">
 <!ENTITY updateManual.acceptButton.accesskey "P">
 <!ENTITY updateManual.cancelButton.label "Nie teraz">
 <!ENTITY updateManual.cancelButton.accesskey "N">
 <!ENTITY updateManual.panelUI.label "Pobierz świeżą kopię programu &brandShorterName;">
 
 <!ENTITY updateRestart.message2 "&brandShorterName; po ponownym uruchomieniu przywróci wszystkie karty i okna (oprócz okien prywatnych).">
-<!ENTITY updateRestart.header.message2 "Uruchom ponownie program &brandShorterName;, aby go uaktualnić.">
+<!ENTITY updateRestart.header.message2 "Uruchom ponownie program, aby go uaktualnić.">
 <!ENTITY updateRestart.acceptButton.label "Uruchom i przywróć">
 <!ENTITY updateRestart.acceptButton.accesskey "U">
 <!ENTITY updateRestart.cancelButton.label "Nie teraz">
