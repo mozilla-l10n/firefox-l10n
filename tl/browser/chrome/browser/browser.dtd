@@ -1011,11 +1011,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.trackingProtection2.label "Natuklasang mga Sumusubaybay">
 
+<!ENTITY contentBlocking.trackingProtection3.label "Mga tracker">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.allowed.label):
      This label signals that this type of content blocking is turned
      OFF and is not blocking tracker content, so this is not
      a positive thing. It forms the end of the (imaginary) sentence
      "Trackers [are] Allowed"-->
+<!ENTITY contentBlocking.trackingProtection.allowed.label "Payagan">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking tracker content, so this is
@@ -1050,6 +1052,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.manageSettings.accesskey "M">
 
+<!ENTITY contentBlocking.trackersView.label "Mga tracker">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "I-report ang problema">
 <!ENTITY contentBlocking.breakageReportView.label "I-report ang mga problema">
