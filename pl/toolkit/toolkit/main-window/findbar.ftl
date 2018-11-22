@@ -19,6 +19,7 @@ findbar-highlight-all2=
     [macos] P
     *[other] P
   }
+  .tooltiptext=Podświetl wszystkie wystąpienia szukanej frazy
 
 findbar-case-sensitive=
   .label=Rozróżnianie wielkości liter
