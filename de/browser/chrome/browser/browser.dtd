@@ -997,6 +997,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.trackingProtection2.label "Alle erkannten Elemente zur Aktivitätenverfolgung">
 
+<!ENTITY contentBlocking.trackingProtection3.label "Elemente zur Aktivitätenverfolgung">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.allowed.label):
      This label signals that this type of content blocking is turned
      OFF and is not blocking tracker content, so this is not
@@ -1019,6 +1020,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackingProtection.add.label "Blockieren aktivieren…">
 
 <!ENTITY contentBlocking.3rdPartyCookies.label "Cookies von eingebundenen externen Inhalten (&quot;Drittanbieter&quot;)">
+<!ENTITY contentBlocking.3rdPartyCookies.trackers.label "Tracking-Cookies">
 <!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking third-party cookies, so this is
@@ -1035,6 +1037,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.3rdPartyCookies.add.label "Blockieren aktivieren…">
 
+<!ENTITY contentBlocking.manageSettings.label "Blockieren von Seitenelementen verwalten">
 
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Problem melden">
@@ -1065,9 +1068,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock5.label "Blockierung für diese Website deaktivieren">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate6.label, trackingProtection.unblockPrivate6.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.block6.label "Blockierung für diese Website aktivieren">
 <!ENTITY trackingProtection.reload2.label "Seite neu laden">
 <!ENTITY trackingProtection.reload2.accesskey "n">
 
