@@ -651,6 +651,9 @@ sitedata-cookies-exceptions =
 # in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
 # Cookies and Site Data section.
 sitedata-warning-your-settings-prevent-changes = Ваші налаштування блокування вмісту не дозволяють змінювати налаштування куків і даних сайтів.
+sitedata-cookies-permissions =
+    .label = Керувати дозволами…
+    .accesskey = з
 
 ## Privacy Section - Address Bar
 
@@ -671,6 +674,7 @@ addressbar-suggestions-settings = Змінити налаштування про
 
 content-blocking-header = Блокування вмісту
 content-blocking-desc = Блокувати сторонній вміст, наприклад, рекламу чи код, що може сповільнювати роботу браузера і стежити за вами в інтернеті. Змінюйте налаштування для найкращого балансу захисту й швидкодії.
+content-blocking-description = Блокуйте сторонній вміст, що стежить за вами в інтернеті. Контролюйте обсяг вашої онлайн-активності, що зберігається і передається між веб-сайтами.
 content-blocking-learn-more = Докладніше
 content-blocking-restore-defaults =
     .label = Відновити типові
@@ -691,6 +695,25 @@ content-blocking-fastblock-slow-loading-trackers-label =
     .label = Повільні елементи стеження
     .accesskey = в
 content-blocking-fastblock-new-description = Блокувати лише елементи стеження, що сповільнюють завантаження сторінок.
+content-blocking-setting-standard =
+    .label = Стандартно
+    .accesskey = т
+content-blocking-setting-strict =
+    .label = Суворо
+    .accesskey = в
+content-blocking-setting-custom =
+    .label = Власне
+    .accesskey = л
+content-blocking-standard-desc = Збалансовано для захисту і швидкодії. Дозволяє деякі елементи стеження для належної роботи веб-сайтів.
+content-blocking-strict-desc = Блокує все виявлене { -brand-short-name } стеження. Може пошкодити роботу деяких сайтів.
+content-blocking-custom-desc = Оберіть, що блокувати.
+content-blocking-private-trackers = Відомі елементи стеження лише у приватних вікнах
+content-blocking-third-party-cookies = Сторонні куки стеження
+content-blocking-all-windows-trackers = Відомі елементи стеження у всіх вікнах
+content-blocking-all-third-party-cookies = Усі сторонні куки
+content-blocking-warning-title = Увага!
+content-blocking-warning-desc = Блокування куків та стеження може вплинути на роботу деяких веб-сайтів. Ви можете легко вимкнути блокування для довірених сайтів.
+content-blocking-learn-how = Навчитися
 content-blocking-tracking-protection-trackers-label =
     .label = Стеження
     .accesskey = т
@@ -726,6 +749,9 @@ content-blocking-reject-trackers-block-trackers-option =
 content-blocking-reject-trackers-all-third-parties-option =
     .label = Усі сторонні куки (може пошкодити роботу веб-сайтів)
     .accesskey = У
+content-blocking-cookies-label =
+    .label = Куки
+    .accesskey = К
 
 ## Privacy Section - Tracking
 
@@ -747,6 +773,9 @@ tracking-exceptions =
 tracking-change-block-list =
     .label = Змінити список блокування…
     .accesskey = м
+tracking-manage-exceptions =
+    .label = Керувати винятками…
+    .accesskey = н
 
 ## Privacy Section - Permissions
 
