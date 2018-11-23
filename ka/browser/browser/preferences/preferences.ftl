@@ -648,6 +648,9 @@ sitedata-cookies-exceptions =
 # in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
 # Cookies and Site Data section.
 sitedata-warning-your-settings-prevent-changes = შიგთავსის შეზღუდვის თქვენი პარამეტრები, არ იძლევა ფუნთუშებისა და საიტის მონაცემების პარამეტრების შეცვლის საშუალებას.
+sitedata-cookies-permissions =
+    .label = ნებართვების მართვა...
+    .accesskey = ნ
 
 ## Privacy Section - Address Bar
 
@@ -668,6 +671,7 @@ addressbar-suggestions-settings = საძიებო სისტემის
 
 content-blocking-header = შიგთავსის შეზღუდვა
 content-blocking-desc = შეზღუდეთ არასასურველი შიგთავსი, მათ შორის რეკლამები და პროგრამული კოდი, რომელიც ანელებს გვერდების გახსნას და თვალს გადევნებთ ინტერნეტში გადაადგილებისას. მოირგეთ პარამეტრები სასურველი წონასწორობის მისაღწევად უსაფრთხოებასა და წარმადობას შორის.
+content-blocking-description = შეზღუდეთ მესამე მხარის შიგთავსი, რომელიც მთელ ინტერნეტში გადევნებთ თვალს. თავად განსაზღვრეთ, თქვენი მოქმედებების რა ნაწილი შეიძლება იყოს შენახული ან გაზიარებული საიტებს შორის.
 content-blocking-learn-more = იხილეთ ვრცლად
 content-blocking-restore-defaults =
     .label = ნაგულისხმევის აღდგენა
@@ -688,6 +692,25 @@ content-blocking-fastblock-slow-loading-trackers-label =
     .label = ჩატვირთვის შემნელებელი
     .accesskey = შ
 content-blocking-fastblock-new-description = მხოლოდ იმ მეთვალყურეების შეზღუდვა, რომლებიც ანელებს გვერდის ჩატვირთვას.
+content-blocking-setting-standard =
+    .label = ჩვეულებრივი
+    .accesskey = ჩ
+content-blocking-setting-strict =
+    .label = მკაცრი
+    .accesskey = კ
+content-blocking-setting-custom =
+    .label = მორგებული
+    .accesskey = გ
+content-blocking-standard-desc = წონასწორული მდგომარეობა უსაფრთხოებასა და წარმადობას შორის. მეთვალყურეების ნაწილი დაშვებულია, საიტების გამართულად მუშაობისთვის.
+content-blocking-strict-desc = ზღუდავს ყველა მეთვალყურეს, რომელსაც { -brand-short-name } აღმოაჩენს. საიტების ნაწილმა, შესაძლოა ვერ იმუშაოს გამართულად.
+content-blocking-custom-desc = შესაზღუდი შიგთავსის შერჩევა.
+content-blocking-private-trackers = ცნობილი მეთვალყურეები მხოლოდ პირად ფანჯრებში.
+content-blocking-third-party-cookies = მესამე მხარის მეთვალყურეების ფუნთუშები
+content-blocking-all-windows-trackers = ცნობილი მეთვალყურეები ყველა ფანჯარაში
+content-blocking-all-third-party-cookies = მესამე მხარის ყველა ფუნთუშა
+content-blocking-warning-title = ფრთხილად!
+content-blocking-warning-desc = მეთვალყურეებისა და ფუნთუშების შეზღუდვის შედეგად, საიტების ნაწილმა შესაძლოა ვერ იმუშაოს გამართულად. სანდო საიტებზე, მარტივად შეგეძლებათ შეზღუდვის გათიშვა.
+content-blocking-learn-how = იხილეთ ვრცლად
 content-blocking-tracking-protection-trackers-label =
     .label = მეთვალყურეები
     .accesskey = მ
@@ -723,6 +746,9 @@ content-blocking-reject-trackers-block-trackers-option =
 content-blocking-reject-trackers-all-third-parties-option =
     .label = ყველა მესამე მხარის ფუნთუშა (შესაძლოა ხარვეზები გამოიწვიოს საიტზე)
     .accesskey = ყ
+content-blocking-cookies-label =
+    .label = ფუნთუშები
+    .accesskey = ფ
 
 ## Privacy Section - Tracking
 
@@ -744,6 +770,9 @@ tracking-exceptions =
 tracking-change-block-list =
     .label = შეზღუდულთა სიის ჩასწორება…
     .accesskey = შ
+tracking-manage-exceptions =
+    .label = გამონაკლისების მართვა
+    .accesskey = ლ
 
 ## Privacy Section - Permissions
 
