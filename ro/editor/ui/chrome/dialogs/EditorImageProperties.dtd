@@ -38,7 +38,7 @@
 <!ENTITY heightEditField.accessKey "n">
 <!ENTITY widthEditField.label "Lățime:">
 <!ENTITY widthEditField.accessKey "L">
-<!ENTITY constrainCheckbox.label "Constrânge">
+<!ENTITY constrainCheckbox.label "Restricționează">
 <!ENTITY constrainCheckbox.accessKey "C">
 <!ENTITY constrainCheckbox.tooltip "Menține raportul de aspect al imaginii">
 
@@ -65,7 +65,7 @@
 <!ENTITY borderEditField.accessKey "B">
 
 <!-- These controls are in the Link Box -->
-<!ENTITY showImageLinkBorder.label "Afișează cu bordură imaginea cu linkuri">
+<!ENTITY showImageLinkBorder.label "Afișează bordură în jurul imaginii cu linkuri">
 <!ENTITY showImageLinkBorder.accessKey "A">
 <!ENTITY LinkAdvancedEditButton.label "Editare avansată a linkului…">
 <!ENTITY LinkAdvancedEditButton.accessKey "l">

@@ -9,7 +9,7 @@
 <!ENTITY chooseFileButton.accessKey "f">
 <!ENTITY chooseFileLinkButton.label "Alege fișier…">
 <!ENTITY chooseFileLinkButton.accessKey "f">
-<!ENTITY makeUrlRelative.label "URL relativ la locația paginii">
+<!ENTITY makeUrlRelative.label "URL-ul este relativ la locația paginii">
 <!ENTITY makeUrlRelative.accessKey "r">
 <!ENTITY makeUrlRelative.tooltip "Comută între URL relativ și absolut. Trebuie să salvezi mai întâi pagina înainte de modificare.">
 

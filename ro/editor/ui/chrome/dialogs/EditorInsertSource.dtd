@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Inserare HTML">
+<!ENTITY windowTitle.label "Inserează HTML">
 <!ENTITY sourceEditField.label "Introdu etichete HTML și text:">
 <!ENTITY example.label "Exemplu: ">
 <!-- LOCALIZATION NOTE (exampleOpenTag.label): DONT_TRANSLATE: they are text for HTML tagnames: "<i>" and "</i>" -->
