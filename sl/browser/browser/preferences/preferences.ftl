@@ -713,6 +713,7 @@ content-blocking-third-party-cookies = Sledilne piškotke tretjih strani
 content-blocking-all-windows-trackers = Znane sledilce v vseh oknih
 content-blocking-all-third-party-cookies = Vse piškotke tretjih strani
 content-blocking-warning-title = Opozorilo!
+content-blocking-warning-desc = Zavračanje piškotkov in sledilcev lahko povzroči nedelovanje nekaterih spletnih strani. Za strani, ki jim zaupate, lahko enostavno onemogočite zavračanje.
 content-blocking-learn-how = Naučite se, kako
 content-blocking-tracking-protection-trackers-label =
     .label = Sledilce
