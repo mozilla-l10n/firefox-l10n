@@ -793,6 +793,7 @@ sitedata-block-desc = Geblokkeerd type
 
 sitedata-block-trackers-option-recommended =
     .label = Trackers van derden (aanbevolen)
+
 sitedata-block-trackers-option =
     .label = Trackers van derden
 sitedata-block-unvisited-option =
@@ -907,6 +908,9 @@ content-blocking-tracking-protection-new-description = Alle bekende trackers blo
 content-blocking-tracking-protection-option-always =
     .label = Altijd
     .accesskey = A
+content-blocking-tracking-protection-option-all-windows =
+  .label = In alle vensters
+  .accesskey = a
 content-blocking-tracking-protection-option-private =
     .label = Alleen in privévensters
     .accesskey = p
