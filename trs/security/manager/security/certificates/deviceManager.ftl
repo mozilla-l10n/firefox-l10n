@@ -81,6 +81,7 @@ devinfo-modname =
     .label = Môdulo
 devinfo-modpath =
     .label = Hiuj gun'
+login-failed = Gire' riña ayi'i' sesion
 devinfo-label =
     .label = Dàj naga'ui' du'ue'
 devinfo-serialnum =
