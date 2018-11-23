@@ -13,6 +13,7 @@ column-type = రకం
 
 ## Values for the Type column
 
+type-tab = ట్యాబు
 type-tracker = ట్రాకరు
 type-addon = పొడగింత
 type-browser = విహారిణి
