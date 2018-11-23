@@ -235,7 +235,7 @@
 <!ENTITY tableDeleteMenu2.accesskey "t">
 
 <!-- Insert SubMenu -->
-<!ENTITY tableInsertMenu.label "Inserare">
+<!ENTITY tableInsertMenu.label "Inserează">
 <!ENTITY tableInsertMenu.accesskey "I">
 <!ENTITY tableTable.label "Tabel">
 <!ENTITY tableTable.accesskey "T">
