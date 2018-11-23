@@ -52,3 +52,4 @@ browser-languages-select-language =
     .placeholder = Wählen Sie eine Sprache zum Hinzufügen aus ...
 browser-languages-installed-label = Installierte Sprachen
 browser-languages-available-label = Verfügbare Sprachen
+browser-languages-error = { -brand-short-name } kann Ihre Sprachen momentan nicht aktualisieren. Überprüfen Sie, ob Sie mit dem Internet verbunden sind, oder versuchen Sie es erneut.
