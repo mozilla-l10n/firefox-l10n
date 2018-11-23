@@ -154,7 +154,7 @@
 <!ENTITY openDownloadsFolder.label        "Deschide dosarul cu descărcări">
 
 <!ENTITY clearDownloadsButton.label       "Șterge descărcările">
-<!ENTITY clearDownloadsButton.tooltip     "Șterge descărcările încheiate, anulate și eșuate">
+<!ENTITY clearDownloadsButton.tooltip     "Șterge descărcările terminate, anulate și eșuate">
 
 <!-- LOCALIZATION NOTE (downloadsListEmpty.label):
      This string is shown when there are no items in the Downloads view, when it
