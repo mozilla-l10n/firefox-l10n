@@ -44,9 +44,6 @@
 <!ENTITY  mediaSaveAs2.accesskey "e">
 <!ENTITY  mediaPreview          "Previsualización multimedia:">
 
-<!ENTITY  feedTab               "Fontes">
-<!ENTITY  feedTab.accesskey     "F">
-
 <!ENTITY  permTab               "Permisos">
 <!ENTITY  permTab.accesskey     "P">
 <!ENTITY  permissionsFor        "Permisos para:">
@@ -66,9 +63,6 @@
 
 <!ENTITY  securityView.privacy.header                   "Privacidade e historial">
 <!ENTITY  securityView.privacy.history                  "Visitei este sitio web anteriormente?">
-<!ENTITY  securityView.privacy.cookies                  "Este sitio web está almacenando información (cookies) no seu computador?">
-<!ENTITY  securityView.privacy.viewCookies              "Ver cookies">
-<!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
 <!ENTITY  securityView.privacy.siteData                 "Este sitio web está almacenando información no meu computador?">
 <!ENTITY  securityView.privacy.clearSiteData            "Borrar cookies e datos do sitio">
 <!ENTITY  securityView.privacy.clearSiteData.accessKey  "c">

@@ -7,6 +7,12 @@
 
 <!ENTITY loadError.label "Produciuse un problema ao cargar a páxina">
 <!ENTITY retry.label "Tentar de novo">
+<!ENTITY returnToPreviousPage.label "Ir atrás">
+<!ENTITY returnToPreviousPage1.label "Retroceder (recomendado)">
+<!ENTITY advanced.label "Avanzado">
+<!ENTITY continue2.label "Máis…">
+<!ENTITY moreInformation.label "Máis información">
+<!ENTITY viewCertificate.label "Ver o certificado">
 
 <!-- Specific error messages -->
 
@@ -16,27 +22,42 @@
 <!ENTITY deniedPortAccess.title "Este enderezo está restrinxido">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "Non se atopou o servidor">
-<!ENTITY dnsNotFound.longDesc "<ul><li>Comprobe que o enderezo non conteña erros de escrita tales como <strong>ww</strong>.example.com no lugar de <strong>www</strong>.example.com</li><li>Se resulta imposíbel cargar algunhas páxinas, comprobe a conexión de rede do seu computador.</li><li>Se o seu computador ou a rede está protexida por unha devasa ou un proxy, asegúrese de que o &brandShortName; ten permisos para acceder á Web.</li></ul>">
+<!ENTITY dnsNotFound.pageTitle "Non se atopou o servidor">
+<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY dnsNotFound.title1 "Estamos tendo problemas para atopar ese sitio.">
+<!ENTITY dnsNotFound.longDesc1 "
+<strong>Se este enderezo é correcto, pode probar estas tres accións:</strong>
+<ul>
+  <li>Tentalo de novo máis tarde.</li>
+  <li>Comprobar a súa conexión de rede.</li>
+  <li>Se está conectado a través dunha devasa, comprobe que &brandShortName; ten permisos para acceder á Web.</li>
+</ul>
+">
 
 <!ENTITY fileNotFound.title "Non se atopou o ficheiro">
 <!ENTITY fileNotFound.longDesc "<ul><li>Comprobe o uso de maiúsculas no nome do ficheiro ou outros erros de escrita.</li><li>Comprobe se o ficheiro foi movido, renomeado ou borrado.</li></ul>">
 
+<!ENTITY fileAccessDenied.title "Denegouse o acceso ao ficheiro">
+<!ENTITY fileAccessDenied.longDesc "
+<ul>
+  <li>Pode que fose retirado, movido ou os permisos do ficheiro impiden o acceso.</li>
+</ul>
+">
 
 <!ENTITY generic.title "Vaites.">
 <!ENTITY generic.longDesc "<p>Non é posíbel que &brandShortName; cargue esta páxina por algunha razón.</p>
 ">
 
-
-
-<!ENTITY malformedURI.title "O enderezo é incorrecto">
-<!ENTITY malformedURI.longDesc "<ul>
-  <li>Normalmente, os enderezos web escríbense como
-    <strong>http://www.exemplo.com/</strong></li>
-  <li>Asegúrese de que está a usar barras inclinadas
-    cara adiante (p. ex. <strong>/</strong>).</li>
-</ul>
+<!ENTITY captivePortal.title "Identificarse na rede">
+<!ENTITY captivePortal.longDesc2 "
+<p>Debe identificarse nesta rede antes de que poida acceder á Internet.</p>
 ">
+
+<!ENTITY openPortalLoginPage.label2 "Abrir a páxina de inicio de sesión na rede">
+
+<!ENTITY malformedURI.pageTitle "URL non válido">
+<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY malformedURI.title1 "O enderezo non parece correcto.">
 
 <!ENTITY netInterrupt.title "Interrompeuse a conexión">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
@@ -94,19 +115,49 @@
 </ul>
 ">
 
-<!-- Localization note (certerror.introPara) - The text content of the span tag
+<!ENTITY certerror.longpagetitle1 "A súa conexión non é segura">
+<!ENTITY certerror.longpagetitle2 "Aviso: potencial risco de seguranza">
+<!ENTITY certerror.sts.longpagetitle  "Conexión bloqueada: Potencial incidencia de seguranza">
+<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
+<!ENTITY certerror.introPara "O propietario de <span class='hostname'/> configurou incorrectamente o seu sitio web. Para protexer a súa información contra roubos, &brandShortName; non se conectou a este sitio web.">
+<!ENTITY certerror.introPara2 "&brandShortName; detectou unha posible ameaza de seguranza e interrompeu a conexión a <span class='hostname'/>. Se visita este sitio, os atacantes poderían tentar roubar información como os seus contrasinais, correos, ou detalles da tarxeta de crédito.">
+<!ENTITY certerror.sts.introPara "&brandShortName; detectou unha posible ameaza de seguranza e interrompeu a conexión a <span class='hostname'/> porque este sitio web require unha conexión segura.">
+
+<!ENTITY certerror.expiredCert.introPara "&brandShortName; detectou unha incidencia e non continuou coa conexión a  <span class='hostname'/>. Ou ben o sitio web está mal configurado ou o reloxo do seu computador non ten a hora correcta.">
+<!ENTITY certerror.expiredCert.secondPara2 "É probable que o certificado do sitio web caducara, o que impide que &brandShortName; se conecte de forma segura. Se visita este sitio, os atacantes poderían tentar roubar información como os seus contrasinais, correos, ou detalles da tarxeta de crédito.">
+<!ENTITY certerror.expiredCert.sts.secondPara "É probable que o certificado do sitio web caducara, o que impide que &brandShortName; se conecte de forma segura.">
+
+<!ENTITY certerror.whatCanYouDoAboutItTitle "Que podo facer ao respecto?">
+
+<!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "
+<p>Probablemente a incidencia está no sitio web, e non hai nada que poida facer para resolvela.</p>
+<p>Se está nunha rede corporativa ou usando un antivirus, pode pórse en contacto co equipo de asistencia para obter axuda. Tamén pode avisar ao administrador do sitio web sobre o problema.</p>
+">
+
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "
+<p>Segundo o reloxo do seu computador, a data e hora actual son: <span id='wrongSystemTime_systemDate2'/>. Na configuración do seu sistema, asegúrese de que a data e hora actual é correcta, e que está no fuso horario apropiado, logo actualice <span class='hostname'/>.</p>
+<p>Se o seu equipo está configurado correctamente, entón o máis probable é que o sitio web está mal configurado e non hai nada que poida facer para resolver a incidencia. Pode avisar ao administrador do sitio web sobre o problema.</p>
+">
+
+<!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "
+<p>Probablemente a incidencia está no sitio web, e non hai nada que poida facer para resolvela. Pode avisar ao administrador do sitio web sobre o problema.</p>
+">
 
 <!ENTITY sharedLongDesc "<ul><li>O sitio podería estar non dispoñíbel temporalmente ou estar demasiado saturado. Tente acceder de novo nuns minutos</li><li>Se non consegue cargar algunhas páxinas, comprobe a conexión de rede do computador.</li><li>Se o computador ou a rede están protexidos por unha devasa ou proxy, asegúrese que &brandShortName; ten permiso para acceder á Web.</li></ul>">
 
 <!ENTITY cspBlocked.title "Bloqueado pola política de seguranza de contidos">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; impediu que esta páxina se cargue desta forma porque a páxina ten una política de seguranza de contido que non o permite.</p>">
 
+<!ENTITY corruptedContentErrorv2.title "Erro de contido danado">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Non é posíbel amosar a páxina a que está a tentar acceder porque se detectou un erro na transmisión de datos.</p><ul><li>Contacte cos propietarios do sitio web para informalos deste problema.</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Engadir excepción…">
+<!ENTITY securityOverride.exceptionButton1Label "Aceptar o risco e continuar">
 
+<!ENTITY errorReporting.automatic2 "Informar de erros como este axuda a Mozilla a identificar e bloquear sitios maliciosos">
 <!ENTITY errorReporting.learnMore "Obter máis información…">
 
 <!ENTITY remoteXUL.title "XUL remoto">
@@ -115,12 +166,36 @@ was trying to connect. -->
 <!ENTITY sslv3Used.title "Non é posíbel conectarse de forma segura">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
+<!ENTITY sslv3Used.longDesc2 "Información avanzada: SSL_ERROR_UNSUPPORTED_VERSION">
 
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
+<!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; non se conectou con <span id='wrongSystemTime_URL'/> porque  parece que o reloxo do seu computador amosa unha hora equivocada que impide unha conexión segura.</p> <p>O seu computador ten data e hora estabelecidos en <span id='wrongSystemTime_systemDate'/>, cando deberían ser <span id='wrongSystemTime_actualDate'/>. Para arranxar este problema, cambie a súa configuración de data e hora para que indique a correcta.</p>">
+<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; non se conectou con <span id='wrongSystemTimeWithoutReference_URL'/> porque parece que o reloxo do seu computador amosa unha hora equivocada que impide unha conexión segura.</p> <p>O seu computador ten hora e data estabelecidos en <span id='wrongSystemTimeWithoutReference_systemDate'/>. Para arranxar este problema, cambie a súa configuración de data e hora para que indique a correcta.</p>">
 
+<!ENTITY certerror.pagetitle1  "Conexión non segura">
+<!ENTITY certerror.pagetitle2  "Aviso: potencial risco de seguranza">
+<!ENTITY certerror.sts.pagetitle  "Conexión bloqueada: Potencial incidencia de seguranza">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Este sitio usa o protocolo HTTP
+Seguranza de transporte estrita (HSTS) para especificar que &brandShortName; ten que conectarse
+con el de forma segura. Como resultado non é posíbel engadir unha excepción para este
+certificado.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> ten unha política de seguranza chamada «HTTP Strict Transport Security» (Seguranza de transporte estrita HTTP, ou HSTS), que significa que &brandShortName; só pode conectarse con el de forma segura. Non é posíbel engadir unha excepción para visitar este sitio.">
+<!ENTITY certerror.copyToClipboard.label "Copiar texto ao portapapeis">
 
+<!ENTITY inadequateSecurityError.title "A súa conexión non é segura">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> usa unha tecnoloxía de seguranza obsoleta e vulnerábel a un ataque. Un atacante podería facilmente obter información que vostede cre segura. O administrador do sitio web debe arranxar o servidor antes de poder visitar o sitio.</p><p>Código de erro: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
+<!ENTITY blockedByPolicy.title "Páxina bloqueada">
+
+<!ENTITY clockSkewError.title "A hora do seu computador é incorrecta">
+<!ENTITY clockSkewError.longDesc "Segundo o seu computador, a data e hora actual son: <span id='wrongSystemTime_systemDate1'/>, o que impide que &brandShortName; se conecte de forma segura. Para visitar <span class='hostname'></span>, actualice o reloxo do seu computador na súa configuración do sistema á data e hora actual, ao fuso horario apropiado, e logo actualice <span class='hostname'></span>.">
+
+<!ENTITY prefReset.longDesc "Semella que a súa configuración de seguranza de rede podería causar isto. Quere restaurar a configuración predeterminada?">
+<!ENTITY prefReset.label "Restaurar a configuración predeterminada">
+
+<!ENTITY networkProtocolError.title "Erro do protocolo de rede">
+<!ENTITY networkProtocolError.longDesc "<p>Non é posíbel amosar a páxina a que está a tentar acceder porque se detectou un erro protocolo da rede.</p><ul><li>Contacte cos propietarios do sitio web para informalos deste problema.</li></ul>">

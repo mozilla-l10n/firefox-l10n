@@ -8,7 +8,6 @@
 <!ENTITY stretch.label              "Estirar">
 <!ENTITY fill.label                 "Cubrir">
 <!ENTITY fit.label                  "Axustar">
-<!ENTITY preview.label              "Previsualizar">
 <!ENTITY color.label                "Cor:">
 <!ENTITY setDesktopBackground.title "Estabelecer como fondo de pantalla">
 <!ENTITY openDesktopPrefs.label     "Abrir as preferencias do escritorio">
