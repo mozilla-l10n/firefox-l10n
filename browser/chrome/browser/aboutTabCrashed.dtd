@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY tabCrashed.title "Informador de erros nas lapelas">
 
 <!ENTITY tabCrashed.closeTab2  "Pechar lapela">
 <!ENTITY tabCrashed.restoreTab "Restaurar esta lapela">
@@ -14,5 +15,18 @@
      happen. If you have a similar word or short phrase that is not profane or
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
+<!ENTITY tabCrashed.header2 "Vaia. A súa lapela quebrou.">
 <!ENTITY tabCrashed.offerHelp2 "Podemos axudarlle!">
+<!ENTITY tabCrashed.single.offerHelpMessage2 "Escolla &tabCrashed.restoreTab; para recargar a páxina.">
+<!ENTITY tabCrashed.multiple.offerHelpMessage2 "Escolla &tabCrashed.restoreTab; ou &tabCrashed.restoreAll; para recargar as páxinas.">
+<!ENTITY tabCrashed.requestHelp "Está disposto a axudarnos?">
+<!ENTITY tabCrashed.requestHelpMessage "Os informes de erro axúdannos a diagnosticar os problemas e a mellorar &brandShortName;.">
+<!ENTITY tabCrashed.requestReport "Informar desta lapela">
+<!ENTITY tabCrashed.sendReport3 "Envía un informe de erro automático para que poidamos arranxar problemas similares.">
+<!ENTITY tabCrashed.commentPlaceholder2 "Comentarios opcionais (os comentarios son visíbeis publicamente)">
+<!ENTITY tabCrashed.includeURL3 "Incluír os URL dos sitios nos que estaba cando &brandShortName; quebrou.">
+<!ENTITY tabCrashed.emailPlaceholder "Escriba aquí o seu correo electrónico">
+<!ENTITY tabCrashed.emailMe "Envíenme un correo cando haxa máis información dispoñíbel">
 <!ENTITY tabCrashed.reportSent "Xa se enviou o informe de erro; grazas por axudar a mellorar &brandShortName;!">
+<!ENTITY tabCrashed.requestAutoSubmit2 "Informar das lapelas en segundo plano">
+<!ENTITY tabCrashed.autoSubmit3 "Actualice as preferencias para enviar automaticamente informes cando &brandShortName; quebre.">
