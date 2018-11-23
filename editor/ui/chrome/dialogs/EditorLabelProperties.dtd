@@ -7,9 +7,9 @@
 <!ENTITY Settings.label "Setări">
 <!ENTITY Settings.accesskey "S">
 
-<!ENTITY EditLabelText.label "Editare text:">
+<!ENTITY EditLabelText.label "Editează textul:">
 <!ENTITY EditLabelText.accesskey "t">
-<!ENTITY LabelFor.label "Pentru controlul:">
+<!ENTITY LabelFor.label "Pentru comanda:">
 <!ENTITY LabelFor.accesskey "c">
 <!ENTITY AccessKey.label "Tastă acces:">
 <!ENTITY AccessKey.accesskey "a">

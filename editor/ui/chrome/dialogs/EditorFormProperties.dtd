@@ -6,7 +6,7 @@
 
 <!ENTITY Settings.label "Setări">
 
-<!ENTITY FormName.label "Nume formular:">
+<!ENTITY FormName.label "Denumire formular:">
 <!ENTITY FormName.accesskey "N">
 <!ENTITY FormAction.label "URL acțiune:">
 <!ENTITY FormAction.accesskey "a">

@@ -6,7 +6,7 @@
 <!-- Window title -->
 <!ENTITY windowTitle.label "Convertire în tabel">
 <!ENTITY instructions1.label   "Composer va crea un nou rând de tabel pentru fiecare paragraf din selecție.">
-<!ENTITY instructions2.label   "Alege caracterul folosit la separarea coloanelor în textul selectat:">
+<!ENTITY instructions2.label   "Alege caracterul folosit pentru a separa selecția pe coloane:">
 <!ENTITY commaRadio.label      "Virgulă">
 <!ENTITY spaceRadio.label      "Spațiu">
 <!ENTITY otherRadio.label      "Alt caracter:">
