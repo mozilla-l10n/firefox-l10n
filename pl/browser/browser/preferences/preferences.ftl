@@ -353,7 +353,7 @@ sync-signedout-account-create=Nie masz konta? Utwórz je…
 sync-signedout-account-signin=
   .label=Zaloguj się
   .accesskey=Z
-sync-mobile-promo=Firefox na <a data-l10n-name="android-link">Androida</a> <img data-l10n-name="android-icon"/> i <a data-l10n-name="ios-link">iOSa</a> <img data-l10n-name="ios-icon"/> daje możliwość synchronizacji ze swoim urządzeniem przenośnym.
+sync-mobile-promo=Firefox na <a data-l10n-name="android-link">Androida</a> <img data-l10n-name="android-icon"/> i <a data-l10n-name="ios-link">iOSa</a> <img data-l10n-name="ios-icon"/> daje możliwość synchronizacji z urządzeniami przenośnymi.
 sync-profile-picture=
     .tooltiptext=Zmień obraz przypisany do konta
 sync-disconnect=
