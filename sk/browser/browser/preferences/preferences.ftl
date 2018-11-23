@@ -674,6 +674,7 @@ addressbar-suggestions-settings = Zmeniť nastavenia pre návrhy vyhľadávania
 
 content-blocking-header = Blokovanie obsahu a ochrana pred sledovaním
 content-blocking-desc = Zablokujte obsah tretích strán, ako sú reklamy alebo kód, ktorý spomaľuje načítanie stránok a sleduje vašu aktivitu na internete. Úroveň blokovania môžete upraviť podľa svojich vlastných požiadaviek na výkon a ochranu súkromia.
+content-blocking-description = Zablokujte obsah tretích strán, ktorý vás sleduje naprieč webom. Sami si určite, aká časť z vašej aktivity na internete sa bude ukladať a zdieľať medzi stránkami.
 content-blocking-learn-more = Ďalšie informácie
 content-blocking-restore-defaults =
     .label = Obnoviť predvolené nastavenia
@@ -694,7 +695,22 @@ content-blocking-fastblock-slow-loading-trackers-label =
     .label = Spomaľovacie sledovacie prvky
     .accesskey = S
 content-blocking-fastblock-new-description = Blokované budú len sledovacie prvky, ktoré spomaľujú načítanie stránok.
+content-blocking-setting-standard =
+    .label = Štandardné
+    .accesskey = t
+content-blocking-setting-strict =
+    .label = Prísne
+    .accesskey = P
+content-blocking-setting-custom =
+    .label = Vlastné
+    .accesskey = V
+content-blocking-standard-desc = Vyvážená úroveň ochrany a výkonu. Povoľuje niektoré sledovacie sledovacie prvky, aby stránky fungovali správne.
+content-blocking-strict-desc = Blokuje všetky sledovacie prvky, ktoré { -brand-short-name } nájde. Toto nastavenie môže obmedziť fungovanie niektorých stránok.
 content-blocking-custom-desc = Vyberte si, čo chcete blokovať.
+content-blocking-private-trackers = Známe sledovacie prvky sú blokované v režime Súkromné prehliadanie
+content-blocking-third-party-cookies = Blokované sú sledovacie cookies tretích strán
+content-blocking-all-windows-trackers = Známe sledovacie prvky sú blokované vždy
+content-blocking-all-third-party-cookies = Blokované sú všetky cookies tretích strán
 content-blocking-warning-title = Pozor!
 content-blocking-warning-desc = Blokovanie cookies a sledovacích prvkov môže spôsobiť rozbitie niektorých webových stránok. Na dôveryhodných stránkach môžete blokovanie jednoducho vypnúť.
 content-blocking-learn-how = Ďalšie informácie
@@ -733,6 +749,9 @@ content-blocking-reject-trackers-block-trackers-option =
 content-blocking-reject-trackers-all-third-parties-option =
     .label = Všetky cookies tretích strán (môže obmedziť fungovanie niektorých stránok)
     .accesskey = V
+content-blocking-cookies-label =
+    .label = Cookies
+    .accesskey = C
 
 ## Privacy Section - Tracking
 
@@ -754,6 +773,9 @@ tracking-exceptions =
 tracking-change-block-list =
     .label = Zmeniť zoznam blokovania…
     .accesskey = Z
+tracking-manage-exceptions =
+    .label = Správa výnimiek…
+    .accesskey = S
 
 ## Privacy Section - Permissions
 
