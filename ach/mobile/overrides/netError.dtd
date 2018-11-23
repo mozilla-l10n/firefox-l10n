@@ -124,3 +124,6 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> tiyo ki diro me ber bedo ma con ki kiromo mwonyo ne cawa mo keken. Ngat ma omwonyo romo nyuto ngec mamegi ma itamo no ni tye maber iyoo mayot. Laloc me kakube ne myero kong oyub lapok tic ma pud pe ilimo kakube ne.</p><p>Kod me bal: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+<!ENTITY networkProtocolError.title "Bal me Cik me Netwak">
+<!ENTITY networkProtocolError.longDesc "<p>Potbuk ma itye ka temo neno ne ni pe kitwero nyuto pien bal ononge i cik me netwak.</p><ul><li>Tim ber i kube ki wegi kakube ne me miini gi ngec pi peko man.</li></ul>">
