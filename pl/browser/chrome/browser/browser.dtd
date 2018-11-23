@@ -222,7 +222,7 @@
 <!ENTITY urlbar.webNotificationsBlocked.tooltip "Powiadomienia z tej witryny zostały zablokowane">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Przechowywanie danych na komputerze przez witrynę zostało zablokowane">
 <!ENTITY urlbar.popupBlocked.tooltip "Wyskakujące okna na tej stronie są blokowane">
-<!ENTITY urlbar.autoplayMediaBlocked.tooltip "Automatyczne odtwarzanie treści z dźwiękiem przez witrynę zostało zablokowane">
+<!ENTITY urlbar.autoplayMediaBlocked.tooltip "Automatyczne odtwarzanie treści przez tę stronę zostało zablokowane">
 <!ENTITY urlbar.canvasBlocked.tooltip "Odczytywanie danych canvas przez witrynę zostało zablokowane">
 <!ENTITY urlbar.flashPluginBlocked.tooltip "Wtyczka Adobe Flash została zablokowana na tej stronie">
 <!ENTITY urlbar.midiBlocked.tooltip "Dostęp do urządzeń MIDI dla tej witryny został zablokowany">
