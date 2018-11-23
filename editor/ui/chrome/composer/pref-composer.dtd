@@ -15,7 +15,7 @@
 <!ENTITY  preserveExisting.label        "Păstrează formatarea inițială a sursei">
 <!ENTITY  preserveExisting.accesskey    "o">
 <!ENTITY  preserveExisting.tooltip      "Păstrează caracterele de rând nou și formatarea inițială a paginii">
-<!ENTITY  saveAssociatedFiles.label     "Salvează imaginile și celelalte fișiere asociate la salvarea paginilor">
+<!ENTITY  saveAssociatedFiles.label     "Salvează imaginile și alte fișiere asociate la salvarea paginilor">
 <!ENTITY  saveAssociatedFiles.accesskey "S">
 <!ENTITY  showPublishDialog.label       "Afișează întotdeauna fereastra de dialog Publicare la publicarea paginilor">
 <!ENTITY  showPublishDialog.accesskey   "A">
