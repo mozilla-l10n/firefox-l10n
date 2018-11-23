@@ -709,6 +709,7 @@ content-blocking-setting-custom =
 content-blocking-strict-desc = Zavračaj vse sledilce, ki jih { -brand-short-name } zazna. Lahko povzroči nedelovanje nekaterih strani.
 content-blocking-custom-desc = Izberite, kaj želite zavračati.
 content-blocking-private-trackers = Znane sledilce samo v zasebnih oknih
+content-blocking-third-party-cookies = Sledilne piškotke tretjih strani
 content-blocking-all-windows-trackers = Znane sledilce v vseh oknih
 content-blocking-all-third-party-cookies = Vse piškotke tretjih strani
 content-blocking-warning-title = Opozorilo!
