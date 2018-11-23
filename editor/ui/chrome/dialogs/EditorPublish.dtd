@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label            "Publicare pagină">
+<!ENTITY windowTitle.label            "Publică pagina">
 <!ENTITY windowTitleSettings.label    "Setări de publicare">
 <!ENTITY publishTab.label             "Publică">
 <!ENTITY settingsTab.label            "Setări">
@@ -17,26 +17,26 @@
 <!ENTITY newSiteButton.accesskey      "n">
 <!ENTITY docDirList.label             "Subdirectorul site-ului pentru această pagină:">
 <!ENTITY docDirList.accesskey         "s">
-<!ENTITY docDirList.tooltip           "Alege sau introdu numele directorului aflat la distanță pentru această pagină">
-<!ENTITY publishImgCheckbox.label     "Include imaginile și celelalte fișiere">
+<!ENTITY docDirList.tooltip           "Alege sau introdu numele subdirectorului la distanță pentru această pagină">
+<!ENTITY publishImgCheckbox.label     "Include imagini și alte fișiere">
 <!ENTITY publishImgCheckbox.accesskey "I">
-<!ENTITY publishImgCheckbox.tooltip   "Publică imaginile și celelalte fișiere de care are nevoie această pagină">
+<!ENTITY publishImgCheckbox.tooltip   "Publică imaginile și celelalte fișiere la care trimite această pagină">
 <!ENTITY sameLocationRadio.label      "Utilizează aceeași locație ca pentru pagină">
 <!ENTITY sameLocationRadio.accesskey  "U">
 <!ENTITY sameLocationRadio.tooltip    "Publică fișierele în aceeași locație cu pagina">
 <!ENTITY useSubdirRadio.label         "Folosește acest subdirector de pe site:">
 <!ENTITY useSubdirRadio.accesskey     "d">
-<!ENTITY useSubdirRadio.tooltip       "Publică fișierele în directorul de la distanță selectat">
-<!ENTITY otherDirList.tooltip         "Alege sau introdu numele unui subdirector la distanță unde se vor publica fișierele">
+<!ENTITY useSubdirRadio.tooltip       "Publică fișierele în subdirectorul la distanță selectat">
+<!ENTITY otherDirList.tooltip         "Alege sau introdu numele subdirectorului la distanță pe care vor fi publicate fișierele">
 <!ENTITY pageTitle.label              "Titlu pagină:">
 <!ENTITY pageTitle.accesskey          "T">
 <!ENTITY pageTitle.tooltip            "Introdu un titlu care să identifice pagina în fereastră și în marcaje">
 <!ENTITY pageTitleExample.label       "ex.: „Pagina mea de web”">
 <!ENTITY filename.label               "Nume fișier:">
 <!ENTITY filename.accesskey           "N">
-<!ENTITY filename.tooltip             "Introdu un nume pentru acest fișier, adăugând '.html' în cazul unei pagini web">
+<!ENTITY filename.tooltip             "Introdu un nume pentru acest fișier, adăugând '.html' pentru pagini web">
 <!ENTITY filenameExample.label        "ex.: „pagina mea.html”">
-<!ENTITY setDefaultButton.label       "Implicit">
+<!ENTITY setDefaultButton.label       "Setează ca implicit">
 <!ENTITY setDefaultButton.accesskey   "I">
 <!ENTITY removeButton.label           "Elimină site-ul">
 <!ENTITY removeButton.accesskey       "E">
@@ -47,8 +47,8 @@
 <!ENTITY loginInfo.label              "Informații de autentificare">
 <!ENTITY siteName.label               "Numele site-ului:">
 <!ENTITY siteName.accesskey           "e">
-<!ENTITY siteName.tooltip             "Un nume scurt care identifică acest site de publicare (ex.: „Site-ulMeu”)">
-<!ENTITY siteUrl.label                "Adresa de publicare (ex.: „ftp://ftp.isp.ro/numelemeu”):">
+<!ENTITY siteName.tooltip             "Un nume scurt care identifică acest site de publicare (ex.: „Site-ulmeu”)">
+<!ENTITY siteUrl.label                "Adresa de publicare (ex.: „ftp://ftp.isp.ro/numelemeudeutilizator”):">
 <!ENTITY siteUrl.accesskey            "A">
 <!ENTITY siteUrl.tooltip              "Adresa FTP:// sau HTTP:// furnizată de ISP sau de serviciul de găzduire web">
 <!ENTITY browseUrl.label              "Adresa HTTP a paginii de start (ex.: „http://www.isp.ro/numelemeu”):">
