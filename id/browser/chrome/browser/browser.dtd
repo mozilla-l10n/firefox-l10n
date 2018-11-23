@@ -1015,7 +1015,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.fastBlock.add.label "Tambahkan Blokir…">
 
 <!ENTITY contentBlocking.trackingProtection2.label "Semua Pelacak yang Terdeteksi">
+
 <!ENTITY contentBlocking.trackingProtection3.label "Pelacak">
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.allowed.label):
+     This label signals that this type of content blocking is turned
+     OFF and is not blocking tracker content, so this is not
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Trackers [are] Allowed"-->
+<!ENTITY contentBlocking.trackingProtection.allowed.label "Diizinkan">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking tracker content, so this is
@@ -1052,6 +1059,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.3rdPartyCookies.add.label "Tambahkan Blokir…">
 
+<!ENTITY contentBlocking.manageSettings.label "Kelola Pemblokiran Konten">
+<!ENTITY contentBlocking.manageSettings.accesskey "K">
+
+<!ENTITY contentBlocking.trackersView.label "Pelacak">
+
 <!ENTITY contentBlocking.openBreakageReportView2.label "Laporkan masalah">
 <!ENTITY contentBlocking.breakageReportView.label "Laporkan Masalah">
 <!ENTITY contentBlocking.breakageReportView2.description "Pemblokiran konten bisa menyebabkan beberapa situs web tidak berfungsi dengan baik. Saat Anda melaporkan masalahnya, Anda membantu agar &brandShortName; menjadi lebih baik bagi semua orang. (Proses ini akan mengirimkan URL serta informasi tentang pengaturan peramban Anda ke Mozilla).">
@@ -1081,6 +1093,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock5.label "Nonaktifkan pemblokiran untuk situs ini">
+<!ENTITY trackingProtection.unblock5.accesskey "P">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate6.label, trackingProtection.unblockPrivate6.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
