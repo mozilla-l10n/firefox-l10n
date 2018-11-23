@@ -29,3 +29,14 @@ onboarding-ghostery-text = Surf sneller, slimmer of veiliger met extensies zoals
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Synchroniseren
 onboarding-fxa-text = Maak een { -fxaccount-brand-name } aan en synchroniseer uw bladwijzers, wachtwoorden en open tabbladen, overal waar u { -brand-short-name } gebruikt.
+
+## Message strings belonging to the Return to AMO flow
+return-to-amo-sub-header = Geweldig, u hebt { -brand-short-name }
+
+# <icon></icon> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-header = Laten we nu <icon></icon><b>{ $addon-name }</b> ophalen.
+return-to-amo-extension-button = De extensie toevoegen
+return-to-amo-get-started-button = Beginnen met { -brand-short-name }
