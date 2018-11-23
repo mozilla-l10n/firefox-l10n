@@ -660,6 +660,9 @@ sitedata-cookies-exceptions =
 # in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
 # Cookies and Site Data section.
 sitedata-warning-your-settings-prevent-changes = Mae eich gosodiadau yn Rhwystro Cynnwys yn atal newidiadau i osodiadau Cwcis a Data Gwefan.
+sitedata-cookies-permissions =
+    .label = Rheoli Caniatad...
+    .accesskey = R
 
 ## Privacy Section - Address Bar
 
