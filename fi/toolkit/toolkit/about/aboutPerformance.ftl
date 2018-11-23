@@ -25,6 +25,7 @@ type-subframe = Alikehys
 type-tracker = Seurain
 type-addon = Lisäosa
 type-browser = Selain
+type-worker = Työsäie
 type-other = Muu
 
 ## Values for the Energy Impact column
