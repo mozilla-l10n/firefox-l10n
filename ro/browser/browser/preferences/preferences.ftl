@@ -651,6 +651,9 @@ sitedata-cookies-exceptions =
 # in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
 # Cookies and Site Data section.
 sitedata-warning-your-settings-prevent-changes = Setările din blocarea de conținut împiedică modificările din setările pentru cookie-uri și datele site-urilor.
+sitedata-cookies-permissions =
+    .label = Gestionează permisiunile...
+    .accesskey = P
 
 ## Privacy Section - Address Bar
 
@@ -671,6 +674,7 @@ addressbar-suggestions-settings = Schimbă preferințele pentru sugestiile motoa
 
 content-blocking-header = Blocare de conținut
 content-blocking-desc = Blochează conținutul de la terți, cum ar fi anunțurile sau codul, care îți pot încetini navigarea și te pot urmări pe web. Personalizează setările pentru echilibrul optim între protecție și performanță.
+content-blocking-description = Blochează conținutul de la terți care te urmărește pe web. Controlează cât din activitatea ta online este stocată și partajată între site-urile web.
 content-blocking-learn-more = Află mai multe
 content-blocking-restore-defaults =
     .label = Restaurează valorile implicite
@@ -691,6 +695,16 @@ content-blocking-fastblock-slow-loading-trackers-label =
     .label = Urmăritori cu încărcare lentă
     .accesskey = S
 content-blocking-fastblock-new-description = Blochează numai urmăritorii care împiedică încărcarea rapidă a paginilor.
+content-blocking-setting-standard =
+    .label = Standard
+    .accesskey = d
+content-blocking-setting-strict =
+    .label = Strictă
+    .accesskey = r
+content-blocking-setting-custom =
+    .label = Personalizată
+    .accesskey = C
+content-blocking-standard-desc = Echilibrată pentru protecție și performanță. Permite unele mecanisme de urmărire pentru ca site-urile web să funcționeze corespunzător.
 content-blocking-tracking-protection-trackers-label =
     .label = Urmăritori
     .accesskey = U
