@@ -33,6 +33,8 @@ languages-customize-add =
 #   $code (String) - Locale code of the locale (for example: "is", "es-CL")
 languages-code-format =
     .label = { $locale }  [{ $code }]
+languages-active-code-format =
+    .value = { languages-code-format.label }
 browser-languages-search = Yeny leb mukene mapol...
 browser-languages-searching =
     .label = Tye  ka yenyo leb...

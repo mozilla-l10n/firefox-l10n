@@ -612,6 +612,26 @@ content-blocking-restore-defaults =
     .label = Dwok makwongo
     .accesskey = D
 content-blocking-category-label = Yer ngo me agenga
+content-blocking-custom-desc = Yer ngo me agenga.
+content-blocking-warning-title = Ngec!
+content-blocking-warning-desc = Gengo angija ki lulub kor twero weko kakube mogo bale woko. Yot me juko geng pi kakube ma igeno.
+content-blocking-learn-how = Nong ngec nining
+content-blocking-tracking-protection-trackers-label =
+    .label = Lulub kor
+    .accesskey = L
+content-blocking-tracking-protection-new-description = Geng lulub kor weng ma ngene. (Twero gengo kakube mogo me cane.)
+content-blocking-tracking-protection-option-always =
+    .label = Jwijwi
+    .accesskey = J
+content-blocking-tracking-protection-option-private =
+    .label = I dirica me mung keken
+    .accesskey = d
+content-blocking-change-cookie-settings =
+    .label = Lok Ter me Angija
+    .accesskey = T
+content-blocking-cookies-label =
+    .label = Angija
+    .accesskey = A
 
 ## Privacy Section - Tracking
 
@@ -765,3 +785,7 @@ space-alert-under-5gb-message = { -brand-short-name } odong ki kabedo me disk ma
 desktop-folder-name = Wang kompiuta
 downloads-folder-name = Gam
 choose-download-folder-title = Yer boc me gam:
+# Variables:
+#   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
+save-files-to-cloud-storage =
+    .label = Gwok pwail i { $service-name }

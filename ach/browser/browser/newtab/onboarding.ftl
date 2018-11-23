@@ -6,6 +6,7 @@
 ## UI strings for the simplified onboarding modal
 
 onboarding-button-label-try-now = Tem kombedi
+onboarding-button-label-get-started = Caki
 onboarding-welcome-header = Wajoli i { -brand-short-name }
 onboarding-start-browsing-button-label = Cak yeny
 
