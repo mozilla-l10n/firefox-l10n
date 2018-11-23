@@ -704,7 +704,16 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = Personalizată
     .accesskey = C
-content-blocking-standard-desc = Echilibrată pentru protecție și performanță. Permite unele mecanisme de urmărire pentru ca site-urile web să funcționeze corespunzător.
+content-blocking-standard-desc = Echilibrată pentru protecție și performanță. Permite unele elemente de urmărire pentru ca site-urile web să funcționeze corespunzător.
+content-blocking-strict-desc = Blochează toate elementele de urmărire pe care îi depistează { -brand-short-name }. Poate produce disfuncționalități pe unele site-uri.
+content-blocking-custom-desc = Alege ce să blochezi.
+content-blocking-private-trackers = Elemente de urmărire cunoscute numai în ferestre private.
+content-blocking-third-party-cookies = Cookie-uri de urmărire de la terți
+content-blocking-all-windows-trackers = Elemente de urmărire în toate ferestrele
+content-blocking-all-third-party-cookies = Toate cookie-urile de la terți
+content-blocking-warning-title = Atenție!
+content-blocking-warning-desc = Blocarea cookie-urilor și a elementelor de urmărire poate produce disfuncționalități pe anumite site-uri web. Poți dezactiva ușor blocarea pentru site-urile în care ai încredere.
+content-blocking-learn-how = Află cum
 content-blocking-tracking-protection-trackers-label =
     .label = Urmăritori
     .accesskey = U
@@ -738,8 +747,11 @@ content-blocking-reject-trackers-block-trackers-option =
     .label = Urmăritori
     .accesskey = k
 content-blocking-reject-trackers-all-third-parties-option =
-    .label = Toate cookie-urile de la terți (poate împiedica funcționarea corectă a site-urilor web)
+    .label = Toate cookie-urile de la terți (poate produce disfuncționalități pe site-urile web)
     .accesskey = A
+content-blocking-cookies-label =
+    .label = Cookie-uri
+    .accesskey = C
 
 ## Privacy Section - Tracking
 
@@ -761,6 +773,9 @@ tracking-exceptions =
 tracking-change-block-list =
     .label = Schimbă lista de blocări
     .accesskey = c
+tracking-manage-exceptions =
+    .label = Gestionează excepțiile...
+    .accesskey = x
 
 ## Privacy Section - Permissions
 

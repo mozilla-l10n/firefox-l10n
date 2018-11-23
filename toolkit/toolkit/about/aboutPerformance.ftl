@@ -14,6 +14,9 @@ column-energy-impact = Impact energetic
 ## Special values for the Name column
 
 ghost-windows = File închise recent
+# Variables:
+#   $title (String) - the title of the preloaded page, typically 'New Tab'
+preloaded-tab = Preîncărcat: { $title }
 
 ## Values for the Type column
 
