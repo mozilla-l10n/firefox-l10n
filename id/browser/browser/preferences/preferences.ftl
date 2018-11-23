@@ -636,6 +636,9 @@ sitedata-cookies-exceptions =
 # in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
 # Cookies and Site Data section.
 sitedata-warning-your-settings-prevent-changes = Setelan Anda di Pemblokiran Konten mencegah perubahan atas pengaturan Kuki dan Data Situs.
+sitedata-cookies-permissions =
+    .label = Kelola Izin…
+    .accesskey = K
 
 ## Privacy Section - Address Bar
 
@@ -676,6 +679,10 @@ content-blocking-fastblock-slow-loading-trackers-label =
     .label = Pelacak yang Dimuat Lambat
     .accesskey = L
 content-blocking-fastblock-new-description = Hanya blokir pelacak yang membuat laman lambat dimuat.
+content-blocking-setting-standard =
+    .label = Standar
+    .accesskey = S
+content-blocking-custom-desc = Pilih yang diblokir.
 content-blocking-tracking-protection-trackers-label =
     .label = Pelacak
     .accesskey = P
@@ -711,6 +718,9 @@ content-blocking-reject-trackers-block-trackers-option =
 content-blocking-reject-trackers-all-third-parties-option =
     .label = Semua kuki pihak ketiga (mungkin menyebabkan situs tidak bekerja)
     .accesskey = a
+content-blocking-cookies-label =
+    .label = Kuki
+    .accesskey = K
 
 ## Privacy Section - Tracking
 
@@ -732,6 +742,9 @@ tracking-exceptions =
 tracking-change-block-list =
     .label = Ubah Daftar Blokir…
     .accesskey = U
+tracking-manage-exceptions =
+    .label = Kelola Pengecualian…
+    .accesskey = P
 
 ## Privacy Section - Permissions
 
