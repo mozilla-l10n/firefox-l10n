@@ -52,3 +52,12 @@ serviceworker-empty-intro = Precisa rexistrar un Service Worker aquí para inspe
 # Text displayed when there are no Service Workers to display for the current page,
 # introducing hints to debug Service Worker issues.
 serviceworker-empty-suggestions = Se a páxina actual debería ter un service worker, aquí están algunhas cousas que pode tentar
+# Suggestion to check for errors in the Console to investigate why a service worker is not
+# registered. Clicking on the link opens the webconsole.
+serviceworker-empty-suggestions-console = Busca os erros na consola. <a>Abrir a consola</a>
+# Suggestion to use the debugger to investigate why a service worker is not registered.
+# Clicking on the link will switch from the Application panel to the debugger.
+serviceworker-empty-suggestions-debugger = Analiza paso a paso o rexistro do service worker e comproba se hai excepcións. <a>Abrir o depurador</a>
+# Suggestion to go to about:debugging in order to see Service Workers for all domains.
+# Clicking on the link will open about:debugging in a new tab.
+serviceworker-empty-suggestions-aboutdebugging = Inspecciona os service workers doutros dominios. <a>Abrir about:debugging</a>
