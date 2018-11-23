@@ -623,6 +623,9 @@ content-blocking-toggle-label-on = ఆన్
 content-blocking-toggle-label-off = ఆఫ్
     .accesskey = O
 content-blocking-category-label = వేటిని నిరోధించాలో ఎంచుకోండి
+content-blocking-setting-standard =
+    .label = ప్రామాణికం
+    .accesskey = d
 content-blocking-tracking-protection-trackers-label =
     .label = ట్రాకర్లు
     .accesskey = T
@@ -642,6 +645,9 @@ content-blocking-reject-trackers-block-trackers-option-recommended =
 content-blocking-reject-trackers-block-trackers-option =
     .label = ట్రాకర్లు
     .accesskey = k
+content-blocking-cookies-label =
+    .label = కుకీలు
+    .accesskey = C
 
 ## Privacy Section - Tracking
 
