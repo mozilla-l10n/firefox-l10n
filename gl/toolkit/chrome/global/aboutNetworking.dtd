@@ -6,6 +6,7 @@
 <!ENTITY aboutNetworking.warning               "Esta funcionalidade é moi experimental. Non usar sen a supervisión dun adulto.">
 <!ENTITY aboutNetworking.showNextTime          "Amosar este aviso a próxima vez">
 <!ENTITY aboutNetworking.ok                    "Aceptar">
+<!ENTITY aboutNetworking.HTTP                  "HTTP">
 <!ENTITY aboutNetworking.sockets               "Sóckets">
 <!ENTITY aboutNetworking.dns                   "DNS">
 <!ENTITY aboutNetworking.websockets            "WebSockets">
@@ -13,6 +14,7 @@
 <!ENTITY aboutNetworking.autoRefresh           "Actualizar automaticamente cada 3 segundos">
 <!ENTITY aboutNetworking.hostname              "Nome do servidor">
 <!ENTITY aboutNetworking.port                  "Porto">
+<!ENTITY aboutNetworking.http2                 "HTTP/2">
 <!ENTITY aboutNetworking.ssl                   "SSL">
 <!ENTITY aboutNetworking.active                "Activo">
 <!ENTITY aboutNetworking.idle                  "Inactivo">
@@ -21,9 +23,37 @@
 <!ENTITY aboutNetworking.sent                  "Enviados">
 <!ENTITY aboutNetworking.received              "Recibidos">
 <!ENTITY aboutNetworking.family                "Familia">
+<!ENTITY aboutNetworking.trr                   "TRR">
 <!ENTITY aboutNetworking.addresses             "Enderezos">
 <!ENTITY aboutNetworking.expires               "Caduca (Segundos)">
 <!ENTITY aboutNetworking.messagesSent          "Mensaxes enviadas">
 <!ENTITY aboutNetworking.messagesReceived      "Mensaxes recibidas">
 <!ENTITY aboutNetworking.bytesSent             "Bytes enviados">
 <!ENTITY aboutNetworking.bytesReceived         "Bytes recibidos">
+<!ENTITY aboutNetworking.logging               "Rexistro">
+<!ENTITY aboutNetworking.logTutorial           "Vaia a <a href='https://developer.mozilla.org/docs/Mozilla/Debugging/HTTP_logging'>HTTP logging</a> para obter instrucións de como se usa esta ferramenta.">
+<!ENTITY aboutNetworking.currentLogFile        "Ficheiro actual do rexistro:">
+<!ENTITY aboutNetworking.currentLogModules     "Módulos actuais do rexistro:">
+<!ENTITY aboutNetworking.setLogFile            "Estabelecer un ficheiro de rexistro">
+<!ENTITY aboutNetworking.setLogModules         "Estabelecer módulos de rexistro">
+<!ENTITY aboutNetworking.startLogging          "Iniciar rexistro">
+<!ENTITY aboutNetworking.stopLogging           "Deter rexistro">
+<!ENTITY aboutNetworking.dnsLookup             "Buscar DNS">
+<!ENTITY aboutNetworking.dnsLookupButton       "Resolución">
+<!ENTITY aboutNetworking.dnsDomain             "Dominio">
+<!ENTITY aboutNetworking.dnsLookupTableColumn  "Enderezos IP">
+<!ENTITY aboutNetworking.rcwn                  "Estatísticas RCWN">
+<!ENTITY aboutNetworking.rcwnStatus            "Estado RCWN">
+<!ENTITY aboutNetworking.rcwnCacheWonCount     "Número de vitorias da caché">
+<!ENTITY aboutNetworking.rcwnNetWonCount       "Número de vitorias da rede">
+<!ENTITY aboutNetworking.totalNetworkRequests  "Número total de solicitudes de rede">
+<!ENTITY aboutNetworking.rcwnOperation         "Operación de caché">
+<!ENTITY aboutNetworking.rcwnPerfOpen          "Aperturas">
+<!ENTITY aboutNetworking.rcwnPerfRead          "Lecturas">
+<!ENTITY aboutNetworking.rcwnPerfWrite         "Escrituras">
+<!ENTITY aboutNetworking.rcwnPerfEntryOpen     "Aperturas de entrada">
+<!ENTITY aboutNetworking.rcwnAvgShort          "Media curta">
+<!ENTITY aboutNetworking.rcwnAvgLong           "Media longa">
+<!ENTITY aboutNetworking.rcwnStddevLong        "Desviación estándar longa">
+<!ENTITY aboutNetworking.rcwnCacheSlow         "Reconto de caché lento">
+<!ENTITY aboutNetworking.rcwnCacheNotSlow      "Reconto de caché non lento">

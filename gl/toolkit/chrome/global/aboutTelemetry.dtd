@@ -2,137 +2,78 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutTelemetry.pageTitle "Datos telemétricos">
-
-<!ENTITY aboutTelemetry.changeDataChoices "
-  Cambiar
-">
-
-<!ENTITY aboutTelemetry.uploadEnabled "
-  O envío de datos FHR está <span>activado</span>.
-">
-
-<!ENTITY aboutTelemetry.uploadDisabled "
-  O envío de datos FHR está <span>desactivado</span>.
-">
-
-<!ENTITY aboutTelemetry.extendedRecordingEnabled "
-  O rexistro estendido de telemetría está <span>activado</span>.
-">
-
-<!ENTITY aboutTelemetry.extendedRecordingDisabled "
-  O rexistro estendido de telemetría está <span>desactivado</span>.
-">
-
 <!ENTITY aboutTelemetry.pingDataSource "
 Orixe dos datos de ping:
 ">
-
 <!ENTITY aboutTelemetry.showCurrentPingData "
 Datos actuais de ping
 ">
-
 <!ENTITY aboutTelemetry.showArchivedPingData "
 Datos arquivados de ping
 ">
-
-
-
-
 <!ENTITY aboutTelemetry.showSubsessionData "
 Amosar datos de subsesión
 ">
-
 <!ENTITY aboutTelemetry.choosePing "
 Escolla ping:
 ">
-
-<!ENTITY aboutTelemetry.showNewerPing "
-&lt;&lt; Ping máis recente
-">
-
-<!ENTITY aboutTelemetry.showOlderPing "
-Ping máis antigo &gt;&gt;
-">
-
-
-<!ENTITY aboutTelemetry.archiveWeekHeader "
-Semana
-">
-
+<!ENTITY aboutTelemetry.archivePingType "Tipo de ping">
 <!ENTITY aboutTelemetry.archivePingHeader "
 Ping
 ">
+<!ENTITY aboutTelemetry.optionGroupToday "Hoxe">
+<!ENTITY aboutTelemetry.optionGroupYesterday "Onte">
+<!ENTITY aboutTelemetry.optionGroupOlder "Máis antigo">
+<!-- LOCALIZATION NOTE(aboutTelemetry.previousPing, aboutTelemetry.nextPing):
+	These strings are displayed when selecting Archived pings, and they’re
+	used to move to the next or previous ping. -->
+<!ENTITY aboutTelemetry.previousPing "&lt;&lt;">
+<!ENTITY aboutTelemetry.nextPing "&gt;&gt;">
 
+<!ENTITY aboutTelemetry.pageTitle "Datos telemétricos">
+<!ENTITY aboutTelemetry.moreInformations "Busca máis información?">
+<!ENTITY aboutTelemetry.firefoxDataDoc "A <a>documentación dos datos de Firefox</a> contén guías sobre como traballar coas nosas ferramentas de datos.">
+<!ENTITY aboutTelemetry.telemetryClientDoc "A <a>documentación do cliente de telemetría de Firefox</a> inclúe definicións de conceptos, documentación da API e referencias de datos.">
+<!ENTITY aboutTelemetry.telemetryDashboard "Os <a>taboleiros de telemetría</a> permítenlle visualizar os datos que Mozilla recibe a través da telemetría.">
+<!ENTITY aboutTelemetry.telemetryProbeDictionary "O <a>dicionario de proba</a> fornece información e descricións de mostras recollidas por telemetría.">
+
+<!ENTITY aboutTelemetry.showInFirefoxJsonViewer "Abrir no visor JSON">
+
+<!ENTITY aboutTelemetry.homeSection "Inicio">
 <!ENTITY aboutTelemetry.generalDataSection "
   Datos xerais
 ">
-
 <!ENTITY aboutTelemetry.environmentDataSection "
   Datos do entorno
 ">
-
-<!ENTITY aboutTelemetry.telemetryLogSection "
-  Rexistro de telemetría
-">
-
-<!ENTITY aboutTelemetry.slowSqlSection "
-  Sentenzas SQL lentas
-">
-
-<!ENTITY aboutTelemetry.chromeHangsSection "
-  Bloqueos do navegador
-">
-
-<!ENTITY aboutTelemetry.threadHangStatsSection "
-  Bloqueos dos fillos
-">
-
-
-
-
+<!ENTITY aboutTelemetry.sessionInfoSection "Información da sesión">
+<!ENTITY aboutTelemetry.scalarsSection "Escalares">
+<!ENTITY aboutTelemetry.keyedScalarsSection "Escalares con lendas">
 <!ENTITY aboutTelemetry.histogramsSection "
   Histogramas
 ">
-
 <!ENTITY aboutTelemetry.keyedHistogramsSection "
   Histogramas con lendas
 ">
-
-
+<!ENTITY aboutTelemetry.eventsSection "Eventos">
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "
   Medidas simples
 ">
-
+<!ENTITY aboutTelemetry.slowSqlSection "
+  Sentenzas SQL lentas
+">
 <!ENTITY aboutTelemetry.addonDetailsSection "
   Detalles do complemento
 ">
-
+<!ENTITY aboutTelemetry.capturedStacksSection "Pilas capturadas">
 <!ENTITY aboutTelemetry.lateWritesSection "
   Escritura atrasada
 ">
-
-
-<!ENTITY aboutTelemetry.addonHistogramsSection "
-  Histogramas recollidos polos complementos
-">
-
-<!ENTITY aboutTelemetry.toggle "
-  Prema para cambiar de sección
-">
-
-<!ENTITY aboutTelemetry.emptySection "
-  (Non se recolleron datos)
-">
+<!ENTITY aboutTelemetry.rawPayloadSection "Contido sen procesar">
+<!ENTITY aboutTelemetry.raw "JSOn sen procesar">
 
 <!ENTITY aboutTelemetry.fullSqlWarning "
   NOTA: A depuración SQL lenta está activada. Poden amosarse cadeas completas de SQL pero non se enviarán a telemetría.
 ">
-
-
-
-<!ENTITY aboutTelemetry.filterText "
-  Filtrar (cadeas ou expresións regulares)
-">
-
-
+<!ENTITY aboutTelemetry.fetchStackSymbols "Obter os nomes das funcións para as pilas">
+<!ENTITY aboutTelemetry.hideStackSymbols "Amosar os datos da pila sen procesalos">

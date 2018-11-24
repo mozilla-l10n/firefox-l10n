@@ -9,7 +9,7 @@
 
 <!ENTITY aboutSupport.crashes.title "Informes de erro">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
-This is likely the same like id.heading in crashes.dtd. -->
+This is likely the same like id.heading in aboutcrashes.ftl. -->
 <!ENTITY aboutSupport.crashes.id "ID do informe">
 <!ENTITY aboutSupport.crashes.sendDate "Data de envío">
 <!ENTITY aboutSupport.crashes.allReports "Todos os informes de erro">
@@ -21,13 +21,17 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "Versión">
 <!ENTITY aboutSupport.extensionId "ID">
 
-<!ENTITY aboutSupport.experimentsTitle "Características experimentais">
-<!ENTITY aboutSupport.experimentName "Nome">
-<!ENTITY aboutSupport.experimentId "ID">
-<!ENTITY aboutSupport.experimentDescription "Descrición">
-<!ENTITY aboutSupport.experimentActive "Activo">
-<!ENTITY aboutSupport.experimentEndDate "Data de remate">
-<!ENTITY aboutSupport.experimentHomepage "Páxina de inicio">
+<!ENTITY aboutSupport.securitySoftwareTitle "Software de seguranza">
+<!ENTITY aboutSupport.securitySoftwareType "Tipo">
+<!ENTITY aboutSupport.securitySoftwareName "Nome">
+<!ENTITY aboutSupport.securitySoftwareAntivirus "Antivirus">
+<!ENTITY aboutSupport.securitySoftwareAntiSpyware "Antispyware">
+<!ENTITY aboutSupport.securitySoftwareFirewall "Devasa">
+
+<!ENTITY aboutSupport.featuresTitle "Características do &brandShortName;">
+<!ENTITY aboutSupport.featureName "Nome">
+<!ENTITY aboutSupport.featureVersion "Versión">
+<!ENTITY aboutSupport.featureId "ID">
 
 <!ENTITY aboutSupport.appBasicsTitle "Configuración básica do aplicativo">
 <!ENTITY aboutSupport.appBasicsName "Nome">
@@ -49,13 +53,23 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Engadidos activados">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Configuración da compilación">
 <!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
+<!ENTITY aboutSupport.appBasicsOS "SO">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Uso de memoria">
+<!ENTITY aboutSupport.appBasicsPerformance "Rendemento">
 
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Service Workers rexistrados">
 
+<!ENTITY aboutSupport.appBasicsProfiles "Perfís">
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Xanelas multiproceso">
+
+<!ENTITY aboutSupport.appBasicsProcessCount "Procesos do contido web">
+
+<!ENTITY aboutSupport.enterprisePolicies "Políticas empresariais">
+
+<!ENTITY aboutSupport.appBasicsKeyGoogle "Chave do Google">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Chave do servizo de localización de Mozilla">
 
 <!ENTITY aboutSupport.appBasicsSafeMode "Modo seguro">
 
@@ -66,6 +80,7 @@ variant of aboutSupport.showDir.label.  This allows us to use the preferred
 <!ENTITY aboutSupport.showMac.label "Amosar no Finder">
 <!-- LOCALIZATION NOTE (aboutSupport.showWin2.label): This is the Windows-specific
 variant of aboutSupport.showDir.label. -->
+<!ENTITY aboutSupport.showWin2.label "Abrir cartafol">
 
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "Preferencias importantes modificadas">
 <!ENTITY aboutSupport.modifiedPrefsName "Nome">
@@ -81,6 +96,9 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsTitle "Gráficos">
 
+<!ENTITY aboutSupport.placeDatabaseTitle "Bases de datos de lugares">
+<!ENTITY aboutSupport.placeDatabaseIntegrity "Integridade">
+<!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "Verificar a integridade">
 
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "GC incremental">
@@ -88,6 +106,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yTitle "Accesibilidade">
 <!ENTITY aboutSupport.a11yActivated "Activada">
 <!ENTITY aboutSupport.a11yForceDisabled "Evitar a accesibilidade">
+<!ENTITY aboutSupport.a11yHandlerUsed "Usado un manipulador accesíbel">
+<!ENTITY aboutSupport.a11yInstantiator "Xerador de accesibilidade">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "Versións da biblioteca">
 
@@ -95,10 +115,49 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.updateHistoryTitle "Historial de actualizacións">
 
 <!ENTITY aboutSupport.copyTextToClipboard.label "Copiar texto ao portapapeis">
-<!ENTITY aboutSupport.copyRawDataToClipboard.label "Copiar datos en crudo ao portapapeis">
+<!ENTITY aboutSupport.copyRawDataToClipboard.label "Copiar datos sen procesar ao portapapeis">
 
 <!ENTITY aboutSupport.sandboxTitle "Sandbox">
+<!ENTITY aboutSupport.sandboxSyscallLogTitle "Chamadas do sistema rexeitadas">
+<!ENTITY aboutSupport.sandboxSyscallIndex "#">
+<!ENTITY aboutSupport.sandboxSyscallAge "Hai segundos">
+<!ENTITY aboutSupport.sandboxSyscallPID "PID">
+<!ENTITY aboutSupport.sandboxSyscallTID "TID">
+<!ENTITY aboutSupport.sandboxSyscallProcType "Tipo de proceso">
+<!ENTITY aboutSupport.sandboxSyscallNumber "Syscall">
+<!ENTITY aboutSupport.sandboxSyscallArgs "Argumentos">
 
 <!ENTITY aboutSupport.safeModeTitle "Probar modo seguro">
 <!ENTITY aboutSupport.restartInSafeMode.label "Reiniciar cos complementos desactivados…">
 
+<!ENTITY aboutSupport.graphicsFeaturesTitle "Características">
+<!ENTITY aboutSupport.graphicsDiagnosticsTitle "Diagnósticos">
+<!ENTITY aboutSupport.graphicsFailureLogTitle "Rexistro de fallos">
+<!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
+<!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
+<!ENTITY aboutSupport.graphicsDecisionLogTitle "Rexistro de decisións">
+<!ENTITY aboutSupport.graphicsCrashGuardsTitle "Características desactivadas para a protección contra fallos">
+<!ENTITY aboutSupport.graphicsWorkaroundsTitle "Solucións alternativas">
+
+<!ENTITY aboutSupport.mediaTitle "Medios">
+<!ENTITY aboutSupport.mediaOutputDevicesTitle "Dispositivos de saída">
+<!ENTITY aboutSupport.mediaInputDevicesTitle "Dispositivos de entrada">
+<!ENTITY aboutSupport.mediaDeviceName "Nome">
+<!ENTITY aboutSupport.mediaDeviceGroup "Grupo">
+<!ENTITY aboutSupport.mediaDeviceVendor "Fabricante">
+<!ENTITY aboutSupport.mediaDeviceState "Estado">
+<!ENTITY aboutSupport.mediaDevicePreferred "Preferido">
+<!ENTITY aboutSupport.mediaDeviceFormat "Formato">
+<!ENTITY aboutSupport.mediaDeviceChannels "Canles">
+<!ENTITY aboutSupport.mediaDeviceRate "Frecuencia">
+<!ENTITY aboutSupport.mediaDeviceLatency "Latencia">
+
+<!ENTITY aboutSupport.intlTitle "Internacionalización e localización">
+<!ENTITY aboutSupport.intlAppTitle "Configuración do aplicativo">
+<!ENTITY aboutSupport.intlLocalesRequested "Idiomas solicitados">
+<!ENTITY aboutSupport.intlLocalesAvailable "Idiomas dispoñíbeis">
+<!ENTITY aboutSupport.intlLocalesSupported "Idiomas do aplicativo">
+<!ENTITY aboutSupport.intlLocalesDefault "Idioma predeterminado">
+<!ENTITY aboutSupport.intlOSTitle "Sistema operativo">
+<!ENTITY aboutSupport.intlOSPrefsSystemLocales "Idiomas do sistema">
+<!ENTITY aboutSupport.intlRegionalPrefs "Preferencias rexionais">
