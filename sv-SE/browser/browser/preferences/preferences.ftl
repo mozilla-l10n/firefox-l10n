@@ -692,6 +692,17 @@ content-blocking-fastblock-slow-loading-trackers-label =
     .label = Trögladdade trackers
     .accesskey = T
 content-blocking-fastblock-new-description = Blockera endast trackers som gör sidor långsammare.
+content-blocking-setting-standard =
+    .label = Standard
+    .accesskey = d
+content-blocking-setting-strict =
+    .label = Strikt
+    .accesskey = r
+content-blocking-setting-custom =
+    .label = Anpassad
+    .accesskey = C
+content-blocking-custom-desc = Välj vad du vill blockera.
+content-blocking-learn-how = Lär dig hur
 content-blocking-tracking-protection-trackers-label =
     .label = Trackers
     .accesskey = T
@@ -727,6 +738,9 @@ content-blocking-reject-trackers-block-trackers-option =
 content-blocking-reject-trackers-all-third-parties-option =
     .label = Alla kakor från tredje part (kan orsaka fel på webbplatser)
     .accesskey = A
+content-blocking-cookies-label =
+    .label = Kakor
+    .accesskey = C
 
 ## Privacy Section - Tracking
 
@@ -748,6 +762,9 @@ tracking-exceptions =
 tracking-change-block-list =
     .label = Ändra blockeringslista…
     .accesskey = n
+tracking-manage-exceptions =
+    .label = Hantera undantag
+    .accesskey = x
 
 ## Privacy Section - Permissions
 
