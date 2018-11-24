@@ -44,3 +44,13 @@ close-tab =
     .title = Sulje välilehti
 show-addon =
     .title = Näytä lisäosien hallinnassa
+# Tooltip when hovering an item of the about:performance table
+# Variables:
+#   $totalDispatches (Number) - how many dispatches occured for this page since it loaded
+#   $totalDuration (Number) - how much CPU time was used by this page since it loaded
+#   $dispatchesSincePrevious (Number) - how many dispatches occured in the last 2 seconds
+#   $durationSincePrevious (Number) - how much CPU time was used in the last 2 seconds
+item =
+    .title =
+        Suoritinkäyttö latautumisesta lähtien: { $totalDispatches } ({ $totalDuration } ms)
+        Suoritinkäyttö viime sekunteina: { $dispatchesSincePrevious } ({ $durationSincePrevious } ms)
