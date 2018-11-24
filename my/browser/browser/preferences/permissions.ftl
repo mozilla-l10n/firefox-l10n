@@ -62,6 +62,9 @@ permissions-exceptions-tracking-protection-window =
     .title = ခြွင်းချက်များ - လိုက်လံမှတ်သားမှုကာကွယ်ခြင်း
     .style = { permissions-window.style }
 permissions-exceptions-tracking-protection-desc = သင်သည် ဒီဆိုက်များအတွက် လိုက်လံမှတ်သားမှုကာကွယ်သည့်စနစ်ကို ပိတ်ထားသည်။
+permissions-exceptions-content-blocking-window =
+    .title = ခြွင်းချက်များ၊ စာမျက်နှာရှိအကြောင်းအရာ ပိတ်ပင်ခြင်း
+    .style = { permissions-window.style }
 
 ## Exceptions - Cookies
 

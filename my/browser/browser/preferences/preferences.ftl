@@ -615,6 +615,7 @@ addressbar-suggestions-settings = ရှာဖွေရေးယန္တရာ�
 
 ## Privacy Section - Content Blocking
 
+content-blocking-header = စာမျက်နှာတွင် ပါဝင်သည်များကို တားဆီးခြင်း
 content-blocking-learn-more = ပိုမိုလေ့လာရန်
 content-blocking-restore-defaults =
     .label = စံပုံစံများ ပြန်လည်သိမ်းပါ
