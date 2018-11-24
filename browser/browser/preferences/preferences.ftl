@@ -659,6 +659,7 @@ addressbar-suggestions-settings = 검색 엔진 추천 설정 변경
 
 content-blocking-header = 콘텐츠 차단
 content-blocking-desc = 브라우징을 느리게 하거나 웹에서 사용자를 추적할 수 있는 광고나 코드와 같은 제3자 콘텐츠를 차단합니다. 보호와 성능 사이에서 최적의 균형을 위해 설정을 개인화 하세요.
+content-blocking-description = 사용자의 웹 활동을 추적하는 제3차 콘텐츠를 차단합니다. 웹사이트 간에 사용자의 온라인 활동이 얼마나 저장되고 공유되는지를 제어하세요.
 content-blocking-learn-more = 자세히 보기
 content-blocking-restore-defaults =
     .label = 기본값으로
