@@ -529,7 +529,7 @@ addressbar-suggestions-settings=Zmień ustawienia podpowiedzi dostarczanych prze
 
 content-blocking-header=Blokowanie treści
 content-blocking-desc=Blokowanie elementów zewnętrznych witryn (jak reklamy i skrypty) mogących spowolnić przeglądanie i śledzić aktywność w sieci. Ustawienia poniżej ułatwiają optymalne dostrojenie poziomu ochrony i szybkości wczytywania witryn.
-content-blocking-description=Blokowanie elementów zewnętrznych witryn, które śledzą aktywność użytkowników sieci. Zdecyduj jak wiele informacji o aktywności ma być przechowywane i współdzielone przez witryny.
+content-blocking-description=Blokowanie elementów zewnętrznych witryn, które śledzą aktywność użytkowników sieci. Zdecyduj, jak wiele informacji o aktywności ma być przechowywane i współdzielone przez witryny.
 content-blocking-learn-more=Więcej informacji
 content-blocking-setting-standard=
   .label=Standardowe
