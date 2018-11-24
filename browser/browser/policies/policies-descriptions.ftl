@@ -66,5 +66,8 @@ policy-Proxy = Configura os axustes do proxy.
 policy-RequestedLocales = Estabelece a lista de idiomas (locales) solicitados polo aplicativo na orde de preferencia.
 policy-SanitizeOnShutdown = Borra todos os datos de navegación ao pechar.
 policy-SearchBar = Estabelece a localización predeterminada da barra de busca. O usuario aínda pode personalizala.
+policy-SearchEngines = Configura os axustes do buscador. Esta política só está dispoñíbel na versión Extended Support Release (ESR).
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Permite instalar os módulos PKCS #11.
+# “format” refers to the format used for the value of this policy.
+policy-WebsiteFilter = Bloquea sitios web para que non sexan visitados. Vexa a documentación para obter máis información sobre o formato.
