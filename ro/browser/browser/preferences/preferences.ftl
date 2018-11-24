@@ -687,14 +687,14 @@ content-blocking-toggle-label-on = ACTIVAT
     .accesskey = O
 content-blocking-toggle-label-off = DEZACTIVAT
     .accesskey = O
-content-blocking-category-label = Alege ceea ce să blochezi
+content-blocking-category-label = Alege ce să blochezi
 # "Slow" in this instance means "slow to load on the network".
 # FastBlock is a feature that blocks requests to tracking sites if they
 # have not finished loading after a certain threshold of seconds.
 content-blocking-fastblock-slow-loading-trackers-label =
     .label = Urmăritori cu încărcare lentă
     .accesskey = S
-content-blocking-fastblock-new-description = Blochează numai urmăritorii care împiedică încărcarea rapidă a paginilor.
+content-blocking-fastblock-new-description = Blochează numai elementele de urmărire care împiedică încărcarea rapidă a paginilor.
 content-blocking-setting-standard =
     .label = Standard
     .accesskey = d
@@ -705,7 +705,7 @@ content-blocking-setting-custom =
     .label = Personalizată
     .accesskey = C
 content-blocking-standard-desc = Echilibrată pentru protecție și performanță. Permite unele elemente de urmărire pentru ca site-urile web să funcționeze corespunzător.
-content-blocking-strict-desc = Blochează toate elementele de urmărire pe care îi depistează { -brand-short-name }. Poate produce disfuncționalități pe unele site-uri.
+content-blocking-strict-desc = Blochează toate elementele de urmărire pe care le depistează { -brand-short-name }. Poate produce disfuncționalități pe unele site-uri.
 content-blocking-custom-desc = Alege ce să blochezi.
 content-blocking-private-trackers = Elemente de urmărire cunoscute numai în ferestre private.
 content-blocking-third-party-cookies = Cookie-uri de urmărire de la terți
@@ -715,12 +715,12 @@ content-blocking-warning-title = Atenție!
 content-blocking-warning-desc = Blocarea cookie-urilor și a elementelor de urmărire poate produce disfuncționalități pe anumite site-uri web. Poți dezactiva ușor blocarea pentru site-urile în care ai încredere.
 content-blocking-learn-how = Află cum
 content-blocking-tracking-protection-trackers-label =
-    .label = Urmăritori
+    .label = Elemente de urmărire
     .accesskey = U
 content-blocking-tracking-protection-all-detected-trackers-label =
-    .label = Toți urmăritorii detectați
+    .label = Toate elementele de urmărire detectate
     .accesskey = T
-content-blocking-tracking-protection-new-description = Blochează toți urmăritorii cunoscuți. (Poate împiedica încărcarea anumitor pagini.)
+content-blocking-tracking-protection-new-description = Blochează toate elementele de urmărire cunoscute. (Poate împiedica încărcarea anumitor pagini.)
 content-blocking-tracking-protection-option-always =
     .label = Întotdeauna
     .accesskey = A
@@ -741,10 +741,10 @@ content-blocking-change-cookie-settings =
     .label = Modifică setările pentru cookie-uri
     .accesskey = S
 content-blocking-reject-trackers-block-trackers-option-recommended =
-    .label = Urmăritori (recomandat)
+    .label = Elemente de urmărire (recomandat)
     .accesskey = k
 content-blocking-reject-trackers-block-trackers-option =
-    .label = Urmăritori
+    .label = Elemente de urmărire
     .accesskey = k
 content-blocking-reject-trackers-all-third-parties-option =
     .label = Toate cookie-urile de la terți (poate produce disfuncționalități pe site-urile web)
@@ -756,7 +756,7 @@ content-blocking-cookies-label =
 ## Privacy Section - Tracking
 
 tracking-header = Protecția împotriva urmăririi
-tracking-desc = Protecția împotriva urmăririi blochează urmăritorii online care îți colectează datele de navigare pe mai multe site-uri web. <a data-l10n-name="learn-more">Află mai multe despre protecția împotriva urmăririi și confidențialitate</a>
+tracking-desc = Protecția împotriva urmăririi blochează elementele de urmărire online care îți colectează datele de navigare pe mai multe site-uri web. <a data-l10n-name="learn-more">Află mai multe despre protecția împotriva urmăririi și confidențialitate</a>
 tracking-mode-label = Folosește protecția împotriva urmăririi pentru a bloca urmăritorii cunoscuți
 tracking-mode-always =
     .label = Întotdeauna
