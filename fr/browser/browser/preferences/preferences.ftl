@@ -702,6 +702,7 @@ content-blocking-setting-custom =
     .accesskey = P
 content-blocking-standard-desc = Équilibré entre protection et performances. Autorise quelques traqueurs pour que les sites web fonctionnent correctement.
 content-blocking-strict-desc = Bloque tous les traqueurs détectés par { -brand-short-name }. Peut provoquer le dysfonctionnement de certains sites.
+content-blocking-custom-desc = Choisissez ce que vous souhaitez bloquer.
 content-blocking-private-trackers = Les traqueurs connus dans les fenêtres de navigation privée seulement.
 content-blocking-third-party-cookies = Les cookies tiers utilisés pour le pistage
 content-blocking-all-windows-trackers = Les traqueurs connus dans toutes les fenêtres
