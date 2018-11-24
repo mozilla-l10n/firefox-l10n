@@ -639,6 +639,9 @@ sitedata-cookies-exceptions =
 # in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
 # Cookies and Site Data section.
 sitedata-warning-your-settings-prevent-changes = Innstillingane dine i Innhaldsblokkering hindrar endringar i innstillingar for Infokapslar og nettsidedata.
+sitedata-cookies-permissions =
+    .label = Handter løyve…
+    .accesskey = H
 
 ## Privacy Section - Address Bar
 
@@ -738,6 +741,9 @@ tracking-exceptions =
 tracking-change-block-list =
     .label = Endre blokkeringsliste…
     .accesskey = b
+tracking-manage-exceptions =
+    .label = Handter unntak…
+    .accesskey = H
 
 ## Privacy Section - Permissions
 
@@ -883,3 +889,7 @@ space-alert-under-5gb-message = { -brand-short-name } er i ferd med å gå tom f
 desktop-folder-name = Skrivebord
 downloads-folder-name = Nedlastingar
 choose-download-folder-title = Vel nedlastingsmappe:
+# Variables:
+#   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
+save-files-to-cloud-storage =
+    .label = Lagre filer til { $service-name }
