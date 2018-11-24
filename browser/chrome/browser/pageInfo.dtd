@@ -64,7 +64,7 @@
 <!ENTITY  securityView.identity.verifier "Xác minh bởi:">
 <!ENTITY  securityView.identity.validity "Hết hạn vào:">
 
-<!ENTITY  securityView.privacy.header                   "Riêng tư &amp; Lược sử">
+<!ENTITY  securityView.privacy.header                   "Riêng tư &amp; Lịch sử">
 <!ENTITY  securityView.privacy.history                  "Tôi đã từng xem trang web này trước ngày hôm nay chưa?">
 <!ENTITY  securityView.privacy.siteData                 "Có phải trang web này lưu trữ thông tin trên máy tính của tôi?">
 <!ENTITY  securityView.privacy.clearSiteData            "Xóa Cookie và dữ liệu trang Web">

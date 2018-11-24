@@ -101,7 +101,7 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.libraryVersionsTitle "Phiên bản Thư viện">
 
-<!ENTITY aboutSupport.installationHistoryTitle "Lược sử Cài đặt">
+<!ENTITY aboutSupport.installationHistoryTitle "Lịch sử cài đặt">
 <!ENTITY aboutSupport.updateHistoryTitle "Lịch sử cập nhật">
 
 <!ENTITY aboutSupport.copyTextToClipboard.label "Chép văn bản vào bảng tạm">

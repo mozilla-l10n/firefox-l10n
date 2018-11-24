@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sanitize-prefs =
-    .title = Thiết lập cho việc Xóa trắng Lược sử
+    .title = Thiết lập cho việc xóa trắng lịch sử
     .style = width: 34em
 sanitize-prefs-style =
     .style = width: 17em
 dialog-title =
-    .title = Xóa các Lược sử Gần đây
+    .title = Xóa các lịch sử gần đây
     .style = width: 34em
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
@@ -46,7 +46,7 @@ clear-time-duration-suffix =
 
 history-section-label = Lịch sử
 item-history-and-downloads =
-    .label = Lược sử duyệt web & tải về
+    .label = Lịch sử duyệt web & tải về
     .accesskey = d
 item-cookies =
     .label = Cookie
@@ -58,7 +58,7 @@ item-cache =
     .label = Đệm
     .accesskey = m
 item-form-search-history =
-    .label = Lược sử biểu mẫu & tìm kiếm
+    .label = Lịch sử biểu mẫu & tìm kiếm
     .accesskey = b
 data-section-label = Dữ liệu
 item-site-preferences =
