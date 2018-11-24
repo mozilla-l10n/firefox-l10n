@@ -42,6 +42,7 @@ features-visual-editing-title = Edición visual
 features-visual-editing-desc = Axuste as animacións, a aliñación e as marxes con precisión. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-performance-title = Rendemento
 features-memory-title = Memoria
+features-memory-desc = Detecte fugas de memoria e mellore o rendemento do seu aplicativo. <a data-l10n-name="learn-more"><a data-l10n-name="learn-more">{ features-learn-more }</a>
 # Variables:
 #   $errorDescription (String) - The error that occurred e.g. 404 - Not Found
 newsletter-error-common = Fallou a solicitude de subscrición ({ $errorDescription }).
