@@ -475,7 +475,7 @@ sync-engine-bookmarks =
     .label = Trang đánh dấu
     .accesskey = d
 sync-engine-history =
-    .label = Lược sử
+    .label = Lịch sử
     .accesskey = r
 sync-engine-tabs =
     .label = Mở thẻ
@@ -546,7 +546,7 @@ forms-master-pw-change =
 
 ## Privacy Section - History
 
-history-header = Lược sử
+history-header = Lịch sử
 # This label is followed, on the same line, by a dropdown list of options
 # (Remember history, etc.).
 # In English it visually creates a full sentence, e.g.
@@ -559,13 +559,13 @@ history-header = Lược sử
 history-remember-label = { -brand-short-name } sẽ
     .accesskey = w
 history-remember-option-all =
-    .label = Ghi nhớ lược sử
+    .label = Ghi nhớ lịch sử
 history-remember-option-never =
-    .label = Không bao giờ ghi nhớ lược sử
+    .label = Không bao giờ ghi nhớ lịch sử
 history-remember-option-custom =
-    .label = Sử dụng thiết lập tùy biến cho lược sử
+    .label = Sử dụng thiết lập tùy biến cho lịch sử
 history-remember-description = { -brand-short-name } sẽ ghi nhớ lịch sử duyệt web, tải xuống, biểu mẫu và tìm kiếm của bạn.
-history-dontremember-description = { -brand-short-name } sẽ dùng thiết lập giống như chế độ duyệt web riêng tư, và sẽ không ghi nhớ lược sử khi bạn duyệt Web.
+history-dontremember-description = { -brand-short-name } sẽ dùng thiết lập giống như chế độ duyệt web riêng tư, và sẽ không ghi nhớ lịch sử khi bạn duyệt Web.
 history-private-browsing-permanent =
     .label = Luôn luôn dùng chế độ duyệt web riêng tư
     .accesskey = y
@@ -573,10 +573,10 @@ history-remember-browser-option =
     .label = Ghi nhớ lịch sử truy cập và tải xuống của tôi
     .accesskey = G
 history-remember-search-option =
-    .label = Ghi nhớ lược sử biểu mẫu và tìm kiếm
+    .label = Ghi nhớ lịch sử biểu mẫu và tìm kiếm
     .accesskey = b
 history-clear-on-close-option =
-    .label = Xóa lược sử khi { -brand-short-name } đóng
+    .label = Xóa lịch sử khi { -brand-short-name } đóng
     .accesskey = l
 history-clear-on-close-settings =
     .label = Thiết lập…

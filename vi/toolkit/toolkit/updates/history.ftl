@@ -2,11 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-history-title = Lược sử Cập nhật
+history-title = Lịch sử cập nhật
 history-intro = Các bản cập nhật sau đã được cài đặt
 close-button-label =
     .buttonlabelcancel = Đóng
-    .title = Lược sử Cập nhật
+    .title = Lịch sử cập nhật
 no-updates-label = Chưa cài bản cập nhật nào
 name-header = Tên bản Cập nhật
 date-header = Ngày Cài

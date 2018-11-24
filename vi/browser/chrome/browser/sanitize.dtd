@@ -2,14 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY sanitizePrefs2.title          "Thiết lập cho việc Xóa trắng Lược sử">
+<!ENTITY sanitizePrefs2.title          "Thiết lập cho việc xóa trắng lịch sử">
 <!-- LOCALIZATION NOTE (sanitizePrefs2.modal.width): width of the Clear History on Shutdown dialog.
      Should be large enough to contain the item* strings on a single line.
      The column width should be set at half of the dialog width. -->
 <!ENTITY sanitizePrefs2.modal.width    "34em">
 <!ENTITY sanitizePrefs2.column.width   "17em">
 
-<!ENTITY sanitizeDialog2.title         "Xóa các Lược sử Gần đây">
+<!ENTITY sanitizeDialog2.title         "Xóa các lịch sử gần đây">
 <!-- LOCALIZATION NOTE (sanitizeDialog2.width): width of the Clear Recent History dialog -->
 <!ENTITY sanitizeDialog2.width         "34em">
 
@@ -29,18 +29,12 @@
 that require it.  -->
 <!ENTITY clearTimeDuration.suffix         "">
 
-<!-- LOCALIZATION NOTE (detailsProgressiveDisclosure.*): Labels and accesskeys
-     of the "Details" progressive disclosure button.  See UI mockup at bug
-     480169 -->
-<!ENTITY detailsProgressiveDisclosure.label     "Chi tiết">
-<!ENTITY detailsProgressiveDisclosure.accesskey "C">
-
 <!ENTITY historySection.label         "Lịch sử">
 <!ENTITY dataSection.label            "Dữ liệu">
 
-<!ENTITY itemHistoryAndDownloads.label     "Lược sử duyệt web &amp; tải về">
+<!ENTITY itemHistoryAndDownloads.label     "Lịch sử duyệt web &amp; tải về">
 <!ENTITY itemHistoryAndDownloads.accesskey "d">
-<!ENTITY itemFormSearchHistory.label       "Lược sử biểu mẫu &amp; tìm kiếm">
+<!ENTITY itemFormSearchHistory.label       "Lịch sử biểu mẫu &amp; tìm kiếm">
 <!ENTITY itemFormSearchHistory.accesskey   "b">
 <!ENTITY itemCookies.label                 "Cookie">
 <!ENTITY itemCookies.accesskey             "C">
