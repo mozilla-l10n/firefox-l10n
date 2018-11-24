@@ -23,15 +23,23 @@ newsletter-subscribe-button = Subscribirse
 newsletter-thanks-title = Grazas!
 newsletter-thanks-message = Se previamente non confirmou unha subscrición a un boletín relacionado con Mozilla, pode ter que facelo agora. Comprobe a súa caixa de entrada ou o seu filtro de correo lixo para atopar un correo noso.
 footer-title = Firefox Developer Edition
+footer-message = Busca algo máis que ferramentas de desenvolvemento? Probe o navegador Firefox deseñado especificamente para desenvolvedores e fluxos de traballo modernos.
 footer-learn-more-link = Máis información
 features-learn-more = Máis información
 features-inspector-title = Inspector
+features-inspector-desc = Inspeccione e refine o código para obter un deseño perfecto. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-console-title = Consola
+features-console-desc = Identifique incidencias relacionadas con CSS, JavaScript, seguranza e rede. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-debugger-title = Depurador
+features-debugger-desc = Un depurador JavaScript máis potente compatíbel co seu framework. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-network-title = Rede
+features-network-desc = Detecte as solicitudes de rede que poden demorar ou bloquear o seu sitio. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-storage-title = Almacenamento
+features-storage-desc = Engada, modifique e retire a caché, as cookies, as bases de datos e os datos da sesión. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-responsive-title = Modo de deseño adaptábel
+features-responsive-desc = Probe os sitios en dispositivos emulados no seu navegador. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-visual-editing-title = Edición visual
+features-visual-editing-desc = Axuste as animacións, a aliñación e as marxes con precisión. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-performance-title = Rendemento
 features-memory-title = Memoria
 # Variables:
