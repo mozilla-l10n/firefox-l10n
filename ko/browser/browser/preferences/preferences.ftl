@@ -697,6 +697,8 @@ content-blocking-third-party-cookies = 제3자 추적 쿠키
 content-blocking-all-windows-trackers = 알려진 추적기를 모든 창에서
 content-blocking-all-third-party-cookies = 모든 제3자 쿠키
 content-blocking-warning-title = 조심하세요!
+content-blocking-warning-desc = 쿠키와 추적기를 차단하면 일부 웹사이트가 정상 작동하지 않을 수 있습니다. 신뢰하는 사이트에 대한 차단은 쉽게 해제할 수 있습니다.
+content-blocking-learn-how = 방법 알아보기
 content-blocking-tracking-protection-trackers-label =
     .label = 추적기
     .accesskey = T
@@ -732,6 +734,9 @@ content-blocking-reject-trackers-block-trackers-option =
 content-blocking-reject-trackers-all-third-parties-option =
     .label = 모든 제3자 쿠키(웹사이트가 작동 안 할 수 있음)
     .accesskey = A
+content-blocking-cookies-label =
+    .label = 쿠키
+    .accesskey = C
 
 ## Privacy Section - Tracking
 
@@ -753,6 +758,9 @@ tracking-exceptions =
 tracking-change-block-list =
     .label = 차단 목록 변경…
     .accesskey = C
+tracking-manage-exceptions =
+    .label = 예외 관리…
+    .accesskey = x
 
 ## Privacy Section - Permissions
 
