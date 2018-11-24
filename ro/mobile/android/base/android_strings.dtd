@@ -7,7 +7,7 @@
 <!ENTITY firstrun_urlbar_subtext2 "Un browser modern mobil de la Mozilla, organizația nonprofit dedicată unui web liber și deschis.">
 <!ENTITY firstrun_panel_title_privacy "Confidențialitate">
 <!ENTITY firstrun_privacy_message "Navighează fără grija de a fi urmărit">
-<!ENTITY firstrun_privacy_subtext "Navigarea privată cu protecție împotriva urmăririi blochează urmăritorii și nu va ține minte istoricul tău când închei navigarea.">
+<!ENTITY firstrun_privacy_subtext "Navigarea privată cu protecție împotriva urmăririi blochează elementele de urmărire și nu va ține minte istoricul tău când închei navigarea.">
 <!ENTITY firstrun_panel_title_customize "Personalizare">
 <!ENTITY firstrun_customize_message "Creează-ți propria experiență în &brandShortName;.">
 <!ENTITY firstrun_customize_subtext "Personalizează &brandShortName; cu suplimente. Blochează reclamele, adaugă caracteristici sau alege o temă nouă care să îți reflecteze personalitatea.">
