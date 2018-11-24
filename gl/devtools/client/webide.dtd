@@ -36,17 +36,15 @@
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "l">
 <!ENTITY runtimeMenu_showDetails_label "Información do tempo de execución">
 <!ENTITY runtimeMenu_showDetails_accesskey "e">
-<!ENTITY runtimeMenu_showMonitor_label "Monitor">
-<!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "Preferencias do dispositivo">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "P">
 <!ENTITY runtimeMenu_showSettings_label "Configuración do dispositivo">
 <!ENTITY runtimeMenu_showSettings_accesskey "s">
+<!ENTITY runtimeMenu_showPerformancePanel_label "Rendemento">
+<!ENTITY runtimeMenu_showPerformancePanel_accesskey "R">
 
 <!ENTITY viewMenu_label "Ver">
 <!ENTITY viewMenu_accesskey "V">
-<!ENTITY viewMenu_toggleEditor_label "Amosar/agocha editor">
-<!ENTITY viewMenu_toggleEditor_accesskey "e">
 <!ENTITY viewMenu_zoomin_label "Ampliar">
 <!ENTITY viewMenu_zoomin_accesskey "i">
 <!ENTITY viewMenu_zoomout_label "Reducir">
@@ -66,8 +64,6 @@
 <!ENTITY key_play "R">
 <!-- show toolbox -->
 <!ENTITY key_toggleToolbox "VK_F12">
-<!-- toggle sidebar -->
-<!ENTITY key_toggleEditor "B">
 <!-- zoom -->
 <!ENTITY key_zoomin "+">
 <!ENTITY key_zoomin2 "=">
@@ -79,11 +75,9 @@
 <!ENTITY projectPanel_tabs "Lapelas">
 <!ENTITY runtimePanel_usb "Dispositivos USB">
 <!ENTITY runtimePanel_wifi "Dispositivos Wi-Fi">
-<!ENTITY runtimePanel_simulator "Simuladores">
 <!ENTITY runtimePanel_other "Outros">
-<!ENTITY runtimePanel_installsimulator "Instalar simulador">
-<!ENTITY runtimePanel_noadbhelper "Instalar ADB Helper">
 <!ENTITY runtimePanel_nousbdevice "Non é posíbel ver o seu dispositivo?">
+<!ENTITY runtimePanel_refreshDevices_label "Actualizar dispositivos">
 
 <!-- Lense -->
 <!ENTITY details_valid_header "correcto">
@@ -93,7 +87,6 @@
 <!ENTITY details_location "Localización">
 <!ENTITY details_manifestURL "ID do aplicativo">
 <!ENTITY details_removeProject_button "Retirar proxecto">
-<!ENTITY details_showPrepackageLog_button "Amosar rexistro previo ao empaquetado">
 
 <!-- New App -->
 <!ENTITY newAppWindowTitle "Novo aplicativo">
@@ -122,28 +115,9 @@
 <!ENTITY prefs_options_rememberlastproject_tooltip "Restaurar o proxecto anterior cando se inicie WebIDE">
 <!ENTITY prefs_options_templatesurl "URL dos modelos">
 <!ENTITY prefs_options_templatesurl_tooltip "Índice de modelos dispoñíbeis">
-<!ENTITY prefs_options_showeditor "Amosar editor">
-<!ENTITY prefs_options_showeditor_tooltip "Amosar editor interno">
-<!ENTITY prefs_options_tabsize "Tamaño da lapela">
-<!ENTITY prefs_options_expandtab "Tabulacións con espazos">
-<!ENTITY prefs_options_expandtab_tooltip "Usar espazos no lugar do carácter de tabulación">
-<!ENTITY prefs_options_detectindentation "Sangrar automaticamente">
-<!ENTITY prefs_options_detectindentation_tooltip "Deducir sangrado baseándose no contido do código fonte">
-<!ENTITY prefs_options_autocomplete "Completado automático">
-<!ENTITY prefs_options_autocomplete_tooltip "Activar completado automático de código">
-<!ENTITY prefs_options_autoclosebrackets "Pechar parénteses automaticamente">
-<!ENTITY prefs_options_autoclosebrackets_tooltip "Insire automaticamente os parénteses de peche">
-<!ENTITY prefs_options_keybindings "Combinacións de teclas">
-<!ENTITY prefs_options_keybindings_default "Predeterminado">
 
 <!-- Runtime Details -->
 <!ENTITY runtimedetails_title "Información do tempo de execución">
-<!ENTITY runtimedetails_adbIsRoot "ADB ten permisos de administración:">
-<!ENTITY runtimedetails_summonADBRoot "dispositivo con permisos de administración">
-<!ENTITY runtimedetails_ADBRootWarning "(require un cargador de arrinque ou bootloader desbloqueado)">
-<!ENTITY runtimedetails_unrestrictedPrivileges "Permisos non restrinxidos de DevTools:">
-<!ENTITY runtimedetails_requestPrivileges "solicita máis permisos">
-<!ENTITY runtimedetails_privilegesWarning "(Reiniciarase o dispositivo. Require permisos de administrador.)">
 
 <!-- Device Preferences and Settings -->
 <!ENTITY device_typeboolean "Booleano">
@@ -166,10 +140,6 @@
 <!ENTITY devicesetting_newtext "Valor da configuración">
 <!ENTITY devicesetting_addnew "Engadir nova configuración">
 
-<!-- Monitor -->
-<!ENTITY monitor_title "Monitor">
-<!ENTITY monitor_help "Axuda">
-
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
      that instructs the user to transfer an authentication token to the
@@ -188,18 +158,6 @@
      user to transfer authentication info by transferring a token. -->
 <!ENTITY wifi_auth_token_request "Se o outro dispositivo solicita un token no lugar dunha lectura de código QR, copie o seguinte valor no outro dispositivo:">
 
+
 <!-- Logs panel -->
 <!ENTITY logs_title "Rexistros de ordes previas ao empaquetado">
-
-<!-- Simulator Options -->
-<!ENTITY simulator_title "Opcións do simulador">
-<!ENTITY simulator_remove "Eliminar simulador">
-<!ENTITY simulator_reset "Restaurar predeterminados">
-<!ENTITY simulator_name "Nome">
-<!ENTITY simulator_software "Software">
-<!ENTITY simulator_version "Versión">
-<!ENTITY simulator_profile "Perfil">
-<!ENTITY simulator_hardware "Hardware">
-<!ENTITY simulator_device "Dispositivo">
-<!ENTITY simulator_screenSize "Pantalla">
-<!ENTITY simulator_pixelRatio "Ratio de píxeles">
