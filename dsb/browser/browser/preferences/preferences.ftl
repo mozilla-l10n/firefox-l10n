@@ -654,6 +654,9 @@ sitedata-cookies-exceptions =
 # in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
 # Cookies and Site Data section.
 sitedata-warning-your-settings-prevent-changes = Waše nastajenja blokěrowanja wopśimjeśa změnam na nastajenjach cookiejow a sedłowych datow zajźujo.
+sitedata-cookies-permissions =
+    .label = Pšawa zastojaś
+    .accesskey = P
 
 ## Privacy Section - Address Bar
 
@@ -674,6 +677,7 @@ addressbar-suggestions-settings = Nastajenja za naraźenja pytnice změniś
 
 content-blocking-header = Blokěrowanje wopśimjeśa
 content-blocking-desc = Blokěrujśo wopśimjeśe tśeśich póbitowarjow ako wabjenje abo kod, kótarež móžo wašo pśeglědowanje spómałšyś a was pśez web pśeslědowaś. Pśiměŕśo swóje nastajenja za nejlěpšu balansu mjazy šćitom a wugbaśim.
+content-blocking-description = Blokěrujśo wopśimjeśe tśeśich, kótarež wam pó webje slědujo. Kontrolěrujśo, kak cesto se waša aktiwita online składujo a mjazy websedłami źěli.
 content-blocking-learn-more = Dalšne informacije
 content-blocking-restore-defaults =
     .label = Standard wótnowiś
@@ -694,6 +698,16 @@ content-blocking-fastblock-slow-loading-trackers-label =
     .label = Pómałem cytajuce pśeslědowaki
     .accesskey = P
 content-blocking-fastblock-new-description = Jano pśeslědowaki blokěrowaś, kótarež bokam malsne zacyitanje zawoborujo.
+content-blocking-setting-standard =
+    .label = Standard
+    .accesskey = d
+content-blocking-setting-strict =
+    .label = Striktny
+    .accesskey = r
+content-blocking-setting-custom =
+    .label = Swójski
+    .accesskey = S
+content-blocking-standard-desc = Wurownany za šćit a wugbaśe. Dowólujo někotare pślědowaki, aby websedła pórědnje funkcioněrowali.
 content-blocking-tracking-protection-trackers-label =
     .label = Pśeslědowaki
     .accesskey = P
