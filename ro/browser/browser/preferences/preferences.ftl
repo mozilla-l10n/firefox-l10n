@@ -7,7 +7,7 @@ do-not-track-learn-more = Află mai multe
 do-not-track-option-default =
     .label = Doar când se folosește protecția împotriva urmăririi
 do-not-track-option-default-content-blocking =
-    .label = Numai când { -brand-short-name } este setat să blocheze urmăritorii detectați
+    .label = Numai când { -brand-short-name } este setat să blocheze elementele de urmărire detectate
 do-not-track-option-always =
     .label = Întotdeauna
 pref-page =
@@ -629,9 +629,9 @@ sitedata-disallow-cookies-option =
 sitedata-block-desc = Tipul conținutului blocat
     .accesskey = T
 sitedata-block-trackers-option-recommended =
-    .label = Urmăritorii de la terți (recomandat)
+    .label = Elemente de urmărire de la terți (recomandat)
 sitedata-block-trackers-option =
-    .label = Urmăritorii de la terți
+    .label = Elemente de urmărire de la terți
 sitedata-block-unvisited-option =
     .label = Cookie-urile de la site-urile web nevizitate
 sitedata-block-all-third-party-option =
@@ -692,7 +692,7 @@ content-blocking-category-label = Alege ce să blochezi
 # FastBlock is a feature that blocks requests to tracking sites if they
 # have not finished loading after a certain threshold of seconds.
 content-blocking-fastblock-slow-loading-trackers-label =
-    .label = Urmăritori cu încărcare lentă
+    .label = Elemente de urmărire cu încărcare lentă
     .accesskey = S
 content-blocking-fastblock-new-description = Blochează numai elementele de urmărire care împiedică încărcarea rapidă a paginilor.
 content-blocking-setting-standard =
@@ -707,9 +707,9 @@ content-blocking-setting-custom =
 content-blocking-standard-desc = Echilibrată pentru protecție și performanță. Permite unele elemente de urmărire pentru ca site-urile web să funcționeze corespunzător.
 content-blocking-strict-desc = Blochează toate elementele de urmărire pe care le depistează { -brand-short-name }. Poate produce disfuncționalități pe unele site-uri.
 content-blocking-custom-desc = Alege ce să blochezi.
-content-blocking-private-trackers = Elemente de urmărire cunoscute numai în ferestre private.
+content-blocking-private-trackers = Elemente de urmărire cunoscute numai în ferestre private
 content-blocking-third-party-cookies = Cookie-uri de urmărire de la terți
-content-blocking-all-windows-trackers = Elemente de urmărire în toate ferestrele
+content-blocking-all-windows-trackers = Elemente de urmărire cunoscute în toate ferestrele
 content-blocking-all-third-party-cookies = Toate cookie-urile de la terți
 content-blocking-warning-title = Atenție!
 content-blocking-warning-desc = Blocarea cookie-urilor și a elementelor de urmărire poate produce disfuncționalități pe anumite site-uri web. Poți dezactiva ușor blocarea pentru site-urile în care ai încredere.
@@ -731,7 +731,7 @@ content-blocking-tracking-protection-change-block-list = Modifică lista de bloc
 content-blocking-third-party-cookies-label =
     .label = Cookie-uri de la terți
     .accesskey = C
-content-blocking-reject-trackers-description = Blochează toate cookie-urile de la terți sau numai pe cele instalate de urmăritori.
+content-blocking-reject-trackers-description = Blochează toate cookie-urile de la terți sau numai pe cele instalate de elemente de urmărire.
 # This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
 # of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
 # or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
@@ -757,7 +757,7 @@ content-blocking-cookies-label =
 
 tracking-header = Protecția împotriva urmăririi
 tracking-desc = Protecția împotriva urmăririi blochează elementele de urmărire online care îți colectează datele de navigare pe mai multe site-uri web. <a data-l10n-name="learn-more">Află mai multe despre protecția împotriva urmăririi și confidențialitate</a>
-tracking-mode-label = Folosește protecția împotriva urmăririi pentru a bloca urmăritorii cunoscuți
+tracking-mode-label = Folosește protecția împotriva urmăririi pentru a bloca elementele de urmărire cunoscute
 tracking-mode-always =
     .label = Întotdeauna
     .accesskey = y

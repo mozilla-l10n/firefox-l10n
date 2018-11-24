@@ -998,7 +998,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.disabled.tooltip "Ai dezactivat blocarea de conținut.">
 <!ENTITY contentBlocking.exception.tooltip "Ai dezactivat blocarea de conținut pe acest site.">
 
-<!ENTITY contentBlocking.fastBlock.label "Urmăritori cu încărcare lentă">
+<!ENTITY contentBlocking.fastBlock.label "Elemente de urmărire cu încărcare lentă">
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking malicious/slow content, so this is
@@ -1016,9 +1016,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.fastBlock.add.label "Adaugă o blocare…">
 
-<!ENTITY contentBlocking.trackingProtection2.label "Toți urmăritorii detectați">
+<!ENTITY contentBlocking.trackingProtection2.label "Toate elementele de urmărire detectate">
 
-<!ENTITY contentBlocking.trackingProtection3.label "Urmăritori">
+<!ENTITY contentBlocking.trackingProtection3.label "Elemente de urmărire">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.allowed.label):
      This label signals that this type of content blocking is turned
      OFF and is not blocking tracker content, so this is not
