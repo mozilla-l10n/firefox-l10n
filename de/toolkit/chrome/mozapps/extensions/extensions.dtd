@@ -44,7 +44,9 @@
 <!ENTITY view.recentUpdates.label             "Zuletzt durchgeführte Updates">
 <!ENTITY view.availableUpdates.label          "Verfügbare Updates">
 
-<!ENTITY preferencesWin.label                  "&brandShortName; Einstellungen">
+<!ENTITY helpButton.label                      "Hilfe für Add-ons">
+<!ENTITY preferencesWin.label                  "&brandShortName;-Einstellungen">
+<!ENTITY preferencesUnix.label                 "&brandShortName;-Einstellungen">
 
 <!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "Auf Updates überprüfen">
