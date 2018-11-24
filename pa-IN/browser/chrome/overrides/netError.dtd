@@ -8,6 +8,7 @@
 <!ENTITY loadError.label "ਸਫ਼ਾ ਲੋਡ ਕਰਨ ਦੌਰਾਨ ਸਮੱਸਿਆ">
 <!ENTITY retry.label "ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ">
 <!ENTITY returnToPreviousPage.label "ਪਿੱਛੇ ਜਾਓ">
+<!ENTITY returnToPreviousPage1.label "ਪਿੱਛੇ ਜਾਓ (ਸਿਫਾਰਸ਼ੀ)">
 <!ENTITY advanced.label "ਤਕਨੀਕੀ">
 <!ENTITY continue2.label "…ਹੋਰ">
 <!ENTITY moreInformation.label "ਹੋਰ ਜਾਣਕਾਰੀ">
@@ -154,6 +155,7 @@ was trying to connect. -->
 
 
 
+<!ENTITY certerror.whatCanYouDoAboutItTitle "ਇਸ ਬਾਰੇ ਤੁਸੀਂ ਕੀ ਕਰ ਸਕਦੇ ਹੋ?">
 
 
 
@@ -175,6 +177,7 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "ਛੋਟ ਸ਼ਾਮਲ">
+<!ENTITY securityOverride.exceptionButton1Label "ਖ਼ਤਰੇ ਨੂੰ ਮੰਨੋ ਤੇ ਜਾਰੀ ਰੱਖੋ">
 
 <!ENTITY errorReporting.automatic2 "ਇੰਜ ਦੀਆਂ ਸਮੱਸਿਆਵਾਂ ਦੀ ਜਾਣਕਾਰੀ ਦੇਣ ਨਾਲ Mozilla ਖ਼ਤਰਨਾਕ ਸਾਈਟਾਂ ਦੀ ਪਛਾਣ ਕਰਦਾ ਅਤੇ ਉਹਨਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਉਂਦਾ ਹੈ।">
 <!ENTITY errorReporting.learnMore "…ਹੋਰ ਜਾਣੋ">
