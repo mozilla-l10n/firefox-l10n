@@ -692,6 +692,25 @@ content-blocking-fastblock-slow-loading-trackers-label =
     .label = Aeglaselt laadivad jälitajad
     .accesskey = A
 content-blocking-fastblock-new-description = Blokitakse ainult lehtede kiiret avanemist takistavad jälitajad.
+content-blocking-setting-standard =
+    .label = Tavaline
+    .accesskey = T
+content-blocking-setting-strict =
+    .label = Range
+    .accesskey = R
+content-blocking-setting-custom =
+    .label = Kohandatud
+    .accesskey = K
+content-blocking-standard-desc = Tasakaalustatud kaitse ja jõudlus. Mõned jälitajad on lubatud, et saidid töötaks korrektselt.
+content-blocking-strict-desc = Blokitakse kõik { -brand-short-name }i poolt tuvastatud jälitajad. Mõned saidid ei pruugi korrektselt toimida.
+content-blocking-custom-desc = Võimaldab blokitava sisu ise valida.
+content-blocking-private-trackers = tuntud jälitajad ainult privaatsetes akendes
+content-blocking-third-party-cookies = kolmanda osapoole jälitamise küpsised
+content-blocking-all-windows-trackers = tuntud jälitajad kõigis akendes
+content-blocking-all-third-party-cookies = kõik kolmanda osapoole küpsised
+content-blocking-warning-title = Tähelepanu!
+content-blocking-warning-desc = Küpsiste ja jälitajate blokkimine võib põhjustada probleeme mõnel saidil. Blokkimise keelamine usaldatud saitidel on lihtne.
+content-blocking-learn-how = Vaata juhendit
 content-blocking-tracking-protection-trackers-label =
     .label = Jälitajad
     .accesskey = l
@@ -727,6 +746,9 @@ content-blocking-reject-trackers-block-trackers-option =
 content-blocking-reject-trackers-all-third-parties-option =
     .label = kõik kolmanda osapoole küpsised (mõned saidid võivad katki minna)
     .accesskey = o
+content-blocking-cookies-label =
+    .label = küpsised
+    .accesskey = k
 
 ## Privacy Section - Tracking
 
@@ -748,6 +770,9 @@ tracking-exceptions =
 tracking-change-block-list =
     .label = Muuda blokkimise nimekirja…
     .accesskey = M
+tracking-manage-exceptions =
+    .label = Halda erandeid…
+    .accesskey = e
 
 ## Privacy Section - Permissions
 
