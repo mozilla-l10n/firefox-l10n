@@ -24,6 +24,9 @@ de mozilla.org) O explorador cancelou o seu pedido para súa protección e segur
 <!ENTITY fileNotFound.title "Non se atopou o ficheiro">
 <!ENTITY fileNotFound.longDesc "<ul><li>É posíbel que o elemento fose renomeado, eliminado ou movido?</li><li>Hai algún erro ortográfico, de maiúsculas ou tipográfico no enderezo?</li><li>Ten os permisos necesarios para acceder ao elemento solicitado?</li></ul>">
 
+<!ENTITY fileAccessDenied.title "Denegouse o acceso ao ficheiro">
+<!ENTITY fileAccessDenied.longDesc "<ul><li>Pode que fose retirado, movido ou os permisos do ficheiro impiden o acceso.</li></ul>">
+
 <!ENTITY generic.title "Non é posíbel rematar a solicitude">
 <!ENTITY generic.longDesc "<p>Non hai información adicional dispoñíbel neste momento acerca deste problema ou erro.</p>">
 
@@ -81,29 +84,27 @@ servidor.</li>
 </ul>
 ">
 
-<!ENTITY malwareBlocked.title "Sitio sospeitoso de ser atacante!">
-<!ENTITY malwareBlocked.longDesc "<p>Os sitios atacantes tentan instalar  programas para roubarlle información privada, utilizar o seu computador para atacar a outros ou danar o seu sistema.</p> <p>Os propietarios de sitios web que crean que foron identificados por erro como sitio atacante poden <a  href='http://www.stopbadware.org/home/reviewinfo' >solicitar unha revisión</a>.</p>">
-
-<!ENTITY unwantedBlocked.title "Sitio sospeitoso de servir software non desexado!">
-<!ENTITY unwantedBlocked.longDesc "
-<p>As páxinas con software non desexado tentan instalar un software que pode aparentar facer algo diferente ao que fai e afectar ao seu sistema de maneira inesperada.</p>
+<!ENTITY securityOverride.linkText "Ou pode engadir unha excepción…">
+<!ENTITY securityOverride.warningContent "
+<p>Non debería engadir unha excepción se está usando unha conexión á Internet na que non se confía plenamente ou se non está acostumado a ver un aviso neste servidor.</p>
+<p>Se aínda desexa engadir unha excepción para este sitio, pode facelo na configuración avanzada de cifrado.</p>
 ">
-
-<!ENTITY phishingBlocked.title "Web sospeitosa de ser unha falsificación!">
-<!ENTITY phishingBlocked.longDesc " <p>Se introduce información persoal nesta páxina pode resultar na usurpación da súa identidade ou outro tipo de acción fraudulenta.</p> <p>Este tipo de falsificación web utilízase nos casos coñecidos como phishing, nos cales utilízanse correos electrónicos e páxinas web fraudulentas para imitar fontes nas que o usuario pode confiar.</p> ">
 
 <!ENTITY cspBlocked.title "Bloqueado pola política de seguranza de contidos">
 <!ENTITY cspBlocked.longDesc "<p>O navegador impediu que esta páxina se cargue desta forma porque a páxina ten una política de seguranza de contido que non o permite.</p>">
 
-<!ENTITY corruptedContentError.title "Erro de contido corrupto">
-<!ENTITY corruptedContentError.longDesc "<p>Non é posíbel amosar a páxina que está a tentar visualizar porque se produciu un erro na transmisión dos datos.</p><ul><li>Contacte cos propietarios do sitio web para informalos deste problema.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "Erro de contido danado">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Non é posíbel amosar a páxina a que está a tentar acceder porque se detectou un erro na transmisión de datos.</p><ul><li>Contacte cos propietarios do sitio web para informalos deste problema.</li></ul>">
 
 <!ENTITY remoteXUL.title "XUL remoto">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Contacte cos propietarios do sitio web para informalos deste problema.</li></ul></p>">
 
-<!-- Include app-specific error messages - do not change this in localization!
-     Some applications might override netErrorApp.dtd with their specific version,
-     this inclusion needs to be intact for that approach to work correctly.
-     Please, try to keep this at the end of the file. -->
-<!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
-%netErrorAppDTD;
+<!ENTITY inadequateSecurityError.title "A súa conexión non é segura">
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> usa unha tecnoloxía de seguranza obsoleta e vulnerábel a un ataque. Un atacante podería facilmente obter información que vostede cre segura. O administrador do sitio web debe arranxar o servidor antes de poder visitar o sitio.</p><p>Código de erro: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+<!ENTITY blockedByPolicy.title "Páxina bloqueada">
+
+<!ENTITY networkProtocolError.title "Erro do protocolo de rede">
+<!ENTITY networkProtocolError.longDesc "<p>Non é posíbel amosar a páxina a que está a tentar acceder porque se detectou un erro protocolo da rede.</p><ul><li>Contacte cos propietarios do sitio web para informalos deste problema.</li></ul>">
