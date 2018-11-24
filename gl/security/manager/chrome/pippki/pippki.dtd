@@ -20,7 +20,6 @@
 <!ENTITY downloadCert.message1 "Solicitouse que confíe nunha nova entidade de acreditación (AC).">
 <!ENTITY downloadCert.trustSSL "Confiar nesta AC para identificar sitios web.">
 <!ENTITY downloadCert.trustEmail "Confiar nesta AC para identificar usuarios de correo electrónico.">
-<!ENTITY downloadCert.trustObjSign "Confiar nesta AC para identificar os desenvolvedores de software.">
 <!ENTITY downloadCert.message3 "Antes de confiar nesta AC para calquera finalidade, debería examinar o seu certificado e a súa política e procedementos (se están dispoñíbeis).">
 <!ENTITY downloadCert.viewCert.label "Ver">
 <!ENTITY downloadCert.viewCert.text "Examinar o certificado da AC">
