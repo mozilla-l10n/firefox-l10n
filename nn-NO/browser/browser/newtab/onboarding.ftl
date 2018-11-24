@@ -6,6 +6,7 @@
 ## UI strings for the simplified onboarding modal
 
 onboarding-button-label-try-now = Prøv han no
+onboarding-button-label-get-started = Kom i gang
 onboarding-welcome-header = Velkomen til { -brand-short-name }
 onboarding-start-browsing-button-label = Start nettlesing
 
@@ -24,3 +25,5 @@ onboarding-addons-title = Tillegg
 onboarding-addons-text = Legg til endå fleire funksjonar som gjer at { -brand-short-name } fungerar betre for deg. Samanlikn prisar, sjekk vêret eller uttrykk personlegdomen din med eit tilpassa tema.
 onboarding-ghostery-title = Ghostery
 onboarding-ghostery-text = Surf raskare, smartare eller sikrare med utvidingar som Ghostery, som lèt deg blokkere irriterande annonsar.
+# Note: "Sync" in this case is a generic verb, as in "to synchronize"
+onboarding-fxa-title = Synkroniser

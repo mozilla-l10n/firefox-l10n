@@ -84,6 +84,9 @@ extension-controlled-homepage-override = Ei utviding, <img data-l10n-name="icon"
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
 extension-controlled-new-tab-url = Ei utviding, <img data-l10n-name="icon"/> { $name }, styrer Ny fane-sida di.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlled-web-notifications = Eit tillegg, <img data-l10n-name="icon"/> { $name }, kontrollerer denne innstillinga.
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
 extension-controlled-default-search = Ei utviding, <img data-l10n-name="icon"/> { $name }, har endra standardsøkjemotor.
@@ -149,6 +152,9 @@ open-new-link-as-tabs =
     .accesskey = l
 warn-on-close-multiple-tabs =
     .label = Åtvar meg ved attlating av fleire faner
+    .accesskey = Å
+warn-on-quit-close-multiple-tabs =
+    .label = Åtvar ved avslutting og attlating av fleire faner
     .accesskey = Å
 warn-on-open-many-tabs =
     .label = Åtvar meg når opning av mange faner samstundes kan gjere { -brand-short-name } treg
@@ -285,6 +291,7 @@ update-application-use-service =
 update-enable-search-update =
     .label = Oppdater søkjemotorar automatisk
     .accesskey = e
+update-pref-write-failure-title = Skrivfeil
 
 ## General Section - Performance
 
@@ -672,6 +679,9 @@ content-blocking-fastblock-slow-loading-trackers-label =
     .label = Treglastande sporfølgjarar
     .accesskey = s
 content-blocking-fastblock-new-description = Blokker berre sporfølgjarar som gjer at sider lastar tregare.
+content-blocking-setting-standard =
+    .label = Standard
+    .accesskey = S
 content-blocking-tracking-protection-trackers-label =
     .label = Sporfølgjarar
     .accesskey = S
