@@ -62,6 +62,10 @@ permissions-exceptions-tracking-protection-window =
     .title = Unntak - sporingsvern
     .style = { permissions-window.style }
 permissions-exceptions-tracking-protection-desc = Du har slått av sporingsvern på desse nettsidene.
+permissions-exceptions-content-blocking-window =
+    .title = Unntak - innhaldsblokkering
+    .style = { permissions-window.style }
+permissions-exceptions-content-blocking-desc = Du har slått av innhaldsblokkering på desse nettsidene.
 
 ## Exceptions - Cookies
 
