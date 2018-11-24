@@ -8,13 +8,11 @@
 <!ENTITY certmgr.tab.others2                  "Persoas">
 <!ENTITY certmgr.tab.websites3                "Servidores">
 <!ENTITY certmgr.tab.ca                       "Entidades">
-<!ENTITY certmgr.tab.orphan2                  "Outros">
 
-<!ENTITY certmgr.mine                         "Ten certificados destas organizacións que o identifican:">
-<!ENTITY certmgr.others                       "Ten certificados arquivados que identifican estas persoas:">
-<!ENTITY certmgr.websites2                    "Ten certificados arquivados que identifican estes servidores:">
-<!ENTITY certmgr.cas                          "Ten certificados arquivados que identifican estas entidades de acreditación:">
-<!ENTITY certmgr.orphans                      "Ten certificados arquivados que non encaixan en ningunha das outras categorías:">
+<!ENTITY certmgr.mine2                        "Ten certificados destas organizacións que o identifican">
+<!ENTITY certmgr.others2                      "Ten certificados arquivados que identifican a estas persoas">
+<!ENTITY certmgr.websites3                    "Ten certificados arquivados que identifican a estes servidores">
+<!ENTITY certmgr.cas2                         "Ten certificados arquivados que identifican a estas entidades de acreditación">
 
 <!ENTITY certmgr.detail.general_tab.title     "Xeral">
 <!ENTITY certmgr.detail.general_tab.accesskey "X">
@@ -38,7 +36,6 @@
 <!ENTITY certmgr.editcert.edittrust           "Editar a configuración de confianza:">
 <!ENTITY certmgr.editcert.trustssl            "Este certificado identifica sitios web.">
 <!ENTITY certmgr.editcert.trustemail          "Este certificado identifica usuarios de correo.">
-<!ENTITY certmgr.editcert.trustobjsign        "Este certificado identifica fabricantes de software.">
 
 <!ENTITY certmgr.deletecert.title             "Eliminar certificado">
 
@@ -82,11 +79,9 @@
 <!ENTITY exceptionMgr.exceptionButton.label   "Confirmar excepción de seguranza">
 <!ENTITY exceptionMgr.exceptionButton.accesskey "C">
 <!ENTITY exceptionMgr.supplementalWarning     "A lexitimación de bancos, tendas e outros sitios públicos non requirirá este proceso.">
-<!ENTITY exceptionMgr.certlocation.caption2   "Servidor">
 <!ENTITY exceptionMgr.certlocation.url        "Localización:">
 <!ENTITY exceptionMgr.certlocation.download   "Obter certificado">
 <!ENTITY exceptionMgr.certlocation.accesskey  "O">
-<!ENTITY exceptionMgr.certstatus.caption      "Estado do certificado">
 <!ENTITY exceptionMgr.certstatus.viewCert     "Ver…">
 <!ENTITY exceptionMgr.certstatus.accesskey    "V">
 <!ENTITY exceptionMgr.permanent.label         "Almacenar esta excepción de forma permanente">
