@@ -403,8 +403,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY deleteCmd.label          "Löschen">
 <!ENTITY deleteCmd.key            "D">
 <!ENTITY deleteCmd.accesskey        "L">
-<!ENTITY selectAllCmd.label         "Alles markieren">
-<!ENTITY selectAllCmd.key         "A">
+<!ENTITY selectAllCmd.label         "Alles auswählen">
+<!ENTITY selectAllCmd.key         "u">
 <!ENTITY selectAllCmd.accesskey       "m">
 <!ENTITY preferencesCmd2.label       "Einstellungen">
 <!ENTITY preferencesCmd2.accesskey     "E">
