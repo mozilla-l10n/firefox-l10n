@@ -9,6 +9,7 @@ about-performance-title = Gestione attività
 column-name = Nome
 column-type = Tipo
 column-energy-impact = Impatto energetico
+column-memory = Memoria
 
 ## Special values for the Name column
 ghost-windows = Schede chiuse di recente
@@ -33,6 +34,14 @@ type-other = Altro
 energy-impact-high = Alto ({ $value })
 energy-impact-medium = Medio ({ $value })
 energy-impact-low = Basso ({ $value })
+
+## Values for the Memory column
+##
+## Variables:
+##   $value (Number) - How much memory is used
+size-KB = { $value } kB
+size-MB = { $value } MB
+size-GB = { $value } GB
 
 ## Tooltips for the action buttons
 close-tab =
