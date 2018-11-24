@@ -648,6 +648,9 @@ sitedata-cookies-exceptions =
 # in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
 # Cookies and Site Data section.
 sitedata-warning-your-settings-prevent-changes = Sisu blokkimise sätted takistavad antud sätete muutmist.
+sitedata-cookies-permissions =
+    .label = Halda õigusi…
+    .accesskey = H
 
 ## Privacy Section - Address Bar
 
@@ -668,6 +671,7 @@ addressbar-suggestions-settings = Muuda otsingumootorite soovituste sätteid
 
 content-blocking-header = Sisu blokkimine
 content-blocking-desc = Järgnevate sätete abil on võimalik blokkida kolmanda osapoole sisu nagu reklaamid või kood, mis võib aeglustada sinu veebilehitsemist ning jälitada sind üle mitme veebilehe. Leia parim tasakaal enda kaitsmise ja kiiruse vahel.
+content-blocking-description = Bloki kolmanda osapoole sisu, mis jälitab sind kogu veebis. Kontrolli, kui palju sinu tegevusest veebisaidid salvestada ja omavahel jagada saavad.
 content-blocking-learn-more = Rohkem teavet
 content-blocking-restore-defaults =
     .label = Taasta vaikeväärtused
