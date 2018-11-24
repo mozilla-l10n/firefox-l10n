@@ -708,6 +708,15 @@ content-blocking-setting-custom =
     .label = Swójski
     .accesskey = S
 content-blocking-standard-desc = Wurownany za šćit a wugbaśe. Dowólujo někotare pślědowaki, aby websedła pórědnje funkcioněrowali.
+content-blocking-strict-desc = Blokuje wšě přesćěhowaki, kotrež { -brand-short-name } namaka. Tohodla njemóhli někotre websydła korektnje fungować.
+content-blocking-custom-desc = Wubjeŕśo, což ma se blokěrowaś.
+content-blocking-private-trackers = Znate pśeslědowaki w priwatnych woknach
+content-blocking-third-party-cookies = Slědujuce cookiejei tśeśich
+content-blocking-all-windows-trackers = Znate pśeslědowaki we wšych woknach
+content-blocking-all-third-party-cookies = Wšykne cookieje tśeśich
+content-blocking-warning-title = Glědajśo!
+content-blocking-warning-desc = Gaž cookieje a pśeslědowaki blokěrujośo, njemógli někotare websedła korektnje funkcioněrowaś. Jo lažko, blokěrowanje sedłow, kótarymž dowěriśo, znjemóžniś.
+content-blocking-learn-how = Zgóńśo kak
 content-blocking-tracking-protection-trackers-label =
     .label = Pśeslědowaki
     .accesskey = P
@@ -743,6 +752,9 @@ content-blocking-reject-trackers-block-trackers-option =
 content-blocking-reject-trackers-all-third-parties-option =
     .label = Wšykne cookieje tśeśich (móžo zawinowaś, až websedła njefunkcioněruju)
     .accesskey = t
+content-blocking-cookies-label =
+    .label = Cookieje
+    .accesskey = C
 
 ## Privacy Section - Tracking
 
@@ -764,6 +776,9 @@ tracking-exceptions =
 tracking-change-block-list =
     .label = Blokěrowańsku lisćinu změniś…
     .accesskey = z
+tracking-manage-exceptions =
+    .label = Wuwześa zastojaś…
+    .accesskey = u
 
 ## Privacy Section - Permissions
 
