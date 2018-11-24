@@ -4,7 +4,7 @@
 
 cfr-doorhanger-extension-heading = Empfohlene Erweiterung
 cfr-doorhanger-extension-sumo-link =
-    .tooltiptext = Wieso wird mir das angezeigt?
+    .tooltiptext = Warum wird das angezeigt?
 cfr-doorhanger-extension-cancel-button = Nicht jetzt
     .accesskey = N
 cfr-doorhanger-extension-ok-button = Jetzt hinzufügen
