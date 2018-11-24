@@ -3,8 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
 <!ENTITY rights.locale-direction "ltr">
-<!ENTITY rights.pagetitle       "about:rights">
-<!ENTITY rights.intro-header    "Sobre os seus dereitos">
+<!ENTITY rights.title "Sobre os seus dereitos">
 <!ENTITY rights.intro "&brandFullName; é un software de código aberto e libre, construído por unha comunidade de centos de persoas de todo o mundo. Hai algunhas cousas que debería saber:">
 
 <!-- Note on pointa / pointb / pointc form:
@@ -63,7 +62,7 @@
 <!ENTITY rights.safebrowsing-b "Non se recomenda desactivar a característica de navegación segura porque pode dar como resultado que visite sitios no seguros. Se desexa desactivar esta característica por completo, siga estes pasos:">
 <!ENTITY rights.safebrowsing-term1 "Abrir as preferencias do aplicativo">
 <!ENTITY rights.safebrowsing-term2 "Seleccione o panel de Seguranza">
-<!ENTITY rights.safebrowsing-term3 "Desmarque as opcións &quot;&blockAttackSites.label;&quot; e &quot;&blockWebForgeries.label;&quot;">
+<!ENTITY rights2.safebrowsing-term3 "Desmarque a opción para «&enableSafeBrowsing.label;»">
 <!ENTITY rights.safebrowsing-term4 "Agora a navegación segura está desactivada">
 
 <!-- location aware browsing points for branded builds -->

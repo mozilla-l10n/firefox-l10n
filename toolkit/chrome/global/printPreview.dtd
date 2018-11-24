@@ -32,6 +32,10 @@
 <!ENTITY Custom.label         "Personalizar…">
 <!ENTITY ShrinkToFit.label    "Compactar para axustar">
 <!ENTITY customPrompt.title   "Personalizar escala…">
+<!ENTITY simplifyPage.label   "Simplificar páxina">
+<!ENTITY simplifyPage.accesskey "i">
+<!ENTITY simplifyPage.enabled.tooltip  "Cambiar o deseño para facilitar a lectura">
+<!ENTITY simplifyPage.disabled.tooltip "Esta páxina non se pode simplificar automaticamente">
 
 <!ENTITY homearrow.tooltip    "Primeira páxina">
 <!ENTITY endarrow.tooltip     "Última páxina">
