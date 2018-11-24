@@ -35,17 +35,36 @@ policy-DisablePocket = Desactiva a funcionalidade para gardar páxinas web en Po
 policy-DisablePrivateBrowsing = Desactiva a navegación privada.
 policy-DisableProfileImport = Desactiva o comando do menú para importar datos dende outro navegador.
 policy-DisableProfileRefresh = Desactiva o botón de Refrescar { -brand-short-name } na páxina about:support.
+policy-DisableSafeMode = Desactiva a función para reiniciar no modo seguro. Nota: a tecla Maiús para entrar no modo seguro só se pode desactivar en Windows usando as políticas de grupo.
+policy-DisableSecurityBypass = Evita que o usuario se salte certos avisos de seguranza.
+policy-DisableSetDesktopBackground = Desactiva a orde do menú Estabelecer imaxe como fondo de escritorio.
+policy-DisableSetAsDesktopBackground = Desactiva a orde do menú Estabelecer como fondo do escritorio para as imaxes.
 policy-DisableSystemAddonUpdate = Evita que o navegador instale e actualice complementos do sistema.
 policy-DisableTelemetry = Desactivar a telemetría.
 policy-DisplayBookmarksToolbar = Amosa a barra de ferramentas de marcadores de forma predeterminada.
 policy-DisplayMenuBar = Amosar a barra de menú de forma predeterminada.
 policy-DNSOverHTTPS = Permite configurar o DNS baixo HTTPS.
 policy-DontCheckDefaultBrowser = Desactiva a comprobación do navegador predeterminado no inicio.
+# “lock” means that the user won’t be able to change this setting
+policy-EnableTrackingProtection = Activa ou desactiva o bloqueo de contido e opcionalmente bloquéao.
+# A “locked” extension can’t be disabled or removed by the user. This policy
+# takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
+# English or translate them as verbs.
+policy-Extensions = Instala, desinstala ou bloquea extensións. A opción de instalar usa URL ou rutas como parámetros. As opcións para desinstalar e bloquear usan os ID das extensións.
 policy-FlashPlugin = Permite ou denega o uso do engadido Flash.
 policy-HardwareAcceleration = Se é falso, desactiva a aceleración por hardware.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Estabelece e opcionalmente bloquea a páxina de inicio.
 policy-InstallAddonsPermission = Permite que certos sitios web instalen complementos.
+policy-NoDefaultBookmarks = Desactiva a creación dos marcadores predeterminados incluídos co { -brand-short-name }, e os marcadores intelixentes (Máis visitados, Etiquetas recentes). Nota: Esta política só é efectiva se se usa antes da primeira execución do perfil.
+policy-OfferToSaveLogins = Aplicar a configuración para permitir que { -brand-short-name } ofreza lembrar as identificacións e os contrasinais gardados. Acéptanse os valores verdadeiro e falso.
+policy-OverrideFirstRunPage = Anular a páxina de primeira execución. Deixe esta política en branco se quere desactivar a páxina de primeira execución.
+policy-OverridePostUpdatePage = Anula a páxina de «Novidades» posterior á actualización. Deixe esta política en branco se quere desactivar a páxina posterior á actualización.
+policy-Permissions = Configura os permisos para a cámara, o micrófono, a localización e as notificacións.
+policy-PopupBlocking = Permitir que certos sitios web amosen xanelas emerxentes de forma predeterminada.
 policy-Proxy = Configura os axustes do proxy.
+policy-RequestedLocales = Estabelece a lista de idiomas (locales) solicitados polo aplicativo na orde de preferencia.
+policy-SanitizeOnShutdown = Borra todos os datos de navegación ao pechar.
+policy-SearchBar = Estabelece a localización predeterminada da barra de busca. O usuario aínda pode personalizala.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Permite instalar os módulos PKCS #11.
