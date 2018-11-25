@@ -24,13 +24,15 @@
 <!ENTITY  reloadAllTabs.label                "Alle Tabs neu laden">
 <!ENTITY  reloadAllTabs.accesskey            "T">
 <!ENTITY  selectAllTabs.label                "Alle Tabs auswählen">
+<!ENTITY  selectAllTabs.accesskey            "u">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
 <!ENTITY  duplicateTab.label                 "Tab klonen">
 <!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  duplicateTab.accesskey             "k">
-<!ENTITY  closeTabOptions.label              "Optionen zum Schließen von Tabs">
+<!ENTITY  closeTabOptions.label              "Tabs schließen">
+<!ENTITY  closeTabOptions.accesskey          "c">
 <!-- LOCALIZATION NOTE (duplicateTabs.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
 <!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
@@ -47,6 +49,7 @@ left instead of right. -->
 <!ENTITY  closeSelectedTabs.accesskey        "s">
 
 <!ENTITY  closeTabs.label                    "Tabs schließen">
+<!ENTITY  closeTabs.accesskey                "c">
 <!ENTITY  pinSelectedTabs.label              "Tabs anheften">
 <!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
@@ -64,6 +67,7 @@ but will never be visible at the same time. -->
 <!-- LOCALIZATION NOTE(reloadTab.label, reloadTabs.label): have the same accesskey
 but will never be visible at the same time. -->
 <!ENTITY  reloadTabs.label                   "Tabs neu laden">
+<!ENTITY  reloadTabs.accesskey               "d">
 <!ENTITY  bookmarkSelectedTabs.label         "Tabs als Lesezeichen hinzufügen…">
 <!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
@@ -93,7 +97,13 @@ same accesskey but will never be visible at the same time. -->
 <!-- LOCALIZATION NOTE (moveTabOptions.label and moveSelectedTabOptions.label):
 These two items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  moveTabOptions.label               "Tab verschieben">
+<!ENTITY  moveTabOptions.accesskey           "v">
 <!ENTITY  moveSelectedTabOptions.label       "Tabs verschieben">
+<!ENTITY  moveSelectedTabOptions.accesskey   "v">
+<!ENTITY  moveToStart.label                  "An Anfang verschieben">
+<!ENTITY  moveToStart.accesskey              "A">
+<!ENTITY  moveToEnd.label                    "An Ende verschieben">
+<!ENTITY  moveToEnd.accesskey                "E">
 <!ENTITY  moveToNewWindow.label              "In neues Fenster verschieben">
 <!ENTITY  moveToNewWindow.accesskey          "n">
 <!ENTITY  reopenInContainer.label            "In Tab-Umgebung verschieben">
@@ -103,6 +113,7 @@ These two items have the same accesskey but will never be visible at the same ti
 <!ENTITY  bookmarkTab.label                  "Tab als Lesezeichen hinzufügen">
 <!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
+<!ENTITY  bookmarkTab.accesskey              "L">
 <!ENTITY  undoCloseTab.label                 "Geschlossenen Tab wiederherstellen">
 <!ENTITY  undoCloseTab.accesskey             "G">
 <!ENTITY  closeTab.label                     "Tab schließen">
@@ -129,6 +140,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.accesskey "D">
 <!ENTITY printCmd.commandkey "p">
 
+<!ENTITY taskManagerCmd.label "Task-Manager">
 
 <!ENTITY goOfflineCmd.label "Offline arbeiten">
 <!ENTITY goOfflineCmd.accesskey "O">
@@ -149,19 +161,24 @@ when there are no windows but Firefox is still running. -->
 <!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
 toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.reloadSelectedTab.accesskey "d">
 <!ENTITY toolbarContextMenu.reloadSelectedTabs.label "Ausgewählte Tabs neu laden">
 <!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
 toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.reloadSelectedTabs.accesskey "d">
 <!ENTITY toolbarContextMenu.bookmarkSelectedTab.label "Ausgewählten Tab als Lesezeichen hinzufügen …">
 <!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
 toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.bookmarkSelectedTab.accesskey "z">
 <!ENTITY toolbarContextMenu.bookmarkSelectedTabs.label "Ausgewählte Tabs als Lesezeichen hinzufügen …">
 <!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
 toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.accesskey "z">
 <!ENTITY toolbarContextMenu.selectAllTabs.label "Alle Tabs auswählen">
+<!ENTITY toolbarContextMenu.selectAllTabs.accesskey "u">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "Geschlossenen Tab wiederherstellen">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "G">
 
@@ -404,8 +421,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY deleteCmd.key            "D">
 <!ENTITY deleteCmd.accesskey        "L">
 <!ENTITY selectAllCmd.label         "Alles auswählen">
-<!ENTITY selectAllCmd.key         "u">
-<!ENTITY selectAllCmd.accesskey       "m">
+<!ENTITY selectAllCmd.key         "A">
+<!ENTITY selectAllCmd.accesskey       "u">
 <!ENTITY preferencesCmd2.label       "Einstellungen">
 <!ENTITY preferencesCmd2.accesskey     "E">
 <!ENTITY preferencesCmdUnix.label       "Einstellungen">
@@ -497,6 +514,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.manageExtension.accesskey "w">
 
 <!ENTITY customizeMenu.removeExtension.label "Erweiterung entfernen">
+<!ENTITY customizeMenu.removeExtension.accesskey "n">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -989,6 +1007,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This label signals that this type of content blocking is turned
      ON, so this is a positive thing. It forms the verb in (imaginary) sentence
      "Firefox is blocking Slow-Loading Trackers"-->
+<!ENTITY contentBlocking.fastBlock.blocking.label "Blockierend">
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
@@ -1003,6 +1022,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      OFF and is not blocking tracker content, so this is not
      a positive thing. It forms the end of the (imaginary) sentence
      "Trackers [are] Allowed"-->
+<!ENTITY contentBlocking.trackingProtection.allowed.label "Erlaubt">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking tracker content, so this is
@@ -1013,6 +1033,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This label signals that this type of content blocking is turned
      ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
      "Firefox is blocking Trackers"-->
+<!ENTITY contentBlocking.trackingProtection.blocking.label "Blockierend">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
@@ -1031,6 +1052,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This label signals that this type of content blocking is turned
      ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
      "Firefox is blocking Third-Party Cookies"-->
+<!ENTITY contentBlocking.3rdPartyCookies.blocking.label "Blockierend">
 <!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
