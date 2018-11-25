@@ -1017,7 +1017,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.fastBlock.add.label "أضِف نوع حجب…">
 
 <!ENTITY contentBlocking.trackingProtection2.label "كل المتعقّبات المكتشفة">
+
 <!ENTITY contentBlocking.trackingProtection3.label "المتعقّبات">
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.allowed.label):
+     This label signals that this type of content blocking is turned
+     OFF and is not blocking tracker content, so this is not
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Trackers [are] Allowed"-->
+<!ENTITY contentBlocking.trackingProtection.allowed.label "مسموح بها">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking tracker content, so this is
@@ -1053,6 +1060,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.3rdPartyCookies.add.label "أضِف نوع حجب…">
+
+<!ENTITY contentBlocking.manageSettings.label "أدِر حجب المحتوى">
+<!ENTITY contentBlocking.manageSettings.accesskey "د">
+
+<!ENTITY contentBlocking.trackersView.label "المتعقّبات">
+<!ENTITY contentBlocking.trackersView.strictInfo.label "لحجب كل المتعقّبات، اضبط حجب المحتوى على ”صارم“.">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "أبلِغ عن مشكلة">
 <!ENTITY contentBlocking.breakageReportView.label "الإبلاغ عن مشاكل">
