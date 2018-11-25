@@ -18,6 +18,7 @@ policy-BlockAboutProfiles = منع الوصول إلى صفحة about:profiles.
 policy-BlockAboutSupport = منع الوصول إلى صفحة about:support.
 policy-Bookmarks = إنشاء العلامات في شريط العلامات أو في قائمة العلامات أو في مجلد محدّد داخلها.
 policy-Certificates = فيما إذا كان يجب استخدام الشهادات المضمّنة أم لا. تعمل هذه السياسة في وندوز حاليا فقط.
+policy-CertificatesDescription = إضافة الشهادات أو استخدام الشهادات المضمّنة.
 policy-Cookies = السماح للمواقع بضبط الكعكات أو الرفض.
 policy-DisableAppUpdate = منع المتصفح من التحديث.
 policy-DisableBuiltinPDFViewer = تعطيل PDF.js، عارِض ملفات PDF المضمّن في { -brand-short-name }.
@@ -48,8 +49,7 @@ policy-DontCheckDefaultBrowser = تعطيل التحقق من كون المتص�
 policy-EnableTrackingProtection = تفعيل أو تعطيل حجب المحتوى وقفل الخيار إن لزم.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
-# English or translate them as verbs. See also:
-# https://github.com/mozilla/policy-templates/blob/master/README.md#extensions-machine-only
+# English or translate them as verbs.
 policy-Extensions = تثبيت أو إزالة أو قفل حالة الامتدادات. يأخذ خيار التثبيت مسارات محلية أو شبكية كمعطيات. يأخذ خياري الإزالة والقفل معرّفات الامتدادات.
 policy-FlashPlugin = السماح باستخدام ملحقة فلاش أو منع ذلك.
 policy-HardwareAcceleration = إن كان ”خطأ“، عطِّل التسريع العتادي.
@@ -63,9 +63,11 @@ policy-OverridePostUpdatePage = الكتابة على صفحة ”ما الجد�
 policy-Permissions = ضبط تصاريح الكمرة والمِكرفون والمكان والتنبيهات.
 policy-PopupBlocking = السماح لبعض المواقع بعرض المنبثقات مبدئيا.
 policy-Proxy = ضبط إعدادات الوسيط.
+policy-RequestedLocales = ضبط قائمة المحليّات المطلوبة للتطبيق بقائمة مرتّبة.
 policy-SanitizeOnShutdown = مسح كل بيانات التنقّل عند إنهاء المتصفح.
 policy-SearchBar = ضبط المكان المبدئي لشريط البحث. يمكن للمستخدم تخصيصه.
 policy-SearchEngines = ضبط إعدادات محرّك البحث. هذه السياسة متاحة في النسخة ممتدّة الدعم (ESR) لا غير.
-# “format” refers to the format used for the value of this policy. See also:
-# https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
+# For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
+policy-SecurityDevices = تثبيت وحدات PKCS #11.
+# “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = منع زيارة المواقع. طالع التوثيق لتفاصيل أكثر بخصوص النسق.

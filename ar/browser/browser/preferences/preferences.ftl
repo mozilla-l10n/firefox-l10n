@@ -657,6 +657,9 @@ sitedata-cookies-exceptions =
 # in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
 # Cookies and Site Data section.
 sitedata-warning-your-settings-prevent-changes = إعداداتك في خيارات حجب المحتوى تمنع التغييرات على إعدادات الكعكات وبيانات المواقع.
+sitedata-cookies-permissions =
+    .label = أدِر التصاريح
+    .accesskey = ص
 
 ## Privacy Section - Address Bar
 
@@ -677,6 +680,7 @@ addressbar-suggestions-settings = غيّر تفضيلات اقتراحات مح�
 
 content-blocking-header = حجب المحتوى
 content-blocking-desc = احجب المحتوى من الأطراف الثالثة (مثل الإعلانات والنصوص البرمجية) التي تُبطئ من التصفح وتتعقّبك وأنت تجوب الوِب. خصّص الإعدادات لتوازن بين الحماية والأداء.
+content-blocking-description = احجب المحتوى من الأطراف الثالثة والذي يتعقّبك في أرجاء الوِب. تحكّم بمقدار نشاطك الشبكي الذي يُخزّن ويُشارك بين المواقع.
 content-blocking-learn-more = اطّلع على المزيد
 content-blocking-restore-defaults =
     .label = استعد المبدئيات
@@ -697,6 +701,25 @@ content-blocking-fastblock-slow-loading-trackers-label =
     .label = المتعقّبات بطيئة التحميل
     .accesskey = ط
 content-blocking-fastblock-new-description = احجب المتعقّبات التي تمنع تحميل الصفحات بسرعة فحسب.
+content-blocking-setting-standard =
+    .label = قياسي
+    .accesskey = ق
+content-blocking-setting-strict =
+    .label = صارم
+    .accesskey = ص
+content-blocking-setting-custom =
+    .label = مخصّص
+    .accesskey = خ
+content-blocking-standard-desc = الموازنة بين الحماية والأداء. يتيح عمل بعض المتعقّبات لتعمل المواقع كما ينبغي.
+content-blocking-strict-desc = يحجب كل المتعقّبات التي يكتشفها { -brand-short-name }. قد يتسبّب بعطب بعض المواقع.
+content-blocking-custom-desc = اختر ما تريد حجبه.
+content-blocking-private-trackers = المتعقّبات المعروفة فقط في النوافذ الخاصة
+content-blocking-third-party-cookies = الكعكات التعقّبية من الأطراف الثالثة
+content-blocking-all-windows-trackers = المتعقّبات المعروفة في كل النوافذ
+content-blocking-all-third-party-cookies = كل الكعكات من الأطراف الثالثة
+content-blocking-warning-title = كُن على علم!
+content-blocking-warning-desc = حجب الكعكات والمتعقّبات قد يتسبّب بعطب بعض المواقع. من السهل تعطيل الحجب في المواقع التي تثق بها.
+content-blocking-learn-how = اطّلع على الطريقة
 content-blocking-tracking-protection-trackers-label =
     .label = المتعقّبات
     .accesskey = ق
@@ -732,6 +755,9 @@ content-blocking-reject-trackers-block-trackers-option =
 content-blocking-reject-trackers-all-third-parties-option =
     .label = كل كعكات الأطراف الثالثة (قد يتسبب بعطب المواقع)
     .accesskey = ك
+content-blocking-cookies-label =
+    .label = الكعكات
+    .accesskey = ك
 
 ## Privacy Section - Tracking
 
@@ -753,6 +779,9 @@ tracking-exceptions =
 tracking-change-block-list =
     .label = غيّر قائمة الحجب…
     .accesskey = غ
+tracking-manage-exceptions =
+    .label = أدِر الاستثناءات…
+    .accesskey = ث
 
 ## Privacy Section - Permissions
 
