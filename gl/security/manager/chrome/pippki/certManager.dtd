@@ -79,9 +79,11 @@
 <!ENTITY exceptionMgr.exceptionButton.label   "Confirmar excepción de seguranza">
 <!ENTITY exceptionMgr.exceptionButton.accesskey "C">
 <!ENTITY exceptionMgr.supplementalWarning     "A lexitimación de bancos, tendas e outros sitios públicos non requirirá este proceso.">
+<!ENTITY exceptionMgr.certlocation.caption2   "Servidor">
 <!ENTITY exceptionMgr.certlocation.url        "Localización:">
 <!ENTITY exceptionMgr.certlocation.download   "Obter certificado">
 <!ENTITY exceptionMgr.certlocation.accesskey  "O">
+<!ENTITY exceptionMgr.certstatus.caption      "Estado do certificado">
 <!ENTITY exceptionMgr.certstatus.viewCert     "Ver…">
 <!ENTITY exceptionMgr.certstatus.accesskey    "V">
 <!ENTITY exceptionMgr.permanent.label         "Almacenar esta excepción de forma permanente">

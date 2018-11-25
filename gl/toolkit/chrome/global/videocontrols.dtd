@@ -10,6 +10,7 @@
 <!ENTITY fullscreenButton.exitfullscreenlabel "Saír de pantalla completa">
 <!ENTITY castingButton.castingLabel "Enviar á pantalla">
 <!ENTITY closedCaption.off "Desactivado">
+
 <!-- LOCALIZATION NOTE (volumeScrubber.label): This label is exposed to
      accessibility software to clarify what the slider is for. -->
 <!ENTITY volumeScrubber.label "Control de volume">

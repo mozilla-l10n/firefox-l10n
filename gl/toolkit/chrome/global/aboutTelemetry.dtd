@@ -35,6 +35,7 @@ Ping
 <!ENTITY aboutTelemetry.firefoxDataDoc "A <a>documentación dos datos de Firefox</a> contén guías sobre como traballar coas nosas ferramentas de datos.">
 <!ENTITY aboutTelemetry.telemetryClientDoc "A <a>documentación do cliente de telemetría de Firefox</a> inclúe definicións de conceptos, documentación da API e referencias de datos.">
 <!ENTITY aboutTelemetry.telemetryDashboard "Os <a>taboleiros de telemetría</a> permítenlle visualizar os datos que Mozilla recibe a través da telemetría.">
+
 <!ENTITY aboutTelemetry.telemetryProbeDictionary "O <a>dicionario de proba</a> fornece información e descricións de mostras recollidas por telemetría.">
 
 <!ENTITY aboutTelemetry.showInFirefoxJsonViewer "Abrir no visor JSON">

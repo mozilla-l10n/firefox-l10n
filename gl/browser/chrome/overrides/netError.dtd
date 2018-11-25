@@ -12,6 +12,7 @@
 <!ENTITY advanced.label "Avanzado">
 <!ENTITY continue2.label "Máis…">
 <!ENTITY moreInformation.label "Máis información">
+
 <!ENTITY viewCertificate.label "Ver o certificado">
 
 <!-- Specific error messages -->
@@ -123,6 +124,9 @@ will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "O propietario de <span class='hostname'/> configurou incorrectamente o seu sitio web. Para protexer a súa información contra roubos, &brandShortName; non se conectou a este sitio web.">
 <!ENTITY certerror.introPara2 "&brandShortName; detectou unha posible ameaza de seguranza e interrompeu a conexión a <span class='hostname'/>. Se visita este sitio, os atacantes poderían tentar roubar información como os seus contrasinais, correos, ou detalles da tarxeta de crédito.">
+
+<!ENTITY certerror.expiredCert.secondPara "É moi probable que esta incidencia se deba a que o reloxo do seu computador non ten a hora correcta, o que impediría que &brandShortName; se conecte de forma segura.">
+
 <!ENTITY certerror.sts.introPara "&brandShortName; detectou unha posible ameaza de seguranza e interrompeu a conexión a <span class='hostname'/> porque este sitio web require unha conexión segura.">
 
 <!ENTITY certerror.expiredCert.introPara "&brandShortName; detectou unha incidencia e non continuou coa conexión a  <span class='hostname'/>. Ou ben o sitio web está mal configurado ou o reloxo do seu computador non ten a hora correcta.">
