@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "សូម​ស្វាគមន៍">
+<!ENTITY firstrun_panel_title_customize "ប្ដូរ​តាម​បំណង">
 <!ENTITY firstrun_bookmarks_title "ប្រវត្តិ">
 <!ENTITY firstrun_bookmarks_message "ចំណូលចិត្ត​របស់​អ្នក ខាងមុខ និង​កណ្ដាល">
 <!ENTITY firstrun_bookmarks_subtext "ទទួលបាន​លទ្ធផល​ពី​ការ​ចំណាំ​និង​ប្រវត្តិ​ស្វែងរក​របស់​អ្នក នៅ​ពេល​អ្នក​ស្វែងរក​អ្វី​មួយ។">
@@ -72,6 +73,7 @@
 <!ENTITY bookmark_removed "បាន​យក​ចំណាំ​ចេញ">
 <!ENTITY bookmark_updated "បាន​ធ្វើ​បច្ចុប្បន្នភាព​ចំណាំ">
 <!ENTITY bookmark_options "ជម្រើស">
+<!ENTITY bookmark_save "រក្សាទុក">
 <!ENTITY screenshot_added_to_bookmarks "រូបថត​អេក្រង់​បន្ថែម​ទៅ​ក្នុង​ចំណាំ">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
@@ -84,6 +86,8 @@
 <!ENTITY bookmark_folder_items "ធាតុ &formatD;">
 <!ENTITY bookmark_folder_one_item "ធាតុ 1">
 <!ENTITY bookmark_folder_updated "បាន​ធ្វើ​បច្ចុប្បន្នភាព​ថតឯកសារ">
+<!ENTITY bookmark_parent_folder "ថត​មេ">
+<!ENTITY bookmark_add_folder "បន្ថែម​ថត​ថ្មី">
 
 <!ENTITY reader_saved_offline "បាន​រក្សា​ទុក​សម្រាប់​ពេល​គ្មាន​អ៊ីនធឺណិត">
 <!-- Localization note (reader_switch_to_bookmarks) : This
