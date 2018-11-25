@@ -25,5 +25,5 @@
 <!ENTITY colon.character ":">
 <!ENTITY backgroundImage.label "Imagine de fundal:">
 <!ENTITY backgroundImage.accessKey "I">
-<!ENTITY backgroundImage.tooltip "Folosește un fișier de imagine ca fundal al paginii">
+<!ENTITY backgroundImage.tooltip "Folosește un fișier de imagine ca fundal pentru pagină">
 <!ENTITY backgroundImage.shortenedDataURI "Date URI prescurtate (copierea va plasa întregul URI în clipboard)">

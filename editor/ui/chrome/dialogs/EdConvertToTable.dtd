@@ -12,4 +12,4 @@
 <!ENTITY otherRadio.label      "Alt caracter:">
 <!ENTITY deleteCharCheck.label "Șterge caracterul de separare">
 <!ENTITY collapseSpaces.label  "Ignoră spațiile în plus">
-<!ENTITY collapseSpaces.tooltip "Transformă spațiile adiacente într-un singur separator">
+<!ENTITY collapseSpaces.tooltip "Convertește spațiile adiacente într-un singur separator">

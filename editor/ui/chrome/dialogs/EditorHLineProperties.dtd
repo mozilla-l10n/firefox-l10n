@@ -13,11 +13,11 @@
 <!ENTITY widthEditField.accessKey "L">
 <!ENTITY pixelsPopup.value "pixeli">
 <!ENTITY alignmentBox.label "Aliniere">
-<!ENTITY leftRadio.label "Stânga">
+<!ENTITY leftRadio.label "La stânga">
 <!ENTITY leftRadio.accessKey "S">
-<!ENTITY centerRadio.label "Centru">
+<!ENTITY centerRadio.label "La centru">
 <!ENTITY centerRadio.accessKey "C">
-<!ENTITY rightRadio.label "Dreapta">
+<!ENTITY rightRadio.label "La dreapta">
 <!ENTITY rightRadio.accessKey "D">
 
 <!ENTITY threeDShading.label "Umbrire 3-D">

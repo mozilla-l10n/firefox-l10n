@@ -12,11 +12,11 @@
 <!-- These are in the Location tab panel -->
 <!ENTITY locationEditField.label "Locație imagine:">
 <!ENTITY locationEditField.accessKey "L">
-<!ENTITY locationEditField.tooltip "Tastează numele fișierului de imagine sau locația imaginii">
+<!ENTITY locationEditField.tooltip "Tastează numele fișierului sau locația imaginii">
 <!ENTITY locationEditField.shortenedDataURI "Date URI prescurtate (copierea va plasa întregul URI în clipboard)">
 <!ENTITY title.label "Pont unealtă:">
 <!ENTITY title.accessKey "d">
-<!ENTITY title.tooltip "Atribut HTML „title”, care este afișat ca indicație rapidă">
+<!ENTITY title.tooltip "Atribut HTML „title”, care este afișat ca pont de utilizare a uneltelor">
 <!ENTITY altText.label "Text alternativ:">
 <!ENTITY altText.accessKey "a">
 <!ENTITY altTextEditField.tooltip "Tastează textul de afișat în locul imaginii">
@@ -65,7 +65,7 @@
 <!ENTITY borderEditField.accessKey "B">
 
 <!-- These controls are in the Link Box -->
-<!ENTITY showImageLinkBorder.label "Afișează bordură în jurul imaginii cu linkuri">
+<!ENTITY showImageLinkBorder.label "Afișează o bordură în jurul imaginii cu linkuri">
 <!ENTITY showImageLinkBorder.accessKey "A">
 <!ENTITY LinkAdvancedEditButton.label "Editare avansată a linkului…">
 <!ENTITY LinkAdvancedEditButton.accessKey "l">
