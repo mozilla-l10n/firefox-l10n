@@ -20,7 +20,7 @@
 <!ENTITY scale.accesskey     "S">
 <!ENTITY scalePercent        "&#037;">
 
-<!ENTITY shrinkToFit.label   "Micșorează pentru a încăpea în pagină">
+<!ENTITY shrinkToFit.label   "Micșorează pentru încadrare pe lățimea paginii">
 <!ENTITY shrinkToFit.accesskey "M">
 
 <!ENTITY optionsGroup.label  "Opțiuni">
