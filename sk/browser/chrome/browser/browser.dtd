@@ -1065,6 +1065,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.manageSettings.accesskey "S">
 
 <!ENTITY contentBlocking.trackersView.label "Sledovacie prvky">
+<!ENTITY contentBlocking.trackersView.strictInfo.label "Ak chcete blokovať všetky sledovacie prvky, vyberte úroveň „Prísne“.">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Nahlásiť problém">
 <!ENTITY contentBlocking.breakageReportView.label "Nahlásiť problémy">
