@@ -2,12 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutTelemetry.pingDataSource "Sursa datelor privind pingul:">
-<!ENTITY aboutTelemetry.showCurrentPingData "Date actuale privind pingul">
-<!ENTITY aboutTelemetry.showArchivedPingData "Date arhivate privind pingul">
-<!ENTITY aboutTelemetry.showSubsessionData "Arată datele privind subsesiunea">
-<!ENTITY aboutTelemetry.choosePing "Alege pingul:">
-<!ENTITY aboutTelemetry.archivePingType "Tipul pingului">
+<!ENTITY aboutTelemetry.pingDataSource "Sursa datelor de ping:">
+<!ENTITY aboutTelemetry.showCurrentPingData "Date curente de ping">
+<!ENTITY aboutTelemetry.showArchivedPingData "Date arhivate de ping">
+<!ENTITY aboutTelemetry.showSubsessionData "Afișează datele despre subsesiune">
+<!ENTITY aboutTelemetry.choosePing "Alege ping:">
+<!ENTITY aboutTelemetry.archivePingType "Tip de ping">
 <!ENTITY aboutTelemetry.archivePingHeader "Ping">
 <!ENTITY aboutTelemetry.optionGroupToday "Astăzi">
 <!ENTITY aboutTelemetry.optionGroupYesterday "Ieri">
@@ -18,11 +18,12 @@
 <!ENTITY aboutTelemetry.previousPing "&lt;&lt;">
 <!ENTITY aboutTelemetry.nextPing "&gt;&gt;">
 
-<!ENTITY aboutTelemetry.pageTitle "Date telemetrice">
+<!ENTITY aboutTelemetry.pageTitle "Date de telemetrie">
 <!ENTITY aboutTelemetry.moreInformations "Cauți mai multe informații?">
-<!ENTITY aboutTelemetry.firefoxDataDoc "<a>Documentația de date Firefox</a> conține ghiduri despre cum să lucrezi cu instrumentele noastre de date.">
-<!ENTITY aboutTelemetry.telemetryClientDoc "<a>Documentația privind clientul de telemetrie al Firefox</a> include definiții pentru concepte, documentație API și referințe de date.">
+<!ENTITY aboutTelemetry.firefoxDataDoc "<a>Documentația de date Firefox</a> conține ghiduri despre cum să lucrezi cu uneltele noastre de date.">
+<!ENTITY aboutTelemetry.telemetryClientDoc "<a>Documentația privind clientul de telemetrie Firefox</a> include definiții de concepte, documentație API și referințe de date.">
 <!ENTITY aboutTelemetry.telemetryDashboard "<a>Tabloul de bord pentru telemetrie</a> îți permite să vizualizezi datele pe care Mozilla le primește prin intermediul telemetriei.">
+
 
 <!ENTITY aboutTelemetry.showInFirefoxJsonViewer "Deschide în vizualizatorul JSON">
 
