@@ -5,43 +5,57 @@
 permissions-window =
     .title = Ausnahmen
     .style = width: 36em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Adresse der Website:
     .accesskey = d
+
 permissions-block =
     .label = Blockieren
     .accesskey = B
+
 permissions-session =
     .label = Für diese Sitzung erlauben
     .accesskey = F
+
 permissions-allow =
     .label = Erlauben
     .accesskey = E
+
 permissions-site-name =
     .label = Website
+
 permissions-status =
     .label = Status
+
 permissions-remove =
     .label = Website entfernen
     .accesskey = n
+
 permissions-remove-all =
     .label = Alle Websites entfernen
     .accesskey = a
+
 permissions-button-cancel =
     .label = Abbrechen
     .accesskey = r
+
 permissions-button-ok =
     .label = Änderungen speichern
     .accesskey = s
+
 permissions-searchbox =
     .placeholder = Website suchen
+
 permissions-capabilities-allow =
     .label = Erlauben
 permissions-capabilities-block =
     .label = Blockieren
 permissions-capabilities-prompt =
     .label = Immer fragen
+
 permissions-capabilities-listitem-allow =
     .value = Erlauben
 permissions-capabilities-listitem-block =
@@ -62,6 +76,10 @@ permissions-exceptions-tracking-protection-window =
     .title = Ausnahmen - Schutz vor Aktivitätenverfolgung
     .style = { permissions-window.style }
 permissions-exceptions-tracking-protection-desc = Sie haben den Schutz vor Aktivitätenverfolgung auf folgenden Seiten deaktiviert.
+
+permissions-exceptions-content-blocking-window =
+    .title = Ausnahmen - Blockieren von Seitenelementen
+    .style = { permissions-window.style }
 permissions-exceptions-content-blocking-desc = Sie haben das Blockieren von Seitenelementen auf diesen Websites deaktiviert.
 
 ## Exceptions - Cookies
