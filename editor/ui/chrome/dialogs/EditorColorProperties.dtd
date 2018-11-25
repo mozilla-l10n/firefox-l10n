@@ -26,4 +26,4 @@
 <!ENTITY backgroundImage.label "ფონის სურათი:">
 <!ENTITY backgroundImage.accessKey "უ">
 <!ENTITY backgroundImage.tooltip "სურათის ფაილის თქვენი გვერდის ფონად გამოყენება">
-<!ENTITY backgroundImage.shortenedDataURI "შემოკლებული URI მონაცემები (დაკოპირების შედეგად სრული URI ბუფერში)">
+<!ENTITY backgroundImage.shortenedDataURI "შემოკლებული URI მონაცემები (ასლის გაკეთებისას, სრული URI განთავსდება ბუფერში)">

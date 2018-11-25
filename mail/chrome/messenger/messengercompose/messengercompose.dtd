@@ -70,9 +70,9 @@
 <!ENTITY cutCmd.label "ამოჭრა">
 <!ENTITY cutCmd.key "X">
 <!ENTITY cutCmd.accesskey "ჭ">
-<!ENTITY copyCmd.label "კოპირება">
+<!ENTITY copyCmd.label "ასლი">
 <!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "კ">
+<!ENTITY copyCmd.accesskey "ლ">
 <!ENTITY pasteCmd.label "ჩასმა">
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "ს">
@@ -250,7 +250,7 @@
 <!ENTITY spellingButton.tooltip "მონიშნულის ან მთელი წერილის მართლწერის შემოწმება">
 <!ENTITY saveButton.tooltip "წერილის შენახვა">
 <!ENTITY cutButton.tooltip              "ამოჭრა">
-<!ENTITY copyButton.tooltip             "კოპირება">
+<!ENTITY copyButton.tooltip             "ასლი">
 <!ENTITY pasteButton.tooltip            "ჩასმა">
 <!ENTITY printButton.tooltip "ამ შეტყობინების ამობეჭდვა">
 
@@ -307,8 +307,8 @@
 <!ENTITY undo.accesskey "უ">
 <!ENTITY cut.label "ამოჭრა">
 <!ENTITY cut.accesskey "ჭ">
-<!ENTITY copy.label "კოპირება">
-<!ENTITY copy.accesskey "პ">
+<!ENTITY copy.label "ასლი">
+<!ENTITY copy.accesskey "ლ">
 <!ENTITY paste.label "ჩასმა">
 <!ENTITY paste.accesskey "ჩ">
 <!ENTITY pasteQuote.label "ჩასმა ციტირებით">

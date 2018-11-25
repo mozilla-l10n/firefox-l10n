@@ -124,8 +124,8 @@
 <!ENTITY redoDeleteMsgCmd.label "წერილების წაშლის გამეორება">
 <!ENTITY undoMoveMsgCmd.label "წერილების გადატანის გაუქმება">
 <!ENTITY redoMoveMsgCmd.label "წერილების გადატანის გამეორება">
-<!ENTITY undoCopyMsgCmd.label "წერილის კოპირების გაუქმება">
-<!ENTITY redoCopyMsgCmd.label "წერილის კოპირების გამეორება">
+<!ENTITY undoCopyMsgCmd.label "წერილის ასლის გაუქმება">
+<!ENTITY redoCopyMsgCmd.label "ასლის გაკეთების გამეორება">
 <!ENTITY undoMarkAllCmd.label "ყველას წაკითხულად მონიშვნის გაუქმება">
 <!ENTITY redoMarkAllCmd.label "ყველას წაკითხულად მონიშვნის აღდგენა">
 <!ENTITY undoDefaultCmd.label "დაბრუნება">
@@ -382,9 +382,9 @@
 <!ENTITY moveMsgToMenu.accesskey "გ">
 <!ENTITY moveCopyMsgRecentMenu.label "ბოლო">
 <!ENTITY moveCopyMsgRecentMenu.accesskey "ბ">
-<!ENTITY copyMessageLocation.label "წერილის მისამართის კოპირება">
+<!ENTITY copyMessageLocation.label "წერილის მისამართის ასლი">
 <!ENTITY copyMessageLocation.accesskey "მ">
-<!ENTITY copyMsgToMenu.label "კოპირება">
+<!ENTITY copyMsgToMenu.label "ასლი">
 <!ENTITY copyMsgToMenu.accesskey "კ">
 <!ENTITY moveToFolderAgain.label "კვლავ გადატანა">
 <!ENTITY moveToFolderAgain.accesskey "დ">
@@ -795,8 +795,8 @@
 <!ENTITY contextMoveMsgMenu.accesskey "ტ">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "ბოლო">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "ბ">
-<!ENTITY contextCopyMsgMenu.label "კოპირება">
-<!ENTITY contextCopyMsgMenu.accesskey "კ">
+<!ENTITY contextCopyMsgMenu.label "ასლი –">
+<!ENTITY contextCopyMsgMenu.accesskey "ლ">
 <!ENTITY contextKillThreadMenu.label "მიმოწერის უგულებელყოფა">
 <!ENTITY contextKillSubthreadMenu.accesskey "ი">
 <!ENTITY contextKillThreadMenu.accesskey "უ">
@@ -913,12 +913,12 @@
 <!ENTITY SubscribeToNewsgroup.accesskey "ს">
 <!ENTITY SendMessageTo.label "წერილის შექმნა -">
 <!ENTITY SendMessageTo.accesskey "შ">
-<!ENTITY CopyEmailAddress.label "ელფოსტის მისამართის კოპირება">
-<!ENTITY CopyEmailAddress.accesskey "კ">
-<!ENTITY CopyNameAndEmailAddress.label "სახელისა და ელფოსტის მისამართის დაკოპირება">
+<!ENTITY CopyEmailAddress.label "ელფოსტის მისამართის ასლი">
+<!ENTITY CopyEmailAddress.accesskey "ლ">
+<!ENTITY CopyNameAndEmailAddress.label "სახელისა და ელფოსტის მისამართის ასლი">
 <!ENTITY CopyNameAndEmailAddress.accesskey "ს">
-<!ENTITY CopyNewsgroupName.label "სიახლეთა ჯგუფის სახელის კოპირება">
-<!ENTITY CopyNewsgroupName.accesskey "კ">
+<!ENTITY CopyNewsgroupName.label "სიახლეთა ჯგუფის სახელის ასლი">
+<!ENTITY CopyNewsgroupName.accesskey "ლ">
 <!ENTITY CopyNewsgroupURL.label "სიახლეთა ჯგუფის URL-ს ასლი">
 <!ENTITY CopyNewsgroupURL.accesskey "U">
 <!ENTITY CreateFilterFrom.label "ფილტრის შექმნა წერილიდან…">

@@ -7,8 +7,8 @@
 <!ENTITY activeColumn.label "ჩართვა">
 <!ENTITY newButton.label "ახალი…">
 <!ENTITY newButton.accesskey "ა">
-<!ENTITY newButton.popupCopy.label "დაკოპირება…">
-<!ENTITY newButton.popupCopy.accesskey "კ">
+<!ENTITY newButton.popupCopy.label "ასლი…">
+<!ENTITY newButton.popupCopy.accesskey "ლ">
 <!ENTITY editButton.label "ჩასწორება…">
 <!ENTITY editButton.accesskey "ჩ">
 <!ENTITY deleteButton.label "წაშლა">

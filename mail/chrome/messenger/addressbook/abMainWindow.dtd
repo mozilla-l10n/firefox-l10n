@@ -53,9 +53,9 @@
 <!ENTITY cutCmd.label                                   "ამოჭრა">
 <!ENTITY cutCmd.key                                     "X">
 <!ENTITY cutCmd.accesskey                               "ო">
-<!ENTITY copyCmd.label                                  "კოპირება">
+<!ENTITY copyCmd.label                                  "ასლი">
 <!ENTITY copyCmd.key                                    "C">
-<!ENTITY copyCmd.accesskey                              "პ">
+<!ENTITY copyCmd.accesskey                              "ლ">
 <!ENTITY pasteCmd.label                                 "ჩასმა">
 <!ENTITY pasteCmd.key                                   "V">
 <!ENTITY pasteCmd.accesskey                             "ჩ">

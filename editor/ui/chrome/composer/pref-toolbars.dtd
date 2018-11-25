@@ -12,7 +12,7 @@
 <!ENTITY publish.label          "გამოქვეყნება">
 <!ENTITY preview.label          "ნუსხა">
 <!ENTITY cut.label              "ამოჭრა">
-<!ENTITY copy.label             "კოპირება">
+<!ENTITY copy.label             "ასლი">
 <!ENTITY paste.label            "ჩასმა">
 <!ENTITY print.label            "ბეჭდვა">
 <!ENTITY find.label             "ძებნა">
