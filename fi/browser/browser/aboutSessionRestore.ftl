@@ -2,12 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-restore-page-tab-title = Palauta istunto
+restore-page-tab-title = Istunnon palauttaminen
 # The title is intended to be apologetic and disarming, expressing dismay
 # and regret that we are unable to restore the session for the user
 restore-page-error-title = Sivujasi ei oikein saada palautettua.
 restore-page-problem-desc = Viime selausistunnon palauttamisessa on ongelmia. Yritä uudestaan valitsemalla Palauta istunto.
-restore-page-try-this = Etkö vieläkään pysty palauttamaan istuntoa? Joskus yksittäinen välilehti voi aiheuttaa ongelman. Katsele aiempia välilehtiä, poista valinta tarpeettomista välilehdistä ja palauta sitten.
+restore-page-try-this = Eikö istunnon palauttaminen onnistu vieläkään? Joskus yksittäinen välilehti voi aiheuttaa ongelman. Katsele aiempia välilehtiä, poista valinta tarpeettomista välilehdistä ja palauta sitten.
 restore-page-hide-tabs = Piilota aiemmat välilehdet
 restore-page-show-tabs = Näytä aiemmat välilehdet
 # When tabs are distributed across multiple windows, this message is used as a
