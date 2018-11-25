@@ -751,7 +751,7 @@ content-blocking-reject-trackers-all-third-parties-option =
     .accesskey = о
 content-blocking-cookies-label =
     .label = Куки
-    .accesskey = к
+    .accesskey = и
 
 ## Privacy Section - Tracking
 
