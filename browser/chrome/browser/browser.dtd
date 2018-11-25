@@ -1009,7 +1009,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This label signals that this type of content blocking is turned
      ON, so this is a positive thing. It forms the verb in (imaginary) sentence
      "Firefox is blocking Slow-Loading Trackers"-->
-<!ENTITY contentBlocking.fastBlock.blocking.label "Блокирует">
+<!ENTITY contentBlocking.fastBlock.blocking.label "Блокируются">
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
@@ -1017,7 +1017,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.fastBlock.add.label "Добавить блокировку…">
 
 <!ENTITY contentBlocking.trackingProtection2.label "Все обнаруженные трекеры">
+
 <!ENTITY contentBlocking.trackingProtection3.label "Трекеры">
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.allowed.label):
+     This label signals that this type of content blocking is turned
+     OFF and is not blocking tracker content, so this is not
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Trackers [are] Allowed"-->
+<!ENTITY contentBlocking.trackingProtection.allowed.label "Разрешены">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking tracker content, so this is
@@ -1028,7 +1035,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This label signals that this type of content blocking is turned
      ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
      "Firefox is blocking Trackers"-->
-<!ENTITY contentBlocking.trackingProtection.blocking.label "Блокирует">
+<!ENTITY contentBlocking.trackingProtection.blocking.label "Блокируются">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
@@ -1047,12 +1054,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This label signals that this type of content blocking is turned
      ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
      "Firefox is blocking Third-Party Cookies"-->
-<!ENTITY contentBlocking.3rdPartyCookies.blocking.label "Блокирует">
+<!ENTITY contentBlocking.3rdPartyCookies.blocking.label "Блокируются">
 <!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.3rdPartyCookies.add.label "Добавить блокировку…">
+
+<!ENTITY contentBlocking.manageSettings.label "Управление блокировкой содержимого">
+<!ENTITY contentBlocking.manageSettings.accesskey "п">
+
+<!ENTITY contentBlocking.trackersView.label "Трекеры">
+<!ENTITY contentBlocking.trackersView.strictInfo.label "Чтобы блокировать все трекеры, выберите «строгую» блокировку содержимого.">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Сообщить о проблеме">
 <!ENTITY contentBlocking.breakageReportView.label "Сообщить о проблеме">
