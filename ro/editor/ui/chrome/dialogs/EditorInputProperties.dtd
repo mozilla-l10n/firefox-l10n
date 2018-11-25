@@ -41,9 +41,9 @@
 <!ENTITY TextSize.accesskey "M">
 <!ENTITY TextLength.label "Lungime maximă:">
 <!ENTITY TextLength.accesskey "L">
-<!ENTITY AccessKey.label "Tastă acces:">
+<!ENTITY AccessKey.label "Tastă de acces:">
 <!ENTITY AccessKey.accesskey "a">
-<!ENTITY Accept.label "Tipuri acceptate:">
+<!ENTITY Accept.label "Acceptă tipurile:">
 <!ENTITY Accept.accesskey "p">
 
 <!ENTITY ImageProperties.label "Proprietăți imagine…">

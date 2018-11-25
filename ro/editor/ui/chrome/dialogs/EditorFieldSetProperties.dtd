@@ -12,9 +12,9 @@
 <!ENTITY LegendAlign.label "Aliniază legenda:">
 <!ENTITY LegendAlign.accesskey "A">
 <!ENTITY AlignDefault.label "Implicit">
-<!ENTITY AlignLeft.label "Stânga">
-<!ENTITY AlignCenter.label "Centru">
-<!ENTITY AlignRight.label "Dreapta">
+<!ENTITY AlignLeft.label "La stânga">
+<!ENTITY AlignCenter.label "La centru">
+<!ENTITY AlignRight.label "La dreapta">
 
 <!ENTITY RemoveFieldSet.label "Elimină setul de câmpuri">
 <!ENTITY RemoveFieldSet.accesskey "E">

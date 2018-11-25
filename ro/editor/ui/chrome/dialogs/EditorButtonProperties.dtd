@@ -20,7 +20,7 @@
 <!ENTITY tabIndex.accesskey "I">
 <!ENTITY ButtonDisabled.label "Dezactivat">
 <!ENTITY ButtonDisabled.accesskey "D">
-<!ENTITY AccessKey.label "Tastă acces:">
+<!ENTITY AccessKey.label "Tastă de acces:">
 <!ENTITY AccessKey.accesskey "a">
 
 <!ENTITY RemoveButton.label "Elimină butonul">

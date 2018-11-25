@@ -11,7 +11,7 @@
 <!ENTITY EditLabelText.accesskey "t">
 <!ENTITY LabelFor.label "Pentru comanda:">
 <!ENTITY LabelFor.accesskey "c">
-<!ENTITY AccessKey.label "Tastă acces:">
+<!ENTITY AccessKey.label "Tastă de acces:">
 <!ENTITY AccessKey.accesskey "a">
 
 <!ENTITY RemoveLabel.label "Elimină etichetă">
