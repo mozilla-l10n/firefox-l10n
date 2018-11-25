@@ -15,6 +15,14 @@ findbar-highlight-all =
     .label = Marker alt
     .accesskey = M
     .tooltiptext = Markerer alle forekomster av teksten
+findbar-highlight-all2 =
+    .label = Marker alt
+    .accesskey =
+        { PLATFORM() ->
+            [macos] l
+           *[other] a
+        }
+    .tooltiptext = Marker alle forekomster av teksten
 findbar-case-sensitive =
     .label = Skill mellom store/små bokstaver
     .accesskey = k
