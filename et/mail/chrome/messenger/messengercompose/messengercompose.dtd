@@ -94,14 +94,13 @@
      as attachments.accesskey. -->
 <!ENTITY toggleAttachmentPaneCmd.accesskey "M">
 <!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
-     With OS-specific access modifier, this defines the shortcut key for showing/
-     hiding/minimizing the attachment pane, e.g. Alt+M on Windows.
-     toggleAttachmentPaneCmd.key and attachments.accesskey must be the same
-     for the bucket view state machinery to work. -->
+     As Mac does not have access keys, this key defines a Mac-only, cross-l10n
+     shortcut key (Ctrl+M). Typically, this key should not be translated unless
+     otherwise required by specific needs of the localization. -->
 <!ENTITY toggleAttachmentPaneCmd.key "m">
 <!ENTITY selectAllCmd.label "Vali kõik">
-<!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "i">
+<!ENTITY selectAllCmd.key "A">
 <!ENTITY findBarCmd.label "Otsi…">
 <!ENTITY findBarCmd.accesskey "O">
 <!ENTITY findBarCmd.key "F">
@@ -247,7 +246,6 @@
 <!ENTITY sendlaterButton.tooltip "Saada kiri hiljem">
 <!ENTITY quoteButton.tooltip "Tsiteeri eelnevat kirja">
 <!ENTITY addressButton.tooltip "Vali kirja saaja aadressiraamatust">
-<!ENTITY attachButton.tooltip "Lisa manus">
 <!ENTITY attachButton.tooltip2 "Lisa manus">
 <!ENTITY spellingButton.tooltip "Kontrolli valiku või terve kirja õigekirja">
 <!ENTITY saveButton.tooltip "Salvesta see kiri">
@@ -271,11 +269,12 @@
 <!ENTITY subject.label "Teema:">
 <!ENTITY subject.accesskey "e">
 <!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
-     be taken from the strings in attachmentCount in composeMsgs.properties,
-     and it must be the same as toggleAttachmentPaneCmd.key, otherwise it won't
-     work, as the shortcut key functionality supersedes the access key. -->
+     be taken from the strings of attachmentCount in composeMsgs.properties.
+     Please ensure that this access key is unique: Do not duplicate any other
+     first-level access keys of the compose window, e.g. those of main menu,
+     buttons, or labels (message headers, contacts side bar, attachment reminder
+     bar). -->
 <!ENTITY attachments.accesskey "M">
-
 <!ENTITY attachmentBucketHeader.tooltip "Manuste paneel">
 <!ENTITY attachmentBucketCloseButton.tooltip "Peida manuste paneel">
 
@@ -360,6 +359,9 @@
 <!-- Identity popup customize menuitem -->
 <!ENTITY customizeFromAddress.label "Kohanda saatja aadressi…">
 <!ENTITY customizeFromAddress.accesskey "a">
+
+<!-- Accessibility name for the document -->
+<!ENTITY aria.message.bodyName "Kirja sisu">
 
 <!-- Status Bar -->
 <!ENTITY languageStatusButton.tooltip "Kontrolli õigekirja">
