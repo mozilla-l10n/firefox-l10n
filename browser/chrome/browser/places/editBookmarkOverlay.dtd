@@ -6,6 +6,10 @@
 <!ENTITY editBookmarkOverlay.name.accesskey                  "N">
 <!ENTITY editBookmarkOverlay.location.label                  "Localización:">
 <!ENTITY editBookmarkOverlay.location.accesskey              "L">
+<!ENTITY editBookmarkOverlay.feedLocation.label              "Enderezo da fonte:">
+<!ENTITY editBookmarkOverlay.feedLocation.accesskey          "f">
+<!ENTITY editBookmarkOverlay.siteLocation.label              "Enderezo do sitio:">
+<!ENTITY editBookmarkOverlay.siteLocation.accesskey          "s">
 <!ENTITY editBookmarkOverlay.folder.label                    "Cartafol:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Amosar todos os cartafoles de marcadores">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Agochar">

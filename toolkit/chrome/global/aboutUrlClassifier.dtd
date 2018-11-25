@@ -1,0 +1,33 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- LOCALIZATION NOTE the term "url-classifier" should not be translated. -->
+<!ENTITY aboutUrlClassifier.title                       "Información sobre o clasificador de URL">
+<!ENTITY aboutUrlClassifier.providerTitle               "Fornecedor">
+<!ENTITY aboutUrlClassifier.provider                    "Fornecedor">
+<!ENTITY aboutUrlClassifier.providerLastUpdateTime      "Última actualización">
+<!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Próxima actualización">
+<!ENTITY aboutUrlClassifier.providerBackOffTime         "Tempo de interrupción">
+<!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Estado da última actualización">
+<!ENTITY aboutUrlClassifier.providerUpdateBtn           "Actualizar">
+<!ENTITY aboutUrlClassifier.cacheTitle                  "Caché">
+<!ENTITY aboutUrlClassifier.cacheRefreshBtn             "Actualizar">
+<!ENTITY aboutUrlClassifier.cacheClearBtn               "Borrar">
+<!ENTITY aboutUrlClassifier.cacheTableName              "Nome da táboa">
+<!ENTITY aboutUrlClassifier.cacheNCacheEntries          "Número de entradas negativas de caché">
+<!ENTITY aboutUrlClassifier.cachePCacheEntries          "Número de entradas positivas de caché">
+<!ENTITY aboutUrlClassifier.cacheShowEntries            "Amosar as entradas">
+<!ENTITY aboutUrlClassifier.cacheEntries                "Entradas de caché">
+<!ENTITY aboutUrlClassifier.cachePrefix                 "Prefixo">
+<!ENTITY aboutUrlClassifier.cacheNCacheExpiry           "Caducidade de caché negativa">
+<!ENTITY aboutUrlClassifier.cacheFullhash               "Hash completo">
+<!ENTITY aboutUrlClassifier.cachePCacheExpiry           "Caducidade da caché positiva">
+<!ENTITY aboutUrlClassifier.debugTitle                  "Depurar">
+<!ENTITY aboutUrlClassifier.debugModuleBtn              "Estabelecer módulos de rexistro">
+<!ENTITY aboutUrlClassifier.debugFileBtn                "Estabelecer un ficheiro de rexistro">
+<!ENTITY aboutUrlClassifier.debugJSLogChk               "Estabelecer o rexistro JS">
+<!ENTITY aboutUrlClassifier.debugSBModules              "Módulos de rexistro da navegación segura">
+<!ENTITY aboutUrlClassifier.debugModules                "Módulos actuais do rexistro">
+<!ENTITY aboutUrlClassifier.debugSBJSModules            "Rexistro JS da navegación segura">
+<!ENTITY aboutUrlClassifier.debugFile                   "Ficheiro actual do rexistro">

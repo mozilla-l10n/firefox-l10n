@@ -9,6 +9,8 @@
 <!ENTITY refreshProfile.label         "Actualizar &brandShortName;">
 
 <!ENTITY safeModeDescription3.label   "O modo seguro é un modo especial do &brandShortName; que pode usarse para solucionar problemas.">
+<!ENTITY safeModeDescription4.label   "Temporalmente desactiváronse os complementos e a súa configuración persoal.">
+
 <!ENTITY safeModeDescription5.label   "Temporalmente desactiváronse os complementos e a súa configuración persoal, e algunhas funcionalidades de &brandShortName; poderían non funcionar como o fan normalmente.">
 
 <!ENTITY refreshProfileInstead.label  "Tamén pode ignorar a solución de problemas e tentar refrescar &brandShortName;.">

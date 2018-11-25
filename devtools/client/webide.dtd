@@ -40,6 +40,7 @@
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "P">
 <!ENTITY runtimeMenu_showSettings_label "Configuración do dispositivo">
 <!ENTITY runtimeMenu_showSettings_accesskey "s">
+
 <!ENTITY runtimeMenu_showPerformancePanel_label "Rendemento">
 <!ENTITY runtimeMenu_showPerformancePanel_accesskey "R">
 
@@ -76,6 +77,7 @@
 <!ENTITY runtimePanel_usb "Dispositivos USB">
 <!ENTITY runtimePanel_wifi "Dispositivos Wi-Fi">
 <!ENTITY runtimePanel_other "Outros">
+<!ENTITY runtimePanel_noadbhelper "Instalar ADB Helper">
 <!ENTITY runtimePanel_nousbdevice "Non é posíbel ver o seu dispositivo?">
 <!ENTITY runtimePanel_refreshDevices_label "Actualizar dispositivos">
 
@@ -118,6 +120,12 @@
 
 <!-- Runtime Details -->
 <!ENTITY runtimedetails_title "Información do tempo de execución">
+<!ENTITY runtimedetails_adbIsRoot "ADB ten permisos de administración:">
+<!ENTITY runtimedetails_summonADBRoot "dispositivo con permisos de administración">
+<!ENTITY runtimedetails_ADBRootWarning "(require un cargador de arrinque ou bootloader desbloqueado)">
+<!ENTITY runtimedetails_unrestrictedPrivileges "Permisos non restrinxidos de DevTools:">
+<!ENTITY runtimedetails_requestPrivileges "solicita máis permisos">
+<!ENTITY runtimedetails_privilegesWarning "(Reiniciarase o dispositivo. Require permisos de administrador.)">
 
 <!-- Device Preferences and Settings -->
 <!ENTITY device_typeboolean "Booleano">
