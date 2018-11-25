@@ -157,7 +157,7 @@ was trying to connect. -->
 <!ENTITY certerror.sts.pagetitle  "Ur yeqqin ara: Yezmer ad yili ugur n teɣlist">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Asmel-agi iseqdac HTTP n tɣellist n umesni ufrin (HSTS) iwakken ad yebgen i &brandShortName; akken ad yeqqen kan s tɣeliist. Ihi, d awezɣi timerna n tsureft i uselkin-agi.">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> ɣur-s tasertit n tɣellist HTTP Strict Transport Security (HSTS), ay-agi yemmal-d d akken &brandShortName; izmer kan ad iqqen ɣur-s s tɣellist. Ur tezmireḍ ara ad ternuḍ tasureft akken ad twaliḍ asmel-agi.">
-<!ENTITY certerror.copyToClipboard.label "Nɣel aḍris ɣef affus">
+<!ENTITY certerror.copyToClipboard.label "Nɣel aḍris ɣef afus">
 
 <!ENTITY inadequateSecurityError.title "Tuqqna-inek d taraɣelsant">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
