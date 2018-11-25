@@ -15,6 +15,14 @@ findbar-highlight-all =
     .label = Барлығын түспен ерекшелеу
     .accesskey = л
     .tooltiptext = Осы сөздердің мәтіннен барлық кездесулерін түспен ерекшелеу
+findbar-highlight-all2 =
+    .label = Барлығын түспен ерекшелеу
+    .accesskey =
+        { PLATFORM() ->
+            [macos] л
+           *[other] а
+        }
+    .tooltiptext = Сөз тіркесінің барлық кездесулерін түспен ерекшелеу
 findbar-case-sensitive =
     .label = Регистрді ескеру
     .accesskey = и
