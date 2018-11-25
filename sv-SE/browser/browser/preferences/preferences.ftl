@@ -649,8 +649,8 @@ sitedata-cookies-exceptions =
 # Cookies and Site Data section.
 sitedata-warning-your-settings-prevent-changes = Dina inställningar i innehållsblockering hindrar ändringar i inställningar för kakor och webbplatsdata.
 sitedata-cookies-permissions =
-    .label = Hantera tillåtelser...
-    .accesskey = t
+    .label = Hantera behörigheter...
+    .accesskey = b
 
 ## Privacy Section - Address Bar
 
@@ -694,14 +694,22 @@ content-blocking-fastblock-slow-loading-trackers-label =
 content-blocking-fastblock-new-description = Blockera endast trackers som gör sidor långsammare.
 content-blocking-setting-standard =
     .label = Standard
-    .accesskey = d
+    .accesskey = S
 content-blocking-setting-strict =
     .label = Strikt
-    .accesskey = r
+    .accesskey = S
 content-blocking-setting-custom =
     .label = Anpassad
-    .accesskey = C
+    .accesskey = A
+content-blocking-standard-desc = Balanserad för skydd och prestanda. Tillåter vissa trackers så att webbplatser fungerar korrekt.
+content-blocking-strict-desc = Blockerar alla trackers { -brand-short-name } detekterar. Det kan begränsa funktionaliteten hos vissa webbplatser.
 content-blocking-custom-desc = Välj vad du vill blockera.
+content-blocking-private-trackers = Kända trackers endast i privata fönster
+content-blocking-third-party-cookies = Spårningskakor från tredje part
+content-blocking-all-windows-trackers = Kända trackers i alla fönster
+content-blocking-all-third-party-cookies = Alla kakor från tredje part
+content-blocking-warning-title = Se upp!
+content-blocking-warning-desc = Att blockera kakor och trackers kan begränsa funktionaliteten hos vissa webbplatser. Det är enkelt att inaktivera blockering för webbplatser du litar på.
 content-blocking-learn-how = Lär dig hur
 content-blocking-tracking-protection-trackers-label =
     .label = Trackers
@@ -740,7 +748,7 @@ content-blocking-reject-trackers-all-third-parties-option =
     .accesskey = A
 content-blocking-cookies-label =
     .label = Kakor
-    .accesskey = C
+    .accesskey = K
 
 ## Privacy Section - Tracking
 
@@ -763,8 +771,8 @@ tracking-change-block-list =
     .label = Ändra blockeringslista…
     .accesskey = n
 tracking-manage-exceptions =
-    .label = Hantera undantag
-    .accesskey = x
+    .label = Hantera undantag…
+    .accesskey = n
 
 ## Privacy Section - Permissions
 
