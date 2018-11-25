@@ -10,9 +10,10 @@
 <!ENTITY returnToPreviousPage.label "Gå tilbake">
 <!ENTITY returnToPreviousPage1.label "Gå tilbake (Anbefalt)">
 <!ENTITY advanced.label "Avansert">
-
 <!ENTITY continue2.label "Mer…">
 <!ENTITY moreInformation.label "Mer informasjon">
+
+<!ENTITY viewCertificate.label "Vis sertifikat">
 
 <!-- Specific error messages -->
 
@@ -98,14 +99,17 @@
 
 <!ENTITY certerror.longpagetitle1 "Tilkoblingen din er ikke sikker">
 <!ENTITY certerror.longpagetitle2 "Advarsel: Potensiell sikkerhetsrisiko forut">
+<!ENTITY certerror.sts.longpagetitle  "Koblet ikke til: Potensielt sikkerhetsproblem">
 <!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Eieren av <span class='hostname'/> har konfigurert nettstedet sitt feil.  For å beskytte mot at informasjon stjeles, har &brandShortName; ikke koblet til dette nettstedet.">
-
 <!ENTITY certerror.introPara2 "&brandShortName; oppdaget en potensiell sikkerhetstrussel og fortsatte ikke til <span class='hostname'/>. Hvis du besøker dette nettstedet, kan angriperne prøve å stjele informasjon som passord, e-post eller kredittkortdetaljer.">
 
 <!ENTITY certerror.expiredCert.secondPara "Dette problemet er mest sannsynlig fordi datamaskinens klokke er satt til feil tid, noe som ville forhindre &brandShortName; fra å koble til sikkert.">
+
+<!ENTITY certerror.sts.introPara "&brandShortName; oppdaget en potensiell sikkerhetstrussel og fortsatte ikke til <span class='hostname'/> fordi dette nettstedet krever en sikker tilkobling.">
+
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Hva kan du gjøre med det?">
 
@@ -133,7 +137,6 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Lag et unntak …">
-
 <!ENTITY securityOverride.exceptionButton1Label "Godta risikoen og fortsett">
 
 <!ENTITY errorReporting.automatic2 "Rapporter feil som dette for å hjelpe Mozilla med å identifisere og blokkere skadelige nettsteder.">
@@ -171,3 +174,4 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "Det ser ut til at nettverkets sikkerhetsinnstillinger kan være årsak til dette. Vil du tilbakestille til standardinnstillinger?">
 <!ENTITY prefReset.label "Gjenopprett standardinnstillinger">
+
