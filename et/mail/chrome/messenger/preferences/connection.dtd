@@ -45,3 +45,11 @@
 <!ENTITY  autologinproxy.tooltip        "Selle valiku korral autenditakse sind automaatselt puhverserveritega, mille parool on salvestatud. Parooli küsitakse juhul, kui autentimine ebaõnnestub.">
 <!ENTITY  socksRemoteDNS.label          "Puhverserveri DNS, kui kasutusel on SOCKS v5">
 <!ENTITY  socksRemoteDNS.accesskey      "D">
+<!ENTITY  dnsOverHttps.label            "Lubatakse DNS üle HTTPSi">
+<!ENTITY  dnsOverHttps.accesskey        "D">
+<!ENTITY  dnsOverHttpsUrl.label         "URL">
+<!ENTITY  dnsOverHttpsUrl.accesskey     "U">
+<!ENTITY  dnsOverHttpsUrl.tooltip       "Üle HTTPSi toimiva nimelahenduse jaoks kasutatav URL">
+<!ENTITY  dnsOverHttpsUrlDefault.label     "kasutatakse vaikeaadressi">
+<!ENTITY  dnsOverHttpsUrlDefault.accesskey "t">
+<!ENTITY  dnsOverHttpsUrlDefault.tooltip   "Kasuta üle HTTPSi töötava DNSi puhul vaikeaadressi">

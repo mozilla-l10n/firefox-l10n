@@ -20,6 +20,10 @@
 <!ENTITY font.accesskey                       "n">
 <!ENTITY size.label                           "Suurus:">
 <!ENTITY size.accesskey                       "r">
+<!ENTITY fontSize.label                       "Suurus:">
+<!ENTITY fontSize.accesskey                   "u">
+<!ENTITY useReaderDefaults.label              "Kasutatakse kuvamise vaikevärve">
+<!ENTITY useReaderDefaults.accesskey          "v">
 <!ENTITY fontColor.label                      "Teksti värv:">
 <!ENTITY fontColor.accesskey                  "k">
 <!ENTITY bgColor.label                        "Taustavärv:">
