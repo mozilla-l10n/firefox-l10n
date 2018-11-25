@@ -142,6 +142,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.accesskey "u">
 <!ENTITY printCmd.commandkey "p">
 
+<!ENTITY taskManagerCmd.label "Aktivitetsbehandler">
 
 <!ENTITY goOfflineCmd.label "Arbeid frakoblet">
 <!ENTITY goOfflineCmd.accesskey "r">
@@ -168,12 +169,16 @@ same accesskey but will never be visible at the same time. -->
 toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
 <!ENTITY toolbarContextMenu.reloadSelectedTabs.accesskey "O">
+<!ENTITY toolbarContextMenu.bookmarkSelectedTab.label "Bokmerk valgt fane…">
 <!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
 toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.bookmarkSelectedTab.accesskey "t">
+<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.label "Bokmerk valgte faner…">
 <!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
 toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.accesskey "t">
 <!ENTITY toolbarContextMenu.selectAllTabs.label "Velg alle faner">
 <!ENTITY toolbarContextMenu.selectAllTabs.accesskey "V">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "Angre lukking av fane">
@@ -1004,6 +1009,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This label signals that this type of content blocking is turned
      ON, so this is a positive thing. It forms the verb in (imaginary) sentence
      "Firefox is blocking Slow-Loading Trackers"-->
+<!ENTITY contentBlocking.fastBlock.blocking.label "Blokkerer">
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
@@ -1011,7 +1017,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.fastBlock.add.label "Legg til blokkering…">
 
 <!ENTITY contentBlocking.trackingProtection2.label "Alle oppdagede sporere">
+
 <!ENTITY contentBlocking.trackingProtection3.label "Sporere">
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.allowed.label):
+     This label signals that this type of content blocking is turned
+     OFF and is not blocking tracker content, so this is not
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Trackers [are] Allowed"-->
+<!ENTITY contentBlocking.trackingProtection.allowed.label "Tillatt">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking tracker content, so this is
@@ -1022,6 +1035,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This label signals that this type of content blocking is turned
      ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
      "Firefox is blocking Trackers"-->
+<!ENTITY contentBlocking.trackingProtection.blocking.label "Blokkerer">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
@@ -1029,6 +1043,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackingProtection.add.label "Legg til blokkering…">
 
 <!ENTITY contentBlocking.3rdPartyCookies.label "Tredjeparts-infokapsler">
+<!ENTITY contentBlocking.3rdPartyCookies.trackers.label "Sporingsinfokapsler">
 <!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking third-party cookies, so this is
@@ -1039,11 +1054,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This label signals that this type of content blocking is turned
      ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
      "Firefox is blocking Third-Party Cookies"-->
+<!ENTITY contentBlocking.3rdPartyCookies.blocking.label "Blokkerer">
 <!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.3rdPartyCookies.add.label "Legg til blokkering…">
+
+<!ENTITY contentBlocking.manageSettings.label "Behandle innholdsblokkering">
+<!ENTITY contentBlocking.manageSettings.accesskey "n">
+
+<!ENTITY contentBlocking.trackersView.label "Sporere">
+<!ENTITY contentBlocking.trackersView.strictInfo.label "For å blokkere alle sporere, sett innholdsblokkering til «Streng».">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Rapporter et problem">
 <!ENTITY contentBlocking.breakageReportView.label "Rapporter problemer">

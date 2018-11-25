@@ -19,6 +19,7 @@ newsletter-message = Get developer news, tricks and resources sent straight to y
 newsletter-email-placeholder =
     .placeholder = Email
 newsletter-privacy-label = I’m okay with Mozilla handling my info as explained in this <a data-l10n-name="privacy-policy">Privacy Policy</a>.
+newsletter-subscribe-button = Subscribe
 newsletter-thanks-title = Thanks!
 newsletter-thanks-message = If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
 footer-title = Firefox Developer Edition
