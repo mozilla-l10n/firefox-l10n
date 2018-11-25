@@ -36,6 +36,12 @@
 <!ENTITY newFeedAccountCmd.accesskey "U">
 <!ENTITY newIMContactCmd.label "Kiirsuhtluse kontakt…">
 <!ENTITY newIMContactCmd.accesskey "n">
+<!ENTITY  newMessageCmd2.key "N">
+<!ENTITY  newMessageCmd.key "M">
+<!ENTITY  newMessageCmd.label "Kiri">
+<!ENTITY  newMessageCmd.accesskey "K">
+<!ENTITY  newContactCmd.label "Aadressiraamatu kontakt…">
+<!ENTITY  newContactCmd.accesskey "o">
 <!ENTITY openMessageFileCmd.label "Ava salvestatud kiri…">
 <!ENTITY openMessageFileCmd.accesskey "i">
 <!ENTITY saveAsMenu.label "Salvesta kui">
@@ -437,6 +443,9 @@
 <!ENTITY openConversationCmd.label "Ava vestlusena">
 <!ENTITY openConversationCmd.accesskey "n">
 <!ENTITY openConversationCmd.key "o">
+<!ENTITY openInConversationCmd.label "Ava vestlusena">
+<!ENTITY openInConversationCmd.accesskey "v">
+<!ENTITY openInConversationCmd.key "o">
 <!ENTITY openAttachmentListCmd.label "Manused">
 <!ENTITY openAttachmentListCmd.accesskey "M">
 <!ENTITY openFeedMessage1.label "Uudistevoo sõnumi avamisel">
@@ -643,6 +652,7 @@
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Tõmba kirjad">
 <!ENTITY folderContextGetMessages.accesskey "T">
+<!ENTITY folderContextMarkAllFoldersRead.label "Märgi kõik kaustad loetuks">
 <!ENTITY folderContextPauseAllUpdates.label "Peata kõik uuendused">
 <!ENTITY folderContextPauseUpdates.label "Peata uuendused">
 <!ENTITY folderContextPauseUpdates.accesskey "P">
@@ -868,7 +878,7 @@
   -->
 <!ENTITY quickSearchCmd.key "k">
 <!-- LOCALIZATION NOTE (search.label.base1):
-      This is the base of the empty text for the global search box. We replace
+     This is the base of the empty text for the global search box. We replace
      #1 with the contents of the appropriate search.keyLabel.* value for the
      platform.
      The goal is to convey to the user that typing in the box will allow them
