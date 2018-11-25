@@ -20,7 +20,7 @@
 <!ENTITY  generalType           "Vrsta:">
 <!ENTITY  generalMode           "Način izrisovanja:">
 <!ENTITY  generalSize           "Velikost:">
-<!ENTITY  generalReferrer       "Pobudnik:">
+<!ENTITY  generalReferrer       "URL napotitelja:">
 <!ENTITY  generalSource         "Vir:">
 <!ENTITY  generalModified       "Spremenjeno:">
 <!ENTITY  generalEncoding2      "Kodiranje besedila:">
@@ -46,19 +46,10 @@
 
 <!ENTITY  feedTab               "Viri">
 <!ENTITY  feedTab.accesskey     "I">
-<!ENTITY  feedSubscribe         "Naroči se">
-<!ENTITY  feedSubscribe.accesskey "N">
 
 <!ENTITY  permTab               "Dovoljenja">
 <!ENTITY  permTab.accesskey     "D">
-<!ENTITY  permUseDefault        "Uporabi privzeto">
-<!ENTITY  permAskAlways         "Vedno vprašaj">
-<!ENTITY  permAllow             "Dovoli">
-<!ENTITY  permAllowSession      "Dovoli v tej seji">
-<!ENTITY  permHide              "Skrij">
-<!ENTITY  permBlock             "Prepovej">
 <!ENTITY  permissionsFor        "Dovoljenja za:">
-<!ENTITY  permPlugins           "Omogoči vtičnike">
 
 <!ENTITY  securityTab           "Varnost">
 <!ENTITY  securityTab.accesskey "A">
@@ -75,9 +66,6 @@
 
 <!ENTITY  securityView.privacy.header                   "Zasebnost in zgodovina">
 <!ENTITY  securityView.privacy.history                  "Ali sem to stran obiskal že kdaj pred današnjim dnem?">
-<!ENTITY  securityView.privacy.cookies                  "Ali ta spletna stran shranjuje podatke (piškotke) na moj računalnik?">
-<!ENTITY  securityView.privacy.viewCookies              "Preglej piškotke">
-<!ENTITY  securityView.privacy.viewCookies.accessKey    "p">
 <!ENTITY  securityView.privacy.siteData                 "Ali ta spletna stran shranjuje podatke na moj računalnik?">
 <!ENTITY  securityView.privacy.clearSiteData            "Počisti piškotke in podatke strani">
 <!ENTITY  securityView.privacy.clearSiteData.accessKey  "č">
