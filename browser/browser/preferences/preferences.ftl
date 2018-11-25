@@ -704,6 +704,12 @@ content-blocking-setting-custom =
 content-blocking-standard-desc = Balansert for beskyttelse og ytelse. Tillater noen sporere slik at nettsteder fungerer som de skal.
 content-blocking-strict-desc = Blokkerer alle sporere { -brand-short-name } oppdager. Dette kan begrense funksjonaliteten på visse nettsteder, eller gjøre at nettstedene ikke fungerer.
 content-blocking-custom-desc = Velg hva du vil blokkere.
+content-blocking-private-trackers = Kjente sporere bare i Private vindu
+content-blocking-third-party-cookies = Tredjeparts sporingsinfokapsler
+content-blocking-all-windows-trackers = Kjente sporere i alle vinduer
+content-blocking-all-third-party-cookies = Alle tredjeparts infokapsler
+content-blocking-warning-title = Se opp!
+content-blocking-learn-how = Finn ut hvordan
 content-blocking-tracking-protection-trackers-label =
     .label = Sporere
     .accesskey = S
@@ -739,6 +745,9 @@ content-blocking-reject-trackers-block-trackers-option =
 content-blocking-reject-trackers-all-third-parties-option =
     .label = Alle tredjeparts infokapsler (kan føre til at nettsteder slutter å fungere)
     .accesskey = A
+content-blocking-cookies-label =
+    .label = Infokapsler
+    .accesskey = k
 
 ## Privacy Section - Tracking
 
@@ -760,6 +769,9 @@ tracking-exceptions =
 tracking-change-block-list =
     .label = Endre blokkeringsliste…
     .accesskey = b
+tracking-manage-exceptions =
+    .label = Behandle unntak…
+    .accesskey = u
 
 ## Privacy Section - Permissions
 
