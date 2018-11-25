@@ -773,6 +773,9 @@ tracking-exceptions =
 tracking-change-block-list =
     .label = Сменить список блокировки…
     .accesskey = м
+tracking-manage-exceptions =
+    .label = Управление исключениями…
+    .accesskey = е
 
 ## Privacy Section - Permissions
 
