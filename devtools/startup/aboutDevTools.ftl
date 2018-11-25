@@ -41,6 +41,7 @@ features-responsive-desc = Probe os sitios en dispositivos emulados no seu naveg
 features-visual-editing-title = Edición visual
 features-visual-editing-desc = Axuste as animacións, a aliñación e as marxes con precisión. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-performance-title = Rendemento
+features-performance-desc = Elimine os problemas de rendemento, reestruture os procesos, optimice os recursos. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-memory-title = Memoria
 features-memory-desc = Detecte fugas de memoria e mellore o rendemento do seu aplicativo. <a data-l10n-name="learn-more"><a data-l10n-name="learn-more">{ features-learn-more }</a>
 # Variables:
@@ -48,3 +49,6 @@ features-memory-desc = Detecte fugas de memoria e mellore o rendemento do seu ap
 newsletter-error-common = Fallou a solicitude de subscrición ({ $errorDescription }).
 newsletter-error-unknown = Produciuse un erro inesperado.
 newsletter-error-timeout = A solicitude de subscrición esgotou o tempo.
+# Variables:
+#   $shortcut (String) - The keyboard shortcut used for the tool
+welcome-message = Activou correctamente as ferramentas de desenvolvemento! Para comezar, explore o menú Web Developer ou abra as ferramentas con { $shortcut }.
