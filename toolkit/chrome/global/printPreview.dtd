@@ -30,7 +30,7 @@
 <!ENTITY p175.label           "175&#037;">
 <!ENTITY p200.label           "200&#037;">
 <!ENTITY Custom.label         "Personalizat…">
-<!ENTITY ShrinkToFit.label    "Micșorează ca să încapă">
+<!ENTITY ShrinkToFit.label    "Micșorează pentru încadrare în pagină">
 <!ENTITY customPrompt.title   "Scală la alegere…">
 <!ENTITY simplifyPage.label   "Simplifică pagina">
 <!ENTITY simplifyPage.accesskey "i">
