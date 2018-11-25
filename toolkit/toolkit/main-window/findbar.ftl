@@ -15,6 +15,14 @@ findbar-highlight-all =
     .label = Too kõik esile
     .accesskey = k
     .tooltiptext = Too see fraas lehel esile
+findbar-highlight-all2 =
+    .label = Too kõik esile
+    .accesskey =
+        { PLATFORM() ->
+            [macos] l
+           *[other] e
+        }
+    .tooltiptext = Too kõik fraasi esinemised esile
 findbar-case-sensitive =
     .label = Tõstutundlik
     .accesskey = t
