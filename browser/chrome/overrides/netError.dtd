@@ -103,7 +103,11 @@ was trying to connect. -->
 
 <!ENTITY certerror.expiredCert.secondPara "Бұл мәселе компьютеріңіздің сағаты қате уақыт көрсетіп тұрғаны салдарынан болып тұрған сияқты, нәтижесінде &brandShortName; қауіпсіз түрде байланыса алмады.">
 
+<!ENTITY certerror.sts.introPara "&brandShortName; мүмкін болған қауіпсіздік мәселесін анықтап, <span class='hostname'/> сайтына өтуді жалғастырмады, өйткені бұл сайт қауіпсіз байланысты талап етеді.">
 
+<!ENTITY certerror.expiredCert.introPara "&brandShortName; мәселесні анықтап, <span class='hostname'/> сайтына өтуді жалғастырмады. Бұл веб-сайт дұрыс бапталмаған, немесе компьютеріңіздің сағаты дұрыс уақытты көрсетіп тұрған жоқ.">
+<!ENTITY certerror.expiredCert.secondPara2 "Веб-сайт сертификатының мерзімі аяқталған болуы мүмкін, сондықтан &brandShortName; оған қауіпсіз түрде байланыса алмайды. Бұл веб-сайтты шолсаңыз, шабуылшылар сіздің парольдер, эл. пошта адресі немесе несие карта сияқты ақпаратты ұрлау талабын жасауы мүмкін.">
+<!ENTITY certerror.expiredCert.sts.secondPara "Веб-сайт сертификатының мерзімі аяқталған болуы мүмкін, сондықтан &brandShortName; оған қауіпсіз түрде байланыса алмайды.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Оған не жасауыңызға болады?">
 
@@ -172,3 +176,4 @@ was trying to connect. -->
 <!ENTITY prefReset.label "Бастапқы баптауларды қалпына келтіру">
 
 <!ENTITY networkProtocolError.title "Желілік хаттама қатесі">
+<!ENTITY networkProtocolError.longDesc "<p>Сіз қараймын деген парақ көрсетілмейді, өйткені желілік хаттамады қате анықталды.</p><ul><li>Веб сайт иелеріне осы мәселе жөнінде хабарлаңыз.</li></ul>">

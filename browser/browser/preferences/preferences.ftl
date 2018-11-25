@@ -671,6 +671,7 @@ addressbar-suggestions-settings = Іздеу жүйесінің ұсыныста
 
 content-blocking-header = Құраманы бұғаттау
 content-blocking-desc = Жарнама немесе шолуды тежей алатын, сізді интернетте бақылай алатын код сияқты үшінші жақты құраманы бұғаттау. Қорғаныс және өнімділіктің ең жақсы теңгерімі үшін баптауларды түзетіңіз.
+content-blocking-description = Интернетте сізді бақылайтын үшінші жақты құраманы бұғаттау. Желілік белсенділігіңіздің қай бөлігі сақталатынын және веб-сайттармен бөлісетінін басқарыңыз.
 content-blocking-learn-more = Көбірек білу
 content-blocking-restore-defaults =
     .label = Бастапқы мәндерін қайтару
@@ -700,10 +701,15 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = Таңдауыңызша
     .accesskey = ы
+content-blocking-standard-desc = Қорғаныс және өнімділік үшін теңдестірілген. Веб-сайттар дұрыс жұмыс істеу мақсатында кейбір трекерлерді рұқсат етеді.
 content-blocking-strict-desc = { -brand-short-name } анықтайтын барлық трекерлерді бұғаттау. Кейбір сайттар жұмысы бұзылуы мүмкін.
 content-blocking-custom-desc = Нені бұғаттауды таңдаңыз
+content-blocking-private-trackers = Жекелік терезелерінде барлық белгілі трекерлер
+content-blocking-third-party-cookies = Үшінші жақты бақылайтын cookies
+content-blocking-all-windows-trackers = Барлық терезелердегі белгілі трекерлер
 content-blocking-all-third-party-cookies = Барлық үшінші жақты cookies
 content-blocking-warning-title = Ескерту!
+content-blocking-warning-desc = Cookies файлдарын және трекерлерді бұғаттау кейбір веб-сайттар жұмысын бұзуы мүмкін. Өзіңіз сенетін сайттар үшін бұғаттауды сөндіру оңай.
 content-blocking-learn-how = Көбірек білу
 content-blocking-tracking-protection-trackers-label =
     .label = Трекерлер
@@ -764,6 +770,9 @@ tracking-exceptions =
 tracking-change-block-list =
     .label = Блоктізімді өзгерту…
     .accesskey = г
+tracking-manage-exceptions =
+    .label = Ережеден тыс жағдайларды басқару…
+    .accesskey = ж
 
 ## Privacy Section - Permissions
 
