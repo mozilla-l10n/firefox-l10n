@@ -99,7 +99,7 @@
 <!ENTITY pwd.ctx.remove.label "მოცილება">
 <!ENTITY pwd.ctx.remove.accesskey "R">
 <!ENTITY pwd.ctx.copyPasswordCmd.label "პაროლის ასლი">
-<!ENTITY pwd.ctx.copyPasswordCmd.accesskey "C">
+<!ENTITY pwd.ctx.copyPasswordCmd.accesskey "ლ">
 <!ENTITY pwd.ctx.selectAll.label "ყველას მონიშვნა">
 <!ENTITY pwd.ctx.selectAll.accesskey "A">
 

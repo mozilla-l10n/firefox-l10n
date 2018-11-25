@@ -8,15 +8,15 @@
 <!ENTITY  pageInfoWindow.dimensions  "width: 120ch; height: 40em;">
 
 <!ENTITY  copy.key               "C">
-<!ENTITY  copy.label             "კოპირება">
-<!ENTITY  copy.accesskey         "C">
+<!ENTITY  copy.label             "ასლი">
+<!ENTITY  copy.accesskey         "ლ">
 <!ENTITY  selectall.key          "A">
 <!ENTITY  selectall.label        "სრული მონიშვნა">
 <!ENTITY  selectall.accesskey    "A">
 <!ENTITY  openHelpMac.key        "?">
 <!ENTITY  closeWindow.key        "w">
-<!ENTITY  copyLinks.label           "ბმ(ებ)ის კოპირება">
-<!ENTITY  copyLinks.accesskey       "L">
+<!ENTITY  copyLinks.label           "ბმულ(ებ)ის ასლი">
+<!ENTITY  copyLinks.accesskey       "უ">
 <!ENTITY  openInNewTab.label        "გახსნა ახალ დფაზე">
 <!ENTITY  openInNewTab.accesskey    "T">
 <!ENTITY  openInNewWindow.label     "გახსნა ახალ სარკმელში">

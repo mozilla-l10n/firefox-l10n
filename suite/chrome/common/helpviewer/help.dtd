@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY printCmd.commandkey            "p">
+<!ENTITY printCmd.commandkey            "ვ">
 
 <!ENTITY findOnCmd.commandkey           "F">
 <!ENTITY findAgainCmd.commandkey        "G">
@@ -14,8 +14,8 @@
 <!ENTITY forwardButton.label            "წინ">
 <!ENTITY forwardButton.accesskey        "F">
 <!ENTITY forwardButton.tooltip          "წინ ერთი გვერდით">
-<!ENTITY copyCmd.label                  "კოპირება">
-<!ENTITY copyCmd.accesskey              "C">
+<!ENTITY copyCmd.label                  "ასლი">
+<!ENTITY copyCmd.accesskey              "ლ">
 <!ENTITY selectAllCmd.label             "ყველას მონიშვნა">
 <!ENTITY selectAllCmd.accesskey         "ყ">
 <!ENTITY goBackCmd.commandkey           "[">
