@@ -32,8 +32,8 @@
 <!ENTITY account.movedown.label       "გადაადგილება ქვემოთ">
 <!ENTITY account.cancelReconnection.label         "ხელახლა დაკავშირების გაუქმება">
 <!ENTITY account.cancelReconnection.accesskey     "გ">
-<!ENTITY account.copyDebugLog.label     "გამართვის აღრიცხვის დაკოპირება">
-<!ENTITY account.copyDebugLog.accesskey "კ">
+<!ENTITY account.copyDebugLog.label     "გამართვის აღრიცხვის ასლი">
+<!ENTITY account.copyDebugLog.accesskey "ლ">
 <!ENTITY account.showDebugLog.label     "გამართვის აღრიცხვის მონაცემები">
 <!ENTITY account.showDebugLog.accesskey "ც">
 <!ENTITY account.connecting           "დაკავშირება…">
