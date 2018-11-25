@@ -700,6 +700,7 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = Таңдауыңызша
     .accesskey = ы
+content-blocking-strict-desc = { -brand-short-name } анықтайтын барлық трекерлерді бұғаттау. Кейбір сайттар жұмысы бұзылуы мүмкін.
 content-blocking-custom-desc = Нені бұғаттауды таңдаңыз
 content-blocking-all-third-party-cookies = Барлық үшінші жақты cookies
 content-blocking-warning-title = Ескерту!
