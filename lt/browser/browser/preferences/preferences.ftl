@@ -651,6 +651,9 @@ sitedata-cookies-exceptions =
 # in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
 # Cookies and Site Data section.
 sitedata-warning-your-settings-prevent-changes = Jūsų „turinio blokavimo“ nuostatos neleidžia pakeisti „slapukų ir svetainių duomenų“ nuostatų.
+sitedata-cookies-permissions =
+    .label = Tvarkyti leidimus…
+    .accesskey = l
 
 ## Privacy Section - Address Bar
 
@@ -671,6 +674,7 @@ addressbar-suggestions-settings = Keisti ieškyklių siūlymų nuostatas
 
 content-blocking-header = Turinio blokavimas
 content-blocking-desc = Blokuokite trečiųjų šalių turinį, pvz., reklamas ir kodą, galintį sulėtinti jūsų naršymą ir stebėti jūsų naršymo įpročius. Pritaikykite nuostatas sau, kad pasiektumėte geriausią saugumo ir našumo balansą.
+content-blocking-description = Blokuokite trečiųjų šalių turinį, kuris stebi jūsų veiklą internete. Kontroliuokite, kiek jūsų veiklos saugoma ir dalijamasi tarp svetainių.
 content-blocking-learn-more = Sužinoti daugiau
 content-blocking-restore-defaults =
     .label = Atstatyti numatytąsias
@@ -691,6 +695,25 @@ content-blocking-fastblock-slow-loading-trackers-label =
     .label = Lėtai įkeliami stebėjimo elementai
     .accesskey = L
 content-blocking-fastblock-new-description = Blokuoti tik tinklalapių įkėlimą stabdančius stebėjimo elementus.
+content-blocking-setting-standard =
+    .label = Standartinis
+    .accesskey = d
+content-blocking-setting-strict =
+    .label = Griežtas
+    .accesskey = r
+content-blocking-setting-custom =
+    .label = Kitas
+    .accesskey = K
+content-blocking-standard-desc = Pritaikyta saugumui ir našumui. Leidžia dalį stebėjimo elementų, kad svetainės veiktų tinkamai.
+content-blocking-strict-desc = Blokuoja visus „{ -brand-short-name }“ aptinkamus stebėjimo elementus. Gali sutrikti kai kurių svetainių veikimas.
+content-blocking-custom-desc = Pasirinkite, ką blokuoti.
+content-blocking-private-trackers = Žinomi stebėjimo elementai tik privačiojo naršymo languose
+content-blocking-third-party-cookies = Trečiųjų šalių stebėjimo slapukai
+content-blocking-all-windows-trackers = Žinomi stebėjimo elementai visuose languose
+content-blocking-all-third-party-cookies = Visi trečiųjų šalių slapukai
+content-blocking-warning-title = Dėmesio!
+content-blocking-warning-desc = Užblokavus slapukus ir stebėjimo elementus, gali sutrikti kai kurių svetainių veikimas. Galite lengvai išjungti blokavimą patikimose svetainėse.
+content-blocking-learn-how = Sužinoti kaip
 content-blocking-tracking-protection-trackers-label =
     .label = Stebėjimo elementai
     .accesskey = t
@@ -726,6 +749,9 @@ content-blocking-reject-trackers-block-trackers-option =
 content-blocking-reject-trackers-all-third-parties-option =
     .label = Visi trečiųjų šalių slapukai (gali sutrikti svetainių veikimas)
     .accesskey = V
+content-blocking-cookies-label =
+    .label = Slapukai
+    .accesskey = S
 
 ## Privacy Section - Tracking
 
@@ -747,6 +773,9 @@ tracking-exceptions =
 tracking-change-block-list =
     .label = Keisti blokavimo sąrašą…
     .accesskey = K
+tracking-manage-exceptions =
+    .label = Tvarkyti išimtis…
+    .accesskey = m
 
 ## Privacy Section - Permissions
 
