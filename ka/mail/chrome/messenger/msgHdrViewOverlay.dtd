@@ -104,7 +104,7 @@
 <!ENTITY copyLinkCmd.label        "ბმის მისამართის ასლი">
 <!ENTITY copyLinkCmd.accesskey    "ბ">
 
-<!ENTITY CopyMessageId.label "წერილის კოდის კოპირება">
+<!ENTITY CopyMessageId.label "წერილის კოდის ასლი">
 <!ENTITY CopyMessageId.accesskey "კ">
 <!ENTITY OpenMessageForMsgId.label "წერილის გახსნა კოდისთვის">
 <!ENTITY OpenMessageForMsgId.accesskey "ო">

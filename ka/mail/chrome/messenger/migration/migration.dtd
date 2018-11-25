@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY migrationWizard.title          "იმპორტის მეგზური">
+<!ENTITY migrationWizard.title          "გადმოტანის მეგზური">
 
 <!ENTITY importFromWin.label            "პარამეტრების, ანგარიშების, წიგნაკის, ფილტრებისა და სხვა მონაცემების იმპორტი:">
 <!ENTITY importFromNonWin.label         "პარამეტრების, ანგარიშების, წიგნაკის, ფილტრებისა და სხვა მონაცემების იმპორტი:">
