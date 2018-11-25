@@ -10,3 +10,5 @@
 
 <!ENTITY defaultButton.label "Òc !">
 <!ENTITY defaultButton.accesskey "O">
+
+<!ENTITY moreActionsButton.accessibleLabel "Mai d’accions">

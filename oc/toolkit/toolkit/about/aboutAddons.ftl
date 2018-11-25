@@ -4,6 +4,9 @@
 
 addons-window =
     .title = Gestionari de moduls complementaris
+search-header =
+    .placeholder = Cercar sus addons.mozilla.org
+    .searchbuttonlabel = Cercar
 search-header-shortcut =
     .key = f
 loading-label =
@@ -21,6 +24,12 @@ list-empty-button =
 install-addon-from-file =
     .label = Installar un modul dins d’un fichièr…
     .accesskey = I
+help-button = Assisténcia dels moduls
+preferences =
+    { PLATFORM() ->
+        [windows] Opcions { -brand-short-name }
+       *[other] Preferéncias { -brand-short-name }
+    }
 tools-menu =
     .tooltiptext = Aisinas per totes los moduls
 show-unsigned-extensions-button =

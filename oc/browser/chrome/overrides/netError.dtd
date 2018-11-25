@@ -10,9 +10,10 @@
 <!ENTITY returnToPreviousPage.label "Tornar en arrièr">
 <!ENTITY returnToPreviousPage1.label "Tornar (recomandat)">
 <!ENTITY advanced.label "Avançat">
-
 <!ENTITY continue2.label "Mai…">
 <!ENTITY moreInformation.label "Mai d'informacions">
+
+<!ENTITY viewCertificate.label "Mostrar lo certificat">
 
 <!-- Specific error messages -->
 
@@ -111,6 +112,7 @@ was trying to connect. -->
 
 
 
+
 <!ENTITY sharedLongDesc "<ul> <li>Benlèu que lo site es temporàriament indisponible o subrecargat. Tornatz ensajar pus tard ;</li> <li>Se capitatz pas de navegar sus cap de site, verificatz la connexion a la ret de vòstre ordenador ;</li> <li>Se vòstre ordenador o vòstra ret es protegit per un parafuòc o un proxy, asseguratz-vos que &brandShortName; a l'autorizacion d'accedir al Web.</li> </ul>">
 
 <!ENTITY cspBlocked.title "Blocat per una estrategia de seguretat de contengut">
@@ -121,7 +123,6 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Apondre une excepcion…">
-
 
 <!ENTITY errorReporting.automatic2 "Senhalar de talas errors ajuda Mozilla a identificar e blocar de sites malvolents">
 <!ENTITY errorReporting.learnMore "Ne saber mai…">
@@ -157,3 +158,4 @@ certificat.">
 
 <!ENTITY prefReset.longDesc "Sembla que la configuracion actuala de seguretat del ret a provocat aquesta error. Restablir los paramètres per defaut ?">
 <!ENTITY prefReset.label "Restablir los paramètres per defaut">
+
