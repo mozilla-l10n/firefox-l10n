@@ -53,4 +53,4 @@ show-addon =
 item =
     .title =
         Suoritinkäyttö latautumisesta lähtien: { $totalDispatches } ({ $totalDuration } ms)
-        Suoritinkäyttö viime sekunteina: { $dispatchesSincePrevious } ({ $durationSincePrevious } ms)
+        Suoritinkäyttö viime sekuntien aikana: { $dispatchesSincePrevious } ({ $durationSincePrevious } ms)
