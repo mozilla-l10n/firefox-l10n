@@ -66,7 +66,7 @@
 <!ENTITY cmd.retry.label                  "ახლიდან">
 <!ENTITY cmd.goToDownloadPage.label       "ჩამოტვირთვის გვერდზე გადასვლა">
 <!ENTITY cmd.goToDownloadPage.accesskey   "ჩ">
-<!ENTITY cmd.copyDownloadLink.label       "ჩამოტვირთვის ბმულის დაკოპირება">
+<!ENTITY cmd.copyDownloadLink.label       "ჩამოტვირთვის ბმულის ასლი">
 <!ENTITY cmd.copyDownloadLink.accesskey   "ბ">
 <!ENTITY cmd.removeFromHistory.label      "ისტორიიდან წაშლა">
 <!ENTITY cmd.removeFromHistory.accesskey  "წ">

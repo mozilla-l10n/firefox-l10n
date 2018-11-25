@@ -227,7 +227,7 @@ Strict Transport Security (HSTS) შეერთებას, რომ &brandSh
 დაუკავშირდეს. ამის გამო, შეუძლებელია მოცემული სერტიფიკატისთვის გამონაკლისის 
 დაშვება.">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> საიტს გააჩნია უსაფრთხოების დებულება სახელად HTTP Strict Transport Security (HSTS), რაც ნიშნავს, რომ &brandShortName; მას მხოლოდ უსაფრთხო შეერთებით შეიძლება დაუკავშირდეს. თქვენ ვერ შეძლებთ გამონაკლისის დაშვებას ამ საიტის მოსანახულებლად.">
-<!ENTITY certerror.copyToClipboard.label "ტექსტის ბუფერში დაკოპირება">
+<!ENTITY certerror.copyToClipboard.label "ტექსტის ასლის აღება">
 
 <!ENTITY inadequateSecurityError.title "კავშირი დაუცველია">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
