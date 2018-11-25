@@ -84,17 +84,17 @@
 <!ENTITY saveVideoCmd.accesskey       "ნ">
 <!ENTITY saveAudioCmd.label           "ხმოვანი ფაილის შენახვა როგორც…">
 <!ENTITY saveAudioCmd.accesskey       "ო">
-<!ENTITY copyLinkCmd.label            "ბმულის მისამართის დაკოპირება">
+<!ENTITY copyLinkCmd.label            "ბმულის მისამართის ასლი">
 <!ENTITY copyLinkCmd.accesskey        "უ">
-<!ENTITY copyImageCmd.label           "სურათის დაკოპირება">
+<!ENTITY copyImageCmd.label           "სურათის ასლი">
 <!ENTITY copyImageCmd.accesskey       "რ">
-<!ENTITY copyVideoURLCmd.label        "ვიდეოს მისამართის დაკოპირება">
+<!ENTITY copyVideoURLCmd.label        "ვიდეოს მისამართის ასლი">
 <!ENTITY copyVideoURLCmd.accesskey    "ვ">
-<!ENTITY copyAudioURLCmd.label        "ხმოვანი ფაილის მისამართის დაკოპირება">
+<!ENTITY copyAudioURLCmd.label        "ხმოვანი ფაილის მისამართის ასლი">
 <!ENTITY copyAudioURLCmd.accesskey    "მ">
 <!ENTITY metadataCmd.label            "პარამეტრები">
 <!ENTITY metadataCmd.accesskey        "პ">
-<!ENTITY copyEmailCmd.label           "ელფოსტის მისამართის კოპირება">
+<!ENTITY copyEmailCmd.label           "ელფოსტის მისამართის ასლი">
 <!ENTITY copyEmailCmd.accesskey       "ე">
 <!ENTITY thisFrameMenu.label          "ჩარჩო">
 <!ENTITY thisFrameMenu.accesskey      "ჩ">
