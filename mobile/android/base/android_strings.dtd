@@ -318,7 +318,7 @@
 <!ENTITY custom_tabs_menu_item_open_in "&formatS;-ში გახსნა">
 <!ENTITY custom_tabs_menu_footer "უზრუნველყოფილია &brandShortName;-ის მიერ">
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
-<!ENTITY custom_tabs_hint_url_copy "URL დაკოპირდა">
+<!ENTITY custom_tabs_hint_url_copy "URL-ს ასლი მზადაა">
 
 <!ENTITY pref_pwa "მზარდი ვებაპლიკაციები">
 <!ENTITY pref_pwa_summary "ვებაპლიკაციების მთავარ გვერდზე დამატების დაშვება">
@@ -544,10 +544,10 @@
 <!ENTITY doorhanger_login_edit_username_hint "მომხმარებლის სახელი">
 <!ENTITY doorhanger_login_edit_password_hint "პაროლი">
 <!ENTITY doorhanger_login_edit_toggle "პაროლის ჩვენება">
-<!ENTITY doorhanger_login_select_message "დაკოპირდეს პაროლი &formatS;-დან?">
-<!ENTITY doorhanger_login_select_toast_copy "პაროლი დაკოპირდა ბუფერში">
+<!ENTITY doorhanger_login_select_message "გსურთ პაროლის ასლი &formatS;-დან?">
+<!ENTITY doorhanger_login_select_toast_copy "პაროლის ასლი აღებულია">
 <!ENTITY doorhanger_login_select_action_text "აირჩიეთ სხვა ანგარიში">
-<!ENTITY doorhanger_login_select_title "პაროლის დაკოპირება - ">
+<!ENTITY doorhanger_login_select_title "პაროლის ასლის აღება –">
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
@@ -597,7 +597,7 @@
 <!ENTITY button_clear_data "მონაცემთა გასუფთავება">
 <!ENTITY button_set "მითითება">
 <!ENTITY button_clear "გასუფთავება">
-<!ENTITY button_copy "დაკოპირება">
+<!ENTITY button_copy "ასლი">
 
 <!ENTITY home_top_sites_title "რჩეული საიტები">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
