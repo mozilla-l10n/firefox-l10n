@@ -24,6 +24,7 @@
 <!ENTITY aboutTelemetry.telemetryClientDoc "<a>Documentația privind clientul de telemetrie Firefox</a> include definiții de concepte, documentație API și referințe de date.">
 <!ENTITY aboutTelemetry.telemetryDashboard "<a>Tabloul de bord pentru telemetrie</a> îți permite să vizualizezi datele pe care Mozilla le primește prin intermediul telemetriei.">
 
+<!ENTITY aboutTelemetry.telemetryProbeDictionary "<a>Dicționarul de sonde</a> furnizează detalii și descrieri ale sondelor gestionate de telemetrie.">
 
 <!ENTITY aboutTelemetry.showInFirefoxJsonViewer "Deschide în vizualizatorul JSON">
 
