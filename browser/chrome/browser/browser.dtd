@@ -413,9 +413,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.label           "ამოჭრა">
 <!ENTITY cutCmd.key             "X">
 <!ENTITY cutCmd.accesskey         "ა">
-<!ENTITY copyCmd.label            "დაკოპირება">
+<!ENTITY copyCmd.label            "ასლი">
 <!ENTITY copyCmd.key            "C">
-<!ENTITY copyCmd.accesskey          "კ">
+<!ENTITY copyCmd.accesskey          "ს">
 <!ENTITY pasteCmd.label           "ჩასმა">
 <!ENTITY pasteCmd.key           "V">
 <!ENTITY pasteCmd.accesskey         "ჩ">
@@ -654,7 +654,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "ბ">
 <!ENTITY bookmarkThisFrameCmd.label      "ჩარჩოს ჩანიშვნა">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "ჩ">
-<!ENTITY pageAction.copyLink.label    "ბმულის დაკოპირება">
+<!ENTITY pageAction.copyLink.label    "ბმულის ასლი">
 <!ENTITY emailPageCmd.label           "ბმულის გაგზავნა ელფოსტით…">
 <!ENTITY emailPageCmd.accesskey       "ე">
 <!ENTITY savePageCmd.label            "გვერდის შენახვა როგორც…">
@@ -684,20 +684,20 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY playPluginCmd.accesskey      "ჩ">
 <!ENTITY hidePluginCmd.label          "ამ მოდულის დამალვა">
 <!ENTITY hidePluginCmd.accesskey      "დ">
-<!ENTITY copyLinkCmd.label            "ბმულის დაკოპირება">
+<!ENTITY copyLinkCmd.label            "ბმულის მისამართის ასლი">
 <!-- LOCALIZATION NOTE (copyLinkCmd.accesskey): The access keys for "Copy Link
 Location" and "Copy Email Address" should be the same if possible; the two
 context menu items are mutually exclusive. -->
 <!ENTITY copyLinkCmd.accesskey        "უ">
-<!ENTITY copyImageCmd.label           "სურათის მისამართის დაკოპირება">
-<!ENTITY copyImageCmd.accesskey       "კ">
-<!ENTITY copyImageContentsCmd.label   "სურათის დაკოპირება">
+<!ENTITY copyImageCmd.label           "სურათის მისამართის ასლი">
+<!ENTITY copyImageCmd.accesskey       "ლ">
+<!ENTITY copyImageContentsCmd.label   "სურათის ასლი">
 <!ENTITY copyImageContentsCmd.accesskey  "რ">
-<!ENTITY copyVideoURLCmd.label        "ვიდეოს მისამართის დაკოპირება">
-<!ENTITY copyVideoURLCmd.accesskey    "კ">
-<!ENTITY copyAudioURLCmd.label        "ხმოვანი ფაილის მისამართის დაკოპირება">
-<!ENTITY copyAudioURLCmd.accesskey    "კ">
-<!ENTITY copyEmailCmd.label           "ელფოსტის მისამართის დაკოპირება">
+<!ENTITY copyVideoURLCmd.label        "ვიდეოს მისამართის ასლი">
+<!ENTITY copyVideoURLCmd.accesskey    "ლ">
+<!ENTITY copyAudioURLCmd.label        "ხმოვანი ფაილის მისამართის ასლი">
+<!ENTITY copyAudioURLCmd.accesskey    "ლ">
+<!ENTITY copyEmailCmd.label           "ელფოსტის მისამართის ასლი">
 <!-- LOCALIZATION NOTE (copyEmailCmd.accesskey): The access keys for "Copy Link
 Location" and "Copy Email Address" should be the same if possible; the two
 context menu items are mutually exclusive. -->
@@ -927,8 +927,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "პ">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.label          "ჩანართის ჩანიშვნა…">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "ჩ">
-<!ENTITY syncedTabs.context.copy.label                       "დაკოპირება">
-<!ENTITY syncedTabs.context.copy.accesskey                   "კ">
+<!ENTITY syncedTabs.context.copy.label                       "ასლი">
+<!ENTITY syncedTabs.context.copy.accesskey                   "ლ">
 
 <!ENTITY syncedTabs.context.openAllInTabs.label              "ყველას ჩანართებში გახსნა">
 <!ENTITY syncedTabs.context.openAllInTabs.accesskey          "ყ">
