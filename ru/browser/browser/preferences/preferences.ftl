@@ -651,6 +651,9 @@ sitedata-cookies-exceptions =
 # in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
 # Cookies and Site Data section.
 sitedata-warning-your-settings-prevent-changes = Ваши настройки в Блокировке содержимого не дают произвести изменения настроек в Куки и данные сайтов.
+sitedata-cookies-permissions =
+    .label = Управление разрешениями…
+    .accesskey = п
 
 ## Privacy Section - Address Bar
 
@@ -671,6 +674,7 @@ addressbar-suggestions-settings = Изменить настройки для п�
 
 content-blocking-header = Блокировка содержимого
 content-blocking-desc = Блокирует стороннее содержимое, такое как реклама или код, которое может замедлить просмотр страниц и отслеживать вас в Интернете. Установите свои настройки, чтобы обеспечить наилучший баланс защиты и производительности.
+content-blocking-description = Блокирует стороннее содержимое, отслеживающее вас в Интернете. Контролируйте, что из вашей онлайн-активности хранится и пересылается между сайтами.
 content-blocking-learn-more = Подробнее
 content-blocking-restore-defaults =
     .label = Восстановить по умолчанию
@@ -691,6 +695,25 @@ content-blocking-fastblock-slow-loading-trackers-label =
     .label = Медленные трекеры
     .accesskey = н
 content-blocking-fastblock-new-description = Блокировать только трекеры, не дающие страницам быстро загружаться.
+content-blocking-setting-standard =
+    .label = Стандартная
+    .accesskey = н
+content-blocking-setting-strict =
+    .label = Строгая
+    .accesskey = о
+content-blocking-setting-custom =
+    .label = Персональная
+    .accesskey = а
+content-blocking-standard-desc = Обеспечивает наилучший баланс защиты и производительности. Разрешает некоторые трекеры для корректной работы веб-сайтов.
+content-blocking-strict-desc = Блокирует все трекеры, известные { -brand-short-name }. Может вызывать проблемы с некоторыми веб-сайтами.
+content-blocking-custom-desc = Выберите, что блокировать.
+content-blocking-private-trackers = Все известные трекеры в приватных окнах
+content-blocking-third-party-cookies = Куки сторонних трекеров
+content-blocking-all-windows-trackers = Все известных трекеры во всех окнах
+content-blocking-all-third-party-cookies = Все сторонние куки
+content-blocking-warning-title = Осторожно!
+content-blocking-warning-desc = Блокировка куков и трекеров может вызывать проблемы с некоторыми веб-сайтами. Можно легко отключить блокировку для сайтов, которым вы доверяете.
+content-blocking-learn-how = Подробнее
 content-blocking-tracking-protection-trackers-label =
     .label = Трекеры
     .accesskey = к
@@ -726,6 +749,9 @@ content-blocking-reject-trackers-block-trackers-option =
 content-blocking-reject-trackers-all-third-parties-option =
     .label = Все сторонние куки (может нарушить работу веб-сайтов)
     .accesskey = о
+content-blocking-cookies-label =
+    .label = Куки
+    .accesskey = к
 
 ## Privacy Section - Tracking
 
