@@ -903,9 +903,15 @@ space-alert-over-5gb-pref-button =
             [windows] o
            *[other] b
         }
+space-alert-over-5gb-message =
+    { PLATFORM() ->
+        [windows] { -brand-short-name } xa non ten suficiente espazo en disco. É posíbel que o contido dos sitios web non se amose correctamente. Pode borrar os datos gardados dende as Opcións > Privacidade e seguranza > Cookies e datos do sitio.
+       *[other] { -brand-short-name } xa non ten suficiente espazo en disco. É posíbel que o contido dos sitios web non se amose correctamente. Pode borrar os datos gardados dende as Preferencias > Privacidade e seguranza > Cookies e datos do sitio.
+    }
 space-alert-under-5gb-ok-button =
     .label = Entendín
     .accesskey = d
+space-alert-under-5gb-message = { -brand-short-name } xa non ten suficiente espazo en disco. É posíbel que o contido dos sitios web non se amose correctamente. Visite a ligazón «Máis información» para optimizar o seu uso de disco para mellorar a experiencia de navegación.
 
 ## The following strings are used in the Download section of settings
 
