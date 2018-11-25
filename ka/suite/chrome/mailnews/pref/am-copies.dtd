@@ -6,7 +6,7 @@
 
 <!ENTITY copyAndFolderTitle.label "ასლები და დასტები">
 <!ENTITY sendingPrefix.label "წერილის გაგზავნისას, ავტომატურად: ">
-<!ENTITY fccMailFolder.label "ასლი გადაწერე:">
+<!ENTITY fccMailFolder.label "ასლის განთავსება:">
 <!ENTITY fccMailFolder.accesskey "P">
 <!ENTITY fccReplyFollowsParent.label "პასუხების მოთავსება დედნის წერილის დასტაში">
 <!ENTITY fccReplyFollowsParent.accesskey "R">

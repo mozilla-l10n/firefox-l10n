@@ -30,7 +30,7 @@
 <!ENTITY return.label                      "არ გამოიტანო">
 <!ENTITY return.accesskey                  "r">
 <!ENTITY results.label                     "-ზე მეტი შედეგი">
-<!ENTITY offlineText.label                 "შეგიძლიათ ჩამოტვირთოთ ამ საქაღალდის ლოკალური ასლი, მასზე კავშირგარეშე რეჟიმში სამუშაოდ.">
+<!ENTITY offlineText.label                 "შეგიძლიათ ჩამოტვირთოთ ამ საქაღალდის ადგილობრივი ასლი, მასზე კავშირგარეშე რეჟიმში სამუშაოდ.">
 <!ENTITY saslMechanism.label               "შესვლის მეთოდი: ">
 <!ENTITY saslMechanism.accesskey           "m">
 <!ENTITY saslOff.label                     "მარტივი">

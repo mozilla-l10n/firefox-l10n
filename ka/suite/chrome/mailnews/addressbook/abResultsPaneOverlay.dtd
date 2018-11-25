@@ -38,8 +38,8 @@
 <!-- context menu -->
 <!ENTITY composeEmail.label                    "ახალი წერილი">
 <!ENTITY composeEmail.accesskey                "C">
-<!ENTITY copyAddress.label                     "ელფოსტის მისამართის კოპირება">
-<!ENTITY copyAddress.accesskey                 "A">
+<!ENTITY copyAddress.label                     "ელფოსტის მისამართის ასლი">
+<!ENTITY copyAddress.accesskey                 "მ">
 <!ENTITY deleteAddrBookCard.label              "წაშლა">
 <!ENTITY deleteAddrBookCard.accesskey          "D">
 <!ENTITY newAddrBookCard.label                 "ახალი ბარათი…">

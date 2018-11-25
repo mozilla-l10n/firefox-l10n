@@ -104,8 +104,8 @@
 <!ENTITY redoDeleteMsgCmd.label "წერილების წაშლის გამეორება">
 <!ENTITY undoMoveMsgCmd.label "წერილების გადატანის გაუქმება">
 <!ENTITY redoMoveMsgCmd.label "წერილების გადატანის გამეორება">
-<!ENTITY undoCopyMsgCmd.label "წერილის კოპირების გაუქმება">
-<!ENTITY redoCopyMsgCmd.label "წერილის კოპირების გამეორება">
+<!ENTITY undoCopyMsgCmd.label "წერილის ასლის გაუქმება">
+<!ENTITY redoCopyMsgCmd.label "ასლის აღების გამეორება">
 <!ENTITY undoMarkAllCmd.label "ყველას წაკითხულად მონიშვნის გაუქმება">
 <!ENTITY redoMarkAllCmd.label "ყველას წაკითხულად მონიშვნის აღდგენა">
 <!ENTITY undoDefaultCmd.label "დაბრუნება">
@@ -317,10 +317,10 @@
 <!ENTITY archiveMsgCmd.key "a">
 <!ENTITY moveMsgToMenu.label "გადატანა აქ">
 <!ENTITY moveMsgToMenu.accesskey "დ">
-<!ENTITY copyMessageLocation.label "წერილის მისამართის კოპირება">
+<!ENTITY copyMessageLocation.label "წერილის მისამართის ასლი">
 <!ENTITY copyMessageLocation.accesskey "მ">
-<!ENTITY copyMsgToMenu.label "კოპირება -">
-<!ENTITY copyMsgToMenu.accesskey "კ">
+<!ENTITY copyMsgToMenu.label "ასლი –">
+<!ENTITY copyMsgToMenu.accesskey "ლ">
 <!ENTITY moveCopyMsgRecentMenu.label "ბოლო">
 <!ENTITY moveCopyMsgRecentMenu.accesskey "ბ">
 <!ENTITY killThreadMenu.label "მიმოწერის უგულებელყოფა">
@@ -334,8 +334,8 @@
 <!ENTITY watchThreadMenu.key "w">
 <!ENTITY fileHereMenu.label "განთავსების ადგილი">
 <!ENTITY fileHereMenu.accesskey "გ">
-<!ENTITY copyHereMenu.label "კოპირების ადგილი">
-<!ENTITY copyHereMenu.accesskey "კ">
+<!ENTITY copyHereMenu.label "ასლი აქ">
+<!ENTITY copyHereMenu.accesskey "დ">
 <!ENTITY tagMenu.label "ჭდე">
 <!ENTITY tagMenu.accesskey "ჭ">
 <!ENTITY tagCustomize.label "მორგება…">
@@ -479,8 +479,8 @@
 <!ENTITY contextArchive.accesskey "ა">
 <!ENTITY contextMoveMsgMenu.label "გადატანა">
 <!ENTITY contextMoveMsgMenu.accesskey "გ">
-<!ENTITY contextCopyMsgMenu.label "კოპირება">
-<!ENTITY contextCopyMsgMenu.accesskey "კ">
+<!ENTITY contextCopyMsgMenu.label "ასლი –">
+<!ENTITY contextCopyMsgMenu.accesskey "ლ">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "უახლესი">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "ლ">
 <!ENTITY contextSaveAs.label "შენახვა როგორც…">
