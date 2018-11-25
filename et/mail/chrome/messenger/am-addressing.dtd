@@ -13,7 +13,7 @@
 <!ENTITY editDirectories.label     "Redigeeri katalooge...">
 <!ENTITY editDirectories.accesskey "R">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
-<!ENTITY directories.label         "kasutatatakse mõnda muud LDAP-i serverit:">
+<!ENTITY directories.label         "kasutatakse mõnda muud LDAP-i serverit:">
 <!ENTITY directories.accesskey     "k">
 <!ENTITY directoriesNone.label     "puudub">
 
