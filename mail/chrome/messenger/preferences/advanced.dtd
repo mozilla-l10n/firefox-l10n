@@ -12,6 +12,7 @@
 <!ENTITY enableGlodaSearch.label       "Lubatakse kirjade üldotsing ja indekseerimine">
 <!ENTITY enableGlodaSearch.accesskey   "L">
 <!ENTITY dateTimeFormatting.label      "Kuupäeva ja kellaaja vorming">
+<!ENTITY languageSelector.label        "Keel">
 <!ENTITY allowHWAccel.label            "Võimalusel kasutatakse riistvaralist kiirendust">
 <!ENTITY allowHWAccel.accesskey        "V">
 <!ENTITY storeType.label               "Uute kontode kirjade salvestamise viis:">
@@ -70,8 +71,6 @@
 <!ENTITY updateAuto.accesskey            "e">
 <!ENTITY updateCheck.label               "Kontrollitakse uuenduste olemasolu, paigaldamise kohta küsitakse kinnitust">
 <!ENTITY updateCheck.accesskey           "K">
-<!ENTITY updateManual.label              "Uuenduste olemasolu ei kontrollita (pole soovitatav: turvarisk)">
-<!ENTITY updateManual.accesskey          "U">
 <!ENTITY updateHistory.label             "Näita uuenduste ajalugu">
 <!ENTITY updateHistory.accesskey         "j">
 
