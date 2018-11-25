@@ -44,6 +44,8 @@ Starejše
 <!ENTITY aboutTelemetry.telemetryClientDoc "<a>Dokumentacija o Firefoxovem odjemalcu za telemetrijo</a> vsebuje definicije konceptov, dokumentacijo API in sklice podatkov.">
 <!ENTITY aboutTelemetry.telemetryDashboard "<a>Pregledne plošče telemetrije</a> omogočajo predstavitev podatkov, ki jih Mozilla prejme preko telemetrije.">
 
+<!ENTITY aboutTelemetry.telemetryProbeDictionary "<a>Slovar sond</a> vsebuje podrobnosti in opise sond, ki jih zbira telemetrija.">
+
 <!ENTITY aboutTelemetry.showInFirefoxJsonViewer "Odpri v pregledovalniku JSON">
 
 <!ENTITY aboutTelemetry.homeSection "Domov">
@@ -70,9 +72,6 @@ Starejše
 ">
 <!ENTITY aboutTelemetry.slowSqlSection "
   Počasni stavki SQL
-">
-<!ENTITY aboutTelemetry.chromeHangsSection "
-  Sesutja brskalnika
 ">
 <!ENTITY aboutTelemetry.addonDetailsSection "
   Podrobnosti dodatkov
