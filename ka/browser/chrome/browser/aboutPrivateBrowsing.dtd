@@ -20,7 +20,7 @@
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          " თქვენს:">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "ჩამოტვირთვებს">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "სანიშნებს">
-<!ENTITY aboutPrivateBrowsing.info.clipboard             "ტექსტი დაკოპირებულია">
+<!ENTITY aboutPrivateBrowsing.info.clipboard             "ტექსტი ასლი აღებულია">
 <!ENTITY aboutPrivateBrowsing.note.before                "პირადი თვალიერების რეჟიმი ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "არ უზრუნველყოფს თქვენს ანონიმურობას">
 <!ENTITY aboutPrivateBrowsing.note.after                 " ინტერნეტში. თქვენს დამსაქმებელს ან ინტერნეტმომსახურების მომწოდებელს, მაინც შეუძლიათ გაიგონ, რომელ გვერდებს ეწვიეთ.">
@@ -30,6 +30,7 @@
 
 <!ENTITY trackingProtection.title                        "თვალყურის დევნისგან დაცვა">
 <!ENTITY trackingProtection.description2                 "ვებსაიტების ნაწილი იყენებს მეთვალყურე ელემენტებს, რომლითაც შესაძლებელია ინტერნეტში თქვენს მოქმედებებზე თვალის მიდევნება. Firefox თვალყურის დევნისგან დაცვის საშუალებით კი ხდება, მსგავსი სახის ინფორმაციის შეგროვებისგან თავის არიდება.">
+
 <!ENTITY trackingProtection.startTour1                   "ნახეთ, როგორ მუშაობს">
 
 <!ENTITY contentBlocking.title                           "შიგთავსის შეზღუდვა">

@@ -12,7 +12,7 @@
 
 <!ENTITY aboutSupport.crashes.title "ავარიული დახურვის მოხსენებები">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
-This is likely the same like id.heading in crashes.dtd. -->
+This is likely the same like id.heading in aboutcrashes.ftl. -->
 <!ENTITY aboutSupport.crashes.id "ანგარიშგების ID">
 <!ENTITY aboutSupport.crashes.sendDate "გადაიგზავნა">
 <!ENTITY aboutSupport.crashes.allReports "ავარიული დახურვის ყველა მოხსენება">
@@ -35,15 +35,6 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.featureName "სახელი">
 <!ENTITY aboutSupport.featureVersion "ვერსია">
 <!ENTITY aboutSupport.featureId "ID">
-
-<!ENTITY aboutSupport.experimentsTitle "საცდელი ფუნქციები">
-<!ENTITY aboutSupport.experimentName "სახელი">
-<!ENTITY aboutSupport.experimentId "ID">
-<!ENTITY aboutSupport.experimentDescription "აღწერილობა">
-<!ENTITY aboutSupport.experimentActive "მოქმედი">
-<!ENTITY aboutSupport.experimentEndDate "დასრულების თარიღი">
-<!ENTITY aboutSupport.experimentHomepage "მთავარი გვერდი">
-<!ENTITY aboutSupport.experimentBranch "განშტოება">
 
 <!ENTITY aboutSupport.appBasicsTitle "პროგრამის ძირითადი მონაცემები">
 <!ENTITY aboutSupport.appBasicsName "სახელი">
@@ -126,8 +117,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.installationHistoryTitle "დაყენების ისტორია">
 <!ENTITY aboutSupport.updateHistoryTitle "განახლების ისტორია">
 
-<!ENTITY aboutSupport.copyTextToClipboard.label "ტექსტის ბუფერში დაკოპირება">
-<!ENTITY aboutSupport.copyRawDataToClipboard.label "ნედლი მონაცემების ბუფერში დაკოპირება">
+<!ENTITY aboutSupport.copyTextToClipboard.label "ტექსტის ასლის აღება">
+<!ENTITY aboutSupport.copyRawDataToClipboard.label "ნედლი მონაცემების ასლის აღება">
 
 <!ENTITY aboutSupport.sandboxTitle "იზოლირებული გარემო">
 <!ENTITY aboutSupport.sandboxSyscallLogTitle "სისტემის უარყოფილი გამოძახებები">
