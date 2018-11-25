@@ -157,6 +157,8 @@ was trying to connect. -->
 <!ENTITY certerror.expiredCert.secondPara "Tento problém je pravdepodobne spôsobený chybným nastavením času na vašom počítači, ktoré bráni aplikácii &brandShortName; v nadviazaní zabezpečeného spojenia.">
 
 
+<!ENTITY certerror.expiredCert.secondPara2 "Pravdepodobne stránke vypršala platnosť certifikátu, čo bráni aplikácii &brandShortName; bezpečne sa pripojiť. Ak sa napriek tomu rozhodnete stránku navštíviť, útočníci sa môžu pokúsiť ukradnúť vaše informácie, ako sú heslá, e-mailové adresy alebo čísla platobných kariet.">
+<!ENTITY certerror.expiredCert.sts.secondPara "Pravdepodobne stránke vypršala platnosť certifikátu, čo bráni aplikácii &brandShortName; bezpečne sa pripojiť.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Čo s tým môžete urobiť?">
 
