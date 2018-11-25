@@ -20,6 +20,7 @@
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          "vòstres :">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "Telecargaments">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "Marcapaginas">
+<!ENTITY aboutPrivateBrowsing.info.clipboard             "tèxt copiat">
 <!ENTITY aboutPrivateBrowsing.note.before                "La navegacion privada ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "vos fa pas venir anonime">
 <!ENTITY aboutPrivateBrowsing.note.after                 " sus Internet. Vòstre emplegaire o provesidor de servici Internet pòdon totjorn conéisser las paginas que visitatz.">
@@ -29,4 +30,7 @@
 
 <!ENTITY trackingProtection.title                        "Proteccion contra lo seguiment">
 <!ENTITY trackingProtection.description2                 "De sites web utilizan de traçadors que pòdon seguir la vòstra activitat sus internet. Amb la proteccion contra los traçadors, Firefox blocarà los que pòdon reculhir d'informacions sul vòstre compòrtament de navegacion.">
+
 <!ENTITY trackingProtection.startTour1                   "Cossí fonciona ?">
+
+<!ENTITY contentBlocking.title                           "Blocatge de contengut">
