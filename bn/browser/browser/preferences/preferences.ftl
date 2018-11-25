@@ -286,6 +286,7 @@ update-application-use-service =
 update-enable-search-update =
     .label = স্বয়ংক্রিয়ভাবে অনুসন্ধান ইঞ্জিন হালনাগাদ হবে
     .accesskey = e
+update-pref-write-failure-title = অকৃতকার্য লিখুন।
 
 ## General Section - Performance
 
@@ -676,6 +677,7 @@ content-blocking-setting-custom =
     .accesskey = C
 content-blocking-custom-desc = নির্বাচন করুন কি ব্লক করবেন
 content-blocking-third-party-cookies = তৃতীয় পক্ষের ট্র্যাকিং কুকি
+content-blocking-all-third-party-cookies = সকল তৃতীয়-পক্ষের কুকিগুলো
 content-blocking-learn-how = শিখুন কিভাবে হয়
 content-blocking-tracking-protection-trackers-label =
     .label = ট্রাকারসমূহ
