@@ -101,3 +101,5 @@ functionality specific to thunderbird. -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> iseqdac tatiknulujit taqbuṛt ur nezmir ad terr zzedmat. Aẓeddam yezmer ad yzkker s wudem fessusen talɣut i tɣileḍ d taɣelsant.  Andbal n usmel yesra di tazwara ad iseggem aqeddac send ad tezmireḍ ad terzuḍ ɣe usmel.</p><p>Tangalt n tuccḍa: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Asebter iwaḥlen">
+
+<!ENTITY networkProtocolError.longDesc "<p>Asebter-agi i tebɣiḍ ad twaliḍ ur yizmir ara ad ittwasken, acku tella tuccḍa deg uneggaf n uẓeṭṭa.</p><ul><li>Ma ulac aɣilif nermes imawlan n usmel web ɣef ugur-agi.</li></ul>">
