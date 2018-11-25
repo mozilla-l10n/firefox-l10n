@@ -677,7 +677,7 @@ addressbar-suggestions-settings = Spremeni nastavitve predlogov iskanja
 
 content-blocking-header = Zavračanje vsebine
 content-blocking-desc = Zavračajte vsebino tretjih strani, kot so oglasi in koda, ki lahko upočasnjuje vaše brskanje in vam sledi po spletu. Prilagodite nastavitve za najboljše razmerje med zaščito in učinkovitostjo delovanja.
-content-blocking-description = Zavračajte vsebino tretjih strani, ki vam sledi po spletu. Nadzirajte, koliko vaše spletne dejavnosti se shranjuje in deli med spletnimi stranmi..
+content-blocking-description = Zavračajte vsebino tretjih strani, ki vam sledi po spletu. Nadzirajte, koliko vaše spletne dejavnosti se shranjuje in deli med spletnimi stranmi.
 content-blocking-learn-more = Več o tem
 content-blocking-restore-defaults =
     .label = Ponastavi privzeto
