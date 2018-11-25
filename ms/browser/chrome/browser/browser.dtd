@@ -1061,7 +1061,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.3rdPartyCookies.add.label "Tambah Sekatan…">
 
+<!ENTITY contentBlocking.manageSettings.label "Urus Sekatan Kandungan">
 
+<!ENTITY contentBlocking.trackersView.label "Penjejak">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Laporkan masalah">
 <!ENTITY contentBlocking.breakageReportView.label "Laporkan Masalah">
