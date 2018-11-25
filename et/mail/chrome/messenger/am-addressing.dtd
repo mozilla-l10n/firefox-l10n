@@ -4,44 +4,44 @@
 
 <!-- extracted from am-addressing.xul -->
 
-<!ENTITY addressing.label              "Koostamine ja adresseerimine">
-<!ENTITY addressingGroupTitle.label    "Adresseerimine">
-<!ENTITY addressingText.label          "Aadresse otsides:">
+<!ENTITY addressing.label          "Koostamine ja adresseerimine">
+<!ENTITY addressingGroupTitle.label "Adresseerimine">
+<!ENTITY addressingText.label      "Aadresse otsides:">
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
-<!ENTITY useGlobal.label               "kasutatakse üldiseid LDAP-i serveri sätteid">
-<!ENTITY useGlobal.accesskey           "u">
-<!ENTITY editDirectories.label         "Redigeeri katalooge...">
-<!ENTITY editDirectories.accesskey     "R">
+<!ENTITY useGlobal.label           "kasutatakse üldiseid LDAP-i serveri sätteid">
+<!ENTITY useGlobal.accesskey       "u">
+<!ENTITY editDirectories.label     "Redigeeri katalooge...">
+<!ENTITY editDirectories.accesskey "R">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
-<!ENTITY directories.label             "kasutatatakse mõnda muud LDAP-i serverit:">
-<!ENTITY directories.accesskey         "k">
-<!ENTITY directoriesNone.label         "puudub">
+<!ENTITY directories.label         "kasutatatakse mõnda muud LDAP-i serverit:">
+<!ENTITY directories.accesskey     "k">
+<!ENTITY directoriesNone.label     "puudub">
 
 <!-- am-addressing.xul -->
 
-<!ENTITY compositionGroupTitle.label   "Koostamine">
+<!ENTITY compositionGroupTitle.label          "Koostamine">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
-<!ENTITY useHtml.label                 "Kirjad koostatakse HTML vormingus">
-<!ENTITY useHtml.accesskey             "K">
-<!ENTITY autoQuote.label               "Vastates tsiteeritakse automaatselt algset kirja">
-<!ENTITY autoQuote.accesskey           "V">
-<!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
-<!ENTITY then.label                    "ja">
-<!ENTITY then.accesskey                "j">
-<!ENTITY aboveQuote.label              "vastamist alustatakse tsitaadi kohalt">
-<!ENTITY belowQuote.label              "vastamist alustatakse tsitaadi alt">
-<!ENTITY selectAndQuote.label          "tsiteeritav tekst valitakse">
-<!ENTITY place.label                   "ning signatuur">
-<!ENTITY place.accesskey               "g">
-<!ENTITY belowText.label               "asetatakse tsitaadi alla (soovitatav)">
-<!ENTITY aboveText.label               "asetatakse vastuse alla (tsitaadi kohale)">
-<!ENTITY includeSigOnReply.label       "Vastustele lisatakse signatuur">
-<!ENTITY includeSigOnReply.accesskey   "s">
-<!ENTITY includeSigOnForward.label     "Edastatavatele kirjadele lisatakse signatuur">
-<!ENTITY includeSigOnForward.accesskey "d">
+<!ENTITY useHtml.label                        "Kirjad koostatakse HTML vormingus">
+<!ENTITY useHtml.accesskey                    "K">
+<!ENTITY autoQuote.label                      "Vastates tsiteeritakse automaatselt algset kirja">
+<!ENTITY autoQuote.accesskey                  "V">
+<!-- LOCALIZATION NOTE (quoting.label): This will concatenate with the 4 strings that follow. -->
+<!ENTITY quoting.label                        "Tsiteerimisel">
+<!ENTITY quoting.accesskey                    "T">
+<!ENTITY aboveQuote.label                     "alustatakse vastamist tsitaadi kohalt">
+<!ENTITY belowQuote.label                     "alustatakse vastamist tsitaadi alt">
+<!ENTITY selectAndQuote.label                 "tsiteeritav tekst valitakse">
+<!ENTITY place.label                          "ning signatuur">
+<!ENTITY place.accesskey                      "g">
+<!ENTITY belowText.label                      "asetatakse tsitaadi alla (soovitatav)">
+<!ENTITY aboveText.label                      "asetatakse vastuse alla (tsitaadi kohale)">
+<!ENTITY includeSigOnReply.label              "Vastustele lisatakse signatuur">
+<!ENTITY includeSigOnReply.accesskey          "s">
+<!ENTITY includeSigOnForward.label            "Edastatavatele kirjadele lisatakse signatuur">
+<!ENTITY includeSigOnForward.accesskey        "d">
 
-<!ENTITY globalComposingPrefs.label    "Üldised koostamise sätted…">
-<!ENTITY globalComposingPrefs.accesskey "l">
+<!ENTITY globalComposingPrefs.label           "Üldised koostamise sätted…">
+<!ENTITY globalComposingPrefs.accesskey       "l">
 
-<!ENTITY globalAddressingPrefs.label   "Üldised adresseerimise sätted…">
-<!ENTITY globalAddressingPrefs.accesskey "i">
+<!ENTITY globalAddressingPrefs.label          "Üldised adresseerimise sätted…">
+<!ENTITY globalAddressingPrefs.accesskey      "i">
