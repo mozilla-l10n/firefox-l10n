@@ -296,6 +296,13 @@
      Will be used in the context "<Turn on> ... to enable this feature" -->
 <!ENTITY pref_feature_tips_notification_enabling_hint "Lülita sisse">
 
+<!-- Localization note (pref_feature_tips_notification_enabling_path):
+     Nothing to translate. Simple concatenation of already localized strings. Result is used below. -->
+<!ENTITY pref_feature_tips_notification_enabling_path "&pref_category_privacy_short; > &pref_category_datareporting; > &datareporting_fhr_title;">
+<!-- Localization note (pref_feature_tips_notification_enabling_hint):
+     Describe the action the user should do to enable this preference. -->
+<!ENTITY pref_feature_tips_notification_enabling_hint2 "(Selle valiku lubamiseks peab &pref_feature_tips_notification_enabling_path; olema juba lubatud.)">
+
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
 <!ENTITY pref_category_experimental "Eksperimentaalne funktsionaalsus">
@@ -309,6 +316,7 @@
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
 <!ENTITY custom_tabs_menu_item_open_in "Ava brauseris &formatS;">
+<!ENTITY custom_tabs_menu_footer "Rakenduse toob sinuni &brandShortName;">
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 <!ENTITY custom_tabs_hint_url_copy "URL kopeeritud">
 
@@ -900,13 +908,16 @@ Picture-in-picture mini window -->
 
 <!-- Notification channels names -->
 <!ENTITY default_notification_channel "&brandShortName;">
+
+<!-- Notification channels names -->
 <!ENTITY default_notification_channel2 "Brauser">
 <!ENTITY mls_notification_channel "&vendorShortName; asukohateenus">
 <!ENTITY download_notification_channel "Allalaadimised">
 <!ENTITY media_notification_channel "Meedia taasesitamine">
-<!ENTITY media_notification_channel2 "Heli ja video">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel "&brandShortName;i teavitused">
+<!ENTITY media_notification_channel2 "Heli ja video">
+<!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel2 "&vendorShortName;i näpunäited ja trikid">
 <!ENTITY updater_notification_channel "Rakenduse uuendused">
 <!ENTITY synced_tabs_notification_channel "Sünkroniseeritud kaardid">
