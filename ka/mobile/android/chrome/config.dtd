@@ -17,5 +17,5 @@
 <!ENTITY newPref.toggleButton          "ჩამრთველი">
 <!ENTITY newPref.cancelButton          "გაუქმება">
 
-<!ENTITY contextMenu.copyPrefName      "სახელის დაკოპირება">
-<!ENTITY contextMenu.copyPrefValue     "მნიშვნელობის დაკოპირება">
+<!ENTITY contextMenu.copyPrefName      "სახელის ასლი">
+<!ENTITY contextMenu.copyPrefValue     "მნიშვნელობის ასლი">
