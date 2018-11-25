@@ -295,6 +295,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Mở bảng thông báo">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Mở bảng yêu cầu vị trí">
+<!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "Mở bảng điều khiển tự động phát">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Mở bảng thông báo cài đặt tiện ích">
 <!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Quản lý quyền khai thác canvas">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Mở bảng thông báo lưu trữ ngoại tuyến">
@@ -303,6 +304,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Thay đổi liệu bạn có thể nhận thông báo từ trang web hay không">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Lưu dữ liệu vào bộ nhớ lâu dài">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Trình duyệt đang ở trong chế độ truy cập từ xa">
+<!ENTITY urlbar.webAuthnAnchor.tooltip                    "Mở bảng điều khiển xác thực web">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Quản lý chia sẻ máy ảnh và/hoặc micrô với trang">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Quản lý chia sẻ micrô của bạn với trang">
@@ -312,6 +314,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Dịch trang này">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Quản lý việc dịch trang">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Quản lý sử dụng phần mềm DRM">
+<!ENTITY urlbar.midiNotificationAnchor.tooltip            "Mở bảng MIDI">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Bạn đã chặn camera của mình ở trang này">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Bạn đã chặn micro của mình ở trang này">
@@ -320,8 +323,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Bạn đã chặn thông báo ở trang này.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Bạn đã chặn lưu dữ liệu lâu dài ở trang này.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Bạn đã chặn popup ở trang web này.">
+<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "Bạn đã chặn phương tiện tự động phát có âm thanh cho trang web này.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Bạn đã chặn khai thác dữ liệu canvas đối với trang web này.">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Bạn đã chặn trang web này sử dụng phần bổ trợ Adobe Flash.">
+<!ENTITY urlbar.midiBlocked.tooltip              "Bạn đã chặn quyền truy cập MIDI của trang web này.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Xem lịch sử">
 
@@ -376,15 +381,20 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Nhà phát triển Web">
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
+<!ENTITY devtoolsRecordExecution.label "Bản ghi thực thi">
+<!ENTITY devtoolsSaveRecording.label "Lưu bản ghi">
+<!ENTITY devtoolsReplayExecution.label "Thực thi lại">
 
 <!ENTITY inspectContextMenu.label     "Kiểm tra phần tử HTML">
 <!ENTITY inspectContextMenu.accesskey "Q">
 
+<!ENTITY inspectA11YContextMenu.label     "Kiểm tra thuộc tính trợ năng">
 
 <!ENTITY fileMenu.label         "Tập tin">
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newUserContext.label             "Thẻ ngăn chứa mới">
 <!ENTITY newUserContext.accesskey         "B">
+<!ENTITY manageUserContext.label          "Quản lý Thùng chứa">
 <!ENTITY manageUserContext.accesskey      "O">
 <!ENTITY newNavigatorCmd.label        "Cửa sổ mới">
 <!ENTITY newNavigatorCmd.key        "N">
@@ -500,10 +510,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
 <!ENTITY customizeMenu.addMoreItems.label "Thêm mục mới…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
+<!ENTITY customizeMenu.autoHideDownloadsButton.label "Tự động ẩn trong thanh công cụ">
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "A">
 <!ENTITY customizeMenu.manageExtension.label "Quản lí tiện ích">
 <!ENTITY customizeMenu.manageExtension.accesskey "E">
 
+<!ENTITY customizeMenu.removeExtension.label "Xóa tiện ích mở rộng">
 <!ENTITY customizeMenu.removeExtension.accesskey "v">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
@@ -827,6 +839,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (editBookmark.panel.width): width of the bookmark panel.
      Should be large enough to fully display the Done and Cancel/
      Remove Bookmark buttons. -->
+<!ENTITY editBookmark.panel.width                    "23em">
 <!ENTITY editBookmark.done.label                     "Xong">
 <!ENTITY editBookmark.showForNewBookmarks.label       "Hiện trình chỉnh sửa khi lưu">
 <!ENTITY editBookmark.showForNewBookmarks.accesskey   "S">
@@ -835,6 +848,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This is the header of the security subview in the Site Identity panel. -->
 <!ENTITY identity.securityView.label "Bảo mật trang web">
 
+<!ENTITY identity.connection "Kết nối">
 <!ENTITY identity.connectionSecure "Kết nối an toàn">
 <!ENTITY identity.connectionNotSecure "Kết nối này không an toàn">
 <!ENTITY identity.connectionFile "Trang này đã được lưu ở máy tính của bạn.">
@@ -877,6 +891,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissions "Quyền hạn">
 <!ENTITY identity.permissionsEmpty "Bạn chưa cấp cho trang này bất kỳ một quyền đặc biệt nào.">
 <!ENTITY identity.permissionsReloadHint "Bạn có thể cần phải tải lại trang để các thay đổi được áp dụng.">
+<!ENTITY identity.permissionsPreferences.tooltip "Mở tùy chọn các quyền">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -976,8 +991,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "Audio trên thẻ này sẽ được chia sẻ.">
 <!ENTITY getUserMedia.allWindowsShared.message "Tất cả các cửa sổ trên màn hình sẽ được chia sẻ.">
 
+<!ENTITY contentBlocking.title "Chặn nội dung">
+<!ENTITY contentBlocking.detected "Đã phát hiện nội dung có thể chặn được trên trang này.">
+<!ENTITY contentBlocking.notDetected "Không tìm thấy nội dung có thể chặn trên trang này.">
 <!ENTITY contentBlocking.disabled.label "Đã vô hiệu hóa">
+<!ENTITY contentBlocking.disabled.tooltip "Bạn đã tắt tính năng Chặn nội dung.">
+<!ENTITY contentBlocking.exception.tooltip "Bạn đã tắt tính năng Chặn nội dung cho trang này.">
 
+<!ENTITY contentBlocking.fastBlock.label "Trình theo dõi làm tải chậm">
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking malicious/slow content, so this is
@@ -988,17 +1009,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This label signals that this type of content blocking is turned
      ON, so this is a positive thing. It forms the verb in (imaginary) sentence
      "Firefox is blocking Slow-Loading Trackers"-->
+<!ENTITY contentBlocking.fastBlock.blocking.label "Đang chặn">
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
 
+<!ENTITY contentBlocking.trackingProtection2.label "Tất cả các trình theo dõi được phát hiện">
 
+<!ENTITY contentBlocking.trackingProtection3.label "Trình theo dõi">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.allowed.label):
      This label signals that this type of content blocking is turned
      OFF and is not blocking tracker content, so this is not
      a positive thing. It forms the end of the (imaginary) sentence
      "Trackers [are] Allowed"-->
+<!ENTITY contentBlocking.trackingProtection.allowed.label "Đã cho phép">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking tracker content, so this is
@@ -1009,12 +1034,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This label signals that this type of content blocking is turned
      ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
      "Firefox is blocking Trackers"-->
+<!ENTITY contentBlocking.trackingProtection.blocking.label "Đang chặn">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
 
 <!ENTITY contentBlocking.3rdPartyCookies.label "Cookie của bên thứ ba">
+<!ENTITY contentBlocking.3rdPartyCookies.trackers.label "Cookie theo dõi">
 <!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking third-party cookies, so this is
@@ -1025,12 +1052,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This label signals that this type of content blocking is turned
      ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
      "Firefox is blocking Third-Party Cookies"-->
+<!ENTITY contentBlocking.3rdPartyCookies.blocking.label "Đang chặn">
 <!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
 
+<!ENTITY contentBlocking.manageSettings.label "Quản lý chặn nội dung">
+<!ENTITY contentBlocking.manageSettings.accesskey "M">
 
+<!ENTITY contentBlocking.trackersView.label "Trình theo dõi">
+<!ENTITY contentBlocking.trackersView.strictInfo.label "Để chặn tất cả trình theo dõi, hãy đặt chặn nội dung thành “Nghiêm ngặt”.">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Báo cáo một lỗi">
 <!ENTITY contentBlocking.breakageReportView.label "Báo cáo lỗi">
