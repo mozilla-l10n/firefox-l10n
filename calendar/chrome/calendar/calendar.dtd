@@ -168,8 +168,8 @@
 <!ENTITY calendar.context.deleteevent.accesskey       "წ">
 <!ENTITY calendar.context.cutevent.label              "ამოჭრა">
 <!ENTITY calendar.context.cutevent.accesskey          "ჭ">
-<!ENTITY calendar.context.copyevent.label             "დაკოპირება">
-<!ENTITY calendar.context.copyevent.accesskey         "პ">
+<!ENTITY calendar.context.copyevent.label             "ასლი">
+<!ENTITY calendar.context.copyevent.accesskey         "ლ">
 <!ENTITY calendar.context.pasteevent.label            "ჩასმა">
 <!ENTITY calendar.context.pasteevent.accesskey        "ჩ">
 <!ENTITY calendar.context.button.label                "დღევანდელის სტენდი">
@@ -255,7 +255,7 @@
 <!ENTITY calendar.context.postpone.1week.accesskey  "W">
 
 <!ENTITY calendar.copylink.label       "ბმის მისამართის ასლი">
-<!ENTITY calendar.copylink.accesskey   "C">
+<!ENTITY calendar.copylink.accesskey   "ლ">
 
 <!-- Task View -->
 <!-- Note that the above *.context.* strings are currently used for the other

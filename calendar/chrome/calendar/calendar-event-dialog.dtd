@@ -104,8 +104,8 @@
 <!ENTITY  event.menu.edit.redo.accesskey                  "მ">
 <!ENTITY  event.menu.edit.cut.label                       "ამოჭრა">
 <!ENTITY  event.menu.edit.cut.accesskey                   "ო">
-<!ENTITY  event.menu.edit.copy.label                      "კოპირება">
-<!ENTITY  event.menu.edit.copy.accesskey                  "პ">
+<!ENTITY  event.menu.edit.copy.label                      "ასლი">
+<!ENTITY  event.menu.edit.copy.accesskey                  "ლ">
 <!ENTITY  event.menu.edit.paste.label                     "ჩასმა">
 <!ENTITY  event.menu.edit.paste.accesskey                 "ს">
 <!ENTITY  event.menu.edit.select.all.label                "ყველაფრის მონიშვნა">
