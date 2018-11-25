@@ -1017,7 +1017,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.fastBlock.add.label "Pridėti blokavimą…">
 
 <!ENTITY contentBlocking.trackingProtection2.label "Visi aptikti stebėjimo elementai">
+
 <!ENTITY contentBlocking.trackingProtection3.label "Stebėjimo elementai">
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.allowed.label):
+     This label signals that this type of content blocking is turned
+     OFF and is not blocking tracker content, so this is not
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Trackers [are] Allowed"-->
+<!ENTITY contentBlocking.trackingProtection.allowed.label "Leisti">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking tracker content, so this is
@@ -1053,6 +1060,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.3rdPartyCookies.add.label "Pridėti blokavimą…">
+
+<!ENTITY contentBlocking.manageSettings.label "Tvarkyti turinio blokavimą">
+<!ENTITY contentBlocking.manageSettings.accesskey "T">
+
+<!ENTITY contentBlocking.trackersView.label "Stebėjimo elementai">
+<!ENTITY contentBlocking.trackersView.strictInfo.label "Norėdami blokuoti visus stebėjimo elementus, pasirinkite „griežtą“ turinio blokavimą.">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Pranešti apie problemą">
 <!ENTITY contentBlocking.breakageReportView.label "Pranešti apie problemas">
