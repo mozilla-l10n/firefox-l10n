@@ -648,6 +648,9 @@ sitedata-cookies-exceptions =
 # in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
 # Cookies and Site Data section.
 sitedata-warning-your-settings-prevent-changes = Dine innstillinger i Innholdsblokkering forhindrer endringer i innstillinger for Infokapsler og nettstedsdata.
+sitedata-cookies-permissions =
+    .label = Behandle tillatelser…
+    .accesskey = B
 
 ## Privacy Section - Address Bar
 
@@ -668,6 +671,7 @@ addressbar-suggestions-settings = Endre innstillinger for søkeforslag
 
 content-blocking-header = Innholdsblokkering
 content-blocking-desc = Blokker tredjepartsinnhold, som annonser eller kode, som kan gjøre surfingen tregere og som kan spore deg rundt på nettet. Tilpass innstillingene for best mulig balanse mellom beskyttelse og ytelse.
+content-blocking-description = Blokker tredjepartsinnhold som sporer deg på nettet. Kontroller hvor mye av din internett-aktivitet som blir lagret og delt mellom nettsteder.
 content-blocking-learn-more = Les mer
 content-blocking-restore-defaults =
     .label = Gjenopprett standard
@@ -688,6 +692,18 @@ content-blocking-fastblock-slow-loading-trackers-label =
     .label = Treglastende sporere
     .accesskey = s
 content-blocking-fastblock-new-description = Blokker bare sporene som gjør at sider laster tregere.
+content-blocking-setting-standard =
+    .label = Standard
+    .accesskey = d
+content-blocking-setting-strict =
+    .label = Streng
+    .accesskey = r
+content-blocking-setting-custom =
+    .label = Tilpasset
+    .accesskey = p
+content-blocking-standard-desc = Balansert for beskyttelse og ytelse. Tillater noen sporere slik at nettsteder fungerer som de skal.
+content-blocking-strict-desc = Blokkerer alle sporere { -brand-short-name } oppdager. Dette kan begrense funksjonaliteten på visse nettsteder, eller gjøre at nettstedene ikke fungerer.
+content-blocking-custom-desc = Velg hva du vil blokkere.
 content-blocking-tracking-protection-trackers-label =
     .label = Sporere
     .accesskey = S
