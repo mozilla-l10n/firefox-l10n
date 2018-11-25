@@ -153,6 +153,9 @@ open-new-link-as-tabs =
 warn-on-close-multiple-tabs =
     .label = Avisalo ao pechar varias lapelas
     .accesskey = p
+warn-on-quit-close-multiple-tabs =
+    .label = Avisar cando saia e peche varias lapelas
+    .accesskey = h
 warn-on-open-many-tabs =
     .label = Avisar cando abrir varias lapelas diminúa a velocidade de { -brand-short-name }
     .accesskey = d
@@ -211,6 +214,7 @@ choose-language-description = Escolla o seu idioma preferido para amosar as páx
 choose-button =
     .label = Escoller…
     .accesskey = o
+choose-browser-language-description = Escolla os idiomas usados para amosar os menús, as mensaxes e as notificacións do { -brand-short-name }.
 manage-browser-languages-button =
     .label = Estabelecer alternativas…
     .accesskey = l
@@ -640,6 +644,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Excepcións…
     .accesskey = E
+# This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
+# in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
+# Cookies and Site Data section.
+sitedata-warning-your-settings-prevent-changes = A súa configuración de bloqueo de contido impide a modificación da configuración das cookies e dos datos do sitio.
 sitedata-cookies-permissions =
     .label = Xestionar permisos…
     .accesskey = p
@@ -662,6 +670,8 @@ addressbar-suggestions-settings = Cambiar as preferencias relacionadas coas suxe
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Bloqueo de contido
+content-blocking-desc = Bloquee o contido de terceiros, como código ou anuncios, que poden demorar a súa navegación e seguilo pola web. Personalice a súa configuración para obter o mellor equilibrio entre protección e rendemento.
+content-blocking-description = Bloquee o contido de terceiros que o segue pola web. Controle canta da súa actividade en liña se almacena e comparte entre os sitios web.
 content-blocking-learn-more = Máis información
 content-blocking-restore-defaults =
     .label = Restaurar predeterminados
