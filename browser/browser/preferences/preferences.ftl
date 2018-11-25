@@ -691,6 +691,16 @@ content-blocking-fastblock-slow-loading-trackers-label =
     .label = Баяу жүктелетін трекерлер
     .accesskey = ж
 content-blocking-fastblock-new-description = Тек беттердің жылдам жүктелуіне жол бермейтін трекерлерді бұғаттау.
+content-blocking-setting-standard =
+    .label = Қалыпты
+    .accesskey = п
+content-blocking-setting-strict =
+    .label = Қатаң
+    .accesskey = т
+content-blocking-setting-custom =
+    .label = Таңдауыңызша
+    .accesskey = ы
+content-blocking-learn-how = Көбірек білу
 content-blocking-tracking-protection-trackers-label =
     .label = Трекерлер
     .accesskey = Т
@@ -726,6 +736,9 @@ content-blocking-reject-trackers-block-trackers-option =
 content-blocking-reject-trackers-all-third-parties-option =
     .label = Барлық үшінші жақты cookies (веб-сайтта сынуы мүмкін)
     .accesskey = а
+content-blocking-cookies-label =
+    .label = Cookies
+    .accesskey = C
 
 ## Privacy Section - Tracking
 
