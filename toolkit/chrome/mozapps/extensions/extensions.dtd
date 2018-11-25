@@ -3,11 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY addons.windowTitle                   "Gestionari de moduls complementaris">
 
-<!ENTITY search.placeholder                   "Recercar dins totes los moduls">
-
 <!ENTITY search.placeholder2                  "Cercar dins addons.mozilla.org">
+
 <!ENTITY search.buttonlabel                   "Recercar">
-<!-- LOCALIZATION NOTE (search.commandKey):
+<!-- LOCALIZATION NOTE (search.commandkey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
 
@@ -16,7 +15,6 @@
 <!ENTITY listEmpty.availableUpdates.label     "Cap de mesa a jorn pas trobada">
 <!ENTITY listEmpty.recentUpdates.label        "Avètz pas mes a jorn vòstres moduls complementaris dempuèi un certan temps">
 <!ENTITY listEmpty.findUpdates.label          "Recèrca las mesas a jorn">
-<!ENTITY listEmpty.search.label               "Pas cap de modul correspondent">
 <!ENTITY listEmpty.button.label               "N'aprene mai suls moduls complementaris">
 <!ENTITY installAddonFromFile.label           "Installar un modul dins d’un fichièr…">
 <!ENTITY installAddonFromFile.accesskey       "I">
@@ -41,10 +39,13 @@
 <!ENTITY warning.updatesecurity.enable.tooltip     "Activar la verificacion de mesas a jorn de seguretat pels moduls complementaris">
 
 <!-- categories / views -->
-<!ENTITY view.search.label                    "Recercar">
 <!ENTITY view.discover.label                  "Obténer de moduls complementaris">
 <!ENTITY view.recentUpdates.label             "Mes a jorn">
 <!ENTITY view.availableUpdates.label          "De metre a jorn">
+
+<!ENTITY helpButton.label                      "Assisténcia dels moduls">
+<!ENTITY preferencesWin.label                  "Opcions &brandShortName;">
+<!ENTITY preferencesUnix.label                 "Preferéncias &brandShortName;">
 
 <!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "Recercar de mesas a jorn">
@@ -84,9 +85,8 @@
 <!ENTITY cmd.preferencesWin.accesskey         "O">
 <!ENTITY cmd.preferencesUnix.label            "Preferéncias">
 <!ENTITY cmd.preferencesUnix.accesskey        "r">
-<!ENTITY cmd.about.label                      "A prepaus de">
-<!ENTITY cmd.about.accesskey                  "e">
 
+<!-- addon actions -->
 <!ENTITY cmd.enableAddon.label                "Activar">
 <!ENTITY cmd.enableAddon.accesskey            "A">
 <!ENTITY cmd.disableAddon.label               "Desactivar">
@@ -95,6 +95,7 @@
 <!ENTITY cmd.enableTheme.accesskey            "A">
 <!ENTITY cmd.disableTheme.label               "Levar lo tèma">
 <!ENTITY cmd.disableTheme.accesskey           "e">
+
 <!ENTITY cmd.askToActivate.label              "Demandar per activar">
 <!ENTITY cmd.askToActivate.tooltip            "Demandar a cada còp la permission d'utilizar aqueste modul complementari">
 <!ENTITY cmd.alwaysActivate.label             "Activar totjorn">
@@ -104,6 +105,7 @@
 <!ENTITY cmd.stateMenu.tooltip                "Causir quora utilizar aqueste modul complementari">
 <!ENTITY cmd.installAddon.label               "Installar">
 <!ENTITY cmd.installAddon.accesskey           "I">
+
 <!ENTITY cmd.uninstallAddon.label             "Suprimir">
 <!ENTITY cmd.uninstallAddon.accesskey         "S">
 <!ENTITY cmd.showPreferencesWin.label         "Opcions">
@@ -132,7 +134,6 @@
 <!ENTITY detail.lastupdated.label             "Darrièra mesa a jorn">
 <!ENTITY detail.creator.label                 "Desvolopaire">
 <!ENTITY detail.homepage.label                "Pagina d'acuèlh">
-<!ENTITY detail.numberOfDownloads.label       "Telecargaments">
 
 <!ENTITY detail.contributions.description     "Lo desvolopaire d'aqueste modul demanda que l'ajudetz a assegurar lo contunhament de son desvolopament en li pagant una pichona contribucion.">
 
@@ -163,26 +164,12 @@
 
 <!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "Pausa">
+
+<!-- download/install progress -->
 <!ENTITY progress.cancel.tooltip              "Anullar">
 
-
-<!-- list sorting -->
-<!ENTITY sort.name.label                      "Nom">
-<!ENTITY sort.name.tooltip                    "Triar per nom">
-<!ENTITY sort.dateUpdated.label               "Darrièra mesa a jorn">
-<!ENTITY sort.dateUpdated.tooltip             "Triar per data de darrièra mesa a jorn">
-<!ENTITY sort.relevance.label                 "Pertinéncia">
-<!ENTITY sort.relevance.tooltip               "Triar per pertinéncia">
-<!ENTITY sort.price.label                     "Prètz">
-<!ENTITY sort.price.tooltip                   "Triar per prèses">
-
-<!ENTITY search.filter2.label                 "Recercar :">
-<!ENTITY search.filter2.installed.label       "Mos moduls complementaris">
-<!ENTITY search.filter2.installed.tooltip     "Afichar los moduls complementaris installats">
-<!ENTITY search.filter2.available.label       "Moduls complementaris disponibles">
-<!ENTITY search.filter2.available.tooltip     "Afichar los moduls complementaris disponibles a l'installacion">
-
 <!ENTITY addon.homepage                       "Pagina d'acuèlh">
+
 <!ENTITY addon.details.label                  "Mai">
 <!ENTITY addon.details.tooltip                "Afichar mai de detalhs a prepaus d'aqueste modul complementari">
 <!ENTITY addon.unknownDate                    "Desconegut">
@@ -204,6 +191,7 @@
 <!ENTITY addon.undoRemove.label               "Anullar">
 <!ENTITY addon.undoRemove.tooltip             "Conservar aqueste modul complementari">
 <!ENTITY addon.restartNow.label               "Reaviar ara">
+
 <!ENTITY addon.install.label                  "Installar">
 <!ENTITY addon.install.tooltip                "Installar aqueste modul complementari">
 <!ENTITY addon.updateNow.label                "Metre a jorn ara">
@@ -223,17 +211,6 @@
 <!ENTITY eula.accept                          "Acceptar e installar…">
 
 <!ENTITY settings.path.button.label           "Percórrer…">
-
-<!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
-     experiments are present on the "Experiments" tab of the add-ons manager.
-     This tab won't be displayed unless an Experiment add-on is installed.
-     Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
-     to cause this tab to appear. -->
-<!ENTITY experiment.info.label "Qu'es aquò ? La telemetria pòt installar e aviar d'experimentacions de temps en temps.">
-<!ENTITY experiment.info.learnmore "N'aprendre mai">
-<!ENTITY experiment.info.learnmore.accesskey "L">
-<!ENTITY experiment.info.changetelemetry "Paramètres de Telemetria">
-<!ENTITY experiment.info.changetelemetry.accesskey "T">
 
 <!ENTITY setting.learnmore "Ne saber mai…">
 

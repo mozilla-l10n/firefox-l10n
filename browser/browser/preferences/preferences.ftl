@@ -648,6 +648,9 @@ content-blocking-toggle-label-on = ACTIU
 content-blocking-toggle-label-off = INACTIU
     .accesskey = I
 content-blocking-category-label = Seleccionar lo contengut de blocar
+content-blocking-setting-standard =
+    .label = Standard
+    .accesskey = d
 content-blocking-tracking-protection-trackers-label =
     .label = Traçadors
     .accesskey = T
@@ -657,9 +660,18 @@ content-blocking-tracking-protection-all-detected-trackers-label =
 content-blocking-tracking-protection-option-always =
     .label = Totjorn
     .accesskey = T
+content-blocking-change-cookie-settings =
+    .label = Cambiar los paramètres de cookies
+    .accesskey = C
+content-blocking-reject-trackers-block-trackers-option-recommended =
+    .label = Traçadors (recomandat)
+    .accesskey = d
 content-blocking-reject-trackers-block-trackers-option =
     .label = Traçadors
     .accesskey = d
+content-blocking-cookies-label =
+    .label = Cookies
+    .accesskey = C
 
 ## Privacy Section - Tracking
 
