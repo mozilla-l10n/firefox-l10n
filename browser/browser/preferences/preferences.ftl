@@ -636,6 +636,9 @@ sitedata-cookies-exceptions =
 # in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
 # Cookies and Site Data section.
 sitedata-warning-your-settings-prevent-changes = Cài đặt chặn nội dung của bạn đang ngăn các thay đổi về cài đặt cookie và dữ liệu trang web.
+sitedata-cookies-permissions =
+    .label = Quản lí các quyền...
+    .accesskey = P
 
 ## Privacy Section - Address Bar
 
@@ -656,6 +659,7 @@ addressbar-suggestions-settings = Thay đổi tùy chỉnh phần gợi ý của
 
 content-blocking-header = Chặn nội dung
 content-blocking-desc = Chặn nội dung của bên thứ ba, như quảng cáo hoặc mã, có thể làm chậm quá trình duyệt web của bạn và theo dõi bạn trên web. Tùy chỉnh cài đặt của bạn để cân bằng tốt nhất sự bảo vệ và hiệu suất.
+content-blocking-description = Chặn nội dung của bên thứ ba theo dõi bạn trên web. Kiểm soát số lượng hoạt động trực tuyến của bạn được lưu trữ và chia sẻ giữa các trang web.
 content-blocking-learn-more = Tìm hiểu thêm
 content-blocking-restore-defaults =
     .label = Khôi phục về mặc định
@@ -676,6 +680,25 @@ content-blocking-fastblock-slow-loading-trackers-label =
     .label = Trình truy dấu tác nhân tải chậm
     .accesskey = T
 content-blocking-fastblock-new-description = Chỉ chặn các trình theo dõi làm chậm việc tải trang.
+content-blocking-setting-standard =
+    .label = Tiêu chuẩn
+    .accesskey = d
+content-blocking-setting-strict =
+    .label = Nghiêm ngặt
+    .accesskey = r
+content-blocking-setting-custom =
+    .label = Tùy chọn
+    .accesskey = c
+content-blocking-standard-desc = Cân bằng giữa sự bảo mật và hiệu suất. Cho phép một số trình theo dõi để các trang web hoạt động chính xác.
+content-blocking-strict-desc = Chặn tất cả trình theo dõi mà { -brand-short-name } phát hiện. Có thể khiến một số trang web bị hỏng.
+content-blocking-custom-desc = Chọn những gì bạn muốn chặn.
+content-blocking-private-trackers = Trình theo dõi được biết chỉ trong Cửa sổ riêng tư
+content-blocking-third-party-cookies = Cookie theo dõi của bên thứ ba
+content-blocking-all-windows-trackers = Các trình theo dõi đã biết trong tất cả cửa sổ
+content-blocking-all-third-party-cookies = Toàn bộ cookie từ bên thứ ba
+content-blocking-warning-title = Hãy cẩn thận!
+content-blocking-warning-desc = Chặn cookie và trình theo dõi có thể khiến một số trang web bị hỏng. Dễ dàng để tắt tính năng chặn cho các trang web bạn tin tưởng.
+content-blocking-learn-how = Tìm hiểu cách thức
 content-blocking-tracking-protection-trackers-label =
     .label = Trình theo dõi
     .accesskey = T
@@ -711,6 +734,9 @@ content-blocking-reject-trackers-block-trackers-option =
 content-blocking-reject-trackers-all-third-parties-option =
     .label = Tất cả cookie của bên thứ ba (có thể khiến trang web bị gián đoạn)
     .accesskey = A
+content-blocking-cookies-label =
+    .label = Cookie
+    .accesskey = C
 
 ## Privacy Section - Tracking
 
@@ -732,6 +758,9 @@ tracking-exceptions =
 tracking-change-block-list =
     .label = Thay đổi danh sách chặn…
     .accesskey = C
+tracking-manage-exceptions =
+    .label = Quản lý các ngoại lệ…
+    .accesskey = x
 
 ## Privacy Section - Permissions
 
