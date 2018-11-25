@@ -82,5 +82,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY copyLinkCmd.label "ბმულის მისამართის ასლი">
 <!ENTITY copyLinkCmd.accesskey "ლ">
-<!ENTITY copyEmailCmd.label "ელფოსტის მისამართის დაკოპირება">
+<!ENTITY copyEmailCmd.label "ელფოსტის მისამართის ასლი">
 <!ENTITY copyEmailCmd.accesskey "ე">
