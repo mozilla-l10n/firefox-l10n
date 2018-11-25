@@ -5,7 +5,7 @@
 -sync-brand-short-name = Đồng bộ
 # “Sync” can be localized, “Firefox” must be treated as a brand,
 # and kept in English.
--sync-brand-name = Đồng bộ Firefox
+-sync-brand-name = Đồng bộ hóa Firefox
 # “Account” can be localized, “Firefox” must be treated as a brand,
 # and kept in English.
 -fxaccount-brand-name = Tài khoản Firefox
