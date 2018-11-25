@@ -110,6 +110,9 @@ was trying to connect. -->
 
 <!ENTITY certerror.sts.introPara "&brandShortName; oppdaget en potensiell sikkerhetstrussel og fortsatte ikke til <span class='hostname'/> fordi dette nettstedet krever en sikker tilkobling.">
 
+<!ENTITY certerror.expiredCert.introPara "&brandShortName; oppdaget et problem og fortsatte ikke til <span class='hostname'/>. Nettstedet er enten feilkonfigurert eller datamaskinens klokke er innstilt til feil tid.">
+<!ENTITY certerror.expiredCert.secondPara2 "Det er sannsynligvis at nettstedets sertifikat er utløpt, noe som forhindrer &brandShortName; fra å koble til sikkert. Hvis du besøker dette nettstedet, kan angriperne prøve å stjele informasjon som passord, e-post eller kredittkortdetaljer.">
+<!ENTITY certerror.expiredCert.sts.secondPara "Nettstedets sertifikat er sannsynligvis utløpt, noe som forhindrer &brandShortName; fra å opprette en sikker forbindelse.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Hva kan du gjøre med det?">
 
@@ -158,6 +161,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.pagetitle1  "Usikker tilkobling">
 <!ENTITY certerror.pagetitle2  "Advarsel: Potensiell sikkerhetsrisiko forut">
+<!ENTITY certerror.sts.pagetitle  "Koblet ikke til: Potensielt sikkerhetsproblem">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Dette nettstedet bruker HTTP Strict Transport Security (HSTS) for å spesifisere at &brandShortName; bare kan koble til det sikkert. Derfor kan en ikke legge til et unntak for dette sertifikatet.">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> har en sikkerhetspolicy kalt HTTP Strict Transport Security (HSTS), som betyr at &brandShortName; bare kan koble til den sikkert. Du kan ikke legge til et unntak for å besøke dette nettstedet.">
 <!ENTITY certerror.copyToClipboard.label "Kopier tekst til utklippstavlen">
@@ -175,3 +179,5 @@ was trying to connect. -->
 <!ENTITY prefReset.longDesc "Det ser ut til at nettverkets sikkerhetsinnstillinger kan være årsak til dette. Vil du tilbakestille til standardinnstillinger?">
 <!ENTITY prefReset.label "Gjenopprett standardinnstillinger">
 
+<!ENTITY networkProtocolError.title "Nettverksprotokollfeil">
+<!ENTITY networkProtocolError.longDesc "<p>Siden du forsøker å vise kan ikke åpnes fordi en feil i nettverksprotokollen ble oppdaget.</p><ul><li>Kontakt nettstedseierne og informer dem om dette problemet.</li></ul>">
