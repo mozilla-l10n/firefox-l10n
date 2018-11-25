@@ -7,6 +7,7 @@
 
 site-data-settings-window =
     .title = Quản lý cookie  và dữ liệu trang
+site-data-settings-description = Các trang web sau lưu trữ cookie và dữ liệu trang web trên máy tính của bạn. { -brand-short-name } lưu giữ dữ liệu từ các trang web có lưu trữ liên tục cho đến khi bạn xóa, xóa dữ liệu khỏi các trang web có bộ nhớ không liên tục khi cần thiết.
 site-data-search-textbox =
     .placeholder = Tìm kiếm trang web
     .accesskey = S
@@ -31,6 +32,7 @@ site-data-button-save =
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 site-usage-pattern = { $value } { $unit }
+site-usage-persistent = { site-usage-pattern } (Vĩnh viễn)
 site-data-remove-all =
     .label = Xóa hết
     .accesskey = e
