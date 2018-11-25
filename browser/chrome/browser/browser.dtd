@@ -1095,9 +1095,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock5.label "Slå av blokkering for dette nettstedet">
+<!ENTITY trackingProtection.unblock5.accesskey "t">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate6.label, trackingProtection.unblockPrivate6.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate5.label "Slå av blokkering midlertidig">
+<!ENTITY trackingProtection.unblockPrivate5.accesskey "t">
+<!ENTITY trackingProtection.block6.label "Slå på blokkering for dette nettstedet">
+<!ENTITY trackingProtection.block6.accesskey "t">
 <!ENTITY trackingProtection.reload2.label "Oppdater siden">
 <!ENTITY trackingProtection.reload2.accesskey "r">
 
