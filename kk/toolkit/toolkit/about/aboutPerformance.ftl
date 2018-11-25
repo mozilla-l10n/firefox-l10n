@@ -44,3 +44,13 @@ close-tab =
     .title = Бетті жабу
 show-addon =
     .title = Қосымшалар басқарушысында көрсету
+# Tooltip when hovering an item of the about:performance table
+# Variables:
+#   $totalDispatches (Number) - how many dispatches occured for this page since it loaded
+#   $totalDuration (Number) - how much CPU time was used by this page since it loaded
+#   $dispatchesSincePrevious (Number) - how many dispatches occured in the last 2 seconds
+#   $durationSincePrevious (Number) - how much CPU time was used in the last 2 seconds
+item =
+    .title =
+        Жүктелуден кейін қолданылған процессор ресурстары: { $totalDispatches } ({ $totalDuration }мс)
+        Соңғы секундтарда қолданылған процессор ресурстары: { $dispatchesSincePrevious } ({ $durationSincePrevious }мс)

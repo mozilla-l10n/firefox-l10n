@@ -12,7 +12,6 @@
 <!ENTITY aboutTelemetry.optionGroupToday "Бүгін">
 <!ENTITY aboutTelemetry.optionGroupYesterday "Кеше">
 <!ENTITY aboutTelemetry.optionGroupOlder "Ескілеу">
-<!ENTITY aboutTelemetry.payloadChoiceHeader "  Жүктемесі">
 <!-- LOCALIZATION NOTE(aboutTelemetry.previousPing, aboutTelemetry.nextPing):
 	These strings are displayed when selecting Archived pings, and they’re
 	used to move to the next or previous ping. -->
@@ -24,6 +23,8 @@
 <!ENTITY aboutTelemetry.firefoxDataDoc "<a>Firefox деректер құжаттамасында</a> біздің деректер құралдарымен қалай жұмыс жасау керектігі туралы нұсқаулықтар бар.">
 <!ENTITY aboutTelemetry.telemetryClientDoc "<a>Firefox телеметрия клиентінің құжаттамасында</a> концепттер үшін анықтамалар, API құжаттамасы және деректерге сілтемелер бар.">
 <!ENTITY aboutTelemetry.telemetryDashboard "<a>Телеметрия панелінде</a> Mozilla телеметрия арқылы алған деректерді графикалық түрде қарауға болады.">
+
+<!ENTITY aboutTelemetry.telemetryProbeDictionary "<a>Зондтар сөздігі</a> Телеметрия жинаған зондтар ақпаратын және сипаттамасын сақтайды.">
 
 <!ENTITY aboutTelemetry.showInFirefoxJsonViewer "JSON көрсетушісінде ашу">
 
@@ -37,9 +38,7 @@
 <!ENTITY aboutTelemetry.keyedHistogramsSection "  Пернелер гистограммалары">
 <!ENTITY aboutTelemetry.eventsSection "  Оқиғалар">
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Қарапайым өлшемдер">
-<!ENTITY aboutTelemetry.telemetryLogSection "  Телеметрия логы">
 <!ENTITY aboutTelemetry.slowSqlSection "  Баяу SQL сұраныстары">
-<!ENTITY aboutTelemetry.chromeHangsSection "  Браузердің тоқталуы">
 <!ENTITY aboutTelemetry.addonDetailsSection "  Қосымша ақпараты">
 <!ENTITY aboutTelemetry.capturedStacksSection "  Түсірілген стектер">
 <!ENTITY aboutTelemetry.lateWritesSection "  Кеш жазулар">

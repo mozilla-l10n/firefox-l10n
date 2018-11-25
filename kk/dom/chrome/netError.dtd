@@ -90,3 +90,4 @@
 <!ENTITY blockedByPolicy.title "Бұғатталған бет">
 
 <!ENTITY networkProtocolError.title "Желілік хаттама қатесі">
+<!ENTITY networkProtocolError.longDesc "<p>Сіз сұраған парақты желілік хаттамада анықталған қате салдарынан көрсету мүмкін емес.</p><ul><li>Веб-сайт иелеріне бұл мәселені белгілі ету үшін хабарласыңыз.</li></ul>">
