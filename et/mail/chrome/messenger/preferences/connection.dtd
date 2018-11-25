@@ -53,3 +53,6 @@
 <!ENTITY  dnsOverHttpsUrlDefault.label     "kasutatakse vaikeaadressi">
 <!ENTITY  dnsOverHttpsUrlDefault.accesskey "t">
 <!ENTITY  dnsOverHttpsUrlDefault.tooltip   "Kasuta üle HTTPSi töötava DNSi puhul vaikeaadressi">
+<!ENTITY  dnsOverHttpsUrlCustom.label      "kohandatud aadress">
+<!ENTITY  dnsOverHttpsUrlCustom.accesskey  "h">
+<!ENTITY  dnsOverHttpsUrlCustom.tooltip    "Sisesta üle HTTPSi töötava DNSi jaoks oma eelistatud URL">
