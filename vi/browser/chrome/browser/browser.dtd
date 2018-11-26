@@ -108,7 +108,7 @@ These two items have the same accesskey but will never be visible at the same ti
 <!ENTITY  moveToEnd.accesskey                "E">
 <!ENTITY  moveToNewWindow.label              "Di chuyển sang cửa sổ mới">
 <!ENTITY  moveToNewWindow.accesskey          "W">
-<!ENTITY  reopenInContainer.label            "Mở trong Thùng chứa">
+<!ENTITY  reopenInContainer.label            "Mở trong Ngăn chứa">
 <!ENTITY  reopenInContainer.accesskey        "e">
 <!ENTITY  bookmarkAllTabs.label              "Đánh dấu tất cả các thẻ…">
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
@@ -394,7 +394,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newUserContext.label             "Thẻ ngăn chứa mới">
 <!ENTITY newUserContext.accesskey         "B">
-<!ENTITY manageUserContext.label          "Quản lý Thùng chứa">
+<!ENTITY manageUserContext.label          "Quản lý Ngăn chứa">
 <!ENTITY manageUserContext.accesskey      "O">
 <!ENTITY newNavigatorCmd.label        "Cửa sổ mới">
 <!ENTITY newNavigatorCmd.key        "N">
