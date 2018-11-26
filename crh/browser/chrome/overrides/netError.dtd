@@ -8,7 +8,12 @@
 <!ENTITY loadError.label "Saife yüklemekte mesele">
 <!ENTITY retry.label "Yañıdan Deñe">
 <!ENTITY returnToPreviousPage.label "Keri Bar">
+<!ENTITY returnToPreviousPage1.label "Keri Bar (Tevsiyeli)">
 <!ENTITY advanced.label "İleriletilgen">
+<!ENTITY continue2.label "Daa çoq…">
+<!ENTITY moreInformation.label "Daa Çoq Malümat">
+
+<!ENTITY viewCertificate.label "Şeadetnameni Köster">
 
 <!-- Specific error messages -->
 
@@ -141,10 +146,36 @@
 ">
 
 <!ENTITY certerror.longpagetitle1 "Bağlantıñız emniyetli degildir">
-<!-- Localization note (certerror.introPara) - The text content of the span tag
+<!ENTITY certerror.longpagetitle2 "Tenbi: Potensial Emniyet Riski İleride">
+<!ENTITY certerror.sts.longpagetitle  "Bağlanılmadı: Potensial Emniyet Meselesi">
+<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "<span class='hostname'/> qonaqbayınıñ saibi saytını ğayrımünasip endamlandırğandır. Malümatıñıznı hırsızlanmaqtan imaye etmek içün, &brandShortName; bu ağ-saytına bağlanmağandır.">
+<!ENTITY certerror.introPara2 "&brandShortName; potensial bir emniyet qorquzuvı alğıladı ve <span class='hostname'/> adresine devam etmedi. Bu saytnı ziyaret etseñiz, ücümciler sır-sözler, e-poçtalar ve kredit kartı tafsilâtları kibi malümatıñıznı hırsızlamağa talpınabilir.">
+
+
+<!ENTITY certerror.sts.introPara "&brandShortName; potensial bir emniyet qorquzuvı alğıladı ve <span class='hostname'/> adresine devam etmedi çünki bu sayt emniyetli bir bağlantını şart qoşa.">
+
+<!ENTITY certerror.expiredCert.introPara "&brandShortName; potensial bir mesele alğıladı ve <span class='hostname'/> adresine devam etmedi. Ya bu sayt yañlış endamlandırılğan ya da bilgisayar saatıñız yañlış vaqıtqa tesbit etilgen.">
+<!ENTITY certerror.expiredCert.secondPara2 "Muhtemelen ağ-saytınıñ şeadetnamesi eskirgen ve bu sebepten &brandShortName; emniyetli bağlantı quralmay. Bu saytnı ziyaret etseñiz, ücümciler sır-sözler, e-poçtalar ve kredit kartı tafsilâtları kibi malümatıñıznı hırsızlamağa talpınabilir.">
+<!ENTITY certerror.expiredCert.sts.secondPara "Muhtemelen ağ-saytınıñ şeadetnamesi eskirgen ve bu &brandShortName; uyğulamasınıñ emniyetli bağlantı qurmasınıñ aldını ala.">
+
+<!ENTITY certerror.whatCanYouDoAboutItTitle "Bunıñ aqqında ne yapabilirsiñiz?">
+
+<!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "
+<p>Mesele muhtemelen ağ-saytındadır ve onı çezmek içün yapabilgeniñiz bir şey yoq.</p>
+<p>Qurumsal bir şebeke üzerinde iseñiz yaki anti-virus yazılımı qullana iseñiz, yardım içün destek taqımlarına temas qurmağa deñeybilirsiñiz. Ağ-saytınıñ memurını da bu mesele aqqında haberdar etebilirsiñiz.</p>
+">
+
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "
+<p>Bilgisayarıñıznıñ saatı <span id='wrongSystemTime_systemDate2'/> olaraq ayarlanğan. Sistem ayarlarıñızda bilgisayarıñıznıñ doğru tarih, saat ve saat tilimine tesbit etilgen olğanını teşkeriñiz ve soñra <span class='hostname'/> saifesini tazertiñiz.</p>
+<p>Saatıñız zaten doğru vaqıtqa ayarlanğan ise, muhtemelen ağ-saytı yañlış endamlandırılğandır ve bu meseleni çezmek içün bir şey yapalmazsıñız. Bu mesele aqqında ağ-saytı memurını haberdar etebilirsiñiz.</p>
+">
+
+<!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "
+<p>Mesele muhtemelen ağ-saytındadır ve onı çezmek içün bir şey yapalmaysıñız. Bu mesele aqqında ağ-saytı memurını haberdar etebilirsiñiz.</p>
+">
 
 <!ENTITY sharedLongDesc " <ul>  
 	<li>Sayt muvaqqat olaraq faydalanışsız ya da fazla meşğul olabilir. Birazdan yañıdan deñeñiz.</li>
@@ -160,6 +191,7 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "İstisna Ekle…">
+<!ENTITY securityOverride.exceptionButton1Label "Riskni Qabul Et ve Devam Et">
 
 <!ENTITY errorReporting.automatic2 "Mozilla’ğa fena-niyetli saytlarnı teşhis etip bloklamağa yardım etmek üzre bunıñ kibi hatalarnı maruza et">
 <!ENTITY errorReporting.learnMore "Daa çoq ögren…">
@@ -179,10 +211,13 @@ was trying to connect. -->
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p> &brandShortName; <span id='wrongSystemTimeWithoutReference_URL'/> qonumına bağlanmadı çünki bilgisayarıñıznıñ saatı ğaliba yañlış vaqıt köstere ve bu emniyetli bağlantını öñley.</p> <p>Bilgisayarıñıznıñ vaqtı <span id='wrongSystemTimeWithoutReference_systemDate'/> olaraq tesbit etilgen. Bu meseleni tüzetmek içün, tarih ve vaqıt ayarlarıñıznı doğru vaqıt ile eşleşmek üzre deñiştiriñiz.</p>">
 
 <!ENTITY certerror.pagetitle1  "Emniyetsiz Bağlantı">
+<!ENTITY certerror.pagetitle2  "Tenbi: Potensial Emniyet Riski İleride">
+<!ENTITY certerror.sts.pagetitle  "Bağlanılmadı: Potensial Emniyet Meselesi">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Bu sayt, &brandShortName; kezicisi içün oña faqat emniyetlice bağlanmağa caiz olğanını 
 belirtmek içün HTTP 
 Sıqı Naqliye Emniyeti (HSTS (HSNE)) qullana. Netice olaraq, bu şeadetname
 içün bir istisna eklemege mümkün degildir.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span>, HTTP Sıqı Naqliye Emniyeti (HSNE; HSTS) dengen bir emniyet siyasetine saiptir ki, &brandShortName; oña faqat emniyetlice bağlanabilir demek. Bu saytnı ziyaret etmek içün bir istisna ekleyalmaysıñız.">
 <!ENTITY certerror.copyToClipboard.label "Metinni tüyreme-tahtasına kopiyala">
 
 <!ENTITY inadequateSecurityError.title "Bağlantıñız emniyetli degildir">
@@ -192,5 +227,9 @@ içün bir istisna eklemege mümkün degildir.">
 
 <!ENTITY blockedByPolicy.title "Bloklanğan Saife">
 
+<!ENTITY clockSkewError.title "Bilgisayar Saatıñız Yañlış">
+<!ENTITY clockSkewError.longDesc "Bilgisayarıñız saatnıñ <span id='wrongSystemTime_systemDate1'/> olğanını tüşüne ve bu yüzden &brandShortName; emniyetlice bağlanalmay. <span class='hostname'></span> adresini ziyaret etmek içün, sistem ayarlarıñızda bilgisayarıñıznıñ tarihi, saatı ve saat tilimini yañartıp <span class='hostname'></span> saifesini tazertiñiz.">
+
 <!ENTITY prefReset.longDesc "Bunıñ müsebbibi şebeke emniyeti ayarları olabilir kibi körüne. Ögbelgilengen ayarlarnıñ keri tiklenmesini isteysiñizmi?">
 <!ENTITY prefReset.label "Ögbelgilengen ayarlarnı keri tikle">
+

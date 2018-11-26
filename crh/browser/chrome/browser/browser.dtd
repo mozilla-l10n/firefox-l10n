@@ -23,10 +23,20 @@
 <!ENTITY  reloadTab.accesskey                "K">
 <!ENTITY  reloadAllTabs.label                "Episi İlmeklerni Kene Yükle">
 <!ENTITY  reloadAllTabs.accesskey            "e">
+<!ENTITY  selectAllTabs.label                "İlmeklerniñ Episini Sayla">
+<!ENTITY  selectAllTabs.accesskey            "S">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
 <!ENTITY  duplicateTab.label                 "Mükerrer İlmek">
+<!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
+These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  duplicateTab.accesskey             "M">
+<!ENTITY  closeTabOptions.label              "İlmek Seçeneklerini Qapat">
+<!ENTITY  closeTabOptions.accesskey          "Q">
+<!-- LOCALIZATION NOTE (duplicateTabs.label): This is a command to duplicate
+a tab (i.e. it is a verb, not adjective). -->
+<!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
+These items have the same accesskey but will never be visible at the same time. -->
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -38,12 +48,28 @@ left instead of right. -->
 <!ENTITY  closeSelectedTabs.label            "Saylanğan İlmeklerni Qapat">
 <!ENTITY  closeSelectedTabs.accesskey        "S">
 
-<!-- Pin Tab and Pin Selected Tabs have the same accesskey
-but will never be visible at the same time. -->
-<!-- Unpin Tab and Unpin Selected Tabs have the same accesskey
-but will never be visible at the same time. -->
+<!ENTITY  closeTabs.label                    "İlmeklerni Qapat">
+<!ENTITY  closeTabs.accesskey                "Q">
+<!ENTITY  pinSelectedTabs.label              "İlmeklerni Tüyre">
+<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
+unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!ENTITY  pinSelectedTabs.accesskey          "T">
+<!ENTITY  unpinSelectedTabs.label            "İlmeklerni Tüyrelmegen Yap">
+<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
+unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!ENTITY  unpinSelectedTabs.accesskey        "T">
 <!-- Reload Tab and Reload Selected Tabs have the same accesskey
 but will never be visible at the same time. -->
+<!-- LOCALIZATION NOTE(reloadTab.label, reloadTabs.label): have the same accesskey
+but will never be visible at the same time. -->
+<!ENTITY  reloadTabs.label                   "İlmeklerni Kene Yükle">
+<!ENTITY  reloadTabs.accesskey               "e">
+<!ENTITY  bookmarkSelectedTabs.label         "İlmeklerni İmle…">
+<!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
+These items have the same accesskey but will never be visible at the same time. -->
+<!ENTITY  bookmarkSelectedTabs.accesskey     "m">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -51,8 +77,14 @@ left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 <!ENTITY  pinTab.label                       "İlmekni Tüyre">
+<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
+unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY  pinTab.accesskey                   "T">
 <!ENTITY  unpinTab.label                     "İlmekni Tüyrelmegen Yap">
+<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
+unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinTab.accesskey                 "m">
 <!ENTITY  sendTabToDevice.label              "İlmekni Cihazğa Yiber">
 <!ENTITY  sendTabToDevice.accesskey          "n">
@@ -60,12 +92,26 @@ can reach it easily. -->
 <!ENTITY  sendPageToDevice.accesskey         "n">
 <!ENTITY  sendLinkToDevice.label             "İlişimni Cihazğa Yiber">
 <!ENTITY  sendLinkToDevice.accesskey         "n">
+<!-- LOCALIZATION NOTE (moveTabOptions.label and moveSelectedTabOptions.label):
+These two items have the same accesskey but will never be visible at the same time. -->
+<!ENTITY  moveTabOptions.label               "İlmeklerni Avuştır">
+<!ENTITY  moveTabOptions.accesskey           "v">
+<!ENTITY  moveSelectedTabOptions.label       "İlmeklerni Avuştır">
+<!ENTITY  moveSelectedTabOptions.accesskey   "v">
+<!ENTITY  moveToStart.label                  "Başlanğıçqa Avuştır">
+<!ENTITY  moveToStart.accesskey              "B">
+<!ENTITY  moveToEnd.label                    "Ahırğa Avuştır">
+<!ENTITY  moveToEnd.accesskey                "A">
 <!ENTITY  moveToNewWindow.label              "Yañı Pencerege Avuştır">
 <!ENTITY  moveToNewWindow.accesskey          "P">
 <!ENTITY  reopenInContainer.label            "Konteynerde Kene Aç">
 <!ENTITY  reopenInContainer.accesskey        "e">
 <!ENTITY  bookmarkAllTabs.label              "İlmeklerniñ Episini İmle…">
 <!ENTITY  bookmarkAllTabs.accesskey          "l">
+<!ENTITY  bookmarkTab.label                  "İlmekni İmle">
+<!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
+These items have the same accesskey but will never be visible at the same time. -->
+<!ENTITY  bookmarkTab.accesskey              "m">
 <!ENTITY  undoCloseTab.label                 "Qapatılğan İlmekni Keri Aç">
 <!ENTITY  undoCloseTab.accesskey             "K">
 <!ENTITY  closeTab.label                     "İlmekni Qapat">
@@ -92,6 +138,8 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.accesskey "B">
 <!ENTITY printCmd.commandkey "P">
 
+<!ENTITY taskManagerCmd.label "Uhde İdareçisi">
+
 <!ENTITY goOfflineCmd.label "Devre-tışı Çalış">
 <!ENTITY goOfflineCmd.accesskey "v">
 
@@ -106,6 +154,29 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "e">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "İlmeklerniñ Episini İmle…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "l">
+
+<!ENTITY toolbarContextMenu.reloadSelectedTab.label "Saylanğan İlmekni Kene Yükle">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
+toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.reloadSelectedTab.accesskey "e">
+<!ENTITY toolbarContextMenu.reloadSelectedTabs.label "Saylanğan İlmeklerni Kene Yükle">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
+toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.reloadSelectedTabs.accesskey "e">
+<!ENTITY toolbarContextMenu.bookmarkSelectedTab.label "Saylanğan İlmekni İmle…">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
+toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.bookmarkSelectedTab.accesskey "m">
+<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.label "Saylanğan İlmeklerni İmle…">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
+toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.accesskey "m">
+<!ENTITY toolbarContextMenu.selectAllTabs.label "İlmeklerniñ Episini Sayla">
+<!ENTITY toolbarContextMenu.selectAllTabs.accesskey "S">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "Qapatılğan İlmekni Keri Aç">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "r">
 
@@ -191,6 +262,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY subscribeToPageMenupopup.label "Bu Saifege Abune Ol">
 <!ENTITY subscribeToPageMenuitem.label "Bu Saifege Abune Ol…">
+
 <!ENTITY addCurPagesCmd.label "İlmeklerniñ Episini İmle…">
 <!ENTITY showAllBookmarks2.label "Saife-imleriniñ Episini Köster">
 <!ENTITY recentBookmarks.label "Demin İmlengen">
@@ -436,6 +508,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.manageExtension.label "Eklentini İdare Et">
 <!ENTITY customizeMenu.manageExtension.accesskey "E">
 
+<!ENTITY customizeMenu.removeExtension.label "Uzantını Çetleştir">
+<!ENTITY customizeMenu.removeExtension.accesskey "t">
+
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
     secondary commands. -->
@@ -543,9 +618,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.label         "Çerçiveni Kene Yükle">
 <!ENTITY reloadFrameCmd.accesskey     "K">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Saylamnıñ Menbasını Köster">
-<!ENTITY viewPartialSourceForMathMLCmd.label    "MathML Menbasını Köster">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
-         viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "A">
 <!ENTITY viewPageSourceCmd.label      "Saife Menbasını Köster">
 <!ENTITY viewPageSourceCmd.accesskey  "e">
@@ -760,13 +832,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (editBookmark.panel.width): width of the bookmark panel.
      Should be large enough to fully display the Done and Cancel/
      Remove Bookmark buttons. -->
+<!ENTITY editBookmark.panel.width                    "23em">
 <!ENTITY editBookmark.done.label                     "Tamam">
-
+<!ENTITY editBookmark.showForNewBookmarks.label       "Saqlağanda muarrirni köster">
+<!ENTITY editBookmark.showForNewBookmarks.accesskey   "S">
 
 <!-- LOCALIZATION NOTE (identity.securityView.label)
      This is the header of the security subview in the Site Identity panel. -->
 <!ENTITY identity.securityView.label "Sayt Emniyeti">
 
+<!ENTITY identity.connection "Bağlantı">
 <!ENTITY identity.connectionSecure "Emniyetli Bağlantı">
 <!ENTITY identity.connectionNotSecure "Bağlantı Emniyetli Degildir">
 <!ENTITY identity.connectionFile "Bu saife bilgisayarıñızda mağazlana.">
@@ -909,63 +984,108 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "İlmekteki audio üleşilecek.">
 <!ENTITY getUserMedia.allWindowsShared.message "Ekranıñız üzerindeki körünir pencerelerniñ episi üleşilecek.">
 
-<!ENTITY trackingProtection.on "İzlenme İmayesi: AÇIQ">
-<!ENTITY trackingProtection.off "İzlenme İmayesi: QAPALI">
+<!ENTITY contentBlocking.title "Muhteva Bloklaması">
+<!ENTITY contentBlocking.detected "Bu saytta bloklanabilgen muhteva alğılanğan.">
+<!ENTITY contentBlocking.notDetected "Bu saifede bloklanabilgen muhteva alğılanmağan.">
+<!ENTITY contentBlocking.disabled.label "Naqabilleştirilgen">
+<!ENTITY contentBlocking.disabled.tooltip "Muhteva Bloklaması'nı naqabilleştirgen olasıñız.">
+<!ENTITY contentBlocking.exception.tooltip "Muhteva Bloklaması'nı bu sayt içün naqabilleştirgen olasıñız.">
 
-
+<!ENTITY contentBlocking.fastBlock.label "Yavaş-Yüklengen İzciler">
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking malicious/slow content, so this is
      a positive thing. It forms the end of the (imaginary) sentence
      "Slow-Loading Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.fastBlock.blocked.label "Bloklanğan">
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocking.label):
+     This label signals that this type of content blocking is turned
+     ON, so this is a positive thing. It forms the verb in (imaginary) sentence
+     "Firefox is blocking Slow-Loading Trackers"-->
+<!ENTITY contentBlocking.fastBlock.blocking.label "Bloklana">
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.fastBlock.add.label "Bloklamanı Ekle…">
 
+<!ENTITY contentBlocking.trackingProtection2.label "Alğılanğan İzcilerniñ Episi">
+
+<!ENTITY contentBlocking.trackingProtection3.label "İzciler">
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.allowed.label):
+     This label signals that this type of content blocking is turned
+     OFF and is not blocking tracker content, so this is not
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Trackers [are] Allowed"-->
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking tracker content, so this is
      a positive thing. It forms the end of the (imaginary) sentence
      "Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.trackingProtection.blocked.label "Bloklanğan">
+<!-- LOCALIZATION NOTE (contentBlocking.tranckingProtection.blocking.label):
+     This label signals that this type of content blocking is turned
+     ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
+     "Firefox is blocking Trackers"-->
+<!ENTITY contentBlocking.trackingProtection.blocking.label "Bloklana">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.trackingProtection.add.label "Bloklamanı Ekle…">
 
+<!ENTITY contentBlocking.3rdPartyCookies.label "Üçünçi-Taraf Çörekleri">
+<!ENTITY contentBlocking.3rdPartyCookies.trackers.label "İzci Çörekler">
 <!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking third-party cookies, so this is
      a positive thing. It forms the end of the (imaginary) sentence
      "Third-Party Cookies [are] Blocked"-->
+<!ENTITY contentBlocking.3rdPartyCookies.blocked.label "Bloklanğan">
+<!-- LOCALIZATION NOTE (contentBlocking.tranckingProtection.blocking.label):
+     This label signals that this type of content blocking is turned
+     ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
+     "Firefox is blocking Third-Party Cookies"-->
+<!ENTITY contentBlocking.3rdPartyCookies.blocking.label "Bloklana">
 <!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.3rdPartyCookies.add.label "Bloklamanı Ekle…">
 
+
+
+<!ENTITY contentBlocking.openBreakageReportView2.label "Bir mesele maruzala">
+<!ENTITY contentBlocking.breakageReportView.label "Meselelerni Maruzala">
+<!ENTITY contentBlocking.breakageReportView2.description "Muhteva bloklaması bazı ağ-saytlarında meselelerge sebebiyet berebilir. Meselelerni maruzalağanıñızda, &brandShortName; seyrancısını erkes içün yahşılaştırmağa yardım eteceksiñiz. (Bu, saife adresi ile seyrancı ayarlarıñızğa dair malümatnı Mozilla’ğa yiberecektir.)">
+<!ENTITY contentBlocking.breakageReportView.learnMore "Daa Çoq Ögren">
+<!ENTITY contentBlocking.breakageReportView.collection.url.label "Adres">
+<!ENTITY contentBlocking.breakageReportView.collection.comments.label "Ne meseleleriñiz bar edi? (İhtiyariy)">
+<!ENTITY contentBlocking.breakageReportView.sendReport.label "Maruza Yiber">
+<!ENTITY contentBlocking.breakageReportView.cancel.label "Vazgeç">
 
 <!ENTITY trackingProtection.title "İzlenme İmayesi">
 <!ENTITY trackingProtection.tooltip "İzlenme İmayesi Tercihlerini Aç">
-<!ENTITY trackingProtection.detectedBlocked4 "&brandShortName;, bu saifeniñ kezinüviñizni belki izleycek qısımlarını bloklay.">
-<!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName;, kezinüviñizni belki izleycek unsurlar keşfetkendir.">
-<!ENTITY trackingProtection.detectedException "&brandShortName;, kezinüviñizni belki izleycek unsurlar keşfetkendir. Bu sayt içün imayeni naqabilleştirgen olasıñız.">
-<!ENTITY trackingProtection.notDetected5 "Bu saifede izleyici unsurlar keşfetilgen degil.">
-<!ENTITY trackingProtection.notDetectedException "Bu saifede izleyici unsurlar keşfetilgen degil. Bu sayt içün imayeni naqabilleştirgen olasıñız.">
-
-<!ENTITY trackingProtection.reloadRequired2 "İzlenme İmayesi'ni qabilleştirgen olasıñız. İzleyicilerniñ episini bloklamaq içün bu saifeni kene yükleñiz.">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock3.label "Bu Sayt içün Naqabilleştir">
-<!ENTITY trackingProtection.unblock3.accesskey "N">
+<!ENTITY trackingProtection.unblock4.label "Bu Sayt İçün Bloklamanı Naqabilleştir">
+<!ENTITY trackingProtection.unblock4.accesskey "N">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate3.label "Bu Oturım içün Naqabilleştir">
-<!ENTITY trackingProtection.unblockPrivate3.accesskey "N">
-<!ENTITY trackingProtection.block4.label "Bu Sayt içün Qabilleştir">
-<!ENTITY trackingProtection.block4.accesskey "l">
+<!ENTITY trackingProtection.unblockPrivate4.label "Bloklamanı Muvaqqat Olaraq Naqabilleştir">
+<!ENTITY trackingProtection.unblockPrivate4.accesskey "N">
+<!ENTITY trackingProtection.block5.label "Bu Sayt İçün Bloklamanı Qabil Olsun">
+<!ENTITY trackingProtection.block5.accesskey "O">
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate6.label, trackingProtection.unblockPrivate6.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
 <!ENTITY trackingProtection.reload2.label "Saifeni Kene Yükle">
 <!ENTITY trackingProtection.reload2.accesskey "e">
 
@@ -1067,10 +1187,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.manageExtension.label "Eklentini İdare Et…">
 
 <!ENTITY pageAction.sendTabToDevice.label "İlmekni Cihazğa Yiber">
+
 <!ENTITY sendToDevice.syncNotReady.label "Cihazlar Aynılaştırıla…">
 
 <!ENTITY pageAction.shareUrl.label "Üleş">
-
+<!ENTITY pageAction.shareMore.label "Daa çoq…">
 
 <!ENTITY libraryButton.tooltip "Keçmiş, saqlanğan saife-imleri ve daa fazlasını köster">
 
