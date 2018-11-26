@@ -167,6 +167,10 @@ was trying to connect. -->
 <!ENTITY blockedByPolicy.title "Trang bị chặn">
 
 <!ENTITY clockSkewError.title "Đồng hồ trên máy tính của bạn không đúng">
+<!ENTITY clockSkewError.longDesc "Đồng hồ máy tính của bạn hiện tại là <span id='wrongSystemTime_systemDate1'/>, việc này ngăn chặn &brandShortName; từ kết nối an toàn. Để truy cập <span class='hostname'></span>, hãy cập nhật đồng hồ máy tính trong cài đặt hệ thống của bạn thành ngày, giờ và múi giờ hiện tại, sau đó làm mới <span class='hostname'></span>.">
 
 <!ENTITY prefReset.longDesc "Dường như là cài đặt bảo mật mạng của bạn có thể gây ra điều này. Bạn có muốn khôi phục cài đặt mặc định?">
 <!ENTITY prefReset.label "Khôi phục cài đặt mặc định">
+
+<!ENTITY networkProtocolError.title "Lỗi giao thức mạng">
+<!ENTITY networkProtocolError.longDesc "<p>Không thể hiển thị trang bạn đang cố xem vì lỗi trong giao thức mạng đã được phát hiện.</p><ul><li>Vui lòng liên hệ với chủ sở hữu trang web để thông báo cho họ về sự cố này.</li></ul>">
