@@ -20,7 +20,7 @@
 <!ENTITY connectionFailure.title "Tidak dapat tersambung">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
-<!ENTITY deniedPortAccess.title "Penggunaan alamat ini telah dibatasi">
+<!ENTITY deniedPortAccess.title "Alamat ini terbatas">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.pageTitle "Peladen Tidak Ditemukan">
