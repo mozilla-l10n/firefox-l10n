@@ -15,16 +15,16 @@
 <!ENTITY newevent.eventStatus.none.label          "Nespecificată" >
 <!ENTITY newevent.eventStatus.none.accesskey      "N" >
 <!ENTITY newevent.todoStatus.none.label           "Nespecificată" >
-<!ENTITY newevent.eventStatus.cancelled.label     "Anulată" >
+<!ENTITY newevent.eventStatus.cancelled.label     "Anulat" >
 <!ENTITY newevent.eventStatus.cancelled.accesskey "n" >
 <!ENTITY newevent.todoStatus.cancelled.label      "Anulată" >
-<!ENTITY newevent.status.tentative.label          "Provizorie" >
+<!ENTITY newevent.status.tentative.label          "Provizoriu" >
 <!ENTITY newevent.status.tentative.accesskey      "P" >
-<!ENTITY newevent.status.confirmed.label          "Confirmată" >
+<!ENTITY newevent.status.confirmed.label          "Confirmat" >
 <!ENTITY newevent.status.confirmed.accesskey      "C" >
 <!ENTITY newevent.status.needsaction.label        "Necesită acțiune" >
 <!ENTITY newevent.status.inprogress.label         "În desfășurare" >
-<!ENTITY newevent.status.completed.label          "Finalizată la data de" >
+<!ENTITY newevent.status.completed.label          "Finalizat la data de" >
 
 <!-- The following entity is for New Task dialog only -->
 <!ENTITY newtodo.percentcomplete.label      "&#037; realizată">
@@ -35,7 +35,7 @@
    - they still fit in. -->
 <!ENTITY event.attendees.notify.label                "Anunță participanții">
 <!ENTITY event.attendees.notify.accesskey            "u">
-<!ENTITY event.attendees.notifyundisclosed.label     "Invitație separată per participant">
+<!ENTITY event.attendees.notifyundisclosed.label     "Invitație separată pe fiecare participant">
 <!ENTITY event.attendees.notifyundisclosed.accesskey "x">
 <!ENTITY event.attendees.notifyundisclosed.tooltip   "Această opțiune trimite o invitație pe e-mail fiecărui participant. Fiecare invitație conține doar participantul destinatar, astfel încât nu sunt dezvăluite identitățile altor participanți.">
 <!ENTITY event.attendees.disallowcounter.label       "Nu permite contrapropuneri">
@@ -96,11 +96,11 @@
 <!ENTITY  event.menu.item.print.label                     "Tipărește">
 <!ENTITY  event.menu.item.print.accesskey                 "p">
 
-<!ENTITY  event.menu.edit.label                           "Editare">
+<!ENTITY  event.menu.edit.label                           "Editează">
 <!ENTITY  event.menu.edit.accesskey                       "E">
 <!ENTITY  event.menu.edit.undo.label                      "Anulează">
 <!ENTITY  event.menu.edit.undo.accesskey                  "u">
-<!ENTITY  event.menu.edit.redo.label                      "Revenire">
+<!ENTITY  event.menu.edit.redo.label                      "Refă">
 <!ENTITY  event.menu.edit.redo.accesskey                  "R">
 <!ENTITY  event.menu.edit.cut.label                       "Taie">
 <!ENTITY  event.menu.edit.cut.accesskey                   "T">
@@ -119,7 +119,7 @@
 <!ENTITY  event.menu.view.toolbars.event.accesskey        "e">
 <!ENTITY  event.menu.view.toolbars.customize.label        "Personalizează…">
 <!ENTITY  event.menu.view.toolbars.customize.accesskey    "P">
-<!ENTITY  event.menu.view.showlink.label                  "Arată linkul către „Asocieri”">
+<!ENTITY  event.menu.view.showlink.label                  "Afișează linkul asociat">
 <!ENTITY  event.menu.view.showlink.accesskey              "r">
 
 <!ENTITY  event.menu.options.label                            "Opțiuni">
@@ -146,7 +146,7 @@
 <!ENTITY  event.menu.options.privacy.confidential.accesskey   "A">
 <!ENTITY  event.menu.options.privacy.private.label            "Eveniment privat">
 <!ENTITY  event.menu.options.privacy.private.accesskey        "r">
-<!ENTITY  event.menu.options.show.time.label                  "Arată ora ca">
+<!ENTITY  event.menu.options.show.time.label                  "Disponibilitate">
 <!ENTITY  event.menu.options.show.time.accesskey              "t">
 <!ENTITY  event.menu.options.show.time.busy.label             "Ocupat">
 <!ENTITY  event.menu.options.show.time.busy.accesskey         "O">
@@ -155,7 +155,7 @@
 
 <!ENTITY event.invite.attendees.label                     "Invită participanți…">
 <!ENTITY event.invite.attendees.accesskey                 "I">
-<!ENTITY event.email.attendees.label                      "Compune un mesaj către toți participanții…">
+<!ENTITY event.email.attendees.label                      "Compune un mesaj de e-mail către toți participanții…">
 <!ENTITY event.email.attendees.accesskey                  "a">
 <!ENTITY event.email.tentative.attendees.label            "Compune un mesaj de e-mail către participanții indeciși…">
 <!ENTITY event.email.tentative.attendees.accesskey        "u">
@@ -174,12 +174,12 @@
 <!ENTITY  event.toolbar.save.tooltip2                     "Salvează">
 <!ENTITY  event.toolbar.saveandclose.tooltip              "Salvează și închide">
 <!ENTITY  event.toolbar.delete.tooltip                    "Șterge">
-<!ENTITY  event.toolbar.attendees.tooltip                 "Invită participanți">
+<!ENTITY  event.toolbar.attendees.tooltip                 "Invită participanții">
 <!ENTITY  event.toolbar.attachments.tooltip               "Adaugă atașamente">
 <!ENTITY  event.toolbar.privacy.tooltip                   "Schimbă confidențialitatea">
 <!ENTITY  event.toolbar.priority.tooltip                  "Schimbă prioritatea">
 <!ENTITY  event.toolbar.status.tooltip                    "Schimbă starea">
-<!ENTITY  event.toolbar.freebusy.tooltip                  "Schimbă timp Liber/Ocupat">
+<!ENTITY  event.toolbar.freebusy.tooltip                  "Schimbă disponibilitate (liber/ocupat)">
 
 <!-- Counter box -->
 <!-- LOCALIZATON NOTE(counter.button.*)
@@ -190,8 +190,8 @@
    - illustrates how it might look like: https://bugzilla.mozilla.org/attachment.cgi?id=8810121 -->
 <!ENTITY counter.button.proposal.label                    "Aplică propunerea">
 <!ENTITY counter.button.proposal.accesskey                "p">
-<!ENTITY counter.button.proposal.tooltip2                 "Câmpurile evenimentului vor fi populate folosind valorile contra-propunerii; doar salvarea cu sau fără schimbări adiționale va aduce schimbările la atenția participanților">
-<!ENTITY counter.button.original.label                    "Aplică datele originale">
+<!ENTITY counter.button.proposal.tooltip2                 "Câmpurile evenimentului vor fi populate folosind valorile din contrapropunere; doar salvarea cu sau fără modificări suplimentare va notifica toți participanții în consecință">
+<!ENTITY counter.button.original.label                    "Aplică datele inițiale">
 <!ENTITY counter.button.original.accesskey                "r">
 <!ENTITY counter.button.original.tooltip2                 "Câmpurile vor fi schimbate către valorile din evenimentul original, dinainte contra-propunerii">
 
