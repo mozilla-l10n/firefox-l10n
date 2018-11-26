@@ -916,3 +916,4 @@ Picture-in-picture mini window -->
 <!ENTITY synced_tabs_notification_channel "Pestañas sincronizadas">
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
 web sites through the HTML Notifications API. -->
+<!ENTITY site_notifications_channel "Tu\&apos;un sitio">
