@@ -25,7 +25,7 @@
 <!ENTITY incoming.label                  "Primire:">
 <!ENTITY outgoing.label                  "Trimitere:">
 <!ENTITY username.label                  "Nume de utilizator:">
-<!ENTITY hostname.label                  "Numele serverului-gazdă">
+<!ENTITY hostname.label                  "Denumire server-gazdă">
 <!ENTITY port.label                      "Port">
 <!ENTITY ssl.label                       "SSL">
 <!ENTITY auth.label                      "Autentificare">

@@ -71,7 +71,7 @@
 <!ENTITY selectAllCmd.key                               "A">
 <!ENTITY searchAddressesCmd.key                         "F">
 <!ENTITY selectAllCmd.accesskey                         "a">
-<!ENTITY swapFirstNameLastNameCmd.label                 "Interschimbă numele cu prenumele">
+<!ENTITY swapFirstNameLastNameCmd.label                 "Schimbă între prenume/nume de familie">
 <!ENTITY swapFirstNameLastNameCmd.accesskey             "b">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
@@ -105,7 +105,7 @@
 <!ENTITY showDirectoryPane.accesskey                    "d">
 <!ENTITY showContactPane2.label                         "Panoul cu contacte">
 <!ENTITY showContactPane2.accesskey                     "c">
-<!ENTITY menu_ShowNameAs.label                          "Afișează numele în forma">
+<!ENTITY menu_ShowNameAs.label                          "Afișează numele de forma">
 <!ENTITY menu_ShowNameAs.accesskey                      "n">
 <!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
 because displayed names don't have the comma in between. -->
