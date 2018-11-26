@@ -18,13 +18,13 @@
 
 <!ENTITY calendar.events.filter.all.label "Toate evenimentele">
 <!ENTITY calendar.events.filter.today.label "Evenimentele de astăzi">
-<!ENTITY calendar.events.filter.future.label "Evenimente în viitor">
-<!ENTITY calendar.events.filter.current.label "Ziua selectată">
-<!ENTITY calendar.events.filter.currentview.label "Evenimente în vizualizarea actuală">
+<!ENTITY calendar.events.filter.future.label "Toate evenimentele viitoare">
+<!ENTITY calendar.events.filter.current.label "Ziua selectată acum">
+<!ENTITY calendar.events.filter.currentview.label "Evenimente în vizualizarea curentă">
 <!ENTITY calendar.events.filter.next7Days.label "Evenimente în următoarele 7 zile">
 <!ENTITY calendar.events.filter.next14Days.label "Evenimente în următoarele 14 zile">
 <!ENTITY calendar.events.filter.next31Days.label "Evenimente în următoarele 31 de zile">
-<!ENTITY calendar.events.filter.thisCalendarMonth.label "Evenimente în această lună">
+<!ENTITY calendar.events.filter.thisCalendarMonth.label "Evenimente în această lună a calendarului">
 
 <!-- LOCALIZATION NOTE(calendar.unifinder.tree.done.tooltip)
    - This label and tooltip is used for the column with the checkbox in the
@@ -66,15 +66,15 @@
 <!ENTITY calendar.multiweek.button.tooltip      "Comută pe vizualizarea pe săptămâni" >
 
 <!ENTITY calendar.nextday.label                 "Ziua următoare" >
-<!ENTITY calendar.prevday.label                 "Ziua trecută" >
+<!ENTITY calendar.prevday.label                 "Ziua anterioară" >
 <!ENTITY calendar.nextday.accesskey             "u" >
 <!ENTITY calendar.prevday.accesskey             "t" >
-<!ENTITY calendar.nextweek.label                "Săptămâna viitoare" >
-<!ENTITY calendar.prevweek.label                "Săptămâna trecută" >
+<!ENTITY calendar.nextweek.label                "Săptămâna următoare" >
+<!ENTITY calendar.prevweek.label                "Săptămâna anterioară" >
 <!ENTITY calendar.nextweek.accesskey            "v" >
 <!ENTITY calendar.prevweek.accesskey            "S" >
 <!ENTITY calendar.nextmonth.label               "Luna următoare" >
-<!ENTITY calendar.prevmonth.label               "Luna trecută" >
+<!ENTITY calendar.prevmonth.label               "Luna anterioară" >
 <!ENTITY calendar.nextmonth.accesskey           "u" >
 <!ENTITY calendar.prevmonth.accesskey           "t" >
 
@@ -93,10 +93,10 @@
 <!ENTITY calendar.day.button.label              "Zi" >
 <!ENTITY calendar.week.button.label             "Săptămână" >
 <!ENTITY calendar.month.button.label            "Lună" >
-<!ENTITY calendar.multiweek.button.label        "Săptămâni" >
-<!ENTITY calendar.onlyworkday.checkbox.label    "Doar zilele lucrătoare" >
+<!ENTITY calendar.multiweek.button.label        "Multisăptămânal" >
+<!ENTITY calendar.onlyworkday.checkbox.label    "Doar zile lucrătoare" >
 <!ENTITY calendar.onlyworkday.checkbox.accesskey  "r" >
-<!ENTITY calendar.displaytodos.checkbox.label   "Afișează sarcinile în vizualizare" >
+<!ENTITY calendar.displaytodos.checkbox.label   "Sarcini vizualizate" >
 <!ENTITY calendar.displaytodos.checkbox.accesskey "A" >
 <!ENTITY calendar.completedtasks.checkbox.label     "Afișează sarcinile finalizate" >
 <!ENTITY calendar.completedtasks.checkbox.accesskey "c" >
@@ -108,7 +108,7 @@
 
 <!ENTITY calendar.list.header.label                 "Calendar">
 
-<!ENTITY calendar.task.filter.title.label           "Arată">
+<!ENTITY calendar.task.filter.title.label           "Afișează">
 <!ENTITY calendar.task.filter.all.label             "Toate">
 <!ENTITY calendar.task.filter.all.accesskey         "a">
 <!ENTITY calendar.task.filter.today.label           "Astăzi">
@@ -117,7 +117,7 @@
 <!ENTITY calendar.task.filter.next7days.accesskey   "U">
 <!ENTITY calendar.task.filter.notstarted.label      "Sarcini neîncepute">
 <!ENTITY calendar.task.filter.notstarted.accesskey  "a">
-<!ENTITY calendar.task.filter.overdue.label         "Sarcini depășite">
+<!ENTITY calendar.task.filter.overdue.label         "Sarcini cu termen de finalizare depășit">
 <!ENTITY calendar.task.filter.overdue.accesskey     "S">
 <!ENTITY calendar.task.filter.completed.label       "Sarcini finalizate">
 <!ENTITY calendar.task.filter.completed.accesskey   "c">
@@ -129,12 +129,12 @@
      that is after today and after the selected date. If a task repeats, a
      separate entry will be shown for each of the occurrences that happen on or
      before today (or the selected date, whichever is later). -->
-<!ENTITY calendar.task.filter.current.label         "Sarcini actuale">
+<!ENTITY calendar.task.filter.current.label         "Sarcini curente">
 <!ENTITY calendar.task.filter.current.accesskey     "u">
 
 <!ENTITY calendar.task-details.title.label           "titlu">
 <!ENTITY calendar.task-details.organizer.label       "de la">
-<!ENTITY calendar.task-details.priority.label        "prioritatea">
+<!ENTITY calendar.task-details.priority.label        "prioritate">
 <!ENTITY calendar.task-details.priority.low.label    "Mică">
 <!ENTITY calendar.task-details.priority.normal.label "Normală">
 <!ENTITY calendar.task-details.priority.high.label   "Mare">
@@ -142,7 +142,7 @@
 <!ENTITY calendar.task-details.category.label        "categorie">
 <!ENTITY calendar.task-details.repeat.label          "repetă">
 <!ENTITY calendar.task-details.attachments.label     "atașamente">
-<!ENTITY calendar.task-details.start.label           "data de începere">
+<!ENTITY calendar.task-details.start.label           "dată de început">
 <!ENTITY calendar.task-details.due.label             "termen-limită">
 
 <!ENTITY calendar.task.category.button.tooltip  "Organizează sarcinile pe categorii">
@@ -162,7 +162,7 @@
 <!ENTITY calendar.context.newevent.accesskey          "n">
 <!ENTITY calendar.context.newtodo.label               "Sarcină nouă…">
 <!ENTITY calendar.context.newtodo.accesskey           "S">
-<!ENTITY calendar.context.deletetask.label            "Șterge sarcina de lucru">
+<!ENTITY calendar.context.deletetask.label            "Șterge sarcina">
 <!ENTITY calendar.context.deletetask.accesskey        "l">
 <!ENTITY calendar.context.deleteevent.label           "Șterge evenimentul">
 <!ENTITY calendar.context.deleteevent.accesskey       "l">
@@ -172,12 +172,12 @@
 <!ENTITY calendar.context.copyevent.accesskey         "C">
 <!ENTITY calendar.context.pasteevent.label            "Lipește">
 <!ENTITY calendar.context.pasteevent.accesskey        "p">
-<!ENTITY calendar.context.button.label                "Panoul zilei de azi">
+<!ENTITY calendar.context.button.label                "Panoul zilei de astăzi">
 <!ENTITY calendar.context.button.accesskey            "P">
 
 <!ENTITY calendar.context.attendance.menu.label                 "Participare">
 <!ENTITY calendar.context.attendance.menu.accesskey             "P">
-<!ENTITY calendar.context.attendance.occurrence.label           "Această apariție">
+<!ENTITY calendar.context.attendance.occurrence.label           "Această ocurență">
 <!ENTITY calendar.context.attendance.all2.label                 "Serii complete">
 <!ENTITY calendar.context.attendance.send.label                 "Trimite o notificare acum">
 <!ENTITY calendar.context.attendance.send.accesskey             "S">
@@ -187,13 +187,13 @@
 <!ENTITY calendar.context.attendance.occ.accepted.accesskey     "A">
 <!ENTITY calendar.context.attendance.occ.accepted.label         "Acceptată">
 <!ENTITY calendar.context.attendance.occ.tentative.accesskey    "v">
-<!ENTITY calendar.context.attendance.occ.tentative.label        "Acceptă provizoriu">
+<!ENTITY calendar.context.attendance.occ.tentative.label        "Acceptată provizoriu">
 <!ENTITY calendar.context.attendance.occ.declined.accesskey     "R">
 <!ENTITY calendar.context.attendance.occ.declined.label         "Refuzată">
 <!ENTITY calendar.context.attendance.occ.delegated.accesskey    "g">
 <!ENTITY calendar.context.attendance.occ.delegated.label        "Delegată">
 <!ENTITY calendar.context.attendance.occ.needsaction.accesskey  "c">
-<!ENTITY calendar.context.attendance.occ.needsaction.label      "Încă necesită acțiune">
+<!ENTITY calendar.context.attendance.occ.needsaction.label      "Mai necesită acțiuni">
 <!ENTITY calendar.context.attendance.occ.inprogress.accesskey   "d">
 <!ENTITY calendar.context.attendance.occ.inprogress.label       "În desfășurare">
 <!ENTITY calendar.context.attendance.occ.completed.accesskey    "t">
