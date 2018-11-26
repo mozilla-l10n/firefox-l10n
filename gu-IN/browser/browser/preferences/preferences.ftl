@@ -150,6 +150,9 @@ open-new-link-as-tabs =
 warn-on-close-multiple-tabs =
     .label = તમને બહુવિધ ટેબ્સ બંધ કરતી વખતે ચેતવશે
     .accesskey = m
+warn-on-quit-close-multiple-tabs =
+    .label = તમને બહુવિધ ટેબ્સમાંથી બહાર નીકળતી વખતે અને બંધ કરતી વખતે ચેતવશે
+    .accesskey = m
 warn-on-open-many-tabs =
     .label = તમને ચેતવે છે જ્યારે ઘણી ટેબ્સ ખોલવાનું ધીમું થઈ જાય અને { -brand-short-name }
     .accesskey = d
@@ -285,6 +288,9 @@ update-application-use-service =
 update-enable-search-update =
     .label = આપમેળે શોધ એન્જિન અપડેટ કરો
     .accesskey = e
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = પસંદગી સાચવવામાં અસમર્થ. ફાઇલ પર લખી શકાયુ નહી: { $path }
 
 ## General Section - Performance
 
@@ -324,6 +330,9 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = જ્યારે તમે ટાઇપ કરવાનું શરૂ કરો ત્યારે ટેક્સ્ટ માટે શોધો
     .accesskey = x
+browsing-cfr-recommendations =
+    .label = તમે બ્રાઉઝ કરો ત્યારે એક્સ્ટેન્શન્સની ભલામણ કરો
+    .accesskey = R
 browsing-cfr-recommendations-learn-more = વધુ શીખો
 
 ## General Section - Proxy
@@ -599,6 +608,9 @@ sitedata-keep-until-expire =
     .label = સમાપ્ત થાયા
 sitedata-keep-until-closed =
     .label = { -brand-short-name } બંધ છે
+sitedata-delete-on-close =
+    .label = { -brand-short-name } બંધ હોય ત્યારે કૂકીઝ અને સાઇટ માહિતી કાઢી નાખો
+    .accesskey = c
 sitedata-allow-cookies-option =
     .label = કૂકીઝ અને સાઇટ ડેટાને સ્વીકારો
     .accesskey = A
@@ -632,6 +644,9 @@ sitedata-cookies-exceptions =
 # in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
 # Cookies and Site Data section.
 sitedata-warning-your-settings-prevent-changes = સામગ્રી અવરોધમાંની તમારી સેટિંગ્સ કૂકીઝ અને સાઇટ માહિતી સેટિંગ્સમાં ફેરફારોને અટકાવી રહી છે.
+sitedata-cookies-permissions =
+    .label = પરવાનગીઓ મેનેજ કરો...
+    .accesskey = P
 
 ## Privacy Section - Address Bar
 
@@ -672,6 +687,17 @@ content-blocking-fastblock-slow-loading-trackers-label =
     .label = ધીરેથી લોડ થતાં ટ્રેકર્સ
     .accesskey = S
 content-blocking-fastblock-new-description = ફક્ત એજ ટ્રેકર્સને અવરોધિત કરો કે જે પાનાંને ઝડપથી ખોલવાથી અટકાવે છે.
+content-blocking-setting-standard =
+    .label = પ્રમાણભૂત
+    .accesskey = d
+content-blocking-setting-strict =
+    .label = સખત
+    .accesskey = r
+content-blocking-setting-custom =
+    .label = વૈવિધ્યપૂર્ણ
+    .accesskey = C
+content-blocking-standard-desc = સુરક્ષા અને પ્રદર્શન માટે સંતુલિત છે. કેટલાક ટ્રેકર્સને મંજૂરી આપે છે જેથી વેબસાઇટ્સ યોગ્ય રીતે કાર્ય કરે.
+content-blocking-custom-desc = શું અવરોધિત છે તે પસંદ કરો
 content-blocking-tracking-protection-trackers-label =
     .label = ટ્રેકર્સ
     .accesskey = T
