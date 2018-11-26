@@ -292,6 +292,9 @@ update-enable-search-update =
     .label = Oppdater søkjemotorar automatisk
     .accesskey = e
 update-pref-write-failure-title = Skrivfeil
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = Klarte ikkje å lagre innstillinga. Kunne ikkje skrive til fila: { $path }
 
 ## General Section - Performance
 
@@ -609,6 +612,9 @@ sitedata-keep-until-expire =
     .label = Dei går ut
 sitedata-keep-until-closed =
     .label = { -brand-short-name } er lukka
+sitedata-delete-on-close =
+    .label = Slett infokapslar og nettsidedata når { -brand-short-name } stenger
+    .accesskey = S
 sitedata-allow-cookies-option =
     .label = Tillat infokapslar og nettsidedata
     .accesskey = a
@@ -695,6 +701,10 @@ content-blocking-setting-custom =
     .label = Tilpassa
     .accesskey = p
 content-blocking-custom-desc = Vell kva du vil blokkere.
+content-blocking-private-trackers = Kjende sporfølgjarar berre i Private vindauge
+content-blocking-third-party-cookies = Tredjeparts sporingsinfokapslar
+content-blocking-all-windows-trackers = Kjende sporfølgjarar i alle vindauge
+content-blocking-all-third-party-cookies = Alle tredjeparts infokapslar
 content-blocking-warning-title = Sjå opp!
 content-blocking-learn-how = Finn ut korleis
 content-blocking-tracking-protection-trackers-label =

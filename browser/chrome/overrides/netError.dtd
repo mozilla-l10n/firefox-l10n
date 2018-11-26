@@ -96,14 +96,15 @@
 
 <!ENTITY certerror.longpagetitle1 "Tilkoplinga di er ikkje trygg">
 <!ENTITY certerror.longpagetitle2 "Åtvaring: Potensiell sikkerheitsrisiko forut">
+<!ENTITY certerror.sts.longpagetitle  "Kopla ikkje til: Potensielt tryggingsproblem">
 <!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Eigaren av <span class='hostname'/> har konfigurert nettstaden sin feil.  For å verne informasjonen din frå å bli stolen, har &brandShortName; ikkje kopla seg til denne nettstaden.">
 <!ENTITY certerror.introPara2 "&brandShortName; oppdaga ein potensiell sikkerheitstrussel og fortsette ikkje til <span class='hostname'/>. Viss du besøkjer denne nettstaden, kan angriparane prøve å stele informasjon som passord, e-post eller kredittkortdetaljar.">
 
-
 <!ENTITY certerror.expiredCert.secondPara "Dette problemet får du, mest sannsynleg, fordi klokka på datamaskina di er innstillt på feil tid, noko som ville hindre &brandShortName; frå å kople til trygt.">
+
 
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Kva kan du gjere med det?">
@@ -153,6 +154,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.pagetitle1  "Usikker tilkopling">
 <!ENTITY certerror.pagetitle2  "Åtvaring: Potensiell sikkerheitsrisiko forut">
+<!ENTITY certerror.sts.pagetitle  "Kopla ikkje til: Potensielt tryggingsproblem">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Denne nettstaden brukar HTTP Strict Transport Security (HSTS) for å spesifisere at &brandShortName; berre skal kople til trygt. Derfor kan ein ikkje leggje til eit unntak for dette sertifikatet.">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> har ein sikkerhetspolicy kalt HTTP Strict Transport Security (HSTS), som betyr at &brandShortName; berre kan kople til den sikkert. Du kan ikkje leggje til eit unntak for å besøkje denne nettstaden.">
 <!ENTITY certerror.copyToClipboard.label "Kopier tekst til utklippstavla">
@@ -169,3 +171,5 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "Det ser ut til at sikkerheitsinnstillingane i nettverket kan vere årsak til dette. Vil du stille tilbake til standard innstillingar?">
 <!ENTITY prefReset.label "Still tilbake til standard innstillingar">
+
+<!ENTITY networkProtocolError.title "Nettverksprotokollfeil">
