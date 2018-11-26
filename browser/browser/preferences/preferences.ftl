@@ -153,6 +153,11 @@ open-new-link-as-tabs =
 warn-on-close-multiple-tabs =
     .label = Advar mig, når jeg lukker flere faneblade
     .accesskey = l
+
+warn-on-quit-close-multiple-tabs =
+    .label = Advar mig, når jeg afslutter og lukker flere faneblade
+    .accesskey = a
+
 warn-on-open-many-tabs =
     .label = Advar mig, hvis jeg åbner flere faneblade, som kan gøre { -brand-short-name } langsommere
     .accesskey = å
@@ -288,6 +293,12 @@ update-application-use-service =
 update-enable-search-update =
     .label = opdatere søgetjenester automatisk
     .accesskey = g
+
+update-pref-write-failure-title = Fejl med at gemme
+
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = Kunne ikke gemme indstillingen. Kunne ikke skrive til filen: { $path }
 
 ## General Section - Performance
 
@@ -603,6 +614,11 @@ sitedata-keep-until = Behold indtil
     .accesskey = e
 sitedata-keep-until-expire =
     .label = De udløber
+
+sitedata-delete-on-close =
+    .label = Slet cookies og websteds-data, når { -brand-short-name } lukkes
+    .accesskey = l
+
 sitedata-keep-until-closed =
     .label = Jeg lukker { -brand-short-name }
 sitedata-allow-cookies-option =
@@ -639,6 +655,10 @@ sitedata-cookies-exceptions =
 # Cookies and Site Data section.
 sitedata-warning-your-settings-prevent-changes = Dine indstillinger for Blokering af indhold forhindrer, at indstillinger for cookies og webstedsdata ændres.
 
+sitedata-cookies-permissions =
+    .label = Håndter tilladelser…
+    .accesskey = t
+
 ## Privacy Section - Address Bar
 
 addressbar-header = Adresselinje
@@ -658,6 +678,9 @@ addressbar-suggestions-settings = Skift indstillinger for søgeforslag
 
 content-blocking-header = Blokering af indhold
 content-blocking-desc = Bloker indhold fra tredjepart, fx reklamer eller kode, der kan gøre din browsing langsommere og som kan spore dig rundt på nettet. Tilpas dine indstillinger for at få den bedste balance mellem beskyttelse og ydelse.
+
+content-blocking-description = Bloker tredjeparts-indhold, der sporer dig rundt på nettet. Kontroller hvor meget af din aktivetet på nettet, der gemmes og deles mellem websteder.
+
 content-blocking-learn-more = Læs mere
 content-blocking-restore-defaults =
     .label = Gendan standard
@@ -678,6 +701,30 @@ content-blocking-fastblock-slow-loading-trackers-label =
     .label = Langsomme sporings-elementer
     .accesskey = L
 content-blocking-fastblock-new-description = Bloker kun de sporings-elementer, der får sider til at blive indlæst langsommere.
+
+content-blocking-setting-standard =
+  .label = Standard
+  .accesskey = d
+content-blocking-setting-strict =
+  .label = Striks
+  .accesskey = r
+content-blocking-setting-custom =
+  .label = Tilpasset
+  .accesskey = T
+
+content-blocking-standard-desc = Balanceret mellem beskyttelse og ydelse. Tillader nogle sporings-tjenester for at websteder kan fungere ordentligt.
+content-blocking-strict-desc = Blokerer alle sporings-tjenester, som { -brand-short-name } opdager. Kan forhindre nogle websteder i at fungere.
+content-blocking-custom-desc = Vælg selv, hvad der skal blokeres.
+
+content-blocking-private-trackers = Kendte sporings-tjenester kun i private vinduer
+content-blocking-third-party-cookies = Sporings-cookies fra tredjepart
+content-blocking-all-windows-trackers = Kendte sporings-tjenester i alle vinduer
+content-blocking-all-third-party-cookies = Alle tredjeparts-cookies
+
+content-blocking-warning-title = Vigtigt!
+content-blocking-warning-desc = Nogen websteder kan holde op med at fungere, når du blokerer cookies og sporings-tjenester. Det er nemt at slå blokering fra for websteder, du stoler på.
+content-blocking-learn-how = Lær hvordan
+
 content-blocking-tracking-protection-trackers-label =
     .label = Sporings-elementer
     .accesskey = S
@@ -692,6 +739,7 @@ content-blocking-tracking-protection-option-private =
     .label = Kun i private vinduer
     .accesskey = p
 content-blocking-tracking-protection-change-block-list = Skift blokeringsliste
+
 content-blocking-third-party-cookies-label =
     .label = Tredjeparts-cookies
     .accesskey = c
@@ -714,6 +762,10 @@ content-blocking-reject-trackers-all-third-parties-option =
     .label = Alle tredjeparts-cookies (kan forhindre websteder i at fungere)
     .accesskey = A
 
+content-blocking-cookies-label =
+  .label = Cookies
+  .accesskey = C
+
 ## Privacy Section - Tracking
 
 tracking-header = Beskyttelse mod sporing
@@ -734,6 +786,10 @@ tracking-exceptions =
 tracking-change-block-list =
     .label = Skift blokeringsliste
     .accesskey = S
+
+tracking-manage-exceptions =
+    .label = Håndter undtagelser…
+    .accesskey = u
 
 ## Privacy Section - Permissions
 
@@ -879,3 +935,8 @@ space-alert-under-5gb-message = { -brand-short-name } er ved at løbe tør for d
 desktop-folder-name = Skrivebord
 downloads-folder-name = Hentede filer
 choose-download-folder-title = Gem filer i
+
+# Variables:
+#   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
+save-files-to-cloud-storage =
+    .label = Gem filer i { $service-name }
