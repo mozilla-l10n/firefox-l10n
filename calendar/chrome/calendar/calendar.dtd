@@ -53,17 +53,17 @@
 <!ENTITY calendar.unifinder.tree.status.tooltip2           "Sortează după stare">
 <!ENTITY calendar.unifinder.tree.calendarname.label        "Denumire calendar">
 <!ENTITY calendar.unifinder.tree.calendarname.tooltip2     "Sortează după denumirea calendarului">
-<!ENTITY calendar.unifinder.tree.duration.label            "Scadent în">
+<!ENTITY calendar.unifinder.tree.duration.label            "Scadență în">
 <!ENTITY calendar.unifinder.tree.duration.tooltip2         "Sortează după timpul rămas până la scadență">
 <!ENTITY calendar.unifinder.close.tooltip                  "Închide căutarea și lista de evenimente">
 
-<!ENTITY calendar.today.button.tooltip          "Mergi la ziua de azi" >
-<!ENTITY calendar.todaypane.button.tooltip      "Arată panoul zilei curente" >
+<!ENTITY calendar.today.button.tooltip          "Mergi la ziua de astăzi" >
+<!ENTITY calendar.todaypane.button.tooltip      "Arată panoul zilei de astăzi" >
 
-<!ENTITY calendar.day.button.tooltip            "Comută pe vizualizarea zilei" >
-<!ENTITY calendar.week.button.tooltip           "Comută pe vizualizarea săptămânii" >
-<!ENTITY calendar.month.button.tooltip          "Comută pe vizualizarea lunii" >
-<!ENTITY calendar.multiweek.button.tooltip      "Comută pe vizualizarea pe săptămâni" >
+<!ENTITY calendar.day.button.tooltip            "Comută pe vizualizarea pe zile" >
+<!ENTITY calendar.week.button.tooltip           "Comută pe vizualizarea pe săptămâni" >
+<!ENTITY calendar.month.button.tooltip          "Comută pe vizualizarea pe luni" >
+<!ENTITY calendar.multiweek.button.tooltip      "Comută pe vizualizarea pe mai multe săptămâni" >
 
 <!ENTITY calendar.nextday.label                 "Ziua următoare" >
 <!ENTITY calendar.prevday.label                 "Ziua anterioară" >
@@ -135,12 +135,12 @@
 <!ENTITY calendar.task-details.title.label           "titlu">
 <!ENTITY calendar.task-details.organizer.label       "de la">
 <!ENTITY calendar.task-details.priority.label        "prioritate">
-<!ENTITY calendar.task-details.priority.low.label    "Mică">
+<!ENTITY calendar.task-details.priority.low.label    "Scăzută">
 <!ENTITY calendar.task-details.priority.normal.label "Normală">
-<!ENTITY calendar.task-details.priority.high.label   "Mare">
+<!ENTITY calendar.task-details.priority.high.label   "Ridicată">
 <!ENTITY calendar.task-details.status.label          "stare">
 <!ENTITY calendar.task-details.category.label        "categorie">
-<!ENTITY calendar.task-details.repeat.label          "repetă">
+<!ENTITY calendar.task-details.repeat.label          "repetare">
 <!ENTITY calendar.task-details.attachments.label     "atașamente">
 <!ENTITY calendar.task-details.start.label           "dată de început">
 <!ENTITY calendar.task-details.due.label             "termen-limită">
@@ -181,7 +181,7 @@
 <!ENTITY calendar.context.attendance.all2.label                 "Serii complete">
 <!ENTITY calendar.context.attendance.send.label                 "Trimite o notificare acum">
 <!ENTITY calendar.context.attendance.send.accesskey             "S">
-<!ENTITY calendar.context.attendance.dontsend.label             "Nu trimite nici o notificare">
+<!ENTITY calendar.context.attendance.dontsend.label             "Nu trimite nicio notificare">
 <!ENTITY calendar.context.attendance.dontsend.accesskey         "N">
 
 <!ENTITY calendar.context.attendance.occ.accepted.accesskey     "A">
@@ -193,7 +193,7 @@
 <!ENTITY calendar.context.attendance.occ.delegated.accesskey    "g">
 <!ENTITY calendar.context.attendance.occ.delegated.label        "Delegată">
 <!ENTITY calendar.context.attendance.occ.needsaction.accesskey  "c">
-<!ENTITY calendar.context.attendance.occ.needsaction.label      "Mai necesită acțiuni">
+<!ENTITY calendar.context.attendance.occ.needsaction.label      "Necesită acțiuni">
 <!ENTITY calendar.context.attendance.occ.inprogress.accesskey   "d">
 <!ENTITY calendar.context.attendance.occ.inprogress.label       "În desfășurare">
 <!ENTITY calendar.context.attendance.occ.completed.accesskey    "t">
@@ -208,11 +208,11 @@
 <!ENTITY calendar.context.attendance.all.delegated.accesskey    "l">
 <!ENTITY calendar.context.attendance.all.delegated.label        "Delegate">
 <!ENTITY calendar.context.attendance.all.needsaction.accesskey  "c">
-<!ENTITY calendar.context.attendance.all.needsaction.label      "Încă necesită acțiune">
+<!ENTITY calendar.context.attendance.all.needsaction.label      "Necesită acțiuni">
 <!ENTITY calendar.context.attendance.all.inprogress.accesskey   "u">
 <!ENTITY calendar.context.attendance.all.inprogress.label       "În desfășurare">
 <!ENTITY calendar.context.attendance.all.completed.accesskey    "i">
-<!ENTITY calendar.context.attendance.all.completed.label        "Finalizată">
+<!ENTITY calendar.context.attendance.all.completed.label        "Finalizate">
 
 <!-- Task Context Menu -->
 <!ENTITY calendar.context.progress.label              "Progres">
@@ -240,11 +240,11 @@
 
 <!ENTITY priority.level.none                "Nespecificată">
 <!ENTITY priority.level.none.accesskey      "s">
-<!ENTITY priority.level.low                 "Mică">
+<!ENTITY priority.level.low                 "Scăzută">
 <!ENTITY priority.level.low.accesskey       "M">
 <!ENTITY priority.level.normal              "Normală">
 <!ENTITY priority.level.normal.accesskey    "N">
-<!ENTITY priority.level.high                "Mare">
+<!ENTITY priority.level.high                "Ridicată">
 <!ENTITY priority.level.high.accesskey      "H">
 
 <!ENTITY calendar.context.postpone.1hour.label      "1 oră">
@@ -265,7 +265,7 @@
 <!-- Server Context Menu -->
 <!ENTITY calendar.context.newserver.label              "Calendar nou…">
 <!ENTITY calendar.context.newserver.accesskey          "n">
-<!ENTITY calendar.context.findcalendar.label           "Caută calendar…" >
+<!ENTITY calendar.context.findcalendar.label           "Caută calendarul…" >
 <!ENTITY calendar.context.findcalendar.accesskey       "C" >
 <!ENTITY calendar.context.deleteserver2.label          "Șterge calendarul…">
 <!ENTITY calendar.context.deleteserver2.accesskey      "d">
@@ -276,9 +276,9 @@
       list. -->
 <!ENTITY calendar.context.removeserver.label           "Elimină calendarul…">
 <!ENTITY calendar.context.removeserver.accesskey       "r">
-<!ENTITY calendar.context.unsubscribeserver.label      "Dezabonare de la calendar…">
+<!ENTITY calendar.context.unsubscribeserver.label      "Dezabonare de la calendarul…">
 <!ENTITY calendar.context.unsubscribeserver.accesskey  "o">
-<!ENTITY calendar.context.synccalendars.label          "Sincronizare Calendare">
+<!ENTITY calendar.context.synccalendars.label          "Sincronizează calendarele">
 <!ENTITY calendar.context.synccalendars.accesskey      "S">
 <!ENTITY calendar.context.publish.label                "Publică calendarul…">
 <!ENTITY calendar.context.publish.accesskey            "b">
@@ -301,7 +301,7 @@
 <!ENTITY calendar.context.showall.label                "Afișează toate calendarele">
 <!ENTITY calendar.context.showall.accesskey            "a">
 
-<!ENTITY calendar.context.convertmenu.label              "Convertește la">
+<!ENTITY calendar.context.convertmenu.label              "Convertește în">
 <!ENTITY calendar.context.convertmenu.accesskey.mail     "n">
 <!ENTITY calendar.context.convertmenu.accesskey.calendar "v">
 <!ENTITY calendar.context.convertmenu.event.label        "Eveniment…">
@@ -311,7 +311,7 @@
 <!ENTITY calendar.context.convertmenu.task.label         "Sarcină…">
 <!ENTITY calendar.context.convertmenu.task.accesskey     "S">
 
-<!ENTITY calendar.tasks.view.minimonth.label           "Mini lună">
+<!ENTITY calendar.tasks.view.minimonth.label           "Mini-lună">
 <!ENTITY calendar.tasks.view.minimonth.accesskey       "M">
 
 <!ENTITY calendar.tasks.view.calendarlist.label        "Listă de calendare">
@@ -327,9 +327,9 @@
 
 <!ENTITY calendar.alarm.snoozefor.label             "Amână cu" >
 <!ENTITY calendar.alarm.snoozeallfor.label          "Amână toate cu" >
-<!ENTITY calendar.alarm.title.label                 "Alarmă calendar" >
-<!ENTITY calendar.alarm.dismiss.label               "Înlătură" >
-<!ENTITY calendar.alarm.dismissall.label            "Înlătură tot" >
+<!ENTITY calendar.alarm.title.label                 "Memento-uri calendar" >
+<!ENTITY calendar.alarm.dismiss.label               "Respinge" >
+<!ENTITY calendar.alarm.dismissall.label            "Respinge tot" >
 
 <!ENTITY calendar.alarm.snooze.5minutes.label       "5 minute" >
 <!ENTITY calendar.alarm.snooze.10minutes.label      "10 minute" >
@@ -344,11 +344,11 @@
      This string is not seen in the UI, it is read by screen readers when the
      user focuses the "Cancel" button in the "Snooze for..." popup of the alarm
      dialog. -->
-<!ENTITY calendar.alarm.snooze.cancel               "Anulează alarma">
+<!ENTITY calendar.alarm.snooze.cancel               "Anulează amânarea">
 
 <!-- Calendar Server Dialog -->
 <!ENTITY calendar.server.dialog.title.edit          "Editează calendarul">
-<!ENTITY calendar.server.dialog.name.label          "Nume calendar:">
+<!ENTITY calendar.server.dialog.name.label          "Denumire calendar:">
 
 <!-- Calendar Properties -->
 <!ENTITY calendarproperties.color.label                    "Culoare:">
@@ -357,20 +357,20 @@
 <!ENTITY calendarproperties.wcap.label                     "Sun Java System Calendar Server (WCAP)">
 <!ENTITY calendarproperties.format.label                   "Format:">
 <!ENTITY calendarproperties.location.label                 "Locație:">
-<!ENTITY calendarproperties.refreshInterval.label          "Reîmprospătare calendar:">
+<!ENTITY calendarproperties.refreshInterval.label          "Reîmprospătează calendarul:">
 <!ENTITY calendarproperties.refreshInterval.manual.label   "Manual">
-<!ENTITY calendarproperties.name.label                     "Nume:">
-<!ENTITY calendarproperties.readonly.label                 "Numai pentru citit">
-<!ENTITY calendarproperties.firealarms.label               "Arată alarmele">
+<!ENTITY calendarproperties.name.label                     "Denumire:">
+<!ENTITY calendarproperties.readonly.label                 "Numai cu drept de citire">
+<!ENTITY calendarproperties.firealarms.label               "Arată memento-urile">
 <!ENTITY calendarproperties.cache3.label                   "Suport offline">
-<!ENTITY calendarproperties.enabled.label                  "Activează acest calendar">
-<!ENTITY calendarproperties.forceDisabled.label            "Furnizorul pentru acest calendar nu poate fi găsit. Acest lucru se întâmplă adesea dacă ați dezactivat sau dezinstalat unele suplimente.">
+<!ENTITY calendarproperties.enabled.label                  "Activează acest calendar pe">
+<!ENTITY calendarproperties.forceDisabled.label            "Nu s-a găsit furnizorul pentru acest calendar. Se întâmplă dacă ai dezactivat sau ai dezinstalat anumite suplimente.">
 <!ENTITY calendarproperties.unsubscribe.label              "Dezabonare">
 <!ENTITY calendarproperties.unsubscribe.accesskey          "D">
 
 <!-- Calendar Publish Dialog -->
 <!ENTITY calendar.publish.dialog.title              "Publicare calendar">
-<!ENTITY calendar.publish.url.label                 "URL-ul de publicare">
+<!ENTITY calendar.publish.url.label                 "URL de publicare">
 <!ENTITY calendar.publish.publish.button      "Publică">
 <!ENTITY calendar.publish.close.button      "Închide">
 
