@@ -683,6 +683,7 @@ addressbar-suggestions-settings = Newid dewisiadau am awgrymiadau peiriannau chw
 
 content-blocking-header = Rhwystro Cynnwys
 content-blocking-desc = Rhwystrwch gynnwys trydydd parti, fel hysbysebion a chod, sy'n gallu arafu eich pori neu eich tracio o amgylch y we. Cyfaddaswch eich gosodiadau am y dewis gorau o ddiogelwch a perfformiad.
+content-blocking-description = Rhwystrwch gynnwys trydydd parti sy'n eich dilyn o amgylch y we. Rheolwch faint o'ch gweithgaredd ar-lein sy'n cael ei storio a'i rannu rhwng gwefannau.
 content-blocking-learn-more = Dysgu Rhagor
 content-blocking-restore-defaults =
     .label = Adfer y Rhagosodiadau
@@ -709,6 +710,9 @@ content-blocking-setting-standard =
 content-blocking-setting-strict =
     .label = Llym
     .accesskey = L
+content-blocking-setting-custom =
+    .label = Cyfaddas
+    .accesskey = C
 content-blocking-tracking-protection-trackers-label =
     .label = Tracwyr
     .accesskey = T
