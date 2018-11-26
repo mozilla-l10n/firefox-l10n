@@ -193,7 +193,7 @@
 <!ENTITY counter.button.proposal.tooltip2                 "Câmpurile evenimentului vor fi populate folosind valorile din contrapropunere; doar salvarea cu sau fără modificări suplimentare va notifica toți participanții în consecință">
 <!ENTITY counter.button.original.label                    "Aplică datele inițiale">
 <!ENTITY counter.button.original.accesskey                "r">
-<!ENTITY counter.button.original.tooltip2                 "Câmpurile vor fi schimbate către valorile din evenimentul original, dinainte contra-propunerii">
+<!ENTITY counter.button.original.tooltip2                 "Câmpurile vor fi setate la valorile din forma inițială a evenimentului, de dinaintea contrapropunerii">
 
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Titlu:" >
@@ -209,11 +209,11 @@
 <!ENTITY event.attendees.accesskey                        "n">
 <!ENTITY event.alldayevent.label                          "Evenimentul durează toată ziua" >
 <!ENTITY event.alldayevent.accesskey                      "d">
-<!ENTITY event.from.label                                 "Începe:" >
+<!ENTITY event.from.label                                 "Început:" >
 <!ENTITY event.from.accesskey                             "s">
-<!ENTITY task.from.label                                  "Începe:" >
+<!ENTITY task.from.label                                  "Început:" >
 <!ENTITY task.from.accesskey                              "s">
-<!ENTITY event.to.label                                   "Se termină:" >
+<!ENTITY event.to.label                                   "Sfârșit:" >
 <!ENTITY event.to.accesskey                               "u">
 <!ENTITY task.to.label                                    "Termen-limită:" >
 <!ENTITY task.to.accesskey                                "D">
@@ -237,11 +237,11 @@
 <!ENTITY event.attachments.popup.remove.accesskey         "R" >
 <!ENTITY event.attachments.popup.open.label               "Deschide" >
 <!ENTITY event.attachments.popup.open.accesskey           "D" >
-<!ENTITY event.attachments.popup.removeAll.label          "Elimină-le pe toate" >
+<!ENTITY event.attachments.popup.removeAll.label          "Elimină tot" >
 <!ENTITY event.attachments.popup.removeAll.accesskey      "a" >
 <!ENTITY event.attachments.popup.attachPage.label         "Atașează o pagină web…" >
 <!ENTITY event.attachments.popup.attachPage.accesskey     "p" >
-<!ENTITY event.url.label                                  "Linkul către asocieri:" >
+<!ENTITY event.url.label                                  "Link asociat:" >
 <!ENTITY event.priority2.label                            "Prioritate:">
 
 <!ENTITY event.reminder.none.label                        "Fără memento " >
@@ -257,13 +257,13 @@
 <!ENTITY event.reminder.1week.before.label                "cu 1 săptămână înainte" >
 <!ENTITY event.reminder.custom.label                      "Personalizat…" >
 
-<!ENTITY event.reminder.multiple.label                    "Memento multiple…" >
+<!ENTITY event.reminder.multiple.label                    "Memento-uri multiple…" >
 
-<!ENTITY event.statusbarpanel.freebusy.label              "Timp ca:">
+<!ENTITY event.statusbarpanel.freebusy.label              "Disponibilitate:">
 <!ENTITY event.statusbarpanel.privacy.label               "Confidențialitate:">
 
 <!-- Recurrence dialog -->
-<!ENTITY recurrence.title.label                         "Editează repetarea">
+<!ENTITY recurrence.title.label                         "Editare frecvență">
 
 <!ENTITY event.repeat.does.not.repeat.label             "Nu se repetă">
 <!ENTITY event.repeat.daily.label                       "Zilnic">
@@ -324,7 +324,7 @@
 <!ENTITY event.recurrence.pattern.yearly.month.1.label       "ianuarie" >
 <!ENTITY event.recurrence.pattern.yearly.month.2.label       "februarie" >
 <!ENTITY event.recurrence.pattern.yearly.month.3.label       "martie" >
-<!ENTITY event.recurrence.pattern.yearly.month.4.label       "Aprilie" >
+<!ENTITY event.recurrence.pattern.yearly.month.4.label       "aprilie" >
 <!ENTITY event.recurrence.pattern.yearly.month.5.label       "mai" >
 <!ENTITY event.recurrence.pattern.yearly.month.6.label       "iunie" >
 <!ENTITY event.recurrence.pattern.yearly.month.7.label       "iulie" >
@@ -362,10 +362,10 @@
 <!ENTITY event.recurrence.pattern.yearly.month2.11.label     "noiembrie" >
 <!ENTITY event.recurrence.pattern.yearly.month2.12.label     "decembrie" >
 
-<!ENTITY event.recurrence.range.label                   "Plaja de întindere a repetiției">
-<!ENTITY event.recurrence.forever.label                 "Nu se termină" >
+<!ENTITY event.recurrence.range.label                   "Interval de recurență">
+<!ENTITY event.recurrence.forever.label                 "Fără dată de sfârșit" >
 <!ENTITY event.recurrence.repeat.for.label              "Creează" >
-<!ENTITY event.recurrence.appointments.label            "Întâlniri" >
+<!ENTITY event.recurrence.appointments.label            "Întâlnire(i)" >
 <!ENTITY event.repeat.until.label                       "Repetă până în" >
 <!ENTITY event.recurrence.preview.label                 "Previzualizează">
 
