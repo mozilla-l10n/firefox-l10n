@@ -19,9 +19,9 @@
 <!ENTITY button.value "Buton">
 
 <!ENTITY InputSettings.label "Setări câmp">
-<!ENTITY InputName.label "Nume câmp:">
+<!ENTITY InputName.label "Denumire câmp:">
 <!ENTITY InputName.accesskey "N">
-<!ENTITY GroupName.label "Nume grup:">
+<!ENTITY GroupName.label "Denumire grup:">
 <!ENTITY GroupName.accesskey "N">
 <!ENTITY InputValue.label "Valoare câmp:">
 <!ENTITY InputValue.accesskey "V">

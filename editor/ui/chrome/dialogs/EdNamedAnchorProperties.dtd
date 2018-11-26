@@ -3,6 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY windowTitle.label "Proprietăți ancoră denumită">
-<!ENTITY anchorNameEditField.label "Nume ancoră:">
+<!ENTITY anchorNameEditField.label "Denumire ancoră:">
 <!ENTITY anchorNameEditField.accessKey "N">
 <!ENTITY nameInput.tooltip "Introdu un nume unic pentru această ancoră (țintă)">

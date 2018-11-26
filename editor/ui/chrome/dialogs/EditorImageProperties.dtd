@@ -12,7 +12,7 @@
 <!-- These are in the Location tab panel -->
 <!ENTITY locationEditField.label "Locație imagine:">
 <!ENTITY locationEditField.accessKey "L">
-<!ENTITY locationEditField.tooltip "Tastează numele fișierului sau locația imaginii">
+<!ENTITY locationEditField.tooltip "Tastează denumirea fișierului sau locația imaginii">
 <!ENTITY locationEditField.shortenedDataURI "Date URI prescurtate (copierea va plasa întregul URI în clipboard)">
 <!ENTITY title.label "Pont unealtă:">
 <!ENTITY title.accessKey "d">

@@ -6,7 +6,7 @@
 
 <!ENTITY Settings.label "Setări">
 
-<!ENTITY TextAreaName.label "Nume câmp:">
+<!ENTITY TextAreaName.label "Denumire câmp:">
 <!ENTITY TextAreaName.accessKey "N">
 <!ENTITY TextAreaRows.label "Rânduri:">
 <!ENTITY TextAreaRows.accessKey "R">
@@ -23,7 +23,7 @@
 <!ENTITY InitialText.label "Text inițial:">
 <!ENTITY InitialText.accessKey "T">
 
-<!ENTITY TextAreaWrap.label "Mod încadrare:">
+<!ENTITY TextAreaWrap.label "Mod de încadrare:">
 <!ENTITY TextAreaWrap.accessKey "f">
 <!ENTITY WrapDefault.value "Implicit">
 <!ENTITY WrapOff.value "Fără">
