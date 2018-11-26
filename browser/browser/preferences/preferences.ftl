@@ -153,6 +153,9 @@ open-new-link-as-tabs =
 warn-on-close-multiple-tabs =
     .label = Averti min antaŭ ol fermi plurajn langetojn
     .accesskey = p
+warn-on-quit-close-multiple-tabs =
+    .label = Averti min antaŭ ol eliri kaj fermi plurajn langetojn
+    .accesskey = e
 warn-on-open-many-tabs =
     .label = Averti min kiam malfermo de pluraj langetoj povas malrapigi { -brand-short-name }
     .accesskey = l
@@ -288,6 +291,7 @@ update-application-use-service =
 update-enable-search-update =
     .label = Aŭtomate ĝisdatigi serĉilojn
     .accesskey = t
+update-pref-write-failure-title = Malsukcesa skribo
 
 ## General Section - Performance
 
