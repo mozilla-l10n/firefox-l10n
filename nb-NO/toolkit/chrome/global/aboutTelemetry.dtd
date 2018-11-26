@@ -20,7 +20,6 @@ I går
 <!ENTITY aboutTelemetry.optionGroupOlder "
 Eldre
 ">
-<!ENTITY aboutTelemetry.payloadChoiceHeader "  Nyttelast">
 <!-- LOCALIZATION NOTE(aboutTelemetry.previousPing, aboutTelemetry.nextPing):
 	These strings are displayed when selecting Archived pings, and they’re
 	used to move to the next or previous ping. -->
@@ -41,6 +40,8 @@ Ser du etter mer informasjon?
 Med <a>Telemetry-panelet</a> kan du visualisere dataene Mozilla mottar via Telementry.
 ">
 
+<!ENTITY aboutTelemetry.telemetryProbeDictionary "<a>Probe Dictionary</a> gir detaljer og beskrivelser for sonder som samles inn av Telemetry.">
+
 <!ENTITY aboutTelemetry.showInFirefoxJsonViewer "
 Åpne i JSON-viser
 ">
@@ -55,9 +56,7 @@ Med <a>Telemetry-panelet</a> kan du visualisere dataene Mozilla mottar via Telem
 <!ENTITY aboutTelemetry.keyedHistogramsSection "  Histogrammer etter nøkler">
 <!ENTITY aboutTelemetry.eventsSection "  hendelser">
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Enkle målinger">
-<!ENTITY aboutTelemetry.telemetryLogSection "  Telemetri-logg">
 <!ENTITY aboutTelemetry.slowSqlSection "  Trege SQL-uttrykk">
-<!ENTITY aboutTelemetry.chromeHangsSection "  Nettleserheng">
 <!ENTITY aboutTelemetry.addonDetailsSection "  Utvidelsesdetaljer">
 <!ENTITY aboutTelemetry.capturedStacksSection "  oppfanget stakker">
 <!ENTITY aboutTelemetry.lateWritesSection "  Sen skriving">
