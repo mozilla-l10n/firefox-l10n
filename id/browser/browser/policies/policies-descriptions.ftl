@@ -49,8 +49,7 @@ policy-DontCheckDefaultBrowser = Nonaktifkan pemeriksaan untuk peramban bawaan s
 policy-EnableTrackingProtection = Aktifkan atau nonaktifkan Pemblokiran Konten dan kunci ia secara opsional.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
-# English or translate them as verbs. See also:
-# https://github.com/mozilla/policy-templates/blob/master/README.md#extensions-machine-only
+# English or translate them as verbs.
 policy-Extensions = Memasang, mencopot, atau mengunci ekstensi. Opsi Memasang membutuhkan parameter URL atau jalur. Opsi Mencopot dan Mengunci membutuhkan ID ekstensi.
 policy-FlashPlugin = Izinkan atau tolak penggunaan plugin Flash.
 policy-HardwareAcceleration = Jika bernilai false, menonaktifkan akselerasi perangkat keras.
@@ -58,6 +57,7 @@ policy-HardwareAcceleration = Jika bernilai false, menonaktifkan akselerasi pera
 policy-Homepage = Mengatur dan mengunci halaman beranda secara opsional.
 policy-InstallAddonsPermission = Izinkan situs tertentu untuk memasang pengaya.
 policy-NoDefaultBookmarks = Nonaktifkan pembuatan markah default yang dibundel dengan { -brand-short-name } serta Markah Cerdas (Sering Mampir, Tag Terbaru). Catatan: kebijakan ini hanya efektif jika digunakan sebelum menjalankan profil pertama.
+policy-OfferToSaveLogins = Jalankan paksa setelan untuk mengizinkan { -brand-short-name } untuk menawarkan agar mengingat log masuk dan kata sandi yang disimpan. Baik nilai benar dan salah pun diterima.
 policy-OverrideFirstRunPage = Ganti laman pertama yang dibuka. Setel kebijakan ini menjadi kosong jika ingin menonaktifkan laman pertama yang dibuka.
 policy-OverridePostUpdatePage = Ganti laman "Yang Baru" yang tampil setelah pembaruan. Setel kebijakan ini menjadi kosong jika ingin menonaktifkan laman setelah pembaruan.
 policy-Permissions = Atur izin untuk kamera, mikrofon, lokasi, dan notifikasi.
@@ -69,6 +69,5 @@ policy-SearchBar = Setel lokasi bawaan untuk bilah pencarian. Pengguna masih dii
 policy-SearchEngines = Konfigurasikan setelan mesin pencari. Kebijakan ini hanya tersedia dalam versi Extended Support Release (ESR).
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Pasang modul PKCS #11.
-# “format” refers to the format used for the value of this policy. See also:
-# https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
+# “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Blokir situs web agar tidak dikunjungi. Lihat dokumentasi lebih lanjut untuk formatnya.
