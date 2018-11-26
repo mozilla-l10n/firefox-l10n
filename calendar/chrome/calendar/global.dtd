@@ -4,10 +4,10 @@
 
 <!ENTITY time.midnight "Miezul nopții" >
 <!ENTITY time.noon "Amiază" >
+
 <!-- Day Names -->
 <!-- LOCALIZATION NOTE : Accesskeys for day.1.Ddd to day.7.Ddd are currently
      only used in Preferences > Views > Workweek groupbox -->
-
 <!ENTITY day.1.Ddd "Dum" >
 <!ENTITY day.1.Ddd.accesskey "D">
 <!ENTITY day.2.Ddd "Lun" >
@@ -25,23 +25,23 @@
 
 <!ENTITY day.1.name "Duminică" >
 <!ENTITY day.2.name "Luni" >
-<!ENTITY day.3.name "Marți" >
+<!ENTITY day.3.name "marți" >
 <!ENTITY day.4.name "Miercuri" >
 <!ENTITY day.5.name "Joi" >
 <!ENTITY day.6.name "Vineri" >
 <!ENTITY day.7.name "Sâmbătă" >
 
-<!ENTITY month.1.name "Ianuarie" >
-<!ENTITY month.2.name "Februarie" >
-<!ENTITY month.3.name "Martie" >
-<!ENTITY month.4.name "Aprilie" >
-<!ENTITY month.5.name "Mai" >
-<!ENTITY month.6.name "Iunie" >
-<!ENTITY month.7.name "Iulie" >
-<!ENTITY month.8.name "August" >
-<!ENTITY month.9.name "Septembrie" >
-<!ENTITY month.10.name "Octombrie" >
-<!ENTITY month.11.name "Noiembrie" >
+<!ENTITY month.1.name "ianuarie" >
+<!ENTITY month.2.name "februarie" >
+<!ENTITY month.3.name "martie" >
+<!ENTITY month.4.name "aprilie" >
+<!ENTITY month.5.name "mai" >
+<!ENTITY month.6.name "iunie" >
+<!ENTITY month.7.name "iulie" >
+<!ENTITY month.8.name "august" >
+<!ENTITY month.9.name "septembrie" >
+<!ENTITY month.10.name "octombrie" >
+<!ENTITY month.11.name "noiembrie" >
 <!ENTITY month.12.name "Decembrie" >
 
 <!ENTITY onemonthbackward.tooltip "Cu o lună înapoi" >
