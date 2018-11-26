@@ -713,6 +713,16 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = Cyfaddas
     .accesskey = C
+content-blocking-standard-desc = Cymantoledd rhwng diogelwch a pherfformiad. Yn caniatáu rhai tracwyr fel bod gwefannau'n gweithio'n iawn.
+content-blocking-strict-desc = Rhwystro pob traciwr mae { -brand-short-name } yn ei canfod. Gall achosi rhai gwefannau i dorri.
+content-blocking-custom-desc = Dewis beth i'w rhwystro.
+content-blocking-private-trackers = Tracwyr hysbys mewn Ffenestri Preifat yn unig.
+content-blocking-third-party-cookies = Cwcis tracio trydydd parti
+content-blocking-all-windows-trackers = Tracwyr hysbys ymhob ffenestr
+content-blocking-all-third-party-cookies = Pob cwci trydydd parti
+content-blocking-warning-title = Rhybudd!
+content-blocking-warning-desc = Gall rwystro cwcis a thracwyr achosi i rai gwefannau i dorri. Mae'n hawdd i analluogi rhwystro ar wefannau rydych yn ymddiried ynddyn nhw.
+content-blocking-learn-how = Dysgu sut
 content-blocking-tracking-protection-trackers-label =
     .label = Tracwyr
     .accesskey = T
@@ -772,6 +782,9 @@ tracking-exceptions =
 tracking-change-block-list =
     .label = Newid y Rhestr Rhwystro…
     .accesskey = N
+tracking-manage-exceptions =
+    .label = Rheoli Eithriadau…
+    .accesskey = R
 
 ## Privacy Section - Permissions
 
