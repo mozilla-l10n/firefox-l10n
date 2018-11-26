@@ -194,13 +194,13 @@
 <!ENTITY alignLeft.label "La stânga">
 <!ENTITY alignLeft.accesskey "S">
 <!ENTITY alignLeft.tooltip "Aliniază la stânga">
-<!ENTITY alignCenter.label "Centrat">
+<!ENTITY alignCenter.label "La centru">
 <!ENTITY alignCenter.accesskey "C">
 <!ENTITY alignCenter.tooltip "Aliniază la centru">
 <!ENTITY alignRight.label "La dreapta">
 <!ENTITY alignRight.accesskey "D">
 <!ENTITY alignRight.tooltip "Aliniază la dreapta">
-<!ENTITY alignJustify.label "Stânga/dreapta">
+<!ENTITY alignJustify.label "Distribuit stânga/dreapta">
 <!ENTITY alignJustify.accesskey "S">
 <!ENTITY alignJustify.tooltip "Aliniază la stânga și dreapta">
 
