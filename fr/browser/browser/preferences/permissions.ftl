@@ -110,7 +110,7 @@ permissions-site-notification-window =
 permissions-site-notification-desc = Les sites web suivants ont demandé à vous envoyer des notifications. Vous pouvez spécifier quels sites web sont autorisés à vous envoyer des notifications. Vous pouvez également bloquer les nouvelles demandes d’activation des notifications.
 permissions-site-notification-disable-label =
     .label = Bloquer les nouvelles demandes d’activation des notifications
-permissions-site-notification-disable-desc = Cela empêchera tous les sites web non listés ci-dessus de demander l’autorisation d’envoyer des notifications. Le blocage des notifications peut empêcher le fonctionnement des fonctionnalités de certains sites web.
+permissions-site-notification-disable-desc = Cela empêchera tous les sites web non listés ci-dessus de demander l’autorisation d’envoyer des notifications. Le blocage des notifications peut invalider les fonctionnalités de certains sites web.
 
 ## Site Permissions - Location
 
@@ -120,7 +120,7 @@ permissions-site-location-window =
 permissions-site-location-desc = Les sites web suivants ont demandé l’accès à votre localisation. Vous pouvez spécifier quels sites web sont autorisés à accéder à votre localisation. Vous pouvez également bloquer les nouvelles demandes d’accès à votre localisation.
 permissions-site-location-disable-label =
     .label = Bloquer les nouvelles demandes d’accès à votre localisation
-permissions-site-location-disable-desc = Cela empêchera tous les sites web non listés ci-dessus de demander l’autorisation d’accéder à votre localisation. Bloquer l’accès à votre localisation peut empêcher le fonctionnement des fonctionnalités de certains sites web.
+permissions-site-location-disable-desc = Cela empêchera tous les sites web non listés ci-dessus de demander l’autorisation d’accéder à votre localisation. Bloquer l’accès à votre localisation peut invalider les fonctionnalités de certains sites web.
 
 ## Site Permissions - Camera
 
@@ -130,7 +130,7 @@ permissions-site-camera-window =
 permissions-site-camera-desc = Les sites web suivants ont demandé l’accès à votre caméra. Vous pouvez spécifier quels sites web sont autorisés à accéder à votre caméra. Vous pouvez également bloquer les nouvelles demandes d’accès à votre caméra.
 permissions-site-camera-disable-label =
     .label = Bloquer les nouvelles demandes d’accès à votre caméra
-permissions-site-camera-disable-desc = Cela empêchera tous les sites web non listés ci-dessus de demander l’autorisation d’accéder à votre caméra. Bloquer l’accès à votre caméra peut empêcher le fonctionnement des fonctionnalités de certains sites web.
+permissions-site-camera-disable-desc = Cela empêchera tous les sites web non listés ci-dessus de demander l’autorisation d’accéder à votre caméra. Bloquer l’accès à votre caméra peut invalider les fonctionnalités de certains sites web.
 
 ## Site Permissions - Microphone
 
@@ -140,4 +140,4 @@ permissions-site-microphone-window =
 permissions-site-microphone-desc = Les sites web suivants ont demandé l’accès à votre microphone. Vous pouvez spécifier quels sites web sont autorisés à accéder à votre microphone. Vous pouvez également bloquer les nouvelles demandes d’accès à votre microphone.
 permissions-site-microphone-disable-label =
     .label = Bloquer les nouvelles demandes d’accès à votre microphone
-permissions-site-microphone-disable-desc = Cela empêchera tous les sites web non listés ci-dessus de demander l’autorisation d’accéder à votre microphone. Bloquer l’accès à votre microphone peut empêcher le fonctionnement des fonctionnalités de certains sites web.
+permissions-site-microphone-disable-desc = Cela empêchera tous les sites web non listés ci-dessus de demander l’autorisation d’accéder à votre microphone. Bloquer l’accès à votre microphone peut invalider les fonctionnalités de certains sites web.
