@@ -10,8 +10,26 @@
 <!ENTITY time.millisecond.placeholder "--">
 <!ENTITY time.dayperiod.placeholder "--">
 
+<!-- Field labels for input type=time -->
+
+<!ENTITY time.hour.label "Giờ">
+<!ENTITY time.minute.label "Phút">
+<!ENTITY time.second.label "Giây">
+<!ENTITY time.millisecond.label "Mili giây">
+<!ENTITY time.dayperiod.label "SA/CH">
+
 <!-- Placeholders for input type=date -->
 
 <!ENTITY date.year.placeholder "yyyy">
 <!ENTITY date.month.placeholder "mm">
 <!ENTITY date.day.placeholder "dd">
+
+<!-- Field labels for input type=date -->
+
+<!ENTITY date.year.label "Năm">
+<!ENTITY date.month.label "Tháng">
+<!ENTITY date.day.label "Ngày">
+
+<!-- Date/time clear button -->
+
+<!ENTITY datetime.reset.label "Xóa">
