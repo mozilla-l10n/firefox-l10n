@@ -688,6 +688,16 @@ content-blocking-fastblock-slow-loading-trackers-label =
     .label = Traciatores lente
     .accesskey = S
 content-blocking-fastblock-new-description = Blocar justo le traciatores que impedi le paginas de ser cargate rapidemente.
+content-blocking-setting-standard =
+    .label = Standard
+    .accesskey = d
+content-blocking-setting-strict =
+    .label = Stricte
+    .accesskey = r
+content-blocking-setting-custom =
+    .label = Personalisate
+    .accesskey = P
+content-blocking-learn-how = Apprender como
 content-blocking-tracking-protection-trackers-label =
     .label = Traciatores
     .accesskey = T
@@ -723,6 +733,9 @@ content-blocking-reject-trackers-block-trackers-option =
 content-blocking-reject-trackers-all-third-parties-option =
     .label = Tote le cookies de tertie-partes (pote causar que sitos web collabe)
     .accesskey = T
+content-blocking-cookies-label =
+    .label = Cookies
+    .accesskey = C
 
 ## Privacy Section - Tracking
 
@@ -744,6 +757,9 @@ tracking-exceptions =
 tracking-change-block-list =
     .label = Cambiar le lista de blocage…
     .accesskey = C
+tracking-manage-exceptions =
+    .label = Gerer le exceptiones…
+    .accesskey = x
 
 ## Privacy Section - Permissions
 
