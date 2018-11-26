@@ -4,7 +4,7 @@
 
 <!ENTITY lightning.toolbar.calendar.name "Bară de unelte pentru calendar">
 <!ENTITY lightning.toolbar.calendar.name.accesskey "C">
-<!ENTITY lightning.toolbar.task.name "Bara de unelte pentru sarcini">
+<!ENTITY lightning.toolbar.task.name "Bară de unelte pentru sarcini">
 <!ENTITY lightning.toolbar.task.name.accesskey "T">
 
 <!ENTITY lightning.toolbar.sync.label "Sincronizare">
@@ -14,7 +14,7 @@
 <!ENTITY lightning.toolbar.edit.label "Editare">
 <!ENTITY lightning.toolbar.edit.tooltip "Editează evenimentele sau sarcinile selectate">
 <!ENTITY lightning.toolbar.gototoday.label "Mergi la ziua de azi">
-<!ENTITY lightning.toolbar.gototoday.tooltip "Mergi la ziua de azi">
+<!ENTITY lightning.toolbar.gototoday.tooltip "Comută pe ziua curentă">
 <!ENTITY lightning.toolbar.print.label "Tipărire">
 <!ENTITY lightning.toolbar.print.tooltip "Tipărește evenimente sau sarcini">
 
@@ -37,7 +37,7 @@
 <!ENTITY lightning.toolbar.day.accesskey             "Z">
 <!ENTITY lightning.toolbar.week.label                "Săptămâna">
 <!ENTITY lightning.toolbar.week.accesskey            "S">
-<!ENTITY lightning.toolbar.multiweek.label           "Mai multe săptămâni">
+<!ENTITY lightning.toolbar.multiweek.label           "Multisăptămânal">
 <!ENTITY lightning.toolbar.multiweek.accesskey       "M">
 <!ENTITY lightning.toolbar.month.label               "Lună">
 <!ENTITY lightning.toolbar.month.accesskey           "L">
@@ -47,5 +47,5 @@
 <!ENTITY lightning.toolbar.appmenuButton1.tooltip    "Afișare meniu &brandShortName;">
 <!ENTITY lightning.toolbar.calendarmenu.label        "Panou calendar">
 <!ENTITY lightning.toolbar.calendarmenu.accesskey    "P">
-<!ENTITY lightning.toolbar.calendarpane.label        "Arată CalendarPanou">
+<!ENTITY lightning.toolbar.calendarpane.label        "Afișează panoul calendarului">
 <!ENTITY lightning.toolbar.calendarpane.accesskey    "P">

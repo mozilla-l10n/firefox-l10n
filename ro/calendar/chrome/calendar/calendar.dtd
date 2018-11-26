@@ -20,7 +20,7 @@
 <!ENTITY calendar.events.filter.today.label "Evenimentele de astăzi">
 <!ENTITY calendar.events.filter.future.label "Toate evenimentele viitoare">
 <!ENTITY calendar.events.filter.current.label "Ziua selectată acum">
-<!ENTITY calendar.events.filter.currentview.label "Evenimente în vizualizarea curentă">
+<!ENTITY calendar.events.filter.currentview.label "Evenimente în vizualizarea actuală">
 <!ENTITY calendar.events.filter.next7Days.label "Evenimente în următoarele 7 zile">
 <!ENTITY calendar.events.filter.next14Days.label "Evenimente în următoarele 14 zile">
 <!ENTITY calendar.events.filter.next31Days.label "Evenimente în următoarele 31 de zile">
@@ -87,7 +87,7 @@
 
 <!ENTITY calendar.newevent.button.label         "Eveniment nou" >
 <!ENTITY calendar.newtask.button.label          "Sarcină nouă" >
-<!ENTITY calendar.print.button.label            "Tipărire" >
+<!ENTITY calendar.print.button.label            "Tipărește" >
 <!ENTITY calendar.print.button.accesskey        "T">
 
 <!ENTITY calendar.day.button.label              "Zi" >
@@ -156,7 +156,7 @@
 <!-- Context Menu -->
 <!ENTITY calendar.context.modifyorviewitem.label      "Deschide">
 <!ENTITY calendar.context.modifyorviewitem.accesskey  "D">
-<!ENTITY calendar.context.modifyorviewtask.label      "Deschide o sarcină…">
+<!ENTITY calendar.context.modifyorviewtask.label      "Deschide sarcina…">
 <!ENTITY calendar.context.modifyorviewtask.accesskey  "o">
 <!ENTITY calendar.context.newevent.label              "Eveniment nou…">
 <!ENTITY calendar.context.newevent.accesskey          "n">
@@ -405,5 +405,5 @@
 <!-- Extract buttons in message header -->
 <!ENTITY calendar.extract.event.button         "Adaugă ca eveniment">
 <!ENTITY calendar.extract.task.button          "Adaugă ca sarcină">
-<!ENTITY calendar.extract.event.button.tooltip "Extrage informații de tip calendar din mesaj și le adaugă în calendar ca un eveniment">
-<!ENTITY calendar.extract.task.button.tooltip  "Extrage informații de tip calendar din mesaj și le adaugă în calendar ca o sarcină">
+<!ENTITY calendar.extract.event.button.tooltip "Extrage informații tip calendar din mesaj și le adaugă în calendar ca evenimente">
+<!ENTITY calendar.extract.task.button.tooltip  "Extrage informații tip calendar din mesaj și le adaugă în calendar ca sarcini">
