@@ -222,3 +222,4 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> bruger forældet sikkerheds-teknologi, der er sårbar overfor angreb. En angriber kan derfor nemt få adgang til information, som du troede var sikker. Webstedets administrator er nødt til at løse problemerne på serveren, før du kan besøge webstedet.</p><p>Fejlkode: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY networkProtocolError.title "Fejl i netværksprotokol">
+<!ENTITY networkProtocolError.longDesc "<p>Websiden kan ikke vises, da der er en fejl i netværksprotokollen.</p><ul><li>Informer gerne sidens ejer om problemet.</li></ul>">
