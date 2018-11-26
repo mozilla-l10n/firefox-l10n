@@ -4,6 +4,9 @@
 
 addons-window =
     .title = Quản lí tiện ích
+search-header =
+    .placeholder = Tìm kiếm addons.mozilla.org
+    .searchbuttonlabel = Tìm kiếm
 search-header-shortcut =
     .key = f
 loading-label =
@@ -21,6 +24,12 @@ list-empty-button =
 install-addon-from-file =
     .label = Cài đặt tiện ích từ tập tin…
     .accesskey = i
+help-button = Hỗ trợ tiện ích
+preferences =
+    { PLATFORM() ->
+        [windows] { -brand-short-name } Tùy chọn
+       *[other] { -brand-short-name } Tùy chỉnh
+    }
 tools-menu =
     .tooltiptext = Công cụ cho tất cả tiện ích
 show-unsigned-extensions-button =

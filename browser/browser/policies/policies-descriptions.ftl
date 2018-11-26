@@ -38,13 +38,28 @@ policy-DisableSafeMode = Tắt tính năng này để khởi động lại ở C
 policy-DisableSecurityBypass = Ngăn người dùng bỏ qua một số cảnh báo bảo mật nhất định.
 policy-DisableSetDesktopBackground = Vô hiệu hóa lệnh Đặt ảnh làm hình nền desktop trên bảng chọn.
 policy-DisableSetAsDesktopBackground = Vô hiệu hóa lệnh Đặt nhiều ảnh làm hình nền desktop trong bản chọn.
+policy-DisableSystemAddonUpdate = Ngăn trình duyệt cài đặt và cập nhật tiện ích hệ thống.
 policy-DisableTelemetry = Tắt Telemetry.
 policy-DisplayBookmarksToolbar = Hiển thị mặc định Thanh công cụ Bookmarks.
+policy-DisplayMenuBar = Hiển thị thanh bảng chọn theo mặc định.
+policy-DNSOverHTTPS = Cấu hình DNS qua HTTPS.
+policy-DontCheckDefaultBrowser = Tắt kiểm tra trình duyệt mặc định khi khởi động.
 policy-FlashPlugin = Cho phép hoặc từ chối việc sử dụng phần bổ trợ Flash.
 policy-HardwareAcceleration = Nếu false, hãy tắt chế độ tăng tốc phần cứng.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Đặt và tùy chọn khóa trang chủ.
 policy-InstallAddonsPermission = Cho phép một số website cài đặt tiện ích.
+policy-NoDefaultBookmarks = Vô hiệu hóa việc tạo dấu trang mặc định đi kèm với { -brand-short-name } và Dấu trang thông minh (Được truy cập nhiều nhất, thẻ gần đây). Lưu ý: chính sách này chỉ có hiệu lực nếu được sử dụng trước lần chạy đầu tiên của hồ sơ.
+policy-OfferToSaveLogins = Thực thi cài đặt để cho phép { -brand-short-name } cung cấp và ghi nhớ thông tin đăng nhập và mật khẩu đã lưu. Cả hai giá trị đúng và sai đều được chấp nhận.
+policy-OverrideFirstRunPage = Ghi đè trang chạy đầu tiên. Bỏ trống chính sách này nếu bạn muốn vô hiệu hóa trang chạy đầu tiên.
+policy-Permissions = Cấu hình quyền truy cập cho máy ảnh, micrô, vị trí và thông báo.
+policy-PopupBlocking = Cho phép các trang web nhất định hiển thị cửa sổ bật lên theo mặc định.
 policy-Proxy = Cài đặt cấu hình proxy.
+policy-RequestedLocales = Đặt danh sách các ngôn ngữ được yêu cầu cho ứng dụng theo thứ tự ưu tiên.
+policy-SanitizeOnShutdown = Xóa tất cả dữ liệu điều hướng khi tắt máy.
+policy-SearchBar = Đặt thanh tìm kiếm ở vị trí mặc định. Người dùng vẫn được phép tùy chỉnh nó.
+policy-SearchEngines = Cấu hình cài đặt công cụ tìm kiếm. Chính sách này chỉ có sẵn trên phiên bản phát hành hỗ trợ mở rộng (ESR).
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Cài đặt các mô-đun PKCS # 11.
+# “format” refers to the format used for the value of this policy.
+policy-WebsiteFilter = Chặn các trang web không được truy cập. Xem tài liệu để biết thêm chi tiết về định dạng.
