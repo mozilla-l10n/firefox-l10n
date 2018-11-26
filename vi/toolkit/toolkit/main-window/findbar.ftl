@@ -15,6 +15,14 @@ findbar-highlight-all =
     .label = Đánh dấu tất cả
     .accesskey = l
     .tooltiptext = Tô sáng tất cả các cụm từ tìm thấy
+findbar-highlight-all2 =
+    .label = Tô sáng tất cả
+    .accesskey =
+        { PLATFORM() ->
+            [macos] l
+           *[other] a
+        }
+    .tooltiptext = Tô sáng tất cả các lần xuất hiện của cụm từ
 findbar-case-sensitive =
     .label = Phân biệt HOA-thường
     .accesskey = A
