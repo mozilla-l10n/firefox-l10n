@@ -27,3 +27,4 @@ onboarding-ghostery-title = Ghostery
 onboarding-ghostery-text = Surf raskare, smartare eller sikrare med utvidingar som Ghostery, som lèt deg blokkere irriterande annonsar.
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Synkroniser
+onboarding-fxa-text = Registrer deg for eit { -fxaccount-brand-name } og synkroniser bokmerka dine, passord og opne faner overalt der du brukar { -brand-short-name }.

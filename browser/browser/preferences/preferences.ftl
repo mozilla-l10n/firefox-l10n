@@ -331,6 +331,9 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Søk etter tekst når eg byrjar å skrive
     .accesskey = k
+browsing-cfr-recommendations =
+    .label = Tilrå tillegg når du surfar
+    .accesskey = T
 browsing-cfr-recommendations-learn-more = Les meir
 
 ## General Section - Proxy
@@ -685,6 +688,15 @@ content-blocking-fastblock-new-description = Blokker berre sporfølgjarar som gj
 content-blocking-setting-standard =
     .label = Standard
     .accesskey = S
+content-blocking-setting-strict =
+    .label = Streng
+    .accesskey = r
+content-blocking-setting-custom =
+    .label = Tilpassa
+    .accesskey = p
+content-blocking-custom-desc = Vell kva du vil blokkere.
+content-blocking-warning-title = Sjå opp!
+content-blocking-learn-how = Finn ut korleis
 content-blocking-tracking-protection-trackers-label =
     .label = Sporfølgjarar
     .accesskey = S
@@ -720,6 +732,9 @@ content-blocking-reject-trackers-block-trackers-option =
 content-blocking-reject-trackers-all-third-parties-option =
     .label = Alle tredjeparts infokapslar (kan føre til at nettsider sluttar å fungere)
     .accesskey = A
+content-blocking-cookies-label =
+    .label = Infokapslar
+    .accesskey = k
 
 ## Privacy Section - Tracking
 
