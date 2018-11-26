@@ -142,7 +142,7 @@
 <!ENTITY  event.menu.options.privacy.accesskey                "i">
 <!ENTITY  event.menu.options.privacy.public.label             "Eveniment public">
 <!ENTITY  event.menu.options.privacy.public.accesskey         "u">
-<!ENTITY  event.menu.options.privacy.confidential.label       "Arată numai data și ora">
+<!ENTITY  event.menu.options.privacy.confidential.label       "Afișează numai data și ora">
 <!ENTITY  event.menu.options.privacy.confidential.accesskey   "A">
 <!ENTITY  event.menu.options.privacy.private.label            "Eveniment privat">
 <!ENTITY  event.menu.options.privacy.private.accesskey        "r">
@@ -198,7 +198,7 @@
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Titlu:" >
 <!ENTITY event.title.textbox.accesskey                    "T">
-<!ENTITY event.location.label                             "Loc:" >
+<!ENTITY event.location.label                             "Locație:" >
 <!ENTITY event.location.accesskey                         "l">
 <!ENTITY event.categories.label                           "Categorie:">
 <!ENTITY event.categories.accesskey                       "C">
@@ -404,21 +404,21 @@
 <!ENTITY read.only.event.end.label       "Dată de sfârșit:">
 <!ENTITY read.only.task.due.label        "Termen-limită:">
 <!ENTITY read.only.repeat.label          "Repetă:">
-<!ENTITY read.only.location.label        "Loc:">
+<!ENTITY read.only.location.label        "Locație:">
 <!ENTITY read.only.category.label        "Categorie:">
 <!ENTITY read.only.organizer.label       "Organizator:">
 <!ENTITY read.only.reminder.label        "Memento:">
 <!ENTITY read.only.attachments.label     "Atașamente:">
 <!ENTITY read.only.attendees.label       "Participanți">
 <!ENTITY read.only.description.label     "Descriere">
-<!ENTITY read.only.link.label            "Linkul către asocieri">
+<!ENTITY read.only.link.label            "Link asociat">
 
 <!-- Summary dialog -->
 <!ENTITY summary.dialog.saveclose.label         "Salvează și închide">
 <!ENTITY summary.dialog.saveclose.tooltiptext   "Salvează schimbările și închide fereastra fără a modifica starea participării și fără a trimite un răspuns">
 <!ENTITY summary.dialog.accept.label            "Acceptă">
 <!ENTITY summary.dialog.accept.tooltiptext      "Acceptă invitația">
-<!ENTITY summary.dialog.tentative.label         "Provizoriu">
+<!ENTITY summary.dialog.tentative.label         "Provizorie">
 <!ENTITY summary.dialog.tentative.tooltiptext   "Acceptă provizoriu invitația">
 <!ENTITY summary.dialog.decline.label           "Refuză">
 <!ENTITY summary.dialog.decline.tooltiptext     "Refuză invitația">

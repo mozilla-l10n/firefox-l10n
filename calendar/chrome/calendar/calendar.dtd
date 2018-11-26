@@ -58,7 +58,7 @@
 <!ENTITY calendar.unifinder.close.tooltip                  "Închide căutarea și lista de evenimente">
 
 <!ENTITY calendar.today.button.tooltip          "Mergi la ziua de astăzi" >
-<!ENTITY calendar.todaypane.button.tooltip      "Arată panoul zilei de astăzi" >
+<!ENTITY calendar.todaypane.button.tooltip      "Afișează panoul zilei de astăzi" >
 
 <!ENTITY calendar.day.button.tooltip            "Comută pe vizualizarea pe zile" >
 <!ENTITY calendar.week.button.tooltip           "Comută pe vizualizarea pe săptămâni" >
