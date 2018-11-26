@@ -59,11 +59,14 @@
 
 # LOCALIZATION NOTE (crashes):
 # Nightly builds only, link title for about:crashes
+#define crashes Todas as súas quebras
 
 # LOCALIZATION NOTE (irc):
 # Nightly builds only, link title for ircs://irc.mozilla.org/nightly
+#define irc A canle IRC dedicada a Nightly
 
 # LOCALIZATION NOTE (planet):
 # Nightly builds only, link title for https://planet.mozilla.org/
+#define planet Planeta Mozilla
 
 #unfilter emptyLines
