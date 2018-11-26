@@ -8,7 +8,7 @@
 <!ENTITY securitySettings.label "Setări de securitate">
 <!ENTITY serverSettings.label "Setările serverului">
 <!ENTITY serverType.label "Tip server:">
-<!ENTITY serverName.label "Numele serverului:">
+<!ENTITY serverName.label "Denumire server:">
 <!ENTITY serverName.accesskey "s">
 <!ENTITY userName.label "Nume de utilizator:">
 <!ENTITY userName.accesskey "u">
@@ -71,7 +71,7 @@
 <!ENTITY alwaysAuthenticate.accesskey "a">
 <!ENTITY newsrcFilePath.label "Fișier newsrc:">
 <!ENTITY newsrcPicker.label "Selectează fișierul newsrc">
-<!ENTITY abbreviate.label "Arată numele grupurilor de discuții în panoul cu dosare ca:">
+<!ENTITY abbreviate.label "Arată denumirile grupurilor de știri în panoul cu dosare de poștă electronică ca:">
 <!ENTITY abbreviateOn.label "Nume complete (ex: „netscape.public.mozilla.mail-news”)">
 <!ENTITY abbreviateOff.label "Nume abreviate (ex: „n.p.m.mail-news”)">
 <!ENTITY advancedButton.label "Avansat…">

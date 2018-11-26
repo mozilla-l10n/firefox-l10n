@@ -4,7 +4,7 @@
 
 <!ENTITY settings.caption "Setări">
 <!ENTITY security.caption "Securitate și autentificare">
-<!ENTITY serverName.label "Numele serverului:">
+<!ENTITY serverName.label "Denumire server:">
 <!ENTITY serverName.accesskey "s">
 <!ENTITY serverDescription.label "Descriere:">
 <!ENTITY serverDescription.accesskey "D">

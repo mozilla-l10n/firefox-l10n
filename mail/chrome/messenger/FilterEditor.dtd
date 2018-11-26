@@ -4,7 +4,7 @@
 
 <!ENTITY window.title "Reguli pentru filtrare">
 <!ENTITY filterEditorDialog.dimensions "width: 100ch;">
-<!ENTITY filterName.label "Numele filtrului:">
+<!ENTITY filterName.label "Denumire filtru:">
 <!ENTITY filterName.accesskey "i">
 
 <!ENTITY junk.label "Nesolicitat">

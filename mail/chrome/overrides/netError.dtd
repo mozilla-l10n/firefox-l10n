@@ -20,7 +20,12 @@
 <!ENTITY dnsNotFound.longDesc "<ul> <li>Verifică adresa de erori de tastare cum ar fi <strong>ww</strong>.exemplu.ro în loc de <strong>www</strong>.exemplu.ro</li> <li>Dacă nu poți să încarci nicio pagină, verifică conexiunea la rețea a calculatorului.</li> <li>Dacă calculatorul sau rețeaua este protejat(ă) de un firewall sau proxy, asigură-te că &brandShortName; are permisiunea de a accesa webul.</li> </ul>">
 
 <!ENTITY fileNotFound.title "Fișier negăsit">
-<!ENTITY fileNotFound.longDesc "<ul> <li>Verifică ca numele fișierului să nu aibă erori de majuscule/minuscule sau alte erori de tastare.</li> <li>Verifică ca fișierul să nu fi fost mutat, redenumit sau șters.</li> </ul>">
+<!ENTITY fileNotFound.longDesc "
+<ul>
+  <li>Verifică denumirea fișierului ca să nu aibă erori de majuscule/minuscule sau alte erori de tastare.</li>
+  <li>Verifică dacă fișierul nu a fost mutat, redenumit sau șters.</li>
+</ul>
+">
 
 <!ENTITY fileAccessDenied.title "Accesul la fișier a fost refuzat">
 <!ENTITY fileAccessDenied.longDesc "<ul> <li>Este posibil să fi fost eliminat, mutat sau permisiunile fișierului pot împiedica accesul.</li> </ul>">
