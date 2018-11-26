@@ -361,9 +361,9 @@
 <!ENTITY calendarproperties.refreshInterval.manual.label   "Manual">
 <!ENTITY calendarproperties.name.label                     "Denumire:">
 <!ENTITY calendarproperties.readonly.label                 "Numai cu drept de citire">
-<!ENTITY calendarproperties.firealarms.label               "Arată memento-urile">
+<!ENTITY calendarproperties.firealarms.label               "Afișează memento-urile">
 <!ENTITY calendarproperties.cache3.label                   "Suport offline">
-<!ENTITY calendarproperties.enabled.label                  "Activează acest calendar pe">
+<!ENTITY calendarproperties.enabled.label                  "Activează acest calendar">
 <!ENTITY calendarproperties.forceDisabled.label            "Nu s-a găsit furnizorul pentru acest calendar. Se întâmplă dacă ai dezactivat sau ai dezinstalat anumite suplimente.">
 <!ENTITY calendarproperties.unsubscribe.label              "Dezabonare">
 <!ENTITY calendarproperties.unsubscribe.accesskey          "D">
@@ -388,7 +388,7 @@
 <!ENTITY calendar.print.selectedEventsAndTasks.label "Sarcini/evenimente selectate">
 <!ENTITY calendar.print.tasks.label "Sarcini">
 <!ENTITY calendar.print.events.label "Evenimente">
-<!ENTITY calendar.print.custom.label "Perioada stabilită de utilizator:">
+<!ENTITY calendar.print.custom.label "Interval de date personalizat:">
 <!ENTITY calendar.print.from.label "De la:">
 <!ENTITY calendar.print.to.label "Până la:">
 <!ENTITY calendar.print.settingsGroup.label "Setări de tipărire">
