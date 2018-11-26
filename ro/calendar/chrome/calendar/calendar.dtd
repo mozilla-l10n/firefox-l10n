@@ -38,11 +38,11 @@
 <!ENTITY calendar.unifinder.tree.percentcomplete.label     "&#037; realizată">
 <!ENTITY calendar.unifinder.tree.percentcomplete.tooltip2  "Sortează după &#037; realizată">
 <!ENTITY calendar.unifinder.tree.startdate.label           "Început">
-<!ENTITY calendar.unifinder.tree.startdate.tooltip2        "Sortează după data de începere">
+<!ENTITY calendar.unifinder.tree.startdate.tooltip2        "Sortează după data de început">
 <!ENTITY calendar.unifinder.tree.enddate.label             "Sfârșit">
-<!ENTITY calendar.unifinder.tree.enddate.tooltip2          "Sortează după data finalizării">
-<!ENTITY calendar.unifinder.tree.duedate.label             "Sfârșit">
-<!ENTITY calendar.unifinder.tree.duedate.tooltip2          "Sortează după data expirării">
+<!ENTITY calendar.unifinder.tree.enddate.tooltip2          "Sortează după data de sfârșit">
+<!ENTITY calendar.unifinder.tree.duedate.label             "Scadent">
+<!ENTITY calendar.unifinder.tree.duedate.tooltip2          "Sortează după termenul-limită">
 <!ENTITY calendar.unifinder.tree.completeddate.label       "Finalizată">
 <!ENTITY calendar.unifinder.tree.completeddate.tooltip2    "Sortează după data finalizării">
 <!ENTITY calendar.unifinder.tree.categories.label          "Categorie">
@@ -51,14 +51,14 @@
 <!ENTITY calendar.unifinder.tree.location.tooltip2         "Sortează după locație">
 <!ENTITY calendar.unifinder.tree.status.label              "Stare">
 <!ENTITY calendar.unifinder.tree.status.tooltip2           "Sortează după stare">
-<!ENTITY calendar.unifinder.tree.calendarname.label        "Nume calendar">
-<!ENTITY calendar.unifinder.tree.calendarname.tooltip2     "Sortează după numele calendarului">
-<!ENTITY calendar.unifinder.tree.duration.label            "Termen la">
-<!ENTITY calendar.unifinder.tree.duration.tooltip2         "Sortează după timpul până la expirare">
+<!ENTITY calendar.unifinder.tree.calendarname.label        "Denumire calendar">
+<!ENTITY calendar.unifinder.tree.calendarname.tooltip2     "Sortează după denumirea calendarului">
+<!ENTITY calendar.unifinder.tree.duration.label            "Scadent în">
+<!ENTITY calendar.unifinder.tree.duration.tooltip2         "Sortează după timpul rămas până la scadență">
 <!ENTITY calendar.unifinder.close.tooltip                  "Închide căutarea și lista de evenimente">
 
 <!ENTITY calendar.today.button.tooltip          "Mergi la ziua de azi" >
-<!ENTITY calendar.todaypane.button.tooltip      "Arată panoul cu ziua de azi" >
+<!ENTITY calendar.todaypane.button.tooltip      "Arată panoul zilei curente" >
 
 <!ENTITY calendar.day.button.tooltip            "Comută pe vizualizarea zilei" >
 <!ENTITY calendar.week.button.tooltip           "Comută pe vizualizarea săptămânii" >
@@ -143,7 +143,7 @@
 <!ENTITY calendar.task-details.repeat.label          "repetă">
 <!ENTITY calendar.task-details.attachments.label     "atașamente">
 <!ENTITY calendar.task-details.start.label           "data de începere">
-<!ENTITY calendar.task-details.due.label             "data de sfârșit">
+<!ENTITY calendar.task-details.due.label             "termen-limită">
 
 <!ENTITY calendar.task.category.button.tooltip  "Organizează sarcinile pe categorii">
 <!ENTITY calendar.task.complete.button.tooltip  "Marchează sarcinile selectate ca finalizate">
@@ -393,7 +393,7 @@
 <!ENTITY calendar.print.to.label "Până la:">
 <!ENTITY calendar.print.settingsGroup.label "Setări de tipărire">
 <!ENTITY calendar.print.optionsGroup.label "Opțiuni">
-<!ENTITY calendar.print.taskswithnoduedate.label "Sarcini fără termen limită">
+<!ENTITY calendar.print.taskswithnoduedate.label "Sarcini fără termen-limită">
 <!ENTITY calendar.print.completedtasks.label "Sarcini finalizate">
 
 <!-- Error reporting -->

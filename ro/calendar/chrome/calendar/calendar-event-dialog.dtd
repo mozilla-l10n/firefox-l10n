@@ -215,7 +215,7 @@
 <!ENTITY task.from.accesskey                              "s">
 <!ENTITY event.to.label                                   "Se termină:" >
 <!ENTITY event.to.accesskey                               "u">
-<!ENTITY task.to.label                                    "Dată scadentă:" >
+<!ENTITY task.to.label                                    "Termen-limită:" >
 <!ENTITY task.to.accesskey                                "D">
 <!ENTITY task.status.label                                "Stare:" >
 <!ENTITY task.status.accesskey                            "a">
@@ -402,7 +402,7 @@
 <!ENTITY read.only.event.start.label     "Data de început:">
 <!ENTITY read.only.task.start.label      "Data de început:">
 <!ENTITY read.only.event.end.label       "Dată de sfârșit:">
-<!ENTITY read.only.task.due.label        "Dată scadentă:">
+<!ENTITY read.only.task.due.label        "Termen-limită:">
 <!ENTITY read.only.repeat.label          "Repetă:">
 <!ENTITY read.only.location.label        "Locație:">
 <!ENTITY read.only.category.label        "Categorie:">
