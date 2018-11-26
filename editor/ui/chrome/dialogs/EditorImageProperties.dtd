@@ -52,8 +52,8 @@
 <!ENTITY bottomPopup.value "În partea de jos">
 <!ENTITY topPopup.value "În partea de sus">
 <!ENTITY centerPopup.value "La centru">
-<!ENTITY wrapRightPopup.value "Încadrare la dreapta">
-<!ENTITY wrapLeftPopup.value "Încadrare la stânga">
+<!ENTITY wrapRightPopup.value "Încadrează la dreapta">
+<!ENTITY wrapLeftPopup.value "Încadrează la stânga">
 
 <!-- These controls are in the Spacing Box -->
 <!ENTITY spacingBox.label "Spațiere">
