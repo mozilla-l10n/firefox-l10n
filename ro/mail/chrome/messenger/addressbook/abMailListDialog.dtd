@@ -8,7 +8,7 @@
 <!-- Labels and Access Keys -->
 <!ENTITY addToAddressBook.label         "Adaugă la: ">
 <!ENTITY addToAddressBook.accesskey     "A">
-<!ENTITY ListName.label                 "Numele listei: ">
+<!ENTITY ListName.label                 "Denumirea listei: ">
 <!ENTITY ListName.accesskey             "l">
 <!ENTITY ListNickName.label             "Listează pseudonime: ">
 <!ENTITY ListNickName.accesskey         "n">
