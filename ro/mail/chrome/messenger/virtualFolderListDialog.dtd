@@ -4,5 +4,5 @@
 
 <!ENTITY virtualFolderListTitle.title        "Selectează dosarul(ele)">
 <!ENTITY virtualFolderDesc.label       "Selectează dosarele pentru căutare:">
-<!ENTITY folderName.label "Numele dosarului">
+<!ENTITY folderName.label "Denumire dosar">
 <!ENTITY folderSearch.label "Caută">

@@ -4,5 +4,5 @@
 
 <!-- New Tag Dialog -->
 <!ENTITY newTagDialog1.title     "Etichetă nouă">
-<!ENTITY name.label              "Numele etichetei:">
+<!ENTITY name.label              "Denumire etichetă:">
 <!ENTITY name.accesskey          "t">
