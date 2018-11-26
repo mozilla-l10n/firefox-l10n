@@ -4,6 +4,11 @@
 
 addons-window =
     .title = Tilføjelser
+
+search-header =
+    .placeholder = Søg på addons.mozilla.org
+    .searchbuttonlabel = Søg
+
 search-header-shortcut =
     .key = f
 loading-label =
@@ -21,6 +26,16 @@ list-empty-button =
 install-addon-from-file =
     .label = Installer tilføjelse fra fil…
     .accesskey = I
+
+help-button = Hjælp til tilføjelser
+
+preferences =
+    { PLATFORM() ->
+        [windows] Indstillinger for { -brand-short-name }
+       *[other]  Indstillinger for { -brand-short-name }
+    }
+
+
 tools-menu =
     .tooltiptext = Indstillinger for alle tilføjelser
 show-unsigned-extensions-button =

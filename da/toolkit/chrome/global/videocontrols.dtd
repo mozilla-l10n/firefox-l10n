@@ -11,6 +11,10 @@
 <!ENTITY castingButton.castingLabel "Cast til skærm">
 <!ENTITY closedCaption.off "Slået fra">
 
+<!-- LOCALIZATION NOTE (volumeScrubber.label): This label is exposed to
+     accessibility software to clarify what the slider is for. -->
+<!ENTITY volumeScrubber.label "Volumenkontrol">
+
 <!ENTITY stats.media "Medieindhold">
 <!ENTITY stats.size "Størrelse">
 <!ENTITY stats.activity "Aktivitet">

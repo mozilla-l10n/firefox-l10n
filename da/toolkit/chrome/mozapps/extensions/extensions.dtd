@@ -8,6 +8,8 @@
 
 <!ENTITY search.placeholder2                  "Søg på addons.mozilla.org">
 
+<!ENTITY search.placeholder3                  "Søg på addons.mozilla.org">
+
 <!ENTITY search.buttonlabel                   "Søg">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
@@ -49,6 +51,10 @@
 <!ENTITY view.discover.label                  "Find tilføjelser">
 <!ENTITY view.recentUpdates.label             "Seneste opdateringer">
 <!ENTITY view.availableUpdates.label          "Tilgængelige opdateringer">
+
+<!ENTITY helpButton.label                      "Hjælp til tilføjelser">
+<!ENTITY preferencesWin.label                  "Indstillinger for &brandShortName;">
+<!ENTITY preferencesUnix.label                 "Indstillinger for &brandShortName;">
 
 <!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "Søg efter opdateringer">
