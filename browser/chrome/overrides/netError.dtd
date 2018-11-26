@@ -142,6 +142,9 @@ was trying to connect. -->
 
 <!ENTITY certerror.sts.introPara "&brandShortName; выявіў патэнцыяльную пагрозу бяспецы і не перайшоў да <span class='hostname'/>, таму што гэты сайт патрабуе абароненае злучэнне.">
 
+<!ENTITY certerror.expiredCert.introPara "&brandShortName; выявіў праблему і не працягваў злучэнне з <span class='hostname'/>. Вэб-сайт няправільна наладжаны, або гадзіннік вашага камп'ютара ідзе няправільна.">
+<!ENTITY certerror.expiredCert.secondPara2 "Выглядае на тое, што тэрмін дзеяння сертыфіката вэб-сайта скончыўся, што не дазваляе &brandShortName; усталяваць бяспечнае злучэнне. Калі вы наведаеце гэты сайт, зламыснікі могуць паспрабаваць выкрасці вашы паролі, адрасы эл.пошты і звесткі крэдытных картак.">
+<!ENTITY certerror.expiredCert.sts.secondPara "Выглядае на тое, што тэрмін дзеяння сертыфіката вэб-сайта скончыўся, што не дазваляе &brandShortName; усталяваць бяспечнае злучэнне.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Як вы можаце гэта паправіць?">
 
@@ -219,3 +222,4 @@ was trying to connect. -->
 <!ENTITY prefReset.label "Скінуць да прадвызначаных">
 
 <!ENTITY networkProtocolError.title "Памылка сеткавага пратаколу">
+<!ENTITY networkProtocolError.longDesc "<p>Старонка, якую вы спрабуеце прагледзець, не можа быць паказана, бо выяўлена памылка ў сеткавым пратаколе.</p><ul><li>Калі ласка, звяжыцеся з уладальнікамі вэб-сайта і праінфармуйце іх аб гэтай праблеме.</li></ul>">
