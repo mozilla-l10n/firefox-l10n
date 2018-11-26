@@ -89,3 +89,15 @@ connection-dns-over-https =
 connection-dns-over-https-url = URL
     .accesskey = U
     .tooltiptext = URL til DNS-opslag via HTTPS
+
+# Variables:
+#   $url (String) - URL for the DNS over HTTPS provider
+connection-dns-over-https-url-default =
+    .label = Brug ({ $url }) som standard
+    .accesskey = B
+    .tooltiptext = Brug standard-URL'en til DNS-opslag over HTTPS
+
+connection-dns-over-https-url-custom =
+    .label = Tilpasset
+    .accesskey = T
+    .tooltiptext = Angik den URL, du foretrækker til DNS-opslag over HTTPS

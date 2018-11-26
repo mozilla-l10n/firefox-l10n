@@ -255,3 +255,6 @@ tilføje en undtagelse for dette certifikat.">
 
 <!ENTITY prefReset.longDesc "Det ser ud til, at dine indstillinger for netværkssikkerhed forårsager dette. Vil du gendanne til standard-indstillinger?">
 <!ENTITY prefReset.label "Gendan indstillinger til standard">
+
+<!ENTITY networkProtocolError.title "Fejl i netværksprotokol">
+<!ENTITY networkProtocolError.longDesc "<p>Siden kan ikke vises, da der er fundet en fejl i netværksprotokollen.</p><ul><li>Kontakt ejerne af webstedet omkring dette problem.</li></ul>">
