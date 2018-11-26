@@ -42,7 +42,7 @@
 <!ENTITY month.9.name "septembrie" >
 <!ENTITY month.10.name "octombrie" >
 <!ENTITY month.11.name "noiembrie" >
-<!ENTITY month.12.name "Decembrie" >
+<!ENTITY month.12.name "decembrie" >
 
 <!ENTITY onemonthbackward.tooltip "Cu o lună înapoi" >
 <!ENTITY onemonthforward.tooltip "Cu o lună înainte" >
