@@ -8,10 +8,11 @@ delete-button-label = Xóa tất cả
 delete-confirm-title = Bạn có chắc không?
 delete-confirm-description = Điều này sẽ xóa tất cả báo cáo và không thể hoàn tác.
 delete-unsubmitted-description = Hành động này sẽ xóa tất cả báo cáo lỗi chưa gửi và không thể hoàn tác.
+delete-submitted-description = Thao tác này sẽ xóa danh sách các báo cáo sự cố đã gửi nhưng sẽ không xóa dữ liệu đã gửi. Điều này không thể hoàn tác được.
 crashes-unsubmitted-label = Các báo cáo lỗi chưa gửi
-id-heading = Định danh báo cáo
+id-heading = ID báo cáo
 date-crashed-heading = Ngày xảy ra lỗi
-submit-crash-button-label = Đệ trình
+submit-crash-button-label = Gửi
 # This text is used to replace the label of the crash submit button
 # if the crash submission fails.
 submit-crash-button-failure-label = Thất bại
