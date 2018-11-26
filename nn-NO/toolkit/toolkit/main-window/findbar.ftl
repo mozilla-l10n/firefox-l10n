@@ -8,13 +8,21 @@
 findbar-next =
     .tooltiptext = Finn neste førekomst av frasen
 findbar-previous =
-    .tooltiptext = Finn førre førekomsten av frasen
+    .tooltiptext = Finn førre førekomst av frasen
 findbar-find-button-close =
     .tooltiptext = Lat att søkjelinja
 findbar-highlight-all =
     .label = Marker alt
     .accesskey = M
-    .tooltiptext = Marker alle funn av teksten
+    .tooltiptext = Marker alle førekomstar av frasen
+findbar-highlight-all2 =
+    .label = Marker alt
+    .accesskey =
+        { PLATFORM() ->
+            [macos] l
+           *[other] a
+        }
+    .tooltiptext = Marker alle førekomstar av frasen
 findbar-case-sensitive =
     .label = Skil mellom store og små bokstavar
     .accesskey = k
