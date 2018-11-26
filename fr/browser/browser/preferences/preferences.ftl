@@ -671,6 +671,7 @@ addressbar-suggestions-settings = Modifier les préférences pour les suggestion
 
 content-blocking-header = Blocage de contenu
 content-blocking-desc = Bloquez des contenus tiers, tels que du code ou de la publicité, qui peuvent ralentir votre navigation et vous pister sur le Web. Réglez les paramètres à votre gré pour obtenir un équilibre entre protection et performance.
+content-blocking-description = Bloquez les contenus tiers qui vous pistent sur le Web. Contrôlez le niveau d’activité en ligne qui est enregistrée et partagée avec des sites web.
 content-blocking-learn-more = En savoir plus
 content-blocking-restore-defaults =
     .label = Restaurer les valeurs par défaut
@@ -708,6 +709,7 @@ content-blocking-third-party-cookies = Les cookies tiers utilisés pour le pista
 content-blocking-all-windows-trackers = Les traqueurs connus dans toutes les fenêtres
 content-blocking-all-third-party-cookies = Tous les cookies tiers
 content-blocking-warning-title = Attention !
+content-blocking-warning-desc = Bloquer les cookies et les traqueurs peut provoquer le dysfonctionnement de certains sites. Il est facile de désactiver le bocage pour les sites de confiance.
 content-blocking-learn-how = Découvrez comment
 content-blocking-tracking-protection-trackers-label =
     .label = Traqueurs
