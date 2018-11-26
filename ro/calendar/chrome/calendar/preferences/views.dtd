@@ -26,9 +26,9 @@
 <!ENTITY pref.calendar.view.visiblehours.accesskey "A">
 <!ENTITY pref.calendar.view.visiblehoursend.label "ore deodată">
 
-<!ENTITY pref.numberofweeks.label "Săptămânile afișate (inclusiv cele trecute):">
+<!ENTITY pref.numberofweeks.label "Număr de săptămâni de afișat (inclusiv săptămâni anterioare):">
 <!ENTITY pref.numberofweeks.accesskey "e">
-<!ENTITY pref.numberofpreviousweeks.label "Săptămânile trecute de afișat:">
+<!ENTITY pref.numberofpreviousweeks.label "Săptămâni anterioare de afișat:">
 <!ENTITY pref.numberofpreviousweeks.accesskey "p">
 <!ENTITY pref.numberofweeks.0 "niciuna">
 <!ENTITY pref.numberofweeks.1 "1 săptămână">
