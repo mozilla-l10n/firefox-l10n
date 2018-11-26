@@ -132,11 +132,11 @@
 <!ENTITY  event.menu.options.priority2.accesskey              "P">
 <!ENTITY  event.menu.options.priority.notspecified.label      "Nespecificată">
 <!ENTITY  event.menu.options.priority.notspecified.accesskey  "N">
-<!ENTITY  event.menu.options.priority.low.label               "Mică">
+<!ENTITY  event.menu.options.priority.low.label               "Scăzută">
 <!ENTITY  event.menu.options.priority.low.accesskey           "M">
 <!ENTITY  event.menu.options.priority.normal.label            "Normală">
 <!ENTITY  event.menu.options.priority.normal.accesskey        "N">
-<!ENTITY  event.menu.options.priority.high.label              "Mare">
+<!ENTITY  event.menu.options.priority.high.label              "Ridicată">
 <!ENTITY  event.menu.options.priority.high.accesskey          "M">
 <!ENTITY  event.menu.options.privacy.label                    "Confidențialitate">
 <!ENTITY  event.menu.options.privacy.accesskey                "i">
