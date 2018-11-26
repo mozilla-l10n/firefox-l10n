@@ -18,6 +18,7 @@ policy-BlockAboutProfiles = Blokker tilgang til about:profiles-sida.
 policy-BlockAboutSupport = Blokker tilgang til about:support-sida.
 policy-Bookmarks = Opprett bokmerke i bokmerkeverktøylinja, i bokmerkermenyen eller ei nærmare spesifisert mappe i dei.
 policy-Certificates = Om innebygde sertifikat skal brukast eller ikkje. Denne policyen gjeld berre for Windows akkurat no.
+policy-CertificatesDescription = Legg til sertifikat eller bruk innebygde sertifikat.
 policy-Cookies = Tillat eller nekt nettsider å lagre infokapslar.
 policy-DisableAppUpdate = Hindre oppdatering av nettlesaren.
 policy-DisableBuiltinPDFViewer = Deaktiver PDF.js, det innebygde PDF-visingsprogrammet i { -brand-short-name }
@@ -48,8 +49,7 @@ policy-DontCheckDefaultBrowser = Deaktiver sjekk om standard-nettlesar ved oppst
 policy-EnableTrackingProtection = Aktiver eller deaktiver innhaldsblokkering med moglegheit til å låse valet.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
-# English or translate them as verbs. See also:
-# https://github.com/mozilla/policy-templates/blob/master/README.md#extensions-machine-only
+# English or translate them as verbs.
 policy-Extensions = Installere, avinstallere eller låse tillegg. Installeringsalternativet tar nettadresser eller baner som parameter. Avinstallerings- og Låse-alternativa tek tilleggs-ID som parameter.
 policy-FlashPlugin = Tillat eller nekt bruk av programtillegget Flash.
 policy-HardwareAcceleration = Om inaktiv, slå av maskinvareakselerasjon.
@@ -63,11 +63,11 @@ policy-OverridePostUpdatePage = Byt ut «Kva er nytt»-sida som vert vist etter 
 policy-Permissions = Still inn løyve for kamera, mikrofon, plassering og varsel.
 policy-PopupBlocking = Tillat at visse nettsider skal kunne vise sprettoppvindauge som standard.
 policy-Proxy = Konfigurer proxy-innstillingar.
+policy-RequestedLocales = Vel rekkjefølgja av språk, som skal brukeast i programmet.
 policy-SanitizeOnShutdown = Fjern alle nettlesingsdata ved avslutting.
 policy-SearchBar = Spesifiser standardplassering for søkjefeltet. Brukaren kan framleis tilpassse feltet.
 policy-SearchEngines = Konfigurer søkjemotorinnstillingar. Denne policyen er kun tilgjengeleg for Extended Support Release (ESR).
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Installer PKCS #11-modular.
-# “format” refers to the format used for the value of this policy. See also:
-# https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
+# “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Blokker besøk på nettsider. Les dokumentasjonen for detaljer om formatet.
