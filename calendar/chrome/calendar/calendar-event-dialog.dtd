@@ -18,7 +18,7 @@
 <!ENTITY newevent.eventStatus.cancelled.label     "Anulată" >
 <!ENTITY newevent.eventStatus.cancelled.accesskey "n" >
 <!ENTITY newevent.todoStatus.cancelled.label      "Anulată" >
-<!ENTITY newevent.status.tentative.label          "Provizoriu" >
+<!ENTITY newevent.status.tentative.label          "Provizorie" >
 <!ENTITY newevent.status.tentative.accesskey      "P" >
 <!ENTITY newevent.status.confirmed.label          "Confirmată" >
 <!ENTITY newevent.status.confirmed.accesskey      "C" >
@@ -37,10 +37,10 @@
 <!ENTITY event.attendees.notify.accesskey            "u">
 <!ENTITY event.attendees.notifyundisclosed.label     "Invitație separată per participant">
 <!ENTITY event.attendees.notifyundisclosed.accesskey "x">
-<!ENTITY event.attendees.notifyundisclosed.tooltip   "Această opțiune trimite o invitație pe e-mail per participant. Fiecare invitație conține doar participantul destinatar, astfel încât identitățile altor participanți nu sunt dezvăluite.">
-<!ENTITY event.attendees.disallowcounter.label       "Nu permite contra-propuneri">
+<!ENTITY event.attendees.notifyundisclosed.tooltip   "Această opțiune trimite o invitație pe e-mail fiecărui participant. Fiecare invitație conține doar participantul destinatar, astfel încât nu sunt dezvăluite identitățile altor participanți.">
+<!ENTITY event.attendees.disallowcounter.label       "Nu permite contrapropuneri">
 <!ENTITY event.attendees.disallowcounter.accesskey   "c">
-<!ENTITY event.attendees.disallowcounter.tooltip     "Indică faptul că nu veți accepta contra-propuneri">
+<!ENTITY event.attendees.disallowcounter.tooltip     "Indică faptul că nu vei accepta contrapropuneri">
 
 <!-- Keyboard Shortcuts -->
 <!ENTITY event.dialog.new.event.key2              "I">
@@ -66,7 +66,7 @@
 <!ENTITY  event.menu.item.new.task.accesskey              "r">
 <!ENTITY  event.menu.item.new.message.label               "Mesaj">
 <!ENTITY  event.menu.item.new.message.accesskey           "M">
-<!ENTITY  event.menu.item.new.contact.label               "Contact în agendă">
+<!ENTITY  event.menu.item.new.contact.label               "Contact din agendă">
 <!ENTITY  event.menu.item.new.contact.accesskey           "C">
 <!ENTITY  event.menu.item.close.label                     "Închide">
 <!ENTITY  event.menu.item.close.accesskey                 "c">
@@ -91,7 +91,7 @@
 
 <!ENTITY  event.menu.item.delete.label                    "Șterge…">
 <!ENTITY  event.menu.item.delete.accesskey                "g">
-<!ENTITY  event.menu.item.page.setup.label                "Aranjare în pagină">
+<!ENTITY  event.menu.item.page.setup.label                "Configurare pagină">
 <!ENTITY  event.menu.item.page.setup.accesskey            "A">
 <!ENTITY  event.menu.item.print.label                     "Tipărește">
 <!ENTITY  event.menu.item.print.accesskey                 "p">
