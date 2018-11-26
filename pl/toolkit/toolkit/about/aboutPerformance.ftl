@@ -7,6 +7,7 @@ about-performance-title=Menedżer zadań
 column-name=Nazwa
 column-type=Typ
 column-energy-impact=Zużycie energii
+column-memory=Pamięć
 
 ghost-windows=Ostatnio zamknięte karty
 preloaded-tab=Wstępnie wczytane: „{ $title }”
@@ -22,6 +23,10 @@ type-other=Inne
 energy-impact-high=Wysokie ({ $value })
 energy-impact-medium=Średnie ({ $value })
 energy-impact-low=Niskie ({ $value })
+
+size-KB={ $value } KB
+size-MB={ $value } MB
+size-GB={ $value } GB
 
 close-tab=
   .title=Zamknij kartę
