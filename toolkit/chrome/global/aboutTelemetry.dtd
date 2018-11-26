@@ -25,6 +25,8 @@
 <!ENTITY aboutTelemetry.telemetryClientDoc "<a>Firefox Telemetry client documentation</a> indeholder definitioner af koncepter, API-dokumentation og data-referencer.">
 <!ENTITY aboutTelemetry.telemetryDashboard "<a>Telemetry dashboards</a> giver dig mulighed for at visualisere de data, Mozilla modtager via Telemetry.">
 
+<!ENTITY aboutTelemetry.telemetryProbeDictionary "<a>Probe Dictionary</a> viser detaljer og beskrivelser for data indsamlet af Telemetry.">
+
 <!ENTITY aboutTelemetry.showInFirefoxJsonViewer "Åbn i JSON-vieweren">
 
 <!ENTITY aboutTelemetry.homeSection "Start">

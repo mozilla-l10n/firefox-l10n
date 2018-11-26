@@ -15,6 +15,15 @@ findbar-highlight-all =
     .label = Fremhæv alle
     .accesskey = a
     .tooltiptext = Fremhæv alle forekomster
+
+findbar-highlight-all2 =
+    .label = fremhæv alle
+    .accesskey = { PLATFORM() ->
+        [macos] l
+       *[other] a
+    }
+    .tooltiptext = Fremhæv alle forekomster
+
 findbar-case-sensitive =
     .label = Forskel på store og små bogstaver
     .accesskey = o
