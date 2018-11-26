@@ -6,7 +6,7 @@
 <!ENTITY window.width                     "32em">
 
 <!ENTITY alertCustomization.intro         "Alege care câmpuri să fie afișate în notificare:">
-<!ENTITY previewText.label                "Previzualizarea textului din mesaj">
+<!ENTITY previewText.label                "Text de previzualizare a mesajului">
 <!ENTITY previewText.accesskey            "m">
 <!ENTITY subject.label                    "Subiectul">
 <!ENTITY subject.accesskey                "S">

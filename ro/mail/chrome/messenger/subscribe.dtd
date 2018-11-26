@@ -16,7 +16,7 @@
 <!ENTITY server.label                 "Cont:">
 <!ENTITY server.accesskey             "C">
 <!ENTITY subscribedHeader.label       "Abonare">
-<!-- commenting out until bug 38906 is fixed 
+<!-- commenting out until bug 38906 is fixed
 <!ENTITY messagesHeader.label         "Messages"> -->
-<!ENTITY namefield.label              "Arată grupurile care conțin:">
+<!ENTITY namefield.label              "Arată elementele care conțin:">
 <!ENTITY namefield.accesskey          "r">

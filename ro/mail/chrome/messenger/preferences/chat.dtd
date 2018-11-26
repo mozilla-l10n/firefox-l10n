@@ -60,5 +60,5 @@ sentence. -->
 <!ENTITY messageStyleVariant.accesskey     "V">
 <!ENTITY messageStyleShowHeader.label      "Arată antetul">
 <!ENTITY messageStyleShowHeader.accesskey  "a">
-<!ENTITY messageStyleNoPreview.title       "Previzualizarea nu este disponibilă">
-<!ENTITY messageStyleNoPreview.description "Această temă nu este validă sau nu este disponibilă momentan (supliment dezactivat, mod-de-siguranță, …).">
+<!ENTITY messageStyleNoPreview.title       "Nicio previzualizare disponibilă">
+<!ENTITY messageStyleNoPreview.description "Această temă nu este validă sau nu este disponibilă acum (supliment dezactivat, mod-de-siguranță, …).">
