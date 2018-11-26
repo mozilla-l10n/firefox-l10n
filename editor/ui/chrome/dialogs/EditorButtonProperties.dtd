@@ -12,7 +12,7 @@
 <!ENTITY reset.value "Resetează">
 <!ENTITY button.value "Buton">
 
-<!ENTITY ButtonName.label "Nume:">
+<!ENTITY ButtonName.label "Denumire:">
 <!ENTITY ButtonName.accesskey "N">
 <!ENTITY ButtonValue.label "Valoare:">
 <!ENTITY ButtonValue.accesskey "V">
