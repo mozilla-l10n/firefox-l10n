@@ -75,10 +75,10 @@
 <!ENTITY lightning.imipbar.btnReschedule.tooltiptext                        "Reprogramează evenimentul">
 <!ENTITY lightning.imipbar.btnSaveCopy.label                                "Salvează o copie">
 <!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "Salvați o copie a evenimentului din calendar în mod independent de răspunsul de la organizator. Lista de participanți va fi ștearsă.">
-<!ENTITY lightning.imipbar.btnTentative.label                               "Tentativă">
+<!ENTITY lightning.imipbar.btnTentative.label                               "Provizoriu">
 <!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "Acceptă provizoriu invitația la eveniment">
 <!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "Acceptă toate provizoriu">
-<!ENTITY lightning.imipbar.btnTentativeRecurrences2.tooltiptext             "Acceptați invitația la eveniment în mod provizoriu pentru toate aparițiile evenimentului">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences2.tooltiptext             "Acceptă provizoriu invitația la eveniment pentru toate ocurențele evenimentului">
 <!ENTITY lightning.imipbar.btnUpdate.label                                  "Actualizare">
 <!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "Actualizare eveniment în calendar">
 <!ENTITY lightning.imipbar.description                                      "Mesajul conține o invitație la un eveniment.">

@@ -10,7 +10,7 @@
 <!ENTITY calendar.newtask.button.tooltip          "Creează o sarcină nouă" >
 
 <!ENTITY calendar.unifinder.todoitems.label       "Sarcini" >
-<!ENTITY calendar.unifinder.showcompletedtodos.label "Afișează sarcinile îndeplinite">
+<!ENTITY calendar.unifinder.showcompletedtodos.label "Afișează sarcinile finalizate">
 
 <!ENTITY calendar.today.button.label          "Astăzi">
 <!ENTITY calendar.tomorrow.button.label       "Mâine">
@@ -35,15 +35,15 @@
 <!ENTITY calendar.unifinder.tree.priority.tooltip2         "Sortează după prioritate">
 <!ENTITY calendar.unifinder.tree.title.label               "Titlu">
 <!ENTITY calendar.unifinder.tree.title.tooltip2            "Sortează după titlu">
-<!ENTITY calendar.unifinder.tree.percentcomplete.label     "&#037; completată">
-<!ENTITY calendar.unifinder.tree.percentcomplete.tooltip2  "Sortează după &#037; completat">
+<!ENTITY calendar.unifinder.tree.percentcomplete.label     "&#037; realizată">
+<!ENTITY calendar.unifinder.tree.percentcomplete.tooltip2  "Sortează după &#037; realizată">
 <!ENTITY calendar.unifinder.tree.startdate.label           "Început">
 <!ENTITY calendar.unifinder.tree.startdate.tooltip2        "Sortează după data de începere">
 <!ENTITY calendar.unifinder.tree.enddate.label             "Sfârșit">
 <!ENTITY calendar.unifinder.tree.enddate.tooltip2          "Sortează după data finalizării">
 <!ENTITY calendar.unifinder.tree.duedate.label             "Sfârșit">
 <!ENTITY calendar.unifinder.tree.duedate.tooltip2          "Sortează după data expirării">
-<!ENTITY calendar.unifinder.tree.completeddate.label       "Îndeplinită">
+<!ENTITY calendar.unifinder.tree.completeddate.label       "Finalizată">
 <!ENTITY calendar.unifinder.tree.completeddate.tooltip2    "Sortează după data finalizării">
 <!ENTITY calendar.unifinder.tree.categories.label          "Categorie">
 <!ENTITY calendar.unifinder.tree.categories.tooltip2       "Sortează după categorie">
@@ -98,7 +98,7 @@
 <!ENTITY calendar.onlyworkday.checkbox.accesskey  "r" >
 <!ENTITY calendar.displaytodos.checkbox.label   "Afișează sarcinile în vizualizare" >
 <!ENTITY calendar.displaytodos.checkbox.accesskey "A" >
-<!ENTITY calendar.completedtasks.checkbox.label     "Afișează sarcinile îndeplinite" >
+<!ENTITY calendar.completedtasks.checkbox.label     "Afișează sarcinile finalizate" >
 <!ENTITY calendar.completedtasks.checkbox.accesskey "c" >
 
 <!ENTITY calendar.orientation.label "Rotește vizualizarea" >
@@ -119,9 +119,9 @@
 <!ENTITY calendar.task.filter.notstarted.accesskey  "a">
 <!ENTITY calendar.task.filter.overdue.label         "Sarcini depășite">
 <!ENTITY calendar.task.filter.overdue.accesskey     "S">
-<!ENTITY calendar.task.filter.completed.label       "Sarcini îndeplinite">
+<!ENTITY calendar.task.filter.completed.label       "Sarcini finalizate">
 <!ENTITY calendar.task.filter.completed.accesskey   "c">
-<!ENTITY calendar.task.filter.open.label            "Sarcini neterminate">
+<!ENTITY calendar.task.filter.open.label            "Sarcini nefinalizate">
 <!ENTITY calendar.task.filter.open.accesskey        "m">
 
 <!-- LOCALIZATION NOTE(calendar.task.filter.current.label)
@@ -146,7 +146,7 @@
 <!ENTITY calendar.task-details.due.label             "data de sfârșit">
 
 <!ENTITY calendar.task.category.button.tooltip  "Organizează sarcinile pe categorii">
-<!ENTITY calendar.task.complete.button.tooltip  "Marchează sarcinile selectate ca îndeplinite">
+<!ENTITY calendar.task.complete.button.tooltip  "Marchează sarcinile selectate ca finalizate">
 <!ENTITY calendar.task.priority.button.tooltip  "Schimbă prioritatea">
 
 <!ENTITY calendar.task.text-filter.textbox.emptytext.base1           "Filtrează sarcinile #1">
@@ -187,7 +187,7 @@
 <!ENTITY calendar.context.attendance.occ.accepted.accesskey     "A">
 <!ENTITY calendar.context.attendance.occ.accepted.label         "Acceptată">
 <!ENTITY calendar.context.attendance.occ.tentative.accesskey    "v">
-<!ENTITY calendar.context.attendance.occ.tentative.label        "Acceptă provizoriu (încercare)">
+<!ENTITY calendar.context.attendance.occ.tentative.label        "Acceptă provizoriu">
 <!ENTITY calendar.context.attendance.occ.declined.accesskey     "R">
 <!ENTITY calendar.context.attendance.occ.declined.label         "Refuzată">
 <!ENTITY calendar.context.attendance.occ.delegated.accesskey    "g">
@@ -197,7 +197,7 @@
 <!ENTITY calendar.context.attendance.occ.inprogress.accesskey   "d">
 <!ENTITY calendar.context.attendance.occ.inprogress.label       "În desfășurare">
 <!ENTITY calendar.context.attendance.occ.completed.accesskey    "t">
-<!ENTITY calendar.context.attendance.occ.completed.label        "Îndeplinită">
+<!ENTITY calendar.context.attendance.occ.completed.label        "Finalizată">
 
 <!ENTITY calendar.context.attendance.all.accepted.accesskey     "e">
 <!ENTITY calendar.context.attendance.all.accepted.label         "Acceptate">
@@ -212,7 +212,7 @@
 <!ENTITY calendar.context.attendance.all.inprogress.accesskey   "u">
 <!ENTITY calendar.context.attendance.all.inprogress.label       "În desfășurare">
 <!ENTITY calendar.context.attendance.all.completed.accesskey    "i">
-<!ENTITY calendar.context.attendance.all.completed.label        "Îndeplinite">
+<!ENTITY calendar.context.attendance.all.completed.label        "Finalizată">
 
 <!-- Task Context Menu -->
 <!ENTITY calendar.context.progress.label              "Progres">
@@ -224,18 +224,18 @@
 
 <!ENTITY percnt "&#38;#37;" ><!--=percent sign-->
 
-<!ENTITY calendar.context.markcompleted.label     "Marchează ca fiind îndeplinită">
+<!ENTITY calendar.context.markcompleted.label     "Marchează ca finalizată">
 <!ENTITY calendar.context.markcompleted.accesskey "f">
 
-<!ENTITY progress.level.0             "0&percnt; completată">
+<!ENTITY progress.level.0             "0&percnt; realizată">
 <!ENTITY progress.level.0.accesskey   "0">
-<!ENTITY progress.level.25            "25&percnt; completată">
+<!ENTITY progress.level.25            "25&percnt; realizată">
 <!ENTITY progress.level.25.accesskey  "2">
-<!ENTITY progress.level.50            "50&percnt; completată">
+<!ENTITY progress.level.50            "50&percnt; realizată">
 <!ENTITY progress.level.50.accesskey  "5">
-<!ENTITY progress.level.75            "75&percnt; completată">
+<!ENTITY progress.level.75            "75&percnt; realizată">
 <!ENTITY progress.level.75.accesskey  "7">
-<!ENTITY progress.level.100            "100&percnt; completată">
+<!ENTITY progress.level.100            "100&percnt; realizată">
 <!ENTITY progress.level.100.accesskey  "1">
 
 <!ENTITY priority.level.none                "Nespecificată">
@@ -394,7 +394,7 @@
 <!ENTITY calendar.print.settingsGroup.label "Setări de tipărire">
 <!ENTITY calendar.print.optionsGroup.label "Opțiuni">
 <!ENTITY calendar.print.taskswithnoduedate.label "Sarcini fără termen limită">
-<!ENTITY calendar.print.completedtasks.label "Sarcini îndeplinite">
+<!ENTITY calendar.print.completedtasks.label "Sarcini finalizate">
 
 <!-- Error reporting -->
 <!ENTITY calendar.error.detail "Detalii…">
