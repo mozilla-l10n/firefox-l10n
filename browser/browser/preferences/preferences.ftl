@@ -671,6 +671,7 @@ addressbar-suggestions-settings = Endre innstillingar for søkjeforslag
 
 content-blocking-header = Innhaldsblokkering
 content-blocking-desc = Blokker tredjepartsinnhald, som annonsar eller kode, som kan gjere surfinga tregare og som kan spore deg rundt på nettet. Tilpass innstillingane for best mogleg balanse mellom vern og yting.
+content-blocking-description = Blokker tredjepartsinnhald som sporar deg på nettet. Kontroller kor mykje av internett-aktiviteten din som blir lagra og delt mellom nettstadar.
 content-blocking-learn-more = Les meir
 content-blocking-restore-defaults =
     .label = Still tilbake til standard
