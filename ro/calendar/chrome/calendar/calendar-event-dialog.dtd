@@ -4,7 +4,7 @@
 
 <!ENTITY event.title.label                  "Editează elementul" >
 
-<!ENTITY event.dialog.keepDurationButton.tooltip   "Păstrează durata când se schimbă data de sfârșit">
+<!ENTITY event.dialog.keepDurationButton.tooltip   "Păstrează durata la schimbarea datei de sfârșit">
 <!ENTITY event.dialog.keepDurationButton.accesskey "K">
 
 <!ENTITY newevent.from.label                "De la" >
@@ -415,7 +415,7 @@
 
 <!-- Summary dialog -->
 <!ENTITY summary.dialog.saveclose.label         "Salvează și închide">
-<!ENTITY summary.dialog.saveclose.tooltiptext   "Salvează schimbările și închide fereastra fără a schimba starea participării sau a trimite un răspuns">
+<!ENTITY summary.dialog.saveclose.tooltiptext   "Salvează schimbările și închide fereastra fără a modifica starea participării și fără a trimite un răspuns">
 <!ENTITY summary.dialog.accept.label            "Acceptă">
 <!ENTITY summary.dialog.accept.tooltiptext      "Acceptă invitația">
 <!ENTITY summary.dialog.tentative.label         "Provizoriu">
@@ -423,6 +423,6 @@
 <!ENTITY summary.dialog.decline.label           "Refuză">
 <!ENTITY summary.dialog.decline.tooltiptext     "Refuză invitația">
 <!ENTITY summary.dialog.dontsend.label          "Nu trimite răspuns">
-<!ENTITY summary.dialog.dontsend.tooltiptext    "Schimbă starea propriei participări fără a trimite un răspuns organizatorului și închide fereastra">
+<!ENTITY summary.dialog.dontsend.tooltiptext    "Schimbă starea de participare fără a trimite un răspuns organizatorului și închide fereastra">
 <!ENTITY summary.dialog.send.label              "Trimite un răspuns acum">
 <!ENTITY summary.dialog.send.tooltiptext        "Trimite un răspuns organizatorului  și închide fereastra">
