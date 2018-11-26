@@ -648,6 +648,9 @@ sitedata-cookies-exceptions =
 # in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
 # Cookies and Site Data section.
 sitedata-warning-your-settings-prevent-changes = Tu parametros de Blocage de contentos impedi cambiamentos al configurationes del cookies e al datos del sito.
+sitedata-cookies-permissions =
+    .label = Gerer le permissiones…
+    .accesskey = p
 
 ## Privacy Section - Address Bar
 
@@ -697,6 +700,8 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = Personalisate
     .accesskey = P
+content-blocking-custom-desc = Elige que blocar.
+content-blocking-warning-title = Attention!
 content-blocking-learn-how = Apprender como
 content-blocking-tracking-protection-trackers-label =
     .label = Traciatores
