@@ -39,8 +39,8 @@
 <!ENTITY buttons.subscribe.accesskey "A">
 
 <!ENTITY calendartype.label "Tipul calendarului:">
-<!ENTITY location.label "Locație:">
-<!ENTITY location.placeholder "URL sau numele de gazdă a serverului calendar">
+<!ENTITY location.label "Loc:">
+<!ENTITY location.placeholder "URL sau denumirea de gazdă a serverului pe care se află calendarul">
 
 <!ENTITY network.nocredentials.label "Această locație nu necesită date de autentificare">
 <!ENTITY network.loading.description "Te rugăm să aștepți cât timp sunt detectate calendarele.">

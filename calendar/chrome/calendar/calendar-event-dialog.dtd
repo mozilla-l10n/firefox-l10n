@@ -174,7 +174,7 @@
 <!ENTITY  event.toolbar.save.tooltip2                     "Salvează">
 <!ENTITY  event.toolbar.saveandclose.tooltip              "Salvează și închide">
 <!ENTITY  event.toolbar.delete.tooltip                    "Șterge">
-<!ENTITY  event.toolbar.attendees.tooltip                 "Invită participanții">
+<!ENTITY  event.toolbar.attendees.tooltip                 "Invită participanți">
 <!ENTITY  event.toolbar.attachments.tooltip               "Adaugă atașamente">
 <!ENTITY  event.toolbar.privacy.tooltip                   "Schimbă confidențialitatea">
 <!ENTITY  event.toolbar.priority.tooltip                  "Schimbă prioritatea">
@@ -198,7 +198,7 @@
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Titlu:" >
 <!ENTITY event.title.textbox.accesskey                    "T">
-<!ENTITY event.location.label                             "Locație:" >
+<!ENTITY event.location.label                             "Loc:" >
 <!ENTITY event.location.accesskey                         "l">
 <!ENTITY event.categories.label                           "Categorie:">
 <!ENTITY event.categories.accesskey                       "C">
@@ -229,7 +229,7 @@
 <!ENTITY event.description.accesskey                      "D">
 <!ENTITY event.attachments.label                          "Atașamente:" >
 <!ENTITY event.attachments.accesskey                      "A" >
-<!ENTITY event.attachments.menubutton.label               "Anexează">
+<!ENTITY event.attachments.menubutton.label               "Atașează">
 <!ENTITY event.attachments.menubutton.accesskey           "x">
 <!ENTITY event.attachments.url.label                      "Pagină web…">
 <!ENTITY event.attachments.url.accesskey                  "w">
@@ -362,20 +362,20 @@
 <!ENTITY event.recurrence.pattern.yearly.month2.11.label     "noiembrie" >
 <!ENTITY event.recurrence.pattern.yearly.month2.12.label     "decembrie" >
 
-<!ENTITY event.recurrence.range.label                   "Interval de recurență">
+<!ENTITY event.recurrence.range.label                   "Interval de repetare">
 <!ENTITY event.recurrence.forever.label                 "Fără dată de sfârșit" >
 <!ENTITY event.recurrence.repeat.for.label              "Creează" >
 <!ENTITY event.recurrence.appointments.label            "Întâlnire(i)" >
-<!ENTITY event.repeat.until.label                       "Repetă până în" >
+<!ENTITY event.repeat.until.label                       "Repetă până la/în" >
 <!ENTITY event.recurrence.preview.label                 "Previzualizează">
 
 <!-- Attendees dialog -->
 <!ENTITY invite.title.label                     "Invitare participanți">
 <!ENTITY event.organizer.label                  "Organizator">
-<!ENTITY event.freebusy.suggest.slot            "Sugerați intervalul orar:">
+<!ENTITY event.freebusy.suggest.slot            "Sugerează interval orar:">
 <!ENTITY event.freebusy.button.next.slot        "Intervalul următor">
 <!ENTITY event.freebusy.button.previous.slot    "Interval anterior">
-<!ENTITY event.freebusy.zoom                    "Scalare:">
+<!ENTITY event.freebusy.zoom                    "Zoom:">
 <!ENTITY event.freebusy.legend.free             "Liber" >
 <!ENTITY event.freebusy.legend.busy             "Ocupat" >
 <!ENTITY event.freebusy.legend.busy_tentative   "Provizoriu" >
@@ -385,7 +385,7 @@
 <!ENTITY event.attendee.role.optional           "Participant opțional">
 <!ENTITY event.attendee.role.chair              "Președinte">
 <!ENTITY event.attendee.role.nonparticipant     "Nu participă">
-<!ENTITY event.attendee.usertype.individual     "Individual">
+<!ENTITY event.attendee.usertype.individual     "Persoană">
 <!ENTITY event.attendee.usertype.group          "Grup">
 <!ENTITY event.attendee.usertype.resource       "Resursă">
 <!ENTITY event.attendee.usertype.room           "Sală">
@@ -399,12 +399,12 @@
 <!ENTITY read.only.general.label         "General">
 <!ENTITY read.only.title.label           "Titlu:">
 <!ENTITY read.only.calendar.label        "Calendar:">
-<!ENTITY read.only.event.start.label     "Data de început:">
-<!ENTITY read.only.task.start.label      "Data de început:">
+<!ENTITY read.only.event.start.label     "Dată de început:">
+<!ENTITY read.only.task.start.label      "Dată de început:">
 <!ENTITY read.only.event.end.label       "Dată de sfârșit:">
 <!ENTITY read.only.task.due.label        "Termen-limită:">
 <!ENTITY read.only.repeat.label          "Repetă:">
-<!ENTITY read.only.location.label        "Locație:">
+<!ENTITY read.only.location.label        "Loc:">
 <!ENTITY read.only.category.label        "Categorie:">
 <!ENTITY read.only.organizer.label       "Organizator:">
 <!ENTITY read.only.reminder.label        "Memento:">
