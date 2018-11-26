@@ -43,13 +43,13 @@ policy-DisableSystemAddonUpdate = Malpermesi al retumilo instali kaj ĝisdatigi 
 policy-DisableTelemetry = Malŝalti telemezuron.
 policy-DisplayBookmarksToolbar = Norme montri la ilaron de legosignoj.
 policy-DisplayMenuBar = Norme montri la menuan strion.
+policy-DNSOverHTTPS = Agordi DNS per HTTPS.
 policy-DontCheckDefaultBrowser = Malaktivigi ĉe starto la kontrolon pri la norma retumilo.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Aktivigi aŭ malaktivigi la blokadon de enhavo kaj kun la eblo bloki ĝin.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
-# English or translate them as verbs. See also:
-# https://github.com/mozilla/policy-templates/blob/master/README.md#extensions-machine-only
+# English or translate them as verbs.
 policy-Extensions = Instali, malinstali aŭ ŝlosi etendaĵojn. La elekteblo "instali" akceptas retadresojn aŭ vojojn kiel parametrojn. La elektebloj "malinstali" kaj "ŝlosi" akceptas identigilojn de etendaĵo.
 policy-FlashPlugin = Permesi aŭ malpermesi la uzon de la kromprogramo Flash.
 policy-HardwareAcceleration = Se estas "malvera" la aparata akcelo estos malŝaltita.
@@ -63,9 +63,11 @@ policy-OverridePostUpdatePage = Ŝanĝi la postĝisdatigan paĝon "Kio estas nov
 policy-Permissions = Agordi permesojn por filmilo, mikrofono, pozicio kaj sciigoj.
 policy-PopupBlocking = Norme permesi al kelkaj retejoj montri ŝprucfenestrojn.
 policy-Proxy = Agordi retperantojn.
+policy-RequestedLocales = Agordi la liston de lingvoj petataj de la programo, ordigitaj laŭ prefero.
 policy-SanitizeOnShutdown = Viŝi ĉiujn retumajn datumojn je sistemfermo.
 policy-SearchBar = Elekti la normal lokon de la serĉa strio. La uzanto povas tamen personecigi ĝin.
 policy-SearchEngines = Agordi serĉilojn. Tiu ĉi politiko nur disponebla en la versio kun plilongigita subteno (ESR).
-# “format” refers to the format used for the value of this policy. See also:
-# https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
+# For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
+policy-SecurityDevices = Instali modulojn PKCS #11.
+# “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Bloki viziton al kelkaj retejoj. Vidu la dokumentaron por havi pli da informo pri la formo.

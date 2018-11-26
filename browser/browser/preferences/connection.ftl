@@ -73,3 +73,13 @@ connection-dns-over-https =
 connection-dns-over-https-url = Retadreso
     .accesskey = R
     .tooltiptext = Retadreso por uzi DNS sur HTTPS
+# Variables:
+#   $url (String) - URL for the DNS over HTTPS provider
+connection-dns-over-https-url-default =
+    .label = Uzi norman ({ $url })
+    .accesskey = i
+    .tooltiptext = Uzi la norman servilon por trovi adresojn (DNS) per HTTPS
+connection-dns-over-https-url-custom =
+    .label = Personecigita
+    .accesskey = p
+    .tooltiptext = Entajpu retadreson de preferata servilo por peti DNS per HTTPS
