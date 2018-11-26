@@ -292,6 +292,9 @@ update-enable-search-update =
     .label = Aŭtomate ĝisdatigi serĉilojn
     .accesskey = t
 update-pref-write-failure-title = Malsukcesa skribo
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = Ne eblis konservi preferon. Ne eblis skribi en la dosiero: { $path }
 
 ## General Section - Performance
 
@@ -665,6 +668,7 @@ addressbar-suggestions-settings = Ŝanĝi preferojn pri serĉilaj sugestoj
 
 content-blocking-header = Blokado de enhavo
 content-blocking-desc = Bloku nerektan enhavon, kiel ekzemple reklamojn aŭ kodon, kiu povas malrapidigi vian retumon kaj spuri vin tra la teksaĵo. Personecigu viajn agordojn por trafi la plej bonan ekvilibron inter protekto kaj efikeco.
+content-blocking-description = Bloku nerektan enhavon, kiu spuras vin tra la reto. Regu kiom multe de via retuma informo estas konservita kaj dividita inter retejoj.
 content-blocking-learn-more = Pli da informo
 content-blocking-restore-defaults =
     .label = Remeti normajn valorojn
@@ -685,6 +689,15 @@ content-blocking-fastblock-slow-loading-trackers-label =
     .label = Spuriloj, kiuj ŝargiĝas malrapide
     .accesskey = m
 content-blocking-fastblock-new-description = Bloki nur spurilojn, kiuj malrapidigas la rapidan ŝargadon de paĝoj.
+content-blocking-setting-standard =
+    .label = Norma
+    .accesskey = N
+content-blocking-setting-strict =
+    .label = Strikta
+    .accesskey = S
+content-blocking-setting-custom =
+    .label = Personecigita
+    .accesskey = P
 content-blocking-tracking-protection-trackers-label =
     .label = Spuriloj
     .accesskey = S
