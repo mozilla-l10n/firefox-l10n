@@ -42,7 +42,7 @@
 <!ENTITY AddOptGroup.accesskey "g">
 <!ENTITY RemoveElement.label "Șterge">
 <!ENTITY RemoveElement.accesskey "r">
-<!ENTITY MoveElementUp.label "Mută sus">
+<!ENTITY MoveElementUp.label "Mută în sus">
 <!ENTITY MoveElementUp.accesskey "s">
-<!ENTITY MoveElementDown.label "Mută jos">
+<!ENTITY MoveElementDown.label "Mută în jos">
 <!ENTITY MoveElementDown.accesskey "j">
