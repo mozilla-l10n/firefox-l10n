@@ -1061,7 +1061,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.3rdPartyCookies.add.label "Ychwanegu Rhwystro…">
 
+<!ENTITY contentBlocking.manageSettings.label "Rheoli Rhwystro Cynnwys">
+<!ENTITY contentBlocking.manageSettings.accesskey "R">
 
+<!ENTITY contentBlocking.trackersView.label "Tracwyr">
+<!ENTITY contentBlocking.trackersView.strictInfo.label 'I rwystro pob traciwr, gosodwch rhwystro cynnwys "Llym".'>
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Adrodd ar broblem">
 <!ENTITY contentBlocking.breakageReportView.label "Adrodd ar Broblemau">
