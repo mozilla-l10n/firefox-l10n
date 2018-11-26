@@ -67,3 +67,13 @@ connection-proxy-autologin =
 connection-proxy-socks-remote-dns =
     .label = SOCKS v5 qullanğanda Proksi DNS
     .accesskey = d
+# Variables:
+#   $url (String) - URL for the DNS over HTTPS provider
+connection-dns-over-https-url-default =
+    .label = Ögbelgilengenni qullan ({ $url })
+    .accesskey = V
+    .tooltiptext = HTTPS üzerinden DNS’ni çezimlemek içün ögbelgilengen adresni qullan
+connection-dns-over-https-url-custom =
+    .label = Özel
+    .accesskey = Ö
+    .tooltiptext = HTTPS üzerinden DNS’ni çezimlemek içün tercih etkeniñiz adresni kirsetiñiz

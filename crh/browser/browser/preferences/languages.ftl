@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-languages-window =
-    .title = Tiller
-    .style = width: 30em
 languages-close-key =
     .key = w
 languages-description = Ağ saifeleri bazan birden çoq tilde teklif etilir. Bu ağ saifelerini köstermek içün tillerni saylañız, tercih sırasında:
@@ -38,3 +35,18 @@ languages-code-format =
     .label = { $locale } [{ $code }]
 languages-active-code-format =
     .value = { languages-code-format.label }
+browser-languages-window =
+    .title = { -brand-short-name } Til Ayarları
+    .style = width: 40em
+browser-languages-description = { -brand-short-name } ilk tilni ögbelgilemeñiz olaraq kösterecek ve kererse alternativ tillerni körüngenleri sıra ile kösterecektir.
+browser-languages-search = Daha çoq til qıdır…
+browser-languages-searching =
+    .label = Tiller qıdırıla…
+browser-languages-downloading =
+    .label = Endirile…
+browser-languages-select-language =
+    .label = Eklenecek bir til saylañız…
+    .placeholder = Eklenecek bir til saylañız…
+browser-languages-installed-label = Qurulğan tiller
+browser-languages-available-label = Müsait tiller
+browser-languages-error = { -brand-short-name } al-azırda tilleriñizni yañartalmay. İnternet'ke bağlanğan olğanıñıznı teşkeriñiz yaki yañıdan deñeñiz.

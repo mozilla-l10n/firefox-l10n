@@ -4,8 +4,10 @@
 <!ENTITY addons.windowTitle                   "Eklentiler İdarecisi">
 
 <!ENTITY search.placeholder2                  "Addons.mozilla.org üzerinde qıdır">
+
+<!ENTITY search.placeholder3                  "addons.mozilla.org qıdır">
 <!ENTITY search.buttonlabel                   "Qıdır">
-<!-- LOCALIZATION NOTE (search.commandKey):
+<!-- LOCALIZATION NOTE (search.commandkey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
 
@@ -41,6 +43,10 @@
 <!ENTITY view.discover.label                  "Eklentilerni Elde Et">
 <!ENTITY view.recentUpdates.label             "Deminki Yañartmalar">
 <!ENTITY view.availableUpdates.label          "Faydalanışlı Yañartmalar">
+
+<!ENTITY helpButton.label                      "Eklentiler Destegi">
+<!ENTITY preferencesWin.label                  "&brandShortName; Seçenekleri">
+<!ENTITY preferencesUnix.label                 "&brandShortName; Tercihleri">
 
 <!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "Yañartmalar içün Teşker">
@@ -80,9 +86,8 @@
 <!ENTITY cmd.preferencesWin.accesskey         "h">
 <!ENTITY cmd.preferencesUnix.label            "Tercihler">
 <!ENTITY cmd.preferencesUnix.accesskey        "T">
-<!ENTITY cmd.about.label                      "Aqqında">
-<!ENTITY cmd.about.accesskey                  "a">
 
+<!-- addon actions -->
 <!ENTITY cmd.enableAddon.label                "Qabilleştir">
 <!ENTITY cmd.enableAddon.accesskey            "Q">
 <!ENTITY cmd.disableAddon.label               "Ğayrı qabilleştir">
@@ -91,6 +96,7 @@
 <!ENTITY cmd.enableTheme.accesskey            "T">
 <!ENTITY cmd.disableTheme.label               "Tema Kiyüvni Toqtat">
 <!ENTITY cmd.disableTheme.accesskey           "T">
+
 <!ENTITY cmd.askToActivate.label              "Faalleştirmek içün Sora">
 <!ENTITY cmd.askToActivate.tooltip            "Bu eklentini qullanmaq içün er seferinde sora">
 <!ENTITY cmd.alwaysActivate.label             "Er Zaman Faalleştir">
@@ -100,6 +106,7 @@
 <!ENTITY cmd.stateMenu.tooltip                "Bu eklentiniñ ne zaman çapqanını deñiştir">
 <!ENTITY cmd.installAddon.label               "Qur">
 <!ENTITY cmd.installAddon.accesskey           "Q">
+
 <!ENTITY cmd.uninstallAddon.label             "Çetleştir">
 <!ENTITY cmd.uninstallAddon.accesskey         "r">
 <!ENTITY cmd.showPreferencesWin.label         "İhtiyariyat">
@@ -131,7 +138,6 @@
 <!ENTITY detail.lastupdated.label             "Soñki Yañartma">
 <!ENTITY detail.creator.label                 "İnkişafçı">
 <!ENTITY detail.homepage.label                "Ev saifesi">
-<!ENTITY detail.numberOfDownloads.label       "Endirmeler">
 
 <!ENTITY detail.contributions.description     "Bu eklentiniñ inkişafçısı, kiçik bir bağış yaparaq onıñ devamlı inkişafını desteklemege yardım etüviñizni rica ete.">
 
@@ -162,16 +168,12 @@
 
 <!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "Tınışla">
+
+<!-- download/install progress -->
 <!ENTITY progress.cancel.tooltip              "Vazgeç">
 
-
-<!-- list sorting -->
-<!ENTITY sort.name.label                      "Ad">
-<!ENTITY sort.name.tooltip                    "Adğa köre sırala">
-<!ENTITY sort.dateUpdated.label               "Soñki Yañartma">
-<!ENTITY sort.dateUpdated.tooltip             "Yañartılğanı tarihke köre sırala">
-
 <!ENTITY addon.homepage                       "Ev saifesi">
+
 <!ENTITY addon.details.label                  "Daa çoq">
 <!ENTITY addon.details.tooltip                "Bu eklenti aqqında daa çoq tafsilâtnı köster">
 <!ENTITY addon.unknownDate                    "Namalüm">
@@ -193,6 +195,7 @@
 <!ENTITY addon.undoRemove.label               "Keri yap">
 <!ENTITY addon.undoRemove.tooltip             "Bu eklentini qurulğan tut">
 <!ENTITY addon.restartNow.label               "Şimdi kene başlat">
+
 <!ENTITY addon.install.label                  "Qur">
 <!ENTITY addon.install.tooltip                "Bu eklentini qur">
 <!ENTITY addon.updateNow.label                "Şimdi Yañart">
@@ -212,17 +215,6 @@
 <!ENTITY eula.accept                          "Qabul Et ve Qur…">
 
 <!ENTITY settings.path.button.label           "Kezin…">
-
-<!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
-     experiments are present on the "Experiments" tab of the add-ons manager.
-     This tab won't be displayed unless an Experiment add-on is installed.
-     Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
-     to cause this tab to appear. -->
-<!ENTITY experiment.info.label "Bu nedir? Telemetri zaman-zaman deñevler qurıp çaptırabilir.">
-<!ENTITY experiment.info.learnmore "Daa Çoq Ögren">
-<!ENTITY experiment.info.learnmore.accesskey "D">
-<!ENTITY experiment.info.changetelemetry "Telemetri Ayarları">
-<!ENTITY experiment.info.changetelemetry.accesskey "T">
 
 <!ENTITY setting.learnmore "Daa Çoq Ögren…">
 

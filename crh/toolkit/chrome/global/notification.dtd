@@ -3,7 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY closeNotification.tooltip "Bu mesajnı qapat">
+
 <!ENTITY checkForUpdates "Yañartmalar içün teşker…">
+
 <!ENTITY learnMore "Daa çoq ögren…">
+
 <!ENTITY defaultButton.label "Tamam!">
 <!ENTITY defaultButton.accesskey "T">
+
+<!ENTITY moreActionsButton.accessibleLabel "Daa çoq ameller">
