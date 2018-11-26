@@ -5,7 +5,7 @@
 
 <!-- Calendar Subscriptions Dialog -->
 <!ENTITY calendar.subscriptions.dialog.title                            "Abonează-te la calendare">
-<!ENTITY calendar.subscriptions.dialog.search.label.value               "Arată calendarele care conțin:">
+<!ENTITY calendar.subscriptions.dialog.search.label.value               "Afișează calendarele care conțin:">
 <!ENTITY calendar.subscriptions.dialog.search.button.label              "Caută">
 <!ENTITY calendar.subscriptions.dialog.select.label.value               "Selectează calendarele la care să te abonezi:">
 <!ENTITY calendar.subscriptions.dialog.subscribe.button.label           "Abonare">

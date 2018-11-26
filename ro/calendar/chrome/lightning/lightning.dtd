@@ -66,7 +66,7 @@
 <!ENTITY lightning.imipbar.btnDelete.label                                  "Șterge">
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Șterge din calendar">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "Detalii…">
-<!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "Arată detaliile evenimentului">
+<!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "Afișează detaliile evenimentului">
 <!ENTITY lightning.imipbar.btnMore.label                                    "Mai mult">
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Clic pentru a se afișa mai multe opțiuni">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Reconfirmare">
@@ -100,12 +100,12 @@
 <!ENTITY lightning.acctCentral.newCalendar.label "Creează un calendar nou">
 
 <!-- today-pane-specific -->
-<!ENTITY todaypane.showMinimonth.label "Arată miniluna">
+<!ENTITY todaypane.showMinimonth.label "Afișează mini-luna">
 <!ENTITY todaypane.showMinimonth.accesskey "m">
-<!ENTITY todaypane.showMiniday.label "Arată miniziua">
+<!ENTITY todaypane.showMiniday.label "Afișează mini-ziua">
 <!ENTITY todaypane.showMiniday.accesskey  "A">
 <!ENTITY todaypane.showNone.label "Nu arăta nimic">
 <!ENTITY todaypane.showNone.accesskey "N">
-<!ENTITY todaypane.showTodayPane.label "Arată panoul de azi">
+<!ENTITY todaypane.showTodayPane.label "Afișează panoul cu ziua de astăzi">
 <!ENTITY todaypane.showTodayPane.accesskey "o">
 <!ENTITY todaypane.statusButton.label "Panoul zilei de azi">

@@ -18,7 +18,7 @@
 <!ENTITY pref.calendar.alarms.sound.play.accessKey "R">
 <!ENTITY pref.showalarmbox "Afișează caseta de dialog pentru memento">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "j">
-<!ENTITY pref.missedalarms2 "Arată alarmele ratate pentru calendarele ce permit scrierea">
+<!ENTITY pref.missedalarms2 "Afișează alarmele ratate pentru calendarele cu drept de scriere">
 <!ENTITY pref.calendar.alarms.missedAlarms.accessKey "p">
 <!ENTITY pref.calendar.alarms.defaults.label "Setări implicite pentru alarme">
 <!ENTITY pref.defalarm4events.label "Setarea implicită a alarmei pentru evenimente:">

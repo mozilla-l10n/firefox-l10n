@@ -11,7 +11,7 @@
 <!ENTITY initialpage.network.label  "În rețea">
 
 <!ENTITY locationpage.description         "Furnizează informațiile necesare pentru a accesa calendarul de la distanță" >
-<!ENTITY locationpage.login.description   "Dacă e nevoie, introdu utilizatorul și parola" >
+<!ENTITY locationpage.login.description   "Opțional: introdu un nume de utilizator și parola" >
 <!ENTITY locationpage.username.label      "Utilizator:" >
 <!ENTITY locationpage.password.label      "Parolă:" >
 
@@ -39,12 +39,12 @@
 <!ENTITY buttons.subscribe.accesskey "A">
 
 <!ENTITY calendartype.label "Tipul calendarului:">
-<!ENTITY location.label "Loc:">
-<!ENTITY location.placeholder "URL sau denumirea de gazdă a serverului pe care se află calendarul">
+<!ENTITY location.label "Locație:">
+<!ENTITY location.placeholder "URL sau denumirea serverului-gazdă pe care se află calendarul">
 
 <!ENTITY network.nocredentials.label "Această locație nu necesită date de autentificare">
 <!ENTITY network.loading.description "Te rugăm să aștepți cât timp sunt detectate calendarele.">
-<!ENTITY network.notfound.description "Nu s-au găsit calendare la această locație. Te rugăm să îți verifici setările.">
+<!ENTITY network.notfound.description "Nu s-au găsit calendare în această locație. Te rugăm să îți verifici setările.">
 <!ENTITY network.authfail.description "Datele de autentificare introduse nu au fost acceptate. Te rugăm să îți verifici setările.">
 
 <!ENTITY network.subscribe.single.description "Te rugăm să selectezi calendarele la care dorești să te abonezi.">

@@ -14,7 +14,7 @@
 
 <!ENTITY pref.weekstarts.label "Săptămâna începe:">
 <!ENTITY pref.weekstarts.accesskey "S">
-<!ENTITY pref.calendar.view-minimonth.showweeknumber.label "Arată numărul săptămânii în vizualizări și în luna-miniatură">
+<!ENTITY pref.calendar.view-minimonth.showweeknumber.label "Afișează numărul săptămânii în vizualizări și în mini-lună">
 <!ENTITY pref.calendar.view-minimonth.showweeknumber.accesskey "n">
 <!ENTITY pref.daysoff.label "Săptămâna de lucru este formată din zilele:">
 
@@ -22,7 +22,7 @@
 <!ENTITY pref.calendar.view.daystart.accesskey "Z">
 <!ENTITY pref.calendar.view.dayend.label "Ziua se termină la:">
 <!ENTITY pref.calendar.view.dayend.accesskey "s">
-<!ENTITY pref.calendar.view.visiblehours.label "Arată câte:">
+<!ENTITY pref.calendar.view.visiblehours.label "Afișează:">
 <!ENTITY pref.calendar.view.visiblehours.accesskey "A">
 <!ENTITY pref.calendar.view.visiblehoursend.label "ore deodată">
 
@@ -37,5 +37,5 @@
 <!ENTITY pref.numberofweeks.4 "4 săptămâni">
 <!ENTITY pref.numberofweeks.5 "5 săptămâni">
 <!ENTITY pref.numberofweeks.6 "6 săptămâni">
-<!ENTITY pref.showlocation.label "Arată locația">
+<!ENTITY pref.showlocation.label "Afișează locația">
 <!ENTITY pref.showlocation.accesskey "l">
