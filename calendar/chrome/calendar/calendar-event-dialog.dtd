@@ -18,16 +18,16 @@
 <!ENTITY newevent.eventStatus.cancelled.label     "Anulată" >
 <!ENTITY newevent.eventStatus.cancelled.accesskey "n" >
 <!ENTITY newevent.todoStatus.cancelled.label      "Anulată" >
-<!ENTITY newevent.status.tentative.label          "Programată" >
+<!ENTITY newevent.status.tentative.label          "Provizoriu" >
 <!ENTITY newevent.status.tentative.accesskey      "P" >
 <!ENTITY newevent.status.confirmed.label          "Confirmată" >
 <!ENTITY newevent.status.confirmed.accesskey      "C" >
 <!ENTITY newevent.status.needsaction.label        "Necesită acțiune" >
 <!ENTITY newevent.status.inprogress.label         "În desfășurare" >
-<!ENTITY newevent.status.completed.label          "Îndeplinită în" >
+<!ENTITY newevent.status.completed.label          "Finalizată la data de" >
 
 <!-- The following entity is for New Task dialog only -->
-<!ENTITY newtodo.percentcomplete.label      "&#037; completată">
+<!ENTITY newtodo.percentcomplete.label      "&#037; realizată">
 
 <!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label,
      event.attendees.disallowcounter.label)
@@ -157,7 +157,7 @@
 <!ENTITY event.invite.attendees.accesskey                 "I">
 <!ENTITY event.email.attendees.label                      "Compune un mesaj către toți participanții…">
 <!ENTITY event.email.attendees.accesskey                  "a">
-<!ENTITY event.email.tentative.attendees.label            "Compune un mesaj către participanții indeciși…">
+<!ENTITY event.email.tentative.attendees.label            "Compune un mesaj de e-mail către participanții indeciși…">
 <!ENTITY event.email.tentative.attendees.accesskey        "u">
 <!ENTITY event.remove.attendees.label2                    "Elimină toți participanții">
 <!ENTITY event.remove.attendees.accesskey                 "r">
@@ -378,7 +378,7 @@
 <!ENTITY event.freebusy.zoom                    "Scalare:">
 <!ENTITY event.freebusy.legend.free             "Liber" >
 <!ENTITY event.freebusy.legend.busy             "Ocupat" >
-<!ENTITY event.freebusy.legend.busy_tentative   "Tentativă" >
+<!ENTITY event.freebusy.legend.busy_tentative   "Provizoriu" >
 <!ENTITY event.freebusy.legend.busy_unavailable "Plecat de la birou" >
 <!ENTITY event.freebusy.legend.unknown          "Fără informații" >
 <!ENTITY event.attendee.role.required           "Participant necesar">
@@ -418,7 +418,7 @@
 <!ENTITY summary.dialog.saveclose.tooltiptext   "Salvează schimbările și închide fereastra fără a schimba starea participării sau a trimite un răspuns">
 <!ENTITY summary.dialog.accept.label            "Acceptă">
 <!ENTITY summary.dialog.accept.tooltiptext      "Acceptă invitația">
-<!ENTITY summary.dialog.tentative.label         "Voi încerca">
+<!ENTITY summary.dialog.tentative.label         "Provizoriu">
 <!ENTITY summary.dialog.tentative.tooltiptext   "Acceptă provizoriu invitația">
 <!ENTITY summary.dialog.decline.label           "Refuză">
 <!ENTITY summary.dialog.decline.tooltiptext     "Refuză invitația">
