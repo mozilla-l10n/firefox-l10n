@@ -10,6 +10,8 @@ column-name = Naam
 column-type = Type
 column-energy-impact = Energie-impact
 
+column-memory = Geheugen
+
 ## Special values for the Name column
 ghost-windows = Onlangs gesloten tabbladen
 # Variables:
@@ -33,6 +35,14 @@ type-other = Anders
 energy-impact-high = Hoog ({ $value })
 energy-impact-medium = Gemiddeld ({ $value })
 energy-impact-low = Laag ({ $value })
+
+## Values for the Memory column
+##
+## Variables:
+##   $value (Number) - How much memory is used
+size-KB = { $value } KB
+size-MB = { $value } MB
+size-GB = { $value } GB
 
 ## Tooltips for the action buttons
 close-tab =
