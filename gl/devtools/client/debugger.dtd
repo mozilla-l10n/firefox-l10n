@@ -65,7 +65,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.ignoreCaughtExceptions): This is the label for the
   -  checkbox that toggles ignoring caught exceptions. -->
-<!ENTITY debuggerUI.ignoreCaughtExceptions           "Ignorar as excepcións detectadas">
+<!ENTITY debuggerUI.ignoreCaughtExceptions           "Ignorar as excepcións capturadas">
 <!ENTITY debuggerUI.ignoreCaughtExceptions.accesskey "c">
 
 <!-- LOCALIZATION NOTE (debuggerUI.showPanesOnInit): This is the label for the
@@ -161,8 +161,8 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.seEditMenuCondBreak): This is the text that
   -  appears in the source editor context menu for editing a breakpoint. -->
-
-<!ENTITY debuggerUI.seEditMenuCondBreak.key "l">
+<!ENTITY debuggerUI.seEditMenuCondBreak     "Editar o punto de quebra condicional">
+<!ENTITY debuggerUI.seEditMenuCondBreak.key "b">
 
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
   -  appears in the debugger's side pane tabs. -->
