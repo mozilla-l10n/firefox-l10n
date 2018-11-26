@@ -698,6 +698,11 @@ content-blocking-setting-custom =
     .accesskey = C
 content-blocking-standard-desc = સુરક્ષા અને પ્રદર્શન માટે સંતુલિત છે. કેટલાક ટ્રેકર્સને મંજૂરી આપે છે જેથી વેબસાઇટ્સ યોગ્ય રીતે કાર્ય કરે.
 content-blocking-custom-desc = શું અવરોધિત છે તે પસંદ કરો
+content-blocking-private-trackers = ખાનગી વિન્ડોઝમાં ફક્ત જાણીતા ટ્રૅકર્સ
+content-blocking-third-party-cookies = તૃતીય પક્ષ ટ્રેકિંગ કૂકીઝ
+content-blocking-all-windows-trackers = બધા વિન્ડોઝમાં જાણીતા ટ્રેકર્સ
+content-blocking-all-third-party-cookies = બધા તૃતીય પક્ષ કૂકીઝ
+content-blocking-learn-how = કેવી રીતે તે જાણો
 content-blocking-tracking-protection-trackers-label =
     .label = ટ્રેકર્સ
     .accesskey = T
@@ -733,6 +738,9 @@ content-blocking-reject-trackers-block-trackers-option =
 content-blocking-reject-trackers-all-third-parties-option =
     .label = બધી તૃતીય-પક્ષની કૂકીઝ (વેબસાઇટ્સને તોડી શકે છે)
     .accesskey = A
+content-blocking-cookies-label =
+    .label = કૂકીઝ
+    .accesskey = C
 
 ## Privacy Section - Tracking
 
@@ -754,6 +762,9 @@ tracking-exceptions =
 tracking-change-block-list =
     .label = અવરોધિત સૂચિ બદલો…
     .accesskey = C
+tracking-manage-exceptions =
+    .label = અપવાદોને મેનેજ કરો ...
+    .accesskey = x
 
 ## Privacy Section - Permissions
 
