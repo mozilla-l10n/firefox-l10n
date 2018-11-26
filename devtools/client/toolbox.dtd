@@ -13,7 +13,7 @@
 <!-- LOCALIZATION NOTE (browserToolboxStatusMessage): This is the label
   -  shown next to status details when the Browser Toolbox fails to connect or
   -  appears to be taking a while to do so. -->
-
+<!ENTITY browserToolboxStatusMessage "Estado da conexión da caixa de ferramentas do navegador:">
 
 <!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
   -  the heading of the advanced settings group in the options panel. -->

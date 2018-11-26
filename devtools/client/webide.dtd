@@ -165,7 +165,7 @@
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
 <!ENTITY wifi_auth_token_request "Se o outro dispositivo solicita un token no lugar dunha lectura de código QR, copie o seguinte valor no outro dispositivo:">
-
+<!ENTITY wifi_auth_qr_size_note "Se o código QR é demasiado pequeno para analizalo, tente ampliar a xanela ou aumentar o zoom.">
 
 <!-- Logs panel -->
 <!ENTITY logs_title "Rexistros de ordes previas ao empaquetado">

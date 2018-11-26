@@ -12,16 +12,16 @@
   - -->
 
 <!-- LOCALIZATION NOTE (aboutDevtools.headTitle): Text of the title tag for about:devtools -->
-
+<!ENTITY  aboutDevtools.headTitle "Sobre as ferramentas de desenvolvemento">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.title): Title of the top about:devtools
   -  section displayed when DevTools are disabled. -->
-
+<!ENTITY  aboutDevtools.enable.title "Activar as ferramentas de desenvolvemento de Firefox">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.inspectElementTitle): Title of the top
   -  section displayed when devtools are disabled and the user triggered DevTools by using
   -  the Inspect Element menu item. -->
-
+<!ENTITY  aboutDevtools.enable.inspectElementTitle "Activar as ferramentas de desenvolvemento de Firefox para usar Inspeccionar elemento">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.inspectElementMessage): Message displayed
   -  when users come from using the Inspect Element menu item. -->
@@ -46,28 +46,28 @@
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.learnMoreLink): Text for the link to
   -  https://developer.mozilla.org/docs/Tools displayed in the top section when DevTools
   -  are disabled. -->
+<!ENTITY  aboutDevtools.enable.learnMoreLink "Obteña máis información sobre as ferramentas de desenvolvemento">
 
+<!ENTITY  aboutDevtools.enable.enableButton "Activar as ferramentas de desenvolvemento">
+<!ENTITY  aboutDevtools.enable.closeButton2 "Pechar esta lapela">
 
+<!ENTITY  aboutDevtools.welcome.title "Benvida ás ferramentas de desenvolvemento de Firefox!">
 
-
-
-
-
-
+<!ENTITY  aboutDevtools.newsletter.title "Boletín de información de Mozilla para os desenvolvedores">
 <!-- LOCALIZATION NOTE (aboutDevtools.newsletter.message): Subscribe form message.
   -  The newsletter is only available in english at the moment.
   -  See Bug 1415273 for support of additional languages.-->
+<!ENTITY  aboutDevtools.newsletter.message "Reciba novas, trucos e recursos para os desenvolvedores directamente na súa caixa de entrada.">
+<!ENTITY  aboutDevtools.newsletter.email.placeholder "Correo electrónico">
+<!ENTITY  aboutDevtools.newsletter.privacy.label "Estou de acordo con que Mozilla xestione miña información conforme se explica nesta <a class='external' href='https://www.mozilla.org/privacy/'>política de privacidade</a>.">
+<!ENTITY  aboutDevtools.newsletter.subscribeButton "Subscribirse">
+<!ENTITY  aboutDevtools.newsletter.thanks.title "Grazas!">
+<!ENTITY  aboutDevtools.newsletter.thanks.message "Se nunca confirmou unha subscrición a algún boletín de Mozilla, é posible que teña que facelo. Comprobe se ten algunha mensaxe nosa na súa caixa de entrada ou no seu cartafol de correo lixo.">
 
-
-
-
-
-
-
-
+<!ENTITY  aboutDevtools.footer.title "Firefox Developer Edition">
 
 
 <!-- LOCALIZATION NOTE (aboutDevtools.footer.learnMoreLink): Text for the link to
   -  https://www.mozilla.org/firefox/developer/ displayed in the footer. -->
-
+<!ENTITY  aboutDevtools.footer.learnMoreLink "Máis información">
 
