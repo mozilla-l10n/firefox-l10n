@@ -22,7 +22,7 @@
 
 <!ENTITY saveButton.label           "Gardar">
 <!ENTITY saveButton.tooltip         "Gardar esta folla de estilo a un ficheiro">
-<!ENTITY saveButton.accesskey       "s">
+<!ENTITY saveButton.accesskey       "G">
 
 <!ENTITY optionsButton.tooltip      "Opcións do editor de estilo">
 
