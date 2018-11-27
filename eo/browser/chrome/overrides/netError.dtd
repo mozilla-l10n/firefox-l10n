@@ -140,7 +140,9 @@ was trying to connect. -->
 
 <!ENTITY certerror.expiredCert.secondPara "Tiu problemo okazas tre verŝajne pro tio ke la horloĝo de via komputilo ne estas ĝusta, kio malpermesus al &brandShortName; sekure konektiĝi.">
 
+<!ENTITY certerror.sts.introPara "&brandShortName; trovis eblan sekurecan riskon kaj ne malfermis <span class='hostname'/> ĉar tiu retejo postulas sekuran konekton.">
 
+<!ENTITY certerror.expiredCert.introPara "&brandShortName; trovis problemon kaj ne malfermis <span class='hostname'/>. Aŭ la retejo estas misagordita aŭ la horloĝo en via komputilo estas malĝusta.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Kion vi povas fari pri tio?">
 
