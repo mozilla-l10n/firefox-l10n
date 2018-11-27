@@ -9,16 +9,23 @@ about-performance-title = Administrador de tareas
 
 column-name = Nombre
 column-type = Tipo
+column-energy-impact = Impacto de energía
 
 ## Special values for the Name column
 
 ghost-windows = Pestañas recientemente cerradas
+# Variables:
+#   $title (String) - the title of the preloaded page, typically 'New Tab'
+preloaded-tab = Precargado: { $title }
 
 ## Values for the Type column
 
 type-tab = Pestaña
+type-subframe = Submarco
+type-tracker = Rastreador
 type-addon = Complemento
 type-browser = Navegador
+type-worker = Worker
 type-other = Otro
 
 ## Values for the Energy Impact column
@@ -35,3 +42,13 @@ energy-impact-low = Bajo ({ $value })
 
 close-tab =
     .title = Cerrar pestaña
+show-addon =
+    .title = Mostrar en administrador de complementos
+# Tooltip when hovering an item of the about:performance table
+# Variables:
+#   $totalDispatches (Number) - how many dispatches occured for this page since it loaded
+#   $totalDuration (Number) - how much CPU time was used by this page since it loaded
+#   $dispatchesSincePrevious (Number) - how many dispatches occured in the last 2 seconds
+#   $durationSincePrevious (Number) - how much CPU time was used in the last 2 seconds
+item =
+    .title = Despachos desde la carga: { $totalDispatches } ({ $totalDuration }ms) Despachos en los últimos segundos: { $dispatchesSincePrevious } ({ $durationSincePrevious }ms)
