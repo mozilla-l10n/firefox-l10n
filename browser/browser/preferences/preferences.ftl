@@ -394,7 +394,7 @@ search-keyword-warning-bookmark = మీరు ఎంచుకున్న క�
 containers-back-link = « వెనక్కి వెళ్ళు
 containers-header = కంటైనర్ ట్యాబులు
 containers-add-button =
-    .label = కొత్త కంటేయినర్ జోడించు
+    .label = కొత్త కంటెయినరు చేర్చు
     .accesskey = A
 containers-preferences-button =
     .label = అభిరుచులు
@@ -605,7 +605,7 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = తెరిచిన ట్యాబులు
     .accesskey = O
-addressbar-suggestions-settings = శోధన యత్ర సూచనల అభిరుచులను మార్చండి
+addressbar-suggestions-settings = సెర్చింజను సూచనల అభిరుచులను మార్చండి
 
 ## Privacy Section - Content Blocking
 
@@ -626,6 +626,9 @@ content-blocking-category-label = వేటిని నిరోధించా
 content-blocking-setting-standard =
     .label = ప్రామాణికం
     .accesskey = d
+content-blocking-setting-strict =
+    .label = కఠినం
+    .accesskey = r
 content-blocking-setting-custom =
     .label = అభిమతం
     .accesskey = C
