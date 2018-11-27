@@ -19,7 +19,7 @@
 <!ENTITY  generalURL            "Address:">
 <!ENTITY  generalType           "Uri:">
 <!ENTITY  generalMode           "Render Mode:">
-<!ENTITY  generalSize           "Sukat:">
+<!ENTITY  generalSize           "Laki:">
 <!ENTITY  generalReferrer       "Pinanggalingan na URL:">
 <!ENTITY  generalSource         "Cache Source:">
 <!ENTITY  generalModified       "Ayusin:">
