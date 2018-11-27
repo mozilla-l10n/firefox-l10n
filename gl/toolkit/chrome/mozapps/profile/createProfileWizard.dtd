@@ -18,8 +18,8 @@
 <!ENTITY profilePrompt.label            "Introduza o nome do novo perfil:">
 <!ENTITY profilePrompt.accesskey        "I">
 <!ENTITY profileDirectoryExplanation.text   "A configuración, preferencias e máis datos relacionados co usuario almacenarase en:">
-<!ENTITY profileDefaultName             "Usuario predefinido">
+<!ENTITY profileDefaultName             "Usuario predeterminado">
 <!ENTITY button.choosefolder.label      "Escoller cartafol…">
 <!ENTITY button.choosefolder.accesskey  "E">
-<!ENTITY button.usedefault.label        "Usar o cartafol predefinido">
+<!ENTITY button.usedefault.label        "Usar o cartafol predeterminado">
 <!ENTITY button.usedefault.accesskey    "U">
