@@ -651,7 +651,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkPageCmd2.label       "გვერდის ჩანიშვნა">
 <!ENTITY bookmarkPageCmd2.accesskey   "გ">
 <!ENTITY bookmarkThisLinkCmd.label      "ბმულის ჩანიშვნა">
-<!ENTITY bookmarkThisLinkCmd.accesskey  "ბ">
+<!ENTITY bookmarkThisLinkCmd.accesskey  "შ">
 <!ENTITY bookmarkThisFrameCmd.label      "ჩარჩოს ჩანიშვნა">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "ჩ">
 <!ENTITY pageAction.copyLink.label    "ბმულის ასლი">
