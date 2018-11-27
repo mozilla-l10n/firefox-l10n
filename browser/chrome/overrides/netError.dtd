@@ -112,6 +112,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.expiredCert.introPara "&brandShortName; ha detectado un problema y no continuó a <span class='hostname'/>. El sitio web está mal configurado o el reloj de tu computadora tiene una hora incorrecta.">
 <!ENTITY certerror.expiredCert.secondPara2 "Es probable que el certificado del sitio esté expirado, lo que previene a &brandShortName; de conectarse de forma segura. Si visitas este sitio, los atacantes pueden intentar robar tu información como contraseñas, correos electrónicos o detalles de tu tarjeta de crédito.">
+<!ENTITY certerror.expiredCert.sts.secondPara "Probablemente el certificado del sitio ha expirado, impidiendo que &brandShortName; se conecte con seguridad.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "¿Qué puedes hacer al respecto?">
 
@@ -159,6 +160,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.pagetitle1  "Conexión insegura">
 <!ENTITY certerror.pagetitle2  "Advertencia: Riesgo potencial de seguridad a continuación">
+<!ENTITY certerror.sts.pagetitle  "No se conectó: Potencial problema de seguridad">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Este sitio usa HTTP
 Strict Transport Security (HSTS) para especificar que &brandShortName; solamente se conecte
 de forma segura. Como resultado, no es posible agregar una excepción para este
@@ -180,3 +182,4 @@ certificado.">
 <!ENTITY prefReset.label "Restaurar ajustes predeterminados">
 
 <!ENTITY networkProtocolError.title "Error de protocolo de red">
+<!ENTITY networkProtocolError.longDesc "<p>La página que estás intentando ver no se puede mostrar porque fue detectado un error del protocolo de red.</p><ul><li>Por favor, contacta con los propietarios del sitio web para informarles de este problema.</li></ul>">
