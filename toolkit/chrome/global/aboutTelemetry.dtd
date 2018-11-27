@@ -32,9 +32,6 @@
 <!ENTITY aboutTelemetry.optionGroupOlder "
 Раней
 ">
-<!ENTITY aboutTelemetry.payloadChoiceHeader "
-  Нагрузка
-">
 <!-- LOCALIZATION NOTE(aboutTelemetry.previousPing, aboutTelemetry.nextPing):
 	These strings are displayed when selecting Archived pings, and they’re
 	used to move to the next or previous ping. -->
@@ -54,6 +51,8 @@
 <!ENTITY aboutTelemetry.telemetryDashboard "
 <a>Панэлі Тэлеметрыі</a> дазваляюць вам візуалізаваць дадзеныя, атрыманыя Mozilla праз тэлеметрыю.
 ">
+
+<!ENTITY aboutTelemetry.telemetryProbeDictionary "<a>Probe Dictionary</a> утрымлівае падрабязнасці і апісанні зондаў, сабраныя тэлеметрыяй.">
 
 <!ENTITY aboutTelemetry.showInFirefoxJsonViewer "
 Адкрыць у праглядальніку JSON
@@ -83,13 +82,7 @@
   Падзеі
 ">
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Простыя вымярэнні">
-<!ENTITY aboutTelemetry.telemetryLogSection "
-  Лог тэлеметрыі
-">
 <!ENTITY aboutTelemetry.slowSqlSection "  Паказ чыннікаў SQL">
-<!ENTITY aboutTelemetry.chromeHangsSection "
-  Завісанні браўзера
-">
 <!ENTITY aboutTelemetry.addonDetailsSection "  Падрабязнасці дадатка">
 <!ENTITY aboutTelemetry.capturedStacksSection "
   Захопленыя стэкі
