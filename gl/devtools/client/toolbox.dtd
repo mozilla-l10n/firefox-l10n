@@ -147,8 +147,8 @@
 
 <!-- LOCALIZATION NOTE (options.sourceMaps.label): This is the
    - label for the checkbox that toggles source maps in all tools -->
-
-
+<!ENTITY options.sourceMaps.label      "Activar ligazóns a fontes">
+<!ENTITY options.sourceMaps.tooltip1   "Se activa esta opción, as fontes ligaranse nas ferramentas.">
 
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
@@ -163,17 +163,17 @@
 <!-- LOCALIZATION NOTE (options.screenshot.label): This is the label for the
    -  heading of the group of Screenshot preferences in the options
    -  panel. -->
-
+<!ENTITY options.screenshot.label            "Comportamento das capturas de pantalla">
 
 <!-- LOCALIZATION NOTE (options.screenshot.clipboard.label): This is the
    - label for the checkbox that toggles screenshot to clipboard feature. -->
-
-
+<!ENTITY options.screenshot.clipboard.label      "Gardar no portapapeis">
+<!ENTITY options.screenshot.clipboard.tooltip    "Garda a captura de pantalla directamente no portapapeis">
 
 <!-- LOCALIZATION NOTE (options.screenshot.audio.label): This is the
    - label for the checkbox that toggles the camera shutter audio for screenshot tool -->
-
-
+<!ENTITY options.screenshot.audio.label      "Reproducir son do obturador dunha cámara">
+<!ENTITY options.screenshot.audio.tooltip    "Activa o son do obturador dunha cámara ao tomar unha captura de pantalla">
 
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,
