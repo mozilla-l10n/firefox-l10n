@@ -107,7 +107,7 @@ These two items have the same accesskey but will never be visible at the same ti
 <!ENTITY  moveToNewWindow.label              "Flyt til nyt vindue">
 <!ENTITY  moveToNewWindow.accesskey          "v">
 <!ENTITY  reopenInContainer.label            "Åbn igen i Kontekst">
-<!ENTITY  reopenInContainer.accesskey        "K">
+<!ENTITY  reopenInContainer.accesskey        "o">
 <!ENTITY  bookmarkAllTabs.label              "Bogmærk alle faneblade…">
 <!ENTITY  bookmarkAllTabs.accesskey          "o">
 <!ENTITY  bookmarkTab.label                  "Bogmærk faneblad">
