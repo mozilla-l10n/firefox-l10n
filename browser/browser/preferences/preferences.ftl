@@ -648,6 +648,9 @@ sitedata-cookies-exceptions =
 # in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
 # Cookies and Site Data section.
 sitedata-warning-your-settings-prevent-changes = Viaj agordoj en blokado de enhavo malpermesas ŝanĝi la agordojn por kuketoj kaj retejaj datumoj.
+sitedata-cookies-permissions =
+    .label = Administri permesojn…
+    .accesskey = A
 
 ## Privacy Section - Address Bar
 
@@ -698,6 +701,16 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = Personecigita
     .accesskey = P
+content-blocking-standard-desc = Ekvilibro inter protekto kaj efikeco. Kelkaj spuriloj estas permesataj, por ke retejoj funkciu bone.
+content-blocking-strict-desc = Ĉiuj spuriloj trovitaj de { -brand-short-name } estos blokitaj. Tio povas misfunkciigi kelkajn retejojn.
+content-blocking-custom-desc = Elektu kion bloki.
+content-blocking-private-trackers = Konataj spuriloj nur en fenestroj de privata retumo.
+content-blocking-third-party-cookies = Spurantaj nerektaj kuketoj
+content-blocking-all-windows-trackers = Konataj spuriloj en ĉiuj fenestroj
+content-blocking-all-third-party-cookies = Ĉiuj nerektaj kuketoj
+content-blocking-warning-title = Atentu!
+content-blocking-warning-desc = La blokado de kuketoj kaj spuriloj povas misfunkciigi kelkajn retejojn. Estas facile malaktivigi la blokadon por tiuj retejoj, kiujn vi fidas.
+content-blocking-learn-how = Pli da informo
 content-blocking-tracking-protection-trackers-label =
     .label = Spuriloj
     .accesskey = S
@@ -733,6 +746,9 @@ content-blocking-reject-trackers-block-trackers-option =
 content-blocking-reject-trackers-all-third-parties-option =
     .label = Ĉiuj nerektaj kuketoj (tio povus misfunkciigi retejojn)
     .accesskey = n
+content-blocking-cookies-label =
+    .label = Kuketoj
+    .accesskey = K
 
 ## Privacy Section - Tracking
 
@@ -754,6 +770,9 @@ tracking-exceptions =
 tracking-change-block-list =
     .label = Ŝanĝi liston de blokado…
     .accesskey = b
+tracking-manage-exceptions =
+    .label = Administri esceptojn…
+    .accesskey = e
 
 ## Privacy Section - Permissions
 
