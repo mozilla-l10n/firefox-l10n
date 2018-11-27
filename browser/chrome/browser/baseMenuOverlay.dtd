@@ -35,7 +35,7 @@
 <!ENTITY helpFeedbackPage.accesskey  "o">
 
 <!ENTITY helpShowTour2.label            "Visita guiada por &brandShorterName;">
-<!ENTITY helpShowTour2.accesskey        "o">
+<!ENTITY helpShowTour2.accesskey        "V">
 
 <!ENTITY preferencesCmdMac.label        "Preferencias…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
