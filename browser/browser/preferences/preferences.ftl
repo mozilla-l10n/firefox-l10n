@@ -793,7 +793,6 @@ sitedata-block-desc = Geblokkeerd type
 
 sitedata-block-trackers-option-recommended =
     .label = Trackers van derden (aanbevolen)
-
 sitedata-block-trackers-option =
     .label = Trackers van derden
 sitedata-block-unvisited-option =
@@ -801,6 +800,15 @@ sitedata-block-unvisited-option =
 sitedata-block-all-third-party-option =
     .label = Alle cookies van derden (kan ervoor zorgen dat websites niet goed werken)
 sitedata-block-all-option =
+    .label = Alle cookies (zal ervoor zorgen dat websites niet goed werken)
+
+sitedata-option-block-trackers =
+    .label = Trackers van derden
+sitedata-option-block-unvisited =
+    .label = Cookies van niet-bezochte websites
+sitedata-option-block-all-third-party =
+    .label = Alle cookies van derden (kan ervoor zorgen dat websites niet goed werken)
+sitedata-option-block-all =
     .label = Alle cookies (zal ervoor zorgen dat websites niet goed werken)
 
 sitedata-clear =
@@ -873,8 +881,23 @@ content-blocking-category-label = Kiezen wat er wordt geblokkeerd
 content-blocking-fastblock-slow-loading-trackers-label =
     .label = Traag ladende trackers
     .accesskey = T
-content-blocking-fastblock-new-description = Alleen de trackers blokkeren die snel laden van pagina’s tegengaan.
+content-blocking-fastblock-new-description = Alleen de trackers blokkeren die het snel laden van pagina’s tegengaan.
+content-blocking-tracking-protection-trackers-label =
+  .label = Trackers
+  .accesskey = T
+content-blocking-tracking-protection-all-detected-trackers-label =
+  .label = Alle gedetecteerde trackers
+  .accesskey = d
+content-blocking-tracking-protection-new-description = Alle bekende trackers blokkeren. (Kan het laden van bepaalde pagina’s tegengaan.)
+content-blocking-tracking-protection-option-always =
+  .label = Altijd
+  .accesskey = A
+content-blocking-tracking-protection-option-private =
+  .label = Alleen in privévensters
+  .accesskey = p
 
+# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
+# "Standard" in this case is an adjective, meaning "default" or "normal".
 content-blocking-setting-standard =
   .label = Standaard
   .accesskey = S
@@ -898,20 +921,13 @@ content-blocking-warning-title = Let op!
 content-blocking-warning-desc = Het blokkeren van cookies kan ervoor zorgen dat bepaalde websites niet goed werken. Blokkering kan eenvoudig worden uitgeschakeld voor websites die u vertrouwt.
 content-blocking-learn-how = Lezen hoe
 
-content-blocking-tracking-protection-trackers-label =
+content-blocking-trackers-label =
     .label = Trackers
     .accesskey = T
-content-blocking-tracking-protection-all-detected-trackers-label =
-    .label = Alle gedetecteerde trackers
-    .accesskey = d
-content-blocking-tracking-protection-new-description = Alle bekende trackers blokkeren. (Kan het laden van bepaalde pagina’s tegengaan.)
-content-blocking-tracking-protection-option-always =
-    .label = Altijd
-    .accesskey = A
 content-blocking-tracking-protection-option-all-windows =
   .label = In alle vensters
   .accesskey = a
-content-blocking-tracking-protection-option-private =
+content-blocking-option-private =
     .label = Alleen in privévensters
     .accesskey = p
 content-blocking-tracking-protection-change-block-list = Blokkeerlijst wijzigen
