@@ -13,7 +13,7 @@ permissions-block =
     .label = నిరోధించు
     .accesskey = B
 permissions-session =
-    .label = భాగము కొరకు అనుమతించు
+    .label = ఈ సెషనుకి అనుమతించు
     .accesskey = S
 permissions-allow =
     .label = అనుమతించు
@@ -26,7 +26,7 @@ permissions-remove =
     .label = వెబ్‌సైటును తీసివేయి
     .accesskey = R
 permissions-remove-all =
-    .label = అన్ని వెబ్‌సైట్లను తీసివేయి
+    .label = వెబ్‌సైట్లన్నీ తీసివేయి
     .accesskey = e
 permissions-button-cancel =
     .label = రద్దుచేయి
@@ -53,8 +53,8 @@ permissions-capabilities-listitem-allow-session =
 
 ## Invalid Hostname Dialog
 
-permissions-invalid-uri-title = ప్రామాణికం కాని హోస్టునామము ప్రవేశపెట్టబడింది
-permissions-invalid-uri-label = దయచేసి ప్రామాణికమైన హోస్టు నామము ప్రవేశపెట్టండి
+permissions-invalid-uri-title = చెల్లని హోస్టుపేరును ఇచ్చారు
+permissions-invalid-uri-label = దయచేసి సరైన హోస్టుపేరును ఇవ్వండి
 
 ## Exceptions - Tracking Protection
 
