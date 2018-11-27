@@ -4,3 +4,6 @@
 
 restart-required-title = Cal que reinicieu
 restart-required-header = Tan sols cal un petit detall per continuar.
+restart-required-intro = Acabem d'instal·lar una actualització en segon pla. Feu clic a «Reinicia el { -brand-short-name }» per aplicar-la.
+restart-required-description = Restaurarem totes les pàgines, finestres i pestanyes, perquè pugueu reprendre ràpidament el que estàveu fent.
+restart-button-label = Reinicia el { -brand-short-name }
