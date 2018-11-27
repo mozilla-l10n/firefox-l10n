@@ -43,6 +43,9 @@
 <!ENTITY runtimeMenu_showSettings_label "Indstillinger for enhed">
 <!ENTITY runtimeMenu_showSettings_accesskey "e">
 
+<!ENTITY runtimeMenu_showPerformancePanel_label "Ydelse">
+<!ENTITY runtimeMenu_showPerformancePanel_accesskey "Y">
+
 <!ENTITY viewMenu_label "Vis">
 <!ENTITY viewMenu_accesskey "V">
 <!ENTITY viewMenu_zoomin_label "Zoom ind">
