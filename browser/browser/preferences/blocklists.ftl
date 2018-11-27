@@ -3,13 +3,13 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 blocklist-window =
-    .title = Seznamy blokací
-    .style = width: 50em
-blocklist-desc = Můžete si vybrat, který seznam { -brand-short-name } použije k blokování prvků, které vás mohou sledovat při prohlížení.
+    .title = Úrovně blokování
+    .style = width: 55em
+blocklist-desc = Můžete si vybrat, jak bude { -brand-short-name } postupovat při blokování prvků, které vás mohou sledovat při prohlížení.
 blocklist-close-key =
     .key = w
 blocklist-treehead-list =
-    .label = Seznam
+    .label = Úroveň
 blocklist-button-cancel =
     .label = Zrušit
     .accesskey = Z
