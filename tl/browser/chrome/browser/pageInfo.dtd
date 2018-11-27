@@ -14,7 +14,7 @@
 <!ENTITY  closeWindow.key       "w">
 
 <!ENTITY  generalTab            "Pangkalahatan">
-<!ENTITY  generalTab.accesskey  "g">
+<!ENTITY  generalTab.accesskey  "G">
 <!ENTITY  generalTitle          "Titulo:">
 <!ENTITY  generalURL            "Address:">
 <!ENTITY  generalType           "Uri:">
@@ -54,7 +54,7 @@
 <!ENTITY  securityTab           "Seguridad">
 <!ENTITY  securityTab.accesskey "S">
 <!ENTITY  securityView.certView "Tingnan ang Sertipiko">
-<!ENTITY  securityView.accesskey "v">
+<!ENTITY  securityView.accesskey "V">
 <!ENTITY  securityView.unknown   "Unknown">
 
 

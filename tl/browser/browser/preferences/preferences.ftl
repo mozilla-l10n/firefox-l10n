@@ -57,7 +57,7 @@ addons-button-label = Extensions & Themes
 focus-search =
     .key = f
 close-button =
-    .aria-label = Isarado
+    .aria-label = Sarado
 
 ## Browser Restart Dialog
 
@@ -717,7 +717,7 @@ collection-studies-link = I-view ang studies ng { -brand-short-name }
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Hindi pinagana ang pag-uulat ng data para sa build configuration na ito
-collection-browser-errors-link = Matuto ng higit pa
+collection-browser-errors-link = Alamin pa
 collection-backlogged-crash-reports-link = Karagdagang kaalaman
 
 ## Privacy Section - Security

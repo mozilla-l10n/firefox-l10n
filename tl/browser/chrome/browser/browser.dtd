@@ -131,20 +131,20 @@ displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
 <!ENTITY openLocationCmd.label "Buksan ang Lokasyon…">
 <!ENTITY openFileCmd.label "Magbukas ng file…">
-<!ENTITY openFileCmd.accesskey "b">
+<!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "Maglagay ng Pahina…">
 <!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printPreviewCmd.label "Print Preview">
 <!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "I-print...">
-<!ENTITY printCmd.accesskey "p">
+<!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "p">
 
 <!ENTITY taskManagerCmd.label "Task Manager">
 
 <!ENTITY goOfflineCmd.label "Gumawa kahit walang Internet">
-<!ENTITY goOfflineCmd.accesskey "G">
+<!ENTITY goOfflineCmd.accesskey "k">
 
 <!ENTITY menubarCmd.label "Menu Bar">
 <!ENTITY menubarCmd.accesskey "M">
@@ -224,9 +224,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenRestore.tooltip "Ibalik">
 <!ENTITY fullScreenClose.tooltip "Isara">
 <!ENTITY fullScreenAutohide.label "Itago ang mga Toolbar">
-<!ENTITY fullScreenAutohide.accesskey "I">
+<!ENTITY fullScreenAutohide.accesskey "H">
 <!ENTITY fullScreenExit.label "Lumabas sa Full Screen Mode">
-<!ENTITY fullScreenExit.accesskey "I">
+<!ENTITY fullScreenExit.accesskey "F">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -258,7 +258,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY closeWindow.accesskey "d">
 
 <!ENTITY bookmarksMenu.label "Mga Bookmark">
-<!ENTITY bookmarksMenu.accesskey "b">
+<!ENTITY bookmarksMenu.accesskey "B">
 <!ENTITY bookmarkThisPageCmd.label "I-bookmark ang Pahina na Ito">
 <!ENTITY editThisBookmarkCmd.label "i-Edit ang bookmark na ito">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
@@ -742,7 +742,7 @@ items are mutually exclusive. -->
 <!ENTITY mediaHideControls.label     "Itago ang Controls">
 <!ENTITY mediaHideControls.accesskey "C">
 <!ENTITY videoFullScreen.label       "Buong Screen">
-<!ENTITY videoFullScreen.accesskey   "B">
+<!ENTITY videoFullScreen.accesskey   "F">
 <!ENTITY videoSaveImage.label        "I-save ang Snapshot Bilang…">
 <!ENTITY videoSaveImage.accesskey    "S">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
@@ -751,7 +751,7 @@ items are mutually exclusive. -->
 <!ENTITY videoShowStats.label        "Ipakita ang mga Statistics">
 <!ENTITY videoShowStats.accesskey    "t">
 <!ENTITY videoHideStats.label        "Itago ang Statistics">
-<!ENTITY videoHideStats.accesskey    "S">
+<!ENTITY videoHideStats.accesskey    "t">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
@@ -771,7 +771,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "I-reset">
-<!ENTITY fullZoomResetCmd.accesskey     "-">
+<!ENTITY fullZoomResetCmd.accesskey     "R">
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
@@ -795,7 +795,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY closeCmd.label                 "Isara">
 <!ENTITY closeCmd.key                   "W">
-<!ENTITY closeCmd.accesskey             "I">
+<!ENTITY closeCmd.accesskey             "C">
 
 <!ENTITY toggleMuteCmd.key              "M">
 
@@ -812,8 +812,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      over into this string, which is used in the "popup blocked" info bar . -->
 <!ENTITY editPopupSettingsUnix.label "Baguhin ang mga Prefences sa Pop-up Blocker…">
 <!ENTITY editPopupSettings.label "Baguhin ang mga Opsyon sa Pop-up Blocker…">
-<!ENTITY editPopupSettings.accesskey "e">
-<!ENTITY dontShowMessage.accesskey "d">
+<!ENTITY editPopupSettings.accesskey "E">
+<!ENTITY dontShowMessage.accesskey "D">
 
 <!ENTITY bidiSwitchPageDirectionItem.label        "Lumipat ng Page Direction">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "D">
@@ -822,7 +822,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "Hanapin sa web page na ito…">
-<!ENTITY findOnCmd.accesskey "H">
+<!ENTITY findOnCmd.accesskey "F">
 <!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "Ipahanap Ulit">
 <!ENTITY findAgainCmd.accesskey "g">
@@ -1190,7 +1190,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sendToDevice.syncNotReady.label "Nag-sysync ng Devices…">
 
-<!ENTITY pageAction.shareUrl.label "Share">
+<!ENTITY pageAction.shareUrl.label "Ibahagi">
 <!ENTITY pageAction.shareMore.label "Karagdagang detalye…">
 
 <!ENTITY libraryButton.tooltip "Tingnan ang kasaysayan, naka-save na mga bookmark, at higit pa">
