@@ -13,7 +13,7 @@
 policy-AppUpdateURL = Setează un URL personalizat de actualizare a aplicației.
 policy-Authentication = Configurează autentificarea integrată pentru site-urile web care o acceptă.
 policy-BlockAboutAddons = Blochează accesul la managerul de suplimente (about:addons).
-policy-BlockAboutConfig = Blochează accesul la pagina about:config
+policy-BlockAboutConfig = Blochează accesul la pagina about:config.
 policy-BlockAboutProfiles = Blochează accesul la pagina about:profiles.
 policy-BlockAboutSupport = Blochează accesul la pagina about:support.
 policy-Bookmarks = Creează marcaje în bara de marcaje, în meniul de marcaje sau într-un dosar specificat din ele.
@@ -49,8 +49,7 @@ policy-DontCheckDefaultBrowser = Dezactivează verificarea de browser implicit l
 policy-EnableTrackingProtection = Activează sau dezactivează blocarea conținutului și, opțional, blochează opțiunea.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
-# English or translate them as verbs. See also:
-# https://github.com/mozilla/policy-templates/blob/master/README.md#extensions-machine-only
+# English or translate them as verbs.
 policy-Extensions = Instalează, dezinstalează sau blochează extensii. Opțiunea de instalare ia URL-urile sau căile drept parametri. Opțiunile Dezinstalează și Blocată iau ID-uri de extensii.
 policy-FlashPlugin = Permite sau respinge utilizarea pluginului Flash.
 policy-HardwareAcceleration = Dacă este dezactivat, oprește accelerarea hardware.
@@ -70,6 +69,5 @@ policy-SearchBar = Setează locația implicită în bara de căutare. Utilizator
 policy-SearchEngines = Configurează setările motorului de căutare. Politica este disponibilă numai în versiunea Ediție cu suport extins (ERS).
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Instalează module PKCS #11.
-# “format” refers to the format used for the value of this policy. See also:
-# https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
+# “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Blochează intrarea pe site-uri web. Vezi documentația pentru detalii suplimentare despre format.
