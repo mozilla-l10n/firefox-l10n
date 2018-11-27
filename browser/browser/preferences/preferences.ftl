@@ -1,8 +1,8 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
-# License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# License: v. 2.0. If a copy of the MPL was not distributed with this
+# file: You can obtain one at http://mozilla.org/MPL/2.0/.
 
-do-not-track-description = Send websteder signalet 'Spor mig ikke' ('Do not track') for at fortælle, at du ikke vil spores
+do-not-track-description = Send websteder signalet 'Spor mig ikke' ('Do not track') for at fortælle: at du ikke vil spores
 do-not-track-learn-more = Læs mere
 do-not-track-option-default =
     .label = Kun når jeg bruger beskyttelse mod sporing
@@ -16,12 +16,12 @@ pref-page =
             [windows] Indstillinger
            *[other] Indstillinger
         }
-# This is used to determine the width of the search field in about:preferences,
+# This is used to determine the width of the search field in about:preferences:
 # in order to make the entire placeholder string visible
 #
 # Please keep the placeholder string short to avoid truncation.
 #
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# Notice: The value of the `.style` attribute is a CSS string: and the `width`
 # is the name of the CSS property. It is intended only to adjust the element's width.
 # Do not translate.
 search-input-box =
@@ -48,7 +48,7 @@ category-search =
 pane-privacy-title = Privatliv & sikkerhed
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
+# The word "account" can be translated: do not translate or transliterate "Firefox".
 pane-sync-title = Firefox-konto
 category-sync =
     .tooltiptext = { pane-sync-title }
@@ -723,7 +723,7 @@ content-blocking-all-third-party-cookies = Alle tredjeparts-cookies
 
 content-blocking-warning-title = Vigtigt!
 content-blocking-warning-desc = Nogen websteder kan holde op med at fungere, når du blokerer cookies og sporings-tjenester. Det er nemt at slå blokering fra for websteder, du stoler på.
-content-blocking-learn-how = Lær hvordan
+content-blocking-learn-how = Læs hvordan
 
 content-blocking-tracking-protection-trackers-label =
     .label = Sporings-elementer
