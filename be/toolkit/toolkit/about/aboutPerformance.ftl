@@ -9,13 +9,19 @@ about-performance-title = Менеджар задач
 
 column-name = Назва
 column-type = Тып
+column-energy-impact = Спажыванне энергіі
 
 ## Special values for the Name column
 
+ghost-windows = Нядаўна закрытыя карткі
+# Variables:
+#   $title (String) - the title of the preloaded page, typically 'New Tab'
+preloaded-tab = Перадзагружана: { $title }
 
 ## Values for the Type column
 
 type-tab = Картка
+type-subframe = Падфрэйм
 type-tracker = Трэкер
 type-addon = Дадатак
 type-browser = Браўзер
@@ -28,6 +34,9 @@ type-other = Іншае
 ##   $value (Number) - Value of the energy impact, eg. 0.25 (low),
 ##                     5.38 (medium), 105.38 (high)
 
+energy-impact-high = Высокае ({ $value })
+energy-impact-medium = Сярэдняе ({ $value })
+energy-impact-low = Нізкае ({ $value })
 
 ## Tooltips for the action buttons
 
