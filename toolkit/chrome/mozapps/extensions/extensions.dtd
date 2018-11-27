@@ -139,8 +139,8 @@
 <!ENTITY detail.contributions.description     "O desenvolvedor solicítalle unha pequena doazón para axudar a continuar o desenvolvemento deste complemento.">
 
 <!ENTITY detail.updateType                    "Actualizacións automáticas">
-<!ENTITY detail.updateDefault.label           "Predefinido">
-<!ENTITY detail.updateDefault.tooltip         "Instalar actualizacións automaticamente só se isto é o valor predefinido">
+<!ENTITY detail.updateDefault.label           "Predeterminado">
+<!ENTITY detail.updateDefault.tooltip         "Instalar actualizacións automaticamente só se isto é o valor predeterminado">
 <!ENTITY detail.updateAutomatic.label         "Si">
 <!ENTITY detail.updateAutomatic.tooltip       "Instalar actualizacións automaticamente">
 <!ENTITY detail.updateManual.label            "Desactivado">
