@@ -196,6 +196,7 @@
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip "Salvataggio dati nell’archivio permanente">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip "Il browser è attualmente controllato da remoto">
 <!ENTITY urlbar.webAuthnAnchor.tooltip "Apri pannello autenticazione web">
+<!ENTITY urlbar.storageAccessAnchor.tooltip "Apri il pannello relativo ai permessi per la navigazione">
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip "Gestisci la condivisione di fotocamera e/o microfono con il sito">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip "Gestisci la condivisione del microfono con il sito">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip "Gestisci la condivisione delle finestre o dello schermo con il sito">
