@@ -38,7 +38,7 @@ fonts-langgroup-gujarati =
 fonts-langgroup-gurmukhi =
     .label = Gurmukhi
 fonts-langgroup-japanese =
-    .label = Japanese
+    .label = Hapones
 fonts-langgroup-hebrew =
     .label = Hebreyo
 fonts-langgroup-kannada =
@@ -46,7 +46,7 @@ fonts-langgroup-kannada =
 fonts-langgroup-khmer =
     .label = Khmer
 fonts-langgroup-korean =
-    .label = Korean
+    .label = Koreano
 # Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language.
 fonts-langgroup-latin =
     .label = Latin
