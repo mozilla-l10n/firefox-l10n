@@ -633,6 +633,9 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = ব্যতিক্রম… E
     .accesskey = E
+sitedata-cookies-permissions =
+    .label = অনুমতি ব্যবস্থাপনা...
+    .accesskey = P
 
 ## Privacy Section - Address Bar
 
