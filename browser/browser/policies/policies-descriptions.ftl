@@ -11,10 +11,13 @@
 ## in the documentation section in about:policies.
 
 policy-AppUpdateURL = Nastaví vlastnú URL adresu pre aktualizáciu aplikácie.
+policy-Authentication = Konfiguruje integrovanú autentifikáciu webových stránok, ktoré ju podporujú.
 policy-BlockAboutAddons = Zablokuje prístup ku správcovi doplnkov (about:addons).
 policy-BlockAboutConfig = Zablokuje prístup na stránku about:config.
 policy-BlockAboutProfiles = Zablokuje prístup na stránku about:profiles.
 policy-BlockAboutSupport = Zablokuje prístup na stránku about:support.
+policy-Bookmarks = Vytvorí záložku na paneli záložiek, v ponuke alebo vo vybranom priečinku.
+policy-CertificatesDescription = Pridá certifikáty alebo použije zabudované certifikáty.
 policy-Cookies = Povolí alebo zakáže webovým stránkam nastavovať cookies.
 policy-DisableAppUpdate = Zabráni aktualizáciám prehliadača.
 policy-DisableBuiltinPDFViewer = Zablokuje PDF prehliadač PDF.js zabudovaný v aplikácii { -brand-short-name }.
@@ -33,6 +36,8 @@ policy-DisableSystemAddonUpdate = Zablokuje inštaláciu a aktualizáciu systém
 policy-DisableTelemetry = Vypne telemetriu.
 policy-DisplayBookmarksToolbar = Zobrazí panel záložiek v predvolenom nastavení.
 policy-DisplayMenuBar = Zobrazí hlavnú ponuku v predvolenom nastavení.
+policy-DNSOverHTTPS = Nastavenie DNS cez HTTPS
+policy-DontCheckDefaultBrowser = Vypne kontrolu predvoleného prehliadača pri spustení.
 policy-FlashPlugin = Povolí alebo zakáže používanie zásuvného modulu Flash.
 policy-HardwareAcceleration = Ak je nastavená hodnota false, vypne hardvérové urýchľovanie.
 # “lock” means that the user won’t be able to change this setting
@@ -41,6 +46,7 @@ policy-InstallAddonsPermission = Povolí určitým webovým stránkam inštalova
 policy-Permissions = Nastaví povolenia pre kameru, mikrofón, polohu a upozornenia.
 policy-PopupBlocking = Povolí určitým webovým stránkam zobrazovať v predvolenom nastavení vyskakovacie okná.
 policy-Proxy = Nakonfiguruje nastavenia proxy.
-# “format” refers to the format used for the value of this policy. See also:
-# https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
+# For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
+policy-SecurityDevices = Nainštaluje moduly PKCS #11.
+# “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Zablokuje prístup na určité webové stránky. Ďalšie informácie o formáte nájdete v dokumentácii.
