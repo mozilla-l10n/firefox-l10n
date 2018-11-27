@@ -14,7 +14,7 @@ column-energy-impact = Energi-påvirkning
 ghost-windows = Nyligt lukkede faneblade
 # Variables:
 #   $title (String) - the title of the preloaded page, typically 'New Tab'
-preloaded-tab = Forhånds-indlæst: { $title }
+preloaded-tab = Forhåndsindlæst: { $title }
 
 ## Values for the Type column
 type-tab = Faneblad
