@@ -848,8 +848,8 @@ collection-browser-errors =
     .accesskey = e
 collection-browser-errors-link = Pli da informo
 collection-backlogged-crash-reports =
-    .label = Permesi al { -brand-short-name } sendi nome via antaŭe registritajn raportojn pri paneo
-    .accesskey = P
+    .label = Permesi al { -brand-short-name } sendi antaŭe kolektitajn raportojn pri paneo
+    .accesskey = p
 collection-backlogged-crash-reports-link = Pli da informo
 
 ## Privacy Section - Security
