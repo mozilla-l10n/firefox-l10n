@@ -7,6 +7,6 @@
 
 # If non-English locales wish to credit multiple contributors, uncomment this
 # variable definition and use the format specified.
-#define MOZ_LANGPACK_CONTRIBUTORS <em:contributor>Proxecto Trasno (http://trasno.gal/)</em:contributor> <em:contributor>Asociación PuntoGal (http://nic.gal/)</em:contributor>
+#define MOZ_LANGPACK_CONTRIBUTORS <em:contributor>Proxecto Trasno (http://trasno.gal/)</em:contributor> <em:contributor>Asociación PuntoGal (http://asociacion.dominio.gal/)</em:contributor>
 
 #unfilter emptyLines
