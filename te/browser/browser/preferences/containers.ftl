@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 containers-window-new =
-    .title = కొత్త కంటేయినర్ జోడించు
+    .title = కొత్త కంటెయినరు చేర్చు
     .style = width: 45em
 # Variables
 #   $name (String) - Name of the container
 containers-window-update =
-    .title = { $name } కంటైనర్ అభిరుచులు
+    .title = { $name } కంటెయినరు అభిరుచులు
     .style = width: 45em
 containers-window-close =
     .key = w
@@ -26,7 +26,7 @@ containers-name-label = పేరు
     .accesskey = N
     .style = { -containers-labels-style }
 containers-name-text =
-    .placeholder = ఒక కంటైనర్ పేరును ఇవ్వండి
+    .placeholder = కంటెయినరు పేరును ఇవ్వండి
 containers-icon-label = ప్రతీకం
     .accesskey = I
     .style = { -containers-labels-style }
@@ -73,7 +73,7 @@ containers-icon-food =
 containers-icon-fruit =
     .label = పండు
 containers-icon-pet =
-    .label = పెంపుడు ప్రాణులు
+    .label = పెంపుడు జంతువు
 containers-icon-tree =
     .label = చెట్టు
 containers-icon-chill =

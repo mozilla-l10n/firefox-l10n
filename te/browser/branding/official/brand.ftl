@@ -17,4 +17,4 @@
 -vendor-short-name = Mozilla
 -brand-full-name = Mozilla Firefox
 -brand-shorter-name = Firefox
-trademarkInfo = Firefox మరియు Firefox చిహ్నాలు Mozilla Foundation వారి ట్రేడుమార్కులు.
+trademarkInfo = Firefox, Firefox చిహ్నాలు Mozilla Foundation వారి ట్రేడుమార్కులు.

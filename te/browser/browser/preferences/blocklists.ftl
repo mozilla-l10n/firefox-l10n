@@ -3,9 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 blocklist-window =
-    .title = జాబితాలను బ్లాక్ చేయి
+    .title = నిరోధపు జాబితాలు
     .style = width: 55em
-blocklist-desc = మీ విహరణ జాడ తెలుసుకునే వెబ్ ఎలిమెంట్స్ నిరోధించుటకు { -brand-short-name } ఏ జాబితా ఉపయోగించాలో మీరు ఎంచుకోవచ్చు.
+blocklist-desc = మీ విహరణ జాడ తెలుసుకునే జాల మూలకాలను నిరోధించుటకు { -brand-short-name } ఏ జాబితాను ఉపయోగించాలో మీరు ఎంచుకోవచ్చు.
 blocklist-close-key =
     .key = w
 blocklist-treehead-list =
