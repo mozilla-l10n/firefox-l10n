@@ -44,3 +44,13 @@ close-tab =
     .title = Закрыць картку
 show-addon =
     .title = Паказаць у менеджары дадаткаў
+# Tooltip when hovering an item of the about:performance table
+# Variables:
+#   $totalDispatches (Number) - how many dispatches occured for this page since it loaded
+#   $totalDuration (Number) - how much CPU time was used by this page since it loaded
+#   $dispatchesSincePrevious (Number) - how many dispatches occured in the last 2 seconds
+#   $durationSincePrevious (Number) - how much CPU time was used in the last 2 seconds
+item =
+    .title =
+        Рэсурсаў працэсара ад загрузкі выкарыстана: { $totalDispatches } ({ $totalDuration }мс)
+        Рэсурсаў працэсара за апошнія секунды выкарыстана: { $dispatchesSincePrevious } ({ $durationSincePrevious }мс)
