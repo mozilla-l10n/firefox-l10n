@@ -132,6 +132,7 @@
 
 <!ENTITY certerror.longpagetitle1 "Via konekto ne estas sekura">
 <!ENTITY certerror.longpagetitle2 "Averto: Ebla sekureca risko antaŭ vi">
+<!ENTITY certerror.sts.longpagetitle  "Malsukcesa konekto: ebla sekureca problemo">
 <!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
@@ -143,6 +144,8 @@ was trying to connect. -->
 <!ENTITY certerror.sts.introPara "&brandShortName; trovis eblan sekurecan riskon kaj ne malfermis <span class='hostname'/> ĉar tiu retejo postulas sekuran konekton.">
 
 <!ENTITY certerror.expiredCert.introPara "&brandShortName; trovis problemon kaj ne malfermis <span class='hostname'/>. Aŭ la retejo estas misagordita aŭ la horloĝo en via komputilo estas malĝusta.">
+<!ENTITY certerror.expiredCert.secondPara2 "Verŝajne la atestilo de tiu ĉi retejo senvalidiĝis kaj tio ne permesas al &brandShortName; sekure konektiĝi. Se vi vizitas tiun ĉi retejon, atakantoj povus klopodi ŝteli viajn informojn, ekzemple pasvortojn, retmesaĝojn aŭ detalojn pri viaj kreditkartoj.">
+<!ENTITY certerror.expiredCert.sts.secondPara "Verŝajne la atestilo de tiu ĉi retejo senvalidiĝis kaj tio ne permesas al &brandShortName; sekure konektiĝi.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Kion vi povas fari pri tio?">
 
@@ -190,6 +193,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.pagetitle1  "Nesekura konekto">
 <!ENTITY certerror.pagetitle2  "Averto: Ebla sekureca risko antaŭ vi">
+<!ENTITY certerror.sts.pagetitle  "Malsukcesa konekto: ebla sekureca problemo">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Tiu ĉi retejo uzas HTTP
 Strict Transport Security (HSTS) por specifi ke &brandShortName; nur povas konekti ĝin sekure. Pro tio, ne eblas aldoni escepton por tiu ĉi atestilo.">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> uzas sekurecan politikon, kiun oni nomas HTTP Strict Transport Security (HSTS), kiu devigas &brandShortName; konektiĝi sekure. Vi ne povas aldoni escepton por viziti tiun ĉi retejon.">
@@ -208,3 +212,5 @@ Strict Transport Security (HSTS) por specifi ke &brandShortName; nur povas konek
 <!ENTITY prefReset.longDesc "Ŝajne viaj retaj sekurecaj agordoj povus esti la kaŭzo. Ĉu vi volas restarigi la normajn agordojn?">
 <!ENTITY prefReset.label "Restarigi normajn agordojn">
 
+<!ENTITY networkProtocolError.title "Eraro en reta protokolo">
+<!ENTITY networkProtocolError.longDesc "<p>La paĝo, kiun vi provas vidi, ne povas esti montrita ĉar okazis eraro en la reta protokolo.</p><ul><li>Bonvolu kontakti la posedantojn de la retejo por raporti al ili tiun ĉi problemon.</li></ul>">
