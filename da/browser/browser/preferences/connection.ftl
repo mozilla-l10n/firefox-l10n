@@ -37,7 +37,7 @@ connection-proxy-http-port = Port
     .accesskey = P
 connection-proxy-http-share =
     .label = Brug denne proxy-server for alle protokoller
-    .accesskey = B
+    .accesskey = x
 
 connection-proxy-ssl = SSL-proxy
     .accesskey = S
@@ -99,5 +99,5 @@ connection-dns-over-https-url-default =
 
 connection-dns-over-https-url-custom =
     .label = Tilpasset
-    .accesskey = T
-    .tooltiptext = Angik den URL, du foretrækker til DNS-opslag over HTTPS
+    .accesskey = e
+    .tooltiptext = Angiv den URL, du foretrækker til DNS-opslag over HTTPS
