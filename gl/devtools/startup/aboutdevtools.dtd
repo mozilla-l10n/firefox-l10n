@@ -25,23 +25,28 @@
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.inspectElementMessage): Message displayed
   -  when users come from using the Inspect Element menu item. -->
-
+<!ENTITY  aboutDevtools.enable.inspectElementMessage
+          "Examine e edite o contido HTML e CSS co inspector das ferramentas de desenvolvemento.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.aboutDebuggingMessage): Message displayed
   -  when users come from about:debugging. -->
-
+<!ENTITY  aboutDevtools.enable.aboutDebuggingMessage
+          "Desenvolva e depure as WebExtensions, os web workers, os service workers e máis coas ferramentas de desenvolvemento de Firefox.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.keyShortcutMessage): Message displayed when
   -  users pressed a DevTools key shortcut. -->
-
+<!ENTITY  aboutDevtools.enable.keyShortcutMessage
+          "Activou un atallo de teclado das ferramentas de desenvolvemento. Se se trata dun erro, pode pechar esta lapela.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.menuMessage2): Message displayed when users
   -  clicked on a "Enable Developer Tools" menu item. -->
-
+<!ENTITY  aboutDevtools.enable.menuMessage2
+          "Perfeccione o contido HTML, CSS e JavaScript con ferramentas como o Inspector e o Depurador.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.commonMessage): Generic message displayed for
   -  all possible entry points (keyshortcut, menu item etc…). -->
-
+<!ENTITY  aboutDevtools.enable.commonMessage
+          "As ferramentas de desenvolvemento de Firefox están desactivadas de forma predeterminada para darlle máis control sobre o seu navegador.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.learnMoreLink): Text for the link to
   -  https://developer.mozilla.org/docs/Tools displayed in the top section when DevTools
@@ -65,7 +70,7 @@
 <!ENTITY  aboutDevtools.newsletter.thanks.message "Se nunca confirmou unha subscrición a algún boletín de Mozilla, é posible que teña que facelo. Comprobe se ten algunha mensaxe nosa na súa caixa de entrada ou no seu cartafol de correo lixo.">
 
 <!ENTITY  aboutDevtools.footer.title "Firefox Developer Edition">
-
+<!ENTITY  aboutDevtools.footer.message "Busca algo máis que ferramentas de desenvolvemento? Probe o navegador Firefox deseñado especificamente para desenvolvedores e fluxos de traballo modernos.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.footer.learnMoreLink): Text for the link to
   -  https://www.mozilla.org/firefox/developer/ displayed in the footer. -->
