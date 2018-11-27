@@ -626,6 +626,11 @@ content-blocking-category-label = వేటిని నిరోధించా
 content-blocking-setting-standard =
     .label = ప్రామాణికం
     .accesskey = d
+content-blocking-setting-custom =
+    .label = అభిమతం
+    .accesskey = C
+content-blocking-custom-desc = వేటిని నిరోధించాలో ఎంచుకోండి.
+content-blocking-learn-how = ఎలానో తెలుసుకోండి
 content-blocking-tracking-protection-trackers-label =
     .label = ట్రాకర్లు
     .accesskey = T
@@ -639,6 +644,9 @@ content-blocking-tracking-protection-change-block-list = నిరోధపు �
 content-blocking-third-party-cookies-label =
     .label = మూడవ-పక్ష కుకీలు
     .accesskey = C
+content-blocking-change-cookie-settings =
+    .label = కుకీ అమరికలు మార్చండి
+    .accesskey = S
 content-blocking-reject-trackers-block-trackers-option-recommended =
     .label = ట్రాకర్లు (సిఫార్సు చేయబడింది)
     .accesskey = k
@@ -668,6 +676,9 @@ tracking-exceptions =
 tracking-change-block-list =
     .label = నిషేధిత జాబితాను మార్చు…
     .accesskey = C
+tracking-manage-exceptions =
+    .label = మినహాయింపులను నిర్వహించండి…
+    .accesskey = x
 
 ## Privacy Section - Permissions
 

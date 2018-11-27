@@ -62,6 +62,10 @@ permissions-exceptions-tracking-protection-window =
     .title = మినహాయింపులు - ట్రాకింగ్ సంరక్షణ
     .style = { permissions-window.style }
 permissions-exceptions-tracking-protection-desc = ఈ వెబ్‌సైట్లలో మీరు ట్రాకింగ్ సంరక్షణను అచేతనించారు.
+permissions-exceptions-content-blocking-window =
+    .title = మినహాయింపులు - విషయ నిరోధం
+    .style = { permissions-window.style }
+permissions-exceptions-content-blocking-desc = ఈ వెబ్‌సైట్లలో మీకు విషయ నిరోధాన్ని అచేతనం చేసారు.
 
 ## Exceptions - Cookies
 
@@ -92,6 +96,9 @@ permissions-exceptions-addons-desc = పొడిగింతలను స్థ
 
 ## Exceptions - Autoplay Media
 
+permissions-exceptions-autoplay-media-window2 =
+    .title = మినహాయింపులు - స్వీయారంభం
+    .style = { permissions-window.style }
 
 ## Site Permissions - Notifications
 
