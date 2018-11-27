@@ -123,3 +123,6 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> ഉപയോഗിക്കുന്നത് കാലഹരണപ്പെട്ടതും എളുപ്പത്തില്‍ ആക്രമിക്കാനാവുന്നതുമായ സുരക്ഷാ സങ്കേതമാണ്. നിങ്ങള്‍ സുരക്ഷിതമാണെെന്നു കരുതുന്ന വിവരങ്ങള്‍ ഒരു അക്രമിക്ക് എളുപ്പത്തില്‍ ലഭിക്കും. നിങ്ങള്‍ക്കു ഈ താള്‍ സന്ദര്‍ശിക്കാനാവുന്നതിനു മുമ്പ് അഡ്മിനിസ്ട്രേറ്റര്‍ സെര്‍വര്‍ ശരിയാക്കേണ്ടതുണ്ട്. </p><p>പിശക് കോഡ്:  NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+<!ENTITY networkProtocolError.title "ശൃംഘലാനിയമലംഘനം">
+<!ENTITY networkProtocolError.longDesc "<p>ശൃംഘലാ നിയമത്തിൽ ഒരു പിശക് കണ്ടെത്തിയതിനാൽ താങ്കൾ സന്ദർശിക്കാൻ ശ്രമിക്കുന്ന താൾ പ്രദർശിപ്പിക്കാൻ സാധിക്കില്ല.</p><ul><li>ദയവായി ഈ പ്രശ്നം വെബ്സൈറ്റ് ഉടമസ്ഥരെ അറിയിക്കൂ.</li></ul>">
