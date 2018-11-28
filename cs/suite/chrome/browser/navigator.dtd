@@ -84,3 +84,6 @@
 <!ENTITY viewCertificate.accesskey   "c">
 <!ENTITY viewCertManager.label       "Otevřít Správce certifikátů">
 <!ENTITY viewCertManager.accesskey   "p">
+
+<!ENTITY zoomIn.tooltiptext          "Zvětšit">
+<!ENTITY zoomOut.tooltiptext         "Zmenšit">
