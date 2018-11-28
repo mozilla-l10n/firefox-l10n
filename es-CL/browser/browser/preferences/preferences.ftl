@@ -671,6 +671,7 @@ addressbar-suggestions-settings = Cambia las preferencias para las sugerencias d
 
 content-blocking-header = Bloqueo de contenido
 content-blocking-desc = Bloquea contenido de terceros, como publicidad o código, que puede ralentizar tu navegación y seguirte a través de la web. Personaliza tus ajustes para un mejor equilibrio entre protección y rendimiento.
+content-blocking-description = Bloquea el contenido de terceros que te sigue por la web. Controla cuánta de tu actividad en línea es almacenada y compartida entre sitios.
 content-blocking-learn-more = Aprender más
 content-blocking-restore-defaults =
     .label = Restaurar predeterminados
@@ -700,6 +701,16 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = Personalizado
     .accesskey = C
+content-blocking-standard-desc = Balanceado para protección y rendimiento. Permite algunos rastreadores para que los sitios funcionen adecuadamente.
+content-blocking-strict-desc = Bloquea todos los rastreadores que { -brand-short-name } detecte. Puede causar que algunos sitios no funcionen adecuadamente.
+content-blocking-custom-desc = Elige qué bloquear.
+content-blocking-private-trackers = Rastreadores conocidos solo en ventanas privadas
+content-blocking-third-party-cookies = Cookies de rastreo de terceros
+content-blocking-all-windows-trackers = Rastreadores conocidos en todas las ventanas
+content-blocking-all-third-party-cookies = Todas las cookies de terceros
+content-blocking-warning-title = ¡Atención!
+content-blocking-warning-desc = Bloquear cookies y rastreadores puede hacer que algunos sitios fallen. Es fácil desactivar el bloqueo para los sitios en los que confías.
+content-blocking-learn-how = Aprender cómo
 content-blocking-tracking-protection-trackers-label =
     .label = Rastreadores
     .accesskey = T
@@ -735,6 +746,9 @@ content-blocking-reject-trackers-block-trackers-option =
 content-blocking-reject-trackers-all-third-parties-option =
     .label = Todas las cookies de terceros (puede causar errores en los sitios web)
     .accesskey = A
+content-blocking-cookies-label =
+    .label = Cookies
+    .accesskey = C
 
 ## Privacy Section - Tracking
 
@@ -756,6 +770,9 @@ tracking-exceptions =
 tracking-change-block-list =
     .label = Cambiar lista de bloqueo…
     .accesskey = C
+tracking-manage-exceptions =
+    .label = Gestionar excepciones…
+    .accesskey = x
 
 ## Privacy Section - Permissions
 
