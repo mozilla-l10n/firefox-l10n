@@ -73,3 +73,13 @@ connection-dns-over-https =
 connection-dns-over-https-url = URL
     .accesskey = U
     .tooltiptext = Adrese, kurā meklēt DNS pa HTTPS
+# Variables:
+#   $url (String) - URL for the DNS over HTTPS provider
+connection-dns-over-https-url-default =
+    .label = Izmantot noklusējuma ({ $url })
+    .accesskey = u
+    .tooltiptext = Izmanot noklusējuma URL, lai strādātu ar DNS pa HTTPS
+connection-dns-over-https-url-custom =
+    .label = Pielāgots
+    .accesskey = P
+    .tooltiptext = Ievadiet savu adresi, ko izmantot, lai strādātu ar DNS pa HTTPS

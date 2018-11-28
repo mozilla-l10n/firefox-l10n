@@ -28,9 +28,17 @@
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
 <!ENTITY  duplicateTab.label                 "Dublēt cilni">
+<!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
+These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  duplicateTab.accesskey             "D">
 <!ENTITY  closeTabOptions.label              "Aizvērt cilnes iestatījumus">
 <!ENTITY  closeTabOptions.accesskey          "A">
+<!-- LOCALIZATION NOTE (duplicateTabs.label): This is a command to duplicate
+a tab (i.e. it is a verb, not adjective). -->
+<!ENTITY  duplicateTabs.label                "Dublēt cilnes">
+<!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
+These items have the same accesskey but will never be visible at the same time. -->
+<!ENTITY  duplicateTabs.accesskey            "D">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -1009,7 +1017,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.fastBlock.add.label "Pievienot bloķēšanu…">
 
 <!ENTITY contentBlocking.trackingProtection2.label "Visus atrastos sekotājus">
+
 <!ENTITY contentBlocking.trackingProtection3.label "Izsekotāji">
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.allowed.label):
+     This label signals that this type of content blocking is turned
+     OFF and is not blocking tracker content, so this is not
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Trackers [are] Allowed"-->
+<!ENTITY contentBlocking.trackingProtection.allowed.label "Atļauts">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking tracker content, so this is
@@ -1045,6 +1060,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.3rdPartyCookies.add.label "Pievienot bloķēšanu…">
+
+<!ENTITY contentBlocking.manageSettings.label "Pārvaldiet satura bloķēšanu">
+<!ENTITY contentBlocking.manageSettings.accesskey "P">
+
+<!ENTITY contentBlocking.trackersView.label "Izsekotāji">
+<!ENTITY contentBlocking.trackersView.strictInfo.label "Lai bloķētu visus izsekotājus, iestatiet satura bloķēšanu uz “Strikts”.">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Ziņot par problēmu">
 <!ENTITY contentBlocking.breakageReportView.label "Ziņot par problēmām">

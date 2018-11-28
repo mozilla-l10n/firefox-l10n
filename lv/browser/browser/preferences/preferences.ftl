@@ -153,6 +153,9 @@ open-new-link-as-tabs =
 warn-on-close-multiple-tabs =
     .label = Brīdināt, pirms aizvērt vairākas cilnes
     .accesskey = m
+warn-on-quit-close-multiple-tabs =
+    .label = Brīdināt, pirms aizvērt vairākas cilnes
+    .accesskey = m
 warn-on-open-many-tabs =
     .label = Brīdināt, kad vairāku ciļņu atvēršana varētu sabremzēt { -brand-short-name }
     .accesskey = d
@@ -291,6 +294,10 @@ update-application-use-service =
 update-enable-search-update =
     .label = Automātiski atjaunināt meklētājus
     .accesskey = e
+update-pref-write-failure-title = Rakstīšanas neveiksme
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = Nevar saglabāt preferenci. Nevarēja rakstīt failā: { $path }
 
 ## General Section - Performance
 
@@ -644,6 +651,9 @@ sitedata-cookies-exceptions =
 # in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
 # Cookies and Site Data section.
 sitedata-warning-your-settings-prevent-changes = Jūsu satura bloķēšanas iestatījumi liedz veikt sīkdatņu un lapu datu iestatījumu izmainas.
+sitedata-cookies-permissions =
+    .label = Pārvaldīt atļaujas...
+    .accesskey = P
 
 ## Privacy Section - Address Bar
 
@@ -664,6 +674,7 @@ addressbar-suggestions-settings = Izmainiet meklētāju iestatījumus
 
 content-blocking-header = Satura bloķēšana
 content-blocking-desc = Bloķējiet trešo pušu saturu, piemēram reklāmas vai kodu, kas ļauj jūs izsekot internetā. Pielāgojiet iestatījumus vēlamai veiktspējai un privātumam.
+content-blocking-description = Bloķējiet trešās puses saturu, kas izseko jums tīmeklī. Kontrolējiet, cik liela daļa no jūsu tiešsaistes darbībām tiek glabāta un kopīgota starp vietnēm.
 content-blocking-learn-more = Uzzināt vairāk
 content-blocking-restore-defaults =
     .label = Atjaunot sākotnējos
@@ -684,6 +695,25 @@ content-blocking-fastblock-slow-loading-trackers-label =
     .label = Izsekotājus, kas lādējas lēnu
     .accesskey = s
 content-blocking-fastblock-new-description = Bloķēt tikai sekotājus, kas neļauj lapām ielādēties ātri.
+content-blocking-setting-standard =
+    .label = Standarta
+    .accesskey = d
+content-blocking-setting-strict =
+    .label = Strikts
+    .accesskey = r
+content-blocking-setting-custom =
+    .label = Pielāgots
+    .accesskey = P
+content-blocking-standard-desc = Līdzsvarots aizsardzībai un veiktspējai. Ļauj dažiem izsekotājiem strādāt, lai vietnes darbojas pareizi.
+content-blocking-strict-desc = Bloķē visus izsekotājus, ko { -brand-short-name } atrod. Dažas lapas var nestrādāt.
+content-blocking-custom-desc = Izvēlies, ko bloķēt.
+content-blocking-private-trackers = Pazīstamos izsekotājus tikai privātajā logā
+content-blocking-third-party-cookies = Trešo pušu izsekošanas sīkfailus
+content-blocking-all-windows-trackers = Pazīstamos izsekotājus visos logos
+content-blocking-all-third-party-cookies = Visus trešo personu sīkfailus
+content-blocking-warning-title = Galvas augšu!
+content-blocking-warning-desc = Bloķējot sīkfailus un izsekotājus, dažas lapas var sabojāties. Varat atslēgt bloķēšanu lapās, kurām uzticaties.
+content-blocking-learn-how = Uzziniet kā
 content-blocking-tracking-protection-trackers-label =
     .label = Izsekotāji
     .accesskey = t
@@ -719,6 +749,9 @@ content-blocking-reject-trackers-block-trackers-option =
 content-blocking-reject-trackers-all-third-parties-option =
     .label = Visas trešo pušu sīkdatnes (dažas lapas var saplīst)
     .accesskey = a
+content-blocking-cookies-label =
+    .label = Sīkdatnes
+    .accesskey = S
 
 ## Privacy Section - Tracking
 
@@ -740,6 +773,9 @@ tracking-exceptions =
 tracking-change-block-list =
     .label = Mainīt bloķēto sarakstu…
     .accesskey = M
+tracking-manage-exceptions =
+    .label = Pārvaldīt izņēmumus ...
+    .accesskey = d
 
 ## Privacy Section - Permissions
 
