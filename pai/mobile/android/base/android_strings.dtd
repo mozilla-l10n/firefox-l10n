@@ -27,12 +27,6 @@
 <!ENTITY firstrun_button_next "Nulkpeeb">
 
 <!ENTITY firstrun_tabqueue_title "Ñukpachuha">
-<!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
-<!ENTITY firstrun_tabqueue_message_off "Ch chkwuchu maat ñul kpeeb">
-<!ENTITY firstrun_tabqueue_subtext_off "Maat ukchpach ch chkwaach miib &brandShortName; ha pay miib trchechu jkaayk ñtwaŕchum.">
-
-<!ENTITY firstrun_tabqueue_message_on "Januli!">
-<!ENTITY firstrun_tabqueue_subtext_on "Pichtem mozilla hak ya mujin kyaaw yuk &settings; ham.">
 
 <!ENTITY firstrun_readerview_title "Chapayt">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
@@ -69,7 +63,6 @@
 <!ENTITY  crash_restart_label "&brandShortName;namaan">
 
 <!ENTITY url_bar_default_text2 "ŕmee tñur paa eemch solch">
-
 <!-- Localization note (url_bar_qrcode_text2) : This text will be
      heard by non-visual users when the focus is on the QR Code
      icon in the url bar. -->
@@ -213,7 +206,6 @@
      “storing data”. -->
 <!ENTITY pref_category_advanced_summary3 "Ch chkwachu chajanch">
 <!ENTITY pref_category_notifications "Chknabchu">
-<!ENTITY pref_category_notifications_summary "Kabyuwu baam yak, web ha baam kyakuha mtyaam">
 <!ENTITY pref_category_notifications_summary2 "Chubowchu baam yaak, chapayt m\&apos;uuyuuk yoon">
 <!ENTITY pref_developer_remotedebugging_usb "USB ham ñulyomuk tkryee">
 <!ENTITY pref_developer_remotedebugging_wifi "Wi-Fi ham ñulyomuk tkryee">
@@ -297,6 +289,16 @@
      Similar to the already existing "pref_whats_new_notification_summary"-->
 <!ENTITY pref_feature_tips_notification_summary "Chatrñerabum kabwik &brandShortName; ñumyaabchu ha ŕpo yaŕaal &vendorShortName; ham nyaam Ka">
 
+<!-- Localization note (pref_feature_tips_notification_enabling_hint):
+     Describe the action the user should do to enable this preference
+     Will be used in the context "<Turn on> ... to enable this feature" -->
+
+<!-- Localization note (pref_feature_tips_notification_enabling_path):
+     Nothing to translate. Simple concatenation of already localized strings. Result is used below. -->
+<!ENTITY pref_feature_tips_notification_enabling_path "&pref_category_privacy_short; > &pref_category_datareporting; > &datareporting_fhr_title;">
+<!-- Localization note (pref_feature_tips_notification_enabling_hint):
+     Describe the action the user should do to enable this preference. -->
+
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
 <!ENTITY pref_category_experimental "Chmŕpoyiib kabyuwuha">
@@ -370,7 +372,6 @@ chab mtñur">
 <!ENTITY pref_use_system_font_size_summary "Chpayt web hal kyoha chamuyomuk tñur sal kyak cabyum ñmyoka">
 
 <!ENTITY pref_media_autoplay_enabled "Byaw ik tñurcha mnmak">
-<!ENTITY pref_media_autoplay_enabled_summary "Web yaku mŕbok yay videey byaw ik chubowumyuso, o chaoayt yañkŕal ha chubooyumyuso">
 <!ENTITY pref_zoom_force_enabled "Sam yamu pichtem msolwaŕit">
 <!ENTITY pref_zoom_force_enabled_summary "Chab tñuruha wilum m\&apos;aam jabchu ha tubtewu o tchinkoshu kabyuwuya">
 <!ENTITY pref_voice_input "Kwawu jabu">
@@ -831,9 +832,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE(corrupt_apk): This notification is shown if corruption has been detected on startup and the user has to reinstall Firefox -->
 <!ENTITY corrupt_apk "&brandShortName; solch yutem. Mtkweek ñuk mchgo, pay mib mtkweek mwiyi.">
 
-<!ENTITY eol_notification_title2 "&brandShortName; pay kos maat chajantema">
-<!ENTITY eol_notification_summary "Mtawin choayt terabm mŕpohikyawa">
-
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "&brandShortName; kur maat chajan">
@@ -893,3 +891,12 @@ See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
 
 <!-- Used by accessibility services to identify the play/pause buttons shown in the
 Picture-in-picture mini window -->
+
+<!-- Notification channels names -->
+<!ENTITY default_notification_channel "&brandShortName;">
+
+<!-- Notification channels names -->
+<!-- These push notifications come without a specific channel and/or name from Leanplum -->
+<!-- These push notifications come without a specific channel and/or name from Leanplum -->
+<!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
+web sites through the HTML Notifications API. -->
