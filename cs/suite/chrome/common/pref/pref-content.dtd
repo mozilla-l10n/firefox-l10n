@@ -41,3 +41,5 @@
 <!ENTITY allowHWAccel.accesskey                 "h">
 <!ENTITY blockAutoRefresh.label                 "Varovat, pokud se stránka pokouší o přesměrování nebo obnovení">
 <!ENTITY blockAutoRefresh.accesskey             "u">
+
+<!ENTITY showZoomStatusPanel.label              "Zobrazit ovládání lupy ve stavovém řádku">
