@@ -698,6 +698,7 @@ content-blocking-toggle-label-off = DISATTIVATO
     .accesskey = D
 
 content-blocking-category-label = Scegli che cosa bloccare
+content-blocking-standard-description = Blocca solo elementi tracciati conosciuti in finestre anonime.
 content-blocking-standard-desc = Il perfetto equilibrio tra protezione e prestazioni. Consenti alcuni elementi traccianti in modo da garantire il corretto funzionamento dei siti.
 content-blocking-strict-desc = Blocca tutti gli elementi traccianti rilevati da { -brand-short-name }. Alcuni siti potrebbero non funzionare correttamente.
 content-blocking-custom-desc = Scegli che cosa bloccare.
