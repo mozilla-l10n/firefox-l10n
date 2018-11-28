@@ -80,6 +80,6 @@ connection-dns-over-https-url-default =
     .accesskey = D
     .tooltiptext = Defnyddiwch yr URL rhagosodedig ar gyfer datrys DNS dros HTTPS
 connection-dns-over-https-url-custom =
-    .label = Cyfaddas
+    .label = Cyfaddasu
     .accesskey = C
     .tooltiptext = Rhowch eich hoff URL ar gyfer datrys DNS dros HTTPS
