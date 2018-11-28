@@ -23,5 +23,7 @@
 <!ENTITY paneAdvanced.title       "Aurreratua">
 <!ENTITY paneAccount.title        "Kontuak">
 
+<!ENTITY addonsButton.label       "Hedapenak eta Gaiak">
+
 <!ENTITY okButton.title           "Ados">
 <!ENTITY okButton.accesskey       "A">

@@ -50,3 +50,9 @@
 <!ENTITY  dnsOverHttpsUrl.label         "URLa">
 <!ENTITY  dnsOverHttpsUrl.accesskey     "R">
 <!ENTITY  dnsOverHttpsUrl.tooltip       "URLa DNS ebazteko HTTPS gainean">
+<!ENTITY  dnsOverHttpsUrlDefault.label     "Erabili lehenetsia">
+<!ENTITY  dnsOverHttpsUrlDefault.accesskey "l">
+<!ENTITY  dnsOverHttpsUrlDefault.tooltip   "Erabili URL lehenetsia DNSa ebazteko HTTPS gainean">
+<!ENTITY  dnsOverHttpsUrlCustom.label      "Pertsonalizatua">
+<!ENTITY  dnsOverHttpsUrlCustom.accesskey  "P">
+<!ENTITY  dnsOverHttpsUrlCustom.tooltip    "Sartu zure URL hobetsia DNSa ebazteko HTTPS gainean">

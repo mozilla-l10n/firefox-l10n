@@ -103,3 +103,4 @@ functionality specific to thunderbird. -->
 <!ENTITY blockedByPolicy.title "Blokeatutako orria">
 
 <!ENTITY networkProtocolError.title "Sare-protokoloaren errorea">
+<!ENTITY networkProtocolError.longDesc "<p>Ikusten saiatzen ari zaren orria ezin da erakutsi sare protokoloan errore bat detektatu delako.</p><ul><li>Jarri harremanetan gunearen arduradunarekin arazo honen berri emateko.</li></ul>">
