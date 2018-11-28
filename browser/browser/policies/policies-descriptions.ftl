@@ -12,21 +12,32 @@
 
 policy-AppUpdateURL = Permet de definir una URL de mesa a jorn personalizada per l’aplicacion.
 policy-BlockAboutConfig = Blòca l’accès a la pagina about:config.
-policy-BlockAboutProfiles = Bloca l’accès a la pagina about:profiles.
-policy-BlockAboutSupport = Bloca l’accès a la pagina about:support
-policy-Cookies = Permet o defend als sites de definir de cookies
-policy-DisableAppUpdate = Empacha lo navegador de se metre a jorn.
-policy-DisableBuiltinPDFViewer = Desactiva PDF.js, la visualizaira integrada de PDF de { -brand-short-name }.
-policy-DisableDeveloperTools = Bloca l’accès a las aisinas de desvolopament.
+policy-BlockAboutProfiles = Blòca l’accès a la pagina about:profiles.
+policy-BlockAboutSupport = Blòca l’accès a la pagina about:support.
+policy-CertificatesDescription = Apondre de certificats o utilizar de certificats predefinits.
+policy-Cookies = Permet o defend als sites de definir de cookies.
+policy-DisableAppUpdate = Empacha lo navigador de se metre a jorn.
+policy-DisableBuiltinPDFViewer = Desactiva PDF.js, lo visionador integrat de PDF dins { -brand-short-name }.
+policy-DisableDeveloperTools = Blòca l’accès a las aisinas de desvolopament.
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Desactivar la foncionalitat de presa de capture Firefox Screenshots.
 policy-DisableFirefoxStudies = Empacha { -brand-short-name } d’executar d’estudis.
 policy-DisableForgetButton = Empacha l’accès al boton d’escafament de las donadas.
 policy-DisableFormHistory = Conservar pas d’istoric de las recèrcas e dels formularis.
-policy-DisablePrivateBrowsing = Desactivar la navegacion privada.
+policy-DisableMasterPasswordCreation = Se activat, serà impossible de crear un senhal principal.
+policy-DisablePocket = Desactiva la foncionalitat d’enregistrament de paginas web dins Pocket.
+policy-DisablePrivateBrowsing = Desactiva la navigacion privada.
 policy-DisableTelemetry = Desactiva la telemetria.
 policy-DisplayBookmarksToolbar = Aficha la barra personala per defaut.
 policy-DisplayMenuBar = Aficha la barra de menús per defaut.
 policy-DNSOverHTTPS = Permet de configurar lo DNS over HTTPS.
+policy-FlashPlugin = Autoriza o pas l’utilizacion del plugin Flash.
+policy-HardwareAcceleration = Se fals, desactiva l’acceleracion materiala.
+# “lock” means that the user won’t be able to change this setting
+policy-Homepage = Definís la pagina d’acuèlh e prepausa de la verrolhar.
+policy-InstallAddonsPermission = Autoriza certans sites web d'installar d'extensions.
 policy-Permissions = Configurar las autorizacions per la camèra, lo microfòn, lo localizacion e las notificacions.
 policy-Proxy = Configura los paramètres del servidor mandatari.
+policy-SanitizeOnShutdown = Suprimís totas las donadas de navigacion a la tampadura.
+# For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
+policy-SecurityDevices = Permet d’installar de moduls PKCS #11.
