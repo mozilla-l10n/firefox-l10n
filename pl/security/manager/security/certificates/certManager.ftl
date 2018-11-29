@@ -4,6 +4,10 @@
 
 certmgr-title =
     .title = Menedżer certyfikatów
+certmgr-tab-mine =
+    .label = Użytkownik
+certmgr-tab-people =
+    .label = Osoby
 certmgr-tab-servers =
     .label = Serwery
 certmgr-tab-ca =
@@ -69,6 +73,9 @@ certmgr-view =
 certmgr-delete =
     .label = Usuń…
     .accesskey = U
+certmgr-delete-builtin =
+    .label = Usuń lub przestań ufać…
+    .accesskey = U
 certmgr-backup =
     .label = Kopia zapasowa…
     .accesskey = K
@@ -86,6 +93,9 @@ certmgr-fields =
     .accesskey = a
 exception-mgr =
     .title = Dodanie wyjątku bezpieczeństwa
+exception-mgr-extra-button =
+    .label = Potwierdź wyjątek bezpieczeństwa
+    .accesskey = P
 exception-mgr-cert-location-url =
     .value = Adres:
 exception-mgr-cert-location-download =
@@ -94,12 +104,16 @@ exception-mgr-cert-location-download =
 exception-mgr-cert-status-view-cert =
     .label = Wyświetl…
     .accesskey = W
+exception-mgr-permanent =
+    .label = Zachowaj ten wyjątek na stałe
+    .accesskey = Z
 pk11-bad-password = Wprowadzone hasło tokenu jest nieprawidłowe.
 
 ## PKCS#12 file dialogs
 
 choose-p12-backup-file-dialog = Nazwa pliku kopii zapasowej
 file-browse-pkcs12-spec = Pliki PKCS12
+choose-p12-restore-file-dialog = Plik certyfikatu do zaimportowania
 
 ## Import certificate(s) file dialog
 
@@ -118,6 +132,10 @@ delete-user-cert-confirm = Czy na pewno usunąć wybrane certyfikaty?
 delete-ssl-cert-title =
     .title = Usuń wyjątek dotyczący certyfikatu serwera
 delete-ssl-cert-confirm = Czy na pewno usunąć te wyjątki dotyczące certyfikatów serwerów?
+delete-ca-cert-title =
+    .title = Usuń lub przestań ufać certyfikatom CA
+delete-ca-cert-confirm = Zażądano usunięcia certyfikatów CA. Certyfikaty wbudowane przestaną być zaufane, co ma taki sam skutek. Czy na pewno usunąć lub przestać ufać wybranym certyfikatom CA?
+delete-ca-cert-impact = Jeżeli certyfikat organu certyfikacji (CA) zostanie usunięty lub przestanie być zaufany, certyfikaty wydane przez ten CA nie będą uznawane przez program za zaufane.
 delete-email-cert-title =
     .title = Usuń certyfikaty e-mail
 delete-email-cert-confirm = Czy na pewno usunąć certyfikaty e-mail wybranych osób?
@@ -147,12 +165,14 @@ cert-not-verified-cert-not-trusted = Nie można sprawdzić tego certyfikatu, pon
 cert-not-verified-issuer-not-trusted = Nie można sprawdzić tego certyfikatu: wystawcy nie ma na liście zaufanych.
 cert-not-verified-issuer-unknown = Nie można sprawdzić tego certyfikatu, ponieważ jego wystawca jest nieznany.
 cert-not-verified-ca-invalid = Nie można sprawdzić tego certyfikatu, ponieważ jego CA jest nieprawidłowy.
+cert-not-verified_algorithm-disabled = Nie można sprawdzić tego certyfikatu, ponieważ został podpisany algorytmem, który został zablokowany, ponieważ nie jest bezpieczny.
 
 ## Add Security Exception dialog
 
 add-exception-invalid-header = Ta witryna próbuje zidentyfikować się przy użyciu nieprawidłowych informacji.
 add-exception-domain-mismatch-short = Niewłaściwa witryna
 add-exception-expired-short = Informacje nieaktualne
+add-exception-unverified-or-bad-signature-short = Tożsamość nieznana
 add-exception-valid-short = Certyfikat prawidłowy
 add-exception-checking-short = Sprawdzanie informacji
 add-exception-no-cert-short = Brak dostępnych informacji
