@@ -12,6 +12,10 @@ certmgr-tab-servers =
     .label = Serwery
 certmgr-tab-ca =
     .label = Organy certyfikacji
+certmgr-mine = Masz identyfikujące certyfikaty z następujących organizacji:
+certmgr-people = Masz certyfikaty, które identyfikują następujące osoby:
+certmgr-servers = Masz certyfikaty, które identyfikują następujące serwery:
+certmgr-ca = Masz certyfikaty, które identyfikują następujące organy certyfikacji:
 certmgr-detail-general-tab-title =
     .label = Ogólne
     .accesskey = O
@@ -22,6 +26,8 @@ certmgr-subject-info-label =
     .value = Wystawiony dla
 certmgr-issuer-info-label =
     .value = Wystawiony przez
+certmgr-period-of-validity-label =
+    .value = Okres ważności
 certmgr-fingerprints-label =
     .value = Odciski
 certmgr-cert-detail =
@@ -36,6 +42,8 @@ certmgr-cert-detail-ou =
     .value = Jednostka organizacyjna (OU)
 certmgr-cert-detail-serialnumber =
     .value = Numer seryjny
+certmgr-cert-detail-sha256-fingerprint =
+    .value = Odcisk SHA-256
 certmgr-cert-detail-sha1-fingerprint =
     .value = Odcisk SHA1
 certmgr-edit-ca-cert =
@@ -57,6 +65,8 @@ certmgr-override-lifetime =
     .label = Czas życia
 certmgr-token-name =
     .label = Urządzenie zabezpieczające
+certmgr-begins-label =
+    .label = Ważny od dnia
 certmgr-begins-value =
     .value = { certmgr-begins-label.label }
 certmgr-expires-label =
@@ -91,11 +101,15 @@ certmgr-details =
 certmgr-fields =
     .value = Wartość pola
     .accesskey = a
+certmgr-hierarchy =
+    .value = Hierarchia certyfikatu
+    .accesskey = H
 exception-mgr =
     .title = Dodanie wyjątku bezpieczeństwa
 exception-mgr-extra-button =
     .label = Potwierdź wyjątek bezpieczeństwa
     .accesskey = P
+exception-mgr-supplemental-warning = Godne zaufania witryny, banki i inne witryny publiczne nie powinny tego żądać.
 exception-mgr-cert-location-url =
     .value = Adres:
 exception-mgr-cert-location-download =
@@ -108,6 +122,12 @@ exception-mgr-permanent =
     .label = Zachowaj ten wyjątek na stałe
     .accesskey = Z
 pk11-bad-password = Wprowadzone hasło tokenu jest nieprawidłowe.
+pkcs12-decode-err = Dekodowanie pliku nie powiodło się. Plik nie jest w formacie PKCS #12, jest uszkodzony lub wprowadzone hasło jest nieprawidłowe.
+pkcs12-unknown-err-restore = Nie udało się odtworzyć kopii bezpieczeństwa PKCS #12 z nieznanych powodów.
+pkcs12-unknown-err-backup = Nie udało się utworzyć kopii bezpieczeństwa PKCS #12 z nieznanych powodów.
+pkcs12-unknown-err = Operacja PKCS #12 nie powiodła się z nieznanych powodów.
+pkcs12-info-no-smartcard-backup = Zachowanie kopii certyfikatu zapisanego w urządzeniu zabezpieczającym, jak np. inteligentna karta, jest niemożliwe.
+pkcs12-dup-data = To urządzenie zabezpieczające ma już certyfikat oraz klucz prywatny.
 
 ## PKCS#12 file dialogs
 
@@ -123,15 +143,20 @@ import-email-cert-prompt = Wybierz plik zawierający certyfikat e-mail innej oso
 
 ## For editing certificates trust
 
+# Variables:
+#   $certName: the name of certificate
+edit-trust-ca = Certyfikat „{ $certName }” reprezentuje organ certyfikacji.
 
 ## For Deleting Certificates
 
 delete-user-cert-title =
     .title = Usuń własne certyfikaty
 delete-user-cert-confirm = Czy na pewno usunąć wybrane certyfikaty?
+delete-user-cert-impact = Usunięcie jednego z certyfikatów użytkownika spowoduje, że ponowne wykorzystanie go do potwierdzenia tożsamości użytkownika będzie niemożliwe.
 delete-ssl-cert-title =
     .title = Usuń wyjątek dotyczący certyfikatu serwera
 delete-ssl-cert-confirm = Czy na pewno usunąć te wyjątki dotyczące certyfikatów serwerów?
+delete-ssl-cert-impact = Jeżeli wyjątek dotyczący certyfikatu serwera zostanie usunięty, przywrócone zostaną zwykłe procedury bezpieczeństwa dla tego serwera, w tym wymóg stosowania przez niego poprawnego certyfikatu.
 delete-ca-cert-title =
     .title = Usuń lub przestań ufać certyfikatom CA
 delete-ca-cert-confirm = Zażądano usunięcia certyfikatów CA. Certyfikaty wbudowane przestaną być zaufane, co ma taki sam skutek. Czy na pewno usunąć lub przestać ufać wybranym certyfikatom CA?
@@ -140,9 +165,21 @@ delete-email-cert-title =
     .title = Usuń certyfikaty e-mail
 delete-email-cert-confirm = Czy na pewno usunąć certyfikaty e-mail wybranych osób?
 delete-email-cert-impact = Jeśli certyfikat e-mail danej osoby zostanie usunięty, nie będzie można do niej wysłać zaszyfrowanych wiadomości.
+# Used for semi-uniquely representing a cert.
+#
+# Variables:
+#   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
+cert-with-serial =
+    .value = Certyfikat o numerze seryjnym { $serialNumber }
 
 ## Cert Viewer
 
+# Title used for the Certificate Viewer.
+#
+# Variables:
+#   $certificate : a string representative of the certificate being viewed.
+cert-viewer-title =
+    .title = Podgląd certyfikatu: „{ $certName }”
 not-present =
     .value = <Nie jest częścią certyfikatu>
 # Cert verification
@@ -166,13 +203,21 @@ cert-not-verified-issuer-not-trusted = Nie można sprawdzić tego certyfikatu: w
 cert-not-verified-issuer-unknown = Nie można sprawdzić tego certyfikatu, ponieważ jego wystawca jest nieznany.
 cert-not-verified-ca-invalid = Nie można sprawdzić tego certyfikatu, ponieważ jego CA jest nieprawidłowy.
 cert-not-verified_algorithm-disabled = Nie można sprawdzić tego certyfikatu, ponieważ został podpisany algorytmem, który został zablokowany, ponieważ nie jest bezpieczny.
+cert-not-verified-unknown = Nie można sprawdzić tego certyfikatu z nieznanych przyczyn.
 
 ## Add Security Exception dialog
 
+add-exception-branded-warning = Próba zmiany sposobu, w jaki { -brand-short-name } identyfikuje tę witrynę.
 add-exception-invalid-header = Ta witryna próbuje zidentyfikować się przy użyciu nieprawidłowych informacji.
 add-exception-domain-mismatch-short = Niewłaściwa witryna
+add-exception-domain-mismatch-long = Certyfikat należy do innej witryny, co może wskazywać na podszywanie się pod stronę.
 add-exception-expired-short = Informacje nieaktualne
+add-exception-expired-long = Certyfikat nie jest obecnie aktualny. Mógł zostać zagubiony lub skradziony i może być wykorzystywany do podszywania się pod stronę.
 add-exception-unverified-or-bad-signature-short = Tożsamość nieznana
+add-exception-unverified-or-bad-signature-long = Certyfikat nie jest zaufany, ponieważ nie został zweryfikowany jako wystawiony przez zaufany organ przy użyciu bezpiecznego podpisu.
 add-exception-valid-short = Certyfikat prawidłowy
+add-exception-valid-long = Ta witryna dostarcza prawidłowych i zweryfikowanych informacji identyfikujących. Nie ma potrzeby dodawania wyjątku.
 add-exception-checking-short = Sprawdzanie informacji
+add-exception-checking-long = Próba identyfikacji witryny…
 add-exception-no-cert-short = Brak dostępnych informacji
+add-exception-no-cert-long = Nie udało się pobrać statusu identyfikacji tej witryny.
