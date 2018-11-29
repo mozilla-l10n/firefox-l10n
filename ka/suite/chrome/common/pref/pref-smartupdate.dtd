@@ -5,7 +5,7 @@
 <!--LOCALIZATION NOTE : FILE UI for Software Updates prefs -->
 <!ENTITY pref.smartUpdate.title               "პროგრამების ჩადგმა">
 <!ENTITY addOnsTitle.label                    "მოდულები">
-<!ENTITY addOnsAllow.label                    "ვებსაიტებისთვის პაკეტებისა და განახლებების ჩადგმის ნებართვა">
+<!ENTITY addOnsAllow.label                    "ვებსაიტებისთვის დამატებებისა და განახლებების ჩადგმის ნებართვა">
 <!ENTITY addOnsAllow.accesskey                "b">
 <!ENTITY allowedSitesLink.label               "უფლებამოსილი საიტები">
 <!ENTITY autoAddOnsUpdates.label              "თვითშემოწმება განახლებაზე">
@@ -27,7 +27,5 @@
 <!ENTITY appWeekly.accesskey                  "e">
 <!ENTITY appModeAutomatic.label               "განახლების თვითჩამოტვირთვა და ჩადგმა">
 <!ENTITY appModeAutomatic.accesskey           "u">
-<!ENTITY appModeAutoAddonWarn.label           "გამაფრთხილე თუ ამ დროს ჩემი რომელიმე მოდული ამოირთვება">
-<!ENTITY appModeAutoAddonWarn.accesskey       "n">
 <!ENTITY updateHistoryButton.label            "განახლების ისტორიის ჩვენება…">
 <!ENTITY updateHistoryButton.accesskey        "S">
