@@ -5,7 +5,7 @@
 <!ENTITY safeModeDialog.title             "&brandShortName; უსაფრთხო რეჟიმი">
 <!ENTITY window.width                     "37em">
 
-<!ENTITY safeModeDescription.label        "&brandShortName; უსაფრთხო რეჟიმშია, რომლის დროსაც დროებით ამოიღტვება თქვენი პარამეტრები, თემები და პაკეტები.">
+<!ENTITY safeModeDescription.label        "&brandShortName; უსაფრთხო რეჟიმშია, რომლის დროსაც დროებით ამოირთვება თქვენი პარამეტრები, თემები და გაფართოებები.">
 <!ENTITY safeModeDescription2.label       "ზოგი ან ყველა ცვლილება შესაძლებელია მიუთითოთ, როგორც მუდმივი:">
 
 <!ENTITY disableAddons.label              "ყველა მოდულის ამორთვა">
