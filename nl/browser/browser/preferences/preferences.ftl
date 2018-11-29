@@ -894,7 +894,7 @@ content-blocking-tracking-protection-option-always =
   .accesskey = A
 content-blocking-tracking-protection-option-private =
   .label = Alleen in privévensters
-  .accesskey = p
+  .accesskey = r
 
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
@@ -908,6 +908,7 @@ content-blocking-setting-custom =
   .label = Aangepast
   .accesskey = A
 
+content-blocking-standard-description = Blokkeert alleen bekende trackers in privévensters.
 content-blocking-standard-desc = Gebalanceerd voor bescherming en prestaties. Staat bepaalde trackers toe, zodat websites goed werken.
 content-blocking-strict-desc = Blokkeert alle trackers die { -brand-short-name } detecteert. Kan ervoor zorgen dat bepaalde websites niet goed werken.
 content-blocking-custom-desc = Kies wat er wordt geblokkeerd.
@@ -919,7 +920,7 @@ content-blocking-all-third-party-cookies = Alle cookies van derden
 
 content-blocking-warning-title = Let op!
 content-blocking-warning-desc = Het blokkeren van cookies kan ervoor zorgen dat bepaalde websites niet goed werken. Blokkering kan eenvoudig worden uitgeschakeld voor websites die u vertrouwt.
-content-blocking-learn-how = Lezen hoe
+content-blocking-learn-how = Meer info
 
 content-blocking-trackers-label =
     .label = Trackers
@@ -929,7 +930,7 @@ content-blocking-tracking-protection-option-all-windows =
   .accesskey = a
 content-blocking-option-private =
     .label = Alleen in privévensters
-    .accesskey = p
+    .accesskey = r
 content-blocking-tracking-protection-change-block-list = Blokkeerlijst wijzigen
 
 content-blocking-third-party-cookies-label =
