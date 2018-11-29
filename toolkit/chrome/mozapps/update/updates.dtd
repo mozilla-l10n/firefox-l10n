@@ -37,7 +37,7 @@
 <!ENTITY  connecting.label                "დაკავშირება განახლების სერვერთან…">
 <!ENTITY  verificationFailedText.label    "&brandShortName; ვერ ამოწმებს ჩამოტვირთული ზრდადი 
 განახლების მთლიანობას, ასე რომ, იგი ჩამოტვირთავს 
-განახლების სრულ პაკეტს.">
+განახლების სრულ ნაკრებს.">
 
 <!ENTITY  viewDetails.tooltip             "განახლების მონაცემების ნახვა">
 

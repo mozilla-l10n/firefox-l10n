@@ -40,7 +40,7 @@
 <!ENTITY warning.updatesecurity.enable.tooltip     "დამატებების განახლების უსაფრთხოების შემოწმების ჩართვა">
 
 <!-- categories / views -->
-<!ENTITY view.discover.label                  "კატალოგი">
+<!ENTITY view.discover.label                  "ჩამონათვალი">
 <!ENTITY view.recentUpdates.label             "ბოლო განახლებები">
 <!ENTITY view.availableUpdates.label          "ხელმისწვდომი განახლებები">
 
@@ -87,6 +87,7 @@
 <!ENTITY cmd.preferencesUnix.label            "მითითებები">
 <!ENTITY cmd.preferencesUnix.accesskey        "თ">
 
+<!-- addon actions -->
 <!ENTITY cmd.enableAddon.label                "ჩართვა">
 <!ENTITY cmd.enableAddon.accesskey            "ჩ">
 <!ENTITY cmd.disableAddon.label               "ამორთვა">
@@ -95,6 +96,7 @@
 <!ENTITY cmd.enableTheme.accesskey            "გ">
 <!ENTITY cmd.disableTheme.label               "თემის მორგების შეჩერება">
 <!ENTITY cmd.disableTheme.accesskey           "გ">
+
 <!ENTITY cmd.askToActivate.label              "ნებართვა გასაშვებად">
 <!ENTITY cmd.askToActivate.tooltip            "ნებართვა, დამატების ყოველი გაშვების წინ">
 <!ENTITY cmd.alwaysActivate.label             "ყოველთვის გაეშვას">
@@ -104,6 +106,7 @@
 <!ENTITY cmd.stateMenu.tooltip                "აირჩიეთ, როდის გაეშვას ეს დამატება">
 <!ENTITY cmd.installAddon.label               "ჩადგმა">
 <!ENTITY cmd.installAddon.accesskey           "ი">
+
 <!ENTITY cmd.uninstallAddon.label             "ამოშლა">
 <!ENTITY cmd.uninstallAddon.accesskey         "ა">
 <!ENTITY cmd.showPreferencesWin.label         "გამართვა">
@@ -165,9 +168,12 @@
 
 <!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "პაუზა">
+
+<!-- download/install progress -->
 <!ENTITY progress.cancel.tooltip              "გაუქმება">
 
 <!ENTITY addon.homepage                       "მთავარი გვერდი">
+
 <!ENTITY addon.details.label                  "ვრცლად">
 <!ENTITY addon.details.tooltip                "ვრცლად ამ დამატების შესახებ">
 <!ENTITY addon.unknownDate                    "უცნობი">
@@ -189,6 +195,7 @@
 <!ENTITY addon.undoRemove.label               "დაბრუნება">
 <!ENTITY addon.undoRemove.tooltip             "დაყენებული დამატების დატოვება">
 <!ENTITY addon.restartNow.label               "ხელახლა გაშვება">
+
 <!ENTITY addon.install.label                  "ჩადგმა">
 <!ENTITY addon.install.tooltip                "დამატების ჩადგმა">
 <!ENTITY addon.updateNow.label                "განახლება">
