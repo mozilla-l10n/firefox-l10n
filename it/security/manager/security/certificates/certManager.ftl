@@ -39,6 +39,9 @@ delete-ssl-cert-title =
 delete-ssl-cert-confirm = Eliminare queste eccezioni?
 delete-ca-cert-title =
     .title = Elimina o considera inattendibili certificati CA
+delete-email-cert-title =
+    .title = Eliminazione certificati email
+delete-email-cert-confirm = Eliminare i certificati email di queste persone?
 
 ## Cert Viewer
 
@@ -53,6 +56,10 @@ verify-ssl-server =
     .value = Certificato server SSL
 verify-ssl-ca =
     .value = Autorità di certificazione SSL
+verify-email-signer =
+    .value = Certificato firmatario email
+verify-email-recip =
+    .value = Certificato email destinatario
 # Cert verification
 cert-not-verified-cert-revoked = Non è possibile verificare questo certificato in quanto revocato.
 cert-not-verified-cert-expired = Non è possibile verificare questo certificato in quanto scaduto.
@@ -60,6 +67,7 @@ cert-not-verified-cert-not-trusted = Non è possibile verificare questo certific
 cert-not-verified-issuer-not-trusted = Non è possibile verificare questo certificato in quanto non si è dato fiducia a chi lo ha rilasciato.
 cert-not-verified-issuer-unknown = Non è possibile verificare questo certificato in quanto non è individuabile chi lo ha rilasciato.
 cert-not-verified-ca-invalid = Non è possibile verificare questo certificato in quanto la CA del certificato non è valida.
+cert-not-verified_algorithm-disabled = Impossibile verificare questo certificato in quanto è stato firmato con un algoritmo di firma disattivato perché non sicuro.
 cert-not-verified-unknown = Non è possibile verificare questo certificato per motivi sconosciuti.
 
 ## Add Security Exception dialog
@@ -68,6 +76,7 @@ add-exception-branded-warning = Si sta per modificare il modo in cui { -brand-sh
 add-exception-invalid-header = Il sito ha cercato di identificarsi fornendo informazioni non valide.
 add-exception-domain-mismatch-short = Sito errato
 add-exception-expired-short = Informazioni obsolete
+add-exception-unverified-or-bad-signature-short = Identità sconosciuta
 add-exception-valid-short = Certificato valido
 add-exception-checking-short = Controllo informazioni
 add-exception-no-cert-short = Nessuna informazione disponibile
