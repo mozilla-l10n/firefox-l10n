@@ -22,6 +22,8 @@ certmgr-subject-info-label =
     .value = Uitgegeven aan
 certmgr-issuer-info-label =
     .value = Uitgegeven door
+certmgr-period-of-validity-label =
+    .value = Geldigheidsduur
 certmgr-fingerprints-label =
     .value = Vingerafdrukken
 certmgr-cert-detail =
@@ -36,6 +38,8 @@ certmgr-cert-detail-ou =
     .value = Organisatorische eenheid (OU)
 certmgr-cert-detail-serialnumber =
     .value = Serienummer
+certmgr-cert-detail-sha256-fingerprint =
+    .value = SHA-256-vingerafdruk
 certmgr-cert-detail-sha1-fingerprint =
     .value = SHA1-vingerafdruk
 certmgr-edit-ca-cert =
@@ -57,6 +61,8 @@ certmgr-override-lifetime =
     .label = Levensduur
 certmgr-token-name =
     .label = Beveiligingsapparaat
+certmgr-begins-label =
+    .label = Begint op
 certmgr-begins-value =
     .value = { certmgr-begins-label.label }
 certmgr-expires-label =
@@ -70,15 +76,30 @@ certmgr-serial =
 certmgr-view =
     .label = Weergeven…
     .accesskey = W
+certmgr-edit =
+    .label = Vertrouwen bewerken…
+    .accesskey = b
 certmgr-export =
     .label = Exporteren…
     .accesskey = x
 certmgr-delete =
     .label = Verwijderen…
     .accesskey = V
+certmgr-delete-builtin =
+    .label = Verwijderen of wantrouwen…
+    .accesskey = V
 certmgr-backup =
     .label = Reservekopie maken…
     .accesskey = R
+certmgr-backup-all =
+    .label = Reservekopie van alle maken…
+    .accesskey = k
+certmgr-restore =
+    .label = Importeren…
+    .accesskey = m
+certmgr-details =
+    .value = Certificaatvelden
+    .accesskey = f
 certmgr-fields =
     .value = Veldwaarde
     .accesskey = V
@@ -87,6 +108,9 @@ certmgr-add-exception =
     .accesskey = U
 exception-mgr =
     .title = Beveiligingsuitzondering toevoegen
+exception-mgr-extra-button =
+    .label = Beveiligingsuitzondering bevestigen
+    .accesskey = b
 exception-mgr-supplemental-warning = Legitieme banken, winkels en andere publieke websites zullen dit niet vragen.
 exception-mgr-cert-location-url =
     .value = Locatie:
@@ -103,11 +127,13 @@ pk11-bad-password = Het ingevoerde wachtwoord is onjuist.
 pkcs12-unknown-err-restore = Het herstellen van het PKCS #12-bestand is om onbekende redenen mislukt.
 pkcs12-unknown-err-backup = Het maken van een reservekopie van het PKCS #12-bestand is om onbekende redenen mislukt.
 pkcs12-unknown-err = De PKCS #12-verwerking is om onbekende redenen mislukt.
+pkcs12-info-no-smartcard-backup = Het is niet mogelijk om een reservekopie te maken van certificaten die op een beveiligingsapparaat, zoals een smartcard, staan.
 
 ## PKCS#12 file dialogs
 
 choose-p12-backup-file-dialog = Bestandsnaam voor reservekopie
 file-browse-pkcs12-spec = PKCS12-bestanden
+choose-p12-restore-file-dialog = Certificaatbestand voor importeren
 
 ## Import certificate(s) file dialog
 
@@ -127,8 +153,12 @@ delete-user-cert-impact = Als u een van uw eigen certificaten verwijdert, kunt u
 delete-ssl-cert-title =
     .title = Servercertificaatuitzonderingen verwijderen
 delete-ssl-cert-confirm = Weet u zeker dat u deze serveruitzonderingen wilt verwijderen?
+delete-ca-cert-title =
+    .title = CA-certificaten verwijderen of wantrouwen
+delete-ca-cert-confirm = U hebt gevraagd deze CA-certificaten te verwijderen. Bij ingebouwde certificaten zal alle vertrouwen worden verwijderd, wat hetzelfde resultaat heeft. Weet u zeker dat u wilt verwijderen of wantrouwen?
 delete-email-cert-title =
     .title = E-mailcertificaten verwijderen
+delete-email-cert-confirm = Weet u zeker dat u de e-mailcertificaten van deze personen wilt verwijderen?
 delete-email-cert-impact = Als u een e-mailcertificaat van een persoon verwijdert, zult u niet langer versleutelde e-mail naar deze persoon kunnen verzenden.
 
 ## Cert Viewer
@@ -144,13 +174,24 @@ verify-email-signer =
     .value = E-mailondertekenaarcertificaat
 verify-email-recip =
     .value = E-mailontvangercertificaat
+# Cert verification
+cert-not-verified-cert-revoked = Dit certificaat kon niet worden geverifieerd, omdat het is ingetrokken.
+cert-not-verified-cert-expired = Dit certificaat kon niet worden geverifieerd, omdat het is verlopen.
+cert-not-verified-cert-not-trusted = Dit certificaat kon niet worden geverifieerd, omdat het niet vertrouwd is.
+cert-not-verified-issuer-not-trusted = Dit certificaat kon niet worden geverifieerd, omdat de uitgever niet vertrouwd is.
+cert-not-verified-issuer-unknown = Dit certificaat kon niet worden geverifieerd, omdat de uitgever onbekend is.
+cert-not-verified-ca-invalid = Dit certificaat kon niet worden geverifieerd, omdat het CA-certificaat ongeldig is.
+cert-not-verified_algorithm-disabled = Dit certificaat kon niet worden geverifieerd, omdat het is ondertekend via een ondertekeningsalgoritme dat is uitgeschakeld omdat dat algoritme niet beveiligd is.
 
 ## Add Security Exception dialog
 
 add-exception-branded-warning = U staat op het punt te overschrijven hoe { -brand-short-name } deze website identificeert.
 add-exception-invalid-header = Deze website probeert zich te identificeren met ongeldige informatie.
 add-exception-domain-mismatch-short = Verkeerde website
+add-exception-domain-mismatch-long = Het certificaat behoort toe aan een andere website, wat kan betekenen dat iemand deze website probeert na te bootsen.
 add-exception-expired-short = Verouderde informatie
+add-exception-unverified-or-bad-signature-short = Onbekende identiteit
 add-exception-valid-short = Geldig certificaat
+add-exception-valid-long = Deze website verzorgt geldige, geverifieerde identificatie. U hoeft geen uitzondering toe te voegen.
 add-exception-checking-short = Informatie controleren
 add-exception-no-cert-short = Geen informatie beschikbaar
