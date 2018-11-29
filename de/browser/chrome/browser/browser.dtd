@@ -839,7 +839,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      Remove Bookmark buttons. -->
 <!ENTITY editBookmark.panel.width                    "23em">
 <!ENTITY editBookmark.done.label                     "Fertig">
-<!ENTITY editBookmark.showForNewBookmarks.label       "Eigenschaften beim Speichern bearbeiten">
+<!ENTITY editBookmark.showForNewBookmarks.label       "Lesezeichen beim Speichern bearbeiten">
 <!ENTITY editBookmark.showForNewBookmarks.accesskey   "g">
 
 <!-- LOCALIZATION NOTE (identity.securityView.label)
