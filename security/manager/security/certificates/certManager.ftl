@@ -24,6 +24,8 @@ certmgr-subject-info-label =
     .value = Udstedt til
 certmgr-issuer-info-label =
     .value = Udstedt af
+certmgr-period-of-validity-label =
+    .value = Gyldighedsperiode
 certmgr-fingerprints-label =
     .value = Fingeraftryk
 certmgr-cert-detail =
@@ -38,6 +40,10 @@ certmgr-cert-detail-ou =
     .value = Organisatorisk enhed (OU)
 certmgr-cert-detail-serialnumber =
     .value = Serienummer
+certmgr-cert-detail-sha256-fingerprint =
+    .value = SHA-256-fingeraftryk
+certmgr-cert-detail-sha1-fingerprint =
+    .value = SHA1-fingeraftryk
 certmgr-edit-ca-cert =
     .title = Rediger tillidsindstillinger for CA-certifikat
     .style = width: 48em;
@@ -57,6 +63,8 @@ certmgr-override-lifetime =
     .label = Levetid
 certmgr-token-name =
     .label = Sikkerhedsenhed
+certmgr-begins-label =
+    .label = Begynder den
 certmgr-begins-value =
     .value = { certmgr-begins-label.label }
 certmgr-expires-label =
@@ -94,6 +102,12 @@ certmgr-restore =
 certmgr-details =
     .value = Certifikatfelter
     .accesskey = f
+certmgr-fields =
+    .value = Feltværdi
+    .accesskey = v
+certmgr-hierarchy =
+    .value = Certifikathierarki
+    .accesskey = H
 certmgr-add-exception =
     .label = Tilføj undtagelse…
     .accesskey = U
@@ -144,9 +158,11 @@ edit-trust-ca = Certifikatet "{ $certName }" repræsenterer en Certifikat Autori
 
 delete-user-cert-title =
     .title = Slet dine certifikater
+delete-user-cert-confirm = Er du sikker på, at du vil slette disse certifikater?
 delete-user-cert-impact = Hvis du sletter et af dine egne certifikater, kan du ikke længere bruge det til at identificere dig selv.
 delete-ssl-cert-title =
     .title = Slet servercertifikatundtagelser
+delete-ssl-cert-confirm = Er du sikker på, at du vil slette disse serverundtagelser?
 delete-ssl-cert-impact = Hvis du sletter en serverundtagelse, gendanner du den sædvanlige sikkerhedskontrol for serveren og kræver, at den bruger et gyldigt certifikat.
 delete-ca-cert-title =
     .title = Slet eller fjern tillid til CA-certifikater
@@ -154,10 +170,23 @@ delete-ca-cert-confirm = Du har bedt om at få slette disse CA-certifikater. For
 delete-ca-cert-impact = Hvis du sletter eller fjerner tilliden til et Certificate Authority (CA)-certifikat vil programmet ikke længere stole på certifikater udstedt af denne CA.
 delete-email-cert-title =
     .title = Slet mailcertifikater
+delete-email-cert-confirm = Er du sikker på, at du vil slette disse personers mailcertifikater?
 delete-email-cert-impact = Hvis du sletter en persons mailcertifikat, vil du ikke længere kunne sende krypterede mails til personen.
+# Used for semi-uniquely representing a cert.
+#
+# Variables:
+#   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
+cert-with-serial =
+    .value = Certifikat med serienummer: { $serialNumber }
 
 ## Cert Viewer
 
+# Title used for the Certificate Viewer.
+#
+# Variables:
+#   $certificate : a string representative of the certificate being viewed.
+cert-viewer-title =
+    .title = Certifikatfremviser: '{ $certName }'
 not-present =
     .value = <Er ikke en del af certifikat>
 # Cert verification
@@ -180,12 +209,22 @@ cert-not-verified-cert-not-trusted = Kunne ikke godkende dette certifikat, da de
 cert-not-verified-issuer-not-trusted = Kunne ikke godkende dette certifikat da der ikke stoles på udstederen.
 cert-not-verified-issuer-unknown = Kunne ikke godkende dette certifikat, da udstederen er ukendt.
 cert-not-verified-ca-invalid = Kunne ikke godkende dette certifikat da CA-certifikatet er forkert.
+cert-not-verified_algorithm-disabled = Kunne ikke godkende dette certifikat, fordi det er underskrevet med en usikker algoritme.
 cert-not-verified-unknown = Kunne ikke godkende dette certifikat af ukendte årsager.
 
 ## Add Security Exception dialog
 
+add-exception-branded-warning = Du er ved at tilsidesætte hvordan { -brand-short-name } identificerer dette websted.
+add-exception-invalid-header = Dette websted forsøger at identificere sig selv med ugyldig information.
+add-exception-domain-mismatch-short = Forkert websted
+add-exception-domain-mismatch-long = Certifikatet tilhører et andet websted, hvilket kan indikere forsøg på identitetstyveri.
 add-exception-expired-short = Forældet information
+add-exception-expired-long = Certifikatet er ikke gyldigt i øjeblikket. Det kan være blevet stjålet, hvorefter nogen så forsøger at bruge det til identitetstyveri.
+add-exception-unverified-or-bad-signature-short = Ukendt identitet
+add-exception-unverified-or-bad-signature-long = Der er ikke tillid til certifikatet, da det ikke er blevet verificeret af en kendt autoritet ved hjælp af en sikker signatur.
 add-exception-valid-short = Gyldigt certifikat
 add-exception-valid-long = Dette certifikat indeholder gyldig, verificeret information. Der er ingen grund til at tilføje en undtagelse.
 add-exception-checking-short = Kontrollerer information
+add-exception-checking-long = Forsøger at identificere webstedet…
 add-exception-no-cert-short = Ingen tilgængelig information
+add-exception-no-cert-long = Kan ikke fastslå status for webstedets certifikat.
