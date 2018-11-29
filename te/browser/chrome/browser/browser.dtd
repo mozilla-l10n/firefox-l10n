@@ -982,6 +982,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.fastBlock.add.label "నిరోధం చేర్చు…">
 
+<!ENTITY contentBlocking.trackingProtection2.label "గుర్తించబడిన ట్రాకర్లన్నీ">
 
 <!ENTITY contentBlocking.trackingProtection3.label "ట్రాకర్లు">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.allowed.label):
