@@ -207,6 +207,7 @@
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip "Przechowywanie danych na komputerze">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip "Przeglądarka jest zdalnie zarządzana">
 <!ENTITY urlbar.webAuthnAnchor.tooltip "Otwórz panel Web Authentication">
+<!ENTITY urlbar.storageAccessAnchor.tooltip "Zarządzaj uprawnieniami śledzenia aktywności przeglądania">
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip "Zarządzaj udostępnianiem tej witrynie kamery i mikrofonu">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip "Zarządzaj udostępnianiem mikrofonu tej witrynie">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip "Zarządzaj udostępnianiem tej witrynie okien i ekranu">
