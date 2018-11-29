@@ -18,23 +18,11 @@
 # link title for https://www.seamonkey-project.org/ (in normal bookmarks)
 #define seamonkey_long პროექტი SeaMonkey
 
-# LOCALIZATION NOTE (mozilla_org):
-# link title for http://www.mozilla.org/ (in the personal toolbar)
-#define mozilla_org mozilla.org
-
 # LOCALIZATION NOTE (mozilla_org_long):
 # link title for https://www.mozilla.org/ (in normal bookmarks)
 #define mozilla_org_long Mozilla-ს ორგანიზაცია
 
-# LOCALIZATION NOTE (mozilla_projects):
-# link title for http://www.mozilla.org/projects/
-#define mozilla_projects Mozilla-ს პროექტები
-
-# LOCALIZATION NOTE (mozilla_about):
-# link title for http://www.mozilla.org/about/
-#define mozilla_about Mozilla-ს შესახებ
-
-#define extend_seamonkey SeaMonkey პაკეტები
+#define extend_seamonkey SeaMonkey-ის გაფართოება
 
 # LOCALIZATION NOTE (seamonkey_addons):
 # link title for https://addons.thunderbird.net/en-US/seamonkey/
@@ -58,7 +46,7 @@
 
 # LOCALIZATION NOTE (mozdev_seamonkey):
 # link title for http://www.mozdev.org/projects/applications/SeaMonkey.html
-#define mozdev_seamonkey SeaMonkey პაკეტები საიტიდან mozdev.org
+#define mozdev_seamonkey SeaMonkey-ის გაფართოებები საიტიდან mozdev.org
 
 #define community_support საზოგადოება და მხარდაჭერა
 
@@ -77,11 +65,11 @@
 # LOCALIZATION NOTE (seamonkey_l10n):
 # insert full bookmark line for localized SeaMonkey page (personal toolbar)
 # e.g. #define seamonkey_l10n <DT><A HREF="https://www.seamonkey.tlh/">SeaMonkey tlhIngan</a>
-#define seamonkey_l10n
+#define seamonkey_l10n 
 
- <DT><A HREF="https://www.seamonkey-project.org/">Seamonkey</a># LOCALIZATION NOTE (seamonkey_l10n_long):
+# LOCALIZATION NOTE (seamonkey_l10n_long):
 # insert full bookmark line for localized SeaMonkey page (normal bookmark)
 # e.g. #define seamonkey_l10n_long <DT><A HREF="https://www.seamonkey.tld/">tlhIngan Hol SeaMonkey</a>
-#define seamonkey_l10n_long
+#define seamonkey_l10n_long 
 
 #unfilter emptyLines
