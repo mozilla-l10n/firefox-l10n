@@ -104,6 +104,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.expiredCert.secondPara "આ સમસ્યા તમારાં કમ્પ્યુટરની ઘડિયાળ ખોટા સમય પર રાખેલી છે એટલે થઇ રહી છે, જે &brandShortName; ને સુરક્ષિત રીતે જોડતાં રોકી રહી છે.">
 
+<!ENTITY certerror.sts.introPara "&brandShortName; સંભવિત સુરક્ષા જોખમને શોધી કાઢ્યું છે અને ચાલુ રાખ્યું નથી <span class='hostname'/> કારણ કે આ વેબસાઇટને સુરક્ષિત કનેક્શનની જરૂર છે.">
 
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "તમે તેના વિશે શું કરી શકો?">
