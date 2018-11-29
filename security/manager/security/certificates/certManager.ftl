@@ -2,10 +2,136 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+certmgr-title =
+    .title = Gestione certificati
+certmgr-tab-mine =
+    .label = Certificati personali
+certmgr-tab-people =
+    .label = Persone
+certmgr-tab-servers =
+    .label = Server
+certmgr-tab-ca =
+    .label = Autorità
+certmgr-mine = Sono presenti certificati rilasciati dalle seguenti organizzazioni che attestano la propria identità
+certmgr-people = Sono presenti certificati su file che identificano le seguenti persone
+certmgr-servers = Sono presenti certificati su file che identificano i seguenti server
+certmgr-ca = Sono presenti certificati su file che identificano le seguenti autorità di certificazione
+certmgr-detail-general-tab-title =
+    .label = Generale
+    .accesskey = G
+certmgr-detail-pretty-print-tab-title =
+    .label = Dettagli
+    .accesskey = D
+certmgr-pending-label =
+    .value = Verifica del certificato in corso…
+certmgr-subject-info-label =
+    .value = Rilasciato a
+certmgr-issuer-info-label =
+    .value = Rilasciato da
+certmgr-period-of-validity-label =
+    .value = Periodo di validità
+certmgr-fingerprints-label =
+    .value = Impronte digitali
+certmgr-cert-detail =
+    .title = Dettagli certificato
+    .buttonlabelaccept = Chiudi
+    .buttonaccesskeyaccept = C
+certmgr-cert-detail-cn =
+    .value = Nome comune (CN)
+certmgr-cert-detail-o =
+    .value = Organizzazione (O)
+certmgr-cert-detail-ou =
+    .value = Unità organizzativa (OU)
+certmgr-cert-detail-serialnumber =
+    .value = Numero seriale
+certmgr-cert-detail-sha256-fingerprint =
+    .value = Impronta digitale SHA-256
+certmgr-cert-detail-sha1-fingerprint =
+    .value = Impronta digitale SHA1
+certmgr-edit-ca-cert =
+    .title = Modifica impostazioni fiducia certificato CA
+    .style = width: 48em;
+certmgr-edit-cert-edit-trust = Modifica impostazioni attendibilità:
+certmgr-edit-cert-trust-ssl =
+    .label = Questo certificato può identificare siti web.
+certmgr-edit-cert-trust-email =
+    .label = Questo certificato può identificare utenti di posta.
+certmgr-delete-cert =
+    .title = Eliminazione certificato
+    .style = width: 48em; height: 24em;
+certmgr-cert-name =
+    .label = Nome certificato
+certmgr-cert-server =
+    .label = Server
+certmgr-override-lifetime =
+    .label = Durata
+certmgr-token-name =
+    .label = Dispositivo di sicurezza
+certmgr-begins-label =
+    .label = Inizia il
 certmgr-begins-value =
     .value = { certmgr-begins-label.label }
+certmgr-expires-label =
+    .label = Termina il
 certmgr-expires-value =
     .value = { certmgr-expires-label.label }
+certmgr-email =
+    .label = Indirizzo email
+certmgr-serial =
+    .label = Numero seriale
+certmgr-view =
+    .label = Visualizza…
+    .accesskey = V
+certmgr-edit =
+    .label = Modifica attendibilità…
+    .accesskey = M
+certmgr-export =
+    .label = Esporta
+    .accesskey = o
+certmgr-delete =
+    .label = Elimina…
+    .accesskey = E
+certmgr-delete-builtin =
+    .label = Elimina o considera inattendibile…
+    .accesskey = E
+certmgr-backup =
+    .label = Salva…
+    .accesskey = S
+certmgr-backup-all =
+    .label = Salva tutto…
+    .accesskey = t
+certmgr-restore =
+    .label = Importa…
+    .accesskey = r
+certmgr-details =
+    .value = Campi certificato
+    .accesskey = f
+certmgr-fields =
+    .value = Valore campo
+    .accesskey = V
+certmgr-hierarchy =
+    .value = Gerarchia certificato
+    .accesskey = t
+certmgr-add-exception =
+    .label = Aggiungi eccezione…
+    .accesskey = z
+exception-mgr =
+    .title = Aggiungi eccezione di sicurezza
+exception-mgr-extra-button =
+    .label = Conferma eccezione di sicurezza
+    .accesskey = C
+exception-mgr-supplemental-warning = Banche, negozi e altri siti pubblici affidabili non chiederanno di fare questa operazione.
+exception-mgr-cert-location-url =
+    .value = Indirizzo:
+exception-mgr-cert-location-download =
+    .label = Acquisisci certificato
+    .accesskey = q
+exception-mgr-cert-status-view-cert =
+    .label = Visualizza…
+    .accesskey = V
+exception-mgr-permanent =
+    .label = Salva eccezione in modo permanente
+    .accesskey = S
 pk11-bad-password = La password inserita non era corretta.
 pkcs12-decode-err = Impossibile decodificare il file. Potrebbe non essere nel formato PKCS #12, essere stato danneggiato, o la password inserita non era corretta.
 pkcs12-unknown-err-restore = Ripristino del file PKCS #12 non riuscito per motivi sconosciuti.
@@ -28,23 +154,43 @@ import-email-cert-prompt = Selezionare il file contenente il certificato del des
 
 ## For editing certificates trust
 
+# Variables:
+#   $certName: the name of certificate
+edit-trust-ca = Il certificato “{ $certName }” rappresenta un’autorità di certificazione.
 
 ## For Deleting Certificates
 
 delete-user-cert-title =
     .title = Eliminazione certificato personale
 delete-user-cert-confirm = Eliminare questi certificati?
+delete-user-cert-impact = Se si elimina uno dei propri certificati, non sarà più possibile identificarsi tramite questo certificato.
 delete-ssl-cert-title =
     .title = Elimina eccezioni certificato server
 delete-ssl-cert-confirm = Eliminare queste eccezioni?
+delete-ssl-cert-impact = Eliminando un’eccezione per un server si ripristinano i controlli predefiniti di sicurezza  e per questo sito verrà richiesto un certificato valido.
 delete-ca-cert-title =
     .title = Elimina o considera inattendibili certificati CA
+delete-ca-cert-confirm = È stata richiesta l’eliminazione di questi certificati appartenenti ad autorità di certificazione (CA). I certificati predefiniti verranno considerati non più attendibili, ottenendo lo stesso risultato di una rimozione completa. Proseguire con l’operazione?
+delete-ca-cert-impact = Se si elimina o considera non attendibile il certificato di un’autorità di certificazione (CA), qualsiasi certificato emesso da questa CA verrà considerato inattendibile.
 delete-email-cert-title =
     .title = Eliminazione certificati email
 delete-email-cert-confirm = Eliminare i certificati email di queste persone?
+delete-email-cert-impact = Eliminando il certificato email di una persona, non sarà più possibile inviare email crittate a questa persona.
+# Used for semi-uniquely representing a cert.
+#
+# Variables:
+#   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
+cert-with-serial =
+    .value = Certificato con numero seriale: { $serialNumber }
 
 ## Cert Viewer
 
+# Title used for the Certificate Viewer.
+#
+# Variables:
+#   $certificate : a string representative of the certificate being viewed.
+cert-viewer-title =
+    .title = Visualizzazione certificato: “{ $certName }”
 not-present =
     .value = <non incluso nel certificato>
 # Cert verification
@@ -75,8 +221,14 @@ cert-not-verified-unknown = Non è possibile verificare questo certificato per m
 add-exception-branded-warning = Si sta per modificare il modo in cui { -brand-short-name } identifica questo sito.
 add-exception-invalid-header = Il sito ha cercato di identificarsi fornendo informazioni non valide.
 add-exception-domain-mismatch-short = Sito errato
+add-exception-domain-mismatch-long = Il certificato appartiene a un altro sito, potrebbe trattarsi di un tentativo di sostituirsi al sito originale.
 add-exception-expired-short = Informazioni obsolete
+add-exception-expired-long = Il certificato non è più valido. È possibile che sia stato rubato o perso, e potrebbe essere utilizzato nel tentativo di sostituirsi al sito originale.
 add-exception-unverified-or-bad-signature-short = Identità sconosciuta
+add-exception-unverified-or-bad-signature-long = Il certificato non è affidabile in quanto non è possibile verificare che sia stato emesso da un’autorità riconosciuta utilizzando una firma sicura.
 add-exception-valid-short = Certificato valido
+add-exception-valid-long = Questo sito ha fornito un certificato valido e verificato. Non è necessario aggiungere un’eccezione.
 add-exception-checking-short = Controllo informazioni
+add-exception-checking-long = Tentativo di identificazione del sito…
 add-exception-no-cert-short = Nessuna informazione disponibile
+add-exception-no-cert-long = Impossibile ottenere lo stato dell’identificazione per questo sito.
