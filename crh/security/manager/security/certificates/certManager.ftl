@@ -132,6 +132,13 @@ exception-mgr-cert-status-view-cert =
 exception-mgr-permanent =
     .label = Bu istisnanı payidarca saqla
     .accesskey = p
+pk11-bad-password = Geçerli parola girişi hatalı.
+pkcs12-decode-err = Dosyanın çözülmesi başarısız. Ya PKCS #12 biçiminde değil ve bozuldu ya da girdiğiniz şifre hatalı.
+pkcs12-unknown-err-restore = PKCS #12 dosyasının yenilenmesi bilinmeyen sebeplerden dolayı başarısız oldu.
+pkcs12-unknown-err-backup = Bilinmeyen nedenlerden dolayı PKCS #12 yedekleme dosyası oluşturulamadı.
+pkcs12-unknown-err = PKCS #12 işlemi bilinmeyen sebeplerden dolayı başarısız oldu.
+pkcs12-info-no-smartcard-backup = Akıllı kart gibi bir donanım güvenlik aygıtından onay belgeleri yedeklemek mümkün değil.
+pkcs12-dup-data = Onay Belgesi ve Kişisel Anahtar hâlihazırda güvenlik aygıtında mevcut.
 
 ## PKCS#12 file dialogs
 
@@ -188,6 +195,17 @@ not-present =
     .value = <Sertifika Parçası değil>
 # Cert verification
 cert-verified = Bu sertifika şu amaçlar için doğrulandı:
+# Add usage
+verify-ssl-client =
+    .value = SSL İstemci Onay Belgesi
+verify-ssl-server =
+    .value = SSL Sunucı Onay Belgesi
+verify-ssl-ca =
+    .value = SSL Belge Yetkilisi
+verify-email-signer =
+    .value = E-Posta İmzalayıcı Onay Belgesi
+verify-email-recip =
+    .value = E-Posta Alıcı Onay Belgesi
 # Cert verification
 cert-not-verified-cert-revoked = Bu sertifika hükümsüz olduğu için kontrol edilemedi.
 cert-not-verified-cert-expired = Süresi dolduğu için bu sertifika kontrol edilemedi.
