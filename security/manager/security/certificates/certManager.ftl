@@ -6,6 +6,8 @@ certmgr-tab-mine =
     .label = Jo sertifikaten
 certmgr-tab-people =
     .label = Minsken
+certmgr-tab-servers =
+    .label = Servers
 certmgr-tab-ca =
     .label = Organisaasjes
 certmgr-detail-general-tab-title =
@@ -20,6 +22,8 @@ certmgr-subject-info-label =
     .value = Utjûn oan
 certmgr-issuer-info-label =
     .value = Utjûn troch
+certmgr-fingerprints-label =
+    .value = Fingerôfdrukken
 certmgr-cert-detail-cn =
     .value = Algemiene namme (CN)
 certmgr-cert-detail-o =
@@ -32,11 +36,17 @@ certmgr-cert-detail-sha256-fingerprint =
     .value = SHA-256-fingerôfdruk
 certmgr-cert-detail-sha1-fingerprint =
     .value = SHA1-fingerôfdruk
+certmgr-edit-ca-cert =
+    .title = CA-sertifikaat-fertrouwensynstellingen bewurkje
+    .style = width: 48em;
+certmgr-edit-cert-edit-trust = Fertrouwensynstellingen bewurkje:
 certmgr-edit-cert-trust-email =
     .label = Dit sertifikaat kin e-mailbrûkers identifisearje.
 certmgr-delete-cert =
     .title = Sertifikaat fuortsmite
     .style = width: 48em; height: 24em;
+certmgr-cert-server =
+    .label = Server
 certmgr-override-lifetime =
     .label = Libbensdoer
 certmgr-begins-value =
@@ -46,6 +56,9 @@ certmgr-expires-value =
 certmgr-export =
     .label = Eksportearje…
     .accesskey = k
+certmgr-delete-builtin =
+    .label = Fuorsmite of net fertrouwe…
+    .accesskey = F
 certmgr-add-exception =
     .label = Utsûndering tafoegje…
     .accesskey = t
@@ -67,6 +80,7 @@ exception-mgr-permanent =
     .label = Dizze útsûndering permanint bewarje
     .accesskey = p
 pk11-bad-password = It ynfierde wachtwurd is net korrekt.
+pkcs12-decode-err = It ûntsiferjen fan dit bestân is mislearre. It is net yn de PKCS #12-opmaak kodearre, is skansjearre, of it troch jo ynfierde wachtwurd is net korrekt.
 pkcs12-unknown-err-backup = It meitsjen fan in reservekopy fan it PKCS #12-bestân is om ûnbekende redenen mislearre.
 pkcs12-unknown-err = De PKCS #12-ferwurking is om ûnbekende redenen mislearre.
 pkcs12-info-no-smartcard-backup = It is net mooglik om in reservekopy te meitsjen fan sertifikaten die op in befeiligingsapparaat, lykas in smart card, stean.
@@ -86,15 +100,27 @@ import-email-cert-prompt = Bestân mei te ymportearjen e-mailsertifikaat fan in 
 
 ## For editing certificates trust
 
+# Variables:
+#   $certName: the name of certificate
+edit-trust-ca = It sertifikaat ‘{ $certName }’ fertsjinwurdicht in sertifikaatautoriteit.
 
 ## For Deleting Certificates
 
 delete-user-cert-title =
     .title = Jo sertifikaten fuortsmite
+delete-user-cert-confirm = Binne jo wis dat jo dizze sertifikaten fuortsmite wolle?
 delete-user-cert-impact = As jo ien fan jo eigen sertifikaten fuortsmite, kinne jo it net langer brûke om josels mei te ydentifisearjen.
+delete-ssl-cert-title =
+    .title = Server Sertifikaat Utsûnderingen fuortsmite
+delete-ssl-cert-confirm = Binne jo wis dat jo dizze serverútsûnderingen fuortsmite wolle?
+delete-ca-cert-title =
+    .title = CA-sertifikaten fuortsmite of net fertrouwe
 delete-ca-cert-confirm = Jo hawwe frege om dizze CA-sertifikaten fuort te smiten? Foar ynboude sertifikaten sil alle fertrouwen fuortsmiten wurde, wat itselde effekt hat. Binne jo wis dat jo fuortsmite of net fertroue wolle?
+delete-ca-cert-impact = As jo in sertifikaat fan in sertifikaatautoriteit (CA) fuortsmite of net fertrouwe, sil dizze applikaasje net langer gjin inkelt sertifikaat mear fertrouwe dat troch dy CA útjûn is.
 delete-email-cert-title =
     .title = E-mailsertifikaten fuortsmite
+delete-email-cert-confirm = Binne jo wis dat jo de e-mailsertifikaten fan dizze minsken fuortsmite wolle?
+delete-email-cert-impact = As jo in e-mailsertifikaat fan in persoan fuortsmite, kinne jo net langer fersifere e-mail nei dizze persoan ferstjoere.
 
 ## Cert Viewer
 
@@ -105,10 +131,23 @@ cert-verified = Dit sertifikaat is ferifiearre foar de folgjende soarten gebrûk
 # Add usage
 verify-ssl-client =
     .value = SSL-klientsertifikaat
+verify-ssl-server =
+    .value = SSL-serversertifikaat
+verify-ssl-ca =
+    .value = SSL-sertifikaatautoriteit
 verify-email-signer =
     .value = E-mail ûndertekenaarsertifikaat
 verify-email-recip =
     .value = E-mail ûntfangersertifikaat
+# Cert verification
+cert-not-verified-cert-revoked = Dit sertifikaat koe net ferifiearre wurde, omdat it werroppen is.
+cert-not-verified-cert-expired = Dit sertifikaat koe net ferifiearre wurde, omdat it ferrûn is.
+cert-not-verified-cert-not-trusted = Dit sertifikaat koe net ferifiearre wurde, omdat it net fertroud wurd.
+cert-not-verified-issuer-not-trusted = Dit sertifikaat koe net ferifiearre wurde, omdat de útjouwer net fertroud wurd.
+cert-not-verified-issuer-unknown = Dit sertifikaat koe net ferifiearre wurde, omdat de útjouwer net bekend is.
+cert-not-verified-ca-invalid = Dit sertifikaat koe net ferifiearre wurde, omdat it CA-sertifikaat net jildich is.
+cert-not-verified_algorithm-disabled = Koe dit sertifikaat net ferifiearje, omdat it signearre is mei in signatueralgoritme dat útskeakele is, omdat dat algoritme net feilich is.
+cert-not-verified-unknown = Dit sertifikaat koe om ûnbekende redenen net ferifiearre wurde.
 
 ## Add Security Exception dialog
 
