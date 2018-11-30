@@ -110,6 +110,7 @@ cert-not-verified-cert-expired = Nu se poate verifica acest certificat deoarece 
 cert-not-verified-cert-not-trusted = Nu se poate verifica acest certificat deoarece nu este acreditat.
 cert-not-verified-issuer-not-trusted = Nu se poate verifica acest certificat deoarece emitentul nu este acreditat.
 cert-not-verified-issuer-unknown = Nu se poate verifica acest certificat deoarece emitentul nu e cunoscut.
+cert-not-verified_algorithm-disabled = Nu am putut verifica acest certificat pentru că a fost semnat utilizând un algoritm de semnare care a fost dezactivat pentru că algoritmul nu este securizat.
 cert-not-verified-unknown = Nu se poate verifica acest certificat din motive necunoscute.
 
 ## Add Security Exception dialog
