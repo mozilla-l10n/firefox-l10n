@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+certmgr-title =
+    .title = Gestor de certificados
 certmgr-tab-mine =
     .label = Os seus certificados
 certmgr-tab-people =
@@ -16,18 +18,26 @@ certmgr-detail-general-tab-title =
 certmgr-detail-pretty-print-tab-title =
     .label = Detalhes
     .accesskey = D
+certmgr-pending-label =
+    .value = A verificar certificado…
 certmgr-subject-info-label =
     .value = Emitido para
 certmgr-issuer-info-label =
     .value = Emitido por
+certmgr-period-of-validity-label =
+    .value = Período de validade
 certmgr-fingerprints-label =
     .value = Assinaturas
 certmgr-cert-detail =
     .title = Detalhe do certificado
     .buttonlabelaccept = Fechar
     .buttonaccesskeyaccept = c
+certmgr-cert-detail-cn =
+    .value = Nome comum (CN)
 certmgr-cert-detail-o =
     .value = Organização (O)
+certmgr-cert-detail-ou =
+    .value = Unidade organizacional (OU)
 certmgr-cert-detail-serialnumber =
     .value = Número de série
 certmgr-cert-detail-sha256-fingerprint =
@@ -38,6 +48,13 @@ certmgr-edit-ca-cert =
     .title = Editar definições de confiança do certificado CA
     .style = width: 48em;
 certmgr-edit-cert-edit-trust = Editar definições de confiança:
+certmgr-edit-cert-trust-ssl =
+    .label = Este certificado pode identificar websites.
+certmgr-edit-cert-trust-email =
+    .label = Este certificado pode identificar utilizadores de e-mail.
+certmgr-delete-cert =
+    .title = Apagar certificado
+    .style = width: 48em; height: 24em;
 certmgr-cert-name =
     .label = Nome do certificado
 certmgr-cert-server =
@@ -48,10 +65,35 @@ certmgr-token-name =
     .label = Dispositivo de segurança
 certmgr-begins-value =
     .value = { certmgr-begins-label.label }
+certmgr-expires-label =
+    .label = Expira em
 certmgr-expires-value =
     .value = { certmgr-expires-label.label }
+certmgr-email =
+    .label = Endereço de e-mail
 certmgr-serial =
     .label = Número de série
+certmgr-view =
+    .label = Ver…
+    .accesskey = V
+certmgr-edit =
+    .label = Editar confiança…
+    .accesskey = E
+certmgr-export =
+    .label = Exportar…
+    .accesskey = x
+certmgr-delete =
+    .label = Apagar…
+    .accesskey = A
+certmgr-backup =
+    .label = Cópia de segurança…
+    .accesskey = s
+certmgr-backup-all =
+    .label = Copiar todos…
+    .accesskey = t
+certmgr-restore =
+    .label = Importar…
+    .accesskey = m
 certmgr-details =
     .value = Campos do certificado
     .accesskey = f
@@ -61,18 +103,32 @@ certmgr-fields =
 certmgr-hierarchy =
     .value = Hierarquia do certificado
     .accesskey = H
+certmgr-add-exception =
+    .label = Adicionar exceção…
+    .accesskey = A
 exception-mgr =
     .title = Adicionar exceção de segurança
 exception-mgr-extra-button =
     .label = Confirmar exceção de segurança
     .accesskey = C
+exception-mgr-supplemental-warning = Bancos, lojas e outros sites públicos legítimos não lhe irão pedir para fazer isto.
 exception-mgr-cert-location-url =
     .value = Localização:
 exception-mgr-cert-location-download =
     .label = Obter certificado
     .accesskey = O
+exception-mgr-cert-status-view-cert =
+    .label = Ver…
+    .accesskey = V
+exception-mgr-permanent =
+    .label = Guardar exceção permanentemente
+    .accesskey = p
+pk11-bad-password = A palavra-passe introduzida está incorreta.
+pkcs12-decode-err = Falha ao descodificar ficheiro.  Ou não está no formato PKCS #12, ou está corrompido, ou a palavra-passe inserida está incorreta.
 pkcs12-unknown-err-restore = Falhou a restauração do ficheiro PKCS #12 for razões desconhecidas.
+pkcs12-unknown-err-backup = Falha ao criar o ficheiro de backup PKCS #12 por razões desconhecidas.
 pkcs12-unknown-err = A operação PKCS #12 falhou por razões desconhecidas.
+pkcs12-info-no-smartcard-backup = Não é possível criar cópias de segurança de certificados a partir de um dispositivos com segurança como, por exemplo, um smart card.
 pkcs12-dup-data = O certificado e a chave privada já existem no dispositivo de segurança.
 
 ## PKCS#12 file dialogs
@@ -84,15 +140,43 @@ choose-p12-restore-file-dialog = Ficheiro do certificado para importar
 ## Import certificate(s) file dialog
 
 file-browse-certificate-spec = Ficheiros de certificados
+import-ca-certs-prompt = Selecione o ficheiro que contém o(s) certificado(s) de CA a importar
+import-email-cert-prompt = Selecione o ficheiro que contém o certificado de email de alguém para importar
 
 ## For editing certificates trust
 
 
 ## For Deleting Certificates
 
+delete-user-cert-title =
+    .title = Apagar os meus certificados
+delete-user-cert-confirm = Tem a certeza de que pretende apagar estes certificados?
+delete-ssl-cert-title =
+    .title = Apagar exceções de certificados de servidores
+delete-ssl-cert-confirm = Tem a certeza de que pretende apagar estas exceções de segurança?
+delete-ssl-cert-impact = Se apagar uma exceção de segurança, irá restaurar as verificações de segurança para os servidores, requerendo um certificado válido.
+delete-ca-cert-title =
+    .title = Apagar ou desconfiar de certificados CA
+delete-ca-cert-impact = Se apagar ou desconfiar um certificado de uma autoridade certificada (CA), esta aplicação deixará de confiar de qualquer certificado dessa CA.
+delete-email-cert-title =
+    .title = Apagar certificados de e-mail
+delete-email-cert-confirm = Tem a certeza de que pretende apagar os certificados de e-mail destas pessoas?
+delete-email-cert-impact = Se apagar o certificado de e-mail de uma pessoa, já não será capaz de enviar e-mails encriptados para essa pessoa.
+# Used for semi-uniquely representing a cert.
+#
+# Variables:
+#   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
+cert-with-serial =
+    .value = Certificado com número de série: { $serialNumber }
 
 ## Cert Viewer
 
+# Title used for the Certificate Viewer.
+#
+# Variables:
+#   $certificate : a string representative of the certificate being viewed.
+cert-viewer-title =
+    .title = Visualizador de certificados: “{ $certName }”
 not-present =
     .value = <Não faz parte do certificado>
 # Cert verification
@@ -104,6 +188,10 @@ verify-ssl-server =
     .value = Certificado de servidor SSL
 verify-ssl-ca =
     .value = Autoridade certificadora SSL
+verify-email-signer =
+    .value = Certificado de signatário de email
+verify-email-recip =
+    .value = Certificado de destinatário de email
 # Cert verification
 cert-not-verified-cert-revoked = Não foi possível verificar este certificado por ter sido revogado.
 cert-not-verified-cert-expired = Não foi possível verificar este certificado por ter expirado.
@@ -116,8 +204,17 @@ cert-not-verified-unknown = Não foi possível verificar este certificado por ra
 
 ## Add Security Exception dialog
 
+add-exception-branded-warning = Está prestes a sobrepor a forma como o { -brand-short-name } identifica este site.
+add-exception-invalid-header = Este site tenta identificar-se com informação inválida.
+add-exception-domain-mismatch-short = Site errado
+add-exception-domain-mismatch-long = Este certificado pertence a um site diferente, o que pode indiciar que alguém está a tentar fazer-se passar por este site.
 add-exception-expired-short = Informação desatualizada
+add-exception-expired-long = O certificado não é atualmente válido. Pode ter sido furtado ou perdido, e pode ser utilizado por alguém para fazer-se passar por este site.
 add-exception-unverified-or-bad-signature-short = Identidade desconhecida
+add-exception-unverified-or-bad-signature-long = O certificado não é de confiança, uma vez que não foi verificado por uma autoridade reconhecida usando uma assinatura segura.
 add-exception-valid-short = Certificado válido
+add-exception-valid-long = Este site fornece uma identificação válida e verificável.  Não é necessário adicionar uma exceção.
 add-exception-checking-short = A verificar a informação
+add-exception-checking-long = A tentar identificar o site…
 add-exception-no-cert-short = Informação indisponível
+add-exception-no-cert-long = Não foi possível obter o estado da identificação para este site.
