@@ -4,6 +4,8 @@
 
 certmgr-tab-people =
     .label = લોકો
+certmgr-begins-label =
+    .label = વખતે આરંભ થાય છે
 certmgr-begins-value =
     .value = { certmgr-begins-label.label }
 certmgr-expires-value =
@@ -37,6 +39,10 @@ verify-ssl-server =
     .value = SSL સર્વર પ્રમાણપત્ર
 verify-ssl-ca =
     .value = SSL પ્રમાણપત્ર સત્તા
+verify-email-signer =
+    .value = ઈમેલ સહી કરનાર પ્રમાણપત્ર
+verify-email-recip =
+    .value = ઈમેલ મેળવનાર પ્રમાણપત્ર
 
 ## Add Security Exception dialog
 
