@@ -1,0 +1,137 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+certmgr-title =
+    .title = လက်မှတ် စီမံခန့်ခွဲသူ
+certmgr-tab-mine =
+    .label = သင့်ရဲ့ လက်မှတ်များ
+certmgr-tab-people =
+    .label = လူထု
+certmgr-tab-servers =
+    .label = ဆာဗာများ
+certmgr-tab-ca =
+    .label = အာဏာပိုင်များ
+certmgr-pending-label =
+    .value = လောလောဆယ် အတည်ပြုနေတဲ့ လက်မှတ်...
+certmgr-subject-info-label =
+    .value = ထုတ်ပြန်တဲ့နေရာ
+certmgr-issuer-info-label =
+    .value = ထုတ်ပြန်တဲ့ ပုဂ္ဂိုလ်
+certmgr-fingerprints-label =
+    .value = လက်ဗွေများ
+certmgr-cert-detail-cn =
+    .value = သုံးနေကျ အမည် (CN)
+certmgr-cert-detail-o =
+    .value = အဖွဲ့အစည်း (O)
+certmgr-cert-detail-ou =
+    .value = ​အဖွဲ့အစည်းဆိုင်ရာ ယူနစ် (OU)
+certmgr-cert-detail-serialnumber =
+    .value = အစဉ်လိုက် အမှတ်စဉ်
+certmgr-cert-detail-sha1-fingerprint =
+    .value = SHA1 လက်ဗွေ
+certmgr-edit-ca-cert =
+    .title = CA လက်မှတ် စိတ်ချမှု အပြင်အဆင်များကို တည်းဖြတ်ပါ
+    .style = width: 48em;
+certmgr-edit-cert-edit-trust = စိတ်ချမှု အပြင်အဆင်များကို တည်းဖြတ်ပါ -
+certmgr-edit-cert-trust-email =
+    .label = ဒီလက်မှတ်က အီးမေးလ် သုံးစွသူများကို ဖေါ်ထုတ်နိုင်တယ်။
+certmgr-cert-name =
+    .label = လက်မှတ်အမည်
+certmgr-cert-server =
+    .label = ဆာဗာ
+certmgr-override-lifetime =
+    .label = သက်တမ်း
+certmgr-token-name =
+    .label = လုံခြုံရေး ကိရိယာ
+certmgr-begins-value =
+    .value = { certmgr-begins-label.label }
+certmgr-expires-label =
+    .label = သက်တန်းကုန်တဲ့ နေ့စွဲ
+certmgr-expires-value =
+    .value = { certmgr-expires-label.label }
+certmgr-email =
+    .label = အီးမေးလ် လိပ်စာ
+certmgr-serial =
+    .label = အစဉ်လိုက် အမှတ်စဉ်
+certmgr-edit =
+    .label = Edit Trust…
+    .accesskey = E
+certmgr-delete-builtin =
+    .label = Delete or Distrust…
+    .accesskey = D
+exception-mgr =
+    .title = လုံခြုံရေး ချွင်းချက် ထည့်သွင်းပါ
+exception-mgr-supplemental-warning = တရား၀င် ဘဏ်များ၊ စတိုးများနဲ့၊ အခြား လူထု ကွန်ရက်များက ဒီအရာကို ပြုလုပ်ဖို့ တောင်းဆိုမှာ မဟုတ်ဘူး။
+exception-mgr-cert-location-url =
+    .value = နေရာတစ်ခု -{ " " }
+exception-mgr-cert-location-download =
+    .label = လက်မှတ် ရယူပါ
+    .accesskey = G
+pk11-bad-password = ရေးထည့်လိုက်တဲ့ စကားဝှက် မမှန်ကန်ဘူး။
+pkcs12-unknown-err-restore = အမည်မသိ အကြောင်း ကိစ္စများကြောင့် PKCS #12 ဖိုင် ပြန်ထားဖို့ မအောင်မြင်ဘူး။
+pkcs12-unknown-err-backup = အမည်မသိတဲ့ အကြောင်းကိစ္စကြောင့် PKCS #12 သိမ်းဆည်းဖိုင်ကို ဖန်တီးဖို့ မအောင်မြင်ဘူး။
+pkcs12-unknown-err = အမည်မသိ အကြောင်းကိစ္စကြောင့် PKCS #12 လည်ပတ်မှု မအောင်မြင်ဘူး။
+pkcs12-info-no-smartcard-backup = စမတ် ကတ်ပြား တခုလို စက်ပစ္စည်း လုံခြုံရေး ကိရိယာ မှ လက်မှတ်များကို သိမ်းဆည်းဖို့ မဖြစ်နိုင်ဘူး။
+pkcs12-dup-data = လုံခြုံရေး ကိရိယာမှာ လက်မှတ်နဲ့ သီးသန့် သော့ချက် ရှိနေပြီ။
+
+## PKCS#12 file dialogs
+
+choose-p12-backup-file-dialog = သိမ်းဆည်းမဲ့ ဖိုင်အမည်
+file-browse-pkcs12-spec = PKCS12 ဖိုင်များ
+
+## Import certificate(s) file dialog
+
+file-browse-certificate-spec = လက်မှတ် ဖိုင်များ
+import-ca-certs-prompt = တင်သွင်းဖို့ CA လက်မှတ် ပါတဲ့ ဖိုင်ကို ရွေးချယ်ပါ
+
+## For editing certificates trust
+
+
+## For Deleting Certificates
+
+delete-user-cert-title =
+    .title = သင့်လက်မှတ်များကို ပယ်ဖျက်ပါ
+delete-user-cert-confirm = ဒီလက်မှတ်များကို သင်တကယ် ပယ်ဖျက်လို သလား။
+delete-user-cert-impact = သင့်ကိုယ်တိုင် လက်မှတ်များထဲက တခုကို သင်ပယ်ဖျက်တာနဲ့၊ သင့်ကိုသင် ​ဖေါ်ထုတ်ဖို့ ၄င်းကို သင်သုံးစွဲတော့မှာ မဟုတ်ဘူး။
+delete-ssl-cert-confirm = ဒီဆာဗာ ချွင်းချက်များကို သင်တကယ် ပယ်ဖျက်လိုသလား။
+delete-ssl-cert-impact = ဆာဗာ ချွင်းချက်တခုကို သင်ပယ်ဖျက်လိုက်ရင်၊ အဲဒီ ​ဆာဗာအတွက် ပုံမှန် လုံခြုံရေး စစ်ဆေးမှုများကို ပြန်ထားပြီး ၄င်းက မှန်ကန်တဲ့ လက်မှတ်တခုကို သုံးစွဲဖို့ လိုအပ်တယ်။
+delete-ca-cert-title =
+    .title = CA အသိအမှတ်ပြုလက်မှတ်အား ဖျက်ပါ(သို့)ပုံဖျက်ပါ
+delete-ca-cert-confirm = CAအသိအမှတ်ပြုလက်မှတ်အားဖျက်ပစ်ရန်သင်တောင်းဆိုခဲ့ပါသည်။မူရင်းအသိအမှတ်ပြုလက်မှတ်များထဲမှ သက်ရောက်မှူ တူညီသောယုံကြည်မှူအားလုံးကိုဖျက်ပစ်မည်ဖြစ်သည်။သင်ဖျက်မည်မှာသေချာပြီလား?
+delete-ca-cert-impact = (CA) အသိအမှတ်ပြုလက်မှတ်တစ်ခုအားဖျက်ပစ်လိုက်ပါက ယခု အက်ပလီကေးရှင်းသည်မည်သည် (CA) မှထုတ်လုပ်သည်အသိအမှတ်ပြုလက်မှတ်ကိုမှယုံကြည်တော့မည်မဟုတ်ပါ။
+delete-email-cert-title =
+    .title = အီးမေးလ် လက်မှတ်များကို ပယ်ဖျက်ပါ
+
+## Cert Viewer
+
+not-present =
+    .value = <လက်မှတ်ရဲ့ အစိတ်အပိုင်း မဟုတ်ဘူး>
+# Add usage
+verify-ssl-client =
+    .value = SSL သုံးစွဲသူ လက်မှတ်
+verify-ssl-server =
+    .value = SSL ဆာဗာ လက်မှတ်
+verify-ssl-ca =
+    .value = SSL လက်မှတ် အခွင့်အာဏာ
+verify-email-recip =
+    .value = အီးမေးလ် ​လက်ခံသူ လက်မှတ်
+# Cert verification
+cert-not-verified-cert-revoked = ဒီလက်မှတ်ကို ပြန်ရုပ်သိမ်းထားတဲ့ အတွက် အတည်မပြုနိုင်ဘူး။
+cert-not-verified-cert-expired = ဒီလက်မှတ်ကို သက်တမ်း ကုန်သွားတဲ့အတွက် အတည်မပြုနိုင်ဘူး။
+cert-not-verified-cert-not-trusted = ဒီလက်မှတ်ကို စိတ်မချတဲ့အတွက် အတည်မပြုနိုင်ဘူး။
+cert-not-verified-issuer-not-trusted = ဒီလက်မှတ်ဟာ ထုတ်ပြန်သူကို စိတ်မချတဲ့အတွက် အတည်မပြုနိုင်ဘူး။
+cert-not-verified-issuer-unknown = ဒီလက်မှတ်ဟာ သက်တမ်း ကုန်သွားတဲ့အတွက် အတည်မပြုနိုင်ဘူး။
+cert-not-verified-ca-invalid = ဒီလက်မှတ်ကို CA လက်မှတ် မမှန်ကန်တဲ့အတွက် အတည်မပြုနိုင်ဘူး။
+cert-not-verified-unknown = ဒီလက်မှတ်ကို မသိရတဲ့ အကြောင်းများကြောင့် အတည်မပြုနိုင်ဘူး။
+
+## Add Security Exception dialog
+
+add-exception-branded-warning = { -brand-short-name } က ဒီကွန်ရက်ကို ဖေါ်ထုတ်တဲ့နည်းကို သင် ထပ်ဖြည့်တော့မယ်။
+add-exception-invalid-header = ဒီကွန်ရက်က မမှန်ကန်တဲ့ အချက်အလက်နဲ့ ၄င်းကိုယ်တိုင် ထုတ်ဖေါ်ဖို့ ကြိုးစားနေတယ်။
+add-exception-domain-mismatch-short = မှားတဲ့ ကွန်ရက်
+add-exception-expired-short = ရက်လွန်တဲ့ အချက်အလက်
+add-exception-unverified-or-bad-signature-short = အမည်မသိ အထောက်အထား
+add-exception-valid-short = မှန်ကန်တဲ့ လက်မှတ်
+add-exception-checking-short = အချက်အလက်ကို စစ်ဆေးနေတယ်
+add-exception-no-cert-short = အချက်အလက် မရနိုင်ဘူး
