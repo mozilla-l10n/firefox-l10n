@@ -28,3 +28,7 @@ onboarding-ghostery-text = Sinir bozucu reklamları engellemenize izin veren Gho
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Eşitle
 onboarding-fxa-text = Yer imlerinizi, parolalarınızı ve açık sekmelerinizi { -brand-short-name } kullandığınız tüm cihazlarınızla eşitlemek için { -fxaccount-brand-name } açın.
+
+## Message strings belonging to the Return to AMO flow
+
+return-to-amo-extension-button = Eklentiyi ekle
