@@ -335,7 +335,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchItem.title             "Pesquisa">
 
 <!-- Toolbar items -->
-<!ENTITY homeButton.label             "Página inicial">
+<!ENTITY homeButton.label             "Início">
 <!ENTITY homeButton.defaultPage.tooltip "Página inicial do &brandShortName;">
 
 <!ENTITY bookmarksButton.label          "Marcadores">

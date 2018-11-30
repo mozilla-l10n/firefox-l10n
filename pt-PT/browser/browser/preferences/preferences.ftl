@@ -39,7 +39,7 @@ policies-notice =
 pane-general-title = Geral
 category-general =
     .tooltiptext = { pane-general-title }
-pane-home-title = Página inicial
+pane-home-title = Início
 category-home =
     .tooltiptext = { pane-home-title }
 pane-search-title = Pesquisa
@@ -363,7 +363,7 @@ home-restore-defaults =
 # "Firefox" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
-    .label = Página inicial do Firefox (Predefinição)
+    .label = Início do Firefox (Predefinição)
 home-mode-choice-custom =
     .label = URLs personalizados...
 home-mode-choice-blank =
