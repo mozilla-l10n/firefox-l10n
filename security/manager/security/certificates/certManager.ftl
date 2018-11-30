@@ -172,9 +172,21 @@ delete-email-cert-title =
     .title = மின்னஞ்சல் சான்றிதழ்களை அழி
 delete-email-cert-confirm = இந்த நபர்களின் மின்னஞ்சல் சான்றிதழ்களை அழிக்க வேண்டுமா?
 delete-email-cert-impact = If you delete a person's e-mail certificate,  you will no longer be able to send encrypted e-mail to that person.
+# Used for semi-uniquely representing a cert.
+#
+# Variables:
+#   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
+cert-with-serial =
+    .value = வரிசை எண் கொண்ட சான்றிதழ்: { $serialNumber }
 
 ## Cert Viewer
 
+# Title used for the Certificate Viewer.
+#
+# Variables:
+#   $certificate : a string representative of the certificate being viewed.
+cert-viewer-title =
+    .title = சான்றிதழ் பார்வையாளர்: “{ $certName }”
 not-present =
     .value = <சான்றிதழின் பகுதியல்ல>
 # Cert verification
