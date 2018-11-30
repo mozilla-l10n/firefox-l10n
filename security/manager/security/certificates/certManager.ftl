@@ -12,6 +12,12 @@ certmgr-tab-servers =
     .label = Gweinyddion
 certmgr-tab-ca =
     .label = Awdurdodau
+certmgr-detail-general-tab-title =
+    .label = Cyffredinol
+    .accesskey = C
+certmgr-detail-pretty-print-tab-title =
+    .label = Manylion
+    .accesskey = M
 certmgr-subject-info-label =
     .value = Dynodwyd i
 certmgr-issuer-info-label =
@@ -61,6 +67,15 @@ certmgr-email =
     .label = Cyfeiriad E-bost
 certmgr-serial =
     .label = Rhif Cyfresol
+certmgr-delete =
+    .label = Dileu…
+    .accesskey = D
+certmgr-details =
+    .value = Meysydd Tystysgrif
+    .accesskey = T
+certmgr-fields =
+    .value = Gwerth Maes
+    .accesskey = G
 exception-mgr =
     .title = Ychwanegu Eithriad Diogelwch
 exception-mgr-extra-button =
@@ -72,6 +87,9 @@ exception-mgr-cert-location-url =
 exception-mgr-cert-location-download =
     .label = Estyn Tystysgrif
     .accesskey = G
+exception-mgr-permanent =
+    .label = Cadw'r estyniad yn barhaol
+    .accesskey = C
 pkcs12-unknown-err = Methodd gweithrediad PKCS #12 am reswm anhysbys.
 pkcs12-info-no-smartcard-backup = Nid yw'n bosibl cadw tystysgrif wrth gefn o ddyfeisiadau caledwedd diogelwch megis cerdyn cof.
 pkcs12-dup-data = Mae'r dystysgrif a'r allwedd breifat yn bodoli eisoes ar y ddyfais diogelwch.
@@ -105,6 +123,8 @@ delete-email-cert-title =
 
 ## Cert Viewer
 
+# Cert verification
+cert-verified = Nid yw'r dystysgrif wedi cael ei gwirio ar gyfer y defnydd canlynol:
 # Add usage
 verify-ssl-client =
     .value = Tystysgrif Cleient SSL
