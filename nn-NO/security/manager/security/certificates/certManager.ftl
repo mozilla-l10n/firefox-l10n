@@ -67,6 +67,12 @@ certmgr-email =
     .label = E-postadresse
 certmgr-serial =
     .label = Serienummer
+certmgr-delete =
+    .label = Slett…
+    .accesskey = S
+certmgr-delete-builtin =
+    .label = Slett/opphev tiltru…
+    .accesskey = e
 certmgr-details =
     .value = Sertifikatfelt
     .accesskey = r
@@ -99,9 +105,13 @@ choose-p12-restore-file-dialog = Sertifikatfil som skal importerast
 
 file-browse-certificate-spec = Sertifikatfiler
 import-ca-certs-prompt = Vel fil som inneheld CA-sertifikat(a) du vil importerae
+import-email-cert-prompt = Vel fil som inneheld e-postsertifikatet du vil importere
 
 ## For editing certificates trust
 
+# Variables:
+#   $certName: the name of certificate
+edit-trust-ca = Sertifikatet «{ $certName }» representerer ein sertifikatutskrivar.
 
 ## For Deleting Certificates
 
@@ -119,9 +129,17 @@ delete-ca-cert-confirm = Du har førespurt å slette desse CA-sertifikata. For i
 delete-ca-cert-impact = Dersom du slettar eller fjernar tiltru til ein sertifikatutskrivar (CA) vil dette programmet ikkje lenger stola på sertifikat som vart utskrivne av den CA-en.
 delete-email-cert-title =
     .title = Slett e-postsertifikat
+delete-email-cert-confirm = Er du sikker på at du vil sletta e-postsertifikata åt desse personane?
+delete-email-cert-impact = Dersom du slettar ein person sitt e-postsertifikat vil du ikkje lenger kunne senda kryptert e-post til den personen.
 
 ## Cert Viewer
 
+# Title used for the Certificate Viewer.
+#
+# Variables:
+#   $certificate : a string representative of the certificate being viewed.
+cert-viewer-title =
+    .title = Sertifikatvisar: “{ $certName }”
 not-present =
     .value = <Ikkje ein del av sertifikatet>
 # Cert verification
@@ -155,6 +173,7 @@ add-exception-domain-mismatch-short = Feil nettstad
 add-exception-domain-mismatch-long = Sertifikatet høyrer til ein annan nettstad, noko som kan tyda at nokon freistar å etterlikna nettstaden.
 add-exception-expired-long = Sertifikatet er ikkje gyldig no. Sertifikatet kan ha vorte stole eller tapt, og det kan vera at nokon brukar det til å etterlikna denne nettstaden.
 add-exception-unverified-or-bad-signature-short = Ukjend identitet
+add-exception-unverified-or-bad-signature-long = Sertifikatet er ikkje tiltrudd fordi det ikkje er stadfesta at sertifikatet er skrive ut av ein kjend utskrivar med ein trygg signatur.
 add-exception-valid-short = Gyldig sertifikat
 add-exception-valid-long = Denne nettstaden har ein gyldig, stadfesta identitet. Det er ikkje nødvendig å leggja til eit unntak.
 add-exception-checking-short = Kontrollerer informasjon
