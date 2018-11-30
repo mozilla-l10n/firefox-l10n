@@ -24,6 +24,8 @@ certmgr-subject-info-label =
     .value = ចេញ​ឲ្យ
 certmgr-issuer-info-label =
     .value = ​ចេញ​ដោយ
+certmgr-period-of-validity-label =
+    .value = រយៈពេល​សុពលភាព
 certmgr-fingerprints-label =
     .value = ស្នាម​ផ្តិត​មេ​ដៃ
 certmgr-cert-detail =
@@ -38,6 +40,8 @@ certmgr-cert-detail-ou =
     .value = ផ្នែក​នៃ​អង្គការ​ (OU)
 certmgr-cert-detail-serialnumber =
     .value = លេខ​សម្គាល់
+certmgr-cert-detail-sha256-fingerprint =
+    .value = ស្នាម​ផ្ដិត​មេដៃ SHA-256
 certmgr-cert-detail-sha1-fingerprint =
     .value = ស្នាម​ផ្ដិត​មេ​ដៃ SHA1
 certmgr-edit-ca-cert =
@@ -59,6 +63,8 @@ certmgr-override-lifetime =
     .label = អាយុកាល
 certmgr-token-name =
     .label = ឧបករណ៍​សុវត្ថិភាព
+certmgr-begins-label =
+    .label = ចាប់ផ្ដើម​នៅ
 certmgr-begins-value =
     .value = { certmgr-begins-label.label }
 certmgr-expires-label =
@@ -99,6 +105,9 @@ certmgr-details =
 certmgr-fields =
     .value = តម្លៃ​វាល
     .accesskey = V
+certmgr-hierarchy =
+    .value = ឋានានុក្រម​វិញ្ញាបនបត្រ
+    .accesskey = H
 certmgr-add-exception =
     .label = បន្ថែម​ករណី​លើកលែង…
     .accesskey = x
@@ -137,9 +146,13 @@ choose-p12-restore-file-dialog = ឯកសារ​វិញ្ញាបនប�
 
 file-browse-certificate-spec = ឯកសារ​វិញ្ញាបនបត្រ
 import-ca-certs-prompt = ជ្រើស​ឯកសារ​ដែល​មាន​វិញ្ញាបនបត្រ CA ដើម្បី​នាំចូល
+import-email-cert-prompt = ជ្រើស​ឯកសារ​ដែល​មាន​វិញ្ញាបនបត្រ​អ៊ីមែល​របស់​អ្នកណា​ម្នាក់​ដើម្បី​នាំចូល
 
 ## For editing certificates trust
 
+# Variables:
+#   $certName: the name of certificate
+edit-trust-ca = វិញ្ញាបនបត្រ "{ $certName }" តំណាង​ឲ្យ​ប្រភព​វិញ្ញាបនបត្រ ។
 
 ## For Deleting Certificates
 
@@ -157,6 +170,8 @@ delete-ca-cert-confirm = អ្នក​បាន​ស្នើ​ឲ្យ​�
 delete-ca-cert-impact = ប្រសិនបើ អ្នក​លុប ឬ​មិន​ទុកចិត្ត​លើ​វិញ្ញាបនបត្រ (CA) របស់​ប្រភព​វិញ្ញាបនបត្រ កម្មវិធី​នេះ​ក៏​នឹង​លែង​ទុកចិត្ត​លើ​វិញ្ញាបនបត្រ​ណាមួយ​ដែល​បាន​ចេញ​ដោយ CA នោះ​ដែរ ។
 delete-email-cert-title =
     .title = លុប​វិញ្ញាបនបត្រ​អ៊ីមែល
+delete-email-cert-confirm = តើ​អ្នក​ពិតជា​ចង់​លុប​វិញ្ញាបនបត្រ​អ៊ីមែល​របស់​មនុស្ស​ទាំងអស់​នេះ​ឬ ?
+delete-email-cert-impact = ប្រសិនបើ អ្នក​លុប​វិញ្ញាបនបត្រ​អ៊ីមែល​របស់​មនុស្ស​ណា​ម្នាក់ អ្នក​ក៏​នឹង​មិន​អាច​ផ្ញើ​អ៊ីមែល​ដែល​បាន​អ៊ិនគ្រីប​ទៅកាន់​មនុស្ស​ម្នាក់​នោះ​បាន​ទៀត​ដែរ ។
 
 ## Cert Viewer
 
@@ -187,9 +202,14 @@ cert-not-verified-unknown = មិន​អាច​ផ្ទៀងផ្ទា�
 add-exception-branded-warning = អ្នក​បម្រុង​នឹង​បដិសេធ​របៀប { -brand-short-name } កំណត់​អត្តសញ្ញាណ​តំបន់បណ្ដាញ​នេះ ។
 add-exception-invalid-header = តំបន់បណ្ដាញ​នេះ​ព្យាយាម​កំណត់​អត្តសញ្ញាណ​ដោយ​ខ្លួន​វា​ផ្ទាល់​ដោយ​ប្រើ​ព័ត៌មាន​មិន​ត្រឹមត្រូវ ។
 add-exception-domain-mismatch-short = តំបន់បណ្ដាញ​មិន​ត្រឹមត្រូវ
+add-exception-domain-mismatch-long = វិញ្ញាបនបត្រ​ជា​កម្មសិទ្ធិ​របស់​វេបសាយ​ផ្សេង មានន័យថា​អាច​មាន​នរណា​ម្នាក់​កំពុង​ព្យាយាម​ក្លែង​ប្រើ​វេបសាយ​នេះ។
 add-exception-expired-short = ព័ត៌មាន​ហួស​សម័យ
+add-exception-expired-long = វិញ្ញាបនបត្រ​បច្ចុប្បន្ន​គឺ​មិន​ត្រឹមត្រូវ។ វា​អាច​ត្រូវ​បាន​លួច ឬ​បាត់បង់ ហើយ​បាន​ប្រើ​ដោយ​នរណា​ម្នាក់​ដើម្បី​ក្លែង​ចូល​វេបសាយ​នេះ។
 add-exception-unverified-or-bad-signature-short = មិន​ស្គាល់​អត្តសញ្ញាណ
+add-exception-unverified-or-bad-signature-long = មិន​ទុកចិត្ត​វិញ្ញាបនបត្រ ព្រោះ​វា​មិន​ផ្ទៀងផ្ទាត់​ថា​បា​ន​ចេញ​ដោយ​​​ប្រភព​ដែល​ទុកចិត្ត ដោយ​ប្រើ​ហត្ថលេខា​​សុវត្ថិភាព ។
 add-exception-valid-short = វិញ្ញាបនបត្រ​ត្រឹមត្រូវ
 add-exception-valid-long = តំបន់បណ្ដាញ​នេះ​ផ្ដល់​នូវ​ការ​កំណត់​អត្តសញ្ញាណ​ដែល​បាន​ផ្ទៀងផ្ទាត់ និង​ត្រឹមត្រូវ ។  អ្នក​មិន​ចាំបាច់​បន្ថែម​ករណី​លើកលែង​ទេ ។
 add-exception-checking-short = កំពុង​ពិនិត្យមើល​ព័ត៌មាន
+add-exception-checking-long = កំពុង​ព្យាយាម​កំណត់​អត្តសញ្ញាណ​តំបន់បណ្ដាញ…
 add-exception-no-cert-short = គ្មាន​ព័ត៌មាន
+add-exception-no-cert-long = មិន​អាច​ទទួល​បាន​ស្ថានភាព​នៃ​ការ​កំណត់​អត្តសញ្ញាណ​សម្រាប់​តំបន់បណ្ដាញ​នេះ។
