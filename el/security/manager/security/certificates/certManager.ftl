@@ -6,6 +6,16 @@ certmgr-title =
     .title = Διαχείριση πιστοποιητικών
 certmgr-tab-mine =
     .label = Τα πιστοποιητικά σας
+certmgr-tab-people =
+    .label = Άτομα
+certmgr-tab-servers =
+    .label = Διακομιστές
+certmgr-tab-ca =
+    .label = Αρχές
+certmgr-mine = Έχετε πιστοποιητικά από αυτούς τους οργανισμούς που σάς ταυτοποιούν
+certmgr-people = Έχετε πιστοποιητικά στο αρχείο που ταυτοποιούν αυτά τα άτομα
+certmgr-servers = Έχετε πιστοποιητικά στο αρχείο που ταυτοποιούν αυτούς τους διακομιστές
+certmgr-ca = Έχετε πιστοποιητικά στο αρχείο που ταυτοποιούν αυτές τις αρχές πιστοποιητικών
 certmgr-detail-general-tab-title =
     .label = Γενικά
     .accesskey = Γ
@@ -161,9 +171,21 @@ delete-ca-cert-title =
 delete-ca-cert-confirm = Ζητήσατε να διαγράψετε αυτά τα πιστοποιητικά CA. Για τα ενσωματωμένα πιστοποιητικά υπάρχει και η επιλογή της άρσης εμπιστοσύνης που έχει το ίδιο αποτέλεσμα. Θέλετε τα τα διαγράψετε ή να άρετε την εμπιστοσύνη σας;
 delete-ca-cert-impact = Αν διαγράψετε ή άρετε την εμπιστοσύνη σας σε ένα πιστοποιητικό αρχής πιστοποίησης (CA), αυτή η εφαρμογή δεν θα εμπιστεύεται πια πιστοποιητικά από αυτή την CA.
 delete-email-cert-impact = Εάν διαγράψετε ένα πιστοποιητικό e-mail,  δεν θα μπορείτε πια να στέλνετε κρυπτογραφημένη αλληλογραφία σε αυτούς τους ανθρώπους.
+# Used for semi-uniquely representing a cert.
+#
+# Variables:
+#   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
+cert-with-serial =
+    .value = Πιστοποιητικό με σειριακό αριθμό: { $serialNumber }
 
 ## Cert Viewer
 
+# Title used for the Certificate Viewer.
+#
+# Variables:
+#   $certificate : a string representative of the certificate being viewed.
+cert-viewer-title =
+    .title = Προβολή πιστοποιητικού: “{ $certName }”
 not-present =
     .value = <Δεν είναι μέρος του πιστοποιητικού>
 # Cert verification
