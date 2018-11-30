@@ -15,6 +15,14 @@ findbar-highlight-all =
     .label = הדגשת הכול
     .accesskey = ד
     .tooltiptext = הדגשת כל המופעים של הביטוי
+findbar-highlight-all2 =
+    .label = הדגשת הכל
+    .accesskey =
+        { PLATFORM() ->
+            [macos] ג
+           *[other] ד
+        }
+    .tooltiptext = הדגשת כל המופעים של הביטוי
 findbar-case-sensitive =
     .label = התאמת אותיות גדולות/קטנות
     .accesskey = ת

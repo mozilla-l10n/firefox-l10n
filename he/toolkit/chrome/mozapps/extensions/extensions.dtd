@@ -4,6 +4,8 @@
 <!ENTITY addons.windowTitle                   "מנהל התוספות">
 
 <!ENTITY search.placeholder2                  "חיפוש ב־addons.mozilla.org">
+
+<!ENTITY search.placeholder3                  "חיפוש ב־addons.mozilla.org">
 <!ENTITY search.buttonlabel                   "חיפוש">
 <!-- LOCALIZATION NOTE (search.commandkey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
@@ -41,6 +43,10 @@
 <!ENTITY view.discover.label                  "קבלת תוספות">
 <!ENTITY view.recentUpdates.label             "עדכונים אחרונים">
 <!ENTITY view.availableUpdates.label          "עדכונים זמינים">
+
+<!ENTITY helpButton.label                      "תמיכה בתוספות">
+<!ENTITY preferencesWin.label                  "אפשרויות של &brandShortName;">
+<!ENTITY preferencesUnix.label                 "העדפות של &brandShortName;">
 
 <!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "בדיקת עדכונים">
@@ -80,9 +86,8 @@
 <!ENTITY cmd.preferencesWin.accesskey         "א">
 <!ENTITY cmd.preferencesUnix.label            "העדפות">
 <!ENTITY cmd.preferencesUnix.accesskey        "ה">
-<!ENTITY cmd.about.label                      "אודות">
-<!ENTITY cmd.about.accesskey                  "א">
 
+<!-- addon actions -->
 <!ENTITY cmd.enableAddon.label                "הפעלה">
 <!ENTITY cmd.enableAddon.accesskey            "פ">
 <!ENTITY cmd.disableAddon.label               "ניטרול">
@@ -91,6 +96,7 @@
 <!ENTITY cmd.enableTheme.accesskey            "ל">
 <!ENTITY cmd.disableTheme.label               "הפסק ללבוש ערכת נושא">
 <!ENTITY cmd.disableTheme.accesskey           "ה">
+
 <!ENTITY cmd.askToActivate.label              "בקשת אישור להפעלה">
 <!ENTITY cmd.askToActivate.tooltip            "בקשת אישור כל פעם להשתמש בתוספת זו">
 <!ENTITY cmd.alwaysActivate.label             "הפעלה תמיד">
@@ -100,6 +106,7 @@
 <!ENTITY cmd.stateMenu.tooltip                "לשנות כאשר תוספת זו רצה">
 <!ENTITY cmd.installAddon.label               "התקנה">
 <!ENTITY cmd.installAddon.accesskey           "ה">
+
 <!ENTITY cmd.uninstallAddon.label             "הסרה">
 <!ENTITY cmd.uninstallAddon.accesskey         "ה">
 <!ENTITY cmd.showPreferencesWin.label         "אפשרויות">
@@ -159,16 +166,12 @@
 
 <!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "השהיה">
+
+<!-- download/install progress -->
 <!ENTITY progress.cancel.tooltip              "ביטול">
 
-
-<!-- list sorting -->
-<!ENTITY sort.name.label                      "שם">
-<!ENTITY sort.name.tooltip                    "מיון לפי שם">
-<!ENTITY sort.dateUpdated.label               "עודכן לאחרונה">
-<!ENTITY sort.dateUpdated.tooltip             "מיון לפי תאריך עדכון">
-
 <!ENTITY addon.homepage                       "דף בית">
+
 <!ENTITY addon.details.label                  "עוד">
 <!ENTITY addon.details.tooltip                "הצגת פרטים נוספים על תוספת זו">
 <!ENTITY addon.unknownDate                    "לא ידוע">
@@ -190,6 +193,7 @@
 <!ENTITY addon.undoRemove.label               "ביטול">
 <!ENTITY addon.undoRemove.tooltip             "השאר תוספת זו מותקנת">
 <!ENTITY addon.restartNow.label               "הפעלה מחדש כעת">
+
 <!ENTITY addon.install.label                  "התקנה">
 <!ENTITY addon.install.tooltip                "התקנת תוספת זו">
 <!ENTITY addon.updateNow.label                "עדכון כעת">
@@ -209,17 +213,6 @@
 <!ENTITY eula.accept                          "קבלת התנאים והתקנה…">
 
 <!ENTITY settings.path.button.label           "עיון…‏">
-
-<!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
-     experiments are present on the "Experiments" tab of the add-ons manager.
-     This tab won't be displayed unless an Experiment add-on is installed.
-     Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
-     to cause this tab to appear. -->
-<!ENTITY experiment.info.label "מה זה? Telemetry עשוי להתקין ולהריץ ניסוים מידי פעם.">
-<!ENTITY experiment.info.learnmore "מידע נוסף">
-<!ENTITY experiment.info.learnmore.accesskey "מ">
-<!ENTITY experiment.info.changetelemetry "הגדרות Telemetry">
-<!ENTITY experiment.info.changetelemetry.accesskey "ה">
 
 <!ENTITY setting.learnmore "מידע נוסף…">
 
