@@ -178,6 +178,7 @@ cert-not-verified-cert-not-trusted = Mana hin ka tabatiyan-tiiraa woo koroši za
 cert-not-verified-issuer-not-trusted = Mana hin ka tabatiyan-tiiraa woo koroši zama naanay ši kaataraykaa ga.
 cert-not-verified-issuer-unknown = Mana hin ka tabatiyan-tiiraa woo koroši zama kaataraykaa ši bayandi.
 cert-not-verified-ca-invalid = Mana hin ka tabatiyan-tiiraa woo koroši zama nga tabatiyan-tiira hini tabatiyan-tiiraa ši boori.
+cert-not-verified_algorithm-disabled = Mana hin ka tabatiyan-tiiraa woo zama a ma šilbandi nda kabu laasaabu kaŋ kayandi zama kabu laasaaboo manti saajante.
 
 ## Add Security Exception dialog
 
