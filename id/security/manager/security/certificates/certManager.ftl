@@ -176,9 +176,21 @@ delete-email-cert-title =
     .title = Hapus Sertifikat Surel
 delete-email-cert-confirm = Yakin ingin menghapus sertifikat email perorangan ini?
 delete-email-cert-impact = Jika Anda menghapus sertifikat email seseorang, Anda tidak akan bisa lagi mengirim email terenkripsi kepada orang tersebut.
+# Used for semi-uniquely representing a cert.
+#
+# Variables:
+#   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
+cert-with-serial =
+    .value = Sertifikat dengan nomor seri: { $serialNumber }
 
 ## Cert Viewer
 
+# Title used for the Certificate Viewer.
+#
+# Variables:
+#   $certificate : a string representative of the certificate being viewed.
+cert-viewer-title =
+    .title = Penampil Sertifikat: “{ $certName }”
 not-present =
     .value = <Bukan Bagian dari Sertifikat>
 # Cert verification
