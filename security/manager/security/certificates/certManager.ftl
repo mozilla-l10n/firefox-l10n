@@ -24,6 +24,8 @@ certmgr-subject-info-label =
     .value = صادر شده برای
 certmgr-issuer-info-label =
     .value = صادر شده توسط
+certmgr-period-of-validity-label =
+    .value = مدت اعتبار
 certmgr-fingerprints-label =
     .value = اثر انگشت
 certmgr-cert-detail =
@@ -38,6 +40,8 @@ certmgr-cert-detail-ou =
     .value = واحد سازمانی (OU)
 certmgr-cert-detail-serialnumber =
     .value = شمارهٔ سریال
+certmgr-cert-detail-sha256-fingerprint =
+    .value = اثر انگشت SHA-256
 certmgr-cert-detail-sha1-fingerprint =
     .value = اثر انگشت SHA1
 certmgr-edit-ca-cert =
@@ -59,6 +63,8 @@ certmgr-override-lifetime =
     .label = مدت زمان
 certmgr-token-name =
     .label = دستگاه امنیتی
+certmgr-begins-label =
+    .label = آغاز می شود در
 certmgr-begins-value =
     .value = { certmgr-begins-label.label }
 certmgr-expires-label =
@@ -99,6 +105,9 @@ certmgr-details =
 certmgr-fields =
     .value = مقدار فیلد
     .accesskey = م
+certmgr-hierarchy =
+    .value = سلسه‌مراتب گواهی‌ها
+    .accesskey = H
 certmgr-add-exception =
     .label = افزودن استثنا…
     .accesskey = ا
@@ -137,9 +146,13 @@ choose-p12-restore-file-dialog = پروندهٔ گواهی برای وارد ک�
 
 file-browse-certificate-spec = پرونده‌های گواهی
 import-ca-certs-prompt = پروندهٔ حاوی گواهی صادر شده توسط مرجع صدور را انتخاب کنید تا گواهی از آن وارد شود
+import-email-cert-prompt = پروندهٔ حاوی گواهی پست الکترونیکی کسی را انتخاب کنید تا گواهی از آن وارد شود
 
 ## For editing certificates trust
 
+# Variables:
+#   $certName: the name of certificate
+edit-trust-ca = گواهی «{ $certName }» نمایندهٔ یک مرجع صدور گواهی است.
 
 ## For Deleting Certificates
 
@@ -157,9 +170,23 @@ delete-ca-cert-confirm = شما درخواست حذف این گواهی‌ها �
 delete-ca-cert-impact = اگر گواهی یک مرجع گواهی (CA) را حذف کنید یا از آن سلب اطمینان کنید، این برنامه دیگر قادر به اعتماد کردن به گواهی‌هایی که توسط آن مرجع صادر می‌شود نخواهد بود.
 delete-email-cert-title =
     .title = حذف گواهی‌های پست الکترونیکی
+delete-email-cert-confirm = آیا مطمئنید که می‌خواهید گواهی‌های پست الکترونیکی این افراد را حذف کنید؟
+delete-email-cert-impact = اگر گواهی پست الکترونیکی شخصی را حذف کنید، دیگر قادر به ارسال نامهٔ الکترونیکی رمز شده به وی نخواهید بود.
+# Used for semi-uniquely representing a cert.
+#
+# Variables:
+#   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
+cert-with-serial =
+    .value = گواهینامه با شماره سریال: { $serialNumber }
 
 ## Cert Viewer
 
+# Title used for the Certificate Viewer.
+#
+# Variables:
+#   $certificate : a string representative of the certificate being viewed.
+cert-viewer-title =
+    .title = نمایش دهنده گواهینامه:“{ $certName }”
 not-present =
     .value = <جزء گواهی نیست>
 # Cert verification
@@ -182,6 +209,7 @@ cert-not-verified-cert-not-trusted = نمی‌توان اعتبار این گو�
 cert-not-verified-issuer-not-trusted = نمی‌توان اعتبار این گواهی را سنجید چون صادر کنندهٔ آن مورد اعتماد نیست.
 cert-not-verified-issuer-unknown = نمی‌توان اعتبار این گواهی را سنجید چون صادر کنندهٔ آن نامعلوم است.
 cert-not-verified-ca-invalid = نمی‌توان اعتبار این گواهی را سنجید چون مرجع صدور آن نامعتبر است.
+cert-not-verified_algorithm-disabled = این گواهینامه به دلیل‌ امضا شدن توسط الگوریتمی که به دلیل امن نبودن غیر فعال شده است غیرقابل اطمینان می‌باشد.
 cert-not-verified-unknown = به دلایل نامعلوم نمی‌توان اعتبار این گواهی را سنجید.
 
 ## Add Security Exception dialog
@@ -189,8 +217,14 @@ cert-not-verified-unknown = به دلایل نامعلوم نمی‌توان ا�
 add-exception-branded-warning = شما در حال تغییر روشی هستید که { -brand-short-name } توسط آن این پایگاه را می‌شناسد.
 add-exception-invalid-header = این پایگاه در حال شناساندن خود با استفاده از اطلاعات نادرست است.
 add-exception-domain-mismatch-short = پایگاه نادرست
+add-exception-domain-mismatch-long = گواهی‌نامه متعلق به سایت دیگری است، که می تواند به این معنا باشد که کسی در تلاش است تا هویت این پایگاه را جعل کند.
 add-exception-expired-short = اطلاعات کهنه
+add-exception-expired-long = گواهی‌نامه در حال حاضر معتبر نیست. ممکن است دزدیده و یا از دست داده شده، و توسط شخص دیگری جهت جعل هویت این پایگاه استفاده شده باشد.
+add-exception-unverified-or-bad-signature-short = هویت نامشخص
+add-exception-unverified-or-bad-signature-long = گواهی‌نامه قابل اعتماد نیست زیرا صدور آن توسط یک مقام قابل اعتماد با استفاده از یک امضای امن تایید نشده است.
 add-exception-valid-short = گواهی معتبر
 add-exception-valid-long = گواهی ارائه شده توسط این پایگاه معتبر و تأیید شده است.  نیازی به افزودن استثنا برای این پایگاه وجود ندارد.
 add-exception-checking-short = در حال وارسی اطلاعات
+add-exception-checking-long = تلاش برای شناسایی این پایگاه …
 add-exception-no-cert-short = هیچ اطلاعاتی وجود ندارد
+add-exception-no-cert-long = تعیین وضعیت شناسایی این پایگاه امکان‌پذیر نمی‌باشد.
