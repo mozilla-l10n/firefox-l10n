@@ -13,6 +13,7 @@ pkcs12-unknown-err-restore = অজ্ঞাত কারণে PKCS #12 ফা�
 
 ## PKCS#12 file dialogs
 
+file-browse-pkcs12-spec = PKCS12 ফাইল
 
 ## Import certificate(s) file dialog
 
