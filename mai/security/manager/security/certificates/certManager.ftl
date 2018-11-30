@@ -190,6 +190,7 @@ add-exception-branded-warning = ई साइट कहिना { -brand-short-
 add-exception-invalid-header = ई साइट स्वयंकेँ अवैध सूचनाक सँग पहचानैक प्रयास करैत अछि.
 add-exception-domain-mismatch-short = गलत साइट
 add-exception-expired-short = पुरानी सूचना
+add-exception-unverified-or-bad-signature-short = अज्ञात पहचान
 add-exception-valid-short = वैध प्रमाणपत्र
 add-exception-valid-long = ई साइट वैध, जांचल गेल पहचान देत अछि.  ककरो अपवाद केँ जोड़ने क जरूरत नहि अछि.
 add-exception-no-cert-short = कोनो सूचना उपलब्ध नहि
