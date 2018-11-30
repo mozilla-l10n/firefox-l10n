@@ -18,6 +18,7 @@ policy-BlockAboutProfiles = חסימת הגישה לעמוד about:profiles.
 policy-BlockAboutSupport = חסימת הגישה לעמוד about:support.
 policy-Bookmarks = יצירת סימניות בסרגל הסימניות, תפריט הסימניות או בתיקייה מסוימת בתוכם.
 policy-Certificates = האם להשתמש באישורים המובנים. מדיניות זו תקפה ל־Windows בלבד נכון לעכשיו.
+policy-CertificatesDescription = הוספת אישורים או שימוש באישורים מובנים.
 policy-Cookies = לאשר או לסרב להגדרת עוגיות מאתרים.
 policy-DisableAppUpdate = מניעת עדכון הדפדפן.
 policy-DisableBuiltinPDFViewer = נטרול PDF.js, מציג ה־PDF המובנה ב־{ -brand-short-name }.
@@ -34,6 +35,7 @@ policy-DisablePocket = נטרול התכונה לשמירת דפי אינטרנ�
 policy-DisablePrivateBrowsing = נטרול גלישה פרטית.
 policy-DisableProfileImport = נטרול פקודת התפריט לייבוא נתונים מדפדפן אחר.
 policy-DisableProfileRefresh = נטרול הכפתור 'רענון { -brand-short-name }' בעמוד about:support.
+policy-DisableSafeMode = השבתת התכונה להפעלה מחדש במצב בטוח. לתשומת לבך: ניתן להשבית את מקש ה־Shift לכניסה למצב בטוח רק ב־Windows באמצעות מדיניות קבוצתית.
 policy-DisableSecurityBypass = למנוע מהמשתמש לעקוף אזהרות אבטחה מסוימות.
 policy-DisableSetDesktopBackground = להשבית את הפקודה לקביעת רקע כרקע שולחן העבודה בתפריט.
 policy-DisableSetAsDesktopBackground = להשבית את הפקודה לקביעה כרקע שולחן העבודה בתפריט עבור תמונות.
@@ -41,9 +43,14 @@ policy-DisableSystemAddonUpdate = למנוע מהדפדפן להתקין ולע�
 policy-DisableTelemetry = כיבוי Telemetry.
 policy-DisplayBookmarksToolbar = הצגת סרגל הכלים של הסימניות כברירת מחדל.
 policy-DisplayMenuBar = הצגת סרגל התפריטים כברירת מחדל.
+policy-DNSOverHTTPS = הגדרת DNS על גבי HTTPS.
 policy-DontCheckDefaultBrowser = נטרול בדיקת דפדפן ברירת המחדל עם ההפעלה.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = הפעלה או נטרול של חסימת תוכן עם אפשרות לנעול את הבחירה.
+# A “locked” extension can’t be disabled or removed by the user. This policy
+# takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
+# English or translate them as verbs.
+policy-Extensions = התקנה, הסרה או נעילה של הרחבות. אפשרות ההתקנה מקבלת כתובות או נתיבים בתור משתנים. האפשרויות להסרה ולנעילה מקבלות מזהים של הרחבות.
 policy-FlashPlugin = לאפשר או לדחות את השימוש בתוסף החיצוני Flash.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = הגדרה ונעילה כרשות של דף הבית.
@@ -51,9 +58,11 @@ policy-InstallAddonsPermission = לאפשר לאתרים מסוימים להתק
 policy-Permissions = קביעת תצורה של הרשאות עבור מצלמה, מיקרופון, מיקום והתרעות.
 policy-PopupBlocking = לאפשר לאתרים מסוימים להקפיץ חלונות כברירת מחדל.
 policy-Proxy = קביעת תצורה של הגדרות שרת מתווך.
+policy-RequestedLocales = הגדרת רשימת השפות המבוקשות עבור היישום לפי סדר העדפה.
 policy-SanitizeOnShutdown = ניקוי כל נתוני הניווט עם הכיבוי.
 policy-SearchBar = הגדרת מיקום ברירת המחדל של סרגל החיפוש. המשתמש עדיין מורשה להתאים זאת אישית.
 policy-SearchEngines = הגדרת תצורת מנועי החיפוש. מדיניות זו זמינה רק בגרסה עם תמיכה מורחבת (ESR).
-# “format” refers to the format used for the value of this policy. See also:
-# https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
+# For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
+policy-SecurityDevices = התקנת מודולי PKCS #11.
+# “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = חסימת ביקור באתרים. יש לעיין בתיעוד לקבלת פרטים נוספים על התבנית.

@@ -62,6 +62,10 @@ permissions-exceptions-tracking-protection-window =
     .title = חריגות - הגנת מעקב
     .style = { permissions-window.style }
 permissions-exceptions-tracking-protection-desc = ביטלת את הגנת המעקב באתרים אלו.
+permissions-exceptions-content-blocking-window =
+    .title = חריגות - חסימת תוכן
+    .style = { permissions-window.style }
+permissions-exceptions-content-blocking-desc = ביטלת את חסימת התוכן באתרים אלו.
 
 ## Exceptions - Cookies
 

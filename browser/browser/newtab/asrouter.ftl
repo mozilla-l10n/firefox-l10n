@@ -9,6 +9,10 @@ cfr-doorhanger-extension-cancel-button = לא עכשיו
     .accesskey = ע
 cfr-doorhanger-extension-ok-button = הוספה כעת
     .accesskey = ס
+cfr-doorhanger-extension-manage-settings-button = ניהול הגדרות המלצות
+    .accesskey = ג
+cfr-doorhanger-extension-never-show-recommendation = לא להציג לי המלצה זו
+    .accesskey = ל
 cfr-doorhanger-extension-learn-more-link = מידע נוסף
 # This string is used on a new line below the add-on name
 # Variables:
