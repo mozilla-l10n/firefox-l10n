@@ -17,6 +17,8 @@ pkcs12-unknown-err = PKCS #12 işlemi bilinmeyen sebeplerden dolayı başarısı
 
 ## PKCS#12 file dialogs
 
+choose-p12-backup-file-dialog = Yedekleme için dosya adı
+file-browse-pkcs12-spec = PKSC12 Dosyaları
 
 ## Import certificate(s) file dialog
 
