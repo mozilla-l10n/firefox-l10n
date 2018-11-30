@@ -72,11 +72,17 @@ certmgr-serial =
 certmgr-view =
     .label = दृश्य…
     .accesskey = V
+certmgr-edit =
+    .label = Edit Trust…
+    .accesskey = E
 certmgr-export =
     .label = निर्यात…
     .accesskey = x
 certmgr-delete =
     .label = मिटाएँ…
+    .accesskey = D
+certmgr-delete-builtin =
+    .label = Delete or Distrust…
     .accesskey = D
 certmgr-backup =
     .label = बैकअप…
@@ -98,6 +104,9 @@ certmgr-add-exception =
     .accesskey = x
 exception-mgr =
     .title = सुरक्षा अपवाद जोड़ें
+exception-mgr-extra-button =
+    .label = Confirm Security Exception
+    .accesskey = C
 exception-mgr-supplemental-warning = वैध बैंक, भंडार, और दूसरे सार्वजनिक साइट आपको ऐसा करने के लिए नहीं कहेंगे.
 exception-mgr-cert-location-url =
     .value = स्थान:
@@ -122,6 +131,7 @@ pkcs12-dup-data = प्रमाणपत्र और निजी कुं�
 
 choose-p12-backup-file-dialog = बैकअप के लिये फाइलनाम
 file-browse-pkcs12-spec = PKCS12 फाइल
+choose-p12-restore-file-dialog = Certificate File to Import
 
 ## Import certificate(s) file dialog
 
@@ -140,6 +150,10 @@ delete-ssl-cert-title =
     .title = सर्वर प्रमाणपत्र अपवाद मिटायें
 delete-ssl-cert-confirm = क्या आप इन सर्वर अपवाद को मिटाने के लिये निश्चित हैं?
 delete-ssl-cert-impact = यदि आप सर्वर अपवाद मिटाते हैं, आप सामान्य सुरक्षा जांच उस सर्वर के लिए फिर बहाल करते हैं और आपके लिए जरूरी है कि यह वैध प्रमाणपत्र का प्रयोग करता है.
+delete-ca-cert-title =
+    .title = Delete or Distrust CA Certificates
+delete-ca-cert-confirm = You have requested to delete these CA certificates. For built-in certificates all trust will be removed, which has the same effect. Are you sure you want to delete or distrust?
+delete-ca-cert-impact = If you delete or distrust a certificate authority (CA) certificate, this application will no longer trust any certificates issued by that CA.
 delete-email-cert-title =
     .title = ईमेल प्रमाणपत्र मिटाएँ
 
@@ -167,6 +181,7 @@ cert-not-verified-cert-not-trusted = इस प्रमाणपत्र क�
 cert-not-verified-issuer-not-trusted = इस प्रमाणपत्र को नहीं जांचा जा सका क्योंकि इसका निर्गतकर्ता विश्वस्त नहीं है.
 cert-not-verified-issuer-unknown = इस प्रमाणपत्र को नहीं जांचा जा सका क्योंकि निर्गतकर्ता अनजान है.
 cert-not-verified-ca-invalid = इस प्रमाणपत्र को नहीं जांचा जा सका क्योंकि CA प्रमाणपत्र अवैध है.
+cert-not-verified_algorithm-disabled = यह प्रमाणपत्र जाँचा नहीं जा सका क्योंकि यह हस्ताक्षर अलगोरिथम के उपयोग से हस्ताक्षरित किया गया है जो निष्क्रिय किया गया क्योंकि अलगोरिथम सुरक्षित नहीं है.
 cert-not-verified-unknown = इस प्रमाणपत्र को नहीं जांचा जा सका अनजान कारणों से.
 
 ## Add Security Exception dialog
@@ -175,6 +190,7 @@ add-exception-branded-warning = यह साइट कैसे { -brand-short-
 add-exception-invalid-header = यह साइट स्वयं को अवैध सूचना के साथ पहचानने का प्रयास करता है.
 add-exception-domain-mismatch-short = गलत साइट
 add-exception-expired-short = पुरानी सूचना
+add-exception-unverified-or-bad-signature-short = अज्ञात पहचान
 add-exception-valid-short = वैध प्रमाणपत्र
 add-exception-valid-long = यह साइट वैध, जांचा गया पहचान देती है.  किसी अपवाद को जोड़ने की जरूरत नहीं है.
 add-exception-checking-short = सूचना जाँच रहा है
