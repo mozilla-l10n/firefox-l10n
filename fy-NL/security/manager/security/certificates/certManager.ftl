@@ -43,6 +43,7 @@ certmgr-export =
 exception-mgr-cert-location-url =
     .value = Lokaasje:
 pk11-bad-password = It ynfierde wachtwurd is net korrekt.
+pkcs12-info-no-smartcard-backup = It is net mooglik om in reservekopy te meitsjen fan sertifikaten die op in befeiligingsapparaat, lykas in smart card, stean.
 
 ## PKCS#12 file dialogs
 
@@ -59,6 +60,7 @@ file-browse-certificate-spec = Sertifikaatbestannen
 
 delete-user-cert-title =
     .title = Jo sertifikaten fuortsmite
+delete-ca-cert-confirm = Jo hawwe frege om dizze CA-sertifikaten fuort te smiten? Foar ynboude sertifikaten sil alle fertrouwen fuortsmiten wurde, wat itselde effekt hat. Binne jo wis dat jo fuortsmite of net fertroue wolle?
 delete-email-cert-title =
     .title = E-mailsertifikaten fuortsmite
 
@@ -72,3 +74,4 @@ verify-ssl-client =
 
 add-exception-branded-warning = Jo steane op it punt om hoe't { -brand-short-name } dizze side identifisearet te oerskriuwen.
 add-exception-expired-short = Alde Ynformaasje
+add-exception-no-cert-short = Gjin ynformaasje beskikber
