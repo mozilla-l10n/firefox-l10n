@@ -22,6 +22,8 @@ certmgr-pending-label =
     .value = בודק אישורים...
 certmgr-issuer-info-label =
     .value = הונפק על־ידי
+certmgr-period-of-validity-label =
+    .value = תקופת תוקף
 certmgr-fingerprints-label =
     .value = טביעות אצבע
 certmgr-cert-detail-cn =
@@ -32,12 +34,17 @@ certmgr-cert-detail-ou =
     .value = יחידה ארגונית
 certmgr-cert-detail-serialnumber =
     .value = מספר סידורי
+certmgr-cert-detail-sha256-fingerprint =
+    .value = טביעת אצבע SHA-256
 certmgr-cert-detail-sha1-fingerprint =
     .value = טביעת אצבע SHA1
 certmgr-edit-cert-trust-ssl =
     .label = אישור זה יכול לזהות אתרים.
 certmgr-edit-cert-trust-email =
     .label = אישור זה יכול לזהות משתמשי דואר.
+certmgr-delete-cert =
+    .title = מחיקת אישור אבטחה
+    .style = width: 48em; height: 24em;
 certmgr-cert-name =
     .label = שם אישור
 certmgr-cert-server =
@@ -46,6 +53,8 @@ certmgr-override-lifetime =
     .label = משך חיים
 certmgr-token-name =
     .label = התקן אבטחה
+certmgr-begins-label =
+    .label = תאריך תחילת תוקף
 certmgr-begins-value =
     .value = { certmgr-begins-label.label }
 certmgr-expires-label =
@@ -56,6 +65,9 @@ certmgr-email =
     .label = כתובת דוא״ל
 certmgr-serial =
     .label = מספר סידורי
+certmgr-delete =
+    .label = מחיקה…
+    .accesskey = מ
 certmgr-delete-builtin =
     .label = מחיקה או אי־אמון…
     .accesskey = מ
@@ -90,13 +102,20 @@ edit-trust-ca = האישור "{ $certName }" מייצג רשות אישורים.
 
 ## For Deleting Certificates
 
+delete-user-cert-title =
+    .title = מחיקת אישורי האבטחה
+delete-user-cert-impact = אם אישורי האבטחה שלך ימחקו, לא יהיה ניתן עוד להשתמש בה כדי להזדהות.
 delete-ssl-cert-title =
     .title = מחיקת חריגות אישורים
 delete-ssl-cert-confirm = האם אתה בטוח שברצונך למחוק את חריגות אלו?
+delete-ssl-cert-impact = אם החריגות תמחקנה, ישוחזרו בדיקות האבטחה הרגילות עבור האתר ויידרש עבורו אישור תקף.
 delete-ca-cert-title =
     .title = מחיקה או הסרת אמון מאישורים
 delete-ca-cert-confirm = ביקשת למחוק את האישורים של רשויות אישורים אלו. עבור אישורים מובנים, כל הסמכויות יוסרו, מה שיתן תוצאה זהה. האם אתה בטוח שברצונך למחוק או להסיר את ההסמכה?
 delete-ca-cert-impact = אם אתה מוחק או מסיר את הסמכות של אישורי רשויות אישורים (CA), יישום זה לא יסמוך יותר על אישורים שהונפקו על־ידי רשות זו.
+delete-email-cert-title =
+    .title = מחיקת אישורי דוא״ל
+delete-email-cert-impact = אם אישור אבטחת הדוא״ל של אדם זה ימחק, לא יהיה ניתן לשלוח אליו הודעות מוצפנות.
 
 ## Cert Viewer
 
@@ -115,7 +134,13 @@ verify-email-signer =
     .value = אישור חותם דוא״ל
 verify-email-recip =
     .value = אישור נמען דוא״ל
+# Cert verification
+cert-not-verified-cert-revoked = לא ניתו לאמת אישור זה משום שהוא בוטל.
+cert-not-verified-cert-expired = לא ניתן לאמת אישור זה משום שתוקפו פג.
+cert-not-verified-issuer-unknown = לא ניתן לאמת אישור זה משום שהמנפיק לא מוכר.
+cert-not-verified-ca-invalid = לא ניתן לאמת אישור זה משום שאישור רשות האישורים אינו בתוקף.
 cert-not-verified_algorithm-disabled = לא ניתן לאמת את אישור אבטחה זה כי הוא נחתם על־ידי אלגוריתם חתימה שנוטרל כי הוא אינו בטוח.
+cert-not-verified-unknown = לא ניתן לאמת אישור זה מסיבות לא מוכרות.
 
 ## Add Security Exception dialog
 
@@ -123,6 +148,7 @@ add-exception-branded-warning = אתה עומד לעקוף את הדרך בה { 
 add-exception-invalid-header = אתר זה מנסה לזהות את עצמו עם מידע שגוי.
 add-exception-domain-mismatch-short = אתר שגוי
 add-exception-expired-short = מידע לא עדכני
+add-exception-unverified-or-bad-signature-short = זהות לא ידועה
 add-exception-valid-short = אישור חוקי
 add-exception-valid-long = אתר זה סיפק הזדהות מאומתת וחוקית. אין צורך להוסיף חריגה עבודו.
 add-exception-checking-short = בודק מידע
