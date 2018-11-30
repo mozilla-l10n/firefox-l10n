@@ -66,11 +66,17 @@ certmgr-serial =
 certmgr-view =
     .label = View…
     .accesskey = V
+certmgr-edit =
+    .label = Edit Trust…
+    .accesskey = E
 certmgr-export =
     .label = Export…
     .accesskey = x
 certmgr-delete =
     .label = Delete…
+    .accesskey = D
+certmgr-delete-builtin =
+    .label = Delete or Distrust…
     .accesskey = D
 certmgr-backup =
     .label = Backup…
@@ -92,6 +98,9 @@ certmgr-add-exception =
     .accesskey = x
 exception-mgr =
     .title = Add Security Exception
+exception-mgr-extra-button =
+    .label = Confirm Security Exception
+    .accesskey = C
 exception-mgr-supplemental-warning = Legitimate banks, stores, and other public sites will not ask you to do this.
 exception-mgr-cert-location-url =
     .value = Location:
@@ -116,6 +125,7 @@ pkcs12-dup-data = The certificate and private key already exist on the security 
 
 choose-p12-backup-file-dialog = File Name to Backup
 file-browse-pkcs12-spec = PKCS12 Files
+choose-p12-restore-file-dialog = Certificate File to Import
 
 ## Import certificate(s) file dialog
 
@@ -135,6 +145,10 @@ delete-ssl-cert-title =
     .title = Delete Server Certificate Exceptions
 delete-ssl-cert-confirm = Are you sure you want to delete these server exceptions?
 delete-ssl-cert-impact = If you delete a server exception, you restore the usual security checks for that server and require it uses a valid certificate.
+delete-ca-cert-title =
+    .title = Delete or Distrust CA Certificates
+delete-ca-cert-confirm = You have asked to delete these CA certificates. For built-in certificates all trust will be removed, which has the same effect. Are you sure you want to delete or distrust?
+delete-ca-cert-impact = If you delete or distrust a certificate authority (CA) certificate, this application will no longer trust any certificates issued by that CA.
 delete-email-cert-title =
     .title = Delete Email Certificates
 
