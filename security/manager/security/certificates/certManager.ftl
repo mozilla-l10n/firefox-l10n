@@ -231,3 +231,4 @@ add-exception-valid-long = Acest site furnizează o identificare validă și ver
 add-exception-checking-short = Se verifică informațiile
 add-exception-checking-long = Se încearcă identificarea acestui site…
 add-exception-no-cert-short = Nicio informație disponibilă
+add-exception-no-cert-long = Nu se poate obține starea de identificare pentru acest site.
