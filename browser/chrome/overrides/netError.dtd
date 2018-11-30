@@ -10,9 +10,10 @@
 <!ENTITY returnToPreviousPage.label "חזרה">
 <!ENTITY returnToPreviousPage1.label "חזרה (מומלץ)">
 <!ENTITY advanced.label "מתקדם">
-
 <!ENTITY continue2.label "עוד…">
 <!ENTITY moreInformation.label "מידע נוסף">
+
+<!ENTITY viewCertificate.label "הצגת אישור">
 
 <!-- Specific error messages -->
 
@@ -131,13 +132,20 @@
 
 <!ENTITY certerror.longpagetitle1 "החיבור שלך אינו מאובטח">
 <!ENTITY certerror.longpagetitle2 "אזהרה: סכנת אבטחה אפשרית לפניך">
+<!ENTITY certerror.sts.longpagetitle  "לא בוצעה התחברות: חולשת אבטחה אפשרית">
 <!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "הבעלים של <span class='hostname'/> הגדירו את האתר שלהם בצורה לקויה.  על מנת להגן על המידע שלך מפני גניבה, &brandShortName; לא התחבר לאתר זה.">
-
+<!ENTITY certerror.introPara2 "‏&brandShortName; זיהה איום אבטחה אפשרי ולא המשיך אל <span class='hostname'/>. אם ברצונך לבקר באתר זה, תוקפים יכולים לנסות לגנוב מידע כמו הססמאות, הודעות דוא״ל או פרטי כרטיס האשראי שלך.">
 
 <!ENTITY certerror.expiredCert.secondPara "תקלה זו מתרחשת בעיקר עקב שעה שגויה בשעון שלך, מה שעשוי למנוע מ־&brandShortName; להתחבר באופן מאובטח.">
+
+<!ENTITY certerror.sts.introPara "‏&brandShortName; זיהה איום אבטחה אפשרי ולא המשיך אל <span class='hostname'/> מכיוון שאתר זה דורש חיבור מאובטח.">
+
+<!ENTITY certerror.expiredCert.introPara "‏&brandShortName; זיהה איום אבטחה אפשרי ולא המשיך אל <span class='hostname'/>. האתר לא מוגדר כראוי, או ששעון המחשב שלך לא מוגדר לשעה הנכונה.">
+<!ENTITY certerror.expiredCert.secondPara2 "כנראה שפג תוקף אישור האבטחה של האתר, מצב זה מונע מ־&brandShortName; להתחבר באופן מאובטח. אם ברצונך לבקר באתר זה, תוקפים יכולים לנסות לגנוב מידע כמו הססמאות, הודעות דוא״ל או פרטי כרטיס האשראי שלך.">
+<!ENTITY certerror.expiredCert.sts.secondPara "כנראה שפג תוקף אישור האבטחה של האתר, מצב זה מונע מ־&brandShortName; להתחבר באופן מאובטח.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "מה ניתן לעשות בנדון?">
 
@@ -160,7 +168,6 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "הוספת חריגה…">
-
 <!ENTITY securityOverride.exceptionButton1Label "קבלת הסיכון והמשך">
 
 <!ENTITY errorReporting.automatic2 "דיווח על תקלות מסוג זה כדי לסייע ל־Mozilla לזהות ולחסום אתרים מסוכנים">
@@ -182,10 +189,12 @@ was trying to connect. -->
 
 <!ENTITY certerror.pagetitle1  "חיבור בלתי מאובטח">
 <!ENTITY certerror.pagetitle2  "אזהרה: סכנת אבטחה אפשרית לפניך">
+<!ENTITY certerror.sts.pagetitle  "לא בוצעה התחברות: חולשת אבטחה אפשרית">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "אתר זה משתמש ב־HTTP
 Strict Transport Security (HSTS) כדי לציין ש־&brandShortName; יוכל
 להתחבר אליו
 באופן מאובטח בלבד. כתוצאה מכך, לא ניתן להוסיף חריגה עבור אישור זה.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "ל־<span class='hostname'></span> יש מדיניות אבטחה בשם אבטחת תעבורה מחמירה של HTTP ‏(HSTS), כלומר &brandShortName; יכול להתחבר לאתר באופן מאובטח בלבד. לא ניתן להוסיף חריגה כדי לבקר באתר זה.">
 <!ENTITY certerror.copyToClipboard.label "העתקת טקסט ללוח">
 
 <!ENTITY inadequateSecurityError.title "החיבור שלך אינו מאובטח">
@@ -200,3 +209,6 @@ Strict Transport Security (HSTS) כדי לציין ש־&brandShortName; יוכל
 
 <!ENTITY prefReset.longDesc "נראה שהגדרות אבטחת הרשת שלך עשוי לגרום לכך. האם ברצונך לשחזר להגדרות ברירת מחדל?">
 <!ENTITY prefReset.label "שחזור הגדרות בררת המחדל">
+
+<!ENTITY networkProtocolError.title "שגיאת פרוטוקול רשת">
+<!ENTITY networkProtocolError.longDesc "<p>לא ניתן להציג את הדף שברצונך לצפות מכיוון שאותרה שגיאה בפרוטוקול הרשת.</p><ul><li>נא ליצור קשר עם בעלי האתר וליידע אותם על בעיה זו.</li></ul>">

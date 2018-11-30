@@ -727,6 +727,12 @@ content-blocking-learn-how = מידע נוסף
 content-blocking-trackers-label =
     .label = רכיבי מעקב
     .accesskey = ר
+content-blocking-tracking-protection-option-all-windows =
+    .label = בכל החלונות
+    .accesskey = כ
+content-blocking-option-private =
+    .label = רק בחלונות פרטיים
+    .accesskey = פ
 content-blocking-tracking-protection-change-block-list = שינוי רשימת חסימות
 content-blocking-third-party-cookies-label =
     .label = עוגיות צד־שלישי
@@ -749,6 +755,9 @@ content-blocking-reject-trackers-block-trackers-option =
 content-blocking-reject-trackers-all-third-parties-option =
     .label = כל העוגיות צד־שלישי (עשוי לשבש פעילות של חלק מהאתרים)
     .accesskey = כ
+content-blocking-cookies-label =
+    .label = עוגיות
+    .accesskey = ע
 
 ## Privacy Section - Tracking
 
@@ -770,6 +779,9 @@ tracking-exceptions =
 tracking-change-block-list =
     .label = שינוי רשימת חסימות…
     .accesskey = ר
+tracking-manage-exceptions =
+    .label = ניהול חריגות…
+    .accesskey = ח
 
 ## Privacy Section - Permissions
 
@@ -831,7 +843,7 @@ collection-header = איסוף המידע של { -brand-short-name }
 collection-description = אנו חותרים לספק לך זכות בחירה ולאסוף רק מה שנדרש לנו כדי לספק ולשפר את { -brand-short-name } לטובת הכלל. אנו תמיד נבקש את רשותך לפני קבלת פרטים אישיים.
 collection-privacy-notice = הצהרת פרטיות
 collection-health-report =
-    .label = האם לאפשר ל־{ -brand-short-name } לשלוח אל { -vendor-short-name } מידע טכני ופעולות שבוצעו בדפדפן
+    .label = לאפשר ל־{ -brand-short-name } לשלוח אל { -vendor-short-name } מידע טכני ופעולות שבוצעו בדפדפן
     .accesskey = ד
 collection-health-report-link = מידע נוסף
 collection-studies =
@@ -841,7 +853,7 @@ collection-studies-link = הצגת המחקרים של { -brand-short-name }
 # or builds with no Telemetry support available.
 collection-health-report-disabled = דיווח נתונים מנוטרל עבור תצורת בנייה זו
 collection-browser-errors =
-    .label = לאפשר ל־{ -brand-short-name } לשלוח דיווחי שגיאות בדפדפן (לרבות הודעות שגיאה) אל { -vendor-short-name }
+    .label = לאפשר ל־{ -brand-short-name } לשלוח אל { -vendor-short-name } דיווחי שגיאות בדפדפן (לרבות הודעות שגיאה)
     .accesskey = ד
 collection-browser-errors-link = מידע נוסף
 collection-backlogged-crash-reports =
@@ -915,3 +927,7 @@ space-alert-under-5gb-message = ל־{ -brand-short-name } אוזל שטח הדי
 desktop-folder-name = שולחן עבודה
 downloads-folder-name = הורדות
 choose-download-folder-title = בחירת תיקייה להורדה:
+# Variables:
+#   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
+save-files-to-cloud-storage =
+    .label = שמירת קבצים ב־{ $service-name }
