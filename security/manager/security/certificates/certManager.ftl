@@ -202,6 +202,10 @@ verify-ssl-server =
     .value = SSL сервер сертификаты
 verify-ssl-ca =
     .value = SSL сертификаттау орталығы
+verify-email-signer =
+    .value = Электрондық пошта сертификаты
+verify-email-recip =
+    .value = Электрондық пошта адресатының сертификаты
 # Cert verification
 cert-not-verified-cert-revoked = Сертификат верификациясы мүмкін емес - ол қайта шақырылды.
 cert-not-verified-cert-expired = Сертификат верификациясы мүмкін емес - оның мерзімі аяқталды.
