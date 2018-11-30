@@ -187,6 +187,7 @@ cert-not-verified-cert-not-trusted = Овој сертификат не може
 cert-not-verified-issuer-not-trusted = Овој сертификат не може да се провери бидејќи не може да му се верува на издавачот.
 cert-not-verified-issuer-unknown = Овој сертификат не може да се провери бидејќи издавачот е непознат.
 cert-not-verified-ca-invalid = Овој сертификат не може да се провери бидејќи CA сертификатот не е важечки.
+cert-not-verified_algorithm-disabled = Овој сертификат не може да се провери, бидејќи беше потпишан со потпис со алгоритам кој е оневозможен затоа што не е безбеден.
 cert-not-verified-unknown = Сертификатот не може да се провери од непознати причини.
 
 ## Add Security Exception dialog
@@ -195,6 +196,7 @@ add-exception-branded-warning = Ќе го смените начинот како
 add-exception-invalid-header = Ова место се обидува да се идентификува себе си со неважечки информации.
 add-exception-domain-mismatch-short = Погрешно место
 add-exception-expired-short = Застарени информации
+add-exception-unverified-or-bad-signature-short = Непознат идентитет
 add-exception-valid-short = Важечки сертификат
 add-exception-valid-long = Ова место има важечка и потврдена идентификација.  Нема потреба да се додава исклучок.
 add-exception-checking-short = Ги проверувам информациите
