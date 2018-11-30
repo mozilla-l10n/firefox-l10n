@@ -12,6 +12,8 @@ certmgr-subject-info-label =
     .value = Zinikelwa Ku
 certmgr-issuer-info-label =
     .value = Zinikelwa Ngu
+certmgr-period-of-validity-label =
+    .value = Ithuba Lokusebenza
 certmgr-fingerprints-label =
     .value = Izishicilelo zeminwe
 certmgr-cert-detail-cn =
@@ -22,6 +24,8 @@ certmgr-cert-detail-ou =
     .value = Icandelo Lombutho (OU)
 certmgr-cert-detail-serialnumber =
     .value = Inombolo Yolandelelwano
+certmgr-cert-detail-sha256-fingerprint =
+    .value = Ushicilelo lweminwe lwe-SHA-256
 certmgr-cert-detail-sha1-fingerprint =
     .value = Ushicileleo lweminwe lwe-SHA1
 certmgr-edit-ca-cert =
@@ -37,6 +41,8 @@ certmgr-cert-name =
     .label = Igama Lesatifikethi
 certmgr-token-name =
     .label = Isixhobo Sokhuseleko
+certmgr-begins-label =
+    .label = Iqala Ngo
 certmgr-begins-value =
     .value = { certmgr-begins-label.label }
 certmgr-expires-label =
@@ -47,6 +53,36 @@ certmgr-email =
     .label = Idilesi Yemeyile
 certmgr-serial =
     .label = Inombolo Yolandelelwano
+certmgr-view =
+    .label = Jonga…
+    .accesskey = J
+certmgr-export =
+    .label = Thumela ngaphandle…
+    .accesskey = p
+certmgr-delete-builtin =
+    .label = Cima okanye Ungathembi…
+    .accesskey = C
+certmgr-backup =
+    .label = Eyogcino…
+    .accesskey = E
+certmgr-backup-all =
+    .label = Gcina Iikopi Zako Konke…
+    .accesskey = G
+certmgr-restore =
+    .label = Okuthathwa ngaphandle…
+    .accesskey = t
+certmgr-details =
+    .value = IsatifikethiImimandla
+    .accesskey = I
+certmgr-fields =
+    .value = IfildiIxabiso
+    .accesskey = I
+certmgr-hierarchy =
+    .value = Amabakala Ezatifikethi
+    .accesskey = H
+certmgr-add-exception =
+    .label = Yongeza ieksepshini…
+    .accesskey = e
 pk11-bad-password = Igama logqithiso elingenisiweyo alichanekanga.
 pkcs12-decode-err = Akuphumelelanga ukususa ikhowudi kwifayili.  Mhlawumbi ayikho kulungiselelo lwe-PKCS #12, yonakalisiwe, okanye igama lokugqithisa olingenisileyo belingachanekanga.
 pkcs12-unknown-err-restore = Akuphumelelanga ukubuyisela ifayili ye-PKCS #12 ngezizathu ezingaziwayo.
@@ -63,17 +99,27 @@ file-browse-pkcs12-spec = Iifayili ze-PKCS12
 ## Import certificate(s) file dialog
 
 file-browse-certificate-spec = Iifayili Zesatifikethi
+import-ca-certs-prompt = Khetha ifayile equlethe is(z)atifikethi zegunya lezatifikhethi ezisiwa ngaphandle
+import-email-cert-prompt = Khetha Ifayili equlethe isatifikethi somntu Semeyile esithathwa ngaphandle
 
 ## For editing certificates trust
 
+# Variables:
+#   $certName: the name of certificate
+edit-trust-ca = Isatifikethi i- "{ $certName }" simele Ugunyaziwe Wesatifikethi.
 
 ## For Deleting Certificates
 
 delete-user-cert-title =
     .title = Cima Izatifikethi zakho
+delete-user-cert-confirm = Uqinisekile ufuna ukucima ezi zatifikethi?
 delete-user-cert-impact = Ukuba ucima esinye sezatifikethi ezizezakho, akunakukwazi ukuphinga usisebenzisele ukuzichonga.
+delete-ssl-cert-confirm = Uqinisekile ufuna ukucima ezi zikhethekileyo zeseva?
+delete-ca-cert-impact = Ukuba ucima okanye akuthembanga igunya (CA), le aplikheyishini ayisayi kuthemba naziphi na izatifikethi ezinikezelwe lelo gunya (CA).
 delete-email-cert-title =
     .title = Cima Izatifikethi Zemeyile
+delete-email-cert-confirm = Uqinisekile ufuna ukucima izatifikethi zemeyile zaba bantu?
+delete-email-cert-impact = Ukuba ucima isatifikethi semeyile, akusayi kuphinda ukwazi ukuthumela imeyile yoguqulelo oluntsonkothileyo kwabo bantu.
 
 ## Cert Viewer
 
@@ -103,3 +149,7 @@ cert-not-verified-unknown = Asikwazanga kuqinisekiswa esi satifikethi ngenxa yes
 
 ## Add Security Exception dialog
 
+add-exception-unverified-or-bad-signature-short = Ubunini Obungaziwayo
+add-exception-unverified-or-bad-signature-long = Isatifiketi asithenjwa ngenxa yokuba asikhange siqinisekiswe njengesikhutshwe ligunya elithenjiweyo kusetyenziswa usayino olukhuselekileyo.
+add-exception-checking-long = Izama ukufumanisa le sayithi…
+add-exception-no-cert-short = Akukho Nkcazelo Ikhoyo
