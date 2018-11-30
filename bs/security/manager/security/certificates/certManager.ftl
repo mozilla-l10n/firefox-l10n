@@ -24,6 +24,8 @@ certmgr-subject-info-label =
     .value = Izdano
 certmgr-issuer-info-label =
     .value = Izdao
+certmgr-period-of-validity-label =
+    .value = Period valjanosti
 certmgr-fingerprints-label =
     .value = Otisci
 certmgr-cert-detail =
@@ -38,6 +40,10 @@ certmgr-cert-detail-ou =
     .value = Organizacijska jedinica (OU)
 certmgr-cert-detail-serialnumber =
     .value = Serijski broj
+certmgr-cert-detail-sha256-fingerprint =
+    .value = SHA-256 otisak
+certmgr-cert-detail-sha1-fingerprint =
+    .value = SHA1 otisak
 certmgr-edit-ca-cert =
     .title = Uredi postavke povjerenja certifikata
     .style = width: 48em;
@@ -57,6 +63,8 @@ certmgr-override-lifetime =
     .label = Životni vijek
 certmgr-token-name =
     .label = Sigurnosni uređaj
+certmgr-begins-label =
+    .label = Počinje na
 certmgr-begins-value =
     .value = { certmgr-begins-label.label }
 certmgr-expires-label =
@@ -82,6 +90,9 @@ certmgr-delete =
 certmgr-delete-builtin =
     .label = Obriši ili ukloni povjerenje…
     .accesskey = O
+certmgr-backup =
+    .label = Backup…
+    .accesskey = B
 certmgr-backup-all =
     .label = Sigurnosna kopija svega…
     .accesskey = k
@@ -94,6 +105,9 @@ certmgr-details =
 certmgr-fields =
     .value = Vrijednost polja
     .accesskey = V
+certmgr-hierarchy =
+    .value = Hijerarhija certifikata
+    .accesskey = H
 certmgr-add-exception =
     .label = Dodaj izuzetak…
     .accesskey = D
@@ -117,12 +131,14 @@ exception-mgr-permanent =
 pk11-bad-password = Unešena lozinka je pogrešna.
 pkcs12-decode-err = Greška pri dekodiranju fajla. Ili nije u PKCS #12 formatu, ili je oštećen, ili je lozinka koju ste unijeli pogrešna.
 pkcs12-unknown-err-restore = Neuspješno vraćanje PKCS #12 fajla iz nepoznatih razloga.
+pkcs12-unknown-err-backup = Kreiranje PKCS #12 backupa nije uspjelo iz nepoznatih razloga.
 pkcs12-unknown-err = PKCS #12 operacija nije uspjela iz nepoznatih razloga.
 pkcs12-info-no-smartcard-backup = Nije moguće napraviti sigurnosnu kopiju certifikata sa sigurnosnog uređaja poput smart kartice.
 pkcs12-dup-data = Certifikat i privatni ključ već postoje u sigurnosnom uređaju.
 
 ## PKCS#12 file dialogs
 
+choose-p12-backup-file-dialog = Naziv fajla za backup
 file-browse-pkcs12-spec = PKCS12 datoteke
 choose-p12-restore-file-dialog = Fajl certifikata za uvoz
 
@@ -130,9 +146,13 @@ choose-p12-restore-file-dialog = Fajl certifikata za uvoz
 
 file-browse-certificate-spec = Fajlovi certifikata
 import-ca-certs-prompt = Izaberite fajl koji sadrži CA certifikat(e) za uvoz
+import-email-cert-prompt = Izaberite fajl koji sadrži nečiji email certifikat za uvoz
 
 ## For editing certificates trust
 
+# Variables:
+#   $certName: the name of certificate
+edit-trust-ca = Potvrda"{ $certName }" predstavlja ovjeru vjerodostojnosti.
 
 ## For Deleting Certificates
 
@@ -150,9 +170,23 @@ delete-ca-cert-confirm = Zatražili ste brisanje ovih CA certifikata. Za predefi
 delete-ca-cert-impact = Ukoliko obrišete ili uklonite povjerenje za certifikat certifikacijskog autoriteta (CA), ova aplikacija više neće vjerovati certifikatima izdatim od strane ovog CA.
 delete-email-cert-title =
     .title = Obriši e-mail certifikate
+delete-email-cert-confirm = Da li ste sigurni da želite obrisati e-mail certifikate ovih ljudi?
+delete-email-cert-impact = Ukoliko obrišete nečiji e-mail certifikat, više nećete moći slati enkriptovane e-mailove toj osobi.
+# Used for semi-uniquely representing a cert.
+#
+# Variables:
+#   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
+cert-with-serial =
+    .value = Certifikat sa serijskim brojem: { $serialNumber }
 
 ## Cert Viewer
 
+# Title used for the Certificate Viewer.
+#
+# Variables:
+#   $certificate : a string representative of the certificate being viewed.
+cert-viewer-title =
+    .title = Preglednik certifikata: “{ $certName }”
 not-present =
     .value = <Nije dio certifikata>
 # Cert verification
@@ -175,6 +209,7 @@ cert-not-verified-cert-not-trusted = Provjera certifikata nije moguća jer isti 
 cert-not-verified-issuer-not-trusted = Provjera certifikata nije moguća jer izdavač istog nije od povjerenja.
 cert-not-verified-issuer-unknown = Provjera certifikata nije moguća jer izdavač istog nije poznat.
 cert-not-verified-ca-invalid = Provjera certifikata nije moguća jer je CA certifikat nevažeći.
+cert-not-verified_algorithm-disabled = Provjera certifikata nije moguća jer je isti potpisan pomoću algoritma koji je onemogućen jer nije siguran.
 cert-not-verified-unknown = Provjera certifikata nije moguća iz nepoznatih razloga.
 
 ## Add Security Exception dialog
@@ -182,9 +217,14 @@ cert-not-verified-unknown = Provjera certifikata nije moguća iz nepoznatih razl
 add-exception-branded-warning = Spremate se promijeniti način na koji { -brand-short-name } identificira ovu stranicu.
 add-exception-invalid-header = Ova stranica pokušava da se identificira pomoću nevažećih informacija.
 add-exception-domain-mismatch-short = Pogrešna stranica
+add-exception-domain-mismatch-long = Certifikat pripada drugoj stranici, što može značiti da neko pokušava odglumiti ovu stranicu.
 add-exception-expired-short = Zastarjela informacija
+add-exception-expired-long = Certifikat trenutno nije ispravan. Možda je ukraden ili izgubljen, i može biti upotrebljen za krivotvorenje ove stranice.
 add-exception-unverified-or-bad-signature-short = Nepoznat identitet
+add-exception-unverified-or-bad-signature-long = Certifikat nije pouzdan jer nije potvrđen kao izdan od priznatog autoriteta koristeći sigurni potpis.
 add-exception-valid-short = Važeći certifikat
 add-exception-valid-long = Ova stanica pruža validnu, važeću identifikaciju. Nema potrebe da dodajete izuzetak.
 add-exception-checking-short = Provjeravam informacije
+add-exception-checking-long = Pokušaj identificiranja ove stranice…
 add-exception-no-cert-short = Informacije nisu dostupne
+add-exception-no-cert-long = Nije moguće dobiti identifikacijski status za ovu stranicu.
