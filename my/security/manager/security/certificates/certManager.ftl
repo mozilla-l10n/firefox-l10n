@@ -24,6 +24,8 @@ certmgr-subject-info-label =
     .value = ထုတ်ပြန်တဲ့နေရာ
 certmgr-issuer-info-label =
     .value = ထုတ်ပြန်တဲ့ ပုဂ္ဂိုလ်
+certmgr-period-of-validity-label =
+    .value = တရားဝင်သော ကာလအပိုင်းအခြား
 certmgr-fingerprints-label =
     .value = လက်ဗွေများ
 certmgr-cert-detail =
@@ -38,6 +40,8 @@ certmgr-cert-detail-ou =
     .value = ​အဖွဲ့အစည်းဆိုင်ရာ ယူနစ် (OU)
 certmgr-cert-detail-serialnumber =
     .value = အစဉ်လိုက် အမှတ်စဉ်
+certmgr-cert-detail-sha256-fingerprint =
+    .value = SHA-256 လက်ဗွေ
 certmgr-cert-detail-sha1-fingerprint =
     .value = SHA1 လက်ဗွေ
 certmgr-edit-ca-cert =
@@ -54,6 +58,8 @@ certmgr-override-lifetime =
     .label = သက်တမ်း
 certmgr-token-name =
     .label = လုံခြုံရေး ကိရိယာ
+certmgr-begins-label =
+    .label = စသည့်နေ့
 certmgr-begins-value =
     .value = { certmgr-begins-label.label }
 certmgr-expires-label =
@@ -94,6 +100,9 @@ certmgr-details =
 certmgr-fields =
     .value = Field Value
     .accesskey = V
+certmgr-hierarchy =
+    .value = အထောက်အထားများ အဆင့်ဆင့်
+    .accesskey = H
 certmgr-add-exception =
     .label = xချွင်းချက်ထည့်...
     .accesskey = x
@@ -129,9 +138,13 @@ choose-p12-restore-file-dialog = ထည့်သွင်းရန် လက်�
 
 file-browse-certificate-spec = လက်မှတ် ဖိုင်များ
 import-ca-certs-prompt = တင်သွင်းဖို့ CA လက်မှတ် ပါတဲ့ ဖိုင်ကို ရွေးချယ်ပါ
+import-email-cert-prompt = တင်သွင်းဖို့ တစုံတယောက်ရဲ့ အီးမေးလ် လက်မှတ် ပါတဲ့ ဖိုင်ကို ရွေးချယ်ပါ
 
 ## For editing certificates trust
 
+# Variables:
+#   $certName: the name of certificate
+edit-trust-ca = လက်မှတ် "{ $certName }" က လက်မှတ် အခွင့်အာဏာ တခုကို ကိုယ်စားပြုတယ်။
 
 ## For Deleting Certificates
 
@@ -147,6 +160,8 @@ delete-ca-cert-confirm = CAအသိအမှတ်ပြုလက်မှတ�
 delete-ca-cert-impact = (CA) အသိအမှတ်ပြုလက်မှတ်တစ်ခုအားဖျက်ပစ်လိုက်ပါက ယခု အက်ပလီကေးရှင်းသည်မည်သည် (CA) မှထုတ်လုပ်သည်အသိအမှတ်ပြုလက်မှတ်ကိုမှယုံကြည်တော့မည်မဟုတ်ပါ။
 delete-email-cert-title =
     .title = အီးမေးလ် လက်မှတ်များကို ပယ်ဖျက်ပါ
+delete-email-cert-confirm = ဒီလူများရဲ့ အီးမေးလ် လက်မှတ်များကို သင်တယ် ပယ်ဖျက်လိုသလား။
+delete-email-cert-impact = လူတဦးရဲ့ အီးမေးလ် လက်မှတ် တခုကို သင် ပယ်ဖျက်လိုက်ရင်၊ အဲဒီ ပုဂ္ဂိုလ်ထံ စာဝှက်ထားတဲ့ အီးမေးလ်ကို သင်ပို့နိုင်တော့မှာ မဟုတ်ဘူး။
 
 ## Cert Viewer
 
@@ -180,6 +195,7 @@ add-exception-invalid-header = ဒီကွန်ရက်က မမှန်က
 add-exception-domain-mismatch-short = မှားတဲ့ ကွန်ရက်
 add-exception-expired-short = ရက်လွန်တဲ့ အချက်အလက်
 add-exception-unverified-or-bad-signature-short = အမည်မသိ အထောက်အထား
+add-exception-unverified-or-bad-signature-long = Certificate is not trusted, because it hasn't been verified by a recognized authority using a secure signature.
 add-exception-valid-short = မှန်ကန်တဲ့ လက်မှတ်
 add-exception-valid-long = This site provides valid, verified identification.  There is no need to add an exception.
 add-exception-checking-short = အချက်အလက်ကို စစ်ဆေးနေတယ်
