@@ -188,6 +188,7 @@ cert-not-verified-cert-not-trusted = No pòsso verificâ sto certificato perché
 cert-not-verified-issuer-not-trusted = No pòsso verificâ sto certificato perché l'à fæto un aotô no fidou.
 cert-not-verified-issuer-unknown = No pòsso verificâ sto certificato perché n'ou sò chi o l'à fæto.
 cert-not-verified-ca-invalid = No pòsso verificâ sto certificato CA perché o no l'é valido.
+cert-not-verified_algorithm-disabled = Inposcibile verificâ sto certificato perché o l'é firmou co-in algoritmo de firma dizativou perché no seguo.
 cert-not-verified-unknown = No pòsso verificâ sto certificato e sò asæ perche.
 
 ## Add Security Exception dialog
@@ -195,8 +196,14 @@ cert-not-verified-unknown = No pòsso verificâ sto certificato e sò asæ perch
 add-exception-branded-warning = T'ê apreuvo a cangiâ o mòddo ch'o l'à { -brand-short-name } de identificâ sto scito.
 add-exception-invalid-header = Sto scito o preuva a identificase con dæti no validi.
 add-exception-domain-mismatch-short = Scito sbagliou
+add-exception-domain-mismatch-long = O certificato o l'é de 'n'atro scito, o porieva ese 'n tentativo de sostitoise a-o scito òriginale.
 add-exception-expired-short = Informaçion Vegia
+add-exception-expired-long = O certificato o no l'é ciù valido. L'é poscibile ch'o segge stæto arobou ò perduo, e o porieiva ese adeuviou into tentativo de sostitoise a-o scito òriginale.
+add-exception-unverified-or-bad-signature-short = Identitæ no conosciua
+add-exception-unverified-or-bad-signature-long = O certificato o no l'é afidabile perché no l'é poscibile verificâ ch'o segge emesso da 'na Autoritæ riconosciua co-ina firma segua.
 add-exception-valid-short = Certificato valido
 add-exception-valid-long = O scito o gh'à 'na identificaçion valida e verificâ, coscì no gh'é bezeugno de azonze 'na eceçion.
 add-exception-checking-short = contròllo e informaçioin
+add-exception-checking-long = Tentativo d'identificaçion do scito…
 add-exception-no-cert-short = No gh'é nisciunn-a informaçion
+add-exception-no-cert-long = Inposcibile pigiâ o stæto de identificaçion de sto scito.
