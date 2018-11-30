@@ -72,12 +72,18 @@ certmgr-serial =
 certmgr-view =
     .label = Pogled…
     .accesskey = P
+certmgr-edit =
+    .label = Uredi povjerenje…
+    .accesskey = U
 certmgr-export =
     .label = Izvoz…
     .accesskey = z
 certmgr-delete =
     .label = Obriši…
     .accesskey = b
+certmgr-delete-builtin =
+    .label = Obriši ili ne vjeruj…
+    .accesskey = O
 certmgr-backup =
     .label = Pohrani…
     .accesskey = h
@@ -87,9 +93,15 @@ certmgr-backup-all =
 certmgr-restore =
     .label = Uvezi…
     .accesskey = v
+certmgr-details =
+    .value = Polja certifikata
+    .accesskey = P
 certmgr-fields =
     .value = Vrijednost polja
     .accesskey = V
+certmgr-add-exception =
+    .label = Dodaj iznimku…
+    .accesskey = D
 exception-mgr =
     .title = Dodaj sigurnosnu iznimku
 exception-mgr-extra-button =
@@ -119,6 +131,7 @@ pkcs12-dup-data = Certifikat i sigurnosni ključ već postoje na sigurnosnom ure
 
 choose-p12-backup-file-dialog = Naziv datoteke za izradu sigurnosne kopije
 file-browse-pkcs12-spec = PKCS12 Datoteke
+choose-p12-restore-file-dialog = Datoteka certifikata za uvoz
 
 ## Import certificate(s) file dialog
 
@@ -130,6 +143,10 @@ import-ca-certs-prompt = Za uvoz odaberite datoteku koja sadrži CA certifikat
 
 ## For Deleting Certificates
 
+delete-user-cert-title =
+    .title = Obrišite vaše certifikate
+delete-user-cert-confirm = Jeste li sigurni da želite obrisati ove certifikate?
+delete-user-cert-impact = Ako obrišete jedan od vlastitih certifikata, više ga nećete moći koristiti za identifikaciju.
 delete-ssl-cert-title =
     .title = Obriši iznimku certifikata poslužitelja
 delete-ssl-cert-confirm = Jeste li sigurni da želite ukloniti ove iznimke poslužitelja?
