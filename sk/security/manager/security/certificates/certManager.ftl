@@ -12,6 +12,10 @@ certmgr-tab-servers =
     .label = Servery
 certmgr-tab-ca =
     .label = Autority
+certmgr-mine = Máte certifikáty od týchto organizácií, ktoré vás identifikujú
+certmgr-people = Máte uložené certifikáty, ktoré identifikujú týchto ľudí
+certmgr-servers = Máte uložené certifikáty, ktoré identifikujú tieto servery
+certmgr-ca = Máte uložené certifikáty, ktoré identifikujú tieto certifikačné autority
 certmgr-detail-general-tab-title =
     .label = Všeobecné
     .accesskey = V
@@ -48,6 +52,10 @@ certmgr-edit-ca-cert =
     .title = Úprava nastavenia dôvery pre certifikát od certifikačnej autority
     .style = width: 48em;
 certmgr-edit-cert-edit-trust = Upraviť nastavenie dôvery:
+certmgr-edit-cert-trust-ssl =
+    .label = Tento certifikát môže identifikovať internetové stránky.
+certmgr-edit-cert-trust-email =
+    .label = Tento certifikát môže identifikovať poštových používateľov.
 certmgr-delete-cert =
     .title = Odstránenie certifikátu
     .style = width: 48em; height: 24em;
@@ -112,6 +120,7 @@ exception-mgr =
 exception-mgr-extra-button =
     .label = Potvrdiť bezpečnostnú výnimku
     .accesskey = P
+exception-mgr-supplemental-warning = Skutočné banky, obchody a iné verejné stránky toto nebudú od vás vyžadovať.
 exception-mgr-cert-location-url =
     .value = Adresa:
 exception-mgr-cert-location-download =
@@ -167,6 +176,12 @@ delete-email-cert-title =
     .title = Odstránenie e-mailových certifikátov
 delete-email-cert-confirm = Naozaj chcete odstrániť e-mailové certifikáty týchto ľudí?
 delete-email-cert-impact = Ak odstránite e-mailový certifikát osoby, nebudete môcť tomuto adresátovi odoslať zašifrovanú e-mailovú správu.
+# Used for semi-uniquely representing a cert.
+#
+# Variables:
+#   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
+cert-with-serial =
+    .value = Certifikát so sériovým číslom: { $serialNumber }
 
 ## Cert Viewer
 
