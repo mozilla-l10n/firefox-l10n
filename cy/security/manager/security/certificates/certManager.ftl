@@ -119,6 +119,7 @@ exception-mgr-permanent =
 pk11-bad-password = Cyfrinair yn anghywir.
 pkcs12-decode-err = Methu dadgodio'r ffeil.  Un ai nid yw mewn fformat PKCS#12, neu mae wedi ei lygru, neu roedd eich cyfrinair yn anghywir.
 pkcs12-unknown-err-restore = Methwyd ag adfer ffeil PKCS#12 am resymau anhysbys.
+pkcs12-unknown-err-backup = Methwyd â gwneud copi wrth gefn o'r ffeil PKCS#12 am resymau anhysbys.
 pkcs12-unknown-err = Methodd gweithrediad PKCS #12 am reswm anhysbys.
 pkcs12-info-no-smartcard-backup = Nid yw'n bosibl cadw tystysgrif wrth gefn o ddyfeisiadau caledwedd diogelwch megis cerdyn cof.
 pkcs12-dup-data = Mae'r dystysgrif a'r allwedd breifat yn bodoli eisoes ar y ddyfais diogelwch.
@@ -178,6 +179,7 @@ cert-not-verified-cert-not-trusted = Does dim modd gwirio'r dystysgrif am nad oe
 cert-not-verified-issuer-not-trusted = Does dim modd gwirio'r dystysgrif am nad oes modd ymddiried yn y cyhoeddwr.
 cert-not-verified-issuer-unknown = Nid oedd modd gwirio'r dystysgrif am fod y cyhoeddwr yn anhysbys.
 cert-not-verified-ca-invalid = Methu gwirio'r dystysgrif oherwydd bod tystysgrif yr awdurdod tystysgrifo yn annilys.
+cert-not-verified_algorithm-disabled = Nid oes modd dilysu'r dystysgrif gan ei fod wedi ei lofnodi gan ddefnyddio algorithm llofnod sydd wedi ei analluogi am nad yw'r algorithm yn anniogel.
 cert-not-verified-unknown = Nid oedd modd gwirio'r dystysgrif am resymau anhysbys.
 
 ## Add Security Exception dialog
@@ -188,5 +190,6 @@ add-exception-domain-mismatch-short = Gwefan Anghywir
 add-exception-expired-short = Hen Wybodaeth
 add-exception-unverified-or-bad-signature-short = Hunaniaeth Anhysbys
 add-exception-valid-short = Tystysgrif Dilys
+add-exception-valid-long = Mae'r wefan yn darparu gwybodaeth ddilys amdani ei hun.  Nid oes angen gosod eithriad.
 add-exception-checking-short = Gwirio Gwybodaeth
 add-exception-no-cert-short = Dim Gwybodaeth ar Gael
