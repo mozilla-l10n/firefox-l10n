@@ -12,7 +12,6 @@
 <!ENTITY aboutTelemetry.optionGroupToday "Dnes">
 <!ENTITY aboutTelemetry.optionGroupYesterday "Včera">
 <!ENTITY aboutTelemetry.optionGroupOlder "Staršie">
-<!ENTITY aboutTelemetry.payloadChoiceHeader "Obsah">
 <!-- LOCALIZATION NOTE(aboutTelemetry.previousPing, aboutTelemetry.nextPing):
 	These strings are displayed when selecting Archived pings, and they’re
 	used to move to the next or previous ping. -->
@@ -24,6 +23,8 @@
 <!ENTITY aboutTelemetry.firefoxDataDoc "<a>Dokumentácia údajov Firefoxu</a> obsahuje návody pre prácu s našimi nástrojmi.">
 <!ENTITY aboutTelemetry.telemetryClientDoc "<a>Dokumentácia klienta telemetrie Firefoxu</a> obsahuje definície pojmov, dokumentáciu API a popisy údajov.">
 <!ENTITY aboutTelemetry.telemetryDashboard "<a>Nástenky telemetrie</a> vám umožňujú zobrazovať údaje, ktoré Mozilla získava z telemetrie.">
+
+<!ENTITY aboutTelemetry.telemetryProbeDictionary "<a>Zoznam sond</a> poskytuje podrobnosti a popisy sond, ktoré telemetria zbiera.">
 
 <!ENTITY aboutTelemetry.showInFirefoxJsonViewer "Otvoriť v zobrazení JSON">
 
@@ -37,9 +38,7 @@
 <!ENTITY aboutTelemetry.keyedHistogramsSection "Histogramy s kľúčom">
 <!ENTITY aboutTelemetry.eventsSection "Udalosti">
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "Jednoduché merania">
-<!ENTITY aboutTelemetry.telemetryLogSection "Záznamy telemetrie">
 <!ENTITY aboutTelemetry.slowSqlSection "Pomalé výrazy SQL">
-<!ENTITY aboutTelemetry.chromeHangsSection "Zlyhania prehliadača">
 <!ENTITY aboutTelemetry.addonDetailsSection "Podrobnosti o doplnkoch">
 <!ENTITY aboutTelemetry.capturedStacksSection "Zachytené zásobníky">
 <!ENTITY aboutTelemetry.lateWritesSection "Neskoré zápisy">

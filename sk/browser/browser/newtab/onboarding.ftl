@@ -28,3 +28,8 @@ onboarding-ghostery-text = Prehliadajte rýchlejšie, inteligentnejšie a bezpe�
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Synchronizácia
 onboarding-fxa-text = Prihláste sa ku svojmu účtu Firefox a synchronizujte svoje záložky, heslá a otvorené karty kdekoľvek používate aplikáciu { -brand-short-name }.
+
+## Message strings belonging to the Return to AMO flow
+
+return-to-amo-sub-header = Skvelé, odteraz máte { -brand-short-name }
+return-to-amo-extension-button = Pridať rozšírenie
