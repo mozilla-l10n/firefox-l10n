@@ -134,6 +134,7 @@ exception-mgr-permanent =
     .accesskey = P
 pk11-bad-password = Īvodeita napareiza parole.
 pkcs12-decode-err = Navar atkodēt failu.  Voi nu tys nav PKCS #12 formatā, ir būjuots voi ari tyka īvodeita napareiza parole.
+pkcs12-unknown-err-restore = Nazynomu īmaslu dieļ naizadeve atjaunōt PKCS #12 failu.
 pkcs12-unknown-err-backup = Nazynuomu īmeslu dieļ naizadeve izveiduot PKCS #12 faila rezerves puorspīdumus.
 pkcs12-unknown-err = Nazynuomu īmeslu dieļ PKCS #12 darbeiba naizadeve.
 pkcs12-info-no-smartcard-backup = Nav īspiejama sertifikatu rezerves puorspīdumus veiduošona nu aparaturys drūseibys īrīces, pīmāram viedkartes.
