@@ -163,7 +163,7 @@ cert-not-verified-cert-expired = Хүчинтэй огноо нь дууссан
 cert-not-verified-cert-not-trusted = Итгэгдээгүй шалтгаанаар энэ гэрчилгээг шалгаж чадахгүй байна.
 cert-not-verified-issuer-not-trusted = Зохиогч нь итгэгдээгүй учраас энэ гэрчилгээг шалгаж чадахгүй байна.
 cert-not-verified-issuer-unknown = Зохиогч нь үл мэдэгдэх шалтгаанаар энэ гэрчилгээг шалгаж чадахгүй байна.
-cert-not-verified-ca-invalid = ГЭ гэрчилгээ зөв биш учраас энэ гэрчилгээг шалгаж чадахгүй байна.{ " " }
+cert-not-verified-ca-invalid = ГЭ гэрчилгээ зөв биш учраас энэ гэрчилгээг шалгаж чадахгүй байна.
 cert-not-verified-unknown = Үл мэдэгдэх шалтгаанаар энэ гэрчилгээг шалгаж чадахгүй байна.
 
 ## Add Security Exception dialog
