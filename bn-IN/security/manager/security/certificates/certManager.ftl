@@ -2,10 +2,34 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+certmgr-tab-people =
+    .label = ব্যক্তি
+certmgr-tab-servers =
+    .label = সার্ভার
+certmgr-fingerprints-label =
+    .value = ফিঙ্গারপ্রিন্ট
+certmgr-cert-detail-cn =
+    .value = সাধারণ নাম (CN)
+certmgr-cert-detail-serialnumber =
+    .value = ক্রমিক সংখ্যা
+certmgr-cert-detail-sha1-fingerprint =
+    .value = SHA1 ফিঙ্গারপ্রিন্ট
+certmgr-edit-cert-trust-email =
+    .label = এই সার্টিফিকেটের সাহায্যে মেইল ব্যবহারকারীদের সনাক্ত করা সম্ভব।
+certmgr-cert-name =
+    .label = সার্টিফিকেটের নাম
+certmgr-cert-server =
+    .label = সার্ভার
+certmgr-token-name =
+    .label = নিরাপত্তা ডিভাইস
 certmgr-begins-value =
     .value = { certmgr-begins-label.label }
 certmgr-expires-value =
     .value = { certmgr-expires-label.label }
+certmgr-serial =
+    .label = ক্রমিক সংখ্যা
+exception-mgr-cert-location-url =
+    .value = অবস্থান:
 exception-mgr-cert-status-view-cert =
     .label = প্রদর্শন…
     .accesskey = V
@@ -25,6 +49,10 @@ import-ca-certs-prompt = ইম্পোর্ট করার উদ্দে�
 
 ## For Deleting Certificates
 
+delete-user-cert-title =
+    .title = আপনার সার্টিফিকেটগুলি মুছে ফেলুন
+delete-user-cert-confirm = আপনি কি নিশ্চিতরূপে এই সার্টিফিকেটগুলি মুছে ফেলতে ইচ্ছুক?
+delete-user-cert-impact = আপনার কোনো নিজস্ব সার্টিফিকেট মুছে ফেলা হলে, পরিচয় প্রমাণের জন্য আপনি তা পুনরায় ব্যবহার করতে সক্ষম হবেন না।
 delete-ssl-cert-title =
     .title = সার্ভার সার্টিফিকেটের ব্যতিক্রম মুছে ফেলুন
 delete-ssl-cert-confirm = আপনি কি নিশ্চিতরূপে সার্ভারের এই ব্যতিক্রমগুলি মুছে ফেলতে ইচ্ছুক?
@@ -47,3 +75,7 @@ cert-not-verified-issuer-unknown = প্রকাশকারী পরিচ�
 
 ## Add Security Exception dialog
 
+add-exception-branded-warning = { -brand-short-name } দ্বারা এই সাইটের পরিচয় নির্ধারণের প্রক্রিয়া আপনি পরিবর্তন করতে চলেছেন।
+add-exception-domain-mismatch-short = সাইট সঠিক নয়
+add-exception-unverified-or-bad-signature-short = অজানা পরিচয়
+add-exception-checking-short = তথ্য পরীক্ষা করা হচ্ছে
