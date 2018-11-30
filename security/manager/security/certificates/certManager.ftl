@@ -163,9 +163,21 @@ delete-email-cert-title =
     .title = Scancella certificati email
 delete-email-cert-confirm = T'ê seguo de scancelâ sti certificati de personn-e?
 delete-email-cert-impact = Se ti ti scancelli un certificato email, ti no saiæ ciù in graddo de spedî 'na email criptâ a sta personn-a.
+# Used for semi-uniquely representing a cert.
+#
+# Variables:
+#   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
+cert-with-serial =
+    .value = Cartificato con numero seriale: { $serialNumber }
 
 ## Cert Viewer
 
+# Title used for the Certificate Viewer.
+#
+# Variables:
+#   $certificate : a string representative of the certificate being viewed.
+cert-viewer-title =
+    .title = Vizolizatô de certificati: “{ $certName }”
 not-present =
     .value = <No l'é parte do certificato>
 # Cert verification
