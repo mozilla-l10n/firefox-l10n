@@ -102,7 +102,7 @@ import-email-cert-prompt = Pumili ng file na may nglalaman na Email certificate 
 
 delete-user-cert-title =
     .title = Burahin ang iyong mga Sertipiko
-delete-user-cert-confirm = Nakasisiguro ka bang nais mong burahin ang mga sertipikong ito?{ " " }
+delete-user-cert-confirm = Nakasisiguro ka bang nais mong burahin ang mga sertipikong ito?
 delete-user-cert-impact = Kung tatangalin mo ang isa sa iyong mga sariling sertipiko, maaari mong hindi na magagamit ito upang kilalanin ang iyong sarili.
 delete-ssl-cert-confirm = Sigurado ka bang gusto mong burahin ang mga server exception na ito?
 delete-ssl-cert-impact = Kung ibubura mo ang serverver exception, ibalik mo ang mga karaniwang na pagsusuri ng seguridad para sa server at kailangan ito ay gumagamit ng isang wastong sertipiko.
