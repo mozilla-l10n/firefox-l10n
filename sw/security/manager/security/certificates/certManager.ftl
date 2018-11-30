@@ -43,6 +43,7 @@ exception-mgr-cert-location-url =
 ## For Deleting Certificates
 
 delete-ssl-cert-confirm = Unahakika unataka kufuta yasiyojilikana ya seva hii?
+delete-email-cert-confirm = Uyaqiniseka yini ukuthi ufuna ukuzicisha lezi zitifiketi zezingosi zewebhu?
 
 ## Cert Viewer
 
