@@ -24,6 +24,8 @@ certmgr-subject-info-label =
     .value = Hucci ko e
 certmgr-issuer-info-label =
     .value = Feewni ko
+certmgr-period-of-validity-label =
+    .value = Dumunna Moƴƴugol
 certmgr-fingerprints-label =
     .value = Temmbelle
 certmgr-cert-detail =
@@ -38,6 +40,8 @@ certmgr-cert-detail-ou =
     .value = Goomu Yuɓɓinirgu (OU)
 certmgr-cert-detail-serialnumber =
     .value = Tonngoode dewindol
+certmgr-cert-detail-sha256-fingerprint =
+    .value = Temmbelol SHA-256
 certmgr-cert-detail-sha1-fingerprint =
     .value = Temmbelol SHA1
 certmgr-edit-ca-cert =
@@ -59,6 +63,8 @@ certmgr-override-lifetime =
     .label = Nguurndam
 certmgr-token-name =
     .label = Kaɓirgol Kisal
+certmgr-begins-label =
+    .label = Fuɗɗotoo ko Ñalnde
 certmgr-begins-value =
     .value = { certmgr-begins-label.label }
 certmgr-expires-label =
@@ -99,6 +105,9 @@ certmgr-details =
 certmgr-fields =
     .value = Kiisol Gallol
     .accesskey = K
+certmgr-hierarchy =
+    .value = Leemto sertifikaaji
+    .accesskey = H
 certmgr-add-exception =
     .label = Ɓeydu Faltoore…
     .accesskey = a
@@ -137,9 +146,13 @@ choose-p12-restore-file-dialog = Fiilde Seedamfaagu Jiggeteede
 
 file-browse-certificate-spec = Piille seedamfaagu
 import-ca-certs-prompt = Labo fiilde soomnde seedamfaagu(je) CA ngam jiggaade
+import-email-cert-prompt = Labo fiilde soomnde seedamfaagu iimeel neɗɗo ngam jiggaade
 
 ## For editing certificates trust
 
+# Variables:
+#   $certName: the name of certificate
+edit-trust-ca = Seedamfaagu "{ $certName }" toɗɗii ko Kohowo Seedamfaagu.
 
 ## For Deleting Certificates
 
@@ -157,9 +170,23 @@ delete-ca-cert-confirm = A naamniima yoo ɗee seedamfaaje CA momte. Koolaaje see
 delete-ca-cert-impact = So a momtii walla a hoolkisiima seedamfaagu kohowo seedamfaagu (CA), ngal jaaɓnirgal wontaa hoolo hay seedamfaagu ummiingu e oon kohowo.
 delete-email-cert-title =
     .title = Momtu Seedamfaaje Iimeel
+delete-email-cert-confirm = Aɗa yenanaa yiɗde momtude seedamfaaje iimeel ɓee-ɗoo yimɓe?
+delete-email-cert-impact = So a momtii seedamfaagu iimel neɗɗo, a waawataa haŋkadi neldude iimeel gannaaɗo fayde e oon neɗɗo.
+# Used for semi-uniquely representing a cert.
+#
+# Variables:
+#   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
+cert-with-serial =
+    .value = Seedamfaagu kame tonngoode looso: { $serialNumber }
 
 ## Cert Viewer
 
+# Title used for the Certificate Viewer.
+#
+# Variables:
+#   $certificate : a string representative of the certificate being viewed.
+cert-viewer-title =
+    .title = Yiytorde seedamfaagu: “{ $certName }”
 not-present =
     .value = <Jeyaaka e Seedamfaagu>
 # Cert verification
@@ -190,9 +217,14 @@ cert-not-verified-unknown = Horiima ƴeewtaade nguu seedamfaagu ngam daliilu mo 
 add-exception-branded-warning = Ngon-ɗaa ko e fawtitaade hol no { -brand-short-name } innitorta ndee lowre.
 add-exception-invalid-header = Ndee lowre ena etoo innitaade huutoraade humpito ngo moƴƴaani.
 add-exception-domain-mismatch-short = Lowre Jaɓaaka
+add-exception-domain-mismatch-long = Seedamfaagu nguu jeyi ɗum ko lowre woɗnde, wadde ellee won etotooɗe ñemmbude wonde ndee lowre.
 add-exception-expired-short = Humpito Hiiɗɗitngo
+add-exception-expired-long = Seedamfaagu nguu rewaani laawol. Ena gasa tawa ko nde wujjaande walla majjunde, kisa ena waawi huutoreede ngam ñemmbude ndee lowre.
 add-exception-unverified-or-bad-signature-short = Innitol Anndaaka
+add-exception-unverified-or-bad-signature-long = Seedamfaagu hoolaaka sabu ngu ƴeewtaaka so iwi ko e kohowo keftinaaɗo huutoraade siifannde hisnde.
 add-exception-valid-short = Seedamfaagu Moƴƴu
 add-exception-valid-long = Ndee lowre ena hokko innitol moƴƴol, ƴeewtangol.  Soklaani ɓeydude faltoore.
 add-exception-checking-short = Nana Ƴeewtoo Humpito
+add-exception-checking-long = Nana etoo heftinde ndee lowre…
 add-exception-no-cert-short = Alaa Humpito Woodi
+add-exception-no-cert-long = Horiima heɓde ngonka innitol ndee lowre.
