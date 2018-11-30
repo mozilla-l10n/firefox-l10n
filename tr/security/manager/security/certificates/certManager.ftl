@@ -115,6 +115,7 @@ add-exception-branded-warning = { -brand-short-name } uygulamasının siteyi tan
 add-exception-invalid-header = Bu site kendini geçersiz bilgilerle tanımlamaya çalışıyor.
 add-exception-domain-mismatch-short = Yanlış site
 add-exception-expired-short = Güncelliğini yitirmiş bilgi
+add-exception-unverified-or-bad-signature-short = Bilinmeyen kimlik
 add-exception-unverified-or-bad-signature-long = Güvenilir bir makam tarafından yayımlandığını gösteren güvenli bir imza ile doğrulanmadığı için bu sertifikaya güvenilmiyor.
 add-exception-checking-short = Bilgiler denetleniyor
 add-exception-no-cert-short = Bilgi yok
