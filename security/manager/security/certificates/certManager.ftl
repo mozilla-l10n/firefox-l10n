@@ -24,6 +24,10 @@ certmgr-subject-info-label =
     .value = Emes cap a
 certmgr-issuer-info-label =
     .value = Emes per
+certmgr-period-of-validity-label =
+    .value = Periòde de Validitat
+certmgr-fingerprints-label =
+    .value = Emprentas numericas
 certmgr-cert-detail =
     .title = Detalhs del certificat
     .buttonlabelaccept = Tampar
@@ -36,6 +40,10 @@ certmgr-cert-detail-ou =
     .value = Unitat d'organizacion (OU)
 certmgr-cert-detail-serialnumber =
     .value = Numèro de seria
+certmgr-cert-detail-sha256-fingerprint =
+    .value = Emprenta numerica SHA-256{ " " }
+certmgr-cert-detail-sha1-fingerprint =
+    .value = Emprenta numerica SHA1
 certmgr-edit-ca-cert =
     .title = Edicion dels paramètres de fisança de l'autoritat de certificacion (CA)
     .style = width: 48em;
@@ -55,6 +63,8 @@ certmgr-override-lifetime =
     .label = Durada de vida
 certmgr-token-name =
     .label = Periferic de seguretat
+certmgr-begins-label =
+    .label = Comença lo
 certmgr-begins-value =
     .value = { certmgr-begins-label.label }
 certmgr-expires-label =
@@ -86,6 +96,9 @@ certmgr-details =
 certmgr-fields =
     .value = Valor del camp
     .accesskey = V
+certmgr-hierarchy =
+    .value = Ierarquia dels certificats
+    .accesskey = H
 certmgr-add-exception =
     .label = Apondre una excepcion…
     .accesskey = x
@@ -121,9 +134,13 @@ choose-p12-restore-file-dialog = Fichièr de certificat d'importar
 
 file-browse-certificate-spec = Fichièrs de certificat
 import-ca-certs-prompt = Seleccionar un fichièr que conten un (o de) certificat(s) d'AC d'importar
+import-email-cert-prompt = Seleccionar un fichièr que conten un certificat de corrièr d'importar
 
 ## For editing certificates trust
 
+# Variables:
+#   $certName: the name of certificate
+edit-trust-ca = Lo certificat « { $certName } » representa una autoritat de certificacion.
 
 ## For Deleting Certificates
 
@@ -137,9 +154,12 @@ delete-ssl-cert-confirm = Volètz vertadièrament suprimir aquestas exceptions d
 delete-ssl-cert-impact = Se suprimissètz una excepcion de servidor, restablissètz las verificacions de seguretat usualas per aqueste servidor e demandatz qu'utilize un certificat valid.
 delete-ca-cert-title =
     .title = Suprimir o far pas mai fisança a de certificats d'AC
+delete-ca-cert-confirm = Avètz demandat de suprimir aqueles certificats d'AC. Se s'agís de certificats integrats, cap de fisança lor serà pas mai acordada, aquò's a lo meteis efèit. Sètz segur que volètz suprimir aqueles certificats o alara lor far pas mai fisança ?
 delete-ca-cert-impact = Se suprimissètz un certificat d'autoritat de certificacion (AC), vòstra aplicacion ne farà pas mai fisança als certificats eissits d'aquesta AC.
 delete-email-cert-title =
     .title = Supression de certificats de corrièr
+delete-email-cert-confirm = Volètz vertadièrament suprimir los certificats de corrièr d'aquestas personas ?
+delete-email-cert-impact = Se suprimissètz lo certificat de corrièr d'una persona, poiretz pas mai mandar de corrièr chifrat a la persona que li es associada
 
 ## Cert Viewer
 
@@ -170,8 +190,15 @@ cert-not-verified-unknown = Impossible de verificar aqueste certificat per una r
 
 ## Add Security Exception dialog
 
+add-exception-branded-warning = Sètz a mand de passar otra lo biais que  { -brand-short-name } identifica aqueste site.
+add-exception-invalid-header = Aqueste site ensaja de s'identificar ele-meteis amb d'entresenhas invalidas.
+add-exception-domain-mismatch-short = Site marrit
 add-exception-expired-short = Entresenhas obsoletas
 add-exception-unverified-or-bad-signature-short = Identitat desconeguda
+add-exception-unverified-or-bad-signature-long = Lo certificat es pas segur perque es pas estat verificat per una autoritat reconeguda.
 add-exception-valid-short = Certificat valid
+add-exception-valid-long = Aqueste site provesís una identificacion valida e certificada. Es pas necessari d'apondre una excepcion.
 add-exception-checking-short = Verificacion de las entresenhas
+add-exception-checking-long = Temptativa d'identificacion del site…
 add-exception-no-cert-short = Pas d'entresenhas disponiblas
+add-exception-no-cert-long = Impossible d'obténer l'estat d'identificacion pel site donat.
