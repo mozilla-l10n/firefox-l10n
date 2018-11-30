@@ -102,9 +102,13 @@ file-browse-pkcs12-spec = Difaele PKCS12
 
 file-browse-certificate-spec = Difaele tša Setifikheiti
 import-ca-certs-prompt = Kgetha faele yeo e nago le ditifikeiti tša CA go di amogela
+import-email-cert-prompt = Hlaola Faele yeo e nago le setifikheiti sa E-poso ya motho yo mongwe go fihliša
 
 ## For editing certificates trust
 
+# Variables:
+#   $certName: the name of certificate
+edit-trust-ca = Setifikheiti "{ $certName }" se emela Taolo ya Setifikheiti.
 
 ## For Deleting Certificates
 
@@ -114,6 +118,8 @@ delete-user-cert-confirm = E ka ba o na le bonnete bja gore o nyaka go phumola d
 delete-user-cert-impact = Ge o phumola se sengwe sa disetifikheiti tša gago, o ka se ke wa hlwela o di šomiša go ka itsebiša.
 delete-email-cert-title =
     .title = Phumola Disetifikheiti tša E-Poso
+delete-email-cert-confirm = E ka ba o na le bonnete bja gore o nyaka go phumola disetifikheiti tša e-poso tša batho ba?
+delete-email-cert-impact = Ge o ka phumola setifikheiti sa e-poso, o ka se sa kgona go romela e-poso ye e enkripthilwego go batho bao.
 
 ## Cert Viewer
 
