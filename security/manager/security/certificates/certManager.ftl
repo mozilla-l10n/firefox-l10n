@@ -2,27 +2,95 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+certmgr-title =
+    .title = Varmenteiden hallinta
+certmgr-tab-mine =
+    .label = Omat varmenteet
+certmgr-tab-people =
+    .label = Henkilöt
+certmgr-tab-servers =
+    .label = Palvelimet
+certmgr-tab-ca =
+    .label = Varmentajat
+certmgr-mine = Seuraavilta organisaatioilta on sinut todentava varmenne
+certmgr-people = Seuraavat yksilöt todentavia varmenteita on tiedossa
+certmgr-servers = Seuraavat palvelimet todentavia varmenteita on tiedossa
+certmgr-ca = Seuraavat varmentajat todentavia varmenteita on tiedossa
+certmgr-detail-general-tab-title =
+    .label = Yleistiedot
+    .accesskey = Y
+certmgr-detail-pretty-print-tab-title =
+    .label = Yksityiskohdat
+    .accesskey = t
 certmgr-pending-label =
     .value = Todennetaan varmennetta…
+certmgr-subject-info-label =
+    .value = Myönnetty
+certmgr-issuer-info-label =
+    .value = Myöntäjä
 certmgr-period-of-validity-label =
     .value = Kelpoisuusaika
+certmgr-fingerprints-label =
+    .value = Sormenjäljet
+certmgr-cert-detail =
+    .title = Varmenteen yksityiskohdat
+    .buttonlabelaccept = Sulje
+    .buttonaccesskeyaccept = S
+certmgr-cert-detail-cn =
+    .value = Yleinen nimi (CN)
+certmgr-cert-detail-o =
+    .value = Organisaatio (O)
+certmgr-cert-detail-ou =
+    .value = Organisaation yksikkö (OU)
+certmgr-cert-detail-serialnumber =
+    .value = Sarjanumero
+certmgr-cert-detail-sha256-fingerprint =
+    .value = SHA-256-sormenjälki
+certmgr-cert-detail-sha1-fingerprint =
+    .value = SHA1-sormenjälki
+certmgr-edit-ca-cert =
+    .title = Muokkaa varmentajan varmenteen luotettavuusasetuksia
+    .style = width: 48em;
 certmgr-edit-cert-edit-trust = Muokkaa luotettavuusasetuksia:
+certmgr-edit-cert-trust-ssl =
+    .label = Tämä varmenne voi todentaa verkkosivustoja.
+certmgr-edit-cert-trust-email =
+    .label = Tämä varmenne voi todentaa sähköpostittajia.
+certmgr-delete-cert =
+    .title = Poista varmenne
+    .style = width: 48em; height: 24em;
+certmgr-cert-name =
+    .label = Varmenteen nimi
 certmgr-cert-server =
     .label = Palvelin
 certmgr-override-lifetime =
     .label = Elinikä
+certmgr-token-name =
+    .label = Turvallisuuslaite
 certmgr-begins-label =
     .label = Astuu voimaan
 certmgr-begins-value =
     .value = { certmgr-begins-label.label }
+certmgr-expires-label =
+    .label = Vanhenee
 certmgr-expires-value =
     .value = { certmgr-expires-label.label }
+certmgr-email =
+    .label = Sähköpostiosoite
+certmgr-serial =
+    .label = Sarjanumero
+certmgr-view =
+    .label = Näytä…
+    .accesskey = N
 certmgr-edit =
     .label = Muokkaa luottamusta…
     .accesskey = M
 certmgr-export =
     .label = Vie…
     .accesskey = V
+certmgr-delete =
+    .label = Poista…
+    .accesskey = P
 certmgr-delete-builtin =
     .label = Poista tai älä luota…
     .accesskey = o
@@ -108,9 +176,21 @@ delete-email-cert-title =
     .title = Poista sähköpostivarmenteet
 delete-email-cert-confirm = Poistetaanko nämä sähköpostivarmenteet?
 delete-email-cert-impact = Jos sähköpostivarmenne poistetaan, varmenteen kohteelle ei voi enää lähettää salattuja viestejä.
+# Used for semi-uniquely representing a cert.
+#
+# Variables:
+#   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
+cert-with-serial =
+    .value = Varmenne sarjanumerolla: { $serialNumber }
 
 ## Cert Viewer
 
+# Title used for the Certificate Viewer.
+#
+# Variables:
+#   $certificate : a string representative of the certificate being viewed.
+cert-viewer-title =
+    .title = Varmenteen tarkastelu: ”{ $certName }”
 not-present =
     .value = <Ei osa varmennetta>
 # Cert verification
@@ -133,6 +213,7 @@ cert-not-verified-cert-not-trusted = Varmennetta ei voitu todentaa, koska siihen
 cert-not-verified-issuer-not-trusted = Varmennetta ei voitu todentaa, koska sen myöntäjään ei luoteta.
 cert-not-verified-issuer-unknown = Varmennetta ei voitu todentaa, koska sen myöntäjä on tuntematon.
 cert-not-verified-ca-invalid = Varmennetta ei voitu todentaa, koska sen varmentajan varmenne on epäkelpo.
+cert-not-verified_algorithm-disabled = Varmennetta ei voitu todentaa, koska se on allekirjoitettu allekirjoitusalgoritmilla, joka ei ole turvallinen.
 cert-not-verified-unknown = Varmennetta ei voitu todentaa tuntemattomasta syystä.
 
 ## Add Security Exception dialog
