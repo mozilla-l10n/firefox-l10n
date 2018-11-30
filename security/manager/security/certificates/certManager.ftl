@@ -12,6 +12,9 @@ certmgr-tab-servers =
     .label = Servers
 certmgr-tab-ca =
     .label = Authorities
+certmgr-people = You have certificates on file that identify these people
+certmgr-servers = You have certificates on file that identify these servers
+certmgr-ca = You have certificates on file that identify these certificate authorities
 certmgr-detail-general-tab-title =
     .label = General
     .accesskey = G
@@ -24,6 +27,8 @@ certmgr-subject-info-label =
     .value = Issued To
 certmgr-issuer-info-label =
     .value = Issued By
+certmgr-period-of-validity-label =
+    .value = Period of Validity
 certmgr-fingerprints-label =
     .value = Fingerprints
 certmgr-cert-detail =
@@ -34,6 +39,8 @@ certmgr-cert-detail-cn =
     .value = Common Name (CN)
 certmgr-cert-detail-serialnumber =
     .value = Serial Number
+certmgr-cert-detail-sha256-fingerprint =
+    .value = SHA-256 Fingerprint
 certmgr-cert-detail-sha1-fingerprint =
     .value = SHA1 Fingerprint
 certmgr-edit-ca-cert =
@@ -53,6 +60,8 @@ certmgr-override-lifetime =
     .label = Lifetime
 certmgr-token-name =
     .label = Security Device
+certmgr-begins-label =
+    .label = Begins On
 certmgr-begins-value =
     .value = { certmgr-begins-label.label }
 certmgr-expires-label =
@@ -93,6 +102,9 @@ certmgr-details =
 certmgr-fields =
     .value = Field Value
     .accesskey = V
+certmgr-hierarchy =
+    .value = Certificate Hierarchy
+    .accesskey = H
 certmgr-add-exception =
     .label = Add Exception…
     .accesskey = x
@@ -151,9 +163,21 @@ delete-ca-cert-confirm = You have asked to delete these CA certificates. For bui
 delete-ca-cert-impact = If you delete or distrust a certificate authority (CA) certificate, this application will no longer trust any certificates issued by that CA.
 delete-email-cert-title =
     .title = Delete Email Certificates
+# Used for semi-uniquely representing a cert.
+#
+# Variables:
+#   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
+cert-with-serial =
+    .value = Certificate with serial number: { $serialNumber }
 
 ## Cert Viewer
 
+# Title used for the Certificate Viewer.
+#
+# Variables:
+#   $certificate : a string representative of the certificate being viewed.
+cert-viewer-title =
+    .title = Certificate Viewer: “{ $certName }”
 not-present =
     .value = <Not Part Of Certificate>
 # Cert verification
@@ -176,6 +200,7 @@ cert-not-verified-cert-not-trusted = Could not verify this certificate because i
 cert-not-verified-issuer-not-trusted = Could not verify this certificate because the issuer is not trusted.
 cert-not-verified-issuer-unknown = Could not verify this certificate because the issuer is unknown.
 cert-not-verified-ca-invalid = Could not verify this certificate because the CA certificate is invalid.
+cert-not-verified_algorithm-disabled = Could not verify this certificate because it was signed using a signature algorithm that was disabled because that algorithm is not secure.
 cert-not-verified-unknown = Could not verify this certificate for unknown reasons.
 
 ## Add Security Exception dialog
@@ -183,8 +208,13 @@ cert-not-verified-unknown = Could not verify this certificate for unknown reason
 add-exception-branded-warning = You are about to override how { -brand-short-name } identifies this site.
 add-exception-invalid-header = This site attempts to identify itself with invalid information.
 add-exception-domain-mismatch-short = Wrong Site
+add-exception-domain-mismatch-long = The certificate belongs to a different site, which could mean that someone is trying to impersonate this site.
 add-exception-expired-short = Outdated Information
+add-exception-expired-long = The certificate is not currently valid. It may have been stolen or lost, and could be used by someone to impersonate this site.
+add-exception-unverified-or-bad-signature-short = Unknown Identity
 add-exception-valid-short = Valid Certificate
 add-exception-valid-long = This site provides valid, verified identification.  There is no need to add an exception.
 add-exception-checking-short = Checking Information
+add-exception-checking-long = Attempting to identify this site…
 add-exception-no-cert-short = No Information Available
+add-exception-no-cert-long = Unable to obtain identification status for this site.
