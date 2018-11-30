@@ -172,6 +172,12 @@ delete-email-cert-title =
     .title = ই-মেইল সার্টিফিকেট মুছে ফেলুন
 delete-email-cert-confirm = আপনি কি নিশ্চিতরূপে উল্লিখিত ব্যক্তিদের ই-মেইল সার্টিফিকেটগুলি মুছে ফেলতে ইচ্ছুক?
 delete-email-cert-impact = কোনো ই-মেইল সার্টিফিকেট মুছে ফেলা হলে সংশ্লিষ্ট ব্যক্তিদেরকে  এনক্রিপ্ট করা ই-মেইল পাঠানো সম্ভব হবে না।
+# Used for semi-uniquely representing a cert.
+#
+# Variables:
+#   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
+cert-with-serial =
+    .value = সিরিয়াল নম্বরের সাথে সার্টিফিকেট: { $serialNumber }
 
 ## Cert Viewer
 
