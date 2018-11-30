@@ -10,6 +10,7 @@ about-performance-title = Správce úloh
 column-name = Název
 column-type = Typ
 column-energy-impact = Energetický dopad
+column-memory = Paměť
 
 ## Special values for the Name column
 
@@ -37,6 +38,15 @@ type-other = Jiný
 energy-impact-high = Vysoký ({ $value })
 energy-impact-medium = Střední ({ $value })
 energy-impact-low = Nízký ({ $value })
+
+## Values for the Memory column
+##
+## Variables:
+##   $value (Number) - How much memory is used
+
+size-KB = { $value } KB
+size-MB = { $value } MB
+size-GB = { $value } GB
 
 ## Tooltips for the action buttons
 
