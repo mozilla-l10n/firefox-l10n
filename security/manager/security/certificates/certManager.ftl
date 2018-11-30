@@ -82,6 +82,7 @@ cert-not-verified-cert-revoked = Não foi possível verificar este certificado p
 cert-not-verified-cert-expired = Não foi possível verificar este certificado por ter expirado.
 cert-not-verified-cert-not-trusted = Não foi possível verificar este certificado por não ser de confiança.
 cert-not-verified-issuer-unknown = Não foi possível verificar este certificado porque o emissor é desconhecido.
+cert-not-verified_algorithm-disabled = O certificado não é de confiança porque foi assinado com um algoritmo que foi desativado por não ser seguro.
 cert-not-verified-unknown = Não foi possível verificar este certificado por razões desconhecidas.
 
 ## Add Security Exception dialog
