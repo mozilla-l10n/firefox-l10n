@@ -9,6 +9,12 @@ certmgr-begins-value =
     .value = { certmgr-begins-label.label }
 certmgr-expires-value =
     .value = { certmgr-expires-label.label }
+certmgr-edit =
+    .label = Modifier la confiance…
+    .accesskey = M
+certmgr-delete-builtin =
+    .label = Supprimer ou ne plus faire confiance…
+    .accesskey = S
 pk11-bad-password = Le mot de passe PK11 est incorrect.
 pkcs12-unknown-err-restore = Échec de récupération du fichier PKCS#12 pour une raison inconnue.
 pkcs12-unknown-err-backup = Échec de sauvegarde du fichier PKCS#12 pour une raison inconnue.
@@ -18,6 +24,7 @@ pkcs12-dup-data = Le certificat et la clé privée existent déjà sur le périp
 
 choose-p12-backup-file-dialog = Nom de fichier à sauvegarder
 file-browse-pkcs12-spec = Fichiers PKCS12
+choose-p12-restore-file-dialog = Fichier de certificat à importer
 
 ## Import certificate(s) file dialog
 
