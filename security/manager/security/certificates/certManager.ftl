@@ -1,0 +1,186 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+certmgr-title =
+    .title = Управление на сертификати
+certmgr-tab-mine =
+    .label = Вашите сертификати
+certmgr-tab-people =
+    .label = Хора
+certmgr-tab-servers =
+    .label = Сървъри
+certmgr-tab-ca =
+    .label = Удостоверители
+certmgr-detail-pretty-print-tab-title =
+    .label = Подробности
+    .accesskey = П
+certmgr-pending-label =
+    .value = Проверяване на сертификат…
+certmgr-subject-info-label =
+    .value = Издаден на
+certmgr-issuer-info-label =
+    .value = Издаден от
+certmgr-period-of-validity-label =
+    .value = Период на валидност
+certmgr-fingerprints-label =
+    .value = Отпечатъци
+certmgr-cert-detail =
+    .title = Подробности на сертификат
+    .buttonlabelaccept = Затваряне
+    .buttonaccesskeyaccept = З
+certmgr-cert-detail-cn =
+    .value = Име (CN)
+certmgr-cert-detail-o =
+    .value = Организация (О)
+certmgr-cert-detail-ou =
+    .value = Организационно подразделение (OU)
+certmgr-cert-detail-serialnumber =
+    .value = Сериен номер
+certmgr-cert-detail-sha256-fingerprint =
+    .value = Отпечатък SHA-256
+certmgr-cert-detail-sha1-fingerprint =
+    .value = Отпечатък SHA1
+certmgr-edit-ca-cert =
+    .title = Редактиране на настройките за доверие в сертификат на CA
+    .style = width: 48em;
+certmgr-edit-cert-edit-trust = Редактиране на настройките за доверие:
+certmgr-edit-cert-trust-ssl =
+    .label = Този сертификат може да идентифицира уеб сайтове.
+certmgr-edit-cert-trust-email =
+    .label = Този сертификат може да идентифицира пощенски потребители.
+certmgr-delete-cert =
+    .title = Изтриване на сертификат
+    .style = width: 48em; height: 24em;
+certmgr-cert-name =
+    .label = Име на сертификат
+certmgr-cert-server =
+    .label = Сървър
+certmgr-override-lifetime =
+    .label = Време на живот
+certmgr-begins-label =
+    .label = Започва на
+certmgr-begins-value =
+    .value = { certmgr-begins-label.label }
+certmgr-expires-label =
+    .label = Изтича на
+certmgr-expires-value =
+    .value = { certmgr-expires-label.label }
+certmgr-email =
+    .label = Е-поща
+certmgr-serial =
+    .label = Сериен номер
+certmgr-view =
+    .label = Подробности…
+    .accesskey = П
+certmgr-edit =
+    .label = Редактиране на доверието…
+    .accesskey = Р
+certmgr-export =
+    .label = Изнасяне…
+    .accesskey = И
+certmgr-delete =
+    .label = Изтриване…
+    .accesskey = т
+certmgr-backup =
+    .label = Резервно копие…
+    .accesskey = Р
+certmgr-backup-all =
+    .label = Резервно копие на всичко…
+    .accesskey = в
+certmgr-restore =
+    .label = Внасяне…
+    .accesskey = В
+certmgr-details =
+    .value = Полета на сертификата
+    .accesskey = П
+certmgr-add-exception =
+    .label = Добавяне на изключение…
+    .accesskey = к
+exception-mgr =
+    .title = Добавяне на изключение по безопасността
+exception-mgr-extra-button =
+    .label = Потвърждаване на изключение по безопасността
+    .accesskey = П
+exception-mgr-cert-location-url =
+    .value = Адрес:
+exception-mgr-cert-status-view-cert =
+    .label = Преглед…
+    .accesskey = П
+pk11-bad-password = Въведената парола е грешна.
+pkcs12-decode-err = Неуспешно декодиране на файла. Може би той не е в формат PKCS #12, повреден е или сте въвели грешна парола.
+pkcs12-unknown-err-restore = Неуспешно възстановяване на PKCS #12 файла поради неизвестни причини.
+pkcs12-unknown-err-backup = Неуспешно създаване на резервен PKCS #12 файл поради неизвестни причини.
+pkcs12-unknown-err = PKCS #12 операцията е неуспешна по неизвестни причини.
+pkcs12-info-no-smartcard-backup = Невъзможно е резервирането на сертификати от хардуерно сигурно устройство, каквото е смарт-картата.
+pkcs12-dup-data = Сертификатът и личният ключ вече съществуват в сигурното устройство.
+
+## PKCS#12 file dialogs
+
+choose-p12-backup-file-dialog = Име на файл за резервно копие
+file-browse-pkcs12-spec = PKCS12 файлове
+choose-p12-restore-file-dialog = Сертификатен файл за внасяне
+
+## Import certificate(s) file dialog
+
+file-browse-certificate-spec = Файлове със сертификати
+import-ca-certs-prompt = Изберете файл, съдържащ сертификат(и) на CA за внасяне
+import-email-cert-prompt = Изберете файл за внасяне, съдържащ нечий сертификат за е-поща
+
+## For editing certificates trust
+
+# Variables:
+#   $certName: the name of certificate
+edit-trust-ca = Сертификатът „{ $certName }“ представя сертификатен удостоверител (CA).
+
+## For Deleting Certificates
+
+delete-user-cert-title =
+    .title = Изтриване на вашите сертификати
+delete-user-cert-confirm = Сигурни ли сте, че искате да изтриете тези сертификати?
+delete-ssl-cert-title =
+    .title = Изтриване на изключенията за сървърски сертификати
+delete-ssl-cert-confirm = Сигурни ли сте, че искате да изтриете тези изключения?
+delete-ssl-cert-impact = Ако изтриете изключение за сървър, възстановявате проверките по безопасността за този сървър и изискването за валиден сертификат.
+delete-ca-cert-title =
+    .title = Изтриване или премахване на доверие от сертификати на CA
+delete-ca-cert-confirm = Поискахте да изтриете тези сертификати на CA. При вградените сертификати цялото доверие ще бъде премахнато, което има същият ефект. Сигурни ли сте, че искате да изтриете или премахнете доверието?
+delete-ca-cert-impact = Ако изтриете или премахнете доверие от сертификат на сертификатен удостоверител (CA), това приложение повече няма да се доверява на сертификати, издадени от този CA.
+delete-email-cert-title =
+    .title = Изтриване на сертификати за е-поща
+delete-email-cert-confirm = Сигурни ли сте, че искате да изтриете сертификатите за е-поща на тези хора?
+delete-email-cert-impact = Ако изтриете сертификат на е-поща на човек, няма да може да изпращате шифрована поща до този човек.
+
+## Cert Viewer
+
+not-present =
+    .value = <Не е част от сертификат>
+# Cert verification
+cert-verified = Този сертификат е потвърден за следните цели:
+# Add usage
+verify-ssl-client =
+    .value = Сертификат на SSL клиент
+verify-ssl-server =
+    .value = Сертификат на SSL сървър
+verify-email-signer =
+    .value = Сертификат на подписващия е-поща
+verify-email-recip =
+    .value = Сертификат на получаващия е-поща
+# Cert verification
+cert-not-verified-cert-revoked = Сертификатът не е приет, защото е анулиран.
+cert-not-verified-cert-not-trusted = Сертификатът не е приет, защото не е доверен.
+cert-not-verified-issuer-not-trusted = Сертификатът не е приет, защото издателят не е доверен.
+cert-not-verified-issuer-unknown = Сертификатът не е приет, защото издателят е неизвестен.
+cert-not-verified-ca-invalid = Сертификатът не е приет, защото сертификатът на неговия CA е невалиден.
+cert-not-verified_algorithm-disabled = Сертификатът не може да се провери, защото е подписан с алгоритъм за подписване, който е деактивиран, защото не е безопасен.
+cert-not-verified-unknown = Сертификатът не е приет по неизвестни причини.
+
+## Add Security Exception dialog
+
+add-exception-invalid-header = Сайтът се опита да се представи с невалидна информация.
+add-exception-expired-short = Невярна информация
+add-exception-unverified-or-bad-signature-short = Неизвестна идентичност
+add-exception-valid-short = Валиден сертификат
+add-exception-valid-long = Сайтът има валиден и проверен сертификат. Няма нужда от добавяне на изключение.
+add-exception-checking-short = Проверка на информация
+add-exception-no-cert-short = Няма информация
