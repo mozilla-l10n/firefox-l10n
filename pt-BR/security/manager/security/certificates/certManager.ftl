@@ -145,12 +145,15 @@ edit-trust-ca = O certificado “{ $certName }” representa uma autoridade cert
 delete-user-cert-title =
     .title = Excluir seus certificados
 delete-user-cert-confirm = Tem certeza que deseja excluir estes certificados?
+delete-user-cert-impact = Caso exclua um de seus próprios certificados, não poderá mais usá-lo para se identificar.
 delete-ssl-cert-title =
     .title = Excluir exceções de certificados de servidores
 delete-ssl-cert-confirm = Tem certeza que deseja excluir estas exceções de servidores?
 delete-ssl-cert-impact = Se excluir uma exceção de servidor, irá restaurar as verificações de segurança habituais para esse servidor e exigirá que ele use um certificado válido.
 delete-ca-cert-title =
     .title = Excluir certificados de CA
+delete-ca-cert-confirm = Você solicitou a exclusão dos certificados CA abaixo. Os certificados internos somente passarão a ser rejeitados, o que produz o mesmo efeito. Tem certeza que deseja excluí-los?
+delete-ca-cert-impact = Se excluir ou remover a confiança do certificado de uma autoridade certificadora (CA), este aplicativo rejeitará certificados emitidos por esta CA.
 
 ## Cert Viewer
 
