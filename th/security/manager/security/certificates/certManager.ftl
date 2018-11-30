@@ -48,6 +48,8 @@ certmgr-cert-server =
     .label = เซิร์ฟเวอร์
 certmgr-override-lifetime =
     .label = อายุการใช้งาน
+certmgr-token-name =
+    .label = อุปกรณ์ความปลอดภัย
 certmgr-begins-label =
     .label = เริ่มเมื่อ
 certmgr-begins-value =
@@ -128,6 +130,7 @@ edit-trust-ca = ใบรับรอง "{ $certName }" เป็น Certificat
 
 delete-user-cert-title =
     .title = ลบใบรับรองของคุณ
+delete-user-cert-confirm = คุณแน่ใจหรือไม่ว่าต้องการลบใบรับรองเหล่านี้?
 delete-ssl-cert-title =
     .title = ลบข้อยกเว้นใบรับรองของเซิร์ฟเวอร์
 delete-ssl-cert-impact = ถ้าคุณลบข้อยกเว้นเซิร์ฟเวอร์นี้ นั่นเป็นการเปิดใช้การรักษาความปลอดภัยตามปกติกับเซิร์ฟเวอร์นี้ และเซิร์ฟเวอร์นี้ต้องการใบรับรองที่ถูกต้องเพื่อให้ใช้งานได้
