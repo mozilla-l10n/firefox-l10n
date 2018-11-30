@@ -91,6 +91,9 @@ certmgr-export =
 certmgr-delete =
     .label = Șterge…
     .accesskey = g
+certmgr-delete-builtin =
+    .label = Șterge sau anulează încrederea…
+    .accesskey = D
 certmgr-backup =
     .label = Salvează
     .accesskey = S
@@ -117,6 +120,7 @@ exception-mgr =
 exception-mgr-extra-button =
     .label = Confirmă excepția de la securitate
     .accesskey = C
+exception-mgr-supplemental-warning = Băncile autorizate, magazinele și alte site-uri publice nu îți vor cere să faci asta.
 exception-mgr-cert-location-url =
     .value = Adresă:
 exception-mgr-cert-location-download =
@@ -145,6 +149,8 @@ choose-p12-restore-file-dialog = Fișierul certificatului de importat
 ## Import certificate(s) file dialog
 
 file-browse-certificate-spec = Fișiere certificat
+import-ca-certs-prompt = Selectează fișierul care conține certificatul(ele) de AC pentru importare
+import-email-cert-prompt = Selectează fișierul care conține certificatul de e-mail al cuiva pentru importare
 
 ## For editing certificates trust
 
@@ -156,13 +162,19 @@ edit-trust-ca = Certificatul „{ $certName }” reprezintă o autoritate de cer
 
 delete-user-cert-title =
     .title = Șterge certificatele proprii
+delete-user-cert-confirm = Sigur vrei să ștergi aceste certificate?
+delete-user-cert-impact = Dacă ștergi unul dintre certificatele proprii, nu-l vei mai putea folosi pentru a te identifica.
 delete-ssl-cert-title =
     .title = Șterge excepțiile pentru certificatele serverelor
+delete-ssl-cert-confirm = Sigur vrei să ștergi aceste excepții ale serverelor?
 delete-ssl-cert-impact = Dacă ștergeți un certificat de server, restabiliți verificările de securitate obișnuite pentru acel server și necesită folosirea unui certificat valid.
 delete-ca-cert-title =
     .title = Șterge sau anulează încrederea certificatelor AC
+delete-ca-cert-confirm = Ai cerut ștergerea acestor certificate AC. Pentru certificatele incluse, toate încrederile acordate vor fi eliminate, lucru ce are același efect. Sigur vrei să ștergi sau să elimini încrederea?
+delete-ca-cert-impact = Dacă ștergi sau anulezi încrederea în certificatul autorității de certificare (AC), aplicația nu va mai considera de încredere certificatele emise de acea AC.
 delete-email-cert-title =
     .title = Șterge certificatele de e-mail
+delete-email-cert-confirm = Sigur vrei să ștergi certificatele de e-mail ale acestor persoane?
 delete-email-cert-impact = Dacă ștergeți un certificat de e-mail, nu veți mai putea trimite e-mailuri criptate acelor persoane.
 # Used for semi-uniquely representing a cert.
 #
@@ -200,11 +212,14 @@ cert-not-verified-cert-expired = Nu se poate verifica acest certificat deoarece 
 cert-not-verified-cert-not-trusted = Nu se poate verifica acest certificat deoarece nu este acreditat.
 cert-not-verified-issuer-not-trusted = Nu se poate verifica acest certificat deoarece emitentul nu este acreditat.
 cert-not-verified-issuer-unknown = Nu se poate verifica acest certificat deoarece emitentul nu e cunoscut.
+cert-not-verified-ca-invalid = Nu se poate verifica acest certificat deoarece certificatul pentru AC este nevalid.
 cert-not-verified_algorithm-disabled = Nu am putut verifica acest certificat pentru că a fost semnat utilizând un algoritm de semnare care a fost dezactivat pentru că algoritmul nu este securizat.
 cert-not-verified-unknown = Nu se poate verifica acest certificat din motive necunoscute.
 
 ## Add Security Exception dialog
 
+add-exception-branded-warning = Ești pe cale să schimbi modul în care { -brand-short-name } identifică acest site.
+add-exception-invalid-header = Acest site încearcă să se identifice cu informații nevalide.
 add-exception-domain-mismatch-short = Site greșit
 add-exception-domain-mismatch-long = Certificatul aparține unui alt site, ceea ce ar putea însemna că cineva încearcă să uzurpeze identitatea acestui site.
 add-exception-expired-short = Informații expirate
