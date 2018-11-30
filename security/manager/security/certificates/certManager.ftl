@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+certmgr-title =
+    .title = Վկայագրերի Կառավարիչ
 certmgr-tab-mine =
     .label = Ձեր Արտոնաթղթերը
 certmgr-tab-people =
@@ -10,12 +12,26 @@ certmgr-tab-servers =
     .label = Սերվերներ
 certmgr-tab-ca =
     .label = Հեղինակություններ
+certmgr-detail-general-tab-title =
+    .label = Գլխավորը
+    .accesskey = Գ
+certmgr-detail-pretty-print-tab-title =
+    .label = Մանրամասներ
+    .accesskey = Մ
+certmgr-pending-label =
+    .value = Հիմա ստուգվում է Վկայագիրը...
 certmgr-subject-info-label =
     .value = Տրված է՝.
 certmgr-issuer-info-label =
     .value = Թողարկող՝.
 certmgr-fingerprints-label =
     .value = Մատնահետքերը
+certmgr-cert-detail =
+    .title = Տեղեկություն վկայագրի մասին
+    .buttonlabelaccept = Փակել
+    .buttonaccesskeyaccept = Փ
+certmgr-cert-detail-cn =
+    .value = Ընդհանուր անունը (CN)
 certmgr-cert-detail-o =
     .value = Կազմակերպությունը (O)
 certmgr-cert-detail-ou =
@@ -24,13 +40,29 @@ certmgr-cert-detail-serialnumber =
     .value = Հերթ. Համարը
 certmgr-cert-detail-sha1-fingerprint =
     .value = SHA1 Մատնահետք
+certmgr-edit-ca-cert =
+    .title = Խմբագրել CA Վկայագրի վստահության դրույթները
+    .style = width: 48em;
 certmgr-edit-cert-edit-trust = Խմբագրել վստահության դրույթները
+certmgr-edit-cert-trust-ssl =
+    .label = Այս Վկայագիրը կարող է վեբ հանգույցներ նույնացնել:
+certmgr-edit-cert-trust-email =
+    .label = Այս Վկայագիրը կարող է էլ-փոստ օգտվ. նույնացնել:
+certmgr-delete-cert =
+    .title = Հեռացնել Վկայագիրը{ " " }
+    .style = width: 48em; height: 24em;
+certmgr-cert-name =
+    .label = Վկայագրի Անունը
+certmgr-cert-server =
+    .label = Սպասարկիչ
 certmgr-override-lifetime =
     .label = Տևողություն
 certmgr-token-name =
     .label = Անվտանգության Սարք
 certmgr-begins-value =
     .value = { certmgr-begins-label.label }
+certmgr-expires-label =
+    .label = Ժամկետը ավարտվում է՝
 certmgr-expires-value =
     .value = { certmgr-expires-label.label }
 certmgr-email =
@@ -43,15 +75,33 @@ certmgr-view =
 certmgr-edit =
     .label = Խմբագրել վստահությունը
     .accesskey = Խ
+certmgr-export =
+    .label = Արտահանել...
+    .accesskey = Ա
 certmgr-delete =
     .label = Ջնջում...
     .accesskey = Ջ
 certmgr-delete-builtin =
     .label = Ջնջել կամ Չվստահել
     .accesskey = Ջ
+certmgr-backup =
+    .label = Պահուստացում...
+    .accesskey = Պ
 certmgr-backup-all =
     .label = Վերականգնում Ամենը...
     .accesskey = Վ
+certmgr-restore =
+    .label = Ներմուծել…
+    .accesskey = ե
+certmgr-details =
+    .value = Վկայագրի դաշտերը
+    .accesskey = դ
+certmgr-fields =
+    .value = Դաշտի արժեքը
+    .accesskey = ա
+certmgr-add-exception =
+    .label = Ավելացնել բացառություն...
+    .accesskey = բ
 exception-mgr =
     .title = Ավելացնել Անվտանգության Բացառություն
 exception-mgr-extra-button =
@@ -72,14 +122,18 @@ pkcs12-unknown-err-restore = PKCS#12 Ֆայլի վերականգնումը ան�
 pkcs12-unknown-err-backup = PKCS#12 Պահեստային Կրկնորինակի ստեղծումն անհայտ պատճառով խափանվեց:
 pkcs12-unknown-err = PKCS#12 գործառույթն անհայտ պատճառով խափանվեց:
 pkcs12-info-no-smartcard-backup = Անվտանգության սարքից, ինչպես օրինակ բանուկ քարտից, անհնար է ստեղծել արտոնաթղթերի պահեստային կրկնորինակ:
+pkcs12-dup-data = Վկայագիրն ու անձնական բանալին արդեն իսկ առկա են անվտանգության սարքի մեջ:
 
 ## PKCS#12 file dialogs
 
 choose-p12-backup-file-dialog = Պահեստային Կրկնօրինակի Ֆայլի Անունը
 file-browse-pkcs12-spec = PKSC12 Ֆայլեր
+choose-p12-restore-file-dialog = Ներմուծել Վկայագրի ֆայլը
 
 ## Import certificate(s) file dialog
 
+file-browse-certificate-spec = Վկայագրի Ֆայլեր
+import-ca-certs-prompt = Ընտրեք ԱՀ (CA) ներմուծվելիք Վկայագրերը պարունակող ֆայլը
 
 ## For editing certificates trust
 
@@ -89,18 +143,51 @@ file-browse-pkcs12-spec = PKSC12 Ֆայլեր
 delete-user-cert-title =
     .title = Հեռացնել Ձեր Արտոնագիրը
 delete-user-cert-impact = Եթե հեռացնեք Ձեր արտոնաթղթերից մեկը, ապա այլևս իվիճակի չէք լինի Ձեր ինքնությունը հաստատելու համար այն օգտագործել:
+delete-ssl-cert-title =
+    .title = Ջնջել սպասարկիչի Վկայագրի բացառությունները
+delete-ssl-cert-impact = Եթե դուք ջնջում եք սպասարկիչից բացառումը, դուք վերականգնում եք այդ սպասարկիչի համար սովորական անվտանգության ստուգումը և պահանջում օգտագործել վավեր Վկայագիր:
+delete-ca-cert-title =
+    .title = Ջնջում կամ Անվստահություն Վկայագրերի Կենտրոնի (CA) Վկայագրերին
+delete-ca-cert-confirm = Դուք պատրաստվում եք ջնջել այս CA վկայագրերը: Եթե տվյալ վկայագրերի ցանկում առկա են ներկառուցված վկայագրեր, ապա դրանք կհամարվեն անվստահելի: Ջնջե՞լ դրանք և հայտարարել անվստահելի:
+delete-ca-cert-impact = Եթե ջնջեք կամ չվստահեք Վկայագրման կենտրոնի (CA) Վկայագրին, ապա ծրագիրը այլևս չի վստահլի այս CA-ի Վկայագրերին:
 delete-email-cert-title =
     .title = Ջնջել Էլ-Փոստ արտոնագրերը
 
 ## Cert Viewer
 
+not-present =
+    .value = <Վկայագրի մաս չէ>
+# Cert verification
+cert-verified = Այս Վկայագիրը հավաստվել է հետևալ նշանակությունների համար.
+# Add usage
+verify-ssl-client =
+    .value = SSL Հաճախորդի Վկայագիրը
+verify-ssl-server =
+    .value = SSL Սպասարկիչի Վկայագիրը
+verify-ssl-ca =
+    .value = SSL Վկայագրման կենտրոնը
+verify-email-signer =
+    .value = Էլ. Փոստի Վկայագիրը
+verify-email-recip =
+    .value = Էլ. Փոստ հասցեատիրոջ Վկայագիրը
+# Cert verification
+cert-not-verified-cert-revoked = Անհնար է հավաստել Վկայագրին, քանզի այն վավերազրկված է:
+cert-not-verified-cert-expired = Անհնար է հավաստել Վկայագրին, քանզի այն ժամկետանց է:
+cert-not-verified-cert-not-trusted = Անհնար է հավաստել Վկայագրին, քանզի այն վստահելի չէ:
+cert-not-verified-issuer-not-trusted = Անհնար է հավաստել Վկայագրին, քանզի թողարկողը վստահելի չէ:
+cert-not-verified-issuer-unknown = Անհնար է հավաստել Վկայագրին, քանզի թողարկողն անհայտ է:
+cert-not-verified-ca-invalid = Անհնար է հավաստել Վկայագրին, քանզի ԱՀ (CA) արտոնագիրն անվավեր է:
+cert-not-verified_algorithm-disabled = Հնարավոր չէ ստուգել այս Վկայագիրը, քանի որ այն ստորագրվել է այնպիսի ալգորիթմով, որը անջատված է կամ անվտանգ չէ:
+cert-not-verified-unknown = Անհայտ պատճառներով անհնար էր հավաստել Վկայագիրը:
 
 ## Add Security Exception dialog
 
+add-exception-branded-warning = Դուք պատրաստվում եք ստիպողաբար փոխել ինքնությունը { -brand-short-name } կայքի համար:
 add-exception-invalid-header = Այս կայքը փորձում է նույնականացնել իրեն օգտագործելով սխալ տվյալներ:
 add-exception-domain-mismatch-short = Սխալ վեբ կայք
 add-exception-expired-short = Հնացած տվյալներ
 add-exception-unverified-or-bad-signature-short = Անհայտ ինքնություն
+add-exception-valid-short = Վավեր Վկայագիր
 add-exception-valid-long = Այս կայքը տրամադրում է ստուգված և վավեր նույնականացում: Կարիք չկա տրամադրել արտոնություն:
 add-exception-checking-short = Տվյալների ստուգում
 add-exception-no-cert-short = Չկա հասանելի տվյալ
