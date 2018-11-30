@@ -62,6 +62,7 @@ exception-mgr-cert-location-download =
     .label = Mendapatkan sijil
     .accesskey = G
 pkcs12-unknown-err-backup = Gagal mencipta fail sandaran PKCS #12 untuk sebab tidak diketahui.
+pkcs12-unknown-err = Operasi PKCS #12 gagal untuk tindak balas tidak diketahui.
 pkcs12-info-no-smartcard-backup = Adalah tidak mustahil untuk membuat sandaran sijil daripada perkakasan peranti sekuriti seperti kad pintar.
 pkcs12-dup-data = Sijil dan kunci peribadi sedia wujud pada peranti sekuriti.
 
