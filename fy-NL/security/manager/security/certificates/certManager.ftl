@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+certmgr-title =
+    .title = Sertifikatenbehearder
 certmgr-tab-mine =
     .label = Jo sertifikaten
 certmgr-tab-people =
@@ -10,6 +12,10 @@ certmgr-tab-servers =
     .label = Servers
 certmgr-tab-ca =
     .label = Organisaasjes
+certmgr-mine = Jo hawwe sertifikaten fan dizze organisaasjes, dy't jo identifisearje
+certmgr-people = Jo hawwe sertifikaten argivearre dy't dizze persoanen identifisearje
+certmgr-servers = Jo hawwe sertifikaten argivearre dy't dizze servers identifisearje
+certmgr-ca = Jo hawwe sertifikaten argivearre dy't dizze sertifikaatautoriteiten identifisearje
 certmgr-detail-general-tab-title =
     .label = Algemien
     .accesskey = A
@@ -22,8 +28,14 @@ certmgr-subject-info-label =
     .value = Utjûn oan
 certmgr-issuer-info-label =
     .value = Utjûn troch
+certmgr-period-of-validity-label =
+    .value = Perioade fan jildichheid
 certmgr-fingerprints-label =
     .value = Fingerôfdrukken
+certmgr-cert-detail =
+    .title = Detail fan sertifikaat
+    .buttonlabelaccept = Slute
+    .buttonaccesskeyaccept = S
 certmgr-cert-detail-cn =
     .value = Algemiene namme (CN)
 certmgr-cert-detail-o =
@@ -40,25 +52,66 @@ certmgr-edit-ca-cert =
     .title = CA-sertifikaat-fertrouwensynstellingen bewurkje
     .style = width: 48em;
 certmgr-edit-cert-edit-trust = Fertrouwensynstellingen bewurkje:
+certmgr-edit-cert-trust-ssl =
+    .label = Dit sertifikaat kin websites identifisearje.
 certmgr-edit-cert-trust-email =
     .label = Dit sertifikaat kin e-mailbrûkers identifisearje.
 certmgr-delete-cert =
     .title = Sertifikaat fuortsmite
     .style = width: 48em; height: 24em;
+certmgr-cert-name =
+    .label = Sertifikaatnamme
 certmgr-cert-server =
     .label = Server
 certmgr-override-lifetime =
     .label = Libbensdoer
+certmgr-token-name =
+    .label = Befeiligingsapparaat
+certmgr-begins-label =
+    .label = Start op
 certmgr-begins-value =
     .value = { certmgr-begins-label.label }
+certmgr-expires-label =
+    .label = Ferrint op
 certmgr-expires-value =
     .value = { certmgr-expires-label.label }
+certmgr-email =
+    .label = E-mailadres
+certmgr-serial =
+    .label = Searjenûmer
+certmgr-view =
+    .label = Werjaan…
+    .accesskey = W
+certmgr-edit =
+    .label = Fertrouwen bewurkje…
+    .accesskey = B
 certmgr-export =
     .label = Eksportearje…
     .accesskey = k
+certmgr-delete =
+    .label = Fuorsmite…
+    .accesskey = F
 certmgr-delete-builtin =
     .label = Fuorsmite of net fertrouwe…
     .accesskey = F
+certmgr-backup =
+    .label = Reservekopy meitsje…
+    .accesskey = R
+certmgr-backup-all =
+    .label = Reservekopy fan alles meitsje…
+    .accesskey = k
+certmgr-restore =
+    .label = Ymportearje…
+    .accesskey = Y
+certmgr-details =
+    .value = Sertifikaatfjilden
+    .accesskey = e
+certmgr-fields =
+    .value = Fjildwearde
+    .accesskey = w
+certmgr-hierarchy =
+    .value = Sertifikaathierargy
+    .accesskey = h
 certmgr-add-exception =
     .label = Utsûndering tafoegje…
     .accesskey = t
@@ -81,6 +134,7 @@ exception-mgr-permanent =
     .accesskey = p
 pk11-bad-password = It ynfierde wachtwurd is net korrekt.
 pkcs12-decode-err = It ûntsiferjen fan dit bestân is mislearre. It is net yn de PKCS #12-opmaak kodearre, is skansjearre, of it troch jo ynfierde wachtwurd is net korrekt.
+pkcs12-unknown-err-restore = It werom bringen fan it PKCS #12-bestân is om ûnbekende redenen mislearre.
 pkcs12-unknown-err-backup = It meitsjen fan in reservekopy fan it PKCS #12-bestân is om ûnbekende redenen mislearre.
 pkcs12-unknown-err = De PKCS #12-ferwurking is om ûnbekende redenen mislearre.
 pkcs12-info-no-smartcard-backup = It is net mooglik om in reservekopy te meitsjen fan sertifikaten die op in befeiligingsapparaat, lykas in smart card, stean.
@@ -113,6 +167,7 @@ delete-user-cert-impact = As jo ien fan jo eigen sertifikaten fuortsmite, kinne 
 delete-ssl-cert-title =
     .title = Server Sertifikaat Utsûnderingen fuortsmite
 delete-ssl-cert-confirm = Binne jo wis dat jo dizze serverútsûnderingen fuortsmite wolle?
+delete-ssl-cert-impact = As jo in serversertifikaatútsûndering fuortsmite, bringe jo de gebrûklike feilichheidskontrôles werom foar dizze website en is in falide sertifikaat nedich.
 delete-ca-cert-title =
     .title = CA-sertifikaten fuortsmite of net fertrouwe
 delete-ca-cert-confirm = Jo hawwe frege om dizze CA-sertifikaten fuort te smiten? Foar ynboude sertifikaten sil alle fertrouwen fuortsmiten wurde, wat itselde effekt hat. Binne jo wis dat jo fuortsmite of net fertroue wolle?
@@ -121,9 +176,21 @@ delete-email-cert-title =
     .title = E-mailsertifikaten fuortsmite
 delete-email-cert-confirm = Binne jo wis dat jo de e-mailsertifikaten fan dizze minsken fuortsmite wolle?
 delete-email-cert-impact = As jo in e-mailsertifikaat fan in persoan fuortsmite, kinne jo net langer fersifere e-mail nei dizze persoan ferstjoere.
+# Used for semi-uniquely representing a cert.
+#
+# Variables:
+#   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
+cert-with-serial =
+    .value = Sertifikaat mei searjenûmer: { $serialNumber }
 
 ## Cert Viewer
 
+# Title used for the Certificate Viewer.
+#
+# Variables:
+#   $certificate : a string representative of the certificate being viewed.
+cert-viewer-title =
+    .title = Sertifikaatwerjefte: ‘{ $certName }’
 not-present =
     .value = <Gjin ûnderdiel fan it sertifikaat>
 # Cert verification
@@ -152,12 +219,16 @@ cert-not-verified-unknown = Dit sertifikaat koe om ûnbekende redenen net ferifi
 ## Add Security Exception dialog
 
 add-exception-branded-warning = Jo steane op it punt om hoe't { -brand-short-name } dizze side identifisearet te oerskriuwen.
+add-exception-invalid-header = Dizze side probearret om himsels te identifisearjen mei foute ynformaasje
+add-exception-domain-mismatch-short = Foute website
 add-exception-domain-mismatch-long = It sertifikaat heart ta oan in oare website, wat betsjutte kin dat ien dizze website probearret nei te meitsjen.
 add-exception-expired-short = Alde Ynformaasje
 add-exception-expired-long = It sertifikaat is op dit stuit net jildich. It kin stellen wêze of fermist en kin troch ien brûkt wurde om dizze website nei te meitsjen.
 add-exception-unverified-or-bad-signature-short = Unbekende identiteit
 add-exception-unverified-or-bad-signature-long = It sertifikaat wurdt net fertroud, omdat it net ferifiearre en útjûn is troch in fertroude autoriteit fia in befeilige ûndertekening.
 add-exception-valid-short = Jildich sertifikaat
+add-exception-valid-long = Dizze website jout falide, ferifiearre identifikaasje.  It is net nedich om in útsûndering ta te foegjen.
+add-exception-checking-short = Kontrolearret ynformaasje
 add-exception-checking-long = Poging ta identifikaasje fan dizze website…
 add-exception-no-cert-short = Gjin ynformaasje beskikber
 add-exception-no-cert-long = Identifikaasjesteat fan dizze website is net te krijen.
