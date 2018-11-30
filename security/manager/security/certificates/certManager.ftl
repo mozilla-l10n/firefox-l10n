@@ -105,6 +105,9 @@ certmgr-details =
 certmgr-fields =
     .value = Valor del camp
     .accesskey = V
+certmgr-hierarchy =
+    .value = Jerarquia de certificats
+    .accesskey = J
 certmgr-add-exception =
     .label = Afegeix una excepció…
     .accesskey = x
@@ -125,6 +128,7 @@ exception-mgr-permanent =
 pk11-bad-password = La contrasenya no és correcta.
 pkcs12-decode-err = No s'ha pogut descodificar el fitxer. Pot ser que no estigui en format PKCS #12, que estigui malmès, o que la contrasenya que heu introduït sigui incorrecta.
 pkcs12-unknown-err-restore = No s'ha pogut restaurar el fitxer PKCS #12 per raons desconegudes.
+pkcs12-unknown-err-backup = No s'ha pogut crear el fitxer de còpia de seguretat PKCS #12 per raons desconegudes.
 pkcs12-unknown-err = L'operació PKCS #12 ha fallat per raons desconegudes.
 pkcs12-info-no-smartcard-backup = No és possible fer còpies de seguretat dels certificats des d'un dispositiu de seguretat de maquinari com ara una targeta intel·ligent.
 pkcs12-dup-data = El certificat i la clau privada ja són al dispositiu de seguretat.
@@ -139,9 +143,13 @@ choose-p12-restore-file-dialog = Fitxer de certificat per importar
 
 file-browse-certificate-spec = Fitxers certificat
 import-ca-certs-prompt = Seleccioneu el fitxer que conté els certificats de CA per importar
+import-email-cert-prompt = Seleccioneu el fitxer que conté el certificat de correu electrònic d'algú a importar
 
 ## For editing certificates trust
 
+# Variables:
+#   $certName: the name of certificate
+edit-trust-ca = El certificat «{ $certName }» representa una entitat certificadora.
 
 ## For Deleting Certificates
 
@@ -158,9 +166,23 @@ delete-ca-cert-title =
 delete-ca-cert-impact = Si suprimiu o deixeu de confiar en un certificat d'una entitat certificadora (CA), l'aplicació deixarà de confiar en els certificats que emeti aquella CA.
 delete-email-cert-title =
     .title = Suprimeix els certificats de correu electrònic
+delete-email-cert-confirm = Esteu segur que voleu suprimir aquests certificats de correu electrònic d'aquestes persones?
+delete-email-cert-impact = Si suprimiu un certificat de correu electrònic d'algú, ja no podreu enviar-li correu xifrat.
+# Used for semi-uniquely representing a cert.
+#
+# Variables:
+#   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
+cert-with-serial =
+    .value = Certificat amb número de sèrie: { $serialNumber }
 
 ## Cert Viewer
 
+# Title used for the Certificate Viewer.
+#
+# Variables:
+#   $certificate : a string representative of the certificate being viewed.
+cert-viewer-title =
+    .title = Visualitzador de certificats: «{ $certName }»
 not-present =
     .value = <No forma part del certificat>
 # Cert verification
@@ -191,9 +213,14 @@ cert-not-verified-unknown = No s'ha pogut comprovar el certificat per raons desc
 add-exception-branded-warning = Esteu a punt de sobreescriure com el { -brand-short-name } identifica aquest lloc.
 add-exception-invalid-header = Aquest lloc intenta identificar-se amb informació que no és vàlida.
 add-exception-domain-mismatch-short = Lloc web incorrecte
+add-exception-domain-mismatch-long = El certificat pertany a un altre lloc diferent; això pot voler dir que algú està intentant suplantar aquest lloc.
 add-exception-expired-short = Informació obsoleta
+add-exception-expired-long = El certificat actualment no és vàlid. Podria ser que l'hagin robat o s'hagi perdut i algú l'estigués utilitzant per suplantar aquest lloc.
 add-exception-unverified-or-bad-signature-short = Identitat desconeguda
+add-exception-unverified-or-bad-signature-long = No es confia en el certificat perquè no l'ha verificat una autoritat de confiança mitjançant una signatura segura.
 add-exception-valid-short = Certificat vàlid
 add-exception-valid-long = El lloc web proporciona identificació vàlida i verificada. No cal afegir cap excepció.
 add-exception-checking-short = Comprovació de la informació
+add-exception-checking-long = S'està intentant identificar aquest lloc web…
 add-exception-no-cert-short = No hi ha cap informació disponible
+add-exception-no-cert-long = No es pot obtenir l'estat d'identificació d'aquest lloc web.
