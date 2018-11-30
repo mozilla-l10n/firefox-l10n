@@ -20,6 +20,7 @@
 <!ENTITY font.accesskey                       "s">
 <!ENTITY size.label                           "Teɣzi:">
 <!ENTITY size.accesskey                       "T">
+<!ENTITY fontSize.label                       "Teɣzi:">
 <!ENTITY fontColor.label                      "Tiɣmi n uḍris:">
 <!ENTITY fontColor.accesskey                  "m">
 <!ENTITY bgColor.label                        "Tiɣmi n ugilal:">
