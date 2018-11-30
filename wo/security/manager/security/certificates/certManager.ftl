@@ -8,6 +8,8 @@ certmgr-detail-general-tab-title =
 certmgr-detail-pretty-print-tab-title =
     .label = Detaay yi
     .accesskey = D
+certmgr-token-name =
+    .label = Wër ndombo kaarange
 certmgr-begins-value =
     .value = { certmgr-begins-label.label }
 certmgr-expires-value =
@@ -15,6 +17,9 @@ certmgr-expires-value =
 certmgr-view =
     .label = Wone…
     .accesskey = W
+certmgr-delete =
+    .label = Màbb...
+    .accesskey = M
 certmgr-backup =
     .label = Aar…
     .accesskey = A
@@ -32,9 +37,23 @@ exception-mgr-cert-location-url =
 
 ## For Deleting Certificates
 
+delete-user-cert-title =
+    .title = Far say sarsifikaa
+delete-user-cert-confirm = Ndax bëgg dëgg far sasifikaa yii?
 
 ## Cert Viewer
 
+# Add usage
+verify-ssl-client =
+    .value = Sarsifika kiliyaŋ SSL
+verify-ssl-server =
+    .value = Sarsifika serwëër SSL
+verify-ssl-ca =
+    .value = Kelifa dëggal SSL
+verify-email-signer =
+    .value = Sarsifikaa xaatim bataaxal
+verify-email-recip =
+    .value = Sarsifikaa jot bataaxal
 
 ## Add Security Exception dialog
 
