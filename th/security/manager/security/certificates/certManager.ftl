@@ -49,6 +49,7 @@ verify-email-signer =
 cert-not-verified-issuer-not-trusted = ไม่สามารถพิสูจน์ใบรับรองที่ผู้ออกไม่น่าเชื่อถือได้
 cert-not-verified-issuer-unknown = ไม่สามารถพิสูจน์ใบรับรองที่ผู้ออกนิรนามได้
 cert-not-verified-ca-invalid = ไม่สามารถพิสูจน์ใบรับรองที่ CA ไม่ถูกต้องได้
+cert-not-verified_algorithm-disabled = ไม่สามารถพิสูจน์ใบรับรองนี้ เพราะถูกเซ็นรับโดยใช้อัลกอริทึมลายเซ็นที่ถูกปิดใช้งานเนื่องจากใช้อัลกอริทึมที่ไม่ปลอดภัย
 cert-not-verified-unknown = ไม่สามารถพิสูจน์ใบรับรองนี้โดยไม่ทราบสาเหตุ
 
 ## Add Security Exception dialog
