@@ -55,6 +55,8 @@ certmgr-cert-name =
     .label = Tên Chứng Thư
 certmgr-cert-server =
     .label = Máy chủ
+certmgr-override-lifetime =
+    .label = Chu kì
 certmgr-token-name =
     .label = Thiết bị Bảo mật
 certmgr-begins-value =
@@ -70,11 +72,17 @@ certmgr-serial =
 certmgr-view =
     .label = Xem…
     .accesskey = e
+certmgr-edit =
+    .label = Chỉnh sửa Sự tin tưởng…
+    .accesskey = C
 certmgr-export =
     .label = Xuất…
     .accesskey = u
 certmgr-delete =
     .label = Xóa…
+    .accesskey = X
+certmgr-delete-builtin =
+    .label = Xóa hoặc Không tin…
     .accesskey = X
 certmgr-backup =
     .label = Sao lưu…
@@ -96,6 +104,9 @@ certmgr-add-exception =
     .accesskey = T
 exception-mgr =
     .title = Thêm ngoại lệ Bảo mật
+exception-mgr-extra-button =
+    .label = Xác nhận Ngoại lệ Bảo mật
+    .accesskey = X
 exception-mgr-supplemental-warning = Ngân hàng, cửa hiệu và trang công cộng hợp pháp khác sẽ không yêu cầu bạn làm việc này.
 exception-mgr-cert-location-url =
     .value = Địa chỉ:
@@ -112,6 +123,7 @@ pkcs12-dup-data = Chứng chỉ và khóa cá nhân đã có sẵn trên thiết
 ## PKCS#12 file dialogs
 
 choose-p12-backup-file-dialog = Tên Tập Tin để Sao lưu
+choose-p12-restore-file-dialog = Tập tin Chứng thư cần Nhập
 
 ## Import certificate(s) file dialog
 
@@ -131,6 +143,9 @@ delete-ssl-cert-title =
     .title = Xóa các Ngoại lệ Chứng thư Máy chủ
 delete-ssl-cert-confirm = Bạn có chắc bạn muốn xóa các ngoại lệ máy chủ này?
 delete-ssl-cert-impact = Nếu bạn xóa một ngoại lệ máy chủ, bạn khôi phục việc kiểm tra bảo mật thông thường cho máy chủ đó và yêu cầu nó dùng một chứng thư hợp lệ.
+delete-ca-cert-title =
+    .title = Xóa hoặc Không tin Chứng thư CA
+delete-ca-cert-confirm = Bạn đã yêu cầu xóa các chứng thư CA này. Đối với chứng thư có sẵn, tất cả tin tưởng sẽ bị xóa, gây ra cùng hiệu ứng. Bạn có chắc bạn muốn xóa hoặc không tin tưởng?
 delete-email-cert-title =
     .title = Xóa các Chứng chỉ E-Mail
 
