@@ -54,3 +54,5 @@
 <!ENTITY  dnsOverHttpsUrlDefault.accesskey "o">
 <!ENTITY  dnsOverHttpsUrlDefault.tooltip   "Käytä oletusosoitetta DNS-kyselyjen selvittämiseen HTTPS:n välityksellä">
 <!ENTITY  dnsOverHttpsUrlCustom.label      "Oma">
+<!ENTITY  dnsOverHttpsUrlCustom.accesskey  "m">
+<!ENTITY  dnsOverHttpsUrlCustom.tooltip    "Syötä haluamasi verkko-osoite DNS-kyselyjen tekemiseen HTTPS:n avulla">
