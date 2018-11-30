@@ -24,6 +24,8 @@ certmgr-subject-info-label =
     .value = इसमें निर्गत
 certmgr-issuer-info-label =
     .value = इसके द्वारा निर्गत
+certmgr-period-of-validity-label =
+    .value = वैधता की अवधि
 certmgr-fingerprints-label =
     .value = फिंगरप्रिंट
 certmgr-cert-detail =
@@ -38,6 +40,8 @@ certmgr-cert-detail-ou =
     .value = सांगठनिक ईकाई (OU)
 certmgr-cert-detail-serialnumber =
     .value = क्रम संख्या
+certmgr-cert-detail-sha256-fingerprint =
+    .value = SHA-256 फिंगरप्रिंट
 certmgr-cert-detail-sha1-fingerprint =
     .value = SHA1 फिंगरप्रिंट
 certmgr-edit-ca-cert =
@@ -59,6 +63,8 @@ certmgr-override-lifetime =
     .label = जीवनपर्यंत
 certmgr-token-name =
     .label = सुरक्षा युक्ति
+certmgr-begins-label =
+    .label = इस समय आरंभ
 certmgr-begins-value =
     .value = { certmgr-begins-label.label }
 certmgr-expires-label =
@@ -99,6 +105,9 @@ certmgr-details =
 certmgr-fields =
     .value = क्षेत्र मान
     .accesskey = V
+certmgr-hierarchy =
+    .value = प्रमाणपत्र पदक्रम
+    .accesskey = एच
 certmgr-add-exception =
     .label = अपवाद जोड़ें…
     .accesskey = x
@@ -136,9 +145,14 @@ choose-p12-restore-file-dialog = Certificate File to Import
 ## Import certificate(s) file dialog
 
 file-browse-certificate-spec = प्रमाणपत्र फाइल
+import-ca-certs-prompt = आयात के लिये CA प्रमाणपत्र को शामिल करने वाली फाइल चुनें‌
+import-email-cert-prompt = आयात के लिये किसी ईमेल प्रमाणपत्र को शामिल करने वाली फाइल चुनें
 
 ## For editing certificates trust
 
+# Variables:
+#   $certName: the name of certificate
+edit-trust-ca = प्रमाणपत्र "{ $certName }" सर्टिफिकेट ऑथोरिटी को प्रतिरूपित करता है.
 
 ## For Deleting Certificates
 
@@ -156,9 +170,23 @@ delete-ca-cert-confirm = You have requested to delete these CA certificates. For
 delete-ca-cert-impact = If you delete or distrust a certificate authority (CA) certificate, this application will no longer trust any certificates issued by that CA.
 delete-email-cert-title =
     .title = ईमेल प्रमाणपत्र मिटाएँ
+delete-email-cert-confirm = क्या आप इन लोगों के ईमेल प्रमाणपत्र को मिटाने के लिये निश्चित हैं?
+delete-email-cert-impact = अगर आप किसी व्यक्ति का ईमेल प्रमाणपत्र मिटाते हैं, आपका उन लोगों को गोपित ईमेल भेजने के लिये लायक नहीं रह जायेगा.
+# Used for semi-uniquely representing a cert.
+#
+# Variables:
+#   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
+cert-with-serial =
+    .value = सीरियल नंबर के साथ प्रमाण पत्र: { $serialNumber }
 
 ## Cert Viewer
 
+# Title used for the Certificate Viewer.
+#
+# Variables:
+#   $certificate : a string representative of the certificate being viewed.
+cert-viewer-title =
+    .title = प्रमाणपत्र प्रदर्शक: “{ $certName }”
 not-present =
     .value = <प्रमाणपत्र का हिस्सा नहीं>
 # Cert verification
@@ -189,9 +217,14 @@ cert-not-verified-unknown = इस प्रमाणपत्र को नह�
 add-exception-branded-warning = यह साइट कैसे { -brand-short-name } को पहचानता है आप उसको बदलने जा रहे हैं.
 add-exception-invalid-header = यह साइट स्वयं को अवैध सूचना के साथ पहचानने का प्रयास करता है.
 add-exception-domain-mismatch-short = गलत साइट
+add-exception-domain-mismatch-long = प्रमाणपत्र किसी भिन्न साइट का अवयव है, जिसका अर्थ हो सकता है कि कोई इस साइट की पहचान चोरी कर रहा है.
 add-exception-expired-short = पुरानी सूचना
+add-exception-expired-long = प्रमाणपत्र अभी वैध नहीं है. यह चोरी या गुम हो गया और किसी के द्वारा प्रयोग किया जा सकता है जो इस साइट की सूचना पहचान चोरी कर रहा है.
 add-exception-unverified-or-bad-signature-short = अज्ञात पहचान
+add-exception-unverified-or-bad-signature-long = प्रमाणपत्र भरोसेमंद नहीं है, क्योंकि किसी परिचित प्राधिकार के द्वारा सुरक्षित हस्ताक्षर से पहचाना नहीं गया है.
 add-exception-valid-short = वैध प्रमाणपत्र
 add-exception-valid-long = यह साइट वैध, जांचा गया पहचान देती है.  किसी अपवाद को जोड़ने की जरूरत नहीं है.
 add-exception-checking-short = सूचना जाँच रहा है
+add-exception-checking-long = इस साइट को पहचानने का प्रयास कर रहें है…
 add-exception-no-cert-short = कोई सूचना उपलब्ध नहीं
+add-exception-no-cert-long = साइट के लिए पहचान स्थिति पाने में असमर्थ हैं.
