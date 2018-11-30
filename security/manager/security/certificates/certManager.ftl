@@ -135,6 +135,7 @@ pkcs12-unknown-err-restore = Falha ao restaurar o arquivo PKCS #12 por motivos d
 pkcs12-unknown-err-backup = Falha ao criar o arquivo de backup PKCS #12 por motivos desconhecidos.
 pkcs12-unknown-err = Falha na operação PKCS #12 por motivos desconhecidos.
 pkcs12-info-no-smartcard-backup = Não é possível efetuar backup de certificados de dispositivo de segurança em hardware (como um smart card).
+pkcs12-dup-data = O certificado e a chave privada já existem no dispositivo de segurança.
 
 ## PKCS#12 file dialogs
 
