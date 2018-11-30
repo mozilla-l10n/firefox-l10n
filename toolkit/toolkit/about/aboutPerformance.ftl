@@ -10,6 +10,7 @@ about-performance-title = Zrjadowak nadawkow
 column-name = Mjeno
 column-type = Typ
 column-energy-impact = Energijowa ćeža
+column-memory = Skład
 
 ## Special values for the Name column
 
@@ -37,6 +38,15 @@ type-other = Druhe
 energy-impact-high = Wysoki ({ $value })
 energy-impact-medium = Srjedźny ({ $value })
 energy-impact-low = Niski ({ $value })
+
+## Values for the Memory column
+##
+## Variables:
+##   $value (Number) - How much memory is used
+
+size-KB = { $value } KB
+size-MB = { $value } MB
+size-GB = { $value } GB
 
 ## Tooltips for the action buttons
 
