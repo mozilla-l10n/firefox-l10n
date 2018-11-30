@@ -120,6 +120,7 @@ exception-mgr-permanent =
     .label = Lưu trữ ngoại lệ này vĩnh viễn
     .accesskey = L
 pk11-bad-password = Mật khẩu nhập vào không đúng.
+pkcs12-decode-err = Không giải mã tập tin được.  Do nó không ở định dạng PKCS #12, bị hỏng, hoặc mật khẩu đã nhập sai.
 pkcs12-unknown-err-restore = Thất bại trong khi khôi phục tập tin PKCS #12 vì những lí do chưa rõ ràng.
 pkcs12-unknown-err-backup = Thất bại trong khi tạo tập tin sao lưu PKCS #12 vì những lí do chưa rõ ràng.
 pkcs12-unknown-err = Thao tác với PKCS #12 thất bại nhưng không rõ lí do.
@@ -129,15 +130,20 @@ pkcs12-dup-data = Chứng chỉ và khóa cá nhân đã có sẵn trên thiết
 ## PKCS#12 file dialogs
 
 choose-p12-backup-file-dialog = Tên Tập Tin để Sao lưu
+file-browse-pkcs12-spec = Tập tin PKCS12
 choose-p12-restore-file-dialog = Tập tin Chứng thư cần Nhập
 
 ## Import certificate(s) file dialog
 
 file-browse-certificate-spec = Các tập tin Chứng thư
 import-ca-certs-prompt = Chọn Tập Tin chứa (các) chứng thư của CA để nhập
+import-email-cert-prompt = Chọn Tập Tin chứa chứng thư Email của ai đó để nhập
 
 ## For editing certificates trust
 
+# Variables:
+#   $certName: the name of certificate
+edit-trust-ca = Chứng thư "{ $certName }" đại diện cho một Nhà thẩm định Chứng chỉ.
 
 ## For Deleting Certificates
 
@@ -152,8 +158,11 @@ delete-ssl-cert-impact = Nếu bạn xóa một ngoại lệ máy chủ, bạn k
 delete-ca-cert-title =
     .title = Xóa hoặc Không tin Chứng thư CA
 delete-ca-cert-confirm = Bạn đã yêu cầu xóa các chứng thư CA này. Đối với chứng thư có sẵn, tất cả tin tưởng sẽ bị xóa, gây ra cùng hiệu ứng. Bạn có chắc bạn muốn xóa hoặc không tin tưởng?
+delete-ca-cert-impact = Nếu bạn xóa hoặc không tin tưởng một chứng thư của nhà thẩm định chứng thư (CA), ứng dụng này sẽ không còn tin bất kì chứng thư nào được cấp phát bởi CA đó.
 delete-email-cert-title =
     .title = Xóa các Chứng chỉ E-Mail
+delete-email-cert-confirm = Bạn có muốn xóa các chứng chỉ email của những người này không?
+delete-email-cert-impact = Nếu bạn xóa chứng chỉ email của một người, bạn sẽ không thể gửi e-mail mật hóa tới người đó được nữa.
 
 ## Cert Viewer
 
@@ -189,6 +198,7 @@ add-exception-invalid-header = Trang này đang cố định danh chính nó b�
 add-exception-domain-mismatch-short = Sai Trang
 add-exception-expired-short = Thông tin Lỗi thời
 add-exception-unverified-or-bad-signature-short = Định danh chưa biết
+add-exception-unverified-or-bad-signature-long = Chứng thư không đáng tin vì không được chứng thực bằng chữ kí bảo mật bởi một hãng đã biết.
 add-exception-valid-short = Chứng thư Hợp lệ
 add-exception-valid-long = Trang này cung cấp định danh hợp lệ, đã được xác minh. Không cần phải thêm ngoại lệ.
 add-exception-checking-short = Đang kiểm tra Thông tin
