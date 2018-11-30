@@ -146,9 +146,13 @@ choose-p12-restore-file-dialog = Sertifikatfil som skal importeres
 
 file-browse-certificate-spec = Sertifikatfiler
 import-ca-certs-prompt = Velg fil som inneholder CA-sertifikatene du vil importere
+import-email-cert-prompt = Velg fil som inneholder e-postsertifikatet du vil importere
 
 ## For editing certificates trust
 
+# Variables:
+#   $certName: the name of certificate
+edit-trust-ca = Sertifikatet «{ $certName }» representerer en sertifikatutsteder.
 
 ## For Deleting Certificates
 
@@ -166,9 +170,23 @@ delete-ca-cert-confirm = Du har forespurt å slette disse CA-sertifikatene. For 
 delete-ca-cert-impact = Dersom du sletter eller fjerner tiltro til en sertifikatutsteder (CA) vil dette programmet ikke lenger stole på noen sertifikater som ble utstedt av den CA-en.
 delete-email-cert-title =
     .title = Slett e-postsertifikater
+delete-email-cert-confirm = Er du sikker på at du vil slette disse personenes e-postsertifikater?
+delete-email-cert-impact = Dersom du sletter en person sitt e-postsertifikat vil du ikke lenger kunne sende kryptert e-post til den personen.
+# Used for semi-uniquely representing a cert.
+#
+# Variables:
+#   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
+cert-with-serial =
+    .value = Sertifikat med serienummer: { $serialNumber }
 
 ## Cert Viewer
 
+# Title used for the Certificate Viewer.
+#
+# Variables:
+#   $certificate : a string representative of the certificate being viewed.
+cert-viewer-title =
+    .title = Sertifikatviser: “{ $certName }”
 not-present =
     .value = <Ikke en del av sertifikatet>
 # Cert verification
@@ -203,6 +221,7 @@ add-exception-domain-mismatch-long = Sertifikatet tilhører et annet nettsted, s
 add-exception-expired-short = Utdatert informasjon
 add-exception-expired-long = Sertifikatet er ikke gyldig nå. Sertifikatet kan ha blitt stjålet eller tapt, og det kan være at noen bruker det til å etterligne dette nettstedet.
 add-exception-unverified-or-bad-signature-short = Ukjent identitet
+add-exception-unverified-or-bad-signature-long = Sertifikatet er ikke tiltrodd fordi det ikke er bekreftet at sertifikatet er utstedt av en kjent utsteder med en trygg signatur.
 add-exception-valid-short = Gyldig sertifikat
 add-exception-valid-long = Dette nettstedet har en gyldig, bekreftet identitet.  Det er ikke nødvendig å legge til et unntak.
 add-exception-checking-short = Kontrollerer informasjon
