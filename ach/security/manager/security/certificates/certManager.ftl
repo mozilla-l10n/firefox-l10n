@@ -145,6 +145,7 @@ delete-ssl-cert-confirm = I moko ada ni imito kwanyo woko lapok tic magi?
 delete-ssl-cert-impact = Ka i kwanyo lapok tic, dong roto gwoko kuc calo kare weng pi lapok tic ki i mito tiyo ki waraga ma tiyo.
 delete-ca-cert-title =
     .title = Kwany onyo Pe i gen Waraga me CA
+delete-ca-cert-confirm = I lego woko waraga me CA man. Pi waraga gen weng bi kwanye woko, ma tye ki gin matime. I moko ada ni imito kwanyo onyo pe i geno?
 delete-email-cert-title =
     .title = Kwany Waraga me E-Mail
 
@@ -165,6 +166,8 @@ verify-email-signer =
     .value = Cwal Email pa Waraga me Laket capa cing
 verify-email-recip =
     .value = Cwal Waraga pa Lagam Email
+# Cert verification
+cert-not-verified-cert-revoked = Pe i romo moko waraga man pien kiloyo woko.
 cert-not-verified-cert-expired = Pe i romo moko waraga man pien kare ne otum.
 cert-not-verified-cert-not-trusted = Pe i romo moko waraga man pien pe gene.
 cert-not-verified-issuer-not-trusted = Pe i romo moko waraga man pien lami ne pe gene.
@@ -178,6 +181,7 @@ add-exception-branded-warning = I cok ki leyo kit { -brand-short-name } nyutu di
 add-exception-invalid-header = Di bar man temo nyute kene kwede ngec mape tiyo.
 add-exception-domain-mismatch-short = Di bar Marac
 add-exception-expired-short = Ngec ma Kare ne okato
+add-exception-unverified-or-bad-signature-short = Tikitiki Mape ngene
 add-exception-valid-short = Waraga ma tiyo
 add-exception-valid-long = Di bar man poko matiyo, nyut ma gimoko.  Weko dong pe mite me ameda.
 add-exception-checking-short = Tye ka roto Ngec
