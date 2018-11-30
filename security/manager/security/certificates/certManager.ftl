@@ -24,6 +24,8 @@ certmgr-subject-info-label =
     .value = Air fhoillseachadh do
 certmgr-issuer-info-label =
     .value = Air fhoillseachadh le
+certmgr-period-of-validity-label =
+    .value = Dè cho fad 's a bhios e dligheach
 certmgr-fingerprints-label =
     .value = Lorgan-meur
 certmgr-cert-detail =
@@ -38,6 +40,8 @@ certmgr-cert-detail-ou =
     .value = Aonad na buidhne (Organisational Unit, OU)
 certmgr-cert-detail-serialnumber =
     .value = Àireamh shreathach
+certmgr-cert-detail-sha256-fingerprint =
+    .value = Lorg-meur SHA-256
 certmgr-cert-detail-sha1-fingerprint =
     .value = Lorg-meur SHA1
 certmgr-edit-ca-cert =
@@ -59,6 +63,8 @@ certmgr-override-lifetime =
     .label = Saoghal
 certmgr-token-name =
     .label = Uidheam tèarainteachd
+certmgr-begins-label =
+    .label = Tòisichidh e
 certmgr-begins-value =
     .value = { certmgr-begins-label.label }
 certmgr-expires-label =
@@ -99,6 +105,9 @@ certmgr-details =
 certmgr-fields =
     .value = Luach raoin
     .accesskey = L
+certmgr-hierarchy =
+    .value = Rangachd an teisteanais
+    .accesskey = H
 certmgr-add-exception =
     .label = Cuir eisgeachd ris…
     .accesskey = C
@@ -137,9 +146,13 @@ choose-p12-restore-file-dialog = Faidhle teisteanais a tha ri ion-phortadh
 
 file-browse-certificate-spec = Faidhlichean teisteanais
 import-ca-certs-prompt = Tagh faidhle anns a bheil teisteanas(an) o ùghdarras teisteanachaidh ri ion-phortadh
+import-email-cert-prompt = Tagh faidhle anns a bheil teisteanas puist-dhealain a tha ri ion-phortadh
 
 ## For editing certificates trust
 
+# Variables:
+#   $certName: the name of certificate
+edit-trust-ca = Tha an teisteanas "{ $certName }" a' riochdachadh ùghdarras teisteanachaidh.
 
 ## For Deleting Certificates
 
@@ -157,9 +170,23 @@ delete-ca-cert-confirm = Dh'iarr thu gun sguabar às teisteanasan nan ùghdarras
 delete-ca-cert-impact = Ma sguabas tu às teisteanas de dh'ùghdarras teisteanachaidh no ma bheir thu air falbh earbsa, cha chuir an aplacaid seo earbsa ann an teisteanasan tuilleadh a thig on ùghdarras teisteanachaidh seo.
 delete-email-cert-title =
     .title = Sguab às teisteanasan a' phuist-dhealain
+delete-email-cert-confirm = A bheil thu cinnteach gu bheil thu airson teisteanasan post-dealain nan daoine seo a sguabadh às?
+delete-email-cert-impact = Ma sguabas tu às teisteanas post-dealain duine, chan urrainn dhut post-dealain air a chrioptachadh a chur gun duine sin tuilleadh.
+# Used for semi-uniquely representing a cert.
+#
+# Variables:
+#   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
+cert-with-serial =
+    .value = Teisteanas leis an àireamh shreathach: { $serialNumber }
 
 ## Cert Viewer
 
+# Title used for the Certificate Viewer.
+#
+# Variables:
+#   $certificate : a string representative of the certificate being viewed.
+cert-viewer-title =
+    .title = Sealladair teisteanais: “{ $certName }”
 not-present =
     .value = <Chan eil e 'na phàirt dhen teisteanas>
 # Cert verification
@@ -190,9 +217,14 @@ cert-not-verified-unknown = Cha do ghabh an teisteanas seo a dhearbhadh ach chan
 add-exception-branded-warning = Tha thu an impis am modh a chur gu neoini air a làimhsicheas { -brand-short-name } an làrach seo.
 add-exception-invalid-header = Tha an làrach a' feuchainn ri fiosrachadh mì-dhligheach a chleachdadh gus aithne a thoirt air fhèin.
 add-exception-domain-mismatch-short = Làrach mhì-cheart
+add-exception-domain-mismatch-long = 'S ann do làrach eile a tha an teisteanas seo agus dh'fhaoidte gu bheil an làrach seo fhèin airson leigeil air gur e an làrach eile a tha ann.
 add-exception-expired-short = Fiosrachadh ro aosta
+add-exception-expired-long = Chan eil an teisteanas seo dligheach aig an àm seo. Dh'fhaoidte gun deach a ghoid no air chall 's gu bheil cuideigin 'ga chleachdadh gus leigeil orra gur iad-san an làrach cheart.
 add-exception-unverified-or-bad-signature-short = Dearbh-aithne neo-aithnichte
+add-exception-unverified-or-bad-signature-long = Chan eil earbsa san teisteanas a chionn 's nach deach a dhearbhadh le ùghdarras earbsach le soidhneadh tèarainte.
 add-exception-valid-short = Teisteanas dligheach
 add-exception-valid-long = Tha an làrach a' solar dearbh-aithne dhligheach is dhearbhaichte.  Chan eil feum air eisgeachd a chur ris.
 add-exception-checking-short = A' sgrùdadh an fhiosrachaidh
+add-exception-checking-long = A' feuchainn ris an làrach aithneachadh…
 add-exception-no-cert-short = Chan eil fiosrachadh ri fhaighinn
+add-exception-no-cert-long = Cha ghabh inbhe na dearbh-aithne fhaighinn airson na làraich a chaidh a shònrachadh.
