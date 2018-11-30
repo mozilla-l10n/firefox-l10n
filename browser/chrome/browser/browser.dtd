@@ -306,6 +306,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Webbläsaren är fjärrstyrd">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Öppna panel för webbautentisiering">
 
+<!ENTITY urlbar.storageAccessAnchor.tooltip               "Öppna behörighetspanelen för surfaktivitet">
+
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Hantera delning av din kamera och/eller mikrofon med webbplatsen">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Hantera delning av din mikrofon med webbplatsen">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Hantera delning av dina fönster eller skärm med webbplatsen">
