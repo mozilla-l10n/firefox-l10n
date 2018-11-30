@@ -12,6 +12,10 @@ certmgr-tab-servers =
     .label = Servidores
 certmgr-tab-ca =
     .label = Autoridades
+certmgr-mine = Tiene certificados de estas organizaciones que le identifican
+certmgr-people = Tiene certificados guardados que identifican estas personas
+certmgr-servers = Tiene certificados guardados que identifican estos servidores
+certmgr-ca = Tiene certificados guardados que identifican estas autoridades de certificación
 certmgr-detail-general-tab-title =
     .label = General
     .accesskey = G
@@ -24,6 +28,8 @@ certmgr-subject-info-label =
     .value = Emitido para
 certmgr-issuer-info-label =
     .value = Emitido por
+certmgr-period-of-validity-label =
+    .value = Periodo de validez
 certmgr-fingerprints-label =
     .value = Huellas digitales
 certmgr-cert-detail =
@@ -38,6 +44,8 @@ certmgr-cert-detail-ou =
     .value = Unidad organizativa (OU)
 certmgr-cert-detail-serialnumber =
     .value = Número de serie
+certmgr-cert-detail-sha256-fingerprint =
+    .value = Huella digital SHA-256
 certmgr-cert-detail-sha1-fingerprint =
     .value = Huella digital SHA1
 certmgr-edit-ca-cert =
@@ -59,8 +67,12 @@ certmgr-override-lifetime =
     .label = Vida útil
 certmgr-token-name =
     .label = Dispositivo de seguridad
+certmgr-begins-label =
+    .label = Comienza el
 certmgr-begins-value =
     .value = { certmgr-begins-label.label }
+certmgr-expires-label =
+    .label = Caduca el
 certmgr-expires-value =
     .value = { certmgr-expires-label.label }
 certmgr-email =
@@ -70,12 +82,18 @@ certmgr-serial =
 certmgr-view =
     .label = Ver…
     .accesskey = V
+certmgr-edit =
+    .label = Editar confianza…
+    .accesskey = E
 certmgr-export =
     .label = Exportar…
     .accesskey = x
 certmgr-delete =
     .label = Eliminar…
     .accesskey = r
+certmgr-delete-builtin =
+    .label = Eliminar o dejar de confiar…
+    .accesskey = n
 certmgr-backup =
     .label = Hacer copia…
     .accesskey = H
@@ -91,11 +109,17 @@ certmgr-details =
 certmgr-fields =
     .value = Valor del campo
     .accesskey = V
+certmgr-hierarchy =
+    .value = Jerarquía de certificados
+    .accesskey = J
 certmgr-add-exception =
     .label = Añadir excepción…
     .accesskey = x
 exception-mgr =
     .title = Añadir excepción de seguridad
+exception-mgr-extra-button =
+    .label = Confirmar excepción de seguridad
+    .accesskey = C
 exception-mgr-supplemental-warning = Los bancos, tiendas y otros sitios públicos legítimos no le pedirán hacer esto.
 exception-mgr-cert-location-url =
     .value = Dirección:
@@ -113,6 +137,7 @@ exception-mgr-permanent =
 
 choose-p12-backup-file-dialog = Nombre del archivo a salvaguardar
 file-browse-pkcs12-spec = Archivos PKCS12
+choose-p12-restore-file-dialog = Archivo de certificado para importar
 
 ## Import certificate(s) file dialog
 
@@ -122,31 +147,55 @@ import-email-cert-prompt = Seleccione el archivo que contiene el certificado de 
 
 ## For editing certificates trust
 
+# Variables:
+#   $certName: the name of certificate
+edit-trust-ca = El certificado “{ $certName }” representa a una autoridad certificadora.
 
 ## For Deleting Certificates
 
 delete-user-cert-title =
     .title = Eliminar sus certificados
+delete-user-cert-confirm = ¿Seguro que quiere eliminar estos certificados?
 delete-user-cert-impact = Si elimina uno de sus propios certificados, no podrá utilizarlo para identificarse a sí mismo.
 delete-ssl-cert-title =
     .title = Eliminar excepciones de certificados de servidor
+delete-ssl-cert-confirm = ¿Seguro que quiere eliminar estas excepciones de servidor?
 delete-ssl-cert-impact = Si elimina una excepción de servidor, restaurará los controles de seguridad habituales para ese servidor y se requerirá que use un certificado válido.
+delete-ca-cert-title =
+    .title = Eliminar o dejar de confiar certificados CA
+delete-ca-cert-confirm = Ha solicitado eliminar estos certificados de CA. En el caso de los incluidos de serie, en lugar de borrarlos se les retira la confianza, lo que tiene el mismo efecto. ¿Seguro que quiere hacer esto?
+delete-ca-cert-impact = Si elimina, o deja de confiar en, un certificado de autoridad certificadora (CA), esta aplicación dejará de confiar en cualquier certificado emitido por esta CA.
 delete-email-cert-title =
     .title = Eliminar certificados de correo electrónico
+delete-email-cert-confirm = ¿Seguro que quiere eliminar los certificados de correo electrónico de estas personas?
 delete-email-cert-impact = Si borra el certificado de correo electrónico de una persona, ya no podrá enviar mensajes cifrados a esa persona.
+# Used for semi-uniquely representing a cert.
+#
+# Variables:
+#   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
+cert-with-serial =
+    .value = Certificado con número de serie: { $serialNumber }
 
 ## Cert Viewer
 
+# Title used for the Certificate Viewer.
+#
+# Variables:
+#   $certificate : a string representative of the certificate being viewed.
+cert-viewer-title =
+    .title = Visor de certificados: "{ $certName }"
 not-present =
     .value = <No es parte de un certificado>
 # Cert verification
 cert-verified = Este certificado ha sido verificado para los siguientes usos:
 # Cert verification
 cert-not-verified-cert-revoked = No se pudo verificar este certificado porque ha sido revocado.
+cert-not-verified-cert-expired = No se pudo verificar este certificado porque ha caducado.
 cert-not-verified-cert-not-trusted = No se pudo verificar este certificado porque no se confía en él.
 cert-not-verified-issuer-not-trusted = No se pudo verificar este certificado porque no se confía en el emisor.
 cert-not-verified-issuer-unknown = No se pudo verificar este certificado porque el emisor es desconocido.
 cert-not-verified-ca-invalid = No se pudo verificar este certificado porque el certificado de la CA no es válido.
+cert-not-verified_algorithm-disabled = No se ha podido verificar este certificado porque se ha firmado usando un algoritmo de firma que fue desactivado porque es inseguro.
 cert-not-verified-unknown = No se pudo verificar este certificado por razones desconocidas.
 
 ## Add Security Exception dialog
@@ -154,8 +203,14 @@ cert-not-verified-unknown = No se pudo verificar este certificado por razones de
 add-exception-branded-warning = Está a punto de alterar cómo identifica { -brand-short-name } este sitio.
 add-exception-invalid-header = Este sitio intenta identificarse a sí mismo con información no válida.
 add-exception-domain-mismatch-short = Sitio erróneo
+add-exception-domain-mismatch-long = El certificado pertenece a un sitio diferente, lo que podría significar que alquien está intentando hacer pasar por este sitio.
 add-exception-expired-short = Información obsoleta
+add-exception-expired-long = El certificado no es actualmente válido. Puede haber sido robado o perdido, y podría estar siendo usado por alquien para hacerse pasar por este sitio.
+add-exception-unverified-or-bad-signature-short = Identidad desconocida
+add-exception-unverified-or-bad-signature-long = No se confía en el certificado porque no ha sido verificado como emitido por una autoridad confiable usando una firma segura.
 add-exception-valid-short = Certificado válido
 add-exception-valid-long = Este sitio proporciona identificación válida y verificada. No hay necesidad de añadir una excepción.
 add-exception-checking-short = Comprobando información
+add-exception-checking-long = Intentando identificar este sitio…
 add-exception-no-cert-short = No hay información disponible
+add-exception-no-cert-long = No es posible obtener el estado de identificación de este sitio.
