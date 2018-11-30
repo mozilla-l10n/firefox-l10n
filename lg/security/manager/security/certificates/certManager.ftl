@@ -137,9 +137,13 @@ choose-p12-restore-file-dialog = Fiyiro ya Satifiket eyo ku Leta
 
 file-browse-certificate-spec = Satifikati za Fayiro
 import-ca-certs-prompt = Kebera Fayiro erina Satifikati(s) ye CA ye walala
+import-email-cert-prompt = Kebera Fayiro erina imeyilu ya omu satifikati kumumwe ku jjaa ewalala
 
 ## For editing certificates trust
 
+# Variables:
+#   $certName: the name of certificate
+edit-trust-ca = Santifikati "{ $certName }" ye mubakka wo bunyiza bwa Santifikati.
 
 ## For Deleting Certificates
 
@@ -157,6 +161,8 @@ delete-ca-cert-confirm = Osabye okujjawo zino satifiketi eza CA. Ku satifiketi e
 delete-ca-cert-impact = Bwono sangula oba okujjawo afulumya satifiketi, plogulamu eno tejjakudamu kwesiga satifiketi yona gyefulumiza.
 delete-email-cert-title =
     .title = Sangula Satifikati ya i-mayilu
+delete-email-cert-confirm = Okakasa oyagala ku sangula santifikati i-mayilu za bantu bano?
+delete-email-cert-impact = Bwosangula satifikati ya i-mayilu yo muntu, ojjakuba to kyasindika i-mayilu ekyakalanyi ku muntu oyo.
 
 ## Cert Viewer
 
@@ -191,6 +197,7 @@ add-exception-invalid-header = Omuko nguno gungezawo kutegeza gweka mu amawulire
 add-exception-domain-mismatch-short = Omuko Omufuu
 add-exception-expired-short = Amawulire agamazee ambaga
 add-exception-unverified-or-bad-signature-short = Nnakkalazzi Ettategerekwa
+add-exception-unverified-or-bad-signature-long = Satifikati tetujjesiga, kubanga tekebereddwa owobuyinza amanyiddwa nga akozesa omukono omukusifu.
 add-exception-valid-short = Satifikati efuu
 add-exception-valid-long = Omuko nguno nguwereza nnakkalazzi endamu, ekirizirwa.  Tewetagisa ku ggataa ebijjako.
 add-exception-checking-short = Okusabbaza amawulire
