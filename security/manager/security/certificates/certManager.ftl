@@ -118,7 +118,9 @@ exception-mgr-permanent =
     .accesskey = Μ
 pk11-bad-password = Ο κωδικός που εισάγατε ήταν εσφαλμένος.
 pkcs12-decode-err = Αποτυχία αποκωδικοποίησης αρχείου. Είτε δεν είναι σε μορφή PKCS#12, είτε ο κωδικός που εισάγατε δεν είναι σωστός.
+pkcs12-unknown-err-restore = Αποτυχία ανάκτησης του αρχείου  PKCS#12 για άγνωστους λόγους
 pkcs12-unknown-err-backup = Αποτυχία δημιουργίας αντιγράφου ασφαλείας του αρχείου PKCS#12 για άγνωστους λόγους.
+pkcs12-unknown-err = Η λειτουργία PKCS #12  απέτυχε για άγνωστους λόγους.
 pkcs12-info-no-smartcard-backup = Δεν είναι δυνατή η αντιγραφή πιστοποιητικών από συσκευές ασφαλείας hardware όπως οι "έξυπνες κάρτες"
 pkcs12-dup-data = Το πιστοποιητικό και το ιδιωτικό κλειδί υπάρχουν ήδη στη συσκευή ασφάλειας.
 
@@ -161,6 +163,8 @@ cert-verified = Το παρόν πιστοποιητικό έχει επαληθ
 # Add usage
 verify-ssl-client =
     .value = Πιστοποιητικό πελάτη SSL
+verify-ssl-server =
+    .value = Πιστοποιητικό εξυπηρετητή SSL
 verify-ssl-ca =
     .value = Αρχή πιστοποιητικού SSL
 verify-email-signer =
