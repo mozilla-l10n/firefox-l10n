@@ -24,6 +24,8 @@ certmgr-subject-info-label =
     .value = Wallafi woo še
 certmgr-issuer-info-label =
     .value = Woo n'a wallafi
+certmgr-period-of-validity-label =
+    .value = Booriyan waati
 certmgr-fingerprints-label =
     .value = Kabežeerey
 certmgr-cert-detail =
@@ -38,6 +40,8 @@ certmgr-cert-detail-ou =
     .value = Goykonda izefoo (OU)
 certmgr-cert-detail-serialnumber =
     .value = Fannu lanba
+certmgr-cert-detail-sha256-fingerprint =
+    .value = SHA-256 kabežeeri
 certmgr-cert-detail-sha1-fingerprint =
     .value = SHA1 kabežeeri
 certmgr-edit-ca-cert =
@@ -59,6 +63,8 @@ certmgr-override-lifetime =
     .label = Hundimee
 certmgr-token-name =
     .label = Saajaw jinay
+certmgr-begins-label =
+    .label = Šintin hane
 certmgr-begins-value =
     .value = { certmgr-begins-label.label }
 certmgr-expires-label =
@@ -99,6 +105,9 @@ certmgr-details =
 certmgr-fields =
     .value = Faari alkadar
     .accesskey = a
+certmgr-hierarchy =
+    .value = Tabatiyan-tiira kanandi
+    .accesskey = H
 certmgr-add-exception =
     .label = Hasaraw tonton…
     .accesskey = H
@@ -124,6 +133,7 @@ pkcs12-decode-err = Tuku feerandiroo kay.  Adiši manti PKCS #12 takari no, a n'
 pkcs12-unknown-err-restore = Mana hin ka PKCS #12 tukoo bere nga taka jinaa ga. Boro ši daliloo bay.
 pkcs12-unknown-err-backup = Mana hin ka PKCS #12 tukoo banda-gaabu. Boro ši daliloo bay.
 pkcs12-unknown-err = PKCS #12 goyoo kay. Boro ši daliloo bay.
+pkcs12-info-no-smartcard-backup = Boro ši hin ka tabatiyan-tiirawey banda-gaabu saajaw jinay se, sanda katta cerma.
 pkcs12-dup-data = Tabatiyan-tiira and sutura kufal ga bara saajaw jinaa ga.
 
 ## PKCS#12 file dialogs
@@ -135,9 +145,14 @@ choose-p12-restore-file-dialog = Tabatiyan-tiira tuku cendi k'a dam
 ## Import certificate(s) file dialog
 
 file-browse-certificate-spec = Tabatiyan-tiira tukey
+import-ca-certs-prompt = Tukoo suuba kaŋ ra tabatiyan-tiira hinoo tabatiyan-tiiraa ga bara cendari se
+import-email-cert-prompt = Tukoo suuba kaŋ ra boro foo bataga tabatiyan-tiiraa ga bara cendari se
 
 ## For editing certificates trust
 
+# Variables:
+#   $certName: the name of certificate
+edit-trust-ca = "{ $certName }" tabatiyan-tiiraa ga kay tabatiyan-tiira foo dogoo ra.
 
 ## For Deleting Certificates
 
@@ -155,11 +170,27 @@ delete-ca-cert-confirm = War ceeci ka tabatiyan-tiira hini tiirawey wey tuusu. N
 delete-ca-cert-impact = Nda war na tabatiyan-tiira hini foo tabatiyan-tiiraa tuusu, porogaramoo woo ši naanay koyne tabatiyan-tiirawey kul kaŋ tabatiyan-tiira hinoo n'i kaataray.
 delete-email-cert-title =
     .title = Bataga tabatiyan-tiiraawey tuusu
+delete-email-cert-confirm = Alhakiika war ga baa ka borey wey bataga tabatiyan-tiirawey tuusu?
+delete-email-cert-impact = Nda war na boro foo bataga tabatiyan-tiiraa tuusu, war ši hin ka bataga tugante sanba boraa din še koyne.
+# Used for semi-uniquely representing a cert.
+#
+# Variables:
+#   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
+cert-with-serial =
+    .value = Tabatiyan-tiira nda fannu lanba: { $serialNumber }
 
 ## Cert Viewer
 
+# Title used for the Certificate Viewer.
+#
+# Variables:
+#   $certificate : a string representative of the certificate being viewed.
+cert-viewer-title =
+    .title = Tabatiyan-tiira gunakaw: “{ $certName }”
 not-present =
     .value = <Manti tabatiyan-tiiraa jere>
+# Cert verification
+cert-verified = Tabatiyan-tiiraa woo korosandi goyey wey se:
 # Add usage
 verify-ssl-client =
     .value = SSL daykaw tabatiyan-tiira
@@ -179,15 +210,21 @@ cert-not-verified-issuer-not-trusted = Mana hin ka tabatiyan-tiiraa woo koroši 
 cert-not-verified-issuer-unknown = Mana hin ka tabatiyan-tiiraa woo koroši zama kaataraykaa ši bayandi.
 cert-not-verified-ca-invalid = Mana hin ka tabatiyan-tiiraa woo koroši zama nga tabatiyan-tiira hini tabatiyan-tiiraa ši boori.
 cert-not-verified_algorithm-disabled = Mana hin ka tabatiyan-tiiraa woo zama a ma šilbandi nda kabu laasaabu kaŋ kayandi zama kabu laasaaboo manti saajante.
+cert-not-verified-unknown = Mana hin ka tabatiyan-tiiraa woo koroši dalil šibayante se.
 
 ## Add Security Exception dialog
 
 add-exception-branded-warning = War soobay ka takaa kaŋ nda { -brand-short-name } ga nungoo tammaasa daaru.
 add-exception-invalid-header = Nungoo woo ka ceeci ka nga boŋ tammaasa nda alhabar laala.
 add-exception-domain-mismatch-short = Nungu laala.
+add-exception-domain-mismatch-long = Nungu waani ma tabatiyan-tiiraa may, woo maanaa ga hin ka tee kaŋ boro tana foo goo ma ceeci ka nungoo woo ženti.
 add-exception-expired-short = Alhabar žeena
+add-exception-expired-long = Tabatiyan-tiiraa ši boori sohõda. A ga hima kaŋ an' ka zayandi wala dere, nda boro waani ka hin k'a ka nungoo woo ženti.
 add-exception-unverified-or-bad-signature-short = Boŋtammaasa šibayante
+add-exception-unverified-or-bad-signature-long = Tabatiyan-tiira manti naanante zama hini bayrante kul mana hin k'a koroši nda silbay saajante.
 add-exception-valid-short = Tabatiyan-tiira boryo
 add-exception-valid-long = Nungoo na boŋtammaasa boryo nda korosante noo.  A ši nda nafaw boro ma hasaraw tonton a ga.
 add-exception-checking-short = Goo m'alhabar guna
+add-exception-checking-long = Goo ma ceeci ka nungoo šilbay…
 add-exception-no-cert-short = Alhabar kul ši bara
+add-exception-no-cert-long = Mana hin ka duu boŋtammaasa assariya nungoo woo se.
