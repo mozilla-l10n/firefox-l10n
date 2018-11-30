@@ -21,6 +21,7 @@
 <!ENTITY size.label                           "Teɣzi:">
 <!ENTITY size.accesskey                       "T">
 <!ENTITY fontSize.label                       "Teɣzi:">
+<!ENTITY useReaderDefaults.label              "Seqdec initen imezwar n umeɣri">
 <!ENTITY fontColor.label                      "Tiɣmi n uḍris:">
 <!ENTITY fontColor.accesskey                  "m">
 <!ENTITY bgColor.label                        "Tiɣmi n ugilal:">

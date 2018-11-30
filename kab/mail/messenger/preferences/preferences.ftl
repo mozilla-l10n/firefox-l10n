@@ -8,3 +8,7 @@ manage-messenger-languages-button =
     .accesskey = F
 confirm-messenger-language-change-description = Ales tanekra n { -brand-short-name } akken ad ddun ibeddilen-a
 confirm-messenger-language-change-button = Snes sakin ales tanekra
+update-pref-write-failure-title = Tuccḍa deg tira
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = Ur yezmir ara ad yessekles ismenyifen.Ur yezmir ad yaru deg ufaylu: { $path }

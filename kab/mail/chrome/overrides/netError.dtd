@@ -102,4 +102,5 @@ functionality specific to thunderbird. -->
 
 <!ENTITY blockedByPolicy.title "Asebter iwaḥlen">
 
+<!ENTITY networkProtocolError.title "Tuccḍa deg uneggaf n uẓeṭṭa">
 <!ENTITY networkProtocolError.longDesc "<p>Asebter-agi i tebɣiḍ ad twaliḍ ur yizmir ara ad ittwasken, acku tella tuccḍa deg uneggaf n uẓeṭṭa.</p><ul><li>Ma ulac aɣilif nermes imawlan n usmel web ɣef ugur-agi.</li></ul>">

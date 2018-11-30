@@ -23,5 +23,7 @@
 <!ENTITY paneAdvanced.title       "Leqqayen">
 <!ENTITY paneAccount.title        "Imiḍanen">
 
+<!ENTITY addonsButton.label       "Isiɣzaf &amp; Isental">
+
 <!ENTITY okButton.title           "OK">
 <!ENTITY okButton.accesskey       "O">
