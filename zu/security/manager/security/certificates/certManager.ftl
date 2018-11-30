@@ -1,0 +1,66 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+certmgr-begins-value =
+    .value = { certmgr-begins-label.label }
+certmgr-expires-value =
+    .value = { certmgr-expires-label.label }
+pk11-bad-password = Igama lokungena elifakiwe bekungelona.
+pkcs12-decode-err = Ihlulekile ukususa ikhodi efayeleni.  Kuphakathi kokuthi ayakhekile ngendlela ye-PKCS #12, ingcolisiwe, noma igama lokungena olifakile bekungelona.
+pkcs12-unknown-err-restore = Ihlulekile ukubuyisela ifayela PKCS #12 ngenxa yezizathu ezingaziwa.
+pkcs12-unknown-err-backup = Ihlulekile ukwakha ikhophi yefayela PKCS #12 ngenxa yezizathu ezingaziwa.
+pkcs12-unknown-err = Ukusebenza kwe-PKCS #12 kuhlulekile ngenxa yezizathu ezingaziwa.
+pkcs12-info-no-smartcard-backup = Akwenzeki ukugcina amakhophi ezitifiketi avela entweni yokuvikela yohlaka oluyisisekelo njengesmati khadi.
+pkcs12-dup-data = Isitifiketi nenkinobho yangasese sekukhona kakade entweni yokuvikela.
+
+## PKCS#12 file dialogs
+
+choose-p12-backup-file-dialog = Igama Lefayela Lokugcina ikhophi
+file-browse-pkcs12-spec = PKCS12 Amafayela
+
+## Import certificate(s) file dialog
+
+file-browse-certificate-spec = Amafayela Ezitifiketi
+import-ca-certs-prompt = Khetha iFayela elinesitifiketi se-CA sokuthumela
+
+## For editing certificates trust
+
+
+## For Deleting Certificates
+
+delete-user-cert-title =
+    .title = Cisha iZitifiketi zakho
+delete-user-cert-confirm = Uyaqiniseka yini ukuthi ufuna ukuzicisha lezi zitifiketi?
+delete-user-cert-impact = Uma ucisha esinye sezitifiketi zakho, ngeke usasisebenzisa ukuze uzihlonze.
+delete-email-cert-title =
+    .title = Cisha Izitifiketi ze-imeyili
+
+## Cert Viewer
+
+not-present =
+    .value = <Akuyona Ingxenye Yesitifiketi>
+# Cert verification
+cert-verified = Lesi sitifiketi siye sahlolelwa loku kusetshenziswa okulandelayo:
+# Add usage
+verify-ssl-client =
+    .value = Isitifiketi Somthengi se-SSL
+verify-ssl-server =
+    .value = Isitifiketi Seseva se-SSL
+verify-ssl-ca =
+    .value = Igunya Lesitifiketi seSSL
+verify-email-signer =
+    .value = Isitifiketi Sokusayina I-imeyili
+verify-email-recip =
+    .value = Isitifiketi Sokwamukela I-imeyili
+# Cert verification
+cert-not-verified-cert-revoked = Ngeke isiqinisekise lesi sitifiketi ngoba siye sahoxiswa.
+cert-not-verified-cert-expired = Ngeke isiqinisekise lesi sitifiketi ngoba asethenjwa.
+cert-not-verified-cert-not-trusted = Ngeke isiqinisekise lesi sitifiketi ngoba sesiphelelwe isikhathi.
+cert-not-verified-issuer-not-trusted = Ngeke isiqinisekise lesi sitifiketi ngoba osikhiphile akethenjwa.
+cert-not-verified-issuer-unknown = Ngeke isiqinisekise lesi sitifiketi ngoba osikhiphile akaziwa.
+cert-not-verified-ca-invalid = Ngeke isiqinisekise lesi sitifiketi ngoba isitifiketi se-CA asisebenzi.
+cert-not-verified-unknown = Ngeke isiqinisekise lesi sitifiketi ngenxa yezizathu ezingaziwa.
+
+## Add Security Exception dialog
+
