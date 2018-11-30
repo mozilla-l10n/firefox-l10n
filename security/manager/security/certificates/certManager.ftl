@@ -66,11 +66,17 @@ certmgr-serial =
 certmgr-view =
     .label = Visa…
     .accesskey = V
+certmgr-edit =
+    .label = Redigera tillit…
+    .accesskey = R
 certmgr-export =
     .label = Exportera…
     .accesskey = x
 certmgr-delete =
     .label = Ta bort…
+    .accesskey = T
+certmgr-delete-builtin =
+    .label = Ta bort eller misstro…
     .accesskey = T
 certmgr-backup =
     .label = Säkerhetskopiera…
@@ -92,6 +98,9 @@ certmgr-add-exception =
     .accesskey = ä
 exception-mgr =
     .title = Lägg till säkerhetsundantag
+exception-mgr-extra-button =
+    .label = Bekräfta säkerhetsundantag
+    .accesskey = B
 exception-mgr-supplemental-warning = Legitima banker, butiker och andra offentliga webbplatser kommer inte att be dig göra detta.
 exception-mgr-cert-location-url =
     .value = Adress:
@@ -116,6 +125,7 @@ pkcs12-dup-data = Certifikatet och den hemliga nyckeln finns redan i säkerhetse
 
 choose-p12-backup-file-dialog = Filnamn att säkerhetskopiera till
 file-browse-pkcs12-spec = PKCS12-filer
+choose-p12-restore-file-dialog = Certifikatfil att importera
 
 ## Import certificate(s) file dialog
 
@@ -135,6 +145,10 @@ delete-ssl-cert-title =
     .title = Ta bort undantag för servercertifikat
 delete-ssl-cert-confirm = Är du säker på att du vill ta bort dessa serverundantag?
 delete-ssl-cert-impact = Om du tar bort ett serverundantag återställer du de normala säkerhetskontrollerna för servern och kräver att den använder ett giltigt certifikat.
+delete-ca-cert-title =
+    .title = Ta bort eller misstro CA-certifikat
+delete-ca-cert-confirm = Du försöker ta bort dessa CA-certifikat. För inbyggda certifikat som inte kan raderas kommer i stället all tillit att tas bort, vilket har samma effekt. Är du säker på att du vill ta bort eller misstro certifikaten?
+delete-ca-cert-impact = Om du tar bort eller misstror ett certifikat från en certifikatutfärdare (CA), kommer programmet inte längre att lita på certifikat som utfärdats av denna CA.
 delete-email-cert-title =
     .title = Ta bort e-postcertifikat
 
@@ -162,11 +176,13 @@ cert-not-verified-cert-not-trusted = Det går inte att verifiera detta certifika
 cert-not-verified-issuer-not-trusted = Kan inte verifiera detta certifikat eftersom utfärdaren inte är tillförlitlig.
 cert-not-verified-issuer-unknown = Kan inte verifiera detta certifikat eftersom utfärdaren är okänd.
 cert-not-verified-ca-invalid = Kan inte verifiera detta certifikat eftersom CA-certifikatet är ogiltigt.
+cert-not-verified_algorithm-disabled = Kan inte verifiera detta certifikat eftersom det signerades med en signaturalgoritm som är inaktiverad på grund av att den är osäker.
 cert-not-verified-unknown = Kan inte verifiera detta certifikat av okänd anledning.
 
 ## Add Security Exception dialog
 
 add-exception-expired-short = Föråldrad information
+add-exception-unverified-or-bad-signature-short = Okänd identitet
 add-exception-valid-short = Giltigt certifikat
 add-exception-valid-long = Platsen har presenterat en giltig och verifierad identifikation.  Du behöver inte lägga till något undantag.
 add-exception-checking-short = Kontrollerar information
