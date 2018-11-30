@@ -12,16 +12,24 @@ certmgr-tab-servers =
     .label = Серверлер
 certmgr-tab-ca =
     .label = Сертификаттау орталықтары
+certmgr-mine = Сізде келесі ұйымдардан алынған сізді анықтайтын сертификаттар бар
+certmgr-people = Сізде келесі адамдарды анықтайтын сертификаттар файлы бар
+certmgr-servers = Сізде келесі серверлерді анықтайтын сертификаттар файлы бар
+certmgr-ca = Сізде келесі сертификаттарды растаушыларды анықтайтын сертификаттар файлы бар
 certmgr-detail-general-tab-title =
     .label = Жалпы
     .accesskey = Ж
 certmgr-detail-pretty-print-tab-title =
     .label = Көбірек білу
     .accesskey = К
+certmgr-pending-label =
+    .value = Сертификат тексерілуде…
 certmgr-subject-info-label =
     .value = Кімге берілген
 certmgr-issuer-info-label =
     .value = Кім берген
+certmgr-period-of-validity-label =
+    .value = Жарамдылық мерзімі
 certmgr-fingerprints-label =
     .value = Баспалар
 certmgr-cert-detail =
@@ -36,6 +44,8 @@ certmgr-cert-detail-ou =
     .value = Бөлім (OU)
 certmgr-cert-detail-serialnumber =
     .value = Сериялық нөмірі
+certmgr-cert-detail-sha256-fingerprint =
+    .value = SHA-256 баспасы
 certmgr-cert-detail-sha1-fingerprint =
     .value = SHA1 баспасы
 certmgr-edit-ca-cert =
@@ -57,6 +67,8 @@ certmgr-override-lifetime =
     .label = Мерзімі
 certmgr-token-name =
     .label = Қауіпсіздік құрылғысы
+certmgr-begins-label =
+    .label = Басталу уақыты
 certmgr-begins-value =
     .value = { certmgr-begins-label.label }
 certmgr-expires-label =
@@ -67,21 +79,44 @@ certmgr-email =
     .label = Электронды пошта адресі
 certmgr-serial =
     .label = Сериялық нөмірі
+certmgr-view =
+    .label = Қарап шығу…
+    .accesskey = ш
 certmgr-edit =
     .label = Сенімді түзету…
     .accesskey = е
+certmgr-export =
+    .label = Экспорттау…
+    .accesskey = п
 certmgr-delete =
     .label = Өшіру…
     .accesskey = ш
 certmgr-delete-builtin =
     .label = Өшіру не сенбеу…
     .accesskey = ш
+certmgr-backup =
+    .label = Көшірмесін сақтау…
+    .accesskey = м
+certmgr-backup-all =
+    .label = Барлығының көшірмелерін сақтау…
+    .accesskey = Б
+certmgr-restore =
+    .label = Импорттау…
+    .accesskey = м
 certmgr-details =
     .value = Сертификат жолдары
     .accesskey = ж
 certmgr-fields =
     .value = Жол мәні
     .accesskey = м
+certmgr-hierarchy =
+    .value = Сертификаттар иерархиясы
+    .accesskey = х
+certmgr-add-exception =
+    .label = Ерекше ережені қосу…
+    .accesskey = р
+exception-mgr =
+    .title = Қауіпсіздік ерекше ережені қосу
 exception-mgr-extra-button =
     .label = Қауіпсіздік ерекше ережені растау
     .accesskey = р
@@ -115,9 +150,13 @@ choose-p12-restore-file-dialog = Импорттау үшін сертифика�
 
 file-browse-certificate-spec = Сертификаттар файлдары
 import-ca-certs-prompt = Импорт үшін сертификаттау орталығының сертификаты бар файлды таңдаңыз.
+import-email-cert-prompt = Импорт үшін электронды пошта сертификаты бар файлды таңдаңыз.
 
 ## For editing certificates trust
 
+# Variables:
+#   $certName: the name of certificate
+edit-trust-ca = "{ $certName }" сертификатын сертификаттау орталығы ұсынады.
 
 ## For Deleting Certificates
 
@@ -135,9 +174,23 @@ delete-ca-cert-confirm = Сіз бұл CA сертификаттарын өші�
 delete-ca-cert-impact = Егер сіз шығарушы (CA) сертификатын өшірсеңіз не оған сенбесеңіз, бұл қолданба ол CA шығарған ешбір сертификатқа енді сенбейтін болады.
 delete-email-cert-title =
     .title = Электронды пошта сертификаттарын өшіру
+delete-email-cert-confirm = Осы электронды пошта пайдаланушының сертификатын өшіруді шынымен қалайсыз ба?
+delete-email-cert-impact = Егер сіз электронды пошта пайдаланушының сертификатын өшірсеңіз, одан әрі ол пайдаланушыдан келген поштаны оқи алмайсыз.
+# Used for semi-uniquely representing a cert.
+#
+# Variables:
+#   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
+cert-with-serial =
+    .value = Сериялық нөмірі бар сертификат: { $serialNumber }
 
 ## Cert Viewer
 
+# Title used for the Certificate Viewer.
+#
+# Variables:
+#   $certificate : a string representative of the certificate being viewed.
+cert-viewer-title =
+    .title = Сертификатты қарап шығу: "{ $certName }"
 not-present =
     .value = <сертификат бөлігі емес>
 # Cert verification
@@ -164,7 +217,14 @@ cert-not-verified-unknown = Сертификат верификациясы бе
 add-exception-branded-warning = Сіз қазір { -brand-short-name } бұл сайтты қалай анықтайтынын баптауларын өзгерткіңіз келеді.
 add-exception-invalid-header = Бұл сайт өз-өзін қате ақпаратпен анықтағысы келеді.
 add-exception-domain-mismatch-short = Қате сайт
+add-exception-domain-mismatch-long = Бұл сертификат басқа сайттың сертификаты, яғни, біреу ол сайттың жалған нұсқасын жасағанын білдіруі мүмкін.
 add-exception-expired-short = Ақпарат ескірген
+add-exception-expired-long = Бұл сертификат ағымдағы уақытта жарамсыз. Ол ұрланған не жоғалған болуы мүмкін, және біреу ол сайттың жалған нұсқасын жасау үшін қолданылуы мүмкін.
 add-exception-unverified-or-bad-signature-short = Белгісіз сертификаттау орталығы
+add-exception-unverified-or-bad-signature-long = Бұл сертификат сенімсіз, өйткені ол сенімді авторизация орталығымен қауіпсіз қолтаңбаны қолданып расталған жоқ.
 add-exception-valid-short = Жарамды сертификат
+add-exception-valid-long = Сайт дұрыс, расталған идентификацияны ұсынып тұр.  Ерекше ережені қосу керек емес.
+add-exception-checking-short = Ақпаратты тексеру жүруде
+add-exception-checking-long = Сайтты анықтап көру…
 add-exception-no-cert-short = Қолжетерлік ақпарат жоқ
+add-exception-no-cert-long = Берілген сайт үшін идентификация статусын алу мүмкін емес.
