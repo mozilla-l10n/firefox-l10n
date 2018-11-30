@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+certmgr-tab-mine =
+    .label = Los tos certificaos
 certmgr-tab-people =
     .label = Persones
 certmgr-tab-servers =
@@ -11,10 +13,17 @@ certmgr-tab-ca =
 certmgr-detail-general-tab-title =
     .label = Xeneral
     .accesskey = X
+certmgr-detail-pretty-print-tab-title =
+    .label = Detalles
+    .accesskey = D
 certmgr-subject-info-label =
     .value = Emitíu pa
 certmgr-issuer-info-label =
     .value = Emitíu por
+certmgr-cert-detail =
+    .title = Detalle del certificáu
+    .buttonlabelaccept = Zarrar
+    .buttonaccesskeyaccept = Z
 certmgr-cert-detail-cn =
     .value = Nome común (CN)
 certmgr-cert-detail-o =
@@ -83,16 +92,23 @@ file-browse-certificate-spec = Ficheros de certificaos
 
 ## For Deleting Certificates
 
+delete-user-cert-confirm = ¿De xuru quies desaniciar estos certificaos?
 delete-ssl-cert-title =
     .title = Desaniciar esceiciones de certificaos de sirvidor
+delete-ssl-cert-confirm = ¿De xuru que quies desaniciar estes esceiciones de sirvidor?
+delete-email-cert-title =
+    .title = Desaniciar certificaos de corréu electrónicu
 
 ## Cert Viewer
 
 verify-ssl-ca =
     .value = Autoridá Certificadora (CA) SSL
+verify-email-recip =
+    .value = Certificáu del receutor del corréu electrónicu
 
 ## Add Security Exception dialog
 
 add-exception-domain-mismatch-short = Sitiu erróneu
 add-exception-valid-short = Certificáu válidu
+add-exception-checking-short = Comprobando información
 add-exception-no-cert-short = Nun hai información disponible
