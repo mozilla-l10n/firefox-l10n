@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+certmgr-detail-pretty-print-tab-title =
+    .label = Detalhes
+    .accesskey = D
 certmgr-begins-value =
     .value = { certmgr-begins-label.label }
 certmgr-expires-value =
