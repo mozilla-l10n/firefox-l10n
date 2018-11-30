@@ -13,6 +13,9 @@ certmgr-begins-value =
     .value = { certmgr-begins-label.label }
 certmgr-expires-value =
     .value = { certmgr-expires-label.label }
+certmgr-delete-builtin =
+    .label = அழி அல்லது நம்பாதே…
+    .accesskey = D
 exception-mgr-permanent =
     .label = நிரந்தரமாக இந்த விதிவிலக்கில் சேமி
     .accesskey = P
@@ -22,6 +25,7 @@ pk11-bad-password = உள்ளிடப்பட்ட கடவுச்ச�
 
 choose-p12-backup-file-dialog = பின்சேமிக்க வேண்டிய கோப்பு பெயர்
 file-browse-pkcs12-spec = PKCS12 கோப்புகள்
+choose-p12-restore-file-dialog = மறுசேமிக்க வேண்டிய கோப்பு பெயர்
 
 ## Import certificate(s) file dialog
 
@@ -35,9 +39,14 @@ file-browse-certificate-spec = சான்றிதழ் கோப்புக
 delete-user-cert-title =
     .title = உங்கள் சான்றிதழ்களை அழி
 delete-user-cert-confirm = இந்த சான்றிதழ்களை அழிக்க வேண்டுமா?
+delete-user-cert-impact = If you delete one of your own certificates,  you can no longer use it to identify yourself.
 delete-ssl-cert-title =
     .title = சேவையக சான்றிதழ் விதிவிலக்குகிளை அழி
 delete-ssl-cert-confirm = இந்த சேவையக விதிவிலக்குகளை அழிக்க வேண்டுமா?
+delete-ca-cert-title =
+    .title = CA சான்றிதழ்களை அழி
+delete-ca-cert-confirm = இந்த CA சான்றிதழ்களை அழிக்க வேண்டுமா?
+delete-ca-cert-impact = If you delete a certificate authority (CA) certificate,  this application will no longer trust any certificates issued by that CA.
 delete-email-cert-title =
     .title = மின்னஞ்சல் சான்றிதழ்களை அழி
 
@@ -67,6 +76,8 @@ cert-not-verified-unknown = தெரியாத காரணங்களால
 
 ## Add Security Exception dialog
 
+add-exception-branded-warning = You are about to override  how { -brand-short-name } identifies this site.
+add-exception-invalid-header = This site attempts to identify  itself with invalid information.
 add-exception-domain-mismatch-short = தவறான இணைய தளம்
 add-exception-expired-short = முடிவுற்ற தகவல்
 add-exception-valid-short = சரியான சான்றிதழ்
