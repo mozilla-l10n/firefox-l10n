@@ -198,4 +198,5 @@ add-exception-expired-short = पुरानी सूचना
 add-exception-unverified-or-bad-signature-short = अज्ञात पहचान
 add-exception-valid-short = वैध प्रमाणपत्र
 add-exception-valid-long = ई साइट वैध, जांचल गेल पहचान देत अछि.  ककरो अपवाद केँ जोड़ने क जरूरत नहि अछि.
+add-exception-checking-short = सूचना जाँच रहल अछि{ " " }
 add-exception-no-cert-short = कोनो सूचना उपलब्ध नहि
