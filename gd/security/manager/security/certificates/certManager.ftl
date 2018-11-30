@@ -57,6 +57,8 @@ certmgr-cert-server =
     .label = Am frithealaiche
 certmgr-override-lifetime =
     .label = Saoghal
+certmgr-token-name =
+    .label = Uidheam tèarainteachd
 certmgr-begins-value =
     .value = { certmgr-begins-label.label }
 certmgr-expires-label =
@@ -122,6 +124,8 @@ pkcs12-decode-err = Cha do ghabh am faidhle a dhì-chòdadh.  Chan eil e ann am 
 pkcs12-unknown-err-restore = Cha do ghabh am faidhle PKCS #12 aiseag ach chan eil fhios carson.
 pkcs12-unknown-err-backup = Dh'fhàillig cruthachadh an lethbhric-ghlèidhidh PKCS #12 ach chan eil fhios carson.
 pkcs12-unknown-err = Dh'fhàillig an t-obrachadh PKCS #12 ach chan eil fhios carson.
+pkcs12-info-no-smartcard-backup = Chan urrainnear lethbhreac-glèidhidh de theisteanasan a dhèanamh o uidheam tèarainteachd cruaidh mar Smart Card.
+pkcs12-dup-data = Tha an teisteanas is an iuchair phrìobhaideachd ann mu thràth air an uidheam tèarainteachd.
 
 ## PKCS#12 file dialogs
 
@@ -150,6 +154,7 @@ delete-ssl-cert-impact = Ma sguabas tu às eisgeachd frithealaiche, aisigidh thu
 delete-ca-cert-title =
     .title = Sguab às no thoir earbsa far teisteanasan nan ùghdarrasan teisteanachaidh
 delete-ca-cert-confirm = Dh'iarr thu gun sguabar às teisteanasan nan ùghdarrasan teisteanachaidh seo. Thèid earbsa a thoirt far gach teisteanas a tha air fhilleadh a-steach 's bidh an dearbh bhuaidh aige seo. A bheil thu cinnteach gu bheil thu airson an sguabadh às no earbsa a thoirt air falbh?
+delete-ca-cert-impact = Ma sguabas tu às teisteanas de dh'ùghdarras teisteanachaidh no ma bheir thu air falbh earbsa, cha chuir an aplacaid seo earbsa ann an teisteanasan tuilleadh a thig on ùghdarras teisteanachaidh seo.
 delete-email-cert-title =
     .title = Sguab às teisteanasan a' phuist-dhealain
 
