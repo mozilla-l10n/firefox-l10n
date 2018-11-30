@@ -97,6 +97,8 @@ cert-not-verified-cert-not-trusted = Nu ga'ue natsi sertificadô nan dadin' sê 
 cert-not-verified-issuer-not-trusted = Nu ga'ue natsi sertificadô nan dadin' sa giri ma nu ni'in si sa yitïnj ïn huin.
 cert-not-verified-issuer-unknown = Nu ga'ue natsi sertificadô nan dadin' nu ni'in ahuin si giri man.
 cert-not-verified-ca-invalid = Nu ga'ue natsi sertificadô nan dadin' nitaj si hua hue'ê sertifikado CA.
+cert-not-verified_algorithm-disabled = Nu ga'ue natsi sertifikadô nan dadin' da'nga' ga'ui' si riñanj nu ni'în si 'ngo da'nga' hia huin man.
+cert-not-verified-unknown = Nu ni'în' nuhuin saj na'ue natsi sertiifikadô nan.
 
 ## Add Security Exception dialog
 
