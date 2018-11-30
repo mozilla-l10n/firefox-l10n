@@ -2,20 +2,108 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+certmgr-title =
+    .title = Διαχείριση πιστοποιητικών
+certmgr-tab-mine =
+    .label = Τα πιστοποιητικά σας
+certmgr-detail-general-tab-title =
+    .label = Γενικά
+    .accesskey = Γ
+certmgr-detail-pretty-print-tab-title =
+    .label = Λεπτομέρειες
+    .accesskey = Λ
 certmgr-pending-label =
     .value = Γίνεται προβολή πιστοποιητικού...
+certmgr-subject-info-label =
+    .value = Εκδόθηκε σε
+certmgr-issuer-info-label =
+    .value = Εκδόθηκε από
+certmgr-fingerprints-label =
+    .value = Αποτυπώματα
+certmgr-cert-detail =
+    .title = Λεπτομέρεια πιστοποιητικού
+    .buttonlabelaccept = Κλείσιμο
+    .buttonaccesskeyaccept = Κ
+certmgr-cert-detail-cn =
+    .value = Κοινό όνομα (CN)
+certmgr-cert-detail-o =
+    .value = Οργανισμός (O)
+certmgr-cert-detail-ou =
+    .value = Μονάδα Οργανισμού (OU)
+certmgr-cert-detail-serialnumber =
+    .value = Σειριακός αριθμός
+certmgr-cert-detail-sha1-fingerprint =
+    .value = Αποτύπωμα SHA1
+certmgr-edit-ca-cert =
+    .title = Επεξεργασία ρυθμίσεων εμπιστοσύνης πιστοποιητικών  CA
+    .style = width: 48em;
+certmgr-edit-cert-edit-trust = Επεξεργασία ρυθμίσεων εμπιστοσύνης:
+certmgr-edit-cert-trust-ssl =
+    .label = Το παρόν πιστοποιεί ιστοσελίδες.
+certmgr-edit-cert-trust-email =
+    .label = Το παρόν πιστοποιεί χρήστες email.
+certmgr-delete-cert =
+    .title = Διαγραφή πιστοποιητικού
+    .style = width: 48em; height: 24em;
+certmgr-cert-name =
+    .label = Όνομα πιστοποιητικού
+certmgr-cert-server =
+    .label = Εξυπηρετητής
+certmgr-override-lifetime =
+    .label = Εφ' όρου ζωής
+certmgr-token-name =
+    .label = Συσκευή ασφάλειας
 certmgr-begins-value =
     .value = { certmgr-begins-label.label }
+certmgr-expires-label =
+    .label = Λήγει στις
 certmgr-expires-value =
     .value = { certmgr-expires-label.label }
+certmgr-email =
+    .label = Ηλεκτρονική διεύθυνση
+certmgr-serial =
+    .label = Σειριακός Αριθμός
+certmgr-view =
+    .label = Προβολή…
+    .accesskey = β
+certmgr-edit =
+    .label = Επεξεργασία εμπιστοσύνης…
+    .accesskey = Ε
 certmgr-export =
     .label = Εξαγωγή…
     .accesskey = ξ
+certmgr-delete =
+    .label = Διαγραφή…
+    .accesskey = Δ
+certmgr-delete-builtin =
+    .label = Διαγραφή ή άρση εμπιστοσύνης…
+    .accesskey = Δ
+certmgr-backup =
+    .label = Αντίγραφο ασφαλείας…
+    .accesskey = φ
+certmgr-backup-all =
+    .label = Αντίγραφο όλων…
+    .accesskey = ν
+certmgr-restore =
+    .label = Εισαγωγή…
+    .accesskey = ι
+certmgr-details =
+    .value = Πεδία πιστοποιητικού
+    .accesskey = δ
+certmgr-fields =
+    .value = Τιμή πεδίου
+    .accesskey = μ
+certmgr-hierarchy =
+    .value = Ιεραρχία πιστοποιητικού
+    .accesskey = χ
 certmgr-add-exception =
     .label = Προσθήκη εξαίρεσης…
     .accesskey = θ
 exception-mgr =
     .title = Προσθήκη εξαίρεσης ασφαλείας
+exception-mgr-extra-button =
+    .label = Επιβεβαίωση εξαίρεσης ασφαλείας
+    .accesskey = β
 exception-mgr-supplemental-warning = Οι νόμιμες τράπεζες, καταστήματα, και άλλες δημόσιες σελίδες δεν θα σας ζητήσουν να το κάνετε.
 exception-mgr-cert-location-url =
     .value = Τοποθεσία:
@@ -28,29 +116,79 @@ exception-mgr-cert-status-view-cert =
 exception-mgr-permanent =
     .label = Μόνιμη αποθήκευση αυτής της εξαίρεσης
     .accesskey = Μ
+pk11-bad-password = Ο κωδικός που εισάγατε ήταν εσφαλμένος.
+pkcs12-decode-err = Αποτυχία αποκωδικοποίησης αρχείου. Είτε δεν είναι σε μορφή PKCS#12, είτε ο κωδικός που εισάγατε δεν είναι σωστός.
+pkcs12-unknown-err-backup = Αποτυχία δημιουργίας αντιγράφου ασφαλείας του αρχείου PKCS#12 για άγνωστους λόγους.
+pkcs12-info-no-smartcard-backup = Δεν είναι δυνατή η αντιγραφή πιστοποιητικών από συσκευές ασφαλείας hardware όπως οι "έξυπνες κάρτες"
+pkcs12-dup-data = Το πιστοποιητικό και το ιδιωτικό κλειδί υπάρχουν ήδη στη συσκευή ασφάλειας.
 
 ## PKCS#12 file dialogs
 
+choose-p12-backup-file-dialog = Όνομα αρχείου για αντίγραφο ασφάλειας
+file-browse-pkcs12-spec = Αρχεία PKCS12
+choose-p12-restore-file-dialog = Αρχείο πιστοποιητικού προς εισαγωγή
 
 ## Import certificate(s) file dialog
 
+file-browse-certificate-spec = Αρχεία πιστοποιητικού
+import-ca-certs-prompt = Επιλογή αρχείου που περιέχει πιστοποιητικό CA για εισαγωγή
+import-email-cert-prompt = Επιλογή αρχείου που περιέχει πιστοποιητικό κάποιου για εισαγωγή
 
 ## For editing certificates trust
 
+# Variables:
+#   $certName: the name of certificate
+edit-trust-ca = Το πιστοποιητικό "{ $certName }" αντιπροσωπεύει μια Αρχή Πιστοποίησης.
 
 ## For Deleting Certificates
 
+delete-user-cert-title =
+    .title = Διαγραφή των πιστοποιητικών σας
+delete-user-cert-impact = Αν διαγράψετε τα δικά σας πιστοποιητικά δεν θα μπορείτε πλέον να τα χρησιμοποιήσετε για να πιστοποιήσετε τον εαυτό σας.
+delete-ssl-cert-title =
+    .title = Διαγραφή εξαιρέσεων πιστοποιητικών ιστοσελίδων
+delete-ssl-cert-impact = Αν διαγράψετε μια εξαίρεση ιστοσελίδας, θα επαναφέρετε τους συνήθεις ελέγχους ασφαλείας της σελίδας και την απαίτηση ενός έγκυρου πιστοποιητικού.
+delete-ca-cert-title =
+    .title = Διαγραφή ή άρση εμπιστοσύνης πιστοποητικών CA
+delete-ca-cert-confirm = Ζητήσατε να διαγράψετε αυτά τα πιστοποιητικά CA. Για τα ενσωματωμένα πιστοποιητικά υπάρχει και η επιλογή της άρσης εμπιστοσύνης που έχει το ίδιο αποτέλεσμα. Θέλετε τα τα διαγράψετε ή να άρετε την εμπιστοσύνη σας;
+delete-ca-cert-impact = Αν διαγράψετε ή άρετε την εμπιστοσύνη σας σε ένα πιστοποιητικό αρχής πιστοποίησης (CA), αυτή η εφαρμογή δεν θα εμπιστεύεται πια πιστοποιητικά από αυτή την CA.
 delete-email-cert-impact = Εάν διαγράψετε ένα πιστοποιητικό e-mail,  δεν θα μπορείτε πια να στέλνετε κρυπτογραφημένη αλληλογραφία σε αυτούς τους ανθρώπους.
 
 ## Cert Viewer
 
+# Cert verification
+cert-verified = Το παρόν πιστοποιητικό έχει επαληθευθεί για τις παρακάτω χρήσεις:
+# Add usage
+verify-ssl-client =
+    .value = Πιστοποιητικό πελάτη SSL
+verify-ssl-ca =
+    .value = Αρχή πιστοποιητικού SSL
+verify-email-signer =
+    .value = Πιστοποιητικό υπογραφής Email
+verify-email-recip =
+    .value = Πιστοποιητικό αποδέκτη αλληλογραφίας
+# Cert verification
+cert-not-verified-cert-revoked = Δεν είναι δυνατή η επαλήθευση του παρόντος πιστοποιητικού επειδή έχει ακυρωθεί.
+cert-not-verified-cert-expired = Δεν είναι δυνατή η επαλήθευση του παρόντος πιστοποιητικού επειδή  έχει λήξει.
+cert-not-verified-cert-not-trusted = Δεν είναι δυνατή η επαλήθευση του παρόντος πιστοποιητικού επειδή δεν είναι έμπιστο.
+cert-not-verified-issuer-not-trusted = Δεν είναι δυνατή η επαλήθευση του παρόντος πιστοποιητικού επειδή ο εκδότης δεν είναι έμπιστος.
+cert-not-verified-issuer-unknown = Δεν είναι δυνατή η επαλήθευση του παρόντος πιστοποιητικού επειδή ο εκδότης είναι άγνωστος.
+cert-not-verified-ca-invalid = Δεν είναι δυνατή η επαλήθευση του παρόντος επειδή η αρχή πιστοποίησης είναι άκυρη.
+cert-not-verified-unknown = Δεν είναι δυνατή η επαλήθευση του παρόντος πιστοποιητικού για άγνωστους λόγους.
 
 ## Add Security Exception dialog
 
+add-exception-branded-warning = Πρόκειται να παρακάμψετε τον τρόπο με τον οποίο ο { -brand-short-name } αναγνωρίζει την σελίδα.
 add-exception-invalid-header = Αυτή σελίδα προσπαθεί να πιστοποιήσει τον εαυτό της με μη έγκυρες πληροφορίες.
 add-exception-domain-mismatch-short = Λάθος σελίδα
+add-exception-domain-mismatch-long = Το πιστοποιητικό ανήκει σε διαφορετική σελίδα, πράγμα το οποίο μπορεί να σημαίνει ότι κάποιος προσπαθεί να υποδυθεί αυτήν την ιστοσελίδα.
 add-exception-expired-short = Παρωχημένες πληροφορίες
+add-exception-expired-long = Το πιστοποιητικό δεν είναι αυτή τη στιγμή έγκυρο. Είναι πιθανό να έχει κλαπεί ή χαθεί, και να χρησιμοποιείται από κάποιον για να υποδυθεί αυτήν την ιστοσελίδα.
+add-exception-unverified-or-bad-signature-short = Άγνωστη ταυτότητα
+add-exception-unverified-or-bad-signature-long = Το πιστοποιητικό δεν είναι έγκυρο, επειδή δεν έχει επικυρωθεί από μια αναγνωρισμένη αρχή με χρήση ασφαλούς υπογραφής.
 add-exception-valid-short = Έγκυρο πιστοποιητικό
 add-exception-valid-long = Αυτή η σελίδα παρέχει έγκυρη και επικυρωμένη πιστοποίηση.  Δεν υπάρχει λόγος να εξαιρεθεί.
 add-exception-checking-short = Έλεγχος πληροφοριών
+add-exception-checking-long = Γίνεται προσπάθεια πιστοποίησης της σελίδας…
 add-exception-no-cert-short = Δεν υπάρχουν διαθέσιμες πληροφορίες
+add-exception-no-cert-long = Αδυναμία λήψης κατάστασης ταυτότητας για αυτή τη σελίδα.
