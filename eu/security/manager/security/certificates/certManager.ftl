@@ -12,6 +12,10 @@ certmgr-tab-servers =
     .label = Zerbitzariak
 certmgr-tab-ca =
     .label = Autoritateak
+certmgr-mine = Zu identifikatzen zaituzten erakunde hauen ziurtagiriak dituzu artxibatuta
+certmgr-people = Pertsona hauek identifikatzen dituzten ziurtagiriak dituzu artxibatuta
+certmgr-servers = Zerbitzari hauek identifikatzen dituzten ziurtagiriak dituzu artxibatuta
+certmgr-ca = Autoritate ziurtagiri-emaile hauek identifikatzen dituzten ziurtagiriak dituzu artxibatuta
 certmgr-detail-general-tab-title =
     .label = Orokorra
     .accesskey = O
@@ -32,6 +36,8 @@ certmgr-cert-detail =
     .title = Ziurtagiriaren xehetasunak
     .buttonlabelaccept = Itxi
     .buttonaccesskeyaccept = x
+certmgr-cert-detail-cn =
+    .value = Izen Arrunta (IA)
 certmgr-cert-detail-o =
     .value = Erakundea (E)
 certmgr-cert-detail-ou =
@@ -103,6 +109,9 @@ certmgr-details =
 certmgr-fields =
     .value = Eremuaren balioa
     .accesskey = i
+certmgr-hierarchy =
+    .value = Ziurtagiri-hierarkia
+    .accesskey = h
 certmgr-add-exception =
     .label = Gehitu salbuespena…
     .accesskey = l
@@ -141,9 +150,13 @@ choose-p12-restore-file-dialog = Inportatzeko ziurtagiri-fitxategia
 
 file-browse-certificate-spec = Ziurtagiri fitxategiak
 import-ca-certs-prompt = Aukeratu inportatuko diren AZ ziurtagiriak dituen fitxategia
+import-email-cert-prompt = Aukeratu inportatuko den e-posta ziurtagiria duen fitxategia
 
 ## For editing certificates trust
 
+# Variables:
+#   $certName: the name of certificate
+edit-trust-ca = "{ $certName }" ziurtagiriak autoritate ziurtagiri emaile bat adierazten du.
 
 ## For Deleting Certificates
 
@@ -161,9 +174,23 @@ delete-ca-cert-confirm = ZA ziurtagiri hauek ezabatzea eskatu duzu. Integratutak
 delete-ca-cert-impact = Ziurtagiri Autoritate (ZA) ziurtagiria ezabatu edo mesfidatzen baduzu, aplikazio hau ez da gehiago ZA honek jaulkitako ziurtagirietaz fidatuko.
 delete-email-cert-title =
     .title = Ezabatu e-posta ziurtagiriak
+delete-email-cert-confirm = Ziur zaude pertsona hauen e-posta ziurtagiriak ezabatu nahi dituzula?
+delete-email-cert-impact = Pertsona baten e-posta ziurtagiria ezabatzen baduzu, ez zara pertsona horri zifratutako mezuak bidaltzeko gai izango.
+# Used for semi-uniquely representing a cert.
+#
+# Variables:
+#   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
+cert-with-serial =
+    .value = Serie-zenbakidun ziurtagiria: { $serialNumber }
 
 ## Cert Viewer
 
+# Title used for the Certificate Viewer.
+#
+# Variables:
+#   $certificate : a string representative of the certificate being viewed.
+cert-viewer-title =
+    .title = Ziurtagirien ikustailea: "{ $certName }"
 not-present =
     .value = <Ez da ziurtagiriaren zatia>
 # Cert verification
@@ -194,9 +221,14 @@ cert-not-verified-unknown = Ezin izan da ziurtagiri hau egiaztatu, ezagutzen ez 
 add-exception-branded-warning = { -brand-short-name }(e)k guneak nola identifikatzen dituen gainidaztera zoaz.
 add-exception-invalid-header = Gune hau bere burua informazio baliogabeaz identifikatzen saiatzen ari da.
 add-exception-domain-mismatch-short = Gune okerra
+add-exception-domain-mismatch-long = Ziurtagiria beste gune batena da, zeinak esan nahi lezake norbait gune honen itxurak egin nahian dabilela.
 add-exception-expired-short = Zaharkituriko informazioa
+add-exception-expired-long = Ziurtagiria ez da baliozkoa une honetan. Ostutakoa edo galdutakoa izan liteke eta beste norbaitek erabil lezake gune honen itxurak egiteko.
 add-exception-unverified-or-bad-signature-short = Nortasun ezezaguna
+add-exception-unverified-or-bad-signature-long = Ziurtagiria ez da fidagarria ez delako autoritate fidagarri batek sinadura seguru bat erabiliz jaulkitako ziurtagiri modura egiaztatu.
 add-exception-valid-short = Baliozko ziurtagiria
 add-exception-valid-long = Gune honek baliozko eta egiaztatutako identifikazioa du.  Ez da salbuespen bat gehitu behar.
 add-exception-checking-short = Informazioa egiaztatzen
+add-exception-checking-long = Gunea identifikatzen saiatzen…
 add-exception-no-cert-short = Ez dago informaziorik eskuragarri
+add-exception-no-cert-long = Ezin da eskuratu gune honetarako identifikazio-egoera.
