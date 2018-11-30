@@ -162,9 +162,21 @@ delete-email-cert-title =
     .title = အီးမေးလ် လက်မှတ်များကို ပယ်ဖျက်ပါ
 delete-email-cert-confirm = ဒီလူများရဲ့ အီးမေးလ် လက်မှတ်များကို သင်တယ် ပယ်ဖျက်လိုသလား။
 delete-email-cert-impact = လူတဦးရဲ့ အီးမေးလ် လက်မှတ် တခုကို သင် ပယ်ဖျက်လိုက်ရင်၊ အဲဒီ ပုဂ္ဂိုလ်ထံ စာဝှက်ထားတဲ့ အီးမေးလ်ကို သင်ပို့နိုင်တော့မှာ မဟုတ်ဘူး။
+# Used for semi-uniquely representing a cert.
+#
+# Variables:
+#   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
+cert-with-serial =
+    .value = အမှတ်စဉ်ဖြင့် လက်မှတ် - { $serialNumber }
 
 ## Cert Viewer
 
+# Title used for the Certificate Viewer.
+#
+# Variables:
+#   $certificate : a string representative of the certificate being viewed.
+cert-viewer-title =
+    .title = လက်မှတ်ကြည့်သူ - “{ $certName }”
 not-present =
     .value = <လက်မှတ်ရဲ့ အစိတ်အပိုင်း မဟုတ်ဘူး>
 # Cert verification
@@ -193,10 +205,14 @@ cert-not-verified-unknown = ဒီလက်မှတ်ကို မသိရတ
 add-exception-branded-warning = { -brand-short-name } က ဒီကွန်ရက်ကို ဖေါ်ထုတ်တဲ့နည်းကို သင် ထပ်ဖြည့်တော့မယ်။
 add-exception-invalid-header = ဒီကွန်ရက်က မမှန်ကန်တဲ့ အချက်အလက်နဲ့ ၄င်းကိုယ်တိုင် ထုတ်ဖေါ်ဖို့ ကြိုးစားနေတယ်။
 add-exception-domain-mismatch-short = မှားတဲ့ ကွန်ရက်
+add-exception-domain-mismatch-long = ယခု လက်မှတ်သှ် အခြား ဆိုက်ဒ်တစ်ခုမှ ပိုင်ဆိုင်နေပြီး ၎င်းအား အယောင်ဆောင်ထားခြင်းလည်း ဖြစ်နိုင်သှ်။
 add-exception-expired-short = ရက်လွန်တဲ့ အချက်အလက်
+add-exception-expired-long = ယခု လက်မှတ်သည် အလုပ်မလုပ်ပါ။ ပျောက်ဆုံးသို့ အခိုးခံထားရခြင်းလည်း ဖြစ်နိုင်သည်။
 add-exception-unverified-or-bad-signature-short = အမည်မသိ အထောက်အထား
 add-exception-unverified-or-bad-signature-long = Certificate is not trusted, because it hasn't been verified by a recognized authority using a secure signature.
 add-exception-valid-short = မှန်ကန်တဲ့ လက်မှတ်
 add-exception-valid-long = This site provides valid, verified identification.  There is no need to add an exception.
 add-exception-checking-short = အချက်အလက်ကို စစ်ဆေးနေတယ်
+add-exception-checking-long = ယခုဆိုဒ်အား အတည်ပြုရန်ကြိုးစားနေသှ်…
 add-exception-no-cert-short = အချက်အလက် မရနိုင်ဘူး
+add-exception-no-cert-long = ယခု ဆိုက်ဒ်အတွက် အတည်ပြုပုံစံ မရယူနိုင်ပါ
