@@ -136,6 +136,7 @@ choose-p12-restore-file-dialog = Fiilde Seedamfaagu Jiggeteede
 ## Import certificate(s) file dialog
 
 file-browse-certificate-spec = Piille seedamfaagu
+import-ca-certs-prompt = Labo fiilde soomnde seedamfaagu(je) CA ngam jiggaade
 
 ## For editing certificates trust
 
@@ -181,6 +182,7 @@ cert-not-verified-cert-not-trusted = Horiima ƴeewtaade nguu seedamfaagu sabu ng
 cert-not-verified-issuer-not-trusted = Horiima ƴeewtaade nguu seedamfaagu sabu bayyinɗo oo hoolaaka.
 cert-not-verified-issuer-unknown = Horiima ƴeewtaade nguu seedamfaagu sabu bayyinɗo oo anndaaka.
 cert-not-verified-ca-invalid = Horiima ƴeewtaade nguu seedamfaagu sabu CA ngu moƴƴaani.
+cert-not-verified_algorithm-disabled = Horiima ƴeewtaade nguu seedamfaagu sabu ngu siiforaa ko huutoraade algoritmol daaƴangol sabu nol hisaani.
 cert-not-verified-unknown = Horiima ƴeewtaade nguu seedamfaagu ngam daliilu mo anndaaka.
 
 ## Add Security Exception dialog
@@ -189,6 +191,7 @@ add-exception-branded-warning = Ngon-ɗaa ko e fawtitaade hol no { -brand-short-
 add-exception-invalid-header = Ndee lowre ena etoo innitaade huutoraade humpito ngo moƴƴaani.
 add-exception-domain-mismatch-short = Lowre Jaɓaaka
 add-exception-expired-short = Humpito Hiiɗɗitngo
+add-exception-unverified-or-bad-signature-short = Innitol Anndaaka
 add-exception-valid-short = Seedamfaagu Moƴƴu
 add-exception-valid-long = Ndee lowre ena hokko innitol moƴƴol, ƴeewtangol.  Soklaani ɓeydude faltoore.
 add-exception-checking-short = Nana Ƴeewtoo Humpito
