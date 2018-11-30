@@ -24,6 +24,8 @@ certmgr-cert-detail-ou =
     .value = Unit Organisasi (OU)
 certmgr-cert-detail-serialnumber =
     .value = Nombor Siri
+certmgr-cert-detail-sha256-fingerprint =
+    .value = Cap jari SHA-256
 certmgr-cert-detail-sha1-fingerprint =
     .value = Cap jari SHA1
 certmgr-edit-ca-cert =
@@ -38,6 +40,8 @@ certmgr-override-lifetime =
     .label = Seumur hidup
 certmgr-token-name =
     .label = Peranti Sekuriti
+certmgr-begins-label =
+    .label = Bermula Pada
 certmgr-begins-value =
     .value = { certmgr-begins-label.label }
 certmgr-expires-label =
@@ -77,6 +81,9 @@ file-browse-certificate-spec = Fail Sijil
 
 ## For editing certificates trust
 
+# Variables:
+#   $certName: the name of certificate
+edit-trust-ca = Sijil "{ $certName }" mewakili Autoriti Sijil.
 
 ## For Deleting Certificates
 
@@ -107,6 +114,7 @@ cert-not-verified-unknown = Tidak dapat mengesahkan siil ini kerana sebab yang t
 
 add-exception-expired-short = Maklumat yang lapuk
 add-exception-unverified-or-bad-signature-short = Identiti Tidak Diketahui
+add-exception-unverified-or-bad-signature-long = Sijil ini tidak boleh dipercayai, kerana ia telah dikenalpasti oleh autoriti berdaftar menggunakan tanda tangan yang selamat.
 add-exception-valid-short = Sijil sah
 add-exception-checking-short = Semakan Maklumat
 add-exception-no-cert-short = Tiada Maklumat wujud
