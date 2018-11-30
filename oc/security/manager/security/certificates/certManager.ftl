@@ -12,6 +12,10 @@ certmgr-tab-servers =
     .label = Servidors
 certmgr-tab-ca =
     .label = Autoritats
+certmgr-mine = De certificats d'aquestas organizacions vos identifican
+certmgr-people = De certificats d'aqueste fichièr identifican aqueles personas
+certmgr-servers = De certificats d'aqueste fichièr identifican aqueles servidors
+certmgr-ca = De certificats d'aqueste fichièr identifican aquelas autoritats de certificat
 certmgr-detail-general-tab-title =
     .label = General
     .accesskey = G
@@ -75,6 +79,9 @@ certmgr-email =
     .label = Adreça electronica
 certmgr-serial =
     .label = Numèro de seria
+certmgr-view =
+    .label = Veire…
+    .accesskey = V
 certmgr-edit =
     .label = Modificar la fisança…
     .accesskey = M
@@ -87,6 +94,12 @@ certmgr-delete =
 certmgr-delete-builtin =
     .label = Suprimir o far pas mai fisança…
     .accesskey = S
+certmgr-backup =
+    .label = Salvagardar…
+    .accesskey = S
+certmgr-backup-all =
+    .label = Salvagardar tot…
+    .accesskey = t
 certmgr-restore =
     .label = Importar…
     .accesskey = I
@@ -113,6 +126,9 @@ exception-mgr-cert-location-url =
 exception-mgr-cert-location-download =
     .label = Obténer lo certificat
     .accesskey = O
+exception-mgr-cert-status-view-cert =
+    .label = Veire…
+    .accesskey = V
 exception-mgr-permanent =
     .label = Conservar aquesta excepcion d'un biais permanent
     .accesskey = s
@@ -160,9 +176,21 @@ delete-email-cert-title =
     .title = Supression de certificats de corrièr
 delete-email-cert-confirm = Volètz vertadièrament suprimir los certificats de corrièr d'aquestas personas ?
 delete-email-cert-impact = Se suprimissètz lo certificat de corrièr d'una persona, poiretz pas mai mandar de corrièr chifrat a la persona que li es associada
+# Used for semi-uniquely representing a cert.
+#
+# Variables:
+#   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
+cert-with-serial =
+    .value = Certificat amb nombre de seria : { $serialNumber }
 
 ## Cert Viewer
 
+# Title used for the Certificate Viewer.
+#
+# Variables:
+#   $certificate : a string representative of the certificate being viewed.
+cert-viewer-title =
+    .title = Visualizaira de cerficat : “{ $certName }”
 not-present =
     .value = <Fa pas partida del certificat>
 # Cert verification
@@ -193,7 +221,9 @@ cert-not-verified-unknown = Impossible de verificar aqueste certificat per una r
 add-exception-branded-warning = Sètz a mand de passar otra lo biais que  { -brand-short-name } identifica aqueste site.
 add-exception-invalid-header = Aqueste site ensaja de s'identificar ele-meteis amb d'entresenhas invalidas.
 add-exception-domain-mismatch-short = Site marrit
+add-exception-domain-mismatch-long = Lo certificat aparten a un site diferent, aquò vòl dire que qualqu'un ensaja de raubar l'identitat d'aqueste site.
 add-exception-expired-short = Entresenhas obsoletas
+add-exception-expired-long = Lo certificat es pas mai valid. Benlèu es estat raubat o perdut, e qualqu'un utilize per raubar l'identitat d'aqueste site.
 add-exception-unverified-or-bad-signature-short = Identitat desconeguda
 add-exception-unverified-or-bad-signature-long = Lo certificat es pas segur perque es pas estat verificat per una autoritat reconeguda.
 add-exception-valid-short = Certificat valid
