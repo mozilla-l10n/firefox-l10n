@@ -115,6 +115,10 @@ exception-mgr-cert-status-view-cert =
     .label = Nîşan Bide...
     .accesskey = B
 pk11-bad-password = Têketina nasnava derbasdar çewt e.
+pkcs12-decode-err = Vekirina pela binasnav bi ser neket. An ne di şêweya PKCS #12 de ye û xerabûye an jî nasnava ku têketiyê çewt e.
+pkcs12-unknown-err-restore = Ji ber sedemên nayê zanîn nûkirina pela PKCS #12 bi ser neket.
+pkcs12-unknown-err-backup = Ji ber sedemên nayên zanîn pela hilanînê a PKCS #12 nehat afirandin.
+pkcs12-unknown-err = Kiryara PKCS #12 'ê ji ber sedemên nayê zanîn bi ser neket.
 pkcs12-info-no-smartcard-backup = Bi kartên jîr, hilanîna sertîfîkayan negengaz e.
 pkcs12-dup-data = Sertîfîka û Kilîta Kesane jixwe di pergala ewlekariyê de hene.
 
