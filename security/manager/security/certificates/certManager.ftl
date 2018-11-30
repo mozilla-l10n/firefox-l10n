@@ -11,6 +11,12 @@ certmgr-begins-value =
     .value = { certmgr-begins-label.label }
 certmgr-expires-value =
     .value = { certmgr-expires-label.label }
+pkcs12-decode-err = Fallo al decodificar el archivo. O no está en formato PKCS #12, o está corrupto, o la contraseña suministrada es incorrecta.
+pkcs12-unknown-err-restore = Fallo en la recuperación del archivo PKCS #12 por motivos desconocidos.
+pkcs12-unknown-err-backup = Se produjo un fallo por motivos desconocidos al guardar la copia de seguridad del archivo PKCS #12.
+pkcs12-unknown-err = La operación PKCS #12 falló por razones desconocidas.
+pkcs12-info-no-smartcard-backup = No es posible hacer copias de seguridad de certificados procedentes de dispositivos de seguridad hardware tales como tarjetas inteligentes.
+pkcs12-dup-data = El certificado y clave privada ya existen en el dispositivo de seguridad.
 
 ## PKCS#12 file dialogs
 
@@ -48,6 +54,13 @@ not-present =
     .value = <No es parte de un certificado>
 # Cert verification
 cert-verified = Este certificado ha sido verificado para los siguientes usos:
+# Add usage
+verify-ssl-client =
+    .value = Certificado del cliente SSL
+verify-ssl-server =
+    .value = Certificado del servidor SSL
+verify-ssl-ca =
+    .value = Autoridad Certificadora (CA) SSL
 # Cert verification
 cert-not-verified-cert-revoked = No se pudo verificar este certificado porque ha sido revocado.
 cert-not-verified-cert-expired = No se pudo verificar este certificado porque ha vencido.
