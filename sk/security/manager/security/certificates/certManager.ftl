@@ -185,6 +185,12 @@ cert-with-serial =
 
 ## Cert Viewer
 
+# Title used for the Certificate Viewer.
+#
+# Variables:
+#   $certificate : a string representative of the certificate being viewed.
+cert-viewer-title =
+    .title = Zobrazenie certifikátu: „{ $certName }“
 not-present =
     .value = <nie je súčasťou certifikátu>
 # Cert verification
