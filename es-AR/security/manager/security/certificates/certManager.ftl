@@ -50,9 +50,21 @@ delete-email-cert-title =
     .title = Eliminar certificados de correos
 delete-email-cert-confirm = ¿Está seguro de querer eliminar los certificados de correo de estas personas?
 delete-email-cert-impact = Si elimina un certificado de correo de alguien,  ya no podrá enviarle a esa persona coreo cifrado.
+# Used for semi-uniquely representing a cert.
+#
+# Variables:
+#   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
+cert-with-serial =
+    .value = Certificado con número de serie: { $serialNumber }
 
 ## Cert Viewer
 
+# Title used for the Certificate Viewer.
+#
+# Variables:
+#   $certificate : a string representative of the certificate being viewed.
+cert-viewer-title =
+    .title = Visor de certificado: “{ $certName }”
 not-present =
     .value = <No forma parte del certificado>
 # Cert verification
