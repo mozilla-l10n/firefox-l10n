@@ -21,7 +21,7 @@ their language. -->
 <!ENTITY searchreset.beforelink.pageInfo2 "ניתן לשנות את הגדרות אלו בכל עת מ">
 <!ENTITY searchreset.afterlink.pageInfo2  ".">
 
-<!ENTITY searchreset.link.pageInfo2       "עמוד הגדרות">
+<!ENTITY searchreset.link.pageInfo2       "דף ההגדרות">
 
 <!ENTITY searchreset.noChangeButton        "לא לשנות">
 <!ENTITY searchreset.noChangeButton.access "ל">
