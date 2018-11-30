@@ -186,6 +186,7 @@ add-exception-branded-warning = Rydych ar fin atal y ffordd mae { -brand-short-n
 add-exception-invalid-header = Mae'r wefan yn ceisio dweud pwy ydyw gyda gwybodaeth annilys.
 add-exception-domain-mismatch-short = Gwefan Anghywir
 add-exception-expired-short = Hen Wybodaeth
+add-exception-unverified-or-bad-signature-short = Hunaniaeth Anhysbys
 add-exception-valid-short = Tystysgrif Dilys
 add-exception-checking-short = Gwirio Gwybodaeth
 add-exception-no-cert-short = Dim Gwybodaeth ar Gael
