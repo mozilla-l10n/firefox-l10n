@@ -2,13 +2,88 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+certmgr-title =
+    .title = Менаџер сертификата
+certmgr-tab-mine =
+    .label = Ваши сертификати
+certmgr-tab-people =
+    .label = Људи
+certmgr-tab-servers =
+    .label = Сервери
+certmgr-tab-ca =
+    .label = Ауторитети
+certmgr-detail-general-tab-title =
+    .label = Основне поставке
+    .accesskey = О
+certmgr-detail-pretty-print-tab-title =
+    .label = Детаљи
+    .accesskey = Д
+certmgr-pending-label =
+    .value = Провера сертификата је у току…
+certmgr-subject-info-label =
+    .value = Издато за
+certmgr-issuer-info-label =
+    .value = Издато од
+certmgr-cert-detail-serialnumber =
+    .value = Серијски број
+certmgr-edit-cert-edit-trust = Измени поставке поверења:
+certmgr-edit-cert-trust-ssl =
+    .label = Овај сертификат може да идентификује веб сајтове.
+certmgr-delete-cert =
+    .title = Избриши сертификат
+    .style = width: 48em; height: 24em;
+certmgr-cert-name =
+    .label = Назив сертификата
+certmgr-cert-server =
+    .label = Сервер
+certmgr-override-lifetime =
+    .label = Животни век
+certmgr-token-name =
+    .label = Безбедносни уређај
 certmgr-begins-value =
     .value = { certmgr-begins-label.label }
+certmgr-expires-label =
+    .label = Истиче
 certmgr-expires-value =
     .value = { certmgr-expires-label.label }
+certmgr-serial =
+    .label = Серијски број
+certmgr-view =
+    .label = Преглед…
+    .accesskey = П
+certmgr-backup =
+    .label = Архивирај…
+    .accesskey = А
+certmgr-restore =
+    .label = Увоз…
+    .accesskey = У
+certmgr-details =
+    .value = Поља сертификата
+    .accesskey = П
+certmgr-fields =
+    .value = Вредност поља
+    .accesskey = В
+exception-mgr =
+    .title = Додавање безбедносног изузетка
+exception-mgr-cert-location-url =
+    .value = Адреса:
+exception-mgr-cert-location-download =
+    .label = Добави сертификат
+    .accesskey = В
+exception-mgr-permanent =
+    .label = Трајно сачувај овај изузетак
+    .accesskey = Т
+pk11-bad-password = Унешена лозинка није исправна.
+pkcs12-decode-err = Грешка при дешифровању датотеке. Можда то није датотека PKCS#12 , датотека није у реду или унешена лозинка није исправна.
+pkcs12-unknown-err-restore = Немогуће је обновити датотеку PKCS #12 из непознатог разлога.
+pkcs12-unknown-err = Операција PKCS #12 је неуспешно завршена из непознатог разлога.
+pkcs12-info-no-smartcard-backup = Немогуће је обновити сертификат са механизма заштите као што је смарт-картица.
+pkcs12-dup-data = Сертификат и затворени кључ већ постоји у механизму заштите.
 
 ## PKCS#12 file dialogs
 
+file-browse-pkcs12-spec = PKCS12 датотеке
+choose-p12-restore-file-dialog = Датотека потврде за увоз
 
 ## Import certificate(s) file dialog
 
@@ -18,9 +93,34 @@ certmgr-expires-value =
 
 ## For Deleting Certificates
 
+delete-user-cert-confirm = Да ли сигурно желите да уклоните ове сертификате?
+delete-ssl-cert-title =
+    .title = Уклони изузетак о серверском сертификату
+delete-ssl-cert-confirm = Да ли сигурно желите да уклоните ове серверске изузетке?
+delete-ssl-cert-impact = Ако уклоните серверски изузетак, враћате уобичајену проверу безбедности за сервер и захтевате да поседује важећи сертификат.
 
 ## Cert Viewer
 
+not-present =
+    .value = <Није део сертификата>
+# Cert verification
+cert-verified = Сертификат је потврђен за следеће кориснике:
+# Add usage
+verify-ssl-client =
+    .value = SSL сертификат клијента
+verify-ssl-server =
+    .value = SSL сертификат сервера
+cert-not-verified-cert-expired = Провера сертификата није могућа зато што је рок трајања истекао.
+cert-not-verified-issuer-not-trusted = Провера сертификата није могућа зато што је страна која га је издала небезбедна.
+cert-not-verified-unknown = Провера сертификата није могућа.
 
 ## Add Security Exception dialog
 
+add-exception-branded-warning = Само што нисте преиначили механизам за идентификацију сајта за програм { -brand-short-name }.
+add-exception-invalid-header = Сајт покушава да се представи помоћу неважећих информација.
+add-exception-domain-mismatch-short = Погрешан сајт
+add-exception-expired-short = Застарели подаци
+add-exception-valid-short = Важећи сертификат
+add-exception-valid-long = Сајт је дао важећи, проверени сертификат.  Нема потребе да додајете изузетак.
+add-exception-checking-short = Провера података
+add-exception-no-cert-short = Нема доступних података
