@@ -22,7 +22,7 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } es mes a jorn per un
 update-manual = Mesas a jorn disponiblas a <label data-l10n-name="manual-link"/>
 update-unsupported = La darrièra version es pas disponibla per vòstre sistèma. <label data-l10n-name="unsupported-link">Ne saber mai</label>
 update-restarting = Reaviada…
-channel-description = Actualament, utilizatz lo canal de mesa a jorn <label data-l10n-name="current-channel"></label> per metre a jorn.{ " " }
+channel-description = Actualament, utilizatz lo canal de mesa a jorn <label data-l10n-name="current-channel"></label> per metre a jorn.
 warningDesc-version = { -brand-short-name } es experimental e pòt èsser instable.
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> es una <label data-l10n-name="community-exp-creditsLink">comunautat mondiala</label> de contributors que trabalhan amassa per gardar Internet dobèrt, public e accessible a totes.
 community-2 = { -brand-short-name } es concebut per <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, una <label data-l10n-name="community-creditsLink">contributors</label> que trabalhan amassa per gardar Internet dobèrt, public e accessible a totes.
