@@ -10,6 +10,15 @@ certmgr-tab-people =
     .label = 个人
 certmgr-tab-servers =
     .label = 服务器
+certmgr-tab-ca =
+    .label = 证书颁发机构
+certmgr-mine = 您有下列组织的证书可以识别您自己
+certmgr-people = 您有用来识别这些人的证书文件
+certmgr-servers = 您有用来识别这些服务器的证书文件
+certmgr-ca = 您有用来识别这些证书颁发机构的证书文件
+certmgr-detail-general-tab-title =
+    .label = 基本信息
+    .accesskey = G
 certmgr-detail-pretty-print-tab-title =
     .label = 详细信息
     .accesskey = D
@@ -27,12 +36,21 @@ certmgr-cert-detail =
     .title = 证书细节
     .buttonlabelaccept = 关闭
     .buttonaccesskeyaccept = C
+certmgr-cert-detail-cn =
+    .value = 一般名称 (CN)
+certmgr-cert-detail-o =
+    .value = 组织 (O)
+certmgr-cert-detail-ou =
+    .value = 组织单位 (OU)
 certmgr-cert-detail-serialnumber =
     .value = 序列号
 certmgr-cert-detail-sha256-fingerprint =
     .value = SHA-256 指纹
 certmgr-cert-detail-sha1-fingerprint =
     .value = SHA1 指纹
+certmgr-edit-ca-cert =
+    .title = 编辑证书颁发机构信任关系设置
+    .style = width: 48em;
 certmgr-edit-cert-edit-trust = 编辑信任设置：
 certmgr-edit-cert-trust-ssl =
     .label = 此证书可以标识网站。
@@ -91,6 +109,9 @@ certmgr-details =
 certmgr-fields =
     .value = 字段值
     .accesskey = V
+certmgr-hierarchy =
+    .value = 证书层次结构
+    .accesskey = H
 certmgr-add-exception =
     .label = 添加例外…
     .accesskey = x
@@ -99,6 +120,7 @@ exception-mgr =
 exception-mgr-extra-button =
     .label = 确认安全例外
     .accesskey = C
+exception-mgr-supplemental-warning = 合法的银行、电商以及其他公共网站不会要求您这么做。
 exception-mgr-cert-location-url =
     .value = 地址:
 exception-mgr-cert-location-download =
@@ -132,6 +154,9 @@ import-email-cert-prompt = 请选择包含要导入的包含某人邮件证书�
 
 ## For editing certificates trust
 
+# Variables:
+#   $certName: the name of certificate
+edit-trust-ca = 此证书“{ $certName }”代表了一个数字证书颁发机构（CA）。
 
 ## For Deleting Certificates
 
@@ -142,6 +167,7 @@ delete-user-cert-impact = 如果您删除了某个您自己的证书，您将无
 delete-ssl-cert-title =
     .title = 删除服务器证书例外
 delete-ssl-cert-confirm = 您确定要删除这些服务器例外吗？
+delete-ssl-cert-impact = 如果您删除一个服务器例外，下次您再访问该服务器时会恢复要求该网站使用有效的证书，您可能又会收到服务器证书无效的提示。
 delete-ca-cert-title =
     .title = 删除或不信任 CA 证书
 delete-ca-cert-confirm = 您已请求删除这些 CA 证书。内建的证书将被取消所有信任使操作达到同样的效果。您确认要删除或取消信任吗？
@@ -195,7 +221,9 @@ cert-not-verified-unknown = 因为未知原因，无法验证此证书。
 add-exception-branded-warning = 您将指定 { -brand-short-name } 如何来标识此站点。
 add-exception-invalid-header = 此站点尝试使用无效的信息来标识自身。
 add-exception-domain-mismatch-short = 错误的站点
+add-exception-domain-mismatch-long = 证书属于其他网站，有可能是某人想要冒充此网站。
 add-exception-expired-short = 过时的信息
+add-exception-expired-long = 该证书目前无效。它可能已被失窃或遗失，并可能被某人用于冒充此网站。
 add-exception-unverified-or-bad-signature-short = 未知标识
 add-exception-unverified-or-bad-signature-long = 无法核实此证书是否由受信任的颁发机构以安全方式签署，因此不能信任此证书。
 add-exception-valid-short = 有效的证书
