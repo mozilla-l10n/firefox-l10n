@@ -92,6 +92,7 @@ certmgr-fields =
     .accesskey = V
 exception-mgr =
     .title = Dodaj sigurnosnu iznimku
+exception-mgr-supplemental-warning = Legitimne banke, trgovine i ostale javne stranice vas neće tražiti da ovo učinite.
 exception-mgr-cert-location-url =
     .value = Lokacija:
 exception-mgr-cert-location-download =
