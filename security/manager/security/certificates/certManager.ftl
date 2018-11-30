@@ -129,6 +129,7 @@ exception-mgr-permanent =
     .label = Glac leis an eisceacht seo go buan
     .accesskey = G
 pk11-bad-password = Bhí an focal faire mícheart.
+pkcs12-decode-err = Níorbh fhéidir an comhad a dhíchódú. B'fhéidir nach bhfuil sé i bhformáid PKCS #12, nó go bhfuil sé truaillithe, nó gur chuir tú an focal faire mícheart isteach.
 pkcs12-unknown-err-restore = Níorbh fhéidir an comhad PKCS #12 a chur ar ais, ach ní fios cén fáth.
 pkcs12-unknown-err-backup = Níor éirigh le cruthú an chomhaid chúltaca PKCS #12 ach ní fios cén fáth.
 pkcs12-unknown-err = Theip ar an obráid PKCS #12, ach ní fios cén fáth.
@@ -145,9 +146,13 @@ choose-p12-restore-file-dialog = Comhad teastais atá le hiompórtáil
 
 file-browse-certificate-spec = Comhaid Teastais
 import-ca-certs-prompt = Roghnaigh comha(i)d ina bhfuil teasta(i)s ó Údará(i)s Deimhniúcháin atá le hiompórtáil.
+import-email-cert-prompt = Roghnaigh comhad ina bhfuil teastas ríomhphoist atá le hiompórtáil
 
 ## For editing certificates trust
 
+# Variables:
+#   $certName: the name of certificate
+edit-trust-ca = Léiríonn an teastas “{ $certName }” Údarás Deimhniúcháin.
 
 ## For Deleting Certificates
 
@@ -161,12 +166,27 @@ delete-ssl-cert-confirm = An bhfuil tú cinnte gur mian leat na heisceachtaí fr
 delete-ssl-cert-impact = Má scriosann tú eisceacht freastalaí, cuirtear an ghnáthsheiceáil slándála i bhfeidhm arís don fhreastalaí sin agus beidh teastas bailí de dhíth uaidh.
 delete-ca-cert-title =
     .title = Scrios nó bí mímhuiníneach as teastais ó údaráis deimhniúcháin
+delete-ca-cert-confirm = D'iarr tú na teastais seo ó údaráis deimhniúcháin a scrios. I gcás na dteastas inmheánacha, beifear mímhuiníneach ar fad astu, leis an éifeacht chéanna. An bhfuil tú cinnte go dteastaíonn uait iad a scrios nó bheith mímhuiníneach astu?
 delete-ca-cert-impact = Má scriosann tú teastas ó údarás deimhniúcháin, nó má tá tú mímhuiníneach as, ní bheidh muinín ag an bhfeidhmchlár seo as teastas ar bith eisithe ag an údarás deimhniúcháin sin.
 delete-email-cert-title =
     .title = Scrios Teastais Ríomhphoist
+delete-email-cert-confirm = An bhfuil tú cinnte gur mian leat teastais ríomhphoist na ndaoine seo a scriosadh?
+delete-email-cert-impact = Má scriosann tú teastas ríomhphoist duine, ní bheidh tú in ann ríomhphost criptithe a sheoladh chuige a thuilleadh.
+# Used for semi-uniquely representing a cert.
+#
+# Variables:
+#   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
+cert-with-serial =
+    .value = Teastas le sraithuimhir: { $serialNumber }
 
 ## Cert Viewer
 
+# Title used for the Certificate Viewer.
+#
+# Variables:
+#   $certificate : a string representative of the certificate being viewed.
+cert-viewer-title =
+    .title = Amharcán Teastais: “{ $certName }”
 not-present =
     .value = <Ní ina chuid den Teastas>
 # Cert verification
@@ -201,6 +221,7 @@ add-exception-domain-mismatch-long = Is le suíomh eile an teastas, rud a d'fhé
 add-exception-expired-short = Faisnéis as Dáta
 add-exception-expired-long = Níl an teastas bailí faoi láthair. Seans go raibh sé goidte nó caillte, agus d'fhéadfadh duine éigin é a úsáid chun an suíomh seo a phearsanú.
 add-exception-unverified-or-bad-signature-short = Aitheantas Anaithnid
+add-exception-unverified-or-bad-signature-long = Ní chuirtear muinín sa teastas toisc nach bhfuil sé fíoraithe ag údarás aitheanta le síniú slán.
 add-exception-valid-short = Teastas Bailí
 add-exception-valid-long = Soláthraíonn an suíomh sainaitheantas bailí fíoraithe. Ní gá eisceacht a chruthú.
 add-exception-checking-short = Eolas á sheiceáil
