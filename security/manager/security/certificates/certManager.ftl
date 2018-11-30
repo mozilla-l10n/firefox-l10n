@@ -169,9 +169,21 @@ delete-email-cert-title =
     .title = Избришите сертификат е-поште
 delete-email-cert-confirm = Да ли сте сигурни да желите да избришете сертификате е-поште за следеће кориснике?
 delete-email-cert-impact = Ако уклоните сертификат за е-пошту неке особе, више нећете моћи да јој шаљете е-пошту.
+# Used for semi-uniquely representing a cert.
+#
+# Variables:
+#   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
+cert-with-serial =
+    .value = Сертификат са серијским бројем: { $serialNumber }
 
 ## Cert Viewer
 
+# Title used for the Certificate Viewer.
+#
+# Variables:
+#   $certificate : a string representative of the certificate being viewed.
+cert-viewer-title =
+    .title = Прегледач сертификата: “{ $certName }”
 not-present =
     .value = <Није део сертификата>
 # Cert verification
