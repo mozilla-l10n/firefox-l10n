@@ -4,6 +4,8 @@
 
 certmgr-tab-mine =
     .label = Dine sertifikat
+certmgr-tab-people =
+    .label = Personar
 certmgr-tab-servers =
     .label = Tenarar
 certmgr-detail-general-tab-title =
@@ -12,6 +14,10 @@ certmgr-detail-general-tab-title =
 certmgr-detail-pretty-print-tab-title =
     .label = Detaljar
     .accesskey = D
+certmgr-subject-info-label =
+    .value = Skrive ut til
+certmgr-issuer-info-label =
+    .value = Skrive ut av
 certmgr-fingerprints-label =
     .value = Fingeravtrykk
 certmgr-cert-detail-cn =
@@ -31,6 +37,8 @@ certmgr-cert-name =
     .label = Sertifikatnamn
 certmgr-cert-server =
     .label = Tenar
+certmgr-override-lifetime =
+    .label = Levetid
 certmgr-begins-value =
     .value = { certmgr-begins-label.label }
 certmgr-expires-label =
@@ -41,8 +49,18 @@ certmgr-email =
     .label = E-postadresse
 certmgr-serial =
     .label = Serienummer
+certmgr-details =
+    .value = Sertifikatfelt
+    .accesskey = r
+certmgr-fields =
+    .value = Feltverdi
+    .accesskey = F
 exception-mgr-cert-location-url =
     .value = Adresse:
+exception-mgr-cert-location-download =
+    .label = Hent sertifikat
+    .accesskey = H
+pk11-bad-password = Passordet du skreiv inn er ugyldig.
 
 ## PKCS#12 file dialogs
 
@@ -61,6 +79,8 @@ import-ca-certs-prompt = Vel fil som inneheld CA-sertifikat(a) du vil importerae
 
 delete-user-cert-title =
     .title = Slett sertifikata dine
+delete-ssl-cert-title =
+    .title = Slett unntak i nettstadsertifikat
 delete-email-cert-title =
     .title = Slett e-postsertifikat
 
@@ -68,6 +88,10 @@ delete-email-cert-title =
 
 not-present =
     .value = <Ikkje ein del av sertifikatet>
+verify-ssl-server =
+    .value = SSL tenarsertifikat
+verify-email-signer =
+    .value = Signatursertifikat for e-post
 
 ## Add Security Exception dialog
 
@@ -75,3 +99,4 @@ add-exception-branded-warning = Du overstyrer no korleis { -brand-short-name } i
 add-exception-domain-mismatch-short = Feil nettstad
 add-exception-valid-short = Gyldig sertifikat
 add-exception-checking-short = Kontrollerer informasjon
+add-exception-no-cert-short = Ingen informasjon er tilgjengeleg
