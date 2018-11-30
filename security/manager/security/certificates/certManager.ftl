@@ -5,6 +5,8 @@
 certmgr-detail-pretty-print-tab-title =
     .label = Išsamesnė
     .accesskey = I
+certmgr-cert-detail-sha256-fingerprint =
+    .value = SHA-256 kontrolinis kodas
 certmgr-begins-value =
     .value = { certmgr-begins-label.label }
 certmgr-expires-value =
@@ -12,11 +14,17 @@ certmgr-expires-value =
 certmgr-view =
     .label = Peržiūrėti…
     .accesskey = P
+certmgr-edit =
+    .label = Taisyti pasitikėjimą…
+    .accesskey = T
 certmgr-export =
     .label = Eksportuoti…
     .accesskey = E
 certmgr-delete =
     .label = Pašalinti…
+    .accesskey = š
+certmgr-delete-builtin =
+    .label = Pašalinti arba nepasitikėti…
     .accesskey = š
 certmgr-backup =
     .label = Archyvuoti…
@@ -38,6 +46,9 @@ certmgr-add-exception =
     .accesskey = m
 exception-mgr =
     .title = Saugumo išimties pritaikymas
+exception-mgr-extra-button =
+    .label = Patvirtinti saugumo išimtį
+    .accesskey = P
 exception-mgr-supplemental-warning = Patikimi bankai, parduotuvės ir kitos viešos svetainės neprašytų šito daryti.
 exception-mgr-cert-location-url =
     .value = Adresas:
@@ -47,14 +58,19 @@ exception-mgr-cert-location-download =
 exception-mgr-cert-status-view-cert =
     .label = Parodyti…
     .accesskey = r
+exception-mgr-permanent =
+    .label = Įrašyti šią išimtį visam laikui
+    .accesskey = v
 pk11-bad-password = Neteisingas slaptažodis.
 pkcs12-unknown-err-restore = Nepavyko atstatyti PKCS Nr. 12 failo (priežastis neaiški).
+pkcs12-info-no-smartcard-backup = Aparatinėje įrangoje (pvz., lustinėje kortelėje) esančio liudijimo atsarginės kopijos nedaromos.
 pkcs12-dup-data = Saugumo priemonėje šis liudijimas ir privatusis raktas jau yra.
 
 ## PKCS#12 file dialogs
 
 choose-p12-backup-file-dialog = Archyvuojamo failo vardas
 file-browse-pkcs12-spec = PKCS12 failai
+choose-p12-restore-file-dialog = Importuotino failo vardas
 
 ## Import certificate(s) file dialog
 
@@ -74,6 +90,10 @@ delete-ssl-cert-title =
     .title = Serverių liudijimams taikomų išimčių atsisakymas
 delete-ssl-cert-confirm = Ar tikrai pašalinti šiems serveriams taikomas išimtis?
 delete-ssl-cert-impact = Nustojus serveriui taikyti išimtį, šiai sričiai bus taikomos įprastos saugumo patikros procedūros ir bus reikalaujama galiojančio liudijimo.
+delete-ca-cert-title =
+    .title = Pasitikėjimo LĮ liudijimais nutraukimas ir jų šalinimas
+delete-ca-cert-confirm = Jūs nurodėte pašalinti šiuos LĮ liudijimus. Įtaisytųjų liudijimų atveju, užuot juos pašalinus, bus visiškai nutrauktas pasitikėjimas jais (šio veiksmo efektas toks pat). Ar norite, kad liudijimai būtų pašalinti arba nutrauktas pasitikėjimas jais?
+delete-ca-cert-impact = Pašalinus liudijimų įstaigos (LĮ) liudijimą arba nutraukus pasitikėjimą juo, programa nebepasitikės jokiais šios LĮ išduodamais liudijimais.
 delete-email-cert-title =
     .title = El. pašto liudijimų šalinimas
 
@@ -101,6 +121,7 @@ cert-not-verified-cert-not-trusted = Negalima patikrinti šio liudijimo, nes juo
 cert-not-verified-issuer-not-trusted = Negalima patikrinti šio liudijimo, nes jį išdavusia LĮ nepasitikima.
 cert-not-verified-issuer-unknown = Negalima patikrinti šio liudijimo, nes nežinomas jo išdavėjas.
 cert-not-verified-ca-invalid = Negalima patikrinti šio liudijimo, nes LĮ liudijimas negalioja.
+cert-not-verified_algorithm-disabled = Negalima patikrinti šio liudijimo, nes jis pasirašytas, naudojant parašo algoritmą, kuris yra išjungtas, nes nesaugus.
 cert-not-verified-unknown = Negalima patikrinti šio liudijimo (priežastys nežinomos).
 
 ## Add Security Exception dialog
@@ -109,6 +130,7 @@ add-exception-branded-warning = Ketinate šiai svetainei netaikyti „{ -brand-s
 add-exception-invalid-header = Ši svetainė bando patvirtinti savo tapatybę, naudodama netinkamus duomenis.
 add-exception-domain-mismatch-short = Ne ta svetainė
 add-exception-expired-short = Pasenę duomenys
+add-exception-unverified-or-bad-signature-short = Nežinoma tapatybė
 add-exception-valid-short = Liudijimas galioja
 add-exception-valid-long = Ši svetainės tapatybė tiksli ir patvirtinta. Nėra poreikio pridėti išimčiai.
 add-exception-checking-short = Tikrinami duomenys
