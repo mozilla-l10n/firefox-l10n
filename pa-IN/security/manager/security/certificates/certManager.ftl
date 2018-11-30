@@ -2,10 +2,20 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+certmgr-title =
+    .title = ਸਰਟੀਫਕੇਟ ਮੈਨੇਜਰ
+certmgr-tab-mine =
+    .label = ਤੁਹਾਡਾ ਸਰਟੀਫਕੇਟ
 certmgr-tab-people =
     .label = ਲੋਕ
 certmgr-tab-servers =
     .label = ਸਰਵਰ
+certmgr-tab-ca =
+    .label = ਅਥਾਰਟੀ
+certmgr-mine = ਤੁਹਾਡੇ ਕੋਲ ਇਹਨਾਂ ਸੰਗਠਨਾਂ ਤੋਂ ਸਰਟੀਫਿਕੇਟ ਹਨ, ਜੋ ਤੁਹਾਨੂੰ ਪਛਾਣਦੀਆਂ ਹਨ
+certmgr-people = ਤੁਹਾਡੇ ਕੋਲ ਫ਼ਾਈਲ ਉੱਤੇ ਸਰਟੀਫਿਕੇਟ ਹਨ, ਜੋ ਕਿ ਇਹਨਾਂ ਲੋਕਾਂ ਦੀ ਪਛਾਣ ਕਰਦੇ ਹਨ
+certmgr-servers = ਤੁਹਾਡੇ ਕੋਲ ਫ਼ਾਈਲ ਉੱਤੇ ਸਰਟੀਫਿਕੇਟ ਹਨ, ਜੋ ਕਿ ਇਹਨਾਂ ਸਰਵਰਾਂ ਦੀ ਪਛਾਣ ਕਰਦੇ ਹਨ
+certmgr-ca = ਤੁਹਾਡੇ ਕੋਲ ਫਾਇਲ 'ਤੇ ਸਰਟੀਫਿਕੇਟ ਹਨ, ਜੋ ਕਿ ਇਹਨਾਂ ਸਰਟੀਫਿਕੇਟ ਅਥਾਰਟੀਆਂ ਦੀ ਪਛਾਣ ਕਰਦੇ ਹਨ
 certmgr-detail-general-tab-title =
     .label = ਆਮ
     .accesskey = G
@@ -14,10 +24,43 @@ certmgr-detail-pretty-print-tab-title =
     .accesskey = D
 certmgr-pending-label =
     .value = ਹੁਣ ਸਰਟੀਫਿਕੇਟ ਦੀ ਜਾਂਚ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ...
+certmgr-subject-info-label =
+    .value = ਇਸ ਨੂੰ ਜਾਰੀ
+certmgr-issuer-info-label =
+    .value = ਇਸ ਵਲੋਂ ਜਾਰੀ
 certmgr-period-of-validity-label =
     .value = ਵੈਧਤਾ ਦਾ ਅੰਤਰਾਲ
+certmgr-fingerprints-label =
+    .value = ਫਿੰਗਰਪਰਿੰਟ
+certmgr-cert-detail =
+    .title = ਸਰਟੀਫਕੇਟ ਵੇਰਵਾ
+    .buttonlabelaccept = ਬੰਦ ਕਰੋ
+    .buttonaccesskeyaccept = C
+certmgr-cert-detail-cn =
+    .value = ਆਮ ਨਾਂ (CN)
+certmgr-cert-detail-o =
+    .value = ਸੰਗਠਨ (O)
+certmgr-cert-detail-ou =
+    .value = ਸੰਗਠਨ ਯੂਨਿਟ (OU)
+certmgr-cert-detail-serialnumber =
+    .value = ਸੀਰੀਅਲ ਨੰਬਰ
 certmgr-cert-detail-sha256-fingerprint =
     .value = SHA-256 ਫਿੰਗਰਪਰਿੰਟ
+certmgr-cert-detail-sha1-fingerprint =
+    .value = SHA1 ਫਿੰਗਰਪਰਿੰਟ
+certmgr-edit-ca-cert =
+    .title = CA ਸਰਟੀਫਿਕੇਟ ਟਰੱਸਟ ਸੈਟਿੰਗ ਸੋਧ
+    .style = width: 48em;
+certmgr-edit-cert-edit-trust = ਟਰੱਸਟ ਸੈਟਿੰਗਾਂ ਨੂੰ ਸੋਧੋ:
+certmgr-edit-cert-trust-ssl =
+    .label = ਇਹ ਸਰਟੀਫਿਕੇਟ ਵੈੱਬ ਸਾਇਟਾਂ ਦੀ ਪਛਾਣ ਕਰ ਸਕਦਾ ਹੈ।
+certmgr-edit-cert-trust-email =
+    .label = ਇਹ ਸਰਟੀਫਿਕੇਟ ਮੇਲ ਯੂਜ਼ਰਾਂ ਨੂੰ ਪਛਾਣ ਸਕਦਾ ਹੈ।
+certmgr-delete-cert =
+    .title = ਸਰਟੀਫਕੇਟ ਨੂੰ ਹਟਾਓ
+    .style = width: 48em; height: 24em;
+certmgr-cert-name =
+    .label = ਸਰਟੀਫਿਕੇਟ ਨਾਂ
 certmgr-cert-server =
     .label = ਸਰਵਰ
 certmgr-override-lifetime =
@@ -36,15 +79,30 @@ certmgr-email =
     .label = ਈਮੇਲ ਐਡਰੈੱਸ
 certmgr-serial =
     .label = ਸੀਰੀਅਲ ਨੰਬਰ
+certmgr-view =
+    .label = … ਨੂੰ ਵੇਖੋ
+    .accesskey = V
 certmgr-edit =
     .label = ਭਰੋਸੇ ਨੂੰ ਸੋਧ…
     .accesskey = E
 certmgr-export =
     .label = …ਨੂੰ ਐਕਸਪੋਰਟ
     .accesskey = x
+certmgr-delete =
+    .label = …ਨੂੰ ਹਟਾਓ
+    .accesskey = D
 certmgr-delete-builtin =
     .label = …ਹਟਾਓ ਜਾਂ ਗ਼ੈਰ-ਭਰੋਸੇਯੋਗ
     .accesskey = D
+certmgr-backup =
+    .label = …ਬੈਕਅੱਪ
+    .accesskey = B
+certmgr-backup-all =
+    .label = …ਸਭ ਬੈਕਅੱਪ
+    .accesskey = k
+certmgr-restore =
+    .label = …ਨੂੰ ਇੰਪੋਰਟ
+    .accesskey = m
 certmgr-details =
     .value = ਸਰਟੀਫਿਕੇਟ ਖੇਤਰ
     .accesskey = F
@@ -118,9 +176,21 @@ delete-email-cert-title =
     .title = ਈ-ਮੇਲ ਸਰਟੀਫਿਕੇਟ ਨੂੰ ਹਟਾਓ
 delete-email-cert-confirm = ਕੀ ਤੁਸੀਂ ਇਹ ਲੋਕਾਂ ਦੇ ਈਮੇਲ ਸਰਟੀਫਿਕੇਟ ਹਟਾਉਣੇ ਚਾਹੁੰਦੇ ਹੋ?
 delete-email-cert-impact = ਜੇ ਤੁਸੀਂ ਇੱਕ ਵਿਅਕਤੀ ਦਾ ਈਮੇਲ ਸਰਟੀਫਿਕੇਟ ਹਟਾ ਦਿੱਤਾ ਤਾਂ ਤੁਸੀਂ ਉਸ ਵਿਅਕਤੀ ਨੂੰ ਇਕ੍ਰਿਪਟ ਕਰਕੇ ਈਮੇਲ ਨਹੀਂ ਭੇਜ ਸਕੋਗੇ।
+# Used for semi-uniquely representing a cert.
+#
+# Variables:
+#   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
+cert-with-serial =
+    .value = ਲੜੀ ਨੰਬਰ ਨਾਲ ਸਰਟੀਫਿਕੇਟ: { $serialNumber }
 
 ## Cert Viewer
 
+# Title used for the Certificate Viewer.
+#
+# Variables:
+#   $certificate : a string representative of the certificate being viewed.
+cert-viewer-title =
+    .title = ਸਰਟੀਫਿਕੇਟ ਦਰਸ਼ਕ: “{ $certName }”
 not-present =
     .value = <ਸਰਟੀਫਿਕੇਟ ਦਾ ਭਾਗ ਨਹੀਂ>
 # Cert verification
