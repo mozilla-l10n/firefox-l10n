@@ -93,6 +93,7 @@ pkcs12-info-no-smartcard-backup = Não é possível efetuar backup de certificad
 
 choose-p12-backup-file-dialog = Arquivo para fazer o backup
 file-browse-pkcs12-spec = Arquivos PKCS12
+choose-p12-restore-file-dialog = Importar arquivo de certificado
 
 ## Import certificate(s) file dialog
 
