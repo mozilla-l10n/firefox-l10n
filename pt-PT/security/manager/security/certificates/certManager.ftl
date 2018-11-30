@@ -12,6 +12,10 @@ certmgr-tab-servers =
     .label = Servidores
 certmgr-tab-ca =
     .label = Autoridades
+certmgr-mine = Tem certificados destas organizações que lhe identificam
+certmgr-people = Tem certificados em ficheiro que identificam estas pessoas
+certmgr-servers = Tem certificados em ficheiro que identificam estes servidores
+certmgr-ca = Tem certificados em ficheiro que identificam estas autoridades de certificados
 certmgr-detail-general-tab-title =
     .label = Geral
     .accesskey = G
@@ -63,6 +67,8 @@ certmgr-override-lifetime =
     .label = Validade
 certmgr-token-name =
     .label = Dispositivo de segurança
+certmgr-begins-label =
+    .label = Inicia em
 certmgr-begins-value =
     .value = { certmgr-begins-label.label }
 certmgr-expires-label =
@@ -84,6 +90,9 @@ certmgr-export =
     .accesskey = x
 certmgr-delete =
     .label = Apagar…
+    .accesskey = A
+certmgr-delete-builtin =
+    .label = Apagar ou desconfiar…
     .accesskey = A
 certmgr-backup =
     .label = Cópia de segurança…
@@ -145,18 +154,23 @@ import-email-cert-prompt = Selecione o ficheiro que contém o certificado de ema
 
 ## For editing certificates trust
 
+# Variables:
+#   $certName: the name of certificate
+edit-trust-ca = O certificado “{ $certName }” representa uma autoridade certificadora.
 
 ## For Deleting Certificates
 
 delete-user-cert-title =
     .title = Apagar os meus certificados
 delete-user-cert-confirm = Tem a certeza de que pretende apagar estes certificados?
+delete-user-cert-impact = Se apagar um dos seus certificados, não o poderá mais utilizar para se identificar.
 delete-ssl-cert-title =
     .title = Apagar exceções de certificados de servidores
 delete-ssl-cert-confirm = Tem a certeza de que pretende apagar estas exceções de segurança?
 delete-ssl-cert-impact = Se apagar uma exceção de segurança, irá restaurar as verificações de segurança para os servidores, requerendo um certificado válido.
 delete-ca-cert-title =
     .title = Apagar ou desconfiar de certificados CA
+delete-ca-cert-confirm = Pediu para apagar estes certificados CA. Para certificados integrados, será removida toda a confiança que tem o mesmo efeito. Tem a certeza de que pretende apagar ou desconfiar?
 delete-ca-cert-impact = Se apagar ou desconfiar um certificado de uma autoridade certificada (CA), esta aplicação deixará de confiar de qualquer certificado dessa CA.
 delete-email-cert-title =
     .title = Apagar certificados de e-mail
