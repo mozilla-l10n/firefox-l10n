@@ -24,6 +24,8 @@ certmgr-subject-info-label =
     .value = Issued To
 certmgr-issuer-info-label =
     .value = Issued By
+certmgr-period-of-validity-label =
+    .value = Period of Validity
 certmgr-fingerprints-label =
     .value = Fingerprints
 certmgr-cert-detail =
@@ -38,6 +40,8 @@ certmgr-cert-detail-ou =
     .value = Organizational Unit (OU)
 certmgr-cert-detail-serialnumber =
     .value = Serial Number
+certmgr-cert-detail-sha256-fingerprint =
+    .value = SHA-256 Fingerprint
 certmgr-cert-detail-sha1-fingerprint =
     .value = SHA1 Fingerprint
 certmgr-edit-ca-cert =
@@ -59,6 +63,8 @@ certmgr-override-lifetime =
     .label = Lifetime
 certmgr-token-name =
     .label = Security Device
+certmgr-begins-label =
+    .label = Begins On
 certmgr-begins-value =
     .value = { certmgr-begins-label.label }
 certmgr-expires-label =
@@ -99,6 +105,9 @@ certmgr-details =
 certmgr-fields =
     .value = Field Value
     .accesskey = V
+certmgr-hierarchy =
+    .value = Certificate Hierarchy
+    .accesskey = H
 certmgr-add-exception =
     .label = Add Exception…
     .accesskey = x
@@ -137,9 +146,13 @@ choose-p12-restore-file-dialog = Certificate File to Import
 
 file-browse-certificate-spec = Certificate Files
 import-ca-certs-prompt = Select File containing CA certificate(s) to import
+import-email-cert-prompt = Select File containing somebody's Email certificate to import
 
 ## For editing certificates trust
 
+# Variables:
+#   $certName: the name of certificate
+edit-trust-ca = The certificate "{ $certName }" represents a Certificate Authority.
 
 ## For Deleting Certificates
 
@@ -157,6 +170,8 @@ delete-ca-cert-confirm = You have requested to delete these CA certificates. For
 delete-ca-cert-impact = If you delete or distrust a certificate authority (CA) certificate, this application will no longer trust any certificates issued by that CA.
 delete-email-cert-title =
     .title = Delete E-Mail Certificates
+delete-email-cert-confirm = Are you sure you want to delete these people's e-mail certificates?
+delete-email-cert-impact = If you delete a person's e-mail certificate, you will no longer be able to send encrypted e-mail to that person.
 
 ## Cert Viewer
 
@@ -190,9 +205,14 @@ cert-not-verified-unknown = Could not verify this certificate for unknown reason
 add-exception-branded-warning = You are about to override how { -brand-short-name } identifies this site.
 add-exception-invalid-header = This site attempts to identify itself with invalid information.
 add-exception-domain-mismatch-short = Wrong Site
+add-exception-domain-mismatch-long = The certificate belongs to a different site, which could mean that someone is trying to impersonate this site.
 add-exception-expired-short = Outdated Information
+add-exception-expired-long = The certificate is not currently valid. It may have been stolen or lost, and could be used by someone to impersonate this site.
 add-exception-unverified-or-bad-signature-short = Unknown Identity
+add-exception-unverified-or-bad-signature-long = The certificate is not trusted because it hasn't been verified as issued by a trusted authority using a secure signature.
 add-exception-valid-short = Valid Certificate
 add-exception-valid-long = This site provides valid, verified identification.  There is no need to add an exception.
 add-exception-checking-short = Checking Information
+add-exception-checking-long = Attempting to identify this site…
 add-exception-no-cert-short = No Information Available
+add-exception-no-cert-long = Unable to obtain identification status for this site.
