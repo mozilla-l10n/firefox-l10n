@@ -50,5 +50,9 @@
 <!ENTITY  dnsOverHttpsUrl.label         "Adresa URL">
 <!ENTITY  dnsOverHttpsUrl.accesskey     "R">
 <!ENTITY  dnsOverHttpsUrl.tooltip       "URL pre DNS cez HTTPS">
+<!ENTITY  dnsOverHttpsUrlDefault.label     "Použiť predvolenú">
+<!ENTITY  dnsOverHttpsUrlDefault.accesskey "P">
+<!ENTITY  dnsOverHttpsUrlDefault.tooltip   "Použiť predvolenú URL pre DNS cez HTTPS">
 <!ENTITY  dnsOverHttpsUrlCustom.label      "Vlastná">
 <!ENTITY  dnsOverHttpsUrlCustom.accesskey  "t">
+<!ENTITY  dnsOverHttpsUrlCustom.tooltip    "Zadajte svoju preferovanú URL adresu pre DNS cez HTTPS">
