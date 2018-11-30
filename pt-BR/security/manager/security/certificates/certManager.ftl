@@ -53,10 +53,16 @@ certmgr-expires-value =
     .value = { certmgr-expires-label.label }
 certmgr-serial =
     .label = Número de série
+certmgr-edit =
+    .label = Confiança…
+    .accesskey = o
 certmgr-export =
     .label = Exportar…
     .accesskey = E
 certmgr-delete =
+    .label = Excluir…
+    .accesskey = c
+certmgr-delete-builtin =
     .label = Excluir…
     .accesskey = c
 certmgr-backup =
@@ -73,6 +79,9 @@ certmgr-add-exception =
     .accesskey = A
 exception-mgr =
     .title = Adicionar exceção de segurança
+exception-mgr-extra-button =
+    .label = Confirmar exceção de segurança
+    .accesskey = C
 exception-mgr-supplemental-warning = Bancos, lojas e outros sites públicos legítimos nunca solicitarão a você que faça isso.
 exception-mgr-cert-location-url =
     .value = Endereço:
@@ -114,6 +123,8 @@ delete-user-cert-confirm = Tem certeza que deseja excluir estes certificados?
 delete-ssl-cert-title =
     .title = Excluir exceções de certificados de servidores
 delete-ssl-cert-confirm = Tem certeza que deseja excluir estas exceções de servidores?
+delete-ca-cert-title =
+    .title = Excluir certificados de CA
 
 ## Cert Viewer
 
