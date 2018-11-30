@@ -176,6 +176,12 @@ delete-email-cert-title =
     .title = Fshini Dëshmi Email-esh
 delete-email-cert-confirm = Jeni i sigurt se doni të fshihen këto dëshmi email-esh personash?
 delete-email-cert-impact = Nëse fshini dëshminë e email-it të dikujt, nuk do të jeni më në gjendje t’i dërgoni atij personi email të fshehtëzuar.
+# Used for semi-uniquely representing a cert.
+#
+# Variables:
+#   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
+cert-with-serial =
+    .value = Dëshmia me numër serial: { $serialNumber }
 
 ## Cert Viewer
 
