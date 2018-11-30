@@ -1,0 +1,166 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+certmgr-title =
+    .title = Sertifikatbehandling
+certmgr-tab-mine =
+    .label = Dine sertifikater
+certmgr-tab-people =
+    .label = Personer
+certmgr-tab-ca =
+    .label = Utstedere
+certmgr-detail-general-tab-title =
+    .label = Generelt
+    .accesskey = G
+certmgr-detail-pretty-print-tab-title =
+    .label = Detaljer
+    .accesskey = D
+certmgr-pending-label =
+    .value = Kontrollerer sertifikat …
+certmgr-subject-info-label =
+    .value = Utstedt til
+certmgr-issuer-info-label =
+    .value = Utstedt av
+certmgr-fingerprints-label =
+    .value = Fingeravtrykk
+certmgr-cert-detail =
+    .title = Sertifikatdetaljer
+    .buttonlabelaccept = Lukk
+    .buttonaccesskeyaccept = L
+certmgr-cert-detail-cn =
+    .value = Vanlig navn (CN)
+certmgr-cert-detail-o =
+    .value = Organisasjon (O)
+certmgr-cert-detail-ou =
+    .value = Organisasjonsenhet (OU)
+certmgr-cert-detail-serialnumber =
+    .value = Serienummer
+certmgr-cert-detail-sha1-fingerprint =
+    .value = SHA1 fingeravtrykk
+certmgr-edit-ca-cert =
+    .title = Rediger tiltro for CA-sertifikat
+    .style = width: 48em;
+certmgr-edit-cert-edit-trust = Rediger tiltro:
+certmgr-edit-cert-trust-ssl =
+    .label = Dette sertifikatet kan identifisere nettsider.
+certmgr-edit-cert-trust-email =
+    .label = Dette sertifikatet kan identifisere e-postbrukere.
+certmgr-delete-cert =
+    .title = Slett sertifikat
+    .style = width: 48em; height: 24em;
+certmgr-cert-name =
+    .label = Sertifikatnavn
+certmgr-override-lifetime =
+    .label = Levetid
+certmgr-token-name =
+    .label = Sikkerhetsenhet
+certmgr-begins-value =
+    .value = { certmgr-begins-label.label }
+certmgr-expires-value =
+    .value = { certmgr-expires-label.label }
+certmgr-email =
+    .label = E-postadresse
+certmgr-serial =
+    .label = Serienummer
+certmgr-view =
+    .label = Vis …
+    .accesskey = V
+certmgr-export =
+    .label = Eksporter …
+    .accesskey = k
+certmgr-delete =
+    .label = Slett …
+    .accesskey = S
+certmgr-backup =
+    .label = Sikkerhetskopier …
+    .accesskey = k
+certmgr-backup-all =
+    .label = Sikkerhetskopier alle …
+    .accesskey = e
+certmgr-restore =
+    .label = Importer …
+    .accesskey = I
+certmgr-details =
+    .value = Sertifikatfelt
+    .accesskey = r
+certmgr-fields =
+    .value = Feltverdi
+    .accesskey = F
+certmgr-add-exception =
+    .label = Legg til unntak …
+    .accesskey = e
+exception-mgr =
+    .title = Legg til sikkerhetsunntak
+exception-mgr-supplemental-warning = Legitime banker, nettbutikker og andre offentlige nettsteder vil aldri be deg om å gjøre dette.
+exception-mgr-cert-location-url =
+    .value = Adresse:
+exception-mgr-cert-location-download =
+    .label = Hent sertifikat
+    .accesskey = H
+exception-mgr-cert-status-view-cert =
+    .label = Vis …
+    .accesskey = V
+exception-mgr-permanent =
+    .label = Lagre dette unntaket permanent
+    .accesskey = L
+pk11-bad-password = Passordet du skrev inn er ugyldig.
+pkcs12-decode-err = Klarte ikke dekode filen. Enten er den ikke i PKCS #12-format, er korruptert, eller så er det oppgitte passordet feil.
+pkcs12-unknown-err-restore = Klarte ikke gjenopprette PKCS #12-filen av ukjente grunner.
+pkcs12-unknown-err-backup = Klarte ikke opprette PKCS #12 sikkerhetskopi-fil av ukjent årsak.
+pkcs12-unknown-err = Klarte ikke utføre PKCS #12-operasjonen av ukjent årsak.
+pkcs12-info-no-smartcard-backup = Det er ikke mulig å sikkerhetskopiere sertifikater fra en maskinvare sikkerhetsenhet, som for eksempel Smart Card.
+pkcs12-dup-data = Sertifikatet og den private nøkkelen finnes allerede på sikkerhetsenheten.
+
+## PKCS#12 file dialogs
+
+choose-p12-backup-file-dialog = Filnavn å sikkerhetskopiere
+file-browse-pkcs12-spec = PKCS12-filer
+
+## Import certificate(s) file dialog
+
+file-browse-certificate-spec = Sertifikatfiler
+
+## For editing certificates trust
+
+
+## For Deleting Certificates
+
+delete-user-cert-title =
+    .title = Slett sertifikatene dine
+delete-user-cert-confirm = Er du sikker på at du vil slette disse sertifikatene?
+delete-user-cert-impact = Dersom du sletter et av dine egne sertifikater kan du ikke lenger bruke det for å identifisere deg selv.
+delete-ssl-cert-title =
+    .title = Slett unntak i nettstedsertifikat
+delete-ssl-cert-confirm = Er du sikker på at du vil slette disse nettstedsunntakene?
+delete-ssl-cert-impact = Dersom du sletter et nettstedsunntak vil du gjenopprette den vanlige sikkerhetskontrollen for nettstedet, og krever at det bruker et gyldig sertifikat.
+delete-email-cert-title =
+    .title = Slett e-postsertifikater
+
+## Cert Viewer
+
+not-present =
+    .value = <Ikke en del av sertifikatet>
+# Add usage
+verify-ssl-client =
+    .value = SSL klientsertifikat
+verify-ssl-ca =
+    .value = SSL sertifikatutsteder
+verify-email-signer =
+    .value = Signatursertifikat for e-post
+verify-email-recip =
+    .value = Mottakersertifikat for e-post
+cert-not-verified-cert-not-trusted = Klarte ikke bekrefte sertifikatet fordi det er ikke tiltrodd.
+cert-not-verified-issuer-not-trusted = Klarte ikke bekrefte sertifikatet fordi utstederen ikke er tiltrodd.
+cert-not-verified-issuer-unknown = Klarte ikke bekrefte sertifikatet fordi utstederen er ukjent.
+cert-not-verified-ca-invalid = Klarte ikke kontrollere sertifikatet fordi CA-sertifikatet er ugyldig.
+
+## Add Security Exception dialog
+
+add-exception-invalid-header = Dette nettstedet forsøker å identifisere seg med ugyldig informasjon.
+add-exception-domain-mismatch-short = Feil nettsted
+add-exception-expired-short = Utdatert informasjon
+add-exception-valid-short = Gyldig sertifikat
+add-exception-valid-long = Dette nettstedet har en gyldig, bekreftet identitet.  Det er ikke nødvendig å legge til et unntak.
+add-exception-checking-short = Kontrollerer informasjon
+add-exception-no-cert-short = Ingen informasjon er tilgjengelig
