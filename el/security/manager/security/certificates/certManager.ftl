@@ -164,6 +164,8 @@ delete-email-cert-impact = Εάν διαγράψετε ένα πιστοποιη
 
 ## Cert Viewer
 
+not-present =
+    .value = <Δεν είναι μέρος του πιστοποιητικού>
 # Cert verification
 cert-verified = Το παρόν πιστοποιητικό έχει επαληθευθεί για τις παρακάτω χρήσεις:
 # Add usage
@@ -184,6 +186,7 @@ cert-not-verified-cert-not-trusted = Δεν είναι δυνατή η επαλ�
 cert-not-verified-issuer-not-trusted = Δεν είναι δυνατή η επαλήθευση του παρόντος πιστοποιητικού επειδή ο εκδότης δεν είναι έμπιστος.
 cert-not-verified-issuer-unknown = Δεν είναι δυνατή η επαλήθευση του παρόντος πιστοποιητικού επειδή ο εκδότης είναι άγνωστος.
 cert-not-verified-ca-invalid = Δεν είναι δυνατή η επαλήθευση του παρόντος επειδή η αρχή πιστοποίησης είναι άκυρη.
+cert-not-verified_algorithm-disabled = Δεν ήταν δυνατή η επαλήθευση του πιστοποιητικού επειδή υπογράφηκε με ένα αλγόριθμο που έχει απενεργοποιηθεί επειδή θεωρούνταν μη ασφαλής.
 cert-not-verified-unknown = Δεν είναι δυνατή η επαλήθευση του παρόντος πιστοποιητικού για άγνωστους λόγους.
 
 ## Add Security Exception dialog
