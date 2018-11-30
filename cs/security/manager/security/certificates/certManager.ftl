@@ -20,6 +20,9 @@ import-ca-certs-prompt = Vyberte soubor obsahující certifikát(y) CA pro impor
 
 ## For editing certificates trust
 
+# Variables:
+#   $certName: the name of certificate
+edit-trust-ca = Certifikát „{ $certName }“ představuje Certifikační autoritu.
 
 ## For Deleting Certificates
 
@@ -30,6 +33,9 @@ delete-ssl-cert-title =
     .title = Smazání výjimek pro certifikáty serverů
 delete-ssl-cert-confirm = Opravdu chcete smazat výjimky pro tyto servery?
 delete-ssl-cert-impact = Pokud smažete výjimku pro server, obnovíte pro daný server obvyklé bezpečnostní kontroly a server pak bude požadovat platný certifikát.
+delete-ca-cert-title =
+    .title = Smazání nebo nedůvěra certifikátů CA
+delete-ca-cert-confirm = Požádali jste o smazání certifikátů CA. V případě vestavěných certifikátů jim bude odebrána důvěra, což má stejný efekt jako jejich smazání. Opravdu je chcete smazat nebo jim přestat důvěřovat?
 delete-email-cert-title =
     .title = Smazání certifikátů ostatních lidí
 
@@ -53,6 +59,7 @@ cert-not-verified-unknown = Certifikát nemohl být z neznámého důvodu ověř
 
 add-exception-invalid-header = Tento server se prokazuje neplatnými informacemi.
 add-exception-domain-mismatch-short = Chybný server
+add-exception-unverified-or-bad-signature-short = Neznámá identita
 add-exception-valid-short = Platný certifikát
 add-exception-valid-long = Tento server poskytuje platnou a ověřenou identifikaci. Není důvod, proč tomuto serveru dávat výjimku.
 add-exception-checking-short = Kontrola informací
