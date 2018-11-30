@@ -12,6 +12,10 @@ certmgr-tab-servers =
     .label = Servidores
 certmgr-tab-ca =
     .label = Autoridades
+certmgr-mine = Tienes certificados de estas organizaciones que te identifican
+certmgr-people = Tienes certificados en el archivo que identifican a estas personas
+certmgr-servers = Tienes certificados en el archivo que identifican estos servidores
+certmgr-ca = Tienes certificados en el archivo que identifican a las siguientes autoridades de certificación
 certmgr-detail-general-tab-title =
     .label = General
     .accesskey = G
@@ -172,9 +176,21 @@ delete-email-cert-title =
     .title = Eliminar certificados de correo electrónico
 delete-email-cert-confirm = ¿Realmente quieres eliminar los certificados de correo-e de estas personas?
 delete-email-cert-impact = Si borra el certificado de correo electrónico de una persona, ya no podrá enviar mensajes cifrados a esa persona.
+# Used for semi-uniquely representing a cert.
+#
+# Variables:
+#   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
+cert-with-serial =
+    .value = Certificado con el número de serie: { $serialNumber }
 
 ## Cert Viewer
 
+# Title used for the Certificate Viewer.
+#
+# Variables:
+#   $certificate : a string representative of the certificate being viewed.
+cert-viewer-title =
+    .title = Visor de certificados: “{ $certName }”
 not-present =
     .value = <No es parte de un certificado>
 # Cert verification
