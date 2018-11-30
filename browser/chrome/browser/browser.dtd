@@ -306,6 +306,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Tarayıcı uzaktan kontrol ediliyor">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Web kimlik doğrulaması panelini aç">
 
+<!ENTITY urlbar.storageAccessAnchor.tooltip               "Gezinme etkinliği izin panelini aç">
+
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Siteyle kamera ve/veya mikrofonumu paylaşmayı yönet">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Siteyle mikrofonumu paylaşmayı yönet">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Siteyle pencerelerimi veya ekranımı paylaşmayı yönet">

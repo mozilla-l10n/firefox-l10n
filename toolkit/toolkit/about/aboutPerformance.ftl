@@ -10,6 +10,7 @@ about-performance-title = Görev Yöneticisi
 column-name = Adı
 column-type = Türü
 column-energy-impact = Enerji etkisi
+column-memory = Bellek
 
 ## Special values for the Name column
 
@@ -37,6 +38,15 @@ type-other = Diğer
 energy-impact-high = Yüksek ({ $value })
 energy-impact-medium = Orta ({ $value })
 energy-impact-low = Düşük ({ $value })
+
+## Values for the Memory column
+##
+## Variables:
+##   $value (Number) - How much memory is used
+
+size-KB = { $value } KB
+size-MB = { $value } MB
+size-GB = { $value } GB
 
 ## Tooltips for the action buttons
 
