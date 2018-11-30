@@ -12,6 +12,7 @@ certmgr-tab-servers =
     .label = Servidores
 certmgr-tab-ca =
     .label = Autoridades
+certmgr-mine = Você possui certificados dessa organização que identificam você
 certmgr-detail-general-tab-title =
     .label = Geral
     .accesskey = G
@@ -48,6 +49,8 @@ certmgr-edit-ca-cert =
 certmgr-edit-cert-edit-trust = Editar as configurações de confiança:
 certmgr-edit-cert-trust-ssl =
     .label = Este certificado pode identificar sites.
+certmgr-edit-cert-trust-email =
+    .label = Este certificado pode identificar usuários de e-mail.
 certmgr-delete-cert =
     .title = Excluir certificados
     .style = width: 48em; height: 24em;
@@ -67,6 +70,8 @@ certmgr-expires-label =
     .label = Fim
 certmgr-expires-value =
     .value = { certmgr-expires-label.label }
+certmgr-email =
+    .label = Endereço de e-mail
 certmgr-serial =
     .label = Número de série
 certmgr-edit =
@@ -133,6 +138,7 @@ choose-p12-restore-file-dialog = Importar arquivo de certificado
 
 file-browse-certificate-spec = Arquivos de certificados
 import-ca-certs-prompt = Selecionar arquivo contendo os certificados de CA a importar
+import-email-cert-prompt = Selecionar arquivo contendo o certificado de e-mail de alguém a importar
 
 ## For editing certificates trust
 
@@ -154,6 +160,10 @@ delete-ca-cert-title =
     .title = Excluir certificados de CA
 delete-ca-cert-confirm = Você solicitou a exclusão dos certificados CA abaixo. Os certificados internos somente passarão a ser rejeitados, o que produz o mesmo efeito. Tem certeza que deseja excluí-los?
 delete-ca-cert-impact = Se excluir ou remover a confiança do certificado de uma autoridade certificadora (CA), este aplicativo rejeitará certificados emitidos por esta CA.
+delete-email-cert-title =
+    .title = Excluir certificados de e-mail
+delete-email-cert-confirm = Deseja realmente excluir os certificados de e-mail dessas pessoas?
+delete-email-cert-impact = Se você excluir o certificado de e-mail de alguém, não poderá mais enviar e-mails criptografados a esta pessoa.
 
 ## Cert Viewer
 
@@ -166,6 +176,8 @@ verify-ssl-server =
     .value = Certificado para servidor SSL
 verify-ssl-ca =
     .value = Autoridade certificadora de SSL
+verify-email-recip =
+    .value = Certificado de destinatário de e-mail
 
 ## Add Security Exception dialog
 
