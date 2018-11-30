@@ -102,9 +102,11 @@ exception-mgr-permanent =
     .label = Almacenar esta excepción de forma permanente
     .accesskey = A
 pk11-bad-password = O contrasinal introducido é incorrecto.
+pkcs12-decode-err = Erro ao descodificar o ficheiro. Non está en formato PKCS #12, foi danado, ou ben o contrasinal que introduciu era incorrecto.
 pkcs12-unknown-err-restore = Erro ao restaurar o ficheiro PKCS #12 por motivos descoñecidos.
 pkcs12-unknown-err-backup = Erro ao crear o ficheiro de copia de seguranza de PKCS #12 por motivos descoñecidos.
 pkcs12-unknown-err = A operación PKCS #12 fallou por motivos descoñecidos.
+pkcs12-info-no-smartcard-backup = Non é posíbel facer copias de seguranza de certificados a partir de dispositivos de seguranza hardware como, por exemplo, un cartón intelixente.
 pkcs12-dup-data = O certificado e a chave privada xa existen no dispositivo de seguranza.
 
 ## PKCS#12 file dialogs
