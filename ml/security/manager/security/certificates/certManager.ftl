@@ -2,15 +2,107 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+certmgr-title =
+    .title = സര്‍ട്ടിഫിക്കറ്റ്‌ മാനേജര്‍
+certmgr-tab-mine =
+    .label = നിങ്ങളുടെ സര്‍ട്ടിഫിക്കറ്റുകള്‍
+certmgr-tab-people =
+    .label = ആളുകള്‍
+certmgr-tab-servers =
+    .label = സര്‍വറുകള്‍
+certmgr-tab-ca =
+    .label = അതോരിറ്റികള്‍
+certmgr-detail-general-tab-title =
+    .label = പൊതുവായവ
+    .accesskey = G
+certmgr-detail-pretty-print-tab-title =
+    .label = വിവരങ്ങള്‍{ " " }
+    .accesskey = D
+certmgr-pending-label =
+    .value = ഇപ്പോള്‍ സര്‍ട്ടിഫിക്കറ്റ് ഉറപ്പിക്കുന്നു…
+certmgr-fingerprints-label =
+    .value = വിരലടയാളങ്ങള്‍
+certmgr-cert-detail =
+    .title = സര്‍ട്ടിഫിക്കറ്റ്‌ വിവരങ്ങള്‍{ " " }
+    .buttonlabelaccept = അടയ്ക്കുക{ " " }
+    .buttonaccesskeyaccept = C
+certmgr-cert-detail-cn =
+    .value = പൊതു പേരു്‌  (CN)
+certmgr-cert-detail-o =
+    .value = സ്ഥാപനം
+certmgr-cert-detail-ou =
+    .value = Organisational Unit (OU)
+certmgr-cert-detail-serialnumber =
+    .value = സീരിയല്‍ നമ്പര്‍
+certmgr-cert-detail-sha1-fingerprint =
+    .value = SHA1 ഫിംഗര്‍പ്രിന്റ്
+certmgr-edit-ca-cert =
+    .title = CA സര്‍ട്ടിഫിക്കറ്റുകളുടെ വിശ്വസ്ഥത സജ്ജീകരണങ്ങള്‍ ചിട്ടപെടുത്തുക
+    .style = width: 48em;
+certmgr-edit-cert-edit-trust = വിശ്വസ്ഥത സജ്ജീകരണങ്ങള്‍ ചിട്ടപെടുത്തുക:
+certmgr-edit-cert-trust-ssl =
+    .label = ഈ സര്‍ട്ടിഫികറ്റിനു വെബ്-സൈറ്റുകള്‍ തിരിച്ചറിയാന്‍ സാധിക്കും.
+certmgr-edit-cert-trust-email =
+    .label = ഈ സര്‍ട്ടിഫികറ്റിനു മെയില്‍ ഉപയുക്താക്കളെ തിരിച്ചറിയാന്‍ സാധിക്കും.
+certmgr-delete-cert =
+    .title = സര്‍ട്ടിഫിക്കറ്റ്‌ മായിക്കുക
+    .style = width: 48em; height: 24em;
+certmgr-cert-name =
+    .label = സര്‍ട്ടിഫിക്കറ്റിന്റെ പേര്‌{ " " }
+certmgr-cert-server =
+    .label = സര്‍വര്‍{ " " }
+certmgr-override-lifetime =
+    .label = ജീവിത കാലാവധി
+certmgr-token-name =
+    .label = സുരക്ഷ ഉപകരണങ്ങള്‍{ " " }
 certmgr-begins-value =
     .value = { certmgr-begins-label.label }
+certmgr-expires-label =
+    .label = കാലാവധി കഴിയുന്നത്‌{ " " }
 certmgr-expires-value =
     .value = { certmgr-expires-label.label }
+certmgr-email =
+    .label = ഇമെയില്‍ വിലാസം{ " " }
+certmgr-serial =
+    .label = സീരിയല്‍ നമ്പര്‍
+certmgr-view =
+    .label = കാണുക{ " " }
+    .accesskey = V
+certmgr-edit =
+    .label = ട്രസ്റ്റ് ചിട്ടപ്പെടുത്തുക…
+    .accesskey = E
+certmgr-export =
+    .label = വേറൊരു രൂപത്തില്‍ ഫയല്‍ സംരക്ഷിക്കുക…
+    .accesskey = x
+certmgr-delete =
+    .label = നീക്കം ചെയ്യുക…
+    .accesskey = D
+certmgr-delete-builtin =
+    .label = വെട്ടി നീക്കുക അല്ലെങ്കില്‍ അവിശ്വസിയ്ക്കുക…
+    .accesskey = D
+certmgr-backup =
+    .label = പകര്‍പ്പ് ഉണ്ടാക്കുക…
+    .accesskey = B
+certmgr-backup-all =
+    .label = എല്ലാ ഫയലുകള്‍ക്കും പകര്‍പ്പുകള്‍ ഉണ്ടാക്കുക…
+    .accesskey = k
+certmgr-restore =
+    .label = വേറൊരു രൂപത്തില്‍ നിന്നും ഫയല്‍ തുറക്കുക……
+    .accesskey = m
+certmgr-details =
+    .value = സര്‍ട്ടിഫിക്കേറ്റ് ഫീള്‍ഡുകള്‍
+    .accesskey = F
+certmgr-fields =
+    .value = ഫീല്‍ഡ്‌ വാല്യൂ
+    .accesskey = V
 certmgr-add-exception =
     .label = വിവേചനം  ചേര്‍ക്കുക…
     .accesskey = x
 exception-mgr =
     .title = സുരക്ഷ വിവേചനം ചേര്‍ക്കുക
+exception-mgr-extra-button =
+    .label = സുരക്ഷാ എക്സെപ്ഷന്‍ ഉറപ്പാക്കുക
+    .accesskey = C
 exception-mgr-supplemental-warning = നിയമദത്തമായ ബാങ്കുകളോ കടകളോ പൊതു സൈറ്റുകളോ നിങ്ങളോടു ഇതു ചെയ്യുവാന്‍ ചോദിക്കില്ല.
 exception-mgr-cert-location-url =
     .value = സ്ഥാനം:
@@ -23,25 +115,71 @@ exception-mgr-cert-status-view-cert =
 exception-mgr-permanent =
     .label = ഈ വിവേചനം എപ്പോഴത്തേക്കുമായി സുരക്ഷിതമാക്കി വെക്കുക
     .accesskey = P
+pk11-bad-password = നിങ്ങള്‍ നല്‍കിയ രഹസ്യവാക്ക് തെറ്റാകുന്നു.
+pkcs12-decode-err = ഫയര്‍ ഡീകോഡ് ചെയ്യുന്നതില്‍ പരാജയം. ഒന്നുകില്‍ ഇതു് PKCS #12 ശൈലിയിലാണു്, അല്ലെങഅകില്‍ തകര്‍ന്നിരിയ്ക്കുന്നു, അല്ലെങ്കില്‍ രഹസ്യവാക്ക് തെറ്റാണു്.
+pkcs12-unknown-err-restore = അപരിചിതമായ കാരണങ്ങള്‍ കാരണം  PKCS #12 ഫയല്‍ വീണ്ടെടുക്കുന്നതില്‍ പരാജയപ്പെട്ടു.
+pkcs12-unknown-err-backup = അപരിചിതമായ കാരണങ്ങള്‍ കാരണം  PKCS ബാക്കപ്പ് #12 ഫയല്‍ തയ്യാറാക്കുന്നതില്‍ പരാജയപ്പെട്ടു.
+pkcs12-unknown-err = അപരിചിതമായ കാരണങ്ങള്‍ കാരണം PKCS #12 പ്രക്രിയ പരാജയപ്പെട്ടു.
+pkcs12-info-no-smartcard-backup = സ്മാര്‍ട്ട് കാര്‍ഡ് പോലുള്ളൊരു ഹാര്‍ഡ്‌വെയര്‍ സുരക്ഷാ ഡിവൈസില്‍ നിന്നും സര്‍ട്ടീഫിക്കേറ്റുകളുടെ ബാക്കപ്പെടുക്കുവാന്‍ സാധ്യമല്ല.
+pkcs12-dup-data = സര്‍ട്ടിഫിക്കറ്റും സ്വകാര്യ കീയും സുരക്ഷ ഉപകരണത്തില്‍ നേരത്തെ തന്നെ ഉണ്ട്.
 
 ## PKCS#12 file dialogs
 
+choose-p12-backup-file-dialog = ബാക്കപ്പ്‌ ചെയ്യേണ്ട ഫയലിന്റെ പേര്‌{ " " }
+file-browse-pkcs12-spec = PKCS12 ഫയലുകള്‍
+choose-p12-restore-file-dialog = ഇംപോര്‍ട്ട് ചെയ്യുവാനുള്ള സര്‍ട്ടിഫിക്കേറ്റ് ഫയല്‍
 
 ## Import certificate(s) file dialog
 
+file-browse-certificate-spec = സര്‍ട്ടിഫീക്കേറ്റ് ഫയലുകള്‍
+import-ca-certs-prompt = ഇംപോര്‍ട്ട് ചെയ്യുവാനുള്ള CA സര്‍ട്ടിഫിക്കേറ്റ് അടങ്ങുന്ന ഫയല്‍ തെരഞ്ഞെടുക്കുക.
 
 ## For editing certificates trust
 
 
 ## For Deleting Certificates
 
+delete-user-cert-title =
+    .title = നിങ്ങളുടെ സര്‍ട്ടിഫിക്കേറ്റുകള്‍ നീക്കം ചെയ്യുക
+delete-user-cert-confirm = ഈ സര്‍റ്റിഫിക്കറ്റുകള്‍ മായിക്കണം എന്ന്‌ ഉറപ്പാണോ?{ " " }
+delete-user-cert-impact = നിങ്ങളുടെ സ്വന്തം സര്‍ട്ടിഫിക്കേറ്റുകള്‍ നിങ്ങള്‍ നീക്കം ചെയ്താല്‍, നിങ്ങളുടെ തിരിച്ചറിയലിനായി അതു് പിന്നീടു് ഉപയോഗിക്കുവാന്‍ സാധ്യമല്ല.
 delete-ssl-cert-title =
     .title = സര്‍വര്‍ സര്‍ട്ടിഫിക്കേറ്റ് എക്സെപ്ഷനുകള്‍ നീക്കം ചെയ്യുക
 delete-ssl-cert-confirm = ഈ സര്‍വര്‍ എക്സെപ്ഷനുകള്‍ നിങ്ങള്‍ക്കു് നീക്കം ചെയ്യണമെന്നു് ഉറപ്പാണോ?
 delete-ssl-cert-impact = നിങ്ങള്‍ ഒരു സര്‍വര്‍ എക്സെപ്ഷന്‍ നീക്കം ചെയ്താല്‍, ആ സര്‍വറിനുള്ള സാധാരണ സുരക്ഷാ പരിശോധനകളും നിങ്ങള്‍ വീണ്ടെടുക്കുന്നു. അങ്ങനെ അതു് ശരിയായ ഒരു സര്‍ട്ടിഫിക്കേറ്റ ഉപയോഗിക്കുവാനും ആവശ്യപ്പെടുവന്നു.
+delete-ca-cert-title =
+    .title = സിഎ സര്‍ട്ടിഫിക്കേറ്റുകള്‍ വെട്ടി നീക്കുക അല്ലെങ്കില്‍ അവിശ്വസിയ്ക്കുക
+delete-ca-cert-confirm = ഈ സിഎ സര്‍ട്ടിഫിക്കേറ്റുകള്‍ വെട്ടി നീക്കുവാന്‍ ആവശ്യപ്പെട്ടിരിയ്ക്കുന്നു. ബിള്‍ട്ട്-ഇന്‍ സര്‍ട്ടിഫിക്കേറ്റുകള്‍ക്കു് എല്ലാ ട്രസ്റ്റും ആവശ്യമുണ്ടു്. നീക്കം ചെയ്യണമോ അവിശ്വസിയ്ക്കണമോ എന്നുറപ്പാണോ?
+delete-ca-cert-impact = ഒരു സര്‍ട്ടിഫിക്കേറ്റ് അഥോറിറ്റി (സിഎ) വെട്ടി നീക്കുകയോ അവിശ്വസിയ്ക്കുകയോ ചെയ്താല്‍, ഈ സിഎ ലഭ്യമാക്കുന്ന ഒരു സര്‍ട്ടിഫിക്കേറ്റുകളും ഈ പ്രയോഗം വിശ്വസിയ്ക്കുന്നതല്ല.
+delete-email-cert-title =
+    .title = ഈമെയില്‍ സര്‍ട്ടിഫിക്കേറ്റുകള്‍ നീക്കം ചെയ്യുക
 
 ## Cert Viewer
 
+not-present =
+    .value = <സര്‍ട്ടിഫിക്കേറ്റിന്റെ ഭാഗമല്ല>
+# Cert verification
+cert-verified = ഈ സര്‍ട്ടിഫിക്കേറ്റ് താഴെ പറഞ്ഞിരിക്കുന്നതിനായി ഉറപ്പാക്കിയിരിക്കുന്നു:
+# Add usage
+verify-ssl-client =
+    .value = എസ്.എസ്.എല്‍ ക്ലയന്റ് സര്‍ട്ടിഫിക്കറ്റ്
+verify-ssl-server =
+    .value = എസ്.എസ്.എല്‍ സര്‍വര്‍ സര്‍ട്ടിഫിക്കറ്റ്
+verify-ssl-ca =
+    .value = എസ്.എസ്.എല്‍ സര്‍ട്ടിഫിക്കറ്റ് അധികാരി
+verify-email-signer =
+    .value = ഈമെയില്‍ സൈനര്‍ സര്‍ട്ടിഫിക്കേറ്റ്
+verify-email-recip =
+    .value = ഈമെയില്‍ റെസീപ്യന്റ് സര്‍ട്ടിഫിക്കേറ്റ്
+# Cert verification
+cert-not-verified-cert-revoked = ആവശ്യപ്പെട്ടിരിക്കുന്നതിനാല്‍ ഈ സര്‍ട്ടിഫിക്കേറ്റ് ഉറപ്പാക്കുവാനായില്ല.
+cert-not-verified-cert-expired = കാലാവധി കഴിഞ്ഞതിനാല്‍ ഈ സര്‍ട്ടിഫിക്കേറ്റ് ഉറപ്പാക്കുവാനായില്ല.
+cert-not-verified-cert-not-trusted = വിശ്വസനീയമല്ലാത്തതിനാല്‍ ഈ സര്‍ട്ടിഫിക്കേറ്റ് ഉറപ്പാക്കുവാനായില്ല.
+cert-not-verified-issuer-not-trusted = ഇഷ്യുവറിനെ വിശ്വസിക്കുവാന്‍ സാധ്യമല്ലാത്തതിനാല്‍ ഈ സര്‍ട്ടിഫിക്കേറ്റ് ഉറപ്പാക്കുവാനായില്ല.
+cert-not-verified-issuer-unknown = ഇഷ്യുവര്‍ അപരിചിതമായതിനാല്‍ ഈ സര്‍ട്ടിഫിക്കേറ്റ് ഉറപ്പാക്കുവാനായില്ല.
+cert-not-verified-ca-invalid = CA സര്‍ട്ടിഫിക്കേറ്റ് തെറ്റായതിനാല്‍ ഈ സര്‍ട്ടിഫിക്കേറ്റ് ഉറപ്പാക്കുവാനായില്ല.{ " " }
+cert-not-verified_algorithm-disabled = ആല്‍ഗോരിഥം സുരക്ഷിതമല്ലാത്തതിനാല്‍, പ്രവര്‍ത്തന രഹിതമായ ഒരു സിഗ്നേച്ചര്‍ ആല്‍ഗോരിഥം  ഉപയോഗിച്ചതിനാല്‍, ഈ സര്‍ട്ടിഫിക്കേറ്റ് പരിശോധിയ്ക്കുവാന്‍ സാധ്യമല്ല.
+cert-not-verified-unknown = അപരിചിതമായ കാരണങ്ങള്‍കൊണ്ടു് ഈ സര്‍ട്ടിഫിക്കേറ്റ് ഉറപ്പാക്കുവാനായില്ല.
 
 ## Add Security Exception dialog
 
@@ -49,6 +187,7 @@ add-exception-branded-warning = { -brand-short-name } ഈ സൈറ്റ് എ
 add-exception-invalid-header = ഈ സൈറ്റ് തെറ്റായ വിവരം കാണിച്ചു് തിരിച്ചറിയിക്കുവാന്‍ ശ്രമിക്കുന്നു.
 add-exception-domain-mismatch-short = തെറ്റായ സൈറ്റ്
 add-exception-expired-short = പഴയ വിവരം
+add-exception-unverified-or-bad-signature-short = അപരിചിതമായ ഐഡന്റിറ്റി
 add-exception-valid-short = ശരിയായ സര്‍ട്ടിഫിക്കേറ്റ്
 add-exception-valid-long = ഈ സൈറ്റ് ശരിയായ ഉറപ്പുള്ള സര്‍ട്ടിഫീക്കേറ്റ് നല്‍കുന്നു. ഒരു എക്സെപ്ഷന്‍ ചേര്‍ക്കേണ്ടതില്ല.
 add-exception-checking-short = വിവരങ്ങള്‍ പരിശോധിക്കുന്നു
