@@ -8,6 +8,8 @@ certmgr-tab-mine =
     .label = Dine sertifikater
 certmgr-tab-people =
     .label = Personer
+certmgr-tab-servers =
+    .label = Servere
 certmgr-tab-ca =
     .label = Utstedere
 certmgr-detail-general-tab-title =
@@ -22,6 +24,8 @@ certmgr-subject-info-label =
     .value = Utstedt til
 certmgr-issuer-info-label =
     .value = Utstedt av
+certmgr-period-of-validity-label =
+    .value = Gyldighetsperiode
 certmgr-fingerprints-label =
     .value = Fingeravtrykk
 certmgr-cert-detail =
@@ -36,6 +40,8 @@ certmgr-cert-detail-ou =
     .value = Organisasjonsenhet (OU)
 certmgr-cert-detail-serialnumber =
     .value = Serienummer
+certmgr-cert-detail-sha256-fingerprint =
+    .value = SHA-256 fingeravtrykk
 certmgr-cert-detail-sha1-fingerprint =
     .value = SHA1 fingeravtrykk
 certmgr-edit-ca-cert =
@@ -51,12 +57,18 @@ certmgr-delete-cert =
     .style = width: 48em; height: 24em;
 certmgr-cert-name =
     .label = Sertifikatnavn
+certmgr-cert-server =
+    .label = Server
 certmgr-override-lifetime =
     .label = Levetid
 certmgr-token-name =
     .label = Sikkerhetsenhet
+certmgr-begins-label =
+    .label = Starter den
 certmgr-begins-value =
     .value = { certmgr-begins-label.label }
+certmgr-expires-label =
+    .label = Utløper
 certmgr-expires-value =
     .value = { certmgr-expires-label.label }
 certmgr-email =
@@ -66,12 +78,18 @@ certmgr-serial =
 certmgr-view =
     .label = Vis …
     .accesskey = V
+certmgr-edit =
+    .label = Rediger tiltro …
+    .accesskey = R
 certmgr-export =
     .label = Eksporter …
     .accesskey = k
 certmgr-delete =
     .label = Slett …
     .accesskey = S
+certmgr-delete-builtin =
+    .label = Slett/opphev tiltro …
+    .accesskey = e
 certmgr-backup =
     .label = Sikkerhetskopier …
     .accesskey = k
@@ -87,11 +105,17 @@ certmgr-details =
 certmgr-fields =
     .value = Feltverdi
     .accesskey = F
+certmgr-hierarchy =
+    .value = Sertifikathierarki
+    .accesskey = k
 certmgr-add-exception =
     .label = Legg til unntak …
     .accesskey = e
 exception-mgr =
     .title = Legg til sikkerhetsunntak
+exception-mgr-extra-button =
+    .label = Bekreft sikkerhetsunntak
+    .accesskey = B
 exception-mgr-supplemental-warning = Legitime banker, nettbutikker og andre offentlige nettsteder vil aldri be deg om å gjøre dette.
 exception-mgr-cert-location-url =
     .value = Adresse:
@@ -116,10 +140,12 @@ pkcs12-dup-data = Sertifikatet og den private nøkkelen finnes allerede på sikk
 
 choose-p12-backup-file-dialog = Filnavn å sikkerhetskopiere
 file-browse-pkcs12-spec = PKCS12-filer
+choose-p12-restore-file-dialog = Sertifikatfil som skal importeres
 
 ## Import certificate(s) file dialog
 
 file-browse-certificate-spec = Sertifikatfiler
+import-ca-certs-prompt = Velg fil som inneholder CA-sertifikatene du vil importere
 
 ## For editing certificates trust
 
@@ -134,6 +160,10 @@ delete-ssl-cert-title =
     .title = Slett unntak i nettstedsertifikat
 delete-ssl-cert-confirm = Er du sikker på at du vil slette disse nettstedsunntakene?
 delete-ssl-cert-impact = Dersom du sletter et nettstedsunntak vil du gjenopprette den vanlige sikkerhetskontrollen for nettstedet, og krever at det bruker et gyldig sertifikat.
+delete-ca-cert-title =
+    .title = Slett eller fjern tiltro til CA-sertifikater
+delete-ca-cert-confirm = Du har forespurt å slette disse CA-sertifikatene. For innebygde sertifikater vil all tiltro til disse fjernes, noe som vil ha den samme effekten som å slette dem. Er du sikker på at du vil slette og/eller fjerne tiltro?
+delete-ca-cert-impact = Dersom du sletter eller fjerner tiltro til en sertifikatutsteder (CA) vil dette programmet ikke lenger stole på noen sertifikater som ble utstedt av den CA-en.
 delete-email-cert-title =
     .title = Slett e-postsertifikater
 
@@ -141,26 +171,41 @@ delete-email-cert-title =
 
 not-present =
     .value = <Ikke en del av sertifikatet>
+# Cert verification
+cert-verified = Sertifikatet er godkjent for følgende bruk:
 # Add usage
 verify-ssl-client =
     .value = SSL klientsertifikat
+verify-ssl-server =
+    .value = SSL serversertifikat
 verify-ssl-ca =
     .value = SSL sertifikatutsteder
 verify-email-signer =
     .value = Signatursertifikat for e-post
 verify-email-recip =
     .value = Mottakersertifikat for e-post
+# Cert verification
+cert-not-verified-cert-revoked = Klarte ikke bekrefte sertifikatet fordi det er tilbakekalt.
+cert-not-verified-cert-expired = Klarte ikke bekrefte sertifikatet fordi det er utløpt.
 cert-not-verified-cert-not-trusted = Klarte ikke bekrefte sertifikatet fordi det er ikke tiltrodd.
 cert-not-verified-issuer-not-trusted = Klarte ikke bekrefte sertifikatet fordi utstederen ikke er tiltrodd.
 cert-not-verified-issuer-unknown = Klarte ikke bekrefte sertifikatet fordi utstederen er ukjent.
 cert-not-verified-ca-invalid = Klarte ikke kontrollere sertifikatet fordi CA-sertifikatet er ugyldig.
+cert-not-verified_algorithm-disabled = Klarte ikke kontrollere sertifikatet fordi det ble signert av en signaturalgoritme som er avslått fordi signaturalgoritmen ikke er sikker.
+cert-not-verified-unknown = Klarte ikke kontrollere sertifikatet av ukjent årsak.
 
 ## Add Security Exception dialog
 
+add-exception-branded-warning = Du overstyrer nå hvordan { -brand-short-name } identifiserer denne serveren.
 add-exception-invalid-header = Dette nettstedet forsøker å identifisere seg med ugyldig informasjon.
 add-exception-domain-mismatch-short = Feil nettsted
+add-exception-domain-mismatch-long = Sertifikatet tilhører et annet nettsted, som kan bety at noen prøver å etterligne dette nettstedet.
 add-exception-expired-short = Utdatert informasjon
+add-exception-expired-long = Sertifikatet er ikke gyldig nå. Sertifikatet kan ha blitt stjålet eller tapt, og det kan være at noen bruker det til å etterligne dette nettstedet.
+add-exception-unverified-or-bad-signature-short = Ukjent identitet
 add-exception-valid-short = Gyldig sertifikat
 add-exception-valid-long = Dette nettstedet har en gyldig, bekreftet identitet.  Det er ikke nødvendig å legge til et unntak.
 add-exception-checking-short = Kontrollerer informasjon
+add-exception-checking-long = Forsøker å identifisere dette nettstedet …
 add-exception-no-cert-short = Ingen informasjon er tilgjengelig
+add-exception-no-cert-long = Klarte ikke hente identitetsinformasjon for dette nettstedet.
