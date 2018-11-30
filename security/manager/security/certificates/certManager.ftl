@@ -113,6 +113,10 @@ certmgr-add-exception =
     .accesskey = u
 exception-mgr =
     .title = Sicherheits-Ausnahmeregel hinzufügen
+exception-mgr-extra-button =
+    .label = Sicherheits-Ausnahmeregel bestätigen
+    .accesskey = S
+exception-mgr-supplemental-warning = Seriöse Banken, Geschäfte und andere öffentliche Seiten werden Sie nicht bitten, Derartiges zu tun.
 exception-mgr-cert-location-url =
     .value = Adresse:
 exception-mgr-cert-location-download =
@@ -136,6 +140,7 @@ pkcs12-dup-data = Zertifikat und Privater Schlüssel sind bereits auf dem Krypto
 
 choose-p12-backup-file-dialog = Dateiname für Backup
 file-browse-pkcs12-spec = PKCS12-Dateien
+choose-p12-restore-file-dialog = Zu importierende Zertifikat-Datei
 
 ## Import certificate(s) file dialog
 
