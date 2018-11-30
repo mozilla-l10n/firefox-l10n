@@ -44,7 +44,7 @@
 <!ENTITY generic.title "Oops.">
 <!ENTITY generic.longDesc "<p>O &brandShortName; não conseguiu carregar a página por alguma razão.</p>">
 
-<!ENTITY captivePortal.title "Iniciar sessão à rede">
+<!ENTITY captivePortal.title "Iniciar sessão na rede">
 <!ENTITY captivePortal.longDesc2 "<p>Tem de iniciar sessão nesta rede antes de poder aceder à Internet.</p>">
 
 <!ENTITY openPortalLoginPage.label2 "Abrir página de início de sessão da rede">
