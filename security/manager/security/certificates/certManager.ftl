@@ -15,12 +15,17 @@ certmgr-tab-ca =
 certmgr-detail-general-tab-title =
     .label = 一般
     .accesskey = G
+certmgr-detail-pretty-print-tab-title =
+    .label = 詳細資訊
+    .accesskey = D
 certmgr-pending-label =
     .value = 正在驗證憑證…
 certmgr-subject-info-label =
     .value = 簽發給
 certmgr-issuer-info-label =
     .value = 簽發者
+certmgr-period-of-validity-label =
+    .value = 有效期間
 certmgr-fingerprints-label =
     .value = 指紋
 certmgr-cert-detail =
@@ -35,6 +40,8 @@ certmgr-cert-detail-ou =
     .value = 組織單位 (OU)
 certmgr-cert-detail-serialnumber =
     .value = 序號
+certmgr-cert-detail-sha256-fingerprint =
+    .value = SHA-256 指紋
 certmgr-cert-detail-sha1-fingerprint =
     .value = SHA1 指紋
 certmgr-edit-ca-cert =
@@ -56,20 +63,32 @@ certmgr-override-lifetime =
     .label = 有效時間
 certmgr-token-name =
     .label = 安全裝置
+certmgr-begins-label =
+    .label = 開始於
 certmgr-begins-value =
     .value = { certmgr-begins-label.label }
+certmgr-expires-label =
+    .label = 過期於
 certmgr-expires-value =
     .value = { certmgr-expires-label.label }
+certmgr-email =
+    .label = E-Mail 地址
 certmgr-serial =
     .label = 序號
 certmgr-view =
     .label = 檢視…
     .accesskey = V
+certmgr-edit =
+    .label = 編輯信任…
+    .accesskey = E
 certmgr-export =
     .label = 匯出…
     .accesskey = x
 certmgr-delete =
     .label = 刪除…
+    .accesskey = D
+certmgr-delete-builtin =
+    .label = 刪除或取消信任…
     .accesskey = D
 certmgr-backup =
     .label = 備份…
@@ -86,12 +105,20 @@ certmgr-details =
 certmgr-fields =
     .value = 欄位值
     .accesskey = V
+certmgr-hierarchy =
+    .value = 憑證層級
+    .accesskey = H
 certmgr-add-exception =
     .label = 新增例外網站…
     .accesskey = x
 exception-mgr =
     .title = 新增安全例外
+exception-mgr-extra-button =
+    .label = 確認安全例外
+    .accesskey = C
 exception-mgr-supplemental-warning = 請注意，合法的銀行、商店或其他公開網站不會要求您這麼做！
+exception-mgr-cert-location-url =
+    .value = 位置:
 exception-mgr-cert-location-download =
     .label = 取得憑證
     .accesskey = G
@@ -113,6 +140,7 @@ pkcs12-dup-data = 此憑證及私密金鑰已存到安全裝置中了。
 
 choose-p12-backup-file-dialog = 備份檔名
 file-browse-pkcs12-spec = PKCS12 檔案
+choose-p12-restore-file-dialog = 要匯入的憑證檔案
 
 ## Import certificate(s) file dialog
 
@@ -122,6 +150,9 @@ import-email-cert-prompt = 選取包含電子郵件憑證的檔案以匯入
 
 ## For editing certificates trust
 
+# Variables:
+#   $certName: the name of certificate
+edit-trust-ca = 此憑證「{ $certName }」代表憑證機構。
 
 ## For Deleting Certificates
 
@@ -129,7 +160,13 @@ delete-user-cert-title =
     .title = 刪除您的憑證
 delete-user-cert-confirm = 您確定要刪除這些憑證嗎？
 delete-user-cert-impact = 如果您刪除了您自己的憑證，您就再也不能用它來識別您自己了。
+delete-ssl-cert-title =
+    .title = 刪除伺服器憑證例外
 delete-ssl-cert-confirm = 您確定要刪除這些例外伺服器嗎？
+delete-ssl-cert-impact = 如果您刪除了例外伺服器，下次您再瀏覽該伺服器時又會收到伺服器憑證無效的提示。
+delete-ca-cert-title =
+    .title = 刪除或取消信任憑證機構的憑證
+delete-ca-cert-impact = 若您刪除或取消對憑證機構（CA）的信任，此應用程式將不再信任任何由該機構簽發的憑證。
 delete-email-cert-title =
     .title = 刪除 E-Mail 憑證
 delete-email-cert-confirm = 您確定要刪除這些人的 E-mail 憑證嗎？
@@ -137,6 +174,8 @@ delete-email-cert-impact = 如果您刪除了一個人的 E-mail 憑證，您將
 
 ## Cert Viewer
 
+not-present =
+    .value = <不存在於憑證中>
 # Cert verification
 cert-verified = 此憑證已驗證用於下列用途:
 # Add usage
@@ -153,9 +192,11 @@ verify-email-recip =
 # Cert verification
 cert-not-verified-cert-revoked = 無法驗證此憑證，因為憑證已廢止。
 cert-not-verified-cert-expired = 無法驗證此憑證，因為憑證已過期。
+cert-not-verified-cert-not-trusted = 無法驗證此憑證，因為憑證未被信任。
 cert-not-verified-issuer-not-trusted = 無法驗證此憑證，因為憑證發行者未被信任。
 cert-not-verified-issuer-unknown = 無法驗證此憑證，因為憑證發行者不明。
 cert-not-verified-ca-invalid = 無法驗證此憑證，因為憑證機構憑證不正確。
+cert-not-verified_algorithm-disabled = 由於簽章所使用的演算法不安全被停用的緣故，無法驗證此憑證。
 cert-not-verified-unknown = 無法驗證此憑證，原因不明。
 
 ## Add Security Exception dialog
@@ -163,8 +204,13 @@ cert-not-verified-unknown = 無法驗證此憑證，原因不明。
 add-exception-branded-warning = 您正試圖覆蓋 { -brand-short-name } 要如何識別此網站的設定。
 add-exception-invalid-header = 此網站嘗試用無效的資訊識別自己。
 add-exception-domain-mismatch-short = 錯誤的網站
+add-exception-domain-mismatch-long = 憑證屬於不同網站，有可能是某人想要仿造此網站。
 add-exception-expired-short = 過時的資訊
+add-exception-expired-long = 憑證已經失效，可能是被偷走或遺失，可能會被別人用於仿造此網站。
+add-exception-unverified-or-bad-signature-long = 因為無法確認此憑證是由受信任的單位以安全的方式簽署，無法信任此憑證。
 add-exception-valid-short = 有效憑證
 add-exception-valid-long = 此網站提供有效且經過驗證的識別資訊，不需要加入例外清單。
 add-exception-checking-short = 檢查資訊中
+add-exception-checking-long = 正在識別此網站…
 add-exception-no-cert-short = 無可用資訊
+add-exception-no-cert-long = 無法取得此網站的識別資訊。
