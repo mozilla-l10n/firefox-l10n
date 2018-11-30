@@ -24,6 +24,8 @@ certmgr-subject-info-label =
     .value = مُصْدَرة إلى
 certmgr-issuer-info-label =
     .value = مُصْدَرة مِن
+certmgr-period-of-validity-label =
+    .value = فترة الصلاحية
 certmgr-fingerprints-label =
     .value = البصمات
 certmgr-cert-detail =
@@ -38,6 +40,8 @@ certmgr-cert-detail-ou =
     .value = الوحدة التّنظيمية (وت)
 certmgr-cert-detail-serialnumber =
     .value = الرّقم التّسلسلي
+certmgr-cert-detail-sha256-fingerprint =
+    .value = بصمة SHA-256
 certmgr-cert-detail-sha1-fingerprint =
     .value = بصمة SHA1
 certmgr-edit-ca-cert =
@@ -59,6 +63,8 @@ certmgr-override-lifetime =
     .label = الصلاحية
 certmgr-token-name =
     .label = جهاز الأمن
+certmgr-begins-label =
+    .label = تبدأ في
 certmgr-begins-value =
     .value = { certmgr-begins-label.label }
 certmgr-expires-label =
@@ -99,6 +105,9 @@ certmgr-details =
 certmgr-fields =
     .value = قيمة الحقل
     .accesskey = م
+certmgr-hierarchy =
+    .value = شجريّة الشّهادة
+    .accesskey = ش
 certmgr-add-exception =
     .label = أضِف استثناءً…
     .accesskey = ت
@@ -137,9 +146,13 @@ choose-p12-restore-file-dialog = اسم الشهادة المطلوب استير
 
 file-browse-certificate-spec = ملفّات الشّهادات
 import-ca-certs-prompt = اختر الملفّ الذي يحتوي على شهادة سلطة الشّهادات لاستيراده
+import-email-cert-prompt = اختر الملفّ الذي يحتوي على شهادة البريد الإلكتروني لشخص ما لاستيراده
 
 ## For editing certificates trust
 
+# Variables:
+#   $certName: the name of certificate
+edit-trust-ca = تمثّل الشّهادة ”{ $certName }“ سلطة شهادات.
 
 ## For Deleting Certificates
 
@@ -157,9 +170,23 @@ delete-ca-cert-confirm = لقد طلبت حذف الشهادات من سلطة �
 delete-ca-cert-impact = إذا حذفت أو نزعت الثقة من شهادة تابعة لسلطة شهادات، لن يثق هذا البرنامج بأي شهادات صادرة من سلطة الشهادات تلك.
 delete-email-cert-title =
     .title = احذف شهادات البريد الإلكتروني
+delete-email-cert-confirm = أمتأكّد أنّك تريد حذف شهادات البريد الإلكتروني لهؤلاء الأشخاص؟
+delete-email-cert-impact = إن حذفت شهادة بريد لشخص، فلن تستطيع إرسال بريد معمّى له بعد الآن.
+# Used for semi-uniquely representing a cert.
+#
+# Variables:
+#   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
+cert-with-serial =
+    .value = شهادة بالرقم التسلسلي: { $serialNumber }
 
 ## Cert Viewer
 
+# Title used for the Certificate Viewer.
+#
+# Variables:
+#   $certificate : a string representative of the certificate being viewed.
+cert-viewer-title =
+    .title = عارض الشّهادات: ”{ $certName }“
 not-present =
     .value = <ليس جزءًا من الشّهادة>
 # Cert verification
@@ -190,9 +217,14 @@ cert-not-verified-unknown = تعذّر التحقّق من هذه الشّهاد
 add-exception-branded-warning = أنت على وشك تخطي كيفية تعرّف { -brand-short-name } على هذا الموقع.
 add-exception-invalid-header = يحاول هذا الموقع تعريف نفسه بمعلومات غير مقبولة.
 add-exception-domain-mismatch-short = الموقع الخطأ
+add-exception-domain-mismatch-long = تنتمي الشهادة لموقع آخر، ما قد يعني أن هناك من يحاول انتحال هوية هذا الموقع.
 add-exception-expired-short = معلومات قديمة
+add-exception-expired-long = الشهادة غير صحيحة. ربما سُرقت أو ضاعت، و قد تُستخدم لانتحال هوية هذا الموقع.
 add-exception-unverified-or-bad-signature-short = هويّة مجهولة
+add-exception-unverified-or-bad-signature-long = الشهادة ليست موثوقة، لأنه لم تتحقق منها سلطة موثوقة تستخدم توقيعًا آمنًا.
 add-exception-valid-short = شهادة صالحة
 add-exception-valid-long = يعطي هذا الموقع شهادة صالحة، وهوية موثّقة.  لا حاجة لإضافة استثناء.
 add-exception-checking-short = يفحص المعلومات
+add-exception-checking-long = يحاول التعرف على هذا الموقع…
 add-exception-no-cert-short = لا توجد معلومات
+add-exception-no-cert-long = تعذّر الحصول على حالة التعرف على هذا الموقع.
