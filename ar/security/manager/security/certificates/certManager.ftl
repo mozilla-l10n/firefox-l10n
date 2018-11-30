@@ -82,6 +82,9 @@ certmgr-delete =
 certmgr-delete-builtin =
     .label = احذف أو لا تثق…
     .accesskey = ذ
+certmgr-backup =
+    .label = احفظ احتياطيًا…
+    .accesskey = ط
 certmgr-backup-all =
     .label = احفظ الكل احتياطيا…
     .accesskey = ك
@@ -177,6 +180,7 @@ cert-not-verified-cert-not-trusted = تعذّر التحقّق من هذه ال�
 cert-not-verified-issuer-not-trusted = تعذّر التحقّق من هذه الشّهادة لأنّ المُصدِر غير موثوق.
 cert-not-verified-issuer-unknown = تعذّر التحقّق من هذه الشّهادة لأنّ المُصدِر مجهول.
 cert-not-verified-ca-invalid = تعذّر التحقّق من هذه الشّهادة لأنّ شهادة سلطة الشّهادات غير صالحة.
+cert-not-verified_algorithm-disabled = تعذّر التحقق من هذه الشهادة لأنها وُقعت باستخدام خوارزمية توقيع عُطّلت لعدم أمانها.
 cert-not-verified-unknown = تعذّر التحقّق من هذه الشّهادة لأسباب مجهولة.
 
 ## Add Security Exception dialog
@@ -185,6 +189,7 @@ add-exception-branded-warning = أنت على وشك تخطي كيفية تعر�
 add-exception-invalid-header = يحاول هذا الموقع تعريف نفسه بمعلومات غير مقبولة.
 add-exception-domain-mismatch-short = الموقع الخطأ
 add-exception-expired-short = معلومات قديمة
+add-exception-unverified-or-bad-signature-short = هويّة مجهولة
 add-exception-valid-short = شهادة صالحة
 add-exception-valid-long = يعطي هذا الموقع شهادة صالحة، وهوية موثّقة.  لا حاجة لإضافة استثناء.
 add-exception-checking-short = يفحص المعلومات
