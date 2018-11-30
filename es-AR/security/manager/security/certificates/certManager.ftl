@@ -223,6 +223,7 @@ add-exception-invalid-header = Este sitio intenta identificarse con información
 add-exception-domain-mismatch-short = Sitio erróneo
 add-exception-domain-mismatch-long = El certificado pertenece a un sitio diferente, que podría indicar que alguien está tratando de hacerse pasar por este sitio.
 add-exception-expired-short = Información desactualizada
+add-exception-expired-long = El certificado no es válido actualmente. Puede haber sido robado o perdido, y podría ser usado por alguien para hacerse pasar por este sitio.
 add-exception-unverified-or-bad-signature-short = Identidad desconocida
 add-exception-unverified-or-bad-signature-long = El certificado no es confiable porque no ha sido verificado por una autoridad reconocida usando una firma segura.
 add-exception-valid-short = Certificado válido
