@@ -86,6 +86,7 @@ verify-ssl-server =
 
 ## Add Security Exception dialog
 
+add-exception-branded-warning = { -brand-short-name } ఈ సైటును ఎలాగుర్తిస్తుంది అనేదానిని ఓవర్‌రైడ్ చేయబోతున్నారు.
 add-exception-invalid-header = సరికాని సమాచారంతో ఈ సైటు తనంతటతానే గుర్తింపు పొందుటకు ప్రయత్నిస్తోంది.
 add-exception-domain-mismatch-short = తప్పు సైటు
 add-exception-unverified-or-bad-signature-short = తెలియని గుర్తింపు
