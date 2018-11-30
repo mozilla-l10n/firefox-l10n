@@ -179,6 +179,9 @@ not-present =
     .value = <មិនមែន​ជា​ផ្នែក​នៃ​វិញ្ញាបនបត្រ>
 # Cert verification
 cert-verified = វិញ្ញាបនបត្រ​នេះ​ត្រូវ​បាន​ផ្ទៀងផ្ទាត់​សម្រាប់​ការ​ប្រើប្រាស់​ដូច​ខាងក្រោម ៖
+# Add usage
+verify-ssl-client =
+    .value = SSL Client Certificate
 verify-ssl-server =
     .value = វិញ្ញាបនបត្រ​ម៉ាស៊ីន​ប្រើ SSL
 verify-ssl-ca =
