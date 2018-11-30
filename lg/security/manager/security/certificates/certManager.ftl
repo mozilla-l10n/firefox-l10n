@@ -190,6 +190,7 @@ add-exception-branded-warning = Orikupii kukyusa engeri { -brand-short-name } et
 add-exception-invalid-header = Omuko nguno gungezawo kutegeza gweka mu amawulire nga ttematukirivu.
 add-exception-domain-mismatch-short = Omuko Omufuu
 add-exception-expired-short = Amawulire agamazee ambaga
+add-exception-unverified-or-bad-signature-short = Nnakkalazzi Ettategerekwa
 add-exception-valid-short = Satifikati efuu
 add-exception-valid-long = Omuko nguno nguwereza nnakkalazzi endamu, ekirizirwa.  Tewetagisa ku ggataa ebijjako.
 add-exception-checking-short = Okusabbaza amawulire
