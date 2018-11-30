@@ -24,6 +24,10 @@ certmgr-subject-info-label =
     .value = Kimino Bot
 certmgr-issuer-info-label =
     .value = Ngat ma omino en Aye
+certmgr-period-of-validity-label =
+    .value = Kare me ticce
+certmgr-fingerprints-label =
+    .value = Keto cing
 certmgr-cert-detail =
     .title = Lok me waraga kore kikore
     .buttonlabelaccept = Lo
@@ -36,10 +40,16 @@ certmgr-cert-detail-ou =
     .value = Yunit me dul (OU)
 certmgr-cert-detail-serialnumber =
     .value = Nying Namba
+certmgr-cert-detail-sha256-fingerprint =
+    .value = Keto cing me SHA-256
+certmgr-cert-detail-sha1-fingerprint =
+    .value = Keto cing me SHA1
 certmgr-edit-ca-cert =
     .title = Yub CA tero gen me waraga
     .style = width: 48em;
 certmgr-edit-cert-edit-trust = Yub ter me gen:
+certmgr-edit-cert-trust-ssl =
+    .label = Waraga man twero nyutu kakube.
 certmgr-edit-cert-trust-email =
     .label = Waraga man romo nyutu lutic kwede mail.
 certmgr-delete-cert =
@@ -53,12 +63,16 @@ certmgr-override-lifetime =
     .label = Kare me kwo
 certmgr-token-name =
     .label = Nyonyo me Gwoko tic
+certmgr-begins-label =
+    .label = Cake ikom
 certmgr-begins-value =
     .value = { certmgr-begins-label.label }
 certmgr-expires-label =
     .label = Kare ne kato Inino
 certmgr-expires-value =
     .value = { certmgr-expires-label.label }
+certmgr-email =
+    .label = Kanonge me email
 certmgr-serial =
     .label = Nying Namba
 certmgr-view =
@@ -91,6 +105,9 @@ certmgr-details =
 certmgr-fields =
     .value = Wel Di bar
     .accesskey = D
+certmgr-hierarchy =
+    .value = Rwom me Catibiket
+    .accesskey = H
 certmgr-add-exception =
     .label = Med Weko…
     .accesskey = e
@@ -129,9 +146,13 @@ choose-p12-restore-file-dialog = Pwail me Waraga me akela ki woko
 
 file-browse-certificate-spec = Pwail me Waraga
 import-ca-certs-prompt = Yer Pwail matye ki waraga me CA me akela ki woko
+import-email-cert-prompt = Yee Pwail matye ki waraga me Email pa dano mo, me akela ki woko
 
 ## For editing certificates trust
 
+# Variables:
+#   $certName: the name of certificate
+edit-trust-ca = Waraga "{ $certName }" nyutu Twero me Waraga.
 
 ## For Deleting Certificates
 
@@ -146,11 +167,26 @@ delete-ssl-cert-impact = Ka i kwanyo lapok tic, dong roto gwoko kuc calo kare we
 delete-ca-cert-title =
     .title = Kwany onyo Pe i gen Waraga me CA
 delete-ca-cert-confirm = I lego woko waraga me CA man. Pi waraga gen weng bi kwanye woko, ma tye ki gin matime. I moko ada ni imito kwanyo onyo pe i geno?
+delete-ca-cert-impact = Ka i kwanyo onyo pe i geno twero (CA) me waraga, purugram man pe dong bi geno waraga mo ma gi mino ki CA.
 delete-email-cert-title =
     .title = Kwany Waraga me E-Mail
+delete-email-cert-confirm = I moko ada ni imito kwanyo jo magi woko ki waraga me e-mail?
+delete-email-cert-impact = Ka i kwanyo waraga me e-mail pa dano, pe dong iromo cwalo e-mail ma kicono bot dano.
+# Used for semi-uniquely representing a cert.
+#
+# Variables:
+#   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
+cert-with-serial =
+    .value = Catibiket ma ciral namba ne: { $serialNumber }
 
 ## Cert Viewer
 
+# Title used for the Certificate Viewer.
+#
+# Variables:
+#   $certificate : a string representative of the certificate being viewed.
+cert-viewer-title =
+    .title = Lanen Catibiket: “{ $certName }”
 not-present =
     .value = <Pe Dul kom Waraga>
 # Cert verification
@@ -173,6 +209,7 @@ cert-not-verified-cert-not-trusted = Pe i romo moko waraga man pien pe gene.
 cert-not-verified-issuer-not-trusted = Pe i romo moko waraga man pien lami ne pe gene.
 cert-not-verified-issuer-unknown = Pe i romo moko waraga man pien lami ne pe ngene.
 cert-not-verified-ca-invalid = Pe i romo moko waraga man pien waraga me CA pe tiyo.
+cert-not-verified_algorithm-disabled = Pe onongo twero moko ada pa waraga man pien ki keto cing iye ki yo me keto cing ma kijuko woko pien yo ne peke ki ber bedo.
 cert-not-verified-unknown = Pe i romo moko waraga man pi te lok mape ngene.
 
 ## Add Security Exception dialog
@@ -180,9 +217,14 @@ cert-not-verified-unknown = Pe i romo moko waraga man pi te lok mape ngene.
 add-exception-branded-warning = I cok ki leyo kit { -brand-short-name } nyutu di bar man.
 add-exception-invalid-header = Di bar man temo nyute kene kwede ngec mape tiyo.
 add-exception-domain-mismatch-short = Di bar Marac
+add-exception-domain-mismatch-long = Waraga ne obedo pa kakube mapat, ma tyen loke twero bedo ni ngat mo tye ka time calo kakube man.
 add-exception-expired-short = Ngec ma Kare ne okato
+add-exception-expired-long = Waraga ne pe tye atir kombedi. Twero bedo ni kikwalo nyo orweny woko, ki ngat mo twero tic kwede me time calo kakube man.
 add-exception-unverified-or-bad-signature-short = Tikitiki Mape ngene
+add-exception-unverified-or-bad-signature-long = Waraga ne pe gene pien pe ki moko ada ne ki jang twero ma tiyo ki keto cing matye ki ber bedo.
 add-exception-valid-short = Waraga ma tiyo
 add-exception-valid-long = Di bar man poko matiyo, nyut ma gimoko.  Weko dong pe mite me ameda.
 add-exception-checking-short = Tye ka roto Ngec
+add-exception-checking-long = Tye ka temo nyutu kakube man…
 add-exception-no-cert-short = Ngec pe tye
+add-exception-no-cert-long = Pe romo nongo kit pa lanyut pi kakube man.
