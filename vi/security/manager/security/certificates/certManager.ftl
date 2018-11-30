@@ -2,27 +2,51 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+certmgr-title =
+    .title = Trình quản lí Chứng thư
 certmgr-tab-people =
     .label = Người khác
 certmgr-tab-servers =
     .label = Máy chủ
+certmgr-tab-ca =
+    .label = Nhà thẩm định
 certmgr-detail-general-tab-title =
     .label = Tổng quát
     .accesskey = T
 certmgr-detail-pretty-print-tab-title =
     .label = Chi tiết
     .accesskey = C
+certmgr-pending-label =
+    .value = Hiện đang xác minh chứng thư…
 certmgr-subject-info-label =
     .value = Cấp cho
 certmgr-issuer-info-label =
     .value = Cấp bởi
+certmgr-cert-detail =
+    .title = Chi tiết Chứng thư
+    .buttonlabelaccept = Đóng
+    .buttonaccesskeyaccept = g
+certmgr-cert-detail-cn =
+    .value = Tên thông thường (CN)
 certmgr-cert-detail-o =
     .value = Tổ chức (O)
 certmgr-cert-detail-ou =
     .value = Đơn vị của Tổ chức (OU)
 certmgr-cert-detail-serialnumber =
     .value = Số Serial
+certmgr-edit-ca-cert =
+    .title = Chỉnh thiết lập độ tin cậy chứng thư CA
+    .style = width: 48em;
 certmgr-edit-cert-edit-trust = Chỉnh thiết lập tin cậy:
+certmgr-edit-cert-trust-ssl =
+    .label = Chứng thư này có thể nhận diện trang web.
+certmgr-edit-cert-trust-email =
+    .label = Chứng thư này có thể nhận diện người dùng email.
+certmgr-delete-cert =
+    .title = Xóa Chứng Thư
+    .style = width: 48em; height: 24em;
+certmgr-cert-name =
+    .label = Tên Chứng Thư
 certmgr-cert-server =
     .label = Máy chủ
 certmgr-token-name =
@@ -61,6 +85,11 @@ certmgr-details =
 certmgr-fields =
     .value = Giá trị Trường
     .accesskey = G
+certmgr-add-exception =
+    .label = Thêm Ngoại Lệ…
+    .accesskey = T
+exception-mgr =
+    .title = Thêm ngoại lệ Bảo mật
 exception-mgr-supplemental-warning = Ngân hàng, cửa hiệu và trang công cộng hợp pháp khác sẽ không yêu cầu bạn làm việc này.
 exception-mgr-cert-location-url =
     .value = Địa chỉ:
@@ -76,9 +105,12 @@ pkcs12-dup-data = Chứng chỉ và khóa cá nhân đã có sẵn trên thiết
 
 ## PKCS#12 file dialogs
 
+choose-p12-backup-file-dialog = Tên Tập Tin để Sao lưu
 
 ## Import certificate(s) file dialog
 
+file-browse-certificate-spec = Các tập tin Chứng thư
+import-ca-certs-prompt = Chọn Tập Tin chứa (các) chứng thư của CA để nhập
 
 ## For editing certificates trust
 
@@ -86,7 +118,11 @@ pkcs12-dup-data = Chứng chỉ và khóa cá nhân đã có sẵn trên thiết
 ## For Deleting Certificates
 
 delete-user-cert-confirm = Bạn có chắc muốn xóa các chứng chỉ này không?
+delete-user-cert-impact = Nếu bạn xóa một trong các chứng thư của riêng bạn, bạn không thể dùng nó để nhận diện chính mình được nữa.
+delete-ssl-cert-title =
+    .title = Xóa các Ngoại lệ Chứng thư Máy chủ
 delete-ssl-cert-confirm = Bạn có chắc bạn muốn xóa các ngoại lệ máy chủ này?
+delete-ssl-cert-impact = Nếu bạn xóa một ngoại lệ máy chủ, bạn khôi phục việc kiểm tra bảo mật thông thường cho máy chủ đó và yêu cầu nó dùng một chứng thư hợp lệ.
 delete-email-cert-title =
     .title = Xóa các Chứng chỉ E-Mail
 
@@ -94,6 +130,8 @@ delete-email-cert-title =
 
 not-present =
     .value = <Không thuộc Chứng chỉ>
+# Cert verification
+cert-verified = Chứng thư này đã được xác minh cho những mục đích sau:
 verify-ssl-server =
     .value = Chứng chỉ SSL Máy chủ
 verify-ssl-ca =
@@ -113,8 +151,11 @@ cert-not-verified-unknown = Không thể xác minh chứng chỉ này vì không
 
 ## Add Security Exception dialog
 
+add-exception-branded-warning = Bạn đang chuẩn bị thay thế cách { -brand-short-name } định danh trang này.
 add-exception-invalid-header = Trang này đang cố định danh chính nó bằng thông tin bất hợp lệ.
 add-exception-domain-mismatch-short = Sai Trang
 add-exception-expired-short = Thông tin Lỗi thời
+add-exception-valid-short = Chứng thư Hợp lệ
+add-exception-valid-long = Trang này cung cấp định danh hợp lệ, đã được xác minh. Không cần phải thêm ngoại lệ.
 add-exception-checking-short = Đang kiểm tra Thông tin
 add-exception-no-cert-short = Không có Thông tin Hiện hữu
