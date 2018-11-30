@@ -59,6 +59,8 @@ certmgr-details =
 certmgr-fields =
     .value = Agaciro k'Umwanya
     .accesskey = c
+pk11-bad-password = Ijambobanga  winjije siryo.{ " " }
+pkcs12-decode-err = Ntibishobotse iyo dosiye. Birashoboka ko itari mu bwoko bwa PKCS #12, cyangwa byapfuye, cyangwa se winjije ijambobanga  ritariryo.{ " " }
 pkcs12-unknown-err-restore = Ntibishobotse gusubizaho idosiye y'ubwoko bwa PKCS #12 kubera impamvu zitazwi.
 pkcs12-unknown-err-backup = Ntibishobotse gukora dosiye yo kubika ya PKCS #12 kubera impamvu zitazwi.
 pkcs12-unknown-err = Igikorwa PKCS #12 ntigishobotse kubera impamvu zitazwi.
@@ -74,9 +76,13 @@ file-browse-pkcs12-spec = Dosiye za PKCS12
 
 file-browse-certificate-spec = Dosiye z'Ibyemezo
 import-ca-certs-prompt = Guhitamo Dosiye irimo uru(im)hushya ru(zi)gomba kuzanwa
+import-email-cert-prompt = Guhitamo Dosiye irimo icyemezo cya imeyili y'umuntu kigomba kuzanwa
 
 ## For editing certificates trust
 
+# Variables:
+#   $certName: the name of certificate
+edit-trust-ca = Icyemezo "{ $certName }" cyerekana Ubuyobozi bw'icyemezo.
 
 ## For Deleting Certificates
 
@@ -86,6 +92,7 @@ delete-user-cert-confirm = Urashaka koko gusiba izi byemezo?
 delete-user-cert-impact = Nusiba rumwe mu byemezo byawe bwite, ntuzaba icyongeye kurukoresha kugira ngo wirange.
 delete-email-cert-title =
     .title = Gusiba Ibyemezo bya Imeyili
+delete-email-cert-confirm = Urashaka koko gusiba ibyemezo bya imeyili z'aba bantu?
 
 ## Cert Viewer
 
@@ -93,6 +100,17 @@ not-present =
     .value = <Ntabwo Kiri Mu Bikubiye Mu Cyemezo>
 # Cert verification
 cert-verified = Iki cyemezo cyagenzuwe mu gukoreshwa mu buryo bukurikira:
+# Add usage
+verify-ssl-client =
+    .value = Uruhusa rw'umukiriya SSL{ "  " }
+verify-ssl-server =
+    .value = Uruhusa rwa seriveri SSL{ "    " }
+verify-ssl-ca =
+    .value = Ubuyobozi bw'uruhusa SSL{ "    " }
+verify-email-signer =
+    .value = Uruhusa rw'ushyiraho umukono kuri imeli{ "            " }
+verify-email-recip =
+    .value = Uruhusa rw'uwandikiwe imeli{ " " }
 # Cert verification
 cert-not-verified-cert-revoked = Ntibyashobotse kugenzura iki cyemezo kubera ko cyanzwe.
 cert-not-verified-cert-expired = Ntibyashobotse kugenzura iki cyemezo kubera ko cyarengeje igihe.
