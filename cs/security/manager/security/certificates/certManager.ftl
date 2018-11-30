@@ -176,6 +176,12 @@ delete-email-cert-title =
     .title = Smazání certifikátů ostatních lidí
 delete-email-cert-confirm = Opravdu chcete smazat poštovní certifikáty těchto lidí?
 delete-email-cert-impact = Pokud smažete poštovní certifikát nějaké osoby, nebudete jí moci poslat zašifrovanou zprávu.
+# Used for semi-uniquely representing a cert.
+#
+# Variables:
+#   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
+cert-with-serial =
+    .value = Certifikát se sériovým číslem: { $serialNumber }
 
 ## Cert Viewer
 
