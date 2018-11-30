@@ -12,6 +12,10 @@ certmgr-tab-servers =
     .label = സര്‍വറുകള്‍
 certmgr-tab-ca =
     .label = അതോരിറ്റികള്‍
+certmgr-mine = നിങ്ങളെ തിരിച്ചറിയുന്ന ഈ സംഘടനകളിൽ നിന്നും നിങ്ങൾക്ക് സർട്ടിഫിക്കറ്റുകൾ ഉണ്ട്
+certmgr-people = ഈ വ്യക്തികളെ തിരിച്ചറിയുന്ന സർട്ടിഫിക്കറ്റുകൾ നിങ്ങളുടെ ഫയലിലുണ്ട്
+certmgr-servers = ഈ സെർവറുകളെ തിരിച്ചറിയുന്ന സർട്ടിഫിക്കറ്റുകൾ നിങ്ങളുടെ ഫയലിലുണ്ട്
+certmgr-ca = ഈ സർട്ടിഫിക്കറ്റ് അതോറിറ്റികളെ തിരിച്ചറിയുന്ന സർട്ടിഫിക്കറ്റുകൾ നിങ്ങളുടെ ഫയലിലുണ്ട്
 certmgr-detail-general-tab-title =
     .label = പൊതുവായവ
     .accesskey = G
@@ -172,6 +176,12 @@ delete-email-cert-title =
     .title = ഈമെയില്‍ സര്‍ട്ടിഫിക്കേറ്റുകള്‍ നീക്കം ചെയ്യുക
 delete-email-cert-confirm = ഈ ആള്‍ക്കാരുടെ ഇമെയില്‍ സര്‍റ്റിഫിക്കറ്റുകള്‍ മായിക്കണം എന്ന്‌ ഉറപ്പാണോ?{ " " }
 delete-email-cert-impact = നിങ്ങള്‍ ഒരാളുടെ ഈമെയില്‍ സര്‍ട്ടിഫിക്കേറ്റ് നീക്കം ചെയ്താല്‍, നിങ്ങള്‍ക്കു് ആ വ്യക്തിയ്ക്കു് ഒരിക്കലും എന്‍ക്രിപ്റ്റ് ചെയ്ത ഈമെയില്‍ അയയ്ക്കുവാന്‍ സാധിക്കുകയില്ല.
+# Used for semi-uniquely representing a cert.
+#
+# Variables:
+#   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
+cert-with-serial =
+    .value = { $serialNumber } സീരിയൽ നമ്പറുള്ള സർട്ടിഫിക്കറ്റ്
 
 ## Cert Viewer
 
