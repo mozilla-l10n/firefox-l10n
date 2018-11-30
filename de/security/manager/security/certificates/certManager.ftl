@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+certmgr-title =
+    .title = Zertifikatverwaltung
 certmgr-tab-mine =
     .label = Ihre Zertifikate
 certmgr-tab-people =
@@ -22,6 +24,8 @@ certmgr-subject-info-label =
     .value = Ausgestellt für
 certmgr-issuer-info-label =
     .value = Ausgestellt von
+certmgr-period-of-validity-label =
+    .value = Gültigkeitsdauer
 certmgr-fingerprints-label =
     .value = Fingerabdrücke
 certmgr-cert-detail =
@@ -36,6 +40,8 @@ certmgr-cert-detail-ou =
     .value = Organisationseinheit (OU)
 certmgr-cert-detail-serialnumber =
     .value = Seriennummer
+certmgr-cert-detail-sha256-fingerprint =
+    .value = SHA-256-Fingerabdruck
 certmgr-cert-detail-sha1-fingerprint =
     .value = SHA1-Fingerabdruck
 certmgr-edit-ca-cert =
@@ -57,8 +63,12 @@ certmgr-override-lifetime =
     .label = Lebenszeit
 certmgr-token-name =
     .label = Kryptographie-Modul
+certmgr-begins-label =
+    .label = Beginnt mit
 certmgr-begins-value =
     .value = { certmgr-begins-label.label }
+certmgr-expires-label =
+    .label = Gültig bis
 certmgr-expires-value =
     .value = { certmgr-expires-label.label }
 certmgr-email =
@@ -68,12 +78,18 @@ certmgr-serial =
 certmgr-view =
     .label = Ansehen…
     .accesskey = A
+certmgr-edit =
+    .label = Vertrauen bearbeiten…
+    .accesskey = b
 certmgr-export =
     .label = Exportieren…
     .accesskey = x
 certmgr-delete =
     .label = Löschen…
     .accesskey = L
+certmgr-delete-builtin =
+    .label = Löschen oder Vertrauen entziehen…
+    .accesskey = n
 certmgr-backup =
     .label = Sichern…
     .accesskey = S
@@ -89,6 +105,9 @@ certmgr-details =
 certmgr-fields =
     .value = Feld-Wert
     .accesskey = F
+certmgr-hierarchy =
+    .value = Zertifikatshierarchie
+    .accesskey = h
 certmgr-add-exception =
     .label = Ausnahme hinzufügen…
     .accesskey = u
@@ -105,6 +124,8 @@ exception-mgr-cert-status-view-cert =
 exception-mgr-permanent =
     .label = Diese Ausnahme dauerhaft speichern
     .accesskey = n
+pk11-bad-password = Das eingegebene Passwort war falsch.
+pkcs12-decode-err = Die Datei konnte nicht dekodiert werden. Entweder ist sie nicht im PKCS#12-Format, wurde fehlerhaft übertragen, oder das Passwort, das Sie eingegeben haben, war falsch.
 pkcs12-unknown-err-restore = Das Wiederherstellen der PKCS#12-Datei ist aus unbekannten Gründen fehlgeschlagen.
 pkcs12-unknown-err-backup = Das Erstellen der PKCS#12-Backupdatei ist aus unbekannten Gründen fehlgeschlagen.
 pkcs12-unknown-err = Die PKCS#12-Operation ist aus unbekannten Gründen fehlgeschlagen.
@@ -138,13 +159,29 @@ delete-ssl-cert-title =
     .title = Server-Zertifikat-Ausnahmeregeln löschen
 delete-ssl-cert-confirm = Sollen diese Server-Ausnahmeregeln wirklich gelöscht werden?
 delete-ssl-cert-impact = Wenn Sie eine Server-Ausnahmeregel löschen, werden die normalen Sicherheitsüberprüfungen für diesen Server wiederhergestellt und er muss ein gültiges Zertifikat vorweisen.
+delete-ca-cert-title =
+    .title = CA-Zertifikate löschen oder Vertrauen entziehen
+delete-ca-cert-confirm = Sie haben um ein Löschen dieser CA-Zertifikate angefragt. Für eingebaute Zertifikate wird alles Vertrauen entzogen, was den gleichen Effekt hat. Sollen diese CA-Zertifikate wirklich gelöscht oder ihr Vertrauen entzogen werden?
+delete-ca-cert-impact = Wenn Sie ein Zertifizierungsstellen(CA)-Zertifikat löschen oder sein Vertrauen entziehen, vertraut die Anwendung keinen Zertifikaten mehr, die von dieser CA ausgestellt wurden.
 delete-email-cert-title =
     .title = E-Mail-Zertifikate löschen
 delete-email-cert-confirm = Sollen die E-Mail-Zertifikate dieser Personen wirklich gelöscht werden?
 delete-email-cert-impact = Wenn Sie das E-Mail-Zertifikat einer Person löschen, können Sie keine verschlüsselten E-Mails mehr an diese Person senden.
+# Used for semi-uniquely representing a cert.
+#
+# Variables:
+#   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
+cert-with-serial =
+    .value = Zertifikat mit Seriennummer: { $serialNumber }
 
 ## Cert Viewer
 
+# Title used for the Certificate Viewer.
+#
+# Variables:
+#   $certificate : a string representative of the certificate being viewed.
+cert-viewer-title =
+    .title = Zertifikat-Ansicht: "{ $certName }"
 not-present =
     .value = <kein Teil des Zertifikats>
 # Cert verification
@@ -167,6 +204,7 @@ cert-not-verified-cert-not-trusted = Dieses Zertifikat konnte nicht verifiziert 
 cert-not-verified-issuer-not-trusted = Dieses Zertifikat konnte nicht verifiziert werden, da dem Aussteller nicht vertraut wird.
 cert-not-verified-issuer-unknown = Dieses Zertifikat konnte nicht verifiziert werden, da der Aussteller unbekannt ist.
 cert-not-verified-ca-invalid = Dieses Zertifikat konnte nicht verifiziert werden, da das CA-Zertifikat ungültig ist.
+cert-not-verified_algorithm-disabled = Das Zertifikat konnte nicht verifiziert werden, weil es mit einem Signatur-Algorithmus signiert wurde, der deaktiviert wurde, weil er nicht sicher ist.
 cert-not-verified-unknown = Dieses Zertifikat konnte aus unbekannten Gründen nicht verifiziert werden.
 
 ## Add Security Exception dialog
@@ -174,8 +212,14 @@ cert-not-verified-unknown = Dieses Zertifikat konnte aus unbekannten Gründen ni
 add-exception-branded-warning = Hiermit übergehen Sie die Identifikation dieser Website durch { -brand-short-name }.
 add-exception-invalid-header = Diese Website versucht sich mit ungültigen Informationen zu identifizieren.
 add-exception-domain-mismatch-short = Falsche Website
+add-exception-domain-mismatch-long = Das Zertifikat gehört zu einer anderen Website, was heißen könnte, dass jemand versucht, sich als diese Website auszugeben.
 add-exception-expired-short = Veraltete Informationen
+add-exception-expired-long = Das Zertifikat ist derzeit nicht gültig. Es könnte gestohlen oder verloren worden sein, und könnte von jemand verwendet werden, um sich als diese Website auszugeben.
+add-exception-unverified-or-bad-signature-short = Unbekannte Identität
+add-exception-unverified-or-bad-signature-long = Dem Zertifikat wird nicht vertraut, weil nicht verifiziert wurde, dass es von einer vertrauenswürdigen Autorität unter Verwendung einer sicheren Signatur herausgegeben wurde.
 add-exception-valid-short = Gültiges Zertifikat
 add-exception-valid-long = Diese Website gibt gültige, überprüfte Informationen an.  Es gibt keinen Grund, eine Ausnahmeregel hinzuzufügen.
 add-exception-checking-short = Überprüfe Informationen
+add-exception-checking-long = Identifikation der Website wird versucht…
 add-exception-no-cert-short = Keine Informationen verfügbar
+add-exception-no-cert-long = Der Identifikationsstatus für diese Website konnte nicht bezogen werden.
