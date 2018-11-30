@@ -38,17 +38,26 @@ certmgr-begins-value =
     .value = { certmgr-begins-label.label }
 certmgr-expires-value =
     .value = { certmgr-expires-label.label }
+certmgr-delete =
+    .label = Șterge…
+    .accesskey = g
 certmgr-backup =
     .label = Salvează
     .accesskey = S
 certmgr-backup-all =
     .label = Salvează tot
     .accesskey = l
+certmgr-restore =
+    .label = Importă…
+    .accesskey = m
 certmgr-add-exception =
     .label = Adaugă excepție…
     .accesskey = x
 exception-mgr =
     .title = Adaugă excepție de la securitate
+exception-mgr-extra-button =
+    .label = Confirmă excepția de la securitate
+    .accesskey = C
 exception-mgr-cert-location-url =
     .value = Adresă:
 exception-mgr-cert-location-download =
@@ -72,6 +81,7 @@ pkcs12-dup-data = Certificatul și cheia privată există deja în dispozitivul 
 
 choose-p12-backup-file-dialog = Nume fișier de salvat
 file-browse-pkcs12-spec = Fișiere PKCS12
+choose-p12-restore-file-dialog = Fișierul certificatului de importat
 
 ## Import certificate(s) file dialog
 
@@ -82,6 +92,8 @@ file-browse-certificate-spec = Fișiere certificat
 
 ## For Deleting Certificates
 
+delete-ca-cert-title =
+    .title = Șterge sau anulează încrederea certificatelor AC
 
 ## Cert Viewer
 
@@ -102,5 +114,6 @@ cert-not-verified-unknown = Nu se poate verifica acest certificat din motive nec
 
 ## Add Security Exception dialog
 
+add-exception-unverified-or-bad-signature-short = Identitate necunoscută
 add-exception-valid-short = Certificat valid
 add-exception-no-cert-short = Nicio informație disponibilă
