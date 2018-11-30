@@ -61,6 +61,7 @@ cert-not-verified-unknown = Nid oedd modd gwirio'r dystysgrif am resymau anhysby
 ## Add Security Exception dialog
 
 add-exception-branded-warning = Rydych ar fin atal y ffordd mae { -brand-short-name } yn adnabod y wefan.
+add-exception-invalid-header = Mae'r wefan yn ceisio dweud pwy ydyw gyda gwybodaeth annilys.
 add-exception-domain-mismatch-short = Gwefan Anghywir
 add-exception-expired-short = Hen Wybodaeth
 add-exception-valid-short = Tystysgrif Dilys
