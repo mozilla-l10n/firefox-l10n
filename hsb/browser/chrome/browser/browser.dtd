@@ -306,6 +306,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Wobhladowak so zdaloka wodźi">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Wobłuk webawtentifikacije wočinić">
 
+<!ENTITY urlbar.storageAccessAnchor.tooltip               "Dialog za prawa přehladowanskeje aktiwity wočinić">
+
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Dźělenje wašeje kamery a /abo wašeho mikrofona ze sydłom rjadować">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Dźělenje wašeho mikrofona ze sydłom rjadować">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Dźělenje wašich woknow abo wašeje wobrazowki ze sydłom rjadować">
