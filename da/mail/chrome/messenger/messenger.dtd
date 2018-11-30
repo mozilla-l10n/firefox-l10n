@@ -443,6 +443,9 @@
 <!ENTITY openConversationCmd.label "Vis korrespondance i tråd">
 <!ENTITY openConversationCmd.accesskey "o">
 <!ENTITY openConversationCmd.key "å">
+<!ENTITY openInConversationCmd.label "Vis korrespondance i tråd">
+<!ENTITY openInConversationCmd.accesskey "o">
+<!ENTITY openInConversationCmd.key "å">
 <!ENTITY openAttachmentListCmd.label "Vedhæftede filer">
 <!ENTITY openAttachmentListCmd.accesskey "d">
 <!ENTITY openFeedMessage1.label "Ved åbning af feed-meddelelser">
