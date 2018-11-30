@@ -24,6 +24,8 @@ certmgr-subject-info-label =
     .value = Dynodwyd i
 certmgr-issuer-info-label =
     .value = Cyhoeddwyd gan
+certmgr-period-of-validity-label =
+    .value = Cyfnod Dilysrwydd
 certmgr-fingerprints-label =
     .value = Olion Bysedd
 certmgr-cert-detail =
@@ -38,6 +40,8 @@ certmgr-cert-detail-ou =
     .value = Uned Corff (OU)
 certmgr-cert-detail-serialnumber =
     .value = Rhif Cyfresol
+certmgr-cert-detail-sha256-fingerprint =
+    .value = Ôl bys SHA-256
 certmgr-cert-detail-sha1-fingerprint =
     .value = Ôl bys SHA1
 certmgr-edit-ca-cert =
@@ -59,6 +63,8 @@ certmgr-override-lifetime =
     .label = Hyd Oes
 certmgr-token-name =
     .label = Dyfais Diogelwch
+certmgr-begins-label =
+    .label = Cychwyn ar
 certmgr-begins-value =
     .value = { certmgr-begins-label.label }
 certmgr-expires-label =
@@ -99,6 +105,9 @@ certmgr-details =
 certmgr-fields =
     .value = Gwerth Maes
     .accesskey = G
+certmgr-hierarchy =
+    .value = Hierarchaeth Tystysgrifau
+    .accesskey = H
 certmgr-add-exception =
     .label = Ychwanegu Eithriad…
     .accesskey = Y
@@ -112,6 +121,9 @@ exception-mgr-cert-location-url =
     .value = Lleoliad:
 exception-mgr-cert-location-download =
     .label = Estyn Tystysgrif
+    .accesskey = G
+exception-mgr-cert-status-view-cert =
+    .label = Golwg…
     .accesskey = G
 exception-mgr-permanent =
     .label = Cadw'r estyniad yn barhaol
@@ -134,9 +146,13 @@ choose-p12-restore-file-dialog = Ffeil Tystysgrif i'w Mewnforio
 
 file-browse-certificate-spec = Ffeiliau Tystysgrif
 import-ca-certs-prompt = Dewis Ffeil yn cynnwys tystysgrif(au) CA i'w mewnforio
+import-email-cert-prompt = Dewis Ffeil yn cynnwys tystysgrif e-bost rhywun i'w fewnforio
 
 ## For editing certificates trust
 
+# Variables:
+#   $certName: the name of certificate
+edit-trust-ca = Mae Tystysgrif "{ $certName }" yn cynrychioli Awdurdod Tystysgrifo.
 
 ## For Deleting Certificates
 
@@ -154,9 +170,23 @@ delete-ca-cert-confirm = Rydych wedi gofyn i gael dileu'r tystysgrifau TA hyn. A
 delete-ca-cert-impact = Os fyddwch yn dileu neu dad-ymddiried tystysgrif awdurdod tystysgrifo (CA), ni fydd y rhaglen yn ymddiried unrhyw dystysgrif sy'n cael ei chyhoeddi gan y CA.
 delete-email-cert-title =
     .title = Dileu Tystysgrifau E-bost
+delete-email-cert-confirm = Ydych chi'n siŵr eich bod eisiau dileu tystysgrifau e-bost y bobl hyn?
+delete-email-cert-impact = Os fyddwch yn dileu tystysgrif e-bost y person, ni fyddwch yn gallu anfon e-byst amgryptiedig at y person hwnnw.
+# Used for semi-uniquely representing a cert.
+#
+# Variables:
+#   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
+cert-with-serial =
+    .value = Tystysgrif gyda rhif cyfresol : { $serialNumber }
 
 ## Cert Viewer
 
+# Title used for the Certificate Viewer.
+#
+# Variables:
+#   $certificate : a string representative of the certificate being viewed.
+cert-viewer-title =
+    .title = Darllenwr Tystysgrif: “{ $certName }”
 not-present =
     .value = <Nid yw'n Rhan o'r Dystysgrif>
 # Cert verification
@@ -187,9 +217,14 @@ cert-not-verified-unknown = Nid oedd modd gwirio'r dystysgrif am resymau anhysby
 add-exception-branded-warning = Rydych ar fin atal y ffordd mae { -brand-short-name } yn adnabod y wefan.
 add-exception-invalid-header = Mae'r wefan yn ceisio dweud pwy ydyw gyda gwybodaeth annilys.
 add-exception-domain-mismatch-short = Gwefan Anghywir
+add-exception-domain-mismatch-long = Mae'r dystysgrif yn perthyn i wefan gwahanol, sy'n golygu y gall rhywun fod yn efelychu'r wefan hon.
 add-exception-expired-short = Hen Wybodaeth
+add-exception-expired-long = Nid yw'r dystysgrif yn ddilys ar hyn o bryd. Gall ei fod wedi cael ei ddwyn neu ei golli, a gall fod yn cael ei ddefnyddio i ymddangos fel y wefan hon.
 add-exception-unverified-or-bad-signature-short = Hunaniaeth Anhysbys
+add-exception-unverified-or-bad-signature-long = Methu ymddiried yn y dystysgrif am nad yw wedi ei ddilysu gan awdurdod hysbys sy'n defnyddio llofnod diogel.
 add-exception-valid-short = Tystysgrif Dilys
 add-exception-valid-long = Mae'r wefan yn darparu gwybodaeth ddilys amdani ei hun.  Nid oes angen gosod eithriad.
 add-exception-checking-short = Gwirio Gwybodaeth
+add-exception-checking-long = Ceisio adnabod y wefan…
 add-exception-no-cert-short = Dim Gwybodaeth ar Gael
+add-exception-no-cert-long = Methu canfod statws dynodiad ar gyfer y wefan hon.
