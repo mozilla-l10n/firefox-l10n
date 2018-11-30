@@ -10,6 +10,7 @@ about-performance-title = Aktivitetshanterare
 column-name = Namn
 column-type = Typ
 column-energy-impact = Energipåverkan
+column-memory = Minne
 
 ## Special values for the Name column
 
@@ -37,6 +38,15 @@ type-other = Annat
 energy-impact-high = Hög ({ $value })
 energy-impact-medium = Medium ({ $value })
 energy-impact-low = Lågt ({ $value })
+
+## Values for the Memory column
+##
+## Variables:
+##   $value (Number) - How much memory is used
+
+size-KB = { $value } kB
+size-MB = { $value } MB
+size-GB = { $value } GB
 
 ## Tooltips for the action buttons
 
