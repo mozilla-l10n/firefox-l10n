@@ -50,3 +50,7 @@
 <!ENTITY  dnsOverHttpsUrl.label         "Verkko-osoite:">
 <!ENTITY  dnsOverHttpsUrl.accesskey     "r">
 <!ENTITY  dnsOverHttpsUrl.tooltip       "Verkko-osoite DNS:n selvittämistä varten HTTPS:n avulla">
+<!ENTITY  dnsOverHttpsUrlDefault.label     "Käytä oletusta">
+<!ENTITY  dnsOverHttpsUrlDefault.accesskey "o">
+<!ENTITY  dnsOverHttpsUrlDefault.tooltip   "Käytä oletusosoitetta DNS-kyselyjen selvittämiseen HTTPS:n välityksellä">
+<!ENTITY  dnsOverHttpsUrlCustom.label      "Oma">
