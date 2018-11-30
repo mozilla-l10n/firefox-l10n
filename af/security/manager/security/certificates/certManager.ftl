@@ -24,6 +24,8 @@ certmgr-subject-info-label =
     .value = Uitgereik aan
 certmgr-issuer-info-label =
     .value = Uitgereik deur
+certmgr-period-of-validity-label =
+    .value = Geldige periode
 certmgr-fingerprints-label =
     .value = Vingerafdrukke
 certmgr-cert-detail =
@@ -38,6 +40,8 @@ certmgr-cert-detail-ou =
     .value = Organisasie-eenheid (OU)
 certmgr-cert-detail-serialnumber =
     .value = Reeksnommer
+certmgr-cert-detail-sha256-fingerprint =
+    .value = SHA-256-vingerafdruk
 certmgr-cert-detail-sha1-fingerprint =
     .value = SHA1-vingerafdruk
 certmgr-edit-ca-cert =
@@ -59,6 +63,8 @@ certmgr-override-lifetime =
     .label = Lewensduur
 certmgr-token-name =
     .label = Sekuriteitstoestel
+certmgr-begins-label =
+    .label = Begin op
 certmgr-begins-value =
     .value = { certmgr-begins-label.label }
 certmgr-expires-label =
@@ -99,6 +105,9 @@ certmgr-details =
 certmgr-fields =
     .value = Veldwaarde
     .accesskey = V
+certmgr-hierarchy =
+    .value = Sertifikaathiërargie
+    .accesskey = h
 certmgr-add-exception =
     .label = Voeg uitsondering by…
     .accesskey = u
@@ -137,26 +146,47 @@ choose-p12-restore-file-dialog = Sertifikaatlêer om in te voer
 
 file-browse-certificate-spec = Sertifikaatlêers
 import-ca-certs-prompt = Kies lêer wat SO-sertifikaat(e) bevat om in te voer
+import-email-cert-prompt = Kies lêer wat iemand se e-possertifikaat bevat om in te voer
 
 ## For editing certificates trust
 
+# Variables:
+#   $certName: the name of certificate
+edit-trust-ca = Die sertifikaat "{ $certName }" verteenwoordig 'n sertifikaatowerheid.
 
 ## For Deleting Certificates
 
 delete-user-cert-title =
     .title = Skrap u sertifikate
+delete-user-cert-confirm = Wil u definitief hierdie sertifikate skrap?
 delete-user-cert-impact = As u een van u eie sertifikate skrap, kan u dit nie meer gebruik om uself te identifiseer nie.
 delete-ssl-cert-title =
     .title = Skrap bedienersertifikaat-uitsonderings
+delete-ssl-cert-confirm = Wil u definitief hierdie bedieneruitsonderings skrap?
 delete-ssl-cert-impact = Indien u 'n bedieneruitsondering skrap, sal dit die gewone sekuriteitstoetse vir daardie bediener teruglaai en vereis dat dit 'n geldige sertifikaat gebruik.
 delete-ca-cert-title =
     .title = Skrap of wantrou nie meer SO-sertifikate
+delete-ca-cert-confirm = U het versoek dat hierdie SO-sertifikate geskrap word. Vir ingeboude sertifikate sal alle vertroue verwyder word, wat dieselfde uitwerking het. Wil u definitief skrap of wantrou?
 delete-ca-cert-impact = As jy 'n sertifikaatowerheid- (SO) sertifikaat skrap of wantrou, sal hierdie toepassing nie meer enige sertifikate vertrou wat deur daardie SO uitgereik word nie.
 delete-email-cert-title =
     .title = Skrap e-possertifikate
+delete-email-cert-confirm = Wil u definitief hierdie persone se e-possertifikate skrap?
+delete-email-cert-impact = Indien u 'n persoon e-possertifikaat skrap, sal u nie meer geënkripteerde e-pos aan daardie mense kan stuur nie.
+# Used for semi-uniquely representing a cert.
+#
+# Variables:
+#   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
+cert-with-serial =
+    .value = Sertifikaat met reeksnommer: { $serialNumber }
 
 ## Cert Viewer
 
+# Title used for the Certificate Viewer.
+#
+# Variables:
+#   $certificate : a string representative of the certificate being viewed.
+cert-viewer-title =
+    .title = Sertifikaatkyker: “{ $certName }”
 not-present =
     .value = <Nie deel van sertifikaat nie>
 # Cert verification
@@ -179,6 +209,7 @@ cert-not-verified-cert-not-trusted = Die sertifikaat kon nie gestaaf word nie om
 cert-not-verified-issuer-not-trusted = Die sertifikaat kon nie gestaaf word nie omdat die uitreiker nie vertrou word nie.
 cert-not-verified-issuer-unknown = Die sertifikaat kon nie gestaaf word nie omdat die uitreiker onbekend is.
 cert-not-verified-ca-invalid = Die sertifikaat kon nie gestaaf word nie omdat die SO-sertifikaat ongeldig is.
+cert-not-verified_algorithm-disabled = Kon nie dié sertifikaat verifieer nie omdat dit geteken is met 'n handtekeningalgoritme wat gedeaktiveer is omdat dit nie veilig is nie.
 cert-not-verified-unknown = Die sertifikaat kon om onbekende redes nie gestaaf word nie.
 
 ## Add Security Exception dialog
@@ -186,9 +217,14 @@ cert-not-verified-unknown = Die sertifikaat kon om onbekende redes nie gestaaf w
 add-exception-branded-warning = U gaan nou die manier waarop { -brand-short-name } hierdie werf identifiseer, oorheers.
 add-exception-invalid-header = Hierdie werf probeer homself met ongeldige inligting identifiseer.
 add-exception-domain-mismatch-short = Verkeerde werf
+add-exception-domain-mismatch-long = Die sertifikaat behoort aan 'n ander werf, wat moontlik beteken dat iemand die werf probeer namaak.
 add-exception-expired-short = Verouderde inligting
+add-exception-expired-long = Die sertifikaat is nie tans geldig nie. Dit is dalk gesteel of verloor, en word dalk deur iemand gebruik om die werf na te boots.
 add-exception-unverified-or-bad-signature-short = Onbekende identiteit
+add-exception-unverified-or-bad-signature-long = Die sertifikaat word nie vertrou nie omdat dit nie geverifieer is met 'n beveiligde handtekening as uitgereik deur 'n erkende owerheid nie.
 add-exception-valid-short = Geldige sertifikaat
 add-exception-valid-long = Hierdie werf verskaf 'n geldige, geverifieerde identifikasie.  Dis nie nodig om 'n uitsondering te skep nie.
 add-exception-checking-short = Kontroleer van inligting
+add-exception-checking-long = Probeer tans dié werf te identifiseer…
 add-exception-no-cert-short = Geen inligting beskikbaar nie
+add-exception-no-cert-long = Kon nie identifikasiestatus vir dié werf verkry nie.
