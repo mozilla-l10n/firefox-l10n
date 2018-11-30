@@ -98,6 +98,9 @@ certmgr-add-exception =
     .accesskey = x
 exception-mgr =
     .title = ସୁରକ୍ଷା ବ୍ୟତିକ୍ରମ ଯୋଗକରନ୍ତୁ
+exception-mgr-extra-button =
+    .label = ସୁରକ୍ଷା ବ୍ୟତିକ୍ରମ ନିଶ୍ଚିତ କରନ୍ତୁ
+    .accesskey = C
 exception-mgr-supplemental-warning = ବିଧି ସଂଗତ ବ୍ୟାଙ୍କ, ଭଣ୍ଡାର, ଏବଂ ଅନ୍ୟାନ୍ୟ ସାର୍ବଜନୀନ ସାଇଟଗୁଡ଼ିକ ଆପଣଙ୍କୁ ଏହା କରିବାପାଇଁ କହିବ ନାହିଁ.
 exception-mgr-cert-location-url =
     .value = ସ୍ଥାନ:
@@ -122,6 +125,7 @@ pkcs12-dup-data = ପ୍ରମାଣପତ୍ର ଏବଂ ବ୍ୟକ୍ତି
 
 choose-p12-backup-file-dialog = ନକଲ ସଂରକ୍ଷଣ ପାଇଁ ଫାଇଲ ନାମ
 file-browse-pkcs12-spec = PKCS12 ଫାଇଲଗୁଡ଼ିକ
+choose-p12-restore-file-dialog = ଆମଦାନୀ କରିବା ପାଇଁ ପ୍ରମାଣପତ୍ର ଫାଇଲ
 
 ## Import certificate(s) file dialog
 
