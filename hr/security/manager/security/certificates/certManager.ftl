@@ -165,6 +165,7 @@ cert-not-verified-cert-not-trusted = Ovjera ovog certifikata nije moguća jer ni
 cert-not-verified-issuer-not-trusted = Ovjera ovog certifikata nije moguća jer izdavač nije pouzdan.
 cert-not-verified-issuer-unknown = Ovjera ovog certifikata nije moguća jer je izdavač nepoznat.
 cert-not-verified-ca-invalid = Ovjera ovog certifikata nije moguća jer CA certifikat nije važeći.
+cert-not-verified_algorithm-disabled = Ovjera ovog certifikata nije moguća jer je potpisan koristeći algoritam potpisa koji je onemogućen iz sigurnosnih razloga.
 cert-not-verified-unknown = Ovjera ovog certifikata nije moguća zbog nepoznatih razloga.
 
 ## Add Security Exception dialog
@@ -173,6 +174,7 @@ add-exception-branded-warning = Promijeniti ćete na način na koji { -brand-sho
 add-exception-invalid-header = Ova se stranica pokušava identificirati s neispravnim informacijama.
 add-exception-domain-mismatch-short = Pogrešna stranica
 add-exception-expired-short = Zastarjela informacija
+add-exception-unverified-or-bad-signature-short = Nepoznat identitet
 add-exception-valid-short = Ispravan certifikat
 add-exception-valid-long = Ova stranica pruža ispravnu, potvrđenu identifikaciju. Nema potrebe za dodavanjem iznimke.
 add-exception-checking-short = Provjera informacija
