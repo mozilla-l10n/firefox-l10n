@@ -105,6 +105,9 @@ certmgr-details =
 certmgr-fields =
     .value = Gwerzh ar vaezienn
     .accesskey = v
+certmgr-hierarchy =
+    .value = Urzhaz an testenioù
+    .accesskey = U
 certmgr-add-exception =
     .label = Ouzhpennañ un nemedenn…
     .accesskey = n
@@ -143,9 +146,13 @@ choose-p12-restore-file-dialog = Restr an testeni da vezañ enporzhiet
 
 file-browse-certificate-spec = Restroù testeni
 import-ca-certs-prompt = Diuzañ ar restr oc'h enderc'hel testeni(où) an aotrouniezh testeniañ da enporzhiañ
+import-email-cert-prompt = Diuzañ ar restr oc'h enderc'hel testeni postel unan bennak da enporzhiañ
 
 ## For editing certificates trust
 
+# Variables:
+#   $certName: the name of certificate
+edit-trust-ca = Derc'houezañ a ra an testeni "{ $certName }" un aotrouniezh testeniañ.
 
 ## For Deleting Certificates
 
@@ -163,9 +170,23 @@ delete-ca-cert-confirm = Azgoulennet hoc'h eus dilemel testenioù an aotrouniezh
 delete-ca-cert-impact = Mar bez dilamet pe disfiziet un testeni a-berzh un aotrouniezh testeniañ ne vo fiziañs ebet gant an arload-mañ en testenioù kaset gant an aotrouniezh testeniañ.
 delete-email-cert-title =
     .title = Dilemel an testenioù posteloù
+delete-email-cert-confirm = Fellout a ra deoc'h dilemel testenioù posteloù an dud-mañ ?
+delete-email-cert-impact = Mar bez dilamet testeni postel un den ne viot ket mui evit kas posteloù enrinek d'an den-mañ.
+# Used for semi-uniquely representing a cert.
+#
+# Variables:
+#   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
+cert-with-serial =
+    .value = Testeni gant steudriñv : { $serialNumber }
 
 ## Cert Viewer
 
+# Title used for the Certificate Viewer.
+#
+# Variables:
+#   $certificate : a string representative of the certificate being viewed.
+cert-viewer-title =
+    .title = Skrammer testeni: “{ $certName }”
 not-present =
     .value = <N'emañ ket war an testeni>
 # Cert verification
@@ -196,9 +217,14 @@ cert-not-verified-unknown = Ne oa ket evit gwiriañ an testeni-mañ rak meur a a
 add-exception-branded-warning = Emaoc'h o tilemel penaos e vez hennadet al lec'hienn-mañ gant { -brand-short-name }.
 add-exception-invalid-header = Emañ al lec'hienn o klask reiñ he fivelezh gant stlennoù didalvoudek.
 add-exception-domain-mismatch-short = Lec'hienn fall
+add-exception-domain-mismatch-long = D'ul lec'hienn disheñvel eo an testeni, pezh a dalv marteze emañ unan bennak o klask da zreveziñ al lec'hienn-mañ.
 add-exception-expired-short = Stlennoù diamzeret
+add-exception-expired-long = N'eo ket talvoudek an testeni. Marteze eo bet laeret pe gollet hag arveret gant unan bennak evit dreveziñ al lec'hienn-mañ.
 add-exception-unverified-or-bad-signature-short = Pivelezh dianav
+add-exception-unverified-or-bad-signature-long = N'eus fiziañs ebet en testeni rak n'eo ket bet gwiriet gant un aotrouniezh anavezet oc'h arverañ ur sinadur diogel.
 add-exception-valid-short = Testeni talvoudek
 add-exception-valid-long = Pourchaset ez eus bet un naoudi talvoudek ha gwiriet. N'eus ket ezhomm ouzhpennañ un nemedenn.
 add-exception-checking-short = O wiriañ ar stlennoù
+add-exception-checking-long = O klask naoudiañ al lec'hienn-mañ…
 add-exception-no-cert-short = N'eus stlennoù hegerz ebet
+add-exception-no-cert-long = N'haller ket kaout ar stad naoudiañ evit al lec'hienn lavaret.
