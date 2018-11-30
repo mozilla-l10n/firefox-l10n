@@ -12,6 +12,10 @@ certmgr-tab-servers =
     .label = Serveri
 certmgr-tab-ca =
     .label = Autoritātes
+certmgr-mine = Jums ir jūs identificējoši sertifikāti no šīm organizācijām
+certmgr-people = Jums failā ir šos cilvēkus identificējoši sertifikāti
+certmgr-servers = Jums failā ir šos serverus identificējoši sertifikāti
+certmgr-ca = Jums failā ir šīs sertificēšanas autoritātes identificējoši sertifikāti
 certmgr-detail-general-tab-title =
     .label = Vispārīgi
     .accesskey = V
@@ -172,9 +176,21 @@ delete-email-cert-title =
     .title = Dzēst e-pasta sertifikātus
 delete-email-cert-confirm = Vai esat pārliecināts, ka vēlaties dzēst šo cilvēku e-pasta sertifikātus?
 delete-email-cert-impact = Ja izdzēsīsiet personas e-pasta sertifikātu, jūs vairs nevarēsiet šai personai nosūtīt šifrētas vēstules.
+# Used for semi-uniquely representing a cert.
+#
+# Variables:
+#   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
+cert-with-serial =
+    .value = Sertifikāts ar sērijas numurs: { $serialNumber }
 
 ## Cert Viewer
 
+# Title used for the Certificate Viewer.
+#
+# Variables:
+#   $certificate : a string representative of the certificate being viewed.
+cert-viewer-title =
+    .title = Sertifikātu skatītājs: “{ $certName }”
 not-present =
     .value = <Nav daļa no sertifikāta>
 # Cert verification
