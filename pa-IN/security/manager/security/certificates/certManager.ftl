@@ -12,6 +12,8 @@ certmgr-detail-general-tab-title =
 certmgr-detail-pretty-print-tab-title =
     .label = ਵੇਰਵਾ
     .accesskey = D
+certmgr-pending-label =
+    .value = ਹੁਣ ਸਰਟੀਫਿਕੇਟ ਦੀ ਜਾਂਚ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ...
 certmgr-cert-server =
     .label = ਸਰਵਰ
 certmgr-override-lifetime =
@@ -57,6 +59,7 @@ pkcs12-dup-data = ਸਰਟੀਫਿਕੇਟ ਅਤੇ ਪ੍ਰਾਈਵੇਟ
 
 delete-user-cert-confirm = ਕੀ ਤੁਸੀਂ ਇਹ ਸਰਟੀਫਿਕੇਟ ਹਟਾਉਣ ਦੀ ਪੁਸ਼ਟੀ ਕਰਦੇ ਹੋ?
 delete-ssl-cert-confirm = ਕੀ ਤੁਸੀਂ ਇਹ ਸਰਵਰ ਛੋਟਾਂ ਹਟਾਉਣੀਆਂ ਚਾਹੁੰਦੇ ਹੋ?
+delete-ssl-cert-impact = ਜੇ ਤੁਸੀਂ ਇੱਕ ਸਰਵਰ ਅਪਵਾਦ ਨੂੰ ਹਟਾਇਆ ਤਾਂ, ਤੁਸੀਂ ਉਸ ਸਾਈਟ ਲਈ ਆਮ ਸੁਰੱਖਿਆ ਚੈੱਕ ਨੂੰ ਮੁੜ-ਚਾਲੂ ਕਰਦੇ ਹੋ ਅਤੇ ਇਸ ਲਈ ਇੱਕ ਵੈਧ ਸਰਟੀਫਿਕੇਟ ਚਾਹੀਦਾ ਹੈ।
 
 ## Cert Viewer
 
