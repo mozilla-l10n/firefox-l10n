@@ -13,14 +13,23 @@ certmgr-begins-value =
     .value = { certmgr-begins-label.label }
 certmgr-expires-value =
     .value = { certmgr-expires-label.label }
+certmgr-edit =
+    .label = Upraviť dôveryhodnosť…
+    .accesskey = U
 certmgr-export =
     .label = Exportovať…
     .accesskey = x
+certmgr-delete-builtin =
+    .label = Odstrániť alebo prestať dôverovať…
+    .accesskey = d
 certmgr-add-exception =
     .label = Pridať výnimku…
     .accesskey = n
 exception-mgr =
     .title = Pridanie bezpečnostnej výnimky
+exception-mgr-extra-button =
+    .label = Potvrdiť bezpečnostnú výnimku
+    .accesskey = P
 exception-mgr-cert-location-url =
     .value = Adresa:
 exception-mgr-cert-location-download =
@@ -44,6 +53,7 @@ pkcs12-dup-data = Tento certifikát a privátny kľúč už na tomto bezpečnost
 
 choose-p12-backup-file-dialog = Názov súboru, ktorý sa má zálohovať
 file-browse-pkcs12-spec = Súbory PKCS12
+choose-p12-restore-file-dialog = Súbor s certifikátom, ktorý sa má importovať
 
 ## Import certificate(s) file dialog
 
@@ -67,6 +77,10 @@ delete-ssl-cert-title =
     .title = Odstránenie výnimky certifikátu webového servera
 delete-ssl-cert-confirm = Naozaj chcete odstrániť tieto výnimky pre certifikáty servera?
 delete-ssl-cert-impact = Ak odstránite výnimku certifikátu servera, obnovíte zvyčajné kontroly zabezpečenia tohto servera a vyžadovanie platného certifikátu.
+delete-ca-cert-title =
+    .title = Odstránenie alebo zrušenie dôveryhodnosti certifikátov certifikačnej autority
+delete-ca-cert-confirm = Požiadali ste o odstránenie certifikátov certifikačnej autority. Pre zabudované certifikáty bude zrušená dôveryhodnosť, čo má rovnaký efekt ako ich odstránenie. Naozaj chcete certifikáty odstrániť resp. zrušiť od dôveryhodnosť?
+delete-ca-cert-impact = Ak odstránite alebo prestanete dôverovať certifikátu certifikačnej autority (CA), táto aplikácia nebude dôverovať certifikátom, ktoré táto CA vydala.
 delete-email-cert-title =
     .title = Odstránenie e-mailových certifikátov
 delete-email-cert-confirm = Naozaj chcete odstrániť e-mailové certifikáty týchto ľudí?
@@ -96,6 +110,7 @@ cert-not-verified-cert-not-trusted = Nepodarilo sa overiť tento certifikát, pr
 cert-not-verified-issuer-not-trusted = Nepodarilo sa overiť tento certifikát, pretože jeho vydavateľ nie je dôveryhodný.
 cert-not-verified-issuer-unknown = Nepodarilo sa overiť tento certifikát, pretože jeho vydavateľ je neznámy.
 cert-not-verified-ca-invalid = Nepodarilo sa overiť tento certifikát, pretože certifikát certifikačnej autority je neplatný.
+cert-not-verified_algorithm-disabled = Nepodarilo sa overiť tento certifikát, pretože bol podpísaný pomocou algoritmu, ktorý nie je bezpečný.
 cert-not-verified-unknown = Z neznámych dôvodov sa nepodarilo overiť tento certifikát.
 
 ## Add Security Exception dialog
@@ -104,6 +119,7 @@ add-exception-branded-warning = Chystáte sa potlačiť spôsob, akým { -brand-
 add-exception-invalid-header = Táto stránka sa pokúša identifikovať neplatnými údajmi.
 add-exception-domain-mismatch-short = Nesprávna stránka
 add-exception-expired-short = Informácie sú zastarané
+add-exception-unverified-or-bad-signature-short = Neznáma identita
 add-exception-valid-short = Platný certifikát
 add-exception-valid-long = Táto stránka poskytuje platnú, overenú identifikáciu. Nie je potrebné pridať výnimku.
 add-exception-checking-short = Kontrola informácií
