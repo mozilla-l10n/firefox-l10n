@@ -24,6 +24,8 @@ certmgr-subject-info-label =
     .value = Տրված է՝.
 certmgr-issuer-info-label =
     .value = Թողարկող՝.
+certmgr-period-of-validity-label =
+    .value = Վաերականության ժամկետը
 certmgr-fingerprints-label =
     .value = Մատնահետքերը
 certmgr-cert-detail =
@@ -38,6 +40,8 @@ certmgr-cert-detail-ou =
     .value = Կազմակերպ. Բաժանմ. (OU)
 certmgr-cert-detail-serialnumber =
     .value = Հերթ. Համարը
+certmgr-cert-detail-sha256-fingerprint =
+    .value = SHA-256 Մատնահետք
 certmgr-cert-detail-sha1-fingerprint =
     .value = SHA1 Մատնահետք
 certmgr-edit-ca-cert =
@@ -59,6 +63,8 @@ certmgr-override-lifetime =
     .label = Տևողություն
 certmgr-token-name =
     .label = Անվտանգության Սարք
+certmgr-begins-label =
+    .label = Սկսում է՝
 certmgr-begins-value =
     .value = { certmgr-begins-label.label }
 certmgr-expires-label =
@@ -99,6 +105,9 @@ certmgr-details =
 certmgr-fields =
     .value = Դաշտի արժեքը
     .accesskey = ա
+certmgr-hierarchy =
+    .value = Վկայագրի Ծառը
+    .accesskey = H
 certmgr-add-exception =
     .label = Ավելացնել բացառություն...
     .accesskey = բ
@@ -110,6 +119,9 @@ exception-mgr-extra-button =
 exception-mgr-supplemental-warning = Օրինական բանկեր, խանութներ և այլ հասարակական կայքեր չեն խնդրի ձեզանից անել սա:
 exception-mgr-cert-location-url =
     .value = Հասցեն.
+exception-mgr-cert-location-download =
+    .label = Ստանալ Վկայագիրը
+    .accesskey = G
 exception-mgr-cert-status-view-cert =
     .label = Դիտել...
     .accesskey = V
@@ -134,17 +146,23 @@ choose-p12-restore-file-dialog = Ներմուծել Վկայագրի ֆայլը
 
 file-browse-certificate-spec = Վկայագրի Ֆայլեր
 import-ca-certs-prompt = Ընտրեք ԱՀ (CA) ներմուծվելիք Վկայագրերը պարունակող ֆայլը
+import-email-cert-prompt = Ընտրեք որևէ մեկի էլ. փոստի Վկայագիրը պարունակող ֆայլը
 
 ## For editing certificates trust
 
+# Variables:
+#   $certName: the name of certificate
+edit-trust-ca = «{ $certName }» Վկայագիրը ներկայացնում է Վկայագրային կենտրոն:
 
 ## For Deleting Certificates
 
 delete-user-cert-title =
     .title = Հեռացնել Ձեր Արտոնագիրը
+delete-user-cert-confirm = Դուք վստա՞հ եք, որ ցանկանում եք ջնջել այս հավաստագրերը։
 delete-user-cert-impact = Եթե հեռացնեք Ձեր արտոնաթղթերից մեկը, ապա այլևս իվիճակի չէք լինի Ձեր ինքնությունը հաստատելու համար այն օգտագործել:
 delete-ssl-cert-title =
     .title = Ջնջել սպասարկիչի Վկայագրի բացառությունները
+delete-ssl-cert-confirm = Դուք վստա՞հ եք, որ ցանկանում էք ջնջել այս սերվերային բացառությունները։
 delete-ssl-cert-impact = Եթե դուք ջնջում եք սպասարկիչից բացառումը, դուք վերականգնում եք այդ սպասարկիչի համար սովորական անվտանգության ստուգումը և պահանջում օգտագործել վավեր Վկայագիր:
 delete-ca-cert-title =
     .title = Ջնջում կամ Անվստահություն Վկայագրերի Կենտրոնի (CA) Վկայագրերին
@@ -152,9 +170,23 @@ delete-ca-cert-confirm = Դուք պատրաստվում եք ջնջել այս 
 delete-ca-cert-impact = Եթե ջնջեք կամ չվստահեք Վկայագրման կենտրոնի (CA) Վկայագրին, ապա ծրագիրը այլևս չի վստահլի այս CA-ի Վկայագրերին:
 delete-email-cert-title =
     .title = Ջնջել Էլ-Փոստ արտոնագրերը
+delete-email-cert-confirm = Իրո՞ք ցանկանում եք այս անձանց էլ. փոստ արտոնագրերը հեռացնել:
+delete-email-cert-impact = Եթե Դուք ջնջեք անձի էլ. փոստի Վկայագիրը, ապա Դուք այլևս չեք կարողանա ուղարկել կոդավորված էլ. նամակ տվյալ անձին:
+# Used for semi-uniquely representing a cert.
+#
+# Variables:
+#   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
+cert-with-serial =
+    .value = Վկայագրել հաջորդական համարով՝ { $serialNumber }
 
 ## Cert Viewer
 
+# Title used for the Certificate Viewer.
+#
+# Variables:
+#   $certificate : a string representative of the certificate being viewed.
+cert-viewer-title =
+    .title = Վկայագարի դիտակ՝ “{ $certName }”
 not-present =
     .value = <Վկայագրի մաս չէ>
 # Cert verification
@@ -185,9 +217,14 @@ cert-not-verified-unknown = Անհայտ պատճառներով անհնար է�
 add-exception-branded-warning = Դուք պատրաստվում եք ստիպողաբար փոխել ինքնությունը { -brand-short-name } կայքի համար:
 add-exception-invalid-header = Այս կայքը փորձում է նույնականացնել իրեն օգտագործելով սխալ տվյալներ:
 add-exception-domain-mismatch-short = Սխալ վեբ կայք
+add-exception-domain-mismatch-long = Վկայագիրը վերաբերում է այլ կայքի. սա նշանակում է, որ որևէ մեկը փորձում է նմանակել այդ կայքը:
 add-exception-expired-short = Հնացած տվյալներ
+add-exception-expired-long = Վկայագիրը այս պահին վավեր չէ: Հնարավոր է՝ այն գողացվել է կամ այն օգտագործում է որևէ մեկը, որը ցանկանում է նմանակել այդ կայքը:
 add-exception-unverified-or-bad-signature-short = Անհայտ ինքնություն
+add-exception-unverified-or-bad-signature-long = Վկայագիրը վստահելի չէ, քանզի այն չի ստուգվել անվտանգ ստորագրությամբ՝ վկայագրման վստահելի կենտրոնի կողմից:
 add-exception-valid-short = Վավեր Վկայագիր
 add-exception-valid-long = Այս կայքը տրամադրում է ստուգված և վավեր նույնականացում: Կարիք չկա տրամադրել արտոնություն:
 add-exception-checking-short = Տվյալների ստուգում
+add-exception-checking-long = Փորձ է արվում նույնականացնել կայքը…
 add-exception-no-cert-short = Չկա հասանելի տվյալ
+add-exception-no-cert-long = Չհաջողվեց ստանալ այս կայքի նույնականացման տվյալները:
