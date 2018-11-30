@@ -701,6 +701,22 @@ content-blocking-tracking-protection-option-always =
 content-blocking-tracking-protection-option-private =
     .label = Mà roña Windows huìi
     .accesskey = p
+content-blocking-setting-strict =
+    .label = Sa ahìi
+    .accesskey = r
+content-blocking-setting-custom =
+    .label = Nagi'iaj
+    .accesskey = C
+content-blocking-learn-how = Gahuin chrūn doj
+content-blocking-trackers-label =
+    .label = Sa naga'naj
+    .accesskey = T
+content-blocking-tracking-protection-option-all-windows =
+    .label = Riña daran' ventana
+    .accesskey = A
+content-blocking-option-private =
+    .label = Ma riña ventana huìi
+    .accesskey = p
 content-blocking-tracking-protection-change-block-list = Naduna lista sa narán
 content-blocking-third-party-cookies-label =
     .label = Si kookies a'ngô dugui'
@@ -723,6 +739,9 @@ content-blocking-reject-trackers-block-trackers-option =
 content-blocking-reject-trackers-all-third-parties-option =
     .label = Daran' nej kokî ânej e (ga'ue gi'iaj sun a'nan' web gi'ia)
     .accesskey = A
+content-blocking-cookies-label =
+    .label = Kookies
+    .accesskey = K
 
 ## Privacy Section - Tracking
 
@@ -744,6 +763,9 @@ tracking-exceptions =
 tracking-change-block-list =
     .label = Naduno' nej sa arrán
     .accesskey = C
+tracking-manage-exceptions =
+    .label = Ganikaj ñu'un' extensiôn...
+    .accesskey = x
 
 ## Privacy Section - Permissions
 

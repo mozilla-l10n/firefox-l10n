@@ -28,3 +28,7 @@ onboarding-ghostery-text = Hìo doj gache nunt, hue'ê doj ni dugumînt man'ânt
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Sync
 onboarding-fxa-text = Gutà' si yuguît guendâ { -fxaccount-brand-name } ni nagi'iaj guña nej nuguan' araj sunt doj, da'nga' huìi ni riña ne rakïj ñanj riña daran' ne aga' nikajt { -brand-short-name }.
+
+## Message strings belonging to the Return to AMO flow
+
+return-to-amo-extension-button = Nuto' extensiôn

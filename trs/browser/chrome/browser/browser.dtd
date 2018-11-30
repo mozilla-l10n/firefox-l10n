@@ -306,6 +306,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Àsij gan' nikaj ñu'unj nej dugui' navegador">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Na'nïn' panel nani'in da'nga' web">
 
+
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Gi'iaj sun sitio na 'ngà si kamarat ni mikrofono">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Gi'iaj sun sitio na 'ngà si mikrofonot">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Gi'iaj sun sitio na 'ngà riña si ago'">
@@ -1017,7 +1018,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.fastBlock.add.label "Nuto' sa arrán...">
 
 <!ENTITY contentBlocking.trackingProtection2.label "Daran sa naga'naj a">
+
 <!ENTITY contentBlocking.trackingProtection3.label "Sa naga'naj">
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.allowed.label):
+     This label signals that this type of content blocking is turned
+     OFF and is not blocking tracker content, so this is not
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Trackers [are] Allowed"-->
+<!ENTITY contentBlocking.trackingProtection.allowed.label "Ga'ue">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking tracker content, so this is
@@ -1053,6 +1061,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.3rdPartyCookies.add.label "Nuto' sa arán...">
+
+<!ENTITY contentBlocking.manageSettings.label "Ganikaj ñu'un sa arán riña kontenido">
+<!ENTITY contentBlocking.manageSettings.accesskey "M">
+
+<!ENTITY contentBlocking.trackersView.label "Sa naga'naj">
+<!ENTITY contentBlocking.trackersView.strictInfo.label "Da' garánt riña daran' sa naga'naj ni ganahuit sa arán gahuin ma ya yitinj in.">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Nato' sa gire'e">
 <!ENTITY contentBlocking.breakageReportView.label "Nato' sa gire'e">
