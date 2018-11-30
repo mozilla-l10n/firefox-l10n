@@ -24,6 +24,8 @@ certmgr-subject-info-label =
     .value = Diterbitkan untuk
 certmgr-issuer-info-label =
     .value = Diterbitkan Oleh
+certmgr-period-of-validity-label =
+    .value = Periode Kevalidan
 certmgr-fingerprints-label =
     .value = Sidik Jari
 certmgr-cert-detail =
@@ -38,6 +40,8 @@ certmgr-cert-detail-ou =
     .value = Unit Organisasi (OU)
 certmgr-cert-detail-serialnumber =
     .value = Nomor Seri
+certmgr-cert-detail-sha256-fingerprint =
+    .value = Sidik jari SHA-256
 certmgr-cert-detail-sha1-fingerprint =
     .value = Sidik jari SHA1
 certmgr-edit-ca-cert =
@@ -59,6 +63,8 @@ certmgr-override-lifetime =
     .label = Umur
 certmgr-token-name =
     .label = Perangkat Keamanan
+certmgr-begins-label =
+    .label = Mulai Sejak
 certmgr-begins-value =
     .value = { certmgr-begins-label.label }
 certmgr-expires-label =
@@ -97,6 +103,9 @@ certmgr-details =
 certmgr-fields =
     .value = Nilai Field
     .accesskey = N
+certmgr-hierarchy =
+    .value = Hierarki Sertifikat
+    .accesskey = H
 certmgr-add-exception =
     .label = Tambah Pengecualian…
     .accesskey = P
@@ -135,9 +144,13 @@ choose-p12-restore-file-dialog = Berkas Sertifikat untuk dikembalikan ke semula
 
 file-browse-certificate-spec = Berkas Sertifikat
 import-ca-certs-prompt = Pilih Berkas yang mengandung sertifikat CA untuk diimpor:
+import-email-cert-prompt = Pilih Berkas yang mengandung sertifikat dalam email untuk diimpor:
 
 ## For editing certificates trust
 
+# Variables:
+#   $certName: the name of certificate
+edit-trust-ca = Sertifikat "{ $certName }" mewakili Otoritas Sertifikat.
 
 ## For Deleting Certificates
 
@@ -153,6 +166,8 @@ delete-ca-cert-title =
     .title = Hapus atau Tidak Lagi Mempercayai Sertifikat CA
 delete-ca-cert-confirm = Anda telah meminta untuk menghapus sertifikat CA ini. Untuk sertifikat bawaan, semua kepercayaan akan dihapus yang efeknya sama. Yakin ingin menghapus atau tidak lagi mempercayai sertifikat ini?
 delete-ca-cert-impact = Jika Anda menghapus atau tidak lagi mempercayai sertifikat milik otoritas sertifikat (CA), aplikasi ini tidak akan lagi mempercayai sertifikat yang diterbitkan CA tersebut.
+delete-email-cert-confirm = Yakin ingin menghapus sertifikat email perorangan ini?
+delete-email-cert-impact = Jika Anda menghapus sertifikat email seseorang, Anda tidak akan bisa lagi mengirim email terenkripsi kepada orang tersebut.
 
 ## Cert Viewer
 
@@ -190,6 +205,7 @@ add-exception-domain-mismatch-long = Sertifikat dimiliki oleh situs lain yang be
 add-exception-expired-short = Informasi yang Kuno
 add-exception-expired-long = Sertifikat saat ini tidak valid. Sertifikat ini mungkin telah dicuri atau hilang, dan dapat digunakan oleh pihak tertentu untuk menyamar sebagai situs ini.
 add-exception-unverified-or-bad-signature-short = Identitas Tidak Dikenali
+add-exception-unverified-or-bad-signature-long = Sertifikat tidak dipercaya karena tidak diverifikasi sebagai diterbitkan oleh otoritas yang dipercaya menggunakan tanda tangan yang aman.
 add-exception-valid-short = Sertifikat Valid
 add-exception-valid-long = Situs ini menyediakan identifikasi yang valid dan terverifikasi. Tidak perlu dimasukkan ke dalam pengecualian.
 add-exception-checking-short = Memeriksa Informasi
