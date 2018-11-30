@@ -32,3 +32,4 @@ onboarding-fxa-text = Cadastre-se para uma { -fxaccount-brand-name } e sincroniz
 ## Message strings belonging to the Return to AMO flow
 
 return-to-amo-extension-button = Adicionar a extensão
+return-to-amo-get-started-button = Primeiros passos com { -brand-short-name }
