@@ -37,6 +37,8 @@ file-browse-pkcs12-spec = PKCS12 ఫైళ్ళు
 
 ## Cert Viewer
 
+verify-ssl-server =
+    .value = SSL సేవిక ధృవీకరణపత్రం
 
 ## Add Security Exception dialog
 
