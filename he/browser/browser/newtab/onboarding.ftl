@@ -6,6 +6,7 @@
 ## UI strings for the simplified onboarding modal
 
 onboarding-button-label-try-now = נסו זאת כעת
+onboarding-button-label-get-started = תחילת עבודה
 onboarding-welcome-header = ברוכים הבאים אל { -brand-short-name }
 onboarding-start-browsing-button-label = התחלת גלישה
 
@@ -22,3 +23,10 @@ onboarding-screenshots-text = ניתן לצלם, לשמור ולשתף צילו�
 onboarding-addons-title = תוספות
 onboarding-ghostery-title = Ghostery
 onboarding-ghostery-text = גלישה מהירה, חכמה או בטוחה יותר עם הרחבות כמו Ghostery, המאפשרת לך לחסום פרסומות מעצבנות.
+# Note: "Sync" in this case is a generic verb, as in "to synchronize"
+onboarding-fxa-title = סנכרון
+
+## Message strings belonging to the Return to AMO flow
+
+return-to-amo-extension-button = הוספת ההרחבה
+return-to-amo-get-started-button = תחילת עבודה עם { -brand-short-name }
