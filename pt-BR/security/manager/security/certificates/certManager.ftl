@@ -19,6 +19,8 @@ certmgr-detail-general-tab-title =
 certmgr-detail-pretty-print-tab-title =
     .label = Detalhes
     .accesskey = D
+certmgr-pending-label =
+    .value = Atualmente verificando certificado…
 certmgr-subject-info-label =
     .value = Emitido para
 certmgr-issuer-info-label =
@@ -74,6 +76,9 @@ certmgr-email =
     .label = Endereço de e-mail
 certmgr-serial =
     .label = Número de série
+certmgr-view =
+    .label = Ver…
+    .accesskey = x
 certmgr-edit =
     .label = Confiança…
     .accesskey = o
@@ -118,6 +123,9 @@ exception-mgr-cert-location-url =
 exception-mgr-cert-location-download =
     .label = Verificar certificado
     .accesskey = V
+exception-mgr-cert-status-view-cert =
+    .label = Ver…
+    .accesskey = x
 exception-mgr-permanent =
     .label = Salvar esta exceção permanentemente
     .accesskey = S
@@ -164,11 +172,25 @@ delete-email-cert-title =
     .title = Excluir certificados de e-mail
 delete-email-cert-confirm = Deseja realmente excluir os certificados de e-mail dessas pessoas?
 delete-email-cert-impact = Se você excluir o certificado de e-mail de alguém, não poderá mais enviar e-mails criptografados a esta pessoa.
+# Used for semi-uniquely representing a cert.
+#
+# Variables:
+#   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
+cert-with-serial =
+    .value = Certificado com número de série: { $serialNumber }
 
 ## Cert Viewer
 
+# Title used for the Certificate Viewer.
+#
+# Variables:
+#   $certificate : a string representative of the certificate being viewed.
+cert-viewer-title =
+    .title = Visualizador de certificado: “{ $certName }”
 not-present =
     .value = <Não faz parte do certificado>
+# Cert verification
+cert-verified = Este certificado foi verificado para estes usos:
 # Add usage
 verify-ssl-client =
     .value = Certificado para cliente SSL
@@ -178,6 +200,15 @@ verify-ssl-ca =
     .value = Autoridade certificadora de SSL
 verify-email-recip =
     .value = Certificado de destinatário de e-mail
+# Cert verification
+cert-not-verified-cert-revoked = Não foi possível verificar este certificado porque ele foi revogado.
+cert-not-verified-cert-expired = Não foi possível verificar este certificado porque ele expirou.
+cert-not-verified-cert-not-trusted = Não foi possível verificar este certificado porque ele não é considerado confiável.
+cert-not-verified-issuer-not-trusted = Não foi possível verificar este certificado porque o expedidor não é considerado confiável.
+cert-not-verified-issuer-unknown = Não foi possível verificar este certificado porque o expedidor é desconhecido.
+cert-not-verified-ca-invalid = Não foi possível verificar este certificado porque o certificado da autoridade certificadora é inválido.
+cert-not-verified_algorithm-disabled = Não foi possível verificar este certificado porque ele foi assinado usando um algoritmo de assinatura que foi desativado por não ser seguro.
+cert-not-verified-unknown = Não foi possível verificar este certificado por razão desconhecida.
 
 ## Add Security Exception dialog
 
@@ -193,3 +224,4 @@ add-exception-valid-long = Este site fornece identificação válida e homologad
 add-exception-checking-short = Verificando informações
 add-exception-checking-long = Tentando identificar o site…
 add-exception-no-cert-short = Nenhuma informação disponível
+add-exception-no-cert-long = Não foi possível obter status de identificação para este site.
