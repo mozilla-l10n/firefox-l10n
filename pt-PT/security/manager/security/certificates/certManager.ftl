@@ -2,13 +2,28 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+certmgr-tab-mine =
+    .label = Os seus certificados
+certmgr-tab-people =
+    .label = Pessoas
+certmgr-tab-servers =
+    .label = Servidores
+certmgr-tab-ca =
+    .label = Autoridades
+certmgr-detail-general-tab-title =
+    .label = Geral
+    .accesskey = G
 certmgr-detail-pretty-print-tab-title =
     .label = Detalhes
     .accesskey = D
+certmgr-cert-detail-sha256-fingerprint =
+    .value = Assinatura SHA-256
 certmgr-begins-value =
     .value = { certmgr-begins-label.label }
 certmgr-expires-value =
     .value = { certmgr-expires-label.label }
+exception-mgr =
+    .title = Adicionar exceção de segurança
 pkcs12-unknown-err-restore = Falhou a restauração do ficheiro PKCS #12 for razões desconhecidas.
 pkcs12-unknown-err = A operação PKCS #12 falhou por razões desconhecidas.
 pkcs12-dup-data = O certificado e a chave privada já existem no dispositivo de segurança.
@@ -17,6 +32,7 @@ pkcs12-dup-data = O certificado e a chave privada já existem no dispositivo de 
 
 choose-p12-backup-file-dialog = Nome do ficheiro a guardar
 file-browse-pkcs12-spec = Ficheiros PKCS12
+choose-p12-restore-file-dialog = Ficheiro do certificado para importar
 
 ## Import certificate(s) file dialog
 
@@ -50,4 +66,5 @@ cert-not-verified-unknown = Não foi possível verificar este certificado por ra
 
 ## Add Security Exception dialog
 
+add-exception-valid-short = Certificado válido
 add-exception-no-cert-short = Informação indisponível
