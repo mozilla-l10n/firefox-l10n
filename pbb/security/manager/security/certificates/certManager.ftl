@@ -24,7 +24,7 @@ file-browse-certificate-spec = Txãa eça' u'pyãja'
 ## For Deleting Certificates
 
 delete-email-cert-title =
-    .title = Eç ewsa's kapçujuna jxuy kajnxiisa's.{ "  " }
+    .title = Eç ewsa's kapçujuna jxuy kajnxiisa's.
 
 ## Cert Viewer
 
