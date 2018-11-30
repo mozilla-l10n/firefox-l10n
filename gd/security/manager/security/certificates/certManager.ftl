@@ -177,6 +177,7 @@ cert-not-verified-cert-not-trusted = Cha do ghabh an teisteanas seo a dhearbhadh
 cert-not-verified-issuer-not-trusted = Cha do ghabh an teisteanas seo a dhearbhadh a chionn 's nach eil earbsa san fhoillsichear.
 cert-not-verified-issuer-unknown = Cha do ghabh an teisteanas seo a dhearbhadh a chionn 's gu bheil am foillsichear neo-aithnichte.
 cert-not-verified-ca-invalid = Cha do ghabh an teisteanas seo a dhearbhadh a chionn 's gu bheil teisteanas an ùghdarrais theisteanachaidh mì-dhligheach.
+cert-not-verified_algorithm-disabled = Cha do ghabh an teisteanas seo a dhearbhadh a chionn 's gun deach a shoidhneadh le algairim soidhnidh a chaidh a chur à comas a chionn 's nach eil an algairim tèarainte.
 cert-not-verified-unknown = Cha do ghabh an teisteanas seo a dhearbhadh ach chan eil fhios carson.
 
 ## Add Security Exception dialog
@@ -185,6 +186,7 @@ add-exception-branded-warning = Tha thu an impis am modh a chur gu neoini air a 
 add-exception-invalid-header = Tha an làrach a' feuchainn ri fiosrachadh mì-dhligheach a chleachdadh gus aithne a thoirt air fhèin.
 add-exception-domain-mismatch-short = Làrach mhì-cheart
 add-exception-expired-short = Fiosrachadh ro aosta
+add-exception-unverified-or-bad-signature-short = Dearbh-aithne neo-aithnichte
 add-exception-valid-short = Teisteanas dligheach
 add-exception-valid-long = Tha an làrach a' solar dearbh-aithne dhligheach is dhearbhaichte.  Chan eil feum air eisgeachd a chur ris.
 add-exception-checking-short = A' sgrùdadh an fhiosrachaidh
