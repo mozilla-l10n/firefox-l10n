@@ -12,6 +12,10 @@ certmgr-tab-servers =
     .label = שרתים
 certmgr-tab-ca =
     .label = רשויות
+certmgr-mine = יש לך אישורים מהארגונים האלה שמעידים על זהותך
+certmgr-people = יש לך אישורים בקובץ שמעידים על זהותם של אנשים אלה
+certmgr-servers = יש לך אישורים בקובץ שמעידים על זהותם של שרתים אלה
+certmgr-ca = יש לך אישורים בקובץ שמעידים על זהותן של רשויות אישורים אלו
 certmgr-detail-general-tab-title =
     .label = כללי
     .accesskey = כ
@@ -172,6 +176,12 @@ delete-email-cert-title =
     .title = מחיקת אישורי דוא״ל
 delete-email-cert-confirm = האם ברצונך למחוק את אישורי הדוא״ל של אנשים אלה?
 delete-email-cert-impact = אם אישור אבטחת הדוא״ל של אדם זה ימחק, לא יהיה ניתן לשלוח אליו הודעות מוצפנות.
+# Used for semi-uniquely representing a cert.
+#
+# Variables:
+#   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
+cert-with-serial =
+    .value = אישור עם מספר סידורי: { $serialNumber }
 
 ## Cert Viewer
 
@@ -219,4 +229,6 @@ add-exception-unverified-or-bad-signature-long = האישור אינו מהימ�
 add-exception-valid-short = אישור חוקי
 add-exception-valid-long = אתר זה סיפק הזדהות מאומתת וחוקית. אין צורך להוסיף חריגה עבודו.
 add-exception-checking-short = בודק מידע
+add-exception-checking-long = מתבצע ניסיון זיהוי של האתר…
 add-exception-no-cert-short = אין מידע זמין
+add-exception-no-cert-long = לא ניתן לקבל את מצב הזיהוי של אתר זה.
