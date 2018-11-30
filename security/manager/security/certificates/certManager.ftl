@@ -4,6 +4,8 @@
 
 certmgr-title =
     .title = Trình quản lí Chứng thư
+certmgr-tab-mine =
+    .label = Chứng thư của Bạn
 certmgr-tab-people =
     .label = Người khác
 certmgr-tab-servers =
@@ -22,6 +24,8 @@ certmgr-subject-info-label =
     .value = Cấp cho
 certmgr-issuer-info-label =
     .value = Cấp bởi
+certmgr-fingerprints-label =
+    .value = Vân tay
 certmgr-cert-detail =
     .title = Chi tiết Chứng thư
     .buttonlabelaccept = Đóng
@@ -34,6 +38,8 @@ certmgr-cert-detail-ou =
     .value = Đơn vị của Tổ chức (OU)
 certmgr-cert-detail-serialnumber =
     .value = Số Serial
+certmgr-cert-detail-sha1-fingerprint =
+    .value = Vân tay SHA1
 certmgr-edit-ca-cert =
     .title = Chỉnh thiết lập độ tin cậy chứng thư CA
     .style = width: 48em;
@@ -117,6 +123,8 @@ import-ca-certs-prompt = Chọn Tập Tin chứa (các) chứng thư của CA đ
 
 ## For Deleting Certificates
 
+delete-user-cert-title =
+    .title = Xóa các Chứng thư của bạn
 delete-user-cert-confirm = Bạn có chắc muốn xóa các chứng chỉ này không?
 delete-user-cert-impact = Nếu bạn xóa một trong các chứng thư của riêng bạn, bạn không thể dùng nó để nhận diện chính mình được nữa.
 delete-ssl-cert-title =
