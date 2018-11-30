@@ -28,3 +28,14 @@ onboarding-ghostery-text = Přehladujće spěšnišo, bóle inteligentnje abo w�
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Synchronizować
 onboarding-fxa-text = Registrujće so za { -fxaccount-brand-name } a synchronizujće swoje zapołožki, hesła a wočinjene rajtarki, hdźežkuli { -brand-short-name } wužiwaće.
+
+## Message strings belonging to the Return to AMO flow
+
+return-to-amo-sub-header = Wulkotnje, maće { -brand-short-name }
+# <icon></icon> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-header = Wobstarajće sej nětko <icon></icon><b>{ $addon-name }.</b>
+return-to-amo-extension-button = Rozšěrjenje přidać
+return-to-amo-get-started-button = Prěnje kroki z { -brand-short-name }
