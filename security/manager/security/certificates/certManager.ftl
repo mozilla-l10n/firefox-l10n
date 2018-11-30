@@ -176,6 +176,12 @@ delete-email-cert-title =
     .title = ઇ-મેલ પ્રમાણપત્રો દૂર કરો
 delete-email-cert-confirm = શુ તમને અા વ્યક્તિઅોના ઇ-મેલ પ્રમાણપત્રોને દુર કરવા માંગો છો?
 delete-email-cert-impact = જો તમે વ્યક્તિનું ઈ-મેલ પ્રમાણપત્ર કાઢી નાંખો, તો તમે તે વ્યક્તિને એનક્રિપ્ટ થયેલ ઈ-મેલ મોકલવામાં લાંબા સમય સુધી સમર્થ રહેશો નહિં.
+# Used for semi-uniquely representing a cert.
+#
+# Variables:
+#   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
+cert-with-serial =
+    .value = અનુક્રમ નંબર સાથે પ્રમાણપત્ર: { $serialNumber }
 
 ## Cert Viewer
 
