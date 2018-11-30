@@ -160,6 +160,12 @@ delete-email-cert-title =
     .title = Izbris e-poštnih digitalnih potrdil
 delete-email-cert-confirm = Ste prepričani, da želite izbrisati digitalna potrdila za e-pošto naslednjih ljudi?
 delete-email-cert-impact = Če zbrišete e-poštno digitalno potrdilo osebe, ne boste več mogli pošiljati šifrirane elektronske pošte tej osebi.
+# Used for semi-uniquely representing a cert.
+#
+# Variables:
+#   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
+cert-with-serial =
+    .value = Digitalno potrdilo s serijsko številko: { $serialNumber }
 
 ## Cert Viewer
 
