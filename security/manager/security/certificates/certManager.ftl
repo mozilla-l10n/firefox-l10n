@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+certmgr-title =
+    .title = Sertifikat-handterar
 certmgr-tab-mine =
     .label = Dine sertifikat
 certmgr-tab-people =
@@ -10,12 +12,18 @@ certmgr-tab-servers =
     .label = Tenarar
 certmgr-tab-ca =
     .label = Utskrivarar
+certmgr-mine = Du har sertifikat frå desse organisasjonene som identifiserer deg
+certmgr-people = Du har lagra sertifikat som identifiserer desse personane
+certmgr-servers = Du har lagra sertifikat som identifiserer desse serverane
+certmgr-ca = Du har lagra sertifikat som identifiserer desse sertifikatutskrivarane
 certmgr-detail-general-tab-title =
     .label = Generelt
     .accesskey = G
 certmgr-detail-pretty-print-tab-title =
     .label = Detaljar
     .accesskey = D
+certmgr-pending-label =
+    .value = Stadfestar sertifikatet…
 certmgr-subject-info-label =
     .value = Skrive ut til
 certmgr-issuer-info-label =
@@ -24,6 +32,10 @@ certmgr-period-of-validity-label =
     .value = Gjeld i perioden
 certmgr-fingerprints-label =
     .value = Fingeravtrykk
+certmgr-cert-detail =
+    .title = Sertifikatdetaljar
+    .buttonlabelaccept = Lat att
+    .buttonaccesskeyaccept = L
 certmgr-cert-detail-cn =
     .value = Vanleg namn (CN)
 certmgr-cert-detail-o =
@@ -67,12 +79,30 @@ certmgr-email =
     .label = E-postadresse
 certmgr-serial =
     .label = Serienummer
+certmgr-view =
+    .label = Vis…
+    .accesskey = V
+certmgr-edit =
+    .label = Rediger tiltru…
+    .accesskey = R
+certmgr-export =
+    .label = Eksporter…
+    .accesskey = k
 certmgr-delete =
     .label = Slett…
     .accesskey = S
 certmgr-delete-builtin =
     .label = Slett/opphev tiltru…
     .accesskey = e
+certmgr-backup =
+    .label = Tryggingskopiar…
+    .accesskey = r
+certmgr-backup-all =
+    .label = Tryggingskopier alt…
+    .accesskey = s
+certmgr-restore =
+    .label = Importer…
+    .accesskey = m
 certmgr-details =
     .value = Sertifikatfelt
     .accesskey = r
@@ -82,11 +112,26 @@ certmgr-fields =
 certmgr-hierarchy =
     .value = Sertifikathierarki
     .accesskey = k
+certmgr-add-exception =
+    .label = Legg til unntak…
+    .accesskey = e
+exception-mgr =
+    .title = Legg til tryggingsunntak
+exception-mgr-extra-button =
+    .label = Stadfest tryggingsunntak
+    .accesskey = S
+exception-mgr-supplemental-warning = Lovlege bankar, butikkar, og andre offentlege nettsider vil ikkje be deg om å gjere dette.
 exception-mgr-cert-location-url =
     .value = Adresse:
 exception-mgr-cert-location-download =
     .label = Hent sertifikat
     .accesskey = H
+exception-mgr-cert-status-view-cert =
+    .label = Vis…
+    .accesskey = V
+exception-mgr-permanent =
+    .label = Lagre dette unntaket permanent
+    .accesskey = L
 pk11-bad-password = Passordet du skreiv inn er ugyldig.
 pkcs12-decode-err = Klarte ikkje å dekode fila. Det kan vera at fila ikkje er lagra i PKCS #12-format, at ho er øydelagd, eller at passordet du skreiv inn var feil.
 pkcs12-unknown-err-restore = Klarte ikkje å byggja opp att PKCS #12-fila av ukjende årsaker.
@@ -131,6 +176,12 @@ delete-email-cert-title =
     .title = Slett e-postsertifikat
 delete-email-cert-confirm = Er du sikker på at du vil sletta e-postsertifikata åt desse personane?
 delete-email-cert-impact = Dersom du slettar ein person sitt e-postsertifikat vil du ikkje lenger kunne senda kryptert e-post til den personen.
+# Used for semi-uniquely representing a cert.
+#
+# Variables:
+#   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
+cert-with-serial =
+    .value = Sertifikat med serienummer: { $serialNumber }
 
 ## Cert Viewer
 
@@ -171,6 +222,7 @@ add-exception-branded-warning = Du overstyrer no korleis { -brand-short-name } i
 add-exception-invalid-header = Denne netstaden prøver å identifisera seg med ugyldig informasjon.
 add-exception-domain-mismatch-short = Feil nettstad
 add-exception-domain-mismatch-long = Sertifikatet høyrer til ein annan nettstad, noko som kan tyda at nokon freistar å etterlikna nettstaden.
+add-exception-expired-short = Forelda informasjon
 add-exception-expired-long = Sertifikatet er ikkje gyldig no. Sertifikatet kan ha vorte stole eller tapt, og det kan vera at nokon brukar det til å etterlikna denne nettstaden.
 add-exception-unverified-or-bad-signature-short = Ukjend identitet
 add-exception-unverified-or-bad-signature-long = Sertifikatet er ikkje tiltrudd fordi det ikkje er stadfesta at sertifikatet er skrive ut av ein kjend utskrivar med ein trygg signatur.
