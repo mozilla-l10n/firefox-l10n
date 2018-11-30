@@ -10,6 +10,7 @@ about-performance-title = Rheolwr Tasgau
 column-name = Enw
 column-type = Math
 column-energy-impact = Effaith Ynni
+column-memory = Cof
 
 ## Special values for the Name column
 
@@ -37,6 +38,15 @@ type-other = Arall
 energy-impact-high = Uchel ({ $value })
 energy-impact-medium = Canolig ({ $value })
 energy-impact-low = Isel ({ $value })
+
+## Values for the Memory column
+##
+## Variables:
+##   $value (Number) - How much memory is used
+
+size-KB = { $value } KB
+size-MB = { $value } MB
+size-GB = { $value } GB
 
 ## Tooltips for the action buttons
 

@@ -28,3 +28,14 @@ onboarding-ghostery-text = Porwch yn gynt, yn glyfrach neu yn fwy diogel gydag e
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Sync
 onboarding-fxa-text = Cofrestrwch am { -fxaccount-brand-name } a chydweddu eich nodau tudalen, cyfrineiriau a thabiau agored ymhob man lle rydych yn defnyddio { -brand-short-name }.
+
+## Message strings belonging to the Return to AMO flow
+
+return-to-amo-sub-header = Gwych, mae gennych { -brand-short-name }
+# <icon></icon> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-header = Nawr gadewch i ni gael <icon> </icon> <b> { $addon-name } </ B> i chi.
+return-to-amo-extension-button = Ychwanegu'r Estyniad
+return-to-amo-get-started-button = Cychwyn gyda { -brand-short-name }
