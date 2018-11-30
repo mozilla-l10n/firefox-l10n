@@ -1,0 +1,77 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+certmgr-tab-people =
+    .label = व्यक्ति
+certmgr-pending-label =
+    .value = सद्या प्रमाणपत्र तपासत आहे…
+certmgr-override-lifetime =
+    .label = कार्यकाळ
+certmgr-begins-value =
+    .value = { certmgr-begins-label.label }
+certmgr-expires-value =
+    .value = { certmgr-expires-label.label }
+exception-mgr =
+    .title = सुरक्षा अपवाद जोडा
+exception-mgr-supplemental-warning = अधिकृत बँक, दुकान, व अन्य सार्वजणीक स्थळ हे करण्यास विचारणार नाही.
+exception-mgr-cert-location-url =
+    .value = स्थान:
+exception-mgr-cert-location-download =
+    .label = प्रमाणपत्र प्राप्त करा
+    .accesskey = G
+exception-mgr-cert-status-view-cert =
+    .label = दृश्य…
+    .accesskey = V
+pkcs12-unknown-err-restore = अपरिचीत कारणास्तव PKCS #12 फाइल पुनःसंचयीत करण्यास अपयशी.
+pkcs12-unknown-err-backup = अपरिचीत कारणास्तव PKCS #12 बॅकअप फाइल निर्माण करण्यास अपयशी.
+pkcs12-unknown-err = अपरिचीत कारणास्तव PKCS #12 कार्यपध्दती अपयशी.
+pkcs12-info-no-smartcard-backup = हार्डवेअर सुरक्षा साधन जसे की स्मार्ट कार्ड पासून प्रमाणपत्राचे पुनः प्रत बनविणे शक्य नाही.
+
+## PKCS#12 file dialogs
+
+
+## Import certificate(s) file dialog
+
+file-browse-certificate-spec = प्रमाणपत्र फाइल
+import-ca-certs-prompt = CA प्रमाणपत्रे आयात करतायेण्याजोगी फाइल निवडा
+
+## For editing certificates trust
+
+
+## For Deleting Certificates
+
+delete-user-cert-title =
+    .title = प्रमाणपत्रे काढुन टाका
+delete-user-cert-impact = आपलेच प्रमाणपत्रे काढुन टाकल्यास, आपण स्वतःचीच ओळख पठवू शकणार नाही.
+delete-email-cert-title =
+    .title = ई-मेल प्रमाणपत्रे काढुन टाका
+
+## Cert Viewer
+
+not-present =
+    .value = <प्रमाणपत्राचा भाग नाही>
+# Cert verification
+cert-verified = हे प्रमाणपत्र खालिल वापरांकरिता तपासलेले आहे:
+# Add usage
+verify-ssl-client =
+    .value = SSL उपभोक्ता प्रमाणपत्र
+verify-ssl-ca =
+    .value = SSL प्रमाणपत्र प्राधिकरण
+# Cert verification
+cert-not-verified-cert-revoked = परवानगी रद्द केल्यामुळे हे प्रमाणपत्र तपासल्या जाऊ शकले नाही.
+cert-not-verified-cert-not-trusted = हे प्रमाणपत्र विश्वासर्ह नसल्यामुळे हे प्रमाणपत्र तपासल्या जाऊ शकले नाही.
+cert-not-verified-issuer-not-trusted = वितरक विश्वासर्ह नसल्यामुळे हे प्रमाणपत्र तपासल्या जाऊ शकले नाही.
+cert-not-verified-issuer-unknown = वितरक अपरिचीत असल्यामुळे हे प्रमाणपत्र तपासल्या जाऊ शकले नाही.
+cert-not-verified-ca-invalid = CA प्रमाणपत्र अवैध असल्यामुळे हे प्रमाणपत्र तपासल्या जाऊ शकले नाही.
+cert-not-verified-unknown = अपिरिचीत कारणास्तव प्रमाणपत्र तपासू शकले नाही.
+
+## Add Security Exception dialog
+
+add-exception-invalid-header = हे स्थळ स्वतःहास अवैध माहितीसह ओळखण्याचा प्रयत्न करीत आहे.
+add-exception-domain-mismatch-short = चुकीचे स्थळ
+add-exception-expired-short = अवापरण्याजोगी माहिती
+add-exception-valid-short = वैध प्रमाणपत्र
+add-exception-valid-long = हे स्थळ वैध, तपासलेले ओळख पुरविते.  अपवाद जोडण्याची काही आवश्यकता नाही.
+add-exception-checking-short = माहिती तपासत आहे
+add-exception-no-cert-short = माहिती उपलब्ध नाही
