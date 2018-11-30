@@ -26,9 +26,9 @@
 <!ENTITY  socks.label                   "SOCKS vært:">
 <!ENTITY  socks.accesskey               "c">
 <!ENTITY  socks4.label                  "SOCKS v4">
-<!ENTITY  socks4.accesskey              "k">
+<!ENTITY  socks4.accesskey              "4">
 <!ENTITY  socks5.label                  "SOCKS v5">
-<!ENTITY  socks5.accesskey              "v">
+<!ENTITY  socks5.accesskey              "5">
 <!ENTITY  HTTPport.label                "Port:">
 <!ENTITY  HTTPport.accesskey            "p">
 <!ENTITY  SSLport.label                 "Port:">
@@ -38,8 +38,8 @@
 <!ENTITY  noproxy.label                 "Ingen proxy for:">
 <!ENTITY  noproxy.accesskey             "n">
 <!ENTITY  noproxyExplain.label          "Fx .mozilla.org, .net.dk, 192.168.1.0/24">
-<!ENTITY  shareproxy.label              "Benyt denne proxy-server til alle protokollerne">
-<!ENTITY  shareproxy.accesskey          "B">
+<!ENTITY  shareproxy.label              "Brug denne proxy-server for alle protokoller">
+<!ENTITY  shareproxy.accesskey          "x">
 <!ENTITY  autologinproxy.label          "Spørg ikke efter godkendelse, hvis adgangskoden er gemt">
 <!ENTITY  autologinproxy.accesskey      "g">
 <!ENTITY  autologinproxy.tooltip        "Denne indstilling godkender dig automatisk overfor proxy-servere, når du har gemt login-informationer til dem. Du bliver spurgt, hvis godkendelsen slår fejl.">
@@ -50,3 +50,9 @@
 <!ENTITY  dnsOverHttpsUrl.label         "URL">
 <!ENTITY  dnsOverHttpsUrl.accesskey     "L">
 <!ENTITY  dnsOverHttpsUrl.tooltip       "URL til DNS-opslag via HTTPS">
+<!ENTITY  dnsOverHttpsUrlDefault.label     "Brug standard">
+<!ENTITY  dnsOverHttpsUrlDefault.accesskey "B">
+<!ENTITY  dnsOverHttpsUrlDefault.tooltip   "Brug standard-URL'en til DNS-opslag over HTTPS">
+<!ENTITY  dnsOverHttpsUrlCustom.label      "Tilpasset">
+<!ENTITY  dnsOverHttpsUrlCustom.accesskey  "e">
+<!ENTITY  dnsOverHttpsUrlCustom.tooltip    "Angiv den URL, du foretrækker til DNS-opslag over HTTPS">
