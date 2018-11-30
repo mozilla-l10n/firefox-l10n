@@ -12,6 +12,7 @@ certmgr-tab-servers =
     .label = Iqeddacen
 certmgr-tab-ca =
     .label = Iduba
+certmgr-mine = Γuṛ-k iselkan n tuddsiwin seg tekebbanit-agi i k-isuluyen
 certmgr-people = Ɣur-k iselkinen ɣef ufaylu  yessuluyen imdanen-agi
 certmgr-servers = Ɣuṛ-k iselkinen deg ufaylu yessuluyen iqeddacen-agi
 certmgr-ca = Ɣur-k iselkinen ɣef ufaylu yessuluyen iduba-agi n iselkinen
@@ -128,6 +129,10 @@ exception-mgr-cert-location-download =
 exception-mgr-cert-status-view-cert =
     .label = Timeẓri…
     .accesskey = V
+exception-mgr-permanent =
+    .label = Sekles i lebda tasureft-agi
+    .accesskey = k
+pk11-bad-password = Awal uffir i d-tefkiḍ d arameɣtu.
 pkcs12-decode-err = Akestengel n ufaylu ur yeddi ar. Ahat ur yelli ara deg umasal PKCS #12, neɣ yexṣeṛ, neɣ ahat awal uffir d arameɣtu.
 pkcs12-unknown-err-restore = Tuccḍa n tririt n ufaylu PKCS #12 s teɣẓint tarussint.
 pkcs12-unknown-err-backup = Aklas n ufaylu PKCS #12 ur yeddi ara i teɣẓint tarussint.
@@ -149,6 +154,9 @@ import-email-cert-prompt = Fren afaylu igebren aselkin n yimayl ara d-ketreḍ
 
 ## For editing certificates trust
 
+# Variables:
+#   $certName: the name of certificate
+edit-trust-ca = Aselkin "{ $certName }" isgensas adabu n uselken.
 
 ## For Deleting Certificates
 
@@ -210,8 +218,10 @@ cert-not-verified-unknown = Ur izmir ara ad isenqed aselkin-agi imi taɣzint d t
 
 ## Add Security Exception dialog
 
+add-exception-branded-warning = Aqli-k tettedduḍ ad tesuluḍ s tarrayt-nniḍen mačči am akken { -brand-short-name } isuluy asmel-agi.
 add-exception-invalid-header = Asmel-agi yettaɛraḍ ad isulu imanis s telɣut tarameɣtut.
 add-exception-domain-mismatch-short = Asmel aruzɣan
+add-exception-domain-mismatch-long = Aselkin-a n usmel-nniḍen, aya immal-d d akken yella walbaɛḍ la yettaɛraḍen ad yaker tamagit n usmel-a.
 add-exception-expired-short = Talɣut taqbuṛt
 add-exception-expired-long = Aselkin-agi d arameɣtu akka tura. Ahat ittwaker neɣ ijla, u yezmer ad ittuseqdec akken ad tettwaker tmagit n usmel-agi.
 add-exception-unverified-or-bad-signature-short = Tamagit arussin
