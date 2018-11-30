@@ -10,6 +10,7 @@ about-performance-title = Amsefrak n twuri
 column-name = Isem
 column-type = Tawsit
 column-energy-impact = Gellu n tezmert
+column-memory = Takatut
 
 ## Special values for the Name column
 
@@ -37,6 +38,15 @@ type-other = Wiyaḍ
 energy-impact-high = Afellay { $value }
 energy-impact-medium = Alemmas { $value }
 energy-impact-low = Adday { $value }
+
+## Values for the Memory column
+##
+## Variables:
+##   $value (Number) - How much memory is used
+
+size-KB = { $value } KAṬ
+size-MB = { $value } MAṬ
+size-GB = { $value } GAṬ
 
 ## Tooltips for the action buttons
 
