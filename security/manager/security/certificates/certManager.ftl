@@ -101,6 +101,9 @@ import-ca-certs-prompt = Selecionar arquivo contendo os certificados de CA a imp
 
 ## For editing certificates trust
 
+# Variables:
+#   $certName: the name of certificate
+edit-trust-ca = O certificado “{ $certName }” representa uma autoridade certificadora.
 
 ## For Deleting Certificates
 
