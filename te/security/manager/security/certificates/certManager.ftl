@@ -47,6 +47,7 @@ certmgr-cert-detail-sha1-fingerprint =
 certmgr-edit-ca-cert =
     .title = CA ధృవీకరణపత్రం నమ్మిక అమరికలను సరిచేయి
     .style = width: 48em;
+certmgr-edit-cert-edit-trust = విశ్సనీయత అమరికలను మార్చు:
 certmgr-edit-cert-trust-ssl =
     .label = ఈ ధృవీకరణపత్రం వెబ్ సైటులను గుర్తించగలదు.
 certmgr-edit-cert-trust-email =
