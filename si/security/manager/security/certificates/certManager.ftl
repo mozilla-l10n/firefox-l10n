@@ -102,6 +102,9 @@ import-email-cert-prompt = ආයාත කිරීමට වෙනත් ක�
 
 ## For editing certificates trust
 
+# Variables:
+#   $certName: the name of certificate
+edit-trust-ca = "{ $certName }" සහතිකය සහතික අධිකාරිය නියෝජය කරයි.
 
 ## For Deleting Certificates
 
@@ -117,6 +120,8 @@ delete-email-cert-confirm = මෙම පුද්ගලයින්ගේ ව�
 
 not-present =
     .value = <සහතිකයේ කොටසක් නොවේ>
+# Cert verification
+cert-verified = මෙම සහතිකය පහත දැක්වෙන පරිශීලකයන් සඳහා සත්‍යාපනය කර ඇත:
 # Add usage
 verify-ssl-client =
     .value = SSL සේවාලභි සහතිකය
