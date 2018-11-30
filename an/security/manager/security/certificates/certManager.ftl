@@ -105,6 +105,9 @@ certmgr-details =
 certmgr-fields =
     .value = Valor d'o campo
     .accesskey = V
+certmgr-hierarchy =
+    .value = Hierarquía de certificaus
+    .accesskey = H
 certmgr-add-exception =
     .label = Adhibir una excepción…
     .accesskey = x
@@ -143,9 +146,13 @@ choose-p12-restore-file-dialog = Fichero de certificau ta importar
 
 file-browse-certificate-spec = Fichers de certificaus
 import-ca-certs-prompt = Trigue o fichero que contiene o(s) certificau(s) CA a importar
+import-email-cert-prompt = Trigue o fichero que contiene o certificau de correu electronico d'unatra persona a importar
 
 ## For editing certificates trust
 
+# Variables:
+#   $certName: the name of certificate
+edit-trust-ca = O certificau "{ $certName }" represienta a una entidat certificadera.
 
 ## For Deleting Certificates
 
@@ -163,9 +170,23 @@ delete-ca-cert-confirm = Ha solicitau eliminar istos certificaus d'a CA. En o ca
 delete-ca-cert-impact = Si elimina u deixa de confiar en un certificau d'una entidat certificadera (CA), ista aplicación deixará de confiar en qualsiquier certificau emitiu por ista CA.
 delete-email-cert-title =
     .title = Eliminar os certificaus de correu electronico
+delete-email-cert-confirm = Ye seguro que quiere eliminar istos certificaus de correu electronico d'istas personas?
+delete-email-cert-impact = Si elimina un certificau de correu electronico d'una persona, ya no podrá ninviar-le correu zifrau.
+# Used for semi-uniquely representing a cert.
+#
+# Variables:
+#   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
+cert-with-serial =
+    .value = Certificau con numero de serie: { $serialNumber }
 
 ## Cert Viewer
 
+# Title used for the Certificate Viewer.
+#
+# Variables:
+#   $certificate : a string representative of the certificate being viewed.
+cert-viewer-title =
+    .title = Visor de certificau: “{ $certName }”
 not-present =
     .value = <No ye parte d'o certificau>
 # Cert verification
@@ -200,6 +221,7 @@ add-exception-domain-mismatch-long = O certificau perteneix a un puesto diferent
 add-exception-expired-short = Información obsoleta
 add-exception-expired-long = O certificau perteneix a un puesto diferent, o qual podría significar que belún ye mirando de fer-se pasar por vusté.
 add-exception-unverified-or-bad-signature-short = Identidat desconoixida
+add-exception-unverified-or-bad-signature-long = No se confía en o certificau, porque no ye verificau por una autoridat confiada que faiga servir una sinyadura segura.
 add-exception-valid-short = Certificau valido
 add-exception-valid-long = Iste puesto proporciona identificación valida y verificada.  No cal adhibir garra excepción.
 add-exception-checking-short = Comprobación d'a información
