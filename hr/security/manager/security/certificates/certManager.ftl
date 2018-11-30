@@ -12,6 +12,10 @@ certmgr-tab-servers =
     .label = Poslužitelji
 certmgr-tab-ca =
     .label = Agencije
+certmgr-mine = Imate certifikate sljedećih organizacija koje vas identificiraju
+certmgr-people = Imate certifikate na datoteci koji identificiraju sljedeće osobe
+certmgr-servers = Imate certifikate na datoteci koji identificiraju sljedeće poslužitelje
+certmgr-ca = Imate certifikate na datoteci koji identificiraju sljedeće nadležne agencije
 certmgr-detail-general-tab-title =
     .label = Općenito
     .accesskey = O
@@ -24,6 +28,8 @@ certmgr-subject-info-label =
     .value = Izdano
 certmgr-issuer-info-label =
     .value = Izdao
+certmgr-period-of-validity-label =
+    .value = Razdoblje valjanosti
 certmgr-fingerprints-label =
     .value = Otisci
 certmgr-cert-detail =
@@ -38,6 +44,8 @@ certmgr-cert-detail-ou =
     .value = Organizacijska jedinica (OU)
 certmgr-cert-detail-serialnumber =
     .value = Serijski broj
+certmgr-cert-detail-sha256-fingerprint =
+    .value = SHA-256 otisak
 certmgr-cert-detail-sha1-fingerprint =
     .value = SHA1 otisak
 certmgr-edit-ca-cert =
@@ -59,6 +67,8 @@ certmgr-override-lifetime =
     .label = Vijek trajanja
 certmgr-token-name =
     .label = Sigurnosni uređaj
+certmgr-begins-label =
+    .label = Počinje na
 certmgr-begins-value =
     .value = { certmgr-begins-label.label }
 certmgr-expires-label =
@@ -99,6 +109,9 @@ certmgr-details =
 certmgr-fields =
     .value = Vrijednost polja
     .accesskey = V
+certmgr-hierarchy =
+    .value = Hijerarhija certifikata
+    .accesskey = H
 certmgr-add-exception =
     .label = Dodaj iznimku…
     .accesskey = D
@@ -137,9 +150,13 @@ choose-p12-restore-file-dialog = Datoteka certifikata za uvoz
 
 file-browse-certificate-spec = Datoteke certifikata
 import-ca-certs-prompt = Za uvoz odaberite datoteku koja sadrži CA certifikat
+import-email-cert-prompt = Za uvoz odaberite datoteku koja sadrži nečiji certifikat e-pošte
 
 ## For editing certificates trust
 
+# Variables:
+#   $certName: the name of certificate
+edit-trust-ca = Certifikat "{ $certName }" predstavlja agenciju certifikata.
 
 ## For Deleting Certificates
 
@@ -157,9 +174,23 @@ delete-ca-cert-confirm = Zatražili ste brisanje ovih CA certifikata. Za ugrađe
 delete-ca-cert-impact = Ako obrišete ili poništite povjerenje CA certifikat, ova aplikacija više neće vjerovati certifikatima koje je objavio taj CA.
 delete-email-cert-title =
     .title = Obriši certifikate e-pošte
+delete-email-cert-confirm = Jeste li sigurni da želite obrisati certifikate e-pošte ovih ljudi?
+delete-email-cert-impact = Ako obrišete certifikat e-pošte određene osobe, više neće moći toj osobi slati kriptirane e-poruke.
+# Used for semi-uniquely representing a cert.
+#
+# Variables:
+#   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
+cert-with-serial =
+    .value = Certifikat sa serijskim brojem: { $serialNumber }
 
 ## Cert Viewer
 
+# Title used for the Certificate Viewer.
+#
+# Variables:
+#   $certificate : a string representative of the certificate being viewed.
+cert-viewer-title =
+    .title = Preglednik certifikata: “{ $certName }”
 not-present =
     .value = <Nije dio certifikata>
 # Cert verification
@@ -190,9 +221,14 @@ cert-not-verified-unknown = Ovjera ovog certifikata nije moguća zbog nepoznatih
 add-exception-branded-warning = Promijeniti ćete na način na koji { -brand-short-name } identificira ovu stranicu.
 add-exception-invalid-header = Ova se stranica pokušava identificirati s neispravnim informacijama.
 add-exception-domain-mismatch-short = Pogrešna stranica
+add-exception-domain-mismatch-long = Certifikat pripada drugoj stranici, što može značiti da netko pokušava krivotvoriti ovu stranicu.
 add-exception-expired-short = Zastarjela informacija
+add-exception-expired-long = Certifikat trenutno nije ispravan. Možda je ukraden ili izgubljen, i može biti upotrebljen za krivotvorenje ove stranice.
 add-exception-unverified-or-bad-signature-short = Nepoznat identitet
+add-exception-unverified-or-bad-signature-long = Certifikat nije pouzdan jer nije potvrđen kao izdan od priznate agencije koristeći sigurni potpis.
 add-exception-valid-short = Ispravan certifikat
 add-exception-valid-long = Ova stranica pruža ispravnu, potvrđenu identifikaciju. Nema potrebe za dodavanjem iznimke.
 add-exception-checking-short = Provjera informacija
+add-exception-checking-long = Pokušaj identificiranja stranice…
 add-exception-no-cert-short = Nema dostupnih informacija
+add-exception-no-cert-long = Nije moguće dobiti identifikacijski status za ovu stranicu.
