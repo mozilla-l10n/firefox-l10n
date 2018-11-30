@@ -199,6 +199,8 @@ verify-ssl-server =
     .value = Certificado para servidor SSL
 verify-ssl-ca =
     .value = Autoridade certificadora de SSL
+verify-email-signer =
+    .value = Certificado de assinante de e-mail
 verify-email-recip =
     .value = Certificado de destinatário de e-mail
 # Cert verification
@@ -220,6 +222,7 @@ add-exception-domain-mismatch-long = O certificado pertence a um site diferente,
 add-exception-expired-short = Informação desatualizada
 add-exception-expired-long = O certificado não é válido no momento. Ele pode ter sido roubado ou perdido e poderia ser usado por uma pessoa para representar este site.
 add-exception-unverified-or-bad-signature-short = Identidade desconhecida
+add-exception-unverified-or-bad-signature-long = O certificado não é considerado confiável porque não foi homologado por uma autoridade reconhecida usando uma assinatura segura.
 add-exception-valid-short = Certificado válido
 add-exception-valid-long = Este site fornece identificação válida e homologada. Não é necessário adicionar uma exceção.
 add-exception-checking-short = Verificando informações
