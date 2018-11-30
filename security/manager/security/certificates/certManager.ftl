@@ -12,6 +12,10 @@ certmgr-tab-servers =
     .label = Serverlər
 certmgr-tab-ca =
     .label = Səlahiyyətli
+certmgr-mine = Sizi müəyyənləşdirən bu təşkilatlardan təsdiq sənədləriniz var
+certmgr-people = Bu şəxsləri müəyyənləşdirən qeydiyyatlı təsdiq sənədləriniz var
+certmgr-servers = Bu serverləri müəyyənləşdirən qeydiyyatlı təsdiq sənədləriniz var
+certmgr-ca = Bu təsdiq sənədi səlahiyyətlilərini müəyyənləşdirən qeydiyyatlı təsdiq sənədləriniz var
 certmgr-detail-general-tab-title =
     .label = Ümumi
     .accesskey = Ü
@@ -128,6 +132,8 @@ exception-mgr-cert-status-view-cert =
 exception-mgr-permanent =
     .label = Bu xüsusi vəziyyəti həmişə saxla
     .accesskey = m
+pk11-bad-password = Daxil edilmiş parol səhv idi.
+pkcs12-decode-err = Faylın açılması uğursuz oldu.  Ya PKCS #12 formatında deyil və korlanıb ya da daxil etdiyiniz parol səhvdir.
 pkcs12-unknown-err-restore = PKCS #12 faylının yenilənməsi naməlum səbəblərə görə uğursuz oldu.
 pkcs12-unknown-err-backup = Naməlum səbəblərə görə PKCS #12 ehtiyatlama faylı yaradıla bilmədi.
 pkcs12-unknown-err = PKCS #12 əməliyyatı naməlum səbəblərə görə uğursuz oldu.
@@ -170,9 +176,21 @@ delete-email-cert-title =
     .title = E-poçt təsdiq sənədlərini sil
 delete-email-cert-confirm = Bu şəxslərin e-poçt təsdiq sənədlərini silmək istədiyinizə əminsiniz?
 delete-email-cert-impact = Əgər bir şəxsin poçt təsdiq sənədini silsəniz, növbəti poçt göndərmələrində bu şəxslə şifrəli poçt alış-verişi edə bilməzsiniz.
+# Used for semi-uniquely representing a cert.
+#
+# Variables:
+#   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
+cert-with-serial =
+    .value = Seriya nömrəli sertifikat: { $serialNumber }
 
 ## Cert Viewer
 
+# Title used for the Certificate Viewer.
+#
+# Variables:
+#   $certificate : a string representative of the certificate being viewed.
+cert-viewer-title =
+    .title = Sertifikat Görüntüləyicisi: “{ $certName }”
 not-present =
     .value = <Təsdiq sənədinin hissəsi deyil>
 # Cert verification
@@ -213,3 +231,4 @@ add-exception-valid-long = Bu sayt etibarlı və təsdiq edilmiş təyin etmə m
 add-exception-checking-short = Məlumat araşdırma
 add-exception-checking-long = Sayt təyin edilməyə çalışılır…
 add-exception-no-cert-short = Məlumat yoxdur
+add-exception-no-cert-long = Bu sayt üçün identifikasiya durumu almaq mümkün olmur.
