@@ -26,6 +26,8 @@ certmgr-cert-detail-ou =
     .value = Ingxenye Yenhlangano (OU)
 certmgr-cert-detail-serialnumber =
     .value = Inombolo Yaso
+certmgr-cert-detail-sha1-fingerprint =
+    .value = Isigxivizo somunwe SHA1
 certmgr-edit-ca-cert =
     .title = Lungisa ukuhlelwa kokwethembeka kwesitifiketi se-CA
     .style = width: 48em;
@@ -73,9 +75,13 @@ file-browse-pkcs12-spec = PKCS12 Amafayela
 
 file-browse-certificate-spec = Amafayela Ezitifiketi
 import-ca-certs-prompt = Khetha iFayela elinesitifiketi se-CA sokuthumela
+import-email-cert-prompt = Khetha iFayela elinesitifiketi sokuthumela se-imeyili yothile
 
 ## For editing certificates trust
 
+# Variables:
+#   $certName: the name of certificate
+edit-trust-ca = Lesi sitifiketi "{ $certName }" simelela iGunya Lesitifiketi.
 
 ## For Deleting Certificates
 
@@ -85,6 +91,8 @@ delete-user-cert-confirm = Uyaqiniseka yini ukuthi ufuna ukuzicisha lezi zitifik
 delete-user-cert-impact = Uma ucisha esinye sezitifiketi zakho, ngeke usasisebenzisa ukuze uzihlonze.
 delete-email-cert-title =
     .title = Cisha Izitifiketi ze-imeyili
+delete-email-cert-confirm = Uyaqiniseka yini ukuthi ufuna ukuzicisha lezi zitifiketi ze-imeyili yalaba bantu?
+delete-email-cert-impact = Uma ucisha isitifiketi se-imeyili, ngeke usakwazi ukuthumela i-imeyili enombhalo ocashile kulabo bantu.
 
 ## Cert Viewer
 
