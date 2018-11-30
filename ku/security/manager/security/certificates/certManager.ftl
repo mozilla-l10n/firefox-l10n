@@ -137,9 +137,13 @@ choose-p12-restore-file-dialog = Ji bo Îxrackirinê Pelê Sertîfîka Bike
 
 file-browse-certificate-spec = Pelên Sertîfîkayan
 import-ca-certs-prompt = Pela ku Sertîfîkaya CA ya bi hundir ve veguhêzbar dihewîne, hilbijêre
+import-email-cert-prompt = Pela ku sertîfîkaya E-Peyama bi hundir ve veguhêzbar hilbijêre
 
 ## For editing certificates trust
 
+# Variables:
+#   $certName: the name of certificate
+edit-trust-ca = Ev Sertîfîkaya "{ $certName }" Rayedarê sertîfîkayekê ye.
 
 ## For Deleting Certificates
 
@@ -157,6 +161,8 @@ delete-ca-cert-confirm = te xwest ku sertîfîkaya CAê jê bibî. Ji bo vesazki
 delete-ca-cert-impact = Eger tu sertîfîkaya (CA)ê jê bibî an jî pê ne bawer bî, ev sepan dê êdî bi tu sertîfîkayên CAê ne bawer be.
 delete-email-cert-title =
     .title = Sertîfîkaya E-Peyamê jê bibe
+delete-email-cert-confirm = Ji dixwazî ku sertîfîkayê E-Peyaman ên van kesan jê bibî?
+delete-email-cert-impact = Heke sertîfîkayên E-postayan jê bibî, êdî nikarî E-Peyamên binasnav ji van kesan re bişînî.
 
 ## Cert Viewer
 
@@ -192,6 +198,7 @@ add-exception-invalid-header = Ev malper dike ku bi agahiyên çewt xwe bide nas
 add-exception-domain-mismatch-short = Malpera Çewt
 add-exception-expired-short = Agahiyên Demaborî
 add-exception-unverified-or-bad-signature-short = Nasnameya nenas
+add-exception-unverified-or-bad-signature-long = Ji ber ku ev belgeya erêkirinê ji hêla rayedarekî/e nas ve bi îmzeyeke pêbawer nehatiye esehîkirin, bawerî pê nayê.
 add-exception-valid-short = Sertîfîkaya Derbasdar
 add-exception-valid-long = Ev malper sertîfîkayeke derbasdar dixwaze. Hewcedarî bi awartebûnekê nîn e.
 add-exception-checking-short = Agahiyan Raçav Dike
