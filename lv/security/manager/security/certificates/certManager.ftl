@@ -5,10 +5,20 @@
 certmgr-detail-pretty-print-tab-title =
     .label = Detaļas
     .accesskey = D
+certmgr-period-of-validity-label =
+    .value = Derīguma termiņš
+certmgr-cert-detail-sha256-fingerprint =
+    .value = SHA-256 pirkstu nospiedums
 certmgr-begins-value =
     .value = { certmgr-begins-label.label }
 certmgr-expires-value =
     .value = { certmgr-expires-label.label }
+certmgr-delete-builtin =
+    .label = Dzēst vai neuzticēties…
+    .accesskey = D
+exception-mgr-extra-button =
+    .label = Apstiprināt drošības izņēmumu
+    .accesskey = A
 pk11-bad-password = Ievadīta nepareiza parole.
 pkcs12-decode-err = Nevar atkodēt failu.  Vai nu tas nav PKCS #12 formātā, ir bojāts vai arī tika ievadīta nepareiza parole.
 pkcs12-unknown-err-restore = Nezināmu iemeslu dēļ neizdevās atjaunot PKCS #12 failu.
@@ -21,6 +31,7 @@ pkcs12-dup-data = Sertifikāts un privātā atslēga jau ir šajā drošības ie
 
 choose-p12-backup-file-dialog = Dublējamā faila nosaukums
 file-browse-pkcs12-spec = PKCS12 faili
+choose-p12-restore-file-dialog = Importējamā faila nosaukums
 
 ## Import certificate(s) file dialog
 
@@ -43,6 +54,10 @@ delete-ssl-cert-title =
     .title = Dzēst serveru sertifikātu izņēmumus
 delete-ssl-cert-confirm = Vai esat pārliecināts, ka vēlaties dzēst šos serveru izņēmumus?
 delete-ssl-cert-impact = Ja izdzēsīsiet servera izņēmumu, šim serverim tiks atjaunotas parastās drošības pārbaudes un tam būs nepieciešams derīgs sertifikāts.
+delete-ca-cert-title =
+    .title = Dzēst CA sertifikātus
+delete-ca-cert-confirm = Jūs esat izvēlējies dzēst CA sertifikātus. Iebūvētajiem sertifikātiem visa uzticamība tiks noņemta. Vai esat pārliecināts, ka vēlaties dzēst šos CA sertifikātus?
+delete-ca-cert-impact = Ja izdzēsīsiet sertifikātu autoritātes (CA) sertifikātu, šī programma vairs neuzticēsies nevienam sertifikātam, ko izsniegusi šī autoritāte.
 delete-email-cert-title =
     .title = Dzēst e-pasta sertifikātus
 delete-email-cert-confirm = Vai esat pārliecināts, ka vēlaties dzēst šo cilvēku e-pasta sertifikātus?
@@ -76,6 +91,7 @@ add-exception-branded-warning = Jūs grasāties mainīt kā { -brand-short-name 
 add-exception-invalid-header = Šī vietne mēģina identificēt sevi ar nederīgu informāciju.
 add-exception-domain-mismatch-short = Slikta vietne
 add-exception-expired-short = Novecojusi informācija
+add-exception-expired-long = Sertifikāts šobrīd nav derīgs. Iespējams tas ir nozagts vai pazaudēts un kāds mēģina izliekties par šo vietni.
 add-exception-valid-short = Derīgs sertifikāts
 add-exception-valid-long = Šī vietne nodrošina derīgu, pārbaudītu sertifikātu. Nav nepieciešams pievienot izņēmumu.
 add-exception-checking-short = Pārbauda informāciju
