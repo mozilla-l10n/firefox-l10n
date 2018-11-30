@@ -12,6 +12,10 @@ certmgr-tab-servers =
     .label = Kiszolgálók
 certmgr-tab-ca =
     .label = Hitelesítésszolgáltatók
+certmgr-mine = A következő szervezetektől vannak Önt azonosító tanúsítványok
+certmgr-people = A következő embereket lehet azonosítani a meglevő tanúsítványokkal
+certmgr-servers = A következő kiszolgálókat lehet azonosítani a meglevő tanúsítványokkal
+certmgr-ca = A következő hitelesítésszolgáltatókat lehet azonosítani a meglevő tanúsítványokkal
 certmgr-detail-general-tab-title =
     .label = Általános
     .accesskey = l
@@ -105,6 +109,9 @@ certmgr-details =
 certmgr-fields =
     .value = Mezőérték
     .accesskey = e
+certmgr-hierarchy =
+    .value = Tanúsítványhierarchia
+    .accesskey = H
 certmgr-add-exception =
     .label = Kivétel hozzáadása…
     .accesskey = h
@@ -143,9 +150,13 @@ choose-p12-restore-file-dialog = Importálandó tanúsítványfájl
 
 file-browse-certificate-spec = Tanúsítványok
 import-ca-certs-prompt = Válassza ki a fájlt, amelyben az importálandó CA-tanúsítvány van
+import-email-cert-prompt = Válassza ki a fájlt, amelyben az importálandó e-mail tanúsítvány van
 
 ## For editing certificates trust
 
+# Variables:
+#   $certName: the name of certificate
+edit-trust-ca = A(z) „{ $certName }” tanúsítvány egy hitelesítésszolgáltatót reprezentál.
 
 ## For Deleting Certificates
 
@@ -163,9 +174,23 @@ delete-ca-cert-confirm = A következő CA-tanúsítványok törlését kezdemén
 delete-ca-cert-impact = Ha egy hitelesítésszolgáltató (CA) tanúsítványát törli vagy a bizalmát attól visszavonja, az alkalmazás nem fog megbízni az általa kiadott tanúsítványokban.
 delete-email-cert-title =
     .title = E-mail tanúsítványok törlése
+delete-email-cert-confirm = Biztosan törölni akarja ezen emberek e-mail tanúsítványát?
+delete-email-cert-impact = Ha törli valakinek az e-mail tanúsítványát, többé nem tud kódolt levelet küldeni az illetőnek.
+# Used for semi-uniquely representing a cert.
+#
+# Variables:
+#   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
+cert-with-serial =
+    .value = Tanúsítvány ezen sorozatszámmal: { $serialNumber }
 
 ## Cert Viewer
 
+# Title used for the Certificate Viewer.
+#
+# Variables:
+#   $certificate : a string representative of the certificate being viewed.
+cert-viewer-title =
+    .title = Tanúsítványmegjelenítő: „{ $certName }”
 not-present =
     .value = <Nem része a tanúsítványnak>
 # Cert verification
@@ -196,9 +221,14 @@ cert-not-verified-unknown = A tanúsítvány ismeretlen okból ellenőrizhetetle
 add-exception-branded-warning = Arra készül, hogy felülbírálja a webhely { -brand-short-name } általi besorolását.
 add-exception-invalid-header = Ez a webhely érvénytelen adatokkal próbálja azonosítani magát.
 add-exception-domain-mismatch-short = Rossz webhely
+add-exception-domain-mismatch-long = A tanúsítvány egy másik webhelyhez tartozik, azaz valaki megpróbálhatja ennek a webhelynek kiadni magát.
 add-exception-expired-short = Elavult információ
+add-exception-expired-long = A tanúsítvány már nem érvényes. Lehet, hogy ellopták vagy elveszett, és valaki megpróbálhatja ennek a webhelynek kiadni magát.
 add-exception-unverified-or-bad-signature-short = Ismeretlen identitás
+add-exception-unverified-or-bad-signature-long = A tanúsítvány nem megbízható, mert nem ellenőrizte kibocsátottként egy biztonságos aláírást használó elismert hatóság.
 add-exception-valid-short = Érvényes tanúsítvány
 add-exception-valid-long = A webhely érvényesen, ellenőrzötten azonosította magát. Nem kell kivételt hozzáadni.
 add-exception-checking-short = Adatok ellenőrzése
+add-exception-checking-long = Kísérlet a webhely azonosítására…
 add-exception-no-cert-short = Nem áll rendelkezésre információ
+add-exception-no-cert-long = Nem lehet a webhely azonosítási állapotát lekérdezni.
