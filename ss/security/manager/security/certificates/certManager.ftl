@@ -2,10 +2,51 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+certmgr-title =
+    .title = Umphatsi /Menenja Wesitifiketi
+certmgr-tab-mine =
+    .label = Titifiketi Takho
+certmgr-tab-ca =
+    .label = Tishayamtsetfo /Emagunya
+certmgr-subject-info-label =
+    .value = Siniketwe Ku
+certmgr-issuer-info-label =
+    .value = Siniketwe Ngu
+certmgr-fingerprints-label =
+    .value = Titfupha
+certmgr-cert-detail-cn =
+    .value = Libito Lelivamile (CN)
+certmgr-cert-detail-o =
+    .value = Inhlangano (O)
+certmgr-cert-detail-ou =
+    .value = Bunye Benhlangano (OU)
+certmgr-cert-detail-serialnumber =
+    .value = Isiriyali Namba
+certmgr-cert-detail-sha1-fingerprint =
+    .value = SHA1 Sitfupha
+certmgr-edit-ca-cert =
+    .title = Editha tinhelo tesitifiketi Thrasti iCA
+    .style = width: 48em;
+certmgr-edit-cert-edit-trust = Editha tinhlelo teThrusti:
+certmgr-edit-cert-trust-email =
+    .label = Lesitifiketi singamkhomba umuntfu losebentisa liposi.
+certmgr-delete-cert =
+    .title = Cisha Sitifiketi
+    .style = width: 48em; height: 24em;
+certmgr-cert-name =
+    .label = Libito Lesitifiketi
+certmgr-token-name =
+    .label = Idivayisi Yekuvikela
 certmgr-begins-value =
     .value = { certmgr-begins-label.label }
+certmgr-expires-label =
+    .label = Isipaya Nge
 certmgr-expires-value =
     .value = { certmgr-expires-label.label }
+certmgr-email =
+    .label = Ikheli Ye-imeyili
+certmgr-serial =
+    .label = Isiriyali Namba
 pk11-bad-password = Libitophawu lelingenisiwe alisilo.
 pkcs12-decode-err = Kwehlulekekile kugucula lefayela.  Mhlawumbe akusiyo ye PKCS #12, ifomethi lonakele nome, libitophawu lolifakile alisilo.
 pkcs12-unknown-err-restore = Kuhlulekile kugcina kabusha lifayela PKCS #12 ngetizatfu letingatiwa.
@@ -39,6 +80,7 @@ delete-user-cert-impact = Nawucisha sinye setitifiketi takho, ngeke usakwati kus
 delete-email-cert-title =
     .title = Cisha titifiketi te-imeyili
 delete-email-cert-confirm = Ucinisekile ufuna kucisha letitifiketi talabantfu te-imeyili?
+delete-email-cert-impact = Nawucisha sitifiketi se-imeyili, angeke usakhona kutfumela leguculwe ngekufihla kulabo bantfu.
 
 ## Cert Viewer
 
