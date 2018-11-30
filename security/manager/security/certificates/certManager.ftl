@@ -172,6 +172,12 @@ delete-ca-cert-title =
 delete-email-cert-title =
     .title = इमेल प्रमाणपत्रहरू मेट्नुहोस्
 delete-email-cert-confirm = के तपाईँ यी व्यक्तिहरूका इमेल प्रमाणपत्रहरू मेटाउने कुरामा दृढ हुनुहुन्छ?
+# Used for semi-uniquely representing a cert.
+#
+# Variables:
+#   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
+cert-with-serial =
+    .value = { $serialNumber } क्रम सङ्ख्या भएको प्रमाणपत्र
 
 ## Cert Viewer
 
