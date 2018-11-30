@@ -83,6 +83,9 @@ certmgr-backup-all =
 certmgr-restore =
     .label = 导入…
     .accesskey = m
+certmgr-details =
+    .value = 证书字段
+    .accesskey = F
 certmgr-fields =
     .value = 字段值
     .accesskey = V
@@ -116,6 +119,7 @@ pkcs12-dup-data = 证书和私钥已经存在于此安全设备中了。
 
 choose-p12-backup-file-dialog = 要备份的文件名
 file-browse-pkcs12-spec = PKCS12 文件
+choose-p12-restore-file-dialog = 要导入的证书文件
 
 ## Import certificate(s) file dialog
 
