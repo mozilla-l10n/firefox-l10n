@@ -94,3 +94,6 @@
 <!ENTITY inadequateSecurityError.longDesc "<p>האתר בכתובת <span class='hostname'></span> משתמש בטכנולוגית אבטחה שאינה עדכנית וחשופה להתקפות. תוקף יכול בקלות לחשוף מידע שלכאורה אמור היה להיות מוגן. על מנהל האתר לתקן את השרת לפני שיהיה ניתן לבקר באתר זה.</p><p>קוד שגיאה: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "עמוד חסום">
+
+<!ENTITY networkProtocolError.title "שגיאת פרוטוקול רשת">
+<!ENTITY networkProtocolError.longDesc "<p>לא ניתן להציג את הדף שברצונך לצפות מכיוון שאותרה שגיאה בפרוטוקול הרשת.</p><ul><li>נא ליצור קשר עם בעלי האתר וליידע אותם על בעיה זו.</li></ul>">

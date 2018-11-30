@@ -4,6 +4,9 @@
 
 addons-window =
     .title = מנהל התוספות
+search-header =
+    .placeholder = חיפוש ב־addons.mozilla.org
+    .searchbuttonlabel = חיפוש
 search-header-shortcut =
     .key = f
 loading-label =
@@ -21,6 +24,12 @@ list-empty-button =
 install-addon-from-file =
     .label = התקנת תוספת מקובץ…
     .accesskey = ה
+help-button = תמיכה בתוספות
+preferences =
+    { PLATFORM() ->
+        [windows] אפשרויות של { -brand-short-name }
+       *[other] העדפות של { -brand-short-name }
+    }
 tools-menu =
     .tooltiptext = כלים עבור כל התוספות
 show-unsigned-extensions-button =

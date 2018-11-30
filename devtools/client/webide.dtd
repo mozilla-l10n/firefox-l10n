@@ -41,6 +41,9 @@
 <!ENTITY runtimeMenu_showSettings_label "הגדרות התקן">
 <!ENTITY runtimeMenu_showSettings_accesskey "ג">
 
+<!ENTITY runtimeMenu_showPerformancePanel_label "ביצועים">
+<!ENTITY runtimeMenu_showPerformancePanel_accesskey "ב">
+
 <!ENTITY viewMenu_label "תצוגה">
 <!ENTITY viewMenu_accesskey "ת">
 <!ENTITY viewMenu_zoomin_label "התקרבות">
