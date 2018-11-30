@@ -73,6 +73,7 @@ add-exception-branded-warning = U gaan nou die manier waarop { -brand-short-name
 add-exception-invalid-header = Hierdie werf probeer homself met ongeldige inligting identifiseer.
 add-exception-domain-mismatch-short = Verkeerde werf
 add-exception-expired-short = Verouderde inligting
+add-exception-unverified-or-bad-signature-short = Onbekende identiteit
 add-exception-valid-short = Geldige sertifikaat
 add-exception-valid-long = Hierdie werf verskaf 'n geldige, geverifieerde identifikasie.  Dis nie nodig om 'n uitsondering te skep nie.
 add-exception-checking-short = Kontroleer van inligting
