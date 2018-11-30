@@ -5,6 +5,8 @@
 certmgr-detail-pretty-print-tab-title =
     .label = Detalles
     .accesskey = D
+certmgr-cert-detail-sha256-fingerprint =
+    .value = Huella digital SHA-256
 certmgr-begins-value =
     .value = { certmgr-begins-label.label }
 certmgr-expires-value =
@@ -60,9 +62,14 @@ cert-not-verified-unknown = No se pudo verificar este certificado por razones de
 
 add-exception-invalid-header = Este sitio intenta identificarse a sí mismo con información no válida.
 add-exception-domain-mismatch-short = Sitio erróneo
+add-exception-domain-mismatch-long = El certificado pertenece a un sitio diferente, lo que podría significar que alguien está intentando suplantar este sitio.
 add-exception-expired-short = Información obsoleta
+add-exception-expired-long = El certificado no es válido actualmente. Puede haber sido robado o perdido, y usado por alguien para suplantar este sitio.
 add-exception-unverified-or-bad-signature-short = Identidad desconocida
+add-exception-unverified-or-bad-signature-long = No se confía en este certificado porque no ha sido verificado como emitido por una autoridad reconocida usando una firma segura.
 add-exception-valid-short = Certificado válido
 add-exception-valid-long = Este sitio proporciona identificación válida y verificada. No hay necesidad de añadir una excepción.
 add-exception-checking-short = Comprobando información
+add-exception-checking-long = Intentando identificar este sitio…
 add-exception-no-cert-short = No hay información disponible
+add-exception-no-cert-long = No es posible obtener el estado de identificación para este sitio.
