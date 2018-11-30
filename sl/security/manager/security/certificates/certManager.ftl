@@ -169,6 +169,12 @@ cert-with-serial =
 
 ## Cert Viewer
 
+# Title used for the Certificate Viewer.
+#
+# Variables:
+#   $certificate : a string representative of the certificate being viewed.
+cert-viewer-title =
+    .title = Pregledovalnik digitalnih potrdil: “{ $certName }”
 not-present =
     .value = <Ni del digitalnega potrdila>
 # Cert verification
