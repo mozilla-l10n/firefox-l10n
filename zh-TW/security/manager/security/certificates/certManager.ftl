@@ -4,6 +4,8 @@
 
 certmgr-title =
     .title = 憑證管理員
+certmgr-tab-mine =
+    .label = 您的憑證
 certmgr-tab-people =
     .label = 人員
 certmgr-tab-servers =
@@ -89,6 +91,7 @@ certmgr-add-exception =
     .accesskey = x
 exception-mgr =
     .title = 新增安全例外
+exception-mgr-supplemental-warning = 請注意，合法的銀行、商店或其他公開網站不會要求您這麼做！
 exception-mgr-cert-location-download =
     .label = 取得憑證
     .accesskey = G
@@ -99,6 +102,7 @@ exception-mgr-permanent =
     .label = 永久儲存此例外
     .accesskey = P
 pk11-bad-password = 輸入的密碼不正確。
+pkcs12-decode-err = 無法解碼檔案。它可能不是 PKCS #12 格式、或檔案損毀，或是您輸入的密碼有誤。
 pkcs12-unknown-err-restore = 因為未知的原因而無法回存 PKCS #12 檔案。
 pkcs12-unknown-err-backup = 因為未知的原因而無法備份 PKCS #12 檔案。
 pkcs12-unknown-err = PKCS #12 因為不明原因失敗了。
@@ -121,8 +125,15 @@ import-email-cert-prompt = 選取包含電子郵件憑證的檔案以匯入
 
 ## For Deleting Certificates
 
+delete-user-cert-title =
+    .title = 刪除您的憑證
+delete-user-cert-confirm = 您確定要刪除這些憑證嗎？
+delete-user-cert-impact = 如果您刪除了您自己的憑證，您就再也不能用它來識別您自己了。
+delete-ssl-cert-confirm = 您確定要刪除這些例外伺服器嗎？
 delete-email-cert-title =
     .title = 刪除 E-Mail 憑證
+delete-email-cert-confirm = 您確定要刪除這些人的 E-mail 憑證嗎？
+delete-email-cert-impact = 如果您刪除了一個人的 E-mail 憑證，您將無法在寄信給這個人時予以加密。
 
 ## Cert Viewer
 
@@ -149,6 +160,7 @@ cert-not-verified-unknown = 無法驗證此憑證，原因不明。
 
 ## Add Security Exception dialog
 
+add-exception-branded-warning = 您正試圖覆蓋 { -brand-short-name } 要如何識別此網站的設定。
 add-exception-invalid-header = 此網站嘗試用無效的資訊識別自己。
 add-exception-domain-mismatch-short = 錯誤的網站
 add-exception-expired-short = 過時的資訊
