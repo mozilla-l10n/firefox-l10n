@@ -195,6 +195,11 @@ not-present =
     .value = <No es parte de un certificado>
 # Cert verification
 cert-verified = Este certificado ha sido verificado para los siguientes usos:
+# Add usage
+verify-ssl-client =
+    .value = Certificado TLS del cliente
+verify-ssl-server =
+    .value = Certificado TLS del servidor
 verify-ssl-ca =
     .value = Autoridad Certificadora (CA) SSL
 verify-email-signer =
