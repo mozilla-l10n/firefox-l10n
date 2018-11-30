@@ -12,6 +12,13 @@ certmgr-tab-servers =
     .label = Serwery
 certmgr-tab-ca =
     .label = Awtority
+certmgr-mine = Maśo certifikaty wót toś tych organizacijow, kótarež was identificěruju
+certmgr-people = Maśo certifikaty wó dataji, kótarež identificěruju toś tych luźi
+certmgr-servers = Maśo certifikaty w dataji, kótarež identificěruju toś te serwery
+certmgr-ca = Maśo certifikaty w dataji, kótarež identificěruju toś te certifikatowe awtority
+certmgr-detail-general-tab-title =
+    .label = Powšykne
+    .accesskey = P
 certmgr-detail-pretty-print-tab-title =
     .label = Drobnostki
     .accesskey = D
@@ -37,6 +44,8 @@ certmgr-cert-detail-ou =
     .value = Organizaciska jadnotka (OU)
 certmgr-cert-detail-serialnumber =
     .value = Serijowy numer
+certmgr-cert-detail-sha256-fingerprint =
+    .value = Palcowy wótśišć SHA-256
 certmgr-cert-detail-sha1-fingerprint =
     .value = Palcowy wótśišć SHA1
 certmgr-edit-ca-cert =
@@ -100,6 +109,9 @@ certmgr-details =
 certmgr-fields =
     .value = Gódnota póla
     .accesskey = G
+certmgr-hierarchy =
+    .value = Certifikatowa hierarchija
+    .accesskey = h
 certmgr-add-exception =
     .label = Wuwześe pśidaś…
     .accesskey = z
@@ -125,6 +137,7 @@ pkcs12-decode-err = Dataja njedajo se dekoděrowaś. Pak njejo we formaśe PKCS
 pkcs12-unknown-err-restore = Dataja PKCS #12 njedajo se z njeznatych pśicynow wotnowiś.
 pkcs12-unknown-err-backup = Zawěsćeńska dataja PKCS #12 njedajo z njeznatych pśicynow napóraś.
 pkcs12-unknown-err = Operacija PKCS #12 njejo so z njeznatych pśicynow raźiła.
+pkcs12-info-no-smartcard-backup = Njejo móžno, certifikaty z hardwaroweho wěstotnego rěda zawěsćiś, kaž na pś. ze smartkórty.
 pkcs12-dup-data = Certifikat a priwatny kluc južo eksistujotej na wěstotnem rěźe.
 
 ## PKCS#12 file dialogs
@@ -137,9 +150,13 @@ choose-p12-restore-file-dialog = Certifikatowa dataja, kótaraž ma se importěr
 
 file-browse-certificate-spec = Certifikatowe dataje
 import-ca-certs-prompt = Wubjeŕśo dataju, kótaraž wopśimujo certifikaty certifikatoweje awtority za importěrowanje
+import-email-cert-prompt = Wubjeŕśo dataju, kótaraž wopśimujo něcejego e-mailowy certifikat za importěrowanje
 
 ## For editing certificates trust
 
+# Variables:
+#   $certName: the name of certificate
+edit-trust-ca = Certifikat "{ $certName }" reprezentěrujo certifikatowu awtoritu.
 
 ## For Deleting Certificates
 
@@ -157,9 +174,23 @@ delete-ca-cert-confirm = Sćo pominał, toś te certifikaty certifikatoweje awto
 delete-ca-cert-impact = Jolic wulašujośo certifikat certifikateje awtority (CA) abo zajmjejośo jomu dowěru, toś ta aplikacija wěcej njedowěrijo certifikatam wudanym wót toś teje certifikatoweje awtority.
 delete-email-cert-title =
     .title = E-mailowe certifikaty wulašowaś
+delete-email-cert-confirm = Cośo napšawdu e-mailowe certifikaty toś tych luźi lašowaś?
+delete-email-cert-impact = Jolic wulašujośo e-mailowy certifikat někakeje wósoby, njamóžośo wěcej wósobnje skoděrowanu e-mail pósłaś.
+# Used for semi-uniquely representing a cert.
+#
+# Variables:
+#   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
+cert-with-serial =
+    .value = Certifikat ze serijowym numerom: { $serialNumber }
 
 ## Cert Viewer
 
+# Title used for the Certificate Viewer.
+#
+# Variables:
+#   $certificate : a string representative of the certificate being viewed.
+cert-viewer-title =
+    .title = Certifikatowy wobglědowak: “{ $certName }”
 not-present =
     .value = <Njejo źěl certifikata>
 # Cert verification
@@ -190,9 +221,14 @@ cert-not-verified-unknown = Toś ten certifikat njedajo se z njeznatych pśicyno
 add-exception-branded-warning = Wopytujośo pśepisaś, kak { -brand-short-name } identificěrujo toś to sedło.
 add-exception-invalid-header = Toś to sedło wopytujo se z njepłaśiwymi informacijami identificěrowaś.
 add-exception-domain-mismatch-short = Wopacne sedło
+add-exception-domain-mismatch-long = Certifikat słušy k drugemu sedłoju, což by mógło wóznamjeniś, až něchten wopytujo, toś to sedło imitěrowaś.
 add-exception-expired-short = Zestarjone informacije
+add-exception-expired-long = Certifikat tuchylu njejo płaśiwy. Jo snaź kšadnjony abo jo se zgubił, a něchten by mógł jen wužywaś, aby toś to sedło imitěrował.
 add-exception-unverified-or-bad-signature-short = Njeznata identity
+add-exception-unverified-or-bad-signature-long = Certifikat njejo dowěry gódny, dokulaž njejo se pśez pśipóznatu awtoritu z pomocu wěsteje signatury pśespytał.
 add-exception-valid-short = Płaśiwy certifikat
 add-exception-valid-long = Toś to sedło dodawa płaśiwu, pśeglědanu identifikaciju. Njejo trěbne, wuwześe pśidaś.
 add-exception-checking-short = Informacije so kontrolěruju
+add-exception-checking-long = Wopytujo se, sedło identificěrowaś…
 add-exception-no-cert-short = Žedne informacije k dispoziciji
+add-exception-no-cert-long = Njejo móžno, status identifikacije za toś to sedło zwěsćiś.
