@@ -161,6 +161,9 @@ not-present =
     .value = <Không thuộc Chứng chỉ>
 # Cert verification
 cert-verified = Chứng thư này đã được xác minh cho những mục đích sau:
+# Add usage
+verify-ssl-client =
+    .value = Chứng chỉ SSL máy khách
 verify-ssl-server =
     .value = Chứng chỉ SSL Máy chủ
 verify-ssl-ca =
