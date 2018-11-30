@@ -176,6 +176,9 @@ not-present =
     .value = <প্ৰমাণপত্ৰ অংশ নহয়>
 # Cert verification
 cert-verified = প্ৰমাণপত্ৰক পৰীক্ষা কৰা হোৱা নাই কাৰণ:
+# Add usage
+verify-ssl-client =
+    .value = SSL Client Certificate
 verify-ssl-server =
     .value = SSL চাৰ্ভাৰৰ প্ৰমাণপত্ৰ
 verify-ssl-ca =
