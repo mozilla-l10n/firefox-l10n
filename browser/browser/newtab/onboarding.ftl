@@ -28,3 +28,7 @@ onboarding-ghostery-text = Navegue mais rápido, mais esperto, ou mais seguro co
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Sincronizar
 onboarding-fxa-text = Cadastre-se para uma { -fxaccount-brand-name } e sincronize seus favoritos, senhas e abas abertas com todos os lugares em que você usa o { -brand-short-name }.
+
+## Message strings belonging to the Return to AMO flow
+
+return-to-amo-extension-button = Adicionar a extensão
