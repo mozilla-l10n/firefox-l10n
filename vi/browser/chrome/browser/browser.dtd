@@ -306,6 +306,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Trình duyệt đang ở trong chế độ truy cập từ xa">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Mở bảng điều khiển xác thực web">
 
+<!ENTITY urlbar.storageAccessAnchor.tooltip               "Mở bảng điều khiển quyền hoạt động duyệt web">
+
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Quản lý chia sẻ máy ảnh và/hoặc micrô với trang">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Quản lý chia sẻ micrô của bạn với trang">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Quản lý chia sẻ cửa sổ hay màn hình của bạn với trang">
@@ -1014,6 +1016,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.fastBlock.add.label "Thêm chặn…">
 
 <!ENTITY contentBlocking.trackingProtection2.label "Tất cả các trình theo dõi được phát hiện">
 
@@ -1039,6 +1042,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.trackingProtection.add.label "Thêm chặn…">
 
 <!ENTITY contentBlocking.3rdPartyCookies.label "Cookie của bên thứ ba">
 <!ENTITY contentBlocking.3rdPartyCookies.trackers.label "Cookie theo dõi">
@@ -1057,6 +1061,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.3rdPartyCookies.add.label "Thêm chặn...">
 
 <!ENTITY contentBlocking.manageSettings.label "Quản lý chặn nội dung">
 <!ENTITY contentBlocking.manageSettings.accesskey "M">
