@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+certmgr-title =
+    .title = Pengurus Sijil
 certmgr-tab-mine =
     .label = Sijil Anda
 certmgr-tab-servers =
@@ -103,6 +105,7 @@ cert-not-verified-unknown = Tidak dapat mengesahkan siil ini kerana sebab yang t
 ## Add Security Exception dialog
 
 add-exception-expired-short = Maklumat yang lapuk
+add-exception-unverified-or-bad-signature-short = Identiti Tidak Diketahui
 add-exception-valid-short = Sijil sah
 add-exception-checking-short = Semakan Maklumat
 add-exception-no-cert-short = Tiada Maklumat wujud
