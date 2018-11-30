@@ -23,5 +23,7 @@
 <!ENTITY paneAdvanced.title       "Avanceret">
 <!ENTITY paneAccount.title        "Konti">
 
+<!ENTITY addonsButton.label       "Udvidelser og temaer">
+
 <!ENTITY okButton.title           "OK">
 <!ENTITY okButton.accesskey       "O">
