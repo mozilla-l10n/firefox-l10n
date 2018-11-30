@@ -4,6 +4,8 @@
 
 certmgr-tab-people =
     .label = Людзі
+certmgr-tab-servers =
+    .label = Серверы
 certmgr-detail-general-tab-title =
     .label = Асноўныя
     .accesskey = А
@@ -18,10 +20,16 @@ certmgr-cert-detail-o =
     .value = Установа (O)
 certmgr-cert-detail-serialnumber =
     .value = Серыйны нумар
+certmgr-cert-detail-sha256-fingerprint =
+    .value = Адбітак SHA-256
 certmgr-cert-detail-sha1-fingerprint =
     .value = Адбітак SHA1
+certmgr-cert-server =
+    .label = Сервер
 certmgr-override-lifetime =
     .label = Час жыцця
+certmgr-token-name =
+    .label = Прылада бяспекі
 certmgr-begins-label =
     .label = Пачынаецца (калі)
 certmgr-begins-value =
@@ -59,6 +67,8 @@ exception-mgr =
 exception-mgr-extra-button =
     .label = Пацвердзіць выключэнне бяспекі
     .accesskey = ц
+exception-mgr-cert-location-url =
+    .value = Адрас:
 exception-mgr-cert-status-view-cert =
     .label = Прагляд…
     .accesskey = П
@@ -83,6 +93,9 @@ file-browse-pkcs12-spec = Файлы PKCS12
 
 ## Add Security Exception dialog
 
+add-exception-invalid-header = Гэты сайт спрабуе вызначыць сябе няспраўнымі звесткамі.
+add-exception-domain-mismatch-short = Няправільны сайт
 add-exception-expired-short = Састарэлыя звесткі
+add-exception-valid-long = Гэты сайт прадстаўляе сапраўдны, правераны сертыфікат.  Няма патрэбы дадаваць выключэнне.
 add-exception-checking-short = Праверка звестак
 add-exception-no-cert-short = Няма даступных звестак
