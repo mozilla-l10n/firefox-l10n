@@ -49,6 +49,8 @@ certmgr-override-lifetime =
     .label = 生命周期
 certmgr-token-name =
     .label = 安全设备
+certmgr-begins-label =
+    .label = 起始时间
 certmgr-begins-value =
     .value = { certmgr-begins-label.label }
 certmgr-expires-label =
@@ -113,6 +115,7 @@ pkcs12-decode-err = 解码该文件失败。它可能不是 PKCS #12 格式，�
 pkcs12-unknown-err-restore = 恢复 PKCS #12 文件失败，原因未知。
 pkcs12-unknown-err-backup = 创建 PKCS #12 备份文件失败，原因未知。
 pkcs12-unknown-err = PKCS #12 操作失败，原因未知。
+pkcs12-info-no-smartcard-backup = 不可能备份硬件安全设备（如智能卡）中的证书。
 pkcs12-dup-data = 证书和私钥已经存在于此安全设备中了。
 
 ## PKCS#12 file dialogs
@@ -147,9 +150,21 @@ delete-email-cert-title =
     .title = 删除电子邮件证书
 delete-email-cert-confirm = 您确定要删除这些人的电子邮件证书吗？
 delete-email-cert-impact = 如果您删除了某人的电子邮件证书，您将不能再向此人发送加密电子邮件。
+# Used for semi-uniquely representing a cert.
+#
+# Variables:
+#   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
+cert-with-serial =
+    .value = 证书序列号：{ $serialNumber }
 
 ## Cert Viewer
 
+# Title used for the Certificate Viewer.
+#
+# Variables:
+#   $certificate : a string representative of the certificate being viewed.
+cert-viewer-title =
+    .title = 证书查看器：“{ $certName }”
 not-present =
     .value = <无此部分>
 # Cert verification
@@ -159,6 +174,8 @@ verify-ssl-client =
     .value = SSL 客户端证书
 verify-ssl-server =
     .value = SSL 服务器证书
+verify-ssl-ca =
+    .value = SSL 证书颁发机构
 verify-email-signer =
     .value = 电子邮件签署者证书
 verify-email-recip =
@@ -180,6 +197,7 @@ add-exception-invalid-header = 此站点尝试使用无效的信息来标识自�
 add-exception-domain-mismatch-short = 错误的站点
 add-exception-expired-short = 过时的信息
 add-exception-unverified-or-bad-signature-short = 未知标识
+add-exception-unverified-or-bad-signature-long = 无法核实此证书是否由受信任的颁发机构以安全方式签署，因此不能信任此证书。
 add-exception-valid-short = 有效的证书
 add-exception-valid-long = 此站点提供了有效、已验证的标识。因此无添加例外的必要。
 add-exception-checking-short = 正在检查信息
