@@ -66,9 +66,13 @@ file-browse-pkcs12-spec = Difaele tsa PKCS12
 
 file-browse-certificate-spec = Difaele tsa Lenaane
 import-ca-certs-prompt = Tlhopha Faele e e nang le ditifikeiti tsa CA go e tlisa teng
+import-email-cert-prompt = Tlhopha Faele e e nang le setifikeiti sa mongwe sa Poso ya E go e tlisa teng
 
 ## For editing certificates trust
 
+# Variables:
+#   $certName: the name of certificate
+edit-trust-ca = Setifikeiti sa "{ $certName }" se emetse Bothati jwa Setifikeiti.
 
 ## For Deleting Certificates
 
@@ -77,6 +81,8 @@ delete-user-cert-title =
 delete-user-cert-impact = Fa o phimola sengwe sa ditifikeiti tsa gago, o ka se tlhole o kgona go se dirisa go itshupa.
 delete-email-cert-title =
     .title = Phimola Ditifikeiti tsa Poso ya Eleketoroniki
+delete-email-cert-confirm = A o totobetse gore o batla go phimola ditifikeiti tseno tsa poso ya eleketoroniki ya batho?
+delete-email-cert-impact = Fa o phimola setifikeiti sa poso ya eleketoroniki, o ka seke wa tlhola o kgona go romelela batho bao poso ya eleketoroniki e e sireleditsweng.
 
 ## Cert Viewer
 
@@ -84,6 +90,17 @@ not-present =
     .value = <Ga se Karolo ya Setifikeiti>
 # Cert verification
 cert-verified = Setifikeiti seno se tlhomamiseditswe go dirisediwa tse di latelang:
+# Add usage
+verify-ssl-client =
+    .value = Setifikeiti sa Sedirelwa sa SSL
+verify-ssl-server =
+    .value = Setifikeiti sa Sefara ya SSL
+verify-ssl-ca =
+    .value = Tetla ya Setifikeiti sa SSL
+verify-email-signer =
+    .value = Setifikeiti sa mosaeni wa Imeile
+verify-email-recip =
+    .value = Setifikeiti sa Moamogedi sa Imeile
 # Cert verification
 cert-not-verified-cert-revoked = Ga e a kgona go tlhomamisa setifikeiti seno gonne se gogetswe morago.
 cert-not-verified-cert-expired = Ga e a kgona go tlhomamisa setifikeiti seno gonne se feletswe ke nako.
@@ -91,6 +108,7 @@ cert-not-verified-cert-not-trusted = Ga e a kgona go tlhomamisa setifikeiti seno
 cert-not-verified-issuer-not-trusted = Ga e a kgona go tlhomamisa setifikeiti seno gonne morebodi ga a ikanyege.
 cert-not-verified-issuer-unknown = Ga e a kgona go tlhomamisa setifikeiti seno gonne morebodi ga a itsiwe.
 cert-not-verified-ca-invalid = Ga e a kgona go tlhomamisa setifikeiti seno gonne setifikeiti sa CA ga se sa boammaaruri.
+cert-not-verified_algorithm-disabled = Ga e a kgona go tlhotlhomisa setifikeiti se ka gore se saenilwe go dirisiwa tshaeno ya bothatatharabololo jo bo kganetsweng go dira ka ntata ya gore bothatatharabololo jo ga bo a sireletsega.
 cert-not-verified-unknown = Ga e a kgona go tlhomamisa setifikeiti seno ka ntlha ya mabaka a a sa itsiweng.
 
 ## Add Security Exception dialog
