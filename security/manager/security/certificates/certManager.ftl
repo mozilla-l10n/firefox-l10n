@@ -121,8 +121,17 @@ not-present =
     .value = <E sego karolo ya Setifikheiti>
 # Cert verification
 cert-verified = Setifikheiti se se kgonthišeditšwe mešomo ye e latelago:
+# Add usage
+verify-ssl-client =
+    .value = Setifikeiti sa moreki sa SSL
 verify-ssl-server =
     .value = Setifikeiti sa seabi sa SSL
+verify-ssl-ca =
+    .value = Bolaodi bja setifikeiti bja SSL
+verify-email-signer =
+    .value = Setifikeiti sa mosaeni wa imeile
+verify-email-recip =
+    .value = Setifikeiti sa moamogedi wa imeile
 # Cert verification
 cert-not-verified-cert-revoked = Paletšwe ke go kgonthišiša setifikheiti se ka baka la gore se gomišitšwe.
 cert-not-verified-cert-expired = Paletšwe ke go kgonthišiša setifikheiti se ka baka la gore se feletšwe ke nako.
