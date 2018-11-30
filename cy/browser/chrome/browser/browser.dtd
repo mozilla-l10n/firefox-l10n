@@ -306,6 +306,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Mae'r porwr o dan reolaeth bell">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Agor panel Dilysu Gwe">
 
+<!ENTITY urlbar.storageAccessAnchor.tooltip               "Agor panel caniatâd gweithgaredd pori">
+
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Rheoli rhannu eich camera a/neu feicroffon gyda'r wefan">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Rheoli rhannu eich meicroffon gyda'r wefan">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Rheoli rhannu eich ffenestri neu sgrin gyda'r wefan">
