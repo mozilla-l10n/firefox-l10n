@@ -12,6 +12,10 @@ certmgr-tab-servers =
     .label = 伺服器
 certmgr-tab-ca =
     .label = 憑證機構
+certmgr-mine = 您有來自下列組織的憑證可以識別您自己
+certmgr-people = 您有可識別下列人員的憑證
+certmgr-servers = 您有可識別下列伺服器的憑證
+certmgr-ca = 您有可識別下列憑證機構的憑證
 certmgr-detail-general-tab-title =
     .label = 一般
     .accesskey = G
@@ -166,14 +170,27 @@ delete-ssl-cert-confirm = 您確定要刪除這些例外伺服器嗎？
 delete-ssl-cert-impact = 如果您刪除了例外伺服器，下次您再瀏覽該伺服器時又會收到伺服器憑證無效的提示。
 delete-ca-cert-title =
     .title = 刪除或取消信任憑證機構的憑證
+delete-ca-cert-confirm = 您要求刪除這些憑證機構的憑證。對內建的憑證來說，取消您對該憑證的信任也有一樣的效果。您確定想刪除或取消對憑證的信任嗎？
 delete-ca-cert-impact = 若您刪除或取消對憑證機構（CA）的信任，此應用程式將不再信任任何由該機構簽發的憑證。
 delete-email-cert-title =
     .title = 刪除 E-Mail 憑證
 delete-email-cert-confirm = 您確定要刪除這些人的 E-mail 憑證嗎？
 delete-email-cert-impact = 如果您刪除了一個人的 E-mail 憑證，您將無法在寄信給這個人時予以加密。
+# Used for semi-uniquely representing a cert.
+#
+# Variables:
+#   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
+cert-with-serial =
+    .value = 序號為 { $serialNumber } 的憑證
 
 ## Cert Viewer
 
+# Title used for the Certificate Viewer.
+#
+# Variables:
+#   $certificate : a string representative of the certificate being viewed.
+cert-viewer-title =
+    .title = 憑證檢視器:「{ $certName }」
 not-present =
     .value = <不存在於憑證中>
 # Cert verification
@@ -207,6 +224,7 @@ add-exception-domain-mismatch-short = 錯誤的網站
 add-exception-domain-mismatch-long = 憑證屬於不同網站，有可能是某人想要仿造此網站。
 add-exception-expired-short = 過時的資訊
 add-exception-expired-long = 憑證已經失效，可能是被偷走或遺失，可能會被別人用於仿造此網站。
+add-exception-unverified-or-bad-signature-short = 未知身份
 add-exception-unverified-or-bad-signature-long = 因為無法確認此憑證是由受信任的單位以安全的方式簽署，無法信任此憑證。
 add-exception-valid-short = 有效憑證
 add-exception-valid-long = 此網站提供有效且經過驗證的識別資訊，不需要加入例外清單。
