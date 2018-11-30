@@ -28,3 +28,14 @@ onboarding-ghostery-text = Ještě rychlejší, chytřejší a bezpečnější p
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Synchronizace
 onboarding-fxa-text = Přihlaste se k účtu Firefoxu a synchronizuje své záložky, hesla a otevřené panely kdekoliv používáte aplikaci { -brand-short-name }.
+
+## Message strings belonging to the Return to AMO flow
+
+return-to-amo-sub-header = Skvěle, nyní máte aplikaci { -brand-short-name }
+# <icon></icon> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-header = Teď zpět k doplňku <icon></icon><b>{ $addon-name }</b>.
+return-to-amo-extension-button = Přidat rozšíření
+return-to-amo-get-started-button = Jak začít s aplikací { -brand-short-name }
