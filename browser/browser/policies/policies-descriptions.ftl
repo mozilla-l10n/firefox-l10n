@@ -17,11 +17,13 @@ policy-BlockAboutConfig = Zablokuje prístup na stránku about:config.
 policy-BlockAboutProfiles = Zablokuje prístup na stránku about:profiles.
 policy-BlockAboutSupport = Zablokuje prístup na stránku about:support.
 policy-Bookmarks = Vytvorí záložku na paneli záložiek, v ponuke alebo vo vybranom priečinku.
+policy-Certificates = Určí, či sa má použiť systémové úložisko certifikátov. V súčasnosti je podpora len pre systém Windows.
 policy-CertificatesDescription = Pridá certifikáty alebo použije zabudované certifikáty.
 policy-Cookies = Povolí alebo zakáže webovým stránkam nastavovať cookies.
 policy-DisableAppUpdate = Zabráni aktualizáciám prehliadača.
 policy-DisableBuiltinPDFViewer = Zablokuje PDF prehliadač PDF.js zabudovaný v aplikácii { -brand-short-name }.
 policy-DisableDeveloperTools = Zablokuje prístup k vývojárskym nástrojom
+policy-DisableFeedbackCommands = Zablokuje možnosť odoslať spätnú väzbu z ponuky Pomocník (možnosti Odoslať spätnú väzbu a Nahlásenie podvodnej stránky).
 policy-DisableFirefoxAccounts = Vypne funkcie súvisiace s účtom { -fxaccount-brand-name }, vrátane synchronizácie.
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Vypne funkciu Firefox Screenshots.
@@ -31,21 +33,40 @@ policy-DisableFormHistory = Vypne ukladanie histórie vyhľadávania a formulár
 policy-DisableMasterPasswordCreation = Hodnota true znemožní nastavenie hlavného hesla.
 policy-DisablePocket = Vypne funkciu pre ukladanie stránok do služby Pocket.
 policy-DisablePrivateBrowsing = Zablokuje súkromné prehliadanie
+policy-DisableProfileImport = Zablokuje možnosť importu údajov z iných prehliadačov.
+policy-DisableProfileRefresh = Zablokuje tlačidlo pre obnovu aplikácie { -brand-short-name } na stránke about:support.
+policy-DisableSafeMode = Zablokuje funkciu reštartu so zakázanými doplnkami. Poznámka: prechod do núdzového režimu podržaním klávesy Shift je v systéme Windows možné len pomocou skupinovej politiky.
 policy-DisableSecurityBypass = Zabráni používateľovi v obchádzaní niektorých bezpečnostných varovaní.
+policy-DisableSetDesktopBackground = Zablokuje kontextovú ponuku pre nastavenie obrázku ako pozadia plochy.
+policy-DisableSetAsDesktopBackground = Zablokuje kontextovú ponuku obrázkov a ich možnosť nastaviť ich ako pozadie plochy.
 policy-DisableSystemAddonUpdate = Zablokuje inštaláciu a aktualizáciu systémových doplnkov prehliadača.
 policy-DisableTelemetry = Vypne telemetriu.
 policy-DisplayBookmarksToolbar = Zobrazí panel záložiek v predvolenom nastavení.
 policy-DisplayMenuBar = Zobrazí hlavnú ponuku v predvolenom nastavení.
 policy-DNSOverHTTPS = Nastavenie DNS cez HTTPS
 policy-DontCheckDefaultBrowser = Vypne kontrolu predvoleného prehliadača pri spustení.
+# “lock” means that the user won’t be able to change this setting
+policy-EnableTrackingProtection = Zapne alebo vypne blokovanie obsahu a prípadne túto funkciu uzamkne.
+# A “locked” extension can’t be disabled or removed by the user. This policy
+# takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
+# English or translate them as verbs.
+policy-Extensions = Nainštaluje, odinštaluje alebo uzamkne rozšírenie. Pre inštaláciu je potrebné ako parameter zadať URL adresy alebo cesty. Pre odinštaláciu alebo uzamknutie je potrebné ID rozšírenia.
 policy-FlashPlugin = Povolí alebo zakáže používanie zásuvného modulu Flash.
 policy-HardwareAcceleration = Ak je nastavená hodnota false, vypne hardvérové urýchľovanie.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Nastaví a v prípade potreby uzamkne domovskú stránku.
 policy-InstallAddonsPermission = Povolí určitým webovým stránkam inštalovať doplnky.
+policy-NoDefaultBookmarks = Vypne vytváranie predvolených záložiek a chytrých záložiek aplikácie { -brand-short-name } (Najnavštevovanejšie, Naposledy použité značky). Poznámka: toto pravidlo možno efektívne využiť len vtedy, ak bude nastavené pred prvým spustením.
+policy-OfferToSaveLogins = Nastaví pravidlo na uloženie prihlasovacích údajov v aplikácii { -brand-short-name }. Je možné použiť hodnoty true aj false.
+policy-OverrideFirstRunPage = Nastaví vlastnú stránku pri prvom spustení. Ak nechcete pri prvom spustení zobrazovať žiadnu stránku, nastavte toto pravidlo ako prázdne.
+policy-OverridePostUpdatePage = Nastaví vlastnú stránku po aktualizácii aplikácie. Ak nechcete po aktualizácii zobrazovať žiadnu stránku, nastavte toto pravidlo ako prázdne.
 policy-Permissions = Nastaví povolenia pre kameru, mikrofón, polohu a upozornenia.
 policy-PopupBlocking = Povolí určitým webovým stránkam zobrazovať v predvolenom nastavení vyskakovacie okná.
 policy-Proxy = Nakonfiguruje nastavenia proxy.
+policy-RequestedLocales = Nastaví zoznam požadovaných jazykov aplikácie, v poradí podľa nastavenej priority.
+policy-SanitizeOnShutdown = Vymaže všetky údaje o prehliadaní v priebehu vypnutia.
+policy-SearchBar = Nastaví predvolené umiestnenie vyhľadávacieho poľa. Používateľ ho môže premiestniť.
+policy-SearchEngines = Nakonfiguruje nastavenie vyhľadávacích modulov. Toto pravidlo je dostupné len vo verzii s rozšírenou podporou (ESR).
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Nainštaluje moduly PKCS #11.
 # “format” refers to the format used for the value of this policy.
