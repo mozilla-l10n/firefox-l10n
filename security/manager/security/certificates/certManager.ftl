@@ -24,14 +24,24 @@ certmgr-subject-info-label =
     .value = Utfärdat till
 certmgr-issuer-info-label =
     .value = Utfärdat av
+certmgr-period-of-validity-label =
+    .value = Giltighetstid
 certmgr-fingerprints-label =
     .value = Fingeravtryck
 certmgr-cert-detail =
     .title = Certifikatdetaljer
     .buttonlabelaccept = Stäng
     .buttonaccesskeyaccept = ä
+certmgr-cert-detail-cn =
+    .value = Common Name (CN)
+certmgr-cert-detail-o =
+    .value = Organisation (O)
+certmgr-cert-detail-ou =
+    .value = Organisationsenhet (OU)
 certmgr-cert-detail-serialnumber =
     .value = Serienummer
+certmgr-cert-detail-sha256-fingerprint =
+    .value = SHA-256 fingeravtryck
 certmgr-cert-detail-sha1-fingerprint =
     .value = SHA1-fingeravtryck
 certmgr-edit-ca-cert =
@@ -53,6 +63,8 @@ certmgr-override-lifetime =
     .label = Livslängd
 certmgr-token-name =
     .label = Säkerhetsenhet
+certmgr-begins-label =
+    .label = Börjar på{ " " }
 certmgr-begins-value =
     .value = { certmgr-begins-label.label }
 certmgr-expires-label =
@@ -93,6 +105,9 @@ certmgr-details =
 certmgr-fields =
     .value = Fältvärde
     .accesskey = F
+certmgr-hierarchy =
+    .value = Certifikathierarki
+    .accesskey = H
 certmgr-add-exception =
     .label = Lägg till undantag…
     .accesskey = ä
@@ -131,9 +146,13 @@ choose-p12-restore-file-dialog = Certifikatfil att importera
 
 file-browse-certificate-spec = Certifikatfiler
 import-ca-certs-prompt = Välj en fil som innehåller det rotcertifikat du vill importera
+import-email-cert-prompt = Välj en fil som innehåller det e-postcertifikat du vill importera
 
 ## For editing certificates trust
 
+# Variables:
+#   $certName: the name of certificate
+edit-trust-ca = Certifikatet “{ $certName }” representerar en certifikatutfärdare.
 
 ## For Deleting Certificates
 
@@ -151,9 +170,23 @@ delete-ca-cert-confirm = Du försöker ta bort dessa CA-certifikat. För inbyggd
 delete-ca-cert-impact = Om du tar bort eller misstror ett certifikat från en certifikatutfärdare (CA), kommer programmet inte längre att lita på certifikat som utfärdats av denna CA.
 delete-email-cert-title =
     .title = Ta bort e-postcertifikat
+delete-email-cert-confirm = Är du säker på att du vill ta bort dessa personers e-postcertifikat?
+delete-email-cert-impact = Om du tar bort en persons e-postcertifikat kommer du inte längre att kunna skicka krypterade e-postmeddelanden till den personen.
+# Used for semi-uniquely representing a cert.
+#
+# Variables:
+#   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
+cert-with-serial =
+    .value = Certifikat med serienummer: { $serialNumber }
 
 ## Cert Viewer
 
+# Title used for the Certificate Viewer.
+#
+# Variables:
+#   $certificate : a string representative of the certificate being viewed.
+cert-viewer-title =
+    .title = Certifikatvisare: “{ $certName }”
 not-present =
     .value = <Ej del av certifikat>
 # Cert verification
@@ -181,9 +214,17 @@ cert-not-verified-unknown = Kan inte verifiera detta certifikat av okänd anledn
 
 ## Add Security Exception dialog
 
+add-exception-branded-warning = Du håller på att åsidosätta hur { -brand-short-name } identifierar denna webbplats.
+add-exception-invalid-header = Den här webbplatsen försöker identifiera sig med ogiltig information.
+add-exception-domain-mismatch-short = Fel webbplats
+add-exception-domain-mismatch-long = Certifikatet tillhör en annan webbplats, vilket skulle kunna innebära att någon försöker imitera denna webbplats.
 add-exception-expired-short = Föråldrad information
+add-exception-expired-long = Certifikatet är inte giltigt. Det kan ha blivit stulet eller förlorat och kan användas av någon att imitera denna webbplats.
 add-exception-unverified-or-bad-signature-short = Okänd identitet
+add-exception-unverified-or-bad-signature-long = Certifikatet är inte betrott eftersom det inte har verifierats av en betrodd certifikatutfärdare med hjälp av en säker signatur.
 add-exception-valid-short = Giltigt certifikat
 add-exception-valid-long = Platsen har presenterat en giltig och verifierad identifikation.  Du behöver inte lägga till något undantag.
 add-exception-checking-short = Kontrollerar information
+add-exception-checking-long = Försöker att identifiera webbplatsen…
 add-exception-no-cert-short = Ingen information tillgänglig
+add-exception-no-cert-long = Kunde inte erhålla identifieringsstatus för webbplatsen.
