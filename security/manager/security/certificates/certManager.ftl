@@ -6,8 +6,20 @@ certmgr-title =
     .title = ಪ್ರಮಾಣಪತ್ರ ನಿರ್ವಾಹಕ
 certmgr-tab-mine =
     .label = ನಿಮ್ಮ ಪ್ರಮಾಣಪತ್ರಗಳು
+certmgr-tab-people =
+    .label = ಜನರು
+certmgr-tab-servers =
+    .label = ಪರಿಚಾರಕಗಳು
 certmgr-tab-ca =
     .label = ಅಥಾರಿಟಿಗಳು
+certmgr-detail-general-tab-title =
+    .label = ಸಾಮಾನ್ಯ
+    .accesskey = G
+certmgr-detail-pretty-print-tab-title =
+    .label = ವಿವರಣೆಗಳು
+    .accesskey = D
+certmgr-pending-label =
+    .value = ಪ್ರಸ್ತುತ ಪ್ರಮಾಣಪತ್ರವನ್ನು ಪರಿಶೀಲಿಸಲಾಗುತ್ತಿದೆ…
 certmgr-subject-info-label =
     .value = ಇವರಿಗೆ ಒದಗಿಸಲಾಗಿದೆ
 certmgr-issuer-info-label =
@@ -36,6 +48,10 @@ certmgr-delete-cert =
     .style = width: 48em; height: 24em;
 certmgr-cert-name =
     .label = ಪ್ರಮಾಣಪತ್ರದ ಹೆಸರು
+certmgr-cert-server =
+    .label = ಪರಿಚಾರಕ
+certmgr-override-lifetime =
+    .label = ಜೀವಿತಾವಧಿ
 certmgr-token-name =
     .label = ಸುರಕ್ಷತಾ ಸಾಧನ
 certmgr-begins-value =
@@ -46,6 +62,21 @@ certmgr-expires-value =
     .value = { certmgr-expires-label.label }
 certmgr-serial =
     .label = ಅನುಕ್ರಮ ಸಂಖ್ಯೆ
+certmgr-view =
+    .label = ನೋಟ…
+    .accesskey = V
+certmgr-edit =
+    .label = ನಂಬಿಕೆಯನ್ನು ಬದಲಾಯಿಸು…
+    .accesskey = E
+certmgr-export =
+    .label = ರಫ್ತು ಮಾಡು…
+    .accesskey = x
+certmgr-delete =
+    .label = ಅಳಿಸು…
+    .accesskey = D
+certmgr-delete-builtin =
+    .label = ಅಳಿಸು ಅಥವ ನಂಬಿಕೆಗೆ ಅನರ್ಹಗೊಳಿಸು…
+    .accesskey = D
 certmgr-backup =
     .label = ಬ್ಯಾಕ್ಅಪ್…
     .accesskey = B
@@ -55,6 +86,15 @@ certmgr-backup-all =
 certmgr-restore =
     .label = ಆಮದು ಮಾಡಿಕೊ…
     .accesskey = m
+certmgr-details =
+    .value = ಪ್ರಮಾಣಪತ್ರ ಕ್ಷೇತ್ರಗಳು
+    .accesskey = F
+certmgr-fields =
+    .value = ಕ್ಷೇತ್ರದ ಮೌಲ್ಯ
+    .accesskey = V
+certmgr-add-exception =
+    .label = ವಿನಾಯಿತಿಯನ್ನು ಸೇರಿಸು…
+    .accesskey = x
 exception-mgr =
     .title = ಸುರಕ್ಷತಾ ವಿನಾಯಿತಿಯನ್ನು ಸೇರಿಸಿ
 exception-mgr-extra-button =
@@ -83,9 +123,11 @@ pkcs12-dup-data = ಸುರಕ್ಷತಾ ಸಾಧನದಲ್ಲಿ ಪ್ರ
 
 choose-p12-backup-file-dialog = ಬ್ಯಾಕ್‍ಅಪ್ ಮಾಡಬೇಕಿರುವ ಕಡತದ ಹೆಸರು
 file-browse-pkcs12-spec = PKCS12 ಕಡತಗಳು
+choose-p12-restore-file-dialog = ಆಮದು ಮಾಡಿಕೊಳ್ಳಬೇಕಿರುವ ಪ್ರಮಾಣಪತ್ರ ಕಡತ
 
 ## Import certificate(s) file dialog
 
+file-browse-certificate-spec = ಪ್ರಮಾಣಪತ್ರ  ಕಡತಗಳು
 import-ca-certs-prompt = ಆಮದು ಮಾಡಲು CA ಪ್ರಮಾಣಪತ್ರವನ್ನು(ಗಳನ್ನು) ಹೊಂದಿರುವ ಕಡತವನ್ನು ಆರಿಸಿ
 
 ## For editing certificates trust
@@ -97,6 +139,14 @@ delete-user-cert-title =
     .title = ನಿಮ್ಮ ಪ್ರಮಾಣಪತ್ರಗಳನ್ನು ಅಳಿಸಿಹಾಕು
 delete-user-cert-confirm = ಈ ಜಾಲತಾಣದ ಪ್ರಮಾಣಪತ್ರಗಳನ್ನು ನೀವು ಖಚಿತವಾಗಿಯೂ ಅಳಿಸಲು ಬಯಸುತ್ತೀರ?
 delete-user-cert-impact = ನೀವು  ನಿಮ್ಮದೆ ಸ್ವಂತ ಪ್ರಮಾಣಪತ್ರಗಳಲ್ಲಿ ಒಂದನ್ನು ಅಳಿಸಿದರೆ,ನಂತರ ನೀವು ಅದನ್ನು ನಿಮ್ಮನ್ನು ನೀವು ಗುರುತಿಸಿಕೊಳ್ಳಲು ಬಳಸಲಾಗುವುದಿಲ್ಲ.
+delete-ssl-cert-title =
+    .title = ಪರಿಚಾರಕ  ಪ್ರಮಾಣಪತ್ರ ವಿನಾಯಿತಿಗಳನ್ನು ಅಳಿಸು
+delete-ssl-cert-confirm = ನೀವು ಈ ಪರಿಚಾರಕ ವಿನಾಯಿತಿಗಳನ್ನು ಅಳಿಸಲು ಖಚಿತವಾಗಿ ಬಯಸುತ್ತೀರೆ?
+delete-ssl-cert-impact = ನೀವು ಒಂದು ಪರಿಚಾರಕ ವಿನಾಯಿತಿಯನ್ನು ಅಳಿಸದರೆ, ಆ ಪರಿಚಾರಕಕ್ಕಾಗಿನ ಮಾಮೂಲಿ ಸುರಕ್ಷತಾ ಪರಿಶೀಲನೆಯನ್ನು ಮರಳಿ ಜಾರಿಗೆ ತಂದಂತಾಗುತ್ತದೆ ಹಾಗು ಅದು ಒಂದು ಮಾನ್ಯವಾದ ಪ್ರಮಾಣಪತ್ರವನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ.
+delete-ca-cert-title =
+    .title = CA ಪ್ರಮಾಣಪತ್ರಗಳನ್ನು ಅಳಿಸು ಅಥವ ನಂಬಿಕೆಗೆ ಅನರ್ಹಗೊಳಿಸು
+delete-ca-cert-confirm = ನೀವು ಈ CA ಪ್ರಮಾಣಪತ್ರಗಳನ್ನು ಅಳಿಸಲು ಆಯ್ಕೆ ಮಾಡಿದ್ದೀರಿ. ಒಳನಿರ್ಮಿತ ಪ್ರಮಾಣಪತ್ರಗಳಿಗಾಗಿ ಎಲ್ಲಾ ನಂಬಿಕೆಗಳನ್ನು ಅಳಿಸಿಹಾಕಲಾಗುತ್ತದೆ, ಇದರ ಪರಿಣಾಮವೂ ಸಹ ಅದೆ ಆಗಿರುತ್ತದೆ. ನೀವು ಅಳಿಸಲು ಅಥವ ನಂಬಿಕೆಗಳನ್ನು ಅನರ್ಹಗೊಳಿಸಲು ಬಯಸುತ್ತೀರೆ?
+delete-ca-cert-impact = ನೀವು ಒಂದು ಪ್ರಮಾಣಪತ್ರ ಅತಾರಿಟಿಯ (CA) ಪ್ರಮಾಣಪತ್ರವನ್ನು ಅಳಿಸಿದಲ್ಲಿ ಅಥವ ನಂಬಿಕೆಗೆ ಅನರ್ಹಗೊಳಿಸಿದಲ್ಲಿ ಆ CA ಇಂದ ಒದಗಿಸಲಾದ ಯಾವುದೆ ಪ್ರಮಾಣಪತ್ರಗಳನ್ನು ಈ ಅನ್ವಯಗಳನ್ನು ನಂಬುವುದಿಲ್ಲ.
 
 ## Cert Viewer
 
@@ -122,6 +172,7 @@ cert-not-verified-cert-not-trusted = ಈ ಪ್ರಮಾಣಪತ್ರವನ್
 cert-not-verified-issuer-not-trusted = ಈ ಪ್ರಮಾಣಪತ್ರವನ್ನು ಪರಿಶೀಲಿಸಲಾಗಿಲ್ಲ ಏಕೆಂದರೆ ಇದನ್ನು ಒದಗಿಸಿದವರನ್ನು ನಂಬಲಾಗಿಲ್ಲ.
 cert-not-verified-issuer-unknown = ಈ ಪ್ರಮಾಣಪತ್ರವನ್ನು ಪರಿಶೀಲಿಸಲಾಗಿಲ್ಲ ಏಕೆಂದರೆ ಇದನ್ನು ಒದಗಿಸಿದವರು ಅಜ್ಞಾತವಾಗಿದ್ದಾರೆ.
 cert-not-verified-ca-invalid = ಈ ಪ್ರಮಾಣಪತ್ರವನ್ನು ಪರಿಶೀಲಿಸಲಾಗಿಲ್ಲ ಏಕೆಂದರೆ  CA ಪ್ರಮಾಣಪತ್ರವು ಅಮಾನ್ಯವಾಗಿದೆ.
+cert-not-verified_algorithm-disabled = ಈ ಪ್ರಮಾಣಪತ್ರವನ್ನು ನಂಬಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ ಏಕೆಂದರೆ ಸಿಗ್ನೇಚರ್ ಅಲ್ಗಾರಿತಮ್ ಅನ್ನು ಬಳಸಿಕೊಂಡು ಇದನ್ನು ಸಹಿಮಾಡಲಾಗಿದೆ, ಮತ್ತು ಅದನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ ಏಕೆಂದರೆ ಆ ಅಲ್ಗಾರಿತಮ್ ಸುರಕ್ಷಿತವಾಗಿಲ್ಲ.
 cert-not-verified-unknown = ಈ ಪ್ರಮಾಣಪತ್ರವನ್ನು ಅಜ್ಞಾತ ಕಾರಣಗಳಿಂದಾಗಿ ಪರಿಶೀಲಿಸಲಾಗಿಲ್ಲ.
 
 ## Add Security Exception dialog
@@ -130,6 +181,7 @@ add-exception-branded-warning = { -brand-short-name } ವು ಈ ತಾಣವನ
 add-exception-invalid-header = ಈ ತಾಣವು ಅಮಾನ್ಯವಾದ ಮಾಹಿತಿಯಿಂದ ತನ್ನನ್ನು ತಾನು ಗುರುತಿಸಿಕೊಳ್ಳಲು ಪ್ರಯತ್ನಿಸುತ್ತಿದೆ.
 add-exception-domain-mismatch-short = ತಪ್ಪು ತಾಣ
 add-exception-expired-short = ಹಳೆಯದಾದ ಮಾಹಿತಿ
+add-exception-unverified-or-bad-signature-short = ಅಜ್ಞಾತ ಗುರುತು
 add-exception-valid-short = ಮಾನ್ಯ ಪ್ರಮಾಣಪತ್ರ
 add-exception-valid-long = ಈ ತಾಣವು ಒಂದು ಮಾನ್ಯವಾದ, ಪರಿಶೀಲಿಸಲ್ಪಟ್ಟ ಗುರುತನ್ನು ಒದಗಿಸಿದೆ.  ಇದಕ್ಕೆ ಒಂದು ವಿನಾಯಿತಿಯನ್ನು ಸೇರಿಸುವ ಅಗತ್ಯವಿಲ್ಲ.
 add-exception-checking-short = ಮಾಹಿತಿಯನ್ನು ಪರಿಶೀಲಿಸಲಾಗುತ್ತಿದೆ
