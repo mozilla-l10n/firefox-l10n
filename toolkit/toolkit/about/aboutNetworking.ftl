@@ -23,6 +23,7 @@ tcp = TCP
 sent = Anfonwyd
 received = Derbyniwyd
 family = Teulu
+trr = TRR
 addresses = Cyfeiriad
 expires = Daw i ben (Eiliadau)
 messages-sent = Negeseuon Anfonwyd
