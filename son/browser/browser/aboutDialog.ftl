@@ -22,7 +22,7 @@ update-otherInstanceHandlingUpdates = Jinay tana foo goo ma { -brand-short-name 
 update-manual = Taagandiri barantey ne <label data-l10n-name="manual-link"/>
 update-unsupported = War ši hin ka taagandiri tee koyne dabariɲaŋoo woo ga. <label data-l10n-name="unsupported-link">Ka bay ka tonton</label>
 update-restarting = Goo ma tunandi taaga…
-channel-description = Sohõda war goo <label data-l10n-name="current-channel"></label> taagandiri zuwoo boŋ.{ " " }
+channel-description = Sohõda war goo <label data-l10n-name="current-channel"></label> taagandiri zuwoo boŋ.
 warningDesc-version = { -brand-short-name } ti šiyyan dumi kaŋ ši hima tabatante.
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> ti <label data-l10n-name="community-exp-creditsLink">aduɲɲa-mee jamaa</label> kaŋ ga goy nda cere hala Interneti miɲoo ma duumi ka feeri borey kul se.
 community-2 = { -brand-short-name } fasalkaa ti <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, kaŋ ti <label data-l10n-name="community-creditsLink">aduɲɲa-mee jamaa</label> kaŋ ga goy nda cere hala interneti miɲoo ma duumi ka feeri borey kul se.
