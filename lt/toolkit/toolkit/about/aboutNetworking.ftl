@@ -1,0 +1,28 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+title = Tinklo ryšiai
+warning = Ši funkcija labai eksperimentinė. Nenaudokite jos be suaugusiųjų priežiūros.
+show-next-time-checkbox = Rodyti šį pranešimą kitą kartą
+ok = Gerai
+dns = DNS
+websockets = WebSockets
+refresh = Atnaujinti
+auto-refresh = Automatiškai naujinti kas 3 sekundes
+hostname = Serverio vardas
+port = Prievadas
+ssl = SSL
+active = Aktyvus
+idle = Neveiksnus
+host = Serveris
+tcp = TCP
+sent = Išsiųsta
+received = Gauta
+family = Tipas
+addresses = Addresai
+expires = Galiojimo trukmė (sek.)
+messages-sent = Išsiųsta pranešimų
+messages-received = Gauta pranešimų
+bytes-sent = Išsiųsta baitų
+bytes-received = Gauta baitų
