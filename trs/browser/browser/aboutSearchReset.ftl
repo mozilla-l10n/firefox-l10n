@@ -8,7 +8,7 @@ page-info-outofdate = si guruhuaj ni nitaj si hua nakà riña da'uît nanà'uì'
 # Variables:
 #   $searchEngine (String) - Name of the default search engine e.g. Google
 page-info-new-search-engine = Na nachrun motor ruguñu'unj nana'uì't riña <span data-l10n-name="default-engine">{ $searchEngine }</span>
-page-info-how-to-change = Ga'ue nadunat nej ajuste nan aman garan' ruhuât.<a data-l10n-name="link">Ña ga'ue nagi'iô'</a>.{ " " }
+page-info-how-to-change = Ga'ue nadunat nej ajuste nan aman garan' ruhuât. <a data-l10n-name="link">Ña ga'ue nagi'iô'</a>.
 no-change-button =
     .label = Si nadunât
     .accesskey = D
