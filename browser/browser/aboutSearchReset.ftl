@@ -4,6 +4,7 @@
 
 tab-title = Restaurar as configurações de pesquisa
 page-title = Restaurar suas configurações de pesquisa?
+page-info-outofdate = Suas configurações de pesquisa podem estar desatualizadas. O { -brand-short-name } pode ajudar a restaurar o padrão de configurações de pesquisa.
 # Variables:
 #   $searchEngine (String) - Name of the default search engine e.g. Google
 page-info-new-search-engine = Isto definirá o seu mecanismo de pesquisa padrão <span data-l10n-name="default-engine">{ $searchEngine }</span>
