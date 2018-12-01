@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title = เกี่ยวกับเครือข่าย
+warning = ยังอยู่ในช่วงทดสอบ โปรดใช้งานภายใต้การดูแลของผู้ควบคุม
 show-next-time-checkbox = แสดงคำเตือนนี้ในครั้งถัดไป
 ok = ตกลง
 http = HTTP
@@ -21,6 +22,7 @@ host = โฮสต์
 tcp = TCP
 sent = ส่ง
 received = รับ
+family = กลุ่ม
 trr = TRR
 addresses = ที่อยู่
 expires = หมดอายุ (วินาที)
@@ -29,7 +31,14 @@ messages-received = ข้อความที่รับ
 bytes-sent = จำนวนไบต์ที่ส่ง
 bytes-received = จำนวนไบต์ที่รับ
 logging = การบันทึก
+log-tutorial = ดู<a data-l10n-name="logging">การบันทึกล็อก HTTP</a>สำหรับคำแนะนำเกี่ยวกับวิธีการใช้เครื่องมือนี้
+current-log-file = ไฟล์ล็อกปัจจุบัน:
+current-log-modules = โมดูลล็อกปัจจุบัน:
+set-log-file = ตั้งค่าไฟล์ล็อก
+set-log-modules = ตั้งค่าโมดูลล็อก
 start-logging = เริ่มการบันทึก
+stop-logging = หยุดการบันทึกล็อก
+dns-lookup = DNS Lookup
 dns-lookup-button = แปลงที่อยู่
 dns-domain = โดเมน:
 dns-lookup-table-column = IP
