@@ -8,6 +8,7 @@ page-info-outofdate = Nastavitve iskanja so morda zastarele. { -brand-short-name
 # Variables:
 #   $searchEngine (String) - Name of the default search engine e.g. Google
 page-info-new-search-engine = To bo privzeti iskalnik nastavilo na <span data-l10n-name="default-engine">{ $searchEngine }</span>
+page-info-how-to-change = Te nastavitve lahko kadarkoli spremenite iz <a data-l10n-name="link">Stran z nastavitvami</a>.
 no-change-button =
     .label = Ne spremeni
     .accesskey = N
