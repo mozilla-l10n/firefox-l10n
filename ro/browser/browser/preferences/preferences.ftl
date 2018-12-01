@@ -52,7 +52,7 @@ category-privacy =
 pane-sync-title = Cont Firefox
 category-sync =
     .tooltiptext = { pane-sync-title }
-help-button-label = Suport { -brand-short-name }
+help-button-label = Asistență { -brand-short-name }
 addons-button-label = Extensii și teme
 focus-search =
     .key = f
@@ -118,7 +118,7 @@ search-results-empty-message =
         [windows] Ne pare rău! Nu există rezultate în Opțiuni pentru „<span data-l10n-name="query"></span>”.
        *[other] Ne pare rău! Nu există rezultate în Preferințe pentru „<span data-l10n-name="query"></span>”.
     }
-search-results-help-link = Ai nevoie de ajutor? Vizitează <a data-l10n-name="url">pagina de suport { -brand-short-name }</a>
+search-results-help-link = Ai nevoie de ajutor? Intră pe <a data-l10n-name="url">pagina de asistență { -brand-short-name }</a>
 
 ## General Section
 
