@@ -62,6 +62,10 @@ permissions-exceptions-tracking-protection-window =
     .title = Excepcions - Proteccion contra lo seguiment
     .style = { permissions-window.style }
 permissions-exceptions-tracking-protection-desc = Avètz desactivat la proteccion contra lo seguiment sus aqueles sites web.
+permissions-exceptions-content-blocking-window =
+    .title = Excepcions - Blocatge de contengut
+    .style = { permissions-window.style }
+permissions-exceptions-content-blocking-desc = Avètz desactivat lo blocatge de contengut per aquestes sites.
 
 ## Exceptions - Cookies
 

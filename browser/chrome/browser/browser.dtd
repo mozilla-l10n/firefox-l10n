@@ -298,6 +298,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Lo navegador es contrarotlat a distància">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Dobrir lo panèl d’identificacion">
 
+
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Actualament, partejatz vòstra camèra o vòstre microfòn amb aqueste site">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Actualament, partejatz vòstre microfòn amb lo site">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Gerir lo partiment de vòstras fenèstras o d'ecran amb aqueste site">
@@ -1012,6 +1013,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      OFF and is not blocking tracker content, so this is not
      a positive thing. It forms the end of the (imaginary) sentence
      "Trackers [are] Allowed"-->
+<!ENTITY contentBlocking.trackingProtection.allowed.label "Autorizats">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking tracker content, so this is
@@ -1048,6 +1050,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.3rdPartyCookies.add.label "Apondre un blocatge…">
 
+<!ENTITY contentBlocking.manageSettings.label "Gerir lo blocatge de contengut">
+<!ENTITY contentBlocking.manageSettings.accesskey "G">
 
 <!ENTITY contentBlocking.trackersView.label "Traçadors">
 
