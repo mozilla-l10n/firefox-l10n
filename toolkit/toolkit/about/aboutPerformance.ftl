@@ -10,6 +10,7 @@ about-performance-title = Užduočių tvarkytuvė
 column-name = Pavadinimas
 column-type = Tipas
 column-energy-impact = Energijos poveikis
+column-memory = Atmintis
 
 ## Special values for the Name column
 
@@ -37,6 +38,15 @@ type-other = Kitas
 energy-impact-high = Aukštas ({ $value })
 energy-impact-medium = Vidutinis ({ $value })
 energy-impact-low = Žemas ({ $value })
+
+## Values for the Memory column
+##
+## Variables:
+##   $value (Number) - How much memory is used
+
+size-KB = { $value } KB
+size-MB = { $value } MB
+size-GB = { $value } GB
 
 ## Tooltips for the action buttons
 

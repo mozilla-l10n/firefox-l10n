@@ -7,8 +7,8 @@ page-title = Atstatyti jūsų paieškos nuostatas?
 page-info-outofdate = Jūsų paieškos nuostatos gali būti pasenę. „{ -brand-short-name }“ gali padėti jums atstatyti numatytąsias paieškos nuostatas.
 # Variables:
 #   $searchEngine (String) - Name of the default search engine e.g. Google
-page-info-new-search-engine = Jūsų numatytąja ieškykle bus nustatyta <span data-l10n-name="default-engine">{ $searchEngine }</span>
-page-info-how-to-change = Šias nuostatas bet kada galite pakeisti per <a data-l10n-name="link">„Nuostatų“ puslapį</a>.
+page-info-new-search-engine = Jūsų numatytoji ieškyklė bus pakeista į <span data-l10n-name="default-engine">„{ $searchEngine }“</span>
+page-info-how-to-change = Šias nuostatas galėsite pakeisti bet kada per <a data-l10n-name="link">nuostatų meniu</a>.
 no-change-button =
     .label = Nekeisti
     .accesskey = N
