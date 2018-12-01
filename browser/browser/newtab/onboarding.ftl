@@ -28,3 +28,7 @@ onboarding-ghostery-text = 使用 Ghostery 等扩展拦截恼人的广告，让�
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = 同步
 onboarding-fxa-text = 注册 { -fxaccount-brand-name } 之后，您可在任何使用 { -brand-short-name } 的任何地方同步您的书签、密码和打开的标签页。
+
+## Message strings belonging to the Return to AMO flow
+
+return-to-amo-extension-button = 添加扩展
