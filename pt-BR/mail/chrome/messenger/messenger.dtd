@@ -474,7 +474,7 @@
 <!ENTITY addonPrefs.accesskey "O">
 <!ENTITY addonPrefsUnix.label "Preferências da extensão">
 <!ENTITY addonPrefsUnix.accesskey "P">
-<!ENTITY addonNoPrefs.label "Não foram encontradas configurações da extensão.">
+<!ENTITY addonNoPrefs.label "Nenhuma extensão configurada.">
 <!ENTITY activitymanager.label "Gerenciador de atividade">
 <!ENTITY activitymanager.accesskey "G">
 <!ENTITY imAccountsStatus.label "Status do bate-papo">
