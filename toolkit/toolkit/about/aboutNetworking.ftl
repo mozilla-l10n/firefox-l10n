@@ -4,6 +4,7 @@
 
 title = Oer netwurken
 ok = OK
+http = HTTP
 sockets = Sockets
 dns = DNS
 websockets = WebSockets
@@ -24,3 +25,7 @@ messages-sent = Berjochten ferstjoerd
 messages-received = Berjochten ûntfongen
 bytes-sent = Bytes ferstjoerd
 bytes-received = Bytes ûntfongen
+dns-lookup = DNS-sykaksje
+dns-lookup-button = Omsette
+dns-domain = Domein:
+dns-lookup-table-column = IP-adressen
