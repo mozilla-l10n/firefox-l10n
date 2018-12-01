@@ -12,3 +12,6 @@ page-info-how-to-change = Tzemreḍ ad tbeddleḍ iɣewwaren-ik melmi i tebɣi�
 no-change-button =
     .label = Ur ttbeddil ara
     .accesskey = D{ " " }
+change-engine-button =
+    .label = Beddel amsedday n unadi
+    .accesskey = C{ " " }
