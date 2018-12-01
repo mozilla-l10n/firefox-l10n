@@ -9,3 +9,6 @@ page-info-outofdate = Ang iyong search engine ay luma na. Matutulungan ka ng { -
 #   $searchEngine (String) - Name of the default search engine e.g. Google
 page-info-new-search-engine = Mapapalitan ang iyong default search engine ng <span data-l10n-name="default-engine">{ $searchEngine }</span>
 page-info-how-to-change = Maaari mong baguhin ang mga settings na ito sa kahit na anong oras simula sa <a data-l10n-name="link">Settings page</a>.
+no-change-button =
+    .label = Huwag Baguhin
+    .accesskey = D
