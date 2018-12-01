@@ -9,6 +9,7 @@ http = HTTP
 dns = DNS
 websockets = WebSockets
 refresh = เรียกใหม่
+auto-refresh = เรียกใหม่อัตโนมัติทุก 3 วินาที
 hostname = ชื่อโฮสต์
 port = พอร์ต
 ssl = SSL
