@@ -5,6 +5,7 @@
 title = Tentang Jaringan
 warning = Ini sangat eksperimental. Jangan gunakan tanpa pengawasan orang dewasa.
 ok = OK
+http = HTTP
 sockets = Soket
 dns = DNS
 websockets = WebSocket
@@ -25,3 +26,6 @@ messages-sent = Mesej Dihantar
 messages-received = Mesej Diterima
 bytes-sent = Bait Dihantar
 bytes-received = Bait Diterima
+dns-lookup = Carian DNS
+dns-domain = Domain:
+dns-lookup-table-column = IP
