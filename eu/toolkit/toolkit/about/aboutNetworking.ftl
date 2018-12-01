@@ -23,6 +23,7 @@ tcp = TCP
 sent = Bidalitakoak
 received = Jasotakoak
 family = Familia
+trr = TRR
 addresses = Helbideak
 expires = Iraungitzea (segundoak)
 messages-sent = Bidalitako mezuak
