@@ -32,6 +32,12 @@ bytes-sent = Odoslané bajty
 bytes-received = Prijaté bajty
 logging = Záznam
 log-tutorial = Ak sa chcete dozvedieť informácie o používaní tohto nástroja, prosím, navštívte stránku <a data-l10n-name="logging">HTTP Logging</a>.
+current-log-file = Aktuálny súbor protokolu:
+current-log-modules = Aktuálne moduly protokolu:
+set-log-file = Nastaviť súbor protokolu
+set-log-modules = Nastaviť moduly protokolu
+start-logging = Spustiť záznam protokolu
+stop-logging = Zastaviť záznam protokolu
 dns-lookup = Vyhľadávanie DNS
 dns-lookup-button = Vyriešiť
 dns-domain = Doména:
