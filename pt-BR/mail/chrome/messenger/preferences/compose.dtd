@@ -26,7 +26,7 @@
 <!ENTITY useReaderDefaults.accesskey          "d">
 <!ENTITY fontColor.label                      "Cor do texto:">
 <!ENTITY fontColor.accesskey                  "C">
-<!ENTITY bgColor.label                        "Cor do plano de fundo:">
+<!ENTITY bgColor.label                        "Cor de fundo:">
 <!ENTITY bgColor.accesskey                    "u">
 <!ENTITY restoreHTMLDefaults.label            "Restaurar padrão">
 <!ENTITY restoreHTMLDefaults.accesskey        "R">
