@@ -22,7 +22,7 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } កំពុង​�
 update-manual = បច្ចុប្បន្នភាព​មាន​នៅ <label data-l10n-name="manual-link"/>
 update-unsupported = អ្នក​មិន​អាច​ធ្វើ​បច្ចុប្បន្នភាព​បន្ថែម​ទៀត​​ក្នុង​ប្រព័ន្ធ​នេះ​បាន​ទេ។ <label data-l10n-name="unsupported-link">ស្វែងយល់​បន្ថែម</label>
 update-restarting = កំពុង​ចាប់ផ្ដើម​ឡើង​វិញ
-channel-description = បច្ចុប្បន្ន​អ្នក​កំពុង​ស្ថិត​នៅ​លើ​ <label data-l10n-name="current-channel"></label> ធ្វើ​បច្ចុប្បន្នភាព​ឆានែល។{ " " }
+channel-description = បច្ចុប្បន្ន​អ្នក​កំពុង​ស្ថិត​នៅ​លើ​ <label data-l10n-name="current-channel"></label> ធ្វើ​បច្ចុប្បន្នភាព​ឆានែល។
 warningDesc-version = { -brand-short-name } ជា​ការ​ពិសោធន៍ និង​មិន​មាន​​ស្ថិរ​ភាព​ទេ។
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> ជា <label data-l10n-name="community-exp-creditsLink">សហគមន៍​សកល</label> ដែល​ធ្វើការ​ជាមួយ​​គ្នា​ដើម្បី​ធ្វើ​ឲ្យ​តំបន់​បណ្ដាញ​បើក​ចំហ សាធារណៈ និង​អាច​ចូល​ដំណើរ​ការ​បាន​គ្រប់គ្នា ។
 community-2 = { -brand-short-name } ត្រូវ​បាន​រចនា​ដោយ <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label><label data-l10n-name="community-creditsLink">សហគមន៍​សកល</label> ដែល​ធ្វើការ​ជាមួយ​​គ្នា​ដើម្បី​ធ្វើ​ឲ្យ​តំបន់​បណ្ដាញ​បើក​ចំហ សាធារណៈ និង​អាច​ចូល​ដំណើរ​ការ​បាន​គ្រប់គ្នា។
