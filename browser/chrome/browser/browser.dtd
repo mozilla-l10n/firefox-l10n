@@ -304,6 +304,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "เบราว์เซอร์อยู่ภายใต้การควบคุมระยะไกล">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "เปิดแผง ​Web Authentication">
 
+
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "จัดการการแบ่งปันกล้องและ/หรือไมโครโฟนของคุณกับไซต์">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "จัดการการแบ่งปันไมโครโฟนของคุณกับไซต์">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "จัดการการแบ่งปันหน้าต่างหรือหน้าจอของคุณกับไซต์">
@@ -1015,7 +1016,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.fastBlock.add.label "เพิ่มการปิดกั้น…">
 
 <!ENTITY contentBlocking.trackingProtection2.label "ตัวติดตามที่ตรวจพบทั้งหมด">
+
 <!ENTITY contentBlocking.trackingProtection3.label "ตัวติดตาม">
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.allowed.label):
+     This label signals that this type of content blocking is turned
+     OFF and is not blocking tracker content, so this is not
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Trackers [are] Allowed"-->
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking tracker content, so this is
@@ -1051,6 +1058,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.3rdPartyCookies.add.label "เพิ่มการปิดกั้น…">
+
+
+<!ENTITY contentBlocking.trackersView.label "ตัวติดตาม">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "รายงานปัญหา">
 <!ENTITY contentBlocking.breakageReportView.label "รายงานปัญหา">
