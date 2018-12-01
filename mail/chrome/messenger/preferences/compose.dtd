@@ -62,8 +62,8 @@
 <!ENTITY showAsDefault.accesskey               "P">
 <!ENTITY showAsDefaultLast.label               "Último diretório usado">
 
-<!ENTITY sendOptionsDescription.label          "Configure o comportamento do formato de texto.">
-<!ENTITY sendOptions.label                     "Formato de envio…">
+<!ENTITY sendOptionsDescription.label          "Configurar comportamento de formatação de texto">
+<!ENTITY sendOptions.label                     "Opções de envio…">
 <!ENTITY sendOptions.accesskey                 "m">
 
 <!ENTITY attachmentReminder.label              "Detectar ausência de anexos">
