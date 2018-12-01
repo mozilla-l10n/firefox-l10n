@@ -23,6 +23,7 @@ tcp = TCP
 sent = पठाइयो
 received = प्राप्त भयो
 family = परिवार
+trr = TRR
 addresses = ठेगानाहरू
 expires = समाप्त हुन्छ(सेकेन्ड)
 messages-sent = सन्देशहरू पठाइयो
