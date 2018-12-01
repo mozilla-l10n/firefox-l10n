@@ -306,6 +306,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Naršyklė valdoma per nuotolį">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Atverti „Web Authentication“ polangį">
 
+<!ENTITY urlbar.storageAccessAnchor.tooltip               "Atverti naršymo veiklos leidimų polangį">
+
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Tvarkyti kameros ir mikrofono naudojimą svetainėje">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Tvarkyti mikrofono naudojimą svetainėje">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Tvarkyti langų ar viso ekrano bendrinimą su svetaine">
