@@ -306,6 +306,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Prohlížeč je ovládán vzdáleně">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Otevřít panel webové autentizace">
 
+<!ENTITY urlbar.storageAccessAnchor.tooltip               "Otevřít nastavení přístupu k informacím o vašem prohlížení">
+
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Spravovat sdílení webkamery a/nebo mikrofonu se stránkou">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Spravovat sdílení mikrofonu se stránkou">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Spravovat sdílení oken nebo obrazovky se stránkou">
