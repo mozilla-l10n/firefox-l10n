@@ -4,3 +4,10 @@
 
 tab-title = Restaurar configuración da busca
 page-title = Quere restaurar a configuración da busca?
+page-info-how-to-change = Pode cambiar estes axustes en calquera momento dende a <a data-l10n-name="link">Páxina de configuración</a>.
+no-change-button =
+    .label = Non cambiar
+    .accesskey = N
+change-engine-button =
+    .label = Cambiar o buscador
+    .accesskey = C
