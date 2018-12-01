@@ -38,13 +38,13 @@
 <!ENTITY specialFolders.label "Rascunhos e modelos">
 <!ENTITY keepDrafts2.label "Manter rascunhos na pasta:">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY draftsFolderOn.label "Pasta “Rascunhos” da conta:">
+<!ENTITY draftsFolderOn.label "Pasta &quot;Rascunhos&quot; em:">
 <!ENTITY draftsFolderOn.accesskey "R">
-<!ENTITY draftInOtherFolder.label "Outra pasta:">
+<!ENTITY draftInOtherFolder.label "Outra:">
 <!ENTITY draftInOtherFolder.accesskey "u">
-<!ENTITY keepTemplates.label "Manter modelos na pasta:">
+<!ENTITY keepTemplates.label "Manter modelos de mensagem em:">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY templatesFolderOn.label "Pasta “Modelos” da conta:">
+<!ENTITY templatesFolderOn.label "Pasta &quot;Modelos&quot; em:">
 <!ENTITY templatesFolderOn.accesskey "M">
-<!ENTITY templateInOtherFolder.label "Outra pasta:">
+<!ENTITY templateInOtherFolder.label "Outra:">
 <!ENTITY templateInOtherFolder.accesskey "r">

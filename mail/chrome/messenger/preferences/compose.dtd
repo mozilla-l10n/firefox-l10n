@@ -28,7 +28,7 @@
 <!ENTITY fontColor.accesskey                  "C">
 <!ENTITY bgColor.label                        "Cor do plano de fundo:">
 <!ENTITY bgColor.accesskey                    "u">
-<!ENTITY restoreHTMLDefaults.label            "Restaurar o padrão">
+<!ENTITY restoreHTMLDefaults.label            "Restaurar padrão">
 <!ENTITY restoreHTMLDefaults.accesskey        "R">
 <!ENTITY defaultToParagraph.label             "Usar formato de parágrafo em vez do corpo do texto por padrão">
 <!ENTITY defaultToParagraph.accesskey         "P">
