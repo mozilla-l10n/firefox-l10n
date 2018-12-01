@@ -23,6 +23,7 @@ tcp = TCP
 sent = Titaq
 received = K'ulun
 family = Ach'alalri'ïl
+trr = TRR
 addresses = Ochochib'äl
 expires = Nik'is (Taq xil ch'utiramaj)
 messages-sent = Taq rutzijol etaqon
