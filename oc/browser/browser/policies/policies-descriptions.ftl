@@ -11,14 +11,20 @@
 ## in the documentation section in about:policies.
 
 policy-AppUpdateURL = Permet de definir una URL de mesa a jorn personalizada per l’aplicacion.
+policy-Authentication = Configura l’autentificacion integrada pels sites web que la prepausan.
+policy-BlockAboutAddons = Bloca l’accès al gestionari de moduls (about:addons).
 policy-BlockAboutConfig = Blòca l’accès a la pagina about:config.
 policy-BlockAboutProfiles = Blòca l’accès a la pagina about:profiles.
 policy-BlockAboutSupport = Blòca l’accès a la pagina about:support.
+policy-Bookmarks = Permet de crear de marcapaginas dins la barra personala, lo menú dels marcapaginas o un dels jos-dorsièrs.
+policy-Certificates = Permet d’utilizar o non de certificats integrats. Aquesta politica es especifica a Windows pel moment.
 policy-CertificatesDescription = Apondre de certificats o utilizar de certificats predefinits.
 policy-Cookies = Permet o defend als sites de definir de cookies.
 policy-DisableAppUpdate = Empacha lo navigador de se metre a jorn.
 policy-DisableBuiltinPDFViewer = Desactiva PDF.js, lo visionador integrat de PDF dins { -brand-short-name }.
 policy-DisableDeveloperTools = Blòca l’accès a las aisinas de desvolopament.
+policy-DisableFeedbackCommands = Desactiva las comandas que permeton de mandar de comentaris dins lo menú d’ajuda (Donar vòstre vejaire e senhalar un site enganaire)
+policy-DisableFirefoxAccounts = Desactiva los servicis basats sus { -fxaccount-brand-name }, e tanben Sync.
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Desactivar la foncionalitat de presa de capture Firefox Screenshots.
 policy-DisableFirefoxStudies = Empacha { -brand-short-name } d’executar d’estudis.
@@ -27,6 +33,8 @@ policy-DisableFormHistory = Conservar pas d’istoric de las recèrcas e dels fo
 policy-DisableMasterPasswordCreation = Se activat, serà impossible de crear un senhal principal.
 policy-DisablePocket = Desactiva la foncionalitat d’enregistrament de paginas web dins Pocket.
 policy-DisablePrivateBrowsing = Desactiva la navigacion privada.
+policy-DisableProfileImport = Desactiva la comanda de menú que permet d’importar de donadas a partir d’un autre navegador.
+policy-DisableProfileRefresh = Desactiva lo boton Actualizar de { -brand-short-name } dins la pagina about:support.
 policy-DisableTelemetry = Desactiva la telemetria.
 policy-DisplayBookmarksToolbar = Aficha la barra personala per defaut.
 policy-DisplayMenuBar = Aficha la barra de menús per defaut.
