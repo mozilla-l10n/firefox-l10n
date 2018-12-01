@@ -44,7 +44,7 @@
 <!ENTITY certmgr.override_lifetime            "Durată de viață">
 <!ENTITY certmgr.tokenname                    "Dispozitiv de securitate">
 <!ENTITY certmgr.begins                       "Începe">
-<!ENTITY certmgr.expires                      "Expiră">
+<!ENTITY certmgr.expires                      "Expiră la data de">
 <!ENTITY certmgr.email                        "Adresă de e-mail">
 <!ENTITY certmgr.serial                       "Număr de serie">
 
