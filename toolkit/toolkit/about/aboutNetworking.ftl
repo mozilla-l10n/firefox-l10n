@@ -29,11 +29,14 @@ messages-sent = Mensagens enviadas
 messages-received = Mensagens recebidas
 bytes-sent = Bytes enviados
 bytes-received = Bytes recebidos
+logging = Registro
 log-tutorial = Ver o <a data-l10n-name="logging">Registro HTTP </a> para instruções sobre como usar essa ferramenta.
 current-log-file = Arquivo de registro atual:
 current-log-modules = Módulos de registro atuais:
 set-log-file = Configurar arquivo de registro
 set-log-modules = Configurar módulo de registro
+start-logging = Iniciar registro
+stop-logging = Parar registro
 dns-lookup = DNS Lookup
 dns-lookup-button = Resolver
 dns-domain = Domínio:
