@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tab-title = Restablir los paramètres de recèrca
+page-title = Restablir vòstres paramètres de recèrca ?
 page-info-outofdate = Vòstres paramètres de recèrca que pòdon èsser obsolèts. { -brand-short-name } pòt vos ajudar a restablir los paramètres de recèrca per defaut.
 # Variables:
 #   $searchEngine (String) - Name of the default search engine e.g. Google
