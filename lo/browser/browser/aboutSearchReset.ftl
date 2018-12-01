@@ -4,6 +4,7 @@
 
 tab-title = ກູ້ຄືນການຕັ້ງຄ່າການຄົ້ນຫາ
 page-title = ຕ້ອງການກູ້ຄືນການຕັ້ງຄ່າການຄົ້ນຫາຫລືບໍ່?
+page-info-outofdate = ການຕັ້ງຄ່າການຄົ້ນຫາຂອງທ່ານອາດຈະບໍ່ໄດ້ຮັບການອັບເດດ. ແລະ { -brand-short-name } ສາມາດຊ່ວຍໃຫ້ທ່ານກູ້ຄືນການຕັ້ງຄ່າການຄົ້ນຫາ.
 # Variables:
 #   $searchEngine (String) - Name of the default search engine e.g. Google
 page-info-new-search-engine = ສິ່ງນີ້ຈະຕັ້ງເຄືອງມືການຄົ້ນຫາພື້ນຖານຂອງທ່ານເປັນ <span data-l10n-name="default-engine">{ $searchEngine }</span>
