@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+tab-title = Restaurar definições de pesquisa
 page-title = Restaurar as suas definições de pesquisa?
 page-info-outofdate = As suas definições de pesquisa poderão estar desatualizadas. O { -brand-short-name } pode ajudar-lhe a restaurar as definições de pesquisa predefinidas.
 # Variables:
