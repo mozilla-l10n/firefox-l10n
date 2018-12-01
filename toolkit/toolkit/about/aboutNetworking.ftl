@@ -46,3 +46,7 @@ rcwn-status = وضعیت RCWN
 rcwn-cache-won-count = تعداد برتری حافظه‌نهان
 rcwn-net-won-count = تعداد برتری شبکه
 total-network-requests = مجموع تعداد درخواست‌های شبکه
+rcwn-perf-open = باز کردن
+rcwn-perf-read = خواندن
+rcwn-perf-write = نوشتن
+rcwn-perf-entry-open = ورودی باز
