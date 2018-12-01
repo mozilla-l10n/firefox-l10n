@@ -23,6 +23,7 @@ tcp = TCP
 sent = Mondopyre
 received = Japyhypyre
 family = Pehẽngue
+trr = TRR
 addresses = Kundaharape
 expires = Paha (aravo'ive)
 messages-sent = Marandu mondopyre
