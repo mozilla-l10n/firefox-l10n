@@ -5,6 +5,7 @@
 title = О умрежавању
 warning = Ово је веома експериментално. Не користите без надзора родитеља.
 show-next-time-checkbox = Прикажи ово упозорење следећи пут
+ok = У реду
 sockets = Sockets
 dns = DNS
 websockets = WebSockets
