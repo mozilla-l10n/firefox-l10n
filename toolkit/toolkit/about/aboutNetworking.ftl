@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title = מידע על רכיב התקשורת
+warning = רכיב זה הוא בשלבי ניסוי. אין להשתמש ללא השגחת מבוגר.
+show-next-time-checkbox = להציג בפני את ההודעה הזאת בפעם הבאה
 ok = אישור
 sockets = Sockets
 dns = DNS
