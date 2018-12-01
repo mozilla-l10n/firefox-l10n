@@ -23,6 +23,7 @@ tcp = TCP
 sent = Air a chur
 received = Air fhaighinn
 family = Teaghlach
+trr = TRR
 addresses = Seòlaidhean
 expires = Falbhaidh an ùine air (ann an diogan)
 messages-sent = Teachdaireachdan a chaidh a chur
