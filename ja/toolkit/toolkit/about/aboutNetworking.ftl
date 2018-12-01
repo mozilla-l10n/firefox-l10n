@@ -23,6 +23,7 @@ tcp = TCP
 sent = 送信データ量
 received = 受信データ量
 family = 系統
+trr = TRR
 addresses = アドレス
 expires = 期限 (秒)
 messages-sent = 送信メッセージ
