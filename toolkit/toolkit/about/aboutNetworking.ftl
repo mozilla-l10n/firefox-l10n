@@ -23,6 +23,7 @@ tcp = TCP
 sent = Pósłany
 received = Dostany
 family = Familija
+trr = TRR
 addresses = Adrese
 expires = Pśepadnjo (sekundy)
 messages-sent = Pósłane powěsći
