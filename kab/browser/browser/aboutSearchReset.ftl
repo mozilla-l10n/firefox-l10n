@@ -8,10 +8,10 @@ page-info-outofdate = Iɣewwaren-ik n unadi d iqburen. { -brand-short-name } yez
 # Variables:
 #   $searchEngine (String) - Name of the default search engine e.g. Google
 page-info-new-search-engine = Aya ad yesbadu amsedday n unadi amezwer i <span data-l10n-name="default-engine">{ $searchEngine }</span>
-page-info-how-to-change = Tzemreḍ ad tbeddleḍ iɣewwaren-ik melmi i tebɣiḍ seg <a data-l10n-name="link">Asebter n yiɣewwaren</a>.{ " " }
+page-info-how-to-change = Tzemreḍ ad tbeddleḍ iɣewwaren-ik melmi i tebɣiḍ seg <a data-l10n-name="link">Asebter n yiɣewwaren</a>.
 no-change-button =
     .label = Ur ttbeddil ara
-    .accesskey = D{ " " }
+    .accesskey = D
 change-engine-button =
     .label = Beddel amsedday n unadi
-    .accesskey = C{ " " }
+    .accesskey = C
