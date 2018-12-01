@@ -813,7 +813,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_clear_history "Historiju zhašeć">
 <!ENTITY restrictable_feature_clear_history_description "Zmóžnja swójbnym, informacije wo sydłach a stronach zhašeć, kotrež su wopytali.">
 <!ENTITY restrictable_feature_advanced_settings "Rozšěrjene nastajenja">
-<!ENTITY restrictable_feature_advanced_settings_description "To zapřijima importowanje zapołožkow, wobnowjenje rajtarkow a awtomatiske aktualizacije. Wupińće to, zo byšće zjednorjene nastajenja zmóžnił, kotrež su za swójbneho přihódne.">
+<!ENTITY restrictable_feature_advanced_settings_description "To importowanje zapołožkow, wobnowjenje rajtarkow a awtomatiske aktualizacije zapřijima. Wupińće to, zo byšće zjednorjene nastajenja zmóžnił, kotrež su za swójbneho přihódne.">
 <!ENTITY restrictable_feature_camera_microphone "Kamera a mikrofon">
 <!ENTITY restrictable_feature_camera_microphone_description "Zmóžnja swójbnym, komunikaciju na websydłach we woprawdźitym času wobhospodarić.">
 <!ENTITY restrictable_feature_block_list "Blokowanska lisćina">
