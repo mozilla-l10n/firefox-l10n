@@ -30,6 +30,7 @@ messages-received = Mensagens recebidas
 bytes-sent = Bytes enviados
 bytes-received = Bytes recebidos
 logging = Registos
+log-tutorial = Consulte <a data-l10n-name="logging">HTTP Logging</a> para instruções sobre como utilizar esta ferramenta.
 current-log-file = Ficheiro de registo atual:
 set-log-file = Definir ficheiro de registo
 set-log-modules = Definir módulos de registo
