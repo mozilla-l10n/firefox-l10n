@@ -12,3 +12,6 @@ page-info-how-to-change = Maaari mong baguhin ang mga settings na ito sa kahit n
 no-change-button =
     .label = Huwag Baguhin
     .accesskey = D
+change-engine-button =
+    .label = Baguhin ang Search Engine
+    .accesskey = C
