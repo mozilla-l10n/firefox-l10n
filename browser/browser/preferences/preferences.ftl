@@ -704,6 +704,7 @@ content-blocking-setting-custom =
     .label = กำหนดเอง
     .accesskey = ก
 content-blocking-custom-desc = เลือกสิ่งที่จะปิดกั้น
+content-blocking-private-trackers = ตัวติดตามที่รู้จักเฉพาะในหน้าต่างส่วนตัว
 content-blocking-third-party-cookies = คุกกี้ติดตามจากบุคคลที่สาม
 content-blocking-all-windows-trackers = ตัวติดตามที่รู้จักในหน้าต่างทั้งหมด
 content-blocking-all-third-party-cookies = คุกกี้จากบุคคลที่สามทั้งหมด
