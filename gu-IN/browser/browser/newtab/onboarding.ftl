@@ -28,3 +28,8 @@ onboarding-ghostery-text = Ghostery જેવાં વિસ્તરણ સા
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = સમન્વય
 onboarding-fxa-text = { -fxaccount-brand-name } માટે સાઇન અપ કરો અને તમે જ્યાં પણ { -brand-short-name } નો ઉપયોગ કરો છો ત્યાં તમારા બુકમાર્ક્સ, પાસવર્ડ્સ અને ખુલ્લા ટૅબ્સને સમન્વયિત કરો.
+
+## Message strings belonging to the Return to AMO flow
+
+return-to-amo-sub-header = સરસ, તમને { -brand-short-name } મળી ગયું
+return-to-amo-get-started-button = { -brand-short-name } સાથે પ્રારંભ કરો
