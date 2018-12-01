@@ -26,6 +26,14 @@ messages-sent = ສົ່ງຂໍ້ຄວາມ
 messages-received = ໄດ້ຮັບຂໍ້ຄວາມ
 bytes-sent = ສົ່ງ Bytes
 bytes-received = ໄດ້ຮັບ Bytes
+logging = ກຳລັງບັນທຶກລັອກ
+log-tutorial = ເບິງ <a data-l10n-name="logging">ການລັອກ HTTP</a> ສຳລັບວິທີການນຳໃຊ້ເຄື່ອງມືນີ້.
+current-log-file = ລັອກໄຟລ໌ຕອນນີ້:
+current-log-modules = ໂມດູລລັອກຕອນນີ້:
+set-log-file = ຕັ້ງລັອກໄຟລ໌
+set-log-modules = ຕັ້ງໂມດູລລັອກ
+start-logging = ເລີ່ມການບັນທຶກລັອກ
+stop-logging = ຢຸດການບັນທຶກລັອກ
 dns-lookup = DNS Lookup
 dns-lookup-button = Resolve
 dns-domain = ໂດເມນ:
