@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title = Talɣut ɣef uẓeṭṭa
+warning = Tamhelt-agi d tirmit kan. Ur tt-seqdac ara arma yella yid-k umdan meqqren.
 show-next-time-checkbox = Sken alɣu-a tikelt d-itteddun
 ok = IH
 http = HTTP
@@ -48,8 +49,11 @@ rcwn-net-won-count = Tazerkatut n uẓeṭṭa ad ittwarebḥen
 total-network-requests = Aseklas uγrid n isuturen n uẓeṭṭa
 rcwn-operation = Tamhelt n tuffirt
 rcwn-perf-open = Ldi
+rcwn-perf-read = Γɣaṛ
 rcwn-perf-write = Aru
 rcwn-perf-entry-open = Ldi anekcum
 rcwn-avg-short = Talemmast meẓẓiyet
+rcwn-avg-long = Talemmast ɣezzifet
+rcwn-std-dev-long = Amgared tizeɣt muqren
 rcwn-cache-slow = Amḍan n tuffirt ẓẓayen
 rcwn-cache-not-slow = Amdan n tuffirt ur nelli ẓẓayet
