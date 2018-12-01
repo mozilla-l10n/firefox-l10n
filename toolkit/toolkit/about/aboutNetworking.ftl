@@ -5,6 +5,7 @@
 title = ಜಾಲಬಂಧದ ಕುರಿತು
 warning = ಇದು ಕೇವಲ ಪ್ರಾಯೋಗಿಕವಷ್ಟೆ. ವಯಸ್ಕರ ಮೇಲ್ವಿಚಾರಣೆ ಇಲ್ಲದೆ ಬಳಸಬೇಡಿ.
 show-next-time-checkbox = ಈ ಎಚ್ಚರಿಕಾ ಸಂದೇಶವನ್ನು ಮುಂದಿನ ಬಾರಿ ತೋರಿಸು
+ok = OK
 http = HTTP
 sockets = ಸಾಕೆಟ್‌ಗಳು
 dns = DNS
@@ -25,6 +26,8 @@ addresses = ವಿಳಾಸಗಳು
 expires = ಅಂತ್ಯಗೊಳ್ಳುತ್ತಿದೆ (ಸೆಕೆಂಡುಗಳಲ್ಲಿ)
 messages-sent = ಸಂದೇಶಗಳನ್ನು ಕಳಿಸಲಾಗಿದೆ
 messages-received = ಸಂದೇಶವನ್ನು ಸ್ವೀಕರಿಸಲಾಗಿದೆ
+bytes-sent = ಬೈಟ್ಸ್‌ಗಳನ್ನು ಕಳಿಸಲಾಗಿದೆ
+bytes-received = ಬೈಟ್ಸ್‌ಗಳನ್ನು ಪಡೆಯಲಾಗಿದೆ
 logging = ದಾಖಲಾತಿ‍
 dns-lookup = DNS ಲುಕ್ಅಪ್
 dns-lookup-button = ಬಗೆಹರಿಸಿ
