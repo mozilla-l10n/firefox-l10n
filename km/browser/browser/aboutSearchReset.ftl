@@ -11,7 +11,7 @@ page-info-new-search-engine = វា​នឹង​កំណត់​ម៉ា�
 page-info-how-to-change = អ្នក​អាច​ផ្លាស់ប្ដូរ​ការ​​កំណត់​ទាំងនេះ​នៅ​ពេល​ណា​ក៏​បាន​ពី <a data-l10n-name="link">ទំព័រ​ការកំណត់</a>.
 no-change-button =
     .label = កុំ​ផ្លាស់ប្ដូរ
-    .accesskey = { "" }
+    .accesskey = D
 change-engine-button =
     .label = ប្ដូរ​ម៉ាស៊ីន​ស្វែងរក
-    .accesskey = { "" }
+    .accesskey = C
