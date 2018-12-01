@@ -8,7 +8,7 @@ page-info-outofdate = As suas definições de pesquisa poderão estar desatualiz
 # Variables:
 #   $searchEngine (String) - Name of the default search engine e.g. Google
 page-info-new-search-engine = Isto irá definir o seu motor de pesquisa predefinido para <span data-l10n-name="default-engine">{ $searchEngine }</span>
-page-info-how-to-change = Pode alterar estas definições a qualquer momento a partir de <a data-l10n-name="link">Página de definições</a>.
+page-info-how-to-change = Pode alterar estas definições a qualquer momento a partir da <a data-l10n-name="link">página de definições</a>.
 no-change-button =
     .label = Não alterar
     .accesskey = N
