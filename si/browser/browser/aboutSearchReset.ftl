@@ -8,6 +8,10 @@ page-info-outofdate = ඔබගේ සෙවුම් සැකසුම් ප�
 # Variables:
 #   $searchEngine (String) - Name of the default search engine e.g. Google
 page-info-new-search-engine = මෙය ඔබගේ පෙරනිමි සෙවුම් යන්ත්‍රය මෙලෙස සකසනු ඇත <span data-l10n-name="default-engine">{ $searchEngine }</span>
+page-info-how-to-change = ඔබගේ මෙම සැකසුම් ඔබට අවශ්‍ය විට මෙමඟින් සැකසිය හැකිය <a data-l10n-name="link">සැකසුම් පිටුව</a>.
 no-change-button =
     .label = වෙනස් නොකරන්න
     .accesskey = D
+change-engine-button =
+    .label = සෙවුම් යන්ත්‍රය මාරු කරන්න
+    .accesskey = C
