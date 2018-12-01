@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title = Connexiuns a la rait
+warning = Quai è ina funcziun fitg experimentala. Betg utilisar senza surveglianza d'ina persuna creschida.
 show-next-time-checkbox = Mussar quest avis la proxima giada
 ok = OK
 http = HTTP
@@ -22,6 +23,7 @@ tcp = TCP
 sent = Tramess
 received = Reschavì
 family = Famiglia
+trr = TRR
 addresses = Addressas
 expires = Scroda en (secundas)
 messages-sent = Messadis tramess
@@ -49,3 +51,9 @@ rcwn-operation = Operaziun dal cache
 rcwn-perf-open = Avrir
 rcwn-perf-read = Leger
 rcwn-perf-write = Scriver
+rcwn-perf-entry-open = Entrada averta
+rcwn-avg-short = Media curta
+rcwn-avg-long = Media lunga
+rcwn-std-dev-long = Deviaziun da standard lunga
+rcwn-cache-slow = Dumber da giadas ch'il cache è plaun
+rcwn-cache-not-slow = Dumber da giadas ch'il cache è svelt
