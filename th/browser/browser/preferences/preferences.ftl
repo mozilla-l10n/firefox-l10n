@@ -276,6 +276,9 @@ update-application-use-service =
 update-enable-search-update =
     .label = อัปเดตเครื่องมือค้นหาโดยอัตโนมัติ
     .accesskey = อ
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = ไม่สามารถบันทึกค่ากำหนด ไม่สามารถเขียนไปยังไฟล์: { $path }
 
 ## General Section - Performance
 
@@ -616,6 +619,14 @@ sitedata-block-all-third-party-option =
     .label = คุกกี้จากบุคคลที่สามทั้งหมด (อาจส่งผลให้เว็บไซต์ไม่สมบูรณ์)
 sitedata-block-all-option =
     .label = คุกกี้ทั้งหมด (จะส่งผลให้เว็บไซต์ไม่สมบูรณ์)
+sitedata-option-block-trackers =
+    .label = ตัวติดตามจากบุคคลที่สาม
+sitedata-option-block-unvisited =
+    .label = คุกกี้จากเว็บไซต์ที่ไม่ได้เยี่ยมชม
+sitedata-option-block-all-third-party =
+    .label = คุกกี้จากบุคคลที่สามทั้งหมด (อาจส่งผลให้เว็บไซต์ไม่สมบูรณ์)
+sitedata-option-block-all =
+    .label = คุกกี้ทั้งหมด (จะส่งผลให้เว็บไซต์ไม่สมบูรณ์)
 sitedata-clear =
     .label = ล้างข้อมูล…
     .accesskey = ล
@@ -625,6 +636,9 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = ข้อยกเว้น…
     .accesskey = ข
+sitedata-cookies-permissions =
+    .label = จัดการการอนุญาต…
+    .accesskey = ด
 
 ## Privacy Section - Address Bar
 
@@ -678,6 +692,31 @@ content-blocking-tracking-protection-option-always =
 content-blocking-tracking-protection-option-private =
     .label = เฉพาะในหน้าต่างส่วนตัว
     .accesskey = พ
+# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+content-blocking-setting-standard =
+    .label = มาตรฐาน
+    .accesskey = ม
+content-blocking-setting-strict =
+    .label = เข้มงวด
+    .accesskey = ข
+content-blocking-setting-custom =
+    .label = กำหนดเอง
+    .accesskey = ก
+content-blocking-custom-desc = เลือกสิ่งที่จะปิดกั้น
+content-blocking-third-party-cookies = คุกกี้ติดตามจากบุคคลที่สาม
+content-blocking-all-windows-trackers = ตัวติดตามที่รู้จักในหน้าต่างทั้งหมด
+content-blocking-all-third-party-cookies = คุกกี้จากบุคคลที่สามทั้งหมด
+content-blocking-learn-how = เรียนรู้วิธีการ
+content-blocking-trackers-label =
+    .label = ตัวติดตาม
+    .accesskey = ต
+content-blocking-tracking-protection-option-all-windows =
+    .label = ในหน้าต่างทั้งหมด
+    .accesskey = น
+content-blocking-option-private =
+    .label = เฉพาะในหน้าต่างส่วนตัว
+    .accesskey = พ
 content-blocking-tracking-protection-change-block-list = เปลี่ยนรายการปิดกั้น
 content-blocking-third-party-cookies-label =
     .label = คุกกี้จากบุคคลที่สาม
@@ -695,6 +734,9 @@ content-blocking-reject-trackers-block-trackers-option =
 content-blocking-reject-trackers-all-third-parties-option =
     .label = คุกกี้จากบุคคลที่สามทั้งหมด (อาจส่งผลให้เว็บไซต์ไม่สมบูรณ์)
     .accesskey = ก
+content-blocking-cookies-label =
+    .label = คุกกี้
+    .accesskey = ค
 
 ## Privacy Section - Tracking
 
@@ -716,6 +758,9 @@ tracking-exceptions =
 tracking-change-block-list =
     .label = เปลี่ยนรายการปิดกั้น…
     .accesskey = ร
+tracking-manage-exceptions =
+    .label = จัดการข้อยกเว้น…
+    .accesskey = จ
 
 ## Privacy Section - Permissions
 
@@ -861,3 +906,7 @@ space-alert-under-5gb-message = พื้นที่ดิสก์ของ { 
 desktop-folder-name = เดสก์ท็อป
 downloads-folder-name = การดาวน์โหลด
 choose-download-folder-title = เลือกโฟลเดอร์การดาวน์โหลด:
+# Variables:
+#   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
+save-files-to-cloud-storage =
+    .label = บันทึกไฟล์ไปยัง { $service-name }
