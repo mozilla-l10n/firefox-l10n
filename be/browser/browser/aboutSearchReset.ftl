@@ -5,6 +5,9 @@
 tab-title = Аднавіць налады пошуку
 page-title = Аднавіць вашы налады пошуку?
 page-info-outofdate = Вашы налады пошуку маглі састарэць. { -brand-short-name } можа дапамагчы вам аднавіць стандартныя пошукавыя налады.
+# Variables:
+#   $searchEngine (String) - Name of the default search engine e.g. Google
+page-info-new-search-engine = Гэта зробіць вашым прадвызначаным пашукавіком <span data-l10n-name="default-engine">{ $searchEngine }</span>
 page-info-how-to-change = Вы можаце змяніць гэтыя налады ў любы час на <a data-l10n-name="link">старонцы Наладаў</a>.
 no-change-button =
     .label = Не мяняць
