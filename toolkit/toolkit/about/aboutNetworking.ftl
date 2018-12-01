@@ -28,6 +28,14 @@ messages-sent = বার্তা পাঠানো হয়েছে
 messages-received = বার্তা প্রাপ্ত হয়েছে
 bytes-sent = বাইট পাঠানো হয়েছে
 bytes-received = বাইট প্রাপ্ত হয়েছে
+logging = লগ হচ্ছে
+log-tutorial = দেখুন <a data-l10n-name="logging">HTTP লগ হচ্ছে</a> কিভাবে এই টুল ব্যবহার করতে হয় তার নির্দেশাবলীর জন্য।
+current-log-file = বর্তমান লগ ফাইল:
+current-log-modules = বর্তমান লগ মডিউলগুলি:
+set-log-file = লগ ফাইল সেট করুন
+set-log-modules = লগ মডিউল সেট করুন
+start-logging = লগ করা শুরু করুন
+stop-logging = লগ করা বন্ধ করুন
 dns-lookup = DNS Lookup
 dns-lookup-button = সমাধান
 dns-domain = ডোমেইন:
