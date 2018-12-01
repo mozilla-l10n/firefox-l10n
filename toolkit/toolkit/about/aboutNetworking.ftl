@@ -5,6 +5,7 @@
 warning = Toto je veľmi experimentálna stránka. Nepokračujte, ak neviete, čo robíte.
 show-next-time-checkbox = Toto upozornenie zobraziť aj nabudúce
 ok = OK
+http = HTTP
 sockets = Sockety
 dns = DNS
 websockets = WebSockety
@@ -26,3 +27,7 @@ messages-sent = Odoslané správy
 messages-received = Prijaté správy
 bytes-sent = Odoslané bajty
 bytes-received = Prijaté bajty
+dns-lookup = Vyhľadávanie DNS
+dns-lookup-button = Vyriešiť
+dns-domain = Doména:
+dns-lookup-table-column = Adresy IP
