@@ -4,6 +4,10 @@
 
 tab-title = Khôi phục cài đặt tìm kiếm
 page-title = Khôi phục cài đặt tìm kiếm của bạn?
+# Variables:
+#   $searchEngine (String) - Name of the default search engine e.g. Google
+page-info-new-search-engine = Điều này sẽ thiết lập công cụ tìm kiếm mặc định của bạn thành <span data-l10n-name="default-engine">{ $searchEngine }</span>
+page-info-how-to-change = Bạn có thể thay đổi cài đặt này bất kỳ lúc nào <a data-l10n-name="link">Trang cài đặt</a>.
 no-change-button =
     .label = Không thay đổi
     .accesskey = D
