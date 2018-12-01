@@ -28,3 +28,14 @@ onboarding-ghostery-text = Naršykite greičiau, protingiau, ar saugiau su tokia
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Sinchronizavimas
 onboarding-fxa-text = Susikurkite „{ -fxaccount-brand-name }“ ir sinchronizuokite savo adresyną, slaptažodžius, ir atvertas korteles visur, kur naudojate „{ -brand-short-name }“.
+
+## Message strings belonging to the Return to AMO flow
+
+return-to-amo-sub-header = Puiku, jūs turite „{ -brand-short-name }“
+# <icon></icon> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-header = Dabar įdiekime jums <icon></icon><b>„{ $addon-name }“</b>.
+return-to-amo-extension-button = Įtraukti priedą
+return-to-amo-get-started-button = Pradėkite su „{ -brand-short-name }“
