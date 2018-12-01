@@ -33,3 +33,5 @@ dns-lookup = DNS ಲುಕ್ಅಪ್
 dns-lookup-button = ಬಗೆಹರಿಸಿ
 dns-domain = ಡೊಮೈನ್:
 dns-lookup-table-column = IPಗಳು
+rcwn-perf-open = ತೆರೆ
+rcwn-perf-read = ಓದು
