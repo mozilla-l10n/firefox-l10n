@@ -23,6 +23,7 @@ tcp = TCP
 sent = Send
 received = Móttekið
 family = Fjölskylda
+trr = TRR
 addresses = Netföng
 expires = Rennur út (Sekúndur)
 messages-sent = Skilaboð send
