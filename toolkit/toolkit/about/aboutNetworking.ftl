@@ -23,6 +23,7 @@ tcp = TCP
 sent = Mandat
 received = Recebut
 family = Familha
+trr = TRR
 addresses = Adreças
 expires = Expiracion (segondas)
 messages-sent = Messatges mandats
@@ -30,6 +31,7 @@ messages-received = Messatges recebuts
 bytes-sent = Octets mandats
 bytes-received = Octets recebuts
 logging = Jornal
+log-tutorial = Veire <a data-l10n-name="logging">HTTP Logging</a> per saber cossí utilizar aquesta aisina.
 current-log-file = Fichièr de jornalizacion actual :
 current-log-modules = Moduls de jornalizacion actuals :
 set-log-file = Definir un fichièr pel jornal
