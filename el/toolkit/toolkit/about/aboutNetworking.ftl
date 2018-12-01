@@ -4,17 +4,21 @@
 
 title = Σχετικά με τη δικτύωση
 warning = Πολύ πειραματικό. Να μην χρησιμοποιείται χωρίς επίβλεψη από ενήλικα.
+show-next-time-checkbox = Εμφάνιση της προειδοποίησης την επόμενη φορά
 ok = OK
 http = HTTP
 sockets = Υποδοχές
 dns = DNS
 websockets = WebSockets
 refresh = Ανανέωση
+auto-refresh = Αυτόματη ανανέωση κάθε 3 δευτερόλεπτα
+hostname = Όνομα κεντρικού υπολογιστή
 port = Θύρα
 http2 = HTTP/2
 ssl = SSL
 active = Ενεργό
 idle = Αδρανές
+host = Διακομιστής
 tcp = TCP
 sent = Απεσταλμένα
 received = Ληφθέντα
@@ -26,7 +30,14 @@ messages-sent = Απεσταλμένα μηνύματα
 messages-received = Ληφθέντα μηνύματα
 bytes-sent = Απεσταλμένα byte
 bytes-received = Ληφθέντα byte
+logging = Καταγραφή
 log-tutorial = Δείτε την <a data-l10n-name="logging">Καταγραφή HTTP</a> για οδηγίες σχετικά με τη χρήση αυτού του εργαλείου.
+current-log-file = Τρέχον αρχείο καταγραφής:
+current-log-modules = Τρέχοντες μονάδες καταγραφής:
+set-log-file = Ορισμός αρχείου καταγραφής
+set-log-modules = Ορισμός μονάδων καταγραφής
+start-logging = Έναρξη καταγραφής
+stop-logging = Τερματισμός καταγραφής
 dns-lookup = Αναζήτηση DNS
 dns-lookup-button = Επίλυση
 dns-domain = Τομέας:
