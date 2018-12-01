@@ -73,3 +73,7 @@ connection-dns-over-https =
 connection-dns-over-https-url = URL
     .accesskey = U
     .tooltiptext = URL per resòlver DNS amb HTTPS
+connection-dns-over-https-url-custom =
+    .label = Personalizat
+    .accesskey = P
+    .tooltiptext = Picatz vòstra URL preferida per la resolucion de DNS via HTTPS

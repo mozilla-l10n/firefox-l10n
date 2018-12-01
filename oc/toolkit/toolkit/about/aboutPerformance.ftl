@@ -10,6 +10,7 @@ about-performance-title = Gestionari de tascas
 column-name = Nom
 column-type = Tipe
 column-energy-impact = Impacte energetic
+column-memory = Memòria
 
 ## Special values for the Name column
 
@@ -37,6 +38,15 @@ type-other = Autre
 energy-impact-high = Naut ({ $value })
 energy-impact-medium = Mejan ({ $value })
 energy-impact-low = Bas ({ $value })
+
+## Values for the Memory column
+##
+## Variables:
+##   $value (Number) - How much memory is used
+
+size-KB = { $value } Ko
+size-MB = { $value } Mo
+size-GB = { $value } Go
 
 ## Tooltips for the action buttons
 
