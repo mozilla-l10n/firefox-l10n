@@ -23,6 +23,7 @@ tcp = TCP
 sent = Nūsyuteits
 received = Sajimts
 family = Saime
+trr = TRR
 addresses = Adresi
 expires = Nūilgums (sekundes)
 messages-sent = Nūsyuteitī ziņuojumi
