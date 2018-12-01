@@ -8,3 +8,10 @@ page-info-outofdate = יתכן שהגדרות החיפוש שלך אינן עד�
 # Variables:
 #   $searchEngine (String) - Name of the default search engine e.g. Google
 page-info-new-search-engine = פעולה זו תשנה את ברירת המחדל של מנוע החיפוש שלך אל <span data-l10n-name="default-engine">{ $searchEngine }</span>
+page-info-how-to-change = ניתן לשנות את הגדרות אלו בכל עת מ<a data-l10n-name="link">דף ההגדרות</a>.
+no-change-button =
+    .label = לא לשנות
+    .accesskey = ל
+change-engine-button =
+    .label = שינוי מנוע חיפוש
+    .accesskey = ש
