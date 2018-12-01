@@ -31,7 +31,7 @@ messages-received = सन्देश प्राप्त भयो
 bytes-sent = Bytes पठाइयो
 bytes-received = Bytes प्राप्त भयो
 logging = लगिङ
-log-tutorial = साधनहरू कसरी प्रयोग गर्ने भन्ने निर्देशन <a data-l10n-name="logging">HTTP Logging</a> मा हेर्नुहोस्।{ " " }
+log-tutorial = साधनहरू कसरी प्रयोग गर्ने भन्ने निर्देशन <a data-l10n-name="logging">HTTP Logging</a> मा हेर्नुहोस्।
 current-log-file = हालको लगको भागहरू:
 current-log-modules = वर्तमान लग मोड्युलहरू:
 set-log-file = लग फाइल मिलाउनुहोस्
