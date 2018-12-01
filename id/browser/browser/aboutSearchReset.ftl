@@ -4,3 +4,9 @@
 
 tab-title = Kembalikan Pengaturan Pencarian
 page-title = Kembalikan pengaturan pencarian Anda?
+no-change-button =
+    .label = Jangan Ganti
+    .accesskey = D
+change-engine-button =
+    .label = Ganti Mesin Pencari
+    .accesskey = C
