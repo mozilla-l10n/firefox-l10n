@@ -45,6 +45,7 @@ dns-lookup-table-column = IPs
 rcwn = Estatísticas RCWN
 rcwn-status = Status RCWN
 rcwn-cache-won-count = Contagem de cache ganha
+rcwn-net-won-count = Contagem de rede ganha
 total-network-requests = Contagem total de solicitação de rede
 rcwn-operation = Operação de cache
 rcwn-perf-open = Abrir
