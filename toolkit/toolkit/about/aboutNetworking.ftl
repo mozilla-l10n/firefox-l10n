@@ -14,6 +14,7 @@ refresh = Segarkan
 auto-refresh = Segarkan otomatis tiap 3 detik
 hostname = Nama host
 port = Port
+http2 = HTTP/2
 ssl = SSL
 active = Aktif
 idle = Menganggur
