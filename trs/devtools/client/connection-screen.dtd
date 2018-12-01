@@ -14,6 +14,7 @@
 <!ENTITY connecting "Hìaj atuj ma...">
 <!ENTITY availableAddons "Hua nej komplemento:">
 <!ENTITY availableTabs "Hua nej rakïj ñanj:">
+<!ENTITY connectionError "Gire':">
 
 <!-- LOCALIZATION NOTE (remoteHelp, remoteDocumentation, remoteHelpSuffix):
 these strings will be concatenated in a single label, remoteDocumentation will
