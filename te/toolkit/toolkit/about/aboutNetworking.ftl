@@ -4,7 +4,9 @@
 
 title = నెట్వర్కింగ్ గురించి
 warning = ఇది ప్రయోగాత్మకమైంది. పెద్దవారు లేకుండా ఉపయోగించవద్దు.
+show-next-time-checkbox = తరువాతసారి ఈ హెచ్చరికను చూపు
 ok = సరే
+http = HTTP
 sockets = సాకెట్లు
 dns = DNS
 websockets = వెబ్‌సాకెట్లు
@@ -26,3 +28,15 @@ messages-sent = పంపిన సందేశాలు
 messages-received = స్వీకరించిన సందేశాలు
 bytes-sent = పంపిన బైట్లు
 bytes-received = స్వీకరించిన బైట్లు
+logging = నమోదుపరుచు
+current-log-file = ప్రస్తుత లాగ్ ఫైలు:
+current-log-modules = ప్రస్తుత నమోదు మాడ్యూలు:
+set-log-file = లాగ్ ఫైల్ సెట్ చేయి
+set-log-modules = లాగ్ మాడ్యూల్ సెట్ చేయి
+start-logging = లాగింగ్ ప్రారంభించు
+stop-logging = లాగింగ్ ఆపివేయి
+dns-lookup = DNS శోధన
+dns-lookup-button = పరిష్కరించు
+dns-domain = డొమైన్:
+dns-lookup-table-column = IPs
+rcwn-operation = క్యాషేఆపరేషన్
