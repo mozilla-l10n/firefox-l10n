@@ -23,6 +23,7 @@ tcp = TCP
 sent = Жіберілген
 received = Алынған
 family = Отбасы
+trr = TRR
 addresses = Адрестер
 expires = Мерзімі бітеді (секунд)
 messages-sent = Жіберілген хабарламалар
@@ -30,6 +31,7 @@ messages-received = Алынған хабарламалар
 bytes-sent = Жіберілген байттар
 bytes-received = Алынған байттар
 logging = Журналдау
+log-tutorial = Бұл құралды қолдану нұсқаулығын <a data-l10n-name="logging">HTTP Logging</a> адресінен қараңыз.
 current-log-file = Ағымдағы журналдау файлы:
 current-log-modules = Ағымдағы журналдау модульдері:
 set-log-file = Журналдау файлын орнату
