@@ -8,6 +8,7 @@ page-info-outofdate = E teu inpostaçioin de riçerca en vegie. { -brand-short-n
 # Variables:
 #   $searchEngine (String) - Name of the default search engine e.g. Google
 page-info-new-search-engine = Questo o metiâ comme teu motô de riçerca predefinio <span data-l10n-name="default-engine">{ $searchEngine }</span>
+page-info-how-to-change = Ti peu cangiâ ste inpostaçioin quande t'eu da-a <a data-l10n-name="link">Pagina inpostaçioin</a>.
 no-change-button =
     .label = No cangiâ
     .accesskey = N
