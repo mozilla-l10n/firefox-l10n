@@ -23,6 +23,7 @@ tcp = TCP
 sent = அனுப்பப்பட்டது
 received = பெறப்பட்டது
 family = குடும்பம்
+trr = TRR
 addresses = முகவரிகள்
 expires = காலாவதியாவது (வினாடிகள்)
 messages-sent = செய்தி அனுப்பப்பட்டது
