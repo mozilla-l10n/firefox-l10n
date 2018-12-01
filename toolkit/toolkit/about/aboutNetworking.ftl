@@ -23,6 +23,7 @@ tcp = TCP
 sent = Išsiųsta
 received = Gauta
 family = Tipas
+trr = TRR
 addresses = Addresai
 expires = Galiojimo trukmė (sek.)
 messages-sent = Išsiųsta pranešimų
