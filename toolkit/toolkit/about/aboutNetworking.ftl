@@ -23,6 +23,7 @@ tcp = TCP
 sent = Enviado
 received = Recebido
 family = Família
+trr = TRR
 addresses = Endereços
 expires = Expira (segundos)
 messages-sent = Mensagens enviadas
