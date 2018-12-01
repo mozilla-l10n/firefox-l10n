@@ -4,6 +4,7 @@
 
 title = Sobre rede
 ok = OK
+http = HTTP
 sockets = Sockets
 dns = DNS
 websockets = WebSockets
@@ -22,3 +23,7 @@ messages-sent = Mensagens enviadas
 messages-received = Mensagens recebidas
 bytes-sent = Bytes enviados
 bytes-received = Bytes recebidos
+dns-lookup = DNS Lookup
+dns-lookup-button = Resolver
+dns-domain = Domínio:
+dns-lookup-table-column = IPs
