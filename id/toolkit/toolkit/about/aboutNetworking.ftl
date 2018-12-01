@@ -29,6 +29,7 @@ messages-received = Pesan Diterima
 bytes-sent = Byte Dikirim
 bytes-received = Byte Diterima
 logging = Pencatatan
+log-tutorial = Lihat <a data-l10n-name="logging">Pencatatan HTTP</a> untuk instruksi menggunakan alat ini.
 current-log-file = Berkas Log Terkini:
 current-log-modules = Modul Log Terkini:
 set-log-file = Atur Berkas Log
