@@ -29,6 +29,14 @@ messages-sent = Mesazhe të Dërguar
 messages-received = Mesazhe të Marrë
 bytes-sent = Bajte të Dërguar
 bytes-received = Bajte të Marrë
+logging = Regjistrim
+log-tutorial = Për udhëzime se si të përdoret ky mjet, shihni <a data-l10n-name="logging">HTTP Logging</a>.
+current-log-file = Kartela Regjistër e Tanishme:
+current-log-modules = Module të Tanishëm Regjistrimi:
+set-log-file = Caktoni Kartelë Regjistër
+set-log-modules = Caktoni Module Regjistrimi
+start-logging = Filloje Regjistrimin
+stop-logging = Ndal Regjistrimin
 dns-lookup = Kërkim DNS
 dns-lookup-button = Kryeje
 dns-domain = Përkatësi:
