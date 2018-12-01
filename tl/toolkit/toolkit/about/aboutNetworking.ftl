@@ -4,3 +4,4 @@
 
 show-next-time-checkbox = Ipakita ang babalang ito sa susunod
 ok = OK
+http = HTTP
