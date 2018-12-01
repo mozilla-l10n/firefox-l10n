@@ -25,3 +25,14 @@ onboarding-addons-title = Moduls complementaris
 onboarding-ghostery-title = Ghostery
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Sincronizar
+
+## Message strings belonging to the Return to AMO flow
+
+return-to-amo-sub-header = Qué crane, avètz { -brand-short-name }
+# <icon></icon> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-header = Ara anem vos installar <icon></icon><b>{ $addon-name }.</b>
+return-to-amo-extension-button = Apondre l’extension
+return-to-amo-get-started-button = Ben començar amb { -brand-short-name }
