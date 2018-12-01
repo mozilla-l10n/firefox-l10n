@@ -16,6 +16,7 @@ hostname = मेजबाननाम
 port = पोर्ट
 http2 = HTTP/2
 ssl = SSL
+active = सक्रिय
 idle = निष्क्रिय
 host = मेजबान
 tcp = TCP
