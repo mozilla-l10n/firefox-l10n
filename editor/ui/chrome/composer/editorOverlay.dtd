@@ -25,7 +25,7 @@
 <!ENTITY checkSpellingCmd2.key "o">
 
 <!-- Insert menu items -->
-<!ENTITY insertMenu.label "Inserare">
+<!ENTITY insertMenu.label "Inserează">
 <!ENTITY insertMenu.accesskey "I">
 <!ENTITY insertLinkCmd2.label "Link…">
 <!ENTITY insertLinkCmd2.accesskey "L">
