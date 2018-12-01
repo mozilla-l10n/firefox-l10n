@@ -4,6 +4,7 @@
 
 tab-title = Khôi phục cài đặt tìm kiếm
 page-title = Khôi phục cài đặt tìm kiếm của bạn?
+page-info-outofdate = Cài đặt tìm kiếm của bạn có thể đã lỗi thời. { -brand-short-name } có thể giúp bạn khôi phục cài đặt tìm kiếm mặc định.
 # Variables:
 #   $searchEngine (String) - Name of the default search engine e.g. Google
 page-info-new-search-engine = Điều này sẽ thiết lập công cụ tìm kiếm mặc định của bạn thành <span data-l10n-name="default-engine">{ $searchEngine }</span>
