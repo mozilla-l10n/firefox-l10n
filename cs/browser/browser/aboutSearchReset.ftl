@@ -4,11 +4,11 @@
 
 tab-title = Obnovit nastavení vyhledávání
 page-title = Chcete obnovit vaše nastavení vyhledávání?
-page-info-outofdate = Vaše nastavení vyhledávání může být zastaralé. { -brand-short-name } vám může pomoci obnovit výchozí nastavení vyhledávání.
+page-info-outofdate = Vaše nastavení vyhledávání může být zastaralé. { -brand-short-name } vám pomůže obnovit jeho výchozí nastavení.
 # Variables:
 #   $searchEngine (String) - Name of the default search engine e.g. Google
-page-info-new-search-engine = Toto nastaví váš výchozí vyhledávač na <span data-l10n-name="default-engine">{ $searchEngine }</span>
-page-info-how-to-change = Tato nastavení můžete kdykoliv změnit na stránce <a data-l10n-name="link">Nastavení</a>.
+page-info-new-search-engine = Po obnově nastavení bude vaším výchozím vyhledávačem <span data-l10n-name="default-engine">{ $searchEngine }</span>
+page-info-how-to-change = Toto rozhodnutí můžete kdykoliv změnit v <a data-l10n-name="link">Nastavení</a>.
 no-change-button =
     .label = Neměnit
     .accesskey = N
