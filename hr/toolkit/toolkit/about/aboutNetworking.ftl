@@ -43,3 +43,4 @@ dns-domain = Domena:
 dns-lookup-table-column = IP adrese
 rcwn = RCWN statistika
 rcwn-status = RCWN status
+rcwn-perf-open = Otvori
