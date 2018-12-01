@@ -22,3 +22,5 @@ addresses = Adresy
 expires = Vyprší (sekundy)
 messages-sent = Odesláno zpráv
 messages-received = Přijato zpráv
+bytes-sent = Odesláno bajtů
+bytes-received = Obdrženo bajtů
