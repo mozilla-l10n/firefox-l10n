@@ -41,3 +41,5 @@ dns-lookup = Recherche DNS
 dns-lookup-button = Résolution
 dns-domain = Domaine:
 dns-lookup-table-column = Adresses IP
+rcwn = Statistiques RCWN
+rcwn-status = État RCWN
