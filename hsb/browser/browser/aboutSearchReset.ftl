@@ -7,8 +7,8 @@ page-title = Waše pytanske nastajenja wobnowić?
 page-info-outofdate = Waše pytanske nastajenja su snano zestarjene. { -brand-short-name } móže wam pomhać, standardne pytanske nastajenja wobnowić.
 # Variables:
 #   $searchEngine (String) - Name of the default search engine e.g. Google
-page-info-new-search-engine = To staji wašu standardnu pytawu na <span data-l10n-name="default-engine">{ $searchEngine }</span>
-page-info-how-to-change = Móžeće tute nastajenja kóždy čas změnić wot <a data-l10n-name="link">Strona nastajenjow</a>.
+page-info-new-search-engine = To wašu standardnu pytawu na <span data-l10n-name="default-engine">{ $searchEngine }</span> staji.
+page-info-how-to-change = Móžeće tute nastajenja kóždy raz ze <a data-l10n-name="link">strony nastajenjow</a> změnić.
 no-change-button =
     .label = Njezměnić
     .accesskey = N
