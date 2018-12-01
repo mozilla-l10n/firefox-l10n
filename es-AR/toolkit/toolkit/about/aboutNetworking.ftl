@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title = Acerca de redes
+warning = Esto es muuuuuuuy experimental. No usar sin supervisión de un adulto.
 show-next-time-checkbox = Mostrar esta advertencia la próxima vez
 ok = Aceptar
 http = HTTP
