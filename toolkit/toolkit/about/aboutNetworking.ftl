@@ -28,6 +28,14 @@ messages-sent = Поруке послате
 messages-received = Поруке примљене
 bytes-sent = Бајтова послато
 bytes-received = Бајтова примљено
+logging = Бележење
+log-tutorial = Погледајте <a data-l10n-name="logging">HTTP бележење</a> за инструкције о коришћењу овог алата.
+current-log-file = Тренутна датотека за бележење:
+current-log-modules = Тренутни модули за бележење:
+set-log-file = Подеси датотеку за бележење
+set-log-modules = Подеси модуле за бележење
+start-logging = Покрени бележење
+stop-logging = Заустави бележење
 dns-lookup = DNS Lookup
 dns-lookup-button = Решити
 dns-domain = Домен:
