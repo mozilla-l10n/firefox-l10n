@@ -28,6 +28,14 @@ messages-sent = Meldinger sendt
 messages-received = Meldinger mottatt
 bytes-sent = Bytes sendt
 bytes-received = Bytes mottatt
+logging = Logging
+log-tutorial = See <a data-l10n-name="logging">HTTP Logging</a> for instructions on how to use this tool.
+current-log-file = Current Log File:
+current-log-modules = Gjeldende loggmoduler:
+set-log-file = Velg loggfil
+set-log-modules = Velg loggmoduler
+start-logging = Start loggføring
+stop-logging = Stopp loggføring
 dns-lookup = DNS-oppslag
 dns-lookup-button = Slå opp
 dns-domain = Domene:
