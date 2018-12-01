@@ -23,6 +23,7 @@ tcp = TCP
 sent = Надіслано
 received = Отримано
 family = Сімейство
+trr = TRR
 addresses = Адреси
 expires = Дійсний до (секунди)
 messages-sent = Повідомлень надіслано
