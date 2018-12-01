@@ -306,6 +306,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "浏览器正被远程控制">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "打开 Web 认证面板">
 
+<!ENTITY urlbar.storageAccessAnchor.tooltip               "打开浏览活动权限面板">
+
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "管理您是否与该网站共享摄像头和麦克风">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "管理您是否与该网站共享麦克风">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "管理您是否与该网站共享窗口或屏幕">

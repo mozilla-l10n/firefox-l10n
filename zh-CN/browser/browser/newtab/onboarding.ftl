@@ -31,4 +31,11 @@ onboarding-fxa-text = 注册 { -fxaccount-brand-name } 之后，您可在任何�
 
 ## Message strings belonging to the Return to AMO flow
 
+return-to-amo-sub-header = 太棒了，您已成功安装 { -brand-short-name }
+# <icon></icon> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-header = 现在来安装 <icon></icon><b>{ $addon-name } 吧。</b>
 return-to-amo-extension-button = 添加扩展
+return-to-amo-get-started-button = { -brand-short-name } 使用入门
