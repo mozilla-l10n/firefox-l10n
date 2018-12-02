@@ -169,6 +169,9 @@ startup-restore-previous-session =
     .label = Vorige sessie herstellen
     .accesskey = s
 
+startup-restore-warn-on-quit =
+    .label = Waarschuwen bij het afsluiten van de browser
+
 disable-extension =
     .label = Extensie uitschakelen
 
@@ -1074,6 +1077,10 @@ collection-health-report-link = Meer info
 collection-studies =
     .label = { -brand-short-name } toestaan om onderzoeken te installeren en uit te voeren
 collection-studies-link = { -brand-short-name }-onderzoeken weergeven
+
+addon-recommendations =
+    .label = { -brand-short-name } toestaan om gepersonaliseerde extensieaanbevelingen te doen
+addon-recommendations-link = Meer info
 
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
