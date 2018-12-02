@@ -59,3 +59,6 @@ policy-InstallAddonsPermission = নির্দিষ্ট কিছু ওয
 policy-PopupBlocking = নির্দিষ্ট ওয়েবসাইটের ক্ষেত্রে ডিফল্টরূপে পপআপ প্রদর্শন করার অনুমতি দিন।
 policy-Proxy = পক্সি সেটিং ঠিক করুন
 policy-SanitizeOnShutdown = বন্ধ করার ক্ষেত্রে সকল নেভিগেশন ডাটা মুছে ফেলুন।
+policy-SearchBar = অনুসন্ধান বারের ডিফল্ট অবস্থান সেট করুন। ব্যবহারকারী এখনও এটি কাস্টমাইজ করতে পারবেন।
+# “format” refers to the format used for the value of this policy.
+policy-WebsiteFilter = ওয়েবসাইট পরিদর্শন ব্লক করুন। ফরমেট সম্পর্কে বিস্তারিত জানতে ডকুমেন্টেশন দেখুন।
