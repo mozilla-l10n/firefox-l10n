@@ -10,6 +10,7 @@ about-performance-title = Zastojnik nadawkow
 column-name = Mě
 column-type = Typ
 column-energy-impact = Energijowa śěža
+column-memory = Skład
 
 ## Special values for the Name column
 
@@ -37,6 +38,15 @@ type-other = Druge
 energy-impact-high = Wusoki ({ $value })
 energy-impact-medium = Srjejźny ({ $value })
 energy-impact-low = Niski ({ $value })
+
+## Values for the Memory column
+##
+## Variables:
+##   $value (Number) - How much memory is used
+
+size-KB = { $value } KB
+size-MB = { $value } MB
+size-GB = { $value } GB
 
 ## Tooltips for the action buttons
 
