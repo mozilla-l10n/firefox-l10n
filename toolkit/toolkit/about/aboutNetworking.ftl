@@ -4,14 +4,14 @@
 
 title = Despre rețea
 warning = Această funcție este foarte experimentală. Nu folosi fără supravegherea unui specialist.
-show-next-time-checkbox = Afișează acest avertisment data viitoare
+show-next-time-checkbox = Afișează această avertizare data viitoare
 ok = Ok
 http = HTTP
 sockets = Socketuri
 dns = DNS
 websockets = WebSockets
 refresh = Reîmprospătează
-auto-refresh = Reîmprospătare automată la fiecare 3 secunde
+auto-refresh = Reîmprospătează automat la fiecare 3 secunde
 hostname = Numele gazdei
 port = Port
 http2 = HTTP/2
@@ -25,7 +25,7 @@ received = Primite
 family = Familie
 trr = TRR
 addresses = Adrese
-expires = Expirate (secunde)
+expires = Expiră (secunde)
 messages-sent = Mesaje trimise
 messages-received = Mesaje primite
 bytes-sent = Byți trimiși

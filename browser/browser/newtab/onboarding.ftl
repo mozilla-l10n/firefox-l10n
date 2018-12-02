@@ -28,3 +28,8 @@ onboarding-ghostery-text = Navighează mai rapid, mai inteligent sau mai sigur c
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Sincronizare
 onboarding-fxa-text = Înregistrează-te pentru un { -fxaccount-brand-name } și sincronizează-ți marcajele, parolele și filele deschise oriunde folosești { -brand-short-name }.
+
+## Message strings belonging to the Return to AMO flow
+
+return-to-amo-extension-button = Adaugă extensia
+return-to-amo-get-started-button = Începe cu { -brand-short-name }

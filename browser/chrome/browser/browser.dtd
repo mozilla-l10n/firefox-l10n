@@ -306,6 +306,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Browserul este controlat de la distanță">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Deschide panoul de autentificare web">
 
+<!ENTITY urlbar.storageAccessAnchor.tooltip               "Deschide panoul de permisiuni pentru activitatea de navigare">
+
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Gestionează partajarea camerei și/sau a microfonului cu acest site">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Gestionează partajarea microfonului cu site-ul">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Gestionează partajarea ferestrelor sau a ecranului cu site-ul">
