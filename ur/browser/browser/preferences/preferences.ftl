@@ -578,6 +578,17 @@ content-blocking-tracking-protection-option-always =
 content-blocking-tracking-protection-option-private =
     .label = صرف نجی ونڈوں میں
     .accesskey = p
+# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+content-blocking-setting-standard =
+    .label = معیاری
+    .accesskey = d
+content-blocking-setting-strict =
+    .label = سخت
+    .accesskey = r
+content-blocking-setting-custom =
+    .label = مخصوص
+    .accesskey = C
 content-blocking-third-party-cookies-label =
     .label = تیسری تنظیم کے کوکیز
     .accesskey = C
