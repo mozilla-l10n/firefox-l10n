@@ -31,4 +31,11 @@ onboarding-fxa-text = Yer imlerinizi, parolalarınızı ve açık sekmelerinizi 
 
 ## Message strings belonging to the Return to AMO flow
 
+return-to-amo-sub-header = Harika! { -brand-short-name } yüklendi
+# <icon></icon> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-header = Şimdi <icon></icon><b>{ $addon-name }</b> eklentisine bir bakalım.
 return-to-amo-extension-button = Eklentiyi ekle
+return-to-amo-get-started-button = { -brand-short-name } tarayıcısını kullanmaya başla
