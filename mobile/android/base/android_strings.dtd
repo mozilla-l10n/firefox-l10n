@@ -207,7 +207,7 @@
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
 <!ENTITY pref_category_advanced_summary3 "Återställ flikar, insticksmoduler, utvecklarverktyg">
-<!ENTITY pref_category_notifications "Notifieringar">
+<!ENTITY pref_category_notifications "Aviseringar">
 <!ENTITY pref_category_notifications_summary2 "Nya funktioner, produkttips">
 <!ENTITY pref_developer_remotedebugging_usb "Fjärrfelsökning via USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Fjärrfelsökning via Wi-Fi">
@@ -248,7 +248,7 @@
 <!ENTITY pref_header_search "Sök">
 <!ENTITY pref_header_privacy_short "Integritet">
 <!ENTITY pref_header_accessibility "Tillgänglighet">
-<!ENTITY pref_header_notifications "Notifieringar">
+<!ENTITY pref_header_notifications "Aviseringar">
 <!ENTITY pref_header_advanced "Avancerat">
 <!ENTITY pref_header_help "Hjälp">
 <!ENTITY pref_header_vendor "&vendorShortName;">
