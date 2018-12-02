@@ -42,7 +42,7 @@ category-general =
 pane-home-title = મુખ્ય
 category-home =
     .tooltiptext = { pane-home-title }
-pane-search-title = શોધો
+pane-search-title = શોધ
 category-search =
     .tooltiptext = { pane-search-title }
 pane-privacy-title = ગોપનીયતા & સુરક્ષા
@@ -440,7 +440,7 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
-sync-signedout-caption = તમે તમારા વેબ ને લો
+sync-signedout-caption = તમારું વેબ તમારી સાથે રાખો
 sync-signedout-description = તમારા બધા ઉપકરણો પર તમારા બુકમાર્ક્સ, ઇતિહાસ, ટૅબ્સ, પાસવર્ડ્સ, ઍડ-ઑન્સ અને પસંદગીઓને સમન્વયિત કરો.
 sync-signedout-account-title = { -fxaccount-brand-name } સાથે જોડાણ કરો
 sync-signedout-account-create = શું કોઈ ખાતું નથી? શરૂ કરો
