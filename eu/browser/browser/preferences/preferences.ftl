@@ -706,6 +706,9 @@ content-blocking-reject-trackers-block-trackers-option =
 content-blocking-reject-trackers-all-third-parties-option =
     .label = Hirugarrenen cookie guztiak (webguneak apur litzake)
     .accesskey = H
+content-blocking-cookies-label =
+    .label = Cookieak
+    .accesskey = C
 
 ## Privacy Section - Tracking
 
@@ -727,6 +730,9 @@ tracking-exceptions =
 tracking-change-block-list =
     .label = Aldatu blokeo-zerrenda…
     .accesskey = A
+tracking-manage-exceptions =
+    .label = Kudeatu salbuespenak…
+    .accesskey = s
 
 ## Privacy Section - Permissions
 
