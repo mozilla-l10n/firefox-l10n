@@ -20,7 +20,7 @@
 <!ENTITY openHelp.label "Manual de utilizare">
 <!ENTITY openHelp.accesskey "M">
 <!ENTITY openHelp.commandkey "VK_F1">
-<!ENTITY openHelpMac2.label "&brandFullName; Ajutor">
+<!ENTITY openHelpMac2.label "Ajutor &brandFullName;">
 <!ENTITY openHelpMac2.commandkey   "?">
 <!ENTITY openHelpMac2.modifiers    "accel">
 
