@@ -88,3 +88,5 @@
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> સુરક્ષા ટેકનોલોજીનો ઉપયોગ કરે છે જે હુમલો કરવા માટે જૂની અને સંવેદનશીલ છે. કોઈ હુમલાખોર સરળતાથી એવી માહિતી ઉઘાડી શકે છે જે તમે સુરક્ષિત હોવાનું માનતા હતા. વેબસાઇટ સંચાલકને તમારે સાઇટની મુલાકાત લઈને પહેલાં સર્વરને ઠીક કરવાની જરૂર પડશે. </p><p>ભૂલ કોડ: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "અવરોધિત પૃષ્ઠ">
+
+<!ENTITY networkProtocolError.title "નેટવર્ક પ્રોટોકોલની ભૂલો">
