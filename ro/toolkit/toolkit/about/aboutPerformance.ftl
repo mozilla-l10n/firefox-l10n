@@ -46,6 +46,7 @@ energy-impact-low = Scăzut ({ $value })
 
 size-KB = { $value } KB
 size-MB = { $value } MB
+size-GB = { $value } GB
 
 ## Tooltips for the action buttons
 
