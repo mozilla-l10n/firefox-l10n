@@ -10,6 +10,7 @@ about-performance-title = Kinuk'samajel taq Samaj
 column-name = B'i'aj
 column-type = Ruwäch
 column-energy-impact = Uchuq'anel Q'ilonel
+column-memory = Rupam rujolom
 
 ## Special values for the Name column
 
@@ -37,6 +38,15 @@ type-other = Juley chik
 energy-impact-high = Chawon ({ $value })
 energy-impact-medium = Loman ({ $value })
 energy-impact-low = Ko'öl ({ $value })
+
+## Values for the Memory column
+##
+## Variables:
+##   $value (Number) - How much memory is used
+
+size-KB = { $value } KB
+size-MB = { $value } MB
+size-GB = { $value } GB
 
 ## Tooltips for the action buttons
 
