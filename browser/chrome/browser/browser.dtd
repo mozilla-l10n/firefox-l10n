@@ -306,6 +306,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "A böngészőt távolról irányítják">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Webes hitelesítési panel megnyitása">
 
+<!ENTITY urlbar.storageAccessAnchor.tooltip               "Böngészési tevékenység engedélyezési panel megnyitása">
+
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "A kamera és/vagy mikrofon az oldallal megosztásának kezelése">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "A mikrofon az oldallal megosztásának kezelése">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Az ablakok vagy képernyő az oldallal megosztásának kezelése">
