@@ -171,3 +171,4 @@ was trying to connect. -->
 <!ENTITY prefReset.label "મૂળભુત સેટિંગ પાછા લાવો">
 
 <!ENTITY networkProtocolError.title "નેટવર્ક પ્રોટોકોલ ભૂલ">
+<!ENTITY networkProtocolError.longDesc "<p>તમે જે પૃષ્ઠ જોવાનો પ્રયાસ કરી રહ્યા છો તે બતાવી શકાતી નથી, કારણ કે નેટવર્ક પ્રોટોકોલ મા ભૂલ મળી હતી.</p><ul><li>આ સમસ્યા જાણ કરવા વેબસાઇટ માલિકોનો  સંપર્ક કરો.</li></ul>">
