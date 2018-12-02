@@ -106,6 +106,9 @@ was trying to connect. -->
 
 <!ENTITY certerror.sts.introPara "&brandShortName; સંભવિત સુરક્ષા જોખમને શોધી કાઢ્યું છે અને ચાલુ રાખ્યું નથી <span class='hostname'/> કારણ કે આ વેબસાઇટને સુરક્ષિત કનેક્શનની જરૂર છે.">
 
+<!ENTITY certerror.expiredCert.introPara "&brandShortName; ને કોઈ સમસ્યા મળી છે એટલે <span class='hostname'/>. ને ચાલુ રાખ્યું નથી. વેબસાઇટ કાં તો ખોટી રીતે ગોઠવેલી છે અથવા તમારું કમ્પ્યુટરનું ઘડિયાળ ખોટા સમયે સેટ કરેલું છે.">
+<!ENTITY certerror.expiredCert.secondPara2 "સંભવિત છે કે વેબસાઇટનું પ્રમાણપત્ર સમાપ્ત થઈ ગયું છે, જે &brandShortName; સુરક્ષિત રીતે કનેક્ટ થવાથી અટકાવે છે. જો તમે આ સાઇટની મુલાકાત લો છો, તો હુમલાખોર તમારા પાસવર્ડ્સ, ઇમેઇલ્સ અથવા ક્રેડિટ કાર્ડની વિગતો જેવી માહિતી ચોરી કરવાનો પ્રયાસ કરી શકે છે.">
+<!ENTITY certerror.expiredCert.sts.secondPara "સંભવિત છે કે વેબસાઇટનું પ્રમાણપત્ર સમાપ્ત થઈ ગયું છે, જે &brandShortName; સુરક્ષિત રીતે કનેક્ટ થવાથી અટકાવે છે.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "તમે તેના વિશે શું કરી શકો?">
 
