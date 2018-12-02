@@ -264,7 +264,7 @@
 <!ENTITY viewFeedSummaryFeedPropsPref.label "Format implicit">
 <!ENTITY viewFeedSummaryFeedPropsPref.accesskey "F">
 
-<!ENTITY viewAttachmentsInlineCmd.label "Afișează atașamentele în interiorul mesajului">
+<!ENTITY viewAttachmentsInlineCmd.label "Afișează atașamentele în mesaj">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "a">
 
 <!ENTITY pageSourceCmd.label "Sursă mesaj">
@@ -363,7 +363,7 @@
 <!ENTITY forwardMsgCmd.key "L">
 <!ENTITY forwardAsMenu.label "Redirecționează ca">
 <!ENTITY forwardAsMenu.accesskey "c">
-<!ENTITY forwardAsInline.label "Mesaj inclus">
+<!ENTITY forwardAsInline.label "Inclus">
 <!ENTITY forwardAsInline.accesskey "i">
 <!ENTITY forwardAsAttachmentCmd.label "Atașament">
 <!ENTITY forwardAsAttachmentCmd.accesskey "A">
@@ -585,7 +585,7 @@
 <!ENTITY replyAllButton.tooltip "Răspunde expeditorului și tuturor destinatarilor">
 <!ENTITY replyListButton.tooltip "Răspunde listei de discuții">
 <!ENTITY forwardButton.tooltip "Redirecționează mesajul selectat">
-<!ENTITY forwardAsInline.tooltip "Redirecționează ca text intercalat mesajul selectat">
+<!ENTITY forwardAsInline.tooltip "Redirecționează mesajul selectat ca text inclus">
 <!ENTITY forwardAsAttachment.tooltip "Redirecționează ca un atașament mesajul selectat">
 <!ENTITY fileButton.tooltip "Îndosariază mesajul selectat">
 <!ENTITY archiveButton.tooltip "Arhivează mesajele selectate">
@@ -610,7 +610,7 @@
 <!ENTITY appmenuButton1.tooltip "Afișare meniu &brandShortName;">
 
 <!-- Toolbar Button Popup -->
-<!ENTITY buttonMenuForwardAsInline.label "Redirecționează intercalat">
+<!ENTITY buttonMenuForwardAsInline.label "Redirecționează ca text inclus">
 <!ENTITY buttonMenuForwardAsAttachment.label "Redirecționează ca atașament">
 
 <!-- Remote Content Button Popup -->
@@ -785,7 +785,7 @@
 <!ENTITY contextForward.accesskey "a">
 <!ENTITY contextForwardAsMenu.label "Înaintează ca">
 <!ENTITY contextForwardAsMenu.accesskey "n">
-<!ENTITY contextForwardAsInline.label "Mesaj inclus">
+<!ENTITY contextForwardAsInline.label "Inclus">
 <!ENTITY contextForwardAsInline.accesskey "i">
 <!ENTITY contextForwardAsAttachmentItem.label "Atașament">
 <!ENTITY contextForwardAsAttachmentItem.accesskey "A">
