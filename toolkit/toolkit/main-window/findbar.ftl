@@ -15,6 +15,14 @@ findbar-highlight-all =
     .label = બધુ પ્રકાશિત કરો
     .accesskey = l
     .tooltiptext = મહાવરાના બધા વારાઓ પ્રકાશિત કરો
+findbar-highlight-all2 =
+    .label = બધા પ્રકાશિત કરો
+    .accesskey =
+        { PLATFORM() ->
+            [macos] I
+           *[other] a
+        }
+    .tooltiptext = શબ્દસમૂહની બધી ઘટનાઓ પ્રકાશિત કરો
 findbar-case-sensitive =
     .label = કેસ સરખાવો
     .accesskey = c
