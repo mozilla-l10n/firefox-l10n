@@ -53,7 +53,7 @@ pane-sync-title = Firefox kontua
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = { -brand-short-name } laguntza
-addons-button-label = Hedapenak eta gaiak
+addons-button-label = Hedapenak eta itxurak
 focus-search =
     .key = f
 close-button =
@@ -324,6 +324,7 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Bilatu testua idazten hasi bezain laster
     .accesskey = B
+browsing-cfr-recommendations-learn-more = Argibide gehiago
 
 ## General Section - Proxy
 
@@ -631,6 +632,9 @@ sitedata-cookies-exceptions =
 # in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
 # Cookies and Site Data section.
 sitedata-warning-your-settings-prevent-changes = Edukia blokeatzeko zure ezarpenek eragotzi egiten dute cookie eta guneetako datuen ezarpenak aldatzea.
+sitedata-cookies-permissions =
+    .label = Kudeatu baimenak
+    .accesskey = b
 
 ## Privacy Section - Address Bar
 
@@ -684,6 +688,18 @@ content-blocking-tracking-protection-option-always =
 content-blocking-tracking-protection-option-private =
     .label = Leiho pribatuetan soilik
     .accesskey = h
+# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+content-blocking-setting-standard =
+    .label = Oinarrizkoa
+    .accesskey = O
+content-blocking-setting-strict =
+    .label = Zorrotza
+    .accesskey = r
+content-blocking-setting-custom =
+    .label = Pertsonalizatua
+    .accesskey = s
+content-blocking-custom-desc = Aukeratu zer blokeatu.
 content-blocking-tracking-protection-change-block-list = Aldatu blokeo-zerrenda
 content-blocking-third-party-cookies-label =
     .label = Hirugarrenen cookieak
