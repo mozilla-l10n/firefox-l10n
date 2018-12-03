@@ -167,7 +167,7 @@ delete-user-cert-impact = Dacă ștergi unul dintre certificatele proprii, nu-l 
 delete-ssl-cert-title =
     .title = Șterge excepțiile pentru certificatele serverelor
 delete-ssl-cert-confirm = Sigur vrei să ștergi aceste excepții ale serverelor?
-delete-ssl-cert-impact = Dacă ștergeți un certificat de server, restabiliți verificările de securitate obișnuite pentru acel server și necesită folosirea unui certificat valid.
+delete-ssl-cert-impact = Dacă ștergi o excepție de server, restaurezi controalele uzuale de securitate pentru acel server și îi impui să folosească un certificat valid.
 delete-ca-cert-title =
     .title = Șterge sau anulează încrederea certificatelor AC
 delete-ca-cert-confirm = Ai cerut ștergerea acestor certificate AC. Pentru certificatele incluse, toate încrederile acordate vor fi eliminate, lucru ce are același efect. Sigur vrei să ștergi sau să elimini încrederea?
@@ -175,7 +175,7 @@ delete-ca-cert-impact = Dacă ștergi sau anulezi încrederea în certificatul a
 delete-email-cert-title =
     .title = Șterge certificatele de e-mail
 delete-email-cert-confirm = Sigur vrei să ștergi certificatele de e-mail ale acestor persoane?
-delete-email-cert-impact = Dacă ștergeți un certificat de e-mail, nu veți mai putea trimite e-mailuri criptate acelor persoane.
+delete-email-cert-impact = Dacă ștergi un certificat de e-mail al unei persoane, nu vei mai putea să îi trimiți mesaje de e-mail criptate.
 # Used for semi-uniquely representing a cert.
 #
 # Variables:
