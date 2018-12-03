@@ -28,3 +28,14 @@ onboarding-ghostery-text = მოიძიეთ უფრო სწრაფა
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = სინქრონიზაცია
 onboarding-fxa-text = შექმენით { -fxaccount-brand-name } და დაასინქრონეთ თქვენი სანიშნები, პაროლები და გახსნილი ჩანართები ყველგან, სადაც გამოიყენებთ { -brand-short-name }-ს.
+
+## Message strings belonging to the Return to AMO flow
+
+return-to-amo-sub-header = მშვენიერია, თქვენ უკვე გაქვთ { -brand-short-name }
+# <icon></icon> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-header = ახლა, მოდით დავამატოთ <icon></icon><b>{ $addon-name }</b>
+return-to-amo-extension-button = გაფართოების დამატება
+return-to-amo-get-started-button = შეგიძლიათ გამოიყენოთ { -brand-short-name }
