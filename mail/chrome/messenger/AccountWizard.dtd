@@ -65,7 +65,7 @@
 <!ENTITY incomingUsername.accesskey "u">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
 <!ENTITY newsServerNameDesc.label "Introdu denumirea serverului de știri (NNTP) (de exemplu, „news.example.net”).">
-<!ENTITY newsServerLabel.label "Server grup de discuții/știri:">
+<!ENTITY newsServerLabel.label "Server grup de discuții:">
 <!ENTITY newsServerLabel.accesskey "S">
 
 <!-- Entities for Outgoing Server page -->
