@@ -8,10 +8,10 @@ page-info-outofdate = A keresési beállítások elavultak lehetnek. A { -brand-
 # Variables:
 #   $searchEngine (String) - Name of the default search engine e.g. Google
 page-info-new-search-engine = Ez beállítja az alapértelmezett keresőszolgáltatást erre: <span data-l10n-name="default-engine">{ $searchEngine }</span>
-page-info-how-to-change = Ezek a beállítások bármikor módosíthatók a <a data-l10n-name="link">Beállítások oldalról</a>.
+page-info-how-to-change = Ezeket a beállításokat bármikor megváltoztathatja a <a data-l10n-name="link">Beállítások lapon</a>.
 no-change-button =
     .label = Nincs változtatás
     .accesskey = N
 change-engine-button =
     .label = Keresőszolgáltatás módosítása
-    .accesskey = K
+    .accesskey = m
