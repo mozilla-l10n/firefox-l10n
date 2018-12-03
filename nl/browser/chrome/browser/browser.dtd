@@ -306,7 +306,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Browser wordt op afstand bestuurd">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Paneel Webauthenticatie openen">
 
-<!ENTITY urlbar.storageAccessAnchor.tooltip               "Toestemmingenpaneel voor surfactiviteit openen">
+<!ENTITY urlbar.storageAccessAnchor.tooltip               "Toestemmingspaneel voor surfactiviteit openen">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Delen van uw camera en/of microfoon met de website beheren">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Delen van uw microfoon met de website beheren">
@@ -1021,12 +1021,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackingProtection2.label "Alle gedetecteerde trackers">
 
 <!ENTITY contentBlocking.trackingProtection3.label "Trackers">
-<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.allowed.label):
-     This label signals that this type of content blocking is turned
-     OFF and is not blocking tracker content, so this is not
-     a positive thing. It forms the end of the (imaginary) sentence
-     "Trackers [are] Allowed"-->
-<!ENTITY contentBlocking.trackingProtection.allowed.label "Toegestaan">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking tracker content, so this is
@@ -1068,6 +1062,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.trackersView.label "Trackers">
 <!ENTITY contentBlocking.trackersView.strictInfo.label "Stel inhoudsblokkering in op ‘Streng’ om alle trackers te blokkeren.">
+
+<!ENTITY contentBlocking.cookies.label "Cookies">
+<!ENTITY contentBlocking.cookiesView.label "Cookies en websitegegevens">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Een probleem rapporteren">
 <!ENTITY contentBlocking.breakageReportView.label "Problemen rapporteren">
