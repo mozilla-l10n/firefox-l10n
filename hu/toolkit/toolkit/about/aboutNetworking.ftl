@@ -3,11 +3,11 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title = Hálózatkezelés névjegye
-warning = Ez nagyon kísérleti. Ne használja szülői felügyelet nélkül!
+warning = Ez nagyon kísérleti. Ne használja szülői felügyelet nélkül.
 show-next-time-checkbox = A figyelmeztetés megjelenítése legközelebb
 ok = OK
 http = HTTP
-sockets = Socketek
+sockets = Foglalatok
 dns = DNS
 websockets = WebSocketek
 refresh = Frissítés
@@ -20,18 +20,20 @@ active = Aktív
 idle = Tétlen
 host = Gép
 tcp = TCP
-sent = Elküldött elemek
-received = Beérkezés
+sent = Elküldve
+received = Fogadva
 family = Család
 trr = TRR
 addresses = Címek
-expires = Lejár (másodperc)
+expires = Lejárat (másodperc)
 messages-sent = Küldött üzenetek
-messages-received = Kapott üzenetek
+messages-received = Fogadott üzenetek
 bytes-sent = Küldött bájtok
-bytes-received = Kapott bájtok
+bytes-received = Fogadott bájtok
 logging = Naplózás
-log-tutorial = Lásd a <a data-l10n-name="logging">HTTP naplózás</a> lapot az eszköz használati utasításaiért.
+log-tutorial =
+    Az eszköz használatáról lásd a
+    <a data-l10n-name="logging">HTTP Logging</a> leírást.
 current-log-file = Jelenlegi naplófájl:
 current-log-modules = Jelenlegi naplómodulok:
 set-log-file = Naplófájl beállítása
