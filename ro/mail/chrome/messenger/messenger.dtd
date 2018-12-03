@@ -350,7 +350,7 @@
 <!ENTITY replyMsgCmd.key "R">
 <!ENTITY replySenderCmd.label "Răspunde doar expeditorului">
 <!ENTITY replySenderCmd.accesskey "R">
-<!ENTITY replyNewsgroupCmd2.label "Răspunzi la grupul de discuții">
+<!ENTITY replyNewsgroupCmd2.label "Răspunde grupului de discuții">
 <!ENTITY replyNewsgroupCmd2.accesskey "g">
 <!ENTITY replyToAllMsgCmd.label "Răspunde tuturor">
 <!ENTITY replyToAllMsgCmd.accesskey "p">
@@ -463,7 +463,7 @@
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Unelte">
 <!ENTITY tasksMenu.accesskey "t">
-<!ENTITY messengerCmd.label "Corespondență și grupuri de discuții">
+<!ENTITY messengerCmd.label "E-mail și Grupuri de discuții">
 <!ENTITY messengerCmd.accesskey "n">
 <!ENTITY addressBookCmd.label "Agendă de contacte">
 <!ENTITY addressBookCmd.accesskey "A">
@@ -676,7 +676,7 @@
 <!ENTITY folderContextSendUnsentMessages.accesskey "T">
 <!ENTITY folderContextUnsubscribe.label "Dezabonează-mă">
 <!ENTITY folderContextUnsubscribe.accesskey "z">
-<!ENTITY folderContextMarkNewsgroupRead.label "Marchează grupul ca citit">
+<!ENTITY folderContextMarkNewsgroupRead.label "Marchează grupul de discuții ca citit">
 <!ENTITY folderContextMarkNewsgroupRead.accesskey "h">
 <!ENTITY folderContextMarkMailFolderRead.label "Marchează dosarul ca citit">
 <!ENTITY folderContextMarkMailFolderRead.accesskey "z">
@@ -775,7 +775,7 @@
 <!ENTITY contextArchive.accesskey "h">
 <!ENTITY contextReplySender.label "Răspunde doar expeditorului">
 <!ENTITY contextReplySender.accesskey "R">
-<!ENTITY contextReplyNewsgroup2.label "Răspunzi la grupul de discuții">
+<!ENTITY contextReplyNewsgroup2.label "Răspunde grupului de discuții">
 <!ENTITY contextReplyNewsgroup2.accesskey "g">
 <!ENTITY contextReplyAll.label "Răspunde tuturor">
 <!ENTITY contextReplyAll.accesskey "s">
@@ -909,7 +909,7 @@
 <!ENTITY EditContact1.accesskey "E">
 <!ENTITY ViewContact.label "Vizualizare contact">
 <!ENTITY ViewContact.accesskey "V">
-<!ENTITY SubscribeToNewsgroup.label "Abonare la grupul de discuții">
+<!ENTITY SubscribeToNewsgroup.label "Abonează-mă la grupul de discuții">
 <!ENTITY SubscribeToNewsgroup.accesskey "n">
 <!ENTITY SendMessageTo.label "Compune un mesaj către">
 <!ENTITY SendMessageTo.accesskey "s">

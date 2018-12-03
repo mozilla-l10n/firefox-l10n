@@ -6,7 +6,7 @@
 
 <!ENTITY MsgSynchronize.label "Descărcarea și sincronizarea de mesaje">
 <!ENTITY MsgSelect.label "Elemente pentru utilizarea offline">
-<!ENTITY MsgSyncDesc.label "Dacă ai selectat deja dosare de e-mail sau grupuri de discuții pentru utilizare offline, le poți descărca și/sau sincroniza acum. Altfel, folosește butonul „Selectează” pentru a alege dosare de e-mail și grupuri de discuții pentru utilizare offline.">
+<!ENTITY MsgSyncDesc.label "Dacă ai selectat deja dosare de e-mail sau grupuri de discuții pentru utilizare offline, le poți descărca și/sau sincroniza acum. Altminteri, folosește butonul „Selectează” pentru a alege dosare de e-mail și grupuri de discuții pentru utilizare offline.">
 <!ENTITY MsgSyncDirections.label "Descarcă și sincronizează:">
 <!ENTITY syncTypeMail.label "Mesajele e-mail">
 <!ENTITY syncTypeMail.accesskey "M">
