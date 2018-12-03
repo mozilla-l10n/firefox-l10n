@@ -10,6 +10,7 @@ about-performance-title = Gestor de activitate
 column-name = Nomine
 column-type = Typo
 column-energy-impact = Impacto de energia
+column-memory = Memoria
 
 ## Special values for the Name column
 
@@ -37,6 +38,15 @@ type-other = Altere
 energy-impact-high = Alte ({ $value })
 energy-impact-medium = Medie ({ $value })
 energy-impact-low = Basse ({ $value })
+
+## Values for the Memory column
+##
+## Variables:
+##   $value (Number) - How much memory is used
+
+size-KB = { $value } KB
+size-MB = { $value } MB
+size-GB = { $value } GB
 
 ## Tooltips for the action buttons
 
