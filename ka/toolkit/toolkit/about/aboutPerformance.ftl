@@ -10,6 +10,7 @@ about-performance-title = ამოცანათა მმართველ�
 column-name = დასახელება
 column-type = სახეობა
 column-energy-impact = ენერგიის მოხმარება
+column-memory = მეხსიერება
 
 ## Special values for the Name column
 
@@ -37,6 +38,15 @@ type-other = სხვა
 energy-impact-high = მაღალი ({ $value })
 energy-impact-medium = საშუალო ({ $value })
 energy-impact-low = დაბალი ({ $value })
+
+## Values for the Memory column
+##
+## Variables:
+##   $value (Number) - How much memory is used
+
+size-KB = { $value } კბაიტი
+size-MB = { $value } მბაიტი
+size-GB = { $value } გბაიტი
 
 ## Tooltips for the action buttons
 
