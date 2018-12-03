@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 title = Over Netwerken
 warning = Dit is zeer experimenteel. Niet te gebruiken zonder toezicht van volwassenen.
 show-next-time-checkbox = Deze waarschuwing de volgende keer tonen
@@ -31,7 +32,9 @@ messages-received = Berichten ontvangen
 bytes-sent = Bytes verzonden
 bytes-received = Bytes ontvangen
 logging = Logboekregistratie
-log-tutorial = Zie <a data-l10n-name="logging">HTTP logging</a> voor instructies over het gebruik van dit hulpmiddel.
+log-tutorial =
+    Zie <a data-l10n-name="logging">HTTP logging</a>
+    voor instructies over het gebruik van dit hulpmiddel.
 current-log-file = Huidige logbestand:
 current-log-modules = Huidige logmodules:
 set-log-file = Logbestand instellen
