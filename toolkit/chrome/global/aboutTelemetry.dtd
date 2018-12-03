@@ -42,7 +42,7 @@
 <!ENTITY aboutTelemetry.addonDetailsSection "Detalii privind suplimentele">
 <!ENTITY aboutTelemetry.capturedStacksSection "Stive capturate">
 <!ENTITY aboutTelemetry.lateWritesSection "Scrieri întârziate">
-<!ENTITY aboutTelemetry.rawPayloadSection "Încărcare utilă brută">
+<!ENTITY aboutTelemetry.rawPayloadSection "Sarcină utilă brută">
 <!ENTITY aboutTelemetry.raw "JSON brut">
 
 <!ENTITY aboutTelemetry.fullSqlWarning "NOTĂ: Depanarea SQL lentă este activată. Șirurile SQL complete ar putea fi afișate mai jos, însă acestea nu vor fi transmise către Telemetrie.">
