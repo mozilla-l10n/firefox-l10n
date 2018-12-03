@@ -7,7 +7,7 @@ page-title = Visszaállítja a keresési beállításokat?
 page-info-outofdate = A keresési beállítások elavultak lehetnek. A { -brand-short-name } segíthet az alapértelmezett keresési beállítások visszaállításában.
 # Variables:
 #   $searchEngine (String) - Name of the default search engine e.g. Google
-page-info-new-search-engine = Ez beállítja az alapértelmezett keresőmotort erre: <span data-l10n-name="default-engine">{ $searchEngine }</span>
+page-info-new-search-engine = Ez beállítja az alapértelmezett keresőszolgáltatást erre: <span data-l10n-name="default-engine">{ $searchEngine }</span>
 page-info-how-to-change = Ezek a beállítások bármikor módosíthatók a <a data-l10n-name="link">Beállítások oldalról</a>.
 no-change-button =
     .label = Nincs változtatás
