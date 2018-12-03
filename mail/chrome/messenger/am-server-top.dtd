@@ -71,7 +71,7 @@
 <!ENTITY alwaysAuthenticate.accesskey "a">
 <!ENTITY newsrcFilePath.label "Fișier newsrc:">
 <!ENTITY newsrcPicker.label "Selectează fișierul newsrc">
-<!ENTITY abbreviate.label "Arată denumirile grupurilor de știri în panoul cu dosare de poștă electronică ca:">
+<!ENTITY abbreviate.label "Arată denumirile grupurilor de discuții în panoul cu dosare de poștă electronică ca:">
 <!ENTITY abbreviateOn.label "Nume complete (ex: „netscape.public.mozilla.mail-news”)">
 <!ENTITY abbreviateOff.label "Nume abreviate (ex: „n.p.m.mail-news”)">
 <!ENTITY advancedButton.label "Avansat…">
