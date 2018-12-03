@@ -155,7 +155,7 @@
 <!ENTITY wifi_auth_header "Identificare client">
 <!-- LOCALIZATION NOTE (wifi_auth_scan_request): Instructions requesting the
      user to transfer authentication info by scanning a QR code. -->
-<!ENTITY wifi_auth_scan_request "Adresa (endpoint-ul) la care te conectezi necesită mai multe informații pentru autentificarea conexiunii.  Te rugăm să scanezi codul QR de mai jos prin intermediul dialogului solicitat de pe celălalt dispozitiv.">
+<!ENTITY wifi_auth_scan_request "Punctul terminal la care te conectezi necesită mai multe informații pentru autentificarea conexiunii.  Te rugăm să scanezi codul QR de mai jos prin intermediul mesajului de ghidare de pe celălalt dispozitiv.">
 <!-- LOCALIZATION NOTE (wifi_auth_no_scanner): Link text to assist users with
      devices that can't scan a QR code. -->
 <!ENTITY wifi_auth_no_scanner "Niciun mesaj de ghidare de la scanerul de coduri QR?">
