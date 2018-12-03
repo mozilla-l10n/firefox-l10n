@@ -238,7 +238,7 @@
 <!ENTITY ignoredThreadsCmd.label "Conversații ignorate">
 <!ENTITY ignoredThreadsCmd.accesskey "i">
 
-<!ENTITY headersMenu.label "Anteturi">
+<!ENTITY headersMenu.label "Antete">
 <!ENTITY headersMenu.accesskey "n">
 <!ENTITY headersAllCmd.label "Toate">
 <!ENTITY headersAllCmd.accesskey "a">

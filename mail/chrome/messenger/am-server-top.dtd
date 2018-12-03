@@ -35,7 +35,7 @@
 <!ENTITY authMethod.accesskey "M">
 <!ENTITY leaveOnServer.label "Păstrează mesajele pe server">
 <!ENTITY leaveOnServer.accesskey "v">
-<!ENTITY headersOnly.label "Descarcă doar anteturile">
+<!ENTITY headersOnly.label "Descarcă doar antetele">
 <!ENTITY headersOnly.accesskey "D">
 <!ENTITY deleteByAgeFromServer.label "Pentru cel mult">
 <!ENTITY deleteByAgeFromServer.accesskey "n">
