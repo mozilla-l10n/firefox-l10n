@@ -11,7 +11,7 @@
 <!ENTITY disableAddons.label              "Dezactivează toate extensiile">
 <!ENTITY disableAddons.accesskey          "D">
 
-<!ENTITY resetToolbars.label              "Reinițializează barele de unelte și controalele">
+<!ENTITY resetToolbars.label              "Resetează barele de unelte și comenzile">
 <!ENTITY resetToolbars.accesskey          "R">
 
 <!ENTITY changeAndRestartButton.label     "Fă schimbările și repornește">
