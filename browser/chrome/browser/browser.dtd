@@ -1038,6 +1038,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackersView.strictInfo.label "För att blockera alla trackers, sätt innehållsblockering till “Strikt”.">
 
 <!ENTITY contentBlocking.cookies.label "Kakor">
+<!ENTITY contentBlocking.cookiesView.label "Kakor och webbplatsdata">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Rapportera ett problem">
 <!ENTITY contentBlocking.breakageReportView.label "Rapportera problem">
