@@ -1037,6 +1037,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackersView.label "Rastreadores">
 <!ENTITY contentBlocking.trackersView.strictInfo.label "Para bloquear todos los rastreadores, configure el bloqueo de contenido en “Estricto”.">
 
+<!ENTITY contentBlocking.cookies.label "Cookies">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Informar sobre un problema">
 <!ENTITY contentBlocking.breakageReportView.label "Informar problemas">

@@ -141,6 +141,8 @@ set-as-my-default-browser =
 startup-restore-previous-session =
     .label = Restaurar sesión previa
     .accesskey = s
+startup-restore-warn-on-quit =
+    .label = Avisarle cuando salgas del navegador.
 disable-extension =
     .label = Deshabilitar extensión
 tabs-group-header = Pestañas
@@ -859,6 +861,9 @@ collection-health-report-link = Conocer más
 collection-studies =
     .label = Permitir { -brand-short-name } para instalar y ejecutar estudios
 collection-studies-link = Ver los estudios { -brand-short-name }
+addon-recommendations =
+    .label = Permitir que { -brand-short-name } haga recomendaciones de extensiones personalizadas
+addon-recommendations-link = Conocer más
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = La información de datos está deshabilitado para esta configuración de compilación
