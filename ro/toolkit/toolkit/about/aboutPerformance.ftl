@@ -23,7 +23,7 @@ preloaded-tab = Preîncărcat: { $title }
 
 type-tab = Filă
 type-subframe = Subcadru
-type-tracker = Urmăritor
+type-tracker = Element de urmărire
 type-addon = Supliment
 type-browser = Browser
 type-worker = Worker
