@@ -43,13 +43,13 @@
 <!ENTITY button.verifyFeed.accesskey "V">
 <!ENTITY button.updateFeed.label     "Modifică">
 <!ENTITY button.updateFeed.accesskey "M">
-<!ENTITY button.removeFeed.label     "Șterge">
+<!ENTITY button.removeFeed.label     "Elimină">
 <!ENTITY button.removeFeed.accesskey "r">
 <!ENTITY button.importOPML.label     "Importă">
 <!ENTITY button.importOPML.accesskey "I">
 <!ENTITY button.exportOPML.label     "Exportă">
 <!ENTITY button.exportOPML.accesskey "x">
-<!ENTITY button.exportOPML.tooltip   "Exportă fluxuri cu structură de dosar; ctrl clic sau ctrl enter pentru a exporta fluxuri ca o listă">
+<!ENTITY button.exportOPML.tooltip   "Exportă fluxurile cu structură de dosar; ctrl clic sau ctrl enter pentru a exporta fluxurile ca listă">
 
 <!ENTITY cmd.close.commandKey        "w">
 <!ENTITY button.close.label          "Închide">

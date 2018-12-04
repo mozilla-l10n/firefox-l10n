@@ -14,7 +14,7 @@
 <!ENTITY smtpListAdd.accesskey  "A">
 <!ENTITY smtpListEdit.label "Editează…">
 <!ENTITY smtpListEdit.accesskey "E">
-<!ENTITY smtpListDelete.label "Șterge">
+<!ENTITY smtpListDelete.label "Elimină">
 <!ENTITY smtpListDelete.accesskey "g">
 <!ENTITY smtpListSetDefault.label "Implicit">
 <!ENTITY smtpListSetDefault.accesskey "I">

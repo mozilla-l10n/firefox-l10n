@@ -50,7 +50,7 @@
 <!ENTITY modelMoveToTrash.accesskey "M">
 <!ENTITY modelMarkDeleted.label "Marchează-l ca șters">
 <!ENTITY modelMarkDeleted.accesskey "M">
-<!ENTITY modelDeleteImmediately.label "Șterge-l imediat">
+<!ENTITY modelDeleteImmediately.label "Elimină-l imediat">
 <!ENTITY modelDeleteImmediately.accesskey "t">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY expungeOnExit.label "Golește dosarul „Primite” la ieșire">
