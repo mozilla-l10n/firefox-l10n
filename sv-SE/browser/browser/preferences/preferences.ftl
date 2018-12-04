@@ -141,6 +141,8 @@ set-as-my-default-browser =
 startup-restore-previous-session =
     .label = Återställ föregående session
     .accesskey = s
+startup-restore-warn-on-quit =
+    .label = Varna när du avslutar webbläsaren
 disable-extension =
     .label = Inaktivera tillägg
 tabs-group-header = Flikar
@@ -538,7 +540,6 @@ privacy-header = Webbläsarintegritet
 
 ## Privacy Section - Forms
 
-forms-header = Formulär & lösenord
 logins-header = Inloggningar & lösenord
 forms-ask-to-save-logins =
     .label = Fråga för att spara inloggningar och lösenord för webbplatser
@@ -860,6 +861,9 @@ collection-health-report-link = Läs mer
 collection-studies =
     .label = Tillåt { -brand-short-name } att installera och köra studier
 collection-studies-link = Visa { -brand-short-name }-studier
+addon-recommendations =
+    .label = Tillåt { -brand-short-name } att göra personliga utökningsrekommendationer
+addon-recommendations-link = Läs mer
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Datarapportering är inaktiverad för den här byggkonfigurationen
