@@ -255,7 +255,7 @@
 <!ENTITY bodyAllParts.label "Toate părțile mesajului">
 <!ENTITY bodyAllParts.accesskey "a">
 
-<!ENTITY bodyMenuFeed.label "Alimentează corpul mesajului ca">
+<!ENTITY bodyMenuFeed.label "Corpul mesajului de flux ca">
 <!ENTITY bodyMenuFeed.accesskey "A">
 <!ENTITY viewFeedWebPage.label "Pagină web">
 <!ENTITY viewFeedWebPage.accesskey "w">
@@ -454,7 +454,7 @@
 <!ENTITY openFeedWebPage.accesskey "w">
 <!ENTITY openFeedSummary.label "Deschide ca sumar">
 <!ENTITY openFeedSummary.accesskey "s">
-<!ENTITY openFeedWebPageInMP.label "Alternează pagina web și sumarul în panoul de mesaj">
+<!ENTITY openFeedWebPageInMP.label "Comută între pagină web și sumar în panoul de mesaje">
 <!ENTITY openFeedWebPageInMP.accesskey "t">
 
 <!-- Windows Menu -->

@@ -26,7 +26,7 @@
 <!ENTITY closeConversationCmd.accesskey "c">
 <!ENTITY aliasCmd.label                "Redenumire">
 <!ENTITY aliasCmd.accesskey            "m">
-<!ENTITY deleteCmd.label               "Șterge contactul">
+<!ENTITY deleteCmd.label               "Elimină contactul">
 <!ENTITY deleteCmd.accesskey           "t">
 
 <!ENTITY openConversationButton.tooltip  "Începe o conversație">
