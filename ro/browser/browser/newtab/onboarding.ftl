@@ -7,7 +7,7 @@
 
 onboarding-button-label-try-now = Încearcă-l acum
 onboarding-button-label-get-started = Începe
-onboarding-welcome-header = Bun venit în { -brand-short-name }
+onboarding-welcome-header = Bine ai venit la { -brand-short-name }
 onboarding-start-browsing-button-label = Începe să navighezi
 
 ## These strings belong to the individual onboarding messages.
@@ -31,5 +31,11 @@ onboarding-fxa-text = Înregistrează-te pentru un { -fxaccount-brand-name } și
 
 ## Message strings belonging to the Return to AMO flow
 
+return-to-amo-sub-header = Perfect, ai { -brand-short-name }
+# <icon></icon> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-header = Acum, să obținem și <icon></icon><b>{ $addon-name }.</b>
 return-to-amo-extension-button = Adaugă extensia
 return-to-amo-get-started-button = Începe cu { -brand-short-name }

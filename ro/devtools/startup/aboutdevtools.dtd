@@ -56,7 +56,7 @@
 <!ENTITY  aboutDevtools.enable.enableButton "Activează instrumentele de dezvoltare">
 <!ENTITY  aboutDevtools.enable.closeButton2 "Închide această filă">
 
-<!ENTITY  aboutDevtools.welcome.title "Bun venit la instrumentele de dezvoltare Firefox!">
+<!ENTITY  aboutDevtools.welcome.title "Bine ai venit la instrumentele de dezvoltare Firefox!">
 
 <!ENTITY  aboutDevtools.newsletter.title "Buletinul de știri Mozilla pentru dezvoltatori">
 <!-- LOCALIZATION NOTE (aboutDevtools.newsletter.message): Subscribe form message.
