@@ -21,8 +21,6 @@
 <!-- Tab context menu -->
 <!ENTITY  reloadTab.label                    "Rejtark znowego zacytaś">
 <!ENTITY  reloadTab.accesskey                "R">
-<!ENTITY  reloadAllTabs.label                "Wšykne rejtarki znowego zacytaś">
-<!ENTITY  reloadAllTabs.accesskey            "w">
 <!ENTITY  selectAllTabs.label                "Wšykne rejtarki wubraś">
 <!ENTITY  selectAllTabs.accesskey            "W">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
@@ -47,9 +45,6 @@ left instead of right. -->
 <!ENTITY  closeOtherTabs.label               "Druge rejtarki zacyniś">
 <!ENTITY  closeOtherTabs.accesskey           "D">
 
-<!ENTITY  closeSelectedTabs.label            "Wubrany rejtarki zacyniś">
-<!ENTITY  closeSelectedTabs.accesskey        "b">
-
 <!ENTITY  closeTabs.label                    "Rejtarki zacyniś">
 <!ENTITY  closeTabs.accesskey                "z">
 <!ENTITY  pinSelectedTabs.label              "Rejtarki pśipěś">
@@ -62,10 +57,6 @@ same accesskey but will never be visible at the same time. -->
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinSelectedTabs.accesskey        "t">
-<!-- Reload Tab and Reload Selected Tabs have the same accesskey
-but will never be visible at the same time. -->
-<!ENTITY  reloadSelectedTabs.label           "Wubrane rejtarki znowego zacytaś">
-<!ENTITY  reloadSelectedTabs.accesskey       "b">
 <!-- LOCALIZATION NOTE(reloadTab.label, reloadTabs.label): have the same accesskey
 but will never be visible at the same time. -->
 <!ENTITY  reloadTabs.label                   "Rejtarki znowego zacytaś">
@@ -90,8 +81,6 @@ same accesskey but will never be visible at the same time. -->
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinTab.accesskey                 "w">
-<!ENTITY  sendTabToDevice.label              "Rejtark na rěd pósłaś">
-<!ENTITY  sendTabToDevice.accesskey          "R">
 <!ENTITY  sendPageToDevice.label             "Bok na rěd pósłaś">
 <!ENTITY  sendPageToDevice.accesskey         "B">
 <!ENTITY  sendLinkToDevice.label             "Wótkaz na rěd pósłaś">
@@ -110,8 +99,6 @@ These two items have the same accesskey but will never be visible at the same ti
 <!ENTITY  moveToNewWindow.accesskey          "n">
 <!ENTITY  reopenInContainer.label            "W kontejnerje znowego wócyniś">
 <!ENTITY  reopenInContainer.accesskey        "k">
-<!ENTITY  bookmarkAllTabs.label              "Wšykne rejtarki ako cytańske znamjenja składowaś…">
-<!ENTITY  bookmarkAllTabs.accesskey          "r">
 <!ENTITY  bookmarkTab.label                  "Rejtark ako cytańske znamje składowaś">
 <!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
@@ -153,11 +140,6 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.label "Rědka cytańskich znamjenjow">
 <!ENTITY personalbarCmd.accesskey "c">
 <!ENTITY bookmarksToolbarItem.label "Zapiski rědki cytańskich znamjenjow">
-
-<!ENTITY toolbarContextMenu.reloadAllTabs.label "Wšykne rejtarki znowego zacytaś">
-<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "w">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Wšykne rejtarki ako cytańske znamjenja składowaś…">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "r">
 
 <!ENTITY toolbarContextMenu.reloadSelectedTab.label "Wubrany rejtark znowego zacytaś">
 <!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
@@ -263,9 +245,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "Toś ten bok ako cytańske znamje składowaś">
 <!ENTITY editThisBookmarkCmd.label "Toś to cytańske znamje wobźěłaś">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-
-<!ENTITY subscribeToPageMenupopup.label "Toś ten bok aboněrowaś">
-<!ENTITY subscribeToPageMenuitem.label "Toś ten bok aboněrowaś…">
 
 <!ENTITY addCurPagesCmd.label "Wšykne rejtarki ako cytańske znamjenja…">
 <!ENTITY showAllBookmarks2.label "Wše cytańske znamjenja pokazaś">
@@ -382,10 +361,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY webDeveloperMenu.label       "Webwuwijaŕ">
 <!ENTITY webDeveloperMenu.accesskey   "W">
-
-<!ENTITY devtoolsRecordExecution.label "Wuwjeźenje nagraś">
-<!ENTITY devtoolsSaveRecording.label "Nagraśe składowaś">
-<!ENTITY devtoolsReplayExecution.label "Wuwjeźenje znowego wótgraś">
 
 <!ENTITY inspectContextMenu.label     "Element pśepytowaś">
 <!ENTITY inspectContextMenu.accesskey "E">
@@ -516,7 +491,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "s">
 <!ENTITY customizeMenu.manageExtension.label "Rozšyrjenje zastojaś">
 <!ENTITY customizeMenu.manageExtension.accesskey "R">
-
 <!ENTITY customizeMenu.removeExtension.label "Rozšyrjenje wótwónoźeś">
 <!ENTITY customizeMenu.removeExtension.accesskey "t">
 
@@ -1021,12 +995,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackingProtection2.label "Wšykne namakane pśeslědowaki">
 
 <!ENTITY contentBlocking.trackingProtection3.label "Pśeslědowaki">
-<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.allowed.label):
-     This label signals that this type of content blocking is turned
-     OFF and is not blocking tracker content, so this is not
-     a positive thing. It forms the end of the (imaginary) sentence
-     "Trackers [are] Allowed"-->
-<!ENTITY contentBlocking.trackingProtection.allowed.label "Dowólony">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking tracker content, so this is
@@ -1068,6 +1036,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.trackersView.label "Pśeslědowaki">
 <!ENTITY contentBlocking.trackersView.strictInfo.label "Aby wšykne pśeslědowaki blokěrował, stajśo blokěrowanje wopśimjeśa na “Striktny”.">
+
+<!ENTITY contentBlocking.cookies.label "Cookieje">
+<!ENTITY contentBlocking.cookiesView.label "Cookieje a sedłowe daty">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Problem k wěsći daś">
 <!ENTITY contentBlocking.breakageReportView.label "Problemy k wěsći daś">
@@ -1202,11 +1173,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "Akcije boka">
 <!ENTITY pageAction.addToUrlbar.label "Adresowemu póloju pśidaś">
 <!ENTITY pageAction.removeFromUrlbar.label "Z adresowego póla wótwónoźeś">
-<!ENTITY pageAction.allowInUrlbar.label "W adresowem pólu pokazaś">
-<!ENTITY pageAction.disallowInUrlbar.label "W adresowem pólu njepokazaś">
 <!ENTITY pageAction.manageExtension.label "Rozšyrjenje zastojaś…">
-
-<!ENTITY pageAction.sendTabToDevice.label "Rejtark na rěd pósłaś">
 
 <!ENTITY sendToDevice.syncNotReady.label "Rědy se synchronizěruju…">
 
