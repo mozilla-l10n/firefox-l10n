@@ -21,7 +21,7 @@
 <!ENTITY visibilityToggle.tooltip   "శైలి షీట్ దృశ్యనీయతను మార్చు">
 
 <!ENTITY saveButton.label           "భద్రపరచు">
-<!ENTITY saveButton.tooltip         "ఈ శైలి షీట్‌ను ఫైలునకు దాయి">
+<!ENTITY saveButton.tooltip         "ఈ శైలి షీట్‌ను ఒక ఫైలుకు భద్రపరుచు">
 <!ENTITY saveButton.accesskey       "S">
 
 <!ENTITY optionsButton.tooltip      "శైలి ఎడిటర్ ఎంపికలు">
@@ -65,3 +65,6 @@
 <!-- LOCALIZATION NOTE (openLinkNewTab.label): This is the text for the
      context menu item that opens a stylesheet in a new tab -->
 <!ENTITY openLinkNewTab.label     "లింకును కొత్త ట్యాబులో తెరువు">
+
+<!-- LOCALIZATION NOTE (copyUrl.label): This is the text for the
+     context menu item that copies a stylesheet's URL -->
