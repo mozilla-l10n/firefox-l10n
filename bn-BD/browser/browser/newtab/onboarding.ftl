@@ -28,3 +28,7 @@ onboarding-ghostery-text = Ghostery এর মত এক্সটেনশন �
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = সিঙ্ক
 onboarding-fxa-text = আপনার বুকমার্কস, পাসওয়ার্ড এবং যেখানেই আপনি { -brand-short-name } ট্যাব খোলেন না কেন তা সিঙ্ক করতে একটি { -fxaccount-brand-name } একাউন্ট সাইন আপ করে নিন।
+
+## Message strings belonging to the Return to AMO flow
+
+return-to-amo-extension-button = এক্সটেনশন যোগ করুন

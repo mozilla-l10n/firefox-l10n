@@ -530,7 +530,6 @@ privacy-header = ব্রাউজার গোপনীয়তা
 
 ## Privacy Section - Forms
 
-forms-header = ফরম ও পাসওয়ার্ড
 logins-header = লগইন এবং পাসওয়ার্ড
 forms-ask-to-save-logins =
     .label = ওয়েবসাইটে লগইন ও পাসওয়ার্ড সংরক্ষণে জিজ্ঞাসা কর
@@ -669,6 +668,20 @@ content-blocking-toggle-label-on = চালু করুন
 content-blocking-toggle-label-off = বন্ধ
     .accesskey = O
 content-blocking-category-label = কি ব্লক করতে চান বলুন
+content-blocking-tracking-protection-trackers-label =
+    .label = ট্রাকারসমূহ
+    .accesskey = T
+content-blocking-tracking-protection-all-detected-trackers-label =
+    .label = সমস্ত সনাক্তকৃত ট্র্যাকার
+    .accesskey = T
+content-blocking-tracking-protection-option-always =
+    .label = সর্বদা
+    .accesskey = A
+content-blocking-tracking-protection-option-private =
+    .label = শুধুমাত্র ব্যক্তিগত ব্রাউজিং উইন্ডোতে
+    .accesskey = p
+# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
+# "Standard" in this case is an adjective, meaning "default" or "normal".
 content-blocking-setting-standard =
     .label = প্রমিত
     .accesskey = d
@@ -682,18 +695,6 @@ content-blocking-custom-desc = নির্বাচন করুন কি ব�
 content-blocking-third-party-cookies = তৃতীয় পক্ষের ট্র্যাকিং কুকি
 content-blocking-all-third-party-cookies = সকল তৃতীয়-পক্ষের কুকিগুলো
 content-blocking-learn-how = শিখুন কিভাবে হয়
-content-blocking-tracking-protection-trackers-label =
-    .label = ট্রাকারসমূহ
-    .accesskey = T
-content-blocking-tracking-protection-all-detected-trackers-label =
-    .label = সমস্ত সনাক্তকৃত ট্র্যাকার
-    .accesskey = T
-content-blocking-tracking-protection-option-always =
-    .label = সর্বদা
-    .accesskey = A
-content-blocking-tracking-protection-option-private =
-    .label = শুধুমাত্র ব্যক্তিগত ব্রাউজিং উইন্ডোতে
-    .accesskey = p
 content-blocking-tracking-protection-change-block-list = ব্লক তালিকা পরিবর্তন করুন
 content-blocking-third-party-cookies-label =
     .label = তৃতীয় পক্ষের কুকি
@@ -801,6 +802,7 @@ collection-health-report-link = আরও জানুন
 collection-studies =
     .label = { -brand-short-name } কে ইনস্টল এবং চালানোর অনুমতি দিন
 collection-studies-link = { -brand-short-name } অধ্যয়ন দেখুন
+addon-recommendations-link = আরও জানুন
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = এই বিল্ড কনফিগারেশনের জন্যে ডাটা রিপোর্টিং নিস্ক্রিয় করা হয়েছে
