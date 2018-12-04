@@ -21,8 +21,6 @@
 <!-- Tab context menu -->
 <!ENTITY  reloadTab.label                    "Oppdater fane">
 <!ENTITY  reloadTab.accesskey                "O">
-<!ENTITY  reloadAllTabs.label                "Oppdater alle faner">
-<!ENTITY  reloadAllTabs.accesskey            "d">
 <!ENTITY  selectAllTabs.label                "Vel alle faner">
 <!ENTITY  selectAllTabs.accesskey            "f">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
@@ -47,9 +45,6 @@ left instead of right. -->
 <!ENTITY  closeOtherTabs.label               "Lat att andre faner">
 <!ENTITY  closeOtherTabs.accesskey           "a">
 
-<!ENTITY  closeSelectedTabs.label            "Lat att valde faner">
-<!ENTITY  closeSelectedTabs.accesskey        "L">
-
 <!ENTITY  closeTabs.label                    "Lat att faner">
 <!ENTITY  closeTabs.accesskey                "t">
 <!ENTITY  pinSelectedTabs.label              "Fest faner">
@@ -62,10 +57,6 @@ same accesskey but will never be visible at the same time. -->
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinSelectedTabs.accesskey        "e">
-<!-- Reload Tab and Reload Selected Tabs have the same accesskey
-but will never be visible at the same time. -->
-<!ENTITY  reloadSelectedTabs.label           "Oppdater valde faner">
-<!ENTITY  reloadSelectedTabs.accesskey       "O">
 <!-- LOCALIZATION NOTE(reloadTab.label, reloadTabs.label): have the same accesskey
 but will never be visible at the same time. -->
 <!ENTITY  reloadTabs.label                   "Oppdater faner">
@@ -90,8 +81,6 @@ same accesskey but will never be visible at the same time. -->
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinTab.accesskey                 "s">
-<!ENTITY  sendTabToDevice.label              "Send fane til ei eining">
-<!ENTITY  sendTabToDevice.accesskey          "e">
 <!ENTITY  sendPageToDevice.label             "Send sida til eining">
 <!ENTITY  sendPageToDevice.accesskey         "e">
 <!ENTITY  sendLinkToDevice.label             "Send lenke til eining">
@@ -110,8 +99,6 @@ These two items have the same accesskey but will never be visible at the same ti
 <!ENTITY  moveToNewWindow.accesskey          "F">
 <!ENTITY  reopenInContainer.label            "Opne på nytt i behaldar">
 <!ENTITY  reopenInContainer.accesskey        "e">
-<!ENTITY  bookmarkAllTabs.label              "Bokmerk alle faner…">
-<!ENTITY  bookmarkAllTabs.accesskey          "o">
 <!ENTITY  bookmarkTab.label                  "Bokmerk fana">
 <!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
@@ -153,11 +140,6 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.label "Bokmerke">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "Element i bokmerkelinja">
-
-<!ENTITY toolbarContextMenu.reloadAllTabs.label "Last inn alle faner på nytt">
-<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "L">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Bokmerk alle faner…">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "B">
 
 <!ENTITY toolbarContextMenu.reloadSelectedTab.label "Oppdater valde fane">
 <!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
@@ -263,9 +245,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "Bokmerk denne sida">
 <!ENTITY editThisBookmarkCmd.label "Rediger dette bokmerket">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-
-<!ENTITY subscribeToPageMenupopup.label "Abonner på denne sida">
-<!ENTITY subscribeToPageMenuitem.label "Abonner på denne sida…">
 
 <!ENTITY addCurPagesCmd.label "Bokmerk alle faner…">
 <!ENTITY showAllBookmarks2.label "Vis alle bokmerka">
@@ -382,10 +361,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY webDeveloperMenu.label       "Nettsideutvikling">
 <!ENTITY webDeveloperMenu.accesskey   "N">
-
-<!ENTITY devtoolsRecordExecution.label "Spel inn utføring">
-<!ENTITY devtoolsSaveRecording.label "Lagre innspelinga">
-<!ENTITY devtoolsReplayExecution.label "Spel av utføring">
 
 <!ENTITY inspectContextMenu.label     "Inspiser element">
 <!ENTITY inspectContextMenu.accesskey "I">
@@ -516,7 +491,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "a">
 <!ENTITY customizeMenu.manageExtension.label "Handter utviding">
 <!ENTITY customizeMenu.manageExtension.accesskey "e">
-
 <!ENTITY customizeMenu.removeExtension.label "Fjern tillegg">
 <!ENTITY customizeMenu.removeExtension.accesskey "F">
 
@@ -1021,12 +995,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackingProtection2.label "Alle oppdaga sporfølgjarar">
 
 <!ENTITY contentBlocking.trackingProtection3.label "Sporfølgjarar">
-<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.allowed.label):
-     This label signals that this type of content blocking is turned
-     OFF and is not blocking tracker content, so this is not
-     a positive thing. It forms the end of the (imaginary) sentence
-     "Trackers [are] Allowed"-->
-<!ENTITY contentBlocking.trackingProtection.allowed.label "Tillatne">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking tracker content, so this is
@@ -1068,6 +1036,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.trackersView.label "Sporfølgjarar">
 <!ENTITY contentBlocking.trackersView.strictInfo.label "For å blokkere alle sporfølgjarar, set innhaldsblokkering til «Streng».">
+
+<!ENTITY contentBlocking.cookies.label "Infokapslar">
+<!ENTITY contentBlocking.cookiesView.label "Infokapslar og nettsidedata">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Rapporter eit problem">
 <!ENTITY contentBlocking.breakageReportView.label "Rapporter problem">
@@ -1202,11 +1173,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "Sidehandlingar">
 <!ENTITY pageAction.addToUrlbar.label "Legg til i adresselinja">
 <!ENTITY pageAction.removeFromUrlbar.label "Fjern fra adresselinja">
-<!ENTITY pageAction.allowInUrlbar.label "Vis i adresselinja">
-<!ENTITY pageAction.disallowInUrlbar.label "Ikkje vis i adresselinja">
 <!ENTITY pageAction.manageExtension.label "Handter utviding…">
-
-<!ENTITY pageAction.sendTabToDevice.label "Send fane til ei eining">
 
 <!ENTITY sendToDevice.syncNotReady.label "Synkroniserer einingar…">
 
