@@ -66,9 +66,11 @@
 <!-- Localization note (url_bar_qrcode_text2) : This text will be
      heard by non-visual users when the focus is on the QR Code
      icon in the url bar. -->
+<!ENTITY url_bar_qrcode_text2 "Ch´uchu QR m chŕmee o tñur kwimchu hal jab´ikyawa">
 <!-- Localization note (url_bar_mic_text2) : This text will be
      heard by non-visual users when the focus is on the Microphone
      icon in the url bar. -->
+<!ENTITY url_bar_mic_text2 "Microfnha myo ñum mtrchech tñut kwimchuhal mjab´ikyawa">
 
 <!ENTITY bookmark "ŕkirchu">
 <!ENTITY bookmark_remove "ŕkirchu ŕmarch">
@@ -288,16 +290,17 @@
 <!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
      Similar to the already existing "pref_whats_new_notification_summary"-->
 <!ENTITY pref_feature_tips_notification_summary "Chatrñerabum kabwik &brandShortName; ñumyaabchu ha ŕpo yaŕaal &vendorShortName; ham nyaam Ka">
-
 <!-- Localization note (pref_feature_tips_notification_enabling_hint):
      Describe the action the user should do to enable this preference
      Will be used in the context "<Turn on> ... to enable this feature" -->
+<!ENTITY pref_feature_tips_notification_enabling_hint "Chubowu">
 
 <!-- Localization note (pref_feature_tips_notification_enabling_path):
      Nothing to translate. Simple concatenation of already localized strings. Result is used below. -->
 <!ENTITY pref_feature_tips_notification_enabling_path "&pref_category_privacy_short; > &pref_category_datareporting; > &datareporting_fhr_title;">
 <!-- Localization note (pref_feature_tips_notification_enabling_hint):
      Describe the action the user should do to enable this preference. -->
+<!ENTITY pref_feature_tips_notification_enabling_hint2 "(Trchechu yam mchubowuhik kyawa, &pref_feature_tips_notification_enabling_path; yay kur chubowukwa yaŕaal.)">
 
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
@@ -372,6 +375,8 @@ chab mtñur">
 <!ENTITY pref_use_system_font_size_summary "Chpayt web hal kyoha chamuyomuk tñur sal kyak cabyum ñmyoka">
 
 <!ENTITY pref_media_autoplay_enabled "Byaw ik tñurcha mnmak">
+<!ENTITY pref_media_autoplay_allow "Yemik chuboowu mnmak">
+<!ENTITY pref_media_autoplay_block "Yemik chubowuha mtket">
 <!ENTITY pref_zoom_force_enabled "Sam yamu pichtem msolwaŕit">
 <!ENTITY pref_zoom_force_enabled_summary "Chab tñuruha wilum m\&apos;aam jabchu ha tubtewu o tchinkoshu kabyuwuya">
 <!ENTITY pref_voice_input "Kwawu jabu">
@@ -450,6 +455,7 @@ chab mtñur">
 <!-- Localization note (datareporting_notification_title ) : This will be the title
      of the notification shown whenever the user has enabled data reporting and the stumbler
      service is running. -->
+<!ENTITY datareporting_stumbler_notification_title "&vendorShortName; Wachu chjanch hay boo kwa">
 
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
@@ -470,6 +476,7 @@ chab mtñur">
 <!ENTITY char_encoding "Kabyuwu chajanch">
 
 <!ENTITY share "Mkwimu">
+<!ENTITY share_title "Yam maat m\&apos;eem">
 <!ENTITY share_image_failed "Tñurya kwimch yutem">
 <!ENTITY save_as_pdf "PDF muliwuk mchkwa">
 <!ENTITY print "Muchpach">
@@ -837,8 +844,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY whatsnew_notification_title "&brandShortName; kur maat chajan">
 <!ENTITY whatsnew_notification_summary "Baam chkyakya chapayt jkaywiyha m\&apos;u">
 
-<!ENTITY promotion_add_page_shortcut "Byaw\&apos;ik jachu sal mchmii">
-
 <!ENTITY helper_first_offline_bookmark_title "Tñur m\&apos;u sak mchpachtemso">
 <!ENTITY helper_first_offline_bookmark_message "Chum uwu chapayt wii ŕkiru myo, mtublich kamyuso.">
 <!ENTITY helper_first_offline_bookmark_button "Ŕkirchu myam">
@@ -891,11 +896,18 @@ See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
 
 <!-- Used by accessibility services to identify the play/pause buttons shown in the
 Picture-in-picture mini window -->
+<!ENTITY pip_play_button_title "Chubowu">
+<!ENTITY pip_play_button_description "Chubowu mnamaan">
+<!ENTITY pip_pause_button_title "Mchuŕkwis">
+<!ENTITY pip_pause_button_description "Booha mchuŕkwis">
 
 <!-- Notification channels names -->
 <!ENTITY default_notification_channel "&brandShortName;">
 
 <!-- Notification channels names -->
+<!ENTITY default_notification_channel2 "Sal amchu">
+<!ENTITY mls_notification_channel "&vendorShortName; Paa ŕmeechu kbtaar">
+<!ENTITY download_notification_channel "Unalch">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY synced_tabs_notification_channel "Ch chkwachu payt blwiy">
