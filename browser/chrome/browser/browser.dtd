@@ -21,8 +21,6 @@
 <!-- Tab context menu -->
 <!ENTITY  reloadTab.label                    "Reload Tab">
 <!ENTITY  reloadTab.accesskey                "R">
-<!ENTITY  reloadAllTabs.label                "Reload All Tabs">
-<!ENTITY  reloadAllTabs.accesskey            "A">
 <!ENTITY  selectAllTabs.label                "Select All Tabs">
 <!ENTITY  selectAllTabs.accesskey            "S">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
@@ -47,9 +45,6 @@ left instead of right. -->
 <!ENTITY  closeOtherTabs.label               "Close Other Tabs">
 <!ENTITY  closeOtherTabs.accesskey           "o">
 
-<!ENTITY  closeSelectedTabs.label            "Close Selected Tabs">
-<!ENTITY  closeSelectedTabs.accesskey        "S">
-
 <!ENTITY  closeTabs.label                    "Close Tabs">
 <!ENTITY  closeTabs.accesskey                "S">
 <!ENTITY  pinSelectedTabs.label              "Pin Tabs">
@@ -62,10 +57,6 @@ same accesskey but will never be visible at the same time. -->
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinSelectedTabs.accesskey        "p">
-<!-- Reload Tab and Reload Selected Tabs have the same accesskey
-but will never be visible at the same time. -->
-<!ENTITY  reloadSelectedTabs.label           "Reload Selected Tabs">
-<!ENTITY  reloadSelectedTabs.accesskey       "R">
 <!-- LOCALIZATION NOTE(reloadTab.label, reloadTabs.label): have the same accesskey
 but will never be visible at the same time. -->
 <!ENTITY  reloadTabs.label                   "Reload Tabs">
@@ -90,8 +81,6 @@ same accesskey but will never be visible at the same time. -->
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinTab.accesskey                 "p">
-<!ENTITY  sendTabToDevice.label              "Send Tab to Device">
-<!ENTITY  sendTabToDevice.accesskey          "D">
 <!ENTITY  sendPageToDevice.label             "Send Page to Device">
 <!ENTITY  sendPageToDevice.accesskey         "D">
 <!ENTITY  sendLinkToDevice.label             "Send Link to Device">
@@ -110,8 +99,6 @@ These two items have the same accesskey but will never be visible at the same ti
 <!ENTITY  moveToNewWindow.accesskey          "W">
 <!ENTITY  reopenInContainer.label            "Reopen in Container">
 <!ENTITY  reopenInContainer.accesskey        "e">
-<!ENTITY  bookmarkAllTabs.label              "Bookmark All Tabs…">
-<!ENTITY  bookmarkAllTabs.accesskey          "T">
 <!ENTITY  bookmarkTab.label                  "Bookmark Tab">
 <!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
@@ -153,11 +140,6 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.label "Bookmarks Toolbar">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "Bookmarks Toolbar Items">
-
-<!ENTITY toolbarContextMenu.reloadAllTabs.label "Reload All Tabs">
-<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "A">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Bookmark All Tabs…">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "T">
 
 <!ENTITY toolbarContextMenu.reloadSelectedTab.label "Reload Selected Tab">
 <!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
@@ -263,9 +245,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "Bookmark This Page">
 <!ENTITY editThisBookmarkCmd.label "Edit This Bookmark">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-
-<!ENTITY subscribeToPageMenupopup.label "Subscribe to This Page">
-<!ENTITY subscribeToPageMenuitem.label "Subscribe to This Page…">
 
 <!ENTITY addCurPagesCmd.label "Bookmark All Tabs…">
 <!ENTITY showAllBookmarks2.label "Show All Bookmarks">
@@ -382,10 +361,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY webDeveloperMenu.label       "Web Developer">
 <!ENTITY webDeveloperMenu.accesskey   "W">
-
-<!ENTITY devtoolsRecordExecution.label "Record Execution">
-<!ENTITY devtoolsSaveRecording.label "Save Recording">
-<!ENTITY devtoolsReplayExecution.label "Replay Execution">
 
 <!ENTITY inspectContextMenu.label     "Inspect Element">
 <!ENTITY inspectContextMenu.accesskey "Q">
@@ -516,7 +491,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "A">
 <!ENTITY customizeMenu.manageExtension.label "Manage Extension">
 <!ENTITY customizeMenu.manageExtension.accesskey "E">
-
 <!ENTITY customizeMenu.removeExtension.label "Remove Extension">
 <!ENTITY customizeMenu.removeExtension.accesskey "v">
 
@@ -1021,12 +995,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackingProtection2.label "All Detected Trackers">
 
 <!ENTITY contentBlocking.trackingProtection3.label "Trackers">
-<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.allowed.label):
-     This label signals that this type of content blocking is turned
-     OFF and is not blocking tracker content, so this is not
-     a positive thing. It forms the end of the (imaginary) sentence
-     "Trackers [are] Allowed"-->
-<!ENTITY contentBlocking.trackingProtection.allowed.label "Allowed">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking tracker content, so this is
@@ -1068,6 +1036,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.trackersView.label "Trackers">
 <!ENTITY contentBlocking.trackersView.strictInfo.label "To block all trackers, set content blocking to “Strict”.">
+
+<!ENTITY contentBlocking.cookies.label "Cookies">
+<!ENTITY contentBlocking.cookiesView.label "Cookies and Site Data">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Report a problem">
 <!ENTITY contentBlocking.breakageReportView.label "Report Problems">
@@ -1202,11 +1173,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "Page actions">
 <!ENTITY pageAction.addToUrlbar.label "Add to Address Bar">
 <!ENTITY pageAction.removeFromUrlbar.label "Remove from Address Bar">
-<!ENTITY pageAction.allowInUrlbar.label "Show in Address Bar">
-<!ENTITY pageAction.disallowInUrlbar.label "Don’t Show in Address Bar">
 <!ENTITY pageAction.manageExtension.label "Manage Extension…">
-
-<!ENTITY pageAction.sendTabToDevice.label "Send Tab to Device">
 
 <!ENTITY sendToDevice.syncNotReady.label "Syncing Devices…">
 
