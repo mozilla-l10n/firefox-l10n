@@ -57,7 +57,7 @@
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "a">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Contul actual">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "c">
-<!ENTITY getNextNMsgCmd2.label "Obține următoarele mesaje de știri">
+<!ENTITY getNextNMsgCmd2.label "Obține următoarele mesaje din grupurile de discuții">
 <!ENTITY getNextNMsgCmd2.accesskey "t">
 <!ENTITY sendUnsentCmd.label "Trimite mesajele neexpediate">
 <!ENTITY sendUnsentCmd.accesskey "d">

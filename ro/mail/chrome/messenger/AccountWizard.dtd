@@ -64,7 +64,7 @@
 <!ENTITY incomingUsername.label "Nume de utilizator:">
 <!ENTITY incomingUsername.accesskey "u">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
-<!ENTITY newsServerNameDesc.label "Introdu denumirea serverului de știri (NNTP) (de exemplu, „news.example.net”).">
+<!ENTITY newsServerNameDesc.label "Introdu denumirea serverului de grupuri de discuții (NNTP) (de exemplu, „news.exemplu.net”).">
 <!ENTITY newsServerLabel.label "Server grup de discuții:">
 <!ENTITY newsServerLabel.accesskey "S">
 
@@ -117,7 +117,7 @@
 <!ENTITY serverTypePrefix.label "Tipul serverului de primire:">
 <!ENTITY serverNamePrefix.label "Denumirea serverului de primire:">
 <!ENTITY smtpServerNamePrefix.label "Denumirea serverului de trimitere (SMTP):">
-<!ENTITY newsServerNamePrefix.label "Denumirea serverului de știri (NNTP):">
+<!ENTITY newsServerNamePrefix.label "Denumirea serverului de grupuri de discuții (NNTP):">
 <!ENTITY downloadOnLogin.label "Descarcă mesajele acum">
 <!ENTITY downloadOnLogin.accesskey "D">
 <!ENTITY deferStorageDesc.label "Nu bifa această căsuță pentru a stoca mesajele contului în directorul său. Aceasta va face ca acest cont să apară pe nivelul cel mai de sus. În caz contrar, mesajele vor fi în căsuța poștală globală din dosarele locale.">
