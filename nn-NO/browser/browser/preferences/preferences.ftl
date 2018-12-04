@@ -141,6 +141,8 @@ set-as-my-default-browser =
 startup-restore-previous-session =
     .label = Bygg oppatt siste programøkt
     .accesskey = B
+startup-restore-warn-on-quit =
+    .label = Åtvar når du avsluttar nettlesaren
 disable-extension =
     .label = Slå av tillegg
 tabs-group-header = Faner
@@ -538,7 +540,6 @@ privacy-header = Nettlesarpersonvern
 
 ## Privacy Section - Forms
 
-forms-header = Skjema og passord
 logins-header = Innloggingar og passord
 forms-ask-to-save-logins =
     .label = Spør om å lagre innloggingar og passord for nettsider
@@ -860,6 +861,7 @@ collection-health-report-link = Les meir
 collection-studies =
     .label = Tillat { -brand-short-name } å installere og køyre studium
 collection-studies-link = Vis { -brand-short-name }-studium
+addon-recommendations-link = Les meir
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Datarapportering er deaktivert for denne byggekonfigurasjonen
