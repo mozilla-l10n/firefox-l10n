@@ -141,6 +141,8 @@ set-as-my-default-browser =
 startup-restore-previous-session =
     .label = Restaurar sessão anterior
     .accesskey = s
+startup-restore-warn-on-quit =
+    .label = Avisar-lhe ao sair do navegador
 disable-extension =
     .label = Desativar extensão
 tabs-group-header = Separadores
@@ -538,7 +540,6 @@ privacy-header = Privacidade do navegador
 
 ## Privacy Section - Forms
 
-forms-header = Formulários e palavras-passe
 logins-header = Credenciais e palavras-passe
 forms-ask-to-save-logins =
     .label = Perguntar para guardar credenciais e palavras-passe para websites
@@ -729,7 +730,7 @@ content-blocking-standard-desc = Equilibrado para proteção e desempenho. Permi
 content-blocking-strict-desc = Bloqueia todos os trackers que o { -brand-short-name } deteta. Pode causar com que alguns sites quebrem.
 content-blocking-custom-desc = Escolha o que bloquear.
 content-blocking-private-trackers = Trackers conhecidos apenas em janelas privadas
-content-blocking-third-party-cookies = Cookies de trackers de terceiros
+content-blocking-third-party-cookies = Cookies de monitorização de terceiros
 content-blocking-all-windows-trackers = Trackers conhecidos em todas as janelas
 content-blocking-all-third-party-cookies = Todos os cookies de terceiros
 content-blocking-warning-title = Atenção!
@@ -860,6 +861,9 @@ collection-health-report-link = Saber mais
 collection-studies =
     .label = Permitir ao { -brand-short-name } instalar e executar estudos
 collection-studies-link = Ver estudos do { -brand-short-name }
+addon-recommendations =
+    .label = Permitir ao { -brand-short-name } fazer recomendações personalizadas de extensões
+addon-recommendations-link = Saber mais
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Relato de dados está desativado para a configuração desta compilação
