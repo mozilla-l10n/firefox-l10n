@@ -435,7 +435,7 @@
 <!ENTITY markAsNotJunkCmd.label "Ca nefiind nesolicitat">
 <!ENTITY markAsNotJunkCmd.accesskey "n">
 <!ENTITY markAsNotJunkCmd.key "j">
-<!ENTITY recalculateJunkScoreCmd.label "Verifică de mesaje nesolicitate">
+<!ENTITY recalculateJunkScoreCmd.label "Execută controalele de mesaje nesolicitate">
 <!ENTITY recalculateJunkScoreCmd.accesskey "c">
 <!ENTITY openMessageWindowCmd.label "Deschide mesajul">
 <!ENTITY openMessageWindowCmd.accesskey "D">
@@ -496,7 +496,7 @@
 <!ENTITY filtersApplyToSelection.accesskey "s">
 <!ENTITY filtersApplyToMessage.label "Rulează filtrele pe mesaj">
 <!ENTITY filtersApplyToMessage.accesskey "s">
-<!ENTITY runJunkControls.label "Verifică dosarul de mesaje nesolicitate">
+<!ENTITY runJunkControls.label "Execută controalele de mesaje nesolicitate pe dosar">
 <!ENTITY runJunkControls.accesskey "c">
 <!ENTITY deleteJunk.label "Șterge mesajele marcate ca nesolicitate în dosar">
 <!ENTITY deleteJunk.accesskey "d">

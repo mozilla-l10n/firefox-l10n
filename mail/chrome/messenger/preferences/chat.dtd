@@ -29,7 +29,7 @@ sentence. -->
 <!ENTITY  desktopChatNotifications.label      "Arată o notificare:">
 <!ENTITY  desktopChatNotifications.accesskey  "c">
 <!ENTITY  completeNotification.label          "cu numele expeditorului și previzualizarea mesajului">
-<!ENTITY  buddyInfoOnly.label                 "cu numele expeditorului doar">
+<!ENTITY  buddyInfoOnly.label                 "doar cu numele expeditorului">
 <!ENTITY  dummyNotification.label             "fără nicio informație">
 <!ENTITY  getAttention.label                  "Pâlpâie elementul de pe bara de activități">
 <!ENTITY  getAttention.accesskey              "I">

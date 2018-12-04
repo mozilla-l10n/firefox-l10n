@@ -10,7 +10,7 @@
 <!ENTITY previewText.accesskey            "m">
 <!ENTITY subject.label                    "Subiectul">
 <!ENTITY subject.accesskey                "S">
-<!ENTITY sender.label                     "Expeditorul">
+<!ENTITY sender.label                     "Expeditor">
 <!ENTITY sender.accesskey                 "E">
 
 <!-- LOCALIZATION NOTE: totalOpenTimeBefore.label is displayed first, then
