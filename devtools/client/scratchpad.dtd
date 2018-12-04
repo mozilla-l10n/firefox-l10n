@@ -11,7 +11,7 @@
   - A good criteria is the language in which you'd find the best
   - documentation on web development on the web. -->
 
-<!-- LOCALIZATION NOTE (scratchpad.title):
+<!-- LOCALIZATION NOTE (window.title):
   -  The Scratchpad is intended to provide a simple text editor for creating
   -  and evaluating bits of JavaScript code for the purposes of function
   -  prototyping, experimentation and convenient scripting.
@@ -78,7 +78,7 @@
 <!ENTITY editMenu.label               "ફેરફાર">
 <!ENTITY editMenu.accesskey           "E">
 
-<!ENTITY run.label                    "દોડો">
+<!ENTITY run.label                    "શરુ કરો">
 <!ENTITY run.accesskey                "R">
 <!ENTITY run.key                      "r">
 
@@ -134,7 +134,7 @@
 <!ENTITY resetContext2.label          "ચલો પુનઃસુયોજીત કરોReset Variables">
 <!ENTITY resetContext2.accesskey      "t">
 
-<!ENTITY reloadAndRun.label           "ફરી લાવો અને ચલાવો">
+<!ENTITY reloadAndRun.label           "ફરી લોડ કરો અને ચલાવો">
 <!ENTITY reloadAndRun.accesskey       "e">
 <!ENTITY reloadAndRun.key             "r">
 
