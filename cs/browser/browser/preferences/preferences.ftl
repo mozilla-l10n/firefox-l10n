@@ -141,6 +141,8 @@ set-as-my-default-browser =
 startup-restore-previous-session =
     .label = Otevřít panely z minula
     .accesskey = O
+startup-restore-warn-on-quit =
+    .label = Varovat při ukončování prohlížeče
 disable-extension =
     .label = Zakázat rozšíření
 tabs-group-header = Panely
@@ -545,7 +547,6 @@ privacy-header = Nastavení soukromí
 
 ## Privacy Section - Forms
 
-forms-header = Formuláře a hesla
 logins-header = Přihlašovací údaje
 forms-ask-to-save-logins =
     .label = Ptát se na ukládání přihlašovacích údajů
@@ -565,7 +566,7 @@ forms-master-pw-change =
 
 ## Privacy Section - History
 
-history-header = Historie
+history-header = Historie prohlížení
 # This label is followed, on the same line, by a dropdown list of options
 # (Remember history, etc.).
 # In English it visually creates a full sentence, e.g.
@@ -575,7 +576,7 @@ history-header = Historie
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label = Historii prohlížení
+history-remember-label = Historii prohlížených stránek
     .accesskey = i
 history-remember-option-all =
     .label = ukládat
@@ -867,6 +868,9 @@ collection-health-report-link = Zjistit více
 collection-studies =
     .label = Povolit instalaci studií
 collection-studies-link = Zobrazit studie aplikace { -brand-short-name }
+addon-recommendations =
+    .label = Povolit aplikaci { -brand-short-name } doporučovat rozšíření vybraná přímo pro mě
+addon-recommendations-link = Zjistit více
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Odesílání dat je zakázáno konfigurací tohoto sestavení
