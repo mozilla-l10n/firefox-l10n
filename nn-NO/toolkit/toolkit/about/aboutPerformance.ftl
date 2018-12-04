@@ -10,6 +10,7 @@ about-performance-title = Aktivitetshandterar
 column-name = https://ponton
 column-type = Type
 column-energy-impact = Energipåverknad
+column-memory = Minne
 
 ## Special values for the Name column
 
@@ -37,6 +38,15 @@ type-other = Anna
 energy-impact-high = Høg ({ $value })
 energy-impact-medium = Medium ({ $value })
 energy-impact-low = Låg ({ $value })
+
+## Values for the Memory column
+##
+## Variables:
+##   $value (Number) - How much memory is used
+
+size-KB = { $value } KB
+size-MB = { $value } MB
+size-GB = { $value } GB
 
 ## Tooltips for the action buttons
 
