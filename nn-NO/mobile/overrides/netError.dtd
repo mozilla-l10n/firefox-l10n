@@ -119,3 +119,6 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> brukar tryggingsteknologi som er forelda og sårbar for åtak. Ein angripar kan lett avsløra informasjon som du trudde skulle vera sikker. Administrator på nettstaden må fiksa tenaren før du kan vitja nettsida.</p><p>Feilkode: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+<!ENTITY networkProtocolError.title "Nettverksprotokollfeil">
+<!ENTITY networkProtocolError.longDesc "<p>Sida du prøvar å vise, kan ikkje visast fordi ein feil i nettverksprotokollen vart oppdaga.</p><ul><li>Ta kontakt med nettstadeigarane for å informere dei om dette problemet.</li></ul>">
