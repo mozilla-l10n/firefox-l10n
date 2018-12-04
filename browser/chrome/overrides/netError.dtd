@@ -105,7 +105,9 @@ was trying to connect. -->
 
 <!ENTITY certerror.expiredCert.secondPara "Dette problemet får du, mest sannsynleg, fordi klokka på datamaskina di er innstillt på feil tid, noko som ville hindre &brandShortName; frå å kople til trygt.">
 
+<!ENTITY certerror.sts.introPara "&brandShortName; oppdaga ein potensiell sikkerheitstrussel og held ikkje fram til <span class='hostname'/> fordi denne nettstaden krev ei sikker tilkopling.">
 
+<!ENTITY certerror.expiredCert.introPara "&brandShortName; oppdaga eit problem og held ikkje fram til <span class='hostname'/>. Nettstaden er anten feilkonfigurert eller klokka på datamaskina er stilt inn på feil tid.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Kva kan du gjere med det?">
 
