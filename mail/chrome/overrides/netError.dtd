@@ -34,7 +34,14 @@
 <!ENTITY generic.longDesc "<p>&brandShortName; nu poate încărca pagina dintr-un motiv oarecare.</p>">
 
 <!ENTITY malformedURI.title "Adresa nu este validă">
-<!ENTITY malformedURI.longDesc "<ul> <li>Adresele web se scriu de obicei așa: <strong>http://www.exemplu.ro/</strong></li> <li>Asigură-te că folosești slash-uri orientate spre dreapta (de ex., <strong>/</strong>).</li> </ul>">
+<!ENTITY malformedURI.longDesc "
+<ul>
+  <li>Adresele web se scriu de obicei:
+    <strong>http://www.exemplu.com/</strong></li>
+  <li>Asigură-te că folosești bare înclinate la dreapta (de ex.
+    <strong>/</strong>).</li>
+</ul>
+">
 
 <!ENTITY netInterrupt.title "Conexiunea a fost întreruptă">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">

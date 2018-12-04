@@ -41,7 +41,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY noModulesFound.label     "Nu au fost găsite nici un fișier și nici o aplicație din care să se importe date.">
 
 <!ENTITY back.label               "&lt; Înapoi">
-<!ENTITY forward.label            "Înainte &gt;">
+<!ENTITY forward.label            "Următorul &gt;">
 <!ENTITY finish.label             "Termină">
 <!ENTITY cancel.label             "Renunță">
 

@@ -8,7 +8,7 @@
 
 <!ENTITY dialogCompose.title                 "Compunere">
 
-<!ENTITY forwardMsg.label                     "Înaintează mesajele:">
+<!ENTITY forwardMsg.label                     "Redirecționează mesajele:">
 <!ENTITY forwardMsg.accesskey                 "n">
 <!ENTITY inline.label                         "Inclus">
 <!ENTITY asAttachment.label                   "Ca atașament">
