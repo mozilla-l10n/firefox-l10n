@@ -46,7 +46,7 @@
      Firefox. -->
 <!ENTITY fxaccount_back_to_browsing 'Înapoi la navigare'>
 
-<!ENTITY fxaccount_getting_started_welcome_to_sync 'Bun venit la &syncBrand.shortName.label;'>
+<!ENTITY fxaccount_getting_started_welcome_to_sync 'Bine ai venit la &syncBrand.shortName.label;'>
 <!ENTITY fxaccount_getting_started_description2 'Autentifică-te pentru a sincroniza filele, marcajele, parolele și altele.'>
 <!ENTITY fxaccount_getting_started_get_started 'Începe'>
 <!ENTITY fxaccount_getting_started_old_firefox 'Folosești o versiune mai veche de &syncBrand.shortName.label;?'>
