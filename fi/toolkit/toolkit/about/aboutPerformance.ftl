@@ -44,6 +44,9 @@ energy-impact-low = Pieni ({ $value })
 ## Variables:
 ##   $value (Number) - How much memory is used
 
+size-KB = { $value } kt
+size-MB = { $value } Mt
+size-GB = { $value } Gt
 
 ## Tooltips for the action buttons
 

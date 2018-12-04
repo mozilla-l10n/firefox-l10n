@@ -538,7 +538,6 @@ privacy-header = Selaimen tietosuoja
 
 ## Privacy Section - Forms
 
-forms-header = Lomakkeet ja salasanat
 logins-header = Käyttäjätunnukset ja salasanat
 forms-ask-to-save-logins =
     .label = Ehdota sivustojen käyttäjätunnusten ja salasanojen tallentamista
@@ -701,6 +700,7 @@ content-blocking-tracking-protection-option-always =
 content-blocking-tracking-protection-option-private =
     .label = Vain yksityisissä ikkunoissa
     .accesskey = y
+content-blocking-warning-title = Huomio!
 content-blocking-tracking-protection-change-block-list = Muuta estolistaa
 content-blocking-third-party-cookies-label =
     .label = Kolmannen osapuolen evästeet
@@ -723,6 +723,9 @@ content-blocking-reject-trackers-block-trackers-option =
 content-blocking-reject-trackers-all-third-parties-option =
     .label = Kaikki kolmannen osapuolen evästeet (voi aiheuttaa sivustojen toimimattomuutta)
     .accesskey = K
+content-blocking-cookies-label =
+    .label = Evästeet
+    .accesskey = E
 
 ## Privacy Section - Tracking
 
