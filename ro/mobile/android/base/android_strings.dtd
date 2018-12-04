@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY firstrun_panel_title_welcome "Bun venit">
+<!ENTITY firstrun_panel_title_welcome "Bine ai venit">
 <!ENTITY firstrun_urlbar_message2 "Îți mulțumim că ai ales &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext2 "Un browser modern mobil de la Mozilla, organizația nonprofit dedicată unui web liber și deschis.">
 <!ENTITY firstrun_panel_title_privacy "Confidențialitate">
@@ -88,7 +88,7 @@
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
 <!ENTITY screenshot_folder_label_in_bookmarks "Capturi de ecran">
-<!ENTITY readinglist_smartfolder_label_in_bookmarks "Listă de citit">
+<!ENTITY readinglist_smartfolder_label_in_bookmarks "Listă de lectură">
 
 <!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
      in the folder. -->
@@ -551,7 +551,7 @@
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
-<!ENTITY pref_scroll_title_bar2 "Navigare pe ecran complet">
+<!ENTITY pref_scroll_title_bar2 "Navigare pe tot ecranul">
 <!ENTITY pref_scroll_title_bar_summary2 "Ascunde bara de titlu din &brandShortName; când derulezi în josul paginii">
 
 <!ENTITY pref_tab_queue_title3 "File în coada de așteptare">
