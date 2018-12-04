@@ -28,3 +28,14 @@ onboarding-ghostery-text = Surf raskare, smartare eller sikrare med utvidingar s
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Synkroniser
 onboarding-fxa-text = Registrer deg for eit { -fxaccount-brand-name } og synkroniser bokmerka dine, passord og opne faner overalt der du brukar { -brand-short-name }.
+
+## Message strings belonging to the Return to AMO flow
+
+return-to-amo-sub-header = Bra, du har { -brand-short-name }
+# <icon></icon> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-header = Lat oss no hente <icon></icon><b>{ $addon-name }</b>.
+return-to-amo-extension-button = Legg til utvidinga
+return-to-amo-get-started-button = Kom i gang med { -brand-short-name }
