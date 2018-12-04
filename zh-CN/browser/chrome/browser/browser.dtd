@@ -21,8 +21,6 @@
 <!-- Tab context menu -->
 <!ENTITY  reloadTab.label                    "重新载入标签页">
 <!ENTITY  reloadTab.accesskey                "R">
-<!ENTITY  reloadAllTabs.label                "重新载入全部标签页">
-<!ENTITY  reloadAllTabs.accesskey            "A">
 <!ENTITY  selectAllTabs.label                "选择所有标签页">
 <!ENTITY  selectAllTabs.accesskey            "S">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
@@ -47,9 +45,6 @@ left instead of right. -->
 <!ENTITY  closeOtherTabs.label               "关闭其他标签页">
 <!ENTITY  closeOtherTabs.accesskey           "o">
 
-<!ENTITY  closeSelectedTabs.label            "关闭已选标签页">
-<!ENTITY  closeSelectedTabs.accesskey        "S">
-
 <!ENTITY  closeTabs.label                    "关闭多个标签页">
 <!ENTITY  closeTabs.accesskey                "S">
 <!ENTITY  pinSelectedTabs.label              "固定标签页">
@@ -62,10 +57,6 @@ same accesskey but will never be visible at the same time. -->
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinSelectedTabs.accesskey        "b">
-<!-- Reload Tab and Reload Selected Tabs have the same accesskey
-but will never be visible at the same time. -->
-<!ENTITY  reloadSelectedTabs.label           "重新载入所选标签页">
-<!ENTITY  reloadSelectedTabs.accesskey       "R">
 <!-- LOCALIZATION NOTE(reloadTab.label, reloadTabs.label): have the same accesskey
 but will never be visible at the same time. -->
 <!ENTITY  reloadTabs.label                   "重新载入多个标签页">
@@ -90,8 +81,6 @@ same accesskey but will never be visible at the same time. -->
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinTab.accesskey                 "b">
-<!ENTITY  sendTabToDevice.label              "把标签页发送到设备">
-<!ENTITY  sendTabToDevice.accesskey          "D">
 <!ENTITY  sendPageToDevice.label             "发送页面到设备">
 <!ENTITY  sendPageToDevice.accesskey         "D">
 <!ENTITY  sendLinkToDevice.label             "发送链接到设备">
@@ -110,8 +99,6 @@ These two items have the same accesskey but will never be visible at the same ti
 <!ENTITY  moveToNewWindow.accesskey          "W">
 <!ENTITY  reopenInContainer.label            "使用身份标签页打开">
 <!ENTITY  reopenInContainer.accesskey        "e">
-<!ENTITY  bookmarkAllTabs.label              "为全部标签页添加书签…">
-<!ENTITY  bookmarkAllTabs.accesskey          "T">
 <!ENTITY  bookmarkTab.label                  "为标签页添加书签">
 <!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
@@ -153,11 +140,6 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.label "书签工具栏">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "书签工具栏项目">
-
-<!ENTITY toolbarContextMenu.reloadAllTabs.label "重新载入所有标签页">
-<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "A">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "为全部标签页添加书签…">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "T">
 
 <!ENTITY toolbarContextMenu.reloadSelectedTab.label "重新载入所选标签页">
 <!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
@@ -263,9 +245,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "为此页添加书签">
 <!ENTITY editThisBookmarkCmd.label "编辑此书签">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-
-<!ENTITY subscribeToPageMenupopup.label "订阅此页">
-<!ENTITY subscribeToPageMenuitem.label "订阅此页…">
 
 <!ENTITY addCurPagesCmd.label "为所有标签页添加书签…">
 <!ENTITY showAllBookmarks2.label "管理所有书签">
@@ -382,10 +361,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY webDeveloperMenu.label       "Web 开发者">
 <!ENTITY webDeveloperMenu.accesskey   "W">
-
-<!ENTITY devtoolsRecordExecution.label "录下执行过程">
-<!ENTITY devtoolsSaveRecording.label "保存记录">
-<!ENTITY devtoolsReplayExecution.label "回放执行过程">
 
 <!ENTITY inspectContextMenu.label     "查看元素">
 <!ENTITY inspectContextMenu.accesskey "Q">
@@ -516,7 +491,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "A">
 <!ENTITY customizeMenu.manageExtension.label "管理扩展">
 <!ENTITY customizeMenu.manageExtension.accesskey "E">
-
 <!ENTITY customizeMenu.removeExtension.label "移除扩展">
 <!ENTITY customizeMenu.removeExtension.accesskey "v">
 
@@ -1021,12 +995,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackingProtection2.label "检测到的所有跟踪器">
 
 <!ENTITY contentBlocking.trackingProtection3.label "跟踪器">
-<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.allowed.label):
-     This label signals that this type of content blocking is turned
-     OFF and is not blocking tracker content, so this is not
-     a positive thing. It forms the end of the (imaginary) sentence
-     "Trackers [are] Allowed"-->
-<!ENTITY contentBlocking.trackingProtection.allowed.label "已允许">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking tracker content, so this is
@@ -1068,6 +1036,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.trackersView.label "跟踪器">
 <!ENTITY contentBlocking.trackersView.strictInfo.label "要拦截所有跟踪器，请将内容拦截设置为“严格”。">
+
+<!ENTITY contentBlocking.cookies.label "Cookie">
+<!ENTITY contentBlocking.cookiesView.label "Cookie 和网站数据">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "反馈故障">
 <!ENTITY contentBlocking.breakageReportView.label "反馈故障">
@@ -1202,11 +1173,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "页面动作">
 <!ENTITY pageAction.addToUrlbar.label "添加到地址栏">
 <!ENTITY pageAction.removeFromUrlbar.label "从地址栏移除">
-<!ENTITY pageAction.allowInUrlbar.label "在地址栏中显示">
-<!ENTITY pageAction.disallowInUrlbar.label "不在地址栏中显示">
 <!ENTITY pageAction.manageExtension.label "管理扩展…">
-
-<!ENTITY pageAction.sendTabToDevice.label "将标签页发送到设备">
 
 <!ENTITY sendToDevice.syncNotReady.label "正在同步设备…">
 
