@@ -226,7 +226,7 @@
 <!ENTITY expandAllThreadsCmd.label "Extinde toate conversațiile">
 <!ENTITY expandAllThreadsCmd.accesskey "E">
 <!ENTITY expandAllThreadsCmd.key "*">
-<!ENTITY collapseAllThreadsCmd.label "Pliază toate conversațiile">
+<!ENTITY collapseAllThreadsCmd.label "Restrânge toate conversațiile">
 <!ENTITY collapseAllThreadsCmd.accesskey "c">
 <!ENTITY collapseAllThreadsCmd.key "\">
 <!ENTITY unreadMsgsCmd.label "Necitite">

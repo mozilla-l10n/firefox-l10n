@@ -325,7 +325,7 @@
 <!ENTITY renameAttachment.accesskey "R">
 <!ENTITY reorderAttachments.label "Rearanjează atașamentele…">
 <!ENTITY reorderAttachments.accesskey "s">
-<!ENTITY removeAllAttachments.label "Înlătură toate atașamentele">
+<!ENTITY removeAllAttachments.label "Elimină toate atașamentele">
 <!ENTITY removeAllAttachments.accesskey "v">
 <!ENTITY selectAll.label "Selectează tot">
 <!ENTITY selectAll.accesskey "a">
