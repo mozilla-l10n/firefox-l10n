@@ -43,7 +43,7 @@
 
 # LOCALIZATION NOTE (nightly_blog):
 # Nightly builds only, link title for https://blog.nightly.mozilla.org/
-#define nightly_blog Firefox Nightly blog
+#define nightly_blog Firefox Nightly બ્લોગ
 
 # LOCALIZATION NOTE (bugzilla):
 # Nightly builds only, link title for https://bugzilla.mozilla.org/
@@ -55,7 +55,7 @@
 
 # LOCALIZATION NOTE (nightly_tester_tools):
 # Nightly builds only, link title for https://addons.mozilla.org/en-US/firefox/addon/nightly-tester-tools/
-#define nightly_tester_tools Nightly Tester Tools
+#define nightly_tester_tools Nightly પરીક્ષક સાધનો
 
 # LOCALIZATION NOTE (crashes):
 # Nightly builds only, link title for about:crashes
@@ -63,7 +63,7 @@
 
 # LOCALIZATION NOTE (irc):
 # Nightly builds only, link title for ircs://irc.mozilla.org/nightly
-#define irc Discuss Nightly on IRC
+#define irc IRC પર nightly વિષે ચર્ચા કરો
 
 # LOCALIZATION NOTE (planet):
 # Nightly builds only, link title for https://planet.mozilla.org/

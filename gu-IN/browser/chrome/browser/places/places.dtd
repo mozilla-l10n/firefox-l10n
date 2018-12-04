@@ -73,15 +73,11 @@
 <!ENTITY cmd.reloadLivebookmark.label      "જીવંત બુકમાર્ક પુનઃલાવો">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "R">
 
-<!ENTITY cmd.moveBookmarks.label                  "ખસેડો...">
-<!ENTITY cmd.moveBookmarks.accesskey              "M">
-
 <!ENTITY col.name.label          "નામ">
 <!ENTITY col.tags.label          "ટૅબ">
 <!ENTITY col.url.label           "સ્થાન">
 <!ENTITY col.mostrecentvisit.label "એકદમ તાજેતરની મુલાકાત">
 <!ENTITY col.visitcount.label    "મુલાકાત ગણતરી">
-<!ENTITY col.description.label   "વર્ણન">
 <!ENTITY col.dateadded.label     "એડ-ઓનયું">
 <!ENTITY col.lastmodified.label  "છેલ્લે સુધારાયું">
 
@@ -98,10 +94,6 @@
 
 <!ENTITY forwardButton.tooltip  "આગળ જાવ">
 
-<!ENTITY detailsPane.more.label "વધુ">
-<!ENTITY detailsPane.more.accesskey "e">
-<!ENTITY detailsPane.less.label "ઓછું">
-<!ENTITY detailsPane.less.accesskey "e">
 <!ENTITY detailsPane.selectAnItemText.description "વસ્તુના ગુણધર્મો જોવા અને તેમાં ફેરફાર કરવા માટે તેને પસંદ કરો">
 
 <!ENTITY view.label               "દૃશ્ય">
