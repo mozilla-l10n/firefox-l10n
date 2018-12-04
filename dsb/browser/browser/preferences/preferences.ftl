@@ -141,6 +141,8 @@ set-as-my-default-browser =
 startup-restore-previous-session =
     .label = Pjerwjejšne pósejźenje wótnowiś
     .accesskey = t
+startup-restore-warn-on-quit =
+    .label = Warnowaś, gaž se wobglědowak kóńcy
 disable-extension =
     .label = Rozšyrjenje znjemóžniś
 tabs-group-header = Rejtarki
@@ -544,7 +546,6 @@ privacy-header = Priwatnosć wobglědowaka
 
 ## Privacy Section - Forms
 
-forms-header = Formulary a gronidła
 logins-header = Pśizjawjenja a gronidła
 forms-ask-to-save-logins =
     .label = Pšašaś se, lěc se maju pśizjawjenja a gronidła składowaś
@@ -866,6 +867,9 @@ collection-health-report-link = Dalšne informacije
 collection-studies =
     .label = { -brand-short-name } dowóliś, studije instalěrowaś a pśewjasć
 collection-studies-link = Studije { -brand-short-name } pokazaś
+addon-recommendations =
+    .label = { -brand-short-name } dowóliś, personalizěrowane pśiraźenja za rozšyrjenja daś
+addon-recommendations-link = Dalšne informacije
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Datowe rozpšawjenje jo znjemóžnjone za toś tu programowu konfiguraciju
