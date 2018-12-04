@@ -90,3 +90,4 @@
 <!ENTITY blockedByPolicy.title "Blokkert side">
 
 <!ENTITY networkProtocolError.title "Nettverksprotokollfeil">
+<!ENTITY networkProtocolError.longDesc "<p>Siden du prøver å vise kan ikkje opnast fordi ein feil i nettverksprotokollen vart oppdaga.</p><ul><li>Kontakt nettstadeigarane og informer dei om dette problemet.</li></ul>">
