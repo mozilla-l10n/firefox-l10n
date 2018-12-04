@@ -62,7 +62,6 @@ category-sync =
     .tooltiptext = { pane-sync-title }
 
 help-button-label = { -brand-short-name } Support
-
 addons-button-label = Extensies & Thema’s
 
 focus-search =
@@ -686,8 +685,6 @@ sync-fxa-privacy-notice = Privacyverklaring
 privacy-header = Browserprivacy
 
 ## Privacy Section - Forms
-
-forms-header = Formulieren & Wachtwoorden
 
 logins-header = Aanmeldingen & Wachtwoorden
 forms-ask-to-save-logins =
