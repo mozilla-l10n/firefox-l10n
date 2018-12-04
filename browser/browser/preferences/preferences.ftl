@@ -141,6 +141,8 @@ set-as-my-default-browser =
 startup-restore-previous-session =
     .label = Předchadne posedźenje wobnowić
     .accesskey = b
+startup-restore-warn-on-quit =
+    .label = Warnować, hdyž so wobhladowak kónči
 disable-extension =
     .label = Rozšěrjenje znjemóžnić
 tabs-group-header = Rajtarki
@@ -544,7 +546,6 @@ privacy-header = Priwatnosć wobhladowaka
 
 ## Privacy Section - Forms
 
-forms-header = Formulary a hesła
 logins-header = Přizjewjenja a hesła
 forms-ask-to-save-logins =
     .label = Prašeć so, hač so maja přizjewjenja a hesła składować
@@ -866,6 +867,9 @@ collection-health-report-link = Dalše informacije
 collection-studies =
     .label = { -brand-short-name } dowolić, studije instalować a přewjesć
 collection-studies-link = Studije { -brand-short-name } pokazać
+addon-recommendations =
+    .label = { -brand-short-name } dowolić, personalizowane poručenja za rozšěrjenja dać
+addon-recommendations-link = Dalše informacije
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Datowe rozprawjenje je znjemóžnjene za tutu programowu konfiguraciju
