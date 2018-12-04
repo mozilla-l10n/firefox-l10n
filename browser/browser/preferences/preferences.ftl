@@ -141,6 +141,8 @@ set-as-my-default-browser =
 startup-restore-previous-session =
     .label = 回復先前的瀏覽狀態
     .accesskey = s
+startup-restore-warn-on-quit =
+    .label = 關閉瀏覽器時警告您
 disable-extension =
     .label = 停用擴充套件
 tabs-group-header = 分頁
@@ -526,7 +528,6 @@ privacy-header = 瀏覽器隱私權
 
 ## Privacy Section - Forms
 
-forms-header = 表單與密碼
 logins-header = 登入資訊與密碼
 forms-ask-to-save-logins =
     .label = 向您詢問是否要記住網站的登入帳號與密碼
@@ -848,6 +849,9 @@ collection-health-report-link = 更多資訊
 collection-studies =
     .label = 允許 { -brand-short-name } 安裝並進行研究
 collection-studies-link = 檢視 { -brand-short-name } 所進行的研究
+addon-recommendations =
+    .label = 允許 { -brand-short-name } 提供個人化的擴充套件推薦項目
+addon-recommendations-link = 了解更多
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = 進行編譯設定時，已停用了資料回報功能
