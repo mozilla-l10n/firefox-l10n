@@ -538,7 +538,6 @@ privacy-header = Tabaḍnit n iminig
 
 ## Privacy Section - Forms
 
-forms-header = Tiferka & akked awalen uffiren
 logins-header = Inekcam & wawalen uffiren
 forms-ask-to-save-logins =
     .label = Suter akken ad teskelseḍ inekcam d wawalen uffiren i yismal web
@@ -860,6 +859,7 @@ collection-health-report-link = Lmed ugar
 collection-studies =
     .label = Sireg { -brand-short-name } ad yessebded sakin ad isenker tizrawin
 collection-studies-link = Wali tizrawin n { -brand-short-name }
+addon-recommendations-link = Issin ugar
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Aneqqis n isefka ur irmid ara i uswel-a n usefsu
