@@ -10,6 +10,7 @@ about-performance-title = Upravitelj opravil
 column-name = Ime
 column-type = Vrsta
 column-energy-impact = Vpliv na energijo
+column-memory = Pomnilnik
 
 ## Special values for the Name column
 
@@ -37,6 +38,15 @@ type-other = Drugo
 energy-impact-high = velik ({ $value })
 energy-impact-medium = srednji ({ $value })
 energy-impact-low = majhen ({ $value })
+
+## Values for the Memory column
+##
+## Variables:
+##   $value (Number) - How much memory is used
+
+size-KB = { $value } KB
+size-MB = { $value } MB
+size-GB = { $value } GB
 
 ## Tooltips for the action buttons
 

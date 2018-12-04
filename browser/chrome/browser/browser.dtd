@@ -21,8 +21,6 @@
 <!-- Tab context menu -->
 <!ENTITY  reloadTab.label                    "Ponovno naloži zavihek">
 <!ENTITY  reloadTab.accesskey                "n">
-<!ENTITY  reloadAllTabs.label                "Ponovno naloži vse zavihke">
-<!ENTITY  reloadAllTabs.accesskey            "a">
 <!ENTITY  selectAllTabs.label                "Izberi vse zavihke">
 <!ENTITY  selectAllTabs.accesskey            "b">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
@@ -47,9 +45,6 @@ left instead of right. -->
 <!ENTITY  closeOtherTabs.label               "Zapri ostale zavihke">
 <!ENTITY  closeOtherTabs.accesskey           "t">
 
-<!ENTITY  closeSelectedTabs.label            "Zapri izbrane zavihke">
-<!ENTITY  closeSelectedTabs.accesskey        "Z">
-
 <!ENTITY  closeTabs.label                    "Zapri zavihke">
 <!ENTITY  closeTabs.accesskey                "Z">
 <!ENTITY  pinSelectedTabs.label              "Pripni zavihke">
@@ -62,10 +57,6 @@ same accesskey but will never be visible at the same time. -->
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinSelectedTabs.accesskey        "O">
-<!-- Reload Tab and Reload Selected Tabs have the same accesskey
-but will never be visible at the same time. -->
-<!ENTITY  reloadSelectedTabs.label           "Ponovno naloži izbrane zavihke">
-<!ENTITY  reloadSelectedTabs.accesskey       "n">
 <!-- LOCALIZATION NOTE(reloadTab.label, reloadTabs.label): have the same accesskey
 but will never be visible at the same time. -->
 <!ENTITY  reloadTabs.label                   "Ponovno naloži zavihke">
@@ -90,8 +81,6 @@ same accesskey but will never be visible at the same time. -->
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinTab.accesskey                 "O">
-<!ENTITY  sendTabToDevice.label              "Pošlji zavihek na napravo">
-<!ENTITY  sendTabToDevice.accesskey          "N">
 <!ENTITY  sendPageToDevice.label             "Pošlji stran na napravo">
 <!ENTITY  sendPageToDevice.accesskey         "N">
 <!ENTITY  sendLinkToDevice.label             "Pošlji povezavo na napravo">
@@ -110,8 +99,6 @@ These two items have the same accesskey but will never be visible at the same ti
 <!ENTITY  moveToNewWindow.accesskey          "o">
 <!ENTITY  reopenInContainer.label            "Ponovno odpri v vsebniku">
 <!ENTITY  reopenInContainer.accesskey        "v">
-<!ENTITY  bookmarkAllTabs.label              "Dodaj vse zavihke med zaznamke …">
-<!ENTITY  bookmarkAllTabs.accesskey          "v">
 <!ENTITY  bookmarkTab.label                  "Dodaj zavihek med zaznamke">
 <!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
@@ -153,11 +140,6 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.label "Vrstica zaznamkov">
 <!ENTITY personalbarCmd.accesskey "Z">
 <!ENTITY bookmarksToolbarItem.label "Predmeti orodne vrstice z zaznamki">
-
-<!ENTITY toolbarContextMenu.reloadAllTabs.label "Ponovno naloži vse zavihke">
-<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "A">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Dodaj vse zavihke med zaznamke …">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "V">
 
 <!ENTITY toolbarContextMenu.reloadSelectedTab.label "Ponovno naloži izbrani zavihek">
 <!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
@@ -264,9 +246,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editThisBookmarkCmd.label "Uredi ta zaznamek">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
-<!ENTITY subscribeToPageMenupopup.label "Naroči se na to stran">
-<!ENTITY subscribeToPageMenuitem.label "Naroči se na to stran …">
-
 <!ENTITY addCurPagesCmd.label "Dodaj vse zavihke med zaznamke …">
 <!ENTITY showAllBookmarks2.label "Prikaži vse zaznamke">
 <!ENTITY recentBookmarks.label "Nedavni zaznamki">
@@ -305,6 +284,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Shrani podatke v trajni shrambi">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Brskalnik je pod daljinskim upravljanjem">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Odpri ploščo za spletno overitev">
+
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Upravljajte dovoljenje za uporabo kamere in/ali mikrofona na tej strani">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Upravljajte dovoljenje za uporabo mikrofona na tej strani">
@@ -380,10 +360,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY webDeveloperMenu.label       "Spletni razvoj">
 <!ENTITY webDeveloperMenu.accesskey   "S">
-
-<!ENTITY devtoolsRecordExecution.label "Beleži izvajanje">
-<!ENTITY devtoolsSaveRecording.label "Shrani posnetek">
-<!ENTITY devtoolsReplayExecution.label "Ponovi izvajanje">
 
 <!ENTITY inspectContextMenu.label     "Preglej element">
 <!ENTITY inspectContextMenu.accesskey "j">
@@ -514,7 +490,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "S">
 <!ENTITY customizeMenu.manageExtension.label "Upravljaj razširitev">
 <!ENTITY customizeMenu.manageExtension.accesskey "U">
-
 <!ENTITY customizeMenu.removeExtension.label "Odstrani razširitev">
 <!ENTITY customizeMenu.removeExtension.accesskey "r">
 
@@ -1019,12 +994,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackingProtection2.label "Vsi zaznani sledilci">
 
 <!ENTITY contentBlocking.trackingProtection3.label "Sledilci">
-<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.allowed.label):
-     This label signals that this type of content blocking is turned
-     OFF and is not blocking tracker content, so this is not
-     a positive thing. It forms the end of the (imaginary) sentence
-     "Trackers [are] Allowed"-->
-<!ENTITY contentBlocking.trackingProtection.allowed.label "Dovoljeno">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking tracker content, so this is
@@ -1066,6 +1035,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.trackersView.label "Sledilci">
 <!ENTITY contentBlocking.trackersView.strictInfo.label 'Za zavračanje vseh sledilcev nastavite zavračanje vsebine na "Strogo".'>
+
+<!ENTITY contentBlocking.cookies.label "Piškotki">
+<!ENTITY contentBlocking.cookiesView.label "Piškotki in podatki strani">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Prijavi težavo">
 <!ENTITY contentBlocking.breakageReportView.label "Prijavite težave">
@@ -1200,11 +1172,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "Dejanja strani">
 <!ENTITY pageAction.addToUrlbar.label "Dodaj v naslovno vrstico">
 <!ENTITY pageAction.removeFromUrlbar.label "Odstrani iz naslovne vrstice">
-<!ENTITY pageAction.allowInUrlbar.label "Prikaži v naslovni vrstici">
-<!ENTITY pageAction.disallowInUrlbar.label "Ne prikaži v naslovni vrstici">
 <!ENTITY pageAction.manageExtension.label "Upravljaj razširitev ...">
-
-<!ENTITY pageAction.sendTabToDevice.label "Pošlji zavihek na napravo">
 
 <!ENTITY sendToDevice.syncNotReady.label "Sinhroniziranje naprav ...">
 

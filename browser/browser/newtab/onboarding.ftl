@@ -28,3 +28,7 @@ onboarding-ghostery-text = Brskajte hitreje, pametneje in varneje z razširitvam
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Sinhronizacija
 onboarding-fxa-text = Ustvarite { -fxaccount-brand-name } ter sinhronizirajte svoje zaznamke, gesla in odprte zavihke povsod, kjer uporabljate { -brand-short-name }.
+
+## Message strings belonging to the Return to AMO flow
+
+return-to-amo-extension-button = Dodaj razširitev
