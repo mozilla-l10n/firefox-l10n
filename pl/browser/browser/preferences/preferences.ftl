@@ -540,6 +540,7 @@ content-blocking-setting-strict=
 content-blocking-setting-custom=
   .label=Własne
   .accesskey=W
+content-blocking-standard-description=Blokowanie znanych elementów śledzących tylko w oknach prywatnych.
 content-blocking-standard-desc=Wyważone pod kątem ochrony i szybkości wczytywania stron. Dopuszcza pewne elementy śledzące, aby strony działały prawidłowo.
 content-blocking-strict-desc=Blokowanie wszystkich wykrytych elementów śledzących. Może powodować problemy ze stronami.
 content-blocking-private-trackers=Blokowanie znanych elementów śledzących w oknach prywatnych.
