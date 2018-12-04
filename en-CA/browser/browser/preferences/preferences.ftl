@@ -141,6 +141,8 @@ set-as-my-default-browser =
 startup-restore-previous-session =
     .label = Restore previous session
     .accesskey = s
+startup-restore-warn-on-quit =
+    .label = Warn you when quitting the browser
 disable-extension =
     .label = Disable Extension
 tabs-group-header = Tabs
@@ -538,7 +540,6 @@ privacy-header = Browser Privacy
 
 ## Privacy Section - Forms
 
-forms-header = Forms & Passwords
 logins-header = Logins & Passwords
 forms-ask-to-save-logins =
     .label = Ask to save logins and passwords for websites
@@ -860,6 +861,9 @@ collection-health-report-link = Learn More
 collection-studies =
     .label = Allow { -brand-short-name } to install and run studies
 collection-studies-link = View { -brand-short-name } studies
+addon-recommendations =
+    .label = Allow { -brand-short-name } to make personalized extension recommendations
+addon-recommendations-link = Learn more
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Data reporting is disabled for this build configuration
