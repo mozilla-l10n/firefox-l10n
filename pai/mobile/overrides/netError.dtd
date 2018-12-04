@@ -7,8 +7,8 @@
 
 <!ENTITY loadError.label "Jachuyal jabch hay upar">
 <!ENTITY retry.label "Tkweek wiyi">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Kos tublich kyaaw yutem">
 <!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
@@ -19,6 +19,18 @@
 <!ENTITY dnsNotFound.title "Paa kubtaar kos chyawtem">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
+<!ENTITY dnsNotFound.longDesc4 "<ul>
+  <li>Mtñur ch´chamchu tñur kwimchuhal yok yabyuka:
+    <strong>ww</strong>.example.com yabyutemka
+    <strong>www</strong>.example.com</li>
+    <div id='searchbox'>
+      <input id='searchtext' type='search'></input>
+      <button id='searchbutton'>Ŕmee</button>
+    </div>
+  <li>Kos tñur uchú mjukewkyaw myutem myus, tublich chi Wi-Fi dispositiiv chpach chu mwiha.
+    <button id='wifi'>Wi-Fi mchubowu</button>
+  </li>
+</ul>">
 
 <!ENTITY fileNotFound.title "Chapayt chkwawu kos chyawtem">
 <!ENTITY fileNotFound.longDesc "<ul> <li>M' uka chapayt chkwachu mulhay kos chamch wiiytem hikyawa.</li> <li>Mŕmee m'uka chapayt chkwachuhay kur ŕmaarb o ipee o tkwek chaab tñuurb kabyuwuha.</li> </ul>">
@@ -32,12 +44,21 @@
 <!ENTITY malformedURI.title "Jabchu kos buyutem">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY malformedURI.longDesc2 "<ul>
+  <li>Tñur kwimchu amchuhay pichtem yabyuyik
+    <strong>http://www.example.com/</strong></li>
+    <div id='searchbox'>
+      <input id='searchtext' type='search'></input>
+      <button id='searchbutton'>Ŕmee</button>
+    </div>
+  <li>M´uh majanuka trchech chu oblicuas ham mtrechyha (Yabyuka:
+    <strong>/</strong>).</li>
+</ul>">
 
 <!ENTITY netInterrupt.title "Tublich chu hay ket">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "Tñur kur kjkee">
-
 
 <!ENTITY netOffline.title "Chyuch kos tublichtpaay">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
@@ -90,16 +111,15 @@
 <!ENTITY securityOverride.linkText "O nyumuk mnmakya…">
 <!ENTITY securityOverride.getMeOutOfHereButton "¡Yak muchpachu!">
 <!ENTITY securityOverride.exceptionButtonLabel "Sa ujkewchuha sal mchmii…">
+
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
-
 <!ENTITY securityOverride.warningContent "<p>Kos ñulm'utemha sal mchmiteka internet myohmwaha kos janmihmahanutem myuso o kubtaarhay ñmukunaabum ñulm'eebmajuntem myuchmyuso.</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY remoteXUL.title "XUL yumyuch">
-
 
 <!ENTITY sslv3Used.title "M'mirmir mtublichkyaw yutem">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
@@ -114,3 +134,4 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY inadequateSecurityError.title "Mtublichu kos mirmir januteem">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+
