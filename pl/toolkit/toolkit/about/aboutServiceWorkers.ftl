@@ -29,6 +29,7 @@ app-title = { $appId } (ID aplikacji { -brand-short-name }) - InBrowserElement (
 
 scope = <strong>Zakres:</strong> { $name }
 script-spec = <strong>Specyfikacja skryptu:</strong> <a data-l10n-name="link">{ $url }</a>
+current-worker-url = <strong>Bieżący adres URL wątku:</strong> <a data-l10n-name="link">{ $url }</a>
 active-cache-name = <strong>Aktywna pamięć podręczna:</strong> { $name }
 waiting-cache-name = <strong>Oczekująca pamięć podręczna:</strong> { $name }
 push-end-point-waiting = <strong>pushEndpoint:</strong> { waiting }
