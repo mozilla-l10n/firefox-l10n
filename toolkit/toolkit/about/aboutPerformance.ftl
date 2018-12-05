@@ -10,6 +10,7 @@ about-performance-title = Pengelola Tugas
 column-name = Nama
 column-type = Tipe
 column-energy-impact = Dampak Energi
+column-memory = Memori
 
 ## Special values for the Name column
 
@@ -37,6 +38,15 @@ type-other = Lainnya
 energy-impact-high = Tinggi ({ $value })
 energy-impact-medium = Menengah ({ $value })
 energy-impact-low = Rendah ({ $value })
+
+## Values for the Memory column
+##
+## Variables:
+##   $value (Number) - How much memory is used
+
+size-KB = { $value } KB
+size-MB = { $value } MB
+size-GB = { $value } GB
 
 ## Tooltips for the action buttons
 
