@@ -538,7 +538,6 @@ privacy-header = Confidentialitate del navigator
 
 ## Privacy Section - Forms
 
-forms-header = Formularios e contrasignos
 logins-header = Authenticationes & contrasignos
 forms-ask-to-save-logins =
     .label = Demanda de salvar authenticationes e contrasignos de sito
@@ -635,6 +634,8 @@ sitedata-block-all-third-party-option =
     .label = Tote le cookies de tertie-partes (pote causar que sitos web collabe)
 sitedata-block-all-option =
     .label = Tote le cookies (causara que sitos web collabe)
+sitedata-option-block-trackers =
+    .label = Traciatores de tertie partes
 sitedata-clear =
     .label = Clarar le datos...
     .accesskey = l
@@ -847,6 +848,7 @@ collection-health-report-link = Saper plus
 collection-studies =
     .label = Autorisar { -brand-short-name } a installar e a lancear studios
 collection-studies-link = Consultar le studios de { -brand-short-name }
+addon-recommendations-link = Saper plus
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Le reporto de datos es inactive pro iste configuration de compilation
