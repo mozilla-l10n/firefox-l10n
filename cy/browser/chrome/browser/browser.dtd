@@ -21,8 +21,6 @@
 <!-- Tab context menu -->
 <!ENTITY  reloadTab.label                    "Ail lwytho Tab">
 <!ENTITY  reloadTab.accesskey                "A">
-<!ENTITY  reloadAllTabs.label                "Ail lwytho Pob Tab">
-<!ENTITY  reloadAllTabs.accesskey            "P">
 <!ENTITY  selectAllTabs.label                "Dewis Pob Tab">
 <!ENTITY  selectAllTabs.accesskey            "D">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
@@ -47,9 +45,6 @@ left instead of right. -->
 <!ENTITY  closeOtherTabs.label               "Cau Tabiau Eraill">
 <!ENTITY  closeOtherTabs.accesskey           "C">
 
-<!ENTITY  closeSelectedTabs.label            "Cau'r Tabiau Hyn">
-<!ENTITY  closeSelectedTabs.accesskey        "T">
-
 <!ENTITY  closeTabs.label                    "Cau Tabiau">
 <!ENTITY  closeTabs.accesskey                "T">
 <!ENTITY  pinSelectedTabs.label              "Pinio Tabiau">
@@ -62,10 +57,6 @@ same accesskey but will never be visible at the same time. -->
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinSelectedTabs.accesskey        "b">
-<!-- Reload Tab and Reload Selected Tabs have the same accesskey
-but will never be visible at the same time. -->
-<!ENTITY  reloadSelectedTabs.label           "Ail lwytho'r Tabiau Hyn">
-<!ENTITY  reloadSelectedTabs.accesskey       "A">
 <!-- LOCALIZATION NOTE(reloadTab.label, reloadTabs.label): have the same accesskey
 but will never be visible at the same time. -->
 <!ENTITY  reloadTabs.label                   "Ail-lwytho Tabiau">
@@ -90,8 +81,6 @@ same accesskey but will never be visible at the same time. -->
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinTab.accesskey                 "D">
-<!ENTITY  sendTabToDevice.label              "Anfon Tab i Ddyfais">
-<!ENTITY  sendTabToDevice.accesskey          "D">
 <!ENTITY  sendPageToDevice.label             "Anfon Tudalen i Ddyfais">
 <!ENTITY  sendPageToDevice.accesskey         "D">
 <!ENTITY  sendLinkToDevice.label             "Anfon Dolen i Ddyfais">
@@ -110,8 +99,6 @@ These two items have the same accesskey but will never be visible at the same ti
 <!ENTITY  moveToNewWindow.accesskey          "N">
 <!ENTITY  reopenInContainer.label            "Ail agor mewn Cynhwysydd">
 <!ENTITY  reopenInContainer.accesskey        "A">
-<!ENTITY  bookmarkAllTabs.label              "Nod Tudalen i Bob Tab…">
-<!ENTITY  bookmarkAllTabs.accesskey          "T">
 <!ENTITY  bookmarkTab.label                  "Gosod Nod Tudalen i'r Tab">
 <!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
@@ -153,11 +140,6 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.label "Bar Offer Nodau Tudalen">
 <!ENTITY personalbarCmd.accesskey "N">
 <!ENTITY bookmarksToolbarItem.label "Eitemau Bar Offer Nodau Tudalen">
-
-<!ENTITY toolbarContextMenu.reloadAllTabs.label "Ail lwytho Pob Tab">
-<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "P">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Nod Tudalen i Bob Tab…">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "T">
 
 <!ENTITY toolbarContextMenu.reloadSelectedTab.label "Ail Lwytho'r Tab Hwn">
 <!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
@@ -263,9 +245,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "Gosod Nod Tudalen i'r Dudalen">
 <!ENTITY editThisBookmarkCmd.label "Golygu'r Nod Tudalen">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-
-<!ENTITY subscribeToPageMenupopup.label "Tanysgrifio i'r Dudalen Hon">
-<!ENTITY subscribeToPageMenuitem.label "Tanysgrifio i'r Dudalen Hon…">
 
 <!ENTITY addCurPagesCmd.label "Nod Tudalen i Bob Tab…">
 <!ENTITY showAllBookmarks2.label "Dangos Pob Nod Tudalen">
@@ -382,10 +361,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY webDeveloperMenu.label       "Datblygwr Gwe">
 <!ENTITY webDeveloperMenu.accesskey   "D">
-
-<!ENTITY devtoolsRecordExecution.label "Cofnodi Gweithred">
-<!ENTITY devtoolsSaveRecording.label "Cadw Recordiad">
-<!ENTITY devtoolsReplayExecution.label "Ail Chwarae'r Gweithredu">
 
 <!ENTITY inspectContextMenu.label     "Archwilio Elfen">
 <!ENTITY inspectContextMenu.accesskey "Q">
@@ -516,7 +491,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "A">
 <!ENTITY customizeMenu.manageExtension.label "Rheoli Estyniad">
 <!ENTITY customizeMenu.manageExtension.accesskey "E">
-
 <!ENTITY customizeMenu.removeExtension.label "Tynnu'r Estyniad">
 <!ENTITY customizeMenu.removeExtension.accesskey "T">
 
@@ -1021,12 +995,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackingProtection2.label "Pob Traciwr wedi ei Ganfod">
 
 <!ENTITY contentBlocking.trackingProtection3.label "Tracwyr">
-<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.allowed.label):
-     This label signals that this type of content blocking is turned
-     OFF and is not blocking tracker content, so this is not
-     a positive thing. It forms the end of the (imaginary) sentence
-     "Trackers [are] Allowed"-->
-<!ENTITY contentBlocking.trackingProtection.allowed.label "Caniatawyd">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking tracker content, so this is
@@ -1068,6 +1036,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.trackersView.label "Tracwyr">
 <!ENTITY contentBlocking.trackersView.strictInfo.label 'I rwystro pob traciwr, gosodwch rhwystro cynnwys "Llym".'>
+
+<!ENTITY contentBlocking.cookies.label "Cwcis">
+<!ENTITY contentBlocking.cookiesView.label "Cwcis a Data Gwefan">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Adrodd ar broblem">
 <!ENTITY contentBlocking.breakageReportView.label "Adrodd ar Broblemau">
@@ -1202,11 +1173,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "Gweithredoedd tudalen">
 <!ENTITY pageAction.addToUrlbar.label "Ychwanegu i'r Llyfr Cyfeiriadau">
 <!ENTITY pageAction.removeFromUrlbar.label "Tynnu o'r Bar Cyfeiriadau">
-<!ENTITY pageAction.allowInUrlbar.label "Dangos yn y Bar Cyfeiriad">
-<!ENTITY pageAction.disallowInUrlbar.label "Peidio dangos yn y Bar Cyfeiriad">
 <!ENTITY pageAction.manageExtension.label "Rheoli Estyniad…">
-
-<!ENTITY pageAction.sendTabToDevice.label "Anfon Tab i Ddyfais">
 
 <!ENTITY sendToDevice.syncNotReady.label "Cydweddu Dyfeisiau…">
 
