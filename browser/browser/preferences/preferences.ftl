@@ -141,6 +141,8 @@ set-as-my-default-browser =
 startup-restore-previous-session =
     .label = Узнаўляць папярэдні сеанс
     .accesskey = с
+startup-restore-warn-on-quit =
+    .label = Папярэджваць пры выхадзе з браўзера
 disable-extension =
     .label = Адключыць пашырэнне
 tabs-group-header = Карткі
@@ -541,7 +543,6 @@ privacy-header = Прыватнасць браўзера
 
 ## Privacy Section - Forms
 
-forms-header = Формы & паролі
 logins-header = Лагіны & Паролі
 forms-ask-to-save-logins =
     .label = Прапаноўваць захаваць лагіны і паролі для вэб-сайтаў
@@ -638,6 +639,14 @@ sitedata-block-all-third-party-option =
     .label = Усе кукі трэцяга боку (можа парушыць працу вэб-сайтаў)
 sitedata-block-all-option =
     .label = Усе кукі (парушыць працу вэб-сайтаў)
+sitedata-option-block-trackers =
+    .label = Трэкеры трэцяга боку
+sitedata-option-block-unvisited =
+    .label = Кукі з ненаведаных вэб-сайтаў
+sitedata-option-block-all-third-party =
+    .label = Усе кукі трэцяга боку (можа парушыць працу сайтаў)
+sitedata-option-block-all =
+    .label = Усе кукі (будзе перашкаджаць працы сайтаў)
 sitedata-clear =
     .label = Выдаліць дадзеныя…
     .accesskey = ы
@@ -719,6 +728,7 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = Адмыслова
     .accesskey = с
+content-blocking-standard-description = Блакуе толькі вядомыя трэкеры ў прыватных вокнах.
 content-blocking-standard-desc = Збалансаваная абарона і прадукцыйнасць. Дазваляе некаторыя трэкеры, таму сайты працуюць спраўна.
 content-blocking-strict-desc = Блакуе ўсе трэкеры, якія { -brand-short-name } заўважае. Можа парушыць працу некаторых сайтаў.
 content-blocking-custom-desc = Выберыце, што блакаваць.
@@ -854,6 +864,9 @@ collection-health-report-link = Даведацца больш
 collection-studies =
     .label = Дазволіць { -brand-short-name } усталёўваць і выконваць даследаванні
 collection-studies-link = Прагляд даследаванняў { -brand-short-name }
+addon-recommendations =
+    .label = Дазволіць { -brand-short-name } рабіць персаналізаваныя рэкамендацыі пашырэнняў
+addon-recommendations-link = Падрабязней
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Адпраўка дадзеных адключана для гэтай канфігурацыі зборкі
