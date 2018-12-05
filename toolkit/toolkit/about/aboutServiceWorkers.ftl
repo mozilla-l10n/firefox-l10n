@@ -5,6 +5,10 @@
 
 ### The term "Service Workers" and "Workers" should not be translated
 
+about-service-workers-title = Om service workers
+about-service-workers-main-title = Registrerede service workers
+about-service-workers-warning-not-enabled = Service workers er ikke aktiveret.
+about-service-workers-warning-no-service-workers = Ingen service workers registreret.
 # The original title of service workers' information
 #
 # Variables:
