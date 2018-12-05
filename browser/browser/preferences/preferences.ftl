@@ -538,7 +538,6 @@ privacy-header = Vie privée
 
 ## Privacy Section - Forms
 
-forms-header = Formulaires et mots de passe
 logins-header = Identifiants et mots de passe
 forms-ask-to-save-logins =
     .label = Proposer d’enregistrer les identifiants et les mots de passe pour les sites web
@@ -728,7 +727,7 @@ content-blocking-standard-description = Bloque uniquement les traqueurs connus d
 content-blocking-standard-desc = Équilibré entre protection et performances. Autorise quelques traqueurs pour que les sites web fonctionnent correctement.
 content-blocking-strict-desc = Bloque tous les traqueurs détectés par { -brand-short-name }. Peut provoquer le dysfonctionnement de certains sites.
 content-blocking-custom-desc = Choisissez ce que vous souhaitez bloquer.
-content-blocking-private-trackers = Les traqueurs connus dans les fenêtres de navigation privée seulement.
+content-blocking-private-trackers = Les traqueurs connus dans les fenêtres de navigation privée seulement
 content-blocking-third-party-cookies = Les cookies tiers utilisés pour le pistage
 content-blocking-all-windows-trackers = Les traqueurs connus dans toutes les fenêtres
 content-blocking-all-third-party-cookies = Tous les cookies tiers
