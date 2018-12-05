@@ -141,6 +141,8 @@ set-as-my-default-browser =
 startup-restore-previous-session =
     .label = Adfer sesiwn flaenorol
     .accesskey = A
+startup-restore-warn-on-quit =
+    .label = Rhybuddio wrth adael y porwr
 disable-extension =
     .label = Analluogi Estyniad
 tabs-group-header = Tabiau
@@ -550,7 +552,6 @@ privacy-header = Preifatrwydd y Porwr
 
 ## Privacy Section - Forms
 
-forms-header = Ffurflenni a Chyfrineiriau
 logins-header = Mewngofnodion a Chyfrineiriau
 forms-ask-to-save-logins =
     .label = Gofyn i gadw mewngofnodion a chyfrineiriau ar gyfer gwefannau
@@ -872,6 +873,9 @@ collection-health-report-link = Dysgu rhagor
 collection-studies =
     .label = Caniatáu i { -brand-short-name } osod a rhedeg astudiaethau
 collection-studies-link = Gweld astudiaethau { -brand-short-name }
+addon-recommendations =
+    .label = Caniatáu i { -brand-short-name } wneud argymhellion personol am estyniadau
+addon-recommendations-link = Dysgu rhagor
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Mae adrodd ar ddata wedi ei analluogi ar gyfer ffurfweddiad yr adeiledd hwn
