@@ -141,6 +141,8 @@ set-as-my-default-browser =
 startup-restore-previous-session =
     .label = Előző munkamenet helyreállítása
     .accesskey = h
+startup-restore-warn-on-quit =
+    .label = Figyelmeztetés, amikor kilép a böngészőből
 disable-extension =
     .label = Kiegészítő letiltása
 tabs-group-header = Lapok
@@ -538,7 +540,6 @@ privacy-header = Böngésző adatvédelme
 
 ## Privacy Section - Forms
 
-forms-header = Űrlapok és jelszavak
 logins-header = Bejelentkezések és jelszavak
 forms-ask-to-save-logins =
     .label = Felhasználónevek és jelszavak megjegyzésének megkérdezése az oldalakhoz
@@ -860,6 +861,9 @@ collection-health-report-link = További tudnivalók
 collection-studies =
     .label = Engedélyezés, hogy a { -brand-short-name } tanulmányokat telepítsen és futasson
 collection-studies-link = { -brand-short-name } tanulmányok megtekintése
+addon-recommendations =
+    .label = Engedélyezés, hogy a { -brand-short-name } személyre szabott kiegészítő ajánlásokat tegyen
+addon-recommendations-link = További tudnivalók
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Az adatjelentést letiltották ehhez a binárishoz
