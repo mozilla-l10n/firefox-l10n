@@ -28,3 +28,8 @@ onboarding-ghostery-text = 귀찮은 광고들로부터 여러분을 막아주�
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Sync
 onboarding-fxa-text = { -fxaccount-brand-name }에 가입해 { -brand-short-name }를 사용하는 모든 곳에서 북마크, 암호, 열린 탭들을 동기화하세요.
+
+## Message strings belonging to the Return to AMO flow
+
+return-to-amo-extension-button = 확장 기능 추가
+return-to-amo-get-started-button = { -brand-short-name } 시작하기
