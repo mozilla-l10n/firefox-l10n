@@ -538,7 +538,6 @@ privacy-header = Privacy del browser
 
 ## Privacy Section - Forms
 
-forms-header = Moduli e password
 logins-header = Accessi e password
 forms-ask-to-save-logins =
     .label = Chiedi se salvare le credenziali di accesso ai siti web
