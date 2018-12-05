@@ -526,7 +526,6 @@ privacy-header = Privasi Peramban
 
 ## Privacy Section - Forms
 
-forms-header = Formulir & Sandi
 logins-header = Info Masuk & Sandi
 forms-ask-to-save-logins =
     .label = Minta untuk menyimpan info masuk dan kata sandi untuk situs web
@@ -623,6 +622,8 @@ sitedata-block-all-third-party-option =
     .label = Semua kuki pihak ketiga (mungkin menyebabkan situs tidak bekerja)
 sitedata-block-all-option =
     .label = Semua kuki (akan menyebabkan situs tidak bekerja)
+sitedata-option-block-trackers =
+    .label = Pelacak pihak ketiga
 sitedata-clear =
     .label = Hapus Data…
     .accesskey = H
@@ -679,10 +680,6 @@ content-blocking-fastblock-slow-loading-trackers-label =
     .label = Pelacak yang Dimuat Lambat
     .accesskey = L
 content-blocking-fastblock-new-description = Hanya blokir pelacak yang membuat laman lambat dimuat.
-content-blocking-setting-standard =
-    .label = Standar
-    .accesskey = S
-content-blocking-custom-desc = Pilih yang diblokir.
 content-blocking-tracking-protection-trackers-label =
     .label = Pelacak
     .accesskey = P
@@ -696,6 +693,13 @@ content-blocking-tracking-protection-option-always =
 content-blocking-tracking-protection-option-private =
     .label = Hanya di jendela pribadi
     .accesskey = p
+# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+content-blocking-setting-standard =
+    .label = Standar
+    .accesskey = S
+content-blocking-custom-desc = Pilih yang diblokir.
+content-blocking-third-party-cookies = Kuki pelacak pihak ketiga
 content-blocking-tracking-protection-change-block-list = Ubah daftar blokir
 content-blocking-third-party-cookies-label =
     .label = Kuki Pihak Ketiga
@@ -812,6 +816,7 @@ collection-health-report-link = Pelajari Lebih Lanjut
 collection-studies =
     .label = Izinkan { -brand-short-name } untuk memasang dan menjalankan kajian
 collection-studies-link = Lihat kajian { -brand-short-name }
+addon-recommendations-link = Pelajari lebih lanjut
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Pelaporan data dinonaktifkan untuk konfigurasi build ini
