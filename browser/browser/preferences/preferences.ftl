@@ -700,6 +700,7 @@ content-blocking-setting-standard =
     .accesskey = S
 content-blocking-custom-desc = Pilih yang diblokir.
 content-blocking-third-party-cookies = Kuki pelacak pihak ketiga
+content-blocking-all-third-party-cookies = Semua kuki pihak ketiga
 content-blocking-tracking-protection-change-block-list = Ubah daftar blokir
 content-blocking-third-party-cookies-label =
     .label = Kuki Pihak Ketiga
