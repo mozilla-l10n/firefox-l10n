@@ -141,6 +141,8 @@ set-as-my-default-browser =
 startup-restore-previous-session =
     .label = Відновити попередній сеанс
     .accesskey = В
+startup-restore-warn-on-quit =
+    .label = Попереджати при виході з браузера
 disable-extension =
     .label = Вимкнути розширення
 tabs-group-header = Вкладки
@@ -541,7 +543,6 @@ privacy-header = Приватність браузера
 
 ## Privacy Section - Forms
 
-forms-header = Форми і Паролі
 logins-header = Входи і паролі
 forms-ask-to-save-logins =
     .label = Запит збереження паролів для веб-сайтів
@@ -863,6 +864,9 @@ collection-health-report-link = Докладніше
 collection-studies =
     .label = Дозволити { -brand-short-name } встановлювати й виконувати дослідження
 collection-studies-link = Переглянути дослідження { -brand-short-name }
+addon-recommendations =
+    .label = Дозволити { -brand-short-name } робити персоналізовані рекомендації розширень
+addon-recommendations-link = Докладніше
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Відправлення даних вимкнено для цієї конфігурації збірки
