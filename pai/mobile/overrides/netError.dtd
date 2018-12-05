@@ -106,6 +106,12 @@
 
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY sharedLongDesc3 "<ul>
+  <li>Amchu yay kos soltem kwa o trchech tewulim wiiy. Mtkweek mwiyik.</li>
+  <li>Kos tñur uchú mjukewkyaw myutem myus, tublich chi Wi-Fi dispositiiv chpach chu mwiha.
+    <button id='wifi'>Wi-Fi mchubowu</button>
+  </li>
+</ul>">
 
 <!ENTITY cspBlocked.title "Ch chyabchun namaan chapayt yak kyoya ŕ' amch">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; hay kos nmakum chyaku yakyoya jukawutem ch chyabch chu ham nyaam chpaytha nmakum kjketem.</p>">
@@ -125,6 +131,7 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY securityOverride.warningContent "<p>Kos ñulm'utemha sal mchmiteka internet myohmwaha kos janmihmahanutem myuso o kubtaarhay ñmukunaabum ñulm'eebmajuntem myuchmyuso.</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY remoteXUL.title "XUL yumyuch">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Kamwih mumuu amchu web kñkwiiyham mknaaw chapayt k`klyeebha paa mukunabhikyawa.</li></ul></p>">
 
 <!ENTITY sslv3Used.title "M'mirmir mtublichkyaw yutem">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
@@ -139,4 +146,8 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY inadequateSecurityError.title "Mtublichu kos mirmir januteem">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> Tecnologiiy jankrabham mtrchech paa jwayaach kyaaw kos trchechñtem ñwak kos jantñtemum. Paa jwakyahay chapayt byaw ik knaabyuk maay ñubyukabyuu mik wañmŕibm. Amchu ha paa ktrcheech hay chapayt k`klyeba chajana may kos amchuha mbaam temtka.</p><p>Codig ch`chaamch: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
+<!ENTITY networkProtocolError.title "Protocol redhal ch`chaamch">
+<!ENTITY networkProtocolError.longDesc "<p>Tñur ŕmeechu m`uhi munuuhay , kos uuch yutem protocool redhal ch`chamch sal yom uuch.</p><ul>
+<li>Kamwih mumuu.Amchu web kñkwiiyham mknaaw chapayt k`klyeebha paa mukunabhikyawa.</li></ul>">
