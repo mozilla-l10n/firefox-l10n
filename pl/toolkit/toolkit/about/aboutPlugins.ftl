@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = O wtyczkach
+installed-plugins-label = Zainstalowane wtyczki
+no-plugins-are-installed-label = Nie znaleziono zainstalowanych wtyczek
 
 ## The information of plugins
 ##
@@ -11,12 +13,19 @@ title-label = O wtyczkach
 ##   $pluginFullPath: path of the plugin
 ##   $version: version of the plugin
 
+file-dd = <span data-l10n-name="file">Plik:</span> { $pluginLibraries }
+path-dd = <span data-l10n-name="path">Ścieżka:</span> { $pluginFullPath }
+version-dd = <span data-l10n-name="version">Wersja:</span> { $version }
 
 ## These strings describe the state of plugins
 ##
 ## Variables:
 ##   $blockListState: show some special state of the plugin, such as blocked, outdated
 
+state-dd-enabled = <span data-l10n-name="state">Stan:</span> Włączony
+state-dd-enabled-block-list-state = <span data-l10n-name="state">Stan:</span> Włączony ({ $blockListState })
+state-dd-Disabled = <span data-l10n-name="state">Stan:</span> Wyłączony
+state-dd-Disabled-block-list-state = <span data-l10n-name="state">Stan:</span> Wyłączony ({ $blockListState })
 mime-type-label = Typ MIME
 description-label = Opis
 suffixes-label = Rozszerzenia
