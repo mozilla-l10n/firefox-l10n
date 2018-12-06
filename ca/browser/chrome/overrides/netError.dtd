@@ -10,9 +10,9 @@
 <!ENTITY returnToPreviousPage.label "Vés enrere">
 <!ENTITY returnToPreviousPage1.label "Vés enrere (recomanat)">
 <!ENTITY advanced.label "Avançat">
-
 <!ENTITY continue2.label "Més…">
 <!ENTITY moreInformation.label "Més informació">
+<!ENTITY viewCertificate.label "Mostra el certificat">
 
 <!-- Specific error messages -->
 
@@ -97,10 +97,8 @@
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "El propietari de <span class='hostname'/> ha configurat el lloc web incorrectament. Per protegir la vostra informació contra robatori, el &brandShortName; no s'ha connectat a aquest lloc web.">
-
 <!ENTITY certerror.introPara2 "El &brandShortName; ha detectat una amenaça potencial de seguretat i ha interromput la connexió a <span class='hostname'/>. Si visiteu aquest lloc, els atacants podrien robar informació com ara contrasenyes, correus electrònics o detalls de targetes de crèdit.">
 
-<!ENTITY certerror.expiredCert.secondPara "És probable que aquest problema sigui perquè l'hora del rellotge del vostre ordinador és incorrecta, cosa que podria impedir que el &brandShortName; es connecti de forma segura.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Què hi podeu fer?">
 
@@ -128,7 +126,6 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Afegeix una excepció…">
-
 <!ENTITY securityOverride.exceptionButton1Label "Accepto el risc i vull continuar">
 
 <!ENTITY errorReporting.automatic2 "Informa dels errors com aquest per ajudar a Mozilla a identificar i a blocar els llocs maliciosos">
@@ -161,8 +158,11 @@ was trying to connect. -->
 
 <!ENTITY blockedByPolicy.title "Pàgina blocada">
 
+
 <!ENTITY clockSkewError.title "L'hora del vostre ordinador no és correcta">
 <!ENTITY clockSkewError.longDesc "Segons el vostre ordinador, la data i l'hora actuals són: <span id='wrongSystemTime_systemDate1'/>, cosa que impedeix al &brandShortName; establir una connexió segura. Per visitar <span class='hostname'></span>, actualitzeu el rellotge de l'ordinador als paràmetres del sistema per tal que coincideixi amb la data i hora actuals i el fus horari i, a continuació, torneu a carregar <span class='hostname'></span>.">
 
 <!ENTITY prefReset.longDesc "Sembla que la configuració actual de seguretat a la xarxa està causant aquest error. Voleu utilitzar la configuració per defecte?">
 <!ENTITY prefReset.label "Restaura la configuració per defecte">
+
+<!ENTITY networkProtocolError.longDesc "<p>La pàgina que esteu intentant veure no es pot mostrar perquè s'ha produït un error del protocol de xarxa.</p><ul><li>Poseu-vos en contacte amb els propietaris del lloc web per informar-los del problema.</li></ul>">
