@@ -19,4 +19,8 @@ version-dd = <span data-l10n-name="version">ვერსია:</span> { $versio
 ## Variables:
 ##   $blockListState: show some special state of the plugin, such as blocked, outdated
 
+state-dd-enabled = <span data-l10n-name="state">მდგომარეობა:</span> ჩართულია
+state-dd-enabled-block-list-state = <span data-l10n-name="state">მდგომარეობა:</span> ჩართულია ({ $blockListState })
+state-dd-Disabled = <span data-l10n-name="state">მდგომარეობა:</span> ამორთულია
+state-dd-Disabled-block-list-state = <span data-l10n-name="state">მდგომარეობა:</span> ამორთულია ({ $blockListState })
 description-label = აღწერილობა
