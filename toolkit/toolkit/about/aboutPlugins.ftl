@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = Um tengiforrit
+installed-plugins-label = Uppsett tengiforrit
+no-plugins-are-installed-label = Fann ekki nein uppsett tengiforrit
 
 ## The information of plugins
 ##
