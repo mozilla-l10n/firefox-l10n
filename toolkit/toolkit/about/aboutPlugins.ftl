@@ -5,6 +5,7 @@
 title-label = Про плагіни
 installed-plugins-label = Встановлені плагіни
 no-plugins-are-installed-label = Встановлених плагінів не знайдено
+deprecation-description = Чогось не вистачає? Деякі плагіни більше не підтримуються. <a data-l10n-name="deprecation-link">Докладніше.</a>
 
 ## The information of plugins
 ##
@@ -14,6 +15,7 @@ no-plugins-are-installed-label = Встановлених плагінів не 
 ##   $version: version of the plugin
 
 file-dd = <span data-l10n-name="file">Файл:</span> { $pluginLibraries }
+path-dd = <span data-l10n-name="path">Шлях:</span> { $pluginFullPath }
 version-dd = <span data-l10n-name="version">Версія:</span> { $version }
 
 ## These strings describe the state of plugins
