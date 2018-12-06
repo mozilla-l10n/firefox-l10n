@@ -26,5 +26,6 @@ state-dd-enabled = <span data-l10n-name="state">Tình trạng:</span> Bật
 state-dd-enabled-block-list-state = <span data-l10n-name="state">Tình trạng:</span> Bật ({ $blockListState })
 state-dd-Disabled = <span data-l10n-name="state">Tình trạng:</span> Bị Vô Hiệu
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">Tình trạng:</span> Bị Vô Hiệu ({ $blockListState })
+mime-type-label = Kiểu MIME
 description-label = Mô tả
 suffixes-label = Phần mở rộng
