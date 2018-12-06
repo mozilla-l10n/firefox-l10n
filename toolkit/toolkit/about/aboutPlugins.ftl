@@ -3,6 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = عن الملحقات
+installed-plugins-label = الملحقات المنصّبة
+no-plugins-are-installed-label = لا يوجد ملحقات منصّبة
+deprecation-description = أهناك ما تفتقده؟ بعض الملحقات لم تعد مدعومة. <a data-l10n-name="deprecation-link">اطّلع على المزيد.</a>
 
 ## The information of plugins
 ##
