@@ -28,9 +28,14 @@ app-title = { -brand-short-name } αναγνωριστικό εφαρμογής 
 ##  $url: the url of script specification and current worker.
 
 scope = <strong>Εμβέλεια:</strong> { $name }
+script-spec = <strong>Προδιαγραφές σεναρίου:</strong> <a data-l10n-name="link">{ $url }</a>
+current-worker-url = <strong>URL τρέχοντος Worker:</strong> <a data-l10n-name="link">{ $url }</a>
 active-cache-name = <strong>Όνομα ενεργής προσωρινής μνήμη:</strong> { $name }
 waiting-cache-name = <strong>Όνομα προσωρινής μνήμης σε αναμονή:</strong> { $name }
+push-end-point-waiting = <strong>Σημείο τερματισμού:</strong> { waiting }
+push-end-point-result = <strong>Σημείο τερματισμού:</strong> { $name }
 # This term is used as a button label (verb, not noun).
 update-button = Ενημέρωση
 unregister-button = Διαγραφή
+unregister-error = Απέτυχε η κατάργηση αυτού του Service Worker.
 waiting = Σε αναμονή…
