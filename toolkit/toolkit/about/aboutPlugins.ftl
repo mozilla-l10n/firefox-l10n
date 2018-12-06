@@ -19,6 +19,10 @@ version-dd = <span data-l10n-name="version">الإصدارة:</span> { $version 
 ## Variables:
 ##   $blockListState: show some special state of the plugin, such as blocked, outdated
 
+state-dd-enabled = <span data-l10n-name="state">الحالة:</span> مفعّل
+state-dd-enabled-block-list-state = <span data-l10n-name="state">الحالة:</span> مفعّل ({ $blockListState })
+state-dd-Disabled = <span data-l10n-name="state">الحالة:</span> معطّل
+state-dd-Disabled-block-list-state = <span data-l10n-name="state">الحالة:</span> معطّل ({ $blockListState })
 mime-type-label = نوع MIME
 description-label = الوصف
 suffixes-label = اللواحق
