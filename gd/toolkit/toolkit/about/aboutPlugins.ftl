@@ -5,6 +5,7 @@
 title-label = Mu na plugain
 installed-plugins-label = Plugain stàlaichte
 no-plugins-are-installed-label = Cha deach plugan stàlaichte a lorg
+deprecation-description = Dad a dhìth ort? Chan eil taic ri cuid a phlugain tuilleadh. <a data-l10n-name="deprecation-link">Barrachd fiosrachaidh.</a>
 
 ## The information of plugins
 ##
