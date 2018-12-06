@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = Yan Uygulamalar Hakkında
+installed-plugins-label = Kurulu yan uygulamalar
+no-plugins-are-installed-label = Yüklenmiş yan uygulama bulunamadı
 
 ## The information of plugins
 ##
