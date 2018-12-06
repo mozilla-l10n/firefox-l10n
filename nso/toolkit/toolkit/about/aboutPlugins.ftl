@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = Ka ga ditsebišo-koketšo
+installed-plugins-label = Ditsebišo-koketšo tše di loketšwego
+no-plugins-are-installed-label = Ga go a hwetšwa ditsebišo-koketšo tše loketšwego
 
 ## The information of plugins
 ##
