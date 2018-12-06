@@ -19,5 +19,6 @@ version-dd = <span data-l10n-name="version">Dumi:</span> { $version }
 ## Variables:
 ##   $blockListState: show some special state of the plugin, such as blocked, outdated
 
+mime-type-label = MIME dumi
 description-label = Šilbayyan
 suffixes-label = Bankanjey
