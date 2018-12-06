@@ -32,6 +32,10 @@ script-spec = <strong>Specificație script:</strong> <a data-l10n-name="link">{ 
 current-worker-url = <strong>URL actual worker:</strong> <a data-l10n-name="link">{ $url }</a>
 active-cache-name = <strong>Nume cache activ:</strong> { $name }
 waiting-cache-name = <strong>Nume de cache în așteptare:</strong> { $name }
+push-end-point-waiting = <strong>Punct terminal de transferuri push:</strong> { waiting }
+push-end-point-result = <strong>Punct terminal de transferuri push:</strong> { $name }
 # This term is used as a button label (verb, not noun).
 update-button = Actualizare
+unregister-button = Anulează înregistrarea
+unregister-error = Nu s-a reușit anularea înregistrării pentru acest service worker.
 waiting = Așteptare…
