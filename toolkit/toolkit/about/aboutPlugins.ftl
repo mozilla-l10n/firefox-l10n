@@ -11,6 +11,8 @@ title-label = Quant als connectors
 ##   $pluginFullPath: path of the plugin
 ##   $version: version of the plugin
 
+file-dd = <span data-l10n-name="file">Fitxer:</span> { $pluginLibraries }
+version-dd = <span data-l10n-name="version">Versió:</span> { $version }
 
 ## These strings describe the state of plugins
 ##
