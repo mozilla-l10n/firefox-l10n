@@ -19,6 +19,10 @@ version-dd = <span data-l10n-name="version">Inačica:</span> { $version }
 ## Variables:
 ##   $blockListState: show some special state of the plugin, such as blocked, outdated
 
+state-dd-enabled = <span data-l10n-name="state">Stanje:</span> Omogućeno
+state-dd-enabled-block-list-state = <span data-l10n-name="state">Stanje:</span> Omogućeno ({ $blockListState })
+state-dd-Disabled = <span data-l10n-name="state">Stanje:</span> Onemogućeno
+state-dd-Disabled-block-list-state = <span data-l10n-name="state">Stanje:</span> Onemogućeno ({ $blockListState })
 mime-type-label = MIME vrsta
 description-label = Opis
 suffixes-label = Sufiksi
