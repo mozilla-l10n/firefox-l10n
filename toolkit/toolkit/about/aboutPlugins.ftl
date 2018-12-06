@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-title-label = ප්ලගීන{ " " }
+title-label = ප්ලගීන
 installed-plugins-label = ස්ථාපිත ප්ලගින
 no-plugins-are-installed-label = කිසිඳු ස්ථාපිත ප්ලගිනයන් හමු නොවිනි
 
