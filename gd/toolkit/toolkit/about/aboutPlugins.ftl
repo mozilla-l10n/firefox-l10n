@@ -12,6 +12,7 @@ title-label = Mu na plugain
 ##   $version: version of the plugin
 
 file-dd = <span data-l10n-name="file">Faidhle:</span> { $pluginLibraries }
+path-dd = <span data-l10n-name="path">Slighe:</span> { $pluginFullPath }
 version-dd = <span data-l10n-name="version">Tionndadh:</span> { $version }
 
 ## These strings describe the state of plugins
