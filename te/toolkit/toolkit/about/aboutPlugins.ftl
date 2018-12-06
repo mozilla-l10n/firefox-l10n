@@ -21,6 +21,10 @@ version-dd = <span data-l10n-name="version">రూపాంతరము:</span> 
 ## Variables:
 ##   $blockListState: show some special state of the plugin, such as blocked, outdated
 
+state-dd-enabled = <span data-l10n-name="state">స్థితి:</span> చేతనమైన
+state-dd-enabled-block-list-state = <span data-l10n-name="state">స్థితి:</span> చేతనమైన ({ $blockListState })
+state-dd-Disabled = <span data-l10n-name="state">స్థితి:</span> అచేతనంచేయబడిన
+state-dd-Disabled-block-list-state = <span data-l10n-name="state">స్థితి:</span> అచేతనంచేయబడిన ({ $blockListState })
 mime-type-label = MIME రకం
 description-label = వివరణ
 suffixes-label = సఫిక్సెస్
