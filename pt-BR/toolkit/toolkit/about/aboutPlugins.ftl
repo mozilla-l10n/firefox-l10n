@@ -5,6 +5,7 @@
 title-label = Sobre os plugins
 installed-plugins-label = Plugins instalados
 no-plugins-are-installed-label = Nenhum plugin instalado
+deprecation-description = Faltando alguma coisa? Alguns plugins não são mais suportados. <a data-l10n-name="deprecation-link">Saiba mais.</a>
 
 ## The information of plugins
 ##
@@ -22,6 +23,8 @@ version-dd = <span data-l10n-name="version">Versão:</span> { $version }
 ## Variables:
 ##   $blockListState: show some special state of the plugin, such as blocked, outdated
 
+state-dd-enabled = <span data-l10n-name="state">Status:</span> Ativado
+state-dd-enabled-block-list-state = <span data-l10n-name="state">Status:</span> Ativado ({ $blockListState })
 state-dd-Disabled = <span data-l10n-name="state">Status:</span> Desativado
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">Status:</span> Desativado ({ $blockListState })
 mime-type-label = Tipo MIME
