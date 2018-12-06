@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = Maidir le Forlíontáin
+installed-plugins-label = Forlíontáin shuiteáilte
+no-plugins-are-installed-label = Níor aimsíodh aon fhorlíontáin shuiteáilte
 
 ## The information of plugins
 ##
@@ -11,12 +13,19 @@ title-label = Maidir le Forlíontáin
 ##   $pluginFullPath: path of the plugin
 ##   $version: version of the plugin
 
+file-dd = <span data-l10n-name="file">Comhad:</span> { $pluginLibraries }
+path-dd = <span data-l10n-name="path">Conair:</span> { $pluginFullPath }
+version-dd = <span data-l10n-name="version">Leagan:</span> { $version }
 
 ## These strings describe the state of plugins
 ##
 ## Variables:
 ##   $blockListState: show some special state of the plugin, such as blocked, outdated
 
+state-dd-enabled = <span data-l10n-name="state">Staid:</span> Cumasaithe
+state-dd-enabled-block-list-state = <span data-l10n-name="state">Staid:</span> Cumasaithe ({ $blockListState })
+state-dd-Disabled = <span data-l10n-name="state">Staid:</span> Díchumasaithe
+state-dd-Disabled-block-list-state = <span data-l10n-name="state">Staid:</span> Díchumasaithe ({ $blockListState })
 mime-type-label = Cineál MIME
 description-label = Cur Síos
 suffixes-label = Iarmhíreanna
