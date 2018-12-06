@@ -5,11 +5,21 @@
 
 ### The term "Service Workers" and "Workers" should not be translated
 
+about-service-workers-title = Tocante a los trabayadores del serviciu
+about-service-workers-main-title = Trabayadores del serviciu rexistraos
+about-service-workers-warning-not-enabled = Nun s'activaron los trabayadores del serviciu.
+about-service-workers-warning-no-service-workers = Nun se rexistró dengún trabayador del serviciu.
 # The original title of service workers' information
 #
 # Variables:
 #   $originTitle: original title
 origin-title = Orixe: { $originTitle }
+# Show if app id is in isolated browser element, the term "InBrowserElement" should not be translated
+#
+# Variables:
+#   $appId: the application ID
+#   $isInIsolatedElement: "true" or "false" based on if the app id is in isolate element
+app-title = ID { $appId } d'aplicación { -brand-short-name } - InBrowserElement { $isInIsolatedElement }
 
 ## These strings are for showing the information of workers.
 ##
@@ -17,4 +27,15 @@ origin-title = Orixe: { $originTitle }
 ##  $name: the name of scope, active cache, waiting cache and the push end point.
 ##  $url: the url of script specification and current worker.
 
+scope = <strong>Algame:</strong> { $name }
+script-spec = <strong>Especificación del script:</strong> <a data-l10n-name="link">{ $url }</a>
+current-worker-url = <strong>URL del trabayador actual:</strong> <a data-l10n-name="link">{ $url }</a>
+active-cache-name = <strong>Nome de la caché activa:</strong> { $name }
+waiting-cache-name = <strong>Nome de la caché n'espera:</strong> { $name }
+push-end-point-waiting = <strong>Puntu final de tresferencia Push:</strong> { waiting }
+push-end-point-result = <strong>Puntu final de tresferencia Push:</strong> { $name }
+# This term is used as a button label (verb, not noun).
+update-button = Anovar
+unregister-button = Anular rexistru
+unregister-error = Fallu al anular rexistru d'esti trabayador del serviciu.
 waiting = Esperando…
