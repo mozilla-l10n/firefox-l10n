@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = O priključcima
+installed-plugins-label = Instalirani priključci
+no-plugins-are-installed-label = Nisu pronađeni instalirani priključci
 
 ## The information of plugins
 ##
@@ -12,6 +14,7 @@ title-label = O priključcima
 ##   $version: version of the plugin
 
 file-dd = <span data-l10n-name="file">Datoteka:</span> { $pluginLibraries }
+path-dd = <span data-l10n-name="path">Putanja:</span> { $pluginFullPath }
 version-dd = <span data-l10n-name="version">Inačica:</span> { $version }
 
 ## These strings describe the state of plugins
