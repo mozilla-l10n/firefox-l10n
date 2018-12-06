@@ -5,6 +5,7 @@
 title-label = Arredol d'os plugins
 installed-plugins-label = Plugins instalaus
 no-plugins-are-installed-label = No s'ha trobau garra plugin instalau
+deprecation-description = Falta cosa? Bells plugins ya han deixau d'estar soportaus. <a data-l10n-name="deprecation-link">Saber-ne mas</a>
 
 ## The information of plugins
 ##
