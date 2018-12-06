@@ -5,6 +5,7 @@
 title-label = Tentang Plugin
 installed-plugins-label = Plugin terinstal
 no-plugins-are-installed-label = Tidak ada plugin terinstal yang ditemukan
+deprecation-description = Kehilangan sesuatu? Beberapa plugin tidak lagi didukung. <a data-l10n-name="deprecation-link">Pelajari Lebih Lanjut.</a>
 
 ## The information of plugins
 ##
