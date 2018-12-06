@@ -22,5 +22,7 @@ version-dd = <span data-l10n-name="version">Sürüm:</span> { $version }
 ## Variables:
 ##   $blockListState: show some special state of the plugin, such as blocked, outdated
 
+state-dd-enabled = <span data-l10n-name="state">Durum:</span> Etkinleştirildi
+state-dd-enabled-block-list-state = <span data-l10n-name="state">Durum:</span> Etkinleştirildi ({ $blockListState })
 mime-type-label = MIME Türü
 description-label = Tanım
