@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+title-label = Ka ga ditsebišo-koketšo
 
 ## The information of plugins
 ##
@@ -10,6 +11,8 @@
 ##   $pluginFullPath: path of the plugin
 ##   $version: version of the plugin
 
+file-dd = <span data-l10n-name="file">Faele:</span> { $pluginLibraries }
+version-dd = <span data-l10n-name="version">Kgatišo:</span> { $version }
 
 ## These strings describe the state of plugins
 ##
@@ -18,3 +21,4 @@
 
 mime-type-label = Mohuta wa MIME
 description-label = Tlhaloso
+suffixes-label = Meselana
