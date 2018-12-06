@@ -28,6 +28,7 @@ app-title = { -brand-short-name } ga porogaram { $appId } šilbay - InBrowserEle
 ##  $url: the url of script specification and current worker.
 
 scope = <strong>Gande:</strong> { $name }
+script-spec = <strong>Šigira dumi alhaaley:</strong> <a data-l10n-name="link">{ $url }</a>
 current-worker-url = <strong>Sohõda Worker URL:</strong> <a data-l10n-name="link">{ $url }</a>
 active-cache-name = <strong>Tugudoo maa dirante:</strong> { $name }
 waiting-cache-name = <strong>Batuyan tugudoo maa:</strong> { $name }
@@ -37,3 +38,4 @@ push-end-point-result = <strong>Sanbaroo kaydogoo:</strong> { $name }
 update-button = Taagandi
 unregister-button = Maa kaa
 unregister-error = Mana hin ka Service Worker woo maa kaa.
+waiting = Goo ma batu…
