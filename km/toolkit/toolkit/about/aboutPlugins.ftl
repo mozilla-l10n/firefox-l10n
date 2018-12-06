@@ -12,6 +12,7 @@ title-label = អំពី​កម្មវិធី​ជំនួយ
 ##   $version: version of the plugin
 
 file-dd = <span data-l10n-name="file">ឯកសារ ៖</span> { $pluginLibraries }
+path-dd = <span data-l10n-name="path">ផ្លូវ ៖</span> { $pluginFullPath }
 version-dd = <span data-l10n-name="version">កំណែ៖</span> { $version }
 
 ## These strings describe the state of plugins
