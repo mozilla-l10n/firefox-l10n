@@ -26,5 +26,6 @@ state-dd-enabled = <span data-l10n-name="state">מצב:</span> מאופשר
 state-dd-enabled-block-list-state = <span data-l10n-name="state">מצב:</span> מאופשר ({ $blockListState })
 state-dd-Disabled = <span data-l10n-name="state">מצב:</span> מנוטרל
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">מצב:</span> מנוטרל ({ $blockListState })
+mime-type-label = סוג MIME
 description-label = תיאור
 suffixes-label = סיומות
