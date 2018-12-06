@@ -37,4 +37,5 @@ push-end-point-result = <strong>Push түпкі нүктесі:</strong> { $name
 # This term is used as a button label (verb, not noun).
 update-button = Жаңарту
 unregister-button = Тіркеуден шығару
+unregister-error = Бұл Service Worker тіркеуден шығару сәтсіз аяқталды.
 waiting = Күту…
