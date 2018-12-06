@@ -6,6 +6,7 @@
 ## UI strings for the simplified onboarding modal
 
 onboarding-button-label-try-now = Proveu-ho ara
+onboarding-button-label-get-started = Primers passos
 onboarding-welcome-header = Us donem la benvinguda al { -brand-short-name }
 onboarding-start-browsing-button-label = Comença a navegar
 
@@ -23,4 +24,12 @@ onboarding-screenshots-text = Feu captures de pantalla, deseu-les i compartiu-le
 onboarding-addons-title = Complements
 onboarding-addons-text = Afegiu més funcions al { -brand-short-name } per tal que encara faci més coses. Podeu comparar preus, veure quin temps farà o expressar la vostra personalitat amb un tema personalitzat.
 onboarding-ghostery-title = Ghostery
-onboarding-ghostery-text = Les extensions com el Ghostery, que bloqueja els anuncis molestos, permeten una navegació més ràpida, més intel·ligent i més segura.
+onboarding-ghostery-text = Les extensions com el Ghostery, que bloca els anuncis molestos, permeten una navegació més ràpida, més intel·ligent i més segura.
+# Note: "Sync" in this case is a generic verb, as in "to synchronize"
+onboarding-fxa-title = Sincronització
+
+## Message strings belonging to the Return to AMO flow
+
+return-to-amo-sub-header = Molt bé, teniu el { -brand-short-name }
+return-to-amo-extension-button = Afegeix l'extensió
+return-to-amo-get-started-button = Primers passos amb el { -brand-short-name }
