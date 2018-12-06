@@ -2,11 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.title):
-     Please ensure this exactly matches tabs.emptyPrivateTabTitle in tabbrowser.properties -->
-<!ENTITY aboutPrivateBrowsing.title                      "Yeny i mung">
-<!ENTITY aboutPrivateBrowsing.notPrivate.title           "Yab dirica me mung?">
-
 <!ENTITY aboutPrivateBrowsing.notPrivate                 "Kombedi pe itye i dirica me mung.">
 <!ENTITY privatebrowsingpage.openPrivateWindow.label     "Yab dirica me mung">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "m">
@@ -25,6 +20,7 @@
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          " yiti:">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "gam">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "alamabuk">
+<!ENTITY aboutPrivateBrowsing.info.clipboard             "coc ma kiloko">
 <!ENTITY aboutPrivateBrowsing.note.before                "Yeny i mung ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "pe weko i bedo ma pe ingene">
 <!ENTITY aboutPrivateBrowsing.note.after                 " i intanet. Lami ni tic onyo tic me intanet pud twero ngeno potbuk ma ilimo.">
@@ -34,4 +30,6 @@
 
 <!ENTITY trackingProtection.title                        "Gwokke ikom lubo kor">
 <!ENTITY trackingProtection.description2                 "Kakube mukene tiyo ki gilubo kor me neno tic mamegi i intanet. Ki Gwokke ikom lubo kor Firefox bigengo gilubo kor madwong ma twero coko ngec ikom yeny mamegi.">
+
 <!ENTITY trackingProtection.startTour1                   "Nen kit ma tiyo kwede">
+
