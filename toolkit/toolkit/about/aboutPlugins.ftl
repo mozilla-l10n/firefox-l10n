@@ -5,6 +5,7 @@
 title-label = Om programtillegg
 installed-plugins-label = Installerte programtillegg
 no-plugins-are-installed-label = Fant ingen installerte programtillegg
+deprecation-description = Savner du noe? Noen programtillegg støttes ikke lenger. <a data-l10n-name="deprecation-link">Les mer</a>
 
 ## The information of plugins
 ##
