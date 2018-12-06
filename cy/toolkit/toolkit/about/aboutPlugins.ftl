@@ -12,6 +12,7 @@ title-label = Ynghylch Ategion
 ##   $version: version of the plugin
 
 file-dd = <span data-l10n-name="file">Ffeil:</span> { $pluginLibraries }
+path-dd = <span data-l10n-name="path">Llwybr:</span> { $pluginFullPath }
 version-dd = <span data-l10n-name="version">Fersiwn:</span> { $version }
 
 ## These strings describe the state of plugins
@@ -19,6 +20,10 @@ version-dd = <span data-l10n-name="version">Fersiwn:</span> { $version }
 ## Variables:
 ##   $blockListState: show some special state of the plugin, such as blocked, outdated
 
+state-dd-enabled = <span data-l10n-name="state">Sir/Talaith:</span> Galluogwyd
+state-dd-enabled-block-list-state = <span data-l10n-name="state">Sir/Talaith:</span> Galluogwyd ({ $blockListState })
+state-dd-Disabled = <span data-l10n-name="state">Sir/Talaith:</span> Analluogwyd
+state-dd-Disabled-block-list-state = <span data-l10n-name="state">Sir/Talaith:</span> Analluogwyd ({ $blockListState })
 mime-type-label = Math MIME
 description-label = Disgrifiad
 suffixes-label = Rhagosodiad
