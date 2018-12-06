@@ -19,6 +19,10 @@ version-dd = <span data-l10n-name="version">Versiune:</span> { $version }
 ## Variables:
 ##   $blockListState: show some special state of the plugin, such as blocked, outdated
 
+state-dd-enabled = <span data-l10n-name="state">Stare:</span> Activat
+state-dd-enabled-block-list-state = <span data-l10n-name="state">Stare:</span> Activat ({ $blockListState })
+state-dd-Disabled = <span data-l10n-name="state">Stare:</span> Dezactivat
+state-dd-Disabled-block-list-state = <span data-l10n-name="state">Stare:</span> Dezactivat ({ $blockListState })
 mime-type-label = Tip MIME
 description-label = Descriere
 suffixes-label = Sufixe
