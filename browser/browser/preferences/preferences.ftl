@@ -141,6 +141,8 @@ set-as-my-default-browser =
 startup-restore-previous-session =
     .label = Önceki oturumu geri yükle
     .accesskey = o
+startup-restore-warn-on-quit =
+    .label = Tarayıcıdan çıkarken beni uyar
 disable-extension =
     .label = Eklentiyi etkisizleştir
 tabs-group-header = Sekmeler
@@ -538,7 +540,6 @@ privacy-header = Tarayıcı gizliliği
 
 ## Privacy Section - Forms
 
-forms-header = Formlar ve parolalar
 logins-header = Hesaplar ve parolalar
 forms-ask-to-save-logins =
     .label = Sitelerdeki kullanıcı adı ve parolalarımı kaydetmeyi öner
@@ -860,6 +861,9 @@ collection-health-report-link = Daha fazla bilgi al
 collection-studies =
     .label = { -brand-short-name }, araştırmalar yükleyip çalıştırabilir
 collection-studies-link = { -brand-short-name } araştırmalarını göster
+addon-recommendations =
+    .label = { -brand-short-name } bana özel eklenti tavsiyelerinde bulunabilsin
+addon-recommendations-link = Daha fazla bilgi al
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Bu yapılandırma için veri raporlama devre dışı bırakılmış
