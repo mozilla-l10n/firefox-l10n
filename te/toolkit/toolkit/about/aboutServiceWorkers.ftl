@@ -5,6 +5,7 @@
 
 ### The term "Service Workers" and "Workers" should not be translated
 
+about-service-workers-title = సర్వీస్ వర్కర్ల గురించి
 about-service-workers-main-title = నమోదైన సర్వీస్ వర్కర్లు
 about-service-workers-warning-not-enabled = సర్వీస్ వర్కర్లు చేతనించిలేవు.
 about-service-workers-warning-no-service-workers = నమోదైన సర్వీస్ వర్కర్లు లేరు.
@@ -35,5 +36,6 @@ push-end-point-waiting = <strong>పుష్ ఎండ్‌పాయింట�
 push-end-point-result = <strong>పుష్ ఎండ్‌పాయింట్:</strong> { $name }
 # This term is used as a button label (verb, not noun).
 update-button = తాజాకరించు
+unregister-button = తీసివేయి
 unregister-error = ఈ సర్వీస్ వర్కర్ నమోదు తీసివేయడంలో విఫలమైంది.
 waiting = వేచిచూస్తోంది…
