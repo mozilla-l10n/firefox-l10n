@@ -10,6 +10,8 @@
 ##   $pluginFullPath: path of the plugin
 ##   $version: version of the plugin
 
+file-dd = <span data-l10n-name="file">Faele:</span> { $pluginLibraries }
+path-dd = <span data-l10n-name="path">Tsela:</span> { $pluginFullPath }
 
 ## These strings describe the state of plugins
 ##
