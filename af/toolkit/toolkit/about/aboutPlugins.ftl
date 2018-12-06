@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = Aangaande inproppe
+installed-plugins-label = Geïnstalleerde inproppe
+no-plugins-are-installed-label = Geen geïnstalleerde inproppe gevind nie
 
 ## The information of plugins
 ##
@@ -12,6 +14,7 @@ title-label = Aangaande inproppe
 ##   $version: version of the plugin
 
 file-dd = <span data-l10n-name="file">Lêer:</span> { $pluginLibraries }
+path-dd = <span data-l10n-name="path">Pad:</span> { $pluginFullPath }
 version-dd = <span data-l10n-name="version">Weergawe:</span> { $version }
 
 ## These strings describe the state of plugins
@@ -19,6 +22,10 @@ version-dd = <span data-l10n-name="version">Weergawe:</span> { $version }
 ## Variables:
 ##   $blockListState: show some special state of the plugin, such as blocked, outdated
 
+state-dd-enabled = <span data-l10n-name="state">Status:</span> Geaktiveer
+state-dd-enabled-block-list-state = <span data-l10n-name="state">Status:</span> Geaktiveer ({ $blockListState })
+state-dd-Disabled = <span data-l10n-name="state">Status:</span> Gedeaktiveer
+state-dd-Disabled-block-list-state = <span data-l10n-name="state">Status:</span> Gedeaktiveer ({ $blockListState })
 mime-type-label = MIME-soort
 description-label = Beskrywing
 suffixes-label = Lêeruitgange
