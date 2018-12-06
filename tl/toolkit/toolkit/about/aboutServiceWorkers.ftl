@@ -9,6 +9,11 @@ about-service-workers-title = Tungkol sa Serbisyong Manggagawa
 about-service-workers-main-title = Nakarehistrong Serbisyong Manggagawa
 about-service-workers-warning-not-enabled = Serbisyong Manggagawa ay hindi pinagana.
 about-service-workers-warning-no-service-workers = Walang Serbisyong Manggagawa na naka-rehistro.
+# The original title of service workers' information
+#
+# Variables:
+#   $originTitle: original title
+origin-title = Pinagmulan: { $originTitle }
 # Show if app id is in isolated browser element, the term "InBrowserElement" should not be translated
 #
 # Variables:
@@ -22,6 +27,15 @@ app-title = { -brand-short-name } Application ID { $appId } - InBrowserElement {
 ##  $name: the name of scope, active cache, waiting cache and the push end point.
 ##  $url: the url of script specification and current worker.
 
+scope = <strong>Saklaw:</strong> { $name }
+script-spec = <strong>Saklaw Pagtutukoy:</strong> <a data-l10n-name="link">{ $url }</a>
+current-worker-url = <strong>Kasalukuyang Worker URL:</strong> <a data-l10n-name="link">{ $url }</a>
+active-cache-name = <strong>Aktibong Pangalan ng Cache:</strong> { $name }
+waiting-cache-name = <strong>Hinihintay na Pangalan ng Cache:</strong> { $name }
+push-end-point-waiting = <strong>Itulak sa Endpoint:</strong> { waiting }
+push-end-point-result = <strong>Itulak sa Endpoint:</strong> { $name }
 # This term is used as a button label (verb, not noun).
 update-button = Pagsasangayon
+unregister-button = Hindi nairehisto
+unregister-error = Nabigo sa pag bura ng rehistro sa Service Worker na ito.
 waiting = Haghihintay…
