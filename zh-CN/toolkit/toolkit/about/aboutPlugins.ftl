@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = 关于插件
+installed-plugins-label = 已安装的插件
 
 ## The information of plugins
 ##
@@ -11,6 +12,7 @@ title-label = 关于插件
 ##   $pluginFullPath: path of the plugin
 ##   $version: version of the plugin
 
+file-dd = <span data-l10n-name="file">文件：</span> { $pluginLibraries }
 path-dd = <span data-l10n-name="path">路径：</span> { $pluginFullPath }
 version-dd = <span data-l10n-name="version">版本：</span> { $version }
 
