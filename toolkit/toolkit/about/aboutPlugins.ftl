@@ -5,6 +5,7 @@
 title-label = Quant als connectors
 installed-plugins-label = Connectors instal·lats
 no-plugins-are-installed-label = No s'han trobat connectors instal·lats
+deprecation-description = Us falta res? Alguns complements ja no són compatibles. <a data-l10n-name="deprecation-link">Més informació.</a>
 
 ## The information of plugins
 ##
