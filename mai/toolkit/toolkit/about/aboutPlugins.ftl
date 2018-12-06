@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+title-label = { " " }प्लगिन क' संबंधमे
 installed-plugins-label = संस्थापित प्लगिन
 no-plugins-are-installed-label = कोनो संस्थापित प्लगिन नहि भेटल
 
@@ -12,7 +13,9 @@ no-plugins-are-installed-label = कोनो संस्थापित प्
 ##   $pluginFullPath: path of the plugin
 ##   $version: version of the plugin
 
+file-dd = <span data-l10n-name="file">फ़ाइल:</span> { $pluginLibraries }
 path-dd = <span data-l10n-name="path">पथ:</span> { $pluginFullPath }
+version-dd = <span data-l10n-name="version">संस्करण:</span> { $version }
 
 ## These strings describe the state of plugins
 ##
@@ -24,3 +27,5 @@ state-dd-enabled-block-list-state = <span data-l10n-name="state">स्थित
 state-dd-Disabled = <span data-l10n-name="state">स्थिति:</span> निष्क्रिय
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">स्थिति:</span> निष्क्रिय ({ $blockListState })
 mime-type-label = MIME Type
+description-label = विवरण
+suffixes-label = प्रत्यय
