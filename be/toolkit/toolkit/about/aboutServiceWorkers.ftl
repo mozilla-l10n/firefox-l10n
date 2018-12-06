@@ -8,6 +8,7 @@
 about-service-workers-title = Аб Service Workers
 about-service-workers-main-title = Зарэгістраваныя Service Workers
 about-service-workers-warning-not-enabled = Service Workers не ўключаны.
+about-service-workers-warning-no-service-workers = Ніводнага Service Worker не зарэгістравана.
 # The original title of service workers' information
 #
 # Variables:
