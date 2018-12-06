@@ -13,5 +13,5 @@
 ##  $url: the url of script specification and current worker.
 
 # This term is used as a button label (verb, not noun).
-update-button = اپ ڈیٹ{ " " }
+update-button = اپ ڈیٹ
 waiting = پیاران...
