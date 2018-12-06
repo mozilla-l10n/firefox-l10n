@@ -5,6 +5,7 @@
 title-label = О прикључцима
 installed-plugins-label = Инсталирани прикључци
 no-plugins-are-installed-label = Нису пронађени инсталирани прикључци
+deprecation-description = Нешто недостаје? Неки прикључци више нису подржани. <a data-l10n-name="deprecation-link">Сазнајте више.</a>
 
 ## The information of plugins
 ##
