@@ -5,6 +5,7 @@
 title-label = செருகு நிரல்கள் - அறிமுகம்
 installed-plugins-label = நிறுவப்பட்டுள்ள செருகுநிரல்கள்
 no-plugins-are-installed-label = நிறுவப்பட்டுள்ள செருகுநிரல்கள் எதுவும் காணப்படவில்லை
+deprecation-description = ஏதோ ஒன்று இல்லையா? சில நீட்டிப்புகள் ஆதரிக்கப்படவில்லை. <a data-l10n-name="deprecation-link">மேலும் அறிய.</a>
 
 ## The information of plugins
 ##
