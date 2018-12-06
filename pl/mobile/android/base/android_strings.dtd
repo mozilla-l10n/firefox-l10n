@@ -594,8 +594,6 @@
 <!ENTITY whatsnew_notification_title "&brandShortName; jest aktualny">
 <!ENTITY whatsnew_notification_summary "Nowości w tej wersji">
 
-<!ENTITY promotion_add_page_shortcut "Dodaj skrót do strony">
-
 <!ENTITY helper_first_offline_bookmark_title "Przeglądanie w trybie offline">
 <!ENTITY helper_first_offline_bookmark_message "Strony zachowane na później można znaleźć w zakładkach, nawet bez Internetu.">
 <!ENTITY helper_first_offline_bookmark_button "Przejdź do zakładek">
