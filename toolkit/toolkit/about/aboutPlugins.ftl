@@ -4,6 +4,7 @@
 
 title-label = చొప్పింతలు గురించి
 installed-plugins-label = స్థాపించబడిన చొప్పింతలు
+no-plugins-are-installed-label = ఎటువంటి స్థాపిత చొప్పింతలు కనుగొనబడలేదు
 
 ## The information of plugins
 ##
