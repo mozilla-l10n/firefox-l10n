@@ -12,6 +12,7 @@ title-label = Mplagin Ho Nsɛm
 ##   $version: version of the plugin
 
 file-dd = <span data-l10n-name="file">Fael:</span> { $pluginLibraries }
+path-dd = <span data-l10n-name="path">Kwan:</span> { $pluginFullPath }
 version-dd = <span data-l10n-name="version">Vɛɛhyɛn:</span> { $version }
 
 ## These strings describe the state of plugins
