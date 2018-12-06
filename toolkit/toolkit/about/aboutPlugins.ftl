@@ -19,6 +19,10 @@ version-dd = <span data-l10n-name="version">Yamre:</span> { $version }
 ## Variables:
 ##   $blockListState: show some special state of the plugin, such as blocked, outdated
 
+state-dd-enabled = <span data-l10n-name="state">Ngonka:</span> Daaƴtaaɗo
+state-dd-enabled-block-list-state = <span data-l10n-name="state">Ngonka:</span> Daaƴtaaɗo ({ $blockListState })
+state-dd-Disabled = <span data-l10n-name="state">Ngonka:</span> Daaƴaama
+state-dd-Disabled-block-list-state = <span data-l10n-name="state">Ngonka:</span> Daaƴaama ({ $blockListState })
 mime-type-label = Fannu MIME
 description-label = Cifagol
 suffixes-label = Timminol
