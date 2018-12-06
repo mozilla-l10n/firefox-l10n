@@ -5,6 +5,7 @@
 title-label = Thông tin về các phần bổ trợ
 installed-plugins-label = Các plugin đã cài đặt
 no-plugins-are-installed-label = Không tìm thấy plugin đã được cài nào
+deprecation-description = Bạn đang thấy thiếu gì đó? Một số phần bổ trợ không còn được hỗ trợ. <a data-l10n-name="deprecation-link">Tìm hiểu thêm.</a>
 
 ## The information of plugins
 ##
