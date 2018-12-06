@@ -288,7 +288,6 @@
 <!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
      Similar to the already existing "pref_whats_new_notification_summary"-->
 <!ENTITY pref_feature_tips_notification_summary "Kutu´va-ka naja ni´inu &brandShortName; jii daa inka &vendorShortName; ka̱a̱">
-
 <!-- Localization note (pref_feature_tips_notification_enabling_hint):
      Describe the action the user should do to enable this preference
      Will be used in the context "<Turn on> ... to enable this feature" -->
@@ -372,6 +371,7 @@
 <!ENTITY pref_use_system_font_size_summary "Sa´a ka´nu tu´un web kua vaji nuu tu´un ka̱a̱">
 
 <!ENTITY pref_media_autoplay_enabled "Kuvi kajie´e ntu´un">
+<!ENTITY pref_media_autoplay_block "Kasɨ kajie´e teso´o automático">
 <!ENTITY pref_zoom_force_enabled "Ntaka íchi saa habilitar enfoque">
 <!ENTITY pref_zoom_force_enabled_summary "Tetuvi sobrescritura saa kuvi sama na̱saa ka´nu koo iin página">
 <!ENTITY pref_voice_input "Nuu kivɨ nasun yu´u">
@@ -838,8 +838,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY whatsnew_notification_title "&brandShortName; iyo actualizado">
 <!ENTITY whatsnew_notification_summary "Nani´i daa a jíía nuu versión ya´a">
 
-<!ENTITY promotion_add_page_shortcut "Tee iin a kivu ñama página ya´a">
-
 <!ENTITY helper_first_offline_bookmark_title "Ka´vi offline">
 <!ENTITY helper_first_offline_bookmark_message "Nani´i tee ka´vi kune´yá a ta´a ini noo´o, naa kuvi dee ntu yɨ´ɨnu nuu internet.">
 <!ENTITY helper_first_offline_bookmark_button "Nkon´on nuu a ta´a ini noo´o">
@@ -893,6 +891,7 @@ See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
 <!-- Used by accessibility services to identify the play/pause buttons shown in the
 Picture-in-picture mini window -->
 <!ENTITY pip_play_button_title "Kajie´e">
+<!ENTITY pip_play_button_description "Nakajie´e tuku">
 <!ENTITY pip_pause_button_title "Kunetu">
 
 <!-- Notification channels names -->
