@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+title-label = Thông tin về các phần bổ trợ
+installed-plugins-label = Các plugin đã cài đặt
+no-plugins-are-installed-label = Không tìm thấy plugin đã được cài nào
 
 ## The information of plugins
 ##
@@ -19,5 +22,9 @@ version-dd = <span data-l10n-name="version">Phiên bản:</span> { $version }
 ## Variables:
 ##   $blockListState: show some special state of the plugin, such as blocked, outdated
 
+state-dd-enabled = <span data-l10n-name="state">Tình trạng:</span> Bật
+state-dd-enabled-block-list-state = <span data-l10n-name="state">Tình trạng:</span> Bật ({ $blockListState })
+state-dd-Disabled = <span data-l10n-name="state">Tình trạng:</span> Bị Vô Hiệu
+state-dd-Disabled-block-list-state = <span data-l10n-name="state">Tình trạng:</span> Bị Vô Hiệu ({ $blockListState })
 description-label = Mô tả
 suffixes-label = Phần mở rộng
