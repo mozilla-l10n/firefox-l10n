@@ -10,6 +10,7 @@
 ##   $pluginFullPath: path of the plugin
 ##   $version: version of the plugin
 
+file-dd = <span data-l10n-name="file">ফাইল:</span> { $pluginLibraries }
 
 ## These strings describe the state of plugins
 ##
