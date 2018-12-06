@@ -5,6 +5,7 @@
 title-label = O pluginima
 installed-plugins-label = Instalirani plugini
 no-plugins-are-installed-label = Nije pronađen niti jedan instalirani plugin
+deprecation-description = Fali vam nešto? Neki plugini više nisu podržani. <a data-l10n-name="deprecation-link">Saznajte više.</a>
 
 ## The information of plugins
 ##
