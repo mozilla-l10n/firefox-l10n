@@ -32,7 +32,10 @@ script-spec = <strong>Caracteristicas de l'escript :</strong> <a data-l10n-name
 current-worker-url = <strong>URL del Worker corrent :</strong> <a data-l10n-name="link">{ $url }</a>
 active-cache-name = <strong>Nom de cache actiu :</strong> { $name }
 waiting-cache-name = <strong>Nom de cache en espèra :</strong> { $name }
+push-end-point-waiting = <strong>Ponch de terminason pel mandadís :</strong> { waiting }
+push-end-point-result = <strong>Ponch de terminason pel mandadís :</strong> { $name }
 # This term is used as a button label (verb, not noun).
 update-button = Metre a jorn
 unregister-button = Desinscriure
 unregister-error = Fracàs de la desinscripcion d'aqueste Service Worker.
+waiting = En espèra…
