@@ -5,6 +5,10 @@
 
 ### The term "Service Workers" and "Workers" should not be translated
 
+about-service-workers-title = Относно Service Workers
+about-service-workers-main-title = Регистрирани Service Workers
+about-service-workers-warning-not-enabled = Service Workers не са включени.
+about-service-workers-warning-no-service-workers = Няма регистрирани Service Workers.
 # The original title of service workers' information
 #
 # Variables:
