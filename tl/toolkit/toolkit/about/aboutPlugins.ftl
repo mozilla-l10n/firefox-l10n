@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = Tungkol sa Mga Plugin
+installed-plugins-label = Mga nakainstall na plugin
 
 ## The information of plugins
 ##
