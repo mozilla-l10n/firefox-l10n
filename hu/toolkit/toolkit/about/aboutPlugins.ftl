@@ -5,6 +5,7 @@
 title-label = A bővítményekről
 installed-plugins-label = Telepített bővítmények
 no-plugins-are-installed-label = Nincsenek telepített bővítmények
+deprecation-description = Hiányzik valami? Néhány bővítményt már nem támogatott. <a data-l10n-name="deprecation-link">További tudnivalók</a>
 
 ## The information of plugins
 ##
