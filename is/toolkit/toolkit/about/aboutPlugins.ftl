@@ -11,10 +11,18 @@ title-label = Um tengiforrit
 ##   $pluginFullPath: path of the plugin
 ##   $version: version of the plugin
 
+file-dd = <span data-l10n-name="file">Skrá:</span> { $pluginLibraries }
+path-dd = <span data-l10n-name="path">Slóð:</span> { $pluginFullPath }
+version-dd = <span data-l10n-name="version">Útgáfa:</span> { $version }
 
 ## These strings describe the state of plugins
 ##
 ## Variables:
 ##   $blockListState: show some special state of the plugin, such as blocked, outdated
 
+state-dd-enabled = <span data-l10n-name="state">Fylki:</span> Virk
+state-dd-enabled-block-list-state = <span data-l10n-name="state">Fylki:</span> Virk ({ $blockListState })
+state-dd-Disabled = <span data-l10n-name="state">Fylki:</span> Óvirkt
+state-dd-Disabled-block-list-state = <span data-l10n-name="state">Fylki:</span> Óvirkt ({ $blockListState })
+mime-type-label = MIME gerð
 description-label = Lýsing
