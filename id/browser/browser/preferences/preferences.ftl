@@ -187,7 +187,7 @@ containers-remove-cancel-button = Jangan hapus Kontainer ini
 
 language-and-appearance-header = Bahasa dan Tampilan
 fonts-and-colors-header = Huruf & Warna
-default-font = Fon baku
+default-font = Huruf baku
     .accesskey = B
 default-font-size = Ukuran
     .accesskey = U
