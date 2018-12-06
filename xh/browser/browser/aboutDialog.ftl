@@ -22,7 +22,7 @@ update-otherInstanceHandlingUpdates = I-{ -brand-short-name } iyahlaziywa ngelin
 update-manual = Uhlaziyo lufumaneka <label data-l10n-name="manual-link"/>
 update-unsupported = Akunakukwazi ukuhlaziya ngokubhekele phaya kule nkqubo. <label data-l10n-name="unsupported-link">Funda okungakumbi</label>
 update-restarting = Iyaqala kwakhona…
-channel-description = Ngoku ukwi <label data-l10n-name="current-channel"></label> ukwitshaneli yohlaziyo.{ " " }
+channel-description = Ngoku ukwi <label data-l10n-name="current-channel"></label> ukwitshaneli yohlaziyo.
 warningDesc-version = I-{ -brand-short-name } isekelwe kumboniso kwaye isenokungazinzi.
 community-exp = <label data-l10n-name="community-exp-mozillaLink">I-{ -vendor-short-name }</label> yi <label data-l10n-name="community-exp-creditsLink">lwehlabathi</label>  olusebenza kunye ukugcina iWebhu ivulekile, iyeyomntu wonke kwaye ifikelela kuye wonke umntu.
 community-2 = I-{ -brand-short-name } iyilwe <label data-l10n-name="community-mozillaLink">I-{ -vendor-short-name }</label>, a<label data-l10n-name="community-creditsLink">uluntu lwehlabathi jikelele</label> olusebenza kunye ukugcina iWebhu ivulekile, iyeyomntu wonke kwaye ifikelela kuye wonke umntu.
