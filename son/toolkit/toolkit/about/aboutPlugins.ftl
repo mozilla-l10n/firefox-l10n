@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = Sukarey ga
+installed-plugins-label = Sukari sinjantey
+no-plugins-are-installed-label = Sukari sinjante kulyaŋ mana duwandi
 
 ## The information of plugins
 ##
