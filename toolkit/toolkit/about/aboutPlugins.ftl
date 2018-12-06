@@ -5,6 +5,7 @@
 title-label = પ્લગ-ઇન વિશે
 installed-plugins-label = સ્થાપિત થયેલ પ્લગઇન
 no-plugins-are-installed-label = સ્થાપિત થયેલ પ્લગઇન મળ્યા નથી
+deprecation-description = કંઈક ખૂટે છે? કેટલાક પ્લગિન્સ હવે સપોર્ટેડ નથી. <a data-l10n-name="deprecation-link">વધુ શીખો.</a>
 
 ## The information of plugins
 ##
