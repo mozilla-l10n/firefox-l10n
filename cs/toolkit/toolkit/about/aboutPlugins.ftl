@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = O zásuvných modulech
+installed-plugins-label = Nainstalované zásuvné moduly
+no-plugins-are-installed-label = Nebyly nalezeny žádné zásuvné moduly
 
 ## The information of plugins
 ##
@@ -12,6 +14,7 @@ title-label = O zásuvných modulech
 ##   $version: version of the plugin
 
 file-dd = <span data-l10n-name="file">Soubor</span> { $pluginLibraries }
+path-dd = <span data-l10n-name="path">Cesta:</span> { $pluginFullPath }
 version-dd = <span data-l10n-name="version">Verze:</span> { $version }
 
 ## These strings describe the state of plugins
