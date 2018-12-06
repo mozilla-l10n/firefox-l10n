@@ -11,6 +11,7 @@
 ##   $version: version of the plugin
 
 file-dd = <span data-l10n-name="file">Fichier :</span> { $pluginLibraries }
+version-dd = <span data-l10n-name="version">Version :</span> { $version }
 
 ## These strings describe the state of plugins
 ##
