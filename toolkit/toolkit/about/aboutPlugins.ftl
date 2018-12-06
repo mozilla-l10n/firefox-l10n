@@ -11,6 +11,7 @@
 ##   $version: version of the plugin
 
 file-dd = <span data-l10n-name="file">Tập tin:</span> { $pluginLibraries }
+path-dd = <span data-l10n-name="path">Đường dẫn:</span> { $pluginFullPath }
 version-dd = <span data-l10n-name="version">Phiên bản:</span> { $version }
 
 ## These strings describe the state of plugins
