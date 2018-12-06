@@ -23,10 +23,10 @@ version-dd = <span data-l10n-name="version">പതിപ്പു്:</span> { $
 ## Variables:
 ##   $blockListState: show some special state of the plugin, such as blocked, outdated
 
-state-dd-enabled = <span data-l10n-name="state">അവസ്ഥ:</span> പ്രവര്‍ത്തന സജ്ജമാക്കുക{ " " }
+state-dd-enabled = <span data-l10n-name="state">അവസ്ഥ:</span> പ്രവര്‍ത്തന സജ്ജമാക്കുക
 state-dd-enabled-block-list-state = <span data-l10n-name="state">അവസ്ഥ:</span> പ്രവര്‍ത്തന സജ്ജമാക്കുക  ({ $blockListState })
 state-dd-Disabled = <span data-l10n-name="state">അവസ്ഥ:</span> നിര്‍വീര്യമാക്കിയിരിക്കുന്നു
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">അവസ്ഥ:</span> നിര്‍വീര്യമാക്കിയിരിക്കുന്നു ({ $blockListState })
-mime-type-label = ഏത് തരത്തിലുള്ള MIME{ " " }
+mime-type-label = ഏത് തരത്തിലുള്ള MIME
 description-label = വിവരണം
 suffixes-label = സഫിക്സുകള്‍
