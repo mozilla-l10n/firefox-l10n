@@ -147,7 +147,7 @@
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 <!ENTITY pref_category_language "Tu´un ká´án">
-<!ENTITY pref_category_language_summary "Sama tu´un ká´án nuu navegador">
+<!ENTITY pref_category_language_summary "Sama tu´un ká´án nuu ka̱a̱ nánuku">
 <!ENTITY pref_browser_locale "Tu´un ká´án navegador">
 
 <!-- Localization note (locale_system_default) : This string indicates that
