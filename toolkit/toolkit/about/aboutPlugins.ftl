@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = प्लग-ईन विषयी
+installed-plugins-label = इंस्टॉल्ड प्लगइन्स
+no-plugins-are-installed-label = इंस्टॉल्ड प्लगइन्स आढळले नाही
 
 ## The information of plugins
 ##
@@ -11,12 +13,19 @@ title-label = प्लग-ईन विषयी
 ##   $pluginFullPath: path of the plugin
 ##   $version: version of the plugin
 
+file-dd = <span data-l10n-name="file">फाइल:</span> { $pluginLibraries }
+path-dd = <span data-l10n-name="path">मार्ग:</span> { $pluginFullPath }
+version-dd = <span data-l10n-name="version">आवृत्ती:</span> { $version }
 
 ## These strings describe the state of plugins
 ##
 ## Variables:
 ##   $blockListState: show some special state of the plugin, such as blocked, outdated
 
+state-dd-enabled = <span data-l10n-name="state">स्तर:</span> समर्थीत
+state-dd-enabled-block-list-state = <span data-l10n-name="state">स्तर:</span> समर्थीत ({ $blockListState })
+state-dd-Disabled = <span data-l10n-name="state">स्तर:</span> अकार्यान्वीत
+state-dd-Disabled-block-list-state = <span data-l10n-name="state">स्तर:</span> अकार्यान्वीत ({ $blockListState })
 mime-type-label = MIME प्रकार
 description-label = विवरण
 suffixes-label = प्रत्यय
