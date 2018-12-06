@@ -11,6 +11,8 @@ title-label = ಪ್ಲಗ್‌ಇನ್‍ಗಳ ಬಗ್ಗೆ
 ##   $pluginFullPath: path of the plugin
 ##   $version: version of the plugin
 
+file-dd = <span data-l10n-name="file">ಕಡತ:</span> { $pluginLibraries }
+version-dd = <span data-l10n-name="version">ಆವೃತ್ತಿ:</span> { $version }
 
 ## These strings describe the state of plugins
 ##
