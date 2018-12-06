@@ -724,6 +724,7 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = Ñemomba'e
     .accesskey = C
+content-blocking-standard-description = Ejoko jehekaha ojekuaáva ovetã ñemiguápe añoite.
 content-blocking-custom-desc = Eiporavo mba’etépa ejokóta.
 content-blocking-private-trackers = Jehekaha ojekuaáva ovetã ñemiguápe añoite
 content-blocking-third-party-cookies = Jehekaha kookie mbohapyguáva
@@ -786,6 +787,9 @@ tracking-exceptions =
 tracking-change-block-list =
     .label = Jokoha rysýi moambue…
     .accesskey = J
+tracking-manage-exceptions =
+    .label = Ykepeguére ñangareko
+    .accesskey = x
 
 ## Privacy Section - Permissions
 
@@ -853,6 +857,7 @@ collection-health-report-link = Kuaave
 collection-studies =
     .label = Emoneĩ { -brand-short-name } omohenda ha omongu’e hag̃ua kuaarã
 collection-studies-link = Ehecha kuaarã { -brand-short-name } mba’éva
+addon-recommendations-link = Kuaave
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Pe mba'ekuaarã momarandu oñemboguéma ko ñemboheko guasúpe g̃uarã
