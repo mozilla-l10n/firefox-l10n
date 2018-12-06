@@ -23,6 +23,8 @@ app-title = { -brand-short-name } מזהה יישום { $appId } ‏- InBrowserE
 ##  $name: the name of scope, active cache, waiting cache and the push end point.
 ##  $url: the url of script specification and current worker.
 
+scope = <strong>היקף:</strong> { $name }
+active-cache-name = <strong>שם המטמון הפעיל:</strong> { $name }
 # This term is used as a button label (verb, not noun).
 update-button = עדכון
 unregister-button = ביטול רישום
