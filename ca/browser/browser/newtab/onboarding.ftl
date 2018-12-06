@@ -31,5 +31,10 @@ onboarding-fxa-title = Sincronització
 ## Message strings belonging to the Return to AMO flow
 
 return-to-amo-sub-header = Molt bé, teniu el { -brand-short-name }
+# <icon></icon> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-header = Ara, instal·leu l'extensió <icon></icon><b>{ $addon-name }</b>.
 return-to-amo-extension-button = Afegeix l'extensió
 return-to-amo-get-started-button = Primers passos amb el { -brand-short-name }
