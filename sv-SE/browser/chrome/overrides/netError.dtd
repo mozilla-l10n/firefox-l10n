@@ -12,7 +12,6 @@
 <!ENTITY advanced.label "Avancerat">
 <!ENTITY continue2.label "Mer…">
 <!ENTITY moreInformation.label "Mer information">
-
 <!ENTITY viewCertificate.label "Visa certifikat">
 
 <!-- Specific error messages -->
@@ -102,9 +101,6 @@ will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Ägaren av <span class='hostname'/> har konfigurerat sin webbplats felaktigt.  För att skydda din information från att bli stulen, har &brandShortName; inte anslutit till denna webbplats.">
 <!ENTITY certerror.introPara2 "&brandShortName; upptäckte ett potentiellt säkerhetshot och fortsatte inte till <span class='hostname'/>. Om du besöker den här webbplatsen kan angripare försöka stjäla information som lösenord, e-post eller kreditkortsuppgifter.">
-
-<!ENTITY certerror.expiredCert.secondPara "Problemet beror sannolikt på att datorns klocka är inställd på fel tid, vilket hindrar &brandShortName; från att ansluta säkert.">
-
 <!ENTITY certerror.sts.introPara "&brandShortName; upptäckte ett potentiellt säkerhetshot och fortsatte inte <span class='hostname'/> eftersom den här webbplatsen kräver en säker anslutning.">
 
 <!ENTITY certerror.expiredCert.introPara "&brandShortName; upptäckte ett problem och fortsatte inte till <span class='hostname'/>. Webbplatsen är antingen felkonfigurerad eller din klocka är inställd på fel tid.">
@@ -169,6 +165,13 @@ was trying to connect. -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> använder säkerhetsteknologi som är föråldrad och sårbar för angrepp. En angripare kan lätt avslöja information som du trott ska vara säker. Webbplatsens administratör måste laga servern innan du kan besöka webbplatsen.</p><p>Felkod: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Blockerad sida">
+
+<!ENTITY certerror.mitm.title "Programvaran hindrar &brandShortName; från säker anslutning till den här webbplatsen">
+<!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> är troligtvis en säker webbplats, men en säker anslutning kunde inte etableras. Problemet orsakas av <span class='mitm-name'/>, vilket är antingen programvara på din dator eller ditt nätverk.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt1 'Om ditt antivirusprogram innehåller en funktion som skannar krypterade anslutningar (ofta kallad "webbskanning" eller "https-skanning") kan du inaktivera den här funktionen. Om det inte fungerar kan du ta bort och installera om antivirusprogrammet.'>
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "Om du är på ett företagsnätverk kan du kontakta din IT-avdelning.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "Om du inte känner till <span class='mitm-name'/>, kan det här vara en attack och du borde inte fortsätta till webbplatsen.">
+<!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "Om du inte känner till <span class='mitm-name'/>, kan det här vara en attack och det finns inget du kan göra för att komma åt webbplatsen.">
 
 <!ENTITY clockSkewError.title "Din dators klocka går fel">
 <!ENTITY clockSkewError.longDesc "Din dator tycker att det är <span id='wrongSystemTime_systemDate1'/>, vilket hindrar &brandShortName; från att ansluta säkert. För att besöka <span class='hostname'></span>, uppdatera datorns klocka i dina systeminställningar till aktuellt datum, tid och tidszon och uppdatera sedan <span class='hostname'></span>.">
