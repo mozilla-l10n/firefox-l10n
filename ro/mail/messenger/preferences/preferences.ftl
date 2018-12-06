@@ -6,7 +6,7 @@ choose-messenger-language-description = Alege limba de folosit pentru afișarea 
 manage-messenger-languages-button =
     .label = Setează alternative...
     .accesskey = I
-confirm-messenger-language-change-description = Repornește { -brand-short-name } pentru a efectua aceste modificări
+confirm-messenger-language-change-description = Repornește { -brand-short-name } pentru a aplica aceste modificări
 confirm-messenger-language-change-button = Aplică și repornește
 update-pref-write-failure-title = Eșec la scriere
 # Variables:
