@@ -11,9 +11,11 @@ title-label = ਪਲੱਗਇਨ ਬਾਰੇ
 ##   $pluginFullPath: path of the plugin
 ##   $version: version of the plugin
 
+path-dd = <span data-l10n-name="path">ਮਾਰਗ:</span> { $pluginFullPath }
 
 ## These strings describe the state of plugins
 ##
 ## Variables:
 ##   $blockListState: show some special state of the plugin, such as blocked, outdated
 
+mime-type-label = MIME ਕਿਸਮ
