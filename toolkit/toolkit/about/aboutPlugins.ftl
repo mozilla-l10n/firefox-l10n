@@ -11,6 +11,8 @@ title-label = Sobre os plugins
 ##   $pluginFullPath: path of the plugin
 ##   $version: version of the plugin
 
+file-dd = <span data-l10n-name="file">Arquivo:</span> { $pluginLibraries }
+version-dd = <span data-l10n-name="version">Versão:</span> { $version }
 
 ## These strings describe the state of plugins
 ##
