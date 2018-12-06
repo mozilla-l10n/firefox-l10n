@@ -6,6 +6,11 @@
 ### The term "Service Workers" and "Workers" should not be translated
 
 about-service-workers-main-title = Các service worker đã đăng ký
+# The original title of service workers' information
+#
+# Variables:
+#   $originTitle: original title
+origin-title = Nguồn gốc: { $originTitle }
 # Show if app id is in isolated browser element, the term "InBrowserElement" should not be translated
 #
 # Variables:
