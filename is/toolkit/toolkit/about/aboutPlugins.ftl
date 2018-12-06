@@ -26,3 +26,4 @@ state-dd-Disabled = <span data-l10n-name="state">Fylki:</span> Óvirkt
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">Fylki:</span> Óvirkt ({ $blockListState })
 mime-type-label = MIME gerð
 description-label = Lýsing
+suffixes-label = Skráarendingar
