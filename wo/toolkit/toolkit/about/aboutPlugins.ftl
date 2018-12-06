@@ -2,6 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+title-label = Ñeel lawal yi
+installed-plugins-label = Campéefi lawal
+no-plugins-are-installed-label = Giseesu fi genn campéefi lawal
+deprecation-description = Dafa am lu fi nekkul? Yenn lawal yi yoratuñleen fi. <a data-l10n-name="deprecation-link">Gën cee xam.</a>
 
 ## The information of plugins
 ##
@@ -19,3 +23,10 @@ version-dd = <span data-l10n-name="version">Sumb:</span> { $version }
 ## Variables:
 ##   $blockListState: show some special state of the plugin, such as blocked, outdated
 
+state-dd-enabled = <span data-l10n-name="state">Nekkiin:</span> Doxalees
+state-dd-enabled-block-list-state = <span data-l10n-name="state">Nekkiin:</span> Doxalees ({ $blockListState })
+state-dd-Disabled = <span data-l10n-name="state">Nekkiin:</span> Doxadilees
+state-dd-Disabled-block-list-state = <span data-l10n-name="state">Nekkiin:</span> Doxadilees ({ $blockListState })
+mime-type-label = Xeetu MIME
+description-label = Faramfàcce
+suffixes-label = Toftalaan
