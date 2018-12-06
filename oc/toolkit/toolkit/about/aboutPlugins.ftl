@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = A prepaus dels moduls
+installed-plugins-label = Plugins activats
+no-plugins-are-installed-label = Cap de plugin activat pas trobat
 
 ## The information of plugins
 ##
@@ -11,6 +13,7 @@ title-label = A prepaus dels moduls
 ##   $pluginFullPath: path of the plugin
 ##   $version: version of the plugin
 
+path-dd = <span data-l10n-name="path">Camin :</span> { $pluginFullPath }
 
 ## These strings describe the state of plugins
 ##
