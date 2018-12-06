@@ -3,6 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = Makwako rwako i kumpiuta
+installed-plugins-label = Larwak ma kiketo
+no-plugins-are-installed-label = Pe tye larwak ma kiketo ma kinongo
+deprecation-description = Gino mo orem? Pe dong kicwako larwak mogo. <a data-l10n-name="deprecation-link">Nong ngec mapol.</a>
 
 ## The information of plugins
 ##
@@ -20,6 +23,10 @@ version-dd = <span data-l10n-name="version">Cik:</span> { $version }
 ## Variables:
 ##   $blockListState: show some special state of the plugin, such as blocked, outdated
 
+state-dd-enabled = <span data-l10n-name="state">Kit ma tye kwede:</span> Kiye
+state-dd-enabled-block-list-state = <span data-l10n-name="state">Kit ma tye kwede:</span> Kiye ({ $blockListState })
+state-dd-Disabled = <span data-l10n-name="state">Kit ma tye kwede:</span> Gijuko woko
+state-dd-Disabled-block-list-state = <span data-l10n-name="state">Kit ma tye kwede:</span> Gijuko woko ({ $blockListState })
 mime-type-label = Kit MIME
 description-label = Tito lok iye
 suffixes-label = Suffixes
