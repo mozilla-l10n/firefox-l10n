@@ -4,6 +4,8 @@
 
 title-label = Относно приставките
 installed-plugins-label = Инсталирани приставки
+no-plugins-are-installed-label = Не са намерени инсталирани приставки
+deprecation-description = Липсва ли нещо? Някои приставки вече не се поддържат. <a data-l10n-name="deprecation-link">Научете повече</a>
 
 ## The information of plugins
 ##
