@@ -5,6 +5,7 @@
 title-label = Malunga neeSoftwe ezincedisayo
 installed-plugins-label = Izifakelo ezifakiweyo
 no-plugins-are-installed-label = Akukho zifakelo zifakiweyo ezifumanekileyo
+deprecation-description = Ngaba kukho into engekhoyo? Ezinye iiplagini azisaxhaswa. <a data-l10n-name="deprecation-link">Funda Okungakumbi.</a>
 
 ## The information of plugins
 ##
