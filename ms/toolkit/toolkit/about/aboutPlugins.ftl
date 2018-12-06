@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = Perihal Plugin
+installed-plugins-label = Plugin dipasang
 
 ## The information of plugins
 ##
