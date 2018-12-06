@@ -12,6 +12,7 @@ title-label = Ka ga ditsebišo-koketšo
 ##   $version: version of the plugin
 
 file-dd = <span data-l10n-name="file">Faele:</span> { $pluginLibraries }
+path-dd = <span data-l10n-name="path">Tsejana:</span> { $pluginFullPath }
 version-dd = <span data-l10n-name="version">Kgatišo:</span> { $version }
 
 ## These strings describe the state of plugins
