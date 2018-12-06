@@ -5,6 +5,7 @@
 title-label = ກ່ຽວກັບ Plugins
 installed-plugins-label = ຕິດຕັ້ງ Plugins ແລ້ວ
 no-plugins-are-installed-label = ບໍ່ພົບ Plugins ທີ່ໄດ້ຮັບການຕິດຕັ້ງໄວ້
+deprecation-description = ມີບາງຢ່າງຂາດຫາຍໄປ? ບາງປັກອິນແມ່ນບໍ່ໄດ້ຮັບການສະຫນັບສະຫນູນແລ້ວ. <a data-l10n-name="deprecation-link">ຮຽນຮູ້ເພີ່ມເຕີມ.</a>
 
 ## The information of plugins
 ##
