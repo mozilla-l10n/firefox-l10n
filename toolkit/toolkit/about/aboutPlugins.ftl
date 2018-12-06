@@ -5,6 +5,7 @@
 title-label = O vtičnikih
 installed-plugins-label = Nameščeni vtičniki
 no-plugins-are-installed-label = Ni nameščenih vtičnikov
+deprecation-description = Pogrešate kaj? Nekateri vtičniki niso več podprti. <a data-l10n-name="deprecation-link">Več o tem.</a>
 
 ## The information of plugins
 ##
