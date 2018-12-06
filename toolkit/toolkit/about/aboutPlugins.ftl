@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+installed-plugins-label = संस्थापित प्लगिन
+no-plugins-are-installed-label = कोनो संस्थापित प्लगिन नहि भेटल
 
 ## The information of plugins
 ##
@@ -10,6 +12,7 @@
 ##   $pluginFullPath: path of the plugin
 ##   $version: version of the plugin
 
+path-dd = <span data-l10n-name="path">पथ:</span> { $pluginFullPath }
 
 ## These strings describe the state of plugins
 ##
