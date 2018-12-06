@@ -1034,6 +1034,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.manageSettings.accesskey "จ">
 
 <!ENTITY contentBlocking.trackersView.label "ตัวติดตาม">
+<!ENTITY contentBlocking.trackersView.strictInfo.label "เพื่อปิดกั้นตัวติดตามทั้งหมด ตั้งการปิดกั้นเนื้อหาเป็น “เข้มงวด”">
 
 <!ENTITY contentBlocking.cookies.label "คุกกี้">
 <!ENTITY contentBlocking.cookiesView.label "คุกกี้และข้อมูลไซต์">
