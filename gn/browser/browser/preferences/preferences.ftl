@@ -141,6 +141,8 @@ set-as-my-default-browser =
 startup-restore-previous-session =
     .label = Embojevy tembiapo mboyveguávape
     .accesskey = s
+startup-restore-warn-on-quit =
+    .label = Eñatoĩva’erã esẽnguévo kundahágui.
 disable-extension =
     .label = Moĩmbaha Monge
 tabs-group-header = Tendayke
@@ -292,6 +294,9 @@ update-enable-search-update =
     .label = Jehekaha mongu'eha ñembohekopyahu ijeheguíva
     .accesskey = e
 update-pref-write-failure-title = Ojavy jehai
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = Ndaikatúi eñongatu pe jeguerohoryvéva. Ndaikatúi ehai marandurendápe: { $path }
 
 ## General Section - Performance
 
@@ -535,7 +540,6 @@ privacy-header = Kundahára Ñemigua
 
 ## Privacy Section - Forms
 
-forms-header = Ysaja ha ñe'ẽnemi
 logins-header = Tembiapo ñepyrũ ha ñe’ẽñemi
 forms-ask-to-save-logins =
     .label = Eporandu eñongatu hag̃ua tembiapo ñepyrũ ha ñe’ẽñemi ñandutípe
@@ -632,6 +636,14 @@ sitedata-block-all-third-party-option =
     .label = Opaite kookie mohapyguáva (ikatu ombojavy ñanduti rendápe)
 sitedata-block-all-option =
     .label = Opaite kookie (ombojavykuaa ñanduti rendápe)
+sitedata-option-block-trackers =
+    .label = Mbohapyháva rekaha
+sitedata-option-block-unvisited =
+    .label = Ñanduto renda kookie ojeike’ỹha
+sitedata-option-block-all-third-party =
+    .label = Opaite kookie mbohapyháva (ikatu ombojavy ñanduti renda)
+sitedata-option-block-all =
+    .label = Opaite umi kookie (ombojavýta ñanduti renda)
 sitedata-clear =
     .label = Mba'ekuaarã mopotĩ…
     .accesskey = l
@@ -645,6 +657,9 @@ sitedata-cookies-exceptions =
 # in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
 # Cookies and Site Data section.
 sitedata-warning-your-settings-prevent-changes = Ne ñemboheko pe tetepy jejokópe ojokohína kookie ñemboheko ñemoambue ha avei tenda mba’ekuaarä.
+sitedata-cookies-permissions =
+    .label = Ejerure ñemoneĩ…
+    .accesskey = P
 
 ## Privacy Section - Address Bar
 
@@ -698,6 +713,33 @@ content-blocking-tracking-protection-option-always =
 content-blocking-tracking-protection-option-private =
     .label = Ovetã ñemíme añoite
     .accesskey = p
+# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+content-blocking-setting-standard =
+    .label = Ypygua
+    .accesskey = d
+content-blocking-setting-strict =
+    .label = Mbaretépe
+    .accesskey = r
+content-blocking-setting-custom =
+    .label = Ñemomba'e
+    .accesskey = C
+content-blocking-custom-desc = Eiporavo mba’etépa ejokóta.
+content-blocking-private-trackers = Jehekaha ojekuaáva ovetã ñemiguápe añoite
+content-blocking-third-party-cookies = Jehekaha kookie mbohapyguáva
+content-blocking-all-windows-trackers = Jehekaha ojekuaáva opaite ovetãme
+content-blocking-all-third-party-cookies = Opaite kookie mbohapyguáva
+content-blocking-warning-title = ¡Ema'ẽmi!
+content-blocking-learn-how = Mba’éicha eikuaa
+content-blocking-trackers-label =
+    .label = Hekahára
+    .accesskey = T
+content-blocking-tracking-protection-option-all-windows =
+    .label = Opaite ovetãme
+    .accesskey = A
+content-blocking-option-private =
+    .label = Ovetã ñemiguápe añoite
+    .accesskey = P
 content-blocking-tracking-protection-change-block-list = Emoambue jokoha rysýi
 content-blocking-third-party-cookies-label =
     .label = Kookie mbohapyguáva
@@ -720,6 +762,9 @@ content-blocking-reject-trackers-block-trackers-option =
 content-blocking-reject-trackers-all-third-parties-option =
     .label = Opaite kookie mbohapyguáva (ikatu ombojavy ñanduti rendápe)
     .accesskey = A
+content-blocking-cookies-label =
+    .label = Kookie
+    .accesskey = C
 
 ## Privacy Section - Tracking
 
