@@ -11,6 +11,8 @@ title-label = Aangaande inproppe
 ##   $pluginFullPath: path of the plugin
 ##   $version: version of the plugin
 
+file-dd = <span data-l10n-name="file">Lêer:</span> { $pluginLibraries }
+version-dd = <span data-l10n-name="version">Weergawe:</span> { $version }
 
 ## These strings describe the state of plugins
 ##
