@@ -5,6 +5,7 @@
 title-label = Um tengiforrit
 installed-plugins-label = Uppsett tengiforrit
 no-plugins-are-installed-label = Fann ekki nein uppsett tengiforrit
+deprecation-description = Vantar eitthvað? Sum tengiforrit eru ekki lengur stutt. <a data-l10n-name="deprecation-link">Lesa meira.</a>
 
 ## The information of plugins
 ##
