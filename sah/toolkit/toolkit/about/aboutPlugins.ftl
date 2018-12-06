@@ -13,6 +13,7 @@ no-plugins-are-installed-label = Туруоруллубут плагииннар
 ##   $pluginFullPath: path of the plugin
 ##   $version: version of the plugin
 
+file-dd = <span data-l10n-name="file">Билэ: </span> { $pluginLibraries }
 path-dd = <span data-l10n-name="path">Суол:</span> { $pluginFullPath }
 version-dd = <span data-l10n-name="version">Барыл:</span> { $version }
 
