@@ -523,7 +523,6 @@ privacy-header = Privadesa del navegador
 
 ## Privacy Section - Forms
 
-forms-header = Formularis i contrasenyes
 logins-header = Inicis de sessió i contrasenyes
 forms-ask-to-save-logins =
     .label = Demana si vull desar les dades d'inici de sessió i contrasenyes dels llocs web
@@ -837,7 +836,7 @@ certs-enable-ocsp =
     .label = Consulta els servidors de resposta OCSP per confirmar la validesa actual dels certificats
     .accesskey = C
 certs-view =
-    .label = Visualitza els certificats…
+    .label = Mostra els certificats…
     .accesskey = c
 certs-devices =
     .label = Dispositius de seguretat…
