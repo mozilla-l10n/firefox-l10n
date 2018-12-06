@@ -10,12 +10,17 @@
 ##   $pluginFullPath: path of the plugin
 ##   $version: version of the plugin
 
+path-dd = <span data-l10n-name="path">Qısayol:</span> { $pluginFullPath }
 
 ## These strings describe the state of plugins
 ##
 ## Variables:
 ##   $blockListState: show some special state of the plugin, such as blocked, outdated
 
+state-dd-enabled = <span data-l10n-name="state">Vəziyyət:</span> Aktivdir
+state-dd-enabled-block-list-state = <span data-l10n-name="state">Vəziyyət:</span> Aktivdir ({ $blockListState })
+state-dd-Disabled = <span data-l10n-name="state">Vəziyyət:</span> İstifadə oluna bilməz
+state-dd-Disabled-block-list-state = <span data-l10n-name="state">Vəziyyət:</span> İstifadə oluna bilməz ({ $blockListState })
 mime-type-label = MIME Formatı
 description-label = Açıqlama
 suffixes-label = Son Əlavə
