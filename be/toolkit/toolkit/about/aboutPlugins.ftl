@@ -2,6 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+title-label = Пра плагіны
+installed-plugins-label = Усталяваныя плагіны
+no-plugins-are-installed-label = Няма ўсталяваных плагінаў
+deprecation-description = Нешта адсутнічае? Некаторыя плагіны больш не падтрымліваюцца. <a data-l10n-name="deprecation-link">Падрабязней.</a>
 
 ## The information of plugins
 ##
