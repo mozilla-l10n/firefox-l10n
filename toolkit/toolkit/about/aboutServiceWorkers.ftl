@@ -17,3 +17,13 @@ origin-title = મૂળ: { $originTitle }
 ##  $name: the name of scope, active cache, waiting cache and the push end point.
 ##  $url: the url of script specification and current worker.
 
+scope = <strong>હદ:</strong> { $name }
+script-spec = <strong>સ્ક્રિપ્ટ સ્પેક:</strong> <a data-l10n-name="link">{ $url }</a>
+current-worker-url = <strong>વર્તમાન કાર્યકર્તા URL:</strong> <a data-l10n-name="link">{ $url }</a>
+active-cache-name = <strong>સક્રિય કેશ નામ:</strong> { $name }
+waiting-cache-name = <strong>પ્રતીક્ષા કેશ નામ:</strong> { $name }
+# This term is used as a button label (verb, not noun).
+update-button = અદ્યતન કરો
+unregister-button = નોંધણી રદ કરો
+unregister-error = આ Service Worker ની નોંધણી રદ કરવામાં નિષ્ફળ.
+waiting = રાહ જોઇ રહ્યા છે…
