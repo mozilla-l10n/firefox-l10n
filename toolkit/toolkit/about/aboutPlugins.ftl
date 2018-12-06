@@ -5,6 +5,7 @@
 title-label = Par spraudņiem
 installed-plugins-label = Instalētie spraudņi
 no-plugins-are-installed-label = Neviens spraudnis nav uzinstalēts
+deprecation-description = Kaut kas pietrūkst? Daži spraudņi vairs netiek atbalstīti. <a data-l10n-name="deprecation-link">Uzzināt vairāk.</a>
 
 ## The information of plugins
 ##
