@@ -4,6 +4,7 @@
 
 title-label = 关于插件
 installed-plugins-label = 已安装的插件
+no-plugins-are-installed-label = 找不到已安装的插件
 
 ## The information of plugins
 ##
@@ -21,6 +22,10 @@ version-dd = <span data-l10n-name="version">版本：</span> { $version }
 ## Variables:
 ##   $blockListState: show some special state of the plugin, such as blocked, outdated
 
+state-dd-enabled = <span data-l10n-name="state">状态：</span> 启用
+state-dd-enabled-block-list-state = <span data-l10n-name="state">状态：</span> 启用 ({ $blockListState })
+state-dd-Disabled = <span data-l10n-name="state">状态：</span> 禁用
+state-dd-Disabled-block-list-state = <span data-l10n-name="state">状态：</span> 禁用 ({ $blockListState })
 mime-type-label = MIME 类型
 description-label = 描述
 suffixes-label = 后缀
