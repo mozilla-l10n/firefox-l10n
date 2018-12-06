@@ -13,7 +13,9 @@ no-plugins-are-installed-label = ਕੋਈ ਇੰਸਟਾਲ ਕੀਤੀ ਪ�
 ##   $pluginFullPath: path of the plugin
 ##   $version: version of the plugin
 
+file-dd = <span data-l10n-name="file">ਫਾਈਲ:</span> { $pluginLibraries }
 path-dd = <span data-l10n-name="path">ਮਾਰਗ:</span> { $pluginFullPath }
+version-dd = <span data-l10n-name="version">ਵਰਜ਼ਨ:</span> { $version }
 
 ## These strings describe the state of plugins
 ##
@@ -25,3 +27,5 @@ state-dd-enabled-block-list-state = <span data-l10n-name="state">ਹਾਲਤ:</
 state-dd-Disabled = <span data-l10n-name="state">ਹਾਲਤ:</span> ਬੰਦ ਹੈ
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">ਹਾਲਤ:</span> ਬੰਦ ਹੈ ({ $blockListState })
 mime-type-label = MIME ਕਿਸਮ
+description-label = ਵੇਰਵੇ
+suffixes-label = ਪਿਛੇਤਰ
