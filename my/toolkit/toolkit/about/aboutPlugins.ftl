@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = ပလတ်ဂင်များ အကြောင်း
+installed-plugins-label = အသုံးပြုဆော့ဝဲများ
+no-plugins-are-installed-label = တပ်ဆင်ထားသောဆော့ဝဲများမတွေ့ရ
 
 ## The information of plugins
 ##
@@ -20,6 +22,10 @@ version-dd = <span data-l10n-name="version">ဗားရှင်း -</span> { 
 ## Variables:
 ##   $blockListState: show some special state of the plugin, such as blocked, outdated
 
+state-dd-enabled = <span data-l10n-name="state">အခြေအနေ:</span> ဖွင့်ထားတယ်
+state-dd-enabled-block-list-state = <span data-l10n-name="state">အခြေအနေ:</span> ဖွင့်ထားတယ် ({ $blockListState })
+state-dd-Disabled = <span data-l10n-name="state">အခြေအနေ:</span> ပိတ်ထားတယ်
+state-dd-Disabled-block-list-state = <span data-l10n-name="state">အခြေအနေ:</span> ပိတ်ထားတယ် ({ $blockListState })
 mime-type-label = MIME အမျိုးအစား
 description-label = ဖေါ်ပြချက်
 suffixes-label = နောက်ဆက်စကားစုများ
