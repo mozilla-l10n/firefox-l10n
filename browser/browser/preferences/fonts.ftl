@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 fonts-window =
-    .title = Pengaturan Huruf Lanjutan
+    .title = Fon
 fonts-window-close =
     .key = w
 
@@ -65,7 +65,7 @@ fonts-langgroup-telugu =
 fonts-langgroup-thai =
     .label = Thailand
 fonts-langgroup-tibetan =
-    .label = Tibetan
+    .label = Tibet
 fonts-langgroup-canadian =
     .label = Unified Canadian Syllabary
 fonts-langgroup-other =
@@ -94,7 +94,7 @@ fonts-minsize = Ukuran fon minimum
 fonts-minsize-none =
     .label = Tidak Ada
 fonts-allow-own =
-    .label = Izinkan laman untuk memilih jenis hurufnya sendiri, dari pada menggunakan pilihan Anda di atas
+    .label = Izinkan laman untuk memilih jenis fonnya sendiri, dari pada menggunakan pilihan Anda di atas
     .accesskey = I
 
 ## Text Encodings
@@ -103,7 +103,7 @@ fonts-allow-own =
 ## of the language.
 
 fonts-languages-fallback-header = Pengodean Karakter untuk Konten Lawas
-fonts-languages-fallback-desc = Pengodean karakter ini digunakan untuk konten lawas yang gagal mendeklarasikan pengodeannya.
+fonts-languages-fallback-desc = Pengodean karakter ini digunakan untuk konten lawas yang gagal menyebutkan pengodeannya.
 fonts-languages-fallback-label = Pengodean Teks Alternatif
     .accesskey = T
 fonts-languages-fallback-name-auto =
@@ -131,15 +131,15 @@ fonts-languages-fallback-name-japanese =
 fonts-languages-fallback-name-korean =
     .label = Korea
 fonts-languages-fallback-name-thai =
-    .label = Thai
+    .label = Thailand
 fonts-languages-fallback-name-turkish =
     .label = Turki
 fonts-languages-fallback-name-vietnamese =
     .label = Vietnam
 fonts-languages-fallback-name-other =
     .label = Lainnya (termasuk Eropa Barat)
-fonts-very-large-warning-title = Ukuran huruf minimal yang sangat besar
-fonts-very-large-warning-message = Anda telah memilih ukuran huruf minimal yang sangat besar (lebih dari 24 piksel). Ini akan mempersulit bahkan tidak memungkinkan penggunaan laman konfigurasi seperti ini.
+fonts-very-large-warning-title = Ukuran fon minimal yang sangat besar
+fonts-very-large-warning-message = Anda telah memilih ukuran fon minimal yang sangat besar (lebih dari 24 piksel). Ini akan mempersulit bahkan tidak memungkinkan penggunaan sejumlah laman konfigurasi penting seperti ini.
 fonts-very-large-warning-accept = Biarkan saja
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
