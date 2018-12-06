@@ -5,6 +5,9 @@
 
 ### The term "Service Workers" and "Workers" should not be translated
 
+about-service-workers-main-title = నమోదైన సర్వీస్ వర్కర్లు
+about-service-workers-warning-not-enabled = సర్వీస్ వర్కర్లు చేతనించిలేవు.
+about-service-workers-warning-no-service-workers = నమోదైన సర్వీస్ వర్కర్లు లేరు.
 # The original title of service workers' information
 #
 # Variables:
