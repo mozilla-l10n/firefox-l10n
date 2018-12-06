@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = खोंजा आदेर  को बाबोत ते
-installed-plugins-label = खोंजा आदेर बोहाल एना{ " " }
+installed-plugins-label = खोंजा आदेर बोहाल एना
 no-plugins-are-installed-label = जाहान बोहाल खोंजा आदेर बाय ञाम लेना .
 
 ## The information of plugins
