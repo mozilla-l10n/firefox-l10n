@@ -8,3 +8,7 @@ manage-messenger-languages-button =
     .accesskey = l
 confirm-messenger-language-change-description = Reinicieu el { -brand-short-name } per aplicar els canvis
 confirm-messenger-language-change-button = Aplica i reinicia
+update-pref-write-failure-title = Error d'escriptura
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = No s'ha pogut desar la preferència. No s'ha pogut escriure al fitxer: { $path }

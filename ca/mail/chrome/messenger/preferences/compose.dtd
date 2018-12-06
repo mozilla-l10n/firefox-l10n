@@ -23,6 +23,7 @@
 <!ENTITY fontSize.label                       "Mida:">
 <!ENTITY fontSize.accesskey                   "M">
 <!ENTITY useReaderDefaults.label              "Utilitza els colors per defecte del lector">
+<!ENTITY useReaderDefaults.accesskey          "d">
 <!ENTITY fontColor.label                      "Color del text:">
 <!ENTITY fontColor.accesskey                  "x">
 <!ENTITY bgColor.label                        "Color del fons:">
