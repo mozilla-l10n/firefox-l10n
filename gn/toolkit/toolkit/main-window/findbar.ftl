@@ -15,6 +15,14 @@ findbar-highlight-all =
     .label = Embojekuaave
     .accesskey = l
     .tooltiptext = Ehechaukave oĩva guive jehaipyre
+findbar-highlight-all2 =
+    .label = Ehechapaite
+    .accesskey =
+        { PLATFORM() ->
+            [macos] l
+           *[other] a
+        }
+    .tooltiptext = Ehachayka opaite je'pyre
 findbar-case-sensitive =
     .label = Ejesareko tai tuicháva/michĩva rehe
     .accesskey = c

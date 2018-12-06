@@ -38,6 +38,15 @@ energy-impact-high = Epyta ({ $value })
 energy-impact-medium = Mbyte ({ $value })
 energy-impact-low = Karape ({ $value })
 
+## Values for the Memory column
+##
+## Variables:
+##   $value (Number) - How much memory is used
+
+size-KB = { $value } KB
+size-MB = { $value } MB
+size-GB = { $value } GB
+
 ## Tooltips for the action buttons
 
 close-tab =
