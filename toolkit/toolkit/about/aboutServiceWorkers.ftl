@@ -6,7 +6,7 @@
 ### The term "Service Workers" and "Workers" should not be translated
 
 about-service-workers-title = Malunga Nabasebenzi Beenkonzo
-about-service-workers-main-title = Abasebenzisi beNkonzo Ababhalisiweyo{ " " }
+about-service-workers-main-title = Abasebenzisi beNkonzo Ababhalisiweyo
 about-service-workers-warning-not-enabled = Abasebenzi Beenkonzo abavulwanga.
 about-service-workers-warning-no-service-workers = Abakho Abasebenzisi Benkonzo ababhalisiweyo.
 # The original title of service workers' information
