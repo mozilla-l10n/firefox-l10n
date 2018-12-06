@@ -10,10 +10,13 @@
 ##   $pluginFullPath: path of the plugin
 ##   $version: version of the plugin
 
+version-dd = <span data-l10n-name="version">সংস্কৰণ:</span> { $version }
 
 ## These strings describe the state of plugins
 ##
 ## Variables:
 ##   $blockListState: show some special state of the plugin, such as blocked, outdated
 
+mime-type-label = MIME ধৰণ
 description-label = বিৱৰণ
+suffixes-label = প্ৰত্যয়সমূহ
