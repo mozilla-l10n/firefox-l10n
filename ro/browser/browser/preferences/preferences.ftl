@@ -127,7 +127,7 @@ startup-header = Pornire
 # since this setting is only exposed in Firefox Developer Edition
 separate-profile-mode =
     .label = Permite ca { -brand-short-name } și Firefox să ruleze în același timp
-use-firefox-sync = Pont: Acesta folosește profiluri separate. Folosește { -sync-brand-short-name } pentru a împărtăși datele între ele.
+use-firefox-sync = Pont: Acesta folosește profiluri separate. Folosește { -sync-brand-short-name } pentru a partaja date între ele.
 get-started-not-logged-in = Autentifică-te la { -sync-brand-short-name }…
 get-started-configured = Deschide preferințele { -sync-brand-short-name }
 always-check-default =
@@ -141,6 +141,8 @@ set-as-my-default-browser =
 startup-restore-previous-session =
     .label = Restaurează sesiunea anterioară
     .accesskey = s
+startup-restore-warn-on-quit =
+    .label = Avertizează la închiderea browserului
 disable-extension =
     .label = Dezactivează extensia
 tabs-group-header = File
@@ -151,19 +153,19 @@ open-new-link-as-tabs =
     .label = Deschide linkuri în file în loc de ferestre noi
     .accesskey = w
 warn-on-close-multiple-tabs =
-    .label = Avertizează la închiderea filelor multiple
+    .label = Avertizează la închiderea mai multor file
     .accesskey = m
 warn-on-quit-close-multiple-tabs =
-    .label = Avertizează la ieșirea și închiderea mai multor file
+    .label = Avertizează la închiderea browserului cu mai multe file deschise
     .accesskey = m
 warn-on-open-many-tabs =
-    .label = Te avertizează atunci când deschiderea mai multor file ar putea încetini { -brand-short-name }
+    .label = Te avertizează când deschiderea mai multor file ar putea încetini { -brand-short-name }
     .accesskey = d
 switch-links-to-new-tabs =
-    .label = Când se deschide un link într-o nouă filă, comută la aceasta imediat
+    .label = La deschiderea unui link într-o filă nouă, comută imediat pe fila respectivă
     .accesskey = C
 show-tabs-in-taskbar =
-    .label = Afișează miniaturi ale filelor în bara de activități Windows
+    .label = Afișează previzualizări ale filelor în bara de sarcini din Windows
     .accesskey = k
 browser-containers-enabled =
     .label = Activează filele container
@@ -541,7 +543,6 @@ privacy-header = Confidențialitate în browser
 
 ## Privacy Section - Forms
 
-forms-header = Formulare și parole
 logins-header = Autentificări și parole
 forms-ask-to-save-logins =
     .label = Solicită salvarea autentificărilor și parolelor pentru site-urile web
@@ -863,6 +864,9 @@ collection-health-report-link = Află mai multe
 collection-studies =
     .label = Permite ca { -brand-short-name } să instaleze și să realizeze studii
 collection-studies-link = Vezi studiile { -brand-short-name }
+addon-recommendations =
+    .label = Permiți { -brand-short-name } să facă recomandări de extensie personalizate
+addon-recommendations-link = Află mai multe
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Raportarea datelor este dezactivată în configurația folosită
