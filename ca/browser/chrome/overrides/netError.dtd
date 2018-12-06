@@ -165,4 +165,5 @@ was trying to connect. -->
 <!ENTITY prefReset.longDesc "Sembla que la configuració actual de seguretat a la xarxa està causant aquest error. Voleu utilitzar la configuració per defecte?">
 <!ENTITY prefReset.label "Restaura la configuració per defecte">
 
+<!ENTITY networkProtocolError.title "Error del protocol de xarxa">
 <!ENTITY networkProtocolError.longDesc "<p>La pàgina que esteu intentant veure no es pot mostrar perquè s'ha produït un error del protocol de xarxa.</p><ul><li>Poseu-vos en contacte amb els propietaris del lloc web per informar-los del problema.</li></ul>">

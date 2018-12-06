@@ -53,6 +53,7 @@ pane-sync-title = Compte del Firefox
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = Assistència del { -brand-short-name }
+addons-button-label = Extensions i temes
 focus-search =
     .key = f
 close-button =
@@ -83,6 +84,9 @@ extension-controlled-homepage-override = L'extensió «<img data-l10n-name="icon
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
 extension-controlled-new-tab-url = L'extensió «<img data-l10n-name="icon"/> { $name }» controla la vostra pàgina de pestanya nova.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlled-web-notifications = Una extensió, <img data-l10n-name="icon"/> { $name }, controla aquest paràmetre.
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
 extension-controlled-default-search = L'extensió «<img data-l10n-name="icon"/> { $name }» ha definit el vostre motor de cerca per defecte.
@@ -284,6 +288,7 @@ update-application-use-service =
 update-enable-search-update =
     .label = Actualitza automàticament els motors de cerca
     .accesskey = e
+update-pref-write-failure-title = Error d'escriptura
 
 ## General Section - Performance
 
@@ -323,6 +328,10 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Cerca el text en començar a teclejar
     .accesskey = x
+browsing-cfr-recommendations =
+    .label = Recomana extensions durant la navegació
+    .accesskey = R
+browsing-cfr-recommendations-learn-more = Més informació
 
 ## General Section - Proxy
 
@@ -682,6 +691,18 @@ content-blocking-tracking-protection-option-always =
 content-blocking-tracking-protection-option-private =
     .label = Només en finestres privades
     .accesskey = N
+# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+content-blocking-setting-standard =
+    .label = Estàndard
+    .accesskey = d
+content-blocking-setting-strict =
+    .label = Estricte
+    .accesskey = r
+content-blocking-setting-custom =
+    .label = Personalitzat
+    .accesskey = z
+content-blocking-custom-desc = Trieu què voleu blocar.
 content-blocking-tracking-protection-change-block-list = Canvia la llista de bloquejos
 content-blocking-third-party-cookies-label =
     .label = Galetes de tercers
@@ -792,6 +813,7 @@ collection-health-report-link = Més informació
 collection-studies =
     .label = Permet al { -brand-short-name } instal·lar i executar estudis
 collection-studies-link = Mostra els estudis del { -brand-short-name }
+addon-recommendations-link = Més informació
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = L'informe de dades està desactivat en la configuració d'aquesta versió
