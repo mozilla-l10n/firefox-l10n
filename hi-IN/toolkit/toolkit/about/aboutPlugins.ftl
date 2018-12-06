@@ -10,6 +10,7 @@
 ##   $pluginFullPath: path of the plugin
 ##   $version: version of the plugin
 
+path-dd = <span data-l10n-name="path">पथ:</span> { $pluginFullPath }
 version-dd = <span data-l10n-name="version">संस्करण:</span> { $version }
 
 ## These strings describe the state of plugins
