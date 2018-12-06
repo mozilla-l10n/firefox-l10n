@@ -5,6 +5,7 @@
 title-label = Tungkol sa Mga Plugin
 installed-plugins-label = Mga nakainstall na plugin
 no-plugins-are-installed-label = Walang makitang nakainstall na plugin
+deprecation-description = Nawawala ang isang bagay? Ang ilang mga plugin ay hindi na suportado. <a data-l10n-name="deprecation-link">Matuto ng Higit pa.</a>
 
 ## The information of plugins
 ##
@@ -13,6 +14,8 @@ no-plugins-are-installed-label = Walang makitang nakainstall na plugin
 ##   $pluginFullPath: path of the plugin
 ##   $version: version of the plugin
 
+file-dd = <span data-l10n-name="file">File:</span> { $pluginLibraries }
+path-dd = <span data-l10n-name="path">Path:</span> { $pluginFullPath }
 version-dd = <span data-l10n-name="version">Bersyon:</span> { $version }
 
 ## These strings describe the state of plugins
@@ -20,4 +23,10 @@ version-dd = <span data-l10n-name="version">Bersyon:</span> { $version }
 ## Variables:
 ##   $blockListState: show some special state of the plugin, such as blocked, outdated
 
+state-dd-enabled = <span data-l10n-name="state">Estado:</span> Pinagana
+state-dd-enabled-block-list-state = <span data-l10n-name="state">Estado:</span> Pinagana ({ $blockListState })
+state-dd-Disabled = <span data-l10n-name="state">Estado:</span> Hindi pinagana
+state-dd-Disabled-block-list-state = <span data-l10n-name="state">Estado:</span> Hindi pinagana ({ $blockListState })
+mime-type-label = MIME Uri
 description-label = Paglalarawan
+suffixes-label = Suffixes
