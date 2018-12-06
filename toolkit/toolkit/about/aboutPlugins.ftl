@@ -12,6 +12,7 @@ title-label = Derbarê pluginan de
 ##   $version: version of the plugin
 
 file-dd = <span data-l10n-name="file">Pel:</span> { $pluginLibraries }
+path-dd = <span data-l10n-name="path">Kurterê:</span> { $pluginFullPath }
 version-dd = <span data-l10n-name="version">Guherto:</span> { $version }
 
 ## These strings describe the state of plugins
