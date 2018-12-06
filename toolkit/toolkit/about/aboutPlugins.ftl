@@ -5,6 +5,7 @@
 title-label = Qoşmalar Haqqında
 installed-plugins-label = Quraşdırılmış qoşmalar
 no-plugins-are-installed-label = Heç bir quraşdırılmış qoşma tapılmadı
+deprecation-description = Nəsə çatışmır? Bəzi qoşmalar artıq dəstəklənmir. <a data-l10n-name="deprecation-link">Ətraflı Öyrən.</a>
 
 ## The information of plugins
 ##
