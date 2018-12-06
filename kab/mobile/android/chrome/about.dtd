@@ -14,7 +14,7 @@
 <!ENTITY aboutPage.privacyPolicy.label          "Tasertit n tbaḍnit">
 <!ENTITY aboutPage.rights.label                 "Issin izerfan-inek">
 <!ENTITY aboutPage.relNotes.label               "Iwenniten n lqem">
-<!ENTITY aboutPage.credits.label                "Ittekiyen">
+<!ENTITY aboutPage.credits.label                "Imttekkiyen">
 <!ENTITY aboutPage.license.label                "Talɣut n turagt">
 
 <!-- LOCALIZATION NOTE (aboutPage.logoTrademark): The message is explicitly about the word "Firefox" being trademarked, that's why we use it, instead of brandShortName. -->
