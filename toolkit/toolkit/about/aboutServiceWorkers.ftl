@@ -20,4 +20,5 @@ app-title = { -brand-short-name } ID Aplikasi { $appId } - InBrowserElement { $i
 ##  $url: the url of script specification and current worker.
 
 scope = <strong>Skop:</strong> { $name }
+script-spec = <strong>Spesifikasi Skrip:</strong> <a data-l10n-name="link">{ $url }</a>
 waiting = Menunggu…
