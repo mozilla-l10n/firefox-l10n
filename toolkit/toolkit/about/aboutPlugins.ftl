@@ -12,6 +12,7 @@ title-label = చొప్పింతలు గురించి
 ##   $version: version of the plugin
 
 file-dd = <span data-l10n-name="file">ఫైలు:</span> { $pluginLibraries }
+path-dd = <span data-l10n-name="path">పాత్:</span> { $pluginFullPath }
 version-dd = <span data-l10n-name="version">రూపాంతరము:</span> { $version }
 
 ## These strings describe the state of plugins
