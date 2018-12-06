@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = Baɗte Ceŋe
+installed-plugins-label = Aaf ceŋe
+no-plugins-are-installed-label = Alaa ceŋe aafaaɗe njiytaa
 
 ## The information of plugins
 ##
@@ -12,6 +14,7 @@ title-label = Baɗte Ceŋe
 ##   $version: version of the plugin
 
 file-dd = <span data-l10n-name="file">Fiilde:</span> { $pluginLibraries }
+path-dd = <span data-l10n-name="path">Laawol:</span> { $pluginFullPath }
 version-dd = <span data-l10n-name="version">Yamre:</span> { $version }
 
 ## These strings describe the state of plugins
