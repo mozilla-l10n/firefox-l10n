@@ -12,6 +12,7 @@ title-label = Sukarey ga
 ##   $version: version of the plugin
 
 file-dd = <span data-l10n-name="file">Tuku:</span> { $pluginLibraries }
+path-dd = <span data-l10n-name="path">Fondo:</span> { $pluginFullPath }
 version-dd = <span data-l10n-name="version">Dumi:</span> { $version }
 
 ## These strings describe the state of plugins
@@ -19,6 +20,10 @@ version-dd = <span data-l10n-name="version">Dumi:</span> { $version }
 ## Variables:
 ##   $blockListState: show some special state of the plugin, such as blocked, outdated
 
+state-dd-enabled = <span data-l10n-name="state">Alhaali:</span> Tunante
+state-dd-enabled-block-list-state = <span data-l10n-name="state">Alhaali:</span> Tunante ({ $blockListState })
+state-dd-Disabled = <span data-l10n-name="state">Alhaali:</span> Kayante
+state-dd-Disabled-block-list-state = <span data-l10n-name="state">Alhaali:</span> Kayante ({ $blockListState })
 mime-type-label = MIME dumi
 description-label = Šilbayyan
 suffixes-label = Bankanjey
