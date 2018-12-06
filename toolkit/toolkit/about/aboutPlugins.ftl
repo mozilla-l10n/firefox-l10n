@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = প্লাগিনসমূহৰ বিষয়ে
+installed-plugins-label = ইনস্টল্ড প্লাগিনসমূহ
+no-plugins-are-installed-label = কোনো ইনস্টল্ড প্লাগিন পোৱা নগল
 
 ## The information of plugins
 ##
@@ -12,6 +14,7 @@ title-label = প্লাগিনসমূহৰ বিষয়ে
 ##   $version: version of the plugin
 
 file-dd = <span data-l10n-name="file">ফাইল:</span> { $pluginLibraries }
+path-dd = <span data-l10n-name="path">পথ:</span> { $pluginFullPath }
 version-dd = <span data-l10n-name="version">সংস্কৰণ:</span> { $version }
 
 ## These strings describe the state of plugins
