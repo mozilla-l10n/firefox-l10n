@@ -11,9 +11,15 @@ title-label = പ്ളഗ്ഗിനുകള്‍ സംബന്ധിച�
 ##   $pluginFullPath: path of the plugin
 ##   $version: version of the plugin
 
+file-dd = <span data-l10n-name="file">ഫയല്‍:</span> { $pluginLibraries }
+path-dd = <span data-l10n-name="path">പാത  </span> { $pluginFullPath }
+version-dd = <span data-l10n-name="version">പതിപ്പു്:</span> { $version }
 
 ## These strings describe the state of plugins
 ##
 ## Variables:
 ##   $blockListState: show some special state of the plugin, such as blocked, outdated
 
+mime-type-label = ഏത് തരത്തിലുള്ള MIME{ " " }
+description-label = വിവരണം
+suffixes-label = സഫിക്സുകള്‍
