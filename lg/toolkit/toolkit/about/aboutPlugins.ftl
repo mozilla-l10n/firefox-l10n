@@ -20,3 +20,5 @@ version-dd = <span data-l10n-name="version">Enkola:</span> { $version }
 ##   $blockListState: show some special state of the plugin, such as blocked, outdated
 
 mime-type-label = Ekika kya MIME
+description-label = Ennyinyonnyola
+suffixes-label = Obuwakatirwa bw'oku nkomerero
