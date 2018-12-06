@@ -38,7 +38,7 @@
 <!ENTITY netOffline.longDesc2 "<p>El navegador està treballant fora de línia i no es pot connectar a l'element sol·licitat.</p><ul><li>L'ordinador està connectat a una xarxa activa?</li><li>Premeu «Torna-ho a provar» per canviar al mode en línia i tornar a carregar la pàgina.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Error de codificació del contingut">
-<!ENTITY contentEncodingError.longDesc "<p>No pot mostrar-se la pàgina que esteu intentant visualitzar perquè utilitza una forma de compressió no vàlida o incompatible.</p><ul><li>Poseu-vos en contacte amb els propietaris del lloc web per informar-los del problema.</li></ul>">
+<!ENTITY contentEncodingError.longDesc "<p>La pàgina que esteu intentant veure no es pot mostrar perquè utilitza una forma de compressió no vàlida o incompatible.</p><ul><li>Poseu-vos en contacte amb els propietaris del lloc web per informar-los del problema.</li></ul>">
 
 <!ENTITY unsafeContentType.title "Tipus de fitxer insegur">
 <!ENTITY unsafeContentType.longDesc "<ul> <li>Poseu-vos en contacte amb els propietaris del lloc web per informar-los del problema.</li> </ul>">
@@ -91,3 +91,6 @@
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> utilitza una tecnologia de seguretat obsoleta i vulnerable a atacs. Un atacant podria veure fàcilment la informació que altrament pensaríeu que és segura. Per tal que pugueu visitar el lloc, abans l'administrador del lloc web haurà d'arreglar el servidor.</p><p>Codi d'error: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Pàgina blocada">
+
+<!ENTITY networkProtocolError.title "Error del protocol de xarxa">
+<!ENTITY networkProtocolError.longDesc "<p>La pàgina que esteu intentant veure no es pot mostrar perquè s'ha produït un error del protocol de xarxa.</p><ul><li>Poseu-vos en contacte amb els propietaris del lloc web per informar-los del problema.</li></ul>">
