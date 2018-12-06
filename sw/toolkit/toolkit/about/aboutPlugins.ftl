@@ -12,6 +12,7 @@ title-label = Kuhusu Programu-jalizi
 ##   $version: version of the plugin
 
 file-dd = <span data-l10n-name="file">Faili:</span> { $pluginLibraries }
+path-dd = <span data-l10n-name="path">Njia:</span> { $pluginFullPath }
 version-dd = <span data-l10n-name="version">Toleo:</span> { $version }
 
 ## These strings describe the state of plugins
@@ -19,6 +20,10 @@ version-dd = <span data-l10n-name="version">Toleo:</span> { $version }
 ## Variables:
 ##   $blockListState: show some special state of the plugin, such as blocked, outdated
 
+state-dd-enabled = <span data-l10n-name="state">Hali:</span> Imewezeshwa
+state-dd-enabled-block-list-state = <span data-l10n-name="state">Hali:</span> Imewezeshwa ({ $blockListState })
+state-dd-Disabled = <span data-l10n-name="state">Hali:</span> Imelemazwa
+state-dd-Disabled-block-list-state = <span data-l10n-name="state">Hali:</span> Imelemazwa ({ $blockListState })
 mime-type-label = Aina ya MIME
 description-label = Maelezo
 suffixes-label = Kimalizio
