@@ -12,6 +12,7 @@ title-label = Makwako rwako i kumpiuta
 ##   $version: version of the plugin
 
 file-dd = <span data-l10n-name="file">Pwail:</span> { $pluginLibraries }
+path-dd = <span data-l10n-name="path">Yo:</span> { $pluginFullPath }
 version-dd = <span data-l10n-name="version">Cik:</span> { $version }
 
 ## These strings describe the state of plugins
