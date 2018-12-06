@@ -10,6 +10,9 @@
 ##   $pluginFullPath: path of the plugin
 ##   $version: version of the plugin
 
+file-dd = <span data-l10n-name="file">Ficheiro:</span> { $pluginLibraries }
+path-dd = <span data-l10n-name="path">Caminho:</span> { $pluginFullPath }
+version-dd = <span data-l10n-name="version">Versão:</span> { $version }
 
 ## These strings describe the state of plugins
 ##
