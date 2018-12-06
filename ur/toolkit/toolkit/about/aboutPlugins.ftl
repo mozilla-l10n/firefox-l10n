@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = پلگ انز کے متعلق
+installed-plugins-label = تنصیب شدہ پلگ ان
+no-plugins-are-installed-label = کوئی اتنصیب شدہ پلگ ان نہیں ملے
 
 ## The information of plugins
 ##
@@ -20,6 +22,10 @@ version-dd = <span data-l10n-name="version">ورژن:</span> { $version }
 ## Variables:
 ##   $blockListState: show some special state of the plugin, such as blocked, outdated
 
+state-dd-enabled = <span data-l10n-name="state">ریاست:</span> اہل بنایا گیا
+state-dd-enabled-block-list-state = <span data-l10n-name="state">ریاست:</span> اہل بنایا گیا ({ $blockListState })
+state-dd-Disabled = <span data-l10n-name="state">ریاست:</span> نااہل
+state-dd-Disabled-block-list-state = <span data-l10n-name="state">ریاست:</span> نااہل ({ $blockListState })
 mime-type-label = مائم قسم
 description-label = تصریح
 suffixes-label = لاحقے
