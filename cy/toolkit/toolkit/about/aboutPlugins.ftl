@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = Ynghylch Ategion
+installed-plugins-label = Ategion wedi eu gosod
+no-plugins-are-installed-label = Heb ganfod ategion wedi eu gosod
 
 ## The information of plugins
 ##
