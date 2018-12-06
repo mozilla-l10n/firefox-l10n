@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+installed-plugins-label = Plugins instalados
+no-plugins-are-installed-label = Não existem plugins instalados
 
 ## The information of plugins
 ##
@@ -19,5 +21,6 @@ version-dd = <span data-l10n-name="version">Versão:</span> { $version }
 ## Variables:
 ##   $blockListState: show some special state of the plugin, such as blocked, outdated
 
+mime-type-label = Tipo MIME
 description-label = Descrição
 suffixes-label = Sufixos
