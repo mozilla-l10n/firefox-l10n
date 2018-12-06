@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = Quant als connectors
+installed-plugins-label = Connectors instal·lats
+no-plugins-are-installed-label = No s'han trobat connectors instal·lats
 
 ## The information of plugins
 ##
@@ -12,6 +14,7 @@ title-label = Quant als connectors
 ##   $version: version of the plugin
 
 file-dd = <span data-l10n-name="file">Fitxer:</span> { $pluginLibraries }
+path-dd = <span data-l10n-name="path">Camí:</span> { $pluginFullPath }
 version-dd = <span data-l10n-name="version">Versió:</span> { $version }
 
 ## These strings describe the state of plugins
@@ -19,6 +22,10 @@ version-dd = <span data-l10n-name="version">Versió:</span> { $version }
 ## Variables:
 ##   $blockListState: show some special state of the plugin, such as blocked, outdated
 
+state-dd-enabled = <span data-l10n-name="state">Estat:</span> Habilitat
+state-dd-enabled-block-list-state = <span data-l10n-name="state">Estat:</span> Habilitat ({ $blockListState })
+state-dd-Disabled = <span data-l10n-name="state">Estat:</span> Inhabilitat
+state-dd-Disabled-block-list-state = <span data-l10n-name="state">Estat:</span> Inhabilitat ({ $blockListState })
 mime-type-label = Tipus MIME
 description-label = Descripció
 suffixes-label = Sufixos
