@@ -5,6 +5,7 @@
 title-label = Informaçioin rigoardo i Plugin
 installed-plugins-label = Plugin instalæ
 no-plugins-are-installed-label = Nisciun plugin instalou
+deprecation-description = Te manca quarcösa? Çerti plugin no en ciù soportæ. <a data-l10n-name="deprecation-link">Atre informaçioin.</a>
 
 ## The information of plugins
 ##
