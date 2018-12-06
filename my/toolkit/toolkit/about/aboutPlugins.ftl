@@ -12,6 +12,7 @@ title-label = ပလတ်ဂင်များ အကြောင်း
 ##   $version: version of the plugin
 
 file-dd = <span data-l10n-name="file">ဖိုင် -</span> { $pluginLibraries }
+path-dd = <span data-l10n-name="path">လမ်းကြောင်း</span> { $pluginFullPath }
 version-dd = <span data-l10n-name="version">ဗားရှင်း -</span> { $version }
 
 ## These strings describe the state of plugins
@@ -21,3 +22,4 @@ version-dd = <span data-l10n-name="version">ဗားရှင်း -</span> { 
 
 mime-type-label = MIME အမျိုးအစား
 description-label = ဖေါ်ပြချက်
+suffixes-label = နောက်ဆက်စကားစုများ
