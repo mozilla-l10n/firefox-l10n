@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = អំពី​កម្មវិធី​ជំនួយ
+installed-plugins-label = កម្មវិធី​ជំនួយ​បាន​ដំឡើង
+no-plugins-are-installed-label = រក​មិន​ឃើញ​កម្មវិធី​ជំនួយ​បាន​ដំឡើង
 
 ## The information of plugins
 ##
@@ -20,6 +22,10 @@ version-dd = <span data-l10n-name="version">កំណែ៖</span> { $version }
 ## Variables:
 ##   $blockListState: show some special state of the plugin, such as blocked, outdated
 
+state-dd-enabled = <span data-l10n-name="state">ស្ថានភាព ៖</span> បាន​អនុញ្ញាត
+state-dd-enabled-block-list-state = <span data-l10n-name="state">ស្ថានភាព ៖</span> បាន​អនុញ្ញាត ({ $blockListState })
+state-dd-Disabled = <span data-l10n-name="state">ស្ថានភាព ៖</span> បិទ
+state-dd-Disabled-block-list-state = <span data-l10n-name="state">ស្ថានភាព ៖</span> បិទ ({ $blockListState })
 mime-type-label = ប្រភេទ MIME
 description-label = សេចក្ដី​ពិពណ៌នា
 suffixes-label = បច្ច័យ
