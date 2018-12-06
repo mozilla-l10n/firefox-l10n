@@ -5,6 +5,7 @@
 title-label = 關於外掛程式
 installed-plugins-label = 已安裝的外掛程式
 no-plugins-are-installed-label = 找不到已安裝的外掛程式
+deprecation-description = 少了點東西嗎？已不再支援某些外掛程式。 <a data-l10n-name="deprecation-link">了解更多。</a>
 
 ## The information of plugins
 ##
