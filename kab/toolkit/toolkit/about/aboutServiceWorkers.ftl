@@ -6,6 +6,7 @@
 ### The term "Service Workers" and "Workers" should not be translated
 
 about-service-workers-title = Talɣut ɣef Tanfiwin Workers
+about-service-workers-main-title = Tanfa Workers tettwakles
 about-service-workers-warning-not-enabled = Tanfiwin Workers ur rmident ara.
 about-service-workers-warning-no-service-workers = Ulac Tanfa Workers ikelsen.
 # The original title of service workers' information
@@ -37,3 +38,4 @@ push-end-point-result = <strong>Agaz n uzgu i tuzzna:</strong> { $name }
 update-button = Leqqem
 unregister-button = Ksiggez
 unregister-error = Aksiggez n Tanfa Worker u yeddi ara.
+waiting = Aṛaǧu…
