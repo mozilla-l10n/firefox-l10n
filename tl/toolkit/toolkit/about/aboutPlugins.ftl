@@ -4,6 +4,7 @@
 
 title-label = Tungkol sa Mga Plugin
 installed-plugins-label = Mga nakainstall na plugin
+no-plugins-are-installed-label = Walang makitang nakainstall na plugin
 
 ## The information of plugins
 ##
