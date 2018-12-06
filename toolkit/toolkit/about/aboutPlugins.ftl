@@ -10,10 +10,15 @@
 ##   $pluginFullPath: path of the plugin
 ##   $version: version of the plugin
 
+file-dd = <span data-l10n-name="file">Αρχείο:</span> { $pluginLibraries }
 path-dd = <span data-l10n-name="path">Διαδρομή:</span> { $pluginFullPath }
+version-dd = <span data-l10n-name="version">Έκδοση:</span> { $version }
 
 ## These strings describe the state of plugins
 ##
 ## Variables:
 ##   $blockListState: show some special state of the plugin, such as blocked, outdated
 
+mime-type-label = Τύπος MIME
+description-label = Περιγραφή
+suffixes-label = Επιθέματα
