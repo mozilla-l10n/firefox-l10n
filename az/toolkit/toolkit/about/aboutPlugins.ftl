@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+title-label = Qoşmalar Haqqında
+installed-plugins-label = Quraşdırılmış qoşmalar
+no-plugins-are-installed-label = Heç bir quraşdırılmış qoşma tapılmadı
 
 ## The information of plugins
 ##
@@ -10,7 +13,9 @@
 ##   $pluginFullPath: path of the plugin
 ##   $version: version of the plugin
 
+file-dd = <span data-l10n-name="file">Fayl:</span> { $pluginLibraries }
 path-dd = <span data-l10n-name="path">Qısayol:</span> { $pluginFullPath }
+version-dd = <span data-l10n-name="version">Buraxılış:</span> { $version }
 
 ## These strings describe the state of plugins
 ##
