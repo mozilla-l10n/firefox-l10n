@@ -3,26 +3,26 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 languages-customize-moveup =
-    .label = Mai sus
+    .label = Mută în sus
     .accesskey = U
 languages-customize-movedown =
-    .label = Mai jos
+    .label = Mută în jos
     .accesskey = J
 languages-customize-remove =
     .label = Elimină
     .accesskey = E
 languages-customize-select-language =
-    .placeholder = Alege limba de adăugat...
+    .placeholder = Alege o limbă de adăugat...
 languages-customize-add =
     .label = Adaugă
     .accesskey = A
 messenger-languages-window =
     .title = Setări limbă { -brand-short-name }
     .style = width: 40em
-messenger-languages-description = { -brand-short-name } va afișa prima limbă ca cea implicită și va afișa limbile alternative dacă este necesar în ordinea în care acestea apar.
+messenger-languages-description = { -brand-short-name } va afișa limba implicită pe prima poziție și pe cele alternative, dacă este necesar, în ordinea în care apar.
 messenger-languages-search = Caută mai multe limbi ...
 messenger-languages-searching =
-    .label = Se caută limbile…
+    .label = Se caută limbi…
 messenger-languages-downloading =
     .label = Se descarcă...
 messenger-languages-select-language =
