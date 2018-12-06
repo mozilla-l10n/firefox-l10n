@@ -22,6 +22,10 @@ version-dd = <span data-l10n-name="version">Inguqulo:</span> { $version }
 ## Variables:
 ##   $blockListState: show some special state of the plugin, such as blocked, outdated
 
+state-dd-enabled = <span data-l10n-name="state">Izwe:</span> Kwenziwe kwasebenza
+state-dd-enabled-block-list-state = <span data-l10n-name="state">Izwe:</span> Kwenziwe kwasebenza ({ $blockListState })
+state-dd-Disabled = <span data-l10n-name="state">Izwe:</span> Kwenziwe kwangasebenza
+state-dd-Disabled-block-list-state = <span data-l10n-name="state">Izwe:</span> Kwenziwe kwangasebenza ({ $blockListState })
 mime-type-label = Uhlobo lwe-MIME
 description-label = Incazelo
 suffixes-label = Izijobelelo
