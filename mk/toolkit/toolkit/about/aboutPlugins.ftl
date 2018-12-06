@@ -12,6 +12,7 @@ title-label = За приклучоците
 ##   $version: version of the plugin
 
 file-dd = <span data-l10n-name="file">Име на датотека:</span> { $pluginLibraries }
+path-dd = <span data-l10n-name="path">Патека:</span> { $pluginFullPath }
 version-dd = <span data-l10n-name="version">Верзија:</span> { $version }
 
 ## These strings describe the state of plugins
