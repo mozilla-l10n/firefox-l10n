@@ -5,7 +5,15 @@
 
 ### The term "Service Workers" and "Workers" should not be translated
 
+about-service-workers-title = Perihal Service Workers
+about-service-workers-main-title = Service Workers Berdaftar
 about-service-workers-warning-not-enabled = Service Workers tidak didayakan.
+about-service-workers-warning-no-service-workers = Tiada Service Workers didaftar.
+# The original title of service workers' information
+#
+# Variables:
+#   $originTitle: original title
+origin-title = Asalan: { $originTitle }
 # Show if app id is in isolated browser element, the term "InBrowserElement" should not be translated
 #
 # Variables:
@@ -22,4 +30,12 @@ app-title = { -brand-short-name } ID Aplikasi { $appId } - InBrowserElement { $i
 scope = <strong>Skop:</strong> { $name }
 script-spec = <strong>Spesifikasi Skrip:</strong> <a data-l10n-name="link">{ $url }</a>
 current-worker-url = <strong>URL Current Worker:</strong> <a data-l10n-name="link">{ $url }</a>
+active-cache-name = <strong>Nama Cache Aktif:</strong> { $name }
+waiting-cache-name = <strong>Menunggu Nama Cache:</strong> { $name }
+push-end-point-waiting = <strong>Dorang Titik akhir:</strong> { waiting }
+push-end-point-result = <strong>Dorang Titik akhir:</strong> { $name }
+# This term is used as a button label (verb, not noun).
+update-button = Kemaskini
+unregister-button = Nyahdaftar
+unregister-error = Gagal mendaftar Service Worker ini.
 waiting = Menunggu…
