@@ -12,6 +12,7 @@ title-label = 关于插件
 ##   $version: version of the plugin
 
 path-dd = <span data-l10n-name="path">路径：</span> { $pluginFullPath }
+version-dd = <span data-l10n-name="version">版本：</span> { $version }
 
 ## These strings describe the state of plugins
 ##
