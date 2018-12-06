@@ -11,6 +11,8 @@ title-label = 關於外掛程式
 ##   $pluginFullPath: path of the plugin
 ##   $version: version of the plugin
 
+file-dd = <span data-l10n-name="file">檔案:</span> { $pluginLibraries }
+version-dd = <span data-l10n-name="version">版本:</span> { $version }
 
 ## These strings describe the state of plugins
 ##
