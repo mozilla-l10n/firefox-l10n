@@ -19,4 +19,8 @@ path-dd = <span data-l10n-name="path">पथ:</span> { $pluginFullPath }
 ## Variables:
 ##   $blockListState: show some special state of the plugin, such as blocked, outdated
 
+state-dd-enabled = <span data-l10n-name="state">स्थिति:</span> सक्रिय
+state-dd-enabled-block-list-state = <span data-l10n-name="state">स्थिति:</span> सक्रिय ({ $blockListState })
+state-dd-Disabled = <span data-l10n-name="state">स्थिति:</span> निष्क्रिय
+state-dd-Disabled-block-list-state = <span data-l10n-name="state">स्थिति:</span> निष्क्रिय ({ $blockListState })
 mime-type-label = MIME Type
