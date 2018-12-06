@@ -12,6 +12,7 @@ title-label = Perihal Plugin
 ##   $version: version of the plugin
 
 file-dd = <span data-l10n-name="file">Fail:</span> { $pluginLibraries }
+path-dd = <span data-l10n-name="path">Laluan:</span> { $pluginFullPath }
 version-dd = <span data-l10n-name="version">Versi:</span> { $version }
 
 ## These strings describe the state of plugins
