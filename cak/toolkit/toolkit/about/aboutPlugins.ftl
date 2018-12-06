@@ -2,6 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+title-label = Na'oj chi kij ri taq nak'ab'äl
+installed-plugins-label = Yakon taq nak'ab'äl
+no-plugins-are-installed-label = Majun nak'ab'äl eyakon
+deprecation-description = ¿La k'o nanataj? Jujun taq nak'ab'äl man nikixïm ta chik ki'. <a data-l10n-name="deprecation-link">Tetamäx ch'aqa' chik.</a>
 
 ## The information of plugins
 ##
