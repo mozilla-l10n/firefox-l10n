@@ -15,6 +15,8 @@
 # Text for the start link displayed for a registered but not running Service Worker.
 # Clicking on the link will attempt to start the service worker.
 serviceworker-worker-start = Inicia
+# Text displayed next to the URL for the source of the service worker (e-g. "Source my/path/to/worker-js")
+serviceworker-worker-source = Font
 # Text displayed next to the current status of the service worker.
 serviceworker-worker-status = Estat
 

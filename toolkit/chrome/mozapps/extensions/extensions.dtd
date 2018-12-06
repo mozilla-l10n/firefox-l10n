@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY addons.windowTitle                   "Gestor de complements">
 
-<!ENTITY search.placeholder2                  "Cerca a addons.mozilla.org">
+<!ENTITY search.placeholder3                  "Cerca a addons.mozilla.org">
 <!ENTITY search.buttonlabel                   "Cerca">
 <!-- LOCALIZATION NOTE (search.commandkey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
@@ -18,9 +18,6 @@
 <!ENTITY installAddonFromFile.label           "Instal·la un complement des d'un fitxer…">
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "Eines per a tots els complements">
-
-<!ENTITY getThemes.description                "Voleu personalitzar el vostre navegador?">
-<!ENTITY getThemes.learnMore                  "Trieu d'entre els milers de temes disponibles.">
 
 
 <!ENTITY showUnsignedExtensions.button.label  "No s'han pogut verificar algunes extensions">
@@ -41,6 +38,10 @@
 <!ENTITY view.discover.label                  "Més complements">
 <!ENTITY view.recentUpdates.label             "Actualitzacions recents">
 <!ENTITY view.availableUpdates.label          "Actualitzacions disponibles">
+
+<!ENTITY helpButton.label                      "Assistència per als complements">
+<!ENTITY preferencesWin.label                  "Opcions del &brandShortName;">
+<!ENTITY preferencesUnix.label                 "Preferències del &brandShortName;">
 
 <!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "Cerca actualitzacions">
@@ -81,6 +82,7 @@
 <!ENTITY cmd.preferencesUnix.label            "Preferències">
 <!ENTITY cmd.preferencesUnix.accesskey        "P">
 
+<!-- addon actions -->
 <!ENTITY cmd.enableAddon.label                "Habilita">
 <!ENTITY cmd.enableAddon.accesskey            "H">
 <!ENTITY cmd.disableAddon.label               "Inhabilita">
@@ -89,6 +91,7 @@
 <!ENTITY cmd.enableTheme.accesskey            "v">
 <!ENTITY cmd.disableTheme.label               "Deixa el tema">
 <!ENTITY cmd.disableTheme.accesskey           "x">
+
 <!ENTITY cmd.askToActivate.label              "Demana si vull activar-lo">
 <!ENTITY cmd.askToActivate.tooltip            "Demana cada vegada permís per utilitzar aquest complement">
 <!ENTITY cmd.alwaysActivate.label             "Activa'l sempre">
@@ -98,6 +101,7 @@
 <!ENTITY cmd.stateMenu.tooltip                "Canvia quan s'executa aquest complement">
 <!ENTITY cmd.installAddon.label               "Instal·la">
 <!ENTITY cmd.installAddon.accesskey           "I">
+
 <!ENTITY cmd.uninstallAddon.label             "Elimina">
 <!ENTITY cmd.uninstallAddon.accesskey         "r">
 <!ENTITY cmd.showPreferencesWin.label         "Opcions">
@@ -156,9 +160,12 @@
 
 <!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "Pausa">
+
+<!-- download/install progress -->
 <!ENTITY progress.cancel.tooltip              "Cancel·la">
 
 <!ENTITY addon.homepage                       "Pàgina d'inici">
+
 <!ENTITY addon.details.label                  "Més">
 <!ENTITY addon.details.tooltip                "Mostra més detalls del complement">
 <!ENTITY addon.unknownDate                    "Desconegut">
@@ -180,6 +187,7 @@
 <!ENTITY addon.undoRemove.label               "Desfés">
 <!ENTITY addon.undoRemove.tooltip             "Mantingues el complement desinstal·lat">
 <!ENTITY addon.restartNow.label               "Reinicia ara">
+
 <!ENTITY addon.install.label                  "Instal·la">
 <!ENTITY addon.install.tooltip                "Instal·la el complement">
 <!ENTITY addon.updateNow.label                "Actualitza'l ara">
