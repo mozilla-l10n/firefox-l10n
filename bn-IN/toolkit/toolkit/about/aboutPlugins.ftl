@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+title-label = প্লাগ-ইন পরিচিতি
+installed-plugins-label = সক্রিয় প্লাগ-ইন
+no-plugins-are-installed-label = কোনো সক্রিয় প্লাগ-ইন পাওয়া যায়নি
 
 ## The information of plugins
 ##
@@ -19,4 +22,10 @@ version-dd = <span data-l10n-name="version">সংস্করণ:</span> { $ver
 ## Variables:
 ##   $blockListState: show some special state of the plugin, such as blocked, outdated
 
+state-dd-enabled = <span data-l10n-name="state">অবস্থা</span> সক্রিয়
+state-dd-enabled-block-list-state = <span data-l10n-name="state">অবস্থা</span> সক্রিয় ({ $blockListState })
+state-dd-Disabled = <span data-l10n-name="state">অবস্থা</span> নিষ্ক্রিয়
+state-dd-Disabled-block-list-state = <span data-l10n-name="state">অবস্থা</span> নিষ্ক্রিয় ({ $blockListState })
+mime-type-label = MIME-র ধরন
 description-label = বিবরণ
+suffixes-label = উপসর্গ
