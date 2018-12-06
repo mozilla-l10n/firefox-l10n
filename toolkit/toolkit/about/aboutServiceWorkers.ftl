@@ -30,7 +30,12 @@ app-title = { -brand-short-name } Приложение ID { $appId } - InBrowser
 scope = <strong>Обхват:</strong> { $name }
 script-spec = <strong>Спецификация на скрипт:</strong> <a data-l10n-name="link">{ $url }</a>
 current-worker-url = <strong>Интернет адрес на текущ Worker:</strong> <a data-l10n-name="link">{ $url }</a>
+active-cache-name = <strong>Име на активен буфер:</strong> { $name }
+waiting-cache-name = <strong>Име на изчакващ буфер:</strong> { $name }
 push-end-point-waiting = <strong>Входна точка на избутване:</strong> { waiting }
 push-end-point-result = <strong>Входна точка на избутване:</strong> { $name }
 # This term is used as a button label (verb, not noun).
 update-button = Обновяване
+unregister-button = Отмяна на регистрацията
+unregister-error = Грешка при отмяна на регистрацията на скритата обслужваща страница.
+waiting = Изчакване…
