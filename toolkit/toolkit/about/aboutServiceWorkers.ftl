@@ -28,9 +28,12 @@ app-title = { -brand-short-name } - ID de aplicação { $appId } - InBrowserElem
 ##  $url: the url of script specification and current worker.
 
 scope = <strong>Âmbito:</strong> { $name }
+script-spec = <strong>Especificação do script:</strong> <a data-l10n-name="link">{ $url }</a>
 current-worker-url = <strong>URL do Worker atual:</strong> <a data-l10n-name="link">{ $url }</a>
 active-cache-name = <strong>Nome da cache ativa:</strong> { $name }
 waiting-cache-name = <strong>Nome da cache em espera:</strong> { $name }
+push-end-point-waiting = <strong>Push Endpoint:</strong> { waiting }
+push-end-point-result = <strong>Push Endpoint:</strong> { $name }
 # This term is used as a button label (verb, not noun).
 update-button = Atualizar
 unregister-button = Remover registo
