@@ -12,6 +12,7 @@ title-label = Yan Uygulamalar Hakkında
 ##   $version: version of the plugin
 
 file-dd = <span data-l10n-name="file">Dosya:</span> { $pluginLibraries }
+path-dd = <span data-l10n-name="path">Yol:</span> { $pluginFullPath }
 version-dd = <span data-l10n-name="version">Sürüm:</span> { $version }
 
 ## These strings describe the state of plugins
