@@ -5,6 +5,7 @@
 title-label = Om insticksprogram
 installed-plugins-label = Installerade insticksprogram
 no-plugins-are-installed-label = Inga installerade insticksprogram hittades
+deprecation-description = Saknar du något? Vissa insticksmoduler stöds inte längre. <a data-l10n-name="deprecation-link">Läs mer.</a>
 
 ## The information of plugins
 ##
