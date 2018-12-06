@@ -11,6 +11,7 @@ title-label = Ibigyanye n'ibicomekwa
 ##   $pluginFullPath: path of the plugin
 ##   $version: version of the plugin
 
+path-dd = <span data-l10n-name="path">Inzira:</span> { $pluginFullPath }
 
 ## These strings describe the state of plugins
 ##
