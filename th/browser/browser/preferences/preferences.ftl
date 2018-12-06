@@ -522,7 +522,6 @@ privacy-header = ความเป็นส่วนตัวเบราว์
 
 ## Privacy Section - Forms
 
-forms-header = แบบฟอร์มและรหัสผ่าน
 logins-header = การเข้าสู่ระบบและรหัสผ่าน
 forms-ask-to-save-logins =
     .label = ถามเพื่อบันทึกการเข้าสู่ระบบและรหัสผ่านสำหรับเว็บไซต์
@@ -831,6 +830,7 @@ collection-health-report-link = เรียนรู้เพิ่มเติ
 collection-studies =
     .label = อนุญาตให้ { -brand-short-name } ติดตั้งและเรียกใช้การศึกษา
 collection-studies-link = ดูการศึกษาของ { -brand-short-name }
+addon-recommendations-link = เรียนรู้เพิ่มเติม
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = การรายงานข้อมูลถูกปิดใช้งานสำหรับการกำหนดค่าการสร้างนี้
