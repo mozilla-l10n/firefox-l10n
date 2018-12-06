@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = చొప్పింతలు గురించి
+installed-plugins-label = స్థాపించబడిన చొప్పింతలు
 
 ## The information of plugins
 ##
