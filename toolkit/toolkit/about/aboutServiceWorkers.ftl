@@ -8,6 +8,7 @@
 about-service-workers-title = 关于 Service Worker
 about-service-workers-main-title = 已注册的 Service Worker
 about-service-workers-warning-not-enabled = Service Worker 未启用。
+about-service-workers-warning-no-service-workers = 尚无已注册的 Service Worker。
 # The original title of service workers' information
 #
 # Variables:
