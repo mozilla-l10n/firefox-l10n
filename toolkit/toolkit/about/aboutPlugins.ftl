@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-title-label = { " " }प्लगिन क' संबंधमे
+title-label = प्लगिन क' संबंधमे
 installed-plugins-label = संस्थापित प्लगिन
 no-plugins-are-installed-label = कोनो संस्थापित प्लगिन नहि भेटल
 
