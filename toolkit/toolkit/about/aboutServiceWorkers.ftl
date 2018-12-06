@@ -5,6 +5,9 @@
 
 ### The term "Service Workers" and "Workers" should not be translated
 
+about-service-workers-title = О Service Workers
+about-service-workers-main-title = Зарегистрированные Service Workers
+about-service-workers-warning-not-enabled = Service Workers не включены.
 about-service-workers-warning-no-service-workers = Ни одного Service Worker не зарегистрировано.
 # The original title of service workers' information
 #
