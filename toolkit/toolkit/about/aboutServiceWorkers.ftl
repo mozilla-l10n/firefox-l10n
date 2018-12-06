@@ -7,6 +7,7 @@
 
 about-service-workers-title = Sobre os Service Workers
 about-service-workers-main-title = Service Workers registrados
+about-service-workers-warning-not-enabled = Os Service Workers não estão ativados.
 about-service-workers-warning-no-service-workers = Nenhum Service Workers registrado.
 # The original title of service workers' information
 #
