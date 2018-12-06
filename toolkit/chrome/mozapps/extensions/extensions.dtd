@@ -39,6 +39,7 @@
 <!ENTITY view.recentUpdates.label             "Versi Baru">
 <!ENTITY view.availableUpdates.label          "Versi Baru yang Tersedia">
 
+<!ENTITY helpButton.label                      "Pendukung Pengaya">
 <!ENTITY preferencesWin.label                  "Opsi &brandShortName;">
 <!ENTITY preferencesUnix.label                 "Pengaturan &brandShortName;">
 
