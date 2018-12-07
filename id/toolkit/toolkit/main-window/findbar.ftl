@@ -15,6 +15,14 @@ findbar-highlight-all =
     .label = Sorot Semuanya
     .accesskey = a
     .tooltiptext = Sorot semua hasil yang ditemukan
+findbar-highlight-all2 =
+    .label = Sorot Semua
+    .accesskey =
+        { PLATFORM() ->
+            [macos] t
+           *[other] t
+        }
+    .tooltiptext = Sorot semua frasa tersebut
 findbar-case-sensitive =
     .label = Cocokkan BESAR/kecil
     .accesskey = C
