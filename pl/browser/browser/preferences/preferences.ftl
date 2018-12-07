@@ -703,6 +703,11 @@ collection-health-report-link=Więcej informacji
 collection-studies=
   .label=Instalowanie i przeprowadzanie badań.
 collection-studies-link=Wyświetl badania
+
+addon-recommendations=
+  .label=Personalizowane polecenia rozszerzeń
+addon-recommendations-link=Więcej informacji
+
 collection-health-report-disabled=Przesyłanie danych jest wyłączone przy tej konfiguracji programu
 collection-browser-errors=
   .label=Przesyłanie raportów z błędów przeglądarki (razem z treścią błędów) do Mozilli.
