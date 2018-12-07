@@ -55,4 +55,5 @@ rcwn-perf-entry-open = Kayıt açma
 rcwn-avg-short = Kısa ortalama
 rcwn-avg-long = Uzun ortalama
 rcwn-std-dev-long = Uzun standart sapma
+rcwn-cache-slow = Yavaş önbellek sayısı
 rcwn-cache-not-slow = Yavaş olmayan önbellek sayısı
