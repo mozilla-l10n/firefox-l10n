@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY addons.windowTitle                   "Pengelola Pengaya">
 
-<!ENTITY search.placeholder3                  "Cari addons.mozilla.org">
+<!ENTITY search.placeholder3                  "Cari di addons.mozilla.org">
 <!ENTITY search.buttonlabel                   "Cari">
 <!-- LOCALIZATION NOTE (search.commandkey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
@@ -39,7 +39,7 @@
 <!ENTITY view.recentUpdates.label             "Versi Baru">
 <!ENTITY view.availableUpdates.label          "Versi Baru yang Tersedia">
 
-<!ENTITY helpButton.label                      "Pendukung Pengaya">
+<!ENTITY helpButton.label                      "Dukungan Pengaya">
 <!ENTITY preferencesWin.label                  "Opsi &brandShortName;">
 <!ENTITY preferencesUnix.label                 "Pengaturan &brandShortName;">
 
