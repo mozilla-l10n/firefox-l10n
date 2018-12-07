@@ -10,6 +10,7 @@ about-performance-title = Tembiapo ñangarekohára
 column-name = Téra
 column-type = Peteĩchagua
 column-energy-impact = Mba’erendy mbaretekue
+column-memory = Mandu’arenda
 
 ## Special values for the Name column
 
