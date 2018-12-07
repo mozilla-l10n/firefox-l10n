@@ -290,11 +290,17 @@
 <!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
      Similar to the already existing "pref_whats_new_notification_summary"-->
 <!ENTITY pref_feature_tips_notification_summary "Իմացեք ավելին &brandShortName;-ը օգտագործելու և &vendorShortName;-ի այլ ծրագրերի մասին">
-
 <!-- Localization note (pref_feature_tips_notification_enabling_hint):
      Describe the action the user should do to enable this preference
      Will be used in the context "<Turn on> ... to enable this feature" -->
 <!ENTITY pref_feature_tips_notification_enabling_hint "Միացնել">
+
+<!-- Localization note (pref_feature_tips_notification_enabling_path):
+     Nothing to translate. Simple concatenation of already localized strings. Result is used below. -->
+<!ENTITY pref_feature_tips_notification_enabling_path "&pref_category_privacy_short; > &pref_category_datareporting; > &datareporting_fhr_title;">
+<!-- Localization note (pref_feature_tips_notification_enabling_hint):
+     Describe the action the user should do to enable this preference. -->
+<!ENTITY pref_feature_tips_notification_enabling_hint2 "(Միացնելու համար այս ընտրանքը &pref_feature_tips_notification_enabling_path;-ը պետք է արդեն միացված լինի):">
 
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
@@ -837,8 +843,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY whatsnew_notification_title "&brandShortName;-ը թարմ է">
 <!ENTITY whatsnew_notification_summary "Ինչն է նոր այս տարբերակում">
 
-<!ENTITY promotion_add_page_shortcut "Հավելել էջի դյուրանցումը">
-
 <!ENTITY helper_first_offline_bookmark_title "Կարդալ անցանց">
 <!ENTITY helper_first_offline_bookmark_message "Գտեք Ընթերցելու տեսքի միույթները Էջանիշերում, անգամ անցանց">
 <!ENTITY helper_first_offline_bookmark_button "Անցնել Էջանիշերին">
@@ -898,13 +902,16 @@ Picture-in-picture mini window -->
 
 <!-- Notification channels names -->
 <!ENTITY default_notification_channel "&brandShortName;">
+
+<!-- Notification channels names -->
 <!ENTITY default_notification_channel2 "Դիտարկիչ">
 <!ENTITY mls_notification_channel "&vendorShortName;-ի տեղադրության ծառայություն">
 <!ENTITY download_notification_channel "Ներբեռնումներ">
 <!ENTITY media_notification_channel "Մեդիայի նվագարկում">
-<!ENTITY media_notification_channel2 "Ձայն և տեսանյութ">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel "&brandShortName; Push ծանուցումներ">
+<!ENTITY media_notification_channel2 "Ձայն և տեսանյութ">
+<!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel2 "&vendorShortName;-ի խորհուրդներ և հնարքներ">
 <!ENTITY updater_notification_channel "Թարմացումներ">
 <!ENTITY synced_tabs_notification_channel "Համաժամեցված ներդիրներ">

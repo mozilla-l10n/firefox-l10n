@@ -7,8 +7,8 @@
 
 <!ENTITY loadError.label "Էջը բացելու խնդիր">
 <!ENTITY retry.label "Կրկին փորձել">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Չհաջողվեց կապ հաստատել">
 <!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
@@ -80,9 +80,9 @@
 
 <!ENTITY nssBadCert.title "Չհաջողվեց կատարել Պաշտպանված կապակցում">
 <!ENTITY nssBadCert.longDesc2 "<ul> <li>Այս խնդիրը կարող է կապված լինել սպասարկիչի կարգավորման հետ կամ, հնարավոր է, որ որևէ մեկը փորձում է որպես սպասարկիչ հանդես գալ:</li> <li>Եթե դուք այս սպասարկիչին նախկինում հաջողությամբ եք կապակցվել, ապա սխալը կարող է ժամանակավոր բնույթ կրել և կարող եք կրկին փորձել ավելի ուշ:</li> </ul>">
+
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-
 <!ENTITY sharedLongDesc3 "<ul> <li>Հնարավոր է՝ կայքը ժամանակավորապես անհասանելի է կամ զբաղված է։ Փորձեք ավելի ուշ։</li> <li>Եթե որևէ էջ չի բեռնվում, ապա ստուգեք սարքի տվյալները կամ Wi-Fi կապը։ <button id='wifi'>Միացնել Wi-Fi-ը</button> </li> </ul>">
 
 <!ENTITY cspBlocked.title "Արգելափակվել է Բովանդակության Անվտանգության Քաղաքականության կողմից">
@@ -94,11 +94,11 @@
 <!ENTITY securityOverride.linkText "Կամ կարող եք ավելացնել բացառություն…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Դուրս բեր ինձ այստեղից:">
 <!ENTITY securityOverride.exceptionButtonLabel "Ավելացնել Բացառություն...">
+
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
-
 
 <!ENTITY securityOverride.warningContent "<p>Դուք չպետք է ավելացնեք բացառություն, եթե դուք օգտվում եք մի ինտերնետ կապից, որին լիարժեք չեք վստահում, կամ եթե դուք սովոր չեք հետևել նախազգուշացմանը այս սպասարկիչի համար:</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
@@ -119,3 +119,6 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> օգտագործում է անվտանգ տեխնոլոգիա, որը հնացած է և խոցելի՝ հարձակումների համար: Հարձակվողը կարող է հեշտությամբ հայտնաբերել տեղեկություններ, որոնք ձեր կարծիքով ապահով են: Կայքի վարիչը պետք է նախ ուղղի սպասարկիչը, որպեսզի կարողանաք այցելել կայքը:</p><p>Սխալի կոդը՝ NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+<!ENTITY networkProtocolError.title "Ցանցի հաղորդակարգի սխալ">
+<!ENTITY networkProtocolError.longDesc "<p>Էջը, որ ցանկանում եք դիտել չի կարող ցուցադրվել, քանի որ հայտնաբերվել է ցանցի հաղորդակարգի սխալ:</p><ul><li>Կապնվեք կայքի սեփականատերերի հետ՝ նրանց այդ մասին հաղորդելու համար:</li></ul>">
