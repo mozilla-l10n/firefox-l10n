@@ -339,13 +339,13 @@ browsing-search-on-start-typing =
 browsing-cfr-recommendations =
     .label = Recommend extensions as you browse
     .accesskey = R
-browsing-cfr-recommendations-learn-more = Learn More
+browsing-cfr-recommendations-learn-more = Learn more
 
 ## General Section - Proxy
 
 network-settings-title = Network Settings
 network-proxy-connection-description = Configure how { -brand-short-name } connects to the internet.
-network-proxy-connection-learn-more = Learn More
+network-proxy-connection-learn-more = Learn more
 network-proxy-connection-settings =
     .label = Settings…
     .accesskey = S
