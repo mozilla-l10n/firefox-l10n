@@ -159,6 +159,11 @@ was trying to connect. -->
 <!ENTITY blockedByPolicy.title "Tudalen wedi'i Rhwystro">
 
 <!ENTITY certerror.mitm.title "Mae Meddalwedd yn Rhwystro &brandShortName; Rhag Cysylltu'n Ddiogel i'r Wefan Hon">
+<!ENTITY certerror.mitm.longDesc "Mae <span class='hostname'></span> mwy na thebyg yn wefan diogel, ond nid oedd modd sefydlu cysylltiad diogel. Achoswyd hyn gan <span class='mitm-name'/>, sy'n un a'i feddalwedd ar eich cyfrifiadur neu rwydwaith.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "Os yw eich meddalwedd gwrth-firws yn cynnwys nodwedd sy'n sganio cysylltiadau wedi eu hamgryptio (“web scanning” neu “https scanning”), gallwch analluogu'r nodwedd honno. Os nad yw hynny'n gweithio, gallwch dynnu ac ailosod y feddalwedd gwrth-firws.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "Os ydych ar rwydwaith corfforaethol, cysylltwch a'ch adran TG.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "Os nad ydych yn gyfarwydd â <span class='mitm-name'/>, yna gall hyn fod yn ymosodiad ac ni ddylech barhau ar y wefan hon.">
+<!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "Os nad ydych yn gyfarwydd â <span class='mitm-name'/>, yna gall hyn fod yn ymosodiad ac nid oes dim y gallwch ei wneud i gael mynediad i'r wefan.">
 
 <!ENTITY clockSkewError.title "Mae cloc eich cyfrifiadur yn anghywir">
 <!ENTITY clockSkewError.longDesc "Mae eich cyfrifiadur yn meddwl ei bod hi'n <span id='wrongSystemTime_systemDate1'/>, sy'n rhwystro &brandShortName; rhag cysylltu'n ddiogel. I fynd i <span class='hostname'></span>, diweddarwch gloc eich cyfrifiadur yng ngosodiadau eich system i'r dyddiad, amser a chylch amser cyfredol ac yna adnewyddu <span class='hostname'></span>.">
