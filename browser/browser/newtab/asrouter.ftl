@@ -9,6 +9,8 @@ cfr-doorhanger-extension-cancel-button = ไม่ใช่ตอนนี้
     .accesskey = ม
 cfr-doorhanger-extension-ok-button = เพิ่มตอนนี้
     .accesskey = พ
+cfr-doorhanger-extension-manage-settings-button = จัดการการตั้งค่าคำแนะนำ
+    .accesskey = จ
 cfr-doorhanger-extension-learn-more-link = เรียนรู้เพิ่มเติม
 # This string is used on a new line below the add-on name
 # Variables:
