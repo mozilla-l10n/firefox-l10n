@@ -141,6 +141,8 @@ set-as-my-default-browser =
 startup-restore-previous-session =
     .label = Restaurar a sessão anterior
     .accesskey = R
+startup-restore-warn-on-quit =
+    .label = Avisar ao sair do navegador
 disable-extension =
     .label = Desativar extensão
 tabs-group-header = Abas
@@ -859,6 +861,8 @@ collection-health-report-link = Saiba mais
 collection-studies =
     .label = Permitir que o { -brand-short-name } instale e execute pesquisas
 collection-studies-link = Ver pesquisas do { -brand-short-name }
+addon-recommendations =
+    .label = Permitir ao { -brand-short-name } fazer recomendações personalizadas de extensões
 addon-recommendations-link = Saiba mais
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
