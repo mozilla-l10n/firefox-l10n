@@ -159,6 +159,8 @@ was trying to connect. -->
 <!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> je najskerje wěste sydło, ale wěsty zwisk njeda so nawjazać. Tutón so přez <span class='mitm-name'/> zawinuje, kotrež je pak softwara na wašim ličaku pak waša syć.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "Jeli waša antiwirusowa software funkciju ma, kotraž zaklučowane zwiski (husto “webskenowanje” abo “https-skenowanje” mjenowane), móžeće tutu funkciju znjemóžnić. Jeli to njefunguje, móžeće antiwirusowu softwaru wotstronić a znowa instalować.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "Jeli sće we firmowej syći, móžeće so ze swojim IT-wotrjadom do zwiska stajić.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "Jeli so z <span class='mitm-name'/> njewuznawaće, móhło to nadběh być a wy njeměł z tym sydłom zwjazać.">
+<!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "Jeli so z <span class='mitm-name'/> njewuznawaće, móhło to nadběh być a njeje ničo, štož móžeće činić, zo byšće přistup na tute sydło měł.">
 
 <!ENTITY clockSkewError.title "Waš ličakowy časnik wopak dźe">
 <!ENTITY clockSkewError.longDesc "Waš ličak měni, zo čas je <span id='wrongSystemTime_systemDate1'/>, štož wěstemu zwjazowanju &brandShortName; zadźěwa. Zo byšće<span class='hostname'></span> wopytał, aktualizujće časnik swojeho ličaka w systemowych nastajenjach na aktualny datum, aktualny čas a aktualne časowe pasmo a aktualizujće potom <span class='hostname'></span>.">
