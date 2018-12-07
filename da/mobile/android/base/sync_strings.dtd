@@ -29,7 +29,7 @@
 <!ENTITY sync.default.client.name '&formatS1; på &formatS2;'>
 
 <!-- Bookmark folder strings -->
-<!ENTITY bookmarks.folder.menu.label 'Bogmærkemenuen'>
+<!ENTITY bookmarks.folder.menu.label 'Bogmærke-menuen'>
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label 'Mærkater'>
 <!ENTITY bookmarks.folder.toolbar.label 'Bogmærkelinjen'>
