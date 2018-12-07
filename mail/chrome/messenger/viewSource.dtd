@@ -76,7 +76,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY backCmd.label "Undur">
 <!ENTITY backCmd.accesskey "U">
 <!ENTITY forwardCmd.label "Seterusnya">
-<!ENTITY forwardCmd.accesskey "M">
+<!ENTITY forwardCmd.accesskey "S">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 
