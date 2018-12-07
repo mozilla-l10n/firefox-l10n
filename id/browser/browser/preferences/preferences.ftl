@@ -715,6 +715,9 @@ content-blocking-private-trackers = Hanya pelacak yang dikenal di Jendela Privat
 content-blocking-third-party-cookies = Kuki pelacak pihak ketiga
 content-blocking-all-windows-trackers = Pelacak yang dikenal di seluruh jendela
 content-blocking-all-third-party-cookies = Semua kuki pihak ketiga
+content-blocking-warning-title = Perhatian!
+content-blocking-warning-desc = Pemblokiran kuki dan pelacak dapat menyebabkan kerusakan pada sejumlah situs. Menghentikan pemblokiran untuk situs yang Anda percayai sangatlah mudah.
+content-blocking-learn-how = Pelajari caranya
 content-blocking-tracking-protection-change-block-list = Ubah daftar blokir
 content-blocking-third-party-cookies-label =
     .label = Kuki Pihak Ketiga
@@ -831,6 +834,8 @@ collection-health-report-link = Pelajari Lebih Lanjut
 collection-studies =
     .label = Izinkan { -brand-short-name } untuk memasang dan menjalankan kajian
 collection-studies-link = Lihat kajian { -brand-short-name }
+addon-recommendations =
+    .label = Memungkinkan { -brand-short-name } membuat rekomendasi ekstensi pribadi.
 addon-recommendations-link = Pelajari lebih lanjut
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
