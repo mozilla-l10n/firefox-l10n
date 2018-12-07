@@ -12,7 +12,6 @@
 <!ENTITY advanced.label "Uwch">
 <!ENTITY continue2.label "Rhagor…">
 <!ENTITY moreInformation.label "Rhagor o Wybodaeth">
-
 <!ENTITY viewCertificate.label "Darllen Tystysgrif">
 
 <!-- Specific error messages -->
@@ -100,9 +99,6 @@ will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Mae perchennog <span class='hostname'/> wedi ffurfweddu ei wefan yn anghywir.  I rwystro eich manylion rhag cael eu dwyn, nid yw &brandShortName; wedi cysylltu â'r wefan.">
 <!ENTITY certerror.introPara2 "Mae &brandShortName; wedi canfod bygythiad diogelwch posib ac nid yw wedi mynd i <span class='hostname'/>. Os ewch i'r gwefan yma, gall ymosodwyr geisio dwyn gwybodaeth fel eich cyfrineiriau, e-byst neu fanylion cardiau credyd.">
-
-<!ENTITY certerror.expiredCert.secondPara "Mae'n fwyaf tebygol fod hyn o oherwydd bod cloc eich cyfrifiadur wedi'i osod i'r amser anghywir, sy'n atal &brandShortName; rhag gysylltu'r ddiogel.">
-
 <!ENTITY certerror.sts.introPara "Mae &brandShortName; wedi canfod bygythiad diogelwch posib ac nid yw wedi mynd i <span class='hostname'/> gan fod y wefan angen cysylltiad diogel.">
 
 <!ENTITY certerror.expiredCert.introPara "Mae &brandShortName; wedi canfod bygythiad diogelwch posib ac nid yw wedi mynd i <span class='hostname'/>. Un ai mae'r wefan wedi ei gam ffurfweddu neu mae cloc eich cyfrifiadur wedi ei osod i'r amser anghywir.">
@@ -161,6 +157,8 @@ was trying to connect. -->
 <!ENTITY inadequateSecurityError.longDesc "Mae <p><span class='hostname'></span> yn defnyddio technoleg diogelwch sy'n hen ac yn agored i ymosodiad. Gall yr ymosodwr weld manylion am hyn roeddech yn meddwl ei fod yn ddiogel. Mae angen i weinyddwr y wefan drwsio'r gweinydd yn gyntaf cyn bod modd i chi ymweld â' r wefan.</p><p>Cod gwall: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Tudalen wedi'i Rhwystro">
+
+<!ENTITY certerror.mitm.title "Mae Meddalwedd yn Rhwystro &brandShortName; Rhag Cysylltu'n Ddiogel i'r Wefan Hon">
 
 <!ENTITY clockSkewError.title "Mae cloc eich cyfrifiadur yn anghywir">
 <!ENTITY clockSkewError.longDesc "Mae eich cyfrifiadur yn meddwl ei bod hi'n <span id='wrongSystemTime_systemDate1'/>, sy'n rhwystro &brandShortName; rhag cysylltu'n ddiogel. I fynd i <span class='hostname'></span>, diweddarwch gloc eich cyfrifiadur yng ngosodiadau eich system i'r dyddiad, amser a chylch amser cyfredol ac yna adnewyddu <span class='hostname'></span>.">
