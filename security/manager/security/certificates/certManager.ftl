@@ -37,11 +37,11 @@ certmgr-cert-detail =
     .buttonlabelaccept = Tutup
     .buttonaccesskeyaccept = T
 certmgr-cert-detail-cn =
-    .value = Common Name (CN)
+    .value = Nama Umum (Common Name-CN)
 certmgr-cert-detail-o =
     .value = Organisasi (O)
 certmgr-cert-detail-ou =
-    .value = Unit Organisasi (OU)
+    .value = Unit Organisasi (Organizational Unit-OU)
 certmgr-cert-detail-serialnumber =
     .value = Nomor Seri
 certmgr-cert-detail-sha256-fingerprint =
@@ -134,7 +134,7 @@ exception-mgr-permanent =
     .accesskey = m
 pk11-bad-password = Sandi yang dimasukkan salah.
 pkcs12-decode-err = Gagal mendekode berkas. Format PKCS #12 salah, terkorupsi, atau sandi yang dimasukkan salah.
-pkcs12-unknown-err-restore = Gagal mengembalikan berkas PKCS #12 karena alasan yang tidak diketahui.
+pkcs12-unknown-err-restore = Gagal memulihkan berkas PKCS #12 karena alasan yang tidak diketahui.
 pkcs12-unknown-err-backup = Gagal membuat berkas cadangan PKCS #12 karena alasan yang tidak diketahui.
 pkcs12-unknown-err = Operasi PKCS #12 gagal karena alasan yang tidak diketahui.
 pkcs12-info-no-smartcard-backup = Tidak dimungkinkan untuk membuat cadangan sertifikat dari perangkat keras peralatan keamanan seperti halnya smart card.
@@ -144,7 +144,7 @@ pkcs12-dup-data = Sertifikat dan kunci pribadi telah ada pada peralatan keamanan
 
 choose-p12-backup-file-dialog = Nama Berkas untuk Cadangan
 file-browse-pkcs12-spec = Berkas PKCS12
-choose-p12-restore-file-dialog = Berkas Sertifikat untuk dikembalikan ke semula
+choose-p12-restore-file-dialog = Berkas Sertifikat untuk diimpor
 
 ## Import certificate(s) file dialog
 
@@ -167,7 +167,7 @@ delete-user-cert-impact = Jika Anda menghapus salah satu sertifikat Anda, Anda t
 delete-ssl-cert-title =
     .title = Hapus Pengecualian untuk Sertifikat Server
 delete-ssl-cert-confirm = Yakin akan menghapus pengecualian ini?
-delete-ssl-cert-impact = Jika server dihapus dari pengecualian, Anda mengembalikan pemeriksaan yang biasanya dilakukan untuk server tersebut dan mengharuskan server tersebut untuk menggunakan sertifikat yang valid.
+delete-ssl-cert-impact = Jika server dihapus dari pengecualian, Anda memulihkan pemeriksaan yang biasanya dilakukan untuk server tersebut dan mengharuskan server tersebut untuk menggunakan sertifikat yang valid.
 delete-ca-cert-title =
     .title = Hapus atau Tidak Lagi Mempercayai Sertifikat CA
 delete-ca-cert-confirm = Anda telah meminta untuk menghapus sertifikat CA ini. Untuk sertifikat bawaan, semua kepercayaan akan dihapus yang efeknya sama. Yakin ingin menghapus atau tidak lagi mempercayai sertifikat ini?
