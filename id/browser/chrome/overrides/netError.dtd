@@ -96,7 +96,7 @@
 
 <!ENTITY certerror.longpagetitle1 "Sambungan Anda tidak aman">
 <!ENTITY certerror.longpagetitle2 "Peringatan: Potensi Risiko Keamanan Menghadang">
-<!ENTITY certerror.sts.longpagetitle  "Tidak Tersambung: Potensi Masalah Keamanan">
+<!ENTITY certerror.sts.longpagetitle  "Tidak Tersambung: Dugaan Masalah Keamanan">
 <!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
@@ -104,7 +104,7 @@ was trying to connect. -->
 <!ENTITY certerror.introPara2 "&brandShortName; mendeteksi potensi ancaman keamanan dan tidak melanjutkan ke <span class='hostname'/>. Jika Anda mengunjungi situs ini, penyerang bisa saja mencuri informasi seperti sandi, surel, atau rincian kartu kredit Anda.">
 <!ENTITY certerror.sts.introPara "&brandShortName; mendeteksi potensi ancaman keamanan dan tidak dapat melanjutkan ke <span class='hostname'/> karena situs ini memerlukan sambungan aman.">
 
-<!ENTITY certerror.expiredCert.secondPara2 "Sepertinya sertifikat situs ini telah kedaluwarsa, yang mencegah &brandShortName; terhubung secara aman. Jika Anda mengunjungi situs ini, penyerang dapat mencoba mencuri informasi seperti kata sandi, surel, atau rincian kartu kredit Anda.">
+<!ENTITY certerror.expiredCert.secondPara2 "Sepertinya sertifikat situs ini telah kedaluwarsa, yang mencegah &brandShortName; tersambung secara aman. Jika Anda mengunjungi situs ini, penyerang dapat mencoba mencuri informasi seperti kata sandi, surel, atau rincian kartu kredit Anda.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Apa yang bisa Anda lakukan mengenai masalah ini?">
 
@@ -153,9 +153,9 @@ was trying to connect. -->
 
 <!ENTITY certerror.pagetitle1  "Sambungan Tidak Aman">
 <!ENTITY certerror.pagetitle2  "Peringatan: Potensi Risiko Keamanan Menghadang">
-<!ENTITY certerror.sts.pagetitle  "Tidak Terhubung: Dugaan Masalah Keamanan">
+<!ENTITY certerror.sts.pagetitle  "Tidak Tersambung: Dugaan Masalah Keamanan">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Situs ini menggunakan HTTP Strict Transport Security atau Keamanan Transportasi Ketat HTTP (HSTS) untuk menyatakan bahwa &brandShortName; hanya bisa tersambung secara aman. Sebagai hasilnya, tidaklah mungkin untuk menambahkan pengecualian bagi sertifikat ini.">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> memiliki kebijakan keamanan yang disebut sebagai HTTP Strict Transport Security (HSTS), yang berarti &brandShortName; hanya bisa terhubung dengannya secara aman. Anda tidak bisa menambahkan pengecualian untuk mengunjungi situs.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> memiliki kebijakan keamanan yang disebut sebagai HTTP Strict Transport Security (HSTS), yang berarti &brandShortName; hanya bisa tersambung dengannya secara aman. Anda tidak bisa menambahkan pengecualian untuk mengunjungi situs.">
 <!ENTITY certerror.copyToClipboard.label "Salin teks ke papan klip">
 
 <!ENTITY inadequateSecurityError.title "Sambungan Anda tidak aman">
@@ -167,7 +167,7 @@ was trying to connect. -->
 
 
 <!ENTITY clockSkewError.title "Jam komputer Anda salah">
-<!ENTITY clockSkewError.longDesc "Menurut komputer Anda waktu sekarang adalah <span id='wrongSystemTime_systemDate1'/>, yang mencegah &brandShortName; terhubung dengan aman. Untuk mengunjungi <span class='hostname'></span>, perbarui jam komputer Anda di pengaturan sistem agar diatur ke tanggal, jam, dan zona waktu yang benar, lalu segarkan <span class='hostname'></span>.">
+<!ENTITY clockSkewError.longDesc "Menurut komputer Anda waktu sekarang adalah <span id='wrongSystemTime_systemDate1'/>, yang mencegah &brandShortName; tersambung dengan aman. Untuk mengunjungi <span class='hostname'></span>, perbarui jam komputer Anda di pengaturan sistem agar diatur ke tanggal, jam, dan zona waktu yang benar, lalu segarkan <span class='hostname'></span>.">
 
 <!ENTITY prefReset.longDesc "Tampaknya setelan keamanan jaringan Anda yang mungkin menyebabkan ini. Ingin setelan baku dipulihkan?">
 <!ENTITY prefReset.label "Pulihkan setelan baku">
