@@ -14,4 +14,5 @@ policy-AppUpdateURL = Stilla sérsniðna smáforrits uppfærslu slóð.
 policy-Authentication = Stilla samþætta auðkenningu fyrir vefsíður sem styðja slíkt.
 policy-BlockAboutAddons = Lokaðu aðgangi við viðbótareftirlitið (um: viðbætur).
 policy-BlockAboutConfig = Lokaðu aðgangi að um: config síðu.
+policy-DisableAppUpdate = Koma í veg fyrir að vafrinn uppfærist.
 policy-DisableForgetButton = Hamla aðgang að Gleyma hnappnum.
