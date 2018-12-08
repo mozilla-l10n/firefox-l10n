@@ -14,6 +14,7 @@
 <!ENTITY pref.dateformat.short "Pendek"  >
 
 <!ENTITY pref.timezones.caption "Zona Waktu">
+<!ENTITY pref.timezones.label "Pilih kota terdekat dalam zona waktu Anda:">
 
 <!ENTITY pref.events.label "Acara">
 <!ENTITY pref.tasks.label "Tugas">
@@ -36,3 +37,4 @@
 <!ENTITY pref.systemcolors.label "Optimalkan warna untuk aksesibilitas" >
 <!ENTITY pref.systemcolors.accesskey "w">
 
+<!ENTITY pref.eventsandtasks.label "Acara dan Tugas" >
