@@ -3,11 +3,10 @@
 # file, You can obtain one at http://mozilla-org/MPL/2-0/-
 
 crash-reports-title = Laporan Mogok
-clear-all-reports-label = Hapus Semua Laporan
 delete-button-label = Bersihkan Semua
 delete-confirm-title = Yakin?
-delete-confirm-description = Proses berikut akan menghapus semua laporan dan tidak dapat dikembalikan.
 delete-unsubmitted-description = Ini akan menghapus semua laporan mogok yang belum dikirim dan tidak dapat diurungkan.
+delete-submitted-description = Ini akan menghapus daftar laporan kerusakan yang telah terkirim, tetapi tidak akan menghapus data yang telah terkirim. Ini tidak dapat dibatalkan.
 crashes-unsubmitted-label = Laporan Mogok yang Belum Dikirim
 id-heading = ID Laporan
 date-crashed-heading = Tanggal Mogok

@@ -169,6 +169,9 @@ was trying to connect. -->
 
 <!ENTITY certerror.mitm.title "Perangkat Lunak Menghalangi &brandShortName; dari Terhubung dengan Aman ke Situs Ini">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "Jika perangkat lunak antivirus Anda menyertakan fitur pemindai koneksi terenkripsi (sering disebut “pemindaian web” atau “pemaindaian https”), Anda dapat menonaktifkan fitur ini. Jika tidak berhasil, Anda dapat menghapus dan menginstal ulang perangkat lunak antivirus.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "Jika Anda berada di jaringan perusahaan, Anda dapat menghubungi departemen TI Anda.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "Jika Anda tidak akrab dengan <span class='mitm-name'/>, bisa jadi ini sebuah serangan dan Anda sebaiknya tidak melanjutkan ke situs.">
+<!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "Jika Anda tidak akrab dengan <span class='mitm-name'/>, bisa jadi ini sebuah serangan, dan tidak ada yang dapat Anda lakukan untuk mengakses situs.">
 
 <!ENTITY clockSkewError.title "Jam komputer Anda salah">
 <!ENTITY clockSkewError.longDesc "Menurut komputer Anda waktu sekarang adalah <span id='wrongSystemTime_systemDate1'/>, yang mencegah &brandShortName; tersambung dengan aman. Untuk mengunjungi <span class='hostname'></span>, perbarui jam komputer Anda di pengaturan sistem agar diatur ke tanggal, jam, dan zona waktu yang benar, lalu segarkan <span class='hostname'></span>.">
@@ -177,3 +180,4 @@ was trying to connect. -->
 <!ENTITY prefReset.label "Pulihkan setelan baku">
 
 <!ENTITY networkProtocolError.title "Protokol Jaringan Bermasalah">
+<!ENTITY networkProtocolError.longDesc "<p>Laman yang ingin Anda lihat tidak dapat ditampilkan karena ada yang salah dalam protokol jaringan.</p><ul><li>Harap hubungi pemilik situs web untuk memberi tahu mereka tentang masalah ini.</li></ul>">
