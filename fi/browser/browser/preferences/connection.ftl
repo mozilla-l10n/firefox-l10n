@@ -73,3 +73,13 @@ connection-dns-over-https =
 connection-dns-over-https-url = Osoite
     .accesskey = O
     .tooltiptext = Osoite DNS-kyselyjen tekemiseen HTTPS:n yli
+# Variables:
+#   $url (String) - URL for the DNS over HTTPS provider
+connection-dns-over-https-url-default =
+    .label = Käytä oletusta ({ $url })
+    .accesskey = y
+    .tooltiptext = Käytä oletusosoitetta DNS-kyselyjen selvittämiseen HTTPS:n välityksellä
+connection-dns-over-https-url-custom =
+    .label = Oma
+    .accesskey = m
+    .tooltiptext = Kirjoita ensijainen osoite DNS-kyselyjen selvittämiseen HTTPS:n välityksellä
