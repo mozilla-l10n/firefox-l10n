@@ -865,7 +865,7 @@ collection-studies =
     .label = Разрешить { -brand-short-name } устанавливать и проводить исследования
 collection-studies-link = Просмотреть исследования { -brand-short-name }
 addon-recommendations =
-    .label = Разрешать { -brand-short-name } давать персональные рекомендации расширений
+    .label = Разрешить { -brand-short-name } давать персональные рекомендации расширений
 addon-recommendations-link = Подробнее
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
