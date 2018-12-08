@@ -4,144 +4,50 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!ENTITY runtimeMenu_disconnect_label "Ngắt kết nối">
-
 <!ENTITY runtimeMenu_takeScreenshot_label "Chụp màn hình">
 
-
-
-
-
-
-
-
-
-
 <!ENTITY viewMenu_label "Xem">
-
-
-
 <!ENTITY viewMenu_zoomin_label "Phóng to">
-
 <!ENTITY viewMenu_zoomout_label "Thu nhỏ">
-
-
-
 
 
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
+<!ENTITY key_quit "W">
 <!-- open menu -->
 <!-- reload app -->
 <!-- show toolbox -->
 <!ENTITY key_toggleToolbox "VK_F12">
-<!-- toggle sidebar -->
 <!-- zoom -->
-
-
-
-
 
 <!ENTITY projectPanel_tabs "Thẻ">
 
-
-
-
-
-
-
-
 <!-- Lense -->
-
-
 <!ENTITY details_description "Mô tả">
 <!ENTITY details_location "Địa chỉ">
-
-
 
 <!-- New App -->
 
 
-
 <!-- Decks -->
 
-
-
 <!ENTITY deck_close "Đóng">
+
 <!-- Addons -->
 
 <!-- Prefs -->
-
 <!ENTITY prefs_general_title "Tổng quát">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!ENTITY prefs_options_keybindings_default "Mặc định">
-
 
 <!-- Runtime Details -->
 
-
-
-
-
-
 <!-- Device Preferences and Settings -->
-
-
 <!ENTITY device_typeobject "Đối tượng">
 
 <!-- Device Preferences -->
 
-
-
-
 <!-- Device Settings -->
 
-
-
-
-<!-- Monitor -->
-<!ENTITY monitor_help "Trợ giúp">
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
      that instructs the user to transfer an authentication token to the
@@ -156,17 +62,3 @@
      user to transfer authentication info by transferring a token. -->
 
 <!-- Logs panel -->
-<!-- Simulator Options -->
-
-
-
-
-<!ENTITY simulator_version "Phiên bản">
-
-
-<!ENTITY simulator_device "Thiết bị">
-
-
-
-
-
