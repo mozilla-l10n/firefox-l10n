@@ -10,10 +10,10 @@
 
 
 
-
 <!-- global warnings -->
 
 <!-- categories / views -->
+
 
 <!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "Paréksa Vèrsi Barô">
@@ -30,6 +30,10 @@
 
 <!-- addon actions -->
 
+<!-- addon actions -->
+
+
+<!ENTITY cmd.uninstallAddon.label             "Sampôh">
 
 
 <!-- discovery view -->
@@ -47,7 +51,10 @@
 <!-- ratings -->
 
 <!-- download/install progress -->
+
+<!-- download/install progress -->
 <!ENTITY progress.cancel.tooltip              "Bateuë">
+
 
 <!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
      to the add-on name for extensions that are not webextensions, which
@@ -61,6 +68,7 @@
      necessary -->
 <!ENTITY addon.undoAction.label               "Peubateuë">
 <!ENTITY addon.undoRemove.label               "Peubateuë">
+
 <!ENTITY addon.updateNow.label                "Seubarô Jinoë">
 <!ENTITY addon.checkingForUpdates.label       "Paréksa vèrsi barô…">
 

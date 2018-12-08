@@ -5,6 +5,7 @@
 # Variables:
 #   $name (String) - Name of the profile
 profiles-name = Profil: { $name }
+profiles-remove = Sampôh
 profiles-yes = nyo
 profiles-delete-profile-title = Sampôh Profil
 profiles-delete-files = Sampôh Beureukaih

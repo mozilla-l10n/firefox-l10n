@@ -6,6 +6,9 @@ certmgr-begins-value =
     .value = { certmgr-begins-label.label }
 certmgr-expires-value =
     .value = { certmgr-expires-label.label }
+certmgr-delete =
+    .label = Sampôh…
+    .accesskey = S
 
 ## PKCS#12 file dialogs
 
