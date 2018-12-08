@@ -26,3 +26,7 @@ onboarding-ghostery-text = Vafra hraðar, betur eða á öruggari máta með vi�
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Samstilla
 onboarding-fxa-text = Skráðu þig fyrir { -fxaccount-brand-name } og samstilltu bókamerki, lykilorð og opna flipa hvar sem þú notar { -brand-short-name }.
+
+## Message strings belonging to the Return to AMO flow
+
+return-to-amo-get-started-button = Hefjast handa með { -brand-short-name }
