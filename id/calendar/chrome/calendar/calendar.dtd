@@ -54,6 +54,7 @@
 <!ENTITY calendar.unifinder.tree.calendarname.label        "Nama Kalender">
 <!ENTITY calendar.unifinder.tree.calendarname.tooltip2     "Urut berdasarkan nama kalender">
 <!ENTITY calendar.unifinder.tree.duration.label            "Jatuh tempo dalam">
+<!ENTITY calendar.unifinder.tree.duration.tooltip2         "Urutkan berdasarkan waktu hingga jatuh tempo">
 <!ENTITY calendar.unifinder.close.tooltip                  "Tutup pencarian acara dan daftar acara">
 
 <!ENTITY calendar.today.button.tooltip          "Buka Hari Ini" >
