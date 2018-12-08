@@ -714,6 +714,7 @@ content-blocking-private-trackers = ตัวติดตามที่รู�
 content-blocking-third-party-cookies = คุกกี้ติดตามจากบุคคลที่สาม
 content-blocking-all-windows-trackers = ตัวติดตามที่รู้จักในหน้าต่างทั้งหมด
 content-blocking-all-third-party-cookies = คุกกี้จากบุคคลที่สามทั้งหมด
+content-blocking-warning-title = ระวัง!
 content-blocking-learn-how = เรียนรู้วิธีการ
 content-blocking-trackers-label =
     .label = ตัวติดตาม
