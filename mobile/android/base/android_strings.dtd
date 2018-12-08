@@ -290,11 +290,17 @@
 <!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
      Similar to the already existing "pref_whats_new_notification_summary"-->
 <!ENTITY pref_feature_tips_notification_summary "Fræðast meira um noktun á &brandShortName; og öðrum &vendorShortName; vörum">
-
 <!-- Localization note (pref_feature_tips_notification_enabling_hint):
      Describe the action the user should do to enable this preference
      Will be used in the context "<Turn on> ... to enable this feature" -->
 <!ENTITY pref_feature_tips_notification_enabling_hint "Kveikja á">
+
+<!-- Localization note (pref_feature_tips_notification_enabling_path):
+     Nothing to translate. Simple concatenation of already localized strings. Result is used below. -->
+<!ENTITY pref_feature_tips_notification_enabling_path "&pref_category_privacy_short; > &pref_category_datareporting; > &datareporting_fhr_title;">
+<!-- Localization note (pref_feature_tips_notification_enabling_hint):
+     Describe the action the user should do to enable this preference. -->
+<!ENTITY pref_feature_tips_notification_enabling_hint2 "(Til að virkja þennan valkost, &pref_feature_tips_notification_enabling_path; verður þegar að vera virkt.)">
 
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
@@ -837,8 +843,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY whatsnew_notification_title "&brandShortName; er þegar með nýjustu útgáfu">
 <!ENTITY whatsnew_notification_summary "Skoðaðu það sem er nýtt í þessari útgáfu">
 
-<!ENTITY promotion_add_page_shortcut "Bæta við flýtivísun í síðu">
-
 <!ENTITY helper_first_offline_bookmark_title "Lesa þegar engin tenging er">
 <!ENTITY helper_first_offline_bookmark_message "Finndu það sem er á lestrarlistanum í bókamerkjunum, jafnvel þegar engin nettenging er til staðar.">
 <!ENTITY helper_first_offline_bookmark_button "Fara í Bókamerki">
@@ -898,13 +902,16 @@ Picture-in-picture mini window -->
 
 <!-- Notification channels names -->
 <!ENTITY default_notification_channel "&brandShortName;">
+
+<!-- Notification channels names -->
 <!ENTITY default_notification_channel2 "Vafri">
 <!ENTITY mls_notification_channel "&vendorShortName; staðsetningarþjónusta">
 <!ENTITY download_notification_channel "Niðurhal">
 <!ENTITY media_notification_channel "Miðlunarafspilun">
-<!ENTITY media_notification_channel2 "Hljóð og myndskeið">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel "&brandShortName; Tilkynningar">
+<!ENTITY media_notification_channel2 "Hljóð og myndskeið">
+<!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel2 "&vendorShortName; ráð og brellur">
 <!ENTITY updater_notification_channel "Uppfærslur fyrir smáforrit">
 <!ENTITY synced_tabs_notification_channel "Samstilltir flipar">
