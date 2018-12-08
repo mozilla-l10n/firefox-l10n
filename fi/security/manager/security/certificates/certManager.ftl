@@ -144,7 +144,7 @@ pkcs12-dup-data = Varmenne ja salainen avain ovat jo olemassa tällä turvalaitt
 
 choose-p12-backup-file-dialog = Varmuuskopioitavan tiedoston nimi
 file-browse-pkcs12-spec = PKCS12-tiedostot
-choose-p12-restore-file-dialog = Tuotavan varmennetiedoston nimi
+choose-p12-restore-file-dialog = Tuotava varmennetiedosto
 
 ## Import certificate(s) file dialog
 
@@ -161,7 +161,7 @@ edit-trust-ca = Varmenne { $certName } todentaa varmentajan.
 ## For Deleting Certificates
 
 delete-user-cert-title =
-    .title = Poista oma varmenne
+    .title = Omien varmenteiden poisto
 delete-user-cert-confirm = Poistetaanko nämä varmenteet?
 delete-user-cert-impact = Poistettua varmennetta ei voi enää käyttää itsensä todentamiseen.
 delete-ssl-cert-title =
