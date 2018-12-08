@@ -101,3 +101,4 @@
 <!ENTITY blockedByPolicy.title "Estetty sivu">
 
 <!ENTITY networkProtocolError.title "Verkkoyhteyskäytännön virhe">
+<!ENTITY networkProtocolError.longDesc "<p>Avattavaa sivua ei voida näyttää havaitun verkkoyhteyskäytännön virheen vuoksi.</p><ul><li>Ilmoitathan ongelmasta sivuston omistajalle.</li></ul>">
