@@ -218,10 +218,10 @@ cert-not-verified-unknown = Varmennetta ei voitu todentaa tuntemattomasta syyst�
 
 ## Add Security Exception dialog
 
-add-exception-branded-warning = Olet muuttamassa { -brand-short-name }in tapaa tunnistaa tätä sivustoa.
-add-exception-invalid-header = Sivusto yrittää tunnistaa itseään virheellisillä tiedoilla.
+add-exception-branded-warning = Olet muuttamassa { -brand-short-name }in tapaa todentaa tämä sivusto.
+add-exception-invalid-header = Sivusto yrittää todentaa itseään virheellisillä tiedoilla.
 add-exception-domain-mismatch-short = Väärä sivusto
-add-exception-domain-mismatch-long = Varmenne kuuluu toiselle sivustolle. Tämä voi olla tarkoittaa, että joku yrittää tekeytyä sivustoksi
+add-exception-domain-mismatch-long = Varmenne kuuluu toiselle sivustolle. Tämä voi olla tarkoittaa, että joku yrittää tekeytyä sivustoksi.
 add-exception-expired-short = Vanhentunutta tietoa
 add-exception-expired-long = Varmenne ei ole tällä hetkellä voimassa. Se on voinut hävitä tai se on voitu varastaa, ja joku voi käyttää sitä tekeytyäkseen täksi sivustoksi.
 add-exception-unverified-or-bad-signature-short = Tuntematon identiteetti
@@ -229,6 +229,6 @@ add-exception-unverified-or-bad-signature-long = Varmenteeseen ei luoteta, koska
 add-exception-valid-short = Voimassa oleva varmenne
 add-exception-valid-long = Sivustoon on liitetty todennettu, voimassa oleva identiteetti. Ei ole syytä asettaa poikkeusta.
 add-exception-checking-short = Tarkistetaan tietoja
-add-exception-checking-long = Yritetään tunnistaa sivustoa…
+add-exception-checking-long = Yritetään todentaa sivustoa…
 add-exception-no-cert-short = Tietoja ei ole saatavilla
 add-exception-no-cert-long = Tunnistustietoja ei ollut saatavilla sivustolle.
