@@ -267,7 +267,7 @@
 
 <!ENTITY pref_tap_to_load_images_title2 "Näytä kuvat">
 <!ENTITY pref_tap_to_load_images_enabled "Aina">
-<!ENTITY pref_tap_to_load_images_data "Vain Wi-Fi -yhteydellä">
+<!ENTITY pref_tap_to_load_images_data "Vain Wi-Fi-yhteydellä">
 <!ENTITY pref_tap_to_load_images_disabled2 "Estetty">
 
 <!ENTITY pref_show_web_fonts "Näytä sivujen kirjasinlajit">
@@ -460,7 +460,7 @@
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
 <!ENTITY pref_update_autodownload3 "Automaattiset päivitykset">
-<!ENTITY pref_update_autodownload_wifi "Vain Wi-Fi -yhteydellä">
+<!ENTITY pref_update_autodownload_wifi "Vain Wi-Fi-yhteydellä">
 <!ENTITY pref_update_autodownload_never "Ei koskaan">
 <!ENTITY pref_update_autodownload_always "Aina">
 
