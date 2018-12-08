@@ -222,3 +222,4 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> käyttää suojaustekniikkaa, joka on vanhentunut ja haavoittuvainen hyökkäyksille. Hyökkääjä voisi helposti lukea tietoja, joiden luulit olevan suojattuja. Sivuston ylläpitäjän täytyy korjata tämä ongelma ennen kuin voit käydä sivustolla.</p><p>Virhekoodi: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY networkProtocolError.title "Verkkoyhteyskäytännön virhe">
+<!ENTITY networkProtocolError.longDesc "<p>Avattavaa sivua ei voida näyttää havaitun verkkoyhteyskäytännön virheen vuoksi.</p><ul><li>Ilmoitathan ongelmasta sivuston omistajalle.</li></ul>">
