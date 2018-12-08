@@ -647,6 +647,9 @@ sitedata-cookies-exceptions =
 # in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
 # Cookies and Site Data section.
 sitedata-warning-your-settings-prevent-changes = Sisällön eston asetukset estävät muutokset eväste- ja sivustotietoasetuksiin.
+sitedata-cookies-permissions =
+    .label = Hallitse oikeuksia…
+    .accesskey = o
 
 ## Privacy Section - Address Bar
 
@@ -747,6 +750,9 @@ tracking-exceptions =
 tracking-change-block-list =
     .label = Muuta estolistaa…
     .accesskey = M
+tracking-manage-exceptions =
+    .label = Hallitse poikkeuksia…
+    .accesskey = p
 
 ## Privacy Section - Permissions
 
