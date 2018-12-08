@@ -104,7 +104,9 @@ was trying to connect. -->
 <!ENTITY certerror.introPara2 "&brandShortName; mendeteksi potensi ancaman keamanan dan tidak melanjutkan ke <span class='hostname'/>. Jika Anda mengunjungi situs ini, penyerang bisa saja mencuri informasi seperti sandi, surel, atau rincian kartu kredit Anda.">
 <!ENTITY certerror.sts.introPara "&brandShortName; mendeteksi potensi ancaman keamanan dan tidak dapat melanjutkan ke <span class='hostname'/> karena situs ini memerlukan sambungan aman.">
 
+<!ENTITY certerror.expiredCert.introPara "&brandShortName; mendeteksi masalah dan tidak melanjutkan ke <span class='hostname'/>. Situs web salah dikonfigurasi atau jam komputer Anda disetel ke waktu yang salah.">
 <!ENTITY certerror.expiredCert.secondPara2 "Sepertinya sertifikat situs ini telah kedaluwarsa, yang mencegah &brandShortName; tersambung secara aman. Jika Anda mengunjungi situs ini, penyerang dapat mencoba mencuri informasi seperti kata sandi, surel, atau rincian kartu kredit Anda.">
+<!ENTITY certerror.expiredCert.sts.secondPara "Sepertinya sertifikat situs web telah kedaluwarsa, yang menghalangi &brandShortName; dari menghubungkan dengan aman.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Apa yang bisa Anda lakukan mengenai masalah ini?">
 
@@ -165,6 +167,8 @@ was trying to connect. -->
 
 <!ENTITY blockedByPolicy.title "Laman Diblokir">
 
+<!ENTITY certerror.mitm.title "Perangkat Lunak Menghalangi &brandShortName; dari Terhubung dengan Aman ke Situs Ini">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "Jika perangkat lunak antivirus Anda menyertakan fitur pemindai koneksi terenkripsi (sering disebut “pemindaian web” atau “pemaindaian https”), Anda dapat menonaktifkan fitur ini. Jika tidak berhasil, Anda dapat menghapus dan menginstal ulang perangkat lunak antivirus.">
 
 <!ENTITY clockSkewError.title "Jam komputer Anda salah">
 <!ENTITY clockSkewError.longDesc "Menurut komputer Anda waktu sekarang adalah <span id='wrongSystemTime_systemDate1'/>, yang mencegah &brandShortName; tersambung dengan aman. Untuk mengunjungi <span class='hostname'></span>, perbarui jam komputer Anda di pengaturan sistem agar diatur ke tanggal, jam, dan zona waktu yang benar, lalu segarkan <span class='hostname'></span>.">
