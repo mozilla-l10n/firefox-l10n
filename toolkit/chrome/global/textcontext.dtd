@@ -9,11 +9,11 @@
 <!ENTITY pasteCmd.label "วาง">
 <!ENTITY pasteCmd.accesskey "ว">
 <!ENTITY undoCmd.label "เลิกทำ">
-<!ENTITY undoCmd.accesskey "ก">
+<!ENTITY undoCmd.accesskey "ล">
 <!ENTITY selectAllCmd.label "เลือกทั้งหมด">
 <!ENTITY selectAllCmd.accesskey "อ">
 <!ENTITY deleteCmd.label "ลบ">
-<!ENTITY deleteCmd.accesskey "ล">
+<!ENTITY deleteCmd.accesskey "บ">
 
 <!ENTITY spellAddToDictionary.label "เพิ่มไปยังพจนานุกรม">
 <!ENTITY spellAddToDictionary.accesskey "พ">

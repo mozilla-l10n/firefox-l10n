@@ -28,3 +28,4 @@ onboarding-ghostery-title = Ghostery
 ## Message strings belonging to the Return to AMO flow
 
 return-to-amo-extension-button = เพิ่มส่วนขยาย
+return-to-amo-get-started-button = เริ่มต้นใช้งานกับ { -brand-short-name }

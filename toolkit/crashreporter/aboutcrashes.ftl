@@ -3,9 +3,8 @@
 # file, You can obtain one at http://mozilla-org/MPL/2-0/-
 
 crash-reports-title = รายงานข้อขัดข้อง
-clear-all-reports-label = เอารายงานทั้งหมดออก
+delete-button-label = ล้างทั้งหมด
 delete-confirm-title = คุณแน่ใจหรือไม่?
-delete-confirm-description = สิ่งนี้จะลบรายงานทั้งหมดและไม่สามารถเลิกทำได้
 crashes-unsubmitted-label = รายงานข้อขัดข้องที่ยังไม่ได้ส่ง
 id-heading = ID รายงาน
 date-crashed-heading = วันที่ขัดข้อง

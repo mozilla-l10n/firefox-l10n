@@ -89,4 +89,5 @@
 
 <!ENTITY blockedByPolicy.title "หน้าที่ถูกปิดกั้น">
 
+<!ENTITY networkProtocolError.title "ข้อผิดพลาดโปรโตคอลเครือข่าย">
 <!ENTITY networkProtocolError.longDesc "<p>ไม่สามารถแสดงหน้าที่คุณกำลังพยายามจะดูเนื่องจากตรวจพบข้อผิดพลาดในโปรโตคอลเครือข่าย</p><ul><li>โปรดติดต่อเจ้าของเว็บไซต์เพื่อแจ้งพวกเขาให้ทราบถึงปัญหานี้</li></ul>">
