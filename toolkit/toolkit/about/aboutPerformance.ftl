@@ -10,6 +10,7 @@ about-performance-title = ตัวจัดการงาน
 column-name = ชื่อ
 column-type = ชนิด
 column-energy-impact = ผลกระทบด้านพลังงาน
+column-memory = หน่วยความจำ
 
 ## Special values for the Name column
 
@@ -33,6 +34,15 @@ type-other = อื่น ๆ
 energy-impact-high = สูง ({ $value })
 energy-impact-medium = ปานกลาง ({ $value })
 energy-impact-low = ต่ำ ({ $value })
+
+## Values for the Memory column
+##
+## Variables:
+##   $value (Number) - How much memory is used
+
+size-KB = { $value } KB
+size-MB = { $value } MB
+size-GB = { $value } GB
 
 ## Tooltips for the action buttons
 
