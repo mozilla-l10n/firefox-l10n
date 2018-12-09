@@ -43,7 +43,7 @@
 <!ENTITY unsafeContentType.title "Ei turvallinen tiedostotyyppi">
 <!ENTITY unsafeContentType.longDesc "
 <ul>
-  <li>Osoitteen avaaminen voi vaatia uuden ohjelman asentamista.</li>
+  <li>Ilmoitathan ongelmasta sivuston omistajalle.</li>
 </ul>
 ">
 
