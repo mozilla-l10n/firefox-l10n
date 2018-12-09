@@ -58,10 +58,10 @@ permissions-invalid-uri-label = Introduïu un nom d'ordinador central vàlid
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-tracking-protection-window =
-    .title = Excepcions - Protecció contra el seguiment
+permissions-exceptions-content-blocking-window =
+    .title = Excepcions - Bloqueig de contingut
     .style = { permissions-window.style }
-permissions-exceptions-tracking-protection-desc = Heu desactivat la protecció contra el seguiment en aquests llocs web.
+permissions-exceptions-content-blocking-desc = Heu desactivat el bloqueig de contingut en aquests llocs web.
 
 ## Exceptions - Cookies
 
