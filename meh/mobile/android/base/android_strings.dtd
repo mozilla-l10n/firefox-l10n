@@ -325,7 +325,7 @@
 <!ENTITY tracking_protection_prompt_title "Vitan jee vaji iin a kumi nkutada-ja a sá´ánu">
 <!ENTITY tracking_protection_prompt_text "Nchiyu´u-ani da kuvi kunta, nkanininu-ka kumi-ani noo´o.">
 <!ENTITY tracking_protection_prompt_tip_text "Kivɨ configuración privacidad saa kuninu-ka">
-<!ENTITY tracking_protection_prompt_action_button "Kumi-ni ma!">
+<!ENTITY tracking_protection_prompt_action_button "Kuka´nu inini!">
 
 <!ENTITY tab_queue_toast_message3 "Pestaña nchuva´a nuu &brandShortName;">
 <!ENTITY tab_queue_toast_action "Síne ntañu´u">
