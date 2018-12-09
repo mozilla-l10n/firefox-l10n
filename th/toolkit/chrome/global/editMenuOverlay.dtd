@@ -6,7 +6,7 @@
 <!ENTITY editMenu.accesskey        "ก">
 <!ENTITY undoCmd.label             "เลิกทำ">
 <!ENTITY undoCmd.key               "Z">
-<!ENTITY undoCmd.accesskey         "ก">
+<!ENTITY undoCmd.accesskey         "ล">
 <!ENTITY redoCmd.label             "ทำซ้ำ">
 <!ENTITY redoCmd.key               "Y">
 <!ENTITY redoCmd.accesskey         "ท">
@@ -20,7 +20,7 @@
 <!ENTITY pasteCmd.key              "V">
 <!ENTITY pasteCmd.accesskey        "ว">
 <!ENTITY deleteCmd.label           "ลบ">
-<!ENTITY deleteCmd.accesskey       "ล">
+<!ENTITY deleteCmd.accesskey       "บ">
 <!ENTITY selectAllCmd.label        "เลือกทั้งหมด">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey    "อ">

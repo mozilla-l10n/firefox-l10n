@@ -134,5 +134,8 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.intlAppTitle "การตั้งค่าแอปพลิเคชัน">
 <!ENTITY aboutSupport.intlLocalesAvailable "ภาษาที่มี">
+<!ENTITY aboutSupport.intlLocalesSupported "ภาษาของแอป">
+<!ENTITY aboutSupport.intlLocalesDefault "ภาษาเริ่มต้น">
 <!ENTITY aboutSupport.intlOSTitle "ระบบปฏิบัติการ">
+<!ENTITY aboutSupport.intlOSPrefsSystemLocales "ภาษาของระบบ">
 <!ENTITY aboutSupport.intlRegionalPrefs "ค่ากำหนดภูมิภาค">

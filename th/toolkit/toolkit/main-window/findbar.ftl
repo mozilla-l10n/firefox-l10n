@@ -15,6 +15,14 @@ findbar-highlight-all =
     .label = เน้นสีทั้งหมด
     .accesskey = น
     .tooltiptext = เน้นสีวลีที่พบทั้งหมด
+findbar-highlight-all2 =
+    .label = เน้นสีทั้งหมด
+    .accesskey =
+        { PLATFORM() ->
+            [macos] l
+           *[other] น
+        }
+    .tooltiptext = เน้นสีวลีที่พบทั้งหมด
 findbar-case-sensitive =
     .label = ตัวพิมพ์ใหญ่เล็กตรงกัน
     .accesskey = ว
