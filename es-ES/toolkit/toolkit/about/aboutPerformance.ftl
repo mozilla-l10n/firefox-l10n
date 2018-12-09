@@ -38,7 +38,15 @@ energy-impact-high = Elevado ({ $value })
 energy-impact-medium = Medio ({ $value })
 energy-impact-low = Bajo ({ $value })
 
+## Values for the Memory column
+##
+## Variables:
+##   $value (Number) - How much memory is used
+
+
 ## Tooltips for the action buttons
 
 close-tab =
     .title = Cerrar pestaña
+show-addon =
+    .title = Mostrar en el administrador de complementos

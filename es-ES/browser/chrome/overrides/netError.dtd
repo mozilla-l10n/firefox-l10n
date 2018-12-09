@@ -245,3 +245,4 @@ was trying to connect. -->
 <!ENTITY prefReset.label "Restablecer configuración predeterminada">
 
 <!ENTITY networkProtocolError.title "Error de protocolo de red">
+<!ENTITY networkProtocolError.longDesc "<p>La página que está intentando ver no se puede mostrar debido a un error detectado en el protocolo de red.</p><ul><li>Por favor, contacte con el propietario del sitio para informarle de este problema.</li></ul>">
