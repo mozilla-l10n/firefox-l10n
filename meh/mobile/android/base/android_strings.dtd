@@ -293,7 +293,7 @@
 <!-- Localization note (pref_feature_tips_notification_enabling_hint):
      Describe the action the user should do to enable this preference
      Will be used in the context "<Turn on> ... to enable this feature" -->
-<!ENTITY pref_feature_tips_notification_enabling_hint "Tɨɨn">
+<!ENTITY pref_feature_tips_notification_enabling_hint "Kutúvi">
 
 <!-- Localization note (pref_feature_tips_notification_enabling_path):
      Nothing to translate. Simple concatenation of already localized strings. Result is used below. -->
@@ -317,7 +317,7 @@
 <!ENTITY custom_tabs_menu_item_open_in "Síne jii &formatS;">
 <!ENTITY custom_tabs_menu_footer "Ya´a kuvi teku jiie &brandShortName;">
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
-<!ENTITY custom_tabs_hint_url_copy "URL ntɨɨ">
+<!ENTITY custom_tabs_hint_url_copy "URL ntɨɨn">
 
 <!ENTITY pref_pwa "Ka̱a̱ web progresivas">
 <!ENTITY pref_pwa_summary "Kuvi daa ka̱a̱ web tee nuu pantalla xinañu´u">
