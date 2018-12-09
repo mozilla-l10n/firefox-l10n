@@ -294,6 +294,9 @@ update-enable-search-update =
     .label = Actualitza automàticament els motors de cerca
     .accesskey = e
 update-pref-write-failure-title = Error d'escriptura
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = No s'ha pogut desar la preferència. No s'ha pogut escriure al fitxer: { $path }
 
 ## General Section - Performance
 
@@ -610,6 +613,9 @@ sitedata-keep-until-expire =
     .label = vencin
 sitedata-keep-until-closed =
     .label = es tanqui el { -brand-short-name }
+sitedata-delete-on-close =
+    .label = Suprimeix les galetes i les dades dels llocs web en tancar el { -brand-short-name }
+    .accesskey = c
 sitedata-allow-cookies-option =
     .label = Accepta les galetes i dades dels llocs web
     .accesskey = A
@@ -634,6 +640,10 @@ sitedata-option-block-trackers =
     .label = Elements de seguiment de tercers
 sitedata-option-block-unvisited =
     .label = Galetes de llocs web no visitats
+sitedata-option-block-all-third-party =
+    .label = Totes les galetes de tercers (pot fer que alguns llocs web no funcionin)
+sitedata-option-block-all =
+    .label = Totes les galetes (farà que alguns llocs web no funcionin)
 sitedata-clear =
     .label = Neteja les dades…
     .accesskey = l
@@ -647,6 +657,9 @@ sitedata-cookies-exceptions =
 # in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
 # Cookies and Site Data section.
 sitedata-warning-your-settings-prevent-changes = Els paràmetres de «Bloqueig de contingut» impedeixen fer canvis en els paràmetres de «Galetes i dades dels llocs».
+sitedata-cookies-permissions =
+    .label = Gestiona els permisos…
+    .accesskey = p
 
 ## Privacy Section - Address Bar
 
@@ -667,6 +680,7 @@ addressbar-suggestions-settings = Canvia les preferències dels suggeriments de 
 
 content-blocking-header = Bloqueig de contingut
 content-blocking-desc = Bloqueu el contingut de tercers, com anuncis o codi, que podria alentir la navegació i fer el seguiment dels llocs que visiteu. Personalitzeu els paràmetres per trobar el millor l'equilibri entre protecció i rendiment.
+content-blocking-description = Bloqueu el contingut de tercers que us fan el seguiment mentre navegueu. Podeu controlar quanta activitat en línia voleu emmagatzemar i compartir entre els llocs web.
 content-blocking-learn-more = Més informació
 content-blocking-restore-defaults =
     .label = Restaura els valors per defecte
@@ -711,7 +725,26 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = Personalitzat
     .accesskey = z
+content-blocking-standard-description = Bloca només els elements de seguiment coneguts en finestres privades.
+content-blocking-standard-desc = Equilibri entre protecció i rendiment. Permet alguns elements de seguiment perquè els llocs web funcionin correctament.
+content-blocking-strict-desc = Bloca tots els elements de seguiment que detecta el { -brand-short-name }. Pot fer que alguns llocs no funcionin correctament.
 content-blocking-custom-desc = Trieu què voleu blocar.
+content-blocking-private-trackers = Elements de seguiment coneguts en finestres privades
+content-blocking-third-party-cookies = Galetes de seguiment de tercers
+content-blocking-all-windows-trackers = Elements de seguiment coneguts en totes les finestres
+content-blocking-all-third-party-cookies = Totes les galetes de tercers
+content-blocking-warning-title = Atenció!
+content-blocking-warning-desc = El bloqueig de galetes i d'elements de seguiment pot fer que alguns llocs web no funcionin correctament. És fàcil desactivar el bloqueig dels llocs en què confieu.
+content-blocking-learn-how = Vegeu com fer-ho
+content-blocking-trackers-label =
+    .label = Elements de seguiment
+    .accesskey = t
+content-blocking-tracking-protection-option-all-windows =
+    .label = En totes les finestres
+    .accesskey = f
+content-blocking-option-private =
+    .label = Només en finestres privades
+    .accesskey = N
 content-blocking-tracking-protection-change-block-list = Canvia la llista de bloquejos
 content-blocking-third-party-cookies-label =
     .label = Galetes de tercers
@@ -734,6 +767,9 @@ content-blocking-reject-trackers-block-trackers-option =
 content-blocking-reject-trackers-all-third-parties-option =
     .label = Totes les galetes de tercers (pot fer que alguns llocs web no funcionin)
     .accesskey = T
+content-blocking-cookies-label =
+    .label = Galetes
+    .accesskey = G
 
 ## Privacy Section - Tracking
 
@@ -755,6 +791,9 @@ tracking-exceptions =
 tracking-change-block-list =
     .label = Canvia la llista de bloquejos…
     .accesskey = C
+tracking-manage-exceptions =
+    .label = Gestiona les excepcions…
+    .accesskey = x
 
 ## Privacy Section - Permissions
 
@@ -822,6 +861,8 @@ collection-health-report-link = Més informació
 collection-studies =
     .label = Permet al { -brand-short-name } instal·lar i executar estudis
 collection-studies-link = Mostra els estudis del { -brand-short-name }
+addon-recommendations =
+    .label = Permet que el { -brand-short-name } faci recomanacions personalitzades d'extensions
 addon-recommendations-link = Més informació
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
@@ -901,3 +942,7 @@ space-alert-under-5gb-message = El { -brand-short-name } s'està quedant sense e
 desktop-folder-name = Escriptori
 downloads-folder-name = Baixades
 choose-download-folder-title = Tria la carpeta de baixades:
+# Variables:
+#   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
+save-files-to-cloud-storage =
+    .label = Desa els fitxers al { $service-name }
