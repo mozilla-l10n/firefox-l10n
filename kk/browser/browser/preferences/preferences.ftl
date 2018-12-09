@@ -538,7 +538,6 @@ privacy-header = Браузер жекелігі
 
 ## Privacy Section - Forms
 
-forms-header = Формалар және парольдер
 logins-header = Логиндер және парольдер
 forms-ask-to-save-logins =
     .label = Веб-сайттар үшін логиндер мен парольдерді сақтауды сұрау
@@ -692,6 +691,21 @@ content-blocking-fastblock-slow-loading-trackers-label =
     .label = Баяу жүктелетін трекерлер
     .accesskey = ж
 content-blocking-fastblock-new-description = Тек беттердің жылдам жүктелуіне жол бермейтін трекерлерді бұғаттау.
+content-blocking-tracking-protection-trackers-label =
+    .label = Трекерлер
+    .accesskey = Т
+content-blocking-tracking-protection-all-detected-trackers-label =
+    .label = Барлық анықталған трекерлер
+    .accesskey = т
+content-blocking-tracking-protection-new-description = Барлық белгілі трекерлерді бұғаттау. (Кейбір парақтар жүктелмеуі мүмкін.)
+content-blocking-tracking-protection-option-always =
+    .label = Әрқашан
+    .accesskey = а
+content-blocking-tracking-protection-option-private =
+    .label = Тек жекелік терезелерінде
+    .accesskey = е
+# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
+# "Standard" in this case is an adjective, meaning "default" or "normal".
 content-blocking-setting-standard =
     .label = Қалыпты
     .accesskey = п
@@ -711,19 +725,6 @@ content-blocking-all-third-party-cookies = Барлық үшінші жақты 
 content-blocking-warning-title = Ескерту!
 content-blocking-warning-desc = Cookies файлдарын және трекерлерді бұғаттау кейбір веб-сайттар жұмысын бұзуы мүмкін. Өзіңіз сенетін сайттар үшін бұғаттауды сөндіру оңай.
 content-blocking-learn-how = Көбірек білу
-content-blocking-tracking-protection-trackers-label =
-    .label = Трекерлер
-    .accesskey = Т
-content-blocking-tracking-protection-all-detected-trackers-label =
-    .label = Барлық анықталған трекерлер
-    .accesskey = т
-content-blocking-tracking-protection-new-description = Барлық белгілі трекерлерді бұғаттау. (Кейбір парақтар жүктелмеуі мүмкін.)
-content-blocking-tracking-protection-option-always =
-    .label = Әрқашан
-    .accesskey = а
-content-blocking-tracking-protection-option-private =
-    .label = Тек жекелік терезелерінде
-    .accesskey = е
 content-blocking-tracking-protection-change-block-list = Бұғаттау тізімін өзгерту
 content-blocking-third-party-cookies-label =
     .label = Үшінші жақты cookies файлдары
@@ -840,6 +841,7 @@ collection-health-report-link = Көбірек білу
 collection-studies =
     .label = { -brand-short-name } үшін зерттеулерді орнатып, орындауды рұқсат ету
 collection-studies-link = { -brand-short-name } зерттеулерін қарау
+addon-recommendations-link = Көбірек білу
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Деректер есептемесін беру бұл жинақта сөндірілген

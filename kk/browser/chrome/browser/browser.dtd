@@ -21,8 +21,6 @@
 <!-- Tab context menu -->
 <!ENTITY  reloadTab.label                    "Бетті қайта жүктеу">
 <!ENTITY  reloadTab.accesskey                "й">
-<!ENTITY  reloadAllTabs.label                "Барлық беттерді қайта жүктеу">
-<!ENTITY  reloadAllTabs.accesskey            "а">
 <!ENTITY  selectAllTabs.label                "Барлық беттерді таңдау">
 <!ENTITY  selectAllTabs.accesskey            "т">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
@@ -47,9 +45,6 @@ left instead of right. -->
 <!ENTITY  closeOtherTabs.label               "Басқа беттерді жабу">
 <!ENTITY  closeOtherTabs.accesskey           "с">
 
-<!ENTITY  closeSelectedTabs.label            "Таңдалған беттерді жабу">
-<!ENTITY  closeSelectedTabs.accesskey        "т">
-
 <!ENTITY  closeTabs.label                    "Беттерді жабу">
 <!ENTITY  closeTabs.accesskey                "б">
 <!ENTITY  pinSelectedTabs.label              "Беттерді бекіту">
@@ -62,10 +57,6 @@ same accesskey but will never be visible at the same time. -->
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinSelectedTabs.accesskey        "б">
-<!-- Reload Tab and Reload Selected Tabs have the same accesskey
-but will never be visible at the same time. -->
-<!ENTITY  reloadSelectedTabs.label           "Таңдалған беттерді қайта жүктеу">
-<!ENTITY  reloadSelectedTabs.accesskey       "й">
 <!-- LOCALIZATION NOTE(reloadTab.label, reloadTabs.label): have the same accesskey
 but will never be visible at the same time. -->
 <!ENTITY  reloadTabs.label                   "Беттерді қайта жүктеу">
@@ -90,8 +81,6 @@ same accesskey but will never be visible at the same time. -->
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinTab.accesskey                 "Б">
-<!ENTITY  sendTabToDevice.label              "Бетті құрылғыға жіберу">
-<!ENTITY  sendTabToDevice.accesskey          "ы">
 <!ENTITY  sendPageToDevice.label             "Парақты құрылғыға жіберу">
 <!ENTITY  sendPageToDevice.accesskey         "ы">
 <!ENTITY  sendLinkToDevice.label             "Сілтемені құрылғыға жіберу">
@@ -110,8 +99,6 @@ These two items have the same accesskey but will never be visible at the same ti
 <!ENTITY  moveToNewWindow.accesskey          "е">
 <!ENTITY  reopenInContainer.label            "Контейнерде қайтадан ашу">
 <!ENTITY  reopenInContainer.accesskey        "а">
-<!ENTITY  bookmarkAllTabs.label              "Барлық беттерді бетбелгілерге қосу…">
-<!ENTITY  bookmarkAllTabs.accesskey          "т">
 <!ENTITY  bookmarkTab.label                  "Бетті бетбелгілерге қосу">
 <!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
@@ -153,11 +140,6 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.label "Бетбелгілер панелі">
 <!ENTITY personalbarCmd.accesskey "Б">
 <!ENTITY bookmarksToolbarItem.label "Бетбелгілер панелінің элементтері">
-
-<!ENTITY toolbarContextMenu.reloadAllTabs.label "Барлық беттерді қайта жүктеу">
-<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "а">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Барлық беттерді бетбелгілерге қосу…">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "т">
 
 <!ENTITY toolbarContextMenu.reloadSelectedTab.label "Таңдалған бетті қайта жүктеу">
 <!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
@@ -264,9 +246,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editThisBookmarkCmd.label "Бетбелгіні түзету">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
-<!ENTITY subscribeToPageMenupopup.label "Бұл бетке жазылу">
-<!ENTITY subscribeToPageMenuitem.label "Бұл бетке жазылу…">
-
 <!ENTITY addCurPagesCmd.label "Барлық беттерді бетбелгілерге қосу…">
 <!ENTITY showAllBookmarks2.label "Барлық бетбелгілерді көрсету">
 <!ENTITY recentBookmarks.label "Соңынан қосылғандар">
@@ -305,6 +284,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Деректерді тұрақты қоймада сақтау">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Браузер қашықтан басқарылуда">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Веб аутентификация панелін ашу">
+
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Камераңыз және/немесе микрофонмен бұл сайтпен бөлісуді басқару">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Микрофоныңызбен бұл сайтпен бөлісуді басқару">
@@ -380,10 +360,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY webDeveloperMenu.label       "Веб-әзірлеуші">
 <!ENTITY webDeveloperMenu.accesskey   "В">
-
-<!ENTITY devtoolsRecordExecution.label "Орындалуды жазып отыру">
-<!ENTITY devtoolsSaveRecording.label "Жазуды сақтау">
-<!ENTITY devtoolsReplayExecution.label "Жазуды қайта ойнату">
 
 <!ENTITY inspectContextMenu.label     "Элементті бақылау">
 <!ENTITY inspectContextMenu.accesskey "Э">
@@ -514,7 +490,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "а">
 <!ENTITY customizeMenu.manageExtension.label "Кеңейтуді басқару">
 <!ENTITY customizeMenu.manageExtension.accesskey "е">
-
 <!ENTITY customizeMenu.removeExtension.label "Кеңейтуді өшіру">
 <!ENTITY customizeMenu.removeExtension.accesskey "ш">
 
@@ -1019,12 +994,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackingProtection2.label "Барлық анықталған трекерлер">
 
 <!ENTITY contentBlocking.trackingProtection3.label "Трекерлер">
-<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.allowed.label):
-     This label signals that this type of content blocking is turned
-     OFF and is not blocking tracker content, so this is not
-     a positive thing. It forms the end of the (imaginary) sentence
-     "Trackers [are] Allowed"-->
-<!ENTITY contentBlocking.trackingProtection.allowed.label "Рұқсат етілген">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking tracker content, so this is
@@ -1066,6 +1035,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.trackersView.label "Трекерлер">
 <!ENTITY contentBlocking.trackersView.strictInfo.label 'Барлық трекерлерді бұғаттау үшін, құраманы бұғаттауды "Қатаң" күйіне орнатыңыз.'>
+
+<!ENTITY contentBlocking.cookies.label "Cookies файлдары">
+<!ENTITY contentBlocking.cookiesView.label "Cookies файлдары және сайт деректері">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Мәселені хабарлау">
 <!ENTITY contentBlocking.breakageReportView.label "Мәселелерді хабарлау">
@@ -1200,11 +1172,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "Бет әрекеттері">
 <!ENTITY pageAction.addToUrlbar.label "Адрес жолағына қосу">
 <!ENTITY pageAction.removeFromUrlbar.label "Адрес жолағынан алып тастау">
-<!ENTITY pageAction.allowInUrlbar.label "Адрестік жолақта көрсету">
-<!ENTITY pageAction.disallowInUrlbar.label "Адрестік жолақта көрсетпеу">
 <!ENTITY pageAction.manageExtension.label "Кеңейтуді басқару…">
-
-<!ENTITY pageAction.sendTabToDevice.label "Бетті құрылғыға жіберу">
 
 <!ENTITY sendToDevice.syncNotReady.label "Құрылғыларды синхрондау…">
 
