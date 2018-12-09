@@ -985,6 +985,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This label signals that this type of content blocking is turned
      ON, so this is a positive thing. It forms the verb in (imaginary) sentence
      "Firefox is blocking Slow-Loading Trackers"-->
+<!ENTITY contentBlocking.fastBlock.blocking.label "S'està blocant">
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
@@ -1004,6 +1005,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This label signals that this type of content blocking is turned
      ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
      "Firefox is blocking Trackers"-->
+<!ENTITY contentBlocking.trackingProtection.blocking.label "S'està blocant">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
@@ -1011,6 +1013,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackingProtection.add.label "Activa el bloqueig…">
 
 <!ENTITY contentBlocking.3rdPartyCookies.label "Galetes de tercers">
+<!ENTITY contentBlocking.3rdPartyCookies.trackers.label "Galetes de seguiment">
 <!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking third-party cookies, so this is
@@ -1021,14 +1024,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This label signals that this type of content blocking is turned
      ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
      "Firefox is blocking Third-Party Cookies"-->
+<!ENTITY contentBlocking.3rdPartyCookies.blocking.label "S'està blocant">
 <!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.3rdPartyCookies.add.label "Activa el bloqueig…">
 
+<!ENTITY contentBlocking.manageSettings.label "Gestiona el bloqueig de contingut">
+<!ENTITY contentBlocking.manageSettings.accesskey "G">
 
+<!ENTITY contentBlocking.trackersView.label "Elements de seguiment">
+<!ENTITY contentBlocking.trackersView.strictInfo.label "Per blocar tots els elements de seguiment, trieu el bloqueig de contingut «Estricte».">
 
+<!ENTITY contentBlocking.cookies.label "Galetes">
+<!ENTITY contentBlocking.cookiesView.label "Galetes i dades dels llocs">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Informeu d'un problema">
 <!ENTITY contentBlocking.breakageReportView.label "Notificació de problemes">
@@ -1058,9 +1068,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock5.label "Desactiva el bloqueig per a aquest lloc">
+<!ENTITY trackingProtection.unblock5.accesskey "t">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate6.label, trackingProtection.unblockPrivate6.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate5.label "Desactiva el bloqueig temporalment">
+<!ENTITY trackingProtection.unblockPrivate5.accesskey "t">
+<!ENTITY trackingProtection.block6.label "Activa el bloqueig per a aquest lloc">
+<!ENTITY trackingProtection.block6.accesskey "t">
 <!ENTITY trackingProtection.reload2.label "Torna a carregar la pàgina">
 <!ENTITY trackingProtection.reload2.accesskey "r">
 
