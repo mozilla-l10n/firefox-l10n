@@ -12,7 +12,6 @@
 <!ENTITY advanced.label "Išsamiau">
 <!ENTITY continue2.label "Daugiau…">
 <!ENTITY moreInformation.label "Daugiau informacijos">
-
 <!ENTITY viewCertificate.label "Rodyti liudijimą">
 
 <!-- Specific error messages -->
@@ -100,9 +99,6 @@ will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "<span class='hostname'/> savininkas netinkamai sukonfigūravo savo svetainę.  Kad apsaugotų jūsų duomenis, „&brandShortName;“ prie šios svetainės nesijungė.">
 <!ENTITY certerror.introPara2 "„&brandShortName;“ aptiko galimą saugumo grėsmę ir neįkėlė <span class='hostname'/>. Jei apsilankysite šioje svetainėje, piktavaliai gali bandyti pavogti jūsų slaptažodžius, el. laiškus, bankininkystės duomenis.">
-
-<!ENTITY certerror.expiredCert.secondPara "Ši problema greičiausiai kilo dėl to, kad jūsų kompiuterio laikrodis yra netinkamai nustatytas, o tai neleidžia „&brandShortName;“ užmegzti saugaus ryšio.">
-
 <!ENTITY certerror.sts.introPara "„&brandShortName;“ aptiko galimą saugumo grėsmę ir neįkėlė <span class='hostname'/>, nes ši svetainė reikalauja saugaus ryšio.">
 
 <!ENTITY certerror.expiredCert.introPara "„&brandShortName;“ aptiko problemą ir neįkėlė <span class='hostname'/>. Ši svetainė gali būti netinkamai sukonfigūruota, arba jūsų kompiuterio laikrodis yra netinkamai nustatytas.">
@@ -160,6 +156,13 @@ was trying to connect. -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> naudoja saugumo technologiją, kuri yra pasenusi ir pažeidžiama. Piktavalis lengvai galėtų pamatyti informaciją, kuri jums atrodė saugi. Kol svetainės administratorius jos nesutvarkys, negalėsite į šią svetainę užeiti.</p><p>Klaidos kodas: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Uždraustas puslapis">
+
+<!ENTITY certerror.mitm.title "Kažkuri programa neleidžia „&brandShortName;“ saugiai prisijungti prie šios svetainės">
+<!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> greičiausiai yra saugi svetainė, tačiau nepavyko užmegzti saugaus ryšio. Šią problemą sukėlė „<span class='mitm-name'/>“, jūsų kompiuteryje arba tinkle esanti programinė įranga.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "Jeigu jūsų antivirusinė programa turi funkciją, kuri tikrina užšifruotus susijungimus (dažnai vadinama „saityno skenavimu“ arba „https skenavimu“), galite ją išjungti. Jei tai nepadės, galite pašalinti antivirusinę programą ir įdiegti ją iš naujo.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "Jeigu esate įmonės tinkle, galite susisiekti su savo IT skyriumi.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "Jeigu neatpažįstate „<span class='mitm-name'/>“, tai gali būti apgaulė ir neturėtumėte bandyti atverti šios svetainės.">
+<!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "Jeigu neatpažįstate „<span class='mitm-name'/>“, tai gali būti apgaulė ir negalite nieko padaryti, kad atvertumėte šią svetainę.">
 
 <!ENTITY clockSkewError.title "Jūsų kompiuterio laikas neteisingas">
 <!ENTITY clockSkewError.longDesc "Jūsų kompiuteris sako, kad yra dabar yra <span id='wrongSystemTime_systemDate1'/>, kas neleidžia „&brandShortName;“ užmegzti saugaus ryšio. Norėdami aplankyti <span class='hostname'></span>, atnaujinkite savo kompiuterio laikrodį, kad rodytų teisingą esamą datą, laiką ir laiko juostą, ir įkelkite <span class='hostname'></span> iš naujo.">
