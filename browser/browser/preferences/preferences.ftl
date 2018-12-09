@@ -141,6 +141,8 @@ set-as-my-default-browser =
 startup-restore-previous-session =
     .label = Atkurti paskiausiąjį seansą
     .accesskey = r
+startup-restore-warn-on-quit =
+    .label = Perspėti išjungiant naršyklę
 disable-extension =
     .label = Išjungti priedą
 tabs-group-header = Kortelės
@@ -541,7 +543,6 @@ privacy-header = Naršyklės privatumas
 
 ## Privacy Section - Forms
 
-forms-header = Formos ir slaptažodžiai
 logins-header = Prisijungimai ir slaptažodžiai
 forms-ask-to-save-logins =
     .label = Klausti, ar norite įrašyti svetainių prisijungimus ir slaptažodžius
@@ -863,6 +864,8 @@ collection-health-report-link = Sužinoti daugiau
 collection-studies =
     .label = Leisti „{ -brand-short-name }“ diegti ir atlikti tyrimus
 collection-studies-link = Peržiūrėti „{ -brand-short-name }“ tyrimus
+addon-recommendations =
+    .label = Leisti „{ -brand-short-name }“ siūlyti suasmenintas priedų rekomendacijas
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Duomenų siuntimas šiai darinio sąrankai yra išjungtas
