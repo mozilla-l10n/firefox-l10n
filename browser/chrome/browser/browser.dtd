@@ -21,8 +21,6 @@
 <!-- Tab context menu -->
 <!ENTITY  reloadTab.label                    "Chargiar danovamain il tab">
 <!ENTITY  reloadTab.accesskey                "r">
-<!ENTITY  reloadAllTabs.label                "Chargiar danovamain tut ils tabs">
-<!ENTITY  reloadAllTabs.accesskey            "t">
 <!ENTITY  selectAllTabs.label                "Tscherner tut ils tabs">
 <!ENTITY  selectAllTabs.accesskey            "T">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
@@ -47,9 +45,6 @@ left instead of right. -->
 <!ENTITY  closeOtherTabs.label               "Serrar ils auters tabs">
 <!ENTITY  closeOtherTabs.accesskey           "a">
 
-<!ENTITY  closeSelectedTabs.label            "Serrar ils tabs tschernids">
-<!ENTITY  closeSelectedTabs.accesskey        "S">
-
 <!ENTITY  closeTabs.label                    "Serrar ils tabs">
 <!ENTITY  closeTabs.accesskey                "S">
 <!ENTITY  pinSelectedTabs.label              "Fixar ils tabs">
@@ -62,10 +57,6 @@ same accesskey but will never be visible at the same time. -->
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinSelectedTabs.accesskey        "b">
-<!-- Reload Tab and Reload Selected Tabs have the same accesskey
-but will never be visible at the same time. -->
-<!ENTITY  reloadSelectedTabs.label           "Rechargiar ils tabs tschernids">
-<!ENTITY  reloadSelectedTabs.accesskey       "r">
 <!-- LOCALIZATION NOTE(reloadTab.label, reloadTabs.label): have the same accesskey
 but will never be visible at the same time. -->
 <!ENTITY  reloadTabs.label                   "Rechargiar ils tabs">
@@ -90,8 +81,6 @@ same accesskey but will never be visible at the same time. -->
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinTab.accesskey                 "B">
-<!ENTITY  sendTabToDevice.label              "Trametter il tab ad in apparat">
-<!ENTITY  sendTabToDevice.accesskey          "a">
 <!ENTITY  sendPageToDevice.label             "Trametter la pagina ad in apparat">
 <!ENTITY  sendPageToDevice.accesskey         "a">
 <!ENTITY  sendLinkToDevice.label             "Trametter la colliaziun ad in apparat">
@@ -110,8 +99,6 @@ These two items have the same accesskey but will never be visible at the same ti
 <!ENTITY  moveToNewWindow.accesskey          "n">
 <!ENTITY  reopenInContainer.label            "Avrir anc ina giada en in container">
 <!ENTITY  reopenInContainer.accesskey        "e">
-<!ENTITY  bookmarkAllTabs.label              "Agiuntar in segnapagina per mintga tab…">
-<!ENTITY  bookmarkAllTabs.accesskey          "t">
 <!ENTITY  bookmarkTab.label                  "Agiuntar in segnapagina per il tab">
 <!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
@@ -153,11 +140,6 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.label "Trav d'utensils dals segnapaginas">
 <!ENTITY personalbarCmd.accesskey "u">
 <!ENTITY bookmarksToolbarItem.label "Simbols dals segnapaginas">
-
-<!ENTITY toolbarContextMenu.reloadAllTabs.label "Rechargiar tut ils tabs">
-<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "u">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Crear segnapaginas per tut ils tabs…">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "T">
 
 <!ENTITY toolbarContextMenu.reloadSelectedTab.label "Rechargiar il tab tschernì">
 <!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
@@ -264,9 +246,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editThisBookmarkCmd.label "Modifitgar quest segnapagina">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
-<!ENTITY subscribeToPageMenupopup.label "Abunar questa pagina">
-<!ENTITY subscribeToPageMenuitem.label "Abunar questa pagina…">
-
 <!ENTITY addCurPagesCmd.label "Agiuntar segnapaginas per tut ils tabs…">
 <!ENTITY showAllBookmarks2.label "Mussar tut ils segnapaginas">
 <!ENTITY recentBookmarks.label "Tschernì dacurt sco segnapagina">
@@ -305,6 +284,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Memorisar datas en la memoria durabla">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Il navigatur vegn controllà a distanza">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Avrir la panela d'autentificaziun web">
+
+<!ENTITY urlbar.storageAccessAnchor.tooltip               "Avrir la panela da las permissiuns per la navigaziun">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Administrar la cundivisiun da la camera/dal microfon cun la pagina">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Administrar la cundivisiun dal microfon cun la pagina">
@@ -380,10 +361,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY webDeveloperMenu.label       "Sviluppaders dal web">
 <!ENTITY webDeveloperMenu.accesskey   "w">
-
-<!ENTITY devtoolsRecordExecution.label "Registrar l'execuziun">
-<!ENTITY devtoolsSaveRecording.label "Memorisar la registraziun">
-<!ENTITY devtoolsReplayExecution.label "Reproducir l'execuziun">
 
 <!ENTITY inspectContextMenu.label     "Inspectar l'element">
 <!ENTITY inspectContextMenu.accesskey "I">
@@ -514,7 +491,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "a">
 <!ENTITY customizeMenu.manageExtension.label "Administrar l'extensiun">
 <!ENTITY customizeMenu.manageExtension.accesskey "e">
-
 <!ENTITY customizeMenu.removeExtension.label "Allontanar l'extensiun">
 <!ENTITY customizeMenu.removeExtension.accesskey "a">
 
@@ -1019,12 +995,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackingProtection2.label "Tut ils fastizaders chattads">
 
 <!ENTITY contentBlocking.trackingProtection3.label "Fastizaders">
-<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.allowed.label):
-     This label signals that this type of content blocking is turned
-     OFF and is not blocking tracker content, so this is not
-     a positive thing. It forms the end of the (imaginary) sentence
-     "Trackers [are] Allowed"-->
-<!ENTITY contentBlocking.trackingProtection.allowed.label "Permess">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking tracker content, so this is
@@ -1066,6 +1036,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.trackersView.label "Fastizaders">
 <!ENTITY contentBlocking.trackersView.strictInfo.label "Per bloccar tut ils fastizaders, tscherna «Restrictiv» per la bloccada da cuntegn.">
+
+<!ENTITY contentBlocking.cookies.label "Cookies">
+<!ENTITY contentBlocking.cookiesView.label "Cookies e datas da websites">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Annunziar in problem">
 <!ENTITY contentBlocking.breakageReportView.label "Annunziar problems">
@@ -1200,11 +1173,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "Acziuns da pagina">
 <!ENTITY pageAction.addToUrlbar.label "Agiuntar a la trav d'adressas">
 <!ENTITY pageAction.removeFromUrlbar.label "Allontanar da la trav d'adressas">
-<!ENTITY pageAction.allowInUrlbar.label "Mussar en la trav d'adressas">
-<!ENTITY pageAction.disallowInUrlbar.label "Betg mussar en la trav d'adressas">
 <!ENTITY pageAction.manageExtension.label "Administrar il supplement…">
-
-<!ENTITY pageAction.sendTabToDevice.label "Trametter il tab ad in apparat">
 
 <!ENTITY sendToDevice.syncNotReady.label "Sincronisar apparats…">
 
