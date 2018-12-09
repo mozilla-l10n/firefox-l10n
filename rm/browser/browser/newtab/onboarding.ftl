@@ -32,3 +32,10 @@ onboarding-fxa-text = Creescha in { -fxaccount-brand-name } per sincronisar ils 
 ## Message strings belonging to the Return to AMO flow
 
 return-to-amo-sub-header = Stupent, ussa has ti { -brand-short-name }
+# <icon></icon> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-header = Pertge n'emprovas ti ussa betg <icon></icon><b>{ $addon-name }</b>?
+return-to-amo-extension-button = Agiuntar l'extensiun
+return-to-amo-get-started-button = Cumenzar cun { -brand-short-name }
