@@ -10,3 +10,5 @@
 
 <!ENTITY defaultButton.label "ตกลง!">
 <!ENTITY defaultButton.accesskey "ต">
+
+<!ENTITY moreActionsButton.accessibleLabel "การกระทำเพิ่มเติม">
