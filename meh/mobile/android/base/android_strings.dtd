@@ -148,7 +148,7 @@
      UI. The locale includes both language and region concepts. -->
 <!ENTITY pref_category_language "Tu´un ká´án">
 <!ENTITY pref_category_language_summary "Sama tu´un ká´án nuu ka̱a̱ nánuku">
-<!ENTITY pref_browser_locale "Tu´un ká´án navegador">
+<!ENTITY pref_browser_locale "Tu´un ká´án ka̱a̱ nánuku">
 
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
@@ -811,7 +811,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_private_browsing_description "Ya´a taji nuu daa ta´a noo´o nánuku-da jee nchuva´a información jiee daa sitios a xíín páginas nne´yada.">
 <!ENTITY restrictable_feature_clear_history "Sna daa sɨ´ɨ nsá´ánu">
 <!ENTITY restrictable_feature_clear_history_description "Ya´a taji nuu daa ta´a noo´o xino daa sitios jiin daa página nne´yada">
-<!ENTITY restrictable_feature_advanced_settings "Configuraciones víjíka">
+<!ENTITY restrictable_feature_advanced_settings "Daa nachu´un náke´i víjíka">
 <!ENTITY restrictable_feature_advanced_settings_description "Ya´a taji sia´a a ta´a ini noo´o, natee pestañas jii actualizaciones a satiñu ntu´un. Naxita saa sá´á configuraciones a ntu víjí nuu daa tán´an ve´i noo´o.">
 <!ENTITY restrictable_feature_camera_microphone "Ka̱a̱ nátava &amp; Micrófono">
 <!ENTITY restrictable_feature_camera_microphone_description "Kua´a nuu daa ta´anu náyonika-da ka´ada nuun web.">
