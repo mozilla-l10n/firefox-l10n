@@ -38,3 +38,4 @@ return-to-amo-sub-header = Hienoa, sinulla on { -brand-short-name }
 #   $addon-name (String) - Name of the add-on
 return-to-amo-addon-header = Hankitaanpa sinulle nyt <icon></icon><b>{ $addon-name }.</b>
 return-to-amo-extension-button = Lisää laajennus
+return-to-amo-get-started-button = Aloita { -brand-short-name }in käyttö
