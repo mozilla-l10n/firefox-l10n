@@ -866,6 +866,7 @@ collection-studies =
 collection-studies-link = Peržiūrėti „{ -brand-short-name }“ tyrimus
 addon-recommendations =
     .label = Leisti „{ -brand-short-name }“ siūlyti suasmenintas priedų rekomendacijas
+addon-recommendations-link = Sužinoti daugiau
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Duomenų siuntimas šiai darinio sąrankai yra išjungtas

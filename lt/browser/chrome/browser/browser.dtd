@@ -21,8 +21,6 @@
 <!-- Tab context menu -->
 <!ENTITY  reloadTab.label                    "Atsiųsti kortelės tinklalapį iš naujo">
 <!ENTITY  reloadTab.accesskey                "n">
-<!ENTITY  reloadAllTabs.label                "Įkelti visų kortelių tinklalapius iš naujo">
-<!ENTITY  reloadAllTabs.accesskey            "A">
 <!ENTITY  selectAllTabs.label                "Pasirinkti visas korteles">
 <!ENTITY  selectAllTabs.accesskey            "P">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
@@ -47,9 +45,6 @@ left instead of right. -->
 <!ENTITY  closeOtherTabs.label               "Užverti kitas korteles">
 <!ENTITY  closeOtherTabs.accesskey           "k">
 
-<!ENTITY  closeSelectedTabs.label            "Užverti pasirinktas korteles">
-<!ENTITY  closeSelectedTabs.accesskey        "s">
-
 <!ENTITY  closeTabs.label                    "Užverti korteles">
 <!ENTITY  closeTabs.accesskey                "e">
 <!ENTITY  pinSelectedTabs.label              "Įsegti korteles">
@@ -62,10 +57,6 @@ same accesskey but will never be visible at the same time. -->
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinSelectedTabs.accesskey        "g">
-<!-- Reload Tab and Reload Selected Tabs have the same accesskey
-but will never be visible at the same time. -->
-<!ENTITY  reloadSelectedTabs.label           "Iš naujo įkelti pasirinktas korteles">
-<!ENTITY  reloadSelectedTabs.accesskey       "n">
 <!-- LOCALIZATION NOTE(reloadTab.label, reloadTabs.label): have the same accesskey
 but will never be visible at the same time. -->
 <!ENTITY  reloadTabs.label                   "Įkelti korteles iš naujo">
@@ -90,8 +81,6 @@ same accesskey but will never be visible at the same time. -->
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinTab.accesskey                 "s">
-<!ENTITY  sendTabToDevice.label              "Siųsti kortelę į įrenginį">
-<!ENTITY  sendTabToDevice.accesskey          "r">
 <!ENTITY  sendPageToDevice.label             "Siųsti tinklalapį į įrenginį">
 <!ENTITY  sendPageToDevice.accesskey         "r">
 <!ENTITY  sendLinkToDevice.label             "Siųsti saitą į įrenginį">
@@ -110,8 +99,6 @@ These two items have the same accesskey but will never be visible at the same ti
 <!ENTITY  moveToNewWindow.accesskey          "l">
 <!ENTITY  reopenInContainer.label            "Atverti iš naujo sudėtiniame rodinyje">
 <!ENTITY  reopenInContainer.accesskey        "e">
-<!ENTITY  bookmarkAllTabs.label              "Visas korteles įtraukti į adresyną…">
-<!ENTITY  bookmarkAllTabs.accesskey          "v">
 <!ENTITY  bookmarkTab.label                  "Įrašyti kortelę į adresyną">
 <!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
@@ -153,11 +140,6 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.label "Adresyno juosta">
 <!ENTITY personalbarCmd.accesskey "A">
 <!ENTITY bookmarksToolbarItem.label "Adresyno juostos elementai">
-
-<!ENTITY toolbarContextMenu.reloadAllTabs.label "Iš naujo įkelti visas korteles">
-<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "v">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Visas korteles įtraukti į adresyną…">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "k">
 
 <!ENTITY toolbarContextMenu.reloadSelectedTab.label "Įkelti pasirinktą kortelę iš naujo">
 <!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
@@ -263,9 +245,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "Įrašyti į adresyną">
 <!ENTITY editThisBookmarkCmd.label "Taisyti adresyno įrašą">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-
-<!ENTITY subscribeToPageMenupopup.label "Prenumeruoti šio tinklalapio naujienas">
-<!ENTITY subscribeToPageMenuitem.label "Prenumeruoti šio tinklalapio naujienas…">
 
 <!ENTITY addCurPagesCmd.label "Visas korteles įtraukti į adresyną…">
 <!ENTITY showAllBookmarks2.label "Rodyti visą adresyną">
@@ -382,10 +361,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY webDeveloperMenu.label       "Saityno kūrėjams">
 <!ENTITY webDeveloperMenu.accesskey   "k">
-
-<!ENTITY devtoolsRecordExecution.label "Įrašinėti vykdymą">
-<!ENTITY devtoolsSaveRecording.label "Išsaugoti įrašą">
-<!ENTITY devtoolsReplayExecution.label "Pakartoti vykdymą">
 
 <!ENTITY inspectContextMenu.label     "Tirti elementą">
 <!ENTITY inspectContextMenu.accesskey "T">
@@ -516,7 +491,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "a">
 <!ENTITY customizeMenu.manageExtension.label "Tvarkyti priedą">
 <!ENTITY customizeMenu.manageExtension.accesskey "p">
-
 <!ENTITY customizeMenu.removeExtension.label "Pašalinti priedą">
 <!ENTITY customizeMenu.removeExtension.accesskey "l">
 
@@ -1021,12 +995,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackingProtection2.label "Visi aptikti stebėjimo elementai">
 
 <!ENTITY contentBlocking.trackingProtection3.label "Stebėjimo elementai">
-<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.allowed.label):
-     This label signals that this type of content blocking is turned
-     OFF and is not blocking tracker content, so this is not
-     a positive thing. It forms the end of the (imaginary) sentence
-     "Trackers [are] Allowed"-->
-<!ENTITY contentBlocking.trackingProtection.allowed.label "Leisti">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking tracker content, so this is
@@ -1068,6 +1036,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.trackersView.label "Stebėjimo elementai">
 <!ENTITY contentBlocking.trackersView.strictInfo.label "Norėdami blokuoti visus stebėjimo elementus, pasirinkite „griežtą“ turinio blokavimą.">
+
+<!ENTITY contentBlocking.cookies.label "Slapukai">
+<!ENTITY contentBlocking.cookiesView.label "Slapukai ir svetainių duomenys">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Pranešti apie problemą">
 <!ENTITY contentBlocking.breakageReportView.label "Pranešti apie problemas">
@@ -1202,11 +1173,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "Tinklalapio veiksmai">
 <!ENTITY pageAction.addToUrlbar.label "Pridėti į adreso lauką">
 <!ENTITY pageAction.removeFromUrlbar.label "Pašalinti iš adreso lauko">
-<!ENTITY pageAction.allowInUrlbar.label "Rodyti adreso juostoje">
-<!ENTITY pageAction.disallowInUrlbar.label "Nerodyti adreso juostoje">
 <!ENTITY pageAction.manageExtension.label "Tvarkyti priedą…">
-
-<!ENTITY pageAction.sendTabToDevice.label "Siųsti kortelę į įrenginį">
 
 <!ENTITY sendToDevice.syncNotReady.label "Sinchronizuojami įrenginiai…">
 
