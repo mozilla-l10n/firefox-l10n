@@ -538,7 +538,6 @@ privacy-header = Privacidad del navegador
 
 ## Privacy Section - Forms
 
-forms-header = Formularios y contraseñas
 logins-header = Usuarios y contraseñas
 forms-ask-to-save-logins =
     .label = Preguntar para guardar contraseñas e inicios de sesión de sitios web
@@ -648,6 +647,9 @@ sitedata-cookies-exceptions =
 # in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
 # Cookies and Site Data section.
 sitedata-warning-your-settings-prevent-changes = Su configuración del bloqueo de contenido está impidiendo el cambio de los ajustes de cookies y datos del sitio.
+sitedata-cookies-permissions =
+    .label = Administrar permisos...
+    .accesskey = p
 
 ## Privacy Section - Address Bar
 
@@ -668,6 +670,7 @@ addressbar-suggestions-settings = Cambiar preferencias de sugerencias de buscado
 
 content-blocking-header = Bloqueo de contenido
 content-blocking-desc = Bloquee el contenido de terceros, como anuncios o código, que puede ralentizar la navegación y realizar un seguimiento de los sitios que visita. Personalice su configuración para obtener el mejor equilibrio entre protección y rendimiento.
+content-blocking-description = Bloquee el contenido de terceros que le rastrea en la web. Controle cuánto de su actividad en línea se almacena y comparte entre sitios web.
 content-blocking-learn-more = Saber más
 content-blocking-restore-defaults =
     .label = Restaurar ajustes predeterminados
@@ -688,13 +691,6 @@ content-blocking-fastblock-slow-loading-trackers-label =
     .label = Rastreadores de carga lenta
     .accesskey = S
 content-blocking-fastblock-new-description = Bloquear solo los rastreadores que impiden cargar rápidamente las páginas.
-content-blocking-custom-desc = Elija qué va a bloquear
-content-blocking-private-trackers = Rastreadores conocidos solo en ventanas privadas
-content-blocking-third-party-cookies = Cookies de rastreo de terceros
-content-blocking-all-windows-trackers = Rastreadores conocidos en todas las ventanas
-content-blocking-all-third-party-cookies = Todas las cookies de terceros
-content-blocking-warning-title = ¡Atención!
-content-blocking-learn-how = Saber cómo
 content-blocking-tracking-protection-trackers-label =
     .label = Rastreadores
     .accesskey = T
@@ -708,6 +704,27 @@ content-blocking-tracking-protection-option-always =
 content-blocking-tracking-protection-option-private =
     .label = Solo en ventanas privadas
     .accesskey = p
+# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+content-blocking-setting-standard =
+    .label = Estándar
+    .accesskey = d
+content-blocking-setting-strict =
+    .label = Estricto
+    .accesskey = r
+content-blocking-setting-custom =
+    .label = Personalizado
+    .accesskey = C
+content-blocking-standard-desc = Balanceado para protección y rendimiento. Permite algunos rastreadores para que los sitios funcionen adecuadamente.
+content-blocking-strict-desc = Bloquea todos los rastreadores que { -brand-short-name } detecte. Puede causar errores en algunos sitios web.
+content-blocking-custom-desc = Elija qué va a bloquear
+content-blocking-private-trackers = Rastreadores conocidos solo en ventanas privadas
+content-blocking-third-party-cookies = Cookies de rastreo de terceros
+content-blocking-all-windows-trackers = Rastreadores conocidos en todas las ventanas
+content-blocking-all-third-party-cookies = Todas las cookies de terceros
+content-blocking-warning-title = ¡Atención!
+content-blocking-warning-desc = Bloquear cookies y rastreadores puede hacer que algunos sitios fallen. Es fácil desactivar el bloqueo para los sitios en los que confías.
+content-blocking-learn-how = Saber cómo
 content-blocking-tracking-protection-change-block-list = Cambiar la lista de bloqueo
 content-blocking-third-party-cookies-label =
     .label = Cookies de terceros
@@ -754,6 +771,9 @@ tracking-exceptions =
 tracking-change-block-list =
     .label = Cambiar lista de bloqueo…
     .accesskey = l
+tracking-manage-exceptions =
+    .label = Administrar excepciones...
+    .accesskey = x
 
 ## Privacy Section - Permissions
 
