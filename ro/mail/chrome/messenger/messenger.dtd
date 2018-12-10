@@ -583,7 +583,7 @@
 <!ENTITY newMsgButton.tooltip "Creează un mesaj nou">
 <!ENTITY replyButton.tooltip "Răspunde la acest mesaj">
 <!ENTITY replyAllButton.tooltip "Răspunde expeditorului și tuturor destinatarilor">
-<!ENTITY replyListButton.tooltip "Răspunde listei de discuții">
+<!ENTITY replyListButton.tooltip "Răspunde listei de adrese">
 <!ENTITY forwardButton.tooltip "Redirecționează mesajul selectat">
 <!ENTITY forwardAsInline.tooltip "Redirecționează mesajul selectat ca text integrat">
 <!ENTITY forwardAsAttachment.tooltip "Redirecționează mesajul selectat ca atașament">

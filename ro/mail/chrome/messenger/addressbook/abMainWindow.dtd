@@ -14,7 +14,7 @@
 <!ENTITY newContact.label                               "Contact în agendă…">
 <!ENTITY newContact.accesskey                           "C">
 <!ENTITY newContact.key                                 "N">
-<!ENTITY newListCmd.label                               "O listă nouă de expediție…">
+<!ENTITY newListCmd.label                               "Listă de adrese…">
 <!ENTITY newListCmd.accesskey                           "l">
 <!ENTITY newAddressBookCmd.label                        "O nouă listă de contacte…">
 <!ENTITY newAddressBookCmd.accesskey                    "c">
@@ -152,7 +152,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY abPropertiesContext.accesskey                  "i">
 <!ENTITY editContactContext.label                       "Editează contactul">
 <!ENTITY editContactContext.accesskey                   "E">
-<!ENTITY editMailingListContext.label                   "Editare listă">
+<!ENTITY editMailingListContext.label                   "Editează lista">
 <!ENTITY editMailingListContext.accesskey               "E">
 <!ENTITY newmsgButton.label                             "Scrie mesaj">
 <!ENTITY newmsgButton.accesskey                         "m">

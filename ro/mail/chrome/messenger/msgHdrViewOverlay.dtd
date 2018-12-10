@@ -32,7 +32,7 @@
 <!ENTITY hdrReplyAllButton1.label "Răspunde tuturor">
 <!ENTITY hdrReplyAllButton1.tooltip "Răspunde expeditorului și tuturor destinatarilor">
 <!ENTITY hdrReplyListButton1.label "Răspunde listei">
-<!ENTITY hdrReplyListButton1.tooltip "Răspunde listei de discuții">
+<!ENTITY hdrReplyListButton1.tooltip "Răspunde listei de adrese">
 <!ENTITY hdrFollowupButton1.label "Urmărește">
 <!ENTITY hdrFollowupButton1.tooltip "Postează un răspuns la acest grup de discuții">
 <!ENTITY hdrMenuForwardButton.label "Redirecționează ca">

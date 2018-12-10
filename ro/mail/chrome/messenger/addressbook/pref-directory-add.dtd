@@ -12,7 +12,7 @@
 <!ENTITY findButton.accesskey              "G">
 <!ENTITY directorySecure.label             "Utilizează conexiune securizată (SSL)">
 <!ENTITY directorySecure.accesskey         "U">
-<!ENTITY directoryLogin.label              "DN de legătură: ">
+<!ENTITY directoryLogin.label              "Asociază DN: ">
 <!ENTITY directoryLogin.accesskey          "i">
 <!ENTITY General.tab                       "Generalități">
 <!ENTITY Offline.tab                       "Offline">
