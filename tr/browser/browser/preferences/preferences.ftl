@@ -92,7 +92,7 @@ extension-controlled-web-notifications = Bu ayarı <img data-l10n-name="icon"/> 
 extension-controlled-default-search = <img data-l10n-name="icon"/> { $name } eklentisi varsayılan arama motorunuzu değiştirdi.
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
-extension-controlled-privacy-containers = <img data-l10n-name="icon"/> { $name } eklentisi Kapsayıcı Sekmeler’e ihtiyaç duyuyor.
+extension-controlled-privacy-containers = <img data-l10n-name="icon"/> { $name } eklentisi kapsayıcı sekmelere ihtiyaç duyuyor.
 # This string is shown to notify the user that their tracking protection preferences
 # are being controlled by an extension.
 extension-controlled-websites-tracking-protection-mode = İzlenme korumasını <img data-l10n-name="icon"/> { $name } adlı eklenti kontrol ediyor.
@@ -862,7 +862,7 @@ collection-studies =
     .label = { -brand-short-name }, araştırmalar yükleyip çalıştırabilir
 collection-studies-link = { -brand-short-name } araştırmalarını göster
 addon-recommendations =
-    .label = { -brand-short-name } bana özel eklenti tavsiyelerinde bulunabilsin
+    .label = { -brand-short-name }, bana özel eklenti tavsiyelerinde bulunabilir
 addon-recommendations-link = Daha fazla bilgi al
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
