@@ -141,6 +141,8 @@ set-as-my-default-browser =
 startup-restore-previous-session =
     .label = 이전 세션 복원
     .accesskey = s
+startup-restore-warn-on-quit =
+    .label = 브라우저 종료시 경고
 disable-extension =
     .label = 확장기능 비활성화
 tabs-group-header = 탭
@@ -847,6 +849,9 @@ collection-health-report-link = 더 알아보기
 collection-studies =
     .label = { -brand-short-name }가 연구를 설치하고 실행하도록 허용
 collection-studies-link = { -brand-short-name } 연구 보기
+addon-recommendations =
+    .label = { -brand-short-name }가 개인화된 확장 기능 추천을 하도록 허용
+addon-recommendations-link = 자세히 보기
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = 이 빌드 설정에서는 데이타 보고가 비활성화 되어 있음
