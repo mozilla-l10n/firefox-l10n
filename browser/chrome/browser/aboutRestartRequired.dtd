@@ -1,9 +1,0 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this
-   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
-<!ENTITY restartRequired.title "पुनःसुरु आवश्यक">
-
-<!ENTITY restartRequired.header "माफ गर्नुहोस् । हामीले केवल एउटा सानो कुरा गर्नुछ अगाडि बढिरहनको लागि ।">
-
-<!ENTITY restartButton.label "&brandShortName; पुनःसुरु गर्नुहोस्">
