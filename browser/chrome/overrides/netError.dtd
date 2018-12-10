@@ -12,7 +12,6 @@
 <!ENTITY advanced.label "Rozšyrjone">
 <!ENTITY continue2.label "Wěcej…">
 <!ENTITY moreInformation.label "Dalšne informacije">
-
 <!ENTITY viewCertificate.label "Certifikat pokazaś">
 
 <!-- Specific error messages -->
@@ -96,9 +95,6 @@ will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Mějaŕ <span class='hostname'/> jo swójo websedło wopak konfigurěrował. Aby swóje informacije pśeśiwo tomu šćitał, až se kšadnu, njejo &brandShortName; z toś tym websedłom zwězało.">
 <!ENTITY certerror.introPara2 "&brandShortName; jo namakał potencielne wobgrozenje wěstoty a njejo togodla zwězał z <span class='hostname'/>. Jolic se k toś tomu sedłoju woglědujośo, mógli napadowarje wopytaś, daty ako waše gronidło, e-mailowe adrese abo drobnostki kreditowych kórtow kšadnuś.">
-
-<!ENTITY certerror.expiredCert.secondPara "Toś ten problem se nejskerjej zawinujo, dokulaž zeger wašogo licadła wopacny cas wužywa, což &brandShortName; pśi wěstem zwězowanju zajźujo.">
-
 <!ENTITY certerror.sts.introPara "&brandShortName; jo namakał potencielne wěstotne wobgrozenje a jo pśetergnuł zwisk z <span class='hostname'/>, dokulaž se toś to websedło wěsty zwisk pomina.">
 
 <!ENTITY certerror.expiredCert.introPara "&brandShortName; jo namakał problem a jo pśetergnuł zwisk z <span class='hostname'/>. Websedło jo pak wopak skonfigurěrowane abo zeger wašogo licadła jo nastajony na wopacny cas.">
@@ -158,6 +154,9 @@ was trying to connect. -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> wužywa wěstotnu technologiju, kótaraž jo zestarjona a sensibelna za napady. Napadowaŕ by mógał informacije lažko namakaś, kótarež maśo za wěste. Websedłowy administrator musy problem na serwerje rozwězaś, nježli až móžośo se k sedłoju woglědaś.</p><p>Zmólkowy kod: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Zablokěrowany bok">
+
+<!ENTITY certerror.mitm.title "Software &brandShortName; wěste zwězowanje z toś tym sedłom zawoborujo">
+<!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> jo nejskerjej wěste sedło, ale wěsty zwisk njedajo se nawězaś. Toś ten se pśez <span class='mitm-name'/> zawinujo, kótarež jo pak software na wašom licadle pak waša seś.">
 
 <!ENTITY clockSkewError.title "Zeger wašogo licadła wopak źo">
 <!ENTITY clockSkewError.longDesc "Wašo licadło měni, až cas jo <span id='wrongSystemTime_systemDate1'/>, což wěstemu zwězowanjeju &brandShortName; zajźujo. Aby se k <span class='hostname'></span> woglědał, aktualizěrujśo zeger swójogo licadła w systemowych nastajenjach na aktualny datum, aktualny cas a aktualnu casowu conu a aktualizěrujśo pótom <span class='hostname'></span>.">
