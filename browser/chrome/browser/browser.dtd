@@ -1037,6 +1037,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackersView.label "추적기">
 <!ENTITY contentBlocking.trackersView.strictInfo.label "모든 추적기를 차단하려면 콘텐츠 차단을 “엄격함”으로 설정하세요.">
 
+<!ENTITY contentBlocking.cookies.label "쿠키">
+<!ENTITY contentBlocking.cookiesView.label "쿠키와 사이트 데이타">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "오류 보고">
 <!ENTITY contentBlocking.breakageReportView.label "문제 보고">
