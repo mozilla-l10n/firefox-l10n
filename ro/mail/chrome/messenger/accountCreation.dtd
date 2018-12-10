@@ -20,7 +20,7 @@
 <!ENTITY rememberPassword.accesskey      "M">
 
 <!ENTITY imapLong.label                  "IMAP (dosare la distanță)">
-<!ENTITY pop3Long.label                  "POP3 (păstrați mesajele pe calculator)">
+<!ENTITY pop3Long.label                  "POP3 (păstrează mesajele pe calculator)">
 
 <!ENTITY incoming.label                  "Primire:">
 <!ENTITY outgoing.label                  "Trimitere:">
@@ -60,8 +60,8 @@
 
 
 <!ENTITY warning.label                   "Avertisment!">
-<!ENTITY incomingSettings.label          "Setări pentru primire:">
-<!ENTITY outgoingSettings.label          "Setări pentru trimitere:">
+<!ENTITY incomingSettings.label          "Setări de primire:">
+<!ENTITY outgoingSettings.label          "Setări de trimitere:">
 <!ENTITY technicaldetails.label          "Detalii tehnice">
 <!-- LOCALIZATION NOTE (confirmWarning.label): If there is a security
      warning on the outgoing server, then the user will need to check a
