@@ -21,6 +21,7 @@ profiles-rootdir = Rótarmappa
 # In case localDir and rootDir are equal, localDir is not shown.
 profiles-localdir = Staðbundin mappa
 profiles-current-profile = Þessi notandi er þegar í notkun og er ekki hægt að eyða.
+profiles-in-use-profile = Aðgangur þessa notanda er enn í notkun í öðru forriti og ekki hægt að fjarlægja hann.
 profiles-rename = Endurnefna
 profiles-remove = Fjarlægja
 profiles-set-as-default = Setja sem sjálfgefin notanda
