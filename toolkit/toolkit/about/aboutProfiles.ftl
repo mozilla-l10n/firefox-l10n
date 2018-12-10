@@ -46,6 +46,7 @@ profiles-delete-profile-confirm =
 profiles-delete-files = Eyða skrám
 profiles-dont-delete-files = Ekki eyða skrám
 profiles-delete-profile-failed-title = Villa
+profiles-delete-profile-failed-message = Villa hefur komið upp við að fjarlægja aðgang notanda.
 profiles-opendir =
     { PLATFORM() ->
         [macos] Sýna í Finder
