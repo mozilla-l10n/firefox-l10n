@@ -35,7 +35,7 @@
 <!ENTITY community.middle2          ", o ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "comunitate globală">
-<!ENTITY community.end3             " care lucrează împreună pentru a păstra webul deschis, public și accesibil tuturor.">
+<!ENTITY community.end3             " care lucrează pentru a păstra webul deschis, public și accesibil tuturor.">
 
 <!ENTITY helpus.start               "Vrei să ajuți? ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to the thunderbird donation page -->

@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY directoryName.label               "Nume: ">
+<!ENTITY directoryName.label               "Denumire: ">
 <!ENTITY directoryName.accesskey           "N">
-<!ENTITY directoryHostname.label           "Nume gazdă: ">
+<!ENTITY directoryHostname.label           "Denumire gazdă: ">
 <!ENTITY directoryHostname.accesskey       "o">
 <!ENTITY directoryBaseDN.label             "DN bază: ">
 <!ENTITY directoryBaseDN.accesskey         "b">
@@ -12,28 +12,28 @@
 <!ENTITY findButton.accesskey              "G">
 <!ENTITY directorySecure.label             "Utilizează conexiune securizată (SSL)">
 <!ENTITY directorySecure.accesskey         "U">
-<!ENTITY directoryLogin.label              "Bind DN: ">
+<!ENTITY directoryLogin.label              "DN de legătură: ">
 <!ENTITY directoryLogin.accesskey          "i">
 <!ENTITY General.tab                       "Generalități">
 <!ENTITY Offline.tab                       "Offline">
 <!ENTITY Advanced.tab                      "Avansat">
 <!ENTITY portNumber.label                  "Număr port: ">
 <!ENTITY portNumber.accesskey              "p">
-<!ENTITY searchFilter.label                "Filtru căutare: ">
+<!ENTITY searchFilter.label                "Filtru de căutare: ">
 <!ENTITY searchFilter.accesskey            "F">
-<!ENTITY scope.label                       "Interval: ">
+<!ENTITY scope.label                       "Domeniu: ">
 <!ENTITY scope.accesskey                   "I">
 <!ENTITY scopeOneLevel.label               "Un nivel">
 <!ENTITY scopeOneLevel.accesskey           "n">
 <!ENTITY scopeSubtree.label                "Sub-arbore">
 <!ENTITY scopeSubtree.accesskey            "S">
-<!ENTITY return.label                      "Nu întoarce mai mult de">
+<!ENTITY return.label                      "Nu da mai mult de">
 <!ENTITY return.accesskey                  "r">
-<!ENTITY results.label                     "Rezultate">
-<!ENTITY offlineText.label                 "Poți descărca o copie locală a acestui director pentru a-l avea la îndemână când lucrezi offline.">
+<!ENTITY results.label                     "rezultate">
+<!ENTITY offlineText.label                 "Poți descărca o copie locală a acestui director pentru disponibilitate când lucrezi offline.">
 <!ENTITY saslMechanism.label               "Metodă de autentificare: ">
 <!ENTITY saslMechanism.accesskey           "M">
-<!ENTITY saslOff.label                     "Simplu">
+<!ENTITY saslOff.label                     "Simplă">
 <!ENTITY saslOff.accesskey                 "l">
 <!ENTITY saslGSSAPI.label                  "Kerberos (GSSAPI)">
 <!ENTITY saslGSSAPI.accesskey              "K">
