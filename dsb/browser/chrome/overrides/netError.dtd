@@ -157,6 +157,10 @@ was trying to connect. -->
 
 <!ENTITY certerror.mitm.title "Software &brandShortName; wěste zwězowanje z toś tym sedłom zawoborujo">
 <!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> jo nejskerjej wěste sedło, ale wěsty zwisk njedajo se nawězaś. Toś ten se pśez <span class='mitm-name'/> zawinujo, kótarež jo pak software na wašom licadle pak waša seś.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "Jolic waša antiwirusowa software funkciju ma, kótaraž skoděrowane zwiski (cesto “webskannowanje” abo “https-skannowanje” pomjenjone), móžośo toś tu funkciju znjemóžniś. Jolic to njefunkcioněrujo, móžośo antiwirusowu software wótwónoźeś a znowego instalěrowaś.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "Jolic sćo we firmowej seśi, móžośo se ze swójim IT-wótźělenim do zwiska stajiś.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "Jolic se z <span class='mitm-name'/> njewuznawaśo, mógło to nadpad a wy njedejał z tym sedłom zwězaś.">
+<!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "Jolic se z <span class='mitm-name'/> njewuznawaśo, mógło to nadpad, a njedajo nic, což móžośo, aby pśistup k sydłoju měł.">
 
 <!ENTITY clockSkewError.title "Zeger wašogo licadła wopak źo">
 <!ENTITY clockSkewError.longDesc "Wašo licadło měni, až cas jo <span id='wrongSystemTime_systemDate1'/>, což wěstemu zwězowanjeju &brandShortName; zajźujo. Aby se k <span class='hostname'></span> woglědał, aktualizěrujśo zeger swójogo licadła w systemowych nastajenjach na aktualny datum, aktualny cas a aktualnu casowu conu a aktualizěrujśo pótom <span class='hostname'></span>.">
