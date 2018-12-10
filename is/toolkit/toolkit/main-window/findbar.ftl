@@ -15,6 +15,14 @@ findbar-highlight-all =
     .label = Lita allt
     .accesskey = L
     .tooltiptext = Lita öll tilvik orðsins
+findbar-highlight-all2 =
+    .label = Litla allt
+    .accesskey =
+        { PLATFORM() ->
+            [macos] l
+           *[other] a
+        }
+    .tooltiptext = Lita öll tilvik orðsins
 findbar-case-sensitive =
     .label = Stafrétt
     .accesskey = S

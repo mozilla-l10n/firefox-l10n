@@ -2,9 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-languages-window =
-    .title = Tungumál
-    .style = width: 30em
+webpage-languages-window =
+    .title = Tungumálastillingar vefsíðu
+    .style = width: 40em
 languages-close-key =
     .key = w
 languages-description = Vefsíður eru oft í boði á mörgum tungumálum. Veldu forgangsröð þeirra tungumála sem vefsíður eiga að birtast á
@@ -36,3 +36,20 @@ languages-customize-add =
 #   $code (String) - Locale code of the locale (for example: "is", "es-CL")
 languages-code-format =
     .label = { $locale }  [{ $code }]
+languages-active-code-format =
+    .value = { languages-code-format.label }
+browser-languages-window =
+    .title = Stillingar { -brand-short-name }
+    .style = width: 40em
+browser-languages-description = { -brand-short-name } sýnir fyrsta tungumálið sem þitt sjálfgefna val og sýnir önnur tungumál ef nauðsynlegt er í þeirri röð sem þau birtast.
+browser-languages-search = Leita að fleiri tungumálum...
+browser-languages-searching =
+    .label = Leitar að tungumálum...
+browser-languages-downloading =
+    .label = Halar niður...
+browser-languages-select-language =
+    .label = Velja tungumál til að bæta við...
+    .placeholder = Velja tungumál til að bæta við...
+browser-languages-installed-label = Uppsett tungumál
+browser-languages-available-label = Tungumál í boði
+browser-languages-error = { -brand-short-name } getur ekki keyrt uppfærslu á þínu tungumáli þessa stundina. Athugið nettengingu eða reynið aftur.
