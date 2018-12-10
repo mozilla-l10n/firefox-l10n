@@ -12,7 +12,6 @@
 <!ENTITY advanced.label "Gelişmiş">
 <!ENTITY continue2.label "Daha fazla…">
 <!ENTITY moreInformation.label "Daha fazla bilgi">
-
 <!ENTITY viewCertificate.label "Sertifikayı göster">
 
 <!-- Specific error messages -->
@@ -115,9 +114,6 @@ will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "<span class='hostname'/> web sitesinin sahibi siteyi hatalı yapılandırmış.  Bilgilerinizin çalınmasını önlemek için &brandShortName; bu web sitesine bağlanmadı.">
 <!ENTITY certerror.introPara2 "&brandShortName; olası bir güvenlik tehdidiyle karşılaştığı için <span class='hostname'/> adresine girmedi. Bu siteyi ziyaret ederseniz saldırganlar parola, e-posta ve kredi kartı gibi bilgilerinizi çalmaya çalışabilir.">
-
-<!ENTITY certerror.expiredCert.secondPara "Bu sorun büyük olasılıkla bilgisayarınızın saatinin yanlış ayarlanmasından kaynaklanır. Saat veya tarih yanlışsa &brandShortName; güvenli bağlantı kuramayabilir.">
-
 <!ENTITY certerror.sts.introPara "&brandShortName; olası bir güvenlik tehdidi algıladı ve <span class='hostname'/> sitesi güvenli bir bağlantı gerektirdiği için bu siteye bağlanmadı.">
 
 <!ENTITY certerror.expiredCert.introPara "&brandShortName; olası bir güvenlik tehdidi algıladı ve <span class='hostname'/> sitesine bağlanmadı. Site yanlış yapılandırılmış veya bilgisayarınızın saati yanlış ayarlanmış olabilir.">
@@ -185,6 +181,11 @@ was trying to connect. -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> eskimiş ve saldırılara açık bir güvenlik teknolojisi kullanıyor. Saldırganlar, güvende olduğunu sandığınız bilgilerinizi kolayca ele geçirebilirler. Bu siteye girebilmeniz için önce site yöneticisinin sunucuyu düzeltmesi gerekir.</p><p>Hata kodu: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Engellenmiş sayfa">
+
+<!ENTITY certerror.mitm.title "&brandShortName; başka bir yazılım nedeniyle bu siteye güvenli bağlantı kuramıyor">
+<!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> büyük olasılıkla güvenilir bir site olmasına rağmen güvenli bir bağlantı kurulamadı. Bu sorun, bilgisayarınızda veya ağınızda bulunan <span class='mitm-name'/> adlı yazılımdan kaynaklanmaktadır.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "Antivirüs yazılımınızda şifrelenmiş bağlantıları tarayan bir özellik (Genellikle “web tarama” veya “https tarama” denir.) varsa o özelliği kapatabilirsiniz. Bu işe yaramazsa antivirüs yazılımınızı kaldırıp yeniden yüklemeyi deneyebilirsiniz.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "Kurumsal bir ağda bulunuyorsanız teknik departmanınıza başvurabilirsiniz.">
 
 <!ENTITY clockSkewError.title "Bilgisayarınızın saati yanlış">
 <!ENTITY clockSkewError.longDesc "Bilgisayarınız saatin <span id='wrongSystemTime_systemDate1'/> olduğunu sanıyor, bu yüzden de &brandShortName; güvenli bağlantı kuramıyor. <span class='hostname'></span> adresini ziyaret etmek için sistem ayarlarınıza girerek bilgisayarınızın tarihini, saatini ve saat dilimini güncelleyin. Ardından <span class='hostname'></span> sayfasını tazeleyin.">
