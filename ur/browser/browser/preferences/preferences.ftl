@@ -449,7 +449,6 @@ privacy-header = براؤزر رازداری
 
 ## Privacy Section - Forms
 
-forms-header = فارم اور پاس ورڈ
 logins-header = لاگ ان & پاس ورڈ
 forms-exceptions =
     .label = استثنیات…
@@ -589,6 +588,13 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = مخصوص
     .accesskey = C
+content-blocking-learn-how = جانیں کہ کس طرح
+content-blocking-trackers-label =
+    .label = ٹریکرس
+    .accesskey = T
+content-blocking-tracking-protection-option-all-windows =
+    .label = تمام ونڈو میں
+    .accesskey = A
 content-blocking-third-party-cookies-label =
     .label = تیسری تنظیم کے کوکیز
     .accesskey = C
@@ -604,6 +610,9 @@ content-blocking-reject-trackers-block-trackers-option =
 content-blocking-reject-trackers-all-third-parties-option =
     .label = سارے تیسری تنظیم کے کوکیز(ویب سائٹس توڑنے کا سبب بن سکتا ہے)
     .accesskey = A
+content-blocking-cookies-label =
+    .label = کوکیز
+    .accesskey = C
 
 ## Privacy Section - Tracking
 
