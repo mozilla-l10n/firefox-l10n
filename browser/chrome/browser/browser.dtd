@@ -1035,7 +1035,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.manageSettings.accesskey "K">
 
 <!ENTITY contentBlocking.trackersView.label "Pelacak">
-<!ENTITY contentBlocking.trackersView.strictInfo.label "Untuk memblokir semua pelacak, atur pemblokiran konten menjadi “Ketat”.">
+<!ENTITY contentBlocking.trackersView.strictInfo.label 'Untuk memblokir semua pelacak, setel pemblokiran konten ke "Ketat".'>
 
 <!ENTITY contentBlocking.cookies.label "Kuki">
 <!ENTITY contentBlocking.cookiesView.label "Kuki dan Data Situs">
