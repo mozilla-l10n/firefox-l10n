@@ -31,5 +31,11 @@ onboarding-fxa-text = { -fxaccount-brand-name }에 가입해 { -brand-short-name
 
 ## Message strings belonging to the Return to AMO flow
 
+return-to-amo-sub-header = 좋습니다. { -brand-short-name }를 설치 했네요.
+# <icon></icon> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-header = 이제 <icon></icon><b>{ $addon-name } 부가기능</b>을 설치하겠습니다.
 return-to-amo-extension-button = 확장 기능 추가
 return-to-amo-get-started-button = { -brand-short-name } 시작하기
