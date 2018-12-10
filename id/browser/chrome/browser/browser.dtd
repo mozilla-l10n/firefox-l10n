@@ -285,7 +285,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Peramban dalam kendali jarak jauh">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Panel Autentikasi Web Terbuka">
 
-<!ENTITY urlbar.storageAccessAnchor.tooltip               "Panel perizinan aktivitas penjelajahan terbuka">
+<!ENTITY urlbar.storageAccessAnchor.tooltip               "Buka panel perizinan aktivitas penjelajahan">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Mengelola berbagi kamera dan atau mikrofon Anda dengan situs ini">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Mengelola berbagi mikrofon Anda dengan situs ini">
@@ -1035,7 +1035,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.manageSettings.accesskey "K">
 
 <!ENTITY contentBlocking.trackersView.label "Pelacak">
-<!ENTITY contentBlocking.trackersView.strictInfo.label 'Untuk memblokir semua pelacak, setel pemblokiran konten ke "Ketat".'>
+<!ENTITY contentBlocking.trackersView.strictInfo.label "Untuk memblokir semua pelacak, setel pemblokiran konten ke “Ketat”.">
 
 <!ENTITY contentBlocking.cookies.label "Kuki">
 <!ENTITY contentBlocking.cookiesView.label "Kuki dan Data Situs">
