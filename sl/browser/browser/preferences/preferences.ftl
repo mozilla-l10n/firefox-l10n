@@ -861,22 +861,24 @@ collection-header = Zbiranje in uporaba podatkov { -brand-short-name }a
 collection-description = Trudimo se, da vam ponudimo izbiro in da zbiramo samo tisto, kar potrebujemo za razvoj in izboljšave { -brand-short-name }a za vse uporabnike. Pred sprejemanjem osebnih podatkov vas vedno vprašamo za dovoljenje.
 collection-privacy-notice = Obvestilo o zasebnosti
 collection-health-report =
-    .label = Dovoli { -brand-short-name }u pošiljanje tehničnih podatkov in podatkov o uporabi organizaciji { -vendor-short-name }
+    .label = { -brand-short-name }u dovoli pošiljanje tehničnih podatkov in podatkov o uporabi organizaciji { -vendor-short-name }
     .accesskey = h
 collection-health-report-link = Več o tem
 collection-studies =
     .label = { -brand-short-name }u dovoli nameščanje in izvajanje raziskav
 collection-studies-link = Prikaži raziskave { -brand-short-name }a
+addon-recommendations =
+    .label = { -brand-short-name }u dovoli prilagojena priporočila o razširitvah
 addon-recommendations-link = Več o tem
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Pošiljanje podatkov je onemogočeno za to nastavitev graditve
 collection-browser-errors =
-    .label = Dovoli { -brand-short-name }u pošiljanje poročil o napakah brskalnika (vključno s sporočili o napakah) organizaciji { -vendor-short-name }
+    .label = { -brand-short-name }u dovoli pošiljanje poročil o napakah brskalnika (vključno s sporočili o napakah) organizaciji { -vendor-short-name }
     .accesskey = b
 collection-browser-errors-link = Več o tem
 collection-backlogged-crash-reports =
-    .label = Dovoli { -brand-short-name }u, da v vašem imenu pošilja poročila o sesutju iz zaloge
+    .label = { -brand-short-name }u dovoli, da v vašem imenu pošilja poročila o sesutju iz zaloge
     .accesskey = z
 collection-backlogged-crash-reports-link = Več o tem
 
