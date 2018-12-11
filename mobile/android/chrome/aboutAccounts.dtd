@@ -4,7 +4,7 @@
 
 <!ENTITY aboutAccounts.connected.title "Contas Firefox">
 <!ENTITY aboutAccounts.connected.description "Está conectado como">
-<!ENTITY aboutAccounts.syncPreferences.label "Prema aquí para comprobar a configuración de Sync">
+<!ENTITY aboutAccounts.syncPreferences.label "Prema aquí para comprobar os axustes de Sync">
 
 <!ENTITY aboutAccounts.noConnection.title "Sen conexión á Internet">
 <!ENTITY aboutAccounts.retry.label "Tentar de novo">

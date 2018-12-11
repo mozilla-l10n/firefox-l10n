@@ -13,7 +13,9 @@
      term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "Non está en modo de navegación privada">
 
-<!ENTITY privatebrowsingpage.description.private4 "&brandShortName; evitará que sexa seguido e non lembrará ningún historial, pero os ficheiros descargados e os novos marcadores si que se gardarán no seu dispositivo.">
+<!ENTITY privatebrowsingpage.description.trackingProtection "&brandShortName; bloquea partes das páxinas que poden seguir a súa actividade de navegación.">
+<!ENTITY privatebrowsingpage.description.privateDetails "Non lembrará nada do historial, pero si que se gardarán no seu dispositivo os novos marcadores e os ficheiros descargados.">
+
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
