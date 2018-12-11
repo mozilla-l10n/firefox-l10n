@@ -21,8 +21,6 @@
 <!-- Tab context menu -->
 <!ENTITY  reloadTab.label                    "Obnoviť kartu">
 <!ENTITY  reloadTab.accesskey                "O">
-<!ENTITY  reloadAllTabs.label                "Obnoviť všetky karty">
-<!ENTITY  reloadAllTabs.accesskey            "b">
 <!ENTITY  selectAllTabs.label                "Vybrať všetky karty">
 <!ENTITY  selectAllTabs.accesskey            "v">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
@@ -47,9 +45,6 @@ left instead of right. -->
 <!ENTITY  closeOtherTabs.label               "Zavrieť ostatné karty">
 <!ENTITY  closeOtherTabs.accesskey           "e">
 
-<!ENTITY  closeSelectedTabs.label            "Zavrieť označené karty">
-<!ENTITY  closeSelectedTabs.accesskey        "Z">
-
 <!ENTITY  closeTabs.label                    "Zavrieť karty">
 <!ENTITY  closeTabs.accesskey                "Z">
 <!ENTITY  pinSelectedTabs.label              "Pripnúť karty">
@@ -62,10 +57,6 @@ same accesskey but will never be visible at the same time. -->
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinSelectedTabs.accesskey        "r">
-<!-- Reload Tab and Reload Selected Tabs have the same accesskey
-but will never be visible at the same time. -->
-<!ENTITY  reloadSelectedTabs.label           "Obnoviť vybrané karty">
-<!ENTITY  reloadSelectedTabs.accesskey       "r">
 <!-- LOCALIZATION NOTE(reloadTab.label, reloadTabs.label): have the same accesskey
 but will never be visible at the same time. -->
 <!ENTITY  reloadTabs.label                   "Obnoviť karty">
@@ -90,8 +81,6 @@ same accesskey but will never be visible at the same time. -->
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinTab.accesskey                 "r">
-<!ENTITY  sendTabToDevice.label              "Odoslať kartu do zariadenia">
-<!ENTITY  sendTabToDevice.accesskey          "a">
 <!ENTITY  sendPageToDevice.label             "Odoslať stránku do zariadenia">
 <!ENTITY  sendPageToDevice.accesskey         "a">
 <!ENTITY  sendLinkToDevice.label             "Odoslať odkaz do zariadenia">
@@ -110,8 +99,6 @@ These two items have the same accesskey but will never be visible at the same ti
 <!ENTITY  moveToNewWindow.accesskey          "k">
 <!ENTITY  reopenInContainer.label            "Otvoriť v kontajneri">
 <!ENTITY  reopenInContainer.accesskey        "e">
-<!ENTITY  bookmarkAllTabs.label              "Pridať všetky karty medzi záložky…">
-<!ENTITY  bookmarkAllTabs.accesskey          "v">
 <!ENTITY  bookmarkTab.label                  "Pridať kartu medzi záložky">
 <!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
@@ -153,11 +140,6 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.label "Panel záložiek">
 <!ENTITY personalbarCmd.accesskey "z">
 <!ENTITY bookmarksToolbarItem.label "Položky panela záložiek">
-
-<!ENTITY toolbarContextMenu.reloadAllTabs.label "Obnoviť všetky karty">
-<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "O">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Pridať všetky karty medzi záložky……">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "d">
 
 <!ENTITY toolbarContextMenu.reloadSelectedTab.label "Obnoviť vybranú kartu">
 <!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
@@ -264,9 +246,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editThisBookmarkCmd.label "Upraviť túto záložku">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
-<!ENTITY subscribeToPageMenupopup.label "Odoberať kanál tejto stránky">
-<!ENTITY subscribeToPageMenuitem.label "Odoberať kanál tejto stránky…">
-
 <!ENTITY addCurPagesCmd.label "Pridať všetky karty medzi záložky…">
 <!ENTITY showAllBookmarks2.label "Zobraziť všetky záložky">
 <!ENTITY recentBookmarks.label "Nedávno pridané medzi záložky">
@@ -305,6 +284,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Uloží údaje do trvalého úložiska">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Prehliadač je ovládaný na diaľku">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Otvorí kartu webovej autentifikácie">
+
+<!ENTITY urlbar.storageAccessAnchor.tooltip               "Otvorí nastavenia prístupu k informáciám o vašom prehliadaní">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Spravovať zdieľanie webkamery a/alebo mikrofónu so stránkou">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Spravovať zdieľanie mikrofónu so stránkou">
@@ -380,10 +361,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY webDeveloperMenu.label       "Webový vývojár">
 <!ENTITY webDeveloperMenu.accesskey   "W">
-
-<!ENTITY devtoolsRecordExecution.label "Zaznamenať vykonanie">
-<!ENTITY devtoolsSaveRecording.label "Uložiť záznam">
-<!ENTITY devtoolsReplayExecution.label "Prehrať záznam">
 
 <!ENTITY inspectContextMenu.label     "Preskúmať prvok">
 <!ENTITY inspectContextMenu.accesskey "m">
@@ -514,7 +491,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "A">
 <!ENTITY customizeMenu.manageExtension.label "Správa rozšírenia">
 <!ENTITY customizeMenu.manageExtension.accesskey "S">
-
 <!ENTITY customizeMenu.removeExtension.label "Odstrániť rozšírenie">
 <!ENTITY customizeMenu.removeExtension.accesskey "r">
 
@@ -1019,12 +995,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackingProtection2.label "Všetky nájdené sledovacie prvky">
 
 <!ENTITY contentBlocking.trackingProtection3.label "Sledovacie prvky">
-<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.allowed.label):
-     This label signals that this type of content blocking is turned
-     OFF and is not blocking tracker content, so this is not
-     a positive thing. It forms the end of the (imaginary) sentence
-     "Trackers [are] Allowed"-->
-<!ENTITY contentBlocking.trackingProtection.allowed.label "Neblokované">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking tracker content, so this is
@@ -1066,6 +1036,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.trackersView.label "Sledovacie prvky">
 <!ENTITY contentBlocking.trackersView.strictInfo.label "Ak chcete blokovať všetky sledovacie prvky, vyberte úroveň „Prísne“.">
+
+<!ENTITY contentBlocking.cookies.label "Cookies">
+<!ENTITY contentBlocking.cookiesView.label "Cookies a údaje stránok">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Nahlásiť problém">
 <!ENTITY contentBlocking.breakageReportView.label "Nahlásiť problémy">
@@ -1200,11 +1173,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "Akcie stránky">
 <!ENTITY pageAction.addToUrlbar.label "Pridať do panela s adresou">
 <!ENTITY pageAction.removeFromUrlbar.label "Odstrániť z panela s adresou">
-<!ENTITY pageAction.allowInUrlbar.label "Zobraziť v paneli s adresou">
-<!ENTITY pageAction.disallowInUrlbar.label "Nezobrazovať v paneli s adresou">
 <!ENTITY pageAction.manageExtension.label "Správa rozšírenia…">
-
-<!ENTITY pageAction.sendTabToDevice.label "Odoslať kartu do zariadenia">
 
 <!ENTITY sendToDevice.syncNotReady.label "Synchronizovanie zariadení…">
 
