@@ -32,3 +32,4 @@ onboarding-fxa-text = Ustvarite { -fxaccount-brand-name } ter sinhronizirajte sv
 ## Message strings belonging to the Return to AMO flow
 
 return-to-amo-extension-button = Dodaj razširitev
+return-to-amo-get-started-button = Začnite s { -brand-short-name }om
