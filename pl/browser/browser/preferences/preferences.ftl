@@ -403,13 +403,12 @@ sync-engine-addons=
   .tooltiptext=Rozszerzenia i motywy w wersji na komputery
   .accesskey=d
 sync-engine-prefs=
-  .label=
-    { PLATFORM() ->
-      [windows] Opcje
-      *[other] Preferencje
-    }
-  .tooltiptext=Zmienione ustawienia ogólne, prywatności i bezpieczeństwa
-  .accesskey=P
+  .label={ PLATFORM() ->
+    [windows] opcje
+    *[other] preferencje
+  }
+  .tooltiptext=Zmienione ustawienia ogólne, uruchamiania, wyszukiwania, prywatności i bezpieczeństwa
+  .accesskey=e
 sync-device-name-header=Nazwa urządzenia
 sync-device-name-change=
   .label=Zmień nazwę urządzenia…
