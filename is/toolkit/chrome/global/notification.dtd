@@ -10,3 +10,5 @@
 
 <!ENTITY defaultButton.label "Í lagi!">
 <!ENTITY defaultButton.accesskey "l">
+
+<!ENTITY moreActionsButton.accessibleLabel "Frekari aðgerðir">

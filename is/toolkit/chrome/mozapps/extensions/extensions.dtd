@@ -3,11 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY addons.windowTitle                   "Viðbótastjóri">
 
-<!ENTITY search.placeholder                   "Leita í öllum viðbótum">
-
-<!ENTITY search.placeholder2                  "Leita á addons.mozilla.org">
+<!ENTITY search.placeholder3                  "Leita á addons.mozilla.org">
 <!ENTITY search.buttonlabel                   "Leita">
-<!-- LOCALIZATION NOTE (search.commandKey):
+<!-- LOCALIZATION NOTE (search.commandkey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
 
@@ -16,17 +14,10 @@
 <!ENTITY listEmpty.availableUpdates.label     "Engar uppfærslur fundust">
 <!ENTITY listEmpty.recentUpdates.label        "Þú hefur ekki uppfært neinar viðbætur nýlega">
 <!ENTITY listEmpty.findUpdates.label          "Athuga með uppfærslur">
-<!ENTITY listEmpty.search.label               "Fann ekki viðbætur sem pössuðu">
 <!ENTITY listEmpty.button.label               "Fræðast meira um viðbætur">
 <!ENTITY installAddonFromFile.label           "Setja inn viðbót frá skrá…">
 <!ENTITY installAddonFromFile.accesskey       "i">
 <!ENTITY toolsMenu.tooltip                    "Verkfæri fyrir allar viðbætur">
-
-<!ENTITY getThemes.description                "Ertu að leita eftir að gera vafrann persónulegri?">
-<!ENTITY getThemes.learnMore                  "Veldu frá þúsundum þema.">
-
-<!ENTITY cmd.back.tooltip                     "Til baka um eina síðu">
-<!ENTITY cmd.forward.tooltip                  "Áfram um eina síðu">
 
 
 <!ENTITY showUnsignedExtensions.button.label  "Ekki tókst að staðfesta sumar viðbætur">
@@ -44,10 +35,13 @@
 <!ENTITY warning.updatesecurity.enable.tooltip     "Virkja öryggisuppfærslur fyrir viðbætur">
 
 <!-- categories / views -->
-<!ENTITY view.search.label                    "Leita">
 <!ENTITY view.discover.label                  "Ná í viðbætur">
 <!ENTITY view.recentUpdates.label             "Nýlegar uppfærslur">
 <!ENTITY view.availableUpdates.label          "Fáanlegar uppfærslur">
+
+<!ENTITY helpButton.label                      "Viðbótastuðningur">
+<!ENTITY preferencesWin.label                  "&brandShortName; Valmynd">
+<!ENTITY preferencesUnix.label                 "&brandShortName; Valkostir">
 
 <!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "Leita að uppfærslum">
@@ -87,9 +81,8 @@
 <!ENTITY cmd.preferencesWin.accesskey         "o">
 <!ENTITY cmd.preferencesUnix.label            "Valkostir">
 <!ENTITY cmd.preferencesUnix.accesskey        "o">
-<!ENTITY cmd.about.label                      "Um">
-<!ENTITY cmd.about.accesskey                  "U">
 
+<!-- addon actions -->
 <!ENTITY cmd.enableAddon.label                "Virkja">
 <!ENTITY cmd.enableAddon.accesskey            "i">
 <!ENTITY cmd.disableAddon.label               "Slökkva">
@@ -98,6 +91,7 @@
 <!ENTITY cmd.enableTheme.accesskey            "þ">
 <!ENTITY cmd.disableTheme.label               "Hætta að nota þema">
 <!ENTITY cmd.disableTheme.accesskey           "þ">
+
 <!ENTITY cmd.askToActivate.label              "Spyrja hvort eigi að virkja">
 <!ENTITY cmd.askToActivate.tooltip            "Spyrja hvort eigi að nota þessa viðbót í hvert skipti">
 <!ENTITY cmd.alwaysActivate.label             "Alltaf virkja">
@@ -107,6 +101,7 @@
 <!ENTITY cmd.stateMenu.tooltip                "Breyta hvenær þessi viðbót keyrir">
 <!ENTITY cmd.installAddon.label               "Setja upp">
 <!ENTITY cmd.installAddon.accesskey           "t">
+
 <!ENTITY cmd.uninstallAddon.label             "Fjarlægja">
 <!ENTITY cmd.uninstallAddon.accesskey         "r">
 <!ENTITY cmd.showPreferencesWin.label         "Valkostir">
@@ -135,7 +130,6 @@
 <!ENTITY detail.lastupdated.label             "Síðast uppfært">
 <!ENTITY detail.creator.label                 "Forritari">
 <!ENTITY detail.homepage.label                "Heimasíða">
-<!ENTITY detail.numberOfDownloads.label       "Niðurhal">
 
 <!ENTITY detail.contributions.description     "Höfundur þessarar viðbótar biður þig um að styðja við áframhaldandi þróun með því að styrkja viðkomandi með smá upphæð.">
 
@@ -166,26 +160,12 @@
 
 <!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "Bið">
+
+<!-- download/install progress -->
 <!ENTITY progress.cancel.tooltip              "Hætta við">
 
-
-<!-- list sorting -->
-<!ENTITY sort.name.label                      "Nafn">
-<!ENTITY sort.name.tooltip                    "Raða eftir heiti">
-<!ENTITY sort.dateUpdated.label               "Síðast uppfært">
-<!ENTITY sort.dateUpdated.tooltip             "Raða eftir uppsetningardagsetningu">
-<!ENTITY sort.relevance.label                 "Passar best við">
-<!ENTITY sort.relevance.tooltip               "Raða eftir mikilvægi">
-<!ENTITY sort.price.label                     "Verð">
-<!ENTITY sort.price.tooltip                   "Raða eftir verði">
-
-<!ENTITY search.filter2.label                 "Leita:">
-<!ENTITY search.filter2.installed.label       "Mínar viðbætur">
-<!ENTITY search.filter2.installed.tooltip     "Sýna uppsettar viðbætur">
-<!ENTITY search.filter2.available.label       "Tiltækar viðbætur">
-<!ENTITY search.filter2.available.tooltip     "Sýna viðbætur sem er hægt að setja inn">
-
 <!ENTITY addon.homepage                       "Heimasíða">
+
 <!ENTITY addon.details.label                  "Meira">
 <!ENTITY addon.details.tooltip                "Sýna meiri upplýsingar um þessa viðbót">
 <!ENTITY addon.unknownDate                    "Óþekkt">
@@ -207,6 +187,7 @@
 <!ENTITY addon.undoRemove.label               "Afturkalla">
 <!ENTITY addon.undoRemove.tooltip             "Halda þessari viðbót uppsettri">
 <!ENTITY addon.restartNow.label               "Endurræsa núna">
+
 <!ENTITY addon.install.label                  "Setja upp">
 <!ENTITY addon.install.tooltip                "Setja inn þessa viðbót">
 <!ENTITY addon.updateNow.label                "Uppfæra nú">
@@ -226,17 +207,6 @@
 <!ENTITY eula.accept                          "Samþykkja og setja inn…">
 
 <!ENTITY settings.path.button.label           "Velja…">
-
-<!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
-     experiments are present on the "Experiments" tab of the add-ons manager.
-     This tab won't be displayed unless an Experiment add-on is installed.
-     Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
-     to cause this tab to appear. -->
-<!ENTITY experiment.info.label "Hvað er þetta? Fjarmæling getur sett inn og keyrt tilraunir öðru hverju.">
-<!ENTITY experiment.info.learnmore "Fræðast meira">
-<!ENTITY experiment.info.learnmore.accesskey "F">
-<!ENTITY experiment.info.changetelemetry "Stillingar fjarmælingar">
-<!ENTITY experiment.info.changetelemetry.accesskey "t">
 
 <!ENTITY setting.learnmore "Fræðast meira…">
 
