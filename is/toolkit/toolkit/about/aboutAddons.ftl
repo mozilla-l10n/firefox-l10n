@@ -4,6 +4,9 @@
 
 addons-window =
     .title = Viðbótastjóri
+search-header =
+    .placeholder = Leita á addons.mozilla.org
+    .searchbuttonlabel = Leita
 search-header-shortcut =
     .key = f
 loading-label =
@@ -21,6 +24,11 @@ list-empty-button =
 install-addon-from-file =
     .label = Setja inn viðbót frá skrá…
     .accesskey = i
+preferences =
+    { PLATFORM() ->
+        [windows] { -brand-short-name } Valmynd
+       *[other] { -brand-short-name } Valkostir
+    }
 tools-menu =
     .tooltiptext = Verkfæri fyrir allar viðbætur
 show-unsigned-extensions-button =
