@@ -24,9 +24,9 @@ findbar-highlight-all2 =
         }
     .tooltiptext = Evidențiază toate aparițiile textului
 findbar-case-sensitive =
-    .label = Distingerea scrierii cu litere mari și mici
+    .label = Corelează literele mari și mici
     .accesskey = c
-    .tooltiptext = Căutare cu respectarea scrierii cu majuscule și minuscule
+    .tooltiptext = Căutare cu respectarea scrierii cu litere mari și mici
 findbar-entire-word =
     .label = Cuvinte întregi
     .accesskey = W
