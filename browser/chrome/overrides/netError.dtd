@@ -210,6 +210,8 @@ certificado.">
 <!ENTITY blockedByPolicy.title "Página bloqueada">
 
 <!ENTITY certerror.mitm.title "Software está impedindo que o &brandShortName; se conecte com segurança com este site">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "Se seu programa antivírus tem um recurso que varre conexões criptografadas (normalmente chamado “web scanning” ou “https scanning”), você pode desativar este recurso. Se isso não resolver, pode tentar remover e reinstalar o programa antivírus.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "Se você está em uma rede corporativa, pode entrar em contato com o departamento de informática.">
 
 <!ENTITY clockSkewError.title "O relógio do seu computador está errado">
 <!ENTITY clockSkewError.longDesc "A hora exibida pelo seu computador é <span id='wrongSystemTime_systemDate1'/>, o que impede que o &brandShortName; se conecte de maneira segura. Para visitar <span class='hostname'></span>, ajuste o relógio do seu computador nas configurações do sistema para a data, hora e fuso horário atuais, e atualize <span class='hostname'></span>.">
