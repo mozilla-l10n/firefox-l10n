@@ -16,3 +16,4 @@ policy-BlockAboutAddons = Lokaðu aðgangi við viðbótareftirlitið (um: viðb
 policy-BlockAboutConfig = Lokaðu aðgangi að um: config síðu.
 policy-DisableAppUpdate = Koma í veg fyrir að vafrinn uppfærist.
 policy-DisableForgetButton = Hamla aðgang að Gleyma hnappnum.
+policy-DNSOverHTTPS = Stilla DNS yfir HTTPS.
