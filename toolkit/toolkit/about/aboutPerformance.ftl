@@ -23,6 +23,11 @@ preloaded-tab = Forhlaðið: { $title }
 
 type-tab = Flipi
 type-subframe = Undirrammi
+type-tracker = Rekjari
+type-addon = Viðbót
+type-browser = Vafri
+type-worker = Vinnuafl
+type-other = Annað
 
 ## Values for the Energy Impact column
 ##
@@ -30,15 +35,25 @@ type-subframe = Undirrammi
 ##   $value (Number) - Value of the energy impact, eg. 0.25 (low),
 ##                     5.38 (medium), 105.38 (high)
 
+energy-impact-high = Hátt ({ $value })
+energy-impact-medium = Miðlungis ({ $value })
+energy-impact-low = Lágt ({ $value })
 
 ## Values for the Memory column
 ##
 ## Variables:
 ##   $value (Number) - How much memory is used
 
+size-KB = ({ $value }) KB
+size-MB = ({ $value }) MB
+size-GB = ({ $value }) GB
 
 ## Tooltips for the action buttons
 
+close-tab =
+    .title = Loka flipa
+show-addon =
+    .title = Sýna í viðbótastjóra
 # Tooltip when hovering an item of the about:performance table
 # Variables:
 #   $totalDispatches (Number) - how many dispatches occured for this page since it loaded
