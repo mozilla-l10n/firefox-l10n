@@ -9,7 +9,7 @@
 
 <!ENTITY aboutSupport.crashes.title "Hrunskýrslur">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
-This is likely the same like id.heading in crashes.dtd. -->
+This is likely the same like id.heading in aboutcrashes.ftl. -->
 <!ENTITY aboutSupport.crashes.id "Skýrslu auðkenni">
 <!ENTITY aboutSupport.crashes.sendDate "Sent">
 <!ENTITY aboutSupport.crashes.allReports "Allar hrunskýrslur">
@@ -32,15 +32,6 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.featureName "Nafn">
 <!ENTITY aboutSupport.featureVersion "Útgáfa">
 <!ENTITY aboutSupport.featureId "Auðkenni">
-
-<!ENTITY aboutSupport.experimentsTitle "Tilraunakenndir eiginleikar">
-<!ENTITY aboutSupport.experimentName "Nafn">
-<!ENTITY aboutSupport.experimentId "Auðkenni">
-<!ENTITY aboutSupport.experimentDescription "Lýsing">
-<!ENTITY aboutSupport.experimentActive "Virkur">
-<!ENTITY aboutSupport.experimentEndDate "Lokadagsetning">
-<!ENTITY aboutSupport.experimentHomepage "Heimasíða">
-<!ENTITY aboutSupport.experimentBranch "Grein">
 
 <!ENTITY aboutSupport.appBasicsTitle "Grunnupplýsingar forrits">
 <!ENTITY aboutSupport.appBasicsName "Nafn">
@@ -74,6 +65,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Margþráða gluggi">
 
 <!ENTITY aboutSupport.appBasicsProcessCount "Ferlar vefinnihalds">
+
+<!ENTITY aboutSupport.enterprisePolicies "Stefna fyrirtækisins">
 
 <!ENTITY aboutSupport.appBasicsKeyGoogle "Google lykill">
 <!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla Location Service lykill">
