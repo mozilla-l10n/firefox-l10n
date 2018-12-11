@@ -865,7 +865,7 @@ collection-studies =
     .label = Permite ca { -brand-short-name } să instaleze și să realizeze studii
 collection-studies-link = Vezi studiile { -brand-short-name }
 addon-recommendations =
-    .label = Permiți { -brand-short-name } să facă recomandări de extensie personalizate
+    .label = Permite ca { -brand-short-name } să facă recomandări de extensii personalizate
 addon-recommendations-link = Află mai multe
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
