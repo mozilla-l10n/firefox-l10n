@@ -213,6 +213,8 @@ certificado.">
 <!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> é provavelmente um site seguro, mas uma conexão segura não pôde ser estabelecida. Este problema é causado por <span class='mitm-name'/>, que é um programa em seu computador ou em sua rede.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "Se seu programa antivírus tem um recurso que varre conexões criptografadas (normalmente chamado “web scanning” ou “https scanning”), você pode desativar este recurso. Se isso não resolver, pode tentar remover e reinstalar o programa antivírus.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "Se você está em uma rede corporativa, pode entrar em contato com o departamento de informática.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "Se você não está familiarizado com <span class='mitm-name'/>, então isto pode ser um ataque e não seria bom continuar para o site.">
+<!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "Se você não está familiarizado com <span class='mitm-name'/>, então isto pode ser um ataque e não há nada que você possa fazer para acessar o site.">
 
 <!ENTITY clockSkewError.title "O relógio do seu computador está errado">
 <!ENTITY clockSkewError.longDesc "A hora exibida pelo seu computador é <span id='wrongSystemTime_systemDate1'/>, o que impede que o &brandShortName; se conecte de maneira segura. Para visitar <span class='hostname'></span>, ajuste o relógio do seu computador nas configurações do sistema para a data, hora e fuso horário atuais, e atualize <span class='hostname'></span>.">

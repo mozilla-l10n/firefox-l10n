@@ -31,5 +31,11 @@ onboarding-fxa-text = Cadastre-se para uma { -fxaccount-brand-name } e sincroniz
 
 ## Message strings belonging to the Return to AMO flow
 
+return-to-amo-sub-header = Ótimo, agora você tem o { -brand-short-name }
+# <icon></icon> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-header = Agora experimente o <icon></icon><b>{ $addon-name }.</b>
 return-to-amo-extension-button = Adicionar a extensão
 return-to-amo-get-started-button = Primeiros passos com { -brand-short-name }
