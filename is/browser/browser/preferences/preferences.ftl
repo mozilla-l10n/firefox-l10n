@@ -309,9 +309,11 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Leita í texta þegar byrjað er að slá inn orð
     .accesskey = L
+browsing-cfr-recommendations-learn-more = Fræðast meira
 
 ## General Section - Proxy
 
+network-settings-title = Netstillingar
 network-proxy-connection-description = Stilla hvernig { -brand-short-name } tengist við Internetið.
 network-proxy-connection-learn-more = Fræðast meira
 network-proxy-connection-settings =
@@ -507,7 +509,7 @@ privacy-header = Friðhelgi vafra
 
 ## Privacy Section - Forms
 
-forms-header = Form & lykilorð
+logins-header = Innskráning og lykilorð
 forms-exceptions =
     .label = Undanþágur…
     .accesskey = n
@@ -601,6 +603,14 @@ addressbar-suggestions-settings = Breyta stillingum fyrir ábendingar leitarvél
 
 ## Privacy Section - Content Blocking
 
+content-blocking-toggle-label-on = Á
+    .accesskey = Á
+content-blocking-toggle-label-off = Af
+    .accesskey = A
+content-blocking-category-label = Velja hvað skal loka á
+content-blocking-cookies-label =
+    .label = Smákökur
+    .accesskey = S
 
 ## Privacy Section - Tracking
 
@@ -646,6 +656,8 @@ permissions-notification-link = Vita meira
 permissions-notification-pause =
     .label = Stöðva tilkynningar þangað til { -brand-short-name } endurræsir
     .accesskey = n
+autoplay-option-dont =
+    .label = Ekki spila sjálfkrafa
 permissions-block-popups =
     .label = Loka á sprettiglugga
     .accesskey = g
@@ -672,6 +684,7 @@ collection-health-report =
     .label = Leyfa { -brand-short-name } að senda sjálkrafa tæknilegar og notkunar upplýsingar til { -vendor-short-name }
     .accesskey = r
 collection-health-report-link = Fræðast meira
+addon-recommendations-link = Fræðast meira
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Gagna skýrsla er óvirk í þessari útgáfu

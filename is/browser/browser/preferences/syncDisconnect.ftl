@@ -7,6 +7,7 @@ sync-disconnect-dialog =
     .style = width: 36em; min-height: 35em;
 sync-disconnect-heading = Viltu líka fjarlægja vafragögn af þessari tölvu? Gögnin þín úr { -sync-brand-name } verða áfram á reikningi þínum, samt sem áður.
 sync-disconnect-remove-sync-caption = Fjarlægja { -sync-brand-name } gögn.
+sync-disconnect-remove-sync-data = Bókamerki, ferli, lykilorð o.s.frv.
 sync-disconnect-cancel =
     .label = Hætta við
     .accesskey = H
