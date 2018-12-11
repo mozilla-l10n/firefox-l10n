@@ -24,6 +24,7 @@ list-empty-button =
 install-addon-from-file =
     .label = Setja inn viðbót frá skrá…
     .accesskey = i
+help-button = Viðbótastuðningur
 preferences =
     { PLATFORM() ->
         [windows] { -brand-short-name } Valmynd
