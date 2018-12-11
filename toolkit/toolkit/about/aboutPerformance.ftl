@@ -9,12 +9,20 @@ about-performance-title = Verkstjóri
 
 column-name = Nafn
 column-type = Gerð
+column-energy-impact = Umfang orku
+column-memory = Minni
 
 ## Special values for the Name column
 
+ghost-windows = Nýlokaðir flipar
+# Variables:
+#   $title (String) - the title of the preloaded page, typically 'New Tab'
+preloaded-tab = Forhlaðið: { $title }
 
 ## Values for the Type column
 
+type-tab = Flipi
+type-subframe = Undirrammi
 
 ## Values for the Energy Impact column
 ##
