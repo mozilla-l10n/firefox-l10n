@@ -210,6 +210,7 @@ certificado.">
 <!ENTITY blockedByPolicy.title "Página bloqueada">
 
 <!ENTITY certerror.mitm.title "Software está impedindo que o &brandShortName; se conecte com segurança com este site">
+<!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> é provavelmente um site seguro, mas uma conexão segura não pôde ser estabelecida. Este problema é causado por <span class='mitm-name'/>, que é um programa em seu computador ou em sua rede.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "Se seu programa antivírus tem um recurso que varre conexões criptografadas (normalmente chamado “web scanning” ou “https scanning”), você pode desativar este recurso. Se isso não resolver, pode tentar remover e reinstalar o programa antivírus.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "Se você está em uma rede corporativa, pode entrar em contato com o departamento de informática.">
 
