@@ -640,6 +640,10 @@ sitedata-option-block-trackers =
     .label = Rastreadores de terceros
 sitedata-option-block-unvisited =
     .label = Cookies de sitios web no visitados
+sitedata-option-block-all-third-party =
+    .label = Todas las cookies de terceros (puede causar errores en los sitios web)
+sitedata-option-block-all =
+    .label = Todas las cookies (causará errores en los sitios web)
 sitedata-clear =
     .label = Limpiar datos…
     .accesskey = l
@@ -721,6 +725,7 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = Personalizar
     .accesskey = P
+content-blocking-standard-description = Sólo bloquea rastreadores conocidos en pestañas privadas.
 content-blocking-standard-desc = Balanceado para protección y rendimiento. Permite algunos rastreadores, así lo sitios web funcionan adecuadamente.
 content-blocking-strict-desc = Bloquear todos los rastreadores que { -brand-short-name } detecte. Puede causar errores en algunos sitios web.
 content-blocking-custom-desc = Elegir que bloquear
@@ -856,6 +861,8 @@ collection-health-report-link = Saber más
 collection-studies =
     .label = Permitir { -brand-short-name } para instalar y ejecutar estudios
 collection-studies-link = Ver estudios de { -brand-short-name }
+addon-recommendations =
+    .label = Permitir que { -brand-short-name } haga recomendaciones personalizadas de extensiones
 addon-recommendations-link = Saber más
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
