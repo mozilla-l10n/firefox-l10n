@@ -234,6 +234,10 @@ Strict Transport Security (HSTS) შეერთებას, რომ &brandSh
 
 <!ENTITY certerror.mitm.title "პროგრამა არ აძლევს &brandShortName;-ს, საიტთან უსაფრთხოდ დაკავშირების საშუალებას">
 <!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> წესით უსაფრთხო საიტი უნდა იყოს, თუმცა დაცული კავშირის დამყარება ვერ ხერხდება. ამას გამომწვევია <span class='mitm-name'/>, რომელიც ან თქვენი კომპიუტერის პროგრამაა, ან თქვენი ქსელის.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "თუ თქვენს ანტივირუსს გააჩნია დაშიფრული კავშირების შემოწმების შესაძლებლობა (უმეტესად აღნიშნავენ დასახელებით „web scanning“ ან „https scanning“), შეგიძლია მისი გამორთვა სცადოთ. თუ ეს არ უშველის, სცადეთ ანტივირუსის სრულად ამოშლა და ხელახლა დაყენება.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "თუ დაწესებულების ქსელით სარგებლობთ, დაუკავშირდით ქსელის მართვის განყოფილებას.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "თუ არ გეცნობათ <span class='mitm-name'/>, შესაძლოა თავდასხმის ქვეშ იყოთ და სჯობს აღარ შეხვიდეთ ამ საიტზე.">
+<!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "თუ არ გეცნობათ <span class='mitm-name'/>, მაშინ შეიძლება თავდასხმას ჰქონდეს ადგილი და ვერ შეძლებთ საიტთან წვდომას.">
 
 <!ENTITY clockSkewError.title "საათი თქვენს კომპიუტერზე არეულია">
 <!ENTITY clockSkewError.longDesc "თქვენი კომპიუტერი მიიჩნევს, რომ არის <span id='wrongSystemTime_systemDate1'/>, რაც არ აძლევს საშუალებას &brandShortName;-ს უსაფრთხოდ დაუკავშირდეს საიტს. იმისთვის რომ მოინახულოთ <span class='hostname'></span>, გაასწორეთ თქვენი კომპიუტერის სისტემის პარამეტრებიდან დრო, თარიღი და სასაათე სარტყელი, შემდეგ კი ხელახლა გახსენით <span class='hostname'></span>.">
