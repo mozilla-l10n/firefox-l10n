@@ -132,3 +132,4 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> uses security technology that is outdated and vulnerable to attack. An attacker could easily reveal information which you thought to be safe. The website administrator will need to fix the server first before you can visit the site.</p><p>Error code: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY networkProtocolError.title "Teikla protokola klaida">
+<!ENTITY networkProtocolError.longDesc "<p>Lopu, kuru raugi apsavērt, navar parōdēt, deļ tō ka ir atrosta teikla protokola klaida.</p><ul><li>Lyudzu, sazazynoj ar lopys turātōju, kab pastōstēt jim par itū problemu.</li></ul>">
