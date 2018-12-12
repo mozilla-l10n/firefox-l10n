@@ -435,9 +435,6 @@
 <!ENTITY openMessageWindowCmd.label "Otwórz wiadomość">
 <!ENTITY openMessageWindowCmd.accesskey "z">
 <!ENTITY openMessageWindowCmd.key "o">
-<!ENTITY openConversationCmd.label "Otwórz wątek w karcie">
-<!ENTITY openConversationCmd.accesskey "k">
-<!ENTITY openConversationCmd.key "o">
 <!ENTITY openInConversationCmd.label "Otwórz wątek w karcie">
 <!ENTITY openInConversationCmd.accesskey "k">
 <!ENTITY openInConversationCmd.key "o">
