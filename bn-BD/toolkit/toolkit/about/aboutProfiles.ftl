@@ -2,12 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-profiles-title = প্রোফাইল সম্পর্কে
+profiles-title = প্রোফাইল পরিচিতি
 profiles-subtitle = এই পাতা আপনাকে আপনার প্রোফাইল পরিচালনা করতে সাহায্য করবে। প্রতিটি প্রোফাইলের একটি পৃথক জগৎ রয়েছে সেখানে ইতিহাস, বুকমার্ক, সেটিং, অ্যাড-অন রয়েছে।
 profiles-create = একটি নতুন প্রোফাইল তৈরি করুন
 profiles-restart-title = পুনরারম্ভ
 profiles-restart-in-safe-mode = অ্যাড-অন নিষ্ক্রিয় করে পুনরারম্ভ করুন…
-profiles-restart-normal = স্বাভাবিকভাবে পুনরারম্ভ করুন…
+profiles-restart-normal = স্বাভাবিকভাবে রিস্টার্ট করুন…
 # Variables:
 #   $name (String) - Name of the profile
 profiles-name = প্রোফাইল: { $name }
@@ -46,6 +46,7 @@ profiles-delete-profile-confirm =
 profiles-delete-files = ফাইল অপসারণ
 profiles-dont-delete-files = ফাইল মুছে ফেলা হবে না
 profiles-delete-profile-failed-title = ত্রুটি
+profiles-delete-profile-failed-message = এই প্রোফাইল মুছে ফেলার সময় সমস্যা হয়েছে।
 profiles-opendir =
     { PLATFORM() ->
         [macos] ফাইন্ডারে প্রদর্শন করুন
