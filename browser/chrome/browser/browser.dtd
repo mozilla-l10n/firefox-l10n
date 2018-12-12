@@ -1037,6 +1037,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackersView.label "მეთვალყურეები">
 <!ENTITY contentBlocking.trackersView.strictInfo.label "ყველა მეთვალყურის შესაზღუდად, მიუთითეთ „მკაცრი” შეზღუდვა.">
 
+<!ENTITY contentBlocking.cookies.label "ფუნთუშები">
+<!ENTITY contentBlocking.cookiesView.label "ფუნთუშები და საიტის მონაცემები">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "ხარვეზის მოხსენება">
 <!ENTITY contentBlocking.breakageReportView.label "ხარვეზების მოხსენება">
