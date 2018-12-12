@@ -10,6 +10,7 @@ about-performance-title = Administrador de tareas
 column-name = Nombre
 column-type = Tipo
 column-energy-impact = Impacto energético
+column-memory = Memoria
 
 ## Special values for the Name column
 
@@ -37,6 +38,12 @@ type-other = Otro
 energy-impact-high = Elevado ({ $value })
 energy-impact-medium = Medio ({ $value })
 energy-impact-low = Reducido ({ $value })
+
+## Values for the Memory column
+##
+## Variables:
+##   $value (Number) - How much memory is used
+
 
 ## Tooltips for the action buttons
 
