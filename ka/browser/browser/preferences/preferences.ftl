@@ -9,7 +9,7 @@ do-not-track-option-default =
 do-not-track-option-default-content-blocking =
     .label = მხოლოდ მაშინ, როცა { -brand-short-name } ზღუდავს აღმოჩენილ მეთვალყურეებს
 do-not-track-option-default-content-blocking-known =
-    .label = მხოლოდ მაშინ, როცა { -brand-short-name } ზღუდავს აღმოჩენილ ცნობილ მეთვალყურეებს
+    .label = მხოლოდ მაშინ, როცა { -brand-short-name } ზღუდავს ცნობილ მეთვალყურეებს
 do-not-track-option-always =
     .label = ყოველთვის
 pref-page =
@@ -35,8 +35,8 @@ search-input-box =
         }
 policies-notice =
     { PLATFORM() ->
-        [windows] თქვენს ორგანიზაციას შეზღუდული აქვს გარკვეული პარამეტრების შეცვლის შესაძლებლობა.
-       *[other] თქვენს ორგანიზაციას შეზღუდული აქვს გარკვეული პარამეტრების შეცვლის შესაძლებლობა.
+        [windows] თქვენს დაწესებულებას შეზღუდული აქვს გარკვეული პარამეტრების შეცვლის შესაძლებლობა.
+       *[other] თქვენს დაწესებულებას შეზღუდული აქვს გარკვეული პარამეტრების შეცვლის შესაძლებლობა.
     }
 pane-general-title = მთავარი
 category-general =
