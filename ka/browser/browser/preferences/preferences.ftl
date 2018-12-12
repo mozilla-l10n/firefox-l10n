@@ -8,6 +8,8 @@ do-not-track-option-default =
     .label = მხოლოდ, თვალთვალისგან დაცვის დროს
 do-not-track-option-default-content-blocking =
     .label = მხოლოდ მაშინ, როცა { -brand-short-name } ზღუდავს აღმოჩენილ მეთვალყურეებს
+do-not-track-option-default-content-blocking-known =
+    .label = მხოლოდ მაშინ, როცა { -brand-short-name } ზღუდავს აღმოჩენილ ცნობილ მეთვალყურეებს
 do-not-track-option-always =
     .label = ყოველთვის
 pref-page =
@@ -141,6 +143,8 @@ set-as-my-default-browser =
 startup-restore-previous-session =
     .label = წინა სეანსის აღდგენა
     .accesskey = წ
+startup-restore-warn-on-quit =
+    .label = გაფრთხილება ბრაუზერის დახურვისას
 disable-extension =
     .label = გაფართოების ამორთვა
 tabs-group-header = ჩანართები
@@ -150,12 +154,12 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = ბმულების, ახალი ფანჯრების ნაცვლად, ახალ ჩანართებში გახსნა
     .accesskey = ნ
-warn-on-close-multiple-tabs =
-    .label = გაფრთხილება რამდენიმე ჩანართის ერთბაშად დახურვისას
-    .accesskey = ე
 warn-on-quit-close-multiple-tabs =
     .label = გაფრთხილება რამდენიმე ჩანართის ერთბაშად დახურვისას
     .accesskey = ფ
+warn-on-close-multiple-tabs =
+    .label = გაფრთხილება რამდენიმე ჩანართის ერთბაშად დახურვისას
+    .accesskey = ე
 warn-on-open-many-tabs =
     .label = გაფრთხილება, როცა ბევრი ჩანართის გახსნამ შესაძლოა შეანელოს { -brand-short-name }
     .accesskey = ე
@@ -538,7 +542,6 @@ privacy-header = ბრაუზერის პირადულობა
 
 ## Privacy Section - Forms
 
-forms-header = ველები და პაროლები
 logins-header = ანგარიშის სახელები და პაროლები
 forms-ask-to-save-logins =
     .label = საიტებზე შესვლის მონაცემების დამახსოვრების მოთხოვნა
@@ -860,6 +863,9 @@ collection-health-report-link = იხილეთ ვრცლად
 collection-studies =
     .label = { -brand-short-name }-ისთვის ნების დართვა, კვლევების დაყენებასა და გამართვაზე
 collection-studies-link = იხილეთ { -brand-short-name } კვლევები
+addon-recommendations =
+    .label = { -brand-short-name }-ისთვის ნების დართვა, მორგებული გაფართოებების შემოსათავაზებლად
+addon-recommendations-link = ვრცლად
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = მოხსენებები გამორთულია ანაწყობის ამ კონფიგურაციისთვის
