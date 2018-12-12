@@ -9,7 +9,7 @@ config-window =
 
 # This text should be attention grabbing and playful
 config-about-warning-title =
-    .value = HIC SUNT DRACONES
+    .value = Isto pode invalidar sua garantia!
 config-about-warning-text = Alterar essas configurações avançadas pode prejudicar a estabilidade, segurança e desempenho deste aplicativo. Você só deve continuar se tiver certeza do que está fazendo.
 config-about-warning-button =
     .label = Eu aceito o risco!
