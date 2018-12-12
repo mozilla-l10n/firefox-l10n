@@ -73,6 +73,12 @@ connection-dns-over-https =
 connection-dns-over-https-url = URL
     .accesskey = U
     .tooltiptext = HTTPS দ্বারা DNS রিজল্ভ করার URL
+# Variables:
+#   $url (String) - URL for the DNS over HTTPS provider
+connection-dns-over-https-url-default =
+    .label = ডিফল্ট ব্যবহার করুন ({ $url })
+    .accesskey = U
+    .tooltiptext = HTTPS এ DNS সমাধানে ডিফল্ট URL ব্যবহার করুন
 connection-dns-over-https-url-custom =
     .label = স্বনির্ধারিত
     .accesskey = C
