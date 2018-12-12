@@ -76,13 +76,13 @@
 <!ENTITY pasteCmd.label "Вставити">
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "т">
-<!ENTITY pasteNoFormattingCmd.key "И">
+<!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.accesskey "ф">
 <!ENTITY deleteCmd.label "Стерти">
 <!ENTITY deleteCmd.accesskey "С">
 <!ENTITY editRewrapCmd.label "Переформатувати">
-<!ENTITY editRewrapCmd.key "О">
+<!ENTITY editRewrapCmd.key "R">
 <!ENTITY renameAttachmentCmd.label "Перейменувати вкладення…">
 <!ENTITY renameAttachmentCmd.accesskey "П">
 <!ENTITY reorderAttachmentsCmd.label "Пересортувати вкладення…">
