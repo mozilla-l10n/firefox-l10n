@@ -28,3 +28,7 @@ onboarding-ghostery-text = Зрабіце агляд хутчэйшым, бяс�
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Сінхранізаваць
 onboarding-fxa-text = Зарэгіструйцеся ў { -fxaccount-brand-name } і сінхранізуйце свае закладкі, паролі і адкрытыя карткі ўсюды, дзе карыстаецеся { -brand-short-name }.
+
+## Message strings belonging to the Return to AMO flow
+
+return-to-amo-extension-button = Дадаць пашырэнне
