@@ -8,6 +8,8 @@ do-not-track-option-default =
     .label = Alleen bij gebruik van Bescherming tegen volgen
 do-not-track-option-default-content-blocking =
     .label = Alleen wanneer { -brand-short-name } is ingesteld om gedetecteerde trackers te blokkeren
+    do-not-track-option-default-content-blocking-known =
+    .label = Alleen wanneer { -brand-short-name } is ingesteld om bekende trackers te blokkeren
 do-not-track-option-always =
     .label = Altijd
 
@@ -184,12 +186,12 @@ open-new-link-as-tabs =
     .label = Koppelingen openen in tabbladen in plaats van nieuwe vensters
     .accesskey = v
 
-warn-on-close-multiple-tabs =
-    .label = Waarschuwen bij het sluiten van meerdere tabbladen
-    .accesskey = m
-
 warn-on-quit-close-multiple-tabs =
     .label = Waarschuwen bij het afsluiten en sluiten van meerdere tabbladen
+    .accesskey = m
+
+warn-on-close-multiple-tabs =
+    .label = Waarschuwen bij het sluiten van meerdere tabbladen
     .accesskey = m
 
 warn-on-open-many-tabs =
