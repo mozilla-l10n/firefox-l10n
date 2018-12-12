@@ -21,8 +21,6 @@
 <!-- Tab context menu -->
 <!ENTITY  reloadTab.label                    "ჩანართის განახლება">
 <!ENTITY  reloadTab.accesskey                "გ">
-<!ENTITY  reloadAllTabs.label                "ყველა ჩანართის განახლება">
-<!ENTITY  reloadAllTabs.accesskey            "ყ">
 <!ENTITY  selectAllTabs.label                "ყველა ჩანართის შერჩევა">
 <!ENTITY  selectAllTabs.accesskey            "შ">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
@@ -47,9 +45,6 @@ left instead of right. -->
 <!ENTITY  closeOtherTabs.label               "დანარჩენი ჩანართების დახურვა">
 <!ENTITY  closeOtherTabs.accesskey           "ა">
 
-<!ENTITY  closeSelectedTabs.label            "შერჩეული ჩანართების დახურვა">
-<!ENTITY  closeSelectedTabs.accesskey        "შ">
-
 <!ENTITY  closeTabs.label                    "ჩანართების დახურვა">
 <!ENTITY  closeTabs.accesskey                "ბ">
 <!ENTITY  pinSelectedTabs.label              "ჩანართების მიმაგრება">
@@ -62,10 +57,6 @@ same accesskey but will never be visible at the same time. -->
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinSelectedTabs.accesskey        "ხ">
-<!-- Reload Tab and Reload Selected Tabs have the same accesskey
-but will never be visible at the same time. -->
-<!ENTITY  reloadSelectedTabs.label           "შერჩეული ჩანართების განახლება">
-<!ENTITY  reloadSelectedTabs.accesskey       "გ">
 <!-- LOCALIZATION NOTE(reloadTab.label, reloadTabs.label): have the same accesskey
 but will never be visible at the same time. -->
 <!ENTITY  reloadTabs.label                   "ჩანართების განახლება">
@@ -90,8 +81,6 @@ same accesskey but will never be visible at the same time. -->
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinTab.accesskey                 "ხ">
-<!ENTITY  sendTabToDevice.label              "ჩანართის გაგზავნა მოწყობილობაზე">
-<!ENTITY  sendTabToDevice.accesskey          "წ">
 <!ENTITY  sendPageToDevice.label             "გვერდის გაგზავნა მოწყობილობაზე">
 <!ENTITY  sendPageToDevice.accesskey         "გ">
 <!ENTITY  sendLinkToDevice.label             "ბმულის გაგზავნა მოწყობილობაზე">
@@ -110,8 +99,6 @@ These two items have the same accesskey but will never be visible at the same ti
 <!ENTITY  moveToNewWindow.accesskey          "ფ">
 <!ENTITY  reopenInContainer.label            "ხელახლა გახსნა სათავსში">
 <!ENTITY  reopenInContainer.accesskey        "ე">
-<!ENTITY  bookmarkAllTabs.label              "ყველა ჩანართის ჩანიშვნა…">
-<!ENTITY  bookmarkAllTabs.accesskey          "შ">
 <!ENTITY  bookmarkTab.label                  "ჩანართის ჩანიშვნა">
 <!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
@@ -153,11 +140,6 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.label "სანიშნების ხელსაწყოთა ზოლი">
 <!ENTITY personalbarCmd.accesskey "ს">
 <!ENTITY bookmarksToolbarItem.label "სანიშნების ზოლის ხელსაწყოები">
-
-<!ENTITY toolbarContextMenu.reloadAllTabs.label "ყველა ჩანართის განახლება">
-<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "ყ">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "ყველა ჩანართის ჩანიშვნა…">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "ჩ">
 
 <!ENTITY toolbarContextMenu.reloadSelectedTab.label "შერჩეული ჩანართის განახლება">
 <!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
@@ -263,9 +245,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "გვერდის ჩანიშვნა">
 <!ENTITY editThisBookmarkCmd.label "სანიშნის ჩასწორება">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-
-<!ENTITY subscribeToPageMenupopup.label "გვერდის გამოწერა">
-<!ENTITY subscribeToPageMenuitem.label "გვერდის გამოწერა...">
 
 <!ENTITY addCurPagesCmd.label "ყველა ჩანართის ჩანიშვნა...">
 <!ENTITY showAllBookmarks2.label "ყველა სანიშნის ჩვენება">
@@ -382,10 +361,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY webDeveloperMenu.label       "ვებშემმუშავება">
 <!ENTITY webDeveloperMenu.accesskey   "ვ">
-
-<!ENTITY devtoolsRecordExecution.label "მოქმედების ჩაწერა">
-<!ENTITY devtoolsSaveRecording.label "ჩანაწერის შენახვა">
-<!ENTITY devtoolsReplayExecution.label "მოქმედების გამეორება">
 
 <!ENTITY inspectContextMenu.label     "ელემენტზე დაკვირვება">
 <!ENTITY inspectContextMenu.accesskey "ტ">
@@ -516,7 +491,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "ვ">
 <!ENTITY customizeMenu.manageExtension.label "გაფართოების მართვა">
 <!ENTITY customizeMenu.manageExtension.accesskey "ფ">
-
 <!ENTITY customizeMenu.removeExtension.label "გაფართოების ამოშლა">
 <!ENTITY customizeMenu.removeExtension.accesskey "მ">
 
@@ -1021,12 +995,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackingProtection2.label "აღმოჩენილი მეთვალყურეები">
 
 <!ENTITY contentBlocking.trackingProtection3.label "მეთვალყურეები">
-<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.allowed.label):
-     This label signals that this type of content blocking is turned
-     OFF and is not blocking tracker content, so this is not
-     a positive thing. It forms the end of the (imaginary) sentence
-     "Trackers [are] Allowed"-->
-<!ENTITY contentBlocking.trackingProtection.allowed.label "დაშვებული">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking tracker content, so this is
@@ -1068,6 +1036,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.trackersView.label "მეთვალყურეები">
 <!ENTITY contentBlocking.trackersView.strictInfo.label "ყველა მეთვალყურის შესაზღუდად, მიუთითეთ „მკაცრი” შეზღუდვა.">
+
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "ხარვეზის მოხსენება">
 <!ENTITY contentBlocking.breakageReportView.label "ხარვეზების მოხსენება">
@@ -1202,11 +1171,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "ვებგვერდზე მოქმედებები">
 <!ENTITY pageAction.addToUrlbar.label "მისამართების ველში დამატება">
 <!ENTITY pageAction.removeFromUrlbar.label "მისამართების ველიდან მოცილება">
-<!ENTITY pageAction.allowInUrlbar.label "მისამართების ველში ჩვენება">
-<!ENTITY pageAction.disallowInUrlbar.label "მისამართების ველში ჩვენების გარეშე">
 <!ENTITY pageAction.manageExtension.label "გაფართოების მართვა…">
-
-<!ENTITY pageAction.sendTabToDevice.label "ჩანართის გაგზავნა მოწყობილობაზე">
 
 <!ENTITY sendToDevice.syncNotReady.label "მოწყობილობების დასინქრონება…">
 
