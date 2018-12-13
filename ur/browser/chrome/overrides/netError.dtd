@@ -12,7 +12,6 @@
 <!ENTITY continue2.label "مزید…">
 <!ENTITY moreInformation.label "مزید معلومات">
 
-
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "جڑنے میں ناکامیاب">
@@ -91,8 +90,6 @@ was trying to connect. -->
 
 
 
-
-
 <!ENTITY sharedLongDesc "<ul> <li>سائٹ عارظی طور پر غیر موجود یا مصروف ہو سکتی ہے۔ کچھ دیر بعد پھر کوشش کریں۔</li> <li>اگر آپ کوئی بھی صفحے نہیں لوڈ کر پائیں تو اپنے کمپیوٹر کےنیٹورک کنکشن کی پڑتال کریں۔</li> <li>اگر آپ کا کمپیوٹر یا نیٹورک فصیل یا پراکسی کے ذریعے محفوظ ہے تو پڑتال کریں کہ &brandShortName; ویب تک رسائی کی اجازت ہے</li> </ul>">
 
 <!ENTITY cspBlocked.title "مواد سیکیورٹی پالسی کے تحت بلاک">
@@ -103,6 +100,7 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "اکسیپشن اضافہ کریں">
+<!ENTITY securityOverride.exceptionButton1Label "خطرے کو قبول کریں اور جاری رکھیں">
 
 <!ENTITY errorReporting.automatic2 "Mozilla کی مدد کرے نقصان کردہ سائٹ کی شناخت اور بلاک کرنیں کے لئے اس طرح کی نقص رپورٹ کرے">
 <!ENTITY errorReporting.learnMore "مزید سیکھیں…">
@@ -133,5 +131,7 @@ was trying to connect. -->
 <!ENTITY blockedByPolicy.title "بلاک شدہ صفحہ">
 
 
+
 <!ENTITY prefReset.longDesc "ایسا لگتا ہے کہ اس کی وجہ آپ کی نیٹ ورک سلامتی کی ترتیبات ہو سکتی ہے۔ کیا آپ طےشدہ ترتیبات بحال کرناچاہتے ہیں؟">
 <!ENTITY prefReset.label "طے شدہ ترتیبات بحال کریں">
+
