@@ -497,7 +497,6 @@ privacy-header = విహరిణి గోప్యత
 
 ## Privacy Section - Forms
 
-forms-header = ఫారాలు & సంకేతపదాలు
 logins-header = ప్రవేశాలు & సంకేతపదాలు
 forms-ask-to-save-logins =
     .label = సైట్ల ప్రవేశాలూ, సంకేతపదాలు భద్రపరచుకోడానికి అడుగు
@@ -582,6 +581,10 @@ sitedata-block-trackers-option =
     .label = మూడవ పక్ష ట్రాకర్లు
 sitedata-block-unvisited-option =
     .label = చూడని వెబ్‌సైట్ల కుకీలు
+sitedata-option-block-trackers =
+    .label = మూడవ-పక్ష ట్రాకర్లు
+sitedata-option-block-unvisited =
+    .label = చూడని వెబ్‌సైట్ల కుకీలు
 sitedata-clear =
     .label = డేటాను తుడిచివేయి…
     .accesskey = l
@@ -623,6 +626,20 @@ content-blocking-toggle-label-on = ఆన్
 content-blocking-toggle-label-off = ఆఫ్
     .accesskey = O
 content-blocking-category-label = వేటిని నిరోధించాలో ఎంచుకోండి
+content-blocking-tracking-protection-trackers-label =
+    .label = ట్రాకర్లు
+    .accesskey = T
+content-blocking-tracking-protection-all-detected-trackers-label =
+    .label = గుర్తించబడిన ట్రాక్టర్లన్నీ
+    .accesskey = T
+content-blocking-tracking-protection-option-always =
+    .label = ఎల్లప్పుడూ
+    .accesskey = A
+content-blocking-tracking-protection-option-private =
+    .label = అంతరంగిక కిటికీలలో మాత్రమే
+    .accesskey = p
+# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
+# "Standard" in this case is an adjective, meaning "default" or "normal".
 content-blocking-setting-standard =
     .label = ప్రామాణికం
     .accesskey = d
@@ -639,16 +656,13 @@ content-blocking-all-windows-trackers = తెలిసిన ట్రాకర
 content-blocking-all-third-party-cookies = మూడవ-పక్ష కుకీలన్నీ
 content-blocking-warning-title = గమనిక!
 content-blocking-learn-how = ఎలానో తెలుసుకోండి
-content-blocking-tracking-protection-trackers-label =
+content-blocking-trackers-label =
     .label = ట్రాకర్లు
     .accesskey = T
-content-blocking-tracking-protection-all-detected-trackers-label =
-    .label = గుర్తించబడిన ట్రాక్టర్లన్నీ
-    .accesskey = T
-content-blocking-tracking-protection-option-always =
-    .label = ఎల్లప్పుడూ
+content-blocking-tracking-protection-option-all-windows =
+    .label = అన్ని కిటికీల లోనూ
     .accesskey = A
-content-blocking-tracking-protection-option-private =
+content-blocking-option-private =
     .label = అంతరంగిక కిటికీలలో మాత్రమే
     .accesskey = p
 content-blocking-tracking-protection-change-block-list = నిరోధపు జాబితాను మార్చు
@@ -740,6 +754,7 @@ collection-health-report =
     .accesskey = r
 collection-health-report-link = ఇంకా తెలుసుకోండి
 collection-studies-link = { -brand-short-name } అథ్యయనాలను చూడండి
+addon-recommendations-link = ఇంకా తెలుసుకోండి
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = ఈ బిల్డ్ కాన్ఫిగరేషన్ కోసం డేటా రిపోర్టింగ్ నిలిపివేయబడింది

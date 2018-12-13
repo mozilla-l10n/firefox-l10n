@@ -21,8 +21,6 @@
 <!-- Tab context menu -->
 <!ENTITY  reloadTab.label                    "ట్యాబుని మళ్ళీ లోడుచేయి">
 <!ENTITY  reloadTab.accesskey                "R">
-<!ENTITY  reloadAllTabs.label                "ట్యాబులన్నింటినీ మళ్లీ లోడుచేయి">
-<!ENTITY  reloadAllTabs.accesskey            "A">
 <!ENTITY  selectAllTabs.label                "ట్యాబులన్నీ ఎంచుకో">
 <!ENTITY  selectAllTabs.accesskey            "S">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
@@ -46,9 +44,6 @@ left instead of right. -->
 <!ENTITY  closeOtherTabs.label               "మిగతా ట్యాబులను మూసివేయి">
 <!ENTITY  closeOtherTabs.accesskey           "o">
 
-<!ENTITY  closeSelectedTabs.label            "ఎంచుకున్న ట్యాబులను మూసివేయి">
-<!ENTITY  closeSelectedTabs.accesskey        "S">
-
 <!ENTITY  closeTabs.label                    "ట్యాబులను మూసివేయి">
 <!ENTITY  closeTabs.accesskey                "S">
 <!ENTITY  pinSelectedTabs.label              "ట్యాబులను పిన్ చేయి">
@@ -61,10 +56,6 @@ same accesskey but will never be visible at the same time. -->
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinSelectedTabs.accesskey        "b">
-<!-- Reload Tab and Reload Selected Tabs have the same accesskey
-but will never be visible at the same time. -->
-<!ENTITY  reloadSelectedTabs.label           "ఎంచుకున్న ట్యాబులను తిరిగి లోడుచెయ్యి">
-<!ENTITY  reloadSelectedTabs.accesskey       "R">
 <!-- LOCALIZATION NOTE(reloadTab.label, reloadTabs.label): have the same accesskey
 but will never be visible at the same time. -->
 <!ENTITY  bookmarkSelectedTabs.label         "ట్యాబులను ఇష్టాంశాలు చేయి…">
@@ -87,8 +78,6 @@ same accesskey but will never be visible at the same time. -->
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinTab.accesskey                 "b">
-<!ENTITY  sendTabToDevice.label              "ట్యాబుని పరికరానికి పంపు">
-<!ENTITY  sendTabToDevice.accesskey          "D">
 <!ENTITY  sendPageToDevice.label             "పేజీని పరికరానికి పంపు">
 <!ENTITY  sendPageToDevice.accesskey         "D">
 <!ENTITY  sendLinkToDevice.label             "లంకెను పరికరానికి పంపు">
@@ -99,8 +88,6 @@ These two items have the same accesskey but will never be visible at the same ti
 <!ENTITY  moveToNewWindow.accesskey          "W">
 <!ENTITY  reopenInContainer.label            "కంటెయినర్లో తెరువు">
 <!ENTITY  reopenInContainer.accesskey        "e">
-<!ENTITY  bookmarkAllTabs.label              "ట్యాబులన్నింటినీ ఇష్టాంశాలుగా చేయి…">
-<!ENTITY  bookmarkAllTabs.accesskey          "T">
 <!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  undoCloseTab.label                 "మూసిన ట్యాబుని తిరిగి తెరువు">
@@ -139,11 +126,6 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.label "ఇష్టాంశాల పట్టీ">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "ఇష్టాంశాల పట్టీ అంశాలు">
-
-<!ENTITY toolbarContextMenu.reloadAllTabs.label "ట్యాబులన్నింటినీ మళ్ళీ లోడు చేయి">
-<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "A">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "ట్యాబులన్నింటినీ ఇష్టాంశాలుగా చేయి…">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "T">
 
 <!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
 toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
@@ -240,9 +222,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editThisBookmarkCmd.label "ఈ ఇష్టాంశాన్ని సరిదిద్దు">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
-<!ENTITY subscribeToPageMenupopup.label "ఈ పేజీకి చందాచేరండి">
-<!ENTITY subscribeToPageMenuitem.label "ఈ పేజీకి చందాచేరండి…">
-
 <!ENTITY addCurPagesCmd.label "ట్యాబులన్నింటినీ ఇష్టాంశాలుగా చేయి…">
 <!ENTITY showAllBookmarks2.label "ఇష్టాంశాలన్నింటినీ చూపించు">
 <!ENTITY recentBookmarks.label "ఇటీవల ఇష్టాంశాలుగా చేసినవి">
@@ -280,6 +259,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "నిరంతర నిల్వ డేటాని నిల్వ చేయండి">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "విహరణి వ్యవహిత నియంత్రణ కింద ఉంది">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "జాల ధ్రువీకరణ ప్యానెలును తెరువు">
+
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "సైటుతో మీ కేమెరా మరియు/లేదా మైక్రోఫోన్ పంచుకోడాన్ని నిర్వహించండి">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "సైటుతో మీ మైక్రోఫోనుని పంచుకోవడాన్ని నిర్వహించండి">
@@ -354,7 +334,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY webDeveloperMenu.label       "వెబ్ అభివృద్దికారి">
 <!ENTITY webDeveloperMenu.accesskey   "W">
-
 
 <!ENTITY inspectContextMenu.label     "మూలకం విచారణచేయి">
 <!ENTITY inspectContextMenu.accesskey "Q">
@@ -483,7 +462,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "A">
 <!ENTITY customizeMenu.manageExtension.label "పొడగింత నిర్వహణ">
 <!ENTITY customizeMenu.manageExtension.accesskey "E">
-
 <!ENTITY customizeMenu.removeExtension.accesskey "v">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
@@ -985,12 +963,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackingProtection2.label "గుర్తించబడిన ట్రాకర్లన్నీ">
 
 <!ENTITY contentBlocking.trackingProtection3.label "ట్రాకర్లు">
-<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.allowed.label):
-     This label signals that this type of content blocking is turned
-     OFF and is not blocking tracker content, so this is not
-     a positive thing. It forms the end of the (imaginary) sentence
-     "Trackers [are] Allowed"-->
-<!ENTITY contentBlocking.trackingProtection.allowed.label "అనుమతించబడ్డాయి">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking tracker content, so this is
@@ -1031,6 +1003,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.manageSettings.accesskey "M">
 
 <!ENTITY contentBlocking.trackersView.label "ట్రాకర్లు">
+
+<!ENTITY contentBlocking.cookies.label "కుకీలు">
+<!ENTITY contentBlocking.cookiesView.label "కుకీలు, సైటు డేటా">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "ఒక సమస్యను నివేదించండి">
 <!ENTITY contentBlocking.breakageReportView.label "సమస్యలను నివేదించండి">
@@ -1160,11 +1135,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "పేజీ చర్యలు">
 <!ENTITY pageAction.addToUrlbar.label "చిరునామా పట్టీకి చేర్చండి">
 <!ENTITY pageAction.removeFromUrlbar.label "చిరునామా పట్టీ నుండి తొలగించండి">
-<!ENTITY pageAction.allowInUrlbar.label "చిరునామా పట్టీలో చూపించు">
-<!ENTITY pageAction.disallowInUrlbar.label "చిరునామా పట్టీలో చూపించకు">
 <!ENTITY pageAction.manageExtension.label "పొడగింత నిర్వహణ…">
-
-<!ENTITY pageAction.sendTabToDevice.label "ట్యాబుని పరికరానికి పంపు">
 
 <!ENTITY sendToDevice.syncNotReady.label "పరికరాలను సమకాలీకరిస్తోంది…">
 
