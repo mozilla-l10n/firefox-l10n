@@ -55,7 +55,7 @@ pane-sync-title = Conto Firefox
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = Assistentia de { -brand-short-name }
-addons-button-label = Extensiones & themas
+addons-button-label = Extensiones e themas
 focus-search =
     .key = f
 close-button =
@@ -542,7 +542,7 @@ privacy-header = Confidentialitate del navigator
 
 ## Privacy Section - Forms
 
-logins-header = Authenticationes & contrasignos
+logins-header = Authenticationes e contrasignos
 forms-ask-to-save-logins =
     .label = Demanda de salvar authenticationes e contrasignos de sito
     .accesskey = r

@@ -22,7 +22,7 @@ sync-disconnect-cancel =
 ## on the state of the checkboxes.
 
 sync-disconnect-confirm-disconnect-delete =
-    .label = Disconnecter & deler
+    .label = Disconnecter e deler
     .accesskey = D
 sync-disconnect-confirm-disconnect =
     .label = Disconnecter solmente
