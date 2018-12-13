@@ -24,6 +24,8 @@
 <!ENTITY aboutTelemetry.telemetryClientDoc "<a>Документація клієнта телеметрії Firefox</a> містить визначення для концептів, документацію API та посилання на дані.">
 <!ENTITY aboutTelemetry.telemetryDashboard "<a>Панелі огляду телеметрії</a> дозволяють вам візуалізувати дані, які Mozilla отримує через телеметрію.">
 
+<!ENTITY aboutTelemetry.telemetryProbeDictionary "<a>Словник вимірювань</a> містить подробиці та описи вимірювань, що збираються Телеметрією.">
+
 <!ENTITY aboutTelemetry.showInFirefoxJsonViewer "Відкрити в засобі перегляду JSON">
 
 <!ENTITY aboutTelemetry.homeSection "Домівка">
