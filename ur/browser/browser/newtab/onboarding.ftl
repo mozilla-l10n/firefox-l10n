@@ -25,3 +25,8 @@ onboarding-addons-title = ایڈ اون
 onboarding-addons-text = { -brand-short-name } میں اور بھی مزید خصوصیات شامل کریں جسسے آپ اپنے سخت کام کو انجام دے سکے۔ قیمتوں کا موازنہ کریں، موسم کی جانچ پڑتال کریں یا مرضی کے مطابق تھیم سے اپنی شخصیت کا اظہار کرے۔
 onboarding-ghostery-title = گھوسٹری
 onboarding-ghostery-text = Ghostery کے طرہ ایکسٹینشن کے ساتھ تیز، ہوشیار اور محفوز طریقے سے براؤز کرے، جو کی اپکو پریشان کرنے والے اشتہاروں کو روکنے کی اجازت دیتے ہے۔
+
+## Message strings belonging to the Return to AMO flow
+
+return-to-amo-extension-button = اس توسیع شامل کریں
+return-to-amo-get-started-button = { -brand-short-name } کے ساتھ شروع کریں

@@ -17,7 +17,6 @@ policy-BlockAboutConfig = about:config صفحے پر رسائی کو روکیں�
 policy-BlockAboutProfiles = about:profiles صفحے پر رسائی کو روکیں۔
 policy-BlockAboutSupport = about:support صفحے پر رسائی کو روکیں۔
 policy-Bookmarks = بکمارک ٹولبار، بکمارک مینو، یا انکے اندر کسی اختصاصی فولڈر  مے بکمارک بنائیں۔
-policy-Certificates = پہلے سے بنے سرٹیفکیٹ کو استعمال کرنا ہے یا نہیں۔ یہ پالیسی اس وقت صرف Windows کے لئے ہے۔
 policy-CertificatesDescription = سرٹیفکیٹ شامل کریں یا پہلے سے بنے سرٹیفکیٹ استعمال کریں۔
 policy-Cookies = کوکیز سیٹ کرنے کیلئے ویب سائٹس کو اجازت دیں یا انکار کریں۔
 policy-DisableAppUpdate = براؤزر کو اپڈیٹ ہونے سے روکیں۔
@@ -36,6 +35,9 @@ policy-DisplayBookmarksToolbar = بک مارک ٹولبار طے شدہ طور �
 policy-DisplayMenuBar = مینوبار طے شدہ طور پر ظاہر کریں۔
 policy-DNSOverHTTPS = HTTPS پرDNS ترتیب کریں۔
 policy-FlashPlugin = Flash پلگ ان کے استعمال کا اجازت دینے یا انکار کریں۔
+# “lock” means that the user won’t be able to change this setting
+policy-Homepage = ابتدائی صفحہ سیٹ کریں اور اختیاری طور پر تالا بندی کرِں۔
+policy-InstallAddonsPermission = چند ویب سائٹص کو اظافہ جات کی تنسیب کاری کی اجازت دیں۔
 policy-Proxy = پراکسی ترتیبات ترتیب کریں۔
 policy-SanitizeOnShutdown = بند کرنے پر تمام نیویگیشن ڈیٹا صاف کریں۔
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
