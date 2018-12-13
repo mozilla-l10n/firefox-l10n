@@ -31,4 +31,5 @@ onboarding-fxa-text = আপনার বুকমার্কস, পাসও�
 
 ## Message strings belonging to the Return to AMO flow
 
+return-to-amo-sub-header = দারুণ, আপনি { -brand-short-name } পেয়েছেন
 return-to-amo-extension-button = এক্সটেনশন যোগ করুন
