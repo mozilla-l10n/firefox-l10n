@@ -218,7 +218,7 @@ cert-not-verified-unknown = Impossibile verificar iste certificato per rationes 
 
 ## Add Security Exception dialog
 
-add-exception-branded-warning = Tu es preste a supplantar como { -brand-short-name } identifica iste sito.
+add-exception-branded-warning = Tu es a puncto de supplantar como { -brand-short-name } identifica iste sito.
 add-exception-invalid-header = Iste sito tenta se identificar con informationes invalide.
 add-exception-domain-mismatch-short = Mal sito
 add-exception-domain-mismatch-long = Le certificato pertine a un sito differente, isto pote significar que alicuno tenta de facer se passar pro iste sito.

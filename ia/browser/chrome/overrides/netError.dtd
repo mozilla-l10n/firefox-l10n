@@ -12,7 +12,6 @@
 <!ENTITY advanced.label "Avantiate">
 <!ENTITY continue2.label "Plus…">
 <!ENTITY moreInformation.label "Plus de informationes">
-
 <!ENTITY viewCertificate.label "Vider le certificato">
 
 <!-- Specific error messages -->
@@ -151,9 +150,6 @@ will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Le proprietarios de <span class='hostname'/> ha configurate lor sito web incorrectemente. Pro proteger tu informationes de esser robate,  &brandShortName; non se ha connectite a iste sito web.">
 <!ENTITY certerror.introPara2 "&brandShortName; disvelate un potential attacco al securitate e ha interrumpite le connexion a <span class='hostname'/>. Si tu visita iste sito, le attaccantes poterea provar a robar informationes como tu contrasignos, emails o detalios del carta de credito.">
-
-<!ENTITY certerror.expiredCert.secondPara "Iste problema occurre probabilemente perque le horologio de tu computator es adjustate con le hora incorrecte, le qual impedi &brandShortName; de connecter se securmente.">
-
 <!ENTITY certerror.sts.introPara "&brandShortName; disvelava un menacia potential de securitate e interrumpeva le connexion a <span class='hostname'/> pois que iste sito web require un connexion secur.">
 
 <!ENTITY certerror.expiredCert.introPara "&brandShortName; disvelava un problema e interrumpeva le connexion a <span class='hostname'/>. Le sito web o es mal configurate o le horologio de tu computator es definite a un tempore errate.">
@@ -228,6 +224,13 @@ certificato non es possibile.">
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> usa technologia de securitate que es obsolete e vulnerabile a attaccos. Un attaccante pote facilemente revelar informationes que tu pensa esser secur. Le administrator del sito web debera reparar le servitor ante que tu pote visitar le sito.</p><p>Codice de error: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Pagina blocate">
+
+<!ENTITY certerror.mitm.title "Un software impedi &brandShortName; de connecter se securmente a iste sito">
+<!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> es probabilemente un sito secur, ma un connexion secur non poteva esser establite. Iste problema es causate per <span class='mitm-name'/>, que es o un software in tu computator o tu rete.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "Si le software de tu antivirus include un functionalitate que scande connexiones cifrate (generalmente appellate “scansion web” o “scansion http”) tu pote tentar inactivar ille functionalitate. SI illo non succede, tu pote tentar remover e reinstallar le software antivirus. ">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "Si tu es in un rete corporative, tu pote contactar tu assistentia technic.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "Si tu non cognosce <span class='mitm-name'/>, tunc isto pote esser un attacco e tu non deberea sequer al sito.">
+<!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "Si tu non cognosce <span class='mitm-name'/>, tunc isto pote esser un attacco, e il non ha qualcosa que tu pote facer pro acceder al sito.">
 
 <!ENTITY clockSkewError.title "Le horologio de tu computator es errate">
 <!ENTITY clockSkewError.longDesc "Tu computator signa que es <span id='wrongSystemTime_systemDate1'/>. isto impedi a &brandShortName; de connecter se con securitate. Pro visitar <span class='hostname'></span>, actualisa le horologio de tu computator al data, tempore e fuso horari currente. Pois refresca <span class='hostname'></span>.">
