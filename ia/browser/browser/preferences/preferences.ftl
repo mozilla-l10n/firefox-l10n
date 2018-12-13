@@ -727,12 +727,16 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = Personalisate
     .accesskey = P
+content-blocking-standard-description = Le traciatores cognoscite es blocate solmente in le fenestras private.
+content-blocking-standard-desc = Equilibrio perfecte inter protection e rendimento. Permitte alcun traciatores a fin que le sitos web functiona correctemente.
+content-blocking-strict-desc = Bloca tote le traciatores que { -brand-short-name } detecta. Pote impedir alcun sitos de functionar.
 content-blocking-custom-desc = Elige que blocar.
 content-blocking-private-trackers = Traciatores note solo in fenestras private
 content-blocking-third-party-cookies = Cookies traciator de tertie partes
 content-blocking-all-windows-trackers = Traciatores note in tote le fenestras
 content-blocking-all-third-party-cookies = Tote le cookies de tertie partes
 content-blocking-warning-title = Attention!
+content-blocking-warning-desc = Blocar cookies e traciatores pote impedir le functionamento de alcun sitos. Il es facile inactiva le blocar de sitos que tu fide.
 content-blocking-learn-how = Apprender como
 content-blocking-trackers-label =
     .label = Traciatores
@@ -859,6 +863,8 @@ collection-health-report-link = Saper plus
 collection-studies =
     .label = Autorisar { -brand-short-name } a installar e a lancear studios
 collection-studies-link = Consultar le studios de { -brand-short-name }
+addon-recommendations =
+    .label = Permitte { -brand-short-name } de facer recommendationes personalisate pro le extensiones
 addon-recommendations-link = Saper plus
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
