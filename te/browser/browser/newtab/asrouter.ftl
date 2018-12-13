@@ -8,6 +8,8 @@ cfr-doorhanger-extension-cancel-button = ఇప్పుడు వద్దు
     .accesskey = N
 cfr-doorhanger-extension-ok-button = ఇప్పుడే చేర్చు
     .accesskey = A
+cfr-doorhanger-extension-never-show-recommendation = ఈ సిఫార్సును నాకు చూపించవద్దు
+    .accesskey = S
 cfr-doorhanger-extension-learn-more-link = ఇంకా తెలుసుకోండి
 
 ## Add-on statistics
