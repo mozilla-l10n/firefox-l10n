@@ -2,11 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY loginAtStartup.label          "Periksa artikel baru saat memulai aplikasi">
-<!ENTITY loginAtStartup.accesskey      "P">
 
 
 <!ENTITY manageSubscriptions.label     "Kelola Langganan…">
 <!ENTITY manageSubscriptions.accesskey "K">
 
+<!ENTITY feedWindowTitle.label         "Wisaya Akun Umpan">
 <!ENTITY feeds.accountName             "Feed Blog &amp; Berita">
