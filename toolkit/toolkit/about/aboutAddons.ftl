@@ -4,6 +4,9 @@
 
 addons-window =
     .title = مدیریت افزودنی‌ها
+search-header =
+    .placeholder = جست‌ و جو addons.mozilla.org
+    .searchbuttonlabel = جست و جو
 search-header-shortcut =
     .key = f
 loading-label =
@@ -21,6 +24,12 @@ list-empty-button =
 install-addon-from-file =
     .label = نصب افزودنی از یک پرونده…
     .accesskey = ن
+help-button = پشتیبانی افزونه
+preferences =
+    { PLATFORM() ->
+        [windows] گزینه ها{ -brand-short-name }
+       *[other] ترجیحات{ -brand-short-name }
+    }
 tools-menu =
     .tooltiptext = ابزارهای مخصوص همهٔ افزودنی‌ها
 show-unsigned-extensions-button =

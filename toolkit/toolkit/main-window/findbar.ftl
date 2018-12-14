@@ -15,6 +15,14 @@ findbar-highlight-all =
     .label = پررنگ‌سازی همه
     .accesskey = ه
     .tooltiptext = پررنگ‌سازی همهٔ رخدادهای عبارت
+findbar-highlight-all2 =
+    .label = برجسته سازی همه
+    .accesskey =
+        { PLATFORM() ->
+            [macos] I
+           *[other] a
+        }
+    .tooltiptext = برجسته سازی تمامی رخدادهای این عبارت را
 findbar-case-sensitive =
     .label = تطابق بزرگی و کوچکی حروف
     .accesskey = ط
