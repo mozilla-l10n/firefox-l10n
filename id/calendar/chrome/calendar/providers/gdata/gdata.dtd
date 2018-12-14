@@ -16,4 +16,7 @@
 <!ENTITY gdata.reminder.default "Pengingat Baku">
 <!ENTITY gdata.reminder.action.sms.label "Kirimkan SMS">
 
+<!ENTITY gdata.wizard.session.description "Silakan pilih sesi yang ada atau masukkan alamat surel Anda untuk membuat sesi baru. Anda hanya membutuhkan satu sesi per akun.">
+<!ENTITY gdata.wizard.calendars.description "Silakan pilih kalender dan daftar tugas yang ingin Anda langgani.">
 
+<!ENTITY gdata.wizard.nextstep.description "Silakan lanjut ke langkah selanjutnya untuk mengatur kalender Anda.">
