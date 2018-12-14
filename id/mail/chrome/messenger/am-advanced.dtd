@@ -1,11 +1,12 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from am-advanced.xul -->
+
 <!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
-
-
 <!ENTITY smtpServer.label "Pengaturan Server Pengirim (SMTP)">
+
 <!-- LOCALIZATION NOTE (smtpDescription.label): do not translate "SMTP" in below line -->
 
 <!ENTITY smtpListAdd.label  "Tambah…">
@@ -17,6 +18,7 @@
 <!ENTITY smtpListSetDefault.label "Atur menjadi Default">
 <!ENTITY smtpListSetDefault.accesskey "d">
 
+<!ENTITY serverDetails.label "Detail peladen yang dipilih:">
 <!ENTITY serverDescription.label "Keterangan: ">
 <!ENTITY serverName.label "Nama Server: ">
 <!ENTITY serverPort.label "Port: ">

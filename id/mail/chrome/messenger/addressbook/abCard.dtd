@@ -40,6 +40,7 @@
 <!ENTITY HomeZipCode.accesskey          "K">
 <!ENTITY HomeCountry.label              "Negara">
 <!ENTITY HomeCountry.accesskey          "n">
+<!ENTITY HomeWebPage.label              "Laman Web:">
 <!ENTITY In.label                       "">
 <!ENTITY Year.placeholder               "Tahun">
 <!ENTITY Or.value                       "atau">
@@ -57,6 +58,7 @@
 <!ENTITY WorkState.label                "Negara Bagian/Provinsi:">
 <!ENTITY WorkZipCode.label              "Kode Pos:">
 <!ENTITY WorkCountry.label              "Negara:">
+<!ENTITY WorkWebPage.label              "Laman Web:">
 
 <!ENTITY Other.tab                      "Lainnya">
 <!ENTITY Custom1.accesskey              "1">
@@ -81,5 +83,7 @@
 <!ENTITY ICQ.accesskey                  "I">
 
 <!ENTITY Photo.tab                      "Foto">
+<!ENTITY PhotoFile.label                "Di Komputer ini">
 <!ENTITY BrowsePhoto.label              "Jelajahi">
 <!ENTITY PhotoURL.label                 "Di Web">
+<!ENTITY PhotoDropTarget.label          "Seret foto baru ke sini">
