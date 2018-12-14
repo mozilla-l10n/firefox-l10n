@@ -6,6 +6,7 @@
 <!ENTITY PrimaryEmail.label                    "Surel">
 <!ENTITY Company.label                         "Organisasi">
 <!ENTITY _PhoneticName.label                   "Nama Fonetis">
+<!ENTITY SecondEmail.label                     "Surel Tambahan">
 <!ENTITY Department.label                      "Departemen">
 <!ENTITY JobTitle.label                        "Gelar">
 <!ENTITY CellularNumber.label                  "Seluler">

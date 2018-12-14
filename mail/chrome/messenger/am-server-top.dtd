@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- extracted from am-server-top.xul -->
 
+<!-- extracted from am-server-top.xul -->
 
 <!ENTITY messageStorage.label "Penyimpanan Pesan">
 <!ENTITY securitySettings.label "Pengaturan Keamanan">
@@ -15,7 +15,7 @@
 <!ENTITY port.label "Port:">
 <!ENTITY port.accesskey "P">
 <!ENTITY serverPortDefault.label "Default:">
-<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
+<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammar dependency
         For example, in Japanese cases:
                 biffStart.label "every"
                 biffEnd.label   "minutes for new messages Check"
@@ -23,8 +23,6 @@
 <!ENTITY biffStart.label "Periksa pesan baru setiap ">
 <!ENTITY biffStart.accesskey "P">
 <!ENTITY biffEnd.label "menit">
-
-
 <!ENTITY connectionSecurity.label "Keamanan sambungan:">
 <!ENTITY connectionSecurity.accesskey "u">
 <!ENTITY connectionSecurityType-0.label "Tidak ada">
@@ -61,7 +59,7 @@
 <!ENTITY loginAtStartup.accesskey "P">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
-   of messages between them
+    of messages between them
 -->
 <!ENTITY maxMessagesStart.label "Tanyakan sebelum mengunduh pesan lebih dari">
 <!ENTITY maxMessagesStart.accesskey "m">
@@ -76,7 +74,6 @@
 <!ENTITY abbreviateOff.label "Singkatan (Contohnya, 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Khusus…">
 <!ENTITY advancedButton.accesskey "K">
-
 <!ENTITY localPath.label "Direktori lokal:">
 <!ENTITY localFolderPicker.label "Pilih Direktori Lokal">
 <!ENTITY browseFolder.label "Telusuri…">
@@ -86,7 +83,5 @@
 
 <!ENTITY accountTitle.label "Setelan Akun">
 <!ENTITY accountSettingsDesc.label "Akun berikut merupakan akun khusus. Tidak ada identitas yang terkait dengan akun ini.">
-
-
-
-
+<!ENTITY mboxStore2.label "Berkas per folder (mbox)">
+<!ENTITY maildirStore.label "Berkas per pesan (maildir)">

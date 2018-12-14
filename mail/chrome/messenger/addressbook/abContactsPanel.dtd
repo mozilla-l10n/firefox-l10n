@@ -3,17 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-
-
-
-
-
-
-
+<!ENTITY abContextMenuButton.tooltip        "Tampilkan Menu Konteks Buku Alamat">
 <!ENTITY addressbookPicker.label            "Buku Alamat:">
 <!ENTITY addressbookPicker.accesskey        "B">
-
-
+<!ENTITY searchContacts.label               "Cari Kontak:">
 <!ENTITY SearchNameOrEmail.label            "Nama atau Email">
 
 <!ENTITY addtoToFieldMenu.label             "Tambahkan ke kotak Kepada">
@@ -24,13 +17,6 @@
 <!ENTITY addtoBccFieldMenu.accesskey        "B">
 <!ENTITY deleteAddrBookCard.label           "Hapus">
 <!ENTITY deleteAddrBookCard.accesskey       "H">
-
-
-
-
-
-
-
 
 
 <!ENTITY toButton.label                     "Tambahkan ke Kepada:">

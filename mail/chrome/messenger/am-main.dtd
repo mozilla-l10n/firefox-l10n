@@ -41,3 +41,4 @@
 <!ENTITY smtpName.accesskey "P">
 <!ENTITY smtpDefaultServer.label "Gunakan Server Default">
 
+<!ENTITY smtpServerEdit.label "Sunting peladen SMTP…">
