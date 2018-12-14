@@ -17,7 +17,6 @@ policy-BlockAboutConfig = Chặn truy cập vào trang about:config.
 policy-BlockAboutProfiles = Chặn truy cập vào trang about:profiles.
 policy-BlockAboutSupport = Chặn truy cập vào trang about:support.
 policy-Bookmarks = Tạo trang đánh dấu trong thanh công cụ đánh dấu trang, bảng chọn trang đánh dấu hoặc một thư mục xác định bên trong chúng.
-policy-Certificates = Có sử dụng chứng chỉ tích hợp hay không. Chính sách này chỉ dành cho Windows tại thời điểm này.
 policy-CertificatesDescription = Thêm chứng chỉ hoặc sử dụng chứng chỉ có sẵn.
 policy-Cookies = Cho phép hoặc từ chối các trang web lưu cookie.
 policy-DisableAppUpdate = Chặn việc cập nhật trình duyệt.
@@ -37,7 +36,6 @@ policy-DisableProfileImport = Vô hiệu hóa lệnh Nhập dữ liệu từ tr�
 policy-DisableProfileRefresh = Vô hiệu hóa nút Làm mới { -brand-short-name } trong trang about:support.
 policy-DisableSafeMode = Tắt tính năng này để khởi động lại ở Chế độ an toàn. Lưu ý: phím Shift để vào Chế độ an toàn chỉ có thể tắt trên Windows bằng chính sách nhóm.
 policy-DisableSecurityBypass = Ngăn người dùng bỏ qua một số cảnh báo bảo mật nhất định.
-policy-DisableSetDesktopBackground = Vô hiệu hóa lệnh Đặt ảnh làm hình nền desktop trên bảng chọn.
 policy-DisableSetAsDesktopBackground = Vô hiệu hóa lệnh Đặt nhiều ảnh làm hình nền desktop trong bản chọn.
 policy-DisableSystemAddonUpdate = Ngăn trình duyệt cài đặt và cập nhật tiện ích hệ thống.
 policy-DisableTelemetry = Tắt Telemetry.
@@ -45,6 +43,12 @@ policy-DisplayBookmarksToolbar = Hiển thị mặc định Thanh công cụ Boo
 policy-DisplayMenuBar = Hiển thị thanh bảng chọn theo mặc định.
 policy-DNSOverHTTPS = Cấu hình DNS qua HTTPS.
 policy-DontCheckDefaultBrowser = Tắt kiểm tra trình duyệt mặc định khi khởi động.
+# “lock” means that the user won’t be able to change this setting
+policy-EnableTrackingProtection = Bật hoặc tắt Chặn nội dung và tùy chọn khóa nó.
+# A “locked” extension can’t be disabled or removed by the user. This policy
+# takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
+# English or translate them as verbs.
+policy-Extensions = Cài đặt, gỡ cài đặt hoặc khóa tiện ích mở rộng. Tùy chọn Cài đặt lấy URL hoặc đường dẫn làm tham số. Các tùy chọn Gỡ cài đặt và Khóa lấy ID tiện ích mở rộng.
 policy-FlashPlugin = Cho phép hoặc từ chối việc sử dụng phần bổ trợ Flash.
 policy-HardwareAcceleration = Nếu false, hãy tắt chế độ tăng tốc phần cứng.
 # “lock” means that the user won’t be able to change this setting
