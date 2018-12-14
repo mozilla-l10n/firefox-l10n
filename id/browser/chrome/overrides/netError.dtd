@@ -106,7 +106,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.expiredCert.introPara "&brandShortName; mendeteksi masalah dan tidak melanjutkan ke <span class='hostname'/>. Situs web salah dikonfigurasi atau jam komputer Anda disetel ke waktu yang salah.">
 <!ENTITY certerror.expiredCert.secondPara2 "Sepertinya sertifikat situs ini telah kedaluwarsa, yang mencegah &brandShortName; tersambung secara aman. Jika Anda mengunjungi situs ini, penyerang dapat mencoba mencuri informasi seperti kata sandi, surel, atau rincian kartu kredit Anda.">
-<!ENTITY certerror.expiredCert.sts.secondPara "Sepertinya sertifikat situs web telah kedaluwarsa, yang menghalangi &brandShortName; dari menghubungkan dengan aman.">
+<!ENTITY certerror.expiredCert.sts.secondPara "Sepertinya sertifikat situs web telah kedaluwarsa, yang menghalangi &brandShortName; untuk menyambungkan dengan aman.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Apa yang bisa Anda lakukan mengenai masalah ini?">
 
@@ -167,8 +167,8 @@ was trying to connect. -->
 
 <!ENTITY blockedByPolicy.title "Laman Diblokir">
 
-<!ENTITY certerror.mitm.title "Perangkat Lunak Menghalangi &brandShortName; dari Terhubung dengan Aman ke Situs Ini">
-<!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "Jika perangkat lunak antivirus Anda menyertakan fitur pemindai koneksi terenkripsi (sering disebut “pemindaian web” atau “pemaindaian https”), Anda dapat menonaktifkan fitur ini. Jika tidak berhasil, Anda dapat menghapus dan menginstal ulang perangkat lunak antivirus.">
+<!ENTITY certerror.mitm.title "Perangkat Lunak Menghalangi &brandShortName; untuk Tersambung dengan Aman ke Situs Ini">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "Jika perangkat lunak antivirus Anda menyertakan fitur pemindai koneksi terenkripsi (sering disebut “pemindaian web” atau “pemindaian https”), Anda dapat menonaktifkan fitur ini. Jika tidak berhasil, Anda dapat menghapus dan menginstal ulang perangkat lunak antivirus.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "Jika Anda berada di jaringan perusahaan, Anda dapat menghubungi departemen TI Anda.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "Jika Anda tidak akrab dengan <span class='mitm-name'/>, bisa jadi ini sebuah serangan dan Anda sebaiknya tidak melanjutkan ke situs.">
 <!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "Jika Anda tidak akrab dengan <span class='mitm-name'/>, bisa jadi ini sebuah serangan, dan tidak ada yang dapat Anda lakukan untuk mengakses situs.">
