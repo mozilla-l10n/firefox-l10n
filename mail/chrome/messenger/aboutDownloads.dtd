@@ -8,6 +8,8 @@
      The show and showMac commands are never shown together, thus they can share
      the same access key (though the two access keys can also be different).
      -->
+<!ENTITY cmd.showMac.label                         "Tampilkan di Finder">
 <!ENTITY cmd.open.label                            "Buka">
 <!ENTITY cmd.open.accesskey                        "B">
+<!ENTITY cmd.removeFromHistory.label               "Hapus dari Riwayat">
 <!ENTITY cmd.searchDownloads.label                 "Cari…">
