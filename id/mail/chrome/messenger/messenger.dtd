@@ -69,6 +69,7 @@
 <!ENTITY offlineGoOfflineCmd.accesskey "L">
 <!ENTITY synchronizeOfflineCmd.label "Unduh/Sinkron Sekarang…">
 <!ENTITY synchronizeOfflineCmd.accesskey "S">
+<!ENTITY settingsOfflineCmd2.label "Pengaturan Luring">
 <!ENTITY downloadSelectedCmd.label "Ambil Pesan Terpilih">
 <!ENTITY downloadSelectedCmd.accesskey "l">
 <!ENTITY downloadStarredCmd.label "Ambil Pesan dengan Bintang">
@@ -153,6 +154,7 @@
 <!ENTITY favoriteFolders.accesskey "F">
 <!ENTITY recentFolders.label "Terbaru">
 <!ENTITY recentFolders.accesskey "T">
+<!ENTITY compactVersion.label "Tampilan Ringkas">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Urut berdasar">
@@ -292,6 +294,7 @@
 <!ENTITY prevUnreadMsgCmd.label "Pesan Belum Dibaca">
 <!ENTITY prevUnreadMsgCmd.accesskey "P">
 <!ENTITY prevUnreadMsgCmd.key "p">
+<!ENTITY goForwardCmd.label "Teruskan">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY goBackCmd.label "Mundur">
 <!ENTITY goBackCmd.accesskey "M">
@@ -338,6 +341,9 @@
 <!ENTITY forwardAsMenu.label "Teruskan Sebagai">
 <!ENTITY forwardAsMenu.accesskey "r">
 <!ENTITY forwardAsAttachmentCmd.label "Lampiran">
+<!ENTITY editAsNewMsgCmd.label "Sunting sebagai Pesan Baru">
+<!ENTITY editTemplateMsgCmd.label "Sunting Templat">
+<!ENTITY newMsgFromTemplateCmd.label "Pesan Baru dari Templat">
 <!-- do not change "VK_RETURN" -->
 <!ENTITY createFilter.label "Buat Filter dari Pesan…">
 <!ENTITY createFilter.accesskey "a">
@@ -352,6 +358,7 @@
 <!ENTITY moveToFolderAgain.label "Pindahkan Lagi">
 <!ENTITY moveToFolderAgain.accesskey "L">
 <!ENTITY moveToFolderAgainCmd.key "m">
+<!ENTITY killThreadMenu.label "Abaikan Utas">
 <!ENTITY killThreadMenu.key "k">
 <!ENTITY killSubthreadMenu.label "Abaikan Sub Utas">
 <!ENTITY killSubthreadMenu.accesskey "S">
@@ -400,10 +407,10 @@
 <!ENTITY openMessageWindowCmd.label "Buka Pesan">
 <!ENTITY openMessageWindowCmd.accesskey "P">
 <!ENTITY openMessageWindowCmd.key "o">
-<!ENTITY openConversationCmd.label "Buka Pesan dalam Mode Percakapan">
-<!ENTITY openConversationCmd.accesskey "k">
-<!ENTITY openConversationCmd.key "c">
+<!ENTITY openInConversationCmd.label "Tampilkan dalam Mode Percakapan">
 <!ENTITY openAttachmentListCmd.label "Lampiran">
+<!ENTITY openFeedWebPage.label "Buka sebagai Laman Web">
+<!ENTITY openFeedSummary.label "Buka sebagai Ringkasan">
 <!ENTITY openFeedWebPageInMP.label "Ganti antara Laman Web dan Ringkasan pada Panel Pesan">
 <!ENTITY openFeedWebPageInMP.accesskey "G">
 
@@ -420,6 +427,7 @@
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY addons.label "Pengaya">
 <!ENTITY addons.accesskey "P">
+<!ENTITY addonPrefsUnix.label "Preferensi Pengaya">
 <!ENTITY activitymanager.label "Pengelola Aktivitas">
 <!ENTITY activitymanager.accesskey "v">
 <!ENTITY imAccountsStatus.label "Status ngobrol">
@@ -443,12 +451,16 @@
 <!ENTITY deleteJunk.accesskey "l">
 <!ENTITY importCmd.label "Impor…">
 <!ENTITY importCmd.accesskey "I">
+<!ENTITY clearRecentHistory.label "Bersihkan Riwayat Terakhir…">
+<!ENTITY accountManagerCmd2.label "Pengaturan Akun">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey):
      Belongs to accountManagerCmd.label, which is placed under the Edit menu
      on Unix systems
   -->
 
 <!-- Developer Tools Submenu -->
+<!ENTITY devtoolsMenu.label "Peralatan Pengembang">
+<!ENTITY devToolboxCmd.label "Kotak Peralatan Pengembang">
 <!ENTITY debugAddonsCmd.label "Pengaya Awakutu">
 <!ENTITY errorConsoleCmd.label "Konsol Kesalahan">
 <!ENTITY errorConsoleCmd.accesskey "K">
@@ -540,6 +552,9 @@
 
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Pesan Baru">
+<!ENTITY appmenuEditMenu.label "Sunting">
+<!ENTITY appmenuSelectThread.label "Pilih Utas">
+<!ENTITY appmenuSelectFlagged.label "Pilih Pesan Berbintang">
 
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "Tag baru…">
@@ -548,11 +563,13 @@
 <!-- Folder Pane -->
 <!ENTITY folderNameColumn.label "Nama">
 <!ENTITY folderUnreadColumn.label "Belum Dibaca">
+<!ENTITY folderTotalColumn.label "Total">
 <!ENTITY folderSizeColumn.label "Ukuran">
 
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Ambil Pesan">
 <!ENTITY folderContextGetMessages.accesskey "A">
+<!ENTITY folderContextOpenInNewWindow.label "Buka di Jendela Baru">
 <!ENTITY folderContextOpenNewTab.label "Buka di Tab Baru">
 <!ENTITY folderContextOpenNewTab.accesskey "T">
 <!ENTITY folderContextNew.label "Buat Subfolder baru…">
@@ -613,6 +630,8 @@
 <!ENTITY statusColumn.label "Status">
 <!ENTITY sizeColumn.label "Ukuran">
 <!ENTITY junkStatusColumn.label "Status Junk">
+<!ENTITY unreadColumn.label "Belum Dibaca">
+<!ENTITY totalColumn.label "Total">
 <!ENTITY readColumn.label "Sudah Dibaca">
 <!ENTITY receivedColumn.label "Diterima">
 <!ENTITY starredColumn.label "Bintang">
@@ -631,12 +650,15 @@
 <!ENTITY accountColumn2.tooltip "Urut berdasarkan akun">
 <!ENTITY statusColumn2.tooltip "Urut berdasarkan status">
 <!ENTITY sizeColumn2.tooltip "Urut berdasarkan ukuran">
+<!ENTITY unreadColumn2.tooltip "Jumlah pesan yang belum dibaca di utas">
+<!ENTITY totalColumn2.tooltip "Jumlah total pesan dalam utas">
 <!ENTITY receivedColumn2.tooltip "Urut berdasarkan tanggal diterima">
 <!ENTITY starredColumn2.tooltip "Urut berdasarkan bintang">
 <!ENTITY locationColumn2.tooltip "Urut berdasarkan lokasi">
 <!ENTITY attachmentColumn2.tooltip "Urut berdasarkan lampiran">
 
 <!-- Thread Pane Context Menu -->
+<!ENTITY contextNewMsgFromTemplate.label "Pesan Baru dari Templat">
 <!ENTITY contextOpenNewWindow.label "Buka Pesan di Jendela Baru">
 <!ENTITY contextOpenNewWindow.accesskey "J">
 <!-- The contextOpenNewTab.accesskey ("T") potentially conflicts with
@@ -647,6 +669,8 @@
 <!ENTITY contextOpenNewTab.accesskey "T">
 <!ENTITY contextOpenConversation.label "Buka Pesan dalam Mode Percakapan">
 <!ENTITY contextOpenConversation.accesskey "n">
+<!ENTITY contextEditMsgAsNew.label "Sunting sebagai Pesan Baru">
+<!ENTITY contextEditTemplate.label "Sunting Templat">
 <!ENTITY contextArchive.label "Arsipkan">
 <!ENTITY contextArchive.accesskey "A">
 <!ENTITY contextReplySender.label "Hanya Balas ke Pengirim">
@@ -660,6 +684,8 @@
 <!ENTITY contextForward.label "Teruskan">
 <!ENTITY contextForward.accesskey "T">
 <!ENTITY contextForwardAsMenu.label "Teruskan Sebagai">
+<!ENTITY contextForwardAsAttachmentItem.label "Lampiran">
+<!ENTITY contextMultiForwardAsAttachment.label "Teruskan sebagai Lampiran">
 <!ENTITY contextMoveMsgMenu.label "Pindahkan Ke">
 <!ENTITY contextMoveMsgMenu.accesskey "P">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Terbaru">
@@ -667,6 +693,7 @@
 <!ENTITY contextCopyMsgMenu.label "Salin Ke">
 <!ENTITY contextCopyMsgMenu.accesskey "S">
 <!ENTITY contextKillThreadMenu.label "Abaikan Utas">
+<!ENTITY contextKillSubthreadMenu.label "Abaikan Subutas">
 <!-- LOCALIZATION NOTE (contextWatchThreadMenu.accesskey):
      In the en-US locale we ran out of access keys, so there is an empty access key for
      Watch Thread. Localizers can pick a suitable key
@@ -769,6 +796,7 @@
 <!ENTITY AddToAddressBook.accesskey "a">
 <!ENTITY AddDirectlyToAddressBook.label "Tambahkan ke Buku Alamat">
 <!ENTITY AddDirectlyToAddressBook.accesskey "a">
+<!ENTITY EditContact1.label "Sunting Kontak">
 <!ENTITY ViewContact.label "Tampilkan Kenalan">
 <!ENTITY ViewContact.accesskey "k">
 <!ENTITY SubscribeToNewsgroup.label "Berlangganan Newsgroup ini">
