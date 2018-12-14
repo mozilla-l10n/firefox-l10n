@@ -6,6 +6,7 @@
 ## UI strings for the simplified onboarding modal
 
 onboarding-button-label-try-now = Jetzt ausprobieren
+onboarding-button-label-get-started = Erste Schritte
 onboarding-welcome-header = Willkommen bei { -brand-short-name }
 onboarding-start-browsing-button-label = Lossurfen
 
@@ -26,3 +27,6 @@ onboarding-ghostery-title = Ghostery
 onboarding-ghostery-text = Surfen Sie schneller, eleganter und sicherer mit Erweiterungen wie z.B. Ghostery, welche lästige Werbung für Sie blockiert.
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Synchronisieren
+
+## Message strings belonging to the Return to AMO flow
+
