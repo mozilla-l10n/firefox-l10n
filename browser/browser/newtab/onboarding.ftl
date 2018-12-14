@@ -28,3 +28,14 @@ onboarding-ghostery-text = Duyệt nhanh hơn, thông minh hơn hoặc an toàn 
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Đồng bộ
 onboarding-fxa-text = Đăng ký tài khoản { -fxaccount-brand-name } để đồng bộ dấu trang, mật khẩu và các thẻ đang mở của bạn khi sử dụng { -brand-short-name } ở mọi nơi.
+
+## Message strings belonging to the Return to AMO flow
+
+return-to-amo-sub-header = Thật tuyệt, bạn đã có { -brand-short-name }
+# <icon></icon> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-header = Bây giờ chúng tôi sẽ cài đặt các tiện ích <icon></icon><b>{ $addon-name }.</b>
+return-to-amo-extension-button = Thêm tiện ích mở rộng
+return-to-amo-get-started-button = Bắt đầu với { -brand-short-name }
