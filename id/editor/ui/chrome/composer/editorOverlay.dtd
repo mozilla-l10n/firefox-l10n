@@ -81,6 +81,9 @@
 
 <!ENTITY fontSizeMenu.label "Ukuran">
 <!ENTITY fontSizeMenu.accesskey "U">
+<!ENTITY size-smallCmd.label "Kecil">
+<!ENTITY size-mediumCmd.label "Sedang">
+<!ENTITY size-largeCmd.label "Besar">
 
 <!-- Font Style SubMenu -->
 <!ENTITY fontStyleMenu.label "Gaya Teks">

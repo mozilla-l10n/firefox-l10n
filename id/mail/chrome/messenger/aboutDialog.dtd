@@ -19,12 +19,14 @@
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to https://www.mozilla.org/. -->
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
+<!ENTITY community.exp.creditsLink  "komunitas global">
 
 <!ENTITY community.start2           "&brandShortName; didesain oleh ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to https://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          ", sebuah ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
+<!ENTITY community.creditsLink      "komunitas global">
 
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to the thunderbird donation page -->
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to https://www.thunderbird.net/get-involved/. -->
