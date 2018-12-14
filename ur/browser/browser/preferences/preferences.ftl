@@ -304,6 +304,8 @@ home-restore-defaults =
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
     .label = Firefox کا ابتائی صفحہ
+home-mode-choice-custom =
+    .label = مخصوص …URLs
 home-mode-choice-blank =
     .label = خالی صفحہ
 home-homepage-custom-url =
@@ -550,6 +552,7 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = ٹیب کھولیے
     .accesskey = O
+addressbar-suggestions-settings = تلاش کے انجن کی تجاویز کے لئے ترجیحات کو بدلیں
 
 ## Privacy Section - Content Blocking
 
@@ -596,6 +599,7 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = مخصوص
     .accesskey = C
+content-blocking-custom-desc = چنیں کیا بلاک کرنا ہے
 content-blocking-learn-how = جانیں کہ کس طرح
 content-blocking-trackers-label =
     .label = ٹریکرس
@@ -606,6 +610,7 @@ content-blocking-tracking-protection-option-all-windows =
 content-blocking-option-private =
     .label = صرف نجی ونڈوں میں
     .accesskey = p
+content-blocking-tracking-protection-change-block-list = بلاک فہرست تبدیل کریں
 content-blocking-third-party-cookies-label =
     .label = تیسری تنظیم کے کوکیز
     .accesskey = C
@@ -692,6 +697,7 @@ permissions-a11y-privacy-link = مزید سیکھیں
 
 collection-privacy-notice = رازداری کا نوٹس
 collection-health-report-link = مزید سیکھیں
+addon-recommendations-link = مزید سیکھیں
 collection-browser-errors-link = مزید سیکھیں
 collection-backlogged-crash-reports-link = مزید سیکھیں
 
