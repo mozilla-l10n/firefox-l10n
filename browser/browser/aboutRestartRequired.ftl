@@ -4,3 +4,4 @@
 
 restart-required-title = Ríquese'l reaniciu
 restart-required-header = Perdona, precisamos facer una cosina pa poder siguir.
+restart-required-intro = Acabamos d'instalar un anovamientu en segundu planu. Fai clic en Reaniciar { -brand-short-name } pa terminar d'aplicala.

@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restore-page-tab-title = Restaurar Sesión
+restore-page-hide-tabs = Anubrir llingüetes anteriores
+restore-page-show-tabs = Ver llingüetes anteriores
 # When tabs are distributed across multiple windows, this message is used as a
 # header above the group of tabs for each window.
 #
