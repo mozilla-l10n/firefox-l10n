@@ -61,5 +61,6 @@
 
 <!-- LOCALIZATION NOTE: When the number of messages can't be determined, this string is displayed as the number -->
 <!ENTITY numberUnknown.label                     "tidak diketahui">
+<!ENTITY sizeOnDisk.label                        "Ukuran pada diska:">
 <!-- LOCALIZATION NOTE: When the size can't be determined, this string is displayed as the size -->
 <!ENTITY sizeUnknown.label                       "tidak diketahui">
