@@ -12,7 +12,6 @@
 <!ENTITY advanced.label "উচ্চপর্যায়">
 <!ENTITY continue2.label "আরও…">
 <!ENTITY moreInformation.label "অধিক তথ্য">
-
 <!ENTITY viewCertificate.label "সার্টিফিকেট প্রদর্শন">
 
 <!-- Specific error messages -->
@@ -102,9 +101,6 @@ will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "<span class='hostname'/> এর মালিক তাদের ওয়েবসাইটটি ত্রুটিপূর্ণভাবে কনফিগার করেছেন।  আপনার তথ্যকে চুরি হয়ে যাওয়া থেকে বাঁচানোর জন্য &brandShortName; ওয়েবসাইটটির সাথে যুক্ত করা হয়নি।">
 
-<!ENTITY certerror.expiredCert.secondPara "এই সমস্যাটি সবচেয়ে বড় সম্ভাব্য কারণ হতে পারে আপনার কম্পিউটারের ঘড়ি ভুল সময়ে সেট করা আছে, যা &brandShortName; নিরাপদ সংযোগ করে।">
-
-
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "এ ব্যাপারে আপনি কি করতে পারেন?">
 
@@ -160,6 +156,7 @@ was trying to connect. -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> মেয়াদহীন নিরাপত্তা প্রযুক্তি ব্যবহার করছে যা আক্রমণের শিকার হতে পারে। আপনি হয়তো একে নিরাপদ মনে করছেন, কিন্তু একজন আক্রমণকারী খুব সহজেই আপনার তথ্য জেনে নিতে পারবে। ওয়েবসাইটের এডমিন এই সার্ভারের নিরাপত্তা ত্রুটি সারানোর আগ পর্যন্ত আপনি ভিজিট করতে পারবেন না।</p><p>Error code: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "ব্লক করা পাতা">
+
 
 <!ENTITY clockSkewError.title "আপনার কম্পিউটারের ঘড়ি ভুল">
 <!ENTITY clockSkewError.longDesc "আপনার কম্পিউটার মনে করে এটি <span id='wrongSystemTime_systemDate1'/>, যা &brandShortName; কে নিরাপদভাবে সংযুক্ত হওয়া থেকে বিরত রাখছে। <span class='hostname'></span> এ ভিজিট করতে হলে, আপনার সিস্টেম সেটিংসে গিয়ে আপনার কম্পিউটারের ঘড়ির বর্তমান তারিখ, সময় এবং সময় অঞ্চল আপডেট করুন এবং তারপর <span class='hostname'></span> রিফ্রেশ করুন।">
