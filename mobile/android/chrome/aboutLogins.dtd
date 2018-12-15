@@ -7,4 +7,4 @@
 <!ENTITY aboutLogins.title                       "લૉગિન">
 <!ENTITY aboutLogins.update                      "સુધારો">
 <!ENTITY aboutLogins.emptyLoginText              "તમારા લૉગિન સુરક્ષિત રાખો">
-<!ENTITY aboutLogins.emptyLoginHint              "લૉગિન અને પ્રમાણપત્રો જે તમે &brandShortName; ઉપયોગ કરીને સાચવો છો અહીં બતાવશે.">
+<!ENTITY aboutLogins.emptyLoginHint              "લૉગિન અને પ્રમાણપત્રો જે તમે &brandShortName; નો ઉપયોગ કરીને સાચવો છો એ અહીં બતાવશે.">
