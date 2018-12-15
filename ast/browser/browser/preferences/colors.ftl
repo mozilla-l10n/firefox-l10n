@@ -11,8 +11,12 @@ colors-window =
         }
 colors-close-key =
     .key = w
+colors-page-override = Sustitúi los colores qu'especifica la páxina pola seleición anterior
+    .accesskey = S
 colors-page-override-option-always =
     .label = Siempres
+colors-page-override-option-auto =
+    .label = Namái con temes d'altu contraste
 colors-page-override-option-never =
     .label = Enxamás
 colors-text-and-background = Testu y fondu
