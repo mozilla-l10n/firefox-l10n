@@ -286,9 +286,19 @@ update-application-auto =
 update-application-check-choose =
     .label = Guetar anovamientos, pero permitir escoyer si instalalos
     .accesskey = G
+update-application-manual =
+    .label = Nun guetar por anovamientos (nun se recomienda)
+    .accesskey = N
 update-application-use-service =
     .label = Usar serviciu en segundu planu pa instalar los anovamientos
     .accesskey = v
+update-enable-search-update =
+    .label = Anovar automáticamente los guetadores
+    .accesskey = A
+update-pref-write-failure-title = Fallu d'escritura
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = Nun pue guardase la preferencia. Nun pudo escribise al ficheru: { $path }
 
 ## General Section - Performance
 
@@ -301,6 +311,14 @@ performance-settings-learn-more = Deprendi más
 performance-allow-hw-accel =
     .label = Usar aceleración de hardware cuando tea disponible
     .accesskey = h
+performance-limit-content-process-option = Llende de procesos de conteníu
+    .accesskey = L
+performance-limit-content-process-enabled-desc = Más procesos de conteníu puen ameyorar el rindimientu al usar múltiples llingüetes, pero tamién van usar más memoria.
+performance-limit-content-process-blocked-desc = Modificar el númberu de procesos de conteníu namái ye dable con { -brand-short-name } multiprocesu. <a data-l10n-name="learn-more">Saber cómo comprobar si'l multiprocesu ta activáu</a>
+# Variables:
+#   $num - default value of the `dom.ipc.processCount` pref.
+performance-default-content-process-count =
+    .label = { $num } (predetermináu)
 
 ## General Section - Browsing
 
@@ -320,6 +338,10 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Guetar el testu mientres s'escribe
     .accesskey = s
+browsing-cfr-recommendations =
+    .label = Recomendar estensiones mentanto se navega
+    .accesskey = R
+browsing-cfr-recommendations-learn-more = Deprendi más
 
 ## General Section - Proxy
 
@@ -339,6 +361,19 @@ home-new-windows-tabs-description2 = Escueyi lo que ves cuando abres la páxina 
 
 home-homepage-mode-label = Páxina d'aniciu y ventanes nueves
 home-newtabs-mode-label = Llingüetes nueves
+home-restore-defaults =
+    .label = Restaurar axustes predeterminaos
+    .accesskey = R
+# "Firefox" should be treated as a brand and kept in English,
+# while "Home" and "(Default)" can be localized.
+home-mode-choice-default =
+    .label = Aniciu de Firefox (predetermináu)
+home-mode-choice-custom =
+    .label = URLs personalizaes...
+home-mode-choice-blank =
+    .label = Páxina en blanco
+home-homepage-custom-url =
+    .placeholder = Apegar URL...
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -366,6 +401,16 @@ search-engine-default-desc = Escoyer el motor de gueta predetermináu a usar na 
 search-suggestions-option =
     .label = Apurrir suxerencies de gueta
     .accesskey = D
+search-show-suggestions-url-bar-option =
+    .label = Amosar suxerencies de gueta nos resultaos de la barra direiciones
+    .accesskey = A
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "ahead" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option =
+    .label = Amosar suxerencies de gueta enantes del historial nos resultaos de la barra direiciones
 search-suggestions-cant-show = Les suxerencies de gueta nun van amosase nos resultaos de la barra de direiciones porque configurasti { -brand-short-name } pa que nun recuerde l'historial.
 search-one-click-header = Motores de gueta nun clic
 search-one-click-desc = Escoyer los motores de gueta alternativos qu'apaecen baxo la barra de direiciones y la barra de gueta cuando entames a escribir una pallabra clave.
@@ -390,6 +435,7 @@ search-keyword-warning-bookmark = Esbillesti una pallabra clave qu'anguaño s'us
 
 ## Containers Section
 
+containers-back-link = « Dir atrás
 containers-header = Llingüetes contenedor
 containers-add-button =
     .label = Amestar contenedor nuevu
@@ -404,6 +450,11 @@ containers-remove-button =
 sync-signedout-caption = Lleva la web contigo
 sync-signedout-description = Sincroniza los tos marcadores, historial, llingüetes, contraseñes, add-ons y preferencies pente tolos tos preseos.
 sync-signedout-account-title = Coneutar con una { -fxaccount-brand-name }
+sync-signedout-account-create = ¿Nun tienes una cuenta? Entama agora
+    .accesskey = N
+sync-signedout-account-signin =
+    .label = Anicia sesión…
+    .accesskey = A
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -418,26 +469,70 @@ sync-mobile-promo = Baxa Firefox pa <img data-l10n-name="android-icon"/> <a data
 
 sync-profile-picture =
     .tooltiptext = Camudar semeya de perfil
+sync-disconnect =
+    .label = Desconeutar…
+    .accesskey = D
 sync-manage-account = Xestionar cuenta
     .accesskey = o
 sync-signedin-unverified = { $email } nun ta verificada.
 sync-signedin-login-failure = Anicia sesión pa reconeutate, por favor { $email }
+sync-resend-verification =
+    .label = Reunviar verificación
+    .accesskey = R
+sync-remove-account =
+    .label = Desaniciar cuenta
+    .accesskey = D
 sync-sign-in =
     .label = Aniciar sesión
     .accesskey = g
+sync-signedin-settings-header = Axustes de Sync
+sync-signedin-settings-desc = Escueyi qué sincronizar nos preseos usando { -brand-short-name }.
 sync-engine-bookmarks =
     .label = Marcadores
     .accesskey = m
 sync-engine-history =
     .label = Historial
     .accesskey = r
+sync-engine-tabs =
+    .label = Llingüetes abiertes
+    .tooltiptext = Una llista de lo que ta abierto en tolos preseos sincronizaos
+    .accesskey = L
+sync-engine-logins =
+    .label = Anicios de sesión
+    .tooltiptext = Nomes d'usuariu y contraseñes que guardasti
+    .accesskey = A
+sync-engine-addresses =
+    .label = Direiciones
+    .tooltiptext = Direiciones postales que guardasti (namái escritoriu)
+    .accesskey = D
+sync-engine-creditcards =
+    .label = Tarxetes de creitu
+    .tooltiptext = Nomes, númberos y dates de caducidá (namái escritoriu)
+    .accesskey = T
+sync-engine-addons =
+    .label = Complementos
+    .tooltiptext = Estensiones y temes pa Firefox d'escritoriu
+    .accesskey = C
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] Opciones
+           *[other] Preferencies
+        }
+    .tooltiptext = Configuración xeneral, de privacidá y de seguranza que cambiasti
+    .accesskey = O
 sync-device-name-header = Nome del preséu
+sync-device-name-change =
+    .label = Camudar nome del preséu…
+    .accesskey = C
 sync-device-name-cancel =
     .label = Encaboxar
     .accesskey = n
 sync-device-name-save =
     .label = Guardar
     .accesskey = v
+sync-mobilepromo-single = Coneutar otro preséu
+sync-mobilepromo-multi = Xestionar preseos
 sync-tos-link = Términos del serviciu
 sync-fxa-privacy-notice = Avisu de privacidá
 
@@ -447,6 +542,10 @@ privacy-header = Privacidá del restolador
 
 ## Privacy Section - Forms
 
+logins-header = Usuarios y contraseñes
+forms-ask-to-save-logins =
+    .label = Entrugar pa guardar contraseñes y anicios de sesión de sitios web
+    .accesskey = E
 forms-exceptions =
     .label = Esceiciones…
     .accesskey = s
@@ -480,10 +579,14 @@ history-remember-option-never =
     .label = Nun recordar historial
 history-remember-option-custom =
     .label = Usar una configuración personalizada pal historial
+history-remember-description = { -brand-short-name } va recordar l'historial de navegación, descargues, formularios y guetes.
 history-dontremember-description = { -brand-short-name } usará los mesmos axustes que Restolar en privao u nun rescordará historial dalu cuando restoles la web.
 history-private-browsing-permanent =
     .label = Usar siempres el mou Restolar en privao
     .accesskey = p
+history-remember-browser-option =
+    .label = Recordar historial de navegación y descargues
+    .accesskey = R
 history-remember-search-option =
     .label = Recordar l'historial de formularios y guetes
     .accesskey = f
@@ -493,13 +596,69 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = Axustes…
     .accesskey = C
+history-clear-button =
+    .label = Llimpiar historial…
+    .accesskey = L
 
 ## Privacy Section - Site Data
 
+sitedata-header = Cookies y datos del sitiu
+sitedata-total-size-calculating = Calculando'l tamañu de los datos del sitiu y del caché…
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size = Les  cookies, datos del sitiu y caché almacenaos ocupen anguaño un { $value } { $unit } d'espaciu en discu.
 sitedata-learn-more = Deprendi más
+sitedata-keep-until = Caltener hasta que
+    .accesskey = C
+sitedata-keep-until-expire =
+    .label = Caduquen
+sitedata-keep-until-closed =
+    .label = zarre { -brand-short-name }
+sitedata-delete-on-close =
+    .label = Desaniciar cookies y datos del sitiu cuando zarre { -brand-short-name }
+    .accesskey = D
+sitedata-allow-cookies-option =
+    .label = Aceutar cookies y datos del sitiu
+    .accesskey = A
+sitedata-disallow-cookies-option =
+    .label = Bloquiar cookies y datos del sitiu
+    .accesskey = B
+# This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
+# The list items are the strings named sitedata-block-*-option*.
+sitedata-block-desc = Tipu bloquiáu
+    .accesskey = T
+sitedata-block-trackers-option-recommended =
+    .label = Rastrexadores de terceros (recomendáu)
+sitedata-block-trackers-option =
+    .label = Rastrexadores de terceros
+sitedata-block-unvisited-option =
+    .label = Cookies de sitios web non andaos
+sitedata-block-all-third-party-option =
+    .label = Toles cookies de terceros (pue causar fallos nos sitios web)
+sitedata-block-all-option =
+    .label = Toles cookies (causará fallos nos sitios web)
+sitedata-option-block-trackers =
+    .label = Rastrexadores de terceros
+sitedata-option-block-unvisited =
+    .label = Cookies de sitios web non andaos
+sitedata-option-block-all-third-party =
+    .label = Toles cookies de terceros (pue facer que dalgunos sitios web nun furrulen)
+sitedata-option-block-all =
+    .label = Toles cookies (fadrá que dalgunos sitios web nun furrulen)
+sitedata-clear =
+    .label = Llimpiar datos…
+    .accesskey = L
+sitedata-settings =
+    .label = Xestionar datos…
+    .accesskey = X
 sitedata-cookies-exceptions =
     .label = Esceiciones…
     .accesskey = E
+# This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
+# in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
+# Cookies and Site Data section.
+sitedata-warning-your-settings-prevent-changes = Los axustes de bloquéu de conteníu tán torgando'l cambéu de los axustes de cookies y datos del sitiu.
 
 ## Privacy Section - Address Bar
 
