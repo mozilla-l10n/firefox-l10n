@@ -230,4 +230,5 @@
 
 <!ENTITY legacyWarning.showLegacy "সব পুরাতন এক্সটেনশন দেখাও">
 <!ENTITY legacyExtensions.title "লিগ্যাসি এক্সটেনশন">
+<!ENTITY legacyExtensions.description "বর্তমান &brandShortName; মানের সাথে সামঞ্জস্যপূর্ণ না হওয়াই এই এক্সটেনশনগুলো নিষ্ক্রিয় করে রাখা হয়েছে।">
 <!ENTITY legacyExtensions.learnMore "অ্যাড-অনের পরিবর্তনগুলো সম্পর্কে জানুন">
