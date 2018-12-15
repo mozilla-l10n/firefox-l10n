@@ -186,6 +186,8 @@ was trying to connect. -->
 <!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> büyük olasılıkla güvenilir bir site olmasına rağmen güvenli bir bağlantı kurulamadı. Bu sorun, bilgisayarınızda veya ağınızda bulunan <span class='mitm-name'/> adlı yazılımdan kaynaklanmaktadır.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "Antivirüs yazılımınızda şifrelenmiş bağlantıları tarayan bir özellik (Genellikle “web tarama” veya “https tarama” denir.) varsa o özelliği kapatabilirsiniz. Bu işe yaramazsa antivirüs yazılımınızı kaldırıp yeniden yüklemeyi deneyebilirsiniz.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "Kurumsal bir ağda bulunuyorsanız teknik departmanınıza başvurabilirsiniz.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "<span class='mitm-name'/> size tanıdık gelmiyorsa bu bir saldırı olabilir. Bu durumda siteye girmemelisiniz.">
+<!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "<span class='mitm-name'/> size tanıdık gelmiyorsa bu bir saldırı olabilir. Siteye erişmek için yapabileceğiniz bir şey bulunmuyor.">
 
 <!ENTITY clockSkewError.title "Bilgisayarınızın saati yanlış">
 <!ENTITY clockSkewError.longDesc "Bilgisayarınız saatin <span id='wrongSystemTime_systemDate1'/> olduğunu sanıyor, bu yüzden de &brandShortName; güvenli bağlantı kuramıyor. <span class='hostname'></span> adresini ziyaret etmek için sistem ayarlarınıza girerek bilgisayarınızın tarihini, saatini ve saat dilimini güncelleyin. Ardından <span class='hostname'></span> sayfasını tazeleyin.">
