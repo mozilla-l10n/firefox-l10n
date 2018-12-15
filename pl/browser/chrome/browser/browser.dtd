@@ -17,6 +17,8 @@
 <!ENTITY reloadTabs.accesskey "O">
 <!ENTITY reloadAllTabs.label                 "Odśwież wszystkie karty" >
 <!ENTITY reloadAllTabs.accesskey             "w" >
+<!ENTITY selectAllTabs.label "Zaznacz wszystkie karty">
+<!ENTITY selectAllTabs.accesskey "Z">
 <!ENTITY duplicateTab.label "Duplikuj kartę">
 <!ENTITY duplicateTab.accesskey "D">
 <!ENTITY duplicateTabs.label "Duplikuj karty">
@@ -106,6 +108,8 @@
 <!ENTITY toolbarContextMenu.bookmarkSelectedTab.accesskey "D">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Dodaj zakładki do wszystkich kart…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "D">
+<!ENTITY toolbarContextMenu.selectAllTabs.label "Zaznacz wszystkie karty">
+<!ENTITY toolbarContextMenu.selectAllTabs.accesskey "Z">
 <!ENTITY toolbarContextMenu.bookmarkSelectedTabs.label "Dodaj zakładki do zaznaczonych kart…">
 <!ENTITY toolbarContextMenu.bookmarkSelectedTabs.accesskey "D">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "Przywróć zamkniętą kartę">
