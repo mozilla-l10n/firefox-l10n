@@ -33,3 +33,4 @@ onboarding-fxa-text = আপনার বুকমার্কস, পাসও�
 
 return-to-amo-sub-header = দারুণ, আপনি { -brand-short-name } পেয়েছেন
 return-to-amo-extension-button = এক্সটেনশন যোগ করুন
+return-to-amo-get-started-button = { -brand-short-name } দিয়ে শুরু করুন
