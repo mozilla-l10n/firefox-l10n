@@ -24,7 +24,7 @@
 <!ENTITY tabCrashed.requestReport "این زبانه را گزارش کنید">
 <!ENTITY tabCrashed.sendReport3 "یک گزارش خرابی خودکار ارسال کنید تا بتوانیم ایراداتی شبیه به این را رفع کنیم.">
 <!ENTITY tabCrashed.commentPlaceholder2 "افزودن یک توضیح (توضیحات در دسترس عموم قرار خواهند گرفت)">
-<!ENTITY tabCrashed.includeURL3 "شاملURLs هایی که پایگاه‌های اینترنتی که شما به آن مراجعه کرده‌اید هنگامی که &brandShortName; خراب شده است.">
+<!ENTITY tabCrashed.includeURL3 "ضمیمه کردن آدرس سایت‌هایی که هنگام فروپاشی &brandShortName; در حال مشاهده آنها بودید.">
 <!ENTITY tabCrashed.emailPlaceholder "نشانی پست الکترونیکی خود را اینجا وارد کنید">
 <!ENTITY tabCrashed.emailMe "در صورت در دسترس بودن اطلاعات بیشتر به من نامه‌الکترونیکی ارسال شود.">
 <!ENTITY tabCrashed.reportSent "گزارش‌ خرابی جهت ارسال آماده است;از شما به خاطر کمک‌کردن به بهتر شدن این &brandShortName; تشکر می‌کنیم!">
