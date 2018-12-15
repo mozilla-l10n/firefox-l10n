@@ -659,11 +659,17 @@ sitedata-cookies-exceptions =
 # in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
 # Cookies and Site Data section.
 sitedata-warning-your-settings-prevent-changes = Los axustes de bloquéu de conteníu tán torgando'l cambéu de los axustes de cookies y datos del sitiu.
+sitedata-cookies-permissions =
+    .label = Xestionar permisos...
+    .accesskey = X
 
 ## Privacy Section - Address Bar
 
 addressbar-header = Barra de direiciones
 addressbar-suggest = Al usar la barra de direiciones, suxerir:
+addressbar-locbar-history-option =
+    .label = Historial de navegación
+    .accesskey = H
 addressbar-locbar-bookmarks-option =
     .label = Marcadores
     .accesskey = M
@@ -674,6 +680,7 @@ addressbar-suggestions-settings = Camudar preferencies pa les suxerencies de los
 
 ## Privacy Section - Content Blocking
 
+content-blocking-header = Bloquéu de conteníu
 
 ## Privacy Section - Tracking
 
