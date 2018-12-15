@@ -50,3 +50,9 @@
 <!ENTITY  dnsOverHttpsUrl.label         "URL">
 <!ENTITY  dnsOverHttpsUrl.accesskey     "R">
 <!ENTITY  dnsOverHttpsUrl.tooltip       "URL për ftillim DNS-je përmes HTTPS-je">
+<!ENTITY  dnsOverHttpsUrlDefault.label     "Përdor parazgjedhjet">
+<!ENTITY  dnsOverHttpsUrlDefault.accesskey "a">
+<!ENTITY  dnsOverHttpsUrlDefault.tooltip   "Përdor URL-në parazgjedhje për ftillim DNS-je përmes HTTPS-së">
+<!ENTITY  dnsOverHttpsUrlCustom.label      "Vetjake">
+<!ENTITY  dnsOverHttpsUrlCustom.accesskey  "t">
+<!ENTITY  dnsOverHttpsUrlCustom.tooltip    "Jepni URL-në tuaj të parapëlqyer për ftillim DNS-je përmes HTTPS-së">
