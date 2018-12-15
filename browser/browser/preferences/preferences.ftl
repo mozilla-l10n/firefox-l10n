@@ -6,6 +6,10 @@ do-not-track-description = Unvia la señal «Nun rastrexar» a los sitios web p'
 do-not-track-learn-more = Deprendi más
 do-not-track-option-default =
     .label = Namái al usar proteición de rastrexu
+do-not-track-option-default-content-blocking =
+    .label = Namái cuando { -brand-short-name } ta configuráu pa bloquiar los rastrexadores deteutaos
+do-not-track-option-default-content-blocking-known =
+    .label = Namái cuando { -brand-short-name } ta configuráu pa bloquiar los rastrexadores conocíos
 do-not-track-option-always =
     .label = Siempres
 pref-page =
@@ -14,9 +18,30 @@ pref-page =
             [windows] Opciones
            *[other] Preferencies
         }
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box =
+    .style = width: 15.4em
+    .placeholder =
+        { PLATFORM() ->
+            [windows] Atopar n'opciones
+           *[other] Atopar en preferencies
+        }
+policies-notice =
+    { PLATFORM() ->
+        [windows] La to organización deshabilitó la posibilidá de camudar dalgunes opciones.
+       *[other] La to organización deshabilitó la posibilidá de camudar dalgunes preferencies.
+    }
 pane-general-title = Xeneral
 category-general =
     .tooltiptext = { pane-general-title }
+pane-home-title = Aniciu
 category-home =
     .tooltiptext = { pane-home-title }
 pane-search-title = Guetar
@@ -30,6 +55,7 @@ pane-sync-title = Cuenta de Firefox
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = Ayuda de { -brand-short-name }
+addons-button-label = Estensiones y temes
 focus-search =
     .key = f
 close-button =
@@ -60,13 +86,41 @@ extension-controlled-homepage-override = Una estensión, <img data-l10n-name="ic
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
 extension-controlled-new-tab-url = Una estensión, <img data-l10n-name="icon"/> { $name }, ta controlado la páxina de llingüeta nueva.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlled-web-notifications = Una estensión, <img data-l10n-name="icon"/> { $name }, ta controlando esta configuración.
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
 extension-controlled-default-search = Una estensión, <img data-l10n-name="icon"/> { $name }, afitó'l motor predetermináu de gueta.
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlled-privacy-containers = Una estensión, <img data-l10n-name="icon"/> { $name }, rique llingüetes de contenedores.
+# This string is shown to notify the user that their tracking protection preferences
+# are being controlled by an extension.
+extension-controlled-websites-tracking-protection-mode = Una estensión, <img data-l10n-name="icon"/> { $name }, ta controlando la proteición escontra rastréu.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlled-websites-content-blocking-all-trackers = Una estensión, <img data-l10n-name="icon"/> { $name }, ta controlando esti axuste.
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlled-proxy-config = Una estensión, <img data-l10n-name="icon"/> { $name }, controla cómo se coneuta { -brand-short-name } a Internet.
+# This string is shown after the user disables an extension to notify the user
+# how to enable an extension that they disabled.
+#
+# <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
+# <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
+extension-controlled-enable = P'activar la estensión vete a <img data-l10n-name="addons-icon"/> Complementos del menú <img data-l10n-name="menu-icon"/>.
 
 ## Preferences UI Search Results
 
 search-results-header = Resultaos de gueta
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] ¡Sentímoslo! Nun hai resultaos pa "<span data-l10n-name="query"></span>" n'opciones.
+       *[other] ¡Sentímoslo! Nun hai resultaos pa "<span data-l10n-name="query"></span>" en preferencies.
+    }
+search-results-help-link = ¿Necesites ayuda? Visita <a data-l10n-name="url">Ayuda de { -brand-short-name }</a>
 
 ## General Section
 
@@ -86,12 +140,23 @@ is-not-default = { -brand-short-name } nun ye'l to restolador web predetermináu
 set-as-my-default-browser =
     .label = Facelu predetermináu…
     .accesskey = D
+startup-restore-previous-session =
+    .label = Restaurar sesión previa
+    .accesskey = R
+startup-restore-warn-on-quit =
+    .label = Avisa al colar del navegador
 disable-extension =
     .label = Deshabilitar estensión
 tabs-group-header = Llingüetes
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab circula pente les llingüetes nel orde según el so usu recién
     .accesskey = T
+open-new-link-as-tabs =
+    .label = Abrir enllaces en llingüetes en cuenta d'en ventanes nueves
+    .accesskey = A
+warn-on-quit-close-multiple-tabs =
+    .label = Avisar al colar y zarrar múltiples llingüetes
+    .accesskey = m
 warn-on-close-multiple-tabs =
     .label = Avisar cuando zarres múltiples llingüetes
     .accesskey = m
@@ -123,11 +188,23 @@ containers-disable-alert-ok-button =
        *[other] Zarrar { $tabCount } llingüetes contenedores
     }
 containers-disable-alert-cancel-button = Calteneles habilitaes
+containers-remove-alert-title = ¿Desaniciar esti contenedor?
+# Variables:
+#   $count (Number) - Number of tabs that will be closed.
+containers-remove-alert-msg =
+    { $count ->
+        [one] Si desanicies esti contenedor agora, va zarrase { $count } llingüeta contenedora. ¿Daveres que quies desaniciar esti contenedor?
+       *[other] Si desanicies esti contenedor agora, van zarrase { $count } llingüetes contenedores. ¿Daveres que quies desaniciar esti contenedor?
+    }
+containers-remove-ok-button = Desaniciar esti contenedor
+containers-remove-cancel-button = Nun desaniciar esti contenedor
 
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Llingua y aspeutu
 fonts-and-colors-header = Fontes y colores
+default-font = Fonte predeterminada
+    .accesskey = F
 default-font-size = Tamañu
     .accesskey = T
 advanced-fonts =
@@ -141,6 +218,12 @@ choose-language-description = Escoyer llingua preferida p'amosar les páxines we
 choose-button =
     .label = Escoyer…
     .accesskey = o
+choose-browser-language-description = Seleiciona les llingües nes que van amosase los menús, mensaxes y notificaciones de { -brand-short-name }.
+manage-browser-languages-button =
+    .label = Afitar alternatives…
+    .accesskey = A
+confirm-browser-language-change-description = Reanicia { -brand-short-name } p'aplicar los cambeos
+confirm-browser-language-change-button = Aplicar y reaniciar
 translate-web-pages =
     .label = Traducir conteníu web
     .accesskey = d
@@ -150,6 +233,9 @@ translate-attribution = Traducciones de <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Esceiciones…
     .accesskey = s
+check-user-spelling =
+    .label = Revisar la ortografía según s'escribe
+    .accesskey = R
 
 ## General Section - Files and Applications
 
@@ -183,6 +269,9 @@ applications-action-column =
     .label = Aición
     .accesskey = A
 drm-content-header = Conteníu con Digital Rights Management (DRM)
+play-drm-content =
+    .label = Reproducir conteníu remanáu por DRM
+    .accesskey = R
 play-drm-content-learn-more = Deprender más
 update-application-title = Anovamientos de { -brand-short-name }
 update-application-description = Caltén { -brand-short-name } anováu pa un meyor rindimientu, estabilidá y seguranza.
@@ -191,6 +280,12 @@ update-history =
     .label = Amosar l'historial d'anovamientos…
     .accesskey = t
 update-application-allow-description = Permitir a { -brand-short-name }:
+update-application-auto =
+    .label = Instalar anovamientos automáticamente (recomiéndase)
+    .accesskey = I
+update-application-check-choose =
+    .label = Guetar anovamientos, pero permitir escoyer si instalalos
+    .accesskey = G
 update-application-use-service =
     .label = Usar serviciu en segundu planu pa instalar los anovamientos
     .accesskey = v
@@ -352,7 +447,6 @@ privacy-header = Privacidá del restolador
 
 ## Privacy Section - Forms
 
-forms-header = Formularios y contraseñes
 forms-exceptions =
     .label = Esceiciones…
     .accesskey = s
