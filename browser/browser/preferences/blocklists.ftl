@@ -27,3 +27,4 @@ blocklist-item-list-template = { $listName } { $description }
 blocklist-item-moz-std-name = Desconeutame de la proteición básica (Encamiéntase).
 blocklist-item-moz-std-desc = Permitir dalgunos rastrexadores pa que los sitios web funcionen bien.
 blocklist-item-moz-full-name = Proteición estricta de Disconnect.me.
+blocklist-item-moz-full-desc = Bloquia rastrexadores conocíos. Dalgunos sitios web puen nun funcionar correutamente.
