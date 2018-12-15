@@ -8,3 +8,7 @@ manage-messenger-languages-button =
     .accesskey = C
 confirm-messenger-language-change-description = Që të hyjnë në fuqi këto ndryshime, rinisni { -brand-short-name }-in
 confirm-messenger-language-change-button = Zbatoji dhe Rinisu
+update-pref-write-failure-title = Dështim Shkrimi
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = S’arrihet të ruhen parapëlqimet. S"u shkrua dot te kartelë: { $path }
