@@ -13,6 +13,7 @@ connection-close-key =
     .key = w
 connection-disable-extension =
     .label = Deshabilitar estensión
+connection-proxy-configure = Configurar accesu proxy a Internet
 connection-proxy-option-no =
     .label = Ensin proxy
     .accesskey = y
@@ -66,3 +67,19 @@ connection-proxy-autologin =
 connection-proxy-socks-remote-dns =
     .label = Proxy DNS al usar SOCKS v5
     .accesskey = D
+connection-dns-over-https =
+    .label = Habilita DNS sobre HTTPS
+    .accesskey = H
+connection-dns-over-https-url = URL
+    .accesskey = U
+    .tooltiptext = URL pa resolver DNS sobre HTTPS
+# Variables:
+#   $url (String) - URL for the DNS over HTTPS provider
+connection-dns-over-https-url-default =
+    .label = Usar predeterminada ({ $url })
+    .accesskey = U
+    .tooltiptext = Usar la URL predeterminada pa resolver DNS sobre HTTPS
+connection-dns-over-https-url-custom =
+    .label = Personalizada
+    .accesskey = P
+    .tooltiptext = Escribi la to URL preferida pa resolver DNS sobre HTTPS
