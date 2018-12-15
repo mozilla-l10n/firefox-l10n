@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY addons.windowTitle                   "অ্যাড-অন ব্যবস্থাপক">
 
-<!ENTITY search.placeholder2                  "addons.mozilla.org এ অনুসন্ধান করুন">
-
 <!ENTITY search.placeholder3                  "addons.mozilla.org এ অনুসন্ধান করুন">
 <!ENTITY search.buttonlabel                   "অনুসন্ধান">
 <!-- LOCALIZATION NOTE (search.commandkey):
@@ -20,9 +18,6 @@
 <!ENTITY installAddonFromFile.label           "ফাইল থেকে অ্যাড-অন ইনস্টল… I">
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "সব অ্যাড-অন এর জন্য টুল">
-
-<!ENTITY getThemes.description                "আপনার ব্রাউজার নিজের মত করতে চান?">
-<!ENTITY getThemes.learnMore                  "হাজার হাজার থিম থেকে পছন্দ করুন">
 
 
 <!ENTITY showUnsignedExtensions.button.label  "কিছু এক্সটেনশন ভ্যারিফাই করা হয়নি">
