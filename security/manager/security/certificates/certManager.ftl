@@ -232,3 +232,8 @@ add-exception-checking-short = בודק מידע
 add-exception-checking-long = מתבצע ניסיון זיהוי של האתר…
 add-exception-no-cert-short = אין מידע זמין
 add-exception-no-cert-long = לא ניתן לקבל את מצב הזיהוי של אתר זה.
+
+## Certificate export "Save as" and error dialogs
+
+cert-format-base64-chain = X.509 Certificate with chain (PEM)
+write-file-failure = שגיאת קובץ
