@@ -202,3 +202,13 @@ add-exception-valid-short = Важечки сертификат
 add-exception-valid-long = Ова место има важечка и потврдена идентификација.  Нема потреба да се додава исклучок.
 add-exception-checking-short = Ги проверувам информациите
 add-exception-no-cert-short = Нема достапни информации
+
+## Certificate export "Save as" and error dialogs
+
+save-cert-as = Сними го сертификатот во датотека.
+cert-format-base64 = X.509 Сертификат (PEM)
+cert-format-base64-chain = X.509 Сертификат со ланец (PEM)
+cert-format-der = X.509 Сертификат (DER)
+cert-format-pkcs7 = X.509 Сертификат (PKCS#7)
+cert-format-pkcs7-chain = X.509 Сертификат со ланец (PKCS#7)
+write-file-failure = Грешка во датотеката
