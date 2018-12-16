@@ -226,3 +226,11 @@ add-exception-checking-short = വിവരങ്ങള്‍ പരിശോധ
 add-exception-checking-long = സൈറ്റിനെ തിരിച്ചറിയുവാന്‍ ശ്രമിക്കുന്നു…
 add-exception-no-cert-short = വിവരങ്ങള്‍ ലഭ്യമല്ല
 add-exception-no-cert-long = ഈ സൈറ്റിന്റെ തിരിച്ചറിയല്‍ അവസ്ഥ ലഭിക്കാന്‍ സാധിച്ചില്ല.
+
+## Certificate export "Save as" and error dialogs
+
+save-cert-as = ഫയലിലേക്കു് സര്‍ട്ടിഫിക്കേറ്റ് സൂക്ഷിക്കുക
+cert-format-base64 = X.509 സര്‍ട്ടിഫിക്കേറ്റ് (PEM)
+cert-format-der = X.509 സര്‍ട്ടിഫിക്കേറ്റ് (DER)
+cert-format-pkcs7 = X.509 സര്‍ട്ടിഫിക്കേറ്റ് (PKCS#7)
+write-file-failure = ഫയലില്‍ പിശക്
