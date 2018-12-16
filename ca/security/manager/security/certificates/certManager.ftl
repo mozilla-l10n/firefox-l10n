@@ -232,3 +232,12 @@ add-exception-checking-short = Comprovació de la informació
 add-exception-checking-long = S'està intentant identificar aquest lloc web…
 add-exception-no-cert-short = No hi ha cap informació disponible
 add-exception-no-cert-long = No es pot obtenir l'estat d'identificació d'aquest lloc web.
+
+## Certificate export "Save as" and error dialogs
+
+cert-format-base64 = Certificat X.509 (PEM)
+cert-format-base64-chain = Certificat X.509 amb cadena (PEM)
+cert-format-der = Certificat X.509 (DER)
+cert-format-pkcs7 = Certificat X.509 (PKCS#7)
+cert-format-pkcs7-chain = Certificat X.509 amb cadena (PKCS#7)
+write-file-failure = Error de fitxer
