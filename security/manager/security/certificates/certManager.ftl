@@ -232,3 +232,13 @@ add-exception-checking-short = Tikrinami duomenys
 add-exception-checking-long = Bandoma patikrinti svetainės tapatybę…
 add-exception-no-cert-short = Nėra duomenų
 add-exception-no-cert-long = Nepavyko sužinoti šios svetainės tapatybės duomenų.
+
+## Certificate export "Save as" and error dialogs
+
+save-cert-as = Įrašyti liudijimą į failą
+cert-format-base64 = X.509 liudijimas (PEM)
+cert-format-base64-chain = X.509 liudijimas su grandine (PEM)
+cert-format-der = X.509 liudijimas (DER)
+cert-format-pkcs7 = X.509 liudijimas (PKCS#7)
+cert-format-pkcs7-chain = X.509 liudijimas su grandine (PKCS#7)
+write-file-failure = Failo klaida
