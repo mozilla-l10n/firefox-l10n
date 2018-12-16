@@ -235,4 +235,10 @@ add-exception-no-cert-long = Inposcibile pigiâ o stæto de identificaçion de s
 
 ## Certificate export "Save as" and error dialogs
 
+save-cert-as = Sarva o Certificato into File
+cert-format-base64 = Certificato X.509 (PEM)
+cert-format-base64-chain = Certificato X.509 con cadenn-a (PEM)
+cert-format-der = Certificato X.509 (DER)
+cert-format-pkcs7 = Certificato X.509 (PKCS#7)
+cert-format-pkcs7-chain = Certificato X.509 con cadenn-a (PKCS#7)
 write-file-failure = Erô do file
