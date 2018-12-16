@@ -232,3 +232,13 @@ add-exception-checking-short = A' sgrùdadh an fhiosrachaidh
 add-exception-checking-long = A' feuchainn ris an làrach aithneachadh…
 add-exception-no-cert-short = Chan eil fiosrachadh ri fhaighinn
 add-exception-no-cert-long = Cha ghabh inbhe na dearbh-aithne fhaighinn airson na làraich a chaidh a shònrachadh.
+
+## Certificate export "Save as" and error dialogs
+
+save-cert-as = Sàbhail an teisteanas gu faidhle
+cert-format-base64 = Teisteanas X.509 (PEM)
+cert-format-base64-chain = Teisteanas X.509 le slabhraidh (PEM)
+cert-format-der = Teisteanas X.509 (DER)
+cert-format-pkcs7 = Teisteanas X.509 (PKCS#7)
+cert-format-pkcs7-chain = Teisteanas X.509 le slabhraidh (PKCS#7)
+write-file-failure = Mearachd faidhle
