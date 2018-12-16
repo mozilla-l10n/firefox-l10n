@@ -232,3 +232,13 @@ add-exception-checking-short = Adatok ellenőrzése
 add-exception-checking-long = Kísérlet a webhely azonosítására…
 add-exception-no-cert-short = Nem áll rendelkezésre információ
 add-exception-no-cert-long = Nem lehet a webhely azonosítási állapotát lekérdezni.
+
+## Certificate export "Save as" and error dialogs
+
+save-cert-as = Tanúsítvány mentése fájlba
+cert-format-base64 = X.509 tanúsítvány (PEM)
+cert-format-base64-chain = X.509 tanúsítvány lánccal (PEM)
+cert-format-der = X.509 tanúsítvány (DER)
+cert-format-pkcs7 = X.509 tanúsítvány (PKCS#7)
+cert-format-pkcs7-chain = X.509 tanúsítvány lánccal (PKCS#7)
+write-file-failure = Fájlhiba
