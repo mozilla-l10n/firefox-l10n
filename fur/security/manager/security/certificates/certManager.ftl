@@ -186,3 +186,13 @@ add-exception-valid-short = Certificât valit
 add-exception-valid-long = Il sît web al da une identificazion valide e verificade. Nol covente zontâ nissune ecezion.
 add-exception-checking-short = Control des informazions
 add-exception-no-cert-short = No je nissune informazion disponibile
+
+## Certificate export "Save as" and error dialogs
+
+save-cert-as = Salve il certificât intun file
+cert-format-base64 = Certificât X.509 (PEM)
+cert-format-base64-chain = Certificât X.509 cun cjadene (PEM)
+cert-format-der = Certificât X.509 (DER)
+cert-format-pkcs7 = Certificât X.509 (PKCS#7)
+cert-format-pkcs7-chain = Certificât X.509 cun cjadene (PKCS#7)
+write-file-failure = Erôr di file
