@@ -28,3 +28,14 @@ onboarding-ghostery-text = Ghostery kimi bezdirən reklamları əngəlləyən ə
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Sinxronlaşdır
 onboarding-fxa-text = { -fxaccount-brand-name } üçün qeyd olun və əlfəcinlərinizi, parollarınızı və açıq vərəqlərinizi { -brand-short-name } işlətdiyiniz hər yerdə sinxronlaşdırın.
+
+## Message strings belonging to the Return to AMO flow
+
+return-to-amo-sub-header = Super, { -brand-short-name } quruldu
+# <icon></icon> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-header = İndi də <icon></icon><b>{ $addon-name }</b> uzantısına baxaq.
+return-to-amo-extension-button = Uzantını əlavə et
+return-to-amo-get-started-button = { -brand-short-name } səyyahını işlətməyə başla
