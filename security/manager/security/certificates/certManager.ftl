@@ -232,3 +232,13 @@ add-exception-checking-short = Athuga upplýsingar
 add-exception-checking-long = Reyni að auðkenna vefsvæði…
 add-exception-no-cert-short = Engar upplýsingar tiltækar
 add-exception-no-cert-long = Get ekki náð í stöðu auðkennis fyrir valið vefsvæði.
+
+## Certificate export "Save as" and error dialogs
+
+save-cert-as = Vista skilríki í skrá
+cert-format-base64 = X.509 Skilríki (PEM)
+cert-format-base64-chain = X.509 Skilríki með keðju (PEM)
+cert-format-der = X.509 Skilríki (DER)
+cert-format-pkcs7 = X.509 Skilríki (PKCS#7)
+cert-format-pkcs7-chain = X.509 Skilríki með keðju (PKCS#7)
+write-file-failure = Skrárvilla
