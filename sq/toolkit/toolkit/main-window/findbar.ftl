@@ -15,6 +15,14 @@ findbar-highlight-all =
     .label = Theksoji Krejt
     .accesskey = T
     .tooltiptext = Theksoni krejt hasjet e togfjalëshit
+findbar-highlight-all2 =
+    .label = Theksoji Krejt
+    .accesskey =
+        { PLATFORM() ->
+            [macos] K
+           *[other] K
+        }
+    .tooltiptext = Theksoni krejt hasjet e togfjalëshit
 findbar-case-sensitive =
     .label = Siç është shkruar
     .accesskey = S
