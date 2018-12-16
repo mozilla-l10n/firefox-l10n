@@ -219,8 +219,10 @@ add-exception-no-cert-short = Không có Thông tin Hiện hữu
 
 ## Certificate export "Save as" and error dialogs
 
+save-cert-as = Lưu Chứng Thư vào Tập Tin
 cert-format-base64 = X.509 Chứng chỉ (PEM)
 cert-format-base64-chain = X.509 Chứng chỉ có mạch chuỗi (PEM)
 cert-format-der = X.509 Chứng chỉ (DER)
 cert-format-pkcs7 = X.509 Chứng chỉ (PKCS#7)
 cert-format-pkcs7-chain = X.509 Chứng chỉ có mạch chuỗi (PKCS#7)
+write-file-failure = Lỗi Tập Tin
