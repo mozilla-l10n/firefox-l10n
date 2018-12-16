@@ -232,3 +232,7 @@ add-exception-checking-short = Праверка звестак
 add-exception-checking-long = Спроба ідэнтыфікаваць гэты сайт…
 add-exception-no-cert-short = Няма даступных звестак
 add-exception-no-cert-long = Немагчыма атрымаць ідэнтыфікацыйны статус гэтага сайта.
+
+## Certificate export "Save as" and error dialogs
+
+write-file-failure = Файлавая памылка
