@@ -232,3 +232,13 @@ add-exception-checking-short = Comprobando información
 add-exception-checking-long = Tentando d'identificar esti sitiu…
 add-exception-no-cert-short = Nun hai información disponible
 add-exception-no-cert-long = Nun pue consiguise l'estáu d'identificación d'esti sitiu.
+
+## Certificate export "Save as" and error dialogs
+
+save-cert-as = Guardar certificáu en ficheru
+cert-format-base64 = Certificáu X.509 (PEM)
+cert-format-base64-chain = Certificáu X.509 con cadena (PEM)
+cert-format-der = Certificáu X.509 (DER)
+cert-format-pkcs7 = Certificáu X.509 (PKCS#7)
+cert-format-pkcs7-chain = Certificáu X.509 con cadena (PKCX#7)
+write-file-failure = Fallu de ficheru
