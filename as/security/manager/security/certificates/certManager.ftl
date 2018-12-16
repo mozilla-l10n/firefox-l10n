@@ -209,3 +209,11 @@ add-exception-valid-short = বৈধ প্ৰমাণপত্ৰ
 add-exception-valid-long = এই ছাইটে বৈধ, প্ৰমাণিত পৰিচয় দিয়ে।  অব্যাহতি যোগ কৰাৰ প্ৰয়োজন নাই।
 add-exception-checking-short = তথ্য পৰীক্ষা কৰা হৈছে
 add-exception-no-cert-short = কোনো তথ্য নাই
+
+## Certificate export "Save as" and error dialogs
+
+save-cert-as = প্ৰমাণপত্ৰ ফাইলত ৰক্ষা কৰক
+cert-format-base64 = X.509 প্ৰমাণপত্ৰ (PEM)
+cert-format-der = X.509 প্ৰমাণপত্ৰ (DER)
+cert-format-pkcs7 = X.509 প্ৰমাণপত্ৰ (PKCS#7)
+write-file-failure = ফাইলত ভুল
