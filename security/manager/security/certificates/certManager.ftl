@@ -228,3 +228,13 @@ add-exception-checking-short = தகவலை சோதிக்கிறது
 add-exception-checking-long = இந்த இணையதளத்தை அடையாளப்படுத்த முயற்சிக்கிறது…
 add-exception-no-cert-short = தகவல் எதுவும் இல்லை
 add-exception-no-cert-long = கொடுக்கப்பட்ட இணையதளத்திற்கு அடையாள நிலையை பெற முடியவில்லை.
+
+## Certificate export "Save as" and error dialogs
+
+save-cert-as = சான்றிதழைக் கோப்பில் சேமி
+cert-format-base64 = X.509 சான்றிதழ் (PEM)
+cert-format-base64-chain = X.509 சான்றிதழ் (PEM) சங்கிலியுடன்
+cert-format-der = X.509 சான்றிதழ் (DER)
+cert-format-pkcs7 = X.509 சான்றிதழ் (PKCS#7)
+cert-format-pkcs7-chain = X.509 சங்கிலியுடன் (PKCS#7) சான்றிதழ்
+write-file-failure = கோப்பு பிழை
