@@ -232,3 +232,13 @@ add-exception-checking-short = Kontrola informací
 add-exception-checking-long = Probíhá pokus o identifikaci serveru…
 add-exception-no-cert-short = Informace nejsou dostupné
 add-exception-no-cert-long = Získání stavu identifikace pro tento server se nezdařilo.
+
+## Certificate export "Save as" and error dialogs
+
+save-cert-as = Uložit certifikát do souboru
+cert-format-base64 = Certifikát typu X.509 (PEM)
+cert-format-base64-chain = Certifikát typu X.509 s řetězem (PEM)
+cert-format-der = Certifikát typu X.509  (DER)
+cert-format-pkcs7 = Certifikát typu X.509 (PKCS#7)
+cert-format-pkcs7-chain = Certifikát typu X.509 s řetězem (PKCS#7)
+write-file-failure = Chyba souboru
