@@ -12,7 +12,6 @@
 <!ENTITY advanced.label "અદ્યતન">
 <!ENTITY continue2.label "વધુ…">
 <!ENTITY moreInformation.label "વધુ મહિતી">
-
 <!ENTITY viewCertificate.label "પ્રમાણપત્ર જુઓ">
 
 <!-- Specific error messages -->
@@ -101,9 +100,6 @@ will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "<span class='hostname'/> ના માલિકે તેમની વેબસાઇટ અયોગ્ય રીતે ગોઠવેલી છે.   તમારી માહિતીને ચોરાઇ જવાથી સુરક્ષિત કરવા માટે, &brandShortName; આ વેબસાઇટથી જોડાણ કરેલ નથી.">
 <!ENTITY certerror.introPara2 "&brandShortName; એ સંભવિત સુરક્ષા ધમકી શોધી જેથી <span class='hostname'/>મુલાકાત લેવાનું બંધ કર્યું. જો તમે આ સાઇટની મુલાકાત લો છો, તો હુમલાખોરો તમારા પાસવર્ડ્સ, ઇમેઇલ્સ અથવા ક્રેડિટ કાર્ડ વિગતો જેવી માહિતી ચોરી કરવાનો પ્રયાસ કરી શકે છે.">
-
-<!ENTITY certerror.expiredCert.secondPara "આ સમસ્યા તમારાં કમ્પ્યુટરની ઘડિયાળ ખોટા સમય પર રાખેલી છે એટલે થઇ રહી છે, જે &brandShortName; ને સુરક્ષિત રીતે જોડતાં રોકી રહી છે.">
-
 <!ENTITY certerror.sts.introPara "&brandShortName; સંભવિત સુરક્ષા જોખમને શોધી કાઢ્યું છે અને ચાલુ રાખ્યું નથી <span class='hostname'/> કારણ કે આ વેબસાઇટને સુરક્ષિત કનેક્શનની જરૂર છે.">
 
 <!ENTITY certerror.expiredCert.introPara "&brandShortName; ને કોઈ સમસ્યા મળી છે એટલે <span class='hostname'/>. ને ચાલુ રાખ્યું નથી. વેબસાઇટ કાં તો ખોટી રીતે ગોઠવેલી છે અથવા તમારું કમ્પ્યુટરનું ઘડિયાળ ખોટા સમયે સેટ કરેલું છે.">
@@ -163,6 +159,11 @@ was trying to connect. -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> એ સુરક્ષા માટે એવી ટેક્નોલોજી વાપરે છે કે જે જૂની તથા સહેલાઇથી હુમલો કરી શકાય તેવી હોય છે. જે માહિતીને તમે સુરક્ષિત માની રહ્યા હોય તેને હુમલાખોર સહેલાઇથી પ્રદ્રશિત કરી શકે છે. તમે વેબસાઇટ પર જાઓ તે પહેલાં વેબસાઇટનાં વહીવટકર્તાએ સર્વર ને વ્યવસ્થિત કરવાની જરુર છે.</p><p>ભૂલ ક્રમાંક: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "અવરોધિત પૃષ્ઠ">
+
+<!ENTITY certerror.mitm.title "સૉફ્ટવેર રોકે છે &brandShortName; સલામત રીતે આ સાઇટથી કનેક્ટ થવાથી">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "જો તમારા એન્ટીવાયરસ સૉફ્ટવેરમાં એવી સુવિધા શામેલ હોય કે જે એન્ક્રિપ્ટ કરેલા કનેક્શંસને સ્કૅન કરે છે (ઘણી વખત “વેબ સ્કેનીંગ” અથવા “https સ્કેનીંગ”તરીકે ઓળખાય છે), તો તમે તે સુવિધાને અક્ષમ કરી શકો છો. જો તે કાર્ય કરતું નથી, તો તમે એન્ટિવાયરસ સૉફ્ટવેરને નીકાડી અને ફરીથી ઇન્સ્ટોલ કરી શકો છો.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "જો તમે <span class='mitm-name'/>થી પરિચિત નથી, તો આ હુમલો હોઈ શકે છે અને તમારે સાઇટ પર ચાલુ રાખવું જોઈએ નહીં.">
+<!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "જો તમે <span class='mitm-name'/>થી પરિચિત નથી, તો આ હુમલો હોઈ શકે છે, અને સાઇટ ઍક્સેસ કરવા માટે તમે કંઈ કરી શકતા નથી.">
 
 <!ENTITY clockSkewError.title "તમારાં કમ્પ્યુટરની ઘડિયાળ ખોટી છે">
 <!ENTITY clockSkewError.longDesc "તમારાં કમ્પ્યુટર પ્રમાણે <span id='wrongSystemTime_systemDate1'/>, જે &brandShortName; ને સુરક્ષિત જોડાણથી અટકાવે છે. <span class='hostname'></span> ની મુલાકાત લેવાં માટે, તમારાં સીસ્ટમ સેંટિંગ્સમાંથી તમારાં કમ્પ્યુટરની ઘડિયાળ હાલનાં પ્રમાણે તારીખ, સમય, અને સમય ઝોન સુધારો કરો, અને પછી <span class='hostname'></span> તાજું કરો.">
