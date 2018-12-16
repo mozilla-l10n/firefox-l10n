@@ -228,3 +228,7 @@ add-exception-checking-short = సమాచారాన్ని పరిశీ
 add-exception-checking-long = ఈ సైట్ గుర్తించడానికి ప్రయత్నిస్తున్నారు...
 add-exception-no-cert-short = ఏ సమాచారం అందుబాటులోలేదు.
 add-exception-no-cert-long = ఈ సైట్ కోసం గుర్తింపు స్థితి పొందలేకపోయింది.
+
+## Certificate export "Save as" and error dialogs
+
+write-file-failure = ఫైల్ దోషము
