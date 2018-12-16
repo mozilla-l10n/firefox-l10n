@@ -203,3 +203,8 @@ add-exception-valid-short = Sertîfîkaya Derbasdar
 add-exception-valid-long = Ev malper sertîfîkayeke derbasdar dixwaze. Hewcedarî bi awartebûnekê nîn e.
 add-exception-checking-short = Agahiyan Raçav Dike
 add-exception-no-cert-short = Tu Agahî Nîn e
+
+## Certificate export "Save as" and error dialogs
+
+save-cert-as = Sertîfîkayê Di Pelê De Tomar Bike
+write-file-failure = Çewtiya Pelê
