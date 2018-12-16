@@ -62,7 +62,7 @@
 <!ENTITY  crash_close_label "Zavřít">
 <!ENTITY  crash_restart_label "Restartovat &brandShortName;">
 
-<!ENTITY url_bar_default_text2 "Hledat nebo vložit adresu">
+<!ENTITY url_bar_default_text2 "Zadejte adresu nebo dotaz pro vyhledávač">
 <!-- Localization note (url_bar_qrcode_text2) : This text will be
      heard by non-visual users when the focus is on the QR Code
      icon in the url bar. -->
@@ -191,9 +191,9 @@
 <!ENTITY pref_category_datareporting "Možnosti hlášení">
 <!ENTITY pref_category_logins "Přihlašovací údaje">
 <!ENTITY pref_learn_more "Zjistit více">
-<!ENTITY pref_category_installed_search_engines "Nainstalované vyhledávací moduly">
+<!ENTITY pref_category_installed_search_engines "Nainstalované vyhledávače">
 <!ENTITY pref_category_add_search_providers "Přidání dalších vyhledávačů">
-<!ENTITY pref_category_search_restore_defaults "Obnovit vyhledávací moduly">
+<!ENTITY pref_category_search_restore_defaults "Obnovit výchozí seznam vyhledávačů">
 <!ENTITY pref_search_restore_defaults "Obnovit výchozí">
 <!ENTITY pref_search_restore_defaults_summary "Obnovit výchozí">
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
@@ -241,7 +241,7 @@
      particular radio button, a text field will appear below the radio button and allow the
      user to insert an address of their choice. This string is the hint text to that
      text field. -->
-<!ENTITY home_homepage_hint_user_address "Zadejte adresu nebo hledaný výraz">
+<!ENTITY home_homepage_hint_user_address "Zadejte adresu nebo dotaz pro vyhledávač">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_general "Obecné">
@@ -290,7 +290,6 @@
 <!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
      Similar to the already existing "pref_whats_new_notification_summary"-->
 <!ENTITY pref_feature_tips_notification_summary "Zjistěte více o používání aplikace &brandShortName; a dalších produktech společnosti &vendorShortName;">
-
 <!-- Localization note (pref_feature_tips_notification_enabling_hint):
      Describe the action the user should do to enable this preference
      Will be used in the context "<Turn on> ... to enable this feature" -->
@@ -417,7 +416,7 @@
 <!ENTITY pref_dialog_activitystream_recentBookmarks "Nedávné záložky">
 <!ENTITY pref_dialog_activitystream_visited "Navštívené">
 
-<!ENTITY pref_search_last_toast "Nemůžete odebrat nebo zakázat váš poslední vyhledávací modul.">
+<!ENTITY pref_search_last_toast "Nemůžete odebrat nebo zakázat svůj poslední vyhledávač.">
 
 <!ENTITY pref_panels_show "Zobrazit">
 <!ENTITY pref_panels_hide "Skrýt">
@@ -527,7 +526,7 @@
      just "Pin Site" or "Unpin Site" would mean. -->
 <!ENTITY contextmenu_pin_to_top_sites "Připnout do Top stránek">
 <!ENTITY contextmenu_unpin_from_top_sites "Odepnout z Top stránek">
-<!ENTITY contextmenu_add_search_engine "Přidat vyhledávací modul">
+<!ENTITY contextmenu_add_search_engine "Přidat vyhledávač">
 
 <!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
      after the user pins/unpins the currently displayed page from top sites. -->
@@ -712,7 +711,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
       via the search engine that uses the icon they clicked. This text is used
       for screen reader users when they hover each icon - &formatS; will be
       replaced with the name of the currently highlighted icon. -->
-<!ENTITY search_bar_item_desc "Hledat pomocí &formatS;">
+<!ENTITY search_bar_item_desc "Vyhledat pomocí &formatS;">
 
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
@@ -841,8 +840,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "&brandShortName; je aktuální">
 <!ENTITY whatsnew_notification_summary "Zjistěte, co je nového v této verzi">
-
-<!ENTITY promotion_add_page_shortcut "Přidat zkratku stránky">
 
 <!ENTITY helper_first_offline_bookmark_title "Číst offline">
 <!ENTITY helper_first_offline_bookmark_message "Najděte vaše Zobrazení čtečky v záložkách, i když jste offline.">
