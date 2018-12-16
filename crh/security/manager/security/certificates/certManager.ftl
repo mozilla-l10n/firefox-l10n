@@ -232,3 +232,13 @@ add-exception-checking-short = Bilgi inceleme
 add-exception-checking-long = Bu saytnı teşhis etmege talpınıla…
 add-exception-no-cert-short = Bilgi yok
 add-exception-no-cert-long = Bu sayt içün teşhis statusı elde etilalmay…
+
+## Certificate export "Save as" and error dialogs
+
+save-cert-as = Şeadetnameni Dosyege Saqla
+cert-format-base64 = X.509 Sertifikası (PEM)
+cert-format-base64-chain = X.509 Sertifikası (PEM)
+cert-format-der = X.509 Sertifikası (DER)
+cert-format-pkcs7 = X.509 Sertifikası (PKCS#7)
+cert-format-pkcs7-chain = X.509 Sertifikası (PKCS#7)
+write-file-failure = Dosye Hatası
