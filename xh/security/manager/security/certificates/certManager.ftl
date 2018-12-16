@@ -153,3 +153,8 @@ add-exception-unverified-or-bad-signature-short = Ubunini Obungaziwayo
 add-exception-unverified-or-bad-signature-long = Isatifiketi asithenjwa ngenxa yokuba asikhange siqinisekiswe njengesikhutshwe ligunya elithenjiweyo kusetyenziswa usayino olukhuselekileyo.
 add-exception-checking-long = Izama ukufumanisa le sayithi…
 add-exception-no-cert-short = Akukho Nkcazelo Ikhoyo
+
+## Certificate export "Save as" and error dialogs
+
+save-cert-as = Gcina Isatifiketi Kwifayili
+write-file-failure = Impazamo Yefayile
