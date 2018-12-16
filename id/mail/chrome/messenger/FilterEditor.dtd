@@ -18,22 +18,11 @@
 
 <!ENTITY contextDesc.label "Terapkan filter ketika:">
 
-
-
-
-
-
-
-
-
-
-
 <!ENTITY filterActionDesc.label "Lakukan aksi berikut:">
 <!ENTITY filterActionDesc.accesskey "L">
 
 
 <!-- New Style Filter Rule Actions -->
-
 <!ENTITY moveMessage.label "Pindahkan Pesan ke">
 <!ENTITY copyMessage.label "Salin Pesan ke">
 <!ENTITY forwardTo.label "Teruskan Pesan ke">
@@ -59,4 +48,3 @@
      are truncated in the widgets.
   -->
 <!-- Flex Attribute: https://developer.mozilla.org/docs/XUL/Attribute/flex -->
-
