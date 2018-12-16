@@ -232,3 +232,13 @@ add-exception-checking-short = माहिती तपासत आहे
 add-exception-checking-long = संकेतस्थळ ओळखण्याचा प्रयत्न करीत आहे…
 add-exception-no-cert-short = माहिती उपलब्ध नाही
 add-exception-no-cert-long = या संकेतस्थळाची ओळखविषयक स्थिती प्राप्त करू शकत नाही.
+
+## Certificate export "Save as" and error dialogs
+
+save-cert-as = प्रमाणपत्रास फाइल मध्ये संचयीत करा
+cert-format-base64 = X.509 प्रमाणपत्र (PEM)
+cert-format-base64-chain = X.509 प्रमाणपत्र चैन सह (PEM)
+cert-format-der = X.509 प्रमाणपत्र (DER)
+cert-format-pkcs7 = X.509 प्रमाणपत्र (PKCS#7)
+cert-format-pkcs7-chain = X.509 प्रमाणपत्र चैन सह (PKCS#7)
+write-file-failure = फाइल त्रुटी
