@@ -202,3 +202,13 @@ add-exception-valid-short = Wôżny certifikat
 add-exception-valid-long = Nen serwer dôwô zwerifikòwóną jawernotã. Ni mùszisz dodôwac wëjimków.
 add-exception-checking-short = Sprôwdzanié pòdôwków
 add-exception-no-cert-short = Felënk przistãpnoscë do infòrmacje
+
+## Certificate export "Save as" and error dialogs
+
+save-cert-as = Zapiszë certifikat do lopka
+cert-format-base64 = Certifikat X.509 (PEM)
+cert-format-base64-chain = Certifikat X.509 z lińcuchã (PEM)
+cert-format-der = Certifikat X.509 (DER)
+cert-format-pkcs7 = Certifikat X.509 (PKCS#7)
+cert-format-pkcs7-chain = Certifikat X.509 z lińcuchã (PKCS#7)
+write-file-failure = Fela lopka
