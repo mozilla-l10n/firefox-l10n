@@ -232,3 +232,13 @@ add-exception-checking-short = Informacije so kontrolěruju
 add-exception-checking-long = Wopytujo se, sedło identificěrowaś…
 add-exception-no-cert-short = Žedne informacije k dispoziciji
 add-exception-no-cert-long = Njejo móžno, status identifikacije za toś to sedło zwěsćiś.
+
+## Certificate export "Save as" and error dialogs
+
+save-cert-as = Certifikat do dataje składowaś
+cert-format-base64 = Certifikat X.509 (PEM)
+cert-format-base64-chain = Certifikat X.509 z rjeśazom (PEM)
+cert-format-der = Certifikat X.509 (DER)
+cert-format-pkcs7 = Certifikat X.509 (PKCS#7)
+cert-format-pkcs7-chain = Certifikat X.509 z rjeśazom (PKCS#7)
+write-file-failure = Datajowa zmólka
