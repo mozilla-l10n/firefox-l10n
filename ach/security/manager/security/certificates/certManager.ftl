@@ -232,3 +232,10 @@ add-exception-checking-short = Tye ka roto Ngec
 add-exception-checking-long = Tye ka temo nyutu kakube man…
 add-exception-no-cert-short = Ngec pe tye
 add-exception-no-cert-long = Pe romo nongo kit pa lanyut pi kakube man.
+
+## Certificate export "Save as" and error dialogs
+
+cert-format-base64 = X.509 Waraga (PEM)
+cert-format-base64-chain = X.509 Waraga kwede chain(PEM)
+cert-format-der = X.509 Waraga (DER)
+cert-format-pkcs7 = X.509 Waraga (PKCS#7)
