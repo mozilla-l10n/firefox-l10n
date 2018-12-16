@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY addons.windowTitle                   "Správce doplňků">
 
-<!ENTITY search.placeholder2                  "Najít na addons.mozilla.org">
-
 <!ENTITY search.placeholder3                  "Vyhledat na addons.mozilla.org">
 <!ENTITY search.buttonlabel                   "Hledat">
 <!-- LOCALIZATION NOTE (search.commandkey):
@@ -20,9 +18,6 @@
 <!ENTITY installAddonFromFile.label           "Instalovat doplněk ze souboru…">
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "Nástroje doplňků">
-
-<!ENTITY getThemes.description                "Chcete si přizpůsobit svůj prohlížeč?">
-<!ENTITY getThemes.learnMore                  "Vyberte si některý z tisíce vzhledů.">
 
 
 <!ENTITY showUnsignedExtensions.button.label  "Některá rozšíření nemohla být ověřena">
@@ -87,6 +82,7 @@
 <!ENTITY cmd.preferencesUnix.label            "Předvolby">
 <!ENTITY cmd.preferencesUnix.accesskey        "P">
 
+<!-- addon actions -->
 <!ENTITY cmd.enableAddon.label                "Povolit">
 <!ENTITY cmd.enableAddon.accesskey            "P">
 <!ENTITY cmd.disableAddon.label               "Zakázat">
@@ -95,6 +91,7 @@
 <!ENTITY cmd.enableTheme.accesskey            "m">
 <!ENTITY cmd.disableTheme.label               "Nepoužívat motiv vzhledu">
 <!ENTITY cmd.disableTheme.accesskey           "m">
+
 <!ENTITY cmd.askToActivate.label              "Spustit na vyžádání">
 <!ENTITY cmd.askToActivate.tooltip            "Na spuštění zásuvného modulu se vždy zeptat">
 <!ENTITY cmd.alwaysActivate.label             "Vždy spustit">
@@ -104,8 +101,9 @@
 <!ENTITY cmd.stateMenu.tooltip                "Změní způsob spouštění zásuvného modulu">
 <!ENTITY cmd.installAddon.label               "Instalovat">
 <!ENTITY cmd.installAddon.accesskey           "I">
+
 <!ENTITY cmd.uninstallAddon.label             "Odebrat">
-<!ENTITY cmd.uninstallAddon.accesskey         "d">
+<!ENTITY cmd.uninstallAddon.accesskey         "e">
 <!ENTITY cmd.showPreferencesWin.label         "Možnosti">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Umožní změnit možnosti doplňku">
 <!ENTITY cmd.showPreferencesUnix.label        "Předvolby">
@@ -162,9 +160,12 @@
 
 <!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "Pozastavit">
+
+<!-- download/install progress -->
 <!ENTITY progress.cancel.tooltip              "Zrušit">
 
 <!ENTITY addon.homepage                       "Domovská stránka">
+
 <!ENTITY addon.details.label                  "Více">
 <!ENTITY addon.details.tooltip                "Zobrazí více informací o doplňku">
 <!ENTITY addon.unknownDate                    "Neznámá">
@@ -186,6 +187,7 @@
 <!ENTITY addon.undoRemove.label               "Zpět">
 <!ENTITY addon.undoRemove.tooltip             "Ponechá doplněk nainstalovaný">
 <!ENTITY addon.restartNow.label               "Restartovat">
+
 <!ENTITY addon.install.label                  "Instalovat">
 <!ENTITY addon.install.tooltip                "Nainstaluje doplněk">
 <!ENTITY addon.updateNow.label                "Aktualizovat">
