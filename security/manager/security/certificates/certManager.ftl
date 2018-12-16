@@ -238,6 +238,7 @@ add-exception-no-cert-long = تعذّر الحصول على حالة التعر�
 save-cert-as = احفظ الشهادة في ملف
 cert-format-base64 = شهادة ‪X.509 (PEM)‬
 cert-format-base64-chain = شهادة ‪X.509 (PEM)‬ مع سلسلة
+cert-format-der = شهادة ‪X.509‬‏ (DER)
 cert-format-pkcs7 = شهادة ‪X.509 (PKCS#7)
 cert-format-pkcs7-chain = شهادة ‪X.509 (PKCS#7)‬ مع سلسلة
 write-file-failure = خطأ في الملف
