@@ -232,3 +232,13 @@ add-exception-checking-short = Ақпаратты тексеру жүруде
 add-exception-checking-long = Сайтты анықтап көру…
 add-exception-no-cert-short = Қолжетерлік ақпарат жоқ
 add-exception-no-cert-long = Берілген сайт үшін идентификация статусын алу мүмкін емес.
+
+## Certificate export "Save as" and error dialogs
+
+save-cert-as = Серификатты файлға сақтау
+cert-format-base64 = PEM пішіміндегі X.509 сертификаты
+cert-format-base64-chain = PEM пішіміндегі X.509 сертификаттар тобы
+cert-format-der = DER пішіміндегі X.509 сертификаты
+cert-format-pkcs7 = PKCS#7 пішіміндегі X.509 сертификаты
+cert-format-pkcs7-chain = PKCS#7 пішіміндегі X.509 сертификаттар тобы
+write-file-failure = Файл қатесі
