@@ -162,3 +162,13 @@ add-exception-expired-short = Daan a Damag
 add-exception-valid-short = Natutup a Sertipiko
 add-exception-valid-long = Agpappaay daytoy a purok iti natutup ken napasingkedan a pagilasinan. Saan a nasken nga inayon ti laksid.
 add-exception-no-cert-short = Awan ti Mabasa a Damag
+
+## Certificate export "Save as" and error dialogs
+
+save-cert-as = Pagidulinan nga Intar ti Sertipiko
+cert-format-base64 = Sertipko a X.509 (PEM)
+cert-format-base64-chain = sertipko a X.509 ken kawar (PEM)
+cert-format-der = Sertipiko a X.509 (DER)
+cert-format-pkcs7 = Sertipiko a X.509 (PKCS#7)
+cert-format-pkcs7-chain = Sertipiko a X.509 ken kawar (PKCS#7)
+write-file-failure = Kammali iti Intar
