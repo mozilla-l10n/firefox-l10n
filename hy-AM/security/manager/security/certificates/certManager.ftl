@@ -231,4 +231,10 @@ add-exception-no-cert-long = Չհաջողվեց ստանալ այս կայքի �
 
 ## Certificate export "Save as" and error dialogs
 
+save-cert-as = Պահել Վկայագիրը ֆայլում
+cert-format-base64 = X.509 Վկայագիր (PEM)
+cert-format-base64-chain = (PEM) ձևի X.509 Վկայագրի շղթա
+cert-format-der = X.509 Վկայագիր (DER)
+cert-format-pkcs7 = X.509 Վկայագիր (PKCS#7)
+cert-format-pkcs7-chain = X.509 Վկայագրերի շղթա (PKCS#7)
 write-file-failure = Ֆայլի սխալ
