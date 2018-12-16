@@ -241,3 +241,4 @@ cert-format-base64-chain = Dëshmi X.509 me zinxhir (PEM)
 cert-format-der = Dëshmi X.509 (DER)
 cert-format-pkcs7 = Dëshmi X.509 (PKCS#7)
 cert-format-pkcs7-chain = Dëshmi X.509 me zinxhir (PKCS#7)
+write-file-failure = Gabim Kartele
