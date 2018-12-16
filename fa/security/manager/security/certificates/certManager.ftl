@@ -232,3 +232,13 @@ add-exception-checking-short = در حال وارسی اطلاعات
 add-exception-checking-long = تلاش برای شناسایی این پایگاه …
 add-exception-no-cert-short = هیچ اطلاعاتی وجود ندارد
 add-exception-no-cert-long = تعیین وضعیت شناسایی این پایگاه امکان‌پذیر نمی‌باشد.
+
+## Certificate export "Save as" and error dialogs
+
+save-cert-as = ذخیرهٔ گواهی در پرونده
+cert-format-base64 = گواهی X.509‎‏ (PEM)‏
+cert-format-base64-chain = گواهی X.509‎ با زنجیره (PEM)‏
+cert-format-der = گواهی X.509‎‏ (DER)‏
+cert-format-pkcs7 = گواهی X.509‎‏ (PKCS#7)‏
+cert-format-pkcs7-chain = گواهی X.509‎ با زنجیره (PKCS#7)‏
+write-file-failure = خطای پرونده
