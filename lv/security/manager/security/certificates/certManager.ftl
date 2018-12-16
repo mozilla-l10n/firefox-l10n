@@ -232,3 +232,13 @@ add-exception-checking-short = Pārbauda informāciju
 add-exception-checking-long = Mēģina identificēt šo vietni…
 add-exception-no-cert-short = Informācija nav pieejama
 add-exception-no-cert-long = Neizdevās iegūt šīs vietnes identifikācijas statusu.
+
+## Certificate export "Save as" and error dialogs
+
+save-cert-as = Saglabāt sertifikātu failā
+cert-format-base64 = X.509 sertifikāts (PEM)
+cert-format-base64-chain = X.509 sertifikāts ar ķēdi (PEM)
+cert-format-der = X.509 sertifikāts (DER)
+cert-format-pkcs7 = X.509 sertifikāts (PKCS#7)
+cert-format-pkcs7-chain = X.509 sertifikāts ar ķēdi (PKCS#7)
+write-file-failure = Faila kļūda
