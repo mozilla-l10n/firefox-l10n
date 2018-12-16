@@ -216,3 +216,13 @@ add-exception-checking-short = مولومات جانچ كر۪ین
 add-exception-checking-long = کوشش کران سایِٹ پریزناونْچ ۔ ۔ ۔
 add-exception-no-cert-short = كہین مولومات چھئ نئ دستیاب
 add-exception-no-cert-long = ہیوک نْہ حأصل کْرتھ پہچان سیٹیٹس یتھ سایٹْہ باپت۔
+
+## Certificate export "Save as" and error dialogs
+
+save-cert-as = سرٹئفیكیٹ كریو محفوظ فایل۪ی پیٹھ
+cert-format-base64 = X.509 سرٹئفیكیٹ (PEM)
+cert-format-base64-chain = X.509 سرٹئفیكیٹ چین سئتھ (PEM)
+cert-format-der = X.509 سرٹئفیكیٹ(DER)
+cert-format-pkcs7 = X.509 سرٹئفیكیٹ(PKCS#7)
+cert-format-pkcs7-chain = X.509 سرٹئفیكیٹ چینئ سئتھ (PKCS#7)
+write-file-failure = فایل غلطی
