@@ -232,3 +232,13 @@ add-exception-checking-short = ინფორმაციის შემოწ
 add-exception-checking-long = ამ საიტის ამოცნობის მცდელობა…
 add-exception-no-cert-short = ინფორმაცია მიუწვდომელია
 add-exception-no-cert-long = საიტის ნამდვილობის შესახებ ინფორმაციის მიღება, შეუძლებელია.
+
+## Certificate export "Save as" and error dialogs
+
+save-cert-as = სერთიფიკატის ფაილში შენახვა
+cert-format-base64 = X.509 სერთიფიკატი (PEM)
+cert-format-base64-chain = X.509 სერთიფიკატი ჯაჭვით (PEM)
+cert-format-der = X.509 სერთიფიკატი (DER)
+cert-format-pkcs7 = X.509 სერთიფიკატი (PKCS#7)
+cert-format-pkcs7-chain = X.509 სერთიფიკატი ჯაჭვით (PKCS#7)
+write-file-failure = ფაილის შეცდომა
