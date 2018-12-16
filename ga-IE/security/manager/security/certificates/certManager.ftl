@@ -228,3 +228,13 @@ add-exception-checking-short = Eolas á sheiceáil
 add-exception-checking-long = Ag iarraidh an suíomh seo a aithint…
 add-exception-no-cert-short = Níl eolas ar fáil
 add-exception-no-cert-long = Níorbh fhéidir stádas aitheanta a fháil don suíomh seo.
+
+## Certificate export "Save as" and error dialogs
+
+save-cert-as = Sábháil Teastas go Comhad
+cert-format-base64 = Teastas X.509 (PEM)
+cert-format-base64-chain = Teastas X.509 le slabhra (PEM)
+cert-format-der = Teastas X.509 (DER)
+cert-format-pkcs7 = Teastas X.509 (PKCS#7)
+cert-format-pkcs7-chain = Teastas X.509 le slabhra (PKCS#7)
+write-file-failure = Earráid Chomhaid
