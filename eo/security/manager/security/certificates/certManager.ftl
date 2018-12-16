@@ -232,3 +232,13 @@ add-exception-checking-short = Kontrolado de informo
 add-exception-checking-long = Klopodo identigi tiun ĉi retejon…
 add-exception-no-cert-short = Neniu informo disponebla
 add-exception-no-cert-long = Ne eblis akrigi identigan staton por tiu ĉi retejo.
+
+## Certificate export "Save as" and error dialogs
+
+save-cert-as = Konservi atestilon en dosiero
+cert-format-base64 = Atestilo X.509 (PEM)
+cert-format-base64-chain = Atestilo X.509 kun ĉeno (PEM)
+cert-format-der = Atestilo X.509 (DER)
+cert-format-pkcs7 = Atestilo X.509 (PKCS#7)
+cert-format-pkcs7-chain = Atestilo X.509 kun ĉeno (PKCS#7)
+write-file-failure = Eraro en dosiero
