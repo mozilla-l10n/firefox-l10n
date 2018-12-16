@@ -213,3 +213,13 @@ add-exception-checking-short = माहिती तपासता
 add-exception-checking-long = या सायटीची वळख पटोवपाचो यत्न करता...
 add-exception-no-cert-short = कसलीच माहिती उपलब्ध ना
 add-exception-no-cert-long = ह्या सायटीची वळख स्थिती मेळोवपाक शकले ना.
+
+## Certificate export "Save as" and error dialogs
+
+save-cert-as = फायलीक प्रमाणपत्र सांबाळचें
+cert-format-base64 = X.509 प्रमाणपत्र (PEM)
+cert-format-base64-chain = X.509 प्रमाणपत्र दिवप्यांची सांखळ (PEM)
+cert-format-der = X.509 प्रमाणपत्र (DER)
+cert-format-pkcs7 = X.509 प्रमाणपत्र (PKCS#7)
+cert-format-pkcs7-chain = X.509 प्रमाणपत्र दिवप्यांची सांखळ (PKCS#7)
+write-file-failure = फायलीची चूक
