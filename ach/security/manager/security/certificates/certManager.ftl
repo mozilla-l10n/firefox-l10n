@@ -235,7 +235,10 @@ add-exception-no-cert-long = Pe romo nongo kit pa lanyut pi kakube man.
 
 ## Certificate export "Save as" and error dialogs
 
+save-cert-as = Gwoko Waraga I Pwail
 cert-format-base64 = X.509 Waraga (PEM)
 cert-format-base64-chain = X.509 Waraga kwede chain(PEM)
 cert-format-der = X.509 Waraga (DER)
 cert-format-pkcs7 = X.509 Waraga (PKCS#7)
+cert-format-pkcs7-chain = X.509 Waraga kwede kupe (PKCS#7)
+write-file-failure = Bal me Pwail
