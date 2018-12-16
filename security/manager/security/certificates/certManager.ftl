@@ -226,8 +226,10 @@ add-exception-no-cert-short = ไม่มีข้อมูล
 
 ## Certificate export "Save as" and error dialogs
 
+save-cert-as = บันทึกใบรับรองเป็นไฟล์
 cert-format-base64 = ใบรับรอง X.509 (PEM)
 cert-format-base64-chain = ใบรับรอง X.509 พร้อม chian (PEM)
 cert-format-der = ใบรับรอง X.509 (DER)
 cert-format-pkcs7 = ใบรับรอง X.509 (PKCS#7)
 cert-format-pkcs7-chain = ใบรับรอง X.509 พร้อม chain (PKCS#7)
+write-file-failure = ข้อผิดพลาดไฟล์
