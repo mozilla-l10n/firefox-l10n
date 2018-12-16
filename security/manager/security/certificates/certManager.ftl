@@ -207,4 +207,9 @@ add-exception-no-cert-short = Tu Agahî Nîn e
 ## Certificate export "Save as" and error dialogs
 
 save-cert-as = Sertîfîkayê Di Pelê De Tomar Bike
+cert-format-base64 = X.509 Sertîfîka (PEM)
+cert-format-base64-chain = X.509 Sertîfîkaya bi zincîr (PEM)
+cert-format-der = X.509 Sertîfîka (DER)
+cert-format-pkcs7 = X.509 Sertîfîka (PKCS#7)
+cert-format-pkcs7-chain = X.509 Sertîfîkaya bi zincîr (PKCS#7)
 write-file-failure = Çewtiya Pelê
