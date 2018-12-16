@@ -232,3 +232,13 @@ add-exception-checking-short = Preverjanje podatkov
 add-exception-checking-long = Poskus prepoznavanja strani …
 add-exception-no-cert-short = Podatki niso na voljo
 add-exception-no-cert-long = Ni mogoče pridobiti stanja identifikacije te strani.
+
+## Certificate export "Save as" and error dialogs
+
+save-cert-as = Shrani digitalno potrdilo v datoteko
+cert-format-base64 = Digitalno potrdilo X.509 (PEM)
+cert-format-base64-chain = Digitalno potrdilo X.509 z verigo (PEM)
+cert-format-der = Digitalno potrdilo X.509 (DER)
+cert-format-pkcs7 = Digitalno potrdilo X.509 (PKCS#7)
+cert-format-pkcs7-chain = Digitalno potrdilo X.509 z verigo (PKCS#7)
+write-file-failure = Napaka datoteke
