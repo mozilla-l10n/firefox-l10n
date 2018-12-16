@@ -232,3 +232,7 @@ add-exception-checking-short = contròllo e informaçioin
 add-exception-checking-long = Tentativo d'identificaçion do scito…
 add-exception-no-cert-short = No gh'é nisciunn-a informaçion
 add-exception-no-cert-long = Inposcibile pigiâ o stæto de identificaçion de sto scito.
+
+## Certificate export "Save as" and error dialogs
+
+write-file-failure = Erô do file
