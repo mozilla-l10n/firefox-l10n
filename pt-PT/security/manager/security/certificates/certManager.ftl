@@ -235,6 +235,7 @@ add-exception-no-cert-long = Não foi possível obter o estado da identificaçã
 
 ## Certificate export "Save as" and error dialogs
 
+save-cert-as = Guardar certificado para ficheiro
 cert-format-base64 = Certificado X.509 (PEM)
 cert-format-base64-chain = Certificado X.509 com cadeia (PEM)
 cert-format-der = Certificado X.509 (DER)
