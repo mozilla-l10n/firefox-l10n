@@ -679,6 +679,7 @@ addressbar-suggestions-settings = Ndryshoni parapëlqimet mbi këshillime motor�
 
 content-blocking-header = Bllokim Lënde
 content-blocking-desc = Bllokoni lëndë palësh të treta, të tillë si reklama ose kod, që mund të ngadalësojnë shfletimin tuaj dhe t’ju gjurmojnë nëpër internet. Përshtatini rregullimet tuaj për baraspeshimin më të mirë mes mbrojtjes dhe funksionimit.
+content-blocking-description = Bllokoni lëndë palësh të treta që ju ndjek nëpër internet. Kontrolloni ç’pjesë e veprimtarisë tuaj depozitohet dhe shkëmbehet mes sajtesh.
 content-blocking-learn-more = Mësoni më tepër
 content-blocking-restore-defaults =
     .label = Rikthe Parazgjedhjet
@@ -723,11 +724,26 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = Vetjak
     .accesskey = V
+content-blocking-standard-description = Bllokon vetëm gjurmues të njohur në Dritare Private.
+content-blocking-standard-desc = E baraspeshuar mes mbrojtjes dhe funksionimit. Lejon disa gjurmues, që sajtet të funksionojnë si duhet.
+content-blocking-strict-desc = Bllokon krejt gjurmuesit që pikas { -brand-short-name }-i. Mund të sjellë mosfunksionim të disa sajteve.
+content-blocking-custom-desc = Zgjidhni ç’të bllokohet.
+content-blocking-private-trackers = Gjurmues të njohur vetëm në Dritare Private
+content-blocking-third-party-cookies = Cookies gjurmimi nga palë të treta
+content-blocking-all-windows-trackers = Gjurmues të njohur në krejt dritaret
 content-blocking-all-third-party-cookies = Krejt cookie-t prej palësh të treta
+content-blocking-warning-title = Kini mendjen!
+content-blocking-warning-desc = Bllokimi i cookie-eve dhe gjurmuesve mund të bëjë që disa sajte të mos funksionojnë. Është e lehtë të çaktivizoni bllokime për sajte të cilëve u zini besë.
 content-blocking-learn-how = Mësoni se si
 content-blocking-trackers-label =
     .label = Gjurmues
     .accesskey = u
+content-blocking-tracking-protection-option-all-windows =
+    .label = Në krejt dritaret
+    .accesskey = k
+content-blocking-option-private =
+    .label = Vetëm në Dritare Pivate
+    .accesskey = V
 content-blocking-tracking-protection-change-block-list = Ndryshoni listë bllokimesh
 content-blocking-third-party-cookies-label =
     .label = Cookies Palësh të Treta
@@ -750,6 +766,9 @@ content-blocking-reject-trackers-block-trackers-option =
 content-blocking-reject-trackers-all-third-parties-option =
     .label = Krejt cookie-t nga palë të treta (mund të sjellë mosfunksionim sajtesh)
     .accesskey = K
+content-blocking-cookies-label =
+    .label = Cookies
+    .accesskey = C
 
 ## Privacy Section - Tracking
 
@@ -771,6 +790,9 @@ tracking-exceptions =
 tracking-change-block-list =
     .label = Ndryshoni Listë Bllokimesh…
     .accesskey = N
+tracking-manage-exceptions =
+    .label = Administroni Përjashtime…
+    .accesskey = A
 
 ## Privacy Section - Permissions
 
@@ -838,6 +860,9 @@ collection-health-report-link = Mësoni më tepër
 collection-studies =
     .label = Lejojeni { -brand-short-name } të instalojë dhe kryejë studime
 collection-studies-link = Shihni studime { -brand-short-name }
+addon-recommendations =
+    .label = Lejojeni { -brand-short-name }-in të bëjë rekomandime të  personalizuara rreth zgjerimesh
+addon-recommendations-link = Mësoni më tepër
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Raportimi i të dhënave është i çaktivizuar për këtë formësim montimi
