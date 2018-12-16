@@ -216,3 +216,11 @@ add-exception-checking-short = තොරතුරු පිරික්සමි
 add-exception-checking-long = අඩවිය හදුනා ගැනීමට උත්සාහ කරමින්…
 add-exception-no-cert-short = තොරතුරු නැත
 add-exception-no-cert-long = ලබා දුන් අඩවිය සඳහා හදුනා ගැනිමේ තත්ත්වය ලබා ගත නොහැකි විය.
+
+## Certificate export "Save as" and error dialogs
+
+save-cert-as = සහතිකය ගොනුවට සුරකින්න
+cert-format-base64-chain = X.509 Certificate with chain (PEM)
+cert-format-der = X.509 (DER) සහතිකය
+cert-format-pkcs7 = X.509 (PKCS#7) සහතිකය
+cert-format-pkcs7-chain = X.509 Certificate with chain (PKCS#7)
