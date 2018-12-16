@@ -232,3 +232,13 @@ add-exception-checking-short = Kontrollerer information
 add-exception-checking-long = Forsøger at identificere webstedet…
 add-exception-no-cert-short = Ingen tilgængelig information
 add-exception-no-cert-long = Kan ikke fastslå status for webstedets certifikat.
+
+## Certificate export "Save as" and error dialogs
+
+save-cert-as = Gem certifikatet i en fil
+cert-format-base64 = X.509-certifikat (PEM)
+cert-format-base64-chain = X.509-certifikat med kæde (PEM)
+cert-format-der = X.509-certifikat (DER)
+cert-format-pkcs7 = X.509-certifikat (PKCS#7)
+cert-format-pkcs7-chain = X.509-certifikat med kæde (PKCS#7)
+write-file-failure = Fejl i filen
