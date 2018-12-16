@@ -231,6 +231,7 @@ add-exception-no-cert-long = ఈ సైట్ కోసం గుర్తి
 
 ## Certificate export "Save as" and error dialogs
 
+save-cert-as = ధృవీకరణపత్రాన్ని ఫైల్ నకు భద్రపరచు
 cert-format-base64 = X.509 ధృవీకరణపత్రం (PEM)
 cert-format-base64-chain = X.509 చైన్‌తో ధృవీకరణపత్రం (PEM)
 cert-format-der = X.509 ధృవీకరణపత్రం (DER)
