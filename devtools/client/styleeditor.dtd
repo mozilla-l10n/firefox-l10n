@@ -42,6 +42,10 @@
      the menu item to toggle showing the @media sidebar. -->
 <!ENTITY showMediaSidebar.accesskey     "m">
 
+<!-- LOCALICATION NOTE  (mediaRules.label): This is shown above the list of @media rules
+     in each stylesheet editor sidebar. -->
+<!ENTITY mediaRules.label           "@media rules">
+
 <!ENTITY editorTextbox.placeholder  "Jepeni CSS-në këtu.">
 
 <!-- LOCALICATION NOTE  (noStyleSheet.label): This is shown when a page has no
@@ -58,10 +62,10 @@
 <!-- LOCALICATION NOTE  (noStyleSheet-tip-end.label): End of the tip sentence -->
 <!ENTITY noStyleSheet-tip-end.label    "?">
 
-<!-- LOCALICATION NOTE  (mediaRules.label): This is shown above the list of @media rules
-     in each stylesheet editor sidebar. -->
-<!ENTITY mediaRules.label           "@media rules">
-
 <!-- LOCALIZATION NOTE (openLinkNewTab.label): This is the text for the
      context menu item that opens a stylesheet in a new tab -->
 <!ENTITY openLinkNewTab.label     "Hapeni Lidhjen në Skedë të Re">
+
+<!-- LOCALIZATION NOTE (copyUrl.label): This is the text for the
+     context menu item that copies a stylesheet's URL -->
+<!ENTITY copyUrl.label            "Kopjoji URL-në">
