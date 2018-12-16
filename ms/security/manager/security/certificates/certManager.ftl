@@ -232,3 +232,9 @@ add-exception-checking-short = Semakan Maklumat
 add-exception-checking-long = Cubaan mengenal pasti laman ini…
 add-exception-no-cert-short = Tiada Maklumat wujud
 add-exception-no-cert-long = Tidak dapat mendapatkan status identifikasi laman ini.
+
+## Certificate export "Save as" and error dialogs
+
+save-cert-as = Simpan Sijil Kepada Fail
+cert-format-base64 = X.509 Certificate (PEM)
+write-file-failure = Ralat File
