@@ -232,3 +232,12 @@ add-exception-checking-short = Έλεγχος πληροφοριών
 add-exception-checking-long = Γίνεται προσπάθεια πιστοποίησης της σελίδας…
 add-exception-no-cert-short = Δεν υπάρχουν διαθέσιμες πληροφορίες
 add-exception-no-cert-long = Αδυναμία λήψης κατάστασης ταυτότητας για αυτή τη σελίδα.
+
+## Certificate export "Save as" and error dialogs
+
+save-cert-as = Αποθήκευση πιστοποιητικού στο αρχείο
+cert-format-base64 = Πιστοποιητικό X.509 (PEM)
+cert-format-der = Πιστοποιητικό X.509 (DER)
+cert-format-pkcs7 = Πιστοποιητικό X.509 (PKCS#7)
+cert-format-pkcs7-chain = Πιστοποιητικό X.509 με chain (PKCS#7)
+write-file-failure = Σφάλμα αρχείου
