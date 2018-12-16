@@ -237,6 +237,7 @@ add-exception-no-cert-long = Αδυναμία λήψης κατάστασης τ
 
 save-cert-as = Αποθήκευση πιστοποιητικού στο αρχείο
 cert-format-base64 = Πιστοποιητικό X.509 (PEM)
+cert-format-base64-chain = Πιστοποιητικό X.509 με chain (PKCS#7)
 cert-format-der = Πιστοποιητικό X.509 (DER)
 cert-format-pkcs7 = Πιστοποιητικό X.509 (PKCS#7)
 cert-format-pkcs7-chain = Πιστοποιητικό X.509 με chain (PKCS#7)
