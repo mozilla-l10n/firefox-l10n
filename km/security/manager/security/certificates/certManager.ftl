@@ -216,3 +216,13 @@ add-exception-checking-short = កំពុង​ពិនិត្យមើល�
 add-exception-checking-long = កំពុង​ព្យាយាម​កំណត់​អត្តសញ្ញាណ​តំបន់បណ្ដាញ…
 add-exception-no-cert-short = គ្មាន​ព័ត៌មាន
 add-exception-no-cert-long = មិន​អាច​ទទួល​បាន​ស្ថានភាព​នៃ​ការ​កំណត់​អត្តសញ្ញាណ​សម្រាប់​តំបន់បណ្ដាញ​នេះ។
+
+## Certificate export "Save as" and error dialogs
+
+save-cert-as = រក្សាទុក​វិញ្ញាបនបត្រ​ទៅកាន់​ឯកសារ
+cert-format-base64 = វិញ្ញាបនបត្រ X.509 (PEM)
+cert-format-base64-chain = វិញ្ញាបនបត្រ X.509 ដែល​មាន​ខ្សែស្រឡាយ​ (PEM)
+cert-format-der = វិញ្ញាបនបត្រ X.509  (DER)
+cert-format-pkcs7 = វិញ្ញាបនបត្រ X.509  (PKCS#7)
+cert-format-pkcs7-chain = វិញ្ញាបនបត្រ X.509 ដែល​មាន​ខ្សែស្រឡាយ (PKCS#7)
+write-file-failure = កំហុស​ឯកសារ
