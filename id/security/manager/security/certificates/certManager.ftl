@@ -239,4 +239,6 @@ save-cert-as = Simpan Sertifikat menjadi Berkas
 cert-format-base64 = Sertifikat X.509 (PEM)
 cert-format-base64-chain = Sertifikat berantai X.509 (PEM)
 cert-format-der = Sertifikat X.509 (DER)
+cert-format-pkcs7 = Sertifikat X.509 (PKCS#7)
+cert-format-pkcs7-chain = Sertifikat X.509 dengan rantai (PKCS#7)
 write-file-failure = Kesalahan Berkas
