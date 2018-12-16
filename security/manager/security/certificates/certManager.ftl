@@ -235,4 +235,10 @@ add-exception-no-cert-long = Bu sitenin tanımlanma durumuna ulaşılamıyor.
 
 ## Certificate export "Save as" and error dialogs
 
+save-cert-as = Sertifikayı dosyaya kaydet
+cert-format-base64 = X.509 sertifikası (PEM)
+cert-format-base64-chain = X.509 sertifikası (PEM)
+cert-format-der = X.509 sertifikası (DER)
+cert-format-pkcs7 = X.509 sertifikası (PKCS#7)
+cert-format-pkcs7-chain = X.509 sertifikası (PKCS#7)
 write-file-failure = Dosya hatası
