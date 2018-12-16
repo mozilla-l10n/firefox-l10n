@@ -232,3 +232,13 @@ add-exception-checking-short = Asenqed n telɣut
 add-exception-checking-long = Aɛraḍ n usulu n usmel-agi…
 add-exception-no-cert-short = Ulac talɣut
 add-exception-no-cert-long = Aggway n waddad n usulu n usmel-agi d awewɣi.
+
+## Certificate export "Save as" and error dialogs
+
+save-cert-as = Kles aselkin deg ufaylu
+cert-format-base64 = Aselkin X.509 (PEM)
+cert-format-base64-chain = Aselkin X.509 s uzrar (PEM)
+cert-format-der = Aselkin X.509 (DER)
+cert-format-pkcs7 = Aselkin X.509 (PKCS#7)
+cert-format-pkcs7-chain = Aselkin X.509 s uzrar (PKCS#7)
+write-file-failure = Tuccḍa n ufaylu
