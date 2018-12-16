@@ -232,3 +232,13 @@ add-exception-checking-short = 正在检查信息
 add-exception-checking-long = 正在尝试识别此站点…
 add-exception-no-cert-short = 无可用信息
 add-exception-no-cert-long = 无法取得指定站点的标识及状态信息。
+
+## Certificate export "Save as" and error dialogs
+
+save-cert-as = 保存证书至文件
+cert-format-base64 = X.509 证书 (PEM)
+cert-format-base64-chain = X.509 含链证书 (PEM)
+cert-format-der = X.509 证书 (DER)
+cert-format-pkcs7 = X.509 证书 (PKCS#7)
+cert-format-pkcs7-chain = X.509 含链证书 (PKCS#7)
+write-file-failure = 文件错误
