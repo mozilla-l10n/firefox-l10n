@@ -73,3 +73,13 @@ connection-dns-over-https =
 connection-dns-over-https-url = URL
     .accesskey = U
     .tooltiptext = URL për ftillim DNS-je përmes HTTPS-je
+# Variables:
+#   $url (String) - URL for the DNS over HTTPS provider
+connection-dns-over-https-url-default =
+    .label = Përdor parazgjedhjen ({ $url })
+    .accesskey = P
+    .tooltiptext = Për ftillim DNS-je përmes HTTPS-së, përdor URL-në parazghjedhje
+connection-dns-over-https-url-custom =
+    .label = Vetjake
+    .accesskey = V
+    .tooltiptext = Jepni URL-në tuaj të parapëlqyer për ftillim DNS-je për HTTPS-së
