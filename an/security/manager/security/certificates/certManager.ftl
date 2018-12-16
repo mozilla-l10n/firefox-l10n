@@ -232,3 +232,13 @@ add-exception-checking-short = Comprobación d'a información
 add-exception-checking-long = No se confía en o certificau, porque no ye verificau por una autoridat confiada que faiga servir una sinyadura segura.
 add-exception-no-cert-short = No i hai garra información disponible
 add-exception-no-cert-long = No se puede obtener o estau d'identificación pa iste puesto.
+
+## Certificate export "Save as" and error dialogs
+
+save-cert-as = Alzar o certificau en un fichero
+cert-format-base64 = Certificau X.509 (PEM)
+cert-format-base64-chain = Certificau X.509 con cadena (PEM)
+cert-format-der = Certificau X.509 (DER)
+cert-format-pkcs7 = Certificau X.509 (PKCS#7)
+cert-format-pkcs7-chain = Certificau X.509 con cadena (PKCX#7)
+write-file-failure = Error de fichero
