@@ -235,8 +235,10 @@ add-exception-no-cert-long = ਇਸ ਸਾਇਟ ਤੋਂ ਪਛਾਣ ਸਰ�
 
 ## Certificate export "Save as" and error dialogs
 
+save-cert-as = ਸਰਟੀਫਿਕੇਟ ਫਾਈਲ ਵਿੱਚ ਸੰਭਾਲੋ
 cert-format-base64 = X.509 ਸਰਟੀਫਿਕੇਟ (PEM)
 cert-format-base64-chain = ਚੇਨ ਨਾਲ X.509 ਸਰਟੀਫਿਕੇਟ (PEM)
 cert-format-der = X.509 ਸਰਟੀਫਿਕੇਟ (DER)
 cert-format-pkcs7 = X.509 ਸਰਟੀਫਿਕੇਟ (PKCS#7)
 cert-format-pkcs7-chain = ਚੇਨ ਨਾਲ X.509 ਸਰਟੀਫਿਕੇਟ (PKCS#7)
+write-file-failure = ਫਾਈਲ ਗਲਤੀ
