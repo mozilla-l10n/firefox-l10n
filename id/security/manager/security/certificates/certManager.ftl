@@ -232,3 +232,11 @@ add-exception-checking-short = Memeriksa Informasi
 add-exception-checking-long = Mencoba mengidentifikasi situs ini…
 add-exception-no-cert-short = Tidak ada informasi tersedia
 add-exception-no-cert-long = Gagal mendapatkan status identifikasi situs ini.
+
+## Certificate export "Save as" and error dialogs
+
+save-cert-as = Simpan Sertifikat menjadi Berkas
+cert-format-base64 = Sertifikat X.509 (PEM)
+cert-format-base64-chain = Sertifikat berantai X.509 (PEM)
+cert-format-der = Sertifikat X.509 (DER)
+write-file-failure = Kesalahan Berkas
