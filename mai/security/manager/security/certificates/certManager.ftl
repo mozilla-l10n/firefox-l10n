@@ -216,3 +216,13 @@ add-exception-checking-short = सूचना जाँच रहल अछि
 add-exception-checking-long = साइट पहचानबक प्रयास कए रहल अछि …
 add-exception-no-cert-short = कोनो सूचना उपलब्ध नहि
 add-exception-no-cert-long = देल साइटक लेल पहचान स्थिति पाबैमे असमर्थ.
+
+## Certificate export "Save as" and error dialogs
+
+save-cert-as = फाइल मे प्रमाणपत्र सहेजू
+cert-format-base64 = X.509 प्रमाणपत्र (PEM)
+cert-format-base64-chain = X.509 शृंखला क सँग प्रमाणपत्र (PEM)
+cert-format-der = X.509 प्रमाणपत्र (DER)
+cert-format-pkcs7 = X.509 प्रमाणपत्र (PKCS#7)
+cert-format-pkcs7-chain = X.509 शृंखला क सँग प्रमाणपत्र (PKCS#7)
+write-file-failure = फाइल त्रुटि
