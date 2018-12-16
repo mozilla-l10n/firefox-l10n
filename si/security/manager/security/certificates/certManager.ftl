@@ -220,6 +220,7 @@ add-exception-no-cert-long = ලබා දුන් අඩවිය සඳහා
 ## Certificate export "Save as" and error dialogs
 
 save-cert-as = සහතිකය ගොනුවට සුරකින්න
+cert-format-base64 = X.509 (PEM) සහතිකය{ " " }
 cert-format-base64-chain = X.509 Certificate with chain (PEM)
 cert-format-der = X.509 (DER) සහතිකය
 cert-format-pkcs7 = X.509 (PKCS#7) සහතිකය
