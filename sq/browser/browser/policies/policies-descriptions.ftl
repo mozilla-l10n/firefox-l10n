@@ -51,3 +51,21 @@ policy-EnableTrackingProtection = Aktivizoni ose çaktivizoni Bllokim Lënde, dh
 policy-Extensions = Instaloni, çinstaloni ose kyçni zgjerime. Mundësia Instaloni si parametra përdor URL ose shtigje. Mundësitë Çinstaloni dhe Kyçur përdorin ID zgjerimesh.
 policy-FlashPlugin = Lejoni ose jo përdorimin e shtojcës Flash.
 policy-HardwareAcceleration = Nëse false, çaktivizohet përshpejtimi përmes hardware-it.
+# “lock” means that the user won’t be able to change this setting
+policy-Homepage = Caktoni faqen hyrëse, dhe kyçeni në daçi.
+policy-InstallAddonsPermission = Lejojuni disa sajteve të caktuar të instalojnë shtesa.
+policy-NoDefaultBookmarks = Çaktivizoni krijimin e faqerojtësve parazgjedhje të paketuar me { -brand-short-name }-in, dhe Faqerojtës të Mençur (Më të Vizituarit, Etiketa Së Fundi). Shënim: ky rregull ka efekt vetëm nëse përdoret përpara xhirimit për herë të parë nën profilin përkatës.
+policy-OfferToSaveLogins = Bëjeni të detyrueshëm rregullimin për lejimin e { -brand-short-name }-it të ofrojë të mbajë mend kredenciale hyrjesh dhe fjalëkalime. Pranohet që të dyja vlerat, <em>true</em> dhe <em>false</em>.
+policy-OverrideFirstRunPage = Anashkaloni faqen e xhirimit për herë të parë. Lëreni të zbrazët, nëse doni të çaktivizohet faqja e xhirimit për herë të parë.
+policy-OverridePostUpdatePage = Anashkaloni faqen “Ç’ka të Re” që shfaqet pas përditësimesh. Lëreni të zbrazët, nëse doni të çaktivizohet faqja pas-përditësim.
+policy-Permissions = Formësoni lejet për kamerën, mikrofonin, vendndodhjen dhe njoftimet.
+policy-PopupBlocking = Lejojuni, si parazgjedhje, disa sajteve të shfaqin flluska.
+policy-Proxy = Formësoni rregullime ndërmjetësi
+policy-RequestedLocales = Caktoni për aplikacionin listën e gjuhëve të kërkuara, renditur sipas parapëlqimit.
+policy-SanitizeOnShutdown = Gjatë fikjes, pastroni krejt të dhënat e lëvizjeve.
+policy-SearchBar = Caktoni vendin parazgjedhje për shtyllën e kërkimeve. Përdoruesit ende i lejohet ta përshtatë si të dojë.
+policy-SearchEngines = Formësoni rregullime motori kërkimesh. Ky rregull tani është i përdorshëm vetëm në versionin Extended Support Release (ESR).
+# For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
+policy-SecurityDevices = Instaloni module PKCS #11.
+# “format” refers to the format used for the value of this policy.
+policy-WebsiteFilter = Bllokoni vizita në sajte. Për më tepër hollësi mbi këtë format, shihni dokumentimin.
