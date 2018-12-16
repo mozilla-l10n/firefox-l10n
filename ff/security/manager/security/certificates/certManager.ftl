@@ -232,3 +232,13 @@ add-exception-checking-short = Nana Ƴeewtoo Humpito
 add-exception-checking-long = Nana etoo heftinde ndee lowre…
 add-exception-no-cert-short = Alaa Humpito Woodi
 add-exception-no-cert-long = Horiima heɓde ngonka innitol ndee lowre.
+
+## Certificate export "Save as" and error dialogs
+
+save-cert-as = Danndu Seedamfaagu E Fiilde
+cert-format-base64 = Seedamfaagu X.509 (PEM)
+cert-format-base64-chain = Seedamfaagu X.509 ena wonndi e calol (PEM)
+cert-format-der = Seedamfaagu X.509 (DER)
+cert-format-pkcs7 = Seedamfaagu X.509 (PKCS#7)
+cert-format-pkcs7-chain = Seedamfaagu X.509 ena wonndi e calol (PKCS#7)
+write-file-failure = Juumre Fiilde
