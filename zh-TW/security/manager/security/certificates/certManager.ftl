@@ -232,3 +232,13 @@ add-exception-checking-short = 檢查資訊中
 add-exception-checking-long = 正在識別此網站…
 add-exception-no-cert-short = 無可用資訊
 add-exception-no-cert-long = 無法取得此網站的識別資訊。
+
+## Certificate export "Save as" and error dialogs
+
+save-cert-as = 儲存憑證到檔案
+cert-format-base64 = X.509 憑證 (PEM)
+cert-format-base64-chain = X.509 憑證鏈 (PEM)
+cert-format-der = X.509 憑證 (DER)
+cert-format-pkcs7 = X.509 憑證 (PKCS#7)
+cert-format-pkcs7-chain = X.509 憑證鏈 (PKCS#7)
+write-file-failure = 檔案錯誤
