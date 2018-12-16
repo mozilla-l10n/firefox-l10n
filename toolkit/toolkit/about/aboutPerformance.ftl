@@ -10,6 +10,7 @@ about-performance-title = Përgjegjës Punësh
 column-name = Emër
 column-type = Lloj
 column-energy-impact = Ndikim Në Energji
+column-memory = Kujtesë
 
 ## Special values for the Name column
 
@@ -38,9 +39,28 @@ energy-impact-high = I lartë ({ $value })
 energy-impact-medium = Mesatar ({ $value })
 energy-impact-low = I ulët ({ $value })
 
+## Values for the Memory column
+##
+## Variables:
+##   $value (Number) - How much memory is used
+
+size-KB = { $value } KB
+size-MB = { $value } MB
+size-GB = { $value } GB
+
 ## Tooltips for the action buttons
 
 close-tab =
     .title = Mbylle skedën
 show-addon =
     .title = Shfaqe në Përgjegjës Shtesash
+# Tooltip when hovering an item of the about:performance table
+# Variables:
+#   $totalDispatches (Number) - how many dispatches occured for this page since it loaded
+#   $totalDuration (Number) - how much CPU time was used by this page since it loaded
+#   $dispatchesSincePrevious (Number) - how many dispatches occured in the last 2 seconds
+#   $durationSincePrevious (Number) - how much CPU time was used in the last 2 seconds
+item =
+    .title =
+        Dërgime që nga ngarkimi: { $totalDispatches } ({ $totalDuration }ms)
+        Dërgime në sekondat e fundit: { $dispatchesSincePrevious } ({ $durationSincePrevious }ms)
