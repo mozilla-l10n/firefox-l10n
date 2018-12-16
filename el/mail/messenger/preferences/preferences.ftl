@@ -8,3 +8,7 @@ manage-messenger-languages-button =
     .accesskey = λ
 confirm-messenger-language-change-description = Επανεκκίνηση του { -brand-short-name } για εφαρμογή αλλαγών
 confirm-messenger-language-change-button = Εφαρμογή και επανεκκίνηση
+update-pref-write-failure-title = Αποτυχία εγγραφής
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = Αδυναμία αποθήκευσης προτίμησης. Αδυναμία εγγραφής σε αρχείο: { $path }
