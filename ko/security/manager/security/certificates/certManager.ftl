@@ -232,3 +232,13 @@ add-exception-checking-short = 정보 확인 중
 add-exception-checking-long = 사이트 인증 확인 중…
 add-exception-no-cert-short = 정보가 없음
 add-exception-no-cert-long = 사이트에 대한 인증 정보를 얻을 수 없습니다.
+
+## Certificate export "Save as" and error dialogs
+
+save-cert-as = 인증서를 다른 파일로 저장
+cert-format-base64 = X.509 인증서 (PEM)
+cert-format-base64-chain = X.509 체인 인증서 (PEM)
+cert-format-der = X.509 인증서 (DER)
+cert-format-pkcs7 = X.509 인증서 (PKCS #7)
+cert-format-pkcs7-chain = X.509 체인 인증서 (PKCS #7)
+write-file-failure = 파일 오류
