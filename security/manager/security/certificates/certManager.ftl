@@ -237,6 +237,8 @@ add-exception-no-cert-long = Kan geen identificatiestatus van deze website verkr
 
 save-cert-as = Certificaat opslaan als bestand
 cert-format-base64 = X.509-certificaat (PEM)
+cert-format-base64-chain = X.509-certificaat met keten (PEM)
 cert-format-der = X.509-certificaat (DER)
 cert-format-pkcs7 = X.509-certificaat (PKCS#7)
+cert-format-pkcs7-chain = X.509-certificaat met keten (PKCS#7)
 write-file-failure = Bestandsfout
