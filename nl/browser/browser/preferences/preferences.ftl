@@ -186,10 +186,6 @@ open-new-link-as-tabs =
     .label = Koppelingen openen in tabbladen in plaats van nieuwe vensters
     .accesskey = v
 
-warn-on-quit-close-multiple-tabs =
-    .label = Waarschuwen bij het afsluiten en sluiten van meerdere tabbladen
-    .accesskey = m
-
 warn-on-close-multiple-tabs =
     .label = Waarschuwen bij het sluiten van meerdere tabbladen
     .accesskey = m
