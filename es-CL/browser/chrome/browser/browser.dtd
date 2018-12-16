@@ -285,6 +285,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "El navegador está bajo control remoto">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Abrir panel de autenticación web">
 
+<!ENTITY urlbar.storageAccessAnchor.tooltip               "Abrir panel de permisos de actividad de navegación">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Gestionar compartición de la cámara y/o micrófono con el sitio">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Gestionar compartición de micrófono con el sitio">
@@ -1037,6 +1038,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackersView.strictInfo.label 'Para bloquear todos los rastreadores, ajusta el bloqueo de contenido a "Estricto".'>
 
 <!ENTITY contentBlocking.cookies.label "Cookies">
+<!ENTITY contentBlocking.cookiesView.label "Cookies y datos de sitio">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Reportar un problema">
 <!ENTITY contentBlocking.breakageReportView.label "Reportar problemas">
@@ -1120,7 +1122,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.thankyou.msg2                "¡Navega seguro!">
 <!ENTITY panicButton.thankyou.buttonlabel         "¡Gracias!">
 
-<!ENTITY emeLearnMoreContextMenu.label            "Aprender más acerca de DRM…">
+<!ENTITY emeLearnMoreContextMenu.label            "Aprender más sobre DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
 <!ENTITY updateAvailable.message "Actualiza tu &brandShorterName; para lo último en velocidad y privacidad.">

@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY addons.windowTitle                   "Administrador de complementos">
 
-<!ENTITY search.placeholder2                  "Buscar en addons.mozilla.org">
-
 <!ENTITY search.placeholder3                  "Buscar en addons.mozilla.org">
 <!ENTITY search.buttonlabel                   "Buscar">
 <!-- LOCALIZATION NOTE (search.commandkey):
@@ -20,9 +18,6 @@
 <!ENTITY installAddonFromFile.label           "Instalar complemento desde archivo…">
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "Herramientas para todos los complementos">
-
-<!ENTITY getThemes.description                "¿Buscas personalizar tu navegador?">
-<!ENTITY getThemes.learnMore                  "Elige entre miles de temas.">
 
 
 <!ENTITY showUnsignedExtensions.button.label  "Algunas extensiones no pudieron ser verificadas">
@@ -87,14 +82,7 @@
 <!ENTITY cmd.preferencesUnix.label            "Preferencias">
 <!ENTITY cmd.preferencesUnix.accesskey        "P">
 
-
-
-
-
-
-
-
-
+<!-- addon actions -->
 <!ENTITY cmd.enableAddon.label                "Habilitar">
 <!ENTITY cmd.enableAddon.accesskey            "H">
 <!ENTITY cmd.disableAddon.label               "Deshabilitar">
@@ -103,9 +91,6 @@
 <!ENTITY cmd.enableTheme.accesskey            "U">
 <!ENTITY cmd.disableTheme.label               "Dejar de usar tema">
 <!ENTITY cmd.disableTheme.accesskey           "u">
-
-
-
 
 <!ENTITY cmd.askToActivate.label              "Preguntar para activar">
 <!ENTITY cmd.askToActivate.tooltip            "Preguntar cada vez para usar este complemento">
@@ -117,7 +102,6 @@
 <!ENTITY cmd.installAddon.label               "Instalar">
 <!ENTITY cmd.installAddon.accesskey           "I">
 
-
 <!ENTITY cmd.uninstallAddon.label             "Eliminar">
 <!ENTITY cmd.uninstallAddon.accesskey         "r">
 <!ENTITY cmd.showPreferencesWin.label         "Opciones">
@@ -127,9 +111,6 @@
 <!ENTITY cmd.contribute.label                 "Contribuir">
 <!ENTITY cmd.contribute.accesskey             "C">
 <!ENTITY cmd.contribute.tooltip               "Contribuir al desarrollo de este complemento">
-
-
-
 
 <!ENTITY cmd.showReleaseNotes.label           "Mostrar notas de la versión">
 <!ENTITY cmd.showReleaseNotes.tooltip         "Mostrar las notas de la versión para esta actualización">
@@ -177,14 +158,13 @@
 <!-- ratings -->
 <!ENTITY rating2.label                        "Puntuación">
 
-
 <!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "Pausa">
 
+<!-- download/install progress -->
 <!ENTITY progress.cancel.tooltip              "Cancelar">
 
 <!ENTITY addon.homepage                       "Sitio web">
-
 
 <!ENTITY addon.details.label                  "Más">
 <!ENTITY addon.details.tooltip                "Mostrar más detalles sobre este complemento">
@@ -251,4 +231,4 @@
 <!ENTITY legacyWarning.showLegacy "Mostrar extensiones heredadas">
 <!ENTITY legacyExtensions.title "Extensiones heredadas">
 <!ENTITY legacyExtensions.description "Estas extensiones no cumplen con los estándares actuales de &brandShortName; por lo que han sido desactivadas.">
-<!ENTITY legacyExtensions.learnMore "Aprender más acerca de los cambios a los complementos">
+<!ENTITY legacyExtensions.learnMore "Aprender más sobre los cambios a los complementos">
