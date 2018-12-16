@@ -214,6 +214,8 @@ add-exception-no-cert-short = কোনো তথ্য নাই
 
 save-cert-as = প্ৰমাণপত্ৰ ফাইলত ৰক্ষা কৰক
 cert-format-base64 = X.509 প্ৰমাণপত্ৰ (PEM)
+cert-format-base64-chain = শৃংখল (PEM) ৰ সৈতে X.509 প্ৰমাণপত্ৰ
 cert-format-der = X.509 প্ৰমাণপত্ৰ (DER)
 cert-format-pkcs7 = X.509 প্ৰমাণপত্ৰ (PKCS#7)
+cert-format-pkcs7-chain = শংখল (PKCS#7) ৰ সৈতে X.509 প্ৰমাণপত্ৰ
 write-file-failure = ফাইলত ভুল
