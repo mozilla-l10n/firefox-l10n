@@ -232,3 +232,13 @@ add-exception-checking-short = 証明書を確認中
 add-exception-checking-long = このサイトの識別情報を確認しています...
 add-exception-no-cert-short = 証明書がありません
 add-exception-no-cert-long = このサイトを識別するための証明書を取得できませんでした
+
+## Certificate export "Save as" and error dialogs
+
+save-cert-as = 証明書をファイルに保存
+cert-format-base64 = X.509 証明書 (PEM)
+cert-format-base64-chain = 証明書パスを含む X.509 証明書 (PEM)
+cert-format-der = X.509 証明書 (DER)
+cert-format-pkcs7 = X.509 証明書 (PKCS#7)
+cert-format-pkcs7-chain = 証明書パスを含む X.509 証明書 (PKCS#7)
+write-file-failure = ファイルエラー
