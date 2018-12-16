@@ -228,3 +228,13 @@ add-exception-checking-short = အချက်အလက်ကို စစ်ဆ
 add-exception-checking-long = ယခုဆိုဒ်အား အတည်ပြုရန်ကြိုးစားနေသှ်…
 add-exception-no-cert-short = အချက်အလက် မရနိုင်ဘူး
 add-exception-no-cert-long = ယခု ဆိုက်ဒ်အတွက် အတည်ပြုပုံစံ မရယူနိုင်ပါ
+
+## Certificate export "Save as" and error dialogs
+
+save-cert-as = လက်မှတ်ကို ဖိုင်ထဲမှာ သိမ်းဆည်းပါ
+cert-format-base64 = X.509 လက်မှတ် (PEM)
+cert-format-base64-chain = X.509 အချိတ်အဆက်ပါတဲ့ လက်မှတ် (PEM)
+cert-format-der = X.509 လက်မှတ် (DER)
+cert-format-pkcs7 = X.509 လက်မှတ် (PKCS#7)
+cert-format-pkcs7-chain = X.509 အချိတ်အဆက်ပါတဲ့ လက်မှတ် (PKCS#7)
+write-file-failure = ဖိုင် အမှား
