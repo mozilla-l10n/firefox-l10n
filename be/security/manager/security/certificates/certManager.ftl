@@ -235,4 +235,10 @@ add-exception-no-cert-long = Немагчыма атрымаць ідэнтыф�
 
 ## Certificate export "Save as" and error dialogs
 
+save-cert-as = Захаваць сертыфікат у файл
+cert-format-base64 = Сертыфікат X.509 (PEM)
+cert-format-base64-chain = Сертыфікат X.509 з ланцугом (PEM)
+cert-format-der = Сертыфікат X.509 (DER)
+cert-format-pkcs7 = Сертыфікат X.509 (PKCS#7)
+cert-format-pkcs7-chain = Сертыфікат X.509 з ланцугом (PKCS#7)
 write-file-failure = Файлавая памылка
