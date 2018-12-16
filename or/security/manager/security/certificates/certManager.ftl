@@ -213,3 +213,13 @@ add-exception-valid-short = ବୈଧ ପ୍ରମାଣପତ୍ର
 add-exception-valid-long = ଏହି ସାଇଟ ବୈଧ, ଯାଞ୍ଚକୃତ ପରିଚୟ ପ୍ରଦାନ କରିଥାଏ.  ଏଥିରେ କୌଣସି ବ୍ୟତିକ୍ରମ ଯୋଗ କରିବାର ଆବଶ୍ୟକ ନାହିଁ.
 add-exception-checking-short = ସୂଚନା ଯାଞ୍ଚକରାଯାଉଛି
 add-exception-no-cert-short = କୌଣସି ସୂଚନା ଉପଲବ୍ଧ ନାହିଁ
+
+## Certificate export "Save as" and error dialogs
+
+save-cert-as = ଫାଇଲରେ ପ୍ରମାଣପତ୍ରଗୁଡ଼ିକୁ ସଂରକ୍ଷଣ କରନ୍ତୁ
+cert-format-base64 = X.509 ପ୍ରମାଣପତ୍ର (PEM)
+cert-format-base64-chain = X.509 ଶୃଙ୍ଖଳ ସହିତ ପ୍ରମାଣପତ୍ର (PEM)
+cert-format-der = X.509 ପ୍ରମାଣପତ୍ର (DER)
+cert-format-pkcs7 = X.509 ପ୍ରମାଣପତ୍ର (PKCS#7)
+cert-format-pkcs7-chain = X.509 ଶୃଙ୍ଖଳ ସହିତ ପ୍ରମାଣପତ୍ର (PKCS#7)
+write-file-failure = ଫାଇଲ ତ୍ରୁଟି
