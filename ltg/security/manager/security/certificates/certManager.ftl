@@ -232,3 +232,13 @@ add-exception-checking-short = Puorbauda informaceju
 add-exception-checking-long = Rauga identificeit itū vītni…
 add-exception-no-cert-short = Informaceja nav pīejama
 add-exception-no-cert-long = Naizadeve īgiut ituos vītnes identifikacejis statusu.
+
+## Certificate export "Save as" and error dialogs
+
+save-cert-as = Saglobuot sertifikatu failā
+cert-format-base64 = X.509 sertifikats (PEM)
+cert-format-base64-chain = X.509 sertifikats ar kēdi (PEM)
+cert-format-der = X.509 sertifikats (DER)
+cert-format-pkcs7 = X.509 sertifikats (PKCS#7)
+cert-format-pkcs7-chain = X.509 sertifikats ar kēdi (PKCS#7)
+write-file-failure = Faila klaida
