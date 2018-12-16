@@ -232,3 +232,13 @@ add-exception-checking-short = Provjeravam informacije
 add-exception-checking-long = Pokušaj identificiranja ove stranice…
 add-exception-no-cert-short = Informacije nisu dostupne
 add-exception-no-cert-long = Nije moguće dobiti identifikacijski status za ovu stranicu.
+
+## Certificate export "Save as" and error dialogs
+
+save-cert-as = Spasi certifikat u fajl
+cert-format-base64 = X.509 certifikat (PEM)
+cert-format-base64-chain = X.509 certifikat sa lancem (PEM)
+cert-format-der = X.509 certifikat (DER)
+cert-format-pkcs7 = X.509 certifikat (PKCS#7)
+cert-format-pkcs7-chain = X.509 certifikat sa lancem (PKCS#7)
+write-file-failure = Greška u fajlu
