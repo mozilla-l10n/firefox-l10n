@@ -232,3 +232,7 @@ add-exception-checking-short = Bilgiler denetleniyor
 add-exception-checking-long = Site tanımlanmaya çalışılıyor…
 add-exception-no-cert-short = Bilgi yok
 add-exception-no-cert-long = Bu sitenin tanımlanma durumuna ulaşılamıyor.
+
+## Certificate export "Save as" and error dialogs
+
+write-file-failure = Dosya hatası
