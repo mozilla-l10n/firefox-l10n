@@ -178,3 +178,13 @@ add-exception-valid-short = Хүчинтэй гэрчилгээ
 add-exception-valid-long = Энэ хуудас нь хүчинтэй зөв танигдах мэдээллээр хангагдсан байна. Тийм болохоор нэмэлт мэдээлэл зааж өгөх шаардлагаггүй.
 add-exception-checking-short = Мэдээллийг шалгаж байна
 add-exception-no-cert-short = Ямар ч мэдээлэл алга байна
+
+## Certificate export "Save as" and error dialogs
+
+save-cert-as = Гэрчилгээг файл уруу хадгал
+cert-format-base64 = X.509 Гэрчилгээ (PEM)
+cert-format-base64-chain = X.509 цуваа гэрчилгээ (PEM)
+cert-format-der = X.509 гэрчилгээ (DER)
+cert-format-pkcs7 = X.509 Гэрчилгээ (PKCS#7)
+cert-format-pkcs7-chain = X.509 цуваа гэрчилгээ (PKCS#7)
+write-file-failure = Файлын алдаа
