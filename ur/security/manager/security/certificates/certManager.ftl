@@ -228,3 +228,13 @@ add-exception-checking-short = معلومات کی پڑتال کر رہا ہے
 add-exception-checking-long = اس سائٹ کی نشاندہی کرنے کی کوشش کی جارہی ہے ...
 add-exception-no-cert-short = کوئی معلومات دستیاب نہیں
 add-exception-no-cert-long = اس سائٹ کے لئے شناختی حیثیت حاصل کرنے سے قاصر ہے.
+
+## Certificate export "Save as" and error dialogs
+
+save-cert-as = تصدیق نامہ کو مسل پر محفوظ کریں
+cert-format-base64 = X.509 تصدیق نامہ (PEM)
+cert-format-base64-chain = X.509 تصدیق نامہ سلسلہ (PEM)
+cert-format-der = X.509 تصدیق نامہ  (DER)
+cert-format-pkcs7 = X.509 تصدیق نامہ (PKCS#7)
+cert-format-pkcs7-chain = X.509 تصدیق نامہ سلسلہ (PKCS#7)
+write-file-failure = نقص مسل
