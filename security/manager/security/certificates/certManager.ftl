@@ -236,7 +236,9 @@ add-exception-no-cert-long = Methu canfod statws dynodiad ar gyfer y wefan hon.
 ## Certificate export "Save as" and error dialogs
 
 save-cert-as = Cadw Tystysgrif i Ffeil
+cert-format-base64 = Tystysgrif X.509 (PEM)
 cert-format-base64-chain = Tystysgrif X.509gyda chadwyn (PEM)
 cert-format-der = Tystysgrif X.509 (DER)
+cert-format-pkcs7 = Tystysgrif X.509 (PKCS#7)
 cert-format-pkcs7-chain = Tystysgrif X.509 gyda chadwyn (PKCS#7)
 write-file-failure = Gwall Ffeil
