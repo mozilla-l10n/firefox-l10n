@@ -228,3 +228,13 @@ add-exception-checking-short = Kontroleer van inligting
 add-exception-checking-long = Probeer tans dié werf te identifiseer…
 add-exception-no-cert-short = Geen inligting beskikbaar nie
 add-exception-no-cert-long = Kon nie identifikasiestatus vir dié werf verkry nie.
+
+## Certificate export "Save as" and error dialogs
+
+save-cert-as = Stoor sertifikaat na lêer
+cert-format-base64 = X.509-sertifikaat (PEM)
+cert-format-base64-chain = X.509-sertifikaat met ketting (PEM)
+cert-format-der = X.509-sertifikaat (DER)
+cert-format-pkcs7 = X.509-sertifikaat (PKCS#7)
+cert-format-pkcs7-chain = X.509-sertifikaat met ketting (PKCS#7)
+write-file-failure = Lêerfout
