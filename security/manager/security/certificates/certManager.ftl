@@ -232,3 +232,13 @@ add-exception-checking-short = Kontrola informácií
 add-exception-checking-long = Pokus o identifikovanie tejto stránky…
 add-exception-no-cert-short = Informácie nie sú dostupné
 add-exception-no-cert-long = Nie je možné získať stav identifikácie pre túto stránku.
+
+## Certificate export "Save as" and error dialogs
+
+save-cert-as = Uložiť certifikát ako súbor
+cert-format-base64 = Certifikát X.509 (PEM)
+cert-format-base64-chain = Certifikát X.509 s reťazcom (PEM)
+cert-format-der = Certifikát X.509 (DER)
+cert-format-pkcs7 = Certifikát X.509 (PKCS#7)
+cert-format-pkcs7-chain = Certifikát X.509 s reťazcom (PKCS#7)
+write-file-failure = Chyba súboru
