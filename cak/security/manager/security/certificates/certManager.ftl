@@ -232,3 +232,13 @@ add-exception-checking-short = Tajin ninik'öx ri runa'oj
 add-exception-checking-long = Tajin nitojtob'ëx niya' retal ri ruxaq k'amaya'l…
 add-exception-no-cert-short = Majun etamab'äl wachel
 add-exception-no-cert-long = Man tikirel ta nik'ul ri rub'anikil tz'etonem re ruxaq k'amaya'l re'.
+
+## Certificate export "Save as" and error dialogs
+
+save-cert-as = Tiyak ri ruwujil b'i'aj pa yakb'äl
+cert-format-base64 = X.509 Ruwujil b'i'aj (PEM)
+cert-format-base64-chain = X.509 Ruwujil b'i'aj rik'in cholajil (PEM)
+cert-format-der = X.509 Ruwujil b'i'aj (DER)
+cert-format-pkcs7 = X.509 Ruwujil b'i'aj (PKCS#7)
+cert-format-pkcs7-chain = X.509 Ruwujil b'i'aj rik'in taq choajil (PKCS#7)
+write-file-failure = Rusachoj yakb'äl
