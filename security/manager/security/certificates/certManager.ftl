@@ -232,3 +232,13 @@ add-exception-checking-short = Kontrollerer informasjon
 add-exception-checking-long = Freistar å identifisera denne nettstaden …
 add-exception-no-cert-short = Ingen informasjon er tilgjengeleg
 add-exception-no-cert-long = Klarte ikkje å henta identitetsinformasjon for denne nettstaden.
+
+## Certificate export "Save as" and error dialogs
+
+save-cert-as = Lagre sertifikat til fil
+cert-format-base64 = X.509 sertifikat (PEM)
+cert-format-base64-chain = X.509 sertifikat med kjede (PEM)
+cert-format-der = X.509 sertifikat (DER)
+cert-format-pkcs7 = X.509 sertifikat (PKCS#7)
+cert-format-pkcs7-chain = X.509 sertifikat med kjede (PKCS#7)
+write-file-failure = Feil med fil
