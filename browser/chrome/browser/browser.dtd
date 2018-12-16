@@ -21,8 +21,6 @@
 <!-- Tab context menu -->
 <!ENTITY  reloadTab.label                    "Ανανέωση καρτέλας">
 <!ENTITY  reloadTab.accesskey                "Α">
-<!ENTITY  reloadAllTabs.label                "Ανανέωση όλων των καρτελών">
-<!ENTITY  reloadAllTabs.accesskey            "Α">
 <!ENTITY  selectAllTabs.label                "Επιλογή όλων των καρτελών">
 <!ENTITY  selectAllTabs.accesskey            "Ε">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
@@ -44,9 +42,6 @@ left instead of right. -->
 <!ENTITY  closeOtherTabs.label               "Κλείσιμο των άλλων καρτελών">
 <!ENTITY  closeOtherTabs.accesskey           "ω">
 
-<!ENTITY  closeSelectedTabs.label            "Κλείσιμο επιλεγμένων καρτελών">
-<!ENTITY  closeSelectedTabs.accesskey        "ε">
-
 <!ENTITY  pinSelectedTabs.label              "Καρφίτσωμα καρτελών">
 <!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
@@ -57,10 +52,6 @@ same accesskey but will never be visible at the same time. -->
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinSelectedTabs.accesskey        "λ">
-<!-- Reload Tab and Reload Selected Tabs have the same accesskey
-but will never be visible at the same time. -->
-<!ENTITY  reloadSelectedTabs.label           "Ανανέωση επιλεγμένων καρτελών">
-<!ENTITY  reloadSelectedTabs.accesskey       "Α">
 <!-- LOCALIZATION NOTE(reloadTab.label, reloadTabs.label): have the same accesskey
 but will never be visible at the same time. -->
 <!ENTITY  bookmarkSelectedTabs.label         "Προσθήκη καρτελών στους σελιδοδείκτες…">
@@ -83,8 +74,6 @@ same accesskey but will never be visible at the same time. -->
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinTab.accesskey                 "κ">
-<!ENTITY  sendTabToDevice.label              "Αποστολή καρτέλας σε συσκευή">
-<!ENTITY  sendTabToDevice.accesskey          "σ">
 <!ENTITY  sendPageToDevice.label             "Αποστολή σελίδας σε συσκευή">
 <!ENTITY  sendPageToDevice.accesskey         "δ">
 <!ENTITY  sendLinkToDevice.label             "Αποστολή συνδέσμου σε συσκευή">
@@ -103,8 +92,6 @@ These two items have the same accesskey but will never be visible at the same ti
 <!ENTITY  moveToNewWindow.accesskey          "π">
 <!ENTITY  reopenInContainer.label            "Άνοιγμα ξανά σε θεματική καρτέλα">
 <!ENTITY  reopenInContainer.accesskey        "ξ">
-<!ENTITY  bookmarkAllTabs.label              "Προσθήκη όλων των καρτελών στους σελιδοδείκτες…">
-<!ENTITY  bookmarkAllTabs.accesskey          "Κ">
 <!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  undoCloseTab.label                 "Αναίρεση κλεισίματος καρτέλας">
@@ -143,11 +130,6 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.label "Γραμμή σελιδοδεικτών">
 <!ENTITY personalbarCmd.accesskey "γ">
 <!ENTITY bookmarksToolbarItem.label "Στοιχεία γραμμής σελιδοδεικτών">
-
-<!ENTITY toolbarContextMenu.reloadAllTabs.label "Ανανέωση όλων των καρτελών">
-<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "Α">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Προσθήκη όλων των καρτελών στους σελιδοδείκτες…">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "Κ">
 
 <!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
 toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
@@ -246,9 +228,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editThisBookmarkCmd.label "Επεξεργασία σελιδοδείκτη">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
-<!ENTITY subscribeToPageMenupopup.label "Συνδρομή σε αυτή τη σελίδα">
-<!ENTITY subscribeToPageMenuitem.label "Συνδρομή σε αυτή τη σελίδα…">
-
 <!ENTITY addCurPagesCmd.label "Προσθήκη όλων των καρτελών στους σελιδοδείκτες…">
 <!ENTITY showAllBookmarks2.label "Προβολή όλων των σελιδοδεικτών">
 <!ENTITY recentBookmarks.label "Πρόσφατοι σελιδοδείκτες">
@@ -287,6 +266,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Αποθήκευση δεδομένων στην επίμονη αποθήκευση">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Το πρόγραμμα περιήγησης ελέγχεται απομακρυσμένα">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Άνοιγμα πίνακα διαδικτυακής ταυτοποίησης">
+
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Διαχείριση του διαμοιρασμού της κάμερας και/ή του μικροφώνου σας για τον ιστοτόπο">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Διαχείριση του διαμοιρασμού του μικροφώνου σας για τον ιστοτόπο">
@@ -362,10 +342,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY webDeveloperMenu.label       "Εργαλεία προγραμματιστή">
 <!ENTITY webDeveloperMenu.accesskey   "Π">
-
-<!ENTITY devtoolsRecordExecution.label "Ηχογράφηση εκτέλεσης">
-<!ENTITY devtoolsSaveRecording.label "Αποθήκευση ηχογράφησης">
-<!ENTITY devtoolsReplayExecution.label "Επανάληψη εκτέλεσης">
 
 <!ENTITY inspectContextMenu.label     "Έλεγχος αντικειμένου">
 <!ENTITY inspectContextMenu.accesskey "υ">
@@ -496,7 +472,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "Α">
 <!ENTITY customizeMenu.manageExtension.label "Διαχείριση επέκτασης">
 <!ENTITY customizeMenu.manageExtension.accesskey "ε">
-
 <!ENTITY customizeMenu.removeExtension.label "Αφαίρεση επέκτασης">
 <!ENTITY customizeMenu.removeExtension.accesskey "φ">
 
@@ -998,6 +973,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.fastBlock.add.label "Προσθήκη φραγής…">
 
 <!ENTITY contentBlocking.trackingProtection2.label "Όλοι οι εντοπισμένοι ιχνηλάτες">
+
 <!ENTITY contentBlocking.trackingProtection3.label "Ιχνηλάτες">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
@@ -1031,6 +1007,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.3rdPartyCookies.add.label "Προσθήκη φραγής…">
+
+
+<!ENTITY contentBlocking.trackersView.label "Ιχνηλάτες">
+
+<!ENTITY contentBlocking.cookies.label "Cookies">
+<!ENTITY contentBlocking.cookiesView.label "Cookies και δεδομένα ιστοσελίδων">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Αναφορά προβλήματος">
 <!ENTITY contentBlocking.breakageReportView.label "Αναφορά προβλημάτων">
@@ -1159,11 +1141,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "Ενέργειες σελίδας">
 <!ENTITY pageAction.addToUrlbar.label "Προσθήκη στη γραμμή διευθύνσεων">
 <!ENTITY pageAction.removeFromUrlbar.label "Αφαίρεση από τη γραμμή διευθύνσεων">
-<!ENTITY pageAction.allowInUrlbar.label "Εμφάνιση στη γραμμή διευθύνσεων">
-<!ENTITY pageAction.disallowInUrlbar.label "Απόκρυψη από τη γραμμή διευθύνσεων">
 <!ENTITY pageAction.manageExtension.label "Διαχείριση επέκτασης…">
-
-<!ENTITY pageAction.sendTabToDevice.label "Αποστολή καρτέλας σε συσκευή">
 
 <!ENTITY sendToDevice.syncNotReady.label "Συγχρονισμός συσκευών…">
 
