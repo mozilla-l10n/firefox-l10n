@@ -7,8 +7,10 @@ about-performance-title = Διαχείριση εργασιών
 
 ## Column headers
 
+column-name = Όνομα
 column-type = Τύπος
 column-energy-impact = Αντίκτυπο ενέργειας
+column-memory = Μνήμη
 
 ## Special values for the Name column
 
@@ -20,6 +22,9 @@ preloaded-tab = Προφορτωμένη: { $title }
 ## Values for the Type column
 
 type-tab = Καρτέλα
+type-tracker = Ιχνηλάτης
+type-addon = Πρόσθετο
+type-other = Άλλο
 
 ## Values for the Energy Impact column
 ##
@@ -27,6 +32,18 @@ type-tab = Καρτέλα
 ##   $value (Number) - Value of the energy impact, eg. 0.25 (low),
 ##                     5.38 (medium), 105.38 (high)
 
+energy-impact-high = Υψηλή ({ $value })
+
+## Values for the Memory column
+##
+## Variables:
+##   $value (Number) - How much memory is used
+
+size-KB = { $value } KB
+size-MB = { $value } MB
+size-GB = { $value } GB
 
 ## Tooltips for the action buttons
 
+close-tab =
+    .title = Κλείσιμο καρτέλας

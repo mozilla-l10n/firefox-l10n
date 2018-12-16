@@ -522,7 +522,6 @@ privacy-header = Απόρρητο προγράμματος περιήγησης
 
 ## Privacy Section - Forms
 
-forms-header = Φόρμες & κωδικοί πρόσβασης
 logins-header = Συνδέσεις & κωδικοί πρόσβασης
 forms-ask-to-save-logins =
     .label = Ερώτηση για αποθήκευση συνδέσεων και κωδικών πρόσβασης για ιστοσελίδες
@@ -687,6 +686,9 @@ content-blocking-reject-trackers-block-trackers-option-recommended =
 content-blocking-reject-trackers-block-trackers-option =
     .label = Ιχνηλάτες
     .accesskey = λ
+content-blocking-cookies-label =
+    .label = Cookies
+    .accesskey = C
 
 ## Privacy Section - Tracking
 
@@ -708,6 +710,9 @@ tracking-exceptions =
 tracking-change-block-list =
     .label = Αλλαγή λίστας αποκλεισμού…
     .accesskey = λ
+tracking-manage-exceptions =
+    .label = Διαχείριση εξαιρέσεων…
+    .accesskey = χ
 
 ## Privacy Section - Permissions
 
@@ -775,6 +780,7 @@ collection-health-report-link = Μάθετε περισσότερα
 collection-studies =
     .label = Να επιτρέπεται στο { -brand-short-name } να εγκαθιστά και να εκτελεί μελέτες
 collection-studies-link = Προβολή μελετών του { -brand-short-name }
+addon-recommendations-link = Μάθετε περισσότερα
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Η αναφορά δεδομένων είναι ανενεργή για αυτή την έκδοση
