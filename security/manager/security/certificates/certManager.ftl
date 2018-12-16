@@ -241,3 +241,4 @@ cert-format-base64-chain = Certificado X.509 com cadeia (PEM)
 cert-format-der = Certificado X.509 (DER)
 cert-format-pkcs7 = Certificado X.509 (PKCS#7)
 cert-format-pkcs7-chain = Certificado X.509 com cadeia (PKCS#7)
+write-file-failure = Erro no ficheiro
