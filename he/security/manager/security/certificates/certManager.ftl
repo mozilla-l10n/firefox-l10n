@@ -235,6 +235,7 @@ add-exception-no-cert-long = לא ניתן לקבל את מצב הזיהוי ש�
 
 ## Certificate export "Save as" and error dialogs
 
+save-cert-as = שמירת אישור לקובץ
 cert-format-base64 = אישור X.509 (PEM)
 cert-format-base64-chain = X.509 Certificate with chain (PEM)
 cert-format-der = אישור X.509 (DER)
