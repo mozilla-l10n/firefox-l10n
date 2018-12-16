@@ -214,3 +214,8 @@ add-exception-valid-short = मान्य प्रमाणपत्र
 add-exception-checking-short = सूचना जाँच गर्दै
 add-exception-no-cert-short = कुनै जानकारी उपलब्ध छैन
 add-exception-no-cert-long = यस साइटको लागि पहिचान स्थिति प्राप्त गर्न असमर्थ ।
+
+## Certificate export "Save as" and error dialogs
+
+save-cert-as = फाइल प्रमाणपत्र सङ्ग्रह गर्नुहोस्
+write-file-failure = फाइल त्रुटी
