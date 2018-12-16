@@ -202,3 +202,13 @@ add-exception-valid-short = Satifikati efuu
 add-exception-valid-long = Omuko nguno nguwereza nnakkalazzi endamu, ekirizirwa.  Tewetagisa ku ggataa ebijjako.
 add-exception-checking-short = Okusabbaza amawulire
 add-exception-no-cert-short = Ttewali Amawulire agaliko
+
+## Certificate export "Save as" and error dialogs
+
+save-cert-as = Tereka Satifikati ku Fayiro
+cert-format-base64 = X.509 Satifikati (PEM)
+cert-format-base64-chain = X.509 Satifikati ne lugegere (PEM)
+cert-format-der = X.509 Satifikati (DER)
+cert-format-pkcs7 = X.509 Satifikati (PKCS#7)
+cert-format-pkcs7-chain = X.509 Satifikati ne lugegere (PKCS#7)
+write-file-failure = Ensobi ku Fayiro
