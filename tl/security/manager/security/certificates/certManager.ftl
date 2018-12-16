@@ -142,3 +142,8 @@ add-exception-checking-short = Sinusuring Impormasyon
 add-exception-checking-long = Pagsubok na makilala ang site na ito...
 add-exception-no-cert-short = Walang available na impormasyon
 add-exception-no-cert-long = Hindi nakakuha ng katayuang pagkakakilanlan para sa site na ito.
+
+## Certificate export "Save as" and error dialogs
+
+save-cert-as = I-save ang sertipiko sa File
+write-file-failure = Ang File ay mali
