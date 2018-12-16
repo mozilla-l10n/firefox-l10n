@@ -228,3 +228,7 @@ add-exception-checking-short = Տվյալների ստուգում
 add-exception-checking-long = Փորձ է արվում նույնականացնել կայքը…
 add-exception-no-cert-short = Չկա հասանելի տվյալ
 add-exception-no-cert-long = Չհաջողվեց ստանալ այս կայքի նույնականացման տվյալները:
+
+## Certificate export "Save as" and error dialogs
+
+write-file-failure = Ֆայլի սխալ
