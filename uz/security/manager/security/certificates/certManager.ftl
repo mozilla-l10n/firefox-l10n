@@ -216,3 +216,13 @@ add-exception-checking-short = Ma’lumotni tekshirish
 add-exception-checking-long = Ushbu sayt tasdiqdan o‘tkazishga urinilmoqda…
 add-exception-no-cert-short = Ma’lumot mavjud emas
 add-exception-no-cert-long = Ushbu sayt holati tasdig‘ini olib bo‘lmadi.
+
+## Certificate export "Save as" and error dialogs
+
+save-cert-as = Sertifikatni faylga saqlash
+cert-format-base64 = X.509 sertifikat (PEM)
+cert-format-base64-chain = X.509 zanjirli sertifikat (PEM)
+cert-format-der = X.509 sertifikat (DER)
+cert-format-pkcs7 = X.509 sertifikat (PKCS#7)
+cert-format-pkcs7-chain = X.509 zanjirli sertifikat (PKCS#7)
+write-file-failure = Fayl xato
