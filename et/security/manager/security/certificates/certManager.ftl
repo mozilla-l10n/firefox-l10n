@@ -232,3 +232,13 @@ add-exception-checking-short = Info kontrollimine
 add-exception-checking-long = Üritatakse veebilehte tuvastada…
 add-exception-no-cert-short = Info pole saadaval
 add-exception-no-cert-long = Antud saidi tuvastatavuse olekut pole võimalik hankida.
+
+## Certificate export "Save as" and error dialogs
+
+save-cert-as = Sertifikaadifaili salvestamine
+cert-format-base64 = X.509 sertifikaat (PEM)
+cert-format-base64-chain = X.509 turvatud sertifikaat (PEM)
+cert-format-der = X.509 sertifikaat (DER)
+cert-format-pkcs7 = X.509 sertifikaat (PKCS#7)
+cert-format-pkcs7-chain = X.509 turvatud sertifikaat (PKCS#7)
+write-file-failure = Viga failiga
