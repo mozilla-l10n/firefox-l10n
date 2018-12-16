@@ -232,3 +232,13 @@ add-exception-checking-short = Informazioa egiaztatzen
 add-exception-checking-long = Gunea identifikatzen saiatzen…
 add-exception-no-cert-short = Ez dago informaziorik eskuragarri
 add-exception-no-cert-long = Ezin da eskuratu gune honetarako identifikazio-egoera.
+
+## Certificate export "Save as" and error dialogs
+
+save-cert-as = Gorde ziurtagiria fitxategi batean
+cert-format-base64 = X.509 Ziurtagiria (PEM)
+cert-format-base64-chain = X.509 Ziurtagiria kateaz (PEM)
+cert-format-der = X.509 Ziurtagiria (DER)
+cert-format-pkcs7 = X.509 Ziurtagiria (PKCS#7)
+cert-format-pkcs7-chain = X.509 Ziurtagiria kateaz (PKCS#7)
+write-file-failure = Fitxategi errorea
