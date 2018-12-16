@@ -232,3 +232,11 @@ add-exception-checking-short = Kontrolearret ynformaasje
 add-exception-checking-long = Poging ta identifikaasje fan dizze website…
 add-exception-no-cert-short = Gjin ynformaasje beskikber
 add-exception-no-cert-long = Identifikaasjesteat fan dizze website is net te krijen.
+
+## Certificate export "Save as" and error dialogs
+
+cert-format-base64 = X.509 Sertifikaat (PEM)
+cert-format-base64-chain = X.509 Sertifikaat mei ketting (PEM)
+cert-format-der = X.509 Sertifikaat (DER)
+cert-format-pkcs7 = X.509 Sertifikaat (PKCS#7)
+cert-format-pkcs7-chain = X.509 Sertifikaat mei ketting (PKCS#7)
