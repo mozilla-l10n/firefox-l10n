@@ -237,6 +237,7 @@ add-exception-no-cert-long = Tidak dapat mendapatkan status identifikasi laman i
 
 save-cert-as = Simpan Sijil Kepada Fail
 cert-format-base64 = X.509 Certificate (PEM)
+cert-format-base64-chain = X.509 Sijil dengan rantaian (PEM)
 cert-format-der = X.509 Sijil (DER)
 cert-format-pkcs7 = X.509 Sijil (PKCS#7)
 cert-format-pkcs7-chain = X.509 Sijil dengan  (PKCS#7)
