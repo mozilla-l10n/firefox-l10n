@@ -232,3 +232,13 @@ add-exception-checking-short = O wiriañ ar stlennoù
 add-exception-checking-long = O klask naoudiañ al lec'hienn-mañ…
 add-exception-no-cert-short = N'eus stlennoù hegerz ebet
 add-exception-no-cert-long = N'haller ket kaout ar stad naoudiañ evit al lec'hienn lavaret.
+
+## Certificate export "Save as" and error dialogs
+
+save-cert-as = Enrollañ an testeni en ur restr
+cert-format-base64 = Testeni X.509 (PEM)
+cert-format-base64-chain = Testeni X.509 gant steudadoù (PEM)
+cert-format-der = Testeni X.509  (DER)
+cert-format-pkcs7 = Testeni X.509  (PKCS#7)
+cert-format-pkcs7-chain = Testeni X.509 gant steudad (PKCS#7)
+write-file-failure = Fazi restr
