@@ -232,3 +232,13 @@ add-exception-checking-short = Провера података
 add-exception-checking-long = Покушај да се идентификује сајт…
 add-exception-no-cert-short = Нема доступних података
 add-exception-no-cert-long = Није могуће добавити статус о идентитету наведеног сајта.
+
+## Certificate export "Save as" and error dialogs
+
+save-cert-as = Чување сертификата у датотеци
+cert-format-base64 = Сертификат X.509 (PEM)
+cert-format-base64-chain = Сертификат X.509 са ланцем (PEM)
+cert-format-der = Сертификат X.509 (DER)
+cert-format-pkcs7 = Сертификат X.509 (PKCS#7)
+cert-format-pkcs7-chain = Сертификат X.509 са ланцем (PKCS#7)
+write-file-failure = Грешка у датотеци
