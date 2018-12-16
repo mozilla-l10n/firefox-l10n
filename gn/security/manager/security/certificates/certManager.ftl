@@ -232,3 +232,13 @@ add-exception-checking-short = Marandu jehechajey
 add-exception-checking-long = Oñeha'ã ohechakuaa ko tendápe…
 add-exception-no-cert-short = Ndaipóri marandu eipurukuaáva
 add-exception-no-cert-long = Ndaikatúi eguereko jehechakuaa reko ko tendápe g̃uarã.
+
+## Certificate export "Save as" and error dialogs
+
+save-cert-as = Eñongatu mboajepyréva marandurendápe
+cert-format-base64 = X.509 mboajepyréva (PEM)
+cert-format-base64-chain = X.509 mboajepyréva juajuha ndive (PEM)
+cert-format-der = X.509 mboajepyréva (DER)
+cert-format-pkcs7 = X.509 mboajepyréva (PKCS#7)
+cert-format-pkcs7-chain = X.509 mboajepyréva joajuha ndive (PKCX#7)
+write-file-failure = Marandurenda jejavy
