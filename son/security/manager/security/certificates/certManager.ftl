@@ -228,3 +228,13 @@ add-exception-checking-short = Goo m'alhabar guna
 add-exception-checking-long = Goo ma ceeci ka nungoo šilbay…
 add-exception-no-cert-short = Alhabar kul ši bara
 add-exception-no-cert-long = Mana hin ka duu boŋtammaasa assariya nungoo woo se.
+
+## Certificate export "Save as" and error dialogs
+
+save-cert-as = Tabatiyan-tiira gaabu tukoo ga
+cert-format-base64 = X.509 tabatiyan-tiira (PEM)
+cert-format-base64-chain = X.509 tabatiyan-tiira nda hiiri (PEM)
+cert-format-der = X.509 tabatiyan-tiira (DER)
+cert-format-pkcs7 = X.509 tabatiyan-tiira (PKCS#7)
+cert-format-pkcs7-chain = X.509 tabatiyan-tiira nda hiiri (PKCS#7)
+write-file-failure = Tuku firka
