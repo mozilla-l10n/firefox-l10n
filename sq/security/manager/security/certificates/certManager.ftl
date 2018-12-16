@@ -232,3 +232,12 @@ add-exception-checking-short = Po Kontrollohen Të dhënat
 add-exception-checking-long = Përpjekje për identifikimin e këtij sajti…
 add-exception-no-cert-short = Pa të Dhëna të Passhme
 add-exception-no-cert-long = S’arrihet të merret gjendje identifikimi për këtë sajt.
+
+## Certificate export "Save as" and error dialogs
+
+save-cert-as = Ruaje Dëshminë Në Kartelë
+cert-format-base64 = Dëshmi X.509 (PEM)
+cert-format-base64-chain = Dëshmi X.509 me zinxhir (PEM)
+cert-format-der = Dëshmi X.509 (DER)
+cert-format-pkcs7 = Dëshmi X.509 (PKCS#7)
+cert-format-pkcs7-chain = Dëshmi X.509 me zinxhir (PKCS#7)
