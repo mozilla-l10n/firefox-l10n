@@ -12,24 +12,42 @@
 
 policy-AppUpdateURL = Caktoni URL vetjake përditësimi aplikacioni.
 policy-Authentication = Formësoni mirëfilltësim të integruar për sajte që e mbulojnë atë.
-policy-BlockAboutAddons = Blloko hyrje te Përgjegjësi i Shtesave (about:addons).
-policy-BlockAboutConfig = Blloko hyrje te faqja about:config.
-policy-BlockAboutProfiles = Blloko hyrje te faqja about:profiles.
-policy-BlockAboutSupport = Blloko hyrje te faqja about:support.
+policy-BlockAboutAddons = Bllokoni hyrje te Përgjegjësi i Shtesave (about:addons).
+policy-BlockAboutConfig = Bllokoni hyrje te faqja about:config.
+policy-BlockAboutProfiles = Bllokoni hyrje te faqja about:profiles.
+policy-BlockAboutSupport = Bllokoni hyrje te faqja about:support.
 policy-Bookmarks = Krijoni faqerojtës te paneli Faqerojtës, menuja Faqerojtës, ose te një dosje e caktuar brenda tyre.
-policy-Certificates = Të përdoren apo jo dëshmi të brendshme. Deri sot ky rregull vlen vetëm nën Windows.
+policy-CertificatesDescription = Shtoni dëshmi ose përdorni dëshmi të brendshme të programit.
 policy-Cookies = Lejoni ose jo që sajte të depozitojnë <em>cookies</em>.
 policy-DisableAppUpdate = Pengoje shfletuesin të përditësohet.
-policy-DisableBuiltinPDFViewer = Çaktivizo PDF.js, parësin e brendshëm të PDF-ve në { -brand-short-name }.
-policy-DisableDeveloperTools = Blloko hyrje te mjetet për zhvillues.
-policy-DisableFirefoxAccounts = Çaktivizo shërbime me bazë { -fxaccount-brand-name }, përfshi Sync-un.
-policy-DisableFirefoxStudies = Pengoja { -brand-short-name }-it xhirimin e studimeve.
-policy-DisableForgetButton = Pengo përdorimin e butoni Harroje.
+policy-DisableBuiltinPDFViewer = Çaktivizoni PDF.js, parësin e brendshëm të PDF-ve në { -brand-short-name }.
+policy-DisableDeveloperTools = Bllokoni hyrje te mjetet për zhvillues.
+policy-DisableFeedbackCommands = Çaktivizoni te menuja Ndihmë urdhra për dërgim përshtypjesh (Parashtroni Përshtypje dhe  Raportoni Sajt të Rrejshëm).
+policy-DisableFirefoxAccounts = Çaktivizoni shërbime me bazë { -fxaccount-brand-name }, përfshi Sync-un.
+# Firefox Screenshots is the name of the feature, and should not be translated.
+policy-DisableFirefoxScreenshots = Çaktivizoni veçorinë Foto Ekrani Firefox.
+policy-DisableFirefoxStudies = Pengojani { -brand-short-name }-it xhirimin e studimeve.
+policy-DisableForgetButton = Pengoni përdorimin e butoni Harroje.
 policy-DisableFormHistory = Mos mba mend historik kërkimesh dhe plotësimi formularësh.
 policy-DisableMasterPasswordCreation = Nëse zgjidhet <em>true</e>, s’mund të krijohet fjalëkalim i përgjithshëm.
-policy-DisablePocket = Çaktivizo veçorinë e ruajtjes së faqeve web në Pocket.
-policy-DisablePrivateBrowsing = Çaktivizo Shfletimin Privat.
-policy-DisableProfileImport = Çaktivizo te menu urdhrin për Importim të dhënash nga një tjetër shfletues.
-policy-DisableProfileRefresh = Çaktivizo te faqja about:support butonin Rifreskoni { -brand-short-name }.
-policy-DisableSafeMode = Çaktivizo veçorinë e rinisjes nën Mënyrën e Parrezik. Shënim: tasti Shift për hyrje nën Mnëyrën e Parrezik mund të çaktivizohet vetëm në Windows duke përdorur Rregulla Grupi.
-policy-DisableTelemetry = Çaktivizo Telemetry-në.
+policy-DisablePocket = Çaktivizoni veçorinë e ruajtjes së faqeve web në Pocket.
+policy-DisablePrivateBrowsing = Çaktivizoni Shfletimin Privat.
+policy-DisableProfileImport = Çaktivizoni te menuja urdhrin për Importim të dhënash nga një tjetër shfletues.
+policy-DisableProfileRefresh = Çaktivizoni te faqja about:support butonin Rifreskoni { -brand-short-name }-in.
+policy-DisableSafeMode = Çaktivizoni veçorinë e rinisjes nën Mënyrën e Parrezik. Shënim: tasti Shift për hyrje nën Mënyrën e Parrezik mund të çaktivizohet vetëm në Windows, duke përdorur Rregulla Grupi.
+policy-DisableSecurityBypass = Pengojini përdoruesit të anashkalojë disa sinjalizime sigurie.
+policy-DisableSetAsDesktopBackground = Çaktivizoni urdhër menuje Vëre si Sfond Desktopi për figura.
+policy-DisableSystemAddonUpdate = Pengojini shfletuesit të instalojë dhe përditësojë shtesa sistemi.
+policy-DisableTelemetry = Çaktivizoni Telemetry-në.
+policy-DisplayBookmarksToolbar = Shfaqni Panel Faqerojtësish, si parazgjedhje.
+policy-DisplayMenuBar = Shfaqni Shtyllë Menush, si parazgjedhje.
+policy-DNSOverHTTPS = Formësoni DNS përmes HTTPS-je.
+policy-DontCheckDefaultBrowser = Çaktivizoni kontrollin gjatë nisjes për shfletues parazgjedhje.
+# “lock” means that the user won’t be able to change this setting
+policy-EnableTrackingProtection = Aktivizoni ose çaktivizoni Bllokim Lënde, dhe kyçeni, në daçi.
+# A “locked” extension can’t be disabled or removed by the user. This policy
+# takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
+# English or translate them as verbs.
+policy-Extensions = Instaloni, çinstaloni ose kyçni zgjerime. Mundësia Instaloni si parametra përdor URL ose shtigje. Mundësitë Çinstaloni dhe Kyçur përdorin ID zgjerimesh.
+policy-FlashPlugin = Lejoni ose jo përdorimin e shtojcës Flash.
+policy-HardwareAcceleration = Nëse false, çaktivizohet përshpejtimi përmes hardware-it.
