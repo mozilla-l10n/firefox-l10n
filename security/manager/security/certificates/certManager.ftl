@@ -216,3 +216,11 @@ add-exception-valid-short = Chứng thư Hợp lệ
 add-exception-valid-long = Trang này cung cấp định danh hợp lệ, đã được xác minh. Không cần phải thêm ngoại lệ.
 add-exception-checking-short = Đang kiểm tra Thông tin
 add-exception-no-cert-short = Không có Thông tin Hiện hữu
+
+## Certificate export "Save as" and error dialogs
+
+cert-format-base64 = X.509 Chứng chỉ (PEM)
+cert-format-base64-chain = X.509 Chứng chỉ có mạch chuỗi (PEM)
+cert-format-der = X.509 Chứng chỉ (DER)
+cert-format-pkcs7 = X.509 Chứng chỉ (PKCS#7)
+cert-format-pkcs7-chain = X.509 Chứng chỉ có mạch chuỗi (PKCS#7)
