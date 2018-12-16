@@ -232,3 +232,11 @@ add-exception-checking-short = Gwirio Gwybodaeth
 add-exception-checking-long = Ceisio adnabod y wefan…
 add-exception-no-cert-short = Dim Gwybodaeth ar Gael
 add-exception-no-cert-long = Methu canfod statws dynodiad ar gyfer y wefan hon.
+
+## Certificate export "Save as" and error dialogs
+
+save-cert-as = Cadw Tystysgrif i Ffeil
+cert-format-base64-chain = Tystysgrif X.509gyda chadwyn (PEM)
+cert-format-der = Tystysgrif X.509 (DER)
+cert-format-pkcs7-chain = Tystysgrif X.509 gyda chadwyn (PKCS#7)
+write-file-failure = Gwall Ffeil
