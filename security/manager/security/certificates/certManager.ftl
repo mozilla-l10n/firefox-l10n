@@ -216,3 +216,13 @@ add-exception-checking-short = ಮಾಹಿತಿಯನ್ನು ಪರಿಶೀ
 add-exception-checking-long = ತಾಣವನ್ನು ಗುರುತಿಸಲು ಪ್ರಯತ್ನಿಸಲಾಗುತ್ತಿದೆ…
 add-exception-no-cert-short = ಯಾವುದೆ ಮಾಹಿತಿ ಲಭ್ಯವಿಲ್ಲ
 add-exception-no-cert-long = ಒದಗಿಸಲಾದ ತಾಣಕ್ಕೆ ಗುರುತಿನ ಸ್ಥಿತಿಯನ್ನು ಪಡೆಯಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ.
+
+## Certificate export "Save as" and error dialogs
+
+save-cert-as = ಪ್ರಮಾಣಪತ್ರವನ್ನು ಕಡತಕ್ಕೆ ಉಳಿಸು
+cert-format-base64 = X.509 ಪ್ರಮಾಣಪತ್ರ (PEM)
+cert-format-base64-chain = X.509 ಪ್ರಮಾಣಪತ್ರ , ಸರಪಳಿಯೊಂದಿಗೆ (PEM)
+cert-format-der = X.509 ಪ್ರಮಾಣಪತ್ರ  (DER)
+cert-format-pkcs7 = X.509 ಪ್ರಮಾಣಪತ್ರ  (PKCS#7)
+cert-format-pkcs7-chain = X.509 ಪ್ರಮಾಣಪತ್ರ , ಸರಪಳಿಯೊಂದಿಗೆ (PKCS#7)
+write-file-failure = ಕಡತ ದೋಷ
