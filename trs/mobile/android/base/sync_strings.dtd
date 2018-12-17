@@ -30,7 +30,7 @@
 
 <!-- Bookmark folder strings -->
 <!ENTITY bookmarks.folder.menu.label 'yi\&apos;nï\&apos; nej sa araj sun\&apos; doj'>
-<!ENTITY bookmarks.folder.places.label 'Yi\&apos;nï\&apos; nej sa araj sun\&apos; doj'>
+<!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label 'Da\&apos;nga\&apos; achrûn\&apos;'>
 <!ENTITY bookmarks.folder.toolbar.label 'Riñan man sa gara sun\&apos;'>
 <!ENTITY bookmarks.folder.other.label 'A\&apos;ngo sa raj sun nichro\&apos; doj'>
