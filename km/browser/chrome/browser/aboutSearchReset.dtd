@@ -24,7 +24,5 @@ their language. -->
 <!ENTITY searchreset.link.pageInfo2       "ទំព័រ​ការកំណត់">
 
 <!ENTITY searchreset.noChangeButton        "កុំ​ផ្លាស់ប្ដូរ">
-<!ENTITY searchreset.noChangeButton.access "">
 
 <!ENTITY searchreset.changeEngineButton        "ប្ដូរ​ម៉ាស៊ីន​ស្វែងរក">
-<!ENTITY searchreset.changeEngineButton.access "">

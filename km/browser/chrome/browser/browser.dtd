@@ -21,8 +21,6 @@
 <!-- Tab context menu -->
 <!ENTITY  reloadTab.label                    "ផ្ទុកផ្ទាំងឡើងវិញ">
 <!ENTITY  reloadTab.accesskey                "R">
-<!ENTITY  reloadAllTabs.label                "ផ្ទុក​ផ្ទាំង​ទាំងអស់​ឡើងវិញ">
-<!ENTITY  reloadAllTabs.accesskey            "A">
 <!ENTITY  selectAllTabs.label                "ជ្រើសរើស​ផ្ទាំង​ទាំងអស់">
 <!ENTITY  selectAllTabs.accesskey            "S">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
@@ -46,8 +44,6 @@ left instead of right. -->
 <!ENTITY  closeOtherTabs.label               "បិទ​ផ្ទាំង​ផ្សេងទៀត">
 <!ENTITY  closeOtherTabs.accesskey           "o">
 
-<!ENTITY  closeSelectedTabs.accesskey        "S">
-
 <!ENTITY  closeTabs.label                    "បិទ​ផ្ទាំង">
 <!ENTITY  closeTabs.accesskey                "S">
 <!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
@@ -58,9 +54,6 @@ same accesskey but will never be visible at the same time. -->
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinSelectedTabs.accesskey        "p">
-<!-- Reload Tab and Reload Selected Tabs have the same accesskey
-but will never be visible at the same time. -->
-<!ENTITY  reloadSelectedTabs.accesskey       "R">
 <!-- LOCALIZATION NOTE(reloadTab.label, reloadTabs.label): have the same accesskey
 but will never be visible at the same time. -->
 <!ENTITY  reloadTabs.label                   "ផ្ទុក​ផ្ទាំង​ឡើងវិញ">
@@ -84,8 +77,6 @@ same accesskey but will never be visible at the same time. -->
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinTab.accesskey                 "b">
-<!ENTITY  sendTabToDevice.label              "ផ្ញើ​ផ្ទាំង​ទៅ​ឧបករណ៍">
-<!ENTITY  sendTabToDevice.accesskey          "D">
 <!ENTITY  sendPageToDevice.label             "ផ្ញើ​ទំព័រ​ទៅ​ឧបករណ៍">
 <!ENTITY  sendPageToDevice.accesskey         "D">
 <!ENTITY  sendLinkToDevice.label             "ផ្ញើ​តំណ​ទៅ​ឧបករណ៍">
@@ -104,8 +95,6 @@ These two items have the same accesskey but will never be visible at the same ti
 <!ENTITY  moveToNewWindow.accesskey          "W">
 <!ENTITY  reopenInContainer.label            "បើក​ឡើង​វិញ​នៅ​ក្នុង​ប្រអប់">
 <!ENTITY  reopenInContainer.accesskey        "e">
-<!ENTITY  bookmarkAllTabs.label              "ចំណាំ​ផ្ទាំង​​ទាំងអស់…">
-<!ENTITY  bookmarkAllTabs.accesskey          "T">
 <!ENTITY  bookmarkTab.label                  "ផ្ទាំង​ចំណាំ">
 <!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
@@ -146,11 +135,6 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.label "របារ​ឧបករណ៍​ចំណាំ">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "ធាតុ​របារ​ឧបករណ៍​​ចំណាំ">
-
-<!ENTITY toolbarContextMenu.reloadAllTabs.label "ផ្ទុកផ្ទាំង​ទាំងអស់​ឡើងវិញ">
-<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "A">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "ចំណាំ​ផ្ទាំង​ទាំងអស់…">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "T">
 
 <!ENTITY toolbarContextMenu.reloadSelectedTab.label "ផ្ទុក​ផ្ទាំង​ដែល​បាន​ជ្រើសរើស​ឡើងវិញ">
 <!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
@@ -254,9 +238,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editThisBookmarkCmd.label "កែ​សម្រួល​ចំណាំ​នេះ">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
-<!ENTITY subscribeToPageMenupopup.label "ជាវ​ទំព័រ​នេះ">
-<!ENTITY subscribeToPageMenuitem.label "ជាវ​ទំព័រ​នេះ…">
-
 <!ENTITY addCurPagesCmd.label "ចំណាំ​ផ្ទាំង​ទាំងអស់…">
 <!ENTITY showAllBookmarks2.label "បង្ហាញ​ចំណាំ​ទាំងអស់">
 <!ENTITY recentBookmarks.label "ដែល​បាន​ចំណាំ​ថ្មីៗ">
@@ -293,6 +274,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "ប្ដូរ​ថា​ តើ​អ្នក​អាច​ទទួល​ការ​ជូនដំណឹង​ពី​ទំព័រ​បណ្ដាញ​នេះ​ដែរ​ឬ​ទេ">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "ផ្ទុក​ទិន្នន័យ​នៅ​ក្នុង​កន្លែង​ផ្ទុក​អចិន្ត្រៃយ៍">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "កម្មវិធី​អ៊ីនធឺណិត​គឺ​ស្ថិត​ក្រោម​ការ​ត្រួតពិនិត្យ​ពី​ចម្ងាយ">
+
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "គ្រប់គ្រង​ការ​ចែករំលែក​កាមេរ៉ា​របស់​អ្នក និង/ឬ​មីក្រូហ្វូន​ជាមួយ​ទំព័រ​បណ្ដាញ​នេះ">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "គ្រប់គ្រង​ការ​ចែករំលែក​មីក្រូហ្វូន​របស់​អ្នក​ជាមួយ​ទំព័រ​បណ្ដាញ​នេះ">
@@ -365,7 +347,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY webDeveloperMenu.label       "អ្នក​អភិវឌ្ឍន៍​បណ្ដាញ">
 <!ENTITY webDeveloperMenu.accesskey   "W">
-
 
 <!ENTITY inspectContextMenu.label     "ត្រួតពិនិត្យ​ធាតុ">
 <!ENTITY inspectContextMenu.accesskey "Q">
@@ -493,7 +474,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "A">
 <!ENTITY customizeMenu.manageExtension.label "គ្រប់គ្រងផ្នែកបន្ថែម">
 <!ENTITY customizeMenu.manageExtension.accesskey "E">
-
 <!ENTITY customizeMenu.removeExtension.label "យកផ្នែក​បន្ថែម​ចេញ">
 <!ENTITY customizeMenu.removeExtension.accesskey "v">
 
@@ -899,7 +879,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.openInNewWindow.label            "បើក​ក្នុង​បង្អួច​ថ្មី">
 <!ENTITY syncedTabs.context.openInNewWindow.accesskey        "N">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "បើក​ក្នុង​បង្អួចឯក​ជន​ថ្មី">
-<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.label          "ចំណាំ​​ផ្ទាំង​​នេះ...">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "B">
 <!ENTITY syncedTabs.context.copy.label                       "ចម្លង">
@@ -983,12 +962,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 
 
-<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.allowed.label):
-     This label signals that this type of content blocking is turned
-     OFF and is not blocking tracker content, so this is not
-     a positive thing. It forms the end of the (imaginary) sentence
-     "Trackers [are] Allowed"-->
-<!ENTITY contentBlocking.trackingProtection.allowed.label "បាន​អនុញ្ញាត">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking tracker content, so this is
@@ -1018,6 +991,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
+
 
 
 
@@ -1122,11 +1096,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "ទំព័រ​សកម្មភាព">
 <!ENTITY pageAction.addToUrlbar.label "បញ្ចូល​ទៅក្នុង​របារអាសយដ្ឋាន">
 <!ENTITY pageAction.removeFromUrlbar.label "លុបចេញពីរបារអាសយដ្ឋាន">
-<!ENTITY pageAction.allowInUrlbar.label "បង្ហាញក្នុងរបារអាសយដ្ឋាន">
-<!ENTITY pageAction.disallowInUrlbar.label "កុំបង្ហាញក្នុងរបារអាសយដ្ឋាន">
 <!ENTITY pageAction.manageExtension.label "គ្រប់គ្រងផ្នែកបន្ថែម…">
-
-<!ENTITY pageAction.sendTabToDevice.label "ផ្ញើ​ផ្ទាំង​ទៅ​ឧបករណ៍">
 
 <!ENTITY sendToDevice.syncNotReady.label "កំពុង​ធ្វើ​សមកាលកម្ម​ឧបករណ៍…">
 
