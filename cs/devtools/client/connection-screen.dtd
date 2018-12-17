@@ -9,7 +9,7 @@
 
 <!ENTITY title      "Připojení">
 <!ENTITY header     "Připojit k vzdálenému zařízení">
-<!ENTITY host       "Hostitel:">
+<!ENTITY host       "Server:">
 <!ENTITY port       "Port:">
 <!ENTITY connect    "Připojit">
 <!ENTITY connecting "Připojování…">

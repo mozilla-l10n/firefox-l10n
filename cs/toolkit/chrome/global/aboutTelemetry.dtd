@@ -25,9 +25,7 @@ Ping
 ">
 <!ENTITY aboutTelemetry.optionGroupToday "Dnes">
 <!ENTITY aboutTelemetry.optionGroupYesterday "Včera">
-<!ENTITY aboutTelemetry.optionGroupOlder "
-Starší
-">
+<!ENTITY aboutTelemetry.optionGroupOlder "Starší">
 <!-- LOCALIZATION NOTE(aboutTelemetry.previousPing, aboutTelemetry.nextPing):
 	These strings are displayed when selecting Archived pings, and they’re
 	used to move to the next or previous ping. -->
