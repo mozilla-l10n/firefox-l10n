@@ -61,7 +61,7 @@ same accesskey but will never be visible at the same time. -->
 but will never be visible at the same time. -->
 <!ENTITY  reloadTabs.label                   "Recarregar abas">
 <!ENTITY  reloadTabs.accesskey               "R">
-<!ENTITY  bookmarkSelectedTabs.label         "Abas favoritas…">
+<!ENTITY  bookmarkSelectedTabs.label         "Adicionar abas a favoritos…">
 <!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  bookmarkSelectedTabs.accesskey     "f">
