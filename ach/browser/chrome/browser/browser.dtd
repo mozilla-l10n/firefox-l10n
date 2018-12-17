@@ -21,14 +21,18 @@
 <!-- Tab context menu -->
 <!ENTITY  reloadTab.label                    "Nwo cano dirica matidi">
 <!ENTITY  reloadTab.accesskey                "N">
-<!ENTITY  reloadAllTabs.label                "Nwo cano dirica matino weng">
-<!ENTITY  reloadAllTabs.accesskey            "w">
 <!ENTITY  selectAllTabs.label                "Yer dirica matino weng">
 <!ENTITY  selectAllTabs.accesskey            "Y">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
 <!ENTITY  duplicateTab.label                 "Dirica matidi ma onwoone">
+<!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
+These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  duplicateTab.accesskey             "D">
+<!-- LOCALIZATION NOTE (duplicateTabs.label): This is a command to duplicate
+a tab (i.e. it is a verb, not adjective). -->
+<!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
+These items have the same accesskey but will never be visible at the same time. -->
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -36,9 +40,6 @@ left instead of right. -->
 <!ENTITY  closeTabsToTheEnd.accesskey        "a">
 <!ENTITY  closeOtherTabs.label               "Lor dirica matino mukene">
 <!ENTITY  closeOtherTabs.accesskey           "o">
-
-<!ENTITY  closeSelectedTabs.label            "Lor dirica matino ma ki yero">
-<!ENTITY  closeSelectedTabs.accesskey        "O">
 
 <!ENTITY  closeTabs.label                    "Lor dirica matino">
 <!ENTITY  closeTabs.accesskey                "L">
@@ -52,10 +53,6 @@ same accesskey but will never be visible at the same time. -->
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinSelectedTabs.accesskey        "a">
-<!-- Reload Tab and Reload Selected Tabs have the same accesskey
-but will never be visible at the same time. -->
-<!ENTITY  reloadSelectedTabs.label           "Nwo cano dirica matino ma ki yero">
-<!ENTITY  reloadSelectedTabs.accesskey       "N">
 <!-- LOCALIZATION NOTE(reloadTab.label, reloadTabs.label): have the same accesskey
 but will never be visible at the same time. -->
 <!ENTITY  reloadTabs.label                   "Nwo cano dirica matino">
@@ -80,8 +77,6 @@ same accesskey but will never be visible at the same time. -->
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinTab.accesskey                 "r">
-<!ENTITY  sendTabToDevice.label              "Cwal Dirica matidi i Nyonyo">
-<!ENTITY  sendTabToDevice.accesskey          "o">
 <!ENTITY  sendPageToDevice.label             "Cwal Potbuk i Nyonyo">
 <!ENTITY  sendPageToDevice.accesskey         "o">
 <!ENTITY  sendLinkToDevice.label             "Cwal kakube i Nyonyo">
@@ -98,8 +93,6 @@ These two items have the same accesskey but will never be visible at the same ti
 <!ENTITY  moveToEnd.accesskey                "G">
 <!ENTITY  moveToNewWindow.label              "Kob l dirica manyen">
 <!ENTITY  moveToNewWindow.accesskey          "d">
-<!ENTITY  bookmarkAllTabs.label              "Ket alama buk i dirica matino weng…">
-<!ENTITY  bookmarkAllTabs.accesskey          "d">
 <!ENTITY  bookmarkTab.label                  "Ket alamabuk i dirica matidi">
 <!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
@@ -140,11 +133,6 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.label "Gintic me alama buk">
 <!ENTITY personalbarCmd.accesskey "G">
 <!ENTITY bookmarksToolbarItem.label "Jami me gintic me alama buk">
-
-<!ENTITY toolbarContextMenu.reloadAllTabs.label "Nwo cano dirica matino weng">
-<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "w">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Ket alama buk i dirica matino weng…">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "d">
 
 <!ENTITY toolbarContextMenu.reloadSelectedTab.label "Nwo cano dirica matidi ma ki yero">
 <!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
@@ -250,9 +238,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editThisBookmarkCmd.label "Yub alama buk man">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
-<!ENTITY subscribeToPageMenupopup.label "Cone i pot buk man">
-<!ENTITY subscribeToPageMenuitem.label "Cone i pot buk man…">
-
 <!ENTITY addCurPagesCmd.label "Ket alama buk i dirica matino weng…">
 <!ENTITY showAllBookmarks2.label "Nyut alamabuk weng">
 <!ENTITY recentBookmarks.label "Ma kiketo Alamabuk cokki">
@@ -288,6 +273,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Lo tic ki larwak">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Lok kono nyo itwero nongo jami angeya ki i kakube ne">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Ki tye ka loono layeny ki kama bor">
+
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Lo nywako lamak cal ki/onyo mikropon mamegi ki kakube">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Lo nywako mikropon mamegi ki kakube">
@@ -358,7 +344,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY webDeveloperMenu.label       "Layub Kakube">
 <!ENTITY webDeveloperMenu.accesskey   "L">
-
 
 <!ENTITY inspectContextMenu.label     "Ngiyo gin ma i but">
 <!ENTITY inspectContextMenu.accesskey "Q">
@@ -485,7 +470,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "K">
 <!ENTITY customizeMenu.manageExtension.label "Lo Lamed">
 <!ENTITY customizeMenu.manageExtension.accesskey "A">
-
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -693,7 +677,6 @@ items are mutually exclusive. -->
 <!ENTITY mediaPlaybackRate2.accesskey "T">
 <!ENTITY mediaPlaybackRate050x2.label "Mot (0.5×)">
 <!ENTITY mediaPlaybackRate050x2.accesskey "M">
-<!ENTITY mediaPlaybackRate100x2.label "">
 <!ENTITY mediaPlaybackRate100x2.accesskey "N">
 <!ENTITY mediaPlaybackRate125x2.label "Oyot (1.25×)">
 <!ENTITY mediaPlaybackRate125x2.accesskey "O">
@@ -964,6 +947,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.fastBlock.add.label "Med Gengo…">
 
+
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking tracker content, so this is
@@ -995,6 +979,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.3rdPartyCookies.add.label "Med Gengo…">
 
+
+
+
 <!ENTITY contentBlocking.breakageReportView.learnMore "Nong ngec mapol">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Cwal Ripot">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Juki">
@@ -1014,6 +1001,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate4.accesskey "J">
 <!ENTITY trackingProtection.block5.label "Cak Gengo Pi Kakube Man">
 <!ENTITY trackingProtection.block5.accesskey "C">
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate6.label, trackingProtection.unblockPrivate6.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
 <!ENTITY trackingProtection.reload2.label "Nwo cano pot buk">
 <!ENTITY trackingProtection.reload2.accesskey "N">
 
@@ -1110,11 +1104,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "Jami atima me potbuk">
 <!ENTITY pageAction.addToUrlbar.label "Medi i Lanyut me kanonge">
 <!ENTITY pageAction.removeFromUrlbar.label "Kwany ki i lanyut me kanonge">
-<!ENTITY pageAction.allowInUrlbar.label "Nyut ii lanyut me kanonge">
-<!ENTITY pageAction.disallowInUrlbar.label "Pe i Nyuti ii lanyut me kanonge">
 <!ENTITY pageAction.manageExtension.label "Lo Lamed…">
-
-<!ENTITY pageAction.sendTabToDevice.label "Cwal dirica matidi i nyonyo">
 
 <!ENTITY sendToDevice.syncNotReady.label "Ribo nyonyo…">
 
