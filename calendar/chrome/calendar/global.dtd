@@ -47,6 +47,6 @@
 <!ENTITY onemonthbackward.tooltip "Přejde na předcházející měsíc" >
 <!ENTITY onemonthforward.tooltip "Přejde na následující měsíc" >
 <!ENTITY showToday.tooltip "Přejde na dnešní den">
-<!ENTITY onedayforward.tooltip "Přejde na předcházející den">
+<!ENTITY onedayforward.tooltip "Přejde na následující den">
 <!ENTITY onedaybackward.tooltip "Přejde na následující den">
 <!ENTITY showselectedday.tooltip "Zobrazí události pro zvolený den">
