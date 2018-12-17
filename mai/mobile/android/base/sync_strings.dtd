@@ -30,7 +30,7 @@
 
 <!-- Bookmark folder strings -->
 <!ENTITY bookmarks.folder.menu.label 'पुस्तकचिह्न  मेनू '>
-<!ENTITY bookmarks.folder.places.label 'टैग'>
+<!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label 'टैग'>
 <!ENTITY bookmarks.folder.toolbar.label 'पुस्तकचिह्न अओजारपट्टी'>
 <!ENTITY bookmarks.folder.other.label 'आन पुस्तचिह्न'>
