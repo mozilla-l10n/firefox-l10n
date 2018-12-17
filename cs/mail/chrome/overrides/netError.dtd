@@ -32,14 +32,14 @@
 <!ENTITY fileNotFound.title "Soubor nenalezen">
 <!ENTITY fileNotFound.longDesc "
 <ul>
-  <li>Zkontrolujte, zda je název souboru napsán správně, a to včetně velikosti písmen.</li>
-  <li>Zkontrolujte, zda soubor nebyl přesunut, přejmenován nebo smazán.</li>
+  <li>Zkontrolujte, že je název souboru napsán správně, a to včetně velikosti písmen.</li>
+  <li>Zkontrolujte, že soubor nebyl přesunut, přejmenován nebo smazán.</li>
 </ul>
 ">
 
 <!ENTITY fileAccessDenied.title "Přístup k souboru byl odepřen">
 <!ENTITY fileAccessDenied.longDesc "<ul>
-  <li>Možná byl smazán, přesunut nebo jeho oprávnění zabraňují přístupu.</li>
+  <li>Možná byl smazán, přesunut nebo jeho oprávnění zabraňují přístupu.</li>
 </ul>">
 
 <!ENTITY generic.title "Nepodařilo se dokončit požadavek">
@@ -101,7 +101,7 @@
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
   <li>Zkontrolujte nastavení proxy serveru.</li>
-  <li>Kontaktujte svého síťového administrátora, zda je proxy server v provozu.</li>
+  <li>Kontaktujte správce vaší sítě, jestli je proxy server v provozu.</li>
 </ul>
 ">
 
@@ -110,8 +110,8 @@
 <ul>
   <li>Zkontrolujte nastavení proxy serveru.</li>
   <li>Zkontrolujte síťové připojení svého počítače.</li>
-  <li>Pokud je váš počítač chráněn firewallem nebo proxy serverem, zkontrolujte, zda má
-    &brandShortName; přístup na Internet.</li>
+  <li>Pokud je váš počítač chráněn firewallem nebo proxy serverem, zkontrolujte, že má
+    &brandShortName; přístup na internet.</li>
 </ul>
 ">
 
@@ -126,9 +126,9 @@
 <!ENTITY unknownSocketType.title "Neplatná odpověď serveru">
 <!ENTITY unknownSocketType.longDesc "
 <ul>
-  <li>Zkontrolujte, zda má váš systém nainstalován
+  <li>Zkontrolujte, že je ve vašem systému nainstalován
 Personal Security Manager.</li>
-  <li>Tato chyba může být rovněž způsobena nestandardní konfigurací serveru.</li>
+  <li>Tato chyba může být také způsobena nestandardní konfigurací serveru.</li>
 </ul>
 ">
 
@@ -162,7 +162,7 @@ za chvíli.</li>
 ">
 
 <!ENTITY cspBlocked.title "Zablokováno dle bezpečnostních pravidel obsahu">
-<!ENTITY cspBlocked.longDesc "<p>Aplikace &brandShortName; zabránila v nahrání této stránky, protože tato stránka má bezpečnostní pravidla, která takovýto způsob nahrání zakazují.</p>">
+<!ENTITY cspBlocked.longDesc "<p>Aplikace &brandShortName; zabránila načtení této stránky, protože takovýto způsob načtení bezpečnostní pravidla této stránky zakazují.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Chyba v obsahu stránky">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Požadovanou stránku nelze zobrazit, protože při přenosu dat došlo k chybě.</p><ul><li>Kontaktujte prosím vlastníky webového serveru a informujte je o tomto problému.</li></ul>">
@@ -189,6 +189,7 @@ functionality specific to thunderbird. -->
 <!ENTITY inadequateSecurityError.title "Vaše připojení není zabezpečené">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
-<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> používá technologii která je zastaralá a náchylná k útoku. Útočník může snadno získat informace, které si myslíte, že jsou zabezpečené. Administrátor serveru musí server opravit předtím, než budete moci stránku navštívit.</p><p>Kód chyby: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> používá technologii která je zastaralá a náchylná k útoku. Útočník může snadno získat informace, které si myslíte, že jsou zabezpečené. Správce serveru musí server opravit předtím, než budete moci stránku navštívit.</p><p>Kód chyby: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Zablokovaná stránka">
+

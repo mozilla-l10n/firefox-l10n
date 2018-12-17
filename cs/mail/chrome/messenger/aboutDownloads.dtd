@@ -15,7 +15,7 @@
 <!ENTITY cmd.showMac.accesskey                     "F">
 <!ENTITY cmd.open.label                            "Otevřít">
 <!ENTITY cmd.open.accesskey                        "O">
-<!ENTITY cmd.removeFromHistory.label               "Odebrat z historie">
+<!ENTITY cmd.removeFromHistory.label               "Odstranit z historie">
 <!ENTITY cmd.removeFromHistory.accesskey           "d">
 <!ENTITY cmd.clearList.label                       "Smazat seznam">
 <!ENTITY cmd.clearList.accesskey                   "m">

@@ -45,5 +45,5 @@
 <!ENTITY  autologinproxy.tooltip        "Tato volba zajistí provedení tiché autentizace k proxy, pokud pro ni máte uloženy přihlašovací údaje. Pokud autentizace selže, budete na ně dotázání.">
 <!ENTITY  socksRemoteDNS.label          "Použít proxy server pro DNS při použití SOCKS v5">
 <!ENTITY  socksRemoteDNS.accesskey      "d">
-<!ENTITY  dnsOverHttps.label            "Povolit DNS přes HTTPS">
+<!ENTITY  dnsOverHttps.label            "Zapnout DNS přes HTTPS">
 <!ENTITY  dnsOverHttpsUrl.label         "URL">

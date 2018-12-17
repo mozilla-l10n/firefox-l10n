@@ -17,7 +17,6 @@
 <!ENTITY accountTypeMail.accesskey "E">
 <!ENTITY accountTypeNews.label "Účet pro diskusní skupiny">
 <!ENTITY accountTypeNews.accesskey "d">
-
 <!-- LOCALIZATION NOTE(accountTypeMovemail.label): do not translate 'Movemail' -->
 <!ENTITY accountTypeMovemail.label "Unix Mailspool (Movemail)">
 <!ENTITY accountTypeMovemail.accesskey "U">
@@ -119,7 +118,7 @@
 <!ENTITY serverNamePrefix.label "Adresa serveru pro příchozí zprávy:">
 <!ENTITY smtpServerNamePrefix.label "Název odchozího serveru (SMTP):">
 <!ENTITY newsServerNamePrefix.label "Název diskusního serveru (NNTP):">
-<!ENTITY downloadOnLogin.label "Stáhnout zprávy nyní">
+<!ENTITY downloadOnLogin.label "Stáhnout zprávy">
 <!ENTITY downloadOnLogin.accesskey "S">
 <!ENTITY deferStorageDesc.label "Zrušte zaškrtnutí, pokud chcete vytvořit nový samostatný účet s poštou ukládanou v odděleném adresáři. V opačném případě bude tento účet součástí účtu globální Doručené pošty v Místních složkách.">
 <!ENTITY deferStorage.label "Použít globální Doručenou poštu (ukládat poštu v Místních složkách)">
