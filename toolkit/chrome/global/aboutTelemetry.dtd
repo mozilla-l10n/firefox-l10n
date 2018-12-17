@@ -23,17 +23,10 @@ Typ pingu
 <!ENTITY aboutTelemetry.archivePingHeader "
 Ping
 ">
-<!ENTITY aboutTelemetry.optionGroupToday "
-Dnes
-">
-<!ENTITY aboutTelemetry.optionGroupYesterday "
-Včera
-">
+<!ENTITY aboutTelemetry.optionGroupToday "Dnes">
+<!ENTITY aboutTelemetry.optionGroupYesterday "Včera">
 <!ENTITY aboutTelemetry.optionGroupOlder "
 Starší
-">
-<!ENTITY aboutTelemetry.payloadChoiceHeader "
-  Obsah
 ">
 <!-- LOCALIZATION NOTE(aboutTelemetry.previousPing, aboutTelemetry.nextPing):
 	These strings are displayed when selecting Archived pings, and they’re
@@ -54,6 +47,7 @@ Hledáte více informací?
 <!ENTITY aboutTelemetry.telemetryDashboard "
 <a>Nástěnky telemetrie</a> umožňují zobrazovat data, které Mozilla získává z telemetrie.
 ">
+
 
 <!ENTITY aboutTelemetry.showInFirefoxJsonViewer "
 Otevřít v zobrazení JSONu
@@ -78,14 +72,9 @@ Otevřít v zobrazení JSONu
 <!ENTITY aboutTelemetry.keyedHistogramsSection "
   Histogramy s klíčem
 ">
-<!ENTITY aboutTelemetry.eventsSection "
-  Události">
+<!ENTITY aboutTelemetry.eventsSection "Události">
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "Jednoduchá měření">
-<!ENTITY aboutTelemetry.telemetryLogSection "
-   Protokol telemetrie
-">
 <!ENTITY aboutTelemetry.slowSqlSection "Pomalé dotazy SQL">
-<!ENTITY aboutTelemetry.chromeHangsSection "Zatuhnutí prohlížeče">
 <!ENTITY aboutTelemetry.addonDetailsSection "
   Informace o doplňcích
 ">
