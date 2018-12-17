@@ -45,8 +45,8 @@ config-column-chooser =
 
 config-copy-pref =
     .key = C
-    .label = დაკოპირება
-    .accesskey = დ
+    .label = ასლი
+    .accesskey = ლ
 config-copy-name =
     .label = სახელის ასლი
     .accesskey = ს
