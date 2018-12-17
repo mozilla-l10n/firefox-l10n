@@ -30,7 +30,7 @@
 
 <!-- Bookmark folder strings -->
 <!ENTITY bookmarks.folder.menu.label 'Bokmärken-menyn'>
-<!ENTITY bookmarks.folder.places.label 'Platsetiketter'>
+<!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label 'Etiketter'>
 <!ENTITY bookmarks.folder.toolbar.label 'Bokmärkesfältet'>
 <!ENTITY bookmarks.folder.other.label 'Andra bokmärken'>
