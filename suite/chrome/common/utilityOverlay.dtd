@@ -62,7 +62,7 @@
 <!ENTITY selectAllCmd.label               "Vybrat vše">
 <!ENTITY selectAllCmd.key                 "A">
 <!ENTITY selectAllCmd.accesskey           "a">
-<!ENTITY clearHistoryCmd.label				"Vymazat historii hledání">  
+<!ENTITY clearHistoryCmd.label				"Vymazat historii vyhledávání">  
 <!ENTITY clearHistoryCmd.accesskey			"V"> 
 <!ENTITY showSuggestionsCmd.label			"Povolit našeptávání">  
 <!ENTITY showSuggestionsCmd.accesskey		"n"> 

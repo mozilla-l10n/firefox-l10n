@@ -31,7 +31,7 @@
 <!ENTITY printPreviewAddressBook.accesskey              "L">
 
 <!-- Edit Menu -->
-<!ENTITY deleteAbCmd.label                              "Smazat kontakty">  
+<!ENTITY deleteAbCmd.label                              "Smazat složku kontaktů">  
 <!ENTITY deleteContactCmd.label                         "Smazat kontakt">
 <!ENTITY deleteContactsCmd.label                        "Smazat vybrané kontakty">
 <!ENTITY deleteListCmd.label                            "Smazat seznam">
@@ -45,11 +45,11 @@
 <!ENTITY propertiesCmd.key                              "i">  
 
 <!-- View Menu -->
-<!ENTITY showAbToolbarCmd.label                         "Lišta kontakty"> 
+<!ENTITY showAbToolbarCmd.label                         "Lišta kontaktů"> 
 <!ENTITY showAbToolbarCmd.accesskey                     "d">  
 <!ENTITY layoutMenu.label                               "Rozložení">
 <!ENTITY layoutMenu.accesskey                           "R">
-<!ENTITY showDirectoryPane.label                        "Panel adresáře">
+<!ENTITY showDirectoryPane.label                        "Panel kontaktů">
 <!ENTITY showDirectoryPane.accesskey                    "a">
 <!ENTITY showContactPane2.label                         "Panel kontaktu">
 <!ENTITY showContactPane2.accesskey                     "k">
@@ -85,7 +85,7 @@
 <!ENTITY searchBox.title                                "Hledat">
 
 <!-- Tooltips -->
-<!ENTITY addressbookToolbar.tooltip                     "Lišta kontakty">
+<!ENTITY addressbookToolbar.tooltip                     "Lišta kontaktů">
 <!ENTITY newContactButton.tooltip                       "Vytvoří nový kontakt">
 <!ENTITY newlistButton.tooltip                          "Vytvoří novou skupinu"> 
 <!ENTITY editItemButton.tooltip                         "Upraví označenou položku">

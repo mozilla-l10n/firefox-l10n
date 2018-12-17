@@ -2,12 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY server.label "Účet">
-<!ENTITY server.accesskey "T">
-
 <!ENTITY virtualFolderListTitle.title        "Volba složek">
 <!ENTITY virtualFolderDesc.label       "Zvolte složky k prohledávání:">
-
-
-<!ENTITY folderName.label "Jméno složky">
+<!ENTITY folderName.label "Název složky">
 <!ENTITY folderSearch.label "Hledat">
