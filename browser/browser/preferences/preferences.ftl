@@ -153,9 +153,6 @@ open-new-link-as-tabs =
 warn-on-close-multiple-tabs =
     .label = Birdən çox vərəq bağlarkən xəbərdar olun
     .accesskey = m
-warn-on-quit-close-multiple-tabs =
-    .label = Birdən çox vərəq qapatarkən və çıxarkən xəbərdar olun
-    .accesskey = m
 warn-on-open-many-tabs =
     .label = Çoxlu vərəq açmağın { -brand-short-name } səyyahını yavaşlada biləcəyindən xəbərdar olun
     .accesskey = d
@@ -538,7 +535,6 @@ privacy-header = Səyahər Məxfiliyi
 
 ## Privacy Section - Forms
 
-forms-header = Formlar və Parollar
 logins-header = Hesablar və Parollar
 forms-ask-to-save-logins =
     .label = Daxil olma və parolları saxlamaq üçün soruş
@@ -692,6 +688,21 @@ content-blocking-fastblock-slow-loading-trackers-label =
     .label = Yavaş yüklənən izləyicilər
     .accesskey = S
 content-blocking-fastblock-new-description = Ancaq səhifənin tez yüklənməsini əngəlləyən izləyiciləri əngəllə.
+content-blocking-tracking-protection-trackers-label =
+    .label = İzləyicilər
+    .accesskey = T
+content-blocking-tracking-protection-all-detected-trackers-label =
+    .label = Bütün aşkarlanan izləyicilər
+    .accesskey = T
+content-blocking-tracking-protection-new-description = Bütün bilinən izləyiciləri əngəllə. (Bəzi səhifələr yüklənməyə bilər.)
+content-blocking-tracking-protection-option-always =
+    .label = Həmişə
+    .accesskey = A
+content-blocking-tracking-protection-option-private =
+    .label = Ancaq məxfi pəncərələrdə
+    .accesskey = p
+# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
+# "Standard" in this case is an adjective, meaning "default" or "normal".
 content-blocking-setting-standard =
     .label = Standart
     .accesskey = d
@@ -711,18 +722,11 @@ content-blocking-all-third-party-cookies = Bütün üçüncü tərəf çərəzl�
 content-blocking-warning-title = Diqqət!
 content-blocking-warning-desc = Çərəzləri və izləyiciləri əngəlləmə bəzi saytların düzgün işləməmələrinə səbəb ola bilər. Güvəndiyiniz saytlar üçün əngəlləməni söndürmək çox asandır.
 content-blocking-learn-how = Necə edəcəyinizi öyrənin
-content-blocking-tracking-protection-trackers-label =
+content-blocking-trackers-label =
     .label = İzləyicilər
     .accesskey = T
-content-blocking-tracking-protection-all-detected-trackers-label =
-    .label = Bütün aşkarlanan izləyicilər
-    .accesskey = T
-content-blocking-tracking-protection-new-description = Bütün bilinən izləyiciləri əngəllə. (Bəzi səhifələr yüklənməyə bilər.)
-content-blocking-tracking-protection-option-always =
-    .label = Həmişə
-    .accesskey = A
-content-blocking-tracking-protection-option-private =
-    .label = Ancaq məxfi pəncərələrdə
+content-blocking-option-private =
+    .label = Ancaq Məxfi Pəncərələrdə
     .accesskey = p
 content-blocking-tracking-protection-change-block-list = Qara siyahını dəyişdir
 content-blocking-third-party-cookies-label =
@@ -840,6 +844,7 @@ collection-health-report-link = Ətraflı
 collection-studies =
     .label = { -brand-short-name } səyyahına tədqiqatları qurub və işlətməyə icazə ver
 collection-studies-link = { -brand-short-name } tədqiqatlarını gör
+addon-recommendations-link = Ətraflı öyrən
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Bu quraşdırmanın konfiqurasiyasında məlumat xəbərdarlığı söndürülüb
