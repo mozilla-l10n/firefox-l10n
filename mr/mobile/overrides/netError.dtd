@@ -7,14 +7,14 @@
 
 <!ENTITY loadError.label "पृष्ठ दाखल करण्यासाठी समस्या">
 <!ENTITY retry.label "पुन्हा प्रयत्न करा">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "जोडणी होऊ शकत नाही">
 <!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY deniedPortAccess.title "हा पत्ता प्रतिबंधित आहे">
-<!ENTITY deniedPortAccess.longDesc "हा पत्ता प्रतिबंधित आहे">
+<!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "सर्व्हर सापडला नाही">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
@@ -80,9 +80,9 @@
 
 <!ENTITY nssBadCert.title "सुरक्षीत जोडणी अपयशी">
 <!ENTITY nssBadCert.longDesc2 "<ul> <li>ही सर्व्हर च्या संयोजनातील अडचण असू शकते किंवा कोणीतरी या सर्व्हर सारखे रूप घेऊन फसवत असू शकते.</li> <li>आपण या सर्व्हरशी पूर्वी यशस्वीरित्या जुळवणी स्थापीत केली असल्यास, त्रुटी तात्पूर्ती असू शकते, व आपण पुनःप्रयत्न करू शकता.</li> </ul>">
+
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-
 <!ENTITY sharedLongDesc3 "<ul> <li>हे संकेतस्थळ कदाचित तात्पुरते उपलब्ध नाही किंवा खुपच व्यस्त आहे. काही क्षणानंतर, पुनःप्रयत्न करा.</li> <li>जर आपण कुठलेही पान उघडू शकत नसाल, तर आपल्या भ्रमणध्वनीची डाटा जोडणी किंवा वाय-फाय जोडणी तपासा.<button id='wifi'>वाय-फाय सक्रीय करा</button> </li> </ul>">
 
 <!ENTITY cspBlocked.title "मजकूर सुरक्षा धोरणामुळे रोखले गेले">
@@ -94,11 +94,11 @@
 <!ENTITY securityOverride.linkText "किंवा आपण अपवाद जोडू शकता…">
 <!ENTITY securityOverride.getMeOutOfHereButton "मला येथून बाहेर काढा!">
 <!ENTITY securityOverride.exceptionButtonLabel "अपवाद यादीत जोडा…">
+
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
-
 
 <!ENTITY securityOverride.warningContent "<p>पूर्णतः विश्वासार्ह नसलेल्या इंटरनेट जोडणीचा वापर करत असल्यास किंवा या सर्व्हरवर सावधानता इशाऱ्याची सवय नसल्यास, अपवाद यादीत समाविष्ट करू नका.</p>   <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
@@ -119,3 +119,4 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> कालबाह्य आणि हल्ला संवेदनशील असलेले सुरक्षा तंत्रज्ञान वापरत आहे. आपण सुरक्षित समजत असलेली माहिती आक्रमणकर्ता सहजपणे मिळवू शकतो. आपण भेट देण्या आधी, वेबसाईट नियंत्रकाने हा सर्व्हर निर्दोष करायला हवा.</p><p>त्रुटी कोड: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
