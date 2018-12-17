@@ -37,14 +37,14 @@
 <!ENTITY fileNotFound.title "Soubor nenalezen">
 <!ENTITY fileNotFound.longDesc "
 <ul>
-  <li>Zkontrolujte, zda je název souboru napsán správně, a to včetně velikosti písmen.</li>
-  <li>Zkontrolujte, zda soubor nebyl přesunut, přejmenován nebo smazán.</li>
+  <li>Zkontrolujte, že je název souboru napsán správně, a to včetně velikosti písmen.</li>
+  <li>Zkontrolujte, že soubor nebyl přesunut, přejmenován nebo smazán.</li>
 </ul>
 ">
 
 <!ENTITY fileAccessDenied.title "Přístup k souboru byl odepřen">
 <!ENTITY fileAccessDenied.longDesc "<ul>
-  <li>Možná byl odstraněn, přesunut nebo jeho oprávnění zabraňují přístupu.</li>
+  <li>Možná byl smazán, přesunut nebo jeho oprávnění zabraňují přístupu.</li>
 </ul>">
 
 <!ENTITY generic.title "Nepodařilo se dokončit požadavek">
@@ -72,7 +72,7 @@
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "Platnost dokumentu vypršela">
-<!ENTITY notCached.longDesc "<p>Požadovaný dokument již není dostupný v mezipaměti aplikace &brandShortName;.</p><ul><li>Z bezpečnostních důvodů &brandShortName; automaticky nestahuje důvěrné dokumenty.</li><li>Pro opětovné stažení dokumentu z webového serveru klepněte na tlačítko „Zkusit znovu“.</li></ul>">
+<!ENTITY notCached.longDesc "<p>Požadovaný dokument už není dostupný v mezipaměti aplikace &brandShortName;.</p><ul><li>Z bezpečnostních důvodů &brandShortName; automaticky nestahuje důvěrné dokumenty.</li><li>Pro opětovné stažení dokumentu z webového serveru klepněte na tlačítko „Zkusit znovu“.</li></ul>">
 
 <!ENTITY netOffline.title "Režim offline">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
@@ -116,7 +116,7 @@
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
   <li>Zkontrolujte nastavení proxy serveru.</li>
-  <li>Kontaktujte svého síťového administrátora, zda je proxy server v provozu.</li>
+  <li>Kontaktujte správce vaší sítě, jestli je proxy server v provozu.</li>
 </ul>
 ">
 
@@ -143,9 +143,9 @@
 <!ENTITY unknownSocketType.title "Neplatná odpověď serveru">
 <!ENTITY unknownSocketType.longDesc "
 <ul>
-  <li>Zkontrolujte, zda má váš systém nainstalován
+  <li>Zkontrolujte, že je ve vašem systému nainstalován
 Personal Security Manager.</li>
-  <li>Tato chyba může být rovněž způsobena nestandardní konfigurací serveru.</li>
+  <li>Tato chyba může být také způsobena nestandardní konfigurací serveru.</li>
 </ul>
 ">
 
@@ -179,7 +179,7 @@ kdo se snaží vydávat za server.</li>
 ">
 
 <!ENTITY cspBlocked.title "Zablokováno dle bezpečnostních pravidel obsahu">
-<!ENTITY cspBlocked.longDesc "<p>Aplikace &brandShortName; zabránila v nahrání této stránky, protože tato stránka má bezpečnostní pravidla, která takovýto způsob nahrání zakazují.</p>">
+<!ENTITY cspBlocked.longDesc "<p>Aplikace &brandShortName; zabránila načtení této stránky, protože takovýto způsob načtení bezpečnostní pravidla této stránky zakazují.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Chyba v obsahu stránky">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Požadovanou stránku nelze zobrazit, protože při přenosu dat došlo k chybě.</p><ul><li>Kontaktujte prosím vlastníky webového serveru a informujte je o tomto problému.</li></ul>">
@@ -216,7 +216,7 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY inadequateSecurityError.title "Vaše připojení není zabezpečené">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
-<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> používá technologii která je zastaralá a náchylná k útoku. Útočník může snadno získat informace, které si myslíte, že jsou zabezpečené. Administrátor serveru musí server opravit předtím, než budete moci stránku navštívit.</p><p>Kód chyby: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> používá technologii která je zastaralá a náchylná k útoku. Útočník může snadno získat informace, které si myslíte, že jsou zabezpečené. Správce serveru musí server opravit předtím, než budete moci stránku navštívit.</p><p>Kód chyby: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY networkProtocolError.title "Chyba síťového protokolu">
 <!ENTITY networkProtocolError.longDesc "<p>Požadovanou stránku nelze zobrazit, protože došlo k chybě v síťovém protokolu.</p><ul><li>Kontaktujte prosím vlastníky webového serveru a informujte je o tomto problému.</li></ul>">
