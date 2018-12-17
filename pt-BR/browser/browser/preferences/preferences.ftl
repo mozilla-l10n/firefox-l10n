@@ -154,9 +154,6 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = Abrir links em abas em vez de novas janelas
     .accesskey = j
-warn-on-quit-close-multiple-tabs =
-    .label = Avisar quando sair e fechar várias abas
-    .accesskey = v
 warn-on-close-multiple-tabs =
     .label = Avisar quando fechar múltiplas abas
     .accesskey = m
@@ -362,7 +359,7 @@ home-new-windows-tabs-description2 = Escolha o que ver quando abrir sua página 
 home-homepage-mode-label = Página inicial e novas janelas
 home-newtabs-mode-label = Novas abas
 home-restore-defaults =
-    .label = Restaurar padrões
+    .label = Restaurar padrão
     .accesskey = R
 # "Firefox" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
@@ -685,7 +682,7 @@ content-blocking-desc = Bloqueie conteúdo de terceiros, como propaganda ou cód
 content-blocking-description = Bloqueie conteúdo de terceiros que rastreia você pela web. Controle o quanto de suas atividades online é armazenado e compartilhado entre sites.
 content-blocking-learn-more = Saiba mais
 content-blocking-restore-defaults =
-    .label = Restaurar padrões
+    .label = Restaurar padrão
     .accesskey = R
 content-blocking-toggle-on =
     .tooltiptext = Desativar bloqueio de conteúdo
