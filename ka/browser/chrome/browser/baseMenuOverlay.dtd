@@ -14,7 +14,7 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "დახმარება"> 
 <!ENTITY helpMenuWin.accesskey    "დ">
-<!ENTITY aboutProduct2.label      "&brandShorterName;-ის შესახებ">
+<!ENTITY aboutProduct2.label      "&brandShorterName; შესახებ">
 <!ENTITY aboutProduct2.accesskey  "შ">
 <!ENTITY productHelp2.label       "&brandShorterName; დახმარება">
 <!ENTITY productHelp2.accesskey   "დ">
@@ -27,9 +27,6 @@
 <!ENTITY helpSafeMode.accesskey   "გ">
 <!ENTITY helpSafeMode.stop.label       "ჩართული დამატებებით გაშვება">
 <!ENTITY helpSafeMode.stop.accesskey   "ჩ">
-
-<!ENTITY healthReport2.label      "&brandShorterName; გამართულობის შესახებ მოხსენება">
-<!ENTITY healthReport2.accesskey  "ხ">
 
 <!ENTITY helpTroubleshootingInfo.label      "გაუმართაობის აღმოფხვრა">
 <!ENTITY helpTroubleshootingInfo.accesskey  "ფ">

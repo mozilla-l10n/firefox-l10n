@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 aboutDialog-title =
-    .title = { -brand-full-name }-ის შესახებ
+    .title = { -brand-full-name } შესახებ
 releaseNotes-link = რა არის ახალი
 update-checkForUpdatesButton =
     .label = განახლებების შემოწმება
@@ -18,14 +18,14 @@ update-failed = განახლება ვერ მოხერხდა. 
 update-failed-main = განახლება ვერ მოხერხდა. <a data-l10n-name="failed-link-main">უახლესი ვერსიის ჩამოტვირთვა</a>
 update-adminDisabled = განახლებები აკრძალულია თქვენი სისტემური ადმინისტრატორის მიერ
 update-noUpdatesFound = { -brand-short-name } განახლებულია
-update-otherInstanceHandlingUpdates = { -brand-short-name }-ის განახლება უკვე მიმდინარეობს
+update-otherInstanceHandlingUpdates = { -brand-short-name } უკვე ახლდება
 update-manual = განახლებები ხელმისაწვდომია <label data-l10n-name="manual-link"/>
 update-unsupported = თქვენ ამ სისტემაზე დამატებითი განახლებების შესრულებაც შეგიძლიათ. <label data-l10n-name="unsupported-link">ვრცლად</label>
 update-restarting = ეშვება ხელახლა…
 channel-description = თქვენ ამჟამად იყენებთ <label data-l10n-name="current-channel"></label> განახლების არხს.
 warningDesc-version = { -brand-short-name } საცდელია და შესაძლოა არამდგრადი იყოს.
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> არის <label data-l10n-name="community-exp-creditsLink">საერთაშორისო ერთობა</label>, რომელიც მუშაობს იმისთვის, რომ ინტერნეტი დარჩეს გახსნილი, საჯარო და საყოველთაოდ ხელმისაწვდომი.
-community-2 = { -brand-short-name }-ის შემქმნელია <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label> – <label data-l10n-name="community-creditsLink">საერთაშორისო ერთობა</label>, რომელიც მუშაობს იმისთვის, რომ ინტერნეტი დარჩეს გახსნილი, საჯარო და საყოველთაოდ ხელმისაწვდომი.
+community-2 = { -brand-short-name } შექმნილია <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label> – <label data-l10n-name="community-creditsLink">საერთაშორისო ერთობის მიერ</label>, რომელიც მუშაობს იმისთვის, რომ ინტერნეტი დარჩეს გახსნილი, საჯარო და საყოველთაოდ ხელმისაწვდომი.
 helpus = გსურთ დახმარება? <label data-l10n-name="helpus-donateLink">გააკეთეთ შემოწირულება</label> ან <label data-l10n-name="helpus-getInvolvedLink">შემოგვიერთდით!</label>
 bottomLinks-license = ლიცენზირების შესახებ
 bottomLinks-rights = მომხმარებლის უფლებები
