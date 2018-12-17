@@ -14,7 +14,6 @@
 <!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY deniedPortAccess.title "Hua arán riña sitiô na">
-<!ENTITY deniedPortAccess.longDesc "Nanj ra'ña'an">
 
 <!ENTITY dnsNotFound.title "Nu nari'ìj servidor">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
