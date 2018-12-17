@@ -4,7 +4,7 @@
 
 <!ENTITY viewLog.title "Protokol filtrů">
 <!ENTITY viewLogInfo.text "Protokol filtrů dokumentuje, které filtry byly spuštěny. Protokol můžete povolit zaškrtnutím volby níže.">
-<!ENTITY clearLog.label "Smazat protokol">
+<!ENTITY clearLog.label "Vymazat protokol">
 <!ENTITY clearLog.accesskey "m">
 <!ENTITY enableLog.label "Povolit protokol filtrů">
 <!ENTITY enableLog.accesskey "P">

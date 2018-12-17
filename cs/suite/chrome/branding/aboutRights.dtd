@@ -5,7 +5,7 @@
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
 <!ENTITY rights.locale-direction "ltr">
 <!ENTITY rights.pagetitle       "O vašich právech">
-<!ENTITY rights.intro-header    "O vašich právech">
+<!ENTITY rights.intro-header    "Vaše práva">
 <!ENTITY rights.intro "&brandFullName; je svobodný software s otevřeným zdrojovým kódem, který je vytvářen tisíci dobrovolníky z celého světa. Je zde ale několik věcí, které byste měli vědět:">
 
 <!-- Note on pointa / pointb / pointc form:
@@ -18,7 +18,7 @@
      deliberate for formatting around the embedded links. -->
 <!ENTITY rights.intro-point1a "Aplikace &brandShortName; je dostupná za podmínek stanovených ve ">
 <!ENTITY rights.intro-point1b "Veřejné licenci Mozilly">
-<!ENTITY rights.intro-point1c " (MPL). Ta vám umožňuje aplikaci &brandShortName; používat, kopírovat a šířit. Pokud potřebujete, můžete také pozměnit zdrojový kód aplikace &brandShortName; podle vašich potřeb. Veřejná licence Mozilly vám dává také právo šířit vámi pozměněné verze.">
+<!ENTITY rights.intro-point1c " (MPL). Ta vám umožňuje aplikaci &brandShortName; používat, kopírovat a šířit. Pokud potřebujete, můžete také pozměnit zdrojový kód aplikace &brandShortName; podle vašich potřeb. Mozilla Public License vám dává také právo šířit vámi pozměněné verze.">
 
 <!ENTITY rights.intro-point2a "Mozilla vám však nepodstupuje práva k ochranné známce a k logu Mozilly a SeaMonkey. Podrobnější informace o ochranných známkách jsou dostupné ">
 <!ENTITY rights.intro-point2b "zde">

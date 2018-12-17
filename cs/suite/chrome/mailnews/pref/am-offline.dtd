@@ -5,11 +5,9 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Pro ušetření místa na disku nestahovat:">
 <!ENTITY doNotDownloadNntp.label "Pro ušetření místa na disku nestahovat pro použití v režimu offline:">
 <!ENTITY doNotDownloadImap.label "Pro ušetření místa na disku lze stahování zpráv ze serveru a uchovávání pro použití v režimu offline omezit velikostí či stářím.">
-<!ENTITY allFoldersOffline.label "V tomto účtu uchovávat místní kopie zpráv">
-<!ENTITY allFoldersOffline.accesskey "z">
 <!ENTITY allFoldersOffline2.label "Uchovávat místní kopie zpráv všech složek tohoto účtu">
 <!ENTITY allFoldersOffline2.accesskey "z">
-<!ENTITY allFoldersOfflineNote.label "Poznámka: Tato změna ovlivní všechny složky v tomto účtu. Pro nastavení jednotlivých složek použijte tlačítko Rozšířené...">
+<!ENTITY allFoldersOfflineNote.label "Poznámka: Tato změna ovlivní všechny složky tohoto účtu. Pro změnu jednotlivých složek použijte tlačítko Rozšířené….">
 <!ENTITY offlineNotDownload.label "Zprávy větší než">
 <!ENTITY offlineNotDownload.accesskey "n">
 <!ENTITY autosyncNotDownload.label "Nestahovat zprávy větší než">
@@ -32,7 +30,7 @@
 <!ENTITY retentionKeepRecent.accesskey "S">
 <!ENTITY retentionApplyToFlagged.label "Vždy ukládat zprávy s praporkem">
 <!ENTITY retentionApplyToFlagged.accesskey "u">
-<!ENTITY nntpRemoveMsgBody.label "Odstranit těla zpráv starších než">
+<!ENTITY nntpRemoveMsgBody.label "Smazat těla zpráv starších než">
 <!ENTITY nntpRemoveMsgBody.accesskey "O">
 <!ENTITY offlineSelectNntp.label "Vybrat diskusní skupiny pro použití v režimu offline…">
 <!ENTITY offlineSelectNntp.accesskey "V">
