@@ -18,7 +18,7 @@
 <!ENTITY newListCmd.accesskey                           "S">
 <!ENTITY newAddressBookCmd.label                        "Složka kontaktů…">
 <!ENTITY newAddressBookCmd.accesskey                    "a">
-<!ENTITY newLDAPDirectoryCmd.label                      "Složka kontaktů LDAP…">
+<!ENTITY newLDAPDirectoryCmd.label                      "LDAP adresář…">
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "D">
 <!ENTITY newMessageCmd.label                            "Zpráva">
 <!ENTITY newMessageCmd.key                              "M">
@@ -33,12 +33,12 @@
 <!ENTITY printSetupCmd.accesskey                        "V">
 <!ENTITY printPreviewContactCmd.label                   "Náhled tisku kontaktu">
 <!ENTITY printPreviewContactCmd.accesskey               "h">
-<!ENTITY printPreviewAddressBook.label                  "Náhled tisku složky kontaktů">
+<!ENTITY printPreviewAddressBook.label                  "Náhled tisku kontaktů">
 <!ENTITY printPreviewAddressBook.accesskey              "l">
 <!ENTITY printContactCmd.label                          "Tisk kontaktu…">
 <!ENTITY printContactCmd.accesskey                      "T">
 <!ENTITY printContactCmd.key                            "P">
-<!ENTITY printAddressBook.label                         "Tisk složky kontaktů…">
+<!ENTITY printAddressBook.label                         "Tisk kontaktů…">
 <!ENTITY printAddressBook.accesskey                     "o">
 
 <!-- Edit Menu -->

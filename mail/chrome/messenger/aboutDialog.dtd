@@ -41,7 +41,7 @@
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to the thunderbird donation page -->
 <!ENTITY helpus.donateLink          "Darujte příspěvek">
 <!ENTITY helpus.middle              " nebo ">
-<!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to https://www.mozilla.org/contribute/. -->
+<!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to https://www.thunderbird.net/get-involved/. -->
 <!ENTITY helpus.getInvolvedLink     "se zapojte!">
 <!ENTITY helpus.end                 "">
 
@@ -51,7 +51,7 @@
 <!ENTITY bottomLinks.license        "Licence">
 
 <!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
-<!ENTITY bottomLinks.rights         "O vašich právech">
+<!ENTITY bottomLinks.rights         "Vaše práva">
 
 <!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to https://www.mozilla.org/legal/privacy/. -->
 <!ENTITY bottomLinks.privacy        "Zásady ochrany osobních údajů">
@@ -100,7 +100,7 @@
 <!ENTITY update.downloading.start   "Stahování aktualizace — ">
 <!ENTITY update.downloading.end     "">
 
-<!ENTITY update.applying            "Aktualizace…">
+<!ENTITY update.applying            "Probíhá aktualizace…">
 
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.
