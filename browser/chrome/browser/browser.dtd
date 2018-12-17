@@ -933,7 +933,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.recommended "Doporučené">
 <!ENTITY customizeMode.lwthemes.menuManage "Správa">
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "S">
-<!ENTITY customizeMode.lwthemes.menuGetMore "Získat více motivů vzhledu">
+<!ENTITY customizeMode.lwthemes.menuGetMore "Získat další vzhled">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "Z">
 <!ENTITY customizeMode.overflowList.title2 "Rozšiřující nabídka">
 <!ENTITY customizeMode.overflowList.description "Sem můžete přetáhnout položky, které chcete mít na dosah, ale ne přímo na liště…">

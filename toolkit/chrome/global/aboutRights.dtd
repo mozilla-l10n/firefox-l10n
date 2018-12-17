@@ -16,7 +16,7 @@
      deliberate for formatting around the embedded links. -->
 <!ENTITY rights.intro-point1a "Aplikace &brandShortName; je dostupná za podmínek stanovených ve ">
 <!ENTITY rights.intro-point1b "Veřejné licenci Mozilly">
-<!ENTITY rights.intro-point1c " (MPL). Ta vám umožňuje aplikaci &brandShortName; používat, kopírovat a šířit. Pokud potřebujete, můžete také pozměnit zdrojový kód aplikace &brandShortName; podle vašich potřeb. Veřejná licence Mozilly vám dává také právo šířit vámi pozměněné verze.">
+<!ENTITY rights.intro-point1c " (MPL). Ta vám umožňuje aplikaci &brandShortName; používat, kopírovat a šířit. Pokud potřebujete, můžete také pozměnit zdrojový kód aplikace &brandShortName; podle vašich potřeb. Mozilla Public License vám dává také právo šířit vámi pozměněné verze.">
 
 <!ENTITY rights.intro-point2-a "Nejsou vám však podstoupena žádná práva ani licence k ochranným známkám Mozilla Foundation, či třetích stran, a to zejména k logu a názvu Firefox. Podrobnější informace o ochranných známkách jsou dostupné ">
 <!ENTITY rights.intro-point2-b "zde">
