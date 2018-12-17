@@ -87,7 +87,7 @@
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
-<!ENTITY screenshot_folder_label_in_bookmarks "Snímky obrazovky">
+<!ENTITY screenshot_folder_label_in_bookmarks "Snímky stránek">
 <!ENTITY readinglist_smartfolder_label_in_bookmarks "Seznam ke čtení">
 
 <!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
@@ -122,7 +122,7 @@
 <!ENTITY one_tab "1 panel">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
-<!ENTITY num_tabs2 "&formatD; panely">
+<!ENTITY num_tabs2 "panely: &formatD;">
 <!ENTITY new_tab_opened "Nový panel otevřen">
 <!ENTITY new_private_tab_opened "Nový panel otevřen">
 <!-- Localization note (switch_button_message): This string should be as short
@@ -334,7 +334,7 @@
      user needs to enable an Android setting in order to enable tab queues. -->
 <!ENTITY tab_queue_prompt_permit_drawing_over_apps "Zapnout povolení pro vykreslování nad ostatní aplikace">
 <!ENTITY tab_queue_prompt_positive_action_button "Povolit">
-<!ENTITY tab_queue_prompt_negative_action_button "Nyní ne">
+<!ENTITY tab_queue_prompt_negative_action_button "Teď ne">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
 <!ENTITY tab_queue_prompt_settings_button "Přejít do Nastavení">
@@ -673,7 +673,7 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity_connection_secure "Zabezpečené připojení">
+<!ENTITY identity_connection_secure "Zabezpečené spojení">
 <!ENTITY identity_connection_insecure "Nezabezpečené připojení">
 <!ENTITY identity_connection_chromeui "Toto je zabezpečená stránka &brandShortName;">
 
