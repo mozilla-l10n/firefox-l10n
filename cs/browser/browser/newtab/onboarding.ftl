@@ -17,7 +17,7 @@ onboarding-start-browsing-button-label = Začít prohlížet
 ## Each message also has an associated button for the user to try the feature.
 ## The string for the button is found above, in the UI strings section
 
-onboarding-private-browsing-title = Anonymní prohlíženi
+onboarding-private-browsing-title = Anonymní prohlížení
 onboarding-private-browsing-text = Prohlížejte internet v soukromí. Funkce anonymního prohlížení a blokování obsahu vám zajistí ochranu před sledovacími prvky.
 onboarding-screenshots-title = Snímky stránek
 onboarding-screenshots-text = Pořizujte, ukládejte a sdílejte snímky stránek přímo v aplikaci { -brand-short-name }. Vyberte oblast nebo celou stránku během jejího prohlížení a uložte si její snímek na web pro snadné sdílení nebo pozdější zobrazení.

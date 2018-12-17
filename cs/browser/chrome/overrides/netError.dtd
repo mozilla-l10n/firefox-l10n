@@ -130,7 +130,7 @@
 <!ENTITY unknownSocketType.title "Neplatná odpověď serveru">
 <!ENTITY unknownSocketType.longDesc "
 <ul>
-  <li>Zkontrolujte, že má váš systém nainstalován
+  <li>Zkontrolujte, že je ve vašem systému nainstalován
 Personal Security Manager.</li>
   <li>Tato chyba může být také způsobena nestandardní konfigurací serveru.</li>
 </ul>
