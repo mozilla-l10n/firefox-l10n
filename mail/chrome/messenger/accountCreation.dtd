@@ -42,6 +42,7 @@
 <!ENTITY sslTls.label                    "SSL/TLS">
 
 <!-- LOCALIZATION NOTE(exchange-hostname.label): Do not translate Exchange, it is a product name. -->
+<!ENTITY exchange-hostname.label         "Exchange 服务器：">
 
 <!ENTITY advancedSetup.label             "高级配置">
 <!ENTITY advancedSetup.accesskey         "A">
