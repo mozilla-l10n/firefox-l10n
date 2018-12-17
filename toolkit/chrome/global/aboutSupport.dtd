@@ -13,7 +13,7 @@
 
 <!ENTITY aboutSupport.crashes.title "Ungelokrapporten">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
-This is likely the same like id.heading in crashes.dtd. -->
+This is likely the same like id.heading in aboutcrashes.ftl. -->
 <!ENTITY aboutSupport.crashes.id "Rapport-ID">
 <!ENTITY aboutSupport.crashes.sendDate "Ynstjoerd">
 <!ENTITY aboutSupport.crashes.allReports "Alle Ungelokrapporten">
@@ -36,15 +36,6 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.featureName "Namme">
 <!ENTITY aboutSupport.featureVersion "Ferzje">
 <!ENTITY aboutSupport.featureId "ID">
-
-<!ENTITY aboutSupport.experimentsTitle "Eksperimintele funksjes">
-<!ENTITY aboutSupport.experimentName "Namme">
-<!ENTITY aboutSupport.experimentId "ID">
-<!ENTITY aboutSupport.experimentDescription "Beskriuwing">
-<!ENTITY aboutSupport.experimentActive "Aktyf">
-<!ENTITY aboutSupport.experimentEndDate "Eindatum">
-<!ENTITY aboutSupport.experimentHomepage "Thússide">
-<!ENTITY aboutSupport.experimentBranch "Branch">
 
 <!ENTITY aboutSupport.appBasicsTitle "Applikaasjebasis">
 <!ENTITY aboutSupport.appBasicsName "Namme">
@@ -132,7 +123,6 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.sandboxTitle "Sandbox">
 <!ENTITY aboutSupport.sandboxSyscallLogTitle "Wegere systeemoanfragen">
-<!ENTITY aboutSupport.sandboxSyscallIndex "">
 <!ENTITY aboutSupport.sandboxSyscallAge "Sekonden lyn">
 <!ENTITY aboutSupport.sandboxSyscallPID "PID">
 <!ENTITY aboutSupport.sandboxSyscallTID "TID">
