@@ -22,9 +22,7 @@
 <!ENTITY importFromChrome.label         "Chrome">
 <!ENTITY importFromChrome.accesskey     "C">
 <!ENTITY importFromChromeBeta.label     "Chrome Beta">
-<!ENTITY importFromChromeBeta.accesskey "">
 <!ENTITY importFromChromeDev.label      "Chrome Dev">
-<!ENTITY importFromChromeDev.accesskey  "">
 <!ENTITY importFromChromium.label       "Chromium">
 <!ENTITY importFromChromium.accesskey   "u">
 <!ENTITY importFromFirefox.label        "Firefox">
