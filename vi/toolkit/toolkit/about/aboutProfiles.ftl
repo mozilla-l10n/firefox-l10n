@@ -21,6 +21,7 @@ profiles-rootdir = Thư mục gốc
 # In case localDir and rootDir are equal, localDir is not shown.
 profiles-localdir = Thư mục nội bộ
 profiles-current-profile = Hồ sơ này đang được sử dụng nên nó không thể bị xóa.
+profiles-in-use-profile = Hồ sơ này đang được sử dụng trong một ứng dụng khác và nó không thể bị xóa.
 profiles-rename = Đổi tên
 profiles-remove = Xóa
 profiles-set-as-default = Đặt làm hồ sơ mặc định
@@ -44,6 +45,8 @@ profiles-delete-profile-confirm =
     Bạn có muốn xóa các tập tin dữ liệu của hồ sơ không?
 profiles-delete-files = Xóa các tập tin
 profiles-dont-delete-files = Không xóa các tập tin
+profiles-delete-profile-failed-title = Lỗi
+profiles-delete-profile-failed-message = Đã xảy ra lỗi khi cố gắng xóa hồ sơ này.
 profiles-opendir =
     { PLATFORM() ->
         [macos] Hiển thị trong Finder
