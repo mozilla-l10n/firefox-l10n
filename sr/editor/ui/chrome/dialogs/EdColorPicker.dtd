@@ -5,9 +5,9 @@
 <!ENTITY windowTitle.label "Боја">
 <!ENTITY lastPickedColor.label "Последње изабрана боја">
 <!ENTITY lastPickedColor.accessKey "л">
-<!ENTITY setColor1.label "Кликните на боју или">
-<!ENTITY setColor2.label "унесите HTML ознаку боје">
-<!ENTITY setColor2.accessKey "H">
+<!ENTITY chooseColor1.label "Изаберите боју:">
+<!ENTITY chooseColor2.label "Унесите текстуалну HTML боју">
+<!ENTITY chooseColor2.accessKey "б">
 <!ENTITY setColorExample.label "(нпр.: &quot;#0000ff&quot; или &quot;blue&quot;):">
 <!ENTITY default.label "Подразумевано">
 <!ENTITY default.accessKey "д">
