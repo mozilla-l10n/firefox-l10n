@@ -7,7 +7,7 @@
 <!ENTITY aboutSupport.accountsTitle "Účty pošty a diskusních skupin">
 <!ENTITY aboutSupport.showPrivateData.mainText "Zahrnout názvy účtů">
 <!ENTITY aboutSupport.showPrivateData.explanationText "(tyto informace vás mohou identifikovat)">
-<!ENTITY aboutSupport.accountsID "Id">
+<!ENTITY aboutSupport.accountsID "ID">
 <!ENTITY aboutSupport.accountsName "Název">
 <!ENTITY aboutSupport.accountsIncomingServer "Příchozí server">
 <!ENTITY aboutSupport.accountsOutgoingServers "Odchozí servery">

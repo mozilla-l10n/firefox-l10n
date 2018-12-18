@@ -21,9 +21,9 @@
 <!ENTITY maildirStore.label            "Soubor pro každou zprávu (maildir)">
 
 <!ENTITY scrolling.label               "Posunování">
-<!ENTITY useAutoScroll.label           "Použít automatické posunování">
+<!ENTITY useAutoScroll.label           "Použít automatické posouvání">
 <!ENTITY useAutoScroll.accesskey       "a">
-<!ENTITY useSmoothScrolling.label      "Použít jemné posunování">
+<!ENTITY useSmoothScrolling.label      "Použít plynulé posouvání">
 <!ENTITY useSmoothScrolling.accesskey  "e">
 
 <!ENTITY systemIntegration.label       "Nastavení systému">
@@ -71,8 +71,6 @@
 <!ENTITY updateAuto.accesskey            "A">
 <!ENTITY updateCheck.label               "Vyhledávat aktualizace, ale zeptat se, zda mají být nainstalovány">
 <!ENTITY updateCheck.accesskey           "C">
-<!ENTITY updateManual.label              "Nikdy nevyhledávat aktualizace (nedoporučováno z důvodu rizika ohrožení)">
-<!ENTITY updateManual.accesskey          "N">
 <!ENTITY updateHistory.label             "Zobrazit historii aktualizací">
 <!ENTITY updateHistory.accesskey         "b">
 

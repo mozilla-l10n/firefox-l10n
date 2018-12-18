@@ -44,7 +44,7 @@
 <!ENTITY saveAsDraftCmd.accesskey "K">
 <!ENTITY saveAsTemplateCmd.label "Šablona">
 <!ENTITY saveAsTemplateCmd.accesskey "b">
-<!ENTITY sendNowCmd.label "Odeslat nyní">
+<!ENTITY sendNowCmd.label "Odeslat teď">
 <!ENTITY sendCmd.keycode "VK_RETURN">
 <!ENTITY sendNowCmd.accesskey "d">
 <!ENTITY sendLaterCmd.label "Odeslat později">
