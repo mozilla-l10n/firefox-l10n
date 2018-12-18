@@ -32,4 +32,10 @@ onboarding-fxa-text = Prihláste sa ku svojmu účtu Firefox a synchronizujte sv
 ## Message strings belonging to the Return to AMO flow
 
 return-to-amo-sub-header = Skvelé, odteraz máte { -brand-short-name }
+# <icon></icon> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-header = Teraz naspäť k doplnku <icon></icon><b>{ $addon-name }.</b>
 return-to-amo-extension-button = Pridať rozšírenie
+return-to-amo-get-started-button = Začíname s aplikáciou { -brand-short-name }
