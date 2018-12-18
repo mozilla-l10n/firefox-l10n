@@ -12,7 +12,7 @@
 <!ENTITY icons.label              "Ikony">
 <!ENTITY text.label               "Text">
 <!ENTITY useSmallIcons.label      "Použít malé ikony">
-<!ENTITY restoreDefaultSet.label  "Nastavit výchozí sadu">
+<!ENTITY restoreDefaultSet.label  "Obnovit výchozí sadu">
 <!ENTITY addNewToolbar.label      "Přidat novou lištu">
 <!ENTITY saveChanges.label        "Hotovo">
 <!ENTITY undoChanges.label        "Zrušit změny">

@@ -14,9 +14,9 @@
 <!ENTITY useFavIcons2.accesskey                 "i">
 
 <!ENTITY scrolling.label                        "Posunování">
-<!ENTITY useAutoScroll.label                    "Použít automatické posunování">
+<!ENTITY useAutoScroll.label                    "Použít automatické posouvání">
 <!ENTITY useAutoScroll.accesskey                "a">
-<!ENTITY useSmoothScroll.label                  "Použít jemné posunování">
+<!ENTITY useSmoothScroll.label                  "Použít plynulé posouvání">
 <!ENTITY useSmoothScroll.accesskey              "P">
 
 <!ENTITY zoomPrefs.label                        "Možnosti lupy">
