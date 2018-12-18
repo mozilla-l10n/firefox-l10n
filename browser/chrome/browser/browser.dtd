@@ -372,6 +372,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newUserContext.label             "Nýr hópaflipi">
 <!ENTITY newUserContext.accesskey         "h">
 <!ENTITY manageUserContext.label          "Stjórna hópafllipum">
+<!ENTITY manageUserContext.accesskey      "O">
 <!ENTITY newNavigatorCmd.label        "Nýr gluggi">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
@@ -1028,26 +1029,56 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.3rdPartyCookies.add.label "Bæta við blokkun…">
 
+<!ENTITY contentBlocking.manageSettings.label "Stjórna efnisblokkun">
+<!ENTITY contentBlocking.manageSettings.accesskey "M">
 
+<!ENTITY contentBlocking.trackersView.label "Rekjarar">
+<!ENTITY contentBlocking.trackersView.strictInfo.label "Til að blokka alla rekjara, stilltu efnisblokkun á “Strict”.">
 
+<!ENTITY contentBlocking.cookies.label "Vefkökur">
+<!ENTITY contentBlocking.cookiesView.label "Vefkökur og síðugögn">
 
+<!ENTITY contentBlocking.openBreakageReportView2.label "Tilkynna vandamál">
+<!ENTITY contentBlocking.breakageReportView.label "Tilkynna vandamál">
+<!ENTITY contentBlocking.breakageReportView2.description "Efnisblokkun getur valdið vandamálum með sum vefsvæði. Þegar þú tilkynnir vandamál, þá hjálparðu að gera &brandShortName; betra fyrir alla. (Þetta sendir vefslóð og upplýsingar um vafrastillingarnar þínar til Mozilla.)">
+<!ENTITY contentBlocking.breakageReportView.learnMore "Læra meira">
+<!ENTITY contentBlocking.breakageReportView.collection.url.label "Vefslóð">
+<!ENTITY contentBlocking.breakageReportView.collection.comments.label "Hvert var vandamálið? (Valkvæmt)">
+<!ENTITY contentBlocking.breakageReportView.sendReport.label "Senda tilkynningu">
+<!ENTITY contentBlocking.breakageReportView.cancel.label "Hætta við">
 
-<!ENTITY trackingProtection.title "Vörn gegn gagnasöfnun">
+<!ENTITY trackingProtection.title "Gagnasöfnunarvörn">
+<!ENTITY trackingProtection.tooltip "Opna stillingar gagnasöfnunarvarnar">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock4.label "Slökkva á blokkun fyrir þessa síðu">
+<!ENTITY trackingProtection.unblock4.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate4.label "Slökkva á blokkun tímabundið">
+<!ENTITY trackingProtection.unblockPrivate4.accesskey "D">
+<!ENTITY trackingProtection.block5.label "Kveikja á blokkun fyrir þessa síðu">
+<!ENTITY trackingProtection.block5.accesskey "E">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock5.label "Slökkva á blokkun fyrir þessa síðu">
+<!ENTITY trackingProtection.unblock5.accesskey "T">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate6.label, trackingProtection.unblockPrivate6.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate5.label "Slökkva á blokkun tímabundið">
+<!ENTITY trackingProtection.unblockPrivate5.accesskey "T">
+<!ENTITY trackingProtection.block6.label "Slökkva á blokkun fyrir þessa síðu">
+<!ENTITY trackingProtection.block6.accesskey "T">
+<!ENTITY trackingProtection.reload2.label "Endurhlaða síðu">
+<!ENTITY trackingProtection.reload2.accesskey "R">
 
 <!ENTITY pluginNotification.showAll.label "Sýna allt">
 <!ENTITY pluginNotification.showAll.accesskey "S">
@@ -1126,11 +1157,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.label "Slökkva á viðbót">
 <!ENTITY newTabControlled.disableButton.accesskey "ð">
 
+<!ENTITY homepageControlled.message "Einhver viðbót hefur breytt síðunni sem er alltaf opnuð fyrir nýja flipa. Ef þú vilt ekki þessa breytingu geturðu endurheimt eldri stillingar.">
+<!ENTITY homepageControlled.header.message "Heimasíða þín hefur breyst.">
 <!ENTITY homepageControlled.keepButton.label "Halda breytingum">
 <!ENTITY homepageControlled.keepButton.accesskey "H">
 <!ENTITY homepageControlled.disableButton.label "Slökkva á viðbót">
 <!ENTITY homepageControlled.disableButton.accesskey "ö">
 
+<!ENTITY tabHideControlled.header.message "Opna falda flipa">
+<!ENTITY tabHideControlled.keepButton.label "Halda flipum földum">
+<!ENTITY tabHideControlled.keepButton.accesskey "K">
+<!ENTITY tabHideControlled.disableButton.label "Slökkva á viðbót">
+<!ENTITY tabHideControlled.disableButton.accesskey "D">
 
 <!ENTITY pageActionButton.tooltip "Síðu aðgerðir">
 <!ENTITY pageAction.addToUrlbar.label "Bæta við í staðfestingarslá">
@@ -1140,6 +1178,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "Samstilli tæki…">
 
 <!ENTITY pageAction.shareUrl.label "Deila">
+<!ENTITY pageAction.shareMore.label "Meira…">
 
 <!ENTITY libraryButton.tooltip "Skoða feril, vistuð bókamerki, og meira">
 
