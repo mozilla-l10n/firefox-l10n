@@ -26,4 +26,4 @@
 <!ENTITY backgroundImage.label "Obrázek na pozadí">
 <!ENTITY backgroundImage.accessKey "O">
 <!ENTITY backgroundImage.tooltip "Výběr souboru s obrázkem pro pozadí stránky">
-<!ENTITY backgroundImage.shortenedDataURI "Zkrácená datová URI (kopírování uloží celou URI do schránky)">
+<!ENTITY backgroundImage.shortenedDataURI "Zkrácená datová URI (zkopírování vloží do schránky celou URI)">

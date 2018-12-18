@@ -49,7 +49,7 @@
 <!-- Advanced -->
 <!ENTITY reading.caption                  "Čtení">
 <!ENTITY display.caption                  "Zobrazení">
-<!ENTITY showCondensedAddresses.label     "U lidí v mých kontaktech zobrazovat pouze jméno">
+<!ENTITY showCondensedAddresses.label     "U lidí z mých kontaktů zobrazovat pouze jméno">
 <!ENTITY showCondensedAddresses.accesskey "U">
 
 <!ENTITY autoMarkAsRead.label             "Automaticky označit zprávu jako přečtenou">

@@ -28,7 +28,7 @@
 <!ENTITY filtersForPrefix.accesskey "F">
 <!ENTITY viewLogButton.label "Protokol filtrů">
 <!ENTITY viewLogButton.accesskey "l">
-<!ENTITY runFilters.label "Spustit nyní">
+<!ENTITY runFilters.label "Spustit teď">
 <!ENTITY runFilters.accesskey "S">
 <!ENTITY stopFilters.label "Zastavit">
 <!ENTITY stopFilters.accesskey "Z">
@@ -36,8 +36,5 @@
 <!ENTITY folderPickerPrefix.accesskey "R">
 <!ENTITY helpButton.label "Nápověda">
 <!ENTITY helpButton.accesskey "v">
-<!ENTITY closeCmd.key "W"> 
+<!ENTITY closeCmd.key "W">
 <!ENTITY searchBox.emptyText "Hledat filtry dle jména…">
-
-
-

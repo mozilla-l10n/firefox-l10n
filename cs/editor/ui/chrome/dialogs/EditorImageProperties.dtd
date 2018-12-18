@@ -13,7 +13,7 @@
 <!ENTITY locationEditField.label "Adresa obrázku:">
 <!ENTITY locationEditField.accessKey "d">
 <!ENTITY locationEditField.tooltip "Vyberte adresu a název obrázku">
-<!ENTITY locationEditField.shortenedDataURI "Zkrácená URI (zkopírování vloží celou URI do schránky)">
+<!ENTITY locationEditField.shortenedDataURI "Zkrácená datová URI (zkopírování vloží do schránky celou URI)">
 <!ENTITY title.label "Vysvětlivka:">
 <!ENTITY title.accessKey "P">
 <!ENTITY title.tooltip "HTML atribut 'title' se používá jako vysvětlivka">

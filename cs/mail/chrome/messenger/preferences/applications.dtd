@@ -13,7 +13,7 @@
 
 <!ENTITY  filter.placeholder          "Hledat">
 
-<!ENTITY saveTo.label                 "Ukládat všechny soubory do">
+<!ENTITY saveTo.label                 "Ukládat všechny soubory do složky">
 <!ENTITY saveTo.accesskey             "U">
 <!ENTITY alwaysAsk.label              "U každého souboru se zeptat, kam ho uložit">
 <!ENTITY alwaysAsk.accesskey          "k">
