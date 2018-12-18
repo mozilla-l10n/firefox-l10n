@@ -8,6 +8,8 @@ do-not-track-option-default =
     .label = Jarraipenaren babesa erabiltzean soilik
 do-not-track-option-default-content-blocking =
     .label = { -brand-short-name } antzemandako jarraipen-elementuak blokeatzeako konfiguratuta dagoenean soilik
+do-not-track-option-default-content-blocking-known =
+    .label = Bakarrik { -brand-short-name } jarraipen-elementu ezagunak blokeatzeko ezarrita dagoenean
 do-not-track-option-always =
     .label = Beti
 pref-page =
@@ -84,6 +86,9 @@ extension-controlled-homepage-override = <img data-l10n-name="icon"/> { $name } 
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
 extension-controlled-new-tab-url = <img data-l10n-name="icon"/> { $name } hedapenak zure fitxa berriaren orria kontrolatzen du.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlled-web-notifications = Hedapen bat, <img data-l10n-name="icon"/> { $name }, ezarpen hau kontrolatzen ari da.
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
 extension-controlled-default-search = Hedapen batek (<img data-l10n-name="icon"/> { $name }) zure bilaketa-motor lehenetsia ezarri du.
@@ -330,6 +335,9 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Bilatu testua idazten hasi bezain laster
     .accesskey = B
+browsing-cfr-recommendations =
+    .label = Gomendatu hedapenak nabigatu ahala
+    .accesskey = G
 browsing-cfr-recommendations-learn-more = Argibide gehiago
 
 ## General Section - Proxy
@@ -604,6 +612,9 @@ sitedata-keep-until-expire =
     .label = Iraungitzea
 sitedata-keep-until-closed =
     .label = { -brand-short-name } itxi arte
+sitedata-delete-on-close =
+    .label = Ezabatu cookieak eta guneetako datuak { -brand-short-name } ixtean
+    .accesskey = c
 sitedata-allow-cookies-option =
     .label = Onartu cookieak eta guneetako datuak
     .accesskey = O
@@ -624,6 +635,14 @@ sitedata-block-all-third-party-option =
     .label = Hirugarrenen cookie guztiak (webguneak apur litzake)
 sitedata-block-all-option =
     .label = Cookie guztiak (webguneak apurtuko ditu)
+sitedata-option-block-trackers =
+    .label = Hirugarren jarraipen-elementuak
+sitedata-option-block-unvisited =
+    .label = Bisitatu gabeko guneetako cookieak
+sitedata-option-block-all-third-party =
+    .label = Hirugarrenen cookie guztiak (webguneak haustea eragin lezake)
+sitedata-option-block-all =
+    .label = Cookie guztiak (webguneak haustea eragingo du)
 sitedata-clear =
     .label = Garbitu datuak…
     .accesskey = G
@@ -705,6 +724,16 @@ content-blocking-setting-custom =
     .label = Pertsonalizatua
     .accesskey = s
 content-blocking-custom-desc = Aukeratu zer blokeatu.
+content-blocking-learn-how = Ikasi nola
+content-blocking-trackers-label =
+    .label = Jarraipen-elementuak
+    .accesskey = r
+content-blocking-tracking-protection-option-all-windows =
+    .label = Leiho guztietan
+    .accesskey = z
+content-blocking-option-private =
+    .label = Leiho pribatuetan soilik
+    .accesskey = r
 content-blocking-tracking-protection-change-block-list = Aldatu blokeo-zerrenda
 content-blocking-third-party-cookies-label =
     .label = Hirugarrenen cookieak

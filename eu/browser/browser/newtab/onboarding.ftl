@@ -27,8 +27,15 @@ onboarding-ghostery-title = Ghostery
 onboarding-ghostery-text = Nabigatu azkarrago, argiago edo seguruago iragarkiak blokeatzen dituzten Ghostery-ren tankerako gehigarriekin.
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Sinkronizatu
+onboarding-fxa-text = Sortu { -fxaccount-brand-name } kontua eta sinkronizatu zure laster-markak, pasahitzak eta irekitako fitxak { -brand-short-name } erabiltzen duzun leku orotan.
 
 ## Message strings belonging to the Return to AMO flow
 
+return-to-amo-sub-header = Oso ondo, { -brand-short-name } darabilzu
+# <icon></icon> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-header = Orain eskura dezagun zuretzat <icon></icon><b>{ $addon-name }</b>.
 return-to-amo-extension-button = Gehitu hedapena
 return-to-amo-get-started-button = Hasi { -brand-short-name } erabiltzen
