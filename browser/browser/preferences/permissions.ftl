@@ -58,10 +58,10 @@ permissions-invalid-uri-label = Sláðu inn löglegt vistfang
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-tracking-protection-window =
-    .title = Undanþágur - Vörn gegn gagnasöfnun
+permissions-exceptions-content-blocking-window =
+    .title = Undantekningar - Blokkun efnis
     .style = { permissions-window.style }
-permissions-exceptions-tracking-protection-desc = Þú hefur gert óvirka vörn gegn gagnasöfnun á þessum vefsvæðum.
+permissions-exceptions-content-blocking-desc = Þú hefur afvirkjað blokkun efnis á þessum vefsíðum.
 
 ## Exceptions - Cookies
 
@@ -93,6 +93,10 @@ permissions-exceptions-addons-desc = Þú getur skilgreint hvaða vefsvæði haf
 
 ## Exceptions - Autoplay Media
 
+permissions-exceptions-autoplay-media-window2 =
+    .title = Undantekningar - sjálfvirk spilun
+    .style = { permissions-window.style }
+permissions-exceptions-autoplay-media-desc2 = Þú getur skilyrt hvaða vefsíður mega alltaf eða aldrei spila sjálfvirkt margmiðlunarefni með hljóði. Sláðu inn vefslóð þeirrar síðu sem þú vilt stilla og veldu annaðhvort Blokka eða Leyfa.
 
 ## Site Permissions - Notifications
 

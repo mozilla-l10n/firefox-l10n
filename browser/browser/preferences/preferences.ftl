@@ -656,8 +656,17 @@ permissions-notification-link = Vita meira
 permissions-notification-pause =
     .label = Stöðva tilkynningar þangað til { -brand-short-name } endurræsir
     .accesskey = n
+permissions-block-autoplay-media-menu = Fyrir vefsíður með sjálfvirkri afspilun hljóðs
+permissions-block-autoplay-media-exceptions =
+    .label = Undanþágur...
+    .accesskey = E
+autoplay-option-ask =
+    .label = Spyrja alltaf
+autoplay-option-allow =
+    .label = Leyfa sjálfvirka afspilun
 autoplay-option-dont =
     .label = Ekki spila sjálfkrafa
+permissions-autoplay-link = Læra meira
 permissions-block-popups =
     .label = Loka á sprettiglugga
     .accesskey = g
@@ -684,6 +693,11 @@ collection-health-report =
     .label = Leyfa { -brand-short-name } að senda sjálkrafa tæknilegar og notkunar upplýsingar til { -vendor-short-name }
     .accesskey = r
 collection-health-report-link = Fræðast meira
+collection-studies =
+    .label = Leyfa { -brand-short-name } að setja upp og keyra rannsóknir
+collection-studies-link = Skoða rannsóknir frá { -brand-short-name }
+addon-recommendations =
+    .label = Leyfa { -brand-short-name } að gera sérsniðnar viðbótarviðbætur.
 addon-recommendations-link = Fræðast meira
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
@@ -763,3 +777,7 @@ space-alert-under-5gb-message = { -brand-short-name } er verða búið með disk
 desktop-folder-name = Skjáborð
 downloads-folder-name = Niðurhal
 choose-download-folder-title = Veldu niðurhals möppu:
+# Variables:
+#   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
+save-files-to-cloud-storage =
+    .label = Vista skrár í { $service-name }
