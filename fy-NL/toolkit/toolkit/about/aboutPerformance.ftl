@@ -10,6 +10,7 @@ about-performance-title = Taakbehearder
 column-name = Namme
 column-type = Type
 column-energy-impact = Enerzjy-ympakt
+column-memory = Unthâld
 
 ## Special values for the Name column
 
@@ -37,6 +38,15 @@ type-other = Oars
 energy-impact-high = Heech ({ $value })
 energy-impact-medium = Gemiddeld ({ $value })
 energy-impact-low = Leech ({ $value })
+
+## Values for the Memory column
+##
+## Variables:
+##   $value (Number) - How much memory is used
+
+size-KB = { $value } KB
+size-MB = { $value } MB
+size-GB = { $value } GB
 
 ## Tooltips for the action buttons
 
