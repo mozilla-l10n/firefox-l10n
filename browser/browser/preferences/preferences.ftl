@@ -138,6 +138,8 @@ set-as-my-default-browser =
 startup-restore-previous-session =
     .label = Berreskuratu aurreko saioa
     .accesskey = B
+startup-restore-warn-on-quit =
+    .label = Abisatu nabigatzailetik irtetean
 disable-extension =
     .label = Desgaitu hedapena
 tabs-group-header = Fitxak
@@ -285,6 +287,10 @@ update-application-use-service =
 update-enable-search-update =
     .label = Eguneratu automatikoki bilaketa-motorrak
     .accesskey = E
+update-pref-write-failure-title = Idazketa-akatsa
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = Ezin da hobespena gorde. Ezin da fitxategira idatzi: { $path }
 
 ## General Section - Performance
 
@@ -525,7 +531,6 @@ privacy-header = Nabigatzailearen pribatutasuna
 
 ## Privacy Section - Forms
 
-forms-header = Inprimakiak eta pasahitzak
 logins-header = Saio-hasierak eta pasahitzak
 forms-ask-to-save-logins =
     .label = Galdetu webguneetako saio-hasierak eta pasahitzak gordetzeko
@@ -816,6 +821,9 @@ collection-health-report-link = Argibide gehiago
 collection-studies =
     .label = Baimendu { -brand-short-name }(e)k esperimentuak instalatu eta exekutatzea
 collection-studies-link = Ikusi { -brand-short-name } esperimentuak
+addon-recommendations =
+    .label = Baimendu { -brand-short-name }(r)i hedapenen gomendio pertsonalizatuak egitea
+addon-recommendations-link = Argibide gehiago
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Datuen berri ematea desgaituta dago eraikitze-konfigurazio honetarako
@@ -894,3 +902,7 @@ space-alert-under-5gb-message = { -brand-short-name } leku erabilgarririk gabe g
 desktop-folder-name = Mahaigaina
 downloads-folder-name = Deskargak
 choose-download-folder-title = Aukeratu deskarga-karpeta:
+# Variables:
+#   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
+save-files-to-cloud-storage =
+    .label = Gorde fitxategiak { $service-name } zerbitzura

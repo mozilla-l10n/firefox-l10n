@@ -58,10 +58,10 @@ permissions-invalid-uri-label = Idatzi baliozko zerbitzari-izena
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-tracking-protection-window =
-    .title = Salbuespenak - Jarraipenaren babesa
+permissions-exceptions-content-blocking-window =
+    .title = Salbuespenak - Edukia blokeatzea
     .style = { permissions-window.style }
-permissions-exceptions-tracking-protection-desc = Jarraipenaren babesa desgaitu duzu webgune hauetan.
+permissions-exceptions-content-blocking-desc = Edukia blokeatzea desgaitu duzu gune hauetarako.
 
 ## Exceptions - Cookies
 
