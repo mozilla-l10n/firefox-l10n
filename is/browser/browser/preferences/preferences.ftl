@@ -615,6 +615,34 @@ sitedata-keep-until-closed =
 sitedata-delete-on-close =
     .label = Eyða vafrakökum og síðugögnum þegar { -brand-short-name } er lokað
     .accesskey = c
+sitedata-allow-cookies-option =
+    .label = Samþykkja vefkökur og síðugögn
+    .accesskey = A
+sitedata-disallow-cookies-option =
+    .label = Blokka vefkökur og síðugögn
+    .accesskey = B
+# This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
+# The list items are the strings named sitedata-block-*-option*.
+sitedata-block-desc = Tegund blokkuð
+    .accesskey = T
+sitedata-block-trackers-option-recommended =
+    .label = Rekjari þriðja aðila (mælt er með)
+sitedata-block-trackers-option =
+    .label = Rekjari þriðja aðila
+sitedata-block-unvisited-option =
+    .label = Vefkökur frá óheimsóttum vefsíðum
+sitedata-block-all-third-party-option =
+    .label = Allar vefkökur frá þriðja aðila (geta valdið því að vefsíður hrynji)
+sitedata-block-all-option =
+    .label = Allar vefkökur (munu valda því að vefsíður hrynji)
+sitedata-option-block-trackers =
+    .label = Rekjarar þriðja aðila
+sitedata-option-block-unvisited =
+    .label = Vefkökur frá óheimsóttum vefsíðum
+sitedata-option-block-all-third-party =
+    .label = Allar vefkökur frá þriðja aðila (geta valdið því að vefsíður hrynji)
+sitedata-option-block-all =
+    .label = Allar vefkökur (munu valda því að vefsíður hrynji)
 sitedata-clear =
     .label = Hreinsa gögn…
     .accesskey = ö
@@ -624,6 +652,13 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Undanþágur…
     .accesskey = U
+# This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
+# in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
+# Cookies and Site Data section.
+sitedata-warning-your-settings-prevent-changes = Stillingar þínar í Blokkun efnis koma í veg fyrir breytingar á stillingum vefkakna og síðugagna.
+sitedata-cookies-permissions =
+    .label = Stjórna heimildum
+    .accesskey = P
 
 ## Privacy Section - Address Bar
 
@@ -642,11 +677,67 @@ addressbar-suggestions-settings = Breyta stillingum fyrir ábendingar leitarvél
 
 ## Privacy Section - Content Blocking
 
+content-blocking-header = Blokkun efnis
+content-blocking-desc = Blokka efni frá þriðja aðila, svo sem auglýsingar eða kóði, sem geta hægt á vafranum þínum og rakið feril þinn um vefinn. Sérsníðið ykkur stillingar fyrir besta jafnvægið á vernd og vinnslu.
+content-blocking-description = Blokka efni frá þriðja aðila sem rekur feril þinn um netið. Stjórnaðu hversu mikið af netvirkni þinni er geymd og deilt á milli vefsíðna.
+content-blocking-learn-more = Læra meira
+content-blocking-restore-defaults =
+    .label = Upphafleg gildi
+    .accesskey = R
+content-blocking-toggle-on =
+    .tooltiptext = Slökkva á blokkun efnis
+content-blocking-toggle-off =
+    .tooltiptext = Kveikja á blokkun efnis
 content-blocking-toggle-label-on = Á
     .accesskey = Á
 content-blocking-toggle-label-off = Af
     .accesskey = A
 content-blocking-category-label = Velja hvað skal loka á
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-slow-loading-trackers-label =
+    .label = Rekjarar sem hlaða hægt
+    .accesskey = S
+content-blocking-fastblock-new-description = Blokka einungis þá rekjara sem hindra hraða hleðslu vefsíðna.
+content-blocking-tracking-protection-trackers-label =
+    .label = Rekjarar
+    .accesskey = T
+content-blocking-tracking-protection-all-detected-trackers-label =
+    .label = Allir uppgötvaðir rekjarar
+    .accesskey = T
+content-blocking-tracking-protection-new-description = Blokka alla þekkta rekjara. (Gæti hindrað hleðslu á einhverjum síðum.)
+content-blocking-tracking-protection-option-always =
+    .label = Ávallt
+    .accesskey = A
+content-blocking-tracking-protection-option-private =
+    .label = Einungis í huliðsgluggum
+    .accesskey = p
+# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+content-blocking-setting-standard =
+    .label = Staðlað
+    .accesskey = d
+content-blocking-setting-strict =
+    .label = Strangt
+    .accesskey = r
+content-blocking-setting-custom =
+    .label = Sérsniðið
+    .accesskey = C
+content-blocking-standard-description = Blokka einungis þekkta rekjara í huliðsgluggum.
+content-blocking-standard-desc = Jafnvægi á vernd og vinnslu. Leyfir suma rekjara svo vefsíður virki rétt.
+content-blocking-strict-desc = Blokka alla rekjara sem { -brand-short-name } uppgötvar. Getur valdið því að sumar síður hrynji.
+content-blocking-custom-desc = Velja hvað skal blokka.
+content-blocking-private-trackers = Þekktir rekjarar einungis í huliðsglugga.
+content-blocking-third-party-cookies = Vefkökur frá þriðja aðila
+content-blocking-all-windows-trackers = Þekktir rekjarar í öllum gluggum
+content-blocking-all-third-party-cookies = Allar vefkökur þriðja aðila
+content-blocking-warning-title = Gættu þín!
+# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
+# of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
+# or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
+# the UI.
+content-blocking-reject-trackers-warning-your-settings-prevent-changes = Stillingar þínar um vefkökur og síðugögn eru að hindra breytingar á vefkökustillingum þriðja aðila.
 content-blocking-change-cookie-settings =
     .label = Breyta vefkökustillingum
     .accesskey = S
