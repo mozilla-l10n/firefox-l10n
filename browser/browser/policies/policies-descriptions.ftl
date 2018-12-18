@@ -17,7 +17,6 @@ policy-BlockAboutConfig = Zablokování přístupu do editoru předvoleb (about:
 policy-BlockAboutProfiles = Zablokování přístupu do správce profilů (about:profiles).
 policy-BlockAboutSupport = Zablokování přístupu na stránku s technickými informacemi (about:support).
 policy-Bookmarks = Vytvoření záložek na liště, v nabídce nebo vybrané složce.
-policy-Certificates = Nastavení použití systémového úložiště certifikátů. V současnosti podporováno pouze pro systém Windows.
 policy-CertificatesDescription = Přidat certifikáty nebo použít vestavěné certifikáty.
 policy-Cookies = Pravidla pro ukládání nebo blokování cookies.
 policy-DisableAppUpdate = Blokování aktualizací prohlížeče.
@@ -37,7 +36,6 @@ policy-DisableProfileImport = Blokování importu dat z jiných prohlížečů.
 policy-DisableProfileRefresh = Blokování tlačítka pro obnovu aplikace { -brand-short-name } na stránce about:support.
 policy-DisableSafeMode = Zablokování možnosti restartovat se zakázanými doplňky. Poznámka: přechod do nouzového režimu podržením klávesy Shift lze zablokovat jen na systému Windows pomocí zásad skupin.
 policy-DisableSecurityBypass = Zabránit uživateli obcházení některých bezpečnostních varování.
-policy-DisableSetDesktopBackground = Zablokování kontextové nabídky pro nastavení obrázku jako pozadí plochy.
 policy-DisableSetAsDesktopBackground = Zablokování kontextové nabídky obrázků pro jejich nastavení jako pozadí plochy.
 policy-DisableSystemAddonUpdate = Zablokování instalace a aktualizací systémových doplňků prohlížeče.
 policy-DisableTelemetry = Vypnutí telemetrie.
@@ -49,8 +47,7 @@ policy-DontCheckDefaultBrowser = Vypnutí kontroly nastavení výchozího prohl�
 policy-EnableTrackingProtection = Zapnutí nebo vypnutí blokování obsahu a případně jeho uzamčení.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
-# English or translate them as verbs. See also:
-# https://github.com/mozilla/policy-templates/blob/master/README.md#extensions-machine-only
+# English or translate them as verbs.
 policy-Extensions = Instalace, odinstalace a uzamčení rozšíření. Pro instalaci je potřeba jako parametr zadat URL adresy nebo cesty. Pro odinstalaci nebo uzamčení ID rozšíření.
 policy-FlashPlugin = Povolení nebo zablokování zásuvného modulu Flash.
 policy-HardwareAcceleration = Hodnota false vypne použití hardwarové akcelerace.
@@ -67,9 +64,8 @@ policy-Proxy = Nastavení proxy.
 policy-RequestedLocales = Nastavení seznamu požadovaných jazyků pro zobrazení aplikace, v pořadí podle preference.
 policy-SanitizeOnShutdown = Vymazání všech dat o prohlížení během vypnutí.
 policy-SearchBar = Nastavení výchozího umístění vyhledávacího pole. Uživatel ho může přemístit.
-policy-SearchEngines = Nastavení vyhledávacích modulů. Toto pravidlo je dostupné jen pro verzi s rozšířenou podporou (ESR).
+policy-SearchEngines = Nastavení vyhledávačů. Toto pravidlo je dostupné jen pro verzi s rozšířenou podporou (ESR).
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Instalace modulů PKCS #11.
-# “format” refers to the format used for the value of this policy. See also:
-# https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
+# “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Blokování návštěvy webových stránek. Více informací o formátu najdete v dokumentaci.
