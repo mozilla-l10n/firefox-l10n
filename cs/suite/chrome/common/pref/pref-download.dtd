@@ -15,25 +15,16 @@
 <!ENTITY flashWhenOpen.accesskey        "Z">
 
 <!ENTITY downloadLocation.label         "Při ukládání souboru">
-<!ENTITY saveTo.label                   "Ukládat všechny soubory do">
+<!ENTITY saveTo.label                   "Ukládat všechny soubory do složky">
 <!ENTITY saveTo.accesskey               "U">
 <!ENTITY chooseDownloadFolder.label     "Vybrat složku…">
 <!ENTITY chooseDownloadFolder.accesskey "r">
 <!ENTITY alwaysAsk.label                "U každého souboru se zeptat, kam ho uložit">
 <!ENTITY alwaysAsk.accesskey            "k">
 
-<!ENTITY downloadHistory.label          "Historie stahování">
-<!ENTITY removeEntries.label            "Odebrat položky stahování">
-<!ENTITY removeEntries.accesskey        "O">
-<!ENTITY whenCompleted.label            "Po jeho dokončení">
-<!ENTITY whenQuittingApp.label          "Při ukončení aplikace &brandShortName;">
-<!ENTITY neverRemove.label              "Nikdy">
-
 <!ENTITY finishedBehavior.label         "Když se dokončí stahování">
 <!ENTITY playSound.label                "Přehrát zvuk">
 <!ENTITY playSound.accesskey            "h">
-<!ENTITY showAlert.label                "Zobrazit upozornění">
-<!ENTITY showAlert.accesskey            "b">
 <!ENTITY browse.label                   "Procházet…">
 <!ENTITY browse.accesskey               "P">
 <!ENTITY playButton.label               "Přehrát">
