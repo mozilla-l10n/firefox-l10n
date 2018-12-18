@@ -196,3 +196,4 @@ functionality specific to thunderbird. -->
 <!ENTITY blockedByPolicy.title "Αποκλεισμένη σελίδα">
 
 <!ENTITY networkProtocolError.title "Σφάλμα πρωτοκόλλου δικτύου">
+<!ENTITY networkProtocolError.longDesc "<p>Η σελίδα που προσπαθείτε να δείτε δεν μπορεί να εμφανιστεί γιατί εντοπίστηκε ένα σφάλμα στο πρωτόκολλο δικτύου.</p><ul><li>Επικοινωνήστε με τους ιδιοκτήτες τους ιστοτόπου για να τους ενημερώσετε για το πρόβλημα.</li></ul>">

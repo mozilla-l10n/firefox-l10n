@@ -52,5 +52,7 @@
 <!ENTITY  dnsOverHttpsUrl.tooltip       "URL για επίλυση DNS αντί HTTPS">
 <!ENTITY  dnsOverHttpsUrlDefault.label     "Χρήση προεπιλογής">
 <!ENTITY  dnsOverHttpsUrlDefault.accesskey "λ">
+<!ENTITY  dnsOverHttpsUrlDefault.tooltip   "Να χρησιμοποιηθεί η προκαθορισμένη διεύθυνση URL για την επίλυση DNS μέσω HTTPS">
 <!ENTITY  dnsOverHttpsUrlCustom.label      "Προσαρμοσμένο">
 <!ENTITY  dnsOverHttpsUrlCustom.accesskey  "μ">
+<!ENTITY  dnsOverHttpsUrlCustom.tooltip    "Εισάγετε την προτεινόμενη διεύθυνση URL για την επίλυση DNS μέσω HTTPS">
