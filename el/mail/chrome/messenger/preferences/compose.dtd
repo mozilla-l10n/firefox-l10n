@@ -22,6 +22,7 @@
 <!ENTITY size.accesskey                       "θ">
 <!ENTITY fontSize.label                       "Μέγεθος:">
 <!ENTITY fontSize.accesskey                   "γ">
+<!ENTITY useReaderDefaults.label              "Να χρησιμοποιηθούν τα προκαθορισμένα χρώματα αναγνώστη">
 <!ENTITY useReaderDefaults.accesskey          "π">
 <!ENTITY fontColor.label                      "Χρώμα κειμένου:">
 <!ENTITY fontColor.accesskey                  "Χ">

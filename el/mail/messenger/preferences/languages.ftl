@@ -30,3 +30,4 @@ messenger-languages-select-language =
     .placeholder = Επιλέξτε μια γλώσσα προς προσθήκη…
 messenger-languages-installed-label = Εγκατεστημένες γλώσσες
 messenger-languages-available-label = Διαθέσιμες γλώσσες
+messenger-languages-error = Το { -brand-short-name } δεν μπορεί να αναβαθμίσει τις γλώσσες σας αυτή τη στιγμή. Ελέγξτε ότι είστε συνδεδεμένος στο διαδίκτυο ή δοκιμάστε πάλι.
