@@ -91,7 +91,7 @@ extension-controlled-new-tab-url = Stránku v novém panelu spravuje rozšířen
 extension-controlled-web-notifications = Toto nastavení spravuje rozšíření <img data-l10n-name="icon"/> { $name }.
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
-extension-controlled-default-search = Rozšíření <img data-l10n-name="icon"/> { $name } vám nastavilo nový výchozí vyhledávací modul.
+extension-controlled-default-search = Rozšíření <img data-l10n-name="icon"/> { $name } vám nastavilo nový výchozí vyhledávač.
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = Rozšíření <img data-l10n-name="icon"/> { $name } vyžaduje kontejnerové panely.
@@ -293,7 +293,7 @@ update-application-use-service =
     .label = K instalaci aktualizací použít službu na pozadí
     .accesskey = b
 update-enable-search-update =
-    .label = Automaticky aktualizovat vyhledávací moduly
+    .label = Automaticky aktualizovat vyhledávače
     .accesskey = e
 update-pref-write-failure-title = Chyba při zápisu
 # Variables:
@@ -396,7 +396,7 @@ search-bar-hidden =
     .label = Použít adresní řádek pro navigaci i vyhledávání
 search-bar-shown =
     .label = Přidat na lištu vyhledávací pole
-search-engine-default-header = Výchozí vyhledávací modul
+search-engine-default-header = Výchozí vyhledávač
 search-engine-default-desc = Vyberte výchozí vyhledávač pro hledání z adresního řádku nebo vyhledávacího pole.
 search-suggestions-option =
     .label = Našeptávat vyhledávání
@@ -415,16 +415,16 @@ search-suggestions-cant-show = Návrhy vyhledávání se nebudou adresním řád
 search-one-click-header = Vyhledávání jedním klepnutím
 search-one-click-desc = Vyberte další vyhledávače, které se zobrazí v nabídce adresního řádku a vyhledávacího pole.
 search-choose-engine-column =
-    .label = Vyhledávací modul
+    .label = Vyhledávač
 search-choose-keyword-column =
     .label = Klíčové slovo
 search-restore-default =
-    .label = Obnovit výchozí vyhledávací moduly
+    .label = Obnovit výchozí vyhledávače
     .accesskey = d
 search-remove-engine =
     .label = Odebrat
     .accesskey = r
-search-find-more-link = Přidat další vyhledávací moduly
+search-find-more-link = Přidat další vyhledávače
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Použité klíčové slovo
