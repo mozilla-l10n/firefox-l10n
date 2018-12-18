@@ -31,5 +31,11 @@ onboarding-fxa-text = Ustvarite { -fxaccount-brand-name } ter sinhronizirajte sv
 
 ## Message strings belonging to the Return to AMO flow
 
+return-to-amo-sub-header = Odlično, imate { -brand-short-name }
+# <icon></icon> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-header = Zdaj pa dodajte <icon></icon><b>{ $addon-name }.</b>
 return-to-amo-extension-button = Dodaj razširitev
 return-to-amo-get-started-button = Začnite s { -brand-short-name }om
