@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window =
-    .title = Net stillingar
+    .title = Stillingar tengingar
     .style =
         { PLATFORM() ->
             [macos] width: 44em
@@ -67,3 +67,19 @@ connection-proxy-autologin =
 connection-proxy-socks-remote-dns =
     .label = DNS milliþjónn ef notað er SOCKS v5
     .accesskey = D
+connection-dns-over-https =
+    .label = Virkja DNS yfir HTTPS
+    .accesskey = b
+connection-dns-over-https-url = Vefslóð
+    .accesskey = U
+    .tooltiptext = Vefslóð til að leysa DNS yfir HTTPS
+# Variables:
+#   $url (String) - URL for the DNS over HTTPS provider
+connection-dns-over-https-url-default =
+    .label = Nota sjálfgefið ({ $url })
+    .accesskey = l
+    .tooltiptext = Nota sjálfgefna vefslóð til að leysa DNS yfir HTTPS
+connection-dns-over-https-url-custom =
+    .label = Sérvalið
+    .accesskey = C
+    .tooltiptext = Sláðu inn valda vefslóð til að leysa DNS yfir HTTPS
