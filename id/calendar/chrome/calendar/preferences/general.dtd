@@ -25,6 +25,7 @@
 <!ENTITY pref.default_task_end_of_day.label "Akhir Hari">
 <!ENTITY pref.default_task_tomorrow.label "Besok">
 <!ENTITY pref.default_task_next_week.label "Minggu Depan">
+<!ENTITY pref.default_task_offset_current.label "Relatif terhadap Waktu Saat Ini">
 
 <!ENTITY pref.calendar.todaypane.agenda.caption "Panel Hari Ini">
 <!-- LOCALIZATION NOTE (pref.soondays2.label):
