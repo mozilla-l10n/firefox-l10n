@@ -15,6 +15,14 @@ findbar-highlight-all =
     .label = Nabarmendu guztia
     .accesskey = z
     .tooltiptext = Nabarmendu esaldiaren agerpen guztiak
+findbar-highlight-all2 =
+    .label = Nabarmendu guztiak
+    .accesskey =
+        { PLATFORM() ->
+            [macos] N
+           *[other] a
+        }
+    .tooltiptext = Nabarmendu esaldiaren agerpen guztiak
 findbar-case-sensitive =
     .label = Bereizi maiuskulak/minuskulak
     .accesskey = B
