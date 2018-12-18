@@ -14,5 +14,6 @@
 <!ENTITY restoreDefaultSet.label  "Επαναφορά προεπιλεγμένου σετ">
 <!ENTITY addNewToolbar.label      "Προσθήκη νέας γραμμής εργαλείων">
 <!ENTITY showTitlebar.label       "Εμφάνιση γραμμής τίτλου">
+<!ENTITY extraDragSpace.label     "Προσθήκη Χώρου Συρσίματος">
 <!ENTITY saveChanges.label        "Έτοιμο">
 <!ENTITY undoChanges.label        "Ακύρωση Αλλαγών">
