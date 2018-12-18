@@ -44,21 +44,9 @@
 <!ENTITY  mediaSaveAs2.accesskey "e">
 <!ENTITY  mediaPreview          "Forsýning gagna:">
 
-<!ENTITY  feedTab               "Straumar">
-<!ENTITY  feedTab.accesskey     "S">
-<!ENTITY  feedSubscribe         "Gerast áskrifandi">
-<!ENTITY  feedSubscribe.accesskey "r">
-
 <!ENTITY  permTab               "Heimildir">
 <!ENTITY  permTab.accesskey     "H">
-<!ENTITY  permUseDefault        "Nota sjálfgefið">
-<!ENTITY  permAskAlways         "Spyrja alltaf">
-<!ENTITY  permAllow             "Leyfa">
-<!ENTITY  permAllowSession      "Leyfa í þessari vafralotu">
-<!ENTITY  permHide              "Fela">
-<!ENTITY  permBlock             "Loka á">
 <!ENTITY  permissionsFor        "Heimildir fyrir:">
-<!ENTITY  permPlugins           "Virkja viðbætur">
 
 <!ENTITY  securityTab           "Öryggi">
 <!ENTITY  securityTab.accesskey "Ö">
@@ -75,9 +63,7 @@
 
 <!ENTITY  securityView.privacy.header                   "Friðhelgi og ferill">
 <!ENTITY  securityView.privacy.history                  "Hef ég skoðað þetta vefsvæði áður?">
-<!ENTITY  securityView.privacy.cookies                  "Geymir þetta vefsvæði upplýsingar (smákökur) á tölvunni minni?">
-<!ENTITY  securityView.privacy.viewCookies              "Skoða smákökur">
-<!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
+<!ENTITY  securityView.privacy.siteData                 "Er þessi vefsíða að geyma upplýsingar á tölvunni minni?">
 <!ENTITY  securityView.privacy.clearSiteData            "Hreinsa smákökur og gögn vefsvæðis">
 <!ENTITY  securityView.privacy.clearSiteData.accessKey  "ö">
 <!ENTITY  securityView.privacy.passwords                "Hef ég vistað eitthvað lykilorð fyrir þetta vefsvæði?">
