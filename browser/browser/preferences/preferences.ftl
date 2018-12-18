@@ -6,6 +6,10 @@ do-not-track-description = Senda vefsvæðum “Do Not Track” merki um að þ�
 do-not-track-learn-more = Fræðast meira
 do-not-track-option-default =
     .label = Aðeins þegar notað er vörn gegn gagnasöfnun
+do-not-track-option-default-content-blocking =
+    .label = Aðeins þegar { -brand-short-name } er stillt til að loka fyrir uppgötvaða rekjara
+do-not-track-option-default-content-blocking-known =
+    .label = Aðeins þegar { -brand-short-name } er stillt til að loka fyrir þekkta rekjara
 do-not-track-option-always =
     .label = Alltaf
 pref-page =
@@ -51,6 +55,7 @@ pane-sync-title = Firefox reikningur
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = { -brand-short-name } Stuðningur
+addons-button-label = Viðbætur & þemu
 focus-search =
     .key = f
 close-button =
@@ -81,6 +86,9 @@ extension-controlled-homepage-override = Viðbót, <img data-l10n-name="icon"/> 
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
 extension-controlled-new-tab-url = Viðbót, <img data-l10n-name="icon"/> { $name }, stjórnar nýju flipa síðunni þinni.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlled-web-notifications = Viðbót, <img data-l10n-name="icon"/> { $name }, stjórnar þessari stillingu.
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
 extension-controlled-default-search = Viðbót, <img data-l10n-name="icon"/> { $name }, hefur breytt sjálfgefinni leitarvél.
@@ -90,6 +98,9 @@ extension-controlled-privacy-containers = Viðbót, <img data-l10n-name="icon"/>
 # This string is shown to notify the user that their tracking protection preferences
 # are being controlled by an extension.
 extension-controlled-websites-tracking-protection-mode = Viðbót, <img data-l10n-name="icon"/> { $name }, er að stjórna vörn gegn gagnasöfnun.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlled-websites-content-blocking-all-trackers = Viðbót, <img data-l10n-name="icon"/> { $name }, stjórnar þessari stillingu.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = Viðbót, <img data-l10n-name="icon"/> { $name }, er að stjórna hvernig { -brand-short-name } tengist við Internetið.
@@ -129,6 +140,11 @@ is-not-default = { -brand-short-name } er ekki sjálfgefinn vafri
 set-as-my-default-browser =
     .label = Gera sjálfgefið…
     .accesskey = s
+startup-restore-previous-session =
+    .label = Sækja fyrri vafralotu
+    .accesskey = s
+startup-restore-warn-on-quit =
+    .label = Vara við þegar vafra er lokað
 disable-extension =
     .label = Slökkva á viðbót
 tabs-group-header = Flipar
@@ -199,6 +215,12 @@ choose-language-description = Veldu þau tungumál sem hafa forgang við birting
 choose-button =
     .label = Velja…
     .accesskey = V
+choose-browser-language-description = Veldu tungumálin til að nota til að birta valmyndir, skilaboð og tilkynningar frá { -brand-short-name }.
+manage-browser-languages-button =
+    .label = Stilltu valkosti...
+    .accesskey = l
+confirm-browser-language-change-description = Endurræstu { -brand-short-name } til að staðfesta þessar breytingar
+confirm-browser-language-change-button = Staðfesta og endurræsa
 translate-web-pages =
     .label = Þýða innihald vefsíðu
     .accesskey = Þ
@@ -270,6 +292,10 @@ update-application-use-service =
 update-enable-search-update =
     .label = Uppfæra leitarvélar sjálfvirkt
     .accesskey = e
+update-pref-write-failure-title = Skrifvilla
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = Ekki er hægt að vista val. Gat ekki skrifað skrá sem: { $path }
 
 ## General Section - Performance
 
@@ -309,6 +335,9 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Leita í texta þegar byrjað er að slá inn orð
     .accesskey = L
+browsing-cfr-recommendations =
+    .label = Viðbætur sem mælt er með til að vafra
+    .accesskey = R
 browsing-cfr-recommendations-learn-more = Fræðast meira
 
 ## General Section - Proxy
@@ -323,6 +352,7 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Nýir gluggar og flipar
+home-new-windows-tabs-description2 = Veldu hvað þú sérð þegar þú opnar heimasíðuna þína, nýja glugga og nýja flipa.
 
 ## Home Section - Home Page Customization
 
@@ -510,6 +540,9 @@ privacy-header = Friðhelgi vafra
 ## Privacy Section - Forms
 
 logins-header = Innskráning og lykilorð
+forms-ask-to-save-logins =
+    .label = Biðja um að vista innskráningar og lykilorð fyrir vefsíður
+    .accesskey = r
 forms-exceptions =
     .label = Undanþágur…
     .accesskey = n
@@ -548,6 +581,9 @@ history-dontremember-description = { -brand-short-name } mun nota sömu stilling
 history-private-browsing-permanent =
     .label = Nota alltaf einkavöfrun
     .accesskey = k
+history-remember-browser-option =
+    .label = Muna vafra- og niðurhalsferil
+    .accesskey = b
 history-remember-search-option =
     .label = Muna leit og eyðublaðaferil
     .accesskey = f
@@ -576,6 +612,9 @@ sitedata-keep-until-expire =
     .label = þær renna út
 sitedata-keep-until-closed =
     .label = { -brand-short-name } er lokað
+sitedata-delete-on-close =
+    .label = Eyða vafrakökum og síðugögnum þegar { -brand-short-name } er lokað
+    .accesskey = c
 sitedata-clear =
     .label = Hreinsa gögn…
     .accesskey = ö
@@ -608,6 +647,18 @@ content-blocking-toggle-label-on = Á
 content-blocking-toggle-label-off = Af
     .accesskey = A
 content-blocking-category-label = Velja hvað skal loka á
+content-blocking-change-cookie-settings =
+    .label = Breyta vefkökustillingum
+    .accesskey = S
+content-blocking-reject-trackers-block-trackers-option-recommended =
+    .label = Rekjarar (mælt er með)
+    .accesskey = k
+content-blocking-reject-trackers-block-trackers-option =
+    .label = Rekjarar
+    .accesskey = k
+content-blocking-reject-trackers-all-third-parties-option =
+    .label = Allar vefkökur frá þriðja aðila (getur valdið því að vefsíður hrynji)
+    .accesskey = A
 content-blocking-cookies-label =
     .label = Smákökur
     .accesskey = S
@@ -632,6 +683,9 @@ tracking-exceptions =
 tracking-change-block-list =
     .label = Breyta lokunarlista…
     .accesskey = B
+tracking-manage-exceptions =
+    .label = Stjórna undanþágum...
+    .accesskey = x
 
 ## Privacy Section - Permissions
 
@@ -656,6 +710,9 @@ permissions-notification-link = Vita meira
 permissions-notification-pause =
     .label = Stöðva tilkynningar þangað til { -brand-short-name } endurræsir
     .accesskey = n
+permissions-block-autoplay-media =
+    .label = Banna vefsíðum sjálfvirka afspilun margmiðlunarefnis með hljóði
+    .accesskey = B
 permissions-block-autoplay-media-menu = Fyrir vefsíður með sjálfvirkri afspilun hljóðs
 permissions-block-autoplay-media-exceptions =
     .label = Undanþágur...
