@@ -9,6 +9,10 @@ cfr-doorhanger-extension-cancel-button = Une honetan ez
     .accesskey = n
 cfr-doorhanger-extension-ok-button = Gehitu orain
     .accesskey = G
+cfr-doorhanger-extension-manage-settings-button = Kudeatu gomendioen ezarpenak
+    .accesskey = K
+cfr-doorhanger-extension-never-show-recommendation = Ez erakutsi gomendio hau
+    .accesskey = z
 cfr-doorhanger-extension-learn-more-link = Argibide gehiago
 # This string is used on a new line below the add-on name
 # Variables:

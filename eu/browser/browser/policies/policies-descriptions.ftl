@@ -17,7 +17,7 @@ policy-BlockAboutConfig = Blokeatu about:config orrirako sarbidea.
 policy-BlockAboutProfiles = Blokeatu about:profiles orrirako sarbidea.
 policy-BlockAboutSupport = Blokeatu about:support orrirako sarbidea.
 policy-Bookmarks = Sortu laster-markak laster-marken tresna-barran, menuan edo hauen barneko karpeta batean.
-policy-Certificates = Integratutako ziurtagiriak erabili behar diren edo ez. Politika hau une honetan Windowserako da soilik.
+policy-CertificatesDescription = Ziurtagiriak gehitzea edo integratutako ziurtagiriak erabiltzea.
 policy-Cookies = Baimendu edo ukatu webguneei cookieak ezartzea.
 policy-DisableAppUpdate = Eragotzi nabigatzailea eguneratzea.
 policy-DisableBuiltinPDFViewer = Desgaitu PDF.js, { -brand-short-name }(r)en integratutako PDF ikustailea.
@@ -36,7 +36,6 @@ policy-DisableProfileImport = Desgaitu beste nabigatzaile batetik datuak inporta
 policy-DisableProfileRefresh = Desgaitu 'Biziberritu { -brand-short-name }' botoia about:support orrian.
 policy-DisableSafeMode = Desgaitu modu seguruan berrabiarazteko eginbidea. Oharra: modu segurura sartzeko shift tekla sakatzea Windowsen desgai daiteke soilik, talde-gidalerroak erabilita.
 policy-DisableSecurityBypass = Eragotzi erabiltzaileak zenbait segurtasun-abisu saihestea.
-policy-DisableSetDesktopBackground = Desgaitu 'Jarri irudia idazmahaiaren atzeko planoan' menu-komandoa.
 policy-DisableSetAsDesktopBackground = Desgaitu irudientzat 'Jarri idazmahaiaren atzeko planoan' menu-komandoa.
 policy-DisableSystemAddonUpdate = Eragotzi nabigatzaileak sistemaren gehigarriak instalatzea eta eguneratzea.
 policy-DisableTelemetry = Desgaitu Telemetry.
@@ -48,8 +47,7 @@ policy-DontCheckDefaultBrowser = Desgaitu abioan nabigatzaile lehenetsia egiazta
 policy-EnableTrackingProtection = Gaitu edo desgaitu edukia blokeatzea eta blokeatu ezarpen hau.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
-# English or translate them as verbs. See also:
-# https://github.com/mozilla/policy-templates/blob/master/README.md#extensions-machine-only
+# English or translate them as verbs.
 policy-Extensions = Instalatu, desinstalatu edo blokeatu hedapenak. Instalatzeko aukerak URLak edo bide-izenak hartzen ditu parametro gisa. Desinstalatzeko eta blokeatzeko aukerek, berriz, hedapen-IDak.
 policy-FlashPlugin = Baimendu edo ukatu Flash plugina erabiltzea.
 policy-HardwareAcceleration = Ez badago ezarrita, hardware-azelerazioa desgaituko da.
@@ -69,6 +67,5 @@ policy-SearchBar = Ezarri bilaketa-barraren kokaleku lehenetsia. Erabiltzaileek 
 policy-SearchEngines = Konfiguratu bilaketa-motorren ezarpenak. Politika hau Extended Support Release (ESR) bertsiorako dago erabilgarri soilik.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Instalatu PKCS #11 moduluak.
-# “format” refers to the format used for the value of this policy. See also:
-# https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
+# “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Blokeatu zenbait webgune bisitatzea. Irakurri dokumentazioa formatuaren gaineko xehetasun gehiagorako.
