@@ -45,7 +45,7 @@
 <!ENTITY  autologinproxy.tooltip        "Aukera honek proxietarako autentifikazioa isilean burutzen du hauentzat kredentzialak gorde dituzunean. Autentifikazioak huts egiten badu, eskatu egingo zaizu.">
 <!ENTITY  socksRemoteDNS.label          "Bideratu DNSa proxy bidez SOCKS v5 erabiltzean">
 <!ENTITY  socksRemoteDNS.accesskey      "d">
-<!ENTITY  dnsOverHttps.label            "Gaitu DNS HTTPS gainean">
+<!ENTITY  dnsOverHttps.label            "Gaitu HTTPS gaineko DNSa">
 <!ENTITY  dnsOverHttps.accesskey        "b">
 <!ENTITY  dnsOverHttpsUrl.label         "URLa">
 <!ENTITY  dnsOverHttpsUrl.accesskey     "R">
