@@ -10,6 +10,7 @@ about-performance-title = Sa nikaj ñu'unj nej Suun
 column-name = Si yugui
 column-type = Dugui'
 column-energy-impact = Daj arâj sunj ña'aan
+column-memory = Memôria
 
 ## Special values for the Name column
 
@@ -37,6 +38,15 @@ type-other = A'ngoj
 energy-impact-high = Xàn' ({ $value })
 energy-impact-medium = Da'aj ({ $value })
 energy-impact-low = Nikà' ({ $value })
+
+## Values for the Memory column
+##
+## Variables:
+##   $value (Number) - How much memory is used
+
+size-KB = { $value } KB
+size-MB = { $value } MB
+size-GB = { $value } GB
 
 ## Tooltips for the action buttons
 
