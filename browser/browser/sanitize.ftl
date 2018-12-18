@@ -15,6 +15,7 @@ dialog-title =
 dialog-title-everything =
     .title = Hreinsa alla ferla
     .style = width: 34em
+clear-data-settings-label = Þegar lokað er ætti { -brand-short-name } sjálfkrafa að hreinsa allt.
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.

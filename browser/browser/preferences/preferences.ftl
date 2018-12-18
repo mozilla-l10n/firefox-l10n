@@ -733,6 +733,22 @@ content-blocking-third-party-cookies = Vefkökur frá þriðja aðila
 content-blocking-all-windows-trackers = Þekktir rekjarar í öllum gluggum
 content-blocking-all-third-party-cookies = Allar vefkökur þriðja aðila
 content-blocking-warning-title = Gættu þín!
+content-blocking-warning-desc = Blokkun vefkakna og rekjara getur valdið því að sumar síður hrynji. Það er auðvelt að afvirkja blokkun á síðum sem þú treystir.
+content-blocking-learn-how = Læra hvernig
+content-blocking-trackers-label =
+    .label = Rekjarar
+    .accesskey = T
+content-blocking-tracking-protection-option-all-windows =
+    .label = Í öllum gluggum
+    .accesskey = A
+content-blocking-option-private =
+    .label = Bara í huliðsgluggum
+    .accesskey = p
+content-blocking-tracking-protection-change-block-list = Breyta blokkunarlista
+content-blocking-third-party-cookies-label =
+    .label = Vefkökur þriðja aðila
+    .accesskey = C
+content-blocking-reject-trackers-description = Blokka allar vefkökur frá þriðja aðila eða bara þær settar eru af rekjurum.
 # This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
 # of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
 # or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of

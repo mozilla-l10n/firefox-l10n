@@ -2,11 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.title):
-     Please ensure this exactly matches tabs.emptyPrivateTabTitle in tabbrowser.properties -->
-<!ENTITY aboutPrivateBrowsing.title                      "Huliðsgluggi">
-<!ENTITY aboutPrivateBrowsing.notPrivate.title           "Opna huliðsglugga?">
-
 <!ENTITY aboutPrivateBrowsing.notPrivate                 "Þú ert ekki í huliðsglugga.">
 <!ENTITY privatebrowsingpage.openPrivateWindow.label     "Opna huliðsglugga">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "p">
@@ -25,6 +20,7 @@
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          ":">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "niðurhal">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "bókamerki">
+<!ENTITY aboutPrivateBrowsing.info.clipboard             "afritaður texti">
 <!ENTITY aboutPrivateBrowsing.note.before                "Huliðsstilling ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "gerir þig ekki alveg nafnlausan">
 <!ENTITY aboutPrivateBrowsing.note.after                 " á Internetinu. Vinnuveitandinn þinn eða netþjónustuaðili getur ennþá séð hvaða síður þú ferð á.">
@@ -34,4 +30,8 @@
 
 <!ENTITY trackingProtection.title                        "Vörn gegn gagnasöfnun">
 <!ENTITY trackingProtection.description2                 "Sum vefsvæði nota rekjara sem geta fylgst með notkun þinni á ferð um netið. Með vörn gegn gagnasöfnun getur Firefox lokað á flesta rekjara sem safna upplýsingum um vafranotkun þína.">
+
 <!ENTITY trackingProtection.startTour1                   "Sjá hvernig þetta virkar">
+
+<!ENTITY contentBlocking.title                           "Blokkun efnis">
+<!ENTITY contentBlocking.description                     "Sum vefsvæði nota rekjara sem geta rakið allan feril þinn á internetinu. Í huliðsgluggum sér Efnisblokkun Firefox til þess að blokka sjálfkrafa marga rekjara sem geta safnað upplýsingum um vafravenjur þínar.">
