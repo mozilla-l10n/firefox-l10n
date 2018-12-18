@@ -54,3 +54,7 @@ policy-HardwareAcceleration = Ef rangt, slökkva á hröðun vélbúnaðar.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Stilla og loka mögulega heimsíðu.
 policy-InstallAddonsPermission = Leyfa ákveðnum vefsíðum að setja upp viðbætur.
+# For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
+policy-SecurityDevices = Setja inn PKCS #11 forritseiningar.
+# “format” refers to the format used for the value of this policy.
+policy-WebsiteFilter = Loka fyrir heimsókn á vefsvæði. Sjá skjöl fyrir frekari upplýsari um snið.
