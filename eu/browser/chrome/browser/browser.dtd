@@ -1029,7 +1029,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.3rdPartyCookies.add.label "Gehitu blokeatzea…">
 
 
+<!ENTITY contentBlocking.trackersView.label "Jarraipen-elementuak">
+<!ENTITY contentBlocking.trackersView.strictInfo.label "Jarraipen-elementu guztiak blokeatzeko, ezarri eduki-blokeo zorrotza.">
 
+<!ENTITY contentBlocking.cookies.label "Cookieak">
+<!ENTITY contentBlocking.cookiesView.label "Cookieak eta guneetako datuak">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Eman arazo baten berri">
 <!ENTITY contentBlocking.breakageReportView.label "Eman arazoen berri">
@@ -1059,9 +1063,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock5.label "Desgaitu blokeatzea gune honetarako">
+<!ENTITY trackingProtection.unblock5.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate6.label, trackingProtection.unblockPrivate6.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate5.label "Desgaitu blokeatzea behin-behinean">
+<!ENTITY trackingProtection.unblockPrivate5.accesskey "D">
+<!ENTITY trackingProtection.block6.label "Gaitu blokeatzea gune honetarako">
+<!ENTITY trackingProtection.block6.accesskey "G">
 <!ENTITY trackingProtection.reload2.label "Berritu orria">
 <!ENTITY trackingProtection.reload2.accesskey "B">
 
