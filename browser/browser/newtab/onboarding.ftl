@@ -28,3 +28,14 @@ onboarding-ghostery-text = Sneup flugger, tûker of feiliger mei útwreidingen l
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Syngronisearje
 onboarding-fxa-text = Meitsje in { -fxaccount-brand-name } oan en syngronisearje jo blêdwizers, wachtwurden en iepen ljepblêden, oeral wêr't jo { -brand-short-name } brûke.
+
+## Message strings belonging to the Return to AMO flow
+
+return-to-amo-sub-header = Geweldich, jo hawwe { -brand-short-name }
+# <icon></icon> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-header = Litte wy no <icon></icon><b>{ $addon-name }</b> ophelje.
+return-to-amo-extension-button = De útwreiding tafoegje
+return-to-amo-get-started-button = Begjinne mei { -brand-short-name }

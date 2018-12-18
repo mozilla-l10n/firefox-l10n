@@ -21,8 +21,6 @@
 <!-- Tab context menu -->
 <!ENTITY  reloadTab.label                    "Ljepblêd fernije">
 <!ENTITY  reloadTab.accesskey                "n">
-<!ENTITY  reloadAllTabs.label                "Alle ljepblêden fernije">
-<!ENTITY  reloadAllTabs.accesskey            "A">
 <!ENTITY  selectAllTabs.label                "Alle ljepblêden selektearje">
 <!ENTITY  selectAllTabs.accesskey            "b">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
@@ -47,9 +45,6 @@ left instead of right. -->
 <!ENTITY  closeOtherTabs.label               "Oare ljepblêden slute">
 <!ENTITY  closeOtherTabs.accesskey           "O">
 
-<!ENTITY  closeSelectedTabs.label            "Selektearre ljepblêden slute">
-<!ENTITY  closeSelectedTabs.accesskey        "S">
-
 <!ENTITY  closeTabs.label                    "Ljepblêden slute">
 <!ENTITY  closeTabs.accesskey                "s">
 <!ENTITY  pinSelectedTabs.label              "Ljepblêden fêstsette">
@@ -62,10 +57,6 @@ same accesskey but will never be visible at the same time. -->
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinSelectedTabs.accesskey        "b">
-<!-- Reload Tab and Reload Selected Tabs have the same accesskey
-but will never be visible at the same time. -->
-<!ENTITY  reloadSelectedTabs.label           "Selektearre ljepblêden opnij lade">
-<!ENTITY  reloadSelectedTabs.accesskey       "S">
 <!-- LOCALIZATION NOTE(reloadTab.label, reloadTabs.label): have the same accesskey
 but will never be visible at the same time. -->
 <!ENTITY  reloadTabs.label                   "Ljepblêden fernije">
@@ -90,8 +81,6 @@ same accesskey but will never be visible at the same time. -->
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinTab.accesskey                 "b">
-<!ENTITY  sendTabToDevice.label              "Ljepblêd nei apparaat ferstjoere">
-<!ENTITY  sendTabToDevice.accesskey          "p">
 <!ENTITY  sendPageToDevice.label             "Side nei apparaat ferstjoere">
 <!ENTITY  sendPageToDevice.accesskey         "p">
 <!ENTITY  sendLinkToDevice.label             "Keppeling nei apparaat ferstjoere">
@@ -110,8 +99,6 @@ These two items have the same accesskey but will never be visible at the same ti
 <!ENTITY  moveToNewWindow.accesskey          "f">
 <!ENTITY  reopenInContainer.label            "Opnij iepenje yn kontener">
 <!ENTITY  reopenInContainer.accesskey        "e">
-<!ENTITY  bookmarkAllTabs.label              "Blêdwizer foar alle ljepblêden meitsje…">
-<!ENTITY  bookmarkAllTabs.accesskey          "B">
 <!ENTITY  bookmarkTab.label                  "Blêdwizer foar ljepblêd meitjse">
 <!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
@@ -153,11 +140,6 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.label "Blêdwizerarkbalke">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "Blêdwizerarkbalke-ûnderdiel">
-
-<!ENTITY toolbarContextMenu.reloadAllTabs.label "Alle ljepblêden opnij lade">
-<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "A">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Blêdwizer foar alle ljepblêden meitsje…">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "l">
 
 <!ENTITY toolbarContextMenu.reloadSelectedTab.label "Selektearre ljepblêd fernije">
 <!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
@@ -264,9 +246,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editThisBookmarkCmd.label "Dizze blêdwizer bewurkje">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
-<!ENTITY subscribeToPageMenupopup.label "Abonnearje op dizze side">
-<!ENTITY subscribeToPageMenuitem.label "Abonnearje op dizze side…">
-
 <!ENTITY addCurPagesCmd.label "Blêdwizer foar alle ljepblêden meitsje…">
 <!ENTITY showAllBookmarks2.label "Alle blêdwizers toane">
 <!ENTITY recentBookmarks.label "Resint oanmakke blêdwizers">
@@ -305,6 +284,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Gegevens yn permaninte opslach bewarje">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Browser wurdt op ôfstân bestjoerd">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Webautentikaasjepaniel iepenje">
+
+<!ENTITY urlbar.storageAccessAnchor.tooltip               "Tastimmingspaniel foar sneupaktiviteit iepenje">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Dielen fan jo kamera en/of mikrofoan mei de website beheare">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Dielen fan jo mikrofoan mei de website beheare">
@@ -380,10 +361,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY webDeveloperMenu.label       "Webûntwikkeler">
 <!ENTITY webDeveloperMenu.accesskey   "W">
-
-<!ENTITY devtoolsRecordExecution.label "Utfiering opnimme">
-<!ENTITY devtoolsSaveRecording.label "Opname bewarje">
-<!ENTITY devtoolsReplayExecution.label "Utfiering opnij ôfspylje">
 
 <!ENTITY inspectContextMenu.label     "Elemint ynspektearje">
 <!ENTITY inspectContextMenu.accesskey "E">
@@ -514,7 +491,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "u">
 <!ENTITY customizeMenu.manageExtension.label "Utwreiding beheare">
 <!ENTITY customizeMenu.manageExtension.accesskey "U">
-
 <!ENTITY customizeMenu.removeExtension.label "Utwreiding fuortsmite">
 <!ENTITY customizeMenu.removeExtension.accesskey "f">
 
@@ -1019,12 +995,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackingProtection2.label "Alle detektearre trackers">
 
 <!ENTITY contentBlocking.trackingProtection3.label "Trackers">
-<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.allowed.label):
-     This label signals that this type of content blocking is turned
-     OFF and is not blocking tracker content, so this is not
-     a positive thing. It forms the end of the (imaginary) sentence
-     "Trackers [are] Allowed"-->
-<!ENTITY contentBlocking.trackingProtection.allowed.label "Tastien">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking tracker content, so this is
@@ -1066,6 +1036,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.trackersView.label "Trackers">
 <!ENTITY contentBlocking.trackersView.strictInfo.label "Stel ynhâldsblokkearring yn op ‘Strang’ om alle trackers te blokkearjen.">
+
+<!ENTITY contentBlocking.cookies.label "Cookies">
+<!ENTITY contentBlocking.cookiesView.label "Cookies en websitegegevens">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "In probleem rapportearje">
 <!ENTITY contentBlocking.breakageReportView.label "Problemen rapportearje">
@@ -1200,11 +1173,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "Side-aksjes">
 <!ENTITY pageAction.addToUrlbar.label "Tafoegje oan adresbalke">
 <!ENTITY pageAction.removeFromUrlbar.label "Fuortsmite fan adresbalke">
-<!ENTITY pageAction.allowInUrlbar.label "Yn adresbalke toane">
-<!ENTITY pageAction.disallowInUrlbar.label "Net yn adresbalke toane">
 <!ENTITY pageAction.manageExtension.label "Utwreiding beheare…">
-
-<!ENTITY pageAction.sendTabToDevice.label "Ljepblêd nei apparaat ferstjoere">
 
 <!ENTITY sendToDevice.syncNotReady.label "Apparaten syngronisearje…">
 
