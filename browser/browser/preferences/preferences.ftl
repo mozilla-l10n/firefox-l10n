@@ -27,7 +27,7 @@ pref-page =
 # is the name of the CSS property. It is intended only to adjust the element's width.
 # Do not translate.
 search-input-box =
-    .style = width: 15.4em
+    .style = width: 16.4em
     .placeholder =
         { PLATFORM() ->
             [windows] Pesquisar em opções
@@ -445,7 +445,7 @@ containers-remove-button =
 ## Sync Section - Signed out
 
 sync-signedout-caption = Leve a web com você
-sync-signedout-description = Sincronizar seus favoritos, histórico, abas, senhas, extensões e preferências entre os seus dispositivos.
+sync-signedout-description = Sincronize seus favoritos, histórico, abas, senhas, extensões e preferências com todos os seus dispositivos.
 sync-signedout-account-title = Conectar com uma { -fxaccount-brand-name }
 sync-signedout-account-create = Não tem uma conta? Inscreva-se agora
     .accesskey = C
