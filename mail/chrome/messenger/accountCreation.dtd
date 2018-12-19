@@ -42,7 +42,7 @@
 <!ENTITY sslTls.label                    "SSL/TLS">
 
 <!-- LOCALIZATION NOTE(exchange-hostname.label): Do not translate Exchange, it is a product name. -->
-<!ENTITY exchange-hostname.label         "Exchange server:">
+<!ENTITY exchange-hostname.label         "Exchange-palvelin:">
 
 <!ENTITY advancedSetup.label             "Lisäasetukset">
 <!ENTITY advancedSetup.accesskey         "L">
