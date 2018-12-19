@@ -59,9 +59,9 @@
      update checking behavior for all add-ons to the default global behavior
      (which itself is either "Automatically" or "Manually", controlled by the
      updates.updateAddonsAutomatically.label menu item). -->
-<!ENTITY updates.resetUpdatesToAutomatic.label       "자동 업데이트 설정">
+<!ENTITY updates.resetUpdatesToAutomatic.label       "모든 부가기능을 자동 업데이트로 재설정">
 <!ENTITY updates.resetUpdatesToAutomatic.accesskey   "R">
-<!ENTITY updates.resetUpdatesToManual.label          "자동 업데이트 설정 해제">
+<!ENTITY updates.resetUpdatesToManual.label          "모든 부가기능을 수동 업데이트로 재설정">
 <!ENTITY updates.resetUpdatesToManual.accesskey      "R">
 <!ENTITY updates.updating.label               "업데이트 확인 중">
 <!ENTITY updates.installed.label              "업데이트가 완료되었습니다.">

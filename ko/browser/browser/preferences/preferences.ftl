@@ -154,9 +154,6 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = 링크를 새 창 대신 새 탭에서 열기
     .accesskey = w
-warn-on-quit-close-multiple-tabs =
-    .label = 여러 개의 탭을 동시에 종료할 때 알려주기
-    .accesskey = m
 warn-on-close-multiple-tabs =
     .label = 여러 개의 탭을 동시에 닫으려고 할 때 알려주기
     .accesskey = m
@@ -262,7 +259,7 @@ play-drm-content =
     .accesskey = P
 play-drm-content-learn-more = 더 알아보기
 update-application-title = { -brand-short-name } 업데이트
-update-application-description = { -brand-short-name }가 최상의 성능, 안정성, 보안을 유지할 수 있도록 최신 버전으로 유지힙니다.
+update-application-description = { -brand-short-name }가 최상의 성능, 안정성, 보안을 유지할 수 있도록 최신 버전으로 유지합니다.
 update-application-version = 버전 { $version } <a data-l10n-name="learn-more">새로운 기능</a>
 update-history =
     .label = 업데이트 기록 보기…
@@ -299,10 +296,10 @@ performance-settings-learn-more = 더 알아보기
 performance-allow-hw-accel =
     .label = 하드웨어 가속이 가능하면 사용
     .accesskey = r
-performance-limit-content-process-option = 컨텐트 프로세스 제한
+performance-limit-content-process-option = 콘텐츠 프로세스 제한
     .accesskey = L
-performance-limit-content-process-enabled-desc = 추가 컨텐트 프로세스는 다중 탭을 사용 하는 경우 성능을 향상 시킬 수 있지만 더 많은 메모리를 사용 합니다.
-performance-limit-content-process-blocked-desc = 컨텐트 프로세스 갯수 변경은 멀티 프로세스 { -brand-short-name }에서만 가능합니다. <a data-l10n-name="learn-more">멀티 프로세스가 활성화 되었는지 확인하는 방법</a>
+performance-limit-content-process-enabled-desc = 추가 콘텐츠 프로세스는 다중 탭을 사용 하는 경우 성능을 향상 시킬 수 있지만 더 많은 메모리를 사용 합니다.
+performance-limit-content-process-blocked-desc = 콘텐츠 프로세스 갯수 변경은 멀티 프로세스 { -brand-short-name }에서만 가능합니다. <a data-l10n-name="learn-more">멀티 프로세스가 활성화 되었는지 확인하는 방법</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
