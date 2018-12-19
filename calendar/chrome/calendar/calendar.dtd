@@ -88,6 +88,7 @@
 <!ENTITY calendar.newevent.button.label         "Acara Baru" >
 <!ENTITY calendar.newtask.button.label          "Tugas Baru" >
 <!ENTITY calendar.print.button.label            "Cetak" >
+<!ENTITY calendar.print.button.accesskey        "C">
 
 <!ENTITY calendar.day.button.label              "Hari" >
 <!ENTITY calendar.week.button.label             "Minggu" >
@@ -176,19 +177,32 @@
 <!ENTITY calendar.context.attendance.menu.label                 "Undangan">
 <!ENTITY calendar.context.attendance.menu.accesskey             "d">
 <!ENTITY calendar.context.attendance.occurrence.label           "Item Ini">
+<!ENTITY calendar.context.attendance.all2.label                 "Seri Lengkap">
 <!ENTITY calendar.context.attendance.send.label                 "Kirim notifikasi sekarang">
+<!ENTITY calendar.context.attendance.send.accesskey             "K">
 <!ENTITY calendar.context.attendance.dontsend.label             "Jangan kirim notifikasi">
+<!ENTITY calendar.context.attendance.dontsend.accesskey         "J">
 
+<!ENTITY calendar.context.attendance.occ.accepted.accesskey     "t">
 <!ENTITY calendar.context.attendance.occ.accepted.label         "Diterima">
+<!ENTITY calendar.context.attendance.occ.tentative.accesskey    "f">
 <!ENTITY calendar.context.attendance.occ.tentative.label        "Diterima secara tentatif">
+<!ENTITY calendar.context.attendance.occ.declined.accesskey     "t">
 <!ENTITY calendar.context.attendance.occ.declined.label         "Ditolak">
+<!ENTITY calendar.context.attendance.occ.delegated.accesskey    "w">
 <!ENTITY calendar.context.attendance.occ.delegated.label        "Diwakilkan">
+<!ENTITY calendar.context.attendance.occ.needsaction.accesskey  "t">
 <!ENTITY calendar.context.attendance.occ.needsaction.label      "Masih memerlukan tindakan">
+<!ENTITY calendar.context.attendance.occ.inprogress.accesskey   "j">
 <!ENTITY calendar.context.attendance.occ.inprogress.label       "Sedang berjalan">
+<!ENTITY calendar.context.attendance.occ.completed.accesskey    "S">
 <!ENTITY calendar.context.attendance.occ.completed.label        "Selesai">
 
+<!ENTITY calendar.context.attendance.all.accepted.accesskey     "e">
 <!ENTITY calendar.context.attendance.all.accepted.label         "Diterima">
+<!ENTITY calendar.context.attendance.all.tentative.accesskey    "a">
 <!ENTITY calendar.context.attendance.all.tentative.label        "Diterima secara tentatif">
+<!ENTITY calendar.context.attendance.all.declined.accesskey     "o">
 <!ENTITY calendar.context.attendance.all.declined.label         "Ditolak">
 <!ENTITY calendar.context.attendance.all.delegated.label        "Diwakilkan">
 <!ENTITY calendar.context.attendance.all.needsaction.label      "Masih memerlukan tindakan">

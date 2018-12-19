@@ -147,6 +147,7 @@
 <!ENTITY  event.menu.options.show.time.free.accesskey         "B">
 
 <!ENTITY event.invite.attendees.label                     "Undang Peserta…">
+<!ENTITY event.invite.attendees.accesskey                 "U">
 <!ENTITY event.email.attendees.label                      "Buat Surel untuk Semua Peserta…">
 <!ENTITY event.email.attendees.accesskey                  "S">
 <!ENTITY event.email.tentative.attendees.label            "Buat Surel untuk Peserta yang Belum Pasti…">

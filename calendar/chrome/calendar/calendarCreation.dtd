@@ -27,12 +27,16 @@
 <!ENTITY sourcetabs.other.label  "Lainnya">
 
 <!ENTITY buttons.create.label "Buat Kalender">
+<!ENTITY buttons.create.accesskey "u">
 
 <!ENTITY buttons.find.label "Temukan Kalender">
+<!ENTITY buttons.find.accesskey "T">
 
 <!ENTITY buttons.back.label "Kembali">
+<!ENTITY buttons.back.accesskey "K">
 
 <!ENTITY buttons.subscribe.label "Berlangganan">
+<!ENTITY buttons.subscribe.accesskey "l">
 
 <!ENTITY calendartype.label "Jenis Kalender:">
 <!ENTITY location.label "Lokasi:">
