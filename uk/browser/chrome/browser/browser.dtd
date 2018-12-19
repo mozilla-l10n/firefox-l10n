@@ -1035,7 +1035,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.manageSettings.accesskey "К">
 
 <!ENTITY contentBlocking.trackersView.label "Стеження">
-<!ENTITY contentBlocking.trackersView.strictInfo.label 'Щоб заблокувати все стеження, встановіть значення блокування вмісту "Суворе".'>
+<!ENTITY contentBlocking.trackersView.strictInfo.label 'Щоб заблокувати все стеження, встановіть значення блокування вмісту "Суворо".'>
 
 <!ENTITY contentBlocking.cookies.label "Куки">
 <!ENTITY contentBlocking.cookiesView.label "Куки і дані сайтів">
