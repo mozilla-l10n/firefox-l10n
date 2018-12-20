@@ -8,9 +8,9 @@ close-button-label =
     .buttonlabelcancel = Đóng
     .title = Lịch sử cập nhật
 no-updates-label = Chưa cài bản cập nhật nào
-name-header = Tên bản Cập nhật
-date-header = Ngày Cài
-type-header = Loại
+name-header = Tên bản cập nhật
+date-header = Ngày cài đặt
+type-header = Kiểu
 state-header = Tình trạng
 # Used to display update history
 #
