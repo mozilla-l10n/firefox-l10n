@@ -161,6 +161,7 @@ was trying to connect. -->
 <!ENTITY blockedByPolicy.title "અવરોધિત પૃષ્ઠ">
 
 <!ENTITY certerror.mitm.title "સૉફ્ટવેર રોકે છે &brandShortName; સલામત રીતે આ સાઇટથી કનેક્ટ થવાથી">
+<!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> મોટેભાગે સલામત સાઇટ છે, પરંતુ સલામત કનેક્શન સ્થાપિત થઈ શક્યું નથી. આ મુદ્દો <span class='mitm-name'/>દ્વારા થાય છે, જે કાં તો તમારા કમ્પ્યુટર અથવા તમારા નેટવર્ક પર સૉફ્ટવેર છે.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "જો તમારા એન્ટીવાયરસ સૉફ્ટવેરમાં એવી સુવિધા શામેલ હોય કે જે એન્ક્રિપ્ટ કરેલા કનેક્શંસને સ્કૅન કરે છે (ઘણી વખત “વેબ સ્કેનીંગ” અથવા “https સ્કેનીંગ”તરીકે ઓળખાય છે), તો તમે તે સુવિધાને અક્ષમ કરી શકો છો. જો તે કાર્ય કરતું નથી, તો તમે એન્ટિવાયરસ સૉફ્ટવેરને નીકાડી અને ફરીથી ઇન્સ્ટોલ કરી શકો છો.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "જો તમે <span class='mitm-name'/>થી પરિચિત નથી, તો આ હુમલો હોઈ શકે છે અને તમારે સાઇટ પર ચાલુ રાખવું જોઈએ નહીં.">
 <!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "જો તમે <span class='mitm-name'/>થી પરિચિત નથી, તો આ હુમલો હોઈ શકે છે, અને સાઇટ ઍક્સેસ કરવા માટે તમે કંઈ કરી શકતા નથી.">
