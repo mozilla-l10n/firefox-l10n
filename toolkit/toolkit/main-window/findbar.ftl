@@ -12,9 +12,9 @@ findbar-previous =
 findbar-find-button-close =
     .tooltiptext = Đóng thanh Tìm kiếm
 findbar-highlight-all =
-    .label = Đánh dấu tất cả
+    .label = Tô sáng tất cả
     .accesskey = l
-    .tooltiptext = Tô sáng tất cả các cụm từ tìm thấy
+    .tooltiptext = Tô sáng tất cả các cụm từ được tìm thấy
 findbar-highlight-all2 =
     .label = Tô sáng tất cả
     .accesskey =
@@ -22,12 +22,12 @@ findbar-highlight-all2 =
             [macos] l
            *[other] a
         }
-    .tooltiptext = Tô sáng tất cả các lần xuất hiện của cụm từ
+    .tooltiptext = Tô sáng tất cả các cụm từ được tìm thấy
 findbar-case-sensitive =
     .label = Phân biệt HOA-thường
-    .accesskey = A
+    .accesskey = C
     .tooltiptext = Tìm kiếm có phân biệt chữ hoa và chữ thường
 findbar-entire-word =
     .label = Toàn bộ từ
-    .accesskey = T
+    .accesskey = W
     .tooltiptext = Chỉ tìm toàn bộ từ
