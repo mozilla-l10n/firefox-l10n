@@ -30,7 +30,8 @@
 
 <!ENTITY trackingProtection.title                        "Chống theo dõi">
 <!ENTITY trackingProtection.description2                 "Một số trang dùng hệ thống theo dõi để có thể theo dõi hoạt động của bạn trên Internet. Với chế độ chống theo dõi của Firefox sẽ giúp chặn hệ thống theo dõi có thể thu thập thông tin về hành vi duyệt web của bạn.">
-<!ENTITY trackingProtection.startTour1                   "Xemcách hoạt động">
+
+<!ENTITY trackingProtection.startTour1                   "Xem cách hoạt động">
 
 <!ENTITY contentBlocking.title                           "Chặn nội dung">
 <!ENTITY contentBlocking.description                     "Một số trang web sử dụng trình theo dõi có thể giám sát hoạt động của bạn trên Internet. Trong cửa sổ riêng tư, trình chặn nội dung của Firefox tự động chặn nhiều trình theo dõi có thể thu thập thông tin về hành vi duyệt web của bạn.">
