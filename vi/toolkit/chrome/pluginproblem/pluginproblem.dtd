@@ -3,9 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
-<!ENTITY pluginActivationWarning                             "Trang này sử dụng một plugin có thể làm chậm &brandShortName;.">
-<!ENTITY tapToPlayPlugin                                     "Bấm vào đây để kích hoạt plugin.">
-<!ENTITY clickToActivatePlugin                               "Kích hoạt plugin.">
+<!ENTITY tapToPlayPlugin                                     "Bấm vào đây để kích hoạt phần bổ trợ.">
+<!ENTITY clickToActivatePlugin                               "Kích hoạt phần bổ trợ.">
 <!ENTITY checkForUpdates                                     "Kiểm tra cập nhật…">
 <!ENTITY blockedPlugin.label                                 "Phần bổ trợ này bị chặn để bảo vệ bạn.">
 <!ENTITY hidePluginBtn.label                                 "Ẩn phần bổ trợ">
@@ -21,13 +20,13 @@
 <!ENTITY report.please                                       "Gửi báo cáo sự cố">
 <!ENTITY report.submitting                                   "Đang gửi báo cáo…">
 <!ENTITY report.submitted                                    "Báo cáo sự cố đã được gửi.">
-<!ENTITY report.disabled                                     "Báo cáo sự cố đã bị vô hiệu.">
+<!ENTITY report.disabled                                     "Báo cáo sự cố đã bị vô hiệu hóa.">
 <!ENTITY report.failed                                       "Gửi không thành công.">
 <!ENTITY report.unavailable                                  "Không có báo cáo nào.">
-<!ENTITY report.comment                                      "Thêm bình luận (bình luận hiển thị công khai)">
+<!ENTITY report.comment                                      "Thêm bình luận (bình luận sẽ được hiển thị công khai)">
 <!ENTITY report.pageURL                                      "Thêm URL trang">
 
 <!ENTITY plugin.file                                         "Tập tin">
-<!ENTITY plugin.mimeTypes                                    "MIME Type">
+<!ENTITY plugin.mimeTypes                                    "Kiểu MIME">
 <!ENTITY plugin.flashProtectedMode.label                     "Bật chế độ bảo vệ Adobe Flash">
 <!ENTITY plugin.enableBlocklists.label                       "Chặn nội dung Flash gây nguy hiểm và xâm phạm">

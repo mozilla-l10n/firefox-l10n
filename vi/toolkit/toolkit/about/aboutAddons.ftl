@@ -23,7 +23,7 @@ list-empty-button =
     .label = Tìm hiểu thêm về tiện ích
 install-addon-from-file =
     .label = Cài đặt tiện ích từ tập tin…
-    .accesskey = i
+    .accesskey = I
 help-button = Hỗ trợ tiện ích
 preferences =
     { PLATFORM() ->
@@ -38,13 +38,13 @@ show-all-extensions-button =
     .label = Hiện tất cả các tiện ích
 debug-addons =
     .label = Gỡ lỗi tiện ích
-    .accesskey = B
+    .accesskey = b
 cmd-show-details =
     .label = Hiện thêm thông tin
-    .accesskey = H
+    .accesskey = S
 cmd-find-updates =
     .label = Tìm bản cập nhật
-    .accesskey = T
+    .accesskey = F
 cmd-preferences =
     .label =
         { PLATFORM() ->
@@ -53,21 +53,21 @@ cmd-preferences =
         }
     .accesskey =
         { PLATFORM() ->
-            [windows] y
-           *[other] y
+            [windows] O
+           *[other] P
         }
 cmd-enable-theme =
     .label = Sử dụng giao diện
-    .accesskey = S
+    .accesskey = W
 cmd-disable-theme =
     .label = Dừng sử dụng giao diện
-    .accesskey = D
+    .accesskey = W
 cmd-install-addon =
     .label = Cài đặt
-    .accesskey = i
+    .accesskey = I
 cmd-contribute =
     .label = Đóng góp
-    .accesskey = g
+    .accesskey = C
     .tooltiptext = Đóng góp vào sự phát triển của tiện ích này
 discover-title = Tiện ích là gì?
 discover-description = Tiện ích là những ứng dụng cho phép bạn cá nhân hóa { -brand-short-name } bằng kiểu dáng hoặc chức năng phụ. Hãy thử một thanh lề tiết kiệm thời gian, một trình báo thời tiết, hoặc một giao diện để biến { -brand-short-name } thành của riêng bạn.
@@ -75,7 +75,7 @@ discover-footer = Khi bạn kết nối mạng, bảng này sẽ giới thiệu 
 detail-version =
     .label = Phiên bản
 detail-last-updated =
-    .label = Cập nhật cuối
+    .label = Cập nhật lần cuối
 detail-contributions-description = Nhà phát triển tiện ích này đề nghị bạn hỗ trợ một khoản tài chính nhỏ cho việc phát triển.
 detail-update-type =
     .value = Cập nhật tự động
@@ -98,7 +98,7 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = Kiểm tra cập nhật
-    .accesskey = K
+    .accesskey = U
     .tooltiptext = Kiểm tra cập nhật cho tiện ích này
 detail-show-preferences =
     .label =
@@ -108,8 +108,8 @@ detail-show-preferences =
         }
     .accesskey =
         { PLATFORM() ->
-            [windows] y
-           *[other] y
+            [windows] O
+           *[other] P
         }
     .tooltiptext =
         { PLATFORM() ->
@@ -165,17 +165,17 @@ extensions-warning-update-security-enable =
 
 extensions-updates-check-for-updates =
     .label = Kiểm tra cập nhật
-    .accesskey = c
+    .accesskey = C
 extensions-updates-view-updates =
     .label = Xem các cập nhật gần đây
-    .accesskey = X
+    .accesskey = V
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
     .label = Tự động cập nhật tiện ích
-    .accesskey = c
+    .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
 ## "Automatically", "Use default global behavior"). These menu items reset the
@@ -185,19 +185,19 @@ extensions-updates-update-addons-automatically =
 
 extensions-updates-reset-updates-to-automatic =
     .label = Thiết lập cập nhật tự động tất cả các tiện ích
-    .accesskey = t
+    .accesskey = R
 extensions-updates-reset-updates-to-manual =
     .label = Thiết lập cập nhật thủ công tất cả các tiện ích
-    .accesskey = c
+    .accesskey = R
 
 ## Status messages displayed when updating add-ons
 
 extensions-updates-updating =
     .value = Đang cập nhật tiện ích
 extensions-updates-installed =
-    .value = Các tiện ích đã được cập nhật.
+    .value = Các tiện ích của bạn đã được cập nhật.
 extensions-updates-downloaded =
-    .value = Các cập nhật tiện ích đã được tải xuống.
+    .value = Các cập nhật tiện ích của bạn đã được tải về.
 extensions-updates-restart =
     .label = Khởi động lại ngay để hoàn tất cài đặt
 extensions-updates-none-found =
