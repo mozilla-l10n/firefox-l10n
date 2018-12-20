@@ -60,13 +60,20 @@
 <!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label    "Abrir">
 <!ENTITY saveAsAttachmentCmd.label    "Guardar como…">
+<!ENTITY detachAttachmentCmd.label    "Despegar…">
 <!ENTITY deleteAttachmentCmd.label    "Eliminar">
+<!ENTITY openAllAttachmentsCmd.label    "Abrir todo…">
 <!ENTITY saveAllAttachmentsCmd.label    "Guardar todo…">
+<!ENTITY detachAllAttachmentsCmd.label    "Despegar todo…">
+<!ENTITY deleteAllAttachmentsCmd.label    "Eliminar todo…">
 
+<!ENTITY openAttachment.tooltip "Abrir el archivo adjunto">
 
 <!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label       "Guardar">
+<!ENTITY saveAttachmentButton1.tooltip     "Guardar el archivo adjunto">
 <!ENTITY saveAllAttachmentsButton1.label   "Guardar todo">
+<!ENTITY saveAllAttachmentsButton1.tooltip "Guardar todos los archivos adjuntos">
 
 <!ENTITY copyLinkCmd.label        "Copiar dirección del enlace">
 
