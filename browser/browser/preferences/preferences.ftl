@@ -155,9 +155,6 @@ open-new-link-as-tabs =
 warn-on-close-multiple-tabs =
     .label = તમને બહુવિધ ટેબ્સ બંધ કરતી વખતે ચેતવશે
     .accesskey = m
-warn-on-quit-close-multiple-tabs =
-    .label = તમને બહુવિધ ટેબ્સમાંથી બહાર નીકળતી વખતે અને બંધ કરતી વખતે ચેતવશે
-    .accesskey = m
 warn-on-open-many-tabs =
     .label = તમને ચેતવે છે જ્યારે ઘણી ટેબ્સ ખોલવાનું ધીમું થઈ જાય અને { -brand-short-name }
     .accesskey = d
@@ -861,6 +858,8 @@ collection-health-report-link = વધુ શીખો
 collection-studies =
     .label = { -brand-short-name } અભ્યાસને ઇન્સ્ટોલ અને ચલાવવાની મંજૂરી આપો
 collection-studies-link = { -brand-short-name } અભ્યાસો જુઓ
+addon-recommendations =
+    .label = વ્યક્તિગત કરેલી એક્સ્ટેંશન ભલામણોને બનાવવા માટે { -brand-short-name } ને મંજૂરી આપો
 addon-recommendations-link = વધુ શીખો
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
