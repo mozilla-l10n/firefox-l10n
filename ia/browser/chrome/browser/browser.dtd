@@ -1155,6 +1155,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.keepButton.label "Mantener le cambios">
 <!ENTITY newTabControlled.keepButton.accesskey "M">
 <!ENTITY newTabControlled.disableButton.label "Inactivar le extension">
+<!ENTITY newTabControlled.disableButton.accesskey "D">
 
 <!ENTITY homepageControlled.message "Un extension cambiava lo que tu vide quando tu aperi tu pagina casa. Tu pote restaurar tu parametros si tu non vole iste modification.">
 <!ENTITY homepageControlled.header.message "Tu pagina principal cambiava.">
