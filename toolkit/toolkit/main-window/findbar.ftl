@@ -15,6 +15,14 @@ findbar-highlight-all =
     .label = Korosta kaikki
     .accesskey = K
     .tooltiptext = Korosta kaikki osumat
+findbar-highlight-all2 =
+    .label = Korosta kaikki
+    .accesskey =
+        { PLATFORM() ->
+            [macos] K
+           *[other] K
+        }
+    .tooltiptext = Korosta tekstin kaikki esiintymät
 findbar-case-sensitive =
     .label = Huomioi kirjainkoko
     .accesskey = H
