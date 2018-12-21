@@ -14,6 +14,7 @@
 
 <!ENTITY pref.weekstarts.label "התחל את השבוע ביום:">
 <!ENTITY pref.weekstarts.accesskey "ש">
+<!ENTITY pref.calendar.view-minimonth.showweeknumber.accesskey "ח">
 <!ENTITY pref.daysoff.label "כלול ימים אלו בשבוע העבודה:">
 
 <!ENTITY pref.calendar.view.daystart.label "שעת התחלת יום:">
@@ -35,3 +36,4 @@
 <!ENTITY pref.numberofweeks.4 "ארבעה שבועות">
 <!ENTITY pref.numberofweeks.5 "חמישה שבועות">
 <!ENTITY pref.numberofweeks.6 "שישה שבועות">
+<!ENTITY pref.showlocation.label "הצגת מיקום">

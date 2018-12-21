@@ -13,5 +13,7 @@
 <!ENTITY gdata.migration.upgrade.accesskey "ש">
 <!ENTITY gdata.migration.showagain.label "בדוק תמיד ">
 
+<!ENTITY gdata.reminder.default "תזכורת בררת מחדל">
 <!ENTITY gdata.reminder.action.sms.label "שלח הודעת טקסט">
+
 

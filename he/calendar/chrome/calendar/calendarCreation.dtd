@@ -27,9 +27,18 @@
 <!ENTITY sourcetabs.other.label  "אחר">
 
 <!ENTITY buttons.create.label "יצירת לוח שנה חדש">
+<!ENTITY buttons.create.accesskey "צ">
 
+<!ENTITY buttons.find.label "איתור לוחות שנה">
+<!ENTITY buttons.find.accesskey "א">
 
+<!ENTITY buttons.back.label "חזרה">
+<!ENTITY buttons.back.accesskey "ח">
 
+<!ENTITY buttons.subscribe.label "הרשמה">
+<!ENTITY buttons.subscribe.accesskey "ש">
 
+<!ENTITY calendartype.label "סוג לוח שנה:">
+<!ENTITY location.label "מיקום:">
 
 

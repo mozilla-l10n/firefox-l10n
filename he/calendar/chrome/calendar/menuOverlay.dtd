@@ -4,51 +4,41 @@
 
 <!-- Event Menu -->
 <!ENTITY event.new.event                        "אירוע חדש…">
-<!ENTITY event.new.event.key                    "N">
 <!ENTITY event.new.event.accesskey              "א">
 
 <!ENTITY event.new.task                         "משימה חדשה…">
-<!ENTITY event.new.task.key                     "K">
 <!ENTITY event.new.task.accesskey               "מ">
 
-<!ENTITY calendar.new.server.label              "לוח שנה חדש…">
-<!ENTITY calendar.new.server.key                "L">
-<!ENTITY calendar.new.server.accesskey          "ל">
-
-<!ENTITY calendar.print.label                   "הדפס יומנים פעילים…">
-<!ENTITY calendar.print.key                     "P">
-<!ENTITY calendar.print.accesskey               "ה">
-
 <!ENTITY calendar.import.label                  "יבא מקובץ…">
-<!ENTITY calendar.import.key                    "ב">
 <!ENTITY calendar.import.accesskey              "י">
 
 <!ENTITY calendar.export.label                  "ייצוא…">
 <!ENTITY calendar.export.accesskey              "E">
-<!ENTITY calendar.export.selection.label        "יצא בחירה…">
-<!ENTITY calendar.export.selection.accesskey    "צ">
 
 <!ENTITY calendar.publish.label                 "פרסם את האירועים שנבחרו…">
 <!ENTITY calendar.publish.accesskey             "פ">
 
 <!ENTITY calendar.deletecalendar.label          "מחק את לוח השנה הנבחר…">
 <!ENTITY calendar.deletecalendar.accesskey      "ח">
+<!ENTITY calendar.unsubscribecalendar.label     "ביטול המינוי מלוח השנה הנבחר…">
+<!ENTITY calendar.unsubscribecalendar.accesskey "ב">
+
+<!-- LOCALIZATION NOTE (calendar.removecalendar.label): Removing the calendar
+      is the general action of removing it, while deleting means to clear the
+      data and unsubscribing means just taking it out of the calendar list. -->
+<!ENTITY calendar.removecalendar.label          "הסרת היומן הנבחר…">
+<!ENTITY calendar.removecalendar.accesskey      "ס">
+
 
 <!ENTITY calendar.menu.customize.label          "התאמה אישית…">
 <!ENTITY calendar.menu.customize.accesskey      "ה">
 
 <!ENTITY showUnifinderCmd.label                 "מצא אירועים">
 <!ENTITY showUnifinderCmd.accesskey             "מ">
+<!ENTITY showUnifinderCmd.tooltip               "החלפת מצב חלונית חיפוש אירועים">
 
 <!ENTITY calendar.displaytodos.checkbox.label       "הצג מטלות בלוח השנה">
 <!ENTITY calendar.displaytodos.checkbox.accesskey   "מ">
-
-<!ENTITY calendar.menu.numberofweeks.label      "גודל תצוגה רב־שבועית">
-<!ENTITY calendar.menu.numberofweeks.2          "שני שבועות">
-<!ENTITY calendar.menu.numberofweeks.3          "שלושה שבועות">
-<!ENTITY calendar.menu.numberofweeks.4          "ארבעה שבועות">
-<!ENTITY calendar.menu.numberofweeks.5          "חמישה שבועות">
-<!ENTITY calendar.menu.numberofweeks.6          "שישה שבועות">
 
 <!ENTITY goTodayCmd.label                       "עבור להיום">
 <!ENTITY goTodayCmd.accesskey                   "ה">
@@ -58,4 +48,3 @@
 
 <!ENTITY calendar.properties.label              "מאפייני לוח שנה…">
 <!ENTITY calendar.properties.accesskey          "מ">
-
