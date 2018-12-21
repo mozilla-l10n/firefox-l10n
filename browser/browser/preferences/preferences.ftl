@@ -691,10 +691,16 @@ content-blocking-setting-custom =
     .accesskey = P
 content-blocking-custom-desc = Causissètz çò que volètz blocar.
 content-blocking-private-trackers = Los traçadors coneguts dins las fenèstras de navegacion privada solament
+content-blocking-third-party-cookies = Cookies de seguiment tèrces
+content-blocking-all-windows-trackers = Traçadors coneguts dins totas las fenèstras
+content-blocking-all-third-party-cookies = Totes los cookies tèrces
 content-blocking-learn-how = Ne saber mai
 content-blocking-trackers-label =
     .label = Traçadors
     .accesskey = T
+content-blocking-option-private =
+    .label = Soque las fenèstras privadas
+    .accesskey = p
 content-blocking-change-cookie-settings =
     .label = Cambiar los paramètres de cookies
     .accesskey = C
@@ -795,6 +801,7 @@ collection-health-report-link = Ne saber mai
 collection-studies =
     .label = Autorizar { -brand-short-name } d’installar e lançar d’estudis
 collection-studies-link = Veire los estudis de { -brand-short-name }
+addon-recommendations-link = Ne saber mai
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Lo rapòrt de donadas es desactivat per aquela configuracion de compilacion
