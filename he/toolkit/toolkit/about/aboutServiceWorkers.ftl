@@ -34,4 +34,5 @@ waiting-cache-name = <strong>שם מטמון המתנה:</strong> { $name }
 # This term is used as a button label (verb, not noun).
 update-button = עדכון
 unregister-button = ביטול רישום
+unregister-error = ביטול הרישום של Service Worker זה נכשל.
 waiting = ממתין…
