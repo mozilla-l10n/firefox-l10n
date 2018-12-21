@@ -1036,6 +1036,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.trackersView.label "רכיבי מעקב">
 
+<!ENTITY contentBlocking.cookies.label "עוגיות">
+<!ENTITY contentBlocking.cookiesView.label "עוגיות ונתוני אתרים">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "דיווח על בעיה">
 <!ENTITY contentBlocking.breakageReportView.label "דיווח על בעיות">

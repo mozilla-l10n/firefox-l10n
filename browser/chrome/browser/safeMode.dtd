@@ -5,12 +5,10 @@
 <!ENTITY safeModeDialog.title         "מצב בטוח של &brandShortName; ">
 <!ENTITY window.maxWidth              "400">
 
-<!ENTITY startSafeMode.label          "התחלה במצב בטוח">
+<!ENTITY startSafeMode.label          "הפעלה במצב בטוח">
 <!ENTITY refreshProfile.label         "רענון &brandShortName;">
 
 <!ENTITY safeModeDescription3.label   "מצב בטוח הוא מצב מיוחד של &brandShortName; שיכול לשמש לפתרון בעיות.">
-<!ENTITY safeModeDescription4.label   "ההרחבות וההגדרות המותאמות אישית שלך ינוטרלו באופן זמני.">
-
 <!ENTITY safeModeDescription5.label   "התוספות וההגדרות המותאמות אישית שלך ינוטרלו באופן זמני, וחלק מהתכונות של &brandShortName; לא יעבדו כפי שהן עובדות כרגע.">
 
 <!ENTITY refreshProfileInstead.label  "ניתן לדלג על פתרון הבעיות ולנסות לרענן את &brandShortName;.">
