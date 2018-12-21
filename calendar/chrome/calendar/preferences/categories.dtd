@@ -7,9 +7,9 @@
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
 
-<!ENTITY pref.categories.add.title "הוספת קטגוריה">
-<!ENTITY pref.categories.addButton.label "הוספה…">
-<!ENTITY pref.categories.addButton.accesskey "ה">
+<!ENTITY pref.categories.new.title "קטגוריה חדשה">
+<!ENTITY pref.categories.newButton.label "חדש…">
+<!ENTITY pref.categories.newButton.accesskey "ח">
 <!ENTITY pref.categories.edit.title "עריכת קטגוריה">
 <!ENTITY pref.categories.editButton.label "עריכה…">
 <!ENTITY pref.categories.editButton.accesskey "ע">

@@ -14,11 +14,10 @@
 <!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "ב">
 <!ENTITY pref.calendar.alarms.sound.browse.label "עיין…">
 <!ENTITY pref.calendar.alarms.sound.browse.accessKey "ע">
-<!ENTITY pref.calendar.alarms.sound.preview.label "תצוגה מקדימה">
-<!ENTITY pref.calendar.alarms.sound.preview.accessKey "ת">
+<!ENTITY pref.calendar.alarms.sound.play.label "השמעה">
+<!ENTITY pref.calendar.alarms.sound.play.accessKey "ש">
 <!ENTITY pref.showalarmbox "הצג תיבת התראה">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "ת">
-<!ENTITY pref.missedalarms "הצג התראות שהתפספסו">
 <!ENTITY pref.calendar.alarms.missedAlarms.accessKey "פ">
 <!ENTITY pref.calendar.alarms.defaults.label "ברירות מחדל של התראות">
 <!ENTITY pref.defalarm4events.label "הגדרות התראות ברירות מחדל של אירועים:">
@@ -31,6 +30,6 @@
 <!ENTITY pref.defalarmlen4events.accesskey "ז">
 <!ENTITY pref.defalarmlen4todos.label "זמן ברירת מחדל להתראה לפני משימה:">
 <!ENTITY pref.defalarmlen4todos.accesskey "מ">
-<!ENTITY pref.defaultemail.label "כתובת ברירת מחדל לשליחת התראות:">
-<!ENTITY pref.defaulttext.label "טקסט ברירת מחדל עבור התראות:">
 
+<!ENTITY pref.defaultsnoozelength.label "משך הנודניק כבררת מחדל:" >
+<!ENTITY pref.defaultsnoozelength.accesskey "נ">

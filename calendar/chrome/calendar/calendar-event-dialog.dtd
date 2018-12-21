@@ -33,6 +33,10 @@
      event.attendees.disallowcounter.label)
    - These three labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
+<!ENTITY event.attendees.notify.label                "הודעה למשתתפים">
+<!ENTITY event.attendees.notify.accesskey            "ד">
+<!ENTITY event.attendees.notifyundisclosed.label     "הזמנה נפרדת לכל משתתף">
+<!ENTITY event.attendees.notifyundisclosed.accesskey "פ">
 <!ENTITY event.attendees.disallowcounter.label       "השבתת הצעות סותרות">
 <!ENTITY event.attendees.disallowcounter.accesskey   "ס">
 <!ENTITY event.attendees.disallowcounter.tooltip     "ציון לכך שלא תתקבלנה הצעות חלופיות">
@@ -410,3 +414,4 @@
 <!ENTITY summary.dialog.decline.tooltiptext     "סירוב להזמנה">
 <!ENTITY summary.dialog.dontsend.label          "לא לשלוח תגובה">
 <!ENTITY summary.dialog.send.label              "שליחת תגובה כעת">
+<!ENTITY summary.dialog.send.tooltiptext        "שליחת הודעה למארגן/נת ולסגור את החלון">
