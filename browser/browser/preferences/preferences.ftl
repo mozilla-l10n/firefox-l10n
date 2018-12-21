@@ -141,6 +141,8 @@ set-as-my-default-browser =
 startup-restore-previous-session =
     .label = שחזור הפעלה קודמת
     .accesskey = ש
+startup-restore-warn-on-quit =
+    .label = הצגת אזהרה בעת סגירת הדפדפן
 disable-extension =
     .label = נטרול הרחבה
 tabs-group-header = לשוניות
@@ -152,9 +154,6 @@ open-new-link-as-tabs =
     .accesskey = ח
 warn-on-close-multiple-tabs =
     .label = הזהרה בעת סגירת מספר לשוניות
-    .accesskey = ז
-warn-on-quit-close-multiple-tabs =
-    .label = הצגת אזהרה בעת יציאה וסגירה של מספר לשוניות
     .accesskey = ז
 warn-on-open-many-tabs =
     .label = הזהרה בעת פתיחה של מספר לשוניות שעשויה להאט את { -brand-short-name }
@@ -538,7 +537,6 @@ privacy-header = פרטיות דפדפן
 
 ## Privacy Section - Forms
 
-forms-header = טפסים וססמאות
 logins-header = כניסות וססמאות
 forms-ask-to-save-logins =
     .label = הצגת בקשה לשמירת פרטי כניסה וססמאות לאתרים
@@ -637,6 +635,10 @@ sitedata-block-all-option =
     .label = כל העוגיות (ישבש פעילות של אתרים)
 sitedata-option-block-trackers =
     .label = רכיבי מעקב צד־שלישי
+sitedata-option-block-unvisited =
+    .label = עוגיות מאתרים שלא ביקרת בהם
+sitedata-option-block-all =
+    .label = כל העוגיות (יפגום בחוויית השימוש)
 sitedata-clear =
     .label = ניקוי נתונים…
     .accesskey = נ
@@ -849,6 +851,7 @@ collection-health-report-link = מידע נוסף
 collection-studies =
     .label = לאפשר ל־{ -brand-short-name } להתקין ולהריץ מחקרים
 collection-studies-link = הצגת המחקרים של { -brand-short-name }
+addon-recommendations-link = מידע נוסף
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = דיווח נתונים מנוטרל עבור תצורת בנייה זו

@@ -73,6 +73,12 @@ connection-dns-over-https =
 connection-dns-over-https-url = כתובת
     .accesskey = כ
     .tooltiptext = כתובת לפתירת DNS על גבי HTTPS
+# Variables:
+#   $url (String) - URL for the DNS over HTTPS provider
+connection-dns-over-https-url-default =
+    .label = שימוש בברירת המחדל ({ $url })
+    .accesskey = ב
+    .tooltiptext = שימוש בכתובת בררת המחדל כדי לפתור שאילתות DNS על גבי HTTPS
 connection-dns-over-https-url-custom =
     .label = התאמה אישית
     .accesskey = א
