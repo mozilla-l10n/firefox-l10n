@@ -94,7 +94,7 @@ extension-controlled-web-notifications = Phần mở rộng, <img data-l10n-name
 extension-controlled-default-search = Phần mở rộng, <img data-l10n-name="icon"/> { $name }, đã cài đặt công cụ tìm kiếm mặc định của bạn.
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
-extension-controlled-privacy-containers = Phần mở rộng, <img data-l10n-name="icon"/> { $name }, yêu cầu thẻ ngăn chứa.
+extension-controlled-privacy-containers = Tiện ích mở rộng này, <img data-l10n-name="icon"/> { $name }, yêu cầu thẻ ngăn chứa.
 # This string is shown to notify the user that their tracking protection preferences
 # are being controlled by an extension.
 extension-controlled-websites-tracking-protection-mode = Một phần mở rộng, <img data-l10n-name="icon"/> { $name }, đang kiểm soát việc chống theo dõi.
@@ -154,9 +154,6 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = Mở đường dẫn ở thẻ thay vì ở cửa sổ mới
     .accesskey = w
-warn-on-quit-close-multiple-tabs =
-    .label = Cảnh báo khi bạn đóng nhiều thẻ cùng lúc
-    .accesskey = m
 warn-on-close-multiple-tabs =
     .label = Cảnh báo bạn khi đóng nhiều thẻ một lúc
     .accesskey = m
@@ -164,11 +161,11 @@ warn-on-open-many-tabs =
     .label = Cảnh báo bạn khi mở nhiều thẻ có thể làm chậm { -brand-short-name }
     .accesskey = d
 switch-links-to-new-tabs =
-    .label = Khi bạn mở một liên kết trong thẻ mới, chuyển sang tab đó ngay
+    .label = Khi bạn mở một liên kết trong thẻ mới, chuyển sang thẻ đó ngay lập tức
     .accesskey = h
 show-tabs-in-taskbar =
     .label = Hiển thị hình ảnh xem trước thẻ trong thanh tác vụ Windows
-    .accesskey = e
+    .accesskey = k
 browser-containers-enabled =
     .label = Bật thẻ ngăn chứa
     .accesskey = n
