@@ -15,6 +15,7 @@ url-classifier-cache-refresh-btn = Tải lại
 url-classifier-cache-clear-btn = Xóa
 url-classifier-cache-table-name = Tên bảng
 url-classifier-cache-show-entries = Hiển thị mục
+url-classifier-cache-entries = Bộ nhớ đệm của mục
 url-classifier-cache-prefix = Tiền tố
 url-classifier-cache-fullhash = Hash đầy đủ
 url-classifier-debug-title = Gỡ lỗi
