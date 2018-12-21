@@ -721,7 +721,7 @@ content-blocking-strict-desc = חסימת כל רכיבי המעקב ש־{ -bran
 content-blocking-custom-desc = בחירת הפריטים שייחסמו.
 content-blocking-private-trackers = רכיבי מעקב ידועים בחלונות פרטיים בלבד
 content-blocking-third-party-cookies = עוגיות מעקב צד־שלישי
-content-blocking-all-windows-trackers = רכיבי מעקב בכל החלונות
+content-blocking-all-windows-trackers = רכיבי מעקב מוכרים בכל החלונות
 content-blocking-all-third-party-cookies = כל העוגיות צד־שלישי
 content-blocking-warning-title = לתשומת לבך!
 content-blocking-warning-desc = חסימת עוגיות ורכיבי מעקב עשויה לשבש פעילות של מספר אתרים. קל להשבית חסימה של אתרים המהימנים בעיניך.
@@ -765,7 +765,7 @@ content-blocking-cookies-label =
 
 tracking-header = הגנת מעקב
 tracking-desc = הגנת מעקב חוסמת רכיבי מעקב מקוונים שאוספים את נתוני הגלישה שלך ממגוון אתרים. <a data-l10n-name="learn-more">מידע נוסף על הגנת מעקב ועל הפרטיות שלך</a>
-tracking-mode-label = שימוש בהגנת מעקב לחסימת רכיבי מעקב ידועים
+tracking-mode-label = שימוש בהגנת מעקב לחסימת רכיבי מעקב מוכרים
 tracking-mode-always =
     .label = תמיד
     .accesskey = ת
