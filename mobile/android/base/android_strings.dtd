@@ -290,6 +290,15 @@
 <!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
      Similar to the already existing "pref_whats_new_notification_summary"-->
 <!ENTITY pref_feature_tips_notification_summary "מידע נוסף על השימוש ב&brandShortName; ובמוצרים אחרים של &vendorShortName;">
+<!-- Localization note (pref_feature_tips_notification_enabling_hint):
+     Describe the action the user should do to enable this preference
+     Will be used in the context "<Turn on> ... to enable this feature" -->
+<!ENTITY pref_feature_tips_notification_enabling_hint "הפעלה">
+
+<!-- Localization note (pref_feature_tips_notification_enabling_path):
+     Nothing to translate. Simple concatenation of already localized strings. Result is used below. -->
+<!-- Localization note (pref_feature_tips_notification_enabling_hint):
+     Describe the action the user should do to enable this preference. -->
 
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
@@ -363,7 +372,6 @@
 <!ENTITY pref_use_system_font_size_summary "שינוי גודל תוכן האתר בהתאם לגודל גופן המערכת">
 
 <!ENTITY pref_media_autoplay_enabled "אפשר הפעלה אוטומטית">
-<!ENTITY pref_media_autoplay_enabled_summary "לשלוט האם אתרים יכולים לנגן וידאו ותוכן מדיה אחר אוטומטית">
 <!ENTITY pref_media_autoplay_allow "לאפשר ניגון אוטומטי">
 <!ENTITY pref_media_autoplay_block "לחסום ניגון אוטומטי">
 <!ENTITY pref_zoom_force_enabled "תמיד להפעיל תקריב">
@@ -831,15 +839,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE(corrupt_apk): This notification is shown if corruption has been detected on startup and the user has to reinstall Firefox -->
 <!ENTITY corrupt_apk "לא ניתן לפתוח את &brandShortName;. נא להתקין מחדש ולנסות שוב.">
 
-<!ENTITY eol_notification_title2 "לא יתקבלו עוד עדכונים עבור &brandShortName;">
-<!ENTITY eol_notification_summary "נא לגעת לקבלת מידע נוסף">
-
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "&brandShortName; עדכני">
 <!ENTITY whatsnew_notification_summary "מידע על מה שחדש בגרסה זו">
-
-<!ENTITY promotion_add_page_shortcut "הוספת קיצור דרך לדף">
 
 <!ENTITY helper_first_offline_bookmark_title "לקריאה לא מקוונת">
 <!ENTITY helper_first_offline_bookmark_message "ניתן למצוא את פריטי תצוגת הקריאה שלך בין הסימניות, אפילו ללא חיבור לאינטרנט.">
@@ -900,10 +903,18 @@ Picture-in-picture mini window -->
 
 <!-- Notification channels names -->
 <!ENTITY default_notification_channel "&brandShortName;">
+
+<!-- Notification channels names -->
+<!ENTITY default_notification_channel2 "דפדפן">
 <!ENTITY mls_notification_channel "שירות המיקום של &vendorShortName;">
 <!ENTITY download_notification_channel "הורדות">
 <!ENTITY media_notification_channel "ניגון מדיה">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel "התרעות דחיפה של &brandShortName;">
+<!ENTITY media_notification_channel2 "שמע ווידאו">
+<!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY updater_notification_channel "עדכוני יישומון">
 <!ENTITY synced_tabs_notification_channel "לשוניות מסונכרנות">
+<!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
+web sites through the HTML Notifications API. -->
+<!ENTITY site_notifications_channel "התראות אתר">
