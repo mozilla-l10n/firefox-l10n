@@ -10,19 +10,19 @@
      A good criteria is the language in which you'd find the best documentation
      on web development on the web. -->
 
-<!ENTITY newButton.label "Nový">
-<!ENTITY newButton.tooltip "Vytvoří nový stylopis a připojí ho k dokumentu">
-<!ENTITY newButton.accesskey "N">
+<!ENTITY newButton.label            "Nový">
+<!ENTITY newButton.tooltip          "Vytvoří nový stylopis a připojí ho k dokumentu">
+<!ENTITY newButton.accesskey        "N">
 
-<!ENTITY importButton.label "Importovat…">
-<!ENTITY importButton.tooltip "Naimportuje existující stylopis a připojí ho k dokumentu">
-<!ENTITY importButton.accesskey "I">
+<!ENTITY importButton.label         "Importovat…">
+<!ENTITY importButton.tooltip       "Naimportuje existující stylopis a připojí ho k dokumentu">
+<!ENTITY importButton.accesskey     "I">
 
-<!ENTITY visibilityToggle.tooltip "Přepne viditelnost stylopisu">
+<!ENTITY visibilityToggle.tooltip   "Přepne viditelnost stylopisu">
 
-<!ENTITY saveButton.label "Uložit">
-<!ENTITY saveButton.tooltip "Uloží stylopis do souboru">
-<!ENTITY saveButton.accesskey "U">
+<!ENTITY saveButton.label           "Uložit">
+<!ENTITY saveButton.tooltip         "Uloží stylopis do souboru">
+<!ENTITY saveButton.accesskey       "U">
 
 <!ENTITY optionsButton.tooltip      "Možnosti Editoru stylů">
 
@@ -46,22 +46,26 @@
      in each stylesheet editor sidebar. -->
 <!ENTITY mediaRules.label           "pravidla @media">
 
-<!ENTITY editorTextbox.placeholder "Zde vložte CSS.">
+<!ENTITY editorTextbox.placeholder  "Zde vložte CSS.">
 
 <!-- LOCALICATION NOTE  (noStyleSheet.label): This is shown when a page has no
      stylesheet. -->
-<!ENTITY noStyleSheet.label "Tato stránka nemá připojený stylopis.">
+<!ENTITY noStyleSheet.label         "Tato stránka nemá připojený stylopis.">
 
 <!-- LOCALICATION NOTE  (noStyleSheet-tip-start.label): This is the start of a
      tip sentence shown when there is no stylesheet. It suggests to create a new
      stylesheet and provides an action link to do so. -->
-<!ENTITY noStyleSheet-tip-start.label "Můžete ">
+<!ENTITY noStyleSheet-tip-start.label  "Můžete ">
 <!-- LOCALICATION NOTE  (noStyleSheet-tip-action.label): This is text for the
      link that triggers creation of a new stylesheet. -->
 <!ENTITY noStyleSheet-tip-action.label "připojit nový stylopis">
 <!-- LOCALICATION NOTE  (noStyleSheet-tip-end.label): End of the tip sentence -->
-<!ENTITY noStyleSheet-tip-end.label ".">
+<!ENTITY noStyleSheet-tip-end.label    ".">
 
 <!-- LOCALIZATION NOTE (openLinkNewTab.label): This is the text for the
      context menu item that opens a stylesheet in a new tab -->
 <!ENTITY openLinkNewTab.label     "Otevřít odkaz v novém panelu">
+
+<!-- LOCALIZATION NOTE (copyUrl.label): This is the text for the
+     context menu item that copies a stylesheet's URL -->
+<!ENTITY copyUrl.label            "Kopírovat URL">
