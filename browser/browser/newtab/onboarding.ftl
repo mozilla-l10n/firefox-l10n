@@ -21,6 +21,7 @@ onboarding-private-browsing-title = גלישה פרטית
 onboarding-screenshots-title = צילומי מסך
 onboarding-screenshots-text = ניתן לצלם, לשמור ולשתף צילומי מסך מבלי לצאת מ־{ -brand-short-name }. ניתן לצלם את הדף כולו או חלק ממנו בעת הגלישה. לאחר מכן ניתן לשמור לאינטרנט לצורך גישה ושיתוף פשוטים.
 onboarding-addons-title = תוספות
+onboarding-addons-text = הוספת תכונות נוספות כדי ש־{ -brand-short-name } יתאמץ בשבילך. ניתן להשוות מחירים, לבדוק את מזג האוויר או להציג את האופי שלך לעולם עם ערכת נושא לבחירתך.
 onboarding-ghostery-title = Ghostery
 onboarding-ghostery-text = גלישה מהירה, חכמה או בטוחה יותר עם הרחבות כמו Ghostery, המאפשרת לך לחסום פרסומות מעצבנות.
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
@@ -28,5 +29,10 @@ onboarding-fxa-title = סנכרון
 
 ## Message strings belonging to the Return to AMO flow
 
+# <icon></icon> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-header = כעת הבה נשיג לך את <icon></icon><b>{ $addon-name }.</b>
 return-to-amo-extension-button = הוספת ההרחבה
 return-to-amo-get-started-button = תחילת עבודה עם { -brand-short-name }

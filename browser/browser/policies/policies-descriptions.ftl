@@ -17,7 +17,6 @@ policy-BlockAboutConfig = חסימת הגישה לעמוד about:config.
 policy-BlockAboutProfiles = חסימת הגישה לעמוד about:profiles.
 policy-BlockAboutSupport = חסימת הגישה לעמוד about:support.
 policy-Bookmarks = יצירת סימניות בסרגל הסימניות, תפריט הסימניות או בתיקייה מסוימת בתוכם.
-policy-Certificates = האם להשתמש באישורים המובנים. מדיניות זו תקפה ל־Windows בלבד נכון לעכשיו.
 policy-CertificatesDescription = הוספת אישורים או שימוש באישורים מובנים.
 policy-Cookies = לאשר או לסרב להגדרת עוגיות מאתרים.
 policy-DisableAppUpdate = מניעת עדכון הדפדפן.
@@ -37,7 +36,6 @@ policy-DisableProfileImport = נטרול פקודת התפריט לייבוא נ
 policy-DisableProfileRefresh = נטרול הכפתור 'רענון { -brand-short-name }' בעמוד about:support.
 policy-DisableSafeMode = השבתת התכונה להפעלה מחדש במצב בטוח. לתשומת לבך: ניתן להשבית את מקש ה־Shift לכניסה למצב בטוח רק ב־Windows באמצעות מדיניות קבוצתית.
 policy-DisableSecurityBypass = למנוע מהמשתמש לעקוף אזהרות אבטחה מסוימות.
-policy-DisableSetDesktopBackground = להשבית את הפקודה לקביעת רקע כרקע שולחן העבודה בתפריט.
 policy-DisableSetAsDesktopBackground = להשבית את הפקודה לקביעה כרקע שולחן העבודה בתפריט עבור תמונות.
 policy-DisableSystemAddonUpdate = למנוע מהדפדפן להתקין ולעדכן תוספות מערכת.
 policy-DisableTelemetry = כיבוי Telemetry.
@@ -52,6 +50,7 @@ policy-EnableTrackingProtection = הפעלה או נטרול של חסימת ת�
 # English or translate them as verbs.
 policy-Extensions = התקנה, הסרה או נעילה של הרחבות. אפשרות ההתקנה מקבלת כתובות או נתיבים בתור משתנים. האפשרויות להסרה ולנעילה מקבלות מזהים של הרחבות.
 policy-FlashPlugin = לאפשר או לדחות את השימוש בתוסף החיצוני Flash.
+policy-HardwareAcceleration = כיבוי האצת חומרה אם מוגדר כ־false.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = הגדרה ונעילה כרשות של דף הבית.
 policy-InstallAddonsPermission = לאפשר לאתרים מסוימים להתקין תוספות.
