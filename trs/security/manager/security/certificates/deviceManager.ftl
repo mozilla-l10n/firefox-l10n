@@ -86,3 +86,15 @@ devinfo-label =
     .label = Dàj naga'ui' du'ue'
 devinfo-serialnum =
     .label = Da'nga' nikaj serie
+fips-nonempty-password-required = Ruhuâ modô FIPS sisi ga 'ngo da'nga' huìi gi'iát ri ña da' go'ngo si gagâ't. Nachrun da'mga' huìi hìaj nï' achin gayi'ìt ngà modô FIPS.
+unable-to-toggle-fips = Na'ue nadunaj modô FIPS riña si agâ't. Gahui ni nayi'ì ñûnt aplikasiûn nan.
+load-pk11-module-file-picker-title = Nagui 'ngo kontrolador agar PKCS#11 da' ga'ue gayi'ìt
+# Load Module Dialog
+load-module-help-empty-module-name =
+    .value = Nitaj si yugui modulô dan hua si guruhuaj.
+# Do not translate 'Root Certs'
+load-module-help-root-certs-module-name =
+    .value = Ngà hua rán riña ‘Root Certs’ ni si ga'ue garasunt man.
+add-module-failure = Na'ue nachrunt a'ngô môdulo
+del-module-warning = Huin yangà' ruhuât nadunat modulô nan anj.
+del-module-error = Na'ue narè' modulô nan
