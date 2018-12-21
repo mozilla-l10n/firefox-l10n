@@ -10,9 +10,9 @@
 <!ENTITY returnToPreviousPage.label "Joan atzera">
 <!ENTITY returnToPreviousPage1.label "Itzuli (gomendatua)">
 <!ENTITY advanced.label "Aurreratua">
-
 <!ENTITY continue2.label "Gehiago…">
 <!ENTITY moreInformation.label "Informazio gehiago">
+<!ENTITY viewCertificate.label "Ikusi ziurtagiria">
 
 <!-- Specific error messages -->
 
@@ -100,14 +100,13 @@
 
 <!ENTITY certerror.longpagetitle1 "Zure konexioa ez da segurua">
 <!ENTITY certerror.longpagetitle2 "Abisua: balizko segurtasun arriskua">
+<!ENTITY certerror.sts.longpagetitle  "Ez da konektatu: balizko segurtasun-arazoa">
 <!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "<span class='hostname'/> gunearen jabeak webgunea gaizki konfiguratu du. Zure informazioa lapurtzea saihesteko, &brandShortName; ez da webgune honetara konektatu.">
-
 <!ENTITY certerror.introPara2 "&brandShortName;(e)k balizko segurtasun-mehatxu bat antzeman du eta ez du jarraitu <span class='hostname'/> ostalarira. Gune hau bisitatzen baduzu, erasotzaileak zure pasahitzak, mezu elektronikoak edo kreditu-txartelen xehetasunak lapurtzen saia litezke.">
 
-<!ENTITY certerror.expiredCert.secondPara "Litekeena da zure ordenagailuko erlojuak ordua gaizki izatea eta honek &brandShortName;(r)i modu seguruan konektatzea eragozten dio.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Zer egin dezakezu?">
 
@@ -139,7 +138,6 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Gehitu salbuespena…">
-
 <!ENTITY securityOverride.exceptionButton1Label "Onartu arriskua eta jarraitu">
 
 <!ENTITY errorReporting.automatic2 "Eman honen gisako erroreen berri Mozillari asmo txarreko guneak identifikatzen eta blokeatzen laguntzeko">
@@ -161,6 +159,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.pagetitle1  "Konexio ez-segurua">
 <!ENTITY certerror.pagetitle2  "Abisua: balizko segurtasun arriskua">
+<!ENTITY certerror.sts.pagetitle  "Ez da konektatu: balizko segurtasun-arazoa">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Gune honek HTTP Strict Transport Security (HSTS) erabiltzen du &brandShortName; modu seguruan soilik konekta litekeela zehazteko. Ondorioz, ezin da salbuespenik gehitu ziurtagiri honentzat.">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> guneak HTTP Strict Transport Security (HSTS) izeneko segurtasun-politika dauka eta &brandShortName; modu seguruan konekta daiteke soilik. Ezin duzu gunea bisitatzeko salbuespenik gehitu.">
 <!ENTITY certerror.copyToClipboard.label "Kopiatu testua arbelean">
@@ -172,8 +171,11 @@ was trying to connect. -->
 
 <!ENTITY blockedByPolicy.title "Blokeatutako orria">
 
+
 <!ENTITY clockSkewError.title "Zure ordenagailuaren erlojua gaizki dago">
 <!ENTITY clockSkewError.longDesc "Zure ordenagailuak uste du <span id='wrongSystemTime_systemDate1'/> dela eta honek &brandShortName;(r)i modu seguruan konektatzea eragozten dio. <span class='hostname'></span> bisitatzeko, jarri egunean zure ordenagailuaren erlojua sistemaren ezarpenetan uneko data, ordua eta ordu-zona kontuan hartuz, eta gero berritu <span class='hostname'></span>.">
 
 <!ENTITY prefReset.longDesc "Badirudi zure sareko segurtasun-ezarpenek eragiten dutela hau. Ezarpen lehenetsiak berrezarri nahi dituzu?">
 <!ENTITY prefReset.label "Berrezarri ezarpen lehenetsiak">
+
+<!ENTITY networkProtocolError.title "Sare-protokoloaren errorea">
