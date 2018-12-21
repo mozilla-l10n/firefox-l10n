@@ -22,7 +22,7 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } đang được cập
 update-manual = Cập nhật có tại <label data-l10n-name="manual-link"/>
 update-unsupported = Bạn không thể cập nhật thêm trên hệ thống này nữa. <label data-l10n-name="unsupported-link">Tìm hiểu thêm</label>
 update-restarting = Đang khởi động lại…
-channel-description = Bạn hiện đang trên <label data-l10n-name="current-channel"></label> kênh cập nhật.{ " " }
+channel-description = Bạn hiện đang ở kênh cập nhật <label data-l10n-name="current-channel"></label>.
 warningDesc-version = { -brand-short-name } đang được thử nghiệm và có thể không ổn định.
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> là một <label data-l10n-name="community-exp-creditsLink">cộng đồng toàn cầu</label> cùng chung sức bảo vệ Web mở, công khai và cho phép ai cũng truy cập được.
 community-2 = { -brand-short-name } được thiết kế bởi <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, một <label data-l10n-name="community-creditsLink">cộng đồng toàn cầu</label> cùng chung sức bảo vệ Web mở và cho phép ai cũng truy cập được.
