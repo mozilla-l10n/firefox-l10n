@@ -26,6 +26,7 @@ type-subframe = תת־מסגרת
 type-tracker = רכיב מעקב
 type-addon = תוספת
 type-browser = דפדפן
+type-worker = Worker
 type-other = אחר
 
 ## Values for the Energy Impact column
