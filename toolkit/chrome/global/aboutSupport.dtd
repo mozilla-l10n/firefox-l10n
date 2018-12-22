@@ -7,7 +7,7 @@
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "  Trang này chứa thông tin kĩ thuật có thể có ích khi bạn đang cố giải quyết một vấn đề. Nếu bạn đang tìm câu trả lời cho các câu hỏi thông thường về &brandShortName;, hãy xem <a id='supportLink'>trang web hỗ trợ</a> của chúng tôi.">
 
-<!ENTITY aboutSupport.crashes.title "Trình báo lỗi">
+<!ENTITY aboutSupport.crashes.title "Trình báo cáo lỗi">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in aboutcrashes.ftl. -->
 <!ENTITY aboutSupport.crashes.id "ID báo cáo">
@@ -15,7 +15,7 @@ This is likely the same like id.heading in aboutcrashes.ftl. -->
 <!ENTITY aboutSupport.crashes.allReports "Tất cả các báo cáo lỗi">
 <!ENTITY aboutSupport.crashes.noConfig "Ứng dụng này chưa được thiết lập để hiển thị các báo cáo lỗi.">
 
-<!ENTITY aboutSupport.extensionsTitle "Phần mở rộng">
+<!ENTITY aboutSupport.extensionsTitle "Tiện ích mở rộng">
 <!ENTITY aboutSupport.extensionName "Tên">
 <!ENTITY aboutSupport.extensionEnabled "Đã bật">
 <!ENTITY aboutSupport.extensionVersion "Phiên bản">
@@ -101,6 +101,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "Xác nhận tính toàn vẹn">
 
 <!ENTITY aboutSupport.jsTitle "JavaScript">
+<!ENTITY aboutSupport.jsIncrementalGC "Tăng tốc GC">
 
 <!ENTITY aboutSupport.a11yTitle "Khả năng truy cập">
 <!ENTITY aboutSupport.a11yActivated "Được kích hoạt">
