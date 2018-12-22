@@ -32,9 +32,6 @@ Ping
 <!ENTITY aboutTelemetry.optionGroupOlder "
 Παλαιότερα
 ">
-<!ENTITY aboutTelemetry.payloadChoiceHeader "
-  Ωφέλιμο φορτίο
-">
 <!-- LOCALIZATION NOTE(aboutTelemetry.previousPing, aboutTelemetry.nextPing):
 	These strings are displayed when selecting Archived pings, and they’re
 	used to move to the next or previous ping. -->
@@ -54,6 +51,8 @@ Ping
 <!ENTITY aboutTelemetry.telemetryDashboard "
 Οι <a>πίνακες τηλεμετρίας</a> σάς επιτρέπουν να βλέπετε τα δεδομένα που λαμβάνει η Mozilla μέσω της τηλεμετρίας.
 ">
+
+<!ENTITY aboutTelemetry.telemetryProbeDictionary "Το <a>λεξικό ερευνών</a> παρέχει λεπτομέρειες και περιγραφές για τις έρευνες που συλλέχθηκαν από την Τηλεμετρία.">
 
 <!ENTITY aboutTelemetry.showInFirefoxJsonViewer "
 Άνοιγμα στην προβολή JSON
@@ -87,15 +86,9 @@ Ping
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "
   Απλές μετρήσεις
 ">
-<!ENTITY aboutTelemetry.telemetryLogSection "
-  Αρχείο καταγραφής τηλεμετρίας
-">
 <!ENTITY aboutTelemetry.slowSqlSection "
   Αργές εντολές SQL
 ">
-<!ENTITY aboutTelemetry.chromeHangsSection '
-  "Κολλήματα" προγράμματος περιήγησης
-'>
 <!ENTITY aboutTelemetry.addonDetailsSection "
   Λεπτομέρειες προσθέτου
 ">
