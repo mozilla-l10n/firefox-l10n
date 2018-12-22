@@ -5,7 +5,7 @@
 blocklist-window =
     .title = Λίστες αποκλεισμού
     .style = width: 55em
-blocklist-desc = Μπορείτε να επιλέξετε ποια λίστα θα χρησιμοποιεί ο { -brand-short-name } για να αποκλείει στοιχεία της σελίδας που μπορεί να καταγράφουν τη συμπεριφορά σας.
+blocklist-desc = Μπορείτε να επιλέξετε ποια λίστα θα χρησιμοποιεί το { -brand-short-name } για να αποκλείει διαδικτυακά στοιχεία που μπορεί να καταγράφουν τη συμπεριφορά σας.
 blocklist-close-key =
     .key = w
 blocklist-treehead-list =

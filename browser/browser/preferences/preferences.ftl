@@ -6,6 +6,8 @@ do-not-track-description = Αποστολή σήματος “Αποτροπή �
 do-not-track-learn-more = Μάθετε περισσότερα
 do-not-track-option-default =
     .label = Μόνο κατά τη χρήση προστασίας από καταγραφή
+do-not-track-option-default-content-blocking-known =
+    .label = Μόνο όταν το { -brand-short-name } έχει ρυθμιστεί για φραγή γνωστών ιχνηλατών
 do-not-track-option-always =
     .label = Πάντα
 pref-page =
@@ -51,6 +53,7 @@ pane-sync-title = Λογαριασμός Firefox
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = Υποστήριξη { -brand-short-name }
+addons-button-label = Επεκτάσεις & θέματα
 focus-search =
     .key = f
 close-button =
@@ -81,6 +84,9 @@ extension-controlled-homepage-override = Μια επέκταση, το <img data
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
 extension-controlled-new-tab-url = Μια επέκταση, το <img data-l10n-name="icon"/> { $name }, ελέγχει τη σελίδα νέας καρτέλας.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlled-web-notifications = Μια επέκταση, το <img data-l10n-name="icon"/> { $name }, ελέγχει αυτή τη ρύθμιση.
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
 extension-controlled-default-search = Μια επέκταση, <img data-l10n-name="icon"/> { $name }, έχει ορίσει την προεπιλεγμένη μηχανή αναζήτησης.
@@ -600,6 +606,9 @@ sitedata-keep-until-expire =
     .label = να λήξουν
 sitedata-keep-until-closed =
     .label = να κλείσει το { -brand-short-name }
+sitedata-delete-on-close =
+    .label = Διαγραφή cookies και δεδομένων ιστοσελίδων όταν κλείνει το { -brand-short-name }
+    .accesskey = c
 sitedata-allow-cookies-option =
     .label = Αποδοχή cookies και δεδομένων ιστοσελίδων
     .accesskey = Α
@@ -627,6 +636,9 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Εξαιρέσεις…
     .accesskey = Ε
+sitedata-cookies-permissions =
+    .label = Διαχείριση δικαιωμάτων…
+    .accesskey = δ
 
 ## Privacy Section - Address Bar
 
@@ -699,6 +711,17 @@ content-blocking-third-party-cookies = Cookies καταγραφής τρίτων
 content-blocking-all-windows-trackers = Γνωστοί ιχνηλάτες σε όλα τα ιδιωτικά παράθυρα
 content-blocking-all-third-party-cookies = Όλα τα cookies τρίτων
 content-blocking-warning-title = Προσοχή!
+content-blocking-warning-desc = Η φραγή των cookies και των ιχνηλατών μπορεί να προκαλέσει δυσλειτουργία σε ορισμένες ιστοσελίδες. Μπορείτε εύκολα να απενεργοποιήσετε τη φραγή σε ιστοσελίδες που εμπιστεύεστε.
+content-blocking-learn-how = Μάθετε πώς
+content-blocking-trackers-label =
+    .label = Ιχνηλάτες
+    .accesskey = Ι
+content-blocking-tracking-protection-option-all-windows =
+    .label = Σε όλα τα παράθυρα
+    .accesskey = ό
+content-blocking-option-private =
+    .label = Μόνο σε ιδιωτικά παράθυρα
+    .accesskey = ι
 content-blocking-tracking-protection-change-block-list = Αλλαγή λίστας φραγής
 content-blocking-third-party-cookies-label =
     .label = Cookies τρίτων
