@@ -232,6 +232,7 @@ tälle varmenteelle ei voi luoda poikkeusta.">
 
 <!ENTITY blockedByPolicy.title "Estetty sivu">
 
+<!ENTITY certerror.mitm.title "Ohjelmisto estää &brandShortName;ia yhdistämästä turvallisesti tähän sivustoon">
 
 <!ENTITY clockSkewError.title "Tietokoneen kello on väärässä ajassa">
 <!ENTITY clockSkewError.longDesc "Tietokoneesi mukaan nyt on <span id='wrongSystemTime_systemDate1'/>, minkä takia &brandShortName; ei voi muodostaa suojattua yhteyttä. Jotta voit siirtyä sivustolle <span class='hostname'></span>, avaa järjestelmäasetukset ja päivitä sieltä tietokoneen kello nykyiseen päivään, aikaan ja aikavyöhykkeeseen. Lopuksi lataa <span class='hostname'></span> uudestaan.">
