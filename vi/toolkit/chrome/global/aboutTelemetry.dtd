@@ -2,6 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY aboutTelemetry.pingDataSource "Nguồn dữ liệu ping:">
+<!ENTITY aboutTelemetry.showCurrentPingData "Dữ liệu ping hiện tại">
+<!ENTITY aboutTelemetry.showArchivedPingData "Dữ liệu ping đă lưu trữ">
+<!ENTITY aboutTelemetry.showSubsessionData "Hiển thị dữ liệu phụ">
+<!ENTITY aboutTelemetry.choosePing "Chọn ping:">
+<!ENTITY aboutTelemetry.archivePingType "Kiểu ping">
+<!ENTITY aboutTelemetry.archivePingHeader "Ping">
 <!ENTITY aboutTelemetry.optionGroupToday "Hôm nay">
 <!ENTITY aboutTelemetry.optionGroupYesterday "Hôm qua">
 <!ENTITY aboutTelemetry.optionGroupOlder "Cũ hơn">
