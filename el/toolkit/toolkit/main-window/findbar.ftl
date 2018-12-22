@@ -15,6 +15,14 @@ findbar-highlight-all =
     .label = Επισήμανση όλων
     .accesskey = λ
     .tooltiptext = Επισήμανση όλων των εμφανίσεων της φράσης
+findbar-highlight-all2 =
+    .label = Επισήμανση όλων
+    .accesskey =
+        { PLATFORM() ->
+            [macos] λ
+           *[other] ω
+        }
+    .tooltiptext = Επισήμανση όλων των εμφανίσεων της φράσης
 findbar-case-sensitive =
     .label = Συμφωνία πεζών-κεφαλαίων
     .accesskey = φ
