@@ -293,6 +293,9 @@ update-enable-search-update =
     .label = Metre a jorn automaticament los motors de recèrca
     .accesskey = m
 update-pref-write-failure-title = Fracàs d’escritura
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = Enregistrament impossible de las preferéncias. Impossible d’escriure dins lo fichièr : { $path }
 
 ## General Section - Performance
 
@@ -639,6 +642,9 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Excepcions…
     .accesskey = E
+sitedata-cookies-permissions =
+    .label = Gerir las autorizacions…
+    .accesskey = a
 
 ## Privacy Section - Address Bar
 
@@ -672,6 +678,12 @@ content-blocking-toggle-label-on = ACTIU
 content-blocking-toggle-label-off = INACTIU
     .accesskey = I
 content-blocking-category-label = Seleccionar lo contengut de blocar
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-slow-loading-trackers-label =
+    .label = Traçadors lents
+    .accesskey = T
 content-blocking-tracking-protection-trackers-label =
     .label = Traçadors
     .accesskey = T
@@ -694,13 +706,21 @@ content-blocking-private-trackers = Los traçadors coneguts dins las fenèstras 
 content-blocking-third-party-cookies = Cookies de seguiment tèrces
 content-blocking-all-windows-trackers = Traçadors coneguts dins totas las fenèstras
 content-blocking-all-third-party-cookies = Totes los cookies tèrces
+content-blocking-warning-title = Atencion !
 content-blocking-learn-how = Ne saber mai
 content-blocking-trackers-label =
     .label = Traçadors
     .accesskey = T
+content-blocking-tracking-protection-option-all-windows =
+    .label = Dins totas las fenèstras
+    .accesskey = D
 content-blocking-option-private =
     .label = Soque las fenèstras privadas
     .accesskey = p
+content-blocking-tracking-protection-change-block-list = Cambiar la lista de blocatge
+content-blocking-third-party-cookies-label =
+    .label = Cookies tèrces
+    .accesskey = C
 content-blocking-change-cookie-settings =
     .label = Cambiar los paramètres de cookies
     .accesskey = C
@@ -734,6 +754,9 @@ tracking-exceptions =
 tracking-change-block-list =
     .label = Cambiar la lista de blocatge…
     .accesskey = C
+tracking-manage-exceptions =
+    .label = Gerir las excepcions…
+    .accesskey = x
 
 ## Privacy Section - Permissions
 

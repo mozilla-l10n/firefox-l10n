@@ -17,7 +17,6 @@ policy-BlockAboutConfig = Blòca l’accès a la pagina about:config.
 policy-BlockAboutProfiles = Blòca l’accès a la pagina about:profiles.
 policy-BlockAboutSupport = Blòca l’accès a la pagina about:support.
 policy-Bookmarks = Permet de crear de marcapaginas dins la barra personala, lo menú dels marcapaginas o un dels jos-dorsièrs.
-policy-Certificates = Permet d’utilizar o non de certificats integrats. Aquesta politica es especifica a Windows pel moment.
 policy-CertificatesDescription = Apondre de certificats o utilizar de certificats predefinits.
 policy-Cookies = Permet o defend als sites de definir de cookies.
 policy-DisableAppUpdate = Empacha lo navigador de se metre a jorn.
@@ -35,17 +34,24 @@ policy-DisablePocket = Desactiva la foncionalitat d’enregistrament de paginas 
 policy-DisablePrivateBrowsing = Desactiva la navigacion privada.
 policy-DisableProfileImport = Desactiva la comanda de menú que permet d’importar de donadas a partir d’un autre navegador.
 policy-DisableProfileRefresh = Desactiva lo boton Actualizar de { -brand-short-name } dins la pagina about:support.
+policy-DisableSetAsDesktopBackground = Desactiva la comanda contèxtuala Causir l’image coma fons d’ecran pels imatges.
 policy-DisableTelemetry = Desactiva la telemetria.
 policy-DisplayBookmarksToolbar = Aficha la barra personala per defaut.
 policy-DisplayMenuBar = Aficha la barra de menús per defaut.
 policy-DNSOverHTTPS = Permet de configurar lo DNS over HTTPS.
+policy-DontCheckDefaultBrowser = Desactiva la verificacion del navegador per defaut en aviar.
+# “lock” means that the user won’t be able to change this setting
+policy-EnableTrackingProtection = Activa o desactiva lo blocatge del contengut e permet de clavar aqueste causida.
 policy-FlashPlugin = Autoriza o pas l’utilizacion del plugin Flash.
 policy-HardwareAcceleration = Se fals, desactiva l’acceleracion materiala.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Definís la pagina d’acuèlh e prepausa de la verrolhar.
 policy-InstallAddonsPermission = Autoriza certans sites web d'installar d'extensions.
 policy-Permissions = Configurar las autorizacions per la camèra, lo microfòn, lo localizacion e las notificacions.
+policy-PopupBlocking = Autoriza unes sites web a mostrar de fenèstras surgentas per defaut.
 policy-Proxy = Configura los paramètres del servidor mandatari.
+policy-RequestedLocales = Definís la lista de las lengas demandadas per l’aplicacion dins l‘òrdre de preferéncia.
 policy-SanitizeOnShutdown = Suprimís totas las donadas de navigacion a la tampadura.
+policy-SearchBar = Definís l’emplaçament per defaut de la barra de recèrca. L’utilizaire garda la possibilitat de personalizar aquò.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Permet d’installar de moduls PKCS #11.
