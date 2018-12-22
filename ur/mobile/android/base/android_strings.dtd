@@ -4,7 +4,7 @@
 
 <!ENTITY firstrun_panel_title_welcome "خوش آمدید">
 <!ENTITY firstrun_urlbar_message2 "&brandShortName; کا انتخاب کرنے کے لئے شکریہ">
-<!ENTITY firstrun_urlbar_subtext2 "ایک جدید موبائل براؤزر موزیلا سے غیر منافع بخش ایک مفت اور آزاد ویب کے لیے پُر عزم ہے۔">
+<!ENTITY firstrun_urlbar_subtext2 "ایک جدید موبائل براؤزر Mozilla سے غیر منافع بخش ایک مفت اور آزاد ویب کے لیے پُر عزم ہے۔">
 <!ENTITY firstrun_panel_title_privacy "رازداری">
 <!ENTITY firstrun_privacy_message "اس طرح براؤز کریں جیسے کوئی نہیں دیکھ رہا">
 <!ENTITY firstrun_privacy_subtext "سراغ راہ حفاظت کاری کے ساتھ نجی برائوزنگ سراغ راہ کو آپ کی برائوزنگ کے دوران بلاک کرتی اور آپکے سابقات بھی یاد نہیں رکھتی جب آپ برائوزنگ مکمل کرتے ہیں۔">
@@ -290,11 +290,15 @@
 <!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
      Similar to the already existing "pref_whats_new_notification_summary"-->
 <!ENTITY pref_feature_tips_notification_summary "&brandShortName; کے استعمال اور دیگر &vendorShortName; مصنوعات کے بارے میں مزید سیکھیں">
-
 <!-- Localization note (pref_feature_tips_notification_enabling_hint):
      Describe the action the user should do to enable this preference
      Will be used in the context "<Turn on> ... to enable this feature" -->
 <!ENTITY pref_feature_tips_notification_enabling_hint "شرو کریں">
+
+<!-- Localization note (pref_feature_tips_notification_enabling_path):
+     Nothing to translate. Simple concatenation of already localized strings. Result is used below. -->
+<!-- Localization note (pref_feature_tips_notification_enabling_hint):
+     Describe the action the user should do to enable this preference. -->
 
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
@@ -837,8 +841,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY whatsnew_notification_title "&brandShortName; تازہ ترین ہے">
 <!ENTITY whatsnew_notification_summary "ڈھونڈیں اس ورژن میں کیا نیا ہے">
 
-<!ENTITY promotion_add_page_shortcut "صفحہ کے تیز راہ کا اظافہ کریں">
-
 <!ENTITY helper_first_offline_bookmark_title "آف لائن پڑھیں">
 <!ENTITY helper_first_offline_bookmark_message "نشانیاں میں اپنے قارئین کے لنک اشیاء، بھی آف لائن تلاش کریں.">
 <!ENTITY helper_first_offline_bookmark_button "نشانیوں پر جائیں">
@@ -898,13 +900,16 @@ Picture-in-picture mini window -->
 
 <!-- Notification channels names -->
 <!ENTITY default_notification_channel "&brandShortName;">
+
+<!-- Notification channels names -->
 <!ENTITY default_notification_channel2 "براؤزر">
 <!ENTITY mls_notification_channel "&vendorShortName; محل وقوع خدمات">
 <!ENTITY download_notification_channel "ڈاؤن لوڈز">
 <!ENTITY media_notification_channel "میڈیا پلے بیک">
-<!ENTITY media_notification_channel2 "آواز اور ویڈیو">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel "&brandShortName; پش اطلاعات">
+<!ENTITY media_notification_channel2 "آواز اور ویڈیو">
+<!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel2 "&vendorShortName; تجاویز اور چالیں">
 <!ENTITY updater_notification_channel "ایپ اپ ڈیٹس">
 <!ENTITY synced_tabs_notification_channel "ہمہ وقت ساز ٹیب">
