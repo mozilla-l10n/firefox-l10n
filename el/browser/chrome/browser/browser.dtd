@@ -30,6 +30,7 @@ a tab (i.e. it is a verb, not adjective). -->
 These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  duplicateTab.accesskey             "Α">
 <!ENTITY  closeTabOptions.label              "Κλείσιμο επιλογών καρτέλας">
+<!ENTITY  closeTabOptions.accesskey          "Κ">
 <!-- LOCALIZATION NOTE (duplicateTabs.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
 <!ENTITY  duplicateTabs.label                "Αντιγραφή καρτελών">
@@ -274,6 +275,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Το πρόγραμμα περιήγησης ελέγχεται απομακρυσμένα">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Άνοιγμα πίνακα διαδικτυακής ταυτοποίησης">
 
+<!ENTITY urlbar.storageAccessAnchor.tooltip               "Άνοιγμα πίνακα δικαιωμάτων δραστηριότητας περιήγησης">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Διαχείριση του διαμοιρασμού της κάμερας και/ή του μικροφώνου σας για τον ιστοτόπο">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Διαχείριση του διαμοιρασμού του μικροφώνου σας για τον ιστοτόπο">

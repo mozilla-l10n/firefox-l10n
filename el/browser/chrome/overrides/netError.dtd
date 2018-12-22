@@ -151,6 +151,7 @@
 
 <!ENTITY certerror.longpagetitle1 "Η σύνδεσή σας δεν είναι ασφαλής">
 <!ENTITY certerror.longpagetitle2 "Προειδοποίηση: Πιθανός κίνδυνος ασφαλείας">
+<!ENTITY certerror.sts.longpagetitle  "Δεν έγινε σύνδεση: Πιθανό ζήτημα ασφαλείας">
 <!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
@@ -214,6 +215,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.pagetitle1  "Μη ασφαλής σύνδεση">
 <!ENTITY certerror.pagetitle2  "Προειδοποίηση: Πιθανός κίνδυνος ασφαλείας">
+<!ENTITY certerror.sts.pagetitle  "Δεν έγινε σύνδεση: Πιθανό ζήτημα ασφαλείας">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Αυτός ο ιστότοπος χρησιμοποιεί ασφάλεια
 HTTP Strict Transport Security (HSTS) που καθορίζει ότι το &brandShortName; μπορεί να συνδεθεί
 μόνο με ασφαλή τρόπο σε αυτόν. Ως εκ τούτου, είναι αδύνατον να προσθέσετε εξαίρεση
@@ -228,6 +230,7 @@ HTTP Strict Transport Security (HSTS) που καθορίζει ότι το &bra
 
 <!ENTITY blockedByPolicy.title "Αποκλεισμένη σελίδα">
 
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "Αν είστε σε ένα εταιρικό δίκτυο, μπορείτε να επικοινωνήσετε με το τμήμα πληροφορικής σας.">
 
 <!ENTITY clockSkewError.title "Το ρολόι του υπολογιστή σας είναι λάθος">
 <!ENTITY clockSkewError.longDesc "Ο υπολογιστής σας νομίζει ότι είναι <span id='wrongSystemTime_systemDate1'/>, εμποδίζοντας την ασφαλή σύνδεση του &brandShortName;. Για να επισκεφθείτε το <span class='hostname'></span>, ενημερώστε το ρολόι του υπολογιστή στην τρέχουσα ημερομηνία, ώρα και ζώνη ώρας από τις ρυθμίσεις συστήματος και, έπειτα, κάντε ανανέωση του <span class='hostname'></span>.">
