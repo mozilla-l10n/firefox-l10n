@@ -58,6 +58,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsPerformance "Hiệu suất">
 
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
+<!ENTITY aboutSupport.appBasicsServiceWorkers "Các Service Worker đã đăng ký">
 
 <!ENTITY aboutSupport.appBasicsProfiles "Tiểu sử">
 
@@ -127,8 +128,10 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsFeaturesTitle "Tính năng">
 <!ENTITY aboutSupport.graphicsDiagnosticsTitle "Chẩn đoán">
+<!ENTITY aboutSupport.graphicsFailureLogTitle "Nhật ký lỗi">
 <!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
 <!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
+<!ENTITY aboutSupport.graphicsWorkaroundsTitle "Cách giải quyết">
 
 <!ENTITY aboutSupport.mediaTitle "Đa phương tiện">
 <!ENTITY aboutSupport.mediaOutputDevicesTitle "Các thiết bị đầu ra">
