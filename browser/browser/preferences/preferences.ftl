@@ -135,6 +135,8 @@ set-as-my-default-browser =
 startup-restore-previous-session =
     .label = Επαναφορά προηγούμενης συνεδρίας
     .accesskey = σ
+startup-restore-warn-on-quit =
+    .label = Προειδοποίηση κατά την έξοδο από το πρόγραμμα περιήγησης
 disable-extension =
     .label = Απενεργοποίηση επέκτασης
 tabs-group-header = Καρτέλες
@@ -261,7 +263,7 @@ play-drm-content =
     .accesskey = Α
 play-drm-content-learn-more = Μάθετε περισσότερα
 update-application-title = Ενημερώσεις του { -brand-short-name }
-update-application-description = Κρατήστε το { -brand-short-name } ενημερωμένο για καλύτερη απόδοση, σταθερότητα κι ασφάλεια.
+update-application-description = Διατηρείστε το { -brand-short-name } ενημερωμένο για καλύτερη απόδοση, σταθερότητα και ασφάλεια.
 update-application-version = Έκδοση { $version } <a data-l10n-name="learn-more">Τι νέο υπάρχει</a>
 update-history =
     .label = Εμφάνιση ιστορικού ενημερώσεων…
@@ -321,6 +323,9 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Αναζήτηση κειμένου κατά την έναρξη πληκτρολόγησης
     .accesskey = ν
+browsing-cfr-recommendations =
+    .label = Πρόταση επεκτάσεων κατά την περιήγησή σας
+    .accesskey = Π
 browsing-cfr-recommendations-learn-more = Μάθετε περισσότερα
 
 ## General Section - Proxy
@@ -642,6 +647,7 @@ addressbar-suggestions-settings = Αλλαγή προτιμήσεων για τ�
 
 content-blocking-header = Φραγή περιεχομένου
 content-blocking-desc = Αποκλείστε περιεχόμενο από τρίτους, όπως διαφημίσεις ή κώδικα, που μπορεί να επιβραδύνει την περιήγησή σας και να καταγράψει τη δραστηριότητα σας στο διαδίκτυο. Προσαρμόστε τις ρυθμίσεις σας για την καλύτερη ισορροπία προστασίας και απόδοσης.
+content-blocking-description = Αποκλείστε περιεχόμενο τρίτων που σάς παρακολουθεί στο διαδίκτυο. Ελέγξτε πόση διαδικτυακή δραστηριότητα αποθηκεύεται και κοινοποιείται στις ιστοσελίδες.
 content-blocking-learn-more = Μάθετε περισσότερα
 content-blocking-restore-defaults =
     .label = Επαναφορά προεπιλογών
@@ -673,6 +679,26 @@ content-blocking-tracking-protection-option-always =
 content-blocking-tracking-protection-option-private =
     .label = Μόνο σε ιδιωτικά παράθυρα
     .accesskey = ι
+# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+content-blocking-setting-standard =
+    .label = Τυπική
+    .accesskey = Τ
+content-blocking-setting-strict =
+    .label = Αυστηρή
+    .accesskey = Α
+content-blocking-setting-custom =
+    .label = Προσαρμοσμένη
+    .accesskey = Π
+content-blocking-standard-description = Αποκλείει μόνο γνωστούς ιχνηλάτες στα ιδιωτικά παράθυρα.
+content-blocking-standard-desc = Ισορροπία ανάμεσα σε προστασία και επιδόσεις. Επιτρέπει ορισμένους ιχνηλάτες για τη σωστή λειτουργία των ιστοσελίδων.
+content-blocking-strict-desc = Αποκλείει όλους τους ιχνηλάτες που ανιχνεύει το { -brand-short-name }. Ορισμένες ιστοσελίδες ενδέχεται να δυσλειτουργούν.
+content-blocking-custom-desc = Επιλέξτε τι θα αποκλείεται.
+content-blocking-private-trackers = Γνωστοί ιχνηλάτες μόνο σε ιδιωτικά παράθυρα
+content-blocking-third-party-cookies = Cookies καταγραφής τρίτων
+content-blocking-all-windows-trackers = Γνωστοί ιχνηλάτες σε όλα τα ιδιωτικά παράθυρα
+content-blocking-all-third-party-cookies = Όλα τα cookies τρίτων
+content-blocking-warning-title = Προσοχή!
 content-blocking-tracking-protection-change-block-list = Αλλαγή λίστας φραγής
 content-blocking-third-party-cookies-label =
     .label = Cookies τρίτων
