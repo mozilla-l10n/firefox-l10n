@@ -16,6 +16,7 @@ policy-BlockAboutConfig = Φραγή πρόσβασης στη σελίδα abou
 policy-BlockAboutProfiles = Φραγή πρόσβασης στη σελίδα about:profiles.
 policy-BlockAboutSupport = Φραγή πρόσβασης στη σελίδα about:support.
 policy-Bookmarks = Δημιουργία σελιδοδεικτών στη γραμμή σελιδοδεικτών, στο μενού σελιδοδεικτών ή σε ένα συγκεκριμένο φάκελο μέσα τους.
+policy-CertificatesDescription = Προσθήκη πιστοποιητικών ή χρήση ενσωματωμένων πιστοποιητικών.
 policy-Cookies = Αποδοχή ή άρνηση αιτημάτων αποθήκευσης cookies.
 policy-DisableAppUpdate = Αποτροπή ενημέρωσης προγράμματος περιήγησης.
 policy-DisableBuiltinPDFViewer = Απενεργοποίηση PDF.js, του ενσωματωμένου προγράμματος προβολής PDF στο { -brand-short-name }.
@@ -32,7 +33,6 @@ policy-DisablePrivateBrowsing = Απενεργοποίηση ιδιωτικής 
 policy-DisableProfileImport = Απενεργοποίηση της εντολής μενού για εισαγωγή δεδομένων από άλλο πρόγραμμα περιήγησης.
 policy-DisableProfileRefresh = Απενεργοποίηση του κουμπιού ανανέωσης { -brand-short-name } στη σελίδα about:support.
 policy-DisableSecurityBypass = Αποτροπή παράκαμψης ορισμένων προειδοποιήσεων ασφαλείας από το χρήστη.
-policy-DisableSetDesktopBackground = Απενεργοποίηση της εντολής μενού "Ορισμός εικόνας ως φόντου επιφάνειας εργασίας".
 policy-DisableSetAsDesktopBackground = Απενεργοποίηση της εντολής μενού "Ορισμός ως φόντο επιφάνειας εργασίας" για εικόνες.
 policy-DisableSystemAddonUpdate = Αποτροπή εγκατάστασης και ενημέρωσης προσθέτων συστήματος από το πρόγραμμα περιήγησης.
 policy-DisableTelemetry = Απενεργοποίηση τηλεμετρίας.
@@ -44,8 +44,7 @@ policy-DontCheckDefaultBrowser = Απενεργοποίηση ελέγχου γ�
 policy-EnableTrackingProtection = Ενεργοποίηση ή απενεργοποίηση φραγής περιεχομένου και προαιρετικό κλείδωμα.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
-# English or translate them as verbs. See also:
-# https://github.com/mozilla/policy-templates/blob/master/README.md#extensions-machine-only
+# English or translate them as verbs.
 policy-Extensions = Εγκατάσταση, απεγκατάσταση ή κλείδωμα επεκτάσεων. Η επιλογή εγκατάστασης λαμβάνει τα URLs ή τις διαδρομές ως παραμέτρους. Οι επιλογές απεγκατάστασης και κλειδώματος λαμβάνουν IDs επεκτάσεων.
 policy-FlashPlugin = Αποδοχή ή απόρριψη χρήσης του αρθρώματος Flash.
 policy-HardwareAcceleration = Αν είναι ψευδές, απενεργοποίηση επιτάχυνσης υλικού.
