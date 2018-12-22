@@ -153,9 +153,6 @@ open-new-link-as-tabs =
 warn-on-close-multiple-tabs =
     .label = Varoita, kun olen sulkemassa useita välilehtiä
     .accesskey = V
-warn-on-quit-close-multiple-tabs =
-    .label = Varoita, kun olen sulkemassa ohjelman tai useita välilehtiä
-    .accesskey = V
 warn-on-open-many-tabs =
     .label = Varoita, kun useiden välilehtien avaaminen voi hidastaa { -brand-short-name }ia
     .accesskey = r
@@ -820,6 +817,9 @@ collection-health-report-link = Lue lisää
 collection-studies =
     .label = Salli, että { -brand-short-name } asentaa ja suorittaa tutkimuksia
 collection-studies-link = Näytä { -brand-short-name }-tutkimukset
+addon-recommendations =
+    .label = Salli { -brand-short-name }in tehdä henkilökohtaisia laajennussuosituksia
+addon-recommendations-link = Lue lisää
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Tietojen kerääminen ei ole käytössä tässä koostamiskokoonpanossa
