@@ -26,6 +26,7 @@ type-subframe = Khung phụ
 type-tracker = Trình theo dõi
 type-addon = Tiện ích
 type-browser = Trình duyệt
+type-worker = Worker
 type-other = Khác
 
 ## Values for the Energy Impact column
