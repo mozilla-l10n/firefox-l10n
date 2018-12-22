@@ -17,12 +17,12 @@ This is likely the same like id.heading in aboutcrashes.ftl. -->
 
 <!ENTITY aboutSupport.extensionsTitle "Phần mở rộng">
 <!ENTITY aboutSupport.extensionName "Tên">
-<!ENTITY aboutSupport.extensionEnabled "Kích hoạt">
+<!ENTITY aboutSupport.extensionEnabled "Đã bật">
 <!ENTITY aboutSupport.extensionVersion "Phiên bản">
 <!ENTITY aboutSupport.extensionId "ID">
 
 <!ENTITY aboutSupport.securitySoftwareTitle "Phần mềm bảo mật">
-<!ENTITY aboutSupport.securitySoftwareType "Loại">
+<!ENTITY aboutSupport.securitySoftwareType "Kiểu">
 <!ENTITY aboutSupport.securitySoftwareName "Tên">
 <!ENTITY aboutSupport.securitySoftwareAntivirus "Trình chống vi-rút">
 <!ENTITY aboutSupport.securitySoftwareAntiSpyware "Trình chống phần mềm do thám">
@@ -115,7 +115,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyTextToClipboard.label "Chép văn bản vào bảng tạm">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Chép dữ liệu thô vào bảng tạm">
 
-<!ENTITY aboutSupport.sandboxTitle "Sandbox">
+<!ENTITY aboutSupport.sandboxTitle "Hộp cát">
 <!ENTITY aboutSupport.sandboxSyscallIndex "#">
 <!ENTITY aboutSupport.sandboxSyscallAge "Cách đây vài giây">
 <!ENTITY aboutSupport.sandboxSyscallPID "PID">
@@ -123,7 +123,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.sandboxSyscallProcType "Kiểu quy trình">
 
 <!ENTITY aboutSupport.safeModeTitle "Thử dùng chế độ an toàn">
-<!ENTITY aboutSupport.restartInSafeMode.label "Khởi động lại và vô hiệu hóa các tích…">
+<!ENTITY aboutSupport.restartInSafeMode.label "Khởi động lại và vô hiệu hóa các tiện ích…">
 
 <!ENTITY aboutSupport.graphicsFeaturesTitle "Tính năng">
 <!ENTITY aboutSupport.graphicsDiagnosticsTitle "Chẩn đoán">
@@ -143,7 +143,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceRate "Tỉ lệ">
 <!ENTITY aboutSupport.mediaDeviceLatency "Độ trễ">
 
-<!ENTITY aboutSupport.intlTitle "Quốc tế hóa &amp; Bản địa hóa">
+<!ENTITY aboutSupport.intlTitle "Quốc tế hóa &amp; bản địa hóa">
 <!ENTITY aboutSupport.intlAppTitle "Cài đặt ứng dụng">
 <!ENTITY aboutSupport.intlLocalesRequested "Yêu cầu ngôn ngữ">
 <!ENTITY aboutSupport.intlLocalesAvailable "Ngôn ngữ có sẵn">
