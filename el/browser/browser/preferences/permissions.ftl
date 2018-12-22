@@ -58,10 +58,10 @@ permissions-invalid-uri-label = Παρακαλώ εισάγετε ένα έγκ�
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-tracking-protection-window =
-    .title = Εξαιρέσεις - Προστασία από καταγραφή
+permissions-exceptions-content-blocking-window =
+    .title = Εξαιρέσεις - Φραγή περιεχομένου
     .style = { permissions-window.style }
-permissions-exceptions-tracking-protection-desc = Έχετε απενεργοποιήσει την προστασία από καταγραφή σε αυτές τις ιστοσελίδες.
+permissions-exceptions-content-blocking-desc = Έχετε απενεργοποιήσει τη φραγή περιεχομένου σε αυτές τις ιστοσελίδες.
 
 ## Exceptions - Cookies
 
