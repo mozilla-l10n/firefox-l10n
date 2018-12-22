@@ -52,5 +52,6 @@ policy-HardwareAcceleration = Αν είναι ψευδές, απενεργοπο
 policy-Homepage = Ορισμός και προαιρετικό κλείδωμα της αρχικής σελίδας.
 policy-InstallAddonsPermission = Αποδοχή εγκατάστασης προσθέτων από ορισμένες ιστοσελίδες.
 policy-Proxy = Προσαρμογή ρυθμίσεων μεσολάβησης.
+policy-SanitizeOnShutdown = Εκκαθάριση όλων των δεδομένων πλοήγησης κατά τον τερματισμό λειτουργίας.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Εγκατάσταση προσθέτων PKCS #11.
