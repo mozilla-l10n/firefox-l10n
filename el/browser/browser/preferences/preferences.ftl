@@ -290,6 +290,7 @@ update-application-use-service =
 update-enable-search-update =
     .label = Αυτόματη ενημέρωση μηχανών αναζήτησης
     .accesskey = μ
+update-pref-write-failure-title = Αποτυχία εγγραφής
 
 ## General Section - Performance
 

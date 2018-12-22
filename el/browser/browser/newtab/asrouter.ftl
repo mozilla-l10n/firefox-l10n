@@ -11,6 +11,8 @@ cfr-doorhanger-extension-ok-button = Προσθήκη τώρα
     .accesskey = σ
 cfr-doorhanger-extension-manage-settings-button = Διαχείριση ρυθμίσεων προτάσεων
     .accesskey = Δ
+cfr-doorhanger-extension-never-show-recommendation = Να μην εμφανίζεται αυτή η πρόταση
+    .accesskey = Ν
 cfr-doorhanger-extension-learn-more-link = Μάθετε περισσότερα
 # This string is used on a new line below the add-on name
 # Variables:

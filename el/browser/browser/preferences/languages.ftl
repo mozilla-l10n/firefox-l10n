@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-languages-window =
-    .title = Γλώσσες
-    .style = width: 32em
 webpage-languages-window =
     .title = Ρυθμίσεις γλώσσας ιστοσελίδων
     .style = width: 40em
@@ -55,3 +52,4 @@ browser-languages-select-language =
     .placeholder = Επιλέξτε μια γλώσσα για προσθήκη…
 browser-languages-installed-label = Εγκατεστημένες γλώσσες
 browser-languages-available-label = Διαθέσιμες γλώσσες
+browser-languages-error = Το { -brand-short-name } δεν μπορεί να ενημερώσει τις γλώσσες σας αυτή τη στιγμή. Ελέγξτε αν έχετε συνδεθεί στο διαδίκτυο ή δοκιμάστε ξανά.
