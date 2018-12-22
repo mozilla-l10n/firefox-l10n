@@ -911,3 +911,7 @@ space-alert-under-5gb-message = Το { -brand-short-name } δεν έχει επ�
 desktop-folder-name = Επιφάνεια εργασίας
 downloads-folder-name = Ληφθέντα αρχεία
 choose-download-folder-title = Επιλογή φακέλου λήψης αρχείων:
+# Variables:
+#   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
+save-files-to-cloud-storage =
+    .label = Αποθήκευση αρχείων στο { $service-name }
