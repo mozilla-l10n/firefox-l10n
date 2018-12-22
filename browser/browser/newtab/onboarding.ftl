@@ -26,4 +26,11 @@ onboarding-fxa-title = Συγχρονισμός
 
 ## Message strings belonging to the Return to AMO flow
 
+return-to-amo-sub-header = Τέλεια, αποκτήσατε το { -brand-short-name }
+# <icon></icon> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-header = Τώρα, ας αποκτήσουμε το <icon></icon><b>{ $addon-name }.</b>
 return-to-amo-extension-button = Προσθήκη επέκτασης
+return-to-amo-get-started-button = Έναρξη με το { -brand-short-name }

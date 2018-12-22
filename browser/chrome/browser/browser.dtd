@@ -32,8 +32,10 @@ These items have the same accesskey but will never be visible at the same time. 
 <!ENTITY  closeTabOptions.label              "Κλείσιμο επιλογών καρτέλας">
 <!-- LOCALIZATION NOTE (duplicateTabs.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
+<!ENTITY  duplicateTabs.label                "Αντιγραφή καρτελών">
 <!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
+<!ENTITY  duplicateTabs.accesskey            "Α">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -42,6 +44,8 @@ left instead of right. -->
 <!ENTITY  closeOtherTabs.label               "Κλείσιμο των άλλων καρτελών">
 <!ENTITY  closeOtherTabs.accesskey           "ω">
 
+<!ENTITY  closeTabs.label                    "Κλείσιμο καρτελών">
+<!ENTITY  closeTabs.accesskey                "ν">
 <!ENTITY  pinSelectedTabs.label              "Καρφίτσωμα καρτελών">
 <!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
@@ -54,6 +58,8 @@ same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinSelectedTabs.accesskey        "λ">
 <!-- LOCALIZATION NOTE(reloadTab.label, reloadTabs.label): have the same accesskey
 but will never be visible at the same time. -->
+<!ENTITY  reloadTabs.label                   "Ανανέωση καρτελών">
+<!ENTITY  reloadTabs.accesskey               "Α">
 <!ENTITY  bookmarkSelectedTabs.label         "Προσθήκη καρτελών στους σελιδοδείκτες…">
 <!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
@@ -120,6 +126,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.accesskey "κ">
 <!ENTITY printCmd.commandkey "p">
 
+<!ENTITY taskManagerCmd.label "Διαχείριση εργασιών">
 
 <!ENTITY goOfflineCmd.label "Εργασία χωρίς σύνδεση">
 <!ENTITY goOfflineCmd.accesskey "χ">
@@ -966,6 +973,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This label signals that this type of content blocking is turned
      ON, so this is a positive thing. It forms the verb in (imaginary) sentence
      "Firefox is blocking Slow-Loading Trackers"-->
+<!ENTITY contentBlocking.fastBlock.blocking.label "Φραγή">
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
@@ -985,6 +993,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This label signals that this type of content blocking is turned
      ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
      "Firefox is blocking Trackers"-->
+<!ENTITY contentBlocking.trackingProtection.blocking.label "Φραγή">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
@@ -992,6 +1001,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackingProtection.add.label "Προσθήκη φραγής…">
 
 <!ENTITY contentBlocking.3rdPartyCookies.label "Cookies τρίτων">
+<!ENTITY contentBlocking.3rdPartyCookies.trackers.label "Cookies καταγραφής">
 <!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking third-party cookies, so this is
@@ -1002,14 +1012,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This label signals that this type of content blocking is turned
      ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
      "Firefox is blocking Third-Party Cookies"-->
+<!ENTITY contentBlocking.3rdPartyCookies.blocking.label "Φραγή">
 <!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.3rdPartyCookies.add.label "Προσθήκη φραγής…">
 
+<!ENTITY contentBlocking.manageSettings.label "Διαχείριση φραγής περιεχομένου">
+<!ENTITY contentBlocking.manageSettings.accesskey "Δ">
 
 <!ENTITY contentBlocking.trackersView.label "Ιχνηλάτες">
+<!ENTITY contentBlocking.trackersView.strictInfo.label "Για να αποκλείσετε όλους τους ιχνηλάτες, ορίστε τη φραγή περιεχομένου σε “Αυστηρή”.">
 
 <!ENTITY contentBlocking.cookies.label "Cookies">
 <!ENTITY contentBlocking.cookiesView.label "Cookies και δεδομένα ιστοσελίδων">
@@ -1042,9 +1056,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock5.label "Απενεργοποίηση φραγής για αυτή την ιστοσελίδα">
+<!ENTITY trackingProtection.unblock5.accesskey "Α">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate6.label, trackingProtection.unblockPrivate6.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate5.label "Προσωρινή απενεργοποίηση φραγής">
+<!ENTITY trackingProtection.unblockPrivate5.accesskey "Π">
+<!ENTITY trackingProtection.block6.label "Ενεργοποίηση φραγής για αυτή την ιστοσελίδα">
+<!ENTITY trackingProtection.block6.accesskey "Ε">
 <!ENTITY trackingProtection.reload2.label "Ανανέωση σελίδας">
 <!ENTITY trackingProtection.reload2.accesskey "Α">
 

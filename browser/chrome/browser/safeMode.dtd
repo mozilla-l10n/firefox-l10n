@@ -9,7 +9,7 @@
 <!ENTITY refreshProfile.label         "Ανανέωση του &brandShortName;">
 
 <!ENTITY safeModeDescription3.label   "Η Ασφαλής λειτουργία είναι μια ειδική λειτουργία του &brandShortName; που μπορεί να χρησιμοποιηθεί για την αντιμετώπιση πιθανών προβλημάτων.">
-<!ENTITY safeModeDescription4.label   "Τα πρόσθετα και οι προσαρμοσμένες ρυθμίσεις σας θα απενεργοποιηθούν προσωρινά.">
+<!ENTITY safeModeDescription5.label   "Τα πρόσθετα και οι προσαρμοσμένες ρυθμίσεις σας θα απενεργοποιηθούν προσωρινά και τα χαρακτηριστικά του &brandShortName; ενδέχεται να μην λειτουργούν όπως τώρα.">
 
 <!ENTITY refreshProfileInstead.label  "Μπορείτε επίσης να παραλείψετε την αντιμετώπιση προβλημάτων και να δοκιμάσετε την ανανέωση του &brandShortName;.">
 
