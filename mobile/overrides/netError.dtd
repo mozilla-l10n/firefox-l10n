@@ -212,3 +212,6 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p>ב־<span class='hostname'></span> נעשה שימוש בטכנולוגיית אבטחה מיושנת וחשופה לתקיפות. לתוקף יש אפשרות לחשוף בקלות מידע שעשוי להחשב כמאובטח. על מנהל האתר לתקן את השרת תחילה לפני שיתאפשר לך לבקר באתר.</p><p>קוד שגיאה: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+<!ENTITY networkProtocolError.title "שגיאת פרוטוקול רשת">
+<!ENTITY networkProtocolError.longDesc "<p>לא ניתן להציג את הדף שברצונך לצפות מכיוון שאותרה שגיאה בפרוטוקול הרשת.</p><ul><li>נא ליצור קשר עם בעלי האתר וליידע אותם על בעיה זו.</li></ul>">
