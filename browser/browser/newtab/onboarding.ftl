@@ -6,6 +6,7 @@
 ## UI strings for the simplified onboarding modal
 
 onboarding-button-label-try-now = Δοκιμή τώρα
+onboarding-button-label-get-started = Έναρξη
 onboarding-welcome-header = Καλώς ήλθατε στο { -brand-short-name }
 onboarding-start-browsing-button-label = Έναρξη περιήγησης
 
@@ -22,3 +23,7 @@ onboarding-addons-title = Πρόσθετα
 onboarding-ghostery-title = Ghostery
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Συγχρονισμός
+
+## Message strings belonging to the Return to AMO flow
+
+return-to-amo-extension-button = Προσθήκη επέκτασης

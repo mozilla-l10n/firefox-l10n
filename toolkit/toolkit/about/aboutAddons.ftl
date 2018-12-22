@@ -4,6 +4,9 @@
 
 addons-window =
     .title = Διαχείριση προσθέτων
+search-header =
+    .placeholder = Αναζήτηση στο addons.mozilla.org
+    .searchbuttonlabel = Αναζήτηση
 search-header-shortcut =
     .key = f
 loading-label =
@@ -21,6 +24,12 @@ list-empty-button =
 install-addon-from-file =
     .label = Εγκατάσταση πρόσθετου από αρχείο…
     .accesskey = γ
+help-button = Υποστήριξη προσθέτων
+preferences =
+    { PLATFORM() ->
+        [windows] Επιλογές { -brand-short-name }
+       *[other] Προτιμήσεις { -brand-short-name }
+    }
 tools-menu =
     .tooltiptext = Εργαλεία για όλα τα πρόσθετα
 show-unsigned-extensions-button =

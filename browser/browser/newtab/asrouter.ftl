@@ -9,6 +9,8 @@ cfr-doorhanger-extension-cancel-button = Όχι τώρα
     .accesskey = χ
 cfr-doorhanger-extension-ok-button = Προσθήκη τώρα
     .accesskey = σ
+cfr-doorhanger-extension-manage-settings-button = Διαχείριση ρυθμίσεων προτάσεων
+    .accesskey = Δ
 cfr-doorhanger-extension-learn-more-link = Μάθετε περισσότερα
 # This string is used on a new line below the add-on name
 # Variables:

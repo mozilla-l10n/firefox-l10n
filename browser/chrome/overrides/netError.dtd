@@ -10,9 +10,9 @@
 <!ENTITY returnToPreviousPage.label "Επιστροφή">
 <!ENTITY returnToPreviousPage1.label "Επιστροφή (Προτείνεται)">
 <!ENTITY advanced.label "Για προχωρημένους">
-
 <!ENTITY continue2.label "Περισσότερα…">
 <!ENTITY moreInformation.label "Περισσότερες πληροφορίες">
+<!ENTITY viewCertificate.label "Προβολή πιστοποιητικού">
 
 <!-- Specific error messages -->
 
@@ -155,10 +155,8 @@
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Ο ιδιοκτήτης του <span class='hostname'/> δεν έχει ρυθμίσει την ιστοσελίδα του σωστά. Για την προστασία των πληροφοριών σας από κλοπή, το &brandShortName; δεν έχει συνδεθεί με αυτή την ιστοσελίδα.">
-
 <!ENTITY certerror.introPara2 "Το &brandShortName; ανίχνευσε μια πιθανή απειλή ασφαλείας και δεν συνέχισε στο <span class='hostname'/>. Αν επισκεφθείτε αυτή την ιστοσελίδα, οι επιτιθέμενοι ίσως προσπαθήσουν να υποκλέψουν πληροφορίες, όπως κωδικούς πρόσβασης, emails ή λεπτομέρειες πιστωτικής κάρτας.">
 
-<!ENTITY certerror.expiredCert.secondPara "Αυτό το ζήτημα οφείλεται πιθανότατα σε εσφαλμένη ρύθμιση του ρολογιού του υπολογιστή σας, κάτι που θα εμποδίσει την ασφαλή σύνδεση με το &brandShortName;.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Τι μπορείτε να κάνετε γι' αυτό;">
 
@@ -195,7 +193,6 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Προσθήκη εξαίρεσης">
-
 <!ENTITY securityOverride.exceptionButton1Label "Αποδοχή ρίσκου και συνέχεια">
 
 <!ENTITY errorReporting.automatic2 "Αναφέρετε σφάλματα όπως αυτό για να βοηθήσετε τη Mozilla στον εντοπισμό και αποκλεισμό κακόβουλων ιστοσελίδων">
@@ -231,8 +228,11 @@ HTTP Strict Transport Security (HSTS) που καθορίζει ότι το &bra
 
 <!ENTITY blockedByPolicy.title "Αποκλεισμένη σελίδα">
 
+
 <!ENTITY clockSkewError.title "Το ρολόι του υπολογιστή σας είναι λάθος">
 <!ENTITY clockSkewError.longDesc "Ο υπολογιστής σας νομίζει ότι είναι <span id='wrongSystemTime_systemDate1'/>, εμποδίζοντας την ασφαλή σύνδεση του &brandShortName;. Για να επισκεφθείτε το <span class='hostname'></span>, ενημερώστε το ρολόι του υπολογιστή στην τρέχουσα ημερομηνία, ώρα και ζώνη ώρας από τις ρυθμίσεις συστήματος και, έπειτα, κάντε ανανέωση του <span class='hostname'></span>.">
 
 <!ENTITY prefReset.longDesc "Μοιάζει να προκαλείται από τις ρυθμίσεις ασφαλείας του δικτύου σας. Θέλετε να αποκατασταθούν οι προεπιλεγμένες ρυθμίσεις;">
 <!ENTITY prefReset.label "Επαναφορά προεπιλεγμένων ρυθμίσεων">
+
+<!ENTITY networkProtocolError.title "Σφάλμα πρωτοκόλλου δικτύου">
