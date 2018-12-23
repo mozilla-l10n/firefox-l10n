@@ -8,6 +8,8 @@ do-not-track-option-default =
     .label = Samo kada koristim zaštitu od praćenja
 do-not-track-option-default-content-blocking =
     .label = Jedino kada je { -brand-short-name } postavljen da blokira otkrivene pratitelje.
+do-not-track-option-default-content-blocking-known =
+    .label = Samo kada je { -brand-short-name } postavljen da blokira poznate pratitelje
 do-not-track-option-always =
     .label = Uvijek
 pref-page =
@@ -141,6 +143,8 @@ set-as-my-default-browser =
 startup-restore-previous-session =
     .label = Vrati prijašnju sesiju
     .accesskey = s
+startup-restore-warn-on-quit =
+    .label = Upozorava vas prilikom izlaska iz preglednika
 disable-extension =
     .label = Onemogući dodatak
 tabs-group-header = Kartice
@@ -153,9 +157,6 @@ open-new-link-as-tabs =
 warn-on-close-multiple-tabs =
     .label = Upozorava vas pri zatvaranju više kartica
     .accesskey = v
-warn-on-quit-close-multiple-tabs =
-    .label = Upozorava vas kada izlazite i zatvarate više kartica
-    .accesskey = r
 warn-on-open-many-tabs =
     .label = Upozorava vas kod višestrukog otvaranja kartica koje može usporiti { -brand-short-name }
     .accesskey = u
@@ -541,7 +542,6 @@ privacy-header = Privatnost preglednika
 
 ## Privacy Section - Forms
 
-forms-header = Obrasci i lozinke
 logins-header = Prijave i lozinke
 forms-ask-to-save-logins =
     .label = Pitaj za spremanje prijava i lozinka za web stranice
@@ -638,6 +638,14 @@ sitedata-block-all-third-party-option =
     .label = Svi kolačići treće strane (može dovesti do sloma stranice)
 sitedata-block-all-option =
     .label = Svi kolačići (može dovesti do sloma stranice)
+sitedata-option-block-trackers =
+    .label = Pratitelji trećih strana
+sitedata-option-block-unvisited =
+    .label = Kolačići sa stranica koje niste posjetili
+sitedata-option-block-all-third-party =
+    .label = Sve kolačiće trećih strana (može uzrokovati greške na stranici)
+sitedata-option-block-all =
+    .label = Sve kolačiće (uzrokovat će greške na stranicama)
 sitedata-clear =
     .label = Obriši podatke…
     .accesskey = O
@@ -651,6 +659,9 @@ sitedata-cookies-exceptions =
 # in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
 # Cookies and Site Data section.
 sitedata-warning-your-settings-prevent-changes = Vaše postavke u blokiranju sadržaja sprječavaju promjene postavki kolačića i podataka web stranica.
+sitedata-cookies-permissions =
+    .label = Upravljanje dozvolama…
+    .accesskey = U
 
 ## Privacy Section - Address Bar
 
@@ -671,6 +682,7 @@ addressbar-suggestions-settings = Promijenite postavke za prijedloge tražilica
 
 content-blocking-header = Blokiranje sadržaja
 content-blocking-desc = Blokirajte sadržaje trećih strana, kao što su reklame ili kod, koji bi mogli usporiti vaše pregledavanje ili vas pratiti po internetu. Prilagodite svoje postavke za najbolji omjer zaštite i performansi.
+content-blocking-description = Blokirajte sadržaj trećih strana koji vas prati na webu. Kontrolirajte koliko se vaših aktivnosti na mreži sprema i dijeli između web stranica.
 content-blocking-learn-more = Saznajte više
 content-blocking-restore-defaults =
     .label = Vrati zadano
@@ -704,6 +716,19 @@ content-blocking-tracking-protection-option-always =
 content-blocking-tracking-protection-option-private =
     .label = Samo u privatnim prozorima
     .accesskey = p
+# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+content-blocking-setting-standard =
+    .label = Uobičajeno
+    .accesskey = o
+content-blocking-setting-strict =
+    .label = Strogo
+    .accesskey = r
+content-blocking-setting-custom =
+    .label = Prilagođeno
+    .accesskey = P
+content-blocking-standard-description = Blokiraj poznate pratitelje samo u Privatnom pretraživanju.
+content-blocking-learn-how = Saznajte kako
 content-blocking-tracking-protection-change-block-list = Promijenite popis blokiranih
 content-blocking-third-party-cookies-label =
     .label = Kolačići treće strane
@@ -814,6 +839,7 @@ collection-health-report-link = Saznajte više
 collection-studies =
     .label = Dopusti { -brand-short-name }u da instalira i pokreće  studije
 collection-studies-link = Pregledajte { -brand-short-name } studije
+addon-recommendations-link = Saznajte više
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Izvještaji s podacima su onemogućeni za konfiguraciju
