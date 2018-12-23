@@ -64,7 +64,7 @@ but will never be visible at the same time. -->
 <!ENTITY  bookmarkSelectedTabs.label         "Marcar pestañas…">
 <!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  bookmarkSelectedTabs.accesskey     "t">
+<!ENTITY  bookmarkSelectedTabs.accesskey     "M">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -102,7 +102,7 @@ These two items have the same accesskey but will never be visible at the same ti
 <!ENTITY  bookmarkTab.label                  "Marcar pestaña">
 <!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  bookmarkTab.accesskey              "B">
+<!ENTITY  bookmarkTab.accesskey              "M">
 <!ENTITY  undoCloseTab.label                 "Deshacer cerrar pestaña">
 <!ENTITY  undoCloseTab.accesskey             "h">
 <!ENTITY  closeTab.label                     "Cerrar pestaña">
@@ -492,7 +492,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.manageExtension.label "Administrar extensión">
 <!ENTITY customizeMenu.manageExtension.accesskey "E">
 <!ENTITY customizeMenu.removeExtension.label "Eliminar la extensión">
-<!ENTITY customizeMenu.removeExtension.accesskey "v">
+<!ENTITY customizeMenu.removeExtension.accesskey "E">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -1166,7 +1166,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY tabHideControlled.header.message "Acceder a sus pestañas ocultas">
 <!ENTITY tabHideControlled.keepButton.label "Mantener las Pestañas ocultas">
-<!ENTITY tabHideControlled.keepButton.accesskey "K">
+<!ENTITY tabHideControlled.keepButton.accesskey "o">
 <!ENTITY tabHideControlled.disableButton.label "Deshabilitar la extensión">
 <!ENTITY tabHideControlled.disableButton.accesskey "D">
 

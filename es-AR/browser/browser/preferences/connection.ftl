@@ -81,5 +81,5 @@ connection-dns-over-https-url-default =
     .tooltiptext = Usar la URL predeterminada para resolver que DNS tiene prioridad sobre HTTPS
 connection-dns-over-https-url-custom =
     .label = Personalizada
-    .accesskey = C
+    .accesskey = z
     .tooltiptext = Ingrese su URL preferida para resolver que DNS tiene prioridad sobre HTTPS
