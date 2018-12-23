@@ -2,7 +2,16 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+sync-disconnect-dialog =
+    .title = Odjavite se s { -sync-brand-short-name }?
+    .style = width: 36em; min-height: 35em;
+sync-disconnect-heading = Želite li također ukloniti podatke preglednika na ovom računalu? Vaši { -sync-brand-name } podaci će svakako ostati sačuvani u vašem računu.
+sync-disconnect-remove-sync-caption = Ukloni { -sync-brand-name } podatke
+sync-disconnect-remove-sync-data = Zabilješke, povijest, lozinke itd.
 sync-disconnect-remove-other-caption = Ukloni ostale privatne podatke
+sync-disconnect-remove-other-data = Kolačići, predmemorija, izvanmrežni podaci web-lokacije itd.
+# Shown while the disconnect is in progress
+sync-disconnect-disconnecting = Isključivanje…
 sync-disconnect-cancel =
     .label = Otkaži
     .accesskey = O
@@ -15,3 +24,6 @@ sync-disconnect-cancel =
 sync-disconnect-confirm-disconnect-delete =
     .label = Prekini vezu i izbriši
     .accesskey = P
+sync-disconnect-confirm-disconnect =
+    .label = Samo prekini vezu
+    .accesskey = S
