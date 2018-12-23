@@ -237,6 +237,7 @@ was trying to connect. -->
 
 <!ENTITY blockedByPolicy.title "Página bloqueada">
 
+<!ENTITY certerror.mitm.title "Un software que impide a &brandShortName; conectarse de forma segura a este sitio">
 
 <!ENTITY clockSkewError.title "La hora de su equipo es incorrecta">
 <!ENTITY clockSkewError.longDesc "Su equipo piensa que la fecha y hora es <span id='wrongSystemTime_systemDate1'/>, lo que evita que &brandShortName; se conecte de forma segura. Para visitar <span class='hostname'></span>, actualice el reloj de su equipo en los ajustes de su sistema a la fecha y hora actuales, y la zona horaria apropiada, y luego refresque <span class='hostname'></span>.">
