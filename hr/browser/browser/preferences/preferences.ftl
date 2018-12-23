@@ -728,7 +728,25 @@ content-blocking-setting-custom =
     .label = Prilagođeno
     .accesskey = P
 content-blocking-standard-description = Blokiraj poznate pratitelje samo u Privatnom pretraživanju.
+content-blocking-standard-desc = Uravnoteženo za zaštitu i performanse. Dozvoli neke pratitelje tako da webstranice funkcioniraju ispravno.
+content-blocking-strict-desc = Blokiraj sve pratitelje koje { -brand-short-name } otkrije. Može uzrokovati greške na nekim stranicama.
+content-blocking-custom-desc = Odaberite što blokirati.
+content-blocking-private-trackers = Poznati pratitelji samo u Privatnom pretraživanju
+content-blocking-third-party-cookies = Kolačići za praćenje trećih strana
+content-blocking-all-windows-trackers = Poznati pratitelji u svim prozorima
+content-blocking-all-third-party-cookies = Svi kolačići trećih strana
+content-blocking-warning-title = Upozorenje!
+content-blocking-warning-desc = Blokiranje kolačića i pratitelja može dovesti do grešaka na nekim stranicama. Lako je onemogućiti blokiranje na stranicama kojima vjerujete.
 content-blocking-learn-how = Saznajte kako
+content-blocking-trackers-label =
+    .label = Pratitelji
+    .accesskey = t
+content-blocking-tracking-protection-option-all-windows =
+    .label = U svim prozorima
+    .accesskey = a
+content-blocking-option-private =
+    .label = Samo u privatnim prozorima
+    .accesskey = p
 content-blocking-tracking-protection-change-block-list = Promijenite popis blokiranih
 content-blocking-third-party-cookies-label =
     .label = Kolačići treće strane
@@ -751,6 +769,9 @@ content-blocking-reject-trackers-block-trackers-option =
 content-blocking-reject-trackers-all-third-parties-option =
     .label = Svi kolačići treće strane (može dovesti do sloma web stranice)
     .accesskey = a
+content-blocking-cookies-label =
+    .label = Kolačići
+    .accesskey = K
 
 ## Privacy Section - Tracking
 
@@ -772,6 +793,9 @@ tracking-exceptions =
 tracking-change-block-list =
     .label = Promijenite popis blokiranih…
     .accesskey = b
+tracking-manage-exceptions =
+    .label = Upravljenje iznimkama…
+    .accesskey = v
 
 ## Privacy Section - Permissions
 
@@ -839,6 +863,8 @@ collection-health-report-link = Saznajte više
 collection-studies =
     .label = Dopusti { -brand-short-name }u da instalira i pokreće  studije
 collection-studies-link = Pregledajte { -brand-short-name } studije
+addon-recommendations =
+    .label = Dopusiti { -brand-short-name } da radi presonalizirane preporuke dodataka
 addon-recommendations-link = Saznajte više
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
