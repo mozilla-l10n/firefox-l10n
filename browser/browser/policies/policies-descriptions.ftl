@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-AppUpdateURL = Ορισμός προσαρμοσμένου URL ενημέρωσης εφαρμογής.
+policy-Authentication = Ρύθμιση ενσωματωμένης πιστοποίησης για ιστοσελίδες που την υποστηρίζουν.
 policy-BlockAboutAddons = Φραγή πρόσβασης στη Διαχείριση προσθέτων (about:addons).
 policy-BlockAboutConfig = Φραγή πρόσβασης στη σελίδα about:config.
 policy-BlockAboutProfiles = Φραγή πρόσβασης στη σελίδα about:profiles.
@@ -21,6 +22,7 @@ policy-Cookies = Αποδοχή ή άρνηση αιτημάτων αποθήκ�
 policy-DisableAppUpdate = Αποτροπή ενημέρωσης προγράμματος περιήγησης.
 policy-DisableBuiltinPDFViewer = Απενεργοποίηση PDF.js, του ενσωματωμένου προγράμματος προβολής PDF στο { -brand-short-name }.
 policy-DisableDeveloperTools = Φραγή πρόσβασης στα εργαλεία προγραμματιστή.
+policy-DisableFeedbackCommands = Απενεργοποίηση εντολών για αποστολή σχολίων από το μενού "Βοήθεια" (Υποβολή σχολίων και αναφορά παραπλανητικής ιστοσελίδας).
 policy-DisableFirefoxAccounts = Απενεργοποίηση υπηρεσιών { -fxaccount-brand-name }, καθώς και του Sync.
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Απενεργοποίηση λειτουργίας Firefox Screenshots.
@@ -51,6 +53,7 @@ policy-HardwareAcceleration = Αν είναι ψευδές, απενεργοπο
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Ορισμός και προαιρετικό κλείδωμα της αρχικής σελίδας.
 policy-InstallAddonsPermission = Αποδοχή εγκατάστασης προσθέτων από ορισμένες ιστοσελίδες.
+policy-Permissions = Ρύθμιση δικαιωμάτων για κάμερα, μικρόφωνο, τοποθεσία και ειδοποιήσεις.
 policy-Proxy = Προσαρμογή ρυθμίσεων μεσολάβησης.
 policy-SanitizeOnShutdown = Εκκαθάριση όλων των δεδομένων πλοήγησης κατά τον τερματισμό λειτουργίας.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
