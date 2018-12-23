@@ -1030,6 +1030,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.3rdPartyCookies.add.label "Lisää esto…">
 
+<!ENTITY contentBlocking.manageSettings.label "Hallitse sisällön estämistä">
+<!ENTITY contentBlocking.manageSettings.accesskey "H">
 
 <!ENTITY contentBlocking.trackersView.label "Seuraimet">
 

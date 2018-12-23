@@ -708,6 +708,14 @@ content-blocking-tracking-protection-option-always =
 content-blocking-tracking-protection-option-private =
     .label = Vain yksityisissä ikkunoissa
     .accesskey = y
+# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+content-blocking-setting-standard =
+    .label = Tavallinen
+    .accesskey = T
+content-blocking-setting-strict =
+    .label = Tiukka
+    .accesskey = u
 content-blocking-setting-custom =
     .label = Oma
     .accesskey = O
