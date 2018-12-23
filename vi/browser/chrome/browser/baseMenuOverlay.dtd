@@ -23,13 +23,10 @@
 <!ENTITY helpKeyboardShortcuts.label     "Các phím tắt bàn phím">
 <!ENTITY helpKeyboardShortcuts.accesskey "K">
 
-<!ENTITY helpSafeMode.label       "Khởi động lại và vô hiệu hóa các Tiện ích…">
+<!ENTITY helpSafeMode.label       "Khởi động lại và vô hiệu hóa các tiện ích…">
 <!ENTITY helpSafeMode.accesskey   "R">
-<!ENTITY helpSafeMode.stop.label       "Khởi động lại và ngừng vô hiệu hóa Tiện ích">
+<!ENTITY helpSafeMode.stop.label       "Khởi động lại và kích hoạt các tiện ích">
 <!ENTITY helpSafeMode.stop.accesskey   "R">
-
-<!ENTITY healthReport2.label      "Báo cáo Tình trạng &brandShorterName;">
-<!ENTITY healthReport2.accesskey  "e">
 
 <!ENTITY helpTroubleshootingInfo.label      "Thông tin xử lý sự cố">
 <!ENTITY helpTroubleshootingInfo.accesskey  "T">
@@ -48,7 +45,7 @@
 <!ENTITY hideThisAppCmdMac2.label       "Ẩn &brandShorterName;">
 <!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
-<!ENTITY hideOtherAppsCmdMac.label      "Ẩn các Mục khác">
+<!ENTITY hideOtherAppsCmdMac.label      "Ẩn các mục khác">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
-<!ENTITY showAllAppsCmdMac.label        "Hiển thị Tất cả">
+<!ENTITY showAllAppsCmdMac.label        "Hiển thị tất cả">
