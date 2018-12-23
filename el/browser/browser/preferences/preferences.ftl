@@ -291,6 +291,9 @@ update-enable-search-update =
     .label = Αυτόματη ενημέρωση μηχανών αναζήτησης
     .accesskey = μ
 update-pref-write-failure-title = Αποτυχία εγγραφής
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = Αδυναμία αποθήκευσης προτίμησης. Αδυναμία εγγραφής σε αρχείο: { $path }
 
 ## General Section - Performance
 
@@ -630,6 +633,10 @@ sitedata-block-all-option =
     .label = Όλα τα cookies (θα προκαλέσει δυσλειτουργία ιστοσελίδων)
 sitedata-option-block-trackers =
     .label = Ιχνηλάτες τρίτων
+sitedata-option-block-all-third-party =
+    .label = Όλα τα cookies τρίτων (ενδέχεται να προκαλέσει δυσλειτουργία σε ιστοσελίδες)
+sitedata-option-block-all =
+    .label = Όλα τα cookies (θα προκαλέσει δυσλειτουργία σε ιστοσελίδες)
 sitedata-clear =
     .label = Εκκαθάριση δεδομένων...
     .accesskey = κ
