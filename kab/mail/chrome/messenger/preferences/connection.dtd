@@ -51,6 +51,8 @@
 <!ENTITY  dnsOverHttpsUrl.accesskey     "R">
 <!ENTITY  dnsOverHttpsUrl.tooltip       "URL i ferru n DNS s HTTPS">
 <!ENTITY  dnsOverHttpsUrlDefault.label     "Seqdec azalen n tazwara">
+<!ENTITY  dnsOverHttpsUrlDefault.accesskey "l">
 <!ENTITY  dnsOverHttpsUrlDefault.tooltip   "Seqdec URL amezwar i ferru n DNS s HTTPS">
 <!ENTITY  dnsOverHttpsUrlCustom.label      "Udmawan">
+<!ENTITY  dnsOverHttpsUrlCustom.accesskey  "t">
 <!ENTITY  dnsOverHttpsUrlCustom.tooltip    "Sekcem URL i tebɣiḍ i ferru n DNS s HTTPS">
