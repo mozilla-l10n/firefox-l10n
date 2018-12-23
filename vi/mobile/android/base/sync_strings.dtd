@@ -18,7 +18,7 @@
 
 <!-- Configure Engines -->
 <!ENTITY sync.configure.engines.title.passwords2 'Đăng nhập'>
-<!ENTITY sync.configure.engines.title.history 'Lược sử'>
+<!ENTITY sync.configure.engines.title.history 'Lịch sử'>
 <!ENTITY sync.configure.engines.title.tabs 'Thẻ'>
 
 <!-- Localization note (sync.default.client.name): Default string of the "Device
@@ -29,10 +29,10 @@
 <!ENTITY sync.default.client.name '&formatS1; trên &formatS2;'>
 
 <!-- Bookmark folder strings -->
-<!ENTITY bookmarks.folder.menu.label 'Trình đơn Đánh dấu'>
+<!ENTITY bookmarks.folder.menu.label 'Trình đơn đánh dấu'>
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label 'Nhãn'>
-<!ENTITY bookmarks.folder.toolbar.label 'Thanh Đánh Dấu'>
+<!ENTITY bookmarks.folder.toolbar.label 'Thanh đánh dấu'>
 <!ENTITY bookmarks.folder.other.label 'Trang đánh dấu khác'>
 <!ENTITY bookmarks.folder.desktop.label 'Trang đánh dấu Desktop'>
 <!ENTITY bookmarks.folder.mobile.label 'Trang đánh dấu Di động'>
@@ -64,7 +64,7 @@
 <!ENTITY fxaccount_status_needs_finish_migrating 'Chạm để đăng nhập tài khoản Firefox mới.'>
 <!ENTITY fxaccount_status_choose_what 'Chọn những gì bạn muốn đồng bộ hóa'>
 <!ENTITY fxaccount_status_bookmarks 'Trang đánh dấu'>
-<!ENTITY fxaccount_status_history 'Lược sử'>
+<!ENTITY fxaccount_status_history 'Lịch sử'>
 <!ENTITY fxaccount_status_passwords2 'Đăng nhập'>
 <!ENTITY fxaccount_status_tabs 'Các thẻ đang mở'>
 <!ENTITY fxaccount_status_additional_settings 'Cài đặt bổ sung'>
