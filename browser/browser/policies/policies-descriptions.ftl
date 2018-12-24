@@ -34,6 +34,7 @@ policy-DisablePocket = Απενεργοποίηση λειτουργίας γι�
 policy-DisablePrivateBrowsing = Απενεργοποίηση ιδιωτικής περιήγησης.
 policy-DisableProfileImport = Απενεργοποίηση της εντολής μενού για εισαγωγή δεδομένων από άλλο πρόγραμμα περιήγησης.
 policy-DisableProfileRefresh = Απενεργοποίηση του κουμπιού ανανέωσης { -brand-short-name } στη σελίδα about:support.
+policy-DisableSafeMode = Απενεργοποίηση της λειτουργίας για επανεκκίνηση στην Ασφαλή λειτουργία. Σημείωση: το πλήκτρο Shift για είσοδο στην Ασφαλή λειτουργία μπορεί να απενεργοποιηθεί μόνο στα Windows με την Πολιτική ομάδας.
 policy-DisableSecurityBypass = Αποτροπή παράκαμψης ορισμένων προειδοποιήσεων ασφαλείας από το χρήστη.
 policy-DisableSetAsDesktopBackground = Απενεργοποίηση της εντολής μενού "Ορισμός ως φόντο επιφάνειας εργασίας" για εικόνες.
 policy-DisableSystemAddonUpdate = Αποτροπή εγκατάστασης και ενημέρωσης προσθέτων συστήματος από το πρόγραμμα περιήγησης.
@@ -53,8 +54,15 @@ policy-HardwareAcceleration = Αν είναι ψευδές, απενεργοπο
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Ορισμός και προαιρετικό κλείδωμα της αρχικής σελίδας.
 policy-InstallAddonsPermission = Αποδοχή εγκατάστασης προσθέτων από ορισμένες ιστοσελίδες.
+policy-NoDefaultBookmarks = Απενεργοποίηση δημιουργίας των προεπιλεγμένων σελιδοδεικτών που έρχονται με το { -brand-short-name }, καθώς και των "έξυπνων" σελιδοδεικτών (Συχνές επισκέψεις, Πρόσφατες ετικέτες). Σημείωση: η πολιτική υλοποιείται μόνο αν χρησιμοποιηθεί πριν την πρώτη εκτέλεση του προφίλ.
+policy-OverrideFirstRunPage = Παράκαμψη της σελίδας πρώτης εκτέλεσης. Αφήστε αυτή την πολιτική κενή αν θέλετε να απενεργοποιήσετε τη σελίδα πρώτης εκτέλεσης.
 policy-Permissions = Ρύθμιση δικαιωμάτων για κάμερα, μικρόφωνο, τοποθεσία και ειδοποιήσεις.
+policy-PopupBlocking = Αποδοχή αναδυόμενων από ορισμένες ιστοσελίδες, από προεπιλογή.
 policy-Proxy = Προσαρμογή ρυθμίσεων μεσολάβησης.
+policy-RequestedLocales = Ορίστε τη λίστα απαιτούμενων γλωσσών για την εφαρμογή σε σειρά προτίμησης.
 policy-SanitizeOnShutdown = Εκκαθάριση όλων των δεδομένων πλοήγησης κατά τον τερματισμό λειτουργίας.
+policy-SearchBar = Ορίστε την προεπιλεγμένη τοποθεσία της γραμμής αναζήτησης. Ο χρήστης θα μπορεί να την προσαρμόσει.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Εγκατάσταση προσθέτων PKCS #11.
+# “format” refers to the format used for the value of this policy.
+policy-WebsiteFilter = Αποκλεισμός επίσκεψης σε ιστοσελίδας. Δείτε την τεκμηρίωση για περισσότερες λεπτομέρειες στο format.
