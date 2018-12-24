@@ -54,7 +54,7 @@ policy-HardwareAcceleration = Nếu false, hãy tắt chế độ tăng tốc ph
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Đặt và tùy chọn khóa trang chủ.
 policy-InstallAddonsPermission = Cho phép một số website cài đặt tiện ích.
-policy-NoDefaultBookmarks = Vô hiệu hóa việc tạo dấu trang mặc định đi kèm với { -brand-short-name } và Dấu trang thông minh (Được truy cập nhiều nhất, thẻ gần đây). Lưu ý: chính sách này chỉ có hiệu lực nếu được sử dụng trước lần chạy đầu tiên của hồ sơ.
+policy-NoDefaultBookmarks = Vô hiệu hóa việc tạo dấu trang mặc định đi kèm với { -brand-short-name } và dấu trang thông minh (được truy cập nhiều nhất, thẻ gần đây). Lưu ý: chính sách này chỉ có hiệu lực nếu được sử dụng trước lần chạy đầu tiên của hồ sơ.
 policy-OfferToSaveLogins = Thực thi cài đặt để cho phép { -brand-short-name } cung cấp và ghi nhớ thông tin đăng nhập và mật khẩu đã lưu. Cả hai giá trị đúng và sai đều được chấp nhận.
 policy-OverrideFirstRunPage = Ghi đè trang chạy đầu tiên. Bỏ trống chính sách này nếu bạn muốn vô hiệu hóa trang chạy đầu tiên.
 policy-OverridePostUpdatePage = Ghi đè lên trang cập nhật "Có gì mới". Bỏ trống chính sách này nếu bạn muốn tắt trang cập nhật sau.
