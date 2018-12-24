@@ -13,7 +13,7 @@
 <!ENTITY firstrun_customize_subtext "Tùy chỉnh &brandShortName; với các tiện ích. Chặn quảng cáo, thêm các tính năng, hoặc chọn một diện mạo mới để phản ánh cá tính của bạn.">
 <!ENTITY firstrun_bookmarks_title "Lịch sử">
 <!ENTITY firstrun_bookmarks_message "Những gì bạn yêu thích ngay trước mặt bạn">
-<!ENTITY firstrun_bookmarks_subtext "Lấy kết quả từ trang đánh dấu và lịch sử của bạn khi bạn tìm kiếm.">
+<!ENTITY firstrun_bookmarks_subtext "Nhận kết quả từ trang đánh dấu và lịch sử của bạn khi bạn tìm kiếm.">
 <!ENTITY firstrun_data_title "Dữ liệu">
 <!ENTITY firstrun_data_message "Dữ liệu ít hơn, tiết kiệm nhiều hơn">
 <!ENTITY firstrun_data_subtext2 "Tắt hiển thị ảnh để giảm dữ liệu mà bạn cần tải cho mỗi trang.">
@@ -35,7 +35,7 @@
 
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "Bạn">
-<!ENTITY firstrun_account_message "Có &brandShortName; trên thiết bị khác?">
+<!ENTITY firstrun_account_message "Đã có &brandShortName; trên thiết bị khác?">
 
 <!ENTITY  onboard_start_restricted1 "Giữ an toàn và kiểm soát với phiên bản đơn giản hoá này của &brandShortName;.">
 
@@ -187,7 +187,7 @@
 <!ENTITY pref_category_privacy_short "Riêng tư">
 <!ENTITY pref_category_privacy_summary4 "Theo dõi, đăng nhập, lựa chọn dữ liệu">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
-<!ENTITY pref_category_vendor_summary2 "Liên quan tới &brandShortName;, câu hỏi thường gặp, phản hồi">
+<!ENTITY pref_category_vendor_summary2 "Về &brandShortName;, câu hỏi thường gặp, phản hồi">
 <!ENTITY pref_category_datareporting "Lựa chọn dữ liệu">
 <!ENTITY pref_category_logins "Đăng nhập">
 <!ENTITY pref_learn_more "Tìm hiểu thêm">
@@ -514,7 +514,7 @@
 <!ENTITY contextmenu_add_page_shortcut "Thêm lối tắt tới trang">
 <!ENTITY contextmenu_set_as_homepage "Đặt làm trang chủ">
 <!ENTITY contextmenu_share "Chia sẻ">
-<!ENTITY contextmenu_pasteandgo "Dán &amp; Mở đường dẫn">
+<!ENTITY contextmenu_pasteandgo "Dán &amp; mở đường dẫn">
 <!ENTITY contextmenu_paste "Dán">
 <!ENTITY contextmenu_copyurl "Sao chép địa chỉ">
 <!ENTITY contextmenu_edit_bookmark "Sửa">
@@ -567,7 +567,7 @@
 <!ENTITY page_removed "Trang đã bị xóa">
 <!ENTITY folder_removed "Thư mục đã xóa">
 
-<!ENTITY bookmark_edit_title "Chỉnh sửa Trang đánh dấu">
+<!ENTITY bookmark_edit_title "Chỉnh sửa trang đánh dấu">
 <!ENTITY bookmark_edit_folder_title "Chỉnh sửa thư mục">
 <!ENTITY bookmark_edit_name "Tên">
 <!ENTITY bookmark_edit_location "Địa chỉ">
@@ -584,8 +584,8 @@
      They are not visible in the UI. -->
 <!ENTITY page_action_dropmarker_description "Hành động bổ sung">
 
-<!ENTITY masterpassword_create_title "Tạo mật khẩu chính">
-<!ENTITY masterpassword_remove_title "Xóa Mật Khẩu Chính">
+<!ENTITY masterpassword_create_title "Tạo Mật khẩu chính">
+<!ENTITY masterpassword_remove_title "Xóa Mật khẩu chính">
 <!ENTITY masterpassword_password "Mật khẩu">
 <!ENTITY masterpassword_confirm "Xác nhận mật khẩu">
 
@@ -615,7 +615,7 @@
 <!ENTITY home_clear_history_button "Xóa lịch sử duyệt web">
 <!ENTITY home_clear_history_confirm "Bạn có chắc muốn xóa lịch sử của bạn không?">
 <!ENTITY home_bookmarks_empty "Trang đánh dấu của bạn được hiển thị ở đây">
-<!ENTITY home_closed_tabs_title2 "Đóng gần đây">
+<!ENTITY home_closed_tabs_title2 "Đã đóng gần đây">
 <!ENTITY home_last_tabs_empty "Các thẻ gần đây của bạn sẽ được hiển thị ở đây.">
 <!ENTITY home_restore_all "Khôi phục tất cả">
 <!ENTITY home_closed_tabs_number "&formatD; thẻ">
@@ -693,7 +693,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY doorhanger_tracking_message_disabled2 "Trang này bao gồm các phần tử có thể theo dõi bạn duyệt web.">
 
 <!-- Common mixed and tracking content strings in site identity popup -->
-<!ENTITY learn_more "Tìm hiểu Thêm">
+<!ENTITY learn_more "Tìm hiểu thêm">
 <!ENTITY enable_protection "Bật bảo vệ">
 <!ENTITY disable_protection "Tắt bảo vệ">
 
@@ -807,7 +807,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 <!ENTITY restrictable_feature_addons_installation "Tiện ích">
 <!ENTITY restrictable_feature_addons_installation_description "Thêm các tính năng hoặc chức năng cho Firefox. Lưu ý: tiện ích có thể vô hiệu hóa các hạn chế nào đó.">
-<!ENTITY restrictable_feature_private_browsing "Duyệt web Riêng tư">
+<!ENTITY restrictable_feature_private_browsing "Duyệt web riêng tư">
 <!ENTITY restrictable_feature_private_browsing_description "Cho phép các thành viên trong gia đình duyệt web mà không lưu thông tin về những trang mà họ đã truy cập.">
 <!ENTITY restrictable_feature_clear_history "Xóa lịch sử">
 <!ENTITY restrictable_feature_clear_history_description "Cho phép các thành viên gia đình xóa thông tin về những trang mà họ đã truy cập.">
@@ -857,14 +857,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY activity_stream_highlights "Nổi bật">
 
 <!-- LOCALIZATION NOTE (activity_stream_link_more1): Link-like text displayed to take user to a website with more content from Pocket. -->
-<!ENTITY activity_stream_link_more1 "MORE">
+<!ENTITY activity_stream_link_more1 "THÊM">
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_bookmarked "Đã đánh dấu trang">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_visited): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
-<!ENTITY activity_stream_highlight_label_visited "Đã thăm">
+<!ENTITY activity_stream_highlight_label_visited "Đã truy cập">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
 <!ENTITY activity_stream_highlight_label_trending "Xu hướng">
 <!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
