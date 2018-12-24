@@ -12,7 +12,6 @@
 <!ENTITY advanced.label "Avansearre">
 <!ENTITY continue2.label "Mear…">
 <!ENTITY moreInformation.label "Mear ynformaasje">
-
 <!ENTITY viewCertificate.label "Sertifikaat besjen">
 
 <!-- Specific error messages -->
@@ -158,9 +157,6 @@ will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "De eigener fan <span class='hostname'/> hat syn of har website net krekt konfigurearre. Om jo gegevens tsjin stellerij te beskermjen, hat &brandShortName; gjin ferbining mei dizze website makke.">
 <!ENTITY certerror.introPara2 "&brandShortName; hat in mooglik befeiligingsrisiko detektearre en is net trochgien nei <span class='hostname'/>. As jo dizze website besykje, soene hackers kinne probearje gegevens te stellen, lykas jo wachtwurden, e-mailadressen of creditcardgegevens.">
-
-<!ENTITY certerror.expiredCert.secondPara "Dit probleem komt hiel wierskynlik trochdat jo kompjûterklok op de ferkearde tiid ynsteld is, wêrtroch &brandShortName; gjin befeilige ferbining meitsje kin.">
-
 <!ENTITY certerror.sts.introPara "&brandShortName; hat in mooglik befeiligingsrisiko detektearre en is net trochgien nei <span class='hostname'/>, omdat dizze website in befeilige ferbining fereasket.">
 
 <!ENTITY certerror.expiredCert.introPara "&brandShortName; hat in probleem detektearre en is net trochgien nei <span class='hostname'/>. Of de website is net krekt konfigurearre, of jo kompjûterklok is op de ferkearde tiid ynsteld.">
@@ -237,6 +233,13 @@ allinnich in befeilige ferbining meitsje mei. Hjirtroch is it net mooglik om in
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> brûkt ferâldere befeiligingstechnology dy't kwetsber is foar oanfallen. In oanfaller kin ienfâldichwei gegevens ûntdekke wêrfan jo tochten dat dizze feilich wiene. De websitebehearder moat earst de server yn oarder meitsje eardat jo de website besykje kinne.</p><p>Flaterkoade: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Blokkearre side">
+
+<!ENTITY certerror.mitm.title "Software foarkomt dat &brandShortName; in befeilige ferbining mei dizze website meitsje kin">
+<!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> is hiel wierskynlik in feilige website, mar der koe gjin befeilige ferbining ta stân brocht wurde. Dit probleem wurdt feroarsake troch <span class='mitm-name'/>, dat software op jo kompjûter of op jo netwurk oanbelanget.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "As jo antifirussoftware in funksje befettet dy fersifere ferbiningen scant (faaks ‘webscanning’ of ‘https-scanning’ neamd), kinne jo dy funksje útskeakelje. As dat net wurket, kinne jo de antifirussoftware fuortsmite en opnij ynstallearje.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "As jo op in saaklik netwurk binne, kinne jo kontakt opnimme mei jo IT-ôfdieling.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "As jo net bekend binne mei <span class='mitm-name'/>, kin dit in oanfal wêze en kinne jo de website better net besykje.">
+<!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "As jo net bekend binne mei <span class='mitm-name'/>, kin dit in oanfal wêze, en is der neat wat jo dwaan kinne om de website te besykjen.">
 
 <!ENTITY clockSkewError.title "Jo kompjûterklok jout de ferkearde tiid oan">
 <!ENTITY clockSkewError.longDesc "Jo kompjûter tinkt dat it <span id='wrongSystemTime_systemDate1'/> is, wêrtroch &brandShortName; gjin befeilige ferbining mei <span class='hostname'></span> meitsje kin. Stel jo kompjûterklok yn nei de aktuele datum, tiid en tiidsône yn jo systeemynstellingen, en fernij dêrnei de side om <span class='hostname'></span> te besykjen.">
