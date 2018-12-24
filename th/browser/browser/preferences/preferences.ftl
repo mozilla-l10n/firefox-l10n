@@ -154,9 +154,6 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = เปิดลิงก์ในแท็บแทนที่จะเป็นหน้าต่างใหม่
     .accesskey = ป
-warn-on-quit-close-multiple-tabs =
-    .label = เตือนคุณเมื่อออกและปิดหลายแท็บ
-    .accesskey = ต
 warn-on-close-multiple-tabs =
     .label = เตือนคุณเมื่อกำลังจะปิดหลายแท็บ
     .accesskey = ต
@@ -839,6 +836,8 @@ collection-health-report-link = เรียนรู้เพิ่มเติ
 collection-studies =
     .label = อนุญาตให้ { -brand-short-name } ติดตั้งและเรียกใช้การศึกษา
 collection-studies-link = ดูการศึกษาของ { -brand-short-name }
+addon-recommendations =
+    .label = อนุญาตให้ { -brand-short-name } สร้างคำแนะนำส่วนขยายส่วนบุคคล
 addon-recommendations-link = เรียนรู้เพิ่มเติม
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
