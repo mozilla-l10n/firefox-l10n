@@ -120,7 +120,7 @@ search-results-empty-message =
         [windows] Xin lỗi! Không có kết quả trong phần tủy chọn cho “<span data-l10n-name="query"></span>”.
        *[other] Xin lỗi! Không có kết quả trong phần tủy chỉnh cho “<span data-l10n-name="query"></span>”.
     }
-search-results-help-link = Cần trợ giúp? Ghé thăm <a data-l10n-name="url">Hỗ trợ từ { -brand-short-name }</a>
+search-results-help-link = Cần trợ giúp? Đi tới <a data-l10n-name="url">Hỗ trợ từ { -brand-short-name }</a>
 
 ## General Section
 
@@ -741,7 +741,7 @@ content-blocking-reject-trackers-description = Chặn tất cả cookie của b�
 # of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
 # or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
 # the UI.
-content-blocking-reject-trackers-warning-your-settings-prevent-changes = Cài đặt của bạn trong Cookie và Dữ liệu trang đang ngăn các thay đổi cài đặt cookie của bên thứ ba.
+content-blocking-reject-trackers-warning-your-settings-prevent-changes = Cài đặt của bạn trong cookie và dữ liệu trang đang ngăn các thay đổi cài đặt cookie của bên thứ ba.
 content-blocking-change-cookie-settings =
     .label = Thay đổi thiết lập cookie
     .accesskey = T

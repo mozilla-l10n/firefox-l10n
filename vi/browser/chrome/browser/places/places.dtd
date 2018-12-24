@@ -73,15 +73,11 @@
 <!ENTITY cmd.reloadLivebookmark.label      "Tải lại trang đánh dấu động">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "l">
 
-<!ENTITY cmd.moveBookmarks.label                  "Di chuyển…">
-<!ENTITY cmd.moveBookmarks.accesskey              "y">
-
 <!ENTITY col.name.label          "Tên">
 <!ENTITY col.tags.label          "Nhãn">
 <!ENTITY col.url.label           "Địa chỉ">
 <!ENTITY col.mostrecentvisit.label "Lần vào gần nhất">
-<!ENTITY col.visitcount.label    "Số lần Xem">
-<!ENTITY col.description.label   "Mô tả">
+<!ENTITY col.visitcount.label    "Số lần xem">
 <!ENTITY col.dateadded.label     "Ngày Thêm">
 <!ENTITY col.lastmodified.label  "Lần sửa Cuối">
 
@@ -98,10 +94,6 @@
 
 <!ENTITY forwardButton.tooltip  "Tiến tới">
 
-<!ENTITY detailsPane.more.label "Thêm">
-<!ENTITY detailsPane.more.accesskey "m">
-<!ENTITY detailsPane.less.label "Bớt">
-<!ENTITY detailsPane.less.accesskey "B">
 <!ENTITY detailsPane.selectAnItemText.description "Chọn một mục để xem và chỉnh sửa thuộc tính của nó">
 
 <!ENTITY view.label               "Xem">
@@ -110,9 +102,9 @@
 <!ENTITY byDate.accesskey         "N">
 <!ENTITY bySite.label             "theo Tên miền">
 <!ENTITY bySite.accesskey         "T">
-<!ENTITY byMostVisited.label      "theo Vào nhiều nhất">
+<!ENTITY byMostVisited.label      "Theo lần truy cập nhiều nhất">
 <!ENTITY byMostVisited.accesskey  "V">
-<!ENTITY byLastVisited.label      "theo Lần vào Cuối">
+<!ENTITY byLastVisited.label      "Theo lần truy cập cuối">
 <!ENTITY byLastVisited.accesskey  "L">
 <!ENTITY byDayAndSite.label       "theo Ngày tháng và Tên miền">
 <!ENTITY byDayAndSite.accesskey   "y">
