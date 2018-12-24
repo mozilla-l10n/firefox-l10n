@@ -652,6 +652,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Εξαιρέσεις…
     .accesskey = Ε
+# This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
+# in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
+# Cookies and Site Data section.
+sitedata-warning-your-settings-prevent-changes = Οι ρυθμίσεις σας στη Φραγή περιεχομένου αποτρέπουν τις αλλαγές στις ρυθμίσεις cookies και δεδομένων ιστοσελίδων.
 sitedata-cookies-permissions =
     .label = Διαχείριση δικαιωμάτων…
     .accesskey = δ
@@ -695,12 +699,14 @@ content-blocking-category-label = Επιλέξτε τι θα αποκλείετ�
 content-blocking-fastblock-slow-loading-trackers-label =
     .label = Ιχνηλάτες αργής φόρτωσης
     .accesskey = α
+content-blocking-fastblock-new-description = Φραγή μόνο των ιχνηλατών που επιβραδύνουν τη φόρτωση των σελίδων.
 content-blocking-tracking-protection-trackers-label =
     .label = Ιχνηλάτες
     .accesskey = Ι
 content-blocking-tracking-protection-all-detected-trackers-label =
     .label = Όλοι οι εντοπισμένοι ιχνηλάτες
     .accesskey = ι
+content-blocking-tracking-protection-new-description = Φραγή όλων των γνωστών ιχνηλατών. (Μερικές σελίδες ενδέχεται να μην φορτώνονται.)
 content-blocking-tracking-protection-option-always =
     .label = Πάντα
     .accesskey = Π
@@ -742,6 +748,12 @@ content-blocking-tracking-protection-change-block-list = Αλλαγή λίστα
 content-blocking-third-party-cookies-label =
     .label = Cookies τρίτων
     .accesskey = C
+content-blocking-reject-trackers-description = Φραγή όλων των cookies τρίτων ή μόνο όσων έχουν τοποθετηθεί από ιχνηλάτες.
+# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
+# of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
+# or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
+# the UI.
+content-blocking-reject-trackers-warning-your-settings-prevent-changes = Οι ρυθμίσεις σας στην ενότητα "Cookies και δεδομένα ιστοσελίδων" εμποδίζουν τις αλλαγές στις ρυθμίσεις για cookies τρίτων.
 content-blocking-change-cookie-settings =
     .label = Αλλαγή ρυθμίσεων cookies
     .accesskey = ρ
@@ -751,6 +763,9 @@ content-blocking-reject-trackers-block-trackers-option-recommended =
 content-blocking-reject-trackers-block-trackers-option =
     .label = Ιχνηλάτες
     .accesskey = λ
+content-blocking-reject-trackers-all-third-parties-option =
+    .label = Όλα τα cookies τρίτων (ενδέχεται να προκαλέσει δυσλειτουργία σε ιστοσελίδες)
+    .accesskey = Ό
 content-blocking-cookies-label =
     .label = Cookies
     .accesskey = C
@@ -845,6 +860,8 @@ collection-health-report-link = Μάθετε περισσότερα
 collection-studies =
     .label = Να επιτρέπεται στο { -brand-short-name } να εγκαθιστά και να εκτελεί μελέτες
 collection-studies-link = Προβολή μελετών του { -brand-short-name }
+addon-recommendations =
+    .label = Αποδοχή εξατομικευμένων προτάσεων για επεκτάσεις από το { -brand-short-name }
 addon-recommendations-link = Μάθετε περισσότερα
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.

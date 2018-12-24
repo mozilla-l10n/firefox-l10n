@@ -234,7 +234,10 @@ HTTP Strict Transport Security (HSTS) που καθορίζει ότι το &bra
 
 <!ENTITY blockedByPolicy.title "Αποκλεισμένη σελίδα">
 
+<!ENTITY certerror.mitm.title "Κάποιο λογισμικό εμποδίζει την ασφαλή σύνδεση του &brandShortName; με αυτή την ιστοσελίδα">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "Αν είστε σε ένα εταιρικό δίκτυο, μπορείτε να επικοινωνήσετε με το τμήμα πληροφορικής σας.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "Αν δεν είστε εξοικειωμένοι με το <span class='mitm-name'/>, τότε ίσως πρόκειται για επίθεση και δεν θα πρέπει να συνεχίσετε στην ιστοσελίδα.">
+<!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "Αν δεν είστε εξοικειωμένοι με το <span class='mitm-name'/>, τότε ίσως πρόκειται για επίθεση και δεν μπορείτε να κάνετε τίποτα για να προσπελάσετε την ιστοσελίδα.">
 
 <!ENTITY clockSkewError.title "Το ρολόι του υπολογιστή σας είναι λάθος">
 <!ENTITY clockSkewError.longDesc "Ο υπολογιστής σας νομίζει ότι είναι <span id='wrongSystemTime_systemDate1'/>, εμποδίζοντας την ασφαλή σύνδεση του &brandShortName;. Για να επισκεφθείτε το <span class='hostname'></span>, ενημερώστε το ρολόι του υπολογιστή στην τρέχουσα ημερομηνία, ώρα και ζώνη ώρας από τις ρυθμίσεις συστήματος και, έπειτα, κάντε ανανέωση του <span class='hostname'></span>.">
@@ -243,3 +246,4 @@ HTTP Strict Transport Security (HSTS) που καθορίζει ότι το &bra
 <!ENTITY prefReset.label "Επαναφορά προεπιλεγμένων ρυθμίσεων">
 
 <!ENTITY networkProtocolError.title "Σφάλμα πρωτοκόλλου δικτύου">
+<!ENTITY networkProtocolError.longDesc "<p>Δεν είναι δυνατή η εμφάνιση αυτής της σελίδας επειδή υπήρξε ένα σφάλμα στο πρωτόκολλο δικτύου.</p><ul><li>Επικοινωνήστε με τους ιδιοκτήτες της ιστοσελίδας για να τους ενημερώσετε για το πρόβλημα.</li></ul>">
