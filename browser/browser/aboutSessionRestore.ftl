@@ -37,4 +37,4 @@ welcome-back-restore-button =
     .accesskey = L
 welcome-back-restore-all-label = Khôi phục lại toàn bộ các thẻ & cửa sổ
 welcome-back-restore-some-label = Chỉ khôi phục những cái bạn muốn
-welcome-back-page-info-link = Phần mở rộng và tùy biến của bạn đã xóa và các thiết lập của trình duyệt sẽ được khôi phục về trạng thái mặc định. Nếu điều này không giải quyết được vấn đề của bạn, <a data-l10n-name="link-more">tìm hiểu thêm về những gì bạn có thể làm.</a>
+welcome-back-page-info-link = Tiện ích mở rộng và tùy biến của bạn đã xóa và các thiết lập của trình duyệt sẽ được khôi phục về trạng thái mặc định. Nếu điều này không giải quyết được vấn đề của bạn, <a data-l10n-name="link-more">tìm hiểu thêm về những gì bạn có thể làm.</a>
