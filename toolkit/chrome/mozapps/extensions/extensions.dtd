@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY addons.windowTitle                   "Quản lí tiện ích">
 
-<!ENTITY search.placeholder2                  "Tìm kiếm trên addons.mozilla.org">
-
 <!ENTITY search.placeholder3                  "Tìm kiếm addons.mozilla.org">
 <!ENTITY search.buttonlabel                   "Tìm kiếm">
 <!-- LOCALIZATION NOTE (search.commandkey):
@@ -20,9 +18,6 @@
 <!ENTITY installAddonFromFile.label           "Cài đặt tiện ích từ tập tin…">
 <!ENTITY installAddonFromFile.accesskey       "i">
 <!ENTITY toolsMenu.tooltip                    "Công cụ cho tất cả tiện ích">
-
-<!ENTITY getThemes.description                "Bạn đang tìm cách để cá nhân hóa trình duyệt của bạn?">
-<!ENTITY getThemes.learnMore                  "Lựa chọn từ hàng ngàn diện mạo khác nhau.">
 
 
 <!ENTITY showUnsignedExtensions.button.label  "Không thể xác thực một số tiện ích">
@@ -87,14 +82,7 @@
 <!ENTITY cmd.preferencesUnix.label            "Tùy chỉnh">
 <!ENTITY cmd.preferencesUnix.accesskey        "y">
 
-
-
-
-
-
-
-
-
+<!-- addon actions -->
 <!ENTITY cmd.enableAddon.label                "Bật">
 <!ENTITY cmd.enableAddon.accesskey            "B">
 <!ENTITY cmd.disableAddon.label               "Vô hiệu hóa">
@@ -103,9 +91,6 @@
 <!ENTITY cmd.enableTheme.accesskey            "S">
 <!ENTITY cmd.disableTheme.label               "Dừng sử dụng giao diện">
 <!ENTITY cmd.disableTheme.accesskey           "D">
-
-
-
 
 <!ENTITY cmd.askToActivate.label              "Hỏi trước khi kích hoạt">
 <!ENTITY cmd.askToActivate.tooltip            "Hỏi mỗi khi dùng tiện ích này">
@@ -117,7 +102,6 @@
 <!ENTITY cmd.installAddon.label               "Cài đặt">
 <!ENTITY cmd.installAddon.accesskey           "i">
 
-
 <!ENTITY cmd.uninstallAddon.label             "Xóa">
 <!ENTITY cmd.uninstallAddon.accesskey         "X">
 <!ENTITY cmd.showPreferencesWin.label         "Tùy chọn">
@@ -127,9 +111,6 @@
 <!ENTITY cmd.contribute.label                 "Đóng góp">
 <!ENTITY cmd.contribute.accesskey             "g">
 <!ENTITY cmd.contribute.tooltip               "Đóng góp vào sự phát triển của tiện ích này">
-
-
-
 
 <!ENTITY cmd.showReleaseNotes.label           "Hiển thị ghi chú phát hành">
 <!ENTITY cmd.showReleaseNotes.tooltip         "Hiển thị ghi chú phát hành của cập nhật này">
@@ -177,14 +158,13 @@
 <!-- ratings -->
 <!ENTITY rating2.label                        "Xếp hạng">
 
-
 <!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "Tạm dừng">
 
+<!-- download/install progress -->
 <!ENTITY progress.cancel.tooltip              "Hủy bỏ">
 
 <!ENTITY addon.homepage                       "Trang chủ">
-
 
 <!ENTITY addon.details.label                  "Chi tiết thêm">
 <!ENTITY addon.details.tooltip                "Hiện thêm chi tiết về tiện ích này">
@@ -250,5 +230,5 @@
 
 <!ENTITY legacyWarning.showLegacy "Hiển thị các phần mở rộng kế thừa">
 <!ENTITY legacyExtensions.title "Phần mở rộng kế thừa">
-<!ENTITY legacyExtensions.description "Các phần mở rộng này không đáp ứng tiêu chuẩn hiện tại của &brandShortName; do đó chúng đã bị ngừng hoạt động.">
+<!ENTITY legacyExtensions.description "Các tiện ích mở rộng này không đáp ứng tiêu chuẩn hiện tại của &brandShortName; do đó chúng đã bị ngừng hoạt động.">
 <!ENTITY legacyExtensions.learnMore "Tìm hiểu về các thay đổi tiện ích">

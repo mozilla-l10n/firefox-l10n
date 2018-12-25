@@ -129,7 +129,7 @@ plugin-deprecation-description = Bạn đang thấy thiếu gì đó? Một số
 legacy-warning-show-legacy = Hiển thị các phần mở rộng kế thừa
 legacy-extensions =
     .value = Phần mở rộng kế thừa
-legacy-extensions-description = Các phần mở rộng này không đáp ứng tiêu chuẩn hiện tại của { -brand-short-name } do đó chúng đã bị ngừng hoạt động. <label data-l10n-name="legacy-learn-more">Tìm hiểu về các thay đổi tiện ích</label>
+legacy-extensions-description = Các tiện ích mở rộng này không đáp ứng tiêu chuẩn hiện tại của { -brand-short-name } do đó chúng đã bị ngừng hoạt động. <label data-l10n-name="legacy-learn-more">Tìm hiểu về các thay đổi tiện ích</label>
 extensions-view-discover =
     .name = Tải thêm tiện ích
     .tooltiptext = { extensions-view-discover.name }
