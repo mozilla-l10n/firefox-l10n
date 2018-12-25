@@ -32,9 +32,6 @@ Eilen
 <!ENTITY aboutTelemetry.optionGroupOlder "
 Vanhemmat
 ">
-<!ENTITY aboutTelemetry.payloadChoiceHeader "
-  Tiedot
-">
 <!-- LOCALIZATION NOTE(aboutTelemetry.previousPing, aboutTelemetry.nextPing):
 	These strings are displayed when selecting Archived pings, and they’re
 	used to move to the next or previous ping. -->
@@ -48,6 +45,8 @@ Etsitkö lisätietoa?
 <!ENTITY aboutTelemetry.firefoxDataDoc "<a>Firefox Data Documentation</a> sisältää englanniksi oppaita datatyökalujen käytöstä.">
 <!ENTITY aboutTelemetry.telemetryClientDoc "<a>Firefox Telemetry client documentation</a> sisältää englanniksi käsitteiden määritelmät, API-dokumentaation ja dataviittaukset.">
 <!ENTITY aboutTelemetry.telemetryDashboard "<a>Kaukomittaustietojen kojelautojen</a> avulla voi visualisoida dataa, jota Mozilla vastaanottaa kaukomittauksen avulla.">
+
+<!ENTITY aboutTelemetry.telemetryProbeDictionary "<a>Anturihakemisto</a> sisältää kaukomitattavien anturien tiedot ja kuvaukset.">
 
 <!ENTITY aboutTelemetry.showInFirefoxJsonViewer "
 Avaa JSON-katselimessa
@@ -81,14 +80,8 @@ Avaa JSON-katselimessa
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "
   Yksinkertaiset mittaukset
 ">
-<!ENTITY aboutTelemetry.telemetryLogSection "
-  Kaukomittausloki
-">
 <!ENTITY aboutTelemetry.slowSqlSection "
   Hitaat SQL-lauseet
-">
-<!ENTITY aboutTelemetry.chromeHangsSection "
-  Selaimen jäätymiset
 ">
 <!ENTITY aboutTelemetry.addonDetailsSection "
   Lisäosien tiedot
