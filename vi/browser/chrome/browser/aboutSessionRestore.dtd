@@ -45,7 +45,7 @@ before and after the the "learn more" link (welcomeback2.link.pageInfo2).
 Localizers can use one of them, or both, to better adapt this sentence to
 their language.
 -->
-<!ENTITY welcomeback2.beforelink.pageInfo2  "Phần mở rộng và tùy biến của bạn đã xóa và các thiết lập của trình duyệt sẽ được khôi phục về trạng thái mặc định. Nếu điều này không giải quyết được vấn đề của bạn, ">
+<!ENTITY welcomeback2.beforelink.pageInfo2  "Tiện ích mở rộng và tùy biến của bạn đã xóa và các thiết lập của trình duyệt sẽ được khôi phục về trạng thái mặc định. Nếu điều này không giải quyết được vấn đề của bạn, ">
 <!ENTITY welcomeback2.afterlink.pageInfo2   "">
 
 <!ENTITY welcomeback2.link.pageInfo2        "tìm hiểu thêm về những gì bạn có thể làm.">
