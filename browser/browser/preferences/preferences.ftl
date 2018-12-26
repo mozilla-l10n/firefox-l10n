@@ -691,7 +691,7 @@ content-blocking-toggle-off =
 content-blocking-toggle-label-on = ACTIVAR
     .accesskey = C
 content-blocking-toggle-label-off = DESACTIVAR
-    .accesskey = C
+    .accesskey = D
 content-blocking-category-label = Elegir qué bloquear
 # "Slow" in this instance means "slow to load on the network".
 # FastBlock is a feature that blocks requests to tracking sites if they
