@@ -2,12 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-do-not-track-description = Ad yazen tamuli “ur sfuɣul ara” ɣer ismal web akken ad gzun d akken ur tebɣiḍ ara asfuɣel
+do-not-track-description = Ad yazen asɣal “ur sfuɣul ara” ɣer ismal web akken ad gzun belli ur tebɣiḍ ara asfuɣel
 do-not-track-learn-more = Issin ugar
 do-not-track-option-default =
-    .label = Ala s useqdec n ummesten mgal aḍfaṛ
+    .label = Ala s useqdec n ummesten mgal aḍfar
 do-not-track-option-default-content-blocking =
     .label = Kan ticki { -brand-short-name } yettusbadu ɣer sewḥel Ineḍfaṛen Yettwafen
+do-not-track-option-default-content-blocking-known =
+    .label = Kan ticki { -brand-short-name } yettusbadu ɣer sewḥel ineḍfaṛen
 do-not-track-option-always =
     .label = Yal tikelt
 pref-page =
@@ -141,11 +143,13 @@ set-as-my-default-browser =
 startup-restore-previous-session =
     .label = Err-d tiɣimit izrin
     .accesskey = s
+startup-restore-warn-on-quit =
+    .label = Lɣu ticki tettefɣeḍ seg iminig
 disable-extension =
     .label = Sens aseɣzif
 tabs-group-header = Iccaren
 ctrl-tab-recently-used-order =
-    .label = Ctrl+Tab yessezray-d iccaren n umizzwer yettwasqedcen melmi kan
+    .label = Ctrl+Tab yessezray-d accaren n umizzwer yettwasqedcen melmi kan
     .accesskey = T
 open-new-link-as-tabs =
     .label = Lddi iseɣwan deg iccaren deg wadig n ifuyla
@@ -153,9 +157,6 @@ open-new-link-as-tabs =
 warn-on-close-multiple-tabs =
     .label = Lɣu ticki medlen deqs n yiccaren
     .accesskey = L
-warn-on-quit-close-multiple-tabs =
-    .label = Lqu-yi-d ticki ɛerḍeɣ ad fakeɣ neɣ ad medleɣ ddeqs n yiccaren.
-    .accesskey = m
 warn-on-open-many-tabs =
     .label = Lɣu-yid ticki ilukkez { -brand-short-name } ma ldin aṭas n yiccaren
     .accesskey = L
@@ -437,9 +438,9 @@ containers-add-button =
     .label = Rnu amagbar-nniḍen
     .accesskey = R
 containers-preferences-button =
-    .label = Timsisɣal
+    .label = Ismenyifen
 containers-remove-button =
-    .label = kkes
+    .label = Kkes
 
 ## Sync Section - Signed out
 
@@ -590,7 +591,7 @@ history-clear-on-close-option =
     .label = Sfeḍ amazray ticki tmedleḍ { -brand-short-name }
     .accesskey = r
 history-clear-on-close-settings =
-    .label = Iγewwaṛen…
+    .label = Iɣewwaṛen…
     .accesskey = I
 history-clear-button =
     .label = Sfeḍ amazray…
@@ -608,7 +609,7 @@ sitedata-learn-more = Lmed ugar
 sitedata-keep-until = Ḥrez arma
     .accesskey = l
 sitedata-keep-until-expire =
-    .label = Ad mten
+    .label = Ad mmten
 sitedata-keep-until-closed =
     .label = Amdal n { -brand-short-name }
 sitedata-delete-on-close =
@@ -859,6 +860,8 @@ collection-health-report-link = Lmed ugar
 collection-studies =
     .label = Sireg { -brand-short-name } ad yessebded sakin ad isenker tizrawin
 collection-studies-link = Wali tizrawin n { -brand-short-name }
+addon-recommendations =
+    .label = Sireg { -brand-short-name } ad yeg iwellihen n usiɣzef udmawan
 addon-recommendations-link = Issin ugar
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
