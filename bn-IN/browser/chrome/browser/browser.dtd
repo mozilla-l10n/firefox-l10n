@@ -21,16 +21,20 @@
 <!-- Tab context menu -->
 <!ENTITY  reloadTab.label                    "ট্যাব পুনরায় লোড করুন">
 <!ENTITY  reloadTab.accesskey                "R">
-<!ENTITY  reloadAllTabs.label                "সকল ট্যাব পুনরায় লোড করুন">
-<!ENTITY  reloadAllTabs.accesskey            "A">
 <!ENTITY  selectAllTabs.label                "সব ট্যাব নির্বাচন করুন">
 <!ENTITY  selectAllTabs.accesskey            "S">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
 <!ENTITY  duplicateTab.label                 "অনুরূপ ট্যাব">
+<!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
+These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  duplicateTab.accesskey             "D">
 <!ENTITY  closeTabOptions.label              "ট্যাব অপশন বন্ধ করুন">
 <!ENTITY  closeTabOptions.accesskey          "O">
+<!-- LOCALIZATION NOTE (duplicateTabs.label): This is a command to duplicate
+a tab (i.e. it is a verb, not adjective). -->
+<!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
+These items have the same accesskey but will never be visible at the same time. -->
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -38,9 +42,6 @@ left instead of right. -->
 <!ENTITY  closeTabsToTheEnd.accesskey        "i">
 <!ENTITY  closeOtherTabs.label               "অন্যান্য ট্যাব বন্ধ করুন">
 <!ENTITY  closeOtherTabs.accesskey           "অ">
-
-<!ENTITY  closeSelectedTabs.label            "নির্বাচিত ট্যাবগুলি বন্ধ করুন">
-<!ENTITY  closeSelectedTabs.accesskey        "S">
 
 <!ENTITY  closeTabs.label                    "ট্যাবগুলি বন্ধ করুন">
 <!ENTITY  closeTabs.accesskey                "S">
@@ -54,10 +55,6 @@ same accesskey but will never be visible at the same time. -->
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinSelectedTabs.accesskey        "p">
-<!-- Reload Tab and Reload Selected Tabs have the same accesskey
-but will never be visible at the same time. -->
-<!ENTITY  reloadSelectedTabs.label           "নির্বাচিত ট্যাবগুলিকে পুনরায় লোড করুন">
-<!ENTITY  reloadSelectedTabs.accesskey       "R">
 <!-- LOCALIZATION NOTE(reloadTab.label, reloadTabs.label): have the same accesskey
 but will never be visible at the same time. -->
 <!ENTITY  reloadTabs.label                   "ট্যাবগুলিকে পুনরায় লোড করুন">
@@ -82,8 +79,6 @@ same accesskey but will never be visible at the same time. -->
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinTab.accesskey                 "b">
-<!ENTITY  sendTabToDevice.label              "ট্যাব থেকে Device-এ পাঠান">
-<!ENTITY  sendTabToDevice.accesskey          "D">
 <!ENTITY  sendPageToDevice.label             "পেজ থেকে Device-এ পাঠান">
 <!ENTITY  sendPageToDevice.accesskey         "D">
 <!ENTITY  sendLinkToDevice.label             "Device-এ লিঙ্ক পাঠান">
@@ -102,8 +97,6 @@ These two items have the same accesskey but will never be visible at the same ti
 <!ENTITY  moveToNewWindow.accesskey          "W">
 <!ENTITY  reopenInContainer.label            "কনটেইনার মধ্যে পুনরায় খুলুন">
 <!ENTITY  reopenInContainer.accesskey        "e">
-<!ENTITY  bookmarkAllTabs.label              "সকল ট্যাব বুকমার্ক করুন…">
-<!ENTITY  bookmarkAllTabs.accesskey          "T">
 <!ENTITY  bookmarkTab.label                  "বুকমার্ক ট্যাব">
 <!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
@@ -145,11 +138,6 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.label "বুকমার্কের টুলবার">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "বুকমার্ক টুলবারের বিষয়-বস্তু">
-
-<!ENTITY toolbarContextMenu.reloadAllTabs.label "সকল ট্যাব পুনরায় লোড করুন">
-<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "A">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "সকল ট্যাব বুকমার্ক করুন…">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "T">
 
 <!ENTITY toolbarContextMenu.reloadSelectedTab.label "নির্বাচিত ট্যাবটিকে পুনরায় লোড করুন">
 <!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
@@ -256,9 +244,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editThisBookmarkCmd.label "চিহ্নিত বুকমার্ক পরিবর্তন করুন">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
-<!ENTITY subscribeToPageMenupopup.label "বর্তমানে পৃষ্ঠায় সাবস্ক্রাইব করুন">
-<!ENTITY subscribeToPageMenuitem.label "বর্তমানে পৃষ্ঠায় সাবস্ক্রাইব করুন...">
-
 <!ENTITY addCurPagesCmd.label "সমস্ত ট্যাব বুকমার্ক করুন...">
 <!ENTITY showAllBookmarks2.label "সকল বুকমার্ক প্রদর্শন">
 <!ENTITY recentBookmarks.label "সম্প্রতি বুকমার্ক করা">
@@ -297,6 +282,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "স্থায়ী স্টোরেজের মধ্যে তথ্য সংরক্ষণ করুন">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "ব্রাউজার রিমোট কন্ট্রোলের অধীনে আছে">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "ওয়েব প্রমাণীকরণ প্যানেল খুলুন">
+
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "সাইটের সাথে আপনার ক্যামেরা/বা মাইক্রোফোন শেয়ার করাকে পরিচালনা করুন">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "এই সাইটের সাথে আপনার মাইক্রোফোন শেয়ার করাকে পরিচালনা করুন">
@@ -372,10 +358,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY webDeveloperMenu.label       "ওয়েব ডিভেলপর">
 <!ENTITY webDeveloperMenu.accesskey   "W">
-
-<!ENTITY devtoolsRecordExecution.label "রেকর্ড এক্সিকিউশন">
-<!ENTITY devtoolsSaveRecording.label "রেকর্ডিং সংরক্ষণ করুন">
-<!ENTITY devtoolsReplayExecution.label "পুনরায় এক্সিকিউশন চালান">
 
 <!ENTITY inspectContextMenu.label     "সামগ্রী নিরীক্ষণ করুন">
 <!ENTITY inspectContextMenu.accesskey "Q">
@@ -506,7 +488,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "A">
 <!ENTITY customizeMenu.manageExtension.label "এক্সটেনশনটিকে পরিচালনা করুন">
 <!ENTITY customizeMenu.manageExtension.accesskey "E">
-
 <!ENTITY customizeMenu.removeExtension.label "এক্সটেনশান সরান">
 <!ENTITY customizeMenu.removeExtension.accesskey "v">
 
@@ -1009,6 +990,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.fastBlock.add.label "ব্লক করা যুক্ত করুন...">
 
 <!ENTITY contentBlocking.trackingProtection2.label "সমস্ত সনাক্ত হওয়া ট্র্যাকার">
+
 <!ENTITY contentBlocking.trackingProtection3.label "ট্র্যাকারগুলি">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
@@ -1046,6 +1028,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.3rdPartyCookies.add.label "ব্লক করা যুক্ত করুন...">
 
+
+
+
 <!ENTITY contentBlocking.openBreakageReportView2.label "একটি সমস্যা রিপোর্ট করুন">
 <!ENTITY contentBlocking.breakageReportView.label "সমস্যাগুলিকে রিপোর্ট করুন">
 <!ENTITY contentBlocking.breakageReportView2.description "বিষয়বস্তু ব্লক করা নিয়ে কিছু ওয়েবসাইটের সঙ্গে সমস্যা হতে পারে। যখন আপনি সমস্যা রিপোর্ট করেন, তখন আপনি &brandShortName; তৈরি করতে সহায়তা করবেন; সবার জন্য ভাল। (এটি একটি URL এবং আপনার ব্রাউজার সেটিংস সম্পর্কিত Mozilla সম্পর্কিত তথ্য পাঠাবে।)">
@@ -1070,6 +1055,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate4.accesskey "D">
 <!ENTITY trackingProtection.block5.label "এই সাইটের জন্য ব্লকিং করা সক্রিয় করুন">
 <!ENTITY trackingProtection.block5.accesskey "E">
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock5.label "এই সাইটের জন্য ব্লকিং বন্ধ করুন">
+<!ENTITY trackingProtection.unblock5.accesskey "T">
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate6.label, trackingProtection.unblockPrivate6.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate5.label "অস্থায়ীভাবে ব্লক বন্ধ করুন">
+<!ENTITY trackingProtection.unblockPrivate5.accesskey "T">
+<!ENTITY trackingProtection.block6.label "এই সাইটের জন্য ব্লকিং চালু করুন">
+<!ENTITY trackingProtection.block6.accesskey "T">
 <!ENTITY trackingProtection.reload2.label "পৃষ্ঠাটি পুনরায় লোড করুন">
 <!ENTITY trackingProtection.reload2.accesskey "R">
 
@@ -1167,11 +1165,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "পৃষ্ঠার ক্রিয়াকলাপগুলি">
 <!ENTITY pageAction.addToUrlbar.label "ঠিকানা বারে যোগ করুন">
 <!ENTITY pageAction.removeFromUrlbar.label "ঠিকানা বার থেকে অপসারণ করুন">
-<!ENTITY pageAction.allowInUrlbar.label "ঠিকানা বারে দেখুন">
-<!ENTITY pageAction.disallowInUrlbar.label "ঠিকানা বারে দেখিও না">
 <!ENTITY pageAction.manageExtension.label "এক্সট্রেনশান ম্যানেজ করুন…">
-
-<!ENTITY pageAction.sendTabToDevice.label "ডিভাইসে ট্যাব পাঠান">
 
 <!ENTITY sendToDevice.syncNotReady.label "ডিভাইসগুলিকে সিঙ্ক করা হচ্ছে…">
 
