@@ -245,7 +245,7 @@ download-choose-folder =
     .label =
         { PLATFORM() ->
             [macos] Fren…
-           *[other] Ḍum…
+           *[other] Snirem…
         }
     .accesskey =
         { PLATFORM() ->
@@ -253,10 +253,10 @@ download-choose-folder =
            *[other] u
         }
 download-always-ask-where =
-    .label = Suter yal tikelt anida ad ttwakelsen ifuyla
+    .label = Suter yal tikelt anida ara ttwakelsen ifuyla
     .accesskey = S
 applications-header = Isnasen
-applications-description = Fren amek ad yeddu { -brand-short-name } akked ifuyla i d-saliḍ akked isnasen i tseqdaceḍ m'ara tettinigeḍ.
+applications-description = Fren amek ara yeddu { -brand-short-name } akked ifuyla i d-tessalayeḍ akked isnasen i tesseqdaceḍ mi ara tettinigeḍ.
 applications-filter =
     .placeholder = Nadi tawsit n ifuyla neɣ isnasen
 applications-type-column =
@@ -284,8 +284,8 @@ update-application-check-choose =
     .label = Ad inadi ileqqman maca ad k-yeǧǧ ad tferneḍ asebded
     .accesskey = C
 update-application-manual =
-    .label = Werǧin ad ttnadiḍ ileqqman ( mačči d ayen ilhan)
-    .accesskey = N
+    .label = Werǧin ad tnadiḍ ileqman (mačči d ayen ilhan)
+    .accesskey = W
 update-application-use-service =
     .label = Seqdec ameẓlu n ugilal i usebded n ileqman
     .accesskey = b
@@ -301,9 +301,9 @@ update-pref-write-failure-message = UR yezmir ara ad yessekles ismenyifen.Ur yez
 
 performance-title = Tamellit
 performance-use-recommended-settings-checkbox =
-    .label = Seqdec iɣewwaṛen n tmellit ihulen
+    .label = Seqdec iɣewwaren n tmellit ihulen
     .accesskey = s
-performance-use-recommended-settings-desc = Iɣewwaṛen-a wulmen i twila n warrum n uselkim-inek d unagraw n wammud.
+performance-use-recommended-settings-desc = Iɣewwaren-a wulmen i twila n warrum n uselkim-inek d unagraw n wammud.
 performance-settings-learn-more = Issin ugar
 performance-allow-hw-accel =
     .label = Seqdec tasɣiwelt tudlift n warrum ma tella
