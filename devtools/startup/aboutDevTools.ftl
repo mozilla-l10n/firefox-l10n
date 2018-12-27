@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 head-title = GIới thiệu công cụ nhà phát triển
-enable-title = Kích hoạt công cụ phát triển Firefox
+enable-title = Kích hoạt công cụ dành cho nhà phát triển Firefox
 enable-common-message = Công cụ dành cho nhà phát triển Firefox bị tắt theo mặc định để cung cấp cho bạn quyền kiểm soát nhiều hơn đối với trình duyệt của bạn.
 enable-learn-more-link = Xem thêm về công cụ nhà phát triển
 enable-enable-button = Bật công cụ phát triển
 enable-close-button = Đóng thẻ này
-welcome-title = Chào mừng đến với công cụ nhà phát triển Firefox!
+welcome-title = Chào mừng đến với công cụ dành cho nhà phát triển Firefox!
 newsletter-title = Bản tin nhà phát triển Mozilla
 newsletter-message = Nhận tin tức, thủ thuật và tài nguyên dành cho nhà phát triển được gửi vào hộp thư đến của bạn.
 newsletter-email-placeholder =
