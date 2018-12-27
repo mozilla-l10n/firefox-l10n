@@ -49,11 +49,11 @@
 
 <!ENTITY folderProps.name.label                  "Nome:">
 <!ENTITY folderProps.name.accesskey              "N">
-<!ENTITY folderProps.location.label              "Endereço:">
+<!ENTITY folderProps.location.label              "Local:">
 <!ENTITY folderProps.location.accesskey          "E">
 
 <!ENTITY folderSharingTab.label                  "Compartilhamento">
-<!ENTITY privileges.button.label                 "Direitos…">
+<!ENTITY privileges.button.label                 "Privilégios…">
 <!ENTITY privileges.button.accesskey             "D">
 <!ENTITY permissionsDesc.label                   "Você possui estas permissões:">
 <!ENTITY folderType.label                        "Tipo da pasta:">
