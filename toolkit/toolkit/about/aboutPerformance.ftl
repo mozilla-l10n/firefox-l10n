@@ -10,6 +10,7 @@ about-performance-title = Task Manager
 column-name = Num
 column-type = Tip
 column-energy-impact = Effect energetic
+column-memory = Memoria
 
 ## Special values for the Name column
 
@@ -37,6 +38,15 @@ type-other = Auter
 energy-impact-high = Grond ({ $value })
 energy-impact-medium = Mesaun ({ $value })
 energy-impact-low = Pitschen ({ $value })
+
+## Values for the Memory column
+##
+## Variables:
+##   $value (Number) - How much memory is used
+
+size-KB = { $value } KB
+size-MB = { $value } MB
+size-GB = { $value } GB
 
 ## Tooltips for the action buttons
 
