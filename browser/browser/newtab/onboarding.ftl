@@ -31,4 +31,11 @@ onboarding-fxa-text = Registriĝu ĉe { -fxaccount-brand-name } por speguli viaj
 
 ## Message strings belonging to the Return to AMO flow
 
+return-to-amo-sub-header = Bonege, vi havas { -brand-short-name }
+# <icon></icon> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-header = Konsideru instali la aldonaĵon <icon></icon><b>{ $addon-name }</b>.
 return-to-amo-extension-button = Aldoni la etendaĵon
+return-to-amo-get-started-button = Unuaj paŝoj kun { -brand-short-name }

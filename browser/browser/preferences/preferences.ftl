@@ -860,6 +860,8 @@ collection-health-report-link = Pli da informo
 collection-studies =
     .label = Permesi al { -brand-short-name } instali kaj fari studojn
 collection-studies-link = Vidi studojn de { -brand-short-name }
+addon-recommendations =
+    .label = Permesi al { -brand-short-name } fari personecigitajn proponojn pri etendaĵoj
 addon-recommendations-link = Pli da informo
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
