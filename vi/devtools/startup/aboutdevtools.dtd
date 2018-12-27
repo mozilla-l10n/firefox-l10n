@@ -16,7 +16,7 @@
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.title): Title of the top about:devtools
   -  section displayed when DevTools are disabled. -->
-<!ENTITY  aboutDevtools.enable.title "Kích hoạt công cụ phát triển Firefox">
+<!ENTITY  aboutDevtools.enable.title "Kích hoạt công cụ nhà phát triển Firefox">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.inspectElementTitle): Title of the top
   -  section displayed when devtools are disabled and the user triggered DevTools by using
@@ -36,13 +36,15 @@
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.commonMessage): Generic message displayed for
   -  all possible entry points (keyshortcut, menu item etc…). -->
+<!ENTITY  aboutDevtools.enable.commonMessage
+          "Công cụ dành cho nhà phát triển Firefox bị tắt theo mặc định để cung cấp cho bạn quyền kiểm soát nhiều hơn đối với trình duyệt của bạn.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.learnMoreLink): Text for the link to
   -  https://developer.mozilla.org/docs/Tools displayed in the top section when DevTools
   -  are disabled. -->
 <!ENTITY  aboutDevtools.enable.learnMoreLink "Xem thêm về công cụ nhà phát triển">
 
-<!ENTITY  aboutDevtools.enable.enableButton "Bật công cụ phát triển">
+<!ENTITY  aboutDevtools.enable.enableButton "Bật công cụ nhà phát triển">
 <!ENTITY  aboutDevtools.enable.closeButton2 "Đóng thẻ này">
 
 <!ENTITY  aboutDevtools.welcome.title "Chào mừng đến với công cụ nhà phát triển Firefox!">
@@ -59,6 +61,7 @@
 <!ENTITY  aboutDevtools.newsletter.thanks.message "Nếu bạn chưa xác nhận đăng kí các thư mới liên quan đến Mozilla thì bạn phải xác nhận lại. Hãy kiểm tra email của chúng tôi trong hộp thư đến của bạn hoặc tìm trong hộp thư spam.">
 
 <!ENTITY  aboutDevtools.footer.title "Phiên bản Firefox cho nhà phát triển">
+<!ENTITY  aboutDevtools.footer.message "Muốn tìm kiếm nhiều thứ hơn về công cụ dành cho nhà phát triển? Hãy xem trình duyệt Firefox được xây dựng dành riêng cho các nhà phát triển và quy trình làm việc hiện đại.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.footer.learnMoreLink): Text for the link to
   -  https://www.mozilla.org/firefox/developer/ displayed in the footer. -->
