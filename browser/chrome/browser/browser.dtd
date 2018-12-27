@@ -397,7 +397,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY pasteCmd.accesskey         "ว">
 <!ENTITY deleteCmd.label          "ลบ">
 <!ENTITY deleteCmd.key            "D">
-<!ENTITY deleteCmd.accesskey        "ล">
+<!ENTITY deleteCmd.accesskey        "บ">
 <!ENTITY selectAllCmd.label         "เลือกทั้งหมด">
 <!ENTITY selectAllCmd.key         "A">
 <!ENTITY selectAllCmd.accesskey       "ม">
