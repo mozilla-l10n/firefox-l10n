@@ -10,6 +10,7 @@ about-performance-title = Tapşırıq idarə edicisi
 column-name = Ad
 column-type = Növ
 column-energy-impact = Elektrik istifadəsi
+column-memory = Yaddaş
 
 ## Special values for the Name column
 
@@ -37,6 +38,15 @@ type-other = Digər
 energy-impact-high = Yüksək ({ $value })
 energy-impact-medium = Orta ({ $value })
 energy-impact-low = Düşük ({ $value })
+
+## Values for the Memory column
+##
+## Variables:
+##   $value (Number) - How much memory is used
+
+size-KB = { $value } KB
+size-MB = { $value } MB
+size-GB = { $value } GB
 
 ## Tooltips for the action buttons
 
