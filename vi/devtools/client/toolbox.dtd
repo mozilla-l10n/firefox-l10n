@@ -16,12 +16,12 @@
 
 <!-- LOCALIZATION NOTE (options.context.inspector): This is the label for
   -  the heading of the Inspector group in the options panel. -->
-<!ENTITY options.context.inspector "Inspector">
 
 <!-- LOCALIZATION NOTE (options.showUserAgentStyles.label): This is the label
   -  for the checkbox option to show user agent styles in the Inspector
   -  panel. -->
 <!ENTITY options.showUserAgentStyles.label "Hiển thị kiểu của trình duyệt">
+<!ENTITY options.showUserAgentStyles.tooltip "Bật tính năng này sẽ hiển thị các kiểu mặc định được tải bởi trình duyệt.">
 
 <!-- LOCALIZATION NOTE (options.collapseAttrs.label): This is the label
   -  for the checkbox option to enable collapse attributes in the Inspector
@@ -61,6 +61,7 @@
 <!-- LOCALIZATION NOTE (options.context.triggersPageRefresh): This is the
   -  triggers page refresh footnote under the advanced settings group in the
   -  options panel and is used for settings that trigger page reload. -->
+<!ENTITY options.context.triggersPageRefresh  "* Chỉ phiên hiện tại, tải lại trang">
 
 <!-- LOCALIZATION NOTE (options.enableChrome.label5): This is the label for the
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
@@ -70,19 +71,24 @@
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
 <!ENTITY options.enableRemote.label3    "Cho phép gỡ lỗi từ xa">
+<!ENTITY options.enableRemote.tooltip2  "Bật tùy chọn này sẽ cho phép các công cụ dành cho nhà phát triển gỡ lỗi một cá thể từ xa như Firefox OS">
 
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
 <!ENTITY options.disableJavaScript.label     "Tắt JavaScript *">
+<!ENTITY options.disableJavaScript.tooltip   "Bật tùy chọn này sẽ vô hiệu hóa JavaScript cho thẻ hiện tại. Nếu thẻ hoặc hộp công cụ bị đóng thì cài đặt này sẽ bị quên.">
 
 <!-- LOCALIZATION NOTE (options.disableHTTPCache.label,
   -  options.disableHTTPCache.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the HTTP cache on or off. -->
+<!ENTITY options.disableHTTPCache.label     "Vô hiệu hóa bộ đệm HTTP (khi hộp công cụ đang mở)">
+<!ENTITY options.disableHTTPCache.tooltip   "Bật tùy chọn này sẽ vô hiệu hóa bộ đệm HTTP cho tất cả các thẻ có hộp công cụ mở. Service Worker không bị ảnh hưởng bởi tùy chọn này.">
 
 <!-- LOCALIZATION NOTE (options.enableServiceWorkersHTTP.label,
   -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the service workers testing features on or off. This option enables service workers over HTTP. -->
+<!ENTITY options.enableServiceWorkersHTTP.label     "Cho phép Service Worker qua HTTP (khi hộp công cụ mở)">
 
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label2): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
@@ -106,7 +112,7 @@
 <!-- LOCALIZATION NOTE (options.selectDevToolsTheme.label2): This is the label for
   -  the heading of the radiobox corresponding to the theme of the developer
   -  tools. -->
-<!ENTITY options.selectDevToolsTheme.label2   "Theme">
+<!ENTITY options.selectDevToolsTheme.label2   "Chủ đề">
 
 <!-- LOCALIZATION NOTE (options.usedeveditiontheme.*) Options under the
   -  toolbox for enabling and disabling the Developer Edition browser theme. -->
@@ -153,13 +159,17 @@
   -  Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference
   -  in about:config, in the options panel. -->
 <!ENTITY options.showPlatformData.label    "Hiện dữ liệu nền tảng Gecko">
+<!ENTITY options.showPlatformData.tooltip  "Nếu bạn bật tùy chọn này, báo cáo trình cấu hình JavaScript sẽ bao gồm
+kí hiệu nền tảng Gecko">
 
 <!-- LOCALIZATION NOTE (options.sourceeditor.*): Options under the editor
   -  section. -->
 
 <!ENTITY options.sourceeditor.label                     "Tùy chỉnh trình soạn thảo">
+<!ENTITY options.sourceeditor.autoclosebrackets.tooltip "Tự động chèn dấu đóng">
 <!ENTITY options.sourceeditor.expandtab.label           "Căn lề bằng khoảng trắng">
-<!ENTITY options.sourceeditor.tabsize.label             "Kích cỡ tab">
+<!ENTITY options.sourceeditor.expandtab.tooltip         "Sử dụng dấu cách thay cho ký tự tab">
+<!ENTITY options.sourceeditor.tabsize.label             "Kích cỡ phím tab">
 <!ENTITY options.sourceeditor.tabsize.accesskey         "T">
 <!ENTITY options.sourceeditor.keybinding.label          "Tổ hợp phím">
 <!ENTITY options.sourceeditor.keybinding.accesskey      "K">
