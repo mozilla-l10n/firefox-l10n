@@ -40,7 +40,7 @@ that require it.  -->
 <!ENTITY itemCookies.accesskey             "C">
 <!ENTITY itemCache.label                   "Bộ nhớ đệm">
 <!ENTITY itemCache.accesskey               "m">
-<!ENTITY itemOfflineApps.label             "Dữ liệu Trang web Ngoại tuyến">
+<!ENTITY itemOfflineApps.label             "Dữ liệu trang web ngoại tuyến">
 <!ENTITY itemOfflineApps.accesskey         "o">
 <!ENTITY itemActiveLogins.label            "Đăng nhập đang Hoạt động">
 <!ENTITY itemActiveLogins.accesskey        "H">

@@ -103,9 +103,9 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "Tăng tốc GC">
 
-<!ENTITY aboutSupport.a11yTitle "Khả năng truy cập">
+<!ENTITY aboutSupport.a11yTitle "Trợ năng">
 <!ENTITY aboutSupport.a11yActivated "Được kích hoạt">
-<!ENTITY aboutSupport.a11yForceDisabled "Ngăn các tùy chọn về khả năng truy cập">
+<!ENTITY aboutSupport.a11yForceDisabled "Ngăn các tùy chọn về trợ năng">
 <!ENTITY aboutSupport.a11yHandlerUsed "Xử lý truy cập được sử dụng">
 <!ENTITY aboutSupport.a11yInstantiator "Trợ năng truy cập">
 
