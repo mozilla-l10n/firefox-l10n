@@ -24,6 +24,7 @@ onboarding-screenshots-text = จับ บันทึก และแบ่ง
 onboarding-addons-title = ส่วนเสริม
 onboarding-addons-text = เพิ่มคุณลักษณะเพิ่มเติมที่ทำให้ { -brand-short-name } ทำงานได้มากขึ้นสำหรับคุณ เปรียบเทียบราคา ตรวจสอบสภาพอากาศ หรือแสดงบุคลิกภาพของคุณด้วยชุดตกแต่งที่กำหนดเอง
 onboarding-ghostery-title = Ghostery
+onboarding-fxa-text = ลงทะเบียน { -fxaccount-brand-name } และซิงค์ที่คั่นหน้า, รหัสผ่าน และแท็บที่เปิดอยู่ของคุณในทุกที่ที่คุณใช้ { -brand-short-name }
 
 ## Message strings belonging to the Return to AMO flow
 
