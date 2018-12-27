@@ -44,6 +44,9 @@ energy-impact-low = Malalta ({ $value })
 ## Variables:
 ##   $value (Number) - How much memory is used
 
+size-KB = { $value } KO
+size-MB = { $value } MO
+size-GB = { $value } GO
 
 ## Tooltips for the action buttons
 
