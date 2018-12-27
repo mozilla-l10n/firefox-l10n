@@ -5,7 +5,7 @@
 clear-site-data-window =
     .title = ล้างข้อมูล
     .style = width: 35em
-clear-site-data-description = การล้างคุกกี้และข้อมูลไซต์ทั้งหมดที่ถูกจัดเก็บไว้โดย { -brand-short-name } อาจลงชื่อคุณออกจากเว็บไซต์และเอาเนื้อหาเว็บออฟไลน์ออก การล้างข้อมูลแคชจะไม่ส่งผลกระทบต่อการเข้าสู่ระบบของคุณ
+clear-site-data-description = การล้างคุกกี้และข้อมูลไซต์ทั้งหมดที่จัดเก็บไว้โดย { -brand-short-name } อาจลงชื่อคุณออกจากเว็บไซต์และเอาเนื้อหาเว็บออฟไลน์ออก การล้างข้อมูลแคชจะไม่ส่งผลกระทบต่อการเข้าสู่ระบบของคุณ
 clear-site-data-close-key =
     .key = w
 # The parameters in parentheses in this string describe disk usage
