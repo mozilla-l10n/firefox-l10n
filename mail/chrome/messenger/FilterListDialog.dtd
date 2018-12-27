@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title "Filtros de mensagens">
-<!ENTITY nameColumn.label "Filtro">
+<!ENTITY nameColumn.label "Nome do filtro">
 <!ENTITY activeColumn.label "Aplicar">
 <!ENTITY newButton.label "Novo…">
 <!ENTITY newButton.accesskey "N">
@@ -36,8 +36,5 @@
 <!ENTITY folderPickerPrefix.accesskey "f">
 <!ENTITY helpButton.label "Ajuda">
 <!ENTITY helpButton.accesskey "u">
-<!ENTITY closeCmd.key "w"> 
+<!ENTITY closeCmd.key "w">
 <!ENTITY searchBox.emptyText "Pesquisar filtros por nome…">
-
-
-
