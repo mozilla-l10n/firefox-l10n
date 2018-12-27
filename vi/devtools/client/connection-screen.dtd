@@ -24,7 +24,7 @@
 <!-- LOCALIZATION NOTE (remoteHelp, remoteDocumentation, remoteHelpSuffix):
 these strings will be concatenated in a single label, remoteDocumentation will
 be used as text for a link to MDN. -->
-<!ENTITY remoteHelp "Công cụ phát triển Firefox có thể gỡ lỗi từ xa các thiết bị (Firefox cho Android và Firefox OS là một ví dụ). Hãy chắc chắn rằng bạn đã bật tùy chọn ‘Gỡ lỗi từ xa’ trong thiết bị từ xa. Để biết thêm, xem ">
+<!ENTITY remoteHelp "Công cụ dành cho nhà phát triển Firefox có thể gỡ lỗi từ xa các thiết bị (Firefox cho Android và Firefox OS là một ví dụ). Hãy chắc chắn rằng bạn đã bật tùy chọn ‘Gỡ lỗi từ xa’ trong thiết bị từ xa. Để biết thêm, xem ">
 <!ENTITY remoteDocumentation "tài liệu">
 <!ENTITY remoteHelpSuffix ".">
 

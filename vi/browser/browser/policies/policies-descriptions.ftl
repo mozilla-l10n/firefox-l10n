@@ -21,7 +21,7 @@ policy-CertificatesDescription = Thêm chứng chỉ hoặc sử dụng chứng 
 policy-Cookies = Cho phép hoặc từ chối các trang web lưu cookie.
 policy-DisableAppUpdate = Chặn việc cập nhật trình duyệt.
 policy-DisableBuiltinPDFViewer = Vô hiệu PDF.js, trình xem PDF tích hợp trong { -brand-short-name }.
-policy-DisableDeveloperTools = Chặn truy cập đến công cụ nhà phát triển.
+policy-DisableDeveloperTools = Chặn truy cập đến công cụ dành cho nhà phát triển.
 policy-DisableFeedbackCommands = Tắt các lệnh để gửi phản hồi từ bảng chọn trợ giúp (gửi phản hồi và báo cáo trang web lừa đảo).
 policy-DisableFirefoxAccounts = Vô hiệu { -fxaccount-brand-name } dựa trên các dịch vụ, bao gồm cả Sync.
 # Firefox Screenshots is the name of the feature, and should not be translated.
