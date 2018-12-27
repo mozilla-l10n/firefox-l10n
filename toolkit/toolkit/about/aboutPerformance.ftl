@@ -10,6 +10,7 @@ about-performance-title = Administrilo de taskoj
 column-name = Nomo
 column-type = Tipo
 column-energy-impact = Konsumo de energio
+column-memory = Memoro
 
 ## Special values for the Name column
 
@@ -37,6 +38,12 @@ type-other = Aliaj
 energy-impact-high = Alta ({ $value })
 energy-impact-medium = Meza ({ $value })
 energy-impact-low = Malalta ({ $value })
+
+## Values for the Memory column
+##
+## Variables:
+##   $value (Number) - How much memory is used
+
 
 ## Tooltips for the action buttons
 
