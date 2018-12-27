@@ -21,8 +21,6 @@
 <!-- Tab context menu -->
 <!ENTITY  reloadTab.label                    "Reŝargi langeton">
 <!ENTITY  reloadTab.accesskey                "R">
-<!ENTITY  reloadAllTabs.label                "Reŝargi ĉiujn langetojn">
-<!ENTITY  reloadAllTabs.accesskey            "A">
 <!ENTITY  selectAllTabs.label                "Elekti ĉiujn langetojn">
 <!ENTITY  selectAllTabs.accesskey            "E">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
@@ -47,9 +45,6 @@ left instead of right. -->
 <!ENTITY  closeOtherTabs.label               "Fermi aliajn langetojn">
 <!ENTITY  closeOtherTabs.accesskey           "o">
 
-<!ENTITY  closeSelectedTabs.label            "Fermi elektitajn langetojn">
-<!ENTITY  closeSelectedTabs.accesskey        "e">
-
 <!ENTITY  closeTabs.label                    "Fermi langetojn">
 <!ENTITY  closeTabs.accesskey                "F">
 <!ENTITY  pinSelectedTabs.label              "Alpingli langetojn">
@@ -62,10 +57,6 @@ same accesskey but will never be visible at the same time. -->
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinSelectedTabs.accesskey        "D">
-<!-- Reload Tab and Reload Selected Tabs have the same accesskey
-but will never be visible at the same time. -->
-<!ENTITY  reloadSelectedTabs.label           "Reŝargi elektitajn langetojn">
-<!ENTITY  reloadSelectedTabs.accesskey       "R">
 <!-- LOCALIZATION NOTE(reloadTab.label, reloadTabs.label): have the same accesskey
 but will never be visible at the same time. -->
 <!ENTITY  reloadTabs.label                   "Reŝargi langetojn">
@@ -90,8 +81,6 @@ same accesskey but will never be visible at the same time. -->
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinTab.accesskey                 "D">
-<!ENTITY  sendTabToDevice.label              "Sendi langeton al aparato">
-<!ENTITY  sendTabToDevice.accesskey          "a">
 <!ENTITY  sendPageToDevice.label             "Sendi paĝon al aparato">
 <!ENTITY  sendPageToDevice.accesskey         "a">
 <!ENTITY  sendLinkToDevice.label             "Sendi ligilon al aparato">
@@ -110,8 +99,6 @@ These two items have the same accesskey but will never be visible at the same ti
 <!ENTITY  moveToNewWindow.accesskey          "n">
 <!ENTITY  reopenInContainer.label            "Remalfermi en ingo">
 <!ENTITY  reopenInContainer.accesskey        "i">
-<!ENTITY  bookmarkAllTabs.label              "Aldoni legosignon por ĉiuj langetoj…">
-<!ENTITY  bookmarkAllTabs.accesskey          "l">
 <!ENTITY  bookmarkTab.label                  "Aldoni langeton al legosignoj">
 <!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
@@ -153,11 +140,6 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.label "Ilaro de legosignoj">
 <!ENTITY personalbarCmd.accesskey "e">
 <!ENTITY bookmarksToolbarItem.label "Elementoj de ilaro de legosignoj">
-
-<!ENTITY toolbarContextMenu.reloadAllTabs.label "Reŝargi ĉiujn langetojn">
-<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "R">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Aldoni legosignon por ĉiuj langetoj…">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "l">
 
 <!ENTITY toolbarContextMenu.reloadSelectedTab.label "Reŝargi elektitan langeton">
 <!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
@@ -264,9 +246,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editThisBookmarkCmd.label "Redakti tiun ĉi legosignon">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
-<!ENTITY subscribeToPageMenupopup.label "Aboni tiun ĉi paĝon">
-<!ENTITY subscribeToPageMenuitem.label "Aboni tiun ĉi paĝon…">
-
 <!ENTITY addCurPagesCmd.label "Aldoni legosignon por ĉiuj langetoj…">
 <!ENTITY showAllBookmarks2.label "Montri ĉiujn legosignojn">
 <!ENTITY recentBookmarks.label "Ĵusaj legosignoj">
@@ -305,6 +284,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Konservi datumojn en daŭra konservejo">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "La retumilo estas sub fora regado">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Malfermi panelon de Teksaĵa aŭtentikigo">
+
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Administri dividon de via filmilo kaj/aŭ mikrofonon kun la retejo">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Administri dividon de via mikrofono kun la retejo">
@@ -380,10 +360,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY webDeveloperMenu.label       "Teksaĵa programisto">
 <!ENTITY webDeveloperMenu.accesskey   "P">
-
-<!ENTITY devtoolsRecordExecution.label "Registri plenumon">
-<!ENTITY devtoolsSaveRecording.label "Konservi registron">
-<!ENTITY devtoolsReplayExecution.label "Ripeti plenumon">
 
 <!ENTITY inspectContextMenu.label     "Inspekti elementon">
 <!ENTITY inspectContextMenu.accesskey "n">
@@ -514,7 +490,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "A">
 <!ENTITY customizeMenu.manageExtension.label "Administri etendaĵon">
 <!ENTITY customizeMenu.manageExtension.accesskey "A">
-
 <!ENTITY customizeMenu.removeExtension.label "Forigi etendaĵon">
 <!ENTITY customizeMenu.removeExtension.accesskey "F">
 
@@ -1019,12 +994,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackingProtection2.label "Ĉiujn trovitajn spurilojn">
 
 <!ENTITY contentBlocking.trackingProtection3.label "Spuriloj">
-<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.allowed.label):
-     This label signals that this type of content blocking is turned
-     OFF and is not blocking tracker content, so this is not
-     a positive thing. It forms the end of the (imaginary) sentence
-     "Trackers [are] Allowed"-->
-<!ENTITY contentBlocking.trackingProtection.allowed.label "Permesitaj">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking tracker content, so this is
@@ -1066,6 +1035,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.trackersView.label "Spuriloj">
 <!ENTITY contentBlocking.trackersView.strictInfo.label "Por bloki ĉiujn spurilojn, difinu la blokadon de enhavo kiel “Strikta”.">
+
+<!ENTITY contentBlocking.cookies.label "Kuketoj">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Raporti problemon">
 <!ENTITY contentBlocking.breakageReportView.label "Raporti problemojn">
@@ -1200,11 +1171,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "Retpaĝaj agoj">
 <!ENTITY pageAction.addToUrlbar.label "Aldoni al adresa strio">
 <!ENTITY pageAction.removeFromUrlbar.label "Forigi el adresa strio">
-<!ENTITY pageAction.allowInUrlbar.label "Montri en la adresa strio">
-<!ENTITY pageAction.disallowInUrlbar.label "Ne montri en la adresa strio">
 <!ENTITY pageAction.manageExtension.label "Administri etendaĵon…">
-
-<!ENTITY pageAction.sendTabToDevice.label "Sendi langeton al aparato">
 
 <!ENTITY sendToDevice.syncNotReady.label "Aparatoj spegulataj…">
 

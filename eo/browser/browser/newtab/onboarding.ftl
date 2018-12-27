@@ -28,3 +28,7 @@ onboarding-ghostery-text = Retumu pli rapide, pli inteligente aŭ pli sekure per
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Spegulado
 onboarding-fxa-text = Registriĝu ĉe { -fxaccount-brand-name } por speguli viajn legosignojn, pasvortojn kaj malfermitajn langetojn ĉie, kie vi uzas { -brand-short-name }.
+
+## Message strings belonging to the Return to AMO flow
+
+return-to-amo-extension-button = Aldoni la etendaĵon
