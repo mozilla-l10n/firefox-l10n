@@ -11,7 +11,7 @@
 <!ENTITY devmgr.details.title                   "Chi tiết">
 <!ENTITY devmgr.details.title2                  "Giá trị">
 
-<!ENTITY devmgr.button.login.label              "Đăng Nhập">
+<!ENTITY devmgr.button.login.label              "Đăng nhập">
 <!ENTITY devmgr.button.login.accesskey          "N">
 <!ENTITY devmgr.button.logout.label             "Đăng Xuất">
 <!ENTITY devmgr.button.logout.accesskey         "X">
@@ -24,11 +24,7 @@
 <!ENTITY devmgr.button.fips.accesskey           "F">
 
 <!ENTITY loaddevice.info                        "Nhập thông tin cho module bạn muốn thêm.">
-<!ENTITY loaddevice.modname                     "Tên Module:">
-<!ENTITY loaddevice.modname.accesskey           "M">
 <!ENTITY loaddevice.modname.default             "Module PKCS#11 Mới">
-<!ENTITY loaddevice.filename                    "Tên tập tin module:">
-<!ENTITY loaddevice.filename.accesskey          "f">
 <!ENTITY loaddevice.browse                      "Duyệt…">
 <!ENTITY loaddevice.browse.accesskey            "B">
 

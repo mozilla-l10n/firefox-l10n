@@ -461,7 +461,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Mở Tùy chỉnh Đồng bộ">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Đăng nhập để xem danh sách thẻ từ các thiết bị khác của bạn.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Tài khoản của bạn cần phải xác thực.">
-<!ENTITY appMenuRemoteTabs.signin.label "Đăng nhập vào Đồng bộ">
+<!ENTITY appMenuRemoteTabs.signin.label "Đăng nhập vào Đồng bộ hóa">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Quản lý các thiết bị…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Xem các thẻ trên thanh lề đã đồng bộ">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Kết nối thiết bị khác">
@@ -862,7 +862,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.moreInfoLinkText2 "Thông tin thêm">
 
-<!ENTITY identity.clearSiteData "Xóa Cookie và Dữ liệu Trang Web…">
+<!ENTITY identity.clearSiteData "Xóa cookie và dữ liệu trang web…">
 
 <!ENTITY identity.permissions "Quyền hạn">
 <!ENTITY identity.permissionsEmpty "Bạn chưa cấp cho trang này bất kỳ một quyền đặc biệt nào.">

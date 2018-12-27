@@ -527,10 +527,10 @@ privacy-header = Duyệt web riêng tư
 
 ## Privacy Section - Forms
 
-logins-header = Đăng nhập & Mật khẩu
+logins-header = Đăng nhập & mật khẩu
 forms-ask-to-save-logins =
     .label = Hỏi để lưu lại thông tin đăng nhập và mật khẩu cho trang web
-    .accesskey = H
+    .accesskey = r
 forms-exceptions =
     .label = Ngoại trừ…
     .accesskey = r
