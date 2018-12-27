@@ -47,12 +47,16 @@
 
 <!ENTITY  aboutDevtools.welcome.title "Chào mừng đến với công cụ nhà phát triển Firefox!">
 
+<!ENTITY  aboutDevtools.newsletter.title "Bản tin nhà phát triển Mozilla">
 <!-- LOCALIZATION NOTE (aboutDevtools.newsletter.message): Subscribe form message.
   -  The newsletter is only available in english at the moment.
   -  See Bug 1415273 for support of additional languages.-->
-<!ENTITY  aboutDevtools.newsletter.email.placeholder "Thư điện tử">
+<!ENTITY  aboutDevtools.newsletter.message "Nhận tin tức, thủ thuật và tài nguyên dành cho nhà phát triển được gửi vào hộp thư đến của bạn.">
+<!ENTITY  aboutDevtools.newsletter.email.placeholder "Email">
+<!ENTITY  aboutDevtools.newsletter.privacy.label "Tôi đồng ý khi Mozilla xử lý thông tin của tôi như được giải thích trong <a class='external' href='https://www.mozilla.org/privacy/'>chính sách bảo mật</a> này.">
 <!ENTITY  aboutDevtools.newsletter.subscribeButton "Đăng ký">
 <!ENTITY  aboutDevtools.newsletter.thanks.title "Cảm ơn!">
+<!ENTITY  aboutDevtools.newsletter.thanks.message "Nếu bạn chưa xác nhận đăng kí các thư mới liên quan đến Mozilla thì bạn phải xác nhận lại. Hãy kiểm tra email của chúng tôi trong hộp thư đến của bạn hoặc tìm trong hộp thư spam.">
 
 <!ENTITY  aboutDevtools.footer.title "Phiên bản Firefox cho nhà phát triển">
 
