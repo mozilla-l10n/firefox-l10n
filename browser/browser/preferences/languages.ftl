@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-languages-window =
-    .title = ภาษา
-    .style = width: 30em
 webpage-languages-window =
     .title = การตั้งค่าภาษาของหน้าเว็บ
     .style = width: 40em
@@ -55,3 +52,4 @@ browser-languages-select-language =
     .placeholder = เลือกภาษาที่จะเพิ่ม…
 browser-languages-installed-label = ภาษาที่ติดตั้งไว้
 browser-languages-available-label = ภาษาที่มี
+browser-languages-error = { -brand-short-name } ไม่สามารถอัปเดตภาษาของคุณได้ในขณะนี้ ตรวจสอบว่าคุณเชื่อมต่อกับอินเทอร์เน็ตแล้วหรือลองอีกครั้ง

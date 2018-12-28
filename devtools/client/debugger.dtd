@@ -27,7 +27,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.blackBoxMessage.unBlackBoxButton): This is
   - the text displayed in the button to stop black boxing the currently selected
   - source. -->
-<!ENTITY debuggerUI.blackBoxMessage.unBlackBoxButton "Stop black boxing this source">
+<!ENTITY debuggerUI.blackBoxMessage.unBlackBoxButton "หยุดการเปิดกล่องดำต้นฉบับนี้">
 
 <!-- LOCALIZATION NOTE (debuggerUI.optsButton.tooltip): This is the tooltip for
   -  the button that opens up an options context menu for the debugger UI. -->
@@ -98,7 +98,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchPanelOperators): This is the text that
   -  appears in the filter panel popup as a header for the operators part. -->
-<!ENTITY debuggerUI.searchPanelOperators    "Operators:">
+<!ENTITY debuggerUI.searchPanelOperators    "ตัวดำเนินการ:">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchFile): This is the text that appears
   -  in the source editor's context menu for the scripts search operation. -->
