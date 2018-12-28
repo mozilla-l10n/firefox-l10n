@@ -102,6 +102,8 @@
 
 <!ENTITY update.applying            "Aktualizácia sa inštaluje…">
 
+<!ENTITY update.restarting          "Reštartovanie…">
+
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
