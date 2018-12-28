@@ -9,6 +9,7 @@
 <!ENTITY refreshProfile.label         "Segarkan &brandShortName;">
 
 <!ENTITY safeModeDescription3.label   "Mode Aman merupakan mode operasi khusus pada &brandShortName; yang dapat digunakan untuk mengatasi masalah.">
+<!ENTITY safeModeDescription5.label   "Setelan pengaya dan pengubahsuaian Anda akan dimatikan sementara, dan fitur &brandShortName; mungkin tidak akan bekerja sebagaimana biasanya.">
 
 <!ENTITY refreshProfileInstead.label  "Anda juga dapat melewati proses pemecahan masalah dan mencoba untuk menyegarkan &brandShortName;.">
 
