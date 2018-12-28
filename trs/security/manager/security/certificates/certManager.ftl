@@ -2,16 +2,50 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+certmgr-title =
+    .title = Sa ri nej sertifikâdo
+certmgr-tab-mine =
+    .label = Nej si sertifikadôt
 certmgr-tab-people =
     .label = Guìi
 certmgr-tab-servers =
     .label = Servidor
+certmgr-tab-ca =
+    .label = Nej sa a'nïn'ïn
+certmgr-mine = Nikajt si sertificadô nej yi'nïn' nan nata' dàj huat
+certmgr-people = Màn sertifikâdo riña archîbo nata' dà hua nej guì nan
+certmgr-servers = Màn sertifikâdo riña archîbo nata' dàj hua nej serbidôr nan
+certmgr-ca = Màn nej sertifikâdo riña archîbo nata' dàj hua nej sa a'nïn' nan
 certmgr-detail-general-tab-title =
     .label = Da'ua nguéj
     .accesskey = G
 certmgr-detail-pretty-print-tab-title =
     .label = A'ngô nej sa nika
     .accesskey = D
+certmgr-pending-label =
+    .value = Sertifikadô hìaj natsij man...
+certmgr-subject-info-label =
+    .value = Ga'nïn riña
+certmgr-issuer-info-label =
+    .value = Giri sa gu'naj
+certmgr-period-of-validity-label =
+    .value = Diû gini'ñanj rasun nan
+certmgr-fingerprints-label =
+    .value = Da'nga' ra'a
+certmgr-cert-detail =
+    .title = Sa nikaj Sertifikâdo
+    .buttonlabelaccept = Narán
+    .buttonaccesskeyaccept = C
+certmgr-cert-detail-cn =
+    .value = Si yugui (CN)
+certmgr-cert-detail-o =
+    .value = Yi'nïn'ïn (O)
+certmgr-cert-detail-ou =
+    .value = Sa Nagi'iaj Chre' (OU)
+certmgr-cert-detail-serialnumber =
+    .value = Da'nga' nikaj serie
+certmgr-cert-detail-sha256-fingerprint =
+    .value = Da'nga' ra'a SHA-256
 certmgr-begins-value =
     .value = { certmgr-begins-label.label }
 certmgr-expires-value =
@@ -101,4 +135,7 @@ cert-not-verified_algorithm-disabled = Nu ga'ue natsi sertifikadô nan dadin' da
 cert-not-verified-unknown = Nu ni'în' nuhuin saj na'ue natsi sertiifikadô nan.
 
 ## Add Security Exception dialog
+
+
+## Certificate export "Save as" and error dialogs
 
