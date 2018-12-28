@@ -280,6 +280,7 @@ update-application-use-service =
 update-enable-search-update =
     .label = อัปเดตเครื่องมือค้นหาโดยอัตโนมัติ
     .accesskey = อ
+update-pref-write-failure-title = การเขียนล้มเหลว
 # Variables:
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = ไม่สามารถบันทึกค่ากำหนด ไม่สามารถเขียนไปยังไฟล์: { $path }
