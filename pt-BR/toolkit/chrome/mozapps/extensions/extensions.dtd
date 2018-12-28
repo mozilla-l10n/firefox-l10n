@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY addons.windowTitle                   "Gerenciador de extensões">
 
-<!ENTITY search.placeholder2                  "Pesquisar em addons.mozilla.org">
-
 <!ENTITY search.placeholder3                  "Pesquisar em addons.mozilla.org">
 <!ENTITY search.buttonlabel                   "Pesquisar">
 <!-- LOCALIZATION NOTE (search.commandkey):
@@ -20,9 +18,6 @@
 <!ENTITY installAddonFromFile.label           "Instalar de um arquivo…">
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "Ferramentas para todos os complementos">
-
-<!ENTITY getThemes.description                "Deseja personalizar o seu navegador?">
-<!ENTITY getThemes.learnMore                  "Escolha entre milhares de temas.">
 
 
 <!ENTITY showUnsignedExtensions.button.label  "Algumas extensões não puderam ser verificadas">
@@ -87,14 +82,7 @@
 <!ENTITY cmd.preferencesUnix.label            "Preferências">
 <!ENTITY cmd.preferencesUnix.accesskey        "P">
 
-
-
-
-
-
-
-
-
+<!-- addon actions -->
 <!ENTITY cmd.enableAddon.label                "Ativar">
 <!ENTITY cmd.enableAddon.accesskey            "H">
 <!ENTITY cmd.disableAddon.label               "Desativar">
@@ -103,9 +91,6 @@
 <!ENTITY cmd.enableTheme.accesskey            "A">
 <!ENTITY cmd.disableTheme.label               "Stop Wearing Theme">
 <!ENTITY cmd.disableTheme.accesskey           "W">
-
-
-
 
 <!ENTITY cmd.askToActivate.label              "Perguntar para ativar">
 <!ENTITY cmd.askToActivate.tooltip            "Perguntar toda vez para usar esta extensão">
@@ -117,7 +102,6 @@
 <!ENTITY cmd.installAddon.label               "Instalar">
 <!ENTITY cmd.installAddon.accesskey           "I">
 
-
 <!ENTITY cmd.uninstallAddon.label             "Remover">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
 <!ENTITY cmd.showPreferencesWin.label         "Opções">
@@ -127,9 +111,6 @@
 <!ENTITY cmd.contribute.label                 "Contribuir">
 <!ENTITY cmd.contribute.accesskey             "C">
 <!ENTITY cmd.contribute.tooltip               "Contribuir para o desenvolvimento desta extensão">
-
-
-
 
 <!ENTITY cmd.showReleaseNotes.label           "Mostrar notas de lançamento">
 <!ENTITY cmd.showReleaseNotes.tooltip         "Mostrar as notas de lançamento para esta atualização">
@@ -180,17 +161,16 @@ funcionalidades ou estilos extras. Experimente um painel que otimiza seu tempo, 
 <!-- ratings -->
 <!ENTITY rating2.label                        "Classificação">
 
-
 <!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "Pausa">
 
+<!-- download/install progress -->
 <!ENTITY progress.cancel.tooltip              "Cancelar">
 
 <!ENTITY addon.homepage                       "Visitar o site">
 
-
 <!ENTITY addon.details.label                  "Mais">
-<!ENTITY addon.details.tooltip                "Mostrar mais detalhes sobre estas extensões">
+<!ENTITY addon.details.tooltip                "Mostrar mais detalhes sobre esta extensão">
 <!ENTITY addon.unknownDate                    "Desconhecido">
 <!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
      to the add-on name for extensions that are not webextensions, which
