@@ -133,6 +133,8 @@ exception-mgr-permanent =
     .label = Na'nïnj sà' ginun yitïnj esepsiôn nan
     .accesskey = P
 pk11-bad-password = Nitaj si hua hue'ê da'nga' huì gachrûnt.
+pkcs12-decode-err = Hua sa gahui a'nan' danj na'ue na'nïn archîbo. Asi nitaj si nunj riña formatô PKCS 12, hua a'nanj asi nitaj si hua hue'ê da'nga' huì gachrûnt.
+pkcs12-unknown-err-restore = Nu ni'în' nùhuin saj na'ue nagi'ia archibô PKCS #12
 
 ## PKCS#12 file dialogs
 
