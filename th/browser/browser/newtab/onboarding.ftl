@@ -28,5 +28,6 @@ onboarding-fxa-text = ลงทะเบียน { -fxaccount-brand-name } แ�
 
 ## Message strings belonging to the Return to AMO flow
 
+return-to-amo-sub-header = เยี่ยม คุณได้รับ { -brand-short-name } แล้ว
 return-to-amo-extension-button = เพิ่มส่วนขยาย
 return-to-amo-get-started-button = เริ่มต้นใช้งานกับ { -brand-short-name }
