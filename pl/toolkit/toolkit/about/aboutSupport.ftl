@@ -204,6 +204,7 @@ has-seccomp-tsync = Synchronizacja wątków Seccomp
 has-user-namespaces = Przestrzenie nazw użytkownika
 has-privileged-user-namespaces = Przestrzenie nazw użytkownika dla uprzywilejowanych procesów
 can-sandbox-content = Separacja procesów
+can-sandbox-media = Separacja wtyczek
 content-sandbox-level = Poziom separacji treści
 effective-content-sandbox-level = Efektywny poziom separacji treści
 sandbox-proc-type-content = zawartość
