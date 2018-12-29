@@ -154,9 +154,6 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = Opne lenker i faner i staden for nye vindauge
     .accesskey = l
-warn-on-quit-close-multiple-tabs =
-    .label = Åtvar ved avslutting og attlating av fleire faner
-    .accesskey = Å
 warn-on-close-multiple-tabs =
     .label = Åtvar meg ved attlating av fleire faner
     .accesskey = Å
@@ -863,6 +860,8 @@ collection-health-report-link = Les meir
 collection-studies =
     .label = Tillat { -brand-short-name } å installere og køyre studium
 collection-studies-link = Vis { -brand-short-name }-studium
+addon-recommendations =
+    .label = Tillat { -brand-short-name } å kome med tilpassa utvidingstilrådingar
 addon-recommendations-link = Les meir
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
