@@ -17,11 +17,12 @@
 
 <!-- LOCALIZATION NOTE (canvasDebuggerUI.reloadNotice2): This is the label shown
   -  along with the button that triggers a page refresh. -->
-<!ENTITY canvasDebuggerUI.reloadNotice2   "trang có thể gỡ lỗi &lt;canvas&gt;.">
+<!ENTITY canvasDebuggerUI.reloadNotice2   "trang để có thể gỡ lỗi &lt;canvas&gt; bối cảnh.">
 
 <!-- LOCALIZATION NOTE (canvasDebuggerUI.emptyNotice1/2): This is the label shown
   -  in the call list view when empty. -->
 <!ENTITY canvasDebuggerUI.emptyNotice1    "Nhấp vào">
+<!ENTITY canvasDebuggerUI.emptyNotice2    "nút để ghi lại một khung hình hoạt hình cuộc gọi xếp chồng.">
 
 <!-- LOCALIZATION NOTE (canvasDebuggerUI.waitingNotice): This is the label shown
   -  in the call list view while recording a snapshot. -->
