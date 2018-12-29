@@ -1050,7 +1050,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Hủy bỏ">
 
 <!ENTITY trackingProtection.title "Chống theo dõi">
-<!ENTITY trackingProtection.tooltip "Mở Tùy chọn Trình chống theo dõi">
+<!ENTITY trackingProtection.tooltip "Mở tùy chọn trình chống theo dõi">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control

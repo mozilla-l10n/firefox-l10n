@@ -27,8 +27,8 @@ install-addon-from-file =
 help-button = Hỗ trợ tiện ích
 preferences =
     { PLATFORM() ->
-        [windows] { -brand-short-name } Tùy chọn
-       *[other] { -brand-short-name } Tùy chỉnh
+        [windows] Tùy chọn { -brand-short-name }
+       *[other] Tùy chỉnh { -brand-short-name }
     }
 tools-menu =
     .tooltiptext = Công cụ cho tất cả tiện ích
