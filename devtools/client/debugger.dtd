@@ -22,7 +22,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.blackBoxMessage.label): This is the message
   - displayed to users when they select a black boxed source from the sources
   - list in the debugger. -->
-<!ENTITY debuggerUI.blackBoxMessage.label "This source is black boxed: its breakpoints are disabled, and stepping skips through it.">
+<!ENTITY debuggerUI.blackBoxMessage.label "ต้นฉบับนี้ถูกเปิดกล่องดำ: จุดพักถูกปิดใช้งาน และการก้าวจะข้ามไป">
 
 <!-- LOCALIZATION NOTE (debuggerUI.blackBoxMessage.unBlackBoxButton): This is
   - the text displayed in the button to stop black boxing the currently selected
@@ -43,7 +43,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.autoPrettyPrint): This is the label for the
   -  checkbox that toggles auto pretty print. -->
-<!ENTITY debuggerUI.autoPrettyPrint     "จัดต้นฉบับที่ถูกลดขนาดให้สวยงามอัตโนมัติ">
+<!ENTITY debuggerUI.autoPrettyPrint     "จัดต้นฉบับที่ถูกลดขนาดให้สวยงามโดยอัตโนมัติ">
 <!ENTITY debuggerUI.autoPrettyPrint.accesskey "จ">
 
 <!-- LOCALIZATION NOTE (debuggerUI.sources.toggleBreakpoints): This is the tooltip for the
@@ -94,6 +94,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.autoBlackBox): This is the label for
   -  the checkbox that toggles whether sources that we suspect are minified are
   -  automatically black boxed or not. -->
+<!ENTITY debuggerUI.autoBlackBox           "เปิดกล่องดำต้นฉบับที่ถูกลดขนาดโดยอัตโนมัติ">
 <!ENTITY debuggerUI.autoBlackBox.accesskey "B">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchPanelOperators): This is the text that
