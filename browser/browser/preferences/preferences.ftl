@@ -857,6 +857,9 @@ collection-health-report-link = En savoir plus
 collection-studies =
     .label = Autoriser { -brand-short-name } à installer et à lancer des études
 collection-studies-link = Consulter les études de { -brand-short-name }
+addon-recommendations =
+    .label = Autoriser { -brand-short-name } à effectuer des recommandations personnalisées d’extensions.
+addon-recommendations-link = En savoir plus
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = L’envoi de données est désactivé pour cette configuration de compilation
