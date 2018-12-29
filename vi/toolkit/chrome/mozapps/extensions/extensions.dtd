@@ -40,7 +40,7 @@
 <!ENTITY view.availableUpdates.label          "Có thể cập nhật">
 
 <!ENTITY helpButton.label                      "Hỗ trợ Tiện ích">
-<!ENTITY preferencesWin.label                  "&brandShortName; Tùy chọn">
+<!ENTITY preferencesWin.label                  "Tùy chọn &brandShortName;">
 <!ENTITY preferencesUnix.label                 "&brandShortName; Tùy chỉnh">
 
 <!-- addon updates -->

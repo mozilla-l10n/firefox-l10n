@@ -3,4 +3,4 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  settingsChangePreferences.label  "Thiết lập có thể được thay đổi trong Tùy chỉnh của &brandShortName;.">
-<!ENTITY  settingsChangeOptions.label      "Thiết lập có thể được thay đổi trong Tùy chọn của &brandShortName;.">
+<!ENTITY  settingsChangeOptions.label      "Thiết lập có thể được thay đổi trong tùy chọn của &brandShortName;.">
