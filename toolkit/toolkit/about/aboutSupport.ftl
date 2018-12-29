@@ -17,6 +17,12 @@ extensions-name = Navn
 extensions-enabled = Aktiveret
 extensions-version = Version
 extensions-id = ID
+security-software-title = Sikkerheds-software
+security-software-type = Type
+security-software-name = Navn
+security-software-antivirus = Antivirus
+security-software-antispyware = Antispyware
+security-software-firewall = Firewall
 app-basics-title = Programinfo
 app-basics-name = Navn
 app-basics-version = Version
@@ -38,6 +44,8 @@ app-basics-performance = Ydelse
 app-basics-service-workers = Registrerede Service Workers
 app-basics-profiles = Profiler
 app-basics-multi-process-support = Multiproces-vinduer
+app-basics-process-count = Webindholds-processer
+app-basics-enterprise-policies = Virksomheds-politikker
 app-basics-key-google = Google-nøgle
 app-basics-key-mozilla = Mozilla Location Service-nøgle
 app-basics-safe-mode = Fejlsikret tilstand
@@ -72,6 +80,8 @@ js-incremental-gc = Incremental GC
 a11y-title = Tilgængelighed
 a11y-activated = Aktiveret
 a11y-force-disabled = Slå tilgængelighed fra
+a11y-handler-used = Tilgængelig håndtering anvendt
+a11y-instantiator = Tilgængelighed-instantiator
 library-version-title = Biblioteksversioner
 copy-text-to-clipboard-label = Kopier tekst til udklipsholderen
 copy-raw-data-to-clipboard-label = Kopier rå data til udklipsholderen
@@ -86,6 +96,27 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Argumenter
 safe-mode-title = Prøv fejlsikret tilstand
 restart-in-safe-mode-label = Genstart med tilføjelser deaktiveret…
+media-title = Medieindhold
+media-output-devices-title = Output-enheder
+media-input-devices-title = Input-enheder
+media-device-name = Navn
+media-device-group = Gruppe
+media-device-vendor = Producent
+media-device-state = Tilstand
+media-device-preferred = Foretrukken
+media-device-format = Format
+media-device-channels = Kanaler
+media-device-rate = Rate
+media-device-latency = Latenstid
+intl-title = Tilpasning til andre sprog og lande
+intl-app-title = Indstillinger for applikation
+intl-locales-requested = Forespurgte sprog
+intl-locales-available = Tilgængelige sprog
+intl-locales-supported = App-sprog
+intl-locales-default = Standard-sprog
+intl-os-title = Operativsystem
+intl-os-prefs-system-locales = System-sprog
+intl-regional-prefs = Regionale indstillinger
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -180,6 +211,15 @@ d3d9video-crash-buard = D3D9-videodekoder
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Nulstil ved næste genstart
 gpu-process-kill-button = Afslut GPU-process
+gpu-device-reset-button = Trigger Device Reset
+uses-tiling = Anvender tiling
+content-uses-tiling = Anvender tiling (indhold)
+off-main-thread-paint-enabled = Rasteriser sider i særskilt proces
+off-main-thread-paint-worker-count = Antal workers til rastering af sider i særskilt proces
+audio-backend = Audio-backend
+max-audio-channels = Max antal kanaler
+channel-layout = Foretrukket kanal-layout
+sample-rate = Foretrukken sample-rate
 min-lib-versions = Forventet minimumsversion
 loaded-lib-versions = Version i brug
 has-seccomp-bpf = Seccomp-BPF (filtrering af systemkald)
@@ -188,7 +228,10 @@ has-user-namespaces = Navneområder
 has-privileged-user-namespaces = Navneområder for priviligerede processer
 can-sandbox-content = Sandboxning indholdsprocesser
 can-sandbox-media = Sandboxning af medie-plugin
+content-sandbox-level = Content Process Sandbox Level
+effective-content-sandbox-level = Effective Content Process Sandbox Level
 sandbox-proc-type-content = indhold
+sandbox-proc-type-file = fil-indhold
 sandbox-proc-type-media-plugin = medie-plugin
 # Variables
 # $remoteWindows (integer) - Number of remote windows
@@ -207,6 +250,8 @@ apz-none = ingen
 wheel-enabled = input fra rullehjul
 touch-enabled = input fra trykfølsom skærm
 drag-enabled = træk i rullebjælke
+keyboard-enabled = tastatur
+autoscroll-enabled = autoscroll
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
@@ -216,3 +261,6 @@ touch-warning = asynkront input fra trykfølsom skærm er deaktiveret på grund 
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+policies-inactive = Inaktiv
+policies-active = Aktiv
+policies-error = Fejl
