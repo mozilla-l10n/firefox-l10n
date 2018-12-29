@@ -38,7 +38,7 @@
 <!ENTITY aboutNetworking.setLogModules         "ตั้งค่าโมดูลล็อก">
 <!ENTITY aboutNetworking.startLogging          "เริ่มการบันทึก">
 <!ENTITY aboutNetworking.stopLogging           "หยุดการบันทึกล็อก">
-<!ENTITY aboutNetworking.dnsLookup             "DNS Lookup">
+<!ENTITY aboutNetworking.dnsLookup             "การค้นหา DNS">
 <!ENTITY aboutNetworking.dnsLookupButton       "แปลงที่อยู่">
 <!ENTITY aboutNetworking.dnsDomain             "โดเมน">
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "IP">
