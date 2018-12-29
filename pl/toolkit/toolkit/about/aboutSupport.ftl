@@ -64,6 +64,11 @@ locked-key-prefs-title = Ważne zablokowane ustawienia
 locked-prefs-name = Nazwa
 locked-prefs-value = Wartość
 graphics-title = Grafika
+graphics-features-title = Funkcje
+graphics-diagnostics-title = Diagnostyka
+graphics-failure-log-title = Dziennik niepowodzeń
+graphics-gpu1-title = GPU 1
+graphics-gpu2-title = GPU 2
 graphics-decision-log-title = Decyzje
 graphics-crash-guards-title = Funkcje wyłączone dla ochrony przed awariami
 graphics-workarounds-title = Obejścia problemów
@@ -158,6 +163,11 @@ try-newer-driver = Zablokowane dla zainstalowanej wersji sterownika grafiki. Zal
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Parametry ClearType
+compositing = Komponowanie
+hardware-h264 = Sprzętowe dekodowanie H.264
+main-thread-no-omtc = główny wątek, brak OMTC
+yes = Tak
+no = Nie
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
@@ -165,6 +175,15 @@ clear-type-parameters = Parametry ClearType
 
 found = Obecny
 missing = Brak
+gpu-description = Opis
+gpu-vendor-id = ID dostawcy
+gpu-device-id = ID urządzenia
+gpu-subsys-id = ID podsystemu
+gpu-drivers = Sterowniki
+gpu-ram = RAM
+gpu-driver-version = Wersja sterownika
+gpu-driver-date = Data sterownika
+gpu-active = Aktywna
 webgl1-wsiinfo = Informacje sterownika WebGL 1 WSI
 webgl1-renderer = Renderer sterownika WebGL 1
 webgl1-version = Wersja sterownika WebGL 1
@@ -219,6 +238,7 @@ multi-process-status-2 = wyłączone
 multi-process-status-4 = wyłączone przez usługi ułatwień dostępu
 multi-process-status-6 = wyłączone ze względu na nieobsługiwaną metodę wprowadzania
 multi-process-status-7 = wyłączone przez dodatki
+multi-process-status-8 = wymuszone wyłączenie
 multi-process-status-unknown = nieznany status
 async-pan-zoom = Asynchroniczne przewijanie/powiększanie
 apz-none = brak
