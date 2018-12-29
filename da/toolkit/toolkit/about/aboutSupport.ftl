@@ -40,6 +40,8 @@ app-basics-key-mozilla = Mozilla Location Service-nøgle
 modified-key-prefs-title = Vigtige ændrede indstillinger
 modified-prefs-name = Navn
 modified-prefs-value = Værdi
+user-js-title = Indstillinger i user.js
+user-js-description = Din profilmappe indeholder filen <a data-l10n-name="user-js-link">user.js</a>, som indeholder indstillinger, der ikke er oprettet af { -brand-short-name }.
 locked-key-prefs-title = Vigtige låste indstillinger
 locked-prefs-name = Navn
 locked-prefs-value = Værdi
