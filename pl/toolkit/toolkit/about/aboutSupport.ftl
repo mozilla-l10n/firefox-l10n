@@ -19,6 +19,11 @@ extensions-enabled = Włączone
 extensions-version = Wersja
 extensions-id = ID
 security-software-title = Oprogramowanie zabezpieczające
+security-software-type = Typ
+security-software-name = Nazwa
+security-software-antivirus = Program antywirusowy
+security-software-antispyware = Program antyszpiegowski
+security-software-firewall = Zapora sieciowa
 features-title = Wbudowane rozszerzenia programu { -brand-short-name }
 features-name = Nazwa
 features-version = Wersja
@@ -108,6 +113,15 @@ media-device-format = Format
 media-device-channels = Kanały
 media-device-rate = Częstotliwość próbkowania
 media-device-latency = Opóźnienie
+intl-title = Umiędzynaradawianie i lokalizacja
+intl-app-title = Ustawienia programu
+intl-locales-requested = Żądane ustawienia regionalne
+intl-locales-available = Dostępne ustawienia regionalne
+intl-locales-supported = Ustawienia regionalne programu
+intl-locales-default = Domyślne ustawienia regionalne
+intl-os-title = System operacyjny
+intl-os-prefs-system-locales = Ustawienia regionalne systemu
+intl-regional-prefs = Preferencje regionalne
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -228,6 +242,7 @@ content-sandbox-level = Poziom separacji treści
 effective-content-sandbox-level = Efektywny poziom separacji treści
 sandbox-proc-type-content = zawartość
 sandbox-proc-type-file = zawartość pliku
+sandbox-proc-type-media-plugin = wtyczka
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
