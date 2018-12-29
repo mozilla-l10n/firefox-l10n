@@ -40,7 +40,6 @@
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
 <!ENTITY runtimeMenu_showSettings_label "ডিভাইস সেটিং">
 <!ENTITY runtimeMenu_showSettings_accesskey "s">
-
 <!ENTITY runtimeMenu_showPerformancePanel_label "কার্যকারিতা">
 <!ENTITY runtimeMenu_showPerformancePanel_accesskey "p">
 
@@ -77,7 +76,6 @@
 <!ENTITY runtimePanel_usb "USB ডিভাইস">
 <!ENTITY runtimePanel_wifi "Wi-Fi ডিভাইস">
 <!ENTITY runtimePanel_other "অন্যান্য">
-<!ENTITY runtimePanel_noadbhelper "ইনস্টল ADB Helper">
 <!ENTITY runtimePanel_nousbdevice "আপনার ডিভাইস দেখতে পাচ্ছেন না?">
 <!ENTITY runtimePanel_refreshDevices_label "ডিভাইসগুলো রিফ্রেস করুন">
 
