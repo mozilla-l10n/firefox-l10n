@@ -2,6 +2,27 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables
+# $minutes (integer) - Number of minutes since crash
+crashes-time-minutes =
+    { $minutes ->
+        [one] { $minutes } minuto fa
+       *[other] { $minutes } minuti fa
+    }
+# Variables
+# $hours (integer) - Number of hours since crash
+crashes-time-hours =
+    { $hours ->
+        [one] { $hours } ora fa
+       *[other] { $hours } ore fa
+    }
+# Variables
+# $days (integer) - Number of days since crash
+crashes-time-days =
+    { $days ->
+        [one] { $days } giorno fa
+       *[other] { $days } giorni fa
+    }
 raw-data-copied = Dati non elaborati copiati negli appunti
 text-copied = Testo copiato negli appunti
 
