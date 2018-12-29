@@ -50,7 +50,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "ปลั๊กอินที่เปิดใช้งาน">
 <!ENTITY aboutSupport.appBasicsBuildConfig "การกำหนดค่าการสร้าง">
-<!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
+<!ENTITY aboutSupport.appBasicsUserAgent "ตัวแทนผู้ใช้">
 <!ENTITY aboutSupport.appBasicsOS "ระบบปฏิบัติการ">
 <!ENTITY aboutSupport.appBasicsMemoryUse "หน่วยความจำที่ใช้">
 <!ENTITY aboutSupport.appBasicsPerformance "ประสิทธิภาพ">

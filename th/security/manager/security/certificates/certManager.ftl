@@ -197,7 +197,7 @@ verify-ssl-server =
 verify-ssl-ca =
     .value = ผู้ออกใบรับรอง SSL
 verify-email-signer =
-    .value = Email Signer Certificate
+    .value = ใบรับรองผู้เซ็นอีเมล
 verify-email-recip =
     .value = ใบรับรองผู้รับอีเมล
 # Cert verification
