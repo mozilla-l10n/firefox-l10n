@@ -12,6 +12,7 @@ crashes-id = Rapport-ID
 crashes-send-date = Sendt
 crashes-all-reports = Alle fejlrapporter
 crashes-no-config = Dette program er ikke konfigureret til at vise fejlrapporter.
+extensions-title = Udvidelser
 extensions-name = Navn
 extensions-enabled = Aktiveret
 extensions-version = Version
@@ -33,10 +34,19 @@ app-basics-build-config = Byggekonfiguration
 app-basics-user-agent = User Agent
 app-basics-os = Styresystem
 app-basics-memory-use = Hukommelsesforbrug
+app-basics-performance = Ydelse
+app-basics-service-workers = Registrerede Service Workers
 app-basics-profiles = Profiler
 app-basics-multi-process-support = Multiproces-vinduer
 app-basics-key-google = Google-nøgle
 app-basics-key-mozilla = Mozilla Location Service-nøgle
+app-basics-safe-mode = Fejlsikret tilstand
+show-dir-label =
+    { PLATFORM() ->
+        [macos] Vis i Finder
+        [windows] Åbn mappe
+       *[other] Åbn mappe
+    }
 modified-key-prefs-title = Vigtige ændrede indstillinger
 modified-prefs-name = Navn
 modified-prefs-value = Værdi
@@ -46,7 +56,17 @@ locked-key-prefs-title = Vigtige låste indstillinger
 locked-prefs-name = Navn
 locked-prefs-value = Værdi
 graphics-title = Grafik
+graphics-features-title = Funktioner
+graphics-diagnostics-title = Diagnostik
+graphics-failure-log-title = Fejl-log
+graphics-gpu1-title = GPU #1
+graphics-gpu2-title = GPU #2
+graphics-decision-log-title = Beslutnings-log
+graphics-crash-guards-title = Funktioner deaktiveret af Crash guard
 graphics-workarounds-title = Løsninger
+place-database-title = Databasen Places
+place-database-integrity = Integritet
+place-database-verify-integrity = Bekræft integritet
 js-title = JavaScript
 js-incremental-gc = Incremental GC
 a11y-title = Tilgængelighed
@@ -109,12 +129,18 @@ text-copied = Tekst blev kopieret til udklipsholderen
 blocked-driver = Ikke understøttet i denne grafik-driver-version.
 blocked-gfx-card = Ikke understøttet i denne grafik-driver-version grundet uløste driver-forhold.
 blocked-os-version = Ikke understøttet i denne version af dit operativsystem.
+blocked-mismatched-version = Ikke understøttet af driveren til dit grafikkort på grund af en uoverensstemmelse mellem registret og DLL.
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Ikke understøttet i denne grafik-driver-version. Prøv at opgradere din grafik-driver til version { $driverVersion } eller nyere.
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType parametre
+compositing = Komposition
+hardware-h264 = H264-afkodning i hardware
+main-thread-no-omtc = main thread, ingen OMTC
+yes = Ja
+no = Nej
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
@@ -122,19 +148,44 @@ clear-type-parameters = ClearType parametre
 
 found = Fundet
 missing = Mangler
+gpu-description = Beskrivelse
+gpu-vendor-id = Producent-ID
+gpu-device-id = Enheds-ID
+gpu-subsys-id = Subsys-ID
+gpu-drivers = Drivere
+gpu-ram = RAM
+gpu-driver-version = Driver-version
+gpu-driver-date = Driver-dato
+gpu-active = Aktiv
 webgl1-wsiinfo = WebGL 1 Driver WSI-info
 webgl1-renderer = WebGL 1 Driver-rendering
 webgl1-version = WebGL 1 Driver-version
 webgl1-driver-extensions = WebGL 1 Driver-udvidelser
 webgl1-extensions = WebGL 1-udvidelser
 webgl2-wsiinfo = WebGL 2 Driver WSI-info
+webgl2-renderer = WebGL2-rendering
 webgl2-version = WebGL 2 Driver-version
 webgl2-driver-extensions = WebGL 2 Driver-udvidelser
 webgl2-extensions = WebGL 2-udvidelser
+blocklisted-bug = Blokeret på grund af kendte problemer
+# Variables
+# $bugNumber (string) - String of bug number from Bugzilla
+bug-link = bug { $bugNumber }
+# Variables
+# $failureCode (string) - String that can be searched in the source tree.
+unknown-failure = Blokeret; fejlkode { $failureCode }
+d3d11layers-crash-guard = D3D11-kompositoren
+d3d11video-crash-guard = D3D11-videodekoder
+d3d9video-crash-buard = D3D9-videodekoder
+glcontext-crash-guard = OpenGL
+reset-on-next-restart = Nulstil ved næste genstart
 gpu-process-kill-button = Afslut GPU-process
 min-lib-versions = Forventet minimumsversion
 loaded-lib-versions = Version i brug
 has-seccomp-bpf = Seccomp-BPF (filtrering af systemkald)
+has-seccomp-tsync = Seccomp tråd-synkronisering
+has-user-namespaces = Navneområder
+has-privileged-user-namespaces = Navneområder for priviligerede processer
 can-sandbox-content = Sandboxning indholdsprocesser
 can-sandbox-media = Sandboxning af medie-plugin
 sandbox-proc-type-content = indhold
@@ -149,12 +200,19 @@ multi-process-status-2 = Deaktiveret
 multi-process-status-4 = Deaktiveret af tilgængelighedsværktøjer
 multi-process-status-6 = Deaktiveret på grund af ikke-understøttet indsætning af tekst
 multi-process-status-7 = Deaktiveret af tilføjelser
+multi-process-status-8 = Gennemtving deaktivering
 multi-process-status-unknown = Ukendt status
+async-pan-zoom = Asynkron panorering/zoom
+apz-none = ingen
+wheel-enabled = input fra rullehjul
+touch-enabled = input fra trykfølsom skærm
 drag-enabled = træk i rullebjælke
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
 
+wheel-warning = asynkront input fra rullehjul er deaktiveret på grund af en ikke understøttet indstilling: { $preferenceKey }
+touch-warning = asynkront input fra trykfølsom skærm er deaktiveret på grund af en ikke understøttet indstilling: { $preferenceKey }
 
 ## Strings representing the status of the Enterprise Policies engine.
 
