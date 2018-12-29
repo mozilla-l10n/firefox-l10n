@@ -12,7 +12,6 @@
 <!ENTITY advanced.label "Avansert">
 <!ENTITY continue2.label "Meir…">
 <!ENTITY moreInformation.label "Meir informasjon">
-
 <!ENTITY viewCertificate.label "Vis sertifikat">
 
 <!-- Specific error messages -->
@@ -102,9 +101,6 @@ will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Eigaren av <span class='hostname'/> har konfigurert nettstaden sin feil.  For å verne informasjonen din frå å bli stolen, har &brandShortName; ikkje kopla seg til denne nettstaden.">
 <!ENTITY certerror.introPara2 "&brandShortName; oppdaga ein potensiell sikkerheitstrussel og fortsette ikkje til <span class='hostname'/>. Viss du besøkjer denne nettstaden, kan angriparane prøve å stele informasjon som passord, e-post eller kredittkortdetaljar.">
-
-<!ENTITY certerror.expiredCert.secondPara "Dette problemet får du, mest sannsynleg, fordi klokka på datamaskina di er innstillt på feil tid, noko som ville hindre &brandShortName; frå å kople til trygt.">
-
 <!ENTITY certerror.sts.introPara "&brandShortName; oppdaga ein potensiell sikkerheitstrussel og held ikkje fram til <span class='hostname'/> fordi denne nettstaden krev ei sikker tilkopling.">
 
 <!ENTITY certerror.expiredCert.introPara "&brandShortName; oppdaga eit problem og held ikkje fram til <span class='hostname'/>. Nettstaden er anten feilkonfigurert eller klokka på datamaskina er stilt inn på feil tid.">
@@ -167,6 +163,8 @@ was trying to connect. -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> brukar tryggingsteknologi som er forelda og sårbar for åtak. Ein angripar kan lett avsløre informasjon som du trudde skulle vere sikker. Administrator på nettstaden må fikse tenaren før du kan besøkje nettsida.</p><p>Feilkode: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Blokkert side">
+
+<!ENTITY certerror.mitm.title "Programvara hindrar &brandShortName; frå trygg tilkopling til denne nettstaden">
 
 <!ENTITY clockSkewError.title "Klokka på datamaskina di er feil">
 <!ENTITY clockSkewError.longDesc "Datamaskina di trur det er <span id='wrongSystemTime_systemDate1'/>, som hindrar &brandShortName; frå å kople til sikkert. For å besøke <span class='hostname'></span>, oppdater klokka til datamaskina i systeminnstillingane til gjeldende dato, klokkeslett og tidssone, og oppdater deretter <span class='hostname'></span>.">
