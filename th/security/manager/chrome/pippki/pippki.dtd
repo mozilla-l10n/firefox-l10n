@@ -11,7 +11,7 @@
 <!ENTITY setPassword.meter.label "มาตรวัดคุณภาพรหัสผ่าน">
 
 <!-- Values for resetpassword.xul -->
-<!ENTITY resetPasswordButtonLabel "ล้าง">
+<!ENTITY resetPasswordButtonLabel "ตั้งค่าใหม่">
 <!ENTITY resetPassword.title  "ล้างรหัสผ่านหลัก">
 <!ENTITY resetPassword.text  "หากคุณตั้งรหัสผ่านหลักของคุณใหม่ รหัสผ่านเว็บและอีเมล, ข้อมูลแบบฟอร์ม, ใบรับรองส่วนบุคคล และกุญแจส่วนตัวทั้งหมดที่คุณจัดเก็บจะถูกลืม คุณแน่ใจหรือไม่ว่าต้องการตั้งรหัสผ่านหลักของคุณใหม่?">
 
