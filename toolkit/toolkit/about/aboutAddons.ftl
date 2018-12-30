@@ -4,6 +4,11 @@
 
 addons-window =
     .title = Add-ons-Verwaltung
+
+search-header =
+    .placeholder = Auf addons.mozilla.org suchen
+    .searchbuttonlabel = Suchen
+
 search-header-shortcut =
     .key = f
 loading-label =
@@ -21,6 +26,15 @@ list-empty-button =
 install-addon-from-file =
     .label = Add-on aus Datei installieren…
     .accesskey = A
+
+help-button = Hilfe für Add-ons
+
+preferences =
+    { PLATFORM() ->
+        [windows] { -brand-short-name } - Einstellungen
+       *[other] { -brand-short-name } - Einstellungen
+    }
+
 tools-menu =
     .tooltiptext = Tools für alle Add-ons
 show-unsigned-extensions-button =
