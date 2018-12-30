@@ -440,9 +440,6 @@
 <!ENTITY openMessageWindowCmd.label "Otevřít zprávu">
 <!ENTITY openMessageWindowCmd.accesskey "t">
 <!ENTITY openMessageWindowCmd.key "o">
-<!ENTITY openConversationCmd.label "Otevřít v konverzaci">
-<!ENTITY openConversationCmd.accesskey "n">
-<!ENTITY openConversationCmd.key "o">
 <!ENTITY openAttachmentListCmd.label "Přílohy">
 <!ENTITY openAttachmentListCmd.accesskey "h">
 <!ENTITY openFeedMessage1.label "Při otvírání zprávy z kanálu">
@@ -510,9 +507,9 @@
 <!ENTITY accountManagerCmdUnix2.accesskey "A">
 
 <!-- Developer Tools Submenu -->
-<!ENTITY devtoolsMenu.label "Vývojářské nástroje">
+<!ENTITY devtoolsMenu.label "Nástroje pro vývojáře">
 <!ENTITY devtoolsMenu.accesskey "o">
-<!ENTITY devToolboxCmd.label "Vývojářské nástroje">
+<!ENTITY devToolboxCmd.label "Nástroje pro vývojáře">
 <!ENTITY devToolboxCmd.accesskey "t">
 <!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY debugAddonsCmd.label "Ladit doplňky">
