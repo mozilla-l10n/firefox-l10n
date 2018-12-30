@@ -21,7 +21,7 @@ policy-CertificatesDescription = Přidat certifikáty nebo použít vestavěné 
 policy-Cookies = Pravidla pro ukládání nebo blokování cookies.
 policy-DisableAppUpdate = Blokování aktualizací prohlížeče.
 policy-DisableBuiltinPDFViewer = Zablokování PDF prohlížeče PDF.js vestavěného v aplikaci { -brand-short-name }.
-policy-DisableDeveloperTools = Blokování přístupu do nástrojů vývojáře.
+policy-DisableDeveloperTools = Blokování přístupu k nástrojům pro vývojáře.
 policy-DisableFeedbackCommands = Blokování odeslání zpětné vazby z nabídky Nápověda (volby Odeslat zpětnou vazbu a Nahlásit klamavou stránku).
 policy-DisableFirefoxAccounts = Vypnutí služeb používajících účet Firefoxu, včetně synchronizace.
 # Firefox Screenshots is the name of the feature, and should not be translated.
