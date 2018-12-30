@@ -20,3 +20,4 @@ messenger-languages-window =
     .title = Paramètres de langue de { -brand-short-name }
     .style = width: 40em
 messenger-languages-description = { -brand-short-name } affichera la première langue par défaut puis les autres langues si nécessaire dans leur ordre d’apparition.
+messenger-languages-search = Recherche de langues supplémentaires…
