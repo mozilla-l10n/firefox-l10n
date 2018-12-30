@@ -36,7 +36,7 @@
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.keyShortcutMessage): Message displayed when
   -  users pressed a DevTools key shortcut. -->
 <!ENTITY  aboutDevtools.enable.keyShortcutMessage
-          "Aktivovali jste zkratku pro otevření vývojářských nástrojů. Pokud to bylo nechtěně, můžete tento panel zavřít.">
+          "Aktivovali jste zkratku otevření nástrojů pro vývojáře. Pokud to bylo nechtěně, můžete tento panel zavřít.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.menuMessage2): Message displayed when users
   -  clicked on a "Enable Developer Tools" menu item. -->
@@ -46,7 +46,7 @@
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.commonMessage): Generic message displayed for
   -  all possible entry points (keyshortcut, menu item etc…). -->
 <!ENTITY  aboutDevtools.enable.commonMessage
-          "Vývojářské nástroje jsou ve výchozím stavu ve Firefoxu vypnuty pro vaši větší kontrolu nad funkcemi prohlížeče.">
+          "Nástroje pro vývojáře jsou ve výchozím stavu ve Firefoxu vypnuty pro vaši větší kontrolu nad funkcemi prohlížeče.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.learnMoreLink): Text for the link to
   -  https://developer.mozilla.org/docs/Tools displayed in the top section when DevTools

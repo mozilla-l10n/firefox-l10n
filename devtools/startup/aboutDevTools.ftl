@@ -7,9 +7,9 @@ enable-title = Povolit nástroje pro vývojáře
 enable-inspect-element-title = Povolit nástroje pro vývojáře a prozkoumat prvek
 enable-inspect-element-message = Zkoumejte a upravovujte HTML a CSS pomocí průzkumníku v nástrojích pro vývojáře.
 enable-about-debugging-message = S nástroji pro vývojáře můžete ve Firefoxu vyvíjet a ladit doplňky, WebExtensions, web a service workers a další.
-enable-key-shortcut-message = Aktivovali jste zkratku pro otevření vývojářských nástrojů. Pokud to bylo nechtěně, můžete tento panel zavřít.
+enable-key-shortcut-message = Aktivovali jste zkratku otevření nástrojů pro vývojáře. Pokud to bylo nechtěně, můžete tento panel zavřít.
 enable-menu-message = Vypilujte HTML, CSS a JavaScript na svých webových stránkách pomocí nástrojů pro vývojáře jako průzkumník nebo debugger.
-enable-common-message = Vývojářské nástroje jsou ve výchozím stavu ve Firefoxu vypnuty pro vaši větší kontrolu nad funkcemi prohlížeče.
+enable-common-message = Nástroje pro vývojáře jsou ve výchozím stavu ve Firefoxu vypnuty pro vaši větší kontrolu nad funkcemi prohlížeče.
 enable-learn-more-link = Zjistit více o nástrojích pro vývojáře
 enable-enable-button = Povolit nástroje pro vývojáře
 enable-close-button = Zavřít tento panel
@@ -51,4 +51,4 @@ newsletter-error-unknown = Došlo k neočekávané chybě.
 newsletter-error-timeout = Vypršel časový limit požadavku pro přihlášení odběru.
 # Variables:
 #   $shortcut (String) - The keyboard shortcut used for the tool
-welcome-message = Úspěšně jste zapnuli nástroje pro vývojáře. Pro začátek prozkoumejte nabídku Vývoj webu nebo otevřete nástroje pomocí zkratky { $shortcut }.
+welcome-message = Úspěšně jste zapnuli nástroje pro vývojáře. Pro začátek prozkoumejte nabídku Nástroje pro vývojáře nebo je otevřete pomocí zkratky { $shortcut }.
