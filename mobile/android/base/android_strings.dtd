@@ -297,8 +297,10 @@
 
 <!-- Localization note (pref_feature_tips_notification_enabling_path):
      Nothing to translate. Simple concatenation of already localized strings. Result is used below. -->
+<!ENTITY pref_feature_tips_notification_enabling_path "&pref_category_privacy_short; > &pref_category_datareporting; > &datareporting_fhr_title;">
 <!-- Localization note (pref_feature_tips_notification_enabling_hint):
      Describe the action the user should do to enable this preference. -->
+<!ENTITY pref_feature_tips_notification_enabling_hint2 "(Pro zapnutí této funkce je potřeba povolit &pref_feature_tips_notification_enabling_path;.)">
 
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
@@ -612,7 +614,7 @@
 <!ENTITY home_history_back_to2 "Zpět na kompletní historii">
 <!ENTITY home_clear_history_button "Vymazat historii prohlížení">
 <!ENTITY home_clear_history_confirm "Opravdu chcete vymazat svou historii?">
-<!ENTITY home_bookmarks_empty "Záložky, které uložíte, se zobrazí zde.">
+<!ENTITY home_bookmarks_empty "Tady se zobrazí záložky, které uložíte.">
 <!ENTITY home_closed_tabs_title2 "Nedáno zavřené">
 <!ENTITY home_last_tabs_empty "Vaše poslední panely se ukáží zde.">
 <!ENTITY home_restore_all "Obnovit vše">
@@ -910,6 +912,7 @@ Picture-in-picture mini window -->
 <!ENTITY leanplum_default_notifications_channel "Oznámení z aplikace &brandShortName;">
 <!ENTITY media_notification_channel2 "Zvuk a video">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
+<!ENTITY leanplum_default_notifications_channel2 "Tipy pro &vendorShortName;">
 <!ENTITY updater_notification_channel "Aktualizace aplikace">
 <!ENTITY synced_tabs_notification_channel "Synchronizované panely">
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
