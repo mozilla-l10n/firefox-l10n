@@ -206,7 +206,7 @@
 <!-- Localization note (pref_category_advanced_summary3): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
-<!ENTITY pref_category_advanced_summary3 "Obnova panelů, spořič dat, nástroje vývojáře">
+<!ENTITY pref_category_advanced_summary3 "Obnova panelů, spořič dat, nástroje pro vývojáře">
 <!ENTITY pref_category_notifications "Oznámení">
 <!ENTITY pref_category_notifications_summary2 "Nové funkce a tipy k používání">
 <!ENTITY pref_developer_remotedebugging_usb "Vzdálené ladění pomocí USB">
@@ -263,7 +263,7 @@
      “storing data”. -->
 <!ENTITY pref_category_data_saver "Spořič dat">
 <!ENTITY pref_category_media "Média">
-<!ENTITY pref_category_developer_tools "Vývojářské nástroje">
+<!ENTITY pref_category_developer_tools "Nástroje pro vývojáře">
 
 <!ENTITY pref_tap_to_load_images_title2 "Zobrazit obrázky">
 <!ENTITY pref_tap_to_load_images_enabled "Vždy">
