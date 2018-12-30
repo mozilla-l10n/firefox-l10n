@@ -168,6 +168,7 @@ was trying to connect. -->
 <!ENTITY blockedByPolicy.title "Laman Diblokir">
 
 <!ENTITY certerror.mitm.title "Perangkat Lunak Menghalangi &brandShortName; untuk Tersambung dengan Aman ke Situs Ini">
+<!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> sepertinya situs yang aman, tapi sambungan yang aman tidak terjalin. Masalah ini disebabkan oleh <span class='mitm-name'/>, yang bisa berasal dari peranti lunak dalam komputer atau jaringan Anda. ">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "Jika perangkat lunak antivirus Anda menyertakan fitur pemindai koneksi terenkripsi (sering disebut “pemindaian web” atau “pemindaian https”), Anda dapat menonaktifkan fitur ini. Jika tidak berhasil, Anda dapat menghapus dan menginstal ulang perangkat lunak antivirus.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "Jika Anda berada di jaringan perusahaan, Anda dapat menghubungi departemen TI Anda.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "Jika Anda tidak akrab dengan <span class='mitm-name'/>, bisa jadi ini sebuah serangan dan Anda sebaiknya tidak melanjutkan ke situs.">
