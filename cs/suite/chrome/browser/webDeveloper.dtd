@@ -62,11 +62,11 @@
 <!ENTITY devToolbar.keycode                  "VK_F2">
 <!ENTITY devToolbar.keytext                  "F2">
 
-<!ENTITY devToolboxMenuItem.label            "Nástroje vývojáře">
+<!ENTITY devToolboxMenuItem.label            "Nástroje pro vývojáře">
 <!ENTITY devToolboxMenuItem.accesskey        "t">
 <!ENTITY devToolboxMenuItem.keytext          "I">
 
-<!ENTITY devToolbarToolsButton.tooltip       "Přepne nástroje vývojáře">
+<!ENTITY devToolbarToolsButton.tooltip       "Přepne nástroje pro vývojáře">
 
 <!ENTITY getMoreDevtoolsCmd.label            "Získat další nástroje">
 <!ENTITY getMoreDevtoolsCmd.accesskey        "l">

@@ -3,22 +3,22 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!--LOCALIZATION NOTE : FILE 'Advanced' prefs settings -->
-<!ENTITY pref.advanced.title "Rozšířené">
+<!ENTITY pref.advanced.title              "Rozšířené">
 
-<!ENTITY systemPref.caption "Systémové předvolby">
-<!ENTITY systemPrefCheck.label "Použít předvolby ze systému">
-<!ENTITY systemPrefCheck.accesskey "U">
-<!ENTITY systemPref.desc "Zaškrtnutím této možnosti se zdědí předvolby ze systému. Tím se přepíší předvolby aplikace &brandShortName;">
+<!ENTITY systemPref.caption               "Systémové předvolby">
+<!ENTITY systemPrefCheck.label            "Použít předvolby ze systému">
+<!ENTITY systemPrefCheck.accesskey        "U">
+<!ENTITY systemPref.desc                  "Zaškrtnutím této možnosti se zdědí předvolby ze systému. Tím se přepíší předvolby aplikace &brandShortName;">
 
-<!ENTITY prefCheckDefault.caption "Nastavení systému">
-<!ENTITY prefCheckDefaultClient.label "Při startu kontrolovat nastavení výchozí aplikace">
+<!ENTITY prefCheckDefault.caption         "Nastavení systému">
+<!ENTITY prefCheckDefaultClient.label     "Při startu kontrolovat nastavení výchozí aplikace">
 <!ENTITY prefCheckDefaultClient.accesskey "t">
 
-<!ENTITY crashReports.caption "Hlášení pádů">
-<!ENTITY submitCrashes.label "Odesílat hlášení o pádech">
-<!ENTITY submitCrashes.accesskey "O">
+<!ENTITY crashReports.caption             "Hlášení pádů">
+<!ENTITY submitCrashes.label              "Odesílat hlášení o pádech">
+<!ENTITY submitCrashes.accesskey          "O">
 
-<!ENTITY devTools.caption                 "Nástroje vývojáře">
+<!ENTITY devTools.caption                 "Nástroje pro vývojáře">
 <!ENTITY allowDebugger.label              "Povolit připojení debuggeru k &brandShortName;">
 <!ENTITY allowDebugger.accesskey          "P">
 <!ENTITY allowRemoteConnections.label     "Povolit připojení z jiných počítačů">
