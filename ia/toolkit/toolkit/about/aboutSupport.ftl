@@ -149,6 +149,13 @@ crashes-time-days =
         [one] { $days } die retro
        *[other] { $days } dies retro
     }
+# Variables
+# $reports (integer) - Number of pending reports
+pending-reports =
+    { $reports ->
+        [one] Tote le reportos de collapso (includente { $reports } collapso pendente in le intervallo indicate)
+       *[other] Tote le reportos de collapso (includente { $reports } collapsos pendente in le intervallo indicate)
+    }
 raw-data-copied = Datos brute copiate in le planchetta
 text-copied = Texto copiate in le planchetta
 
