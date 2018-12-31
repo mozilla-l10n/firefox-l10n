@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 page-title = Problem həll etmə məlumatları
+crashes-id = Hesabat kimliyi
 extensions-name = Ad
 extensions-enabled = Aktivdir
 app-basics-title = Proqramın əsasları
