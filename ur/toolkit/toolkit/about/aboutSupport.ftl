@@ -13,6 +13,11 @@ extensions-name = نام
 extensions-enabled = اہل بنایا گیا
 extensions-version = ورژن
 extensions-id = ID
+security-software-title = سلامتی سافٹ ویئر
+security-software-name = نام
+features-title = { -brand-short-name } فیچر
+features-name = نام
+features-version = ورژن
 app-basics-title = ایپلی کیشن BASIC
 app-basics-name = نام
 app-basics-version = ورژن
@@ -75,6 +80,11 @@ sandbox-sys-call-pid = PID
 sandbox-sys-call-tid = TID
 safe-mode-title = محفوظ موڈ آزمائیں
 restart-in-safe-mode-label = ایڈز آن نا اہل کر کے دوبارہ شروع کریں...
+media-title = میڈیا
+media-device-name = نام
+media-device-group = گروہ
+media-device-state = ریاست
+media-device-preferred = ترییحی
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -107,6 +117,7 @@ no = نہیں
 ## In some development versions, it's expected for some API keys that they are
 ## not found.
 
+found = مل گيا
 gpu-description = وضاحت
 gpu-vendor-id = وینڈر ID
 gpu-device-id = آلہ ID
@@ -166,3 +177,6 @@ touch-warning = کرنے async ٹچ ان پٹ ناجائز PREF وجہ سے غی
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+policies-inactive = غیر فعال
+policies-active = متحرک
+policies-error = نقص
