@@ -86,6 +86,21 @@ sandbox-sys-call-proc-type = ປະເພດ Process
 sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Arguments
 safe-mode-title = ລອງໃຊ້ໂຫມດປອດໄພ
+# Variables
+# $days (Integer) - Number of days of crashes to log
+report-crash-for-days = ລາຍງານຂໍ້ຜິດພາດສຳລັບ { $days } ມື້ຫລ້າສຸດ
+# Variables
+# $minutes (integer) - Number of minutes since crash
+crashes-time-minutes = { $minutes } ນາທີຜ່ານມາ
+# Variables
+# $hours (integer) - Number of hours since crash
+crashes-time-hours = { $hours } ຊົ່ວໂມງຜ່ານມາ
+# Variables
+# $days (integer) - Number of days since crash
+crashes-time-days = { $days } ມື້ຜ່ານມາ
+# Variables
+# $reports (integer) - Number of pending reports
+pending-reports = ລາຍງາຍຂໍ້ຜິດພາດທັງຫມົດ (ປະກອບດ້ວຍ { $reports } ຂໍ້ຜິດພາດທີ່ຍັງບໍ່ທັນໄດ້ລາຍງານຕາມເວລາທີ່ກຳນົດໄວ້)
 raw-data-copied = ສຳເນົາຂໍ້ມູນດິບໄປໄວ້ທີ່ Clipboard ແລ້ວ
 text-copied = ຂໍ້ຄວາມໄດ້ຖືກສຳເນົາໄປໄວ້ທີ່ Clipboard ແລ້ວ
 
