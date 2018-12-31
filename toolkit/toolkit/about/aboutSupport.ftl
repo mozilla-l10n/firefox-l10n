@@ -40,6 +40,7 @@ app-basics-service-workers = Obraichean seirbheise clàraichte
 app-basics-profiles = Pròifilean
 app-basics-multi-process-support = Uinneagan ioma-phròiseasaidh
 app-basics-process-count = Pròiseasan susbaint-lìn
+app-basics-enterprise-policies = Poileasaidhean Enterprise
 app-basics-key-google = Google Key
 app-basics-key-mozilla = Iuchair seirbheis nan ionad aig Mozilla
 app-basics-safe-mode = Am modh tèarainte
@@ -75,6 +76,7 @@ a11y-title = Inntrigeachd
 a11y-activated = Air gnìomhachadh
 a11y-force-disabled = Casg air so-inntrigeachd
 a11y-handler-used = Làimhsichear na so-inntrigeachd a chaidh a chleachdadh
+a11y-instantiator = Accessibility Instantiator
 library-version-title = Tionndaidhean leabharlainn
 copy-text-to-clipboard-label = Cuir lethbhreac dhen teacsa air an stòr-bhòrd
 copy-raw-data-to-clipboard-label = Cuir lethbhreac dhen dàta lom dhan stòr-bhòrd
@@ -206,6 +208,10 @@ glcontext-crash-guard = OpenGL
 reset-on-next-restart = Ath-shuidhich aig an ath ath-thòiseachadh
 gpu-process-kill-button = Cuir crìoch air pròiseas an GPU
 gpu-device-reset-button = Cuir gu dol ath-shuidheachadh an uidheim
+uses-tiling = Uses Tiling
+content-uses-tiling = Cleachd leacachadh (Susbaint)
+off-main-thread-paint-enabled = Off Main Thread Painting Enabled
+off-main-thread-paint-worker-count = Off Main Thread Painting Worker Count
 audio-backend = Audio Backend
 max-audio-channels = Seanailean air a’ char as motha
 channel-layout = Co-dhealbhadh nan seanail as fhearr dhut
@@ -221,6 +227,7 @@ can-sandbox-media = Media Plugin Sandboxing
 content-sandbox-level = Content Process Sandbox Level
 effective-content-sandbox-level = Effective Content Process Sandbox Level
 sandbox-proc-type-content = susbaint
+sandbox-proc-type-file = susbaint faidhle
 sandbox-proc-type-media-plugin = plugan mheadhanan
 # Variables
 # $remoteWindows (integer) - Number of remote windows
@@ -240,6 +247,7 @@ wheel-enabled = tha ion-chur cuibhle an comas
 touch-enabled = tha ion-chur suathaidh an comas
 drag-enabled = tha slaodadh a’ bhàr-sgrolaidh an comas
 keyboard-enabled = meur-chlàr an comas
+autoscroll-enabled = tha an sgroladh fèin-obrachail an comas
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
@@ -249,3 +257,6 @@ touch-warning = tha ion-chur suathaidh neo-shioncronach à comas ri linn roghain
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+policies-inactive = ’Na thàmh
+policies-active = Gnìomhach
+policies-error = Mearachd
