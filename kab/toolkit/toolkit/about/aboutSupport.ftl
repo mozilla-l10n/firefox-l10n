@@ -200,6 +200,7 @@ gpu-process-kill-button = Seḥbes akala GPU
 gpu-device-reset-button = Awennez n ibnek
 uses-tiling = Iseqdac akallaj
 off-main-thread-paint-worker-count = Uṭṭun n iseqdacen Painting beṛṛa n tnelli
+min-lib-versions = Lqem adday itturajun
 loaded-lib-versions = Lqem ittuseqdacen
 has-seccomp-bpf = Seccomp-BPF (Azizdeg n isawalen n unagraw)
 has-seccomp-tsync = Amtawi n tinelli n uselkem Seccomp
