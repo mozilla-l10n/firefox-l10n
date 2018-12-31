@@ -46,6 +46,7 @@ app-basics-service-workers = 登録された Service Workers
 app-basics-profiles = プロファイル
 app-basics-multi-process-support = マルチプロセスウインドウ
 app-basics-process-count = ウェブコンテンツプロセス
+app-basics-enterprise-policies = エンタープライズポリシー
 app-basics-key-google = Google キー
 app-basics-key-mozilla = Mozilla Location Service キー
 app-basics-safe-mode = セーフモード
@@ -192,7 +193,10 @@ glcontext-crash-guard = OpenGL
 reset-on-next-restart = 次回起動時にリセット
 gpu-process-kill-button = GPU プロセスを終了
 gpu-device-reset-button = ハードウェアリセットを実行
+uses-tiling = タイリングの使用
+content-uses-tiling = タイリングの使用 (コンテンツ)
 off-main-thread-paint-enabled = メインスレッド外ペイント有効
+off-main-thread-paint-worker-count = メインスレッド外ペイントワーカー数
 audio-backend = 音声バックエンド
 max-audio-channels = 最大チャンネル数
 channel-layout = 優先チャンネルレイアウト
@@ -238,3 +242,6 @@ touch-warning = 非同期タッチ入力は未サポートの設定により無�
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+policies-inactive = 非アクティブ
+policies-active = アクティブ
+policies-error = エラー
