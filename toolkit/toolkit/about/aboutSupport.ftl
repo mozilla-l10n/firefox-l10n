@@ -41,6 +41,21 @@ sandbox-sys-call-tid = TID
 media-device-name = Tên
 media-device-group = Nhóm
 media-device-channels = Kênh
+# Variables
+# $days (Integer) - Number of days of crashes to log
+report-crash-for-days = Báo cáo lỗi trong { $days } ngày gần đây
+# Variables
+# $minutes (integer) - Number of minutes since crash
+crashes-time-minutes = { $minutes } phút trước
+# Variables
+# $hours (integer) - Number of hours since crash
+crashes-time-hours = { $hours } giờ trước
+# Variables
+# $days (integer) - Number of days since crash
+crashes-time-days = { $days } ngày trước
+# Variables
+# $reports (integer) - Number of pending reports
+pending-reports = Tất cả các báo cáo lỗi (bao gồm cả { $reports } báo cáo chưa gửi trong khoảng thời gian đã cho)
 raw-data-copied = Dữ liệu thô đã được sao chép vào bảng tạm
 text-copied = Văn bản đã được sao chép vào bảng tạm
 
