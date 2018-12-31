@@ -16,9 +16,13 @@ extensions-id = ID
 security-software-title = سلامتی سافٹ ویئر
 security-software-type = قسم
 security-software-name = نام
+security-software-antivirus = اینٹی وائرس
+security-software-antispyware = اینٹی سپائویر
+security-software-firewall = فایروال
 features-title = { -brand-short-name } فیچر
 features-name = نام
 features-version = ورژن
+features-id = ID
 app-basics-title = ایپلی کیشن BASIC
 app-basics-name = نام
 app-basics-version = ورژن
@@ -39,6 +43,10 @@ app-basics-memory-use = { " " }میموری استعمال کریں
 app-basics-performance = کارکردگی
 app-basics-service-workers = رجسٹر شدہ خدمت کے کارکنان
 app-basics-profiles = پروفا ئلز
+app-basics-process-count = ویب مواد پروسیسنگ
+app-basics-enterprise-policies = انٹرپرائز کی پالیسیوں
+app-basics-key-google = Google کلید
+app-basics-key-mozilla = ٘Mozilla مقام سروس کلی
 app-basics-safe-mode = محفوظ موڈ
 show-dir-label =
     { PLATFORM() ->
@@ -71,22 +79,42 @@ js-incremental-gc = Incremental GC
 a11y-title = رسائی پزیری
 a11y-activated = عمل میں لائیں
 a11y-force-disabled = رسائی پزیری روکیں
+a11y-handler-used = رسائی ہینڈلر استعمال کیا جاتا ہے
+a11y-instantiator = رسائی انسٹینٹیوٹر
 library-version-title = لائبریری ورژن
 copy-text-to-clipboard-label = متن کو تختہ تراشہ پر نقل کریں
 copy-raw-data-to-clipboard-label = تختہ تراشہ پر خام کوائف نقل کریں
 sandbox-title = سینڈ باکس
+sandbox-sys-call-log-title = مسترد سیسٹم کال
 sandbox-sys-call-index = #
 sandbox-sys-call-age = چند سیکنڈ پہلے
 sandbox-sys-call-pid = PID
 sandbox-sys-call-tid = TID
+sandbox-sys-call-proc-type = پروسیسنگ کی قسم
+sandbox-sys-call-number = Syscall
+sandbox-sys-call-args = دلائل
 safe-mode-title = محفوظ موڈ آزمائیں
 restart-in-safe-mode-label = ایڈز آن نا اہل کر کے دوبارہ شروع کریں...
 media-title = میڈیا
+media-output-devices-title = آؤٹ پٹ آلات
+media-input-devices-title = ان پٹ آلات
 media-device-name = نام
 media-device-group = گروہ
+media-device-vendor = فروشندہ
 media-device-state = ریاست
 media-device-preferred = ترییحی
+media-device-format = شکل
+media-device-channels = چینلز
 media-device-rate = شرح
+media-device-latency = لیٹینسی
+intl-title = انٹرنیشنلائزیشن & لوکلائزیشن
+intl-locales-requested = درخواست کی گئی زبانات
+intl-locales-available = دستیاب زبانات
+intl-locales-supported = ایپ کی زبانیں
+intl-locales-default = طے شدہ زبان
+intl-os-title = آپریٹنگ سسٹم
+intl-os-prefs-system-locales = سسٹم کی زبان
+intl-regional-prefs = علاقائی ترجیحات
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -148,6 +176,7 @@ no = نہیں
 ## not found.
 
 found = مل گيا
+missing = لاپتہ
 gpu-description = وضاحت
 gpu-vendor-id = وینڈر ID
 gpu-device-id = آلہ ID
@@ -157,6 +186,16 @@ gpu-ram = RAM
 gpu-driver-version = ڈرائیور ورژن
 gpu-driver-date = ڈرائیور تاریخ
 gpu-active = متحرک
+webgl1-wsiinfo = WebGL 1 Driver WSI Info
+webgl1-renderer = WebGL 1 Driver Renderer
+webgl1-version = WebGL 1 Driver Version
+webgl1-driver-extensions = WebGL 1 Driver Extensions
+webgl1-extensions = WebGL 1 Extensions
+webgl2-wsiinfo = WebGL 2 Driver WSI Info
+webgl2-renderer = WebGL 2 Driver Renderer
+webgl2-version = WebGL 2 Driver Version
+webgl2-driver-extensions = WebGL 2 Driver Extensions
+webgl2-extensions = WebGL 2 Extensions
 blocklisted-bug = معلوم مسائل کی وجہ سے بلاک لسٹ
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
@@ -170,7 +209,15 @@ d3d9video-crash-buard = D3D9 ویڈیو کوٹواچک
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = اگلی بار دوبارہ شروع کرنے پر پھر سیٹ  کریں
 gpu-process-kill-button = GPU عمل کاری بند کریں
+gpu-device-reset-button = ٹریگگر آلات دوبارہ سیٹ کرے
+uses-tiling = ٹائل کا استعمال
+content-uses-tiling = ٹائل(مواد) کا استعمال
+off-main-thread-paint-enabled = Off Main Thread Painting Enabled
+off-main-thread-paint-worker-count = Off Main Thread Painting Worker Count
 audio-backend = آڈیو پسدید
+max-audio-channels = زیادہ سے زیادہ چینل
+channel-layout = پسندیدہ چینل لے آؤٹ
+sample-rate = ترجیحی نمونہ شرح
 min-lib-versions = متوقع کم سے کم ورژن
 loaded-lib-versions = استعمال میں ورژن
 has-seccomp-bpf = Seccomp-BFP (نظام کال فلٹرنگ){ " " }
@@ -180,7 +227,10 @@ has-privileged-user-namespaces = صارف کے عنوانات استحقاق ع�
 can-sandbox-content = عمل کاری مواد کی Sandboxing
 can-sandbox-media = میڈیا اظافہ سینڈباکسنگ
 content-sandbox-level = عمل کاری مواد Sandbox لیول
+effective-content-sandbox-level = مؤثر مواد عمل سینڈبکس سطح
 sandbox-proc-type-content = مواد
+sandbox-proc-type-file = مسل کے مشمول
+sandbox-proc-type-media-plugin = میڈیا پلگ ان
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -198,6 +248,8 @@ apz-none = کوئی نہیں
 wheel-enabled = وہیل کی ان پٹ کا فعال
 touch-enabled = ٹچ ان پٹ کا فعال ہونا
 drag-enabled = طومار ڈریگ فعال ہونا
+keyboard-enabled = اہل کردہ کی بورڈ
+autoscroll-enabled = autoscroll enabled
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
