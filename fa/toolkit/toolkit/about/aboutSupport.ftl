@@ -39,6 +39,7 @@ app-basics-performance = کارایی
 app-basics-service-workers = Service Workerهای ثبت شده
 app-basics-profiles = نمایه
 app-basics-multi-process-support = پنجره‌های چندپردازشی
+app-basics-process-count = پروسه‌های محتوای وب
 app-basics-key-google = کلید گوگل
 app-basics-key-mozilla = کلید سرویس مکان‌یابی موزیلا
 app-basics-safe-mode = حالت امن
@@ -73,6 +74,7 @@ js-incremental-gc = GC افزایشی
 a11y-title = دسترسی‌پذیری
 a11y-activated = فعال‌ شده
 a11y-force-disabled = دسترسی را متوقف کن
+a11y-instantiator = منطبق کنندهٔ دسترسی‌پذیری
 library-version-title = نسخه‌های کتاب‌خانه
 copy-text-to-clipboard-label = رونوشت متن به تخته‌گیره
 copy-raw-data-to-clipboard-label = رونوشت برداشتن از داده‌های خام در تخته‌گیره
@@ -87,12 +89,52 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = آرگومان‌ها
 safe-mode-title = آزمایش حالت امن
 restart-in-safe-mode-label = راه‌اندازی مجدد، همراه با غیرفعال‌سازی افزونه‌ها…
+media-title = رسانه
+media-output-devices-title = دستگاه‌های خروجی
+media-input-devices-title = دستگاه‌های ورودی
+media-device-name = نام
+media-device-group = گروه
+media-device-vendor = فراهم‌کننده
+media-device-state = وضعیت
+media-device-preferred = ترجیح داده شده
+media-device-format = قالب
+media-device-channels = کانال‌ها
+media-device-rate = ارزیابی
+media-device-latency = تاخیر
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
     { $days ->
         [one] گزارش فروپاشی‌ها برای { $days } روز گذشته
        *[other] گزارش فروپاشی‌ها برای { $days } روز گذشته
+    }
+# Variables
+# $minutes (integer) - Number of minutes since crash
+crashes-time-minutes =
+    { $minutes ->
+        [one] { $minutes } دقیقه قبل
+       *[other] { $minutes } دقیقه قبل
+    }
+# Variables
+# $hours (integer) - Number of hours since crash
+crashes-time-hours =
+    { $hours ->
+        [one] { $hours } ساعت قبل
+       *[other] { $hours } ساعت قبل
+    }
+# Variables
+# $days (integer) - Number of days since crash
+crashes-time-days =
+    { $days ->
+        [one] { $days } روز قبل
+       *[other] { $days } روز قبل
+    }
+# Variables
+# $reports (integer) - Number of pending reports
+pending-reports =
+    { $reports ->
+        [one] تمامی گزارش‌های فروپاشی (شامل { $reports } فروپاشیِ معلق در بازهٔ زمانی داده شده)
+       *[other] تمامی گزارش‌های فروپاشی (شامل { $reports } فروپاشی معلق در باز زمانی داده شده)
     }
 raw-data-copied = رونوشت داده‌های خام به تخته‌گیره ارسال شد
 text-copied = رونوشت متن به تخته‌گیره ارسال شد
