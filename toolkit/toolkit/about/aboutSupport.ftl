@@ -33,7 +33,7 @@ app-basics-update-history = Historial de actualizaciones
 app-basics-show-update-history = Mostrar el historial de actualizaciones
 app-basics-profile-dir =
     { PLATFORM() ->
-        [linux] Directorio de perfil{ " " }
+        [linux] Directorio de perfil
        *[other] Carpeta del perfil
     }
 app-basics-enabled-plugins = Plugins activados
