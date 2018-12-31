@@ -14,6 +14,12 @@ extensions-name = नाव
 extensions-enabled = समर्थीत
 extensions-version = आवृत्ती
 extensions-id = ID
+security-software-title = सुरक्षा सॉफ्टवेअर
+security-software-type = प्रकार
+security-software-name = नाव
+security-software-antivirus = विषाणूरोधक
+security-software-antispyware = हेरगिरीविरोधक
+security-software-firewall = फायरवॉल
 features-title = { -brand-short-name } गुणविशेष
 features-name = नाव
 features-version = आवृत्ती
@@ -102,6 +108,15 @@ media-device-format = स्वरूप
 media-device-channels = माध्यम
 media-device-rate = दर
 media-device-latency = विलंब
+intl-title = आंतरराष्ट्रीयकरण & स्थानिकीकरण
+intl-app-title = अनुप्रयोग सेटिंग्ज
+intl-locales-requested = विनंती केलेले लोकेल
+intl-locales-available = उपलब्ध लोकेल
+intl-locales-supported = अँप लोकेल
+intl-locales-default = पूर्वनिर्धारित लोकॅल
+intl-os-title = ऑपरेटिंग प्रणाली
+intl-os-prefs-system-locales = सिस्टम लोकॅल
+intl-regional-prefs = प्रादेशिक प्राधान्यता
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -197,6 +212,7 @@ glcontext-crash-guard = OpenGL
 reset-on-next-restart = पुढच्यावेळी पुन्हा सुरु करताना पूर्वस्थितीत आणा
 gpu-process-kill-button = GPU प्रक्रिया समाप्त करा
 gpu-device-reset-button = ट्रिगर साधन पुनःस्थापान
+uses-tiling = टाइलिंग वापरते
 off-main-thread-paint-enabled = मुख्य थ्रेडपेक्षा वेगळी चित्रकला सक्षम
 audio-backend = ऑडिओ बॅकेण्ड
 max-audio-channels = अधिकतम चॅनल
@@ -213,6 +229,7 @@ can-sandbox-media = मीडिया प्लगइन सॅंडबॉक�
 content-sandbox-level = सॅंडबॉक्सिंग सामग्री प्रक्रिया
 effective-content-sandbox-level = प्रभावी मजकूर प्रक्रिया सँडबाॅक्स स्तर
 sandbox-proc-type-content = मजकूर
+sandbox-proc-type-file = फाईलचा मजकूर
 sandbox-proc-type-media-plugin = मिडीया प्लगइन
 # Variables
 # $remoteWindows (integer) - Number of remote windows
@@ -232,6 +249,7 @@ wheel-enabled = व्हील इनपुट कार्यान्वि�
 touch-enabled = टच इनपुट कार्यान्वित
 drag-enabled = सरकपट्टी हलविण्यासाठी कार्यान्वीत
 keyboard-enabled = किबोर्ड कार्यान्वित
+autoscroll-enabled = ऑटोस्क्रोल सक्षम
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
@@ -241,3 +259,6 @@ touch-warning = असंकालिक टच इनपुट आधारह�
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+policies-inactive = निष्क्रिय
+policies-active = सक्रिय
+policies-error = त्रुटी
