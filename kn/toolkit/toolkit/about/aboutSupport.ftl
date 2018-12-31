@@ -14,6 +14,9 @@ extensions-name = ಹೆಸರು
 extensions-enabled = ಶಕ್ತಗೊಳಿಸಲಾದ
 extensions-version = ಆವೃತ್ತಿ
 extensions-id = ID
+features-name = ಹೆಸರು
+features-version = ಆವೃತ್ತಿ
+features-id = ID
 app-basics-title = ಅನ್ವಯದ ಮೂಲತತ್ವಗಳು
 app-basics-name = ಹೆಸರು
 app-basics-version = ಆವೃತ್ತಿ
@@ -35,7 +38,15 @@ app-basics-performance = ಕಾರ್ಯಕ್ಷಮತೆ
 app-basics-service-workers = ನೊಂದಾಯಿಸಿಕೊಂಡ ಸೇವಾ ಕೆಲಸಗಾರರು
 app-basics-profiles = ಪ್ರೊಫೈಲ್‌ಗಳು
 app-basics-multi-process-support = ಬಹುಪ್ರಕ್ರಿಯೆ ಕಿಟಕಿಗಳು
+app-basics-key-google = ಗೂಗಲ್ ಕೀ
+app-basics-key-mozilla = Mozilla ಸ್ಥಳ ಸೇವೆ ಕೀ
 app-basics-safe-mode = ಸುರಕ್ಷಾ ಸ್ಥಿತಿ
+show-dir-label =
+    { PLATFORM() ->
+        [macos] ಶೋಧಕದಲ್ಲಿ ತೋರಿಸು
+        [windows] ಕಡತಕೋಶವನ್ನು ತೆರೆ
+       *[other] ಕೋಶವನ್ನು ತೆರೆ
+    }
 modified-key-prefs-title = ಪ್ರಮುಖ ಮಾರ್ಪಡಿಕೆ ಮಾಡಲಾದ ಆದ್ಯತೆಗಳು
 modified-prefs-name = ಹೆಸರು
 modified-prefs-value = ಮೌಲ್ಯ
@@ -65,8 +76,22 @@ library-version-title = ಲೈಬ್ರರಿ ಆವೃತ್ತಿಗಳು
 copy-text-to-clipboard-label = ಪಠ್ಯವನ್ನು ನಕಲುಫಲಕಕ್ಕೆ  ಪ್ರತಿಮಾಡು
 copy-raw-data-to-clipboard-label = ಕಚ್ಛಾ ದತ್ತಾಂಶವನ್ನು ನಕಲುಫಲಕಕ್ಕೆ ಪ್ರತಿ ಮಾಡು
 sandbox-title = ಪ್ರಯೋಗಶಾಲೆ
+sandbox-sys-call-index = #
+sandbox-sys-call-age = ಸೆಕೆಂಡುಗಳ ಮುನ್ನ
+sandbox-sys-call-pid = PID
+sandbox-sys-call-tid = TID
+sandbox-sys-call-args = ವಾದಗಳು
 safe-mode-title = ಸುರಕ್ಷಾ ಸ್ಥಿತಿ ಪ್ರಯತ್ನಿಸಿ
 restart-in-safe-mode-label = ಆಡ್‌-ಆನ್‌ಗಳನ್ನು ಅಶಕ್ತಗೊಳಿಸಿ ಆರಂಭಿಸು…
+media-title = ಮಾಧ್ಯಮ
+media-device-name = ಹೆಸರು
+media-device-group = ಗುಂಪು
+media-device-vendor = ಮಾರಾಟಗಾರ
+media-device-state = ಸ್ಥಿತಿ
+media-device-preferred = ಆದ್ಯತೆಯ
+media-device-format = ಸ್ವರೂಪ
+media-device-channels = ಚಾನೆಲ್‌ಗಳು
+media-device-rate = ದರ
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -127,6 +152,8 @@ no = ಇಲ್ಲ
 ## In some development versions, it's expected for some API keys that they are
 ## not found.
 
+found = ಸಿಕ್ಕಿದೆ
+missing = ಕಾಣೆಯಾಗಿರುವ
 gpu-description = ವಿವರಣೆ
 gpu-vendor-id = ವೆಂಡರ್ ID
 gpu-device-id = ಸಾಧನ ID
