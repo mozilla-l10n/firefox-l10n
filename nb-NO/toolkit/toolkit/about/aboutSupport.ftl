@@ -1,0 +1,164 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+page-title = Feilsøking
+crashes-title = Krasjrapporter
+crashes-id = Rapport-ID
+crashes-send-date = Sendt
+crashes-all-reports = Alle krasjrapporter
+crashes-no-config = Dette programmet er ikke konfigurert til å vise krasjrapporter.
+extensions-title = Utvidelser
+extensions-name = Navn
+extensions-enabled = Påslått
+extensions-version = Versjon
+extensions-id = ID
+app-basics-title = Programinfo
+app-basics-name = Navn
+app-basics-version = Versjon
+app-basics-build-id = Bygg-ID
+app-basics-update-channel = Oppdateringskanal
+app-basics-update-history = Oppdateringshistorikk
+app-basics-show-update-history = Vis oppdateringshistorikk
+app-basics-profile-dir =
+    { PLATFORM() ->
+        [linux] Profilmappe
+       *[other] Profilmappe
+    }
+app-basics-enabled-plugins = Påslåtte programtillegg
+app-basics-build-config = Bygginnstillinger
+app-basics-user-agent = Brukeragent
+app-basics-os = OS
+app-basics-memory-use = Minneforbruk
+app-basics-service-workers = Registrerte tjenestearbeidere
+app-basics-profiles = Profiler
+app-basics-multi-process-support = Multiprosess-vinduer
+app-basics-safe-mode = Sikker modus
+modified-key-prefs-title = Viktige endrede innstillinger
+modified-prefs-name = Navn
+modified-prefs-value = Verdi
+user-js-title = user.js innstillinger
+user-js-description = Profilmappen din inneholder en <a data-l10n-name="user-js-link">user.js-fil</a> som inneholder innstillinger som ikke ble opprettet av { -brand-short-name }.
+locked-key-prefs-title = Viktige låste innstillinger
+locked-prefs-name = Navn
+locked-prefs-value = Verdi
+graphics-title = Grafikk
+graphics-features-title = Funksjoner
+graphics-diagnostics-title = Diagnostikk
+graphics-failure-log-title = Feillogg
+graphics-gpu1-title = GPU #1
+graphics-gpu2-title = GPU #2
+js-title = JavaScript
+js-incremental-gc = Inkrementell GC
+a11y-title = Tilgjengelighet
+a11y-activated = Aktivert
+a11y-force-disabled = Forhindre tilgjengelighet
+library-version-title = Bibliotekversjoner
+copy-text-to-clipboard-label = Kopier tekst til utklippstavlen
+copy-raw-data-to-clipboard-label = Kopier råtekst til utklippstavlen
+sandbox-title = Sandkasse
+safe-mode-title = Prøv sikker modus
+restart-in-safe-mode-label = Start på nytt uten utvidelser …
+# Variables
+# $days (Integer) - Number of days of crashes to log
+report-crash-for-days =
+    { $days ->
+        [one] Krasjrapporter den siste { $days } dag
+       *[other] Krasjrapporter de siste { $days } dagene
+    }
+# Variables
+# $minutes (integer) - Number of minutes since crash
+crashes-time-minutes =
+    { $minutes ->
+        [one] { $minutes } minutt siden
+       *[other] { $minutes } minutter siden
+    }
+# Variables
+# $hours (integer) - Number of hours since crash
+crashes-time-hours =
+    { $hours ->
+        [one] { $hours } time siden
+       *[other] { $hours } timer siden
+    }
+# Variables
+# $days (integer) - Number of days since crash
+crashes-time-days =
+    { $days ->
+        [one] { $days } dag siden
+       *[other] { $days } dager siden
+    }
+# Variables
+# $reports (integer) - Number of pending reports
+pending-reports =
+    { $reports ->
+        [one] Alle krasjrapporter (inkludert { $reports } krasjrapport som venter behandling i tidsrommet)
+       *[other] Alle krasjrapporter (inkludert { $reports } krasjrapport som venter behandling i tidsrommet)
+    }
+raw-data-copied = Rådata kopiert til utklippstavlen
+text-copied = Tekst kopiert til utklippstavlen
+
+## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
+
+blocked-driver = Blokkert for din grafikkdriverversjon.
+blocked-gfx-card = Blokkert for grafikkortet på grunn av et kjent driverproblem.
+blocked-os-version = Blokkert for din operativsystemversjon.
+blocked-mismatched-version = Blokkert for din versjon av grafikkdriver, ubalanse mellom registeret og DLL.
+# Variables
+# $driverVersion - The graphics driver version string
+try-newer-driver = Blokkert av grafikkdriveren. Prøv å oppdatere grafikkdriveren til versjon { $driverVersion } eller nyere.
+# "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
+# there are no good translations, these are only used in about:support
+clear-type-parameters = ClearType-parametere
+compositing = Kompositt
+hardware-h264 = Hardware H264 dekoding
+main-thread-no-omtc = hovedtråd, ingen OMTC
+yes = Ja
+no = Nei
+
+## The following strings indicate if an API key has been found.
+## In some development versions, it's expected for some API keys that they are
+## not found.
+
+gpu-description = Beskrivelse
+gpu-vendor-id = Vendor ID
+gpu-device-id = Device ID
+gpu-subsys-id = Subsys ID
+gpu-drivers = Drivere
+gpu-ram = RAM
+gpu-driver-version = Driverversjon
+gpu-driver-date = Driverdato
+gpu-active = Aktiv
+min-lib-versions = Forventet minimumsversjon
+loaded-lib-versions = Versjon i bruk
+has-seccomp-bpf = Seccomp-BPF (systemkall-filtrering)
+has-seccomp-tsync = Seccomp trådsynkronisering
+has-user-namespaces = Brukernavnerom
+has-privileged-user-namespaces = Brukernavnerom for priviligerte prosesser
+can-sandbox-content = Sandkasse for innholdsprosesser
+can-sandbox-media = Sandkasse for medietillegg
+# Variables
+# $remoteWindows (integer) - Number of remote windows
+# $totalWindows (integer) - Number of total windows
+multi-process-windows = { $remoteWindows }/{ $totalWindows }
+multi-process-status-0 = Påslått av bruker
+multi-process-status-1 = Påslått som standard
+multi-process-status-2 = Avslått
+multi-process-status-4 = Avslått av tilgjengelighetsverktøy
+multi-process-status-6 = Avslått av ustøttet tekstinput
+multi-process-status-7 = Avslått av utvidelser
+multi-process-status-8 = Tvunget deaktivert
+multi-process-status-unknown = Ukjent status
+async-pan-zoom = Asynkron pan/zoom
+apz-none = ingen
+wheel-enabled = hjulinput påslått
+touch-enabled = touchinput påslått
+drag-enabled = dra og slipp av rullelinje påslått
+
+## Variables
+## $preferenceKey (string) - String ID of preference
+
+wheel-warning = asynkron hjulinput er avslått på grunn av ustøttet innstilling: { $preferenceKey }
+touch-warning = asynkron touchinput er avslått på grunn av ustøttet innstilling: { $preferenceKey }
+
+## Strings representing the status of the Enterprise Policies engine.
+
