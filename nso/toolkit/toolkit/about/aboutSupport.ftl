@@ -24,7 +24,14 @@ modified-prefs-name = Leina
 graphics-title = Diswantšho
 js-title = JavaScript
 js-incremental-gc = GC e nyenyane
+a11y-title = Phihlelelo
+a11y-activated = Diragaditšwe
+a11y-force-disabled = Thibela go tsenega
 library-version-title = Ditokollo tša bokgobapuku
+copy-text-to-clipboard-label = Kopiša sengwalwa go lenaneo-polokelo
+copy-raw-data-to-clipboard-label = Kopiša tsebišo e sa tswakwago go lenaneo-polokelo
+raw-data-copied = Tsebišo e sa tswakwago e kopišeditšwe go lenaneo-polokelo
+text-copied = Sengwalwa se kopišeditšwe go lenaneo-polokelo
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
