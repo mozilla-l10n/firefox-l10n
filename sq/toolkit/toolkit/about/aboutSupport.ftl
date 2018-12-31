@@ -42,6 +42,7 @@ app-basics-profile-dir =
 app-basics-enabled-plugins = Shtojca të Aktivizuara
 app-basics-build-config = Formësim Montimi
 app-basics-user-agent = Agjent Përdoruesi
+app-basics-os = OS
 app-basics-memory-use = Përdorim Kujtese
 app-basics-performance = Performancë
 app-basics-service-workers = Service Workers të Regjistruar
