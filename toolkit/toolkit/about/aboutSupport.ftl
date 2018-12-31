@@ -123,7 +123,7 @@ intl-regional-prefs = আঞ্চলিক পছন্দসমূহ
 report-crash-for-days =
     { $days ->
         [one] সর্বশেষ { $days } দিনের ক্র্যাশ রিপোর্ট
-       *[other] { " " }সর্বশেষ { $days } দিনের ক্র্যাশ রিপোর্ট
+       *[other] সর্বশেষ { $days } দিনের ক্র্যাশ রিপোর্ট
     }
 # Variables
 # $minutes (integer) - Number of minutes since crash
@@ -151,7 +151,7 @@ crashes-time-days =
 pending-reports =
     { $reports ->
         [one] সকল ক্র্যাশ রিপোর্ট (প্রদান করা সময়ের মধ্যে { $reports } টি অমীমাংসিত ক্র্যাশ সহ)
-       *[other] { " " }সকল ক্র্যাশ রিপোর্ট (প্রদান করা সময়ের মধ্যে { $reports } টি অমীমাংসিত ক্র্যাশ সহ)
+       *[other] সকল ক্র্যাশ রিপোর্ট (প্রদান করা সময়ের মধ্যে { $reports } টি অমীমাংসিত ক্র্যাশ সহ)
     }
 raw-data-copied = অবিন্যস্ত ডাটা ক্লিপবোর্ডে অনুলিপি করা হয়েছে
 text-copied = টেক্সট ক্লিপবোর্ডে অনুলিপি করা হয়েছে
