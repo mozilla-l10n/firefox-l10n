@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 page-title = اطلاعات رفع اشکال
+crashes-id = شناسهٔ گزارش
 extensions-title = ضمیمه‌ها
 extensions-name = نام
 extensions-enabled = فعال
