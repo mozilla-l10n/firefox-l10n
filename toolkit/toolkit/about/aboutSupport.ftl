@@ -3,6 +3,11 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 page-title = ព័ត៌មាន​អំពី​ដំណោះស្រាយ​បញ្ហា
+crashes-title = របាយការណ៍​ការ​គាំង
+crashes-id = លេខ​សម្គាល់​របាយការណ៍
+crashes-send-date = បាន​ដាក់​ស្នើ
+crashes-all-reports = របាយការណ៍​ការ​គាំង​ទាំងអស់
+crashes-no-config = កម្មវិធី​នេះ​មិន​ទាន់​បាន​កំណត់​រចនាសម្ព័ន្ធ​ដើម្បី​បង្ហាញ​របាយការណ៍​ការ​គាំ​ទេ។
 extensions-title = ផ្នែក​បន្ថែម
 extensions-name = ឈ្មោះ
 extensions-enabled = បាន​អនុញ្ញាត
@@ -11,6 +16,8 @@ extensions-id = លេខ​សម្គាល់
 app-basics-title = មូលដ្ឋាន​គ្រឹះ​របស់​កម្មវិធី
 app-basics-name = ឈ្មោះ
 app-basics-version = កំណែ
+app-basics-update-history = ប្រវត្តិ​ធ្វើ​បច្ចុប្បន្នភាព
+app-basics-show-update-history = បង្ហាញ​ប្រវត្តិ​បច្ចុប្បន្នភាព
 app-basics-profile-dir =
     { PLATFORM() ->
         [linux] ថត​​​ទម្រង់
