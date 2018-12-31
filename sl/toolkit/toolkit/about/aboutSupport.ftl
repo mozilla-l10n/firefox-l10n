@@ -35,6 +35,8 @@ app-basics-user-agent = Uporabniški agent
 app-basics-memory-use = Poraba pomnilnika
 app-basics-service-workers = Registrirani Service Workerji
 app-basics-multi-process-support = Večprocesna okna
+app-basics-key-google = Ključ Google
+app-basics-key-mozilla = Ključ lokacijskih storitev Mozilla
 app-basics-safe-mode = Varni način
 modified-key-prefs-title = Pomembne spremenjene nastavitve
 modified-prefs-name = Ime
@@ -50,12 +52,26 @@ js-incremental-gc = Inkrementalen GC
 a11y-title = Dostopnost
 a11y-activated = Vključeno
 a11y-force-disabled = Prepreči dostopnost
+a11y-instantiator = Uporabnik storitve dostopnosti
 library-version-title = Različice knjižnic
 copy-text-to-clipboard-label = Kopiraj besedilo v odložišče
 copy-raw-data-to-clipboard-label = Kopiraj neobdelane podatke v odložišče
 sandbox-title = Peskovnik
+sandbox-sys-call-log-title = Zavrnjeni sistemski klici
+sandbox-sys-call-index = Št.{ " " }
+sandbox-sys-call-age = Pred nekaj sekundami
+sandbox-sys-call-proc-type = Vrsta procesa
+sandbox-sys-call-number = Sistemski klic
 safe-mode-title = Poskusite varni način
 restart-in-safe-mode-label = Ponovno zaženi z onemogočenimi dodatki …
+media-title = Predstavnost
+media-device-group = Skupina
+media-device-vendor = Ponudnik
+media-device-state = Stanje
+media-device-preferred = Prednostno
+media-device-format = Oblika
+media-device-channels = Kanali
+media-device-rate = Hitrost
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -109,6 +125,7 @@ text-copied = Besedilo kopirano v odložišče
 blocked-driver = Onemogočeno za vaš grafični gonilnik.
 blocked-gfx-card = Onemogočeno za vašo grafično kartico zaradi težav z gonilnikom.
 blocked-os-version = Onemogočeno za vaš operacijski sistem.
+blocked-mismatched-version = Onemogočeno zaradi neujemanja različice grafičnega gonilnika v registru in DLL.
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Onemogočeno za vaš grafični gonilnik. Poskusite ga posodobiti na različico { $driverVersion } ali novejšo.
@@ -120,6 +137,12 @@ clear-type-parameters = Parametri ClearType
 ## In some development versions, it's expected for some API keys that they are
 ## not found.
 
+uses-tiling = Uporablja razpostavljanje
+off-main-thread-paint-enabled = Izrisovanje izven glavne niti je omogočeno
+off-main-thread-paint-worker-count = Število workerjev za izrisovanje izven glavne niti
+max-audio-channels = Največje število kanalov
+channel-layout = Prednostna razporeditev kanalov
+sample-rate = Prednostna hitrost vzorčenja
 min-lib-versions = Najnižja podprta različica
 loaded-lib-versions = Trenutna različica
 has-seccomp-bpf = Seccomp-BPF (Filtriranje sistemskih klicev)
@@ -128,6 +151,7 @@ has-user-namespaces = Uporabniški imenski prostori
 has-privileged-user-namespaces = Uporabniški imenski prostori za privilegirane procese
 can-sandbox-content = Peskovnik vsebinskih procesov
 can-sandbox-media = Peskovnik večpredstavnih vtičnikov
+effective-content-sandbox-level = Dejanska raven peskovnika vsebinskih opravil
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -146,3 +170,6 @@ touch-warning = asinhroni vnos na dotik onemogočen zaradi nedpodprte nastavitve
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+policies-inactive = Nedejavno
+policies-active = Dejavno
+policies-error = Napaka
