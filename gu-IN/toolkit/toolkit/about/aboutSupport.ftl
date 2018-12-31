@@ -14,9 +14,14 @@ extensions-name = નામ
 extensions-enabled = સક્રિય થયેલ
 extensions-version = આવૃત્તિ
 extensions-id = ID
+features-title = { -brand-short-name } વિશેષતા
+features-name = નામ
+features-version = આવૃત્તિ
+features-id = ID
 app-basics-title = કાર્યક્રમ મૂળભૂતો
 app-basics-name = નામ
 app-basics-version = આવૃત્તિ
+app-basics-update-channel = ચેનલ અદ્યતન કરો
 app-basics-update-history = ઇતિહાસ સુધારો
 app-basics-show-update-history = સુધારા ઇતિહાસને બતાવો
 app-basics-profile-dir =
@@ -27,8 +32,21 @@ app-basics-profile-dir =
 app-basics-enabled-plugins = સક્રિય થયેલ પ્લગઇનો
 app-basics-build-config = બિલ્ડ રૂપરેખાંકન
 app-basics-user-agent = વપરાશકર્તા એજન્ટ
+app-basics-os = OS
 app-basics-memory-use = મેમરી વપરાશ
+app-basics-performance = કામગીરી
+app-basics-service-workers = રજીસ્ટર કરેલ Service Workers
+app-basics-profiles = પ્રોફાઇલ્સ
 app-basics-multi-process-support = મલ્ટીપ્રોસેસ વિન્ડો
+app-basics-process-count = વેબ સામગ્રી પ્રક્રિયાઓ
+app-basics-key-mozilla = Mozilla સ્થાન સર્વિસ કી
+app-basics-safe-mode = સલામત મોડ
+show-dir-label =
+    { PLATFORM() ->
+        [macos] શોધકર્તામાં બતાવો
+        [windows] ફોલ્ડર ખોલો
+       *[other] ડિરેક્ટરી ખોલો
+    }
 modified-key-prefs-title = અગત્યની સુધારા પસંદગીઓ
 modified-prefs-name = નામ
 modified-prefs-value = કિંમત
@@ -38,6 +56,15 @@ locked-key-prefs-title = મહત્વની તાળુ મારેલ પ�
 locked-prefs-name = નામ
 locked-prefs-value = કિંમત
 graphics-title = ગ્રાફિક્સ
+graphics-features-title = લક્ષણો
+graphics-diagnostics-title = નિદાન
+graphics-failure-log-title = નિષ્ફળતા લોગ
+graphics-gpu1-title = GPU #1
+graphics-gpu2-title = GPU #2
+graphics-decision-log-title = નિર્ણય લોગ
+place-database-title = સ્થાન ડેટાબેઝ
+place-database-integrity = પ્રામાણિકતા
+place-database-verify-integrity = પ્રામાણિકતા ચકાસો
 js-title = JavaScript
 js-incremental-gc = વધતુ જતુ GC
 a11y-title = સુલભતા
@@ -46,6 +73,32 @@ a11y-force-disabled = સુલભતા અટકાવો
 library-version-title = લાઇબ્રેરી આવૃત્તિઓ
 copy-text-to-clipboard-label = ક્લિપબોર્ડમાં લખાણની નકલ કરો
 copy-raw-data-to-clipboard-label = ક્લિપબોર્ડમાં કાચી માહિતીની નકલ કરો
+sandbox-title = સેન્ડબોક્સ
+sandbox-sys-call-index = #
+sandbox-sys-call-age = સેકંડ પહેલા
+sandbox-sys-call-pid = PID
+sandbox-sys-call-tid = TID
+sandbox-sys-call-args = દલીલો
+safe-mode-title = સુરક્ષિત મોડ અજમાવો
+restart-in-safe-mode-label = નિષ્ક્રિય થયેલ ઍડ-ઑન સાથે પુન:શરૂ કરો…
+media-title = મીડિયા
+media-output-devices-title = આઉટપુટ ઉપકરણો
+media-input-devices-title = ઇનપુટ ઉપકરણો
+media-device-name = નામ
+media-device-group = સમૂહ
+media-device-vendor = વિક્રેતા
+media-device-state = સ્થિતિ
+media-device-preferred = પસંદ
+media-device-format = બંધારણ
+media-device-channels = ચેનલ્સ
+media-device-latency = લેટન્સી
+intl-app-title = એપ્લિકેશનની સેટિંગ્સ
+intl-locales-requested = વિનંતી કરેલ લૉકેલ્સ
+intl-locales-available = ઉપલબ્ધ લૉકેલ્સ
+intl-locales-supported = એપ્લિકેશન લૉકેલ્સ
+intl-locales-default = મૂળભૂત લૉકેલ
+intl-os-title = ઑપરેટિંગ સિસ્ટમ
+intl-os-prefs-system-locales = સિસ્ટમ લૉકેલ્સ
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -95,21 +148,68 @@ try-newer-driver = તમારી ગ્રાફિક્સ ડ્રાઇ�
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType પરિમાણો
+yes = હા
+no = ના
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
 ## not found.
 
+found = મળ્યું
+missing = અનુપલબ્ધ
+gpu-description = વર્ણન
 gpu-vendor-id = વેન્ડર ID
 gpu-device-id = ઉપકરણ ID
+gpu-subsys-id = Subsys ID
+gpu-drivers = ડ્રાઇવર્સ
+gpu-ram = RAM
 gpu-driver-version = ડ્રાઇવર આવૃત્તિ
 gpu-driver-date = ડ્રાઇવર તારીખ
+gpu-active = સક્રિય
+webgl1-wsiinfo = WebGL 1 ડ્રાઈવર WSI માહિતી
+webgl1-renderer = WebGL 1 ડ્રાઈવર રેન્ડરર
+webgl1-version = WebGL 1 ડ્રાઈવર સંસ્કરણ
+webgl1-driver-extensions = WebGL 1 ડ્રાઈવર એક્સ્ટેન્શન્સ
+webgl1-extensions = WebGL 1 એક્સ્ટેન્શન્સ
+webgl2-wsiinfo = WebGL 2 ડ્રાઈવર WSI માહિતી
+webgl2-renderer = WebGL 2 ડ્રાઈવર રેન્ડરર
+webgl2-version = WebGL 2 ડ્રાઈવર સંસ્કરણ
+webgl2-driver-extensions = WebGL 2 ડ્રાઈવર એક્સ્ટેન્શન્સ
+webgl2-extensions = WebGL 2 એક્સ્ટેન્શન્સ
+# Variables
+# $bugNumber (string) - String of bug number from Bugzilla
+bug-link = ભૂલ { $bugNumber }
+d3d11layers-crash-guard = D3D11 કંપોઝિટર
+d3d11video-crash-guard = D3D11 વિડીયો ડિકોડર
+d3d9video-crash-buard = D3D9 વિડીયો ડીકોડર
+glcontext-crash-guard = OpenGL
+reset-on-next-restart = આગલું પુનઃપ્રારંભ કરો પર ફરીથી સેટ કરો
+off-main-thread-paint-enabled = બંધ મુખ્ય થ્રેડ પેઈન્ટીંગ સક્ષમ
+audio-backend = ઑડિઓ બેકએન્ડ
+max-audio-channels = મહત્તમ ચૅનલ્સ
 min-lib-versions = ઇચ્છિત ન્યૂનત્તમ આવૃત્તિ
 loaded-lib-versions = વપરાશમાં આવૃત્તિ
+has-user-namespaces = વપરાશકર્તા નામસ્થળ
+can-sandbox-content = સામગ્રી પ્રક્રિયા સૅન્ડબૉક્સિગ
+can-sandbox-media = મીડિયા પ્લગઇન સેન્ડબોક્સીંગ
+content-sandbox-level = સામગ્રી પ્રક્રિયા સેન્ડબોક્સ સ્તર
+sandbox-proc-type-content = સામગ્રી
+sandbox-proc-type-file = ફાઇલ સામગ્રી
+sandbox-proc-type-media-plugin = મીડિયા પ્લગઇન
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
+multi-process-status-0 = વપરાશકર્તા દ્વારા સક્ષમ
+multi-process-status-1 = મૂળભૂત દ્વારા સક્ષમ
+multi-process-status-2 = અક્ષમ
+multi-process-status-unknown = અજ્ઞાત સ્થિતિ
+apz-none = કંઈ નહીં
+wheel-enabled = વ્હીલ ઇનપુટ સક્ષમ
+touch-enabled = ટચ ઇનપુટ સક્ષમ
+drag-enabled = સ્ક્રોલબાર ડ્રેગ સક્ષમ
+keyboard-enabled = કીબોર્ડ સક્ષમ
+autoscroll-enabled = સ્વતઃસ્ક્રોલ સક્ષમ
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
