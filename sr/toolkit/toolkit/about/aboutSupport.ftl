@@ -64,9 +64,13 @@ a11y-title = Приступачност
 a11y-activated = Активирана
 a11y-force-disabled = Спречи приступачност
 library-version-title = Издања библиотека
+copy-text-to-clipboard-label = Копирај текст у бележницу
+copy-raw-data-to-clipboard-label = Копирај податке у бележницу
 sandbox-title = Sandbox
 safe-mode-title = Покушај безбедни режим
 restart-in-safe-mode-label = Рестартуј са онемогућеним додацима…
+raw-data-copied = Подаци копирани у бележницу
+text-copied = Текст копиран у бележницу
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
@@ -90,6 +94,7 @@ no = не
 ## In some development versions, it's expected for some API keys that they are
 ## not found.
 
+gpu-description = Опис
 gpu-vendor-id = ID продавца
 gpu-device-id = ID уређаја
 gpu-subsys-id = Subsys ID
