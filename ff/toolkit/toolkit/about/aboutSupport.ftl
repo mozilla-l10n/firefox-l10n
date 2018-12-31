@@ -122,7 +122,7 @@ report-crash-for-days =
 crashes-time-minutes =
     { $minutes ->
         [one] Gila hojom { $minutes }
-       *[other] { " " }Gila hojomaaji { $minutes }
+       *[other] Gila hojomaaji { $minutes }
     }
 # Variables
 # $hours (integer) - Number of hours since crash
