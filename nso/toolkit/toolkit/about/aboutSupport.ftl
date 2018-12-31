@@ -21,6 +21,8 @@ app-basics-user-agent = Moemedi wa modiriši
 app-basics-memory-use = Tirišo ya polokelo
 modified-key-prefs-title = Dikganyogwa tše fetošitšwego tše bohlokwa
 modified-prefs-name = Leina
+user-js-title = Dikganyogwa tša user.js
+user-js-description = Foltara ya gago ya profaele e na le <a data-l10n-name="user-js-link">faele ya user.js</a>, yeo e akaretšago dikganyogwa tšeo di sa hlangwago ke { -brand-short-name }.
 graphics-title = Diswantšho
 js-title = JavaScript
 js-incremental-gc = GC e nyenyane
