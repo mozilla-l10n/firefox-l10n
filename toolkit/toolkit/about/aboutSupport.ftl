@@ -70,6 +70,8 @@ crashes-time-days =
         [one] hace { $days } día
        *[other] hace { $days } días
     }
+raw-data-copied = Datos en bruto copiados al portapapeles
+text-copied = Texto copiado al portapapeles
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
