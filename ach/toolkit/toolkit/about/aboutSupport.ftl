@@ -14,6 +14,7 @@ extensions-name = Nying
 extensions-enabled = Matyero
 extensions-version = Cik
 extensions-id = ID
+security-software-name = Nying
 features-title = Jami me { -brand-short-name }
 features-name = Nying
 features-id = ID
@@ -75,6 +76,10 @@ sandbox-sys-call-tid = TID
 safe-mode-title = Tem kit maber
 restart-in-safe-mode-label = Cak odoco ma nongo kijuko med-ikome…
 media-device-name = Nying
+intl-locales-requested = Leb ma kipenyo pi gi
+intl-locales-available = Leb matye
+intl-locales-supported = Leb me purugram
+intl-locales-default = Leb makwongo
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -187,3 +192,6 @@ touch-warning = kijuko woko keto me aguda mape time la kacel pi ter mape kicwako
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+policies-inactive = Pe tye katic
+policies-active = Tye katic
+policies-error = Bal
