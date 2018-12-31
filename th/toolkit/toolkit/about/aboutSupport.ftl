@@ -96,6 +96,21 @@ intl-locales-default = ภาษาเริ่มต้น
 intl-os-title = ระบบปฏิบัติการ
 intl-os-prefs-system-locales = ภาษาของระบบ
 intl-regional-prefs = ค่ากำหนดภูมิภาค
+# Variables
+# $days (Integer) - Number of days of crashes to log
+report-crash-for-days = รายงานข้อขัดข้องของ { $days } วันล่าสุด
+# Variables
+# $minutes (integer) - Number of minutes since crash
+crashes-time-minutes = { $minutes } นาทีที่แล้ว
+# Variables
+# $hours (integer) - Number of hours since crash
+crashes-time-hours = { $hours } ชั่วโมงที่แล้ว
+# Variables
+# $days (integer) - Number of days since crash
+crashes-time-days = { $days } วันที่แล้ว
+# Variables
+# $reports (integer) - Number of pending reports
+pending-reports = รายงานข้อขัดข้องทั้งหมด (รวม { $reports } ข้อขัดข้องที่ยังไม่ได้รายงานในช่วงเวลาที่กำหนด)
 raw-data-copied = คัดลอกข้อมูลดิบไปยังคลิปบอร์ดแล้ว
 text-copied = คัดลอกข้อความไปยังคลิปบอร์ดแล้ว
 
