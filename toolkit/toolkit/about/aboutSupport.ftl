@@ -90,6 +90,7 @@ sandbox-sys-call-args = தருமதிப்புகள்
 safe-mode-title = பாதுகாப்பு முறைமையை முயற்சி
 restart-in-safe-mode-label = நீட்சிகளை நீக்கிவிட்டு மீள் துவக்கு.
 media-device-name = பெயர்
+media-device-group = குழு
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
