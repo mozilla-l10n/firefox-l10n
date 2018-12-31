@@ -6,11 +6,16 @@ page-subtitle =
     ਇਹ ਸਫ਼ੇ ਉੱਤੇ ਤਕਨੀਕੀ ਜਾਣਕਾਰੀ ਹੈ, ਜੋ ਕਿ ਤੁਹਾਨੂੰ ਸਮੱਸਿਆ ਹੱਲ਼ ਕਰਨ ਲਈ ਫਾਇਦੇਮੰਦ
     ਹੋ ਸਕਦੀ ਹੈ। ਜੇ ਤੁਸੀਂ { -brand-short-name } ਬਾਰੇ ਆਮ ਸਵਾਦ ਦੇ ਜਵਾਬ ਲੱਭ ਰਹੇ ਹੋ ਤਾਂ
     ਸਾਡੀ <a data-l10n-name="support-link">ਸਪੋਰਟ ਵੈੱਬ ਸਾਈਟ</a> ਨੂੰ ਵੇਖੋ ਜੀ।
+crashes-title = ਕਰੈਸ਼ ਰਿਪੋਰਟਾਂ
+crashes-id = ਰਿਪੋਰਟ ID
+crashes-send-date = ਭੇਜੀਆਂ
+crashes-all-reports = ਸਭ ਕਰੈਸ਼ ਰਿਪੋਰਟ
 extensions-title = ਇਕਸਟੈਨਸ਼ਨ
 extensions-name = ਨਾਂ
 extensions-id = ID
 app-basics-title = ਐਪਲੀਕੇਸ਼ਨ ਬੇਸਿਕ
 app-basics-name = ਨਾਂ
+app-basics-update-history = ਅੱਪਡੇਟ ਅਤੀਤ
 app-basics-enabled-plugins = ਚਾਲੂ ਪਲੱਗਇਨ
 app-basics-build-config = ਬਿਲਡ ਸੰਰਚਨਾ
 app-basics-user-agent = ਯੂਜ਼ਰ ਏਜੰਟ
@@ -26,6 +31,34 @@ a11y-title = ਅਸੈਸਬਿਲਟੀ
 a11y-activated = ਸਰਗਰਮ ਹੈ
 copy-text-to-clipboard-label = ਟੈਕਸਟ ਕਲਿੱਪਬੋਰਡ ਵਿੱਚ ਕਾਪੀ ਕਰੋ
 copy-raw-data-to-clipboard-label = ਰਾਅ ਡਾਟਾ ਕਲਿੱਪਬੋਰਡ ਵਿੱਚ ਕਾਪੀ ਕਰੋ
+# Variables
+# $minutes (integer) - Number of minutes since crash
+crashes-time-minutes =
+    { $minutes ->
+        [one] { $minutes } ਮਿੰਟ ਪਹਿਲਾਂ
+       *[other] { $minutes } ਮਿੰਟ ਪਹਿਲਾਂ
+    }
+# Variables
+# $hours (integer) - Number of hours since crash
+crashes-time-hours =
+    { $hours ->
+        [one] { $hours } ਘੰਟਾ ਪਹਿਲਾਂ
+       *[other] { $hours } ਘੰਟੇ ਪਹਿਲਾਂ
+    }
+# Variables
+# $days (integer) - Number of days since crash
+crashes-time-days =
+    { $days ->
+        [one] { $days } ਦਿਨ ਪਹਿਲਾਂ
+       *[other] { $days } ਦਿਨ ਪਹਿਲਾਂ
+    }
+# Variables
+# $reports (integer) - Number of pending reports
+pending-reports =
+    { $reports ->
+        [one] ਸਭ ਕਰੈਸ਼ ਰਿਪੋਰਟ (ਦਿੱਤੀ ਸਮਾਂ ਹੱਦ ਵਿੱਚ { $reports } ਬਾਕੀ ਕਰੈਸ਼ ਸਮੇਤ)
+       *[other] ਸਭ ਕਰੈਸ਼ ਰਿਪੋਰਟ (ਦਿੱਤੀ ਸਮਾਂ ਹੱਦ ਵਿੱਚ { $reports } ਬਾਕੀ ਕਰੈਸ਼ ਸਮੇਤ)
+    }
 raw-data-copied = ਰਾਅ ਡਾਟਾ ਕਲਿੱਪਬੋਰਡ ਵਿੱਚ ਕਾਪੀ ਕੀਤਾ ਗਿਆ
 text-copied = ਟੈਕਸਟ ਕਲਿੱਪਬੋਰਡ ਵਿੱਚ ਕਾਪੀ ਕੀਤਾ
 
