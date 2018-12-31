@@ -14,6 +14,7 @@ extensions-name = ಹೆಸರು
 extensions-enabled = ಶಕ್ತಗೊಳಿಸಲಾದ
 extensions-version = ಆವೃತ್ತಿ
 extensions-id = ID
+features-title = { -brand-short-name } ವೈಶಿಷ್ಟ್ಯತೆಗಳು
 features-name = ಹೆಸರು
 features-version = ಆವೃತ್ತಿ
 features-id = ID
@@ -92,6 +93,7 @@ media-device-preferred = ಆದ್ಯತೆಯ
 media-device-format = ಸ್ವರೂಪ
 media-device-channels = ಚಾನೆಲ್‌ಗಳು
 media-device-rate = ದರ
+media-device-latency = ತಡ
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -184,6 +186,8 @@ has-user-namespaces = ಬಳಕೆದಾರದ ನೇಮ್‌ಸ್ಪೇಸ್
 has-privileged-user-namespaces = ವಿಶೇಷ ಪ್ರಕ್ರಿಯೆಗಳಿಗಿರುವ ಬಳಕೆದಾರರ ನೇಮ್‌ಸ್ಪೇಸ್‌ಗಳು
 can-sandbox-content = ವಿಷಯ ಪ್ರಕ್ರಿಯೆ ಪ್ರಯೋಗಾರ್ಥಗೊಳಿಸುವಿಕೆ
 can-sandbox-media = ಮೀಡಿಯ ಪ್ಲಗಿನ್ ಪ್ರಯೋಗಾರ್ಥಗೊಳಿಸುವಿಕೆ{ " " }
+sandbox-proc-type-content = ವಿಷಯ
+sandbox-proc-type-media-plugin = ಮೀಡಿಯ ಪ್ಲಗಿನ್
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
