@@ -193,6 +193,8 @@ hardware-h264 = Dadgodio Caledwedd H264
 main-thread-no-omtc = prif drywydd, dim OMTC
 yes = Iawn
 no = Na
+unknown = Anhysbys
+virtual-monitor-disp = Dangosiad Monitor Rhithwir
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
@@ -200,6 +202,8 @@ no = Na
 
 found = Wedi Canfod
 missing = Coll
+gpu-process-pid = GPUProcessPid
+gpu-process = GPUProcess
 gpu-description = Disgrifiad
 gpu-vendor-id = Enw'r Gwerthwr
 gpu-device-id = Enw Dyfais
@@ -232,6 +236,7 @@ d3d9video-crash-buard = Dadgodiwr Fideo D3D9
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Ailosod wrth Ailgychwyn
 gpu-process-kill-button = Gorffen Proses GPU
+gpu-device-reset = Ailosod Dyfais
 gpu-device-reset-button = Ailosod Dyfais Trigro
 uses-tiling = Yn defnyddio Teilsio
 content-uses-tiling = Yn Defnyddio Teilsio (Cynnwys)
