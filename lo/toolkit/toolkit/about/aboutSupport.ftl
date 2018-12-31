@@ -14,6 +14,10 @@ extensions-name = ຊື່​
 extensions-enabled = ເປີດໃຊ້ງານແລ້ວ
 extensions-version = ລູ້ນ​
 extensions-id = ID
+features-title = ຄູນລັກສະນະຂອງ { -brand-short-name }
+features-name = ຊື່
+features-version = ເວີຊັນ
+features-id = ID
 app-basics-title = ແອັບພຣິເຄຊັນພື້ນຖານ
 app-basics-name = ຊື່​
 app-basics-version = ລູ້ນ​
@@ -35,6 +39,8 @@ app-basics-performance = ປະສິດທິພາບ
 app-basics-service-workers = ລົງທະບຽນ Service Workers ແລ້ວ
 app-basics-profiles = ໂປ​ຣ​ໄຟ​ລ໌
 app-basics-multi-process-support = ວິນໂດ Multiprocess
+app-basics-key-google = Google Key
+app-basics-key-mozilla = Mozilla Location Service Key
 app-basics-safe-mode = ໂຫມດປອດໄພ
 show-dir-label =
     { PLATFORM() ->
@@ -71,6 +77,14 @@ library-version-title = ລຸ້ນ Library
 copy-text-to-clipboard-label = ສຳເນົາຂໍ້ຄວາມໄປໄວ້ທີ່ Clipboard
 copy-raw-data-to-clipboard-label = ສຳເນົາຂໍ້ມູນດິບໄປໄວ້ທີ່ Clipboard{ " " }
 sandbox-title = Sandbox
+sandbox-sys-call-log-title = ປະຕິເສດລະບົບການໂທ
+sandbox-sys-call-index = #
+sandbox-sys-call-age = ວິນາທີທີ່ຜ່ານມາ
+sandbox-sys-call-pid = PID
+sandbox-sys-call-tid = TID
+sandbox-sys-call-proc-type = ປະເພດ Process
+sandbox-sys-call-number = Syscall
+sandbox-sys-call-args = Arguments
 safe-mode-title = ລອງໃຊ້ໂຫມດປອດໄພ
 raw-data-copied = ສຳເນົາຂໍ້ມູນດິບໄປໄວ້ທີ່ Clipboard ແລ້ວ
 text-copied = ຂໍ້ຄວາມໄດ້ຖືກສຳເນົາໄປໄວ້ທີ່ Clipboard ແລ້ວ
@@ -97,6 +111,8 @@ no = ບໍ່
 ## In some development versions, it's expected for some API keys that they are
 ## not found.
 
+found = ພົບ
+missing = ເສຍໄປ
 gpu-description = ຄຳອະທິບາຍ
 gpu-vendor-id = ID ຂອງຜູ້ຈຳຫນ່າຍ
 gpu-device-id = ID ຂອງອຸປະກອນ
@@ -106,7 +122,16 @@ gpu-ram = RAM
 gpu-driver-version = ລຸ້ນຂອງໄດຣເວີ
 gpu-driver-date = ວັນທີຂອງໄດຣເວີ
 gpu-active = ເປີດໃຊ້
+webgl1-wsiinfo = WebGL 1 ຂໍ້ມູນ WSI ໄດຣ໌ເວີ
+webgl1-renderer = WebGL 1 ຕົວເລນເດີໄດຣ໌ເວີ
+webgl1-version = WebGL 1 ໄດຣ໌ເວີເວີຊັນ
+webgl1-driver-extensions = WebGL 1 ໄດຣ໌ເວີ Extensions
+webgl1-extensions = WebGL 1 Extensions
+webgl2-wsiinfo = WebGL 2 ຂໍ້ມູນ WSI ໄດຣ໌ເວີ
 webgl2-renderer = WebGL2 Renderer
+webgl2-version = WebGL 2 ໄດຣ໌ເວີເວີຊັນ
+webgl2-driver-extensions = WebGL 2 ໄດຣ໌ເວີ Extensions
+webgl2-extensions = WebGL 2 Extensions
 blocklisted-bug = Blocklisted ຍ້ອນວ່າໄດ້ຮັບຮູ້ບັນຫານີ້ແລ້ວ.
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
@@ -120,6 +145,7 @@ d3d9video-crash-buard = ຕົວຖອດລະຫັດວິດີໂອ D3D9
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = ກັບໄປສູ່ການຕັ້ງຄ່າເດີມໃນການ Restart ຄັ້ງຕໍ່ໄປ
 gpu-process-kill-button = ຢຸດໂປຣເຊສ GPU
+audio-backend = Audio Backend
 min-lib-versions = ລຸ້ນຕຳສຸດທີ່ສາມາດໃຊ້ໄດ້
 loaded-lib-versions = ລຸ້ນທີ່ກຳລັງນຳໃຊ້ຢູ່
 has-seccomp-bpf = Seccomp-BPF (System Call Filtering)
@@ -129,6 +155,8 @@ has-privileged-user-namespaces = User Namespaces ສຳລັບຂະບວນ�
 can-sandbox-content = Content Process Sandboxing
 can-sandbox-media = Media Plugin Sandboxing
 content-sandbox-level = Content Process Sandboxing
+sandbox-proc-type-content = ເນື້ອໃນ
+sandbox-proc-type-media-plugin = ປັກອິນມີເດຍ
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
