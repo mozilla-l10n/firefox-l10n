@@ -36,7 +36,7 @@ app-basics-profile-dir =
         [linux] Պրոֆիլի պահոց
        *[other] Պրոֆիլի թղթապանակը
     }
-app-basics-enabled-plugins = Միացված բաղադրիչներ{ " " }
+app-basics-enabled-plugins = Միացված բաղադրիչներ
 app-basics-build-config = Հավաքման ձևաչափ
 app-basics-user-agent = Օգտետերի Դիտարկիչը
 app-basics-os = OS
