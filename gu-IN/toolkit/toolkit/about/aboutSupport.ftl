@@ -14,6 +14,12 @@ extensions-name = નામ
 extensions-enabled = સક્રિય થયેલ
 extensions-version = આવૃત્તિ
 extensions-id = ID
+security-software-title = સુરક્ષા સૉફ્ટવેર
+security-software-type = પ્રકાર
+security-software-name = નામ
+security-software-antivirus = એન્ટિવાયરસ
+security-software-antispyware = એન્ટીસ્વાઇવયર
+security-software-firewall = ફાયરવૉલ
 features-title = { -brand-short-name } વિશેષતા
 features-name = નામ
 features-version = આવૃત્તિ
@@ -39,6 +45,7 @@ app-basics-service-workers = રજીસ્ટર કરેલ Service Workers
 app-basics-profiles = પ્રોફાઇલ્સ
 app-basics-multi-process-support = મલ્ટીપ્રોસેસ વિન્ડો
 app-basics-process-count = વેબ સામગ્રી પ્રક્રિયાઓ
+app-basics-key-google = Google કી
 app-basics-key-mozilla = Mozilla સ્થાન સર્વિસ કી
 app-basics-safe-mode = સલામત મોડ
 show-dir-label =
@@ -62,6 +69,8 @@ graphics-failure-log-title = નિષ્ફળતા લોગ
 graphics-gpu1-title = GPU #1
 graphics-gpu2-title = GPU #2
 graphics-decision-log-title = નિર્ણય લોગ
+graphics-crash-guards-title = ક્રેશ ગાર્ડની અક્ષમ કરેલ સુવિધાઓ
+graphics-workarounds-title = વર્કરાઉન્ડ્સ
 place-database-title = સ્થાન ડેટાબેઝ
 place-database-integrity = પ્રામાણિકતા
 place-database-verify-integrity = પ્રામાણિકતા ચકાસો
@@ -70,6 +79,8 @@ js-incremental-gc = વધતુ જતુ GC
 a11y-title = સુલભતા
 a11y-activated = સક્રિય થયેલ
 a11y-force-disabled = સુલભતા અટકાવો
+a11y-handler-used = સુલભ હેન્ડલર વપરાયેલ
+a11y-instantiator = ઇન્સ્ટિટેએટર ઉપલ્બધતા
 library-version-title = લાઇબ્રેરી આવૃત્તિઓ
 copy-text-to-clipboard-label = ક્લિપબોર્ડમાં લખાણની નકલ કરો
 copy-raw-data-to-clipboard-label = ક્લિપબોર્ડમાં કાચી માહિતીની નકલ કરો
@@ -78,6 +89,8 @@ sandbox-sys-call-index = #
 sandbox-sys-call-age = સેકંડ પહેલા
 sandbox-sys-call-pid = PID
 sandbox-sys-call-tid = TID
+sandbox-sys-call-proc-type = પ્રક્રિયા પ્રકાર
+sandbox-sys-call-number = સિસકૉલ
 sandbox-sys-call-args = દલીલો
 safe-mode-title = સુરક્ષિત મોડ અજમાવો
 restart-in-safe-mode-label = નિષ્ક્રિય થયેલ ઍડ-ઑન સાથે પુન:શરૂ કરો…
@@ -92,6 +105,7 @@ media-device-preferred = પસંદ
 media-device-format = બંધારણ
 media-device-channels = ચેનલ્સ
 media-device-latency = લેટન્સી
+intl-title = આંતરરાષ્ટ્રીયકરણ & સ્થાનિકીકરણ
 intl-app-title = એપ્લિકેશનની સેટિંગ્સ
 intl-locales-requested = વિનંતી કરેલ લૉકેલ્સ
 intl-locales-available = ઉપલબ્ધ લૉકેલ્સ
@@ -99,6 +113,7 @@ intl-locales-supported = એપ્લિકેશન લૉકેલ્સ
 intl-locales-default = મૂળભૂત લૉકેલ
 intl-os-title = ઑપરેટિંગ સિસ્ટમ
 intl-os-prefs-system-locales = સિસ્ટમ લૉકેલ્સ
+intl-regional-prefs = ક્ષેત્રીય પસંદગીઓ
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -142,12 +157,16 @@ text-copied = ક્લિપબોર્ડમાં નકલ થયેલ લ
 blocked-driver = તમારા ગ્રાફિક્સ ડ્રાઇવર આવૃત્તિ માટે બ્લોક થયેલ છે.
 blocked-gfx-card = તમારા ગ્રાફિક્સ કાર્ડ માટે બ્લોક થયેલ છે કારણ કે ડ્રાઇવર સમસ્યાઓ સુધરી નથી.
 blocked-os-version = તમારી ઓપરેટીંગ સિસ્ટમ આવૃત્તિ માટે બ્લોક થયેલ છે.
+blocked-mismatched-version = રજિસ્ટ્રી અને DLL વચ્ચે તમારા ગ્રાફિક્સ ડ્રાઇવર આવૃત્તિ મેળ ખાતા નથી તેથી અવરોધિત છે.
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = તમારી ગ્રાફિક્સ ડ્રાઇવર આવૃત્તિ માટે બ્લોક થયેલ છે. આવૃત્તિ { $driverVersion } અથવા નવા માટે તમારા ગ્રાફિક્સ ડ્રાઇવરને સુધારવાનો પ્રયત્ન કરો.
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType પરિમાણો
+compositing = સંમિશ્રણ
+hardware-h264 = હાર્ડવેર H264 ડિકોડિંગ
+main-thread-no-omtc = મુખ્ય થ્રેડ, કોઈ OMTC નથી
 yes = હા
 no = ના
 
@@ -176,23 +195,37 @@ webgl2-renderer = WebGL 2 ડ્રાઈવર રેન્ડરર
 webgl2-version = WebGL 2 ડ્રાઈવર સંસ્કરણ
 webgl2-driver-extensions = WebGL 2 ડ્રાઈવર એક્સ્ટેન્શન્સ
 webgl2-extensions = WebGL 2 એક્સ્ટેન્શન્સ
+blocklisted-bug = જાણીતા મુદ્દાઓના કારણે અવરોધિત સૂચિ માં છે
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = ભૂલ { $bugNumber }
+# Variables
+# $failureCode (string) - String that can be searched in the source tree.
+unknown-failure = અવરોધિત સૂચિ કરેલ; નિષ્ફળતા કોડ { $failureCode }
 d3d11layers-crash-guard = D3D11 કંપોઝિટર
 d3d11video-crash-guard = D3D11 વિડીયો ડિકોડર
 d3d9video-crash-buard = D3D9 વિડીયો ડીકોડર
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = આગલું પુનઃપ્રારંભ કરો પર ફરીથી સેટ કરો
+gpu-process-kill-button = GPU પ્રક્રિયા સમાપ્ત કરો
+gpu-device-reset-button = ટ્રિગર ઉપકરણ રીસેટ કરો
+uses-tiling = ટાઇલીંગનો ઉપયોગ કરે છે
 off-main-thread-paint-enabled = બંધ મુખ્ય થ્રેડ પેઈન્ટીંગ સક્ષમ
+off-main-thread-paint-worker-count = મુખ્ય થ્રેડ પેઈન્ટીંગ કામદાર ગણક બંધ
 audio-backend = ઑડિઓ બેકએન્ડ
 max-audio-channels = મહત્તમ ચૅનલ્સ
+channel-layout = મનપસંદ ચેનલ લેઆઉટ
+sample-rate = મનપસંદ નમૂના દર
 min-lib-versions = ઇચ્છિત ન્યૂનત્તમ આવૃત્તિ
 loaded-lib-versions = વપરાશમાં આવૃત્તિ
+has-seccomp-bpf = Seccomp-BPF (સિસ્ટમ કૉલ ફિલ્ટરિંગ)
+has-seccomp-tsync = Seccomp થ્રેડ સુમેળ
 has-user-namespaces = વપરાશકર્તા નામસ્થળ
+has-privileged-user-namespaces = વિશેષાધિકૃત પ્રક્રિયાઓ માટે વપરાશકર્તા નામસ્થળ
 can-sandbox-content = સામગ્રી પ્રક્રિયા સૅન્ડબૉક્સિગ
 can-sandbox-media = મીડિયા પ્લગઇન સેન્ડબોક્સીંગ
 content-sandbox-level = સામગ્રી પ્રક્રિયા સેન્ડબોક્સ સ્તર
+effective-content-sandbox-level = અસરકારક સામગ્રી પ્રક્રિયા સેન્ડબોક્સ સ્તર
 sandbox-proc-type-content = સામગ્રી
 sandbox-proc-type-file = ફાઇલ સામગ્રી
 sandbox-proc-type-media-plugin = મીડિયા પ્લગઇન
@@ -203,7 +236,12 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 multi-process-status-0 = વપરાશકર્તા દ્વારા સક્ષમ
 multi-process-status-1 = મૂળભૂત દ્વારા સક્ષમ
 multi-process-status-2 = અક્ષમ
+multi-process-status-4 = ઍક્સેસિબિલિટી ટૂલ્સ દ્વારા અક્ષમ કરેલ
+multi-process-status-6 = અસમર્થિત ટેક્સ્ટ ઇનપુટ દ્વારા અક્ષમ કરેલ
+multi-process-status-7 = એડ-ઑન્સ દ્વારા અક્ષમ
+multi-process-status-8 = બળજબરીથી અક્ષમ
 multi-process-status-unknown = અજ્ઞાત સ્થિતિ
+async-pan-zoom = અસુમેળ પૈન/Zoom
 apz-none = કંઈ નહીં
 wheel-enabled = વ્હીલ ઇનપુટ સક્ષમ
 touch-enabled = ટચ ઇનપુટ સક્ષમ
@@ -214,6 +252,11 @@ autoscroll-enabled = સ્વતઃસ્ક્રોલ સક્ષમ
 ## Variables
 ## $preferenceKey (string) - String ID of preference
 
+wheel-warning = અસમર્થ પસંદગીને કારણે અસુમેળ વ્હીલ ઇનપુટ અક્ષમ: { $preferenceKey }
+touch-warning = અસમર્થ પસંદગીને કારણે અસુમેળ ટચ ઇનપુટ અક્ષમ: { $preferenceKey }
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+policies-inactive = નિષ્ક્રિય
+policies-active = સક્રિય
+policies-error = ભૂલ
