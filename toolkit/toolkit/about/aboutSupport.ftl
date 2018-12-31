@@ -51,6 +51,12 @@ app-basics-multi-process-support = Multiprocesová okna
 app-basics-process-count = Procesy pro webový obsah
 app-basics-enterprise-policies = Podniková pravidla
 app-basics-safe-mode = Nouzový režim
+show-dir-label =
+    { PLATFORM() ->
+        [macos] Zobrazit ve Finderu
+        [windows] Otevřít složku
+       *[other] Otevřít adresář
+    }
 modified-key-prefs-title = Důležité změněné předvolby
 modified-prefs-name = Název
 modified-prefs-value = Hodnota
