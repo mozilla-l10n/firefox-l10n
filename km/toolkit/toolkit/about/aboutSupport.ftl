@@ -54,6 +54,21 @@ copy-raw-data-to-clipboard-label = ចម្លង​ទិន្នន័យ​
 sandbox-title = Sandbox
 safe-mode-title = សាកល្បង​របៀប​សុវត្ថិភាព
 restart-in-safe-mode-label = ចាប់ផ្ដើម​ឡើងវិញ​ដោយ​បិទ​កម្មវិធី​បន្ថែម...
+# Variables
+# $days (Integer) - Number of days of crashes to log
+report-crash-for-days = របាយការណ៍​ភាព​ជាប់​​គាំង​សម្រាប់ { $days } ថ្ងៃ​ចុងក្រោយ
+# Variables
+# $minutes (integer) - Number of minutes since crash
+crashes-time-minutes = { $minutes } នាទី​​មុន
+# Variables
+# $hours (integer) - Number of hours since crash
+crashes-time-hours = { $hours } ម៉ោង​​មុន
+# Variables
+# $days (integer) - Number of days since crash
+crashes-time-days = { $days } ថ្ងៃ​​មុន
+# Variables
+# $reports (integer) - Number of pending reports
+pending-reports = គ្រប់​របាយការណ៍​ភាព​ជាប់​​គាំង​ទាំងអស់ (រួម​មាន​ការ​គាំង​ដែល​កំពុង​រង់ចាំ { $reports } នៅ​ក្នុង​ចន្លោះ​​ពេល​ណា​មួយ)
 raw-data-copied = បាន​ចម្លង​ទិន្នន័យ​ដើម​ទៅកាន់​ក្ដារ​តម្បៀត​ខ្ទាស់
 text-copied = បាន​ចម្លង​អត្ថបទ​ទៅកាន់​ក្ដារ​តម្បៀត​ខ្ទាស់
 
