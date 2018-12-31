@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+crashes-send-date = প্রেরিত
 extensions-title = এক্সটেনশন
 extensions-name = নাম
 extensions-enabled = সক্রিয়
@@ -10,6 +11,7 @@ app-basics-name = নাম
 app-basics-version = সংস্করণ
 modified-prefs-name = নাম
 modified-prefs-value = মান
+user-js-title = user.js পছন্দসমূহ
 graphics-title = গ্রাফিক্স
 js-incremental-gc = Incremental GC
 
