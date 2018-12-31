@@ -25,6 +25,7 @@ app-basics-multi-process-support = Multi-processamento de janelas
 modified-key-prefs-title = Preferências importantes modificadas
 modified-prefs-name = Nome
 modified-prefs-value = Valor
+user-js-title = Preferências user.js
 user-js-description = A sua pasta de perfil contém <a data-l10n-name="user-js-link">um ficheiro user.js</a>, que inclui as preferências que não foram criadas pelo { -brand-short-name }.
 locked-key-prefs-title = Preferências importantes bloqueadas
 locked-prefs-name = Nome
@@ -32,6 +33,7 @@ locked-prefs-value = Valor
 graphics-title = Gráficos
 js-title = JavaScript
 js-incremental-gc = GC incremental
+a11y-title = Acessibilidade
 a11y-activated = Ativa
 a11y-force-disabled = Impedir acessibilidade
 library-version-title = Versões da biblioteca
