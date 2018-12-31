@@ -216,6 +216,7 @@ d3d9video-crash-buard = D3D9 Videoavkodare
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Återställ vid nästa omstart
 gpu-process-kill-button = Avsluta GPU process
+gpu-device-reset = Enhetsåterställning
 gpu-device-reset-button = Utlös återställning av enhet
 uses-tiling = Använder Tiling
 content-uses-tiling = Använder Tiling (innehåll)
