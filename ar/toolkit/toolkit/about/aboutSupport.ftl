@@ -28,6 +28,8 @@ app-basics-memory-use = استخدام الذاكرة
 app-basics-enterprise-policies = سياسات المؤسسات
 modified-key-prefs-title = التفضيلات المهمّة المُعدّلة
 modified-prefs-name = الاسم
+user-js-title = تفضيلات user.js
+user-js-description = يحتوي مجلد إعداداتك على <a data-l10n-name="user-js-link">ملف user.js</a> به تفضيلات لم يُنشئها { -brand-short-name }.
 graphics-title = الرسوميات
 js-title = جافاسكربت
 js-incremental-gc = جامع القمامة التزايدي
