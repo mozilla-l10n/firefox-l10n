@@ -42,6 +42,7 @@ locked-prefs-value = 值
 graphics-title = 图像
 js-title = JavaScript
 js-incremental-gc = 渐进式垃圾收集
+a11y-title = 无障碍环境
 a11y-activated = 已激活
 library-version-title = 库版本
 copy-text-to-clipboard-label = 复制文本到剪贴板
