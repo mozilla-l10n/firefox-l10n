@@ -14,6 +14,9 @@ extensions-name = Nama
 extensions-enabled = Aktif
 extensions-version = Versi
 extensions-id = ID
+security-software-antivirus = Antivirus
+security-software-antispyware = Antiperangkatpengintai
+security-software-firewall = Tembok Api
 app-basics-title = Informasi Dasar Aplikasi
 app-basics-name = Nama
 app-basics-version = Versi
@@ -34,6 +37,7 @@ app-basics-performance = Kinerja
 app-basics-service-workers = Service Worker Terdaftar
 app-basics-profiles = Profil
 app-basics-multi-process-support = Jendela Multiproses
+app-basics-process-count = Proses Konten Web
 app-basics-enterprise-policies = Kebijakan Perusahaan
 app-basics-safe-mode = Mode Aman
 show-dir-label =
@@ -71,9 +75,15 @@ library-version-title = Versi Pustaka
 copy-text-to-clipboard-label = Salin teks ke papan klip
 copy-raw-data-to-clipboard-label = Salin data mentah ke papan klip
 sandbox-title = Kotak pasir
+sandbox-sys-call-age = Detik Lalu
 safe-mode-title = Coba Mode Aman
 restart-in-safe-mode-label = Mulai Ulang dengan Pengaya Dinonaktifkan…
+media-output-devices-title = Peranti Keluaran
+media-input-devices-title = Peranti Masukan
+media-device-state = Provinsi
+media-device-preferred = Disukai
 intl-title = Pelokalan dan Internasional
+intl-app-title = Setelan Aplikasi
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days = Laporan Kerusakan dalam { $days } Hari Terakhir
@@ -123,7 +133,14 @@ gpu-ram = RAM
 gpu-driver-version = Versi Penggerak
 gpu-driver-date = Tanggal Penggerak
 gpu-active = Aktif
+webgl1-wsiinfo = Info WSI Penggerak WebGL 1
+webgl1-renderer = Perender Penggerak WebGL 1
+webgl1-version = Versi Penggerak WebGL 1
+webgl1-driver-extensions = Ekstensi Penggerak WebGL 1
+webgl2-wsiinfo = Info WSI Penggerak WebGL 2
 webgl2-renderer = Perender WebGL2
+webgl2-version = Versi Penggerak WebGL 2
+webgl2-driver-extensions = Ekstensi Penggerak WebGL 2
 blocklisted-bug = Dicekal karena alasan yang diketahui
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
@@ -141,6 +158,9 @@ gpu-device-reset-button = Picu Pengaturan Ulang Perangkat
 uses-tiling = Gunakan Tiling
 off-main-thread-paint-enabled = Off Main Thread Painting Diaktifkan
 off-main-thread-paint-worker-count = Jumlah Off Main Thread Painting Worker
+max-audio-channels = Kanal Maksimal
+channel-layout = Tata Letak Saluran Pilihan
+sample-rate = Tingkat Sampel Pilihan
 min-lib-versions = Versi minimum diharapkan
 loaded-lib-versions = Versi yang digunakan
 has-seccomp-bpf = Seccomp-BPF (Pemfilteran Pemanggilan Sistem - System Call Filtering)
@@ -150,6 +170,9 @@ has-privileged-user-namespaces = Ruang Nama Pengguna untuk proses istimewa
 can-sandbox-content = Pengotakpasiran Proses Konten
 can-sandbox-media = Pengotakpasiran Plugin Media
 content-sandbox-level = Tingkat Proses Konten Sandbox
+effective-content-sandbox-level = Tingkat Sandbox Proses Konten Efektif
+sandbox-proc-type-content = konten
+sandbox-proc-type-file = konten berkas
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -167,6 +190,7 @@ apz-none = tidak ada
 wheel-enabled = input wheel diaktifkan
 touch-enabled = input sentuh diaktifkan
 drag-enabled = penyeretan bilah penggulung aktif
+autoscroll-enabled = gulir otomatis diaktifkan
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
