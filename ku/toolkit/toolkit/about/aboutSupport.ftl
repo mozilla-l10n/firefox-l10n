@@ -15,6 +15,7 @@ app-basics-build-config = Mîhengên Avakirinê
 app-basics-user-agent = Navbeynkara Bikarhêner
 modified-prefs-name = Nav
 graphics-title = Grafîk
+a11y-title = Gihîştin
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
