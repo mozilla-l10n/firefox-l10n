@@ -38,6 +38,7 @@ app-basics-profile-dir =
     }
 app-basics-enabled-plugins = 有効なプラグイン
 app-basics-build-config = ビルド設定
+app-basics-user-agent = ユーザーエージェント
 app-basics-os = OS
 app-basics-memory-use = メモリー使用量
 app-basics-performance = パフォーマンス
@@ -200,6 +201,8 @@ min-lib-versions = 想定される最低バージョン
 loaded-lib-versions = 使用中のバージョン
 has-seccomp-bpf = Seccomp-BPF (システムコールフィルタリング)
 has-seccomp-tsync = Seccomp スレッド同期
+has-user-namespaces = ユーザー名前空間
+has-privileged-user-namespaces = 特権プロセス用のユーザー名前空間
 can-sandbox-content = コンテンツプロセスのサンドボックス化
 can-sandbox-media = メディアプラグインのサンドボックス化
 content-sandbox-level = コンテンツプロセスのサンドボックスレベル
@@ -211,6 +214,7 @@ sandbox-proc-type-media-plugin = メディアプラグイン
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
+multi-process-status-0 = ユーザー設定により有効
 multi-process-status-1 = 既定で有効
 multi-process-status-2 = 無効
 multi-process-status-4 = アクセシビリティツールにより無効
