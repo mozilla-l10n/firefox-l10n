@@ -87,6 +87,8 @@ a11y-force-disabled = დამხმარე საშუალებები
 a11y-handler-used = გამოყენებულია ხელმისაწვდომი დამმუშავებელი
 a11y-instantiator = დამხმარე საშუალებების უზრუნველყოფა
 library-version-title = ბიბლიოთეკის ვერსიები
+copy-text-to-clipboard-label = ტექსტის ასლის აღება
+copy-raw-data-to-clipboard-label = ნედლი მონაცემების ასლის აღება
 sandbox-title = იზოლირებული გარემო
 sandbox-sys-call-log-title = სისტემის უარყოფილი გამოძახებები
 sandbox-sys-call-index = #
@@ -154,6 +156,8 @@ pending-reports =
         [one] ავარიული დახურვის მოხსენებები (მათ შორის ერთი გასაგზავნად გამზადებული, მოცემული დროის შუალედში)
        *[other] ავარიული დახურვის მოხსენებები (მათ შორის { $reports } გასაგზავნად გამზადებული, მოცემული დროის შუალედში)
     }
+raw-data-copied = ნედლი მონაცემების ასლი აღებულია
+text-copied = ტექსტის ასლი აღებულია
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
