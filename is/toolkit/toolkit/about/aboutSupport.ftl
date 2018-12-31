@@ -232,6 +232,7 @@ wheel-enabled = músa skrunhjól virkt
 touch-enabled = snertiskjár virkur
 drag-enabled = draga til flettistiku virk
 keyboard-enabled = lyklaborð virkt
+autoscroll-enabled = sjálfvirkt skrun virkjað
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
