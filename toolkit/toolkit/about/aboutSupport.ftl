@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+page-title = Humpito ñawndugol caɗeele
 page-subtitle = Ngoo hello ena waɗi humpito karallaagal baawngol nafde so aɗaetoo safrude caɗeele. So aɗa yiyloo jaabawuuji naamne ganndaaɗe  baɗte { -brand-short-name }, ƴeewto wallitorde amen <a data-l10n-name="support-link">lowre wallitorde</a>.
 crashes-title = Jaŋtol Kooke
 crashes-id = ID Jaŋtol
@@ -73,16 +74,32 @@ js-incremental-gc = Incremental GC
 a11y-title = Weeɓitaare
 a11y-activated = Hurminaama
 a11y-force-disabled = Haɗ Naatgol
+a11y-handler-used = Toppitagol keɓotoongol huutoraa
+a11y-instantiator = Kurminoowel keɓagol
 library-version-title = Jame Deftorli
 copy-text-to-clipboard-label = Natto binndol to ɗakkitorde
 copy-raw-data-to-clipboard-label = Natto keɓe kecce to ɗakkitorde
 sandbox-title = Seenorde
+sandbox-sys-call-log-title = Nodde njuɓɓudi ndiiwtaama
+sandbox-sys-call-index = #
 sandbox-sys-call-age = Hojomaaji Jawtuɗi
+sandbox-sys-call-proc-type = Sifaa silsil
+sandbox-sys-call-number = Syscall
+sandbox-sys-call-args = Bannanɗe
 safe-mode-title = Eto Mbayka Hoolno
 restart-in-safe-mode-label = Hurmitin tawa Ɓeyditte ena Ndaaƴaa…
+media-title = Mejaa
+media-output-devices-title = Kaɓirkon njaltinirkon
+media-input-devices-title = Kaɓirkon naatnirkon
 media-device-name = Innde
 media-device-group = Dental
+media-device-vendor = Jeeyowel
+media-device-state = Ngonka
 media-device-preferred = Cuɓaaɗo
+media-device-format = Formaa
+media-device-channels = Ceenuuji
+media-device-rate = Battal
+media-device-latency = Deeƴtal
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -147,6 +164,16 @@ gpu-ram = RAM
 gpu-driver-version = Yamre Pilot
 gpu-driver-date = Ñalngu Pilot
 gpu-active = Gonaaɗo
+webgl1-wsiinfo = Kabaaru 1 WebGL pilot WSI
+webgl1-renderer = WebGL 1 Driver Renderer
+webgl1-version = Yamre pilot WebGL 1
+webgl1-driver-extensions = Jokke pilot WebGL 1
+webgl1-extensions = Jokke WebGL 1
+webgl2-wsiinfo = Kabaaru pilot WSI WebGL 2
+webgl2-renderer = Renderer pilot WebGL 2
+webgl2-version = Yamre Pilot WebGL 2
+webgl2-driver-extensions = Jokke pilot WebGL 2
+webgl2-extensions = Jokke WebGL 2
 blocklisted-bug = Ɓeydaama e doggol falo ngam caɗe majjaaɗe
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
@@ -160,7 +187,12 @@ d3d9video-crash-buard = Dokkitorde Widewoo D3D9
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Waklit tuma kurmal garowal
 gpu-process-kill-button = Dartin Cilol GPU
+gpu-device-reset-button = Puɗɗitgol ñiklowel pilot
+off-main-thread-paint-enabled = Off Main Thread Painting hurminaama
 audio-backend = Yuurnorde Ojoo
+max-audio-channels = Max Channels
+channel-layout = Lelnal seen cuɓaaɗo
+sample-rate = Santaas santiyoŋ cuɓaaɗo
 min-lib-versions = Yamre lesiire tijjaande
 loaded-lib-versions = Yamre huutorteende
 has-seccomp-bpf = Seccomp-BPF (System Call Filtering)
@@ -170,6 +202,10 @@ has-privileged-user-namespaces = Namespace kuutoro mo cile towaaɗe
 can-sandbox-content = Content Process Sandboxing
 can-sandbox-media = Media Plugin Sandboxing
 content-sandbox-level = Content Process Sandbox Level
+effective-content-sandbox-level = Tolno silsil loowdi sandbox
+sandbox-proc-type-content = loowdi
+sandbox-proc-type-file = loowdi fiilde
+sandbox-proc-type-media-plugin = jokkel mejaa
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -188,6 +224,7 @@ wheel-enabled = naatnal mbiifu hurminaama
 touch-enabled = naatnal binndi hurminaama
 drag-enabled = daasgol paalal woro hurminaama
 keyboard-enabled = tappirde hurminaama
+autoscroll-enabled = gorwagol hoore mum kurminangol
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
