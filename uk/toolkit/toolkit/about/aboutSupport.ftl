@@ -37,6 +37,7 @@ app-basics-build-config = Конфігурація збірки
 app-basics-user-agent = User Agent
 app-basics-os = ОС
 app-basics-memory-use = Використання пам’яті
+app-basics-performance = Швидкодія
 app-basics-service-workers = Зареєстровані Service Workers
 app-basics-profiles = Профілі
 app-basics-multi-process-support = Багатопроцесні вікна
@@ -63,9 +64,12 @@ graphics-diagnostics-title = Діагностика
 graphics-failure-log-title = Журнал збоїв
 graphics-gpu1-title = GPU #1
 graphics-gpu2-title = GPU #2
+graphics-decision-log-title = Журнал рішень
 graphics-crash-guards-title = Можливості, вимкнені захистом від збоїв
 graphics-workarounds-title = Способи обходу
 place-database-title = База даних Places
+place-database-integrity = Цілісність
+place-database-verify-integrity = Перевірити цілісність
 js-title = JavaScript
 js-incremental-gc = Інкрементний GC
 a11y-title = Можливості доступності
@@ -166,6 +170,17 @@ gpu-driver-version = Версія драйвера
 gpu-driver-date = Дата драйвера
 gpu-active = Активний
 webgl2-renderer = Засіб візуалізації WebGL2
+blocklisted-bug = Заблоковано через відомі проблеми
+# Variables
+# $bugNumber (string) - String of bug number from Bugzilla
+bug-link = вада { $bugNumber }
+# Variables
+# $failureCode (string) - String that can be searched in the source tree.
+unknown-failure = Заблоковано; код помилки { $failureCode }
+d3d11video-crash-guard = Відео декодер D3D11
+d3d9video-crash-buard = Відео декодер D3D9
+glcontext-crash-guard = OpenGL
+reset-on-next-restart = Скинути при наступному перезавантаженні
 gpu-process-kill-button = Завершити GPU процес
 gpu-device-reset-button = Виконати скидання пристрою
 off-main-thread-paint-enabled = Вимальовування поза основним потоком увімкнено
