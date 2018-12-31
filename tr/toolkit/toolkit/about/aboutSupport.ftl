@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 page-title = Sorun giderme bilgileri
+crashes-title = Çökme Raporları
+crashes-no-config = Bu uygulama, çökme raporlarını görüntülemek için yapılandırılmamış.
 extensions-title = Uzantılar
 extensions-name = Adı
 extensions-version = Sürüm
@@ -20,6 +22,8 @@ features-id = Kimlik
 app-basics-title = Uygulama temelleri
 app-basics-name = Adı
 app-basics-version = Sürüm
+app-basics-update-history = Güncelleme geçmişi
+app-basics-show-update-history = Güncelleme geçmişini göster
 app-basics-enabled-plugins = Devredeki yan uygulamalar
 app-basics-build-config = Yapılandırma
 app-basics-user-agent = Kullanıcı istemcisi
