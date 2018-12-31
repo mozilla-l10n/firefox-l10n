@@ -10,6 +10,8 @@ extensions-version = Inguqulo
 app-basics-title = Okujwayelekile kohlelo lokusebenza
 app-basics-name = Igama
 app-basics-version = Inguqulo
+app-basics-update-history = Umlando wokufaka ukwaziswa kwamuva
+app-basics-show-update-history = Bonisa umlando wokufaka ukwaziswa kwamuva
 app-basics-profile-dir =
     { PLATFORM() ->
         [linux] Isiqondisi seprofayela
