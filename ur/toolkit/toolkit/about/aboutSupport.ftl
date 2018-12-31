@@ -3,12 +3,19 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 page-title = ازالہ کاری معلومات
+crashes-title = کریش رپورٹیں
+crashes-id = شناخت رپورٹ کریں
+crashes-send-date = ارسال کردہ
+crashes-all-reports = تمام کریش رپورٹیں
+crashes-no-config = یہ ایپلی کیشن کریش رپورٹیں دکھانے کے لیے تشکیل کردہ نہیں ہے۔
 extensions-name = نام
 extensions-enabled = اہل بنایا گیا
 extensions-version = ورژن
 app-basics-title = ایپلی کیشن BASIC
 app-basics-name = نام
 app-basics-version = ورژن
+app-basics-update-history = سابقات تازہ کریں
+app-basics-show-update-history = تبدیلیوں کی تاریخ دکھائیں
 app-basics-profile-dir =
     { PLATFORM() ->
         [linux] پروفائل ڈائریکٹری
@@ -31,6 +38,13 @@ a11y-force-disabled = رسائی پزیری روکیں
 library-version-title = لائبریری ورژن
 copy-text-to-clipboard-label = متن کو تختہ تراشہ پر نقل کریں
 copy-raw-data-to-clipboard-label = تختہ تراشہ پر خام کوائف نقل کریں
+# Variables
+# $days (integer) - Number of days since crash
+crashes-time-days =
+    { $days ->
+        [one] { $days } دن قبل
+       *[other] { $days } دن قبل
+    }
 raw-data-copied = خام کوائف تختہ تراشہ پر نقل ہو گئے
 text-copied = متن نقل شدہ پر نقل ہو گیا
 
