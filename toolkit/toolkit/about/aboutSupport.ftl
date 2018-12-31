@@ -27,6 +27,13 @@ app-basics-name = 이름
 app-basics-version = 버전
 app-basics-build-id = 빌드 ID
 app-basics-update-channel = 업데이트 채널
+app-basics-update-history = 업데이트 기록
+app-basics-show-update-history = 업데이트 기록 표시
+app-basics-profile-dir =
+    { PLATFORM() ->
+        [linux] 프로필 저장 폴더
+       *[other] 프로필 폴더
+    }
 app-basics-enabled-plugins = 사용 중인 플러그인
 app-basics-build-config = 빌드 설정
 app-basics-user-agent = 사용자 에이전트
@@ -64,11 +71,14 @@ graphics-workarounds-title = 회피방법
 place-database-title = 위치 데이터베이스
 place-database-integrity = 무결성
 place-database-verify-integrity = 무결성 확인
+js-title = JavaScript
+js-incremental-gc = 인크리멘탈 GC
 a11y-title = 접근성
 a11y-activated = 활성화
 a11y-force-disabled = 접근성 끄기
 a11y-handler-used = 접근 가능한 핸들러 사용됨
 a11y-instantiator = 접근성 기능 사용 앱
+library-version-title = 라이브러리 버전
 copy-text-to-clipboard-label = 클립보드로 텍스트 복사하기
 copy-raw-data-to-clipboard-label = 클립보드로 원본 복사하기
 sandbox-title = 샌드박스
@@ -102,10 +112,21 @@ crashes-time-days = { $days }일 전
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports = 모든 충돌 보고서(기간안에 있는 { $reports }개의 보류된 충돌 보고서 포함)
+raw-data-copied = 원본 데이터를 클립보드에 복사함
+text-copied = 문자열을 클립보드에 복사함
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
+blocked-driver = 그래픽 드라이버 버전이 지원하지 않기 때문에 그리기 지원을 차단하였습니다.
+blocked-gfx-card = 그래픽 카드 드라이버의 미해결 문제로 인해 그리기 지원을 차단하였습니다.
+blocked-os-version = 운영 체제 버전에서 지원하지 않기 때문에 그리기 지원을 차단하였습니다.
 blocked-mismatched-version = 레지스트리와 DLL간의 그래픽 드라이버 버전이 일치하지 않아서 차단하였습니다.
+# Variables
+# $driverVersion - The graphics driver version string
+try-newer-driver = 그래픽 드라이버는 그리기 지원이 차단되었습니다.  그래픽 드라이버를 버전 { $driverVersion } 이상으로 업데이트해 보십시오.
+# "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
+# there are no good translations, these are only used in about:support
+clear-type-parameters = ClearType 매개 변수
 compositing = 합성
 hardware-h264 = 하드웨어 H264 디코딩
 main-thread-no-omtc = 주 쓰레드, OMTC 아님
@@ -149,6 +170,8 @@ audio-backend = 오디오 백엔드
 max-audio-channels = 최대 채널
 channel-layout = 선호하는 채널 레이아웃
 sample-rate = 선호하는 샘플 비율
+min-lib-versions = 이용 중인 최소 버젼
+loaded-lib-versions = 이용 중 버전
 has-seccomp-bpf = Seccomp-BPF (시스템 호출 필터링)
 has-seccomp-tsync = Seccomp 쓰레드 동기화
 has-user-namespaces = 사용자 네임스페이스
