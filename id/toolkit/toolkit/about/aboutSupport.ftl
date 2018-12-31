@@ -39,6 +39,8 @@ app-basics-profiles = Profil
 app-basics-multi-process-support = Jendela Multiproses
 app-basics-process-count = Proses Konten Web
 app-basics-enterprise-policies = Kebijakan Perusahaan
+app-basics-key-google = Kunci Google
+app-basics-key-mozilla = Kunci Layanan Lokasi Mozilla
 app-basics-safe-mode = Mode Aman
 show-dir-label =
     { PLATFORM() ->
@@ -71,11 +73,19 @@ js-incremental-gc = GC Riap
 a11y-title = Aksesibilitas
 a11y-activated = Aktif
 a11y-force-disabled = Aksesibilitas Dicegah
+a11y-handler-used = Penanganan Terakses Digunakan
 library-version-title = Versi Pustaka
 copy-text-to-clipboard-label = Salin teks ke papan klip
 copy-raw-data-to-clipboard-label = Salin data mentah ke papan klip
 sandbox-title = Kotak pasir
+sandbox-sys-call-log-title = Panggilan Sistem yang Tertolak
+sandbox-sys-call-index = #
 sandbox-sys-call-age = Detik Lalu
+sandbox-sys-call-pid = PID
+sandbox-sys-call-tid = TID
+sandbox-sys-call-proc-type = Jenis Proses
+sandbox-sys-call-number = Syscall
+sandbox-sys-call-args = Argumen
 safe-mode-title = Coba Mode Aman
 restart-in-safe-mode-label = Mulai Ulang dengan Pengaya Dinonaktifkan…
 media-output-devices-title = Peranti Keluaran
@@ -124,6 +134,8 @@ no = Tidak
 ## In some development versions, it's expected for some API keys that they are
 ## not found.
 
+found = Ditemukan
+missing = Hilang
 gpu-description = Deskripsi
 gpu-vendor-id = ID Vendor
 gpu-device-id = ID Perangkat
