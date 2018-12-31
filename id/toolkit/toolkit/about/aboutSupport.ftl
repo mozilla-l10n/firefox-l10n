@@ -32,6 +32,8 @@ app-basics-enterprise-policies = Kebijakan Perusahaan
 modified-key-prefs-title = Pengaturan Penting yang Diubah
 modified-prefs-name = Nama
 modified-prefs-value = Nilai
+user-js-title = Preferensi user.js
+user-js-description = Folder profil Anda berisi sebuah <a data-l10n-name="user-js-link">berkas user.js</a>, yang berisi data preferensi yang tidak diciptakan oleh { -brand-short-name }.
 locked-key-prefs-title = Preferensi Penting yang Dikunci
 locked-prefs-name = Nama
 locked-prefs-value = Nilai
