@@ -99,11 +99,13 @@ pending-reports =
        *[other] Alla kraschrapporter (inklusive { $reports } ej inskickade krascher i givet tidsintervall)
     }
 raw-data-copied = Rådatan är kopierat till urklipp
+text-copied = Texten är kopierad till urklipp
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
 blocked-driver = Blockeras på grund av grafikdrivrutinens version.
 blocked-gfx-card = Blockeras på grund av att grafikkortet har olösta drivrutinsproblem.
+blocked-os-version = Blockerad för din version av operativsystemet.
 blocked-mismatched-version = Blockerad för din version av grafikdrivrutin, obalans mellan registret och DLL.
 # Variables
 # $driverVersion - The graphics driver version string
