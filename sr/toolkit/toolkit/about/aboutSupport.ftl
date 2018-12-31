@@ -270,3 +270,6 @@ touch-warning = асинхрони унос додира је онеспособ
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+policies-inactive = Неактивно
+policies-active = Активно
+policies-error = Грешка
