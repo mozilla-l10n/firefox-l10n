@@ -14,6 +14,12 @@ extensions-name = Téra
 extensions-enabled = Myandypyre
 extensions-version = Peteĩchagua
 extensions-id = ID
+security-software-title = Tekorosãrã rembiaporape
+security-software-type = Peteĩchagua
+security-software-name = Téra
+security-software-antivirus = Mba'echu'i jukaha
+security-software-antispyware = Antispyware
+security-software-firewall = Tatajokoha
 features-title = { -brand-short-name } Reheguaite
 features-name = Téra
 features-version = Peteĩchagua
@@ -40,6 +46,7 @@ app-basics-service-workers = Mba'apohára mba'epytyvõrã mboguapyréva
 app-basics-profiles = Mba'etekuéra
 app-basics-multi-process-support = Windows rembiapoita
 app-basics-process-count = Ñanduti Retepy Rembiapo
+app-basics-enterprise-policies = Purureko mba'apoha rehegua
 app-basics-key-google = Google ñe'ẽñemi
 app-basics-key-mozilla = Mozilla mba'epytyvõrã rendaite rehegua
 app-basics-safe-mode = Teko jerovia
@@ -75,6 +82,7 @@ a11y-title = Jeikekuaa
 a11y-activated = Myandypyre
 a11y-force-disabled = Jeikekuaa jejoko
 a11y-handler-used = Handler ipurupyréva
+a11y-instantiator = Techapyrã jeikekuaa rehegua
 library-version-title = Arandukaty peteĩchagua
 copy-text-to-clipboard-label = Moñe'ẽrã mbohasa kuatiajokohápe
 copy-raw-data-to-clipboard-label = mba'ekuaarã hi'akýva mbohasa kuatiajokohápe
@@ -101,6 +109,15 @@ media-device-format = Ysaja
 media-device-channels = Mbohapeha
 media-device-rate = Mba'erepy
 media-device-latency = Tekoteete
+intl-title = Mongakuaa & ñemohenda
+intl-app-title = Tembipuru'i ñemboheko
+intl-locales-requested = Ñe'ẽnguéra jerurepyre
+intl-locales-available = Ñe'ẽnguéra ojepurukuaáva
+intl-locales-supported = Ñe'ẽnguéra tembipuru'i rehegua
+intl-locales-default = Ñe'ẽnguéra ijypykuéva
+intl-os-title = Apopyvusu oku'éva
+intl-os-prefs-system-locales = Ñe'ẽnguéra apopyvusu rehegua
+intl-regional-prefs = Jerohoryvéva tendaguáva
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -196,6 +213,11 @@ glcontext-crash-guard = OpenGL
 reset-on-next-restart = Embojevy moñepyrũjey uperire
 gpu-process-kill-button = GPU raperekogua mohu'ã
 gpu-device-reset-button = Mba'e'oka reko moñepyrũjey
+uses-tiling = Eipuru mosáiko
+content-uses-tiling = Eipuru mosáiko (tetepy)
+off-main-thread-paint-enabled = Opyta okápe inimbo tuichavéva mbosa'yha ijurujáva
+off-main-thread-paint-worker-count = Ñemoha'anga resa'ỹijo téma tuichavéva opyta okápe
+audio-backend = Mba'epu ñangarekoha huguapeguáva
 max-audio-channels = Max mbohapeha
 channel-layout = Mbohapeha ñemoĩ ojererohorýva
 sample-rate = Techaukarã py'ỹigua ojererohorýva
@@ -210,6 +232,7 @@ can-sandbox-media = Sandboxing marandu me'ẽha mba'ejoajurã
 content-sandbox-level = Sandbox Level rembiapo retepy
 effective-content-sandbox-level = Sandbox Level rembiapo retepy
 sandbox-proc-type-content = tetepy
+sandbox-proc-type-file = Marandurenda rechapyrã
 sandbox-proc-type-media-plugin = plugin maranduguáva
 # Variables
 # $remoteWindows (integer) - Number of remote windows
@@ -229,6 +252,7 @@ wheel-enabled = omoneĩ jereha jeike
 touch-enabled = jeikeha jepokóva jurujapyre
 drag-enabled = embosyryry oku'éva renda myendypyre
 keyboard-enabled = tairenda myandypyre
+autoscroll-enabled = ñemongu'e ijeheguíva ijurujáma
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
@@ -238,3 +262,6 @@ touch-warning = Jeikeha pokoháva ojuehe'ỹva jokopyre ndoguerekóiva mombytaha
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+policies-inactive = Jokopyre
+policies-active = Ijurujáva
+policies-error = Javy
