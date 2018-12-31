@@ -251,6 +251,7 @@ apz-none = ninguno
 wheel-enabled = entrada de rueda de ratón activada
 touch-enabled = entrada táctil habilitada
 drag-enabled = arrastra de barra de desplazamiento habilitado
+keyboard-enabled = teclado habilitado
 autoscroll-enabled = desplazamiento automático habilitado
 
 ## Variables
