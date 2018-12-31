@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 page-title = Feilsøking
+page-subtitle = Denne siden inneholder teknisk informasjon som kan være nyttig når du forsøker å løse et problem. Besøk også <a data-l10n-name="support-link">brukerstøttenettstedet</a> for å få svar på ofte stilte spørsmål om { -brand-short-name }.
 crashes-title = Krasjrapporter
 crashes-id = Rapport-ID
 crashes-send-date = Sendt
@@ -30,10 +31,17 @@ app-basics-build-config = Bygginnstillinger
 app-basics-user-agent = Brukeragent
 app-basics-os = OS
 app-basics-memory-use = Minneforbruk
+app-basics-performance = Ytelse
 app-basics-service-workers = Registrerte tjenestearbeidere
 app-basics-profiles = Profiler
 app-basics-multi-process-support = Multiprosess-vinduer
 app-basics-safe-mode = Sikker modus
+show-dir-label =
+    { PLATFORM() ->
+        [macos] Vis i Finder
+        [windows] Åpne mappe
+       *[other] Åpne mappe
+    }
 modified-key-prefs-title = Viktige endrede innstillinger
 modified-prefs-name = Navn
 modified-prefs-value = Verdi
@@ -48,6 +56,12 @@ graphics-diagnostics-title = Diagnostikk
 graphics-failure-log-title = Feillogg
 graphics-gpu1-title = GPU #1
 graphics-gpu2-title = GPU #2
+graphics-decision-log-title = Beslutningslogg
+graphics-crash-guards-title = Krasjvern avslåtte funksjoner
+graphics-workarounds-title = Midlertidige løsninger
+place-database-title = Plasser-database
+place-database-integrity = Integritet
+place-database-verify-integrity = Verifiser integritet
 js-title = JavaScript
 js-incremental-gc = Inkrementell GC
 a11y-title = Tilgjengelighet
@@ -128,6 +142,20 @@ gpu-ram = RAM
 gpu-driver-version = Driverversjon
 gpu-driver-date = Driverdato
 gpu-active = Aktiv
+webgl2-renderer = WebGL2-renderer
+blocklisted-bug = Svartelistet på grunn av kjente problemer
+# Variables
+# $bugNumber (string) - String of bug number from Bugzilla
+bug-link = feil { $bugNumber }
+# Variables
+# $failureCode (string) - String that can be searched in the source tree.
+unknown-failure = Svartelistet; feilkode { $failureCode }
+d3d11layers-crash-guard = D3D11-kompositør
+d3d11video-crash-guard = D3D11-videodekoder
+d3d9video-crash-buard = D3D9-videodekoder
+glcontext-crash-guard = OpenGL
+reset-on-next-restart = Tilbakestill ved neste omstart
+gpu-process-kill-button = Avslutt GPU-prosess
 min-lib-versions = Forventet minimumsversjon
 loaded-lib-versions = Versjon i bruk
 has-seccomp-bpf = Seccomp-BPF (systemkall-filtrering)
@@ -136,6 +164,7 @@ has-user-namespaces = Brukernavnerom
 has-privileged-user-namespaces = Brukernavnerom for priviligerte prosesser
 can-sandbox-content = Sandkasse for innholdsprosesser
 can-sandbox-media = Sandkasse for medietillegg
+content-sandbox-level = Nivå for sandkasse for innholdsprosesser
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
