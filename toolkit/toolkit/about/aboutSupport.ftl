@@ -7,6 +7,7 @@ extensions-title = పొడిగింపులు
 extensions-name = పేరు
 app-basics-title = అనువర్తనం ప్రాధమికాలు
 app-basics-name = పేరు
+app-basics-enabled-plugins = చేతనపరచిన చొప్పింతలు
 app-basics-build-config = నిర్మామ ఆకృతీకరణ
 app-basics-user-agent = వాడుకరి ప్రతినిధి
 modified-prefs-name = పేరు
@@ -20,6 +21,8 @@ graphics-title = గ్రాఫిక్స్
 ## In some development versions, it's expected for some API keys that they are
 ## not found.
 
+min-lib-versions = కావలసిన కనీస వర్షన్
+loaded-lib-versions = వినియోగంలో వున్న వర్షన్
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
