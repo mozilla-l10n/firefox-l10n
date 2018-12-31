@@ -14,13 +14,21 @@ extensions-name = Nama
 extensions-enabled = Aktif
 extensions-version = Versi
 extensions-id = ID
+security-software-title = Perangkat Lunak Keamanan
+security-software-type = Jenis
+security-software-name = Nama
 security-software-antivirus = Antivirus
 security-software-antispyware = Antiperangkatpengintai
 security-software-firewall = Tembok Api
+features-title = Fitur { -brand-short-name }
+features-name = Nama
+features-version = Versi
+features-id = ID
 app-basics-title = Informasi Dasar Aplikasi
 app-basics-name = Nama
 app-basics-version = Versi
 app-basics-build-id = ID Build
+app-basics-update-channel = Kanal Pemutakhiran
 app-basics-update-history = Riwayat Pemutakhiran
 app-basics-show-update-history = Tampilkan Riwayat Pemutakhiran
 app-basics-profile-dir =
@@ -74,6 +82,7 @@ a11y-title = Aksesibilitas
 a11y-activated = Aktif
 a11y-force-disabled = Aksesibilitas Dicegah
 a11y-handler-used = Penanganan Terakses Digunakan
+a11y-instantiator = Accessibility Instantiator
 library-version-title = Versi Pustaka
 copy-text-to-clipboard-label = Salin teks ke papan klip
 copy-raw-data-to-clipboard-label = Salin data mentah ke papan klip
@@ -94,6 +103,13 @@ media-device-state = Provinsi
 media-device-preferred = Disukai
 intl-title = Pelokalan dan Internasional
 intl-app-title = Setelan Aplikasi
+intl-locales-requested = Bahasa yang Diminta
+intl-locales-available = Bahasa yang Tersedia
+intl-locales-supported = Bahasa Aplikasi
+intl-locales-default = Bahasa Baku
+intl-os-title = Sistem Operasi
+intl-os-prefs-system-locales = Bahasa Sistem
+intl-regional-prefs = Pengaturan Regional
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days = Laporan Kerusakan dalam { $days } Hari Terakhir
@@ -149,10 +165,12 @@ webgl1-wsiinfo = Info WSI Penggerak WebGL 1
 webgl1-renderer = Perender Penggerak WebGL 1
 webgl1-version = Versi Penggerak WebGL 1
 webgl1-driver-extensions = Ekstensi Penggerak WebGL 1
+webgl1-extensions = Ekstensi WebGL 1
 webgl2-wsiinfo = Info WSI Penggerak WebGL 2
 webgl2-renderer = Perender WebGL2
 webgl2-version = Versi Penggerak WebGL 2
 webgl2-driver-extensions = Ekstensi Penggerak WebGL 2
+webgl2-extensions = Ekstensi WebGL 2
 blocklisted-bug = Dicekal karena alasan yang diketahui
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
@@ -213,3 +231,6 @@ touch-warning = input sentuh asinkron dinonaktifkan karena preferensi yang tidak
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+policies-inactive = Tidak Aktif
+policies-active = Aktif
+policies-error = Galat
