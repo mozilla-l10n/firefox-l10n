@@ -278,7 +278,7 @@ update-history =
     .accesskey = h
 update-application-allow-description = Permitir que o { -brand-short-name }
 update-application-auto =
-    .label = Instale atualizações automaticamente (recomendado)
+    .label = Instalar atualizações automaticamente (recomendado)
     .accesskey = A
 update-application-check-choose =
     .label = Busque atualizações, mas você decide se instala
@@ -632,9 +632,9 @@ sitedata-block-trackers-option =
 sitedata-block-unvisited-option =
     .label = Cookies de sites não visitados
 sitedata-block-all-third-party-option =
-    .label = Todos os cookies de terceiros (pode atrapalhar sites)
+    .label = Todos os cookies de terceiros (pode atrapalhar alguns sites)
 sitedata-block-all-option =
-    .label = Todos os cookies (irá atrapalhar sites)
+    .label = Todos os cookies (atrapalhará vários sites)
 sitedata-option-block-trackers =
     .label = Rastreadores de terceiros
 sitedata-option-block-unvisited =
@@ -678,7 +678,7 @@ addressbar-suggestions-settings = Alterar preferências das sugestões do mecani
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Bloqueio de conteúdo
-content-blocking-desc = Bloqueie conteúdo de terceiros, como propaganda ou código que podem tornar sua navegação mais lenta e rastreá-lo através da Web. Personalize suas configurações para uma proteção e desempenho balanceados.
+content-blocking-desc = Bloqueie conteúdo de terceiros, como propaganda ou código, que podem tornar sua navegação mais lenta e rastrear você através da web. Personalize suas configurações para uma proteção e desempenho balanceados.
 content-blocking-description = Bloqueie conteúdo de terceiros que rastreia você pela web. Controle o quanto de suas atividades online é armazenado e compartilhado entre sites.
 content-blocking-learn-more = Saiba mais
 content-blocking-restore-defaults =
@@ -692,7 +692,7 @@ content-blocking-toggle-label-on = ATIVAR
     .accesskey = A
 content-blocking-toggle-label-off = DESATIVAR
     .accesskey = D
-content-blocking-category-label = Escolher o que bloquear
+content-blocking-category-label = Escolha o que bloquear
 # "Slow" in this instance means "slow to load on the network".
 # FastBlock is a feature that blocks requests to tracking sites if they
 # have not finished loading after a certain threshold of seconds.
@@ -748,7 +748,7 @@ content-blocking-tracking-protection-change-block-list = Alterar lista de bloque
 content-blocking-third-party-cookies-label =
     .label = Cookies de terceiros
     .accesskey = C
-content-blocking-reject-trackers-description = Bloqueia todos os cookies de terceiros ou apenas aqueles definidos por rastreadores.
+content-blocking-reject-trackers-description = Bloqueia todos os cookies de terceiros ou apenas aqueles criados por rastreadores.
 # This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
 # of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
 # or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
@@ -764,8 +764,8 @@ content-blocking-reject-trackers-block-trackers-option =
     .label = Rastreadores
     .accesskey = R
 content-blocking-reject-trackers-all-third-parties-option =
-    .label = Todos os cookies de terceiros (pode atrapalhar sites)
-    .accesskey = a
+    .label = Todos os cookies de terceiros (pode atrapalhar alguns sites)
+    .accesskey = T
 content-blocking-cookies-label =
     .label = Cookies
     .accesskey = C
