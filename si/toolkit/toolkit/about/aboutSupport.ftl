@@ -2,12 +2,34 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+page-title = දොස් සෙවීම් තොරතුරු
+page-subtitle =
+    This page contains technical information that might be useful when you're
+    trying to solve a problem. If you are looking for answers to common questions
+    about { -brand-short-name }, check out our <a data-l10n-name="support-link">support web site</a>.
+extensions-title = දිගුකිරීම්
+extensions-name = නම
+extensions-enabled = බලැති (Enabled)
 extensions-version = නිකුතුව
+app-basics-title = යෙදුම් මූලිකාංග
+app-basics-name = නම
+app-basics-version = නිකුතුව
+app-basics-profile-dir =
+    { PLATFORM() ->
+        [linux] ප්‍රොපයිල ඩිරෙක්ටරිය
+       *[other] ෆ්‍රොපයිල ෆෝල්ඩරය
+    }
 app-basics-enabled-plugins = ප්ලගීන බලැති (Enable) කරන්න
 app-basics-build-config = Build Configuration
+app-basics-user-agent = User Agent
 app-basics-memory-use = මෙමරි භාවිතය
+modified-key-prefs-title = ආයාතකළ වෙනස්කළ මනාපයන්
+modified-prefs-name = නම
+graphics-title = පිංතූර
 js-title = JavaScript
 js-incremental-gc = Incremental GC
+a11y-title = ප්‍රවේශතාව
+library-version-title = පුස්තකාල නිකුතුව
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
