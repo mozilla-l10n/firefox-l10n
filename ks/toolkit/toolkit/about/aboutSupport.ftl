@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-page-title = { " " }مولومات ہیوند مثلئ ہل كران
+page-title = مولومات ہیوند مثلئ ہل كران
 page-subtitle = یتھ پیجس منز چھ تکنیکی انفارمیشن یوس ذن فأیدْ مند ہیکہ أسِتھ ییلہ توہیہ کوشش کْریو پرابلیم حل کرنْچ۔ اگر توہیہ جواب ژھانڈان چھیو عام سوالن &برانڈ شاٹ ناوس؛ مُتلق، چک آوٹ کْریو <a data-l10n-name="support-link">امدأدی ویب سایِٹ</a>۔
 crashes-title = كریش بیان
 crashes-id = بیان ID
@@ -23,14 +23,14 @@ app-basics-update-history = اپڈیٹ ہیسٹری
 app-basics-show-update-history = اپڈیٹ تٲریخ  ہٲویو
 app-basics-profile-dir =
     { PLATFORM() ->
-        [linux] پروفایل ڈایریكٹری{ " " }
+        [linux] پروفایل ڈایریكٹری
        *[other] پروفایل فولڈر
     }
 app-basics-enabled-plugins = مجازكرمت  پلگ-انس
 app-basics-build-config = كنفیوگریشن بنٲویو
 app-basics-user-agent = استیمال كرن وۄل ایجینٹ
 app-basics-memory-use = میمری ہیوند  استیمال
-app-basics-multi-process-support = ملٹی پراسیس وینڈوز{ " " }
+app-basics-multi-process-support = ملٹی پراسیس وینڈوز
 modified-key-prefs-title = ضروری بدلیمِت ترجیحات
 modified-prefs-name = ناو
 modified-prefs-value = قئمتھ
@@ -58,26 +58,26 @@ report-crash-for-days = کریش رپورٹ پْتمِس { $days }  دوہس ب�
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
     { $minutes ->
-        [one] منٹ برونہہ{ $minutes }{ " " }
+        [one] منٹ برونہہ{ $minutes }
        *[other] منٹ برونہہ{ $minutes }
     }
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
     { $hours ->
-        [one] گھنٹہ برونہہ{ $hours }{ " " }
+        [one] گھنٹہ برونہہ{ $hours }
        *[other] گھنٹہ برونہہ{ $hours }
     }
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
     { $days ->
-        [one] دوہ برونہہ{ $days }{ " " }
+        [one] دوہ برونہہ{ $days }
        *[other] دوہ برونہہ{ $days }
     }
 # Variables
 # $reports (integer) - Number of pending reports
-pending-reports = تمام کریش رپورٹ ( یتھ منز شأمل چُھ { $reports } پینڈینگ کریش دِنْہ آمتِس ٹایم رینجس منز)؛ تمام کریش رپورٹ ( یتھ منز شأمل چھ { $reports } پینڈینگ کریش دِنْ آمتِس ٹایم رینجس منز){ " " }
+pending-reports = تمام کریش رپورٹ ( یتھ منز شأمل چُھ { $reports } پینڈینگ کریش دِنْہ آمتِس ٹایم رینجس منز)؛ تمام کریش رپورٹ ( یتھ منز شأمل چھ { $reports } پینڈینگ کریش دِنْ آمتِس ٹایم رینجس منز)
 raw-data-copied = را ڈاٹا آو کاپی کرنْہ کْلپ بورڈس کُن
 text-copied = متن آیہ  کاپی کرنْہ کْلپ بورڈس کُن
 
@@ -98,7 +98,7 @@ clear-type-parameters = کْلیر ٹایِپ پیرامیٹر
 ## not found.
 
 gpu-vendor-id = وینڈر آی ڈی
-gpu-device-id = ڈیوایِس آی ڈی{ " " }
+gpu-device-id = ڈیوایِس آی ڈی
 gpu-subsys-id = سب سِس آی ڈی
 gpu-driver-version = ڈرایور وْرجن
 gpu-driver-date = ڈرایور تأریخ
