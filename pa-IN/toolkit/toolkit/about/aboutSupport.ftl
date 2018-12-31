@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+page-title = ਸਮੱਸਿਆ ਹੱਲ਼ ਜਾਣਕਾਰੀ
 page-subtitle =
     ਇਹ ਸਫ਼ੇ ਉੱਤੇ ਤਕਨੀਕੀ ਜਾਣਕਾਰੀ ਹੈ, ਜੋ ਕਿ ਤੁਹਾਨੂੰ ਸਮੱਸਿਆ ਹੱਲ਼ ਕਰਨ ਲਈ ਫਾਇਦੇਮੰਦ
     ਹੋ ਸਕਦੀ ਹੈ। ਜੇ ਤੁਸੀਂ { -brand-short-name } ਬਾਰੇ ਆਮ ਸਵਾਦ ਦੇ ਜਵਾਬ ਲੱਭ ਰਹੇ ਹੋ ਤਾਂ
@@ -166,6 +167,7 @@ webgl2-renderer = WebGL2 ਰੈਂਡਰਰ
 webgl2-version = WebGL 2 Driver Version
 webgl2-driver-extensions = WebGL 2 Driver Extensions
 webgl2-extensions = WebGL 2 Extensions
+blocklisted-bug = ਜਾਣੀਆਂ ਹੋਈਆਂ ਸਮੱਸਿਆਵਾਂ ਕਰਕੇ ਪਾਬੰਦੀ ਲਗਾਈ ਹੈ
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = ਪਾਬੰਦੀਸ਼ੁਦਾ; ਅਸਫ਼ਲਤਾ ਕੋਡ { $failureCode }
@@ -208,6 +210,7 @@ drag-enabled = scrollbar drag enabled
 ## $preferenceKey (string) - String ID of preference
 
 wheel-warning = ਗ਼ੈਰ-ਸਹਾਇਕ ਪਸੰਦ ਕਰਕੇ ਅਸਿੰਕ ਵ੍ਹੀਲ ਇਨਪੁਟ ਅਸਮਰੱਥ ਕੀਤੀ: { $preferenceKey }
+touch-warning = ਗ਼ੈਰ-ਸਹਾਇਕ ਪਸੰਦ ਕਰਕੇ ਅਸਿੰਕ ਟੱਚ ਇਨਪੁਟ ਅਸਮਰੱਥ ਕੀਤੀ: { $preferenceKey }
 
 ## Strings representing the status of the Enterprise Policies engine.
 
