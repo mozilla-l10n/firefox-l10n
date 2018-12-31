@@ -86,11 +86,39 @@ media-device-group = گروہ
 media-device-state = ریاست
 media-device-preferred = ترییحی
 # Variables
+# $days (Integer) - Number of days of crashes to log
+report-crash-for-days =
+    { $days ->
+        [one] پچھلے { $days } دن کی کریش رپورٹیں
+       *[other] پچھلے { $days } دنوں کی کریش رپورٹیں
+    }
+# Variables
+# $minutes (integer) - Number of minutes since crash
+crashes-time-minutes =
+    { $minutes ->
+        [one] { $minutes } منٹ قبل
+       *[other] { $minutes } منٹ قبل
+    }
+# Variables
+# $hours (integer) - Number of hours since crash
+crashes-time-hours =
+    { $hours ->
+        [one] { $hours } گھنٹہ قبل
+       *[other] { $hours } گھنٹے قبل
+    }
+# Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
     { $days ->
         [one] { $days } دن قبل
        *[other] { $days } دن قبل
+    }
+# Variables
+# $reports (integer) - Number of pending reports
+pending-reports =
+    { $reports ->
+        [one] تمام کریش رپورٹیں(دیئے گئے وقت کی حد میں { $reports } زیر التواء حادثہ بھی شامل ہے)
+       *[other] تمام کریش رپورٹیں(دیئے گئے وقت کی حد میں { $reports } زیر التواء حادثہ بھی شامل ہے)
     }
 raw-data-copied = خام کوائف تختہ تراشہ پر نقل ہو گئے
 text-copied = متن نقل شدہ پر نقل ہو گیا
