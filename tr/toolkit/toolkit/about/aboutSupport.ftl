@@ -2,9 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+page-title = Sorun giderme bilgileri
 extensions-title = Uzantılar
 extensions-name = Adı
 extensions-version = Sürüm
+extensions-id = Kimlik
 security-software-title = Güvenlik yazılımları
 security-software-type = Türü
 security-software-name = Adı
@@ -27,12 +29,20 @@ app-basics-enterprise-policies = Kurumsal ilkeler
 app-basics-key-google = Google anahtarı
 app-basics-key-mozilla = Mozilla Konum Hizmeti anahtarı
 app-basics-safe-mode = Güvenli kip
+modified-key-prefs-title = Değiştirilmiş önemli tercihler
 modified-prefs-name = Adı
 modified-prefs-value = Değer
 locked-key-prefs-title = Kilitlenmiş önemli tercihler
+js-title = JavaScript
+js-incremental-gc = Artırımlı GC
+a11y-title = Erişilebilirlik
 a11y-activated = Etkinleştirildi mi?
+a11y-force-disabled = Erişilebilirliği engelle
 a11y-handler-used = Erişilebilir işleyici kullanımı
 a11y-instantiator = Erişilebilirlik temsilcisi
+library-version-title = Kitaplık sürümleri
+copy-text-to-clipboard-label = Metni panoya kopyala
+copy-raw-data-to-clipboard-label = Ham metni panoya kopyala
 sandbox-sys-call-log-title = Reddedilen sistem çağrıları
 sandbox-sys-call-index = #
 sandbox-sys-call-age = saniye önce
@@ -97,6 +107,8 @@ pending-reports =
         [one] Tüm çökme raporları (belirtilen zaman aralığındaki { $reports } bekleyen çökme dahil)
        *[other] Tüm çökme raporları (belirtilen zaman aralığındaki { $reports } bekleyen çökme dahil)
     }
+raw-data-copied = Ham veriler panoya kopyalandı
+text-copied = Metin panoya kopyalandı
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
@@ -134,6 +146,8 @@ audio-backend = Ses arka ucu
 max-audio-channels = En fazla kanal
 channel-layout = Tercih edilen kanal düzeni
 sample-rate = Tercih edilen örnek oranı
+min-lib-versions = Beklenen minimum sürüm
+loaded-lib-versions = Kullanılan sürüm
 effective-content-sandbox-level = Etkin içerik işlemi kum havuzu düzeyi
 sandbox-proc-type-content = içerik
 sandbox-proc-type-file = dosya içeriği
