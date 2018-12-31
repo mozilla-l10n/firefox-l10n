@@ -234,6 +234,7 @@ reset-on-next-restart = Ailosod wrth Ailgychwyn
 gpu-process-kill-button = Gorffen Proses GPU
 gpu-device-reset-button = Ailosod Dyfais Trigro
 uses-tiling = Yn defnyddio Teilsio
+content-uses-tiling = Yn Defnyddio Teilsio (Cynnwys)
 off-main-thread-paint-enabled = Galluogwyd Paentio All Brif Drywydd
 off-main-thread-paint-worker-count = Cyfrif Gweithiwr Paentio Oddi ar y Brif Drywydd
 audio-backend = Cefn Sain
