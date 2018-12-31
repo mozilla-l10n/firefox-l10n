@@ -36,6 +36,12 @@ app-basics-profiles = Profil
 app-basics-multi-process-support = Jendela Multiproses
 app-basics-enterprise-policies = Kebijakan Perusahaan
 app-basics-safe-mode = Mode Aman
+show-dir-label =
+    { PLATFORM() ->
+        [macos] Tampilkan di Finder
+        [windows] Buka Folder
+       *[other] Buka Direktori
+    }
 modified-key-prefs-title = Pengaturan Penting yang Diubah
 modified-prefs-name = Nama
 modified-prefs-value = Nilai
@@ -68,6 +74,21 @@ sandbox-title = Kotak pasir
 safe-mode-title = Coba Mode Aman
 restart-in-safe-mode-label = Mulai Ulang dengan Pengaya Dinonaktifkan…
 intl-title = Pelokalan dan Internasional
+# Variables
+# $days (Integer) - Number of days of crashes to log
+report-crash-for-days = Laporan Kerusakan dalam { $days } Hari Terakhir
+# Variables
+# $minutes (integer) - Number of minutes since crash
+crashes-time-minutes = { $minutes } menit yang lalu
+# Variables
+# $hours (integer) - Number of hours since crash
+crashes-time-hours = { $hours } jam yang lalu
+# Variables
+# $days (integer) - Number of days since crash
+crashes-time-days = { $days } hari yang lalu
+# Variables
+# $reports (integer) - Number of pending reports
+pending-reports = Semua Laporan Kerusakan (termasuk { $reports } kerusakan yang tertunda pada rentang waktu yang ditentukan)
 raw-data-copied = Data mentah telah disalin ke papan klip
 text-copied = Teks telah disalin ke clipboard
 
@@ -115,6 +136,7 @@ d3d11video-crash-guard = Pendekode Video D3D11
 d3d9video-crash-buard = Pendekode Video D3D9
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Setel Ulang pada Mulai Ulang Berikutnya
+gpu-process-kill-button = Matikan Proses GPU
 gpu-device-reset-button = Picu Pengaturan Ulang Perangkat
 uses-tiling = Gunakan Tiling
 off-main-thread-paint-enabled = Off Main Thread Painting Diaktifkan
@@ -127,6 +149,7 @@ has-user-namespaces = Ruang Nama Pengguna
 has-privileged-user-namespaces = Ruang Nama Pengguna untuk proses istimewa
 can-sandbox-content = Pengotakpasiran Proses Konten
 can-sandbox-media = Pengotakpasiran Plugin Media
+content-sandbox-level = Tingkat Proses Konten Sandbox
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
