@@ -2,11 +2,63 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+page-title = Problemu nūvieršonys informaceja
+page-subtitle = Itei lopa satur tehnisku informaceju, kas var byut nūdereiga, raugūt nūvierst problemu. Nui meklejit atbiļdis iz vīnkuoršym vaicuojumym par { -brand-short-name }, apsaverit myusu <a data-l10n-name="support-link">pabolsta sātys lopu</a>.
+crashes-title = Avarejis ziņuojumi
+crashes-id = Ziņuojuma ID
+crashes-send-date = Nūsyuteits
+crashes-all-reports = Vysi avarejis ziņuojumi
+crashes-no-config = Itei aplikaceja nav nūkonfigureita avarejis ziņuojumu attāluošonai.
+extensions-title = Papyldynuojumi
+extensions-name = Nūsaukums
+extensions-enabled = Īslāgts
+extensions-version = Verseja
 extensions-id = ID
+features-title = { -brand-short-name } īspiejis
+features-name = Nūsaukums
+features-version = Verseja
+features-id = ID
+app-basics-title = Programys pamotinformaceja
+app-basics-name = Nūsaukums
+app-basics-version = Verseja
+app-basics-build-id = Byuviejuma ID
+app-basics-update-channel = Atjaunynuojumu kanals
+app-basics-update-history = Atjaunynuojumu viesture
+app-basics-show-update-history = Paruodeit atjaunynuojumu viesturi
+app-basics-profile-dir =
+    { PLATFORM() ->
+        [linux] Profila direktoreja
+       *[other] Profila mape
+    }
+app-basics-enabled-plugins = Aktivizātī spraudni
+app-basics-build-config = Byuviejuma konfiguraceja
+app-basics-user-agent = Lītuotuoja agents
 app-basics-os = OS
+app-basics-memory-use = Atminis izmantuojums
 app-basics-performance = Performance
 app-basics-service-workers = Registered Service Workers
+app-basics-profiles = Profili
+app-basics-multi-process-support = Vairuoku procesu lūgs
+app-basics-process-count = Šķārsteikla satura process
+app-basics-key-google = Google atslāgs
+app-basics-key-mozilla = Mozilla atsarasšona vītys pakolpuojuma atslāgs
+app-basics-safe-mode = Drūsais režyms
+show-dir-label =
+    { PLATFORM() ->
+        [macos] Ruodeit ar Finder
+        [windows] Attaiseit mapi
+       *[other] Attaiseit mapi
+    }
+modified-key-prefs-title = Svareigī modificeitī īstatiejumi
+modified-prefs-name = Nūsaukums
+modified-prefs-value = Vierteiba
+user-js-title = user.js īstatiejumi
+user-js-description = Jiusu profila mapī atsarūn <a data-l10n-name="user-js-link">user.js fails</a>, kas satur īstatiejumus, kū nav izveiduojs { -brand-short-name }.
 locked-key-prefs-title = Important Locked Preferences
+locked-prefs-name = Nūsaukums
+locked-prefs-value = Vierteiba
+graphics-title = Grafika
+graphics-features-title = Īspiejis
 graphics-diagnostics-title = Diagnostics
 graphics-failure-log-title = Failure Log
 graphics-gpu1-title = GPU #1
@@ -14,10 +66,42 @@ graphics-gpu2-title = GPU #2
 graphics-decision-log-title = Decision Log
 graphics-crash-guards-title = Crash Guard Disabled Features
 graphics-workarounds-title = Workarounds
+place-database-title = Vītu datubāze
 place-database-integrity = Integrity
+place-database-verify-integrity = Puorbaudeit integritati
 js-title = JavaScript
+js-incremental-gc = Inkrementalais GC
+a11y-title = Pīejameiba
+a11y-activated = Aktivizāta
+a11y-force-disabled = Naatļaut pīejameibu
+a11y-handler-used = Accessible Handler Used
+a11y-instantiator = Accessibility Instantiator
+library-version-title = Bibliotekys versejis
+copy-text-to-clipboard-label = Kopēt tekstu atmiņā
+copy-raw-data-to-clipboard-label = Kopēt datus atmiņā
 sandbox-title = Sandbox
+sandbox-sys-call-log-title = Rejected System Calls
+sandbox-sys-call-index = #
+sandbox-sys-call-age = Seconds Ago
+sandbox-sys-call-pid = PID
+sandbox-sys-call-tid = TID
+sandbox-sys-call-proc-type = Process Type
+sandbox-sys-call-number = Syscall
+sandbox-sys-call-args = Argumenti
 safe-mode-title = Try Safe Mode
+restart-in-safe-mode-label = Puorstarteit ar deaktiveitim papyldynuojumym…
+media-title = Multimedejis
+media-output-devices-title = Izvades īrīces
+media-input-devices-title = Īvodes īrīces
+media-device-name = Nūsaukums
+media-device-group = Grupa
+media-device-vendor = Ražuotuojs
+media-device-state = Stuovūklis
+media-device-preferred = Preferred
+media-device-format = Formats
+media-device-channels = Channels
+media-device-rate = Uotrums
+media-device-latency = Aizture
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -83,6 +167,8 @@ no = Nā
 ## In some development versions, it's expected for some API keys that they are
 ## not found.
 
+found = Atrosts
+missing = Tryukst
 gpu-description = Aproksts
 gpu-vendor-id = Ražuotuoja ID
 gpu-device-id = Īrīces ID
@@ -92,7 +178,16 @@ gpu-ram = RAM
 gpu-driver-version = Draivera verseja
 gpu-driver-date = Draivera datums
 gpu-active = Aktivs
+webgl1-wsiinfo = WebGL 1 draivera WSI info
+webgl1-renderer = WebGL 1 draivera rendereituojs
+webgl1-version = WebGL 1 draivera verseja
+webgl1-driver-extensions = WebGL 1 draivera palošynuojumi
+webgl1-extensions = WebGL 1 palošynuojumi
+webgl2-wsiinfo = WebGL 2 draivera WSI info
 webgl2-renderer = WebGL2 Renderer
+webgl2-version = WebGL 2 draivera verseja
+webgl2-driver-extensions = WebGL 2 draivera palošynuojumi
+webgl2-extensions = WebGL 2 palošynuojumi
 blocklisted-bug = Blocklisted due to known issues
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
@@ -105,6 +200,13 @@ d3d11video-crash-guard = D3D11 Video Decoder
 d3d9video-crash-buard = D3D9 Video Decoder
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Reset on Next Restart
+gpu-process-kill-button = Puortraukt GPU procesu
+gpu-device-reset-button = Trigger Device Reset
+off-main-thread-paint-enabled = Off Main Thread Painting Enabled
+audio-backend = Skanis Backend
+max-audio-channels = Max Channels
+channel-layout = Preferred Channel Layout
+sample-rate = Preferred Sample Rate
 min-lib-versions = Gaideituo minimaluo verseja
 loaded-lib-versions = Izmontuotuo verseja
 has-seccomp-bpf = Seccomp-BPF (System Call Filtering)
@@ -114,6 +216,9 @@ has-privileged-user-namespaces = User Namespaces for privileged processes
 can-sandbox-content = Content Process Sandboxing
 can-sandbox-media = Media Plugin Sandboxing
 content-sandbox-level = Content Process Sandbox Level
+effective-content-sandbox-level = Effective Content Process Sandbox Level
+sandbox-proc-type-content = saturs
+sandbox-proc-type-media-plugin = multivides spraudnis
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -131,6 +236,8 @@ apz-none = nav
 wheel-enabled = wheel input enabled
 touch-enabled = touch input enabled
 drag-enabled = scrollbar drag enabled
+keyboard-enabled = keyboard enabled
+autoscroll-enabled = autoscroll enabled
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
