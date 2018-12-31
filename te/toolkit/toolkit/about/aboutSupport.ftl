@@ -183,6 +183,7 @@ has-user-namespaces = వాడుకరి నేంస్పేసులు
 has-privileged-user-namespaces = విశేష ప్రక్రియలకు వాడుకరి నేంస్పేసులు
 can-sandbox-content = కంటెంట్ ప్రాసెస్ శాండ్బాక్స్
 can-sandbox-media = మీడియా ప్లగిన్ శాండ్బాక్స్
+content-sandbox-level = కంటెంట్ ప్రాసెస్ శాండ్బాక్స్ స్థాయి
 sandbox-proc-type-file = ఫైలు విషయం
 # Variables
 # $remoteWindows (integer) - Number of remote windows
