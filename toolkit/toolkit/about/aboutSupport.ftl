@@ -13,6 +13,12 @@ extensions-name = Name
 extensions-enabled = Enabled
 extensions-version = Version
 extensions-id = ID
+security-software-title = Security Software
+security-software-type = Type
+security-software-name = Name
+security-software-antivirus = Antivirus
+security-software-antispyware = Antispyware
+security-software-firewall = Firewall
 features-title = { -brand-short-name } Features
 features-name = Name
 features-version = Version
@@ -39,6 +45,7 @@ app-basics-service-workers = Registered Service Workers
 app-basics-profiles = Profiles
 app-basics-multi-process-support = Multiprocess Windows
 app-basics-process-count = Web Content Processes
+app-basics-enterprise-policies = Enterprise Policies
 app-basics-key-google = Google Key
 app-basics-key-mozilla = Mozilla Location Service Key
 app-basics-safe-mode = Safe Mode
@@ -101,6 +108,14 @@ media-device-format = Format
 media-device-channels = Channels
 media-device-rate = Rate
 media-device-latency = Latency
+intl-app-title = Application Settings
+intl-locales-requested = Requested Locales
+intl-locales-available = Available Locales
+intl-locales-supported = App Locales
+intl-locales-default = Default Locale
+intl-os-title = Operating System
+intl-os-prefs-system-locales = System Locales
+intl-regional-prefs = Regional Preferences
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -196,7 +211,9 @@ glcontext-crash-guard = OpenGL
 reset-on-next-restart = Reset on Next Restart
 gpu-process-kill-button = Terminate GPU Process
 gpu-device-reset-button = Trigger Device Reset
+uses-tiling = Uses Tiling
 off-main-thread-paint-enabled = Off Main Thread Painting Enabled
+off-main-thread-paint-worker-count = Off Main Thread Painting Worker Count
 audio-backend = Audio Backend
 max-audio-channels = Max Channels
 channel-layout = Preferred Channel Layout
@@ -211,6 +228,7 @@ can-sandbox-media = Media Plugin Sandboxing
 content-sandbox-level = Content Process Sandbox Level
 effective-content-sandbox-level = Effective Content Process Sandbox Level
 sandbox-proc-type-content = content
+sandbox-proc-type-file = file content
 sandbox-proc-type-media-plugin = media plugin
 # Variables
 # $remoteWindows (integer) - Number of remote windows
@@ -240,3 +258,6 @@ touch-warning = async touch input disabled due to unsupported pref: { $preferenc
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+policies-inactive = Inactive
+policies-active = Active
+policies-error = Error
