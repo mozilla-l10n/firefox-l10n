@@ -29,6 +29,7 @@ app-basics-build-config = Configuração da compilação
 app-basics-user-agent = User Agent
 app-basics-memory-use = Uso de memória
 app-basics-service-workers = Service Workers registrados
+app-basics-profiles = Perfis
 app-basics-safe-mode = Modo de segurança
 modified-key-prefs-title = Preferências importantes modificadas
 modified-prefs-name = Nome
@@ -99,6 +100,7 @@ can-sandbox-media = Isolamento de plugins de mídia
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
 async-pan-zoom = Deslocamento/Zoom assíncrono
 apz-none = nenhum
+drag-enabled = arrasto da barra de rolagem habilitado
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
