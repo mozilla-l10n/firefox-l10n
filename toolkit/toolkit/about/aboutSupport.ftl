@@ -156,6 +156,7 @@ hardware-h264 = H264 硬件解码
 main-thread-no-omtc = 主线程，无 OMTC
 yes = 是
 no = 否
+unknown = 未知
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
@@ -195,6 +196,7 @@ d3d9video-crash-buard = D3D9 视频解码器
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = 下次开启时重置
 gpu-process-kill-button = 终止 GPU 进程
+gpu-device-reset = 设备重置
 gpu-device-reset-button = 触发设备重置
 uses-tiling = 使用 Tiling
 content-uses-tiling = 使用 Tiling（内容）
