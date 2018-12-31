@@ -195,6 +195,7 @@ d3d11video-crash-guard = D3D11 भिडियो डीकोडर
 d3d9video-crash-buard = D3D9 भिडियो डिकोडर
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = अर्को पुन:सुचारु गर्दा रिसेट गर्नुहोस्
+gpu-process-kill-button = GPU प्रकृयालाई अन्त्य गर्ने
 gpu-device-reset-button = उपकरण रिसेट ट्रिगर गर्नुहोस्
 off-main-thread-paint-enabled = बन्द मुख्य थ्रेड चित्रकला सक्षम गर्नुहोस्
 audio-backend = अडियो ब्याकइन्ड
