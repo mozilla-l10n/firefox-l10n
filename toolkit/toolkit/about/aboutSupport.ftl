@@ -11,6 +11,7 @@ app-basics-version = Versiune
 app-basics-memory-use = Utilizare memorie
 modified-key-prefs-title = Preferințe importante modificate
 modified-prefs-name = Nume
+user-js-title = Preferințe user.js
 graphics-title = Grafică
 js-title = JavaScript
 js-incremental-gc = GC incremental
