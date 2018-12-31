@@ -86,6 +86,7 @@ sandbox-sys-call-proc-type = ປະເພດ Process
 sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Arguments
 safe-mode-title = ລອງໃຊ້ໂຫມດປອດໄພ
+restart-in-safe-mode-label = ເລີ່ມເຮັດວຽກໃຫມ່ພ້ອມປິດໃຊ້ງານໂປຣແກຣມເສີມ…
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days = ລາຍງານຂໍ້ຜິດພາດສຳລັບ { $days } ມື້ຫລ້າສຸດ
