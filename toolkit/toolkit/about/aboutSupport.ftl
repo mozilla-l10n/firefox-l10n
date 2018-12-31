@@ -194,6 +194,7 @@ reset-on-next-restart = Setel Ulang pada Mulai Ulang Berikutnya
 gpu-process-kill-button = Matikan Proses GPU
 gpu-device-reset-button = Picu Pengaturan Ulang Perangkat
 uses-tiling = Gunakan Tiling
+content-uses-tiling = Gunakan Tiling (Konten)
 off-main-thread-paint-enabled = Off Main Thread Painting Diaktifkan
 off-main-thread-paint-worker-count = Jumlah Off Main Thread Painting Worker
 audio-backend = Backend Audio
