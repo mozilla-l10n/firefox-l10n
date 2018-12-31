@@ -24,7 +24,11 @@ modified-prefs-name = Din
 graphics-title = Eniso-ade
 js-title = Javaskript
 js-incremental-gc = GC Ntosontoso
+a11y-title = Hokwanma
+a11y-activated = Akenyan
+a11y-force-disabled = Siw hokwanma ho kwan
 library-version-title = Nwomasiebea Vɛɛhyennom
+text-copied = Wɔafa nkyerɛwee no agu klip bɔɔd so
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
