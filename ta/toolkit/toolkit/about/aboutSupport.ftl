@@ -113,7 +113,7 @@ intl-regional-prefs = வட்டார முன்னுரிமைகள்
 report-crash-for-days =
     { $days ->
         [one] கடைசி { $days } நாளுக்கானசெயலிழப்பு அறிக்கை
-       *[other] { " " }கடைசி { $days } நாட்களுக்கான செயலிழப்பு அறிக்கை
+       *[other] கடைசி { $days } நாட்களுக்கான செயலிழப்பு அறிக்கை
     }
 # Variables
 # $minutes (integer) - Number of minutes since crash
