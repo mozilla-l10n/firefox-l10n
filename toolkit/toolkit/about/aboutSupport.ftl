@@ -23,11 +23,19 @@ app-basics-memory-use = स्मृति के उपयोग
 modified-key-prefs-title = महत्वपूर्ण रूपांतरित वरीयता
 modified-prefs-name = नाम
 modified-prefs-value = मान
+user-js-title = उपयोक्ता .js प्राथमिकता
+user-js-description = अहाँक प्रोफाइल फोल्डर मे <a data-l10n-name="user-js-link">उपयोक्ता.js फाइल</a> समाहित अछि, जकरा मे एहन प्राथमिकता सामिल अछि जे { -brand-short-name } द्वारा नहि बनाएल गेल छल.
 graphics-title = चित्रादि
 js-title = जावा स्क्रिप्ट
 js-incremental-gc = संवर्द्धित GC
 a11y-title = पहुँच
+a11y-activated = सक्रिय करू{ " " }
+a11y-force-disabled = पहुँच रोकू
 library-version-title = लाइब्रेरी संस्करण
+copy-text-to-clipboard-label = सभक क्लिपबोर्ड मे नकल लिअ
+copy-raw-data-to-clipboard-label = कच्चा डाटा क्लिपबोर्ड मे नकल लिअ
+raw-data-copied = क्लिपबोर्ड मे पाठ नकल कएल गेल
+text-copied = क्लिपबोर्ड मे नकल कएल गेल पाठ
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
