@@ -14,6 +14,12 @@ extensions-name = Izena
 extensions-enabled = Gaituta
 extensions-version = Bertsioa
 extensions-id = ID
+security-software-title = Segurtasun softwarea
+security-software-type = Mota
+security-software-name = Izena
+security-software-antivirus = Antibirusa
+security-software-antispyware = Spywarearen aurkakoa
+security-software-firewall = Suebakia
 features-title = { -brand-short-name }(r)en eginbideak
 features-name = Izena
 features-version = Bertsioa
@@ -40,6 +46,7 @@ app-basics-service-workers = Erregistratutako zerbitzu-langileak
 app-basics-profiles = Profilak
 app-basics-multi-process-support = Multiprozesu leihoak
 app-basics-process-count = Webeko eduki-prozesuak
+app-basics-enterprise-policies = Enpresa-politikak
 app-basics-key-google = Google gakoa
 app-basics-key-mozilla = Mozilla Location Service gakoa
 app-basics-safe-mode = Modu segurua
@@ -102,6 +109,15 @@ media-device-format = Formatua
 media-device-channels = Kanalak
 media-device-rate = Emaria
 media-device-latency = Atzerapena
+intl-title = Internazionalizazioa eta lokalizazioa
+intl-app-title = Aplikazioaren ezarpenak
+intl-locales-requested = Eskatutako hizkuntzak
+intl-locales-available = Hizkuntza erabilgarriak
+intl-locales-supported = Aplikazioaren hizkuntzak
+intl-locales-default = Hizkuntza lehenetsia
+intl-os-title = Sistema eragilea
+intl-os-prefs-system-locales = Sistemaren hizkuntzak
+intl-regional-prefs = Eskualdeko hobespenak
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -197,7 +213,10 @@ glcontext-crash-guard = OpenGL
 reset-on-next-restart = Berrezarri hurrengo berrabiaraztean
 gpu-process-kill-button = Amaitu GPU prozesua
 gpu-device-reset-button = Abiarazi gailua berrabiaraztea
+uses-tiling = Mosaikoa darabil
+content-uses-tiling = Mosaikoa darabil (edukia)
 off-main-thread-paint-enabled = Hari nagusitik kanporako margoketa gaituta
+off-main-thread-paint-worker-count = Hari nagusitik kanporako margoketarako langile kopurua
 audio-backend = Audio backend-a
 max-audio-channels = Gehienezko kanalak
 channel-layout = Hobetsitako kanal-diseinua
@@ -213,6 +232,7 @@ can-sandbox-media = Multimedia-pluginen isolamendua
 content-sandbox-level = Eduki-prozesuen isolamendu maila
 effective-content-sandbox-level = Eduki-prozesuen isolamendu maila eraginkorra
 sandbox-proc-type-content = edukia
+sandbox-proc-type-file = fitxategiaren edukia
 sandbox-proc-type-media-plugin = multimedia plugina
 # Variables
 # $remoteWindows (integer) - Number of remote windows
@@ -232,6 +252,7 @@ wheel-enabled = gurpil bidezko sarrera gaituta
 touch-enabled = ukipen bidezko sarrera gaituta
 drag-enabled = korritze-barra arrastatzea gaituta
 keyboard-enabled = teklatua gaituta
+autoscroll-enabled = autoscroll gaituta
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
@@ -241,3 +262,6 @@ touch-warning = ukipen asinkrono bidezko sarrera desgaituta onartzen ez den hobe
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+policies-inactive = Inaktibo
+policies-active = Aktibo
+policies-error = Errorea
