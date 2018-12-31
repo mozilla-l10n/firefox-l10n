@@ -14,6 +14,12 @@ extensions-name = नाम
 extensions-enabled = सक्षम पारिएको
 extensions-version = संस्करण
 extensions-id = ID
+security-software-title = सुरक्षा सफ्टवेयर
+security-software-type = प्रकार
+security-software-name = नाम
+security-software-antivirus = एन्टिवायरस
+security-software-antispyware = एन्टिस्पायवेयर
+security-software-firewall = फायरवाल
 features-title = { -brand-short-name } विशेषताहरु
 features-name = नाम
 features-version = संस्करण
@@ -40,6 +46,7 @@ app-basics-service-workers = दर्ता भएका Service Workers
 app-basics-profiles = प्रोफाइलहरू
 app-basics-multi-process-support = बहुप्रक्रिया सञ्झ्यालहरू
 app-basics-process-count = वेब सामग्री प्रक्रियाहरू
+app-basics-enterprise-policies = व्यापारको नीतिहरू
 app-basics-key-google = Google कुञ्जी
 app-basics-key-mozilla = Mozilla स्थान सेवा कुञ्जी
 app-basics-safe-mode = सुरक्षित मोड
@@ -102,6 +109,15 @@ media-device-format = ढाँचा
 media-device-channels = च्यानलहरू
 media-device-rate = दर
 media-device-latency = विलम्बता
+intl-title = अन्तरराष्ट्रियकरण & स्थानीयकरण
+intl-app-title = एप्लिकेसन सेटिङहरू
+intl-locales-requested = अनुरोध गरिएको स्थानीयताहरू
+intl-locales-available = उपलब्ध स्थानीयताहरू
+intl-locales-supported = एप स्थानीयताहरू
+intl-locales-default = पूर्वनिर्धारित स्थानीयता
+intl-os-title = सञ्चालन प्रणाली
+intl-os-prefs-system-locales = प्रणाली स्थानीयताहरू
+intl-regional-prefs = क्षेत्रीय प्राथमिकताहरू
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -197,7 +213,10 @@ glcontext-crash-guard = OpenGL
 reset-on-next-restart = अर्को पुन:सुचारु गर्दा रिसेट गर्नुहोस्
 gpu-process-kill-button = GPU प्रकृयालाई अन्त्य गर्ने
 gpu-device-reset-button = उपकरण रिसेट ट्रिगर गर्नुहोस्
+uses-tiling = टाइल प्रयोग गर्दछ
+content-uses-tiling = टाइल प्रयोग गर्दछ (सामग्री)
 off-main-thread-paint-enabled = बन्द मुख्य थ्रेड चित्रकला सक्षम गर्नुहोस्
+off-main-thread-paint-worker-count = बन्द मुख्य थ्रेड चित्रकला कार्यकर्ता गणना
 audio-backend = अडियो ब्याकइन्ड
 max-audio-channels = अधिकतम च्यानलहरु
 channel-layout = रुचाइएको च्यानल आवरण
@@ -213,6 +232,7 @@ can-sandbox-media = मिडिया प्लगइन स्यान्ड�
 content-sandbox-level = सामग्री प्रक्रिया स्यान्डबक्सिङ्ग
 effective-content-sandbox-level = प्रभावकारी सामग्री प्रक्रिया स्यान्डबक्स तह
 sandbox-proc-type-content = सामग्री
+sandbox-proc-type-file = फाइल सामग्री
 sandbox-proc-type-media-plugin = मिडिया प्लगइन
 # Variables
 # $remoteWindows (integer) - Number of remote windows
@@ -242,3 +262,6 @@ touch-warning = असमर्थित प्राथमिकता: { $pref
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+policies-inactive = निष्क्रिय
+policies-active = सक्रिय
+policies-error = त्रुटि
