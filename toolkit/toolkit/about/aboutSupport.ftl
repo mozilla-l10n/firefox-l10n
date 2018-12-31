@@ -45,6 +45,7 @@ locked-key-prefs-title = Pomembne zaklenjene nastavitve
 locked-prefs-name = Ime
 locked-prefs-value = Vrednost
 graphics-title = Grafika
+js-title = JavaScript
 js-incremental-gc = Inkrementalen GC
 a11y-title = Dostopnost
 a11y-activated = Vključeno
