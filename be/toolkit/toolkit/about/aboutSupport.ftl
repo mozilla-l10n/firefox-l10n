@@ -3,12 +3,20 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 page-title = Звесткі для вырашэння праблемаў
+page-subtitle =
+    Гэта старонка змяшчае тэхнічныя звесткі, якія могуць быць карыснымі, калі
+    спрабуеце вырашыць праблему. Калі вы шукаеце адказы на агульныя пытанні
+    пра { -brand-short-name }, наведайце наш <a data-l10n-name="support-link">сайт падтрымкі</a>.
 crashes-title = Cправаздачы пра крахі
 crashes-send-date = Пададзена
 crashes-all-reports = Усе справаздачы пра крахі
 extensions-title = Пашырэнні
 extensions-name = Назва
 extensions-version = Версія
+features-title = Магчымасці { -brand-short-name }
+features-name = Імя
+features-version = Версія
+features-id = ID
 app-basics-name = Назва
 app-basics-version = Версія
 app-basics-update-history = Гісторыя абнаўленняў
@@ -20,8 +28,14 @@ app-basics-profile-dir =
     }
 app-basics-user-agent = Дзеяч карыстальніка
 app-basics-memory-use = Ужыванне памяці
+app-basics-key-google = Ключ Google
+app-basics-key-mozilla = Ключ Службы вызначэння месцазнаходжання ад Mozilla
+modified-key-prefs-title = Змененыя важныя налады
 modified-prefs-name = Назва
 modified-prefs-value = Значэнне
+user-js-title = Налады user.js
+user-js-description = Папка вашага профілю змяшчае <a data-l10n-name="user-js-link">файл user.js</a>, у якім знаходзяцца налады, не створаныя { -brand-short-name }.
+locked-key-prefs-title = Заблакаваныя важныя налады
 graphics-title = Графіка
 js-title = JavaScript
 js-incremental-gc = Incremental GC
@@ -30,6 +44,15 @@ a11y-activated = Задзейнічаны
 a11y-force-disabled = Прадухіліць даступнасць
 library-version-title = Версіі бібліятэк
 copy-text-to-clipboard-label = Скапіяваць тэкст у буфер абмену
+copy-raw-data-to-clipboard-label = Скапіяваць сырыя дадзеныя ў буфер абмену
+sandbox-sys-call-log-title = Адхіленыя сістэмныя выклікі
+sandbox-sys-call-index = #
+sandbox-sys-call-age = Секунд таму
+sandbox-sys-call-pid = PID
+sandbox-sys-call-tid = TID
+sandbox-sys-call-proc-type = Тып працэсу
+sandbox-sys-call-number = Сістэмны выклік
+sandbox-sys-call-args = Аргументы
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -62,6 +85,7 @@ pending-reports =
         [few] Усе справаздачы пра крахі (уключаючы { $reports } адкладзеныя крахі з дадзеным перыядзе)
        *[many] Усе справаздачы пра крахі (уключаючы { $reports } адкладзеных крахаў у дадзеным перыядзе)
     }
+raw-data-copied = Сырыя дадзеныя скапіяваны ў буфер абмену
 text-copied = Тэкст скапіяваны ў буфер абмену
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
@@ -75,17 +99,61 @@ try-newer-driver = Блакавана для вашай версіі графі�
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Параметры ClearType
+hardware-h264 = Апаратнае дэкадаванне H264
+main-thread-no-omtc = галоўная плынь, без OMTC
+yes = Так
+no = Не
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
 ## not found.
 
+found = Знойдзены
+missing = Адсутнічае
+gpu-description = Апісанне
+gpu-vendor-id = ID вытворцы
+gpu-device-id = ID прылады
+gpu-subsys-id = ID падсістэмы
+gpu-drivers = Драйверы
+gpu-ram = RAM
+gpu-driver-version = Версія драйвера
+gpu-driver-date = Дата распрацоўкі драйвера
+gpu-active = Актыўная
+webgl1-wsiinfo = WebGL 1 - Звесткі WSI драйвера
+webgl1-renderer = WebGL 1 - Адлюстравальнік драйвера
+webgl1-version = WebGL 1 - Версія драйвера
+webgl1-driver-extensions = WebGL 1 - Пашырэнні драйвера
+webgl1-extensions = WebGL 1 - Пашырэнні
+webgl2-wsiinfo = WebGL 2 - Звесткі WSI драйвера
+webgl2-renderer = WebGL 2 - Адлюстравальнік драйвера
+webgl2-version = WebGL 2 - Версія драйвера
+webgl2-driver-extensions = WebGL 2 - Пашырэнні драйвера
+webgl2-extensions = WebGL 2 - Пашырэнні
+# Variables
+# $bugNumber (string) - String of bug number from Bugzilla
+bug-link = праблема { $bugNumber }
+d3d11layers-crash-guard = Кампазітар D3D11
+d3d11video-crash-guard = Відэадэкодэр D3D11
+d3d9video-crash-buard = Відэадэкодэр D3D9
+glcontext-crash-guard = OpenGL
+reset-on-next-restart = Скінуць пры наступным перазапуску
+gpu-process-kill-button = Завяршыць GPU працэс
 min-lib-versions = Чаканая найменшая версія
 loaded-lib-versions = Версія ў ужыванні
+has-user-namespaces = Прасторы імён карыстальніка
+sandbox-proc-type-content = змесціва
+sandbox-proc-type-media-plugin = медыяплагін
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
+multi-process-status-0 = Уключаны карыстальнікам
+multi-process-status-1 = Прадвызначана - уключаны
+multi-process-status-2 = Выключаны
+multi-process-status-7 = Адключана дадатакамі
+multi-process-status-8 = Прымусова адключаны
+multi-process-status-unknown = Невядомы статус
+apz-none = няма
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
