@@ -50,6 +50,8 @@ app-basics-profiles = Profily
 app-basics-multi-process-support = Multiprocesová okna
 app-basics-process-count = Procesy pro webový obsah
 app-basics-enterprise-policies = Podniková pravidla
+app-basics-key-google = Klíč Google
+app-basics-key-mozilla = Klíč Mozilla Location Service
 app-basics-safe-mode = Nouzový režim
 show-dir-label =
     { PLATFORM() ->
@@ -88,6 +90,14 @@ library-version-title = Verze knihoven
 copy-text-to-clipboard-label = Zkopírovat text do schránky
 copy-raw-data-to-clipboard-label = Zkopírovat data do schránky
 sandbox-title = Sandbox
+sandbox-sys-call-log-title = Odmítnutá systémová volání
+sandbox-sys-call-index = #
+sandbox-sys-call-age = Před pár vteřinami
+sandbox-sys-call-pid = PID
+sandbox-sys-call-tid = TID
+sandbox-sys-call-proc-type = Typ procesu
+sandbox-sys-call-number = Systémové volání
+sandbox-sys-call-args = Argumenty
 safe-mode-title = Vyzkoušet nouzový režim
 restart-in-safe-mode-label = Restartovat se zakázanými doplňky…
 media-title = Média
@@ -176,6 +186,8 @@ no = Ne
 ## In some development versions, it's expected for some API keys that they are
 ## not found.
 
+found = Nalezeno
+missing = Chybí
 gpu-description = Popis
 gpu-vendor-id = ID prodejce
 gpu-device-id = ID zařízení
@@ -185,7 +197,16 @@ gpu-ram = RAM
 gpu-driver-version = Verze ovladače
 gpu-driver-date = Datum ovladače
 gpu-active = Aktivní
+webgl1-wsiinfo = Informace o ovladači WebGL 1 WSI
+webgl1-renderer = Ovladač pro zobrazování WebGL 1
+webgl1-version = Verze ovladače WebGL 1
+webgl1-driver-extensions = Rozšíření ovladače WebGL 1
+webgl1-extensions = Rozšíření WebGL 1
+webgl2-wsiinfo = Informace o ovladači WebGL 2 WSI
 webgl2-renderer = Zobrazování WebGL2
+webgl2-version = Verze ovladače WebGL 2
+webgl2-driver-extensions = Rozšíření ovladače WebGL 2
+webgl2-extensions = Rozšíření WebGL 2
 blocklisted-bug = Zablokováno kvůli známé chybě
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
@@ -218,6 +239,7 @@ can-sandbox-content = Sandbox procesů pro obsah
 can-sandbox-media = Sandbox zásuvných modulů médií
 content-sandbox-level = Úroveň sandboxu procesů pro obsah
 effective-content-sandbox-level = Účinná úroveň sandboxu procesů pro obsah
+sandbox-proc-type-content = obsah
 sandbox-proc-type-file = obsah souboru
 sandbox-proc-type-media-plugin = zásuvný modul médií
 # Variables
