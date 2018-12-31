@@ -17,6 +17,10 @@ extensions-name = ਨਾਂ
 extensions-enabled = ਚਾਲੂ ਹੈ
 extensions-version = ਵਰਜ਼ਨ
 extensions-id = ID
+features-title = { -brand-short-name } ਫ਼ੀਚਰ
+features-name = ਨਾਂ
+features-version = ਵਰਜ਼ਨ
+features-id = ID
 app-basics-title = ਐਪਲੀਕੇਸ਼ਨ ਬੇਸਿਕ
 app-basics-name = ਨਾਂ
 app-basics-version = ਵਰਜ਼ਨ
@@ -38,6 +42,7 @@ app-basics-performance = ਕਾਰਗੁਜ਼ਾਰੀ
 app-basics-service-workers = ਰਜਿਸਟਰ ਕੀਤੇ Service Workers
 app-basics-profiles = ਪਰੋਫਾਈਲ
 app-basics-multi-process-support = ਬਹੁ-ਕਾਰਜ ਵਿੰਡੋਜ਼
+app-basics-process-count = ਵੈੱਬ ਸਮੱਗਰੀ ਕਾਰਵਾਈ
 app-basics-key-google = Google Key
 app-basics-key-mozilla = Mozilla Location Service Key
 app-basics-safe-mode = ਸੁਰੱਖਿਅਤ ਮੋਡ
@@ -72,6 +77,7 @@ js-incremental-gc = ਵਾਧਾ GC
 a11y-title = ਅਸੈਸਬਿਲਟੀ
 a11y-activated = ਸਰਗਰਮ ਹੈ
 a11y-force-disabled = ਅਸੈਸਬਿਲਟੀ ਰੋਕੋ
+a11y-handler-used = ਵਰਤੇ ਗਏ ਅਸੈਸਬਲ ਹੈਂਡਲਰ{ " " }
 library-version-title = ਲਾਇਬਰੇਰੀ ਵਰਜ਼ਨ
 copy-text-to-clipboard-label = ਟੈਕਸਟ ਕਲਿੱਪਬੋਰਡ ਵਿੱਚ ਕਾਪੀ ਕਰੋ
 copy-raw-data-to-clipboard-label = ਰਾਅ ਡਾਟਾ ਕਲਿੱਪਬੋਰਡ ਵਿੱਚ ਕਾਪੀ ਕਰੋ
@@ -86,6 +92,18 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Arguments
 safe-mode-title = ਸੁਰੱਖਿਅਤ ਮੋਡ ਵਰਤ ਕੇ ਦੇਖੋ
 restart-in-safe-mode-label = …ਐਡ-ਆਨ ਬੰਦ ਕਰਕੇ ਮੁੜ-ਚਾਲੂ ਕਰੋ
+media-title = ਮੀਡੀਆ
+media-output-devices-title = ਆਉਟਪੁ਼ਟ ਡਿਵਾਈਸ
+media-input-devices-title = ਇਨਪੁਟ ਡਿਵਾਈਸ
+media-device-name = ਨਾਂ
+media-device-group = ਗਰੁੱਪ
+media-device-vendor = ਵੇਂਡਰ
+media-device-state = ਹਾਲਤ
+media-device-preferred = ਤਰਜੀਹੀ
+media-device-format = ਫਾਰਮੈਟ
+media-device-channels = ਚੈਨਲ
+media-device-rate = ਰੇਟ
+media-device-latency = ਦੇਰੀ
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -169,6 +187,9 @@ webgl2-driver-extensions = WebGL 2 Driver Extensions
 webgl2-extensions = WebGL 2 Extensions
 blocklisted-bug = ਜਾਣੀਆਂ ਹੋਈਆਂ ਸਮੱਸਿਆਵਾਂ ਕਰਕੇ ਪਾਬੰਦੀ ਲਗਾਈ ਹੈ
 # Variables
+# $bugNumber (string) - String of bug number from Bugzilla
+bug-link = ਬੱਗ { $bugNumber }
+# Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = ਪਾਬੰਦੀਸ਼ੁਦਾ; ਅਸਫ਼ਲਤਾ ਕੋਡ { $failureCode }
 d3d11layers-crash-guard = D3D11 ਕੰਪੋਜ਼ਿਟਰ
@@ -177,6 +198,14 @@ d3d9video-crash-buard = D3D9 ਵੀਡੀਓ ਡੀਕੋਡਰ
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = ਅਗਲੀ ਵਾਰ ਮੁੜ-ਚਲਾਉਣ ਉੱਤੇ ਮੁੜ-ਸੈੱਟ ਕਰੋ
 gpu-process-kill-button = Terminate GPU Process
+gpu-device-reset-button = ਡਿਵਾਈਸ ਮੁੜ-ਸੈੱਟ ਲਈ ਪਲਟੋ
+uses-tiling = ਟਿਲਿੰਗ ਵਰਤਦਾ ਹੈ
+off-main-thread-paint-enabled = ਮੁੱਖ ਥਰਿੱਡ ਪੇਂਟਿੰਗ ਸਮਰੱਥ ਨੂੰ ਬੰਦ ਕਰੋ
+off-main-thread-paint-worker-count = ਮੁੱਖ ਥਰਿੱਡ ਪੇਂਟਿੰਗ ਵਰਕਰ ਗਿਣਤੀ ਬੰਦ ਕਰੋ
+audio-backend = ਆਡੀਓ ਬੈਕਐਂਡ
+max-audio-channels = ਵੱਧ ਤੋਂ ਵੱਧ ਚੈਨਲ
+channel-layout = ਤਰਜੀਹੀ ਚੈਨਲ ਲੇਆਉਟ
+sample-rate = ਤਰਜੀਹੀ ਸੈਂਪਲ ਰੇਟ
 min-lib-versions = ਮੰਗਿਆ ਗਿਆ ਘੱਟੋ-ਘੱਟ ਵਰਜਨ
 loaded-lib-versions = ਵਰਤੋਂ ਵਿੱਚ ਵਰਜਨ
 has-seccomp-bpf = Seccomp-BPF (ਸਿਸਟਮ ਕਾਲ ਫਿਲਟਰ ਕਰਨਾ)
@@ -186,7 +215,9 @@ has-privileged-user-namespaces = ਅਧਿਕਾਰ ਪ੍ਰਾਪਤ ਕਾਰ
 can-sandbox-content = ਪ੍ਰਸੰਗ ਕਾਰਵਾਈ ਸੈਂਡਬੌਕਸਿੰਗ
 can-sandbox-media = ਮੀਡੀਆ ਪਲੱਗਇਨ ਸੈਂਡਬੌਕਸਿੰਗ
 content-sandbox-level = Content Process Sandbox Level
+effective-content-sandbox-level = ਪ੍ਰਭਾਵੀ ਸਮੱਗਰੀ ਕਾਰਵਾਈ ਸੈਂਡਬਾਕਸ ਪੱਧਰ
 sandbox-proc-type-content = ਸਮੱਗਰੀ
+sandbox-proc-type-file = ਫ਼ਾਇਲ ਸਮੱਗਰੀ
 sandbox-proc-type-media-plugin = ਮੀਡੀਆ ਪਲੱਗਇਨ
 # Variables
 # $remoteWindows (integer) - Number of remote windows
@@ -205,6 +236,8 @@ apz-none = ਕੋਈ ਨਹੀਂ
 wheel-enabled = ਵ੍ਹੀਲ ਇਨਪੁਟ ਸਮਰੱਥ ਹੈ
 touch-enabled = ਟੱਚ ਇਨਪੁਟ ਸਮਰੱਥ ਹੈ
 drag-enabled = scrollbar drag enabled
+keyboard-enabled = ਕੀਬੋਰਡ ਸਮਰੱਥ ਹੈ
+autoscroll-enabled = ਆਪੇ-ਸਕਰੋਲ ਸਮਰੱਥ ਹੈ
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
