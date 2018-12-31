@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 page-title = Talɣut n usellek
+page-subtitle = Asebter-agi igber talɣut tatiknikant i izemren ahat ticki tettaɛraḍeḍ ad tefruḍ ugur. Ma yella tettnadiḍ tiririt ɣef isteqsiyen n { -brand-short-name },senqed <a data-l10n-name="support-link"> asmel-nneɣ Web</a>.
 crashes-title = Ineqqisen n uɣelluy
 crashes-id = Asulay n ussaɣ
 crashes-send-date = Azemz n tuzzna
@@ -177,6 +178,7 @@ no = Ala
 ## In some development versions, it's expected for some API keys that they are
 ## not found.
 
+found = Yettwaf
 missing = ulac-it
 gpu-description = Aglam
 gpu-vendor-id = Asulay n umzenzi
@@ -217,6 +219,8 @@ off-main-thread-paint-enabled = Painting beṛṛa n tnelli n uselkem agejdan ye
 off-main-thread-paint-worker-count = Uṭṭun n iseqdacen Painting beṛṛa n tnelli
 audio-backend = Ameslaw ɣer deffir
 max-audio-channels = Amḍan afellay n ibuda
+channel-layout = Taneɣruft n udabu i tebɣiḍ
+sample-rate = Afmiḍi n imedyaten i tebɣiḍ
 min-lib-versions = Lqem adday itturajun
 loaded-lib-versions = Lqem ittuseqdacen
 has-seccomp-bpf = Seccomp-BPF (Azizdeg n isawalen n unagraw)
@@ -229,6 +233,7 @@ content-sandbox-level = Aswir n usersu n ukala n ugbur
 effective-content-sandbox-level = Aswir n usersu n ukala n ugbur
 sandbox-proc-type-content = agbur
 sandbox-proc-type-file = agbur n ufaylu
+sandbox-proc-type-media-plugin = asiɣzef n wallen n teywalt
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
