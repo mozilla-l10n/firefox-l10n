@@ -7,6 +7,9 @@ page-subtitle =
     Αυτή η σελίδα περιέχει τεχνικές πληροφορίες που πιθανόν να σας φανούν χρήσιμες στην επίλυση κάποιων
     προβλημάτων. Αν ψάχνετε για απαντήσεις σε συχνές ερωτήσεις για τον
     { -brand-short-name }, επισκεφτείτε την <a data-l10n-name="support-link">σελίδα υποστήριξης</a>.
+crashes-title = Αναφορές κατάρρευσης
+crashes-id = ID Αναφοράς
+crashes-send-date = Υποβλήθηκε
 extensions-title = Επεκτάσεις
 extensions-name = Όνομα
 extensions-enabled = Ενεργές
@@ -14,6 +17,7 @@ extensions-version = Έκδοση
 app-basics-title = Βασικά εφαρμογής
 app-basics-name = Όνομα
 app-basics-version = Έκδοση
+app-basics-update-channel = Κανάλι ενημερώσεων
 app-basics-update-history = Ιστορικό ενημερώσεων
 app-basics-show-update-history = Προβολή ιστορικού ενημερώσεων
 app-basics-profile-dir =
