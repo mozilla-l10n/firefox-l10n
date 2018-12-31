@@ -14,6 +14,9 @@ extensions-name = نام
 extensions-enabled = فعال
 extensions-version = نسخه
 extensions-id = شناسه
+security-software-title = نرم‌افزار امنیتی
+security-software-type = نوع
+security-software-name = نام
 security-software-antivirus = آنتی ویروس
 security-software-antispyware = ضدجاسوسی
 security-software-firewall = دیوارآتشین
@@ -258,3 +261,6 @@ touch-warning = ورودی همگام لمسی به دلیل عدم پشتیبا
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+policies-inactive = غیر فعال
+policies-active = فعال
+policies-error = خطا
