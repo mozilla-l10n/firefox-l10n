@@ -3,6 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 page-title = Informação para resolução de problemas
+page-subtitle =
+    Esta página contém informação técnica que pode ser útil para quando estiver
+    a tentar resolver um problema. Se estiver à procura de respostas a questões comuns
+    acerca do { -brand-short-name }, aceda ao nosso <a data-l10n-name="support-link">website de apoio</a>.
 crashes-title = Relatórios de falha
 crashes-id = ID do relatório
 crashes-send-date = Enviado
@@ -13,6 +17,12 @@ extensions-name = Nome
 extensions-enabled = Ativa
 extensions-version = Versão
 extensions-id = ID
+security-software-title = Software de segurança
+security-software-type = Tipo
+security-software-name = Nome
+security-software-antivirus = Antivirus
+security-software-antispyware = Antispyware
+security-software-firewall = Firewall
 features-title = Funcionalidades do { -brand-short-name }
 features-name = Nome
 features-version = Versão
@@ -30,6 +40,7 @@ app-basics-profile-dir =
        *[other] Pasta do perfil
     }
 app-basics-enabled-plugins = Plugins ativados
+app-basics-build-config = Configuração da compilação
 app-basics-user-agent = User Agent
 app-basics-os = SO
 app-basics-memory-use = Utilização da memória
@@ -37,6 +48,7 @@ app-basics-performance = Desempenho
 app-basics-service-workers = Service Workers registados
 app-basics-profiles = Perfis
 app-basics-multi-process-support = Multi-processamento de janelas
+app-basics-enterprise-policies = Políticas empresariais
 app-basics-key-google = Chave Google
 app-basics-key-mozilla = Chave do serviço de localização da Mozilla
 app-basics-safe-mode = Modo de segurança
@@ -72,6 +84,7 @@ a11y-title = Acessibilidade
 a11y-activated = Ativa
 a11y-force-disabled = Impedir acessibilidade
 a11y-handler-used = Gestor acessível utilizado
+a11y-instantiator = Instanciador de acessibilidade
 library-version-title = Versões da biblioteca
 copy-text-to-clipboard-label = Copiar texto para a área de transferência
 copy-raw-data-to-clipboard-label = Copiar dados para a área de transferência
@@ -98,6 +111,15 @@ media-device-format = Formato
 media-device-channels = Canais
 media-device-rate = Taxa
 media-device-latency = Latência
+intl-title = Internacionalização e idioma
+intl-app-title = Definições da aplicação
+intl-locales-requested = Idiomas solicitados
+intl-locales-available = Idiomas disponíveis
+intl-locales-supported = Idiomas da aplicação
+intl-locales-default = Idioma predefinido
+intl-os-title = Sistema operativo
+intl-os-prefs-system-locales = Idiomas do sistema
+intl-regional-prefs = Preferências regionais
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -168,6 +190,7 @@ gpu-drivers = Controladores
 gpu-ram = RAM
 gpu-driver-version = Versão do controlador
 gpu-driver-date = Data do controlador
+gpu-active = Ativa
 webgl1-wsiinfo = Informação WSI do controlador WebGL 1
 webgl1-renderer = Renderizador do controlador WebGL 1
 webgl1-version = Versão do controlador WebGL 1
@@ -192,8 +215,13 @@ glcontext-crash-guard = OpenGL
 reset-on-next-restart = Repor no próximo reinício
 gpu-process-kill-button = Terminar processo GPU
 gpu-device-reset-button = Acionar reposição do dispositivo
+uses-tiling = Utiliza mosaicos
+content-uses-tiling = Utiliza mosaicos (conteúdo)
+off-main-thread-paint-enabled = Pintura fora da thread principal ativada
+off-main-thread-paint-worker-count = Contagem de workers de pintura fora da thread principal
 audio-backend = Backend de áudio
 max-audio-channels = Máximo de canais
+channel-layout = Esquema de canal preferido
 sample-rate = Taxa de amostras preferida
 min-lib-versions = Versão mínima esperada
 loaded-lib-versions = Versão em utilização
@@ -206,6 +234,7 @@ can-sandbox-media = Sandboxing do plugin multimédia
 content-sandbox-level = Nível da sandbox do processo de conteúdo
 effective-content-sandbox-level = Nível efetivo da sandbox do processo de conteúdo
 sandbox-proc-type-content = conteúdo
+sandbox-proc-type-file = conteúdo de ficheiro
 sandbox-proc-type-media-plugin = plugin multimédia
 # Variables
 # $remoteWindows (integer) - Number of remote windows
@@ -225,6 +254,7 @@ wheel-enabled = introdução com roda ativada
 touch-enabled = introdução com toque ativada
 drag-enabled = arrasto da barra de deslocamento ativado
 keyboard-enabled = teclado ativado
+autoscroll-enabled = auto-deslocamento ativado
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
@@ -234,3 +264,6 @@ touch-warning = introdução assíncrona com toque desativada devido a preferên
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+policies-inactive = Inativas
+policies-active = Ativas
+policies-error = Erro
