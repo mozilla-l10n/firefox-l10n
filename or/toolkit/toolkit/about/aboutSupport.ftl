@@ -16,6 +16,7 @@ app-basics-user-agent = ଚାଳକ ଯନ୍ତ୍ର
 modified-prefs-name = ନାମ
 modified-prefs-value = ମୂଲ୍ୟ
 graphics-title = ଆଲେଖୀ
+copy-raw-data-to-clipboard-label = ମୂଳ ତଥ୍ୟକୁ କ୍ଲିପବୋର୍ଡରେ ନକଲ କରନ୍ତୁ
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
@@ -24,6 +25,8 @@ graphics-title = ଆଲେଖୀ
 ## In some development versions, it's expected for some API keys that they are
 ## not found.
 
+min-lib-versions = ଆଶାକରାଯାଇଥବା ସର୍ବନିମ୍ନ ସଂସ୍କରଣ
+loaded-lib-versions = ବ୍ୟବହାର ହେଉଥିବା ସଂସ୍କରଣ
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
