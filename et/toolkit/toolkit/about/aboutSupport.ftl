@@ -78,9 +78,7 @@ graphics-crash-guards-title = Vigade vältimise tõttu keelatud funktsionaalsus
 graphics-workarounds-title = Hädalahendused
 place-database-title = Asukohtade andmebaas
 place-database-integrity = Terviklus
-place-database-verify-integrity =
-    Verifitseeri terviklus
-    { "" }
+place-database-verify-integrity = Verifitseeri terviklus
 js-title = JavaScript
 js-incremental-gc = Inkrementaalne GC
 a11y-title = Hõlbustus
