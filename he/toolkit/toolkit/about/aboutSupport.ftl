@@ -42,11 +42,14 @@ app-basics-profile-dir =
 app-basics-enabled-plugins = תוספים חיצוניים פעילים
 app-basics-build-config = הגדרות בנייה
 app-basics-user-agent = סוכן משתמש
+app-basics-os = מערכת הפעלה
 app-basics-memory-use = שימוש בזכרון
+app-basics-performance = ביצועים
 app-basics-service-workers = Service Workers רשומים
 app-basics-profiles = פרופילים
 app-basics-multi-process-support = חלונות מרובי תהליכים
 app-basics-process-count = תהליכי תוכן רשת
+app-basics-enterprise-policies = ערכות מדיניות ארגוניות
 app-basics-key-google = מפתח עבור שירותי Google
 app-basics-key-mozilla = מפתח עבור שירותי המיקום של Mozilla
 app-basics-safe-mode = מצב בטוח
@@ -60,11 +63,16 @@ modified-key-prefs-title = העדפות חשובות ששונו
 modified-prefs-name = שם
 modified-prefs-value = ערך
 user-js-title = העדפות user.js
+user-js-description = תיקיית הפרופיל שלך מכילה <a data-l10n-name="user-js-link">קובץ user.js</a>, שכולל העדפות שלא נוצרו בידי { -brand-short-name }.
 locked-key-prefs-title = העדפות נעולות חשובות
 locked-prefs-name = שם
 locked-prefs-value = ערך
 graphics-title = גרפיקה
+graphics-features-title = תכונות
+graphics-diagnostics-title = אבחון
 graphics-failure-log-title = יומן תקלות
+graphics-gpu1-title = GPU #1
+graphics-gpu2-title = GPU #2
 graphics-decision-log-title = יומן החלטות
 graphics-crash-guards-title = תכונות מנוטרלות של מגן הקריסות
 graphics-workarounds-title = מעקפים
@@ -90,7 +98,27 @@ sandbox-sys-call-number = קריאת מערכת
 sandbox-sys-call-args = ארגומנטים
 safe-mode-title = לנסות במצב בטוח
 restart-in-safe-mode-label = הפעלה מחדש עם תוספות מנוטרלות…
+media-title = מדיה
+media-output-devices-title = התקני פלט
+media-input-devices-title = התקני קלט
+media-device-name = שם
+media-device-group = קבוצה
+media-device-vendor = יצרן
+media-device-state = מצב
+media-device-preferred = מועדף
+media-device-format = תצורה
+media-device-channels = ערוצים
+media-device-rate = קצב
 media-device-latency = עיכוב
+intl-title = בינלאומי ושפות
+intl-app-title = הגדרות יישום
+intl-locales-requested = שפות מבוקשות
+intl-locales-available = שפות זמינות
+intl-locales-supported = שפות היישום
+intl-locales-default = שפת ברירת המחדל
+intl-os-title = מערכת הפעלה
+intl-os-prefs-system-locales = שפות המערכת
+intl-regional-prefs = העדפות אזוריות
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -143,6 +171,8 @@ try-newer-driver = חסום עבור גרסת מנהל ההתקן הגרפי ש�
 clear-type-parameters = פרמטרים של ClearType
 hardware-h264 = קידוד H264 באמצעות חומרה
 main-thread-no-omtc = תהליך ראשי, אין OMTC
+yes = כן
+no = לא
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
@@ -150,18 +180,32 @@ main-thread-no-omtc = תהליך ראשי, אין OMTC
 
 found = קיים
 missing = חסר
+gpu-description = תיאור
 gpu-vendor-id = מזהה הספק
+gpu-device-id = מזהה התקן
+gpu-drivers = מנהלי התקנים
+gpu-ram = RAM
+gpu-driver-version = גרסת מנהל התקן
+gpu-driver-date = גרסת מנהל התקן
+gpu-active = פעיל
 webgl1-version = גרסת מנהל התקן עבור WebGL 1
 webgl1-driver-extensions = הרחבות מנהל התקן עבור WebGL 1
 webgl1-extensions = הרחבות עבור WebGL 1
 webgl2-version = גרסת מנהל התקן עבור WebGL 2
 webgl2-driver-extensions = הרחבות מנהל התקן עבור WebGL 2
 webgl2-extensions = הרחבות עבור WebGL 2
+blocklisted-bug = הוכנס לרשימה שחורה עקב בעיות ידועות
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = באג { $bugNumber }
+# Variables
+# $failureCode (string) - String that can be searched in the source tree.
+unknown-failure = הוכנס לרשימה השחורה, קוד כישלון { $failureCode }
 d3d11video-crash-guard = מפענח הווידאו D3D11
 d3d9video-crash-buard = מפענח הווידאו D3D9
+glcontext-crash-guard = OpenGL
+reset-on-next-restart = איפוס בהפעלה מחדש הבאה
+gpu-process-kill-button = סיום תהליך GPU
 gpu-device-reset-button = הפעלת איפוס התקן
 uses-tiling = שימוש בריצוף
 content-uses-tiling = שימוש בריצוף (תוכן)
@@ -184,10 +228,17 @@ sandbox-proc-type-media-plugin = תוסף מדיה
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
+multi-process-status-0 = הופעל ע״י המשתמש
+multi-process-status-1 = הופעל כבררת מחדל
+multi-process-status-2 = מנוטרל
 multi-process-status-4 = נוטרל עקב כלי נגישות
 multi-process-status-6 = נוטרל עקב קלט טקסט לא נתמך
+multi-process-status-7 = נוטרל ע״י תוספות
+multi-process-status-8 = נוטרל בכוח
+multi-process-status-unknown = מצב לא ידוע
 apz-none = אין
 wheel-enabled = קלט גלגל מופעל
+touch-enabled = קלט מגע מופעל
 drag-enabled = גרירת פס גלילה מופעלת
 keyboard-enabled = מקלדת פעילה
 autoscroll-enabled = גלילה אוטומטית פעילה
@@ -198,3 +249,6 @@ autoscroll-enabled = גלילה אוטומטית פעילה
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+policies-inactive = לא פעיל
+policies-active = פעיל
+policies-error = שגיאה
