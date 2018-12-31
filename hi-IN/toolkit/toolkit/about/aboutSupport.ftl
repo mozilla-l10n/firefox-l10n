@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 page-title = विघ्ननिवारण सूचना
+page-subtitle = यह पृष्ठ आपको एक समस्या को हल करने की कोशिश कर रहे हैं उपयोगी हो सकता है कि तकनीकी जानकारी है. { -brand-short-name }, के बारे में आम सवालों के जवाब की तलाश में हैं, हमारे  <a data-l10n-name="support-link">समर्थन वेबसाइट की जाँच करें.</a>
 crashes-title = क्रैश रिपोर्ट
 crashes-id = रिपोर्ट ID
 crashes-send-date = सुपुर्द
@@ -12,9 +13,12 @@ extensions-title = विस्तार
 extensions-name = नाम
 extensions-enabled = सक्रिय
 extensions-version = संस्करण
+extensions-id = आईडी
 app-basics-title = अनुप्रयोग मूल
 app-basics-name = नाम
 app-basics-version = संस्करण
+app-basics-build-id =  ID बनाएँ
+app-basics-update-channel = चैनल अद्यतन करें
 app-basics-update-history = इतिहास अद्यतन करें
 app-basics-show-update-history = अद्यतन इतिहास दिखाएँ
 app-basics-profile-dir =
@@ -25,13 +29,39 @@ app-basics-profile-dir =
 app-basics-enabled-plugins = सक्रिय प्लगिन
 app-basics-build-config = बिल्ड विन्यास
 app-basics-user-agent = उपयोक्ता प्रतिनिधि
+app-basics-os = OS
 app-basics-memory-use = स्मृति के उपयोग
+app-basics-performance = प्रदर्शन
+app-basics-service-workers = सर्विस श्रमिक पंजीकृत किया गया
+app-basics-profiles = प्रोफ़ाइल
+app-basics-multi-process-support = बहुप्रक्रिया विंडोज़
+app-basics-safe-mode = सेफ मोड
+show-dir-label =
+    { PLATFORM() ->
+        [macos] फाइंडर में पता करें
+        [windows] फ़ोल्डर खोलें
+       *[other] खुली निर्देशिका
+    }
 modified-key-prefs-title = महत्वपूर्ण रूपांतरित वरीयताएँ
 modified-prefs-name = नाम
 modified-prefs-value = मान
 user-js-title = उपयोक्ता प्राथमिकताएँ
 user-js-description = Your profile folder contains a <a data-l10n-name="user-js-link">user.js file</a>, which includes preferences that were not created by { -brand-short-name }.
+locked-key-prefs-title = महत्वपूर्ण बंद वरीयताएँ
+locked-prefs-name = नाम
+locked-prefs-value = मान
 graphics-title = चित्रादि
+graphics-features-title = विशेषताएँ
+graphics-diagnostics-title = निदान
+graphics-failure-log-title = असफल लॉग
+graphics-gpu1-title = जीपीयू #1
+graphics-gpu2-title = जीपीयू #2
+graphics-decision-log-title = निर्णय लॉग
+graphics-crash-guards-title = क्रैश गार्ड निष्क्रिय सुविधाएँ
+graphics-workarounds-title = वर्कअराउन्ड
+place-database-title = स्थान डेटाबेस{ " " }
+place-database-integrity = अखंडता
+place-database-verify-integrity = अखंडता सत्यापित करें
 js-title = जावा स्क्रिप्ट
 js-incremental-gc = संवर्द्धित GC
 a11y-title = पहुँच
@@ -40,6 +70,9 @@ a11y-force-disabled = पहुँच रोकें
 library-version-title = लाइब्रेरी संस्करण
 copy-text-to-clipboard-label = पाठ क्लिपबोर्ड में नक़ल लें
 copy-raw-data-to-clipboard-label = कच्चे डाटा क्लिपबोर्ड में नक़ल लें
+sandbox-title = सैंडबॉक्स{ " " }
+safe-mode-title = सुरक्षित मोड में कोशिश करें
+restart-in-safe-mode-label = निष्क्रिय सहयुक्तियों के साथ फिर आरंभ करें...
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -83,27 +116,78 @@ text-copied = Text copied to clipboard
 blocked-driver = Blocked for your graphics driver version.
 blocked-gfx-card = Blocked for your graphics card because of unresolved driver issues.
 blocked-os-version = Blocked for your operating system version.
+blocked-mismatched-version = रजिस्ट्री और डीएलएल के बिच आपके ग्राफ़िक्स ड्राइवर संस्करण असंतुलन के लिए रोका गया.
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Blocked for your graphics driver version. Try updating your graphics driver to version { $driverVersion } or newer.
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = क्लीयरटाइप पैरामीटर
+compositing = संयोजन
+hardware-h264 = हार्डवेयर एच264 कूटानुवाद
+main-thread-no-omtc = मुख्य सूत्र, कोई OMTC नहीं
+yes = हाँ
+no = नहीं
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
 ## not found.
 
+gpu-description = वर्णन
+gpu-vendor-id = विक्रेता ID
+gpu-device-id = युक्ति ID
+gpu-subsys-id = Subsys ID
+gpu-drivers = ड्राइवर
+gpu-ram = रैम
+gpu-driver-version = ड्राइवर संस्करण
+gpu-driver-date = ड्राइवर दिनांक
+gpu-active = सक्रिय
+blocklisted-bug = ज्ञात समस्याओं के कारण प्रतिबाधित सूची में डाला गया
+# Variables
+# $bugNumber (string) - String of bug number from Bugzilla
+bug-link = { $bugNumber } दोष
+# Variables
+# $failureCode (string) - String that can be searched in the source tree.
+unknown-failure = निरुद्ध सूचीबद्ध किया गया; { $failureCode } असफल कूट
+d3d11layers-crash-guard = डी3डी11 अक्षर योजक
+d3d11video-crash-guard = डी3डी11 वीडियो विसंकेतक
+d3d9video-crash-buard = डी3डी9 वीडियो विसंकेतक
+glcontext-crash-guard = जीएल खोलें
+reset-on-next-restart = अगला पुनः आरंभ फिर सेट करें
+gpu-process-kill-button = GPU प्रक्रिया समाप्त करें
+audio-backend = ऑडियो बैकएण्ड
 min-lib-versions = प्रत्याशित न्यूनतम संस्करण
 loaded-lib-versions = उपयोग में संस्करण
+has-seccomp-bpf = Seccomp - BPF (सिस्टम कॉल छनन )
+has-seccomp-tsync = सेक्केम्प लड़ी तुल्यकालन
+has-user-namespaces = उपयोक्ता नामस्थान
+has-privileged-user-namespaces = अधिकारीत प्रक्रिया के लिए उपयोक्ता नामस्थान
+can-sandbox-content = सामग्री प्रक्रिया सैंडबॉक्सिंग
+can-sandbox-media = मीडिया प्लगइन सैंडबॉक्सिंग
+content-sandbox-level = अंतर्वस्तु प्रक्रिया सैंडबॉक्स स्तर
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
+multi-process-status-0 = उपयोक्ता द्वारा सक्षम
+multi-process-status-1 = तयशुदा द्वारा सक्षम
+multi-process-status-2 = निष्क्रिय
+multi-process-status-4 = सुगम्य उपकरणों द्वारा निष्क्रिय किया गया
+multi-process-status-6 = असमर्थित अवतरण निवेश द्वारा निष्क्रिय किया गया
+multi-process-status-7 = ऐड-ऑन्स द्वारा निष्क्रिय किया गया
+multi-process-status-8 = जबरन अक्षम
+multi-process-status-unknown = अज्ञात अवस्था
+async-pan-zoom = असमन्वित पैन/Zoom
+apz-none = कोई नहीं
+wheel-enabled = पहिया इनपुट सक्षम{ " " }
+touch-enabled = टच इनपुट सक्षम
+drag-enabled = स्क्रोल बार खीचें सक्षम
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
 
+wheel-warning = async पहिया इनपुट कारण असमर्थित pref को अक्षम: { $preferenceKey }
+touch-warning = असमर्थित पसंद: { $preferenceKey } के कारण असिंक टच इनपुट अक्षम कर दिया गया
 
 ## Strings representing the status of the Enterprise Policies engine.
 
