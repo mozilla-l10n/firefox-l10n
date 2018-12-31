@@ -14,6 +14,12 @@ extensions-name = B'i'aj
 extensions-enabled = Tzijon
 extensions-version = Ruwäch
 extensions-id = ID
+security-software-title = Software de seguridad
+security-software-type = Ruwäch
+security-software-name = B'i'aj
+security-software-antivirus = Chapöy chikopil
+security-software-antispyware = Chapöy nachanel
+security-software-firewall = Chupuq'aq'
 features-title = { -brand-short-name } Taq rub'anikil
 features-name = B'i'aj
 features-version = Ruwäch
@@ -40,6 +46,7 @@ app-basics-service-workers = Samajela' pa samaj tz'ib'an kib'i'
 app-basics-profiles = Taq ruwäch b'i'aj
 app-basics-multi-process-support = Rutzuwach k'ïy tajin
 app-basics-process-count = Rutajinik Rupam Ajk'amaya'l
+app-basics-enterprise-policies = Ajk'aymolojel taq Na'ojil
 app-basics-key-google = Google pitz'b'äl
 app-basics-key-mozilla = Mozilla k'ojlib'äl ewan rutzij samaj
 app-basics-safe-mode = Ütz rub'anikil
@@ -102,6 +109,15 @@ media-device-format = B'anikil
 media-device-channels = Taq b'ey
 media-device-rate = Rajil
 media-device-latency = Rub'anikil k'o wi
+intl-title = Elniminïk & Tzalq'omanri'ïl
+intl-app-title = Kinuk'ulem Chokoy
+intl-locales-requested = K'utun taq Tzalq'omanïk
+intl-locales-available = Wachel taq Tzalq'omanïk
+intl-locales-supported = Kitzaq'omanik Cholkema'
+intl-locales-default = Tzalq'omanïk kan k'o wi
+intl-os-title = Samajel taq Q'inoj
+intl-os-prefs-system-locales = Kitzalq'omanik Q'inoj
+intl-regional-prefs = Aj wawe' taq Ajowab'äl
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -197,7 +213,10 @@ glcontext-crash-guard = OpenGL
 reset-on-next-restart = K'a xtitzolïx na ri Rutikirisaxik chik
 gpu-process-kill-button = Tik'isb'ëx ri GPU Tajin
 gpu-device-reset-button = Rutikirisaxik chik ri Rokisaxel Chuq'ub'äl
+uses-tiling = Tokisäx Ch'utiwäch
+content-uses-tiling = Tokisäx Ch'utiwäch (Rupam)
 off-main-thread-paint-enabled = Off Nïm Rub'ey Rachwinäq Tzijon
+off-main-thread-paint-worker-count = Off Main Thread Painting Worker Tajiläx
 audio-backend = Q'ojom Backend
 max-audio-channels = Nima'q taq b'ey
 channel-layout = Ruwachib'enik Ajowan B'ey
@@ -213,6 +232,7 @@ can-sandbox-media = Tzanayib'äl kichin ri taq ruk'amal k'ïy k'oxom
 content-sandbox-level = Rupam b'eyal Sandbox rupalem
 effective-content-sandbox-level = Rupam b'eyal Sandbox ütz rupalem
 sandbox-proc-type-content = rupam
+sandbox-proc-type-file = rupam yakb'äl
 sandbox-proc-type-media-plugin = q'ojom nak'ab'äl
 # Variables
 # $remoteWindows (integer) - Number of remote windows
@@ -232,6 +252,7 @@ wheel-enabled = xuya' q'ij xok ri seton
 touch-enabled = chapoj richin nitzij ri okitz'ib'
 drag-enabled = chupul ruqirirexik rukajtz'ik q'axanel
 keyboard-enabled = tzijon pitz'b'äl
+autoscroll-enabled = tzijon autoscroll
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
@@ -241,3 +262,6 @@ touch-warning = xchuputäj ri rokitz'ib' chapoj meximojri'ïl ruma chi ri pref m
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+policies-inactive = Chupül
+policies-active = Tzijïl
+policies-error = Sachoj
