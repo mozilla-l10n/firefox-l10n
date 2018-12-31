@@ -13,11 +13,22 @@ app-basics-version = نسخه
 app-basics-enabled-plugins = متصل‌شونده‌های فعال
 app-basics-build-config = تنظیمات هنگام ساخت
 app-basics-user-agent = نام نمایندهٔ کاربر
+app-basics-memory-use = استفاده حافظه
 modified-prefs-name = نام
 graphics-title = اطلاعات گرافیکی
+js-title = جاوا اسکریپت
+js-incremental-gc = GC افزایشی
+a11y-title = دسترسی‌پذیری
+a11y-activated = فعال‌ شده
+a11y-force-disabled = دسترسی را متوقف کن
+library-version-title = نسخه‌های کتاب‌خانه
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
+blocked-gfx-card = به خاطر مشکلات حل‌نشده در محرک گرافیکی شما، متوقف شده است.
+# "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
+# there are no good translations, these are only used in about:support
+clear-type-parameters = پارامترهای تایپ واضح
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
