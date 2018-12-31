@@ -111,6 +111,9 @@ These items have the same accesskey but will never be visible at the same time. 
 
 <!ENTITY  listAllTabs.label      "Listar todas as abas">
 
+<!-- LOCALIZATION NOTE (allTabsMenu.searchTabs.label): "Search" is a verb, as
+in "Search through tabs". -->
+
 <!ENTITY tabCmd.label "Nova aba">
 <!ENTITY tabCmd.accesskey "N">
 <!ENTITY tabCmd.commandkey "t">
@@ -923,7 +926,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncToolbarButton.label      "Sync">
 
 <!ENTITY customizeMode.menuAndToolbars.header3 "Arraste seus itens favoritos para sua barra de ferramentas ou ao menu.">
-<!ENTITY customizeMode.restoreDefaults "Restaurar padrões">
+<!ENTITY customizeMode.restoreDefaults "Restaurar padrão">
 <!ENTITY customizeMode.done "Concluído">
 <!ENTITY customizeMode.titlebar "Barra de título">
 <!ENTITY customizeMode.extraDragSpace "Borda de janela">
