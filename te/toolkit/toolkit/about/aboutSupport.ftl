@@ -143,6 +143,13 @@ crashes-time-days =
         [one] { $days } రోజు క్రితం
        *[other] { $days } రోజుల క్రితం
     }
+# Variables
+# $reports (integer) - Number of pending reports
+pending-reports =
+    { $reports ->
+        [one] అన్ని క్రాష్ నివేదికలు (ఇచ్చిక సమయ విస్తృతి నందలి { $reports } వాయిదా క్రాష్)
+       *[other] { " " }అన్ని క్రాష్ నివేదికలు (ఇచ్చిక సమయ విస్తృతి నందలి { $reports } వాయిదా క్రాష్లు)
+    }
 raw-data-copied = క్లిప్‌బోర్డు లోనికి ముడి దత్తాంశం కాపీ అయ్యింది
 text-copied = పాఠం క్లిప్‌బోర్డునకు కాపీతీయబడెను
 
