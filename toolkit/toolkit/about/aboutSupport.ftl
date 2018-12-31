@@ -23,7 +23,14 @@ modified-prefs-name = Innde
 graphics-title = Jaytinooje
 js-title = JavaScript
 js-incremental-gc = Incremental GC
+a11y-title = Weeɓitaare
+a11y-activated = Hurminaama
+a11y-force-disabled = Haɗ Naatgol
 library-version-title = Jame Deftorli
+copy-text-to-clipboard-label = Natto binndol to ɗakkitorde
+copy-raw-data-to-clipboard-label = Natto keɓe kecce to ɗakkitorde
+raw-data-copied = Keɓe kecce nattaama to ɗakkitorde
+text-copied = Natto e ɗakkitorde
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
