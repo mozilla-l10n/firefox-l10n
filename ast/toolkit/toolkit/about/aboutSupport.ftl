@@ -12,9 +12,14 @@ app-basics-name = Nome
 app-basics-version = Versión
 app-basics-build-config = Configuración de compilación
 app-basics-user-agent = Axente d'usuariu
+app-basics-memory-use = Usu de memoria
 modified-prefs-name = Nome
 modified-prefs-value = Valor
 graphics-title = Gráficos
+a11y-title = Accesibilidá
+sandbox-title = Entornu de pruebes
+safe-mode-title = Probar de mou seguru
+restart-in-safe-mode-label = Reaniciar con complementos desactivaos…
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
@@ -26,14 +31,18 @@ clear-type-parameters = Parámetros de ClearType
 ## In some development versions, it's expected for some API keys that they are
 ## not found.
 
+min-lib-versions = Versión mínima esperada
+loaded-lib-versions = Versión n'usu
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
+wheel-enabled = entrada de rueda de mur activada
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
 
+touch-warning = entrada táctil asíncrona desactivada darréu d'una preferencia non almitía: { $preferenceKey }
 
 ## Strings representing the status of the Enterprise Policies engine.
 
