@@ -3,46 +3,192 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 page-title = اطلاعات رفع اشکال
+page-subtitle = این صفحه حاوی اطلاعات فنی است که امکان دارد هنگامی که به دنبال حل مشکلی هستید به شما کمک کند.  اگر به دنبال پاسخی برای پرسش‌های معمول دربارهٔ { -brand-short-name } هستید، از <a data-l10n-name="support-link">وب‌گاه پشتیبانی ما</a> بازدید نمایید.
+crashes-title = گزارش‌های فروپاشی
 crashes-id = شناسهٔ گزارش
+crashes-send-date = ثبت شد
+crashes-all-reports = تمام گزارش‌های فروپاشی
+crashes-no-config = این برنامه برای نمایش گزارش‌های فروپاشی پیکربندی نشده است.
 extensions-title = ضمیمه‌ها
 extensions-name = نام
 extensions-enabled = فعال
 extensions-version = نسخه
+extensions-id = شناسه
+features-title = امکانات { -brand-short-name }
+features-name = نام
+features-version = نسخه
+features-id = شناسه
 app-basics-title = اطلاعات اولیهٔ برنامه
 app-basics-name = نام
 app-basics-version = نسخه
+app-basics-build-id = شناسه ساخت
+app-basics-update-channel = کانال بروزرسانی
+app-basics-update-history = تاریخچه بروزرسانی
+app-basics-show-update-history = نمایش تاریخچه بروزرسانی
+app-basics-profile-dir =
+    { PLATFORM() ->
+        [linux] مسیر مجموعه تنظیمات
+       *[other] پوشهٔ نمایه
+    }
 app-basics-enabled-plugins = متصل‌شونده‌های فعال
 app-basics-build-config = تنظیمات هنگام ساخت
 app-basics-user-agent = نام نمایندهٔ کاربر
+app-basics-os = سیستم عامل
 app-basics-memory-use = استفاده حافظه
+app-basics-performance = کارایی
+app-basics-service-workers = Service Workerهای ثبت شده
+app-basics-profiles = نمایه
+app-basics-multi-process-support = پنجره‌های چندپردازشی
+app-basics-key-google = کلید گوگل
+app-basics-key-mozilla = کلید سرویس مکان‌یابی موزیلا
+app-basics-safe-mode = حالت امن
+show-dir-label =
+    { PLATFORM() ->
+        [macos] نمایش در Finder
+        [windows] باز کردن پوشه
+       *[other] باز کردن پوشه
+    }
+modified-key-prefs-title = ترجیحاتِ تغییر یافتهٔ مهم
 modified-prefs-name = نام
+modified-prefs-value = مقدار
+user-js-title = ترجیحات user.js
+user-js-description = پوشه نمایه‌ی شما شامل یک <a data-l10n-name="user-js-link">پرونده user.js</a> است، که شامل ترجیحاتی است که توسط { -brand-short-name } ساخته نشده است.
+locked-key-prefs-title = ترجیحات مهم قفل شده
+locked-prefs-name = نام
+locked-prefs-value = مقدار
 graphics-title = اطلاعات گرافیکی
+graphics-features-title = ویژگی‌ها
+graphics-diagnostics-title = تشخیص عیب
+graphics-failure-log-title = گزارش خطاهای ثبت شده
+graphics-gpu1-title = پردازنده گرافیکی #1
+graphics-gpu2-title = پردازنده گرافیکی #2
+graphics-decision-log-title = گزارش تصمیم‌ها
+graphics-crash-guards-title = امکانات غیرفعال شده محافظ فروپاشی
+graphics-workarounds-title = راه‌حل
+place-database-title = پایگاه مکان‌ها
+place-database-integrity = یکپارچگی
+place-database-verify-integrity = بررسی یکپارچگی
 js-title = جاوا اسکریپت
 js-incremental-gc = GC افزایشی
 a11y-title = دسترسی‌پذیری
 a11y-activated = فعال‌ شده
 a11y-force-disabled = دسترسی را متوقف کن
 library-version-title = نسخه‌های کتاب‌خانه
+copy-text-to-clipboard-label = رونوشت متن به تخته‌گیره
+copy-raw-data-to-clipboard-label = رونوشت برداشتن از داده‌های خام در تخته‌گیره
+sandbox-title = فضا آزمایش
+sandbox-sys-call-log-title = تماس‌های سیستمی رد شده
+sandbox-sys-call-index = #
+sandbox-sys-call-age = ثانیه قبل
+sandbox-sys-call-pid = PID
+sandbox-sys-call-tid = TID
+sandbox-sys-call-proc-type = نوع فرآیند
+sandbox-sys-call-number = Syscall
+sandbox-sys-call-args = آرگومان‌ها
+safe-mode-title = آزمایش حالت امن
+restart-in-safe-mode-label = راه‌اندازی مجدد، همراه با غیرفعال‌سازی افزونه‌ها…
+# Variables
+# $days (Integer) - Number of days of crashes to log
+report-crash-for-days =
+    { $days ->
+        [one] گزارش فروپاشی‌ها برای { $days } روز گذشته
+       *[other] گزارش فروپاشی‌ها برای { $days } روز گذشته
+    }
+raw-data-copied = رونوشت داده‌های خام به تخته‌گیره ارسال شد
+text-copied = رونوشت متن به تخته‌گیره ارسال شد
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
+blocked-driver = به‌خاطر نسخه راه‌انداز گرافیکی شما متوقف شده است.
 blocked-gfx-card = به خاطر مشکلات حل‌نشده در محرک گرافیکی شما، متوقف شده است.
+blocked-os-version = به خاطر نسخهٔ سیستم عامل شما، متوقف شده است.
+blocked-mismatched-version = مسدود شدن برای درایور نسخه گرافیکی به دلیل عدم هم‌خوانی بین ثبات و DLL
+# Variables
+# $driverVersion - The graphics driver version string
+try-newer-driver = به خاطر نسخهٔ راه‌انداز گرافیکی شما متوقف شده است. سعی کنید راه‌انداز گرافیکی خود را به نسخهٔ { $driverVersion } یا جدیدتر ارتقا دهید.
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = پارامترهای تایپ واضح
+compositing = ترکیب
+hardware-h264 = رمزگشایی سخت‌افزاری H264
+main-thread-no-omtc = رشته اصلی، بدون OMTC
+yes = بله
+no = خیر
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
 ## not found.
 
+found = پیدا شد
+missing = ناپیدا
+gpu-description = توضیحات
+gpu-vendor-id = شناسهٔ تولیدکنندهٔ سخت‌افزار گرافیکی
+gpu-device-id = شناسهٔ سخت‌افزار گرافیکی
+gpu-subsys-id = شناسه Subsys
+gpu-drivers = درایور‌ها
+gpu-ram = رم
+gpu-driver-version = نسخهٔ نرم‌افزار گرداننده
+gpu-driver-date = تاریخ تولید نرم‌افزار گرداننده
+gpu-active = فعال
+webgl1-wsiinfo = اطلاعات راه‌انداز WebGL 1 WSI
+webgl1-renderer = WebGL 1 Driver Renderer
+webgl1-version = نسخه راه‌انداز WebGL 1
+webgl1-driver-extensions = افزونه راه‌انداز WebGL 1
+webgl1-extensions = افزونه‌های WebGL 1
+webgl2-wsiinfo = اطلاعات WSI راه‌انداز WebGL 2
+webgl2-renderer = WebGL 2 Driver Renderer
+webgl2-version = نسخه راه‌انداز WebGL 2
+webgl2-driver-extensions = افزونه راه‌انداز WebGL 2
+webgl2-extensions = افزونه‌های WebGL 2
+blocklisted-bug = مسدود شده به دلیل مسائل شناخته نشده
+# Variables
+# $bugNumber (string) - String of bug number from Bugzilla
+bug-link = باگ{ $bugNumber }
+# Variables
+# $failureCode (string) - String that can be searched in the source tree.
+unknown-failure = مسدود شده،‌ کد خطا { $failureCode }
+d3d11layers-crash-guard = حروفچین D3D11
+d3d11video-crash-guard = رمزگشا فیلم D3D11
+d3d9video-crash-buard = رمزگشا فیلم D3D9
+glcontext-crash-guard = OpenGL
+reset-on-next-restart = تنظیم مجدد بعد از راه اندازی مجدد
+gpu-process-kill-button = خاتمه پروسهٔ GPU
+audio-backend = پسانه صوتی
+min-lib-versions = حداقل نسخهٔ لازم
+loaded-lib-versions = نسخهٔ جاری
+has-seccomp-bpf = Seccomp-BPF (پالایش فراخوانی‌های سیستم)
+has-seccomp-tsync = به‌هنگام‌سازی تردهای Seccomp
+has-user-namespaces = زیرمجموعه کاربر
+has-privileged-user-namespaces = زیرمجموعه کاربر
+can-sandbox-content = فضا آزمایشی پردازش محتوا
+can-sandbox-media = فضا آزمایشی افزونه‌ی رسانه
+content-sandbox-level = سطح آزمایش پردازش محتوا
+effective-content-sandbox-level = سطح آزمایشیِ پردازشِ محتوای فعال
+sandbox-proc-type-content = محتوا
+sandbox-proc-type-media-plugin = متصل‌شوندهٔ رسانه
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
+multi-process-status-0 = فعال‌ ‌شده توسط کاربر
+multi-process-status-1 = فعال شده توسط پیش فرض
+multi-process-status-2 = غیرفعال
+multi-process-status-4 = عیرفعال شده توسط ابزار دسترسی‌پذیری
+multi-process-status-6 = غیرفعال توسط ورودی متن خارج از پشتیبانی
+multi-process-status-7 = غیرفعال شده توسط افزونه
+multi-process-status-8 = در هر شرایطی غیرفعال شود
+multi-process-status-unknown = وضعیت نامشخص
+async-pan-zoom = پان/بزرگنمایی ناهمگام
+apz-none = هیچ‌کدام
+wheel-enabled = ورودی چرخ فعال شد
+touch-enabled = ورودی لمسی فعال شد
+drag-enabled = کشیدن اسکرول‌بار فعال شد
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
 
+wheel-warning = ورودی همگام چرخ به دلیل عدم پشتیبانی از ترجیحات غیرفعال شد: { $preferenceKey }
+touch-warning = ورودی همگام لمسی به دلیل عدم پشتیبانی از ترجیحات غیرفعال شد: { $preferenceKey }
 
 ## Strings representing the status of the Enterprise Policies engine.
 
