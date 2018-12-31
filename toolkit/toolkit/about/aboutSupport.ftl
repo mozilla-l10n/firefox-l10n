@@ -137,7 +137,7 @@ crashes-time-minutes =
         [one] منذ دقيقة
         [two] منذ دقيقتين
         [few] منذ { $minutes } دقائق
-        [many] { " " }منذ { $minutes } دقيقة
+        [many] منذ { $minutes } دقيقة
        *[other] منذ { $minutes } دقيقة
     }
 # Variables
@@ -148,7 +148,7 @@ crashes-time-hours =
         [one] منذ ساعة
         [two] منذ ساعتين
         [few] منذ { $hours } ساعات
-        [many] { " " }منذ { $hours } ساعة
+        [many] منذ { $hours } ساعة
        *[other] منذ { $hours } ساعة
     }
 # Variables
@@ -159,7 +159,7 @@ crashes-time-days =
         [one] منذ يوم
         [two] منذ يومين
         [few] منذ { $days } أيام
-        [many] { " " }منذ { $days } يومًا
+        [many] منذ { $days } يومًا
        *[other] منذ { $days } يوم
     }
 # Variables
