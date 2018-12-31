@@ -36,6 +36,8 @@ a11y-activated = مفعّلة
 a11y-force-disabled = امنع الإتاحة
 a11y-instantiator = بادئ الإتاحة
 library-version-title = إصدارات المكتبات
+copy-text-to-clipboard-label = انسخ النص إلى الحافظة
+copy-raw-data-to-clipboard-label = انسخ البيانات الخام إلى الحافظة
 intl-title = التدويل و التوطين
 intl-app-title = إعدادات التطبيق
 intl-locales-requested = المحليات المطلوبة
@@ -56,6 +58,8 @@ report-crash-for-days =
         [many] بلاغات انهيار آخر { $days } يومًا
        *[other] بلاغات انهيار آخر { $days } يوم
     }
+raw-data-copied = نُسخت البيانات الخام إلى الحافظة
+text-copied = نُسخ النص إلى الحافظة
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
