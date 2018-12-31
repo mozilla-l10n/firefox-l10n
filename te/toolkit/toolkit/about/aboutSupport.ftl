@@ -11,6 +11,8 @@ extensions-title = పొడిగింపులు
 extensions-name = పేరు
 app-basics-title = అనువర్తనం ప్రాధమికాలు
 app-basics-name = పేరు
+app-basics-update-history = తాజాకరణ చరిత్ర
+app-basics-show-update-history = తాజాకరణ చరిత్రను చూపించు
 app-basics-profile-dir =
     { PLATFORM() ->
         [linux] ప్రొఫైల్ డైరెక్టరీ
