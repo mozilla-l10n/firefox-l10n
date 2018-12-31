@@ -14,6 +14,9 @@ extensions-name = نام
 extensions-enabled = فعال
 extensions-version = نسخه
 extensions-id = شناسه
+security-software-antivirus = آنتی ویروس
+security-software-antispyware = ضدجاسوسی
+security-software-firewall = دیوارآتشین
 features-title = امکانات { -brand-short-name }
 features-name = نام
 features-version = نسخه
@@ -40,6 +43,7 @@ app-basics-service-workers = Service Workerهای ثبت شده
 app-basics-profiles = نمایه
 app-basics-multi-process-support = پنجره‌های چندپردازشی
 app-basics-process-count = پروسه‌های محتوای وب
+app-basics-enterprise-policies = خط و مش های سازمانی
 app-basics-key-google = کلید گوگل
 app-basics-key-mozilla = کلید سرویس مکان‌یابی موزیلا
 app-basics-safe-mode = حالت امن
@@ -74,6 +78,7 @@ js-incremental-gc = GC افزایشی
 a11y-title = دسترسی‌پذیری
 a11y-activated = فعال‌ شده
 a11y-force-disabled = دسترسی را متوقف کن
+a11y-handler-used = یک دستیار قابل دسترسی استفاده شده است
 a11y-instantiator = منطبق کنندهٔ دسترسی‌پذیری
 library-version-title = نسخه‌های کتاب‌خانه
 copy-text-to-clipboard-label = رونوشت متن به تخته‌گیره
@@ -101,6 +106,15 @@ media-device-format = قالب
 media-device-channels = کانال‌ها
 media-device-rate = ارزیابی
 media-device-latency = تاخیر
+intl-title = بین المللی سازی& محلی سازی
+intl-app-title = تنظیمات برنامه
+intl-locales-requested = مکان‌های درخواست شده
+intl-locales-available = مکان‌های در دسترس
+intl-locales-supported = برنامه های محلی
+intl-locales-default = مکان‌های پیش فرض
+intl-os-title = سیستم عامل
+intl-os-prefs-system-locales = سیستم‌های محلی
+intl-regional-prefs = ترجیحات منطقه‌ای
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -195,7 +209,14 @@ d3d9video-crash-buard = رمزگشا فیلم D3D9
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = تنظیم مجدد بعد از راه اندازی مجدد
 gpu-process-kill-button = خاتمه پروسهٔ GPU
+gpu-device-reset-button = ماشه راه‌ اندازی مجدد دستگاه
+uses-tiling = استفاده از Tiling
+content-uses-tiling = استفاده از Tiling(محتوا)
+off-main-thread-paint-enabled = Off Main Thread Painting فعال شد
 audio-backend = پسانه صوتی
+max-audio-channels = بیشترین میزان کانال‌ها
+channel-layout = لایه کانال ترجیح داده شده
+sample-rate = نرخ مثال ترجیح داده شده
 min-lib-versions = حداقل نسخهٔ لازم
 loaded-lib-versions = نسخهٔ جاری
 has-seccomp-bpf = Seccomp-BPF (پالایش فراخوانی‌های سیستم)
@@ -207,6 +228,7 @@ can-sandbox-media = فضا آزمایشی افزونه‌ی رسانه
 content-sandbox-level = سطح آزمایش پردازش محتوا
 effective-content-sandbox-level = سطح آزمایشیِ پردازشِ محتوای فعال
 sandbox-proc-type-content = محتوا
+sandbox-proc-type-file = محتوا پرونده
 sandbox-proc-type-media-plugin = متصل‌شوندهٔ رسانه
 # Variables
 # $remoteWindows (integer) - Number of remote windows
@@ -225,6 +247,8 @@ apz-none = هیچ‌کدام
 wheel-enabled = ورودی چرخ فعال شد
 touch-enabled = ورودی لمسی فعال شد
 drag-enabled = کشیدن اسکرول‌بار فعال شد
+keyboard-enabled = صفحه‌ کلید فعال شده است
+autoscroll-enabled = اسکرول کردن خودکار فعال شده است
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
