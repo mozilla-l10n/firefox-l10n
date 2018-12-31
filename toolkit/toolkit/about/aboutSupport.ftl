@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 page-title = Imininingwane yokuxazululwa kwezinkinga
+page-subtitle = Leli khasi liqukethe ulwazi olunzima olungahle lukusize umauzama ukuxazulula inkinga. Uma ufuna izimpendulo zemibuzo ejwayelekile mayelana ne-{ -brand-short-name }, hlola i-<a data-l10n-name="support-link">support web site</a>.
 extensions-title = Izithasiselo
 extensions-name = Igama
 extensions-enabled = Kwenziwe kwasebenza
@@ -21,6 +22,7 @@ app-basics-enabled-plugins = Yenza kusebenze okuxhunyaniswayo
 app-basics-build-config = Ukuhlelwa kokulungisa
 app-basics-user-agent = Ummeli womsebenzisi
 app-basics-memory-use = Ukusetshenziswa kwememori
+app-basics-safe-mode = Isimo esiphephile
 modified-key-prefs-title = Izintandokazi eziguquliwe ezibalulekile
 modified-prefs-name = Igama
 user-js-title = Izintandokazi zika user.js
@@ -53,6 +55,10 @@ clear-type-parameters = Izinhlaka ze-ClearType
 ## In some development versions, it's expected for some API keys that they are
 ## not found.
 
+gpu-vendor-id = Ubunikazi bomthengisi
+gpu-device-id = Ubunikazi besisetshenziswa
+gpu-driver-version = Inguqulo yesihambisi
+gpu-driver-date = Usuku lwesihambisi
 min-lib-versions = Inguqulo encane elindelekile
 loaded-lib-versions = Inguqulo iyasebenza
 # Variables
