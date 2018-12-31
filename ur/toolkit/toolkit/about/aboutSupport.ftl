@@ -20,6 +20,8 @@ app-basics-user-agent = صارف ایجنٹ
 app-basics-memory-use = { " " }میموری استعمال کریں
 modified-key-prefs-title = اہم ترمیمی ترجیحات
 modified-prefs-name = نام
+user-js-title = user.js ترجیحات
+user-js-description = آپ کے پروفائل میں ایک<a data-l10n-name="user-js-link"> user.js مسل</a> ہے، جس میں وہ ترجیحات شامپ ہیں جو { -brand-short-name } نے نہیں بنائیں تھیں۔
 graphics-title = گرافکس
 js-title = جاوا سکرپٹ
 js-incremental-gc = Incremental GC
@@ -27,6 +29,10 @@ a11y-title = رسائی پزیری
 a11y-activated = عمل میں لائیں
 a11y-force-disabled = رسائی پزیری روکیں
 library-version-title = لائبریری ورژن
+copy-text-to-clipboard-label = متن کو تختہ تراشہ پر نقل کریں
+copy-raw-data-to-clipboard-label = تختہ تراشہ پر خام کوائف نقل کریں
+raw-data-copied = خام کوائف تختہ تراشہ پر نقل ہو گئے
+text-copied = متن نقل شدہ پر نقل ہو گیا
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
@@ -36,11 +42,16 @@ blocked-os-version = اپکے اپریٹنگ سسٹم کے لےء بلاکڈ ہ�
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = آپ کے گرافکس ڈرائیور ورژن کے لئے بلاک ہے اپنے گرافکس ڈرائیور کو ورژن { $driverVersion } یا جدید تر ورژن میں اپڈیٹ کرنے کی کوشیش کرییں۔
+# "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
+# there are no good translations, these are only used in about:support
+clear-type-parameters = ClearType پیرامیٹر
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
 ## not found.
 
+min-lib-versions = متوقع کم سے کم ورژن
+loaded-lib-versions = استعمال میں ورژن
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
