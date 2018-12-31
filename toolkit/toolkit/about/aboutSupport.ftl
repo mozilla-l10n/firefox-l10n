@@ -7,14 +7,20 @@ extensions-title = Leudachain
 extensions-name = Ainm
 extensions-enabled = Air a chur an comas
 extensions-version = Tionndadh
+extensions-id = ID
 app-basics-name = Ainm
 app-basics-version = Tionndadh
 app-basics-enabled-plugins = Plugain a tha an comas
 app-basics-build-config = Rèiteachadh na togalach
 app-basics-user-agent = UserAgent
+app-basics-memory-use = Cleachdadh na cuimhne
+modified-key-prefs-title = Roghainnean cudromach a chaidh atharrachadh
 modified-prefs-name = Ainm
 modified-prefs-value = Luach
 graphics-title = Grafaigean
+js-title = JavaScript
+js-incremental-gc = GC ceum air cheum
+library-version-title = Tionndaidhean leabharlainn
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
@@ -32,6 +38,8 @@ clear-type-parameters = Paramadairean ClearType
 ## In some development versions, it's expected for some API keys that they are
 ## not found.
 
+min-lib-versions = An tionndadh as lugha ris a tha dùil
+loaded-lib-versions = An tionndadh a tha 'ga chleachdadh
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
