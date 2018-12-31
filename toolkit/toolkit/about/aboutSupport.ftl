@@ -46,6 +46,7 @@ app-basics-service-workers = Εγγεγραμμένα Service Workers
 app-basics-profiles = Προφίλ
 app-basics-multi-process-support = Παράθυρα πολυδιεργασιών
 app-basics-process-count = Διεργασίες διαδικτυακού περιεχομένου
+app-basics-enterprise-policies = Πολιτικές επιχειρήσεων
 app-basics-key-google = Κλειδί Google
 app-basics-key-mozilla = Κλειδί υπηρεσίας τοποθεσίας Mozilla
 app-basics-safe-mode = Ασφαλής λειτουργία
@@ -104,6 +105,9 @@ media-device-preferred = Προτίμηση
 media-device-format = Τύπος
 media-device-latency = Καθυστέρηση
 intl-app-title = Ρυθμίσεις εφαρμογής
+intl-locales-requested = Ζητούμενες γλώσσες
+intl-locales-available = Διαθέσιμες γλώσσες
+intl-locales-supported = Γλώσσες εφαρμογής
 intl-locales-default = Προεπιλεγμένη γλώσσα
 intl-os-title = Λειτουργικό σύστημα
 intl-os-prefs-system-locales = Γλώσσες συστήματος
@@ -136,6 +140,13 @@ crashes-time-days =
         [one] { $days } μέρα πριν
        *[other] { $days } ημέρες πριν
     }
+# Variables
+# $reports (integer) - Number of pending reports
+pending-reports =
+    { $reports ->
+        [one] Όλες οι αναφορές κατάρρευσης (συμπεριλαμβανομένης { $reports } κατάρρευσης σε αναμονή στο δεδομένο χρονικό διάστημα)
+       *[other] Όλες οι αναφορές κατάρρευσης (συμπεριλαμβανομένων { $reports } καταρρεύσεων σε αναμονή στο δεδομένο χρονικό διάστημα)
+    }
 raw-data-copied = Αντιγράφτηκαν δεδομένα Raw στο πρόχειρο
 text-copied = Αντιγράφτηκε κείμενο στο πρόχειρο
 
@@ -144,6 +155,7 @@ text-copied = Αντιγράφτηκε κείμενο στο πρόχειρο
 blocked-driver = Δεν υποστηρίζεται από την έκδοση του οδηγού της κάρτας γραφικών σας.
 blocked-gfx-card = Δεν υποστηρίζεται από τη κάρτα γραφικών σας, λόγω ανεπίλυτων προβλημάτων του οδηγού γραφικών.
 blocked-os-version = Δεν υποστηρίζεται από την έκδοση του λειτουργικού σας συστήματος.
+blocked-mismatched-version = Μπλοκαρισμένο λόγω ασυμφωνίας της έκδοσης οδηγού γραφικών μεταξύ μητρώου και DLL.
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Δεν υποστηρίζεται από τον οδηγό της κάρτας γραφικών σας. Αναβαθμίστε τον οδηγό γραφικών σε έκδοση { $driverVersion } ή νεότερη.
@@ -167,11 +179,17 @@ gpu-subsys-id = ID υποσυστήματος
 gpu-drivers = Προγράμματα οδήγησης
 gpu-ram = RAM
 gpu-driver-version = Έκδοση προγράμματος οδήγησης
+gpu-driver-date = Ημερομηνία οδηγού
 gpu-active = Ενεργό
 webgl2-renderer = Απόδοση WebGL2
+blocklisted-bug = Μπλοκαρίστηκε λόγω γνωστών θεμάτων
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = σφάλμα { $bugNumber }
+# Variables
+# $failureCode (string) - String that can be searched in the source tree.
+unknown-failure = Μπλοκαρίστηκε, κωδικός αποτυχίας { $failureCode }
+d3d11layers-crash-guard = Συνθέτης D3D11
 d3d11video-crash-guard = Αποκωδικοποιητής βίντεο D3D11
 d3d9video-crash-buard = Αποκωδικοποιητής βίντεο D3D9
 glcontext-crash-guard = OpenGL
@@ -183,6 +201,8 @@ channel-layout = Επιθυμητή διάταξη καναλιών
 sample-rate = Επιθυμητός ρυθμός δειγματοληψίας
 min-lib-versions = Αναμενόμενη ελάχιστη έκδοση
 loaded-lib-versions = Έκδοση σε χρήση
+has-seccomp-bpf = Seccomp-BPF (Φιλτράρισμα κλήσεων συστήματος)
+has-seccomp-tsync = Συγχρονισμός νήματος Seccomp
 can-sandbox-media = Sandboxing αρθρώματος πολυμέσων
 effective-content-sandbox-level = Αποτελεσματικό επίπεδο επεξεργασίας περιεχομένου sandbox
 sandbox-proc-type-media-plugin = άρθρωμα πολυμέσων
@@ -193,15 +213,23 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 multi-process-status-0 = Ενεργοποιήθηκε από το χρήστη
 multi-process-status-1 = Ενεργό από προεπιλογή
 multi-process-status-2 = Ανενεργό
+multi-process-status-4 = Απενεργοποιημένο από τα εργαλεία προσβασιμότητας
+multi-process-status-6 = Απενεργοποιημένο από μη υποστηριζόμενη είσοδο κειµένου
 multi-process-status-7 = Απενεργοποιήθηκε από πρόσθετα
 multi-process-status-unknown = Άγνωστη κατάσταση
+async-pan-zoom = Ασύγχρονο Pan/Zoom
 apz-none = κανένα
+wheel-enabled = είσοδος τροχού ενεργοποιημένη
+touch-enabled = είσοδος αφής ενεργοποιημένη
+drag-enabled = σύρσιμο γραμμής κύλισης ενεργοποιημένο
 keyboard-enabled = πληκτρολόγιο ενεργό
 autoscroll-enabled = αυτόματη κύλιση ενεργή
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
 
+wheel-warning = ασύγχρονη είσοδος τροχού απενεργοποιημένη λόγω μη υποστηριζόμενης προτίμησης: { $preferenceKey }
+touch-warning = ασύγχρονη είσοδος αφής απενεργοποιημένη λόγω μη υποστηριζόμενης προτίμησης: { $preferenceKey }
 
 ## Strings representing the status of the Enterprise Policies engine.
 
