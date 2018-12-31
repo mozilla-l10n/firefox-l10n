@@ -56,6 +56,7 @@ user-js-description = Your profile folder contains a <a data-l10n-name="user-js-
 locked-key-prefs-title = Important Locked Preferences
 locked-prefs-name = Name
 locked-prefs-value = Value
+graphics-title = Graphics
 graphics-features-title = Features
 graphics-diagnostics-title = Diagnostics
 graphics-failure-log-title = Failure Log
