@@ -8,10 +8,12 @@ extensions-version = Versiune
 extensions-id = ID
 app-basics-name = Nume
 app-basics-version = Versiune
+app-basics-update-history = Istoricul actualizărilor
 app-basics-memory-use = Utilizare memorie
 modified-key-prefs-title = Preferințe importante modificate
 modified-prefs-name = Nume
 user-js-title = Preferințe user.js
+user-js-description = Dosarul profilului conține un <a data-l10n-name="user-js-link">fișier user.js</a>, care include preferințe ce nu au fost create de { -brand-short-name }.
 graphics-title = Grafică
 js-title = JavaScript
 js-incremental-gc = GC incremental
