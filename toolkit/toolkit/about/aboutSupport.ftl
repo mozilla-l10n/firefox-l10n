@@ -9,14 +9,36 @@ extensions-version = ಆವೃತ್ತಿ
 app-basics-title = ಅನ್ವಯದ ಮೂಲತತ್ವಗಳು
 app-basics-name = ಹೆಸರು
 app-basics-version = ಆವೃತ್ತಿ
+app-basics-profile-dir =
+    { PLATFORM() ->
+        [linux] ಪ್ರೊಫೈಲ್ ಕೋಶ
+       *[other] ಪ್ರೊಫೈಲ್ ಕಡತಕೋಶ
+    }
 app-basics-enabled-plugins = ಪ್ಲಗ್‌ಇನ್‌ಗಳನ್ನು ಶಕ್ತಗೊಳಿಸು
 app-basics-build-config = ನಿರ್ಮಾಣದ ಸಂರಚನೆ
 app-basics-user-agent = ಬಳಕೆದಾರ ಮಧ್ಯವರ್ತಿ
+app-basics-memory-use = ಮೆಮೊರಿಯ ಬಳಕೆ
+modified-key-prefs-title = ಪ್ರಮುಖ ಮಾರ್ಪಡಿಕೆ ಮಾಡಲಾದ ಆದ್ಯತೆಗಳು
 modified-prefs-name = ಹೆಸರು
 graphics-title = ಗ್ರಾಫಿಕ್ಸ್‍
+js-title = ಜಾವಾಸ್ಕ್ರಿಪ್ಟ್‍
+js-incremental-gc = ಏರಿಕೆಯ GC
+a11y-title = ನಿಲುಕಣೆ
+a11y-activated = ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ
+a11y-force-disabled = ನಿಲುಕಣೆಯನ್ನು ನಿಯಂತ್ರಿಸು
+library-version-title = ಲೈಬ್ರರಿ ಆವೃತ್ತಿಗಳು
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
+blocked-driver = ನಿಮ್ಮ ಗ್ರಾಫಿಕ್ಸ್ ಚಾಲಕದ ಆವೃತ್ತಿಗಾಗಿ ನಿರ್ಬಂಧಿಸಲಾಗಿದೆ.
+blocked-gfx-card = ಪರಿಹರಿಸಲಾಗದೆ ಇರುವ ಚಾಲಕ ಸಮಸ್ಯೆಗಳ ಕಾರಣದಿಂದಾಗಿ ನಿಮ್ಮ ಗ್ರಾಫಿಕ್ಸ್ ಚಾಲಕದ ಆವೃತ್ತಿಗೆ ನಿರ್ಬಂಧಿಸಲಾಗಿದೆ.
+blocked-os-version = ನಿಮ್ಮ ಕಾರ್ಯವ್ಯವಸ್ಥೆಯ ಆವೃತ್ತಿಗಾಗಿ ನಿರ್ಬಂಧಿಸಲಾಗಿದೆ.
+# Variables
+# $driverVersion - The graphics driver version string
+try-newer-driver = ನಿಮ್ಮ ಗ್ರಾಫಿಕ್ಸ್ ಚಾಲಕದ ಆವೃತ್ತಿಗಾಗಿ ನಿರ್ಬಂಧಿಸಲಾಗಿದೆ. ನಿಮ್ಮ ಗ್ರಾಫಿಕ್ಸ್ ಚಾಲಕವನ್ನು ಆವೃತ್ತಿ { $driverVersion } ಅಥವ ಹೊಸ ಆವೃತ್ತಿಗೆ ನವೀಕರಿಸಿ ಪ್ರಯತ್ನಿಸಿ.
+# "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
+# there are no good translations, these are only used in about:support
+clear-type-parameters = ClearType ನಿಯತಾಂಕಗಳು
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
