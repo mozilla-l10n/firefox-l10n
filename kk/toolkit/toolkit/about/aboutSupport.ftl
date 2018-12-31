@@ -14,6 +14,12 @@ extensions-name = Аты
 extensions-enabled = Іске қосулы
 extensions-version = Нұсқасы
 extensions-id = ID
+security-software-title = Қауіпсіздік БҚ-сы
+security-software-type = Түрі
+security-software-name = Аты
+security-software-antivirus = Антивирус
+security-software-antispyware = Антитыңшы
+security-software-firewall = Желіаралық экран
 features-title = { -brand-short-name } мүмкіндіктері
 features-name = Аты
 features-version = Нұсқасы
@@ -40,6 +46,7 @@ app-basics-service-workers = Тіркелген жұмыс үрдістері
 app-basics-profiles = Профильдер
 app-basics-multi-process-support = Мультипроцесс терезелері
 app-basics-process-count = Веб құрамасы процестері
+app-basics-enterprise-policies = Кәсіпоорындық саясаттар
 app-basics-key-google = Google кілті
 app-basics-key-mozilla = Mozilla орналасулар қызметінің кілті
 app-basics-safe-mode = Қауіпсіз режимі
@@ -102,6 +109,15 @@ media-device-format = Пішімі
 media-device-channels = Арналар
 media-device-rate = Жиілігі
 media-device-latency = Кідірісі
+intl-title = Интернационалдандыру және локализация
+intl-app-title = Қолданба баптаулары
+intl-locales-requested = Сұралған локальдер
+intl-locales-available = Қолжетерлік локальдер
+intl-locales-supported = Қолданба локальдері
+intl-locales-default = Бастапқы локаль
+intl-os-title = Операциялық жүйе
+intl-os-prefs-system-locales = Жүйелік локальдер
+intl-regional-prefs = Аймақтық баптаулар
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -145,6 +161,7 @@ text-copied = Мәтінді алмасу буферіне көшірілген
 blocked-driver = Графикалық драйверіңіз нұсқасымен блокталған.
 blocked-gfx-card = Шешілмеген драйвер мәселелері нәтижесінде графикалық картаңызбен блокталған.
 blocked-os-version = Операциялық жүйесіңіз нұсқасымен блокталған.
+blocked-mismatched-version = Графикалық драйверіңіздің нұсқасы реестрде және DLL ішінде сәйкес болмауы салдарынан блокталған.
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Графикалық драйверіңіз нұсқасымен блокталған. Драйверіңізді { $driverVersion } не жаңалау нұсқасына дейін жаңартыңыз.
@@ -196,7 +213,10 @@ glcontext-crash-guard = OpenGL
 reset-on-next-restart = Келесі іске қосылған кезде тастау
 gpu-process-kill-button = GPU процесін тоқтату
 gpu-device-reset-button = Құрылғыны тастауды орындау
+uses-tiling = Тайлингті қолданады
+content-uses-tiling = Тайлинг қолданады (мазмұны)
 off-main-thread-paint-enabled = Басты емес ағында элементтерді суреттеу іске қосылған
+off-main-thread-paint-worker-count = Негізгі ағыннан тыс салатын воркер саны
 audio-backend = Аудио файлдарын ойнату бағдарламасы
 max-audio-channels = Макс. арналар
 channel-layout = Таңдамалы арналар жаймасы
@@ -212,6 +232,7 @@ can-sandbox-media = Медиа плагиндерін құмсалғышта о�
 content-sandbox-level = Құрамасы бар үрдістер үшін шектеулер деңгейі
 effective-content-sandbox-level = Құрамасы бар үрдістер үшін эффективті шектеулер деңгейі
 sandbox-proc-type-content = құрамасы
+sandbox-proc-type-file = файл құрамасы
 sandbox-proc-type-media-plugin = медиа плагині
 # Variables
 # $remoteWindows (integer) - Number of remote windows
@@ -220,6 +241,7 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 multi-process-status-0 = Пайдаланушымен іске қосылған
 multi-process-status-1 = Үнсіз келісім бойынша іске қосылған
 multi-process-status-2 = Сөндірулі
+multi-process-status-4 = Қолжетерлілік құралдарымен сөндірілген
 multi-process-status-6 = Қолдауы жоқ мәтіндік енгізу салдарынан сөндірілген
 multi-process-status-7 = Қосымшалармен сөндірілген
 multi-process-status-8 = Мәжбүрлі түрде сөндірілген
@@ -230,6 +252,7 @@ wheel-enabled = тышқан дөңгелегімен енгізу іске қо
 touch-enabled = сенсорлық енгізу іске қосылған
 drag-enabled = айналдыру жолағының ұстап тарту іске қосылған
 keyboard-enabled = пернетақта іске қосылған
+autoscroll-enabled = автоайналдыру іске қосылған
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
@@ -239,3 +262,6 @@ touch-warning = сенсорлық асинхронды енгізу қолда�
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+policies-inactive = Белсенді емес
+policies-active = Белсенді
+policies-error = Қате
