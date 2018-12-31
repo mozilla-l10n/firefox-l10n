@@ -12,9 +12,16 @@ extensions-title = এক্সটেনশন
 extensions-name = নাম
 extensions-enabled = সক্রিয়
 extensions-version = সংস্করণ
+extensions-id = ID
+features-title = { -brand-short-name } বৈশিষ্ট্যসমূহ
+features-name = নাম
+features-version = সংস্করণ
+features-id = ID
 app-basics-title = অ্যাপ্লিকেশনের প্রাথমিক তথ্য
 app-basics-name = নাম
 app-basics-version = সংস্করণ
+app-basics-build-id = বিল্ড ID
+app-basics-update-channel = হালনাগাদ চ্যানেলে
 app-basics-update-history = হালনাগাদের ইতিহাস
 app-basics-show-update-history = হালনাগাদের ইতিহাস প্রদর্শন
 app-basics-profile-dir =
@@ -25,11 +32,39 @@ app-basics-profile-dir =
 app-basics-enabled-plugins = সক্রিয় প্লাগইন
 app-basics-build-config = বিল্ড কনফিগারেশন
 app-basics-user-agent = ব্যবহারকারী এজেন্ট
+app-basics-os = OS
 app-basics-memory-use = মেমোরির ব্যবহার
+app-basics-performance = কার্যকারিতা
+app-basics-service-workers = নিবন্ধিত সার্ভিস কর্মীরা
+app-basics-profiles = প্রোফাইল
+app-basics-multi-process-support = মাল্টিপ্রসেস উইন্ডো
+app-basics-key-google = Google Key
+app-basics-key-mozilla = Mozilla লোকেশন সার্ভিস Key
+app-basics-safe-mode = সেফ মোড
+show-dir-label =
+    { PLATFORM() ->
+        [macos] ফাইন্ডারে প্রদর্শন
+        [windows] ফোল্ডার খুলুন
+       *[other] ডিরেক্টরি খুলুন
+    }
 modified-prefs-name = নাম
+modified-prefs-value = মান
 user-js-title = user.js পছন্দসমূহ
 user-js-description = আপনার প্রোফাইল ফোল্ডারে একটি <a data-l10n-name="user-js-link"> user.js ফাইল রয়েছে</a>, যাতে { -brand-short-name } কর্তৃক তৈরিকৃত নয় এমন পছন্দসমূহ অর্ন্তভূক্ত।
+locked-prefs-name = নাম
+locked-prefs-value = মান
 graphics-title = গ্রাফিক্স
+graphics-features-title = বৈশিষ্ট্যসমূহ
+graphics-diagnostics-title = সমস্যা নির্নয়ক
+graphics-failure-log-title = ব্যর্থ হওয়ার লগ
+graphics-gpu1-title = GPU #1
+graphics-gpu2-title = GPU #2
+graphics-decision-log-title = সিদ্ধান্ত লগ
+graphics-crash-guards-title = Crash Guard নিষ্ক্রিয় বৈশিষ্ট্য
+graphics-workarounds-title = কাজ করা হবে
+place-database-title = স্থান ডাটাবেজ
+place-database-integrity = বিশুদ্ধতা
+place-database-verify-integrity = বিশুদ্ধতা যাচাই
 js-title = জাভাস্ক্রিপ্ট
 js-incremental-gc = Incremental GC
 a11y-activated = সক্রিয়
@@ -37,6 +72,17 @@ a11y-force-disabled = অভিগম্যতা প্রতিরোধ
 library-version-title = লাইব্রেরী সংস্করণসমূহ
 copy-text-to-clipboard-label = ক্লিপবোর্ডে সব অনুলিপি করুন
 copy-raw-data-to-clipboard-label = ক্লিপবোর্ডে অবিন্যস্ত ডাটা অনুলিপি করুন
+sandbox-title = স্যান্ডবক্স
+sandbox-sys-call-log-title = প্রত্যাখ্যাত সিস্টেম কল
+sandbox-sys-call-index = #
+sandbox-sys-call-age = সেকেন্ড আগে
+sandbox-sys-call-pid = PID
+sandbox-sys-call-tid = TID
+sandbox-sys-call-proc-type = প্রক্রিয়া প্রকার
+sandbox-sys-call-number = Syscall
+sandbox-sys-call-args = আর্গুমেন্ট
+safe-mode-title = সুরক্ষিত মোডে চেষ্টা করুন
+restart-in-safe-mode-label = অ্যাড-অন নিস্ক্রিয় করে রিস্টার্ট করুন…
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -80,24 +126,88 @@ text-copied = টেক্সট ক্লিপবোর্ডে অনুল�
 blocked-driver = আপনার গ্রাফিক্স ড্রাইভার সংস্করণের জন্য ব্লক করুন।
 blocked-gfx-card = অমিমাংসিত ড্রাইভার বিষয়ের কারণে আপনার গ্রফিক্সকার্ড ব্লক করা হয়েছে।
 blocked-os-version = আপনার অপারেটিং সিস্টেম সংস্করণের জন্য ব্লক করা হয়েছে।
+blocked-mismatched-version = রেজিস্ট্রি এবং DLL এর মধ্যে আপনার গ্রাফিক্স ড্রাইভারের সংস্করণ মেলেনি তাই অবরুদ্ধ হয়েছে।
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType স্থিতিমাপসমূহ
+compositing = কম্পোজিটিং
+hardware-h264 = H264 হার্ডওয়্যার ডিকোডিং
+main-thread-no-omtc = মূল থ্রেড, OMTC নাই
+yes = হ্যাঁ
+no = না
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
 ## not found.
 
+found = পাওয়া গেছে
+missing = নিখোঁজ
+gpu-description = বিবরণ
+gpu-vendor-id = ভেন্ডর ID
+gpu-device-id = ডিভাইস ID
+gpu-subsys-id = Subsys ID
+gpu-drivers = ড্রাইভার
+gpu-ram = RAM
+gpu-driver-version = ড্রাইভার সংস্করণ
+gpu-driver-date = ড্রাইভারের তারিখ
+gpu-active = সক্রিয়
+webgl1-wsiinfo = WebGL 1 ড্রাইভার WSI তথ্য
+webgl1-renderer = WebGL 1 ড্রাইভার Renderer
+webgl1-version = WebGL 1 ড্রাইভার সংষ্করণ
+webgl1-driver-extensions = WebGL 1 ড্রাইভার এক্সটেনসন
+webgl1-extensions = WebGL 1 এক্সটেনসন
+webgl2-wsiinfo = WebGL 2 ড্রাইভার WSI তথ্য
+webgl2-renderer = WebGL 2 ড্রাইভার Renderer
+webgl2-version = WebGL 2 ড্রাইভার সংষ্করণ
+webgl2-driver-extensions = WebGL 2 ড্রাইভার এক্সটেনসন
+webgl2-extensions = WebGL 2 এক্সটেনশন
+blocklisted-bug = জ্ঞাত সমস্যার কারণে ব্লকতালিকাভুক্ত
+# Variables
+# $bugNumber (string) - String of bug number from Bugzilla
+bug-link = বাগ { $bugNumber }
+# Variables
+# $failureCode (string) - String that can be searched in the source tree.
+unknown-failure = ব্লকতালিকাভুক্ত; ব্যর্থ কোড { $failureCode }
+d3d11layers-crash-guard = D3D11 কম্পোজিটর
+d3d11video-crash-guard = D3D11 ভিডিও ডিকোডার
+d3d9video-crash-buard = D3D9 ভিডিও ডিকোডার
+glcontext-crash-guard = OpenGL
+reset-on-next-restart = পুনরায় শুরু করার সময় রিসেট করুন
+gpu-process-kill-button = GPU প্রক্রিয়া বন্ধ করুন
+audio-backend = অডিও ব্যাক-এন্ড
 min-lib-versions = প্রত্যাশিত সর্বনিম্ন সংস্করণ
 loaded-lib-versions = ব্যবহৃত সংস্করণ
+has-seccomp-bpf = Seccomp-BPF (সিস্টেম কল ফিল্টারিং)
+has-seccomp-tsync = সিকম্প থ্রেড সিংক্রোনাইজেশন
+has-user-namespaces = ব্যবহারকারী নামস্থান
+has-privileged-user-namespaces = তৈরী প্রসেসের জন্য ব্যবহারকারী নামস্থানসমূহ
+can-sandbox-content = কন্টেন্ট প্রক্রিয়ার স্যান্ডবক্সিং
+can-sandbox-media = মিডিয়া প্লাগইন Sandboxing
+sandbox-proc-type-content = কন্টেন্ট
+sandbox-proc-type-media-plugin = মিডিয়া প্লাগইন
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
+multi-process-status-0 = ব্যবহারকারী দ্বারা সক্রিয়
+multi-process-status-1 = বাই ডিফল্ট সক্রিয় রয়েছে
+multi-process-status-2 = নিষ্ক্রিয় রয়েছে
+multi-process-status-4 = অ্যাক্সেসেবিলিটি তুল দ্বারা নিষ্ক্রিয় রয়েছে
+multi-process-status-6 = অসমর্থিত টেক্সট ইনপুটের কারনে নিষ্ক্রিয় হয়েছে
+multi-process-status-7 = অ্যান্ড-অন দ্বারা নিষ্ক্রিয় হয়েছে
+multi-process-status-8 = বলপূর্বক নিষ্ক্রিয় করা হয়েছে
+multi-process-status-unknown = অজানা অবস্থা
+async-pan-zoom = অ্যাসিংক্রোনাস প্যান/জুম
+apz-none = কোনোটি নয়
+wheel-enabled = চাকা নিবেশ সক্ষম
+touch-enabled = স্পর্শকারী ইনপুট সক্রিয়
+drag-enabled = স্ক্রলবার ড্র্যাগ সক্রিয়
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
 
+wheel-warning = অ্যাসিঙ্ক হুইল ইনপুট অসমর্থিত পছন্দ: { $preferenceKey } -এর জন্য নিস্ক্রিয়
+touch-warning = অ্যাসিঙ্ক টাচ ইনপুট অসমর্থিত পছন্দ: { $preferenceKey } -এর জন্যে নিস্ক্রিয়
 
 ## Strings representing the status of the Enterprise Policies engine.
 
