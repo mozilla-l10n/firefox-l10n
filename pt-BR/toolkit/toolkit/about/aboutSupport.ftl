@@ -87,6 +87,7 @@ clear-type-parameters = Parâmetros ClearType
 ## In some development versions, it's expected for some API keys that they are
 ## not found.
 
+content-uses-tiling = Usa mosaicos (conteúdo)
 min-lib-versions = Versão mínima esperada
 loaded-lib-versions = Versão em uso
 has-seccomp-bpf = Seccomp-BPF (Sistema de filtragem de chamadas)
@@ -98,6 +99,9 @@ can-sandbox-media = Isolamento de plugins de mídia
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
+multi-process-status-4 = Desativado por ferramentas de acessibilidade
+multi-process-status-6 = Desativado por entrada de texto não suportada
+multi-process-status-unknown = Status desconhecido
 async-pan-zoom = Deslocamento/Zoom assíncrono
 apz-none = nenhum
 drag-enabled = arrasto da barra de rolagem habilitado
