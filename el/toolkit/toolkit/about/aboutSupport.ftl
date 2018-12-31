@@ -20,6 +20,8 @@ extensions-id = ID
 security-software-title = Λογισμικό ασφαλείας
 security-software-type = Τύπος
 security-software-name = Όνομα
+security-software-antivirus = Antivirus
+security-software-antispyware = Antispyware
 security-software-firewall = Τείχος προστασίας
 features-title = Χαρακτηριστικά του { -brand-short-name }
 features-name = Όνομα
@@ -39,6 +41,7 @@ app-basics-profile-dir =
     }
 app-basics-enabled-plugins = Ενεργά αρθρώματα
 app-basics-build-config = Ρύθμιση δομής
+app-basics-user-agent = Πλατφόρμα χρήστη
 app-basics-os = ΛΣ
 app-basics-memory-use = Χρήση μνήμης
 app-basics-performance = Επιδόσεις
@@ -109,6 +112,7 @@ media-device-format = Τύπος
 media-device-channels = Κανάλια
 media-device-rate = Ρυθμός
 media-device-latency = Καθυστέρηση
+intl-title = Διεθνοποίηση & μετάφραση
 intl-app-title = Ρυθμίσεις εφαρμογής
 intl-locales-requested = Ζητούμενες γλώσσες
 intl-locales-available = Διαθέσιμες γλώσσες
@@ -212,7 +216,10 @@ glcontext-crash-guard = OpenGL
 reset-on-next-restart = Επαναφορά στην επόμενη επανεκκίνηση
 gpu-process-kill-button = Τερματισμός διεργασίας GPU
 gpu-device-reset-button = Έναυσμα επαναφοράς συσκευής
+uses-tiling = Χρησιμοποιεί παράθεση
+content-uses-tiling = Χρησιμοποιεί παράθεση (περιεχόμενο)
 off-main-thread-paint-enabled = Η απόδοση γραφικών εκτός κύριου νήματος ενεργοποιήθηκε
+off-main-thread-paint-worker-count = Πλήθος workers ζωγραφικής εκτός κυρίου νήματος
 audio-backend = Υποσύστημα ήχου
 max-audio-channels = Μέγιστος αριθμός καναλιών
 channel-layout = Επιθυμητή διάταξη καναλιών
@@ -228,6 +235,7 @@ can-sandbox-media = Sandboxing αρθρώματος πολυμέσων
 content-sandbox-level = Επίπεδο sandbox διεργασίας περιεχομένου
 effective-content-sandbox-level = Αποτελεσματικό επίπεδο επεξεργασίας περιεχομένου sandbox
 sandbox-proc-type-content = περιεχόμενο
+sandbox-proc-type-file = περιεχόμενο αρχείου
 sandbox-proc-type-media-plugin = άρθρωμα πολυμέσων
 # Variables
 # $remoteWindows (integer) - Number of remote windows
@@ -257,4 +265,6 @@ touch-warning = ασύγχρονη είσοδος αφής απενεργοπο�
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+policies-inactive = Ανενεργό
+policies-active = Ενεργό
 policies-error = Σφάλμα
