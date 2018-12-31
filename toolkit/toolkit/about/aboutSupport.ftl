@@ -31,6 +31,7 @@ js-incremental-gc = Inkrementelle GC
 a11y-title = Barrierefreiheit
 a11y-activated = Aktiviert
 a11y-force-disabled = Barrierefreiheit verhindern
+library-version-title = Bibliotheken-Versionen
 copy-text-to-clipboard-label = Text in die Zwischenablage kopieren
 copy-raw-data-to-clipboard-label = Rohdaten in die Zwischenablage kopieren
 raw-data-copied = Rohdaten in die Zwischenablage kopiert
@@ -52,6 +53,8 @@ clear-type-parameters = ClearType-Parameter
 ## In some development versions, it's expected for some API keys that they are
 ## not found.
 
+min-lib-versions = Minimal vorausgesetzte Version
+loaded-lib-versions = Verwendete Version
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
