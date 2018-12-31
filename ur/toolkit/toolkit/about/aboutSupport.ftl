@@ -14,6 +14,7 @@ extensions-enabled = اہل بنایا گیا
 extensions-version = ورژن
 extensions-id = ID
 security-software-title = سلامتی سافٹ ویئر
+security-software-type = قسم
 security-software-name = نام
 features-title = { -brand-short-name } فیچر
 features-name = نام
@@ -85,6 +86,7 @@ media-device-name = نام
 media-device-group = گروہ
 media-device-state = ریاست
 media-device-preferred = ترییحی
+media-device-rate = شرح
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
