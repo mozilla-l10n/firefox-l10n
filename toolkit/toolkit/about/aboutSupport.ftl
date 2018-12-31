@@ -17,12 +17,23 @@ extensions-name = Назив
 extensions-enabled = Укључен
 extensions-version = Издање
 extensions-id = ID
+security-software-title = Безбедносни софтвер
+security-software-type = Тип
+security-software-name = Име
+security-software-antivirus = Антивирус
+security-software-antispyware = Антиспајвер
+security-software-firewall = Заштитни зид
+features-title = { -brand-short-name } могућности
+features-name = Назив
+features-version = Издање
+features-id = ID
 app-basics-title = Основе апликације
 app-basics-name = Назив
 app-basics-version = Издање
 app-basics-build-id = ID издања
 app-basics-update-channel = Канал за ажурирање
 app-basics-update-history = Историја ажурирања
+app-basics-show-update-history = Прикажи историјат ажурирања
 app-basics-profile-dir =
     { PLATFORM() ->
         [linux] Фасцикла профила
@@ -37,9 +48,16 @@ app-basics-performance = Перформансе
 app-basics-service-workers = Регистровани Service Workers
 app-basics-profiles = Профили
 app-basics-multi-process-support = Вишепроцесорски прозори
+app-basics-enterprise-policies = Полисе предузећа
 app-basics-key-google = Google кључ
 app-basics-key-mozilla = Кључ Mozilla сервиса за локацију
 app-basics-safe-mode = Безбедни режим
+show-dir-label =
+    { PLATFORM() ->
+        [macos] Прикажи у Finder-у
+        [windows] Отвори фасциклу
+       *[other] Отвори фасциклу
+    }
 modified-key-prefs-title = Важне измењене поставке
 modified-prefs-name = Назив
 modified-prefs-value = Вредност
@@ -65,6 +83,8 @@ js-incremental-gc = Инкрементални GC
 a11y-title = Приступачност
 a11y-activated = Активирана
 a11y-force-disabled = Спречи приступачност
+a11y-handler-used = Приступни управљач искоришћен
+a11y-instantiator = Приступачност инстантиатору
 library-version-title = Издања библиотека
 copy-text-to-clipboard-label = Копирај текст у бележницу
 copy-raw-data-to-clipboard-label = Копирај податке у бележницу
@@ -79,6 +99,55 @@ sandbox-sys-call-number = Системски позив
 sandbox-sys-call-args = Аргументи
 safe-mode-title = Покушај безбедни режим
 restart-in-safe-mode-label = Рестартуј са онемогућеним додацима…
+intl-title = Интернационализација & Локализација
+intl-app-title = Поставке апликације
+intl-locales-requested = Захтевани локали
+intl-locales-available = Доступни локали
+intl-locales-supported = Локали апликације
+intl-locales-default = Подразумевани локал
+intl-os-title = Оперативни систем
+intl-os-prefs-system-locales = Локали система
+intl-regional-prefs = Регионалне поставке
+# Variables
+# $days (Integer) - Number of days of crashes to log
+report-crash-for-days =
+    { $days ->
+        [one] Извештаји о рушењу у последњем { $days } дану
+        [few] Извештаји о рушењу у последња { $days } дана
+       *[other] Извештаји о рушењу у последњих { $days } дана
+    }
+# Variables
+# $minutes (integer) - Number of minutes since crash
+crashes-time-minutes =
+    { $minutes ->
+        [one] Пре { $minutes } минут
+        [few] Пре { $minutes } минута
+       *[other] Пре { $minutes } минута
+    }
+# Variables
+# $hours (integer) - Number of hours since crash
+crashes-time-hours =
+    { $hours ->
+        [one] Пре { $hours } сат
+        [few] Пре { $hours } сата
+       *[other] Пре { $hours } сати
+    }
+# Variables
+# $days (integer) - Number of days since crash
+crashes-time-days =
+    { $days ->
+        [one] Пре { $days } дан
+        [few] Пре { $days } дана
+       *[other] Пре { $days } дана
+    }
+# Variables
+# $reports (integer) - Number of pending reports
+pending-reports =
+    { $reports ->
+        [one] Сви извештаји о рушењу(укључујући { $reports } који чека да буде послат)
+        [few] Сви извештаји о рушењу(укључујући { $reports } који чекају да буду послати)
+       *[other] Сви извештаји о рушењу(укључујући { $reports } који чекају да буду послати)
+    }
 raw-data-copied = Подаци копирани у бележницу
 text-copied = Текст копиран у бележницу
 
@@ -138,6 +207,11 @@ d3d9video-crash-buard = D3D9 видео декодер
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Ресетуј при следећем покретању
 gpu-process-kill-button = Угаси GPU процес
+gpu-device-reset-button = Покрени ресетовање уређаја
+uses-tiling = Користи плочице
+content-uses-tiling = Користи плочице (садржај)
+off-main-thread-paint-enabled = Нит за сликање омогућена
+off-main-thread-paint-worker-count = Thread Painting Worker бројач
 min-lib-versions = Очекивано минимално издање
 loaded-lib-versions = Издање у употреби
 has-seccomp-bpf = Seccomp-BPF (Системско филтрирање позива)
@@ -147,7 +221,9 @@ has-privileged-user-namespaces = Именски простор корисник�
 can-sandbox-content = Sandboxing процеса садржаја
 can-sandbox-media = Sandboxing медија прикључак
 content-sandbox-level = Ниво Sandbox процеса садржаја
+effective-content-sandbox-level = Ефективни ниво Sandbox процеса садржаја
 sandbox-proc-type-content = садржај
+sandbox-proc-type-file = садржај дадотеке
 sandbox-proc-type-media-plugin = медија прикључак
 # Variables
 # $remoteWindows (integer) - Number of remote windows
@@ -161,10 +237,13 @@ multi-process-status-6 = Онемогућено од стране неподрж
 multi-process-status-7 = Онемогућено од стране додатака
 multi-process-status-8 = Присилно онемогућено
 multi-process-status-unknown = Непознат статус
+async-pan-zoom = Асинхроно кретање/увеличавање
 apz-none = нема
 wheel-enabled = унос точкића омогућен
 touch-enabled = унос додира омогућен
 drag-enabled = превлачење клизача омогућено
+keyboard-enabled = тастатура омогућена
+autoscroll-enabled = аутоматско скроловање омогућено
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
