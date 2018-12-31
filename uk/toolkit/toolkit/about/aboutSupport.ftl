@@ -181,6 +181,8 @@ hardware-h264 = Апаратне декодування H264
 main-thread-no-omtc = головний потік, не OMTC
 yes = Так
 no = Ні
+unknown = Невідомо
+virtual-monitor-disp = Відображення віртуального монітора
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
@@ -188,6 +190,8 @@ no = Ні
 
 found = Знайдено
 missing = Відсутнє
+gpu-process-pid = GPUProcessPid
+gpu-process = GPUProcess
 gpu-description = Опис
 gpu-vendor-id = ID виробника
 gpu-device-id = ID пристрою
@@ -220,6 +224,7 @@ d3d9video-crash-buard = Відео декодер D3D9
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Скинути при наступному перезавантаженні
 gpu-process-kill-button = Завершити GPU процес
+gpu-device-reset = Скидання пристрою
 gpu-device-reset-button = Виконати скидання пристрою
 uses-tiling = Використовує тайлинг
 content-uses-tiling = Використовує тайлінг (вміст)
