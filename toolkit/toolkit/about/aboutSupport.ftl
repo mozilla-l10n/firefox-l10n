@@ -8,8 +8,11 @@ extensions-name = Ainm
 extensions-enabled = Air a chur an comas
 extensions-version = Tionndadh
 extensions-id = ID
+app-basics-title = Bun-tùs na h-aplacaid
 app-basics-name = Ainm
 app-basics-version = Tionndadh
+app-basics-update-history = Eachdraidh nan ùrachaidhean
+app-basics-show-update-history = Seall eachdraidh nan ùrachaidhean
 app-basics-enabled-plugins = Plugain a tha an comas
 app-basics-build-config = Rèiteachadh na togalach
 app-basics-user-agent = UserAgent
@@ -22,7 +25,12 @@ js-title = JavaScript
 js-incremental-gc = GC ceum air cheum
 a11y-title = Inntrigeachd
 a11y-activated = Air gnìomhachadh
+a11y-force-disabled = Casg air so-inntrigeachd
 library-version-title = Tionndaidhean leabharlainn
+copy-text-to-clipboard-label = Cuir lethbhreac dhen teacsa air an stòr-bhòrd
+copy-raw-data-to-clipboard-label = Cuir lethbhreac dhen dàta lom dhan stòr-bhòrd
+raw-data-copied = Chaidh lethbhreac an dàta luim a chur air an stòr-bhòrd
+text-copied = Chaidh lethbhreac an teacsa a chur air a' bhòrd-chliopaichean
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
