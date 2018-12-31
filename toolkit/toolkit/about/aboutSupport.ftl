@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+page-title = Informacije za rozwězowanje problemow
+page-subtitle = Toś ten bok wopśimujo techniske informacije, kótarež by mógli wužytne byś, gaž wopytujośo problem rozwězaś. Jolic pytaśo za wótegronami za zwucone pšašanja qó { -brand-short-name }, woglědajśo k našomu <a data-l10n-name="support-link">pódpěrańskemu websydłoju</a>.
 crashes-title = Rozpšawy wowalenjow
 crashes-id = ID rozpšawy
 crashes-send-date = Wótpósłany
@@ -12,9 +14,15 @@ extensions-name = Mě
 extensions-enabled = Zmóžnjony
 extensions-version = Wersija
 extensions-id = ID
+features-title = Funkcije { -brand-short-name }
+features-name = Mě
+features-version = Wersija
+features-id = ID
 app-basics-title = Zakłady nałoženja
 app-basics-name = Mě
 app-basics-version = Wersija
+app-basics-build-id = Wersijowy ID
+app-basics-update-channel = Aktualizěrowański kanal
 app-basics-update-history = Aktualizaciska historija
 app-basics-show-update-history = Aktualizacisku historiju pokazaś
 app-basics-profile-dir =
@@ -25,21 +33,74 @@ app-basics-profile-dir =
 app-basics-enabled-plugins = Zmóžnjone tykace
 app-basics-build-config = Konfiguracija programoweje wersije
 app-basics-user-agent = User Agent
+app-basics-os = Źěłowy system
 app-basics-memory-use = Wužyty składowak
+app-basics-performance = Wugbaśe
+app-basics-service-workers = Zregistrěrowane "service workers"
+app-basics-profiles = Profile
+app-basics-multi-process-support = Multiprocesowe wokna
+app-basics-process-count = Webwopśimjeśowe procese
+app-basics-key-google = Kluc Google
+app-basics-safe-mode = Wěsty modus
+show-dir-label =
+    { PLATFORM() ->
+        [macos] W Finder pokazaś
+        [windows] Zarědnik wócyniś
+       *[other] Zarědnik wócyniś
+    }
 modified-key-prefs-title = Wažne změnjone nastajenja
 modified-prefs-name = Mě
 modified-prefs-value = Gódnota
 user-js-title = Nastajenja w user.js
 user-js-description = Waš profilowy zarědnik wopśimujo <a data-l10n-name="user-js-link">dataju user.js</a>, kótaraž wopśimujo nastajenja, kótarež njejsu se pśez { -brand-short-name } napórali.
+locked-key-prefs-title = Wažne zastajone nastajenja
+locked-prefs-name = Mě
+locked-prefs-value = Gódnota
 graphics-title = Grafika
+graphics-features-title = Funkcije
+graphics-diagnostics-title = Diagnostika
+graphics-failure-log-title = Protokol njewuspěchow
+graphics-gpu1-title = GPU #1
+graphics-gpu2-title = GPU #2
+graphics-decision-log-title = Protokol rozsuźenja
+graphics-crash-guards-title = Funkcije, kótarež su se wót wowaleńskego stražnika znjemóžnili
+graphics-workarounds-title = Nuzowe rozwězanja
+place-database-title = Datowa banka historije a cytańskich znamjenjow
+place-database-integrity = Integrita
+place-database-verify-integrity = Integritu pśeglědowaś
 js-title = JavaScript
 js-incremental-gc = Inkrementelny GC
 a11y-title = Pśistupnosć
 a11y-activated = Aktiwěrowany
 a11y-force-disabled = Bźezbarjernosći zajźowaś
+a11y-handler-used = Pśistupny handler wužyty
+a11y-instantiator = Instancěrowak bźezbariernosći
 library-version-title = Bibliotekowe wersije
 copy-text-to-clipboard-label = Tekst do majzywótkłada kopěrowaś
 copy-raw-data-to-clipboard-label = Gropne daty do mjazywótkłada kopěrowaś
+sandbox-title = Pěskowy kašćik
+sandbox-sys-call-log-title = Wótpokazane systemowe wołanja
+sandbox-sys-call-index = #
+sandbox-sys-call-age = Pśed sekundami
+sandbox-sys-call-pid = PID
+sandbox-sys-call-tid = TID
+sandbox-sys-call-proc-type = Procesowy typ
+sandbox-sys-call-number = Syscall
+sandbox-sys-call-args = Argumenty
+safe-mode-title = Wěsty modus wopytaś
+restart-in-safe-mode-label = Ze znjemóžnjonymi dodankami znowego startowaś…
+media-title = Medije
+media-output-devices-title = Wudawańske rědy
+media-input-devices-title = Zapódawańske rědy
+media-device-name = Mě
+media-device-group = Kupka
+media-device-vendor = Pśedawaŕ
+media-device-state = Status
+media-device-preferred = Preferěrowany
+media-device-format = Format
+media-device-channels = Kanale
+media-device-rate = Rata
+media-device-latency = Latenca
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -93,27 +154,99 @@ text-copied = Tekst kopěrowany do mjazywótkłada
 blocked-driver = Za wašu wersiju grafiskego gónjaka zablokěrowany.
 blocked-gfx-card = Za wašu grafisku kórtu dla njerozwězanych gónjakowych problemow zablokěrowany.
 blocked-os-version = Za wašu wersiju źěłowego systema zablokěrowany.
+blocked-mismatched-version = Blokěrowany, dokulaž wersija wašogo grafikowego gónjaka rozeznawa se mjazy regstraciju a DLL.
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Za wašu wersiju grafiskego gónjaka zablokěrowany. Wopytajśo swój grafiski gónjak na wersiju { $driverVersion } abo nowšu aktualizěrowaś.
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Parametry ClearType
+compositing = Compositing
+hardware-h264 = Hardwarowe dekoděrowanje H264
+main-thread-no-omtc = głowna nitka, žeden OMTC
+yes = Jo
+no = Ně
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
 ## not found.
 
+found = Namakany
+missing = Felujucy
+gpu-description = Wopisanje
+gpu-vendor-id = ID pśedawarja
+gpu-device-id = ID rěda
+gpu-subsys-id = Subsys-ID
+gpu-drivers = Gónjaki
+gpu-ram = RAM
+gpu-driver-version = Wersija gónjaka
+gpu-driver-date = Datum gónjaka
+gpu-active = Aktiwny
+webgl1-wsiinfo = WebGL 1 Informacije WSI gónjaka
+webgl1-renderer = WebGL 1 - kreslak gónjaka
+webgl1-version = WebGL 1 - wersija gónjaka
+webgl1-driver-extensions = WebGL 1 - rozšyrjenja gónjaka
+webgl1-extensions = WebGL1 - rozšyrjenja
+webgl2-wsiinfo = WebGL 2 - informacije WSI gónjaka
+webgl2-renderer = WebGL 2 - kreslak gónjaka
+webgl2-version = WebGL 2 - wersija gónjaka
+webgl2-driver-extensions = WebGL 2 - rozšyrjenja gónjaka
+webgl2-extensions = WebGL 2 - rozšyrjenja
+blocklisted-bug = W blokěrowańskej lisćinje znatych problemow dla
+# Variables
+# $bugNumber (string) - String of bug number from Bugzilla
+bug-link = programowa zmólka { $bugNumber }
+# Variables
+# $failureCode (string) - String that can be searched in the source tree.
+unknown-failure = W blokěrowańskej lisćinje; zmólkowy kod { $failureCode }
+d3d11layers-crash-guard = D3D11 Compositor
+d3d11video-crash-guard = D3D11 Video Decoder
+d3d9video-crash-buard = D3D9 Video Decoder
+glcontext-crash-guard = OpenGL
+reset-on-next-restart = Pśi pśiducem nowem starśe slědk stajiś
+gpu-process-kill-button = GPU-proces skóńcyś
+gpu-device-reset-button = Rědowe slědkstajenje zapušćiś
+off-main-thread-paint-enabled = Off Main Thread Painting zmóžnjony
+audio-backend = Awdiobackend
+max-audio-channels = Maksimalna licba kanalow
+channel-layout = Preferěrowane kanalowe wugótowanje
+sample-rate = Preferěrowana wótsmasowańska rata
 min-lib-versions = Wótcakowana minimalna wersija
 loaded-lib-versions = Wužyta wersija
+has-seccomp-bpf = Seccomp-BPF (Filtrowanje systemowych zawołanjow)
+has-seccomp-tsync = Nitkowa synchronizacija Seccomp
+has-user-namespaces = Wužywarske mjenjowe rumy
+has-privileged-user-namespaces = Wužywarske mjenjowe rumy za priwilegěrowane procese
+can-sandbox-content = Testowanje wopśimjeśowych procesow w pěskowem kašćiku
+can-sandbox-media = Testowanje medijowych tykacow w pěskowem kašćiku
+content-sandbox-level = Rownina wopśimjeśowych procesow w pěskowem kašćiku
+effective-content-sandbox-level = Aktualna rownina wopśimjeśowych procesow w pěskowem kašćiku
+sandbox-proc-type-content = wopśimjeśe
+sandbox-proc-type-media-plugin = medijowy tykac
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
+multi-process-status-0 = Wót wužywarja zmóžnjony
+multi-process-status-1 = Pó standarźe zmóžnjony
+multi-process-status-2 = Znjemóžnjony
+multi-process-status-4 = Pśez rědy bźezbariernosći znjemóžnjony
+multi-process-status-6 = Pśez njepódpěrane tekstowe zapódaśe znjemóžnjony
+multi-process-status-7 = Pśez dodanki znjemóžnjony
+multi-process-status-8 = Namócnje znjemóžnjony
+multi-process-status-unknown = Njeznaty status
+async-pan-zoom = Asynchrone pśesuwanje/skalěrowanje
+apz-none = žeden
+wheel-enabled = zapódaśe z kólaskom zmóžnjone
+touch-enabled = zapódaśe pśez dotyknjenje zmóžnjone
+drag-enabled = śěgnjenje suwańskeje rědki zmóžnjone
+keyboard-enabled = tastatura zmóžnjona
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
 
+wheel-warning = asynchrone zapódaśe z kólaskom jo se njepódpěranego nastajenja znjemóžniło: { $preferenceKey }
+touch-warning = asynchrone zapódaśe pśez dotyknjenje jo se njepódpěranego nastajenja znjemóžniło: { $preferenceKey }
 
 ## Strings representing the status of the Enterprise Policies engine.
 
