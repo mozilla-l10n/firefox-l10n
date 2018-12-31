@@ -134,7 +134,7 @@ plugin-deprecation-description = Faltando alguma coisa? Alguns plugins não são
 legacy-warning-show-legacy = Mostrar extensões legadas
 legacy-extensions =
     .value = Extensões legadas
-legacy-extensions-description = Estas extensões não cumprem os padrões atuais do { -brand-short-name }, então eles foram desativados. <label data-l10n-name="legacy-learn-more">Saiba mais sobre as alterações das extensões</label>
+legacy-extensions-description = Estas extensões não cumprem os padrões atuais do { -brand-short-name }, então foram desativadas. <label data-l10n-name="legacy-learn-more">Saiba mais sobre mudanças em extensões</label>
 extensions-view-discover =
     .name = Adicionar
     .tooltiptext = { extensions-view-discover.name }
