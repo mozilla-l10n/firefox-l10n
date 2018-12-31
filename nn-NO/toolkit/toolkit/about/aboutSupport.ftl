@@ -30,6 +30,7 @@ app-basics-build-config = Bygginnstillingar
 app-basics-user-agent = Brukaragent
 app-basics-os = OS
 app-basics-memory-use = Minnebruk
+app-basics-performance = Yting
 app-basics-service-workers = Registrerte tenestearbeidarar
 app-basics-profiles = Profilar
 app-basics-multi-process-support = Multiprosess-vindauge
@@ -43,6 +44,17 @@ locked-key-prefs-title = Viktige låste innstillingar
 locked-prefs-name = Namn
 locked-prefs-value = Verdi
 graphics-title = Grafikk
+graphics-features-title = Funksjonar
+graphics-diagnostics-title = Diagnostikk
+graphics-failure-log-title = Feillogg
+graphics-gpu1-title = GPU #1
+graphics-gpu2-title = GPU #2
+graphics-decision-log-title = Avgjerdslogg
+graphics-crash-guards-title = Krasjvern slo av funksjonar
+graphics-workarounds-title = Løysingar
+place-database-title = Plasser database
+place-database-integrity = Integritet
+place-database-verify-integrity = Stadfest integritet
 js-title = JavaScript
 js-incremental-gc = Inkrementell GC
 a11y-title = Tilgjenge
@@ -96,11 +108,38 @@ try-newer-driver = Blokkert av grafikkdrivaren. Prøv å oppdatera grafikkdrivar
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType-parameter
+compositing = Kompositt
+hardware-h264 = H264 hardvaredekodning
+main-thread-no-omtc = hovudtråd, ingen OMTC
+yes = Ja
+no = Nei
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
 ## not found.
 
+gpu-description = Skildring
+gpu-vendor-id = Leverandør-ID
+gpu-device-id = Einings-ID
+gpu-drivers = Drivarar
+gpu-ram = RAM
+gpu-driver-version = Drivarversjon
+gpu-driver-date = Drivardato
+gpu-active = Aktiv
+webgl2-renderer = WebGL2-renderar
+blocklisted-bug = Svartelista på grunn av kjende problem
+# Variables
+# $bugNumber (string) - String of bug number from Bugzilla
+bug-link = feil { $bugNumber }
+# Variables
+# $failureCode (string) - String that can be searched in the source tree.
+unknown-failure = Svartlista; feilkode { $failureCode }
+d3d11layers-crash-guard = D3D11-kompositoren
+d3d11video-crash-guard = D3D11 videodekodar
+d3d9video-crash-buard = D3D9 videodekodar
+glcontext-crash-guard = OpenGL
+reset-on-next-restart = Tilbakestill ved neste omstart
+gpu-process-kill-button = Avslutt GPU-prosess
 min-lib-versions = Forventa minimumsversjon
 loaded-lib-versions = Versjon i bruk
 has-seccomp-bpf = Seccomp-BPF (Systemkall-filtrering)
@@ -115,8 +154,10 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 multi-process-status-0 = Slått på av brukar
 multi-process-status-1 = Slått på som standard
 multi-process-status-2 = Slått av
+multi-process-status-4 = Avslått av tilgjengeverktøy
 multi-process-status-6 = Slått av av ikkje-støtta tekst-input
 multi-process-status-7 = Slått av av utvidingar
+multi-process-status-8 = Tvinga deaktivering
 multi-process-status-unknown = Ukjend status
 async-pan-zoom = Asynkron pan/zoom
 apz-none = ingen
