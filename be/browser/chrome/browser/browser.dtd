@@ -111,6 +111,10 @@ These items have the same accesskey but will never be visible at the same time. 
 
 <!ENTITY  listAllTabs.label      "Пералічыць усе карткі">
 
+<!-- LOCALIZATION NOTE (allTabsMenu.searchTabs.label): "Search" is a verb, as
+in "Search through tabs". -->
+<!ENTITY  allTabsMenu.searchTabs.label       "Шукаць карткі">
+
 <!ENTITY tabCmd.label "Новая картка">
 <!ENTITY tabCmd.accesskey "т">
 <!ENTITY tabCmd.commandkey "t">
@@ -285,6 +289,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Браўзер знаходзіцца пад аддаленым кіраваннем">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Адкрыць панэль вэб-аўтарызацыі">
 
+<!ENTITY urlbar.storageAccessAnchor.tooltip               "Адкрыць панэль дазволу дзеянняў аглядання">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Кіраваць доступам сайта да вашай камеры і/або мікрафона">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Кіраваць доступам сайта да вашага мікрафона">
