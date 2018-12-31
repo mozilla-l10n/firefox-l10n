@@ -20,6 +20,8 @@ extensions-id = ID
 app-basics-title = යෙදුම් මූලිකාංග
 app-basics-name = නම
 app-basics-version = නිකුතුව
+app-basics-build-id = නිකුතු ID
+app-basics-update-channel = යාවත් නාලිකාව
 app-basics-update-history = යාවත්කාලීන ඉතිහාසය
 app-basics-show-update-history = යාවත්කාලීන ඉතිහාසය පෙන්වන්න
 app-basics-profile-dir =
@@ -30,8 +32,12 @@ app-basics-profile-dir =
 app-basics-enabled-plugins = ප්ලගීන බලැති (Enable) කරන්න
 app-basics-build-config = Build Configuration
 app-basics-user-agent = User Agent
+app-basics-os = OS
 app-basics-memory-use = මෙමරි භාවිතය
+app-basics-service-workers = ලියාපදිංචි කළ Service Workers
+app-basics-profiles = පැතිකඩයන්
 app-basics-multi-process-support = බහුසැකසුම් කවුළු
+app-basics-safe-mode = ආරක්ෂිත ප්‍රකාරය
 modified-key-prefs-title = ආයාතකළ වෙනස්කළ මනාපයන්
 modified-prefs-name = නම
 modified-prefs-value = අගය
@@ -41,6 +47,11 @@ locked-key-prefs-title = වැදගත් අගුළුලූ අභිප�
 locked-prefs-name = නම
 locked-prefs-value = අගය
 graphics-title = පිංතූර
+graphics-features-title = විශේෂාංග
+graphics-diagnostics-title = දෝෂ නිර්ණය
+graphics-failure-log-title = අසමර්ථ වාර්ථාව
+graphics-gpu1-title = GPU #1
+graphics-gpu2-title = GPU #2
 js-title = JavaScript
 js-incremental-gc = Incremental GC
 a11y-title = ප්‍රවේශතාව
@@ -50,6 +61,8 @@ library-version-title = පුස්තකාල නිකුතුව
 copy-text-to-clipboard-label = පෙළ පසුරු පුවරුවට පිටපත් කරන්න
 copy-raw-data-to-clipboard-label = අමු දත්ත පසුරු පුවරුවට පිටපත් කරන්න
 sandbox-title = සෑන්ඩ්බොක්ස්
+safe-mode-title = ආරක්ෂිත ප්‍රකාරය උත්සහ කරන්න
+restart-in-safe-mode-label = ඇඩෝන අක්‍රීය කර යළි ආරම්භ කරන්න…
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -93,30 +106,63 @@ text-copied = Text copied to clipboard
 blocked-driver = ඔබගේ ග්‍රැපික්ස් ධාවක නිකුතුව සඳහා අවහිර කර ඇත.
 blocked-gfx-card = නොවිසඳුනු ධාවක ගැටළු නිසා ඔබගේ ග්‍රැපික්ස් කාඩ් එක සඳහා අවහිර කර ඇත.
 blocked-os-version = ඔබගේ මෙහෙයුම් පද්ධති නිකුතුව සඳහා අවහිර කර ඇත.
+blocked-mismatched-version = ඔබගේ චිත්‍රණ ධාවක නිකුතුව ලියාපදිංචිය හා DLL අතර නොගැලපීම නිසා අවහිර කර ඇත.
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = ඔබගේ ග්‍රැපික්ස් ධාවක නිකුතුව සඳහා අවහිර කර ඇත. { $driverVersion } හෝ ඊට අළුත් නැකුතුවක් වෙත ග්‍රැපික්ස් ධාවක නිකුතුව යාවත්කාලීන කර උත්සාහ කරන්න.
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType Parameters
+compositing = නිබන්ධනය කරමින්
+hardware-h264 = දෘඩාංග H264 විකේතණය
+main-thread-no-omtc = ප්‍රධාන තීරය, OMTC නොමැත
+yes = ඔව්
+no = නැහැ
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
 ## not found.
 
+gpu-description = විස්තරය
+gpu-vendor-id = නිශ්පාදක ID
+gpu-device-id = උපාංග ID
+gpu-subsys-id = අනුපද්ධති ID
+gpu-drivers = ධාවකයන්
+gpu-ram = RAM
+gpu-driver-version = ධාවක නිකුතුව
+gpu-driver-date = ධාවක දිනය
+gpu-active = සක්‍රීය
 min-lib-versions = බලාපොරුත්තුවන අවම නිකුතුව
 loaded-lib-versions = දැනට භාවිතා වන නිකුතුව
 has-seccomp-bpf = Seccomp-BPF (පද්ධති ඇමතුම් පෙරහණ්කරනය)
+has-seccomp-tsync = Seccomp තීර සම්මුහුර්ථකරණය
+has-user-namespaces = පරිශීලක නාම ඉඩ
+has-privileged-user-namespaces = බලලත් ක්‍රියාවලියන් සඳහා පරිශීලක නාම ඉඩ
 can-sandbox-content = අන්තර්ගත සැකසුම් සෑන්ඩ්බොක්ස්කරණය
 can-sandbox-media = මාධ්‍ය ප්ලගින සෑන්ඩ්බොක්ස්කරණය
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
+multi-process-status-0 = පරිශීලක විසින් සක්‍රීය කළ
+multi-process-status-1 = පෙරනිමියෙන් සක්‍රීය කළ
+multi-process-status-2 = අක්‍රීය කළ
+multi-process-status-4 = පිවිසුම්කාරක මෙවලම් මගින් අක්‍රීය කළ
+multi-process-status-6 = සහය නොදක්වන පෙළ ආදානයක් නිසා අක්‍රීය කර ඇත
+multi-process-status-7 = ඇඩෝන මගින් අක්‍රීය කර ඇත
+multi-process-status-8 = බලාත්මකව අක්‍රීය කර ඇත
+multi-process-status-unknown = නොදන්නා තත්ත්වයකි
+async-pan-zoom = අසමමුහූර්තක Pan/Zoom
+apz-none = නොමැත
+wheel-enabled = රෝද ආදාන සක්‍රීයයි
+touch-enabled = ස්පර්ශ ආදාන සක්‍රීයයි
+drag-enabled = ස්ක්‍රෝල් තීරු ඇදීම සක්‍රීයයි
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
 
+wheel-warning = සහය නොදක්වන අභිප්‍රේයක් නිසා අසම්මුහුර්තක රෝද ආදානය අක්‍රීයයි: { $preferenceKey }
+touch-warning = සහය නොදක්වන අභිප්‍රේයක් නිසා අසම්මුහුර්තක ස්පර්ශක ආදානය අක්‍රීයයි: { $preferenceKey }
 
 ## Strings representing the status of the Enterprise Policies engine.
 
