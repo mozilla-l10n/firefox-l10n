@@ -34,35 +34,35 @@ js-incremental-gc = बाड़हागाक् GC
 a11y-title = आ़तुर दाड़े तेत्
 a11y-activated = चोगोड़ होचोवाक्
 a11y-force-disabled = आ़तुर लेकाक् आकोट होचो
-library-version-title = पुथी ओड़ाक् बार्सान{ " " }
+library-version-title = पुथी ओड़ाक् बार्सान
 copy-text-to-clipboard-label = रेटोपबोर्ड रे ओनोल नोकोल मे .
 copy-raw-data-to-clipboard-label = रेटोपबोर्ड रे बेरेल डाटा नोकोल मे.
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
     { $days ->
-        [one] मुचा़त्  { $days } माहित् ला़गित् रा़पुद रिपोर्ट{ " " }
-       *[other] { " " }मुचा़त्  { $days }मा़हित् कोला़गित् रा़पुत् रिपोर्ट{ " " }
+        [one] मुचा़त्  { $days } माहित् ला़गित् रा़पुद रिपोर्ट
+       *[other] मुचा़त्  { $days }मा़हित् कोला़गित् रा़पुत् रिपोर्ट
     }
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
     { $minutes ->
-        [one] { $minutes } टिप्च् माड़ाङ{ " " }
+        [one] { $minutes } टिप्च् माड़ाङ
        *[other] { $minutes }टिपिच् को माड़ाङ .
     }
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
     { $hours ->
-        [one] { $hours }टाड़ाङ माड़ाङ{ " " }
+        [one] { $hours }टाड़ाङ माड़ाङ
        *[other] { $hours } टाड़ाङ को .
     }
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
     { $days ->
-        [one] { $days } माहा माड़ाङ{ " " }
+        [one] { $days } माहा माड़ाङ
        *[other] { $days } माहा को माड़ाङ .
     }
 # Variables
@@ -85,7 +85,7 @@ blocked-os-version = आमाक चालु सेस्टेम बार�
 try-newer-driver = चिता़र ड्राइबार बार्सन ला़गित् आकोट आकाना बार्सन  { $driverVersion } आर  बाङ नावानाक् रेआमाक् गार चिता़र ड्राइवार हा़ली होचो कुरुमुटुय में .
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
-clear-type-parameters = पुस्टा़व टाइप पारामिटार{ " " }
+clear-type-parameters = पुस्टा़व टाइप पारामिटार
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
@@ -93,10 +93,10 @@ clear-type-parameters = पुस्टा़व टाइप पारामि
 
 gpu-vendor-id = आसरिञिजाक्  ID
 gpu-device-id = डिभाइस ID
-gpu-subsys-id = { " " }खुंट सिस्टेम ID
+gpu-subsys-id = खुंट सिस्टेम ID
 gpu-driver-version = ड्राइवार बार्सन
 gpu-driver-date = ड्राइबार मा़हित्
-min-lib-versions = आंसाक् कोमउता़र बार्सन{ " " }
+min-lib-versions = आंसाक् कोमउता़र बार्सन
 loaded-lib-versions = बेभार रे बार्सान
 # Variables
 # $remoteWindows (integer) - Number of remote windows
