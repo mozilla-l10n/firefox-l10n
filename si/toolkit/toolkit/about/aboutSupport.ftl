@@ -61,6 +61,8 @@ library-version-title = පුස්තකාල නිකුතුව
 copy-text-to-clipboard-label = පෙළ පසුරු පුවරුවට පිටපත් කරන්න
 copy-raw-data-to-clipboard-label = අමු දත්ත පසුරු පුවරුවට පිටපත් කරන්න
 sandbox-title = සෑන්ඩ්බොක්ස්
+sandbox-sys-call-pid = PID
+sandbox-sys-call-tid = TID
 safe-mode-title = ආරක්ෂිත ප්‍රකාරය උත්සහ කරන්න
 restart-in-safe-mode-label = ඇඩෝන අක්‍රීය කර යළි ආරම්භ කරන්න…
 # Variables
@@ -132,6 +134,7 @@ gpu-ram = RAM
 gpu-driver-version = ධාවක නිකුතුව
 gpu-driver-date = ධාවක දිනය
 gpu-active = සක්‍රීය
+glcontext-crash-guard = OpenGL
 min-lib-versions = බලාපොරුත්තුවන අවම නිකුතුව
 loaded-lib-versions = දැනට භාවිතා වන නිකුතුව
 has-seccomp-bpf = Seccomp-BPF (පද්ධති ඇමතුම් පෙරහණ්කරනය)
@@ -140,6 +143,7 @@ has-user-namespaces = පරිශීලක නාම ඉඩ
 has-privileged-user-namespaces = බලලත් ක්‍රියාවලියන් සඳහා පරිශීලක නාම ඉඩ
 can-sandbox-content = අන්තර්ගත සැකසුම් සෑන්ඩ්බොක්ස්කරණය
 can-sandbox-media = මාධ්‍ය ප්ලගින සෑන්ඩ්බොක්ස්කරණය
+sandbox-proc-type-content = අන්තර්ගතය
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
