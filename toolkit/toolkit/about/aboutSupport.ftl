@@ -74,14 +74,20 @@ a11y-title = Accesibilitate
 a11y-activated = Activat
 a11y-force-disabled = Împiedică accesibilitatea
 a11y-handler-used = Handler accesibil folosit
+a11y-instantiator = Instanțiator de accesibilitate
 copy-text-to-clipboard-label = Copiază textul în clipboard
 copy-raw-data-to-clipboard-label = Copiază datele brute în clipboard
 sandbox-title = Sandbox
+sandbox-sys-call-log-title = Apeluri de sistem respinse
+sandbox-sys-call-age = Secunde în urmă
 sandbox-sys-call-pid = PID
 sandbox-sys-call-tid = TID
+sandbox-sys-call-proc-type = Tipul de proces
+sandbox-sys-call-number = Apel sistem
 sandbox-sys-call-args = Argumente
 safe-mode-title = Încearcă modul sigur
 restart-in-safe-mode-label = Repornește cu suplimentele dezactivate…
+media-title = Media
 media-output-devices-title = Dispozitive de ieșire
 media-input-devices-title = Dispozitive de intrare
 media-device-name = Nume
@@ -93,9 +99,15 @@ media-device-format = Format
 media-device-channels = Canale
 media-device-rate = Rată
 media-device-latency = Latență
+intl-title = Internaționalizare și localizare
 intl-app-title = Setări privind aplicația
+intl-locales-requested = Limbile solicitate
+intl-locales-available = Limbile disponibile
 intl-locales-supported = Limbile aplicației
+intl-locales-default = Limba implicită
+intl-os-title = Sistem de operare
 intl-os-prefs-system-locales = Limbile sistemului
+intl-regional-prefs = Preferințe regionale
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -158,6 +170,7 @@ no = Nu
 ## not found.
 
 found = Găsită
+missing = Lipsă
 gpu-description = Descriere
 gpu-vendor-id = ID-ul vânzătorului
 gpu-device-id = ID-ul dispozitivului
@@ -206,6 +219,7 @@ can-sandbox-media = Plugin sandbox pentru media
 content-sandbox-level = Nivel de sandbox al proceselor pentru conținut
 effective-content-sandbox-level = Nivel efectiv de sandbox al proceselor pentru conținut
 sandbox-proc-type-content = conținut
+sandbox-proc-type-file = conținut fișier
 sandbox-proc-type-media-plugin = plugin media
 # Variables
 # $remoteWindows (integer) - Number of remote windows
