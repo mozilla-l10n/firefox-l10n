@@ -79,6 +79,7 @@ a11y-title = Accessibilité
 a11y-activated = Activée
 a11y-force-disabled = Empêcher l’accessibilité
 a11y-handler-used = Utilisation d’un gestionnaire accessible
+a11y-instantiator = Générateur d’accessibilité
 library-version-title = Versions des bibliothèques
 copy-text-to-clipboard-label = Copier le texte dans le presse-papiers
 copy-raw-data-to-clipboard-label = Copier les informations brutes dans le presse-papiers
@@ -106,6 +107,14 @@ media-device-channels = Canaux
 media-device-rate = Fréquence
 media-device-latency = Latence
 intl-title = Langue et internationalisation
+intl-app-title = Paramètres d’application
+intl-locales-requested = Langues demandées
+intl-locales-available = Langues disponibles
+intl-locales-supported = Langues de l’application
+intl-locales-default = Langue par défaut
+intl-os-title = Système d’exploitation
+intl-os-prefs-system-locales = Langues du système
+intl-regional-prefs = Préférences régionales
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -201,8 +210,10 @@ glcontext-crash-guard = OpenGL
 reset-on-next-restart = Réinitialisé au prochain démarrage
 gpu-process-kill-button = Arrêter le processus GPU
 gpu-device-reset-button = Déclencher la réinitialisation de l’appareil
+uses-tiling = Utilise le pavage
 content-uses-tiling = Utilise le pavage (contenu)
 off-main-thread-paint-enabled = Painting en dehors du fil d’exécution principal activé
+off-main-thread-paint-worker-count = Nombre de workers participant au painting en dehors du fil d’exécution principal
 audio-backend = Backend audio
 max-audio-channels = Nombre maximum de canaux
 channel-layout = Mode de canal préféré
@@ -218,6 +229,7 @@ can-sandbox-media = Bac à sable pour les plugins multimédia
 content-sandbox-level = Niveau du bac à sable pour les processus de contenu
 effective-content-sandbox-level = Niveau effectif du bac à sable pour les processus de contenu
 sandbox-proc-type-content = contenu
+sandbox-proc-type-file = contenu du fichier
 sandbox-proc-type-media-plugin = plugin multimédia
 # Variables
 # $remoteWindows (integer) - Number of remote windows
@@ -237,6 +249,7 @@ wheel-enabled = entrée molette activée
 touch-enabled = entrée tactile activée
 drag-enabled = faire glisser les barres de défilement
 keyboard-enabled = clavier activé
+autoscroll-enabled = défilement automatique activé
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
