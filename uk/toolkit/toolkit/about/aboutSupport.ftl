@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+page-title = Інформація для вирішення проблем
 page-subtitle =
     Ця сторінка містить технічну інформацію, що може стати у нагоді під час вирішення проблем.
     Якщо ж вам потрібні відповіді на загальні питання щодо
@@ -16,6 +17,12 @@ extensions-name = Назва
 extensions-enabled = Увімкнено
 extensions-version = Версія
 extensions-id = ID
+security-software-title = Програмне забезпечення для захисту
+security-software-type = Тип
+security-software-name = Назва
+security-software-antivirus = Антивірус
+security-software-antispyware = Захист від шпигунства
+security-software-firewall = Мережевий екран
 features-title = Можливості { -brand-short-name }
 features-name = Назва
 features-version = Версія
@@ -42,6 +49,7 @@ app-basics-service-workers = Зареєстровані Service Workers
 app-basics-profiles = Профілі
 app-basics-multi-process-support = Багатопроцесні вікна
 app-basics-process-count = Процеси веб-вмісту
+app-basics-enterprise-policies = Корпоративні правила
 app-basics-key-google = Ключ Google
 app-basics-key-mozilla = Ключ Служби визначення розташування від Mozilla
 app-basics-safe-mode = Безпечний режим
@@ -104,6 +112,15 @@ media-device-format = Формат
 media-device-channels = Канали
 media-device-rate = Частота
 media-device-latency = Затримка
+intl-title = Інтернаціоналізація та локалізація
+intl-app-title = Налаштування програми
+intl-locales-requested = Запитані локалі
+intl-locales-available = Доступні локалі
+intl-locales-supported = Локалі програми
+intl-locales-default = Типова локаль
+intl-os-title = Операційна система
+intl-os-prefs-system-locales = Системні локалі
+intl-regional-prefs = Регіональні налаштування
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -197,13 +214,17 @@ bug-link = вада { $bugNumber }
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Заблоковано; код помилки { $failureCode }
+d3d11layers-crash-guard = Композитор D3D11
 d3d11video-crash-guard = Відео декодер D3D11
 d3d9video-crash-buard = Відео декодер D3D9
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Скинути при наступному перезавантаженні
 gpu-process-kill-button = Завершити GPU процес
 gpu-device-reset-button = Виконати скидання пристрою
+uses-tiling = Використовує тайлинг
+content-uses-tiling = Використовує тайлінг (вміст)
 off-main-thread-paint-enabled = Вимальовування поза основним потоком увімкнено
+off-main-thread-paint-worker-count = Число воркерів вимальовування поза основним потоком
 audio-backend = Обробка аудіо
 max-audio-channels = Максимальне число каналів
 channel-layout = Основний формат каналів
@@ -219,6 +240,7 @@ can-sandbox-media = Пісочниця для плагіна медіа
 content-sandbox-level = Рівень пісочниці процесів вмісту
 effective-content-sandbox-level = Ефективний рівень ізоляції процесу вмісту
 sandbox-proc-type-content = вміст
+sandbox-proc-type-file = вміст файлу
 sandbox-proc-type-media-plugin = медіаплагін
 # Variables
 # $remoteWindows (integer) - Number of remote windows
@@ -248,3 +270,6 @@ touch-warning = асинхронне сенсорне введення вимк�
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+policies-inactive = Неактивно
+policies-active = Активно
+policies-error = Помилка
