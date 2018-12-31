@@ -31,6 +31,7 @@ app-basics-profile-dir =
        *[other] riña ma daj huo'
     }
 app-basics-enabled-plugins = Nga 'iaj sun Plugins
+app-basics-build-config = Nagi'iaj chre' ma
 app-basics-user-agent = Sí raj sun
 app-basics-os = OS
 app-basics-memory-use = Daj nikó nichrá ma
@@ -38,6 +39,8 @@ app-basics-performance = Performance
 app-basics-service-workers = Nej sa ma sa' Service Workers
 app-basics-profiles = Sa a'min rayi'i'
 app-basics-multi-process-support = Ga'i ventana 'iaj sun
+app-basics-process-count = Sa ma riña Web
+app-basics-key-google = Si da'nga' Google
 app-basics-key-mozilla = Mozilla Location Service Key
 app-basics-safe-mode = Hua ran yi'í man
 show-dir-label =
@@ -46,8 +49,11 @@ show-dir-label =
         [windows] Na'nin' carpeta
        *[other] Na'ni' sa ma sa'a
     }
+modified-key-prefs-title = Nej sa ña'an doj nga nagi'io'
 modified-prefs-name = Si yuguit
 modified-prefs-value = Daj du'ue ma
+user-js-title = Sa huin ruat nga user.js
+user-js-description = Riña ma sa' si rasunt <a data-l10n-name="user-js-link">archivo user.js</a>, nu giri rá sa gu'naj { -brand-short-name }.
 locked-key-prefs-title = Nej sa ña'an doj narán
 locked-prefs-name = Si yuguit
 locked-prefs-value = Daj du'ue ma
@@ -68,6 +74,7 @@ js-incremental-gc = Sa ganako' siganinj akoo
 a11y-title = Hua gatu'
 a11y-activated = Nga 'iaj sunj
 a11y-force-disabled = Si ga'ni' gatu'
+a11y-handler-used = Gasunt ngo controlador
 library-version-title = Nej versión ma
 copy-text-to-clipboard-label = Guyun' nej nuguan'
 copy-raw-data-to-clipboard-label = Nachrun' datos riña portapapeles
@@ -82,6 +89,9 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Nuin saj
 safe-mode-title = Garahue' modo seguro
 restart-in-safe-mode-label = Nayi'í ñun' nga nej sa nitaj si 'iaj sun
+media-device-name = Si yuguit
+media-device-group = Yi'ni'in
+media-device-vendor = So' girì
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
