@@ -14,6 +14,12 @@ extensions-name = Nombre
 extensions-enabled = Activada
 extensions-version = Versión
 extensions-id = ID
+security-software-title = Software de seguranza
+security-software-type = Tipo
+security-software-name = Nombre
+security-software-antivirus = Antivirus
+security-software-antispyware = Antispyware
+security-software-firewall = Firewall
 features-title = Caracteristicas de { -brand-short-name }
 features-name = Nombre
 features-version = Versión
@@ -39,6 +45,8 @@ app-basics-performance = Rendimiento
 app-basics-service-workers = Service Workers rechistraus
 app-basics-profiles = Perfils
 app-basics-multi-process-support = Finestras multiproceso
+app-basics-process-count = Procesos de conteniu web
+app-basics-enterprise-policies = Politicas d'interpresa
 app-basics-key-google = Google Key
 app-basics-key-mozilla = Clau d'o servicio de plazamiento de Mozilla
 app-basics-safe-mode = Modo seguro
@@ -73,6 +81,8 @@ js-incremental-gc = Contexto grafico (GC) incremental
 a11y-title = Accesibilidat
 a11y-activated = Activau
 a11y-force-disabled = Privar accesibilidat
+a11y-handler-used = S'ha usau un maniador accesible
+a11y-instantiator = Instanciador d'accesibilidat
 library-version-title = Versions d'a biblioteca
 copy-text-to-clipboard-label = Copiar o texto en o portafuellas
 copy-raw-data-to-clipboard-label = Copiar os datos crudos en o portafuellas
@@ -87,6 +97,27 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Argumentos
 safe-mode-title = Intentar en Modo Seguro
 restart-in-safe-mode-label = Reiniciar con os complementos desactivaus…
+media-title = Multimedia
+media-output-devices-title = Dispositivos de salida
+media-input-devices-title = Dispositivos de dentrada
+media-device-name = Nombre
+media-device-group = Grupo
+media-device-vendor = Fabricant
+media-device-state = Estau
+media-device-preferred = Preferiu
+media-device-format = Formato
+media-device-channels = Canals
+media-device-rate = Freqüencia
+media-device-latency = Latencia
+intl-title = Internacionalización & localización
+intl-app-title = Achustes d'aplicación
+intl-locales-requested = Locales demandadas
+intl-locales-available = Locales disponibles
+intl-locales-supported = Locales d'Aplicación
+intl-locales-default = Locale per defecto
+intl-os-title = Sistema operativo
+intl-os-prefs-system-locales = Locales d'o sistema
+intl-regional-prefs = Preferencias rechionals
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -181,7 +212,15 @@ d3d9video-crash-buard = Decodificador de video D3D9
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Meter propiedatz por defecto en o siguient reinicio.
 gpu-process-kill-button = Rematar proceso GPU
+gpu-device-reset-button = Reinicio d'o dispositivo activador
+uses-tiling = Fa servir mosaicos
+content-uses-tiling = Fa servir mosaicos (conteniu)
+off-main-thread-paint-enabled = S'ha activau lo Painting difuera d'o filo d'execución principal
+off-main-thread-paint-worker-count = Numero de workers de pintura defuera d'o filo principal
 audio-backend = Sistema de fondo d'audio
+max-audio-channels = Maximo numero de canals
+channel-layout = Esquema de canal preferiu
+sample-rate = Freqüencia de mostreyo preferida
 min-lib-versions = S'asperaba una versión minima
 loaded-lib-versions = Versión en uso
 has-seccomp-bpf = Seccomp-BPF (Filtrau de Clamadas a o Sistema)
@@ -191,7 +230,9 @@ has-privileged-user-namespaces = Espacions de nombres de l'usuario pa procesos p
 can-sandbox-content = Content Process Sandboxing
 can-sandbox-media = Seccomp-BPF (Filtrado de Clamadas a o Sistema)
 content-sandbox-level = Nibel de l'entorno de prebas de proceso d'o conteniu
+effective-content-sandbox-level = Nivel efectivo d'a zona de prebatinas d'os procesos de conteniu
 sandbox-proc-type-content = conteniu
+sandbox-proc-type-file = conteniu d'o fichero
 sandbox-proc-type-media-plugin = plugin multimedia
 # Variables
 # $remoteWindows (integer) - Number of remote windows
@@ -210,6 +251,8 @@ apz-none = garra
 wheel-enabled = dentrada con rueda activada
 touch-enabled = dentrada tactil activada
 drag-enabled = s'ha activau l'arrocegamiento d'a barra de desplazamiento
+keyboard-enabled = teclau activau
+autoscroll-enabled = desplazamiento automatico activau
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
@@ -219,3 +262,6 @@ touch-warning = a dentrada tactil asincrona ye desactivada porque i ha una prefe
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+policies-inactive = Inactivo
+policies-active = Activo
+policies-error = Eror
