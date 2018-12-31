@@ -3,6 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 page-title = Dados para suporte
+page-subtitle =
+    Esta página contém informações técnicas que podem ser úteis se você estiver
+    tentando solucionar um problema. Se estiver procurando respostas para as dúvidas mais comuns
+    do { -brand-short-name }, confira o <a data-l10n-name="support-link">site de suporte</a>.
 crashes-id = ID do relatório
 crashes-send-date = Envio
 extensions-title = Extensões
@@ -12,7 +16,10 @@ extensions-id = ID
 app-basics-title = Informações básicas sobre o aplicativo
 app-basics-name = Nome
 app-basics-version = Versão
+app-basics-build-id = ID da compilação
+app-basics-update-channel = Canal de atualização
 app-basics-update-history = Histórico de atualizações
+app-basics-show-update-history = Mostrar histórico de atualizações
 app-basics-profile-dir =
     { PLATFORM() ->
         [linux] Diretório do perfil
@@ -21,6 +28,8 @@ app-basics-profile-dir =
 app-basics-build-config = Configuração da compilação
 app-basics-user-agent = User Agent
 app-basics-memory-use = Uso de memória
+app-basics-service-workers = Service Workers registrados
+app-basics-safe-mode = Modo de segurança
 modified-key-prefs-title = Preferências importantes modificadas
 modified-prefs-name = Nome
 modified-prefs-value = Valor
@@ -31,12 +40,15 @@ locked-prefs-name = Nome
 locked-prefs-value = Valor
 graphics-title = Gráficos
 js-title = JavaScript
+js-incremental-gc = GC incremental
 a11y-title = Acessibilidade
 a11y-activated = Ativado
 a11y-force-disabled = Bloquear acessibilidade
 library-version-title = Versões de bibliotecas
 copy-text-to-clipboard-label = Copiar como texto
 copy-raw-data-to-clipboard-label = Copiar como estrutura de dados
+safe-mode-title = Usar o Modo Seguro
+restart-in-safe-mode-label = Reiniciar com extensões desativadas…
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -65,6 +77,7 @@ text-copied = Texto copiado para a área de transferência
 
 blocked-driver = Bloqueado para a versão do seu driver gráfico.
 blocked-os-version = Bloqueado para a versão do seu sistema operacional.
+blocked-mismatched-version = Bloqueado para a sua versão incompatível do driver de video no registro e DLL
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Parâmetros ClearType
@@ -75,10 +88,17 @@ clear-type-parameters = Parâmetros ClearType
 
 min-lib-versions = Versão mínima esperada
 loaded-lib-versions = Versão em uso
+has-seccomp-bpf = Seccomp-BPF (Sistema de filtragem de chamadas)
+has-seccomp-tsync = Sincronização do Tópico Seccomp
+has-user-namespaces = Espaço de nomes do usuário
+has-privileged-user-namespaces = Espaço de nomes do usuário para processos privilegiados
+can-sandbox-media = Isolamento de plugins de mídia
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
+async-pan-zoom = Deslocamento/Zoom assíncrono
+apz-none = nenhum
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
