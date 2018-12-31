@@ -10,6 +10,8 @@ app-basics-version = รุ่น
 app-basics-memory-use = หน่วยความจำที่ใช้
 modified-prefs-name = ชื่อ
 graphics-title = กราฟิก
+copy-text-to-clipboard-label = คัดลอกข้อความไปยังคลิปบอร์ด
+copy-raw-data-to-clipboard-label = คัดลอกข้อมูลดิบไปยังคลิปบอร์ด
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
