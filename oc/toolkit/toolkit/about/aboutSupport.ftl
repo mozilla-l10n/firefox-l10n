@@ -216,6 +216,7 @@ gpu-device-reset-button = Desenclavar la reïnitializacion del periferic
 uses-tiling = Utiliza lo caladat
 content-uses-tiling = Utiliza lo caladat (contengut)
 off-main-thread-paint-enabled = Desenhar fòra en del fil d’execucion màger activat
+off-main-thread-paint-worker-count = Nombre de workers que participan al painting en defòra del fial d’execucion principal
 audio-backend = Sistèma de retorn àudio
 max-audio-channels = Nombre de canals maximal
 channel-layout = Mòde de canal preferit
