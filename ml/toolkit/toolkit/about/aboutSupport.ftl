@@ -23,7 +23,7 @@ app-basics-version = പതിപ്പു്
 app-basics-build-id = ബില്‍ഡ് ഐഡി
 app-basics-update-channel = ചാനല്‍ പുതുക്കുക
 app-basics-update-history = നാള്‍വഴി പുതുക്കുക
-app-basics-show-update-history = പരിഷ്കരണ നാള്‍വഴി കാണിക്കുക{ " " }
+app-basics-show-update-history = പരിഷ്കരണ നാള്‍വഴി കാണിക്കുക
 app-basics-profile-dir =
     { PLATFORM() ->
         [linux] പ്രൊഫൈല്‍ ഡയറക്ടറി
@@ -190,8 +190,8 @@ keyboard-enabled = കീബോർഡ് സജീവമാക്കി
 ## Variables
 ## $preferenceKey (string) - String ID of preference
 
-wheel-warning = പിന്തുണയില്ലാത്ത pref: { $preferenceKey } കാരണം അസിങ്ക് വീല്‍ ഇന്‍പുട്ട് പ്രവര്‍ത്തനരഹിതമാക്കിയിരിക്കുന്നു{ " " }
-touch-warning = പിന്തുണയില്ലാത്ത pref: { $preferenceKey } കാരണം അസിങ്ക് ടച്ച് ഇന്‍പുട്ട് പ്രവര്‍ത്തനരഹിതമാക്കിയിരിക്കുന്നു{ " " }
+wheel-warning = പിന്തുണയില്ലാത്ത pref: { $preferenceKey } കാരണം അസിങ്ക് വീല്‍ ഇന്‍പുട്ട് പ്രവര്‍ത്തനരഹിതമാക്കിയിരിക്കുന്നു
+touch-warning = പിന്തുണയില്ലാത്ത pref: { $preferenceKey } കാരണം അസിങ്ക് ടച്ച് ഇന്‍പുട്ട് പ്രവര്‍ത്തനരഹിതമാക്കിയിരിക്കുന്നു
 
 ## Strings representing the status of the Enterprise Policies engine.
 
