@@ -14,6 +14,12 @@ extensions-name = Nafn
 extensions-enabled = Virk
 extensions-version = Útgáfa
 extensions-id = Auðkenni
+security-software-title = Öryggishugbúnaður
+security-software-type = Tegund
+security-software-name = Nafn
+security-software-antivirus = Vírusvörn
+security-software-antispyware = Vírusvörn
+security-software-firewall = Eldveggur
 features-title = { -brand-short-name } eiginleikar
 features-name = Nafn
 features-version = Útgáfa
@@ -102,6 +108,15 @@ media-device-format = Snið
 media-device-channels = Rásir
 media-device-rate = Hraði
 media-device-latency = Biðtími
+intl-title = Alþjóðavæðing og þýðingar
+intl-app-title = Stillingar forrits
+intl-locales-requested = Umbeðin tungumál
+intl-locales-available = Tiltæk tungumál
+intl-locales-supported = Tungumál Apps
+intl-locales-default = Sjálfgefið tungumál
+intl-os-title = Stýrikerfi
+intl-os-prefs-system-locales = Tungumál kerfis
+intl-regional-prefs = Svæðisstillingar
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -197,7 +212,9 @@ glcontext-crash-guard = OpenGL
 reset-on-next-restart = Endurstilla í næstu endurræsingu
 gpu-process-kill-button = Stöðva GPU ferli
 gpu-device-reset-button = Endurstilla tæki
+uses-tiling = Notar flísar
 off-main-thread-paint-enabled = Litun fyrir utan aðalþráð virkt
+off-main-thread-paint-worker-count = Fjöldi vinnsluþráða fyrir litun fyrir utan aðalþráð
 audio-backend = Hljóðkerfi
 max-audio-channels = Hámarksfjöldi rása
 channel-layout = Preferred Channel Layout
@@ -213,6 +230,7 @@ can-sandbox-media = Media Plugin Sandboxing
 content-sandbox-level = Content Process Sandbox Level
 effective-content-sandbox-level = Effective Content Process Sandbox Level
 sandbox-proc-type-content = innihald
+sandbox-proc-type-file = innihald skráar
 sandbox-proc-type-media-plugin = miðils tengiforrit
 # Variables
 # $remoteWindows (integer) - Number of remote windows
@@ -242,3 +260,6 @@ touch-warning = ósamstilltur snertiskjár óvirkur vegna óstuddar stillingar: 
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+policies-inactive = Óvirkt
+policies-active = Virkt
+policies-error = Villa
