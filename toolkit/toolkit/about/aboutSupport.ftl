@@ -17,6 +17,12 @@ extensions-name = Назва
 extensions-enabled = Задзейнічана
 extensions-version = Версія
 extensions-id = ID
+security-software-title = Праграмы для бяспекі
+security-software-type = Тып
+security-software-name = Назва
+security-software-antivirus = Антывірус
+security-software-antispyware = Антышпіён
+security-software-firewall = Міжсеткавы экран
 features-title = Магчымасці { -brand-short-name }
 features-name = Імя
 features-version = Версія
@@ -42,6 +48,7 @@ app-basics-performance = Прадукцыйнасць
 app-basics-service-workers = Зарэгістраваныя сервіс-воркеры
 app-basics-profiles = Профілі
 app-basics-multi-process-support = Шматпрацэсныя вокны
+app-basics-process-count = Працэсы вэб-кантэнту
 app-basics-key-google = Ключ Google
 app-basics-key-mozilla = Ключ Службы вызначэння месцазнаходжання ад Mozilla
 app-basics-safe-mode = Абаронены рэжым
@@ -76,6 +83,7 @@ js-incremental-gc = Incremental GC
 a11y-title = Даступнасць
 a11y-activated = Задзейнічаны
 a11y-force-disabled = Прадухіліць даступнасць
+a11y-instantiator = Увасабляльнік даступнасці
 library-version-title = Версіі бібліятэк
 copy-text-to-clipboard-label = Скапіяваць тэкст у буфер абмену
 copy-raw-data-to-clipboard-label = Скапіяваць сырыя дадзеныя ў буфер абмену
@@ -90,6 +98,7 @@ sandbox-sys-call-number = Сістэмны выклік
 sandbox-sys-call-args = Аргументы
 safe-mode-title = Паспрабаваць абаронены рэжым
 restart-in-safe-mode-label = Перазапусціць з адключанымі дадаткамі…
+intl-os-title = Аперацыйная сістэма
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -113,6 +122,14 @@ crashes-time-hours =
         [one] { $hours } гадзіна таму
         [few] { $hours } гадзіны таму
        *[many] { $hours } гадзінаў таму
+    }
+# Variables
+# $days (integer) - Number of days since crash
+crashes-time-days =
+    { $days ->
+        [one] { $days } дзень таму
+        [few] { $days } дні таму
+       *[many] { $days } дзён таму
     }
 # Variables
 # $reports (integer) - Number of pending reports
@@ -181,6 +198,10 @@ d3d9video-crash-buard = Відэадэкодэр D3D9
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Скінуць пры наступным перазапуску
 gpu-process-kill-button = Завяршыць GPU працэс
+uses-tiling = Выкарыстоўвае тайлінг
+content-uses-tiling = Выкарыстоўвае тайлінг (кантэнт)
+off-main-thread-paint-enabled = Прамалёўванне па-за асноўным патокам уключана
+off-main-thread-paint-worker-count = Колькасць воркераў прамалёўвання па-за асноўным патокам
 min-lib-versions = Чаканая найменшая версія
 loaded-lib-versions = Версія ў ужыванні
 has-seccomp-bpf = Seccomp-BPF (Фільтраванне сістэмных выклікаў)
@@ -190,6 +211,7 @@ has-privileged-user-namespaces = Прасторы імён карыстальн�
 can-sandbox-content = Пясочніца змястоўных працэсаў
 can-sandbox-media = Пясочніца медыя-плагінаў
 content-sandbox-level = Узровень пясочніцы змястоўных працэсаў
+effective-content-sandbox-level = Дзейны ўзровень ізаляцыі працэсу апрацоўкі змесціва
 sandbox-proc-type-content = змесціва
 sandbox-proc-type-media-plugin = медыяплагін
 # Variables
@@ -209,6 +231,7 @@ apz-none = няма
 wheel-enabled = увод колца ўключаны
 touch-enabled = пальцавы увод ўключаны
 drag-enabled = захоп стужкі прагорткі ўключаны
+keyboard-enabled = клавіятура ўключана
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
