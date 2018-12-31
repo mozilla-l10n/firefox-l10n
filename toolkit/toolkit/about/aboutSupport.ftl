@@ -259,3 +259,6 @@ touch-warning = असमर्थित पसंद: { $preferenceKey } के
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+policies-inactive = निष्क्रिय
+policies-active = सक्रिय
+policies-error = त्रुटि
