@@ -11,6 +11,7 @@ extensions-title = పొడిగింపులు
 extensions-name = పేరు
 app-basics-title = అనువర్తనం ప్రాధమికాలు
 app-basics-name = పేరు
+app-basics-update-channel = నవీకరణ ఛానల్
 app-basics-update-history = తాజాకరణ చరిత్ర
 app-basics-show-update-history = తాజాకరణ చరిత్రను చూపించు
 app-basics-profile-dir =
@@ -22,9 +23,12 @@ app-basics-enabled-plugins = చేతనపరచిన చొప్పిం�
 app-basics-build-config = నిర్మామ ఆకృతీకరణ
 app-basics-user-agent = వాడుకరి ప్రతినిధి
 app-basics-memory-use = మెమొరీ వినియోగం
+app-basics-multi-process-support = మల్టీప్రోసెస్ విండోలు
 modified-prefs-name = పేరు
 modified-prefs-value = విలువ
 user-js-title = user.js అభిరుచులు
+locked-prefs-name = పేరు
+locked-prefs-value = విలువ
 graphics-title = గ్రాఫిక్స్
 js-title = జావాస్క్రిప్ట్
 js-incremental-gc = ప్రవర్ధమాన GC
@@ -32,6 +36,7 @@ a11y-title = సులభత
 a11y-activated = క్రియాశీలమైంది
 a11y-force-disabled = సులభత నిరోధించు
 library-version-title = లైబ్రరీ వర్షన్స్
+restart-in-safe-mode-label = పొడిగింతలను అచేతనించి పునఃప్రారంభించు…
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -67,12 +72,17 @@ clear-type-parameters = ClearType పారామితులు
 ## In some development versions, it's expected for some API keys that they are
 ## not found.
 
+gpu-device-id = పరికరం ఐడి
+gpu-subsys-id = ఉపవ్యవస్థ ఐడి
+gpu-driver-version = డ్రైవర్ రూపాంతరం
+gpu-driver-date = డ్రైవర్ తేది
 min-lib-versions = కావలసిన కనీస వర్షన్
 loaded-lib-versions = వినియోగంలో వున్న వర్షన్
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
+apz-none = ఏమీలేవు
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
