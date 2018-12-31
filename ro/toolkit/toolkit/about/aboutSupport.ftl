@@ -34,6 +34,11 @@ app-basics-build-id = ID-ul versiunii compilate
 app-basics-update-channel = Canal de actualizare
 app-basics-update-history = Istoricul actualizărilor
 app-basics-show-update-history = Afișează istoricul actualizărilor
+app-basics-profile-dir =
+    { PLATFORM() ->
+        [linux] Director de profiluri
+       *[other] Dosar de profiluri
+    }
 app-basics-enabled-plugins = Pluginuri activate
 app-basics-build-config = Configurația versiunii compilate
 app-basics-user-agent = Agent utilizator
@@ -81,10 +86,12 @@ a11y-activated = Activat
 a11y-force-disabled = Împiedică accesibilitatea
 a11y-handler-used = Handler accesibil folosit
 a11y-instantiator = Instanțiator de accesibilitate
+library-version-title = Versiuni de bibliotecă
 copy-text-to-clipboard-label = Copiază textul în clipboard
 copy-raw-data-to-clipboard-label = Copiază datele brute în clipboard
 sandbox-title = Sandbox
 sandbox-sys-call-log-title = Apeluri de sistem respinse
+sandbox-sys-call-index = #
 sandbox-sys-call-age = Secunde în urmă
 sandbox-sys-call-pid = PID
 sandbox-sys-call-tid = TID
@@ -159,9 +166,13 @@ text-copied = Text copiat în clipboard
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
+blocked-driver = Blocat pentru versiunea ta de driver pentru adaptorul grafic.
 blocked-gfx-card = Blocate pentru adaptorul grafic al dumneavoastră din cauza unor probleme nerezolvate ale driverului.
 blocked-os-version = Blocate pentru versiunea sistemului dumneavoastră de operare.
 blocked-mismatched-version = Blocat din cauza necorelării versiunilor driverelor grafice între registru și DLL.
+# Variables
+# $driverVersion - The graphics driver version string
+try-newer-driver = Blocat pentru versiunea ta de driver pentru adaptorul grafic. Încearcă să actualizezi driverul adaptorului grafic la versiunea { $driverVersion } sau mai nouă.
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Parametrii ClearType
@@ -212,6 +223,8 @@ gpu-process-kill-button = Termină procesul GPU
 gpu-device-reset-button = Declanșează resetarea dispozitivului
 uses-tiling = Folosește tiling
 content-uses-tiling = Folosește Tiling (Conținut)
+off-main-thread-paint-enabled = Desenare în afara firului de execuție principal activată
+off-main-thread-paint-worker-count = Număr de workeri pentru desenare în afara firului de execuție principal
 audio-backend = Backend audio
 max-audio-channels = Canale maxime
 channel-layout = Aspect preferat al canalelor
