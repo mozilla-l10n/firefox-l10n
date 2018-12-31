@@ -9,7 +9,7 @@ crashes-id = अहवाल ID
 crashes-send-date = सादर केला
 crashes-all-reports = सगळे क्रॅश अहवाल
 crashes-no-config = क्रॅश अहवाल दाखोवपाक ह्या अनुप्रयोगाची संरचनाय जाव ना.
-extensions-title = { " " }विस्तार
+extensions-title = विस्तार
 extensions-name = नाव
 extensions-enabled = सक्षम
 extensions-version = आवृत्ती
@@ -34,7 +34,7 @@ modified-prefs-name = नाव
 modified-prefs-value = मोल
 user-js-title = user.js प्राधान्यां
 user-js-description = तुमच्या प्रोफायल फोल्डरान <a data-l10n-name="user-js-link">user.js फायल</a> आसा, जातून { -brand-short-name } न तयार करू नाशिल्ल्या प्राधान्यांचो आसपाव आसा.
-locked-key-prefs-title = खाशेली कुलुप केल्ली प्राधान्यां{ "  " }
+locked-key-prefs-title = खाशेली कुलुप केल्ली प्राधान्यां
 locked-prefs-name = नाव
 locked-prefs-value = मोल
 graphics-title = ग्राफिक्स
