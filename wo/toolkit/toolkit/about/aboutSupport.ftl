@@ -104,6 +104,15 @@ media-device-format = Melokaanal
 media-device-channels = Yoon
 media-device-rate = Baraay
 media-device-latency = Yeexaay
+# Variables
+# $minutes (integer) - Number of minutes since crash
+crashes-time-minutes = { $minutes } simili ci ginnaaw
+# Variables
+# $hours (integer) - Number of hours since crash
+crashes-time-hours = { $hours } waxtu ci ginnaaw
+# Variables
+# $days (integer) - Number of days since crash
+crashes-time-days = { $days } fan ci ginnaaw
 raw-data-copied = Xibaar yi ñu duppi ci dencandikaayu kayit bi
 text-copied = Mbind mi ñu duppi ci dencandikaayu kayit bi
 
