@@ -3,10 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 page-title = Sorun giderme bilgileri
+page-subtitle = Bu sayfa, bir sorunu gidermeye çalışırken işinize yarabilecek teknik bilgiler içerir. { -brand-short-name } hakkında genel sorularla ilgili yanıt arıyorsanız <a data-l10n-name="support-link">destek sitemizi</a> ziyaret edin.
 crashes-title = Çökme Raporları
+crashes-id = Rapor numarası
+crashes-send-date = Gönderilme tarihi
+crashes-all-reports = Tüm çökme raporları
 crashes-no-config = Bu uygulama, çökme raporlarını görüntülemek için yapılandırılmamış.
 extensions-title = Uzantılar
 extensions-name = Adı
+extensions-enabled = Etkin mi?
 extensions-version = Sürüm
 extensions-id = Kimlik
 security-software-title = Güvenlik yazılımları
@@ -22,21 +27,55 @@ features-id = Kimlik
 app-basics-title = Uygulama temelleri
 app-basics-name = Adı
 app-basics-version = Sürüm
+app-basics-build-id = Yapı numarası
+app-basics-update-channel = Güncelleme kanalı
 app-basics-update-history = Güncelleme geçmişi
 app-basics-show-update-history = Güncelleme geçmişini göster
+app-basics-profile-dir =
+    { PLATFORM() ->
+        [linux] Profil dizini
+       *[other] Profil klasörü
+    }
 app-basics-enabled-plugins = Devredeki yan uygulamalar
 app-basics-build-config = Yapılandırma
 app-basics-user-agent = Kullanıcı istemcisi
+app-basics-os = İşletim sistemi
 app-basics-memory-use = Bellek kullanımı
+app-basics-performance = Performans
+app-basics-service-workers = Kayıtlı Service Worker'lar
+app-basics-profiles = Profiller
+app-basics-multi-process-support = Çok işlemli pencereler
 app-basics-process-count = Web içeriği işlemi
 app-basics-enterprise-policies = Kurumsal ilkeler
 app-basics-key-google = Google anahtarı
 app-basics-key-mozilla = Mozilla Konum Hizmeti anahtarı
 app-basics-safe-mode = Güvenli kip
+show-dir-label =
+    { PLATFORM() ->
+        [macos] Finder'da göster
+        [windows] Klasörü aç
+       *[other] Dizini aç
+    }
 modified-key-prefs-title = Değiştirilmiş önemli tercihler
 modified-prefs-name = Adı
 modified-prefs-value = Değer
+user-js-title = user.js tercihleri
+user-js-description = Profil klasörünüz { -brand-short-name } tarafından oluşturulmamış tercihler içeren bir <a data-l10n-name="user-js-link">user.js dosyası</a> içeriyor.
 locked-key-prefs-title = Kilitlenmiş önemli tercihler
+locked-prefs-name = Adı
+locked-prefs-value = Değer
+graphics-title = Grafikler
+graphics-features-title = Özellikler
+graphics-diagnostics-title = Tanılama
+graphics-failure-log-title = Hata günlüğü
+graphics-gpu1-title = GPU #1
+graphics-gpu2-title = GPU #2
+graphics-decision-log-title = Karar günlüğü
+graphics-crash-guards-title = Çökme koruyucusu tarafından kapatılan özellikler
+graphics-workarounds-title = Çözümler
+place-database-title = Places veritabanı
+place-database-integrity = Bütünlük
+place-database-verify-integrity = Bütünlüğü doğrula
 js-title = JavaScript
 js-incremental-gc = Artırımlı GC
 a11y-title = Erişilebilirlik
@@ -47,6 +86,7 @@ a11y-instantiator = Erişilebilirlik temsilcisi
 library-version-title = Kitaplık sürümleri
 copy-text-to-clipboard-label = Metni panoya kopyala
 copy-raw-data-to-clipboard-label = Ham metni panoya kopyala
+sandbox-title = Kum havuzu
 sandbox-sys-call-log-title = Reddedilen sistem çağrıları
 sandbox-sys-call-index = #
 sandbox-sys-call-age = saniye önce
@@ -55,6 +95,8 @@ sandbox-sys-call-tid = TID
 sandbox-sys-call-proc-type = İşlem türü
 sandbox-sys-call-number = Sistem çağrısı
 sandbox-sys-call-args = Parametreler
+safe-mode-title = Güvenli kipi deneyin
+restart-in-safe-mode-label = Eklentileri devre dışı bırakıp yeniden başlat…
 media-title = Ortam
 media-output-devices-title = Çıktı cihazları
 media-input-devices-title = Girdi cihazları
@@ -119,12 +161,18 @@ text-copied = Metin panoya kopyalandı
 blocked-driver = Grafik kartı sürücüsü sürümünüz için engellenmiştir.
 blocked-gfx-card = Çözülemeyen sürücü sorunları nedeniyle grafik kartınız için engellenmiştir.
 blocked-os-version = İşletim sistemi sürümünüz için engellenmiştir.
+blocked-mismatched-version = Kayıt defteriyle DLL arasındaki grafik sürücüsü uyumsuzluğunuz nedeniyle engellendi.
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Grafik kartı sürücüsü sürümünüz için engellenmiştir. Grafik kartı sürücünüzü { $driverVersion } veya daha yeni bir sürüme güncellemeyi deneyin.
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType parametreleri
+compositing = Çizici
+hardware-h264 = Donanımsal H264 çözme
+main-thread-no-omtc = ana işlem parçacığı, OMTC yok
+yes = Evet
+no = Hayır
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
@@ -132,15 +180,38 @@ clear-type-parameters = ClearType parametreleri
 
 found = Bulundu
 missing = Eksik
+gpu-description = Tanım
+gpu-vendor-id = Satıcı numarası
+gpu-device-id = Aygıt numarası
+gpu-subsys-id = Subsys numarası
+gpu-drivers = Sürücüler
+gpu-ram = RAM
+gpu-driver-version = Sürücü sürümü
+gpu-driver-date = Sürücü tarihi
+gpu-active = Etkin
 webgl1-wsiinfo = WebGL 1 sürücü WSI bilgileri
 webgl1-renderer = WebGL 1 sürücü renderer'ı
 webgl1-version = WebGL 1 sürücü sürümü
 webgl1-driver-extensions = WebGL 1 sürücü uzantıları
 webgl1-extensions = WebGL 1 uzantıları
 webgl2-wsiinfo = WebGL 2 sürücü WSI bilgileri
+webgl2-renderer = WebGL2 çizici
 webgl2-version = WebGL 2 sürücü sürümü
 webgl2-driver-extensions = WebGL 2 sürücü uzantıları
 webgl2-extensions = WebGL 2 uzantıları
+blocklisted-bug = Bilinen sorunlar nedeniyle engellendi
+# Variables
+# $bugNumber (string) - String of bug number from Bugzilla
+bug-link = bug { $bugNumber }
+# Variables
+# $failureCode (string) - String that can be searched in the source tree.
+unknown-failure = Engellendi. Hata kodu { $failureCode }
+d3d11layers-crash-guard = D3D11 Compositor
+d3d11video-crash-guard = D3D11 Video Çözücüsü
+d3d9video-crash-buard = D3D9 Video Çözücüsü
+glcontext-crash-guard = OpenGL
+reset-on-next-restart = Sonraki yeniden başlatmada sıfırla
+gpu-process-kill-button = GPU işlemini sonlandır
 gpu-device-reset-button = Aygıt sıfırlamayı tetikle
 uses-tiling = Tiling kullanımı
 content-uses-tiling = Tiling kullanımı (içerik)
@@ -152,6 +223,13 @@ channel-layout = Tercih edilen kanal düzeni
 sample-rate = Tercih edilen örnek oranı
 min-lib-versions = Beklenen minimum sürüm
 loaded-lib-versions = Kullanılan sürüm
+has-seccomp-bpf = Seccomp-BPF (sistem çağrısı filtreleme)
+has-seccomp-tsync = Seccomp işlem senkronizasyonu
+has-user-namespaces = Kullanıcı isim uzayları
+has-privileged-user-namespaces = Ayrıcalıklı işlemler için kullanıcı isim uzayları
+can-sandbox-content = İçerik işlemi kum havuzu
+can-sandbox-media = Medya yan uygulaması kum havuzu
+content-sandbox-level = İçerik işlemi kum havuzu düzeyi
 effective-content-sandbox-level = Etkin içerik işlemi kum havuzu düzeyi
 sandbox-proc-type-content = içerik
 sandbox-proc-type-file = dosya içeriği
@@ -160,12 +238,27 @@ sandbox-proc-type-media-plugin = ortam yan uygulaması
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
+multi-process-status-0 = kullanıcı tarafından etkinleştirildi
+multi-process-status-1 = Varsayılan olarak etkin
+multi-process-status-2 = Devre dışı
+multi-process-status-4 = Erişilebilirlik araçları tarafından devre dışı bırakıldı
+multi-process-status-6 = Desteklenmeyen metin girdisi tarafından devre dışı bırakıldı
+multi-process-status-7 = Eklentiler tarafından devre dışı bırakıldı
+multi-process-status-8 = Zorla devre dışı bırakıldı
+multi-process-status-unknown = Bilinmeyen durum
+async-pan-zoom = Asenkron kaydır/yakınlaştır
+apz-none = yok
+wheel-enabled = tekerlek girdisi etkin
+touch-enabled = dokunma girdisi etkin
+drag-enabled = kaydırma çubuğu sürükleme etkin
 keyboard-enabled = klavye etkin
 autoscroll-enabled = otomatik kaydırma etkin
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
 
+wheel-warning = desteklenmeyen tercih nedeniyle asenkron tekerlek girdisi devre dışı bırakıldı: { $preferenceKey }
+touch-warning = desteklenmeyen tercih nedeniyle asenkron dokunma girdisi devre dışı bırakıldı: { $preferenceKey }
 
 ## Strings representing the status of the Enterprise Policies engine.
 
