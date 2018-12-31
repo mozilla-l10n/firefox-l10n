@@ -9,11 +9,21 @@ extensions-version = Yamre
 app-basics-title = Beeɓtuɗe Jaaɓnirgal
 app-basics-name = Innde
 app-basics-version = Yamre
+app-basics-profile-dir =
+    { PLATFORM() ->
+        [linux] Runngere Keftinirɗe
+       *[other] Runngere Keftinirɗe
+    }
 app-basics-enabled-plugins = Ceŋe Daaƴtaaɗe
 app-basics-build-config = Taf Teeltannde
 app-basics-user-agent = Ajajo Kuutoro
+app-basics-memory-use = Kuutorogol Tesko
+modified-key-prefs-title = Jiggo Teelte Baylaaɗe
 modified-prefs-name = Innde
 graphics-title = Jaytinooje
+js-title = JavaScript
+js-incremental-gc = Incremental GC
+library-version-title = Jame Deftorli
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
@@ -31,6 +41,8 @@ clear-type-parameters = Teelte ClearType
 ## In some development versions, it's expected for some API keys that they are
 ## not found.
 
+min-lib-versions = Yamre lesiire tijjaande
+loaded-lib-versions = Yamre huutorteende
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
