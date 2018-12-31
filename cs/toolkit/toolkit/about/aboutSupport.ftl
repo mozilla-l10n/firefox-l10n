@@ -19,6 +19,7 @@ app-basics-profile-dir =
         [linux] Adresář profilu
        *[other] Složka profilu
     }
+app-basics-enabled-plugins = Povolené zásuvné moduly
 app-basics-build-config = Nastavení sestavení
 app-basics-user-agent = Identifikace prohlížeče
 app-basics-memory-use = Spotřeba paměti
@@ -26,6 +27,7 @@ modified-key-prefs-title = Důležité změněné předvolby
 modified-prefs-name = Název
 modified-prefs-value = Hodnota
 user-js-title = Předvolby user.js
+graphics-title = Grafika
 js-title = JavaScript
 js-incremental-gc = Inkrementální GC
 a11y-title = Přístupnost
