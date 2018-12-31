@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+page-title = সমস্যমুক্তিৰ তথ্য
+crashes-title = স্খলন সংবাদসমূহ
+crashes-id = সংবাদ ID
+crashes-send-date = জমা দিয়া হল
+crashes-all-reports = সকলো স্খলন সংবাদ
+crashes-no-config = এই এপ্লিকেচনক স্খলন সংবাদসমূহ প্ৰদৰ্শন কৰিবলৈ সংৰূপণ কৰা হোৱা নাই।
 extensions-title = প্ৰসাৰনসমূহ
 extensions-name = নাম
 extensions-enabled = সামৰ্থবান কৰা আছে
@@ -9,6 +15,8 @@ extensions-version = সংস্কৰণ
 app-basics-title = এপ্লিকেচন মৌলিকসমূহ
 app-basics-name = নাম
 app-basics-version = সংস্কৰণ
+app-basics-update-history = ইতিহাস আপডেইট কৰক
+app-basics-show-update-history = আপডেইটৰ ইতিহাস দেখুৱাওক
 app-basics-profile-dir =
     { PLATFORM() ->
         [linux] আলেখ্য ডাইৰেকটৰি
@@ -31,6 +39,41 @@ a11y-activated = সক্ৰিয়
 a11y-force-disabled = অভিগম্যতা প্ৰতিৰোধ কৰক
 library-version-title = লাইব্ৰেৰী সংস্কৰণসমূহ
 copy-raw-data-to-clipboard-label = ৰ' তথ্যক ক্লিপবৰ্ডলে কপি কৰক
+# Variables
+# $days (Integer) - Number of days of crashes to log
+report-crash-for-days =
+    { $days ->
+        [one] সৰ্বশেষ { $days } দিনৰ স্খলন সংবাদসমূহ
+       *[other] সৰ্বশেষ { $days } দিনৰ স্খলন সংবাদসমূহ
+    }
+# Variables
+# $minutes (integer) - Number of minutes since crash
+crashes-time-minutes =
+    { $minutes ->
+        [one] { $minutes } মিনিট আগত
+       *[other] { $minutes } মিনিট আগত
+    }
+# Variables
+# $hours (integer) - Number of hours since crash
+crashes-time-hours =
+    { $hours ->
+        [one] { $hours } ঘন্টা আগত
+       *[other] { $hours } ঘন্টা আগত
+    }
+# Variables
+# $days (integer) - Number of days since crash
+crashes-time-days =
+    { $days ->
+        [one] { $days } দিন আগত
+       *[other] { $days } দিন আগত
+    }
+# Variables
+# $reports (integer) - Number of pending reports
+pending-reports =
+    { $reports ->
+        [one] সকলো স্খলন সংবাদ (প্ৰদান কৰা সময় বিস্তাৰত { $reports } বাকি স্খলনৰ সৈতে)
+       *[other] সকলো স্খলন সংবাদ(প্ৰদান কৰা সময় বিস্তাৰত { $reports } বাকি স্খলনৰ সৈতে)
+    }
 raw-data-copied = ৰ' তথ্য ক্লিপবৰ্ডলে কপি কৰা হল
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
