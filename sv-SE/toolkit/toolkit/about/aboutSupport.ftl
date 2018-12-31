@@ -173,6 +173,8 @@ hardware-h264 = H264 hårdvaruavkodning
 main-thread-no-omtc = huvudtråden, ingen OMTC
 yes = Ja
 no = Nej
+unknown = Okänd
+virtual-monitor-disp = Virtuell bildskärmsvisning
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
@@ -180,6 +182,8 @@ no = Nej
 
 found = Hittad
 missing = Saknas
+gpu-process-pid = GPUProcessPid
+gpu-process = GPUProcess
 gpu-description = Beskrivning
 gpu-vendor-id = Leverantörs-ID
 gpu-device-id = Enhets-ID
