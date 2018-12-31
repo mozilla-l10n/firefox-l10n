@@ -17,6 +17,7 @@ modified-key-prefs-title = Важне измењене поставке
 modified-prefs-name = Назив
 modified-prefs-value = Вредност
 graphics-title = Графика
+a11y-title = Приступачност
 library-version-title = Издања библиотека
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
