@@ -26,6 +26,7 @@ modified-prefs-value = मान
 graphics-title = चित्रादि
 js-title = जावा स्क्रिप्ट
 js-incremental-gc = संवर्द्धित GC
+a11y-title = पहुँच
 library-version-title = लाइब्रेरी संस्करण
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
