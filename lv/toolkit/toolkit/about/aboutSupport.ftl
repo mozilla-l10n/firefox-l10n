@@ -14,6 +14,16 @@ extensions-name = Nosaukums
 extensions-enabled = Ieslēgts
 extensions-version = Versija
 extensions-id = ID
+security-software-title = Drošības programmatūra
+security-software-type = Tips
+security-software-name = Nosaukums
+security-software-antivirus = Pretvīrusu aizsardzība
+security-software-antispyware = Pretspiegprogrammatūra
+security-software-firewall = Ugunsmūris
+features-title = { -brand-short-name } iespējas
+features-name = Nosaukums
+features-version = Versija
+features-id = ID
 app-basics-title = Programmas pamatinformācija
 app-basics-name = Nosaukums
 app-basics-version = Versija
@@ -31,10 +41,21 @@ app-basics-build-config = Būvējuma konfigurācija
 app-basics-user-agent = Lietotāja aģents
 app-basics-os = OS
 app-basics-memory-use = Atmiņas izmantojums
+app-basics-performance = Veiktspēja
 app-basics-service-workers = Reģistrētie pakalpojumu darbinieki
 app-basics-profiles = Profili
 app-basics-multi-process-support = Vairāku procesu logs
+app-basics-process-count = Tīmekļa satura process
+app-basics-enterprise-policies = Uzņēmuma politikas
+app-basics-key-google = Google atslēga
+app-basics-key-mozilla = Mozilla atrašanās vietas pakalpojuma atslēga
 app-basics-safe-mode = Drošais režīms
+show-dir-label =
+    { PLATFORM() ->
+        [macos] Rādīt ar Finder
+        [windows] Atvērt mapi
+       *[other] Atvērt mapi
+    }
 modified-key-prefs-title = Svarīgie modificētie iestatījumi
 modified-prefs-name = Nosaukums
 modified-prefs-value = Vērtība
@@ -49,17 +70,54 @@ graphics-diagnostics-title = Diagnostika
 graphics-failure-log-title = Avāriju žurnāls
 graphics-gpu1-title = GPU #1
 graphics-gpu2-title = GPU #2
+graphics-decision-log-title = Lēmumu žurnāls
+graphics-crash-guards-title = Avāriju aizsardzības deaktivētās iespējas
+graphics-workarounds-title = Pagaidu risinājumi
+place-database-title = Vietu datubāze
+place-database-integrity = Integritāte
+place-database-verify-integrity = Pārbaudīt integritāti
 js-title = JavaScript
 js-incremental-gc = Inkrementālais GC
 a11y-title = Pieejamība
 a11y-activated = Aktivizēta
 a11y-force-disabled = Neatļaut pieejamību
+a11y-handler-used = Izmantots pieejamības rīks
+a11y-instantiator = Pieejamības indikators
 library-version-title = Bibliotēkas versijas
 copy-text-to-clipboard-label = Kopēt tekstu atmiņā
 copy-raw-data-to-clipboard-label = Kopēt datus atmiņā
 sandbox-title = Ierobežošana
+sandbox-sys-call-log-title = Noraidītie sistēmas izsaukumi
+sandbox-sys-call-index = #
+sandbox-sys-call-age = Pirms pirkļa
+sandbox-sys-call-pid = PID
+sandbox-sys-call-tid = TID
+sandbox-sys-call-proc-type = Procesa tipa
+sandbox-sys-call-number = Syscall
+sandbox-sys-call-args = Argumenti
 safe-mode-title = Izmēģini drošo režīmu
 restart-in-safe-mode-label = Pārstartēt ar deaktivētiem papildinājumiem…
+media-title = Multimēdijas
+media-output-devices-title = Izvades ierīces
+media-input-devices-title = Ievades ierīces
+media-device-name = Nosaukums
+media-device-group = Grupa
+media-device-vendor = Ražotājs
+media-device-state = Stāvoklis
+media-device-preferred = Vēlamais
+media-device-format = Formāts
+media-device-channels = Kanāli
+media-device-rate = Ātrums
+media-device-latency = Aizture
+intl-title = Internacionalizācija un lokalizācija
+intl-app-title = Programmatūras iestatījumi
+intl-locales-requested = Pieprasītais valodas
+intl-locales-available = Pieejamās valodas
+intl-locales-supported = Lietotnes valodas
+intl-locales-default = Noklusētā valoda
+intl-os-title = Operētājsisēma
+intl-os-prefs-system-locales = Sistēmas valodas
+intl-regional-prefs = Reģiona iesatījumi
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -125,6 +183,8 @@ no = Nē
 ## In some development versions, it's expected for some API keys that they are
 ## not found.
 
+found = Atrasts
+missing = Trūkst
 gpu-description = Apraksts
 gpu-vendor-id = Ražotāja ID
 gpu-device-id = Ierīces ID
@@ -134,6 +194,38 @@ gpu-ram = Atmiņa
 gpu-driver-version = Draivera versija
 gpu-driver-date = Draivera datums
 gpu-active = Aktīvs
+webgl1-wsiinfo = WebGL 1 draivera WSI info
+webgl1-renderer = WebGL 1 draivera renderētājs
+webgl1-version = WebGL 1 draivera versija
+webgl1-driver-extensions = WebGL 1 draivera paplašinājumi
+webgl1-extensions = WebGL 1 paplašinājumi
+webgl2-wsiinfo = WebGL 2 draivera WSI info
+webgl2-renderer = WebGL2 Renderer
+webgl2-version = WebGL 2 draivera versija
+webgl2-driver-extensions = WebGL 2 draivera paplašinājumi
+webgl2-extensions = WebGL 2 paplašinājumi
+blocklisted-bug = Bloķēts zināmu kļūdu dēļ
+# Variables
+# $bugNumber (string) - String of bug number from Bugzilla
+bug-link = kļūda { $bugNumber }
+# Variables
+# $failureCode (string) - String that can be searched in the source tree.
+unknown-failure = Bloķēts; kļūdas kods { $failureCode }
+d3d11layers-crash-guard = D3D11 kompozitors
+d3d11video-crash-guard = D3D11 Video dekoderis
+d3d9video-crash-buard = D3D11 Video dekoderis
+glcontext-crash-guard = OpenGL
+reset-on-next-restart = Atjaunot nākamajā pārstartēšanā
+gpu-process-kill-button = Pārtraukt GPU procesu
+gpu-device-reset-button = Izraisīt ierīces atiestatīšanu
+uses-tiling = Izmanto grupēšanu
+content-uses-tiling = Izmanto virsrakstošanu (saturs)
+off-main-thread-paint-enabled = Aktivēta zīmēšana ne galvenajā pavedienā
+off-main-thread-paint-worker-count = Ne galvenajā pavedienā zīmējošo darbinieku skaits
+audio-backend = Skaņas Backend
+max-audio-channels = Maksimālie kanāli
+channel-layout = Vēlamais kanālu izkārtojums
+sample-rate = Vēlamais kadra ātrums
 min-lib-versions = Gaidītā minimālā versija
 loaded-lib-versions = Izmantotā versija
 has-seccomp-bpf = Seccomp-BPF (Sistēmas izsaukumu filtrešana)
@@ -142,6 +234,11 @@ has-user-namespaces = Lietotāju vārdtelpas
 has-privileged-user-namespaces = Priviliģēto procesu lietotāju vārdtelpas
 can-sandbox-content = Satura apstrādes ierobešošana
 can-sandbox-media = Mediju spraudņu ierobežošana
+content-sandbox-level = Satura procesa ierobežošanas līmenis
+effective-content-sandbox-level = Efektīvs satura procesa ierobežošanas līmenis
+sandbox-proc-type-content = saturs
+sandbox-proc-type-file = faila saturs
+sandbox-proc-type-media-plugin = multivides spraudnis
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -159,6 +256,8 @@ apz-none = nav
 wheel-enabled = ripas ievade aktivēta
 touch-enabled = skāriena ievade aktivēta
 drag-enabled = ritjoslas vilkšana aktivēta
+keyboard-enabled = klaviatūra aktivēta
+autoscroll-enabled = automātiskā ritināšana aktivēta
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
@@ -168,3 +267,6 @@ touch-warning = asinhronā pieskāriena ievade deaktivēta neatbalstīta iestat�
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+policies-inactive = Neaktīva
+policies-active = Aktīva
+policies-error = Kļūda
