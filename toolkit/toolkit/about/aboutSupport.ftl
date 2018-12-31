@@ -173,6 +173,7 @@ hardware-h264 = Hardware bidezko H264 deskodetzea
 main-thread-no-omtc = hari nagusia, OMTCrik ez
 yes = Bai
 no = Ez
+unknown = Ezezaguna
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
