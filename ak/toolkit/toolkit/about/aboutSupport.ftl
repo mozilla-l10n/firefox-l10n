@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 page-title = Hawyi ho infɔmehyɛn
+page-subtitle = Krataafa yi wɔ infɔmehyɛn bi a ebɛhia sɛwo pɛsɛ wo siesie ɔhaw bi a. Sɛ wopɛ nyiano ma nsɛmbisa bi a ɛfa { -brand-short-name } ho a, hwɛ yɛ mmoa seat yi <a data-l10n-name="support-link"> </a>.
+crashes-id = Bɔ ahyɛnsode ho amane
 extensions-title = Ntrɛtrɛmu
 extensions-name = Din
 extensions-enabled = Ekenyan
@@ -19,6 +21,7 @@ app-basics-enabled-plugins = Mplagin a wɔasɔ
 app-basics-build-config = esi nhyehyɛe
 app-basics-user-agent = Odi dwuma Gyinamusini
 app-basics-memory-use = Mɛmri Adwumadi
+app-basics-safe-mode = ahotew tebea
 modified-key-prefs-title = Apɛdeɛ Titiriw a Wɔasesa
 modified-prefs-name = Din
 graphics-title = Eniso-ade
@@ -46,6 +49,10 @@ clear-type-parameters = ClearType mparamita
 ## In some development versions, it's expected for some API keys that they are
 ## not found.
 
+gpu-vendor-id = Adetɔnfo ID
+gpu-device-id = Efidie ID
+gpu-driver-version = Drɔba Vɛɛhyen
+gpu-driver-date = Drɔba Afeda
 min-lib-versions = Vɛɛhyen ketewabi a wɔhwɛ anim
 loaded-lib-versions = Vɛɛhyen a wɔreyɛ ho adwuma
 # Variables
