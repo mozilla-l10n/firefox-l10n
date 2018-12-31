@@ -23,7 +23,9 @@ app-basics-profile-dir =
         [linux] Notandamappa
        *[other] Notandamappa
     }
+app-basics-enabled-plugins = Virk tengiforrit
 app-basics-build-config = Smíð stillingar
+app-basics-user-agent = Auðkenni forrits
 app-basics-memory-use = Notað minni
 app-basics-multi-process-support = Margþráða gluggi
 modified-key-prefs-title = Mikilvægar breyttar stillingar
@@ -34,6 +36,7 @@ user-js-description = Notandamappan þín inniheldur <a data-l10n-name="user-js-
 locked-key-prefs-title = Mikilvægir læstir valkostir
 locked-prefs-name = Nafn
 locked-prefs-value = Gildi
+graphics-title = Grafík
 js-title = JavaScript
 js-incremental-gc = Stigvaxandi GC
 a11y-title = Auðveldað aðgengi
