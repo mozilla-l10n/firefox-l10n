@@ -17,9 +17,12 @@ app-basics-profile-dir =
     }
 app-basics-enabled-plugins = Plugins activés
 app-basics-build-config = Configuration de compilation
+app-basics-user-agent = Agent utilisateur
+app-basics-memory-use = Utilisation mémoire
 modified-key-prefs-title = Préférences modifiées importantes
 modified-prefs-name = Nom
 modified-prefs-value = Valeur
+graphics-title = Accélération graphique
 js-title = JavaScript
 library-version-title = Versions des bibliothèques
 
