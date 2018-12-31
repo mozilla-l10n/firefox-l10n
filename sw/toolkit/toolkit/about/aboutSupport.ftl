@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 page-title = Maelezo ya Usuluhishaji
+page-subtitle = Ukurasa huu una maelezo ya kiufundi ambayo yanaweza kutumiwa wakati unajaribu kutatua tatizo. Kama unatafuta majibu kwa maswali ya kawaidia kuhusu { -brand-short-name }, kagua kiungo chetu <a data-l10n-name="support-link">wavuti wa usaidizi</a>.
 crashes-id = Kitambulishi Ripoti
 crashes-send-date = Imewasilishwa
 extensions-title = Viendelezi
@@ -53,6 +54,10 @@ clear-type-parameters = Ondoa Aina ya Paramita
 ## In some development versions, it's expected for some API keys that they are
 ## not found.
 
+gpu-vendor-id = Kitambulishi cha Muuzaji
+gpu-device-id = ID ya Kifaa
+gpu-driver-version = Toleo la Kiendelezi
+gpu-driver-date = Tarehe ya Kiendelezi
 min-lib-versions = Toleo la chini lililotarajiwa
 loaded-lib-versions = Toleo linalotumika
 # Variables
