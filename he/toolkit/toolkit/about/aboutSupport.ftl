@@ -8,6 +8,7 @@ page-subtitle =
     כשתנסה לפתור בעיות. אם אתה מחפש תשובות לשאלות נפוצות
     על { -brand-short-name }, עבור ל<a data-l10n-name="support-link">אתר התמיכה</a>.
 crashes-title = דיווחי קריסות
+crashes-id = קוד דיווח
 crashes-send-date = נשלח
 crashes-all-reports = כל דיווחי הקריסות
 crashes-no-config = יישום זה לא הוגדר להציג דיווחי קריסות.
@@ -44,6 +45,7 @@ app-basics-safe-mode = מצב בטוח
 modified-key-prefs-title = העדפות חשובות ששונו
 modified-prefs-name = שם
 modified-prefs-value = ערך
+user-js-title = העדפות user.js
 locked-key-prefs-title = העדפות נעולות חשובות
 locked-prefs-name = שם
 locked-prefs-value = ערך
