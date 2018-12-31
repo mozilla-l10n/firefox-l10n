@@ -71,6 +71,13 @@ copy-raw-data-to-clipboard-label = Kopiera rådata till urklipp
 safe-mode-title = Prova felsäkert läge
 restart-in-safe-mode-label = Starta om utan tillägg…
 # Variables
+# $days (Integer) - Number of days of crashes to log
+report-crash-for-days =
+    { $days ->
+        [one] Kraschrapporter för den senaste dagen
+       *[other] Kraschrapporter för de senaste { $days } dagarna
+    }
+# Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
     { $minutes ->
