@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 page-title = Кыһалҕаны быһаарар туһунан
+page-subtitle = Бу сирэйгэ техническэй информация бэриллэр, ону туһанан кыһалҕаҕын быһаарыаххын сөп. { -brand-short-name } програаммаҕа куруук көстөр кыһалҕаҕа хоруй ылыаххын баҕарар буоллаххына биһиги <a data-l10n-name="support-link">өйүүр ситим-сирбитигэр</a> киир.
 extensions-title = Кэҥэтиилэр
 extensions-name = Аата
 extensions-enabled = Холбоммут
@@ -11,6 +12,7 @@ app-basics-title = Приложение туһунан
 app-basics-name = Аат
 app-basics-version = Барыл
 app-basics-update-history = Саҥардыы сурунаала
+app-basics-show-update-history = Саҥардыы су&рунаалын көрдөр
 app-basics-profile-dir =
     { PLATFORM() ->
         [linux] Профиль паапката
@@ -52,6 +54,10 @@ clear-type-parameters = ClearType көрдөрүүлэрэ
 ## In some development versions, it's expected for some API keys that they are
 ## not found.
 
+gpu-vendor-id = Вендор (оҥорон таһаараччы) куода
+gpu-device-id = Тэрил куода
+gpu-driver-version = Драйвер барыла
+gpu-driver-date = Драйвер оҥоһуллубут күнэ-дьыла
 min-lib-versions = Кэтэһиллэр минимаал барыл
 loaded-lib-versions = Туһаныллар барыл
 # Variables
