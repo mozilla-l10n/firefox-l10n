@@ -49,6 +49,7 @@ app-basics-service-workers = Зарэгістраваныя сервіс-вор�
 app-basics-profiles = Профілі
 app-basics-multi-process-support = Шматпрацэсныя вокны
 app-basics-process-count = Працэсы вэб-кантэнту
+app-basics-enterprise-policies = Карпаратыўная палітыка
 app-basics-key-google = Ключ Google
 app-basics-key-mozilla = Ключ Службы вызначэння месцазнаходжання ад Mozilla
 app-basics-safe-mode = Абаронены рэжым
@@ -83,6 +84,7 @@ js-incremental-gc = Incremental GC
 a11y-title = Даступнасць
 a11y-activated = Задзейнічаны
 a11y-force-disabled = Прадухіліць даступнасць
+a11y-handler-used = Апрацоўшчык даступнасці. які выкарыстоўваецца
 a11y-instantiator = Увасабляльнік даступнасці
 library-version-title = Версіі бібліятэк
 copy-text-to-clipboard-label = Скапіяваць тэкст у буфер абмену
@@ -98,7 +100,27 @@ sandbox-sys-call-number = Сістэмны выклік
 sandbox-sys-call-args = Аргументы
 safe-mode-title = Паспрабаваць абаронены рэжым
 restart-in-safe-mode-label = Перазапусціць з адключанымі дадаткамі…
+media-title = Медыя
+media-output-devices-title = Прылады вываду
+media-input-devices-title = Прылады ўводу
+media-device-name = Назва
+media-device-group = Група
+media-device-vendor = Вытворца
+media-device-state = Стан
+media-device-preferred = Рэкамендавана
+media-device-format = Фармат
+media-device-channels = Каналы
+media-device-rate = Частата
+media-device-latency = Затрымка
+intl-title = Інтэрнацыяналізацыя і лакалізацыя
+intl-app-title = Налады праграмы
+intl-locales-requested = Запытаная лакалізацыі
+intl-locales-available = Даступныя лакалізацыі
+intl-locales-supported = Лакалізацыі праграмы
+intl-locales-default = Прадвызначаная лакалізацыя
 intl-os-title = Аперацыйная сістэма
+intl-os-prefs-system-locales = Сістэмныя лакалізацыі
+intl-regional-prefs = Рэгіянальныя налады
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -198,10 +220,15 @@ d3d9video-crash-buard = Відэадэкодэр D3D9
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Скінуць пры наступным перазапуску
 gpu-process-kill-button = Завяршыць GPU працэс
+gpu-device-reset-button = Выканаць скід прылады
 uses-tiling = Выкарыстоўвае тайлінг
 content-uses-tiling = Выкарыстоўвае тайлінг (кантэнт)
 off-main-thread-paint-enabled = Прамалёўванне па-за асноўным патокам уключана
 off-main-thread-paint-worker-count = Колькасць воркераў прамалёўвання па-за асноўным патокам
+audio-backend = Аудыё-падсістэма
+max-audio-channels = Макс. колькасць каналаў
+channel-layout = Пераважны фармат канала
+sample-rate = Пераважная частата дыскрэтызацыі
 min-lib-versions = Чаканая найменшая версія
 loaded-lib-versions = Версія ў ужыванні
 has-seccomp-bpf = Seccomp-BPF (Фільтраванне сістэмных выклікаў)
@@ -213,6 +240,7 @@ can-sandbox-media = Пясочніца медыя-плагінаў
 content-sandbox-level = Узровень пясочніцы змястоўных працэсаў
 effective-content-sandbox-level = Дзейны ўзровень ізаляцыі працэсу апрацоўкі змесціва
 sandbox-proc-type-content = змесціва
+sandbox-proc-type-file = змесціва файла
 sandbox-proc-type-media-plugin = медыяплагін
 # Variables
 # $remoteWindows (integer) - Number of remote windows
@@ -232,6 +260,7 @@ wheel-enabled = увод колца ўключаны
 touch-enabled = пальцавы увод ўключаны
 drag-enabled = захоп стужкі прагорткі ўключаны
 keyboard-enabled = клавіятура ўключана
+autoscroll-enabled = аўтапракрутка ўключана
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
@@ -241,3 +270,6 @@ touch-warning = асінхронны пальцавы ўвод выключан�
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+policies-inactive = Неактыўна
+policies-active = Актыўна
+policies-error = Памылка
