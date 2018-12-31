@@ -49,6 +49,7 @@ app-basics-service-workers = ServiceWorkers registrados
 app-basics-profiles = Perfiles
 app-basics-multi-process-support = Ventanas multiproceso
 app-basics-process-count = Procesos de contenido web
+app-basics-enterprise-policies = Políticas empresariales
 app-basics-key-google = Clave de Google
 app-basics-key-mozilla = Clave del servicio de ubicación de Mozilla
 app-basics-safe-mode = Modo seguro
@@ -216,6 +217,7 @@ reset-on-next-restart = Restablecer en próximo reinicio
 gpu-process-kill-button = Terminar proceso de GPU
 gpu-device-reset-button = Reinicio del dispositivo gatillo
 uses-tiling = Utiliza mosaicos
+content-uses-tiling = Utiliza baldosas (contenido)
 off-main-thread-paint-enabled = Pintura habilitada fuera del hilo principal
 off-main-thread-paint-worker-count = Cantidad de workers de pintura fuera del hilo principal
 audio-backend = Backend de audio
@@ -263,3 +265,6 @@ touch-warning = táctil no sincrónico deshabilitado por preferencia no soportad
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+policies-inactive = Inactivo
+policies-active = Activo
+policies-error = Error
