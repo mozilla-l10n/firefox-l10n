@@ -112,6 +112,13 @@ media-device-rate = 비율
 media-device-latency = 지연
 intl-title = 국제화 & 현지화
 intl-app-title = 응용 프로그램 설정
+intl-locales-requested = 요청된 언어
+intl-locales-available = 사용 가능한 언어
+intl-locales-supported = 응용 프로그램 언어
+intl-locales-default = 기본 언어
+intl-os-title = 운영 체제
+intl-os-prefs-system-locales = 시스템 언어
+intl-regional-prefs = 지역 설정
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days = 지난 { $days }일간의 충돌 보고서
