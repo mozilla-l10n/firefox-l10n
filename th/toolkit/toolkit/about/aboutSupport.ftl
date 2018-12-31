@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 page-title = ข้อมูลการแก้ไขปัญหา
+crashes-all-reports = รายงานข้อขัดข้องทั้งหมด
 extensions-name = ชื่อ
 extensions-version = รุ่น
 app-basics-name = ชื่อ
