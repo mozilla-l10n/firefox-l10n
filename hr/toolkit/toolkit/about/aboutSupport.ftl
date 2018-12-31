@@ -11,6 +11,8 @@ extensions-id = ID
 app-basics-title = Osnove aplikacije
 app-basics-name = Naziv
 app-basics-version = Inačica
+app-basics-update-history = Povijest ažuriranja
+app-basics-show-update-history = Prikaži povijest ažuriranja
 app-basics-profile-dir =
     { PLATFORM() ->
         [linux] Direktorij profila
@@ -23,6 +25,8 @@ app-basics-memory-use = Zauzeće memorije
 modified-key-prefs-title = Važne izmijenjene osobitosti
 modified-prefs-name = Naziv
 modified-prefs-value = Vrijednost
+user-js-title = user.js osobitosti
+user-js-description = Vaš profil sadrži <a data-l10n-name="user-js-link">user.js datoteku</a>, koja uključuje osobitosti koje nije stvorio { -brand-short-name }.
 graphics-title = Grafika
 js-title = JavaScript
 js-incremental-gc = Inkrementalni GC
@@ -30,6 +34,10 @@ a11y-title = Pristupačnost
 a11y-activated = Aktivirano
 a11y-force-disabled = Onemogući pristupačnost
 library-version-title = Inačice biblioteke
+copy-text-to-clipboard-label = Kopiraj tekst u međuspremnik
+copy-raw-data-to-clipboard-label = Kopiraj neobrađene podatke u međuspremnik
+raw-data-copied = Neobrađeni podaci kopirani u međuspremnik
+text-copied = Tekst kopiran u međuspremnik
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
@@ -48,6 +56,7 @@ clear-type-parameters = ClearType parametri
 ## not found.
 
 min-lib-versions = Očekivana najmanja inačica
+loaded-lib-versions = Korištena inačica
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
