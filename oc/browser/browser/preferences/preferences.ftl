@@ -730,6 +730,9 @@ content-blocking-reject-trackers-block-trackers-option-recommended =
 content-blocking-reject-trackers-block-trackers-option =
     .label = Traçadors
     .accesskey = d
+content-blocking-reject-trackers-all-third-parties-option =
+    .label = Totes los cookies tèrces (unes sites pòdon quitar de foncionar)
+    .accesskey = T
 content-blocking-cookies-label =
     .label = Cookies
     .accesskey = C
@@ -824,6 +827,8 @@ collection-health-report-link = Ne saber mai
 collection-studies =
     .label = Autorizar { -brand-short-name } d’installar e lançar d’estudis
 collection-studies-link = Veire los estudis de { -brand-short-name }
+addon-recommendations =
+    .label = Permetre a { -brand-short-name } de realizar de recomandacion d’extensions
 addon-recommendations-link = Ne saber mai
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.

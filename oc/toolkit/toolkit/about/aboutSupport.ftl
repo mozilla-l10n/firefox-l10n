@@ -173,6 +173,7 @@ hardware-h264 = Desodatge material H264
 main-thread-no-omtc = fil màger, sens OMTC
 yes = Òc
 no = Non
+unknown = Desconegut
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
