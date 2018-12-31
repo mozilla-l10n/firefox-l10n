@@ -4,6 +4,11 @@
 
 page-title = Gwybodaeth am Ddatrys Problemau
 page-subtitle = Mae'r dudalen hon yn cynnwys gwybodaeth dechnegol a allai fod yn ddefnyddiol pan fyddwch yn ceisio datrys problem. Os ydych yn chwilio am atebion i gwestiynau cyffredin am { -brand-short-name }, edrychwch ar ein <a data-l10n-name="support-link">gwefan cefnogaeth</a>.
+crashes-title = Ardroddiad Chwalu
+crashes-id = Enw'r Adroddiad
+crashes-send-date = Cyflwynwyd
+crashes-all-reports = Pob Adroddiad Chwalu
+crashes-no-config = Mae'r rhaglen wedi ei ffurfweddu i ddangos adroddiadau chwalu.
 extensions-title = Estyniadau
 extensions-name = Enw
 extensions-enabled = Galluogwyd
@@ -18,6 +23,13 @@ security-software-firewall = Mur Cadarn
 app-basics-title = Sylfaeni Rhaglen
 app-basics-name = Enw
 app-basics-version = Fersiwn
+app-basics-update-history = Hanes Diweddaru
+app-basics-show-update-history = Dangos Hanes Diweddaru
+app-basics-profile-dir =
+    { PLATFORM() ->
+        [linux] Cyfeiriadur Proffil
+       *[other] Ffolder Proffil
+    }
 app-basics-enabled-plugins = Ategion Galluogwyd
 app-basics-build-config = Ffurfweddiad Adeiladu
 app-basics-user-agent = Asiant Defnyddiwr
@@ -26,6 +38,8 @@ app-basics-enterprise-policies = Polisïau Mentrau
 modified-key-prefs-title = Dewisiadau Pwysig wedi eu Newid
 modified-prefs-name = Enw
 modified-prefs-value = Gwerth
+user-js-title = Dewisiadau user.js
+user-js-description = Mae eich ffolder profil yn cynnwys <a data-l10n-name="user-js-link">ffeil user.js</a>, sy'n cynnwys dewisiadau sydd heb eu creu gan { -brand-short-name }.
 locked-key-prefs-title = Dewisiadau Pwysig Wedi eu Cloi
 graphics-title = Graffigau
 js-title = JavaScript
@@ -34,6 +48,8 @@ a11y-title = Hygyrchedd
 a11y-activated = Gweithredu
 a11y-force-disabled = Atal Hygyrchedd
 library-version-title = Fersiynau Llyfrgell
+copy-text-to-clipboard-label = Copïo testun i'r clipfwrdd
+copy-raw-data-to-clipboard-label = Copïo data bras i'r clipfwrdd
 intl-title = Rhyngwladoli a Lleoleiddio
 intl-app-title = Gosodiadau'r Rhaglen
 intl-locales-requested = Locales Gofynnwyd Amdanynt
@@ -98,6 +114,8 @@ pending-reports =
         [many] Pob Adroddiad Chwalu (gan gynnwys { $reports } chwalfa disgwyliedig o fewn ystod penodol o amser)
        *[other] Pob Adroddiad Chwalu (gan gynnwys { $reports } chwalfa disgwyliedig o fewn ystod penodol o amser)
     }
+raw-data-copied = Copïwyd data bras i'r clipfwrdd
+text-copied = Copïwyd testun i'r clipfwrdd
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
