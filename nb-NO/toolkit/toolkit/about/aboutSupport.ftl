@@ -88,6 +88,13 @@ copy-text-to-clipboard-label = Kopier tekst til utklippstavlen
 copy-raw-data-to-clipboard-label = Kopier råtekst til utklippstavlen
 sandbox-title = Sandkasse
 sandbox-sys-call-log-title = Avvist systemkall
+sandbox-sys-call-index = #
+sandbox-sys-call-age = Sekund siden
+sandbox-sys-call-pid = PID
+sandbox-sys-call-tid = TID
+sandbox-sys-call-proc-type = Prosesstype
+sandbox-sys-call-number = Syscall
+sandbox-sys-call-args = Argument
 safe-mode-title = Prøv sikker modus
 restart-in-safe-mode-label = Start på nytt uten utvidelser …
 media-title = Media
@@ -171,6 +178,8 @@ no = Nei
 ## In some development versions, it's expected for some API keys that they are
 ## not found.
 
+found = Funnet
+missing = Mangler
 gpu-description = Beskrivelse
 gpu-vendor-id = Vendor ID
 gpu-device-id = Device ID
