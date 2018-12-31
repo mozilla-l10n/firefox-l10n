@@ -17,6 +17,16 @@ extensions-name = 名稱
 extensions-enabled = 已啟用
 extensions-version = 版本
 extensions-id = ID
+security-software-title = 安全軟體
+security-software-type = 類型
+security-software-name = 名稱
+security-software-antivirus = 防毒軟體
+security-software-antispyware = 防間諜軟體
+security-software-firewall = 防火牆
+features-title = { -brand-short-name } 功能
+features-name = 名稱
+features-version = 版本
+features-id = ID
 app-basics-title = 應用程式一般資訊
 app-basics-name = 名稱
 app-basics-version = 版本
@@ -38,7 +48,17 @@ app-basics-performance = 效能
 app-basics-service-workers = 已註冊的 Service Workers
 app-basics-profiles = 設定檔
 app-basics-multi-process-support = 多程序視窗
+app-basics-process-count = 網頁內容處理程序
+app-basics-enterprise-policies = 企業政策
+app-basics-key-google = Google 金鑰
+app-basics-key-mozilla = Mozilla Location Service 金鑰
 app-basics-safe-mode = 安全模式
+show-dir-label =
+    { PLATFORM() ->
+        [macos] 顯示於 Finder
+        [windows] 開啟資料夾
+       *[other] 開啟資料夾
+    }
 modified-key-prefs-title = 已修改的重要偏好設定
 modified-prefs-name = 名稱
 modified-prefs-value = 值
@@ -64,12 +84,43 @@ js-incremental-gc = Incremental GC
 a11y-title = 輔助功能
 a11y-activated = 已啟用
 a11y-force-disabled = 已強迫停用輔助功能
+a11y-handler-used = 已使用 Accessible Handler
+a11y-instantiator = Accessibility Instantiator
 library-version-title = 程式庫版本
 copy-text-to-clipboard-label = 將文字複製到剪貼簿
 copy-raw-data-to-clipboard-label = 將原始資料複製到剪貼簿
 sandbox-title = 沙盒
+sandbox-sys-call-log-title = 被拒絕的系統呼叫
+sandbox-sys-call-index = #
+sandbox-sys-call-age = 秒鐘前
+sandbox-sys-call-pid = PID
+sandbox-sys-call-tid = TID
+sandbox-sys-call-proc-type = 程序類型
+sandbox-sys-call-number = 系統呼叫
+sandbox-sys-call-args = 引數
 safe-mode-title = 試試安全模式
 restart-in-safe-mode-label = 重新啟動但停用附加元件…
+media-title = 媒體
+media-output-devices-title = 輸出裝置
+media-input-devices-title = 輸入裝置
+media-device-name = 名稱
+media-device-group = 群組
+media-device-vendor = 廠商
+media-device-state = 狀態
+media-device-preferred = 偏好使用
+media-device-format = 格式
+media-device-channels = 頻道
+media-device-rate = 取樣率
+media-device-latency = Latency
+intl-title = 國際化與在地化
+intl-app-title = 應用程式設定
+intl-locales-requested = 要求使用的語系
+intl-locales-available = 可用的語系
+intl-locales-supported = 應用程式語系
+intl-locales-default = 預設語系
+intl-os-title = 作業系統
+intl-os-prefs-system-locales = 系統語系
+intl-regional-prefs = 區域偏好設定
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days = 最近 { $days } 天內的錯誤資訊報表
@@ -110,6 +161,8 @@ no = 否
 ## In some development versions, it's expected for some API keys that they are
 ## not found.
 
+found = 找到
+missing = 缺少
 gpu-description = 顯示卡名稱
 gpu-vendor-id = 銷售商 ID (Vendor ID)
 gpu-device-id = 裝置 ID (Device ID)
@@ -119,7 +172,16 @@ gpu-ram = 顯示卡記憶體大小
 gpu-driver-version = 驅動程式版本
 gpu-driver-date = 驅動程式日期
 gpu-active = 啟用
+webgl1-wsiinfo = WebGL 1 驅動程式 WSI 資訊
+webgl1-renderer = WebGL 1 驅動程式 Renderer
+webgl1-version = WebGL 1 驅動程式版本
+webgl1-driver-extensions = WebGL 1 驅動程式擴充套件
+webgl1-extensions = WebGL 1 擴充套件
+webgl2-wsiinfo = WebGL 2 驅動程式 WSI 資訊
 webgl2-renderer = WebGL2 Renderer
+webgl2-version = WebGL 2 驅動程式 Renderer
+webgl2-driver-extensions = WebGL 2 驅動程式擴充套件
+webgl2-extensions = WebGL 2 擴充套件
 blocklisted-bug = 因為有已知問題被封鎖
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
@@ -132,13 +194,29 @@ d3d11video-crash-guard = D3D11 視訊解碼器
 d3d9video-crash-buard = D3D9 視訊解碼器
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = 下次重新啟動時重設
+gpu-process-kill-button = 結束 GPU 處理程序
+gpu-device-reset-button = 觸發裝置重設
+uses-tiling = 使用 Tiling
+content-uses-tiling = 使用 Tiling（內容）
+off-main-thread-paint-enabled = 已啟用 Off Main Thread Painting
+off-main-thread-paint-worker-count = Off Main Thread Painting Worker 數量
+audio-backend = 音效後端
+max-audio-channels = 最大頻道數
+channel-layout = 偏好頻道類型
+sample-rate = 偏好取樣率
 min-lib-versions = 預期應有的最小版本
 loaded-lib-versions = 使用中的版本
 has-seccomp-bpf = Seccomp-BPF（過濾系統呼叫）
 has-seccomp-tsync = Seccomp 執行緒同步
 has-user-namespaces = 使用者命名空間
 has-privileged-user-namespaces = 取得權限程序的使用者命名空間
+can-sandbox-content = 內容程序沙盒
 can-sandbox-media = 媒體外掛程式沙盒
+content-sandbox-level = 內容程序沙盒等級
+effective-content-sandbox-level = 有效內容處理程序沙盒等級
+sandbox-proc-type-content = 內容
+sandbox-proc-type-file = 檔案內容
+sandbox-proc-type-media-plugin = 媒體外掛程式
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -156,6 +234,8 @@ apz-none = 無
 wheel-enabled = 已啟用滾輪輸入
 touch-enabled = 已啟用觸控輸入
 drag-enabled = 已開啟捲動列拖曳
+keyboard-enabled = 已啟用鍵盤
+autoscroll-enabled = 已開啟自動捲動
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
@@ -165,3 +245,6 @@ touch-warning = 因為不支援的偏好設定: { $preferenceKey }，已停用�
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+policies-inactive = 未使用
+policies-active = 使用中
+policies-error = 錯誤
