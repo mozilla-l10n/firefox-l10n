@@ -66,6 +66,7 @@ text-copied = Texto copiado para a área de transferência
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
 blocked-driver = Bloqueado para a sua versão do controlador gráfico.
+blocked-gfx-card = Bloqueado para a sua placa gráfica devido a um problema no controlador.
 blocked-os-version = Bloqueado para a sua versão do sistema operativo.
 # Variables
 # $driverVersion - The graphics driver version string
@@ -81,6 +82,8 @@ clear-type-parameters = Parâmetros ClearType
 min-lib-versions = Versão mínima esperada
 loaded-lib-versions = Versão em utilização
 has-seccomp-bpf = Seccomp-BPF (Filtro de chamada do sistema)
+has-user-namespaces = Espaço de nomes do utilizador
+has-privileged-user-namespaces = Espaço de nomes do utilizador para processos privilegiados
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
