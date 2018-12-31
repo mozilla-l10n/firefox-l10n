@@ -14,6 +14,8 @@ extensions-name = Nom
 extensions-enabled = Habilitada
 extensions-version = Versió
 extensions-id = ID
+security-software-title = Programari de seguretat
+security-software-antispyware = Antiespia
 features-title = Característiques del { -brand-short-name }
 features-name = Nom
 features-version = Versió
@@ -84,8 +86,10 @@ sandbox-sys-call-tid = TID
 sandbox-sys-call-proc-type = Tipus de procés
 sandbox-sys-call-number = Crida del sistema
 sandbox-sys-call-args = Arguments
+safe-mode-title = Proveu el mode segur
 restart-in-safe-mode-label = Reinicia amb els complements inhabilitats…
 media-device-name = Nom
+intl-app-title = Paràmetres de l'aplicació
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -122,6 +126,7 @@ pending-reports =
        *[other] Tots els informes de fallada (incloses { $reports } fallades pendents dins el període de temps indicat)
     }
 raw-data-copied = Les dades sense processar s'han copiat al porta-retalls
+text-copied = S'ha copiat el text al porta-retalls
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
@@ -210,3 +215,5 @@ touch-warning = l'entrada tàctil asíncrona està desactivada perquè hi ha una
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+policies-inactive = Inactiu
+policies-active = Actiu
