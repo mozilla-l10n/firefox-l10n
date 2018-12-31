@@ -14,6 +14,12 @@ extensions-name = Nūsaukums
 extensions-enabled = Īslāgts
 extensions-version = Verseja
 extensions-id = ID
+security-software-title = Drūšeibas programmatura
+security-software-type = Tips
+security-software-name = Nūsaukums
+security-software-antivirus = Pretvīrusu aizsardzeiba
+security-software-antispyware = Aizsardzeiba pret izspīgōšonu
+security-software-firewall = Guņsmyurs
 features-title = { -brand-short-name } īspiejis
 features-name = Nūsaukums
 features-version = Verseja
@@ -40,6 +46,7 @@ app-basics-service-workers = Registered Service Workers
 app-basics-profiles = Profili
 app-basics-multi-process-support = Vairuoku procesu lūgs
 app-basics-process-count = Šķārsteikla satura process
+app-basics-enterprise-policies = Uzjāmuma politikas
 app-basics-key-google = Google atslāgs
 app-basics-key-mozilla = Mozilla atsarasšona vītys pakolpuojuma atslāgs
 app-basics-safe-mode = Drūsais režyms
@@ -102,6 +109,15 @@ media-device-format = Formats
 media-device-channels = Channels
 media-device-rate = Uotrums
 media-device-latency = Aizture
+intl-title = Internacionalizaceja un lokalizaceja
+intl-app-title = Programaturys īstatiejumi
+intl-locales-requested = Pīpraseitōs volūdas
+intl-locales-available = Pīejamōs volūdas
+intl-locales-supported = Aplikācejis volūdas
+intl-locales-default = Nūklusietō volūda
+intl-os-title = Opereitōjsistema
+intl-os-prefs-system-locales = Sistemas volūdas
+intl-regional-prefs = Reģionalī īstatiejumi
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -202,7 +218,10 @@ glcontext-crash-guard = OpenGL
 reset-on-next-restart = Reset on Next Restart
 gpu-process-kill-button = Puortraukt GPU procesu
 gpu-device-reset-button = Trigger Device Reset
+uses-tiling = Izmontoj grupiešonu
+content-uses-tiling = Izmontoj viersrakstōšōnu Tiling (saturs)
 off-main-thread-paint-enabled = Off Main Thread Painting Enabled
+off-main-thread-paint-worker-count = Na golvanajā pavedīnī zeimejušū Workers skaits
 audio-backend = Skanis Backend
 max-audio-channels = Max Channels
 channel-layout = Preferred Channel Layout
@@ -218,6 +237,7 @@ can-sandbox-media = Media Plugin Sandboxing
 content-sandbox-level = Content Process Sandbox Level
 effective-content-sandbox-level = Effective Content Process Sandbox Level
 sandbox-proc-type-content = saturs
+sandbox-proc-type-file = faila saturs
 sandbox-proc-type-media-plugin = multivides spraudnis
 # Variables
 # $remoteWindows (integer) - Number of remote windows
@@ -247,3 +267,6 @@ touch-warning = async touch input disabled due to unsupported pref: { $preferenc
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+policies-inactive = Nav aktivs
+policies-active = Aktivs
+policies-error = Klaida
