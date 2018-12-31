@@ -10,13 +10,24 @@ page-subtitle =
 crashes-title = Αναφορές κατάρρευσης
 crashes-id = ID Αναφοράς
 crashes-send-date = Υποβλήθηκε
+crashes-all-reports = Όλες οι αναφορές κατάρρευσης
 extensions-title = Επεκτάσεις
 extensions-name = Όνομα
 extensions-enabled = Ενεργές
 extensions-version = Έκδοση
+extensions-id = ID
+security-software-title = Λογισμικό ασφαλείας
+security-software-type = Τύπος
+security-software-name = Όνομα
+security-software-firewall = Τείχος προστασίας
+features-title = Χαρακτηριστικά του { -brand-short-name }
+features-name = Όνομα
+features-version = Έκδοση
+features-id = ID
 app-basics-title = Βασικά εφαρμογής
 app-basics-name = Όνομα
 app-basics-version = Έκδοση
+app-basics-build-id = ID έκδοσης
 app-basics-update-channel = Κανάλι ενημερώσεων
 app-basics-update-history = Ιστορικό ενημερώσεων
 app-basics-show-update-history = Προβολή ιστορικού ενημερώσεων
@@ -25,19 +36,61 @@ app-basics-profile-dir =
         [linux] Κατάλογος προφίλ
        *[other] Φάκελος προφίλ
     }
+app-basics-enabled-plugins = Ενεργά αρθρώματα
+app-basics-build-config = Ρύθμιση δομής
+app-basics-os = ΛΣ
 app-basics-memory-use = Χρήση μνήμης
+app-basics-performance = Επιδόσεις
+app-basics-service-workers = Εγγεγραμμένα Service Workers
+app-basics-profiles = Προφίλ
+app-basics-multi-process-support = Παράθυρα πολυδιεργασιών
+app-basics-process-count = Διεργασίες διαδικτυακού περιεχομένου
+app-basics-key-google = Κλειδί Google
+app-basics-key-mozilla = Κλειδί υπηρεσίας τοποθεσίας Mozilla
+app-basics-safe-mode = Ασφαλής λειτουργία
+show-dir-label =
+    { PLATFORM() ->
+        [macos] Προβολή στον Finder
+        [windows] Άνοιγμα φακέλου
+       *[other] Άνοιγμα καταλόγου
+    }
 modified-key-prefs-title = Σημαντικές τροποποιημένες προτιμήσεις
 modified-prefs-name = Όνομα
 modified-prefs-value = Τιμή
 user-js-title = Προτιμήσεις user.js
 user-js-description = Ο φάκελος του προφίλ σας περιέχει το <a data-l10n-name="user-js-link">αρχείο user.js</a>, που περιέχει προτιμήσεις που δεν δημιουργήθηκαν από τον { -brand-short-name }.
+locked-prefs-name = Όνομα
+locked-prefs-value = Τιμή
 graphics-title = Γραφικά
+graphics-features-title = Λειτουργίες
+graphics-diagnostics-title = Διαγνωστικά
+graphics-failure-log-title = Αρχείο καταγραφής αποτυχιών
+graphics-gpu1-title = GPU #1
+graphics-gpu2-title = GPU #2
+graphics-decision-log-title = Αρχείο καταγραφής αποφάσεων
+graphics-workarounds-title = Λύσεις
+place-database-title = Βάση δεδομένων τοποθεσιών
+place-database-integrity = Ακεραιότητα
+place-database-verify-integrity = Επαλήθευση ακεραιότητας
+js-title = JavaScript
 a11y-title = Προσιτότητα
 a11y-activated = Ενεργοποιήθηκε
 a11y-force-disabled = Να μην επιτρέπεται η προσιτότητα
+a11y-handler-used = Προσβάσιμο όνομα χρήστη σε χρήση
+a11y-instantiator = Ενεργοποιητής προσβασιμότητας
 library-version-title = Εκδόσεις βιβλιοθήκης
 copy-text-to-clipboard-label = Αντιγραφή κειμένου στο πρόχειρο
 copy-raw-data-to-clipboard-label = Αντιγραφή δεδομένων raw στο πρόχειρο
+sandbox-title = Sandbox
+sandbox-sys-call-log-title = Απορριφθήσες κλήσεις συστήματος
+sandbox-sys-call-index = #
+sandbox-sys-call-age = δευτερόλεπτα πριν
+sandbox-sys-call-pid = PID
+sandbox-sys-call-tid = TID
+sandbox-sys-call-proc-type = Τύπος διεργασίας
+sandbox-sys-call-number = Syscall
+sandbox-sys-call-args = Επιχειρήματα
+safe-mode-title = Δοκιμή ασφαλούς λειτουργίας
 restart-in-safe-mode-label = Επανεκκίνηση με τα πρόσθετα απενεργοποιημένα…
 media-title = Πολυμέσα
 media-output-devices-title = Συσκευές εξόδου
@@ -46,6 +99,11 @@ media-device-vendor = Κατασκευαστής
 media-device-preferred = Προτίμηση
 media-device-format = Τύπος
 media-device-latency = Καθυστέρηση
+intl-app-title = Ρυθμίσεις εφαρμογής
+intl-locales-default = Προεπιλεγμένη γλώσσα
+intl-os-title = Λειτουργικό σύστημα
+intl-os-prefs-system-locales = Γλώσσες συστήματος
+intl-regional-prefs = Προτιμήσεις περιοχής
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -67,6 +125,13 @@ crashes-time-hours =
         [one] { $hours } ώρα πριν
        *[other] { $hours } ώρες πριν
     }
+# Variables
+# $days (integer) - Number of days since crash
+crashes-time-days =
+    { $days ->
+        [one] { $days } μέρα πριν
+       *[other] { $days } ημέρες πριν
+    }
 raw-data-copied = Αντιγράφτηκαν δεδομένα Raw στο πρόχειρο
 text-copied = Αντιγράφτηκε κείμενο στο πρόχειρο
 
@@ -81,19 +146,54 @@ try-newer-driver = Δεν υποστηρίζεται από τον οδηγό τ
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Παράμετροι ClearType
+compositing = Σύνθεση
+hardware-h264 = Αποκωδικοποίηση υλικού H264
+main-thread-no-omtc = κύριο νήμα, όχι OMTC
+yes = Ναι
+no = Όχι
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
 ## not found.
 
+gpu-description = Περιγραφή
+gpu-vendor-id = ID κατασκευαστή
+gpu-device-id = ID συσκευής
+gpu-subsys-id = ID υποσυστήματος
+gpu-drivers = Προγράμματα οδήγησης
+gpu-ram = RAM
+gpu-driver-version = Έκδοση προγράμματος οδήγησης
+gpu-active = Ενεργό
+webgl2-renderer = Απόδοση WebGL2
+# Variables
+# $bugNumber (string) - String of bug number from Bugzilla
+bug-link = σφάλμα { $bugNumber }
+d3d11video-crash-guard = Αποκωδικοποιητής βίντεο D3D11
+d3d9video-crash-buard = Αποκωδικοποιητής βίντεο D3D9
+glcontext-crash-guard = OpenGL
+reset-on-next-restart = Επαναφορά στην επόμενη επανεκκίνηση
+gpu-process-kill-button = Τερματισμός διεργασίας GPU
+gpu-device-reset-button = Έναυσμα επαναφοράς συσκευής
+off-main-thread-paint-enabled = Η απόδοση γραφικών εκτός κύριου νήματος ενεργοποιήθηκε
 channel-layout = Επιθυμητή διάταξη καναλιών
 sample-rate = Επιθυμητός ρυθμός δειγματοληψίας
 min-lib-versions = Αναμενόμενη ελάχιστη έκδοση
 loaded-lib-versions = Έκδοση σε χρήση
+can-sandbox-media = Sandboxing αρθρώματος πολυμέσων
+effective-content-sandbox-level = Αποτελεσματικό επίπεδο επεξεργασίας περιεχομένου sandbox
+sandbox-proc-type-media-plugin = άρθρωμα πολυμέσων
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
+multi-process-status-0 = Ενεργοποιήθηκε από το χρήστη
+multi-process-status-1 = Ενεργό από προεπιλογή
+multi-process-status-2 = Ανενεργό
+multi-process-status-7 = Απενεργοποιήθηκε από πρόσθετα
+multi-process-status-unknown = Άγνωστη κατάσταση
+apz-none = κανένα
+keyboard-enabled = πληκτρολόγιο ενεργό
+autoscroll-enabled = αυτόματη κύλιση ενεργή
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
@@ -101,3 +201,4 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+policies-error = Σφάλμα
