@@ -11,6 +11,7 @@ extensions-title = పొడిగింపులు
 extensions-name = పేరు
 app-basics-title = అనువర్తనం ప్రాధమికాలు
 app-basics-name = పేరు
+app-basics-build-id = బిల్డ్ ID
 app-basics-update-channel = నవీకరణ ఛానల్
 app-basics-update-history = తాజాకరణ చరిత్ర
 app-basics-show-update-history = తాజాకరణ చరిత్రను చూపించు
@@ -22,20 +23,31 @@ app-basics-profile-dir =
 app-basics-enabled-plugins = చేతనపరచిన చొప్పింతలు
 app-basics-build-config = నిర్మామ ఆకృతీకరణ
 app-basics-user-agent = వాడుకరి ప్రతినిధి
+app-basics-os = OS
 app-basics-memory-use = మెమొరీ వినియోగం
+app-basics-service-workers = నమోదైన సర్వీస్ వర్కర్స్
+app-basics-profiles = ప్రొఫైల్స్
 app-basics-multi-process-support = మల్టీప్రోసెస్ విండోలు
+app-basics-safe-mode = సురక్షిత రీతి
 modified-prefs-name = పేరు
 modified-prefs-value = విలువ
 user-js-title = user.js అభిరుచులు
 locked-prefs-name = పేరు
 locked-prefs-value = విలువ
 graphics-title = గ్రాఫిక్స్
+graphics-features-title = ఫీచర్‌లు
+graphics-diagnostics-title = డయాగ్నస్టిక్స్
+graphics-failure-log-title = వైఫల్యమైన లాగ్
+graphics-gpu1-title = GPU #1
+graphics-gpu2-title = GPU #2
 js-title = జావాస్క్రిప్ట్
 js-incremental-gc = ప్రవర్ధమాన GC
 a11y-title = సులభత
 a11y-activated = క్రియాశీలమైంది
 a11y-force-disabled = సులభత నిరోధించు
 library-version-title = లైబ్రరీ వర్షన్స్
+sandbox-title = శాండ్ బాక్స్
+safe-mode-title = సేఫ్ మోడ్ ప్రయత్నించండి
 restart-in-safe-mode-label = పొడిగింతలను అచేతనించి పునఃప్రారంభించు…
 # Variables
 # $minutes (integer) - Number of minutes since crash
@@ -64,29 +76,71 @@ crashes-time-days =
 blocked-driver = మీ గ్రాఫిక్స్ డ్రైవర్ వర్షన్ కొరకు నిరోధించబడెను.
 blocked-gfx-card = పరిష్కరించని డ్రైవర్ సమస్యల కారణంగా మీ గ్రాఫిక్స్ కార్డ్ కొరకు నిరోధించబడెను.
 blocked-os-version = మీ ఆపరేటింగ్ సిస్టమ్ వర్షన్ కొరకు నిరోధించబడెను.
+blocked-mismatched-version = రిజిస్ట్రీ మరియు DLL మధ్య మీ గ్రాఫిక్స్ డ్రైవర్ వర్షన్ అసమతుల్యత నిరోధించారు.
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType పారామితులు
+compositing = కంపోజిషన్
+hardware-h264 = హార్డ్వేర్ H264 డీకోడింగ్
+main-thread-no-omtc = ముఖ్యమైన త్రెడ్ , ఏ OMTC
+yes = అవును
+no = కాదు
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
 ## not found.
 
+gpu-description = వివరణ
 gpu-device-id = పరికరం ఐడి
 gpu-subsys-id = ఉపవ్యవస్థ ఐడి
+gpu-drivers = డ్రైవర్లు
+gpu-ram = RAM
 gpu-driver-version = డ్రైవర్ రూపాంతరం
 gpu-driver-date = డ్రైవర్ తేది
+gpu-active = క్రియాశీలం
+blocklisted-bug = తెలిసిన సమస్యలు కారణంగా జాబితా బ్లాక్
+# Variables
+# $bugNumber (string) - String of bug number from Bugzilla
+bug-link = బగ్ { $bugNumber }
+# Variables
+# $failureCode (string) - String that can be searched in the source tree.
+unknown-failure = బ్లాక్ జాబితా ; వైఫల్యం కోడ్ { $failureCode }
+d3d11layers-crash-guard = D3D11 కూర్చే
+d3d11video-crash-guard = D3D11 వీడియో డికోడర్
+d3d9video-crash-buard = D3D11 వీడియో డికోడర్
+glcontext-crash-guard = OpenGL
+reset-on-next-restart = తదుపరి పునఃప్రారంభించు రీసెట్
 min-lib-versions = కావలసిన కనీస వర్షన్
 loaded-lib-versions = వినియోగంలో వున్న వర్షన్
+has-seccomp-bpf = సెకండరీ కాంప్ - బిపిఎఫ్ (సిస్టమ్ కాల్ ఫిల్టరింగ్)
+has-seccomp-tsync = సెకండరీ కాంప్ త్రెడ్ సమకాలీకరణ
+has-user-namespaces = వాడుకరి నేంస్పేసులు
+has-privileged-user-namespaces = విశేష ప్రక్రియలకు వాడుకరి నేంస్పేసులు
+can-sandbox-content = కంటెంట్ ప్రాసెస్ శాండ్బాక్స్
+can-sandbox-media = మీడియా ప్లగిన్ శాండ్బాక్స్
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
+multi-process-status-0 = యూజర్ ప్రారంభించబడింది
+multi-process-status-1 = అప్రమేయంగా చేతనం
+multi-process-status-2 = అచేతనంచేయబడిన
+multi-process-status-4 = సౌలభ్యాన్ని టూల్స్ నిలిపివెయ్యబడింది
+multi-process-status-6 = మద్దతివ్వని టెక్స్ట్ ఇన్పుట్ ద్వారా నిలిపివెయ్యబడింది
+multi-process-status-7 = ఈ పొడిగింత అచేతనము చేయి
+multi-process-status-8 = బలవంతంగా నిలిపివెయ్యబడింది
+multi-process-status-unknown = తెలియని స్థితి
+async-pan-zoom = అసమకాలిక పాన్ / జూమ్
 apz-none = ఏమీలేవు
+wheel-enabled = చక్రం ఇన్పుట్ ప్రారంభించబడిందని
+touch-enabled = టచ్ ఇన్పుట్ ప్రారంభించబడిందని
+drag-enabled = స్క్రోల్ డ్రాగ్ ఎనేబుల్
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
 
+wheel-warning = అసమకాలీక చక్రం ఇన్పుట్ కారణంగా మద్దతివ్వని నదిపై డిసేబుల్ :{ $preferenceKey }
+touch-warning = అసమకాలీక చక్రం ఇన్పుట్ కారణంగా మద్దతివ్వని నదిపై డిసేబుల్ :{ $preferenceKey }
 
 ## Strings representing the status of the Enterprise Policies engine.
 
