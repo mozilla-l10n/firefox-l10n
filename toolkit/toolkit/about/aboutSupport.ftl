@@ -23,6 +23,9 @@ modified-key-prefs-title = Belangrike voorkeure wat verander is
 modified-prefs-name = Naam
 graphics-title = Grafika
 js-title = JavaScript
+a11y-title = Toeganklikheid
+a11y-activated = Geaktiveer
+a11y-force-disabled = Voorkom toeganklikheid
 library-version-title = Biblioteekweergawes
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
