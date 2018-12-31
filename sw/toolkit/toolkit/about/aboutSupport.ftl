@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 page-title = Maelezo ya Usuluhishaji
+crashes-id = Kitambulishi Ripoti
+crashes-send-date = Imewasilishwa
 extensions-title = Viendelezi
 extensions-name = Jina
 extensions-enabled = Imewezeshwa
@@ -10,13 +12,30 @@ extensions-version = Toleo
 app-basics-title = Misingi ya Programu
 app-basics-name = Jina
 app-basics-version = Toleo
+app-basics-profile-dir =
+    { PLATFORM() ->
+        [linux] Mpangilio Orodha wa Maelezo Mafupi
+       *[other] Folda ya Maelezo mafupi
+    }
 app-basics-enabled-plugins = Wezesha Programu-jalizi
 app-basics-build-config = Jenga Usanidi
 app-basics-user-agent = Mtumaiji Wakala
 app-basics-memory-use = Utumizi wa Kumbukumbu
 modified-key-prefs-title = Mapendeleo Muhimu Yaliorekebishwa
 modified-prefs-name = Jina
+user-js-title = Pendeleo za mtumiaji.js
+user-js-description = Folda ya maelezo mafupi yako ina faili ya <a data-l10n-name="user-js-link">mtumiaji.id</a>, ambayo inajumuisha pendeleo ambazo hazikuundwa na { -brand-short-name }.
 graphics-title = Sanaa
+js-title = Hati ya java
+js-incremental-gc = GC ya Nyongesa
+a11y-title = Ufikikaji
+a11y-activated = Imeamilishwa
+a11y-force-disabled = Zuia Upatikanaji
+library-version-title = Toleo za Maktaba
+copy-text-to-clipboard-label = Nakili matini katika ubao
+copy-raw-data-to-clipboard-label = Nakili data ghafi kwa ubao
+raw-data-copied = Data ghafi imenakiliwa kwa ubao
+text-copied = Matini imenakiliwa kwa ubao
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
@@ -34,6 +53,8 @@ clear-type-parameters = Ondoa Aina ya Paramita
 ## In some development versions, it's expected for some API keys that they are
 ## not found.
 
+min-lib-versions = Toleo la chini lililotarajiwa
+loaded-lib-versions = Toleo linalotumika
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
