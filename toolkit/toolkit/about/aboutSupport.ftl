@@ -11,6 +11,7 @@ crashes-title = 충돌 보고서
 crashes-id = 보고 ID
 crashes-send-date = 전송됨
 crashes-all-reports = 모든 충돌 보고서
+crashes-no-config = 이 애플리케이션은 충돌 보고서를 표시하도록 설정되어 있지 않습니다.
 extensions-title = 확장 기능
 extensions-name = 이름
 extensions-enabled = 사용함
@@ -97,6 +98,7 @@ sandbox-sys-call-tid = TID
 sandbox-sys-call-proc-type = 프로세스 타입
 sandbox-sys-call-number = 시스템 콜
 sandbox-sys-call-args = 인자
+safe-mode-title = 안전 모드 시도
 restart-in-safe-mode-label = 부가 기능 없이 재시작…
 media-title = 미디어
 media-output-devices-title = 출력 기기
@@ -219,6 +221,8 @@ sandbox-proc-type-media-plugin = 미디어 플러그인
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
+multi-process-status-0 = 사용자에 의해 활성화됨
+multi-process-status-1 = 기본값에 의해 활성화
 multi-process-status-2 = 비활성화
 multi-process-status-4 = 접근성 도구에 의해 비활성화
 multi-process-status-6 = 지원되지 않는 텍스트 입력으로 인한 비활성화
