@@ -3,6 +3,11 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 page-title = Taic le duilgheadasan
+crashes-title = Aithisgean tuislidh
+crashes-id = ID na h-aithisge
+crashes-send-date = Air a chur
+crashes-all-reports = Gach aithisg tuislidh
+crashes-no-config = Cha deach an aplacaid seo a rèiteachadh fhathast is chan urrainn dha aithisgean tuislidh a shealltainn.
 extensions-title = Leudachain
 extensions-name = Ainm
 extensions-enabled = Air a chur an comas
@@ -31,6 +36,51 @@ a11y-force-disabled = Casg air so-inntrigeachd
 library-version-title = Tionndaidhean leabharlainn
 copy-text-to-clipboard-label = Cuir lethbhreac dhen teacsa air an stòr-bhòrd
 copy-raw-data-to-clipboard-label = Cuir lethbhreac dhen dàta lom dhan stòr-bhòrd
+# Variables
+# $days (Integer) - Number of days of crashes to log
+report-crash-for-days =
+    { $days ->
+        [one] Aithisgean tuislidh san { $days } latha mu dheireadh
+        [two] Aithisgean tuislidh san { $days } latha mu dheireadh
+        [few] Aithisgean tuislidh sna { $days } làithean mu dheireadh
+       *[other] Aithisgean tuislidh san { $days } latha mu dheireadh
+    }
+# Variables
+# $minutes (integer) - Number of minutes since crash
+crashes-time-minutes =
+    { $minutes ->
+        [one] { $minutes } mhionaid air ais
+        [two] { $minutes } mhionaid air ais
+        [few] { $minutes } mionaidean air ais
+       *[other] { $minutes } mionaid air ais
+    }
+# Variables
+# $hours (integer) - Number of hours since crash
+crashes-time-hours =
+    { $hours ->
+        [one] { $hours } uair a thìde air ais
+        [two] { $hours } uair a thìde air ais
+        [few] { $hours } uairean a thìde air ais
+       *[other] { $hours } uair a thìde air ais
+    }
+# Variables
+# $days (integer) - Number of days since crash
+crashes-time-days =
+    { $days ->
+        [one] { $days } latha air ais
+        [two] { $days } latha air ais
+        [few] { $days } làithean air ais
+       *[other] { $days } latha air ais
+    }
+# Variables
+# $reports (integer) - Number of pending reports
+pending-reports =
+    { $reports ->
+        [one] Gach aithisg tuislidh (a' gabhail a-steach { $reports } tuisleadh ri dhèiligeadh san rainse ama a tha seo)
+        [two] Gach aithisg tuislidh (a' gabhail a-steach { $reports } thuisleadh ri dhèiligeadh san rainse ama a tha seo)
+        [few] Gach aithisg tuislidh (a' gabhail a-steach { $reports } tuislidhean ri dhèiligeadh san rainse ama a tha seo)
+       *[other] Gach aithisg tuislidh (a' gabhail a-steach { $reports } tuisleadh ri dhèiligeadh san rainse ama a tha seo)
+    }
 raw-data-copied = Chaidh lethbhreac an dàta luim a chur air an stòr-bhòrd
 text-copied = Chaidh lethbhreac an teacsa a chur air a' bhòrd-chliopaichean
 
