@@ -8,9 +8,12 @@ app-basics-name = Tên
 app-basics-version = Phiên bản
 app-basics-update-history = Lịch sử cập nhật
 app-basics-show-update-history = Hiển thị lịch sử cập nhật
+modified-key-prefs-title = Các tùy chọn quan trọng đã được sửa đổi
 modified-prefs-name = Tên
+user-js-title = Tinh chỉnh user.js
 graphics-title = Đồ họa
 js-title = JavaScript
+a11y-activated = Được kích hoạt
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
@@ -28,6 +31,7 @@ clear-type-parameters = Tham số ClearType
 ## In some development versions, it's expected for some API keys that they are
 ## not found.
 
+loaded-lib-versions = Phiên bản đang dùng
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
