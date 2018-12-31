@@ -38,6 +38,7 @@ app-basics-memory-use = Жады қолданылуы
 app-basics-performance = Өнімділік
 app-basics-service-workers = Тіркелген жұмыс үрдістері
 app-basics-profiles = Профильдер
+app-basics-multi-process-support = Мультипроцесс терезелері
 app-basics-process-count = Веб құрамасы процестері
 app-basics-key-google = Google кілті
 app-basics-key-mozilla = Mozilla орналасулар қызметінің кілті
@@ -53,6 +54,9 @@ modified-prefs-name = Аты
 modified-prefs-value = Мәні
 user-js-title = user.js баптаулары
 user-js-description = Профиль сақталатын бумада <a data-l10n-name="user-js-link">user.js файлды</a> бар, оның ішінде { -brand-short-name } жасамаған баптаулары сақталған.
+locked-key-prefs-title = Маңызды бекітілген баптаулар
+locked-prefs-name = Аты
+locked-prefs-value = Мәні
 graphics-title = Графика
 graphics-features-title = Мүмкіндіктер
 graphics-diagnostics-title = Диагностика
