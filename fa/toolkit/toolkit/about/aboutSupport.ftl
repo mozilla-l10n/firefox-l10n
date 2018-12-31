@@ -10,8 +10,11 @@ extensions-version = نسخه
 app-basics-title = اطلاعات اولیهٔ برنامه
 app-basics-name = نام
 app-basics-version = نسخه
+app-basics-enabled-plugins = متصل‌شونده‌های فعال
 app-basics-build-config = تنظیمات هنگام ساخت
+app-basics-user-agent = نام نمایندهٔ کاربر
 modified-prefs-name = نام
+graphics-title = اطلاعات گرافیکی
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
