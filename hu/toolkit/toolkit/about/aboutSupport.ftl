@@ -9,10 +9,17 @@ crashes-id = Jelentésazonosító
 crashes-send-date = Elküldve
 crashes-all-reports = Minden hibajelentés
 crashes-no-config = Ez az alkalmazás nincs a hibajelentések megjelenítésére beállítva.
+extensions-title = Kiegészítők
 extensions-name = Név
 extensions-enabled = Engedélyezve
 extensions-version = Verzió
 extensions-id = Azonosító
+security-software-title = Biztonsági szoftver
+security-software-type = Típus
+security-software-name = Név
+security-software-antivirus = Antivírus
+security-software-antispyware = Kémprogram-elhárító
+security-software-firewall = Tűzfal
 features-title = A { -brand-short-name } szolgáltatásai
 features-name = Név
 features-version = Verzió
@@ -31,6 +38,7 @@ app-basics-profile-dir =
     }
 app-basics-enabled-plugins = Engedélyezett bővítmények
 app-basics-build-config = Build konfiguráció
+app-basics-user-agent = Felhasználói ügynök
 app-basics-os = OS
 app-basics-memory-use = Memóriahasználat
 app-basics-performance = Teljesítmény
@@ -38,6 +46,7 @@ app-basics-service-workers = Regisztrált Service Workers
 app-basics-profiles = Profilok
 app-basics-multi-process-support = Több folyamatú ablakok
 app-basics-process-count = Webes tartalomfolyamat
+app-basics-enterprise-policies = Vállalati házirendek
 app-basics-key-google = Google kulcs
 app-basics-key-mozilla = Mozilla helymeghatározási szolgáltatás kulcs
 app-basics-safe-mode = Csökkentett mód
@@ -73,6 +82,7 @@ a11y-title = Kisegítő lehetőségek
 a11y-activated = Aktiválva
 a11y-force-disabled = Kisegítő lehetőségek letiltása
 a11y-handler-used = Használt akadálymentesítés-kezelő
+a11y-instantiator = Kisegítő lehetőségek kezdeményezője
 library-version-title = Könyvtárak verziói
 copy-text-to-clipboard-label = Szöveg másolása a vágólapra
 copy-raw-data-to-clipboard-label = Nyers adatok másolása a vágólapra
@@ -99,6 +109,15 @@ media-device-format = Formátum
 media-device-channels = Csatornák
 media-device-rate = Sebesség
 media-device-latency = Késleltetés
+intl-title = Nemzetköziesítés és honosítás
+intl-app-title = Alkalmazásbeállítások
+intl-locales-requested = Kért területi beállítások
+intl-locales-available = Rendelkezésre álló területi beállítások
+intl-locales-supported = Alkalmazás területi beállításai
+intl-locales-default = Alapértelmezett területi beállítás
+intl-os-title = Operációs rendszer
+intl-os-prefs-system-locales = Rendszer területi beállításai
+intl-regional-prefs = Területi beállítások
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -194,6 +213,10 @@ glcontext-crash-guard = OpenGL
 reset-on-next-restart = Újraindításkor alaphelyzetbe
 gpu-process-kill-button = GPU folyamat leállítása
 gpu-device-reset-button = Eszköz alapállapotba hozása
+uses-tiling = Csempézés használata
+content-uses-tiling = Csempézés használata (Tartalom)
+off-main-thread-paint-enabled = Fő szálon kívüli rajzolás engedélyezve
+off-main-thread-paint-worker-count = Fő szálon kívüli rajzoló workerek száma
 audio-backend = Hang háttérprogram
 max-audio-channels = Csatornák maximum
 channel-layout = Elsődleges csatornakiosztás
@@ -228,6 +251,7 @@ wheel-enabled = kerékbemenet engedélyezve
 touch-enabled = érintőbemenet engedélyezve
 drag-enabled = gördítősáv húzása engedélyezve
 keyboard-enabled = billentyűzet engedélyezve
+autoscroll-enabled = automatikus görgetés engedélyezve
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
@@ -237,3 +261,6 @@ touch-warning = aszinkron érintőbemenet letiltva egy nem támogatott beállít
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+policies-inactive = Inaktív
+policies-active = Aktív
+policies-error = Hiba
