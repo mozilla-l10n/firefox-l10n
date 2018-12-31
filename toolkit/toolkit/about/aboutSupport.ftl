@@ -3,6 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 page-title = Helpynformaasje
+page-subtitle =
+    Dizze side befettet technyske ynformaasje dy't brûkber wêze kin as jo
+    probearje om problemen op te lossen. As jo antwurden sykje op algemiene fragen
+    oer { -brand-short-name }, sjoch dan op ús <a data-l10n-name="support-link">stipewebsite</a>.
 crashes-title = Ungelokrapporten
 crashes-id = Rapport-ID
 crashes-send-date = Ynstjoerd
@@ -13,6 +17,16 @@ extensions-name = Namme
 extensions-enabled = Ynskeakele
 extensions-version = Ferzje
 extensions-id = ID
+security-software-title = Befeiligingssoftware
+security-software-type = Type
+security-software-name = Namme
+security-software-antivirus = Antifirus
+security-software-antispyware = Antispyware
+security-software-firewall = Firewall
+features-title = { -brand-short-name }-funksjes
+features-name = Namme
+features-version = Ferzje
+features-id = ID
 app-basics-title = Applikaasjebasis
 app-basics-name = Namme
 app-basics-version = Ferzje
@@ -34,6 +48,17 @@ app-basics-performance = Prestaasje
 app-basics-service-workers = Registrearre Service Workers
 app-basics-profiles = Profilen
 app-basics-multi-process-support = Multiproses-finsters
+app-basics-process-count = Webynhâldsproses
+app-basics-enterprise-policies = Bedriuwsbelied
+app-basics-key-google = Google-kaai
+app-basics-key-mozilla = Mozilla-lokaasjetsjinstkaai
+app-basics-safe-mode = Feilige modus
+show-dir-label =
+    { PLATFORM() ->
+        [macos] Toane yn Finder
+        [windows] Map iepenje
+       *[other] Map iepenje
+    }
 modified-key-prefs-title = Wichtige oanpaste foarkarren
 modified-prefs-name = Namme
 modified-prefs-value = Wearde
@@ -55,14 +80,47 @@ place-database-title = Places-database
 place-database-integrity = Yntegriteit
 place-database-verify-integrity = Yntegriteit ferifearje
 js-title = JavaScript
+js-incremental-gc = Ynkremintele GC
 a11y-title = Tagonklikheid
 a11y-activated = Aktivearre
 a11y-force-disabled = Tagonklikheid tsjingean
+a11y-handler-used = Accessible-handler brûkt
+a11y-instantiator = Tagonklikheids-ynstansjator
 library-version-title = Biblioteekferzje
 copy-text-to-clipboard-label = Tekst nei klamboerd kopiearje
 copy-raw-data-to-clipboard-label = Rûge gegevens nei klamboerd kopiearje
 sandbox-title = Sandbox
+sandbox-sys-call-log-title = Wegere systeemoanfragen
+sandbox-sys-call-index = #
+sandbox-sys-call-age = Sekonden lyn
+sandbox-sys-call-pid = PID
+sandbox-sys-call-tid = TID
+sandbox-sys-call-proc-type = Prosestype
+sandbox-sys-call-number = Syscall
+sandbox-sys-call-args = Arguminten
+safe-mode-title = Probearje de feilige modus
 restart-in-safe-mode-label = Werstart mei útskeakele add-ons…
+media-title = Media
+media-output-devices-title = Utfierapparaten
+media-input-devices-title = Ynfierapparaten
+media-device-name = Namme
+media-device-group = Groep
+media-device-vendor = Leveransier
+media-device-state = Steat
+media-device-preferred = Oanrekommandearre
+media-device-format = Formaat
+media-device-channels = Kanalen
+media-device-rate = Wurdearrring
+media-device-latency = Latintens
+intl-title = Ynternasjonalisaasje & lokalisaasje
+intl-app-title = Applikaasjeynstellingen
+intl-locales-requested = Fersochte talen
+intl-locales-available = Beskikbere talen
+intl-locales-supported = App-talen
+intl-locales-default = Standerttaal
+intl-os-title = Bestjoeringssysteem
+intl-os-prefs-system-locales = Systeemtalen
+intl-regional-prefs = Regionale foarkarren
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -104,6 +162,7 @@ text-copied = Tekst nei klamboerd kopiearre
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
 blocked-driver = Blokkearre foar jo grafyske stjoerprogramma.
+blocked-gfx-card = Blokkearre foar jo grafyske kaart fanwegen net oploste problemen mei it stjoerprogramma.
 blocked-os-version = Blokkearre foar jo bestjoeringssysteemferzje.
 blocked-mismatched-version = Blokkearre foar jo grafyske stjoerprogramma, ferzjes yn register en DLL komme net oerien.
 # Variables
@@ -122,6 +181,8 @@ no = Nee
 ## In some development versions, it's expected for some API keys that they are
 ## not found.
 
+found = Fûn
+missing = Untbrekt
 gpu-description = Beskriuwing
 gpu-vendor-id = Leveransier-ID
 gpu-device-id = Apparaat-ID
@@ -131,6 +192,16 @@ gpu-ram = RAM
 gpu-driver-version = Stjoerprogrammaferzje
 gpu-driver-date = Datum fan stjoerprogramma
 gpu-active = Aktyf
+webgl1-wsiinfo = WSI-ynfo fan WebGL 1-stjoerprogramma
+webgl1-renderer = Renderer fan WebGL 1-stjoerprogramma
+webgl1-version = Ferzje fan WebGL 1-stjoerprogramma
+webgl1-driver-extensions = Utwreidingen fan WebGL 1-stjoerprogramma
+webgl1-extensions = WebGL 1-útwreidingen
+webgl2-wsiinfo = WSI-ynfo fan WebGL 2-stjoerprogramma
+webgl2-renderer = Renderer fan WebGL 2-stjoerprogramma
+webgl2-version = Ferzje fan WebGL 2-stjoerprogramma
+webgl2-driver-extensions = Utwreidingen fan WebGL 2-stjoerprogramma
+webgl2-extensions = WebGL 2-útwreidingen
 blocklisted-bug = Om bekende problemen op de blokkearlist
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
@@ -143,6 +214,16 @@ d3d11video-crash-guard = D3D11-fideodecoder
 d3d9video-crash-buard = D3D9-fideodecoder
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Opnij ynstelle nij werstart
+gpu-process-kill-button = GPU-proses beëinigje
+gpu-device-reset-button = Apparaatherinisjalisaasje aktivearje
+uses-tiling = Brûkt tegels
+content-uses-tiling = Brûkt Tiling (Ynhâld)
+off-main-thread-paint-enabled = Off Main Thread Painting ynskeakele
+off-main-thread-paint-worker-count = Off Main Thread Painting Worker Count
+audio-backend = Audio-backend
+max-audio-channels = Maks kanalen
+channel-layout = Oanrekommandearre kanaalmodus
+sample-rate = Oanrekommandearre foarbyldfrekwinsje
 min-lib-versions = Minimale ferzje ferwachte
 loaded-lib-versions = Brûkte ferzje
 has-seccomp-bpf = Seccomp-BPF (Systeemoanropfiltering)
@@ -151,6 +232,11 @@ has-user-namespaces = Namespaces fan brûker
 has-privileged-user-namespaces = Namespaces fan brûker foar proscessen mei foech
 can-sandbox-content = Ynhâldsproses-sandboxing
 can-sandbox-media = Mediaynstekker-sandboxing
+content-sandbox-level = Ynhâldsproses-sandboxnivo
+effective-content-sandbox-level = Sandboxnivo fan effektyf ynhâldsproses
+sandbox-proc-type-content = ynhâld
+sandbox-proc-type-file = bestânsynhâld
+sandbox-proc-type-media-plugin = mediaynstekker
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -158,6 +244,7 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 multi-process-status-0 = Ynskeakele troch brûker
 multi-process-status-1 = Standert ynskeakele
 multi-process-status-2 = Utskeakele
+multi-process-status-4 = Utskeakele troch tagonklikheidsark
 multi-process-status-6 = Utskeakele troch net-stipe tekstynfier
 multi-process-status-7 = Utskeakele troch add-ons
 multi-process-status-8 = Forsearre útskeakele
@@ -166,10 +253,18 @@ async-pan-zoom = Asyngroan panne/zoome
 apz-none = gjin
 wheel-enabled = tsjilynfier ynskeakele
 touch-enabled = oanraakynfier ynskeakele
+drag-enabled = sleep fia skowbalke ynskeakele
+keyboard-enabled = toetseboerd ynskeakele
+autoscroll-enabled = automatysk skowe ynskeakele
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
 
+wheel-warning = async-tsjilynfier útskeakele fanwegen net stipe foarkar: { $preferenceKey }
+touch-warning = async-oanraakynfier útskeakele fanwegen net stipe foarkar: { $preferenceKey }
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+policies-inactive = Ynaktyf
+policies-active = Aktyf
+policies-error = Flater
