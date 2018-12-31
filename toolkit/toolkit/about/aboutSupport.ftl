@@ -42,6 +42,7 @@ app-basics-service-workers = Зареєстровані Service Workers
 app-basics-profiles = Профілі
 app-basics-multi-process-support = Багатопроцесні вікна
 app-basics-process-count = Процеси веб-вмісту
+app-basics-key-google = Ключ Google
 app-basics-key-mozilla = Ключ Служби визначення розташування від Mozilla
 app-basics-safe-mode = Безпечний режим
 show-dir-label =
@@ -81,6 +82,14 @@ library-version-title = Версії бібліотек
 copy-text-to-clipboard-label = Копіювати текст у буфер
 copy-raw-data-to-clipboard-label = Копіювати необроблені дані в буфер
 sandbox-title = Пісочниця
+sandbox-sys-call-log-title = Відхилені системні виклики
+sandbox-sys-call-index = #
+sandbox-sys-call-age = Секунд тому
+sandbox-sys-call-pid = PID
+sandbox-sys-call-tid = TID
+sandbox-sys-call-proc-type = Тип процесу
+sandbox-sys-call-number = Системний виклик
+sandbox-sys-call-args = Аргументи
 safe-mode-title = Спробувати безпечний режим
 restart-in-safe-mode-label = Перезапустити з вимкненими додатками…
 media-title = Медіа
@@ -160,6 +169,8 @@ no = Ні
 ## In some development versions, it's expected for some API keys that they are
 ## not found.
 
+found = Знайдено
+missing = Відсутнє
 gpu-description = Опис
 gpu-vendor-id = ID виробника
 gpu-device-id = ID пристрою
@@ -169,7 +180,16 @@ gpu-ram = RAM
 gpu-driver-version = Версія драйвера
 gpu-driver-date = Дата драйвера
 gpu-active = Активний
+webgl1-wsiinfo = WebGL 1 - Інформація WSI драйвера
+webgl1-renderer = WebGL 1 - Візуалізатор драйвера
+webgl1-version = WebGL 1 - Версія драйвера
+webgl1-driver-extensions = WebGL 1 - Розширення драйвера
+webgl1-extensions = WebGL 1 - Розширення
+webgl2-wsiinfo = WebGL 2 - Інформація WSI драйвера
 webgl2-renderer = Засіб візуалізації WebGL2
+webgl2-version = WebGL 2 - Версія драйвера
+webgl2-driver-extensions = WebGL 2 - Розширення драйвера
+webgl2-extensions = WebGL 2 - Розширення
 blocklisted-bug = Заблоковано через відомі проблеми
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
@@ -198,6 +218,8 @@ can-sandbox-content = Пісочниця для процесу вмісту
 can-sandbox-media = Пісочниця для плагіна медіа
 content-sandbox-level = Рівень пісочниці процесів вмісту
 effective-content-sandbox-level = Ефективний рівень ізоляції процесу вмісту
+sandbox-proc-type-content = вміст
+sandbox-proc-type-media-plugin = медіаплагін
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
