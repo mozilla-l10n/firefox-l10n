@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 page-title = Karkahattayan alhabar
+crashes-id = Bayrandi boŋtammaasa
 extensions-title = Dobuyaney
 extensions-name = Maa
 extensions-enabled = Tunante
@@ -24,6 +25,7 @@ modified-prefs-name = Maa
 graphics-title = Bii takarey
 js-title = JavaScript
 js-incremental-gc = Tonton cindi-kurmakaw
+a11y-title = Duwandiyan
 library-version-title = Tiirahugu dumey
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
