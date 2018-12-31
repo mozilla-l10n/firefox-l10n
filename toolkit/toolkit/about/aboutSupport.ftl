@@ -109,6 +109,48 @@ media-device-format = Формат
 media-device-channels = Каналы
 media-device-rate = Частота
 media-device-latency = Задержка
+# Variables
+# $days (Integer) - Number of days of crashes to log
+report-crash-for-days =
+    { $days ->
+        [one] Сообщения о падениях за последний { $days } день
+        [few] Сообщения о падениях за последние { $days } дня
+       *[many] Сообщения о падениях за последние { $days } дней
+    }
+# Variables
+# $minutes (integer) - Number of minutes since crash
+crashes-time-minutes =
+    { $minutes ->
+        [one] { $minutes } минуту назад
+        [few] { $minutes } минуты назад
+       *[many] { $minutes } минут назад
+    }
+# Variables
+# $hours (integer) - Number of hours since crash
+crashes-time-hours =
+    { $hours ->
+        [one] { $hours } час назад
+        [few] { $hours } часа назад
+       *[many] { $hours } часов назад
+    }
+# Variables
+# $days (integer) - Number of days since crash
+crashes-time-days =
+    { $days ->
+        [one] { $days } день назад
+        [few] { $days } дня назад
+       *[many] { $days } дней назад
+    }
+# Variables
+# $reports (integer) - Number of pending reports
+pending-reports =
+    { $reports ->
+        [one] Все сообщения о падениях (включая { $reports } ожидающее отправки сообщение в заданном диапазоне времени)
+        [few] Все сообщения о падениях (включая { $reports } ожидающих отправки сообщения в заданном диапазоне времени)
+       *[many] Все сообщения о падениях (включая { $reports } ожидающих отправки сообщений в заданном диапазоне времени)
+    }
+raw-data-copied = Необработанные данные скопированы в буфер обмена
+text-copied = Текст скопирован в буфер обмена
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
