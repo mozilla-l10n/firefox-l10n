@@ -8,9 +8,17 @@ crashes-title = Ulat ng mga Crash
 crashes-id = Ulat ID
 crashes-send-date = Nai-sumite
 crashes-all-reports = Lahat ng Ulat ng Pag-crash
+extensions-title = Mga extensyon
 extensions-name = Pangalan
+extensions-enabled = Payagan
 extensions-version = Bersyon
 extensions-id = ID
+security-software-title = Software Pang-seguridad
+security-software-type = Uri
+security-software-name = Pangalan
+security-software-antivirus = Antivirus
+security-software-antispyware = Antispyware
+security-software-firewall = Firewall
 features-title = { -brand-short-name } Mga Tampok
 features-name = Pangalan
 features-version = Bersyon
@@ -117,10 +125,31 @@ crashes-time-days =
         [one] { $days } araw na nakalipas
        *[other] { $days } mga araw na nakalipas
     }
+# Variables
+# $reports (integer) - Number of pending reports
+pending-reports =
+    { $reports ->
+        [one] Lahat ng Crash Reports (kalakip ang { $reports } na pending na crash ay binigyan ng time range)
+       *[other] Lahat ng mga Crash Report (kalakip ang { $reports } pending na mga crash ay binibigyan ng time range)
+    }
 raw-data-copied = Nakuha ang data ng raw sa clipboard
+text-copied = Ang teksto ay kinopya sa clipboard
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
+blocked-driver = Nakablock para sa iyong graphics na bersyon ng driver.
+blocked-gfx-card = Nakablock para sa iyong graphics card dahil sa mga hindi naresolbang mga problema sa driver.
+blocked-os-version = Nakablock para sa iyong bersyon ng operating system.
+blocked-mismatched-version = Nakablock para sa iyong graphics driver na bersyon na hindi pagtugma sa pagitan ng registry at DLL.
+# Variables
+# $driverVersion - The graphics driver version string
+try-newer-driver = Nakablock para sa iyong graphics na bersyon ng driver. Subukang i-update ang iyong graphics na driver sa bersyong { $driverVersion } o mas bago pa.
+# "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
+# there are no good translations, these are only used in about:support
+clear-type-parameters = ClearType na mga Parameter
+compositing = Compositing
+hardware-h264 = Hardware H264 na Pag-decode
+main-thread-no-omtc = pangunahing thread, walang OMTC
 yes = Oo
 no = Hindi
 
@@ -149,10 +178,33 @@ webgl2-renderer = WebGL 2 Driver Renderer
 webgl2-version = WebGL 2 Bersyon ng Driver
 webgl2-driver-extensions = WebGL 2 Mga Extensyon ng Driver
 webgl2-extensions = WebGL 2 Mga Extensyon
+blocklisted-bug = Naka-blocklist dahil sa mga kilalang problema
+# Variables
+# $bugNumber (string) - String of bug number from Bugzilla
+bug-link = bug { $bugNumber }
+# Variables
+# $failureCode (string) - String that can be searched in the source tree.
+unknown-failure = Nakablocklist; failure code { $failureCode }
+d3d11layers-crash-guard = D3D11 Compositor
 d3d11video-crash-guard = D3D11 Video Decoder
 d3d9video-crash-buard = D3D9 Video Decoder
 glcontext-crash-guard = OpenGL
+reset-on-next-restart = I-reset sa Sunod na Restart
+gpu-process-kill-button = Patigilin ang mga Proseso ng GPU
+gpu-device-reset-button = I-trigger ang Pag-reset ng Device
+uses-tiling = Paggamit ng Tiling
+audio-backend = Backend ng Audio
 max-audio-channels = Max na mga Channel
+sample-rate = Mas gustong Sample Rate
+min-lib-versions = Pinakababang inaasahang bersyon
+loaded-lib-versions = Bersyon na ginamit
+has-seccomp-bpf = Seccomp-BPF (System Call Filtering)
+has-seccomp-tsync = Seccomp Thread Synchronization
+has-user-namespaces = Mga Namespace ng Gumagamit
+has-privileged-user-namespaces = Mga Namespace ng Gumagamit para sa mga pribilihiyong mga proseso
+can-sandbox-content = Content Process Sandboxing
+can-sandbox-media = Media Plugin Sandboxing
+content-sandbox-level = Antas ng Sandbox ng Proseso ng Nilalaman
 sandbox-proc-type-content = nilalaman
 sandbox-proc-type-file = nilalaman ng file
 sandbox-proc-type-media-plugin = plugin ng media
@@ -160,9 +212,20 @@ sandbox-proc-type-media-plugin = plugin ng media
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
+multi-process-status-0 = Pinagana ng gumagamit
+multi-process-status-1 = Pinapagana ayon sa default
 multi-process-status-2 = Hindi Pinagana
+multi-process-status-6 = Hindi pinagana ng hindi suportadong text input
+multi-process-status-7 = Hindi pinagana ng mga add-on
+multi-process-status-8 = Sapilitang hindi pinagana
 multi-process-status-unknown = Hindi alam na katayuan
+async-pan-zoom = Asynchronous Pan/Zoom
 apz-none = wala
+wheel-enabled = naka-enable ang wheel input
+touch-enabled = naka-enable ang touch input
+drag-enabled = naka-enable ang scrollbar drag
+keyboard-enabled = naka-enable ang keyboard
+autoscroll-enabled = pinagana ang autoscroll
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
