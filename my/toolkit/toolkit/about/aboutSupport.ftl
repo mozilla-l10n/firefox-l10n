@@ -35,6 +35,12 @@ app-basics-service-workers = စာရင်းပြုထားသည့် Se
 app-basics-profiles = ပရိုဖိုင်များ
 app-basics-multi-process-support = တစ်ပြိုင်နက်လုပ်ဆောင်ချက် ဝင်းဒိုးများ
 app-basics-safe-mode = အန္တရာယ်ကင်း စနစ်
+show-dir-label =
+    { PLATFORM() ->
+        [macos] ရှာဖွေကိရိယာမှာ ဖေါ်ပြပါ
+        [windows] ဖိုလ်ဒါအားဖွင့်ပါ
+       *[other] ဖွင့်ထားသော လမ်းညွှန်
+    }
 modified-key-prefs-title = Important Modified Preferences
 modified-prefs-name = အမည်
 modified-prefs-value = တန်ဖိုး
@@ -91,6 +97,8 @@ no = မဟုတ်ပါ
 ## In some development versions, it's expected for some API keys that they are
 ## not found.
 
+found = တွေ့ပြီ
+missing = ပျောက်နေသော
 gpu-description = ဖေါ်ပြချက်
 gpu-vendor-id = ထုတ်လုပ်ရောင်းချသူ အမှတ်အသား
 gpu-device-id = ပစ္စည်း အမှတ်အသား
@@ -98,6 +106,16 @@ gpu-subsys-id = စနစ်ခွဲ အိုင်ဒီ
 gpu-drivers = Drivers
 gpu-ram = RAM
 gpu-active = လုပ်ဆောင်နေသည်
+webgl1-wsiinfo = WebGL 1 စက်သုံးဆော့ဝဲ WSI အချက်အလက်
+webgl1-renderer = WebGL 1 စက်သုံးဆော့ဝဲ စက်သုံး
+webgl1-version = WebGL 1 စက်သုံး ဗားရှင်း
+webgl1-driver-extensions = WebGL 1 စက်သုံးချဲ့သုံးဆော့ဝဲများ
+webgl1-extensions = WebGL 1 ချဲ့သုံးဆော့ဝဲများ
+webgl2-wsiinfo = WebGL 2 စက်သုံး WSI အချက်အလက်
+webgl2-renderer = WebGL2 ပံ့ပိုးသူ
+webgl2-version = WebGL 2 စက်သုံးဗားရှင်း
+webgl2-driver-extensions = WebGL 2 စက်သုံးချဲ့ သုံးဆော့ဝဲများ
+webgl2-extensions = WebGL 2 ချဲ့သုံးဆော့ဝဲများ
 blocklisted-bug = ဖြစ်တတ်သည့်ပြဿနာများရှိသောကြောင့် ပိတ်ပင်စာရင်းထဲ ထည့်ထားသည်
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
@@ -118,6 +136,7 @@ has-user-namespaces = User Namespaces
 has-privileged-user-namespaces = အခွင့်ရလုပ်ငန်းစဉ်များအတွက် User Namespaces
 can-sandbox-content = Content Process စမ်းသပ်ခြင်း
 can-sandbox-media = မီဒီယာ ပလပ်အင် စမ်းသပ်ခြင်း
+content-sandbox-level = Content Process Sandbox Level
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
