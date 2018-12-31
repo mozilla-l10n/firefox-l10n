@@ -24,7 +24,11 @@ modified-prefs-name = Erinnya
 graphics-title = Ebifananyi
 js-title = JavaScript
 js-incremental-gc = GC Ekula
+a11y-title = Kifunikwa
+a11y-activated = Kitandikiddwa
+a11y-force-disabled = Ziyiiza Okutukirira
 library-version-title = Enkola eyomu Terekero
+text-copied = Ebiwandiko bikoppeddwa
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
