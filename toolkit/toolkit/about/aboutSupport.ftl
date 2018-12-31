@@ -138,6 +138,13 @@ crashes-time-days =
         [one] Gila ñalawma { $days }
        *[other] { " " }gila ñalɗi { $days }.
     }
+# Variables
+# $reports (integer) - Number of pending reports
+pending-reports =
+    { $reports ->
+        [one] Jaŋte Kooke fof (ena jeyaa heen { $reports } hookre sabbiinde e dumunno taƴaaɗo)
+       *[other] Jaŋte Kooke fof (ena jeyaa heen { $reports } kooke cabbiiɗe e dumunna taƴaaɗo)
+    }
 raw-data-copied = Keɓe kecce nattaama to ɗakkitorde
 text-copied = Natto e ɗakkitorde
 
