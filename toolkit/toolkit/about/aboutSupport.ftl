@@ -3,6 +3,11 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 page-title = Мәселелерді шешу ақпараты
+crashes-title = Құлау туралы хабарлар
+crashes-id = Хабарлама ID
+crashes-send-date = Жіберілген
+crashes-all-reports = Барлық құлау туралы хабарламалары
+crashes-no-config = Бұл қолданба құлау хабарламаларын көрсетуге бапталмаған.
 extensions-title = Кеңейтулер
 extensions-name = Аты
 extensions-enabled = Іске қосулы
@@ -32,6 +37,41 @@ js-incremental-gc = Өспелі GC
 a11y-activated = Белсендірілген
 a11y-force-disabled = Кеңейтілген мүмкіндіктерге  тыйым салу
 library-version-title = Жинақтар нұсқалары
+# Variables
+# $days (Integer) - Number of days of crashes to log
+report-crash-for-days =
+    { $days ->
+        [one] Соңғы { $days } күн үшін құлау хабарламалары
+       *[other] Соңғы { $days } күн үшін құлау хабарламалары
+    }
+# Variables
+# $minutes (integer) - Number of minutes since crash
+crashes-time-minutes =
+    { $minutes ->
+        [one] { $minutes } минут бұрын
+       *[other] { $minutes } минут бұрын
+    }
+# Variables
+# $hours (integer) - Number of hours since crash
+crashes-time-hours =
+    { $hours ->
+        [one] { $hours } сағат бұрын
+       *[other] { $hours } сағат бұрын
+    }
+# Variables
+# $days (integer) - Number of days since crash
+crashes-time-days =
+    { $days ->
+        [one] { $days } күн бұрын
+       *[other] { $days } күн бұрын
+    }
+# Variables
+# $reports (integer) - Number of pending reports
+pending-reports =
+    { $reports ->
+        [one] Барлық құлау хабарламалары (соның ішінде берілген уақыт аралығындағы әлі жіберілмеген { $reports } құлау)
+       *[other] Барлық құлау хабарламалары (соның ішінде берілген уақыт аралығындағы әлі жіберілмеген { $reports } құлау)
+    }
 raw-data-copied = Өнделмеген мәліметтерді алмасу буферіне көшірілген
 text-copied = Мәтінді алмасу буферіне көшірілген
 
