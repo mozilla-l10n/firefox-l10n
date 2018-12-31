@@ -6,8 +6,11 @@ extensions-name = Tên
 extensions-version = Phiên bản
 app-basics-name = Tên
 app-basics-version = Phiên bản
+app-basics-update-history = Lịch sử cập nhật
+app-basics-show-update-history = Hiển thị lịch sử cập nhật
 modified-prefs-name = Tên
 graphics-title = Đồ họa
+js-title = JavaScript
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
