@@ -8,17 +8,24 @@ page-subtitle =
     спрабуеце вырашыць праблему. Калі вы шукаеце адказы на агульныя пытанні
     пра { -brand-short-name }, наведайце наш <a data-l10n-name="support-link">сайт падтрымкі</a>.
 crashes-title = Cправаздачы пра крахі
+crashes-id = Ідэнтыфікатар справаздачы
 crashes-send-date = Пададзена
 crashes-all-reports = Усе справаздачы пра крахі
+crashes-no-config = Гэта праграма не наладжана паказваць справаздачы пра крахі.
 extensions-title = Пашырэнні
 extensions-name = Назва
+extensions-enabled = Задзейнічана
 extensions-version = Версія
+extensions-id = ID
 features-title = Магчымасці { -brand-short-name }
 features-name = Імя
 features-version = Версія
 features-id = ID
+app-basics-title = Асновы праграмы
 app-basics-name = Назва
 app-basics-version = Версія
+app-basics-build-id = ID зборкі
+app-basics-update-channel = Канал абнаўлення
 app-basics-update-history = Гісторыя абнаўленняў
 app-basics-show-update-history = Паказаць гісторыю абнаўленняў
 app-basics-profile-dir =
@@ -26,17 +33,44 @@ app-basics-profile-dir =
         [linux] Дырэкторыя профілю
        *[other] Папка профілю
     }
+app-basics-enabled-plugins = Уключаныя плагіны
+app-basics-build-config = Канфігурацыя зборкі
 app-basics-user-agent = Дзеяч карыстальніка
+app-basics-os = АС
 app-basics-memory-use = Ужыванне памяці
+app-basics-performance = Прадукцыйнасць
+app-basics-service-workers = Зарэгістраваныя сервіс-воркеры
+app-basics-profiles = Профілі
+app-basics-multi-process-support = Шматпрацэсныя вокны
 app-basics-key-google = Ключ Google
 app-basics-key-mozilla = Ключ Службы вызначэння месцазнаходжання ад Mozilla
+app-basics-safe-mode = Абаронены рэжым
+show-dir-label =
+    { PLATFORM() ->
+        [macos] Паказаць у шукальніку
+        [windows] Адкрыць папку
+       *[other] Адкрыць дырэкторыю
+    }
 modified-key-prefs-title = Змененыя важныя налады
 modified-prefs-name = Назва
 modified-prefs-value = Значэнне
 user-js-title = Налады user.js
 user-js-description = Папка вашага профілю змяшчае <a data-l10n-name="user-js-link">файл user.js</a>, у якім знаходзяцца налады, не створаныя { -brand-short-name }.
 locked-key-prefs-title = Заблакаваныя важныя налады
+locked-prefs-name = Назва
+locked-prefs-value = Значэнне
 graphics-title = Графіка
+graphics-features-title = Магчымасці
+graphics-diagnostics-title = Дыягностыка
+graphics-failure-log-title = Журнал падзенняў
+graphics-gpu1-title = GPU #1
+graphics-gpu2-title = GPU #2
+graphics-decision-log-title = Журнал рашэнняў
+graphics-crash-guards-title = Адключаныя магчымасці абаронцы ад падзенняў
+graphics-workarounds-title = Абыходныя шляхі
+place-database-title = База звестак месцаў
+place-database-integrity = Цэльнасць
+place-database-verify-integrity = Праверыць цэльнасць
 js-title = JavaScript
 js-incremental-gc = Incremental GC
 a11y-title = Даступнасць
@@ -45,6 +79,7 @@ a11y-force-disabled = Прадухіліць даступнасць
 library-version-title = Версіі бібліятэк
 copy-text-to-clipboard-label = Скапіяваць тэкст у буфер абмену
 copy-raw-data-to-clipboard-label = Скапіяваць сырыя дадзеныя ў буфер абмену
+sandbox-title = Пясочніца
 sandbox-sys-call-log-title = Адхіленыя сістэмныя выклікі
 sandbox-sys-call-index = #
 sandbox-sys-call-age = Секунд таму
@@ -53,6 +88,8 @@ sandbox-sys-call-tid = TID
 sandbox-sys-call-proc-type = Тып працэсу
 sandbox-sys-call-number = Сістэмны выклік
 sandbox-sys-call-args = Аргументы
+safe-mode-title = Паспрабаваць абаронены рэжым
+restart-in-safe-mode-label = Перазапусціць з адключанымі дадаткамі…
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -93,12 +130,14 @@ text-copied = Тэкст скапіяваны ў буфер абмену
 blocked-driver = Блакавана для вашай версіі графічнага кіроўцы.
 blocked-gfx-card = Блакавана для вашай графічнай карты праз нявырашыныя праблемы кіроўцы.
 blocked-os-version = Блакавана для вашай версіі аперацыйнай сістэмы.
+blocked-mismatched-version = Заблакавана з-за несупадзення версіі графічнага драйвера паміж рэестрам і DLL.
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Блакавана для вашай версіі графічнага кіроўцы. Паспрабуйце абнавіць ваш графічны кіровец да версіі { $driverVersion } або навейшай.
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Параметры ClearType
+compositing = Кампазітынг
 hardware-h264 = Апаратнае дэкадаванне H264
 main-thread-no-omtc = галоўная плынь, без OMTC
 yes = Так
@@ -129,9 +168,13 @@ webgl2-renderer = WebGL 2 - Адлюстравальнік драйвера
 webgl2-version = WebGL 2 - Версія драйвера
 webgl2-driver-extensions = WebGL 2 - Пашырэнні драйвера
 webgl2-extensions = WebGL 2 - Пашырэнні
+blocklisted-bug = У спісе блакавання з-за вядомых праблем
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = праблема { $bugNumber }
+# Variables
+# $failureCode (string) - String that can be searched in the source tree.
+unknown-failure = У спісе блакавання; код памылкі { $failureCode }
 d3d11layers-crash-guard = Кампазітар D3D11
 d3d11video-crash-guard = Відэадэкодэр D3D11
 d3d9video-crash-buard = Відэадэкодэр D3D9
@@ -140,7 +183,13 @@ reset-on-next-restart = Скінуць пры наступным перазап�
 gpu-process-kill-button = Завяршыць GPU працэс
 min-lib-versions = Чаканая найменшая версія
 loaded-lib-versions = Версія ў ужыванні
+has-seccomp-bpf = Seccomp-BPF (Фільтраванне сістэмных выклікаў)
+has-seccomp-tsync = Seccomp Thread Synchronization
 has-user-namespaces = Прасторы імён карыстальніка
+has-privileged-user-namespaces = Прасторы імён карыстальніка для прывілеяваных працэсаў
+can-sandbox-content = Пясочніца змястоўных працэсаў
+can-sandbox-media = Пясочніца медыя-плагінаў
+content-sandbox-level = Узровень пясочніцы змястоўных працэсаў
 sandbox-proc-type-content = змесціва
 sandbox-proc-type-media-plugin = медыяплагін
 # Variables
@@ -150,14 +199,22 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 multi-process-status-0 = Уключаны карыстальнікам
 multi-process-status-1 = Прадвызначана - уключаны
 multi-process-status-2 = Выключаны
+multi-process-status-4 = Выключана прыладамі даступнасці
+multi-process-status-6 = Выключана непадтрыманым тэкставым уводам
 multi-process-status-7 = Адключана дадатакамі
 multi-process-status-8 = Прымусова адключаны
 multi-process-status-unknown = Невядомы статус
+async-pan-zoom = Асінхроннае павелічэнне/маштаб
 apz-none = няма
+wheel-enabled = увод колца ўключаны
+touch-enabled = пальцавы увод ўключаны
+drag-enabled = захоп стужкі прагорткі ўключаны
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
 
+wheel-warning = асінхронны ўвод колца выключаны з-за непадтрыманага настаўлення: { $preferenceKey }
+touch-warning = асінхронны пальцавы ўвод выключаны з-за непадтрыманага настаўлення: { $preferenceKey }
 
 ## Strings representing the status of the Enterprise Policies engine.
 
