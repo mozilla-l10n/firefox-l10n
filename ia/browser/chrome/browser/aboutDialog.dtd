@@ -62,7 +62,7 @@
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "&brandShortName; es actual">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.adminDisabled       "Actualisationes inactivate per le administrator de tu systema">
+<!ENTITY update.adminDisabled       "Actualisationes disactivate per le administrator de tu systema">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
 <!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; es in actualisation per un altere instantia">
 <!ENTITY update.restarting          "Reinitiante…">

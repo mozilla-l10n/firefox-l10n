@@ -176,6 +176,8 @@ hardware-h264 = Decodification H264 hardware
 main-thread-no-omtc = filo principal, sin OMTC
 yes = Si
 no = No
+unknown = Incognite
+virtual-monitor-disp = Schermo monitor virtual
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
@@ -183,6 +185,8 @@ no = No
 
 found = Trovate
 missing = Mancante
+gpu-process-pid = GPUProcessPid
+gpu-process = GPUProcess
 gpu-description = Description
 gpu-vendor-id = ID del venditor
 gpu-device-id = ID del dispositivo
@@ -215,6 +219,7 @@ d3d9video-crash-buard = Decodificator de video D3D9
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Remontar al proxime reinitiar
 gpu-process-kill-button = Terminar le processo GPU
+gpu-device-reset = Restabilir le apparato
 gpu-device-reset-button = Actionar le remontage del apparato
 uses-tiling = Usa mosaicos
 content-uses-tiling = Usa mosaicos (contento)
