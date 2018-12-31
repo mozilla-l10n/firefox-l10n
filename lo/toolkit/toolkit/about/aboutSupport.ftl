@@ -14,6 +14,8 @@ extensions-name = ຊື່​
 extensions-enabled = ເປີດໃຊ້ງານແລ້ວ
 extensions-version = ລູ້ນ​
 extensions-id = ID
+security-software-type = ປະເພດ
+security-software-name = ຊື່
 features-title = ຄູນລັກສະນະຂອງ { -brand-short-name }
 features-name = ຊື່
 features-version = ເວີຊັນ
@@ -87,6 +89,19 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Arguments
 safe-mode-title = ລອງໃຊ້ໂຫມດປອດໄພ
 restart-in-safe-mode-label = ເລີ່ມເຮັດວຽກໃຫມ່ພ້ອມປິດໃຊ້ງານໂປຣແກຣມເສີມ…
+media-output-devices-title = ອຸປະກອນອອກ
+media-input-devices-title = ອຸປະກອນເຂົ້າ
+media-device-name = ຊື່
+media-device-group = ກຸ່ມ
+media-device-vendor = ຜູ້ຂາຍ
+media-device-state = ສະຖານະ
+media-device-preferred = ທີ່ຕ້ອງການ
+media-device-format = ຮູບແບບ
+media-device-channels = ຊ່ອງ
+media-device-rate = ອັດຕາ
+media-device-latency = ການຍືດເວລາ
+intl-app-title = ການຕັ້ງຄ່າແອັບພິເຄຊັ່ນ
+intl-os-title = ລະ​ບົບ​ປະ​ຕິ​ບັດ​ການ
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days = ລາຍງານຂໍ້ຜິດພາດສຳລັບ { $days } ມື້ຫລ້າສຸດ
@@ -172,6 +187,7 @@ can-sandbox-content = Content Process Sandboxing
 can-sandbox-media = Media Plugin Sandboxing
 content-sandbox-level = Content Process Sandboxing
 sandbox-proc-type-content = ເນື້ອໃນ
+sandbox-proc-type-file = ເນື້ອຫາໄຟລ໌
 sandbox-proc-type-media-plugin = ປັກອິນມີເດຍ
 # Variables
 # $remoteWindows (integer) - Number of remote windows
@@ -190,6 +206,7 @@ apz-none = ບໍ່​ມີ​
 wheel-enabled = ເປີດການປ້ອນເຂົ້າ wheel ແລ້ວ
 touch-enabled = ເປີດການປ້ອນເຂົ້າການແຕະແລ້ວ
 drag-enabled = ເປີດໃຊ້ການລາກ scrollbar ແລ້ວ
+keyboard-enabled = ຄີບອດເປີດໃຊ້ງານແລ້ວ
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
@@ -199,3 +216,6 @@ touch-warning = async ການແຕະໄດ້ຖືກປິດການປ�
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+policies-inactive = ປິດການໃຊ້ງານ
+policies-active = ເປີດໃຊ້ງານຢູ່
+policies-error = ຂໍ້ຜິດພາດ
