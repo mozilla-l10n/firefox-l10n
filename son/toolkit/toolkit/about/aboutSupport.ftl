@@ -11,6 +11,8 @@ extensions-version = Dumi
 app-basics-title = Porogaram šintin hayey
 app-basics-name = Maa
 app-basics-version = Dumi
+app-basics-update-history = Taariki taagandi
+app-basics-show-update-history = Taariki taagandi cebe
 app-basics-profile-dir =
     { PLATFORM() ->
         [linux] Fooloɲaa alhal
@@ -22,11 +24,19 @@ app-basics-user-agent = Goyteeri
 app-basics-memory-use = Lakkal goy-alkadar
 modified-key-prefs-title = Ibaayi barmayante šifanteyaŋ
 modified-prefs-name = Maa
+user-js-title = user.js ibaayey
+user-js-description = War foolo alhaalo goo nda <a data-l10n-name="user-js-link">user.js file</a> kaŋ ra ibaayiyaŋ kaŋ { -brand-short-name } man'i tee.
 graphics-title = Bii takarey
 js-title = JavaScript
 js-incremental-gc = Tonton cindi-kurmakaw
 a11y-title = Duwandiyan
+a11y-activated = Dirante
+a11y-force-disabled = Duuyan ganji
 library-version-title = Tiirahugu dumey
+copy-text-to-clipboard-label = Kalimaɲaa kuruI berandi deeji-walhaa ga
+copy-raw-data-to-clipboard-label = Bayhaya ganey berandi deeji-walhaa ga
+raw-data-copied = Bayhaya ganey berandi deeji-walhaa ga
+text-copied = Kalimaɲaa kuru berandi deeji-walhaa ga
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
