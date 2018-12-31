@@ -123,6 +123,8 @@ pending-reports =
         [one] Tous les rapports de plantage (y compris { $reports } rapport en attente d’un plantage ayant eu lieu dans l’intervalle)
        *[other] Tous les rapports de plantage (y compris { $reports } rapports en attente de plantages ayant eu lieu dans l’intervalle)
     }
+raw-data-copied = Informations brutes copiées dans le presse-papiers
+text-copied = Texte copié dans le presse-papiers
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
