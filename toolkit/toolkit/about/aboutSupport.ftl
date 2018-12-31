@@ -3,6 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 page-title = Troubleshooting Information
+page-subtitle =
+    This page contains technical information that might be useful when you’re
+    trying to solve a problem. If you are looking for answers to common questions
+    about { -brand-short-name }, check out our <a data-l10n-name="support-link">support website</a>.
 crashes-title = Crash Reports
 crashes-id = Report ID
 crashes-send-date = Submitted
@@ -108,6 +112,7 @@ media-device-format = Format
 media-device-channels = Channels
 media-device-rate = Rate
 media-device-latency = Latency
+intl-title = Internationalization & Localization
 intl-app-title = Application Settings
 intl-locales-requested = Requested Locales
 intl-locales-available = Available Locales
@@ -222,6 +227,7 @@ sample-rate = Preferred Sample Rate
 min-lib-versions = Expected minimum version
 loaded-lib-versions = Version in use
 has-seccomp-bpf = Seccomp-BPF (System Call Filtering)
+has-seccomp-tsync = Seccomp Thread Synchronization
 has-user-namespaces = User Namespaces
 has-privileged-user-namespaces = User Namespaces for privileged processes
 can-sandbox-content = Content Process Sandboxing
