@@ -15,7 +15,13 @@ app-basics-build-id = ID da compilação
 app-basics-update-channel = Canal de atualização
 app-basics-update-history = Histórico de atualizações
 app-basics-show-update-history = Mostrar histórico de atualizações
+app-basics-profile-dir =
+    { PLATFORM() ->
+        [linux] Diretório do perfil
+       *[other] Pasta do perfil
+    }
 app-basics-multi-process-support = Multi-processamento de janelas
+modified-key-prefs-title = Preferências importantes modificadas
 modified-prefs-name = Nome
 modified-prefs-value = Valor
 user-js-description = A sua pasta de perfil contém <a data-l10n-name="user-js-link">um ficheiro user.js</a>, que inclui as preferências que não foram criadas pelo { -brand-short-name }.
@@ -23,9 +29,11 @@ locked-key-prefs-title = Preferências importantes bloqueadas
 locked-prefs-name = Nome
 locked-prefs-value = Valor
 graphics-title = Gráficos
+js-title = JavaScript
 js-incremental-gc = GC incremental
 a11y-activated = Ativa
 a11y-force-disabled = Impedir acessibilidade
+library-version-title = Versões da biblioteca
 copy-text-to-clipboard-label = Copiar texto para a área de transferência
 copy-raw-data-to-clipboard-label = Copiar dados para a área de transferência
 sandbox-title = Sandbox
@@ -55,14 +63,20 @@ text-copied = Texto copiado para a área de transferência
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
 blocked-driver = Bloqueado para a sua versão do controlador gráfico.
+blocked-os-version = Bloqueado para a sua versão do sistema operativo.
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Bloqueado para a sua versão do controlador gráfico. Tente atualizar o controlador da sua placa gráfica para a versão { $driverVersion } ou mais recente.
+# "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
+# there are no good translations, these are only used in about:support
+clear-type-parameters = Parâmetros ClearType
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
 ## not found.
 
+min-lib-versions = Versão mínima esperada
+loaded-lib-versions = Versão em utilização
 has-seccomp-bpf = Seccomp-BPF (Filtro de chamada do sistema)
 # Variables
 # $remoteWindows (integer) - Number of remote windows
