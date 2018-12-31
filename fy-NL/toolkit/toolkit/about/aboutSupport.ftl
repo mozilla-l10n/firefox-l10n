@@ -16,6 +16,7 @@ extensions-id = ID
 app-basics-title = Applikaasjebasis
 app-basics-name = Namme
 app-basics-version = Ferzje
+app-basics-build-id = Build-ID
 app-basics-update-history = Fernijingsskiednis
 app-basics-show-update-history = Fernijingsskiednis toane
 app-basics-profile-dir =
@@ -44,6 +45,7 @@ library-version-title = Biblioteekferzje
 copy-text-to-clipboard-label = Tekst nei klamboerd kopiearje
 copy-raw-data-to-clipboard-label = Rûge gegevens nei klamboerd kopiearje
 sandbox-title = Sandbox
+restart-in-safe-mode-label = Werstart mei útskeakele add-ons…
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -98,12 +100,17 @@ clear-type-parameters = ClearType parameters
 min-lib-versions = Minimale ferzje ferwachte
 loaded-lib-versions = Brûkte ferzje
 has-seccomp-bpf = Seccomp-BPF (Systeemoanropfiltering)
+has-seccomp-tsync = Seccomp-threadsynchronisatie
+has-user-namespaces = Namespaces fan brûker
+has-privileged-user-namespaces = Namespaces fan brûker foar proscessen mei foech
 can-sandbox-content = Ynhâldsproses-sandboxing
 can-sandbox-media = Mediaynstekker-sandboxing
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
+async-pan-zoom = Asyngroan panne/zoome
+touch-enabled = oanraakynfier ynskeakele
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
