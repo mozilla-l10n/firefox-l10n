@@ -10,6 +10,8 @@ extensions-version = संस्करण
 app-basics-title = अनुप्रयोग मूल
 app-basics-name = नाम
 app-basics-version = संस्करण
+app-basics-update-history = इतिहास अद्यतन करें
+app-basics-show-update-history = अद्यतन इतिहास दिखाएँ
 app-basics-profile-dir =
     { PLATFORM() ->
         [linux] प्रोफ़ाइल निर्देशिका
@@ -29,6 +31,7 @@ a11y-title = पहुँच
 a11y-activated = सक्रिय
 a11y-force-disabled = पहुँच रोकें
 library-version-title = लाइब्रेरी संस्करण
+text-copied = Text copied to clipboard
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
