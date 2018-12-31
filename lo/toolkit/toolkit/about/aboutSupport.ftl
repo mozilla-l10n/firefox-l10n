@@ -36,18 +36,30 @@ app-basics-service-workers = ລົງທະບຽນ Service Workers ແລ້�
 app-basics-profiles = ໂປ​ຣ​ໄຟ​ລ໌
 app-basics-multi-process-support = ວິນໂດ Multiprocess
 app-basics-safe-mode = ໂຫມດປອດໄພ
+show-dir-label =
+    { PLATFORM() ->
+        [macos] ສະແດງໃນ Finder
+        [windows] ເປີດໂຟນເດີ
+       *[other] ເປີດໄດເລັກທໍລີ
+    }
+modified-key-prefs-title = ການຕັ້ງຄ່າສຳຄັນທີ່ຖືກປ່ຽນແປງ
 modified-prefs-name = ຊື່​
 modified-prefs-value = ຄ່າ​​​
 user-js-title = ການຕັ້ງຄ່າ user.js
 user-js-description = ໂຟລເດີໂປຣໄຟລ໌ຂອງທ່ານປະກອບມີ <a data-l10n-name="user-js-link">ໄຟລ໌ user.js</a>, ຊຶ່ງລວມມີການຕັ້ງຄ່າທີ່ບໍ່ໄດ້ຮັບການສ້າງຂື້ນມາໂດຍ { -brand-short-name }.
+locked-key-prefs-title = ການຕັ້ງຄ່າສຳຄັນທີ່ຖືກລັອກ
 locked-prefs-name = ຊື່​
 locked-prefs-value = ຄ່າ​​​​
 graphics-title = ກຣາບຟິກ
 graphics-features-title = ຄຸນລັກສະນະ
 graphics-diagnostics-title = ການວິນິດໄສ
+graphics-failure-log-title = Failure Log
 graphics-gpu1-title = GPU #1
 graphics-gpu2-title = GPU #2
+graphics-decision-log-title = Decision Log
+graphics-crash-guards-title = Crash Guard Disabled Features
 graphics-workarounds-title = Workarounds
+place-database-title = Places Database
 place-database-integrity = ຄວາມສົມບູນ
 place-database-verify-integrity = ກວດສອບຄວາມສົມບູນ
 js-title = JavaScript​
@@ -77,6 +89,7 @@ try-newer-driver = ຖືກບັອກຈາກລຸ້ນໄດຣເວີ�
 clear-type-parameters = ພາລາມີເຕີ ClearType
 compositing = ການປະກອບ
 hardware-h264 = ການຖອດລະຫັດຮາດແວ H264
+main-thread-no-omtc = main thread, no OMTC
 yes = ແມ່ນ
 no = ບໍ່
 
@@ -91,6 +104,7 @@ gpu-subsys-id = Subsys ID
 gpu-drivers = ໄດຣເວີ
 gpu-ram = RAM
 gpu-driver-version = ລຸ້ນຂອງໄດຣເວີ
+gpu-driver-date = ວັນທີຂອງໄດຣເວີ
 gpu-active = ເປີດໃຊ້
 webgl2-renderer = WebGL2 Renderer
 blocklisted-bug = Blocklisted ຍ້ອນວ່າໄດ້ຮັບຮູ້ບັນຫານີ້ແລ້ວ.
@@ -105,6 +119,7 @@ d3d11video-crash-guard = ຕົວຖອດລະຫັດວິດີໂອ D3D
 d3d9video-crash-buard = ຕົວຖອດລະຫັດວິດີໂອ D3D9
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = ກັບໄປສູ່ການຕັ້ງຄ່າເດີມໃນການ Restart ຄັ້ງຕໍ່ໄປ
+gpu-process-kill-button = ຢຸດໂປຣເຊສ GPU
 min-lib-versions = ລຸ້ນຕຳສຸດທີ່ສາມາດໃຊ້ໄດ້
 loaded-lib-versions = ລຸ້ນທີ່ກຳລັງນຳໃຊ້ຢູ່
 has-seccomp-bpf = Seccomp-BPF (System Call Filtering)
@@ -113,6 +128,7 @@ has-user-namespaces = User Namespaces
 has-privileged-user-namespaces = User Namespaces ສຳລັບຂະບວນການທີ່ໄດ້ຮັບສິດທິພິເສດ
 can-sandbox-content = Content Process Sandboxing
 can-sandbox-media = Media Plugin Sandboxing
+content-sandbox-level = Content Process Sandboxing
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -127,10 +143,15 @@ multi-process-status-8 = ຖືກປິດໃຊ້ງານໂດຍ Forcibly
 multi-process-status-unknown = ບໍ່ຮູ້ສະຖານະ
 async-pan-zoom = Asynchronous Pan/Zoom
 apz-none = ບໍ່​ມີ​
+wheel-enabled = ເປີດການປ້ອນເຂົ້າ wheel ແລ້ວ
+touch-enabled = ເປີດການປ້ອນເຂົ້າການແຕະແລ້ວ
+drag-enabled = ເປີດໃຊ້ການລາກ scrollbar ແລ້ວ
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
 
+wheel-warning = async wheel ໄດ້ຖືກປິດການປ້ອນເຂົ້າຍ້ອນວ່າມັນບໍ່ໄດ້ຮັບຫານສະຫນັບສະຫນູນການຕັ້ງຄ່າ: { $preferenceKey }
+touch-warning = async ການແຕະໄດ້ຖືກປິດການປ້ອນເຂົ້າຍ້ອນວ່າມັນບໍ່ໄດ້ຮັບຫານສະຫນັບສະຫນູນການຕັ້ງຄ່າ: { $preferenceKey }
 
 ## Strings representing the status of the Enterprise Policies engine.
 
