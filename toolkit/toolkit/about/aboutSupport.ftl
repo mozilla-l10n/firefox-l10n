@@ -11,13 +11,25 @@ extensions-id = ID
 app-basics-title = Osnove aplikacije
 app-basics-name = Naziv
 app-basics-version = Inačica
+app-basics-profile-dir =
+    { PLATFORM() ->
+        [linux] Direktorij profila
+       *[other] Direktorij profila
+    }
 app-basics-enabled-plugins = Omogućeni priključci
 app-basics-build-config = Build konfiguracija
 app-basics-user-agent = User Agent
 app-basics-memory-use = Zauzeće memorije
+modified-key-prefs-title = Važne izmijenjene osobitosti
 modified-prefs-name = Naziv
 modified-prefs-value = Vrijednost
 graphics-title = Grafika
+js-title = JavaScript
+js-incremental-gc = Inkrementalni GC
+a11y-title = Pristupačnost
+a11y-activated = Aktivirano
+a11y-force-disabled = Onemogući pristupačnost
+library-version-title = Inačice biblioteke
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
@@ -35,6 +47,7 @@ clear-type-parameters = ClearType parametri
 ## In some development versions, it's expected for some API keys that they are
 ## not found.
 
+min-lib-versions = Očekivana najmanja inačica
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
