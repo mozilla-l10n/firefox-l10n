@@ -57,7 +57,7 @@ graphics-failure-log-title = লগ ব্যর্থতা
 graphics-gpu1-title = GPU #1
 graphics-gpu2-title = GPU #2
 graphics-decision-log-title = সিদ্ধান্ত লগ
-graphics-crash-guards-title = ক্র্যাশ গার্ডের বৈশিষ্ট্য অক্ষম{ " " }
+graphics-crash-guards-title = ক্র্যাশ গার্ডের বৈশিষ্ট্য অক্ষম
 graphics-workarounds-title = পদ্ধতিগুলির মধ্যে
 place-database-title = ডাটাবেস বসান
 place-database-integrity = অখণ্ডতা
@@ -78,7 +78,7 @@ restart-in-safe-mode-label = অ্যাড-অন নিষ্ক্রিয় 
 report-crash-for-days =
     { $days ->
         [one] সর্বশেষ { $days } দিনের জন্য ক্র্যাশ প্রতিবেদনগুলি
-       *[other] { " " }শেষ { $days } দিনের জন্য ক্র্যাশ প্রতিবেদন
+       *[other] শেষ { $days } দিনের জন্য ক্র্যাশ প্রতিবেদন
     }
 # Variables
 # $minutes (integer) - Number of minutes since crash
@@ -154,7 +154,7 @@ d3d11layers-crash-guard = D3D11 কম্পোজিটর
 d3d11video-crash-guard = D3D11 ভিডিও ডেকোডার
 d3d9video-crash-buard = D3D9 ভিডিও ডিকোডার
 glcontext-crash-guard = OpenGL
-reset-on-next-restart = পরবর্তী পুনরারম্ভরে রিসেট করুন{ " " }
+reset-on-next-restart = পরবর্তী পুনরারম্ভরে রিসেট করুন
 gpu-process-kill-button = GPU প্রক্রিয়া বন্ধ করুন
 audio-backend = অডিও ব্যাকেন্ড
 min-lib-versions = প্রত্যাশিত সর্বনিম্ন সংস্করণ
