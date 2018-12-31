@@ -29,8 +29,14 @@ modified-prefs-value = Вредност
 graphics-title = Графика
 js-title = JavaScript
 js-incremental-gc = Incremental GC
+a11y-title = Пристапност
+a11y-activated = Активирана
+a11y-force-disabled = Сопри пристапност
 library-version-title = Верзија на библиотеката
+copy-text-to-clipboard-label = Копирај го текстот
 copy-raw-data-to-clipboard-label = Копирај ги сировите податоци
+raw-data-copied = Сировите податоци се ископирани
+text-copied = Текстот е ископиран
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
