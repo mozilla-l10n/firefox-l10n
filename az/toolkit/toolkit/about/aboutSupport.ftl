@@ -47,6 +47,7 @@ app-basics-profiles = Profillər
 app-basics-multi-process-support = Çox əməliyyatlı Pəncərələr
 app-basics-process-count = Web Məzmun Emalçıları
 app-basics-enterprise-policies = Sahibkarlıq Siyasəti
+app-basics-key-google = Google açarı
 app-basics-key-mozilla = Mozilla Mövqe Xidməti Açarı
 app-basics-safe-mode = Təhlükəsiz Rejim
 show-dir-label =
@@ -88,7 +89,12 @@ copy-raw-data-to-clipboard-label = Xam məlumatı buferə köçür
 sandbox-title = Qum qutusu
 sandbox-sys-call-log-title = Rədd edilən sistem çağrıları
 sandbox-sys-call-index = #
+sandbox-sys-call-age = Saniyə əvvəl
+sandbox-sys-call-pid = PID
+sandbox-sys-call-tid = TID
+sandbox-sys-call-proc-type = Prosses növü
 sandbox-sys-call-number = Sistem çağrısı
+sandbox-sys-call-args = Parametrlər
 safe-mode-title = Təhlükəsiz Modu Yoxlayın
 restart-in-safe-mode-label = Əlavələr sönülü olaraq yenidən başlat…
 media-title = Media
@@ -172,6 +178,8 @@ no = Xeyr
 ## In some development versions, it's expected for some API keys that they are
 ## not found.
 
+found = Tapıldı
+missing = Əksik
 gpu-description = Açıqlama
 gpu-vendor-id = Satıcı kimliyi
 gpu-device-id = Cihaz kimliyi
@@ -181,8 +189,16 @@ gpu-ram = RAM
 gpu-driver-version = Sürücü versiyası
 gpu-driver-date = Sürücü tarixi
 gpu-active = Aktiv
+webgl1-wsiinfo = WebGL 1 Sürücü WSI məlumatı
 webgl1-renderer = WebGL 1 Sürücü Renderer-i
+webgl1-version = WebGL 1 Sürücü Buraxılışı
+webgl1-driver-extensions = WebGL 1 Sürücü Əlavəsi
+webgl1-extensions = WebGL 1 Əlavələr
+webgl2-wsiinfo = WebGL 2 Sürücü WSI məlumatı
 webgl2-renderer = WebGL2 Vizuallaşdırıcı
+webgl2-version = WebGL 2 Sürücü Buraxılışı
+webgl2-driver-extensions = WebGL 2 Sürücü Əlavəsi
+webgl2-extensions = WebGL 2 Əlavələr
 blocklisted-bug = Bilinən xətalara görə qara siyahıya alındı
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
@@ -215,7 +231,9 @@ can-sandbox-content = Məzmun İşləmə Sandbox-u
 can-sandbox-media = Media Qoşması Sandbox-u
 content-sandbox-level = Məzmun İşləmə Sandbox Səviyyəsi
 effective-content-sandbox-level = Effektiv məzmun emalı Sandbox səviyyəsi
+sandbox-proc-type-content = məzmun
 sandbox-proc-type-file = fayl məzmunu
+sandbox-proc-type-media-plugin = media qoşması
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
