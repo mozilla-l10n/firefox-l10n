@@ -12,6 +12,7 @@ app-basics-version = Versión
 app-basics-enabled-plugins = Plugins activados
 app-basics-build-config = Configuración de compilación
 app-basics-user-agent = Agente de usuario
+app-basics-memory-use = Uso de memoria
 modified-prefs-name = Nombre
 modified-prefs-value = Valor
 graphics-title = Gráficas
