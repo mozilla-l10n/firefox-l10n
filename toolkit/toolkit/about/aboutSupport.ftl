@@ -110,6 +110,14 @@ report-crash-for-days =
        *[other] Izvještaji o rušenju za proteklih { $days } dana
     }
 # Variables
+# $minutes (integer) - Number of minutes since crash
+crashes-time-minutes =
+    { $minutes ->
+        [one] Prije { $minutes } minute
+        [few] Prije { $minutes } minute
+       *[other] Prije { $minutes } minuta
+    }
+# Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
     { $hours ->
