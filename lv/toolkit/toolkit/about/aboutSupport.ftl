@@ -19,6 +19,7 @@ a11y-activated = Aktivizēta
 a11y-force-disabled = Neatļaut pieejamību
 copy-text-to-clipboard-label = Kopēt tekstu atmiņā
 copy-raw-data-to-clipboard-label = Kopēt datus atmiņā
+sandbox-title = Ierobežošana
 raw-data-copied = Dati nokopēti atmiņā
 text-copied = Teksts nokopēts atmiņā
 
@@ -34,6 +35,9 @@ clear-type-parameters = ClearType parametri
 
 min-lib-versions = Gaidītā minimālā versija
 loaded-lib-versions = Izmantotā versija
+has-seccomp-bpf = Seccomp-BPF (Sistēmas izsaukumu filtrešana)
+can-sandbox-content = Satura apstrādes ierobešošana
+can-sandbox-media = Mediju spraudņu ierobežošana
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
