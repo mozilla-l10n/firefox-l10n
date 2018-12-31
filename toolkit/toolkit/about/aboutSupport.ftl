@@ -107,6 +107,7 @@ text-copied = Text bol skopírovaný do schránky
 blocked-driver = Blokované kvôli verzii ovládača grafickej karty.
 blocked-gfx-card = Blokované kvôli nevyriešeným problémom s ovládačom grafickej karty.
 blocked-os-version = Blokované kvôli verzii operačného systému.
+blocked-mismatched-version = Blokované kvôli nesúladu verzie ovládača grafickej karty uvedenej v registroch a v knižnici DLL.
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Blokované kvôli verzii ovládača grafickej karty. Skúste ovládač aktualizovať na verziu { $driverVersion } alebo novšiu.
