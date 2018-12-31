@@ -14,6 +14,8 @@ extensions-name = Naziv
 extensions-enabled = Omogućen
 extensions-version = Verzija
 extensions-id = ID
+security-software-antispyware = Antispyware
+security-software-firewall = Firewall
 features-title = { -brand-short-name } mogućnosti
 features-name = Naziv
 features-version = Verzija
@@ -39,6 +41,7 @@ app-basics-performance = Performanse
 app-basics-service-workers = Registrovani Service Workeri
 app-basics-profiles = Profili
 app-basics-multi-process-support = Multiprocesni prozori
+app-basics-process-count = Procesi web sadržaja
 app-basics-key-google = Google Key
 app-basics-key-mozilla = Mozilla Location Service Key
 app-basics-safe-mode = Sigurni režim
@@ -73,6 +76,8 @@ js-incremental-gc = Inkrementalni GC
 a11y-title = Pristupačnost
 a11y-activated = Aktivirana
 a11y-force-disabled = Prevencija pristupačnosti
+a11y-handler-used = Korišteni upravljač pristupačnosti
+a11y-instantiator = Instancijator pristupačnosti
 library-version-title = Verzije biblioteke
 copy-text-to-clipboard-label = Kopiraj tekst na clipboard
 copy-raw-data-to-clipboard-label = Kopiraj sirove podatke na clipboard
@@ -87,6 +92,27 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Argumenti
 safe-mode-title = Probaj sigurni režim
 restart-in-safe-mode-label = Restartuj sa onemogućenim add-onima…
+media-title = Medij
+media-output-devices-title = Izlazni uređaji
+media-input-devices-title = Ulazni uređaji
+media-device-name = Naziv
+media-device-group = Grupa
+media-device-vendor = Proizvođač
+media-device-state = Stanje
+media-device-preferred = Preferirano
+media-device-format = Format
+media-device-channels = Kanali
+media-device-rate = Brzina
+media-device-latency = Kašnjenje
+intl-title = Internacionalizacija & lokalizacija
+intl-app-title = Postavke aplikacije
+intl-locales-requested = Zatraženi lokali
+intl-locales-available = Dostupni lokali
+intl-locales-supported = App lokali
+intl-locales-default = Glavni lokal
+intl-os-title = Operativni sistem
+intl-os-prefs-system-locales = Sistemski lokali
+intl-regional-prefs = Regionalne postavke
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -136,6 +162,9 @@ blocked-driver = Blokirano za vašu verziju grafičkog drajvera.
 blocked-gfx-card = Blokirano za vašu grafičku karticu zbog neriješenih problema sa drajverom.
 blocked-os-version = Blokirano zbog verzije vašeg operativnog sistema.
 blocked-mismatched-version = Blokiran jer se verzije drajvera vaše grafičke kartice ne podudaraju u registru i DLL-u.
+# Variables
+# $driverVersion - The graphics driver version string
+try-newer-driver = Blokirano za vašu verziju grafičkog drajvera. Pokušajte nadograditi vaš grafički drajvera na verziju { $driverVersion } ili noviju.
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType Parametri
@@ -183,7 +212,14 @@ d3d9video-crash-buard = D3D9 Video dekoder
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Resetuj vrijednosti kod sljedećeg restarta
 gpu-process-kill-button = Okončaj GPU procese
+gpu-device-reset-button = Okini reset uređaja
+uses-tiling = Koristi mozaik
+off-main-thread-paint-enabled = Off Main Thread Painting omogućen
+off-main-thread-paint-worker-count = Off Main Thread Painting Worker brojač
 audio-backend = Audio Backend
+max-audio-channels = Max kanala
+channel-layout = Željeni raspored kanala
+sample-rate = Željeni sample rate
 min-lib-versions = Očekivana minimalna verzija
 loaded-lib-versions = Verzija u upotrebi
 has-seccomp-bpf = Seccomp-BPF (filtriranje sistemskih poziva)
@@ -193,7 +229,9 @@ has-privileged-user-namespaces = Korisnički namespace-i za privilegovane proces
 can-sandbox-content = Sandboxing procesa sadržaja
 can-sandbox-media = Sandboxing media plugina
 content-sandbox-level = Sanbox nivo procesa sadržaja
+effective-content-sandbox-level = Efektivni Content Process Sandbox nivo
 sandbox-proc-type-content = sadržaj
+sandbox-proc-type-file = sadržaj fajla
 sandbox-proc-type-media-plugin = medijski plugin
 # Variables
 # $remoteWindows (integer) - Number of remote windows
@@ -212,6 +250,8 @@ apz-none = ništa
 wheel-enabled = omogućen ulaz točkićem
 touch-enabled = omogućen ulaz dodirom
 drag-enabled = omogućeno povlačenje scrollbara
+keyboard-enabled = tastatura omogućena
+autoscroll-enabled = autoscroll omogućen
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
