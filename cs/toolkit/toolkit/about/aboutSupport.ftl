@@ -60,7 +60,11 @@ locked-key-prefs-title = Důležité uzamčené předvolby
 locked-prefs-name = Název
 locked-prefs-value = Hodnota
 graphics-title = Grafika
+graphics-features-title = Vlastnosti
+graphics-diagnostics-title = Diagnostika
 graphics-failure-log-title = Protokol chyb
+graphics-gpu1-title = GPU #1
+graphics-gpu2-title = GPU #2
 graphics-decision-log-title = Protokol rozhodování
 graphics-crash-guards-title = Zakázat funkce Crash Guard
 graphics-workarounds-title = Možná řešení
@@ -157,11 +161,24 @@ try-newer-driver = Zakázáno kvůli verzi ovladače grafické karty. Zkuste akt
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Technologie ClearType
 compositing = Compositing
+hardware-h264 = Hardwarové dekódování H264
+main-thread-no-omtc = hlavní vlákno, ne OMTC
+yes = Ano
+no = Ne
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
 ## not found.
 
+gpu-description = Popis
+gpu-vendor-id = ID prodejce
+gpu-device-id = ID zařízení
+gpu-subsys-id = ID subsystému
+gpu-drivers = Ovladače
+gpu-ram = RAM
+gpu-driver-version = Verze ovladače
+gpu-driver-date = Datum ovladače
+gpu-active = Aktivní
 webgl2-renderer = Zobrazování WebGL2
 blocklisted-bug = Zablokováno kvůli známé chybě
 # Variables
@@ -207,6 +224,7 @@ multi-process-status-2 = Zakázáno
 multi-process-status-4 = Zakázáno nástroji pro přístupnost
 multi-process-status-6 = Zakázáno pro nepodporovaný textový vstup
 multi-process-status-7 = Zakázáno doplňky
+multi-process-status-8 = Násilně zakázáno
 multi-process-status-unknown = Neznámý stav
 async-pan-zoom = Asynchronní lupa/panning
 apz-none = nic
