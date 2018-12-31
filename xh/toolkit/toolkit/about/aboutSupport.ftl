@@ -34,6 +34,7 @@ app-basics-memory-use = Ukusetyenziswa kwememori
 app-basics-performance = Ukusebenza
 app-basics-service-workers = Abasebenzisi beNkonzo Ababhalisiweyo{ " " }
 app-basics-profiles = Iiprofayile
+app-basics-multi-process-support = IWindows yeenkqubo ezininzi
 app-basics-safe-mode = IMowudi Ekhuselekileyo
 show-dir-label =
     { PLATFORM() ->
@@ -46,6 +47,9 @@ modified-prefs-name = Igama
 modified-prefs-value = Ixabiso
 user-js-title = Iipriferensi ze-user.js
 user-js-description = Ifolda yakho yeprofayile iqulethe ifayile <a data-l10n-name="user-js-link">user.js </a>, equlethe iipriferensi ezingenziwanga yi-{ -brand-short-name }.
+locked-key-prefs-title = Iipriferensi ezitshixiweyo ezibalulekileyo
+locked-prefs-name = Igama
+locked-prefs-value = Ixabiso
 graphics-title = Iigrafikhi
 graphics-features-title = Iifitsha
 graphics-diagnostics-title = Iidayagnostiki
