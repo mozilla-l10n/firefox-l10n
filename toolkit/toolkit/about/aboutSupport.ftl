@@ -181,6 +181,7 @@ hardware-h264 = Апаратнае дэкадаванне H264
 main-thread-no-omtc = галоўная плынь, без OMTC
 yes = Так
 no = Не
+unknown = Невядома
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
