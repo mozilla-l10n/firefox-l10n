@@ -84,6 +84,7 @@ restart-in-safe-mode-label = เริ่มการทำงานใหม่
 media-title = สื่อ
 media-device-name = ชื่อ
 media-device-group = กลุ่ม
+media-device-vendor = ผู้จำหน่าย
 media-device-state = สถานะ
 media-device-rate = อัตรา
 media-device-latency = เวลาแฝง
@@ -158,6 +159,7 @@ multi-process-status-2 = ถูกปิดใช้งาน
 multi-process-status-4 = ถูกปิดใช้งานโดยเครื่องมือการช่วยการเข้าถึง
 multi-process-status-6 = ถูกปิดใช้งานโดยการรับค่าข้อความที่ไม่รองรับ
 multi-process-status-7 = ถูกปิดใช้งานโดยส่วนเสริม
+multi-process-status-unknown = ไม่ทราบสถานะ
 apz-none = ไม่มี
 
 ## Variables
