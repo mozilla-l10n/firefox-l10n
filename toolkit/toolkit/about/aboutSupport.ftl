@@ -146,6 +146,13 @@ crashes-time-days =
         [one] { $days } giorno fa
        *[other] { $days } giorni fa
     }
+# Variables
+# $reports (integer) - Number of pending reports
+pending-reports =
+    { $reports ->
+        [one] Tutte e segnalaçioin de cianto anòmalo (incluza { $reports } in ateiza inte l'intervallo de tenpo indicou)
+       *[other] Tutte e segnalaçioin de cianto anòmalo (incluze { $reports } in ateiza inte l'intervallo de tenpo indicou)
+    }
 raw-data-copied = Dæti sgreuzzi copiæ in sci aponti
 text-copied = Testo copiou in sci aponti
 
