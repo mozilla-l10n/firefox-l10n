@@ -14,6 +14,16 @@ extensions-name = Nomme
 extensions-enabled = Abilitou
 extensions-version = Verscion
 extensions-id = ID
+security-software-title = Software de Seguessa
+security-software-type = Tipo
+security-software-name = Nomme
+security-software-antivirus = Antiviros
+security-software-antispyware = Antispyware
+security-software-firewall = Firewall
+features-title = Carateristiche de{ -brand-short-name }
+features-name = Nomme
+features-version = Verscion
+features-id = ID
 app-basics-title = Aplicaçion de Base
 app-basics-name = Nomme
 app-basics-version = Verscion
@@ -35,6 +45,10 @@ app-basics-performance = Prestaçioin
 app-basics-service-workers = Service worker registræ
 app-basics-profiles = Profî
 app-basics-multi-process-support = Barcoin moltiprocesso
+app-basics-process-count = Processi di contegnui web
+app-basics-enterprise-policies = Politiche aziendali
+app-basics-key-google = Ciave Google
+app-basics-key-mozilla = Ciave do Serviçio de Localizaçion de Mozilla
 app-basics-safe-mode = Mòddo seguo
 show-dir-label =
     { PLATFORM() ->
@@ -67,12 +81,43 @@ js-incremental-gc = GC incrementale
 a11y-title = Acesibilitæ
 a11y-activated = Ativou
 a11y-force-disabled = Inpedisci acesibilitæ
+a11y-handler-used = Strumento man de acesibilitæ
+a11y-instantiator = Instansiatô de acesibilitæ
 library-version-title = Vescioin da libraia
 copy-text-to-clipboard-label = Còpia testo in scî aponti
 copy-raw-data-to-clipboard-label = Còpia dæti sgreuzzi in scî aponti
 sandbox-title = Sandbox
+sandbox-sys-call-log-title = Scistema de ciamæ refuæ
+sandbox-sys-call-index = #
+sandbox-sys-call-age = Segondi fa
+sandbox-sys-call-pid = PID
+sandbox-sys-call-tid = TID
+sandbox-sys-call-proc-type = Tipo de processo
+sandbox-sys-call-number = Syscall
+sandbox-sys-call-args = Argomenti
 safe-mode-title = Preuva o mòddo seguo
 restart-in-safe-mode-label = Arvi torna co-i conponenti azonti dizativæ…
+media-title = Media
+media-output-devices-title = Dispoxitivi de output
+media-input-devices-title = Dispoxitivi de input
+media-device-name = Nomme
+media-device-group = Gruppo
+media-device-vendor = Venditô
+media-device-state = Stato
+media-device-preferred = Preferio
+media-device-format = Formou
+media-device-channels = Canâ
+media-device-rate = Indice
+media-device-latency = Ritardo
+intl-title = Internaçionalizaçion e Localizaçion
+intl-app-title = Inpostaçioin da aplicaçion
+intl-locales-requested = Localizaçioin domandæ
+intl-locales-available = Localizaçion che ghe son
+intl-locales-supported = Localizaçion de l'App
+intl-locales-default = Localizaçion predefinia
+intl-os-title = Scistema Operativo
+intl-os-prefs-system-locales = Localizaçioin de Scistema
+intl-regional-prefs = Preferense Regionâ
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -116,6 +161,7 @@ try-newer-driver = Blocou a caoza da a teu verscion do driver. Preuva a agiornâ
 clear-type-parameters = Parametri ClearType
 compositing = Conpoziçion
 hardware-h264 = Hardware Decoding H264
+main-thread-no-omtc = thread prinçipâ, no OMTC
 yes = Sci
 no = No
 
@@ -123,6 +169,8 @@ no = No
 ## In some development versions, it's expected for some API keys that they are
 ## not found.
 
+found = Atrovou
+missing = Manca
 gpu-description = Descriçion
 gpu-vendor-id = ID Vendidô
 gpu-device-id = ID dispoxitivo:
@@ -132,26 +180,69 @@ gpu-ram = RAM
 gpu-driver-version = Verscion Driver
 gpu-driver-date = Dæta Driver
 gpu-active = Ativo
+webgl1-wsiinfo = Informaçioin in sciô Driver WSI de WebGL 1
+webgl1-renderer = Render do driver WebGL 1
+webgl1-version = Verscion do driver WebGL 1
+webgl1-driver-extensions = Estençion do driver WebGL 1
+webgl1-extensions = Estenscioin WebGL 1
+webgl2-wsiinfo = Informaçioin in sciô Driver WSI de WebGL 2
 webgl2-renderer = Renderer WebGL2
+webgl2-version = Verscion do driver WebGL 2
+webgl2-driver-extensions = Estençion do driver WebGL 2
+webgl2-extensions = Estenscioin WebGL 2
+blocklisted-bug = Blocou pe motivi nòtti
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = bagon { $bugNumber }
+# Variables
+# $failureCode (string) - String that can be searched in the source tree.
+unknown-failure = Blocou; Còdice d'erô { $failureCode }
+d3d11layers-crash-guard = Conpositô D3D11
+d3d11video-crash-guard = Decodificatô video D3D11
+d3d9video-crash-buard = Decodificatô video D3D9
+glcontext-crash-guard = OpenGL
+reset-on-next-restart = Reinpòsta a-a proscima avertua
+gpu-process-kill-button = Ferma processo GPU
+gpu-device-reset-button = Arvi torna dispoxitivo
+uses-tiling = Deuvia ciapelle
+off-main-thread-paint-enabled = Painting Abilitou feua do thread prinçipâ
+off-main-thread-paint-worker-count = Conta do worker Painting feua do thread prinçipâ
+audio-backend = Backend de aodio
+max-audio-channels = Mascimo numero de canâ
+channel-layout = Aspeto preferio do canâ
+sample-rate = Frequensa de canpionamento preferia
 min-lib-versions = M'aspetavo 'na verscion minima
 loaded-lib-versions = Verscion in uzo
 has-seccomp-bpf = Seccomp-BPF (filtro ciamæ de scistema)
 has-seccomp-tsync = Scincronizaçion thread seccomp
 has-user-namespaces = Namespace de l’utente
 has-privileged-user-namespaces = Namespace de l’utente pe processi privilegiæ
+can-sandbox-content = Sandbox processa o contegnuo
 can-sandbox-media = Sandbox plugin moltimediali
+content-sandbox-level = Livello Sandox de processo de contegnuo
+effective-content-sandbox-level = Contegnuo efetivo do Livello Sandox de processo
+sandbox-proc-type-content = contegnuo
+sandbox-proc-type-file = contegnuo do file
+sandbox-proc-type-media-plugin = plugin do media
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
+multi-process-status-0 = Abilitou da l'utente
+multi-process-status-1 = Abilitou predefinio
+multi-process-status-2 = Dizabilitou
+multi-process-status-4 = Dizabilitou da-i strumenti de acesibilitæ
+multi-process-status-6 = Dizabilitou pe testo d'ingresso no soportou
+multi-process-status-7 = Dizabilitou da-i conponenti azonti
+multi-process-status-8 = Dizabilitou con fòrsa
+multi-process-status-unknown = Stato no conosciuo
 async-pan-zoom = Panoramica/zoom ascincroni (APZ)
 apz-none = nisciun
 wheel-enabled = input reua ativo
 touch-enabled = input tocco ativo
 drag-enabled = Rebelamento bare de scorimento
+keyboard-enabled = tastea abilitâ
+autoscroll-enabled = aoto-rebelamento abilitou
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
@@ -160,3 +251,6 @@ touch-warning = input tocco ascincrono dizativou a caoza de 'na preferensa no so
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+policies-inactive = Dizativo
+policies-active = Ativo
+policies-error = Erô
