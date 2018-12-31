@@ -32,7 +32,7 @@ app-basics-user-agent = IArhente yomsebenzisi
 app-basics-os = OS
 app-basics-memory-use = Ukusetyenziswa kwememori
 app-basics-performance = Ukusebenza
-app-basics-service-workers = Abasebenzisi beNkonzo Ababhalisiweyo{ " " }
+app-basics-service-workers = Abasebenzisi beNkonzo Ababhalisiweyo
 app-basics-profiles = Iiprofayile
 app-basics-multi-process-support = IWindows yeenkqubo ezininzi
 app-basics-safe-mode = IMowudi Ekhuselekileyo
@@ -159,7 +159,7 @@ audio-backend = I-Audio Backend
 min-lib-versions = Inguqulelo encinane elindelekileyo
 loaded-lib-versions = Inguqulelo esetyenziswayo
 has-seccomp-bpf = Seccomp-BPF (System Call Filtering)
-has-seccomp-tsync = Ungqamaniso lwe-Seccomp Thread{ " " }
+has-seccomp-tsync = Ungqamaniso lwe-Seccomp Thread
 has-user-namespaces = Izithuba zamaGama oMsebenzisi
 has-privileged-user-namespaces = Izithuba zamaGama oMsebenzisi ngeenkqubo eziselungelweni
 can-sandbox-content = Inkqubo yesiqulatho yebhokisi yesanti
@@ -187,7 +187,7 @@ drag-enabled = utsalo lweskrolbha luvuliwe
 ## $preferenceKey (string) - String ID of preference
 
 wheel-warning = ufakelo lwevili lwe-async lwenziwe alwasebenza ngenxa yento ekhethwayo engaxhaswayo: { $preferenceKey }
-touch-warning = ufakelo lwe-touch lwe-async lwenziwe alwasebenza ngenxa yento ekhethwayo engaxhaswayo: { $preferenceKey }{ " " }
+touch-warning = ufakelo lwe-touch lwe-async lwenziwe alwasebenza ngenxa yento ekhethwayo engaxhaswayo: { $preferenceKey }
 
 ## Strings representing the status of the Enterprise Policies engine.
 
