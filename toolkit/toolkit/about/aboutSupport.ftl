@@ -3,6 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 page-title = ట్రబుల్‌షూటింగ్ సమాచారము
+crashes-title = క్రాష్ నివేదికలు
+crashes-id = నివేదిక ID
+crashes-all-reports = అన్ని క్రాష్ నివేదికలు
+crashes-no-config = క్రాష్ నివేదికలను ప్రదర్శించుటకు ఈ అనువర్తనం ఆకృతీకరించలేదు.
 extensions-title = పొడిగింపులు
 extensions-name = పేరు
 app-basics-title = అనువర్తనం ప్రాధమికాలు
@@ -18,6 +22,7 @@ app-basics-user-agent = వాడుకరి ప్రతినిధి
 app-basics-memory-use = మెమొరీ వినియోగం
 modified-prefs-name = పేరు
 modified-prefs-value = విలువ
+user-js-title = user.js అభిరుచులు
 graphics-title = గ్రాఫిక్స్
 js-title = జావాస్క్రిప్ట్
 js-incremental-gc = ప్రవర్ధమాన GC
@@ -25,6 +30,27 @@ a11y-title = సులభత
 a11y-activated = క్రియాశీలమైంది
 a11y-force-disabled = సులభత నిరోధించు
 library-version-title = లైబ్రరీ వర్షన్స్
+# Variables
+# $minutes (integer) - Number of minutes since crash
+crashes-time-minutes =
+    { $minutes ->
+        [one] { $minutes } నిమిషం క్రితం
+       *[other] { $minutes } నిమిషాల క్రితం
+    }
+# Variables
+# $hours (integer) - Number of hours since crash
+crashes-time-hours =
+    { $hours ->
+        [one] { $hours } గంట క్రితం
+       *[other] { $hours } గంటల క్రితం
+    }
+# Variables
+# $days (integer) - Number of days since crash
+crashes-time-days =
+    { $days ->
+        [one] { $days } రోజు క్రితం
+       *[other] { $days } రోజుల క్రితం
+    }
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
