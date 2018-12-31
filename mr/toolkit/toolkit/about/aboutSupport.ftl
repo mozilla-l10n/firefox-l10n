@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 page-title = त्रुटीनिवारन माहिती
+crashes-id = अहवाल ID
 extensions-title = वाढ
 extensions-name = नाव
 extensions-enabled = समर्थीत
