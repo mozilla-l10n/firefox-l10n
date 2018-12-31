@@ -155,6 +155,7 @@ d3d11video-crash-guard = D3D11 ভিডিও ডেকোডার
 d3d9video-crash-buard = D3D9 ভিডিও ডিকোডার
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = পরবর্তী পুনরারম্ভরে রিসেট করুন{ " " }
+gpu-process-kill-button = GPU প্রক্রিয়া বন্ধ করুন
 audio-backend = অডিও ব্যাকেন্ড
 min-lib-versions = প্রত্যাশিত সর্বনিম্ন সংস্করণ
 loaded-lib-versions = ব্যবহৃত সংস্করণ
