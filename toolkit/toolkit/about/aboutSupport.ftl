@@ -215,6 +215,7 @@ gpu-process-kill-button = Avslutt GPU-prosess
 gpu-device-reset-button = Løys ut tilbakestilling av eining
 uses-tiling = Brukar Tiling
 content-uses-tiling = Brukar Tiling (innhald)
+off-main-thread-paint-enabled = Oppteikning utanfor hovudtråd aktivert
 off-main-thread-paint-worker-count = Opptegning utanfor hovudtråd worker-mengde
 audio-backend = Lydgrensesnitt
 max-audio-channels = Maks kanalar
