@@ -7,6 +7,7 @@ page-subtitle =
     Tato stránka obsahuje technické informace, které mohou být užitečné, pokud se snažíte
     vyřešit nějaký složitější problém s aplikací. Odpovědi na často kladené otázky ohledně
     aplikace { -brand-short-name } naleznete na <a data-l10n-name="support-link">webových stránkách podpory</a>.
+crashes-title = Hlášení pádů
 crashes-id = ID hlášení
 crashes-send-date = Odeslaná
 crashes-all-reports = Všechna hlášení o pádech
@@ -32,6 +33,7 @@ app-basics-user-agent = Identifikace prohlížeče
 app-basics-memory-use = Spotřeba paměti
 app-basics-service-workers = Registrovaní Service Workers
 app-basics-multi-process-support = Multiprocesová okna
+app-basics-safe-mode = Nouzový režim
 modified-key-prefs-title = Důležité změněné předvolby
 modified-prefs-name = Název
 modified-prefs-value = Hodnota
@@ -50,6 +52,7 @@ copy-text-to-clipboard-label = Zkopírovat text do schránky
 copy-raw-data-to-clipboard-label = Zkopírovat data do schránky
 sandbox-title = Sandbox
 safe-mode-title = Vyzkoušet nouzový režim
+restart-in-safe-mode-label = Restartovat se zakázanými doplňky…
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -94,6 +97,7 @@ raw-data-copied = Data byla zkopírována
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
+blocked-mismatched-version = Zakázáno kvůli nesouhlasící verzi ovladačů vaší grafické karty v registrech a DLL.
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
@@ -111,11 +115,13 @@ async-pan-zoom = Asynchronní lupa/panning
 apz-none = nic
 wheel-enabled = vstup kolečka povolen
 touch-enabled = dotykový vstup povolen
+drag-enabled = táhnutí posuvníkem povoleno
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
 
 wheel-warning = asynchronní vstup kolečka zakázán vzhledem k nepodporované předvolbě: { $preferenceKey }
+touch-warning = asynchronní dotykový vstup zakázán vzhledem k nepodporované předvolbě: { $preferenceKey }
 
 ## Strings representing the status of the Enterprise Policies engine.
 
