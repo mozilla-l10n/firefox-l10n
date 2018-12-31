@@ -159,6 +159,8 @@ text-copied = Testo copiou in sci aponti
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
 blocked-driver = Blocou a caoza da-a teu verscion do driver da grafica.
+blocked-gfx-card = Blocou pe caxon da scheda grafica.
+blocked-os-version = Blocou pe caxon da teu verscion do teu scistema òperativo.
 blocked-mismatched-version = Blocou a caoza da no corispondensa da verscion di driver tra registro e DLL.
 # Variables
 # $driverVersion - The graphics driver version string
@@ -212,6 +214,7 @@ reset-on-next-restart = Reinpòsta a-a proscima avertua
 gpu-process-kill-button = Ferma processo GPU
 gpu-device-reset-button = Arvi torna dispoxitivo
 uses-tiling = Deuvia ciapelle
+content-uses-tiling = Deuvia ciapelle (Contegnuo)
 off-main-thread-paint-enabled = Painting Abilitou feua do thread prinçipâ
 off-main-thread-paint-worker-count = Conta do worker Painting feua do thread prinçipâ
 audio-backend = Backend de aodio
@@ -254,6 +257,7 @@ autoscroll-enabled = aoto-rebelamento abilitou
 ## Variables
 ## $preferenceKey (string) - String ID of preference
 
+wheel-warning = input reua ascincrono dizativou pe caxon de 'na preferensa no soportâ: { $preferenceKey }
 touch-warning = input tocco ascincrono dizativou a caoza de 'na preferensa no soportâ: { $preferenceKey }
 
 ## Strings representing the status of the Enterprise Policies engine.
