@@ -17,6 +17,12 @@ extensions-name = Num
 extensions-enabled = Activà
 extensions-version = Versiun
 extensions-id = ID
+security-software-title = Software da segirezza
+security-software-type = Tip
+security-software-name = Num
+security-software-antivirus = Antivirus
+security-software-antispyware = Software cuntraspiunadi
+security-software-firewall = Firewall
 features-title = Funcziunalitads da { -brand-short-name }
 features-name = Num
 features-version = Versiun
@@ -38,10 +44,12 @@ app-basics-build-config = Configuraziun dal build
 app-basics-user-agent = User Agent
 app-basics-os = OS
 app-basics-memory-use = Utilisaziun da la capacitad da memorisar
+app-basics-performance = Prestaziun
 app-basics-service-workers = Service Workers registrads
 app-basics-profiles = Profils
 app-basics-multi-process-support = Fanestras da plirs process
 app-basics-process-count = Process per cuntegn da web
+app-basics-enterprise-policies = Directivas d'interpresa
 app-basics-key-google = Clav da Google
 app-basics-key-mozilla = Clav dal servetsch da posiziun da Mozilla
 app-basics-safe-mode = Modus privat
@@ -65,6 +73,12 @@ graphics-diagnostics-title = Diagnostica
 graphics-failure-log-title = Protocol d'errurs
 graphics-gpu1-title = GPU #1
 graphics-gpu2-title = GPU #2
+graphics-decision-log-title = Protocol da decisiuns
+graphics-crash-guards-title = Funcziunalitads deactivadas da la protecziun cunter collaps
+graphics-workarounds-title = Soluziuns
+place-database-title = Banca da datas «Places»
+place-database-integrity = Integritad
+place-database-verify-integrity = Verifitgar l'integritad
 js-title = JavaScript
 js-incremental-gc = GC incremental
 a11y-title = Accessibladad
@@ -98,6 +112,15 @@ media-device-format = Format
 media-device-channels = Chanals
 media-device-rate = Frequenza
 media-device-latency = Latenza
+intl-title = Internaziunalisaziun & lingua
+intl-app-title = Configuraziun da l'applicaziun
+intl-locales-requested = Linguas dumandadas
+intl-locales-available = Linguas disponiblas
+intl-locales-supported = Linguas da l'applicaziun
+intl-locales-default = Lingua predefinida
+intl-os-title = Sistem operativ
+intl-os-prefs-system-locales = Linguas dal sistem
+intl-regional-prefs = Preferenzas regiunalas
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -148,6 +171,11 @@ try-newer-driver = Bloccà per tia versiun dal driver da grafica. Emprova dad ac
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Parameters da ClearType
+compositing = Compositing
+hardware-h264 = Decodaziun H264 cun hardware
+main-thread-no-omtc = thread principal, nagin OMTC
+yes = Gea
+no = Na
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
@@ -155,6 +183,15 @@ clear-type-parameters = Parameters da ClearType
 
 found = Chattà
 missing = Betg chattà
+gpu-description = Descripziun
+gpu-vendor-id = ID dal vendider
+gpu-device-id = ID da l'apparat
+gpu-subsys-id = ID dal subsys
+gpu-drivers = Drivers
+gpu-ram = RAM
+gpu-driver-version = Versiun dal driver
+gpu-driver-date = Data dal driver
+gpu-active = Activ
 webgl1-wsiinfo = Driver WebGL 1 - Infurmaziuns WSI
 webgl1-renderer = Driver WebGL 1 - Visualisader
 webgl1-version = Driver WebGL 1 - Versiun
@@ -165,7 +202,28 @@ webgl2-renderer = Driver WebGL 2 - Visualisader
 webgl2-version = Driver WebGL 2 - Versiun
 webgl2-driver-extensions = Driver WebGL 2 - Extensiuns
 webgl2-extensions = WebGL 2 - Extensiuns
+blocklisted-bug = Sin la glista naira pervia da problems enconuschents
+# Variables
+# $bugNumber (string) - String of bug number from Bugzilla
+bug-link = bug { $bugNumber }
+# Variables
+# $failureCode (string) - String that can be searched in the source tree.
+unknown-failure = Sin la glista naira; numer da sbagl { $failureCode }
+d3d11layers-crash-guard = D3D11 Compositor
+d3d11video-crash-guard = Decodader da video D3D11
+d3d9video-crash-buard = Decodader da video D3D9
+glcontext-crash-guard = OpenGL
+reset-on-next-restart = Redefinir cun reaviar la proxima giada
 gpu-process-kill-button = Terminar il process da la GPU
+gpu-device-reset-button = Lantschar la reinizialisaziun da l'apparat
+uses-tiling = Utilisescha plattinas
+content-uses-tiling = Utilisescha plattinas (cuntegn)
+off-main-thread-paint-enabled = Activà painting ordaifer il thread principal
+off-main-thread-paint-worker-count = Dumber da workers da painting ordaifer il thread principal
+audio-backend = Backend dad audio
+max-audio-channels = Maximum da chanals
+channel-layout = Modus da chanals preferì
+sample-rate = Frequenza da scannar preferida
 min-lib-versions = Versiun minimala spetgada
 loaded-lib-versions = Versiun utilisada
 has-seccomp-bpf = Seccomp-BPF (Filtrar cloms dal sistem)
@@ -175,7 +233,9 @@ has-privileged-user-namespaces = Spazis da num da l'utilisader per process privi
 can-sandbox-content = Sandbox per process da cuntegn
 can-sandbox-media = Sandbox per plug-ins da medias
 content-sandbox-level = Nivel da sandbox per process da cuntegn
+effective-content-sandbox-level = Nivel effectiv da sandbox per ils process da cuntegn
 sandbox-proc-type-content = cuntegn
+sandbox-proc-type-file = cuntegn da la datoteca
 sandbox-proc-type-media-plugin = plugin per medias
 # Variables
 # $remoteWindows (integer) - Number of remote windows
@@ -187,9 +247,15 @@ multi-process-status-2 = Deactivà
 multi-process-status-4 = Deactivà dals agids d'access
 multi-process-status-6 = Deactivà dad ina metoda incumpatibla d'endatar text
 multi-process-status-7 = Deactivà da supplements
+multi-process-status-8 = Deactivà cun forza
 multi-process-status-unknown = Status nunenconuschent
 async-pan-zoom = Zoom asincron
 apz-none = nagin
+wheel-enabled = input da la rodina activà
+touch-enabled = input tactil activà
+drag-enabled = trav da defilar per tutgar activada
+keyboard-enabled = tastatura activada
+autoscroll-enabled = scrollar automatic activà
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
@@ -199,3 +265,6 @@ touch-warning = l'input tactil asincron è deactivà pervia dad ina preferenza b
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+policies-inactive = Inactiv
+policies-active = Activ
+policies-error = Errur
