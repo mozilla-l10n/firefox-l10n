@@ -7,20 +7,28 @@ crashes-send-date = Dihantar
 crashes-no-config = APlikasi ini tidak dikonfigurkan untuk memaparkan laporan nahas.
 extensions-name = Nama
 extensions-version = Versi
+extensions-id = ID
 app-basics-name = Nama
 app-basics-version = Versi
 app-basics-user-agent = Ejen pengguna
 app-basics-memory-use = Kegunaan Memori
+app-basics-multi-process-support = Tetingkap Multiproses
 modified-key-prefs-title = Pengubahan rujukan pilihan yang penting
 modified-prefs-name = Nama
+modified-prefs-value = Nilai
 user-js-title = Keutamaan user.js
 user-js-description = Profil folder anda mengandungi satu <a data-l10n-name="user-js-link">fail user.js</a>, dimana termasuk tetapan yang tidak dilakukan oleh { -brand-short-name } .
+locked-key-prefs-title = Keutamaan Terkunci Yang Penting
+locked-prefs-name = Nama
+locked-prefs-value = Nilai
 graphics-title = Grafik
 a11y-activated = Diaktifkan
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
 blocked-driver = Disekat bagi versi pemacu grafik anda.
+blocked-gfx-card = Disekat kerana isu pemacu kad grafik anda yang tidak dapat diselesaikan.
+blocked-os-version = Disekat kerana versi sistem operasi anda.
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Parameter ClearType
@@ -29,6 +37,11 @@ clear-type-parameters = Parameter ClearType
 ## In some development versions, it's expected for some API keys that they are
 ## not found.
 
+gpu-vendor-id = ID Vendor
+gpu-device-id = ID Alatan
+gpu-subsys-id = IS Subsys
+gpu-driver-version = Versi Pemacu
+gpu-driver-date = Tarikh Pemacu
 min-lib-versions = Versi minimum yang dijangka
 loaded-lib-versions = Versi yang digunakan
 # Variables
