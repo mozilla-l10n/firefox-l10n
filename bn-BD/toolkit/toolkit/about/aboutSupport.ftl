@@ -111,7 +111,13 @@ media-device-rate = মূল্যায়ন করুন
 media-device-latency = যোজনী
 intl-title = আন্তর্জাতিকিকরণ & স্থানীয়করণ
 intl-app-title = অ্যাপ্লিকেশন সেটিং
+intl-locales-requested = অনুরোধকৃত লোকেলগুলি
+intl-locales-available = উপলব্ধ লোকেলগুলি
+intl-locales-supported = অ্যাপ লোকেলস
+intl-locales-default = ডিফল্ট লোকেল
+intl-os-title = অপারেটিং সিস্টেম
 intl-os-prefs-system-locales = সিস্টেম লোকেল
+intl-regional-prefs = আঞ্চলিক পছন্দসমূহ
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
