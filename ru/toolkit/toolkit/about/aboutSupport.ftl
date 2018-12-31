@@ -109,6 +109,15 @@ media-device-format = Формат
 media-device-channels = Каналы
 media-device-rate = Частота
 media-device-latency = Задержка
+intl-title = Интернационализация и Локализация
+intl-app-title = Настройки приложения
+intl-locales-requested = Запрошенные языки
+intl-locales-available = Доступные языки
+intl-locales-supported = Языки приложения
+intl-locales-default = Язык по умолчанию
+intl-os-title = Операционная система
+intl-os-prefs-system-locales = Языки системы
+intl-regional-prefs = Региональные настройки
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
