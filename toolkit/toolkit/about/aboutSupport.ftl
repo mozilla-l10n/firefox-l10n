@@ -3,6 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 page-title = Inkcazelo yesisombululi-ngxaki
+crashes-title = Iingxelo zomonakalo
+crashes-send-date = Ithunyelwe
+crashes-all-reports = Zonke iingxelo zokonakala
+crashes-no-config = Le aplikeyishini ayilungiselelwanga ukubonisa iingxelo zokonakala.
 extensions-title = Izandiso
 extensions-name = Igama
 extensions-enabled = Ezivunyelweyo
@@ -11,6 +15,8 @@ extensions-id = ID
 app-basics-title = Iziseko zeaplikheshini
 app-basics-name = Igama
 app-basics-version = Uguqulelo
+app-basics-update-history = Imbali yohlaziyo
+app-basics-show-update-history = Bonisa Imbali Ehlaziyiweyo
 app-basics-profile-dir =
     { PLATFORM() ->
         [linux] Isalathiso seprofayile
@@ -31,7 +37,43 @@ a11y-title = Ufikeleleko
 a11y-activated = Ihlaziyiwe
 a11y-force-disabled = Thintela ufikelelo
 library-version-title = Iinguqulelo zelayibhrari
+copy-text-to-clipboard-label = Khuphela umbhalo kwiklipbhodi
 copy-raw-data-to-clipboard-label = Khuphela iingcombolo ezingahlelwanga kwiklipbhodi
+# Variables
+# $days (Integer) - Number of days of crashes to log
+report-crash-for-days =
+    { $days ->
+        [one] Iingxelo zokonakala kolu Suku { $days } lugqithileyo
+       *[other] iNgxelo zokonakala kwezu Ntsuku zi{ $days } zigqithileyo
+    }
+# Variables
+# $minutes (integer) - Number of minutes since crash
+crashes-time-minutes =
+    { $minutes ->
+        [one] umzuzu om-{ $minutes } ogqithileyo
+       *[other] imizuzu e-{ $minutes } egqithileyo
+    }
+# Variables
+# $hours (integer) - Number of hours since crash
+crashes-time-hours =
+    { $hours ->
+        [one] iyure e{ $hours } egqithileyo
+       *[other] iiyure ezi{ $hours } ezigqithileyo
+    }
+# Variables
+# $days (integer) - Number of days since crash
+crashes-time-days =
+    { $days ->
+        [one] usuku olu{ $days } olugqithileyo
+       *[other] iintsuku ezi{ $days } ezigqithileyo
+    }
+# Variables
+# $reports (integer) - Number of pending reports
+pending-reports =
+    { $reports ->
+        [one] Zonke iiNgxelo zoKonakala (kuquka ukonakala oku{ $reports } okusaseleyo kweli xesha)
+       *[other] Zonke iiNgxelo zoKonakala (kuquka ukonakala oku{ $reports } okusaseleyo kweli xesha)
+    }
 raw-data-copied = Iingcombolo ezingahlelwanga zikhutshelwe kwiklipbhodi
 text-copied = Umbhalo ukhutshelwe kwiklipbhodi
 
