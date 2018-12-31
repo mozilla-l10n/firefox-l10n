@@ -14,6 +14,12 @@ extensions-name = Nomo
 extensions-enabled = Aktiva
 extensions-version = Versio
 extensions-id = ID
+security-software-title = Sekureca programaro
+security-software-type = Tipo
+security-software-name = Nomo
+security-software-antivirus = Kontraŭvirusa programo
+security-software-antispyware = Kontraŭspiona programo
+security-software-firewall = Retbarilo
 features-title = Trajtoj de { -brand-short-name }
 features-name = Nomo
 features-version = Versio
@@ -39,6 +45,8 @@ app-basics-performance = Efikeco
 app-basics-service-workers = Registritaj Service Workers
 app-basics-profiles = Profiloj
 app-basics-multi-process-support = Plurprocezaj fenestroj
+app-basics-process-count = Teksaĵaj enhavaj taskoj
+app-basics-enterprise-policies = Kompaniaj politikoj
 app-basics-key-google = Ŝlosilo de Google
 app-basics-key-mozilla = Ŝlosilo de la servo de pozicio de Mozilla
 app-basics-safe-mode = Sekura reĝimo
@@ -73,6 +81,7 @@ js-incremental-gc = Poioma GC
 a11y-title = Alirebleco
 a11y-activated = Aktiva
 a11y-force-disabled = Eviti alireblon
+a11y-handler-used = Alirebleca pelilo uzita
 a11y-instantiator = Alirebleca kreanto
 library-version-title = Versioj de bibliotekoj
 copy-text-to-clipboard-label = Kopii tekston al tondujo
@@ -88,7 +97,27 @@ sandbox-sys-call-number = Sistema voko
 sandbox-sys-call-args = Parametroj
 safe-mode-title = Provi la sekuran reĝimon
 restart-in-safe-mode-label = Restartigi kun ĉiuj aldonaĵoj malaktivaj…
+media-title = Aŭdvidaĵo
+media-output-devices-title = Eligaj aparatoj
+media-input-devices-title = Enigaj aparatoj
+media-device-name = Nomo
+media-device-group = Grupo
+media-device-vendor = Vendisto
 media-device-state = Stato
+media-device-preferred = Preferata
+media-device-format = Formo
+media-device-channels = Kanaloj
+media-device-rate = Frekvenco
+media-device-latency = Prokrasto
+intl-title = Lingvo kaj internacieco
+intl-app-title = Agordoj de programo
+intl-locales-requested = Petitaj lingvoj
+intl-locales-available = Disponeblaj lingvoj
+intl-locales-supported = Lingvoj de la programo
+intl-locales-default = Norma lingvo
+intl-os-title = Mastruma sistemo
+intl-os-prefs-system-locales = Lingvoj de la sistemo
+intl-regional-prefs = Regionaj preferoj
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -183,6 +212,15 @@ d3d9video-crash-buard = D3D9 Videa malkodilo
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Restarigi en la venonta restarto
 gpu-process-kill-button = Fini procezon de GPU
+gpu-device-reset-button = Okazigi rekomencon de pelilo
+uses-tiling = Kaheloj uzataj
+content-uses-tiling = Kaheloj uzataj (enhavo)
+off-main-thread-paint-enabled = La farbado ekster la ĉefa fadeno estas aktiva
+off-main-thread-paint-worker-count = Nombro de workers, kiuj farbas ekster la ĉefa fadeno
+audio-backend = Sonsistemo
+max-audio-channels = Maksimuma nombro de kanaloj
+channel-layout = Preferata aranĝo de kanaloj
+sample-rate = Preferata specimena frekvenco
 min-lib-versions = Minimuma atendita versio
 loaded-lib-versions = Uzata versio
 has-seccomp-bpf = Seccomp-BPF (Filtrado de sistemaj vokoj)
@@ -192,7 +230,9 @@ has-privileged-user-namespaces = Nomspacoj de uzanto por privilegiitaj procezoj
 can-sandbox-content = Izolado de enhava procezo
 can-sandbox-media = Izolado de aŭdvida kromprogramo
 content-sandbox-level = Nivelo de izolado por enhava procezo
+effective-content-sandbox-level = Efektiva nivelo de izolado por enhava procezo
 sandbox-proc-type-content = enhavo
+sandbox-proc-type-file = enhavo de dosiero
 sandbox-proc-type-media-plugin = aŭdvida kromprogramo
 # Variables
 # $remoteWindows (integer) - Number of remote windows
@@ -211,6 +251,8 @@ apz-none = neniu
 wheel-enabled = rada enigo aktiva
 touch-enabled = tuŝa enigo aktiva
 drag-enabled = treno de ŝovstrio aktiva
+keyboard-enabled = klavaro aktiva
+autoscroll-enabled = aŭtomata ŝovo aktiva
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
@@ -220,3 +262,6 @@ touch-warning = nesinkrona tuŝa enigo malaktiva pro nesubtenata prefero: { $pre
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+policies-inactive = Malaktiva
+policies-active = Aktiva
+policies-error = Eraro
