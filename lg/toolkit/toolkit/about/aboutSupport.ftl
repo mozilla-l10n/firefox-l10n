@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 page-title = Ebikwata ku kugonjoola obuzibu
+page-subtitle = Omuko gunno gulina ebiwandiko ebyo'omugaso byo yinza okwetaga bwoba ogezako okujjawo obuzibu obuguddwo. Bwoba ononoonya ebyokudamu eri emitaawana ejjabulijo ku { -brand-short-name }, keberako ku <a data-l10n-name="support-link">muko ogwo'obuyambi</a>.
+crashes-id = Alipoota ya ID
 extensions-title = Ebigaziya
 extensions-name = Erinnya
 extensions-enabled = Kisobozisa
@@ -19,6 +21,7 @@ app-basics-enabled-plugins = Ebyongerwamu ebitandikidwa
 app-basics-build-config = Zzimba Entekateka
 app-basics-user-agent = Akayamba Omukozesa
 app-basics-memory-use = Enkozesa Memory
+app-basics-safe-mode = Modi Enddamu
 modified-key-prefs-title = Ebyokwerobozaa Ebyoomugaso Ebikyusiddwa
 modified-prefs-name = Erinnya
 graphics-title = Ebifananyi
@@ -46,6 +49,10 @@ clear-type-parameters = Jjawo Ebigendamu ebye Kika
 ## In some development versions, it's expected for some API keys that they are
 ## not found.
 
+gpu-vendor-id = ID yo'Omusubuzi
+gpu-device-id = ID ye'Ekyuma
+gpu-driver-version = Enkola ya Pulogulamu Edukanya
+gpu-driver-date = Enakuzomwezi eza Driver
 min-lib-versions = Enkola esingayo okuba entono esubirwa
 loaded-lib-versions = Enkola esubirwa
 # Variables
