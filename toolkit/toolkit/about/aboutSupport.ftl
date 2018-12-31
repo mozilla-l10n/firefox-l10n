@@ -41,6 +41,7 @@ app-basics-os = OS
 app-basics-memory-use = 메모리 사용
 app-basics-performance = 성능
 app-basics-service-workers = 등록된 Service Workers
+app-basics-profiles = 프로필
 app-basics-multi-process-support = 다중프로세스 윈도우
 app-basics-process-count = 웹 콘텐츠 프로세스
 app-basics-enterprise-policies = 엔터프라이즈 정책
