@@ -5,6 +5,7 @@
 extensions-name = სახელი
 extensions-enabled = ჩართულია
 extensions-version = ვერსია
+app-basics-title = პროგრამის ძირითადი მონაცემები
 app-basics-name = სახელი
 app-basics-version = ვერსია
 modified-prefs-name = სახელი
