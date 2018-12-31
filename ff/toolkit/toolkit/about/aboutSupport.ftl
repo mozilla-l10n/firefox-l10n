@@ -129,14 +129,14 @@ crashes-time-minutes =
 crashes-time-hours =
     { $hours ->
         [one] Gila njamndi { $hours }
-       *[other] { " " }gila jamɗe { $hours }.
+       *[other] Gila jamɗe { $hours }.
     }
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
     { $days ->
         [one] Gila ñalawma { $days }
-       *[other] { " " }gila ñalɗi { $days }.
+       *[other] Gila ñalɗi { $days }.
     }
 # Variables
 # $reports (integer) - Number of pending reports
