@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 page-title = Tshedimošo ya go rarolla mathata
+page-subtitle = Letlakala le le na le tshedimošo ya setegniki yeo e ka bago le mohola ge o leka go rarolla bothata. Ge e ba o nyaka dikarabo tša dipotšišo tše tlwaelegilego ka ga { -brand-short-name }, lebelela wepesaete ya rena ya  <a data-l10n-name="support-link"> ya thekgo</a>.
 extensions-title = Dikoketšo
 extensions-name = Leina
 extensions-enabled = Kgontšha
@@ -19,6 +20,7 @@ app-basics-enabled-plugins = Ditsebišo-koketšo tšeo di kgontšhitšwego
 app-basics-build-config = Peakanyo ya go aga
 app-basics-user-agent = Moemedi wa modiriši
 app-basics-memory-use = Tirišo ya polokelo
+app-basics-safe-mode = Mokgwa o bolokegilego
 modified-key-prefs-title = Dikganyogwa tše fetošitšwego tše bohlokwa
 modified-prefs-name = Leina
 user-js-title = Dikganyogwa tša user.js
@@ -51,6 +53,10 @@ clear-type-parameters = Dipharametara tša ClearType
 ## In some development versions, it's expected for some API keys that they are
 ## not found.
 
+gpu-vendor-id = ID ya morekiši
+gpu-device-id = ID ya sedirišwa
+gpu-driver-version = Tokollo ya mootledi
+gpu-driver-date = Letšatšikgwedi la mootledi
 min-lib-versions = Tokollo e nyenyane e letetšwego
 loaded-lib-versions = Tokollo e dirišwago
 # Variables
