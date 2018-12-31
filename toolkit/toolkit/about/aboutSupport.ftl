@@ -3,6 +3,11 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 page-title = معلومات مواجهة الأعطال
+crashes-title = بلاغات الانهيار
+crashes-id = معرّف البلاغ
+crashes-send-date = أُرسلَ
+crashes-all-reports = كل بلاغات الانهيار
+crashes-no-config = لم يُضبط التطبيق لعرض بلاغات الانهيار.
 extensions-title = الامتدادات
 extensions-name = الاسم
 extensions-enabled = مفعّل
@@ -16,6 +21,8 @@ security-software-firewall = جدار حماية
 app-basics-title = أساسيات التطبيق
 app-basics-name = الاسم
 app-basics-version = النسخة
+app-basics-update-history = تأريخ التحديث
+app-basics-show-update-history = أظهر تأريخ التحديث
 app-basics-profile-dir =
     { PLATFORM() ->
         [linux] مجلد الملف الشخصي
@@ -59,6 +66,39 @@ report-crash-for-days =
         [few] بلاغات انهيار آخر { $days } أيام
         [many] بلاغات انهيار آخر { $days } يومًا
        *[other] بلاغات انهيار آخر { $days } يوم
+    }
+# Variables
+# $hours (integer) - Number of hours since crash
+crashes-time-hours =
+    { $hours ->
+        [zero] منذ أقل من ساعة
+        [one] منذ ساعة
+        [two] منذ ساعتين
+        [few] منذ { $hours } ساعات
+        [many] { " " }منذ { $hours } ساعة
+       *[other] منذ { $hours } ساعة
+    }
+# Variables
+# $days (integer) - Number of days since crash
+crashes-time-days =
+    { $days ->
+        [zero] منذ أقل من يوم
+        [one] منذ يوم
+        [two] منذ يومين
+        [few] منذ { $days } أيام
+        [many] { " " }منذ { $days } يومًا
+       *[other] منذ { $days } يوم
+    }
+# Variables
+# $reports (integer) - Number of pending reports
+pending-reports =
+    { $reports ->
+        [zero] كل بلاغات الانهيار (لا تشمل أي بلاغات انهيار معلّقة في الفترة الزمنية المحددة)
+        [one] كل بلاغات الانهيار (تشمل بلاغ انهيار معلّق في الفترة الزمنية المحددة)
+        [two] كل بلاغات الانهيار (تشمل بلاغي انهيار معلّقين في الفترة الزمنية المحددة)
+        [few] كل بلاغات الانهيار (تشمل { $reports } بلاغات انهيار معلّقة في الفترة الزمنية المحددة)
+        [many] كل بلاغات الانهيار (تشمل { $reports } بلاغ انهيار معلّق في الفترة الزمنية المحددة)
+       *[other] كل بلاغات الانهيار (تشمل { $reports } بلاغ انهيار معلّق في الفترة الزمنية المحددة)
     }
 raw-data-copied = نُسخت البيانات الخام إلى الحافظة
 text-copied = نُسخ النص إلى الحافظة
