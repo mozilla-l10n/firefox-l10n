@@ -13,6 +13,10 @@ extensions-name = Innde
 extensions-enabled = Daaƴtaaɗo
 extensions-version = Yamre
 extensions-id = ID
+features-title = { -brand-short-name } Fannuuji
+features-name = Innde
+features-version = Yamre
+features-id = ID
 app-basics-title = Beeɓtuɗe Jaaɓnirgal
 app-basics-name = Innde
 app-basics-version = Yamre
@@ -34,6 +38,9 @@ app-basics-performance = Jaawgol golle
 app-basics-service-workers = Gollooɓe Sarwiis Heftinaaɓe
 app-basics-profiles = Keftinirɗe
 app-basics-multi-process-support = Kenorɗe Cili Keewɗi
+app-basics-process-count = Sifaaji Loowdi Geese
+app-basics-key-google = Coktirgal Google
+app-basics-key-mozilla = Nokkuje Coktirɗe Mozilla
 app-basics-safe-mode = Mbayka Hoolno
 show-dir-label =
     { PLATFORM() ->
@@ -70,8 +77,12 @@ library-version-title = Jame Deftorli
 copy-text-to-clipboard-label = Natto binndol to ɗakkitorde
 copy-raw-data-to-clipboard-label = Natto keɓe kecce to ɗakkitorde
 sandbox-title = Seenorde
+sandbox-sys-call-age = Hojomaaji Jawtuɗi
 safe-mode-title = Eto Mbayka Hoolno
 restart-in-safe-mode-label = Hurmitin tawa Ɓeyditte ena Ndaaƴaa…
+media-device-name = Innde
+media-device-group = Dental
+media-device-preferred = Cuɓaaɗo
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -125,6 +136,8 @@ no = Alaa
 ## In some development versions, it's expected for some API keys that they are
 ## not found.
 
+found = Yiytaama
+missing = Ŋakki
 gpu-description = Cifagol
 gpu-vendor-id = ID Julanke
 gpu-device-id = ID Kaɓirgol
@@ -174,6 +187,7 @@ apz-none = ndiga
 wheel-enabled = naatnal mbiifu hurminaama
 touch-enabled = naatnal binndi hurminaama
 drag-enabled = daasgol paalal woro hurminaama
+keyboard-enabled = tappirde hurminaama
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
