@@ -13,6 +13,7 @@ extensions-title = എക്സ്റ്റെന്‍ഷനുകള്‍
 extensions-name = പേരു്
 extensions-enabled = പ്രവര്‍ത്തന സജ്ജം
 extensions-version = പതിപ്പു്
+extensions-id = ഐഡി
 app-basics-title = പ്രയോഗത്തിന്റെ അടിസ്ഥാന വിശേഷതകള്‍
 app-basics-name = പേരു്
 app-basics-version = പതിപ്പു്
