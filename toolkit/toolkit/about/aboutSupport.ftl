@@ -14,6 +14,12 @@ extensions-name = Nom
 extensions-enabled = Activat
 extensions-version = Version
 extensions-id = ID
+security-software-title = Logicial de seguretat
+security-software-type = Tipe
+security-software-name = Nom
+security-software-antivirus = Antivirus
+security-software-antispyware = Antispyware
+security-software-firewall = Parafòc
 features-title = Foncionalitats de { -brand-short-name }
 features-name = Nom
 features-version = Version
@@ -40,6 +46,7 @@ app-basics-service-workers = Servici Workers enregistrats
 app-basics-profiles = Perfils
 app-basics-multi-process-support = Fenèstras multiprocessus
 app-basics-process-count = Procediments de contengut web
+app-basics-enterprise-policies = Estrategias d’entrepresa
 app-basics-key-google = Clau Google
 app-basics-key-mozilla = Clau del servici de localizacion de Mozilla
 app-basics-safe-mode = Mòde segur
@@ -102,6 +109,15 @@ media-device-format = Format
 media-device-channels = Canals
 media-device-rate = Taus
 media-device-latency = Laténcia
+intl-title = Lengas e internacionalizacion
+intl-app-title = Paramètres de l’aplicacion
+intl-locales-requested = Lengas demandadas
+intl-locales-available = Lengas disponiblas
+intl-locales-supported = Lengas
+intl-locales-default = Lenga per defaut
+intl-os-title = Sistèma operatiu
+intl-os-prefs-system-locales = Lenga del sistèma
+intl-regional-prefs = Preferéncias regionalas
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -197,6 +213,8 @@ glcontext-crash-guard = OpenGL
 reset-on-next-restart = Reïnicializar en reaviar
 gpu-process-kill-button = Acabar lo procediment GPU
 gpu-device-reset-button = Desenclavar la reïnitializacion del periferic
+uses-tiling = Utiliza lo caladat
+content-uses-tiling = Utiliza lo caladat (contengut)
 off-main-thread-paint-enabled = Desenhar fòra en del fil d’execucion màger activat
 audio-backend = Sistèma de retorn àudio
 max-audio-channels = Nombre de canals maximal
@@ -213,6 +231,7 @@ can-sandbox-media = Nauc de sabla pels plugins multimèdia
 content-sandbox-level = Nivèl del nauc de sabla pels procediments de contengut
 effective-content-sandbox-level = Nivèl del nauc de sabla efectiu pels procediments de contengut
 sandbox-proc-type-content = contengut
+sandbox-proc-type-file = contengut del fichièr
 sandbox-proc-type-media-plugin = plugin mèdia
 # Variables
 # $remoteWindows (integer) - Number of remote windows
@@ -223,12 +242,16 @@ multi-process-status-1 = Activat per defaut
 multi-process-status-2 = Desactivat
 multi-process-status-4 = Desactivat par las aisinas d’accessibilitat
 multi-process-status-6 = Desactivat per un biais de sasida non pres en carga
+multi-process-status-7 = Desactivat per de moduls complementaris
 multi-process-status-8 = Desactivat per forma forçada
 multi-process-status-unknown = Estatut desconegut
 async-pan-zoom = Zoom/Panoramic asincròns
 apz-none = pas cap
 wheel-enabled = entrada rodeta activada
 touch-enabled = entrada tactila activada
+drag-enabled = limpada de barra de desfilament activada
+keyboard-enabled = clavièr activat
+autoscroll-enabled = desfialament automatic activat
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
@@ -238,3 +261,6 @@ touch-warning = entrada tactila asincròna desactivada en rason d'una preferénc
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+policies-inactive = Inactivas
+policies-active = Activas
+policies-error = Error
