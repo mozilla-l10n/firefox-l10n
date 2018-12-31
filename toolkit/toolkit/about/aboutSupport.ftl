@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 page-title = Arazoak konpontzeko informazioa
+page-subtitle = Orri honek arazo bat konpontzeko erabilgarria izan daitekeen informazio teknikoa du. { -brand-short-name }(r)i buruzko ohiko galderen erantzunen bila bazabiltza, bisitatu gure <a data-l10n-name="support-link">laguntzaren webgunea</a>.
 crashes-title = Hutsegite-txostenak
 crashes-id = Txostenaren IDa
 crashes-send-date = Noiz bidalia
@@ -13,9 +14,15 @@ extensions-name = Izena
 extensions-enabled = Gaituta
 extensions-version = Bertsioa
 extensions-id = ID
+features-title = { -brand-short-name }(r)en eginbideak
+features-name = Izena
+features-version = Bertsioa
+features-id = ID
 app-basics-title = Aplikazioaren oinarrizko konfigurazioa
 app-basics-name = Izena
 app-basics-version = Bertsioa
+app-basics-build-id = Eraikitze IDa
+app-basics-update-channel = Eguneraketa-kanala
 app-basics-update-history = Eguneraketen historia
 app-basics-show-update-history = Erakutsi eguneraketen historia
 app-basics-profile-dir =
@@ -26,8 +33,22 @@ app-basics-profile-dir =
 app-basics-enabled-plugins = Gaitutako pluginak
 app-basics-build-config = Eraikitze-konfigurazioa
 app-basics-user-agent = Erabiltzaile-agentea
+app-basics-os = SEa
 app-basics-memory-use = Memoriaren erabilpena
+app-basics-performance = Errendimendua
+app-basics-service-workers = Erregistratutako zerbitzu-langileak
+app-basics-profiles = Profilak
 app-basics-multi-process-support = Multiprozesu leihoak
+app-basics-process-count = Webeko eduki-prozesuak
+app-basics-key-google = Google gakoa
+app-basics-key-mozilla = Mozilla Location Service gakoa
+app-basics-safe-mode = Modu segurua
+show-dir-label =
+    { PLATFORM() ->
+        [macos] Erakutsi Finder-en
+        [windows] Ireki karpeta
+       *[other] Ireki direktorioa
+    }
 modified-key-prefs-title = Aldatutako hobespen garrantzitsuak
 modified-prefs-name = Izena
 modified-prefs-value = Balioa
@@ -37,14 +58,50 @@ locked-key-prefs-title = Blokeatutako hobespen garrantzitsuak
 locked-prefs-name = Izena
 locked-prefs-value = Balioa
 graphics-title = Grafikoak
+graphics-features-title = Eginbideak
+graphics-diagnostics-title = Diagnostikoak
+graphics-failure-log-title = Hutsegitearen loga
+graphics-gpu1-title = 1. GPUa
+graphics-gpu2-title = 2. GPUa
+graphics-decision-log-title = Erabakien erregistroa
+graphics-crash-guards-title = Babestu desgaitutako eginbideen hutsegiteak
+graphics-workarounds-title = Behin-behineko konponbideak
+place-database-title = Lekuen datu-basea
+place-database-integrity = Osotasuna
+place-database-verify-integrity = Egiaztatu osotasuna
 js-title = JavaScript
 js-incremental-gc = ZB inkrementala
 a11y-title = Erabilgarritasuna
 a11y-activated = Aktibatuta
 a11y-force-disabled = Eragotzi erabilgarritasuna
+a11y-handler-used = Maneiatzaile erabilerraza erabilita
+a11y-instantiator = Erabilerraztasunaren instantziatzailea
 library-version-title = Liburutegien bertsioak
 copy-text-to-clipboard-label = Kopiatu testua arbelean
 copy-raw-data-to-clipboard-label = Kopiatu datu gordinak arbelean
+sandbox-title = Isolamendua
+sandbox-sys-call-log-title = Baztertutako sistema-deiak
+sandbox-sys-call-index = #
+sandbox-sys-call-age = Duela zenbat segundo
+sandbox-sys-call-pid = PID
+sandbox-sys-call-tid = TID
+sandbox-sys-call-proc-type = Prozesu mota
+sandbox-sys-call-number = Sistema-deia
+sandbox-sys-call-args = Argumentuak
+safe-mode-title = Probatu modu segurua
+restart-in-safe-mode-label = Berrabiarazi gehigarriak desgaituta…
+media-title = Multimedia
+media-output-devices-title = Irteerako gailuak
+media-input-devices-title = Sarrerako gailuak
+media-device-name = Izena
+media-device-group = Taldea
+media-device-vendor = Hornitzailea
+media-device-state = Egoera
+media-device-preferred = Hobetsia
+media-device-format = Formatua
+media-device-channels = Kanalak
+media-device-rate = Emaria
+media-device-latency = Atzerapena
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -88,27 +145,99 @@ text-copied = Testua arbelean kopiatu da
 blocked-driver = Txartel grafikoaren kontrolatzailearen bertsioagatik blokeatuta.
 blocked-gfx-card = Txartel grafikoak blokeatuta ebatzi gabeko kontrolatzaile-arazoengatik.
 blocked-os-version = Sistema eragilearen bertsioagatik blokeatuta.
+blocked-mismatched-version = Blokeatuta zure txartel grafikoaren kontrolatzaileentzat, erregistroaren eta DLLaren bertsioak ez datoz bat.
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Txartel grafikoaren kontrolatzailearen bertsioak blokeatuta. Saiatu zure txartel grafikoaren kontrolatzaileak { $driverVersion } edo bertsio berriagora eguneratzen.
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType parametroak
+compositing = Konposatzea
+hardware-h264 = Hardware bidezko H264 deskodetzea
+main-thread-no-omtc = hari nagusia, OMTCrik ez
+yes = Bai
+no = Ez
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
 ## not found.
 
+found = Aurkitua
+missing = Falta da
+gpu-description = Deskribapena
+gpu-vendor-id = Hornitzailearen IDa
+gpu-device-id = Gailuaren IDa
+gpu-subsys-id = Subsys IDa
+gpu-drivers = Kontrolatzaileak
+gpu-ram = RAM
+gpu-driver-version = Kontrolatzailearen bertsioa
+gpu-driver-date = Kontrolatzailearen data
+gpu-active = Aktibo
+webgl1-wsiinfo = WebGL 1 kontrolatzailearen WSI informazioa
+webgl1-renderer = WebGL 1 kontrolatzailearen errendatzailea
+webgl1-version = WebGL 1 kontrolatzailearen bertsioa
+webgl1-driver-extensions = WebGL 1 kontrolatzailearen luzapenak
+webgl1-extensions = WebGL 1 luzapenak
+webgl2-wsiinfo = WebGL 2 kontrolatzailearen WSI informazioa
+webgl2-renderer = WebGL 2 kontrolatzailearen errendatzailea
+webgl2-version = WebGL 2 kontrolatzailearen bertsioa
+webgl2-driver-extensions = WebGL 2 kontrolatzailearen luzapenak
+webgl2-extensions = WebGL 2 luzapenak
+blocklisted-bug = Arazo ezagunengatik zerrenda beltzean
+# Variables
+# $bugNumber (string) - String of bug number from Bugzilla
+bug-link = { $bugNumber }. buga
+# Variables
+# $failureCode (string) - String that can be searched in the source tree.
+unknown-failure = Zerrenda beltzean; { $failureCode } hutsegite-kodea
+d3d11layers-crash-guard = D3D11 konposatzailea
+d3d11video-crash-guard = D3D11 bideo-deskodetzailea
+d3d9video-crash-buard = D3D9 bideo-deskodetzailea
+glcontext-crash-guard = OpenGL
+reset-on-next-restart = Berrezarri hurrengo berrabiaraztean
+gpu-process-kill-button = Amaitu GPU prozesua
+gpu-device-reset-button = Abiarazi gailua berrabiaraztea
+off-main-thread-paint-enabled = Hari nagusitik kanporako margoketa gaituta
+audio-backend = Audio backend-a
+max-audio-channels = Gehienezko kanalak
+channel-layout = Hobetsitako kanal-diseinua
+sample-rate = Hobetsitako lagin-abiadura
 min-lib-versions = Esperotako bertsio minimoa
 loaded-lib-versions = Erabiltzen dagoen bertsioa
+has-seccomp-bpf = Seccomp-BPF (Sistema-deien iragaztea)
+has-seccomp-tsync = Seccomp harien sinkronizazioa
+has-user-namespaces = Erabiltzaileen izen-eremuak
+has-privileged-user-namespaces = Erabiltzaileen izen-eremuak prozesu pribilegiatuentzat
+can-sandbox-content = Eduki-prozesuen isolamendua
+can-sandbox-media = Multimedia-pluginen isolamendua
+content-sandbox-level = Eduki-prozesuen isolamendu maila
+effective-content-sandbox-level = Eduki-prozesuen isolamendu maila eraginkorra
+sandbox-proc-type-content = edukia
+sandbox-proc-type-media-plugin = multimedia plugina
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
+multi-process-status-0 = Erabiltzaileak gaituta
+multi-process-status-1 = Lehenespenez gaituta
+multi-process-status-2 = Desgaituta
+multi-process-status-4 = Erabilgarritasun-tresnek desgaituta
+multi-process-status-6 = Onartzen ez den testu-sarrerak desgaituta
+multi-process-status-7 = Gehigarriek desgaituta
+multi-process-status-8 = Behartuta desgaituta
+multi-process-status-unknown = Egoera ezezaguna
+async-pan-zoom = Mugimendu panoramiko/zoom asinkronoak
+apz-none = bat ere ez
+wheel-enabled = gurpil bidezko sarrera gaituta
+touch-enabled = ukipen bidezko sarrera gaituta
+drag-enabled = korritze-barra arrastatzea gaituta
+keyboard-enabled = teklatua gaituta
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
 
+wheel-warning = gurpil asinkrono bidezko sarrera desgaituta onartzen ez den hobespena dela eta: { $preferenceKey }
+touch-warning = ukipen asinkrono bidezko sarrera desgaituta onartzen ez den hobespena dela eta: { $preferenceKey }
 
 ## Strings representing the status of the Enterprise Policies engine.
 
