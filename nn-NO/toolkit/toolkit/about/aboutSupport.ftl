@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 page-title = Feilsøking
+page-subtitle = Denne sida inneheld teknisk informasjon som kan vere nyttig når du prøver å løyse eit problem. Gå til <a data-l10n-name="support-link">brukarstøttenettsida</a> for å få svar på ofte stilte spørsmål om { -brand-short-name }.
 crashes-title = Krasjrapportar
 crashes-id = Rapport-ID
 crashes-send-date = Sendt
@@ -13,6 +14,16 @@ extensions-name = Namn
 extensions-enabled = Påslått
 extensions-version = Versjon
 extensions-id = ID
+security-software-title = Sikkerheitsprogram
+security-software-type = Type
+security-software-name = Namn
+security-software-antivirus = Antivirus
+security-software-antispyware = Antispionprogram
+security-software-firewall = Brannmur
+features-title = { -brand-short-name }-funksjonar
+features-name = Namn
+features-version = Versjon
+features-id = ID
 app-basics-title = Programinfo
 app-basics-name = Namn
 app-basics-version = Versjon
@@ -34,7 +45,17 @@ app-basics-performance = Yting
 app-basics-service-workers = Registrerte tenestearbeidarar
 app-basics-profiles = Profilar
 app-basics-multi-process-support = Multiprosess-vindauge
+app-basics-process-count = Nettinnhaldsprosessar
+app-basics-enterprise-policies = Bedriftspolitikk
+app-basics-key-google = Google-nykel
+app-basics-key-mozilla = Mozilla Location Service-nykel
 app-basics-safe-mode = Trygg modus
+show-dir-label =
+    { PLATFORM() ->
+        [macos] Vis i Finder
+        [windows] Opne mappe
+       *[other] Opne mappe
+    }
 modified-key-prefs-title = Viktige endra innstillingar
 modified-prefs-name = Namn
 modified-prefs-value = Verdi
@@ -60,11 +81,43 @@ js-incremental-gc = Inkrementell GC
 a11y-title = Tilgjenge
 a11y-activated = Aktivert
 a11y-force-disabled = Hindra tilgjenge
+a11y-handler-used = Tilgjengeleg handterar brukt
+a11y-instantiator = Tilgjenge-instantiator
 library-version-title = Bibliotekversjonar
 copy-text-to-clipboard-label = Kopier tekst til utklippstavla
 copy-raw-data-to-clipboard-label = Kopier råtekst til utklippstavla
 sandbox-title = Sandkasse
+sandbox-sys-call-log-title = Avvis systemkall
+sandbox-sys-call-index = #
+sandbox-sys-call-age = Sekund sidan
+sandbox-sys-call-pid = PID
+sandbox-sys-call-tid = TID
+sandbox-sys-call-proc-type = Prosesstype
+sandbox-sys-call-number = Syscall
+sandbox-sys-call-args = Argument
 safe-mode-title = Prøv trygg modus
+restart-in-safe-mode-label = Start på nytt utan tillegg…
+media-title = Media
+media-output-devices-title = Ut-einingar
+media-input-devices-title = Inn-einingar
+media-device-name = Namn
+media-device-group = Gruppe
+media-device-vendor = Leverandør
+media-device-state = Status
+media-device-preferred = Føretrekt
+media-device-format = Format
+media-device-channels = Kanalar
+media-device-rate = Fart
+media-device-latency = Forseinking
+intl-title = Internasjonalisering og lokalisering
+intl-app-title = Programinnstillingar
+intl-locales-requested = Førespurde språkversjonar
+intl-locales-available = Tilgjengelege språkversjonar
+intl-locales-supported = App-språkversjonar
+intl-locales-default = Standardspråk
+intl-os-title = Operativsystem
+intl-os-prefs-system-locales = System-språkversjonar
+intl-regional-prefs = Regionale innstillingar
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -93,6 +146,13 @@ crashes-time-days =
         [one] { $days } dag sidan
        *[other] { $days } dagar sidan
     }
+# Variables
+# $reports (integer) - Number of pending reports
+pending-reports =
+    { $reports ->
+        [one] Alle krasjrapportar (inkludert { $reports } krasjrapport som ventar på handsaming i tidsrommet)
+       *[other] Alle krasjrapportar (inkludert { $reports } krasjrapport som ventar på handtering i tidsrommet)
+    }
 raw-data-copied = Rådata kopiert til utklippstavla
 text-copied = Tekst kopiert til utklippstavla
 
@@ -118,15 +178,27 @@ no = Nei
 ## In some development versions, it's expected for some API keys that they are
 ## not found.
 
+found = Funne
+missing = Manglar
 gpu-description = Skildring
 gpu-vendor-id = Leverandør-ID
 gpu-device-id = Einings-ID
+gpu-subsys-id = Subsys-ID
 gpu-drivers = Drivarar
 gpu-ram = RAM
 gpu-driver-version = Drivarversjon
 gpu-driver-date = Drivardato
 gpu-active = Aktiv
+webgl1-wsiinfo = WebGL 1 drivarinfo WSI
+webgl1-renderer = WebGL 1 drivar-renderar
+webgl1-version = WebGL 1 drivarversjon
+webgl1-driver-extensions = WebGL 1 drivarutviding
+webgl1-extensions = WebGL 1 utviding
+webgl2-wsiinfo = WebGL 2 drivarinfo WSI
 webgl2-renderer = WebGL2-renderar
+webgl2-version = WebGL 2 drivarversjon
+webgl2-driver-extensions = WebGL 2 drivarutviding
+webgl2-extensions = WebGL 2 utviding
 blocklisted-bug = Svartelista på grunn av kjende problem
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
@@ -140,6 +212,14 @@ d3d9video-crash-buard = D3D9 videodekodar
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Tilbakestill ved neste omstart
 gpu-process-kill-button = Avslutt GPU-prosess
+gpu-device-reset-button = Løys ut tilbakestilling av eining
+uses-tiling = Brukar Tiling
+content-uses-tiling = Brukar Tiling (innhald)
+off-main-thread-paint-worker-count = Opptegning utanfor hovudtråd worker-mengde
+audio-backend = Lydgrensesnitt
+max-audio-channels = Maks kanalar
+channel-layout = Føretrekt kanaloppsett
+sample-rate = Føretrekt samplingsfart
 min-lib-versions = Forventa minimumsversjon
 loaded-lib-versions = Versjon i bruk
 has-seccomp-bpf = Seccomp-BPF (Systemkall-filtrering)
@@ -147,6 +227,12 @@ has-seccomp-tsync = Seccomp-trådsynkronisering
 has-user-namespaces = Brukarnamnområde
 has-privileged-user-namespaces = Brukarnamnområde for priviligerte prosessar
 can-sandbox-content = Sandkasse for innhaldsprosessar
+can-sandbox-media = Sandkasse for media-programtillegg
+content-sandbox-level = Nivå for sandkasse for innhaldsprosessar
+effective-content-sandbox-level = Effektiv sandbox-nivå for innhaldsprosess
+sandbox-proc-type-content = innhald
+sandbox-proc-type-file = filinnhald
+sandbox-proc-type-media-plugin = programtillegg for media
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -162,12 +248,19 @@ multi-process-status-unknown = Ukjend status
 async-pan-zoom = Asynkron pan/zoom
 apz-none = ingen
 wheel-enabled = Hjulinnmating slått på
+touch-enabled = tøtsj-input slått på
 drag-enabled = drag og slepp av rullelinje påslått
+keyboard-enabled = tastatur aktivert
+autoscroll-enabled = autorulling slått på
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
 
 wheel-warning = asynkron hjulinnmating slått av pga. ikkje-støtta innstilling: { $preferenceKey }
+touch-warning = asynkron tøtsj-input slått av pga. ikkje-støtta innstilling: { $preferenceKey }
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+policies-inactive = Slått av
+policies-active = Slått på
+policies-error = Feil
