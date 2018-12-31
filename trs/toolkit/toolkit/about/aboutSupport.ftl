@@ -14,6 +14,12 @@ extensions-name = Si yuguit
 extensions-enabled = Ngà 'iaj sunj
 extensions-version = Versión
 extensions-id = ID
+security-software-title = Softwarê nakaj rayi'î'
+security-software-type = Dugui'
+security-software-name = Si yugui
+security-software-antivirus = Sa ri yi'ìi
+security-software-antispyware = Sa nará riña sa naga'naj a
+security-software-firewall = Sa duna'aj ña'aan
 features-title = { -brand-short-name } danaj huaj
 features-name = Si yuguit
 features-version = Versión
@@ -40,6 +46,7 @@ app-basics-service-workers = Nej sa ma sa' Service Workers
 app-basics-profiles = Sa a'min rayi'i'
 app-basics-multi-process-support = Ga'i ventana 'iaj sun
 app-basics-process-count = Sa ma riña Web
+app-basics-enterprise-policies = Nuguan' nikaj nej emprêsa
 app-basics-key-google = Si da'nga' Google
 app-basics-key-mozilla = Mozilla Location Service Key
 app-basics-safe-mode = Hua ran yi'í man
@@ -75,6 +82,7 @@ a11y-title = Hua gatu'
 a11y-activated = Nga 'iaj sunj
 a11y-force-disabled = Si ga'ni' gatu'
 a11y-handler-used = Gasunt ngo controlador
+a11y-instantiator = Sa ‘iaj hua ni’nïnj gatū’
 library-version-title = Nej versión ma
 copy-text-to-clipboard-label = Guyun' nej nuguan'
 copy-raw-data-to-clipboard-label = Nachrun' datos riña portapapeles
@@ -89,9 +97,27 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Nuin saj
 safe-mode-title = Garahue' modo seguro
 restart-in-safe-mode-label = Nayi'í ñun' nga nej sa nitaj si 'iaj sun
+media-title = Sa ni'io'
+media-output-devices-title = Dispositivo sa ahuii
+media-input-devices-title = Dispositivo sa âtuj u
 media-device-name = Si yuguit
 media-device-group = Yi'ni'in
 media-device-vendor = So' girì
+media-device-state = Dàj huaj
+media-device-preferred = Sa huin ruhuô' doj
+media-device-format = Formatù
+media-device-channels = Nej kanal
+media-device-rate = Sa du'ue
+media-device-latency = 'Iaj sunj
+intl-title = Nagi'iô guendâ yumiguìi & Narì' man
+intl-app-title = Sa nikaj aplikasiûn
+intl-locales-requested = Sa dukuà nana'ui' si doj
+intl-locales-available = Sa dukuà huaa
+intl-locales-supported = Nej aplikasiûn dukuàa
+intl-locales-default = Sa dukuà 'na' niñaa
+intl-os-title = Sistêma Operatîbo
+intl-os-prefs-system-locales = Nej sistema dukuàa
+intl-regional-prefs = Sa nana'uî' doj màn nichrùn'un
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -186,7 +212,15 @@ d3d9video-crash-buard = D3D11 Sa Ni'io'
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Nayi'i' Ne'ña an Doj
 gpu-process-kill-button = Ganahuij 'iaj sun GPU
+gpu-device-reset-button = Ganayi'ì ñun aga' dan
+uses-tiling = Garasun Tiling
+content-uses-tiling = Garasun Tiling (Sa nika)
+off-main-thread-paint-enabled = Hua habilitado ne'e tàj ñaan
+off-main-thread-paint-worker-count = Nitaj ne' rà guendâ pinturâ Konde
 audio-backend = Sa guni' Backend
+max-audio-channels = Kanal Max
+channel-layout = Nej kanal nihia' doj ruhuât hua
+sample-rate = Dàj nichrà' hua frecuencia garan' ruhuô'
 min-lib-versions = Versión ana'uij ñun'
 loaded-lib-versions = Versi´n raj sun'
 has-seccomp-bpf = Seccomp-BPF (riña da'ui gachin sa a'min')
@@ -196,7 +230,9 @@ has-privileged-user-namespaces = Riña gachun nej sí ña'anj doj si yugui si
 can-sandbox-content = Riña gi'iaj sun nej sa ma na
 can-sandbox-media = Riña gi'iaj sun sa ni'io'
 content-sandbox-level = Content Process Sandbox Level
+effective-content-sandbox-level = Dukuán hue’ê doj nun proceso contenido
 sandbox-proc-type-content = sa ma
+sandbox-proc-type-file = sa nikaj archîbo
 sandbox-proc-type-media-plugin = plugin 'iaj sun nga sa ni'io'
 # Variables
 # $remoteWindows (integer) - Number of remote windows
@@ -215,6 +251,8 @@ apz-none = a'ngoj
 wheel-enabled = 'iaj sun yutu gachin
 touch-enabled = 'iaj sunj da' duguché ro'o
 drag-enabled = ganukuaj ña ma sa raj sun'
+keyboard-enabled = Ngà hua teclado
+autoscroll-enabled = hua yugui sa 'iaj naché man'an
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
@@ -224,3 +262,6 @@ touch-warning = nitaj si 'iaj sun ma da' duguché ro'o: { $preferenceKey }
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+policies-inactive = Hua nâ'a
+policies-active = Ngà' 'iaj sunj
+policies-error = Nitaj si hua hue'ej
