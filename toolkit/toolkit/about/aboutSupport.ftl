@@ -32,6 +32,7 @@ app-basics-profile-dir =
 app-basics-enabled-plugins = Povolené zásuvné moduly
 app-basics-build-config = Konfigurácia zostavenia
 app-basics-user-agent = Reťazec User Agent
+app-basics-os = OS
 app-basics-memory-use = Využitie pamäte
 app-basics-service-workers = Registrovaní Service Workers
 app-basics-profiles = Profily
@@ -48,6 +49,9 @@ locked-prefs-value = Hodnota
 graphics-title = Grafika
 graphics-features-title = Funkcie
 graphics-failure-log-title = Záznam chýb
+graphics-crash-guards-title = Zakázať funkcie Crash Guard
+graphics-workarounds-title = Možné riešenia
+place-database-title = Databáza umiestnení
 js-title = JavaScript
 js-incremental-gc = Inkrementálne GC
 a11y-title = Zjednodušenie ovládania
@@ -121,6 +125,13 @@ main-thread-no-omtc = hlavné vlákno, bez OMTC
 ## In some development versions, it's expected for some API keys that they are
 ## not found.
 
+blocklisted-bug = Zablokované kvôli známej chybe
+# Variables
+# $failureCode (string) - String that can be searched in the source tree.
+unknown-failure = Zablokované; chybový kód { $failureCode }
+d3d11layers-crash-guard = D3D11 Compositor
+d3d11video-crash-guard = D3D11 Video dekodér
+d3d9video-crash-buard = D3D9 Video dekodér
 min-lib-versions = Očakávaná minimálna verzia
 loaded-lib-versions = Používaná verzia
 has-seccomp-bpf = Seccomp-BPF (filtrovanie systémových volaní)
