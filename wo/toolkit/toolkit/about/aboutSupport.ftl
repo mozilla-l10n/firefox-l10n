@@ -8,6 +8,8 @@ app-basics-name = Tur
 app-basics-version = Sumb
 modified-prefs-name = Tur
 js-title = JavaScript
+raw-data-copied = Xibaar yi ñu duppi ci dencandikaayu kayit bi
+text-copied = Mbind mi ñu duppi ci dencandikaayu kayit bi
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
