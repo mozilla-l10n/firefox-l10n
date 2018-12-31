@@ -212,6 +212,7 @@ reset-on-next-restart = Reset on Next Restart
 gpu-process-kill-button = Terminate GPU Process
 gpu-device-reset-button = Trigger Device Reset
 uses-tiling = Uses Tiling
+content-uses-tiling = Uses Tiling (Content)
 off-main-thread-paint-enabled = Off Main Thread Painting Enabled
 off-main-thread-paint-worker-count = Off Main Thread Painting Worker Count
 audio-backend = Audio Backend
