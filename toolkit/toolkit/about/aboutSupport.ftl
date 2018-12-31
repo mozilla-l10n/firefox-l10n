@@ -17,6 +17,12 @@ extensions-name = Nume
 extensions-enabled = Activat
 extensions-version = Versiune
 extensions-id = ID
+security-software-title = Program de securitate
+security-software-type = Tip
+security-software-name = Nume
+security-software-antivirus = Antivirus
+security-software-antispyware = Antispyware
+security-software-firewall = Firewall
 features-title = Funcționalități { -brand-short-name }
 features-name = Nume
 features-version = Versiune
@@ -204,6 +210,8 @@ glcontext-crash-guard = OpenGL
 reset-on-next-restart = Resetează la următoarea repornire
 gpu-process-kill-button = Termină procesul GPU
 gpu-device-reset-button = Declanșează resetarea dispozitivului
+uses-tiling = Folosește tiling
+content-uses-tiling = Folosește Tiling (Conținut)
 audio-backend = Backend audio
 max-audio-channels = Canale maxime
 channel-layout = Aspect preferat al canalelor
@@ -249,3 +257,6 @@ touch-warning = intrarea tactilă asincronă dezactivată datorită unei preferi
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+policies-inactive = Inactiv
+policies-active = Activ
+policies-error = Eroare
