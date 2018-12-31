@@ -18,6 +18,7 @@ security-software-title = ซอฟต์แวร์ความปลอดภ
 security-software-type = ชนิด
 security-software-name = ชื่อ
 security-software-firewall = ไฟร์วอลล์
+features-title = คุณลักษณะของ { -brand-short-name }
 features-name = ชื่อ
 features-version = รุ่น
 features-id = ID
