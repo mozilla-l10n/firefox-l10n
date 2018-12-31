@@ -46,6 +46,7 @@ app-basics-service-workers = Service Workers registrados
 app-basics-profiles = Perfiles
 app-basics-multi-process-support = Ventanas multiproceso
 app-basics-process-count = Procesos de contenido web
+app-basics-enterprise-policies = Políticas empresariales
 app-basics-key-google = Clave de Google
 app-basics-key-mozilla = Clave del servicio de ubicación de Mozilla
 app-basics-safe-mode = Modo seguro
@@ -117,6 +118,43 @@ intl-locales-default = Idioma preterminado
 intl-os-title = Sistema operativo
 intl-os-prefs-system-locales = Idiomas del sistema
 intl-regional-prefs = Preferencias regionales
+# Variables
+# $days (Integer) - Number of days of crashes to log
+report-crash-for-days =
+    { $days ->
+        [one] Informes de fallos del último día
+       *[other] Informes de fallos de los últimos { $days } días
+    }
+# Variables
+# $minutes (integer) - Number of minutes since crash
+crashes-time-minutes =
+    { $minutes ->
+        [one] hace { $minutes } minuto
+       *[other] hace { $minutes } minutos
+    }
+# Variables
+# $hours (integer) - Number of hours since crash
+crashes-time-hours =
+    { $hours ->
+        [one] hace { $hours } hora
+       *[other] hace { $hours } horas
+    }
+# Variables
+# $days (integer) - Number of days since crash
+crashes-time-days =
+    { $days ->
+        [one] hace { $days } día
+       *[other] hace { $days } días
+    }
+# Variables
+# $reports (integer) - Number of pending reports
+pending-reports =
+    { $reports ->
+        [one] Todos los informes de fallos (incluyendo { $reports } fallo pendiente en el intervalo de tiempo indicado)
+       *[other] Todos los informes de fallos (incluyendo { $reports } fallos pendientes en el intervalo de tiempo indicado)
+    }
+raw-data-copied = Datos sin procesar copiados al portapapeles
+text-copied = Texto copiado al portapapeles
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
@@ -223,3 +261,6 @@ touch-warning = entrada táctil asíncrona desactivada debido a una preferencia 
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+policies-inactive = Inactivo
+policies-active = Activo
+policies-error = Error
