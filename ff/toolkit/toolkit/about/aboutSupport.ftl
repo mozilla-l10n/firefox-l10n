@@ -83,6 +83,8 @@ sandbox-title = Seenorde
 sandbox-sys-call-log-title = Nodde njuɓɓudi ndiiwtaama
 sandbox-sys-call-index = #
 sandbox-sys-call-age = Hojomaaji Jawtuɗi
+sandbox-sys-call-pid = PID
+sandbox-sys-call-tid = TID
 sandbox-sys-call-proc-type = Sifaa silsil
 sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Bannanɗe
@@ -100,6 +102,14 @@ media-device-format = Formaa
 media-device-channels = Ceenuuji
 media-device-rate = Battal
 media-device-latency = Deeƴtal
+intl-app-title = Teelte Jaaɓnirɗe
+intl-locales-requested = Nokkuuje Ɗaɓɓitaaɗe
+intl-locales-available = Nokkuuje Keɓotooɗe
+intl-locales-supported = Nokkuuje Jaaɓnirɗe
+intl-locales-default = Nokkuuje Goowaaɗe
+intl-os-title = Yuɓɓo Gollotoongo
+intl-os-prefs-system-locales = Nokkuuje Yuɓɓo
+intl-regional-prefs = Cuɓoraaɗe Diiwaniyaŋkooje
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
