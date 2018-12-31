@@ -10,6 +10,7 @@ extensions-version = Барыл
 app-basics-title = Приложение туһунан
 app-basics-name = Аат
 app-basics-version = Барыл
+app-basics-update-history = Саҥардыы сурунаала
 app-basics-profile-dir =
     { PLATFORM() ->
         [linux] Профиль паапката
@@ -21,12 +22,19 @@ app-basics-user-agent = User Agent
 app-basics-memory-use = Долоҕойу туттуу
 modified-key-prefs-title = Сүрүн уларытыллыбыт туруоруулар{ " " }
 modified-prefs-name = Аат
+user-js-title = user.js туруоруулара
+user-js-description = Профилиҥ паапкатыгар  { -brand-short-name } оҥорботох туруоруулардаах <a data-l10n-name="user-js-link">user.js билэ</a> сытар эбит.
 graphics-title = Графика
 js-title = JavaScript
 js-incremental-gc = Инкрементальнай GC
 a11y-title = Киирэргэ дөбөҥө, өйдөнүмтүөтэ
 a11y-activated = Холбоо
+a11y-force-disabled = Холбоммот гын
 library-version-title = Бибилитиэкэлэр барыллара
+copy-text-to-clipboard-label = Тиэкси долоҕойго (буфер обмена) төгүллээ
+copy-raw-data-to-clipboard-label = Таҥастамматах дааннайдары долоҕойго хатаа
+raw-data-copied = Таҥастамматах дааннайдар долоҕойго төгүллэннилэр
+text-copied = Тиэкис долоҕойго хатанна
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
