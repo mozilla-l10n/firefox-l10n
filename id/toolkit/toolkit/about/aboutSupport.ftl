@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 page-title = Informasi Pemecahan Masalah
+page-subtitle = Laman ini berisi informasi teknis yang mungkin berguna ketika Anda berusaha mengatasi masalah. Jika Anda mencari jawaban untuk pertanyaan umum tentang { -brand-short-name }, silakan kunjungi <a data-l10n-name="support-link">situs web layanan dukungan kami</a>.
 crashes-title = Laporan Kerusakan
 crashes-id = ID Laporan
 crashes-send-date = Dikirim
@@ -16,6 +17,7 @@ extensions-id = ID
 app-basics-title = Informasi Dasar Aplikasi
 app-basics-name = Nama
 app-basics-version = Versi
+app-basics-build-id = ID Build
 app-basics-update-history = Riwayat Pemutakhiran
 app-basics-show-update-history = Tampilkan Riwayat Pemutakhiran
 app-basics-profile-dir =
@@ -26,9 +28,14 @@ app-basics-profile-dir =
 app-basics-enabled-plugins = Plugin Terpasang
 app-basics-build-config = Konfigurasi Build
 app-basics-user-agent = User Agent
+app-basics-os = OS
 app-basics-memory-use = Penggunaan Memori
+app-basics-performance = Kinerja
+app-basics-service-workers = Service Worker Terdaftar
+app-basics-profiles = Profil
 app-basics-multi-process-support = Jendela Multiproses
 app-basics-enterprise-policies = Kebijakan Perusahaan
+app-basics-safe-mode = Mode Aman
 modified-key-prefs-title = Pengaturan Penting yang Diubah
 modified-prefs-name = Nama
 modified-prefs-value = Nilai
@@ -38,6 +45,9 @@ locked-key-prefs-title = Preferensi Penting yang Dikunci
 locked-prefs-name = Nama
 locked-prefs-value = Nilai
 graphics-title = Grafik
+graphics-features-title = Fitur
+graphics-diagnostics-title = Diagnostik
+graphics-failure-log-title = Log Kegagalan
 graphics-gpu1-title = GPU #1
 graphics-gpu2-title = GPU #2
 graphics-decision-log-title = Log Keputusan
@@ -55,6 +65,8 @@ library-version-title = Versi Pustaka
 copy-text-to-clipboard-label = Salin teks ke papan klip
 copy-raw-data-to-clipboard-label = Salin data mentah ke papan klip
 sandbox-title = Kotak pasir
+safe-mode-title = Coba Mode Aman
+restart-in-safe-mode-label = Mulai Ulang dengan Pengaya Dinonaktifkan…
 intl-title = Pelokalan dan Internasional
 raw-data-copied = Data mentah telah disalin ke papan klip
 text-copied = Teks telah disalin ke clipboard
@@ -64,6 +76,7 @@ text-copied = Teks telah disalin ke clipboard
 blocked-driver = Diblokir untuk versi penggerak grafik Anda.
 blocked-gfx-card = Diblokir untuk kartu grafik Anda karena masalah pada penggerak yang tidak bisa diatasi.
 blocked-os-version = Diblokir untuk versi sistem operasi Anda.
+blocked-mismatched-version = Diblokir karena versi driver kartu grafis Anda tidak cocok antara registry dan DLL.
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Diblokir untuk versi penggerak grafik Anda. Coba perbarui penggerak grafik Anda ke versi { $driverVersion } atau yang lebih baru.
@@ -81,8 +94,13 @@ no = Tidak
 ## not found.
 
 gpu-description = Deskripsi
+gpu-vendor-id = ID Vendor
+gpu-device-id = ID Perangkat
+gpu-subsys-id = ID Subsistem
 gpu-drivers = Driver
 gpu-ram = RAM
+gpu-driver-version = Versi Penggerak
+gpu-driver-date = Tanggal Penggerak
 gpu-active = Aktif
 webgl2-renderer = Perender WebGL2
 blocklisted-bug = Dicekal karena alasan yang diketahui
@@ -104,17 +122,34 @@ off-main-thread-paint-worker-count = Jumlah Off Main Thread Painting Worker
 min-lib-versions = Versi minimum diharapkan
 loaded-lib-versions = Versi yang digunakan
 has-seccomp-bpf = Seccomp-BPF (Pemfilteran Pemanggilan Sistem - System Call Filtering)
+has-seccomp-tsync = Sinkronisasi Utas Seccomp
+has-user-namespaces = Ruang Nama Pengguna
+has-privileged-user-namespaces = Ruang Nama Pengguna untuk proses istimewa
 can-sandbox-content = Pengotakpasiran Proses Konten
 can-sandbox-media = Pengotakpasiran Plugin Media
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
+multi-process-status-0 = Diaktifkan pengguna
+multi-process-status-1 = Diaktifkan secara baku
+multi-process-status-2 = Dinonaktifkan
+multi-process-status-4 = Dinonaktifkan oleh alat aksesibilitas
+multi-process-status-6 = Dinonaktifkan oleh masukan teks yang tidak didukung
+multi-process-status-7 = Dinonaktifkan oleh pengaya
 multi-process-status-8 = Dinonaktifkan secara paksa
+multi-process-status-unknown = Status tak diketahui
+async-pan-zoom = Geser/Perbesaran Asinkron
+apz-none = tidak ada
+wheel-enabled = input wheel diaktifkan
+touch-enabled = input sentuh diaktifkan
+drag-enabled = penyeretan bilah penggulung aktif
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
 
+wheel-warning = input wheel asinkron dinonaktifkan karena preferensi yang tidak didukung: { $preferenceKey }
+touch-warning = input sentuh asinkron dinonaktifkan karena preferensi yang tidak didukung: { $preferenceKey }
 
 ## Strings representing the status of the Enterprise Policies engine.
 
