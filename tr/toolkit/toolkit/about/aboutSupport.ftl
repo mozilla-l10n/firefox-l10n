@@ -173,6 +173,8 @@ hardware-h264 = Donanımsal H264 çözme
 main-thread-no-omtc = ana işlem parçacığı, OMTC yok
 yes = Evet
 no = Hayır
+unknown = Bilinmiyor
+virtual-monitor-disp = Sanal monitör ekranı
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
