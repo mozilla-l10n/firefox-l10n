@@ -214,6 +214,7 @@ reset-on-next-restart = આગલું પુનઃપ્રારંભ કર
 gpu-process-kill-button = GPU પ્રક્રિયા સમાપ્ત કરો
 gpu-device-reset-button = ટ્રિગર ઉપકરણ રીસેટ કરો
 uses-tiling = ટાઇલીંગનો ઉપયોગ કરે છે
+content-uses-tiling = ટાઇલિંગનો ઉપયોગ (સામગ્રી)
 off-main-thread-paint-enabled = બંધ મુખ્ય થ્રેડ પેઈન્ટીંગ સક્ષમ
 off-main-thread-paint-worker-count = મુખ્ય થ્રેડ પેઈન્ટીંગ કામદાર ગણક બંધ
 audio-backend = ઑડિઓ બેકએન્ડ
