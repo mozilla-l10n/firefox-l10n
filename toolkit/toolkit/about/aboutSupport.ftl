@@ -9,6 +9,9 @@ crashes-no-config = Ứng dụng này chưa được thiết lập để hiển 
 extensions-name = Tên
 extensions-version = Phiên bản
 extensions-id = ID
+features-name = Tên
+features-version = Phiên bản
+features-id = ID
 app-basics-title = Cơ bản về ứng dụng
 app-basics-name = Tên
 app-basics-version = Phiên bản
@@ -25,10 +28,19 @@ locked-key-prefs-title = Các tùy chọn quan trọng đã khóa
 locked-prefs-name = Tên
 locked-prefs-value = Giá trị
 graphics-title = Đồ họa
+graphics-features-title = Tính năng
+graphics-gpu1-title = GPU #1
+graphics-gpu2-title = GPU #2
 js-title = JavaScript
 a11y-activated = Được kích hoạt
 copy-text-to-clipboard-label = Chép văn bản vào bảng tạm
 copy-raw-data-to-clipboard-label = Chép dữ liệu thô vào bảng tạm
+sandbox-sys-call-index = #
+sandbox-sys-call-pid = PID
+sandbox-sys-call-tid = TID
+media-device-name = Tên
+media-device-group = Nhóm
+media-device-channels = Kênh
 raw-data-copied = Dữ liệu thô đã được sao chép vào bảng tạm
 text-copied = Văn bản đã được sao chép vào bảng tạm
 
@@ -43,20 +55,29 @@ try-newer-driver = Bị chặn đối với phiên bản trình điều khiển 
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Tham số ClearType
+yes = Có
+no = Không
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
 ## not found.
 
+found = Đã tìm thấy
+gpu-description = Mô tả
 gpu-vendor-id = ID Nhà cung cấp
 gpu-device-id = ID Thiết bị
+gpu-ram = RAM
 loaded-lib-versions = Phiên bản đang dùng
 has-user-namespaces = User Namespaces
 has-privileged-user-namespaces = User Namespaces với các tiến trình ưu tiên
+sandbox-proc-type-content = nội dung
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
+multi-process-status-0 = Được kích hoạt bởi người dùng
+multi-process-status-1 = Được kích hoạt theo mặc định
+multi-process-status-2 = Đã tắt
 apz-none = không có
 
 ## Variables
