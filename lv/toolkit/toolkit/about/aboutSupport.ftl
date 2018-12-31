@@ -263,7 +263,7 @@ autoscroll-enabled = automātiskā ritināšana aktivēta
 ## $preferenceKey (string) - String ID of preference
 
 wheel-warning = asinhronā ripas ievade deaktivēta neatbalstīta iestatījuma dēļ: { $preferenceKey }
-touch-warning = asinhronā pieskāriena ievade deaktivēta neatbalstīta iestatījuma dēļ: { $preferenceKey }{ " " }
+touch-warning = asinhronā pieskāriena ievade deaktivēta neatbalstīta iestatījuma dēļ: { $preferenceKey }
 
 ## Strings representing the status of the Enterprise Policies engine.
 
