@@ -14,6 +14,16 @@ extensions-name = Namn
 extensions-enabled = Aktiverad
 extensions-version = Version
 extensions-id = ID
+security-software-title = Säkerhetsprogram
+security-software-type = Typ
+security-software-name = Namn
+security-software-antivirus = Antivirus
+security-software-antispyware = Antispionprogram
+security-software-firewall = Brandvägg
+features-title = { -brand-short-name } Funktioner
+features-name = Namn
+features-version = Version
+features-id = ID
 app-basics-title = Programfakta
 app-basics-name = Namn
 app-basics-version = Version
@@ -32,8 +42,13 @@ app-basics-user-agent = Användaragent
 app-basics-os = OS
 app-basics-memory-use = Minnesanvändning
 app-basics-performance = Prestanda
+app-basics-service-workers = Registrerade Service Workers
 app-basics-profiles = Profiler
 app-basics-multi-process-support = Multiprocess fönster
+app-basics-process-count = Webbinnehållsprocesser
+app-basics-enterprise-policies = Företagspolicyer
+app-basics-key-google = Google-nyckel
+app-basics-key-mozilla = Mozilla Location Service-nyckel
 app-basics-safe-mode = Felsäkert läge
 show-dir-label =
     { PLATFORM() ->
@@ -62,19 +77,47 @@ place-database-title = Platser databas
 place-database-integrity = Integritet
 place-database-verify-integrity = Verifiera integritet
 js-title = JavaScript
+js-incremental-gc = Inkrementell GC
 a11y-title = Tillgänglighet
 a11y-activated = Aktiverad
 a11y-force-disabled = Förhindra tillgänglighet
+a11y-handler-used = Tillgänglig hanterare använd
+a11y-instantiator = Tillgänglighet instantiator
 library-version-title = Biblioteksversioner
 copy-text-to-clipboard-label = Kopiera text till urklipp
 copy-raw-data-to-clipboard-label = Kopiera rådata till urklipp
+sandbox-title = Sandlåda
+sandbox-sys-call-log-title = Avvisade systemanrop
 sandbox-sys-call-index = #
 sandbox-sys-call-age = Sekunder sedan
 sandbox-sys-call-pid = PID
 sandbox-sys-call-tid = TID
 sandbox-sys-call-proc-type = Processtyp
+sandbox-sys-call-number = Syscall
+sandbox-sys-call-args = Argument
 safe-mode-title = Prova felsäkert läge
 restart-in-safe-mode-label = Starta om utan tillägg…
+media-title = Media
+media-output-devices-title = Utmatningsenheter
+media-input-devices-title = Inmatningsenheter
+media-device-name = Namn
+media-device-group = Grupp
+media-device-vendor = Leverantör
+media-device-state = Status
+media-device-preferred = Önskad
+media-device-format = Format
+media-device-channels = Kanaler
+media-device-rate = Hastighet
+media-device-latency = Fördröjning
+intl-title = Internationalisering & lokalisering
+intl-app-title = Programinställningar
+intl-locales-requested = Begärda språkversioner
+intl-locales-available = Tillgängliga språkversioner
+intl-locales-supported = Språkversioner app
+intl-locales-default = Standardspråk
+intl-os-title = Operativsystem
+intl-os-prefs-system-locales = Språkversioner system
+intl-regional-prefs = Regionala inställningar
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -135,6 +178,8 @@ no = Nej
 ## In some development versions, it's expected for some API keys that they are
 ## not found.
 
+found = Hittad
+missing = Saknas
 gpu-description = Beskrivning
 gpu-vendor-id = Leverantörs-ID
 gpu-device-id = Enhets-ID
@@ -144,6 +189,16 @@ gpu-ram = RAM
 gpu-driver-version = Drivrutinsversion
 gpu-driver-date = Drivrutinsdatum
 gpu-active = Aktiv
+webgl1-wsiinfo = WebGL 1 drivrutinsinfo WSI
+webgl1-renderer = WebGL 1 drivrutinsrenderare
+webgl1-version = WebGL 1 drivrutinsversion
+webgl1-driver-extensions = WebGL 1 drivrutinsutökning
+webgl1-extensions = WebGL 1 utökning
+webgl2-wsiinfo = WebGL 2 drivrutinsinfo WSI
+webgl2-renderer = WebGL 2 drivrutinsrenderare
+webgl2-version = WebGL 2 drivrutinsversion
+webgl2-driver-extensions = WebGL 2 drivrutinsutökning
+webgl2-extensions = WebGL 2 utökning
 blocklisted-bug = Svartlistad på grund av kända problem
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
@@ -157,12 +212,28 @@ d3d9video-crash-buard = D3D9 Videoavkodare
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Återställ vid nästa omstart
 gpu-process-kill-button = Avsluta GPU process
+gpu-device-reset-button = Utlös återställning av enhet
+uses-tiling = Använder Tiling
+content-uses-tiling = Använder Tiling (innehåll)
+off-main-thread-paint-enabled = Målning utanför huvudtråden aktiverad
+off-main-thread-paint-worker-count = Målning utanför huvudtråden Worker-antal
+audio-backend = Ljudgränssnitt
+max-audio-channels = Max kanaler
+channel-layout = Önskad kanallayout
+sample-rate = Önskad samplingshastighet
 min-lib-versions = Förväntad minimiversion
 loaded-lib-versions = Version som används
 has-seccomp-bpf = Seccomp-BPF (Systemanropsfiltrering)
 has-seccomp-tsync = Seccomp-trådsynkronisering
 has-user-namespaces = Användarnamnområden
 has-privileged-user-namespaces = Användarnamnområden för privilegierade processer
+can-sandbox-content = Sandlåda för innehållsprocesser
+can-sandbox-media = Sandlåda för insticksmodul media
+content-sandbox-level = Sandlådenivå för innehållsprocess
+effective-content-sandbox-level = Effektiv sandlådenivå för innehållsprocess
+sandbox-proc-type-content = innehåll
+sandbox-proc-type-file = filinnehåll
+sandbox-proc-type-media-plugin = insticksmodul media
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -180,6 +251,8 @@ apz-none = ingen
 wheel-enabled = hjulinmatning aktiverad
 touch-enabled = tryckinmatning aktiverad
 drag-enabled = rullningslist är dragaktiverad
+keyboard-enabled = tangentbord aktiverad
+autoscroll-enabled = autoscroll aktiverad
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
