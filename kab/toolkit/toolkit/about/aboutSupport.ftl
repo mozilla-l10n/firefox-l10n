@@ -13,6 +13,16 @@ extensions-name = Isem
 extensions-enabled = Yettwarmed
 extensions-version = Lqem
 extensions-id = Asulay
+security-software-title = Aseγzan n taγlist
+security-software-type = Tawsit
+security-software-name = Isem
+security-software-antivirus = Amgal ivirusen
+security-software-antispyware = Amgal aneḍfer
+security-software-firewall = Aɣrab n tmes
+features-title = { -brand-short-name } Timahilin
+features-name = Isem
+features-version = Lqem
+features-id = ID
 app-basics-title = Iɣewwaṛen izaduren n usnas
 app-basics-name = Isem
 app-basics-version = Lqem
@@ -34,6 +44,8 @@ app-basics-performance = Tamellit
 app-basics-service-workers = Tanfa Workers iţwaklesen
 app-basics-profiles = Imeɣna
 app-basics-multi-process-support = Isfuyla agetakala
+app-basics-process-count = Ikalan n ugbur web
+app-basics-enterprise-policies = Tasertit n tkebbanit
 app-basics-key-google = Tasarut Google
 app-basics-key-mozilla = Tasarutt n umeẓlu n wadi Mozilla
 app-basics-safe-mode = Askar aɣelsan
@@ -68,6 +80,7 @@ js-incremental-gc = Amḥettit (GC) aseffansan
 a11y-title = Tuffart
 a11y-activated = Irmed
 a11y-force-disabled = Sewḥel tuffart
+a11y-handler-used = Accessible Handler ittwaseqdec
 library-version-title = Ileqman n temkarḍiyin
 copy-text-to-clipboard-label = Nɣel aḍris ɣeṛ "ɣef affus"
 copy-raw-data-to-clipboard-label = Nɣel talɣut tarewwayt ɣeṛ "ɣef affus"
@@ -82,6 +95,15 @@ sandbox-sys-call-number = Asiwel n unagraw
 sandbox-sys-call-args = Tiɣiriyin
 safe-mode-title = Ɛreḍ deg uskar aɣelsan
 restart-in-safe-mode-label = Ales asenker s izegrar irurmiden…
+media-device-preferred = imsenyafen
+intl-app-title = Iɣewwaṛen n usnas
+intl-locales-requested = Tutlayin ittwasutren
+intl-locales-available = Tutlayin yellan
+intl-locales-supported = Tutlayin n usnas
+intl-locales-default = Tutlayt tamezwert
+intl-os-title = Anagraw n wammud
+intl-os-prefs-system-locales = Tutlayin n unagraw
+intl-regional-prefs = Ismenyifen n temnaḍt
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -175,6 +197,9 @@ d3d9video-crash-buard = D3D9 Video Decoder
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Ales awennez deg usenker d-itteddun
 gpu-process-kill-button = Seḥbes akala GPU
+gpu-device-reset-button = Awennez n ibnek
+uses-tiling = Iseqdac akallaj
+off-main-thread-paint-worker-count = Uṭṭun n iseqdacen Painting beṛṛa n tnelli
 loaded-lib-versions = Lqem ittuseqdacen
 has-seccomp-bpf = Seccomp-BPF (Azizdeg n isawalen n unagraw)
 has-seccomp-tsync = Amtawi n tinelli n uselkem Seccomp
@@ -183,7 +208,9 @@ has-privileged-user-namespaces = Tallunt n yesmawen n useqdac i yikalan yezwaren
 can-sandbox-content = Amsersu i yikalan n ugbur
 can-sandbox-media = Amsersu i yizegrar aget-allalen n telɣut
 content-sandbox-level = Aswir n usersu n ukala n ugbur
+effective-content-sandbox-level = Aswir n usersu n ukala n ugbur
 sandbox-proc-type-content = agbur
+sandbox-proc-type-file = agbur n ufaylu
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -200,6 +227,7 @@ apz-none = ulac
 wheel-enabled = anekcum n tjaṛaṛt yermed
 touch-enabled = anekcum amennalan irmed
 drag-enabled = Adrurem nufeggag yettwarmed
+keyboard-enabled = anasiw yermed
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
@@ -208,3 +236,6 @@ wheel-warning = anekcum aramtawan ur yermid ara ɣef sebba n usmenyaf ur nettuse
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+policies-inactive = Insa
+policies-active = Urmid
+policies-error = Tuccḍa
