@@ -39,7 +39,11 @@ app-basics-user-agent = Agent utilisateur
 app-basics-os = Système d’exploitation
 app-basics-memory-use = Utilisation mémoire
 app-basics-performance = Performances
+app-basics-service-workers = Service workers inscrits
 app-basics-profiles = Profils
+app-basics-multi-process-support = Fenêtres multiprocessus
+app-basics-process-count = Processus de contenu web
+app-basics-enterprise-policies = Stratégies d’entreprise
 app-basics-key-google = Clé Google
 app-basics-key-mozilla = Clé du service de localisation de Mozilla
 app-basics-safe-mode = Mode sans échec
@@ -74,6 +78,7 @@ js-incremental-gc = Ramasse-miettes incrémentiel
 a11y-title = Accessibilité
 a11y-activated = Activée
 a11y-force-disabled = Empêcher l’accessibilité
+a11y-handler-used = Utilisation d’un gestionnaire accessible
 library-version-title = Versions des bibliothèques
 copy-text-to-clipboard-label = Copier le texte dans le presse-papiers
 copy-raw-data-to-clipboard-label = Copier les informations brutes dans le presse-papiers
@@ -88,6 +93,18 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Arguments
 safe-mode-title = Essayez en mode sans échec
 restart-in-safe-mode-label = Redémarrer avec les modules désactivés…
+media-title = Multimédia
+media-output-devices-title = Périphériques de sortie
+media-input-devices-title = Périphériques d’entrée
+media-device-name = Nom
+media-device-group = Groupe
+media-device-vendor = Fabricant
+media-device-state = État
+media-device-format = Format
+media-device-channels = Canaux
+media-device-rate = Fréquence
+media-device-latency = Latence
+intl-title = Langue et internationalisation
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -182,6 +199,12 @@ d3d9video-crash-buard = Décodeur vidéo D3D9
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Réinitialisé au prochain démarrage
 gpu-process-kill-button = Arrêter le processus GPU
+gpu-device-reset-button = Déclencher la réinitialisation de l’appareil
+content-uses-tiling = Utilise le pavage (contenu)
+off-main-thread-paint-enabled = Painting en dehors du fil d’exécution principal activé
+audio-backend = Backend audio
+channel-layout = Mode de canal préféré
+sample-rate = Fréquence d’échantillonnage préférée
 min-lib-versions = Version minimale attendue
 loaded-lib-versions = Version utilisée
 has-seccomp-bpf = Seccomp-BPF (Filtrage des appels système)
@@ -191,6 +214,7 @@ has-privileged-user-namespaces = Espace de noms utilisateur pour les processus p
 can-sandbox-content = Bac à sable pour les processus de contenu
 can-sandbox-media = Bac à sable pour les plugins multimédia
 content-sandbox-level = Niveau du bac à sable pour les processus de contenu
+effective-content-sandbox-level = Niveau effectif du bac à sable pour les processus de contenu
 sandbox-proc-type-content = contenu
 sandbox-proc-type-media-plugin = plugin multimédia
 # Variables
@@ -210,6 +234,7 @@ apz-none = aucun
 wheel-enabled = entrée molette activée
 touch-enabled = entrée tactile activée
 drag-enabled = faire glisser les barres de défilement
+keyboard-enabled = clavier activé
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
@@ -219,3 +244,6 @@ touch-warning = entrée tactile asynchrone désactivée en raison d’une préf�
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+policies-inactive = Inactives
+policies-active = Actives
+policies-error = Erreur
