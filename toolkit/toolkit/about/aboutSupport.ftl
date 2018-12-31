@@ -176,6 +176,7 @@ hardware-h264 = Décodage matériel H264
 main-thread-no-omtc = Fil d’exécution principal, pas d’OMTC
 yes = Oui
 no = Non
+unknown = Inconnu
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
@@ -183,6 +184,8 @@ no = Non
 
 found = Présente
 missing = Manquante
+gpu-process-pid = GPUProcessPid
+gpu-process = GPUProcess
 gpu-description = Description
 gpu-vendor-id = ID du vendeur
 gpu-device-id = ID du périphérique
