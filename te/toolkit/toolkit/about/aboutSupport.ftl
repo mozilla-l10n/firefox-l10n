@@ -3,12 +3,14 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 page-title = ట్రబుల్‌షూటింగ్ సమాచారము
+page-subtitle = మీరు ఒక సమస్యను పరిష్కరించుటకు ప్రయత్నించునప్పుడు మీకు ఉపయోగవంతంగా వుండగల సాంకేతిక సమాచారమును ఈ పేజీ కలిగివుంటుంది. మీరు { -brand-short-name } గురించిన వుమ్మడి ప్రశ్నలకు సమాధానముల కొరకు చూస్తుంటే, మా <a data-l10n-name="support-link">తోడ్పాటు వెబ్ సైట్</a> చూడండి.
 crashes-title = క్రాష్ నివేదికలు
 crashes-id = నివేదిక ID
 crashes-all-reports = అన్ని క్రాష్ నివేదికలు
 crashes-no-config = క్రాష్ నివేదికలను ప్రదర్శించుటకు ఈ అనువర్తనం ఆకృతీకరించలేదు.
 extensions-title = పొడిగింపులు
 extensions-name = పేరు
+extensions-id = ID
 app-basics-title = అనువర్తనం ప్రాధమికాలు
 app-basics-name = పేరు
 app-basics-build-id = బిల్డ్ ID
@@ -25,6 +27,7 @@ app-basics-build-config = నిర్మామ ఆకృతీకరణ
 app-basics-user-agent = వాడుకరి ప్రతినిధి
 app-basics-os = OS
 app-basics-memory-use = మెమొరీ వినియోగం
+app-basics-performance = పనితనం
 app-basics-service-workers = నమోదైన సర్వీస్ వర్కర్స్
 app-basics-profiles = ప్రొఫైల్స్
 app-basics-multi-process-support = మల్టీప్రోసెస్ విండోలు
@@ -32,6 +35,7 @@ app-basics-safe-mode = సురక్షిత రీతి
 modified-prefs-name = పేరు
 modified-prefs-value = విలువ
 user-js-title = user.js అభిరుచులు
+user-js-description = మీ ప్రొఫైల్ ఫోల్డర్ ఒక <a data-l10n-name="user-js-link">user.js ఫైలు</a> కలిగివుంది, అది { -brand-short-name } చే సృష్టించబడని అభీష్టాలను కలిగివుంటుంది.
 locked-prefs-name = పేరు
 locked-prefs-value = విలువ
 graphics-title = గ్రాఫిక్స్
@@ -40,6 +44,12 @@ graphics-diagnostics-title = డయాగ్నస్టిక్స్
 graphics-failure-log-title = వైఫల్యమైన లాగ్
 graphics-gpu1-title = GPU #1
 graphics-gpu2-title = GPU #2
+graphics-decision-log-title = డెసిషన్ లాగ్
+graphics-crash-guards-title = క్రాష్ గార్డ్ యొక్క నిలిపివేసిన ఫీచర్స్
+graphics-workarounds-title = పరిష్కారాలను
+place-database-title = స్థలాలు డేటాబేస్
+place-database-integrity = సమగ్రత
+place-database-verify-integrity = ఇంటెగ్రిటీ నిర్ధారించండి
 js-title = జావాస్క్రిప్ట్
 js-incremental-gc = ప్రవర్ధమాన GC
 a11y-title = సులభత
@@ -70,6 +80,7 @@ crashes-time-days =
         [one] { $days } రోజు క్రితం
        *[other] { $days } రోజుల క్రితం
     }
+text-copied = పాఠం క్లిప్‌బోర్డునకు కాపీతీయబడెను
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
@@ -77,6 +88,9 @@ blocked-driver = మీ గ్రాఫిక్స్ డ్రైవర్ వ
 blocked-gfx-card = పరిష్కరించని డ్రైవర్ సమస్యల కారణంగా మీ గ్రాఫిక్స్ కార్డ్ కొరకు నిరోధించబడెను.
 blocked-os-version = మీ ఆపరేటింగ్ సిస్టమ్ వర్షన్ కొరకు నిరోధించబడెను.
 blocked-mismatched-version = రిజిస్ట్రీ మరియు DLL మధ్య మీ గ్రాఫిక్స్ డ్రైవర్ వర్షన్ అసమతుల్యత నిరోధించారు.
+# Variables
+# $driverVersion - The graphics driver version string
+try-newer-driver = మీ గ్రాఫిక్స్ డ్రైవర్ వర్షన్ కొరకు నిరోధించబడెను. మీ గ్రాఫిక్స్ డ్రైవర్‌ను వర్షన్ { $driverVersion } కు లేదా కొత్తదానికి నవీకరించుటకు ప్రయత్నించు.
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType పారామితులు
@@ -98,6 +112,7 @@ gpu-ram = RAM
 gpu-driver-version = డ్రైవర్ రూపాంతరం
 gpu-driver-date = డ్రైవర్ తేది
 gpu-active = క్రియాశీలం
+webgl2-renderer = WebGL2 రెండరర్
 blocklisted-bug = తెలిసిన సమస్యలు కారణంగా జాబితా బ్లాక్
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
@@ -110,6 +125,7 @@ d3d11video-crash-guard = D3D11 వీడియో డికోడర్
 d3d9video-crash-buard = D3D11 వీడియో డికోడర్
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = తదుపరి పునఃప్రారంభించు రీసెట్
+gpu-process-kill-button = GPU క్రియలను ఆపివేయి
 min-lib-versions = కావలసిన కనీస వర్షన్
 loaded-lib-versions = వినియోగంలో వున్న వర్షన్
 has-seccomp-bpf = సెకండరీ కాంప్ - బిపిఎఫ్ (సిస్టమ్ కాల్ ఫిల్టరింగ్)
