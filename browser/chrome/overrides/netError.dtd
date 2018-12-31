@@ -106,6 +106,7 @@ was trying to connect. -->
 <!ENTITY certerror.introPara "L'autor de <span class='hostname'/> configurèt son site web incorrectament. Per protegir vòstras informacions del panatòri, &brandShortName; s'es pas connectat pas al site web.">
 
 
+<!ENTITY certerror.whatCanYouDoAboutItTitle "De qué podètz far ?">
 
 
 
@@ -120,6 +121,7 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Apondre une excepcion…">
+<!ENTITY securityOverride.exceptionButton1Label "Acceptar lo risc e contunhar">
 
 <!ENTITY errorReporting.automatic2 "Senhalar de talas errors ajuda Mozilla a identificar e blocar de sites malvolents">
 <!ENTITY errorReporting.learnMore "Ne saber mai…">
