@@ -15,20 +15,43 @@ extensions-id = ID
 app-basics-title = Основи за апликацијата
 app-basics-name = Име
 app-basics-version = Верзија
+app-basics-profile-dir =
+    { PLATFORM() ->
+        [linux] Директориум на профилот
+       *[other] Папка на профилот
+    }
 app-basics-enabled-plugins = Овозможени приклучоци
 app-basics-build-config = Конфигурација на изданието
 app-basics-user-agent = Кориснички агент
+app-basics-memory-use = Искористеност на меморија
 modified-prefs-name = Име
 modified-prefs-value = Вредност
 graphics-title = Графика
+js-title = JavaScript
+js-incremental-gc = Incremental GC
+library-version-title = Верзија на библиотеката
+copy-raw-data-to-clipboard-label = Копирај ги сировите податоци
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
+blocked-driver = Блокирано за верзијата на графичкиот драјвер.
+blocked-gfx-card = Блокирано за графичката картичка поради нерешени проблеми со драјверот.
+blocked-os-version = Блокирано за верзијата на оперативниот систем.
+# Variables
+# $driverVersion - The graphics driver version string
+try-newer-driver =
+    Блокирано за верзијата на графичкиот драјвер. Пробајте да го надградите
+    на верзија { $driverVersion } или понова.
+# "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
+# there are no good translations, these are only used in about:support
+clear-type-parameters = Параметри за ClearType
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
 ## not found.
 
+min-lib-versions = Очекувана минимална верзија
+loaded-lib-versions = Верзија во употреба
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
