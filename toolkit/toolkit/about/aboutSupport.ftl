@@ -6,6 +6,8 @@ extensions-id = ID
 app-basics-enabled-plugins = Plugin abilitæ
 app-basics-build-config = Crea preferensa
 modified-prefs-value = Valô
+js-title = JavaScript
+a11y-title = Acesibilitæ
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
