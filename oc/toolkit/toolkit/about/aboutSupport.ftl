@@ -2,6 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+page-title = Informacions de depanatge
+crashes-title = Rapòrts de plantatge
+crashes-id = Identificant del rapòrt
+crashes-all-reports = Rapòrts de plantatge
 extensions-title = Extensions
 extensions-name = Nom
 extensions-enabled = Activat
@@ -9,6 +13,8 @@ extensions-version = Version
 app-basics-title = Application Basics
 app-basics-name = Nome
 app-basics-version = Version
+app-basics-update-history = Istoric de las mesas a jorn
+app-basics-show-update-history = Afichar l'istoric de las mesas a jorn
 app-basics-profile-dir =
     { PLATFORM() ->
         [linux] Profile Directory
@@ -21,6 +27,8 @@ app-basics-memory-use = Utilizacion memòria
 modified-key-prefs-title = Preferéncias modificadas importantas
 modified-prefs-name = Nom
 modified-prefs-value = Valor
+user-js-title = preféréncias de user.js
+user-js-description = Vòtre dorsièr de perfil possedís un <a data-l10n-name="user-js-link">fichièr user.js</a> que conten las preferéncias que son pas estadas creadas per { -brand-short-name }.
 graphics-title = Acceleracion grafica
 js-title = JavaScript
 js-incremental-gc = Amassamicas incremental
