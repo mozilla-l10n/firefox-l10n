@@ -178,6 +178,8 @@ hardware-h264 = Aparatinis „H264“ iškodavimas
 main-thread-no-omtc = pagrindinė gija, be OMTC
 yes = Taip
 no = Ne
+unknown = Nežinomas
+virtual-monitor-disp = Virtual Monitor Display
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
@@ -185,6 +187,8 @@ no = Ne
 
 found = Rastas
 missing = Trūkstamas
+gpu-process-pid = GPUProcessPid
+gpu-process = GPUProcess
 gpu-description = Aprašymas
 gpu-vendor-id = Gamintojo ID
 gpu-device-id = Įrenginio ID
@@ -217,6 +221,7 @@ d3d9video-crash-buard = D3D9 vaizdo iškoduotuvas
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Atstatyti kito paleidimo metu
 gpu-process-kill-button = Sustabdyti GPU procesą
+gpu-device-reset = Įrenginio atstatymas
 gpu-device-reset-button = Sukelti įrenginio atkūrimą
 uses-tiling = Naudoja išdėstymą išklotine
 content-uses-tiling = Naudoja išdėstymą išklotine (turinys)
