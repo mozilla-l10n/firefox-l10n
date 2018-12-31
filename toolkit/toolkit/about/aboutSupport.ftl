@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+crashes-id = ID Laporan
+crashes-send-date = Dihantar
+crashes-no-config = APlikasi ini tidak dikonfigurkan untuk memaparkan laporan nahas.
 extensions-name = Nama
 extensions-version = Versi
 app-basics-name = Nama
