@@ -176,7 +176,7 @@ text-copied = Eilet eo bet an destenn er golver
 blocked-driver = Harzet evit handelv ho stur kevregat.
 blocked-gfx-card = Harzet evit ho kartenn gevregat en abeg da gudennoù nad int ket bet diskoulmet gant ar stur.
 blocked-os-version = Harzet evit handelv ho reizhiad korvoiñ.
-blocked-mismatched-version = Stanket eo bet dre ma ne glot ket handelv marilh ha levraoueg dialuskel ho sturier kevregad.{ " " }
+blocked-mismatched-version = Stanket eo bet dre ma ne glot ket handelv marilh ha levraoueg dialuskel ho sturier kevregad.
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Harzet evit handelv ho stur kevregat. Klaskit hizivaat ho stur kevregat gant an handelv { $driverVersion } pe nevesoc'h.
@@ -273,7 +273,7 @@ autoscroll-enabled = dibunañ emgefreek gweredekaet
 ## $preferenceKey (string) - String ID of preference
 
 wheel-warning = enankad rod angoubred diweredekaet abalamour d'ur wellvez anskor : { $preferenceKey }
-touch-warning = enankad stok angoubred diweredekaet abalamour d'ur wellvez anskor : { $preferenceKey }{ " " }
+touch-warning = enankad stok angoubred diweredekaet abalamour d'ur wellvez anskor : { $preferenceKey }
 
 ## Strings representing the status of the Enterprise Policies engine.
 
