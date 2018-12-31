@@ -130,7 +130,7 @@ report-crash-for-days =
 crashes-time-minutes =
     { $minutes ->
         [one] { $minutes } perce
-       *[other] { " " }{ $minutes } perce
+       *[other] { $minutes } perce
     }
 # Variables
 # $hours (integer) - Number of hours since crash
@@ -144,7 +144,7 @@ crashes-time-hours =
 crashes-time-days =
     { $days ->
         [one] { $days } napja
-       *[other] { " " }{ $days } napja
+       *[other] { $days } napja
     }
 # Variables
 # $reports (integer) - Number of pending reports
