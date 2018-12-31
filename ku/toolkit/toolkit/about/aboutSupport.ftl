@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 page-title = Agahiyên Tamîrkirinê
+page-subtitle = Ev rûpel ji bo dema ku tu pirsgirêkekê çareser bikî ji te re bibe alîkar, agahiyên teknîkî dihewîne. Eger li bersiva PPP yên { -brand-short-name } digerî, li <a data-l10n-name="support-link">malpera desteka webê</a> binêre.
 crashes-id = ID'a Raporkirinê
 extensions-title = Pêvek
 extensions-name = Nav
@@ -11,6 +12,7 @@ extensions-version = Guherto
 app-basics-title = Bingehên Sepanê
 app-basics-name = Nav
 app-basics-version = Guherto
+app-basics-show-update-history = Raboriya nûkirinan nîşan bide
 app-basics-enabled-plugins = Pêvekên Çalak
 app-basics-build-config = Mîhengên Avakirinê
 app-basics-user-agent = Navbeynkara Bikarhêner
@@ -25,6 +27,8 @@ a11y-title = Gihîştin
 ## In some development versions, it's expected for some API keys that they are
 ## not found.
 
+gpu-driver-version = Guhertoya Ajokarê
+gpu-driver-date = Dîroka Ajokarê
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
