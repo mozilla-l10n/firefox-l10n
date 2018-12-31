@@ -37,6 +37,8 @@ app-basics-performance = Перформансе
 app-basics-service-workers = Регистровани Service Workers
 app-basics-profiles = Профили
 app-basics-multi-process-support = Вишепроцесорски прозори
+app-basics-key-google = Google кључ
+app-basics-key-mozilla = Кључ Mozilla сервиса за локацију
 app-basics-safe-mode = Безбедни режим
 modified-key-prefs-title = Важне измењене поставке
 modified-prefs-name = Назив
@@ -67,6 +69,14 @@ library-version-title = Издања библиотека
 copy-text-to-clipboard-label = Копирај текст у бележницу
 copy-raw-data-to-clipboard-label = Копирај податке у бележницу
 sandbox-title = Sandbox
+sandbox-sys-call-log-title = Одбијени системски позиви
+sandbox-sys-call-index = #
+sandbox-sys-call-age = Пре неколико секунди
+sandbox-sys-call-pid = PID
+sandbox-sys-call-tid = TID
+sandbox-sys-call-proc-type = Тип процеса
+sandbox-sys-call-number = Системски позив
+sandbox-sys-call-args = Аргументи
 safe-mode-title = Покушај безбедни режим
 restart-in-safe-mode-label = Рестартуј са онемогућеним додацима…
 raw-data-copied = Подаци копирани у бележницу
@@ -94,6 +104,8 @@ no = не
 ## In some development versions, it's expected for some API keys that they are
 ## not found.
 
+found = Пронађено
+missing = Недостаје
 gpu-description = Опис
 gpu-vendor-id = ID продавца
 gpu-device-id = ID уређаја
@@ -103,7 +115,16 @@ gpu-ram = RAM
 gpu-driver-version = Верзија драјвера
 gpu-driver-date = Датум драјвера
 gpu-active = Активан
+webgl1-wsiinfo = WebGL 1 WSI информације драјвера
+webgl1-renderer = WebGL 1 Driver Renderer
+webgl1-version = WebGL 1 верзија драјвера
+webgl1-driver-extensions = WebGL 1 екстензија драјвера
+webgl1-extensions = WebGL 1 екстензије
+webgl2-wsiinfo = WebGL 2 WSI информације драјвера
 webgl2-renderer = WebGL2 Renderer
+webgl2-version = WebGL 2 верзија драјвера
+webgl2-driver-extensions = WebGL 2 екстензија драјвера
+webgl2-extensions = WebGL 2 екстензије
 blocklisted-bug = На црној листи због познатих проблема
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
@@ -116,6 +137,7 @@ d3d11video-crash-guard = D3D11 видео декодер
 d3d9video-crash-buard = D3D9 видео декодер
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Ресетуј при следећем покретању
+gpu-process-kill-button = Угаси GPU процес
 min-lib-versions = Очекивано минимално издање
 loaded-lib-versions = Издање у употреби
 has-seccomp-bpf = Seccomp-BPF (Системско филтрирање позива)
@@ -124,6 +146,9 @@ has-user-namespaces = Именски простор корисника
 has-privileged-user-namespaces = Именски простор корисника за привилеговане процесе
 can-sandbox-content = Sandboxing процеса садржаја
 can-sandbox-media = Sandboxing медија прикључак
+content-sandbox-level = Ниво Sandbox процеса садржаја
+sandbox-proc-type-content = садржај
+sandbox-proc-type-media-plugin = медија прикључак
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
