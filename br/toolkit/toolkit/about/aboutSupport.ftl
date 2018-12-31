@@ -14,6 +14,16 @@ extensions-name = Anv
 extensions-enabled = Gweredekaet
 extensions-version = Handelv
 extensions-id = Naoudi
+security-software-title = Meziant diogelroez
+security-software-type = Rizh
+security-software-name = Anv
+security-software-antivirus = Enepviruz
+security-software-antispyware = Meziant enep-spiañ
+security-software-firewall = Tanvoger
+features-title = Keweriusterioù { -brand-short-name }
+features-name = Anv
+features-version = Handelv
+features-id = Naoudi
 app-basics-title = Arventennoù diazez an arload
 app-basics-name = Anv
 app-basics-version = Handelv
@@ -35,6 +45,8 @@ app-basics-performance = Digonusted
 app-basics-service-workers = Labourerien gwazerezh marilhet
 app-basics-profiles = Aeladoù
 app-basics-multi-process-support = Prenestroù liesargerzh
+app-basics-process-count = Araezadoù endalc'hadoù web
+app-basics-enterprise-policies = Reolennoù embregerezh
 app-basics-key-google = Alc'hwez Google
 app-basics-key-mozilla = Alc'hwez Gwazerezh Lec'hiadur Mozilla
 app-basics-safe-mode = Mod diarvar
@@ -69,6 +81,8 @@ js-incremental-gc = Karzher azvuiadel
 a11y-title = Haezadusted
 a11y-activated = Gweredekaet
 a11y-force-disabled = Mirout ouzh an haezadusted
+a11y-handler-used = Implij un ardoer haezadusted
+a11y-instantiator = Ganer haezadusted
 library-version-title = Handelvoù ar mezarc'hioù
 copy-text-to-clipboard-label = Eilañ an destenn er golver
 copy-raw-data-to-clipboard-label = Eilañ ar roadenn diaoz er golver
@@ -83,6 +97,77 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Arguzennoù
 safe-mode-title = Klask ar mod diarvar
 restart-in-safe-mode-label = Adloc'hañ gant an askouezhioù diweredekaet…
+media-title = Media
+media-output-devices-title = Trevnadoù ec'hankañ
+media-input-devices-title = Trevnadoù enankañ
+media-device-name = Anv
+media-device-group = Strollad
+media-device-vendor = Gwerzher
+media-device-state = Stad
+media-device-preferred = Gwellañ din
+media-device-format = Mentrezh
+media-device-channels = Sanell
+media-device-rate = Feur
+media-device-latency = Dale
+intl-title = Etrevoradeladur & lec'hiadur
+intl-app-title = Arventennoù an arload
+intl-locales-requested = Yezhoù goulennet
+intl-locales-available = Yezhoù hegerz
+intl-locales-supported = Yezhoù an arload
+intl-locales-default = Yezh dre ziouer
+intl-os-title = Reizhiad korvoiñ
+intl-os-prefs-system-locales = Yezhoù ar reizhiad
+intl-regional-prefs = Gwellvezioù rannvroel
+# Variables
+# $days (Integer) - Number of days of crashes to log
+report-crash-for-days =
+    { $days ->
+        [one] Danevelloù sac'hadenn evit an devezh diwezhañ
+        [two] Danevelloù sac'hadenn evit an { $days } zevezh diwezhañ
+        [few] Danevelloù sac'hadenn evit an/ar { $days } devezh diwezhañ
+        [many] Danevelloù sac'hadenn evit ar { $days } a zeizioù diwezhañ
+       *[other] Danevelloù sac'hadenn evit an { $days } devezh diwezhañ
+    }
+# Variables
+# $minutes (integer) - Number of minutes since crash
+crashes-time-minutes =
+    { $minutes ->
+        [one] { $minutes } vunutenn zo
+        [two] { $minutes } vunutenn zo
+        [few] { $minutes } munutenn zo
+        [many] { $minutes } a vunutennoù zo
+       *[other] { $minutes } munutenn zo
+    }
+# Variables
+# $hours (integer) - Number of hours since crash
+crashes-time-hours =
+    { $hours ->
+        [one] { $hours } eur zo
+        [two] { $hours } eur zo
+        [few] { $hours } eur zo
+        [many] { $hours } a eurioù zo
+       *[other] { $hours } eur zo
+    }
+# Variables
+# $days (integer) - Number of days since crash
+crashes-time-days =
+    { $days ->
+        [one] { $days } deiz zo
+        [two] { $days } zeiz zo
+        [few] { $days } deiz zo
+        [many] { $days } a zeizioù zo
+       *[other] { $days } deiz zo
+    }
+# Variables
+# $reports (integer) - Number of pending reports
+pending-reports =
+    { $reports ->
+        [one] An holl zanevelloù sac'hadenn (enno { $reports } danevell war c'hortoz evit ur sac'hadenn bet degouezhet e-pad ar pennad)
+        [two] An holl zanevelloù sac'hadenn (enno { $reports } zanevell war c'hortoz evit ur sac'hadenn bet degouezhet e-pad ar pennad)
+        [few] An holl zanevelloù sac'hadenn (enno { $reports } danevell war c'hortoz evit ur sac'hadenn bet degouezhet e-pad ar pennad)
+        [many] An holl zanevelloù sac'hadenn (enno { $reports } a zanevelloù war c'hortoz evit sac'hadennoù bet degouezhet e-pad ar pennad)
+       *[other] An holl zanevelloù sac'hadenn (enno { $reports } danevell war c'hortoz evit ur sac'hadenn bet degouezhet e-pad ar pennad)
+    }
 raw-data-copied = Eilet eo bet ar roadenn diaoz er golver
 text-copied = Eilet eo bet an destenn er golver
 
@@ -142,7 +227,15 @@ d3d9video-crash-buard = Ezvoneger Video D3D9
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Adderaouekaat en adloc'hañ a zeu
 gpu-process-kill-button = Herzel ar araezad kevregad
+gpu-device-reset-button = Deluskañ adderaouekadur an trevnad
+uses-tiling = Arver an teolioù
+content-uses-tiling = Ober gant an teolioù (endalc'had)
+off-main-thread-paint-enabled = Pentañ e diavaez an neudenn erounezadur pennañ gweredekaet
+off-main-thread-paint-worker-count = Niver a worker o pentañ e diavaez an neudenn erounezadur pennañ
 audio-backend = Drekva aodio
+max-audio-channels = Niver a sanelloù uc'hek
+channel-layout = Mod sanell gwellañ karet
+sample-rate = Feur standilhon gwellañ karet
 min-lib-versions = Handelv izek gortozet
 loaded-lib-versions = Handelv en arver
 has-seccomp-bpf = Seccomp-BPF (Silañ ar galvoù reizhiad)
@@ -152,7 +245,9 @@ has-privileged-user-namespaces = Egor anvioù an arveriad evit araezadoù brient
 can-sandbox-content = Bailh traezh evit an argerzhioù endalc'had
 can-sandbox-media = Bailh traezh evit an enlugelladoù media
 content-sandbox-level = Bailh traezh evit an argerzhioù endalc'had
+effective-content-sandbox-level = Live gwerc'hel ar voest traezh evit ar c'hewerieroù endalc'had
 sandbox-proc-type-content = endalc'had
+sandbox-proc-type-file = endalc'had ar restr
 sandbox-proc-type-media-plugin = enlugellad media
 # Variables
 # $remoteWindows (integer) - Number of remote windows
@@ -171,6 +266,8 @@ apz-none = netra
 wheel-enabled = enankad rod gweredekaet
 touch-enabled = enankad stok gweredekaet
 drag-enabled = riklañ ar varrenn zibunañ gweredekaet
+keyboard-enabled = klavier gweredekaet
+autoscroll-enabled = dibunañ emgefreek gweredekaet
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
@@ -180,3 +277,6 @@ touch-warning = enankad stok angoubred diweredekaet abalamour d'ur wellvez ansko
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+policies-inactive = Dizoberiant
+policies-active = Oberiant
+policies-error = Fazi
