@@ -20,6 +20,7 @@ app-basics-profile-dir =
         [linux] Diretório do perfil
        *[other] Pasta do perfil
     }
+app-basics-memory-use = Utilização da memória
 app-basics-multi-process-support = Multi-processamento de janelas
 modified-key-prefs-title = Preferências importantes modificadas
 modified-prefs-name = Nome
