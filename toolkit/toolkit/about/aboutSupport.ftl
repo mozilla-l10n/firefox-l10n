@@ -7,15 +7,33 @@ extensions-title = పొడిగింపులు
 extensions-name = పేరు
 app-basics-title = అనువర్తనం ప్రాధమికాలు
 app-basics-name = పేరు
+app-basics-profile-dir =
+    { PLATFORM() ->
+        [linux] ప్రొఫైల్ డైరెక్టరీ
+       *[other] ప్రొఫైల్ సంచయం
+    }
 app-basics-enabled-plugins = చేతనపరచిన చొప్పింతలు
 app-basics-build-config = నిర్మామ ఆకృతీకరణ
 app-basics-user-agent = వాడుకరి ప్రతినిధి
+app-basics-memory-use = మెమొరీ వినియోగం
 modified-prefs-name = పేరు
 modified-prefs-value = విలువ
 graphics-title = గ్రాఫిక్స్
+js-title = జావాస్క్రిప్ట్
+js-incremental-gc = ప్రవర్ధమాన GC
+a11y-title = సులభత
+a11y-activated = క్రియాశీలమైంది
+a11y-force-disabled = సులభత నిరోధించు
+library-version-title = లైబ్రరీ వర్షన్స్
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
+blocked-driver = మీ గ్రాఫిక్స్ డ్రైవర్ వర్షన్ కొరకు నిరోధించబడెను.
+blocked-gfx-card = పరిష్కరించని డ్రైవర్ సమస్యల కారణంగా మీ గ్రాఫిక్స్ కార్డ్ కొరకు నిరోధించబడెను.
+blocked-os-version = మీ ఆపరేటింగ్ సిస్టమ్ వర్షన్ కొరకు నిరోధించబడెను.
+# "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
+# there are no good translations, these are only used in about:support
+clear-type-parameters = ClearType పారామితులు
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
