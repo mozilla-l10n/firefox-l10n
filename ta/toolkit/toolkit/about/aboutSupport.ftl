@@ -13,6 +13,7 @@ extensions-title = நீட்சிகள்
 extensions-name = பெயர்
 extensions-enabled = செயல்படுத்தப்பட்டது
 extensions-version = பதிப்பு
+extensions-id = ID
 features-title = { -brand-short-name } அம்சங்கள்
 features-name = பெயர்
 features-version = பதிப்பு
