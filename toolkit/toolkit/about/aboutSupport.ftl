@@ -20,6 +20,8 @@ modified-prefs-value = Luach
 graphics-title = Grafaigean
 js-title = JavaScript
 js-incremental-gc = GC ceum air cheum
+a11y-title = Inntrigeachd
+a11y-activated = Air gnìomhachadh
 library-version-title = Tionndaidhean leabharlainn
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
