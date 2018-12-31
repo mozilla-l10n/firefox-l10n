@@ -10,14 +10,29 @@ extensions-version = Inguqulo
 app-basics-title = Okujwayelekile kohlelo lokusebenza
 app-basics-name = Igama
 app-basics-version = Inguqulo
+app-basics-profile-dir =
+    { PLATFORM() ->
+        [linux] Isiqondisi seprofayela
+       *[other] Ifolda lephrofayela
+    }
 app-basics-enabled-plugins = Yenza kusebenze okuxhunyaniswayo
 app-basics-build-config = Ukuhlelwa kokulungisa
 app-basics-user-agent = Ummeli womsebenzisi
+app-basics-memory-use = Ukusetshenziswa kwememori
 modified-key-prefs-title = Izintandokazi eziguquliwe ezibalulekile
 modified-prefs-name = Igama
 user-js-title = Izintandokazi zika user.js
+user-js-description = Ifolda yakho yephrofayela iqukethe <a data-l10n-name="user-js-link">user.js file</a>, okubandakanya izintandwa ezingakhwanga yi-{ -brand-short-name }.
 graphics-title = Imibukiso
+js-title = JavaScript
+js-incremental-gc = GC encane kakhulu
+a11y-title = Ukungena kulo
+a11y-activated = Yenza kusebenze
+a11y-force-disabled = Vimbela Ukufinyeleleka
+library-version-title = Izinguqulo zelabhulali
 copy-text-to-clipboard-label = Kopishela umbhalo ku-clipboard
+copy-raw-data-to-clipboard-label = Kopisha ulwazi olungakasetshenziswa kwi-clipboard
+raw-data-copied = Ulwazi olungakasetsheziswa lukopishiwe ku-clipboard
 text-copied = Umbhalo ukopishiwe ku-clipboard
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
