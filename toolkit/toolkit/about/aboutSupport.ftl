@@ -14,6 +14,10 @@ extensions-name = नाम
 extensions-enabled = सक्षम पारिएको
 extensions-version = संस्करण
 extensions-id = ID
+features-title = { -brand-short-name } विशेषताहरु
+features-name = नाम
+features-version = संस्करण
+features-id = ID
 app-basics-title = अनुप्रयोगका आधारहरू
 app-basics-name = नाम
 app-basics-version = संस्करण
@@ -35,6 +39,9 @@ app-basics-performance = कार्यसम्पादन
 app-basics-service-workers = दर्ता भएका Service Workers
 app-basics-profiles = प्रोफाइलहरू
 app-basics-multi-process-support = बहुप्रक्रिया सञ्झ्यालहरू
+app-basics-process-count = वेब सामग्री प्रक्रियाहरू
+app-basics-key-google = Google कुञ्जी
+app-basics-key-mozilla = Mozilla स्थान सेवा कुञ्जी
 app-basics-safe-mode = सुरक्षित मोड
 show-dir-label =
     { PLATFORM() ->
@@ -67,12 +74,34 @@ js-incremental-gc = Incremental GC
 a11y-title = पहुँचता
 a11y-activated = सक्रिय गरिएको
 a11y-force-disabled = पहुँच सेटिङ रोक्नुहोस
+a11y-handler-used = पहुँचयोग्य परिचालक प्रयोग गरियो
+a11y-instantiator = पहुँचता बनाउने
 library-version-title = लाईब्रेरी संस्करणहरू
 copy-text-to-clipboard-label = क्लिपबोर्डमा पाठ प्रतिलिपि गर्नुहोस्
 copy-raw-data-to-clipboard-label = क्लिपबोर्डमा कच्चा डाटा प्रतिलिपि गर्नुहोस्
 sandbox-title = स्यान्डबक्स
+sandbox-sys-call-log-title = अस्वीकृत प्रणाली कलहरू
+sandbox-sys-call-index = #
+sandbox-sys-call-age = सेकेन्ड अगाडी
+sandbox-sys-call-pid = PID
+sandbox-sys-call-tid = TID
+sandbox-sys-call-proc-type = प्रक्रियाको प्रकार
+sandbox-sys-call-number = प्रणाली कल
+sandbox-sys-call-args = तर्कहरू
 safe-mode-title = सुरक्षित मोड प्रयास गर्नुहोस
 restart-in-safe-mode-label = एडअनहरू अक्षम पारेर पुनः सुरु गर्नुहोस...
+media-title = सञ्चार
+media-output-devices-title = निर्गत यन्त्रहरु
+media-input-devices-title = आगत यन्त्रहरू
+media-device-name = नाम
+media-device-group = समूह
+media-device-vendor = बिक्रेता
+media-device-state = स्थिति
+media-device-preferred = रुचाइएको
+media-device-format = ढाँचा
+media-device-channels = च्यानलहरू
+media-device-rate = दर
+media-device-latency = विलम्बता
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -124,6 +153,7 @@ try-newer-driver = तपाईँको ग्राफिक्स ड्र�
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType परामितिहरू
 compositing = सम्मिश्रण गरिँदै
+hardware-h264 = हार्डवेयर H264 असङ्केतन
 main-thread-no-omtc = मुख्य थ्रेड, OMTC छैन
 yes = हो
 no = होइन
@@ -132,6 +162,8 @@ no = होइन
 ## In some development versions, it's expected for some API keys that they are
 ## not found.
 
+found = फेला पर्यो
+missing = हराइरहेको छ
 gpu-description = विवरण
 gpu-vendor-id = बिक्रेता आईडी
 gpu-device-id = यन्त्र आइडी
@@ -141,6 +173,16 @@ gpu-ram = RAM
 gpu-driver-version = ड्राइभर संस्करण
 gpu-driver-date = ड्राइभर मिति
 gpu-active = सक्रिय
+webgl1-wsiinfo = WebGL 1 ड्राइभर WSI जानकारी
+webgl1-renderer = WebGL 1 ड्राइभर रेन्डरर
+webgl1-version = WebGL 1 ड्राइभर संस्करण
+webgl1-driver-extensions = WebGL 1 ड्राइभर एक्सटेन्सनहरू
+webgl1-extensions = WebGL 1 एक्सटेन्सनहरू
+webgl2-wsiinfo = WebGL 2 ड्राइभर WSI जानकारी
+webgl2-renderer = WebGL 2 ड्राइभर रेन्डरर
+webgl2-version = WebGL 2 ड्राइभर संस्करण
+webgl2-driver-extensions = WebGL 2 ड्राइभर एक्सटेन्सनहरू
+webgl2-extensions = WebGL 2 एक्सटेन्सनहरू
 blocklisted-bug = ज्ञात मुद्दाहरूका कारण अबरुद्दसुचीमा राखिएको
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
@@ -153,7 +195,12 @@ d3d11video-crash-guard = D3D11 भिडियो डीकोडर
 d3d9video-crash-buard = D3D9 भिडियो डिकोडर
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = अर्को पुन:सुचारु गर्दा रिसेट गर्नुहोस्
+gpu-device-reset-button = उपकरण रिसेट ट्रिगर गर्नुहोस्
+off-main-thread-paint-enabled = बन्द मुख्य थ्रेड चित्रकला सक्षम गर्नुहोस्
 audio-backend = अडियो ब्याकइन्ड
+max-audio-channels = अधिकतम च्यानलहरु
+channel-layout = रुचाइएको च्यानल आवरण
+sample-rate = रुचाइएको नमूना दर
 min-lib-versions = अपेक्षित न्यूनतम संस्करण
 loaded-lib-versions = प्रयोगमा रहेको संस्करण
 has-seccomp-bpf = Seccomp-BPF (सिस्टम कल फ़िल्टरिङ्ग)
@@ -163,6 +210,9 @@ has-privileged-user-namespaces = विशेषाधिकार प्रा�
 can-sandbox-content = सामग्री प्रक्रिया स्यान्डबक्सिङ्ग
 can-sandbox-media = मिडिया प्लगइन स्यान्डबक्सिङ्ग
 content-sandbox-level = सामग्री प्रक्रिया स्यान्डबक्सिङ्ग
+effective-content-sandbox-level = प्रभावकारी सामग्री प्रक्रिया स्यान्डबक्स तह
+sandbox-proc-type-content = सामग्री
+sandbox-proc-type-media-plugin = मिडिया प्लगइन
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -180,6 +230,8 @@ apz-none = कुनै पनि होइन
 wheel-enabled = व्हील निवेश सक्रिय
 touch-enabled = स्पर्श निवेश सक्रिय
 drag-enabled = स्क्रोलबार तान्ने सक्रिय
+keyboard-enabled = कुञ्जीपाटी सक्षम गरिएको
+autoscroll-enabled = स्वतःस्क्रोल सक्षम गरिएको
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
