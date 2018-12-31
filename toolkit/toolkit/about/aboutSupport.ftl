@@ -24,8 +24,11 @@ app-basics-enabled-plugins = Овозможени приклучоци
 app-basics-build-config = Конфигурација на изданието
 app-basics-user-agent = Кориснички агент
 app-basics-memory-use = Искористеност на меморија
+modified-key-prefs-title = Важни променети параметри
 modified-prefs-name = Име
 modified-prefs-value = Вредност
+user-js-title = Поставки за user.js
+user-js-description = Вашата папка за профил содржи <a data-l10n-name="user-js-link">user.js датотека</a>, која што вклучува поставки што не биле создадени од { -brand-short-name }.
 graphics-title = Графика
 js-title = JavaScript
 js-incremental-gc = Incremental GC
@@ -62,6 +65,8 @@ loaded-lib-versions = Верзија во употреба
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
+multi-process-status-4 = Оневозможено од алатките за пристапност
+drag-enabled = влечење на лизгач овозможено
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
