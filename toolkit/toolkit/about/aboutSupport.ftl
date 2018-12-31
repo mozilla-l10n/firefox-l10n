@@ -2,6 +2,21 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+page-title = Probleemide lahendamise teave
+page-subtitle =
+    See leht sisaldab tehnilist teavet, mis võib olla kasulik probleemide lahendamisel.
+    Kui otsid vastuseid { -brand-short-name }i puudutavatele enamlevinud küsimustele, siis
+    külasta meie <a data-l10n-name="support-link">tugiveebi</a>.
+crashes-title = Vearaportid
+crashes-id = Raporti ID
+crashes-send-date = Saatmise aeg
+crashes-all-reports = Kõik vearaportid
+crashes-no-config = See rakendus pole häälestatud vearaporteid kuvama.
+extensions-title = Laiendused
+extensions-name = Nimi
+extensions-enabled = Lubatud
+extensions-version = Versioon
+extensions-id = ID
 security-software-title = Turvatarkvara
 security-software-type = Tüüp
 security-software-name = Nimi
@@ -12,19 +27,65 @@ features-title = { -brand-short-name }i erifunktsioonid
 features-name = Nimi
 features-version = Versioon
 features-id = ID
+app-basics-title = Rakendusest
+app-basics-name = Nimi
+app-basics-version = Versioon
+app-basics-build-id = Kompileerimise ID
+app-basics-update-channel = Uuendustekanal
+app-basics-update-history = Uuenduste ajalugu
 app-basics-show-update-history = Kuva uuenduste ajalugu
+app-basics-profile-dir =
+    { PLATFORM() ->
+        [linux] Profiili kaust
+       *[other] Profiili kaust
+    }
+app-basics-enabled-plugins = Lubatud pluginad
+app-basics-build-config = Kompileerimise konfiguratsioon
+app-basics-user-agent = Identifikaator
+app-basics-os = OS
+app-basics-memory-use = Mälukasutus
+app-basics-performance = Jõudlus
+app-basics-service-workers = Registreeritud Service Workerid
+app-basics-profiles = Profiilid
 app-basics-multi-process-support = Mitme protsessiga aknad
 app-basics-process-count = Veebisisu protsessid
 app-basics-enterprise-policies = Rühmapoliitikad
 app-basics-key-google = Google võti
 app-basics-key-mozilla = Mozilla asukohateenuse võti
+app-basics-safe-mode = Ohutu režiim
+modified-key-prefs-title = Olulised muudetud eelistused
+modified-prefs-name = Nimi
+modified-prefs-value = Väärtus
+user-js-title = user.js eelistused
+user-js-description = Sinu profiili kaust sisaldab <a data-l10n-name="user-js-link">user.js faili</a>, milles on kirjas eelistused, mida pole loonud { -brand-short-name }.
+locked-key-prefs-title = Olulised lukustatud eelistused
+locked-prefs-name = Nimi
+locked-prefs-value = Väärtus
+graphics-title = Graafika
+graphics-features-title = Funktsionaalsus
+graphics-diagnostics-title = Diagnostika
+graphics-failure-log-title = Vealogi
+graphics-gpu1-title = 1. GPU
+graphics-gpu2-title = 2. GPU
+graphics-decision-log-title = Otsuste logi
+graphics-crash-guards-title = Vigade vältimise tõttu keelatud funktsionaalsus
+graphics-workarounds-title = Hädalahendused
+place-database-title = Asukohtade andmebaas
+place-database-integrity = Terviklus
 place-database-verify-integrity =
     Verifitseeri terviklus
     { "" }
+js-title = JavaScript
+js-incremental-gc = Inkrementaalne GC
+a11y-title = Hõlbustus
+a11y-activated = Aktiveeritud
+a11y-force-disabled = Hõlbustus on keelatud
 a11y-handler-used = Accessible Handler Used
 a11y-instantiator = Accessibility Instantiator
+library-version-title = Teekide versioonid
 copy-text-to-clipboard-label = Kopeeri tekst
 copy-raw-data-to-clipboard-label = Kopeeri vormindamata andmed
+sandbox-title = Aedik
 sandbox-sys-call-log-title = Tagasilükatud süsteemikutsed
 sandbox-sys-call-index = #
 sandbox-sys-call-age = sekundit tagasi
@@ -33,6 +94,8 @@ sandbox-sys-call-tid = TID
 sandbox-sys-call-proc-type = Protsessi tüüp
 sandbox-sys-call-number = Süsteemikutse
 sandbox-sys-call-args = Argumendid
+safe-mode-title = Proovi ohutut režiimi
+restart-in-safe-mode-label = Taaskäivita koos lisade keelamisega…
 media-title = Meedia
 media-output-devices-title = Väljundseadmed
 media-input-devices-title = Sisendseadmed
