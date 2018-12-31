@@ -3,6 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 page-title = Troubleshooting Information
+page-subtitle =
+    This page contains technical information that might be useful when you're
+    trying to solve a problem. If you are looking for answers to common questions
+    about { -brand-short-name }, check out our <a data-l10n-name="support-link">support web site</a>.
 crashes-title = Crash Reports
 crashes-id = Report ID
 crashes-send-date = Submitted
@@ -56,6 +60,7 @@ user-js-description = Your profile folder contains a <a data-l10n-name="user-js-
 locked-key-prefs-title = Important Locked Preferences
 locked-prefs-name = Name
 locked-prefs-value = Value
+graphics-title = Graphics
 graphics-features-title = Features
 graphics-diagnostics-title = Diagnostics
 graphics-failure-log-title = Failure Log
