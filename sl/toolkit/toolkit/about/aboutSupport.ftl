@@ -6,6 +6,12 @@ extensions-id = ID
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
+blocked-driver = Onemogočeno za vaš grafični gonilnik.
+blocked-gfx-card = Onemogočeno za vašo grafično kartico zaradi težav z gonilnikom.
+blocked-os-version = Onemogočeno za vaš operacijski sistem.
+# Variables
+# $driverVersion - The graphics driver version string
+try-newer-driver = Onemogočeno za vaš grafični gonilnik. Poskusite ga posodobiti na različico { $driverVersion } ali novejšo.
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
