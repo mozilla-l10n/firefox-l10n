@@ -3,6 +3,11 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 page-title = Inligting vir probleemoplossing
+crashes-title = Omvalverslae
+crashes-id = Verslag-ID
+crashes-send-date = Ingedien
+crashes-all-reports = Alle omvalverslae
+crashes-no-config = Hierdie program is nie opgestel om omvalverslae te wys nie.
 extensions-title = Uitbreidings
 extensions-name = Naam
 extensions-enabled = Geaktiveer
@@ -10,6 +15,8 @@ extensions-version = Weergawe
 app-basics-title = Basiese toepassingdetails
 app-basics-name = Naam
 app-basics-version = Weergawe
+app-basics-update-history = Bywerkgeskiedenis
+app-basics-show-update-history = Wys bywerkgeskiedenis
 app-basics-profile-dir =
     { PLATFORM() ->
         [linux] Profielgids
@@ -21,12 +28,46 @@ app-basics-user-agent = Gebruikeragent
 app-basics-memory-use = Geheuegebruik
 modified-key-prefs-title = Belangrike voorkeure wat verander is
 modified-prefs-name = Naam
+user-js-title = Voorkeure in user.js
+user-js-description = U profielgids bevat 'n <a data-l10n-name="user-js-link">user.js-lêer</a>, wat voorkeure bevat wat nie deur { -brand-short-name } geskep is nie.
 graphics-title = Grafika
 js-title = JavaScript
 a11y-title = Toeganklikheid
 a11y-activated = Geaktiveer
 a11y-force-disabled = Voorkom toeganklikheid
 library-version-title = Biblioteekweergawes
+copy-text-to-clipboard-label = Kopieer teks na die knipbord
+copy-raw-data-to-clipboard-label = Kopieer rou data na die knipbord
+# Variables
+# $days (Integer) - Number of days of crashes to log
+report-crash-for-days =
+    { $days ->
+        [one] Omvalverslae vir die afgelope { $days } dag
+       *[other] Omvalverslae vir die afgelope { $days } dae
+    }
+# Variables
+# $minutes (integer) - Number of minutes since crash
+crashes-time-minutes =
+    { $minutes ->
+        [one] { $minutes } minuut gelede
+       *[other] { $minutes } minute gelede
+    }
+# Variables
+# $hours (integer) - Number of hours since crash
+crashes-time-hours =
+    { $hours ->
+        [one] { $hours } uur gelede
+       *[other] { $hours } ure gelede
+    }
+# Variables
+# $days (integer) - Number of days since crash
+crashes-time-days =
+    { $days ->
+        [one] { $days } dag gelede
+       *[other] { $days } dae gelede
+    }
+raw-data-copied = Rou data na die knipbord gekopieer
+text-copied = Teks na die knipbord gekopieer
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
