@@ -30,6 +30,39 @@ a11y-activated = Задзейнічаны
 a11y-force-disabled = Прадухіліць даступнасць
 library-version-title = Версіі бібліятэк
 copy-text-to-clipboard-label = Скапіяваць тэкст у буфер абмену
+# Variables
+# $days (Integer) - Number of days of crashes to log
+report-crash-for-days =
+    { $days ->
+        [one] Справаздачы пра крахі за { $days } апошні дзень
+        [few] Справаздачы пра крахі за { $days } апошнія дні
+       *[many] Справаздачы пра крахі за { $days } апошніх дзён
+    }
+# Variables
+# $minutes (integer) - Number of minutes since crash
+crashes-time-minutes =
+    { $minutes ->
+        [one] { $minutes } хвіліна таму
+        [few] { $minutes } хвіліны таму
+       *[many] { $minutes } хвілінаў таму
+    }
+# Variables
+# $hours (integer) - Number of hours since crash
+crashes-time-hours =
+    { $hours ->
+        [one] { $hours } гадзіна таму
+        [few] { $hours } гадзіны таму
+       *[many] { $hours } гадзінаў таму
+    }
+# Variables
+# $reports (integer) - Number of pending reports
+pending-reports =
+    { $reports ->
+        [one] Усе справаздачы пра крахі (уключаючы { $reports } адкладзены крах у дадзеным перыядзе)
+        [few] Усе справаздачы пра крахі (уключаючы { $reports } адкладзеныя крахі з дадзеным перыядзе)
+       *[many] Усе справаздачы пра крахі (уключаючы { $reports } адкладзеных крахаў у дадзеным перыядзе)
+    }
+text-copied = Тэкст скапіяваны ў буфер абмену
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
