@@ -14,6 +14,16 @@ extensions-name = Ad
 extensions-enabled = Aktivdir
 extensions-version = Buraxılış
 extensions-id = ID
+security-software-title = Təhlükəsizlik Proqramı
+security-software-type = Növü
+security-software-name = Adı
+security-software-antivirus = Antivirus
+security-software-antispyware = Antispyware
+security-software-firewall = Qoruyucu divar
+features-title = { -brand-short-name } Özəllikləri
+features-name = Ad
+features-version = Versiya
+features-id = ID
 app-basics-title = Proqramın əsasları
 app-basics-name = Ad
 app-basics-version = Buraxılış
@@ -35,6 +45,9 @@ app-basics-performance = Məhsuldarlıq
 app-basics-service-workers = Qeyd Olunmuş Service Worker-lar
 app-basics-profiles = Profillər
 app-basics-multi-process-support = Çox əməliyyatlı Pəncərələr
+app-basics-process-count = Web Məzmun Emalçıları
+app-basics-enterprise-policies = Sahibkarlıq Siyasəti
+app-basics-key-mozilla = Mozilla Mövqe Xidməti Açarı
 app-basics-safe-mode = Təhlükəsiz Rejim
 show-dir-label =
     { PLATFORM() ->
@@ -67,12 +80,38 @@ js-incremental-gc = Əlavə GC
 a11y-title = Əlçatanlıq
 a11y-activated = Aktivləşdirilib
 a11y-force-disabled = Əlçatanlığın qarşısını al
+a11y-handler-used = Əlçatılan işləyicilər istifadə edilib
+a11y-instantiator = Əlçatanlıq başladıcı
 library-version-title = Kitabxana versiyaları
 copy-text-to-clipboard-label = Mətni buferə köçür
 copy-raw-data-to-clipboard-label = Xam məlumatı buferə köçür
 sandbox-title = Qum qutusu
+sandbox-sys-call-log-title = Rədd edilən sistem çağrıları
+sandbox-sys-call-index = #
+sandbox-sys-call-number = Sistem çağrısı
 safe-mode-title = Təhlükəsiz Modu Yoxlayın
 restart-in-safe-mode-label = Əlavələr sönülü olaraq yenidən başlat…
+media-title = Media
+media-output-devices-title = Çıxış cihazları
+media-input-devices-title = Giriş cihazları
+media-device-name = Ad
+media-device-group = Qrup
+media-device-vendor = Təminatçı
+media-device-state = Vəziyyəti
+media-device-preferred = Üstün tutulan
+media-device-format = Format
+media-device-channels = Kanallar
+media-device-rate = Tempi
+media-device-latency = Ləngimə
+intl-title = Beynəlmiləlləşdirmə və Lokallaşdırma
+intl-app-title = Tətbiqetmə Tənzimləmələri
+intl-locales-requested = İstənilən Dillər
+intl-locales-available = Mövcud Dillər
+intl-locales-supported = Tətbiq Dilləri
+intl-locales-default = Ön seçili dil
+intl-os-title = Əməliyyat Sistemi
+intl-os-prefs-system-locales = Sistem Dilləri
+intl-regional-prefs = Regional Nizamlamalar
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -142,24 +181,41 @@ gpu-ram = RAM
 gpu-driver-version = Sürücü versiyası
 gpu-driver-date = Sürücü tarixi
 gpu-active = Aktiv
+webgl1-renderer = WebGL 1 Sürücü Renderer-i
 webgl2-renderer = WebGL2 Vizuallaşdırıcı
 blocklisted-bug = Bilinən xətalara görə qara siyahıya alındı
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = xəta { $bugNumber }
+# Variables
+# $failureCode (string) - String that can be searched in the source tree.
+unknown-failure = Əngəlləndi; xəta kodu { $failureCode }
 d3d11layers-crash-guard = D3D11 Compositor
 d3d11video-crash-guard = D3D11 Video Dekodlayıcı
 d3d9video-crash-buard = D3D9 Video Dekodlayıcı
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Sonrakı yenidən başlatmada sıfırla
+gpu-process-kill-button = GPU Prosesi Dayandır
+gpu-device-reset-button = Cihaz sıfırlamanı tətiklə
+uses-tiling = Lövhəcik işlədir
+content-uses-tiling = Lövhə işlədir (Məzmun)
+off-main-thread-paint-enabled = Sönülü əsas bağın rənglənməsi aktivdir
+off-main-thread-paint-worker-count = Sönülü əsas bağın rənglənməsi işçi sayı
+audio-backend = Səs arxa tərəfi
+max-audio-channels = Maksimum kanal
+channel-layout = Üstünlük verilən kanal düzülüşü
+sample-rate = Üstünlük verilən nümunə tempi
 min-lib-versions = Gözlənilən minimum versiya
 loaded-lib-versions = İstifadə olunan versiya
+has-seccomp-bpf = Seccomp-BPF (Sistem Çağırışı Filtrləmə)
 has-seccomp-tsync = Seccomp əməliyyat sinxronlaşdırması
 has-user-namespaces = İstifadəçi ad boşluqları
 has-privileged-user-namespaces = Üstün səlahiyyətli əməliyyatlar üçün İstifadəçi ad boşluqları
 can-sandbox-content = Məzmun İşləmə Sandbox-u
 can-sandbox-media = Media Qoşması Sandbox-u
 content-sandbox-level = Məzmun İşləmə Sandbox Səviyyəsi
+effective-content-sandbox-level = Effektiv məzmun emalı Sandbox səviyyəsi
+sandbox-proc-type-file = fayl məzmunu
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -171,11 +227,14 @@ multi-process-status-4 = Mümkünlük alətləri tərəfindən söndürülüb
 multi-process-status-6 = Dəstəklənməyən mətn girişi tərəfindən söndürülüb
 multi-process-status-7 = Əlavələr tərəfindən söndürülüb
 multi-process-status-8 = Zorla söndürüldü
+multi-process-status-unknown = Bilinməyən durum
 async-pan-zoom = Asinxron Sürüşdür/Yaxınlaşdır
 apz-none = heç biri
 wheel-enabled = təkər girişi aktivdir
 touch-enabled = toxunma girişi aktivdir
 drag-enabled = sürüşdürmə zolağının diyirləndirmə açıqdır
+keyboard-enabled = klaviatura aktivdir
+autoscroll-enabled = avtomatik sürüşdürmə aktivdir
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
@@ -185,3 +244,6 @@ touch-warning = dəstəklənməyən seçimdən dolayı asinxron toxunma girişi 
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+policies-inactive = Passiv
+policies-active = Aktiv
+policies-error = Xəta
