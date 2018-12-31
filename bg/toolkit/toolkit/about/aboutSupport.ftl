@@ -3,9 +3,11 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 page-subtitle = Тази страница съдържа техническа информация, която може да ви е от полза, когато се опитвате да решите проблем. Ако търсите отговори на често задавани въпроси за { -brand-short-name }, проверете в нашата <a data-l10n-name="support-link">страница за поддръжка</a>.
+crashes-title = Доклади за сривове
 crashes-send-date = Изпратен
 crashes-all-reports = Всички доклади за сривове
 extensions-title = Разширения
+extensions-enabled = Включено
 extensions-version = Версия
 extensions-id = ID
 app-basics-title = Основни за приложението
@@ -29,24 +31,29 @@ app-basics-safe-mode = Надежден режим
 modified-key-prefs-title = Важни променени настройки
 modified-prefs-value = Стойност
 user-js-title = Настройки от user.js
+user-js-description = Папката с вашия профил съдържа файла <a data-l10n-name="user-js-link">user.js</a>, в който има потребителски, не създадени от { -brand-short-name } настройки.
 locked-key-prefs-title = Важни заключени настройки
 locked-prefs-value = Стойност
 graphics-title = Изчертаване
 graphics-features-title = Възможности
+graphics-diagnostics-title = Диагностика
 graphics-failure-log-title = Журнал на грешките
 graphics-gpu1-title = GPU #1
 graphics-gpu2-title = GPU #2
 graphics-decision-log-title = Журнал на решенията
 graphics-crash-guards-title = Изключени възможности на защитата от сривове
 graphics-workarounds-title = Заобикаляния
+place-database-title = База от данни на Places
 place-database-integrity = Цялост
 place-database-verify-integrity = Проверка на целостта
 js-title = JavaScript
 js-incremental-gc = Постепенен GC
 a11y-title = Достъпност
+a11y-activated = Включено
 a11y-force-disabled = Предотвратяване на достъпност
 library-version-title = Версии на библиотеки
 copy-raw-data-to-clipboard-label = Копиране необработени данни в системния буфер
+sandbox-title = Виртуална среда
 restart-in-safe-mode-label = Рестартиране с изключени добавки…
 # Variables
 # $minutes (integer) - Number of minutes since crash
@@ -107,6 +114,7 @@ gpu-drivers = Драйвери
 gpu-ram = RAM
 gpu-driver-version = Версия на драйвера
 gpu-driver-date = Дата на драйвера
+gpu-active = Включен
 blocklisted-bug = В списъка на блокирането поради известни проблеми
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
@@ -127,6 +135,14 @@ can-sandbox-media = Отделяне на медийна приставка въ
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
+multi-process-status-0 = включени от потребителя
+multi-process-status-1 = включени по подразбиране
+multi-process-status-2 = изключени
+multi-process-status-4 = изключени от инструменти по достъпността
+multi-process-status-6 = изключени поради неподдържан текстов вход
+multi-process-status-7 = изключени от добавки
+multi-process-status-8 = принудително изключени
+multi-process-status-unknown = неизвестно състояние
 apz-none = няма
 
 ## Variables
