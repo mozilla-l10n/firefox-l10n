@@ -7,15 +7,55 @@ extensions-title = الامتدادات
 extensions-name = الاسم
 extensions-enabled = مفعّل
 extensions-version = النسخة
+security-software-title = برمجيات الحماية
+security-software-type = النوع
+security-software-name = الاسم
+security-software-antivirus = مضاد فيروسات
+security-software-antispyware = مضاد برمجيات تجسس
+security-software-firewall = جدار حماية
 app-basics-title = أساسيات التطبيق
 app-basics-name = الاسم
 app-basics-version = النسخة
+app-basics-profile-dir =
+    { PLATFORM() ->
+        [linux] مجلد الملف الشخصي
+       *[other] مجلد الملف الشخصي
+    }
 app-basics-enabled-plugins = الملحقات المفعّلة
 app-basics-build-config = إعدادات البناء
 app-basics-user-agent = عميل المستخدم
 app-basics-memory-use = استخدام الذاكرة
+app-basics-enterprise-policies = سياسات المؤسسات
+modified-key-prefs-title = التفضيلات المهمّة المُعدّلة
 modified-prefs-name = الاسم
 graphics-title = الرسوميات
+js-title = جافاسكربت
+js-incremental-gc = جامع القمامة التزايدي
+a11y-title = الإتاحة
+a11y-activated = مفعّلة
+a11y-force-disabled = امنع الإتاحة
+a11y-instantiator = بادئ الإتاحة
+library-version-title = إصدارات المكتبات
+intl-title = التدويل و التوطين
+intl-app-title = إعدادات التطبيق
+intl-locales-requested = المحليات المطلوبة
+intl-locales-available = المحليات المتاحة
+intl-locales-supported = محليات التطبيق
+intl-locales-default = المحلية المبدئية
+intl-os-title = نظام التشغيل
+intl-os-prefs-system-locales = محليات النظام
+intl-regional-prefs = التفضيلات الإقليمية
+# Variables
+# $days (Integer) - Number of days of crashes to log
+report-crash-for-days =
+    { $days ->
+        [zero] بلاغات انهيار اليوم
+        [one] بلاغات انهيار آخر يوم
+        [two] بلاغات انهيار آخر يومين
+        [few] بلاغات انهيار آخر { $days } أيام
+        [many] بلاغات انهيار آخر { $days } يومًا
+       *[other] بلاغات انهيار آخر { $days } يوم
+    }
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
@@ -33,10 +73,18 @@ clear-type-parameters = معاملات ClearType
 ## In some development versions, it's expected for some API keys that they are
 ## not found.
 
+uses-tiling = يستخدم البلاطات
+content-uses-tiling = يستخدم البلاطات (المحتوى)
+off-main-thread-paint-enabled = الرسم خارج الخيط الرئيسي مفعل
+off-main-thread-paint-worker-count = عدد عمال الرسم خارج الخيط الرئيسي
+min-lib-versions = أقل إصدارة مقبولة
+loaded-lib-versions = الإصدارة المستخدمة
+sandbox-proc-type-file = محتوى الملف
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
+autoscroll-enabled = التمرير التلقائي مفعّل
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
@@ -44,3 +92,6 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+policies-inactive = غير نشط
+policies-active = نشط
+policies-error = خطأ
