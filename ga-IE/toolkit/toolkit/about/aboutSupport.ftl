@@ -5,6 +5,7 @@
 page-title = Fabhtcheartú
 crashes-id = Aitheantas na Tuairisce
 crashes-send-date = Seolta
+crashes-no-config = Ní raibh an feidhmchlár seo cumraithe le tuairiscí tuairteála a thaispeáint.
 extensions-title = Eisínteachtaí
 extensions-name = Ainm
 extensions-enabled = Cumasaithe
@@ -13,6 +14,8 @@ extensions-id = Aitheantas
 app-basics-title = Buntús an Fheidhmchláir
 app-basics-name = Ainm
 app-basics-version = Leagan
+app-basics-build-id = Aitheantas Tógála
+app-basics-update-channel = Nuashonraigh an Cainéal
 app-basics-update-history = Stair na Nuashonruithe
 app-basics-show-update-history = Taispeáin Stair na Nuashonruithe
 app-basics-profile-dir =
@@ -42,6 +45,8 @@ library-version-title = Leaganacha Leabharlann
 copy-text-to-clipboard-label = Cóipeáil an téacs go dtí an ghearrthaisce
 copy-raw-data-to-clipboard-label = Cóipeáil amhshonraí go dtí an ghearrthaisce
 sandbox-title = Bosca gainimh
+safe-mode-title = Bain triail as an Mód Slán
+restart-in-safe-mode-label = Atosaigh gan aon bhreiseáin…
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -94,14 +99,22 @@ clear-type-parameters = Paraiméadair ClearType
 min-lib-versions = Leagan is sine a rabhthas ag súil leis
 loaded-lib-versions = Leagan in úsáid
 has-seccomp-bpf = Seccomp-BPF (Scagadh Glaonna Córais)
+has-user-namespaces = Ainmspásanna Úsáideora
+has-privileged-user-namespaces = Ainmspásanna Úsáideora do phróisis phribhléideacha
+can-sandbox-content = Próiseas Ábhair i mBosca Gainimh
+can-sandbox-media = Forlíontán Meán i mBosca Gainimh
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
+wheel-enabled = ionchur rotha cumasaithe
+touch-enabled = ionchur tadhaill cumasaithe
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
 
+wheel-warning = díchumasaíodh ionchur rotha aisioncronach mar gheall ar shainrogha gan tacaíocht: { $preferenceKey }
+touch-warning = díchumasaíodh ionchur tadhaill aisioncronach mar gheall ar shainrogha gan tacaíocht: { $preferenceKey }
 
 ## Strings representing the status of the Enterprise Policies engine.
 
