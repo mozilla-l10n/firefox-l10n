@@ -9,6 +9,7 @@ crashes-id = Հաղորդագրության Համարը
 crashes-send-date = Ուղարկված
 crashes-all-reports = Վթարի բոլոր զեկույցները
 crashes-no-config = Ծրագիրը կարգավորված չէ ցուցադրելու վթարի զեկույցները:
+extensions-title = Ընդլայնումներ
 extensions-name = Անուն
 extensions-enabled = Միացված է
 extensions-version = Տարբերակ
