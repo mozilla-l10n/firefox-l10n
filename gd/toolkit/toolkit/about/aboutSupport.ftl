@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 page-title = Taic le duilgheadasan
+page-subtitle = Tha fiosrachadh teicnigeach air an duilleag seo a dh'fhaodadh a bhith feumail dhut ann am fuasgladh dhuilgheadasan. Ma tha ceist neo-theicnigeach agad mu { -brand-short-name }, cuir sùil air an <a data-l10n-name="support-link">làrach-taice</a> againn.
 crashes-title = Aithisgean tuislidh
 crashes-id = ID na h-aithisge
 crashes-send-date = Air a chur
@@ -13,29 +14,93 @@ extensions-name = Ainm
 extensions-enabled = Air a chur an comas
 extensions-version = Tionndadh
 extensions-id = ID
+features-title = Gleusan { -brand-short-name }
+features-name = Ainm
+features-version = Tionndadh
+features-id = ID
 app-basics-title = Bun-tùs na h-aplacaid
 app-basics-name = Ainm
 app-basics-version = Tionndadh
+app-basics-build-id = Build ID
+app-basics-update-channel = Ùraich an t-seanail
 app-basics-update-history = Eachdraidh nan ùrachaidhean
 app-basics-show-update-history = Seall eachdraidh nan ùrachaidhean
+app-basics-profile-dir =
+    { PLATFORM() ->
+        [linux] Pasgan nam pròifilean
+       *[other] Pasgan na pròifil
+    }
 app-basics-enabled-plugins = Plugain a tha an comas
 app-basics-build-config = Rèiteachadh na togalach
 app-basics-user-agent = UserAgent
+app-basics-os = OS
 app-basics-memory-use = Cleachdadh na cuimhne
+app-basics-performance = Dèanadas
+app-basics-service-workers = Obraichean seirbheise clàraichte
+app-basics-profiles = Pròifilean
+app-basics-multi-process-support = Uinneagan ioma-phròiseasaidh
+app-basics-process-count = Pròiseasan susbaint-lìn
+app-basics-key-google = Google Key
+app-basics-key-mozilla = Iuchair seirbheis nan ionad aig Mozilla
+app-basics-safe-mode = Am modh tèarainte
+show-dir-label =
+    { PLATFORM() ->
+        [macos] Seall san lorgair
+        [windows] Fosgail pasgan
+       *[other] Fosgail am pasgan
+    }
 modified-key-prefs-title = Roghainnean cudromach a chaidh atharrachadh
 modified-prefs-name = Ainm
 modified-prefs-value = Luach
 user-js-title = Roghainnean user.js
 user-js-description = Tha faidhle air a bheil <a data-l10n-name="user-js-link">user.js</a> ann am pasgan na pròifil agad agus gheibh thu roghainnean 'na bhroinn nach deach an cruthachadh le { -brand-short-name }.
+locked-key-prefs-title = Roghainnean cudromach a tha glaiste
+locked-prefs-name = Ainm
+locked-prefs-value = Luach
 graphics-title = Grafaigean
+graphics-features-title = Gleusan
+graphics-diagnostics-title = Diagnosachd
+graphics-failure-log-title = Loga nam fàilligidhean
+graphics-gpu1-title = GPU #1
+graphics-gpu2-title = GPU #2
+graphics-decision-log-title = Loga nan co-dhùnaidhean
+graphics-crash-guards-title = Gleusan a chuir freiceadan nan tuislidhean à comas
+graphics-workarounds-title = Workarounds
+place-database-title = Stòr-dàta nan àitichean
+place-database-integrity = Treibhdhireas
+place-database-verify-integrity = Dearbh an treibhdhireas
 js-title = JavaScript
 js-incremental-gc = GC ceum air cheum
 a11y-title = Inntrigeachd
 a11y-activated = Air gnìomhachadh
 a11y-force-disabled = Casg air so-inntrigeachd
+a11y-handler-used = Làimhsichear na so-inntrigeachd a chaidh a chleachdadh
 library-version-title = Tionndaidhean leabharlainn
 copy-text-to-clipboard-label = Cuir lethbhreac dhen teacsa air an stòr-bhòrd
 copy-raw-data-to-clipboard-label = Cuir lethbhreac dhen dàta lom dhan stòr-bhòrd
+sandbox-title = Bogsa-gainmhich
+sandbox-sys-call-log-title = Gairmean siostaim a chaidh a dhiùltadh
+sandbox-sys-call-index = #
+sandbox-sys-call-age = Diogan air ais
+sandbox-sys-call-pid = PID
+sandbox-sys-call-tid = TID
+sandbox-sys-call-proc-type = Seòrsa a’ phròiseis
+sandbox-sys-call-number = Syscall
+sandbox-sys-call-args = Argamaidean
+safe-mode-title = Feuch am modh tèarainte
+restart-in-safe-mode-label = Ath-thòisich leis na tuilleadan air an cur à comas…
+media-title = Meadhanan
+media-output-devices-title = Uidheaman às-chuir
+media-input-devices-title = Uidheaman ion-chuir
+media-device-name = Ainm
+media-device-group = Buidheann
+media-device-vendor = Reiceadair
+media-device-state = Staid
+media-device-preferred = As fhearr
+media-device-format = Fòrmat
+media-device-channels = Seanailean
+media-device-rate = Reat
+media-device-latency = Latency
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -89,27 +154,98 @@ text-copied = Chaidh lethbhreac an teacsa a chur air a' bhòrd-chliopaichean
 blocked-driver = Chaidh casg a chuir air seo air tionndadh draibhear nan grafaigean agad.
 blocked-gfx-card = Chaidh casg a chuir air seo air draibhear nan grafaigean agad air sgàth duilgheadasan draibheir a tha gun rèiteachadh fhathast.
 blocked-os-version = Chaidh casg a chur air an cois tionndadh an t-siostaim-obrachaidh agad.
+blocked-mismatched-version = Air a’ bhacadh ’s an draibhear grafaigeachd eadar-dhealaichte a thaobh na tha sa chlàr-lann agus san DLL.
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Chaidh casg a chuir air seo air draibhear nan grafaigean agad. Feuch is ùraich draibhear nan grafaigean agad gu tionndadh { $driverVersion } no fear nas ùire.
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Paramadairean ClearType
+compositing = Compositing
+hardware-h264 = Dì-chòdachadh bathar-cruaidh H264
+main-thread-no-omtc = main thread, gun OMTC
+yes = Tha
+no = Chan eil
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
 ## not found.
 
+found = Chaidh a lorg
+missing = A dhìth
+gpu-description = Tuairisgeul
+gpu-vendor-id = ID an reiceadair
+gpu-device-id = ID an uidheim
+gpu-subsys-id = Subsys ID
+gpu-drivers = Draibhearan
+gpu-ram = RAM
+gpu-driver-version = Tionndadh an draibheir
+gpu-driver-date = Ceann-là an draibheir
+gpu-active = Gnìomhach
+webgl1-wsiinfo = Fiosrachadh WSI WebGL 1
+webgl1-renderer = Reandaraiche draibhear WebGL 1
+webgl1-version = Tionndadh an draibheir WebGL 1
+webgl1-driver-extensions = Leudachain an draibheir WebGL 1
+webgl1-extensions = Leudachain WebGL 1
+webgl2-wsiinfo = Fiosrachadh WSI WebGL 2
+webgl2-renderer = Reandaraiche draibhear WebGL 2
+webgl2-version = Tionndadh an draibheir WebGL 2
+webgl2-driver-extensions = Leudachain an draibheir WebGL 2
+webgl2-extensions = Leudachain WebGL 2
+blocklisted-bug = Blocklisted due to known issues
+# Variables
+# $bugNumber (string) - String of bug number from Bugzilla
+bug-link = bug { $bugNumber }
+# Variables
+# $failureCode (string) - String that can be searched in the source tree.
+unknown-failure = Blocklisted; failure code { $failureCode }
+d3d11layers-crash-guard = D3D11 Compositor
+d3d11video-crash-guard = D3D11 Video Decoder
+d3d9video-crash-buard = D3D9 Video Decoder
+glcontext-crash-guard = OpenGL
+reset-on-next-restart = Ath-shuidhich aig an ath ath-thòiseachadh
+gpu-process-kill-button = Cuir crìoch air pròiseas an GPU
+gpu-device-reset-button = Cuir gu dol ath-shuidheachadh an uidheim
+audio-backend = Audio Backend
+max-audio-channels = Seanailean air a’ char as motha
+channel-layout = Co-dhealbhadh nan seanail as fhearr dhut
+sample-rate = Reat samplachaidh as fhearr dhut
 min-lib-versions = An tionndadh as lugha ris a tha dùil
 loaded-lib-versions = An tionndadh a tha 'ga chleachdadh
+has-seccomp-bpf = Seccomp-BPF (Criathradh ghairmean an t-siostaim)
+has-seccomp-tsync = Sioncronachadh snàithlein Seccomp
+has-user-namespaces = Ainm-spàsan cleachdaiche
+has-privileged-user-namespaces = Cleachd ainm-spàsan airson pròiseasan aig a bheil pribhleid
+can-sandbox-content = Content Process Sandboxing
+can-sandbox-media = Media Plugin Sandboxing
+content-sandbox-level = Content Process Sandbox Level
+effective-content-sandbox-level = Effective Content Process Sandbox Level
+sandbox-proc-type-content = susbaint
+sandbox-proc-type-media-plugin = plugan mheadhanan
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
+multi-process-status-0 = Air a chur an comas leis a’ chleachdaiche
+multi-process-status-1 = An comas a ghnàth
+multi-process-status-2 = À comas
+multi-process-status-4 = Air a chur à comas le innealan na so-inntrigeachd
+multi-process-status-6 = Air a chur à comas an cois ion-chur teacsa ris nach eil taic
+multi-process-status-7 = Air a chur an comas le tuilleadain
+multi-process-status-8 = Air a chur à comas le làmh làidir
+multi-process-status-unknown = Staid neo-aithnichte
+async-pan-zoom = Panachadh/Sùmadh neo-shioncronach
+apz-none = chan eil gin
+wheel-enabled = tha ion-chur cuibhle an comas
+touch-enabled = tha ion-chur suathaidh an comas
+drag-enabled = tha slaodadh a’ bhàr-sgrolaidh an comas
+keyboard-enabled = meur-chlàr an comas
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
 
+wheel-warning = tha ion-chur cuibhle neo-shioncronach à comas ri linn roghainn ris nach eil taic: { $preferenceKey }
+touch-warning = tha ion-chur suathaidh neo-shioncronach à comas ri linn roghainn ris nach eil taic: { $preferenceKey }
 
 ## Strings representing the status of the Enterprise Policies engine.
 
