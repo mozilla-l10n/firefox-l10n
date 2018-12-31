@@ -49,6 +49,7 @@ app-basics-service-workers = Service Workers registrados
 app-basics-profiles = Perfis
 app-basics-multi-process-support = Janelas multiprocessadas
 app-basics-process-count = Processos de conteúdo Web
+app-basics-enterprise-policies = Políticas empresariais
 app-basics-key-google = Chave do Google
 app-basics-key-mozilla = Chave do serviço de localização da Mozilla
 app-basics-safe-mode = Modo de segurança
@@ -264,3 +265,6 @@ touch-warning = entrada touch assíncrona desabilitada devido a preferência nã
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+policies-inactive = Inativo
+policies-active = Ativo
+policies-error = Erro
