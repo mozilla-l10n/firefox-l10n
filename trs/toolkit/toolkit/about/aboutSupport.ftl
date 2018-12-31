@@ -123,7 +123,7 @@ intl-regional-prefs = Sa nana'uî' doj màn nichrùn'un
 report-crash-for-days =
     { $days ->
         [one] Nej sa guire' { $days } gui
-       *[other] { " " }Nej sa guire' ne ruku' doj { $days } gui
+       *[other] Nej sa guire' ne ruku' doj { $days } gui
     }
 # Variables
 # $minutes (integer) - Number of minutes since crash
@@ -151,7 +151,7 @@ crashes-time-days =
 pending-reports =
     { $reports ->
         [one] Daran' sa guire'e (nun { $reports } sa guire' hua ni'ninj)
-       *[other] { " " }Daran ché sa guiere'e (nun { $reports } sa guire' hua ni'ninj
+       *[other] Daran ché sa guiere'e (nun { $reports } sa guire' hua ni'ninj
     }
 raw-data-copied = Nej datos guire' nachru' riña portapapeles
 text-copied = Nuguan' ngà nachîn riña portapapeles
