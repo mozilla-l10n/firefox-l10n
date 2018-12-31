@@ -46,6 +46,7 @@ app-basics-service-workers = રજીસ્ટર કરેલ Service Workers
 app-basics-profiles = પ્રોફાઇલ્સ
 app-basics-multi-process-support = મલ્ટીપ્રોસેસ વિન્ડો
 app-basics-process-count = વેબ સામગ્રી પ્રક્રિયાઓ
+app-basics-enterprise-policies = સંગઠન નીતિ
 app-basics-key-google = Google કી
 app-basics-key-mozilla = Mozilla સ્થાન સર્વિસ કી
 app-basics-safe-mode = સલામત મોડ
