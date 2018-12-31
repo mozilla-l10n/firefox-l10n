@@ -14,6 +14,12 @@ extensions-name = Mě
 extensions-enabled = Zmóžnjony
 extensions-version = Wersija
 extensions-id = ID
+security-software-title = Wěstotna software
+security-software-type = Typ
+security-software-name = Mě
+security-software-antivirus = Antiwirusowy program
+security-software-antispyware = Software pśeśiwo spionažy
+security-software-firewall = Wognjowa murja
 features-title = Funkcije { -brand-short-name }
 features-name = Mě
 features-version = Wersija
@@ -40,7 +46,9 @@ app-basics-service-workers = Zregistrěrowane "service workers"
 app-basics-profiles = Profile
 app-basics-multi-process-support = Multiprocesowe wokna
 app-basics-process-count = Webwopśimjeśowe procese
+app-basics-enterprise-policies = Pśedewześowe pšawidła
 app-basics-key-google = Kluc Google
+app-basics-key-mozilla = Kluc słužby póstajenja městna Mozilla
 app-basics-safe-mode = Wěsty modus
 show-dir-label =
     { PLATFORM() ->
@@ -101,6 +109,15 @@ media-device-format = Format
 media-device-channels = Kanale
 media-device-rate = Rata
 media-device-latency = Latenca
+intl-title = Internacionalizacija a lokalizacija
+intl-app-title = Nastajenja nałoženja
+intl-locales-requested = Pominane rěcy
+intl-locales-available = K dispoziciji stojece rěcy
+intl-locales-supported = Rěcy nałoženja
+intl-locales-default = Standardna rěc
+intl-os-title = Źěłowy system
+intl-os-prefs-system-locales = Systemowe rěcy
+intl-regional-prefs = Regionalne nastajenja
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -206,7 +223,10 @@ glcontext-crash-guard = OpenGL
 reset-on-next-restart = Pśi pśiducem nowem starśe slědk stajiś
 gpu-process-kill-button = GPU-proces skóńcyś
 gpu-device-reset-button = Rědowe slědkstajenje zapušćiś
+uses-tiling = Wužywa kachlicki
+content-uses-tiling = Wužywa kachlickowanje (wopśimjeśe)
 off-main-thread-paint-enabled = Off Main Thread Painting zmóžnjony
+off-main-thread-paint-worker-count = Licba workerow Off Main Thread Painting
 audio-backend = Awdiobackend
 max-audio-channels = Maksimalna licba kanalow
 channel-layout = Preferěrowane kanalowe wugótowanje
@@ -222,6 +242,7 @@ can-sandbox-media = Testowanje medijowych tykacow w pěskowem kašćiku
 content-sandbox-level = Rownina wopśimjeśowych procesow w pěskowem kašćiku
 effective-content-sandbox-level = Aktualna rownina wopśimjeśowych procesow w pěskowem kašćiku
 sandbox-proc-type-content = wopśimjeśe
+sandbox-proc-type-file = datajowe wopśimjeśe
 sandbox-proc-type-media-plugin = medijowy tykac
 # Variables
 # $remoteWindows (integer) - Number of remote windows
@@ -241,6 +262,7 @@ wheel-enabled = zapódaśe z kólaskom zmóžnjone
 touch-enabled = zapódaśe pśez dotyknjenje zmóžnjone
 drag-enabled = śěgnjenje suwańskeje rědki zmóžnjone
 keyboard-enabled = tastatura zmóžnjona
+autoscroll-enabled = awtomatiske kulanje zmóžnjone
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
@@ -250,3 +272,6 @@ touch-warning = asynchrone zapódaśe pśez dotyknjenje jo se njepódpěranego n
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+policies-inactive = Njeaktiwny
+policies-active = Aktiwny
+policies-error = Zmólka
