@@ -239,10 +239,14 @@ sandbox-proc-type-media-plugin = medialiitännäinen
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
+multi-process-status-0 = Käyttäjän käyttöön ottama
+multi-process-status-1 = Käytössä oletuksena
+multi-process-status-2 = Poistettu käytöstä
 multi-process-status-4 = Poistettu käytöstä esteettömyystoimintojen takia
 multi-process-status-6 = Poistettu käytöstä ei-tuetun tekstisyötteen takia
 multi-process-status-7 = Poistettu käytöstä lisäosien takia
 multi-process-status-8 = Poistettu käytöstä pakottaen
+multi-process-status-unknown = Tuntematon tila
 async-pan-zoom = Asynkroninen siirto/lähennys
 apz-none = ei mitään
 wheel-enabled = rullaliittymä käytössä
