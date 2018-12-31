@@ -48,6 +48,7 @@ app-basics-performance = Desempenho
 app-basics-service-workers = Service Workers registados
 app-basics-profiles = Perfis
 app-basics-multi-process-support = Multi-processamento de janelas
+app-basics-process-count = Processos de conteúdo Web
 app-basics-enterprise-policies = Políticas empresariais
 app-basics-key-google = Chave Google
 app-basics-key-mozilla = Chave do serviço de localização da Mozilla
