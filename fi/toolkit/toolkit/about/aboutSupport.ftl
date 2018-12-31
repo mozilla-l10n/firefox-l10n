@@ -17,6 +17,16 @@ extensions-name = Nimi
 extensions-enabled = Käytössä
 extensions-version = Versio
 extensions-id = ID
+security-software-title = Tietoturvaohjelmat
+security-software-type = Tyyppi
+security-software-name = Nimi
+security-software-antivirus = Virustentorjunta
+security-software-antispyware = Vakoiluntorjunta
+security-software-firewall = Palomuuri
+features-title = { -brand-short-name }-ominaisuudet
+features-name = Nimi
+features-version = Versio
+features-id = ID
 app-basics-title = Ohjelman perustiedot
 app-basics-name = Nimi
 app-basics-version = Versio
@@ -32,8 +42,23 @@ app-basics-profile-dir =
 app-basics-enabled-plugins = Käytössä olevat liitännäiset
 app-basics-build-config = Koostamisasetukset
 app-basics-user-agent = Selaintunniste
+app-basics-os = Käyttöjärjestelmä
 app-basics-memory-use = Muistin käyttö
+app-basics-performance = Suorituskyky
+app-basics-service-workers = Rekisteröidyt Service Workers -apukomentosarjat
+app-basics-profiles = Profiilit
+app-basics-multi-process-support = Useaa prosessia hyödyntäviä ikkunoita
+app-basics-process-count = Verkkosisällön prosesseja
+app-basics-enterprise-policies = Yrityskäytännöt
+app-basics-key-google = Google-avain
+app-basics-key-mozilla = Mozilla Location Service -avain
 app-basics-safe-mode = Vikasietotila
+show-dir-label =
+    { PLATFORM() ->
+        [macos] Avaa Finderissa
+        [windows] Avaa kansio
+       *[other] Avaa kansio
+    }
 modified-key-prefs-title = Tärkeät muutetut asetukset
 modified-prefs-name = Nimi
 modified-prefs-value = Arvo
@@ -43,17 +68,59 @@ locked-key-prefs-title = Tärkeät lukitut asetukset
 locked-prefs-name = Nimi
 locked-prefs-value = Arvo
 graphics-title = Grafiikka
+graphics-features-title = Ominaisuudet
+graphics-diagnostics-title = Diagnostiikka
+graphics-failure-log-title = Virheloki
+graphics-gpu1-title = GPU #1
+graphics-gpu2-title = GPU #2
+graphics-decision-log-title = Päätösloki
+graphics-crash-guards-title = Kaatumisvahdin käytöstä poistamat ominaisuudet
+graphics-workarounds-title = Hätäratkaisut
+place-database-title = Places-tietokanta
+place-database-integrity = Virheettömyys
+place-database-verify-integrity = Tarkista virheettömyys
 js-title = JavaScript
 js-incremental-gc = Jatkuva roskienkeräys
 a11y-title = Esteettömyystoiminnot
 a11y-activated = Käytössä
 a11y-force-disabled = Estä esteettömyystoiminnot
+a11y-handler-used = Esteettömyyskäsittelijää käytetty
+a11y-instantiator = Esteettömyyden käynnistänyt ohjelma
 library-version-title = Kirjastojen versiot
 copy-text-to-clipboard-label = Kopioi teksti leikepöydälle
 copy-raw-data-to-clipboard-label = Kopioi muokkaamaton data leikepöydälle
 sandbox-title = Hiekkalaatikko
+sandbox-sys-call-log-title = Hylätyt järjestelmäkutsut
+sandbox-sys-call-index = #
+sandbox-sys-call-age = Sekuntia sitten
+sandbox-sys-call-pid = PID
+sandbox-sys-call-tid = TID
+sandbox-sys-call-proc-type = Prosessin tyyppi
+sandbox-sys-call-number = Järjestelmäkutsu
+sandbox-sys-call-args = Argumentit
 safe-mode-title = Kokeile vikasietotilaa
 restart-in-safe-mode-label = Käynnistä uudelleen ilman lisäosia…
+media-title = Media
+media-output-devices-title = Toistolaitteet
+media-input-devices-title = Syöttölaitteet
+media-device-name = Nimi
+media-device-group = Ryhmä
+media-device-vendor = Valmistaja
+media-device-state = Tila
+media-device-preferred = Ensisijaisuus
+media-device-format = Muoto
+media-device-channels = Kanavia
+media-device-rate = Näytteenottotaajuus
+media-device-latency = Viive
+intl-title = Internationalisointi ja lokalisointi
+intl-app-title = Sovelluksen asetukset
+intl-locales-requested = Pyydetyt localet
+intl-locales-available = Käytettävissä olevat localet
+intl-locales-supported = Sovelluksen localet
+intl-locales-default = Oletuslocale
+intl-os-title = Käyttöjärjestelmä
+intl-os-prefs-system-locales = Järjestelmän localet
+intl-regional-prefs = Alueasetukset
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -101,11 +168,60 @@ blocked-mismatched-version = Estetty koska näytönohjaimen ajureiden versio ero
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Estetty näytönohjaimen ajureiden käytetyssä versiossa. Yritä päivittää näytönohjaimesi ajurit versioon { $driverVersion } tai uudempaan.
+# "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
+# there are no good translations, these are only used in about:support
+clear-type-parameters = ClearType-parametrit
+compositing = Koostaminen
+hardware-h264 = Laitteistopohjainen H264-koodauksen purku
+main-thread-no-omtc = pääsäie, ei OMTC:tä
+yes = Kyllä
+no = Ei
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
 ## not found.
 
+found = Löytyy
+missing = Puuttuu
+gpu-description = Kuvaus
+gpu-vendor-id = Valmistajan tunnus
+gpu-device-id = Laitteen tunnus
+gpu-subsys-id = Alijärjestelmän tunnus
+gpu-drivers = Ajurit
+gpu-ram = Muisti
+gpu-driver-version = Ajurin versio
+gpu-driver-date = Ajurin päiväys
+gpu-active = Aktiivinen
+webgl1-wsiinfo = WebGL 1 -ajurin WSI-tiedot
+webgl1-renderer = WebGL 1 -ajurin mallintaja
+webgl1-version = WebGL 1 -ajurin versio
+webgl1-driver-extensions = WebGL 1 -ajurin laajennukset
+webgl1-extensions = WebGL 1 -laajennukset
+webgl2-wsiinfo = WebGL 2 -ajurin WSI-tiedot
+webgl2-renderer = WebGL 2 -ajurin mallintaja
+webgl2-version = WebGL 2 -ajurin versio
+webgl2-driver-extensions = WebGL 2 -ajurin laajennukset
+webgl2-extensions = WebGL 2 -laajennukset
+blocklisted-bug = Estolistalla tunnettujen ongelmien takia
+# Variables
+# $bugNumber (string) - String of bug number from Bugzilla
+bug-link = vika { $bugNumber }
+# Variables
+# $failureCode (string) - String that can be searched in the source tree.
+unknown-failure = Estolistalla; virhekoodi { $failureCode }
+d3d11layers-crash-guard = D3D11-koostaminen
+d3d11video-crash-guard = D3D11-videopurkaja
+d3d9video-crash-buard = D3D9-videopurkaja
+glcontext-crash-guard = OpenGL
+reset-on-next-restart = Nollaa seuraavan käynnistyksen yhteydessä
+gpu-process-kill-button = Lopeta GPU-prosessi
+gpu-device-reset-button = Aloita laitteen nollaus
+off-main-thread-paint-enabled = Pääsäikeen ulkopuolinen piirtäminen käytössä
+off-main-thread-paint-worker-count = Pääsäikeen ulkopuolisen piirtämisen työyksiköitä
+audio-backend = Äänen taustajärjestelmä
+max-audio-channels = Kanavia enintään
+channel-layout = Ensisijainen kanava-asettelu
+sample-rate = Ensisijainen näytteenottotaajuus
 min-lib-versions = Odotettu minimiversio
 loaded-lib-versions = Käytössä oleva versio
 has-seccomp-bpf = Seccomp-BPF (Järjestelmäkutsujen suodatus)
@@ -114,14 +230,26 @@ has-user-namespaces = Käyttäjän nimiavaruudet
 has-privileged-user-namespaces = Käyttäjän nimiavaruudet privileged prosesseille
 can-sandbox-content = Sisältöprosessin suorittaminen hiekkalaatikossa
 can-sandbox-media = Medialiitännäisen suorittaminen hiekkalaatikossa
+content-sandbox-level = Sisältöprosessin hiekkalaatikkotaso
+effective-content-sandbox-level = Sisältöprosessin efektiivinen hiekkalaatikkotaso
+sandbox-proc-type-content = sisältö
+sandbox-proc-type-file = tiedostojen sisältö
+sandbox-proc-type-media-plugin = medialiitännäinen
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
+multi-process-status-4 = Poistettu käytöstä esteettömyystoimintojen takia
+multi-process-status-6 = Poistettu käytöstä ei-tuetun tekstisyötteen takia
+multi-process-status-7 = Poistettu käytöstä lisäosien takia
+multi-process-status-8 = Poistettu käytöstä pakottaen
+async-pan-zoom = Asynkroninen siirto/lähennys
 apz-none = ei mitään
 wheel-enabled = rullaliittymä käytössä
 touch-enabled = kosketusliittymä käytössä
 drag-enabled = vierityspalkin vastus käytössä
+keyboard-enabled = näppäimistö käytössä
+autoscroll-enabled = automaattivieritys käytössä
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
@@ -131,3 +259,6 @@ touch-warning = async kosketusliittymä pois käytöstä ei tuetun asetuksen joh
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+policies-inactive = Ei käytössä
+policies-active = Käytössä
+policies-error = Virhe
