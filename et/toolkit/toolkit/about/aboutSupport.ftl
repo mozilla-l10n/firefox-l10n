@@ -53,6 +53,12 @@ app-basics-enterprise-policies = Rühmapoliitikad
 app-basics-key-google = Google võti
 app-basics-key-mozilla = Mozilla asukohateenuse võti
 app-basics-safe-mode = Ohutu režiim
+show-dir-label =
+    { PLATFORM() ->
+        [macos] Näita Finderis
+        [windows] Ava kaust
+       *[other] Ava kaust
+    }
 modified-key-prefs-title = Olulised muudetud eelistused
 modified-prefs-name = Nimi
 modified-prefs-value = Väärtus
