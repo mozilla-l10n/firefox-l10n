@@ -232,6 +232,7 @@ can-sandbox-media = Médiabővítmény sandboxing
 content-sandbox-level = Tartalomfolyamat sandboxing szintje
 effective-content-sandbox-level = Tartalomfolyamat tényleges sandboxing szintje
 sandbox-proc-type-content = tartalom
+sandbox-proc-type-file = fájltartalom
 sandbox-proc-type-media-plugin = médiabővítmény
 # Variables
 # $remoteWindows (integer) - Number of remote windows
