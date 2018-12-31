@@ -30,6 +30,7 @@ js-title = JavaScript
 js-incremental-gc = Incremental GC
 a11y-title = ප්‍රවේශතාව
 library-version-title = පුස්තකාල නිකුතුව
+text-copied = Text copied to clipboard
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
