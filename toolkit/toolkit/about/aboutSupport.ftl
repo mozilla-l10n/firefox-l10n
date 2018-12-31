@@ -144,10 +144,15 @@ multi-process-status-7 = изключени от добавки
 multi-process-status-8 = принудително изключени
 multi-process-status-unknown = неизвестно състояние
 apz-none = няма
+wheel-enabled = използване на колелцето на мишката
+touch-enabled = използване на интерфейса с докосвания
+drag-enabled = използване на лентата за плъзгане
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
 
+wheel-warning = асинхронното използване на колелцето на мишката е изключено заради неподдържана настройка: { $preferenceKey }
+touch-warning = асинхронното използване на интерфейс с докосвания е изключено заради неподдържана настройка: { $preferenceKey }
 
 ## Strings representing the status of the Enterprise Policies engine.
 
