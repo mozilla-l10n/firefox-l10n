@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 page-title = အခက်အခဲဆိုင်ရာဖြေရှင်းခြင်းနည်းလမ်းများ။
+crashes-id = ထုတ်ပြန်ချက် ID
 extensions-title = တိုးချဲ့ချက်များ
 extensions-name = အမည်
 extensions-enabled = ဖွင့်ထားတယ်
@@ -10,6 +11,8 @@ extensions-version = မူအဆင့်
 app-basics-title = အပ္ပလီကေးရှင်း အခြေခံ
 app-basics-name = အမည်
 app-basics-version = မူအဆင့်
+app-basics-update-history = အဆင့်မြှင့်တင်ချက် မှတ်တမ်း
+app-basics-show-update-history = အဆင့်မြှင့်တင်ချက် မှတ်တမ်းကို ပြသပါ
 app-basics-profile-dir =
     { PLATFORM() ->
         [linux] ပရိုဖိုင် လမ်းညွှန်
@@ -25,8 +28,15 @@ user-js-title = user.js Preferences
 user-js-description = Your profile folder contains a <a data-l10n-name="user-js-link">user.js file</a>, which includes preferences that were not created by { -brand-short-name }.
 graphics-title = ဂရပ်ဖစ်
 js-title = JavaScript
+js-incremental-gc = GC တိုးတက်မှု
 a11y-title = ဆက်စပ်ပစ္စည်း
+a11y-activated = လှုပ်ရှားခဲ့ပြီး
+a11y-force-disabled = အသုံးပြုရန် တားဆီးထား
 library-version-title = လိုက်ဘရီ ဗားရှင်း
+copy-text-to-clipboard-label = ကလစ်ဘုတ်သို့ ကူးသောစာ
+copy-raw-data-to-clipboard-label = ကူးထားသောဒေတာအကြမ်းကို ကလစ်ဘုတ်သို့
+raw-data-copied = ကလစ်ဘုတ်သို့ ကူးပြီးသောဒေတာအကြမ်း
+text-copied = ကလစ်ဘုတ်သို့ ကူးပြီးသောစာ
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
