@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 page-title = મુશ્કેલીનિવારણ જાણકારી
+page-subtitle = આ પાનું ટૅકનિકલ જાણકારીને સમાવે છે કે જે ઉપયોગી થઇ શકે છે જ્યારે તમે સમસ્યાનો ઉકેલ લાવવાનો પ્રયત્ન કરી રહ્યા હોય. જો તમે { -brand-short-name } વિશે સામાન્ય પ્રશ્ર્નોનાં જવાબો જોઇ રહ્યા હોય, અમારી <a data-l10n-name="support-link">આધાર વેબ સાઇટ</a> ને ચકાસો.
 crashes-title = ભંગાણ અહેવાલો
 crashes-id = અહેવાલ ઓળખ
 crashes-send-date = જમા થયેલ
