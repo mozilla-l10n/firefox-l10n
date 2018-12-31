@@ -68,6 +68,11 @@ a11y-force-disabled = Förhindra tillgänglighet
 library-version-title = Biblioteksversioner
 copy-text-to-clipboard-label = Kopiera text till urklipp
 copy-raw-data-to-clipboard-label = Kopiera rådata till urklipp
+sandbox-sys-call-index = #
+sandbox-sys-call-age = Sekunder sedan
+sandbox-sys-call-pid = PID
+sandbox-sys-call-tid = TID
+sandbox-sys-call-proc-type = Processtyp
 safe-mode-title = Prova felsäkert läge
 restart-in-safe-mode-label = Starta om utan tillägg…
 # Variables
@@ -184,3 +189,6 @@ touch-warning = asynkron tryckinmatning inaktiverad pga inställning ej stöds: 
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+policies-inactive = Inaktiv
+policies-active = Aktiv
+policies-error = Fel
