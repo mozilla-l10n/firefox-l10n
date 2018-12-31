@@ -16,9 +16,21 @@ extensions-title = Rozšíření
 extensions-name = Název
 extensions-enabled = Povoleno
 extensions-version = Verze
+extensions-id = ID
+security-software-title = Bezpečnostní software
+security-software-type = Typ
+security-software-name = Název
+security-software-antivirus = Antivir
+security-software-antispyware = Antispyware
+security-software-firewall = Firewall
+features-title = Funkce aplikace { -brand-short-name }
+features-name = Název
+features-version = Verze
+features-id = ID
 app-basics-title = Stručně o aplikaci
 app-basics-name = Název
 app-basics-version = Verze
+app-basics-build-id = ID sestavení
 app-basics-update-channel = Kanál aktualizací
 app-basics-update-history = Historie aktualizací
 app-basics-show-update-history = Zobrazit historii aktualizací
@@ -30,29 +42,65 @@ app-basics-profile-dir =
 app-basics-enabled-plugins = Povolené zásuvné moduly
 app-basics-build-config = Nastavení sestavení
 app-basics-user-agent = Identifikace prohlížeče
+app-basics-os = OS
 app-basics-memory-use = Spotřeba paměti
+app-basics-performance = Výkon
 app-basics-service-workers = Registrovaní Service Workers
+app-basics-profiles = Profily
 app-basics-multi-process-support = Multiprocesová okna
+app-basics-process-count = Procesy pro webový obsah
+app-basics-enterprise-policies = Podniková pravidla
 app-basics-safe-mode = Nouzový režim
 modified-key-prefs-title = Důležité změněné předvolby
 modified-prefs-name = Název
 modified-prefs-value = Hodnota
 user-js-title = Předvolby user.js
+user-js-description = Složka s profilem obsahuje <a data-l10n-name="user-js-link">soubor user.js</a>, který obsahuje předvolby, které nebyly vytvořeny aplikací { -brand-short-name }.
 locked-key-prefs-title = Důležité uzamčené předvolby
 locked-prefs-name = Název
 locked-prefs-value = Hodnota
 graphics-title = Grafika
+graphics-failure-log-title = Protokol chyb
+graphics-decision-log-title = Protokol rozhodování
+graphics-crash-guards-title = Zakázat funkce Crash Guard
+graphics-workarounds-title = Možná řešení
+place-database-title = Databáze Places
+place-database-integrity = Integrita
+place-database-verify-integrity = Zkontrolovat integritu
 js-title = JavaScript
 js-incremental-gc = Inkrementální GC
 a11y-title = Přístupnost
 a11y-activated = Aktivována
 a11y-force-disabled = Zakázána
+a11y-handler-used = Použito ovládání přístupnosti
+a11y-instantiator = Zavaděč pro přístupnost
 library-version-title = Verze knihoven
 copy-text-to-clipboard-label = Zkopírovat text do schránky
 copy-raw-data-to-clipboard-label = Zkopírovat data do schránky
 sandbox-title = Sandbox
 safe-mode-title = Vyzkoušet nouzový režim
 restart-in-safe-mode-label = Restartovat se zakázanými doplňky…
+media-title = Média
+media-output-devices-title = Výstupní zařízení
+media-input-devices-title = Vstupní zařízení
+media-device-name = Název
+media-device-group = Skupina
+media-device-vendor = Výrobce
+media-device-state = Stav
+media-device-preferred = Preferováno
+media-device-format = Formát
+media-device-channels = Kanály
+media-device-rate = Vzorkování
+media-device-latency = Prodleva
+intl-title = Internacionalizace a lokalizace
+intl-app-title = Nastavení aplikace
+intl-locales-requested = Požadované jazyky
+intl-locales-available = Dostupné jazyky
+intl-locales-supported = Jazyky aplikace
+intl-locales-default = Výchozí jazyk
+intl-os-title = Operační systém
+intl-os-prefs-system-locales = Jazyky systému
+intl-regional-prefs = Předvolby regionu
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -94,28 +142,79 @@ pending-reports =
        *[other] Všechna hlášení o pádech (zahrnující { $reports } čekajících za dané časové období)
     }
 raw-data-copied = Data byla zkopírována
+text-copied = Text zkopírován do schránky
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
+blocked-driver = Zakázáno kvůli verzi ovladače grafické karty.
+blocked-gfx-card = Zakázáno kvůli problémům s grafickou kartou a jejím ovladačem.
+blocked-os-version = Zakázáno kvůli verzi operačního systému.
 blocked-mismatched-version = Zakázáno kvůli nesouhlasící verzi ovladačů vaší grafické karty v registrech a DLL.
+# Variables
+# $driverVersion - The graphics driver version string
+try-newer-driver = Zakázáno kvůli verzi ovladače grafické karty. Zkuste aktualizovat ovladač grafické karty na verzi { $driverVersion } nebo novější.
+# "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
+# there are no good translations, these are only used in about:support
+clear-type-parameters = Technologie ClearType
+compositing = Compositing
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
 ## not found.
 
+webgl2-renderer = Zobrazování WebGL2
+blocklisted-bug = Zablokováno kvůli známé chybě
+# Variables
+# $bugNumber (string) - String of bug number from Bugzilla
+bug-link = bug { $bugNumber }
+# Variables
+# $failureCode (string) - String that can be searched in the source tree.
+unknown-failure = Zablokováno; chybový kód { $failureCode }
+d3d11layers-crash-guard = D3D11 Compositor
+d3d11video-crash-guard = D3D11 Video dekodér
+d3d9video-crash-buard = D3D9 Video dekodér
+glcontext-crash-guard = OpenGL
+reset-on-next-restart = Obnovit po při příštím restartu
+gpu-process-kill-button = Ukončit GPU proces
+gpu-device-reset-button = Spustit obnovu zařízení
+uses-tiling = Používá skládání
+content-uses-tiling = Používá skládání (obsah)
+off-main-thread-paint-enabled = Vykreslování mimo hlavní vlákno povoleno
+off-main-thread-paint-worker-count = Počet vláken pro vykreslování mimo hlavní vlákno
+audio-backend = Audio Backend
+max-audio-channels = Maximální počet kanálů
+channel-layout = Preferované rozložení kanálů
+sample-rate = Preferovaná vzorkovací frekvence
+min-lib-versions = Očekávaná minimální verze
+loaded-lib-versions = Používaná verze
 has-seccomp-bpf = Seccomp-BPF (filtrování systémových volání)
 has-seccomp-tsync = Synchronizace vláken Seccomp
 has-user-namespaces = Uživatelské jmenné prostory
 has-privileged-user-namespaces = Uživatelské jmenné prostory pro privilegované procesy
+can-sandbox-content = Sandbox procesů pro obsah
+can-sandbox-media = Sandbox zásuvných modulů médií
+content-sandbox-level = Úroveň sandboxu procesů pro obsah
+effective-content-sandbox-level = Účinná úroveň sandboxu procesů pro obsah
+sandbox-proc-type-file = obsah souboru
+sandbox-proc-type-media-plugin = zásuvný modul médií
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
+multi-process-status-0 = Povoleno uživatelem
+multi-process-status-1 = Povoleno ve výchozím nastavení
+multi-process-status-2 = Zakázáno
+multi-process-status-4 = Zakázáno nástroji pro přístupnost
+multi-process-status-6 = Zakázáno pro nepodporovaný textový vstup
+multi-process-status-7 = Zakázáno doplňky
+multi-process-status-unknown = Neznámý stav
 async-pan-zoom = Asynchronní lupa/panning
 apz-none = nic
 wheel-enabled = vstup kolečka povolen
 touch-enabled = dotykový vstup povolen
 drag-enabled = táhnutí posuvníkem povoleno
+keyboard-enabled = klávesnice povolena
+autoscroll-enabled = automatické posunování povoleno
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
@@ -125,3 +224,6 @@ touch-warning = asynchronní dotykový vstup zakázán vzhledem k nepodporované
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+policies-inactive = Neaktivní
+policies-active = Aktivní
+policies-error = Chyba
