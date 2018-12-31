@@ -45,6 +45,8 @@ app-basics-profiles = 프로필
 app-basics-multi-process-support = 다중프로세스 윈도우
 app-basics-process-count = 웹 콘텐츠 프로세스
 app-basics-enterprise-policies = 엔터프라이즈 정책
+app-basics-key-google = Google 키
+app-basics-key-mozilla = Mozilla 위치 서비스 키
 app-basics-safe-mode = 안전 모드
 show-dir-label =
     { PLATFORM() ->
@@ -83,6 +85,14 @@ library-version-title = 라이브러리 버전
 copy-text-to-clipboard-label = 클립보드로 텍스트 복사하기
 copy-raw-data-to-clipboard-label = 클립보드로 원본 복사하기
 sandbox-title = 샌드박스
+sandbox-sys-call-log-title = 거절된 시스템 콜
+sandbox-sys-call-index = #
+sandbox-sys-call-age = 초 전
+sandbox-sys-call-pid = PID
+sandbox-sys-call-tid = TID
+sandbox-sys-call-proc-type = 프로세스 타입
+sandbox-sys-call-number = 시스템 콜
+sandbox-sys-call-args = 인자
 restart-in-safe-mode-label = 부가 기능 없이 재시작…
 media-title = 미디어
 media-output-devices-title = 출력 기기
@@ -149,6 +159,16 @@ gpu-ram = RAM
 gpu-driver-version = 드라이버 버전
 gpu-driver-date = 드라이버 날짜
 gpu-active = 활성화
+webgl1-wsiinfo = WebGL 1 드라이버 WSI 정보
+webgl1-renderer = WebGL 1 드라이버 렌더러
+webgl1-version = WebGL 1 드라이버 버전
+webgl1-driver-extensions = WebGL 1 드라이버 확장 기능
+webgl1-extensions = WebGL 1 확장 기능
+webgl2-wsiinfo = WebGL 2 드라이버 WSI 정보
+webgl2-renderer = WebGL2 드라이버 랜더러
+webgl2-version = WebGL 2 드라이버 버전
+webgl2-driver-extensions = WebGL 2 드라이버 확장 기능
+webgl2-extensions = WebGL 2 확장 기능
 blocklisted-bug = 알려진 문제로 차단된 목록
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
@@ -180,7 +200,9 @@ has-privileged-user-namespaces = 권한있는 프로세스를 위한 사용자 �
 can-sandbox-content = 콘텐트 프로세스 샌드박싱
 can-sandbox-media = 미디어 플러그인 샌드박싱
 content-sandbox-level = 콘텐츠 프로세스 샌드박스 수준
+sandbox-proc-type-content = 내용
 sandbox-proc-type-file = 파일 내용
+sandbox-proc-type-media-plugin = 미디어 플러그인
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
