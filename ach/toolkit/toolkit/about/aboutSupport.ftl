@@ -23,7 +23,10 @@ modified-prefs-name = Nying
 graphics-title = Cal
 js-title = JavaScript
 js-incremental-gc = GC ma kimedo
+a11y-title = Kite me nongo
+a11y-force-disabled = Geng Donyo iye
 library-version-title = Cik pa kagwoko jami
+text-copied = Kiloko coc i bao me coc
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
