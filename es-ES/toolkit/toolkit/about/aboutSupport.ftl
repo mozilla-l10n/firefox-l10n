@@ -214,6 +214,7 @@ reset-on-next-restart = Restablecer en el próximo reinicio
 gpu-process-kill-button = Terminar proceso GPU
 gpu-device-reset-button = Provocar reinicio del dispositivo
 uses-tiling = Usa mosaicos
+content-uses-tiling = Usa mosaicos (contenido)
 off-main-thread-paint-enabled = Dibujado fuera del hilo principal de ejecución activado
 off-main-thread-paint-worker-count = Contador de workers de dibujado ajenos al hilo principal de ejecución
 audio-backend = Sistema de audio
