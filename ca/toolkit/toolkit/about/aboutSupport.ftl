@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 page-title = Informació de resolució de problemes
+page-subtitle = Aquesta pàgina conté informació tècnica que pot ser útil quan proveu de resoldre un problema. Si cerqueu respostes per a preguntes freqüents del { -brand-short-name }, visiteu el nostre <a data-l10n-name="support-link">lloc web d'assistència</a>.
 crashes-title = Informes de fallada
 crashes-id = Identificador de l'informe
 crashes-send-date = Data d'enviament
@@ -13,9 +14,15 @@ extensions-name = Nom
 extensions-enabled = Habilitada
 extensions-version = Versió
 extensions-id = ID
+features-title = Característiques del { -brand-short-name }
+features-name = Nom
+features-version = Versió
+features-id = ID
 app-basics-title = Paràmetres bàsics de l'aplicació
 app-basics-name = Nom
 app-basics-version = Versió
+app-basics-build-id = Identificador del muntatge
+app-basics-update-channel = Canal d'actualitzacions
 app-basics-update-history = Historial d'actualitzacions
 app-basics-show-update-history = Mostra l'historial d'actualitzacions
 app-basics-profile-dir =
@@ -26,8 +33,20 @@ app-basics-profile-dir =
 app-basics-enabled-plugins = Connectors habilitats
 app-basics-build-config = Configuració de la versió
 app-basics-user-agent = Agent d'usuari
+app-basics-os = SO
 app-basics-memory-use = Utilització de la memòria
+app-basics-performance = Rendiment
+app-basics-service-workers = Processos de treball de servei registrats
+app-basics-profiles = Perfils
 app-basics-multi-process-support = Finestres multiprocés
+app-basics-key-google = Clau de Google
+app-basics-safe-mode = Mode segur
+show-dir-label =
+    { PLATFORM() ->
+        [macos] Mostra-ho en el Finder
+        [windows] Obre la carpeta
+       *[other] Obre el directori
+    }
 modified-key-prefs-title = Preferències modificades importants
 modified-prefs-name = Nom
 modified-prefs-value = Valor
@@ -37,13 +56,36 @@ locked-key-prefs-title = Preferències importants blocades
 locked-prefs-name = Nom
 locked-prefs-value = Valor
 graphics-title = Gràfics
+graphics-features-title = Característiques
+graphics-diagnostics-title = Diagnòstics
+graphics-failure-log-title = Registre de fallades
+graphics-gpu1-title = GPU núm. 1
+graphics-gpu2-title = GPU núm. 2
+graphics-decision-log-title = Registre de decisions
+graphics-crash-guards-title = Característiques del protector de fallades desactivades
+graphics-workarounds-title = Solucions temporals
+place-database-title = Base de dades de llocs
+place-database-integrity = Integritat
+place-database-verify-integrity = Verifica la integritat
 js-title = JavaScript
+js-incremental-gc = Recollida de deixalles incremental
 a11y-title = Accessibilitat
 a11y-activated = Activat
 a11y-force-disabled = Evita l'accessibilitat
 library-version-title = Versions de la biblioteca
 copy-text-to-clipboard-label = Copia el text al porta-retalls
 copy-raw-data-to-clipboard-label = Copia les dades sense processar al porta-retalls
+sandbox-title = Entorn de proves
+sandbox-sys-call-log-title = Crides del sistema rebutjades
+sandbox-sys-call-index = #
+sandbox-sys-call-age = Fa uns segons
+sandbox-sys-call-pid = PID
+sandbox-sys-call-tid = TID
+sandbox-sys-call-proc-type = Tipus de procés
+sandbox-sys-call-number = Crida del sistema
+sandbox-sys-call-args = Arguments
+restart-in-safe-mode-label = Reinicia amb els complements inhabilitats…
+media-device-name = Nom
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -86,27 +128,85 @@ raw-data-copied = Les dades sense processar s'han copiat al porta-retalls
 blocked-driver = Blocat per la versió del controlador gràfic.
 blocked-gfx-card = Blocat per la targeta gràfica a causa de problemes no resolts del controlador.
 blocked-os-version = Blocat per la versió del sistema operatiu.
+blocked-mismatched-version = Blocat per què no coincideixen les versions del controlador gràfic del registre i de la DLL.
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Blocat pel controlador gràfic. Proveu d'actualitzar-lo a la versió { $driverVersion } o posterior.
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Paràmetres ClearType
+compositing = Composició
+hardware-h264 = Descodificació H264 per maquinari
+main-thread-no-omtc = fil principal, sense OMTC
+yes = Sí
+no = No
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
 ## not found.
 
+found = S'ha trobat
+missing = Falta
+gpu-description = Descripció
+gpu-vendor-id = ID del proveïdor
+gpu-device-id = ID del dispositiu
+gpu-subsys-id = ID del subsistema
+gpu-drivers = Controladors
+gpu-ram = RAM
+gpu-driver-version = Versió del controlador
+gpu-driver-date = Data del controlador
+gpu-active = Activa
+webgl1-extensions = Extensions WebGL 1
+webgl2-extensions = Extensions WebGL 2
+blocklisted-bug = És a la llista de bloquejos per problemes coneguts
+# Variables
+# $bugNumber (string) - String of bug number from Bugzilla
+bug-link = error { $bugNumber }
+# Variables
+# $failureCode (string) - String that can be searched in the source tree.
+unknown-failure = És a la llista de bloquejos; codi d'error { $failureCode }
+d3d11layers-crash-guard = Compositor D3D11
+d3d11video-crash-guard = Descodificador de vídeo D3D11
+d3d9video-crash-buard = Descodificador de vídeo D3D9
+glcontext-crash-guard = OpenGL
+reset-on-next-restart = Reinicialitza als valors per defecte en el proper reinici
+gpu-process-kill-button = Finalitza el procés de GPU
+audio-backend = Sistema de fons d'àudio
 min-lib-versions = Versió mínima esperada
 loaded-lib-versions = Versió en ús
+has-seccomp-bpf = Seccomp-BPF (filtratge de crides del sistema)
+has-seccomp-tsync = Sincronització de fils Seccomp
+has-user-namespaces = Espais de noms de l'usuari
+has-privileged-user-namespaces = Espais de noms de l'usuari per a processos privilegiats
+can-sandbox-content = Inclou en l'entorn de proves els processos de contingut
+can-sandbox-media = Inclou en l'entorn de proves els connectors multimèdia
+content-sandbox-level = Nivell de l'entorn de proves de processos de contingut
+effective-content-sandbox-level = Nivell de l'entorn de proves de processos de contingut efectiu
+sandbox-proc-type-content = contingut
+sandbox-proc-type-media-plugin = connector multimèdia
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
+multi-process-status-0 = Activat per l'usuari
+multi-process-status-1 = Activat per defecte
+multi-process-status-2 = Desactivat
+multi-process-status-4 = Inhabilitat per les eines d'accessibilitat
+multi-process-status-6 = Inhabilitat perquè l'entrada de text és incompatible
+multi-process-status-7 = Inhabilitat per part dels complements
+multi-process-status-8 = Inhabilitat de forma forçada
+multi-process-status-unknown = Estat desconegut
+async-pan-zoom = Pan/Zoom asíncrons
+apz-none = cap
+wheel-enabled = entrada amb roda activada
+touch-enabled = entrada tàctil activada
+drag-enabled = arrossegament de la barra de desplaçament activat
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
 
+wheel-warning = l'entrada amb roda asíncrona està desactivada perquè hi ha una preferència incompatible: { $preferenceKey }
+touch-warning = l'entrada tàctil asíncrona està desactivada perquè hi ha una preferència incompatible: { $preferenceKey }
 
 ## Strings representing the status of the Enterprise Policies engine.
 
