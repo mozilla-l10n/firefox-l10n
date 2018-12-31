@@ -14,6 +14,10 @@ extensions-name = नाम
 extensions-enabled = सक्रिय
 extensions-version = संस्करण
 extensions-id = आईडी
+features-title = { -brand-short-name } विशेषताएं
+features-name = नाम
+features-version = संस्करण
+features-id = ID
 app-basics-title = अनुप्रयोग मूल
 app-basics-name = नाम
 app-basics-version = संस्करण
@@ -35,6 +39,9 @@ app-basics-performance = प्रदर्शन
 app-basics-service-workers = सर्विस श्रमिक पंजीकृत किया गया
 app-basics-profiles = प्रोफ़ाइल
 app-basics-multi-process-support = बहुप्रक्रिया विंडोज़
+app-basics-process-count = वेब सामग्री प्रक्रियाएं
+app-basics-key-google = गूगल कुंजी
+app-basics-key-mozilla = Mozilla अवस्थिति सेवा कुंजी
 app-basics-safe-mode = सेफ मोड
 show-dir-label =
     { PLATFORM() ->
@@ -73,9 +80,28 @@ library-version-title = लाइब्रेरी संस्करण
 copy-text-to-clipboard-label = पाठ क्लिपबोर्ड में नक़ल लें
 copy-raw-data-to-clipboard-label = कच्चे डाटा क्लिपबोर्ड में नक़ल लें
 sandbox-title = सैंडबॉक्स{ " " }
+sandbox-sys-call-log-title = अस्वीकृत सिस्टम कॉल
+sandbox-sys-call-index = #
+sandbox-sys-call-age = क्षण पहले
+sandbox-sys-call-pid = PID
+sandbox-sys-call-tid = TID
+sandbox-sys-call-proc-type = प्रक्रिया का प्रकार
 sandbox-sys-call-number = सिसकॉल
+sandbox-sys-call-args = मापदंड
 safe-mode-title = सुरक्षित मोड में कोशिश करें
 restart-in-safe-mode-label = निष्क्रिय सहयुक्तियों के साथ फिर आरंभ करें...
+media-title = मीडिया
+media-output-devices-title = आउटपुट उपकरण
+media-input-devices-title = इनपुट उपकरण
+media-device-name = नाम
+media-device-group = समूह
+media-device-vendor = विक्रेता
+media-device-state = अवस्था
+media-device-preferred = पसंदीदा
+media-device-format = प्रारूप
+media-device-channels = चैनल्स
+media-device-rate = दर
+media-device-latency = विलंबता
 intl-app-title = अनुप्रयोग सेटिंग्स
 # Variables
 # $days (Integer) - Number of days of crashes to log
@@ -148,6 +174,16 @@ gpu-ram = रैम
 gpu-driver-version = ड्राइवर संस्करण
 gpu-driver-date = ड्राइवर दिनांक
 gpu-active = सक्रिय
+webgl1-wsiinfo = WebGL 1 ड्राइवर WSI सूचना
+webgl1-renderer = WebGL 1 ड्राइवर रेंडेरेर
+webgl1-version = WebGL 1 ड्राइवर संस्करण
+webgl1-driver-extensions = WebGL 1 ड्राइवर एक्सटेंशन
+webgl1-extensions = WebGL 1 एक्सटेंशन
+webgl2-wsiinfo = WebGL 2 ड्राइवर WSI सूचना
+webgl2-renderer = WebGL 2 ड्राइवर रेंडेरेर
+webgl2-version = WebGL 2 ड्राइवर वर्ज़न
+webgl2-driver-extensions = WebGL 2 ड्राइवर एक्सटेंशन
+webgl2-extensions = WebGL 2 एक्सटेंशन
 blocklisted-bug = ज्ञात समस्याओं के कारण प्रतिबाधित सूची में डाला गया
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
@@ -161,8 +197,11 @@ d3d9video-crash-buard = डी3डी9 वीडियो विसंकेत�
 glcontext-crash-guard = जीएल खोलें
 reset-on-next-restart = अगला पुनः आरंभ फिर सेट करें
 gpu-process-kill-button = GPU प्रक्रिया समाप्त करें
+gpu-device-reset-button = ट्रिगर डिवाइस रीसेट करें
+off-main-thread-paint-enabled = मुख्य थ्रेड चित्रकारी बंद
 audio-backend = ऑडियो बैकएण्ड
 max-audio-channels = मैक्स चैनल
+channel-layout = पसंदीदा चैनल लेआउट
 sample-rate = पसंदीदा नमूना दर
 min-lib-versions = प्रत्याशित न्यूनतम संस्करण
 loaded-lib-versions = उपयोग में संस्करण
@@ -173,7 +212,10 @@ has-privileged-user-namespaces = अधिकारीत प्रक्रि�
 can-sandbox-content = सामग्री प्रक्रिया सैंडबॉक्सिंग
 can-sandbox-media = मीडिया प्लगइन सैंडबॉक्सिंग
 content-sandbox-level = अंतर्वस्तु प्रक्रिया सैंडबॉक्स स्तर
+effective-content-sandbox-level = प्रभावी सामग्री प्रक्रिया सैंडबॉक्स स्तर
 sandbox-proc-type-content = अंतर्वस्तु
+sandbox-proc-type-file = फ़ाइल सामग्री
+sandbox-proc-type-media-plugin = मीडिया प्लगइन
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -191,6 +233,8 @@ apz-none = कोई नहीं
 wheel-enabled = पहिया इनपुट सक्षम{ " " }
 touch-enabled = टच इनपुट सक्षम
 drag-enabled = स्क्रोल बार खीचें सक्षम
+keyboard-enabled = कीबोर्ड सक्षम
+autoscroll-enabled = ऑटोसक्रोल सक्षम
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
