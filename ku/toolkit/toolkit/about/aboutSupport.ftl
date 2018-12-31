@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 page-title = Agahiyên Tamîrkirinê
+crashes-id = ID'a Raporkirinê
 extensions-title = Pêvek
 extensions-name = Nav
 extensions-enabled = Çalak
