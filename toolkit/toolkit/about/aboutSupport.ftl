@@ -32,12 +32,21 @@ app-basics-profile-dir =
 app-basics-enabled-plugins = Omogočeni vtičniki
 app-basics-build-config = Nastavitev graditve
 app-basics-user-agent = Uporabniški agent
+app-basics-os = OS
 app-basics-memory-use = Poraba pomnilnika
+app-basics-performance = Učinkovitost
 app-basics-service-workers = Registrirani Service Workerji
+app-basics-profiles = Profili
 app-basics-multi-process-support = Večprocesna okna
 app-basics-key-google = Ključ Google
 app-basics-key-mozilla = Ključ lokacijskih storitev Mozilla
 app-basics-safe-mode = Varni način
+show-dir-label =
+    { PLATFORM() ->
+        [macos] Prikaži v Finderju
+        [windows] Odpri mapo
+       *[other] Odpri mapo
+    }
 modified-key-prefs-title = Pomembne spremenjene nastavitve
 modified-prefs-name = Ime
 modified-prefs-value = Vrednost
@@ -47,6 +56,17 @@ locked-key-prefs-title = Pomembne zaklenjene nastavitve
 locked-prefs-name = Ime
 locked-prefs-value = Vrednost
 graphics-title = Grafika
+graphics-features-title = Možnosti
+graphics-diagnostics-title = Diagnostika
+graphics-failure-log-title = Dnevnik napak
+graphics-gpu1-title = GPE št. 1
+graphics-gpu2-title = GPE št. 2
+graphics-decision-log-title = Dnevnik odločitev
+graphics-crash-guards-title = Onemogočene možnosti zaščite pred sesutjem
+graphics-workarounds-title = Zaobidenja
+place-database-title = Podatkovna zbirka mest
+place-database-integrity = Celovitost
+place-database-verify-integrity = Preveri celovitost
 js-title = JavaScript
 js-incremental-gc = Inkrementalen GC
 a11y-title = Dostopnost
@@ -132,11 +152,50 @@ try-newer-driver = Onemogočeno za vaš grafični gonilnik. Poskusite ga posodob
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Parametri ClearType
+compositing = Sestavljanje
+hardware-h264 = Strojno dekodiranje H264
+main-thread-no-omtc = glavna nit, brez OMTC
+yes = Da
+no = Ne
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
 ## not found.
 
+found = Najdeno
+missing = Manjka
+gpu-description = Opis
+gpu-vendor-id = ID izdelovalca
+gpu-device-id = ID naprave
+gpu-subsys-id = ID podsistema
+gpu-drivers = Gonilniki
+gpu-ram = RAM
+gpu-driver-version = Različica gonilnika
+gpu-driver-date = Datum gonilnika
+gpu-active = Dejaven
+webgl1-wsiinfo = Podatki WSI o gonilniku WebGL 1
+webgl1-renderer = Izrisovalnik gonilnika WebGL 1
+webgl1-version = Različica gonilnika WebGL 1
+webgl1-driver-extensions = Razširitve gonilnika WebGL 1
+webgl1-extensions = Razširitve WebGL 1
+webgl2-wsiinfo = Podatki WSI o gonilniku WebGL 2
+webgl2-renderer = Izrisovalnik gonilnika WebGL 2
+webgl2-version = Različica gonilnika WebGL 2
+webgl2-driver-extensions = Razširitve gonilnika WebGL 2
+webgl2-extensions = Razširitve WebGL 2
+blocklisted-bug = Dodano na seznam zavrnjenih zaradi znanih težav
+# Variables
+# $bugNumber (string) - String of bug number from Bugzilla
+bug-link = hrošč { $bugNumber }
+# Variables
+# $failureCode (string) - String that can be searched in the source tree.
+unknown-failure = Dodano na seznam zavrnjenih; koda napake { $failureCode }
+d3d11layers-crash-guard = Sestavljalnik D3D11
+d3d11video-crash-guard = Videodekodirnik D3D11
+d3d9video-crash-buard = Videodekodirnik D3D9
+glcontext-crash-guard = OpenGL
+reset-on-next-restart = Ponastavi ob naslednjem zagonu
+gpu-process-kill-button = Prekini proces GPE
 uses-tiling = Uporablja razpostavljanje
 off-main-thread-paint-enabled = Izrisovanje izven glavne niti je omogočeno
 off-main-thread-paint-worker-count = Število workerjev za izrisovanje izven glavne niti
@@ -151,16 +210,28 @@ has-user-namespaces = Uporabniški imenski prostori
 has-privileged-user-namespaces = Uporabniški imenski prostori za privilegirane procese
 can-sandbox-content = Peskovnik vsebinskih procesov
 can-sandbox-media = Peskovnik večpredstavnih vtičnikov
+content-sandbox-level = Raven peskovnika vsebinskih opravil
 effective-content-sandbox-level = Dejanska raven peskovnika vsebinskih opravil
+sandbox-proc-type-content = vsebina
+sandbox-proc-type-media-plugin = večpredstavni vtičnik
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
+multi-process-status-0 = Omogočil uporabnik
+multi-process-status-1 = Privzeto omogočeno
+multi-process-status-2 = Onemogočeno
+multi-process-status-4 = Onemogočila orodja za dostopnost
+multi-process-status-6 = Onemogočeno zaradi nepodprtega vnosa besedila
+multi-process-status-7 = Onemogočili dodatki
+multi-process-status-8 = Prisilno onemogočeno
+multi-process-status-unknown = Neznano stanje
 async-pan-zoom = Asinhrono pomikanje/povečava
 apz-none = brez
 wheel-enabled = vnos s koleščkom omogočen
 touch-enabled = vnos na dotik omogočen
 drag-enabled = vlečenje drsnika omogočeno
+autoscroll-enabled = samodrsenje omogočeno
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
