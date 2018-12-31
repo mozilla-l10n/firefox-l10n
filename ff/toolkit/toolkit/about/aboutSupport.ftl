@@ -9,6 +9,8 @@ extensions-version = Yamre
 app-basics-title = Beeɓtuɗe Jaaɓnirgal
 app-basics-name = Innde
 app-basics-version = Yamre
+app-basics-update-history = Aslol Kesɗitine
+app-basics-show-update-history = Hollu Aslol Kesɗitine
 app-basics-profile-dir =
     { PLATFORM() ->
         [linux] Runngere Keftinirɗe
@@ -20,6 +22,8 @@ app-basics-user-agent = Ajajo Kuutoro
 app-basics-memory-use = Kuutorogol Tesko
 modified-key-prefs-title = Jiggo Teelte Baylaaɗe
 modified-prefs-name = Innde
+user-js-title = Keeroraaɗi user.js
+user-js-description = Runngere heftinirde maa ena waɗi <a data-l10n-name="user-js-link">fiilde user.js</a>, waɗnde keeroraaɗi ɗi { -brand-short-name } sosaani.
 graphics-title = Jaytinooje
 js-title = JavaScript
 js-incremental-gc = Incremental GC
