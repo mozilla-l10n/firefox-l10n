@@ -14,6 +14,12 @@ extensions-name = Mjeno
 extensions-enabled = Zmóžnjeny
 extensions-version = Wersija
 extensions-id = ID
+security-software-title = Wěstotna softwara
+security-software-type = Typ
+security-software-name = Mjeno
+security-software-antivirus = Antiwirusowy program
+security-software-antispyware = Program přećiwo spionažnej softwarje
+security-software-firewall = Wohnjomurja
 features-title = Funkcije { -brand-short-name }
 features-name = Mjeno
 features-version = Wersija
@@ -40,6 +46,7 @@ app-basics-service-workers = Zregistrowane service workers
 app-basics-profiles = Profile
 app-basics-multi-process-support = Multiprocesowe wokna
 app-basics-process-count = Webwobsahowe procesy
+app-basics-enterprise-policies = Předewzaćelske prawidła
 app-basics-key-google = Kluč Google
 app-basics-key-mozilla = Kluč słužby postajenja stejnišća Mozilla
 app-basics-safe-mode = Wěsty modus
@@ -89,6 +96,7 @@ sandbox-sys-call-proc-type = Procesowy typ
 sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Argumenty
 safe-mode-title = Wěsty modus spytać
+restart-in-safe-mode-label = Ze znjemóžnjenymi přidatkami startować…
 media-title = Medije
 media-output-devices-title = Wudawanske graty
 media-input-devices-title = Zapodawanske graty
@@ -101,6 +109,15 @@ media-device-format = Format
 media-device-channels = Kanale
 media-device-rate = Rata
 media-device-latency = Latenca
+intl-title = Internacionalizacija a lokalizacija
+intl-app-title = Nastajenja nałoženja
+intl-locales-requested = Požadane rěče
+intl-locales-available = K dispoziciji stejace reče
+intl-locales-supported = Rěče nałoženja
+intl-locales-default = Standardna rěč
+intl-os-title = Dźěłowy system
+intl-os-prefs-system-locales = Systemowe rěče
+intl-regional-prefs = Regionalne nastajenja
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -206,7 +223,10 @@ glcontext-crash-guard = OpenGL
 reset-on-next-restart = Při přichodnym nowym starće wróćo stajić
 gpu-process-kill-button = GPU-proces skónčić
 gpu-device-reset-button = Gratowe wróćostajenje zahibać
+uses-tiling = Wužiwa kachlički
+content-uses-tiling = Wužiwa kachlicowanje (wobsah)
 off-main-thread-paint-enabled = Off Main Thread Painting zmóžnjeny
+off-main-thread-paint-worker-count = Ličba workerow Off Main Thread Painting
 audio-backend = Awdiobackend
 max-audio-channels = Maksimalna ličba kanalow
 channel-layout = Preferowane kanalowe wuhotowanje
@@ -222,6 +242,7 @@ can-sandbox-media = Testowanje medijowych tykačow w pěskowym kašćiku
 content-sandbox-level = Runina wobsahowych procesow w pěskowym kašćiku
 effective-content-sandbox-level = Aktualna runina wobsahowych procesow w pěskowym kašćiku
 sandbox-proc-type-content = wobsah
+sandbox-proc-type-file = datajowy wobsah
 sandbox-proc-type-media-plugin = medijowy tykač
 # Variables
 # $remoteWindows (integer) - Number of remote windows
@@ -241,6 +262,7 @@ wheel-enabled = zapodaće z koleskom zmóžnjene
 touch-enabled = zapodaće přez podótknjenje zmóžnjene
 drag-enabled = ćahanje suwanskeje lajsty zmóžnjene
 keyboard-enabled = tastatura zmóžnjena
+autoscroll-enabled = awtomatiske kulenje zmóžnjene
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
@@ -250,3 +272,6 @@ touch-warning = asynchrone zapodaće přez podótknjenje je so njepodpěraneho n
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+policies-inactive = Njeaktiwny
+policies-active = Aktiwny
+policies-error = Zmylk
