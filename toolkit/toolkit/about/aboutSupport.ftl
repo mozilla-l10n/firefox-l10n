@@ -23,6 +23,8 @@ security-software-firewall = Mur Cadarn
 app-basics-title = Sylfaeni Rhaglen
 app-basics-name = Enw
 app-basics-version = Fersiwn
+app-basics-build-id = Cyfeirnod Adeiladu
+app-basics-update-channel = Sianel Diweddaru
 app-basics-update-history = Hanes Diweddaru
 app-basics-show-update-history = Dangos Hanes Diweddaru
 app-basics-profile-dir =
@@ -33,15 +35,42 @@ app-basics-profile-dir =
 app-basics-enabled-plugins = Ategion Galluogwyd
 app-basics-build-config = Ffurfweddiad Adeiladu
 app-basics-user-agent = Asiant Defnyddiwr
+app-basics-os = SW
 app-basics-memory-use = Defnydd o'r cof
+app-basics-performance = Perfformiad
+app-basics-service-workers = Service Workers Cofrestredig
+app-basics-profiles = Proffiliau
+app-basics-multi-process-support = Ffenestri Amlbroses
 app-basics-enterprise-policies = Polisïau Mentrau
+app-basics-key-google = Allwedd Google
+app-basics-key-mozilla = Mozilla Location Service Key
+app-basics-safe-mode = Modd Diogel
+show-dir-label =
+    { PLATFORM() ->
+        [macos] Dangos yn Finder
+        [windows] Agor Ffolder
+       *[other] Agor Cyfeiriadur
+    }
 modified-key-prefs-title = Dewisiadau Pwysig wedi eu Newid
 modified-prefs-name = Enw
 modified-prefs-value = Gwerth
 user-js-title = Dewisiadau user.js
 user-js-description = Mae eich ffolder profil yn cynnwys <a data-l10n-name="user-js-link">ffeil user.js</a>, sy'n cynnwys dewisiadau sydd heb eu creu gan { -brand-short-name }.
 locked-key-prefs-title = Dewisiadau Pwysig Wedi eu Cloi
+locked-prefs-name = Enw
+locked-prefs-value = Gwerth
 graphics-title = Graffigau
+graphics-features-title = Nodweddion
+graphics-diagnostics-title = Diagnosteg
+graphics-failure-log-title = Cofnod Methiant
+graphics-gpu1-title = GPU #1
+graphics-gpu2-title = GPU #2
+graphics-decision-log-title = Cofnod Penderfynnu
+graphics-crash-guards-title = Nodweddion Crash Guard wedi ei Analluogi
+graphics-workarounds-title = Dulliau Datrys
+place-database-title = Cronfa Ddata Mannau
+place-database-integrity = Cyfanrwydd
+place-database-verify-integrity = Gwirio Cyfanrwydd
 js-title = JavaScript
 js-incremental-gc = GC Cynnyddol
 a11y-title = Hygyrchedd
@@ -50,6 +79,17 @@ a11y-force-disabled = Atal Hygyrchedd
 library-version-title = Fersiynau Llyfrgell
 copy-text-to-clipboard-label = Copïo testun i'r clipfwrdd
 copy-raw-data-to-clipboard-label = Copïo data bras i'r clipfwrdd
+sandbox-title = Blwch tywod
+sandbox-sys-call-log-title = Galwadau System wedi eu Gwrthod
+sandbox-sys-call-index = #
+sandbox-sys-call-age = Eiliad yn Ôl
+sandbox-sys-call-pid = PID
+sandbox-sys-call-tid = TID
+sandbox-sys-call-proc-type = Math o Brosesu
+sandbox-sys-call-number = Syscall
+sandbox-sys-call-args = Ymresymiadau
+safe-mode-title = Defnyddiwch y Modd Diogel
+restart-in-safe-mode-label = Ailgychwyn gydag Ychwanegion wedi eu Hanalluogi…
 intl-title = Rhyngwladoli a Lleoleiddio
 intl-app-title = Gosodiadau'r Rhaglen
 intl-locales-requested = Locales Gofynnwyd Amdanynt
@@ -122,31 +162,95 @@ text-copied = Copïwyd testun i'r clipfwrdd
 blocked-driver = Wedi ei rwystro ar gyfer y fersiwn o'ch gyrrwr graffigol chi.
 blocked-gfx-card = Wedi ei rwystro ar gyfer eich cerdyn graffigol oherwydd pryderon gyrrwr heb eu datrys.
 blocked-os-version = Wedi ei rwystro ar gyfer eich fersiwn chi o'r system weithredu.
+blocked-mismatched-version = Rhwystro ar gyfer gwrthdaro fersiwn gyrrwr graffig y gofrestrfa a'r DLL.
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Wedi ei rwystro ar gyfer eich gyrrwr graffigol chi. Ceisiwch ddiweddaru'r gyrrwr i fersiwn { $driverVersion } neu ddiweddarach.
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Paramedrau ClearType
+compositing = Cyfosod
+hardware-h264 = Dadgodio Caledwedd H264
+main-thread-no-omtc = prif drywydd, dim OMTC
+yes = Iawn
+no = Na
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
 ## not found.
 
+found = Wedi Canfod
+missing = Coll
+gpu-description = Disgrifiad
+gpu-vendor-id = Enw'r Gwerthwr
+gpu-device-id = Enw Dyfais
+gpu-subsys-id = Enw subsys
+gpu-drivers = Gyrwyr
+gpu-ram = RAM
+gpu-driver-version = Fersiwn Gyrrwr
+gpu-driver-date = Dyddiad y Gyrrwr
+gpu-active = Gweithredol
+webgl1-wsiinfo = Gwybodaeth WSI ar yrrwr WebGL 1
+webgl1-renderer = Rendrwr Gyrrwr WebGL 1
+webgl1-version = Fersiwn Gyrrwr WebGL 1
+webgl1-driver-extensions = Estyniadau Gyrrwr WebGL 1
+webgl1-extensions = Estyniadau WebGL 1
+webgl2-wsiinfo = Gwybodaeth WSI Gyrrwr WebGL 2
+webgl2-renderer = Rendrwr Gyrrwr WebGL 2
+webgl2-version = Fersiwn Gyrrwr WebGL 2
+webgl2-driver-extensions = Estyniadau Gyrrwr WebGL 2
+webgl2-extensions = Estyniadau WebGL 2
+blocklisted-bug = Wedi eu rhwystro ar sail gwybodaeth hysbys
+# Variables
+# $bugNumber (string) - String of bug number from Bugzilla
+bug-link = gwall { $bugNumber }
+# Variables
+# $failureCode (string) - String that can be searched in the source tree.
+unknown-failure = Wedi ei rwystro; gwall cod { $failureCode }
+d3d11layers-crash-guard = Cyfosodwr D3D11
+d3d11video-crash-guard = Dadgodiwr Fideo D3D11
+d3d9video-crash-buard = Dadgodiwr Fideo D3D9
+glcontext-crash-guard = OpenGL
+reset-on-next-restart = Ailosod wrth Ailgychwyn
+gpu-process-kill-button = Gorffen Proses GPU
 uses-tiling = Yn defnyddio Teilsio
 off-main-thread-paint-worker-count = Cyfrif Gweithiwr Paentio Oddi ar y Brif Drywydd
 min-lib-versions = Fersiwn lleiaf disgwyliedig
 loaded-lib-versions = Fersiwn mewn defnydd
+has-seccomp-bpf = Seccomp-BPF (Hidlo Galw System)
+has-seccomp-tsync = Cydweddiad Edafedd Seccomp
+has-user-namespaces = Bylchau Enwau Defnyddiwr
+has-privileged-user-namespaces = Bylchau Enw Defnyddiwr fel prosesau breintiedig
+can-sandbox-content = Blwch Tywod Proses Cynnwys
+can-sandbox-media = Blwch Tywod Ategyn Cyfrwng
+content-sandbox-level = Lefel Blwch Tywod Proses Cynnwys
+sandbox-proc-type-content = cynnwys
 sandbox-proc-type-file = cynnwys ffeil
+sandbox-proc-type-media-plugin = ategyn cyfrwng
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
+multi-process-status-0 = Galluogwyd gan y defnyddiwr
+multi-process-status-1 = Galluogwyd drwy ragosodiad
+multi-process-status-2 = Analluogwyd
+multi-process-status-4 = Analluogwyd gan offer hygyrchedd
+multi-process-status-6 = Analluogwyd gan fewnbwn testun heb ei gynnal
+multi-process-status-7 = Analluogwyd gan ychwanegion
+multi-process-status-8 = Analluogi gorfodol
+multi-process-status-unknown = Statws anhysbys
+async-pan-zoom = Chwyddo a Thremio Anghydamseredig
+apz-none = dim
+wheel-enabled = mewnbwn olwyn wedi ei alluogi
+touch-enabled = mewnbwn cyffwrdd wedi ei alluogi
+drag-enabled = wedi galluogu llusgo bar sgrolio
 autoscroll-enabled = galluogwyd awtosgrolio
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
 
+wheel-warning = Mae mewnbwn olwyn async wedi ei analluogi oherwydd diffyg cefnogaeth pref: { $preferenceKey }
+touch-warning = Mae mewnbwn cyffwrdd async wedi ei analluogi oherwydd diffyg cefnogaeth pref: { $preferenceKey }
 
 ## Strings representing the status of the Enterprise Policies engine.
 
