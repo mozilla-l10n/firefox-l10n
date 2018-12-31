@@ -17,6 +17,12 @@ extensions-name = İsim
 extensions-enabled = Qabilleştirilgen
 extensions-version = Sürüm
 extensions-id = Kimlik
+security-software-title = Emniyet Yazılımı
+security-software-type = Tür
+security-software-name = İsim
+security-software-antivirus = Antivirus
+security-software-antispyware = Anticasuslam
+security-software-firewall = Ateşdivarı
 features-title = { -brand-short-name } Hususiyetleri
 features-name = İsim
 features-version = Sürüm
@@ -43,6 +49,7 @@ app-basics-service-workers = Qaydlı Hızmet İşçileri
 app-basics-profiles = Profiller
 app-basics-multi-process-support = Çoqlusüreç Pencereler
 app-basics-process-count = Ağ Muhtevası Süreçleri
+app-basics-enterprise-policies = Qurum Siyasetleri
 app-basics-key-google = Google Anahtarı
 app-basics-key-mozilla = Mozilla Qonum Hızmeti Anahtarı
 app-basics-safe-mode = Emin Tarz
@@ -114,6 +121,43 @@ intl-locales-default = Ögbelgilengen Mahal
 intl-os-title = İşletim Sistemi
 intl-os-prefs-system-locales = Sistem Mahalleri
 intl-regional-prefs = Region Tercihleri
+# Variables
+# $days (Integer) - Number of days of crashes to log
+report-crash-for-days =
+    { $days ->
+        [one] Soñki { $days } Kün içün Çöküş Maruzaları
+       *[other] Soñki { $days } Kün içün Çöküş Maruzaları
+    }
+# Variables
+# $minutes (integer) - Number of minutes since crash
+crashes-time-minutes =
+    { $minutes ->
+        [one] { $minutes } daqqa evvel
+       *[other] { $minutes } daqqa evvel
+    }
+# Variables
+# $hours (integer) - Number of hours since crash
+crashes-time-hours =
+    { $hours ->
+        [one] { $hours } saat evvel
+       *[other] { $hours } saat evvel
+    }
+# Variables
+# $days (integer) - Number of days since crash
+crashes-time-days =
+    { $days ->
+        [one] { $days } kün evvel
+       *[other] { $days } kün evvel
+    }
+# Variables
+# $reports (integer) - Number of pending reports
+pending-reports =
+    { $reports ->
+        [one] Hepsi Çöküş Maruzaları (berilgen zaman menzilindeki { $reports } beklegen çöküş dahil)
+       *[other] Hepsi Çöküş Maruzaları (berilgen zaman menzilindeki { $reports } beklegen çöküş dahil)
+    }
+raw-data-copied = Çiy veriler tüyreme-tahtasına kopiyalanğan
+text-copied = Metin tüyreme-tahtasına kopiyalanğan
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
@@ -172,7 +216,10 @@ glcontext-crash-guard = OpenGL
 reset-on-next-restart = Soñraki Kene Başlatma üzerine Sıfırla
 gpu-process-kill-button = GPU Sürecini Soñlandır
 gpu-device-reset-button = Tetik Cihazı Sıfırlanması
+uses-tiling = Fayanslamanı Qullanır
+content-uses-tiling = Fayanslamanı Qullanır (Muhteva)
 off-main-thread-paint-enabled = Baş Yip Tışı Boyama Qabilleştirilgen
+off-main-thread-paint-worker-count = Ana Yip Tışı Boyayıcı İşçi Sayısı
 audio-backend = Audio Arqa-ucu
 max-audio-channels = Azamiy Kanallar
 channel-layout = Tercihli Kanal Tizilimi
@@ -218,3 +265,6 @@ touch-warning = desteklenmegen tercih sebebinden eşzamansız tiyüv kirdisi naq
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+policies-inactive = Ğayrıfaal
+policies-active = Faal
+policies-error = Hata
