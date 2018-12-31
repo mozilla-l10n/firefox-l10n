@@ -3,6 +3,11 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 page-title = Informacije rješavanja problema
+crashes-title = Izvještaji o rušenju
+crashes-id = ID izvještaja
+crashes-send-date = Poslano
+crashes-all-reports = Svi izvještaji o rušenju
+crashes-no-config = Ovaj program nije podešen da prikazuje izvještaje o rušenju.
 extensions-title = Proširenja
 extensions-name = Naziv
 extensions-enabled = Omogućeno
@@ -36,6 +41,38 @@ a11y-force-disabled = Onemogući pristupačnost
 library-version-title = Inačice biblioteke
 copy-text-to-clipboard-label = Kopiraj tekst u međuspremnik
 copy-raw-data-to-clipboard-label = Kopiraj neobrađene podatke u međuspremnik
+# Variables
+# $days (Integer) - Number of days of crashes to log
+report-crash-for-days =
+    { $days ->
+        [one] Izvještaji o rušenju za protekli { $days } dan
+        [few] Izvještaji o rušenju za proteklih { $days } dana
+       *[other] Izvještaji o rušenju za proteklih { $days } dana
+    }
+# Variables
+# $hours (integer) - Number of hours since crash
+crashes-time-hours =
+    { $hours ->
+        [one] Prije { $hours } sat
+        [few] Prije { $hours } sata
+       *[other] Prije { $hours } sati
+    }
+# Variables
+# $days (integer) - Number of days since crash
+crashes-time-days =
+    { $days ->
+        [one] Prije { $days } dan
+        [few] Prije { $days } dana
+       *[other] Prije { $days } dana
+    }
+# Variables
+# $reports (integer) - Number of pending reports
+pending-reports =
+    { $reports ->
+        [one] Svi izvještaji o rušenju (uključujući { $reports } neriješeno rušenje u danom periodu)
+        [few] Svi izvještaji o rušenju (uključujući { $reports } neriješena rušenja u danom periodu)
+       *[other] Svi izvještaji o rušenju (uključujući { $reports } neriješenih rušenja u danom periodu)
+    }
 raw-data-copied = Neobrađeni podaci kopirani u međuspremnik
 text-copied = Tekst kopiran u međuspremnik
 
