@@ -4,6 +4,10 @@
 
 page-title = Tinotrobolsyot ang Impormasyon
 page-subtitle = This page contains technical information that might be useful when you're trying to solve a problem. If you are looking for answers to common questions about { -brand-short-name }, check out our <a data-l10n-name="support-link">support web site</a>.
+crashes-title = Ulat ng mga Crash
+crashes-id = Ulat ID
+crashes-send-date = Nai-sumite
+crashes-all-reports = Lahat ng Ulat ng Pag-crash
 extensions-name = Pangalan
 extensions-version = Bersyon
 extensions-id = ID
@@ -11,6 +15,7 @@ features-title = { -brand-short-name } Mga Tampok
 features-name = Pangalan
 features-version = Bersyon
 features-id = ID
+app-basics-title = Mga panimula ng Aplikasyon
 app-basics-name = Pangalan
 app-basics-version = Bersyon
 app-basics-build-id = Build ID
@@ -59,7 +64,10 @@ place-database-verify-integrity = Patunayan ang Integridad
 js-title = JavaScript
 js-incremental-gc = Incremental GC
 a11y-title = Madaling I-access
+a11y-activated = Isinaaktibo
 a11y-force-disabled = Pigilan ang pag-access
+copy-text-to-clipboard-label = Kopyahin ang text sa clipboard
+copy-raw-data-to-clipboard-label = Kopyahhin ang raw na datus sa clipboard
 sandbox-title = Sandbox
 sandbox-sys-call-index = #
 sandbox-sys-call-age = Mga segundong Nakalipas
