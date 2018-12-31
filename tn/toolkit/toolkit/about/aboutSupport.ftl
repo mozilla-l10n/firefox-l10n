@@ -13,14 +13,18 @@ a11y-title = Tetlelesego
 ## In some development versions, it's expected for some API keys that they are
 ## not found.
 
+has-seccomp-tsync = Mokgwa o sireletsegileng wa palo tsheka-tsheko ya Thulaganyo ka tsamaisano ya tlhale
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
+async-pan-zoom = Nakoitaolo Kamobontsi/Taolabogolo
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
 
+wheel-warning = Leotwana tsenyeletso la nakoitaolo le koafaditswe ka mabaka a go tlhoka go tshegediwa ga dikgethwa: { $preferenceKey }
+touch-warning = nakoitaolo kamo tsenyeletso e koafaditswe ka mabaka a go tlhoka go tshegediwa ga dikgethwa: { $preferenceKey }
 
 ## Strings representing the status of the Enterprise Policies engine.
 
