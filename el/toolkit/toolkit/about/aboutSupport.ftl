@@ -172,6 +172,8 @@ no = Όχι
 ## In some development versions, it's expected for some API keys that they are
 ## not found.
 
+found = Βρέθηκε
+missing = Λείπει
 gpu-description = Περιγραφή
 gpu-vendor-id = ID κατασκευαστή
 gpu-device-id = ID συσκευής
@@ -181,7 +183,16 @@ gpu-ram = RAM
 gpu-driver-version = Έκδοση προγράμματος οδήγησης
 gpu-driver-date = Ημερομηνία οδηγού
 gpu-active = Ενεργό
+webgl1-wsiinfo = Πληροφορίες WSI οδηγού WebGL 1
+webgl1-renderer = Πρόγραμμα απόδοσης WebGL 1
+webgl1-version = Έκδοση οδηγού WebGL 1
+webgl1-driver-extensions = Επεκτάσεις οδηγού WebGL 1
+webgl1-extensions = Επεκτάσεις WebGL 1
+webgl2-wsiinfo = Πληροφορίες WSI οδηγού WebGL 2
 webgl2-renderer = Απόδοση WebGL2
+webgl2-version = Έκδοση οδηγού WebGL 2
+webgl2-driver-extensions = Επεκτάσεις οδηγού WebGL 2
+webgl2-extensions = Επεκτάσεις WebGL 2
 blocklisted-bug = Μπλοκαρίστηκε λόγω γνωστών θεμάτων
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
@@ -203,8 +214,13 @@ min-lib-versions = Αναμενόμενη ελάχιστη έκδοση
 loaded-lib-versions = Έκδοση σε χρήση
 has-seccomp-bpf = Seccomp-BPF (Φιλτράρισμα κλήσεων συστήματος)
 has-seccomp-tsync = Συγχρονισμός νήματος Seccomp
+has-user-namespaces = Χώροι ονομάτων χρήστη
+has-privileged-user-namespaces = Χώροι ονομάτων χρήστη για προνομιακές διεργασίες
+can-sandbox-content = Sandboxing διεργασίας περιεχομένου
 can-sandbox-media = Sandboxing αρθρώματος πολυμέσων
+content-sandbox-level = Επίπεδο sandbox διεργασίας περιεχομένου
 effective-content-sandbox-level = Αποτελεσματικό επίπεδο επεξεργασίας περιεχομένου sandbox
+sandbox-proc-type-content = περιεχόμενο
 sandbox-proc-type-media-plugin = άρθρωμα πολυμέσων
 # Variables
 # $remoteWindows (integer) - Number of remote windows
@@ -216,6 +232,7 @@ multi-process-status-2 = Ανενεργό
 multi-process-status-4 = Απενεργοποιημένο από τα εργαλεία προσβασιμότητας
 multi-process-status-6 = Απενεργοποιημένο από μη υποστηριζόμενη είσοδο κειµένου
 multi-process-status-7 = Απενεργοποιήθηκε από πρόσθετα
+multi-process-status-8 = Αναγκαστικώς απενεργοποιημένο
 multi-process-status-unknown = Άγνωστη κατάσταση
 async-pan-zoom = Ασύγχρονο Pan/Zoom
 apz-none = κανένα
