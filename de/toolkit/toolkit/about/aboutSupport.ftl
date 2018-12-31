@@ -265,3 +265,6 @@ touch-warning = Asynchrone Berührungs-Eingabe deaktiviert auf Grund nicht unter
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+policies-inactive = Inaktiv
+policies-active = Aktiv
+policies-error = Fehler
