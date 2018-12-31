@@ -14,6 +14,7 @@ crashes-all-reports = Todos os relatórios de travamentos
 crashes-no-config = Este aplicativo não foi configurado para exibir relatórios de travamento.
 extensions-title = Extensões
 extensions-name = Nome
+extensions-enabled = Ativado
 extensions-version = Versão
 extensions-id = ID
 security-software-title = Software de segurança
@@ -38,6 +39,7 @@ app-basics-profile-dir =
         [linux] Diretório do perfil
        *[other] Pasta do perfil
     }
+app-basics-enabled-plugins = Plugins ativados
 app-basics-build-config = Configuração da compilação
 app-basics-user-agent = User Agent
 app-basics-os = OS
@@ -45,6 +47,7 @@ app-basics-memory-use = Uso de memória
 app-basics-performance = Desempenho
 app-basics-service-workers = Service Workers registrados
 app-basics-profiles = Perfis
+app-basics-multi-process-support = Janelas multiprocessadas
 app-basics-process-count = Processos de conteúdo Web
 app-basics-key-google = Chave do Google
 app-basics-key-mozilla = Chave do serviço de localização da Mozilla
@@ -168,6 +171,7 @@ try-newer-driver = Bloqueado para a versão do seu driver gráfico. Tentar atual
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Parâmetros ClearType
 compositing = Composição
+hardware-h264 = Decodificação H264 por hardware
 main-thread-no-omtc = tópico principal, sem OMTC
 yes = Sim
 no = Não
@@ -208,6 +212,7 @@ d3d11layers-crash-guard = Compositor D3D11
 d3d11video-crash-guard = Decodificador de vídeo D3D11
 d3d9video-crash-buard = Decodificador de vídeo D3D9
 glcontext-crash-guard = OpenGL
+reset-on-next-restart = Redefinir na próxima reinicialização
 gpu-process-kill-button = Finalizar processo GPU
 gpu-device-reset-button = Ativar a Redefinição de Dispositivo
 uses-tiling = Usa mosaicos
@@ -224,7 +229,10 @@ has-seccomp-bpf = Seccomp-BPF (Sistema de filtragem de chamadas)
 has-seccomp-tsync = Sincronização do Tópico Seccomp
 has-user-namespaces = Espaço de nomes do usuário
 has-privileged-user-namespaces = Espaço de nomes do usuário para processos privilegiados
+can-sandbox-content = Isolamento de processamento de conteúdo
 can-sandbox-media = Isolamento de plugins de mídia
+content-sandbox-level = Nível de isolamento de processamento de conteúdo
+effective-content-sandbox-level = Nível efetivo de isolamento de processamento de conteúdo
 sandbox-proc-type-content = conteúdo
 sandbox-proc-type-file = conteúdo do arquivo
 sandbox-proc-type-media-plugin = plugin de mídia
@@ -232,8 +240,13 @@ sandbox-proc-type-media-plugin = plugin de mídia
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
+multi-process-status-0 = Ativado pelo usuário
+multi-process-status-1 = Ativado por padrão
+multi-process-status-2 = Desativado
 multi-process-status-4 = Desativado por ferramentas de acessibilidade
 multi-process-status-6 = Desativado por entrada de texto não suportada
+multi-process-status-7 = Desativado por extensões
+multi-process-status-8 = Desativado à força
 multi-process-status-unknown = Status desconhecido
 async-pan-zoom = Deslocamento/Zoom assíncrono
 apz-none = nenhum
@@ -241,6 +254,7 @@ wheel-enabled = entrada wheel habilitada
 touch-enabled = entrada touch habilitada
 drag-enabled = arrasto da barra de rolagem habilitado
 keyboard-enabled = teclado habilitado
+autoscroll-enabled = rolagem automática ativada
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
