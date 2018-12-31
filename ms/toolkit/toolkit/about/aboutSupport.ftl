@@ -30,6 +30,7 @@ features-id = ID
 app-basics-title = Asas Aplikasi
 app-basics-name = Nama
 app-basics-version = Versi
+app-basics-build-id = ID Binaan
 app-basics-update-channel = Saluran Kemaskini
 app-basics-update-history = Sejarah Kemaskini
 app-basics-show-update-history = Papar Sejarah Kemaskini
@@ -51,6 +52,7 @@ app-basics-process-count = Proses Kandungan Web
 app-basics-enterprise-policies = Polisi Syarikat
 app-basics-key-google = Google Key
 app-basics-key-mozilla = Mozilla Location Service Key
+app-basics-safe-mode = Mod Selamat
 show-dir-label =
     { PLATFORM() ->
         [macos] Papar dalam Finder
@@ -68,9 +70,15 @@ locked-prefs-value = Nilai
 graphics-title = Grafik
 graphics-features-title = Ciri
 graphics-diagnostics-title = Diagnostik
+graphics-failure-log-title = Log Kegagalan
+graphics-gpu1-title = GPU #1
+graphics-gpu2-title = GPU #2
+graphics-decision-log-title = Log Keputusan
 graphics-crash-guards-title = Ciri Crash Guard Dinyahdayakan
 graphics-workarounds-title = Workarounds
+place-database-title = Tempat Pangkalan Data
 place-database-integrity = Integriti
+place-database-verify-integrity = Sahkan Integriti
 js-title = JavaScript
 js-incremental-gc = Tokokan GC
 a11y-title = Ketercapaian
@@ -90,6 +98,7 @@ sandbox-sys-call-tid = TID
 sandbox-sys-call-proc-type = Jenis Proses
 sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Arguments
+safe-mode-title = Cuba Mod Selamat
 restart-in-safe-mode-label = Mula semula dengan Add-ons Dinyahdayakan…
 media-title = Media
 media-output-devices-title = Peranti Output
@@ -169,16 +178,22 @@ webgl1-version = WebGL 1 Driver Version
 webgl1-driver-extensions = WebGL 1 Driver Extensions
 webgl1-extensions = WebGL 1 Extensions
 webgl2-wsiinfo = WebGL 2 Driver WSI Info
+webgl2-renderer = Pemapar WebGL2
 webgl2-version = WebGL 2 Driver Version
 webgl2-driver-extensions = WebGL 2 Driver Extensions
 webgl2-extensions = WebGL 2 Extensions
+blocklisted-bug = Disenarai-sekat oleh sebab isu-isu yang diketahui
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = pepijat { $bugNumber }
+# Variables
+# $failureCode (string) - String that can be searched in the source tree.
+unknown-failure = Disenarai-sekat; kod kegagalan { $failureCode }
 d3d11layers-crash-guard = Pengatur huruf D3D11
 d3d11video-crash-guard = D3D11 Dekoder Video
 d3d9video-crash-buard = Penyahkodan Video D3D9
 glcontext-crash-guard = OpenGL
+reset-on-next-restart = Set semula pada Mula semula yang Seterusnya
 gpu-process-kill-button = Batalkan Proses GPU
 gpu-device-reset-button = Set semula Trigger Device
 uses-tiling = Menggunakan Jubin
@@ -191,9 +206,11 @@ channel-layout = Susun atur Saluran Diutamakan
 sample-rate = Kadar Sampel Diutamakan
 min-lib-versions = Versi minimum yang dijangka
 loaded-lib-versions = Versi yang digunakan
+has-seccomp-bpf = Seccomp-BPF (sistem panggil penapisan)
 has-seccomp-tsync = Seccomp Thread Synchronization
 has-user-namespaces = User Namespaces
 has-privileged-user-namespaces = User Namespaces untuk keutamaan memproses
+can-sandbox-content = Kandungan proses Sandboxing
 can-sandbox-media = Media Plugin Sandboxing
 content-sandbox-level = Content Process Sandbox Level
 effective-content-sandbox-level = Effective Content Process Sandbox Level
@@ -205,6 +222,7 @@ sandbox-proc-type-media-plugin = media plugin
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
 multi-process-status-0 = Didayakan oleh pengguna
+multi-process-status-1 = Didayakan mengikut piawai
 multi-process-status-2 = Dinyahdayakan
 multi-process-status-4 = Dinyahdayakan oleh alatan ketercapaian
 multi-process-status-6 = Dinyahdayakan oleh input teks tidak disokong
@@ -214,7 +232,9 @@ multi-process-status-unknown = Status tidak diketahui
 async-pan-zoom = Asynchronous Pan/Zoom
 apz-none = tiada
 wheel-enabled = input wheel didayakan
+touch-enabled = input sentuh didayakan
 drag-enabled = seret scrollbar didayakan
+keyboard-enabled = papan kekunci didayakan
 autoscroll-enabled = auto-skrol diaktifkan
 
 ## Variables
