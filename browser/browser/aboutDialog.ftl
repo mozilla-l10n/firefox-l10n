@@ -22,7 +22,7 @@ update-otherInstanceHandlingUpdates = Programa „{ -brand-short-name }“ šiuo
 update-manual = Atsisiųskite naujinimą iš <label data-l10n-name="manual-link"/>
 update-unsupported = Tolesni naujinimai, naudojantis šia sistema, yra negalimi. <label data-l10n-name="unsupported-link">Sužinoti daugiau</label>
 update-restarting = Paleidžiama iš naujo…
-channel-description = Šiuo metu naudojamas <label data-l10n-name="current-channel"></label> naujinimų kanalas.{ " " }
+channel-description = Šiuo metu naudojamas <label data-l10n-name="current-channel"></label> naujinimų kanalas.
 warningDesc-version = „{ -brand-short-name }“ yra eksperimentinė programa ir gali būti nestabili.
 community-exp = <label data-l10n-name="community-exp-mozillaLink">„{ -vendor-short-name }“</label> – tai <label data-l10n-name="community-exp-creditsLink">pasaulinė bendruomenė</label>, siekianti, kad saitynas būtų atviras, viešas ir prieinamas kiekvienam.
 community-2 = „{ -brand-short-name }“ kuria ir tobulina <label data-l10n-name="community-mozillaLink">„{ -vendor-short-name }“</label> – <label data-l10n-name="community-creditsLink">pasaulinė bendruomenė</label>, siekianti, kad saitynas būtų atviras, viešas ir prieinamas kiekvienam.

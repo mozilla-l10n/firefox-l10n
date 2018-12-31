@@ -26,7 +26,7 @@ clear-data-settings-label = Baigiant darbą su „{ -brand-short-name }“, turi
 ## Time range to clear: (Last Hour, Today, etc.)
 
 clear-time-duration-prefix =
-    .value = Pašalinti{ " " }
+    .value = Pašalinti
     .accesskey = P
 clear-time-duration-value-last-hour =
     .label = pastarosios valandos
