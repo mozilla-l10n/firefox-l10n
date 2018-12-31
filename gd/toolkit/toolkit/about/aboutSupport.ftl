@@ -20,6 +20,8 @@ app-basics-memory-use = Cleachdadh na cuimhne
 modified-key-prefs-title = Roghainnean cudromach a chaidh atharrachadh
 modified-prefs-name = Ainm
 modified-prefs-value = Luach
+user-js-title = Roghainnean user.js
+user-js-description = Tha faidhle air a bheil <a data-l10n-name="user-js-link">user.js</a> ann am pasgan na pròifil agad agus gheibh thu roghainnean 'na bhroinn nach deach an cruthachadh le { -brand-short-name }.
 graphics-title = Grafaigean
 js-title = JavaScript
 js-incremental-gc = GC ceum air cheum
