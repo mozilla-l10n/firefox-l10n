@@ -81,6 +81,7 @@ a11y-title = Tuffart
 a11y-activated = Irmed
 a11y-force-disabled = Sewḥel tuffart
 a11y-handler-used = Accessible Handler ittwaseqdec
+a11y-instantiator = Amaraw n tnekcumt
 library-version-title = Ileqman n temkarḍiyin
 copy-text-to-clipboard-label = Nɣel aḍris ɣeṛ "ɣef affus"
 copy-raw-data-to-clipboard-label = Nɣel talɣut tarewwayt ɣeṛ "ɣef affus"
@@ -107,6 +108,7 @@ media-device-format = Amasal
 media-device-channels = Ibuda
 media-device-rate = Afmiḍi
 media-device-latency = Akud n ugani
+intl-title = Asegreɣlen & Asideg
 intl-app-title = Iɣewwaṛen n usnas
 intl-locales-requested = Tutlayin ittwasutren
 intl-locales-available = Tutlayin yellan
@@ -210,6 +212,8 @@ reset-on-next-restart = Ales awennez deg usenker d-itteddun
 gpu-process-kill-button = Seḥbes akala GPU
 gpu-device-reset-button = Awennez n ibnek
 uses-tiling = Iseqdac akallaj
+content-uses-tiling = Seqdec asebleḍ (Agbur)
+off-main-thread-paint-enabled = Painting beṛṛa n tnelli n uselkem agejdan yermed
 off-main-thread-paint-worker-count = Uṭṭun n iseqdacen Painting beṛṛa n tnelli
 audio-backend = Ameslaw ɣer deffir
 max-audio-channels = Amḍan afellay n ibuda
@@ -230,6 +234,7 @@ sandbox-proc-type-file = agbur n ufaylu
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
 multi-process-status-0 = Iremd-it useqdac
+multi-process-status-1 = Yermed s wudem amezwer
 multi-process-status-2 = Arurmid
 multi-process-status-4 = Yettwakked urmad sɣur ifecka n tuffart
 multi-process-status-6 = Arurmid s weḍris anekcam ur iţusefraken ara{ " " }
@@ -242,11 +247,13 @@ wheel-enabled = anekcum n tjaṛaṛt yermed
 touch-enabled = anekcum amennalan irmed
 drag-enabled = Adrurem nufeggag yettwarmed
 keyboard-enabled = anasiw yermed
+autoscroll-enabled = Adrurem awurman yermed
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
 
 wheel-warning = anekcum aramtawan ur yermid ara ɣef sebba n usmenyaf ur nettusefrak ara: { $preferenceKey }
+touch-warning = anekcum amennalan yensa ɣef sebba  n usmenyaf ur iţusefraken ara: { $preferenceKey }
 
 ## Strings representing the status of the Enterprise Policies engine.
 
