@@ -6,17 +6,17 @@ page-title = Willakuy sasachakuykuna allipachinapaq
 page-subtitle = Kay qatiqatirapipiqa  chanin willakuykunan kan sasachakuypi yanapasunaykipaq .hinakaq tapukuykunapaq kutichiyninta munaspaqa { -brand-short-name }nisqamanta  haykuy ñuqaykupa <a data-l10n-name="support-link">nisqaman yanapaq llikachasqa ukuman </a>nisqapi.
 crashes-title = Pantaykunata taripaspa willaq
 crashes-id = ID nisqa willaymanta.
-crashes-send-date = Apachisqa{ "  " }
+crashes-send-date = Apachisqa
 crashes-all-reports = Pantaykunata taripaspa willaq
 crashes-no-config = Kay churaq siqinchasqapiqa manan  churasqaraqchu pantaykuna qawarichinanpaq.
 extensions-title = Taripachinakuna
 extensions-name = Suti
 extensions-enabled = Kichasqa.
 extensions-version = Imaninan
-extensions-id = ID nisqa{ " " }
+extensions-id = ID nisqa
 app-basics-title = Ruwaypaq lIikachakusqan churana
 app-basics-name = Suti.
-app-basics-version = Imaninan{ " " }
+app-basics-version = Imaninan
 app-basics-build-id = Id. nisqapa qispichiynin
 app-basics-update-channel = Qawanapatapa kunanchanankuna
 app-basics-update-history = Kawsaykunapa kunanchayninkuna.
@@ -27,7 +27,7 @@ app-basics-profile-dir =
        *[other] Hanparataqi imakaq
     }
 app-basics-enabled-plugins = Chaykama kichasqakuna
-app-basics-build-config = Siqinchaykunapa llikachasqapi qispichiynin{ " " }
+app-basics-build-config = Siqinchaykunapa llikachasqapi qispichiynin
 app-basics-user-agent = Llankaq haykuq
 app-basics-os = OS nisqa
 app-basics-memory-use = Yuyaychaychuray
@@ -42,8 +42,8 @@ modified-prefs-value = Manamanchaq, chaninchasqa, chanin.
 user-js-title = user.js nisqapi imamunaykuna
 user-js-description = Imakaq hampara taqiqa huntasqan<a data-l10n-name="user-js-link">nisqa taqichasqawanuser.js</a> kaypiqa huntapakunmi mana paqariq lmamunasqaykiwan { -brand-short-name }.nisqawan.
 locked-key-prefs-title = Chanin imamunasqayki mana chaskisqakuna
-locked-prefs-name = Suti{ " " }
-locked-prefs-value = Manamanchaq, chaninchasqa, chanin.{ " " }
+locked-prefs-name = Suti
+locked-prefs-value = Manamanchaq, chaninchasqa, chanin.
 graphics-title = Siqinchakuykuna
 graphics-features-title = Features nisqa
 graphics-diagnostics-title = Features nisqa
@@ -57,9 +57,9 @@ place-database-title = Imanisqan tawqasqakuna
 place-database-integrity = Allinkaynin
 place-database-verify-integrity = Allinkay chiqanchana
 js-title = JavaScript nisqa
-js-incremental-gc = Qupa wiñay allchanamanta uqarisqa{ " " }
+js-incremental-gc = Qupa wiñay allchanamanta uqarisqa
 a11y-title = Yaykuchina, Haykuchina. Haykuna, Chayana
-a11y-activated = Qallariy, kichay, hapichiy{ " " }
+a11y-activated = Qallariy, kichay, hapichiy
 a11y-force-disabled = Yaykunata yuyaychaspa
 library-version-title = Taqipatarakunaq imaninankuna
 copy-text-to-clipboard-label = rapikunaq allchanapatamanta qilqaytaqi.
@@ -72,32 +72,32 @@ restart-in-safe-mode-label = Kaqmantaqallariy sikisqa huntaypakunawan.
 report-crash-for-days =
     { $days ->
         [one] Tkupaypa pantayninkunapa willakuy # huk punchay
-       *[other] pantaykunaq tukupayninkuna # huk punchaykunapi.{ "       " }
+       *[other] pantaykunaq tukupayninkuna # huk punchaykunapi.
     }
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
     { $minutes ->
         [one] #Huk pisi tuymipi
-       *[other] # huk pisi tuymichakuypi.{ " " }
+       *[other] # huk pisi tuymichakuypi.
     }
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
     { $hours ->
-        [one] # huk tuymipi{ " " }
-       *[other] { " " }# huk tuymichakuykunapi
+        [one] # huk tuymipi
+       *[other] # huk tuymichakuykunapi
     }
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
     { $days ->
-        [one] # huk punchay{ " " }
-       *[other] { " " }# huk punchaykuna
+        [one] # huk punchay
+       *[other] # huk punchaykuna
     }
 # Variables
 # $reports (integer) - Number of pending reports
-pending-reports = Llapallan panatay willakuykuna ({ $reports } nisqawan huk suyaq pantay tuymichaypa chawpinpi nisqapi untapaspa ) Llapallan panatay willakuykuna ({ $reports } nisqawan huk suyaq pantay tuymichaypa chawpinpi nisqapi untapaspa ){ " " }
+pending-reports = Llapallan panatay willakuykuna ({ $reports } nisqawan huk suyaq pantay tuymichaypa chawpinpi nisqapi untapaspa ) Llapallan panatay willakuykuna ({ $reports } nisqawan huk suyaq pantay tuymichaypa chawpinpi nisqapi untapaspa )
 raw-data-copied = Lliw hanku  imanisqakuna qupallchanaman tiqrapasqa
 text-copied = Qillqasqa patara qupaallchapanaman  tiqasqa
 
@@ -117,7 +117,7 @@ compositing = Compositing nisqa
 hardware-h264 = Hardware H264 Decoding nisqa
 main-thread-no-omtc = main thread, no OMTC nisqa
 yes = ari
-no = Manan{ "  " }
+no = Manan
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
@@ -149,7 +149,7 @@ loaded-lib-versions = Ruwasqanpi ima ninan
 has-seccomp-bpf = Seccomp-BPF nisqapi imakaq waqyanakuna  lluqsiqa
 has-seccomp-tsync = Seccomp nisqapi qaytu tupanachina
 has-user-namespaces = Haykuqpasutin
-has-privileged-user-namespaces = Haykuqpasutin qatiqati payllapaqkuna{ " " }
+has-privileged-user-namespaces = Haykuqpasutin qatiqati payllapaqkuna
 can-sandbox-content = Aqopatapi qatiqati imakaqkunapaq
 can-sandbox-media = Aqopatapi qawanaq aysapakuqkuna.
 # Variables
@@ -158,23 +158,23 @@ can-sandbox-media = Aqopatapi qawanaq aysapakuqkuna.
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
 multi-process-status-0 = Haykuqpaq kichasqa
 multi-process-status-1 = Manaraqtaripaqpaq  kichasqa
-multi-process-status-2 = Sikisqa{ " " }
+multi-process-status-2 = Sikisqa
 multi-process-status-4 = Allchanakunaq yaykunapaq sikisqa
 multi-process-status-6 = Manataqyachiq patarata  yaykunanpi sikisqa
 multi-process-status-7 = Tupanasqakunaq sikisqa
 multi-process-status-8 = Disabled forcibly nisqa
 multi-process-status-unknown = Manariqsisqa kasqan
 async-pan-zoom = Encuadro/zoom asíncrono nisqa
-apz-none = mayqinpas{ " " }
+apz-none = mayqinpas
 wheel-enabled = Hukuchaq kuyuyninpa haykunan kichasqa
 touch-enabled = Tupaykunaq haykunanpa  kichasqa
-drag-enabled = Siqi kuyuq  chutapaypa kichasqa{ "  " }
+drag-enabled = Siqi kuyuq  chutapaypa kichasqa
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
 
-wheel-warning = Hukuchaq siqi kuyuynin haykuq sikisqa { $preferenceKey }nisqa mana chaskisqa kaqtin{ " " }
-touch-warning = Tupaykunaq yaykuynin sikisqa { $preferenceKey } nisqa mana chaskisqa kaqtin{ "   " }
+wheel-warning = Hukuchaq siqi kuyuynin haykuq sikisqa { $preferenceKey }nisqa mana chaskisqa kaqtin
+touch-warning = Tupaykunaq yaykuynin sikisqa { $preferenceKey } nisqa mana chaskisqa kaqtin
 
 ## Strings representing the status of the Enterprise Policies engine.
 
