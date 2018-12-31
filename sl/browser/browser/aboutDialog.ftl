@@ -22,7 +22,7 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } se posodablja v drug
 update-manual = Posodobitve so na voljo na <label data-l10n-name="manual-link"/>
 update-unsupported = Nadaljnje posodobitve niso več mogoče. <label data-l10n-name="unsupported-link">Več o tem</label>
 update-restarting = Ponovni zagon …
-channel-description = Uporabljate posodobitveni kanal <label data-l10n-name="current-channel"></label>.{ " " }
+channel-description = Uporabljate posodobitveni kanal <label data-l10n-name="current-channel"></label>.
 warningDesc-version = Izdaja { -brand-short-name } je poskusna in lahko deluje nezanesljivo.
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> je <label data-l10n-name="community-exp-creditsLink">globalna skupnost</label>, ki si prizadeva, da bi splet ostal odprt, javen in dostopen vsem.
 community-2 = { -brand-short-name } razvija <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, <label data-l10n-name="community-creditsLink">globalna skupnost</label>, ki si prizadeva, da bi splet ostal odprt, javen in dostopen vsem.
