@@ -101,6 +101,27 @@ media-device-channels = माध्यम
 media-device-rate = दर
 media-device-latency = विलंब
 # Variables
+# $days (Integer) - Number of days of crashes to log
+report-crash-for-days =
+    { $days ->
+        [one] क्रॅश रिपोर्ट्स, शेवटच्या { $days } दिवसकरिता
+       *[other] क्रॅश रिपोर्ट्स, शेवटच्या { $days } दिवसांकरिता
+    }
+# Variables
+# $minutes (integer) - Number of minutes since crash
+crashes-time-minutes =
+    { $minutes ->
+        [one] { $minutes } मिनीट पूर्वी
+       *[other] { $minutes } मिनीटांपूर्वी
+    }
+# Variables
+# $hours (integer) - Number of hours since crash
+crashes-time-hours =
+    { $hours ->
+        [one] { $hours } तास पूर्वी
+       *[other] { $hours } तास पूर्वी
+    }
+# Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
     { $days ->
