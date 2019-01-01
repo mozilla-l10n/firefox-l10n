@@ -9,6 +9,7 @@
 <!-- LOCALIZATION NOTE(aboutTelemetry.previousPing, aboutTelemetry.nextPing):
 	These strings are displayed when selecting Archived pings, and they’re
 	used to move to the next or previous ping. -->
+<!ENTITY aboutTelemetry.previousPing "&lt;&lt;">
 
 <!ENTITY aboutTelemetry.pageTitle "ข้อมูลการวัดและส่งข้อมูลทางไกล">
 <!ENTITY aboutTelemetry.moreInformations "กำลังมองหาข้อมูลเพิ่มเติม?">
@@ -31,3 +32,4 @@
 <!ENTITY aboutTelemetry.raw "JSON ดิบ">
 
 <!ENTITY aboutTelemetry.fullSqlWarning "  หมายเหตุ: การดีบั๊ก SQL ที่ทำงานช้าถูกเปิดใช้งาน คำสั่ง SQL แบบเต็มอาจถูกแสดงไว้ด้านล่างแต่จะไม่ถูกส่งออกไป">
+<!ENTITY aboutTelemetry.hideStackSymbols "แสดงข้อมูลสแตกดิบ">
