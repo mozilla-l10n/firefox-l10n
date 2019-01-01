@@ -111,6 +111,10 @@ These items have the same accesskey but will never be visible at the same time. 
 
 <!ENTITY  listAllTabs.label      "แสดงรายการแท็บทั้งหมด">
 
+<!-- LOCALIZATION NOTE (allTabsMenu.searchTabs.label): "Search" is a verb, as
+in "Search through tabs". -->
+<!ENTITY  allTabsMenu.searchTabs.label       "ค้นหาแท็บ">
+
 <!ENTITY tabCmd.label "แท็บใหม่">
 <!ENTITY tabCmd.accesskey "ท">
 <!ENTITY tabCmd.commandkey "t">
