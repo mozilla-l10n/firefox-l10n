@@ -31,6 +31,7 @@
 
 <!-- LOCALIZATION NOTE (performanceUI.toolbar.*): These strings are displayed
   -  in the toolbar on buttons that select which view is currently shown. -->
+<!ENTITY performanceUI.toolbar.waterfall "น้ำตก">
 <!ENTITY performanceUI.toolbar.js-calltree "แผนภูมิการเรียก">
 <!ENTITY performanceUI.toolbar.memory-calltree "การจัดสรร">
 
