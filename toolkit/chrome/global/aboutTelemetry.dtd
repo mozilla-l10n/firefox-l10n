@@ -6,13 +6,13 @@
 <!ENTITY aboutTelemetry.optionGroupToday "วันนี้">
 <!ENTITY aboutTelemetry.optionGroupYesterday "เมื่อวานนี้">
 <!ENTITY aboutTelemetry.optionGroupOlder "เก่ากว่า">
-<!ENTITY aboutTelemetry.payloadChoiceHeader "ส่วนข้อมูล">
 <!-- LOCALIZATION NOTE(aboutTelemetry.previousPing, aboutTelemetry.nextPing):
 	These strings are displayed when selecting Archived pings, and they’re
 	used to move to the next or previous ping. -->
 
 <!ENTITY aboutTelemetry.pageTitle "ข้อมูลการวัดและส่งข้อมูลทางไกล">
 <!ENTITY aboutTelemetry.moreInformations "กำลังมองหาข้อมูลเพิ่มเติม?">
+
 
 <!ENTITY aboutTelemetry.showInFirefoxJsonViewer "เปิดในตัวดู JSON">
 
@@ -24,11 +24,10 @@
 <!ENTITY aboutTelemetry.keyedHistogramsSection "  Keyed Histograms">
 <!ENTITY aboutTelemetry.eventsSection "เหตุการณ์">
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  ค่าที่วัดได้อย่างง่าย">
-<!ENTITY aboutTelemetry.telemetryLogSection "รายการบันทึกการวัดและส่งข้อมูลทางไกล">
 <!ENTITY aboutTelemetry.slowSqlSection "คำสั่ง SQL ที่ช้า">
-<!ENTITY aboutTelemetry.chromeHangsSection "  เบราว์เซอร์ค้าง">
 <!ENTITY aboutTelemetry.addonDetailsSection "  รายละเอียดของส่วนเสริม">
 <!ENTITY aboutTelemetry.lateWritesSection "  การเขียนทีหลัง">
+<!ENTITY aboutTelemetry.rawPayloadSection "ส่วนข้อมูลดิบ">
 <!ENTITY aboutTelemetry.raw "JSON ดิบ">
 
 <!ENTITY aboutTelemetry.fullSqlWarning "  หมายเหตุ: การดีบั๊ก SQL ที่ทำงานช้าถูกเปิดใช้งาน คำสั่ง SQL แบบเต็มอาจถูกแสดงไว้ด้านล่างแต่จะไม่ถูกส่งออกไป">
