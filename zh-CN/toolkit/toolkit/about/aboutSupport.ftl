@@ -157,6 +157,7 @@ main-thread-no-omtc = 主线程，无 OMTC
 yes = 是
 no = 否
 unknown = 未知
+virtual-monitor-disp = 虚拟显示器
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
@@ -164,6 +165,8 @@ unknown = 未知
 
 found = 存在
 missing = 缺失
+gpu-process-pid = GPUProcessPid
+gpu-process = GPUProcess
 gpu-description = 描述
 gpu-vendor-id = 供应商 ID
 gpu-device-id = 设备 ID
