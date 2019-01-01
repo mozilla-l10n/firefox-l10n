@@ -154,9 +154,6 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = Öppna länkar i flikar istället för nya fönster
     .accesskey = f
-warn-on-quit-close-multiple-tabs =
-    .label = Varna när du avslutar och stänger flera flikar
-    .accesskey = f
 warn-on-close-multiple-tabs =
     .label = Varna när jag stänger flera flikar
     .accesskey = f
@@ -447,7 +444,7 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
-sync-signedout-caption = Ta din webb med dig
+sync-signedout-caption = Ta med dig webben
 sync-signedout-description = Synkronisera dina bokmärken, historik, flikar, lösenord, tillägg och inställningar på alla dina enheter.
 sync-signedout-account-title = Anslut med ett { -fxaccount-brand-name }
 sync-signedout-account-create = Har du inte ett konto? Kom igång
