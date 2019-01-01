@@ -153,6 +153,8 @@ hardware-h264 = Dekode H264 Perangkat Keras
 main-thread-no-omtc = thread utama, tanpa OMTC
 yes = Ya
 no = Tidak
+unknown = Tidak diketahui
+virtual-monitor-disp = Layar Monitor Virtual
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
@@ -160,6 +162,8 @@ no = Tidak
 
 found = Ditemukan
 missing = Hilang
+gpu-process-pid = GPUProcessPid
+gpu-process = GPUProcess
 gpu-description = Deskripsi
 gpu-vendor-id = ID Vendor
 gpu-device-id = ID Perangkat
@@ -192,6 +196,7 @@ d3d9video-crash-buard = Pendekode Video D3D9
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Setel Ulang pada Mulai Ulang Berikutnya
 gpu-process-kill-button = Matikan Proses GPU
+gpu-device-reset = Reset Perangkat
 gpu-device-reset-button = Picu Pengaturan Ulang Perangkat
 uses-tiling = Gunakan Tiling
 content-uses-tiling = Gunakan Tiling (Konten)
