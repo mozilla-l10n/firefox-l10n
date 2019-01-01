@@ -12,6 +12,7 @@
 <!ENTITY enableGlodaSearch.label       "Enable Global Search and Indexer">
 <!ENTITY enableGlodaSearch.accesskey   "E">
 <!ENTITY dateTimeFormatting.label      "Date and Time Formatting">
+<!ENTITY languageSelector.label        "Language">
 <!ENTITY allowHWAccel.label            "Use hardware acceleration when available">
 <!ENTITY allowHWAccel.accesskey        "h">
 <!ENTITY storeType.label               "Message Store Type for new accounts:">
@@ -70,8 +71,6 @@
 <!ENTITY updateAuto.accesskey            "A">
 <!ENTITY updateCheck.label               "Check for updates, but let me choose whether to install them">
 <!ENTITY updateCheck.accesskey           "C">
-<!ENTITY updateManual.label              "Never check for updates (not recommended: security risk)">
-<!ENTITY updateManual.accesskey          "N">
 <!ENTITY updateHistory.label             "Show Update History">
 <!ENTITY updateHistory.accesskey         "p">
 
@@ -116,7 +115,7 @@
 <!ENTITY enableOCSP.label                "Query OCSP responder servers to confirm the current validity of certificates">
 <!ENTITY enableOCSP.accesskey            "Q">
 
-<!ENTITY manageCertificates.label       "Manage Certificates">
-<!ENTITY manageCertificates.accesskey   "M">
-<!ENTITY viewSecurityDevices.label      "Security Devices">
-<!ENTITY viewSecurityDevices.accesskey  "S">
+<!ENTITY manageCertificates.label "Manage Certificates">
+<!ENTITY manageCertificates.accesskey "M">
+<!ENTITY viewSecurityDevices.label "Security Devices">
+<!ENTITY viewSecurityDevices.accesskey "S">
