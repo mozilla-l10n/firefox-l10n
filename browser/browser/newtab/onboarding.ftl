@@ -38,3 +38,4 @@ return-to-amo-sub-header = Parfait, vous disposez de { -brand-short-name }
 #   $addon-name (String) - Name of the add-on
 return-to-amo-addon-header = À présent, installons <icon></icon><b>{ $addon-name }.</b>
 return-to-amo-extension-button = Ajouter l’extension
+return-to-amo-get-started-button = Démarrer avec { -brand-short-name }
