@@ -176,6 +176,8 @@ hardware-h264 = Αποκωδικοποίηση υλικού H264
 main-thread-no-omtc = κύριο νήμα, όχι OMTC
 yes = Ναι
 no = Όχι
+unknown = Άγνωστο
+virtual-monitor-disp = Οθόνη εικονικής εποπτείας
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
@@ -183,6 +185,8 @@ no = Όχι
 
 found = Βρέθηκε
 missing = Λείπει
+gpu-process-pid = GPUProcessPid
+gpu-process = GPUProcess
 gpu-description = Περιγραφή
 gpu-vendor-id = ID κατασκευαστή
 gpu-device-id = ID συσκευής
@@ -215,6 +219,7 @@ d3d9video-crash-buard = Αποκωδικοποιητής βίντεο D3D9
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Επαναφορά στην επόμενη επανεκκίνηση
 gpu-process-kill-button = Τερματισμός διεργασίας GPU
+gpu-device-reset = Επαναφορά συσκευής
 gpu-device-reset-button = Έναυσμα επαναφοράς συσκευής
 uses-tiling = Χρησιμοποιεί παράθεση
 content-uses-tiling = Χρησιμοποιεί παράθεση (περιεχόμενο)
