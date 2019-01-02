@@ -111,6 +111,10 @@ These items have the same accesskey but will never be visible at the same time. 
 
 <!ENTITY  listAllTabs.label      "Προβολή καρτελών σε λίστα">
 
+<!-- LOCALIZATION NOTE (allTabsMenu.searchTabs.label): "Search" is a verb, as
+in "Search through tabs". -->
+<!ENTITY  allTabsMenu.searchTabs.label       "Αναζήτηση καρτελών">
+
 <!ENTITY tabCmd.label "Νέα καρτέλα">
 <!ENTITY tabCmd.accesskey "τ">
 <!ENTITY tabCmd.commandkey "t">
