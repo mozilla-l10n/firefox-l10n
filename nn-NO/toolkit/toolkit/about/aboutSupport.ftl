@@ -173,6 +173,8 @@ hardware-h264 = H264 hardvaredekodning
 main-thread-no-omtc = hovudtråd, ingen OMTC
 yes = Ja
 no = Nei
+unknown = Ukjend
+virtual-monitor-disp = Virtuell bildeskjermvising
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
@@ -180,6 +182,8 @@ no = Nei
 
 found = Funne
 missing = Manglar
+gpu-process-pid = GPUProcessPid
+gpu-process = GPUProcess
 gpu-description = Skildring
 gpu-vendor-id = Leverandør-ID
 gpu-device-id = Einings-ID
@@ -212,6 +216,7 @@ d3d9video-crash-buard = D3D9 videodekodar
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Tilbakestill ved neste omstart
 gpu-process-kill-button = Avslutt GPU-prosess
+gpu-device-reset = Einingstilbakestilling
 gpu-device-reset-button = Løys ut tilbakestilling av eining
 uses-tiling = Brukar Tiling
 content-uses-tiling = Brukar Tiling (innhald)
