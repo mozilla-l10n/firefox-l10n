@@ -30,3 +30,4 @@ messenger-languages-select-language =
     .placeholder = Vælg det sprog, du ønsker at tilføje…
 messenger-languages-installed-label = Installerede sprog
 messenger-languages-available-label = Tilgængelige sprog
+messenger-languages-error = { -brand-short-name } kan ikke opdatere dine sprog i øjeblikket. Kontroller, at du har forbindelse til internettet, og prøv igen.
