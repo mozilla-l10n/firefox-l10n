@@ -2,11 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.title):
-     Please ensure this exactly matches tabs.emptyPrivateTabTitle in tabbrowser.properties -->
-<!ENTITY aboutPrivateBrowsing.title                      "Private Browsing">
-<!ENTITY aboutPrivateBrowsing.notPrivate.title           "Open a private window?">
-
 <!ENTITY aboutPrivateBrowsing.notPrivate                 "You are currently not in a private window.">
 <!ENTITY privatebrowsingpage.openPrivateWindow.label     "Open a Private Window">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
@@ -25,6 +20,7 @@
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          " your:">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "downloads">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "bookmarks">
+<!ENTITY aboutPrivateBrowsing.info.clipboard             "copied text">
 <!ENTITY aboutPrivateBrowsing.note.before                "Private Browsing ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "doesn’t make you anonymous">
 <!ENTITY aboutPrivateBrowsing.note.after                 " on the Internet. Your employer or Internet service provider can still know what page you visit.">
@@ -34,4 +30,8 @@
 
 <!ENTITY trackingProtection.title                        "Tracking Protection">
 <!ENTITY trackingProtection.description2                 "Some web sites use trackers that can monitor your activity across the Internet. With Tracking Protection Firefox will block many trackers that can collect information about your browsing behaviour.">
+
 <!ENTITY trackingProtection.startTour1                   "See how it works">
+
+<!ENTITY contentBlocking.title                           "Content Blocking">
+<!ENTITY contentBlocking.description                     "Some web sites use trackers that can monitor your activity across the Internet. In private windows, Firefox Content Blocking automatically blocks many trackers that can collect information about your browsing behaviour.">

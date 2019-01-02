@@ -15,6 +15,7 @@ dialog-title =
 dialog-title-everything =
     .title = Clear All History
     .style = width: 34em
+clear-data-settings-label = When closed, { -brand-short-name } should automatically clear all
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
