@@ -48,7 +48,7 @@ app-basics-performance = Desempenho
 app-basics-service-workers = Service Workers registrados
 app-basics-profiles = Perfis
 app-basics-multi-process-support = Janelas multiprocessadas
-app-basics-process-count = Processos de conteúdo Web
+app-basics-process-count = Processos de conteúdo web
 app-basics-enterprise-policies = Políticas empresariais
 app-basics-key-google = Chave do Google
 app-basics-key-mozilla = Chave do serviço de localização da Mozilla
@@ -176,6 +176,8 @@ hardware-h264 = Decodificação H264 por hardware
 main-thread-no-omtc = tópico principal, sem OMTC
 yes = Sim
 no = Não
+unknown = Desconhecido
+virtual-monitor-disp = Exibição do monitor virtual
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
@@ -183,6 +185,8 @@ no = Não
 
 found = Encontrado
 missing = Faltando
+gpu-process-pid = GPUProcessPid
+gpu-process = GPUProcess
 gpu-description = Descrição
 gpu-vendor-id = ID do fornecedor
 gpu-device-id = ID do dispositivo
@@ -215,6 +219,7 @@ d3d9video-crash-buard = Decodificador de vídeo D3D9
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Redefinir na próxima reinicialização
 gpu-process-kill-button = Finalizar processo GPU
+gpu-device-reset = Redefinir dispositivo
 gpu-device-reset-button = Ativar a Redefinição de Dispositivo
 uses-tiling = Usa mosaicos
 content-uses-tiling = Usa mosaicos (conteúdo)
