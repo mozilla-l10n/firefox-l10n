@@ -271,7 +271,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.accesskey            "s">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "Přejde na adresu v adresním řádku">
-<!ENTITY printButton.label            "Tisk">
+<!ENTITY printButton.label            "Vytisknout">
 <!ENTITY printButton.tooltip          "Vytiskne tuto stránku">
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Zobrazit informace o stránce">
