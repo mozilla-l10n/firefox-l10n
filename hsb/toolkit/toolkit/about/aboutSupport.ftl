@@ -183,6 +183,8 @@ hardware-h264 = Hardwarowe dekodowanje H264
 main-thread-no-omtc = hłowna nitka, žadyn OMTC
 yes = Haj
 no = Ně
+unknown = Njeznaty
+virtual-monitor-disp = Zwobraznjenje wirtuelneho monitora
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
@@ -190,6 +192,8 @@ no = Ně
 
 found = Namakany
 missing = Falowacy
+gpu-process-pid = GPUProcessPid
+gpu-process = GPUProcess
 gpu-description = Wopisanje
 gpu-vendor-id = ID předawarja
 gpu-device-id = ID grata
@@ -222,6 +226,7 @@ d3d9video-crash-buard = D3D9 Video Decoder
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Při přichodnym nowym starće wróćo stajić
 gpu-process-kill-button = GPU-proces skónčić
+gpu-device-reset = Grat wróćo stajić
 gpu-device-reset-button = Gratowe wróćostajenje zahibać
 uses-tiling = Wužiwa kachlički
 content-uses-tiling = Wužiwa kachlicowanje (wobsah)
