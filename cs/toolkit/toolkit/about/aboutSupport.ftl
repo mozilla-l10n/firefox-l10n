@@ -181,6 +181,8 @@ hardware-h264 = Hardwarové dekódování H264
 main-thread-no-omtc = hlavní vlákno, ne OMTC
 yes = Ano
 no = Ne
+unknown = Neznámý
+virtual-monitor-disp = Zobrazení virtuálního monitoru
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
@@ -188,6 +190,8 @@ no = Ne
 
 found = Nalezeno
 missing = Chybí
+gpu-process-pid = GPUProcessPid
+gpu-process = GPUProcess
 gpu-description = Popis
 gpu-vendor-id = ID prodejce
 gpu-device-id = ID zařízení
@@ -220,6 +224,7 @@ d3d9video-crash-buard = D3D9 Video dekodér
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Obnovit po při příštím restartu
 gpu-process-kill-button = Ukončit GPU proces
+gpu-device-reset = Obnova zařízení
 gpu-device-reset-button = Spustit obnovu zařízení
 uses-tiling = Používá skládání
 content-uses-tiling = Používá skládání (obsah)
