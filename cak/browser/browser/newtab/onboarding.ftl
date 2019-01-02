@@ -28,3 +28,14 @@ onboarding-ghostery-text = Katok pa k'amaya'l aninäq, na'owinäq rub'anikil o y
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Tixim
 onboarding-fxa-text = Tatz'ib'aj awi' richin nik'oje' jun { -fxaccount-brand-name } chuqa' ke'axima' ri taq ayaketal, ewan taq tzij chuqa' jaqäl taq ruwi' akuchi' nawokisaj { -brand-short-name }.
+
+## Message strings belonging to the Return to AMO flow
+
+return-to-amo-sub-header = Ütz ütz, awichinan { -brand-short-name }
+# <icon></icon> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-header = Wakami niqatäq chawe <icon></icon><b>{ $addon-name }.</b>
+return-to-amo-extension-button = Titz'aqatisäx jun K'amal
+return-to-amo-get-started-button = Titikirisäx rik'in { -brand-short-name }
