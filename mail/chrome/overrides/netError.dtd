@@ -198,3 +198,4 @@ functionality specific to thunderbird. -->
 <!ENTITY blockedByPolicy.title "Blokeret side">
 
 <!ENTITY networkProtocolError.title "Fejl i netværksprotokol">
+<!ENTITY networkProtocolError.longDesc "<p>Den side du forsøger at se kan ikke vises, fordi der blev fundet en fejl i netværksprotokollen.</p><ul><li>Kontakt sidens ejer og informér dem om problemet.</li></ul>">
