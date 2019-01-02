@@ -156,6 +156,8 @@ hardware-h264 = H264 硬體解碼
 main-thread-no-omtc = 主執行緒，無 OMTC
 yes = 是
 no = 否
+unknown = 未知
+virtual-monitor-disp = 虛擬螢幕顯示
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
@@ -163,6 +165,8 @@ no = 否
 
 found = 找到
 missing = 缺少
+gpu-process-pid = GPUProcessPid
+gpu-process = GPUProcess
 gpu-description = 顯示卡名稱
 gpu-vendor-id = 銷售商 ID (Vendor ID)
 gpu-device-id = 裝置 ID (Device ID)
@@ -195,6 +199,7 @@ d3d9video-crash-buard = D3D9 視訊解碼器
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = 下次重新啟動時重設
 gpu-process-kill-button = 結束 GPU 處理程序
+gpu-device-reset = 裝置重設
 gpu-device-reset-button = 觸發裝置重設
 uses-tiling = 使用 Tiling
 content-uses-tiling = 使用 Tiling（內容）
