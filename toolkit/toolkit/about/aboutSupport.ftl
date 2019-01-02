@@ -173,6 +173,8 @@ hardware-h264 = Hardveres H264-dekódolás
 main-thread-no-omtc = fő szál, nincs OMTC
 yes = Igen
 no = Nem
+unknown = Ismeretlen
+virtual-monitor-disp = Virtuális monitorkijelző
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
@@ -180,6 +182,8 @@ no = Nem
 
 found = Megtalálva
 missing = Hiányzik
+gpu-process-pid = GPUProcessPid
+gpu-process = GPUProcess
 gpu-description = Leírás
 gpu-vendor-id = Gyártóazonosító
 gpu-device-id = Eszközazonosító
@@ -212,6 +216,7 @@ d3d9video-crash-buard = D3D9 videodekóder
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Újraindításkor alaphelyzetbe
 gpu-process-kill-button = GPU folyamat leállítása
+gpu-device-reset = Eszköz visszaállítása
 gpu-device-reset-button = Eszköz alapállapotba hozása
 uses-tiling = Csempézés használata
 content-uses-tiling = Csempézés használata (Tartalom)
