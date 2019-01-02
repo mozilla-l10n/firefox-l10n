@@ -733,6 +733,42 @@ content-blocking-third-party-cookies = Third-party tracking cookies
 content-blocking-all-windows-trackers = Known trackers in all windows
 content-blocking-all-third-party-cookies = All third-party cookies
 content-blocking-warning-title = Heads up!
+content-blocking-warning-desc = Blocking cookies and trackers can cause some web sites to break. It’s easy to disable blocking for sites you trust.
+content-blocking-learn-how = Learn how
+content-blocking-trackers-label =
+    .label = Trackers
+    .accesskey = T
+content-blocking-tracking-protection-option-all-windows =
+    .label = In all windows
+    .accesskey = a
+content-blocking-option-private =
+    .label = Only in Private Windows
+    .accesskey = P
+content-blocking-tracking-protection-change-block-list = Change block list
+content-blocking-third-party-cookies-label =
+    .label = Third-Party Cookies
+    .accesskey = C
+content-blocking-reject-trackers-description = Block all third-party cookies or just those set by trackers.
+# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
+# of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
+# or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
+# the UI.
+content-blocking-reject-trackers-warning-your-settings-prevent-changes = Your settings in Cookies and Site Data are preventing changes to Third-Party Cookies settings.
+content-blocking-change-cookie-settings =
+    .label = Change Cookie Settings
+    .accesskey = S
+content-blocking-reject-trackers-block-trackers-option-recommended =
+    .label = Trackers (recommended)
+    .accesskey = k
+content-blocking-reject-trackers-block-trackers-option =
+    .label = Trackers
+    .accesskey = k
+content-blocking-reject-trackers-all-third-parties-option =
+    .label = All third-party cookies (may cause web sites to break)
+    .accesskey = A
+content-blocking-cookies-label =
+    .label = Cookies
+    .accesskey = C
 
 ## Privacy Section - Tracking
 
@@ -754,6 +790,9 @@ tracking-exceptions =
 tracking-change-block-list =
     .label = Change Block List…
     .accesskey = C
+tracking-manage-exceptions =
+    .label = Manage Exceptions…
+    .accesskey = x
 
 ## Privacy Section - Permissions
 
@@ -778,6 +817,20 @@ permissions-notification-link = Learn more
 permissions-notification-pause =
     .label = Pause notifications until { -brand-short-name } restarts
     .accesskey = n
+permissions-block-autoplay-media =
+    .label = Block web sites from automatically playing media with sound
+    .accesskey = B
+permissions-block-autoplay-media-menu = For web sites that autoplay sound
+permissions-block-autoplay-media-exceptions =
+    .label = Exceptions…
+    .accesskey = E
+autoplay-option-ask =
+    .label = Always Ask
+autoplay-option-allow =
+    .label = Allow Autoplay
+autoplay-option-dont =
+    .label = Don't Autoplay
+permissions-autoplay-link = Learn more
 permissions-block-popups =
     .label = Block pop-up windows
     .accesskey = B
@@ -804,6 +857,12 @@ collection-health-report =
     .label = Allow { -brand-short-name } to send technical and interaction data to { -vendor-short-name }
     .accesskey = r
 collection-health-report-link = Learn More
+collection-studies =
+    .label = Allow { -brand-short-name } to install and run studies
+collection-studies-link = View { -brand-short-name } studies
+addon-recommendations =
+    .label = Allow { -brand-short-name } to make personalised extension recommendations
+addon-recommendations-link = Learn more
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Data reporting is disabled for this build configuration
@@ -882,3 +941,7 @@ space-alert-under-5gb-message = { -brand-short-name } is running out of disc spa
 desktop-folder-name = Desktop
 downloads-folder-name = Downloads
 choose-download-folder-title = Choose Download Folder:
+# Variables:
+#   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
+save-files-to-cloud-storage =
+    .label = Save files to { $service-name }
