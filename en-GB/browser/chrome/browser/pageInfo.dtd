@@ -44,24 +44,9 @@
 <!ENTITY  mediaSaveAs2.accesskey "e">
 <!ENTITY  mediaPreview          "Media Preview:">
 
-<!ENTITY  feedTab               "Feeds">
-<!ENTITY  feedTab.accesskey     "F">
-<!ENTITY  feedSubscribe         "Subscribe">
-<!ENTITY  feedSubscribe.accesskey "u">
-
 <!ENTITY  permTab               "Permissions">
 <!ENTITY  permTab.accesskey     "P">
-<!ENTITY  permUseDefault        "Use Default">
-<!ENTITY  permAskAlways         "Always ask">
-<!ENTITY  permAllow             "Allow">
-<!ENTITY  permAllowSession      "Allow for Session">
-<!ENTITY  permHide              "Hide">
-<!ENTITY  permBlock             "Block">
 <!ENTITY  permissionsFor        "Permissions for:">
-<!ENTITY  permPlugins           "Activate Plugins">
-
-<!ENTITY  permClearStorage           "Clear Storage">
-<!ENTITY  permClearStorage.accesskey "C">
 
 <!ENTITY  securityTab           "Security">
 <!ENTITY  securityTab.accesskey "S">
@@ -78,9 +63,9 @@
 
 <!ENTITY  securityView.privacy.header                   "Privacy &amp; History">
 <!ENTITY  securityView.privacy.history                  "Have I visited this web site before today?">
-<!ENTITY  securityView.privacy.cookies                  "Is this web site storing information (cookies) on my computer?">
-<!ENTITY  securityView.privacy.viewCookies              "View Cookies">
-<!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
+<!ENTITY  securityView.privacy.siteData                 "Is this web site storing information on my computer?">
+<!ENTITY  securityView.privacy.clearSiteData            "Clear Cookies and Site Data">
+<!ENTITY  securityView.privacy.clearSiteData.accessKey  "C">
 <!ENTITY  securityView.privacy.passwords                "Have I saved any passwords for this web site?">
 <!ENTITY  securityView.privacy.viewPasswords            "View Saved Passwords">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
