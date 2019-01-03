@@ -12,7 +12,7 @@
 <!ENTITY update.checkForUpdatesButton.label       "Kontrolearje op fernijingen">
 <!ENTITY update.checkForUpdatesButton.accesskey   "K">
 <!ENTITY update.updateButton.label3               "Start &brandShorterName; opnij om te fernijen">
-<!ENTITY update.updateButton.accesskey            "W">
+<!ENTITY update.updateButton.accesskey            "S">
 
 
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly builds. It is only shown in this version. -->
