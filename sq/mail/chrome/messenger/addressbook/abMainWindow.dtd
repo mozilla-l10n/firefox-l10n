@@ -193,8 +193,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY PrimaryEmail.accesskey                         "m">
 <!ENTITY ChatName.label                                 "Emrash Fjalosjeje">
 <!ENTITY ChatName.accesskey                             "F">
-<!ENTITY Company.label                                  "Organizmash">
-<!ENTITY Company.accesskey                              "O">
+<!ENTITY Company.label                                  "Entesh">
+<!ENTITY Company.accesskey                              "E">
 <!ENTITY NickName.label                                 "Nofkash">
 <!ENTITY NickName.accesskey                             "N">
 <!ENTITY SecondEmail.label                              "Email-esh Shtesë">
