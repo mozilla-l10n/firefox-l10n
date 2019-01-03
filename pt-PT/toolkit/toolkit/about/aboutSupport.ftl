@@ -177,6 +177,7 @@ main-thread-no-omtc = thread principal, sem OMTC
 yes = Sim
 no = Não
 unknown = Desconhecido
+virtual-monitor-disp = Ecrã virtual
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
