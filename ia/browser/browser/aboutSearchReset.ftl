@@ -11,7 +11,7 @@ page-info-new-search-engine = Isto predefinira tu motor de recerca como <span da
 page-info-how-to-change = Tu pote cambiar iste parametros a qualcunque momento ab le <a data-l10n-name="link">Pagina de parametros</a>.
 no-change-button =
     .label = Non cambiar
-    .accesskey = D
+    .accesskey = N
 change-engine-button =
     .label = Cambiar le motor de recerca
     .accesskey = C

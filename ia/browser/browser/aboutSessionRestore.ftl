@@ -34,7 +34,7 @@ welcome-back-page-title = Successo!
 welcome-back-page-info = { -brand-short-name } es preste.
 welcome-back-restore-button =
     .label = Que nos va!
-    .accesskey = L
+    .accesskey = Q
 welcome-back-restore-all-label = Restaurar tote le fenestras e schedas
 welcome-back-restore-some-label = Restaurar solmente illos que tu vole
 welcome-back-page-info-link = Tu additivos e personalisationes ha essite removite e le parametros de tu navigator ha essite restaurate a lor predefinitiones. Si isto non corrige tu problema, <a data-l10n-name="link-more">apprende lo que tu pote facer de plus.</a>

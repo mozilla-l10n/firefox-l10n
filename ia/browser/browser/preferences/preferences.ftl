@@ -595,7 +595,7 @@ history-clear-on-close-settings =
     .accesskey = t
 history-clear-button =
     .label = Vacuar le chronologia…
-    .accesskey = s
+    .accesskey = V
 
 ## Privacy Section - Site Data
 
