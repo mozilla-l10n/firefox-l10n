@@ -3,6 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Subscription Dialog -->
+<!ENTITY feedSubscriptions.label     "Suscripciones a canales">
+<!ENTITY learnMore.label             "Saber más acerca de los canales">
 
 <!ENTITY feedTitle.label             "Título:">
 
@@ -19,6 +21,7 @@
 <!ENTITY button.addFeed.label        "Agregar">
 <!ENTITY button.verifyFeed.label     "Verificar">
 <!ENTITY button.updateFeed.label     "Actualizar">
+<!ENTITY button.removeFeed.label     "Eliminar">
 <!ENTITY button.importOPML.label     "Importar">
 <!ENTITY button.exportOPML.label     "Exportar">
 
