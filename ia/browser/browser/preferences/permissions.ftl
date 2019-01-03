@@ -58,14 +58,10 @@ permissions-invalid-uri-label = Per favor insere un nomine de hoste valide
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-tracking-protection-window =
-    .title = Exceptiones - Protection contra le tractiamento
-    .style = { permissions-window.style }
-permissions-exceptions-tracking-protection-desc = Tu ha inactivate le protection contra le traciamento in iste sitos web.
 permissions-exceptions-content-blocking-window =
-    .title = Exceptiones -Bloco del contento
+    .title = Exceptiones - Blocage de contento
     .style = { permissions-window.style }
-permissions-exceptions-content-blocking-desc = Tu ha disactivate le bloco de contento pro iste sito web.
+permissions-exceptions-content-blocking-desc = Tu ha disactivate le blocage de contento pro iste sito web.
 
 ## Exceptions - Cookies
 

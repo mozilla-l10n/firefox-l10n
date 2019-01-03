@@ -154,9 +154,6 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = Aperir le ligamines in schedas in vice de nove fenestras
     .accesskey = s
-warn-on-quit-close-multiple-tabs =
-    .label = Advertir te quando tu claude plure schedas
-    .accesskey = p
 warn-on-close-multiple-tabs =
     .label = Advertir te quando tu claude multiple schedas
     .accesskey = m
@@ -658,7 +655,7 @@ sitedata-cookies-exceptions =
 # This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
 # in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
 # Cookies and Site Data section.
-sitedata-warning-your-settings-prevent-changes = Tu parametros de Blocage de contentos impedi cambiamentos al configurationes del cookies e al datos del sito.
+sitedata-warning-your-settings-prevent-changes = Tu parametros de blocage de contentos impedi cambiamentos al configurationes del cookies e al datos del sito.
 sitedata-cookies-permissions =
     .label = Gerer le permissiones…
     .accesskey = p
