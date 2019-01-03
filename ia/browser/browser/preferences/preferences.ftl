@@ -120,7 +120,7 @@ search-results-empty-message =
         [windows] Pardono! Il ha nulle resultato in le optiones pro “<span data-l10n-name="query"></span>”.
        *[other] Pardono! Il ha nulle resultato in le preferentias pro “<span data-l10n-name="query"></span>”.
     }
-search-results-help-link = Besonia tu de adjuta? Visita <a data-l10n-name="url">Auxilio de { -brand-short-name }</a>
+search-results-help-link = Besonia tu de adjuta? Visita <a data-l10n-name="url">Assistentia de { -brand-short-name }</a>
 
 ## General Section
 
