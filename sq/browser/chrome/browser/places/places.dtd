@@ -8,7 +8,7 @@
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label        "Sistemim">
 <!ENTITY organize.accesskey    "S">
-<!ENTITY organize.tooltip      "Organizoni faqerojtësit tuaj">
+<!ENTITY organize.tooltip      "Sistemoni faqerojtësit tuaj">
 
 <!ENTITY file.close.label               "Mbylleni">
 <!ENTITY file.close.accesskey           "M">
@@ -73,15 +73,11 @@
 <!ENTITY cmd.reloadLivebookmark.label      "Ringarko Faqerojtësin e Gjallë">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "R">
 
-<!ENTITY cmd.moveBookmarks.label                  "Lëvizini…">
-<!ENTITY cmd.moveBookmarks.accesskey              "L">
-
 <!ENTITY col.name.label          "Emër">
 <!ENTITY col.tags.label          "Etiketa">
 <!ENTITY col.url.label           "Vendndodhje">
 <!ENTITY col.mostrecentvisit.label "Vizita Më e Freskët">
 <!ENTITY col.visitcount.label    "Numër Vizitash">
-<!ENTITY col.description.label   "Përshkrim">
 <!ENTITY col.dateadded.label     "Shtuar më">
 <!ENTITY col.lastmodified.label  "Ndryshuar Së Fundi">
 
@@ -98,10 +94,6 @@
 
 <!ENTITY forwardButton.tooltip  "Vazhdoni përpara">
 
-<!ENTITY detailsPane.more.label "Më tepër">
-<!ENTITY detailsPane.more.accesskey "e">
-<!ENTITY detailsPane.less.label "Më pak">
-<!ENTITY detailsPane.less.accesskey "M">
 <!ENTITY detailsPane.selectAnItemText.description "Përzgjidhni një objekt për ta parë dhe për t&amp;i përpunuar vetitë">
 
 <!ENTITY view.label               "Shihni">
