@@ -176,6 +176,8 @@ hardware-h264 = Hardwaremjittige H264-dekodearring
 main-thread-no-omtc = haadthread, gjin OMTC
 yes = Ja
 no = Nee
+unknown = Unbekend
+virtual-monitor-disp = Virtual Monitor Display
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
@@ -183,6 +185,8 @@ no = Nee
 
 found = Fûn
 missing = Untbrekt
+gpu-process-pid = GPUProcessPid
+gpu-process = GPUProcess
 gpu-description = Beskriuwing
 gpu-vendor-id = Leveransier-ID
 gpu-device-id = Apparaat-ID
@@ -215,6 +219,7 @@ d3d9video-crash-buard = D3D9-fideodecoder
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Opnij ynstelle nij werstart
 gpu-process-kill-button = GPU-proses beëinigje
+gpu-device-reset = Apparaatwerinisjalisaasje
 gpu-device-reset-button = Apparaatherinisjalisaasje aktivearje
 uses-tiling = Brûkt tegels
 content-uses-tiling = Brûkt Tiling (Ynhâld)
