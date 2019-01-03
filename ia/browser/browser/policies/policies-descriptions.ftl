@@ -17,13 +17,12 @@ policy-BlockAboutConfig = Blocar accesso al pagina about:config.
 policy-BlockAboutProfiles = Blocar accesso al pagina about:profiles.
 policy-BlockAboutSupport = Blocar accesso al pagina about:support.
 policy-Bookmarks = Crear marcapaginas in le barra del instrumentos de marcapaginas, menu de marcapaginas o un plica specificate intra illos
-policy-Certificates = Si o non usar certificates integrate. Iste regulamento es solo de Windows a iste tempore.
 policy-CertificatesDescription = Adde certificatos o usa certificatos integrate.
 policy-Cookies = Consentir o negar al sitos web de definir cookies.
 policy-DisableAppUpdate = Impedir le actualisation del navigator.
-policy-DisableBuiltinPDFViewer = Disactivar PDF.js, le visor de PDF integrate in { -brand-short-name }.<
+policy-DisableBuiltinPDFViewer = Inactivar PDF.js, le visor de PDF integrate in { -brand-short-name }.
 policy-DisableDeveloperTools = Blocar le accesso al instrumentos del developpatores.
-policy-DisableFeedbackCommands = Disactivar commandos pro mitter commentario ab le menu Adjutar (Invia commentario e reporta sito fraudulente).
+policy-DisableFeedbackCommands = Inactivar le commandos pro submitter tu commentarios in le menu Adjuta (Submitter tu opinion e Denunciar sito fraudulente).
 policy-DisableFirefoxAccounts = Disactivar le servicios basate sur { -fxaccount-brand-name }, comprendite Sync.
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Disactivar le functionalitate Firefox Screenshots.
@@ -37,7 +36,6 @@ policy-DisableProfileImport = Disactivar le commando del menu pro importar datos
 policy-DisableProfileRefresh = Disactivar le button Refrescar { -brand-short-name } in le pagina about:support.
 policy-DisableSafeMode = Disactivar le functionalitate pro reinitiar in Modo secur. Nota: le clave Shift pro inserer le Modo secur pote solmente esser disactivate sur Windows per le politicas de gruppo.
 policy-DisableSecurityBypass = Impedir al usator de ignorar certe avisos de securitate.
-policy-DisableSetDesktopBackground = Disactivar le commando de menu Definir imagine como fundo del scriptorio.
 policy-DisableSetAsDesktopBackground = Disactivar le commando de menu Definir como Fundo del scriptorio pro le imagines.
 policy-DisableSystemAddonUpdate = Impedir al navigator de installar e actualisar additivos de systema.
 policy-DisableTelemetry = Disactivar le telemetria.
@@ -49,8 +47,7 @@ policy-DontCheckDefaultBrowser = Disactivar le controlo Navigator predefinite al
 policy-EnableTrackingProtection = Activar o disactivar le Blocage de contentos e optionalmente serrar lo.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
-# English or translate them as verbs. See also:
-# https://github.com/mozilla/policy-templates/blob/master/README.md#extensions-machine-only
+# English or translate them as verbs.
 policy-Extensions = Installar, disinstallar o blocar le extensiones. Le option Installar require URLs o percursos como parametros. Le optiones Disinstallar e Blocate require le extension IDs.
 policy-FlashPlugin = Consentir o negar le uso del plugin Flash.
 policy-HardwareAcceleration = Si false, disactivar le acceleration hardware.
@@ -70,6 +67,5 @@ policy-SearchBar = Definir le localisation predefinite del barra de recerca. Le 
 policy-SearchEngines = Configurar le parametros del motores de recerca. Iste criterio es solmente disponibile sur le version con supporto extendite (Extended Support Release - ESR).
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Installar modulos PKCS #11.
-# “format” refers to the format used for the value of this policy. See also:
-# https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
+# “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Blocar de ser visitate sitos web. Vider documentation pro altere detalios sur le formato.

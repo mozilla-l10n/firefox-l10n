@@ -184,7 +184,7 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY ldbCmd.label "Depurator de disposition">
-<!ENTITY ldbCmd.accesskey "L">
+<!ENTITY ldbCmd.accesskey "D">
 <!ENTITY mirrorTabCmd.label "Duplicar le scheda">
 <!ENTITY mirrorTabCmd.accesskey "D">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
@@ -258,10 +258,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksToolbarChevron.tooltip "Monstrar plus marcapaginas">
 
 <!ENTITY backCmd.label                "Retro">
-<!ENTITY backCmd.accesskey            "B">
+<!ENTITY backCmd.accesskey            "R">
 <!ENTITY backButton.tooltip           "Ir un pagina retro">
 <!ENTITY forwardCmd.label             "Avante">
-<!ENTITY forwardCmd.accesskey         "F">
+<!ENTITY forwardCmd.accesskey         "A">
 <!ENTITY forwardButton.tooltip        "Ir un pagina avante">
 <!ENTITY backForwardButtonMenu.tooltip "Clicca dextere o trahe a basso pro monstrar le chronologia">
 <!ENTITY backForwardButtonMenuMac.tooltip "Trahe a basso pro monstrar le chronologia">
@@ -1159,7 +1159,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.keepButton.label "Mantener le cambios">
 <!ENTITY newTabControlled.keepButton.accesskey "M">
 <!ENTITY newTabControlled.disableButton.label "Inactivar le extension">
-<!ENTITY newTabControlled.disableButton.accesskey "D">
+<!ENTITY newTabControlled.disableButton.accesskey "I">
 
 <!ENTITY homepageControlled.message "Un extension cambiava lo que tu vide quando tu aperi tu pagina casa. Tu pote restaurar tu parametros si tu non vole iste modification.">
 <!ENTITY homepageControlled.header.message "Tu pagina principal cambiava.">
@@ -1172,7 +1172,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tabHideControlled.keepButton.label "Mantener celate le schedas">
 <!ENTITY tabHideControlled.keepButton.accesskey "M">
 <!ENTITY tabHideControlled.disableButton.label "Inactivar le extension">
-<!ENTITY tabHideControlled.disableButton.accesskey "D">
+<!ENTITY tabHideControlled.disableButton.accesskey "I">
 
 <!ENTITY pageActionButton.tooltip "Actiones del pagina">
 <!ENTITY pageAction.addToUrlbar.label "Adder al barra de adresse">
