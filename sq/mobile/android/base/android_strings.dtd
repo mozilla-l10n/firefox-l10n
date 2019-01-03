@@ -4,7 +4,7 @@
 
 <!ENTITY firstrun_panel_title_welcome "Mirë se vini">
 <!ENTITY firstrun_urlbar_message2 "Faleminderit që zgjidhni &brandShortName;-in">
-<!ENTITY firstrun_urlbar_subtext2 "Një shfletues modern për celularë, nga Mozilla, organizmi jofitimprurës i përkushtuar një web-i të lirë dhe të hapur.">
+<!ENTITY firstrun_urlbar_subtext2 "Një shfletues modern për celularë, nga Mozilla, enti jofitimprurës i përkushtuar një web-i të lirë dhe të hapur.">
 <!ENTITY firstrun_panel_title_privacy "Privatësi">
 <!ENTITY firstrun_privacy_message "Shfletoni si të mos ju shihte kush">
 <!ENTITY firstrun_privacy_subtext "Shfletimi Privat me Mbrojtje Nga Gjurmimet bllokon gjurmues teksa shfletoni dhe nuk do të mbajë mend historikun tuaj kur të mbaroni së shfletuari.">
