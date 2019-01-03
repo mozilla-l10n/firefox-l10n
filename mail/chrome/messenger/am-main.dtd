@@ -16,8 +16,8 @@
 <!ENTITY replyTo.label "Adresë për Përgjigju:">
 <!ENTITY replyTo.accesskey "u">
 <!ENTITY replyTo.placeholder "Marrësit do të përgjigjen te kjo adresë tjetër">
-<!ENTITY organization.label "Organizëm:">
-<!ENTITY organization.accesskey "O">
+<!ENTITY organization.label "Ent:">
+<!ENTITY organization.accesskey "n">
 <!ENTITY signatureText.label "Tekst nënshkrimi:">
 <!ENTITY signatureText.accesskey "T">
 <!ENTITY signatureHtml.label "Përdor HTML (p.sh., &lt;b&gt;bold&lt;/b&gt;)">
