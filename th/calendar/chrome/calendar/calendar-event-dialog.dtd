@@ -58,6 +58,11 @@
 
 <!ENTITY event.repeat.custom.label                      "กำหนดเอง…">
 
+<!ENTITY event.recurrence.occurs.label                  "ทำซ้ำ" >
+<!ENTITY event.recurrence.day.label                     "รายวัน" >
+<!ENTITY event.recurrence.week.label                    "รายสัปดาห์" >
+<!ENTITY event.recurrence.month.label                   "รายเดือน" >
+<!ENTITY event.recurrence.year.label                    "รายปี" >
 
 
 
@@ -78,5 +83,7 @@
 <!-- Timezone dialog -->
 
 <!-- Read-Only dialog -->
+<!ENTITY read.only.general.label         "ทั่วไป">
+<!ENTITY read.only.title.label           "ชื่อเรื่อง:">
 
 <!-- Summary dialog -->
