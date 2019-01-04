@@ -59,7 +59,7 @@
 <!ENTITY closeTab.label "Chiudi scheda">
 <!ENTITY closeTab.accesskey "C">
 <!ENTITY hiddenTabs.label "Schede nascoste">
-<!ENTITY allTabsMenu.searchTabs.label "Cerca nelle schede">
+<!ENTITY allTabsMenu.searchTabs.label "Cerca scheda">
 <!ENTITY listAllTabs.label "Elenco di tutte le schede">
 <!ENTITY tabCmd.label "Nuova scheda">
 <!ENTITY tabCmd.accesskey "h">
