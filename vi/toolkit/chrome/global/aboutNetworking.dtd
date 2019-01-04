@@ -32,9 +32,9 @@
 <!ENTITY aboutNetworking.bytesReceived         "Byte đã nhận">
 <!ENTITY aboutNetworking.logging               "Nhật ký">
 <!ENTITY aboutNetworking.logTutorial           "Xem <a href='https://developer.mozilla.org/docs/Mozilla/Debugging/HTTP_logging'>nhật ký HTTP</a> để biết hướng dẫn về cách sử dụng công cụ này.">
-<!ENTITY aboutNetworking.currentLogFile        "Tệp nhật ký hiện tại:">
+<!ENTITY aboutNetworking.currentLogFile        "Tập tin nhật ký hiện tại:">
 <!ENTITY aboutNetworking.currentLogModules     "Mô-đun nhật ký hiện tại:">
-<!ENTITY aboutNetworking.setLogFile            "Đặt tệp nhật ký">
+<!ENTITY aboutNetworking.setLogFile            "Đặt tập tin nhật ký">
 <!ENTITY aboutNetworking.setLogModules         "Đặt mô-đun nhật ký">
 <!ENTITY aboutNetworking.startLogging          "Bắt đầu ghi">
 <!ENTITY aboutNetworking.stopLogging           "Dừng ghi">

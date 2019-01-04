@@ -58,10 +58,6 @@ permissions-invalid-uri-label = Hãy nhập một tên máy chủ có thực
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-tracking-protection-window =
-    .title = Ngoại lệ - Chống theo dõi
-    .style = { permissions-window.style }
-permissions-exceptions-tracking-protection-desc = Bạn đã tắt chế độ chống theo dõi ở các trang web này.
 permissions-exceptions-content-blocking-window =
     .title = Ngoại lệ - Chặn nội dung
     .style = { permissions-window.style }
@@ -77,9 +73,9 @@ permissions-exceptions-cookie-desc = Bạn có thể chỉ định trang web nà
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window =
-    .title = Những trang được cho phép - Popup
+    .title = Những trang được cho phép - Cửa sổ bật lên
     .style = { permissions-window.style }
-permissions-exceptions-popup-desc = Bạn có thể chỉ định những trang được phép bật cửa sổ popup. Gõ chính xác địa chỉ trang bạn muốn cho phép và sau đó nhấp Cho phép.
+permissions-exceptions-popup-desc = Bạn có thể chỉ định những trang được phép bật cửa sổ bật lên. Gõ chính xác địa chỉ trang bạn muốn cho phép và sau đó nhấp Cho phép.
 
 ## Exceptions - Saved Logins
 

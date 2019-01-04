@@ -46,7 +46,7 @@
 
 <!ENTITY cmd.open.label                  "Mở">
 <!ENTITY cmd.open.accesskey              "M">
-<!ENTITY cmd.open_window.label           "Mở trong Cửa Sổ Mới">
+<!ENTITY cmd.open_window.label           "Mở trong cửa sổ mới">
 <!ENTITY cmd.open_window.accesskey       "S">
 <!ENTITY cmd.open_private_window.label     "Mở liên kết trong cửa sổ riêng tư mới">
 <!ENTITY cmd.open_private_window.accesskey "r">

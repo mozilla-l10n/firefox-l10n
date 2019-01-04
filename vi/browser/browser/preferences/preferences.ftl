@@ -283,7 +283,7 @@ update-enable-search-update =
 update-pref-write-failure-title = Lỗi ghi
 # Variables:
 #   $path (String) - Path to the configuration file
-update-pref-write-failure-message = Không thể lưu tùy chọn. Không thể ghi vào tệp: { $path }
+update-pref-write-failure-message = Không thể lưu tùy chọn. Không thể ghi vào tập tin: { $path }
 
 ## General Section - Performance
 
@@ -820,8 +820,8 @@ autoplay-option-dont =
     .label = Không tự động phát
 permissions-autoplay-link = Tìm hiểu thêm
 permissions-block-popups =
-    .label = Chặn các cửa sổ pop-up
-    .accesskey = C
+    .label = Chặn các cửa sổ bật lên
+    .accesskey = B
 permissions-block-popups-exceptions =
     .label = Ngoại lệ…
     .accesskey = N
@@ -932,4 +932,4 @@ choose-download-folder-title = Chọn Thư mục Tải xuống:
 # Variables:
 #   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
 save-files-to-cloud-storage =
-    .label = Lưu tệp vào { $service-name }
+    .label = Lưu tập tin vào { $service-name }
