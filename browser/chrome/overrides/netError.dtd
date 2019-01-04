@@ -12,7 +12,6 @@
 <!ENTITY advanced.label "ਤਕਨੀਕੀ">
 <!ENTITY continue2.label "…ਹੋਰ">
 <!ENTITY moreInformation.label "ਹੋਰ ਜਾਣਕਾਰੀ">
-
 <!ENTITY viewCertificate.label "ਸਰਟੀਫਿਕੇਟ ਨੂੰ ਵੇਖੋ">
 
 <!-- Specific error messages -->
@@ -147,12 +146,12 @@
 ">
 
 <!ENTITY certerror.longpagetitle1 "ਤੁਹਾਡਾ ਕਨੈਕਸ਼ਨ ਸੁਰੱਖਿਅਤ ਨਹੀਂ ਹੈ">
+<!ENTITY certerror.longpagetitle2 "ਚੇਤਾਵਨੀ: ਅੱਗੇ ਸੰਭਾਵਿਤ ਸੁਰੱਖਿਆ ਖ਼ਤਰਾ ਹੈ">
+<!ENTITY certerror.sts.longpagetitle  "ਕਨੈਕਟ ਨਹੀਂ ਹੈ: ਸੰਭਾਵਿਤ ਸੁਰੱਖਿਆ ਮਸਲਾ">
 <!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "<span class='hostname'/> ਦੇ ਮਾਲਕ ਨੇ ਆਪਣੀ ਵੈੱਬਸਾਈਟ ਨੂੰ ਗਲਤ ਢੰਗ ਨਾਲ ਸੰਰਚਿਤ ਕੀਤਾ ਹੈ। ਤੁਹਾਡੀ ਜਾਣਕਾਰੀ ਨੂੰ ਚੋਰੀ ਹੋਣ ਤੋਂ ਰੋਕਣ ਲਈ &brandShortName; ਇਸ ਵੈੱਬਸਾਈਟ ਨਾਲ ਕਨੈਕਟ ਨਹੀਂ ਹੈ।">
-
-
 
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "ਇਸ ਬਾਰੇ ਤੁਸੀਂ ਕੀ ਕਰ ਸਕਦੇ ਹੋ?">
@@ -195,6 +194,8 @@ was trying to connect. -->
      tags will be injected with actual values, please leave them unchanged. -->
 
 <!ENTITY certerror.pagetitle1  "ਅਸੁਰੱਖਿਅਤ ਕਨੈਕਸ਼ਨ">
+<!ENTITY certerror.pagetitle2  "ਚੇਤਾਵਨੀ: ਅੱਗੇ ਸੰਭਾਵਿਤ ਸੁਰੱਖਿਆ ਖ਼ਤਰਾ ਹੈ">
+<!ENTITY certerror.sts.pagetitle  "ਕਨੈਕਟ ਨਹੀਂ ਹੈ: ਸੰਭਾਵਿਤ ਸੁਰੱਖਿਆ ਮਸਲਾ">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "ਇਹ ਸਾਈਟ HTTP
 ਸਟਿੱਕ ਟਰਾਂਸਪੋਰਟ ਸਕਿਉਰਟੀ (HSTS) ਨੂੰ ਵਰਤਦੀ ਹੈ, ਜਿਸ ਨਾਲ &brandShortName; ਇਸ ਨਾਲ
 ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਕਨੈਕਟ ਹੋ ਸਕਦਾ ਹੈ। ਨਤੀਜੇ ਵਜੋਂ ਇਸ ਸਰਟੀਫਿਕੇਟ ਲਈ ਛੋਟ ਜੋੜਨੀ ਸੰਭਵ ਨਹੀਂ ਹੈ।">
@@ -207,9 +208,10 @@ was trying to connect. -->
 
 <!ENTITY blockedByPolicy.title "ਪਾਬੰਦੀ ਲਗਾਇਆ ਸਫ਼ਾ">
 
+
 <!ENTITY clockSkewError.title "ਤੁਹਾਡੇ ਕੰਪਿਊਟਰ ਦੀ ਘੜੀ ਗਲਤ ਹੈ">
 
 <!ENTITY prefReset.longDesc "ਜਾਪਦਾ ਹੈ ਕਿ ਤੁਹਾਡੀ ਨੈੱਟਵਰਕ ਸੁਰੱਖਿਆ ਸੈਟਿੰਗਾਂ ਇਸ ਦਾ ਕਾਰਨ ਹੋ ਸਕਦੀਆਂ ਹਨ। ਕੀ ਤੁਸੀਂ ਡਿਫਾਲਟ ਸੈਟਿੰਗਾਂ ਨੂੰ ਬਹਾਲ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?">
-<!ENTITY prefReset.label "ਡਿਫਾਲਟ ਸੈਟਿੰਗਾਂ ਨੂੰ ਮੁੜ-ਬਹਾਲ ਕਰੋ">
+<!ENTITY prefReset.label "ਡਿਫਾਲਟ ਸੈਟਿੰਗਾਂ ਨੂੰ ਬਹਾਲ ਕਰੋ">
 
 <!ENTITY networkProtocolError.title "ਨੈੱਟਵਰਕ ਪਰੋਟੋਕਾਲ ਗ਼ਲਤੀ">
