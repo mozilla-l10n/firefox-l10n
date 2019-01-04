@@ -33,3 +33,4 @@
 <!ENTITY newToolbarCmd.label "ใหม่">
 <!ENTITY openToolbarCmd.label "เปิด">
 <!ENTITY openToolbarCmd.tooltip "เปิดไฟล์ในเครื่อง">
+<!ENTITY publishToolbarCmd.tooltip "อัปโหลดไฟล์ไปยังตำแหน่งที่ตั้งระยะไกล">
