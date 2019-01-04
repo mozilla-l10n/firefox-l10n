@@ -878,7 +878,7 @@ is simply hidden from the Activity Stream panel. -->
 
 <!ENTITY private_tab_panel_title "Duyệt web riêng tư + Trình chống theo dõi">
 <!ENTITY private_tab_panel_description "&brandShortName; chặn các phần của các trang web có thể theo dõi hoạt động duyệt web của bạn.">
-<!ENTITY private_tab_panel_description2 "Chúng tôi sẽ không lưu bất kỳ lịch sử nào, nhưng tệp đã tải xuống và trang đánh dấu mới sẽ vẫn được lưu vào thiết bị của bạn.">
+<!ENTITY private_tab_panel_description2 "Chúng tôi sẽ không lưu bất kỳ lịch sử nào, nhưng tập tin đã tải xuống và trang đánh dấu mới sẽ vẫn được lưu vào thiết bị của bạn.">
 <!ENTITY private_tab_learn_more "Muốn tìm hiểu thêm?">
 
 <!ENTITY fullscreen_warning "Đã vào chế độ toàn màn hình">
