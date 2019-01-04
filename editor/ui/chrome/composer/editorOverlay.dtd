@@ -53,6 +53,7 @@
 
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "แถบเมนู">
+<!ENTITY formatToolbar.tooltip "แถบเครื่องมือการจัดรูปแบบ">
 <!ENTITY cutToolbarCmd.tooltip "ตัด">
 <!ENTITY copyToolbarCmd.tooltip "คัดลอก">
 <!ENTITY pasteToolbarCmd.tooltip "วาง">
