@@ -182,6 +182,8 @@ virtual-monitor-disp = Sanal monitör ekranı
 
 found = Bulundu
 missing = Eksik
+gpu-process-pid = GPUProcessPid
+gpu-process = GPUProcess
 gpu-description = Tanım
 gpu-vendor-id = Satıcı numarası
 gpu-device-id = Aygıt numarası
@@ -214,6 +216,7 @@ d3d9video-crash-buard = D3D9 Video Çözücüsü
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Sonraki yeniden başlatmada sıfırla
 gpu-process-kill-button = GPU işlemini sonlandır
+gpu-device-reset = Aygıtı sıfırla
 gpu-device-reset-button = Aygıt sıfırlamayı tetikle
 uses-tiling = Tiling kullanımı
 content-uses-tiling = Tiling kullanımı (içerik)

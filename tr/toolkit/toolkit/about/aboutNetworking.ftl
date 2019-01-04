@@ -34,7 +34,7 @@ logging = Log Kaydı
 log-tutorial = Bu aracı nasıl kullanabileceğinizi öğrenmek için <a data-l10n-name="logging">HTTP Logging</a> sayfasına bakın.
 current-log-file = Geçerli log dosyası:
 current-log-modules = Geçerli log modülleri:
-set-log-file = Log doyasını ayarlar
+set-log-file = Log dosyasını ayarla
 set-log-modules = Log modüllerini ayarla
 start-logging = Log tutmayı başlat
 stop-logging = Log tutmayı durdur
