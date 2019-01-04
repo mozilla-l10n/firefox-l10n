@@ -10,6 +10,7 @@ about-performance-title = ਟਾਸਕ ਮੈਨੇਜਰ
 column-name = ਨਾਂ
 column-type = ਕਿਸਮ
 column-energy-impact = ਊਰਜਾ ਅਸਰ
+column-memory = ਮੈਮੋਰੀ
 
 ## Special values for the Name column
 
@@ -37,6 +38,15 @@ type-other = ਹੋਰ
 energy-impact-high = ਉੱਚ ({ $value })
 energy-impact-medium = ਮੱਧਮ ({ $value })
 energy-impact-low = ਘੱਟ ({ $value })
+
+## Values for the Memory column
+##
+## Variables:
+##   $value (Number) - How much memory is used
+
+size-KB = { $value } KB
+size-MB = { $value } MB
+size-GB = { $value } GB
 
 ## Tooltips for the action buttons
 
