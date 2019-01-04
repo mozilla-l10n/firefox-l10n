@@ -32,12 +32,12 @@ bytes-sent = จำนวนไบต์ที่ส่ง
 bytes-received = จำนวนไบต์ที่รับ
 logging = การบันทึก
 log-tutorial = ดู<a data-l10n-name="logging">การบันทึกล็อก HTTP</a>สำหรับคำแนะนำเกี่ยวกับวิธีการใช้เครื่องมือนี้
-current-log-file = ไฟล์ล็อกปัจจุบัน:
-current-log-modules = โมดูลล็อกปัจจุบัน:
-set-log-file = ตั้งค่าไฟล์ล็อก
-set-log-modules = ตั้งค่าโมดูลล็อก
+current-log-file = ไฟล์รายการบันทึกปัจจุบัน:
+current-log-modules = โมดูลรายการบันทึกปัจจุบัน
+set-log-file = ตั้งไฟล์รายการบันทึก
+set-log-modules = ตั้งโมดูลรายการบันทึก
 start-logging = เริ่มการบันทึก
-stop-logging = หยุดการบันทึกล็อก
+stop-logging = หยุดการบันทึก
 dns-lookup = การค้นหา DNS
 dns-lookup-button = แปลงที่อยู่
 dns-domain = โดเมน:
