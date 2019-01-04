@@ -20,6 +20,8 @@ onboarding-start-browsing-button-label = Sōkt porlyukōšonu
 onboarding-private-browsing-title = Privātō porlyukōšona
 onboarding-private-browsing-text = Porlyukoj privāti. Privātō porlyukōšona ar satura bloķiešonu bloķej interneta izsekōtōjus.
 onboarding-screenshots-title = Ekranšōvīni
+onboarding-screenshots-text = Taisi, sagloboj un dolīs ar ekranšōvīnim naizejut nu { -brand-short-name }. Atlosi lopys apgobolu ci vysu lūgu. Sagloboj tūs vīglōkai pīkļuvei un kūplītōšonai.
+onboarding-addons-title = Papyldynōjumi
 
 ## Message strings belonging to the Return to AMO flow
 
