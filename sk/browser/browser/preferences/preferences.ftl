@@ -143,6 +143,8 @@ set-as-my-default-browser =
 startup-restore-previous-session =
     .label = Obnoviť predchádzajúcu reláciu
     .accesskey = o
+startup-restore-warn-on-quit =
+    .label = Upozorniť pri ukončení prehliadača
 disable-extension =
     .label = Zakázať rozšírenie
 tabs-group-header = Karty
@@ -725,6 +727,7 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = Vlastné
     .accesskey = V
+content-blocking-standard-description = Blokuje známe sledovacie prvky v režime Súkromné prehliadanie.
 content-blocking-standard-desc = Vyvážená úroveň ochrany a výkonu. Povoľuje niektoré sledovacie sledovacie prvky, aby stránky fungovali správne.
 content-blocking-strict-desc = Blokuje všetky sledovacie prvky, ktoré { -brand-short-name } nájde. Toto nastavenie môže obmedziť fungovanie niektorých stránok.
 content-blocking-custom-desc = Vyberte si, čo chcete blokovať.
@@ -860,6 +863,8 @@ collection-health-report-link = Ďalšie informácie
 collection-studies =
     .label = Povoliť aplikácii { -brand-short-name } inštalovať a spúšťať štúdie
 collection-studies-link = Zobraziť štúdie aplikácie { -brand-short-name }
+addon-recommendations =
+    .label = Povoliť aplikácii { -brand-short-name } odporúčať rozšírenia vybrané priamo pre mňa
 addon-recommendations-link = Ďalšie informácie
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
