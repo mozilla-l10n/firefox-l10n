@@ -123,6 +123,10 @@ These items have the same accesskey but will never be visible at the same time. 
 
 <!ENTITY  listAllTabs.label      "List alle faneblade">
 
+<!-- LOCALIZATION NOTE (allTabsMenu.searchTabs.label): "Search" is a verb, as
+in "Search through tabs". -->
+<!ENTITY  allTabsMenu.searchTabs.label       "Søg i faneblade">
+
 <!ENTITY tabCmd.label "Nyt faneblad">
 <!ENTITY tabCmd.accesskey "f">
 <!ENTITY tabCmd.commandkey "t">
@@ -309,6 +313,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Browseren fjernstyres">
 
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Åbn panelet web-godkendelse">
+
+<!ENTITY urlbar.storageAccessAnchor.tooltip               "Åbn panelet tilladelser for browsing-aktivitet">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip     "Administrer deling af dit kamera og/eller mikrofon med webstedet">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip  "Administrer deling af din mikrofon med webstedet">
@@ -1118,6 +1124,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.trackersView.label "Sporings-tjenester">
 <!ENTITY contentBlocking.trackersView.strictInfo.label "Sæt blokering af indhold til &quot;Striks &quot;for at blokere alle sporings-tjenester.">
+
+<!ENTITY contentBlocking.cookies.label "Cookies">
+<!ENTITY contentBlocking.cookiesView.label "Cookies og websteds-data">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Rapportér et problem">
 <!ENTITY contentBlocking.breakageReportView.label "Rapportér problemer">
