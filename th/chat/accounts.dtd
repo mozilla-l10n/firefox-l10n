@@ -27,6 +27,10 @@
 <!ENTITY account.movedown.label       "ย้ายลง">
 <!ENTITY account.cancelReconnection.label         "ยกเลิกการเชื่อมต่อใหม่">
 <!ENTITY account.cancelReconnection.accesskey     "ย">
+<!ENTITY account.copyDebugLog.label     "คัดลอกรายการบันทึกการดีบั๊ก">
+<!ENTITY account.copyDebugLog.accesskey "ด">
+<!ENTITY account.showDebugLog.label     "แสดงรายการบันทึกการดีบั๊ก">
+<!ENTITY account.showDebugLog.accesskey "ส">
 <!ENTITY account.connecting           "กำลังเชื่อมต่อ…">
 <!ENTITY account.disconnecting        "กำลังตัดการเชื่อมต่อ…">
 <!ENTITY account.disconnected         "ไม่ได้เชื่อมต่อ">
