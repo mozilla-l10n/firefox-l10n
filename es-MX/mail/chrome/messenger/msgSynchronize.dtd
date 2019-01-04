@@ -4,5 +4,9 @@
 
 <!-- extracted from MsgSynchronize.xul and msgSelectOfflineFolders.xul-->
 
+<!ENTITY syncTypeMail.label "Mensajes de correo">
+<!ENTITY syncTypeNews.label "Mensajes de noticias">
+<!ENTITY sendMessage.label "Enviar mensajes no enviados">
 <!ENTITY selectButton.label "Seleccionar…">
 <!ENTITY MsgSelectInd.label "Descargar">
+<!ENTITY MsgSelectItems.label "Carpetas y grupos de noticias">
