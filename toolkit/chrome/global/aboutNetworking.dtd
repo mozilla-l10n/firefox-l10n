@@ -34,7 +34,7 @@
 <!ENTITY aboutNetworking.logTutorial           "Bu aracı nasıl kullanabileceğinizi öğrenmek için <a href='https://developer.mozilla.org/docs/Mozilla/Debugging/HTTP_logging'>HTTP Logging</a> sayfasına bakın.">
 <!ENTITY aboutNetworking.currentLogFile        "Geçerli log dosyası:">
 <!ENTITY aboutNetworking.currentLogModules     "Geçerli log modülleri:">
-<!ENTITY aboutNetworking.setLogFile            "Log doyasını ayarlar">
+<!ENTITY aboutNetworking.setLogFile            "Log dosyasını ayarla">
 <!ENTITY aboutNetworking.setLogModules         "Log modüllerini ayarla">
 <!ENTITY aboutNetworking.startLogging          "Log tutmayı başlat">
 <!ENTITY aboutNetworking.stopLogging           "Log tutmayı durdur">
