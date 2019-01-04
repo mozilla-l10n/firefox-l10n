@@ -85,5 +85,6 @@
 <!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "ทั่วไป">
 <!ENTITY read.only.title.label           "ชื่อเรื่อง:">
+<!ENTITY read.only.calendar.label        "ปฏิทิน:">
 
 <!-- Summary dialog -->
