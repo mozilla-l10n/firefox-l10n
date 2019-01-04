@@ -44,13 +44,13 @@ policy-DisplayMenuBar = Hiển thị thanh bảng chọn theo mặc định.
 policy-DNSOverHTTPS = Cấu hình DNS qua HTTPS.
 policy-DontCheckDefaultBrowser = Tắt kiểm tra trình duyệt mặc định khi khởi động.
 # “lock” means that the user won’t be able to change this setting
-policy-EnableTrackingProtection = Bật hoặc tắt Chặn nội dung và tùy chọn khóa nó.
+policy-EnableTrackingProtection = Bật hoặc tắt chặn nội dung và tùy chọn khóa nó.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
 policy-Extensions = Cài đặt, gỡ cài đặt hoặc khóa tiện ích mở rộng. Tùy chọn Cài đặt lấy URL hoặc đường dẫn làm tham số. Các tùy chọn Gỡ cài đặt và Khóa lấy ID tiện ích mở rộng.
 policy-FlashPlugin = Cho phép hoặc từ chối việc sử dụng phần bổ trợ Flash.
-policy-HardwareAcceleration = Nếu false, hãy tắt chế độ tăng tốc phần cứng.
+policy-HardwareAcceleration = Nếu không đúng, hãy tắt chế độ tăng tốc phần cứng.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Đặt và tùy chọn khóa trang chủ.
 policy-InstallAddonsPermission = Cho phép một số website cài đặt tiện ích.

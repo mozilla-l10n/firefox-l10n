@@ -96,7 +96,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchGlobal): This is the text that appears
   -  in the source editor's context menu for the global search operation. -->
-<!ENTITY debuggerUI.searchGlobal           "Tìm kiếm trong tất cả các tệp">
+<!ENTITY debuggerUI.searchGlobal           "Tìm kiếm trong tất cả các tập tin">
 <!ENTITY debuggerUI.searchGlobal.key       "F">
 <!ENTITY debuggerUI.searchGlobal.accesskey "F">
 

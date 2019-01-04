@@ -28,7 +28,7 @@
 <!ENTITY helpSafeMode.stop.label       "Khởi động lại và kích hoạt các tiện ích">
 <!ENTITY helpSafeMode.stop.accesskey   "R">
 
-<!ENTITY helpTroubleshootingInfo.label      "Thông tin xử lý sự cố">
+<!ENTITY helpTroubleshootingInfo.label      "Thông tin gỡ rối vấn đề">
 <!ENTITY helpTroubleshootingInfo.accesskey  "T">
 
 <!ENTITY helpFeedbackPage.label      "Gửi phản hồi…">

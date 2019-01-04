@@ -111,6 +111,10 @@ These items have the same accesskey but will never be visible at the same time. 
 
 <!ENTITY  listAllTabs.label      "Liệt kê tất cả các thẻ">
 
+<!-- LOCALIZATION NOTE (allTabsMenu.searchTabs.label): "Search" is a verb, as
+in "Search through tabs". -->
+<!ENTITY  allTabsMenu.searchTabs.label       "Tìm kiếm thẻ">
+
 <!ENTITY tabCmd.label "Thẻ mới">
 <!ENTITY tabCmd.accesskey "T">
 <!ENTITY tabCmd.commandkey "t">
@@ -303,7 +307,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Bạn đã chặn thông tin địa điểm ở trang này.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Bạn đã chặn thông báo ở trang này.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Bạn đã chặn lưu dữ liệu lâu dài ở trang này.">
-<!ENTITY urlbar.popupBlocked.tooltip             "Bạn đã chặn popup ở trang web này.">
+<!ENTITY urlbar.popupBlocked.tooltip             "Bạn đã chặn cửa sổ bật lên ở trang web này.">
 <!ENTITY urlbar.autoplayMediaBlocked.tooltip     "Bạn đã chặn phương tiện tự động phát có âm thanh cho trang web này.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Bạn đã chặn khai thác dữ liệu canvas đối với trang web này.">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Bạn đã chặn trang web này sử dụng phần bổ trợ Adobe Flash.">
@@ -348,7 +352,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.label           "Tạo từ khóa cho chuỗi tìm kiếm này…">
 <!ENTITY keywordfield.accesskey       "K">
 
-<!ENTITY downloads.label              "Tập tin tải về">
+<!ENTITY downloads.label              "Tải về">
 <!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
   -  downloads.label, but used in the Library panel. -->
 <!ENTITY libraryDownloads.label       "Tải xuống">
@@ -789,8 +793,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
-<!ENTITY editPopupSettingsUnix.label "Tùy chỉnh chặn popup…">
-<!ENTITY editPopupSettings.label "Tùy chọn chặn popup…">
+<!ENTITY editPopupSettingsUnix.label "Tùy chỉnh chặn cửa sổ bật lên…">
+<!ENTITY editPopupSettings.label "Tùy chọn chặn cửa sổ bật lên…">
 <!ENTITY editPopupSettings.accesskey "E">
 <!ENTITY dontShowMessage.accesskey "D">
 
@@ -916,7 +920,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncSignIn.label             "Đăng nhập vào &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "Y">
-<!ENTITY syncSyncNowItem.label        "Đồng bộ Ngay">
+<!ENTITY syncSyncNowItem.label        "Đồng bộ ngay">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "Kết nối lại với &syncBrand.shortName.label;…">
 <!ENTITY syncReAuthItem.accesskey     "R">

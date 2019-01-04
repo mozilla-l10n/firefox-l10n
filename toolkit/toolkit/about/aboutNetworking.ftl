@@ -32,9 +32,9 @@ bytes-sent = Byte đã gửi
 bytes-received = Byte đã nhận
 logging = Nhật ký
 log-tutorial = Xem <a data-l10n-name="logging">nhật ký HTTP</a> để biết hướng dẫn về cách sử dụng công cụ này.
-current-log-file = Tệp nhật ký hiện tại:
+current-log-file = Tập tin nhật ký hiện tại:
 current-log-modules = Mô-đun nhật ký hiện tại:
-set-log-file = Đặt tệp nhật ký
+set-log-file = Đặt tập tin nhật ký
 set-log-modules = Đặt mô-đun nhật ký
 start-logging = Bắt đầu ghi
 stop-logging = Dừng ghi
