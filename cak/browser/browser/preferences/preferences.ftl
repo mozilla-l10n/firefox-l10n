@@ -724,6 +724,7 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = Ichinan
     .accesskey = I
+content-blocking-standard-description = Xa xe yeruq'ät ojqanela' etaman kiwäch pa Ichinan taq Ruwi'.
 content-blocking-standard-desc = Pajon richin ri chajinïk chuqa' ri rub'eyal nisamäj. Niya' q'ij chi ke jujun taq ojqanela' richin ütz yesamäj ri ajk'amaya'l ruxaq.
 content-blocking-strict-desc = Yeruq'ät konojel ri ojqanela' yetz'et ruma ri { -brand-short-name }. Rik'in jub'a' nub'än chi jujun ta ruxaq man yesamäj ta ütz.
 content-blocking-custom-desc = Ticha' achike niq'at.
@@ -737,6 +738,9 @@ content-blocking-learn-how = Tetamäx achike rub'eyal
 content-blocking-trackers-label =
     .label = Ojqanela'
     .accesskey = O
+content-blocking-tracking-protection-option-all-windows =
+    .label = Pa ronojel tzuwäch
+    .accesskey = t
 content-blocking-option-private =
     .label = Xa xe pa taq Ichinan tzuwäch
     .accesskey = I
@@ -856,6 +860,9 @@ collection-health-report-link = Tetamäx ch'aqa' chik
 collection-studies =
     .label = Tiya' q'ij chi re ri { -brand-short-name } niyakon chuqa' nusamajij tijonïk
 collection-studies-link = Ketz'et taq rutijonik { -brand-short-name }
+addon-recommendations =
+    .label = Tiya' q'ij chi re { -brand-short-name } ichinan tichilab'en chi kij taq k'amal
+addon-recommendations-link = Tetamäx ch'aqa' chik
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Chupül ri kitzijol taq tzij richin nib'an kinuk'ulem re taq alk'walaxinem re'

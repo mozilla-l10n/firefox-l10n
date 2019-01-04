@@ -21,8 +21,6 @@
 <!-- Tab context menu -->
 <!ENTITY  reloadTab.label                    "Rejqaxik ruwi' kajtz'ïk">
 <!ENTITY  reloadTab.accesskey                "R">
-<!ENTITY  reloadAllTabs.label                "Kesamajib'ëx chik konojel ri taq ruwi'">
-<!ENTITY  reloadAllTabs.accesskey            "k">
 <!ENTITY  selectAllTabs.label                "Kecha' Ronojel taq Ruwi'">
 <!ENTITY  selectAllTabs.accesskey            "K">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
@@ -47,9 +45,6 @@ left instead of right. -->
 <!ENTITY  closeOtherTabs.label               "Ketz'apïx ri ch'aqa' chik taq ruwi'">
 <!ENTITY  closeOtherTabs.accesskey           "K">
 
-<!ENTITY  closeSelectedTabs.label            "Ketz'apïx Cha'on taq Ruwi'">
-<!ENTITY  closeSelectedTabs.accesskey        "C">
-
 <!ENTITY  closeTabs.label                    "Ketz'apïx taq Ruwi'">
 <!ENTITY  closeTabs.accesskey                "S">
 <!ENTITY  pinSelectedTabs.label              "Titz'ajb'äx Ruwi'">
@@ -62,10 +57,6 @@ same accesskey but will never be visible at the same time. -->
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinSelectedTabs.accesskey        "b">
-<!-- Reload Tab and Reload Selected Tabs have the same accesskey
-but will never be visible at the same time. -->
-<!ENTITY  reloadSelectedTabs.label           "Kesamajib'ëx chik Cha'on taq Ruwi'">
-<!ENTITY  reloadSelectedTabs.accesskey       "R">
 <!-- LOCALIZATION NOTE(reloadTab.label, reloadTabs.label): have the same accesskey
 but will never be visible at the same time. -->
 <!ENTITY  reloadTabs.label                   "Kesamajib'ëx taq Ruwi'">
@@ -90,8 +81,6 @@ same accesskey but will never be visible at the same time. -->
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinTab.accesskey                 "t">
-<!ENTITY  sendTabToDevice.label              "Titaq ri ruwi' pa Okisaxel">
-<!ENTITY  sendTabToDevice.accesskey          "O">
 <!ENTITY  sendPageToDevice.label             "Titaq ruxaq pa Okisaxel">
 <!ENTITY  sendPageToDevice.accesskey         "O">
 <!ENTITY  sendLinkToDevice.label             "Titaq Ximojri'ïl pa Okisaxel">
@@ -110,8 +99,6 @@ These two items have the same accesskey but will never be visible at the same ti
 <!ENTITY  moveToNewWindow.accesskey          "l">
 <!ENTITY  reopenInContainer.label            "Tijaq chik pa K'wayöl">
 <!ENTITY  reopenInContainer.accesskey        "c">
-<!ENTITY  bookmarkAllTabs.label              "Ketz'aqatisäx taq ruwi' pa taq yaketal…">
-<!ENTITY  bookmarkAllTabs.accesskey          "w">
 <!ENTITY  bookmarkTab.label                  "Tiyaketalïx Ruwi'">
 <!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
@@ -123,6 +110,10 @@ These items have the same accesskey but will never be visible at the same time. 
 <!ENTITY  hiddenTabs.label                   "Ewan taq Ruwi'">
 
 <!ENTITY  listAllTabs.label      "Kik'utik konojel ri taq ruwi' kajtz'ïk">
+
+<!-- LOCALIZATION NOTE (allTabsMenu.searchTabs.label): "Search" is a verb, as
+in "Search through tabs". -->
+<!ENTITY  allTabsMenu.searchTabs.label       "Kekanöx taq Ruwi'">
 
 <!ENTITY tabCmd.label "K'ak'a' ruwi'">
 <!ENTITY tabCmd.accesskey "r">
@@ -153,11 +144,6 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.label "Kicholob'al taq kisamajib'al taq yaketal">
 <!ENTITY personalbarCmd.accesskey "K">
 <!ENTITY bookmarksToolbarItem.label "Ruch'akulal taq kiyaketal cholsamajib'äl">
-
-<!ENTITY toolbarContextMenu.reloadAllTabs.label "Kesamajib'ëx chik konojel ri taq ruwi'">
-<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "k">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Ketz'aqatisäx taq ruwi' pa taq yaketal…">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "w">
 
 <!ENTITY toolbarContextMenu.reloadSelectedTab.label "Tisamajib'ëx Cha'on Ruwi'">
 <!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
@@ -264,9 +250,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editThisBookmarkCmd.label "Tinuk' re yaketal re'">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
-<!ENTITY subscribeToPageMenupopup.label "Tatz'ib'aj ab'i' pa re ruxaq re'">
-<!ENTITY subscribeToPageMenuitem.label "Tatz'ib'aj ab'i' pa re ruxaq re'…">
-
 <!ENTITY addCurPagesCmd.label "Ketz'aqatisäx taq ruwi' pa taq yaketal…">
 <!ENTITY showAllBookmarks2.label "Kek'ut konojel ri taq yaketal">
 <!ENTITY recentBookmarks.label "K'a nimakol tiya' ketal">
@@ -305,6 +288,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Keyak taq tzij pa Jutaqil Yakoj">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Ri Okik'amaya'l k'o pa ruq'a' ri näj chajinïk">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Tijaq ri Ajk'amaya'l Juxunem pas">
+
+<!ENTITY urlbar.storageAccessAnchor.tooltip               "Tijaq ri kipas kiya'oj q'ij taq rusamaj okem pa k'amaya'l">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Tinuk'samajïx ri rukomonik elesäy awachib'äl chuqa' ri q'axäy atzij rik'in ri ruxaq k'amaya'l">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Tinuk'samajïx ri rukomonik q'axäy atzij rik'in ri ruxaq k'amaya'l">
@@ -380,10 +365,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY webDeveloperMenu.label       "Nuk'unel ajk'amaya'l">
 <!ENTITY webDeveloperMenu.accesskey   "a">
-
-<!ENTITY devtoolsRecordExecution.label "Tiyak B'anatajinem">
-<!ENTITY devtoolsSaveRecording.label "Tiyak Yakoj">
-<!ENTITY devtoolsReplayExecution.label "Titzij B'anatajinem">
 
 <!ENTITY inspectContextMenu.label     "Rutz'etik atuxtäq">
 <!ENTITY inspectContextMenu.accesskey "Q">
@@ -514,7 +495,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "R">
 <!ENTITY customizeMenu.manageExtension.label "Tinuk'samajïx K'amal">
 <!ENTITY customizeMenu.manageExtension.accesskey "K">
-
 <!ENTITY customizeMenu.removeExtension.label "Tiyuj K'amal">
 <!ENTITY customizeMenu.removeExtension.accesskey "y">
 
@@ -1019,12 +999,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackingProtection2.label "Ronojel Ojqanela' Xetz'et">
 
 <!ENTITY contentBlocking.trackingProtection3.label "Ojqanela'">
-<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.allowed.label):
-     This label signals that this type of content blocking is turned
-     OFF and is not blocking tracker content, so this is not
-     a positive thing. It forms the end of the (imaginary) sentence
-     "Trackers [are] Allowed"-->
-<!ENTITY contentBlocking.trackingProtection.allowed.label "Ya'on q'ij">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking tracker content, so this is
@@ -1066,6 +1040,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.trackersView.label "Ojqanela'">
 <!ENTITY contentBlocking.trackersView.strictInfo.label "Richin yeq'at ri ojqanela', tib'an runuk'ulem ruq'atik rupam pa  “Nimaläj”.">
+
+<!ENTITY contentBlocking.cookies.label "Taq kuki">
+<!ENTITY contentBlocking.cookiesView.label "Taq Kuki chuqa' Rutzij Ruxaq">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Tiya' rutzijol jun k'ayewal">
 <!ENTITY contentBlocking.breakageReportView.label "Tiya' Kitzijol K'ayewal">
@@ -1200,11 +1177,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "Taq rub'anoj ruxaq">
 <!ENTITY pageAction.addToUrlbar.label "Titz'aqatisäx ri Kikajtz'ik Ochochib'äl">
 <!ENTITY pageAction.removeFromUrlbar.label "Tiyuj el chupam ri Kikajtz'ik Ochoch">
-<!ENTITY pageAction.allowInUrlbar.label "Tik'ut pe pa Kikajtz'ik Ochochib'äl">
-<!ENTITY pageAction.disallowInUrlbar.label "Man tik'ut pe pa Kikajtz'ik Ochochib'äl">
 <!ENTITY pageAction.manageExtension.label "Tinuk'samajïx K'amal…">
-
-<!ENTITY pageAction.sendTabToDevice.label "Titaq Ruwi' pan Okisaxel">
 
 <!ENTITY sendToDevice.syncNotReady.label "Tajin yexim ri taq Okisaxel…">
 
