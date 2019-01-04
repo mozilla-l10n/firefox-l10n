@@ -29,3 +29,14 @@ onboarding-ghostery-text = Med tilføjelser som Ghostery slipper du for irritere
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Sync
 onboarding-fxa-text = Opret en { -fxaccount-brand-name } og synkroniser dine bogmærker, adgangskoder og åbne faneblade, overalt hvor du bruger { -brand-short-name }.
+
+## Message strings belonging to the Return to AMO flow
+return-to-amo-sub-header = Fremragende, du har { -brand-short-name }
+
+# <icon></icon> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-header = Lad os nu hente <icon></icon><b>{ $addon-name }.</b>
+return-to-amo-extension-button = Tilføj udvidelsen
+return-to-amo-get-started-button = Kom i gang med { -brand-short-name }

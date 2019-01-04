@@ -250,6 +250,13 @@ tilføje en undtagelse for dette certifikat.">
 
 <!ENTITY blockedByPolicy.title "Blokeret side">
 
+<!ENTITY certerror.mitm.title "Et program forhindrer &brandShortName; i at oprette en sikker forbindelse til dette websted.">
+<!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> er højst sandsynligt et sikkert websted, men der kan ikke oprettes en sikker forbindelse til det. Problemet skyldes programmet <span class='mitm-name'/>, der enten er på din computer eller på dit netværk.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "Hvis dit antivirus-program har en funktion, der skanner krypterede forbindelser (funktionen kaldes ofte “web scanning” eller “https scanning”), så kan du deaktivere funktionen. Hvis dét ikke virker, så kan du prøve at fjerne og geninstallere antivirus-programmet.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "Hvis du befinder dig på et virksomhedsnetværk,  så kan du kontakte IT-supporten for at få hjælp.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "Hvis du ikke kender <span class='mitm-name'/>, så kan dette være et angreb og du bør ikke fortsætte til webstedet.">
+<!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "Hvis du ikke kender<span class='mitm-name'/>, så kan dette være et angreb, og du kan ikke gøre noget for at få adgang til webstedet.">
+
 <!ENTITY clockSkewError.title "Uret i din computer er indstillet forkert">
 <!ENTITY clockSkewError.longDesc "Din computer tror, at <span id='wrongSystemTime_systemDate1'/> er den korrekte dato og tid, hvilket forhindrer &brandShortName; i at oprette en sikker forbindelse. For at besøge <span class='hostname'></span> skal du gå til dine systemindstillinger og opdatere din computers ur til den korrekte dato, tidszone og det korrekte klokkeslæt. Opdater derefter <span class='hostname'></span>.">
 

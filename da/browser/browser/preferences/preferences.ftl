@@ -8,6 +8,8 @@ do-not-track-option-default =
     .label = Kun når jeg bruger beskyttelse mod sporing
 do-not-track-option-default-content-blocking =
     .label = Kun når { -brand-short-name } er indstillet til at blokere fundne sporings-elementer
+do-not-track-option-default-content-blocking-known =
+    .label = Kun når { -brand-short-name } er indstillet til at blokere kendte sporings-elementer
 do-not-track-option-always =
     .label = Altid
 pref-page =
@@ -141,6 +143,10 @@ set-as-my-default-browser =
 startup-restore-previous-session =
     .label = Gendan forrige session
     .accesskey = G
+
+startup-restore-warn-on-quit =
+    .label = Advar, når du lukker browseren
+
 disable-extension =
     .label = Deaktiver udvidelse
 tabs-group-header = Faneblade
@@ -716,6 +722,11 @@ content-blocking-standard-desc = Balanceret mellem beskyttelse og ydelse. Tillad
 content-blocking-strict-desc = Blokerer alle sporings-tjenester, som { -brand-short-name } opdager. Kan forhindre nogle websteder i at fungere.
 content-blocking-custom-desc = Vælg selv, hvad der skal blokeres.
 
+content-blocking-standard-description = Blokerer kun kendte sporings-tjenester i private vinduer
+content-blocking-standard-desc = Balanceret mellem beskyttelse og ydelse. Tillader nogle sporings-tjenester for at websteder kan fungere ordentligt.
+content-blocking-strict-desc = Blokerer alle sporings-tjenester, som { -brand-short-name } opdager. Kan forhindre nogle websteder i at fungere.
+content-blocking-custom-desc = Vælg selv, hvad der skal blokeres.
+
 content-blocking-private-trackers = Kendte sporings-tjenester kun i private vinduer
 content-blocking-third-party-cookies = Sporings-cookies fra tredjepart
 content-blocking-all-windows-trackers = Kendte sporings-tjenester i alle vinduer
@@ -761,6 +772,15 @@ content-blocking-reject-trackers-block-trackers-option =
 content-blocking-reject-trackers-all-third-parties-option =
     .label = Alle tredjeparts-cookies (kan forhindre websteder i at fungere)
     .accesskey = A
+
+sitedata-option-block-trackers =
+    .label = Tredjeparts sporings-tjenester
+sitedata-option-block-unvisited =
+    .label = Cookies fra ikke-besøgte websteder
+sitedata-option-block-all-third-party =
+    .label = Alle tredjeparts-cookies (kan forhindre websteder i at fungere)
+sitedata-option-block-all =
+    .label = Alle cookies (vil forhindre websteder i at fungere)
 
 content-blocking-cookies-label =
   .label = Cookies
@@ -857,6 +877,11 @@ collection-health-report-link = Læs mere
 collection-studies =
     .label = Tillad at { -brand-short-name } installerer og afvikler undersøgelser
 collection-studies-link = Vis { -brand-short-name }-undersøgelser
+
+addon-recommendations =
+    .label = Tillad at { -brand-short-name } at anbefale udvidelser specielt udvalgt til dig
+addon-recommendations-link = Læs mere
+
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Data-rapportering er deaktiveret for denne build-konfiguration
