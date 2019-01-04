@@ -12,6 +12,7 @@
 
 
 <!-- Account Settings and Subscription Dialog -->
+<!ENTITY biffStart.label             "Buscar nuevos artículos cada ">
 <!ENTITY biffMinutes.label           "minutos">
 <!ENTITY biffDays.label              "días">
 
