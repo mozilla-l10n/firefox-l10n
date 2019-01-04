@@ -7,6 +7,8 @@
 
 onboarding-button-label-try-now = Paraugi ņiuļa
 onboarding-button-label-get-started = Ar kū sōkt
+onboarding-welcome-header = Vasals { -brand-short-name }
+onboarding-start-browsing-button-label = Sōkt porlyukōšonu
 
 ## These strings belong to the individual onboarding messages.
 
@@ -15,6 +17,9 @@ onboarding-button-label-get-started = Ar kū sōkt
 ## Each message also has an associated button for the user to try the feature.
 ## The string for the button is found above, in the UI strings section
 
+onboarding-private-browsing-title = Privātō porlyukōšona
+onboarding-private-browsing-text = Porlyukoj privāti. Privātō porlyukōšona ar satura bloķiešonu bloķej interneta izsekōtōjus.
+onboarding-screenshots-title = Ekranšōvīni
 
 ## Message strings belonging to the Return to AMO flow
 
