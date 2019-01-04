@@ -32,12 +32,12 @@
 <!ENTITY aboutNetworking.bytesReceived         "จำนวนไบต์ที่รับ">
 <!ENTITY aboutNetworking.logging               "การบันทึก">
 <!ENTITY aboutNetworking.logTutorial           "ดู<a href='https://developer.mozilla.org/docs/Mozilla/Debugging/HTTP_logging'>การบันทึกล็อก HTTP</a>สำหรับคำแนะนำเกี่ยวกับวิธีการใช้เครื่องมือนี้">
-<!ENTITY aboutNetworking.currentLogFile        "ไฟล์ล็อกปัจจุบัน:">
-<!ENTITY aboutNetworking.currentLogModules     "โมดูลล็อกปัจจุบัน:">
-<!ENTITY aboutNetworking.setLogFile            "ตั้งค่าไฟล์ล็อก">
-<!ENTITY aboutNetworking.setLogModules         "ตั้งค่าโมดูลล็อก">
+<!ENTITY aboutNetworking.currentLogFile        "ไฟล์รายการบันทึกปัจจุบัน:">
+<!ENTITY aboutNetworking.currentLogModules     "โมดูลรายการบันทึกปัจจุบัน:">
+<!ENTITY aboutNetworking.setLogFile            "ตั้งไฟล์รายการบันทึก">
+<!ENTITY aboutNetworking.setLogModules         "ตั้งโมดูลรายการบันทึก">
 <!ENTITY aboutNetworking.startLogging          "เริ่มการบันทึก">
-<!ENTITY aboutNetworking.stopLogging           "หยุดการบันทึกล็อก">
+<!ENTITY aboutNetworking.stopLogging           "หยุดการบันทึก">
 <!ENTITY aboutNetworking.dnsLookup             "การค้นหา DNS">
 <!ENTITY aboutNetworking.dnsLookupButton       "แปลงที่อยู่">
 <!ENTITY aboutNetworking.dnsDomain             "โดเมน">
