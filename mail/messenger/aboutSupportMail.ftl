@@ -10,6 +10,7 @@ accounts-incoming-server = Dohodni strežnik
 accounts-outgoing-servers = Odhodni strežniki
 accounts-server-name = Ime
 accounts-conn-security = Varnost povezave
+accounts-auth-method = Metoda overitve
 accounts-default = Privzeto?
 identity-name = Identiteta
 send-via-email = Pošlji po e-pošti
