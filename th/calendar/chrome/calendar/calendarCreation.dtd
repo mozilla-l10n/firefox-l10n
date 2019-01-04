@@ -1,0 +1,38 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY wizard.title             "สร้างปฏิทินใหม่" >
+<!ENTITY wizard.label             "สร้างปฏิทินใหม่" >
+<!ENTITY wizard.description       "ระบุตำแหน่งปฏิทินของคุณ" >
+
+<!ENTITY initialpage.computer.label  "ในคอมพิวเตอร์ของฉัน">
+<!ENTITY initialpage.network.label  "ในเครือข่าย">
+
+<!ENTITY locationpage.username.label      "ชื่อผู้ใช้:" >
+<!ENTITY locationpage.password.label      "รหัสผ่าน:" >
+
+<!ENTITY custompage.shortdescription  "ปรับแต่งปฏิทินของคุณ" >
+
+<!ENTITY finishpage.shortdescription  "สร้างปฏิทินแล้ว" >
+<!ENTITY finishpage.longdescription   "สร้างปฏิทินของคุณแล้ว" >
+
+<!-- Below are new strings for the revised new calendar dialog. The above strings should be
+    removed/renamed later on -->
+
+
+<!ENTITY buttons.create.label "สร้างปฏิทิน">
+<!ENTITY buttons.create.accesskey "ส">
+
+<!ENTITY buttons.find.label "ค้นหาปฏิทิน">
+<!ENTITY buttons.find.accesskey "ค">
+
+<!ENTITY buttons.back.label "ย้อนกลับ">
+<!ENTITY buttons.back.accesskey "ย">
+
+<!ENTITY buttons.subscribe.label "บอกรับ">
+<!ENTITY buttons.subscribe.accesskey "บ">
+
+<!ENTITY location.label "ตำแหน่งที่ตั้ง:">
+
+
