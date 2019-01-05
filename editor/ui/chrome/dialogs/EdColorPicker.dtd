@@ -1,0 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY windowTitle.label "สี">
+<!ENTITY lastPickedColor.label "สีที่เลือกล่าสุด">
+<!ENTITY lastPickedColor.accessKey "ส">
+<!ENTITY chooseColor1.label "เลือกสี:">
+<!ENTITY chooseColor2.label "ป้อนสตริงสี HTML">
+<!ENTITY chooseColor2.accessKey "ป">
+<!ENTITY default.label "ค่าเริ่มต้น">
+<!ENTITY default.accessKey "ค">
+<!ENTITY standardPalette.label "มาตรฐาน">

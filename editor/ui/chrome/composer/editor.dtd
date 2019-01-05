@@ -20,8 +20,16 @@
 <!ENTITY sendPageCmd.accesskey "ง">
 
 <!-- View menu items -->
+<!ENTITY compositionToolbarCmd.label "แถบเครื่องมือการเขียน">
+<!ENTITY compositionToolbarCmd.accesskey "ถ">
+<!ENTITY formattingToolbarCmd.label "แถบเครื่องมือรูปแบบ">
+<!ENTITY formattingToolbarCmd.accesskey "บ">
+<!ENTITY editmodeToolbarCmd.label "แถบเครื่องมือโหมดแก้ไข">
+<!ENTITY editmodeToolbarCmd.accesskey "ค">
 
 <!-- Format menu items -->
+<!ENTITY formatMenu.label "รูปแบบ">
+<!ENTITY formatMenu.accesskey "ป">
 
 <!-- Tools menu items -->
 
