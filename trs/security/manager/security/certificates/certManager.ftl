@@ -221,6 +221,15 @@ cert-not-verified-unknown = Nu ni'în' nuhuin saj na'ue natsi sertiifikadô nan.
 add-exception-branded-warning = Doj sínj gàchin da' nadurê't { -brand-short-name } dàj atûjt riña sitiô nan.
 add-exception-invalid-header = Sitiô nan ni sê nuguan' yangà'a nadiganj riñant ruhuaj.
 add-exception-domain-mismatch-short = Sê sitiô dan huin
+add-exception-domain-mismatch-long = Hua sa ruhuâ digañu'unj sò' sisi sitiô nan huin sa nana'uî't, si sertifikadoj taj sisi a'ngô sitiô huin man, ga gudadû.
+add-exception-expired-short = Se nuguan' nakàa huin nan.
+add-exception-expired-long = Nitaj si ni'ñanj sertifikadôn nan diû hìaj. Ga'ue sisi gan'anj ni'iaj, ni ga'ue sisi hua a'ngô sa arâj sun man da' diga'ñun'un sô' sisi sitiô nan huin.
+add-exception-unverified-or-bad-signature-short = Nu ni'în' si sa yangà'a huin
+add-exception-unverified-or-bad-signature-long = Si guyumân ta'u ruhuât ni'înt sertifikadô nan dadin' hua nïn' nu natsïj si man sisi 'ngo sa hia huin.
+add-exception-valid-short = Sertifikadô hia ni'ñanj an
+add-exception-valid-long = Sa hia ni sa yangà'a huin danj sitiô nan. Ga'ue garasunt man.
+add-exception-checking-short = Hìaj natsi nuguan' hua rayi'î nan
+add-exception-checking-long = hìaj natsi dàj hua sitiô nan...
 
 ## Certificate export "Save as" and error dialogs
 
