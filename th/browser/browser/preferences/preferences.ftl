@@ -708,6 +708,7 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = กำหนดเอง
     .accesskey = ก
+content-blocking-standard-description = ปิดกั้นเฉพาะตัวติดตามที่รู้จักในหน้าต่างส่วนตัว
 content-blocking-standard-desc = การป้องกันและประสิทธิภาพที่สมดุล อนุญาตตัวติดตามบางส่วนเพื่อให้เว็บไซต์ทำงานได้ถูกต้อง
 content-blocking-strict-desc = ปิดกั้นตัวติดตามทั้งหมดที่ { -brand-short-name } ตรวจพบ อาจส่งผลให้ไซต์บางส่วนไม่สมบูรณ์
 content-blocking-custom-desc = เลือกสิ่งที่จะปิดกั้น
