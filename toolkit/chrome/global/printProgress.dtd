@@ -4,7 +4,7 @@
 
 <!--LOCALIZATION NOTE printProgress.dtd Main UI for Print Progress Dialog -->
 <!ENTITY printWindow.title "กำลังพิมพ์"> 
-<!ENTITY title    "ชื่อ:"> 
+<!ENTITY title    "ชื่อเรื่อง:"> 
 <!ENTITY progress "ความคืบหน้า:">
 <!ENTITY preparing "กำลังเตรียมการ…">
 <!ENTITY printComplete "การพิมพ์เสร็จสมบูรณ์">
