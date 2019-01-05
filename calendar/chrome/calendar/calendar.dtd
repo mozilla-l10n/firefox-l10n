@@ -48,6 +48,9 @@
 <!ENTITY calendar.unifinder.tree.status.tooltip2           "เรียงตามสถานะ">
 <!ENTITY calendar.unifinder.tree.calendarname.label        "ชื่อปฏิทิน">
 <!ENTITY calendar.unifinder.tree.calendarname.tooltip2     "เรียงตามชื่อปฏิทิน">
+<!ENTITY calendar.unifinder.tree.duration.label            "ครบกำหนดใน">
+<!ENTITY calendar.unifinder.tree.duration.tooltip2         "เรียงตามเวลาจนกระทั่งครบกำหนด">
+<!ENTITY calendar.unifinder.close.tooltip                  "ปิดการค้นหาเหตุการณ์และรายการเหตุการณ์">
 
 <!ENTITY calendar.todaypane.button.tooltip      "แสดงบานหน้าต่างวันนี้" >
 
@@ -81,6 +84,8 @@
 <!ENTITY calendar.week.button.label             "สัปดาห์" >
 <!ENTITY calendar.month.button.label            "เดือน" >
 <!ENTITY calendar.multiweek.button.label        "หลายสัปดาห์" >
+<!ENTITY calendar.onlyworkday.checkbox.label    "วันทำงานเท่านั้น" >
+<!ENTITY calendar.displaytodos.checkbox.label   "งานในมุมมอง" >
 
 
 
