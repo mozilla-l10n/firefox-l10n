@@ -34,5 +34,6 @@
 <!ENTITY buttons.subscribe.accesskey "บ">
 
 <!ENTITY location.label "ตำแหน่งที่ตั้ง:">
+<!ENTITY location.placeholder "URL หรือชื่อโฮสต์ของเซิร์ฟเวอร์ปฏิทิน">
 
 
