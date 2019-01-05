@@ -49,6 +49,7 @@
 <!ENTITY calendar.unifinder.tree.calendarname.label        "ชื่อปฏิทิน">
 <!ENTITY calendar.unifinder.tree.calendarname.tooltip2     "เรียงตามชื่อปฏิทิน">
 
+<!ENTITY calendar.todaypane.button.tooltip      "แสดงบานหน้าต่างวันนี้" >
 
 
 <!ENTITY calendar.nextday.label                 "วันถัดไป" >
@@ -166,6 +167,7 @@
 <!-- Task View -->
 <!-- Note that the above *.context.* strings are currently used for the other
      task action buttons -->
+<!ENTITY calendar.taskview.delete.label     "ลบ">
 
 <!-- Server Context Menu -->
 
@@ -215,11 +217,15 @@
 <!ENTITY calendarproperties.color.label                    "สี:">
 <!ENTITY calendarproperties.webdav.label                   "iCalendar (ICS)">
 <!ENTITY calendarproperties.caldav.label                   "CalDAV">
+<!ENTITY calendarproperties.format.label                   "รูปแบบ:">
 <!ENTITY calendarproperties.location.label                 "ตำแหน่งที่ตั้ง:">
 <!ENTITY calendarproperties.name.label                     "ชื่อ:">
+<!ENTITY calendarproperties.unsubscribe.label              "เลิกบอกรับ">
+<!ENTITY calendarproperties.unsubscribe.accesskey          "ล">
 
 <!-- Calendar Publish Dialog -->
 <!ENTITY calendar.publish.dialog.title              "เผยแพร่ปฏิทิน">
+<!ENTITY calendar.publish.url.label                 "URL การเผยแพร่">
 <!ENTITY calendar.publish.publish.button      "เผยแพร่">
 <!ENTITY calendar.publish.close.button      "ปิด">
 

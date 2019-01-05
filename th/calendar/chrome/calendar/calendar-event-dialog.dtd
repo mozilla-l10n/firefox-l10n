@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY event.title.label                  "แก้ไขรายการ" >
 
 
 <!ENTITY newevent.from.label                "จาก" >
@@ -18,6 +19,18 @@
 <!-- Keyboard Shortcuts -->
 
 <!-- Menubar -->
+<!ENTITY  event.menu.item.new.label                       "ใหม่">
+<!ENTITY  event.menu.item.new.accesskey                   "ห">
+<!ENTITY  event.menu.item.new.event.label                 "เหตุการณ์">
+<!ENTITY  event.menu.item.new.event.accesskey             "ห">
+<!ENTITY  event.menu.item.new.task.label                  "งาน">
+<!ENTITY  event.menu.item.new.task.accesskey              "ง">
+<!ENTITY  event.menu.item.new.message.label               "ข้อความ">
+<!ENTITY  event.menu.item.new.message.accesskey           "ข">
+<!ENTITY  event.menu.item.new.contact.label               "ผู้ติดต่อของสมุดรายชื่อ">
+<!ENTITY  event.menu.item.new.contact.accesskey           "ผ">
+<!ENTITY  event.menu.item.close.label                     "ปิด">
+<!ENTITY  event.menu.item.close.accesskey                 "ป">
 
 <!-- LOCALIZATION NOTE
    - event.menu.item.save.accesskey is used for the "Save" menu item
