@@ -5,25 +5,39 @@
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 
 <!-- File menu items -->
+<!ENTITY saveCmd.key "S">
 
 <!-- Edit menu items -->
+<!ENTITY pasteNoFormatting.key "V">
+<!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findBarCmd.label "ค้นหา…">
 <!ENTITY findReplaceCmd.label "ค้นหาและแทนที่…">
+<!ENTITY checkSpellingCmd2.key "p">
 
 <!-- Insert menu items -->
+<!ENTITY insertLinkCmd2.key "K">
 
 <!-- Used just in context popup. -->
 
 <!-- Font Face SubMenu -->
+<!ENTITY fontFixedWidth.key "T">
 
 <!-- Font Size SubMenu -->
- <!-- < is above this key on many keyboards -->
- <!-- > is above this key on many keyboards -->
+<!ENTITY decrementFontSize.key "&lt;">
+<!ENTITY decrementFontSize.key2 ","> <!-- < is above this key on many keyboards -->
+<!ENTITY incrementFontSize.key "&gt;">
+<!ENTITY incrementFontSize.key2 "."> <!-- > is above this key on many keyboards -->
 
 
 <!-- Font Style SubMenu -->
+<!ENTITY styleBoldCmd.key "B">
+<!ENTITY styleItalicCmd.key "I">
+<!ENTITY styleUnderlineCmd.key "U">
 
 
+<!ENTITY formatRemoveStyles.key "Y">
+<!ENTITY formatRemoveLinks.key "K">
+<!ENTITY formatRemoveNamedAnchors2.key "R">
 
 
 <!-- List menu items -->
@@ -35,6 +49,8 @@
 
 <!-- Layer toolbar items -->
 
+<!ENTITY increaseIndent.key "]">
+<!ENTITY decreaseIndent.key "[">
 
 
 <!-- Table Menu -->
