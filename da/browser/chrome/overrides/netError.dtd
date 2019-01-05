@@ -253,7 +253,7 @@ tilføje en undtagelse for dette certifikat.">
 <!ENTITY certerror.mitm.title "Et program forhindrer &brandShortName; i at oprette en sikker forbindelse til dette websted.">
 <!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> er højst sandsynligt et sikkert websted, men der kan ikke oprettes en sikker forbindelse til det. Problemet skyldes programmet <span class='mitm-name'/>, der enten er på din computer eller på dit netværk.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "Hvis dit antivirus-program har en funktion, der skanner krypterede forbindelser (funktionen kaldes ofte “web scanning” eller “https scanning”), så kan du deaktivere funktionen. Hvis dét ikke virker, så kan du prøve at fjerne og geninstallere antivirus-programmet.">
-<!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "Hvis du befinder dig på et virksomhedsnetværk,  så kan du kontakte IT-supporten for at få hjælp.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "Hvis du befinder dig på et virksomhedsnetværk, så kan du kontakte IT-supporten for at få hjælp.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "Hvis du ikke kender <span class='mitm-name'/>, så kan dette være et angreb og du bør ikke fortsætte til webstedet.">
 <!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "Hvis du ikke kender<span class='mitm-name'/>, så kan dette være et angreb, og du kan ikke gøre noget for at få adgang til webstedet.">
 
