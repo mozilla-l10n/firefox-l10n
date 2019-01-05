@@ -105,6 +105,9 @@ These items have the same accesskey but will never be visible at the same time. 
 
 <!ENTITY  listAllTabs.label      "Rwe dirica matino weng">
 
+<!-- LOCALIZATION NOTE (allTabsMenu.searchTabs.label): "Search" is a verb, as
+in "Search through tabs". -->
+
 <!ENTITY tabCmd.label "Drica matidi manyen">
 <!ENTITY tabCmd.accesskey "D">
 <!ENTITY tabCmd.commandkey "t">
@@ -981,8 +984,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+<!ENTITY contentBlocking.cookies.label "Angija">
+<!ENTITY contentBlocking.cookiesView.label "Angija ki Data me kakube">
 
+<!ENTITY contentBlocking.openBreakageReportView2.label "Mi ripot me bal">
+<!ENTITY contentBlocking.breakageReportView.label "Mi ripot me bal">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Nong ngec mapol">
+<!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
+<!ENTITY contentBlocking.breakageReportView.collection.comments.label "Peko ango ma ibedo kwede? (Ka imito)">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Cwal Ripot">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Juki">
 
@@ -1005,9 +1014,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock5.label "Juk Gengo Pi Kakube Man">
+<!ENTITY trackingProtection.unblock5.accesskey "K">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate6.label, trackingProtection.unblockPrivate6.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate5.label "Juk Gengo pi Tutunu">
+<!ENTITY trackingProtection.unblockPrivate5.accesskey "K">
+<!ENTITY trackingProtection.block6.label "Cak Gengo Pi Kakube Man">
+<!ENTITY trackingProtection.block6.accesskey "C">
 <!ENTITY trackingProtection.reload2.label "Nwo cano pot buk">
 <!ENTITY trackingProtection.reload2.accesskey "N">
 
