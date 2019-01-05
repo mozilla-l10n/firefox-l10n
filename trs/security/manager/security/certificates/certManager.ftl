@@ -135,6 +135,10 @@ exception-mgr-permanent =
 pk11-bad-password = Nitaj si hua hue'ê da'nga' huì gachrûnt.
 pkcs12-decode-err = Hua sa gahui a'nan' danj na'ue na'nïn archîbo. Asi nitaj si nunj riña formatô PKCS 12, hua a'nanj asi nitaj si hua hue'ê da'nga' huì gachrûnt.
 pkcs12-unknown-err-restore = Nu ni'în' nùhuin saj na'ue nagi'ia archibô PKCS #12
+pkcs12-unknown-err-backup = Nuni'în' nùhuin saj na'ue girij si kopiâ seguridad PKCS #12.
+pkcs12-unknown-err = Nu ni'în' nûhuin saj na'uie gi'iaj sun PKCS #12.
+pkcs12-info-no-smartcard-backup = Si ga'ue gahui 'ngo kopiâ seguridâ nej sertifikâdo riña 'ngo aga' hua raan ngà 'ngo tarjêta chruun.
+pkcs12-dup-data = Ngà hua sertifikâdo ni da'nga' huìi riña aga' dan.
 
 ## PKCS#12 file dialogs
 
@@ -144,6 +148,9 @@ choose-p12-restore-file-dialog = Archibô sertifikadô guendâ ga'nïn' gan'an
 
 ## Import certificate(s) file dialog
 
+file-browse-certificate-spec = Si archibô nej sertifikâdo
+import-ca-certs-prompt = gida'a archibô riña nu sertifikado CA da' ga'nïnjt gan'an
+import-email-cert-prompt = Gida'a archibô nu si korreô 'ngo duguî' da' ga'nïnjt gan'an
 
 ## For editing certificates trust
 
@@ -178,6 +185,14 @@ cert-with-serial =
 
 ## Cert Viewer
 
+# Title used for the Certificate Viewer.
+#
+# Variables:
+#   $certificate : a string representative of the certificate being viewed.
+cert-viewer-title =
+    .title = Sa ni'iaj nej sertifikâdo: "{ $certName }"
+not-present =
+    .value = <Not Part Of Certificate>
 # Cert verification
 cert-verified = Nani'in sisi sertifikadô nan ni ni'ñan guendâ nej sun nan:
 # Cert verification
