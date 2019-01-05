@@ -4,6 +4,6 @@
 
 <!--LOCALIZATION NOTE printPreviewProgress.dtd Main UI for Print Preview Progress Dialog -->
 <!ENTITY printWindow.title "ตัวอย่างก่อนพิมพ์"> 
-<!ENTITY title   "ชื่อ:"> 
+<!ENTITY title   "ชื่อเรื่อง:"> 
 <!ENTITY preparing "กำลังเตรียมการ…">
 <!ENTITY progress "ความคืบหน้า:">

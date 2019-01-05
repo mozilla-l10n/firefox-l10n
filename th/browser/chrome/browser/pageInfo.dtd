@@ -15,7 +15,7 @@
 
 <!ENTITY  generalTab            "ทั่วไป">
 <!ENTITY  generalTab.accesskey  "ท">
-<!ENTITY  generalTitle          "ชื่อ:">
+<!ENTITY  generalTitle          "ชื่อเรื่อง:">
 <!ENTITY  generalURL            "ที่อยู่:">
 <!ENTITY  generalType           "ชนิด:">
 <!ENTITY  generalMode           "โหมดการเรนเดอร์:">
@@ -44,21 +44,9 @@
 <!ENTITY  mediaSaveAs2.accesskey "บ">
 <!ENTITY  mediaPreview          "ตัวอย่างสื่อ:">
 
-<!ENTITY  feedTab               "ฟีด">
-<!ENTITY  feedTab.accesskey     "ฟ">
-<!ENTITY  feedSubscribe         "บอกรับ">
-<!ENTITY  feedSubscribe.accesskey "บ">
-
 <!ENTITY  permTab               "การอนุญาต">
 <!ENTITY  permTab.accesskey     "ก">
-<!ENTITY  permUseDefault        "ใช้ค่าเริ่มต้น">
-<!ENTITY  permAskAlways         "ถามเสมอ">
-<!ENTITY  permAllow             "อนุญาต">
-<!ENTITY  permAllowSession      "อนุญาตในวาระ">
-<!ENTITY  permHide              "ซ่อน">
-<!ENTITY  permBlock             "ปิดกั้น">
 <!ENTITY  permissionsFor        "การอนุญาตสำหรับ:">
-<!ENTITY  permPlugins           "เปิดใช้งานปลั๊กอิน">
 
 <!ENTITY  securityTab           "ความปลอดภัย">
 <!ENTITY  securityTab.accesskey "ค">
@@ -75,9 +63,6 @@
 
 <!ENTITY  securityView.privacy.header                   "ความเป็นส่วนตัวและประวัติ">
 <!ENTITY  securityView.privacy.history                  "ฉันเคยเยี่ยมชมเว็บไซต์นี้ก่อนหน้าวันนี้หรือไม่?">
-<!ENTITY  securityView.privacy.cookies                  "เว็บไซต์นี้จัดเก็บข้อมูล (คุกกี้) ลงในคอมพิวเตอร์ของฉันหรือไม่?">
-<!ENTITY  securityView.privacy.viewCookies              "ดูคุกกี้">
-<!ENTITY  securityView.privacy.viewCookies.accessKey    "ด">
 <!ENTITY  securityView.privacy.siteData                 "เว็บไซต์นี้จัดเก็บข้อมูลลงในคอมพิวเตอร์ของฉันหรือไม่?">
 <!ENTITY  securityView.privacy.clearSiteData            "ล้างคุกกี้และข้อมูลไซต์">
 <!ENTITY  securityView.privacy.clearSiteData.accessKey  "ล">
