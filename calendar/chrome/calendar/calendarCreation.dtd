@@ -33,6 +33,7 @@
 <!ENTITY buttons.subscribe.label "บอกรับ">
 <!ENTITY buttons.subscribe.accesskey "บ">
 
+<!ENTITY calendartype.label "ชนิดปฏิทิน:">
 <!ENTITY location.label "ตำแหน่งที่ตั้ง:">
 <!ENTITY location.placeholder "URL หรือชื่อโฮสต์ของเซิร์ฟเวอร์ปฏิทิน">
 
