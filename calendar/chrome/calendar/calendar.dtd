@@ -85,8 +85,14 @@
 <!ENTITY calendar.month.button.label            "เดือน" >
 <!ENTITY calendar.multiweek.button.label        "หลายสัปดาห์" >
 <!ENTITY calendar.onlyworkday.checkbox.label    "วันทำงานเท่านั้น" >
+<!ENTITY calendar.onlyworkday.checkbox.accesskey  "ท" >
 <!ENTITY calendar.displaytodos.checkbox.label   "งานในมุมมอง" >
+<!ENTITY calendar.displaytodos.checkbox.accesskey "ง" >
+<!ENTITY calendar.completedtasks.checkbox.label     "แสดงงานที่เสร็จสมบูรณ์" >
+<!ENTITY calendar.completedtasks.checkbox.accesskey "ร" >
 
+<!ENTITY calendar.orientation.label "หมุนมุมมอง" >
+<!ENTITY calendar.orientation.accesskey "ห" >
 
 
 <!ENTITY calendar.list.header.label                 "ปฏิทิน">
@@ -129,6 +135,7 @@
 <!ENTITY calendar.task-details.due.label             "วันที่ครบกำหนด">
 
 <!ENTITY calendar.task.category.button.tooltip  "จัดหมวดหมู่งาน">
+<!ENTITY calendar.task.complete.button.tooltip  "ทำเครื่องหมายงานที่เลือกว่าเสร็จสมบูรณ์">
 <!ENTITY calendar.task.priority.button.tooltip  "เปลี่ยนความสำคัญ">
 
 <!ENTITY calendar.task.text-filter.textbox.emptytext.base1           "กรองงาน #1">
@@ -164,10 +171,14 @@
 
 <!--=percent sign-->
 
+<!ENTITY calendar.context.markcompleted.label     "ทำเครื่องหมายว่าเสร็จสมบูรณ์">
+<!ENTITY calendar.context.markcompleted.accesskey "ท">
 
 
 
 
+<!ENTITY calendar.copylink.label       "คัดลอกตำแหน่งที่ตั้งลิงก์">
+<!ENTITY calendar.copylink.accesskey   "ค">
 
 <!-- Task View -->
 <!-- Note that the above *.context.* strings are currently used for the other
@@ -175,11 +186,21 @@
 <!ENTITY calendar.taskview.delete.label     "ลบ">
 
 <!-- Server Context Menu -->
+<!ENTITY calendar.context.newserver.label              "ปฏิทินใหม่…">
+<!ENTITY calendar.context.newserver.accesskey          "ป">
+<!ENTITY calendar.context.findcalendar.label           "ค้นหาปฏิทิน…" >
+<!ENTITY calendar.context.findcalendar.accesskey       "ค" >
+<!ENTITY calendar.context.deleteserver2.label          "ลบปฏิทิน…">
+<!ENTITY calendar.context.deleteserver2.accesskey      "ล">
 
 <!-- LOCALIZATION NOTE (calendar.context.removeserver.label): Removing the
       calendar is the general action of removing it, while deleting means to
       clear the data and unsubscribing means just taking it out of the calendar
       list. -->
+<!ENTITY calendar.context.removeserver.label           "เอาปฏิทินออก…">
+<!ENTITY calendar.context.removeserver.accesskey       "อ">
+<!ENTITY calendar.context.unsubscribeserver.label      "เลิกบอกรับปฏิทิน…">
+<!ENTITY calendar.context.unsubscribeserver.accesskey  "ล">
 
 <!-- LOCALIZATION NOTE (calendar.context.showcalendar.accesskey)
      This is the access key used for the showCalendar string -->
