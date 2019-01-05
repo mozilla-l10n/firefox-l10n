@@ -145,7 +145,7 @@ startup-restore-previous-session =
     .accesskey = G
 
 startup-restore-warn-on-quit =
-    .label = Advar, når du lukker browseren
+    .label = Advar mig, når jeg lukker browseren
 
 disable-extension =
     .label = Deaktiver udvidelse
@@ -879,7 +879,7 @@ collection-studies =
 collection-studies-link = Vis { -brand-short-name }-undersøgelser
 
 addon-recommendations =
-    .label = Tillad at { -brand-short-name } at anbefale udvidelser specielt udvalgt til dig
+    .label = Tillad at { -brand-short-name } anbefaler udvidelser specielt udvalgt til dig
 addon-recommendations-link = Læs mere
 
 # This message is displayed above disabled data sharing options in developer builds
