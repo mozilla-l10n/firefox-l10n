@@ -173,6 +173,7 @@ hardware-h264 = Avadanlıq H264 Dekodlama
 main-thread-no-omtc = ana axın, OMTC yoxdur
 yes = Bəli
 no = Xeyr
+unknown = Bilinməyən
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
