@@ -230,6 +230,15 @@ add-exception-valid-short = Sertifikadô hia ni'ñanj an
 add-exception-valid-long = Sa hia ni sa yangà'a huin danj sitiô nan. Ga'ue garasunt man.
 add-exception-checking-short = Hìaj natsi nuguan' hua rayi'î nan
 add-exception-checking-long = hìaj natsi dàj hua sitiô nan...
+add-exception-no-cert-short = Nitaj nuguan'an hua rayi'ij
+add-exception-no-cert-long = Na'ue nari'ìj daj hua hia rayi'î sitiô nan.
 
 ## Certificate export "Save as" and error dialogs
 
+save-cert-as = Na'nïnh sà' sertifikâdo riña archîbo
+cert-format-base64 = X.509 Sertifikâdo (PEM)
+cert-format-base64-chain = X.509 Sertifikâdo ngà kadêna (PEM)
+cert-format-der = X.509 Sertifikâdo (DER)
+cert-format-pkcs7 = X.509 Sertifikâdo (PKCS#7)
+cert-format-pkcs7-chain = X.509 Sertifikâdo ngà kadêna (PKCS#7)
+write-file-failure = Gire' riña archîbo
