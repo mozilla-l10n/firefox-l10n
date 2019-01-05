@@ -5,8 +5,14 @@
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
 
 <!-- File Menu -->
+<!ENTITY fileMenu.label "ไฟล์">
+<!ENTITY fileMenu.accesskey "ฟ">
+<!ENTITY newMenu.label "ใหม่">
+<!ENTITY newMenu.accesskey "ห">
+<!ENTITY newMessage.label "ข้อความ">
 <!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
+<!ENTITY newMessage.accesskey "ข">
 <!ENTITY attachFileCmd.key "A">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY closeCmd.key "W">
