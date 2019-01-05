@@ -195,6 +195,17 @@ not-present =
     .value = <Not Part Of Certificate>
 # Cert verification
 cert-verified = Nani'in sisi sertifikadô nan ni ni'ñan guendâ nej sun nan:
+# Add usage
+verify-ssl-client =
+    .value = Si sertifikadô Klientê SSL
+verify-ssl-server =
+    .value = Si sertifikadô sun SSL
+verify-ssl-ca =
+    .value = Sa a'nïn' riña sertifikasiûn SSL
+verify-email-signer =
+    .value = Si sertifikadô sa a'hui' da'nga'a riña korrêo
+verify-email-recip =
+    .value = Si sertifikadô sa nahuin ra'a korrêo
 # Cert verification
 cert-not-verified-cert-revoked = Nu ga'ue natsi sertificadô nan dadin' ngà nare'ej rû' huaj.
 cert-not-verified-cert-expired = Nu ga'ue natsi sertificadô nan dadin' ngà gisîj nahuij si diûj.
@@ -207,6 +218,9 @@ cert-not-verified-unknown = Nu ni'în' nuhuin saj na'ue natsi sertiifikadô nan.
 
 ## Add Security Exception dialog
 
+add-exception-branded-warning = Doj sínj gàchin da' nadurê't { -brand-short-name } dàj atûjt riña sitiô nan.
+add-exception-invalid-header = Sitiô nan ni sê nuguan' yangà'a nadiganj riñant ruhuaj.
+add-exception-domain-mismatch-short = Sê sitiô dan huin
 
 ## Certificate export "Save as" and error dialogs
 
