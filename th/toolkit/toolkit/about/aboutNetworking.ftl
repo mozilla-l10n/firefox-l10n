@@ -33,7 +33,7 @@ bytes-received = จำนวนไบต์ที่รับ
 logging = การบันทึก
 log-tutorial = ดู<a data-l10n-name="logging">การบันทึกล็อก HTTP</a>สำหรับคำแนะนำเกี่ยวกับวิธีการใช้เครื่องมือนี้
 current-log-file = ไฟล์รายการบันทึกปัจจุบัน:
-current-log-modules = โมดูลรายการบันทึกปัจจุบัน
+current-log-modules = โมดูลรายการบันทึกปัจจุบัน:
 set-log-file = ตั้งไฟล์รายการบันทึก
 set-log-modules = ตั้งโมดูลรายการบันทึก
 start-logging = เริ่มการบันทึก
