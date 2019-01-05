@@ -30,6 +30,8 @@
 <!-- Format menu items -->
 <!ENTITY formatMenu.label "รูปแบบ">
 <!ENTITY formatMenu.accesskey "ป">
+<!ENTITY grid.label "เส้นตารางการวางตำแหน่ง">
+<!ENTITY grid.accesskey "น">
 
 <!-- Tools menu items -->
 
