@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-choose-messenger-language-description = მიუთითეთ ენა, რომლითაც იხილავთ მენიუს, შეტყობინებებსა და ცნობებს { -brand-short-name }-ისგან.
+choose-messenger-language-description = მიუთითეთ ენა, რომლის მეშვეობითაც მენიუს, შეტყობინებებსა და ცნობებს გაჩვენებთ { -brand-short-name }.
 manage-messenger-languages-button =
     .label = დამატებითი...
     .accesskey = დ
