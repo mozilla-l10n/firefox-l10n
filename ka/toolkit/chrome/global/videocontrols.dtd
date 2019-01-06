@@ -10,7 +10,6 @@
 <!ENTITY fullscreenButton.exitfullscreenlabel "სრულეკრანიანი რეჟიმიდან გამოსვლა">
 <!ENTITY castingButton.castingLabel "ეკრანზე გადაცემა">
 <!ENTITY closedCaption.off "გამორთ.">
-
 <!-- LOCALIZATION NOTE (volumeScrubber.label): This label is exposed to
      accessibility software to clarify what the slider is for. -->
 <!ENTITY volumeScrubber.label "ხმის რბია">
@@ -31,7 +30,7 @@
 <!ENTITY error.aborted "ვიდეოს ჩატვირთვა შეჩერებულია">
 <!ENTITY error.network "ვიდეოს გაშვება შეწყვეტილია, ქსელის ხარვეზის გამო.">
 <!ENTITY error.decode "ვიდეოს გაშვება ვერ მოხერხდა, რადგან ფაილი დაზიანებულია.">
-<!ENTITY error.srcNotSupported "ვიდეოს ფორმატი ან MIME ტიპი არ არის მხარდაჭერილი.">
+<!ENTITY error.srcNotSupported "ვიდეოს ფორმატი ან MIME-სახეობა არ არის მხარდაჭერილი.">
 <!ENTITY error.noSource2 "მხარდაჭერილი ფორმატის ან MIME ტიპის ვიდეო, ვერ მოიძებნა.">
 <!ENTITY error.generic "ვიდეოს გაშვება შეწყდა, გაურკვეველი შეცდომის გამო.">
 

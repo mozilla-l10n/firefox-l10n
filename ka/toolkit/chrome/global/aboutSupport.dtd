@@ -126,7 +126,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.sandboxSyscallAge "წამის წინ">
 <!ENTITY aboutSupport.sandboxSyscallPID "PID">
 <!ENTITY aboutSupport.sandboxSyscallTID "TID">
-<!ENTITY aboutSupport.sandboxSyscallProcType "პროცესის ტიპი">
+<!ENTITY aboutSupport.sandboxSyscallProcType "მიმდინარე მოქმედების სახე">
 <!ENTITY aboutSupport.sandboxSyscallNumber "სისტემური გამოძახება">
 <!ENTITY aboutSupport.sandboxSyscallArgs "არგუმენტები">
 
