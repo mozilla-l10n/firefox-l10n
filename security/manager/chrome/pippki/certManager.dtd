@@ -7,12 +7,12 @@
 <!ENTITY certmgr.tab.mine                     "Dine sertifikat">
 <!ENTITY certmgr.tab.others2                  "Personar">
 <!ENTITY certmgr.tab.websites3                "Tenarar">
-<!ENTITY certmgr.tab.ca                       "Utskrivarar">
+<!ENTITY certmgr.tab.ca                       "Sertifikatsyremakter">
 
 <!ENTITY certmgr.mine2                        "Du har sertifikat frå desse organisasjonene som identifiserer deg">
 <!ENTITY certmgr.others2                      "Du har lagra sertifikat som identifiserer desse personane">
 <!ENTITY certmgr.websites3                    "Du har lagra sertifikat som identifiserer desse serverane">
-<!ENTITY certmgr.cas2                         "Du har lagra sertifikat som identifiserer desse sertifikatutskrivarane">
+<!ENTITY certmgr.cas2                         "Du har lagra sertifikat som identifiserer desse sertifikatstyremaktene">
 
 <!ENTITY certmgr.detail.general_tab.title     "Generelt">
 <!ENTITY certmgr.detail.general_tab.accesskey "G">
@@ -79,11 +79,9 @@
 <!ENTITY exceptionMgr.exceptionButton.label   "Stadfest tryggingsunntak">
 <!ENTITY exceptionMgr.exceptionButton.accesskey "S">
 <!ENTITY exceptionMgr.supplementalWarning     "Lovlege bankar, butikkar, og andre offentlege nettsider vil ikkje be deg om å gjere dette.">
-<!ENTITY exceptionMgr.certlocation.caption2   "Tenar">
 <!ENTITY exceptionMgr.certlocation.url        "Adresse:">
 <!ENTITY exceptionMgr.certlocation.download   "Hent sertifikat">
 <!ENTITY exceptionMgr.certlocation.accesskey  "H">
-<!ENTITY exceptionMgr.certstatus.caption      "Sertifikatstatus">
 <!ENTITY exceptionMgr.certstatus.viewCert     "Vis…">
 <!ENTITY exceptionMgr.certstatus.accesskey    "V">
 <!ENTITY exceptionMgr.permanent.label         "Lagre dette unntaket permanent">
