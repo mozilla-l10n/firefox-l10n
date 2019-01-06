@@ -65,7 +65,7 @@ close-button =
 
 feature-enable-requires-restart = ამ ფუნქციის ჩასართავად, ხელახლა გაუშვით { -brand-short-name }
 feature-disable-requires-restart = ამ ფუნქციის გამოსართავად, ხელახლა გაუშვით { -brand-short-name }
-should-restart-title = { -brand-short-name }-ის ხელახლა გაშვება
+should-restart-title = ხელახლა გაეშვას { -brand-short-name }
 should-restart-ok = გაუშვით ხელახლა { -brand-short-name } ახლავე
 cancel-no-restart-button = გაუქმება
 restart-later = მოგვიანებით გაშვება
@@ -270,7 +270,7 @@ play-drm-content =
     .label = DRM-ს დაქვემდებარებული შიგთავსის გაშვება
     .accesskey = D
 play-drm-content-learn-more = იხილეთ ვრცლად
-update-application-title = { -brand-short-name }-ის განახლებები
+update-application-title = { -brand-short-name } – განახლებები
 update-application-description = მუდმივად განაახლეთ { -brand-short-name }, რომ შეინარჩუნოთ წარმადობა, მდგრადობა და უსაფრთხოება.
 update-application-version = ვერსია { $version } <a data-l10n-name="learn-more">რა არის ახალი</a>
 update-history =
