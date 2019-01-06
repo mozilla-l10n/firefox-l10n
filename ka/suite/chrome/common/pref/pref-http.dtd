@@ -19,4 +19,4 @@
 <!ENTITY prefFirefoxCompat.accesskey         "ც">
 <!ENTITY prefLightningShow.label             "Lightning დაყენების შესახებ ცნობება">
 <!ENTITY prefLightningShow.accesskey         "ნ">
-<!ENTITY prefCompatWarning                   "გაფრთხილება: ამ პარამეტრების გამორთვის შედეგად, შესაძლოა საიტებმა, ან სერვისებმა გამართულად ვერ იმუშაოს.">
+<!ENTITY prefCompatWarning                   "გაფრთხილება: ამ პარამეტრების გამორთვის შედეგად, შესაძლოა საიტებმა ან მომსახურებებმა გამართულად ვერ იმუშაოს.">
