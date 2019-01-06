@@ -79,7 +79,7 @@
 </ul>
 ">
 
-<!ENTITY unsafeContentType.title "ფაილის სახიფათი ტიპი">
+<!ENTITY unsafeContentType.title "სახიფათო სახის ფაილი">
 <!ENTITY unsafeContentType.longDesc "
 <ul>
   <li>ამ პრობლემასთნა დაკავშირებით გთხოვთ ვებ საიტის მფლობელებს დაუკავშირდეთ.</li>
