@@ -64,7 +64,7 @@
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.adminDisabled       "განახლებები აკრძალულია თქვენი სისტემური ადმინისტრატორის მიერ">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
-<!ENTITY update.otherInstanceHandlingUpdates "&brandShortName;-ის განახლება უკვე მიმდინარეობს">
+<!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; უკვე ახლდება">
 <!ENTITY update.restarting          "ეშვება ხელახლა…">
 
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):

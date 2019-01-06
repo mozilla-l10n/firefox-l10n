@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-languages-window =
-    .title = ენები
-    .style = width: 32em
 webpage-languages-window =
     .title = ვებგვერდის ენის პარამეტრები
     .style = width: 40em
@@ -42,7 +39,7 @@ languages-code-format =
 languages-active-code-format =
     .value = { languages-code-format.label }
 browser-languages-window =
-    .title = { -brand-short-name }-ის ენის პარამეტრები
+    .title = { -brand-short-name } – ენის პარამეტრები
     .style = width: 40em
 browser-languages-description = { -brand-short-name } აჩვენებს პირველ ენას ნაგულისხმევად, ხოლო საჭიროების შემთხვევაში დამატებითს, რიგითობის შესაბამისად.
 browser-languages-search = სხვა ენების ძიება...
