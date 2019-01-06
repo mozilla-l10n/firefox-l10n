@@ -20,4 +20,4 @@
 <!ENTITY editContactPanelDone.label "მზადაა">
 <!ENTITY editContactPanelDone.accesskey "მ">
 
-<!ENTITY contactMoveDisabledWarning.description "წიგნაკს ვერ შეცვლით, რადგან კონტაქტი დაგზავნის სიაშია.">
+<!ENTITY contactMoveDisabledWarning.description "წიგნაკს ვერ შეცვლით, რადგან ეს პირი დაგზავნის სიაშია.">

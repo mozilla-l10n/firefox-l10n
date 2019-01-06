@@ -2,12 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY onlineContactsHeader.label    "ხაზზე მყოფიკონტაქტები">
-<!ENTITY offlineContactsHeader.label   "ხაზსგარე კონტაქტები">
+<!ENTITY onlineContactsHeader.label    "ხაზზე მყოფი ხალხი">
+<!ENTITY offlineContactsHeader.label   "ხაზგარეთ მყოფი ხალხი">
 <!ENTITY conversationsHeader.label     "საუბრები">
 <!ENTITY searchResultConversation.label "ძიების შედეგები">
 <!ENTITY chat.noConv.title             "საუბრები აქ აისახება.">
-<!ENTITY chat.noConv.description       "საუბრის დასაწყებად ისარგებლეთ კონტაქტების სიით მარცხენა სტენდზე.">
+<!ENTITY chat.noConv.description       "საუბრის დასაწყებად ისარგებლეთ მარცხენა მხარეს არსებული ხალხის სიით.">
 <!ENTITY chat.noPreviousConv.description       "&brandShortName;-ს ამ დროისთვის წინა საუბრები არ შეუნახავს.">
 <!ENTITY chat.noAccount.title             "სასაუბროს ანგარიში ჯერ არ გაქვთ.">
 <!ENTITY chat.noAccount.description       "&brandShortName;-სთვის სასაუბროს ანგარიშის შექმნის მეგზურობის ნებართვა.">
@@ -26,13 +26,13 @@
 <!ENTITY closeConversationCmd.accesskey "შ">
 <!ENTITY aliasCmd.label                "გადარქმევა">
 <!ENTITY aliasCmd.accesskey            "ქ">
-<!ENTITY deleteCmd.label               "კონტაქტის მოცილება">
+<!ENTITY deleteCmd.label               "პირის მოცილება">
 <!ENTITY deleteCmd.accesskey           "ც">
 
 <!ENTITY openConversationButton.tooltip  "საუბრის დაწყება">
 <!ENTITY closeConversationButton.tooltip "საუბრის შეწყვეტა">
 
-<!ENTITY addBuddyButton.label          "კონტაქტის დამატება">
+<!ENTITY addBuddyButton.label          "პირის დამატება">
 <!ENTITY joinChatButton.label          "სასაუბროში შესვლა">
 <!ENTITY chatAccountsButton.label      "ანგარიშების ჩვენება">
 

@@ -22,7 +22,7 @@
 <!ENTITY accountAdvanced.newMailNotification.label   "შეტყობინება ელფოსტით">
 <!ENTITY accountAliasGroupbox.caption "ლოკალური ფსევდონიმი">
 <!ENTITY accountAliasField.label      "ფსევდონიმი:">
-<!ENTITY accountAliasInfo.label       "იგი მხოლოდ თქვენთვის აისახება, გარე კონტაქტები მას ვერ დაინახავენ.">
+<!ENTITY accountAliasInfo.label       "იგი მხოლოდ თქვენს საუბრებში გამოჩნდება, გარეშე პირები ვერ იხილავენ.">
 <!ENTITY accountProxySettings.caption "პროქსის პარამეტრები">
 <!ENTITY accountProxySettings.change.label     "შეცვლა…">
 <!ENTITY accountProxySettings.change.accessKey "ც">

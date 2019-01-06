@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY addressbookWindow.title                        "წიგნაკი">
-<!ENTITY blankResultsPaneMessage.label                  "ეს წიგნაკი აჩვენებს კონტაქტებს, მხოლოდ ძიების შემდგომ">
+<!ENTITY blankResultsPaneMessage.label                  "ეს წიგნაკი აჩვენებს ხალხს, მხოლოდ ძიების შემდგომ">
 <!ENTITY localResultsOnlyMessage.label                  "ძიებისას, ვებმისამართზე არსებულ წიგნაკში მოცემული პირები არ გამოჩნდება">
 
 <!-- File Menu -->
@@ -222,7 +222,7 @@ because displayed names don't have the comma in between. -->
 
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
-<!ENTITY contact.heading                                "კონტაქტი">
+<!ENTITY contact.heading                                "პირი">
 <!ENTITY home.heading                                   "ბინა">
 <!ENTITY other.heading                                  "სხვა">
 <!ENTITY chat.heading                                   "სასაუბრო">
