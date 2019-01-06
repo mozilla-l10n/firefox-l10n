@@ -8,6 +8,8 @@ do-not-track-option-default =
     .label = যখন শুধুমাত্র ট্র্যাকিং সুরক্ষার সঙ্গে
 do-not-track-option-default-content-blocking =
     .label = শুধুমাত্র যখন { -brand-short-name } সনাক্ত করা ট্র্যাকারগুলিকে ব্লক করতে সেট করা হয়
+do-not-track-option-default-content-blocking-known =
+    .label = শুধুমাত্র যখন { -brand-short-name } পরিচিত ট্র্যাকারগুলিকে ব্লক করার জন্য সেট করা হয়
 do-not-track-option-always =
     .label = সর্বদা
 pref-page =
@@ -141,6 +143,8 @@ set-as-my-default-browser =
 startup-restore-previous-session =
     .label = পূর্ববর্তী সেশন পুনরুদ্ধার করুন
     .accesskey = s
+startup-restore-warn-on-quit =
+    .label = ব্রাউজার ছেড়ে যাওয়ার সময় আপনাকে সতর্ক করে
 disable-extension =
     .label = এক্সটেনশনটি নিষ্ক্রিয় করুন
 tabs-group-header = ট্যাব
@@ -288,6 +292,10 @@ update-application-use-service =
 update-enable-search-update =
     .label = স্বয়ংক্রিয়ভাবে সার্চ ইঞ্জিন আপডেট করুন
     .accesskey = e
+update-pref-write-failure-title = ব্যর্থতাকে লিখুন
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = পছন্দ সংরক্ষণ করতে অক্ষম। ফাইলটিতে লিখতে পারেনি: { $path }
 
 ## General Section - Performance
 
@@ -531,7 +539,6 @@ privacy-header = ব্রাউজারের গোপনীয়তা
 
 ## Privacy Section - Forms
 
-forms-header = ফর্মগুলি & পাসওয়ার্ডগুলি
 logins-header = লগইন এবং পাসওয়ার্ড
 forms-ask-to-save-logins =
     .label = ওয়েবসাইটের জন্য লগইন এবং পাসওয়ার্ড সংরক্ষণ করতে জিজ্ঞাসা করুন
@@ -628,6 +635,8 @@ sitedata-block-all-third-party-option =
     .label = সমস্ত তৃতীয় পক্ষের কুকি (ওয়েবসাইটকে অচল করতে পারে)
 sitedata-block-all-option =
     .label = সমস্ত কুকি (ওয়েবসাইটকে অচল করবে)
+sitedata-option-block-trackers =
+    .label = তৃতীয় পক্ষের ট্র্যাকারগুলি
 sitedata-clear =
     .label = তথ্য পরিষ্কার করুন…
     .accesskey = l

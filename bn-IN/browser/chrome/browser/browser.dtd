@@ -33,8 +33,10 @@ These items have the same accesskey but will never be visible at the same time. 
 <!ENTITY  closeTabOptions.accesskey          "O">
 <!-- LOCALIZATION NOTE (duplicateTabs.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
+<!ENTITY  duplicateTabs.label                "অনুরূপ ট্যাবগুলি">
 <!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
+<!ENTITY  duplicateTabs.accesskey            "D">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -108,6 +110,10 @@ These items have the same accesskey but will never be visible at the same time. 
 <!ENTITY  hiddenTabs.label                   "লুকাইত ট্যাব">
 
 <!ENTITY  listAllTabs.label      "সকল ট্যাবের তালিকা প্রদর্শন করা হবে">
+
+<!-- LOCALIZATION NOTE (allTabsMenu.searchTabs.label): "Search" is a verb, as
+in "Search through tabs". -->
+<!ENTITY  allTabsMenu.searchTabs.label       "ট্যাব অনুসন্ধান করুন">
 
 <!ENTITY tabCmd.label "নতুন ট্যাব">
 <!ENTITY tabCmd.accesskey "T">
@@ -283,6 +289,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "ব্রাউজার রিমোট কন্ট্রোলের অধীনে আছে">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "ওয়েব প্রমাণীকরণ প্যানেল খুলুন">
 
+<!ENTITY urlbar.storageAccessAnchor.tooltip               "ব্রাউজিং কার্যকলাপের অনুমতি প্যানেল খুলুন">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "সাইটের সাথে আপনার ক্যামেরা/বা মাইক্রোফোন শেয়ার করাকে পরিচালনা করুন">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "এই সাইটের সাথে আপনার মাইক্রোফোন শেয়ার করাকে পরিচালনা করুন">
@@ -1028,8 +1035,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.3rdPartyCookies.add.label "ব্লক করা যুক্ত করুন...">
 
+<!ENTITY contentBlocking.manageSettings.label "কন্টেন্ট ব্লকিং-র ব্যবস্থাপনা করুন">
+<!ENTITY contentBlocking.manageSettings.accesskey "M">
 
+<!ENTITY contentBlocking.trackersView.label "ট্রাকারগুলি">
+<!ENTITY contentBlocking.trackersView.strictInfo.label "সমস্ত ট্র্যাকার ব্লক করতে, কন্টেন্ট ব্লকিং “কঠোর” এ সেট করুন।">
 
+<!ENTITY contentBlocking.cookies.label "কুকি">
+<!ENTITY contentBlocking.cookiesView.label "কুকি ও সাইট ডেটা">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "একটি সমস্যা রিপোর্ট করুন">
 <!ENTITY contentBlocking.breakageReportView.label "সমস্যাগুলিকে রিপোর্ট করুন">

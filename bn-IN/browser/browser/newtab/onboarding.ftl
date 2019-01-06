@@ -28,3 +28,14 @@ onboarding-ghostery-text = Ghostery এর মতো এক্সটেনশা
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = সিঙ্ক
 onboarding-fxa-text = { -fxaccount-brand-name } এর জন্য সাইন আপ করুন এবং { -brand-short-name } তে যেকোনো জায়গায় আপনার বুকমার্কস, পাসওয়ার্ডগুলি এবং খোলা ট্যাবগুলিকে ব্যবহার করতে সিঙ্ক করুন।
+
+## Message strings belonging to the Return to AMO flow
+
+return-to-amo-sub-header = দারুণ, আপনি { -brand-short-name } পেয়েছেন
+# <icon></icon> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-header = এখন আপনি পাবেন <icon></icon><b>{ $addon-name }.</b>
+return-to-amo-extension-button = এক্সটেনশন যোগ করুন
+return-to-amo-get-started-button = { -brand-short-name } দিয়ে শুরু করুন
