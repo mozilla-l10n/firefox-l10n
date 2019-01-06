@@ -167,6 +167,7 @@ was trying to connect. -->
 <!ENTITY blockedByPolicy.title "Blokkert side">
 
 <!ENTITY certerror.mitm.title "Programvara hindrar &brandShortName; frå trygg tilkopling til denne nettstaden">
+<!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> er sannsynlegvis ein sikker nettstad, men ei sikker tilkopling kunne ikkje etablerast. Problemet er forårsaka av <span class='mitm-name'/> som anten er eit program på datamaskina di eller på nettverket ditt.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "Om du er i eit bedriftsnettverk, kan du kontakte IT-avdelinga di.">
 
 <!ENTITY clockSkewError.title "Klokka på datamaskina di er feil">
