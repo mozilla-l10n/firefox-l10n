@@ -14,7 +14,7 @@
 <!ENTITY newMessage.key "წ">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessage.accesskey "წ">
-<!ENTITY newContact.label "წიგნაკის კონტაქტი…">
+<!ENTITY newContact.label "პირი წიგნაკიდან…">
 <!ENTITY newContact.accesskey "კ">
 <!ENTITY attachMenu.label "მიმაგრება">
 <!ENTITY attachMenu.accesskey "მ">
@@ -152,7 +152,7 @@
 <!ENTITY customizeToolbar.label "მორგება…">
 <!ENTITY customizeToolbar.accesskey "ო">
 
-<!ENTITY addressSidebar.label "კონტაქტების არე">
+<!ENTITY addressSidebar.label "პირის მონაცემების არე">
 <!ENTITY addressSidebar.accesskey "ე">
 
 <!-- Format Menu -->
@@ -354,7 +354,7 @@
 <!ENTITY spellAddDictionaries.accesskey "ყ">
 
 <!-- Title for the address picker panel -->
-<!ENTITY addressesSidebarTitle.label "კონტაქტები">
+<!ENTITY addressesSidebarTitle.label "ხალხი">
 
 <!-- Identity popup customize menuitem -->
 <!ENTITY customizeFromAddress.label "გამგზავნის მისამართის პარამეტრები…">

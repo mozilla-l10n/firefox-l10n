@@ -34,7 +34,7 @@
 <!ENTITY newIMAccountCmd.accesskey "ს">
 <!ENTITY newFeedAccountCmd.label "არხის ანგარიში…">
 <!ENTITY newFeedAccountCmd.accesskey "რ">
-<!ENTITY newIMContactCmd.label "სასაუბროს კონტაქტი…">
+<!ENTITY newIMContactCmd.label "პირი სასაუბროდან…">
 <!ENTITY newIMContactCmd.accesskey "ს">
 <!ENTITY  newMessageCmd2.key "N">
 <!ENTITY  newMessageCmd.key "M">
@@ -440,9 +440,6 @@
 <!ENTITY openMessageWindowCmd.label "წერილის გახსნა">
 <!ENTITY openMessageWindowCmd.accesskey "ხ">
 <!ENTITY openMessageWindowCmd.key "o">
-<!ENTITY openConversationCmd.label "სასაუბროში გახსნა">
-<!ENTITY openConversationCmd.accesskey "ს">
-<!ENTITY openConversationCmd.key "o">
 <!ENTITY openInConversationCmd.label "სასაუბროში გახსნა">
 <!ENTITY openInConversationCmd.accesskey "ს">
 <!ENTITY openInConversationCmd.key "o">
@@ -631,7 +628,7 @@
 
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "ახალი წერილი">
-<!ENTITY appmenuNewContactCmd.label "კონტაქტი წიგნაკიდან…">
+<!ENTITY appmenuNewContactCmd.label "პირი წიგნაკიდან…">
 <!ENTITY appmenuEditMenu.label "ჩასწორება">
 <!ENTITY appmenuToolbarLayout.label "ხელსაწყოთა ზოლის განლაგება…">
 <!ENTITY appmenuSelectThread.label "მიმოწერის შერჩევა">
@@ -905,9 +902,9 @@
 <!ENTITY AddToAddressBook.accesskey "წ">
 <!ENTITY AddDirectlyToAddressBook.label "დამატება წიგნაკში">
 <!ENTITY AddDirectlyToAddressBook.accesskey "წ">
-<!ENTITY EditContact1.label "კონტაქტის ჩასწორება">
+<!ENTITY EditContact1.label "პირის მონაცემების ჩასწორება">
 <!ENTITY EditContact1.accesskey "ჩ">
-<!ENTITY ViewContact.label "კონტაქტის ჩვენება">
+<!ENTITY ViewContact.label "პირის ჩვენება">
 <!ENTITY ViewContact.accesskey "ვ">
 <!ENTITY SubscribeToNewsgroup.label "სიახლეთა ჯგუფების გამოწერა">
 <!ENTITY SubscribeToNewsgroup.accesskey "ს">

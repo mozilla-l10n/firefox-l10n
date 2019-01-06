@@ -6,6 +6,6 @@
 <!ENTITY  newMessageCmd.key               "M">
 <!ENTITY  newMessageCmd.label             "გზავნილი">
 <!ENTITY  newMessageCmd.accesskey         "m">
- 
-<!ENTITY  newContactCmd.label             "წიგნაკის კონტაქტი…">
+
+<!ENTITY  newContactCmd.label             "პირი წიგნაკიდან…">
 <!ENTITY  newContactCmd.accesskey         "კ">
