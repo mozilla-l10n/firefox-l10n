@@ -7,7 +7,7 @@
 <!ENTITY  newMessageCmd.label             "გზავნილი">
 <!ENTITY  newMessageCmd.accesskey         "m">
  
-<!ENTITY  newContactCmd.label             "წიგნაკის კონტაქტი…">
+<!ENTITY  newContactCmd.label             "პირი…">
 <!ENTITY  newContactCmd.accesskey         "C">
  
 <!ENTITY printButton.label "ამობეჭდვა">

@@ -5,9 +5,9 @@
 <!-- Message Header View Popup -->
 <!ENTITY AddToAddressBook.label            "წიგნაკში ჩამატება…">
 <!ENTITY AddToAddressBook.accesskey        "ჩ">
-<!ENTITY EditContact.label                 "კონტაქტის ჩასწორება…">
+<!ENTITY EditContact.label                 "პირის მონაცემების ჩასწორება…">
 <!ENTITY EditContact.accesskey             "წ">
-<!ENTITY ViewContact.label                 "კონტაქტის ჩვენება">
+<!ENTITY ViewContact.label                 "პირის მონაცემების ჩვენება">
 <!ENTITY ViewContact.accesskey             "ვ">
 <!ENTITY SendMailTo.label                  "წერილის შექმნა…">
 <!ENTITY SendMailTo.accesskey              "ქ">
