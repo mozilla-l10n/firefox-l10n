@@ -11,7 +11,7 @@
 <!ENTITY fileMenu.accesskey                             "ფ">
 <!ENTITY newMenu.label                                  "ახალი">
 <!ENTITY newMenu.accesskey                              "ა">
-<!ENTITY newContact.label                               "წიგნაკის კონტაქტი…">
+<!ENTITY newContact.label                               "პირი წიგნაკიდან…">
 <!ENTITY newContact.accesskey                           "კ">
 <!ENTITY newContact.key                                 "N">
 <!ENTITY newListCmd.label                               "დაგზავნის სია…">
@@ -31,11 +31,11 @@
 <!ENTITY closeCmd.accesskey                             "ხ">
 <!ENTITY printSetupCmd.label                            "გვერდის გამართვა…">
 <!ENTITY printSetupCmd.accesskey                        "მ">
-<!ENTITY printPreviewContactCmd.label                   "კონტაქტის შეთვალიერება ამობეჭდვამდე">
+<!ENTITY printPreviewContactCmd.label                   "პირის მონაცემების შეთვალიერება ამობეჭდვამდე">
 <!ENTITY printPreviewContactCmd.accesskey               "ჭ">
 <!ENTITY printPreviewAddressBook.label                  "წიგნაკის შეთვალიერება ამობეჭდვამდე">
 <!ENTITY printPreviewAddressBook.accesskey              "გ">
-<!ENTITY printContactCmd.label                          "კონტაქტის ბეჭდვა…">
+<!ENTITY printContactCmd.label                          "პირის მონაცემების ამობეჭდვა…">
 <!ENTITY printContactCmd.accesskey                      "კ">
 <!ENTITY printContactCmd.key                            "P">
 <!ENTITY printAddressBook.label                         "წიგნაკის ბეჭდვა…">
@@ -62,8 +62,8 @@
 <!ENTITY deleteCmd.label                                "წაშლა">
 <!ENTITY deleteCmd.accesskey                            "წ">
 <!ENTITY deleteAbCmd.label                              "წიგნაკის წაშლა">
-<!ENTITY deleteContactCmd.label                         "კონტაქტის წაშლა">
-<!ENTITY deleteContactsCmd.label                        "კონტაქტების წაშლა">
+<!ENTITY deleteContactCmd.label                         "პირის ამოშლა">
+<!ENTITY deleteContactsCmd.label                        "ხალხის ამოშლა">
 <!ENTITY deleteListCmd.label                            "სიის წაშლა">
 <!ENTITY deleteListsCmd.label                           "სიების წაშლა">
 <!ENTITY deleteItemsCmd.label                           "ელემენტების წაშლა">
@@ -81,7 +81,7 @@
 <!ENTITY propertiesCmd.key                              "i">
 <!ENTITY abPropertiesMenu.label                         "მისამართების წიგნაკის პარამეტრები">
 <!ENTITY abPropertiesMenu.accesskey                     "პ">
-<!ENTITY contactPropertiesMenu.label                    "კონტაქტის პარამეტრები">
+<!ENTITY contactPropertiesMenu.label                    "პირის მონაცემების პარამეტრები">
 <!ENTITY contactPropertiesMenu.accesskey                "პ">
 <!ENTITY mailingListPropertiesMenu.label                "საფოსტო სიის პარამეტრები">
 <!ENTITY mailingListPropertiesMenu.accesskey            "პ">
@@ -103,7 +103,7 @@
 <!ENTITY layoutMenu.accesskey                           "L">
 <!ENTITY showDirectoryPane.label                        "დასტის პანელი">
 <!ENTITY showDirectoryPane.accesskey                    "D">
-<!ENTITY showContactPane2.label                         "კონტაქტის პანელი">
+<!ENTITY showContactPane2.label                         "პირის მონაცემების არე">
 <!ENTITY showContactPane2.accesskey                     "C">
 <!ENTITY menu_ShowNameAs.label                          "სახელის ჩვენება როგორც">
 <!ENTITY menu_ShowNameAs.accesskey                      "n">
@@ -139,7 +139,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY preferencesCmdUnix.accesskey                   "n">
 
 <!-- Address Book Toolbar and Context Menus -->
-<!ENTITY newContactButton.label                         "ახალი კონტაქტი">
+<!ENTITY newContactButton.label                         "ახალი პირი">
 <!ENTITY newContactButton.accesskey                     "C">
 <!ENTITY newlistButton.label                            "ახალი სია">
 <!ENTITY newlistButton.accesskey                        "L">
@@ -150,7 +150,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY propertiesContext.accesskey                    "პ">
 <!ENTITY abPropertiesContext.label                      "პარამეტრები">
 <!ENTITY abPropertiesContext.accesskey                  "რ">
-<!ENTITY editContactContext.label                       "კონტაქტის ჩასწორება">
+<!ENTITY editContactContext.label                       "პირის მონაცემების ჩასწორება">
 <!ENTITY editContactContext.accesskey                   "ჩ">
 <!ENTITY editMailingListContext.label                   "სიის ჩასწორება">
 <!ENTITY editMailingListContext.accesskey               "ს">
@@ -164,11 +164,11 @@ because displayed names don't have the comma in between. -->
 <!ENTITY deleteButton2.accesskey                        "შ">
 
 <!-- Address Book Toolbar Tooltips -->
-<!ENTITY newContactButton.tooltip                       "წიგნაკის ახალი კონტაქტის შექმნა">
+<!ENTITY newContactButton.tooltip                       "წიგნაკში ახალი პირის მონაცემების შექმნა">
 <!ENTITY newlistButton.tooltip                          "ახალი სიის შექმნა">
 <!ENTITY editPropertiesButton.tooltip                   "მონიშნული ელემენტის ჩასწორება">
 <!ENTITY editAbPropertiesButton.tooltip                 "შერჩეული წიგნაკის პარამეტრების ჩასწორება">
-<!ENTITY editContactPropertiesButton.tooltip            "შერჩეული კონტაქტის ჩასწორება">
+<!ENTITY editContactPropertiesButton.tooltip            "შერჩეული პირის მონაცემების ჩასწორება">
 <!ENTITY editMailingListPropertiesButton.tooltip        "შერჩეული საფოსტო სიის ჩასწორება">
 <!ENTITY newmsgButton.tooltip                           "წერილის გაგზავნა">
 <!ENTITY newIM.tooltip                                  "სწრაფი შეტყობინების გაგზავნა ან საუბარი">
