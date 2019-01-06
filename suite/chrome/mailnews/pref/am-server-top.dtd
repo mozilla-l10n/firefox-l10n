@@ -7,7 +7,7 @@
 <!ENTITY messageStorage.label "წერილების საცავი">
 <!ENTITY securitySettings.label "უსაფრთხოების პარამეტრები">
 <!ENTITY serverSettings.label "სერვერის პარამეტრები">
-<!ENTITY serverType.label "სერვერის ტიპი:">
+<!ENTITY serverType.label "სერვერის სახეობა:">
 <!ENTITY serverName.label "სერვერის სახელი:">
 <!ENTITY serverName.accesskey "ე">
 <!ENTITY userName.label "სახელი:">

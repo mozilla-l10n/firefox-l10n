@@ -19,7 +19,7 @@
 <!ENTITY link-sec.label        "ბმის პარამეტრები">
 <!ENTITY link-url.label        "მისამართი:">
 <!ENTITY link-target.label     "გაიხსნება:">
-<!ENTITY link-type.label       "სასურველი ტიპი:">
+<!ENTITY link-type.label       "სასურველი სახეობა:">
 <!ENTITY link-lang.label       "სასურველი ენა:">
 <!ENTITY link-rel.label        "მიმართება:">
 <!ENTITY link-rev.label        "უკუმიმართება:">

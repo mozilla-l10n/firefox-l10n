@@ -110,7 +110,7 @@
 <!ENTITY storage.description "ეს დომენი სარგებლობს შემდეგი საცავით თქვენს კომპიუტერში:">
 
 <!ENTITY storage.tree.host.label "ვებსაიტი">
-<!ENTITY storage.tree.type.label "ტიპი">
+<!ENTITY storage.tree.type.label "სახეობა">
 <!ENTITY storage.tree.size.label "ზომა">
 
 <!ENTITY storage.ctx.remove.label "მოცილება">

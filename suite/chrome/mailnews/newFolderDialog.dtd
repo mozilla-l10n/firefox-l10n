@@ -8,7 +8,7 @@
 <!ENTITY name.accesskey             "n">
 <!ENTITY description.label          "ქვედასტის შექმნა აქ:">
 <!ENTITY description.accesskey      "c">
-<!ENTITY folderRestriction1.label   "ეს სერვერი იღებს მხოლოდ ორი ტიპის დასტებს.">
+<!ENTITY folderRestriction1.label   "ეს სერვერი იღებს მხოლოდ ორი სახის საქაღალდეებს.">
 <!ENTITY folderRestriction2.label   "ახალ დასტაში შეიძლება ინახებოდეს:">
 <!ENTITY foldersOnly.label          "მხოლოდ დასტები">
 <!ENTITY messagesOnly.label         "მხოლოდ წერილები">
