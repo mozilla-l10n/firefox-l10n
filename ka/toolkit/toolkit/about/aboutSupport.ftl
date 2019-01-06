@@ -176,6 +176,8 @@ hardware-h264 = აპარატურული H264 გაშიფვრა
 main-thread-no-omtc = მთავარი ნაკადი, OMTC-ს გარეშე
 yes = დიახ
 no = არა
+unknown = უცნობი
+virtual-monitor-disp = წარმოსახვითი ეკრანის ჩვენება
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
@@ -183,6 +185,8 @@ no = არა
 
 found = მოძიებულია
 missing = აკლია
+gpu-process-pid = GPUProcessPid
+gpu-process = GPUProcess
 gpu-description = აღწერა
 gpu-vendor-id = მწარმოებლის ID
 gpu-device-id = მოწყობილობის ID
@@ -215,6 +219,7 @@ d3d9video-crash-buard = D3D9 ვიდეომშიფრავი
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = ჩამოყრა მომდევნო ჩართვისას
 gpu-process-kill-button = GPU პროცესის შეწყვეტა
+gpu-device-reset = მოწყობილობის ხელახალი გამართვა
 gpu-device-reset-button = მოწყობილობაზე პარამეტრების ჩამოყრის ამოქმედება
 uses-tiling = მოზაიკურად
 content-uses-tiling = მოზაიკურად (შიგთავსი)
