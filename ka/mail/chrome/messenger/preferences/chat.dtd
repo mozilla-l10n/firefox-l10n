@@ -15,7 +15,7 @@ displayed at the end of the line. The translations of the
 reportIdleAfter.label and idleTime parts don't have to mean the exact
 same thing as in English; please try instead to translate the whole
 sentence. -->
-<!ENTITY  reportIdleAfter.label         "ჩემი საკონტაქტო პირებისთვის ჩემი სტატუსის შეტყობინება">
+<!ENTITY  reportIdleAfter.label         "ეცნობოს ჩემს ხალხს, რომ უქმად ვიქნები მოცემული დროის შემდგომ">
 <!ENTITY  reportIdleAfter.accesskey     "I">
 <!ENTITY  idleTime                      "უქმი წუთის შემდეგ">
 
