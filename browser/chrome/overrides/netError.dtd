@@ -173,8 +173,8 @@ was trying to connect. -->
 <!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> er sannsynligvis et sikkert nettsted, men en sikker tilslutning kunne ikke etableres. Problemet forårsakes av <span class='mitm-name'/> som enten er et program på din datamaskin eller ditt nettverk.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "Hvis antivirusprogrammet ditt inneholder en funksjon som skanner krypterte tilkoblinger (ofte kalt «webscanning» eller «https-skanning»), kan du deaktivere denne funksjonen. Hvis det ikke virker, kan du fjerne og installere antivirusprogrammet på nytt.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "Om du er i et bedriftsnettverk, kan du kontakte din IT-avdeling.">
-<!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "Hvis du ikke kjenner til <span class = 'mitm-name' />, kan dette være et angrep, og du bør ikke fortsette til nettstedet.">
-<!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "Hvis du ikke kjenner til <span class = 'mitm-name' />, kan dette være et angrep, og det er ingenting du kan gjøre for å få tilgang til nettstedet.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "Hvis du ikke kjenner til <span class='mitm-name'/>, kan dette være et angrep, og du bør ikke fortsette til nettstedet.">
+<!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "Hvis du ikke kjenner til <span class='mitm-name'/>, kan dette være et angrep, og det er ingenting du kan gjøre for å få tilgang til nettstedet.">
 
 <!ENTITY clockSkewError.title "Klokken på datamaskinen din er feil">
 <!ENTITY clockSkewError.longDesc "Datamaskinen din tror det er <span id='wrongSystemTime_systemDate1'/>, som hindrer &brandShortName; fra å koble til sikkert. For å besøke <span class='hostname'></span>, oppdater datamaskinens klokke i systeminnstillingene til gjeldende dato, klokkeslett og tidssone, og oppdater deretter <span class='hostname'></span>.">
