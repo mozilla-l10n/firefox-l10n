@@ -168,7 +168,10 @@ was trying to connect. -->
 
 <!ENTITY certerror.mitm.title "Programvara hindrar &brandShortName; frå trygg tilkopling til denne nettstaden">
 <!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> er sannsynlegvis ein sikker nettstad, men ei sikker tilkopling kunne ikkje etablerast. Problemet er forårsaka av <span class='mitm-name'/> som anten er eit program på datamaskina di eller på nettverket ditt.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "Viss antivirusprogrammet ditt inneheld ein funksjon som skannar krypterte tilkoplingar (ofte kalla «webscanning» eller «https-skanning»), kan du deaktivere denne funksjonen. Viss det ikkje verkar, kan du fjerne og installere antivirusprogrammet på nytt.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "Om du er i eit bedriftsnettverk, kan du kontakte IT-avdelinga di.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "Viss du ikkje kjenner til <span class='mitm-name'/>, kan dette vere eit angrep, og du bør ikkje fortsette til nettstaden.">
+<!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "Viss du ikkje kjenner til <span class='mitm-name'/>, kan dette vere eit angrep, og det er ingenting du kan gjere for å få tilgang til nettstaden.">
 
 <!ENTITY clockSkewError.title "Klokka på datamaskina di er feil">
 <!ENTITY clockSkewError.longDesc "Datamaskina di trur det er <span id='wrongSystemTime_systemDate1'/>, som hindrar &brandShortName; frå å kople til sikkert. For å besøke <span class='hostname'></span>, oppdater klokka til datamaskina i systeminnstillingane til gjeldende dato, klokkeslett og tidssone, og oppdater deretter <span class='hostname'></span>.">
@@ -177,3 +180,4 @@ was trying to connect. -->
 <!ENTITY prefReset.label "Still tilbake til standard innstillingar">
 
 <!ENTITY networkProtocolError.title "Nettverksprotokollfeil">
+<!ENTITY networkProtocolError.longDesc "<p>Sida du forsøker å vise kan ikkje opnast fordi ein feil i nettverksprotokollen vart oppdaga.</p><ul><li>Kontakt nettstadseigarane og informer dei om dette problemet.</li></ul>">
