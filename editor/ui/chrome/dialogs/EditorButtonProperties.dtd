@@ -6,7 +6,7 @@
 
 <!ENTITY Settings.label "პარამეტრები">
 
-<!ENTITY ButtonType.label "ტიპი">
+<!ENTITY ButtonType.label "სახეობა">
 <!ENTITY ButtonType.accesskey "T">
 <!ENTITY submit.value "გაგზავნა">
 <!ENTITY reset.value "გაუქმება">
