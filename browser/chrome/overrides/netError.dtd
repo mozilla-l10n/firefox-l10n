@@ -95,12 +95,14 @@
 
 <!ENTITY certerror.longpagetitle1 "การเชื่อมต่อของคุณไม่ปลอดภัย">
 <!ENTITY certerror.longpagetitle2 "คำเตือน: ความเสี่ยงด้านความปลอดภัยที่อาจเกิดขึ้นข้างหน้า">
+<!ENTITY certerror.sts.longpagetitle  "ไม่ได้เชื่อมต่อ: ปัญหาความปลอดภัยที่อาจเกิดขึ้น">
 <!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "เจ้าของ <span class='hostname'/> ได้กำหนดค่าเว็บไซต์ของพวกเขาไม่เหมาะสม  เพื่อปกป้องข้อมูลของคุณจากการถูกขโมย &brandShortName; จึงไม่ได้เชื่อมต่อไปยังเว็บไซต์นี้">
 
 
+<!ENTITY certerror.whatCanYouDoAboutItTitle "คุณสามารถทำอะไรเกี่ยวกับเรื่องนี้ได้บ้าง?">
 
 
 
