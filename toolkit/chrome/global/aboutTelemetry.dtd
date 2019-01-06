@@ -14,9 +14,7 @@
 <!ENTITY aboutTelemetry.choosePing "
 პინგის არჩევა:
 ">
-<!ENTITY aboutTelemetry.archivePingType "
-პინგის სახეობა
-">
+<!ENTITY aboutTelemetry.archivePingType "კავშირის დამოწმების სახეობა">
 <!ENTITY aboutTelemetry.archivePingHeader "
 პინგი
 ">
