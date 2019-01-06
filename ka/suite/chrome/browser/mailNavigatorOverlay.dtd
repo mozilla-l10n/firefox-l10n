@@ -6,14 +6,14 @@
 <!ENTITY newMessageCmd.accesskey         "M">
 <!ENTITY newMessageCmd.key               "M">
 
-<!ENTITY newContactCmd.label             "კონტაქტი…">
+<!ENTITY newContactCmd.label             "პირი…">
 <!ENTITY newContactCmd.accesskey         "C">
 
 <!ENTITY sendPage.label                  "გვერდის გაგზავნა…">
 <!ENTITY sendPage.accesskey              "S">
 
-<!ENTITY contextSendThisPage.label           "ამ გვერდის გაგზავნა…">
-<!ENTITY contextSendThisPage.accesskey       "d">
+<!ENTITY contextSendThisPage.label       "ამ გვერდის გაგზავნა…">
+<!ENTITY contextSendThisPage.accesskey   "d">
 <!ENTITY contextSendThisLink.label       "ამ ბმის გაგზავნა…">
 <!ENTITY contextSendThisLink.accesskey   "k">
 <!ENTITY contextSendImage.label          "ნახატის გაგზავნა…">

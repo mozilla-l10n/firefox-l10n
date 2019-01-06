@@ -8,7 +8,7 @@
 <!-- Menus:  the . means that the menu item isn't implemented yet -->
 
 <!-- File Menu -->
-<!ENTITY newContact.label                               "კონტაქტი…">
+<!ENTITY newContact.label                               "პირი…">
 <!-- LOCALIZATION NOTE (newContact.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newContact.accesskey                           "კ">
 <!ENTITY newListCmd.label                               "დაგზავნის სია…">
@@ -20,9 +20,9 @@
 <!-- LOCALIZATION NOTE (newLDAPDirectoryCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "D">
 <!ENTITY newIM.label                                    "სწრაფი შეტყობინება">
-<!ENTITY printContactViewCmd.label                      "კონტაქტის ამობეჭდვა…">
+<!ENTITY printContactViewCmd.label                      "პირის მონაცემების ამობეჭდვა…">
 <!ENTITY printContactViewCmd.accesskey                  "მ">
-<!ENTITY printPreviewContactViewCmd.label               "შეთვალიერება ამობეჭდვამდე">
+<!ENTITY printPreviewContactViewCmd.label               "პირის მონაცემების შეთვალიერება ამობეჭდვამდე">
 <!ENTITY printPreviewContactViewCmd.accesskey           "შ">
 <!ENTITY printContactViewCmd.key                        "P">
 <!ENTITY printAddressBook.label                         "წიგნაკის ამობეჭდვა…"> 
@@ -32,8 +32,8 @@
 
 <!-- Edit Menu -->
 <!ENTITY deleteAbCmd.label                              "წიგნაკის წაშლა">  
-<!ENTITY deleteContactCmd.label                         "კონტაქტის წაშლა">
-<!ENTITY deleteContactsCmd.label                        "შერჩეული კონტაქტსების წაშლა">
+<!ENTITY deleteContactCmd.label                         "პირის ამოშლა">
+<!ENTITY deleteContactsCmd.label                        "შერჩეული ხალხის ამოშლა">
 <!ENTITY deleteListCmd.label                            "სიის წაშლა">
 <!ENTITY deleteListsCmd.label                           "შერჩეული სიების წაშლა">
 <!ENTITY deleteItemsCmd.label                           "შერჩეული ელემენტების წაშლა">
@@ -51,7 +51,7 @@
 <!ENTITY layoutMenu.accesskey                           "გ">
 <!ENTITY showDirectoryPane.label                        "საქაღალდის არე">
 <!ENTITY showDirectoryPane.accesskey                    "რ">
-<!ENTITY showContactPane2.label                         "კონტაქტების არე">
+<!ENTITY showContactPane2.label                         "პირის მონაცემების არე">
 <!ENTITY showContactPane2.accesskey                     "კ">
 <!ENTITY menu_ShowNameAs.label                          "სახელის ჩვენება როგორც"> 
 <!ENTITY menu_ShowNameAs.accesskey                      "ხ"> 
@@ -69,7 +69,7 @@
 <!ENTITY exportCmd.accesskey                            "ტ">
 
 <!-- Toolbar and Popup items -->  
-<!ENTITY newContactButton.label                         "ახალი კონტაქტი">
+<!ENTITY newContactButton.label                         "ახალი პირი">
 <!ENTITY newContactButton.accesskey                     "ა">
 <!ENTITY newlistButton.label                            "ახალი სია">  
 <!ENTITY newlistButton.accesskey                        "ს">  
@@ -86,7 +86,7 @@
 
 <!-- Tooltips -->
 <!ENTITY addressbookToolbar.tooltip                     "წიგნაკის ხელსაწყოთა ზოლი">
-<!ENTITY newContactButton.tooltip                       "წიგნაკის ახალი კონტაქტის შექმნა">
+<!ENTITY newContactButton.tooltip                       "წიგნაკში ახალი პირის მონაცემების შექმნა">
 <!ENTITY newlistButton.tooltip                          "ახალი სიის შექმნა"> 
 <!ENTITY editItemButton.tooltip                         "შერჩეული ელემენტის რედაქტირება">
 <!ENTITY newmsgButton.tooltip                           "ელფოსტის გაგზავნა"> 
@@ -100,7 +100,7 @@
 
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
-<!ENTITY contact.heading                                "კონტაქტი">
+<!ENTITY contact.heading                                "პირი">
 <!ENTITY home.heading                                   "თავფურცელი">
 <!ENTITY other.heading                                  "სხვა">
 <!ENTITY phone.heading                                  "ტელეფონი">

@@ -25,7 +25,7 @@
 <!ENTITY importDescription1.label "მეგზური სხვა საფოსტო პროგრამებიდან და წიგნაკებიდან &brandShortName; საფოსტო პროგრამაში წერილების, წიგნაკის ჩანაწერების, გამოწერილი არხების, ფილტრებისა და/ან პარამეტრების გადმოტანის საშუალებას მოგცემთ.">
 <!ENTITY importDescription2.label "იმპორტის შემდეგ მათი გამოყენება დაუყოვნებლივ შეგეძლებათ &brandShortName; პროგრამაში.">
 
-<!ENTITY selectDescription.label  "გთხოვთ მიუთითოთ ფაილის ტიპი, რომლიდანაც გსურთ მონაცემთა იმპორტი:">
+<!ENTITY selectDescription.label  "გთხოვთ მიუთითოთ ფაილის სახეობა, რომლიდანაც გსურთ მონაცემთა გადმოტანა:">
 <!ENTITY selectDescriptionB.label "გთხოვთ შეარჩიოთ არსებული ან შექმნათ ახალი ანგარიში:">
 <!ENTITY selectDescription.accesskey "P">
 <!ENTITY acctName.label           "სახელი:">

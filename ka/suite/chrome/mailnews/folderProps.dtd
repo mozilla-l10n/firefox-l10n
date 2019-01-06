@@ -56,7 +56,7 @@
 <!ENTITY privileges.button.label                 "უპირატესობები…">
 <!ENTITY privileges.button.accesskey             "უ">
 <!ENTITY permissionsDesc.label                   "თქვენ გაქვთ შემდეგი უფლებები:">
-<!ENTITY folderType.label                        "დასტის ტიპი:">
+<!ENTITY folderType.label                        "საქაღალდის სახეობა:">
 
 <!ENTITY folderQuotaTab.label                    "ქვოტა">
 <!ENTITY folderQuotaRoot.label                   "ქვოტა:">

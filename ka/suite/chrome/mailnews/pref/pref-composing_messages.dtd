@@ -39,7 +39,7 @@
 <!ENTITY defaultParagraph.label               "პარაგრაფი (Enter ღილაკით, ახალი პარაგრაფის შექმნა)">
 <!ENTITY defaultParagraph.accesskey           "პ">
 
-<!ENTITY selectHeaderType.label               "პასუხის თავსართის ტიპის შერჩევა:">
+<!ENTITY selectHeaderType.label               "პასუხის თავსართის სახეობის შერჩევა:">
 <!ENTITY selectHeaderType.accesskey           "e">
 <!ENTITY noReplyOption.label                  "პასუხის თავსართის გარეშე">
 <!-- LOCALIZATION NOTE (authorWroteOption.label): this is tied to the
