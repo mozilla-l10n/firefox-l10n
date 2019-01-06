@@ -58,7 +58,7 @@
   Strings from aboutDialog.dtd are displayed in this section of the preferences.
   Please check for possible accesskey conflicts.
 -->
-<!ENTITY updateApp2.label                "&brandShortName;-ის განახლებები">
+<!ENTITY updateApp2.label                "&brandShortName; – განახლებები">
 <!-- LOCALIZATION NOTE (updateApp.version.*): updateApp.version.pre is
   followed by a version number, keep the trailing space or replace it with
   a different character as needed. updateApp.version.post is displayed after
@@ -71,8 +71,6 @@
 <!ENTITY updateAuto.accesskey            "თ">
 <!ENTITY updateCheck.label               "შემოწმდეს განახლებებზე, მაგრამ თავად გადაწყვეტთ, დააყენებთ თუ არა">
 <!ENTITY updateCheck.accesskey           "შ">
-<!ENTITY updateManual.label              "არასდროს შემოწმდეს განახლებებზე (არაა სასურველი: მაღალი საფრთხისშემცველია)">
-<!ENTITY updateManual.accesskey          "ა">
 <!ENTITY updateHistory.label             "განახლების ისტორიის ჩვენება">
 <!ENTITY updateHistory.accesskey         "ნ">
 
