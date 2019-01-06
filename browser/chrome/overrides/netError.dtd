@@ -167,6 +167,7 @@ was trying to connect. -->
 <!ENTITY blockedByPolicy.title "Blokkert side">
 
 <!ENTITY certerror.mitm.title "Programvara hindrar &brandShortName; frå trygg tilkopling til denne nettstaden">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "Om du er i eit bedriftsnettverk, kan du kontakte IT-avdelinga di.">
 
 <!ENTITY clockSkewError.title "Klokka på datamaskina di er feil">
 <!ENTITY clockSkewError.longDesc "Datamaskina di trur det er <span id='wrongSystemTime_systemDate1'/>, som hindrar &brandShortName; frå å kople til sikkert. For å besøke <span class='hostname'></span>, oppdater klokka til datamaskina i systeminnstillingane til gjeldende dato, klokkeslett og tidssone, og oppdater deretter <span class='hostname'></span>.">
