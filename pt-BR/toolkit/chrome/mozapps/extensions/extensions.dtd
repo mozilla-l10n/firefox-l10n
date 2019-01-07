@@ -75,7 +75,7 @@
 <!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "Mostrar mais informações">
 <!ENTITY cmd.showDetails.accesskey            "E">
-<!ENTITY cmd.findUpdates.label                "Localizar atualizações">
+<!ENTITY cmd.findUpdates.label                "Procurar atualizações">
 <!ENTITY cmd.findUpdates.accesskey            "V">
 <!ENTITY cmd.preferencesWin.label             "Opções">
 <!ENTITY cmd.preferencesWin.accesskey         "O">
@@ -116,7 +116,7 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "Mostrar as notas de lançamento para esta atualização">
 <!ENTITY cmd.hideReleaseNotes.label           "Ocultar notas da versão">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Ocultar as notas da versão para esta atualização">
-<!ENTITY cmd.findReplacement.label            "Localizar um substituto">
+<!ENTITY cmd.findReplacement.label            "Procurar um substituto">
 
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
@@ -218,7 +218,7 @@ funcionalidades ou estilos extras. Experimente um painel que otimiza seu tempo, 
      These entities form a sentence, with
      disabledUnsigned.description.findAddonsLink being a link to an external site. -->
 <!ENTITY disabledUnsigned.description.start "As seguintes extensões não foram verificadas para uso no &brandShortName;. Você pode ">
-<!ENTITY disabledUnsigned.description.findAddonsLink "localizar substitutos">
+<!ENTITY disabledUnsigned.description.findAddonsLink "procurar substitutos">
 <!ENTITY disabledUnsigned.description.end " ou solicitar que o desenvolvedor peça a sua verificação.">
 <!ENTITY disabledUnsigned.learnMore "Saiba mais sobre nossos esforços para ajudar a manter os usuários seguros.">
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):

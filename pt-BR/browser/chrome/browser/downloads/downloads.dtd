@@ -136,4 +136,4 @@
      This string is shown when some search terms are specified, but there are no
      results in the Downloads view.
      -->
-<!ENTITY downloadsListNoMatch.label       "Não foi possível localizar nenhum download coincidente.">
+<!ENTITY downloadsListNoMatch.label       "Não foi possível encontrar nenhum download coincidente.">
