@@ -166,6 +166,11 @@ was trying to connect. -->
 <!ENTITY blockedByPolicy.title "Бұғатталған бет">
 
 <!ENTITY certerror.mitm.title "Бағдарламалық қамтама &brandShortName; үшін бұл сайтқа қауіпсіз түрде байланысуға жол бермейді">
+<!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> қауіпсіз сайты әбден болуы мүмкін, бірақ, қауіпсіз байланысты орнату мүмкін емес. Бұл мәселе <span class='mitm-name'/> салдарынан болған, ол сіздің компьютеріңіздегі немесе желіңіздегі бағдарламалық қамтама болып табылады.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt1 'Егер сіздің антивирустық БҚ-да шифрленген байланысты сканерлейтін мүмкіндік бар болса ("веб-сканерлеу" немесе "https сканерлеу" деп жиі аталады), ол мүмкіндікті сөндіре аласыз. Егер ол көмектеспесе, антивирустық БҚ-ны өшіріп, қайта орната аласыз.'>
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "Егер сіз кәсіпорындық желіде болсаңыз, АҚТ бөліміне хабарласыңыз.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "Егер сізге <span class='mitm-name'/> бейтаныс болса, онда бұл шабуыл болуы мүмкін, сайтқа өтуді жалғастырмауыңыз жөн болады.">
+<!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "Егер сізге <span class='mitm-name'/> бейтаныс болса, онда бұл шабуыл болуы мүмкін, сайтқа қатынай алмайсыз.">
 
 <!ENTITY clockSkewError.title "Сіздің компьютеріңіздің сағаты қате">
 <!ENTITY clockSkewError.longDesc "Компьютеріңіз қазір <span id='wrongSystemTime_systemDate1'/> деп ойлайды, оның салдарынан &brandShortName; қауіпсіз түрде байланыса алмайды. <span class='hostname'></span> шолу үшін, комьютеріңіздің сағатын дұрыс күн, уақыт және уақыт белдеуі мәндеріне жаңартып, <span class='hostname'></span> жаңартыңыз.">
