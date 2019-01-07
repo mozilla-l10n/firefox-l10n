@@ -12,7 +12,6 @@
 <!ENTITY advanced.label "Кеңейтілген">
 <!ENTITY continue2.label "Көбірек…">
 <!ENTITY moreInformation.label "Көбірек ақпарат">
-
 <!ENTITY viewCertificate.label "Сертификатты қарау">
 
 <!-- Specific error messages -->
@@ -100,9 +99,6 @@ will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "<span class='hostname'/> иесі өз сайтын дұрыс емес баптаған. Ақпаратыңызды ұрланудан қорғау үшін, &brandShortName; бұл веб сайтпен байланыспады.">
 <!ENTITY certerror.introPara2 "&brandShortName; мүмкін қауіпсіздік қауіп-қатерін анықтап, <span class='hostname'/> сайтына өтуді жалғастырмады. Бұл сайтты шолсаңыз, шабуылшылар сіздің парольдер, эл. пошта адрестері немесе несие карта сияқты ақпаратын ұрлау талабын жасауы мүмкін.">
-
-<!ENTITY certerror.expiredCert.secondPara "Бұл мәселе компьютеріңіздің сағаты қате уақыт көрсетіп тұрғаны салдарынан болып тұрған сияқты, нәтижесінде &brandShortName; қауіпсіз түрде байланыса алмады.">
-
 <!ENTITY certerror.sts.introPara "&brandShortName; мүмкін болған қауіпсіздік мәселесін анықтап, <span class='hostname'/> сайтына өтуді жалғастырмады, өйткені бұл сайт қауіпсіз байланысты талап етеді.">
 
 <!ENTITY certerror.expiredCert.introPara "&brandShortName; мәселесні анықтап, <span class='hostname'/> сайтына өтуді жалғастырмады. Бұл веб-сайт дұрыс бапталмаған, немесе компьютеріңіздің сағаты дұрыс уақытты көрсетіп тұрған жоқ.">
@@ -168,6 +164,8 @@ was trying to connect. -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> ескірген және шабуылдарға әлсіз қауіпсіздік технологиясын қолдануда. Шабуылшы сіз қауіпсіз деп ойлаған ақпаратты оңай анықтай алады. Сіз сайтты шолғанға дейін оның әкімшісі серверді ретке келтіруі тиіс.</p><p>Қате коды: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Бұғатталған бет">
+
+<!ENTITY certerror.mitm.title "Бағдарламалық қамтама &brandShortName; үшін бұл сайтқа қауіпсіз түрде байланысуға жол бермейді">
 
 <!ENTITY clockSkewError.title "Сіздің компьютеріңіздің сағаты қате">
 <!ENTITY clockSkewError.longDesc "Компьютеріңіз қазір <span id='wrongSystemTime_systemDate1'/> деп ойлайды, оның салдарынан &brandShortName; қауіпсіз түрде байланыса алмайды. <span class='hostname'></span> шолу үшін, комьютеріңіздің сағатын дұрыс күн, уақыт және уақыт белдеуі мәндеріне жаңартып, <span class='hostname'></span> жаңартыңыз.">
