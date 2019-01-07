@@ -274,12 +274,12 @@
 <!ENTITY getAllNewMessagesCmd.key "y">
 
 <!-- Search Menu -->
-<!ENTITY findMenu.label "Localizar">
+<!ENTITY findMenu.label "Procurar">
 <!ENTITY findMenu.accesskey "z">
 <!ENTITY findCmd.label "Procurar nesta mensagem…">
 <!ENTITY findCmd.accesskey "z">
 <!ENTITY findCmd.key "F">
-<!ENTITY findAgainCmd.label "Localizar próxima">
+<!ENTITY findAgainCmd.label "Procurar próxima">
 <!ENTITY findAgainCmd.accesskey "L">
 <!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.key2 "VK_F3">
@@ -689,7 +689,7 @@
 <!ENTITY folderContextSettings2.accesskey "C">
 
 <!-- Search Bar -->
-<!ENTITY SearchNameOrEmail.label "Localizar nome ou e-mail:">
+<!ENTITY SearchNameOrEmail.label "O nome ou o e-mail contém:">
 <!ENTITY SearchNameOrEmail.accesskey "z">
 
 <!-- Gloda Search Bar -->
