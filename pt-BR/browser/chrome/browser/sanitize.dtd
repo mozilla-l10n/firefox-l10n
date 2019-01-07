@@ -13,7 +13,7 @@
 <!-- LOCALIZATION NOTE (sanitizeDialog2.width): width of the Clear Recent History dialog -->
 <!ENTITY sanitizeDialog2.width         "34em">
 
-<!ENTITY clearDataSettings4.label     "Ao fechar o &brandShortName; deve limpar tudo automaticamente">
+<!ENTITY clearDataSettings4.label     "Ao fechar, o &brandShortName; deve limpar automaticamente:">
 
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
@@ -34,7 +34,7 @@ that require it.  -->
 
 <!ENTITY itemHistoryAndDownloads.label     "Histórico de navegação e downloads">
 <!ENTITY itemHistoryAndDownloads.accesskey "H">
-<!ENTITY itemFormSearchHistory.label       "Campos memorizados de páginas e da pesquisa">
+<!ENTITY itemFormSearchHistory.label       "Histórico de formulários e pesquisa">
 <!ENTITY itemFormSearchHistory.accesskey   "C">
 <!ENTITY itemCookies.label                 "Cookies">
 <!ENTITY itemCookies.accesskey             "o">
