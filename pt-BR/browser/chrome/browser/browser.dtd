@@ -866,7 +866,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.moreInfoLinkText2 "Mais informações">
 
-<!ENTITY identity.clearSiteData "Limpar os cookies e dados do site…">
+<!ENTITY identity.clearSiteData "Limpar cookies e dados de sites…">
 
 <!ENTITY identity.permissions "Permissões">
 <!ENTITY identity.permissionsEmpty "Você não concedeu permissões especiais a este site.">
@@ -1042,7 +1042,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackersView.strictInfo.label "Para bloquear todos os rastreadores, defina o bloqueio de conteúdo como “Rigoroso”.">
 
 <!ENTITY contentBlocking.cookies.label "Cookies">
-<!ENTITY contentBlocking.cookiesView.label "Cookies e Dados de sites">
+<!ENTITY contentBlocking.cookiesView.label "Cookies e dados de sites">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Reportar um problema">
 <!ENTITY contentBlocking.breakageReportView.label "Reportar problemas">
