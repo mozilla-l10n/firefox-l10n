@@ -179,3 +179,4 @@ was trying to connect. -->
 <!ENTITY prefReset.label "Berrezarri ezarpen lehenetsiak">
 
 <!ENTITY networkProtocolError.title "Sare-protokoloaren errorea">
+<!ENTITY networkProtocolError.longDesc "<p>Ikusten saiatzen ari zaren orria ezin da erakutsi errore bat detektatu delako sareko protokoloan.</p><ul><li>Jar zaitez harremanetan webgunearen jabeekin arazo honen berri emateko.</li></ul>">
