@@ -13,17 +13,21 @@
 
 <!-- LOCALIZATION NOTE (performanceUI.bufferStatusTooltip): This string
   -  is displayed as the tooltip for the buffer capacity during a recording. -->
+<!ENTITY performanceUI.bufferStatusTooltip "Trình lược tả lưu các mẫu trong bộ đệm tròn và khi bộ đệm đạt đến giới hạn cho bản ghi, các mẫu mới hơn bắt đầu ghi đè lên các mẫu khi bắt đầu ghi.">
 
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.disabledE10S): This string
   -  is displayed as a message for why the real time overview graph is disabled
   -  when running on a build that can run multiprocess Firefox, but just is not enabled. -->
+<!ENTITY performanceUI.disabledRealTime.disabledE10S "Cho phép xử lý đa tiến trình Firefox trong tùy chọn để hiển thị dữ liệu ghi trong thời gian thực.">
 
 <!-- LOCALIZATION NOTE (performanceUI.bufferStatusFull): This string
   -  is displayed when the profiler's circular buffer has started to overlap. -->
+<!ENTITY performanceUI.bufferStatusFull "Bộ đệm đã đầy. Các mẫu cũ hơn hiện đang được ghi đè.">
 
 <!-- LOCALIZATION NOTE (performanceUI.unavailableNoticePB): This is the label shown
   -  in the details view while the profiler is unavailable, for example, while
   -  in Private Browsing mode. -->
+<!ENTITY performanceUI.unavailableNoticePB "Ghi lại một hồ sơ hiện không có sẵn. Vui lòng đóng tất cả các cửa sổ duyệt web riêng tư và thử lại.">
 
 <!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
   -  in the details view while loading a profile. -->
@@ -32,13 +36,19 @@
 <!-- LOCALIZATION NOTE (performanceUI.toolbar.*): These strings are displayed
   -  in the toolbar on buttons that select which view is currently shown. -->
 <!ENTITY performanceUI.toolbar.waterfall "Thác nước">
+<!ENTITY performanceUI.toolbar.waterfall.tooltiptext "Hiển thị các hoạt động khác nhau mà trình duyệt đang thực hiện trong quá trình ghi, được trình bày tuần tự như một thác nước.">
 <!ENTITY performanceUI.toolbar.js-calltree "Cây">
+<!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "Làm nổi bật các chức năng JavaScript mà khi đó trình duyệt dành nhiều thời gian nhất trong quá trình ghi.">
+<!ENTITY performanceUI.toolbar.js-flamegraph "Biểu đồ JS Flame">
+<!ENTITY performanceUI.toolbar.js-flamegraph.tooltiptext "Hiển thị ngăn xếp lệnh gọi JavaScript trong suốt quá trình ghi.">
 
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
 <!ENTITY performanceUI.table.totalDuration            "Tổng thời gian">
 <!ENTITY performanceUI.table.samples                  "Mẫu">
+<!ENTITY performanceUI.table.samples.tooltip          "Số lần hàm này nằm trên ngăn xếp khi trình lược tả lấy mẫu.">
 <!ENTITY performanceUI.table.function                 "Hàm">
+<!ENTITY performanceUI.table.function.tooltip         "Tên và vị trí nguồn của hàm được lấy mẫu.">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->
