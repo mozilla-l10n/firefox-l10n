@@ -32,22 +32,25 @@
 <!-- LOCALIZATION NOTE (performanceUI.toolbar.*): These strings are displayed
   -  in the toolbar on buttons that select which view is currently shown. -->
 <!ENTITY performanceUI.toolbar.waterfall "Thác nước">
-<!ENTITY performanceUI.toolbar.js-calltree "Cây gọi">
+<!ENTITY performanceUI.toolbar.js-calltree "Cây">
 
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
+<!ENTITY performanceUI.table.totalDuration            "Tổng thời gian">
 <!ENTITY performanceUI.table.samples                  "Mẫu">
 <!ENTITY performanceUI.table.function                 "Hàm">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->
+<!ENTITY performanceUI.options.filter.tooltiptext "Chọn kiểu dữ liệu sẽ hiển thị trong dòng thời gian">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.gear.tooltiptext): This is the
   -  tooltip for the options button. -->
+<!ENTITY performanceUI.options.gear.tooltiptext "Cấu hình tùy chọn hiệu suất.">
 
 <!-- LOCALIZATION NOTE (performanceUI.invertTree): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's call tree. -->
-<!ENTITY performanceUI.invertTree             "Đảo ngược cây gọi">
+<!ENTITY performanceUI.invertTree             "Đảo ngược cây">
 
 <!-- LOCALIZATION NOTE (performanceUI.invertFlameGraph): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's flame graph. -->
@@ -55,6 +58,7 @@
 <!-- LOCALIZATION NOTE (performanceUI.showPlatformData): This is the
   -  label for the checkbox that toggles whether or not Gecko platform data
   -  is displayed in the profiler. -->
+<!ENTITY performanceUI.showPlatformData             "Hiện dữ liệu nền tảng Gecko">
 
 <!-- LOCALIZATION NOTE (performanceUI.showJITOptimizations): This string
   -  is displayed next to a checkbox determining whether or not JIT optimization data
@@ -68,6 +72,8 @@
 <!-- LOCALIZATION NOTE (performanceUI.enableMemory): This string
   -  is displayed next to a checkbox determining whether or not memory
   -  measurements are enabled. -->
+<!ENTITY performanceUI.enableMemory             "Bản ghi bộ nhớ">
+<!ENTITY performanceUI.enableMemory.tooltiptext "Ghi lại mức tiêu thụ bộ nhớ trong khi định hình.">
 
 <!-- LOCALIZATION NOTE (performanceUI.enableAllocations): This string
   -  is displayed next to a checkbox determining whether or not allocation
