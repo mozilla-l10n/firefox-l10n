@@ -173,6 +173,7 @@ hardware-h264 = Akestengel H264 s useqdec n warrum
 main-thread-no-omtc = akala afessas agejdan, ulac OMTC
 yes = Ih
 no = Ala
+unknown = Arussin
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
