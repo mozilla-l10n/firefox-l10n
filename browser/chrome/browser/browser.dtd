@@ -111,6 +111,10 @@ These items have the same accesskey but will never be visible at the same time. 
 
 <!ENTITY  listAllTabs.label      "Барлық беттерді тізіп шығу">
 
+<!-- LOCALIZATION NOTE (allTabsMenu.searchTabs.label): "Search" is a verb, as
+in "Search through tabs". -->
+<!ENTITY  allTabsMenu.searchTabs.label       "Беттерден іздеу">
+
 <!ENTITY tabCmd.label "Жаңа бет">
 <!ENTITY tabCmd.accesskey "б">
 <!ENTITY tabCmd.commandkey "t">
@@ -285,6 +289,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Браузер қашықтан басқарылуда">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Веб аутентификация панелін ашу">
 
+<!ENTITY urlbar.storageAccessAnchor.tooltip               "Веб-шолу кезіндегі рұқсаттардың панелін ашу">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Камераңыз және/немесе микрофонмен бұл сайтпен бөлісуді басқару">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Микрофоныңызбен бұл сайтпен бөлісуді басқару">

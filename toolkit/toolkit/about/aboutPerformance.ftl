@@ -10,6 +10,7 @@ about-performance-title = Тапсырмалар басқарушысы
 column-name = Атауы
 column-type = Түрі
 column-energy-impact = Энергияның әсері
+column-memory = Жады
 
 ## Special values for the Name column
 
@@ -37,6 +38,15 @@ type-other = Басқа
 energy-impact-high = Жоғары ({ $value })
 energy-impact-medium = Орташа ({ $value })
 energy-impact-low = Төмен ({ $value })
+
+## Values for the Memory column
+##
+## Variables:
+##   $value (Number) - How much memory is used
+
+size-KB = { $value } КБ
+size-MB = { $value } МБ
+size-GB = { $value } ГБ
 
 ## Tooltips for the action buttons
 

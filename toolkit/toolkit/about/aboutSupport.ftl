@@ -173,6 +173,8 @@ hardware-h264 = Құрылғылық H264 декодтау
 main-thread-no-omtc = басты ағын, OMTC жоқ
 yes = Иә
 no = Жоқ
+unknown = Белгісіз
+virtual-monitor-disp = Виртуалды монитор экраны
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
@@ -180,6 +182,8 @@ no = Жоқ
 
 found = Табылған
 missing = Жоқ
+gpu-process-pid = GPUProcessPid
+gpu-process = GPUProcess
 gpu-description = Сипаттамасы
 gpu-vendor-id = Vendor ID
 gpu-device-id = Device ID
@@ -212,6 +216,7 @@ d3d9video-crash-buard = D3D9 видео декодері
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Келесі іске қосылған кезде тастау
 gpu-process-kill-button = GPU процесін тоқтату
+gpu-device-reset = Құрылғыны қалпына келтіру
 gpu-device-reset-button = Құрылғыны тастауды орындау
 uses-tiling = Тайлингті қолданады
 content-uses-tiling = Тайлинг қолданады (мазмұны)
