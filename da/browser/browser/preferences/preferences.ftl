@@ -718,10 +718,6 @@ content-blocking-setting-custom =
   .label = Tilpasset
   .accesskey = T
 
-content-blocking-standard-desc = Balanceret mellem beskyttelse og ydelse. Tillader nogle sporings-tjenester for at websteder kan fungere ordentligt.
-content-blocking-strict-desc = Blokerer alle sporings-tjenester, som { -brand-short-name } opdager. Kan forhindre nogle websteder i at fungere.
-content-blocking-custom-desc = Vælg selv, hvad der skal blokeres.
-
 content-blocking-standard-description = Blokerer kun kendte sporings-tjenester i private vinduer
 content-blocking-standard-desc = Balanceret mellem beskyttelse og ydelse. Tillader nogle sporings-tjenester for at websteder kan fungere ordentligt.
 content-blocking-strict-desc = Blokerer alle sporings-tjenester, som { -brand-short-name } opdager. Kan forhindre nogle websteder i at fungere.
