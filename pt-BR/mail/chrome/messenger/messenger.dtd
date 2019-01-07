@@ -276,7 +276,7 @@
 <!-- Search Menu -->
 <!ENTITY findMenu.label "Localizar">
 <!ENTITY findMenu.accesskey "z">
-<!ENTITY findCmd.label "Localizar nesta mensagem…">
+<!ENTITY findCmd.label "Procurar nesta mensagem…">
 <!ENTITY findCmd.accesskey "z">
 <!ENTITY findCmd.key "F">
 <!ENTITY findAgainCmd.label "Localizar próxima">
@@ -440,9 +440,6 @@
 <!ENTITY openMessageWindowCmd.label "Abrir mensagem">
 <!ENTITY openMessageWindowCmd.accesskey "b">
 <!ENTITY openMessageWindowCmd.key "o">
-<!ENTITY openConversationCmd.label "Abrir como conversa">
-<!ENTITY openConversationCmd.accesskey "s">
-<!ENTITY openConversationCmd.key "o">
 <!ENTITY openInConversationCmd.label "Abrir na conversa">
 <!ENTITY openInConversationCmd.accesskey "s">
 <!ENTITY openInConversationCmd.key "o">
