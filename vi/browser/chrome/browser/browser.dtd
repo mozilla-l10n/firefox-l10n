@@ -125,9 +125,9 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY openFileCmd.label "Mở tập tin…">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.commandkey "o">
-<!ENTITY printSetupCmd.label "Thiết lập trang in…">
+<!ENTITY printSetupCmd.label "Thiết lập trang…">
 <!ENTITY printSetupCmd.accesskey "u">
-<!ENTITY printPreviewCmd.label "Xem thử trước khi in">
+<!ENTITY printPreviewCmd.label "Xem trước khi in">
 <!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "In…">
 <!ENTITY printCmd.accesskey "P">

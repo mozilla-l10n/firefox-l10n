@@ -30,7 +30,7 @@
 <!ENTITY p175.label           "175&#037;">
 <!ENTITY p200.label           "200&#037;">
 <!ENTITY Custom.label         "Tùy biến…">
-<!ENTITY ShrinkToFit.label    "Co lại cho Vừa">
+<!ENTITY ShrinkToFit.label    "Co lại cho vừa">
 <!ENTITY customPrompt.title   "Tùy biến Tỉ lệ…">
 <!ENTITY simplifyPage.label   "Đơn giản hóa trang">
 <!ENTITY simplifyPage.accesskey "i">
