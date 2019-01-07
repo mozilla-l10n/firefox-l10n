@@ -38,3 +38,4 @@ return-to-amo-sub-header = Тамаша, сіз { -brand-short-name } орнат
 #   $addon-name (String) - Name of the add-on
 return-to-amo-addon-header = Енді <icon></icon><b>{ $addon-name }</b> орнатайық.
 return-to-amo-extension-button = Кеңейтуді қосу
+return-to-amo-get-started-button = { -brand-short-name } өнімімен жұмысты бастау
