@@ -181,6 +181,8 @@ unknown = Ezezaguna
 
 found = Aurkitua
 missing = Falta da
+gpu-process-pid = GPUProcessPid
+gpu-process = GPUProcess
 gpu-description = Deskribapena
 gpu-vendor-id = Hornitzailearen IDa
 gpu-device-id = Gailuaren IDa
@@ -213,6 +215,7 @@ d3d9video-crash-buard = D3D9 bideo-deskodetzailea
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Berrezarri hurrengo berrabiaraztean
 gpu-process-kill-button = Amaitu GPU prozesua
+gpu-device-reset = Gailua berrabiaraztea
 gpu-device-reset-button = Abiarazi gailua berrabiaraztea
 uses-tiling = Mosaikoa darabil
 content-uses-tiling = Mosaikoa darabil (edukia)
