@@ -178,6 +178,7 @@ hardware-h264 = Аппаратное декодирование H264
 main-thread-no-omtc = главный поток, без OMTC
 yes = Да
 no = Нет
+unknown = Неизвестно
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
@@ -185,6 +186,8 @@ no = Нет
 
 found = Найден
 missing = Отсутствует
+gpu-process-pid = GPUProcessPid
+gpu-process = GPUProcess
 gpu-description = Описание
 gpu-vendor-id = Код производителя
 gpu-device-id = Код устройства
@@ -217,6 +220,7 @@ d3d9video-crash-buard = Видеодекодер D3D9
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Сбросить при следующем перезапуске
 gpu-process-kill-button = Завершить процесс видеокарты
+gpu-device-reset = Сбросить устройство
 gpu-device-reset-button = Выполнить сброс устройства
 uses-tiling = Использует тайлинг
 content-uses-tiling = Использует тайлинг (контент)
@@ -255,7 +259,7 @@ async-pan-zoom = Асинхронное панорамирование/зум
 apz-none = нет
 wheel-enabled = включён ввод колесиком
 touch-enabled = включён сенсорный ввод
-drag-enabled = включён драг полосы прокрутки
+drag-enabled = включено перетаскивание полосы прокрутки
 keyboard-enabled = клавиатура включена
 autoscroll-enabled = автопрокрутка включена
 
