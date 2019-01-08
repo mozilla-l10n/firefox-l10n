@@ -20,7 +20,7 @@
 
 # LOCALIZATION NOTE (mozilla_org_long):
 # link title for https://www.mozilla.org/ (in normal bookmarks)
-#define mozilla_org_long Mozilla-ს ორგანიზაცია
+#define mozilla_org_long Mozilla-ს დაწესებულება
 
 #define extend_seamonkey SeaMonkey-ის გაფართოება
 
