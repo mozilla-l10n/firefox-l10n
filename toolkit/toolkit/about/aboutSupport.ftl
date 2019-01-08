@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 page-title = Información para solucionar problemas
-page-subtitle =   Esta página presenta información técnica que puede ser de ayuda si necesitas resolver un problema. Para obtener respuestas a preguntas comunes sobre { -brand-short-name } visita nuestro <a data-l10n-name="support-link">sitio web de soporte</a>.
+page-subtitle = Esta página presenta información técnica que puede ser de ayuda si necesitas resolver un problema. Para obtener respuestas a preguntas comunes sobre { -brand-short-name } visita nuestro <a data-l10n-name="support-link">sitio web de soporte</a>.
 crashes-title = Reporte de fallos
 crashes-id = ID del reporte
 crashes-send-date = Enviado
@@ -174,6 +174,7 @@ main-thread-no-omtc = hilo principal, no OMTC
 yes = Sí
 no = No
 unknown = Desconocido
+virtual-monitor-disp = Pantalla de monitor virtual
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
@@ -182,6 +183,7 @@ unknown = Desconocido
 found = Encontrada
 missing = Ausente
 gpu-process-pid = GPUProcessPid
+gpu-process = GPUProcess
 gpu-description = Descripción
 gpu-vendor-id = ID de vendedor
 gpu-device-id = ID de dispositivo
