@@ -725,6 +725,7 @@ content-blocking-setting-custom =
     .label = Oma
     .accesskey = O
 content-blocking-standard-description = Estää tunnetut seuraimet vain yksityisissä ikkunoissa.
+content-blocking-standard-desc = Tasapuolinen suojauksen ja suorituskyvyn välillä. Sallii jotkin seuraimet, jotta verkkosivustot toimivat.
 content-blocking-strict-desc = Estää kaikki { -brand-short-name }in havaitsemat seuraimet. Voi aiheuttaa joidenkin sivustojen toimimattomuutta.
 content-blocking-custom-desc = Valitse, mitä estetään.
 content-blocking-private-trackers = Tunnetut seuraimet vain yksityisissä ikkunoissa
