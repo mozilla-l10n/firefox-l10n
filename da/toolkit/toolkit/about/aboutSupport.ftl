@@ -219,6 +219,7 @@ d3d9video-crash-buard = D3D9-videodekoder
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Nulstil ved næste genstart
 gpu-process-kill-button = Afslut GPU-process
+gpu-device-reset = Device Reset
 gpu-device-reset-button = Trigger Device Reset
 uses-tiling = Anvender tiling
 content-uses-tiling = Anvender tiling (indhold)
