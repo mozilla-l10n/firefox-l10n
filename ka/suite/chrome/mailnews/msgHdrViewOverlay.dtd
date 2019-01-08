@@ -5,7 +5,7 @@
 <!ENTITY toField.label "ვის: ">
 <!ENTITY fromField.label "ვისგან: ">
 <!ENTITY senderField.label "გამგზავნი: ">
-<!ENTITY organizationField.label "ორგანიზაცია: ">
+<!ENTITY organizationField.label "დაწესებულება: ">
 <!ENTITY replyToField.label "პასუხი: ">
 
 <!ENTITY subjectField.label "თემა: ">
