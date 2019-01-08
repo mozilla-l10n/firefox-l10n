@@ -745,6 +745,17 @@ content-blocking-tracking-protection-option-always =
 content-blocking-tracking-protection-option-private =
     .label = Kun i private vinduer
     .accesskey = p
+
+content-blocking-trackers-label =
+  .label = Sporings-elementer
+  .accesskey = S
+content-blocking-tracking-protection-option-all-windows =
+  .label = I alle vinduer
+  .accesskey = a
+content-blocking-option-private =
+  .label = Kun i private vinduer
+  .accesskey = p
+
 content-blocking-tracking-protection-change-block-list = Skift blokeringsliste
 
 content-blocking-third-party-cookies-label =
