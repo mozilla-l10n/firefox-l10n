@@ -193,7 +193,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY PrimaryEmail.accesskey                         "ე">
 <!ENTITY ChatName.label                                 "გამოსაჩენი სახელი">
 <!ENTITY ChatName.accesskey                             "ჩ">
-<!ENTITY Company.label                                  "ორგანიზაცია">
+<!ENTITY Company.label                                  "დაწესებულება">
 <!ENTITY Company.accesskey                              "ზ">
 <!ENTITY NickName.label                                 "მეტსახელი">
 <!ENTITY NickName.accesskey                             "ტ">
