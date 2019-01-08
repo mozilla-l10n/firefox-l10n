@@ -170,7 +170,7 @@ was trying to connect. -->
 <!ENTITY blockedByPolicy.title "Blokkert side">
 
 <!ENTITY certerror.mitm.title "Programvare hindrer &brandShortName; fra sikker tilkobling til dette nettstedet">
-<!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> er sannsynligvis et sikkert nettsted, men en sikker tilslutning kunne ikke etableres. Problemet forårsakes av <span class='mitm-name'/> som enten er et program på din datamaskin eller ditt nettverk.">
+<!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> er sannsynligvis et sikkert nettsted, men en sikker tilkobling kunne ikke etableres. Problemet forårsakes av <span class='mitm-name'/> som enten er et program på din datamaskin eller ditt nettverk.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "Hvis antivirusprogrammet ditt inneholder en funksjon som skanner krypterte tilkoblinger (ofte kalt «webscanning» eller «https-skanning»), kan du deaktivere denne funksjonen. Hvis det ikke virker, kan du fjerne og installere antivirusprogrammet på nytt.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "Om du er i et bedriftsnettverk, kan du kontakte din IT-avdeling.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "Hvis du ikke kjenner til <span class='mitm-name'/>, kan dette være et angrep, og du bør ikke fortsette til nettstedet.">
