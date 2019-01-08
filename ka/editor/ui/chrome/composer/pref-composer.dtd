@@ -7,7 +7,7 @@
 <!--LOCALIZATION NOTE : FILE 'Composer' prefs dialog. Similar to Communcator 4.x Document Properties/Colors and Background -->
 
 <!--LOCALIZATION NOTE (pref.composer.title): DONT_TRANSLATE -->
-<!ENTITY  pref.composer.title           "შემქმნელი">
+<!ENTITY  pref.composer.title           "შემდგენი">
 <!ENTITY  recentFiles.title             "ბოლო გვერდები">
 <!ENTITY  documentsInMenu.label         "სიაში გვერდების მაქსიმალური რაოდენობა:">
 <!ENTITY  documentsInMenu.accesskey     "ს">

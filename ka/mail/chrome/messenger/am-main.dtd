@@ -16,8 +16,8 @@
 <!ENTITY replyTo.label "მისამართი პასუხისათვის:">
 <!ENTITY replyTo.accesskey "მ">
 <!ENTITY replyTo.placeholder "მიმღებები ამას უპასუხებენ სხვა მისამართზე">
-<!ENTITY organization.label "ორგანიზაცია:">
-<!ENTITY organization.accesskey "ო">
+<!ENTITY organization.label "დაწესებულება:">
+<!ENTITY organization.accesskey "წ">
 <!ENTITY signatureText.label "ხელმოწერის ტექსტი:">
 <!ENTITY signatureText.accesskey "ქ">
 <!ENTITY signatureHtml.label "HTML კოდის გამოყენება (მაგ., &lt;b&gt;მუქი&lt;/b&gt;)">

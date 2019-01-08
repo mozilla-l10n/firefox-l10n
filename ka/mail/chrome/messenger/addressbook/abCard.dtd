@@ -88,7 +88,7 @@
 <!ENTITY JobTitle.accesskey             "ნ">
 <!ENTITY Department.label               "განყოფილება:">
 <!ENTITY Department.accesskey           "ფ">
-<!ENTITY Company.label                  "ორგანიზაცია:">
+<!ENTITY Company.label                  "დაწესებულება:">
 <!ENTITY Company.accesskey              "ო">
 <!ENTITY WorkAddress.label              "მისამართი:">
 <!ENTITY WorkAddress.accesskey          "მ">
