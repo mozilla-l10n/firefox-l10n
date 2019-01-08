@@ -27,6 +27,6 @@ state-dd-enabled = <span data-l10n-name="state">Состояние:</span> Вк�
 state-dd-enabled-block-list-state = <span data-l10n-name="state">Состояние:</span> Включён ({ $blockListState })
 state-dd-Disabled = <span data-l10n-name="state">Состояние:</span> Отключён
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">Состояние:</span> Отключён ({ $blockListState })
-mime-type-label = Тип MIME
+mime-type-label = MIME-тип
 description-label = Описание
 suffixes-label = Суффиксы
