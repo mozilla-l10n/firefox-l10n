@@ -440,9 +440,6 @@
 <!ENTITY openMessageWindowCmd.label "Agor Neges">
 <!ENTITY openMessageWindowCmd.accesskey "A">
 <!ENTITY openMessageWindowCmd.key "o">
-<!ENTITY openConversationCmd.label "Agor mewn Sgwrs">
-<!ENTITY openConversationCmd.accesskey "S">
-<!ENTITY openConversationCmd.key "o">
 <!ENTITY openInConversationCmd.label "Agor mewn Sgwrs">
 <!ENTITY openInConversationCmd.accesskey "s">
 <!ENTITY openInConversationCmd.key "o">
@@ -795,6 +792,8 @@
 <!ENTITY contextMoveMsgMenu.accesskey "S">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Diweddar">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "D">
+<!ENTITY contextMoveCopyMsgFavoritesMenu.label "Ffefrynnau">
+<!ENTITY contextMoveCopyMsgFavoritesMenu.accesskey "F">
 <!ENTITY contextCopyMsgMenu.label "Copïo i">
 <!ENTITY contextCopyMsgMenu.accesskey "C">
 <!ENTITY contextKillThreadMenu.label "Anwybyddu'r Edefyn">
