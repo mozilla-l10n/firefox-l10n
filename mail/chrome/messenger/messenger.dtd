@@ -440,9 +440,6 @@
 <!ENTITY openMessageWindowCmd.label "Öppna meddelande">
 <!ENTITY openMessageWindowCmd.accesskey "p">
 <!ENTITY openMessageWindowCmd.key "o">
-<!ENTITY openConversationCmd.label "Öppna i konversation">
-<!ENTITY openConversationCmd.accesskey "s">
-<!ENTITY openConversationCmd.key "o">
 <!ENTITY openInConversationCmd.label "Öppna i konversation">
 <!ENTITY openInConversationCmd.accesskey "s">
 <!ENTITY openInConversationCmd.key "o">
@@ -795,6 +792,8 @@
 <!ENTITY contextMoveMsgMenu.accesskey "F">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Tidigare">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "T">
+<!ENTITY contextMoveCopyMsgFavoritesMenu.label "Favoriter">
+<!ENTITY contextMoveCopyMsgFavoritesMenu.accesskey "F">
 <!ENTITY contextCopyMsgMenu.label "Kopiera till">
 <!ENTITY contextCopyMsgMenu.accesskey "o">
 <!ENTITY contextKillThreadMenu.label "Ignorera tråd">
