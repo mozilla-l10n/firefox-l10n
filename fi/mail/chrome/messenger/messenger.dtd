@@ -166,7 +166,7 @@
 <!ENTITY unreadFolders.accesskey "L">
 <!ENTITY favoriteFolders.label "Suosikit">
 <!ENTITY favoriteFolders.accesskey "S">
-<!ENTITY recentFolders.label "Tuoreet">
+<!ENTITY recentFolders.label "Nykyinen">
 <!ENTITY recentFolders.accesskey "u">
 <!ENTITY compactVersion.label "Tiivis näkkymä">
 <!ENTITY compactVersion.accesskey "T">
@@ -380,7 +380,7 @@
 <!ENTITY createFilter.accesskey "d">
 <!ENTITY moveMsgToMenu.label "Siirrä">
 <!ENTITY moveMsgToMenu.accesskey "S">
-<!ENTITY moveCopyMsgRecentMenu.label "Tuoreet">
+<!ENTITY moveCopyMsgRecentMenu.label "Nykyinen">
 <!ENTITY moveCopyMsgRecentMenu.accesskey "T">
 <!ENTITY copyMessageLocation.label "Kopioi viestin sijainti">
 <!ENTITY copyMessageLocation.accesskey "o">
@@ -440,9 +440,6 @@
 <!ENTITY openMessageWindowCmd.label "Avaa viesti">
 <!ENTITY openMessageWindowCmd.accesskey "i">
 <!ENTITY openMessageWindowCmd.key "o">
-<!ENTITY openConversationCmd.label "Avaa keskusteluna">
-<!ENTITY openConversationCmd.accesskey "k">
-<!ENTITY openConversationCmd.key "o">
 <!ENTITY openInConversationCmd.label "Avaa keskusteluna">
 <!ENTITY openInConversationCmd.accesskey "k">
 <!ENTITY openInConversationCmd.key "o">
@@ -793,8 +790,10 @@
 <!ENTITY contextMultiForwardAsAttachment.accesskey "i">
 <!ENTITY contextMoveMsgMenu.label "Siirrä kansioon">
 <!ENTITY contextMoveMsgMenu.accesskey "S">
-<!ENTITY contextMoveCopyMsgRecentMenu.label "Tuoreet">
+<!ENTITY contextMoveCopyMsgRecentMenu.label "Nykyinen">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "T">
+<!ENTITY contextMoveCopyMsgFavoritesMenu.label "Suosikit">
+<!ENTITY contextMoveCopyMsgFavoritesMenu.accesskey "o">
 <!ENTITY contextCopyMsgMenu.label "Kopioi kansioon">
 <!ENTITY contextCopyMsgMenu.accesskey "K">
 <!ENTITY contextKillThreadMenu.label "Ohita viestiketju">
