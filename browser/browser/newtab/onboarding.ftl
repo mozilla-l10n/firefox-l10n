@@ -20,3 +20,8 @@ onboarding-fxa-title = Sync
 
 ## Message strings belonging to the Return to AMO flow
 
+# <icon></icon> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-header = अब तपाईँको निम्ति <icon></icon><b>{ $addon-name }</b> प्राप्त गरौँ ।
