@@ -440,9 +440,6 @@
 <!ENTITY openMessageWindowCmd.label "Otvoriť správu">
 <!ENTITY openMessageWindowCmd.accesskey "t">
 <!ENTITY openMessageWindowCmd.key "o">
-<!ENTITY openConversationCmd.label "Otvoriť ako konverzáciu">
-<!ENTITY openConversationCmd.accesskey "c">
-<!ENTITY openConversationCmd.key "o">
 <!ENTITY openInConversationCmd.label "Otvoriť ako konverzáciu">
 <!ENTITY openInConversationCmd.accesskey "c">
 <!ENTITY openInConversationCmd.key "o">
@@ -795,6 +792,8 @@
 <!ENTITY contextMoveMsgMenu.accesskey "P">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Naposledy použité">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "N">
+<!ENTITY contextMoveCopyMsgFavoritesMenu.label "Obľúbené položky">
+<!ENTITY contextMoveCopyMsgFavoritesMenu.accesskey "O">
 <!ENTITY contextCopyMsgMenu.label "Skopírovať do">
 <!ENTITY contextCopyMsgMenu.accesskey "r">
 <!ENTITY contextKillThreadMenu.label "Ignorovať vlákno">
