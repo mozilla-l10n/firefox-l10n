@@ -237,6 +237,8 @@ uses-tiling = Gebruikt Tiling
 content-uses-tiling = Gebruikt Tiling (Inhoud)
 off-main-thread-paint-enabled = Off Main Thread Painting ingeschakeld
 off-main-thread-paint-worker-count = Aantal Off Main Thread Painting-workers
+low-end-machine = Minder krachtige machine gedetecteerd
+target-frame-rate = Doelframerate
 
 audio-backend = Audio-backend
 max-audio-channels = Max. kanalen
