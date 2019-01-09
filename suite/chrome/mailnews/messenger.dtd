@@ -483,6 +483,8 @@
 <!ENTITY contextCopyMsgMenu.accesskey "r">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Naposledy použité">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "N">
+<!ENTITY contextMoveCopyMsgFavoritesMenu.label "Obľúbené položky">
+<!ENTITY contextMoveCopyMsgFavoritesMenu.accesskey "O">
 <!ENTITY contextSaveAs.label "Uložiť ako…">
 <!ENTITY contextSaveAs.accesskey "a">
 <!ENTITY contextPrint.label "Tlačiť…">
