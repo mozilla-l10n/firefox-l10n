@@ -30,3 +30,5 @@ helpus = Wëllt Dir eis hëllefen? <label data-l10n-name="helpus-donateLink">Maa
 bottomLinks-license = Lizenz Informatiounen
 bottomLinks-rights = Endbenotzerrechter
 bottomLinks-privacy = Dateschutzbestëmmungen
+aboutDialog-architecture-sixtyFourBit = 64-Bit
+aboutDialog-architecture-thirtyTwoBit = 32-Bit
