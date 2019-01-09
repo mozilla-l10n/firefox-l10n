@@ -154,7 +154,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY editContactContext.accesskey                   "ჩ">
 <!ENTITY editMailingListContext.label                   "სიის ჩასწორება">
 <!ENTITY editMailingListContext.accesskey               "ს">
-<!ENTITY newmsgButton.label                             "შედგენა">
+<!ENTITY newmsgButton.label                             "მიწერა">
 <!ENTITY newmsgButton.accesskey                         "შ">
 <!ENTITY newIM.label                                    "სწრაფი შეტყობინება">
 <!ENTITY newIM.accesskey                                "წ">

@@ -385,7 +385,7 @@
 <!ENTITY copyMessageLocation.label "წერილის მისამართის ასლი">
 <!ENTITY copyMessageLocation.accesskey "მ">
 <!ENTITY copyMsgToMenu.label "ასლი">
-<!ENTITY copyMsgToMenu.accesskey "კ">
+<!ENTITY copyMsgToMenu.accesskey "ლ">
 <!ENTITY moveToFolderAgain.label "კვლავ გადატანა">
 <!ENTITY moveToFolderAgain.accesskey "დ">
 <!ENTITY moveToFolderAgainCmd.key "m">
@@ -536,7 +536,7 @@
 
 <!-- Mail Toolbar -->
 <!ENTITY getMsgButton1.label "ფოსტის მიღება">
-<!ENTITY newMsgButton.label "შედგენა">
+<!ENTITY newMsgButton.label "მიწერა">
 <!ENTITY replyButton.label "პასუხი">
 <!ENTITY replyAllButton.label "პასუხი ყველას">
 <!ENTITY replyListButton.label "პასუხი ჯგუფს">
