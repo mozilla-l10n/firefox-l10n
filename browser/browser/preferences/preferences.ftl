@@ -143,6 +143,8 @@ set-as-my-default-browser =
 startup-restore-previous-session =
     .label = استعد الجلسة السابقة
     .accesskey = س
+startup-restore-warn-on-quit =
+    .label = نبّهني عند إنهاء المتصفح
 disable-extension =
     .label = عطّل الامتداد
 tabs-group-header = الألسنة
@@ -731,6 +733,7 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = مخصّص
     .accesskey = خ
+content-blocking-standard-description = احجب المتعقّبات المعروفة في النوافذ الخاصة فقط.
 content-blocking-standard-desc = الموازنة بين الحماية والأداء. يتيح عمل بعض المتعقّبات لتعمل المواقع كما ينبغي.
 content-blocking-strict-desc = يحجب كل المتعقّبات التي يكتشفها { -brand-short-name }. قد يتسبّب بعطب بعض المواقع.
 content-blocking-custom-desc = اختر ما تريد حجبه.
@@ -866,6 +869,8 @@ collection-health-report-link = اطّلع على المزيد
 collection-studies =
     .label = اسمح أن ينصّب { -brand-short-name } ويشغل الدراسات
 collection-studies-link = اعرض دراسات { -brand-short-name }
+addon-recommendations =
+    .label = اسمح بأن يقترح { -brand-short-name } الامتدادات المخصّصة لك
 addon-recommendations-link = اطّلع على المزيد
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
