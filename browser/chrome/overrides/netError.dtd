@@ -12,7 +12,6 @@
 <!ENTITY advanced.label "متقدم">
 <!ENTITY continue2.label "أكثر…">
 <!ENTITY moreInformation.label "المزيد من المعلومات">
-
 <!ENTITY viewCertificate.label "اعرض الشهادة">
 
 <!-- Specific error messages -->
@@ -98,9 +97,6 @@ will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "لم يضبط مالك <span class='hostname'/> موقعه عل نحو سليم.  لحماية معلوماتك من السرقة، لم يتصل &brandShortName; بهذا الموقع.">
 <!ENTITY certerror.introPara2 "اكتشف &brandShortName; خطرًا أمنيًا محتملًا ولم يُتابع نحو <span class='hostname'/>. إن زرت هذا الموقع فقد يحاول المهاجمون سرقة المعلومات منك مثل كلمات السر أو البُرد الإلكترونية أو تفاصيل بطاقات الائتمان.">
-
-<!ENTITY certerror.expiredCert.secondPara "أغلب الظن أن سبب هذه المشكلة هو أن ساعة الحاسوب ليست صحيحة، ما يمنع &brandShortName; من الاتصال كما ينبغي.">
-
 <!ENTITY certerror.sts.introPara "اكتشف &brandShortName; خطرا أمنيا محتملا ولم يُتابع نحو <span class='hostname'/> لأن هذا الموقع يطلب اتّصال آمن.">
 
 <!ENTITY certerror.expiredCert.introPara "اكتشف &brandShortName; مشكلة ولم يُتابع نحو <span class='hostname'/>. إمّا أن الموقع لم يُضبط كما ينبغي أو أن ساعة الحاسوب لديك مضبوطة على وقت خطأ.">
@@ -165,6 +161,13 @@ was trying to connect. -->
 <!ENTITY inadequateSecurityError.longDesc "<p>يستخدم <span class='hostname'></span> تقنية أمنية عتيقة و عرضة للهجوم. يمكن لمهاجم بسهولة الاطلاع على معلومات تظنها بمأمن. على مدير الموقع إصلاح الخادوم قبل أن يمكنك زيارة الموقع.</p><p>رمز العطل: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "الصفحة محجوبة">
+
+<!ENTITY certerror.mitm.title "تمنع البرمجية &brandShortName; من الاتصال بهذا الموقع بطريقة آمنة">
+<!ENTITY certerror.mitm.longDesc "أغلب الظن بأن <span class='hostname'></span> موقع آمن، إلّا أنه تعذر إجراء اتصال آمن معه. هذه المشكلة بسبب <span class='mitm-name'/>، وهي إمّا برمجية في الحاسوب لديك أو في الشبكة.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "إن كان لمضادّ الفيروسات لديك ميزة تفحص الاتصالات المعمّاة (غالبًا ما تُسمى بِ‍”فحص الوِب Web scanning“ أو ”فحص https“)، فيمكنك تعطيل تلك الميزة. إن لم يعمل ذلك فيمكنك إزالة وإعادة تثبيت برمجية مضادّ الفيروسات.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "إن كت في شبكة في شركة، فيمكنك مراسلة قسم تقنية المعلومات فيها.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "إن لم تكن تعلم ما يعني <span class='mitm-name'/>، فهذا قد يكون هجومًا وعليك ألا تُواصل نحو الموقع.">
+<!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "إن لم تكن تعلم ما يعني <span class='mitm-name'/>، فهذا قد يكون هجومًا وليس ثمة شيء تفعله لتدخل الموقع.">
 
 <!ENTITY clockSkewError.title "ساعة الحاسوب خاطئة">
 <!ENTITY clockSkewError.longDesc "يظن الحاسوب لديك بأنه <span id='wrongSystemTime_systemDate1'/>، ما يمنع &brandShortName; من الاتصال كما ينبغي. لتقدر على زيارة <span class='hostname'></span> حدّث ساعة الحاسوب في إعدادات النظام لتطابق الوقت والتاريخ والمنطقة الزمنية الحالية، بعدها أنعِش <span class='hostname'></span>.">
