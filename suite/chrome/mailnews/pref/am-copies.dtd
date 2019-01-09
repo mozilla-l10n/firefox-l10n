@@ -26,12 +26,12 @@
 <!ENTITY sentInOtherFolder.label "Outra pasta:">
 <!ENTITY sentInOtherFolder.accesskey "O">
 <!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY archivesTitle.label "Arquivos de mensagens">
-<!ENTITY keepArchives.label "Armazenar arquivos de mensagens na pasta:">
-<!ENTITY keepArchives.accesskey "z">
+<!ENTITY archivesTitle.label "Arquivamentos de mensagens">
+<!ENTITY keepArchives.label "Manter arquivamentos de mensagens em:">
+<!ENTITY keepArchives.accesskey "M">
 <!ENTITY archiveHierarchyButton.label "Opções de arquivamento…">
 <!ENTITY archiveHierarchyButton.accesskey "n">
-<!ENTITY archivesFolderOn.label "Pasta &quot;Arquivos&quot; da conta:">
+<!ENTITY archivesFolderOn.label "Pasta &quot;Arquivados&quot; em:">
 <!ENTITY archivesFolderOn.accesskey "r">
 <!ENTITY archiveInOtherFolder.label "Outra:">
 <!ENTITY archiveInOtherFolder.accesskey "t">
