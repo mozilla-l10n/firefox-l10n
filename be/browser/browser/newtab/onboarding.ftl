@@ -32,3 +32,4 @@ onboarding-fxa-text = Зарэгіструйцеся ў { -fxaccount-brand-name 
 ## Message strings belonging to the Return to AMO flow
 
 return-to-amo-extension-button = Дадаць пашырэнне
+return-to-amo-get-started-button = Пачніце працаваць з { -brand-short-name }
