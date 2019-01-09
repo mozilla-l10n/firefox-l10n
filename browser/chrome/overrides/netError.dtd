@@ -12,7 +12,6 @@
 <!ENTITY advanced.label "Дадаткова">
 <!ENTITY continue2.label "Больш…">
 <!ENTITY moreInformation.label "Больш звестак">
-
 <!ENTITY viewCertificate.label "Паказаць сертыфікаты">
 
 <!-- Specific error messages -->
@@ -137,9 +136,6 @@ will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Уладальнік <span class='hostname'/> наладзіў свой вэб-сайт няправільна.  Каб абараніць вашы звесткі ад крадзяжу, &brandShortName; не злучаўся з сайтам.">
 <!ENTITY certerror.introPara2 "&brandShortName; выявіў патэнцыяльную пагрозу бяспецы і не перайшоў да <span class='hostname'/>. Калі вы наведаеце гэты сайт, зламыснікі могуць паспрабаваць скрасці вашу інфармацыю, такую як паролі, адрасы электроннай пошты або дадзеныя крэдытных карт.">
-
-<!ENTITY certerror.expiredCert.secondPara "Гэтая праблема хутчэй за ўсё звязана з няправільна настаўленым часам на вашым камп'ютары, што можа перашкаджаць &brandShortName; злучыцца бяспечна.">
-
 <!ENTITY certerror.sts.introPara "&brandShortName; выявіў патэнцыяльную пагрозу бяспецы і не перайшоў да <span class='hostname'/>, таму што гэты сайт патрабуе абароненае злучэнне.">
 
 <!ENTITY certerror.expiredCert.introPara "&brandShortName; выявіў праблему і не працягваў злучэнне з <span class='hostname'/>. Вэб-сайт няправільна наладжаны, або гадзіннік вашага камп'ютара ідзе няправільна.">
@@ -214,6 +210,9 @@ was trying to connect. -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> выкарыстоўвае тэхналогію бяспекі, якая састарэла і ўразлівая да атак. Зламыснік можа з лёгкасцю выкрыць звесткі, пра якія вы думаеце, што яны ў бяспецы. Адміністратар вэб-сайта мусіць выправіць гэты сервер, перш чым вы зможаце наведаць яго бяспечна.</p><p>Код памылкі: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Заблакаваная старонка">
+
+<!ENTITY certerror.mitm.title "Праграмнае забеспячэнне не дазваляе &brandShortName; бяспечна злучыцца з гэтым сайтам">
+<!ENTITY certerror.mitm.longDesc "<span class='hostname'></span>, хутчэй за ўсё, з'яўляецца бяспечным сайтам, але бяспечнае злучэнне з ім не можа быць усталявана. Гэтую праблему выклікае <span class='mitm-name'/> – праграмнае забеспячэнне на вашым кампутары альбо ў вашай сетцы.">
 
 <!ENTITY clockSkewError.title "Гадзіннік вашага камп'ютара ідзе няправільна">
 <!ENTITY clockSkewError.longDesc "Ваш камп'ютар лічыць, што цяпер <span id='wrongSystemTime_systemDate1'/>, таму &brandShortName; не можа ўстанавіць абароненае злучэнне. Каб наведаць <span class='hostname'></span>, выстаўце правільную дату, час і часавы пояс у наладках камп'ютара, пасля абнавіце <span class='hostname'></span>.">
