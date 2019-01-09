@@ -31,7 +31,7 @@
 <!ENTITY keepArchives.accesskey "M">
 <!ENTITY archiveHierarchyButton.label "Opções de arquivamento…">
 <!ENTITY archiveHierarchyButton.accesskey "O">
-<!ENTITY archivesFolderOn.label "Pasta &quot;Arquivados&quot; em:">
+<!ENTITY archivesFolderOn.label "Pasta &quot;Arquivado&quot; em:">
 <!ENTITY archivesFolderOn.accesskey "A">
 <!ENTITY archiveInOtherFolder.label "Outra:">
 <!ENTITY archiveInOtherFolder.accesskey "t">
