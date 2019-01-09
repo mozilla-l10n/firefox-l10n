@@ -635,6 +635,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.label      "Gosod Nod Tudalen i'r Ffrâm">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "F">
 <!ENTITY pageAction.copyLink.label    "Copïo'r Ddolen">
+
+<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
+  "Pocket" is a brand name. -->
+<!ENTITY pocketButton.tooltiptext     "Cadw i Pocket">
+<!ENTITY saveToPocketCmd.label        "Cadw Tudalen i Pocket">
+<!ENTITY saveToPocketCmd.accesskey    "k">
+<!ENTITY saveLinkToPocketCmd.label    "Cadw Dolen i Pocket">
+<!ENTITY saveLinkToPocketCmd.accesskey "o">
+<!ENTITY pocketMenuitem.label         "Edrych ar Rhestr Pocket">
+
 <!ENTITY emailPageCmd.label           "E-bostio'r Ddolen…">
 <!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "Cadw Tudalen Fel…">
