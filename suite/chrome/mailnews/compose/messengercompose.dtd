@@ -50,7 +50,7 @@
 
 <!-- View menu items -->
 <!ENTITY showComposeToolbarCmd.label "ფოსტის ხელსაწყოთა ზოლი">
-<!ENTITY showComposeToolbarCmd.accesskey "o">
+<!ENTITY showComposeToolbarCmd.accesskey "ო">
 <!ENTITY showFormatToolbarCmd.label "გაფორმების ხელსაწყოთა ზოლი">
 <!ENTITY showFormatToolbarCmd.accesskey "F">
 

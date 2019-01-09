@@ -9,7 +9,7 @@
 <!ENTITY EditContact.accesskey             "წ">
 <!ENTITY ViewContact.label                 "პირის მონაცემების ჩვენება">
 <!ENTITY ViewContact.accesskey             "ვ">
-<!ENTITY SendMailTo.label                  "წერილის შექმნა…">
+<!ENTITY SendMailTo.label                  "წერილის მიწერა მისამართზე…">
 <!ENTITY SendMailTo.accesskey              "ქ">
 <!ENTITY CopyEmailAddress.label            "ელფოსტის მისამართის ასლი">
 <!ENTITY CopyEmailAddress.accesskey        "მ">
