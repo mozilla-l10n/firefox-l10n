@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
-<!ENTITY msgComposeWindow.title "ჩაწერა: (თემის გარეშე)">
+<!ENTITY msgComposeWindow.title "მიწერა: (თემის გარეშე)">
 
 <!-- File Menu -->
 <!ENTITY fileMenu.label "ფაილი">
@@ -274,7 +274,7 @@
      first-level access keys of the compose window, e.g. those of main menu,
      buttons, or labels (message headers, contacts side bar, attachment reminder
      bar). -->
-<!ENTITY attachments.accesskey "m">
+<!ENTITY attachments.accesskey "მ">
 <!ENTITY attachmentBucketHeader.tooltip "დანართების არე">
 <!ENTITY attachmentBucketCloseButton.tooltip "დანართების არის დამალვა">
 

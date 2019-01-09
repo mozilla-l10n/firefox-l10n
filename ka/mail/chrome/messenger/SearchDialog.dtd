@@ -30,7 +30,7 @@
 <!ENTITY abSearchHeading.accesskey   "რ">
 <!ENTITY propertiesButton.label      "პარამეტრები">
 <!ENTITY propertiesButton.accesskey  "პ">
-<!ENTITY composeButton.label         "შედგენა">
+<!ENTITY composeButton.label         "მიწერა">
 <!ENTITY composeButton.accesskey     "დ">
 <!ENTITY deleteCardButton.label      "წაშლა">
 <!ENTITY deleteCardButton.accesskey  "წ">
