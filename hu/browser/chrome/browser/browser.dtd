@@ -635,6 +635,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.label      "Keret hozzáadása a könyvjelzőkhöz">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "h">
 <!ENTITY pageAction.copyLink.label    "Hivatkozás másolása">
+
+<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
+  "Pocket" is a brand name. -->
+<!ENTITY pocketButton.tooltiptext     "Mentés a Pocketbe">
+<!ENTITY saveToPocketCmd.label        "Oldal mentése a Pocketbe">
+<!ENTITY saveToPocketCmd.accesskey    "k">
+<!ENTITY saveLinkToPocketCmd.label    "Hivatkozás mentése a Pocketbe">
+<!ENTITY pocketMenuitem.label         "Pocket lista megjelenítése">
+
 <!ENTITY emailPageCmd.label           "Hivatkozás küldése e-mailben…">
 <!ENTITY emailPageCmd.accesskey       "d">
 <!ENTITY savePageCmd.label            "Oldal mentése…">
