@@ -706,6 +706,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.accesskey  "B">
 <!ENTITY pageAction.copyLink.label    "Kopier link">
 <!ENTITY copyURLFeedback.label        "Kopieret!">
+
+<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
+  "Pocket" is a brand name. -->
+<!ENTITY pocketButton.tooltiptext     "Gem til Pocket">
+<!ENTITY saveToPocketCmd.label        "Gem side til Pocket">
+<!ENTITY saveToPocketCmd.accesskey    "k">
+<!ENTITY saveLinkToPocketCmd.label    "Gem link til Pocket">
+<!ENTITY saveLinkToPocketCmd.accesskey "o">
+<!ENTITY pocketMenuitem.label         "Vis Pocket-liste">
+
 <!ENTITY emailPageCmd.label           "Send link…">
 <!ENTITY emailPageCmd.accesskey       "l">
 <!ENTITY savePageCmd.label            "Gem side som…">
