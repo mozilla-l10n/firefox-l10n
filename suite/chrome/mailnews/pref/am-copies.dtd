@@ -33,7 +33,7 @@
 <!ENTITY archiveHierarchyButton.accesskey "n">
 <!ENTITY archivesFolderOn.label "Pasta &quot;Arquivados&quot; em:">
 <!ENTITY archivesFolderOn.accesskey "r">
-<!ENTITY archiveInOtherFolder.label "Outra:">
+<!ENTITY archiveInOtherFolder.label "Outra pasta:">
 <!ENTITY archiveInOtherFolder.accesskey "t">
 <!ENTITY specialFolders.label "Rascunhos e modelos">
 <!ENTITY keepDrafts2.label "Manter rascunhos na pasta:">
