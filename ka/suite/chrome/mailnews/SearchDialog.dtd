@@ -25,14 +25,14 @@
 <!ENTITY moveButton.accesskey        "T">
 <!ENTITY goToFolderButton.label      "წერილების დასტის გახსნა">
 <!ENTITY goToFolderButton.accesskey  "n">
-<!ENTITY saveAsVFButton.label      "ძიების შედეგების დასტად შენახვა">
-<!ENTITY saveAsVFButton.accesskey  "v">
+<!ENTITY saveAsVFButton.label        "ძიების შედეგების დასტად შენახვა">
+<!ENTITY saveAsVFButton.accesskey    "v">
 
 <!-- for ABSearchDialog.xul -->
 <!ENTITY abSearchHeading.label       "ძიების არე:">
 <!ENTITY abSearchHeading.accesskey   "e">
 <!ENTITY propertiesButton.label      "პარამეტრები">
 <!ENTITY propertiesButton.accesskey  "P">
-<!ENTITY composeButton.label         "შექმნა">
-<!ENTITY composeButton.accesskey     "o">
+<!ENTITY composeButton.label         "შედგენა">
+<!ENTITY composeButton.accesskey     "შ">
 <!ENTITY abSearchDialogTitle.label   "დეტალური ძიება წიგნაკში">
