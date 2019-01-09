@@ -156,6 +156,8 @@ hardware-h264 = 하드웨어 H264 디코딩
 main-thread-no-omtc = 주 쓰레드, OMTC 아님
 yes = 네
 no = 아니오
+unknown = 알 수 없음
+virtual-monitor-disp = 가상 모니터 디스플레이
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
@@ -163,6 +165,8 @@ no = 아니오
 
 found = 찾음
 missing = 없음
+gpu-process-pid = GPUProcessPid
+gpu-process = GPUProcess
 gpu-description = 설명
 gpu-vendor-id = 벤더 ID
 gpu-device-id = 기기 ID
@@ -195,6 +199,7 @@ d3d9video-crash-buard = D3D9 동영상 디코더
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = 다음 재시작에 초기화
 gpu-process-kill-button = GPU 프로세스 종료
+gpu-device-reset = 기기 초기화
 gpu-device-reset-button = 기기 초기화 시작
 uses-tiling = 타일링 사용
 content-uses-tiling = 타일링(콘텐츠) 사용
