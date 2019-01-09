@@ -4,6 +4,7 @@
 
 accounts-title = Računi za pošto in novice
 show-private-data-main-text = Vključi imena računov
+show-private-data-explanation-text = (lahko vključuje osebne podatke)
 accounts-ID = ID
 accounts-name = Ime
 accounts-incoming-server = Dohodni strežnik
