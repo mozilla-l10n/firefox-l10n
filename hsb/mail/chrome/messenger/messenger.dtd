@@ -440,9 +440,6 @@
 <!ENTITY openMessageWindowCmd.label "Powěsć wočinić">
 <!ENTITY openMessageWindowCmd.accesskey "o">
 <!ENTITY openMessageWindowCmd.key "o">
-<!ENTITY openConversationCmd.label "W konwersaciji wočinić">
-<!ENTITY openConversationCmd.accesskey "k">
-<!ENTITY openConversationCmd.key "o">
 <!ENTITY openInConversationCmd.label "W konwersaciji wočinić">
 <!ENTITY openInConversationCmd.accesskey "s">
 <!ENTITY openInConversationCmd.key "o">
@@ -795,6 +792,8 @@
 <!ENTITY contextMoveMsgMenu.accesskey "u">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Najnowše">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "N">
+<!ENTITY contextMoveCopyMsgFavoritesMenu.label "Fawority">
+<!ENTITY contextMoveCopyMsgFavoritesMenu.accesskey "F">
 <!ENTITY contextCopyMsgMenu.label "Kopěrować do">
 <!ENTITY contextCopyMsgMenu.accesskey "K">
 <!ENTITY contextKillThreadMenu.label "Nitku ignorować">
