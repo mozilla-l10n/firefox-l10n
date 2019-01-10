@@ -90,6 +90,9 @@ extension-controlled-privacy-containers = Lamed, <img data-l10n-name="icon"/> { 
 # This string is shown to notify the user that their tracking protection preferences
 # are being controlled by an extension.
 extension-controlled-websites-tracking-protection-mode = Lamed, <img data-l10n-name="icon"/> { $name }, tye ka loono gwokke ikom lubo kor.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlled-websites-content-blocking-all-trackers = Lamed , <img data-l10n-name="icon"/> { $name }, tye ka loono ter man.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = Lamed, <img data-l10n-name="icon"/> { $name }, tye ka loono kit ma { -brand-short-name } kube ki intanet.
@@ -202,6 +205,7 @@ choose-language-description = Yer leb ma imito pi yaro pot buk
 choose-button =
     .label = Yer…
     .accesskey = e
+choose-browser-language-description = Yer leb ma kitiyo kwedgi me nyuto jami ayera, kwena, ki jami angeya ki ii { -brand-short-name }.
 confirm-browser-language-change-description = Nwo cako { -brand-short-name } me keto alokaloka magi
 confirm-browser-language-change-button = Keti ka i Nwo cako
 translate-web-pages =
@@ -571,6 +575,9 @@ sitedata-keep-until-expire =
     .label = Kare gitum ii
 sitedata-keep-until-closed =
     .label = { -brand-short-name } olore oko
+sitedata-delete-on-close =
+    .label = Kwany angija ki data me kakube kace kiloro { -brand-short-name }
+    .accesskey = c
 sitedata-allow-cookies-option =
     .label = Yee angija ki data me kakube
     .accesskey = Y

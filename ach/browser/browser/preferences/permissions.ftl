@@ -58,13 +58,10 @@ permissions-invalid-uri-label = Tim ber iket nying lami kube matye atir
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-tracking-protection-window =
-    .title = Ma kiweko woko - Gwokke ikom lubo kor
-    .style = { permissions-window.style }
-permissions-exceptions-tracking-protection-desc = I juko woko Gwokke ikom lubo kor ma ii kakube magi.
 
 ## Exceptions - Cookies
 
+permissions-exceptions-cookie-desc = Itwero cimo kakube mene ma jwijwi onyo matwal pe ki yee me tic ki angija ki data me kakube.  Ket kanonge me kakube ne kikome ma imito me loono ka dong i dii Geng, Yee pi Kare, onyo Yee.
 
 ## Exceptions - Pop-ups
 

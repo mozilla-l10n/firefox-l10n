@@ -23,3 +23,13 @@ onboarding-addons-title = Med-ikome
 onboarding-addons-text = Med jami mapol ma weko { -brand-short-name } tiyo matek piri. Po wel, rot piny kit ma tye kwede onyo nyut kiti ki theme ma iyubo piri.
 onboarding-ghostery-title = Ghostery
 onboarding-ghostery-text = Yeny oyot, ki ngec, onyo maber ki lamed calo Ghostery, ma weko i gengo kwena cato wil ma cwero yii
+
+## Message strings belonging to the Return to AMO flow
+
+# <icon></icon> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-header = Kombedi dong wek wanongi <icon></icon><b>{ $addon-name }.</b>
+return-to-amo-extension-button = Med Lamed
+return-to-amo-get-started-button = Cak ki { -brand-short-name }
