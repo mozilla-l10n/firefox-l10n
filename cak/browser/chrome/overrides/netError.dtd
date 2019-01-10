@@ -172,6 +172,7 @@ was trying to connect. -->
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "We ri achapöy chikopil yerutz'ajnik'oj ewan kisik'ixik taq okem (ri eb'ina'am “web scanning” o “https scanning”), yatikïr nachüp ri rub'anikil ri'. We man ütz ta nub'än, yatikïr nayüj chuqa' nayäk chik ri chapöy chikopil.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "We at k'o pa ruk'amab'ey nimak'ayij, katzijon pa ri Kematz'ib'il ch'akulal.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "We man ruk'ulun ta chawe ri <span class='mitm-name'/>, rik'in jub'a' yatkiq'eleb'ej ruma ri' man ütz ta yatok pa ri ruxaq k'amaya'l.">
+<!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "We man ruk'ulun ta chawe ri <span class='mitm-name'/>, rik'in jub'a' yatkiq'eleb'ej ruma ri' majun yatikïr nab'än richin yatok pa ri ruxaq k'amaya'l.">
 
 <!ENTITY clockSkewError.title "Sachinäq ri ruch'utiq'ijub'al akematz'ib'">
 <!ENTITY clockSkewError.longDesc "Ri akematz'ib' nuna'ojij chi jun <span id='wrongSystemTime_systemDate1'/>, ri nuq'ät &brandShortName; richin ütz nok. Titz'et <span class='hostname'></span>, Tak'exa' ri ruch'utiq'ijub'al akematz'ib' pa runuk'ulem ruq'inoj q'ijul, ramaj chuqa' rub'anikil q'ijul k'o wakami, k'a ri' tak'exa' <span class='hostname'></span>.">
