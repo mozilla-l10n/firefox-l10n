@@ -8,13 +8,27 @@
 <!ENTITY saveCmd.key "S">
 
 <!-- Edit menu items -->
+<!ENTITY pasteNoFormatting.label "วางโดยไม่มีการจัดรูปแบบ">
+<!ENTITY pasteNoFormatting.accesskey "ว">
 <!ENTITY pasteNoFormatting.key "V">
+<!ENTITY pasteAs.label "วางเป็น">
+<!ENTITY pasteAs.accesskey "ง">
+<!ENTITY pasteAsQuotationCmd.label "วางเป็นถ้อยคำอ้างอิง">
+<!ENTITY pasteAsQuotationCmd.accesskey "ป">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findBarCmd.label "ค้นหา…">
 <!ENTITY findReplaceCmd.label "ค้นหาและแทนที่…">
+<!ENTITY enableInlineSpellChecker.label "ตรวจสอบการสะกดคำเมื่อคุณพิมพ์">
+<!ENTITY enableInlineSpellChecker.accesskey "ต">
+<!ENTITY checkSpellingCmd2.label "ตรวจสอบการสะกดคำ…">
+<!ENTITY checkSpellingCmd2.accesskey "ร">
 <!ENTITY checkSpellingCmd2.key "p">
 
 <!-- Insert menu items -->
+<!ENTITY insertMenu.label "แทรก">
+<!ENTITY insertMenu.accesskey "ท">
+<!ENTITY insertLinkCmd2.label "ลิงก์…">
+<!ENTITY insertLinkCmd2.accesskey "ล">
 <!ENTITY insertLinkCmd2.key "K">
 
 <!-- Used just in context popup. -->
