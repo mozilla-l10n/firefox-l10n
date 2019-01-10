@@ -14,7 +14,7 @@
 
 <!ENTITY privatebrowsingpage.common.description  "在隱私瀏覽視窗中，&brandShortName; 不會保留任何瀏覽記錄、搜尋記錄、下載記錄、網頁表單輸入內容、Cookie、暫存檔案。然而，您所下載的檔案及新增的書籤將被保留。">
 <!ENTITY privatebrowsingpage.track.warn          "雖然這台電腦不會留下任何歷史記錄，您的雇主或網路業者還是能追蹤您瀏覽的頁面。">
-<!ENTITY privatebrowsingpage.learnmore.label     "詳細資訊">
+<!ENTITY privatebrowsingpage.learnmore.label     "了解更多">
 <!ENTITY privatebrowsingpage.learnmore.accesskey "L">
 
 <!ENTITY privatebrowsingpage.close.info          "完成後，請關閉視窗以結束隱私瀏覽">
