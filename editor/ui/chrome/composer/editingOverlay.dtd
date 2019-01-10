@@ -34,4 +34,5 @@
 <!ENTITY newToolbarCmd.tooltip "สร้างหน้าเขียนใหม่">
 <!ENTITY openToolbarCmd.label "เปิด">
 <!ENTITY openToolbarCmd.tooltip "เปิดไฟล์ในเครื่อง">
+<!ENTITY saveToolbarCmd.tooltip "บันทึกไฟล์ไปยังตำแหน่งที่ตั้งในเครื่อง">
 <!ENTITY publishToolbarCmd.tooltip "อัปโหลดไฟล์ไปยังตำแหน่งที่ตั้งระยะไกล">
