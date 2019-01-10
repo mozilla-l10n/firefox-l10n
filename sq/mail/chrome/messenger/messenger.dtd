@@ -440,9 +440,6 @@
 <!ENTITY openMessageWindowCmd.label "Hape Mesazhin">
 <!ENTITY openMessageWindowCmd.accesskey "H">
 <!ENTITY openMessageWindowCmd.key "o">
-<!ENTITY openConversationCmd.label "Hape si Bisedë">
-<!ENTITY openConversationCmd.accesskey "B">
-<!ENTITY openConversationCmd.key "o">
 <!ENTITY openInConversationCmd.label "Hape si Bisedë">
 <!ENTITY openInConversationCmd.accesskey "d">
 <!ENTITY openInConversationCmd.key "o">
@@ -795,6 +792,8 @@
 <!ENTITY contextMoveMsgMenu.accesskey "e">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Së Fundi">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "F">
+<!ENTITY contextMoveCopyMsgFavoritesMenu.label "Më të pëlqyerit">
+<!ENTITY contextMoveCopyMsgFavoritesMenu.accesskey "p">
 <!ENTITY contextCopyMsgMenu.label "Kopjoje Te">
 <!ENTITY contextCopyMsgMenu.accesskey "K">
 <!ENTITY contextKillThreadMenu.label "Shpërfille Rrjedhën">
