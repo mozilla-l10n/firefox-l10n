@@ -88,7 +88,7 @@ extension-controlled-homepage-override = 擴充套件「<img data-l10n-name="ico
 extension-controlled-new-tab-url = 擴充套件「<img data-l10n-name="icon"/> { $name }」正在控制您的新分頁內容。
 # This string is shown to notify the user that their notifications permission
 # is being controlled by an extension.
-extension-controlled-web-notifications = 有一套擴充套件，<img data-l10n-name="icon"/> { $name } 正在控制此設定。
+extension-controlled-web-notifications = 擴充套件<img data-l10n-name="icon"/> { $name } 正在控制此設定。
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
 extension-controlled-default-search = 擴充套件「<img data-l10n-name="icon"/> { $name }」修改了您的預設搜尋引擎。
@@ -154,9 +154,6 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = 以分頁開啟鏈結，而不使用新視窗
     .accesskey = w
-warn-on-quit-close-multiple-tabs =
-    .label = 在離開或關閉多個分頁前警告您
-    .accesskey = m
 warn-on-close-multiple-tabs =
     .label = 關閉多個分頁前警告您
     .accesskey = m
@@ -172,7 +169,7 @@ show-tabs-in-taskbar =
 browser-containers-enabled =
     .label = 開啟容器分頁
     .accesskey = n
-browser-containers-learn-more = 詳細資訊
+browser-containers-learn-more = 了解更多
 browser-containers-settings =
     .label = 設定…
     .accesskey = i
@@ -206,7 +203,7 @@ choose-language-description = 請選擇瀏覽支援多國語言的網頁時要�
 choose-button =
     .label = 選擇…
     .accesskey = o
-choose-browser-language-description = 請選擇 { -brand-short-name } 顯示選單、訊息、通知時使用的語言。
+choose-browser-language-description = 請選擇 { -brand-short-name } 要用來顯示選單、介面訊息以及通知內容的語言。
 manage-browser-languages-button =
     .label = 設定其他語言…
     .accesskey = l
@@ -260,7 +257,7 @@ drm-content-header = 數位權利管理（DRM）內容
 play-drm-content =
     .label = 播放 DRM 內容
     .accesskey = P
-play-drm-content-learn-more = 詳細資訊
+play-drm-content-learn-more = 了解更多
 update-application-title = { -brand-short-name } 更新
 update-application-description = 保持更新 { -brand-short-name }，獲得最佳效能、穩定度以及安全性。
 update-application-version = { $version }版 <a data-l10n-name="learn-more">有什麼新鮮事</a>
@@ -544,7 +541,7 @@ forms-master-pw-use =
     .label = 使用主控密碼
     .accesskey = U
 forms-master-pw-change =
-    .label = 變更主控密碼
+    .label = 變更主控密碼…
     .accesskey = M
 
 ## Privacy Section - History
@@ -621,11 +618,11 @@ sitedata-block-trackers-option-recommended =
 sitedata-block-trackers-option =
     .label = 第三方追蹤器
 sitedata-block-unvisited-option =
-    .label = 未造訪過的網站的 Cookie
+    .label = 來自未造訪過網站的 Cookie
 sitedata-block-all-third-party-option =
-    .label = 所有第三方 Cookie（可能會造成某些網站不正常）
+    .label = 所有第三方 Cookie（可能造成某些網站不正常）
 sitedata-block-all-option =
-    .label = 所有 Cookie（會造成大部分網站不正常）
+    .label = 所有 Cookie（會造成網站不正常）
 sitedata-option-block-trackers =
     .label = 第三方追蹤器
 sitedata-option-block-unvisited =
@@ -755,7 +752,7 @@ content-blocking-reject-trackers-block-trackers-option =
     .label = 追蹤器
     .accesskey = k
 content-blocking-reject-trackers-all-third-parties-option =
-    .label = 所有第三方 Cookie（可能會造成某些網站不正常）
+    .label = 所有第三方 Cookie（可能造成某些網站不正常）
     .accesskey = A
 content-blocking-cookies-label =
     .label = Cookie
@@ -816,7 +813,7 @@ permissions-block-autoplay-media-exceptions =
     .label = 例外網站…
     .accesskey = E
 autoplay-option-ask =
-    .label = 總是詢問是否要自動播放
+    .label = 總是詢問
 autoplay-option-allow =
     .label = 允許自動播放
 autoplay-option-dont =
