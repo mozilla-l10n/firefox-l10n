@@ -8,9 +8,7 @@
 <!ENTITY loadError.label "صفحئ لوڈ كرنس منز دقت">
 <!ENTITY retry.label "دوبارئ كریو كوشش">
 
-
 <!-- Specific error messages -->
-
 
 <!ENTITY connectionFailure.title "ہیك نئ رٲبطئ كر۪یتھ">
 <!ENTITY connectionFailure.longDesc "&amp; لانگ ڈیسك  كریو شیر">
@@ -18,22 +16,17 @@
 <!ENTITY deniedPortAccess.title "یئ پتئ چھُ زٲتی">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "سرور آو نئ اتھ۪ی">
-<!ENTITY dnsNotFound.longDesc "<ul> <li>چک کْریو ایڈرس ایرر ٹایِپ کرنْہ باپت مثلن <strong>ww</strong>.example.com بجاے <strong>www</strong>.example.com</li> <li> اگر نْہ توہیہ کانہہ پیج لوڈ کْرتھ ہیکیو، پننِہ کمپیوٹرُک نیٹوْرککنیکشن کْریو چک۔</li> <li>اگر تُہند کمپیوٹر یا نیٹوْرک بچأوتھ چُھ اکہ فایر وال یا پراکزی ذریعہ، یقینی بنأیو ذِ &amp;برانڈ شاٹ ناوس چُھ اجازت ویب ایسیس کرنس۔ /li> </ul>">
+<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 
 <!ENTITY fileNotFound.title "فایل آی نئ اتھ۪ی">
 <!ENTITY fileNotFound.longDesc "<ul> <li>چک کْریو فایل ناو کیپٹیلایزیشن یا بدل ٹایپینگ ایرر باپت۔</li> <li>چک کْریو وچھنْہ باپت ذِ فایل چھاہ مو کرنْہ آمْژ، دوبار نام دِنْہ آمْژ یا ڈیلیٹ کرنْہ آمْژ</li> </ul>">
 
 
-
 <!ENTITY generic.title "اوہ">
-<!ENTITY generic.longDesc "<p> برینڈ لكُٹ ناو; ہیكٲو نئ لوڈ كر۪یتھ یئ صفحئ كُن۪ی وجہئو كِن">
 
 
 
-
-<!ENTITY malformedURI.title "پتئ چھُ نئ منظور">
-<!ENTITY malformedURI.longDesc "<ul> <li>ویب ایڈرس چھ عام پأٹھ یِتھ پأٹھ لیکھنْہ یوان<strong>http://www.example.com/</strong></li> <li>یقینی بنأیو توہیہ چھیو استعمال کران فاروأڑد سیلیش (i.e. <strong>/</strong>).</li> </ul>">
+<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 
 <!ENTITY netInterrupt.title "رٲبطس منز پیو خلل">
 <!ENTITY netInterrupt.longDesc "&amp; لانگ ڈیسك  كریو شیر">
@@ -73,11 +66,15 @@
 
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>یہ پیج یوس توہیہ ویو کرنْچ کوشش کران چھیو  ہیکو نْہ ہأوِتھ کیازِ کِہ رٹنْہ آمتِہ ڈاٹاہْچ آتھنٹیسیٹی ہیکو نْہ تصدیق کْرتھ۔</li> <li>مہربأنی کْرتھ کْریو کنٹیکٹْہ ویب سایِٹ مألک تِمن انفارم کرنْہ باپت یہ پرابلیم۔</li> </ul>">
 
-<!-- Localization note (certerror.introPara) - The text content of the span tag
+<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
-<!ENTITY sharedLongDesc "<ul> <li>یہ سایٹ ہیکِہ سرسری طور غیر دستیاب أسِتھ یا واریاہ آوْر۔ کوشش کْریو دوبار کینژن لمحن منز۔</li> <li>گر نْہ توہیہ لوڈ کْرتھ ہیکو کانہہ پیج، چک کْریو پننِہ کمپیوٹرُک نیٹوْرک کنیکشن۔</li> <li>اگر تُہند کمپیوٹر یا نیٹوْرک بچأوتھ چُھ اکہ فایر وال یا پراکزی ذریعہ، یقینی بنأیو ذِ &amp;برانڈ شاٹ ناوس چُھ اجازت ویب ایسیس کرنس۔ /li> </ul>">
+
+
+
+
+
 
 <!ENTITY cspBlocked.title "مشمولات حفٲظتی پالسی كرمُت بند">
 <!ENTITY cspBlocked.longDesc "<p>برانڈ شاٹ ناو؛ ان رُکوو یہ پیج لوڈینگ نِش یتھ طریقس منز کیازِ کہ پیجس چھ اکھ کنٹینٹ حفاظتی پالیسی یوس نْہ اتھ اجازت دِوان چِھ۔&amp;</p>">
@@ -96,15 +93,16 @@ was trying to connect. -->
 <!ENTITY sslv3Used.title "ہیوک نْہ کنیکٹْہ کْرتھ حفاظت سان">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
+
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
 
 
-
-
-
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+
+
+
 
 
