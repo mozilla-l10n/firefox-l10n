@@ -1,3 +1,4 @@
+<!ENTITY aboutDialog.title          "เกี่ยวกับ &brandFullName;">
 
 <!-- LOCALIZATION NOTE (update.*):
 # These strings are also used in the update pane of preferences.
@@ -8,6 +9,10 @@
 # The button when displayed is located directly under the Thunderbird version in
 # the about dialog.
 -->
+<!ENTITY update.checkForUpdatesButton.label       "ตรวจสอบการอัปเดต">
+<!ENTITY update.checkForUpdatesButton.accesskey   "ต">
+<!ENTITY update.updateButton.label3               "เริ่มการทำงานใหม่เพื่ออัปเดต &brandShorterName;">
+<!ENTITY update.updateButton.accesskey            "ร">
 
 
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly builds. It is only shown in this version. -->
@@ -31,6 +36,7 @@
 <!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to https://www.mozilla.org/legal/privacy/. -->
 
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.checkingForUpdates  "กำลังตรวจสอบการอัปเดต…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
@@ -52,15 +58,20 @@
      an anchor that links to a site to provide additional information regarding
      why the system is no longer supported. As this is all in one line, try to
      make the localized text short (see bug 843497 for screenshots). -->
+<!ENTITY update.unsupported.linkText "เรียนรู้เพิ่มเติม">
+<!ENTITY update.unsupported.end      "">
 
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and
      update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
      is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
      the "em dash" (long dash).
      example: Downloading update — 111 KB of 13 MB -->
+<!ENTITY update.downloading.start   "กำลังดาวน์โหลดการอัปเดต — ">
+<!ENTITY update.downloading.end     "">
 
 <!ENTITY update.applying            "กำลังใช้การอัปเดต…">
 
+<!ENTITY update.restarting          "กำลังเริ่มการทำงานใหม่…">
 
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.
