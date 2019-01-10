@@ -30,6 +30,20 @@
 <!ENTITY insertLinkCmd2.label "ลิงก์…">
 <!ENTITY insertLinkCmd2.accesskey "ล">
 <!ENTITY insertLinkCmd2.key "K">
+<!ENTITY insertAnchorCmd.label "จุดยึดที่มีชื่อ…">
+<!ENTITY insertAnchorCmd.accesskey "จ">
+<!ENTITY insertImageCmd.label "ภาพ…">
+<!ENTITY insertImageCmd.accesskey "ภ">
+<!ENTITY insertHLineCmd.label "เส้นแนวนอน">
+<!ENTITY insertHLineCmd.accesskey "ส">
+<!ENTITY insertTableCmd.label "ตาราง…">
+<!ENTITY insertTableCmd.accesskey "ต">
+<!ENTITY insertHTMLCmd.label "HTML…">
+<!ENTITY insertHTMLCmd.accesskey "H">
+<!ENTITY insertMathCmd.label "คณิตศาสตร์…">
+<!ENTITY insertMathCmd.accesskey "ค">
+<!ENTITY insertCharsCmd.label "อักขระและสัญลักษณ์…">
+<!ENTITY insertCharsCmd.accesskey "อ">
 
 <!-- Used just in context popup. -->
 
