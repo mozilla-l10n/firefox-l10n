@@ -173,6 +173,7 @@ hardware-h264 = Ch'akulakem H264 Relesaxik na'oj
 main-thread-no-omtc = nimaläj b'akoj, majun OMTC
 yes = Ja'
 no = Manäq
+unknown = Man etaman ta ruwäch
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
