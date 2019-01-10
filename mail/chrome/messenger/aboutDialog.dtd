@@ -89,7 +89,7 @@
      why the system is no longer supported. As this is all in one line, try to
      make the localized text short (see bug 843497 for screenshots). -->
 <!ENTITY update.unsupported.start    "您無法在此系統上進行後續更新。">
-<!ENTITY update.unsupported.linkText "詳細資訊">
+<!ENTITY update.unsupported.linkText "了解更多">
 <!ENTITY update.unsupported.end      "">
 
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and
