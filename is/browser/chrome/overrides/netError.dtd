@@ -8,7 +8,11 @@
 <!ENTITY loadError.label "Villa við að hlaða inn síðu">
 <!ENTITY retry.label "Reyna aftur">
 <!ENTITY returnToPreviousPage.label "Til baka">
+<!ENTITY returnToPreviousPage1.label "Til baka (Mælt með)">
 <!ENTITY advanced.label "Ítarlegt">
+<!ENTITY continue2.label "Meira…">
+<!ENTITY moreInformation.label "Nánari upplýsingar">
+<!ENTITY viewCertificate.label "Skoða skilríki">
 
 <!-- Specific error messages -->
 
@@ -93,10 +97,19 @@
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Ekki er hægt að sýna síðuna vegna þess að ekki var hægt að auðkenna gögnin.</li> <li>Hafið samband við vefstjóra svæðisins til að láta hann vita af þessu vandamáli.</li> </ul>">
 
 <!ENTITY certerror.longpagetitle1 "Tenging er ekki örugg">
-<!-- Localization note (certerror.introPara) - The text content of the span tag
+<!ENTITY certerror.longpagetitle2 "Viðvörun: Hugsanleg öryggisáhætta framundan">
+<!ENTITY certerror.sts.longpagetitle  "Tengdist ekki: Mögulegt öryggisvandamál">
+<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Eigandi <span class='hostname'/> hefur stillt vefsvæðið sitt rangt.  Til að koma í veg fyrir að upplýsingunum þínum verði stolið, mun &brandShortName; ekki tengjast þessu vefsvæði.">
+<!ENTITY certerror.introPara2 "&brandShortName; uppgötvaði hugsanlega öryggisógn og hélt ekki áfram á <span class='hostname'/>. Ef þú heimsækir þessa síðu gætu árásarmenn reynt að stela upplýsingum eins og lykilorðum þínum, tölvupósti eða kreditkortaupplýsingum.">
+
+
+<!ENTITY certerror.whatCanYouDoAboutItTitle "Hvað getur þú gert í því?">
+
+
+
 
 <!ENTITY sharedLongDesc "<ul> <li>Vefsvæðið er kannski ekki aðgengilegt eins og stendur eða er upptekið. Reyndu aftur seinna.</li> <li>Ef þú getur ekki hlaðið inn neinni síðu, athugaðu þá nettengingu tölvunnar.</li> <li>Ef tölvan eða netið er varið af eldvegg eða milliþjóni, athugaðu þá hvort &brandShortName; hafi aðgang til þess að fara á netið.</li> </ul>">
 
@@ -108,6 +121,7 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Bæta við undantekningu…">
+<!ENTITY securityOverride.exceptionButton1Label "Samþykkja áhættuna og halda áfram">
 
 <!ENTITY errorReporting.automatic2 "Tilkynntu villur eins og þessa til að hjálpa Mozilla að bera kennsl á og loka á hættuleg vefsvæði">
 <!ENTITY errorReporting.learnMore "Fræðast meira…">
@@ -135,5 +149,10 @@ was trying to connect. -->
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> notast við öryggistækni sem er úreld og ekki lengur örugg. Árásaraðili gæti auðveldlega komist í upplýsingar sem þú telur vera öruggar. Vefumsjónaraðilinn verður að laga miðlarann áður en þú getur heimsótt vefsvæðið .</p><p>Villu kóði: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
+
+
+<!ENTITY clockSkewError.title "Klukkan í tölvunni þinni er vitlaus">
+
 <!ENTITY prefReset.longDesc "Svo virðist sem netöryggisstillingar gætu valdið þessu. Viltu endurheimta sjálfgefnar stillingar?">
 <!ENTITY prefReset.label "Endurheimta sjálfgefnar stillingar">
+
