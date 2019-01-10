@@ -13,7 +13,7 @@
 
 <!ENTITY aboutSupport.crashes.title "ਕਰੈਸ਼ ਰਿਪੋਰਟਾਂ">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
-This is likely the same like id.heading in crashes.dtd. -->
+This is likely the same like id.heading in aboutcrashes.ftl. -->
 <!ENTITY aboutSupport.crashes.id "ਰਿਪੋਰਟ ID">
 <!ENTITY aboutSupport.crashes.sendDate "ਭੇਜੀਆਂ">
 <!ENTITY aboutSupport.crashes.allReports "ਸਭ ਕਰੈਸ਼ ਰਿਪੋਰਟ">
@@ -25,20 +25,17 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "ਵਰਜ਼ਨ">
 <!ENTITY aboutSupport.extensionId "ID">
 
+<!ENTITY aboutSupport.securitySoftwareTitle "ਸੁਰੱਖਿਆ ਸਾਫਟਵੇਅਰ">
+<!ENTITY aboutSupport.securitySoftwareType "ਕਿਸਮ">
+<!ENTITY aboutSupport.securitySoftwareName "ਨਾਂ">
+<!ENTITY aboutSupport.securitySoftwareAntivirus "ਐਂਟੀਵਾਈਰਸ">
+<!ENTITY aboutSupport.securitySoftwareAntiSpyware "ਐਂਟੀਸਪਾਈਵੇਅਰ">
+<!ENTITY aboutSupport.securitySoftwareFirewall "ਫਾਇਰਵਾਲ">
 
 <!ENTITY aboutSupport.featuresTitle "&brandShortName; ਫ਼ੀਚਰ">
 <!ENTITY aboutSupport.featureName "ਨਾਂ">
 <!ENTITY aboutSupport.featureVersion "ਵਰਜ਼ਨ">
 <!ENTITY aboutSupport.featureId "ID">
-
-<!ENTITY aboutSupport.experimentsTitle "ਤਜਰਬੇ ਅਧੀਨ ਫੀਚਰ">
-<!ENTITY aboutSupport.experimentName "ਨਾਂ">
-<!ENTITY aboutSupport.experimentId "ID">
-<!ENTITY aboutSupport.experimentDescription "ਵੇਰਵਾ">
-<!ENTITY aboutSupport.experimentActive "ਸਰਗਰਮ">
-<!ENTITY aboutSupport.experimentEndDate "ਅੰਤ ਮਿਤੀ">
-<!ENTITY aboutSupport.experimentHomepage "ਮੁੱਖ ਸਫ਼ਾ">
-<!ENTITY aboutSupport.experimentBranch "ਬਰਾਂਚ">
 
 <!ENTITY aboutSupport.appBasicsTitle "ਐਪਲੀਕੇਸ਼ਨ ਬੇਸਿਕ">
 <!ENTITY aboutSupport.appBasicsName "ਨਾਂ">
@@ -73,9 +70,10 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsProcessCount "ਵੈੱਬ ਸਮੱਗਰੀ ਕਾਰਵਾਈ">
 
+<!ENTITY aboutSupport.enterprisePolicies "ਇੰਟਰਪ੍ਰਾਈਜ਼ ਨੀਤੀਆਂ">
 
 <!ENTITY aboutSupport.appBasicsKeyGoogle "Google Key">
-<!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla Location Service Key">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla ਟਿਕਾਣਾ ਸੇਵਾ ਕੁੰਜੀ">
 
 <!ENTITY aboutSupport.appBasicsSafeMode "ਸੁਰੱਖਿਅਤ ਮੋਡ">
 
@@ -157,3 +155,12 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceRate "ਰੇਟ">
 <!ENTITY aboutSupport.mediaDeviceLatency "ਦੇਰੀ">
 
+<!ENTITY aboutSupport.intlTitle "ਕੌਮੀਤਰੀਕਰਨ ਤੇ ਇਲਾਕਾਈਕਰਨ">
+<!ENTITY aboutSupport.intlAppTitle "ਐਪਲੀਕੇਸ਼ਨ ਸੈਟਿੰਗਾਂ">
+<!ENTITY aboutSupport.intlLocalesRequested "ਮੰਗ ਕੀਤੇ ਲੋਕੇਲ">
+<!ENTITY aboutSupport.intlLocalesAvailable "ਮੌਜੂਦ ਲੋਕੇਲ">
+<!ENTITY aboutSupport.intlLocalesSupported "ਐਪ ਲੋਕੇਲ">
+<!ENTITY aboutSupport.intlLocalesDefault "ਮੂਲ ਲੋਕੇਲ">
+<!ENTITY aboutSupport.intlOSTitle "ਓਪਰੇਟਿੰਗ ਸਿਸਟਮ">
+<!ENTITY aboutSupport.intlOSPrefsSystemLocales "ਸਿਸਟਮ ਲੋਕੇਲ">
+<!ENTITY aboutSupport.intlRegionalPrefs "ਖੇਤਰੀ ਪਸੰਦਾਂ">

@@ -6,6 +6,10 @@ do-not-track-description = ਜੇ ਤੁਸੀਂ ਟਰੈਕ ਨਹੀਂ ਕ�
 do-not-track-learn-more = ਹੋਰ ਸਿੱਖੋ
 do-not-track-option-default =
     .label = ਕੇਵਲ ਤਾਂ ਜਦੋਂ ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ ਦੀ ਵਰਤੋਂ ਹੁੰਦੀ ਹੋਵੇ
+do-not-track-option-default-content-blocking =
+    .label = ਸਿਰਫ਼ ਜਦੋਂ { -brand-short-name } ਨੂੰ ਟਰੈਕਰ ਖੋਜਣ ਲਈ ਸੈੱਟ ਕੀਤਾ ਗਿਆ ਹੋਵੇ
+do-not-track-option-default-content-blocking-known =
+    .label = ਸਿਰਫ਼ ਜਦੋਂ { -brand-short-name } ਨੂੰ ਜਾਣ-ਪਛਾਣੇ ਟਰੈਕਰਾਂ ਤੇ ਪਾਬੰਦੀ ਲਗਾਉਣ ਲਈ ਸੈੱਟ ਕੀਤਾ ਗਿਆ ਹੋਵੇ
 do-not-track-option-always =
     .label = ਹਮੇਸ਼ਾ
 pref-page =
@@ -134,9 +138,11 @@ set-as-my-default-browser =
 startup-restore-previous-session =
     .label = ਪਿਛਲਾ ਸ਼ੈਸ਼ਨ ਬਹਾਲ ਕਰੋ
     .accesskey = s
+startup-restore-warn-on-quit =
+    .label = ਜਦੋਂ ਬਰਾਊਜ਼ਰ ਨੂੰ ਬੰਦ ਕਰੋ ਤਾਂ ਸਾਵਧਾਨ ਕਰੋ
 disable-extension =
     .label = ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ ਅਸਮਰੱਥ ਕਰੋ
-tabs-group-header = ਪੱਲ੍ਹੇ
+tabs-group-header = ਟੈਬਾਂ
 ctrl-tab-recently-used-order =
     .label = ਤਾਜ਼ਾ ਵਰਤੋਂ ਦੇ ਕ੍ਰਮ ਵਿੱਚ ਟੈਬਾਂ ਵਿੱਚ ਗੇੜੇ ਲਈ Ctrl+Tab ਵਰਤੋ
     .accesskey = T
@@ -212,10 +218,10 @@ check-user-spelling =
 
 ## General Section - Files and Applications
 
-files-and-applications-title = ਜਿਲਦਾਂ ਅਤੇ ਐਪਲੀਕੇਸ਼ਨਾਂ
+files-and-applications-title = ਫ਼ਾਈਲਾਂ ਅਤੇ ਐਪਲੀਕੇਸ਼ਨਾਂ
 download-header = ਡਾਊਨਲੋਡ
 download-save-to =
-    .label = ਜਿਲਦਾਂ ਨੂੰ ਸੰਭਾਲੋ
+    .label = ਫ਼ਾਈਲਾਂ ਨੂੰ ਸੰਭਾਲੋ
     .accesskey = v
 download-choose-folder =
     .label =
@@ -268,6 +274,10 @@ update-application-use-service =
 update-enable-search-update =
     .label = ਖੋਜ ਇੰਜਣਾਂ ਨੂੰ ਆਪਣੇ-ਆਪ ਅੱਪਡੇਟ ਕਰੋ
     .accesskey = e
+update-pref-write-failure-title = ਲਿਖਣਾ ਅਸਫ਼ਲ
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = ਪਸੰਦ ਸੰਭਾਲਣ ਲਈ ਅਸਫ਼ਲ ਹੈ। ਫ਼ਾਈਲ ਲਿਖੀ ਨਹੀਂ ਜਾ ਸਕੀ: { $path }
 
 ## General Section - Performance
 
@@ -301,7 +311,7 @@ browsing-use-onscreen-keyboard =
     .label = ਜਦੋਂ ਲੋੜ ਹੋਵੇ ਤਾਂ ਟੱਚ ਕੀਬੋਰਡ ਨੂੰ ਵੇਖਾਓ
     .accesskey = k
 browsing-use-cursor-navigation =
-    .label = ਪੇਜ਼ ਵਿੱਚ ਨੇਵੀਗੇਸ਼ਨ ਦੌਰਾਨ ਹਮੇਸ਼ਾਂ ਕਰਸਰ ਸਵਿੱਚਾਂ ਵੇਖੋ
+    .label = ਸਫ਼ੇ ਵਿੱਚ ਨੇਵੀਗੇਸ਼ਨ ਦੌਰਾਨ ਹਮੇਸ਼ਾਂ ਕਰਸਰ ਸਵਿੱਚਾਂ ਵੇਖੋ
     .accesskey = c
 browsing-search-on-start-typing =
     .label = ਜਿਵੇਂ ਤੁਸੀਂ ਲਿਖਣਾ ਸ਼ੁਰੂ ਕਰਦੇ ਹੋ ਤਾਂ ਨਾਲ ਨਾਲ ਖੋਜੋ
@@ -346,12 +356,12 @@ home-homepage-custom-url =
 use-current-pages =
     .label =
         { $tabCount ->
-            [1] ਮੌਜੂਦਾ ਵਰਕੇ ਨੂੰ ਵਰਤੋ
-           *[other] ਮੌਜੂਦਾ ਵਰਕਿਆਂ ਨੂੰ ਵਰਤੋ
+            [1] ਮੌਜੂਦਾ ਸਫ਼ੇ ਨੂੰ ਵਰਤੋ
+           *[other] ਮੌਜੂਦਾ ਸਫ਼ਿਆਂ ਨੂੰ ਵਰਤੋ
         }
     .accesskey = C
 choose-bookmark =
-    .label = …ਵਰਕਾ-ਨਿਸ਼ਾਨੀ ਵਰਤੋ
+    .label = …ਬੁੱਕਮਾਰਕ ਵਰਤੋ
     .accesskey = B
 
 ## Search Section
@@ -387,7 +397,7 @@ search-restore-default =
     .label = ਮੂਲ ਖੋਜ ਇੰਜਣ ਨੂੰ ਮੁੜ-ਸਟੋਰ ਕਰੋ
     .accesskey = d
 search-remove-engine =
-    .label = ਹਟਾਉ
+    .label = ਹਟਾਓ
     .accesskey = r
 search-find-more-link = ਹੋਰ ਖੋਜ ਇੰਜਣ ਲੱਭੋ
 # This warning is displayed when the chosen keyword is already in use
@@ -401,14 +411,14 @@ search-keyword-warning-bookmark = ਤੁਸੀਂ ਸ਼ਬਦ ਨੂੰ ਚੁ�
 ## Containers Section
 
 containers-back-link = « ਵਾਪਸ ਜਾਓ
-containers-header = ਗਿਲਾਫ ਪੱਲ੍ਹੇ
+containers-header = ਕਨਟਰੇਨਰ ਟੈਬਾਂ
 containers-add-button =
-    .label = ਨਵਾਂ ਗਿਲਾਫ ਜੋੜੋ
+    .label = ਨਵਾਂ ਕਨਟੇਨਰ ਜੋੜੋ
     .accesskey = A
 containers-preferences-button =
     .label = ਤਰਜੀਹਾਂ
 containers-remove-button =
-    .label = ਹਟਾਉ
+    .label = ਹਟਾਓ
 
 ## Sync Section - Signed out
 
@@ -428,7 +438,7 @@ sync-signedout-account-signin =
 #
 # They can be moved within the sentence as needed to adapt
 # to your language, but should not be changed or translated.
-sync-mobile-promo = ਫਾਇਰਫਾਕਸ ਇਸ ਲਈ ਡਾਊਨੋਡ ਕਰੋ <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">ਐਂਡਰਾਈਡ</a> ਜਾਂ <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> ਫਾਇਰਫਾਕਸ ਨੂੰ ਡਾਊਨਲੋਡ ਕਰੋ।
+sync-mobile-promo = ਆਪਣੇ ਮੋਬਾਈਲ ਡਿਵਾਈਸ ਨਾਲ ਸਿੰਕ ਕਰਨ ਲਈ <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">ਐਂਡਰਾਈਡ</a> ਜਾਂ <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> ਲਈ ਫਾਇਰਫਾਕਸ ਨੂੰ ਡਾਊਨਲੋਡ ਕਰੋ।
 
 ## Sync Section - Signed in
 
@@ -453,13 +463,13 @@ sync-sign-in =
 sync-signedin-settings-header = ਸਿੰਕ ਦੀਆਂ ਸੈਟਿੰਗਾਂ
 sync-signedin-settings-desc = ਚੁਣੋ ਕਿ { -brand-short-name } ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਤੁਹਾਡੇ ਡਿਵਾਈਸਾਂ 'ਤੇ ਕੀ ਸਿੰਕ ਕੀਤਾ ਜਾਵੇ।
 sync-engine-bookmarks =
-    .label = ਵਰਕਾ-ਿਨਸ਼ਾਨੀ
+    .label = ਬੁੱਕਮਾਰਕ
     .accesskey = m
 sync-engine-history =
     .label = ਅਤੀਤ
     .accesskey = r
 sync-engine-tabs =
-    .label = ਪੱਲ੍ਹੇ ਖੋਲ੍ਹੋ
+    .label = ਟੈਬਾਂ ਖੋਲ੍ਹੋ
     .tooltiptext = ਸਾਰੇ ਸਿੰਕ ਕੀਤੇ ਡਿਵਾਈਸਾਂ ਉੱਪਰ ਕੀ ਕੀ ਖੁੱਲ੍ਹਿਆ ਹੈ, ਉਸਦੀ ਸੂਚੀ
     .accesskey = T
 sync-engine-logins =
@@ -482,7 +492,7 @@ sync-engine-prefs =
     .label =
         { PLATFORM() ->
             [windows] ਚੋਣਾਂ
-           *[other] ਮੇਰੀ ਪਸੰਦ
+           *[other] ਮੇਰੀਆਂ ਪਸੰਦਾਂ
         }
     .tooltiptext = ਤੁਹਾਡੇ ਵਲੋਂ ਬਦਲੀਆਂ ਗਈਆਂ ਆਮ, ਪਰਦੇਦਾਰੀ ਅਤੇ ਸੁਰੱਖਿਆ ਸੈਟਿੰਗਾਂ
     .accesskey = S
@@ -497,7 +507,7 @@ sync-device-name-save =
     .label = ਸੰਭਾਲੋ
     .accesskey = v
 sync-mobilepromo-single = ਹੋਰ ਡਿਵਾਈਸ ਨਾਲ ਕਨੈਕਟ ਕਰੋ
-sync-mobilepromo-multi = ਡਿਵਾਈਸ ਦਾ ਪਰਬੰਧ ਕਰੋ
+sync-mobilepromo-multi = ਡਿਵਾਈਸਾਂ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋ
 sync-tos-link = ਸੇਵਾ ਦੀਆਂ ਸ਼ਰਤਾਂ
 sync-fxa-privacy-notice = ਪਰਦੇਦਾਰੀ ਬਾਰੇ ਸੂਚਨਾ
 
@@ -507,7 +517,6 @@ privacy-header = ਬਰਾਊਜ਼ਰ ਪਰਦੇਦਾਰੀ
 
 ## Privacy Section - Forms
 
-forms-header = ਫਾਰਮ ਤੇ ਪਛਾਣ-ਸ਼ਬਦ
 logins-header = ਲਾਗਇਨ ਤੇ ਪਾਸਵਰਡ
 forms-ask-to-save-logins =
     .label = ਵੈੱਬਸਾਈਟਾਂ ਲਈ ਲਾਗਇਨ ਅਤੇ ਪਛਾਣ-ਸ਼ਬਦ ਸੰਭਾਲਣ ਲਈ ਪੁੱਛੋ
@@ -537,7 +546,7 @@ history-header = ਅਤੀਤ
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label = { -brand-short-name } ਕਰੇਗਾ
+history-remember-label = { -brand-short-name }
     .accesskey = w
 history-remember-option-all =
     .label = ਅਤੀਤ ਯਾਦ ਰੱਖੋ
@@ -581,6 +590,9 @@ sitedata-keep-until-expire =
     .label = ਉਹਨਾਂ ਦੀ ਮਿਆਦ ਪੁੱਗਦੀ ਹੈ
 sitedata-keep-until-closed =
     .label = { -brand-short-name } ਬੰਦ ਹੁੰਦਾ ਹੈ
+sitedata-delete-on-close =
+    .label = ਜਦੋਂ { -brand-short-name } ਬੰਦ ਹੋਵੇ ਤਾਂ ਕੂਕੀਜ਼ ਤੇ ਸਾਈਟ ਡਾਟੇ ਨੂੰ ਹਟਾਓ
+    .accesskey = c
 sitedata-allow-cookies-option =
     .label = ਕੂਕੀਜ਼ ਅਤੇ ਸਾਈਟ ਡਾਟੇ ਨੂੰ ਮਨਜ਼ੂਰ ਕਰੋ
     .accesskey = A
@@ -610,6 +622,9 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = ਛੋਟ…
     .accesskey = E
+sitedata-cookies-permissions =
+    .label = …ਇਜਾਜ਼ਤਾਂ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋ
+    .accesskey = P
 
 ## Privacy Section - Address Bar
 
@@ -619,10 +634,10 @@ addressbar-locbar-history-option =
     .label = ਬਰਾਊਜ਼ਿੰਗ ਅਤੀਤ
     .accesskey = H
 addressbar-locbar-bookmarks-option =
-    .label = ਵਰਕਾ-ਨਿਸ਼ਾਨੀਆਂ
+    .label = ਬੁੱਕਮਾਰਕ
     .accesskey = k
 addressbar-locbar-openpage-option =
-    .label = ਪੱਲ੍ਹੇ ਖੋਲ੍ਹੋ
+    .label = ਟੈਬਾਂ ਨੂੰ ਖੋਲ੍ਹੋ
     .accesskey = O
 addressbar-suggestions-settings = ਖੋਜ ਇੰਜਣ ਸੁਝਾਵਾਂ ਲਈ ਪਸੰਦਾਂ ਨੂੰ ਬਦਲੋ
 
