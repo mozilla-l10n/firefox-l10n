@@ -185,7 +185,7 @@ language-and-appearance-header = ਬੋਲੀ ਅਤੇ ਦਿੱਖ
 fonts-and-colors-header = ਫੌਂਟ ਤੇ ਰੰਗ
 default-font = ਡਿਫਾਲਟ ਫੌਂਟ
     .accesskey = D
-default-font-size = ਕੱਦ
+default-font-size = ਆਕਾਰ
     .accesskey = S
 advanced-fonts =
     .label = …ਤਕਨੀਕੀ
@@ -194,7 +194,7 @@ colors-settings =
     .label = …ਰੰਗ
     .accesskey = C
 language-header = ਬੋਲੀ
-choose-language-description = ਵਰਕੇ ਨੂੰ ਵੇਖਣ ਲਈ ਆਪਣੀ ਪਸੰਦੀਦਾ ਬੋਲੀ ਚੁਣੋ
+choose-language-description = ਸਫ਼ੇ ਨੂੰ ਵੇਖਣ ਲਈ ਆਪਣੀ ਪਸੰਦੀਦਾ ਬੋਲੀ ਚੁਣੋ
 choose-button =
     .label = …ਚੁਣੋ
     .accesskey = o
@@ -329,7 +329,7 @@ network-proxy-connection-settings =
 
 ## Home Section
 
-home-new-windows-tabs-header = ਨਵੀਆਂ ਖਿੜਕੀਆਂ ਅਤੇ ਪੱਲ੍ਹੇ
+home-new-windows-tabs-header = ਨਵੀਆਂ ਵਿੰਡੋਆਂ ਅਤੇ ਟੈਬਾਂ
 home-new-windows-tabs-description2 = ਚੁਣੋ ਕਿ ਤੁਸੀਂ ਕੀ ਵੇਖਣਾ ਚਾਹੁੰਦੇ ਹੋ, ਜਦੋਂ ਤੁਸੀਂ ਆਪਣੇ ਮੁੱਖ ਸਫ਼ੇ, ਨਵੀਆਂ ਵਿੰਡੋਆਂ ਅਤੇ ਨਵੀਆਂ ਟੈਬਾਂ ਖੋਲ੍ਹਦੇ ਹੋ।
 
 ## Home Section - Home Page Customization
@@ -346,7 +346,7 @@ home-mode-choice-default =
 home-mode-choice-custom =
     .label = …ਚੁਣਿੰਦਾ URL
 home-mode-choice-blank =
-    .label = ਖ਼ਾਲੀ ਵਰਕਾ
+    .label = ਖ਼ਾਲੀ ਸਫ਼ਾ
 home-homepage-custom-url =
     .placeholder = …URL ਨੂੰ ਚੇਪੋ
 # This string has a special case for '1' and [other] (default). If necessary for
@@ -528,10 +528,10 @@ forms-saved-logins =
     .label = …ਸੰਭਾਲੇ ਹੋਏ ਲਾਗਇਨ
     .accesskey = L
 forms-master-pw-use =
-    .label = ਮਾਸਟਰ ਪਛਾਣ-ਸ਼ਬਦ ਵਰਤੋ
+    .label = ਮਾਸਟਰ ਪਾਸਵਰਡ ਨੂੰ ਵਰਤੋਂ
     .accesskey = U
 forms-master-pw-change =
-    .label = ਮਾਸਟਰ ਪਛਾਣ-ਸ਼ਬਦ ਬਦਲੋ
+    .label = …ਮਾਸਟਰ ਪਾਸਵਰਡ ਨੂੰ ਵਰਤੋਂ
     .accesskey = M
 
 ## Privacy Section - History
@@ -692,6 +692,9 @@ content-blocking-reject-trackers-block-trackers-option =
 content-blocking-reject-trackers-all-third-parties-option =
     .label = ਸਾਰੇ ਤੀਜੀ-ਧਿਰ ਕੂਕੀਜ਼ (ਵੈੱਬਸਾਈਟਾਂ ਦੇ ਕੰਮ ਨਾ ਕਰਨ ਦਾ ਕਾਰਨ ਹੋ ਸਕਦਾ ਹੈ)
     .accesskey = A
+content-blocking-cookies-label =
+    .label = ਕੂਕੀਜ਼
+    .accesskey = C
 
 ## Privacy Section - Tracking
 
@@ -702,7 +705,7 @@ tracking-mode-always =
     .label = ਹਮੇਸ਼ਾ
     .accesskey = y
 tracking-mode-private =
-    .label = ਸਿਰਫ਼ ਨਿੱਜੀ ਬਾਰੀਆਂ ਵਿੱਚ
+    .label = ਸਿਰਫ਼ ਨਿੱਜੀ ਵਿੰਡੋਆਂ ਵਿੱਚ
     .accesskey = l
 tracking-mode-never =
     .label = ਕਦੇ ਨਹੀਂ
@@ -713,6 +716,9 @@ tracking-exceptions =
 tracking-change-block-list =
     .label = ਪਾਬੰਦੀ ਸੂਚੀ ਬਦਲੋ…
     .accesskey = C
+tracking-manage-exceptions =
+    .label = ...ਛੋਟਾਂ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋ
+    .accesskey = x
 
 ## Privacy Section - Permissions
 
@@ -755,7 +761,7 @@ permissions-block-popups =
     .label = ਪੋਪਅੱਪ ਵਿੰਡੋ 'ਤੇ ਪਾਬੰਦੀ ਲਗਾਓ
     .accesskey = B
 permissions-block-popups-exceptions =
-    .label = …ਛੋਟ
+    .label = …ਛੋਟਾਂ
     .accesskey = E
 permissions-addon-install-warning =
     .label = ਜਦੋਂ ਵੈੱਬਸਾਈਟਾਂ ਐਡ-ਆਨ ਇੰਸਟਾਲ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ਾਂ ਕਰਨ ਤਾਂ ਤੁਹਾਨੂੰ ਸਾਵਧਾਨ ਕਰੋ
@@ -779,6 +785,7 @@ collection-health-report-link = ਹੋਰ ਜਾਣੋ
 collection-studies =
     .label = { -brand-short-name } ਨੂੰ ਅਧਿਐਨ ਇੰਸਟਾਲ ਅਤੇ ਚਲਾਉਣ ਦੀ ਇਜਾਜ਼ਤ ਦਿਓ
 collection-studies-link = { -brand-short-name } ਅਧਿਐਨ ਵੇਖੋ
+addon-recommendations-link = ਹੋਰ ਜਾਣੋ
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = ਇਸ ਬਿਲਡ ਸੰਰਚਨਾ ਲਈ ਡਾਟਾ ਰਿਪੋਰਟ ਕਰਨਾ ਅਸਮਰੱਥ ਹੈ
