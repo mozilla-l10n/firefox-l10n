@@ -483,6 +483,8 @@
 <!ENTITY contextCopyMsgMenu.accesskey "K">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Nylig brukt">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "N">
+<!ENTITY contextMoveCopyMsgFavoritesMenu.label "Favoritter">
+<!ENTITY contextMoveCopyMsgFavoritesMenu.accesskey "F">
 <!ENTITY contextSaveAs.label "Lagre som …">
 <!ENTITY contextSaveAs.accesskey "L">
 <!ENTITY contextPrint.label "Skriv ut …">
