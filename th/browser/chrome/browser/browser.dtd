@@ -634,6 +634,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.label      "เพิ่มที่คั่นหน้าสำหรับกรอบนี้">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "ม">
 <!ENTITY pageAction.copyLink.label    "คัดลอกลิงก์">
+
+<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
+  "Pocket" is a brand name. -->
+<!ENTITY pocketButton.tooltiptext     "บันทึกไปยัง Pocket">
+
 <!ENTITY emailPageCmd.label           "ส่งอีเมลลิงก์…">
 <!ENTITY emailPageCmd.accesskey       "ล">
 <!ENTITY savePageCmd.label            "บันทึกหน้าเป็น…">
