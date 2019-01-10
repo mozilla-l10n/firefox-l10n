@@ -4,7 +4,7 @@
 
 tab-title = 検索の設定の復元
 page-title = 検索の設定をもとに戻しますか？
-page-info-outofdate = あなたの検索の設定は期限切れのようです。デフォルトの設定に戻すことができます。
+page-info-outofdate = あなたの検索の設定は期限切れのようです。デフォルト設定に戻すことができます。
 # Variables:
 #   $searchEngine (String) - Name of the default search engine e.g. Google
 page-info-new-search-engine = 次の検索エンジンをデフォルトに設定します:  <span data-l10n-name="default-engine">{ $searchEngine }</span>
