@@ -182,6 +182,7 @@ main-thread-no-omtc = галоўная плынь, без OMTC
 yes = Так
 no = Не
 unknown = Невядома
+virtual-monitor-disp = Адлюстраванне віртуальнага манітора
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
@@ -189,6 +190,8 @@ unknown = Невядома
 
 found = Знойдзены
 missing = Адсутнічае
+gpu-process-pid = GPUProcessPid
+gpu-process = GPUProcess
 gpu-description = Апісанне
 gpu-vendor-id = ID вытворцы
 gpu-device-id = ID прылады
@@ -221,6 +224,7 @@ d3d9video-crash-buard = Відэадэкодэр D3D9
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Скінуць пры наступным перазапуску
 gpu-process-kill-button = Завяршыць GPU працэс
+gpu-device-reset = Скід прылады
 gpu-device-reset-button = Выканаць скід прылады
 uses-tiling = Выкарыстоўвае тайлінг
 content-uses-tiling = Выкарыстоўвае тайлінг (кантэнт)
