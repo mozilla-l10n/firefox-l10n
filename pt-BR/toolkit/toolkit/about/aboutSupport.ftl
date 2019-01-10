@@ -223,7 +223,7 @@ gpu-device-reset = Redefinir dispositivo
 gpu-device-reset-button = Ativar a Redefinição de Dispositivo
 uses-tiling = Usa mosaicos
 content-uses-tiling = Usa mosaicos (conteúdo)
-off-main-thread-paint-enabled = Desenho fora da linha principal habilitado
+off-main-thread-paint-enabled = Ativado o desenho fora do processo principal
 off-main-thread-paint-worker-count = Contagem de desenho fora do tópico principal
 audio-backend = Infraestrutura de Áudio
 max-audio-channels = Máximo de Canais
@@ -256,10 +256,10 @@ multi-process-status-8 = Desativado à força
 multi-process-status-unknown = Status desconhecido
 async-pan-zoom = Deslocamento/Zoom assíncrono
 apz-none = nenhum
-wheel-enabled = entrada wheel habilitada
-touch-enabled = entrada touch habilitada
-drag-enabled = arrasto da barra de rolagem habilitado
-keyboard-enabled = teclado habilitado
+wheel-enabled = entrada com roda do mouse ativada
+touch-enabled = entrada touch ativada
+drag-enabled = arrasto da barra de rolagem ativado
+keyboard-enabled = teclado ativado
 autoscroll-enabled = rolagem automática ativada
 
 ## Variables
