@@ -174,6 +174,7 @@ hardware-h264 = Shkodim Hardware H264
 main-thread-no-omtc = rrjedhë kryesore, jo OMTC
 yes = Po
 no = Jo
+unknown = E panjohur
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
