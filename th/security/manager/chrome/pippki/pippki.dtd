@@ -47,4 +47,4 @@
 <!-- Strings for protectedAuth dialog -->
 <!ENTITY protectedAuth.title "การพิสูจน์ว่าโทเค็นที่ปกป้องไว้เป็นของจริง">
 <!ENTITY protectedAuth.msg "โปรดพิสูจน์ว่าโทเค็นเป็นของจริง วิธีพิสูจน์จะขึ้นกับชนิดของโทเค็น">
-<!ENTITY protectedAuth.tokenName.label "โทเค็น :">
+<!ENTITY protectedAuth.tokenName.label "โทเค็น:">
