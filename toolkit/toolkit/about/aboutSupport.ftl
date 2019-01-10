@@ -176,6 +176,7 @@ hardware-h264 = Laitteistopohjainen H264-koodauksen purku
 main-thread-no-omtc = pääsäie, ei OMTC:tä
 yes = Kyllä
 no = Ei
+unknown = Tuntematon
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
@@ -183,6 +184,8 @@ no = Ei
 
 found = Löytyy
 missing = Puuttuu
+gpu-process-pid = GPU-prosessin PID
+gpu-process = GPU-prosessi
 gpu-description = Kuvaus
 gpu-vendor-id = Valmistajan tunnus
 gpu-device-id = Laitteen tunnus
@@ -215,6 +218,7 @@ d3d9video-crash-buard = D3D9-videopurkaja
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Nollaa seuraavan käynnistyksen yhteydessä
 gpu-process-kill-button = Lopeta GPU-prosessi
+gpu-device-reset = Laitteen nollaus
 gpu-device-reset-button = Aloita laitteen nollaus
 uses-tiling = Käyttää ruutuihin jakoa
 content-uses-tiling = Käyttää ruutuihin jakoa (sisältö)
