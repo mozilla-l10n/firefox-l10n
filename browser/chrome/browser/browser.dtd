@@ -638,6 +638,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
 <!ENTITY pocketButton.tooltiptext     "บันทึกไปยัง Pocket">
+<!ENTITY saveToPocketCmd.label        "บันทึกหน้าไปยัง Pocket">
+<!ENTITY saveToPocketCmd.accesskey    "บ">
+<!ENTITY saveLinkToPocketCmd.label    "บันทึกลิงก์ไปยัง Pocket">
+<!ENTITY saveLinkToPocketCmd.accesskey "น">
+<!ENTITY pocketMenuitem.label         "ดูรายการ Pocket">
 
 <!ENTITY emailPageCmd.label           "ส่งอีเมลลิงก์…">
 <!ENTITY emailPageCmd.accesskey       "ล">
