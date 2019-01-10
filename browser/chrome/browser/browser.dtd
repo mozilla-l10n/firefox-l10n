@@ -869,7 +869,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.enableMixedContentBlocking.accesskey "E">
 <!ENTITY identity.disableMixedContentBlocking.label "暫時停止保護">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
-<!ENTITY identity.learnMore "更多資訊">
+<!ENTITY identity.learnMore "了解更多">
 
 <!ENTITY identity.removeCertException.label "移除例外">
 <!ENTITY identity.removeCertException.accesskey "R">
@@ -1027,7 +1027,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackingProtection.add.label "新增封鎖項目…">
 
 <!ENTITY contentBlocking.3rdPartyCookies.label "第三方 Cookie">
-<!ENTITY contentBlocking.3rdPartyCookies.trackers.label "追蹤 Cookie">
+<!ENTITY contentBlocking.3rdPartyCookies.trackers.label "追蹤用 Cookie">
 <!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking third-party cookies, so this is
