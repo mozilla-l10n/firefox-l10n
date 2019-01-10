@@ -4,10 +4,12 @@
 
 <!-- Window title -->
 <!-- LOCALIZATION NOTE  (editorWindow.titlemodifier): DONT_TRANSLATE -->
+<!ENTITY editorWindow.titlemodifiermenuseparator " - ">
 
 <!-- Menu items:  the . means that the menu item isn't implemented yet -->
 
 <!-- Toolbar-only items -->
+<!ENTITY compositionToolbar.tooltip "แถบเครื่องมือการเขียน">
 <!ENTITY previewToolbarCmd.label "เรียกดู">
 <!ENTITY previewToolbarCmd.tooltip "โหลดหน้านี้ในเบราว์เซอร์">
 
