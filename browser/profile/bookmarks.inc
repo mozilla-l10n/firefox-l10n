@@ -11,6 +11,7 @@
 #define bookmarks_heading ਬੁੱਕਮਾਰਕ
 
 #define bookmarks_toolbarfolder ਬੁੱਕਮਾਰਕ ਟੂਲ-ਪੱਟੀ ਫੋਲਡਰ
+#define bookmarks_toolbarfolder_description ਬੁੱਕਮਾਰਕ ਟੂਲ-ਪੱਟੀ ਵਿੱਚ ਦਿਖਾਉਣ ਲਈ ਬੁੱਕਮਾਰਕਾਂ ਨੂੰ ਇਸ ਫੋਲਡਰ ਵਿੱਚ ਜੋੜੋ
 
 # LOCALIZATION NOTE (getting_started):
 # link title for https://www.mozilla.org/en-US/firefox/central/
