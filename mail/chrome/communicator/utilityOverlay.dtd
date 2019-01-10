@@ -31,10 +31,28 @@
 <!ENTITY selectAllCmd.label          "เลือกทั้งหมด">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey        "อ">
+<!ENTITY preferencesCmd2.label "ตัวเลือก">
+<!ENTITY preferencesCmd2.accesskey "ก">
+<!ENTITY preferencesCmdUnix.label       "ค่ากำหนด">
+<!ENTITY preferencesCmdUnix.accesskey     "ก">
 
+<!ENTITY viewMenu.label          "มุมมอง">
+<!ENTITY viewMenu.accesskey        "ม">
+<!ENTITY viewToolbarsMenu.label        "แถบเครื่องมือ">
+<!ENTITY viewToolbarsMenu.accesskey      "ถ">
+<!ENTITY showTaskbarCmd.label          "แถบสถานะ">
+<!ENTITY showTaskbarCmd.accesskey        "บ">
 
+<!ENTITY closeCmd.label      "ปิด">
 <!ENTITY closeCmd.key      "W">
+<!ENTITY closeCmd.accesskey    "ป">
 
+<!ENTITY quitApplicationCmd.label  "ออก">
 <!ENTITY quitApplicationCmd.key    "Q">
+<!ENTITY quitApplicationCmd.accesskey  "อ">
 
+<!ENTITY quitApplicationCmdUnix.label  "ออก">
+<!ENTITY quitApplicationCmdUnix.accesskey  "อ">
 
+<!ENTITY quitApplicationCmdMac.label  "ออกจาก &brandShortName;">
+<!ENTITY quitApplicationCmdMac.accesskey  "อ">
