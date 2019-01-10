@@ -165,7 +165,7 @@
 <!ENTITY unreadFolders.label "Irakurri gabeak">
 <!ENTITY unreadFolders.accesskey "u">
 <!ENTITY favoriteFolders.label "Gogokoena">
-<!ENTITY favoriteFolders.accesskey "G">
+<!ENTITY favoriteFolders.accesskey "a">
 <!ENTITY recentFolders.label "Oraintsukoa">
 <!ENTITY recentFolders.accesskey "r">
 <!ENTITY compactVersion.label "Ikuspegi trinkoa">
@@ -440,9 +440,6 @@
 <!ENTITY openMessageWindowCmd.label "Ireki mezua">
 <!ENTITY openMessageWindowCmd.accesskey "I">
 <!ENTITY openMessageWindowCmd.key "o">
-<!ENTITY openConversationCmd.label "Ireki hizketaldian">
-<!ENTITY openConversationCmd.accesskey "h">
-<!ENTITY openConversationCmd.key "o">
 <!ENTITY openInConversationCmd.label "Ireki hizketaldian">
 <!ENTITY openInConversationCmd.accesskey "s">
 <!ENTITY openInConversationCmd.key "o">
@@ -795,6 +792,8 @@
 <!ENTITY contextMoveMsgMenu.accesskey "m">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Oraintsukoa">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "O">
+<!ENTITY contextMoveCopyMsgFavoritesMenu.label "Gogokoak">
+<!ENTITY contextMoveCopyMsgFavoritesMenu.accesskey "a">
 <!ENTITY contextCopyMsgMenu.label "Kopiatu hona">
 <!ENTITY contextCopyMsgMenu.accesskey "K">
 <!ENTITY contextKillThreadMenu.label "Ezikusi haria">
