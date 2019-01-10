@@ -290,11 +290,17 @@
 <!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
      Similar to the already existing "pref_whats_new_notification_summary"-->
 <!ENTITY pref_feature_tips_notification_summary "&brandShortName; ਅਤੇ &vendorShortName; ਉਤਪਾਦਂ ਦੀ ਵਰਤੋਂ ਬਾਰੇ ਹੋਰ ਜਾਣੋ">
-
 <!-- Localization note (pref_feature_tips_notification_enabling_hint):
      Describe the action the user should do to enable this preference
      Will be used in the context "<Turn on> ... to enable this feature" -->
 <!ENTITY pref_feature_tips_notification_enabling_hint "ਚਾਲੂ ਕਰੋ">
+
+<!-- Localization note (pref_feature_tips_notification_enabling_path):
+     Nothing to translate. Simple concatenation of already localized strings. Result is used below. -->
+<!ENTITY pref_feature_tips_notification_enabling_path "&pref_category_privacy_short; > &pref_category_datareporting; > &datareporting_fhr_title;">
+<!-- Localization note (pref_feature_tips_notification_enabling_hint):
+     Describe the action the user should do to enable this preference. -->
+<!ENTITY pref_feature_tips_notification_enabling_hint2 "(ਇਹ ਚੋਣ ਸਮਰੱਥ ਕਰਨ ਲਈ, &pref_feature_tips_notification_enabling_path; ਪਹਿਲਾਂ ਹੀ ਸਮਰੱਥ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈੈ।)">
 
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
@@ -840,8 +846,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY whatsnew_notification_title "&brandShortName; ਅੱਪਡੇਟ ਹੈ">
 <!ENTITY whatsnew_notification_summary "ਪਤਾ ਕਰੋ ਕਿ ਇਸ ਨਵੇਂ ਵਰਜ਼ਨ ਵਿੱਚ ਕੀ ਨਵਾਂ ਹੈ">
 
-<!ENTITY promotion_add_page_shortcut "ਸਫ਼ੇ ਦਾ ਸ਼ਾਰਟਕੱਟ ਜੋੜੋ">
-
 <!ENTITY helper_first_offline_bookmark_title "ਆਫ਼ਲਾਈਨ ਪੜ੍ਹੋ">
 <!ENTITY helper_first_offline_bookmark_message "ਬੁੱਕਮਾਰਕ ਵਿੱਚ ਪੜ੍ਹਨ ਦੇਖਣ ਆਈਟਮਾਂ ਨੂੰ ਲੱਭੋ, ਭਾਵੇਂ ਆਫ਼ਲਾਈਨ ਹੋਵੋ।">
 <!ENTITY helper_first_offline_bookmark_button "ਬੁੱਕਮਾਰਕ ਉੱਤੇ ਜਾਓ">
@@ -901,11 +905,17 @@ Picture-in-picture mini window -->
 
 <!-- Notification channels names -->
 <!ENTITY default_notification_channel "&brandShortName;">
+
+<!-- Notification channels names -->
+<!ENTITY default_notification_channel2 "ਬਰਾਊਜ਼ਰ">
 <!ENTITY mls_notification_channel "&vendorShortName; ਟਿਕਾਣਾ ਸੇਵਾ">
 <!ENTITY download_notification_channel "ਡਾਊਨਲੋਡ">
 <!ENTITY media_notification_channel "ਮੀਡੀਆ ਪਲੇਅਬੈਕ">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel "&brandShortName; ਪੁਸ਼ ਨੋਟੀਫਿਕੇਸ਼ਨ">
+<!ENTITY media_notification_channel2 "ਆਵਾਜ਼ ਅਤੇ ਵੀਡਿਓ">
+<!-- These push notifications come without a specific channel and/or name from Leanplum -->
+<!ENTITY leanplum_default_notifications_channel2 "&vendorShortName; ਸੁਝਾਅ ਅਤੇ ਗੁਰ">
 <!ENTITY updater_notification_channel "ਐਪ ਅੱਪਡੇਟ">
 <!ENTITY synced_tabs_notification_channel "ਸਿੰਕ ਕੀਤੀਆਂ ਟੈਬਾਂ">
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
