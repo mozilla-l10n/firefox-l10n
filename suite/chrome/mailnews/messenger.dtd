@@ -483,6 +483,8 @@
 <!ENTITY contextCopyMsgMenu.accesskey "o">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Mais novas">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "M">
+<!ENTITY contextMoveCopyMsgFavoritesMenu.label "Preferidos">
+<!ENTITY contextMoveCopyMsgFavoritesMenu.accesskey "P">
 <!ENTITY contextSaveAs.label "Salvar como arquivo...">
 <!ENTITY contextSaveAs.accesskey "l">
 <!ENTITY contextPrint.label "Imprimir...">
