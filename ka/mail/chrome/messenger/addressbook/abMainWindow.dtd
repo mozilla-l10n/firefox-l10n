@@ -92,57 +92,57 @@
 <!ENTITY viewToolbarsMenu.label                         "ხელსაწყოთა ზოლები">
 <!ENTITY viewToolbarsMenu.accesskey                     "ხ">
 <!ENTITY menubarCmd.label                               "მენიუს პანელი">
-<!ENTITY menubarCmd.accesskey                           "M">
+<!ENTITY menubarCmd.accesskey                           "მ">
 <!ENTITY showAbToolbarCmd.label                         "წიგნაკის ხელსაწყოთა ზოლი">
-<!ENTITY showAbToolbarCmd.accesskey                     "o">
-<!ENTITY showTaskbarCmd.label                           "სტატუსის პანელი">
-<!ENTITY showTaskbarCmd.accesskey                       "S">
+<!ENTITY showAbToolbarCmd.accesskey                     "ზ">
+<!ENTITY showTaskbarCmd.label                           "მდგომარეობის ზოლი">
+<!ENTITY showTaskbarCmd.accesskey                       "მ">
 <!ENTITY customizeToolbar.label                         "მორგება…">
 <!ENTITY customizeToolbar.accesskey                     "რ">
-<!ENTITY layoutMenu.label                               "თარგი">
-<!ENTITY layoutMenu.accesskey                           "L">
-<!ENTITY showDirectoryPane.label                        "დასტის პანელი">
-<!ENTITY showDirectoryPane.accesskey                    "D">
+<!ENTITY layoutMenu.label                               "განლაგება">
+<!ENTITY layoutMenu.accesskey                           "გ">
+<!ENTITY showDirectoryPane.label                        "საქაღალდის არე">
+<!ENTITY showDirectoryPane.accesskey                    "ქ">
 <!ENTITY showContactPane2.label                         "პირის მონაცემების არე">
-<!ENTITY showContactPane2.accesskey                     "C">
+<!ENTITY showContactPane2.accesskey                     "პ">
 <!ENTITY menu_ShowNameAs.label                          "სახელის ჩვენება როგორც">
-<!ENTITY menu_ShowNameAs.accesskey                      "n">
+<!ENTITY menu_ShowNameAs.accesskey                      "ხ">
 <!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
 because displayed names don't have the comma in between. -->
 <!ENTITY firstLastCmd2.label                            "სახელი, გვარი">
-<!ENTITY firstLastCmd2.accesskey                        "f">
+<!ENTITY firstLastCmd2.accesskey                        "ს">
 <!ENTITY lastFirstCmd.label                             "გვარი, სახელი">
-<!ENTITY lastFirstCmd.accesskey                         "l">
-<!ENTITY displayNameCmd.label                           "ეკრანული სახელი">
-<!ENTITY displayNameCmd.accesskey                       "d">
+<!ENTITY lastFirstCmd.accesskey                         "გ">
+<!ENTITY displayNameCmd.label                           "გამოსაჩენი სახელი">
+<!ENTITY displayNameCmd.accesskey                       "ჩ">
 <!ENTITY sortMenu.label                                 "დალაგება">
-<!ENTITY sortMenu.accesskey                             "S">
+<!ENTITY sortMenu.accesskey                             "დ">
 
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label                                "ხელსაწყოები">
-<!ENTITY tasksMenu.accesskey                            "T">
+<!ENTITY tasksMenu.accesskey                            "ლ">
 <!ENTITY messengerCmd.label                             "ფოსტა და ჯგუფები">
-<!ENTITY messengerCmd.accesskey                         "m">
+<!ENTITY messengerCmd.accesskey                         "ფ">
 <!ENTITY messengerCmd.commandkey                        "1">
 <!ENTITY addressBookCmd.label                           "მისამართების წიგნაკი">
 <!ENTITY addressBookCmd.accesskey                       "წ">
 <!ENTITY addressBookCmd.key                             "B">
 <!ENTITY searchAddressesCmd.label                       "მისამართების ძიება…">
-<!ENTITY searchAddressesCmd.accesskey                   "S">
-<!ENTITY importCmd.label                                "იმპორტი…">
-<!ENTITY importCmd.accesskey                            "I">
-<!ENTITY exportCmd.label                                "ექსპორტი…">
-<!ENTITY exportCmd.accesskey                            "E">
+<!ENTITY searchAddressesCmd.accesskey                   "ძ">
+<!ENTITY importCmd.label                                "გადმოტანა…">
+<!ENTITY importCmd.accesskey                            "გ">
+<!ENTITY exportCmd.label                                "გატანა…">
+<!ENTITY exportCmd.accesskey                            "ტ">
 <!ENTITY preferencesCmd2.label                          "პარამეტრები">
 <!ENTITY preferencesCmd2.accesskey                      "მ">
 <!ENTITY preferencesCmdUnix.label                       "პარამეტრები">
-<!ENTITY preferencesCmdUnix.accesskey                   "n">
+<!ENTITY preferencesCmdUnix.accesskey                   "პ">
 
 <!-- Address Book Toolbar and Context Menus -->
 <!ENTITY newContactButton.label                         "ახალი პირი">
-<!ENTITY newContactButton.accesskey                     "C">
+<!ENTITY newContactButton.accesskey                     "ა">
 <!ENTITY newlistButton.label                            "ახალი სია">
-<!ENTITY newlistButton.accesskey                        "L">
+<!ENTITY newlistButton.accesskey                        "ს">
 <!ENTITY showAsDefault.label                            "ნაგულისხმევი საწყისი საქაღალდე">
 <!ENTITY showAsDefault.accesskey                        "ყ">
 <!ENTITY editPropertiesButton.label                     "ჩასწორება">
@@ -155,9 +155,9 @@ because displayed names don't have the comma in between. -->
 <!ENTITY editMailingListContext.label                   "სიის ჩასწორება">
 <!ENTITY editMailingListContext.accesskey               "ს">
 <!ENTITY newmsgButton.label                             "მიწერა">
-<!ENTITY newmsgButton.accesskey                         "შ">
+<!ENTITY newmsgButton.accesskey                         "წ">
 <!ENTITY newIM.label                                    "სწრაფი შეტყობინება">
-<!ENTITY newIM.accesskey                                "წ">
+<!ENTITY newIM.accesskey                                "ფ">
 <!ENTITY printButton.label                              "ამობეჭდვა…">
 <!ENTITY printButton.accesskey                          "ჭ">
 <!ENTITY deleteButton2.label                            "წაშლა">
