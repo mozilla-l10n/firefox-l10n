@@ -10,5 +10,8 @@
 <!ENTITY aboutSupport.accountsIncomingServer "เซิร์ฟเวอร์ขาเข้า">
 <!ENTITY aboutSupport.accountsOutgoingServers "เซิร์ฟเวอร์ขาออก">
 <!ENTITY aboutSupport.accountsServerName "ชื่อ">
+<!ENTITY aboutSupport.accountsAuthMethod "วิธีการรับรองความถูกต้อง">
 <!ENTITY aboutSupport.accountsDefault "ค่าเริ่มต้น?">
+<!ENTITY aboutSupport.identityName "ข้อมูลประจำตัว">
 
+<!ENTITY aboutSupport.sendViaEmail.label "ส่งผ่านอีเมล">
