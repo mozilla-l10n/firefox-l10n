@@ -13,6 +13,8 @@
 <!ENTITY SendMailTo.accesskey              "ქ">
 <!ENTITY CopyEmailAddress.label            "ელფოსტის მისამართის ასლი">
 <!ENTITY CopyEmailAddress.accesskey        "მ">
+<!ENTITY CopyNameAndEmailAddress.label     "სახელისა და ელფოსტის ასლის აღება">
+<!ENTITY CopyNameAndEmailAddress.accesskey "ხ">
 <!ENTITY CreateFilterFrom.label            "ფილტრის შექმნა…">
 <!ENTITY CreateFilterFrom.accesskey        "ფ">
 <!ENTITY openInBrowser.label               "გახსნა ბრაუზერში">
