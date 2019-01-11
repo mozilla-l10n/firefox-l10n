@@ -6,6 +6,7 @@
 ## UI strings for the simplified onboarding modal
 
 onboarding-button-label-try-now = Preuvilo oua
+onboarding-button-label-get-started = Iniçia
 onboarding-welcome-header = Benvegnuo in { -brand-short-name }
 onboarding-start-browsing-button-label = Iniçia a navegâ
 
@@ -24,3 +25,8 @@ onboarding-addons-title = Conponenti azonti
 onboarding-addons-text = Ancon ciù carateristiche che fan travagiâ { -brand-short-name } ancon de ciù pe ti. Confront prexi, contròlla o tenpo ò esprimi  teu personalitæ co 'n tema personalizou.
 onboarding-ghostery-title = Ghostery
 onboarding-ghostery-text = Navega veloce e in mòddo ciù furbo ò seguo con estenscioin comme Ghostery ch'o te blòcca e publicitæ che te ronpan.
+# Note: "Sync" in this case is a generic verb, as in "to synchronize"
+onboarding-fxa-title = Scincronizaçion
+
+## Message strings belonging to the Return to AMO flow
+
