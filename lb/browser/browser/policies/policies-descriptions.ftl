@@ -22,3 +22,9 @@ policy-Cookies = Cookie vu Websäiten erlaben oder verbidden.
 policy-DisableAppUpdate = Updatë vum Browser desaktivéieren.
 policy-DisableBuiltinPDFViewer = De PDF.js, de agebauten PDF-Viewer am { -brand-short-name } desaktivéieren.
 policy-DisableDeveloperTools = Den Zougang zu den Entwéckler-Tools blockéieren.
+policy-DisableFeedbackCommands = D'Befeeler desaktivéieren fir Feedback aus dem Hëllef-Menü ze verschécken (Feedback fortschécken & Trügeresche Site mellen).
+policy-DisableFirefoxAccounts = { -fxaccount-brand-name } baséiert Servicer desaktivéieren, dorënner Sync.
+# Firefox Screenshots is the name of the feature, and should not be translated.
+policy-DisableFirefoxScreenshots = Firefox Screenshots Funktioun desaktivéieren.
+policy-DisableTelemetry = Telemetrie ausschalten.
+policy-Proxy = Proxy-Astellunge festleeën.
