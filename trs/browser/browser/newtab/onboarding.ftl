@@ -31,4 +31,10 @@ onboarding-fxa-text = Gutà' si yuguît guendâ { -fxaccount-brand-name } ni nag
 
 ## Message strings belonging to the Return to AMO flow
 
+return-to-amo-sub-header = 'Ngà nikajt { -brand-short-name }
+# <icon></icon> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-header = Hiaj ni da'ui' giri' <icon></icon><b>{ $addon-name }.</b> guendat
 return-to-amo-extension-button = Nuto' extensiôn
