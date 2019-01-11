@@ -89,7 +89,7 @@
      books.
      -->
 <!ENTITY quickFilterBar.inaddrbook.tooltip
-         "წერილების ჩვენება მხოლოდ პირებისგან თქვენი წიგნაკიდან">
+         "წერილების ჩვენება მხოლოდ თქვენს წიგნაკში არსებული ხალხისგან">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.tags.label):
      The label for the filter button that causes us to filter results to only
