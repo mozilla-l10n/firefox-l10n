@@ -854,7 +854,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.weakEncryption "Orri honek zifraketa ahula erabiltzen du.">
 
 <!-- Strings for connection state warnings in the subview. -->
-<!ENTITY identity.description.insecure "Gune honetarako zure konexioa ez da pribatua. Bidaltzen duzun informazioa besteek ikus lezakete (adibidez pasahitzak, mezuak, kreditu txartelak, etab.).">
+<!ENTITY identity.description.insecure "Gune honetarako zure konexioa ez da pribatua. Bidaltzen duzun informazioa besteek ikus lezakete (adibidez pasahitzak, mezuak, kreditu-txartelak, etab.).">
 <!ENTITY identity.description.insecureLoginForms "Orri honetan sartzen duzun saio-hasiera informazioa ez da segurua eta arriskuan egon liteke.">
 <!ENTITY identity.description.weakCipher "Gune honetarako zure konexioak zifraketa ahula erabiltzen du eta ez da pribatua.">
 <!ENTITY identity.description.weakCipher2 "Besteek zure informazioa ikusi edo webgunearen portaera alda lezakete.">
@@ -863,7 +863,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.passiveLoaded2 "Wegune honek segurua ez den edukia dauka (adibidez irudiak).">
 <!ENTITY identity.description.passiveLoaded3 "Nahiz eta &brandShortName;(e)k zenbait eduki blokeatu duen, segurua ez den edukia dauka oraindik orriak (adibidez irudiak).">
 <!ENTITY identity.description.activeLoaded "Wegune honek segurua ez den edukia dauka (adibidez script-ak) eta zure konexioa ez da pribatua.">
-<!ENTITY identity.description.activeLoaded2 "Gune honekin partekatzen duzun informazioa besteek ikus lezakete (adibidez pasahitzak, mezuak, kreditu txartelak, etab.).">
+<!ENTITY identity.description.activeLoaded2 "Gune honekin partekatzen duzun informazioa besteek ikus lezakete (adibidez pasahitzak, mezuak, kreditu-txartelak, etab.).">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Gaitu babesa">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "G">

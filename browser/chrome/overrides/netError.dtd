@@ -176,6 +176,11 @@ was trying to connect. -->
 <!ENTITY blockedByPolicy.title "Blokeatutako orria">
 
 <!ENTITY certerror.mitm.title "Softwareak &brandShortName;(r)i gune honetara modu seguruan konektatzea eragozten dio">
+<!ENTITY certerror.mitm.longDesc "Litekeena da <span class='hostname'></span> gune segurua izatea baina ezin da konexio segururik ezarri. Arazo hau zure ordenagailuan edo sarean dagoen <span class='mitm-name'/> softwareak eragina da.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt1 'Zure antibirus softwareak konexio zifratuak eskaneatzeko eginbiderik balu (sarritan "web eskaneatzea" edo "https eskaneatzea" deitua), desgaitu egin dezakezu. Horrekin ez badabil, antibirus softwarea ken eta berrinstala dezakezu.'>
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "Enpresako sare batean bazaude, jar zaitezke harremanetan bertako informatika sailarekin.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "Ez bazaizu <span class='mitm-name'/> ezaguna egiten, eraso baten aurrean egon zintezke eta ez zenuke gunera jarraitu behar.">
+<!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "Ez bazaizu <span class='mitm-name'/> ezaguna egiten, eraso baten aurrean egon zintezke eta ezin duzu ezer egin gunera sartzeko.">
 
 <!ENTITY clockSkewError.title "Zure ordenagailuaren erlojua gaizki dago">
 <!ENTITY clockSkewError.longDesc "Zure ordenagailuak uste du <span id='wrongSystemTime_systemDate1'/> dela eta honek &brandShortName;(r)i modu seguruan konektatzea eragozten dio. <span class='hostname'></span> bisitatzeko, jarri egunean zure ordenagailuaren erlojua sistemaren ezarpenetan uneko data, ordua eta ordu-zona kontuan hartuz, eta gero berritu <span class='hostname'></span>.">
