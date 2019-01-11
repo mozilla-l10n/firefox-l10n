@@ -133,7 +133,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.accesskey "I">
 <!ENTITY printCmd.commandkey "p">
 
-<!ENTITY taskManagerCmd.label "Gerenciador de Tarefas">
+<!ENTITY taskManagerCmd.label "Gerenciador de tarefas">
 
 <!ENTITY goOfflineCmd.label "Trabalhar desconectado">
 <!ENTITY goOfflineCmd.accesskey "o">
