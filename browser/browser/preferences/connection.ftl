@@ -73,3 +73,13 @@ connection-dns-over-https =
 connection-dns-over-https-url = URL
     .accesskey = U
     .tooltiptext = آدرسی برای پیدا کردن دی‌ان‌اس از طریق HTTPS
+# Variables:
+#   $url (String) - URL for the DNS over HTTPS provider
+connection-dns-over-https-url-default =
+    .label = استفاده از پیش‌فرض ({ $url })
+    .accesskey = U
+    .tooltiptext = از URL پیش فرض برای مدیریت DNS روی HTTPS استفاده کنید
+connection-dns-over-https-url-custom =
+    .label = سفارشی
+    .accesskey = C
+    .tooltiptext = URL دلخواه خود را برای مدیریت DNS از طریق HTTPS وارد کنید

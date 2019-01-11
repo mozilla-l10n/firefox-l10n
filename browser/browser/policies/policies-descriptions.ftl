@@ -21,4 +21,5 @@ policy-DisableBuiltinPDFViewer = غیرفعال کردن PDF.js، نمایشگر
 policy-DisableDeveloperTools = دسترسی به ابزارهای توسعه‌دهندگان را مسدود کنید.
 policy-DisableFormHistory = جستجو وتاریخچه فرم را به خاطر نسپار.
 policy-DNSOverHTTPS = پیکربندی DNS بر روی HTTPS.
+policy-DontCheckDefaultBrowser = غیر فعال کردن بررسی مرورگر پیش‌فرض در هنگام راه اندازی
 policy-Proxy = پیکربندی تنظیمات پروکسی

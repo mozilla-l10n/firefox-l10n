@@ -519,7 +519,6 @@ privacy-header = حریم خصوصی مرورگر
 
 ## Privacy Section - Forms
 
-forms-header = فرم‌ها و گذرواژه‌ها
 logins-header = ورودها و گذرواژه‌ها
 forms-ask-to-save-logins =
     .label = در مورد ذخیره کردن نام‌کاربری و گذرواژه‌ها برای پایگاه‌ها سوال کن
@@ -608,6 +607,9 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = استثناها…
     .accesskey = ت
+sitedata-cookies-permissions =
+    .label = مدیریت مجوزها...
+    .accesskey = P
 
 ## Privacy Section - Address Bar
 
@@ -653,6 +655,24 @@ content-blocking-tracking-protection-option-always =
 content-blocking-tracking-protection-option-private =
     .label = تنها در پنجره‌های ناشناس
     .accesskey = p
+# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+content-blocking-setting-standard =
+    .label = استاندارد
+    .accesskey = d
+content-blocking-setting-strict =
+    .label = شدید
+    .accesskey = r
+content-blocking-setting-custom =
+    .label = سفارشی
+    .accesskey = C
+content-blocking-standard-description = فقط ردیاب های شناخته شده را در پنجره‌های مرور خصوصی مسدود کن.
+content-blocking-tracking-protection-option-all-windows =
+    .label = در همه پنجره‌ها
+    .accesskey = A
+content-blocking-option-private =
+    .label = تنها در پنجره‌های ناشناس
+    .accesskey = p
 content-blocking-tracking-protection-change-block-list = تغییر لیست مسدودی‌ها
 content-blocking-third-party-cookies-label =
     .label = کوکی‌های شخص ثالث
@@ -688,6 +708,9 @@ tracking-exceptions =
 tracking-change-block-list =
     .label = تغییر فهرست مسدودی‌ها…
     .accesskey = ت
+tracking-manage-exceptions =
+    .label = مدیریت استثناها…
+    .accesskey = x
 
 ## Privacy Section - Permissions
 
@@ -755,6 +778,7 @@ collection-health-report-link = بیشتر بدانید
 collection-studies =
     .label = اجازه دادن به { -brand-short-name } برای نصب و اجرای studyها
 collection-studies-link = نمایش studyهای { -brand-short-name }
+addon-recommendations-link = بیشتر بدانید
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = گزارش کردن داده‌ها برای این پیکربندی ساخته شده غیرفعال شده است
