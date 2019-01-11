@@ -440,9 +440,6 @@
 <!ENTITY openMessageWindowCmd.label "İletiyi aç">
 <!ENTITY openMessageWindowCmd.accesskey "t">
 <!ENTITY openMessageWindowCmd.key "o">
-<!ENTITY openConversationCmd.label "Dizi görünümünde aç">
-<!ENTITY openConversationCmd.accesskey "D">
-<!ENTITY openConversationCmd.key "o">
 <!ENTITY openInConversationCmd.label "Dizi görünümünde aç">
 <!ENTITY openInConversationCmd.accesskey "D">
 <!ENTITY openInConversationCmd.key "o">
@@ -795,6 +792,8 @@
 <!ENTITY contextMoveMsgMenu.accesskey "T">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Son kullanılan">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "k">
+<!ENTITY contextMoveCopyMsgFavoritesMenu.label "Sık kullanılanlar">
+<!ENTITY contextMoveCopyMsgFavoritesMenu.accesskey "S">
 <!ENTITY contextCopyMsgMenu.label "Buraya kopyala">
 <!ENTITY contextCopyMsgMenu.accesskey "B">
 <!ENTITY contextKillThreadMenu.label "Diziyi göz ardı et">
