@@ -67,6 +67,12 @@ connection-proxy-autologin =
 connection-proxy-socks-remote-dns =
     .label = SOCKS v5 వాడేటప్పుడు ప్రాక్సీ DNS
     .accesskey = D
+# Variables:
+#   $url (String) - URL for the DNS over HTTPS provider
+connection-dns-over-https-url-default =
+    .label = అప్రమేయాన్ని వాడు ({ $url })
+    .accesskey = U
+    .tooltiptext = DNSను HTTPS ద్వారా పరిష్కరించడానికి అప్రమేయ URLను వాడు
 connection-dns-over-https-url-custom =
     .label = అభిమతం
     .accesskey = C
