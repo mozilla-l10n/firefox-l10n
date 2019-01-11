@@ -7,7 +7,7 @@
 <!ENTITY activeColumn.label "Ativado">
 <!ENTITY newButton.label "Novo…">
 <!ENTITY newButton.accesskey "N">
-<!ENTITY newButton.popupCopy.label "Cópia…">
+<!ENTITY newButton.popupCopy.label "Copiar…">
 <!ENTITY newButton.popupCopy.accesskey "C">
 <!ENTITY editButton.label "Editar…">
 <!ENTITY editButton.accesskey "E">
@@ -24,7 +24,7 @@
 <!ENTITY reorderBottomButton.accessKey "T">
 <!ENTITY reorderBottomButton.toolTip "Reordenar filtro para que ele seja executado após todos os outros">
 <!ENTITY filterHeader.label "Filtros ativados são executados automaticamente na ordem exibida abaixo.">
-<!ENTITY filtersForPrefix.label "Configurar filtros para:">
+<!ENTITY filtersForPrefix.label "Filtros para:">
 <!ENTITY filtersForPrefix.accesskey "o">
 <!ENTITY viewLogButton.label "Exibir relatório">
 <!ENTITY viewLogButton.accesskey "l">
