@@ -186,4 +186,5 @@ apz-none = ไม่มี
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+policies-active = ใช้งานอยู่
 policies-error = ข้อผิดพลาด

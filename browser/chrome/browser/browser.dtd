@@ -1180,7 +1180,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tabHideControlled.disableButton.label "ปิดใช้งานส่วนขยาย">
 <!ENTITY tabHideControlled.disableButton.accesskey "ป">
 
-<!ENTITY pageActionButton.tooltip "การกระทำของหน้า">
+<!ENTITY pageActionButton.tooltip "การกระทำหน้า">
 <!ENTITY pageAction.addToUrlbar.label "เพิ่มไปยังแถบที่อยู่">
 <!ENTITY pageAction.removeFromUrlbar.label "เอาออกจากแถบที่อยู่">
 <!ENTITY pageAction.manageExtension.label "จัดการส่วนขยาย…">
