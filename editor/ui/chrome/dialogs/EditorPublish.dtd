@@ -1,0 +1,19 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- Window title -->
+<!ENTITY windowTitle.label            "เผยแพร่หน้า">
+<!ENTITY windowTitleSettings.label    "การตั้งค่าการเผยแพร่">
+<!ENTITY publishTab.label             "เผยแพร่">
+<!ENTITY settingsTab.label            "การตั้งค่า">
+<!ENTITY publishButton.label          "เผยแพร่">
+
+<!-- Publish Tab Panel -->
+<!ENTITY siteList.label               "ชื่อไซต์:">
+<!ENTITY siteList.accesskey           "ช">
+<!ENTITY siteList.tooltip             "เลือกไซต์ที่คุณต้องการเผยแพร่">
+<!ENTITY newSiteButton.label          "ไซต์ใหม่">
+<!ENTITY newSiteButton.accesskey      "ต">
+
+<!-- Settings Tab Panel -->
