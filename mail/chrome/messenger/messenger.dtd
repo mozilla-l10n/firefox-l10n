@@ -792,6 +792,8 @@
 <!ENTITY contextMoveMsgMenu.accesskey "ტ">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "ბოლო">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "ბ">
+<!ENTITY contextMoveCopyMsgFavoritesMenu.label "რჩეულები">
+<!ENTITY contextMoveCopyMsgFavoritesMenu.accesskey "ჩ">
 <!ENTITY contextCopyMsgMenu.label "ასლი –">
 <!ENTITY contextCopyMsgMenu.accesskey "ლ">
 <!ENTITY contextKillThreadMenu.label "მიმოწერის უგულებელყოფა">
