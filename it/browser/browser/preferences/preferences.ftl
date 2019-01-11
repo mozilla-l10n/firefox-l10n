@@ -444,7 +444,7 @@ containers-remove-button =
 
 sync-signedout-caption = Il tuo Web, sempre con te
 sync-signedout-description = Sincronizza segnalibri, cronologia, schede, password, componenti aggiuntivi e impostazioni attraverso tutti i tuoi dispositivi.
-sync-signedout-account-title = Connetti il tuo { -fxaccount-brand-name[lowercase] }
+sync-signedout-account-title = Connetti il tuo { -fxaccount-brand-name(capitalization: "lowercase") }
 sync-signedout-account-create = Non hai ancora un account? Scopri come crearne uno
     .accesskey = h
 sync-signedout-account-signin =
