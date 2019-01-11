@@ -27,3 +27,14 @@ onboarding-ghostery-text = با افزونه‌هایی مثل Ghostery که ب�
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = هم‌گام‌سازی
 onboarding-fxa-text = برای { -fxaccount-brand-name } ثبت نام کنید و نشانک‌ها، گدرواژه‌ها و زبانه‌ها را با هرجایی که از { -brand-short-name } استفاده می‌کنید، هم‌گام‌سازی نمایید.
+
+## Message strings belonging to the Return to AMO flow
+
+return-to-amo-sub-header = عالی است، شما { -brand-short-name } را دریافت کردید
+# <icon></icon> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-header = حالا اجازه بدهید برایتان <icon></icon><b>{ $addon-name } را بگبریم.</b>
+return-to-amo-extension-button = اضافه کردن افزونه
+return-to-amo-get-started-button = شروع با { -brand-short-name }
