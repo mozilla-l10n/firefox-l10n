@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY Contact.tab                     "პირი">
-<!ENTITY Contact.accesskey               "კ">
+<!ENTITY Contact.accesskey               "პ">
 <!ENTITY Name.box                        "სახელი">
 
 <!-- LOCALIZATION NOTE:
@@ -89,7 +89,7 @@
 <!ENTITY Department.label               "განყოფილება:">
 <!ENTITY Department.accesskey           "ფ">
 <!ENTITY Company.label                  "დაწესებულება:">
-<!ENTITY Company.accesskey              "ო">
+<!ENTITY Company.accesskey              "უ">
 <!ENTITY WorkAddress.label              "მისამართი:">
 <!ENTITY WorkAddress.accesskey          "მ">
 <!ENTITY WorkAddress2.label             "">
