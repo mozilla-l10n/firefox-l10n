@@ -20,13 +20,13 @@
 <!ENTITY requestMDN.label             "Se alguém me solicitar uma confirmação de leitura:">
 <!ENTITY returnSome.label             "Permitir confirmações de leitura nestas situações:">
 <!ENTITY returnSome.accesskey         "r">
-<!ENTITY never.label                  "Não enviar">
+<!ENTITY never.label                  "Nunca enviar uma confirmação de leitura">
 <!ENTITY never.accesskey              "N">
-<!ENTITY notInToCc.label              "Eu não estou em Para ou Cc:">
+<!ENTITY notInToCc.label              "Se eu não estiver em Para ou Cc da mensagem:">
 <!ENTITY notInToCc.accesskey          "u">
-<!ENTITY outsideDomain.label          "Remetente está fora do meu domínio:">
+<!ENTITY outsideDomain.label          "Se o remetente estiver fora do meu domínio:">
 <!ENTITY outsideDomain.accesskey      "m">
-<!ENTITY otherCases.label             "Nos demais casos:">
+<!ENTITY otherCases.label             "Em todos os outros casos:">
 <!ENTITY otherCases.accesskey         "o">
 <!ENTITY askMe.label                  "Perguntar">
 <!ENTITY alwaysSend.label             "Sempre enviar">
