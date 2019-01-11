@@ -181,6 +181,8 @@ hardware-h264 = Decodare H264 hardware
 main-thread-no-omtc = fir principal, fără OMTC
 yes = Da
 no = Nu
+unknown = Necunoscut
+virtual-monitor-disp = Afișarea monitorului virtual
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
@@ -188,6 +190,8 @@ no = Nu
 
 found = Găsită
 missing = Lipsă
+gpu-process-pid = GPUProcessPid
+gpu-process = GPUProcess
 gpu-description = Descriere
 gpu-vendor-id = ID-ul vânzătorului
 gpu-device-id = ID-ul dispozitivului
@@ -220,6 +224,7 @@ d3d9video-crash-buard = Decodor video D3D9
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Resetează la următoarea repornire
 gpu-process-kill-button = Termină procesul GPU
+gpu-device-reset = Resetare dispozitiv
 gpu-device-reset-button = Declanșează resetarea dispozitivului
 uses-tiling = Folosește tiling
 content-uses-tiling = Folosește Tiling (Conținut)
