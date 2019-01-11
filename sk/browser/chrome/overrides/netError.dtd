@@ -12,7 +12,6 @@
 <!ENTITY advanced.label "Rozšírené">
 <!ENTITY continue2.label "Viac…">
 <!ENTITY moreInformation.label "Ďalšie informácie">
-
 <!ENTITY viewCertificate.label "Zobraziť certifikát">
 
 <!-- Specific error messages -->
@@ -148,15 +147,15 @@
 
 <!ENTITY certerror.longpagetitle1 "Vaše pripojenie nie je zabezpečené">
 <!ENTITY certerror.longpagetitle2 "Varovanie: možné bezpečnostné riziko">
+<!ENTITY certerror.sts.longpagetitle  "Nepripojené: možné bezpečnostné riziko">
 <!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Vlastník stránky <span class='hostname'/> nakonfiguroval svoju stránku nesprávne.  Kvôli ochrane vašich údajov pred odcudzením blokuje &brandShortName; pripojenie k tejto webovej stránke.">
 <!ENTITY certerror.introPara2 "Aplikácia &brandShortName; rozpoznala potenciálne bezpečnostné riziko a stránku <span class='hostname'/> nenačítala. Ak sa napriek tomu rozhodnete danú stránku navštíviť, útočníci sa môžu pokúsiť odcudziť vaše informácie, ako napríklad heslá, e-mailové adresy alebo údaje o platobných kartách.">
+<!ENTITY certerror.sts.introPara "Aplikácia &brandShortName; rozpoznala potenciálne bezpečnostné riziko a stránku <span class='hostname'/> nenačítala, pretože táto webová stránka vyžaduje zabezpečené pripojenie.">
 
-<!ENTITY certerror.expiredCert.secondPara "Tento problém je pravdepodobne spôsobený chybným nastavením času na vašom počítači, ktoré bráni aplikácii &brandShortName; v nadviazaní zabezpečeného spojenia.">
-
-
+<!ENTITY certerror.expiredCert.introPara "Aplikácia &brandShortName; rozpoznala problém a stránku <span class='hostname'/> nenačítala. Webová stránka je buď zle nastavená alebo hodiny na vašom počítači nejdú správne.">
 <!ENTITY certerror.expiredCert.secondPara2 "Pravdepodobne stránke vypršala platnosť certifikátu, čo bráni aplikácii &brandShortName; bezpečne sa pripojiť. Ak sa napriek tomu rozhodnete stránku navštíviť, útočníci sa môžu pokúsiť ukradnúť vaše informácie, ako sú heslá, e-mailové adresy alebo čísla platobných kariet.">
 <!ENTITY certerror.expiredCert.sts.secondPara "Pravdepodobne stránke vypršala platnosť certifikátu, čo bráni aplikácii &brandShortName; bezpečne sa pripojiť.">
 
@@ -213,6 +212,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.pagetitle1  "Nezabezpečené pripojenie">
 <!ENTITY certerror.pagetitle2  "Varovanie: možné bezpečnostné riziko">
+<!ENTITY certerror.sts.pagetitle  "Nepripojené: možné bezpečnostné riziko">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Táto stránka používa HTTP
 Strict Transport Security (HSTS), čím určuje, že &brandShortName; sa k nej má pripájať len zabezpečene.
 Výsledkom toho je, že pre tento certifikát nie je možné pridať výnimku.">
@@ -225,6 +225,13 @@ Výsledkom toho je, že pre tento certifikát nie je možné pridať výnimku.">
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> využíva technológiu zabezpečenia, ktorá je zastaraná a zraniteľná voči útokom. Útočník by mohol jednoducho odhaliť informácie, o ktorých ste si mysleli, že sú v bezpečí. Správca webovej stránky ju bude musieť pred jej ďalšou návštevou opraviť.</p><p>Kód chyby: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Zablokovaná stránka">
+
+<!ENTITY certerror.mitm.title "&brandShortName; nemôže nadviazať zabezpečené pripojenie s touto stránkou">
+<!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> je pravdepodobne bezpečná stránka, ale nie je možné s ňou nadviazať zabezpečené pripojenie. Tento problém spôsobuje softvér <span class='mitm-name'/>, ktorý je buď umiestnený vo vašom počítači alebo v sieti.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "Ak váš antivírusový program obsahuje funkciu skenovania šifrovaných spojení (často nazývaná ako „skenovanie webu“ alebo „skenovanie https“), môžete túto funkciu skúsiť vypnúť. Ak to nepomôže, môžete skúsiť antivírusový program odstrániť a preinštalovať.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "Ak ste na firemnej sieti, kontaktujte jej IT oddelenie.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "Ak <span class='mitm-name'/> nepoznáte, môže ísť o útok a nemali by ste pokračovať v pokusoch o pripojenie sa k tejto stránke.">
+<!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "Ak <span class='mitm-name'/> nepoznáte, môže ísť o útok a bohužiaľ nie je možné urobiť nič, aby ste sa mohli pripojiť k tejto stránke.">
 
 <!ENTITY clockSkewError.title "Hodiny vo vašom počítači sú zle nastavené">
 <!ENTITY clockSkewError.longDesc "Váš počítač si myslí, že je <span id='wrongSystemTime_systemDate1'/>, čo bráni aplikácii &brandShortName; bezpečne sa spojiť so serverom. Ak chcete navštíviť <span class='hostname'></span>, upravte nastavenia dátumu a času vo vašom počítači na správne hodnoty a obnovte <span class='hostname'></span>.">
