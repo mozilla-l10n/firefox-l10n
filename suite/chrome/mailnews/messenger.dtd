@@ -483,6 +483,8 @@
 <!ENTITY contextCopyMsgMenu.accesskey "ლ">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "უახლესი">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "ლ">
+<!ENTITY contextMoveCopyMsgFavoritesMenu.label "რჩეულები">
+<!ENTITY contextMoveCopyMsgFavoritesMenu.accesskey "ჩ">
 <!ENTITY contextSaveAs.label "შენახვა როგორც…">
 <!ENTITY contextSaveAs.accesskey "რ">
 <!ENTITY contextPrint.label "ბეჭდვა…">
