@@ -91,7 +91,7 @@
 <!ENTITY viewMenu.accesskey                             "ვ">
 <!ENTITY viewToolbarsMenu.label                         "ხელსაწყოთა ზოლები">
 <!ENTITY viewToolbarsMenu.accesskey                     "ხ">
-<!ENTITY menubarCmd.label                               "მენიუს პანელი">
+<!ENTITY menubarCmd.label                               "მენიუს ზოლი">
 <!ENTITY menubarCmd.accesskey                           "მ">
 <!ENTITY showAbToolbarCmd.label                         "წიგნაკის ხელსაწყოთა ზოლი">
 <!ENTITY showAbToolbarCmd.accesskey                     "ზ">
