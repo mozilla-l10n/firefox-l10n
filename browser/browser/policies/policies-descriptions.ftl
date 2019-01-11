@@ -15,6 +15,7 @@ policy-BlockAboutAddons = دسترسی به مدیریت افزونه‌ها (ab
 policy-BlockAboutConfig = دسترسی به صفحه about:config را مسدود کنید.
 policy-BlockAboutProfiles = دسترسی به صفحه about:profiles را مسدود کنید.
 policy-BlockAboutSupport = دسترسی به صفحه about:support را مسدود کنید.
+policy-CertificatesDescription = گواهینامه‌ها را اضافه کنید یا از گواهینامه‌های داخلی استفاده کنید.
 policy-DisableAppUpdate = جلوگیری از به روز رسانی مرورگر.
 policy-DisableBuiltinPDFViewer = غیرفعال کردن PDF.js، نمایشگر داخلی PDF در { -brand-short-name }.
 policy-DisableDeveloperTools = دسترسی به ابزارهای توسعه‌دهندگان را مسدود کنید.
