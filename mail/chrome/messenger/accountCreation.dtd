@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY autoconfigWizard2.title         "ตั้งค่าบัญชีอีเมลที่มีอยู่">
 <!ENTITY name.label                      "ชื่อของคุณ:">
 <!ENTITY name.accesskey                  "ช">
 <!ENTITY name.placeholder                "ชื่อ นามสกุล">
@@ -33,25 +34,53 @@
 <!-- LOCALIZATION NOTE(noEncryption.label): Neither SSL/TLS nor STARTTLS.
      Transmission of emails in cleartext over the Internet. -->
 <!ENTITY noEncryption.label              "ไม่มี">
+<!ENTITY starttls.label                  "STARTTLS">
+<!ENTITY sslTls.label                    "SSL/TLS">
 
 <!-- LOCALIZATION NOTE(exchange-hostname.label): Do not translate Exchange, it is a product name. -->
+<!ENTITY exchange-hostname.label         "เซิร์ฟเวอร์ Exchange:">
 
+<!ENTITY advancedSetup.label             "การกำหนดค่าขั้นสูง">
+<!ENTITY advancedSetup.accesskey         "ก">
+<!ENTITY cancel.label                    "ยกเลิก">
+<!ENTITY cancel.accesskey                "ย">
+<!ENTITY continue.label                  "ดำเนินการต่อ">
+<!ENTITY continue.accesskey              "ด">
+<!ENTITY stop.label                      "หยุด">
+<!ENTITY stop.accesskey                  "ห">
 <!-- LOCALIZATION NOTE (half-manual-test.label): This is the text that is
      displayed on the button in manual edit mode which will re-guess
      the account configuration, taking into account the settings that
      the user has manually changed. -->
+<!ENTITY half-manual-test.label          "ทดสอบใหม่">
+<!ENTITY half-manual-test.accesskey      "ท">
+<!ENTITY manual-edit.label               "การกำหนดค่าด้วยตนเอง">
+<!ENTITY manual-edit.accesskey           "ก">
+<!ENTITY open-provisioner.label          "รับที่อยู่อีเมลใหม่…">
+<!ENTITY open-provisioner.accesskey      "ร">
 
 
+<!ENTITY warning.label                   "คำเตือน!">
+<!ENTITY incomingSettings.label          "การตั้งค่าขาเข้า:">
+<!ENTITY outgoingSettings.label          "การตั้งค่าขาออก:">
+<!ENTITY technicaldetails.label          "รายละเอียดทางเทคนิค">
 <!-- LOCALIZATION NOTE (confirmWarning.label): If there is a security
      warning on the outgoing server, then the user will need to check a
      checkbox beside this text before continuing. -->
+<!ENTITY confirmWarning.label            "ฉันเข้าใจความเสี่ยง">
+<!ENTITY confirmWarning.accesskey        "น">
 <!-- LOCALIZATION NOTE (doneAccount.label): If there is a security warning
      on the incoming or outgoing servers, then the page that pops up will
      have this text in a button to continue by creating the account. -->
+<!ENTITY doneAccount.label               "เสร็จสิ้น">
+<!ENTITY doneAccount.accesskey           "ส">
 <!-- LOCALIZATION NOTE (changeSettings.label): If there is a security warning on
      the incoming or outgoing servers, then the page that pops up will have
      this text in a button to take you back to the previous page to change
      the settings and try again. -->
+<!ENTITY changeSettings.label            "เปลี่ยนการตั้งค่า">
+<!ENTITY changeSettings.accesskey        "ป">
 
 
+<!ENTITY insecureServer.tooltip.details  "คลิกวงกลมสำหรับรายละเอียดเพิ่มเติม">
 
