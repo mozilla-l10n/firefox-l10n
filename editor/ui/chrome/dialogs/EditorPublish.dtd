@@ -15,5 +15,9 @@
 <!ENTITY siteList.tooltip             "เลือกไซต์ที่คุณต้องการเผยแพร่">
 <!ENTITY newSiteButton.label          "ไซต์ใหม่">
 <!ENTITY newSiteButton.accesskey      "ต">
+<!ENTITY docDirList.label             "ไดเรกทอรีย่อยสำหรับหน้านี้:">
+<!ENTITY docDirList.accesskey         "ด">
+<!ENTITY publishImgCheckbox.label     "รวมภาพและไฟล์อื่น ๆ">
+<!ENTITY publishImgCheckbox.accesskey "ร">
 
 <!-- Settings Tab Panel -->
