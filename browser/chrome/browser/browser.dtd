@@ -635,6 +635,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.label      "ჩარჩოს ჩანიშვნა">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "ჩ">
 <!ENTITY pageAction.copyLink.label    "ბმულის ასლი">
+
+<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
+  "Pocket" is a brand name. -->
+<!ENTITY pocketButton.tooltiptext     "Pocket-ში შენახვა">
+<!ENTITY saveToPocketCmd.label        "გვერდის შენახვა Pocket-ში">
+<!ENTITY saveToPocketCmd.accesskey    "k">
+<!ENTITY saveLinkToPocketCmd.label    "ბმულის შენახვა Pocket-ში">
+<!ENTITY saveLinkToPocketCmd.accesskey "o">
+<!ENTITY pocketMenuitem.label         "Pocket-ის სიის ნახვა">
+
 <!ENTITY emailPageCmd.label           "ბმულის გაგზავნა ელფოსტით…">
 <!ENTITY emailPageCmd.accesskey       "ე">
 <!ENTITY savePageCmd.label            "გვერდის შენახვა როგორც…">
