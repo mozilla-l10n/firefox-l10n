@@ -2,10 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY propertiesMenu.label               "คุณสมบัติ">
-<!ENTITY propertiesMenu.accesskey           "ค">
-<!ENTITY propertiesCmd.key                  "i">
-
-
-
-
+<!-- Labels -->
+<!ENTITY name.label      "ชื่อสมุดรายชื่อ:">
+<!ENTITY name.accesskey  "ช">
