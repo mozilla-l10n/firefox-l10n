@@ -13,6 +13,7 @@
 <!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessage.accesskey "ข">
+<!ENTITY newContact.label "ผู้ติดต่อของสมุดรายชื่อ…">
 <!ENTITY attachMenu.label "แนบ">
 <!ENTITY attachMenu.accesskey "น">
 <!ENTITY attachFileCmd.label "ไฟล์…">

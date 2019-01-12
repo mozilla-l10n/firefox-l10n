@@ -134,6 +134,9 @@
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "ตั้งขนาดแบบอักษร">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "ขนาดแบบอักษรเล็กลง">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "ขนาดแบบอักษรใหญ่ขึ้น">
+<!ENTITY boldToolbarCmd.tooltip "ตัวหนา">
+<!ENTITY italicToolbarCmd.tooltip "ตัวเอียง">
+<!ENTITY underlineToolbarCmd.tooltip "ขีดเส้นใต้">
 
 <!-- Structure Toolbar Context Menu items -->
 
