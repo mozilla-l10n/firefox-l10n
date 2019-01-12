@@ -7,3 +7,4 @@
 <!ENTITY  newMessageCmd.label             "ข้อความ">
 <!ENTITY  newMessageCmd.accesskey         "ข">
 
+<!ENTITY  newContactCmd.label             "ผู้ติดต่อของสมุดรายชื่อ…">

@@ -30,7 +30,7 @@ file names and tall enough to hint that there are more activities in the list --
 <!ENTITY cmd.close2Unix.commandkey        "y">
 <!ENTITY cmd.clearList.label              "ล้างรายการ">
 <!ENTITY cmd.clearList.tooltip            "เอารายการที่เสร็จสมบูรณ์ ถูกยกเลิก และล้มเหลวออกจากรายการ">
-<!ENTITY cmd.clearList.accesskey          "อ">
+<!ENTITY cmd.clearList.accesskey          "ง">
 <!ENTITY cmd.find.commandkey              "f">
 <!ENTITY cmd.search.commandkey            "k">
 
