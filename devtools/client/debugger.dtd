@@ -43,6 +43,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.sources.toggleBreakpoints): This is the tooltip for the
   -  button that toggles all breakpoints for all sources. -->
+<!ENTITY debuggerUI.sources.toggleBreakpoints "Kích hoạt/vô hiệu hóa tất cả các điểm dừng">
 
 <!-- LOCALIZATION NOTE (debuggerUI.clearButton): This is the label for
   -  the button that clears the collected tracing data in the tracing tab. -->
