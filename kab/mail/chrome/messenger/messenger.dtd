@@ -440,9 +440,6 @@
 <!ENTITY openMessageWindowCmd.label "Ldi izen">
 <!ENTITY openMessageWindowCmd.accesskey "L">
 <!ENTITY openMessageWindowCmd.key "o">
-<!ENTITY openConversationCmd.label "Ldi deg udiwenni">
-<!ENTITY openConversationCmd.accesskey "d">
-<!ENTITY openConversationCmd.key "o">
 <!ENTITY openInConversationCmd.label "Ldi deg udiwenni">
 <!ENTITY openInConversationCmd.accesskey "L">
 <!ENTITY openInConversationCmd.key "i">
@@ -795,6 +792,8 @@
 <!ENTITY contextMoveMsgMenu.accesskey "k">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Melmi kan">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "m">
+<!ENTITY contextMoveCopyMsgFavoritesMenu.label "Inurifen">
+<!ENTITY contextMoveCopyMsgFavoritesMenu.accesskey "f">
 <!ENTITY contextCopyMsgMenu.label "Nɣel ɣeṛ">
 <!ENTITY contextCopyMsgMenu.accesskey "N">
 <!ENTITY contextKillThreadMenu.label "Zgel asqerdec">
