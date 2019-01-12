@@ -4,6 +4,7 @@
 
 <!ENTITY Contact.tab                     "ผู้ติดต่อ">
 <!ENTITY Contact.accesskey               "ผ">
+<!ENTITY Name.box                        "ชื่อ">
 
 <!-- LOCALIZATION NOTE:
  NameField1, NameField2, PhoneticField1, PhoneticField2
@@ -14,11 +15,29 @@
 -->
 
 <!-- LOCALIZATION NOTE (NameField1.id) : DONT_TRANSLATE -->
+<!ENTITY NameField1.id                  "FirstName">
 <!-- LOCALIZATION NOTE (NameField2.id) : DONT_TRANSLATE -->
+<!ENTITY NameField2.id                  "LastName">
 <!-- LOCALIZATION NOTE (PhoneticField1.id) : DONT_TRANSLATE -->
+<!ENTITY PhoneticField1.id              "PhoneticFirstName">
 <!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
+<!ENTITY PhoneticField2.id              "PhoneticLastName">
 
+<!ENTITY NameField1.label               "ชื่อจริง:">
+<!ENTITY NameField1.accesskey           "ช">
+<!ENTITY NameField2.label               "นามสกุล:">
+<!ENTITY NameField2.accesskey           "น">
+<!ENTITY PhoneticField1.label           "การออกเสียง:">
+<!ENTITY PhoneticField2.label           "การออกเสียง:">
+<!ENTITY DisplayName.label              "การแสดงผล:">
+<!ENTITY DisplayName.accesskey          "ก">
+<!ENTITY NickName.label                 "ชื่อเล่น:">
+<!ENTITY NickName.accesskey             "อ">
 
+<!ENTITY PrimaryEmail.label             "อีเมล:">
+<!ENTITY PrimaryEmail.accesskey         "ม">
+<!ENTITY SecondEmail.label              "อีเมลเพิ่มเติม:">
+<!ENTITY SecondEmail.accesskey          "ล">
 
 
 

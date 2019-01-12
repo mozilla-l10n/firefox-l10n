@@ -5,7 +5,7 @@
 <!ENTITY autoconfigWizard2.title         "ตั้งค่าบัญชีอีเมลที่มีอยู่">
 <!ENTITY name.label                      "ชื่อของคุณ:">
 <!ENTITY name.accesskey                  "ช">
-<!ENTITY name.placeholder                "ชื่อ นามสกุล">
+<!ENTITY name.placeholder                "ชื่อจริง นามสกุล">
 <!ENTITY email.label                     "ที่อยู่อีเมล:">
 <!ENTITY email.accesskey                 "ท">
 <!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
