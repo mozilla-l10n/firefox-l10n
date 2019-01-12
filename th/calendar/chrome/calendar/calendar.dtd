@@ -17,6 +17,7 @@
 <!ENTITY calendar.upcoming.button.label       "กำลังจะมาถึง">
 
 <!ENTITY calendar.events.filter.all.label "เหตุการณ์ทั้งหมด">
+<!ENTITY calendar.events.filter.future.label "เหตุการณ์ในอนาคตทั้งหมด">
 <!ENTITY calendar.events.filter.currentview.label "เหตุการณ์ในมุมมองปัจจุบัน">
 <!ENTITY calendar.events.filter.next7Days.label "เหตุการณ์ใน 7 วันถัดไป">
 <!ENTITY calendar.events.filter.next14Days.label "เหตุการณ์ใน 14 วันถัดไป">
@@ -94,6 +95,7 @@
 <!ENTITY calendar.orientation.label "หมุนมุมมอง" >
 <!ENTITY calendar.orientation.accesskey "ห" >
 
+<!ENTITY calendar.search.options.searchfor " มี">
 
 <!ENTITY calendar.list.header.label                 "ปฏิทิน">
 
