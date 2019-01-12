@@ -1,0 +1,29 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY conversationsHeader.label     "การสนทนา">
+<!ENTITY searchResultConversation.label "ผลการค้นหา">
+
+
+<!ENTITY openConversationCmd.label     "เริ่มการสนทนา">
+<!ENTITY openConversationCmd.accesskey "ร">
+<!ENTITY closeConversationCmd.label    "ปิดการสนทนา">
+<!ENTITY closeConversationCmd.accesskey "ป">
+<!ENTITY aliasCmd.label                "เปลี่ยนชื่อ">
+<!ENTITY aliasCmd.accesskey            "ป">
+<!ENTITY deleteCmd.label               "เอาผู้ติดต่อออก">
+<!ENTITY deleteCmd.accesskey           "อ">
+
+<!ENTITY openConversationButton.tooltip  "เริ่มการสนทนา">
+<!ENTITY closeConversationButton.tooltip "ปิดการสนทนา">
+
+<!ENTITY addBuddyButton.label          "เพิ่มผู้ติดต่อ">
+<!ENTITY chatAccountsButton.label      "แสดงบัญชี">
+
+<!ENTITY status.available          "พร้อมใช้งาน">
+<!ENTITY status.unavailable        "ไม่พร้อมใช้งาน">
+<!ENTITY status.offline            "ออฟไลน์">
+
+<!ENTITY openLinkCmd.label            "เปิดลิงก์…">
+<!ENTITY openLinkCmd.accesskey        "ป">
