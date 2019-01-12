@@ -48,20 +48,44 @@
 <!-- Used just in context popup. -->
 
 <!-- Font Face SubMenu -->
+<!ENTITY FontFaceSelect.tooltip "เลือกแบบอักษร">
+<!ENTITY fontfaceMenu.label "แบบอักษร">
+<!ENTITY fontfaceMenu.accesskey "บ">
+<!ENTITY fontVarWidth.label "ความกว้างแปรผัน">
+<!ENTITY fontVarWidth.accesskey "ค">
+<!ENTITY fontFixedWidth.label "ความกว้างคงที่">
+<!ENTITY fontFixedWidth.accesskey "ว">
 <!ENTITY fontFixedWidth.key "T">
+<!ENTITY fontHelvetica.label "Helvetica, Arial">
+<!ENTITY fontHelvetica.accesskey "l">
+<!ENTITY fontTimes.label "Times">
+<!ENTITY fontTimes.accesskey "T">
+<!ENTITY fontCourier.label "Courier">
+<!ENTITY fontCourier.accesskey "C">
 
 <!-- Font Size SubMenu -->
+<!ENTITY FontSizeSelect.tooltip "เลือกขนาดแบบอักษร">
+<!ENTITY decreaseFontSize.label "เล็กลง">
+<!ENTITY decreaseFontSize.accesskey "ล">
 <!ENTITY decrementFontSize.key "&lt;">
 <!ENTITY decrementFontSize.key2 ","> <!-- < is above this key on many keyboards -->
+<!ENTITY increaseFontSize.label "ใหญ่ขึ้น">
+<!ENTITY increaseFontSize.accesskey "ห">
 <!ENTITY incrementFontSize.key "&gt;">
 <!ENTITY incrementFontSize.key2 "."> <!-- > is above this key on many keyboards -->
 
+<!ENTITY fontSizeMenu.label "ขนาด">
+<!ENTITY fontSizeMenu.accesskey "ข">
 
 <!-- Font Style SubMenu -->
+<!ENTITY fontStyleMenu.label "ลักษณะข้อความ">
+<!ENTITY fontStyleMenu.accesskey "ก">
 <!ENTITY styleBoldCmd.key "B">
 <!ENTITY styleItalicCmd.key "I">
 <!ENTITY styleUnderlineCmd.key "U">
 
+<!ENTITY formatFontColor.label "สีข้อความ…">
+<!ENTITY formatFontColor.accesskey "ส">
 
 <!ENTITY formatRemoveStyles.key "Y">
 <!ENTITY formatRemoveLinks.key "K">
@@ -107,6 +131,9 @@
 <!ENTITY findToolbarCmd.tooltip "ค้นหาข้อความในหน้า">
 
 <!-- Editor toolbar -->
+<!ENTITY absoluteFontSizeToolbarCmd.tooltip "ตั้งขนาดแบบอักษร">
+<!ENTITY decreaseFontSizeToolbarCmd.tooltip "ขนาดแบบอักษรเล็กลง">
+<!ENTITY increaseFontSizeToolbarCmd.tooltip "ขนาดแบบอักษรใหญ่ขึ้น">
 
 <!-- Structure Toolbar Context Menu items -->
 
