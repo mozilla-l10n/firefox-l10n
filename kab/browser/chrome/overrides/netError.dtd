@@ -12,7 +12,6 @@
 <!ENTITY advanced.label "Iɣewwaṛen leqqayen ">
 <!ENTITY continue2.label "Ugar…">
 <!ENTITY moreInformation.label "Ugar n telɣut">
-
 <!ENTITY viewCertificate.label "Sken aselkin">
 
 <!-- Specific error messages -->
@@ -104,9 +103,6 @@ will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Imawlan n <span class='hostname'/> ur sewlen ara akken iwata asmel-nsen.  Iwakken ad tettummesten telɣut-inek seg takwerḍa, &brandShortName; ur yeqqin ara ɣeṛ usmel-a web.">
 <!ENTITY certerror.introPara2 "&brandShortName; yufa-d dakken izmer ad yili ugur n teɣlist u ur ikemmel ara ɣer <span class='hostname'/>. Ma terziḍ ɣer usmel, Imakwaren zemren ad ɛerḍen ad akren talɣut yecban awalen uffiren, imaylen, neɣ talqayt n tkerḍa n usmad.">
-
-<!ENTITY certerror.expiredCert.secondPara "Ugur-agi ad yili iḍra-d imi akud n uselkim-inek mačči d ameɣtu, aya issewḥel tuqna n &brandShortName; s tɣellist.">
-
 <!ENTITY certerror.sts.introPara "&brandShortName; yufa-d dakken izmer ad yili ugur n teɣlist u ur ikemmel ara ɣer <span class='hostname'/> acku asmel-agi isra tuqqna tɣelsant.">
 
 <!ENTITY certerror.expiredCert.introPara "&brandShortName; Yufa-d ugur u ur ikemmel ara ɣer <span class='hostname'/>. Asmel web atan ur ittwasbadu ara neɣ tamrilt n uselkim-ik/im ur tettwasbadu ara ɣer wakud iwatan.">
@@ -165,6 +161,9 @@ was trying to connect. -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span>yesseqdac tatiknulujit yezrin ur yezmiren ara ad temmesten mgal azḍam. Azeddam yezmer ad yakker talɣut i tɣileḍ tettummesten. Anedbal n usmel yesra di tazwara ad yefru aqeddac send ad tinigeḍ ɣer usmel.</p><p>Tangalt n tuccḍa: NS_ERROR_NET_INADEQUATE_SECURIT</p>">
 
 <!ENTITY blockedByPolicy.title "Asebter iwḥel">
+
+<!ENTITY certerror.mitm.title "Aseɣẓan ad yinni i &brandShortName; ɣef tuqqna taɣelsant i usmel-a">
+<!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> ahat d asmel aɣelsan, maca ilaq ad termed tuqqna taɣelsant. Ugur-a iḍra-d sɣur <span class='mitm-name'/>, i yellan d aseɣẓan deg uselkim-inek neɣ deg uẓeṭṭa-inek.">
 
 <!ENTITY clockSkewError.title "Asarag n uselkim-inek ur teseḥa ara">
 <!ENTITY clockSkewError.longDesc "Aselkim-inek iɣil d <span id='wrongSystemTime_systemDate1'/>, aya isewḥel tuqqna n &brandShortName; s tɣellist. Akken ad terzuḍ ɣer <span class='hostname'></span>, leqqem asarag n uselkim-inek deg iɣewwaṛen n unagraw ɣer uzemz, akud, akked tamnaḍt takudant iwatan, sakin smiren <span class='hostname'></span>.">

@@ -174,6 +174,7 @@ main-thread-no-omtc = akala afessas agejdan, ulac OMTC
 yes = Ih
 no = Ala
 unknown = Arussin
+virtual-monitor-disp = Taskant n ugdil araɣaṛan
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
@@ -181,6 +182,8 @@ unknown = Arussin
 
 found = Yettwaf
 missing = ulac-it
+gpu-process-pid = GPUProcessPid
+gpu-process = GPUProcess
 gpu-description = Aglam
 gpu-vendor-id = Asulay n umzenzi
 gpu-device-id = Asulay n yibenk
@@ -213,6 +216,7 @@ d3d9video-crash-buard = D3D9 Video Decoder
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Ales awennez deg usenker d-itteddun
 gpu-process-kill-button = Seḥbes akala GPU
+gpu-device-reset = Awennez n ibenk
 gpu-device-reset-button = Awennez n ibnek
 uses-tiling = Iseqdac akallaj
 content-uses-tiling = Seqdec asebleḍ (Agbur)
