@@ -19,6 +19,7 @@
 <!ENTITY closeConversationButton.tooltip "ปิดการสนทนา">
 
 <!ENTITY addBuddyButton.label          "เพิ่มผู้ติดต่อ">
+<!ENTITY joinChatButton.label          "เข้าร่วมแชท">
 <!ENTITY chatAccountsButton.label      "แสดงบัญชี">
 
 <!ENTITY status.available          "พร้อมใช้งาน">

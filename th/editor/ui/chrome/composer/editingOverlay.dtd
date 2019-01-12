@@ -15,7 +15,7 @@
 <!ENTITY saveCmd.accesskey "บ">
 <!ENTITY saveAsCmd.label "บันทึกเป็น…">
 <!ENTITY saveAsCmd.accesskey "น">
-<!ENTITY saveAsChangeEncodingCmd2.label "บันทึกและเปลี่ยนการเข้ารหัสข้อความ">
+<!ENTITY saveAsChangeEncodingCmd2.label "บันทึกแล้วเปลี่ยนการเข้ารหัสข้อความ">
 <!ENTITY saveAsChangeEncodingCmd2.accesskey "ท">
 <!ENTITY publishCmd.label "เผยแพร่">
 <!ENTITY publishCmd.accesskey "ผ">
