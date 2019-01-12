@@ -290,11 +290,16 @@
 <!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
      Similar to the already existing "pref_whats_new_notification_summary"-->
 <!ENTITY pref_feature_tips_notification_summary "&brandShortName; மற்றும் பிற &vendorShortName; தயாரிப்புகளைப் பயன்படுத்துவது பற்றி மேலும் அறிய">
-
 <!-- Localization note (pref_feature_tips_notification_enabling_hint):
      Describe the action the user should do to enable this preference
      Will be used in the context "<Turn on> ... to enable this feature" -->
 <!ENTITY pref_feature_tips_notification_enabling_hint "செயல்படுத்து">
+
+<!-- Localization note (pref_feature_tips_notification_enabling_path):
+     Nothing to translate. Simple concatenation of already localized strings. Result is used below. -->
+<!ENTITY pref_feature_tips_notification_enabling_path "&pref_category_privacy_short; > &pref_category_datareporting; > &datareporting_fhr_title;">
+<!-- Localization note (pref_feature_tips_notification_enabling_hint):
+     Describe the action the user should do to enable this preference. -->
 
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
@@ -837,8 +842,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY whatsnew_notification_title "&brandShortName; இற்றைப்படுத்தப்பட்டுள்ளது">
 <!ENTITY whatsnew_notification_summary "இந்த பதிப்பில் என்ன புதியது என காண்">
 
-<!ENTITY promotion_add_page_shortcut "பக்கத்தின் குறுக்குவழியை சேர்">
-
 <!ENTITY helper_first_offline_bookmark_title "இணையம் இல்லாமல் வாசி">
 <!ENTITY helper_first_offline_bookmark_message "இணையமற்ற நிலையிலும் வாசிப்பு பட்டியலை புத்தகக்குறிகளில் காணலாம்.">
 <!ENTITY helper_first_offline_bookmark_button "புத்தகக்குறிக்குச் செல்">
@@ -898,11 +901,17 @@ Picture-in-picture mini window -->
 
 <!-- Notification channels names -->
 <!ENTITY default_notification_channel "&brandShortName;">
+
+<!-- Notification channels names -->
+<!ENTITY default_notification_channel2 "உலாவி">
 <!ENTITY mls_notification_channel "&vendorShortName; இடமறியும் சேவை">
 <!ENTITY download_notification_channel "பதிவிறக்கங்கள்">
 <!ENTITY media_notification_channel "ஊடக இயக்கம்">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel "&brandShortName; அனுப்பும் அறிவிப்புகள்">
+<!ENTITY media_notification_channel2 "ஒலியும் ஒளியும்">
+<!-- These push notifications come without a specific channel and/or name from Leanplum -->
+<!ENTITY leanplum_default_notifications_channel2 "&vendorShortName; குறிப்புகள் உத்திகள்">
 <!ENTITY updater_notification_channel "செயலியின் புதுப்பிப்புகள்">
 <!ENTITY synced_tabs_notification_channel "ஒத்திசைவு கீற்றுகள்">
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
