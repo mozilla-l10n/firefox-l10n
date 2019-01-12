@@ -44,7 +44,7 @@ policy-DisplayMenuBar = Hiển thị thanh bảng chọn theo mặc định.
 policy-DNSOverHTTPS = Cấu hình DNS qua HTTPS.
 policy-DontCheckDefaultBrowser = Tắt kiểm tra trình duyệt mặc định khi khởi động.
 # “lock” means that the user won’t be able to change this setting
-policy-EnableTrackingProtection = Bật hoặc tắt chặn nội dung và tùy chọn khóa nó.
+policy-EnableTrackingProtection = Kích hoạt hoặc vô hiệu hóa chặn nội dung và tùy chọn khóa nó.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.

@@ -167,7 +167,7 @@ show-tabs-in-taskbar =
     .label = Hiển thị hình ảnh xem trước thẻ trong thanh tác vụ Windows
     .accesskey = k
 browser-containers-enabled =
-    .label = Bật thẻ ngăn chứa
+    .label = Kích hoạt thẻ ngăn chứa
     .accesskey = n
 browser-containers-learn-more = Tìm hiểu thêm
 browser-containers-settings =
@@ -176,7 +176,7 @@ browser-containers-settings =
 containers-disable-alert-title = Đóng tất cả các thẻ ngăn chứa?
 containers-disable-alert-desc = Nếu bạn vô hiệu hóa thẻ ngăn chứa bây giờ, { $tabCount } thẻ ngăn chứa sẽ bị đóng. Bạn có chắc muốn vô hiệu hóa thẻ ngăn chứa?
 containers-disable-alert-ok-button = Đóng { $tabCount } thẻ ngăn chứa
-containers-disable-alert-cancel-button = Để bật
+containers-disable-alert-cancel-button = Tiếp tục kích hoạt
 containers-remove-alert-title = Xóa ngăn chứa này?
 # Variables:
 #   $count (Number) - Number of tabs that will be closed.
