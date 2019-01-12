@@ -541,7 +541,7 @@ forms-master-pw-use =
     .label = Dùng một mật khẩu chính
     .accesskey = D
 forms-master-pw-change =
-    .label = Thay đổi Mật khẩu Chính…
+    .label = Thay đổi mật khẩu chính…
     .accesskey = M
 
 ## Privacy Section - History
