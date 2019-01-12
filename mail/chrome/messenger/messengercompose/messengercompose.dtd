@@ -30,6 +30,9 @@
 <!ENTITY closeCmd.accesskey "ป">
 <!ENTITY saveCmd.label "บันทึก">
 <!ENTITY saveCmd.key "S">
+<!ENTITY saveCmd.accesskey "บ">
+<!ENTITY saveAsCmd.label "บันทึกเป็น">
+<!ENTITY saveAsCmd.accesskey "น">
 
 <!-- Edit Menu -->
 <!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.accesskey):
