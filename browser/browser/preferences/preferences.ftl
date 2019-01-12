@@ -541,7 +541,7 @@ forms-master-pw-use =
     .label = ใช้รหัสผ่านหลัก
     .accesskey = ช
 forms-master-pw-change =
-    .label = เปลี่ยนรหัสผ่านหลัก
+    .label = เปลี่ยนรหัสผ่านหลัก…
     .accesskey = ผ
 
 ## Privacy Section - History
