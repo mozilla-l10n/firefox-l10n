@@ -28,17 +28,30 @@
 
 <!ENTITY community.start2           "&brandShortName; ได้รับการออกแบบโดย ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to https://www.mozilla.org/. -->
+<!ENTITY community.mozillaLink      "&vendorShortName;">
+<!ENTITY community.middle2          " ซึ่งเป็น ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
+<!ENTITY community.creditsLink      "ชุมชนระดับโลก">
+<!ENTITY community.end3             " ที่ทำงานร่วมกันเพื่อทำให้เว็บเปิดกว้าง เป็นของสาธารณะ และเข้าถึงได้ทุกคน">
 
+<!ENTITY helpus.start               "ต้องการที่จะช่วย? ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to the thunderbird donation page -->
+<!ENTITY helpus.donateLink          "ทำการบริจาค">
+<!ENTITY helpus.middle              " หรือ ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to https://www.thunderbird.net/get-involved/. -->
+<!ENTITY helpus.getInvolvedLink     "มีส่วนร่วม!">
+<!ENTITY helpus.end                 "">
 
+<!ENTITY releaseNotes.link          "บันทึกประจำรุ่น">
 
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
+<!ENTITY bottomLinks.license        "ข้อมูลสัญญาอนุญาต">
 
 <!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
+<!ENTITY bottomLinks.rights         "สิทธิผู้ใช้">
 
 <!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to https://www.mozilla.org/legal/privacy/. -->
+<!ENTITY bottomLinks.privacy        "นโยบายความเป็นส่วนตัว">
 
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.checkingForUpdates  "กำลังตรวจสอบการอัปเดต…">
