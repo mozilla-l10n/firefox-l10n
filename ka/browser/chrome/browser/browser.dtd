@@ -347,7 +347,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "ხელსაწყოები">
-<!ENTITY toolsMenu.accesskey          "ხ">
+<!ENTITY toolsMenu.accesskey          "წ">
 
 <!ENTITY keywordfield.label           "ძიებისთვის საკვანძო სიტყვის მინიჭება…">
 <!ENTITY keywordfield.accesskey       "მ">
