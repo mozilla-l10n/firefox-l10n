@@ -749,6 +749,8 @@
 <!ENTITY contextMoveMsgMenu.accesskey "z">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Ostatni">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "O">
+<!ENTITY contextMoveCopyMsgFavoritesMenu.label "Ulubione">
+<!ENTITY contextMoveCopyMsgFavoritesMenu.accesskey "U">
 <!ENTITY contextCopyMsgMenu.label "Kopiuj do">
 <!ENTITY contextCopyMsgMenu.accesskey "K">
 <!ENTITY contextKillThreadMenu.label "Ignoruj wątek">
