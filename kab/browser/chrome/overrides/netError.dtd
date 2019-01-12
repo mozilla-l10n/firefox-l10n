@@ -164,6 +164,10 @@ was trying to connect. -->
 
 <!ENTITY certerror.mitm.title "Aseɣẓan ad yinni i &brandShortName; ɣef tuqqna taɣelsant i usmel-a">
 <!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> ahat d asmel aɣelsan, maca ilaq ad termed tuqqna taɣelsant. Ugur-a iḍra-d sɣur <span class='mitm-name'/>, i yellan d aseɣẓan deg uselkim-inek neɣ deg uẓeṭṭa-inek.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "Ma yeqber aseɣẓan-ik n mgalavirus timahaltin ittnadin deg iẓeḍwa ( isem-nsent aḍuman web neɣ aḍuman https), tzemreḍ ad tsenseḍ tamahilt-a. ma yella ur teddu ara, tzemreḍ ad tt-tekseḍ neɣ ad talseḍ asebded n useɣẓan mgalavirus.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "Ma tedceḍ aẓeṭṭa n tkebbanit; nermes anedbal n ugezdu IT.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "Ma ur tuɣeḍ ara tanumi akked <span class='mitm-name'/>, Aya izmer ad yili d attεeddi ihi ur isefk ara ad tkemleḍ ɣer usmel-a.">
+<!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "Ma ur tuɣeḍ ara tanumi akked <span class='mitm-name'/>, Aya izmer ad yili d attεeddi ihi ulac ayen ara txedmeḍ akken ad tkemleḍ ɣer usmel-a.">
 
 <!ENTITY clockSkewError.title "Asarag n uselkim-inek ur teseḥa ara">
 <!ENTITY clockSkewError.longDesc "Aselkim-inek iɣil d <span id='wrongSystemTime_systemDate1'/>, aya isewḥel tuqqna n &brandShortName; s tɣellist. Akken ad terzuḍ ɣer <span class='hostname'></span>, leqqem asarag n uselkim-inek deg iɣewwaṛen n unagraw ɣer uzemz, akud, akked tamnaḍt takudant iwatan, sakin smiren <span class='hostname'></span>.">
