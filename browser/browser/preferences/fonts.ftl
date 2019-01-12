@@ -89,7 +89,7 @@ fonts-monospace = ความกว้างคงที่
     .accesskey = ว
 fonts-monospace-size = ขนาด
     .accesskey = น
-fonts-minsize = ขนาดอักษรขั้นต่ำ
+fonts-minsize = ขนาดแบบอักษรต่ำสุด
     .accesskey = ด
 fonts-minsize-none =
     .label = ไม่มี
@@ -138,7 +138,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = เวียดนาม
 fonts-languages-fallback-name-other =
     .label = อื่น ๆ (รวมถึงยุโรปตะวันตก)
-fonts-very-large-warning-title = ขนาดอักษรเล็กสุดที่ใหญ่
+fonts-very-large-warning-title = ขนาดแบบอักษรต่ำสุดใหญ่
 fonts-very-large-warning-message = คุณได้เลือกขนาดอักษรเล็กสุดที่ใหญ่มาก (มากกว่า 24 พิกเซล) โดยอาจจะทำให้ยากหรือเป็นไปไม่ได้สำหรับการใช้งานการตั้งค่าหน้าที่สำคัญบางหน้าอย่างเช่นหน้านี้
 fonts-very-large-warning-accept = เก็บการเปลี่ยนแปลงของฉันต่อไป
 # Variables:
