@@ -55,12 +55,12 @@
 
 <!-- Toolbar -->
 <!ENTITY  event.toolbar.save.label2                       "บันทึก">
-<!ENTITY  event.toolbar.saveandclose.label                "บันทึกและปิด">
+<!ENTITY  event.toolbar.saveandclose.label                "บันทึกแล้วปิด">
 <!ENTITY  event.toolbar.delete.label                      "ลบ">
 <!ENTITY  event.toolbar.privacy.label                     "ความเป็นส่วนตัว">
 
 <!ENTITY  event.toolbar.save.tooltip2                     "บันทึก">
-<!ENTITY  event.toolbar.saveandclose.tooltip              "บันทึกและปิด">
+<!ENTITY  event.toolbar.saveandclose.tooltip              "บันทึกแล้วปิด">
 <!ENTITY  event.toolbar.delete.tooltip                    "ลบ">
 <!ENTITY  event.toolbar.attachments.tooltip               "เพิ่มไฟล์แนบ">
 <!ENTITY  event.toolbar.privacy.tooltip                   "เปลี่ยนความเป็นส่วนตัว">
