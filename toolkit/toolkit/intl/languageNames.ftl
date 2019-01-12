@@ -116,6 +116,7 @@ language-name-sd = Sindhi
 language-name-se = Nordsamisk
 language-name-sl = Slovensk
 language-name-sn = Shona
+language-name-son = Songhay
 language-name-sq = Albansk
 language-name-sr = Serbisk
 language-name-su = Sudanesisk
