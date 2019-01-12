@@ -13,9 +13,22 @@
 <!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessage.accesskey "ข">
+<!ENTITY attachMenu.label "แนบ">
+<!ENTITY attachMenu.accesskey "น">
+<!ENTITY attachFileCmd.label "ไฟล์…">
+<!ENTITY attachFileCmd.accesskey "ฟ">
 <!ENTITY attachFileCmd.key "A">
+<!ENTITY attachCloudCmd.label "ลิงก์ไฟล์">
+<!ENTITY attachCloudCmd.accesskey "ล">
+<!ENTITY attachPageCmd.label "หน้าเว็บ…">
+<!ENTITY attachPageCmd.accesskey "ห">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
+<!ENTITY attachVCardCmd.label "บัตรส่วนบุคคล (vCard)">
+<!ENTITY attachVCardCmd.accesskey "บ">
+<!ENTITY closeCmd.label "ปิด">
 <!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.accesskey "ป">
+<!ENTITY saveCmd.label "บันทึก">
 <!ENTITY saveCmd.key "S">
 
 <!-- Edit Menu -->
