@@ -6,5 +6,6 @@
 <!--LOCALIZATION NOTE (editorCheck.label): DONT_TRANSLATE -->
 <!ENTITY editorCheck.label "Composer">
 
+<!ENTITY compose.label "ตัวเขียน">
 <!ENTITY editing.label "การตั้งค่าหน้าใหม่">
 <!ENTITY toolbars.label "แถบเครื่องมือ">
