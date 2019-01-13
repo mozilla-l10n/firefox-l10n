@@ -177,6 +177,7 @@ main-thread-no-omtc = pääsäie, ei OMTC:tä
 yes = Kyllä
 no = Ei
 unknown = Tuntematon
+virtual-monitor-disp = Virtuaalinen näyttö
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are

@@ -246,3 +246,4 @@ tälle varmenteelle ei voi luoda poikkeusta.">
 <!ENTITY prefReset.label "Palauta oletusasetukset">
 
 <!ENTITY networkProtocolError.title "Verkkoyhteyskäytännön virhe">
+<!ENTITY networkProtocolError.longDesc "<p>Avattavaa sivua ei voida näyttää, koska verkkoyhteyskäytännössä havaittiin virhe.</p><ul><li>Ilmoitathan ongelmasta sivuston omistajalle.</li></ul>">
