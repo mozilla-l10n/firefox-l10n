@@ -681,6 +681,7 @@ content-blocking-custom-desc = अवरोधित करने के लि�
 content-blocking-private-trackers = निजी विंडो में केवल ज्ञात ट्रैकर्स
 content-blocking-third-party-cookies = तीसरे-पक्ष की ट्रैकिंग कुकीज़
 content-blocking-all-windows-trackers = सभी विंडो में ज्ञात ट्रैकर्स
+content-blocking-all-third-party-cookies = सभी तृतीय-पक्ष कुकीज़
 content-blocking-tracking-protection-change-block-list = ब्लॉक सूची बदलें
 content-blocking-third-party-cookies-label =
     .label = थर्ड-पार्टी कूकीज़
