@@ -679,7 +679,7 @@ addressbar-suggestions-settings = Muuta hakukoneiden ehdotusten asetuksia
 
 content-blocking-header = Sisällön esto
 content-blocking-desc = Voit estää kolmannen osapuolen sisältöä, kuten mainoksia tai koodia, joka hidastaa selaamistasi ja seuraa sinua ympäri verkkoa. Voit säätää asetuksia saavuttaaksesi parhaan suojan ja suorituskyvyn tasapainon.
-content-blocking-description = Estä kolmannen osapuolen sisältöä, joka seuraa sinua ympäri verkkoa. Hallitse, kuinka paljon tekemisiäsi verkossa tallennetaan ja jaetaan sivustojen välillä.
+content-blocking-description = Voit estää kolmannen osapuolen sisältöä, joka seuraa sinua ympäri verkkoa. Voit myös hallita, kuinka paljon tekemisiäsi verkossa tallennetaan ja jaetaan sivustojen välillä.
 content-blocking-learn-more = Lue lisää
 content-blocking-restore-defaults =
     .label = Palauta oletukset
