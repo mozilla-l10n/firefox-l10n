@@ -234,7 +234,10 @@ tälle varmenteelle ei voi luoda poikkeusta.">
 
 <!ENTITY certerror.mitm.title "Ohjelmisto estää &brandShortName;ia yhdistämästä turvallisesti tähän sivustoon">
 <!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> on mitä luultavimmin turvallinen sivusto, mutta salattua yhteyttä ei voitu muodostaa. Tämän ongelman aiheuttaa <span class='mitm-name'/>, mikä on ohjelmisto tietokoneellasi tai verkossasi.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "Jos käyttämäsi virustorjuntaohjelma skannaa salattuja yhteyksiä (kutsutaan usein ”verkon skannaukseksi”, ”web-skannaukseksi” tai ”HTTPS-skannaukseksi”), voit poistaa kyseisen ominaisuuden käytöstä. Jos se ei auta, voit poistaa virustorjunnan ja asentaa sen uudestaan.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "Jos käytät työnantajasi verkkoyhteyttä, voit olla yhteydessä IT-tukeen.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "Jos et tunne <span class='mitm-name'/>-ohjelmaa, kyseessä voi olla huijaus eikä sivustolle tulisi jatkaa.">
+<!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "Jos et tunne <span class='mitm-name'/>-ohjelmaa, kyseessä voi olla hyökkäys etkä voi tehdä mitään.">
 
 <!ENTITY clockSkewError.title "Tietokoneen kello on väärässä ajassa">
 <!ENTITY clockSkewError.longDesc "Tietokoneesi mukaan nyt on <span id='wrongSystemTime_systemDate1'/>, minkä takia &brandShortName; ei voi muodostaa suojattua yhteyttä. Jotta voit siirtyä sivustolle <span class='hostname'></span>, avaa järjestelmäasetukset ja päivitä sieltä tietokoneen kello nykyiseen päivään, aikaan ja aikavyöhykkeeseen. Lopuksi lataa <span class='hostname'></span> uudestaan.">
