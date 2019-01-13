@@ -34,6 +34,8 @@
 <!ENTITY formatMenu.accesskey "ป">
 <!ENTITY grid.label "เส้นตารางการวางตำแหน่ง">
 <!ENTITY grid.accesskey "น">
+<!ENTITY pageProperties.label "ชื่อเรื่องและคุณสมบัติหน้า…">
+<!ENTITY pageProperties.accesskey "ช">
 
 <!-- Tools menu items -->
 
