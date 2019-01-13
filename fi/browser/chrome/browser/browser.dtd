@@ -289,6 +289,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Selain on kauko-ohjauksessa">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Avaa verkkotodennuksen paneeli">
 
+<!ENTITY urlbar.storageAccessAnchor.tooltip               "Avaa selaamisen seuraamisoikeuden paneeli">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Hallinnoi kameran tai mikrofonin jakamista sivustolle">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Hallinnoi mikrofonin jakamista sivustolle">
