@@ -7,6 +7,7 @@
 <!ENTITY accountTitle.label "การตั้งค่าบัญชี">
 <!ENTITY accountName.label "ชื่อบัญชี:">
 <!ENTITY accountName.accesskey "ช">
+<!ENTITY identityTitle.label "ข้อมูลประจำตัวเริ่มต้น">
 <!ENTITY name.label "ชื่อของคุณ:">
 <!ENTITY name.accesskey "อ">
 <!ENTITY email.label "ที่อยู่อีเมล:">
@@ -19,6 +20,8 @@
 <!ENTITY signatureText.accesskey "ข">
 <!ENTITY signatureHtml.label "ใช้ HTML (เช่น &lt;b&gt;bold&lt;/b&gt;)">
 <!ENTITY signatureHtml.accesskey "น">
+<!ENTITY signatureFile.label "แนบลายเซ็นจากไฟล์แทน (ข้อความ, HTML หรือภาพ):">
+<!ENTITY signatureFile.accesskey "บ">
 <!ENTITY edit.label "แก้ไข…">
 <!ENTITY choose.label "เลือก…">
 <!ENTITY choose.accesskey "ล">
@@ -36,3 +39,5 @@
 <!ENTITY smtpName.accesskey "ร">
 <!ENTITY smtpDefaultServer.label "ใช้เซิร์ฟเวอร์เริ่มต้น">
 
+<!ENTITY smtpServerEdit.label "แก้ไขเซิร์ฟเวอร์ SMTP…">
+<!ENTITY smtpServerEdit.accesskey "ฟ">
