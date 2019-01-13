@@ -4,6 +4,9 @@
 
 containers-window-close =
     .key = w
+containers-name-label = Sivɨ{ -containers-labels-style }
+    .accesskey = S
+    .style = { -containers-labels-style }
 containers-icon-label = Icon
     .accesskey = I
     .style = { -containers-labels-style }
@@ -14,5 +17,7 @@ containers-color-blue =
     .label = Teku lee
 containers-color-orange =
     .label = Teku kuan
+containers-color-red =
+    .label = Teku kue´e
 containers-icon-gift =
     .label = Gift

@@ -4,10 +4,14 @@
 
 connection-close-key =
     .key = W
+connection-proxy-http = HTTP Proxy
+    .accesskey = x
 connection-proxy-http-port = Port
     .accesskey = p
 connection-proxy-ssl-port = Port
     .accesskey = o
+connection-proxy-ftp = FTP Proxy
+    .accesskey = F
 connection-proxy-ftp-port = Port
     .accesskey = r
 connection-proxy-socks = SOCKS Host
@@ -20,6 +24,7 @@ connection-proxy-socks4 =
 connection-proxy-socks5 =
     .label = SOCKS v5
     .accesskey = v
+connection-proxy-noproxy-desc = Kua: .mozilla.org, .net.nz, 192.168.1.0/24
 connection-dns-over-https-url = URL
     .accesskey = U
     .tooltiptext = URL for resolving DNS over HTTPS
