@@ -36,12 +36,12 @@
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "रनटाइम जानकारी">
 <!ENTITY runtimeMenu_showDetails_accesskey "E">
-<!ENTITY runtimeMenu_showMonitor_label "मॉनीटर">
-<!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "युक्ति वरीयताएँ">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
 <!ENTITY runtimeMenu_showSettings_label "युक्ति जमावट">
 <!ENTITY runtimeMenu_showSettings_accesskey "s">
+<!ENTITY runtimeMenu_showPerformancePanel_label "प्रदर्शन">
+<!ENTITY runtimeMenu_showPerformancePanel_accesskey "p">
 
 <!ENTITY viewMenu_label "देखें">
 <!ENTITY viewMenu_accesskey "V">
@@ -75,10 +75,7 @@
 <!ENTITY projectPanel_tabs "टैब">
 <!ENTITY runtimePanel_usb "USB युक्तियाँ">
 <!ENTITY runtimePanel_wifi "Wi-Fi युक्ति">
-<!ENTITY runtimePanel_simulator "सिमुलेटर">
 <!ENTITY runtimePanel_other "अन्य">
-<!ENTITY runtimePanel_installsimulator "सिम्युलेटर स्थापित करें">
-<!ENTITY runtimePanel_noadbhelper "ADB हेल्पर स्थापित करें">
 <!ENTITY runtimePanel_nousbdevice "आपका उपकरण नहीं देख सकता है?">
 <!ENTITY runtimePanel_refreshDevices_label "उपकरणों को ताजा करें">
 
@@ -149,10 +146,6 @@
 <!ENTITY devicesetting_newtext "सेटिंग मान">
 <!ENTITY devicesetting_addnew "नई सेटिंग जोड़ें">
 
-<!-- Monitor -->
-<!ENTITY monitor_title "मॉनीटर">
-<!ENTITY monitor_help "मदद">
-
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
      that instructs the user to transfer an authentication token to the
@@ -174,19 +167,3 @@
 
 <!-- Logs panel -->
 <!ENTITY logs_title "प्री-पैकेजिंग कमांड लॉग">
-
-<!-- Simulator Options -->
-<!ENTITY simulator_title "सिमुलेटर विकल्प">
-<!ENTITY simulator_remove "सिमुलेटर मिटाएँ">
-<!ENTITY simulator_reset "डिफ़ॉल्ट पुनः स्थापित करे">
-<!ENTITY simulator_name "नाम">
-<!ENTITY simulator_software "सॉफ्टवेयर">
-<!ENTITY simulator_version "संस्करण">
-<!ENTITY simulator_profile "प्रोफाइल">
-<!ENTITY simulator_hardware "हार्डवेयर">
-<!ENTITY simulator_device "युक्ति">
-<!ENTITY simulator_screenSize "स्क्रीन">
-<!ENTITY simulator_pixelRatio "पिक्सल अनुपात">
-<!ENTITY simulator_tv_data "टीवी अनुकरण">
-<!ENTITY simulator_tv_data_open "डेटा का विन्यास करें">
-<!ENTITY simulator_tv_data_open_button "समाकृति निर्देशिका खोलें...">

@@ -520,7 +520,6 @@ privacy-header = ब्राउज़र गोपनीयता
 
 ## Privacy Section - Forms
 
-forms-header = फ़ॉर्म व कूटशब्द
 logins-header = लॉगिन और पासवर्ड
 forms-ask-to-save-logins =
     .label = वेबसाइटों के लिए लॉग इन और पासवर्ड सहेजने के लिए पूछें
@@ -619,6 +618,9 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = अपवाद…
     .accesskey = E
+sitedata-cookies-permissions =
+    .label = अनुमतियाँ प्रबंधित करें…
+    .accesskey = P
 
 ## Privacy Section - Address Bar
 
@@ -663,6 +665,22 @@ content-blocking-tracking-protection-option-always =
 content-blocking-tracking-protection-option-private =
     .label = केवल निजी विंडो में
     .accesskey = p
+# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+content-blocking-setting-standard =
+    .label = मानक
+    .accesskey = d
+content-blocking-setting-strict =
+    .label = सख़्त
+    .accesskey = r
+content-blocking-setting-custom =
+    .label = मनपसंद
+    .accesskey = त
+content-blocking-standard-description = निजी विंडो में केवल ज्ञात ट्रैकर्स को बाधित करता है।
+content-blocking-custom-desc = अवरोधित करने के लिए चुनें।
+content-blocking-private-trackers = निजी विंडो में केवल ज्ञात ट्रैकर्स
+content-blocking-third-party-cookies = तीसरे-पक्ष की ट्रैकिंग कुकीज़
+content-blocking-all-windows-trackers = सभी विंडो में ज्ञात ट्रैकर्स
 content-blocking-tracking-protection-change-block-list = ब्लॉक सूची बदलें
 content-blocking-third-party-cookies-label =
     .label = थर्ड-पार्टी कूकीज़
