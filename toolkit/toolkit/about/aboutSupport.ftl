@@ -173,6 +173,7 @@ hardware-h264 = हार्डवेयर एच264 कूटानुवा�
 main-thread-no-omtc = मुख्य सूत्र, कोई OMTC नहीं
 yes = हाँ
 no = नहीं
+unknown = अज्ञात
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
