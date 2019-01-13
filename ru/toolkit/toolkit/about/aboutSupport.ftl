@@ -179,6 +179,7 @@ main-thread-no-omtc = главный поток, без OMTC
 yes = Да
 no = Нет
 unknown = Неизвестно
+virtual-monitor-disp = Виртуальный монитор
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
