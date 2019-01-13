@@ -635,6 +635,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.label      "Įtraukti kadrą į adresyną">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "d">
 <!ENTITY pageAction.copyLink.label    "Kopijuoti saitą">
+
+<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
+  "Pocket" is a brand name. -->
+<!ENTITY pocketButton.tooltiptext     "Įrašyti į „Pocket“">
+<!ENTITY saveToPocketCmd.label        "Įrašyti tinklalapį į „Pocket“">
+<!ENTITY saveToPocketCmd.accesskey    "k">
+<!ENTITY saveLinkToPocketCmd.label    "Įrašyti saitą į „Pocket“">
+<!ENTITY saveLinkToPocketCmd.accesskey "o">
+<!ENTITY pocketMenuitem.label         "Peržiūrėti „Pocket“ sąrašą">
+
 <!ENTITY emailPageCmd.label           "Išsiųsti saitą el. paštu…">
 <!ENTITY emailPageCmd.accesskey       "ų">
 <!ENTITY savePageCmd.label            "Įrašyti kaip…">
