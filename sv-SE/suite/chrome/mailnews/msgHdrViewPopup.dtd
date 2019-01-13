@@ -13,6 +13,8 @@
 <!ENTITY SendMailTo.accesskey              "S">
 <!ENTITY CopyEmailAddress.label            "Kopiera e-postadress">
 <!ENTITY CopyEmailAddress.accesskey        "K">
+<!ENTITY CopyNameAndEmailAddress.label     "Kopiera namn och e-postadress">
+<!ENTITY CopyNameAndEmailAddress.accesskey "n">
 <!ENTITY CreateFilterFrom.label            "Skapa filter från…">
 <!ENTITY CreateFilterFrom.accesskey        "f">
 <!ENTITY openInBrowser.label               "Öppna i webbläsaren">

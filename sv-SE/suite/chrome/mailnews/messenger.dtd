@@ -13,12 +13,12 @@
 <!ENTITY tabmailCloseButton.tooltip "Stäng den aktuella fliken">
 <!ENTITY tabmailAllTabs.tooltip "Lista alla flikar">
 
-<!-- menu items:  the . means that the menu item isn't implemented yet -->
+<!-- menu items: the . means that the menu item isn't implemented yet -->
 
 <!-- File menu items -->
 <!ENTITY newMessage.label "Nytt meddelande">
-<!ENTITY newMessage.accesskey			"t">
-<!ENTITY newFolderCmd.label				"Mapp…">
+<!ENTITY newMessage.accesskey "t">
+<!ENTITY newFolderCmd.label "Mapp…">
 <!ENTITY newFolderCmd.accesskey "p">
 <!ENTITY newVirtualFolderCmd.label "Ny sparad sökning…">
 <!ENTITY newVirtualFolderCmd.accesskey "s">
@@ -31,15 +31,15 @@
 <!ENTITY newAccountCmd.accesskey "K">
 <!ENTITY openMessageFileCmd.label "Öppna sparat meddelande…">
 <!ENTITY openMessageFileCmd.accesskey "Ö">
-<!ENTITY openAttachmentCmd.label		"Bilagor">
-<!ENTITY openAttachmentCmd.accesskey		"l">
+<!ENTITY openAttachmentCmd.label "Bilagor">
+<!ENTITY openAttachmentCmd.accesskey "l">
 <!ENTITY saveAsMenu.label "Spara som">
-<!ENTITY saveAsMenu.accesskey			"a">
-<!ENTITY saveAsFileCmd.label			"Fil">
-<!ENTITY saveAsFileCmd.accesskey		"f">
+<!ENTITY saveAsMenu.accesskey "a">
+<!ENTITY saveAsFileCmd.label "Fil">
+<!ENTITY saveAsFileCmd.accesskey "f">
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "Mall">
-<!ENTITY saveAsTemplateCmd.accesskey	"a">
+<!ENTITY saveAsTemplateCmd.accesskey "a">
 <!ENTITY getNewMsgCmd.label "Hämta nya meddelanden">
 <!ENTITY getNewMsgCmd.accesskey "H">
 <!ENTITY getNewMsgCmd2.key "d">
@@ -49,19 +49,19 @@
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "A">
 <!ENTITY getAllNewMsgCmd.label "Hämta alla nya meddelanden">
 <!ENTITY getAllNewMsgCmd2.key "d">
-<!ENTITY getNextNMsgCmd.label			"Hämta nästa 500 gruppinlägg">
+<!ENTITY getNextNMsgCmd.label "Hämta nästa 500 gruppinlägg">
 <!ENTITY getNextNMsgCmd.accesskey "g">
-<!ENTITY sendUnsentCmd.label			"Skicka osända meddelanden">
+<!ENTITY sendUnsentCmd.label "Skicka osända meddelanden">
 <!ENTITY sendUnsentCmd.accesskey "d">
 <!ENTITY subscribeCmd.label "Prenumerera…">
 <!ENTITY subscribeCmd.accesskey "P">
-<!ENTITY renameFolder.label				"Byt namn på mapp…">
+<!ENTITY renameFolder.label "Byt namn på mapp…">
 <!ENTITY renameFolder.accesskey "B">
-<!ENTITY compactFolders.label			"Komprimera mappar">
-<!ENTITY compactFolders.accesskey "K">
-<!ENTITY emptyTrashCmd.label			"Töm papperskorgen">
-<!ENTITY emptyTrashCmd.accesskey "T">
-<!ENTITY offlineMenu.label				"Arbeta i nedkopplat läge">
+<!ENTITY compactFolders.label "Komprimera mappar">
+<!ENTITY compactFolders.accesskey		"K">
+<!ENTITY emptyTrashCmd.label "Töm papperskorgen">
+<!ENTITY emptyTrashCmd.accesskey		"T">
+<!ENTITY offlineMenu.label "Arbeta i nedkopplat läge">
 <!ENTITY offlineMenu.accesskey "i">
 <!ENTITY synchronizeOfflineCmd.label "Hämta/Synkronisera nu…">
 <!ENTITY synchronizeOfflineCmd.accesskey "S">
@@ -112,12 +112,10 @@
 <!ENTITY redoDefaultCmd.label "Gör om">
 
 <!-- View Menu -->
-<!ENTITY showMessengerToolbarCmd.label		"Verktyg för e-post">
-<!ENTITY showMessengerToolbarCmd.accesskey	"o">
-
-<!-- showSearchToolbarCmd is also used by addressbook -->
-<!ENTITY showSearchToolbarCmd.label		"Sökfält">
-<!ENTITY showSearchToolbarCmd.accesskey	"S">
+<!ENTITY showMessengerToolbarCmd.label "Verktyg för e-post">
+<!ENTITY showMessengerToolbarCmd.accesskey "o">
+<!ENTITY showSearchToolbarCmd.label "Sökfält">
+<!ENTITY showSearchToolbarCmd.accesskey "S">
 <!ENTITY showTabsToolbarCmd.label "Flikfält">
 <!ENTITY showTabsToolbarCmd.accesskey "F">
 
@@ -198,6 +196,7 @@
 <!ENTITY watchedThreadsWithUnreadCmd.accesskey "B">
 <!ENTITY ignoredThreadsCmd.label "Ignorerade trådar">
 <!ENTITY ignoredThreadsCmd.accesskey "i">
+
 <!ENTITY headersMenu.label "Huvud">
 <!ENTITY headersMenu.accesskey "H">
 <!ENTITY headersAllCmd.label "Allt">
@@ -283,18 +282,15 @@
 <!ENTITY newMsgCmd.accesskey "N">
 <!ENTITY newNewMsgCmd.label "Meddelande">
 <!ENTITY newNewMsgCmd.accesskey "M">
-<!ENTITY archiveMsgCmd.label "Arkivera">
-<!ENTITY archiveMsgCmd.accesskey "A">
-<!ENTITY archiveMsgCmd.key "a">
 <!ENTITY replyMsgCmd.label "Svara">
-<!ENTITY replyMsgCmd.accesskey	"r">
+<!ENTITY replyMsgCmd.accesskey "r">
 <!ENTITY replyMsgCmd.key	"r">
 <!ENTITY replyListCmd.label "Svar till lista">
 <!ENTITY replyListCmd.accesskey "l">
-<!ENTITY replySenderCmd.label "Svara endast avsändaren">
-<!ENTITY replySenderCmd.accesskey	"r">
 <!ENTITY replyNewsgroupCmd.label "Svar till diskussionsgruppen">
 <!ENTITY replyNewsgroupCmd.accesskey	"v">
+<!ENTITY replySenderCmd.label "Svara endast avsändaren">
+<!ENTITY replySenderCmd.accesskey "r">
 <!ENTITY replyToAllMsgCmd.label "Svar till alla">
 <!ENTITY replyToAllMsgCmd.accesskey	"a">
 <!ENTITY replyToAllMsgCmd.key	"r">
@@ -303,7 +299,7 @@
 <!ENTITY replyToAllRecipientsCmd.label "Svar till alla mottagare">
 <!ENTITY replyToAllRecipientsCmd.accesskey "a">
 <!ENTITY forwardMsgCmd.label "Vidarebefordra">
-<!ENTITY forwardMsgCmd.accesskey	"i">
+<!ENTITY forwardMsgCmd.accesskey "i">
 <!ENTITY forwardMsgCmd.key	"l">
 <!ENTITY forwardAsMenu.label "Vidarebefordra som">
 <!ENTITY forwardAsMenu.accesskey "o">
@@ -316,6 +312,9 @@
 <!ENTITY editMsgAsNewCmd.key "e">
 <!ENTITY createFilter.label "Skapa filterregel utifrån meddelandet…">
 <!ENTITY createFilter.accesskey "p">
+<!ENTITY archiveMsgCmd.label "Arkivera">
+<!ENTITY archiveMsgCmd.accesskey "A">
+<!ENTITY archiveMsgCmd.key "a">
 <!ENTITY moveMsgToMenu.label "Flytta till">
 <!ENTITY moveMsgToMenu.accesskey "y">
 <!ENTITY copyMessageLocation.label "Kopiera meddelandeadressen">
@@ -358,7 +357,7 @@
 <!ENTITY markAsNotJunkCmd.label "Som Ej skräppost">
 <!ENTITY markAsNotJunkCmd.accesskey "E">
 <!ENTITY markAsNotJunkCmd.key "j">
-<!ENTITY recalculateJunkScoreCmd.label "Kör skräppostkontroll"> 
+<!ENTITY recalculateJunkScoreCmd.label "Kör skräppostkontroll">
 <!ENTITY recalculateJunkScoreCmd.accesskey "K">
 <!ENTITY markAsShowRemoteCmd.label "Visa externt innehåll">
 <!ENTITY markAsShowRemoteCmd.accesskey "x">
@@ -423,7 +422,6 @@
 <!ENTITY notJunkButton.label "Ej skräppost">
 <!ENTITY searchButton.title "Avancerad sökning">
 
-
 <!-- Tooltips -->
 <!ENTITY menuBar.tooltip "Menyrad">
 <!ENTITY mailToolbar.tooltip "Verktyg för e-post">
@@ -454,7 +452,7 @@
 <!ENTITY editRemoteContentSettings.accesskey "R">
 
 <!-- Statusbar -->
-<!ENTITY  statusText.label "Dokument: Klart">
+<!ENTITY statusText.label "Dokument: Klart">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Öppna meddelande i nytt fönster">
@@ -463,8 +461,6 @@
 <!ENTITY contextOpenNewTab.accesskey "f">
 <!ENTITY contextEditAsNew.label "Redigera som nytt…">
 <!ENTITY contextEditAsNew.accesskey "e">
-<!ENTITY contextArchive.label "Arkivera">
-<!ENTITY contextArchive.accesskey "A">
 <!ENTITY contextReplySender.label "Svara endast avsändaren">
 <!ENTITY contextReplySender.accesskey "ä">
 <!ENTITY contextReplyList.label "Svar till lista">
@@ -479,12 +475,16 @@
 <!ENTITY contextForward.accesskey "i">
 <!ENTITY contextForwardAsAttachment.label "Vidarebefordra som bilaga">
 <!ENTITY contextForwardAsAttachment.accesskey "o">
+<!ENTITY contextArchive.label "Arkivera">
+<!ENTITY contextArchive.accesskey "A">
 <!ENTITY contextMoveMsgMenu.label "Flytta till">
 <!ENTITY contextMoveMsgMenu.accesskey "l">
 <!ENTITY contextCopyMsgMenu.label "Kopiera till">
 <!ENTITY contextCopyMsgMenu.accesskey "o">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Senaste">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "S">
+<!ENTITY contextMoveCopyMsgFavoritesMenu.label "Favoriter">
+<!ENTITY contextMoveCopyMsgFavoritesMenu.accesskey "F">
 <!ENTITY contextSaveAs.label "Spara som…">
 <!ENTITY contextSaveAs.accesskey "S">
 <!ENTITY contextPrint.label "Skriv ut…">
@@ -528,7 +528,6 @@
 <!ENTITY folderContextSettings.label "Inställningar…">
 <!ENTITY folderContextSettings.accesskey "I">
 
-<!-- SearchBar -->
 <!-- focusSearchInput.key also used by addressbook -->
 <!ENTITY focusSearchInput.key "k">
 <!ENTITY advancedButton.label "Avancerat…">
@@ -538,4 +537,3 @@
 
 <!ENTITY all.label "Alla">
 <!ENTITY all.accesskey "A">
-
