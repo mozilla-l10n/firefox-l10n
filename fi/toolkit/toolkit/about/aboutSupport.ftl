@@ -132,21 +132,21 @@ report-crash-for-days =
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
     { $minutes ->
-        [one] { $minutes } minuuttia sitten
+        [one] { $minutes } minuutti sitten
        *[other] { $minutes } minuuttia sitten
     }
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
     { $hours ->
-        [one] { $hours } tuntia sitten
+        [one] { $hours } tunti sitten
        *[other] { $hours } tuntia sitten
     }
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
     { $days ->
-        [one] { $days } päivää sitten
+        [one] { $days } päivä sitten
        *[other] { $days } päivää sitten
     }
 # Variables
