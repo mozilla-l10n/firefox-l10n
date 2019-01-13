@@ -1048,6 +1048,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.manageSettings.accesskey "H">
 
 <!ENTITY contentBlocking.trackersView.label "Seuraimet">
+<!ENTITY contentBlocking.trackersView.strictInfo.label "Kaikki seuraimet estetään valitsemalla ”Tiukka” sisällön esto.">
 
 <!ENTITY contentBlocking.cookies.label "Evästeet">
 <!ENTITY contentBlocking.cookiesView.label "Evästeet ja sivustotiedot">
