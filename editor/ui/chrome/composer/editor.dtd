@@ -4,6 +4,7 @@
 
 <!-- Window title -->
 <!-- LOCALIZATION NOTE  (editorWindow.titlemodifier): DONT_TRANSLATE -->
+<!ENTITY editorWindow.titlemodifier "Composer">
 <!ENTITY editorWindow.titlemodifiermenuseparator " - ">
 
 <!-- Menu items:  the . means that the menu item isn't implemented yet -->
@@ -38,10 +39,21 @@
 <!ENTITY pageProperties.accesskey "ช">
 
 <!-- Tools menu items -->
+<!ENTITY validateCmd.label "ตรวจสอบ HTML">
+<!ENTITY validateCmd.accesskey "ต">
 
 <!-- Display Mode toolbar and View menu items -->
+<!ENTITY NormalModeTab.label "ปกติ">
+<!ENTITY NormalMode.label "โหมดแก้ไขปกติ">
+<!ENTITY NormalMode.accesskey "ห">
+<!ENTITY NormalMode.tooltip "แสดงเส้นขอบตารางและจุดยึดที่มีชื่อ">
+<!ENTITY AllTagsModeTab.label "แท็ก HTML">
+<!ENTITY AllTagsMode.label "แท็ก HTML">
+<!ENTITY AllTagsMode.accesskey "ท">
+<!ENTITY AllTagsMode.tooltip "แสดงผลไอคอนสำหรับแท็ก HTML ทั้งหมด">
 <!-- LOCALIZATION NOTE: (HTMLSourceModeTab.dir, HTMLSourceModeTab.label)
      Do NOT translate text for 'HTMLSourceModeTab.dir', use latin "ltr" if
      you want the <html> image to left of the 'HTMLSourceModeTab.label' text,
      or use latin "rtl" if you want this image to the right of text. You do
      not need to include HTML in the label 'HTMLSourceModeTab.label' -->
+<!ENTITY HTMLSourceModeTab.dir "ltr">

@@ -4,6 +4,7 @@
 
 
 <!--LOCALIZATION NOTE (editorCheck.label): DONT_TRANSLATE -->
+<!ENTITY editorCheck.label "Composer">
 
 <!ENTITY editing.label "การตั้งค่าหน้าใหม่">
 <!ENTITY toolbars.label "แถบเครื่องมือ">

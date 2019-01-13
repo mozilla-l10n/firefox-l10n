@@ -7,5 +7,6 @@
 <!--LOCALIZATION NOTE : FILE 'Composer' prefs dialog. Similar to Communcator 4.x Document Properties/Colors and Background -->
 
 <!--LOCALIZATION NOTE (pref.composer.title): DONT_TRANSLATE -->
+<!ENTITY  pref.composer.title           "Composer">
 <!ENTITY  recentFiles.title             "เมนูหน้าล่าสุด">
 <!ENTITY  savingFiles.title             "เมื่อบันทึกหรือเผยแพร่หน้า">
