@@ -87,7 +87,7 @@ same accesskey but will never be visible at the same time. -->
 <!ENTITY  sendLinkToDevice.accesskey         "e">
 <!-- LOCALIZATION NOTE (moveTabOptions.label and moveSelectedTabOptions.label):
 These two items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  moveTabOptions.label               "Flytt fana">
+<!ENTITY  moveTabOptions.label               "Flytt denne fana">
 <!ENTITY  moveTabOptions.accesskey           "t">
 <!ENTITY  moveSelectedTabOptions.label       "Flytt faner">
 <!ENTITY  moveSelectedTabOptions.accesskey   "t">
