@@ -1,0 +1,29 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- extracted from am-server-top.xul -->
+
+<!ENTITY messageStorage.label "ที่เก็บข้อมูลข้อความ">
+<!ENTITY securitySettings.label "การตั้งค่าความปลอดภัย">
+<!ENTITY serverSettings.label "การตั้งค่าเซิร์ฟเวอร์">
+<!ENTITY serverType.label "ชนิดเซิร์ฟเวอร์:">
+<!ENTITY serverName.label "ชื่อเซิร์ฟเวอร์:">
+<!ENTITY serverName.accesskey "ช">
+<!ENTITY userName.label "ชื่อผู้ใช้:">
+<!ENTITY userName.accesskey "อ">
+<!ENTITY port.label "พอร์ต:">
+<!ENTITY port.accesskey "พ">
+<!ENTITY serverPortDefault.label "ค่าเริ่มต้น:">
+<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammar dependency
+        For example, in Japanese cases:
+                biffStart.label "every"
+                biffEnd.label   "minutes for new messages Check"
+-->
+<!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
+<!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
+    maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
+    of messages between them
+-->
+<!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
+
