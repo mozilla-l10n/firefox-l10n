@@ -176,6 +176,8 @@ hardware-h264 = Decodaziun H264 cun hardware
 main-thread-no-omtc = thread principal, nagin OMTC
 yes = Gea
 no = Na
+unknown = Nunenconuschent
+virtual-monitor-disp = Virtual Monitor Display
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
@@ -183,6 +185,8 @@ no = Na
 
 found = Chattà
 missing = Betg chattà
+gpu-process-pid = GPUProcessPid
+gpu-process = GPUProcess
 gpu-description = Descripziun
 gpu-vendor-id = ID dal vendider
 gpu-device-id = ID da l'apparat
@@ -215,6 +219,7 @@ d3d9video-crash-buard = Decodader da video D3D9
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Redefinir cun reaviar la proxima giada
 gpu-process-kill-button = Terminar il process da la GPU
+gpu-device-reset = Reinizialisaziun da l'apparat
 gpu-device-reset-button = Lantschar la reinizialisaziun da l'apparat
 uses-tiling = Utilisescha plattinas
 content-uses-tiling = Utilisescha plattinas (cuntegn)
