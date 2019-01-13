@@ -241,6 +241,8 @@ was trying to connect. -->
 <!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> probablemente es un sitio seguro, pero no se ha podido establecer una conexión segura. Este problema está causado por <span class='mitm-name'/>, que es un programa en su ordenador o en su red.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "Si su antivirus incluye una función que escanea conexiones cifradas (normalmente llamada “escáner web” o “escáner https”), puede desactivar esa función. Si eso no funciona, puede eliminar y volver a instalar el programa antivirus.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "Si está en una red corporativa, puede ponerse en contacto con su departamento de informática.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "Si no está familiarizado con <span class='mitm-name'/>, entonces esto puede ser un ataque y no debería acceder al sitio.">
+<!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "Si no está familiarizado con <span class='mitm-name'/>, entonces esto puede ser un ataque y no hay nada que pueda hacer para acceder al sitio.">
 
 <!ENTITY clockSkewError.title "La hora de su equipo es incorrecta">
 <!ENTITY clockSkewError.longDesc "Su equipo piensa que la fecha y hora es <span id='wrongSystemTime_systemDate1'/>, lo que evita que &brandShortName; se conecte de forma segura. Para visitar <span class='hostname'></span>, actualice el reloj de su equipo en los ajustes de su sistema a la fecha y hora actuales, y la zona horaria apropiada, y luego refresque <span class='hostname'></span>.">
