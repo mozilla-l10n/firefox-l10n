@@ -440,9 +440,6 @@
 <!ENTITY openMessageWindowCmd.label "Avrir il messadi">
 <!ENTITY openMessageWindowCmd.accesskey "v">
 <!ENTITY openMessageWindowCmd.key "o">
-<!ENTITY openConversationCmd.label "Avrir sco conversaziun">
-<!ENTITY openConversationCmd.accesskey "s">
-<!ENTITY openConversationCmd.key "o">
 <!ENTITY openInConversationCmd.label "Avrir sco conversaziun">
 <!ENTITY openInConversationCmd.accesskey "s">
 <!ENTITY openInConversationCmd.key "o">
@@ -795,6 +792,8 @@
 <!ENTITY contextMoveMsgMenu.accesskey "p">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Ultims ordinaturs">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "U">
+<!ENTITY contextMoveCopyMsgFavoritesMenu.label "Favurits">
+<!ENTITY contextMoveCopyMsgFavoritesMenu.accesskey "F">
 <!ENTITY contextCopyMsgMenu.label "Copiar en">
 <!ENTITY contextCopyMsgMenu.accesskey "C">
 <!ENTITY contextKillThreadMenu.label "Ignorar quest tema">
