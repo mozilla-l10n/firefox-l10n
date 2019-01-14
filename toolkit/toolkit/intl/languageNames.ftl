@@ -123,6 +123,7 @@ language-name-my = Birmanês
 language-name-na = Nauruano
 language-name-nb = Bokmål norueguês
 language-name-nd = Ndebele do norte
+language-name-ne = Nepalês
 language-name-ng = Dongo
 language-name-nl = Holandês
 language-name-nn = Nynorsk norueguês
