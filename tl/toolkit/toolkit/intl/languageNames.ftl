@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+language-name-aa = Afar
 language-name-ab = Abkhazian
 language-name-ae = Avestan
 language-name-af = Afrikaans
@@ -80,8 +81,10 @@ language-name-ii = Sichuan Yi
 language-name-ik = Inupiaq
 language-name-io = Ido
 language-name-is = Icelandic
+language-name-it = Italian
 language-name-iu = Inuktitut
 language-name-ja = Hapon
+language-name-jv = Javanese
 language-name-ka = Georgian
 language-name-kg = Kongo
 language-name-ki = Kikuyu
@@ -132,6 +135,7 @@ language-name-ny = Chichewa
 language-name-oc = Occitan
 language-name-oj = Ojibwa
 language-name-om = Oromo
+language-name-or = Odia
 language-name-os = Ossetian
 language-name-pa = Punjabi
 language-name-pi = Pali
