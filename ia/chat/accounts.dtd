@@ -11,5 +11,23 @@
 <!ENTITY accountManager.newAccount.label     "Nove conto">
 <!ENTITY accountManager.newAccount.accesskey "N">
 <!ENTITY accountManager.close.label          "Clauder">
+<!ENTITY accountManager.close.accesskey      "C">
 <!-- This should match account.commandkey in instantbird.dtd -->
+<!ENTITY accountManager.close.commandkey     "a">
 <!-- This title must be short, displayed with a big font size -->
+<!ENTITY accountManager.noAccount.title      "Nulle conto ancora configurate">
+<!ENTITY account.connect.label        "Connecter">
+<!ENTITY account.connect.accesskey    "o">
+<!ENTITY account.disconnect.label     "Disconnecter">
+<!ENTITY account.disconnect.accesskey "i">
+<!ENTITY account.delete.label         "Deler">
+<!ENTITY account.delete.accesskey     "D">
+<!ENTITY account.edit.label           "Proprietates">
+<!ENTITY account.edit.accesskey       "P">
+<!ENTITY account.moveup.label         "Mover in alto">
+<!ENTITY account.movedown.label       "Mover in basso">
+<!ENTITY account.cancelReconnection.label         "Cancellar le reconnexion">
+<!ENTITY account.cancelReconnection.accesskey     "A">
+<!ENTITY account.connecting           "Connexion…">
+<!ENTITY account.disconnecting        "Disconnexion…">
+<!ENTITY account.disconnected         "Non connexe">
