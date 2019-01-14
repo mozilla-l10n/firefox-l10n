@@ -135,6 +135,7 @@ language-name-ny = Chichewaera
 language-name-oc = Okzitaniera
 language-name-oj = Ojibwaera
 language-name-om = Oromoera
+language-name-or = Odia
 language-name-os = Ossetiera
 language-name-pa = Punjabera
 language-name-pi = Paliera
