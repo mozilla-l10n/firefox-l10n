@@ -30,7 +30,15 @@
 
 <!ENTITY trackingProtection.title                        "Spårningsskydd">
 <!ENTITY trackingProtection.description2                 "Vissa webbplatser använder spårare som kan övervaka din aktivitet över hela internet. Med spårningsskydd kommer Firefox blockera många spårare som kan samla information om dina surfvanor.">
+
 <!ENTITY trackingProtection.startTour1                   "Se hur det fungerar">
 
 <!ENTITY contentBlocking.title                           "Innehållsblockering">
 <!ENTITY contentBlocking.description                     "Vissa webbplatser använder trackers som kan övervaka din aktivitet på internet. I privata fönster blockerar Firefox-innehållsblockering automatiskt många trackers som kan samla information om ditt webbläsarbeteende.">
+
+<!-- Strings for new Private Browsing with Search -->
+<!ENTITY aboutPrivateBrowsing.info.title                 "Du är i ett privat fönster">
+<!ENTITY aboutPrivateBrowsing.info.description           "&brandShortName; rensar din sök- och surfhistorik när du avslutar appen eller stänger alla privata flikar och fönster. Även om det här inte gör dig anonym för webbplatser eller din internetleverantör, gör det det lättare att behålla det du gör online privat från någon annan som använder den här datorn.">
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article
+                       about private browsing myths.   -->
+<!ENTITY aboutPrivateBrowsing.info.myths                 "Vanliga myter om privat surfning">
