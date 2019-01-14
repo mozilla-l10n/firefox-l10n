@@ -154,6 +154,7 @@ language-name-sl = Slofeneg
 language-name-sm = Samoeg
 language-name-sn = Shona
 language-name-so = Somali
+language-name-son = Songhay
 language-name-sq = Albaneg
 language-name-sr = Serbeg
 language-name-ss = Siswati
