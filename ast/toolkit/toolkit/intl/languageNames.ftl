@@ -137,6 +137,7 @@ language-name-tt = Tátaru
 language-name-tw = Twi
 language-name-ty = Tahití
 language-name-ug = Uighur
+language-name-uk = Ucraín
 language-name-ur = Urdu
 language-name-ve = Venda
 language-name-wa = Valón
