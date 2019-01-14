@@ -153,6 +153,7 @@ language-name-sl = Olusiloveeni
 language-name-sm = Olusamowa
 language-name-sn = Olusona
 language-name-so = Olusomaali
+language-name-son = Songhay
 language-name-sq = Olwalubaaniya
 language-name-sr = Olusaabiya
 language-name-ss = Olusiswaati
