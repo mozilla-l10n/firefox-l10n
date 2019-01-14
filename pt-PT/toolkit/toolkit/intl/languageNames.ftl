@@ -31,6 +31,7 @@ language-name-ch = Chamorro
 language-name-co = Córseco
 language-name-cr = Cree
 language-name-cs = Checo
+language-name-cu = Eslávico Religioso
 language-name-cv = Chuvash
 language-name-cy = Galês
 language-name-da = Dinamarquês
