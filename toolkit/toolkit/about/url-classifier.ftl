@@ -3,6 +3,14 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 url-classifier-title = Podatki o razvrščevalniku URL
+url-classifier-search-result-title = Rezultati
+url-classifier-search-result-uri = URI: { $uri }
+url-classifier-search-result-list = Seznam tabel: { $list }
+url-classifier-search-input = URL
+url-classifier-search-error-invalid-url = Neveljaven URL
+url-classifier-search-error-no-features = Ni izbranih možnosti
+url-classifier-search-btn = Začni iskati
+url-classifier-search-listType = Vrsta seznama
 url-classifier-provider-title = Ponudnik
 url-classifier-provider = Ponudnik
 url-classifier-provider-last-update-time = Čas zadnje posodobitve
