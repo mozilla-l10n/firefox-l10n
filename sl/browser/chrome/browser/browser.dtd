@@ -111,6 +111,10 @@ These items have the same accesskey but will never be visible at the same time. 
 
 <!ENTITY  listAllTabs.label      "Seznam vseh zavihkov">
 
+<!-- LOCALIZATION NOTE (allTabsMenu.searchTabs.label): "Search" is a verb, as
+in "Search through tabs". -->
+<!ENTITY  allTabsMenu.searchTabs.label       "Išči zavihke">
+
 <!ENTITY tabCmd.label "Nov zavihek">
 <!ENTITY tabCmd.accesskey "Z">
 <!ENTITY tabCmd.commandkey "t">
@@ -285,6 +289,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Brskalnik je pod daljinskim upravljanjem">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Odpri ploščo za spletno overitev">
 
+<!ENTITY urlbar.storageAccessAnchor.tooltip               "Odpri ploščo z dovoljenji za brskanje">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Upravljajte dovoljenje za uporabo kamere in/ali mikrofona na tej strani">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Upravljajte dovoljenje za uporabo mikrofona na tej strani">
@@ -630,6 +635,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.label      "Dodaj okvir med zaznamke">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 <!ENTITY pageAction.copyLink.label    "Kopiraj povezavo">
+
+<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
+  "Pocket" is a brand name. -->
+<!ENTITY pocketButton.tooltiptext     "Shrani v Pocket">
+<!ENTITY saveToPocketCmd.label        "Shrani stran v Pocket">
+<!ENTITY saveToPocketCmd.accesskey    "s">
+<!ENTITY saveLinkToPocketCmd.label    "Shrani povezavo v Pocket">
+<!ENTITY saveLinkToPocketCmd.accesskey "e">
+<!ENTITY pocketMenuitem.label         "Pokaži seznam Pocket">
+
 <!ENTITY emailPageCmd.label           "Pošlji povezavo po e-pošti …">
 <!ENTITY emailPageCmd.accesskey       "P">
 <!ENTITY savePageCmd.label            "Shrani stran kot …">

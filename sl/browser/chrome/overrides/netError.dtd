@@ -11,6 +11,7 @@
 <!ENTITY returnToPreviousPage1.label "Pojdi nazaj (priporočeno)">
 <!ENTITY advanced.label "Napredno">
 <!ENTITY continue2.label "Več …">
+<!ENTITY advanced2.label "Napredno …">
 <!ENTITY moreInformation.label "Več informacij">
 <!ENTITY viewCertificate.label "Ogled digitalnega potrdila">
 
@@ -230,6 +231,11 @@ poveže zgolj varno. Posledično za to digitalno potrdilo ni mogoče dodati izje
 <!ENTITY blockedByPolicy.title "Zavrnjena stran">
 
 <!ENTITY certerror.mitm.title "Programska oprema &brandShortName;u preprečuje varno povezovanje s to stranjo">
+<!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> je najverjetneje varna stran, vendar varne povezave ni bilo mogoče vzpostaviti. Težavo povzroča <span class='mitm-name'/>, ki je ali program na vašem računalniku ali vaše omrežje.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt1 'Če vaš protivirusni program vključuje možnost pregledovanja šifriranih povezav (pogosto imenovano "spletna zaščita" ali "pregledovanje HTTPS"), jo poskusite onemogočiti. Če to ne odpravi težave, lahko protivirusni program odstranite in znova namestite.'>
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "Če ste povezani v podjetje omrežja, se obrnite na njegov oddelek za IT.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "Če ne poznate <span class='mitm-name'/>, gre morda za napad in raje ne nadaljujte na spletno stran.">
+<!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "Če ne poznate <span class='mitm-name'/>, gre morda za napad in do spletne strani ne morete dostopati.">
 
 <!ENTITY clockSkewError.title "Nastavitev ure vašega računalnika je napačna">
 <!ENTITY clockSkewError.longDesc "Vaš računalnik misli, da smo <span id='wrongSystemTime_systemDate1'/>, kar &brandShortName;u preprečuje varno povezavo. Da boste lahko obiskali <span class='hostname'></span>, v nastavitvah sistema nastavite uro računalnika na trenutni datum in čas ter časovni pas, nato osvežite <span class='hostname'></span>.">

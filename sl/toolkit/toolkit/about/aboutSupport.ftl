@@ -186,6 +186,7 @@ hardware-h264 = Strojno dekodiranje H264
 main-thread-no-omtc = glavna nit, brez OMTC
 yes = Da
 no = Ne
+unknown = Neznano
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
@@ -193,6 +194,8 @@ no = Ne
 
 found = Najdeno
 missing = Manjka
+gpu-process-pid = GPUProcessPid
+gpu-process = GPUProcess
 gpu-description = Opis
 gpu-vendor-id = ID izdelovalca
 gpu-device-id = ID naprave
@@ -225,6 +228,7 @@ d3d9video-crash-buard = Videodekodirnik D3D9
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Ponastavi ob naslednjem zagonu
 gpu-process-kill-button = Prekini proces GPE
+gpu-device-reset = Ponastavitev naprave
 gpu-device-reset-button = Sproži ponastavitev naprave
 uses-tiling = Uporablja razpostavljanje
 content-uses-tiling = Uporablja razpostavljanje (vsebina)
