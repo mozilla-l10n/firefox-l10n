@@ -117,6 +117,7 @@ language-name-ltg = Latgalian
 language-name-lu = Luba Katanga Dili
 language-name-lv = Letonca
 language-name-mai = Maithili
+language-name-meh = Güneybatı Tlaxiaco Mixtec
 language-name-mg = Madagaskar Dili
 language-name-mh = Marshall Dili
 language-name-mi = Maori Dili
