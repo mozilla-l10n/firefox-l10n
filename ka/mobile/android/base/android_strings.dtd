@@ -54,7 +54,7 @@
 <!ENTITY  crash_send_report_message3 "აცნობეთ &vendorShortName;-ს ამ პრობლემის შესახებ">
 <!ENTITY  crash_include_url2 "თან დაერთოს გვერდის მისამართი, რომელზეც ვიყავი">
 <!ENTITY  crash_sorry "ძალიან ვწუხვართ">
-<!ENTITY  crash_comment "კომენტარის დამატება (ხილულია საზოგადოდ)">
+<!ENTITY  crash_comment "დაურთეთ შენიშვნა (ხილული იქნება საჯაროდ)">
 <!ENTITY  crash_allow_contact2 "ნების დართვა &vendorShortName;-სთვის გამომეხმაუროს მოხსენების შესახებ">
 <!ENTITY  crash_email "თქვენი ელფოსტა">
 <!ENTITY  crash_closing_alert "გსურთ გამოსვლა, ავარიული დახურვის მოხსენების გადაგზავნის გარეშე?">
