@@ -101,6 +101,7 @@ region-name-gt = Гватемала
 region-name-gu = Гуам
 region-name-gw = Гвинеја Бисао
 region-name-gy = Гијана
+region-name-hk = Хонг Конг
 region-name-hm = Острва Херд и Макдоналд
 region-name-hn = Хондурас
 region-name-hr = Хрватска
