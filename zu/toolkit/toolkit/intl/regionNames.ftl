@@ -174,6 +174,7 @@ region-name-qa = i-Qatar
 region-name-re = i-Reunion
 region-name-ro = i-Romania
 region-name-rs = i-Serbia
+region-name-ru = eRussia
 region-name-rw = i-Rwanda
 region-name-sa = i-Saudi Arabia
 region-name-sb = i-Solomon Islands
