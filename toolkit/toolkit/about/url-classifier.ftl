@@ -3,6 +3,16 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 url-classifier-title = Informo pri la klasifikilo de retadresoj
+url-classifier-search-title = Serĉi
+url-classifier-search-result-title = Rezultoj
+url-classifier-search-result-uri = URI: { $uri }
+url-classifier-search-result-list = Listo de tabuloj: { $list }
+url-classifier-search-input = Retadreso
+url-classifier-search-error-invalid-url = Nevalida retadreso
+url-classifier-search-error-no-features = Neniu trajto elektita
+url-classifier-search-btn = Ekserĉi
+url-classifier-search-features = Trajtoj
+url-classifier-search-listType = Tipo de listo
 url-classifier-provider-title = Provizanto
 url-classifier-provider = Provizanto
 url-classifier-provider-last-update-time = Dato de lasta ĝisdatigo
