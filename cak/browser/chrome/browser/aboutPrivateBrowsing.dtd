@@ -30,7 +30,13 @@
 
 <!ENTITY trackingProtection.title                        "Chajinïk chuwäch Ojqanïk">
 <!ENTITY trackingProtection.description2                 "Jujun ajk'amaya'l ruxaq nikokisaj ojqanela', ri yetikïr nikinik'oj ri asamaj pa k'amaya'l. Rik'in Chajinïk chuwäch Ojqanïk ri Firefox xkeruq'ät k'ïy taq ojqanela', ri yetikïr nikimöl etamab'äl chi rij rub'anikil runa'oj ri okem pa k'amaya'l.">
+
 <!ENTITY trackingProtection.startTour1                   "Tatz'eta' rub'eyal nisamäj">
 
 <!ENTITY contentBlocking.title                           "Ruq'atik Rupam">
 <!ENTITY contentBlocking.description                     "Jujun ajk'amaya'l ruxaq yekokisaj ojqanela' ri yetikïr nikinik'oj asamaj pan K'amaya'l. Pa ri ichinan rutzuwäch Firefox ri Ruyonil Niq'at Rupam yeruq'ät k'ïy ojqanela', ri yetikïr nikimöl etamab'äl chi rij ri awokem pa k'amaya'l.">
+
+<!-- Strings for new Private Browsing with Search -->
+<!ENTITY aboutPrivateBrowsing.info.title                 "At k'o pa jun Ichinan Tzuwäch">
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article
+                       about private browsing myths.   -->

@@ -3,6 +3,13 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 url-classifier-title = Etamab'äl chi rij ri URL Cha'onel
+url-classifier-search-title = Tikanöx
+url-classifier-search-result-title = Taq q'i'oj
+url-classifier-search-input = JAY
+url-classifier-search-error-invalid-url = Me'okel URL
+url-classifier-search-btn = Titikirisäx ri kanoxïk
+url-classifier-search-features = Taq b'anikil
+url-classifier-search-listType = Rucholajem ruwäch
 url-classifier-provider-title = Ajya'öl
 url-classifier-provider = Ajya'öl
 url-classifier-provider-last-update-time = Ruk'isib'äl ruq'ijul toq xk'ex
