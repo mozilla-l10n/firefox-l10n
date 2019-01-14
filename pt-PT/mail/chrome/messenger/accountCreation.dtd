@@ -19,6 +19,13 @@
 <!ENTITY rememberPassword.label          "Memorizar palavra-passe">
 <!ENTITY rememberPassword.accesskey      "M">
 
+<!ENTITY usernameEx.label                "As suas credenciais:">
+<!ENTITY usernameEx.accesskey            "d">
+<!-- LOCALIZATION NOTE(usernameEx.placeholder): YOURDOMAIN refers to the Windows domain in ActiveDirectory. yourusername refers to the user's account name in Windows. -->
+<!ENTITY usernameEx.placeholder          "OSEUDOMINIO\oseunomedeutilizador">
+<!-- LOCALIZATION NOTE(usernameEx.text): Domain refers to the Windows domain in ActiveDirectory. We mean the user's login in Windows at the local corporate network. -->
+<!ENTITY usernameEx.text                 "Credenciais do domínio">
+
 <!ENTITY imapLong.label                  "IMAP (pastas remotas)">
 <!ENTITY pop3Long.label                  "POP3 (guardar correio no computador)">
 
