@@ -14,6 +14,7 @@ region-name-ai = Anguila
 region-name-al = Albânia
 region-name-am = Armênia
 region-name-ao = Angola
+region-name-aq = Antártica
 region-name-ar = Argentina
 region-name-as = Samoa Americana
 region-name-at = Áustria
