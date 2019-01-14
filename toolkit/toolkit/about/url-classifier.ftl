@@ -3,6 +3,16 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 url-classifier-title = URL მახარისხებლის მონაცემები
+url-classifier-search-title = ძიება
+url-classifier-search-result-title = შედეგები
+url-classifier-search-result-uri = URI: { $uri }
+url-classifier-search-result-list = ცხრილის სია: { $list }
+url-classifier-search-input = URL
+url-classifier-search-error-invalid-url = არამართებული URL
+url-classifier-search-error-no-features = შესაძლებლობები არაა მითითებული
+url-classifier-search-btn = ძიების დაწყება
+url-classifier-search-features = შესაძლებლობები
+url-classifier-search-listType = სიის სახეობა
 url-classifier-provider-title = მომწოდებელი
 url-classifier-provider = მომწოდებელი
 url-classifier-provider-last-update-time = ბოლო განახლების დრო

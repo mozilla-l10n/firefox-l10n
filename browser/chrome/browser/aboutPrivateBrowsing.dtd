@@ -35,3 +35,10 @@
 
 <!ENTITY contentBlocking.title                           "შიგთავსის შეზღუდვა">
 <!ENTITY contentBlocking.description                     "ვებგვერდების ნაწილი იყენებს მეთვალყურეებს, ინტერნეტში თქვენს მოქმედებებზე თვალის მისადევნებლად. პირად ფანჯრებში Firefox-ის შიგთავსის შეზღუდვა ავტომატურად აცილებს იმ მეთვალყურებს, რომლებსაც თქვენი მონაცემების აღრიცხვა შეუძლია, ინტერნეტით სარგებლობისას.">
+
+<!-- Strings for new Private Browsing with Search -->
+<!ENTITY aboutPrivateBrowsing.info.title                 "თქვენ იმყოფებით პირად ფანჯარაში">
+<!ENTITY aboutPrivateBrowsing.info.description           "&brandShortName; გაასუფთავებს თქვენ მიერ მოძიებული და მონახულებული გვერდების ისტორიას პროგრამიდან გამოსვლისას ან ყველა პირადი ჩანართისა და ფანჯრის დახურვისას. მართალია ეს არ ფარავს თქვენს ვინაობას საიტებისა და ინტერნეტმომსახურების მომწოდებლისგან, თუმცა დაგეხმარებათ დაიცვათ პირადი მონაცემები კომპიუტერის სხვა მომხმარებლებისგან.">
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article
+                       about private browsing myths.   -->
+<!ENTITY aboutPrivateBrowsing.info.myths                 "არასწორი წარმოდგენები პირადი თვალიერების რეჟიმის შესახებ">
