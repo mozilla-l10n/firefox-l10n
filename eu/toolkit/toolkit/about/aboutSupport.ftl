@@ -174,6 +174,7 @@ main-thread-no-omtc = hari nagusia, OMTCrik ez
 yes = Bai
 no = Ez
 unknown = Ezezaguna
+virtual-monitor-disp = Monitore birtualaren pantaila
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
