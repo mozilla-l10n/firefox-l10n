@@ -3,6 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 url-classifier-title = URL 分类器信息
+url-classifier-search-title = 搜索
+url-classifier-search-result-title = 结果
+url-classifier-search-btn = 开始搜索
+url-classifier-search-listType = 列表类型
 url-classifier-provider-title = 供应商
 url-classifier-provider = 供应商
 url-classifier-provider-last-update-time = 上次更新时间
