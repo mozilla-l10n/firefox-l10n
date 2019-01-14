@@ -2,17 +2,17 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY pref.popups.title              "ფირნიშები">
+<!ENTITY pref.popups.title              "ამომხტომი ფანჯრები">
 
-<!ENTITY pref.popups.caption            "ფირნიშების პირობები">
+<!ENTITY pref.popups.caption            "ამომხტომი ფანჯრები">
 
-<!ENTITY popupBlock.label               "ფირნიშების გახსნის აკრძალვა">
+<!ENTITY popupBlock.label               "ამომხტომი ფანჯრების აკრძალვა">
 <!ENTITY popupBlock.accesskey           "B">
 
 <!ENTITY viewPermissions.label          "უფლებების მართვა">
 <!ENTITY viewPermissions.accesskey      "M">
 
-<!ENTITY whenBlock.description          "ფირნიშების დაბლოკვისას:">
+<!ENTITY whenBlock.description          "ამომხტომი ფანჯრების შეზღუდვისას:">
 <!ENTITY playSound.label                "გახმოვანება:">
 <!ENTITY playSound.accesskey            "P">
 <!ENTITY systemSound.label              "სისტემური სიგნალი">
@@ -31,5 +31,5 @@
 <!ENTITY displayNotification.label      "შეტყობინების პანელის ჩვენება შიგთავსის არის ზემოთ">
 <!ENTITY displayNotification.accesskey  "N">
 
-<!ENTITY popupNote.description          "შენიშვნა: ყველა ფირნიშის აკრძალვამ შესაძლოა შეზღუდოს ზოგი საიტის მნიშვნელოვანი ფუნქციები, როგორიცაა შესასვლელი ველები ინტერნეტ ბანკებსა და მაღაზიებში. გარკვეული საიტებისათვის ფირნიშების ჩვენების დაშვებისა და სხვა ყველა საიტისთვის ასაკრძალად დააწკაპეთ „დახმარებაზე“. ზოგიერთი საიტი იყენებს ფირნიშების ჩვენების სხვა მეთოდებს, აკრძალვის შემთხვევაშიც კი.">
+<!ENTITY popupNote.description          "შენიშვნა: ყველა ამომხტომი ფანჯრის აკრძალვამ შესაძლოა შეზღუდოს ზოგი საიტის მნიშვნელოვანი შესაძლებლობები, როგორიცაა ანგარიშის შესავსები ველები ინტერნეტბანკებსა და მაღაზიებში. გარკვეული საიტებისათვის ამომხტომი ფანჯრების ჩვენების დაშვებისა და სხვა ყველა საიტისთვის ასაკრძალად დააწკაპეთ „დახმარებაზე“. ზოგიერთი საიტი იყენებს ამომხტომი ფანჯრების ჩვენების სხვა საშუალებებს, აკრძალვისთვის გვერდის ასავლელად.">
 

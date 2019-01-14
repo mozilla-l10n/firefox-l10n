@@ -122,24 +122,24 @@
 <!ENTITY cookieBlockImagesCmd.accesskey "ზ">
 <!ENTITY cookieBlockImagesMsg.label "გამოსახულებები ამ ვებსაიტიდან არასოდეს ჩამოიტვირთება.">
 
-<!ENTITY popupsMessageChangeTitle.label "ამომხტომი ფირნიშების ნებართვები შეიცვალა">
-<!ENTITY popupAllowCmd.label "ამომხტომი ფირნიშების დაშვება ამ საიტზე">
+<!ENTITY popupsMessageChangeTitle.label "ამომხტომი ფანჯრების ნებართვები შეიცვალა">
+<!ENTITY popupAllowCmd.label "ამომხტომი ფანჯრების დაშვება ამ საიტზე">
 <!ENTITY popupAllowCmd.accesskey "დ">
-<!ENTITY popupAllowMsg.label "ამომხტომი ფირნიშები ამ საიტზე ყოველთვის დაშვებულია.">
-<!ENTITY popupDefaultCmd.label "ამომხტომი ფირნიშებისთვის ნაგულისხმევი ნებართვების დაბრუნება">
+<!ENTITY popupAllowMsg.label "ამომხტომი ფანჯრები ამ საიტზე ყოველთვის დაშვებულია.">
+<!ENTITY popupDefaultCmd.label "ამომხტომი ფანჯრებისთვის ნაგულისხმევი ნებართვების დაბრუნება">
 <!ENTITY popupDefaultCmd.accesskey "გ">
-<!ENTITY popupDefaultMsg.label "ამომხტომი ფირნიშები ამ საიტზე დაშვებულია, ნაგულისხმევი უფლებების შესაბამისად.">
-<!ENTITY popupBlockCmd.label "ამომხტომი ფირნიშების შეზღუდვა ამ საიტზე">
+<!ENTITY popupDefaultMsg.label "ამომხტომი ფანჯრები ამ საიტზე დაშვებულია, ნაგულისხმევი უფლებების შესაბამისად.">
+<!ENTITY popupBlockCmd.label "ამომხტომი ფანჯრების შეზღუდვა ამ საიტზე">
 <!ENTITY popupBlockCmd.accesskey "ზ">
-<!ENTITY popupBlockMsg.label "ამომხტომი ფირნიშები ამ საიტზე შეზღუდულია.">
-<!ENTITY popupsManage.label "ფირნიშების მართვა">
+<!ENTITY popupBlockMsg.label "ამომხტომი ფანჯრები ამ საიტზე შეზღუდულია.">
+<!ENTITY popupsManage.label "ამომხტომი ფანჯრების მართვა">
 <!ENTITY popupsManage.accesskey "მ">
 
 <!ENTITY cookieCookieManager.label "ფუნთუშების მმართველი">
 <!ENTITY cookieCookieManager.accesskey "ფ">
 <!ENTITY cookieImageManager.label "გამოსახულებათა მმართველი">
 <!ENTITY cookieImageManager.accesskey "გ">
-<!ENTITY popupsManager.label "ფირნიშების მმართველი">
+<!ENTITY popupsManager.label "ამომხტომი ფანჯრების მმართველი">
 <!ENTITY popupsManager.accesskey "თ">
 
 <!ENTITY clearPrivateDataCmd.label "პირად მონაცემთა გასუფთავება…">
