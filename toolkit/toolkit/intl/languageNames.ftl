@@ -127,6 +127,7 @@ language-name-ny = Chichewa
 language-name-oc = Occitan
 language-name-oj = Ojibwa
 language-name-om = Oromo
+language-name-or = Odia
 language-name-os = Ossetia
 language-name-pi = Pali
 language-name-pl = Ba Lan
