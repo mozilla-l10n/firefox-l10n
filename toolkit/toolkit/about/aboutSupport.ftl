@@ -173,6 +173,8 @@ hardware-h264 = Aparata malkodigo de H264
 main-thread-no-omtc = ĉefa fadeno, sen OMTC
 yes = Jes
 no = Ne
+unknown = Nekonata
+virtual-monitor-disp = Virtuala ekrano
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
@@ -180,6 +182,8 @@ no = Ne
 
 found = Trovita
 missing = Mankanta
+gpu-process-pid = GPUProcessPid
+gpu-process = GPUProcess
 gpu-description = Priskribo
 gpu-vendor-id = ID de vendisto
 gpu-device-id = ID de aparato
