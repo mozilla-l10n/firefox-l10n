@@ -3,6 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 url-classifier-title = Titouroù ar rummader URL
+url-classifier-search-input = URL
+url-classifier-search-error-invalid-url = URL didalvoudek
+url-classifier-search-features = Keweriusterioù
 url-classifier-provider-title = Pourchaser
 url-classifier-provider = Pourchaser
 url-classifier-provider-last-update-time = Hizivadenn ziwezhañ
