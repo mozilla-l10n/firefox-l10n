@@ -3,6 +3,16 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 url-classifier-title = URL sailkatzaileari buruzko informazioa
+url-classifier-search-title = Bilatu
+url-classifier-search-result-title = Emaitzak
+url-classifier-search-result-uri = URIa: { $uri }
+url-classifier-search-result-list = Taulen zerrenda: { $list }
+url-classifier-search-input = URLa
+url-classifier-search-error-invalid-url = URL baliogabea
+url-classifier-search-error-no-features = Ez da eginbiderik hautatu
+url-classifier-search-btn = Hasi bilatzen
+url-classifier-search-features = Eginbideak
+url-classifier-search-listType = Zerrenda mota
 url-classifier-provider-title = Hornitzailea
 url-classifier-provider = Hornitzailea
 url-classifier-provider-last-update-time = Azken eguneraketa
