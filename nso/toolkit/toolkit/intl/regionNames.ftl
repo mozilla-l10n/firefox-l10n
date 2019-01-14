@@ -174,6 +174,7 @@ region-name-qa = Qatar
 region-name-re = Reunion
 region-name-ro = Romania
 region-name-rs = Serbia
+region-name-ru = Russia
 region-name-rw = Rwanda
 region-name-sa = Saudi Arabia
 region-name-sb = Dihlakahlaka tša Solomon
