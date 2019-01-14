@@ -7,6 +7,7 @@
 ###         update the list in mozIntl.js.
 
 region-name-ad = Ανδόρα
+region-name-ae = Ηνωμένα Αραβικά Εμιράτα
 region-name-af = Αφγανιστάν
 region-name-ag = Αντίγκουα και Μπαρμπούντα
 region-name-ai = Ανγκουίλα
@@ -186,6 +187,7 @@ region-name-ph = Φιλιππίνες
 region-name-pk = Πακιστάν
 region-name-pl = Πολωνία
 region-name-pm = Νήσοι Αγίου Πέτρου και Μιχαήλ
+region-name-pn = Νήσοι Πίτκαιρν
 region-name-pr = Πόρτο Ρίκο
 region-name-pt = Πορτογαλία
 region-name-pw = Παλάου
@@ -208,6 +210,7 @@ region-name-sc = Σεϊχέλλες
 region-name-sd = Σουδάν
 region-name-se = Σουηδία
 region-name-sg = Σιγκαπούρη
+region-name-sh = Αγία Ελένη
 region-name-si = Σλοβενία
 region-name-sk = Σλοβακία
 region-name-sl = Σιέρα Λεόνε
