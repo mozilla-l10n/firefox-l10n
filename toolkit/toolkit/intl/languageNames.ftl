@@ -196,4 +196,5 @@ language-name-xh = Xhosa
 language-name-yi = Yiddish
 language-name-yo = Yoruba
 language-name-za = Zhuang
+language-name-zh = Tiongkok
 language-name-zu = Zulu
