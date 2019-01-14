@@ -4,6 +4,7 @@
 
 language-name-aa = Afar
 language-name-ab = Abkhazian
+language-name-ach = Acholi
 language-name-ae = Avestan
 language-name-af = Afrikaans
 language-name-ak = Akan
@@ -105,9 +106,11 @@ language-name-la = Latin
 language-name-lb = Luxembourgish
 language-name-lg = Ganda
 language-name-li = Limburgan
+language-name-lij = Ligurian
 language-name-ln = Lingala
 language-name-lo = Lao
 language-name-lt = Lithuanian
+language-name-ltg = Latgalian
 language-name-lu = Luba-Katanga
 language-name-lv = Latvian
 language-name-mg = Malagasy
@@ -197,5 +200,6 @@ language-name-xh = Xhosa
 language-name-yi = Yiddish
 language-name-yo = Yoruba
 language-name-za = Zhuang
+language-name-zam = Miahuatlán Zapotec
 language-name-zh = Chinese
 language-name-zu = Zulu
