@@ -35,6 +35,7 @@ language-name-gn = গুয়ারানি
 language-name-gu = গুজরাতি
 language-name-he = হিব্রু
 language-name-hi = হিন্দি
+language-name-hil = হিলিগেনন
 language-name-hr = ক্রোয়েশিয়ান
 language-name-hu = হাঙ্গেরিয়ান
 language-name-hz = হেরেরো
