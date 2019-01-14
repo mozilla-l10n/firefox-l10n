@@ -151,6 +151,7 @@ language-name-sl = ସ୍ଲଭେନିଆନ
 language-name-sm = ସମୟେନ
 language-name-sn = ସୋନା
 language-name-so = ସୋମାଲି
+language-name-son = ସୋଙ୍ଘାୟ
 language-name-sq = ଆଲବାନିଆନ
 language-name-sr = ସର୍ବିଆନ
 language-name-ss = ସିସ୍ୱାତି
