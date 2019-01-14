@@ -159,6 +159,7 @@ language-name-sl = Slovēņu
 language-name-sm = Samoāņu
 language-name-sn = Šonu
 language-name-so = Somāliešu
+language-name-son = Songajiešu
 language-name-sq = Albāņu
 language-name-sr = Serbu
 language-name-ss = Sisvatu
