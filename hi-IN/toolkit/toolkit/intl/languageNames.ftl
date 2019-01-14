@@ -114,6 +114,7 @@ language-name-lo = लाओ
 language-name-lt = लिथुआनियाई
 language-name-lu = लुबा कटांगा
 language-name-lv = लातिवायाई
+language-name-mai = मैथिली
 language-name-mg = मालागासी
 language-name-mh = मार्शैलैश
 language-name-mi = माओरी
