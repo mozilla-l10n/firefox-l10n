@@ -3,6 +3,16 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 url-classifier-title = URL-klassifikaasjeynformaasje
+url-classifier-search-title = Sykje
+url-classifier-search-result-title = Resultaten
+url-classifier-search-result-uri = URI: { $uri }
+url-classifier-search-result-list = List fan tabellen: { $list }
+url-classifier-search-input = URL
+url-classifier-search-error-invalid-url = Unjildige URL
+url-classifier-search-error-no-features = Gjin funksjes selektearre
+url-classifier-search-btn = Sykjen starte
+url-classifier-search-features = Funksjes
+url-classifier-search-listType = Listtype
 url-classifier-provider-title = Provider
 url-classifier-provider = Provider
 url-classifier-provider-last-update-time = Tiid fan lêste fernijing
