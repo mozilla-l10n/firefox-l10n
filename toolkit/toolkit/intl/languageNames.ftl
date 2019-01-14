@@ -3,5 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 language-name-fur = फ्रायुलियाई
+language-name-son = सोंघाए
 language-name-tig = टिग्रे
 language-name-tlh = क्लिंगान
