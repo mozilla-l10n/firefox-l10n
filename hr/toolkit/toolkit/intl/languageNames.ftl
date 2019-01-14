@@ -135,6 +135,7 @@ language-name-ny = Chichevaški
 language-name-oc = Okcitanski
 language-name-oj = Ojibwa
 language-name-om = Oromonski
+language-name-or = Odia
 language-name-os = Osetski
 language-name-pa = Pandžabski
 language-name-pi = Pali
