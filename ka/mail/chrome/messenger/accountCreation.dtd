@@ -19,6 +19,13 @@
 <!ENTITY rememberPassword.label          "პაროლის დამახსოვრება">
 <!ENTITY rememberPassword.accesskey      "m">
 
+<!ENTITY usernameEx.label                "თქვენი შესვლის მონაცემები:">
+<!ENTITY usernameEx.accesskey            "შ">
+<!-- LOCALIZATION NOTE(usernameEx.placeholder): YOURDOMAIN refers to the Windows domain in ActiveDirectory. yourusername refers to the user's account name in Windows. -->
+<!ENTITY usernameEx.placeholder          "YOURDOMAIN\yourusername">
+<!-- LOCALIZATION NOTE(usernameEx.text): Domain refers to the Windows domain in ActiveDirectory. We mean the user's login in Windows at the local corporate network. -->
+<!ENTITY usernameEx.text                 "Domain-ანგარიშის მონაცემები">
+
 <!ENTITY imapLong.label                  "IMAP (ვებსაქაღალდეები)">
 <!ENTITY pop3Long.label                  "POP3 (ფოსტის შენახვა თქვენს კომპიუტერში)">
 
