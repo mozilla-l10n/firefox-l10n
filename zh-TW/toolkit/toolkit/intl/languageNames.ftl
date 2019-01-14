@@ -52,6 +52,7 @@ language-name-gn = 巴拉圭語
 language-name-gu = 古吉拉特語 (西印度)
 language-name-ha = 豪薩語 (西非)
 language-name-he = 希伯來語
+language-name-hi = 印地語
 language-name-ho = 希里木托語 (巴布亞紐幾內亞)
 language-name-hr = 克羅埃西亞語
 language-name-ht = 海地語
