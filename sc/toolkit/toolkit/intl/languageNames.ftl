@@ -1,0 +1,50 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+language-name-ar = Àrabu
+language-name-be = Bielorussu
+language-name-bg = Bùlgaru
+language-name-ca = Catalanu
+language-name-cs = Tzecu
+language-name-da = Danesu
+language-name-de = Tedescu
+language-name-el = Grecu
+language-name-en = Sardu
+language-name-eo = Esperanto
+language-name-es = Ispagnolu
+language-name-et = Èstone
+language-name-eu = Bascu
+language-name-fa = Persianu
+language-name-fi = Finlandesu
+language-name-fr = Frantzesu
+language-name-fy = Frisone
+language-name-gl = Galitzianu
+language-name-hr = Croatu
+language-name-hu = Ungaru
+language-name-hy = Armenu
+language-name-id = Indonesianu
+language-name-io = Idu
+language-name-is = Islandesu
+language-name-it = Italianu
+language-name-ja = Giaponesu
+language-name-ka = Georgianu
+language-name-kn = Kannada
+language-name-ko = Coreanu
+language-name-ku = Curdu
+language-name-lt = Lituanu
+language-name-lv = Lettòne
+language-name-mk = Matzèdone
+language-name-nl = Olandesu
+language-name-pl = Polacu
+language-name-ro = Rumenu
+language-name-ru = Russu
+language-name-sc = Sardu
+language-name-sk = Islovacu
+language-name-sl = Islovenu
+language-name-sq = Albanesu
+language-name-sr = Serbu
+language-name-sv = Isvedesu
+language-name-tr = Turcu
+language-name-uk = Ucràinu
+language-name-vi = Vietnamita
