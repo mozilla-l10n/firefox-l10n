@@ -16,6 +16,7 @@ language-name-av = Avarisk
 language-name-ay = Aymara
 language-name-az = Aserbajdsjansk
 language-name-ba = Bashkir
+language-name-be = Kviterussisk
 language-name-bg = Bulgarsk
 language-name-bh = Bihari
 language-name-bi = Bislama
