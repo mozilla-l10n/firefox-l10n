@@ -153,6 +153,7 @@ language-name-sl = Slovenia kasa
 language-name-sm = Samoa kasa
 language-name-sn = Hyɔna
 language-name-so = Somalia kasa
+language-name-son = Songae
 language-name-sq = Albenia kasa
 language-name-sr = Sɛɛbia kasa
 language-name-ss = Siswati
