@@ -62,6 +62,7 @@ language-name-gv = Manx
 language-name-ha = Hausa
 language-name-he = Ibrani
 language-name-hi = Hindi
+language-name-hil = Hiligaynon
 language-name-ho = Hiri Motu
 language-name-hr = Kroasia
 language-name-hsb = Sorbia Atas
