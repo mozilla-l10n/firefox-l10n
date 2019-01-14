@@ -3,6 +3,16 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 url-classifier-title = Інфармацыя аб класіфікатары URL
+url-classifier-search-title = Пошук
+url-classifier-search-result-title = Вынікі
+url-classifier-search-result-uri = URI: { $uri }
+url-classifier-search-result-list = Спіс табліц: { $list }
+url-classifier-search-input = URL
+url-classifier-search-error-invalid-url = Несапраўдны URL
+url-classifier-search-error-no-features = Функцыі не выбраны
+url-classifier-search-btn = Пачаць пошук
+url-classifier-search-features = Функцыі
+url-classifier-search-listType = Тып спіса
 url-classifier-provider-title = Правайдар
 url-classifier-provider = Правайдар
 url-classifier-provider-last-update-time = Час апошняга абнаўлення
