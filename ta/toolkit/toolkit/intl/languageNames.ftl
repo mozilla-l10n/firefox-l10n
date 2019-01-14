@@ -134,6 +134,7 @@ language-name-ny = சிசேவா
 language-name-oc = ஓசிடேன்
 language-name-oj = ஓஜிப்வா
 language-name-om = ஒரோமோ
+language-name-or = ஒடியா
 language-name-os = ஓசிடேனியன்
 language-name-pa = பஞ்சாபி
 language-name-pi = பாலி
