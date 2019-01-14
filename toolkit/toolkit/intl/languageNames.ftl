@@ -11,6 +11,7 @@ language-name-am = Ikinyamarike
 language-name-an = Icyaragoneze
 language-name-ar = Icyarabu
 language-name-as = Ikinyasamese
+language-name-ast = Ikinyasituriya;{ " " }
 language-name-av = Ikinyavarike
 language-name-ay = Ikinyayimara
 language-name-az = Ikinyazeribayijani
