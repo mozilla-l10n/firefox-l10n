@@ -19,6 +19,13 @@
 <!ENTITY rememberPassword.label          "Spara lösenord">
 <!ENTITY rememberPassword.accesskey      "S">
 
+<!ENTITY usernameEx.label                "Din inloggning:">
+<!ENTITY usernameEx.accesskey            "l">
+<!-- LOCALIZATION NOTE(usernameEx.placeholder): YOURDOMAIN refers to the Windows domain in ActiveDirectory. yourusername refers to the user's account name in Windows. -->
+<!ENTITY usernameEx.placeholder          "DINDOMÄN\dittanvändarnamn">
+<!-- LOCALIZATION NOTE(usernameEx.text): Domain refers to the Windows domain in ActiveDirectory. We mean the user's login in Windows at the local corporate network. -->
+<!ENTITY usernameEx.text                 "Domäninloggning">
+
 <!ENTITY imapLong.label                  "IMAP (fjärrmappar)">
 <!ENTITY pop3Long.label                  "POP3 (lagra e-posten på datorn)">
 
