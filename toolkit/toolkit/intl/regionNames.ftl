@@ -40,6 +40,7 @@ region-name-ca = Canadá
 region-name-ch = Suiça
 region-name-ck = Ilhas Cook
 region-name-cl = Chile
+region-name-cm = Camarões
 region-name-cn = China
 region-name-co = Colômbia
 region-name-cr = Costa Rica
