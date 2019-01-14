@@ -307,7 +307,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.geolocationBlocked.tooltip       "ამ საიტისთვის თქვენს მდებარეობაზე წვდომა შეზღუდული გაქვთ.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "ამ საიტისთვის შეტყობინებების ჩვენების უფლება შეზღუდული გაქვთ.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "ამ საიტისთვის, მუდმივ მეხსიერებასთან წვდომა შეზღუდული გაქვთ.">
-<!ENTITY urlbar.popupBlocked.tooltip             "ამ საიტზე, ამომხტომი ფირნიშები შეზღუდული გაქვთ.">
+<!ENTITY urlbar.popupBlocked.tooltip             "ამ საიტზე, ამომხტომი ფანჯრები შეზღუდული გაქვთ.">
 <!ENTITY urlbar.autoplayMediaBlocked.tooltip     "ამ საიტისთვის მედიაფაილების თვითგაშვების უფლება შეზღუდული გაქვთ.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "ამ საიტისთვის, გრაფიკული გამოსახულების მონაცემთა მიღების უფლება შეზღუდული გაქვთ.">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "ამ საიტისთვის Adobe Flash მოდულის გამოყენების უფლება შეზღუდული გაქვთ.">
@@ -803,8 +803,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
-<!ENTITY editPopupSettingsUnix.label "ფირნიშების აკრძალვის პარამეტრების შეცვლა…">
-<!ENTITY editPopupSettings.label "ფირნიშების აკრძალვის პარამეტრების ჩასწორება…">
+<!ENTITY editPopupSettingsUnix.label "ამომხტომი ფანჯრების აკრძალვის პარამეტრების შეცვლა…">
+<!ENTITY editPopupSettings.label "ამომხტომი ფანჯრების აკრძალვის პარამეტრების ჩასწორება…">
 <!ENTITY editPopupSettings.accesskey "ჩ">
 <!ENTITY dontShowMessage.accesskey "დ">
 

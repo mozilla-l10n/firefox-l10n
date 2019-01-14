@@ -58,10 +58,6 @@ permissions-invalid-uri-label = გთხოვთ მიუთითოთ ს�
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-tracking-protection-window =
-    .title = გამონაკლისები – თვალთვალისგან დაცვა
-    .style = { permissions-window.style }
-permissions-exceptions-tracking-protection-desc = ამ საიტებზე, თვალთვალისგან დაცვა გამორთული გაქვთ.
 permissions-exceptions-content-blocking-window =
     .title = გამონაკლისები – შიგთავსის შეზღუდვა
     .style = { permissions-window.style }
@@ -77,9 +73,9 @@ permissions-exceptions-cookie-desc = შეგიძლიათ მიუთი
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window =
-    .title = ნებადართული საიტები – ფირნიშები
+    .title = ნებადართული საიტები – ამომხტომი ფანჯრები
     .style = { permissions-window.style }
-permissions-exceptions-popup-desc = შეგიძლიათ მიუთითოთ საიტები, რომელთაც ყოველთვის შეეძლება ამომხტომი ფირნიშების ჩვენება. აკრიფეთ საიტის ზუსტი მისამართი და დააწკაპეთ დაშვებას.
+permissions-exceptions-popup-desc = შეგიძლიათ მიუთითოთ საიტები, რომელთაც ყოველთვის შეეძლება ამომხტომი ფანჯრების ჩვენება. აკრიფეთ საიტის ზუსტი მისამართი და დააწკაპეთ დაშვებას.
 
 ## Exceptions - Saved Logins
 
