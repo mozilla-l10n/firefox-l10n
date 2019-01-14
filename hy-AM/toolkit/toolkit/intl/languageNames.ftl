@@ -135,6 +135,7 @@ language-name-ny = Չիչեվա
 language-name-oc = Օցիտան
 language-name-oj = Օյիբվա
 language-name-om = Օրմո
+language-name-or = Odia
 language-name-os = Օսեթերեն
 language-name-pa = Պունջաբի
 language-name-pi = Պալի
