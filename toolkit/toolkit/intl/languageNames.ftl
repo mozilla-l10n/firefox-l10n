@@ -154,6 +154,7 @@ language-name-sl = ಸ್ಲೋವೇನಿಯನ್
 language-name-sm = ಸಮೋವನ್
 language-name-sn = ಶೋನಾ
 language-name-so = ಸೋಮಾಲಿ
+language-name-son = ಸೋಂಗೇಯ್
 language-name-sq = ಅಲ್ಬೇನಿಯನ್
 language-name-sr = ಸರ್ಬಿಯನ್
 language-name-ss = ಸಿಸ್ವಾಟಿ
