@@ -86,6 +86,7 @@ language-name-io = الإيدو
 language-name-is = الآيسلنديّة
 language-name-it = الإيطاليّة
 language-name-iu = الإينكتيتوت
+language-name-ja = اليابانية
 language-name-jv = الجاويّة
 language-name-ka = الجورجيّة
 language-name-kab = القبائلية
