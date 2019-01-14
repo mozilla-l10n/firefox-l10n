@@ -135,6 +135,7 @@ language-name-ny = Chichewa
 language-name-oc = Oksitansk
 language-name-oj = Ojibwa
 language-name-om = Oromo
+language-name-or = Oriya
 language-name-os = Ossetisk
 language-name-pa = Punjabi
 language-name-pi = Pali
