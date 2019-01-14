@@ -46,6 +46,7 @@ language-name-fa = Ba Tư
 language-name-ff = Fula
 language-name-fi = Phần Lan
 language-name-fj = Fiji
+language-name-fo = Faroe
 language-name-fr = Pháp
 language-name-fur = Friuli
 language-name-fy = Frisia
