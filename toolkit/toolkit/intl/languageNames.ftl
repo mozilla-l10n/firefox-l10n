@@ -140,6 +140,7 @@ language-name-sl = Sloveensk
 language-name-sm = Samoaansk
 language-name-sn = Shona
 language-name-so = Somalysk
+language-name-son = Songhay
 language-name-sq = Albaneesk
 language-name-sr = Servysk
 language-name-ss = Siswati
