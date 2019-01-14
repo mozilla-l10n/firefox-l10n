@@ -4,6 +4,7 @@
 
 language-name-aa = afarščina
 language-name-ab = abhaščina
+language-name-ach = ačolijščina
 language-name-ae = avestijščina
 language-name-af = afrikanščina
 language-name-ak = akanščina
@@ -86,6 +87,7 @@ language-name-iu = inuktitutščina
 language-name-ja = japonščina
 language-name-jv = javanščina
 language-name-ka = gruzinščina
+language-name-kab = kabilščina
 language-name-kg = kongovščina
 language-name-ki = kikujščina
 language-name-kj = kvanjama
@@ -105,9 +107,11 @@ language-name-la = latinščina
 language-name-lb = luksemburščina
 language-name-lg = ganda
 language-name-li = limburščina
+language-name-lij = ligurščina
 language-name-ln = lingala
 language-name-lo = laoščina
 language-name-lt = litovščina
+language-name-ltg = latgalijanščina
 language-name-lu = lubakatangščina
 language-name-lv = latvijščina
 language-name-mg = malagaščina
