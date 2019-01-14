@@ -30,7 +30,15 @@
 
 <!ENTITY trackingProtection.title                        "Ахова ад сачэння">
 <!ENTITY trackingProtection.description2                 'Некаторыя сайты выкарыстоўваюць спецыяльныя метады, каб асочваць вашу актыўнасць у інтэрнэце і збіраць пра вас звесткі. Тэхналогія Firefox пад назвай "Ахова ад сачэння" (Tracking Protection) блакуе многія з гэтых метадаў.'>
+
 <!ENTITY trackingProtection.startTour1                   "Як гэта працуе?">
 
 <!ENTITY contentBlocking.title                           "Блакаванне змесціва">
 <!ENTITY contentBlocking.description                     "Некаторыя вэб-сайты выкарыстоўваюць трэкеры, якія могуць асочваць вашу дзейнасць у Інтэрнэце. У прыватных вокнах Блакаванне змесціва Firefox аўтаматычна блакіруе шмат такіх трэкераў, што могуць збіраць звесткі аб вашым агляданні.">
+
+<!-- Strings for new Private Browsing with Search -->
+<!ENTITY aboutPrivateBrowsing.info.title                 "Вы ў прыватным акне">
+<!ENTITY aboutPrivateBrowsing.info.description           "&brandShortName; ачышчае вашу гісторыю пошуку і аглядання, калі вы выходзіце з праграмы або закрываеце ўсе карткі і вокны прыватнага аглядання. У той час як гэта не робіць вас ананімным для вэб-сайтаў і інтэрнэт-правайдара, гэта дазваляе лягчэй трымаць у сакрэце тое, што вы робіце ў сеціве, ад астатніх карыстальнікаў гэтага камп'ютара.">
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article
+                       about private browsing myths.   -->
+<!ENTITY aboutPrivateBrowsing.info.myths                 "Шырокавядомыя забабоны пра прыватнае агляданне">
