@@ -222,6 +222,7 @@ uses-tiling = Usa mosaicos
 content-uses-tiling = Usa mosaicos (contenido)
 off-main-thread-paint-enabled = Fuera del hilo principal de pintura Habilitado
 off-main-thread-paint-worker-count = Recuento de dibujo fuera del tema principal
+low-end-machine = Se detectó una máquina de menor rendimiento
 audio-backend = Backend de audio
 max-audio-channels = Número máximo de canales
 channel-layout = Formato de canal preferido
