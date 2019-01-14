@@ -134,6 +134,7 @@ language-name-ny = التشيتشيوا
 language-name-oc = الأوكّيتانيّة
 language-name-oj = الأوجيبوا
 language-name-om = الأورومو
+language-name-or = الأوريا
 language-name-os = الأوسّتيّة
 language-name-pa = البنجابيّة
 language-name-pi = البالية
