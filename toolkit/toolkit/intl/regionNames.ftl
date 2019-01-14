@@ -54,6 +54,7 @@ region-name-cl = Chile
 region-name-cm = Cameroon
 region-name-cn = Cina
 region-name-co = Colombia
+region-name-cp = Clipperton Island
 region-name-cr = Costa Rica
 region-name-cu = Cuba
 region-name-cv = Cabo Verde
