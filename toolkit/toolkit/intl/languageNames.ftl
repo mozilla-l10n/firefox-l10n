@@ -140,6 +140,7 @@ language-name-sl = Slovène
 language-name-sm = Samoan
 language-name-sn = Shona
 language-name-so = Somali
+language-name-son = Songhaï
 language-name-sq = Albanais
 language-name-sr = Serbe
 language-name-st = Sotho du Sud
