@@ -214,6 +214,7 @@ d3d9video-crash-buard = Shkodues Videosh D3D9
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Gjatë Rinisjes Tjetër Ktheje te Parazgjedhjet
 gpu-process-kill-button = Përfundoje Procesin GPU
+gpu-device-reset = Rikthim i Pajisjes Në Fillimet
 gpu-device-reset-button = Shkakto Rikthim të Pajisjes Në Fillimet
 audio-backend = Mekanizëm Audio
 max-audio-channels = Kanale Maksimum
