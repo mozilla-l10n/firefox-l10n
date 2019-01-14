@@ -73,15 +73,11 @@
 <!ENTITY cmd.reloadLivebookmark.label      "Reŝargi aktivan legosignon">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "R">
 
-<!ENTITY cmd.moveBookmarks.label                  "Movi…">
-<!ENTITY cmd.moveBookmarks.accesskey              "M">
-
 <!ENTITY col.name.label          "Nomo">
 <!ENTITY col.tags.label          "Etikedoj">
 <!ENTITY col.url.label           "Retadreso">
 <!ENTITY col.mostrecentvisit.label "Plej ĵusa vizito">
 <!ENTITY col.visitcount.label    "Nombro de vizitoj">
-<!ENTITY col.description.label   "Priskribo">
 <!ENTITY col.dateadded.label     "Aldonita">
 <!ENTITY col.lastmodified.label  "Laste modifita">
 
@@ -94,14 +90,10 @@
 <!ENTITY maintenance.accesskey  "I">
 <!ENTITY maintenance.tooltip    "Importi kaj sekurkopii viajn legosignojn">
 
-<!ENTITY backButton.tooltip  "Malantaŭenn">
+<!ENTITY backButton.tooltip  "Iri reen">
 
 <!ENTITY forwardButton.tooltip  "Antaŭen">
 
-<!ENTITY detailsPane.more.label "Pli">
-<!ENTITY detailsPane.more.accesskey "p">
-<!ENTITY detailsPane.less.label "Malpli">
-<!ENTITY detailsPane.less.accesskey "m">
 <!ENTITY detailsPane.selectAnItemText.description "Elekti elementon por vidi kaj modifi ĝiajn atributojn">
 
 <!ENTITY view.label               "Vidi">
