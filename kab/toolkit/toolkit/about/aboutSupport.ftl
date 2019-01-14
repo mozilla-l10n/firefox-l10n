@@ -222,6 +222,7 @@ uses-tiling = Iseqdac akallaj
 content-uses-tiling = Seqdec asebleḍ (Agbur)
 off-main-thread-paint-enabled = Painting beṛṛa n tnelli n uselkem agejdan yermed
 off-main-thread-paint-worker-count = Uṭṭun n iseqdacen Painting beṛṛa n tnelli
+target-frame-rate = Afmiḍi n n ukatar asaḍas
 audio-backend = Ameslaw ɣer deffir
 max-audio-channels = Amḍan afellay n ibuda
 channel-layout = Taneɣruft n udabu i tebɣiḍ

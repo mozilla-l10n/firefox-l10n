@@ -30,7 +30,13 @@
 
 <!ENTITY trackingProtection.title                        "Ammesten n usfuɣel ">
 <!ENTITY trackingProtection.description2                 "Kra n yismal web zemren ad sqedcen imesfuɣal akken ad walin armud-ik deg Internet. S ummesten mgal asfuɣel, Firefox ad issewḥel ddeqs n yimesfuɣal seg ulqaḍ n telɣut ɣef wamek iteddu yiminig-inek.">
+
 <!ENTITY trackingProtection.startTour1                   "Wali amek i iteddu">
 
 <!ENTITY contentBlocking.title                           "Asewḥel n ugbur">
 <!ENTITY contentBlocking.description                     "Kra n ismal web seqdacen ineḍfaren izemren ad walin armud-inek deg internet.deg usfaylu uslig, Firefx ad isewḥel swudem awurman agbur, akked ineḍrafen ibɣan ad leqḍen talɣut n tunigin-inek.">
+
+<!-- Strings for new Private Browsing with Search -->
+<!ENTITY aboutPrivateBrowsing.info.title                 "Deg usfaylu uslig i telliḍ tura">
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article
+                       about private browsing myths.   -->

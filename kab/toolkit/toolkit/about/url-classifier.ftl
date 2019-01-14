@@ -3,6 +3,16 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 url-classifier-title = Talγut γef usefrek n tansiwin URL
+url-classifier-search-title = Nadi
+url-classifier-search-result-title = Igmaḍ
+url-classifier-search-result-uri = URI: { $uri }
+url-classifier-search-result-list = Tabdart n tfelwiyin: { $list }
+url-classifier-search-input = URL
+url-classifier-search-error-invalid-url = URL mačči d tarameɣtut
+url-classifier-search-error-no-features = Ulac timahilin yetwafernen
+url-classifier-search-btn = Senker anadi
+url-classifier-search-features = Timahilin
+url-classifier-search-listType = Anaw n tebdart
 url-classifier-provider-title = Imefki
 url-classifier-provider = Imfeki
 url-classifier-provider-last-update-time = Akud n uleqqem aneggaru
