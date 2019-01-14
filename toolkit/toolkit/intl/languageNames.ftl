@@ -135,6 +135,7 @@ language-name-ny = চিচেওয়া
 language-name-oc = ওকসেটান
 language-name-oj = ওজিবওয়া
 language-name-om = ওরোমো
+language-name-or = উড়িয়া
 language-name-os = ওসেটিয়া
 language-name-pa = পাঞ্জাবি
 language-name-pi = পালি
