@@ -11,8 +11,8 @@
 <!ENTITY returnToPreviousPage1.label "Reen (rekomendita)">
 <!ENTITY advanced.label "Spertula">
 <!ENTITY continue2.label "Pli…">
+<!ENTITY advanced2.label "Spertula…">
 <!ENTITY moreInformation.label "Pli da informo">
-
 <!ENTITY viewCertificate.label "Vidi atestilon">
 
 <!-- Specific error messages -->
@@ -138,9 +138,6 @@ will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "La posedanto de <span class='hostname'/> malĝuste agordis sian retejon. Por protekti viajn datumojn kontraŭ ŝtelo, &brandShortName; ne konektiĝis al tiu ĉi retejo.">
 <!ENTITY certerror.introPara2 "&brandShortName; trovis eblan sekurecan riskon kaj ne konektiĝis al <span class='hostname'/>. Se vi tamen vizitas tiun ĉi retejon, atakantoj povus klopodi ŝteli informojn, kiel ezkemple viajn pasvortojn, retpoŝtajn mesaĝojn aŭ detalojn de via kreditkarto.">
-
-<!ENTITY certerror.expiredCert.secondPara "Tiu problemo okazas tre verŝajne pro tio ke la horloĝo de via komputilo ne estas ĝusta, kio malpermesus al &brandShortName; sekure konektiĝi.">
-
 <!ENTITY certerror.sts.introPara "&brandShortName; trovis eblan sekurecan riskon kaj ne malfermis <span class='hostname'/> ĉar tiu retejo postulas sekuran konekton.">
 
 <!ENTITY certerror.expiredCert.introPara "&brandShortName; trovis problemon kaj ne malfermis <span class='hostname'/>. Aŭ la retejo estas misagordita aŭ la horloĝo en via komputilo estas malĝusta.">
@@ -205,6 +202,9 @@ Strict Transport Security (HSTS) por specifi ke &brandShortName; nur povas konek
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> uzas sekurecan teĥnologion kiu estas kaduka kaj sendefenda. Atakanto povus facile elmeti informojn, kiujn vi opiniis sekuraj. La administranto de la retejo devos ripari la servilon, antaŭ ol vi povos viziti ĝin.</p><p>Erarkodo: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Blokita paĝo">
+
+<!ENTITY certerror.mitm.title "Programaro malpermesas al &brandShortName; sekure konekti tiun ĉi retejon">
+<!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> probable estas sekura retejo, sed oni ne povis sekure konekti ĝin. Tiu eraro probable estas kaŭzita de <span class='mitm-name'/>, kiu estas programaro ĉu en via komputilo ĉu en via reto.">
 
 <!ENTITY clockSkewError.title "La horloĝo de via komputilo estas malĝusta">
 <!ENTITY clockSkewError.longDesc "Via komputilo malĝuste pensas ke nun estas <span id='wrongSystemTime_systemDate1'/>, kaj tio malpermesas al &brandShortName; konektiĝi sekure. Por viziti <span class='hostname'></span>, ĝustigu vian komputilan horloĝon je la nuna dato, horo, kaj horzono, kaj poste reŝargu <span class='hostname'></span>.">
