@@ -135,6 +135,7 @@ language-name-ny = Nyanja
 language-name-oc = Okitaneg
 language-name-oj = Ojibwa
 language-name-om = Oromoeg
+language-name-or = Odia
 language-name-os = Oseteg
 language-name-pa = Punjabi
 language-name-pi = Pali
