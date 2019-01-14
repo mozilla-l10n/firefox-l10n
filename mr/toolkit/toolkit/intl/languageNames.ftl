@@ -3,3 +3,4 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 language-name-fur = फ्र्यूलीयन
+language-name-son = साँहे
