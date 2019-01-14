@@ -102,6 +102,7 @@ language-name-sk = Slovakça
 language-name-sl = Slovence
 language-name-sm = Samoan Dili
 language-name-sn = Shona Dili
+language-name-son = Songhay
 language-name-sq = Arnavutça
 language-name-sr = Sırpça
 language-name-ss = Siswati Dili
