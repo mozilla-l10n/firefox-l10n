@@ -19,6 +19,13 @@
 <!ENTITY rememberPassword.label          "Wachtwurd ûnthâlde">
 <!ENTITY rememberPassword.accesskey      "u">
 
+<!ENTITY usernameEx.label                "Jo oanmelding:">
+<!ENTITY usernameEx.accesskey            "o">
+<!-- LOCALIZATION NOTE(usernameEx.placeholder): YOURDOMAIN refers to the Windows domain in ActiveDirectory. yourusername refers to the user's account name in Windows. -->
+<!ENTITY usernameEx.placeholder          "YOURDOMAIN\yourusername">
+<!-- LOCALIZATION NOTE(usernameEx.text): Domain refers to the Windows domain in ActiveDirectory. We mean the user's login in Windows at the local corporate network. -->
+<!ENTITY usernameEx.text                 "Domeinoanmelding">
+
 <!ENTITY imapLong.label                  "IMAP (mappen op in oare kompjûter)">
 <!ENTITY pop3Long.label                  "POP3 (e-mail op jo kompjûter bewarje)">
 
