@@ -19,6 +19,10 @@
 <!ENTITY rememberPassword.label          "记住密码">
 <!ENTITY rememberPassword.accesskey      "m">
 
+<!ENTITY usernameEx.accesskey            "l">
+<!-- LOCALIZATION NOTE(usernameEx.placeholder): YOURDOMAIN refers to the Windows domain in ActiveDirectory. yourusername refers to the user's account name in Windows. -->
+<!-- LOCALIZATION NOTE(usernameEx.text): Domain refers to the Windows domain in ActiveDirectory. We mean the user's login in Windows at the local corporate network. -->
+
 <!ENTITY imapLong.label                  "IMAP（远程文件夹）">
 <!ENTITY pop3Long.label                  "POP3（在您的计算机上保留邮件）">
 
