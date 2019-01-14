@@ -143,6 +143,7 @@ language-name-ny = Chichewa Dili
 language-name-oc = Occitan Dili
 language-name-oj = Ojibwa Dili
 language-name-om = Oromo Dili
+language-name-or = Odia
 language-name-os = Osetya Dili
 language-name-pa = Pencap Dili
 language-name-pi = Pali Dili
