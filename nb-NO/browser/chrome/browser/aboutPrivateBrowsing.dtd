@@ -30,7 +30,13 @@
 
 <!ENTITY trackingProtection.title                        "Sporingsbeskyttelse">
 <!ENTITY trackingProtection.description2                 "Noen nettsider bruker sporere som kan overvåke aktiviteten din over hele nettet. Med sporingsvern vil Firefox blokkere mange sporere som kan samle inn informasjon om surfevanene dine.">
+
 <!ENTITY trackingProtection.startTour1                   "Se hvordan dette virker">
 
 <!ENTITY contentBlocking.title                           "Innholdsblokkering">
 <!ENTITY contentBlocking.description                     "Enkelte nettsteder bruker sporere som kan overvåke aktiviteten din på Internett. I private vinduer blokkerer Firefox innholdsblokkering automatisk mange sporere som kan samle inn informasjon om din nettleseradferd.">
+
+<!-- Strings for new Private Browsing with Search -->
+<!ENTITY aboutPrivateBrowsing.info.title                 "Du er i et privat vindu">
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article
+                       about private browsing myths.   -->
