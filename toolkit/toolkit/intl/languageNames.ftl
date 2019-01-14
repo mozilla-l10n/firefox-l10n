@@ -32,6 +32,7 @@ language-name-ce = čečenščina
 language-name-ch = čamorščina
 language-name-co = korziščina
 language-name-cr = krijščina
+language-name-crh = krimska tatarščina
 language-name-cs = češčina
 language-name-csb = kašubščina
 language-name-cu = stara cerkvena slovanščina
