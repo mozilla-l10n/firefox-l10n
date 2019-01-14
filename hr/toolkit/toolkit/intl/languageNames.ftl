@@ -65,6 +65,7 @@ language-name-ha = Hausaški
 language-name-haw = Havajski
 language-name-he = Hebrejski
 language-name-hi = Hindski
+language-name-hil = Hiligajnonski
 language-name-ho = Hirimótujski
 language-name-hr = Hrvatski
 language-name-hsb = Gornjolužički
