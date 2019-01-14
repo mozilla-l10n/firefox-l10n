@@ -157,6 +157,7 @@ language-name-sl = Slovenski
 language-name-sm = Samoanski
 language-name-sn = Šona
 language-name-so = Somalijski
+language-name-son = Songhay
 language-name-sq = Albanski
 language-name-sr = Srpski
 language-name-ss = Siswati
