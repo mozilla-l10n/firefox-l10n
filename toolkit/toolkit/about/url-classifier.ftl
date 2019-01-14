@@ -3,6 +3,16 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 url-classifier-title = Manylion Dosbarthu URL
+url-classifier-search-title = Chwilio
+url-classifier-search-result-title = Canlyniadau
+url-classifier-search-result-uri = URI: { $uri }
+url-classifier-search-result-list = Rhestr tablau: { $list }
+url-classifier-search-input = URL
+url-classifier-search-error-invalid-url = URL annilys
+url-classifier-search-error-no-features = Heb ddewis nodwedd
+url-classifier-search-btn = Cychwyn chwilio
+url-classifier-search-features = Nodweddion
+url-classifier-search-listType = Math o restr
 url-classifier-provider-title = Darparwr
 url-classifier-provider = Darparwr
 url-classifier-provider-last-update-time = Amser y diweddariad diwethaf
