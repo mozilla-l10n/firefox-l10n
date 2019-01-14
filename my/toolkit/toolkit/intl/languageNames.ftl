@@ -5,6 +5,7 @@
 language-name-aa = အာဖာ
 language-name-ab = အခ္ဘါဇီယန်
 language-name-ae = Avestan
+language-name-af = အာဖရိကန်
 language-name-ak = အာကန်
 language-name-am = အန်ဟာရစ်
 language-name-an = အာရဂိုနစ်
