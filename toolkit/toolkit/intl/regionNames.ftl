@@ -6,6 +6,7 @@
 ### Notice: If you're updating this list, you should also
 ###         update the list in mozIntl.js.
 
+region-name-mf = Sint Martin
 region-name-nc = Nij Kaledoonje
 region-name-ne = Nigeria
 region-name-ng = Nigeria
@@ -20,6 +21,7 @@ region-name-pt = Portugal
 region-name-pw = Palau
 region-name-re = Reunion
 region-name-ro = Roemeenje
+region-name-rs = Servje
 region-name-rw = Rwanda
 region-name-sb = Solomon Islands
 region-name-sc = Seysjellen
@@ -29,6 +31,7 @@ region-name-sk = Slowakije
 region-name-sl = Sierra Leone
 region-name-sm = San Marino
 region-name-sn = Senegal
+region-name-so = Somaalje
 region-name-sr = Suriname
 region-name-st = Sao Tome en Prinsipe
 region-name-tc = Turks en Kaikos Eilannen
