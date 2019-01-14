@@ -135,6 +135,7 @@ language-name-ny = ചിചെവ
 language-name-oc = ഓക്സിറ്റന്‍
 language-name-oj = ഒജിബ്‌വെയ്‌
 language-name-om = ഒറോമോ
+language-name-or = ഒഡിയ
 language-name-os = ഒസ്സെറ്റിയന്‍
 language-name-pa = പഞ്ചാബി{ " " }
 language-name-pi = പാലി{ " " }
