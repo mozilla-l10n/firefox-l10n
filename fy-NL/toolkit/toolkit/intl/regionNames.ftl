@@ -7,13 +7,17 @@
 ###         update the list in mozIntl.js.
 
 region-name-mf = Sint Martin
+region-name-na = Namibië
 region-name-nc = Nij Kaledoonje
 region-name-ne = Nigeria
+region-name-nf = Norfolk Eilân
 region-name-ng = Nigeria
+region-name-nl = Nederlân
 region-name-no = Norway
 region-name-np = Nepal
 region-name-nr = Nauru
 region-name-nu = Niue
+region-name-pf = Frânsk-Polyneesje
 region-name-pg = Papua Nij Gunea
 region-name-pm = Saint Pierre and Miquelon
 region-name-pn = Pitcairn
@@ -34,11 +38,15 @@ region-name-sn = Senegal
 region-name-so = Somaalje
 region-name-sr = Suriname
 region-name-st = Sao Tome en Prinsipe
+region-name-sz = Swazilân
 region-name-tc = Turks en Kaikos Eilannen
 region-name-td = Chad
+region-name-tf = Frânsk Súdlike Territoria
 region-name-tg = Togo
+region-name-th = Thailân
 region-name-tj = Tajikistan
 region-name-tk = Tokelau
+region-name-tl = East-Timor
 region-name-tm = Turkmenistan
 region-name-to = Tonga
 region-name-tr = Turkey
