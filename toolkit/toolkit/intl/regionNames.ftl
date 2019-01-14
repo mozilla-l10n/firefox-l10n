@@ -262,6 +262,7 @@ region-name-xe = Otok Europa
 region-name-xg = Gaza
 region-name-xh = Otok Howland
 region-name-xj = Jan Mayen
+region-name-xk = Kosovo
 region-name-xl = Atol Palmyra
 region-name-xm = Kingmanov greben
 region-name-xp = Otočje Paracel
