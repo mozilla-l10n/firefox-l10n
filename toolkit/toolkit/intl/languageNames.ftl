@@ -155,6 +155,7 @@ language-name-sl = Словенечки
 language-name-sm = Самоански
 language-name-sn = Схона
 language-name-so = Сомалиски
+language-name-son = Сонгхај
 language-name-sq = Албански
 language-name-sr = Српски
 language-name-ss = Сисвати
