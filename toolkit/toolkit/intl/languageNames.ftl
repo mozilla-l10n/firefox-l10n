@@ -135,6 +135,7 @@ language-name-ny = Siséivis
 language-name-oc = Ocatáinis
 language-name-oj = Óisibvis
 language-name-om = Oraimis
+language-name-or = Oirísis
 language-name-os = Óiséitis
 language-name-pa = Painseáibis
 language-name-pi = Páilis
