@@ -206,5 +206,6 @@ language-name-xh = Xhosanski
 language-name-yi = Jidiš
 language-name-yo = Jorubski
 language-name-za = Zhuanški
+language-name-zam = Miahuatlán Zapotec
 language-name-zh = Kineski
 language-name-zu = Zulujski
