@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+language-name-aa = தொலைதூரம்
 language-name-ab = அப்ஹாசியான்
 language-name-ae = அவெஸ்டான்
 language-name-af = ஆப்ரிகான்
@@ -114,6 +115,7 @@ language-name-ms = மலாய்
 language-name-mt = மால்டீஸ்
 language-name-my = பர்மீஸ்
 language-name-na = நௌரு
+language-name-nb = நார்வேஜியன் பாம்க்ål
 language-name-nd = நடெபில்லே, நார்த்
 language-name-ne = நேபாளி
 language-name-ng = நடோங்கா
