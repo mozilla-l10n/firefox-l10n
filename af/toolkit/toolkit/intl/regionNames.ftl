@@ -65,6 +65,7 @@ region-name-er = Eritrea
 region-name-es = Spanje
 region-name-et = Etiopië
 region-name-fi = Finland
+region-name-fj = Fidji
 region-name-fo = Faroër-eilande
 region-name-fr = Frankryk
 region-name-ga = Gaboen
