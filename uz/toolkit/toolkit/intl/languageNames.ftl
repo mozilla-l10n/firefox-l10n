@@ -135,6 +135,7 @@ language-name-ny = Chicheva
 language-name-oc = Fransuzcha (Ossitan shevasi)
 language-name-oj = Ojibva
 language-name-om = Oromo
+language-name-or = Odia
 language-name-os = Ossetincha
 language-name-pa = Panjobcha
 language-name-pi = Pali
