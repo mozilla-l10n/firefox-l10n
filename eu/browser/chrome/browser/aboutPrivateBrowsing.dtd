@@ -30,7 +30,15 @@
 
 <!ENTITY trackingProtection.title                        "Jarraipenaren babesa">
 <!ENTITY trackingProtection.description2                 "Zenbait webgunek zure jarraipena egin eta Interneten zehar duzun jarduera monitoriza dezakete. Jarraipenaren babesarekin, zure nabigatze-portaerari buruzko informazioa biltzea blokeatuko du Firefoxek.">
+
 <!ENTITY trackingProtection.startTour1                   "Ikusi nola dabilen">
 
 <!ENTITY contentBlocking.title                           "Edukia blokeatzea">
 <!ENTITY contentBlocking.description                     "Zenbait webgunek zure jarraipena egin eta Interneten zehar duzun jarduera monitoriza dezakete. Leiho pribatuetan, zure nabigatze-portaerari buruzko informazioa bil lezaketen elementuak automatikoki blokeatuko ditu Firefoxen edukiaren blokeoak.">
+
+<!-- Strings for new Private Browsing with Search -->
+<!ENTITY aboutPrivateBrowsing.info.title                 "Leiho pribatuan zaude">
+<!ENTITY aboutPrivateBrowsing.info.description           "&brandShortName;(e)k zure bilaketa- eta nabigazio-historia garbitzen du aplikazioa ixtean edo nabigatze pribatuko fitxa eta leiho guztiak ixtean. Honek ez zaitu anonimo egiten webguneen edo zure interneteko zerbitzu-hornitzailearen aurrean baina erraztu egiten du ordenagailu hau erabiltzen duten beste erabiltzaileengandik online duzun jarduera pribatu mantentzea.">
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article
+                       about private browsing myths.   -->
+<!ENTITY aboutPrivateBrowsing.info.myths                 "Nabigatze pribatuari buruzko ohiko mitoak">
