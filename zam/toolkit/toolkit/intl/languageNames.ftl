@@ -16,6 +16,7 @@ language-name-et = Estonio
 language-name-eu = Basque
 language-name-fa = Persia
 language-name-ff = Fulah
+language-name-fi = Tèlôy
 language-name-fj = Fijian
 language-name-fo = Faroese
 language-name-fr = Fránces
