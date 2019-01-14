@@ -285,6 +285,10 @@ update-application-use-service =
 update-enable-search-update =
     .label = Agiorna in outomatico i motoî de riçerca
     .accesskey = e
+update-pref-write-failure-title = Erô de scritua
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = No ariescio a sarvâ e preferense. No ti peu scrive into file: { $path }
 
 ## General Section - Performance
 
@@ -324,6 +328,10 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Çerca tanto che son derê a scrive
     .accesskey = s
+browsing-cfr-recommendations =
+    .label = Estenscioin consegiæ quande ti naveghi
+    .accesskey = E
+browsing-cfr-recommendations-learn-more = Atre informaçioin
 
 ## General Section - Proxy
 
@@ -524,7 +532,6 @@ privacy-header = Privacy do navegatô
 
 ## Privacy Section - Forms
 
-forms-header = Form e Paròlle segrete
 logins-header = Login e Poule segrete
 forms-ask-to-save-logins =
     .label = Domanda se sarvâ acessi e poule segrete pe-i sciti
