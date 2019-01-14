@@ -82,6 +82,7 @@ language-name-ki = SeKikuyu
 language-name-kj = SeKuanyama
 language-name-kk = SeKazakh
 language-name-kl = SeGreenlandiki
+language-name-km = SeKhmer
 language-name-kn = SeKannada
 language-name-ko = SeKorea
 language-name-kok = SeKonkani
