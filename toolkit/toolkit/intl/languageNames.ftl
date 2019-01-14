@@ -4,6 +4,7 @@
 
 language-name-aa = ఆఫార్
 language-name-ab = అబ్ఖాజియన్
+language-name-ach = అచోలీ
 language-name-ae = అవెస్టన్
 language-name-af = అఫ్రికాన్స్
 language-name-ak = ఆకాన్
