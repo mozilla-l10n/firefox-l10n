@@ -20,6 +20,7 @@ region-name-at = Otiriis
 region-name-au = Ostaraliya
 region-name-aw = Aruba
 region-name-az = Ajerbayjaan
+region-name-ba = Bosnii Hersegowiin
 region-name-bb = Barbados
 region-name-bd = Bangladees
 region-name-be = Belsik
