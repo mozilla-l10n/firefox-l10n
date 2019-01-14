@@ -635,6 +635,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.label      "علِّم هذا الإطار">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "ط">
 <!ENTITY pageAction.copyLink.label    "انسخ الرابط">
+
+<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
+  "Pocket" is a brand name. -->
+<!ENTITY pocketButton.tooltiptext     "احفظ في Pocket">
+<!ENTITY saveToPocketCmd.label        "احفظ الصفحة في Pocket">
+<!ENTITY saveToPocketCmd.accesskey    "ح">
+<!ENTITY saveLinkToPocketCmd.label    "احفظ الرابط في Pocket">
+<!ENTITY saveLinkToPocketCmd.accesskey "ط">
+<!ENTITY pocketMenuitem.label         "اعرض قائمة Pocket">
+
 <!ENTITY emailPageCmd.label           "أرسل الرابط بالبريد…">
 <!ENTITY emailPageCmd.accesskey       "س">
 <!ENTITY savePageCmd.label            "احفظ الصفحة باسم…">
