@@ -134,6 +134,7 @@ language-name-ny = ချီချဲဗား
 language-name-oc = အော်ချစ်တန်
 language-name-oj = အိုဂျီဘွား
 language-name-om = အိုရိုမို
+language-name-or = အိုဒီယာ
 language-name-os = အိုဆက်တီယန်း
 language-name-pa = ပန်ဂျပ်ဘီ
 language-name-pi = ပါဠိ
