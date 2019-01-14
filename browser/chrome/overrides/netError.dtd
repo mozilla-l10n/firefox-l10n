@@ -7,7 +7,7 @@
 
 <!ENTITY loadError.label "Okazis problemo dum ŝargado de la paĝo">
 <!ENTITY retry.label "Klopodi denove">
-<!ENTITY returnToPreviousPage.label "Malantaŭen">
+<!ENTITY returnToPreviousPage.label "Iri reen">
 <!ENTITY returnToPreviousPage1.label "Reen (rekomendita)">
 <!ENTITY advanced.label "Spertula">
 <!ENTITY continue2.label "Pli…">
@@ -205,6 +205,10 @@ Strict Transport Security (HSTS) por specifi ke &brandShortName; nur povas konek
 
 <!ENTITY certerror.mitm.title "Programaro malpermesas al &brandShortName; sekure konekti tiun ĉi retejon">
 <!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> probable estas sekura retejo, sed oni ne povis sekure konekti ĝin. Tiu eraro probable estas kaŭzita de <span class='mitm-name'/>, kiu estas programaro ĉu en via komputilo ĉu en via reto.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "Se via kontraŭvirusa programo kapablas analizi ĉifritajn konektojn (ofte nomata “teksaĵa skanado” aŭ “HTTPS skanado”), provu malŝalti ĝin. Se tio ne helpas, provu malinstali kaj reinstali la kontraŭvirusan programon.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "Se vi estas en entreprena reto, bonvolu kontakti vian informatikan servon.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "Se vi ne rekonas la nomon <span class='mitm-name'/>, tio ĉi povus esti atako kaj vi ne devus viziti la retejon.">
+<!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "Se vi ne rekonas la nomon <span class='mitm-name'/>, tio ĉi povus esti atako kaj vi povas fari nenion por aliri la retejon.">
 
 <!ENTITY clockSkewError.title "La horloĝo de via komputilo estas malĝusta">
 <!ENTITY clockSkewError.longDesc "Via komputilo malĝuste pensas ke nun estas <span id='wrongSystemTime_systemDate1'/>, kaj tio malpermesas al &brandShortName; konektiĝi sekure. Por viziti <span class='hostname'></span>, ĝustigu vian komputilan horloĝon je la nuna dato, horo, kaj horzono, kaj poste reŝargu <span class='hostname'></span>.">
