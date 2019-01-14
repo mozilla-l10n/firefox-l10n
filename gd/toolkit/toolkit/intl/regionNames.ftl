@@ -94,6 +94,7 @@ region-name-hu = An Ungair
 region-name-id = Na h-Innd Innse
 region-name-ie = Èirinn
 region-name-il = Iosrael
+region-name-im = Eilean Mhanainn
 region-name-in = Na h-Innseachan
 region-name-io = Ranntair Breatannach Cuan nan Innseachan
 region-name-iq = Ioràc
