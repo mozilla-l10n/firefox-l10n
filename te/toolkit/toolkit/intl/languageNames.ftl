@@ -2,8 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+language-name-aa = ఆఫార్
 language-name-ab = అబ్ఖాజియన్
 language-name-ae = అవెస్టన్
+language-name-ak = ఆకాన్
+language-name-am = అంహారిక్
 language-name-an = అరగొనీస్
 language-name-ar = అరబిక్
 language-name-av = అవరిక్
