@@ -47,6 +47,7 @@ language-name-eo = Esperanto
 language-name-es = Espanyol
 language-name-et = Estonià
 language-name-eu = Basc
+language-name-fa = Persa
 language-name-ff = Fulah
 language-name-fi = Finès
 language-name-fj = Fijià
