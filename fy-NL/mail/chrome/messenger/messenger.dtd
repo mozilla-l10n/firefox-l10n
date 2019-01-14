@@ -440,9 +440,6 @@
 <!ENTITY openMessageWindowCmd.label "Berjocht iepenje">
 <!ENTITY openMessageWindowCmd.accesskey "i">
 <!ENTITY openMessageWindowCmd.key "o">
-<!ENTITY openConversationCmd.label "Iepenje yn petear">
-<!ENTITY openConversationCmd.accesskey "p">
-<!ENTITY openConversationCmd.key "o">
 <!ENTITY openInConversationCmd.label "Iepenje yn petear">
 <!ENTITY openInConversationCmd.accesskey "p">
 <!ENTITY openInConversationCmd.key "o">
@@ -795,6 +792,8 @@
 <!ENTITY contextMoveMsgMenu.accesskey "F">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Resint">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "R">
+<!ENTITY contextMoveCopyMsgFavoritesMenu.label "Favoriten">
+<!ENTITY contextMoveCopyMsgFavoritesMenu.accesskey "F">
 <!ENTITY contextCopyMsgMenu.label "Kopiearje nei">
 <!ENTITY contextCopyMsgMenu.accesskey "K">
 <!ENTITY contextKillThreadMenu.label "Petear negearje">
