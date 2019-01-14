@@ -56,6 +56,7 @@ language-name-fr = Ֆրանսերեն
 language-name-fur = Ֆրիուլյան
 language-name-fy = Ֆրիզերեն
 language-name-ga = Իռլանդերեն
+language-name-gd = Շոտլանդական գալերեն
 language-name-gl = Գալիերեն
 language-name-gn = Գուարանի
 language-name-gu = Գույարաթի
