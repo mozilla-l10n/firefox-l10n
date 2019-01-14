@@ -152,6 +152,7 @@ region-name-mg = ਮੈਡਾਗਾਸਕਰ
 region-name-mh = ਮਾਰਸ਼ਲ ਟਾਪੂ
 region-name-mk = ਮੈਕਡੋਨੀਆ, F.Y.R. ਦਾ
 region-name-ml = ਮਾਲੀ
+region-name-mm = ਮਿਆਂਮਾਰ
 region-name-mn = ਮੰਗੋਲੀਆ
 region-name-mo = ਮਾਕੋਆ
 region-name-mp = ਉੱਤਰੀ ਮਾਰੀਆਨਾ ਟਾਪੂ
