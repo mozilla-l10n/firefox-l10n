@@ -154,6 +154,7 @@ language-name-sl = Esloveno
 language-name-sm = Samoano
 language-name-sn = Shona
 language-name-so = Somali
+language-name-son = Songhay
 language-name-sq = Albanês
 language-name-sr = Sérvio
 language-name-ss = Swati
