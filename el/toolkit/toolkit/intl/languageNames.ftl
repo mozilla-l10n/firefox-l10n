@@ -1,0 +1,53 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+language-name-ab = Αμπχαζική
+language-name-af = Αφρικάανς
+language-name-am = Αμχαρική
+language-name-an = Αραγκονική
+language-name-ar = Αραβική
+language-name-ast = Αστουριανή
+language-name-ay = Αϊμαρα
+language-name-az = Αζεριανή
+language-name-bs = Βοσνιακή
+language-name-ca = Καταλανική
+language-name-de = Γερμανική
+language-name-el = Ελληνική
+language-name-eo = Εσπεράντο
+language-name-es = Ισπανική
+language-name-eu = Βασκική
+language-name-fi = Φιλανδική
+language-name-fr = Γαλλική
+language-name-ga = Ιρλανδική
+language-name-he = Εβραϊκή
+language-name-hr = Κροατική
+language-name-hu = Ουγγρική
+language-name-hy = Αρμενική
+language-name-id = Ινδονησιακή
+language-name-is = Ισλανδική
+language-name-it = Ιταλική
+language-name-ja = Ιαπωνική
+language-name-ku = Κουρδική
+language-name-lt = Λιθουανική
+language-name-lv = Λετονική
+language-name-mk = Σλαβομακεδονική
+language-name-ms = Malaysian
+language-name-nn = Νορβηγικά Nynorsk
+language-name-no = Νορβηγική
+language-name-pa = Πουντζάμπι
+language-name-pl = Πολωνική
+language-name-pt = Πορτογαλική
+language-name-sk = Σλοβάκικη
+language-name-sl = Σλοβενική
+language-name-sq = Αλβανική
+language-name-sr = Σερβική
+language-name-sv = Σουηδική
+language-name-sw = Σουαχίλι
+language-name-ta = Ταμίλ
+language-name-tr = Τουρκικά
+language-name-uk = Ουκρανική
+language-name-vi = Βιεταμέζικη
+language-name-yi = Εβραϊκά (Yiddish)
+language-name-zh = Κινέζικη
+language-name-zu = Ζουλού
