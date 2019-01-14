@@ -30,7 +30,15 @@
 
 <!ENTITY trackingProtection.title                        "Protekto kontraŭ spurado">
 <!ENTITY trackingProtection.description2                 "Kelkaj retejoj uzas spurilojn kiuj povas sekvi vin tra la reto. La protekto kontraŭ spurado de Firefox blokos plurajn spurilojn kiuj povus kolekti informon pri via agado en la reto.">
+
 <!ENTITY trackingProtection.startTour1                   "Vidi kiel tio ĉi funkcias">
 
 <!ENTITY contentBlocking.title                           "Blokado de enhavo">
 <!ENTITY contentBlocking.description                     "Kelkaj retejoj uzas spurilojn kiuj povas sekvi vin tra la reto. En privataj fenestroj, la blokado de enhavo de Firefox aŭtomate blokos plurajn spurilojn, kiuj povus kolekti informojn pri via retumo.">
+
+<!-- Strings for new Private Browsing with Search -->
+<!ENTITY aboutPrivateBrowsing.info.title                 "Vi estas en privata fenestro">
+<!ENTITY aboutPrivateBrowsing.info.description           "&brandShortName; forviŝos vian serĉan kaj retuman historion kiam vi finas la programon aŭ fermas ĉiujn langetojn kaj fenestrojn en privata retumo. Kvankam tio ŝi ne igas vin anonima por retejoj aŭ via reta provizanto, tio faciligas la taskon kaŝi vian retumon de aliaj uzantoj en la sama komputilo.">
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article
+                       about private browsing myths.   -->
+<!ENTITY aboutPrivateBrowsing.info.myths                 "Oftaj mitoj pri privata retumo">
