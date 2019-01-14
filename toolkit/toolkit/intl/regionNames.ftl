@@ -30,6 +30,7 @@ region-name-bg = Bulgaria
 region-name-bh = Bahrain
 region-name-bi = Burundi
 region-name-bj = Benin
+region-name-bl = Saint Barthélemy
 region-name-bm = Bermuda
 region-name-bn = Brunei
 region-name-bo = Bolivia
