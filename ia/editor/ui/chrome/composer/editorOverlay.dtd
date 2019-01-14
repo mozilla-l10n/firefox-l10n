@@ -1,0 +1,123 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
+
+<!-- File menu items -->
+
+<!-- Edit menu items -->
+<!ENTITY findBarCmd.label "Trovar…">
+
+<!-- Insert menu items -->
+<!ENTITY insertMenu.label "Inserer">
+<!ENTITY insertMenu.accesskey "I">
+<!ENTITY insertLinkCmd2.label "Ligamine…">
+<!ENTITY insertLinkCmd2.accesskey "L">
+<!ENTITY insertImageCmd.label "Imagine…">
+<!ENTITY insertImageCmd.accesskey "I">
+<!ENTITY insertHTMLCmd.label "HTML…">
+<!ENTITY insertHTMLCmd.accesskey "H">
+
+<!-- Used just in context popup. -->
+
+<!-- Font Face SubMenu -->
+<!ENTITY fontfaceMenu.label "Typo de character">
+<!ENTITY fontfaceMenu.accesskey "C">
+<!ENTITY fontTimes.label "Tempores">
+<!ENTITY fontTimes.accesskey "T">
+
+<!-- Font Size SubMenu -->
+ <!-- < is above this key on many keyboards -->
+ <!-- > is above this key on many keyboards -->
+
+<!ENTITY size-largeCmd.label "Grande">
+<!ENTITY size-largeCmd.accesskey "G">
+
+<!-- Font Style SubMenu -->
+<!ENTITY styleBoldCmd.label "Hardite">
+<!ENTITY styleBoldCmd.accesskey "H">
+<!ENTITY styleBoldCmd.key "H">
+<!ENTITY styleItalicCmd.label "Italico">
+<!ENTITY styleItalicCmd.accesskey "I">
+<!ENTITY styleItalicCmd.key "I">
+<!ENTITY styleAcronym.label "Acronymo">
+<!ENTITY styleAcronym.accesskey "r">
+<!ENTITY styleCode.label "Codice">
+<!ENTITY styleCode.accesskey "o">
+
+
+
+<!ENTITY paragraphMenu.label "Paragrapho">
+<!ENTITY paragraphMenu.accesskey "P">
+<!ENTITY paragraphParagraphCmd.label "Paragrapho">
+<!ENTITY paragraphParagraphCmd.accesskey "P">
+<!ENTITY heading1Cmd.label "Titulo 1">
+<!ENTITY heading1Cmd.accesskey "1">
+<!ENTITY heading2Cmd.label "Titulo 2">
+<!ENTITY heading2Cmd.accesskey "2">
+<!ENTITY heading3Cmd.label "Titulo 3">
+<!ENTITY heading3Cmd.accesskey "3">
+<!ENTITY heading4Cmd.label "Titulo 4">
+<!ENTITY heading4Cmd.accesskey "4">
+<!ENTITY heading5Cmd.label "Titulo 5">
+<!ENTITY heading5Cmd.accesskey "5">
+<!ENTITY heading6Cmd.label "Titulo 6">
+<!ENTITY heading6Cmd.accesskey "6">
+<!ENTITY paragraphAddressCmd.label "Adresse">
+<!ENTITY paragraphAddressCmd.accesskey "A">
+
+<!-- List menu items -->
+<!ENTITY formatlistMenu.label "Lista">
+<!ENTITY formatlistMenu.accesskey "L">
+<!ENTITY noneCmd.label "Nulle">
+<!ENTITY noneCmd.accesskey "N">
+<!ENTITY listDefinitionCmd.label "Definition">
+<!ENTITY listDefinitionCmd.accesskey "D">
+
+<!-- Shared in Paragraph, and Toolbar menulist -->
+<!-- isn't used in menu now, but may be added in future -->
+<!ENTITY advancedPropertiesCmd.label "Proprietates avantiate">
+<!ENTITY advancedPropertiesCmd.accesskey "v">
+
+<!-- Align menu items -->
+<!ENTITY alignRight.label "Dextera">
+<!ENTITY alignRight.accesskey "D">
+
+<!-- Layer toolbar items -->
+
+
+
+<!-- Table Menu -->
+<!ENTITY tableMenu.label "Tabella">
+<!ENTITY tableMenu.accesskey "b">
+
+<!-- Select Submenu -->
+<!ENTITY tableSelectMenu.label "Seliger">
+<!ENTITY tableSelectMenu.accesskey "S">
+
+
+<!-- Insert SubMenu -->
+<!ENTITY tableInsertMenu.label "Inserer">
+<!ENTITY tableInsertMenu.accesskey "I">
+<!ENTITY tableTable.label "Tabella">
+<!ENTITY tableTable.accesskey "T">
+<!ENTITY tableColumn.label "Columna">
+<!ENTITY tableCell.label "Cella">
+<!ENTITY tableCells.label "Cella(s)">
+<!ENTITY tableCell.accesskey "C">
+<!-- Delete SubMenu -->
+
+<!-- text for "Join Cells" is in editor.properties
+     ("JoinSelectedCells" and "JoinCellToRight")
+     the access key must exist in both of those strings
+     But value must be set here for accesskey to draw properly
+-->
+
+<!-- Toolbar-only items -->
+
+<!-- Editor toolbar -->
+
+<!-- Structure Toolbar Context Menu items -->
+
+<!-- TOC manipulation -->
