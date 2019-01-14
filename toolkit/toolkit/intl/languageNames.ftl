@@ -120,6 +120,7 @@ language-name-mai = மைதிலி
 language-name-meh = தென்மேற்கு த்லாக்‌சியாகோ மிக்ஸ்தெக்
 language-name-mg = மலகாசி
 language-name-mh = மார்ஷெல்லேசி
+language-name-mi = மாவோரி
 language-name-mix = மிக்ஸ்தெபெக் மிக்ஸ்தெக்
 language-name-mk = மாசிடோனியன்
 language-name-ml = மலையாளம்
