@@ -139,6 +139,7 @@ language-name-nn = నార్వేజియన్ నైనోర్‌స్
 language-name-no = నార్వేజియన్
 language-name-nr = దక్షిణ దెబెలె
 language-name-nso = ఉత్తర దెబెలె
+language-name-nv = నవాజో
 language-name-ny = చిచెవా
 language-name-oc = ఆకిటన్
 language-name-oj = ఒజిబ్వా
