@@ -30,7 +30,15 @@
 
 <!ENTITY trackingProtection.title                        "Protección de rastreo">
 <!ENTITY trackingProtection.description2                 "Algunos sitios web usan rastreadores que pueden monitorear la actividad en internet. Con la protección de rastreo Firefox bloqueará muchos rastreadores que pueden recolectar información sobre el comportamiento de navegación.">
+
 <!ENTITY trackingProtection.startTour1                   "Ver como funciona">
 
 <!ENTITY contentBlocking.title                           "Bloqueo de contenido">
 <!ENTITY contentBlocking.description                     "Algunos sitios web usan rastreadores que pueden monitorear su actividad a través de Internet. En las ventanas privadas de Firefox el Bloqueo de contenido automáticamente bloquea muchos rastreadores que pueden recolectar información acerca de su navegación.">
+
+<!-- Strings for new Private Browsing with Search -->
+<!ENTITY aboutPrivateBrowsing.info.title                 "Está en una ventana privada">
+<!ENTITY aboutPrivateBrowsing.info.description           "&brandShortName; elimina su búsqueda y el historial de navegación cuando sale de la aplicación o cierra todas las pestañas y ventanas de navegación privada. Si bien esto no lo convierte en anónimo en los sitios web o en su proveedor de servicios de Internet, hace que sea más fácil mantener en privado lo que hace en línea cualquier otra persona que use esta computadora.">
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article
+                       about private browsing myths.   -->
+<!ENTITY aboutPrivateBrowsing.info.myths                 "Mitos comunes sobre la navegación privada">
