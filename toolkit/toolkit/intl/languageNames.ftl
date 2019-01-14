@@ -195,4 +195,5 @@ language-name-xh = 科萨语
 language-name-yi = 依地语
 language-name-yo = 约鲁巴语
 language-name-za = 壮语
+language-name-zh = 中文
 language-name-zu = 祖鲁语

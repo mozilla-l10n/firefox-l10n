@@ -100,6 +100,7 @@ region-name-gt = 危地马拉
 region-name-gu = 关岛
 region-name-gw = 几内亚比绍
 region-name-gy = 圭亚那
+region-name-hk = 中国香港
 region-name-hm = 赫德岛和麦克唐纳岛
 region-name-hn = 洪都拉斯
 region-name-hr = 克罗地亚
