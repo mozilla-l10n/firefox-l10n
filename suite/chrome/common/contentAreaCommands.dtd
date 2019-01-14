@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Context Menu -->
-<!ENTITY popupWindowRejectCmd.label     "ამ საიტიდან ფირნიშების აკრძალვა">
+<!ENTITY popupWindowRejectCmd.label     "ამ საიტიდან ამომხტომი ფანჯრების აკრძალვა">
 <!ENTITY popupWindowRejectCmd.accesskey "ა">
-<!ENTITY popupWindowAllowCmd.label      "ამ საიტიდან ფირნიშების დაშვება">
+<!ENTITY popupWindowAllowCmd.label      "ამ საიტიდან ამომხტომი ფანჯრების დაშვება">
 <!ENTITY popupWindowAllowCmd.accesskey  "დ">
 <!ENTITY openLinkCmdInTab.label       "ბმის ახალ დაფაზე გახსნა">
 <!ENTITY openLinkCmdInTab.accesskey   "გ">

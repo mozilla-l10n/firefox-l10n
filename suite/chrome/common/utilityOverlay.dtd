@@ -149,9 +149,9 @@
 
 <!-- Popup Blocked notification menu -->
 <!ENTITY allowPopups.accesskey        "p">
-<!ENTITY showPopupManager.label       "ფირნიშების მართვა">
+<!ENTITY showPopupManager.label       "ამომხტომი ფანჯრების მართვა">
 <!ENTITY showPopupManager.accesskey   "მ">
-<!ENTITY dontShowMessage.label        "ამ შეტყობინების დამალვა თუ ფირნიშები დაბლოკილია">
+<!ENTITY dontShowMessage.label        "ამ შეტყობინების დამალვა ამომხტომი ფანჯრების შეზღუდვისას">
 <!ENTITY dontShowMessage.accesskey    "დ">
 
 <!ENTITY syncToolbarButton.label "სინქრონიზაცია">

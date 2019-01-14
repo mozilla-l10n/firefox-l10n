@@ -33,7 +33,7 @@
 <!ENTITY privatedata.label "პირადი მონაცემები">
 <!ENTITY cookies.label "ფუნთუშები">
 <!ENTITY images.label "გამოსახულებები">
-<!ENTITY popups.label "ფირნიშები">
+<!ENTITY popups.label "ამომხტომი ფანჯრები">
 <!ENTITY passwords.label "პაროლები">
 <!ENTITY masterpass.label "მთავარი პაროლები">
 <!ENTITY ssltls.label "SSL/TLS">

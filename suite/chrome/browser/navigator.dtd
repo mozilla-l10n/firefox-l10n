@@ -76,7 +76,7 @@
 <!-- Statusbar -->
 <!ENTITY  statusText.label            "მზადაა">
 
-<!ENTITY popupIcon.tooltiptext      "ფირნიშების დაშვება ამ გვერდისთვის">
+<!ENTITY popupIcon.tooltiptext      "ფანჯრების დაშვება ამ გვერდისთვის">
 
 <!ENTITY viewSecurityInfo.label      "უსაფრთხოების მონაცემების ნახვა">
 <!ENTITY viewSecurityInfo.accesskey  "უ">
