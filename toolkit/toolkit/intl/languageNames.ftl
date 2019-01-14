@@ -144,6 +144,7 @@ language-name-sl = სლოვენური
 language-name-sm = სამოა
 language-name-sn = შონა
 language-name-so = სომალური
+language-name-son = სონგაი
 language-name-sq = ალბანური
 language-name-sr = სერბული
 language-name-ss = სისვატი
