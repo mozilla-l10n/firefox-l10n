@@ -135,6 +135,7 @@ language-name-ny = ಚಿಚೆವಾ
 language-name-oc = ಆಕ್ಸಿಟ್ಯಾನ್
 language-name-oj = ಒಜಿಬ್ವಾ
 language-name-om = ಒರೊಮೊ
+language-name-or = ಒಡಿಯಾ
 language-name-os = ಒಸೆಟಿಯನ್
 language-name-pa = ಪಂಜಾಬಿ
 language-name-pi = ಪಾಲಿ
