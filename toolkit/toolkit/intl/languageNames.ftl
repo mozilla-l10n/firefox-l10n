@@ -135,6 +135,7 @@ language-name-ny = Chichewa
 language-name-oc = Ogsatanais
 language-name-oj = Ojibwa
 language-name-om = Oromo
+language-name-or = Odia
 language-name-os = Osàidis
 language-name-pa = Panjabi
 language-name-pi = Pali
