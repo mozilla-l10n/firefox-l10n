@@ -162,6 +162,7 @@ language-name-tig = SeTigre
 language-name-tk = SeTurkmen
 language-name-tl = SeTagalog
 language-name-tlh = SeKlingon
+language-name-tn = Tswana
 language-name-to = SeTonga
 language-name-tr = SeTurkish
 language-name-ts = Setsonga
