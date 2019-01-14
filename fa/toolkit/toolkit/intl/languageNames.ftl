@@ -135,6 +135,7 @@ language-name-ny = نیانجایی
 language-name-oc = فرانسوی
 language-name-oj = اوجیبوایی
 language-name-om = اورومو
+language-name-or = Odia
 language-name-os = آسی
 language-name-pa = پنجابی
 language-name-pi = پالی
