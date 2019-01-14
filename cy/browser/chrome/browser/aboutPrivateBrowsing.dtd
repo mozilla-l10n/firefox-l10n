@@ -30,7 +30,15 @@
 
 <!ENTITY trackingProtection.title                        "Diogelwch Rhag Tracio">
 <!ENTITY trackingProtection.description2                 "Mae rhai gwefannau defnyddio tracwyr sy'n gallu dilyn eich gweithgaredd ar draws y Rhyngrwyd. Gyda diogelu rhag tracio bydd Firefox yn rhwystro nifer o'r tracwyr sy'n gallu casglu gwybodaeth am eich ymddygiad pori.">
+
 <!ENTITY trackingProtection.startTour1                   "Gweld sut mae hyn yn gweithio">
 
 <!ENTITY contentBlocking.title                           "Rhwystro Cynnwys">
 <!ENTITY contentBlocking.description                     "Mae rhai gwefannau yn defnyddio tracwyr sy'n monitro eich gweithgaredd ar draws y rhyngrwyd. Mewn ffenestri preifat mae Rhwystro Cynnwys gan Firefox yn rhwystro'n awtomatig unrhyw dracwyr sy'n gallu casglu gwybodaeth am eich ymddygiad pori.">
+
+<!-- Strings for new Private Browsing with Search -->
+<!ENTITY aboutPrivateBrowsing.info.title                 "Rydych mewn Ffenestr Preifat">
+<!ENTITY aboutPrivateBrowsing.info.description           "Mae &brandShortName; yn clirio eich haned chwilio a phori pan fyddwch yn cau'r ap neu'n cau pob tab a ffenestr Pori Preifat. Er nad yw hyn yn eich gwneud yn ddienw i wefannau neu i'ch darparwr gwasanaeth rhyngrwyd, mae'n ei gwneud yn haws i chi gadw'r hyn rydych chi'n ei wneud ar-lein yn breifat rhah unrhyw un arall sy'n defnyddio'r cyfrifiadur hwn.">
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article
+                       about private browsing myths.   -->
+<!ENTITY aboutPrivateBrowsing.info.myths                 "Mythau cyffredin am bori preifat">
