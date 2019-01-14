@@ -30,7 +30,13 @@
 
 <!ENTITY trackingProtection.title                        "Protecziun cunter il fastizar:">
 <!ENTITY trackingProtection.description2                 "Intginas websites utiliseschan sistems da fastizar che pon suandar tias activitads en l'internet. Cun la protecziun cunter il fastizar blochescha Firefox blers fastizaders che rimnan infurmaziuns davart tia navigaziun en l'internet.">
+
 <!ENTITY trackingProtection.startTour1                   "Mussar co che quai funcziunescha">
 
 <!ENTITY contentBlocking.title                           "Bloccada da cuntegn">
 <!ENTITY contentBlocking.description                     "Tschertas websites utiliseschan fastizaders che pon survegliar tias activitads en l'internet. En fanestras privatas blochescha la bloccada da cuntegn da Firefox automaticamain blers fastizaders che pon rimnar infurmaziuns davart tia navigaziun en l'internet.">
+
+<!-- Strings for new Private Browsing with Search -->
+<!ENTITY aboutPrivateBrowsing.info.title                 "Ti ta chattas en ina fanestra privata">
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article
+                       about private browsing myths.   -->
