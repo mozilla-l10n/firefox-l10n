@@ -14,6 +14,7 @@ language-name-az = อาเซอร์ไบจาน
 language-name-ba = บัชคีร์
 language-name-bg = บัลแกเรีย
 language-name-bi = บิสลามา
+language-name-bm = บัมบารา
 language-name-bo = ทิเบต
 language-name-br = เบรตัน
 language-name-bs = บอสเนีย
