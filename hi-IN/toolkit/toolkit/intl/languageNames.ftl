@@ -135,6 +135,7 @@ language-name-ny = चिचेवा
 language-name-oc = ओक्कीतान
 language-name-oj = ओजिवा
 language-name-om = ओरोमो
+language-name-or = ओड़िया
 language-name-os = ओस्सेटियन
 language-name-pa = पंजाबी
 language-name-pi = पाली
