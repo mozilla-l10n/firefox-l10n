@@ -174,6 +174,7 @@ main-thread-no-omtc = nimaläj b'akoj, majun OMTC
 yes = Ja'
 no = Manäq
 unknown = Man etaman ta ruwäch
+virtual-monitor-disp = Ruwa Tzuwäch Kemtzijil
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
@@ -181,6 +182,8 @@ unknown = Man etaman ta ruwäch
 
 found = Xrïl
 missing = Sachon
+gpu-process-pid = GPUProcessPid
+gpu-process = GPUProcess
 gpu-description = Tzijoxkil
 gpu-vendor-id = ID k'ayinel
 gpu-device-id = ID okisaxel
@@ -213,11 +216,14 @@ d3d9video-crash-buard = D3D9 Silowachib'äl Ewanel rusik'ixik
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = K'a xtitzolïx na ri Rutikirisaxik chik
 gpu-process-kill-button = Tik'isb'ëx ri GPU Tajin
+gpu-device-reset = Titzij chik Okisaxel
 gpu-device-reset-button = Rutikirisaxik chik ri Rokisaxel Chuq'ub'äl
 uses-tiling = Tokisäx Ch'utiwäch
 content-uses-tiling = Tokisäx Ch'utiwäch (Rupam)
 off-main-thread-paint-enabled = Off Nïm Rub'ey Rachwinäq Tzijon
 off-main-thread-paint-worker-count = Off Main Thread Painting Worker Tajiläx
+low-end-machine = Xilitäj jun ko'öl rub'eyal nisamäj samajib'äl
+target-frame-rate = Retal Ruchi' Rub'ey:
 audio-backend = Q'ojom Backend
 max-audio-channels = Nima'q taq b'ey
 channel-layout = Ruwachib'enik Ajowan B'ey

@@ -5,8 +5,11 @@
 url-classifier-title = Etamab'äl chi rij ri URL Cha'onel
 url-classifier-search-title = Tikanöx
 url-classifier-search-result-title = Taq q'i'oj
+url-classifier-search-result-uri = URI: { $uri }
+url-classifier-search-result-list = Kicholajem taq kajtz'ik: { $list }
 url-classifier-search-input = JAY
 url-classifier-search-error-invalid-url = Me'okel URL
+url-classifier-search-error-no-features = Majun ichinil cha'on
 url-classifier-search-btn = Titikirisäx ri kanoxïk
 url-classifier-search-features = Taq b'anikil
 url-classifier-search-listType = Rucholajem ruwäch
