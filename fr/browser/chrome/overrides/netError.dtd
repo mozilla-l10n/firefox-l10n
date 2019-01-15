@@ -11,6 +11,7 @@
 <!ENTITY returnToPreviousPage1.label "Retour (recommandé)">
 <!ENTITY advanced.label "Avancé">
 <!ENTITY continue2.label "Plus…">
+<!ENTITY advanced2.label "Avancé…">
 <!ENTITY moreInformation.label "Plus d’informations">
 <!ENTITY viewCertificate.label "Afficher le certificat">
 
