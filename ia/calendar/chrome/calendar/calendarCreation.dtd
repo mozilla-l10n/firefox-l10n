@@ -1,0 +1,25 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+
+
+
+
+<!-- Below are new strings for the revised new calendar dialog. The above strings should be
+    removed/renamed later on -->
+
+
+
+
+<!ENTITY buttons.back.label "Retro">
+<!ENTITY buttons.back.accesskey "R">
+
+<!ENTITY buttons.subscribe.label "Subscriber">
+<!ENTITY buttons.subscribe.accesskey "S">
+
+<!ENTITY calendartype.label "Typo de calendario:">
+<!ENTITY location.label "Adresse:">
+
+
