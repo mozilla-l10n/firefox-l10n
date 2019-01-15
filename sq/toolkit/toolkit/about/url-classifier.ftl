@@ -3,6 +3,16 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 url-classifier-title = Të dhëna Klasifikuesi URL-je
+url-classifier-search-title = Kërkim
+url-classifier-search-result-title = Përfundime
+url-classifier-search-result-uri = URI: { $uri }
+url-classifier-search-result-list = Listë tabëlash: { $list }
+url-classifier-search-input = URL
+url-classifier-search-error-invalid-url = URL e pavlefshme
+url-classifier-search-error-no-features = S’janë përzgjedhur veçori
+url-classifier-search-btn = Filloni të kërkoni
+url-classifier-search-features = Veçori
+url-classifier-search-listType = Lloj liste
 url-classifier-provider-title = Furnizues
 url-classifier-provider = Furnizues
 url-classifier-provider-last-update-time = Koha e përditësimit të fundit
