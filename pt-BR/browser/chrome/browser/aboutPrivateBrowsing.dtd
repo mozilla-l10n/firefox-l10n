@@ -35,3 +35,9 @@
 
 <!ENTITY contentBlocking.title                           "Bloqueio de conteúdo">
 <!ENTITY contentBlocking.description                     "Alguns sites usam rastreadores que podem monitorar sua atividade pela Internet. Nas janelas privativas, o bloqueio de conteúdo do Firefox bloqueia automaticamente muitos rastreadores que podem coletar informação sobre seu comportamento de navegação.">
+
+<!-- Strings for new Private Browsing with Search -->
+<!ENTITY aboutPrivateBrowsing.info.title                 "Você está em uma janela privativa">
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article
+                       about private browsing myths.   -->
+<!ENTITY aboutPrivateBrowsing.info.myths                 "Mitos comuns sobre a navegação privativa">
