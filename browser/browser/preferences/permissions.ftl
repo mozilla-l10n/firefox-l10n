@@ -68,7 +68,7 @@ permissions-exceptions-content-blocking-desc = 您在这些网站上已禁用内
 permissions-exceptions-cookie-window =
     .title = 例外 - Cookie 和网站数据
     .style = { permissions-window.style }
-permissions-exceptions-cookie-desc = 您可以指定始终允许或不允许哪些网站使用 Cookie 和网站数据。请输入所要指定的完整网址，选择“阻止”、“在这次浏览期间允许”或“允许”。
+permissions-exceptions-cookie-desc = 您可以指定始终允许或不允许哪些网站使用 Cookie 和网站数据。请输入所要指定的完整网址，然后点击“阻止”、“在这次浏览期间允许”或“允许”。
 
 ## Exceptions - Pop-ups
 
@@ -96,7 +96,7 @@ permissions-exceptions-addons-desc = 您可以指定哪些网站可以安装附�
 permissions-exceptions-autoplay-media-window2 =
     .title = 例外 - 自动播放
     .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc2 = 您可以指定允许与不允许哪些网站自动播放有声媒体内容。输入网站地址，然后单击“阻止”或者“允许”。
+permissions-exceptions-autoplay-media-desc2 = 您可以指定允许与不允许哪些网站自动播放有声媒体内容。请输入所要指定的完整网址，然后点击“阻止”或者“允许”。
 
 ## Site Permissions - Notifications
 
