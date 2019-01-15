@@ -3,6 +3,16 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 url-classifier-title = Infurmaziuns davart la classificaziun dad URLs
+url-classifier-search-title = Tschertga
+url-classifier-search-result-title = Resultats
+url-classifier-search-result-uri = URI: { $uri }
+url-classifier-search-result-list = Glista da tabellas: { $list }
+url-classifier-search-input = URL
+url-classifier-search-error-invalid-url = URL nunvalid
+url-classifier-search-error-no-features = Nagina funcziunalitad tschernida
+url-classifier-search-btn = Cumenzar a tschertgar
+url-classifier-search-features = Funcziunalitads
+url-classifier-search-listType = Tip da glista
 url-classifier-provider-title = Purschider
 url-classifier-provider = Purschider
 url-classifier-provider-last-update-time = Ultima actualisaziun

@@ -75,6 +75,6 @@ containers-icon-fruit =
 containers-icon-pet =
     .label = Animal da chasa
 containers-icon-tree =
-    .label = Planta
+    .label = Arber
 containers-icon-chill =
     .label = Relaxar
