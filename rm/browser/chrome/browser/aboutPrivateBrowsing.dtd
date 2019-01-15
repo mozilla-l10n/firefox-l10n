@@ -38,5 +38,7 @@
 
 <!-- Strings for new Private Browsing with Search -->
 <!ENTITY aboutPrivateBrowsing.info.title                 "Ti ta chattas en ina fanestra privata">
+<!ENTITY aboutPrivateBrowsing.info.description           "&brandShortName; stizza tia cronologia da tschertga e navigaziun cura che ti termineschas l'applicaziun u serras tut las fanestras e tut ils tabs privats. Cumbain che quai na ta renda betg anonim visavi websites u tes purschider dad internet, èsi in instrument util per impedir che autras persunas che utiliseschan quest computer vegnian ad infurmaziuns davart tias activitads online.">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article
                        about private browsing myths.   -->
+<!ENTITY aboutPrivateBrowsing.info.myths                 "Mitus frequents areguard il modus privat">
