@@ -30,7 +30,13 @@
 
 <!ENTITY trackingProtection.title                        "İzlenme Koruması">
 <!ENTITY trackingProtection.description2                 "Bazı web siteleri, siteler arasında gezinirken etkinliğinizi izleyebilecek takipçiler kullanır. Firefox’un İzlenme Koruması,  gezinme davranışlarınız hakkında bilgi toplayabilecek takipçilerin çoğunu engeller.">
+
 <!ENTITY trackingProtection.startTour1                   "Nasıl çalıştığını görün">
 
 <!ENTITY contentBlocking.title                           "İçerik engelleme">
 <!ENTITY contentBlocking.description                     "Bazı web siteleri, siteler arasında gezindiğinizde sizi izleyebilecek takipçiler kullanır. Gizli penceredeyken Firefox’un içerik engelleme özelliği, gezintinizle ilgili bilgi toplayarak takipçilerin çoğunu otomatik olarak engeller.">
+
+<!-- Strings for new Private Browsing with Search -->
+<!ENTITY aboutPrivateBrowsing.info.title                 "Gizli penceredesiniz">
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article
+                       about private browsing myths.   -->

@@ -3,6 +3,16 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 url-classifier-title = URL sınıflandırıcısı bilgileri
+url-classifier-search-title = Arama
+url-classifier-search-result-title = Sonuçlar
+url-classifier-search-result-uri = URI: { $uri }
+url-classifier-search-result-list = Tablo listesi: { $list }
+url-classifier-search-input = URL
+url-classifier-search-error-invalid-url = Geçersiz URL
+url-classifier-search-error-no-features = Hiçbir özellik seçilmedi
+url-classifier-search-btn = Aramaya başla
+url-classifier-search-features = Özellikler
+url-classifier-search-listType = Liste türü
 url-classifier-provider-title = Sağlayıcı
 url-classifier-provider = Sağlayıcı
 url-classifier-provider-last-update-time = Son güncelleme saati
