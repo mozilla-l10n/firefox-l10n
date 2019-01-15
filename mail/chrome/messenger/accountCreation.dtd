@@ -19,6 +19,13 @@
 <!ENTITY rememberPassword.label          "Hesło składować">
 <!ENTITY rememberPassword.accesskey      "s">
 
+<!ENTITY usernameEx.label                "Waše přizjewjenje:">
+<!ENTITY usernameEx.accesskey            "z">
+<!-- LOCALIZATION NOTE(usernameEx.placeholder): YOURDOMAIN refers to the Windows domain in ActiveDirectory. yourusername refers to the user's account name in Windows. -->
+<!ENTITY usernameEx.placeholder          "YOURDOMAIN\yourusername">
+<!-- LOCALIZATION NOTE(usernameEx.text): Domain refers to the Windows domain in ActiveDirectory. We mean the user's login in Windows at the local corporate network. -->
+<!ENTITY usernameEx.text                 "Domenowe přizjewjenje">
+
 <!ENTITY imapLong.label                  "IMAP (zdalene rjadowaki)">
 <!ENTITY pop3Long.label                  "POP3 (wašu e-mejl na wašim ličaku wostajić)">
 
