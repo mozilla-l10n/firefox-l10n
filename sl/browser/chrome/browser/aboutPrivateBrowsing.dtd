@@ -38,5 +38,7 @@
 
 <!-- Strings for new Private Browsing with Search -->
 <!ENTITY aboutPrivateBrowsing.info.title                 "Ste v zasebnem oknu">
+<!ENTITY aboutPrivateBrowsing.info.description           "&brandShortName; izbriše zgodovino iskanja in brskanja, ko zaprete aplikacijo ali zaprete vse zavihke in okna zasebnega brskanja. Čeprav to ne pomeni, da ste za spletna mesta ali ponudnike internetnih storitev anonimni, vam omogoča lažje ohranjanje zasebnosti na spletu pred ostalimi uporabniki tega računalnika.">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article
                        about private browsing myths.   -->
+<!ENTITY aboutPrivateBrowsing.info.myths                 "Pogoste zmote o zasebnem brskanju">
