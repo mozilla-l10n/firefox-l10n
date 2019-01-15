@@ -5,7 +5,13 @@
 url-classifier-title = URL 分类器信息
 url-classifier-search-title = 搜索
 url-classifier-search-result-title = 结果
+url-classifier-search-result-uri = URI: { $uri }
+url-classifier-search-result-list = 表格列表: { $list }
+url-classifier-search-input = URL
+url-classifier-search-error-invalid-url = 无效 URL
+url-classifier-search-error-no-features = 未选择功能
 url-classifier-search-btn = 开始搜索
+url-classifier-search-features = 功能
 url-classifier-search-listType = 列表类型
 url-classifier-provider-title = 供应商
 url-classifier-provider = 供应商
