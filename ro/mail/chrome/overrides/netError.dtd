@@ -36,10 +36,10 @@
 <!ENTITY malformedURI.title "Adresa nu este validă">
 <!ENTITY malformedURI.longDesc "
 <ul>
-  <li>Adresele web se scriu de obicei:
-    <strong>http://www.exemplu.com/</strong></li>
-  <li>Asigură-te că folosești bare înclinate la dreapta (de ex.
-    <strong>/</strong>).</li>
+  <li>Adresele web se scriu de obicei sub forma 
+    <strong>http://www.example.com/</strong></li>
+  <li>Asigură-te că folosești slash-uri orientate spre dreapta 
+    (de ex., <strong>/</strong>).</li>
 </ul>
 ">
 
@@ -65,7 +65,10 @@
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
 <!ENTITY unknownProtocolFound.title "Adresa nu a fost înțeleasă">
-<!ENTITY unknownProtocolFound.longDesc "<ul> <li>S-ar putea să fie nevoie să instalezi alt program pentru a deschide această adresă.</li> </ul>">
+<!ENTITY unknownProtocolFound.longDesc "
+<ul>
+  <li>S-ar putea să fie necesară instalarea altui program pentru a deschide această adresă.</li>
+</ul>">
 
 <!ENTITY proxyConnectFailure.title "Serverul proxy refuză conexiuni">
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>Verifică setările proxy pentru a te asigura că sunt corecte.</li> <li>Contactează administratorul rețelei pentru a te asigura că serverul proxy funcționează.</li> </ul>">
@@ -74,7 +77,11 @@
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>Verifică setările proxy pentru a te asigura că sunt corecte.</li> <li>Asigură-te că calculatorul are o conexiune funcțională la rețea.</li> <li>Dacă calculatorul sau rețeaua este protejat(ă) de un firewall sau proxy, asigură-te că &brandShortName; are permisiunea de a accesa webul.</li> </ul>">
 
 <!ENTITY redirectLoop.title "Pagina nu redirecționează corect">
-<!ENTITY redirectLoop.longDesc "<ul> <li>Problema poate apărea dacă dezactivezi sau refuzi să accepți cookie-uri.</li> </ul>">
+<!ENTITY redirectLoop.longDesc "
+<ul>
+  <li>Această problemă poate fi uneori cauzată de dezactivarea sau refuzarea
+    acceptării de cookie-uri.</li>
+</ul>">
 
 <!ENTITY unknownSocketType.title "Răspuns neașteptat de la server">
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Verifică ca sistemul tău să aibă instalat Personal Security Manager.</li> <li>Aceasta se poate întâmpla și datorită unei configurații nestandard a serverului.</li> </ul>">
@@ -91,7 +98,15 @@ ar putea să fie cineva care încearcă să uzurpeze identitatea serverului.</li
 temporară și poți încerca din nou mai târziu.</li>
 </ul>">
 
-<!ENTITY sharedLongDesc "<ul> <li>Site-ul ar putea fi indisponibil temporar sau prea ocupat. Încearcă din nou în câteva momente.</li> <li>Dacă nu poți să încarci nicio pagină, verifică conexiunea la rețea a calculatorului.</li> <li>Dacă calculatorul sau rețeaua este protejat(ă) de un firewall sau proxy, asigură-te că &brandShortName; are permisiunea de a accesa webul.</li> </ul>">
+<!ENTITY sharedLongDesc "
+<ul>
+  <li>Site-ul ar putea fi indisponibil temporar sau prea ocupat. Încearcă din nou
+    în câteva momente.</li>
+  <li>Dacă nu poți să încarci nicio pagină, verifică conexiunea la rețea a 
+    calculatorului.</li>
+  <li>Dacă calculatorul sau rețeaua este protejat(ă) de un firewall sau proxy,
+    asigură-te că &brandShortName; are permisiunea de a accesa webul.</li>
+</ul>">
 
 <!ENTITY cspBlocked.title "Blocat de politica de securitate asupra conținutului">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; a împiedicat această pagină să se încarce în acest mod deoarece pagina are o politică de securitate asupra conținutului ce nu permite asta.</p>">
