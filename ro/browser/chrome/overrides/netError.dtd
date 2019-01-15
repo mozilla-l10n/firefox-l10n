@@ -42,7 +42,7 @@
 
 <!ENTITY generic.title "Ups.">
 <!ENTITY generic.longDesc "
-<p>&brandShortName; nu poate încărca pagina din motive necunoscute.</p>
+<p>&brandShortName; nu poate încărca această pagină dintr-un motiv oarecare.</p>
 ">
 
 <!ENTITY captivePortal.title "Autentifică-te în rețea">
@@ -80,7 +80,10 @@
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
 <!ENTITY unknownProtocolFound.title "Adresa nu a fost înțeleasă">
-<!ENTITY unknownProtocolFound.longDesc "<ul> <li>S-ar putea să fie necesară instalarea altui program pentru a deschide adresa.</li> </ul>">
+<!ENTITY unknownProtocolFound.longDesc "
+<ul>
+  <li>S-ar putea să fie necesară instalarea altui program pentru a deschide această adresă.</li>
+</ul>">
 
 <!ENTITY proxyConnectFailure.title "Serverul proxy refuză conexiuni">
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>Verifică setările proxy pentru a te asigura că sunt corecte.</li> <li>Contactează administratorul rețelei pentru a te asigura că serverul proxy funcționează.</li> </ul>">
@@ -89,7 +92,11 @@
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>Verifică setările proxy pentru a te asigura că sunt corecte.</li> <li>Asigură-te că calculatorul are o conexiune funcțională la rețea.</li> <li>Dacă calculatorul sau rețeaua este protejat(ă) de un firewall sau proxy, asigură-te că &brandShortName; are permisiunea de a accesa webul.</li> </ul>">
 
 <!ENTITY redirectLoop.title "Pagina nu redirecționează corect">
-<!ENTITY redirectLoop.longDesc "<ul> <li>Problema poate apărea dacă dezactivați sau refuzați să acceptați cookie-uri.</li> </ul>">
+<!ENTITY redirectLoop.longDesc "
+<ul>
+  <li>Această problemă poate fi uneori cauzată de dezactivarea sau refuzarea
+    acceptării de cookie-uri.</li>
+</ul>">
 
 <!ENTITY unknownSocketType.title "Răspuns neașteptat de la server">
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Verifică dacă sistemul are instalat Managerul personal de securitate.</li> <li>Se poate întâmpla și din cauza unei configurații atipice pe server.</li> </ul>
