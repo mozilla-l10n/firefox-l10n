@@ -37,7 +37,7 @@ site-data-remove-all =
     .label = Remover tudo
     .accesskey = e
 site-data-remove-shown =
-    .label = Remover tudo mostrado
+    .label = Remover todos os mostrados
     .accesskey = e
 
 ## Removing
