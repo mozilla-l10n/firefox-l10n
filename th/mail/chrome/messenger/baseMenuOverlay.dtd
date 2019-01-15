@@ -1,0 +1,22 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- Help Menu -->
+<!ENTITY helpMenu.label "ช่วยเหลือ">
+<!ENTITY helpMenu.accesskey "ช">
+<!-- LOCALIZATION NOTE some localizations of Windows use "?"
+                       for the help button in the menubar but Gnome does not.   -->
+<!ENTITY helpMenuWin.label "ช่วยเหลือ">
+<!ENTITY helpMenuWin.accesskey "ช">
+<!ENTITY helpTroubleshootingInfo.label     "ข้อมูลการแก้ไขปัญหา">
+<!ENTITY helpTroubleshootingInfo.accesskey "ข">
+<!ENTITY helpSafeMode.label     "เริ่มการทำงานใหม่พร้อมปิดใช้งานส่วนเสริม…">
+<!ENTITY helpSafeMode.accesskey "ร">
+<!ENTITY releaseCmd2.label "บันทึกประจำรุ่น">
+<!ENTITY releaseCmd2.accesskey "บ">
+<!ENTITY whatsNewCmd.label "มีอะไรใหม่">
+<!ENTITY whatsNewCmd.accesskey "ม">
+<!ENTITY openHelp.commandkey "VK_F1">
+<!ENTITY openHelpMac2.commandkey   "?">
+
