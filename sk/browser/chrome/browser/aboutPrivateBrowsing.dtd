@@ -30,7 +30,15 @@
 
 <!ENTITY trackingProtection.title                        "Ochrana pred sledovaním">
 <!ENTITY trackingProtection.description2                 "Niektoré webové stránky používajú sledovacie prvky, ktoré monitorujú vašu aktivitu na internete. S Ochranou pred sledovaním Firefox zablokuje veľké množstvo týchto sledovacích prvkov.">
+
 <!ENTITY trackingProtection.startTour1                   "Pozrite sa ako to funguje">
 
 <!ENTITY contentBlocking.title                           "Blokovanie obsahu">
 <!ENTITY contentBlocking.description                     "Niektoré webové stránky používajú sledovacie prvky, ktoré sledujú vašu aktivitu na internete. Blokovanie obsahu vo Firefoxe automaticky blokuje veľké množstvo týchto sledovacích prvkov, ktoré môžu zbierať informácie o vašom prehliadaní.">
+
+<!-- Strings for new Private Browsing with Search -->
+<!ENTITY aboutPrivateBrowsing.info.title                 "Ste v súkromnom okne">
+<!ENTITY aboutPrivateBrowsing.info.description           "&brandShortName; vymaže históriu vyhľadávania a navštívených stránok po zavretí aplikácie alebo všetkých súkromných kariet a okien. S touto funkciou nie ste na internete neviditeľní a napríklad váš poskytovateľ pripojenia na internet môže stále zistiť, aké stránky navštevujete. Vaša aktivita na internete ale zostane utajená pred ďalšími používateľmi na tomto počítači.">
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article
+                       about private browsing myths.   -->
+<!ENTITY aboutPrivateBrowsing.info.myths                 "Časté omyly o súkromnom prehliadaní">
