@@ -38,6 +38,7 @@
 
 <!-- Strings for new Private Browsing with Search -->
 <!ENTITY aboutPrivateBrowsing.info.title                 "Você está em uma janela privativa">
+<!ENTITY aboutPrivateBrowsing.info.description           "O &brandShortName; limpa seu histórico de pesquisa e navegação quando você sai do aplicativo ou fecha todas as abas e janelas de navegação privativa. Apesar disto não tornar você anônimo para sites e para seu provedor de serviços de internet, facilita manter o que você faz online privativo para outras pessoas que usam este computador.">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article
                        about private browsing myths.   -->
 <!ENTITY aboutPrivateBrowsing.info.myths                 "Mitos comuns sobre a navegação privativa">

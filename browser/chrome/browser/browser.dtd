@@ -876,7 +876,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.moreInfoLinkText2 "Mais informações">
 
-<!ENTITY identity.clearSiteData "Limpar cookies e dados de sites…">
+<!ENTITY identity.clearSiteData "Limpar os cookies e dados do site…">
 
 <!ENTITY identity.permissions "Permissões">
 <!ENTITY identity.permissionsEmpty "Você não concedeu permissões especiais a este site.">

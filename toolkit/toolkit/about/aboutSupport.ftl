@@ -226,6 +226,7 @@ content-uses-tiling = Usa mosaicos (conteúdo)
 off-main-thread-paint-enabled = Ativado o desenho fora do processo principal
 off-main-thread-paint-worker-count = Contagem de desenho fora do tópico principal
 low-end-machine = Detectada máquina com desempenho inferior
+target-frame-rate = Alvo de taxa de atualização
 audio-backend = Infraestrutura de Áudio
 max-audio-channels = Máximo de Canais
 channel-layout = Formato de Canal Preferido
