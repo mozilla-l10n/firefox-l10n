@@ -4,12 +4,15 @@
 
 
 
+<!ENTITY locationpage.username.label      "Nomine del usator:" >
+<!ENTITY locationpage.password.label      "Contrasigno:" >
 
 
 
 <!-- Below are new strings for the revised new calendar dialog. The above strings should be
     removed/renamed later on -->
 
+<!ENTITY sourcetabs.other.label  "Altero">
 
 
 

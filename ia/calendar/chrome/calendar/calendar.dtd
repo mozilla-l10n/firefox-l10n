@@ -14,6 +14,12 @@
 <!ENTITY calendar.today.button.label          "Hodie">
 <!ENTITY calendar.tomorrow.button.label       "Deman">
 
+<!ENTITY calendar.events.filter.all.label "Tote le eventos">
+<!ENTITY calendar.events.filter.today.label "Eventos de hodie">
+<!ENTITY calendar.events.filter.future.label "Tote le futur eventos">
+<!ENTITY calendar.events.filter.current.label "Die seligite">
+<!ENTITY calendar.events.filter.currentview.label "Eventos in le vista actual">
+<!ENTITY calendar.events.filter.next7Days.label "Eventos in le proxime 7 dies">
 
 <!-- LOCALIZATION NOTE(calendar.unifinder.tree.done.tooltip)
    - This label and tooltip is used for the column with the checkbox in the
