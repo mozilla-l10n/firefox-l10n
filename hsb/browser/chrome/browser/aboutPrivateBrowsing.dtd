@@ -30,7 +30,15 @@
 
 <!ENTITY trackingProtection.title                        "Slědowanski škit">
 <!ENTITY trackingProtection.description2                 "Někotre websydła wužiwaja slědowanske programy, kotrež wašu aktiwitu w interneće dohladuja. Ze slědowanskim škitom Firefox budźe wjele slědowanskich programow blokować, kotrež móža daty wo wašim přehladowanskim zadźerženju nahromadźić.">
+
 <!ENTITY trackingProtection.startTour1                   "Wobhladajće sej, kak to funguje">
 
 <!ENTITY contentBlocking.title                           "Blokowanje wobsaha">
 <!ENTITY contentBlocking.description                     "Někotre websydła wužiwaja přescěhowaki, kotrež wašu aktiwitu přez internet wobkedźbuja. W priwatnych woknach blokowanje wobsaha Firefox awtomatisce wjele přesćěhowakow blokuje, kotrež móža informacije wo wašim přehladowanskim zadźerženju nahromadźić.">
+
+<!-- Strings for new Private Browsing with Search -->
+<!ENTITY aboutPrivateBrowsing.info.title                 "Sće w priwatnym woknje">
+<!ENTITY aboutPrivateBrowsing.info.description           "&brandShortName; wašu pytansku a přehladowansku historjiu wuprózdni, hdyž nałoženje wopušćiće abo wšě rajtarki a wokna priwatneho modus začiniće. Přez to so wosnadnja, před druhimi, kotřiž tutón ličak wužiwaja, schować, štož online činiće, hačrunjež to was za websydła abo wašeho poskićowarja internetneje słužby njeanonymizuje.">
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article
+                       about private browsing myths.   -->
+<!ENTITY aboutPrivateBrowsing.info.myths                 "Časte myty wo priwatnym modusu">
