@@ -7,6 +7,7 @@
 <!ENTITY accountManager.width                "450">
 <!-- Instant messaging account status window for Thunderbird -->
 <!ENTITY accountsWindow.title                "Stato del messages instantanee">
+<!ENTITY accountsWindow2.style               "width: 41em; height: 27em;">
 
 <!ENTITY accountManager.newAccount.label     "Nove conto">
 <!ENTITY accountManager.newAccount.accesskey "N">
@@ -16,6 +17,9 @@
 <!ENTITY accountManager.close.commandkey     "a">
 <!-- This title must be short, displayed with a big font size -->
 <!ENTITY accountManager.noAccount.title      "Nulle conto ancora configurate">
+<!ENTITY accountManager.noAccount.description "Clicca sur le button &amp;accountManager.newAccount.label; pro lassa &amp;brandShortName; guidar te per le procedura pro configurar un nove conto.">
+<!ENTITY account.autoSignOn.label     "Authentication al initio">
+<!ENTITY account.autoSignOn.accesskey "A">
 <!ENTITY account.connect.label        "Connecter">
 <!ENTITY account.connect.accesskey    "o">
 <!ENTITY account.disconnect.label     "Disconnecter">
@@ -28,6 +32,10 @@
 <!ENTITY account.movedown.label       "Mover in basso">
 <!ENTITY account.cancelReconnection.label         "Cancellar le reconnexion">
 <!ENTITY account.cancelReconnection.accesskey     "A">
+<!ENTITY account.copyDebugLog.label     "Copiar le registro de depuration">
+<!ENTITY account.copyDebugLog.accesskey "C">
+<!ENTITY account.showDebugLog.label     "Monstrar le registro de depuration">
+<!ENTITY account.showDebugLog.accesskey "M">
 <!ENTITY account.connecting           "Connexion…">
 <!ENTITY account.disconnecting        "Disconnexion…">
 <!ENTITY account.disconnected         "Non connexe">
