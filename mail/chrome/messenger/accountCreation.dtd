@@ -19,6 +19,13 @@
 <!ENTITY rememberPassword.label          "Gogoratu pasahitza">
 <!ENTITY rememberPassword.accesskey      "G">
 
+<!ENTITY usernameEx.label                "Zure saio hasiera:">
+<!ENTITY usernameEx.accesskey            "s">
+<!-- LOCALIZATION NOTE(usernameEx.placeholder): YOURDOMAIN refers to the Windows domain in ActiveDirectory. yourusername refers to the user's account name in Windows. -->
+<!ENTITY usernameEx.placeholder          "ZUREDOMEINUA\zureerabiltzailea">
+<!-- LOCALIZATION NOTE(usernameEx.text): Domain refers to the Windows domain in ActiveDirectory. We mean the user's login in Windows at the local corporate network. -->
+<!ENTITY usernameEx.text                 "Saio domeinua">
+
 <!ENTITY imapLong.label                  "IMAP (urruneko karpetak)">
 <!ENTITY pop3Long.label                  "POP3 (mantendu posta zure ordenagailuan)">
 
