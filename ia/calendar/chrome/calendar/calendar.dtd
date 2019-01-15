@@ -20,6 +20,8 @@
 <!ENTITY calendar.events.filter.current.label "Die seligite">
 <!ENTITY calendar.events.filter.currentview.label "Eventos in le vista actual">
 <!ENTITY calendar.events.filter.next7Days.label "Eventos in le proxime 7 dies">
+<!ENTITY calendar.events.filter.next14Days.label "Eventos in le proxime 14 dies">
+<!ENTITY calendar.events.filter.next31Days.label "Eventos in le proxime 31 dies">
 
 <!-- LOCALIZATION NOTE(calendar.unifinder.tree.done.tooltip)
    - This label and tooltip is used for the column with the checkbox in the
@@ -43,8 +45,11 @@
 <!ENTITY calendar.unifinder.tree.status.label              "Stato">
 <!ENTITY calendar.unifinder.tree.status.tooltip2           "Ordinar per stato">
 
+<!ENTITY calendar.today.button.tooltip          "Ir a hodie" >
 
 
+<!ENTITY calendar.nextday.label                 "Die successive" >
+<!ENTITY calendar.prevday.label                 "Die previe" >
 
 
 <!ENTITY calendar.print.button.label            "Imprimer" >
