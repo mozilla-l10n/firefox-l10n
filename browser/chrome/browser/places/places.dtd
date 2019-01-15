@@ -100,11 +100,11 @@
 <!ENTITY view.accesskey           "b">
 <!ENTITY byDate.label             "Por data">
 <!ENTITY byDate.accesskey         "d">
-<!ENTITY bySite.label             "Pelo site">
+<!ENTITY bySite.label             "Por site">
 <!ENTITY bySite.accesskey         "P">
-<!ENTITY byMostVisited.label      "Pelo número de visitas">
+<!ENTITY byMostVisited.label      "Por número de visitas">
 <!ENTITY byMostVisited.accesskey  "o">
-<!ENTITY byLastVisited.label      "Pela última visita">
+<!ENTITY byLastVisited.label      "Por último visitado">
 <!ENTITY byLastVisited.accesskey  "e">
 <!ENTITY byDayAndSite.label       "Por data e site">
 <!ENTITY byDayAndSite.accesskey   "a">
