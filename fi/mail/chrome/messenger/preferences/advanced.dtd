@@ -9,7 +9,7 @@
 <!ENTITY itemCertificates.label  "Varmenteet">
 
 <!-- General Settings -->
-<!ENTITY enableGlodaSearch.label       "Ota käyttöön viestien yleishaku ja indeksoija">
+<!ENTITY enableGlodaSearch.label       "Ota käyttöön viestien yleishaku ja indeksointi">
 <!ENTITY enableGlodaSearch.accesskey   "O">
 <!ENTITY dateTimeFormatting.label      "Päiväyksen ja ajan muoto">
 <!ENTITY languageSelector.label        "Kieli">
@@ -29,14 +29,14 @@
 <!ENTITY systemIntegration.label       "Järjestelmään liittäminen">
 <!ENTITY alwaysCheckDefault.label      "Tarkista aina onko &brandShortName; järjestelmän oletussähköpostiohjelma">
 <!ENTITY alwaysCheckDefault.accesskey  "T">
-<!ENTITY searchIntegration.label       "Salli &searchIntegration.engineName;:n etsiä viesteistä">
+<!ENTITY searchIntegration.label       "Salli hakukoneen &searchIntegration.engineName; etsiä viesteistä">
 <!ENTITY searchIntegration.accesskey   "S">
 <!ENTITY checkDefaultsNow.label        "Tarkista heti…">
 <!ENTITY checkDefaultsNow.accesskey    "h">
 <!ENTITY configEditDesc.label          "Kaikkien asetusten muokkaus">
 <!ENTITY configEdit.label              "Asetusten muokkain…">
 <!ENTITY configEdit.accesskey          "A">
-<!ENTITY returnReceiptsInfo.label      "Aseta kuinka &brandShortName; käsittelee vastaanottokuittauksia">
+<!ENTITY returnReceiptsInfo.label      "Määrittele, kuinka &brandShortName; käsittelee vastaanottokuittauksia">
 <!ENTITY showReturnReceipts.label      "Vastaanottokuittaukset…">
 <!ENTITY showReturnReceipts.accesskey  "V">
 
@@ -71,8 +71,6 @@
 <!ENTITY updateAuto.accesskey            "A">
 <!ENTITY updateCheck.label               "Hae päivityksiä, mutta minä päätän asennetaanko ne">
 <!ENTITY updateCheck.accesskey           "H">
-<!ENTITY updateManual.label              "Älä hae päivityksiä (ei suositeltu: turvallisuusriski)">
-<!ENTITY updateManual.accesskey          "Ä">
 <!ENTITY updateHistory.label             "Näytä päivityshistoria">
 <!ENTITY updateHistory.accesskey         "N">
 
