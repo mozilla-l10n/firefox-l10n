@@ -156,3 +156,4 @@ was trying to connect. -->
 <!ENTITY prefReset.longDesc "Svo virðist sem netöryggisstillingar gætu valdið þessu. Viltu endurheimta sjálfgefnar stillingar?">
 <!ENTITY prefReset.label "Endurheimta sjálfgefnar stillingar">
 
+<!ENTITY networkProtocolError.title "Villa í netsamskiptum">
