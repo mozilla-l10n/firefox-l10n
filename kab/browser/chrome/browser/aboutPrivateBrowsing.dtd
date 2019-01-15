@@ -38,6 +38,7 @@
 
 <!-- Strings for new Private Browsing with Search -->
 <!ENTITY aboutPrivateBrowsing.info.title                 "Deg usfaylu uslig i telliḍ tura">
+<!ENTITY aboutPrivateBrowsing.info.description           "&brandShortName; iseffeḍ amazray n unadi d tunigin mi ara tefɣeḍ sed usnas neɣ ad tmedleḍ iccaren n ifuyla n tunigin tusligin. aya ad ak-ikkes udem uslig mi ara ti,igeḍ. ">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article
                        about private browsing myths.   -->
 <!ENTITY aboutPrivateBrowsing.info.myths                 "Lmed ugar ɣef tunigin tusligt">
