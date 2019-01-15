@@ -42,14 +42,14 @@
 
 <!-- Data Choices -->
 <!ENTITY telemetrySection.label          "Kaukomittaustiedot">
-<!ENTITY telemetryDesc.label             "Lähetä &vendorShortName;lle tietoja sähköpostiohjelman suorituskyvystä, käytöstä, muokkauksista ja käytetystä laitteistosta auttaaksesi meitä kehittämään &brandShortName;iä">
+<!ENTITY telemetryDesc.label             "Auta meitä kehittämään &brandShortName;ia lähettämällä &vendorShortName;:lle tietoja sähköpostiohjelman suorituskyvystä, käytöstä, muokkauksista ja käytetystä laitteistosta">
 <!ENTITY enableTelemetry.label           "Kaukomittaus päällä">
 <!ENTITY enableTelemetry.accesskey       "k">
 <!ENTITY telemetryLearnMore.label        "Lue lisää">
 
-<!ENTITY crashReporterSection.label      "Crash Reporter">
-<!ENTITY crashReporterDesc.label         "&brandShortName; lähettää tiedot kaatumisista &vendorShortName;lle, jotta voimme tehdä sähköpostiohjelmastasi vakaamman ja turvallisen">
-<!ENTITY enableCrashReporter.label       "Kaatumisilmoitukset käytössä">
+<!ENTITY crashReporterSection.label      "Kaatumisen raportointi">
+<!ENTITY crashReporterDesc.label         "&brandShortName; lähettää tiedot kaatumisista &vendorShortName;:lle, jotta voimme tehdä sähköpostiohjelmastasi vakaamman ja turvallisemman">
+<!ENTITY enableCrashReporter.label       "Ota kaatumisten raportointi käyttöön">
 <!ENTITY enableCrashReporter.accesskey   "i">
 <!ENTITY crashReporterLearnMore.label    "Lue lisää">
 
