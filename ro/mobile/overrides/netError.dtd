@@ -35,7 +35,15 @@
 <!ENTITY malformedURI.title "Adresa nu este validă">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY malformedURI.longDesc2 "<ul> <li>Adresele web se scriu de obicei așa <strong>http://www.example.com/</strong></li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Caută</button> </div> <li>Asigură-te că folosești slash-uri orientate spre dreapta (de ex., <strong>/</strong>).</li> </ul>">
+<!ENTITY malformedURI.longDesc2 "
+<ul> 
+  <li>Adresele web se scriu de obicei sub forma 
+    <strong>http://www.example.com/</strong></li> 
+    <div id='searchbox'> <input id='searchtext' type='search'></input> 
+      <button id='searchbutton'>Caută</button> 
+      </div> <li>Asigură-te că folosești slash-uri orientate spre dreapta 
+    (de ex., <strong>/</strong>).</li>
+</ul>">
 
 <!ENTITY netInterrupt.title "Conexiunea a fost întreruptă">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
