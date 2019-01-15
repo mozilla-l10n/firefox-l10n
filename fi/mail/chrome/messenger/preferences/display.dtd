@@ -67,7 +67,7 @@
 <!ENTITY openMsgInNewTab.accesskey        "v">
 <!ENTITY reuseExpRadio0.label             "Uuteen viesti-ikkunaan">
 <!ENTITY reuseExpRadio0.accesskey         "i">
-<!ENTITY reuseExpRadio1.label             "Auki olevaan viesti-ikkunaan">
+<!ENTITY reuseExpRadio1.label             "Avoinna olevaan viesti-ikkunaan">
 <!ENTITY reuseExpRadio1.accesskey         "A">
 <!ENTITY closeMsgOnMoveOrDelete.label     "Sulje viesti-ikkuna kun viesti siirretään tai poistetaan">
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "v">
