@@ -1,0 +1,21 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY pref.toolbars.title    "Barras de instrumentos">
+
+
+<!ENTITY new.label              "Nove">
+<!ENTITY open.label             "Aperir">
+<!ENTITY save.label             "Salvar">
+<!ENTITY copy.label             "Copiar">
+<!ENTITY paste.label            "Collar">
+<!ENTITY print.label            "Imprimer">
+<!ENTITY find.label             "Trovar">
+<!ENTITY image.label            "Imagine">
+<!ENTITY table.label            "Tabella">
+<!ENTITY link.label             "Ligamine">
+<!ENTITY anchor.label           "Ancora">
+
+
+

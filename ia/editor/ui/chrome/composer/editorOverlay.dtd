@@ -106,6 +106,7 @@
 <!ENTITY tableCell.label "Cella">
 <!ENTITY tableCells.label "Cella(s)">
 <!ENTITY tableCell.accesskey "C">
+<!ENTITY tableCellContents.label "Contento del cella">
 <!-- Delete SubMenu -->
 
 <!-- text for "Join Cells" is in editor.properties
@@ -115,9 +116,32 @@
 -->
 
 <!-- Toolbar-only items -->
+<!ENTITY copyToolbarCmd.tooltip "Copiar">
+<!ENTITY pasteToolbarCmd.tooltip "Collar">
+<!ENTITY printToolbarCmd.label "Imprimer">
+<!ENTITY printToolbarCmd.tooltip "Imprimer iste pagina">
+<!ENTITY findToolbarCmd.label "Trovar">
+<!ENTITY findToolbarCmd.tooltip "Trovar texto in le pagina">
+<!ENTITY imageToolbarCmd.label "Imagine">
+<!ENTITY tableToolbarCmd.label "Tabella">
+<!ENTITY linkToolbarCmd.label "Ligamine">
+<!ENTITY anchorToolbarCmd.label "Ancora">
 
 <!-- Editor toolbar -->
+<!ENTITY boldToolbarCmd.tooltip "Hardite">
+<!ENTITY italicToolbarCmd.tooltip "Italico">
 
 <!-- Structure Toolbar Context Menu items -->
+<!ENTITY structSelect.label         "Seliger">
+<!ENTITY structSelect.accesskey     "s">
+<!ENTITY structRemoveTag.label      "Remover le tag">
+<!ENTITY structRemoveTag.accesskey  "r">
 
 <!-- TOC manipulation -->
+<!ENTITY insertTOC.label          "Inserer">
+<!ENTITY insertTOC.accesskey      "i">
+<!ENTITY updateTOC.label          "Actualisar">
+<!ENTITY updateTOC.accesskey      "a">
+<!ENTITY removeTOC.label          "Remover">
+<!ENTITY removeTOC.accesskey      "r">
+<!ENTITY tocMenu.label            "Indice del contentos…">
