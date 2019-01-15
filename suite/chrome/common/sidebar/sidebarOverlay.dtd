@@ -25,7 +25,7 @@
 <!ENTITY sidebar.sbDirectory.label   "Diretório do painel lateral…">
 
 <!ENTITY sidebar.pagenotfound.label  "Esta aba não está disponível neste momento">
-<!ENTITY sidebar.close.tooltip       "Fechar Painel">
+<!ENTITY sidebar.close.tooltip       "Fechar painel">
 <!ENTITY sidebar.open.tooltip        "Abrir Painel">
 
 <!ENTITY sidebar.search.label         "Pesquisar">
