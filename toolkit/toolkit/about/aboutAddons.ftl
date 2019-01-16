@@ -213,7 +213,7 @@ extensions-updates-update-selected =
 shortcuts-manage =
     .label = Scorciatoie da tastiera
 shortcuts-empty-message = Non sono presenti scorciatoie da tastiera per questa estensione.
-shortcuts-no-addons = Non è presente alcun componente aggiuntivo attivo.
+shortcuts-no-addons = Non ci sono estensioni attive.
 shortcuts-input =
   .placeholder = Inserisci una scorciatoia
 
