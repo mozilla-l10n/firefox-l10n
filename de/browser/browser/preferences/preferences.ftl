@@ -319,7 +319,7 @@ performance-default-content-process-count =
 
 ## General Section - Browsing
 
-browsing-title = Browsing
+browsing-title = Surfen
 browsing-use-autoscroll =
     .label = Automatischen Bildlauf aktivieren
     .accesskey = A
@@ -342,8 +342,8 @@ browsing-cfr-recommendations-learn-more = Weitere Informationen
 
 ## General Section - Proxy
 
-network-settings-title = Verbindungs-Einstellungen
-network-proxy-connection-description = Jetzt festlegen, wie { -brand-short-name } mit dem Internet verbindet.
+network-settings-title = Netzwerkeinstellungen
+network-proxy-connection-description = Jetzt festlegen, wie sich { -brand-short-name } mit dem Internet verbindet.
 network-proxy-connection-learn-more = Weitere Informationen
 network-proxy-connection-settings =
     .label = Einstellungen…
