@@ -19,6 +19,13 @@
 <!ENTITY rememberPassword.label          "Retenir le mot de passe">
 <!ENTITY rememberPassword.accesskey      "s">
 
+<!ENTITY usernameEx.label                "Votre identifiant :">
+<!ENTITY usernameEx.accesskey            "i">
+<!-- LOCALIZATION NOTE(usernameEx.placeholder): YOURDOMAIN refers to the Windows domain in ActiveDirectory. yourusername refers to the user's account name in Windows. -->
+<!ENTITY usernameEx.placeholder          "VOTREDOMAINE\votrenomd’utilisateur">
+<!-- LOCALIZATION NOTE(usernameEx.text): Domain refers to the Windows domain in ActiveDirectory. We mean the user's login in Windows at the local corporate network. -->
+<!ENTITY usernameEx.text                 "Identifiant du domaine">
+
 <!ENTITY imapLong.label                  "IMAP (dossiers distants)">
 <!ENTITY pop3Long.label                  "POP3 (conserve les courriels sur votre ordinateur)">
 
