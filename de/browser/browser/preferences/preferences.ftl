@@ -867,7 +867,7 @@ addon-recommendations-link = Weitere Informationen
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Datenübermittlung ist für diese Build-Konfiguration deaktiviert
 collection-browser-errors =
-    .label = Browser-Fehler einschließlich Fehlermeldung automatisch von { -brand-short-name } an { -vendor-short-name } senden lassen
+    .label = { -brand-short-name } erlauben, Browser-Fehler einschließlich Fehlermeldungen automatisch an { -vendor-short-name } zu melden
     .accesskey = B
 collection-browser-errors-link = Weitere Informationen
 collection-backlogged-crash-reports =
