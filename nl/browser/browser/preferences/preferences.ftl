@@ -776,6 +776,8 @@ sitedata-delete-on-close =
     .label = Cookies en websitegegevens verwijderen zodra { -brand-short-name } wordt gesloten
     .accesskey = C
 
+sitedata-delete-on-close-private-browsing = In permanente privénavigatiemodus worden cookies en websitegegevens altijd gewist zodra { -brand-short-name } wordt gesloten.
+
 sitedata-allow-cookies-option =
     .label = Cookies en websitegegevens accepteren
     .accesskey = a
