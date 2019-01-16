@@ -37,6 +37,7 @@ app-basics-profile-dir =
        *[other] Cartella del profilo
     }
 app-basics-enabled-plugins = Plugin attivi
+app-basics-launcher-process-status = Processo launcher
 app-basics-build-config = Configurazione build
 app-basics-user-agent = User agent
 app-basics-os = SO
@@ -241,6 +242,10 @@ effective-content-sandbox-level = Livello effettivo sandbox content process
 sandbox-proc-type-content = contenuti
 sandbox-proc-type-file = contenuto file
 sandbox-proc-type-media-plugin = plugin multimediale
+launcher-process-status-0 = Attivo
+launcher-process-status-1 = Disattivato a causa di errori
+launcher-process-status-2 = Disattivato in modo forzato
+launcher-process-status-unknown = Stato sconosciuto
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
