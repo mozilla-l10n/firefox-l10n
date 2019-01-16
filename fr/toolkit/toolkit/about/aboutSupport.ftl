@@ -223,6 +223,7 @@ uses-tiling = Utilise le pavage
 content-uses-tiling = Utilise le pavage (contenu)
 off-main-thread-paint-enabled = Painting en dehors du fil d’exécution principal activé
 off-main-thread-paint-worker-count = Nombre de workers participant au painting en dehors du fil d’exécution principal
+target-frame-rate = Fréquence d’images cible
 audio-backend = Backend audio
 max-audio-channels = Nombre maximum de canaux
 channel-layout = Mode de canal préféré
