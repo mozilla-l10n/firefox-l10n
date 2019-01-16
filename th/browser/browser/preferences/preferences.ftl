@@ -640,6 +640,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = ข้อยกเว้น…
     .accesskey = ข
+# This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
+# in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
+# Cookies and Site Data section.
+sitedata-warning-your-settings-prevent-changes = การตั้งค่าของคุณใน การปิดกั้นเนื้อหา ป้องกันการเปลี่ยนแปลงการตั้งค่าคุกกี้และข้อมูลไซต์
 sitedata-cookies-permissions =
     .label = จัดการการอนุญาต…
     .accesskey = ด
@@ -733,6 +737,11 @@ content-blocking-third-party-cookies-label =
     .label = คุกกี้จากบุคคลที่สาม
     .accesskey = ค
 content-blocking-reject-trackers-description = ปิดกั้นคุกกี้จากบุคคลที่สามทั้งหมดหรือแค่คุกกี้ที่ถูกตั้งโดยตัวติดตาม
+# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
+# of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
+# or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
+# the UI.
+content-blocking-reject-trackers-warning-your-settings-prevent-changes = การตั้งค่าของคุณใน คุกกี้และข้อมูลไซต์ ป้องกันการเปลี่ยนแปลงกับการตั้งค่าคุกกี้บุคคลที่สาม
 content-blocking-change-cookie-settings =
     .label = เปลี่ยนการตั้งค่าคุกกี้
     .accesskey = ป
