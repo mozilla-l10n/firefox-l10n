@@ -281,8 +281,7 @@ extensions-updates-update-selected =
 shortcuts-manage =
   .label = Sneltoetsen
 shortcuts-empty-message = Er zijn geen sneltoetsen voor deze extensie.
-# TODO: Confirm this copy.
-shortcuts-no-addons = U hebt geen actieve add-ons.
+shortcuts-no-addons = U hebt geen extensies geactiveerd.
 shortcuts-input =
   .placeholder = Typ een sneltoets
 
