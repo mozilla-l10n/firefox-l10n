@@ -5,7 +5,7 @@
 ## UI strings for the simplified onboarding modal
 
 onboarding-button-label-try-now = Jetzt ausprobieren
-onboarding-button-label-get-started = Erste Schritte
+onboarding-button-label-get-started = Einführung
 onboarding-welcome-header = Willkommen bei { -brand-short-name }
 onboarding-start-browsing-button-label = Lossurfen
 
