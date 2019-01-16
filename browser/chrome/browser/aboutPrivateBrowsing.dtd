@@ -37,6 +37,9 @@
 <!ENTITY contentBlocking.description                     "Sommige websites maken gebruik van trackers (‘volgers’) die uw activiteit op het internet kunnen bijhouden. In privévensters blokkeert Inhoudsblokkering van Firefox automatisch veel trackers die informatie over uw surfgedrag kunnen verzamelen.">
 
 <!-- Strings for new Private Browsing with Search -->
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.search.placeholder): This is the placeholder
+                       text for the search box.   -->
+<!ENTITY aboutPrivateBrowsing.search.placeholder         "Zoeken op het web">
 <!ENTITY aboutPrivateBrowsing.info.title                 "U bevindt zich in een privévenster">
 <!ENTITY aboutPrivateBrowsing.info.description           "&brandShortName; wist uw zoek- en browsergeschiedenis zodra u de toepassing afsluit of alle privénavigatietabbladen en -vensters sluit. Hoewel privénavigatie u niet anoniem maakt voor websites of uw internetprovider, maakt dit het makkelijker om wat u online doet privé te houden ten opzichte van anderen die deze computer gebruiken.">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article

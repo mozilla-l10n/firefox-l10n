@@ -88,9 +88,9 @@ same accesskey but will never be visible at the same time. -->
 <!-- LOCALIZATION NOTE (moveTabOptions.label and moveSelectedTabOptions.label):
 These two items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  moveTabOptions.label               "Tabblad verplaatsen">
-<!ENTITY  moveTabOptions.accesskey           "r">
+<!ENTITY  moveTabOptions.accesskey           "l">
 <!ENTITY  moveSelectedTabOptions.label       "Tabbladen verplaatsen">
-<!ENTITY  moveSelectedTabOptions.accesskey   "r">
+<!ENTITY  moveSelectedTabOptions.accesskey   "l">
 <!ENTITY  moveToStart.label                  "Verplaatsen naar begin">
 <!ENTITY  moveToStart.accesskey              "b">
 <!ENTITY  moveToEnd.label                    "Verplaatsen naar einde">
