@@ -9,6 +9,10 @@ cfr-doorhanger-extension-cancel-button = Oua no
     .accesskey = O
 cfr-doorhanger-extension-ok-button = Azonzi oua
     .accesskey = A
+cfr-doorhanger-extension-manage-settings-button = Gestisci inpostaçioin consegiæ
+    .accesskey = G
+cfr-doorhanger-extension-never-show-recommendation = No mostrame sti conseggi
+    .accesskey = N
 cfr-doorhanger-extension-learn-more-link = Atre informaçioin
 # This string is used on a new line below the add-on name
 # Variables:
