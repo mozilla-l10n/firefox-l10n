@@ -15,6 +15,6 @@
 <!ENTITY aboutSupport.accountsConnSecurity "Bảo mật kết nối">
 <!ENTITY aboutSupport.accountsAuthMethod "Phương thức xác thực">
 <!ENTITY aboutSupport.accountsDefault "Mặc định?">
+<!ENTITY aboutSupport.identityName "Định danh">
 
 <!ENTITY aboutSupport.sendViaEmail.label "Gửi qua email">
-
