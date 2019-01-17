@@ -1,0 +1,30 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- Account manager window for Instantbird -->
+<!ENTITY accounts.title                      "Tài khoản – &brandShortName;">
+<!-- Instant messaging account status window for Thunderbird -->
+<!ENTITY accountsWindow.title                "Trạng thái tin nhắn">
+
+<!ENTITY accountManager.newAccount.label     "Tài khoản Mới">
+<!ENTITY accountManager.close.label          "Đóng">
+<!-- This should match account.commandkey in instantbird.dtd -->
+<!-- This title must be short, displayed with a big font size -->
+<!ENTITY account.autoSignOn.label     "Đăng nhập khi khởi động">
+<!ENTITY account.autoSignOn.accesskey "n">
+<!ENTITY account.connect.label        "Kết nối">
+<!ENTITY account.disconnect.label     "Ngắt kết nối">
+<!ENTITY account.delete.label         "Xóa">
+<!ENTITY account.edit.label           "Thuộc tính">
+<!ENTITY account.moveup.label         "Di chuyển lên">
+<!ENTITY account.movedown.label       "Di chuyển xuống">
+<!ENTITY account.cancelReconnection.label         "Hủy kết nối lại">
+<!ENTITY account.cancelReconnection.accesskey     "H">
+<!ENTITY account.copyDebugLog.label     "Sao chép Nhật trình Gỡ lỗi">
+<!ENTITY account.copyDebugLog.accesskey "c">
+<!ENTITY account.showDebugLog.label     "Xem Nhật trình Gỡ lỗi">
+<!ENTITY account.showDebugLog.accesskey "X">
+<!ENTITY account.connecting           "Đang kết nối…">
+<!ENTITY account.disconnecting        "Đang ngắt kết nối…">
+<!ENTITY account.disconnected         "Không Kết nối">

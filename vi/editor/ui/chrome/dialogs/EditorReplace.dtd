@@ -24,4 +24,4 @@
 <!ENTITY replaceAllButton.label "Thay thế Toàn bộ">
 <!ENTITY replaceAllButton.accesskey "b">
 <!ENTITY closeButton.label "Đóng">
-
+<!ENTITY closeButton.accesskey "n">

@@ -16,7 +16,8 @@
 <!ENTITY pasteAsQuotationCmd.label "Dán dưới dạng Trích dẫn">
 <!ENTITY pasteAsQuotationCmd.accesskey "n">
 <!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY findCmd.label "Tìm và Thay…">
+<!ENTITY findBarCmd.label "Tìm…">
+<!ENTITY findReplaceCmd.label "Tìm và Thay thế…">
 <!ENTITY enableInlineSpellChecker.label "Kiểm tra Chính tả khi Gõ">
 <!ENTITY enableInlineSpellChecker.accesskey "K">
 <!ENTITY checkSpellingCmd2.label "Check Spelling…">
@@ -26,9 +27,9 @@
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Chèn">
 <!ENTITY insertMenu.accesskey "n">
-<!ENTITY insertLinkCmd.label "Liên kết…">
-<!ENTITY insertLinkCmd.accesskey "L">
-<!ENTITY insertLinkCmd.key "L">
+<!ENTITY insertLinkCmd2.label "Liên kết…">
+<!ENTITY insertLinkCmd2.accesskey "L">
+<!ENTITY insertLinkCmd2.key "k">
 <!ENTITY insertAnchorCmd.label "Thẻ Neo Anchor…">
 <!ENTITY insertAnchorCmd.accesskey "A">
 <!ENTITY insertImageCmd.label "Hình…">
@@ -39,17 +40,14 @@
 <!ENTITY insertTableCmd.accesskey "B">
 <!ENTITY insertHTMLCmd.label "HTML…">
 <!ENTITY insertHTMLCmd.accesskey "H">
+<!ENTITY insertMathCmd.label "Toán học…">
+<!ENTITY insertMathCmd.accesskey "T">
 <!ENTITY insertCharsCmd.label "Kí tự và Kí hiệu…">
 <!ENTITY insertCharsCmd.accesskey "K">
 <!ENTITY insertBreakAllCmd.label "Ngắt Đoạn Sau Hình">
 <!ENTITY insertBreakAllCmd.accesskey "S">
 
 <!-- Used just in context popup. -->
-<!ENTITY spellCheckNoSuggestions.label "(Không có Gợi ý)">
-<!ENTITY spellCheckIgnoreWord.label "Bỏ qua Từ">
-<!ENTITY spellCheckIgnoreWord.accesskey "u">
-<!ENTITY spellCheckAddToDictionary.label "Thêm vào Từ điển">
-<!ENTITY spellCheckAddToDictionary.accesskey "T">
 <!ENTITY createLinkCmd.label "Tạo Liên Kết…">
 <!ENTITY createLinkCmd.accesskey "K">
 <!ENTITY editLinkCmd.label "Sửa đổi Liên kết ở trang Soạn thảo Mới">
@@ -75,28 +73,21 @@
 <!ENTITY FontSizeSelect.tooltip "Chọn cỡ chữ">
 <!ENTITY decreaseFontSize.label "Nhỏ hơn">
 <!ENTITY decreaseFontSize.accesskey "N">
-<!ENTITY decreaseFontSize.key "-">
+<!ENTITY decrementFontSize.key "&lt;">
+ <!-- < is above this key on many keyboards -->
 <!ENTITY increaseFontSize.label "Lớn hơn">
 <!ENTITY increaseFontSize.accesskey "L">
-<!ENTITY increaseFontSize.key "+">
-<!ENTITY increaseFontSize.key2 "="> <!-- + is above this key on many keyboards -->
+<!ENTITY incrementFontSize.key "&gt;">
+ <!-- > is above this key on many keyboards -->
 
 <!ENTITY fontSizeMenu.label "Cỡ chữ">
 <!ENTITY fontSizeMenu.accesskey "C">
-<!ENTITY size-xx-smallCmd.label "siêu nhỏ">
-<!ENTITY size-xx-smallCmd.accesskey "s">
-<!ENTITY size-x-smallCmd.label "rất nhỏ">
-<!ENTITY size-x-smallCmd.accesskey "r">
 <!ENTITY size-smallCmd.label "nhỏ">
 <!ENTITY size-smallCmd.accesskey "n">
 <!ENTITY size-mediumCmd.label "vừa">
 <!ENTITY size-mediumCmd.accesskey "v">
 <!ENTITY size-largeCmd.label "lớn">
 <!ENTITY size-largeCmd.accesskey "l">
-<!ENTITY size-x-largeCmd.label "rất lớn">
-<!ENTITY size-x-largeCmd.accesskey "t">
-<!ENTITY size-xx-largeCmd.label "siêu lớn">
-<!ENTITY size-xx-largeCmd.accesskey "u">
 
 <!-- Font Style SubMenu -->
 <!ENTITY fontStyleMenu.label "Kiểu Chữ">
@@ -148,7 +139,7 @@
 
 <!ENTITY paragraphMenu.label "Đoạn văn">
 <!ENTITY paragraphMenu.accesskey "v">
-<!ENTITY paragraphParagraphCmd.label "Đoạn văn">  
+<!ENTITY paragraphParagraphCmd.label "Đoạn văn">
 <!ENTITY paragraphParagraphCmd.accesskey "v">
 <!ENTITY heading1Cmd.label "Đề mục Cấp 1">
 <!ENTITY heading1Cmd.accesskey "1">
@@ -271,7 +262,7 @@
 <!ENTITY tableDeleteMenu.label "Xóa">
 <!ENTITY tableDeleteMenu.accesskey "X">
 
-<!-- text for "Join Cells" is in editor.properties 
+<!-- text for "Join Cells" is in editor.properties
      ("JoinSelectedCells" and "JoinCellToRight")
      the access key must exist in both of those strings
      But value must be set here for accesskey to draw properly
@@ -288,12 +279,6 @@
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "Thanh Trình Đơn">
 <!ENTITY formatToolbar.tooltip "Thanh Định Dạng">
-<!ENTITY newToolbarCmd.label "Mới">
-<!ENTITY newToolbarCmd.tooltip "Tạo trang Soạn thảo mới">
-<!ENTITY openToolbarCmd.label "Mở">
-<!ENTITY openToolbarCmd.tooltip "Mở một tập tin trong máy">
-<!ENTITY saveToolbarCmd.tooltip "Lưu tập tin vào thư mục trong máy">
-<!ENTITY publishToolbarCmd.tooltip "Tải tập tin lên một địa chỉ từ xa">
 <!ENTITY cutToolbarCmd.tooltip "Cắt">
 <!ENTITY copyToolbarCmd.tooltip "Chép">
 <!ENTITY pasteToolbarCmd.tooltip "Dán">
@@ -352,4 +337,3 @@
 <!ENTITY removeTOC.accesskey      "X">
 <!ENTITY tocMenu.label            "Mục lục…">
 <!ENTITY tocMenu.accesskey        "M">
-

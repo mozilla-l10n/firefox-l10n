@@ -28,12 +28,10 @@
 <!ENTITY addToUserDictionaryButton.accessKey "m">
 <!ENTITY editUserDictionaryButton.label "Chỉnh sửa…">
 <!ENTITY editUserDictionaryButton.accessKey "C">
-<!ENTITY recheckButton.label "Kiểm tra lại Trang">
-<!ENTITY recheckButton.accessKey "r">
+<!ENTITY recheckButton2.label "Kiểm tra lại Văn bản">
 <!ENTITY closeButton.label "Đóng">
 <!ENTITY closeButton.accessKey "g">
 <!ENTITY sendButton.label "Gửi">
 <!ENTITY sendButton.accessKey "G">
 <!ENTITY languagePopup.label "Ngôn ngữ:">
 <!ENTITY languagePopup.accessKey "N">
-

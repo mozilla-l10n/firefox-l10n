@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- these things need to move into utilityOverlay.xul -->
-
 <!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
 
 <!ENTITY fileMenu.label          "File">
@@ -33,8 +31,8 @@
 <!ENTITY selectAllCmd.label          "Chọn Toàn Bộ">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey        "B">
-<!ENTITY preferencesCmd.label        "Tùy chọn…">
-<!ENTITY preferencesCmd.accesskey      "y">
+<!ENTITY preferencesCmd2.label "Tùy chọn">
+<!ENTITY preferencesCmd2.accesskey "c">
 <!ENTITY preferencesCmdUnix.label       "Tùy chỉnh">
 <!ENTITY preferencesCmdUnix.accesskey     "y">
 
@@ -44,9 +42,6 @@
 <!ENTITY viewToolbarsMenu.accesskey      "h">
 <!ENTITY showTaskbarCmd.label          "Thanh Trạng Thái">
 <!ENTITY showTaskbarCmd.accesskey        "a">
-
-<!ENTITY proxy.label                                    "Cấu hình Proxy…">
-<!ENTITY proxy.accesskey                                "y">
 
 <!ENTITY closeCmd.label      "Đóng">
 <!ENTITY closeCmd.key      "W">
@@ -61,4 +56,3 @@
 
 <!ENTITY quitApplicationCmdMac.label  "Thoát &brandShortName;">
 <!ENTITY quitApplicationCmdMac.accesskey  "o">
-

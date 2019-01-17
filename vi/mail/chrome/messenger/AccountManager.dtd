@@ -10,6 +10,10 @@
 <!ENTITY accountActionsButton.accesskey "a">
 <!ENTITY addMailAccountButton.label "Thêm Tài Khoản Thư…">
 <!ENTITY addMailAccountButton.accesskey "m">
+<!ENTITY addIMAccountButton.label "Thêm Tài khoản Trò chuyện…">
+<!ENTITY addIMAccountButton.accesskey "c">
+<!ENTITY addFeedAccountButton.label "Thêm Tài khoản Nguồn cấp…">
+<!ENTITY addFeedAccountButton.accesskey "N">
 <!ENTITY addOtherAccountButton.label "Thêm Tài Khoản Khác…">
 <!ENTITY addOtherAccountButton.accesskey "o">
 <!ENTITY setDefaultButton.label "Dùng làm Mặc định">
@@ -28,4 +32,3 @@
      this window for en-US. -->
 <!ENTITY accountManager.size "width: 105ch; height: 55em;">
 <!ENTITY accountTree.width "width: 31ch;">
-

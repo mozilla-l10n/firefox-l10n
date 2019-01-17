@@ -17,6 +17,9 @@
 <!ENTITY accountTypeMail.accesskey "k">
 <!ENTITY accountTypeNews.label "Tài khoản Nhóm tin">
 <!ENTITY accountTypeNews.accesskey "N">
+<!-- LOCALIZATION NOTE(accountTypeMovemail.label): do not translate 'Movemail' -->
+<!ENTITY accountTypeMovemail.label "Unix Mailspool (Movemail)">
+<!ENTITY accountTypeMovemail.accesskey "U">
 
 <!-- Entities for Identity page -->
 
@@ -36,22 +39,9 @@
 <!ENTITY emailLabel.label "Địa chỉ Email:">
 <!ENTITY emailLabel.accesskey "E">
 
-<!-- Entities for Server page -->
+<!-- Entities for Incoming Server page -->
 
-<!ENTITY serverTitle.label "Thông tin Máy chủ">
 <!ENTITY incomingServerTypeDesc.label "Chọn kiểu máy chủ nhận thư mà bạn đang dùng.">
-<!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
-<!ENTITY incomingServerNameDesc.label "Nhập tên máy chủ nhận thư (ví dụ, &quot;pop.gmail.com&quot;).">
-<!ENTITY incomingServerLabel.label "Máy chủ Nhận thư:">
-<!ENTITY incomingServerLabel.accesskey "N">
-<!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
-<!ENTITY newsServerNameDesc.label "Nhập tên máy chủ tin tức (NNTP) (ví dụ, &quot;news.mozilla.org&quot;).">
-<!-- LOCALIZATION NOTE (smtpServerDesc.label) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
-<!ENTITY smtpServerDesc.label "Nhập tên máy chủ gửi thư (SMTP) (ví dụ, &quot;smtp.gmail.com&quot;).">
-<!ENTITY smtpServerLabel.label "Máy chủ Gửi thư:">
-<!ENTITY smtpServerLabel.accesskey "G">
-<!ENTITY newsServerLabel.label "Máy chủ Nhóm tin:">
-<!ENTITY newsServerLabel.accesskey "M">
 <!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
 <!ENTITY imapType.label "IMAP">
 <!ENTITY imapType.accesskey "I">
@@ -60,38 +50,42 @@
 <!ENTITY popType.accesskey "P">
 <!ENTITY leaveMsgsOnSrvr.label "Để lại thư trên máy chủ">
 <!ENTITY leaveMsgsOnSrvr.accesskey "y">
+<!ENTITY portNum.label "Cổng:">
+<!ENTITY portNum.accesskey "C">
+<!ENTITY defaultPortLabel.label "Mặc định:">
+<!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
+<!ENTITY incomingServer.label "Máy chủ Nhận thư:">
+<!ENTITY incomingServer.accesskey "M">
+<!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
+<!ENTITY incomingUsername.label "Tên Đăng nhập:">
+<!ENTITY incomingUsername.accesskey "T">
+<!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
+<!ENTITY newsServerNameDesc.label "Nhập tên máy chủ tin tức (NNTP) (ví dụ, &quot;news.mozilla.org&quot;).">
+<!ENTITY newsServerLabel.label "Máy chủ Nhóm tin:">
+<!ENTITY newsServerLabel.accesskey "M">
 
+<!-- Entities for Outgoing Server page -->
 
-<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix2) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix2 as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp1.suffix2, if required grammatically.
+<!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
+
+<!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
+     haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
+-->
+<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp1.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp1.prefix "Máy chủ gửi thư (SMTP) hiện tại của bạn, &quot;">
-<!ENTITY haveSmtp1.suffix2 "&quot;, sẽ được dùng. Bạn có thể thay đổi máy chủ thư đi trong thiết lập tài khoản.">
-
-<!-- Entities for Login page -->
-
-<!ENTITY loginTitle.label "Tên Người Dùng">
-<!ENTITY usernameDesc.label "Nhập tên người dùng nhận thư mà nhà cung cấp dịch vụ email đã cấp cho bạn ">
-<!-- LOCALIZATION NOTE (usernameExample.label) : do not translate "&quot;jsmith&quot;" in below line -->
-<!ENTITY usernameExample.label "(ví dụ, &quot;oneschi&quot;).">
-<!ENTITY usernameLabel.label "Tên người dùng Nhận thư:">
-<!ENTITY usernameLabel.accesskey "N">
-<!ENTITY usernameSmtpDesc.label "Nhập tên nguời dùng gửi thư mà nhà cung cấp dịch vụ email đã cấp cho bạn (thường cũng là tên người dùng nhận thư).">
-<!ENTITY usernameSmtpLabel.label "Tên người dùng Gửi thư:">
-<!ENTITY usernameSmtpLabel.accesskey "G">
-<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix2) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix2 as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp2.suffix2, if required grammatically.
+<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp2.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp2.prefix "Tên người dùng gửi thư (SMTP) hiện tại của bạn, &quot;">
-<!ENTITY haveSmtp2.suffix2 "&quot;, sẽ được dùng. Bạn có thể thay đổi máy chủ thư đi trong thiết lập tài khoản.">
-<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix2) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix2 as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp3.suffix2, if required grammatically.
+<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp3.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp3.prefix "Máy chủ gửi thư (SMTP) của bạn, &quot;">
-<!ENTITY haveSmtp3.suffix2 "&quot;, trùng với máy chủ thư đến của bạn, tên đăng nhập cho máy chủ thư đến sẽ được dùng để truy cập. Bạn có thể thay đổi máy chủ thư đi trong thiết lập tài khoản.">
 
 <!-- Entities for Account name page -->
 
@@ -116,4 +110,3 @@
 <!ENTITY deferStorage.accesskey "H">
 <!ENTITY clickFinish.label "Nhấn Hoàn Thành để lưu các thiết lập này và thoát Trình thuật sĩ Tài khoản.">
 <!ENTITY clickFinish.labelMac "Nhấn Xong để lưu các thiết lập này và thoát Trình thuật sĩ Tài khoản.">
-

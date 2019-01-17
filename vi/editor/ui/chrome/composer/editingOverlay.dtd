@@ -15,8 +15,8 @@
 <!ENTITY saveCmd.accesskey "S">
 <!ENTITY saveAsCmd.label "Save As…">
 <!ENTITY saveAsCmd.accesskey "A">
-<!ENTITY saveAsChangeEncodingCmd.label "Save And Change Character Encoding">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "E">
+<!ENTITY saveAsChangeEncodingCmd2.label "Lưu và Thay đổi Bảng mã">
+<!ENTITY saveAsChangeEncodingCmd2.accesskey "m">
 <!ENTITY publishCmd.label "Publish">
 <!ENTITY publishCmd.accesskey "b">
 <!ENTITY publishCmd.key "S">
@@ -29,3 +29,10 @@
 <!ENTITY publishSettings.label "Publishing Site Settings…">
 <!ENTITY publishSettings.accesskey "b">
 
+<!-- Toolbar buttons/items -->
+<!ENTITY newToolbarCmd.label "Mới">
+<!ENTITY newToolbarCmd.tooltip "Tạo trang Composer mới">
+<!ENTITY openToolbarCmd.label "Mở">
+<!ENTITY openToolbarCmd.tooltip "Mở tập tin trên máy">
+<!ENTITY saveToolbarCmd.tooltip "Lưu tập tin vào máy">
+<!ENTITY publishToolbarCmd.tooltip "Tải tập tin lên máy khác">
