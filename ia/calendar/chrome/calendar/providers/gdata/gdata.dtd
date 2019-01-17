@@ -1,0 +1,18 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY gdata-provider.label "Google Calendar">
+
+<!ENTITY gdata.privacy.default.label "Google predefinite">
+<!ENTITY gdata.privacy.default.accesskey "d">
+
+<!ENTITY gdata.migration.title "Migrar al calendarios in sol lectura">
+<!ENTITY gdata.migration.upgrade.label "Promover">
+<!ENTITY gdata.migration.upgrade.accesskey "P">
+<!ENTITY gdata.migration.showagain.label "Verificar sempre ">
+
+<!ENTITY gdata.reminder.default "Memento predefinite">
+<!ENTITY gdata.reminder.action.sms.label "Inviar un message de texto">
+
+
