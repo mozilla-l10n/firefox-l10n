@@ -222,6 +222,7 @@ uses-tiling = Brukar Tiling
 content-uses-tiling = Brukar Tiling (innhald)
 off-main-thread-paint-enabled = Oppteikning utanfor hovudtråd aktivert
 off-main-thread-paint-worker-count = Opptegning utanfor hovudtråd worker-mengde
+low-end-machine = Oppdaga ei maskin med låg yting
 target-frame-rate = Målrammefart
 audio-backend = Lydgrensesnitt
 max-audio-channels = Maks kanalar
