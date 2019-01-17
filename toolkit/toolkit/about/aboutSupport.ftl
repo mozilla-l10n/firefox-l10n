@@ -48,6 +48,7 @@ app-basics-memory-use = Geheugengebruik
 app-basics-performance = Prestaties
 app-basics-service-workers = Geregistreerde Service Workers
 app-basics-profiles = Profielen
+app-basics-launcher-process-status = Launcher-proces
 app-basics-multi-process-support = Multiprocess-vensters
 app-basics-process-count = Webinhoudsprocessen
 app-basics-enterprise-policies = Bedrijfsbeleidsregels
@@ -259,6 +260,11 @@ effective-content-sandbox-level = Effectief sandboxniveau van inhoudsproces
 sandbox-proc-type-content = inhoud
 sandbox-proc-type-file = bestandsinhoud
 sandbox-proc-type-media-plugin = mediaplug-in
+
+launcher-process-status-0 = Ingeschakeld
+launcher-process-status-1 = Uitgeschakeld vanwege fout
+launcher-process-status-2 = Geforceerd uitgeschakeld
+launcher-process-status-unknown = Onbekende status
 
 # Variables
 # $remoteWindows (integer) - Number of remote windows
