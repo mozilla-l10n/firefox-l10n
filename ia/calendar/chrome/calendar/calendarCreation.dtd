@@ -19,6 +19,8 @@
 <!ENTITY buttons.create.label "Crear calendario">
 <!ENTITY buttons.create.accesskey "r">
 
+<!ENTITY buttons.find.label "Trovar calendarios">
+<!ENTITY buttons.find.accesskey "T">
 
 <!ENTITY buttons.back.label "Retro">
 <!ENTITY buttons.back.accesskey "R">
