@@ -10,6 +10,7 @@
 
 <!ENTITY locationValidate.label      "Validar">
 
+<!ENTITY feedFolder.label            "Almacenar los artículos en:">
 
 <!-- Account Settings and Subscription Dialog -->
 <!ENTITY biffStart.label             "Buscar nuevos artículos cada ">
