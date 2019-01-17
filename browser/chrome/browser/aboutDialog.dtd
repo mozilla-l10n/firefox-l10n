@@ -3,6 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY aboutDialog.title          "Tietoja &brandFullName;ista">
 
+<!-- LOCALIZATION NOTE (update.*):
+# These strings are also used in the update pane of preferences.
+# See about:preferences#general.
+-->
 <!-- LOCALIZATION NOTE (update.checkForUpdatesButton.*, update.updateButton.*):
 # Only one button is present at a time.
 # The button when displayed is located directly under the Firefox version in
@@ -16,15 +20,13 @@
 
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 <!ENTITY warningDesc.version        "&brandShortName; on kokeellinen versio ja voi olla epävakaa.">
-<!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
-<!ENTITY warningDesc.telemetryDesc  "Tietoja suorituskyvystä, laitteistosta, käyttötavoista ja muokkauksista lähetetään automaattisesti &vendorShortName;lle auttamaan &brandShortName;in kehittämisessä.">
 
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 <!ENTITY community.exp.start        "">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
 <!ENTITY community.exp.middle       " on ">
-<!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
+<!-- LOCALIZATION NOTE (community.exp.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.exp.creditsLink  "kansainvälinen yhteisö">
 <!ENTITY community.exp.end          ", joka pyrkii kehittämään avointa, julkista ja kaikkien käytettävissä olevaa Internetiä.">
 
@@ -37,7 +39,7 @@
 <!ENTITY community.end3             ", joka pyrkii kehittämään avointa, julkista ja kaikkien käytettävissä olevaa Internetiä.">
 
 <!ENTITY helpus.start               "Haluatko auttaa? ">
-<!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->
+<!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://donate.mozilla.org/?utm_source=firefox&utm_medium=referral&utm_campaign=firefox_about&utm_content=firefox_about. -->
 <!ENTITY helpus.donateLink          "Tee lahjoitus">
 <!ENTITY helpus.middle              " tai ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
@@ -58,7 +60,7 @@
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.checkingForUpdates  "Haetaan päivityksiä…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.noUpdatesFound      "&brandShortName;in uusin versio käytössä">
+<!ENTITY update.noUpdatesFound      "Käytössä on uusin &brandShortName;-versio">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.adminDisabled       "Järjestelmän ylläpitäjä on estänyt päivitykset">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
@@ -91,7 +93,7 @@
 <!ENTITY update.unsupported.linkText "Lue lisätietoja">
 <!ENTITY update.unsupported.end      "">
 
-<!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
+<!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and
      update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
      is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
      the "em dash" (long dash).
