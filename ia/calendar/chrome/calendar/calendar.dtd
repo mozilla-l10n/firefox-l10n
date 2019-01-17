@@ -82,7 +82,17 @@
 
 
 <!-- Context Menu -->
+<!ENTITY calendar.context.copyevent.label             "Copiar">
+<!ENTITY calendar.context.copyevent.accesskey         "C">
+<!ENTITY calendar.context.pasteevent.label            "Collar">
+<!ENTITY calendar.context.pasteevent.accesskey        "c">
+<!ENTITY calendar.context.button.label                "Pannello Hodie">
+<!ENTITY calendar.context.button.accesskey            "H">
 
+<!ENTITY calendar.context.attendance.menu.label                 "Participation">
+<!ENTITY calendar.context.attendance.menu.accesskey             "p">
+<!ENTITY calendar.context.attendance.occurrence.label           "Iste occurrentia">
+<!ENTITY calendar.context.attendance.all2.label                 "Serie complete">
 
 
 
