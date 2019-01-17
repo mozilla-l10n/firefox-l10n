@@ -9,9 +9,8 @@
 <!ENTITY refreshProfile.label         "ล้าง &brandShortName; ใหม่">
 
 <!ENTITY safeModeDescription3.label   "โหมดปลอดภัยเป็นโหมดพิเศษของ &brandShortName; ที่สามารถใช้ในการแก้ไขปัญหา">
-<!ENTITY safeModeDescription4.label   "ส่วนเสริมและการตั้งค่าที่กำหนดเองของคุณจะถูกปิดใช้งานชั่วคราว">
 
 <!ENTITY refreshProfileInstead.label  "คุณยังสามารถข้ามการแก้ไขปัญหาและลองตั้งค่า &brandShortName; ใหม่">
 
 <!-- LOCALIZATION NOTE (autoSafeModeDescription3.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->
-<!ENTITY autoSafeModeDescription3.label "&brandShortName; ถูกปิดโดยไม่คาดคิดขณะกำลังเริ่ม ซึ่งอาจมีสาเหตุมาจากส่วนเสริมหรือปัญหาอื่น ๆ คุณสามารถลองแก้ไขปัญหาโดยการแก้ไขปัญหาในโหมดปลอดภัย">
+<!ENTITY autoSafeModeDescription3.label "&brandShortName; ถูกปิดโดยไม่คาดคิดขณะเริ่ม ซึ่งอาจมีสาเหตุมาจากส่วนเสริมหรือปัญหาอื่น ๆ คุณสามารถลองแก้ไขปัญหาโดยการแก้ไขปัญหาในโหมดปลอดภัย">
