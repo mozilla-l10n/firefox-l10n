@@ -2,4 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY nameColumn.label "ชื่อตัวกรอง">
+<!ENTITY newButton.label "ใหม่…">
+<!ENTITY newButton.accesskey "ห">
+<!ENTITY newButton.popupCopy.label "คัดลอก…">
+<!ENTITY newButton.popupCopy.accesskey "ค">
+<!ENTITY editButton.label "แก้ไข…">
+<!ENTITY editButton.accesskey "ก">
+<!ENTITY deleteButton.label "ลบ">
+<!ENTITY deleteButton.accesskey "ล">
 <!ENTITY closeCmd.key "W">
