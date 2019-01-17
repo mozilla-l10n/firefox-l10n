@@ -14,6 +14,8 @@
 
 <!ENTITY pref.weekstarts.label "Bắt đầu tuần vào:">
 <!ENTITY pref.weekstarts.accesskey "B">
+<!ENTITY pref.calendar.view-minimonth.showweeknumber.label "Hiển thị số tuần trong lượt xem và tháng nhỏ">
+<!ENTITY pref.calendar.view-minimonth.showweeknumber.accesskey "n">
 <!ENTITY pref.daysoff.label "Tuần làm việc gồm các ngày sau:">
 
 <!ENTITY pref.calendar.view.daystart.label "Ngày bắt đầu lúc:">
@@ -35,3 +37,5 @@
 <!ENTITY pref.numberofweeks.4 "4 tuần">
 <!ENTITY pref.numberofweeks.5 "5 tuần">
 <!ENTITY pref.numberofweeks.6 "6 tuần">
+<!ENTITY pref.showlocation.label "Hiển thị vị trí">
+<!ENTITY pref.showlocation.accesskey "L">
