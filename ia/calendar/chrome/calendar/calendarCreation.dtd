@@ -3,17 +3,21 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
+<!ENTITY initialpage.computer.label  "Sur mi computator">
 
 <!ENTITY locationpage.username.label      "Nomine del usator:" >
 <!ENTITY locationpage.password.label      "Contrasigno:" >
 
 
+<!ENTITY finishpage.shortdescription  "Calendario create" >
 
 <!-- Below are new strings for the revised new calendar dialog. The above strings should be
     removed/renamed later on -->
 
 <!ENTITY sourcetabs.other.label  "Altero">
 
+<!ENTITY buttons.create.label "Crear calendario">
+<!ENTITY buttons.create.accesskey "r">
 
 
 <!ENTITY buttons.back.label "Retro">

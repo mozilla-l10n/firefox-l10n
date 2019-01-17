@@ -13,6 +13,7 @@
 
 <!ENTITY calendar.today.button.label          "Hodie">
 <!ENTITY calendar.tomorrow.button.label       "Deman">
+<!ENTITY calendar.upcoming.button.label       "Proximemente">
 
 <!ENTITY calendar.events.filter.all.label "Tote le eventos">
 <!ENTITY calendar.events.filter.today.label "Eventos de hodie">
@@ -50,6 +51,12 @@
 
 <!ENTITY calendar.nextday.label                 "Die successive" >
 <!ENTITY calendar.prevday.label                 "Die previe" >
+<!ENTITY calendar.nextweek.label                "Septimana successive" >
+<!ENTITY calendar.prevweek.label                "Septimana precedente" >
+<!ENTITY calendar.nextweek.accesskey            "x" >
+<!ENTITY calendar.prevweek.accesskey            "s" >
+<!ENTITY calendar.nextmonth.label               "Mense successive" >
+<!ENTITY calendar.prevmonth.label               "Mense precedente" >
 
 
 <!ENTITY calendar.print.button.label            "Imprimer" >
