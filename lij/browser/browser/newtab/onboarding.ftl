@@ -27,6 +27,15 @@ onboarding-ghostery-title = Ghostery
 onboarding-ghostery-text = Navega veloce e in mòddo ciù furbo ò seguo con estenscioin comme Ghostery ch'o te blòcca e publicitæ che te ronpan.
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Scincronizaçion
+onboarding-fxa-text = Registrite pe avei 'n { -fxaccount-brand-name } e scincronizza tutti i segnalibbri, poule segrete e feuggi averti donde se segge ti deuvi { -brand-short-name }.
 
 ## Message strings belonging to the Return to AMO flow
 
+return-to-amo-sub-header = Belin, ti gh'æ { -brand-short-name }
+# <icon></icon> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-header = Oua piggite <icon></icon><b>{ $addon-name }.</b>
+return-to-amo-extension-button = Azonzi l'estenscion
+return-to-amo-get-started-button = Inprendi e baxi de { -brand-short-name }
