@@ -38,6 +38,7 @@
 
 <!-- Strings for new Private Browsing with Search -->
 <!ENTITY aboutPrivateBrowsing.info.title                 "Du er i eit privat vindauge">
+<!ENTITY aboutPrivateBrowsing.info.description           "&brandShortName; ryddar søke- og nettlesarhistorikken din, når du avsluttar programmet eller når du lèt at alle private faner og vindauge. Sjølv om dette ikkje gjer deg anonym for nettstadar eller internettleverandørar, vil det gjere det lettare å behalde det du gjer på nettet privat frå nokon annan som brukar denne datamaskina.">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article
                        about private browsing myths.   -->
 <!ENTITY aboutPrivateBrowsing.info.myths                 "Vanlege myter om privat surfing">
