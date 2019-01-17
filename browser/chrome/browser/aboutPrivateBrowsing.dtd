@@ -38,5 +38,7 @@
 
 <!-- Strings for new Private Browsing with Search -->
 <!ENTITY aboutPrivateBrowsing.info.title                 "Gizli penceredesiniz">
+<!ENTITY aboutPrivateBrowsing.info.description           "&brandShortName; uygulamasından çıktığınızda veya tüm Gizli Gezinti sekmelerini ve pencerelerini kapattığınızda arama ve gezinti geçmişiniz temizlenir. Bu işlem, web sitelerinin ve internet servis sağlayıcınızın sizi tanımamasını sağlamaz ama bu bilgisayarı kullanan başkaları varsa internette yaptıklarınızı onlardan gizlemenizi sağlar.">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article
                        about private browsing myths.   -->
+<!ENTITY aboutPrivateBrowsing.info.myths                 "Gizli gezinti ile ilgili yaygın efsaneler">
