@@ -19,6 +19,11 @@
 <!ENTITY rememberPassword.label          "Tallenna salasana">
 <!ENTITY rememberPassword.accesskey      "T">
 
+<!-- LOCALIZATION NOTE(usernameEx.placeholder): YOURDOMAIN refers to the Windows domain in ActiveDirectory. yourusername refers to the user's account name in Windows. -->
+<!ENTITY usernameEx.placeholder          "TOIMIALUE\käyttäjänimi">
+<!-- LOCALIZATION NOTE(usernameEx.text): Domain refers to the Windows domain in ActiveDirectory. We mean the user's login in Windows at the local corporate network. -->
+<!ENTITY usernameEx.text                 "Toimialueeseen kirjautuminen">
+
 <!ENTITY imapLong.label                  "IMAP (etäkansiot)">
 <!ENTITY pop3Long.label                  "POP3 (säilytä sähköpostit tietokoneellasi)">
 
