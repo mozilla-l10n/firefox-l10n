@@ -21,16 +21,22 @@
 <!-- Tab context menu -->
 <!ENTITY  reloadTab.label                    "Adkargañ an ivinell">
 <!ENTITY  reloadTab.accesskey                "A">
-<!ENTITY  reloadAllTabs.label                "Adkargañ an holl ivinelloù">
-<!ENTITY  reloadAllTabs.accesskey            "d">
 <!ENTITY  selectAllTabs.label                "Diuzañ an holl ivinelloù">
 <!ENTITY  selectAllTabs.accesskey            "D">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
 <!ENTITY  duplicateTab.label                 "Eilañ an ivinell">
+<!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
+These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  duplicateTab.accesskey             "E">
 <!ENTITY  closeTabOptions.label              "Dibarzhioù serradur an ivinelloù">
 <!ENTITY  closeTabOptions.accesskey          "s">
+<!-- LOCALIZATION NOTE (duplicateTabs.label): This is a command to duplicate
+a tab (i.e. it is a verb, not adjective). -->
+<!ENTITY  duplicateTabs.label                "Eilañ an ivinelloù">
+<!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
+These items have the same accesskey but will never be visible at the same time. -->
+<!ENTITY  duplicateTabs.accesskey            "E">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -38,9 +44,6 @@ left instead of right. -->
 <!ENTITY  closeTabsToTheEnd.accesskey        "i">
 <!ENTITY  closeOtherTabs.label               "Serriñ an ivinelloù all">
 <!ENTITY  closeOtherTabs.accesskey           "S">
-
-<!ENTITY  closeSelectedTabs.label            "Serriñ an ivinelloù diuzet">
-<!ENTITY  closeSelectedTabs.accesskey        "S">
 
 <!ENTITY  closeTabs.label                    "Serriñ an ivinelloù">
 <!ENTITY  closeTabs.accesskey                "i">
@@ -54,10 +57,6 @@ same accesskey but will never be visible at the same time. -->
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinSelectedTabs.accesskey        "b">
-<!-- Reload Tab and Reload Selected Tabs have the same accesskey
-but will never be visible at the same time. -->
-<!ENTITY  reloadSelectedTabs.label           "Adkargañ an ivinelloù diuzet">
-<!ENTITY  reloadSelectedTabs.accesskey       "R">
 <!-- LOCALIZATION NOTE(reloadTab.label, reloadTabs.label): have the same accesskey
 but will never be visible at the same time. -->
 <!ENTITY  reloadTabs.label                   "Adkargañ an ivinelloù">
@@ -82,8 +81,6 @@ same accesskey but will never be visible at the same time. -->
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinTab.accesskey                 "s">
-<!ENTITY  sendTabToDevice.label              "Kas an ivinell d'an trevnad">
-<!ENTITY  sendTabToDevice.accesskey          "t">
 <!ENTITY  sendPageToDevice.label             "Kas ar bajenn d'an trevnad">
 <!ENTITY  sendPageToDevice.accesskey         "t">
 <!ENTITY  sendLinkToDevice.label             "Kas an ere d'an trevnad">
@@ -102,8 +99,6 @@ These two items have the same accesskey but will never be visible at the same ti
 <!ENTITY  moveToNewWindow.accesskey          "D">
 <!ENTITY  reopenInContainer.label            "Addigeriñ en endalc'had">
 <!ENTITY  reopenInContainer.accesskey        "e">
-<!ENTITY  bookmarkAllTabs.label              "Lakaat ur sined war an holl ivinelloù…">
-<!ENTITY  bookmarkAllTabs.accesskey          "k">
 <!ENTITY  bookmarkTab.label                  "Ouzhpennañ an ivinell er sinedoù">
 <!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
@@ -115,6 +110,10 @@ These items have the same accesskey but will never be visible at the same time. 
 <!ENTITY  hiddenTabs.label                   "Ivinell kuzh">
 
 <!ENTITY  listAllTabs.label      "Roll an holl ivinelloù">
+
+<!-- LOCALIZATION NOTE (allTabsMenu.searchTabs.label): "Search" is a verb, as
+in "Search through tabs". -->
+<!ENTITY  allTabsMenu.searchTabs.label       "Klask ivinelloù">
 
 <!ENTITY tabCmd.label "Ivinell nevez">
 <!ENTITY tabCmd.accesskey "I">
@@ -145,11 +144,6 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.label "Barrenn ostilhoù ar sinedoù">
 <!ENTITY personalbarCmd.accesskey "s">
 <!ENTITY bookmarksToolbarItem.label "Ergorennoù barrenn ostilhoù ar sinedoù">
-
-<!ENTITY toolbarContextMenu.reloadAllTabs.label "Adkargañ an holl ivinelloù">
-<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "d">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Lakaat ur sined war an holl ivinelloù…">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "k">
 
 <!ENTITY toolbarContextMenu.reloadSelectedTab.label "Adkargañ an ivinell diuzet">
 <!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
@@ -256,9 +250,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editThisBookmarkCmd.label "Embann ar sined-mañ">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
-<!ENTITY subscribeToPageMenupopup.label "Koumanantiñ d'ar bajenn-mañ">
-<!ENTITY subscribeToPageMenuitem.label "Koumanantiñ d'ar bajenn-mañ…">
-
 <!ENTITY addCurPagesCmd.label "Ouzhpennañ an holl ivinelloù d'ar sinedoù">
 <!ENTITY showAllBookmarks2.label "Diskouez an holl sinedoù">
 <!ENTITY recentBookmarks.label "Lakaet war ur sined nevez zo">
@@ -297,6 +288,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Kadavin roadennoù er c'hadaviñ diastal">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Reoliet a-bell eo ar merdeer">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Digeriñ ar banell dilesa web">
+
+<!ENTITY urlbar.storageAccessAnchor.tooltip               "Digeriñ penel aotreoù an oberiantiz merdeiñ">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Ardeiñ rannadur ho kamera ha/pe ho mikrofon gant al lec'hienn">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Ardeiñ rannadur ho mikrofon gant al lec'hienn">
@@ -372,10 +365,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY webDeveloperMenu.label       "Diorroer web">
 <!ENTITY webDeveloperMenu.accesskey   "w">
-
-<!ENTITY devtoolsRecordExecution.label "Enrollañ an erounezadur">
-<!ENTITY devtoolsSaveRecording.label "Enrollañ an enrolladenn">
-<!ENTITY devtoolsReplayExecution.label "Adlenn an erounezadur">
 
 <!ENTITY inspectContextMenu.label     "Ensellout an elfenn">
 <!ENTITY inspectContextMenu.accesskey "E">
@@ -506,7 +495,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "A">
 <!ENTITY customizeMenu.manageExtension.label "Merañ an askouezh">
 <!ENTITY customizeMenu.manageExtension.accesskey "M">
-
 <!ENTITY customizeMenu.removeExtension.label "Dilemel an askouezh">
 <!ENTITY customizeMenu.removeExtension.accesskey "a">
 
@@ -647,6 +635,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.label      "Merkañ ar frammad war ur sined">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "M">
 <!ENTITY pageAction.copyLink.label    "Eilañ an ere">
+
+<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
+  "Pocket" is a brand name. -->
+<!ENTITY pocketButton.tooltiptext     "Enrollañ etrezek Pocket">
+<!ENTITY saveToPocketCmd.label        "Enrollañ ar bajenn etrezek Pocket">
+<!ENTITY saveToPocketCmd.accesskey    "k">
+<!ENTITY saveLinkToPocketCmd.label    "Enrollañ an ere etrezek Pocket">
+<!ENTITY saveLinkToPocketCmd.accesskey "o">
+<!ENTITY pocketMenuitem.label         "Gwelout roll Pocket">
+
 <!ENTITY emailPageCmd.label           "Kas an ere dre bostel…">
 <!ENTITY emailPageCmd.accesskey       "K">
 <!ENTITY savePageCmd.label            "Enrollañ ar bajenn evel…">
@@ -1009,6 +1007,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.fastBlock.add.label "Ouzhpennañ ur stankadenn...">
 
 <!ENTITY contentBlocking.trackingProtection2.label "An holl heulierien dinoet">
+
 <!ENTITY contentBlocking.trackingProtection3.label "Heulierien">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
@@ -1045,6 +1044,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.3rdPartyCookies.add.label "Ouzhpennañ ur stankadenn...">
+
+<!ENTITY contentBlocking.manageSettings.label "Merañ ar stankadur endalc'had">
+<!ENTITY contentBlocking.manageSettings.accesskey "M">
+
+<!ENTITY contentBlocking.trackersView.label "Helierien">
+<!ENTITY contentBlocking.trackersView.strictInfo.label "Evit stankañ an holl heulierien, lakait ar stankadur endalc'had da “Strizh”.">
+
+<!ENTITY contentBlocking.cookies.label "Toupinoù">
+<!ENTITY contentBlocking.cookiesView.label "Toupinoù ha roadennoù lec'hienn">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Danevelliñ ur gudenn">
 <!ENTITY contentBlocking.breakageReportView.label "Danevelliñ kudennoù">
@@ -1179,11 +1187,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "Gweredoù ar bajenn">
 <!ENTITY pageAction.addToUrlbar.label "Ouzhpennañ d'ar varenn chomlec'h">
 <!ENTITY pageAction.removeFromUrlbar.label "Lemel kuit diouzh ar varrenn chomlec'h">
-<!ENTITY pageAction.allowInUrlbar.label "Diskouez er varrenn chomlec'h">
-<!ENTITY pageAction.disallowInUrlbar.label "Na ziskouez er varrenn chomlec'h">
 <!ENTITY pageAction.manageExtension.label "Merañ an askouezh...">
-
-<!ENTITY pageAction.sendTabToDevice.label "Kas an ivinell d'an trevnad">
 
 <!ENTITY sendToDevice.syncNotReady.label "Trevnadoù o c'houbredañ...">
 

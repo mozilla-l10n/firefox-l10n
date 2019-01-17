@@ -8,6 +8,8 @@ do-not-track-option-default =
     .label = Pa ran gant ar gwarez heuliañ hepken
 do-not-track-option-default-content-blocking =
     .label = P'eo kefluniet { -brand-short-name } da stankañ an heulierien dinoet hepken
+do-not-track-option-default-content-blocking-known =
+    .label = Pa 'z eo kefluniet { -brand-short-name } evit stankañ an heulierien anavezet nemetken.
 do-not-track-option-always =
     .label = Atav
 pref-page =
@@ -141,6 +143,8 @@ set-as-my-default-browser =
 startup-restore-previous-session =
     .label = Assav an estez kent
     .accesskey = A
+startup-restore-warn-on-quit =
+    .label = Kelaouiñ pa kuitait ar merdeer
 disable-extension =
     .label = Diweredekaat an askouezh
 tabs-group-header = Ivinelloù
@@ -544,7 +548,6 @@ privacy-header = Prevezted ar merdeer
 
 ## Privacy Section - Forms
 
-forms-header = Furmskridoù & Gerioù-tremen
 logins-header = Titouroù kennaskañ
 forms-ask-to-save-logins =
     .label = Goulenn enrollañ an titouroù kennaskañ evit al lec'hiennoù
@@ -641,6 +644,14 @@ sitedata-block-all-third-party-option =
     .label = Holl doupinoù an tredeoù (gallout a ra terriñ al lec'hiennoù)
 sitedata-block-all-option =
     .label = An holl doupinoù (gallout a ra terriñ lec'hiennoù)
+sitedata-option-block-trackers =
+    .label = Heulierien un trede
+sitedata-option-block-unvisited =
+    .label = Toupinoù al lec'hiennoù n'int ket bet gweladennet
+sitedata-option-block-all-third-party =
+    .label = Holl doupinoù an tredeoù (gallout a ra mirout lec'hiennoù 'zo da vont en-dro en un doare dereat)
+sitedata-option-block-all =
+    .label = An holl doupinoù (terriñ a raio mont-en-dro lec'hiennoù 'zo)
 sitedata-clear =
     .label = Skarzhañ ar roadennoù…
     .accesskey = S
@@ -654,6 +665,9 @@ sitedata-cookies-exceptions =
 # in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
 # Cookies and Site Data section.
 sitedata-warning-your-settings-prevent-changes = Hoc'h arventennoù er stankadurioù endalc'had a vir ar c'hemmoù en toupinoù hag e arventennoù ar roadennoù lec'hienn.
+sitedata-cookies-permissions =
+    .label = Merañ an aotreoù
+    .accesskey = M
 
 ## Privacy Section - Address Bar
 
@@ -674,6 +688,7 @@ addressbar-suggestions-settings = Kemmañ ar gwellvezioù evit ar c'hinnigoù lu
 
 content-blocking-header = Stankañ endalc'hadoù
 content-blocking-desc = Stankit endalc'hadoù estren (evel bruderezhioù pe vonegoù) a c'hall gorrekaat ho merdeiñ hag heuliañ ac'hanoc'h war ar web. Personelait hoc'h arventennoù evit kaout ur c'hempouez etre gwarez ha digonusted.
+content-blocking-description = Stankañ endalc'hadoù an tredeoù a heuilh ac'hanoc'h etrezek ar web. Reoliañ kementad ho obererezh enlinenn a zo kadavet ha rannet etre al lec'hiennoù.
 content-blocking-learn-more = Gouzout hiroc'h
 content-blocking-restore-defaults =
     .label = Assav dre ziouer
@@ -707,6 +722,37 @@ content-blocking-tracking-protection-option-always =
 content-blocking-tracking-protection-option-private =
     .label = E prenestroù prevez hepken
     .accesskey = p
+# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+content-blocking-setting-standard =
+    .label = Skoueriek
+    .accesskey = S
+content-blocking-setting-strict =
+    .label = Strizh
+    .accesskey = z
+content-blocking-setting-custom =
+    .label = Personelaet
+    .accesskey = P
+content-blocking-standard-description = Stankañ an heulierien anavezet er merdeiñ prevez nemetken.
+content-blocking-standard-desc = Kempouezet etre gwarez ha mont-en-dro. Aotren a ra heulierien 'zo evit ma 'z afe en-dro al lec'hiennoù.
+content-blocking-strict-desc = Stankañ an holl heulierien dinoet gant { -brand-short-name }. Gallout a ra mirout lec'hiennoù 'zo da vont en-dro en un doare dereat.
+content-blocking-custom-desc = Dibabit petra stankañ.
+content-blocking-private-trackers = An heulierien anavezet er merdeiñ prevez hepken
+content-blocking-third-party-cookies = Toupinoù heuliañ tredeoù
+content-blocking-all-windows-trackers = An holl heulierien en holl brenestroù
+content-blocking-all-third-party-cookies = Holl doupinoù an tredeoù
+content-blocking-warning-title = Diwallit!
+content-blocking-warning-desc = Stankañ toupinoù ha heulierien a c'hall mirout lec'hiennoù 'zo da vont en-dro en un doare dereat. Aes eo diweredekaat ar stankadur evit al lec'hiennoù ho peus fiziañs eno.
+content-blocking-learn-how = Deskit penaos
+content-blocking-trackers-label =
+    .label = Heulierien
+    .accesskey = H
+content-blocking-tracking-protection-option-all-windows =
+    .label = En holl brenestroù
+    .accesskey = E
+content-blocking-option-private =
+    .label = Er prenestroù prevez nemetken
+    .accesskey = p
 content-blocking-tracking-protection-change-block-list = Kemmañ ar roll stankañ
 content-blocking-third-party-cookies-label =
     .label = Toupinoù tredeoù
@@ -729,6 +775,9 @@ content-blocking-reject-trackers-block-trackers-option =
 content-blocking-reject-trackers-all-third-parties-option =
     .label = Holl doupinoù tredeoù (gallout a ra terriñ lec'hiennoù 'zo)
     .accesskey = H
+content-blocking-cookies-label =
+    .label = Toupinoù
+    .accesskey = T
 
 ## Privacy Section - Tracking
 
@@ -750,6 +799,9 @@ tracking-exceptions =
 tracking-change-block-list =
     .label = Kemmañ ar roll stankañ…
     .accesskey = K
+tracking-manage-exceptions =
+    .label = Merañ an nemedennoù
+    .accesskey = n
 
 ## Privacy Section - Permissions
 
@@ -817,6 +869,9 @@ collection-health-report-link = Gouzout hiroc'h
 collection-studies =
     .label = Aotren { -brand-short-name } da staliañ ha lañsañ studiadennoù
 collection-studies-link = Gwelout studiadennoù { -brand-short-name }
+addon-recommendations =
+    .label = Aotren { -brand-short-name } d'ober erbedadennoù askouezhioù personelaet
+addon-recommendations-link = Gouzout hiroc'h
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Diweredekaet eo an danevelliñ roadennoù evit kefluniadur ar c'hempunadur-mañ

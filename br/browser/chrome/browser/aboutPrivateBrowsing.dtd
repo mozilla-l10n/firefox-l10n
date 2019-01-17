@@ -30,7 +30,14 @@
 
 <!ENTITY trackingProtection.title                        "Gwarez heuliañ">
 <!ENTITY trackingProtection.description2                 "Gant lec'hiennoù 'zo e vez arveret heulierien evit evezhiañ hoc'h obererezh war ar Genrouedad. Gwarez Heuliañ Firefox a stanko meur a heulier a c'hall dastum titouroù a-zivout hoc'h emzalc'h merdeiñ.">
+
 <!ENTITY trackingProtection.startTour1                   "Sellit penaos ez a en-dro">
 
 <!ENTITY contentBlocking.title                           "Stankadur endalc'had">
 <!ENTITY contentBlocking.description                     "Lec'hiennoù 'zo a arver heulierien evit evezhiañ hoc'h oberiantiz war an internet. E prenestroù pevez e c'hall Firefox stankañ eur a heulier a c'hallfe dastum titouroù a-zivout hoc'h emzalc'h merdeiñ.">
+
+<!-- Strings for new Private Browsing with Search -->
+<!ENTITY aboutPrivateBrowsing.info.title                 "En ur prenestr merdeiñ prevez emaoc'h">
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article
+                       about private browsing myths.   -->
+<!ENTITY aboutPrivateBrowsing.info.myths                 "Mojennoù a vez alies diwar-benn ar merdeiñ prevez">

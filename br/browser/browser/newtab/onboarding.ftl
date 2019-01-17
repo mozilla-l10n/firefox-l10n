@@ -27,3 +27,15 @@ onboarding-ghostery-title = Ghostery
 onboarding-ghostery-text = Merdeit herrekoc'h, speredekoc'h, pe diogeloc'h gant askouezhioù evel Ghostery hag a ro tro deoc'h da stankañ ar bruderezhioù aloubus.
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Synkro
+onboarding-fxa-text = Krouit ho { -fxaccount-brand-name } ha goubredit ho sinedoù, gerioù-tremen hag hoc'h ivinelloù digor e pep lec'h ma implijit { -brand-short-name }.
+
+## Message strings belonging to the Return to AMO flow
+
+return-to-amo-sub-header = Dispar, { -brand-short-name } a zo ganeoc'h
+# <icon></icon> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-header = Staliomp <icon></icon><b>{ $addon-name }</b> bremañ.
+return-to-amo-extension-button = Ouzhpennañ an askouezh
+return-to-amo-get-started-button = Krogit gant { -brand-short-name }

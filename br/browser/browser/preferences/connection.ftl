@@ -73,3 +73,13 @@ connection-dns-over-https =
 connection-dns-over-https-url = URL
     .accesskey = U
     .tooltiptext = URL evit diskoulmañ an DNS war HTTPS
+# Variables:
+#   $url (String) - URL for the DNS over HTTPS provider
+connection-dns-over-https-url-default =
+    .label = DNS dre ziouer ({ $url })
+    .accesskey = D
+    .tooltiptext = Arverit an URL dre ziouer evit diskoulmañ an DNS war HTTPS
+connection-dns-over-https-url-custom =
+    .label = Personelaet
+    .accesskey = P
+    .tooltiptext = Enankit an URL a fell deoc'h implijout evit diskoulmañ HTTPS war DNS
