@@ -90,11 +90,11 @@
 <!ENTITY changeSettings.label            "Muokkaa asetuksia">
 <!ENTITY changeSettings.accesskey        "u">
 
-<!ENTITY contactYourProvider.description "&brandShortName; pystyy hakemaan postisi näillä asetuksilla. Sinun kuitenkin tulisi huomauttaa koneesi ylläpitäjälle tai sähköpostipalvelun tarjoajallesi näistä epämääräisistä yhteystavoista. Lue lisää aiheesta Thunderbirdin FAQ:sta.">
+<!ENTITY contactYourProvider.description "&brandShortName; pystyy noutaman postisi näillä asetuksilla. Olisi kuitenkin hyvä huomauttaa järjestelmäsi ylläpitäjälle tai sähköpostipalvelun tarjoajalle näistä epämääräisistä yhteystavoista. Lue lisää aiheesta Thunderbirdin Usein Kysytyistä Kysymyksistä.">
 
 <!ENTITY insecureServer.tooltip.title    "Varoitus! Tämä palvelin ei ole suojattu.">
 <!ENTITY insecureServer.tooltip.details  "Napsauta ympyrää lukeaksesi lisää.">
 
-<!ENTITY insecureUnencrypted.description "Sähköpostisi välitetään selkokielisenä, jonka takia on mahdollista, että asiaankuulumattomat henkilöt lukevat sähköpostejasi. &brandShortName; toimii myös näillä asetuksilla, mutta olisi parempi jos saisit sähköpostipalveluntarjoajasi muuttamaan sähköpostipalvelunsa käyttämään suojattua yhteyttä.">
-<!ENTITY insecureSelfSigned.description  "Palvelin käyttää ei luotettua varmennetta, joten ei voi olla varma ettei joku kolmas osapuoli kaappaa &brandShortName;in ja sähköpostipalvelimen välistä liikennettä. &brandShortName; toimii myös näillä asetuksilla, mutta olisi parempi jos saisit sähköpostipalveluntarjoajasi käyttämään luotettua varmennetta.">
+<!ENTITY insecureUnencrypted.description "Sähköpostisi ja kirjautumistietosi välitetään salaamattomina, joten ulkopuoliset pystyvät helposti lukemaan sähköpostejasi tai selvittämään salasanasi. &brandShortName; toimii myös näillä asetuksilla, mutta olisi parempi jos saisit sähköpostipalveluntarjoajasi muuttamaan sähköpostipalvelunsa käyttämään suojattua yhteyttä.">
+<!ENTITY insecureSelfSigned.description  "Palvelin käyttää varmennetta, johon ei luoteta, joten emme voi taata ettei joku ulkopuolinen kaappaa &brandShortName;in ja sähköpostipalvelimen välistä liikennettä. &brandShortName; toimii myös näillä asetuksilla, mutta olisi parempi jos saisit sähköpostipalveluntarjoajasi käyttämään luotettua varmennetta.">
 <!ENTITY secureServer.description        "Onneksi olkoon! Sähköpostipalvelin on asianmukaisesti suojattu.">
