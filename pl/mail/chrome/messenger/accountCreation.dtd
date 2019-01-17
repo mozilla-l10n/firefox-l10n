@@ -18,6 +18,11 @@
 <!ENTITY rememberPassword.label "Zachowaj hasło">
 <!ENTITY rememberPassword.accesskey "Z">
 
+<!ENTITY usernameEx.label "Nazwa użytkownika:">
+<!ENTITY usernameEx.accesskey "N">
+<!ENTITY usernameEx.placeholder "NAZWA-DOMENY\nazwa-użytkownika">
+<!ENTITY usernameEx.text "Nazwa użytkownika domeny">
+
 <!ENTITY imapLong.label "IMAP (zdalne foldery)">
 <!ENTITY pop3Long.label "POP3 (poczta lokalnie na komputerze)">
 <!ENTITY incoming.label "Serwer poczty przychodzącej:">
