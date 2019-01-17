@@ -5,6 +5,7 @@
 <!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
 
 <!ENTITY viewAll.label "Todo">
+<!ENTITY viewUnread.label "No leídos">
 <!ENTITY viewNotDeleted.label "No borrados">
 <!ENTITY viewTags.label "Etiquetas">
 <!ENTITY viewCustomizeView.label "Personalizar…">
