@@ -44,6 +44,7 @@ app-basics-memory-use = Minnesanvändning
 app-basics-performance = Prestanda
 app-basics-service-workers = Registrerade Service Workers
 app-basics-profiles = Profiler
+app-basics-launcher-process-status = Uppstartsprocess
 app-basics-multi-process-support = Multiprocess fönster
 app-basics-process-count = Webbinnehållsprocesser
 app-basics-enterprise-policies = Företagspolicyer
