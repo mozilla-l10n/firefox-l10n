@@ -212,3 +212,8 @@ extensions-updates-update-selected =
 
 shortcuts-manage =
     .label = Tangentbordsgenvägar
+shortcuts-browserAction = Aktivera tillägg
+shortcuts-modifier-mac = Inkludera Ctrl, Alt eller ⌘
+shortcuts-modifier-other = Inkludera Ctrl eller Alt
+shortcuts-invalid = Ogiltig kombination
+shortcuts-letter = Skriv en bokstav
