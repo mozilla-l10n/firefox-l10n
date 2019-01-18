@@ -440,9 +440,6 @@
 <!ENTITY openMessageWindowCmd.label "Відкрити лист">
 <!ENTITY openMessageWindowCmd.accesskey "В">
 <!ENTITY openMessageWindowCmd.key "o">
-<!ENTITY openConversationCmd.label "Відкрити в розмові">
-<!ENTITY openConversationCmd.accesskey "з">
-<!ENTITY openConversationCmd.key "o">
 <!ENTITY openInConversationCmd.label "Відкрити в розмові">
 <!ENTITY openInConversationCmd.accesskey "к">
 <!ENTITY openInConversationCmd.key "o">
@@ -795,6 +792,8 @@
 <!ENTITY contextMoveMsgMenu.accesskey "е">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Недавні">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "д">
+<!ENTITY contextMoveCopyMsgFavoritesMenu.label "Обране">
+<!ENTITY contextMoveCopyMsgFavoritesMenu.accesskey "О">
 <!ENTITY contextCopyMsgMenu.label "Копіювати в">
 <!ENTITY contextCopyMsgMenu.accesskey "о">
 <!ENTITY contextKillThreadMenu.label "Ігнорувати розмову">
