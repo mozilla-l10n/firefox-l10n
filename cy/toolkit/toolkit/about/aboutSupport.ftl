@@ -44,6 +44,7 @@ app-basics-memory-use = Defnydd o'r cof
 app-basics-performance = Perfformiad
 app-basics-service-workers = Service Workers Cofrestredig
 app-basics-profiles = Proffiliau
+app-basics-launcher-process-status = Proses Lansio
 app-basics-multi-process-support = Ffenestri Amlbroses
 app-basics-process-count = Prosesau Cynnwys Gwe
 app-basics-enterprise-policies = Polisïau Mentrau
@@ -261,6 +262,10 @@ effective-content-sandbox-level = Lefel Blwch Tywod Proses Cynnwys Effeithiol
 sandbox-proc-type-content = cynnwys
 sandbox-proc-type-file = cynnwys ffeil
 sandbox-proc-type-media-plugin = ategyn cyfrwng
+launcher-process-status-0 = Galluogwyd
+launcher-process-status-1 = Analluogwyd oherwydd methiant
+launcher-process-status-2 = Analluogwyd yn orfodol
+launcher-process-status-unknown = Statws anhysbys
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows

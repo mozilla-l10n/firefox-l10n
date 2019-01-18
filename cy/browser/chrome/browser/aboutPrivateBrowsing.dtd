@@ -37,6 +37,9 @@
 <!ENTITY contentBlocking.description                     "Mae rhai gwefannau yn defnyddio tracwyr sy'n monitro eich gweithgaredd ar draws y rhyngrwyd. Mewn ffenestri preifat mae Rhwystro Cynnwys gan Firefox yn rhwystro'n awtomatig unrhyw dracwyr sy'n gallu casglu gwybodaeth am eich ymddygiad pori.">
 
 <!-- Strings for new Private Browsing with Search -->
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.search.placeholder): This is the placeholder
+                       text for the search box.   -->
+<!ENTITY aboutPrivateBrowsing.search.placeholder         "Chwilio'r We">
 <!ENTITY aboutPrivateBrowsing.info.title                 "Rydych mewn Ffenestr Preifat">
 <!ENTITY aboutPrivateBrowsing.info.description           "Mae &brandShortName; yn clirio eich hanes chwilio a phori pan fyddwch yn cau'r ap neu'n cau pob tab a ffenestr Pori Preifat. Er nad yw hyn yn eich gwneud yn ddienw i wefannau neu i'ch darparwr gwasanaeth rhyngrwyd, mae'n ei gwneud yn haws i chi gadw'r hyn rydych chi'n ei wneud ar-lein yn breifat rhag unrhyw un arall sy'n defnyddio'r cyfrifiadur hwn.">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article
