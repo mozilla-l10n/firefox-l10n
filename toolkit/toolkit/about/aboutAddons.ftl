@@ -207,3 +207,20 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = 安装选中的更新
     .tooltiptext = 安装在此列表选中的可用更新
+
+## Extension shortcut management
+
+shortcuts-manage =
+    .label = 键盘快捷键
+shortcuts-empty-message = 此扩展没有快捷键。
+shortcuts-no-addons = 您没有启用任何扩展。
+shortcuts-input =
+    .placeholder = 输入一个快捷键
+shortcuts-browserAction = 激活扩展
+shortcuts-pageAction = 激活页面动作
+shortcuts-sidebarAction = 切换侧栏
+shortcuts-modifier-mac = 包括 Ctrl、Alt 或 ⌘
+shortcuts-modifier-other = 包括 Ctrl 或 Alt
+shortcuts-invalid = 组合无效
+shortcuts-letter = 输入一个字母
+shortcuts-system = 不可覆盖 { -brand-short-name } 的快捷键
