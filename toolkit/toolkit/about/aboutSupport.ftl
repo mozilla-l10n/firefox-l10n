@@ -243,6 +243,7 @@ sandbox-proc-type-file = filinnehåll
 sandbox-proc-type-media-plugin = insticksmodul media
 launcher-process-status-0 = Aktiverad
 launcher-process-status-1 = Inaktiverad på grund av fel
+launcher-process-status-2 = Inaktiverad med tvång
 launcher-process-status-unknown = Okänd status
 # Variables
 # $remoteWindows (integer) - Number of remote windows
