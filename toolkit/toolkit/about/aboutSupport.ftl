@@ -224,6 +224,7 @@ effective-content-sandbox-level = 有效內容處理程序沙盒等級
 sandbox-proc-type-content = 內容
 sandbox-proc-type-file = 檔案內容
 sandbox-proc-type-media-plugin = 媒體外掛程式
+launcher-process-status-unknown = 未知狀態
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
