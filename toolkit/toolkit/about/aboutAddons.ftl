@@ -207,3 +207,20 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Gosod Diweddariadau
     .tooltiptext = Gosod diweddariadau sydd ar gael o'r rhestr
+
+## Extension shortcut management
+
+shortcuts-manage =
+    .label = Llwybrau Byr Bysellfwrdd
+shortcuts-empty-message = Nid oes llwybrau byr ar gyfer yr estyniad hwn.
+shortcuts-no-addons = Nid oes gennych unrhyw estyniadau wedi'u galluogi.
+shortcuts-input =
+    .placeholder = Teipiwch llwybr byr
+shortcuts-browserAction = Cychwyn estyniad
+shortcuts-pageAction = Cychwyn gweithred tudalen
+shortcuts-sidebarAction = Toglo'r bar ochr
+shortcuts-modifier-mac = Cynnwys Ctrl, Alt, neu ⌘
+shortcuts-modifier-other = Cynnwys Ctrl neu Alt
+shortcuts-invalid = Cyfuniad annilys
+shortcuts-letter = Teipiwch lythyr
+shortcuts-system = Methu anwybyddu llwybr byr { -brand-short-name }
