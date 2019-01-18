@@ -212,6 +212,7 @@ extensions-updates-update-selected =
 
 shortcuts-manage =
     .label = Tangentbordsgenvägar
+shortcuts-no-addons = Du har inga tillägg aktiverade.
 shortcuts-browserAction = Aktivera tillägg
 shortcuts-modifier-mac = Inkludera Ctrl, Alt eller ⌘
 shortcuts-modifier-other = Inkludera Ctrl eller Alt
