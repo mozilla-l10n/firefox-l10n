@@ -603,6 +603,7 @@ sitedata-keep-until-closed =
 sitedata-delete-on-close =
     .label = 關閉 { -brand-short-name } 時清除 Cookie 與網站資料
     .accesskey = C
+sitedata-delete-on-close-private-browsing = 在永久隱私瀏覽模式下，每次關閉 { -brand-short-name } 時就會清除 Cookie 與網站資料。
 sitedata-allow-cookies-option =
     .label = 允許網站設定 Cookie 與網站資料
     .accesskey = A
