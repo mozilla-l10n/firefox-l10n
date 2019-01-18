@@ -207,3 +207,8 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Installera uppdateringar
     .tooltiptext = Installerar tillgängliga uppdateringar från listan
+
+## Extension shortcut management
+
+shortcuts-manage =
+    .label = Tangentbordsgenvägar
