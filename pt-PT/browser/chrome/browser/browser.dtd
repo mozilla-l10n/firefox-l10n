@@ -883,6 +883,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsReloadHint "Poderá ter de recarregar a página para as alterações se aplicarem.">
 <!ENTITY identity.permissionsPreferences.tooltip "Abrir preferências de permissões">
 
+<!ENTITY identity.contentBlockingPreferences.tooltip "Abrir preferências do bloqueio de conteúdo">
+
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Separadores do navegador">
