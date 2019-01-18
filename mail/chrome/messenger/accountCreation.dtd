@@ -19,6 +19,13 @@
 <!ENTITY rememberPassword.label          "Запам’ятати пароль">
 <!ENTITY rememberPassword.accesskey      "з">
 
+<!ENTITY usernameEx.label                "Ваше ім'я користувача:">
+<!ENTITY usernameEx.accesskey            "м">
+<!-- LOCALIZATION NOTE(usernameEx.placeholder): YOURDOMAIN refers to the Windows domain in ActiveDirectory. yourusername refers to the user's account name in Windows. -->
+<!ENTITY usernameEx.placeholder          "ДОМЕН\користувач">
+<!-- LOCALIZATION NOTE(usernameEx.text): Domain refers to the Windows domain in ActiveDirectory. We mean the user's login in Windows at the local corporate network. -->
+<!ENTITY usernameEx.text                 "Ім'я користувача домену">
+
 <!ENTITY imapLong.label                  "IMAP (віддалені теки)">
 <!ENTITY pop3Long.label                  "POP3 (зберігати пошту на вашому комп’ютері)">
 
