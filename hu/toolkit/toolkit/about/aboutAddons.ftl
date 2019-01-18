@@ -207,3 +207,20 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Frissítések telepítése
     .tooltiptext = A listán szereplő frissítések telepítése
+
+## Extension shortcut management
+
+shortcuts-manage =
+    .label = Gyorsbillentyűk
+shortcuts-empty-message = Ennek a kiegészítőnek nincsenek gyorsbillentyűi.
+shortcuts-no-addons = Nincs egyetlen kiterjesztés sem engedélyezve.
+shortcuts-input =
+    .placeholder = Írjon be egy gyorsbillentyűt
+shortcuts-browserAction = Kiegészítő aktiválása
+shortcuts-pageAction = Lapművelet aktiválása
+shortcuts-sidebarAction = Oldalsáv be/ki
+shortcuts-modifier-mac = Ctrl, Alt vagy ⌘ gombot tartalmaz
+shortcuts-modifier-other = Ctrl vagy Alt gombot tartalmaz
+shortcuts-invalid = Érvénytelen kombináció
+shortcuts-letter = Írjon be egy betűt
+shortcuts-system = Nem írhat felül egy { -brand-short-name } gyorsbillentyűt
