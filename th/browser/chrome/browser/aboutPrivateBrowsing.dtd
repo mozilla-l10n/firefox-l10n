@@ -37,6 +37,9 @@
 <!ENTITY contentBlocking.description                     "บางเว็บไซต์ใช้ตัวติดตามที่สามารถเฝ้าสังเกตกิจกรรมของคุณทั่วทั้งอินเทอร์เน็ต ในหน้าต่างส่วนตัว Firefox Content Blocking จะบล็อกตัวติดตามจำนวนมากโดยอัตโนมัติ ตัวติดตามเหล่านี้สามารถเก็บรวบรวมข้อมูลเกี่ยวกับพฤติกรรมการท่องเว็บของคุณ">
 
 <!-- Strings for new Private Browsing with Search -->
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.search.placeholder): This is the placeholder
+                       text for the search box.   -->
+<!ENTITY aboutPrivateBrowsing.search.placeholder         "ค้นหาเว็บ">
 <!ENTITY aboutPrivateBrowsing.info.title                 "คุณอยู่ในหน้าต่างส่วนตัว">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article
                        about private browsing myths.   -->
