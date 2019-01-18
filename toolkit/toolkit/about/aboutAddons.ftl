@@ -211,3 +211,8 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = 安裝更新
     .tooltiptext = 安裝此清單中可用的更新
+
+## Extension shortcut management
+
+shortcuts-modifier-mac = 包含 Ctrl、Alt 或 ⌘
+shortcuts-modifier-other = 包含 Ctrl 或 Alt
