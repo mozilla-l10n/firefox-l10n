@@ -47,6 +47,7 @@ app-basics-memory-use = 記憶體使用量
 app-basics-performance = 效能
 app-basics-service-workers = 已註冊的 Service Workers
 app-basics-profiles = 設定檔
+app-basics-launcher-process-status = 啟動器 Process
 app-basics-multi-process-support = 多程序視窗
 app-basics-process-count = 網頁內容處理程序
 app-basics-enterprise-policies = 企業政策
@@ -224,6 +225,9 @@ effective-content-sandbox-level = 有效內容處理程序沙盒等級
 sandbox-proc-type-content = 內容
 sandbox-proc-type-file = 檔案內容
 sandbox-proc-type-media-plugin = 媒體外掛程式
+launcher-process-status-0 = 啟用
+launcher-process-status-1 = 由於失敗而停用
+launcher-process-status-2 = 強制停用
 launcher-process-status-unknown = 未知狀態
 # Variables
 # $remoteWindows (integer) - Number of remote windows

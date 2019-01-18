@@ -214,5 +214,17 @@ extensions-updates-update-selected =
 
 ## Extension shortcut management
 
+shortcuts-manage =
+    .label = 快速鍵
+shortcuts-empty-message = 此擴充套件沒有用到快速鍵。
+shortcuts-no-addons = 您並未啟用任何擴充套件。
+shortcuts-input =
+    .placeholder = 輸入快速鍵
+shortcuts-browserAction = 啟用快速鍵
+shortcuts-pageAction = 啟用頁面操作
+shortcuts-sidebarAction = 切換側邊欄
 shortcuts-modifier-mac = 包含 Ctrl、Alt 或 ⌘
 shortcuts-modifier-other = 包含 Ctrl 或 Alt
+shortcuts-invalid = 無效的快速鍵
+shortcuts-letter = 按下一個字母
+shortcuts-system = 無法蓋過 { -brand-short-name } 的快速鍵
