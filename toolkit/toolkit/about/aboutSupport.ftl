@@ -44,6 +44,7 @@ app-basics-memory-use = Memóriahasználat
 app-basics-performance = Teljesítmény
 app-basics-service-workers = Regisztrált Service Workerek
 app-basics-profiles = Profilok
+app-basics-launcher-process-status = Indító folyamat
 app-basics-multi-process-support = Több folyamatú ablakok
 app-basics-process-count = Webes tartalomfolyamat
 app-basics-enterprise-policies = Vállalati házirendek
@@ -241,6 +242,10 @@ effective-content-sandbox-level = Tartalomfolyamat tényleges sandboxing szintje
 sandbox-proc-type-content = tartalom
 sandbox-proc-type-file = fájltartalom
 sandbox-proc-type-media-plugin = médiabővítmény
+launcher-process-status-0 = Engedélyezve
+launcher-process-status-1 = Hiba miatt letiltva
+launcher-process-status-2 = Kényszerítve letiltva
+launcher-process-status-unknown = Ismeretlen állapot
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
