@@ -883,6 +883,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsReloadHint "您可能需要重新载入此页面以应用更改。">
 <!ENTITY identity.permissionsPreferences.tooltip "打开权限偏好设置">
 
+<!ENTITY identity.contentBlockingPreferences.tooltip "打开内容拦截首选项">
+
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "浏览器标签页">

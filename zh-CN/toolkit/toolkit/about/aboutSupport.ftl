@@ -47,6 +47,7 @@ app-basics-memory-use = 内存使用
 app-basics-performance = 性能
 app-basics-service-workers = 已注册的 Service Worker
 app-basics-profiles = 配置文件
+app-basics-launcher-process-status = 启动器进程
 app-basics-multi-process-support = 多进程窗口
 app-basics-process-count = 网页内容处理进程
 app-basics-enterprise-policies = 企业策略
@@ -224,6 +225,10 @@ effective-content-sandbox-level = 生效的内容进程沙盒级别
 sandbox-proc-type-content = 内容
 sandbox-proc-type-file = 文件内容
 sandbox-proc-type-media-plugin = 媒体插件
+launcher-process-status-0 = 启用
+launcher-process-status-1 = 因故障而禁用
+launcher-process-status-2 = 强制禁用
+launcher-process-status-unknown = 未知状态
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
