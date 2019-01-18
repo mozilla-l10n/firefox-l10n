@@ -882,6 +882,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsReloadHint "คุณอาจจำเป็นต้องโหลดหน้าใหม่เพื่อให้การเปลี่ยนแปลงมีผล">
 <!ENTITY identity.permissionsPreferences.tooltip "เปิดค่ากำหนดการอนุญาต">
 
+<!ENTITY identity.contentBlockingPreferences.tooltip "เปิดค่ากำหนดการปิดกั้นเนื้อหา">
+
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "แท็บเบราว์เซอร์">
