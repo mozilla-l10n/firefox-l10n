@@ -37,6 +37,9 @@
 <!ENTITY contentBlocking.description                     "Néhány weboldala követőket használ, hogy kövesse a tevékenységét az interneten. A privát ablakokban a Firefox tartalomblokkolás automatikusan blokkol számos követőt, melyek információkat gyűjtenek a böngészési tevékenységéről.">
 
 <!-- Strings for new Private Browsing with Search -->
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.search.placeholder): This is the placeholder
+                       text for the search box.   -->
+<!ENTITY aboutPrivateBrowsing.search.placeholder         "Keresés a weben">
 <!ENTITY aboutPrivateBrowsing.info.title                 "Jelenleg privát ablakban van">
 <!ENTITY aboutPrivateBrowsing.info.description           "A &brandShortName; törli a keresési és böngészési előzményeit, ha kilép az alkalmazásból, vagy bezárja az összes privát böngészi lapot és ablakot. Ugyan ez nem teszi névtelenné a weboldalak vagy a szolgáltatója felé, könnyebbé teszi, hogy bizalmasan kezelje az online tevékenységét, és más ne tudjon róla, aki ezt a számítógépet használja.">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article

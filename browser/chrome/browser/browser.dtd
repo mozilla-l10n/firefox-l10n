@@ -883,6 +883,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsReloadHint "Lehet hogy újra kell töltenie az oldalt a változások érvényesítéséhez.">
 <!ENTITY identity.permissionsPreferences.tooltip "Engedélybeállítások megnyitása">
 
+<!ENTITY identity.contentBlockingPreferences.tooltip "Tartalomblokkolási beállítások megnyitása">
+
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Böngészőlapok">
