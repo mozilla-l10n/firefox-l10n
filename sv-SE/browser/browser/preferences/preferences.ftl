@@ -615,6 +615,7 @@ sitedata-keep-until-closed =
 sitedata-delete-on-close =
     .label = Ta bort kakor och webbplatsdata när { -brand-short-name } stängs
     .accesskey = k
+sitedata-delete-on-close-private-browsing = I permanent privat surfningsläge raderas alltid cookies och webbplatsdata när { -brand-short-name } är stängd.
 sitedata-allow-cookies-option =
     .label = Tillåt kakor och webbplatsdata
     .accesskey = T
