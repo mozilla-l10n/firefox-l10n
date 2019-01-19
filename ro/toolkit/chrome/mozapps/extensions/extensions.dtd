@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY addons.windowTitle                   "Manager de suplimente">
 
-<!ENTITY search.placeholder2                  "Caută pe addons.mozilla.org">
-
 <!ENTITY search.placeholder3                  "Caută pe addons.mozilla.org">
 <!ENTITY search.buttonlabel                   "Căutare">
 <!-- LOCALIZATION NOTE (search.commandkey):
@@ -14,15 +12,12 @@
 <!ENTITY loading.label                        "Se încarcă…">
 <!ENTITY listEmpty.installed.label            "Nu ai vreun supliment de acest tip instalat">
 <!ENTITY listEmpty.availableUpdates.label     "Nicio actualizare găsită">
-<!ENTITY listEmpty.recentUpdates.label        "Nu ați actualizat recent niciun supliment">
+<!ENTITY listEmpty.recentUpdates.label        "Nu ai actualizat recent niciun supliment">
 <!ENTITY listEmpty.findUpdates.label          "Caută actualizări">
 <!ENTITY listEmpty.button.label               "Află mai multe despre suplimente">
 <!ENTITY installAddonFromFile.label           "Instalează un supliment dintr-un fișier…">
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "Instrumente pentru toate suplimentele">
-
-<!ENTITY getThemes.description                "Dorești să personalizezi browserul?">
-<!ENTITY getThemes.learnMore                  "Alege dintre mii de teme.">
 
 
 <!ENTITY showUnsignedExtensions.button.label  "Unele extensii nu au putut fi verificate">
@@ -87,6 +82,7 @@
 <!ENTITY cmd.preferencesUnix.label            "Preferințe">
 <!ENTITY cmd.preferencesUnix.accesskey        "P">
 
+<!-- addon actions -->
 <!ENTITY cmd.enableAddon.label                "Activează">
 <!ENTITY cmd.enableAddon.accesskey            "e">
 <!ENTITY cmd.disableAddon.label               "Dezactivează">
@@ -164,6 +160,8 @@
 
 <!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "Pauză">
+
+<!-- download/install progress -->
 <!ENTITY progress.cancel.tooltip              "Renunță">
 
 <!ENTITY addon.homepage                       "Pagină de start">
