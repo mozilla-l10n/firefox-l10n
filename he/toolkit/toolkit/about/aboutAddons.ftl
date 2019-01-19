@@ -209,3 +209,12 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = התקנת עדכונים
     .tooltiptext = התקנת העדכונים הזמינים ברשימה זו
+
+## Extension shortcut management
+
+shortcuts-manage =
+    .label = קיצורי מקלדת
+shortcuts-empty-message = אין קיצורי דרך עבור הרחבה זו.
+shortcuts-no-addons = אין לך הרחבות מופעלות.
+shortcuts-input =
+    .placeholder = נא להקליד קיצור דרך

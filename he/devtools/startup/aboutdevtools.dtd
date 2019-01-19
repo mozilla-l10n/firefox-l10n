@@ -64,7 +64,7 @@
   -  See Bug 1415273 for support of additional languages.-->
 <!ENTITY  aboutDevtools.newsletter.message "קבלת חדשות, טריקים ומשאבים ישירות לתיבת הדואר הנכנס שלך.">
 <!ENTITY  aboutDevtools.newsletter.email.placeholder "דוא״ל">
-<!ENTITY  aboutDevtools.newsletter.privacy.label "מקובל עליי שצוות Mozilla יטפל במידע שלי כפי שמפורט ב<a class='external' href='https://www.mozilla.org/privacy/'>מדיניות הפרטיות</a> הזו.">
+<!ENTITY  aboutDevtools.newsletter.privacy.label "מקובל עליי שצוות Mozilla יטפל במידע שלי כפי שמפורט ב<a class='external' href='https://www.mozilla.org/privacy/'>מדיניות הפרטיות</a>.">
 <!ENTITY  aboutDevtools.newsletter.subscribeButton "הרשמה">
 <!ENTITY  aboutDevtools.newsletter.thanks.title "תודה!">
 <!ENTITY  aboutDevtools.newsletter.thanks.message "אם טרם אישרת מינוי לקבוצת דיוור בנושאי Mozilla יתכן שיהיה עליך לעשות זאת. נא לחפש בתיבת הדואר הנכנס או הספאם שלך אם הגיעה הודעה מאתנו.">

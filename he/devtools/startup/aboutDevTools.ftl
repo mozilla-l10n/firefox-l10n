@@ -18,7 +18,7 @@ newsletter-title = Mozilla Developer Newsletter
 newsletter-message = קבלת חדשות, טריקים ומשאבים ישירות לתיבת הדואר הנכנס שלך.
 newsletter-email-placeholder =
     .placeholder = דוא״ל
-newsletter-privacy-label = מקובל עליי שצוות Mozilla יטפל במידע שלי כפי שמפורט ב<a data-l10n-name="privacy-policy">מדיניות הפרטיות</a> הזו.
+newsletter-privacy-label = מקובל עליי שצוות Mozilla יטפל במידע שלי כפי שמפורט ב<a data-l10n-name="privacy-policy">מדיניות הפרטיות</a>.
 newsletter-subscribe-button = הרשמה
 newsletter-thanks-title = תודה!
 newsletter-thanks-message = אם טרם אישרת מינוי לקבוצת דיוור בנושאי Mozilla יתכן שיהיה עליך לעשות זאת. נא לחפש בתיבת הדואר הנכנס או הספאם שלך אם הגיעה הודעה מאתנו.
