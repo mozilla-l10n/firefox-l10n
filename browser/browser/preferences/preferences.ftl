@@ -618,6 +618,7 @@ sitedata-keep-until-closed =
 sitedata-delete-on-close =
     .label = Ištrinti slapukus ir svetainių duomenis uždarant „{ -brand-short-name }“
     .accesskey = s
+sitedata-delete-on-close-private-browsing = Nuolatinėje privačiojo naršymo veiksenoje slapukai ir svetainių duomenys bus visada išvalomi užveriant „Firefox“.
 sitedata-allow-cookies-option =
     .label = Priimti slapukus ir svetainių duomenis
     .accesskey = P

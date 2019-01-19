@@ -30,7 +30,18 @@
 
 <!ENTITY trackingProtection.title                        "Apsauga nuo stebėjimo">
 <!ENTITY trackingProtection.description2                 "Kai kurios svetainės naudoja elementus, galinčius stebėti jūsų veiklą internete. Su apsauga nuo stebėjimo „Firefox“ blokuos daugumą tokių elementų, galinčių rinkti informaciją apie jūsų naršymo įpročius.">
+
 <!ENTITY trackingProtection.startTour1                   "Pamatykite kaip tai veikia">
 
 <!ENTITY contentBlocking.title                           "Turinio blokavimas">
 <!ENTITY contentBlocking.description                     "Kai kurios svetainės naudoja elementus, galinčius stebėti jūsų veiklą internete. Privačiojo naršymo languose „Firefox“ turinio blokavimas automatiškai blokuoja daugumą tokių elementų, galinčių rinkti informaciją apie jūsų naršymo įpročius.">
+
+<!-- Strings for new Private Browsing with Search -->
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.search.placeholder): This is the placeholder
+                       text for the search box.   -->
+<!ENTITY aboutPrivateBrowsing.search.placeholder         "Ieškokite saityne">
+<!ENTITY aboutPrivateBrowsing.info.title                 "Esate privačiojo naršymo lange">
+<!ENTITY aboutPrivateBrowsing.info.description           "„&brandShortName;“ išvalo jūsų paieškos ir naršymo žurnalą kai išjungiate programą, arba užveriate visas privačiojo naršymo korteles ir langus. Nors tai ir nepadaro jūsų anonimu internete, taip lengviau galite išlaikyti savo privatumą nuo kitų šiuo kompiuteriu besinaudojančių žmonių.">
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article
+                       about private browsing myths.   -->
+<!ENTITY aboutPrivateBrowsing.info.myths                 "Dažni mitai apie privatųjį naršymą">
