@@ -11,8 +11,8 @@
 <!ENTITY returnToPreviousPage1.label "חזרה (מומלץ)">
 <!ENTITY advanced.label "מתקדם">
 <!ENTITY continue2.label "עוד…">
+<!ENTITY advanced2.label "מתקדם…">
 <!ENTITY moreInformation.label "מידע נוסף">
-
 <!ENTITY viewCertificate.label "הצגת אישור">
 
 <!-- Specific error messages -->
@@ -138,9 +138,6 @@ will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "הבעלים של <span class='hostname'/> הגדירו את האתר שלהם בצורה לקויה.  על מנת להגן על המידע שלך מפני גניבה, &brandShortName; לא התחבר לאתר זה.">
 <!ENTITY certerror.introPara2 "‏&brandShortName; זיהה איום אבטחה אפשרי ולא המשיך אל <span class='hostname'/>. אם ברצונך לבקר באתר זה, תוקפים יכולים לנסות לגנוב מידע כמו הססמאות, הודעות דוא״ל או פרטי כרטיס האשראי שלך.">
-
-<!ENTITY certerror.expiredCert.secondPara "תקלה זו מתרחשת בעיקר עקב שעה שגויה בשעון שלך, מה שעשוי למנוע מ־&brandShortName; להתחבר באופן מאובטח.">
-
 <!ENTITY certerror.sts.introPara "‏&brandShortName; זיהה איום אבטחה אפשרי ולא המשיך אל <span class='hostname'/> מכיוון שאתר זה דורש חיבור מאובטח.">
 
 <!ENTITY certerror.expiredCert.introPara "‏&brandShortName; זיהה איום אבטחה אפשרי ולא המשיך אל <span class='hostname'/>. האתר לא מוגדר כראוי, או ששעון המחשב שלך לא מוגדר לשעה הנכונה.">
@@ -203,6 +200,13 @@ Strict Transport Security (HSTS) כדי לציין ש־&brandShortName; יוכל
 <!ENTITY inadequateSecurityError.longDesc "<p>האתר בכתובת <span class='hostname'></span> משתמש בטכנולוגית אבטחה שאינה עדכנית וחשופה להתקפות. תוקף יכול בקלות לחשוף מידע שלכאורה אמור היה להיות מוגן. על מנהל האתר לתקן את השרת לפני שיהיה ניתן לבקר באתר זה.</p><p>קוד שגיאה: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "עמוד חסום">
+
+<!ENTITY certerror.mitm.title "תכנית כלשהי מונעת מ־&brandShortName; להתחבר באופן מאובטח לאתר הזה">
+<!ENTITY certerror.mitm.longDesc "‏<span class='hostname'></span> הוא ככל הנראה אתר בטוח, אך לא ניתן היה ליצור חיבור מאובטח. בעיה זו נגרמת על־ידי <span class='mitm-name'/>, שהיא תוכנה במחשב או ברשת שלך.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "אם תכנית האנטי־וירוס שלך כוללת תכונה הסורקת חיבורים מוצפנים (המכונה לעתים קרובות ”סריקת אינטרנט” או ”סריקת https”), ניתן לנסות להשבית את התכונה. אם פעולה זו לא סייעה בפתרון התקלה, באפשרותך להסיר ולהתקין מחדש את תכנית האנטי־וירוס.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "אם מחשב זה הוא חלק ממערך ארגוני, ניתן ליצור קשר עם מחלקת המחשוב שלך.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "אם <span class='mitm-name'/> אינו מוכר לך, יתכן שמדובר בתקיפה ושאולי מוטב לך לא להמשיך אל האתר.">
+<!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "אם <span class='mitm-name'/> אינו מוכר לך, יתכן שמדובר בתקיפה ואין לך אף דרך להמשיך אל האתר.">
 
 <!ENTITY clockSkewError.title "השעון של המחשב שלך אינו מכוון">
 <!ENTITY clockSkewError.longDesc "המחשב שלך משוכנע שעכשיו <span id='wrongSystemTime_systemDate1'/>, מה שמונע מ־&brandShortName; ליצור חיבורים מאובטחים. כדי לבקר ב־<span class='hostname'></span>, נא לעדכן את השעון של המחשב שלך בהגדרות המערכת לשעה, התאריך ואזור הזמן הנוכחיים ואז לרענן את <span class='hostname'></span>.">
