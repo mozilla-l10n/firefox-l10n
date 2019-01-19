@@ -19,6 +19,13 @@
 <!ENTITY rememberPassword.label          "Απομνημόνευση κωδικού πρόσβασης">
 <!ENTITY rememberPassword.accesskey      "μ">
 
+<!ENTITY usernameEx.label                "Η σύνδεσή σας:">
+<!ENTITY usernameEx.accesskey            "σ">
+<!-- LOCALIZATION NOTE(usernameEx.placeholder): YOURDOMAIN refers to the Windows domain in ActiveDirectory. yourusername refers to the user's account name in Windows. -->
+<!ENTITY usernameEx.placeholder          "ΟΤΟΜΕΑΣΣΑΣ\τοόνομαχρήστησας">
+<!-- LOCALIZATION NOTE(usernameEx.text): Domain refers to the Windows domain in ActiveDirectory. We mean the user's login in Windows at the local corporate network. -->
+<!ENTITY usernameEx.text                 "Σύνδεση τομέα">
+
 <!ENTITY imapLong.label                  "IMAP (απομακρυσμένοι φάκελοι)">
 <!ENTITY pop3Long.label                  "POP3 (διατήρηση των e-mails στον υπολογιστή σας)">
 
