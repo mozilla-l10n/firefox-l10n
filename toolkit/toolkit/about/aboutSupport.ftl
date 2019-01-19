@@ -254,6 +254,8 @@ sandbox-proc-type-file = datajowy wobsah
 sandbox-proc-type-media-plugin = medijowy tykač
 launcher-process-status-0 = Zmóžnjeny
 launcher-process-status-1 = Zmylka dla znjemóžnjeny
+launcher-process-status-2 = Namócnje znjemóžnjeny
+launcher-process-status-unknown = Njeznaty status
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
