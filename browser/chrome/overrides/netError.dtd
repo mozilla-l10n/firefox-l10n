@@ -11,6 +11,7 @@
 <!ENTITY returnToPreviousPage1.label "Vés enrere (recomanat)">
 <!ENTITY advanced.label "Avançat">
 <!ENTITY continue2.label "Més…">
+<!ENTITY advanced2.label "Avançat…">
 <!ENTITY moreInformation.label "Més informació">
 <!ENTITY viewCertificate.label "Mostra el certificat">
 
@@ -93,12 +94,15 @@
 
 <!ENTITY certerror.longpagetitle1 "La connexió no és segura">
 <!ENTITY certerror.longpagetitle2 "Avís: Risc potencial de seguretat">
+<!ENTITY certerror.sts.longpagetitle  "No s'ha connectat: Problema potencial de seguretat">
 <!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "El propietari de <span class='hostname'/> ha configurat el lloc web incorrectament. Per protegir la vostra informació contra robatori, el &brandShortName; no s'ha connectat a aquest lloc web.">
 <!ENTITY certerror.introPara2 "El &brandShortName; ha detectat una amenaça potencial de seguretat i ha interromput la connexió a <span class='hostname'/>. Si visiteu aquest lloc, els atacants podrien robar informació com ara contrasenyes, correus electrònics o detalls de targetes de crèdit.">
+<!ENTITY certerror.sts.introPara "El &brandShortName; ha detectat una amenaça potencial de seguretat i ha interromput la connexió a <span class='hostname'/> perquè aquest lloc web requereix una connexió segura.">
 
+<!ENTITY certerror.expiredCert.introPara "El &brandShortName; ha detectat un problema i ha interromput la connexió a <span class='hostname'/>. El lloc web està mal configurat o bé l'hora del vostre ordinador no és correcta.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Què hi podeu fer?">
 
@@ -147,6 +151,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.pagetitle1  "Connexió insegura">
 <!ENTITY certerror.pagetitle2  "Avís: Risc potencial de seguretat">
+<!ENTITY certerror.sts.pagetitle  "No s'ha connectat: Problema potencial de seguretat">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Aquest lloc utilitza HSTS (HTTP Strict Transport Security), que vol dir que el &brandShortName; només s'hi pot connectar de forma segura. Per tant, no és possible afegir cap excepció per a aquest certificat.">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> té una política de seguretat anomenada «HTTP Strict Transport Security» (Seguretat estricta de transport HTTP, o HSTS), que vol dir que el &brandShortName; només pot connectar-s'hi de forma segura. No podeu afegir cap excepció per visitar aquest lloc.">
 <!ENTITY certerror.copyToClipboard.label "Copia el text al porta-retalls">
