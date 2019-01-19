@@ -207,3 +207,20 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Aktualizacije instalować
     .tooltiptext = K dispoziciji stejace aktualizacije z lisćiny instalować
+
+## Extension shortcut management
+
+shortcuts-manage =
+    .label = Tastowe skrótšenki
+shortcuts-empty-message = Tastowe skrótšenki za tute rozšěrjenje njejsu.
+shortcuts-no-addons = Njejśce žane rozšěrjenja zmóžnił.
+shortcuts-input =
+    .placeholder = Zapodajće tastowu skrótšenku
+shortcuts-browserAction = Rozšěrjenje aktiwizować
+shortcuts-pageAction = Akciju strony aktiwizować
+shortcuts-sidebarAction = Bóčnicu přepinać
+shortcuts-modifier-mac = Strg, Alt abo ⌘ zapřijeć
+shortcuts-modifier-other = Strg abo Alt zapřijeć
+shortcuts-invalid = Njepłaćiwa kombinacija
+shortcuts-letter = Zapodajće pismik
+shortcuts-system = Tastowa skrótšenka { -brand-short-name } njeda so přepisać
