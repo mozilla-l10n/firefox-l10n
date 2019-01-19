@@ -440,9 +440,6 @@
 <!ENTITY openMessageWindowCmd.label "Άνοιγμα μηνύματος">
 <!ENTITY openMessageWindowCmd.accesskey "ν">
 <!ENTITY openMessageWindowCmd.key "o">
-<!ENTITY openConversationCmd.label "Άνοιγμα σε συζήτηση">
-<!ENTITY openConversationCmd.accesskey "ζ">
-<!ENTITY openConversationCmd.key "o">
 <!ENTITY openInConversationCmd.label "Άνοιγμα στις συζητήσεις">
 <!ENTITY openInConversationCmd.accesskey "ζ">
 <!ENTITY openInConversationCmd.key "o">
@@ -795,6 +792,8 @@
 <!ENTITY contextMoveMsgMenu.accesskey "Μ">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Πρόσφατα">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "φ">
+<!ENTITY contextMoveCopyMsgFavoritesMenu.label "Αγαπημένα">
+<!ENTITY contextMoveCopyMsgFavoritesMenu.accesskey "Α">
 <!ENTITY contextCopyMsgMenu.label "Αντιγραφή σε">
 <!ENTITY contextCopyMsgMenu.accesskey "ι">
 <!ENTITY contextKillThreadMenu.label "Αγνόηση νήματος">
