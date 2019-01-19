@@ -58,13 +58,29 @@
 <!ENTITY calendar.nextmonth.label               "Mense successive" >
 <!ENTITY calendar.prevmonth.label               "Mense precedente" >
 
+<!ENTITY calendar.navigation.nextday.tooltip    "Un die avante" >
+<!ENTITY calendar.navigation.prevday.tooltip    "Un die retro" >
+<!ENTITY calendar.navigation.nextweek.tooltip   "Un septimana avante" >
+<!ENTITY calendar.navigation.prevweek.tooltip   "Un septimana retro" >
+<!ENTITY calendar.navigation.nextmonth.tooltip  "Un mense avante" >
+<!ENTITY calendar.navigation.prevmonth.tooltip  "Un mense retro" >
 
+<!ENTITY calendar.newevent.button.label         "Nove evento" >
+<!ENTITY calendar.newtask.button.label          "Nove activitate" >
 <!ENTITY calendar.print.button.label            "Imprimer" >
+<!ENTITY calendar.print.button.accesskey        "S">
 
 <!ENTITY calendar.day.button.label              "Die" >
 <!ENTITY calendar.week.button.label             "Septimana" >
 <!ENTITY calendar.month.button.label            "Mense" >
+<!ENTITY calendar.multiweek.button.label        "Multe-septimana" >
+<!ENTITY calendar.displaytodos.checkbox.label   "Activitates in le vista" >
+<!ENTITY calendar.displaytodos.checkbox.accesskey "c" >
+<!ENTITY calendar.completedtasks.checkbox.label     "Monstrar activitates completate" >
+<!ENTITY calendar.completedtasks.checkbox.accesskey "c" >
 
+<!ENTITY calendar.orientation.label "Rotar le vista" >
+<!ENTITY calendar.orientation.accesskey "o" >
 
 
 
