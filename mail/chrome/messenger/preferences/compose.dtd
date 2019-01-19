@@ -41,7 +41,7 @@
 <!ENTITY languagePopup.accessKey              "I">
 <!ENTITY downloadDictionaries.label           "Descarregar mais dicionários">
 
-<!ENTITY warnOnSendAccelKey.label             "Confirmação ao atalhos do teclado para enviar mensagem">
+<!ENTITY warnOnSendAccelKey.label             "Confirmar quando utilizar atalhos de teclado para enviar mensagem">
 <!ENTITY warnOnSendAccelKey.accesskey         "C">
 <!ENTITY autoSave.label                       "Guardar automaticamente a cada">
 <!ENTITY autoSave.accesskey                   "a">
