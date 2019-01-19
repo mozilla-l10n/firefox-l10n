@@ -12,7 +12,7 @@
 
 <!ENTITY replyQuoteInline.label               "Citar anexos vistos inline nas respostas">
 <!ENTITY replyQuoteInline.accesskey           "C">
-<!ENTITY warnOnSendAccelKey.label             "Confirmar quando usar atalhos do teclado para enviar mensagem">
+<!ENTITY warnOnSendAccelKey.label             "Confirmar quando utilizar atalhos de teclado para enviar mensagem">
 <!ENTITY warnOnSendAccelKey.accesskey         "t">
 <!-- LOCALIZATION NOTE (autoSave.label): This will concatenate with
      "xxx minutes", using a number and (autoSaveEnd.label). -->
