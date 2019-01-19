@@ -12,11 +12,11 @@ findbar-previous =
 findbar-find-button-close =
     .tooltiptext = סגירת סרגל החיפוש
 findbar-highlight-all =
-    .label = הדגשת הכול
+    .label = הדגשת כל המופעים
     .accesskey = ד
     .tooltiptext = הדגשת כל המופעים של הביטוי
 findbar-highlight-all2 =
-    .label = הדגשת הכל
+    .label = הדגשת כל המופעים
     .accesskey =
         { PLATFORM() ->
             [macos] ג
