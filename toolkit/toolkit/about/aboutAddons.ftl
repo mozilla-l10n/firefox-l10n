@@ -207,3 +207,9 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Установить обновления
     .tooltiptext = Установить доступные обновления из этого списка
+
+## Extension shortcut management
+
+shortcuts-manage =
+    .label = Горячие клавиши
+shortcuts-invalid = Неверная комбинация
