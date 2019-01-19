@@ -173,6 +173,8 @@ hardware-h264 = קידוד H264 באמצעות חומרה
 main-thread-no-omtc = תהליך ראשי, אין OMTC
 yes = כן
 no = לא
+unknown = לא ידוע
+virtual-monitor-disp = תצוגת צג וירטואלי
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
@@ -206,10 +208,13 @@ d3d9video-crash-buard = מפענח הווידאו D3D9
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = איפוס בהפעלה מחדש הבאה
 gpu-process-kill-button = סיום תהליך GPU
+gpu-device-reset = איפוס מכשיר
 gpu-device-reset-button = הפעלת איפוס התקן
 uses-tiling = שימוש בריצוף
 content-uses-tiling = שימוש בריצוף (תוכן)
 off-main-thread-paint-enabled = ציור מחוץ להליך הראשי מופעל
+low-end-machine = זוהתה מכונה חלשה יותר
+target-frame-rate = קצב תמונות ייעודי
 audio-backend = מנגנון שמע
 max-audio-channels = מספר הערוצים המרבי
 channel-layout = פריסת הערוצים המועדפת
@@ -224,6 +229,10 @@ can-sandbox-media = ארגז חול לתוספים חיצוניים עבור מ�
 sandbox-proc-type-content = תוכן
 sandbox-proc-type-file = תוכן קובץ
 sandbox-proc-type-media-plugin = תוסף מדיה
+launcher-process-status-0 = מופעל
+launcher-process-status-1 = מושבת עקב כשל
+launcher-process-status-2 = מושבת בכוח
+launcher-process-status-unknown = מצב לא ידוע
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows

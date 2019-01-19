@@ -3,6 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 url-classifier-title = פרטי מסווג כתובות
+url-classifier-search-title = חיפוש
+url-classifier-search-result-title = תוצאות
+url-classifier-search-result-list = רשימת טבלאות: { $list }
+url-classifier-search-input = כתובת
+url-classifier-search-error-invalid-url = כתובת לא תקנית
+url-classifier-search-error-no-features = לא נבחרו תכונות
+url-classifier-search-btn = התחלה בחיפוש
+url-classifier-search-features = תכונות
+url-classifier-search-listType = סוג רשימה
 url-classifier-provider-title = ספק
 url-classifier-provider = ספק
 url-classifier-provider-last-update-time = מועד עדכון אחרון
