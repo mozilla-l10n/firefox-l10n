@@ -30,7 +30,18 @@
 
 <!ENTITY trackingProtection.title                        "Защита от отслеживания">
 <!ENTITY trackingProtection.description2                 "Некоторые веб-сайты используют трекеры, которые могут следить за вашими действиями в Интернете. С Защитой от отслеживания, Firefox будет блокировать множество трекеров, которые могут собирать информацию о вашем поведении в Интернете.">
+
 <!ENTITY trackingProtection.startTour1                   "Посмотреть, как это работает">
 
 <!ENTITY contentBlocking.title                           "Блокировка содержимого">
 <!ENTITY contentBlocking.description                     "Некоторые веб-сайты используют трекеры, которые могут следить за вашими действиями в Интернете. В приватных окнах, Блокировка содержимого Firefox автоматически блокирует множество трекеров, которые могут собирать информацию о вашем поведении в Интернете.">
+
+<!-- Strings for new Private Browsing with Search -->
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.search.placeholder): This is the placeholder
+                       text for the search box.   -->
+<!ENTITY aboutPrivateBrowsing.search.placeholder         "Поиск в Интернете">
+<!ENTITY aboutPrivateBrowsing.info.title                 "Вы в приватном окне">
+<!ENTITY aboutPrivateBrowsing.info.description           "&brandShortName; удаляет историю поиска и просмотра страниц, когда вы выходите из приложения или закрываете все приватные вкладки и окна. Хотя это не делает вас анонимными для веб-сайтов или вашего Интернет-провайдера, вам будет легче сохранить конфиденциальность ваших действий в Интернете от других людей, которые используют этот компьютер.">
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article
+                       about private browsing myths.   -->
+<!ENTITY aboutPrivateBrowsing.info.myths                 "Распространённые мифы о приватном просмотре">
