@@ -41,6 +41,7 @@
                        text for the search box.   -->
 <!ENTITY aboutPrivateBrowsing.search.placeholder         "Cercar in le Web">
 <!ENTITY aboutPrivateBrowsing.info.title                 "Tu es in un fenestra private">
+<!ENTITY aboutPrivateBrowsing.info.description           "&brandShortName; cancella tu chronologia de navigation e de recerca quando tu quita le application o claude tote le schedas e fenestras de navigation private. Ben que isto non te rende anonyme al sitos web o a tu providitor de servicio internet, illo rende plus facile mantener private lo que tu face online, salvo que pro illes qui usa iste computator.">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article
                        about private browsing myths.   -->
 <!ENTITY aboutPrivateBrowsing.info.myths                 "Mythos commun re le navigation anonyme">
