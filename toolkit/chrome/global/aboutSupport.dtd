@@ -106,6 +106,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yTitle "Accessibilitat">
 <!ENTITY aboutSupport.a11yActivated "Activat">
 <!ENTITY aboutSupport.a11yForceDisabled "Evita l'accessibilitat">
+<!ENTITY aboutSupport.a11yHandlerUsed "Gestor d'accessibilitat utilitzat">
 <!ENTITY aboutSupport.a11yInstantiator "Instanciador d'accessibilitat">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "Versions de la biblioteca">
@@ -152,5 +153,10 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.intlTitle "Internacionalització i localització">
 <!ENTITY aboutSupport.intlAppTitle "Paràmetres de l'aplicació">
+<!ENTITY aboutSupport.intlLocalesRequested "Llengües sol·licitades">
+<!ENTITY aboutSupport.intlLocalesAvailable "Llengües disponibles">
+<!ENTITY aboutSupport.intlLocalesSupported "Llengües de l'aplicació">
+<!ENTITY aboutSupport.intlLocalesDefault "Llengua per defecte">
 <!ENTITY aboutSupport.intlOSTitle "Sistema operatiu">
+<!ENTITY aboutSupport.intlOSPrefsSystemLocales "Llengües del sistema">
 <!ENTITY aboutSupport.intlRegionalPrefs "Preferències regionals">
