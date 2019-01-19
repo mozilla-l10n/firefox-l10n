@@ -11,6 +11,7 @@
 <!ENTITY returnToPreviousPage1.label "Вернуться назад (рекомендуется)">
 <!ENTITY advanced.label "Дополнительно">
 <!ENTITY continue2.label "Подробнее…">
+<!ENTITY advanced2.label "Дополнительно…">
 <!ENTITY moreInformation.label "Подробная информация">
 <!ENTITY viewCertificate.label "Просмотреть сертификат">
 

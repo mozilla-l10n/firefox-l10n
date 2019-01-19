@@ -44,6 +44,7 @@ app-basics-memory-use = Использование памяти
 app-basics-performance = Производительность
 app-basics-service-workers = Зарегистрированные Service Workers
 app-basics-profiles = Профили
+app-basics-launcher-process-status = Запускающий процесс
 app-basics-multi-process-support = Многопроцессные окна
 app-basics-process-count = Процессы веб-контента
 app-basics-enterprise-policies = Корпоративные политики
@@ -227,6 +228,8 @@ uses-tiling = Использует тайлинг
 content-uses-tiling = Использует тайлинг (контент)
 off-main-thread-paint-enabled = Прорисовка вне основного потока активирована
 off-main-thread-paint-worker-count = Число воркеров отрисовки вне основного потока
+low-end-machine = Обнаружена менее производительная машина
+target-frame-rate = Целевая частота кадров
 audio-backend = Звуковая подсистема
 max-audio-channels = Максимальное число каналов
 channel-layout = Предпочтительный формат каналов
@@ -244,6 +247,10 @@ effective-content-sandbox-level = Эффективная степень изол
 sandbox-proc-type-content = контент
 sandbox-proc-type-file = содержимое файла
 sandbox-proc-type-media-plugin = медиаплагин
+launcher-process-status-0 = Включён
+launcher-process-status-1 = Отключён из-за сбоя
+launcher-process-status-2 = Принудительно отключён
+launcher-process-status-unknown = Статус неизвестен
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
