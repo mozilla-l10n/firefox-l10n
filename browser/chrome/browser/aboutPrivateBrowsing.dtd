@@ -30,7 +30,18 @@
 
 <!ENTITY trackingProtection.title                        "Protecció contra el seguiment">
 <!ENTITY trackingProtection.description2                 "Alguns llocs web utilitzen elements que poden fer un seguiment de la vostra activitat a Internet. Amb la protecció contra el seguiment, el Firefox blocarà els elements de seguiment que poden recollir informació sobre la vostra navegació.">
+
 <!ENTITY trackingProtection.startTour1                   "Com funciona?">
 
 <!ENTITY contentBlocking.title                           "Bloqueig de contingut">
 <!ENTITY contentBlocking.description                     "Alguns llocs web utilitzen elements que poden fer el seguiment de la vostra activitat a Internet. En les finestres privades, el bloqueig de contingut del Firefox bloca automàticament els elements de seguiment que poden recollir informació sobre la vostra navegació.">
+
+<!-- Strings for new Private Browsing with Search -->
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.search.placeholder): This is the placeholder
+                       text for the search box.   -->
+<!ENTITY aboutPrivateBrowsing.search.placeholder         "Cerca al web">
+<!ENTITY aboutPrivateBrowsing.info.title                 "Esteu en una finestra privada">
+<!ENTITY aboutPrivateBrowsing.info.description           "El &brandShortName; esborra el vostre l'historial de cerques i de navegació quan sortiu de l'aplicació o tanqueu totes les pestanyes i finestres de navegació privada. Malgrat que això no fa que sigueu anònim per als llocs web o per al vostre proveïdor de serveis d'Internet, és més fàcil mantenir en privat allò que feu en línia davant de qualsevol altra persona que utilitzi aquest ordinador.">
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article
+                       about private browsing myths.   -->
+<!ENTITY aboutPrivateBrowsing.info.myths                 "Mites comuns sobre la navegació privada">
