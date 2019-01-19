@@ -246,6 +246,8 @@ sandbox-proc-type-content = contento
 sandbox-proc-type-file = contento del file
 sandbox-proc-type-media-plugin = plugin de media
 launcher-process-status-0 = Activate
+launcher-process-status-1 = Disactivate per falta
+launcher-process-status-2 = Disactivate in modo fortiate
 launcher-process-status-unknown = Stato incognite
 # Variables
 # $remoteWindows (integer) - Number of remote windows

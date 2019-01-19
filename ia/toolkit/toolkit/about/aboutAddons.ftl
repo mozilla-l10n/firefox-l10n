@@ -228,3 +228,4 @@ shortcuts-modifier-mac = Includer Ctrl, Alt, o ⌘
 shortcuts-modifier-other = Include Ctrl o Alt
 shortcuts-invalid = Combination non valide
 shortcuts-letter = Scribe un littera
+shortcuts-system = Impossibile supplantar un via breve de { -brand-short-name }
