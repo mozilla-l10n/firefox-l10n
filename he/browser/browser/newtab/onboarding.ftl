@@ -29,6 +29,7 @@ onboarding-fxa-title = סנכרון
 
 ## Message strings belonging to the Return to AMO flow
 
+return-to-amo-sub-header = מצוין, השגת לך { -brand-short-name }
 # <icon></icon> will be replaced with the icon belonging to the extension
 #
 # Variables:

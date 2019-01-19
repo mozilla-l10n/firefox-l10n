@@ -94,9 +94,9 @@ These two items have the same accesskey but will never be visible at the same ti
 <!ENTITY  moveToStart.label                  "העברה להתחלה">
 <!ENTITY  moveToStart.accesskey              "ת">
 <!ENTITY  moveToEnd.label                    "העברה לסוף">
-<!ENTITY  moveToEnd.accesskey                "ף">
+<!ENTITY  moveToEnd.accesskey                "ס">
 <!ENTITY  moveToNewWindow.label              "העברה לחלון חדש">
-<!ENTITY  moveToNewWindow.accesskey          "ה">
+<!ENTITY  moveToNewWindow.accesskey          "ח">
 <!ENTITY  reopenInContainer.label            "פתיחה מחדש במגירה">
 <!ENTITY  reopenInContainer.accesskey        "פ">
 <!ENTITY  bookmarkTab.label                  "יצירת סימנייה ללשונית">
@@ -110,6 +110,10 @@ These items have the same accesskey but will never be visible at the same time. 
 <!ENTITY  hiddenTabs.label                   "לשוניות מוסתרות">
 
 <!ENTITY  listAllTabs.label      "רשימת כל הלשוניות">
+
+<!-- LOCALIZATION NOTE (allTabsMenu.searchTabs.label): "Search" is a verb, as
+in "Search through tabs". -->
+<!ENTITY  allTabsMenu.searchTabs.label       "חיפוש לשוניות">
 
 <!ENTITY tabCmd.label "לשונית חדשה">
 <!ENTITY tabCmd.accesskey "ש">
@@ -631,6 +635,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.label      "יצירת סימנייה למסגרת זו">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "מ">
 <!ENTITY pageAction.copyLink.label    "העתקת קישור">
+
+<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
+  "Pocket" is a brand name. -->
+<!ENTITY pocketButton.tooltiptext     "שמירה אל Pocket">
+<!ENTITY saveToPocketCmd.label        "שמירת דף אל Pocket">
+<!ENTITY saveToPocketCmd.accesskey    "ש">
+<!ENTITY saveLinkToPocketCmd.label    "שמירת קישור אל Pocket">
+<!ENTITY saveLinkToPocketCmd.accesskey "מ">
+<!ENTITY pocketMenuitem.label         "הצגת רשימת Pocket">
+
 <!ENTITY emailPageCmd.label           "שליחת קישור בדוא״ל…">
 <!ENTITY emailPageCmd.accesskey       "ד">
 <!ENTITY savePageCmd.label            "שמירת דף בשם…">
@@ -869,6 +883,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsReloadHint "יתכן שיהיה עליך לרענן את העמוד כדי שהשינויים ייכנסו לתוקף.">
 <!ENTITY identity.permissionsPreferences.tooltip "פתיחת העדפות הרשאות">
 
+<!ENTITY identity.contentBlockingPreferences.tooltip "פתיחת העדפות לחסימת תוכן">
+
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "לשוניות הדפדפן">
@@ -985,7 +1002,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This label signals that this type of content blocking is turned
      ON, so this is a positive thing. It forms the verb in (imaginary) sentence
      "Firefox is blocking Slow-Loading Trackers"-->
-<!ENTITY contentBlocking.fastBlock.blocking.label "חסימה">
+<!ENTITY contentBlocking.fastBlock.blocking.label "חסומים">
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
@@ -1035,6 +1052,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.manageSettings.accesskey "ס">
 
 <!ENTITY contentBlocking.trackersView.label "רכיבי מעקב">
+<!ENTITY contentBlocking.trackersView.strictInfo.label "כדי לחסום את כל רכיבי המעקב, יש להגדיר את חסימת התוכן לרמת “מחמיר”.">
 
 <!ENTITY contentBlocking.cookies.label "עוגיות">
 <!ENTITY contentBlocking.cookiesView.label "עוגיות ונתוני אתרים">
