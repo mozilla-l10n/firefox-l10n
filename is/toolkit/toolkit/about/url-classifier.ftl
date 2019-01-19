@@ -3,6 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 url-classifier-title = Upplýsingar um URL flokkara
+url-classifier-search-title = Leita
+url-classifier-search-result-title = Niðurstöður
+url-classifier-search-btn = Byrja að leita
+url-classifier-search-features = Eiginleikar
 url-classifier-provider-title = Þjónustuaðili
 url-classifier-provider = Þjónustuaðili
 url-classifier-provider-last-update-time = Seinast uppfært
