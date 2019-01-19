@@ -82,22 +82,61 @@
 <!ENTITY calendar.orientation.label "Rotar le vista" >
 <!ENTITY calendar.orientation.accesskey "o" >
 
+<!ENTITY calendar.search.options.searchfor " contine">
 
+<!ENTITY calendar.list.header.label                 "Calendario">
 
 <!ENTITY calendar.task.filter.title.label           "Monstrar">
+<!ENTITY calendar.task.filter.all.label             "Toto">
+<!ENTITY calendar.task.filter.all.accesskey         "T">
 <!ENTITY calendar.task.filter.today.label           "Hodie">
+<!ENTITY calendar.task.filter.today.accesskey       "H">
+<!ENTITY calendar.task.filter.next7days.label       "Proxime septe dies">
+<!ENTITY calendar.task.filter.next7days.accesskey   "P">
+<!ENTITY calendar.task.filter.notstarted.label      "Activitates non ancora initiate">
+<!ENTITY calendar.task.filter.notstarted.accesskey  "a">
+<!ENTITY calendar.task.filter.overdue.label         "Activitates in retardo">
+<!ENTITY calendar.task.filter.overdue.accesskey     "R">
+<!ENTITY calendar.task.filter.completed.label       "Activitates completate">
+<!ENTITY calendar.task.filter.completed.accesskey   "C">
+<!ENTITY calendar.task.filter.open.label            "Activitates non completate">
+<!ENTITY calendar.task.filter.open.accesskey        "m">
 
 <!-- LOCALIZATION NOTE(calendar.task.filter.current.label)
      "Current Tasks" will show all tasks, except those with a start date set
      that is after today and after the selected date. If a task repeats, a
      separate entry will be shown for each of the occurrences that happen on or
      before today (or the selected date, whichever is later). -->
+<!ENTITY calendar.task.filter.current.label         "Activitates actual">
+<!ENTITY calendar.task.filter.current.accesskey     "a">
 
+<!ENTITY calendar.task-details.title.label           "titulo">
+<!ENTITY calendar.task-details.organizer.label       "de">
+<!ENTITY calendar.task-details.priority.label        "prioritate">
+<!ENTITY calendar.task-details.priority.low.label    "Basse">
 <!ENTITY calendar.task-details.priority.normal.label "Normal">
+<!ENTITY calendar.task-details.priority.high.label   "Alte">
+<!ENTITY calendar.task-details.status.label          "stato">
+<!ENTITY calendar.task-details.category.label        "categoria">
+<!ENTITY calendar.task-details.attachments.label     "annexos">
+<!ENTITY calendar.task-details.start.label           "data de initio">
 
 
 
 <!-- Context Menu -->
+<!ENTITY calendar.context.modifyorviewitem.label      "Aperir">
+<!ENTITY calendar.context.modifyorviewitem.accesskey  "A">
+<!ENTITY calendar.context.modifyorviewtask.label      "Aperir activitate…">
+<!ENTITY calendar.context.modifyorviewtask.accesskey  "A">
+<!ENTITY calendar.context.newevent.label              "Nove evento…">
+<!ENTITY calendar.context.newevent.accesskey          "N">
+<!ENTITY calendar.context.newtodo.label               "Nove activitate…">
+<!ENTITY calendar.context.newtodo.accesskey           "t">
+<!ENTITY calendar.context.deletetask.label            "Deler le activitate">
+<!ENTITY calendar.context.deletetask.accesskey        "a">
+<!ENTITY calendar.context.deleteevent.label           "Deler evento">
+<!ENTITY calendar.context.cutevent.label              "Taliar">
+<!ENTITY calendar.context.cutevent.accesskey          "t">
 <!ENTITY calendar.context.copyevent.label             "Copiar">
 <!ENTITY calendar.context.copyevent.accesskey         "C">
 <!ENTITY calendar.context.pasteevent.label            "Collar">
@@ -109,15 +148,69 @@
 <!ENTITY calendar.context.attendance.menu.accesskey             "p">
 <!ENTITY calendar.context.attendance.occurrence.label           "Iste occurrentia">
 <!ENTITY calendar.context.attendance.all2.label                 "Serie complete">
+<!ENTITY calendar.context.attendance.send.label                 "Inviar un notification ora">
+<!ENTITY calendar.context.attendance.send.accesskey             "I">
+<!ENTITY calendar.context.attendance.dontsend.label             "Non inviar un notification">
+<!ENTITY calendar.context.attendance.dontsend.accesskey         "N">
 
+<!ENTITY calendar.context.attendance.occ.accepted.accesskey     "A">
+<!ENTITY calendar.context.attendance.occ.accepted.label         "Acceptate">
+<!ENTITY calendar.context.attendance.occ.tentative.accesskey    "c">
+<!ENTITY calendar.context.attendance.occ.tentative.label        "Acceptate provisorimente">
+<!ENTITY calendar.context.attendance.occ.declined.accesskey     "c">
+<!ENTITY calendar.context.attendance.occ.declined.label         "Refusate">
+<!ENTITY calendar.context.attendance.occ.delegated.accesskey    "f">
+<!ENTITY calendar.context.attendance.occ.delegated.label        "Delegate">
+<!ENTITY calendar.context.attendance.occ.needsaction.accesskey  "z">
+<!ENTITY calendar.context.attendance.occ.needsaction.label      "Action ancora necessari">
+<!ENTITY calendar.context.attendance.occ.inprogress.accesskey   "o">
+<!ENTITY calendar.context.attendance.occ.inprogress.label       "In curso">
+<!ENTITY calendar.context.attendance.occ.completed.accesskey    "c">
+<!ENTITY calendar.context.attendance.occ.completed.label        "Completate">
 
+<!ENTITY calendar.context.attendance.all.accepted.accesskey     "t">
+<!ENTITY calendar.context.attendance.all.accepted.label         "Acceptate">
+<!ENTITY calendar.context.attendance.all.tentative.accesskey    "t">
+<!ENTITY calendar.context.attendance.all.tentative.label        "Acceptate provisorimente">
+<!ENTITY calendar.context.attendance.all.declined.accesskey     "p">
+<!ENTITY calendar.context.attendance.all.declined.label         "Refusate">
+<!ENTITY calendar.context.attendance.all.delegated.accesskey    "R">
+<!ENTITY calendar.context.attendance.all.delegated.label        "Delegate">
+<!ENTITY calendar.context.attendance.all.needsaction.accesskey  "S">
+<!ENTITY calendar.context.attendance.all.needsaction.label      "Action ancora necessari">
+<!ENTITY calendar.context.attendance.all.inprogress.accesskey   "I">
+<!ENTITY calendar.context.attendance.all.inprogress.label       "In curso">
+<!ENTITY calendar.context.attendance.all.completed.accesskey    "c">
+<!ENTITY calendar.context.attendance.all.completed.label        "Completate">
 
 <!-- Task Context Menu -->
+<!ENTITY calendar.context.progress.label              "Progresso">
+<!ENTITY calendar.context.progress.accesskey          "P">
+<!ENTITY calendar.context.priority.label              "Prioritate">
+<!ENTITY calendar.context.priority.accesskey          "r">
+<!ENTITY calendar.context.postpone.label              "Postponer activitate">
+<!ENTITY calendar.context.postpone.accesskey          "s">
 
-<!--=percent sign-->
+<!ENTITY percnt "&#38;#37;" ><!--=percent sign-->
 
+<!ENTITY calendar.context.markcompleted.label     "Marcar como completate">
+<!ENTITY calendar.context.markcompleted.accesskey "o">
 
+<!ENTITY progress.level.0             "0&percnt; Completate">
+<!ENTITY progress.level.0.accesskey   "0">
+<!ENTITY progress.level.25            "25&percnt; Completate">
+<!ENTITY progress.level.25.accesskey  "2">
+<!ENTITY progress.level.50            "50&percnt; Completate">
+<!ENTITY progress.level.50.accesskey  "5">
+<!ENTITY progress.level.75            "75&percnt; Completate">
+<!ENTITY progress.level.75.accesskey  "7">
+<!ENTITY progress.level.100            "100&percnt; Completate">
+<!ENTITY progress.level.100.accesskey  "1">
 
+<!ENTITY priority.level.none                "Non specificate">
+<!ENTITY priority.level.none.accesskey      "s">
+<!ENTITY priority.level.low                 "Basse">
+<!ENTITY priority.level.low.accesskey       "B">
 
 
 
