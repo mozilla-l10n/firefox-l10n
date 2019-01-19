@@ -37,6 +37,9 @@
 <!ENTITY contentBlocking.description                     "Někotre websydła wužiwaja přescěhowaki, kotrež wašu aktiwitu přez internet wobkedźbuja. W priwatnych woknach blokowanje wobsaha Firefox awtomatisce wjele přesćěhowakow blokuje, kotrež móža informacije wo wašim přehladowanskim zadźerženju nahromadźić.">
 
 <!-- Strings for new Private Browsing with Search -->
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.search.placeholder): This is the placeholder
+                       text for the search box.   -->
+<!ENTITY aboutPrivateBrowsing.search.placeholder         "Web přepytać">
 <!ENTITY aboutPrivateBrowsing.info.title                 "Sće w priwatnym woknje">
 <!ENTITY aboutPrivateBrowsing.info.description           "&brandShortName; wašu pytansku a přehladowansku historjiu wuprózdni, hdyž nałoženje wopušćiće abo wšě rajtarki a wokna priwatneho modus začiniće. Přez to so wosnadnja, před druhimi, kotřiž tutón ličak wužiwaja, schować, štož online činiće, hačrunjež to was za websydła abo wašeho poskićowarja internetneje słužby njeanonymizuje.">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article

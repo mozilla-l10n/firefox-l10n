@@ -44,6 +44,7 @@ app-basics-memory-use = Wužity składowak
 app-basics-performance = Wukon
 app-basics-service-workers = Zregistrowane service workers
 app-basics-profiles = Profile
+app-basics-launcher-process-status = Startowanski proces
 app-basics-multi-process-support = Multiprocesowe wokna
 app-basics-process-count = Webwobsahowe procesy
 app-basics-enterprise-policies = Předewzaćelske prawidła
@@ -251,6 +252,8 @@ effective-content-sandbox-level = Aktualna runina wobsahowych procesow w pěskow
 sandbox-proc-type-content = wobsah
 sandbox-proc-type-file = datajowy wobsah
 sandbox-proc-type-media-plugin = medijowy tykač
+launcher-process-status-0 = Zmóžnjeny
+launcher-process-status-1 = Zmylka dla znjemóžnjeny
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
