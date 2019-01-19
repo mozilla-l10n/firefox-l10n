@@ -222,3 +222,5 @@ shortcuts-sidebarAction = Rodyti / slėpti šoninį polangį
 shortcuts-modifier-mac = Įtraukti Ctrl, Alt arba ⌘
 shortcuts-modifier-other = Įtraukti Ctrl arba Alt
 shortcuts-invalid = Netinkama kombinacija
+shortcuts-letter = Surinkite raidę
+shortcuts-system = Negalima naudoti „{ -brand-short-name }“ sparčiųjų klavišų

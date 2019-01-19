@@ -44,6 +44,7 @@ app-basics-memory-use = Atminties naudojimas
 app-basics-performance = Našumas
 app-basics-service-workers = Registruoti aptarnavimo scenarijai
 app-basics-profiles = Profiliai
+app-basics-launcher-process-status = Paleidimo procesas
 app-basics-multi-process-support = Daugiaprocesiai langai
 app-basics-process-count = Saityno turinio procesai
 app-basics-enterprise-policies = Įmonės nuostatai
@@ -227,6 +228,8 @@ uses-tiling = Naudoja išdėstymą išklotine
 content-uses-tiling = Naudoja išdėstymą išklotine (turinys)
 off-main-thread-paint-enabled = Piešimas ne pagrindinėje gijoje įjungtas
 off-main-thread-paint-worker-count = Piešimo ne pagrindinėje gijoje scenarijų kiekis
+low-end-machine = Aptiktas silpniau veikiantis kompiuteris
+target-frame-rate = Tikslinis kadrų dažnis
 audio-backend = Garso posistemė
 max-audio-channels = Daugiausiai kanalų
 channel-layout = Pageidautinas kanalų išdėstymas
@@ -244,6 +247,10 @@ effective-content-sandbox-level = Efektyvus turinio procesų izoliavimo lygmuo
 sandbox-proc-type-content = turinys
 sandbox-proc-type-file = failo turinys
 sandbox-proc-type-media-plugin = medijos įskiepis
+launcher-process-status-0 = Įjungta
+launcher-process-status-1 = Išjungta dėl gedimo
+launcher-process-status-2 = Išjungta priverstinai
+launcher-process-status-unknown = Būsena nežinoma
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
