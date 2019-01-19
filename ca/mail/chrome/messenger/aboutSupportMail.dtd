@@ -6,7 +6,7 @@
 
 <!ENTITY aboutSupport.accountsTitle "Comptes de correu i de notícies">
 <!ENTITY aboutSupport.showPrivateData.mainText "Inclou els noms dels comptes">
-<!ENTITY aboutSupport.showPrivateData.explanationText "(possiblement és informació d'identificació)">
+<!ENTITY aboutSupport.showPrivateData.explanationText "(aquesta informació potser us podria identificar)">
 <!ENTITY aboutSupport.accountsID "ID">
 <!ENTITY aboutSupport.accountsName "Nom">
 <!ENTITY aboutSupport.accountsIncomingServer "Servidor d'entrada">

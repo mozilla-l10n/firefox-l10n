@@ -19,6 +19,12 @@
 <!ENTITY rememberPassword.label          "Recorda la contrasenya">
 <!ENTITY rememberPassword.accesskey      "R">
 
+<!ENTITY usernameEx.label                "Nom d'inici de sessió:">
+<!ENTITY usernameEx.accesskey            "N">
+<!-- LOCALIZATION NOTE(usernameEx.placeholder): YOURDOMAIN refers to the Windows domain in ActiveDirectory. yourusername refers to the user's account name in Windows. -->
+<!ENTITY usernameEx.placeholder          "DOMINI\nomusuari">
+<!-- LOCALIZATION NOTE(usernameEx.text): Domain refers to the Windows domain in ActiveDirectory. We mean the user's login in Windows at the local corporate network. -->
+
 <!ENTITY imapLong.label                  "IMAP (carpetes remotes)">
 <!ENTITY pop3Long.label                  "POP3 (conserva el correu al vostre ordinador)">
 
@@ -30,7 +36,9 @@
 <!ENTITY ssl.label                       "SSL">
 <!ENTITY auth.label                      "Autenticació">
 <!ENTITY imap.label                      "IMAP">
-<!ENTITY pop3.label                       "POP3">
+<!ENTITY pop3.label                      "POP3">
+<!-- LOCALIZATION NOTE(exchange.label): Do not translate Exchange, it is a product name. -->
+<!ENTITY exchange.label                  "Exchange">
 <!ENTITY smtp.label                      "SMTP">
 <!ENTITY autodetect.label                "Detecta automàticament">
 <!-- LOCALIZATION NOTE(noEncryption.label): Neither SSL/TLS nor STARTTLS.
@@ -38,6 +46,9 @@
 <!ENTITY noEncryption.label              "Cap">
 <!ENTITY starttls.label                  "STARTTLS">
 <!ENTITY sslTls.label                    "SSL/TLS">
+
+<!-- LOCALIZATION NOTE(exchange-hostname.label): Do not translate Exchange, it is a product name. -->
+<!ENTITY exchange-hostname.label         "Servidor d'Exchange:">
 
 <!ENTITY advancedSetup.label             "Configuració avançada">
 <!ENTITY advancedSetup.accesskey         "g">
