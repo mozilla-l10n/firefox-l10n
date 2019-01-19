@@ -12,8 +12,8 @@
 <!ENTITY sendHTML2.accesskey          "E">
 <!ENTITY sendBoth2.label              "Enviar a mensagem tanto em texto simples como em HTML (maior tamanho)">
 <!ENTITY sendBoth2.accesskey          "n">
-<!-- Html and Plain Text Domains  -->
 
+<!-- Html and Plain Text Domains  -->
 <!ENTITY domain.title                 "Domínios HTML e texto">
 <!ENTITY domaindesc.label             "Quando envia uma mensagem para um endereço com um dos nomes de domínio listados abaixo, o correio envia a mensagem automaticamente no formato pré-definido (texto formatado ou texto simples).">
 <!ENTITY HTMLdomaintitle.label        "Domínio HTML">
@@ -26,8 +26,8 @@
 <!ENTITY DeleteButton.label           "Apagar">
 <!ENTITY DeleteHtmlDomain.accesskey   "e">
 <!ENTITY DeletePlainText.accesskey    "l">
-<!-- Add Domain Name -->
 
+<!-- Add Domain Name -->
 <!ENTITY add.htmltitle                "Adicionar nome de domínio HTML">
 <!ENTITY add.htmldomain               "Nome do domínio HTML:">
 <!ENTITY add.plaintexttitle           "Adicionar nome de domínio de texto">
@@ -36,7 +36,7 @@
 <!ENTITY domainnameError.title        "Erro no nome de domínio">
 <!-- LOCALIZATION NOTE: do not translate @string@ -->
 <!ENTITY invalidEntryError.label      "O nome do domínio @string@ é inválido e será ignorado. Nomes de domínio válidos devem incluir pelo menos um '.' e caracteres de cada lado.">
-<!-- Global auto-detect switch -->
 
-<!ENTITY autoDowngrade.label          "Automaticamente enviar a mensagem como texto simples se nenhuma formatação significante estiver presente (ignora as outras opções)">
+<!-- Global auto-detect switch -->
+<!ENTITY autoDowngrade.label          "Automaticamente enviar a mensagem como texto simples se nenhuma formatação significante estiver presente (sobrepõe outras opções)">
 <!ENTITY autoDowngrade.accesskey      "o">
