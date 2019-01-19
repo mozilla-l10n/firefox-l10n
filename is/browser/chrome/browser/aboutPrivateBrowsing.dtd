@@ -35,3 +35,12 @@
 
 <!ENTITY contentBlocking.title                           "Blokkun efnis">
 <!ENTITY contentBlocking.description                     "Sum vefsvæði nota rekjara sem geta rakið allan feril þinn á internetinu. Í huliðsgluggum sér Efnisblokkun Firefox til þess að blokka sjálfkrafa marga rekjara sem geta safnað upplýsingum um vafravenjur þínar.">
+
+<!-- Strings for new Private Browsing with Search -->
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.search.placeholder): This is the placeholder
+                       text for the search box.   -->
+<!ENTITY aboutPrivateBrowsing.info.title                 "Þú ert í huliðsglugga">
+<!ENTITY aboutPrivateBrowsing.info.description           "&brandShortName; hreinsar leitar- og vafraferilinn þinn þegar þú lokar forritinu eða lokar öllum einkaflipum og gluggum. Þó að þetta sé ekki nafnlaust gagnvart vefsíðum eða þjónustuveitu þinni, gerir það auðveldara að halda því sem þú gerir á netinu hulið gagnvart einkaaðilum sem nota þessa tölvu.">
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article
+                       about private browsing myths.   -->
+<!ENTITY aboutPrivateBrowsing.info.myths                 "Algengar mýtur um huliðsleit">
