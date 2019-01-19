@@ -6,7 +6,7 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  overridePageColors.label        "Substituir cores especificadas definidas no conteúdo pelas minhas seleções acima:">
+<!ENTITY  overridePageColors.label        "Sobrepor as cores especificadas pelo conteúdo com as minhas seleções acima:">
 <!ENTITY  overridePageColors.accesskey    "a">
 
 <!ENTITY  overridePageColors.always.label "Sempre">
