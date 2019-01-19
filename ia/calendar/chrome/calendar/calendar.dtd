@@ -211,19 +211,42 @@
 <!ENTITY priority.level.none.accesskey      "s">
 <!ENTITY priority.level.low                 "Basse">
 <!ENTITY priority.level.low.accesskey       "B">
+<!ENTITY priority.level.normal              "Normal">
+<!ENTITY priority.level.normal.accesskey    "N">
+<!ENTITY priority.level.high                "Alte">
+<!ENTITY priority.level.high.accesskey      "A">
 
+<!ENTITY calendar.context.postpone.1hour.label      "1 Hora">
+<!ENTITY calendar.context.postpone.1hour.accesskey  "H">
+<!ENTITY calendar.context.postpone.1day.label       "1 Die">
+<!ENTITY calendar.context.postpone.1day.accesskey   "D">
+<!ENTITY calendar.context.postpone.1week.label      "1 Septimana">
+<!ENTITY calendar.context.postpone.1week.accesskey  "S">
 
+<!ENTITY calendar.copylink.label       "Copiar le adresse del ligamine">
+<!ENTITY calendar.copylink.accesskey   "C">
 
 <!-- Task View -->
 <!-- Note that the above *.context.* strings are currently used for the other
      task action buttons -->
+<!ENTITY calendar.taskview.delete.label     "Deler">
 
 <!-- Server Context Menu -->
+<!ENTITY calendar.context.newserver.label              "Nove calendario…">
+<!ENTITY calendar.context.newserver.accesskey          "N">
+<!ENTITY calendar.context.findcalendar.label           "Trovar calendario…" >
+<!ENTITY calendar.context.findcalendar.accesskey       "T" >
+<!ENTITY calendar.context.deleteserver2.label          "Deler calendario…">
+<!ENTITY calendar.context.deleteserver2.accesskey      "D">
 
 <!-- LOCALIZATION NOTE (calendar.context.removeserver.label): Removing the
       calendar is the general action of removing it, while deleting means to
       clear the data and unsubscribing means just taking it out of the calendar
       list. -->
+<!ENTITY calendar.context.removeserver.label           "Remove calendario…">
+<!ENTITY calendar.context.removeserver.accesskey       "R">
+<!ENTITY calendar.context.properties.label             "Proprietates">
+<!ENTITY calendar.context.properties.accesskey         "P">
 
 <!-- LOCALIZATION NOTE (calendar.context.showcalendar.accesskey)
      This is the access key used for the showCalendar string -->
@@ -242,6 +265,9 @@
 
 
 
+<!ENTITY calendar.alarm.snooze.1hour.label          "1 Hora" >
+<!ENTITY calendar.alarm.snooze.2hours.label         "2 Horas" >
+<!ENTITY calendar.alarm.snooze.1day.label           "1 Die" >
 
 <!-- LOCALIZATION NOTE (calendar.alarm.snooze.cancel)
      This string is not seen in the UI, it is read by screen readers when the
@@ -251,13 +277,23 @@
 <!-- Calendar Server Dialog -->
 
 <!-- Calendar Properties -->
+<!ENTITY calendarproperties.format.label                   "Formato:">
+<!ENTITY calendarproperties.location.label                 "Adresse:">
+<!ENTITY calendarproperties.name.label                     "Nomine:">
+<!ENTITY calendarproperties.readonly.label                 "Lectura solmente">
+<!ENTITY calendarproperties.firealarms.label               "Monstrar mementos">
 
 <!-- Calendar Publish Dialog -->
+<!ENTITY calendar.publish.close.button      "Clauder">
 
 
 <!-- Select Calendar Dialog -->
 
 <!-- Calendar Printing -->
+<!ENTITY calendar.print.title.label "Titulo:">
+<!ENTITY calendar.print.layout.label "Disposition:">
+<!ENTITY calendar.print.range.label "Que imprimer">
+<!ENTITY calendar.print.currentView2.label "Vista actual">
 
 <!-- Error reporting -->
 
