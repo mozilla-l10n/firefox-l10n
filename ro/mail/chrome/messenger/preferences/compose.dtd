@@ -41,7 +41,7 @@
 <!ENTITY languagePopup.accessKey              "L">
 <!ENTITY downloadDictionaries.label           "Descarcă mai multe dicționare">
 
-<!ENTITY warnOnSendAccelKey.label             "Confirmă trimiterea când se folosesc scurtături de taste">
+<!ENTITY warnOnSendAccelKey.label             "Confirmă trimiterea când se folosește comanda rapidă de la tastatură">
 <!ENTITY warnOnSendAccelKey.accesskey         "i">
 <!ENTITY autoSave.label                       "Salvează automat la fiecare">
 <!ENTITY autoSave.accesskey                   "u">
