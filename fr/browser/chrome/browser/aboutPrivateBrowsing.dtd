@@ -37,6 +37,9 @@
 <!ENTITY contentBlocking.description                     "Certains sites utilisent des traqueurs qui peuvent pister votre activité sur Internet. Dans les fenêtres de navigation privée, le blocage de contenu de Firefox bloque automatiquement de nombreux traqueurs qui peuvent collecter des informations sur votre comportement de navigation.">
 
 <!-- Strings for new Private Browsing with Search -->
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.search.placeholder): This is the placeholder
+                       text for the search box.   -->
+<!ENTITY aboutPrivateBrowsing.search.placeholder         "Rechercher sur le Web">
 <!ENTITY aboutPrivateBrowsing.info.title                 "Cette fenêtre de navigation est privée">
 <!ENTITY aboutPrivateBrowsing.info.description           "&brandShortName; efface vos historiques de recherche et de navigation lorsque vous quittez l’application ou fermez tous les onglets et fenêtres de navigation privée. Bien que cela ne vous rende pas anonyme auprès des sites web ou de votre fournisseur d’accès à Internet, cela vous aide à garder confidentielles vos activités en ligne auprès de toute autre personne utilisant cet ordinateur.">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article
