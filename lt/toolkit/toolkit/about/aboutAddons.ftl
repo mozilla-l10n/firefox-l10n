@@ -207,3 +207,18 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Įdiegti naujinimus
     .tooltiptext = Įdiegti šiame sąraše esančių priedų naujinimus
+
+## Extension shortcut management
+
+shortcuts-manage =
+    .label = Spartieji klavišai
+shortcuts-empty-message = Šiam priedui sparčiųjų klavišų nėra.
+shortcuts-no-addons = Neturite jokių įjungtų priedų.
+shortcuts-input =
+    .placeholder = Surinkite klavišų kombinaciją
+shortcuts-browserAction = Įjungti priedą
+shortcuts-pageAction = Įjungti veiksmą tinklalapyje
+shortcuts-sidebarAction = Rodyti / slėpti šoninį polangį
+shortcuts-modifier-mac = Įtraukti Ctrl, Alt arba ⌘
+shortcuts-modifier-other = Įtraukti Ctrl arba Alt
+shortcuts-invalid = Netinkama kombinacija
