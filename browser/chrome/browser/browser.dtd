@@ -638,6 +638,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
+<!ENTITY pocketButton.tooltiptext     "Vista í Pocket">
+<!ENTITY saveToPocketCmd.label        "Vista síðu í Pocket">
 <!ENTITY saveToPocketCmd.accesskey    "k">
 <!ENTITY saveLinkToPocketCmd.label    "Vista tengil í Pocket">
 <!ENTITY saveLinkToPocketCmd.accesskey "o">
@@ -880,6 +882,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "Þú hefur ekki gefið þessu vefsvæði nein sérstök réttindi.">
 <!ENTITY identity.permissionsReloadHint "Þú gætir þurft að endurhlaða síðuna til að virkja breytingar.">
 <!ENTITY identity.permissionsPreferences.tooltip "Opna heimildastillingar">
+
+
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
