@@ -64,10 +64,12 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Finestres multiprocés">
 
+<!ENTITY aboutSupport.appBasicsProcessCount "Processos de contingut web">
 
 <!ENTITY aboutSupport.enterprisePolicies "Polítiques d'empresa">
 
 <!ENTITY aboutSupport.appBasicsKeyGoogle "Clau de Google">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Clau del servei d'ubicació de Mozilla">
 
 <!ENTITY aboutSupport.appBasicsSafeMode "Mode segur">
 
@@ -104,6 +106,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yTitle "Accessibilitat">
 <!ENTITY aboutSupport.a11yActivated "Activat">
 <!ENTITY aboutSupport.a11yForceDisabled "Evita l'accessibilitat">
+<!ENTITY aboutSupport.a11yInstantiator "Instanciador d'accessibilitat">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "Versions de la biblioteca">
 
@@ -135,10 +138,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Característiques del protector de fallades desactivades">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Solucions temporals">
 
+<!ENTITY aboutSupport.mediaTitle "Multimèdia">
 <!ENTITY aboutSupport.mediaOutputDevicesTitle "Dispositius de sortida">
 <!ENTITY aboutSupport.mediaInputDevicesTitle "Dispositius d'entrada">
 <!ENTITY aboutSupport.mediaDeviceName "Nom">
 <!ENTITY aboutSupport.mediaDeviceGroup "Grup">
+<!ENTITY aboutSupport.mediaDeviceVendor "Proveïdor">
+<!ENTITY aboutSupport.mediaDeviceState "Estat">
+<!ENTITY aboutSupport.mediaDevicePreferred "Preferit">
 <!ENTITY aboutSupport.mediaDeviceFormat "Format">
 <!ENTITY aboutSupport.mediaDeviceChannels "Canals">
 <!ENTITY aboutSupport.mediaDeviceLatency "Latència">
@@ -146,3 +153,4 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.intlTitle "Internacionalització i localització">
 <!ENTITY aboutSupport.intlAppTitle "Paràmetres de l'aplicació">
 <!ENTITY aboutSupport.intlOSTitle "Sistema operatiu">
+<!ENTITY aboutSupport.intlRegionalPrefs "Preferències regionals">
