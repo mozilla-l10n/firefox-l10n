@@ -210,3 +210,9 @@ extensions-updates-update-selected =
 
 ## Extension shortcut management
 
+shortcuts-manage =
+    .label = Comenzi rapide de la tastatură
+shortcuts-empty-message = Nu există comenzi rapide pentru această extensie.
+shortcuts-input =
+    .placeholder = Tastează o comandă rapidă
+shortcuts-letter = Tastează o literă

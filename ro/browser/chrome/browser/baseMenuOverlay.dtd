@@ -20,7 +20,7 @@
 <!ENTITY productHelp2.accesskey   "H">
 <!ENTITY helpMac.commandkey       "?">
 
-<!ENTITY helpKeyboardShortcuts.label     "Scurtături pentru tastatură">
+<!ENTITY helpKeyboardShortcuts.label     "Comenzi rapide de la tastatură">
 <!ENTITY helpKeyboardShortcuts.accesskey "K">
 
 <!ENTITY helpSafeMode.label       "Repornește cu suplimentele dezactivate…">
