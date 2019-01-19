@@ -883,6 +883,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsReloadHint "Il es possibile que tu debe recargar le pagina pro que le cambios se applica.">
 <!ENTITY identity.permissionsPreferences.tooltip "Aperir le preferentias del permissos">
 
+<!ENTITY identity.contentBlockingPreferences.tooltip "Aperir le preferentias del blocada de contentos">
+
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Schedas del navigator">

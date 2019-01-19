@@ -212,3 +212,14 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Installar le actualisationes
     .tooltiptext = Installar le actualisationes disponibile de iste lista
+
+## Extension shortcut management
+
+shortcuts-manage =
+    .label = Vias breve de claviero
+shortcuts-empty-message = Il non ha vias breve in iste extension
+shortcuts-no-addons = Tu non ha ulle extensiones activate
+shortcuts-input =
+    .placeholder = Scribe un via breve
+shortcuts-invalid = Combination non valide
+shortcuts-letter = Scribe un littera

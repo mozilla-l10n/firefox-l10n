@@ -37,6 +37,9 @@
 <!ENTITY contentBlocking.description                     "Alcun sitos web usa traciatores que pote controlar tu activitate trans internet. In le fenestras private Firefox Content Blocking bloca automaticamente plure traciatores que pote coliger informationes re tu comportamento in navigation.">
 
 <!-- Strings for new Private Browsing with Search -->
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.search.placeholder): This is the placeholder
+                       text for the search box.   -->
+<!ENTITY aboutPrivateBrowsing.search.placeholder         "Cercar in le Web">
 <!ENTITY aboutPrivateBrowsing.info.title                 "Tu es in un fenestra private">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article
                        about private browsing myths.   -->
