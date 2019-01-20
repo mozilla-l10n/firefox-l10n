@@ -4,13 +4,16 @@
 
 <!ENTITY windowTitle "Firefox WebIDE">
 
+<!ENTITY projectMenu_selectApp_label "Peuhah Aplikasi…">
 
 
 
+<!ENTITY projectButton_label "Peuhah Aplikasi">
 
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
 <!-- open menu -->
+<!ENTITY key_showProjectPanel "O">
 <!-- reload app -->
 <!-- show toolbox -->
 <!ENTITY key_toggleToolbox "VK_F12">

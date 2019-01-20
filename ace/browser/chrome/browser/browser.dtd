@@ -21,8 +21,6 @@
 <!-- Tab context menu -->
 <!ENTITY  reloadTab.label                    "Peuhah Keulayi Tab">
 <!ENTITY  reloadTab.accesskey                "R">
-<!ENTITY  reloadAllTabs.label                "Peuhah Keulayi Mandum Tab">
-<!ENTITY  reloadAllTabs.accesskey            "A">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
 <!ENTITY  duplicateTab.label                 "Peujeut Dua Boh Tab">
@@ -41,9 +39,6 @@ left instead of right. -->
 <!ENTITY  closeOtherTabs.label               "Tôb Tab - tab Laén">
 <!ENTITY  closeOtherTabs.accesskey           "o">
 
-<!ENTITY  closeSelectedTabs.label            "Tôb Tab Nyoe">
-<!ENTITY  closeSelectedTabs.accesskey        "S">
-
 <!ENTITY  closeTabs.label                    "Tôp Tab">
 <!ENTITY  pinSelectedTabs.label              "Cangiek Tab">
 <!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
@@ -55,10 +50,6 @@ same accesskey but will never be visible at the same time. -->
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinSelectedTabs.accesskey        "b">
-<!-- Reload Tab and Reload Selected Tabs have the same accesskey
-but will never be visible at the same time. -->
-<!ENTITY  reloadSelectedTabs.label           "Peuhah Keulayi Tab Peuniléh">
-<!ENTITY  reloadSelectedTabs.accesskey       "R">
 <!-- LOCALIZATION NOTE(reloadTab.label, reloadTabs.label): have the same accesskey
 but will never be visible at the same time. -->
 <!ENTITY  bookmarkSelectedTabs.label         "Peutanda Tab...">
@@ -81,8 +72,6 @@ same accesskey but will never be visible at the same time. -->
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinTab.accesskey                 "b">
-<!ENTITY  sendTabToDevice.label              "Peu'ét Tab u Alat">
-<!ENTITY  sendTabToDevice.accesskey          "n">
 <!ENTITY  sendPageToDevice.label             "Peu'ét Laman u Alat">
 <!ENTITY  sendPageToDevice.accesskey         "n">
 <!ENTITY  sendLinkToDevice.label             "Peu'ét Peunawôt u Alat">
@@ -93,8 +82,6 @@ These two items have the same accesskey but will never be visible at the same ti
 <!ENTITY  moveToNewWindow.accesskey          "W">
 <!ENTITY  reopenInContainer.label            "Peuhah Keulayi lam Kontainer">
 <!ENTITY  reopenInContainer.accesskey        "e">
-<!ENTITY  bookmarkAllTabs.label              "Peutanda Ban Dum Tab...">
-<!ENTITY  bookmarkAllTabs.accesskey          "T">
 <!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  undoCloseTab.label                 "Pubateue Tôp Tab">
@@ -104,6 +91,9 @@ These items have the same accesskey but will never be visible at the same time. 
 <!ENTITY  hiddenTabs.label                   "Tab Teusom">
 
 <!ENTITY  listAllTabs.label      "Peudapeuta ban dum tab">
+
+<!-- LOCALIZATION NOTE (allTabsMenu.searchTabs.label): "Search" is a verb, as
+in "Search through tabs". -->
 
 <!ENTITY tabCmd.label "Tab Barô">
 <!ENTITY tabCmd.accesskey "T">
@@ -133,11 +123,6 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.label "Bar Alat Peutanda">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "Beunda Bar Alat Peutanda">
-
-<!ENTITY toolbarContextMenu.reloadAllTabs.label "Peuhah Keulayi Ban Dum Tab">
-<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "A">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Peutanda Ban Dum Tab…">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "T">
 
 <!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
 toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
@@ -223,7 +208,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
 
-
 <!ENTITY backCmd.label                "Gisa">
 <!ENTITY backCmd.accesskey            "B">
 <!ENTITY forwardCmd.accesskey         "F">
@@ -231,6 +215,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY stopCmd.accesskey            "S">
 <!ENTITY stopCmd.macCommandKey        ".">
+
 
 
 
@@ -277,7 +262,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.commandkey            "A">
 
 <!ENTITY webDeveloperMenu.accesskey   "W">
-
 
 <!ENTITY inspectContextMenu.accesskey "Q">
 
@@ -365,7 +349,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "A">
 <!ENTITY customizeMenu.manageExtension.accesskey "E">
-
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -474,6 +457,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkPageCmd2.accesskey   "m">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
+
+<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
+  "Pocket" is a brand name. -->
+
 <!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.accesskey        "A">
 <!-- alternate for content area context menu -->
@@ -629,6 +616,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -656,6 +645,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.managedevices.accesskey          "D">
 
 
+<!ENTITY syncBrand.shortName.label    "Sync">
 
 <!ENTITY syncSignIn.accesskey         "Y">
 <!ENTITY syncSyncNowItem.accesskey    "S">
@@ -702,6 +692,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
 
+
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking tracker content, so this is
@@ -729,6 +720,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
+
+
+
 
 <!ENTITY contentBlocking.breakageReportView.learnMore "Meurunoë Lom">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
@@ -814,7 +808,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tabHideControlled.keepButton.accesskey "K">
 <!ENTITY tabHideControlled.disableButton.label "Pumaté Èkstènsi">
 <!ENTITY tabHideControlled.disableButton.accesskey "D">
-
 
 
 
