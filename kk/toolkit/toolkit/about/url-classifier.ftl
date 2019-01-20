@@ -3,6 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 url-classifier-title = URL классификатор ақпараты
+url-classifier-search-title = Іздеу
+url-classifier-search-result-title = Нәтижелер
+url-classifier-search-result-uri = URI: { $uri }
+url-classifier-search-result-list = Кестелер тізімі: { $list }
+url-classifier-search-input = URL
+url-classifier-search-error-invalid-url = Жарамсыз URL
+url-classifier-search-btn = Іздеуді бастау
+url-classifier-search-features = Мүмкіндіктер
+url-classifier-search-listType = Тізім түрі
 url-classifier-provider-title = Провайдер
 url-classifier-provider = Провайдер
 url-classifier-provider-last-update-time = Соңғы жаңарту уақыты
