@@ -29,6 +29,7 @@
 <!ENTITY editUserDictionaryButton.label "Chỉnh sửa…">
 <!ENTITY editUserDictionaryButton.accessKey "C">
 <!ENTITY recheckButton2.label "Kiểm tra lại Văn bản">
+<!ENTITY recheckButton2.accessKey "T">
 <!ENTITY closeButton.label "Đóng">
 <!ENTITY closeButton.accessKey "g">
 <!ENTITY sendButton.label "Gửi">

@@ -5,12 +5,12 @@
 <!ENTITY window.width                      "36em">
 
 <!ENTITY cookiesonsystem.label             "Các cookie sau được lưu trong máy tính của bạn:">
-<!ENTITY cookiename.label                  "Tên Cookie">
+<!ENTITY cookiename.label                  "Tên cookie">
 <!ENTITY cookiedomain.label                "Trang">
-<!ENTITY button.removecookie.label         "Xóa Cookie">
-<!ENTITY button.removecookie.accesskey     "X">
-<!ENTITY button.removeallcookies.label     "Xóa Toàn Bộ Cookie">
-<!ENTITY button.removeallcookies.accesskey "B">
+<!ENTITY button.removecookie.label         "Xóa cookie">
+<!ENTITY button.removecookie.accesskey     "R">
+<!ENTITY button.removeallcookies.label     "Xóa tất cả cookie">
+<!ENTITY button.removeallcookies.accesskey "A">
 
 <!ENTITY props.name.label                  "Tên:">
 <!ENTITY props.value.label                 "Nội dung:">
@@ -18,6 +18,7 @@
 <!ENTITY props.path.label                  "Đường dẫn:">
 <!ENTITY props.secure.label                "Gửi cho:">
 <!ENTITY props.expires.label               "Hết hạn:">
+<!ENTITY props.container.label             "Ngăn chứa:">
 
 <!ENTITY window.title                      "Cookie">
 <!ENTITY windowClose.key                   "w">
@@ -25,9 +26,8 @@
 <!ENTITY focusSearch2.key                  "k">
 
 <!ENTITY filter.label                      "Tìm:">
-<!ENTITY filter.accesskey                  "m">
+<!ENTITY filter.accesskey                  "S">
 
 <!ENTITY button.close.label                "Đóng">
-<!ENTITY button.close.accesskey            "g">
-
+<!ENTITY button.close.accesskey            "C">
 
