@@ -74,20 +74,26 @@
 <!ENTITY decreaseFontSize.label "Nhỏ hơn">
 <!ENTITY decreaseFontSize.accesskey "N">
 <!ENTITY decrementFontSize.key "&lt;">
- <!-- < is above this key on many keyboards -->
+<!ENTITY decrementFontSize.key2 ","> <!-- < is above this key on many keyboards -->
 <!ENTITY increaseFontSize.label "Lớn hơn">
 <!ENTITY increaseFontSize.accesskey "L">
 <!ENTITY incrementFontSize.key "&gt;">
- <!-- > is above this key on many keyboards -->
+<!ENTITY incrementFontSize.key2 "."> <!-- > is above this key on many keyboards -->
 
 <!ENTITY fontSizeMenu.label "Cỡ chữ">
 <!ENTITY fontSizeMenu.accesskey "C">
+<!ENTITY size-tinyCmd.label "Nhỏ">
+<!ENTITY size-tinyCmd.accesskey "T">
 <!ENTITY size-smallCmd.label "nhỏ">
 <!ENTITY size-smallCmd.accesskey "n">
 <!ENTITY size-mediumCmd.label "vừa">
 <!ENTITY size-mediumCmd.accesskey "v">
 <!ENTITY size-largeCmd.label "lớn">
 <!ENTITY size-largeCmd.accesskey "l">
+<!ENTITY size-extraLargeCmd.label "Rất lớn">
+<!ENTITY size-extraLargeCmd.accesskey "x">
+<!ENTITY size-hugeCmd.label "Siêu lớn">
+<!ENTITY size-hugeCmd.accesskey "H">
 
 <!-- Font Style SubMenu -->
 <!ENTITY fontStyleMenu.label "Kiểu Chữ">
@@ -304,6 +310,7 @@
 <!ENTITY HighlightColorButton.tooltip "Chọn màu tô đậm văn bản">
 
 <!-- Editor toolbar -->
+<!ENTITY absoluteFontSizeToolbarCmd.tooltip "Đặt cỡ chữ">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Cỡ chữ nhỏ hơn">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Cỡ chữ lớn hơn">
 <!ENTITY boldToolbarCmd.tooltip "Đậm">
