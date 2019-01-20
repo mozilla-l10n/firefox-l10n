@@ -19,6 +19,13 @@
 <!ENTITY rememberPassword.label          "Парольді еске сақтау">
 <!ENTITY rememberPassword.accesskey      "л">
 
+<!ENTITY usernameEx.label                "Сіздің логиніңіз:">
+<!ENTITY usernameEx.accesskey            "л">
+<!-- LOCALIZATION NOTE(usernameEx.placeholder): YOURDOMAIN refers to the Windows domain in ActiveDirectory. yourusername refers to the user's account name in Windows. -->
+<!ENTITY usernameEx.placeholder          "ДОМЕНІҢІЗ\пайдаланушы_атыңыз">
+<!-- LOCALIZATION NOTE(usernameEx.text): Domain refers to the Windows domain in ActiveDirectory. We mean the user's login in Windows at the local corporate network. -->
+<!ENTITY usernameEx.text                 "Домендегі пайдаланушы аты">
+
 <!ENTITY imapLong.label                  "IMAP (қашықтағы бумалар)">
 <!ENTITY pop3Long.label                  "POP3 (поштаны сіздің компьютеріңізде сақтау)">
 
