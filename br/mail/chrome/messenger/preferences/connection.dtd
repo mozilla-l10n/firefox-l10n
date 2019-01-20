@@ -50,3 +50,9 @@
 <!ENTITY  dnsOverHttpsUrl.label         "URL">
 <!ENTITY  dnsOverHttpsUrl.accesskey     "R">
 <!ENTITY  dnsOverHttpsUrl.tooltip       "URL evit diskoulmañ an DNS dre HTTPS">
+<!ENTITY  dnsOverHttpsUrlDefault.label     "Arverañ an arventennoù dre ziouer">
+<!ENTITY  dnsOverHttpsUrlDefault.accesskey "z">
+<!ENTITY  dnsOverHttpsUrlDefault.tooltip   "Arverañ an URL dre ziouer evit diskoulmañ an DNS war HTTPS">
+<!ENTITY  dnsOverHttpsUrlCustom.label      "Personelaet">
+<!ENTITY  dnsOverHttpsUrlCustom.accesskey  "P">
+<!ENTITY  dnsOverHttpsUrlCustom.tooltip    "Arverañ an URL gwellañ deoc'h evit diskoulmañ an DNS war HTTPS">

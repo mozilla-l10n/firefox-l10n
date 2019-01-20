@@ -8,3 +8,7 @@ manage-messenger-languages-button =
     .accesskey = Y
 confirm-messenger-language-change-description = Adloc'hit { -brand-short-name } da arloañ ar c'hemmoù
 confirm-messenger-language-change-button = Arloañ hag adloc'hañ
+update-pref-write-failure-title = Fazi skrivañ
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = N'haller ket enrollañ ar gwellvezioù. Dic'houest eo da skrivañ er restr: { $path }

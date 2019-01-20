@@ -23,5 +23,7 @@
 <!ENTITY paneAdvanced.title       "Kempleshoc'h">
 <!ENTITY paneAccount.title        "Kontoù">
 
+<!ENTITY addonsButton.label       "Askouezhioù &amp; Neuzioù">
+
 <!ENTITY okButton.title           "Mat eo">
 <!ENTITY okButton.accesskey       "M">

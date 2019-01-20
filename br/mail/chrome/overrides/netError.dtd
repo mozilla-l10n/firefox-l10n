@@ -101,3 +101,6 @@ functionality specific to thunderbird. -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> a arver ur c'halverezh diogelroez diamzeret ha bresk. Gallout a rafe un tager dizoloiñ titouroù a gredec'h diarvar. Ret vo da verour al lec'hienn ratreañ an dafariad a-raok ma c'hallfec'h gweladenniñ al lec'hienn.</p><p>Boneg fazi: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Pajenn stanket">
+
+<!ENTITY networkProtocolError.title "Fazi komenad rouedad">
+<!ENTITY networkProtocolError.longDesc "<p>Ar bajenn emaoc'h o klask gweladenniñ n'hall ket bezañ skrammet rak degouezhet ez eus bet ur fazi er c'homenad rouedad.</p><ul><li>Mar plij, kit e darempred gant perc'henned al lec'hienn a-benn kelaouiñ anezho eus ar gudenn-mañ.</li></ul>">

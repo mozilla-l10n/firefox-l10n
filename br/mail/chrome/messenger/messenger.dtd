@@ -440,9 +440,6 @@
 <!ENTITY openMessageWindowCmd.label "Digeriñ ar gemennadenn">
 <!ENTITY openMessageWindowCmd.accesskey "i">
 <!ENTITY openMessageWindowCmd.key "o">
-<!ENTITY openConversationCmd.label "Digeriñ e-barzh ar gaozeadenn">
-<!ENTITY openConversationCmd.accesskey "D">
-<!ENTITY openConversationCmd.key "o">
 <!ENTITY openInConversationCmd.label "Digeriñ er gaozeadenn">
 <!ENTITY openInConversationCmd.accesskey "g">
 <!ENTITY openInConversationCmd.key "o">
@@ -795,6 +792,8 @@
 <!ENTITY contextMoveMsgMenu.accesskey "D">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Nevesañ">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "v">
+<!ENTITY contextMoveCopyMsgFavoritesMenu.label "Pennrolloù">
+<!ENTITY contextMoveCopyMsgFavoritesMenu.accesskey "P">
 <!ENTITY contextCopyMsgMenu.label "Eilañ etrezek">
 <!ENTITY contextCopyMsgMenu.accesskey "k">
 <!ENTITY contextKillThreadMenu.label "Leuskel an neudenn a-gostez">
