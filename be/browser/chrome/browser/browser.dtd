@@ -883,6 +883,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsReloadHint "Магчыма, вам спатрэбіцца перазагрузіць старонку, каб змены пачалі дзейнічаць.">
 <!ENTITY identity.permissionsPreferences.tooltip "Адкрыць налады дазволаў">
 
+<!ENTITY identity.contentBlockingPreferences.tooltip "Адкрыць налады блакаванага змесціва">
+
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Карткі браўзера">

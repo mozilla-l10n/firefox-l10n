@@ -618,6 +618,7 @@ sitedata-keep-until-closed =
 sitedata-delete-on-close =
     .label = Выдаляць кукі і звесткі сайтаў па закрыцці { -brand-short-name }
     .accesskey = с
+sitedata-delete-on-close-private-browsing = У рэжыме сталага прыватнага аглядання кукі і звесткі сайтаў будуць заўсёды выдаляцца па закрыцці { -brand-short-name }.
 sitedata-allow-cookies-option =
     .label = Прымаць кукі і звесткі сайтаў
     .accesskey = П
