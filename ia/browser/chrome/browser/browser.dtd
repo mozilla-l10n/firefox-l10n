@@ -984,12 +984,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "Le audio del scheda essera compartite.">
 <!ENTITY getUserMedia.allWindowsShared.message "Tote le fenestras visibile super tu schermo essera compartite.">
 
-<!ENTITY contentBlocking.title "Blocage de contentos">
+<!ENTITY contentBlocking.title "Blocada de contentos">
 <!ENTITY contentBlocking.detected "Contentos blocabile disvelate sur iste sito.">
 <!ENTITY contentBlocking.notDetected "Nulle contentos blocabile disvelate sur iste sito.">
 <!ENTITY contentBlocking.disabled.label "Disactivate">
-<!ENTITY contentBlocking.disabled.tooltip "Tu ha disactivate le blocage de contentos.">
-<!ENTITY contentBlocking.exception.tooltip "Tu ha disactivate le blocage de contentos pro iste sito.">
+<!ENTITY contentBlocking.disabled.tooltip "Tu ha disactivate le Blocada de contentos.">
+<!ENTITY contentBlocking.exception.tooltip "Tu ha disactivate le Blocada de contentos pro iste sito.">
 
 <!ENTITY contentBlocking.fastBlock.label "Traciatores lente">
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
@@ -1059,7 +1059,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Reportar un problema">
 <!ENTITY contentBlocking.breakageReportView.label "Reportar problemas">
-<!ENTITY contentBlocking.breakageReportView2.description "Le blocage de contentos pote causar problemas con alcun sitos web. Quando tu reporta problemas, tu adjutara a render &brandShortName; melior pro totes. (Isto inviara a Mozilla un URL tam ben como informationes circa configurationes de tu navigator.)">
+<!ENTITY contentBlocking.breakageReportView2.description "Le Blocada de contentos pote causar problemas con alcun sitos web. Quando tu reporta problemas, tu adjutara a render &brandShortName; melior pro totes. (Isto inviara a Mozilla un URL tam ben como informationes circa configurationes de tu navigator.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Saper plus">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Que problema ha tu? (Optional)">

@@ -656,7 +656,7 @@ sitedata-cookies-exceptions =
 # This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
 # in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
 # Cookies and Site Data section.
-sitedata-warning-your-settings-prevent-changes = Tu parametros de blocage de contentos impedi cambiamentos al configurationes del cookies e al datos del sito.
+sitedata-warning-your-settings-prevent-changes = Tu parametros de Blocada de contentos impedi cambiamentos al configurationes del cookies e al datos del sito.
 sitedata-cookies-permissions =
     .label = Gerer le permissiones…
     .accesskey = p
