@@ -19,6 +19,11 @@
 <!ENTITY rememberPassword.label          "Zapomni si geslo">
 <!ENTITY rememberPassword.accesskey      "Z">
 
+<!ENTITY usernameEx.label                "Vaša prijava:">
+<!ENTITY usernameEx.accesskey            "p">
+<!-- LOCALIZATION NOTE(usernameEx.placeholder): YOURDOMAIN refers to the Windows domain in ActiveDirectory. yourusername refers to the user's account name in Windows. -->
+<!-- LOCALIZATION NOTE(usernameEx.text): Domain refers to the Windows domain in ActiveDirectory. We mean the user's login in Windows at the local corporate network. -->
+
 <!ENTITY imapLong.label                  "IMAP (oddaljene mape)">
 <!ENTITY pop3Long.label                  "POP3 (pošto se hrani na vašem računalniku)">
 
