@@ -59,9 +59,9 @@ permissions-invalid-uri-label = Per favor insere un nomine de hoste valide
 ## Exceptions - Tracking Protection
 
 permissions-exceptions-content-blocking-window =
-    .title = Exceptiones - Blocage de contento
+    .title = Exceptiones - Blocada de contentos
     .style = { permissions-window.style }
-permissions-exceptions-content-blocking-desc = Tu ha disactivate le blocage de contento pro iste sito web.
+permissions-exceptions-content-blocking-desc = Tu ha disactivate le Blocada de contentos pro iste sito web.
 
 ## Exceptions - Cookies
 
@@ -106,7 +106,7 @@ permissions-site-notification-window =
 permissions-site-notification-desc = Le sitos web sequente ha requirite de te mitter notificationes. Tu pote specificar a qual sitos web es consentite de te mitter notificationes. Tu pote alsi blocar nove requestas de consentir notificationes.
 permissions-site-notification-disable-label =
     .label = Blocar nove requestas de consentir notificationes
-permissions-site-notification-disable-desc = Isto impedira qualcunque sitos web non listate antea de demandar licentia a mitter notificationes. Le bloco del notificationes pote infringer le functionalitate de alcun sito web.
+permissions-site-notification-disable-desc = Isto impedira qualcunque sitos web non listate antea de demandar licentia a mitter notificationes. Le blocada del notificationes pote infringer le functionalitate de alcun sito web.
 
 ## Site Permissions - Location
 
