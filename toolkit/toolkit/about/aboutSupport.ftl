@@ -182,6 +182,8 @@ virtual-monitor-disp = Pantalla de monitor virtual
 
 found = Encontrado
 missing = Ausente
+gpu-process-pid = GPUProcessPid
+gpu-process = GPUProcess
 gpu-description = Descripción
 gpu-vendor-id = ID del fabricante
 gpu-device-id = ID del dispositivo
@@ -220,6 +222,8 @@ uses-tiling = Usa mosaicos
 content-uses-tiling = Usa mosaicos (contenido)
 off-main-thread-paint-enabled = Dibujado fuera del hilo principal de ejecución activado
 off-main-thread-paint-worker-count = Contador de workers de dibujado ajenos al hilo principal de ejecución
+low-end-machine = Se ha detectado una máquina de bajo rendimiento
+target-frame-rate = Frecuencia de imágenes objetivo
 audio-backend = Sistema de audio
 max-audio-channels = Canales máximos
 channel-layout = Disposición de canales preferida

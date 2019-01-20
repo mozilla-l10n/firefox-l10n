@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 url-classifier-title = Información del clasificador de URL
+url-classifier-search-title = Buscar
 url-classifier-provider-title = Proveedor
 url-classifier-provider = Proveedor
 url-classifier-provider-last-update-time = Fecha y hora de última actualización
