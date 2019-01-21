@@ -207,3 +207,8 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Sebded ileqman
     .tooltiptext = Sebded ileqman yellan di tebdart-agi
+
+## Extension shortcut management
+
+shortcuts-manage =
+    .label = Inegzumen n unasiw

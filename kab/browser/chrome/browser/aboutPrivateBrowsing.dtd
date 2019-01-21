@@ -37,6 +37,9 @@
 <!ENTITY contentBlocking.description                     "Kra n ismal web seqdacen ineḍfaren izemren ad walin armud-inek deg internet.deg usfaylu uslig, Firefx ad isewḥel swudem awurman agbur, akked ineḍrafen ibɣan ad leqḍen talɣut n tunigin-inek.">
 
 <!-- Strings for new Private Browsing with Search -->
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.search.placeholder): This is the placeholder
+                       text for the search box.   -->
+<!ENTITY aboutPrivateBrowsing.search.placeholder         "Nadi di Web">
 <!ENTITY aboutPrivateBrowsing.info.title                 "Deg usfaylu uslig i telliḍ tura">
 <!ENTITY aboutPrivateBrowsing.info.description           "&brandShortName; iseffeḍ amazray n unadi d tunigin mi ara tefɣeḍ sed usnas neɣ ad tmedleḍ iccaren n ifuyla n tunigin tusligin. aya ad ak-ikkes udem uslig mi ara ti,igeḍ. ">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article
