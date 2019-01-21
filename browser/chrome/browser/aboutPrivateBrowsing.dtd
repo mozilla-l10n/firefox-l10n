@@ -37,6 +37,9 @@
 <!ENTITY contentBlocking.description                     "Bazı web siteleri, siteler arasında gezindiğinizde sizi izleyebilecek takipçiler kullanır. Gizli penceredeyken Firefox’un içerik engelleme özelliği, gezintinizle ilgili bilgi toplayarak takipçilerin çoğunu otomatik olarak engeller.">
 
 <!-- Strings for new Private Browsing with Search -->
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.search.placeholder): This is the placeholder
+                       text for the search box.   -->
+<!ENTITY aboutPrivateBrowsing.search.placeholder         "Web’de ara">
 <!ENTITY aboutPrivateBrowsing.info.title                 "Gizli penceredesiniz">
 <!ENTITY aboutPrivateBrowsing.info.description           "&brandShortName; uygulamasından çıktığınızda veya tüm Gizli Gezinti sekmelerini ve pencerelerini kapattığınızda arama ve gezinti geçmişiniz temizlenir. Bu işlem, web sitelerinin ve internet servis sağlayıcınızın sizi tanımamasını sağlamaz ama bu bilgisayarı kullanan başkaları varsa internette yaptıklarınızı onlardan gizlemenizi sağlar.">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article

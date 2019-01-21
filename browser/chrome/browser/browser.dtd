@@ -883,6 +883,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsReloadHint "Değişikliklerin uygulanması için bu sayfayı tazelemeniz gerekebilir.">
 <!ENTITY identity.permissionsPreferences.tooltip "İzin tercihlerini aç">
 
+<!ENTITY identity.contentBlockingPreferences.tooltip "İçerik engelleme tercihlerini aç">
+
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Tarayıcı sekmeleri">
