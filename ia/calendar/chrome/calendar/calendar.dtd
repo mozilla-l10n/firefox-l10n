@@ -250,26 +250,49 @@
       list. -->
 <!ENTITY calendar.context.removeserver.label           "Remove calendario…">
 <!ENTITY calendar.context.removeserver.accesskey       "R">
+<!ENTITY calendar.context.export.label                 "Exportar calendario…">
+<!ENTITY calendar.context.export.accesskey             "E">
 <!ENTITY calendar.context.properties.label             "Proprietates">
 <!ENTITY calendar.context.properties.accesskey         "P">
 
 <!-- LOCALIZATION NOTE (calendar.context.showcalendar.accesskey)
      This is the access key used for the showCalendar string -->
+<!ENTITY calendar.context.showcalendar.accesskey      "s">
 
 <!-- LOCALIZATION NOTE (calendar.context.hidecalendar.accesskey)
      This is the access key used for the hideCalendar string -->
+<!ENTITY calendar.context.hidecalendar.accesskey      "N">
 
 <!-- LOCALIZATION NOTE (calendar.context.showonly.accesskey)
      This is the access key used for the showOnlyCalendar string -->
+<!ENTITY calendar.context.showonly.accesskey           "o">
+<!ENTITY calendar.context.showall.label                "Monstrar tote le calendarios">
+<!ENTITY calendar.context.showall.accesskey            "T">
 
+<!ENTITY calendar.context.convertmenu.event.label        "Evento…">
+<!ENTITY calendar.context.convertmenu.event.accesskey    "E">
+<!ENTITY calendar.context.convertmenu.message.label      "Message…">
+<!ENTITY calendar.context.convertmenu.message.accesskey  "M">
+<!ENTITY calendar.context.convertmenu.task.label         "Activitate…">
+<!ENTITY calendar.context.convertmenu.task.accesskey     "A">
 
 
 
 
 <!-- Calendar Alarm Dialog -->
 
+<!ENTITY calendar.alarm.location.label              "Adresse:" >
+<!ENTITY calendar.alarm.details.label               "Detalios…" >
 
+<!ENTITY calendar.alarm.title.label                 "Mementos del calendario" >
+<!ENTITY calendar.alarm.dismiss.label               "Dimitter" >
+<!ENTITY calendar.alarm.dismissall.label            "Dimitter toto" >
 
+<!ENTITY calendar.alarm.snooze.5minutes.label       "5 Minutas" >
+<!ENTITY calendar.alarm.snooze.10minutes.label      "10 Minutas" >
+<!ENTITY calendar.alarm.snooze.15minutes.label      "15 Minutas" >
+<!ENTITY calendar.alarm.snooze.30minutes.label      "30 Minutas" >
+<!ENTITY calendar.alarm.snooze.45minutes.label      "45 Minutas" >
 <!ENTITY calendar.alarm.snooze.1hour.label          "1 Hora" >
 <!ENTITY calendar.alarm.snooze.2hours.label         "2 Horas" >
 <!ENTITY calendar.alarm.snooze.1day.label           "1 Die" >
@@ -280,8 +303,13 @@
      dialog. -->
 
 <!-- Calendar Server Dialog -->
+<!ENTITY calendar.server.dialog.title.edit          "Rediger le calendario">
+<!ENTITY calendar.server.dialog.name.label          "Nomine de calendario:">
 
 <!-- Calendar Properties -->
+<!ENTITY calendarproperties.color.label                    "Color:">
+<!ENTITY calendarproperties.webdav.label                   "iCalendar (ICS)">
+<!ENTITY calendarproperties.caldav.label                   "CalDAV">
 <!ENTITY calendarproperties.format.label                   "Formato:">
 <!ENTITY calendarproperties.location.label                 "Adresse:">
 <!ENTITY calendarproperties.name.label                     "Nomine:">
@@ -289,6 +317,7 @@
 <!ENTITY calendarproperties.firealarms.label               "Monstrar mementos">
 
 <!-- Calendar Publish Dialog -->
+<!ENTITY calendar.publish.publish.button      "Publicar">
 <!ENTITY calendar.publish.close.button      "Clauder">
 
 
@@ -315,3 +344,5 @@
 <!ENTITY calendar.error.title "Un error occurreva">
 
 <!-- Extract buttons in message header -->
+<!ENTITY calendar.extract.event.button         "Adder como evento">
+<!ENTITY calendar.extract.task.button          "Adder como activitate">

@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY event.title.label                  "Rediger elemento" >
 
 
 <!ENTITY newevent.from.label                "De" >
@@ -81,7 +82,13 @@
 
 
 <!-- Toolbar -->
+<!ENTITY  event.toolbar.saveandclose.label                "Salvar e clauder">
+<!ENTITY  event.toolbar.delete.label                      "Deler">
+<!ENTITY  event.toolbar.privacy.label                     "Confidentialitate">
 
+<!ENTITY  event.toolbar.save.tooltip2                     "Salvar">
+<!ENTITY  event.toolbar.saveandclose.tooltip              "Salvar e clauder">
+<!ENTITY  event.toolbar.delete.tooltip                    "Deler">
 
 <!-- Counter box -->
 <!-- LOCALIZATON NOTE(counter.button.*)
@@ -92,12 +99,28 @@
    - illustrates how it might look like: https://bugzilla.mozilla.org/attachment.cgi?id=8810121 -->
 
 <!-- Main page -->
+<!ENTITY event.description.label                          "Description:" >
+<!ENTITY event.description.accesskey                      "p">
+<!ENTITY event.attachments.label                          "Annexos:" >
+<!ENTITY event.attachments.accesskey                      "e" >
+<!ENTITY event.attachments.popup.remove.label             "Remover" >
+<!ENTITY event.attachments.popup.remove.accesskey         "R" >
+<!ENTITY event.attachments.popup.open.label               "Aperir" >
+<!ENTITY event.attachments.popup.open.accesskey           "A" >
+<!ENTITY event.attachments.popup.removeAll.label          "Remover toto" >
+<!ENTITY event.attachments.popup.removeAll.accesskey      "T" >
+<!ENTITY event.priority2.label                            "Prioritate:">
+
+<!ENTITY event.reminder.none.label                        "Nulle memento" >
+<!ENTITY event.reminder.custom.label                      "Personalisar…" >
 
 
-
+<!ENTITY event.statusbarpanel.privacy.label               "Confidentialitate:">
 
 <!-- Recurrence dialog -->
 
+<!ENTITY event.repeat.monthly.label                     "Cata mense">
+<!ENTITY event.repeat.custom.label                      "Personalisate…">
 
 
 
