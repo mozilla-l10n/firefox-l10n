@@ -39,6 +39,7 @@
 <!ENTITY calendar.unifinder.tree.startdate.tooltip2        "Ordinar per data de initio">
 <!ENTITY calendar.unifinder.tree.enddate.label             "Fin">
 <!ENTITY calendar.unifinder.tree.enddate.tooltip2          "Ordinar per le data de fin">
+<!ENTITY calendar.unifinder.tree.duedate.label             "Termino">
 <!ENTITY calendar.unifinder.tree.duedate.tooltip2          "Ordinar per termino">
 <!ENTITY calendar.unifinder.tree.completeddate.label       "Completate">
 <!ENTITY calendar.unifinder.tree.completeddate.tooltip2    "Ordinar per le data de completamento">

@@ -4,6 +4,8 @@
 
 <!ENTITY event.title.label                  "Rediger elemento" >
 
+<!ENTITY event.dialog.keepDurationButton.tooltip   "Mantener le duration al cambiamento del data de fin">
+<!ENTITY event.dialog.keepDurationButton.accesskey "M">
 
 <!ENTITY newevent.from.label                "De" >
 <!ENTITY newevent.to.label                  "A" >
@@ -64,6 +66,8 @@
 <!ENTITY  event.menu.item.new.task.accesskey              "A">
 <!ENTITY  event.menu.item.new.message.label               "Message">
 <!ENTITY  event.menu.item.new.message.accesskey           "M">
+<!ENTITY  event.menu.item.new.contact.label               "Contacto del libro de aderesses">
+<!ENTITY  event.menu.item.new.contact.accesskey           "C">
 <!ENTITY  event.menu.item.close.label                     "Clauder">
 <!ENTITY  event.menu.item.close.accesskey                 "C">
 
@@ -262,6 +266,7 @@
 <!ENTITY event.repeat.does.not.repeat.label             "Nulle recurrentia">
 <!ENTITY event.repeat.daily.label                       "Quotidian">
 <!ENTITY event.repeat.weekly.label                      "Septimanal">
+<!ENTITY event.repeat.every.weekday.label               "Cata die del septimana">
 <!ENTITY event.repeat.bi.weekly.label                   "Biseptimanal">
 <!ENTITY event.repeat.monthly.label                     "Cata mense">
 <!ENTITY event.repeat.yearly.label                      "Annual">
@@ -276,6 +281,7 @@
 
 <!ENTITY event.recurrence.pattern.every.label           "Cata" >
 <!ENTITY repeat.units.days.both                         "Die(s)" >
+<!ENTITY event.recurrence.pattern.every.weekday.label   "Cata die del septimana" >
 
 <!ENTITY event.recurrence.pattern.weekly.every.label    "Cata" >
 <!ENTITY repeat.units.weeks.both                        "Septimana(s)" >
@@ -298,6 +304,7 @@
 <!ENTITY event.recurrence.pattern.monthly.week.6.label  "venerdi" >
 <!ENTITY event.recurrence.pattern.monthly.week.7.label  "sabbato" >
 <!ENTITY event.recurrence.repeat.dayofmonth.label       "Die del mense">
+<!ENTITY event.recurrence.repeat.recur.label            "Repeter in die(s)">
 
 <!ENTITY event.recurrence.every.label                        "Cata:" >
 <!ENTITY repeat.units.years.both                             "Anno(s)" >
@@ -416,3 +423,4 @@
 <!ENTITY summary.dialog.dontsend.label          "Non inviar un responsa">
 <!ENTITY summary.dialog.dontsend.tooltiptext    "Cambiar tu stato de participation sin inviar un responsa al organisator e clauder le fenestra">
 <!ENTITY summary.dialog.send.label              "Inviar un responsa ora">
+<!ENTITY summary.dialog.send.tooltiptext        "Inviar un responsa al organisator  e clauder le fenestra">
