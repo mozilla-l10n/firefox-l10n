@@ -24,6 +24,7 @@
 <!ENTITY calendar.events.filter.next7Days.label "Eventos in le proxime 7 dies">
 <!ENTITY calendar.events.filter.next14Days.label "Eventos in le proxime 14 dies">
 <!ENTITY calendar.events.filter.next31Days.label "Eventos in le proxime 31 dies">
+<!ENTITY calendar.events.filter.thisCalendarMonth.label "Eventos in iste mense">
 
 <!-- LOCALIZATION NOTE(calendar.unifinder.tree.done.tooltip)
    - This label and tooltip is used for the column with the checkbox in the
@@ -35,6 +36,7 @@
 <!ENTITY calendar.unifinder.tree.title.label               "Titulo">
 <!ENTITY calendar.unifinder.tree.title.tooltip2            "Ordinar per titulo">
 <!ENTITY calendar.unifinder.tree.percentcomplete.label     "&#37; Complete">
+<!ENTITY calendar.unifinder.tree.percentcomplete.tooltip2  "Ordinar per &#37; complete">
 <!ENTITY calendar.unifinder.tree.startdate.label           "Initiar">
 <!ENTITY calendar.unifinder.tree.startdate.tooltip2        "Ordinar per data de initio">
 <!ENTITY calendar.unifinder.tree.enddate.label             "Fin">
@@ -388,6 +390,7 @@
 <!ENTITY calendar.print.to.label "A:">
 <!ENTITY calendar.print.settingsGroup.label "Parametros de impression">
 <!ENTITY calendar.print.optionsGroup.label "Optiones">
+<!ENTITY calendar.print.taskswithnoduedate.label "Eventos sin data de termino">
 <!ENTITY calendar.print.completedtasks.label "Activitates completate">
 
 <!-- Error reporting -->
