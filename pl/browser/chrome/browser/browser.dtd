@@ -73,6 +73,7 @@
 <!ENTITY closeTab.accesskey                  "a" >
 <!ENTITY hiddenTabs.label "Ukryte karty">
 <!ENTITY listAllTabs.label "Pokaż wszystkie karty">
+<!ENTITY allTabsMenu.searchTabs.label "Przeszukaj karty">
 <!ENTITY tabCmd.label "Nowa karta" >
 <!ENTITY tabCmd.accesskey "t" >
 <!ENTITY tabCmd.commandkey "t" >
