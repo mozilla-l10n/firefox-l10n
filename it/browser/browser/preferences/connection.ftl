@@ -70,9 +70,6 @@ connection-proxy-socks-remote-dns =
 connection-dns-over-https =
     .label = Attiva DNS over HTTPS
     .accesskey = H
-connection-dns-over-https-url = URL
-    .accesskey = U
-    .tooltiptext = Indirizzo per risolvere richieste DNS over HTTPS
 
 # Variables:
 #   $url (String) - URL for the DNS over HTTPS provider
