@@ -44,6 +44,7 @@ app-basics-memory-use = Uzado de memoro
 app-basics-performance = Efikeco
 app-basics-service-workers = Registritaj Service Workers
 app-basics-profiles = Profiloj
+app-basics-launcher-process-status = Lanĉa procezo
 app-basics-multi-process-support = Plurprocezaj fenestroj
 app-basics-process-count = Teksaĵaj enhavaj taskoj
 app-basics-enterprise-policies = Kompaniaj politikoj
@@ -241,6 +242,10 @@ effective-content-sandbox-level = Efektiva nivelo de izolado por enhava procezo
 sandbox-proc-type-content = enhavo
 sandbox-proc-type-file = enhavo de dosiero
 sandbox-proc-type-media-plugin = aŭdvida kromprogramo
+launcher-process-status-0 = Aktiva
+launcher-process-status-1 = Malaktiva pro paneo
+launcher-process-status-2 = Devigite malaktiva
+launcher-process-status-unknown = Nekonata stato
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
