@@ -37,6 +37,9 @@
 <!ENTITY contentBlocking.description                     "Někotare websedła wužywaju pśeslědowaki, kótarež wašu aktiwitu pśez internet wobglěduju. W priwatnych woknach blokěrowanje wopśimjeśa Firefox awtomatiski wjele pśeslědowaki blokěrujo, kótarež mógu informacije wó wašom pśeglědowańskem zaźaržanju nagromaźiś.">
 
 <!-- Strings for new Private Browsing with Search -->
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.search.placeholder): This is the placeholder
+                       text for the search box.   -->
+<!ENTITY aboutPrivateBrowsing.search.placeholder         "Web pśepytaś">
 <!ENTITY aboutPrivateBrowsing.info.title                 "Sćo w priwatnem woknje">
 <!ENTITY aboutPrivateBrowsing.info.description           "&brandShortName; wašu pytańsku a pśeglědowańsku historjiu wuproznijo, gaž nałoženje spušćijośo abo wšykne rejtarki a wokna priwatnego modus zacynijośo. Pšez to se wólažcyjo, pśed drugimi, kótarež toś to licadło wužywaju, schowaś, což online gótujośo, lěcrownož to was za websedła abo wašogo póbitowarja internetneje słužby njeanonymizěrujo.">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article
