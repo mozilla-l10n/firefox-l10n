@@ -241,6 +241,8 @@ effective-content-sandbox-level = Etkin içerik işlemi kum havuzu düzeyi
 sandbox-proc-type-content = içerik
 sandbox-proc-type-file = dosya içeriği
 sandbox-proc-type-media-plugin = ortam yan uygulaması
+launcher-process-status-0 = Etkin
+launcher-process-status-unknown = Bilinmeyen durum
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
