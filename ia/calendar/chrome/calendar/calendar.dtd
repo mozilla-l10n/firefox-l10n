@@ -10,6 +10,7 @@
 <!ENTITY calendar.newtask.button.tooltip          "Crear un nove activitate" >
 
 <!ENTITY calendar.unifinder.todoitems.label       "Activitates" >
+<!ENTITY calendar.unifinder.showcompletedtodos.label "Monstrar activitates completate">
 
 <!ENTITY calendar.today.button.label          "Hodie">
 <!ENTITY calendar.tomorrow.button.label       "Deman">
@@ -28,6 +29,7 @@
    - This label and tooltip is used for the column with the checkbox in the
    - task tree view. -->
 <!ENTITY calendar.unifinder.tree.done.label                "Facite">
+<!ENTITY calendar.unifinder.tree.done.tooltip2             "Ordinar per completamento">
 <!ENTITY calendar.unifinder.tree.priority.label            "Prioritate">
 <!ENTITY calendar.unifinder.tree.priority.tooltip2         "Ordinar per prioritate">
 <!ENTITY calendar.unifinder.tree.title.label               "Titulo">
@@ -45,6 +47,8 @@
 <!ENTITY calendar.unifinder.tree.location.tooltip2         "Ordinar per adresse">
 <!ENTITY calendar.unifinder.tree.status.label              "Stato">
 <!ENTITY calendar.unifinder.tree.status.tooltip2           "Ordinar per stato">
+<!ENTITY calendar.unifinder.tree.calendarname.label        "Nomine de calendario">
+<!ENTITY calendar.unifinder.tree.calendarname.tooltip2     "Ordinar per nomine de calendario">
 
 <!ENTITY calendar.today.button.tooltip          "Ir a hodie" >
 
@@ -121,6 +125,7 @@
 <!ENTITY calendar.task-details.attachments.label     "annexos">
 <!ENTITY calendar.task-details.start.label           "data de initio">
 
+<!ENTITY calendar.task.complete.button.tooltip  "Marcar le activitates seligite como completate">
 
 
 <!-- Context Menu -->
@@ -294,7 +299,19 @@
 <!ENTITY calendar.print.layout.label "Disposition:">
 <!ENTITY calendar.print.range.label "Que imprimer">
 <!ENTITY calendar.print.currentView2.label "Vista actual">
+<!ENTITY calendar.print.tasks.label "Activitates">
+<!ENTITY calendar.print.events.label "Eventos">
+<!ENTITY calendar.print.custom.label "Gammas de datas personalisate:">
+<!ENTITY calendar.print.from.label "De:">
+<!ENTITY calendar.print.to.label "A:">
+<!ENTITY calendar.print.settingsGroup.label "Parametros de impression">
+<!ENTITY calendar.print.optionsGroup.label "Optiones">
+<!ENTITY calendar.print.completedtasks.label "Activitates completate">
 
 <!-- Error reporting -->
+<!ENTITY calendar.error.detail "Detalios…">
+<!ENTITY calendar.error.code "Codice de error:">
+<!ENTITY calendar.error.description "Description:">
+<!ENTITY calendar.error.title "Un error occurreva">
 
 <!-- Extract buttons in message header -->
