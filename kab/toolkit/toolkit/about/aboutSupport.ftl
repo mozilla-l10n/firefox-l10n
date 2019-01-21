@@ -241,6 +241,7 @@ effective-content-sandbox-level = Aswir n usersu n ukala n ugbur
 sandbox-proc-type-content = agbur
 sandbox-proc-type-file = agbur n ufaylu
 sandbox-proc-type-media-plugin = asiɣzef n wallen n teywalt
+launcher-process-status-0 = Irmed
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
