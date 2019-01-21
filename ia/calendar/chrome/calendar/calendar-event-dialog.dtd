@@ -16,8 +16,12 @@
 <!ENTITY newevent.eventStatus.cancelled.label     "Cancellate" >
 <!ENTITY newevent.eventStatus.cancelled.accesskey "n" >
 <!ENTITY newevent.todoStatus.cancelled.label      "Cancellate" >
+<!ENTITY newevent.status.tentative.label          "Provisori" >
+<!ENTITY newevent.status.tentative.accesskey      "P" >
 <!ENTITY newevent.status.confirmed.label          "Confirmate" >
 <!ENTITY newevent.status.confirmed.accesskey      "C" >
+<!ENTITY newevent.status.needsaction.label        "Require action" >
+<!ENTITY newevent.status.inprogress.label         "In curso" >
 <!ENTITY newevent.status.completed.label          "Completate le" >
 
 <!-- The following entity is for New Task dialog only -->
@@ -27,10 +31,35 @@
      event.attendees.disallowcounter.label)
    - These three labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
+<!ENTITY event.attendees.notify.label                "Informar le participantes">
+<!ENTITY event.attendees.notify.accesskey            "f">
+<!ENTITY event.attendees.notifyundisclosed.label     "Invitation separate per participante">
+<!ENTITY event.attendees.notifyundisclosed.accesskey "e">
+<!ENTITY event.attendees.notifyundisclosed.tooltip   "Iste option invia un email de invitation pro participante. Cata invitation contine solo le participante destinatario a fin que le identitates del participantes non sia divulgate.">
+<!ENTITY event.attendees.disallowcounter.label       "Non permitter contra-propositiones">
+<!ENTITY event.attendees.disallowcounter.accesskey   "o">
+<!ENTITY event.attendees.disallowcounter.tooltip     "Indicar que tu non acceptara le contra-propositiones">
 
 <!-- Keyboard Shortcuts -->
+<!ENTITY event.dialog.new.event.key2              "I">
+<!ENTITY event.dialog.new.task.key2               "D">
+<!ENTITY event.dialog.new.message.key2            "N">
+<!ENTITY event.dialog.close.key                   "W">
+<!ENTITY event.dialog.save.key                    "S">
+<!ENTITY event.dialog.saveandclose.key            "L">
+<!ENTITY event.dialog.print.key                   "P">
+<!ENTITY event.dialog.undo.key                    "Z">
+<!ENTITY event.dialog.redo.key                    "Y">
+<!ENTITY event.dialog.cut.key                     "X">
+<!ENTITY event.dialog.copy.key                    "C">
+<!ENTITY event.dialog.paste.key                   "V">
+<!ENTITY event.dialog.select.all.key              "A">
 
 <!-- Menubar -->
+<!ENTITY  event.menu.item.new.label                       "Nove">
+<!ENTITY  event.menu.item.new.accesskey                   "N">
+<!ENTITY  event.menu.item.new.event.label                 "Evento">
+<!ENTITY  event.menu.item.new.event.accesskey             "E">
 <!ENTITY  event.menu.item.new.task.label                  "Activitate">
 <!ENTITY  event.menu.item.new.task.accesskey              "A">
 <!ENTITY  event.menu.item.new.message.label               "Message">
@@ -78,7 +107,38 @@
 <!ENTITY  event.menu.edit.select.all.label                "Seliger toto">
 <!ENTITY  event.menu.edit.select.all.accesskey            "A">
 
+<!ENTITY  event.menu.view.label                           "Vider">
+<!ENTITY  event.menu.view.accesskey                       "V">
+<!ENTITY  event.menu.view.toolbars.label                  "Barras de utensiles">
+<!ENTITY  event.menu.view.toolbars.accesskey              "T">
+<!ENTITY  event.menu.view.toolbars.event.label            "Barra de utensile de evento">
+<!ENTITY  event.menu.view.toolbars.event.accesskey        "E">
+<!ENTITY  event.menu.view.toolbars.customize.label        "Personalisar…">
+<!ENTITY  event.menu.view.toolbars.customize.accesskey    "P">
+<!ENTITY  event.menu.view.showlink.label                  "Monstrar ligamines correlate">
+<!ENTITY  event.menu.view.showlink.accesskey              "c">
 
+<!ENTITY  event.menu.options.label                            "Optiones">
+<!ENTITY  event.menu.options.accesskey                        "O">
+<!ENTITY  event.menu.options.attendees.label                  "Invitar participantes…">
+<!ENTITY  event.menu.options.attendees.accesskey              "I">
+<!ENTITY  event.menu.options.timezone2.label                  "Monstrar fusos horari">
+<!ENTITY  event.menu.options.timezone2.accesskey              "h">
+<!ENTITY  event.menu.options.priority2.label                  "Prioritate">
+<!ENTITY  event.menu.options.priority2.accesskey              "i">
+<!ENTITY  event.menu.options.priority.notspecified.label      "Non specificate">
+<!ENTITY  event.menu.options.priority.notspecified.accesskey  "o">
+<!ENTITY  event.menu.options.priority.low.label               "Basse">
+<!ENTITY  event.menu.options.priority.low.accesskey           "B">
+<!ENTITY  event.menu.options.priority.normal.label            "Normal">
+<!ENTITY  event.menu.options.priority.normal.accesskey        "N">
+<!ENTITY  event.menu.options.priority.high.label              "Alte">
+<!ENTITY  event.menu.options.priority.high.accesskey          "A">
+<!ENTITY  event.menu.options.privacy.label                    "Confidentialitate">
+<!ENTITY  event.menu.options.privacy.accesskey                "C">
+<!ENTITY  event.menu.options.privacy.public.label             "Evento public">
+<!ENTITY  event.menu.options.privacy.public.accesskey         "u">
+<!ENTITY  event.menu.options.privacy.confidential.label       "Visualisa solo le hora e le data">
 
 
 <!-- Toolbar -->
