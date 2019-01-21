@@ -207,3 +207,20 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Instali ĝisdatigojn
     .tooltiptext = Instali haveblajn ĝisdatigojn en tiu ĉi listo
+
+## Extension shortcut management
+
+shortcuts-manage =
+    .label = Alirklavoj
+shortcuts-empty-message = Estas neniu alirklavo por tiu ĉi etendaĵo.
+shortcuts-no-addons = Vi havas neniun aktivan etendaĵon.
+shortcuts-input =
+    .placeholder = Tajpu alirklavon
+shortcuts-browserAction = Aktivigi etendaĵon
+shortcuts-pageAction = Aktivigi paĝan agon
+shortcuts-sidebarAction = Montri/kaŝi flankan strion
+shortcuts-modifier-mac = Inkluzivi Stir, Alt aŭ ⌘
+shortcuts-modifier-other = Inkluzivi Stir aŭ Alt
+shortcuts-invalid = Nevalida kombino
+shortcuts-letter = Tajpu literon
+shortcuts-system = Ne eblas anstataŭigi alirklavon de { -brand-short-name }

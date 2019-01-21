@@ -883,6 +883,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsReloadHint "Vi eble bezonos reŝargi la paĝon por ke la ŝanĝoj estu aplikitaj.">
 <!ENTITY identity.permissionsPreferences.tooltip "Malfermi preferojn de permesoj">
 
+<!ENTITY identity.contentBlockingPreferences.tooltip "Malfermi preferojn de blokado de enhavo">
+
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Langetoj de retumilo">
