@@ -122,11 +122,14 @@
 <!ENTITY calendar.task-details.priority.high.label   "Alte">
 <!ENTITY calendar.task-details.status.label          "stato">
 <!ENTITY calendar.task-details.category.label        "categoria">
+<!ENTITY calendar.task-details.repeat.label          "repeter">
 <!ENTITY calendar.task-details.attachments.label     "annexos">
 <!ENTITY calendar.task-details.start.label           "data de initio">
 
 <!ENTITY calendar.task.complete.button.tooltip  "Marcar le activitates seligite como completate">
 
+<!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.nonmac "&lt;Ctrl+Shift+K&gt;">
+<!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.mac    "&lt;&#x21E7;&#x2318;K&gt;">
 
 <!-- Context Menu -->
 <!ENTITY calendar.context.modifyorviewitem.label      "Aperir">
@@ -250,6 +253,7 @@
       list. -->
 <!ENTITY calendar.context.removeserver.label           "Remove calendario…">
 <!ENTITY calendar.context.removeserver.accesskey       "R">
+<!ENTITY calendar.context.synccalendars.label          "Synchronisar le agendas">
 <!ENTITY calendar.context.export.label                 "Exportar calendario…">
 <!ENTITY calendar.context.export.accesskey             "E">
 <!ENTITY calendar.context.properties.label             "Proprietates">
@@ -269,6 +273,7 @@
 <!ENTITY calendar.context.showall.label                "Monstrar tote le calendarios">
 <!ENTITY calendar.context.showall.accesskey            "T">
 
+<!ENTITY calendar.context.convertmenu.label              "Converter in">
 <!ENTITY calendar.context.convertmenu.event.label        "Evento…">
 <!ENTITY calendar.context.convertmenu.event.accesskey    "E">
 <!ENTITY calendar.context.convertmenu.message.label      "Message…">
@@ -312,9 +317,12 @@
 <!ENTITY calendarproperties.caldav.label                   "CalDAV">
 <!ENTITY calendarproperties.format.label                   "Formato:">
 <!ENTITY calendarproperties.location.label                 "Adresse:">
+<!ENTITY calendarproperties.refreshInterval.manual.label   "Manualmente">
 <!ENTITY calendarproperties.name.label                     "Nomine:">
 <!ENTITY calendarproperties.readonly.label                 "Lectura solmente">
 <!ENTITY calendarproperties.firealarms.label               "Monstrar mementos">
+<!ENTITY calendarproperties.cache3.label                   "Supporto non in linea">
+<!ENTITY calendarproperties.enabled.label                  "Activar iste agenda">
 
 <!-- Calendar Publish Dialog -->
 <!ENTITY calendar.publish.publish.button      "Publicar">
