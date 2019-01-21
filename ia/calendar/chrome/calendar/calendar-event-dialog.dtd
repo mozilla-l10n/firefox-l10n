@@ -264,12 +264,44 @@
 <!ENTITY event.repeat.weekly.label                      "Septimanal">
 <!ENTITY event.repeat.bi.weekly.label                   "Biseptimanal">
 <!ENTITY event.repeat.monthly.label                     "Cata mense">
+<!ENTITY event.repeat.yearly.label                      "Annual">
 <!ENTITY event.repeat.custom.label                      "Personalisate…">
 
+<!ENTITY event.recurrence.pattern.label                 "Modello de recurrentia">
+<!ENTITY event.recurrence.occurs.label                  "Repeter" >
+<!ENTITY event.recurrence.day.label                     "quotidian" >
+<!ENTITY event.recurrence.week.label                    "septimanal" >
+<!ENTITY event.recurrence.month.label                   "mensual" >
+<!ENTITY event.recurrence.year.label                    "annual" >
 
+<!ENTITY event.recurrence.pattern.every.label           "Cata" >
+<!ENTITY repeat.units.days.both                         "Die(s)" >
 
+<!ENTITY event.recurrence.pattern.weekly.every.label    "Cata" >
+<!ENTITY repeat.units.weeks.both                        "Septimana(s)" >
+<!ENTITY event.recurrence.on.label                      "Le:" >
 
+<!ENTITY event.recurrence.pattern.monthly.every.label   "Cata" >
+<!ENTITY repeat.units.months.both                       "Mense(s)" >
+<!ENTITY event.recurrence.monthly.every.label           "Cata" >
+<!ENTITY event.recurrence.monthly.first.label           "Le prime">
+<!ENTITY event.recurrence.monthly.second.label          "Le secunde">
+<!ENTITY event.recurrence.monthly.third.label           "Le tertie">
+<!ENTITY event.recurrence.monthly.fourth.label          "Le quarte">
+<!ENTITY event.recurrence.monthly.fifth.label           "Le quinte">
+<!ENTITY event.recurrence.monthly.last.label            "Le ultime">
+<!ENTITY event.recurrence.pattern.monthly.week.1.label  "dominica" >
+<!ENTITY event.recurrence.pattern.monthly.week.2.label  "lunedi" >
+<!ENTITY event.recurrence.pattern.monthly.week.3.label  "martedi" >
+<!ENTITY event.recurrence.pattern.monthly.week.4.label  "mercuridi" >
+<!ENTITY event.recurrence.pattern.monthly.week.5.label  "jovedi" >
+<!ENTITY event.recurrence.pattern.monthly.week.6.label  "venerdi" >
+<!ENTITY event.recurrence.pattern.monthly.week.7.label  "sabbato" >
+<!ENTITY event.recurrence.repeat.dayofmonth.label       "Die del mense">
 
+<!ENTITY event.recurrence.every.label                        "Cata:" >
+<!ENTITY repeat.units.years.both                             "Anno(s)" >
+<!ENTITY event.recurrence.pattern.yearly.every.month.label   "Cata" >
 
 <!-- LOCALIZATON NOTE
      Some languages use a preposition when describing dates:
@@ -278,13 +310,97 @@
      event.recurrence.pattern.yearly.of.label is "of" in
      Edit recurrence window -> Recurrence pattern -> Repeat yearly
 -->
+<!ENTITY event.recurrence.pattern.yearly.of.label            "" >
 
+<!ENTITY event.recurrence.pattern.yearly.month.1.label       "Januario" >
+<!ENTITY event.recurrence.pattern.yearly.month.2.label       "Februario" >
+<!ENTITY event.recurrence.pattern.yearly.month.3.label       "Martio" >
+<!ENTITY event.recurrence.pattern.yearly.month.4.label       "April" >
+<!ENTITY event.recurrence.pattern.yearly.month.5.label       "Maio" >
+<!ENTITY event.recurrence.pattern.yearly.month.6.label       "Junio" >
+<!ENTITY event.recurrence.pattern.yearly.month.7.label       "Julio" >
+<!ENTITY event.recurrence.pattern.yearly.month.8.label       "Augusto" >
+<!ENTITY event.recurrence.pattern.yearly.month.9.label       "Septembre" >
+<!ENTITY event.recurrence.pattern.yearly.month.10.label      "Octobre" >
+<!ENTITY event.recurrence.pattern.yearly.month.11.label      "Novembre" >
+<!ENTITY event.recurrence.pattern.yearly.month.12.label      "Decembre" >
+<!ENTITY event.recurrence.yearly.every.label                 "Cata">
+<!ENTITY event.recurrence.yearly.first.label                 "Le prime">
+<!ENTITY event.recurrence.yearly.second.label                "Le secunde">
+<!ENTITY event.recurrence.yearly.third.label                 "Le tertie">
+<!ENTITY event.recurrence.yearly.fourth.label                "Le quarte">
+<!ENTITY event.recurrence.yearly.fifth.label                 "Le quinte">
+<!ENTITY event.recurrence.yearly.last.label                  "Le ultime">
+<!ENTITY event.recurrence.pattern.yearly.week.1.label        "dominica" >
+<!ENTITY event.recurrence.pattern.yearly.week.2.label        "lunedi" >
+<!ENTITY event.recurrence.pattern.yearly.week.3.label        "martedi" >
+<!ENTITY event.recurrence.pattern.yearly.week.4.label        "mercuridi" >
+<!ENTITY event.recurrence.pattern.yearly.week.5.label        "jovedi" >
+<!ENTITY event.recurrence.pattern.yearly.week.6.label        "venerdi" >
+<!ENTITY event.recurrence.pattern.yearly.week.7.label        "sabbato" >
+<!ENTITY event.recurrence.pattern.yearly.day.label           "die" >
+<!ENTITY event.recurrence.of.label                           "de" >
+<!ENTITY event.recurrence.pattern.yearly.month2.1.label      "Januario" >
+<!ENTITY event.recurrence.pattern.yearly.month2.2.label      "Februario" >
+<!ENTITY event.recurrence.pattern.yearly.month2.3.label      "Martio" >
+<!ENTITY event.recurrence.pattern.yearly.month2.4.label      "April" >
+<!ENTITY event.recurrence.pattern.yearly.month2.5.label      "Maio" >
+<!ENTITY event.recurrence.pattern.yearly.month2.6.label      "Junio" >
+<!ENTITY event.recurrence.pattern.yearly.month2.7.label      "Julio" >
+<!ENTITY event.recurrence.pattern.yearly.month2.8.label      "Augusto" >
+<!ENTITY event.recurrence.pattern.yearly.month2.9.label      "Septembre" >
+<!ENTITY event.recurrence.pattern.yearly.month2.10.label     "Octobre" >
+<!ENTITY event.recurrence.pattern.yearly.month2.11.label     "Novembre" >
+<!ENTITY event.recurrence.pattern.yearly.month2.12.label     "Decembre" >
 
+<!ENTITY event.recurrence.range.label                   "Intervallo de recurrentia">
+<!ENTITY event.recurrence.forever.label                 "Nulle data de fin" >
+<!ENTITY event.recurrence.repeat.for.label              "Crear" >
+<!ENTITY event.recurrence.appointments.label            "Appunctamento(s)" >
+<!ENTITY event.repeat.until.label                       "Repeter usque" >
+<!ENTITY event.recurrence.preview.label                 "Vista preliminar">
 
 <!-- Attendees dialog -->
+<!ENTITY invite.title.label                     "Invitar participantes">
+<!ENTITY event.organizer.label                  "Organisator">
+<!ENTITY event.freebusy.suggest.slot            "Suger intervallo disponibile:">
+<!ENTITY event.freebusy.button.next.slot        "Intervallo successive">
+<!ENTITY event.freebusy.button.previous.slot    "Intervallo previe">
+<!ENTITY event.freebusy.zoom                    "Zoom:">
+<!ENTITY event.freebusy.legend.free             "Libere" >
+<!ENTITY event.freebusy.legend.busy             "Occupate" >
+<!ENTITY event.freebusy.legend.busy_tentative   "Provisori" >
+<!ENTITY event.freebusy.legend.busy_unavailable "Foras officio" >
+<!ENTITY event.freebusy.legend.unknown          "Nulle informationes" >
+<!ENTITY event.attendee.role.required           "Participation obligatori">
+<!ENTITY event.attendee.role.optional           "Participation facultative">
+<!ENTITY event.attendee.role.chair              "Presidente">
+<!ENTITY event.attendee.role.nonparticipant     "Non participante">
+<!ENTITY event.attendee.usertype.individual     "Individual">
+<!ENTITY event.attendee.usertype.group          "Gruppo">
+<!ENTITY event.attendee.usertype.resource       "Ressource">
+<!ENTITY event.attendee.usertype.room           "Sala">
+<!ENTITY event.attendee.usertype.unknown        "Incognite">
 
 <!-- Timezone dialog -->
+<!ENTITY timezone.title.label            "Per favor specifica le fuso horari">
+<!ENTITY event.timezone.custom.label     "Altere fusos horari…">
 
 <!-- Read-Only dialog -->
+<!ENTITY read.only.general.label         "General">
+<!ENTITY read.only.title.label           "Titulo:">
+<!ENTITY read.only.calendar.label        "Agenda:">
+<!ENTITY read.only.event.start.label     "Data de initio:">
+<!ENTITY read.only.task.start.label      "Data de initio:">
+<!ENTITY read.only.event.end.label       "Data de fin:">
+<!ENTITY read.only.task.due.label        "Data de termino:">
+<!ENTITY read.only.repeat.label          "Repeter:">
+<!ENTITY read.only.location.label        "Adresse:">
+<!ENTITY read.only.category.label        "Categoria:">
+<!ENTITY read.only.organizer.label       "Organisator:">
+<!ENTITY read.only.reminder.label        "Memento:">
+<!ENTITY read.only.attachments.label     "Annexos:">
+<!ENTITY read.only.attendees.label       "Participantes">
+<!ENTITY read.only.description.label     "Description">
 
 <!-- Summary dialog -->
