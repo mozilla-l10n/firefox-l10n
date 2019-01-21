@@ -30,7 +30,7 @@
 <!ENTITY insertLinkCmd2.label "Liên kết…">
 <!ENTITY insertLinkCmd2.accesskey "L">
 <!ENTITY insertLinkCmd2.key "K">
-<!ENTITY insertAnchorCmd.label "Tên mỏ neo…">
+<!ENTITY insertAnchorCmd.label "Mỏ neo…">
 <!ENTITY insertAnchorCmd.accesskey "A">
 <!ENTITY insertImageCmd.label "Hình…">
 <!ENTITY insertImageCmd.accesskey "I">
@@ -44,6 +44,7 @@
 <!ENTITY insertMathCmd.accesskey "M">
 <!ENTITY insertCharsCmd.label "Kí hiệu và biểu tượng…">
 <!ENTITY insertCharsCmd.accesskey "C">
+<!ENTITY insertBreakAllCmd.label "Ngắt đoạn sau (các) hình">
 <!ENTITY insertBreakAllCmd.accesskey "k">
 
 <!-- Used just in context popup. -->
@@ -138,6 +139,7 @@
 
 <!ENTITY formatRemoveStyles.key "Y">
 <!ENTITY formatRemoveLinks.key "K">
+<!ENTITY formatRemoveNamedAnchors.label "Xóa mỏ neo">
 <!ENTITY formatRemoveNamedAnchors.accesskey "R">
 <!ENTITY formatRemoveNamedAnchors2.key "R">
 
@@ -300,6 +302,8 @@
 <!ENTITY tableToolbarCmd.tooltip "Chèn bảng mới hoặc chỉnh sửa thuộc tính của bảng">
 <!ENTITY linkToolbarCmd.label "Liên kết">
 <!ENTITY linkToolbarCmd.tooltip "Chèn liên kết mới hoặc chỉnh sửa thuộc tính của liên kết đã chọn">
+<!ENTITY anchorToolbarCmd.label "Mỏ neo">
+<!ENTITY anchorToolbarCmd.tooltip "Chèn neo mới hoặc chỉnh sửa thuộc tính của neo được chọn">
 <!ENTITY TextColorButton.tooltip "Chọn màu chữ">
 <!ENTITY BackgroundColorButton.tooltip "Chọn màu nền">
 <!ENTITY throbber.tooltip "Mở trang chủ &vendorShortName;">
@@ -317,6 +321,7 @@
 <!ENTITY outdentToolbarCmd.tooltip "Giảm lề văn bản (chuyển trái)">
 <!ENTITY indentToolbarCmd.tooltip "Tăng lề văn bản (chuyển phải)">
 <!ENTITY AlignPopupButton.tooltip "Chọn cách căn văn bản">
+<!ENTITY InsertPopupButton.tooltip "Chèn một liên kết, neo, hình ảnh, đường ngang hoặc bảng">
 <!ENTITY alignLeftButton.tooltip "Căn theo lề trái">
 <!ENTITY alignCenterButton.tooltip "Căn vào giữa">
 <!ENTITY alignRightButton.tooltip "Căn theo lề phải">
