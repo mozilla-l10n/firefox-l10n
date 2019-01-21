@@ -37,6 +37,9 @@
 <!ENTITY contentBlocking.description                     "Kelkaj retejoj uzas spurilojn kiuj povas sekvi vin tra la reto. En privataj fenestroj, la blokado de enhavo de Firefox aŭtomate blokos plurajn spurilojn, kiuj povus kolekti informojn pri via retumo.">
 
 <!-- Strings for new Private Browsing with Search -->
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.search.placeholder): This is the placeholder
+                       text for the search box.   -->
+<!ENTITY aboutPrivateBrowsing.search.placeholder         "Serĉi en la teksaĵo">
 <!ENTITY aboutPrivateBrowsing.info.title                 "Vi estas en privata fenestro">
 <!ENTITY aboutPrivateBrowsing.info.description           "&brandShortName; forviŝos vian serĉan kaj retuman historion kiam vi finas la programon aŭ fermas ĉiujn langetojn kaj fenestrojn en privata retumo. Kvankam tio ŝi ne igas vin anonima por retejoj aŭ via reta provizanto, tio faciligas la taskon kaŝi vian retumon de aliaj uzantoj en la sama komputilo.">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article
