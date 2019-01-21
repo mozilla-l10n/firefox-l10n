@@ -184,23 +184,74 @@
    - populate the form fields in the dialog, there's no other immediate action on clicking like with
    - the imip bar. Rescheduling will happen after clicking on save&close as usual. This screenshot
    - illustrates how it might look like: https://bugzilla.mozilla.org/attachment.cgi?id=8810121 -->
+<!ENTITY counter.button.proposal.label                    "Applicar le proposition">
+<!ENTITY counter.button.proposal.accesskey                "p">
+<!ENTITY counter.button.original.label                    "Applicar datos original">
+<!ENTITY counter.button.original.accesskey                "r">
 
 <!-- Main page -->
+<!ENTITY event.title.textbox.label                        "Titulo:" >
+<!ENTITY event.title.textbox.accesskey                    "I">
+<!ENTITY event.location.label                             "Adresse:" >
+<!ENTITY event.location.accesskey                         "A">
+<!ENTITY event.categories.label                           "Categoria:">
+<!ENTITY event.categories.accesskey                       "i">
+<!ENTITY event.categories.textbox.label                   "Adder un nove categoria" >
+<!ENTITY event.calendar.label                             "Agenda:" >
+<!ENTITY event.calendar.accesskey                         "A">
+<!ENTITY event.attendees.label                            "Participantes:" >
+<!ENTITY event.attendees.accesskey                        "n">
+<!ENTITY event.alldayevent.label                          "Eventos del die" >
+<!ENTITY event.alldayevent.accesskey                      "d">
+<!ENTITY event.from.label                                 "Initiar:" >
+<!ENTITY event.from.accesskey                             "I">
+<!ENTITY task.from.label                                  "Initiar:" >
+<!ENTITY task.from.accesskey                              "I">
+<!ENTITY event.to.label                                   "Fin:" >
+<!ENTITY event.to.accesskey                               "u">
+<!ENTITY task.to.label                                    "Termino:" >
+<!ENTITY task.to.accesskey                                "o">
+<!ENTITY task.status.label                                "Stato:" >
+<!ENTITY task.status.accesskey                            "a">
+<!ENTITY event.repeat.label                               "Repeter:" >
+<!ENTITY event.repeat.accesskey                           "R">
+<!ENTITY event.until.label                                "Usque:">
+<!ENTITY event.until.accesskey                            "B">
+<!ENTITY event.reminder.label                             "Memento:" >
+<!ENTITY event.reminder.accesskey                         "M">
 <!ENTITY event.description.label                          "Description:" >
 <!ENTITY event.description.accesskey                      "p">
 <!ENTITY event.attachments.label                          "Annexos:" >
 <!ENTITY event.attachments.accesskey                      "e" >
+<!ENTITY event.attachments.menubutton.label               "Annexar">
+<!ENTITY event.attachments.menubutton.accesskey           "A">
+<!ENTITY event.attachments.url.label                      "Pagina web…">
+<!ENTITY event.attachments.url.accesskey                  "W">
 <!ENTITY event.attachments.popup.remove.label             "Remover" >
 <!ENTITY event.attachments.popup.remove.accesskey         "R" >
 <!ENTITY event.attachments.popup.open.label               "Aperir" >
 <!ENTITY event.attachments.popup.open.accesskey           "A" >
 <!ENTITY event.attachments.popup.removeAll.label          "Remover toto" >
 <!ENTITY event.attachments.popup.removeAll.accesskey      "T" >
+<!ENTITY event.attachments.popup.attachPage.label         "Annexar pagina web…" >
+<!ENTITY event.attachments.popup.attachPage.accesskey     "g" >
+<!ENTITY event.url.label                                  "Ligamines correlate:" >
 <!ENTITY event.priority2.label                            "Prioritate:">
 
 <!ENTITY event.reminder.none.label                        "Nulle memento" >
+<!ENTITY event.reminder.0minutes.before.label             "0 minutas antea" >
+<!ENTITY event.reminder.5minutes.before.label             "5 minutas antea" >
+<!ENTITY event.reminder.15minutes.before.label            "15 minutas antea" >
+<!ENTITY event.reminder.30minutes.before.label            "30 minutas antea" >
+<!ENTITY event.reminder.1hour.before.label                "1 hora antea" >
+<!ENTITY event.reminder.2hours.before.label               "2 horas antea" >
+<!ENTITY event.reminder.12hours.before.label              "12 horas antea" >
+<!ENTITY event.reminder.1day.before.label                 "1 die antea" >
+<!ENTITY event.reminder.2days.before.label                "2 dies antea" >
+<!ENTITY event.reminder.1week.before.label                "1 septimana antea" >
 <!ENTITY event.reminder.custom.label                      "Personalisar…" >
 
+<!ENTITY event.reminder.multiple.label                    "Mementos multiple…" >
 
 <!ENTITY event.statusbarpanel.privacy.label               "Confidentialitate:">
 
