@@ -402,5 +402,17 @@
 <!ENTITY read.only.attachments.label     "Annexos:">
 <!ENTITY read.only.attendees.label       "Participantes">
 <!ENTITY read.only.description.label     "Description">
+<!ENTITY read.only.link.label            "Ligamines correlate">
 
 <!-- Summary dialog -->
+<!ENTITY summary.dialog.saveclose.label         "Salvar e clauder">
+<!ENTITY summary.dialog.saveclose.tooltiptext   "Salva le modificationes e claude le fenestra sin cambiar le stato de participation e sin inviar un responsa">
+<!ENTITY summary.dialog.accept.label            "Acceptar">
+<!ENTITY summary.dialog.accept.tooltiptext      "Acceptar le invitation">
+<!ENTITY summary.dialog.tentative.label         "Provisori">
+<!ENTITY summary.dialog.tentative.tooltiptext   "Acceptar le invitation provisorimente">
+<!ENTITY summary.dialog.decline.label           "Refusar">
+<!ENTITY summary.dialog.decline.tooltiptext     "Refusar le invitation">
+<!ENTITY summary.dialog.dontsend.label          "Non inviar un responsa">
+<!ENTITY summary.dialog.dontsend.tooltiptext    "Cambiar tu stato de participation sin inviar un responsa al organisator e clauder le fenestra">
+<!ENTITY summary.dialog.send.label              "Inviar un responsa ora">
