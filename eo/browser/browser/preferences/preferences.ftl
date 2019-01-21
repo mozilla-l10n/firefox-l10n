@@ -615,6 +615,7 @@ sitedata-keep-until-closed =
 sitedata-delete-on-close =
     .label = Forigi kuketojn kaj retejajn datumojn je fermo de { -brand-short-name }
     .accesskey = F
+sitedata-delete-on-close-private-browsing = En la konstanta reĝimo de privata retumo, kuketoj kaj retejaj datumoj estos forviŝitaj je ĉiu fermo de { -brand-short-name }.
 sitedata-allow-cookies-option =
     .label = Akcepti kuketojn kaj retejajn datumojn
     .accesskey = A
