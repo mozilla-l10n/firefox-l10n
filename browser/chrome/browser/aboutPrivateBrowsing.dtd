@@ -37,6 +37,9 @@
 <!ENTITY contentBlocking.description                     "Nekatere spletne strani uporabljajo sledilce, ki lahko nadzirajo vašo dejavnost na internetu. V zasebnih oknih Firefoxovo zavračanje vsebine samodejno zavrne številne sledilce, ki zbirajo podatke o vašem vedenju na internetu.">
 
 <!-- Strings for new Private Browsing with Search -->
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.search.placeholder): This is the placeholder
+                       text for the search box.   -->
+<!ENTITY aboutPrivateBrowsing.search.placeholder         "Iskanje po spletu">
 <!ENTITY aboutPrivateBrowsing.info.title                 "Ste v zasebnem oknu">
 <!ENTITY aboutPrivateBrowsing.info.description           "&brandShortName; izbriše zgodovino iskanja in brskanja, ko zaprete aplikacijo ali zaprete vse zavihke in okna zasebnega brskanja. Čeprav to ne pomeni, da ste za spletna mesta ali ponudnike internetnih storitev anonimni, vam omogoča lažje ohranjanje zasebnosti na spletu pred ostalimi uporabniki tega računalnika.">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article

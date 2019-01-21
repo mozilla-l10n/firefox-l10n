@@ -211,3 +211,16 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Namesti posodobitve
     .tooltiptext = Namesti posodobitve, ki so na voljo v seznamu
+
+## Extension shortcut management
+
+shortcuts-manage =
+    .label = Bližnjice tipk
+shortcuts-empty-message = Za to razširitev ni bližnjic.
+shortcuts-no-addons = Nimate omogočenih razširitev.
+shortcuts-input =
+    .placeholder = Vnesite bližnjico
+shortcuts-sidebarAction = Preklopi stransko vrstico
+shortcuts-modifier-other = Vključi Ctrl ali Alt
+shortcuts-invalid = Neveljavna kombinacija
+shortcuts-letter = Vnesite črko
