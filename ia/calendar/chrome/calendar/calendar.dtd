@@ -39,6 +39,7 @@
 <!ENTITY calendar.unifinder.tree.startdate.tooltip2        "Ordinar per data de initio">
 <!ENTITY calendar.unifinder.tree.enddate.label             "Fin">
 <!ENTITY calendar.unifinder.tree.enddate.tooltip2          "Ordinar per le data de fin">
+<!ENTITY calendar.unifinder.tree.duedate.tooltip2          "Ordinar per termino">
 <!ENTITY calendar.unifinder.tree.completeddate.label       "Completate">
 <!ENTITY calendar.unifinder.tree.completeddate.tooltip2    "Ordinar per le data de completamento">
 <!ENTITY calendar.unifinder.tree.categories.label          "Categoria">
@@ -322,6 +323,7 @@
 <!ENTITY calendar.alarm.details.label               "Detalios…" >
 
 <!ENTITY calendar.alarm.snoozefor.label             "Siesta pro" >
+<!ENTITY calendar.alarm.snoozeallfor.label          "Suspender toto pro" >
 <!ENTITY calendar.alarm.title.label                 "Mementos del calendario" >
 <!ENTITY calendar.alarm.dismiss.label               "Dimitter" >
 <!ENTITY calendar.alarm.dismissall.label            "Dimitter toto" >
@@ -339,6 +341,7 @@
      This string is not seen in the UI, it is read by screen readers when the
      user focuses the "Cancel" button in the "Snooze for..." popup of the alarm
      dialog. -->
+<!ENTITY calendar.alarm.snooze.cancel               "Eliminar siesta">
 
 <!-- Calendar Server Dialog -->
 <!ENTITY calendar.server.dialog.title.edit          "Rediger le calendario">
@@ -350,19 +353,27 @@
 <!ENTITY calendarproperties.caldav.label                   "CalDAV">
 <!ENTITY calendarproperties.format.label                   "Formato:">
 <!ENTITY calendarproperties.location.label                 "Adresse:">
+<!ENTITY calendarproperties.refreshInterval.label          "Actualisar agenda:">
 <!ENTITY calendarproperties.refreshInterval.manual.label   "Manualmente">
 <!ENTITY calendarproperties.name.label                     "Nomine:">
 <!ENTITY calendarproperties.readonly.label                 "Lectura solmente">
 <!ENTITY calendarproperties.firealarms.label               "Monstrar mementos">
 <!ENTITY calendarproperties.cache3.label                   "Supporto non in linea">
 <!ENTITY calendarproperties.enabled.label                  "Activar iste agenda">
+<!ENTITY calendarproperties.forceDisabled.label            "Impossibile trovar le gestor de iste agenda. Isto eveni sovente quando tu ha disactivate o disinstallate certe additivos.">
+<!ENTITY calendarproperties.unsubscribe.label              "Cancellar le inscription">
+<!ENTITY calendarproperties.unsubscribe.accesskey          "C">
 
 <!-- Calendar Publish Dialog -->
+<!ENTITY calendar.publish.dialog.title              "Publicar agenda">
+<!ENTITY calendar.publish.url.label                 "URL de publication">
 <!ENTITY calendar.publish.publish.button      "Publicar">
 <!ENTITY calendar.publish.close.button      "Clauder">
 
+<!ENTITY calendar.publish.example.url.description   "Per exemplo como http://www.myserver.com/webdav/test.ics">
 
 <!-- Select Calendar Dialog -->
+<!ENTITY calendar.select.dialog.title    "Seliger agenda">
 
 <!-- Calendar Printing -->
 <!ENTITY calendar.print.title.label "Titulo:">

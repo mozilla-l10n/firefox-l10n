@@ -253,10 +253,16 @@
 
 <!ENTITY event.reminder.multiple.label                    "Mementos multiple…" >
 
+<!ENTITY event.statusbarpanel.freebusy.label              "Disponibilitate:">
 <!ENTITY event.statusbarpanel.privacy.label               "Confidentialitate:">
 
 <!-- Recurrence dialog -->
+<!ENTITY recurrence.title.label                         "Rediger le recurrentia">
 
+<!ENTITY event.repeat.does.not.repeat.label             "Nulle recurrentia">
+<!ENTITY event.repeat.daily.label                       "Quotidian">
+<!ENTITY event.repeat.weekly.label                      "Septimanal">
+<!ENTITY event.repeat.bi.weekly.label                   "Biseptimanal">
 <!ENTITY event.repeat.monthly.label                     "Cata mense">
 <!ENTITY event.repeat.custom.label                      "Personalisate…">
 
