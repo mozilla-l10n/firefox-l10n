@@ -8,7 +8,6 @@
 <!ENTITY editorCheck.accesskey "c">
 
 <!ENTITY compose.label "Trình soạn thảo">
-<!ENTITY editing.label "Thiết lập Trang Mới">
-<!ENTITY toolbars.label "Thanh Công Cụ">
-<!ENTITY publish.label "Xuất bản">
-
+<!ENTITY editing.label "Cài đặt trang mới">
+<!ENTITY toolbars.label "Thanh công cụ">
+<!ENTITY publish.label "Đang xuất bản">
