@@ -615,6 +615,7 @@ sitedata-keep-until-closed =
 sitedata-delete-on-close =
     .label = Apagar cookies e dados de sites quando o { -brand-short-name } for fechado
     .accesskey = c
+sitedata-delete-on-close-private-browsing = No modo de navegação privativa permanente, cookies e dados de sites serão sempre limpos quando o { -brand-short-name } for fechado.
 sitedata-allow-cookies-option =
     .label = Aceitar cookies e dados de sites
     .accesskey = A

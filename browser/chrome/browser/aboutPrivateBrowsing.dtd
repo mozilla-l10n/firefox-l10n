@@ -37,6 +37,9 @@
 <!ENTITY contentBlocking.description                     "Alguns sites usam rastreadores que podem monitorar sua atividade pela Internet. Nas janelas privativas, o bloqueio de conteúdo do Firefox bloqueia automaticamente muitos rastreadores que podem coletar informação sobre seu comportamento de navegação.">
 
 <!-- Strings for new Private Browsing with Search -->
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.search.placeholder): This is the placeholder
+                       text for the search box.   -->
+<!ENTITY aboutPrivateBrowsing.search.placeholder         "Pesquisar na web">
 <!ENTITY aboutPrivateBrowsing.info.title                 "Você está em uma janela privativa">
 <!ENTITY aboutPrivateBrowsing.info.description           "O &brandShortName; limpa seu histórico de pesquisa e navegação quando você sai do aplicativo ou fecha todas as abas e janelas de navegação privativa. Apesar disto não tornar você anônimo para sites e para seu provedor de serviços de internet, facilita manter o que você faz online privativo para outras pessoas que usam este computador.">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article
