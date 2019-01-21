@@ -3,45 +3,75 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 -sync-brand-short-name =
-    {
-       *[nom] Синхронізація
-        [nom-lower] синхронізація
-        [gen] Синхронізації
-        [gen-lower] синхронізації
-        [dat] Синхронізації
-        [dat-lower] синхронізації
-        [acc] Синхронізацію
-        [acc-lower] синхронізацію
-        [abl] Синхронізацією
-        [abl-lower] синхронізацією
+    { $case ->
+        *[nom] { $capitalization ->
+           *[upper] Синхронізація
+            [lower] синхронізація
+        }
+        [gen] { $capitalization ->
+           *[upper] Синхронізації
+            [lower] синхронізації
+        }
+        [dat] { $capitalization ->
+           *[upper] Синхронізації
+            [lower] синхронізації
+        }
+        [acc] { $capitalization ->
+           *[upper] Синхронізацію
+            [lower] синхронізацію
+        }
+        [abl] { $capitalization ->
+           *[upper] Синхронізацією
+            [lower] синхронізацією
+        }
     }
 # “Sync” can be localized, “Firefox” must be treated as a brand,
 # and kept in English.
 -sync-brand-name =
-    {
-       *[nom] Синхронізація Firefox
-        [nom-lower] синхронізація Firefox
-        [gen] Синхронізації Firefox
-        [gen-lower] синхронізації Firefox
-        [dat] Синхронізації Firefox
-        [dat-lower] синхронізації Firefox
-        [acc] Синхронізацію Firefox
-        [acc-lower] синхронізацію Firefox
-        [abl] Синхронізацією Firefox
-        [abl-lower] синхронізацією Firefox
+    { $case ->
+        *[nom] { $capitalization ->
+           *[upper] Синхронізація Firefox
+            [lower] синхронізація Firefox
+        }
+        [gen] { $capitalization ->
+           *[upper] Синхронізації Firefox
+            [lower] синхронізації Firefox
+        }
+        [dat] { $capitalization ->
+           *[upper] Синхронізації Firefox
+            [lower] синхронізації Firefox
+        }
+        [acc] { $capitalization ->
+           *[upper] Синхронізацію Firefox
+            [lower] синхронізацію Firefox
+        }
+        [abl] { $capitalization ->
+           *[upper] Синхронізацією Firefox
+            [lower] синхронізацією Firefox
+        }
     }
 # “Account” can be localized, “Firefox” must be treated as a brand,
 # and kept in English.
 -fxaccount-brand-name =
-    {
-       *[nom] Обліковий запис Firefox
-        [nom-lower] обліковий запис Firefox
-        [gen] Облікового запису Firefox
-        [gen-lower] облікового запису Firefox
-        [dat] Обліковому записі Firefox
-        [dat-lower] обліковому записі Firefox
-        [acc] Обліковий запис Firefox
-        [acc-lower] обліковий запис Firefox
-        [abl] Обліковим записом Firefox
-        [abl-lower] обліковим записом Firefox
+    { $case ->
+        *[nom] { $capitalization ->
+           *[upper] Обліковий запис Firefox
+            [lower] обліковий запис Firefox
+        }
+        [gen] { $capitalization ->
+           *[upper] Облікового запису Firefox
+            [lower] облікового запису Firefox
+        }
+        [dat] { $capitalization ->
+           *[upper] Обліковому записі Firefox
+            [lower] обліковому записі Firefox
+        }
+        [acc] { $capitalization ->
+           *[upper] Обліковий запис Firefox
+            [lower] обліковий запис Firefox
+        }
+        [abl] { $capitalization ->
+           *[upper] Обліковим записом Firefox
+            [lower] обліковим записом Firefox
+        }
     }

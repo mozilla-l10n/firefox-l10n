@@ -129,9 +129,9 @@ startup-header = Запуск
 # since this setting is only exposed in Firefox Developer Edition
 separate-profile-mode =
     .label = Дозволити { -brand-short-name } та Firefox виконуватись одночасно
-use-firefox-sync = Підказка: При цьому використовуються окремі профілі. Скористайтеся { -sync-brand-short-name[abl-lower] } для обміну даними між ними.
-get-started-not-logged-in = Увійти в { -sync-brand-short-name[acc] }…
-get-started-configured = Відкрити налаштування { -sync-brand-short-name[dat] }
+use-firefox-sync = Підказка: При цьому використовуються окремі профілі. Скористайтеся { -sync-brand-short-name(case: "abl", capitalization: "lower") } для обміну даними між ними.
+get-started-not-logged-in = Увійти в { -sync-brand-short-name(case: "acc") }…
+get-started-configured = Відкрити налаштування { -sync-brand-short-name(case: "dat") }
 always-check-default =
     .label = Завжди перевіряти чи є { -brand-short-name } типовим браузером
     .accesskey = б
@@ -452,7 +452,7 @@ containers-remove-button =
 
 sync-signedout-caption = Візьміть свій інтернет з собою
 sync-signedout-description = Синхронізуйте закладки, історію, вкладки, паролі, додатки, а також налаштування на всіх своїх пристроях.
-sync-signedout-account-title = Під’єднайтеся до { -fxaccount-brand-name[gen] }
+sync-signedout-account-title = Під’єднайтеся до { -fxaccount-brand-name(case: "gen") }
 sync-signedout-account-create = Не маєте облікового запису? Створімо його!
     .accesskey = С
 sync-signedout-account-signin =
