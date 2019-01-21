@@ -27,7 +27,7 @@ onboarding-ghostery-title = Ghostery
 onboarding-ghostery-text = Пользуйтесь Интернетом быстрее, удобнее и безопаснее, с помощью таких расширений, как Ghostery, позволяющего блокировать надоедливую рекламу.
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Синхронизировать
-onboarding-fxa-text = Зарегистрируйте { -fxaccount-brand-name[nominative] } и синхронизируйте свои закладки, пароли и открытые вкладки везде, где бы вы не использовали { -brand-short-name }.
+onboarding-fxa-text = Зарегистрируйте { -fxaccount-brand-name(case: "nominative") } и синхронизируйте свои закладки, пароли и открытые вкладки везде, где бы вы не использовали { -brand-short-name }.
 
 ## Message strings belonging to the Return to AMO flow
 
