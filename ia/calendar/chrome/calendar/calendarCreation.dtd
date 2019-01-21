@@ -2,14 +2,21 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY wizard.title             "Crear nove calendario" >
+<!ENTITY wizard.label             "Crear un nove calendario" >
+<!ENTITY wizard.description       "Position de calendario" >
 
 <!ENTITY initialpage.computer.label  "Sur mi computator">
+<!ENTITY initialpage.network.label  "Sur le rete">
 
+<!ENTITY locationpage.login.description   "Optional: insere un nomine de usator e un contrasigno" >
 <!ENTITY locationpage.username.label      "Nomine del usator:" >
 <!ENTITY locationpage.password.label      "Contrasigno:" >
 
+<!ENTITY custompage.shortdescription  "Personalisa tu calendario" >
 
 <!ENTITY finishpage.shortdescription  "Calendario create" >
+<!ENTITY finishpage.longdescription   "Tu calendario ha essite create." >
 
 <!-- Below are new strings for the revised new calendar dialog. The above strings should be
     removed/renamed later on -->
@@ -31,4 +38,5 @@
 <!ENTITY calendartype.label "Typo de calendario:">
 <!ENTITY location.label "Adresse:">
 
+<!ENTITY network.nocredentials.label "Iste position non require credentiales">
 
