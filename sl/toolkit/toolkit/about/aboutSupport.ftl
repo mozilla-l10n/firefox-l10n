@@ -254,6 +254,9 @@ effective-content-sandbox-level = Dejanska raven peskovnika vsebinskih opravil
 sandbox-proc-type-content = vsebina
 sandbox-proc-type-file = vsebina datoteke
 sandbox-proc-type-media-plugin = večpredstavni vtičnik
+launcher-process-status-0 = Omogočeno
+launcher-process-status-2 = Prisilno onemogočeno
+launcher-process-status-unknown = Neznano stanje
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
