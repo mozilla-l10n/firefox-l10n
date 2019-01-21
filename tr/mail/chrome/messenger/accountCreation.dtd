@@ -19,6 +19,13 @@
 <!ENTITY rememberPassword.label          "Parolayı hatırla">
 <!ENTITY rememberPassword.accesskey      "h">
 
+<!ENTITY usernameEx.label                "Kullanıcı adınız:">
+<!ENTITY usernameEx.accesskey            "l">
+<!-- LOCALIZATION NOTE(usernameEx.placeholder): YOURDOMAIN refers to the Windows domain in ActiveDirectory. yourusername refers to the user's account name in Windows. -->
+<!ENTITY usernameEx.placeholder          "ETKİALANI\kullanıcıadınız">
+<!-- LOCALIZATION NOTE(usernameEx.text): Domain refers to the Windows domain in ActiveDirectory. We mean the user's login in Windows at the local corporate network. -->
+<!ENTITY usernameEx.text                 "Etki alanındaki kullanıcı adı">
+
 <!ENTITY imapLong.label                  "IMAP (uzak dizinler)">
 <!ENTITY pop3Long.label                  "POP3 (postalar bilgisayarınızda saklanacak)">
 
