@@ -4,10 +4,6 @@
 
 do-not-track-description = Invia ai siti web un segnale “Do Not Track” per chiedere di non effettuare alcun tracciamento
 do-not-track-learn-more = Ulteriori informazioni
-do-not-track-option-default =
-    .label = Solo quando è attiva la protezione antitracciamento
-do-not-track-option-default-content-blocking =
-    .label = Solo quando { -brand-short-name } è impostato per bloccare gli elementi traccianti rilevati
 do-not-track-option-default-content-blocking-known =
     .label = Solo quando { -brand-short-name } è impostato per bloccare gli elementi traccianti conosciuti
 do-not-track-option-always =
@@ -95,9 +91,6 @@ extension-controlled-default-search = Il motore di ricerca predefinito è attual
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = Le schede contenitore sono necessarie per il funzionamento di un’estensione (<img data-l10n-name="icon"/> { $name }).
-# This string is shown to notify the user that their tracking protection preferences
-# are being controlled by an extension.
-extension-controlled-websites-tracking-protection-mode = La protezione antitracciamento è attualmente gestita da un’estensione (<img data-l10n-name="icon"/> { $name }).
 extension-controlled-websites-content-blocking-all-trackers = Questa impostazione è attualmente gestita da un’estensione (<img data-l10n-name="icon"/> { $name }).
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
@@ -604,12 +597,6 @@ sitedata-total-size-calculating = Calcolo dimensioni…
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = I cookie, i dati salvati dai siti web e la cache stanno utilizzando { $value } { $unit } di spazio su disco
 sitedata-learn-more = Ulteriori informazioni
-sitedata-keep-until = Conservali fino
-    .accesskey = v
-sitedata-keep-until-expire =
-    .label = alla loro scadenza
-sitedata-keep-until-closed =
-    .label = alla chiusura di { -brand-short-name }
 sitedata-delete-on-close =
     .label = Elimina cookie e dati dei siti web alla chiusura di { -brand-short-name }
     .accesskey = c
@@ -626,16 +613,6 @@ sitedata-disallow-cookies-option =
 # The list items are the strings named sitedata-block-*-option*.
 sitedata-block-desc = Contenuti bloccati:
     .accesskey = C
-sitedata-block-trackers-option-recommended =
-    .label = elementi traccianti di terze parti (consigliato)
-sitedata-block-trackers-option =
-    .label = Elementi traccianti di terze parti
-sitedata-block-unvisited-option =
-    .label = Cookie da siti web non visitati
-sitedata-block-all-third-party-option =
-    .label = Tutti i cookie di terze parti (alcuni siti potrebbero non funzionare correttamente)
-sitedata-block-all-option =
-    .label = Tutti i cookie (alcuni siti non funzioneranno correttamente)
 sitedata-option-block-trackers =
     .label = Elementi traccianti di terze parti
 sitedata-option-block-unvisited =
@@ -650,13 +627,9 @@ sitedata-clear =
 sitedata-settings =
     .label = Gestisci dati…
     .accesskey = d
-sitedata-cookies-exceptions =
-    .label = Eccezioni…
-    .accesskey = z
 sitedata-cookies-permissions =
     .label = Gestisci permessi…
     .accesskey = G
-sitedata-warning-your-settings-prevent-changes = Le impostazioni in blocco contenuti impediscono modifiche alla sezione Cookie e dati dei siti web.
 
 ## Privacy Section - Address Bar
 
@@ -676,12 +649,8 @@ addressbar-suggestions-settings = Modifica le impostazioni relative ai suggerime
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Blocco contenuti
-content-blocking-desc = Blocca contenuti di terze parti, come pubblicità o codice, in grado di rallentare la navigazione e tracciare i tuoi spostamenti sul Web. Personalizza le impostazioni per ottenere il perfetto equilibrio tra protezione e velocità.
 content-blocking-description = Blocca i contenuti di terze parti che ti seguono attraverso il Web. Controlla quanto della tua attività online viene archiviato e condiviso tra siti web.
 content-blocking-learn-more = Ulteriori informazioni
-content-blocking-restore-defaults =
-    .label = Ripristina predefiniti
-    .accesskey = R
 content-blocking-setting-standard =
     .label = Normale
     .accesskey = N
@@ -691,16 +660,7 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = Personalizzato
     .accesskey = P
-content-blocking-toggle-on =
-    .tooltiptext = Disattiva il blocco contenuti
-content-blocking-toggle-off =
-    .tooltiptext = Attiva il blocco contenuti
-content-blocking-toggle-label-on = ATTIVO
-    .accesskey = A
-content-blocking-toggle-label-off = DISATTIVATO
-    .accesskey = D
 
-content-blocking-category-label = Scegli che cosa bloccare
 content-blocking-standard-description = Blocca solo elementi traccianti conosciuti in finestre anonime.
 content-blocking-standard-desc = Il perfetto equilibrio tra protezione e prestazioni. Consenti alcuni elementi traccianti in modo da garantire il corretto funzionamento dei siti.
 content-blocking-strict-desc = Blocca tutti gli elementi traccianti rilevati da { -brand-short-name }. Alcuni siti potrebbero non funzionare correttamente.
@@ -712,80 +672,25 @@ content-blocking-all-third-party-cookies = Tutti i cookie di terze parti
 content-blocking-warning-title = Attenzione
 content-blocking-warning-desc = Il blocco di cookie ed elementi traccianti potrebbe impedire il corretto funzionamento di alcuni siti. È semplice disattivare il blocco per i siti che ritieni affidabili.
 content-blocking-learn-how = Scopri come
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-slow-loading-trackers-label =
-    .label = Elementi traccianti lenti a caricarsi
-    .accesskey = m
-content-blocking-fastblock-new-description = Blocca solo gli elementi traccianti che impediscono alla pagina di caricarsi velocemente.
-content-blocking-tracking-protection-trackers-label =
-    .label = Elementi traccianti
-    .accesskey = E
 content-blocking-trackers-label =
     .label = Elementi traccianti
     .accesskey = E
-content-blocking-tracking-protection-all-detected-trackers-label =
-    .label = Tutti gli elementi traccianti rilevati
-    .accesskey = T
-content-blocking-tracking-protection-new-description = Blocca tutti gli elementi traccianti conosciuti (alcune pagine web potrebbero non caricarsi correttamente).
-content-blocking-tracking-protection-option-always =
-    .label = Sempre
-    .accesskey = S
 content-blocking-tracking-protection-option-all-windows =
     .label = In tutte le finestre
     .accesskey = u
 content-blocking-option-private =
     .label = Solo in finestre anonime
     .accesskey = a
-content-blocking-tracking-protection-option-private =
-    .label = Solo in finestre anonime
-    .accesskey = a
 content-blocking-tracking-protection-change-block-list = Cambia elenco per blocco contenuti
-content-blocking-third-party-cookies-label =
-    .label = Cookie di terze parti
-    .accesskey = C
 content-blocking-cookies-label =
     .label = Cookie
     .accesskey = C
-content-blocking-reject-trackers-description = Blocca tutti i cookie di terze parti o solo quelli impostati da elementi traccianti.
-content-blocking-reject-trackers-warning-your-settings-prevent-changes = Le impostazioni in Cookie e dati dei siti web impediscono modifiche alla sezione Cookie di terze parti.
-content-blocking-change-cookie-settings =
-    .label = Cambia impostazioni per i cookie
-    .accesskey = m
-content-blocking-reject-trackers-block-trackers-option-recommended =
-    .label = Elementi traccianti (consigliato)
-    .accesskey = E
-content-blocking-reject-trackers-block-trackers-option =
-    .label = Elementi traccianti
-    .accesskey = E
-content-blocking-reject-trackers-all-third-parties-option =
-    .label = Tutti i cookie di terze parti (alcuni siti potrebbero non funzionare correttamente)
-    .accesskey = z
 
 ## Privacy Section - Tracking
 
-tracking-header = Protezione antitracciamento
-tracking-desc = La protezione antitracciamento blocca elementi utilizzati per raccogliere dati sulla navigazione attraverso siti diversi. <a data-l10n-name="learn-more">Ulteriori informazioni sulla protezione antitracciamento e la privacy</a>
-tracking-mode-label = Utilizza la protezione antitracciamento per bloccare i tracciatori conosciuti
-tracking-mode-always =
-    .label = Sempre
-    .accesskey = p
-tracking-mode-private =
-    .label = Solo in finestre anonime
-    .accesskey = m
-tracking-mode-never =
-    .label = Mai
-    .accesskey = a
-tracking-exceptions =
-    .label = Eccezioni…
-    .accesskey = E
 tracking-manage-exceptions =
     .label = Gestisci eccezioni…
     .accesskey = G
-tracking-change-block-list =
-    .label = Seleziona elenco…
-    .accesskey = l
 
 ## Privacy Section - Permissions
 

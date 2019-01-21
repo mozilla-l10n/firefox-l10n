@@ -16,8 +16,6 @@
 <!ENTITY duplicateTab.accesskey "u">
 <!ENTITY duplicateTabs.label "Duplica schede">
 <!ENTITY duplicateTabs.accesskey "u">
-<!ENTITY closeTabOptions.label "Opzioni chiusura scheda">
-<!ENTITY closeTabOptions.accesskey "O">
 <!ENTITY closeTabsToTheEnd.label "Chiudi le schede a destra">
 <!ENTITY closeTabsToTheEnd.accesskey "d">
 <!ENTITY closeOtherTabs.label "Chiudi le altre schede">
@@ -670,23 +668,7 @@
 <!ENTITY contentBlocking.title "Blocco contenuti">
 <!ENTITY contentBlocking.detected "Rilevati contenuti bloccabili in questo sito.">
 <!ENTITY contentBlocking.notDetected "Nessun contenuto bloccabile in questo sito.">
-<!ENTITY contentBlocking.disabled.label "Disattivato">
-<!ENTITY contentBlocking.disabled.tooltip "Il blocco dei contenuti è stato disattivato.">
-<!ENTITY contentBlocking.exception.tooltip "Il blocco dei contenuti è stato disattivato per questo sito.">
-<!ENTITY contentBlocking.fastBlock.label "Elementi traccianti lenti">
-<!ENTITY contentBlocking.fastBlock.blocked.label "Bloccati">
-<!ENTITY contentBlocking.fastBlock.blocking.label "Bloccati">
-<!ENTITY contentBlocking.fastBlock.add.label "Attiva blocco…">
-<!ENTITY contentBlocking.trackingProtection2.label "Tutti gli elementi traccianti rilevati">
 <!ENTITY contentBlocking.trackingProtection3.label "Elementi traccianti">
-<!ENTITY contentBlocking.trackingProtection.blocked.label "Bloccati">
-<!ENTITY contentBlocking.trackingProtection.blocking.label "Bloccati">
-<!ENTITY contentBlocking.trackingProtection.add.label "Attiva blocco…">
-<!ENTITY contentBlocking.3rdPartyCookies.label "Cookie di terze parti">
-<!ENTITY contentBlocking.3rdPartyCookies.trackers.label "Cookie traccianti">
-<!ENTITY contentBlocking.3rdPartyCookies.blocked.label "Bloccati">
-<!ENTITY contentBlocking.3rdPartyCookies.blocking.label "Bloccati">
-<!ENTITY contentBlocking.3rdPartyCookies.add.label "Attiva blocco…">
 <!ENTITY contentBlocking.manageSettings.label "Gestisci blocco contenuti">
 <!ENTITY contentBlocking.manageSettings.accesskey "G">
 <!ENTITY contentBlocking.trackersView.label "Elementi traccianti">
@@ -701,16 +683,8 @@
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Che tipo di problema si verifica? (facoltativo)">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Invia segnalazione">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Annulla">
-<!ENTITY trackingProtection.title "Protezione antitracciamento">
-<!ENTITY trackingProtection.tooltip "Apri impostazioni per la protezione antitracciamento">
-<!ENTITY trackingProtection.unblock4.label "Disattiva blocco per questo sito">
-<!ENTITY trackingProtection.unblock4.accesskey "s">
 <!ENTITY trackingProtection.unblock5.label "Disattiva blocco per questo sito">
 <!ENTITY trackingProtection.unblock5.accesskey "D">
-<!ENTITY trackingProtection.unblockPrivate4.label "Disattiva blocco temporaneamente">
-<!ENTITY trackingProtection.unblockPrivate4.accesskey "D">
-<!ENTITY trackingProtection.block5.label "Attiva blocco per questo sito">
-<!ENTITY trackingProtection.block5.accesskey "A">
 <!ENTITY trackingProtection.unblockPrivate5.label "Disattiva blocco temporaneamente">
 <!ENTITY trackingProtection.unblockPrivate5.accesskey "D">
 <!ENTITY trackingProtection.block6.label "Attiva blocco per questo sito">
@@ -719,9 +693,6 @@
 <!ENTITY trackingProtection.reload2.accesskey "R">
 <!ENTITY pluginNotification.showAll.label "Mostra tutti">
 <!ENTITY pluginNotification.showAll.accesskey "M">
-<!ENTITY pluginActivateNow.label "Consenti adesso">
-<!ENTITY pluginActivateAlways.label "Consenti sempre">
-<!ENTITY pluginBlockNow.label "Blocca plugin">
 <!ENTITY pluginNotification.width "28em">
 <!ENTITY uiTour.infoPanel.close "Chiudi">
 <!ENTITY panicButton.view.mainTimeframeDesc "Dimentica:">
