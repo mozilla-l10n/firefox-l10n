@@ -58,10 +58,9 @@ permissions-invalid-uri-label = एक वैध मेजबाननाम ड
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-tracking-protection-window =
-    .title = अपवाद - ट्रैकिंग संरक्षण
+permissions-exceptions-content-blocking-window =
+    .title = अपवाद - सामग्री अवरोधन
     .style = { permissions-window.style }
-permissions-exceptions-tracking-protection-desc = आपने इन वेबसाइटों पर ट्रैकिंग संरक्षण को अक्षम कर दिया है.
 
 ## Exceptions - Cookies
 

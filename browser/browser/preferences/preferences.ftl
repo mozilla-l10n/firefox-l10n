@@ -683,6 +683,7 @@ content-blocking-private-trackers = निजी विंडो में क�
 content-blocking-third-party-cookies = तीसरे-पक्ष की ट्रैकिंग कुकीज़
 content-blocking-all-windows-trackers = सभी विंडो में ज्ञात ट्रैकर्स
 content-blocking-all-third-party-cookies = सभी तृतीय-पक्ष कुकीज़
+content-blocking-warning-title = सावधान!
 content-blocking-learn-how = सीखें कि कैसे
 content-blocking-trackers-label =
     .label = ट्रैकर
@@ -710,6 +711,9 @@ content-blocking-reject-trackers-block-trackers-option =
 content-blocking-reject-trackers-all-third-parties-option =
     .label = सभी तृतीय-पक्ष कुकीज़ (वेबसाइटों को तोड़ने के कारण हो सकते हैं)
     .accesskey = A
+content-blocking-cookies-label =
+    .label = कुकीज
+    .accesskey = C
 
 ## Privacy Section - Tracking
 
@@ -731,6 +735,9 @@ tracking-exceptions =
 tracking-change-block-list =
     .label = ब्लाक लिस्ट बदलें…
     .accesskey = C
+tracking-manage-exceptions =
+    .label = अपवादों को प्रबंधित करें
+    .accesskey = x
 
 ## Privacy Section - Permissions
 
