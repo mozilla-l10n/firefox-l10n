@@ -212,3 +212,5 @@ extensions-updates-update-selected =
 
 shortcuts-manage =
     .label = Inegzumen n unasiw
+shortcuts-browserAction = Rmed isiɣzaf
+shortcuts-sidebarAction = Sken/Fer agalis adisan

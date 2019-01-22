@@ -883,6 +883,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsReloadHint "Ahat tesriḍ ad d-tessaliḍ tikelt-nniḍen asebter akken ad yemmed wayen i tbeddleḍ.">
 <!ENTITY identity.permissionsPreferences.tooltip "Ldi ismenyifen n tsirag">
 
+<!ENTITY identity.contentBlockingPreferences.tooltip "Ldi ismenyifen n usewḥel n ugbur">
+
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Accaren n yiminig">
