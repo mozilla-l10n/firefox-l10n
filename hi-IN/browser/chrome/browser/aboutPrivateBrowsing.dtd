@@ -30,7 +30,15 @@
 
 <!ENTITY trackingProtection.title                        "ट्रैकिंग सुरक्षा">
 <!ENTITY trackingProtection.description2                 "कुछ वेबसिट्स ट्रैकर्स का इस्तेमाल कर इंटरनेट पर आपकी गतिविधि को मॉनिटर करती हैं. ट्रैकिंग प्रोटेक्शन का इस्तेमाल कर Firefox इन वेबसाइट ट्रैकर्स को ब्लॉक करता है.">
+
 <!ENTITY trackingProtection.startTour1                   "देखें यह कैसे काम करता है">
 
 <!ENTITY contentBlocking.title                           "सामग्री अवरोधन">
 <!ENTITY contentBlocking.description                     "कुछ वेबसाइटें ट्रैकर का उपयोग करती हैं जो इंटरनेट पर आपकी गतिविधि की निगरानी कर सकती हैं। निजी विंडो में Firefox सामग्री अवरोधन स्वचालित रूप से कई ट्रैकरों को अवरुद्ध करता है जो आपके ब्राउज़िंग व्यवहार के बारे में जानकारी एकत्र कर सकते हैं।">
+
+<!-- Strings for new Private Browsing with Search -->
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.search.placeholder): This is the placeholder
+                       text for the search box.   -->
+<!ENTITY aboutPrivateBrowsing.info.title                 "आप एक निजी विंडो में हैं">
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article
+                       about private browsing myths.   -->
