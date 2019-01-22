@@ -207,3 +207,20 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Instalatu eguneraketak
     .tooltiptext = Instalatu zerrenda honetan eskura dauden eguneraketak
+
+## Extension shortcut management
+
+shortcuts-manage =
+    .label = Teklatuaren lasterbideak
+shortcuts-empty-message = Ez dago lasterbiderik hedapen honentzat.
+shortcuts-no-addons = Ez daukazu hedapenik gaituta.
+shortcuts-input =
+    .placeholder = Idatzi lasterbidea
+shortcuts-browserAction = Gaitu hedapena
+shortcuts-pageAction = Gaitu orri-ekintza
+shortcuts-sidebarAction = Txandakatu alboko barra
+shortcuts-modifier-mac = Kontuan hartu Ktrl, Alt edo ⌘
+shortcuts-modifier-other = Kontuan hartu Ktrl edo Alt
+shortcuts-invalid = Konbinazio baliogabea
+shortcuts-letter = Idatzi letra bat
+shortcuts-system = Ezin da { -brand-short-name }(r)en lasterbidea gainidatzi
