@@ -320,6 +320,7 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = जब टाइप करना शुरू करते हैं तभी पाठ के लिए खोजें
     .accesskey = x
+browsing-cfr-recommendations-learn-more = और जानें
 
 ## General Section - Proxy
 
@@ -682,6 +683,16 @@ content-blocking-private-trackers = निजी विंडो में क�
 content-blocking-third-party-cookies = तीसरे-पक्ष की ट्रैकिंग कुकीज़
 content-blocking-all-windows-trackers = सभी विंडो में ज्ञात ट्रैकर्स
 content-blocking-all-third-party-cookies = सभी तृतीय-पक्ष कुकीज़
+content-blocking-learn-how = सीखें कि कैसे
+content-blocking-trackers-label =
+    .label = ट्रैकर
+    .accesskey = T
+content-blocking-tracking-protection-option-all-windows =
+    .label = सभी विंडो में
+    .accesskey = A
+content-blocking-option-private =
+    .label = सिर्फ निजी विंडो में
+    .accesskey = P
 content-blocking-tracking-protection-change-block-list = ब्लॉक सूची बदलें
 content-blocking-third-party-cookies-label =
     .label = थर्ड-पार्टी कूकीज़

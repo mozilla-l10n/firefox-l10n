@@ -19,3 +19,8 @@ onboarding-start-browsing-button-label = ब्राउज़िंग शु�
 onboarding-private-browsing-title = निजी ब्राउजिंग
 onboarding-screenshots-title = स्क्रीनशॉट
 onboarding-addons-title = ऐड-ऑन
+# Note: "Sync" in this case is a generic verb, as in "to synchronize"
+onboarding-fxa-title = संकलित करें
+
+## Message strings belonging to the Return to AMO flow
+
