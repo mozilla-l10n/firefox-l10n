@@ -473,6 +473,14 @@
 <!ENTITY bookmarkThisFrameCmd.label "Dodaj zakładkę do ramki">
 <!ENTITY bookmarkThisFrameCmd.accesskey "D">
 <!ENTITY pageAction.copyLink.label "Kopiuj odnośnik">
+
+<!ENTITY pocketButton.tooltiptext "Wyślij do Pocket">
+<!ENTITY saveToPocketCmd.label "Wyślij stronę do Pocket">
+<!ENTITY saveToPocketCmd.accesskey "s">
+<!ENTITY saveLinkToPocketCmd.label "Wyślij odnośnik do Pocket">
+<!ENTITY saveLinkToPocketCmd.accesskey "o">
+<!ENTITY pocketMenuitem.label "Wysłane do Pocket">
+
 <!ENTITY copyURLFeedback.label "Skopiowano!">
 <!ENTITY emailPageCmd.label "Wyślij odnośnik…">
 <!ENTITY emailPageCmd.accesskey "n">
