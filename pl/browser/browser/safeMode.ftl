@@ -7,6 +7,9 @@ safe-mode-window =
     .style = max-width: 400px
 start-safe-mode =
     .label = Uruchom w trybie awaryjnym
+refresh-profile =
+    .label = Odśwież program { -brand-short-name }
 safe-mode-description = Tryb awaryjny to specjalny tryb pracy programu, przydatny podczas rozwiązywania problemów.
+refresh-profile-instead = Można także pominąć rozwiązywanie problemów i spróbować odświeżyć program { -brand-short-name }.
 # Shown on the safe mode dialog after multiple startup crashes. 
 auto-safe-mode-description = { -brand-short-name } nieoczekiwanie zakończył działanie podczas uruchamiania. Mogło to zostać spowodowane przez dodatki lub inny problem. Można spróbować zbadać sytuację i rozwiązać problem w trybie awaryjnym.
