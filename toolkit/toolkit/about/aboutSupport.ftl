@@ -47,6 +47,7 @@ app-basics-memory-use = Spotřeba paměti
 app-basics-performance = Výkon
 app-basics-service-workers = Registrovaní Service Workers
 app-basics-profiles = Profily
+app-basics-launcher-process-status = Spouštěcí proces
 app-basics-multi-process-support = Multiprocesová okna
 app-basics-process-count = Procesy pro webový obsah
 app-basics-enterprise-policies = Podniková pravidla
@@ -249,6 +250,10 @@ effective-content-sandbox-level = Účinná úroveň sandboxu procesů pro obsah
 sandbox-proc-type-content = obsah
 sandbox-proc-type-file = obsah souboru
 sandbox-proc-type-media-plugin = zásuvný modul médií
+launcher-process-status-0 = Povoleno
+launcher-process-status-1 = Zakázáno kvůli chybě
+launcher-process-status-2 = Násilně zakázáno
+launcher-process-status-unknown = Neznámý stav
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows

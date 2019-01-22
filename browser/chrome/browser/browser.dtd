@@ -883,6 +883,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsReloadHint "Pro provedení změn budete možná muset obnovit stránku.">
 <!ENTITY identity.permissionsPreferences.tooltip "Otevřít nastavení oprávnění">
 
+<!ENTITY identity.contentBlockingPreferences.tooltip "Otevřít nastavení blokování obsahu">
+
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Ouška panelů">
