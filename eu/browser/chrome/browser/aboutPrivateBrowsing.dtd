@@ -37,6 +37,9 @@
 <!ENTITY contentBlocking.description                     "Zenbait webgunek zure jarraipena egin eta Interneten zehar duzun jarduera monitoriza dezakete. Leiho pribatuetan, zure nabigatze-portaerari buruzko informazioa bil lezaketen elementuak automatikoki blokeatuko ditu Firefoxen edukiaren blokeoak.">
 
 <!-- Strings for new Private Browsing with Search -->
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.search.placeholder): This is the placeholder
+                       text for the search box.   -->
+<!ENTITY aboutPrivateBrowsing.search.placeholder         "Bilatu webean">
 <!ENTITY aboutPrivateBrowsing.info.title                 "Leiho pribatuan zaude">
 <!ENTITY aboutPrivateBrowsing.info.description           "&brandShortName;(e)k zure bilaketa- eta nabigazio-historia garbitzen du aplikazioa ixtean edo nabigatze pribatuko fitxa eta leiho guztiak ixtean. Honek ez zaitu anonimo egiten webguneen edo zure interneteko zerbitzu-hornitzailearen aurrean baina erraztu egiten du ordenagailu hau erabiltzen duten beste erabiltzaileengandik online duzun jarduera pribatu mantentzea.">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article

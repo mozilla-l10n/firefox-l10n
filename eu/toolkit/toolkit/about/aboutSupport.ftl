@@ -44,6 +44,7 @@ app-basics-memory-use = Memoriaren erabilpena
 app-basics-performance = Errendimendua
 app-basics-service-workers = Erregistratutako zerbitzu-langileak
 app-basics-profiles = Profilak
+app-basics-launcher-process-status = Abioko prozesua
 app-basics-multi-process-support = Multiprozesu leihoak
 app-basics-process-count = Webeko eduki-prozesuak
 app-basics-enterprise-policies = Enpresa-politikak
@@ -241,6 +242,10 @@ effective-content-sandbox-level = Eduki-prozesuen isolamendu maila eraginkorra
 sandbox-proc-type-content = edukia
 sandbox-proc-type-file = fitxategiaren edukia
 sandbox-proc-type-media-plugin = multimedia plugina
+launcher-process-status-0 = Gaituta
+launcher-process-status-1 = Desgaituta hutsegitea dela-eta
+launcher-process-status-2 = Behartuta desgaituta
+launcher-process-status-unknown = Egoera ezezaguna
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows

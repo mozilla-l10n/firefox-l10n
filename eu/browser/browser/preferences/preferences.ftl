@@ -615,6 +615,7 @@ sitedata-keep-until-closed =
 sitedata-delete-on-close =
     .label = Ezabatu cookieak eta guneetako datuak { -brand-short-name } ixtean
     .accesskey = c
+sitedata-delete-on-close-private-browsing = Nabigatze pribatu modu iraunkorrean cookieak eta guneetako datuak beti garbituko dira { -brand-short-name } ixtean.
 sitedata-allow-cookies-option =
     .label = Onartu cookieak eta guneetako datuak
     .accesskey = O
