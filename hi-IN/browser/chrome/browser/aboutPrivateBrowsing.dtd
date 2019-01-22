@@ -39,6 +39,7 @@
 <!-- Strings for new Private Browsing with Search -->
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.search.placeholder): This is the placeholder
                        text for the search box.   -->
+<!ENTITY aboutPrivateBrowsing.search.placeholder         "वेब पर खोजें">
 <!ENTITY aboutPrivateBrowsing.info.title                 "आप एक निजी विंडो में हैं">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article
                        about private browsing myths.   -->

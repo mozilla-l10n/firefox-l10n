@@ -10,9 +10,10 @@
 <!ENTITY returnToPreviousPage.label "पीछे जाएँ">
 <!ENTITY returnToPreviousPage1.label "पीछे जाएँ (निर्देशित)">
 <!ENTITY advanced.label "उन्नत">
-
 <!ENTITY continue2.label "अधिक…">
+<!ENTITY advanced2.label "विस्तृत…">
 <!ENTITY moreInformation.label "अधिक सूचना">
+<!ENTITY viewCertificate.label "प्रमाणपत्र देखें">
 
 <!-- Specific error messages -->
 
@@ -97,7 +98,6 @@ was trying to connect. -->
 <!ENTITY certerror.introPara "<span class='hostname'/> के मालिक ने अपने वेबसाइट को अनुचित तरीके से कॉन्फ़िगर किया है.  आपकी जानकारी को चोरी होने से बचाने के लिए, &brandShortName; इस वेबसाइट से जुड़ा हुआ नहीं है.">
 
 
-
 <!ENTITY certerror.whatCanYouDoAboutItTitle "आप इसके लिए क्या कर सकते हैं?">
 
 
@@ -113,7 +113,6 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel " अपवाद जोड़ें…">
-
 <!ENTITY securityOverride.exceptionButton1Label "जोखिम को स्वीकार करें और जारी रखें">
 
 <!ENTITY errorReporting.automatic2 "इस तरह की त्रुटियों की सूचना देकर Mozilla का सहयोग करें ताकि Mozilla दुर्भावनापूर्ण साइटों की पहचान कर बंद कर सके">
@@ -146,5 +145,7 @@ was trying to connect. -->
 <!ENTITY blockedByPolicy.title "ब्लॉक किया हुआ पृष्ट">
 
 
+
 <!ENTITY prefReset.longDesc "लगता है आपकी नेटवर्क सिक्योरिटी के कारण यह हो रहा है. क्या आप चाहते हैं कि आपकी सेटिंग पुरानी स्थिति में आ जाए?">
 <!ENTITY prefReset.label "तयशुदा सेटिंग्स पुरानी स्थिति में लाएं">
+
