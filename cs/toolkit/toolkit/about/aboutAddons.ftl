@@ -207,3 +207,20 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Instalovat aktualizace
     .tooltiptext = Nainstaluje vybrané aktualizace
+
+## Extension shortcut management
+
+shortcuts-manage =
+    .label = Klávesové zkratky
+shortcuts-empty-message = Toto rozšíření nemá žádné klávesové zkratky.
+shortcuts-no-addons = Nemáte povoleno žádné rozšíření.
+shortcuts-input =
+    .placeholder = Zadejte klávesovou zkratku
+shortcuts-browserAction = Povolit rozšíření
+shortcuts-pageAction = Povolit akci stránky
+shortcuts-sidebarAction = Přepnout zobrazení postranního panelu
+shortcuts-modifier-mac = Zahrnout Ctrl, Alt nebo ⌘
+shortcuts-modifier-other = Zahrnout Ctrl nebo Alt
+shortcuts-invalid = Neplatná kombinace kláves
+shortcuts-letter = Napište písmeno
+shortcuts-system = Nelze přepsat zkratku aplikace { -brand-short-name }
