@@ -18,3 +18,12 @@ state-header = Naha
 #   $buildID (String): build identifier from the local updates.xml
 update-full-name =
     .name = { $name } ({ $buildID })
+# Used to display update history
+#
+# Variables:
+#   $name (String): name of the update
+#   $buildID (String): build identifier from the local updates.xml
+update-full-build-name = { $name } ({ $buildID })
+update-details = Dintlha
+update-installed-on = E kentswe ka la: { $date }
+update-status = Boemo: { $status }
