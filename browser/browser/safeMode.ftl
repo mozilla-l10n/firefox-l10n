@@ -10,6 +10,7 @@ start-safe-mode =
 refresh-profile =
     .label = Atjaunot { -brand-short-name }
 safe-mode-description = Drošais režīms ir speciāls { -brand-short-name } režīms dažādu tehnisko problēmu risināšanai.
+safe-mode-description-details = Jūsu papildinājumi un pielāgotie iestatījumi tiks īslaicīgi deaktivēti un { -brand-short-name } funkcijas var strādāt atšķirīgi no tā kā tās strādā šobrīd.
 refresh-profile-instead = Ja vēlaties varat izlaist problēmas meklēšanu un atjaunot { -brand-short-name }.
 # Shown on the safe mode dialog after multiple startup crashes. 
 auto-safe-mode-description = { -brand-short-name } negaidīti aizvērās ielādes laikā. Šo var izraisīt papildinājumi vai citas problēmas. Lai atrisinātu šo varat atjaunot { -brand-short-name } uz sākotnējo stāvokli vai arī meklēt problēmas risinājumu Drošajā režīmā.
