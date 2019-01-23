@@ -4,10 +4,6 @@
 
 do-not-track-description = वेबसाइटों को “डू नॉट ट्रैक” संकेत भेजे ताकि वो आपको ट्रैक ना करें
 do-not-track-learn-more = और अधिक जानें
-do-not-track-option-default =
-    .label = ट्रैकिंग का उपयोग करते समय ही
-do-not-track-option-default-content-blocking =
-    .label = केवल जब { -brand-short-name }  ज्ञात ट्रैकर को अवरोधित करने के लिए सेट किया गया है
 do-not-track-option-always =
     .label = हमेशा
 pref-page =
@@ -90,9 +86,6 @@ extension-controlled-default-search = एक्सटेंशन, <img data-l10
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = एक्सटेंशन, <img data-l10n-name="icon"/> { $name }, को कंटेनर टैब की आवश्यकता है.
-# This string is shown to notify the user that their tracking protection preferences
-# are being controlled by an extension.
-extension-controlled-websites-tracking-protection-mode = एक्सटेंशन, <img data-l10n-name="icon"/> { $name }, ट्रैकिंग सुरक्षा को नियंत्रित कर रहा है.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = एक्सटेंशन, <img data-l10n-name="icon"/> { $name }, यह नियंत्रित कर रहा है { -brand-short-name } कैसे इंटरनेट से जुड़ेगा.
@@ -588,37 +581,18 @@ sitedata-total-size-calculating = साइट डेटा और कैश आ
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = आपकी संग्रहीत कुकीज़, साइट डेटा और कैश वर्तमान में डिस्क स्थान के { $value } { $unit } का उपयोग कर रहे हैं।
 sitedata-learn-more = अधिक जानें
-sitedata-keep-until = तब तक रखें जब तक
-    .accesskey = u
-sitedata-keep-until-expire =
-    .label = उनकी समय सीमा समाप्त
-sitedata-keep-until-closed =
-    .label = { -brand-short-name } बंद हो चूका है
 sitedata-allow-cookies-option =
     .label = कुकीज़ और साइट डेटा स्वीकार करें
     .accesskey = A
 sitedata-disallow-cookies-option =
     .label = कुकीज़ और साइट डेटा प्रतिबंधित करें
     .accesskey = B
-sitedata-block-trackers-option-recommended =
-    .label = तृतीय-पक्ष ट्रैकर (अनुशंसित)
-sitedata-block-trackers-option =
-    .label = तृतीय-पक्ष ट्रैकर
-sitedata-block-unvisited-option =
-    .label = नहीं देखे वेबसाइटों से कुकीज़
-sitedata-block-all-third-party-option =
-    .label = सभी तृतीय-पक्ष कुकीज़ (वेबसाइटों को तोड़ने का कारण हो सकते हैं)
-sitedata-block-all-option =
-    .label = सभी कुकीज़ (वेबसाइटों को तोड़ने के कारण होंगे)
 sitedata-clear =
     .label = डेटा मिटायें...
     .accesskey = I
 sitedata-settings =
     .label = डेटा प्रबंधित करें...
     .accesskey = M
-sitedata-cookies-exceptions =
-    .label = अपवाद…
-    .accesskey = E
 sitedata-cookies-permissions =
     .label = अनुमतियाँ प्रबंधित करें…
     .accesskey = P
@@ -641,31 +615,7 @@ addressbar-suggestions-settings = खोज इंजिन सुझाव क�
 ## Privacy Section - Content Blocking
 
 content-blocking-header = कंटेंट ब्लॉकिंग
-content-blocking-desc =
-    तृतीय-पार्टी सामग्री, जैसे कि विज्ञापन या कोड, को ब्लॉक करें जो कि आपके ब्राउज़िंग को धीमा करते हैं और वेब पर आपको ट्रैक करते हैं.
-    सुरक्षा तथा परफॉरमेंस के बेहतर संतुलन के लिए अपने सेटिंग को अपने अनुकूल करें.
 content-blocking-learn-more = अधिक जानें
-content-blocking-restore-defaults =
-    .label = तयशुदा का उपयोग करें
-    .accesskey = R
-content-blocking-toggle-on =
-    .tooltiptext = कंटेंट ब्लॉकिंग बंद करें
-content-blocking-toggle-off =
-    .tooltiptext = कंटेंट ब्लॉकिंग चालू करें
-content-blocking-toggle-label-on = चालू
-    .accesskey = O
-content-blocking-toggle-label-off = बंद
-    .accesskey = O
-content-blocking-category-label = चुनें कि क्या ब्लॉक करना है
-content-blocking-tracking-protection-trackers-label =
-    .label = ट्रैकर
-    .accesskey = T
-content-blocking-tracking-protection-option-always =
-    .label = हमेशा
-    .accesskey = A
-content-blocking-tracking-protection-option-private =
-    .label = केवल निजी विंडो में
-    .accesskey = p
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 content-blocking-setting-standard =
@@ -695,46 +645,12 @@ content-blocking-option-private =
     .label = सिर्फ निजी विंडो में
     .accesskey = P
 content-blocking-tracking-protection-change-block-list = ब्लॉक सूची बदलें
-content-blocking-third-party-cookies-label =
-    .label = थर्ड-पार्टी कूकीज़
-    .accesskey = C
-content-blocking-reject-trackers-description = सभी तृतीय-पक्ष कुकीज़ को प्रतिबंधित करें या केवल उन्हें जो ट्रैकरों द्वारा सेट किए गये हैं।
-content-blocking-change-cookie-settings =
-    .label = कुकी सेटिंग बदलें
-    .accesskey = S
-content-blocking-reject-trackers-block-trackers-option-recommended =
-    .label = ट्रैकर (अनुशंसित)
-    .accesskey = k
-content-blocking-reject-trackers-block-trackers-option =
-    .label = ट्रैकर
-    .accesskey = k
-content-blocking-reject-trackers-all-third-parties-option =
-    .label = सभी तृतीय-पक्ष कुकीज़ (वेबसाइटों को तोड़ने के कारण हो सकते हैं)
-    .accesskey = A
 content-blocking-cookies-label =
     .label = कुकीज
     .accesskey = C
 
 ## Privacy Section - Tracking
 
-tracking-header = ट्रैकिंग सुरक्षा
-tracking-desc = ट्रैकिंग सुरक्षा ऑनलाइन ट्रैकरों को अवरुद्ध करता है जो कई वेबसाइटों के ऊपर आपके ब्राउज़िंग डेटा को जमा करते है. <a data-l10n-name="learn-more">ट्रैकिंग सुरक्षा तथा अपने गोपनीयता के बारे में अधिक जाने</a>
-tracking-mode-label = ज्ञात ट्रैकर्स को ब्लॉक करने के लिए ट्रैकिंग सुरक्षा का उपयोग करें
-tracking-mode-always =
-    .label = हमेशा
-    .accesskey = y
-tracking-mode-private =
-    .label = नई निजी विंडो में खोलें
-    .accesskey = l
-tracking-mode-never =
-    .label = कभी नहीं
-    .accesskey = N
-tracking-exceptions =
-    .label = अपवाद…
-    .accesskey = x
-tracking-change-block-list =
-    .label = ब्लाक लिस्ट बदलें…
-    .accesskey = C
 tracking-manage-exceptions =
     .label = अपवादों को प्रबंधित करें
     .accesskey = x
@@ -802,6 +718,7 @@ collection-health-report-link = अधिक जानें
 collection-studies =
     .label = { -brand-short-name } को संस्थापित करने और अध्ययन चलाने की अनुमति दें
 collection-studies-link = { -brand-short-name } अध्ययन देखें
+addon-recommendations-link = और जानें
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = इस निर्मित विन्यास के लिए डेटा रिपोर्टिंग को असक्रिय किया हैं
