@@ -18,3 +18,6 @@ state-header = Leta
 #   $buildID (String): build identifier from the local updates.xml
 update-full-name =
     .name = { $name } ({ $buildID })
+update-details = Birambuye
+update-installed-on = Isanzwe kuri: { $date }
+update-status = Imimerere: { $status }
