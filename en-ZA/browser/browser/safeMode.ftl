@@ -7,4 +7,9 @@ safe-mode-window =
     .style = max-width: 400px
 start-safe-mode =
     .label = Start in Safe Mode
+refresh-profile =
+    .label = Refresh { -brand-short-name }
 safe-mode-description = Safe Mode is a special mode of { -brand-short-name } that can be used to troubleshoot issues.
+refresh-profile-instead = You can also skip troubleshooting and try refreshing { -brand-short-name }.
+# Shown on the safe mode dialog after multiple startup crashes. 
+auto-safe-mode-description = { -brand-short-name } closed unexpectedly while starting. This might be caused by add-ons or other problems. You can try to resolve the problem by troubleshooting in Safe Mode.
