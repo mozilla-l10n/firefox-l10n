@@ -615,6 +615,7 @@ sitedata-keep-until-closed =
 sitedata-delete-on-close =
     .label = Stizzar ils cookies e las datas da websites cun serrar { -brand-short-name }
     .accesskey = c
+sitedata-delete-on-close-private-browsing = En il modus privat permanent vegnan cookies e datas da websites adina stizzadas cura che { -brand-short-name } vegn terminà.
 sitedata-allow-cookies-option =
     .label = Acceptar cookies e datas da website
     .accesskey = A
