@@ -232,6 +232,10 @@ effective-content-sandbox-level = प्रभावी सामग्री �
 sandbox-proc-type-content = अंतर्वस्तु
 sandbox-proc-type-file = फ़ाइल सामग्री
 sandbox-proc-type-media-plugin = मीडिया प्लगइन
+launcher-process-status-0 = सक्रिय
+launcher-process-status-1 = विफलता के कारण निष्क्रिय
+launcher-process-status-2 = बलपूर्वक अक्षम किया गया
+launcher-process-status-unknown = अज्ञात स्थिति
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows

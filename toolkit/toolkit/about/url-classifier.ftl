@@ -3,6 +3,16 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 url-classifier-title = URL वर्गीकारक जानकारी
+url-classifier-search-title = खोजें
+url-classifier-search-result-title = परिणाम
+url-classifier-search-result-uri = URI: { $uri }
+url-classifier-search-result-list = तालिकाओं की सूची: { $list }
+url-classifier-search-input = यूआरएल
+url-classifier-search-error-invalid-url = अवैध यूआरएल
+url-classifier-search-error-no-features = कोई सुविधाएँ चयनित नहीं हैं
+url-classifier-search-btn = खोजना शुरू करें
+url-classifier-search-features = विशेषताएँ
+url-classifier-search-listType = सूची प्रकार
 url-classifier-provider-title = प्रदाता
 url-classifier-provider = प्रदाता
 url-classifier-provider-last-update-time = अंतिम अद्यतन समय

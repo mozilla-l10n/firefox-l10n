@@ -198,3 +198,17 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = अद्यतन संस्थापित करें
     .tooltiptext = इस सूची में उपलब्ध अद्यतन संस्थापित करें
+
+## Extension shortcut management
+
+shortcuts-manage =
+    .label = कुंजीपटल शॉर्टकट‌‌
+shortcuts-empty-message = इस एक्सटेंशन के लिए कोई शॉर्टकट नहीं हैं।
+shortcuts-no-addons = आपके पास कोई एक्सटेंशन सक्रिय नहीं है।
+shortcuts-input =
+    .placeholder = एक शॉर्टकट टाइप करें
+shortcuts-browserAction = एक्सटेंशन को सक्रिय करें
+shortcuts-pageAction = पृष्ठ क्रिया सक्रिय करें
+shortcuts-sidebarAction = साइडबार को टॉगल करें
+shortcuts-invalid = अमान्य संयोजन
+shortcuts-letter = एक अक्षर लिखें
