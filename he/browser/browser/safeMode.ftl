@@ -7,3 +7,5 @@ safe-mode-window =
     .style = max-width: 400px
 safe-mode-description = מצב בטוח הוא מצב מיוחד של { -brand-short-name } שיכול לשמש לפתרון בעיות.
 refresh-profile-instead = ניתן לדלג על פתרון הבעיות ולנסות לרענן את { -brand-short-name }.
+# Shown on the safe mode dialog after multiple startup crashes. 
+auto-safe-mode-description = ‏{ -brand-short-name } נסגר באופן בלתי צפוי במהלך הפעלתו. דבר זה עלול להיגרם עקב תוספות או בעיות אחרות. ניתן לנסות לפתור את הבעיה במצב בטוח.
