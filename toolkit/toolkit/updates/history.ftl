@@ -11,3 +11,6 @@ name-header = Buyeketa libito
 date-header = Faka lusuku
 type-header = Inhlobo
 state-header = Live
+update-details = Imininingwane
+update-installed-on = Kufakwe ku: { $date }
+update-status = Simo: { $status }
