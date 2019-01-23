@@ -7,4 +7,9 @@ safe-mode-window =
     .style = max-width: 400px
 start-safe-mode =
     .label = Cychwyn yn y Modd Diogel
+refresh-profile =
+    .label = Adnewyddu { -brand-short-name }
 safe-mode-description = Modd arbennig o fewn { -brand-short-name } yw'r Modd Diogel y mae modd ei ddefnyddio i ddatrys problemau.
+refresh-profile-instead = Gallwch hepgor datrys problemau a cheisio adnewyddu { -brand-short-name }.
+# Shown on the safe mode dialog after multiple startup crashes. 
+auto-safe-mode-description = Caeodd { -brand-short-name } yn annisgwyl wrth gychwyn. Efallai fod hyn o ganlyniad i ychwanegyn neu anhawster arall. Mae modd ceisio datrys y broblem o fewn y Modd Diogel.
