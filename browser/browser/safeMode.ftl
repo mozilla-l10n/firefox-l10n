@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 safe-mode-window =
-    .title = מצב בטוח של { -brand-short-name }{ " " }
+    .title = מצב בטוח של { -brand-short-name }
     .style = max-width: 400px
 start-safe-mode =
     .label = הפעלה במצב בטוח
