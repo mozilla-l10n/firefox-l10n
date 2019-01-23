@@ -7,3 +7,9 @@ safe-mode-window =
     .style = max-width: 400px
 start-safe-mode =
     .label = Xavfsiz usulda ishga tushirish
+refresh-profile =
+    .label = { -brand-short-name }ni yangilash
+safe-mode-description = Xavfsiz usul - nosozliklarni to‘g‘rilash uchun ishlatiladigan { -brand-short-name } maxsus usuli.
+refresh-profile-instead = Siz nosozliklarni hal qilishni tashlab ketishingiz va { -brand-short-name }ni yangilashga urinishingiz mumkin.
+# Shown on the safe mode dialog after multiple startup crashes. 
+auto-safe-mode-description = { -brand-short-name } ishga tushayotganda kutilmaganda yopildi. Bunga sabab qo‘shimcha dasturlar yoki boshqa muammolar bo‘lishi mumkin. Siz ushbu muammoni "Xavfsiz usul"da nosozliklarni hal qilish orqali muammoni bartaraf qilishga urnishingiz mumkin.
