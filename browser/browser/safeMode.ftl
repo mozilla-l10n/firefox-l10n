@@ -7,4 +7,9 @@ safe-mode-window =
     .style = max-width: 400px
 start-safe-mode =
     .label = ابدأ في الوضع الآمن
+refresh-profile =
+    .label = أنعش { -brand-short-name }
 safe-mode-description = الوضع الآمن هو وضع خاص في { -brand-short-name } يمكن استخدام لتتبع المشاكل.
+refresh-profile-instead = يمكنك تخطي محاولة تتبع المشكلة و تجرب إنعاش { -brand-short-name }.
+# Shown on the safe mode dialog after multiple startup crashes. 
+auto-safe-mode-description = أُغلق { -brand-short-name } فجأة أثناء البدء. قد يكون هذا بسبب أحد الإضافات أو البرامج الأخرى. يمكن محاولة حل المشكلة بتتبعها في الوضع الآمن.
