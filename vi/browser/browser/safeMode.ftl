@@ -5,3 +5,11 @@
 safe-mode-window =
     .title = { -brand-short-name } Chế độ An toàn
     .style = max-width: 400px
+start-safe-mode =
+    .label = Khởi động vào chế độ an toàn
+refresh-profile =
+    .label = Cài đặt lại { -brand-short-name }
+safe-mode-description = Chế độ an toàn là một chế độ đặc biệt của { -brand-short-name } dùng để chẩn đoán và giải quyết rắc rối.
+refresh-profile-instead = Bạn có thể bỏ qua bước nhận dạng lỗi và thử cài đặt lại { -brand-short-name }.
+# Shown on the safe mode dialog after multiple startup crashes. 
+auto-safe-mode-description = { -brand-short-name } bị đóng bất thường trong lúc khởi động. Việc này có thể do tiện ích hoặc các vấn đề khác. Bạn có thể thử giải quyết vấn đề này bằng cách sửa chữa trong chế độ an toàn.
