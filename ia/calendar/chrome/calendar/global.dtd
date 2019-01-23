@@ -29,5 +29,23 @@
 <!ENTITY day.4.name "mercuridi" >
 <!ENTITY day.5.name "jovedi" >
 <!ENTITY day.6.name "venerdi" >
+<!ENTITY day.7.name "sabbato" >
 
+<!ENTITY month.1.name "Januario" >
+<!ENTITY month.2.name "Februario" >
+<!ENTITY month.3.name "Martio" >
+<!ENTITY month.4.name "April" >
+<!ENTITY month.5.name "Maio" >
+<!ENTITY month.6.name "Junio" >
+<!ENTITY month.7.name "Julio" >
+<!ENTITY month.8.name "Augusto" >
+<!ENTITY month.9.name "Septembre" >
+<!ENTITY month.10.name "Octobre" >
+<!ENTITY month.11.name "Novembre" >
+<!ENTITY month.12.name "Decembre" >
 
+<!ENTITY onemonthbackward.tooltip "Un mense retro" >
+<!ENTITY onemonthforward.tooltip "Un mense avante" >
+<!ENTITY showToday.tooltip "Ir a hodie">
+<!ENTITY onedayforward.tooltip "Un die avante">
+<!ENTITY onedaybackward.tooltip "Un die retro">
