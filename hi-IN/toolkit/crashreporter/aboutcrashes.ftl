@@ -3,13 +3,12 @@
 # file, You can obtain one at http://mozilla-org/MPL/2-0/-
 
 crash-reports-title = क्रैश रिपोर्ट
-clear-all-reports-label = सभी रिपोर्ट हटाएँ
 delete-button-label = सभी साफ करें
 delete-confirm-title = क्या आप निश्चित हैं?
-delete-confirm-description = यह सभी रिपोर्ट को मिटा देगा और वापस नहीं किया जा सकता है.
 crashes-unsubmitted-label = सबमिट नहीं किए गए क्रैश रिपोर्ट
 id-heading = रिपोर्ट ID
 date-crashed-heading = दिनांक क्रैश हो गया
+submit-crash-button-label = दर्ज़ करें
 # This text is used to replace the label of the crash submit button
 # if the crash submission fails.
 submit-crash-button-failure-label = विफल रहा
