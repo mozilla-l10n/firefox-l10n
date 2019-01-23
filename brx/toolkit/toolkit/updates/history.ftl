@@ -23,7 +23,7 @@ update-full-name =
 # Variables:
 #   $name (String): name of the update
 #   $buildID (String): build identifier from the local updates.xml
-update-full-build-name = { $name } ({ $buildID }){ " " }
+update-full-build-name = { $name } ({ $buildID })
 update-details = गुवारै
 update-installed-on = ..आव इनष्टल खालामबाय: { $date }
 update-status = थाखोमान: { $status }
