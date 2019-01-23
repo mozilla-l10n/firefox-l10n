@@ -10,6 +10,7 @@ start-safe-mode =
 refresh-profile =
     .label = Palauta { -brand-short-name } uudeksi
 safe-mode-description = Vikasietotila on { -brand-short-name }in erikoistila, jota voi käyttää käyttöongelmien syiden löytämiseen ja niiden ratkomiseen.
+safe-mode-description-details = Lisäosat ja mukautetut asetukset poistetaan käytöstä väliaikaisesti, ja { -brand-short-name }-ominaisuudet eivät välttämättä toimi kuten nyt.
 refresh-profile-instead = Voit myös ohittaa vian syyn etsimisen ja kokeilla suoraan { -brand-short-name }in palauttamista uuden veroiseksi.
 # Shown on the safe mode dialog after multiple startup crashes. 
 auto-safe-mode-description = { -brand-short-name } yllättäen sulkeutui käynnistettäessä. Tämä voi johtua viallisista lisäosista tai muista syistä. Voit yrittää etsiä vian syytä vikasietotilassa.
