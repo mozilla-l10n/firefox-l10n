@@ -7,4 +7,9 @@ safe-mode-window =
     .style = max-width: 400px
 start-safe-mode =
     .label = Start in Safe Mode
+refresh-profile =
+    .label = Atšviežinti „{ -brand-short-name }“
 safe-mode-description = Ribotoji veiksena – tai speciali programos „{ -brand-short-name }“ veiksena, skirta problemoms spręsti.
+refresh-profile-instead = Jūs taip pat galite praleisti problemų sprendimą ir pabandyti atšviežinti „{ -brand-short-name }“.
+# Shown on the safe mode dialog after multiple startup crashes. 
+auto-safe-mode-description = Paleidimo metu „{ -brand-short-name }“ netikėtai išsijungė. Taip galėjo nutikti dėl naudojamų priedų ar kitų problemų. Galite bandyti išspręsti šią problemą ribotoje veiksenoje.
