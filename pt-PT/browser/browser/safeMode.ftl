@@ -10,6 +10,7 @@ start-safe-mode =
 refresh-profile =
     .label = Restaurar o { -brand-short-name }
 safe-mode-description = O modo de segurança é um modo especial do { -brand-short-name } que pode ser utilizado para detetar problemas.
+safe-mode-description-details = O seus extras e definições personalizadas irão ser temporariamente desativados, e as funcionalidades do { -brand-short-name } podem não funcionar como atualmente.
 refresh-profile-instead = Pode também saltar a resolução de problemas e tentar restaurar o { -brand-short-name }.
 # Shown on the safe mode dialog after multiple startup crashes. 
 auto-safe-mode-description = O { -brand-short-name } encerrou inesperadamente ao iniciar. Isto poderá ter sido causado por extras ou outros problemas. Pode tentar resolver o seu problema ao diagnosticá-lo no modo de segurança.
