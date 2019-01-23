@@ -4,3 +4,7 @@
 
 start-safe-mode =
     .label = Pornește în modul sigur
+refresh-profile =
+    .label = Reîmprospătează { -brand-short-name }
+safe-mode-description = Modul sigur este un mod special al { -brand-short-name } care poate fi folosit pentru a depana problemele.
+refresh-profile-instead = De asemenea, poți sări peste depanare și să încerci să reîmprospătezi { -brand-short-name }.
