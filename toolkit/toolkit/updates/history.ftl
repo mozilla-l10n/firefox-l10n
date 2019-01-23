@@ -19,3 +19,5 @@ state-header = Κατάσταση
 #   $buildID (String): build identifier from the local updates.xml
 update-full-name =
     .name = { $name } ({ $buildID })
+update-details = Λεπτομέρειες
+update-status = Κατάσταση: { $status }
