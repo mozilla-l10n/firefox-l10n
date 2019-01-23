@@ -47,6 +47,7 @@ app-basics-memory-use = Utilisaziun da la capacitad da memorisar
 app-basics-performance = Prestaziun
 app-basics-service-workers = Service Workers registrads
 app-basics-profiles = Profils
+app-basics-launcher-process-status = Process launcher
 app-basics-multi-process-support = Fanestras da plirs process
 app-basics-process-count = Process per cuntegn da web
 app-basics-enterprise-policies = Directivas d'interpresa
@@ -244,6 +245,10 @@ effective-content-sandbox-level = Nivel effectiv da sandbox per ils process da c
 sandbox-proc-type-content = cuntegn
 sandbox-proc-type-file = cuntegn da la datoteca
 sandbox-proc-type-media-plugin = plugin per medias
+launcher-process-status-0 = Activà
+launcher-process-status-1 = Deactivà pervia dad errurs
+launcher-process-status-2 = Deactivà cun forza
+launcher-process-status-unknown = Status nunenconuschent
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows

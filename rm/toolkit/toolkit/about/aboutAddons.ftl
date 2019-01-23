@@ -212,3 +212,20 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Installar las actualisaziuns
     .tooltiptext = Installar las actualisaziuns disponiblas en questa glista
+
+## Extension shortcut management
+
+shortcuts-manage =
+    .label = Scursanidas da tastas
+shortcuts-empty-message = I na dat naginas scursanidas per questa extensiun.
+shortcuts-no-addons = Naginas extensiuns activadas.
+shortcuts-input =
+    .placeholder = Tippa ina scursanida
+shortcuts-browserAction = Activar l'extensiun
+shortcuts-pageAction = Activar l'acziun da pagina
+shortcuts-sidebarAction = Activar/deactivar la trav laterala
+shortcuts-modifier-mac = Includer Ctrl, Alt, u ⌘
+shortcuts-modifier-other = Includer Ctrl u Alt
+shortcuts-invalid = Cumbinaziun nunvalida
+shortcuts-letter = Tippa ina letra
+shortcuts-system = Impussibel da surscriver ina scursanida da { -brand-short-name }
