@@ -5,6 +5,11 @@
 safe-mode-window =
     .title = { -brand-short-name } Safe Mode
     .style = max-width: 400px
+start-safe-mode =
+    .label = Magsimula sa Safe Mode
+refresh-profile =
+    .label = I-refresh ang { -brand-short-name }
 safe-mode-description = Safe Mode ay isang espesyal na mode ng { -brand-short-name } na maaaring magamit upang i-troubleshoot ang mga isyu.
+refresh-profile-instead = Pwede mong laktawan ang troubleshooting at subukan na i-refresh muli ang { -brand-short-name }.
 # Shown on the safe mode dialog after multiple startup crashes. 
 auto-safe-mode-description = { -brand-short-name } ay nagsara ng hindi inaasahan habang nagbubukas. Ito ay maaring dahil sa mga add-on o iba pang mga problema. Maari mong maresolba ang problema sa pagtroubleshoot sa Safe Mode.
