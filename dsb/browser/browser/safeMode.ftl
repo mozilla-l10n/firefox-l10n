@@ -7,4 +7,9 @@ safe-mode-window =
     .style = max-width: 400px
 start-safe-mode =
     .label = We wěstem modusu startowaś
+refresh-profile =
+    .label = { -brand-short-name } wótnowiś
 safe-mode-description = Wěsty modus jo specialny modus programa { -brand-short-name }, kótaryž dajo se za pytanje za problemami wužywaś.
+refresh-profile-instead = Móžośo rozwězowanje problemow pśeskócyś a wopytowaś, { -brand-short-name } wótnowiś.
+# Shown on the safe mode dialog after multiple startup crashes. 
+auto-safe-mode-description = { -brand-short-name } jo se pśi startowanju napśiski skóńcył. To su snaź dodanki abo druge problemy zawinowali. Móžośo wopytowaś, problem we wěstem modusu rozwězaś.
