@@ -26,3 +26,4 @@ update-full-name =
 update-full-build-name = { $name } ({ $buildID })
 update-details = තොරතුරු
 update-installed-on = ස්ථාපිත දිනය: { $date }
+update-status = තත්වය: { $status }
