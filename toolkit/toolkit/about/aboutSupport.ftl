@@ -243,6 +243,7 @@ effective-content-sandbox-level = Niveau effectif du bac à sable pour les proce
 sandbox-proc-type-content = contenu
 sandbox-proc-type-file = contenu du fichier
 sandbox-proc-type-media-plugin = plugin multimédia
+launcher-process-status-0 = Activé
 launcher-process-status-unknown = État inconnu
 # Variables
 # $remoteWindows (integer) - Number of remote windows
