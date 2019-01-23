@@ -10,6 +10,7 @@ start-safe-mode =
 refresh-profile =
     .label = { -brand-short-name } wobnowić
 safe-mode-description = Wěsty modus je specialny modus programa { -brand-short-name }, kotryž da so za pytanje za problemami wužiwać.
+safe-mode-description-details = Waše přidatki a swójske nastajenja so nachwilu znjemóžnja a funkcije { -brand-short-name } njemóhli kaž nětko fungować.
 refresh-profile-instead = Móžeće rozrisowanje problemow přeskočić a pospytować, { -brand-short-name } wobnowić.
 # Shown on the safe mode dialog after multiple startup crashes. 
 auto-safe-mode-description = { -brand-short-name } je so při startowanju njejapcy skónčił. To su snano přidatki abo druhe problemy zawinowali. Móžeće pospytowác, problem we wěstym modusu rozrisać.
