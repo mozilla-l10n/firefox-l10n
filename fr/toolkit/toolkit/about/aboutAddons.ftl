@@ -209,3 +209,15 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Installer les mises à jour
     .tooltiptext = Installer les mises à jour disponibles dans cette liste
+
+## Extension shortcut management
+
+shortcuts-manage =
+    .label = Raccourcis clavier
+shortcuts-empty-message = Il n’y a pas de raccourci pour cette extension.
+shortcuts-no-addons = Aucune extension n’est activée.
+shortcuts-input =
+    .placeholder = Saisissez un raccourci
+shortcuts-browserAction = Activer l’extension
+shortcuts-sidebarAction = Afficher/Masquer le panneau latéral
+shortcuts-invalid = Combinaison invalide
