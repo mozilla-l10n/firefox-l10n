@@ -9,3 +9,4 @@ start-safe-mode =
     .label = Iniciar no modo de segurança
 refresh-profile =
     .label = Restaurar o { -brand-short-name }
+safe-mode-description = O modo de segurança é um modo especial do { -brand-short-name } que pode ser usado para resolver problemas.
