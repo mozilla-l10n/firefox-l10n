@@ -7,4 +7,9 @@ safe-mode-window =
     .style = max-width: 400px
 start-safe-mode =
     .label = Mulai dalam Mode Aman
+refresh-profile =
+    .label = Segarkan { -brand-short-name }
 safe-mode-description = Mode Aman merupakan mode operasi khusus pada { -brand-short-name } yang dapat digunakan untuk mengatasi masalah.
+refresh-profile-instead = Anda juga dapat melewati proses pemecahan masalah dan mencoba untuk menyegarkan { -brand-short-name }.
+# Shown on the safe mode dialog after multiple startup crashes. 
+auto-safe-mode-description = { -brand-short-name } tertutup tiba-tiba saat mulai. Ini dapat disebabkan oleh pengaya atau masalah lainnya. Anda dapat mencoba untuk memecahkan masalahnya dalam Mode Aman.
