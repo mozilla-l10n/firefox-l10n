@@ -6,5 +6,7 @@
 <!-- Calendar Invitations Dialog -->
 
 <!-- Calendar Invitations List -->
+<!ENTITY calendar.invitations.list.accept.button.label                  "Acceptar">
+<!ENTITY calendar.invitations.list.decline.button.label                 "Refusar">
 <!ENTITY calendar.invitations.list.organizer.text                       "Organisator: ">
 <!ENTITY calendar.invitations.list.attendee.text                        "Participante: ">
