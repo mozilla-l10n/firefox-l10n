@@ -7,7 +7,6 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
 
 <!ENTITY privateBrowsing.title                           "Kundaha ñemi">
-<!ENTITY privateBrowsing.title.tracking                  "Kundahára ñemi jehekaha mo'ãha ndive">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Eipyguarávo ovetã ñemiguáva, Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "noñongatúi">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
@@ -28,9 +27,14 @@
 <!ENTITY aboutPrivateBrowsing.learnMore3.title           "Kundaha ñemigua">
 <!ENTITY aboutPrivateBrowsing.learnMore3.after           ".">
 
-<!ENTITY trackingProtection.title                        "Tapykuereho ñemo'ã">
-<!ENTITY trackingProtection.description2                 "Oĩ ñandutirenda oiporúva tembipuru ohapykueho hag̃ua rejapóva ñandutivevépe. Ñemo'ã Tapykuehógui rupi Firefox ojokopaite umi nderapykuehoséva ani hag̃ua omyaty mba'ekuaarã nde rehegua ýrõ rejapóva rehegua.">
 <!ENTITY trackingProtection.startTour1                   "Ehecha mba'éichapa omba'apohína">
 
 <!ENTITY contentBlocking.title                           "Tetepy jejoko">
 <!ENTITY contentBlocking.description                     "Ndahetái ñanduti renda oipuru jehapykuehoha ikatúva ohecha ne rembiapo ñanduti rupive. Upe Firefox rovetã ñemigua guive tetepy jejoko ijehegui ojoko heta jehapykuehoha ikatúva ombyaty marandu’i ne kundaha rehegua.">
+
+<!-- Strings for new Private Browsing with Search -->
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.search.placeholder): This is the placeholder
+                       text for the search box.   -->
+<!ENTITY aboutPrivateBrowsing.search.placeholder         "Eheka ñandutípe">
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article
+                       about private browsing myths.   -->

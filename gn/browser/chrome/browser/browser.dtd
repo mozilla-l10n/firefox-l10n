@@ -29,8 +29,6 @@ a tab (i.e. it is a verb, not adjective). -->
 <!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  duplicateTab.accesskey             "D">
-<!ENTITY  closeTabOptions.label              "Emboty tendayke jeporavorã">
-<!ENTITY  closeTabOptions.accesskey          "O">
 <!-- LOCALIZATION NOTE (duplicateTabs.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
 <!ENTITY  duplicateTabs.label                "Emomokõi tendayke">
@@ -288,7 +286,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Mba'ekuaarã ñembyaty, ñembyaty hi'arekuaávape">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Kundahára oĩ ñangarekoha okayguáva poguýpe">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Eike pe ñanduti mboajeha rupápe">
-
 <!ENTITY urlbar.storageAccessAnchor.tooltip               "Embojuruja kundaha rembiapo ñemoneĩ rupa">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Eñangareko moherakuã nerovetã térã mba'erechaha ko tenda ndive">
@@ -635,6 +632,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.label      "Ko ovetã'i techaukaháre mbojoapy">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 <!ENTITY pageAction.copyLink.label    "Link Mbohasarã">
+
+<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
+  "Pocket" is a brand name. -->
+<!ENTITY saveToPocketCmd.accesskey    "k">
+<!ENTITY saveLinkToPocketCmd.accesskey "o">
+
 <!ENTITY emailPageCmd.label           "Joajuha mondo…">
 <!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "Ñongatu pyahu…">
@@ -873,6 +876,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsReloadHint "Ikatu hína kuatiarogue emyanyhẽjey umi moambuepyre oñemboheko hag̃ua.">
 <!ENTITY identity.permissionsPreferences.tooltip "Oĩ moneĩ jeguerohoryvéva">
 
+
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Kundahára rendayke">
@@ -974,66 +979,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.title "Tetepy jejoko">
 <!ENTITY contentBlocking.detected "Ojejuhu ko tendápe tetepy ojejokokuaáva.">
 <!ENTITY contentBlocking.notDetected "Ndojejuhúi ko tendápe tetepy ojejokokuaáva.">
-<!ENTITY contentBlocking.disabled.label "Pe'apyre">
-<!ENTITY contentBlocking.disabled.tooltip "Eipe’áma tetepy jejoko">
-<!ENTITY contentBlocking.exception.tooltip "Eipe’áma tetepy jejoko ko tendápe g̃uarã.">
-
-<!ENTITY contentBlocking.fastBlock.label "Jehakaha henyhẽ mbeguéva">
-<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
-     This label signals that this type of content blocking is turned
-     ON and is successfully blocking malicious/slow content, so this is
-     a positive thing. It forms the end of the (imaginary) sentence
-     "Slow-Loading Trackers [are] Blocked"-->
-<!ENTITY contentBlocking.fastBlock.blocked.label "Jokopyre">
-<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocking.label):
-     This label signals that this type of content blocking is turned
-     ON, so this is a positive thing. It forms the verb in (imaginary) sentence
-     "Firefox is blocking Slow-Loading Trackers"-->
-<!ENTITY contentBlocking.fastBlock.blocking.label "Ojokohína">
-<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
-     This is displayed as a link to preferences, where the user can add
-     this specific type of content blocking. When this text is shown
-     the type of content blocking is currently not enabled. -->
-<!ENTITY contentBlocking.fastBlock.add.label "Embojuaju jejoko…">
-
-<!ENTITY contentBlocking.trackingProtection2.label "Opaite tapykuehoha juhupyre">
 
 <!ENTITY contentBlocking.trackingProtection3.label "Tapykuehohára">
-<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
-     This label signals that this type of content blocking is turned
-     ON and is successfully blocking tracker content, so this is
-     a positive thing. It forms the end of the (imaginary) sentence
-     "Trackers [are] Blocked"-->
-<!ENTITY contentBlocking.trackingProtection.blocked.label "Jokopyre">
-<!-- LOCALIZATION NOTE (contentBlocking.tranckingProtection.blocking.label):
-     This label signals that this type of content blocking is turned
-     ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
-     "Firefox is blocking Trackers"-->
-<!ENTITY contentBlocking.trackingProtection.blocking.label "Ojokohína">
-<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
-     This is displayed as a link to preferences, where the user can add
-     this specific type of content blocking. When this text is shown
-     the type of content blocking is currently not enabled. -->
-<!ENTITY contentBlocking.trackingProtection.add.label "Embojuaju jejoko…">
-
-<!ENTITY contentBlocking.3rdPartyCookies.label "Kookie mbohapyhagua">
-<!ENTITY contentBlocking.3rdPartyCookies.trackers.label "Kookie jehapykuehoha">
-<!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.blocked.label):
-     This label signals that this type of content blocking is turned
-     ON and is successfully blocking third-party cookies, so this is
-     a positive thing. It forms the end of the (imaginary) sentence
-     "Third-Party Cookies [are] Blocked"-->
-<!ENTITY contentBlocking.3rdPartyCookies.blocked.label "Jokopyre">
-<!-- LOCALIZATION NOTE (contentBlocking.tranckingProtection.blocking.label):
-     This label signals that this type of content blocking is turned
-     ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
-     "Firefox is blocking Third-Party Cookies"-->
-<!ENTITY contentBlocking.3rdPartyCookies.blocking.label "Ojokohína">
-<!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.add.label):
-     This is displayed as a link to preferences, where the user can add
-     this specific type of content blocking. When this text is shown
-     the type of content blocking is currently not enabled. -->
-<!ENTITY contentBlocking.3rdPartyCookies.add.label "Embojuaju jokoha…">
 
 <!ENTITY contentBlocking.manageSettings.label "Eñangareko tetepy jejoko rehe">
 <!ENTITY contentBlocking.manageSettings.accesskey "M">
@@ -1052,22 +999,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Emondo ñemombe'u">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Heja">
 
-<!ENTITY trackingProtection.title "Tapykueho ñemo'ã">
-<!ENTITY trackingProtection.tooltip "Embojuruja jeguerohoryvéva tapykuere mo'ãhápe">
-
-<!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock4.label "Eipe’a jejoko ko tendápe g̃uarã">
-<!ENTITY trackingProtection.unblock4.accesskey "D">
-<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate4.label "Eipe’a jejoko sapy’agua">
-<!ENTITY trackingProtection.unblockPrivate4.accesskey "D">
-<!ENTITY trackingProtection.block5.label "Emyandy jejoko ko tendápe g̃uarã">
-<!ENTITY trackingProtection.block5.accesskey "E">
-
 <!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
@@ -1085,11 +1016,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pluginNotification.showAll.label "Techaukapa">
 <!ENTITY pluginNotification.showAll.accesskey "T">
-
-<!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
-<!ENTITY pluginActivateNow.label "Ko'ág̃a moneĩ ">
-<!ENTITY pluginActivateAlways.label "Ñemoneĩ ha mandu'a">
-<!ENTITY pluginBlockNow.label "Mba'ejoajurã joko">
 
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
      width of the plugin popup notification that can appear if a plugin has been
