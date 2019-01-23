@@ -5,3 +5,6 @@
 safe-mode-window =
     .title = { -brand-short-name } Hali tumizi Salama
     .style = max-width: 400px
+start-safe-mode =
+    .label = Anza katika Hali Salama
+safe-mode-description = Hali Salama ni hali ya kipekee ya { -brand-short-name } ambayo inaweza kutumika kusuluhisha masuala.
