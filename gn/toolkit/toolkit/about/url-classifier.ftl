@@ -3,6 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 url-classifier-title = Marandu URL poravoha rehegua
+url-classifier-search-title = Heka
+url-classifier-search-input = URL
+url-classifier-search-error-invalid-url = URL oiko'ỹva
 url-classifier-provider-title = Me'ẽha
 url-classifier-provider = Me'ẽha
 url-classifier-provider-last-update-time = Ñembohekopyahu ramoguavéva
