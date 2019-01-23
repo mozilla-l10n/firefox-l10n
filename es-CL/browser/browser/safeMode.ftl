@@ -4,4 +4,6 @@
 
 start-safe-mode =
     .label = Iniciar en modo seguro
+refresh-profile =
+    .label = Refrescar { -brand-short-name }
 safe-mode-description = El modo seguro es un modo especial de { -brand-short-name } que puede ser usado para resolver problemas.
