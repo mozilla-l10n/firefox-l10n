@@ -7,4 +7,9 @@ safe-mode-window =
     .style = max-width: 400px
 start-safe-mode =
     .label = Təhlükəsiz rejimdə başlat
+refresh-profile =
+    .label = { -brand-short-name } Səyyahını Yenilə
 safe-mode-description = Təhlükəsiz rejim, problem həll etmək üçün istifadə edilə biləcək xüsusi bir { -brand-short-name } rejimidir.
+refresh-profile-instead = Həmçinin problem həll etməyi buraxaraq { -brand-short-name } səyyahını yeniləməyi yoxlaya bilərsiniz.
+# Shown on the safe mode dialog after multiple startup crashes. 
+auto-safe-mode-description = { -brand-short-name } açılarkən gözlənilməz şəkildə bağlandı. Bu, əlavələrdən və ya başqa problemlərdən qaynaqlana bilər. Təhlükəsiz rejimini başladaraq problemi həll etməyə çalışa bilərsiniz.
