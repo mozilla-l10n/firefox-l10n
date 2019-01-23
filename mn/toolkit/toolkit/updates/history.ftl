@@ -18,3 +18,6 @@ state-header = Төлөв
 #   $buildID (String): build identifier from the local updates.xml
 update-full-name =
     .name = { $name } ({ $buildID })
+update-details = Нарийн мэдээлэл
+update-installed-on = Суугдсан газар: { $date }
+update-status = Төлөв: { $status }
