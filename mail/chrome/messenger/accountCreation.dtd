@@ -19,6 +19,13 @@
 <!ENTITY rememberPassword.label          "Memorisar il pled-clav">
 <!ENTITY rememberPassword.accesskey      "M">
 
+<!ENTITY usernameEx.label                "Tias infurmaziuns d'annunzia:">
+<!ENTITY usernameEx.accesskey            "i">
+<!-- LOCALIZATION NOTE(usernameEx.placeholder): YOURDOMAIN refers to the Windows domain in ActiveDirectory. yourusername refers to the user's account name in Windows. -->
+<!ENTITY usernameEx.placeholder          "TIADOMENA\tesnumd'utilisader">
+<!-- LOCALIZATION NOTE(usernameEx.text): Domain refers to the Windows domain in ActiveDirectory. We mean the user's login in Windows at the local corporate network. -->
+<!ENTITY usernameEx.text                 "Infurmaziun d'annunzia da la domena">
+
 <!ENTITY imapLong.label                  "IMAP (memorisar ils e-mails sin il server)">
 <!ENTITY pop3Long.label                  "POP3 (memorisar ils e-mails sin quest computer)">
 
