@@ -5,3 +5,6 @@
 safe-mode-window =
     .title = { -brand-short-name } સુરક્ષિત સ્થિતિ
     .style = max-width: 400px
+start-safe-mode =
+    .label = સુરક્ષિત સ્થિતિમાં શરૂ કરો
+safe-mode-description = સુરક્ષિત સ્થિતિ { -brand-short-name } ની ખાસ સ્થિતિ છે કે જે સમસ્યાઓનું મુશ્કેલી નિવારણ કરવા માટે વાપરી શકાય છે.
