@@ -18,10 +18,11 @@
 <!ENTITY password.text                   "Optioneel, wordt alleen gebruikt om de gebruikersnaam te valideren">
 <!ENTITY rememberPassword.label          "Wachtwoord onthouden">
 <!ENTITY rememberPassword.accesskey      "o">
+
 <!ENTITY usernameEx.label                "Uw gebruikersnaam:">
 <!ENTITY usernameEx.accesskey            "r">
 <!-- LOCALIZATION NOTE(usernameEx.placeholder): YOURDOMAIN refers to the Windows domain in ActiveDirectory. yourusername refers to the user's account name in Windows. -->
-<!ENTITY usernameEx.placeholder          "DOMEIN\gebruikersnaam">
+<!ENTITY usernameEx.placeholder          "UWDOMEIN\gebruikersnaam">
 <!-- LOCALIZATION NOTE(usernameEx.text): Domain refers to the Windows domain in ActiveDirectory. We mean the user's login in Windows at the local corporate network. -->
 <!ENTITY usernameEx.text                 "Domeingebruikersnaam">
 
