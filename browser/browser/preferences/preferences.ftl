@@ -4,10 +4,6 @@
 
 do-not-track-description = Enviar aos sites um sinal de “Não rastrear” informando que você não quer ser rastreado
 do-not-track-learn-more = Saiba mais
-do-not-track-option-default =
-    .label = Somente quando usar a proteção contra rastreamento
-do-not-track-option-default-content-blocking =
-    .label = Apenas quando o { -brand-short-name } está configurado para bloquear rastreadores detectados
 do-not-track-option-default-content-blocking-known =
     .label = Somente quando o { -brand-short-name } está configurado para bloquear rastreadores conhecidos
 do-not-track-option-always =
@@ -95,9 +91,6 @@ extension-controlled-default-search = Uma extensão, <img data-l10n-name="icon"/
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = Uma extensão requer abas contêiner: <img data-l10n-name="icon"/> { $name }.
-# This string is shown to notify the user that their tracking protection preferences
-# are being controlled by an extension.
-extension-controlled-websites-tracking-protection-mode = Uma extensão, <img data-l10n-name="icon"/> { $name }, está controlando sua proteção contra rastreamento.
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
 extension-controlled-websites-content-blocking-all-trackers = Uma extensão, <img data-l10n-name="icon"/> { $name }, está controlando esta configuração.
@@ -394,7 +387,7 @@ search-bar-hidden =
 search-bar-shown =
     .label = Adicionar a barra de pesquisa na barra de ferramentas
 search-engine-default-header = Mecanismo de pesquisa padrão
-search-engine-default-desc = Escolha o mecanismo de pesquisa padrão para usar na barra de endereços e na barra de pesquisa.
+search-engine-default-desc = Escolha o mecanismo de pesquisa padrão a ser usado na barra de endereços e na barra de pesquisa.
 search-suggestions-option =
     .label = Sugestões de pesquisa
     .accesskey = S
@@ -606,12 +599,6 @@ sitedata-total-size-calculating = Calculando o tamanho dos dados de sites e cach
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Seus cookies, dados de sites e cache armazenados estão atualmente usando { $value } { $unit } do espaço em disco.
 sitedata-learn-more = Saiba mais
-sitedata-keep-until = Manter até
-    .accesskey = m
-sitedata-keep-until-expire =
-    .label = Expirar
-sitedata-keep-until-closed =
-    .label = { -brand-short-name } ser fechado
 sitedata-delete-on-close =
     .label = Apagar cookies e dados de sites quando o { -brand-short-name } for fechado
     .accesskey = c
@@ -626,16 +613,6 @@ sitedata-disallow-cookies-option =
 # The list items are the strings named sitedata-block-*-option*.
 sitedata-block-desc = Tipo bloqueado
     .accesskey = T
-sitedata-block-trackers-option-recommended =
-    .label = Rastreadores de terceiros (recomendado)
-sitedata-block-trackers-option =
-    .label = Rastreadores de terceiros
-sitedata-block-unvisited-option =
-    .label = Cookies de sites não visitados
-sitedata-block-all-third-party-option =
-    .label = Todos os cookies de terceiros (pode atrapalhar alguns sites)
-sitedata-block-all-option =
-    .label = Todos os cookies (atrapalhará vários sites)
 sitedata-option-block-trackers =
     .label = Rastreadores de terceiros
 sitedata-option-block-unvisited =
@@ -650,13 +627,6 @@ sitedata-clear =
 sitedata-settings =
     .label = Gerenciar dados…
     .accesskey = G
-sitedata-cookies-exceptions =
-    .label = Exceções…
-    .accesskey = E
-# This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
-# in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
-# Cookies and Site Data section.
-sitedata-warning-your-settings-prevent-changes = Suas configurações de bloqueio de conteúdo estão impedindo mudanças nas configurações de Cookies e Dados de sites.
 sitedata-cookies-permissions =
     .label = Gerenciar permissões…
     .accesskey = p
@@ -674,46 +644,13 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = Abas abertas
     .accesskey = A
-addressbar-suggestions-settings = Alterar preferências das sugestões do mecanismo de pesquisa
+addressbar-suggestions-settings = Alterar preferências de sugestões de mecanismos de pesquisa
 
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Bloqueio de conteúdo
-content-blocking-desc = Bloqueie conteúdo de terceiros, como propaganda ou código, que podem tornar sua navegação mais lenta e rastrear você através da web. Personalize suas configurações para uma proteção e desempenho balanceados.
 content-blocking-description = Bloqueie conteúdo de terceiros que rastreia você pela web. Controle o quanto de suas atividades online é armazenado e compartilhado entre sites.
 content-blocking-learn-more = Saiba mais
-content-blocking-restore-defaults =
-    .label = Restaurar padrão
-    .accesskey = R
-content-blocking-toggle-on =
-    .tooltiptext = Desativar bloqueio de conteúdo
-content-blocking-toggle-off =
-    .tooltiptext = Ativar bloqueio de conteúdo
-content-blocking-toggle-label-on = ATIVAR
-    .accesskey = A
-content-blocking-toggle-label-off = DESATIVAR
-    .accesskey = D
-content-blocking-category-label = Escolha o que bloquear
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-slow-loading-trackers-label =
-    .label = Rastreadores que atrasam o carregamento
-    .accesskey = a
-content-blocking-fastblock-new-description = Bloqueia somente os rastreadores que impedem que páginas sejam carregadas rapidamente.
-content-blocking-tracking-protection-trackers-label =
-    .label = Rastreadores
-    .accesskey = t
-content-blocking-tracking-protection-all-detected-trackers-label =
-    .label = Todos os rastreadores detectados
-    .accesskey = T
-content-blocking-tracking-protection-new-description = Bloqueia todos os rastreadores conhecidos (pode impedir que algumas páginas sejam carregadas).
-content-blocking-tracking-protection-option-always =
-    .label = Sempre
-    .accesskey = S
-content-blocking-tracking-protection-option-private =
-    .label = Apenas em janelas privativas
-    .accesskey = p
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 content-blocking-setting-standard =
@@ -746,51 +683,12 @@ content-blocking-option-private =
     .label = Só em janelas privativas
     .accesskey = p
 content-blocking-tracking-protection-change-block-list = Alterar lista de bloqueio
-content-blocking-third-party-cookies-label =
-    .label = Cookies de terceiros
-    .accesskey = C
-content-blocking-reject-trackers-description = Bloqueia todos os cookies de terceiros ou apenas aqueles criados por rastreadores.
-# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
-# of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
-# or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
-# the UI.
-content-blocking-reject-trackers-warning-your-settings-prevent-changes = Suas configurações em Cookies e Dados de Sites está impedindo alterações nas configurações de Cookies de terceiros.
-content-blocking-change-cookie-settings =
-    .label = Alterar configurações de cookies
-    .accesskey = s
-content-blocking-reject-trackers-block-trackers-option-recommended =
-    .label = Rastreadores (recomendado)
-    .accesskey = R
-content-blocking-reject-trackers-block-trackers-option =
-    .label = Rastreadores
-    .accesskey = R
-content-blocking-reject-trackers-all-third-parties-option =
-    .label = Todos os cookies de terceiros (pode atrapalhar alguns sites)
-    .accesskey = T
 content-blocking-cookies-label =
     .label = Cookies
     .accesskey = C
 
 ## Privacy Section - Tracking
 
-tracking-header = Proteção contra rastreamento
-tracking-desc = A proteção contra rastreamento bloqueia rastreadores on-line que coletam seus dados de navegação através de múltiplos sites. <a data-l10n-name="learn-more">Saiba mais sobre a proteção contra rastreamento e sua privacidade</a>
-tracking-mode-label = Use a proteção contra rastreamento para bloquear rastreadores conhecidos
-tracking-mode-always =
-    .label = Sempre
-    .accesskey = m
-tracking-mode-private =
-    .label = Só em janelas privativas
-    .accesskey = l
-tracking-mode-never =
-    .label = Nunca
-    .accesskey = n
-tracking-exceptions =
-    .label = Exceções…
-    .accesskey = x
-tracking-change-block-list =
-    .label = Alterar Lista de Bloqueios…
-    .accesskey = B
 tracking-manage-exceptions =
     .label = Gerenciar exceções…
     .accesskey = x
