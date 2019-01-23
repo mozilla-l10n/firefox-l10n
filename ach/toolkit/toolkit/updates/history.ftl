@@ -19,3 +19,11 @@ state-header = Kit ma tye kwede
 #   $buildID (String): build identifier from the local updates.xml
 update-full-name =
     .name = { $name } ({ $buildID })
+# Used to display update history
+#
+# Variables:
+#   $name (String): name of the update
+#   $buildID (String): build identifier from the local updates.xml
+update-full-build-name = { $name } ({ $buildID })
+update-installed-on = Kiketo iwi: { $date }
+update-status = Kite: { $status }
