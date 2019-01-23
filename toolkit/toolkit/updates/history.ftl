@@ -19,3 +19,6 @@ state-header = Állapot
 #   $buildID (String): build identifier from the local updates.xml
 update-full-name =
     .name = { $name } ({ $buildID })
+update-details = Részletek
+update-installed-on = Telepítve: { $date }
+update-status = Állapot: { $status }
