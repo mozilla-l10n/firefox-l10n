@@ -10,6 +10,7 @@ start-safe-mode =
 refresh-profile =
     .label = { -brand-short-name } Səyyahını Yenilə
 safe-mode-description = Təhlükəsiz rejim, problem həll etmək üçün istifadə edilə biləcək xüsusi bir { -brand-short-name } rejimidir.
+safe-mode-description-details = Əlavə və fərdi tənzimləmələriniz müvəqqəti olaraq söndürüləcək və { -brand-short-name } özəllikləri indiki kimi işləməyə bilər.
 refresh-profile-instead = Həmçinin problem həll etməyi buraxaraq { -brand-short-name } səyyahını yeniləməyi yoxlaya bilərsiniz.
 # Shown on the safe mode dialog after multiple startup crashes. 
 auto-safe-mode-description = { -brand-short-name } açılarkən gözlənilməz şəkildə bağlandı. Bu, əlavələrdən və ya başqa problemlərdən qaynaqlana bilər. Təhlükəsiz rejimini başladaraq problemi həll etməyə çalışa bilərsiniz.
