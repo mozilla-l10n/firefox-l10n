@@ -10,6 +10,7 @@ start-safe-mode =
 refresh-profile =
     .label = { -brand-short-name } tarayıcısını yenile
 safe-mode-description = Güvenli kip, sorun gidermek için kullanılabilecek özel bir { -brand-short-name } kipidir.
+safe-mode-description-details = Eklentileriniz ve değiştirdiğiniz ayarlar geçici olarak devre dışı bırakılacaktır. Bazı { -brand-short-name } özellikleri şu anki gibi çalışmayabilir.
 refresh-profile-instead = Ayrıca sorun gidermeyi atlayarak { -brand-short-name } tarayıcısını yenilemeyi deneyebilirsiniz.
 # Shown on the safe mode dialog after multiple startup crashes. 
 auto-safe-mode-description = { -brand-short-name } başlarken beklenmeyen bir şekilde kapandı. Bu, eklentilerden veya başka sorunlardan kaynaklanmış olabilir. Güvenli kipi başlatarak sorunu gidermeyi deneyebilirsiniz.
