@@ -19,3 +19,6 @@ state-header = राज्य
 #   $buildID (String): build identifier from the local updates.xml
 update-full-name =
     .name = { $name } ({ $buildID })
+update-details = तपशील
+update-installed-on = यावेळी प्रतिष्ठापित केले: { $date }
+update-status = स्थिती: { $status }
