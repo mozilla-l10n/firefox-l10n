@@ -7,4 +7,9 @@ safe-mode-window =
     .style = max-width: 400px
 start-safe-mode =
     .label = ආරක්‍ෂීත ආකාරයෙන් අරඹන්න
+refresh-profile =
+    .label = { -brand-short-name } නැවුම් කරන්න
 safe-mode-description = Safe Mode is a special mode of { -brand-short-name } that can be used to troubleshoot issues.
+refresh-profile-instead = ඔබට දෝශ නිරාකරණය මඟහැර { -brand-short-name } නැවුම් කිරීමට උත්සහ කළ හැක
+# Shown on the safe mode dialog after multiple startup crashes. 
+auto-safe-mode-description = ආරම්භයේදී { -brand-short-name } බලාපොරොත්තු රහිත ලෙස වැසිනි මෙයට ඇඩෝනයක් හෝ වෙනත් ගැටළුවක් හේතු විය හැක. ඔබට ආරක්ෂක ප්‍රකාරය හරහා මෙම දෝශය නිරාකරණය කළ හැක.
