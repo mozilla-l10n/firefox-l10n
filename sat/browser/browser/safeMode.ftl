@@ -7,4 +7,4 @@ safe-mode-window =
     .style = max-width: 400px
 start-safe-mode =
     .label = जा़पती ओबोसता रे एहोब मे.
-safe-mode-description = जा़पती ओबोसता दो  { -brand-short-name } रेयाक् बिसेस ओबोसता काना. ओका दो आनाट ओडोक् का़मी ला़गित् बेभार दाड़ेयाक् आ.{ " " }
+safe-mode-description = जा़पती ओबोसता दो  { -brand-short-name } रेयाक् बिसेस ओबोसता काना. ओका दो आनाट ओडोक् का़मी ला़गित् बेभार दाड़ेयाक् आ.
