@@ -44,6 +44,7 @@ app-basics-memory-use = Bellek kullanımı
 app-basics-performance = Performans
 app-basics-service-workers = Kayıtlı Service Worker'lar
 app-basics-profiles = Profiller
+app-basics-launcher-process-status = Başlatıcı işlemi
 app-basics-multi-process-support = Çok işlemli pencereler
 app-basics-process-count = Web içeriği işlemi
 app-basics-enterprise-policies = Kurumsal ilkeler
@@ -242,6 +243,8 @@ sandbox-proc-type-content = içerik
 sandbox-proc-type-file = dosya içeriği
 sandbox-proc-type-media-plugin = ortam yan uygulaması
 launcher-process-status-0 = Etkin
+launcher-process-status-1 = Hata nedeniyle devre dışı
+launcher-process-status-2 = Zorla devre dışı bırakıldı
 launcher-process-status-unknown = Bilinmeyen durum
 # Variables
 # $remoteWindows (integer) - Number of remote windows
