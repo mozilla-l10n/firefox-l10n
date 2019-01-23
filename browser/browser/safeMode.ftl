@@ -7,3 +7,4 @@ safe-mode-window =
     .style = max-width: 400px
 start-safe-mode =
     .label = Inicia en mode segur
+safe-mode-description = El mode segur és un mode especial del { -brand-short-name } que podeu utilitzar per a la resolució de problemes.
