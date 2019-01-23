@@ -26,4 +26,5 @@ update-full-name =
 #   $buildID (String): build identifier from the local updates.xml
 update-full-build-name = { $name } ({ $buildID })
 update-details = Ayrıntılar
+update-installed-on = Kurulum tarihi: { $date }
 update-status = Durum: { $status }
