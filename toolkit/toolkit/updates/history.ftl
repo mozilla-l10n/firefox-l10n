@@ -27,3 +27,4 @@ update-full-name =
 update-full-build-name = { $name } ({ $buildID })
 update-details = Chi tiết
 update-installed-on = Cài đặt vào: { $date }
+update-status = Trạng thái: { $status }
