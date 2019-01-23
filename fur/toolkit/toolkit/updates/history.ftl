@@ -18,3 +18,12 @@ state-header = Stât
 #   $buildID (String): build identifier from the local updates.xml
 update-full-name =
     .name = { $name } ({ $buildID })
+# Used to display update history
+#
+# Variables:
+#   $name (String): name of the update
+#   $buildID (String): build identifier from the local updates.xml
+update-full-build-name = { $name } ({ $buildID })
+update-details = Detais
+update-installed-on = Instalât ai: { $date }
+update-status = Stât: { $status }
