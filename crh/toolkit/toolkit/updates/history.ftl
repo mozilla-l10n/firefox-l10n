@@ -19,3 +19,6 @@ state-header = Durumu
 #   $buildID (String): build identifier from the local updates.xml
 update-full-name =
     .name = { $name } ({ $buildID })
+update-details = Ayrıntılar
+update-installed-on = Kurulduğu yer: { $date }
+update-status = Durum: { $status }
