@@ -4,4 +4,6 @@
 
 start-safe-mode =
     .label = Εκκίνηση σε Ασφαλή λειτουργία
+refresh-profile =
+    .label = Ανανέωση του { -brand-short-name }
 safe-mode-description = Η Ασφαλής λειτουργία είναι μια ειδική λειτουργία του { -brand-short-name } που μπορεί να χρησιμοποιηθεί για την αντιμετώπιση πιθανών προβλημάτων.
