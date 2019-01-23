@@ -4,4 +4,6 @@
 
 start-safe-mode =
     .label = Sākt drošajā režīmā
+refresh-profile =
+    .label = Atjaunot { -brand-short-name }
 safe-mode-description = Drošais režīms ir speciāls { -brand-short-name } režīms dažādu tehnisko problēmu risināšanai.
