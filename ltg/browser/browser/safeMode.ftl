@@ -7,5 +7,9 @@ safe-mode-window =
     .style = max-width: 400px
 start-safe-mode =
     .label = Suokt drūsajā režymā
+refresh-profile =
+    .label = Atjaunōt { -brand-short-name }
 safe-mode-description = Drūsais režyms ir specials { -brand-short-name } režyms dažaidu tehniskū problemu rysynuošonao.
 refresh-profile-instead = You can also skip troubleshooting and try refreshing { -brand-short-name }.
+# Shown on the safe mode dialog after multiple startup crashes. 
+auto-safe-mode-description = { -brand-short-name } nagaideiti aizataiseja īlōdes laikā. Itū var izraiseit papyldynojumi voi cytys problemys. Kab atrysynōtu itū vari atjaunōt { -brand-short-name } iz sōkutnejū stōvukli voi ari mekleit problemys rysynojumu Drūšajā režymā.
