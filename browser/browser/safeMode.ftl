@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 safe-mode-window =
-    .title = { -brand-short-name } സേഫ്‌ മോഡ്‌{ " " }
+    .title = { -brand-short-name } സേഫ്‌ മോഡ്‌
     .style = max-width: 400px
 start-safe-mode =
     .label = സേഫ് മോഡില്‍ ആരംഭിയ്ക്കുക
