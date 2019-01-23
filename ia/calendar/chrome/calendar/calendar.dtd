@@ -354,6 +354,7 @@
 <!ENTITY calendarproperties.color.label                    "Color:">
 <!ENTITY calendarproperties.webdav.label                   "iCalendar (ICS)">
 <!ENTITY calendarproperties.caldav.label                   "CalDAV">
+<!ENTITY calendarproperties.wcap.label                     "Sun Java System Calendar Server (WCAP)">
 <!ENTITY calendarproperties.format.label                   "Formato:">
 <!ENTITY calendarproperties.location.label                 "Adresse:">
 <!ENTITY calendarproperties.refreshInterval.label          "Actualisar agenda:">
@@ -379,10 +380,12 @@
 <!ENTITY calendar.select.dialog.title    "Seliger agenda">
 
 <!-- Calendar Printing -->
+<!ENTITY calendar.print.window.title "Imprimer un agenda">
 <!ENTITY calendar.print.title.label "Titulo:">
 <!ENTITY calendar.print.layout.label "Disposition:">
 <!ENTITY calendar.print.range.label "Que imprimer">
 <!ENTITY calendar.print.currentView2.label "Vista actual">
+<!ENTITY calendar.print.selectedEventsAndTasks.label "Eventos/activitates eligite">
 <!ENTITY calendar.print.tasks.label "Activitates">
 <!ENTITY calendar.print.events.label "Eventos">
 <!ENTITY calendar.print.custom.label "Gammas de datas personalisate:">
@@ -402,3 +405,5 @@
 <!-- Extract buttons in message header -->
 <!ENTITY calendar.extract.event.button         "Adder como evento">
 <!ENTITY calendar.extract.task.button          "Adder como activitate">
+<!ENTITY calendar.extract.event.button.tooltip "Extraher informationes de agenda a partir del message e adder a tu agenda como evento">
+<!ENTITY calendar.extract.task.button.tooltip  "Extraher informationes de agenda a partir del message e adder a tu agenda como activitate">
