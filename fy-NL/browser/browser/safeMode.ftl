@@ -4,3 +4,4 @@
 
 refresh-profile =
     .label = { -brand-short-name } opfrisse
+refresh-profile-instead = As jo probleemoplossing oerslaan wolle, kinne jo probearje { -brand-short-name } op te frissen.
