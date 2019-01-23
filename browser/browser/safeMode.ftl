@@ -7,3 +7,9 @@ safe-mode-window =
     .style = max-width: 500px
 start-safe-mode =
     .label = Tòisich sa mhodh tèarainte
+refresh-profile =
+    .label = Ath-nuadhaich { -brand-short-name }
+safe-mode-description = 'S e modh sònraichte aig { -brand-short-name } a tha sa mhodh tèarainte agus is urrainn dhut a chleachdadh gus duilgheadasan fhuasgladh.
+refresh-profile-instead = 'S urrainn dhut leum a ghearradh seachad air fuasgladh dhuilgheadasan is { -brand-short-name } ath-nuadhachadh ach an cuir sin ceart e.
+# Shown on the safe mode dialog after multiple startup crashes. 
+auto-safe-mode-description = Dhùin { -brand-short-name } gun fhiosta nuair a bha e a' tòiseachadh. Faodaidh gun do dh'adhbharaich tuilleadan no rud eile seo. 'S mathaid gun gabh an duilgheadas seo a chàradh ma thòisicheas tu e sa mhodh tèarainte gus fuasgladh a lorg.
