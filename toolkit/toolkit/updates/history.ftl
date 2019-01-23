@@ -26,4 +26,5 @@ update-full-name =
 #   $buildID (String): build identifier from the local updates.xml
 update-full-build-name = { $name } ({ $buildID })
 update-details = Детаљи
+update-installed-on = Инсталирано: { $date }
 update-status = Стање: { $status }
