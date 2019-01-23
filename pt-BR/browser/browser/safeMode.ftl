@@ -7,3 +7,5 @@ safe-mode-window =
     .style = max-width: 400px
 start-safe-mode =
     .label = Iniciar no modo de segurança
+refresh-profile =
+    .label = Restaurar o { -brand-short-name }
