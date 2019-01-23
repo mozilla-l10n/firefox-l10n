@@ -7,4 +7,9 @@ safe-mode-window =
     .style = max-width: 400px
 start-safe-mode =
     .label = Inicia en mode segur
+refresh-profile =
+    .label = Restableix el { -brand-short-name } a l'estat inicial
 safe-mode-description = El mode segur és un mode especial del { -brand-short-name } que podeu utilitzar per a la resolució de problemes.
+refresh-profile-instead = També podeu ometre la resolució de problemes i provar de restablir el { -brand-short-name } al seu estat inicial.
+# Shown on the safe mode dialog after multiple startup crashes. 
+auto-safe-mode-description = El { -brand-short-name } s'ha tancat de forma inesperada. Pot ser a causa dels complements o altres problemes. Per intentar resoldre el problema, podeu reiniciar en mode segur.
