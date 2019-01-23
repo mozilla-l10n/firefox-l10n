@@ -25,5 +25,6 @@ update-full-name =
 #   $name (String): name of the update
 #   $buildID (String): build identifier from the local updates.xml
 update-full-build-name = { $name } ({ $buildID })
+update-details = 詳細資訊
 update-installed-on = 安裝於: { $date }
 update-status = 狀態: { $status }
