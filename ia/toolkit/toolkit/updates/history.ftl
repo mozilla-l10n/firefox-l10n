@@ -19,3 +19,6 @@ state-header = Stato
 #   $buildID (String): build identifier from the local updates.xml
 update-full-name =
     .name = { $name } ({ $buildID })
+update-details = Detalios
+update-installed-on = Installate le: { $date }
+update-status = Stato: { $status }
