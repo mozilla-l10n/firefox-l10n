@@ -7,3 +7,5 @@ safe-mode-window =
     .style = max-width: 400px
 start-safe-mode =
     .label = Iniciar en Modo seguro
+# Shown on the safe mode dialog after multiple startup crashes. 
+auto-safe-mode-description = { -brand-short-name } se cerró de forma inesperada mientras iniciaba. Esto puede ser causado por complementos u otros problemas. Puedes intentar resolver el problema al reiniciar en el Modo Seguro.
