@@ -5,3 +5,5 @@
 safe-mode-window =
     .title = { -brand-short-name } రక్షిత రీతి
     .style = max-width: 400px
+refresh-profile =
+    .label = { -brand-short-name } తాజాపరచు
