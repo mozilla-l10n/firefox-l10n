@@ -19,3 +19,5 @@ state-header = الحالة
 #   $buildID (String): build identifier from the local updates.xml
 update-full-name =
     .name = ‏{ $name } ‏({ $buildID })
+update-details = التفاصيل
+update-status = الحالة: { $status }
