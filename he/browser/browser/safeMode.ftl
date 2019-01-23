@@ -6,3 +6,4 @@ safe-mode-window =
     .title = מצב בטוח של { -brand-short-name }{ " " }
     .style = max-width: 400px
 safe-mode-description = מצב בטוח הוא מצב מיוחד של { -brand-short-name } שיכול לשמש לפתרון בעיות.
+refresh-profile-instead = ניתן לדלג על פתרון הבעיות ולנסות לרענן את { -brand-short-name }.
