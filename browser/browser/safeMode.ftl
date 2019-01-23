@@ -7,4 +7,7 @@ safe-mode-window =
     .style = max-width: 400px
 start-safe-mode =
     .label = เริ่มในโหมดปลอดภัย
+refresh-profile =
+    .label = ล้าง { -brand-short-name } ใหม่
 safe-mode-description = โหมดปลอดภัยเป็นโหมดพิเศษของ { -brand-short-name } ที่สามารถใช้ในการแก้ไขปัญหา
+refresh-profile-instead = คุณยังสามารถข้ามการแก้ไขปัญหาและลองตั้งค่า { -brand-short-name } ใหม่
