@@ -10,6 +10,7 @@ start-safe-mode =
 refresh-profile =
     .label = Refrescar { -brand-short-name }
 safe-mode-description = El modo seguro es una modalidad especial de { -brand-short-name } que puede ser usada para resolver problemas.
+safe-mode-description-details = Tus complementos y ajustes personalizados se deshabilitarán temporariamente y las funciones de { -brand-short-name } podrían no funcionar como lo hacen actualmente.
 refresh-profile-instead = También puede saltear la solución de problemas e intentar refrescar { -brand-short-name }.
 # Shown on the safe mode dialog after multiple startup crashes. 
 auto-safe-mode-description = { -brand-short-name } se cerró inesperadamente mientras se iniciaba. Ésto pudo haber sido causado por complementos u otros problemas. Puede intenter resolver el problema tratando de solucionarlo en modo seguro.
