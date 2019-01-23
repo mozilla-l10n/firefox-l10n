@@ -18,3 +18,4 @@ state-header = অবস্থা
 #   $buildID (String): build identifier from the local updates.xml
 update-full-name =
     .name = { $name } ({ $buildID })
+update-status = অবস্থা: { $status }
