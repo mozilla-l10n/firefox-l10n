@@ -18,3 +18,12 @@ state-header = Bulani
 #   $buildID (String): build identifier from the local updates.xml
 update-full-name =
     .name = { $name } ({ $buildID })
+# Used to display update history
+#
+# Variables:
+#   $name (String): name of the update
+#   $buildID (String): build identifier from the local updates.xml
+update-full-build-name = { $name } ({ $buildID })
+update-details = Zwidodombedzwa
+update-installed-on = Yo longelwa kha: { $date }
+update-status = Maimo: { $status }
