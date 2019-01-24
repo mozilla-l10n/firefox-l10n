@@ -397,18 +397,18 @@ choose-bookmark =
 
 ## Search Section
 
-search-bar-header = Søgelinje
+search-bar-header = Søgefelt
 search-bar-hidden =
-    .label = Brug adresselinjen til søgning og navigation
+    .label = Brug adressefeltet til søgning og navigation
 search-bar-shown =
-    .label = Tilføj søgelinjen til værktøjslinjen
+    .label = Tilføj søgefeltet til værktøjslinjen
 search-engine-default-header = Standard-søgetjeneste
-search-engine-default-desc = Vælg den søgetjeneste, du vil bruge i adresselinjen og søgelinjen.
+search-engine-default-desc = Vælg den søgetjeneste, du vil bruge i adressefeltet og søgefeltet.
 search-suggestions-option =
     .label = Vis søgeforslag
     .accesskey = s
 search-show-suggestions-url-bar-option =
-    .label = Vis søgeforslag i adresselinjen
+    .label = Vis søgeforslag i adressefeltet
     .accesskey = a
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
@@ -416,10 +416,10 @@ search-show-suggestions-url-bar-option =
 # "ahead" refers to location (appearing most proximate to), not time
 # (appearing before).
 search-show-suggestions-above-history-option =
-    .label = Vis søgeforslag før resultater fra din browserhistorik i adresselinjen
+    .label = Vis søgeforslag før resultater fra din browserhistorik i adressefeltet
 search-suggestions-cant-show = Søgeforslag vil ikke blive vist i adressefeltet, fordi du har sat { -brand-short-name } op til aldrig at gemme historik.
 search-one-click-header = Lyn-søgetjenester
-search-one-click-desc = Vælg de alternative søgetjenester, der vises under adresselinjen og søgelinjen, når du begynder at indtaste en søgeterm.
+search-one-click-desc = Vælg de alternative søgetjenester, der vises under adressefeltet og søgefeltet, når du begynder at indtaste en søgeterm.
 search-choose-engine-column =
     .label = Søgetjeneste
 search-choose-keyword-column =
@@ -667,8 +667,8 @@ sitedata-cookies-permissions =
 
 ## Privacy Section - Address Bar
 
-addressbar-header = Adresselinje
-addressbar-suggest = Når jeg bruger adresselinjen ønsker jeg forslag fra
+addressbar-header = Adressefelt
+addressbar-suggest = Når jeg bruger adressefeltet ønsker jeg forslag fra
 addressbar-locbar-history-option =
     .label = Historik
     .accesskey = H

@@ -65,7 +65,7 @@
 <!-- location aware browsing points for branded builds -->
 <!ENTITY rights.locationawarebrowsing-a "Positionsbevidst browsing: ">
 <!ENTITY rights.locationawarebrowsing-b "Du bliver altid spurgt om du ønsker at dele din position. Din position bliver aldrig sendt uden dit samtykke. Hvis du ønsker at deaktivere denne funktion fuldstændigt kan det gøres ved følgende trin:">
-<!ENTITY rights.locationawarebrowsing-term1a "Skriv følgende i adresselinjen ">
+<!ENTITY rights.locationawarebrowsing-term1a "Skriv følgende i adressefeltet ">
 <!ENTITY rights.locationawarebrowsing-term1b "about:config">
 <!ENTITY rights.locationawarebrowsing-term2 "Tast geo.enabled">
 <!ENTITY rights.locationawarebrowsing-term3 "Dobbeltklik på geo.enabled præferencen">

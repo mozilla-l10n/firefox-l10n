@@ -294,7 +294,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.label                "Stop">
 <!ENTITY stopCmd.accesskey            "S">
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY goEndCap.tooltip             "Gå til adressen i adresselinjen">
+<!ENTITY goEndCap.tooltip             "Gå til adressen i adressefeltet">
 <!ENTITY printButton.label            "Udskriv">
 <!ENTITY printButton.tooltip          "Udskriv denne side">
 
@@ -1304,11 +1304,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tabHideControlled.disableButton.accesskey "D">
 
 <!ENTITY pageActionButton.tooltip "Sidehandlinger">
-<!ENTITY pageAction.addToUrlbar.label "Føj til adresselinjen">
-<!ENTITY pageAction.removeFromUrlbar.label "Fjern fra adresselinjen">
+<!ENTITY pageAction.addToUrlbar.label "Føj til adressefeltet">
+<!ENTITY pageAction.removeFromUrlbar.label "Fjern fra adressefeltet">
 
-<!ENTITY pageAction.allowInUrlbar.label "Vis i adresselinjen">
-<!ENTITY pageAction.disallowInUrlbar.label "Vis ikke i adresselinjen">
+<!ENTITY pageAction.allowInUrlbar.label "Vis i adressefeltet">
+<!ENTITY pageAction.disallowInUrlbar.label "Vis ikke i adressefeltet">
 <!ENTITY pageAction.manageExtension.label "Håndter udvidelse…">
 
 <!ENTITY pageAction.sendTabToDevice.label "Send faneblad til enhed">
