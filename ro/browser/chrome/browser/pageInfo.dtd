@@ -44,9 +44,6 @@
 <!ENTITY  mediaSaveAs2.accesskey "e">
 <!ENTITY  mediaPreview          "Previzualizare media:">
 
-<!ENTITY  feedTab               "Fluxuri">
-<!ENTITY  feedTab.accesskey     "F">
-
 <!ENTITY  permTab               "Permisiuni">
 <!ENTITY  permTab.accesskey     "P">
 <!ENTITY  permissionsFor        "Permisiuni pentru:">
@@ -62,7 +59,7 @@
 <!ENTITY  securityView.identity.owner    "Proprietar:">
 <!ENTITY  securityView.identity.domain   "Site web:">
 <!ENTITY  securityView.identity.verifier "Verificat de:">
-<!ENTITY  securityView.identity.validity "Expiră la data de:">
+<!ENTITY  securityView.identity.validity "Expiră:">
 
 <!ENTITY  securityView.privacy.header                   "Confidențialitate și istoric">
 <!ENTITY  securityView.privacy.history                  "Am vizitat acest site web înainte de azi?">
