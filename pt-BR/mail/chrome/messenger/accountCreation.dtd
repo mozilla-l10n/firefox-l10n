@@ -5,7 +5,7 @@
 <!ENTITY autoconfigWizard2.title         "Configurar uma conta de e-mail existente">
 <!ENTITY name.label                      "Seu nome:">
 <!ENTITY name.accesskey                  "n">
-<!ENTITY name.placeholder                "Prenome">
+<!ENTITY name.placeholder                "Nome">
 <!ENTITY name.text                       "Seu nome, como mostrado aos outros">
 <!ENTITY email.label                     "Endereço de e-mail:">
 <!ENTITY email.accesskey                 "E">
