@@ -5,6 +5,8 @@
 crash-reports-title = รายงานข้อขัดข้อง
 delete-button-label = ล้างทั้งหมด
 delete-confirm-title = คุณแน่ใจหรือไม่?
+delete-unsubmitted-description = สิ่งนี้จะลบรายงานข้อขัดข้องที่ยังไม่ได้ส่งทั้งหมดและไม่สามารถเลิกทำได้
+delete-submitted-description = สิ่งนี้จะเอารายการรายงานข้อขัดข้องที่ส่งแล้วออกแต่จะไม่ลบข้อมูลที่ส่งแล้ว สิ่งนี้ไม่สามารถเลิกทำได้
 crashes-unsubmitted-label = รายงานข้อขัดข้องที่ยังไม่ได้ส่ง
 id-heading = ID รายงาน
 date-crashed-heading = วันที่ขัดข้อง
