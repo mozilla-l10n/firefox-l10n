@@ -173,6 +173,7 @@ hardware-h264 = Hardware H264 Papapy'o
 main-thread-no-omtc = inimbo ha'etéva, OMTC ỹre
 yes = Héẽ
 no = Nahániri
+unknown = Ojekuaa'ỹva
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
@@ -180,6 +181,8 @@ no = Nahániri
 
 found = Ojuhu
 missing = Kañymbyre
+gpu-process-pid = GPUProcessPid
+gpu-process = GPUProcess
 gpu-description = Ñemoha'ãnga
 gpu-vendor-id = ID japohare mba'éva
 gpu-device-id = ID mba'e'oka rehegua
@@ -212,6 +215,7 @@ d3d9video-crash-buard = D3D9 Ta'ãngamýi Mbopapapy'oha
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Embojevy moñepyrũjey uperire
 gpu-process-kill-button = GPU raperekogua mohu'ã
+gpu-device-reset = Emoñepyrũjey mba’e’oka
 gpu-device-reset-button = Mba'e'oka reko moñepyrũjey
 uses-tiling = Eipuru mosáiko
 content-uses-tiling = Eipuru mosáiko (tetepy)
@@ -234,6 +238,7 @@ effective-content-sandbox-level = Sandbox Level rembiapo retepy
 sandbox-proc-type-content = tetepy
 sandbox-proc-type-file = Marandurenda rechapyrã
 sandbox-proc-type-media-plugin = plugin maranduguáva
+launcher-process-status-0 = Jurujapyre
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
