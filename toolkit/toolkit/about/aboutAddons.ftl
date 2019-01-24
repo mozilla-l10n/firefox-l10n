@@ -215,3 +215,4 @@ extensions-updates-update-selected =
 
 shortcuts-manage =
     .label = Pikanäppäimet
+shortcuts-sidebarAction = Näytä/piilota sivupaneeli
