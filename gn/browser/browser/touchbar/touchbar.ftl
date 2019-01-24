@@ -11,5 +11,10 @@ home = Óga
 fullscreen = Mba'erechaha tuichakue
 find = Juhu
 new-tab = Tendayke pyahu
+add-bookmark = Embojuaju techaukaha
+open-bookmarks-sidebar = Eike techaukaha renda yképe
+reader-view = Moñe'ẽrã rechaha
+# Meant to match the string displayed in an empty URL bar.
+open-location = Eheka térã emoinge kundaharape
 share = Moherakuã
 focus = Mboty

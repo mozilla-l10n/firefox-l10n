@@ -36,5 +36,6 @@
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.search.placeholder): This is the placeholder
                        text for the search box.   -->
 <!ENTITY aboutPrivateBrowsing.search.placeholder         "Eheka ñandutípe">
+<!ENTITY aboutPrivateBrowsing.info.title                 "Eikehína ovetã ñemíme">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article
                        about private browsing myths.   -->
