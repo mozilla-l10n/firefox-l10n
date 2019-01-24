@@ -217,6 +217,7 @@ extensions-updates-update-selected =
 
 shortcuts-manage =
     .label = Συντομεύσεις πληκτρολογίου
+shortcuts-no-addons = Δεν έχετε ενεργοποιήσει καμία επέκταση.
 shortcuts-input =
     .placeholder = Πληκτρολογήστε μια συντόμευση
 shortcuts-browserAction = Ενεργοποίηση επέκτασης
