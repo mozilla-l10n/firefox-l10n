@@ -19,6 +19,13 @@
 <!ENTITY rememberPassword.label          "Memorează parola">
 <!ENTITY rememberPassword.accesskey      "M">
 
+<!ENTITY usernameEx.label                "Datele tale de autentificare:">
+<!ENTITY usernameEx.accesskey            "I">
+<!-- LOCALIZATION NOTE(usernameEx.placeholder): YOURDOMAIN refers to the Windows domain in ActiveDirectory. yourusername refers to the user's account name in Windows. -->
+<!ENTITY usernameEx.placeholder          "YOURDOMAIN\numele de utilizator">
+<!-- LOCALIZATION NOTE(usernameEx.text): Domain refers to the Windows domain in ActiveDirectory. We mean the user's login in Windows at the local corporate network. -->
+<!ENTITY usernameEx.text                 "Autentificare în domeniu">
+
 <!ENTITY imapLong.label                  "IMAP (dosare la distanță)">
 <!ENTITY pop3Long.label                  "POP3 (păstrează mesajele pe calculator)">
 
