@@ -242,6 +242,8 @@ effective-content-sandbox-level = Αποτελεσματικό επίπεδο ε
 sandbox-proc-type-content = περιεχόμενο
 sandbox-proc-type-file = περιεχόμενο αρχείου
 sandbox-proc-type-media-plugin = άρθρωμα πολυμέσων
+launcher-process-status-0 = Ενεργό
+launcher-process-status-unknown = Άγνωστη κατάσταση
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows

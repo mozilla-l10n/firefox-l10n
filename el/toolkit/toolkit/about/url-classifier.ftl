@@ -3,6 +3,16 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 url-classifier-title = Πληροφορίες URL Classifier
+url-classifier-search-title = Αναζήτηση
+url-classifier-search-result-title = Αποτελέσματα
+url-classifier-search-result-uri = URI: { $uri }
+url-classifier-search-result-list = Λίστα πινάκων: { $list }
+url-classifier-search-input = URL
+url-classifier-search-error-invalid-url = Άκυρο URL
+url-classifier-search-error-no-features = Δεν επιλέχθηκαν λειτουργίες
+url-classifier-search-btn = Έναρξη αναζήτησης
+url-classifier-search-features = Λειτουργίες
+url-classifier-search-listType = Τύπος λίστας
 url-classifier-provider-title = Πάροχος
 url-classifier-provider = Πάροχος
 url-classifier-provider-last-update-time = Χρόνος τελευταίας ενημέρωσης

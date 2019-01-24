@@ -212,3 +212,15 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Εγκατάσταση ενημερώσεων
     .tooltiptext = Εγκατάσταση των διαθέσιμων ενημερώσεων σε αυτή τη λίστα
+
+## Extension shortcut management
+
+shortcuts-manage =
+    .label = Συντομεύσεις πληκτρολογίου
+shortcuts-input =
+    .placeholder = Πληκτρολογήστε μια συντόμευση
+shortcuts-browserAction = Ενεργοποίηση επέκτασης
+shortcuts-modifier-mac = Συμπεριλάβετε Ctrl, Alt, ή ⌘
+shortcuts-modifier-other = Συμπεριλάβετε Ctrl ή Alt
+shortcuts-invalid = Άκυρος συνδυασμός
+shortcuts-letter = Πληκτρολογήστε ένα γράμμα

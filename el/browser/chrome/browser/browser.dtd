@@ -29,8 +29,6 @@ a tab (i.e. it is a verb, not adjective). -->
 <!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  duplicateTab.accesskey             "Α">
-<!ENTITY  closeTabOptions.label              "Κλείσιμο επιλογών καρτέλας">
-<!ENTITY  closeTabOptions.accesskey          "Κ">
 <!-- LOCALIZATION NOTE (duplicateTabs.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
 <!ENTITY  duplicateTabs.label                "Αντιγραφή καρτελών">
@@ -288,7 +286,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Αποθήκευση δεδομένων στην επίμονη αποθήκευση">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Το πρόγραμμα περιήγησης ελέγχεται απομακρυσμένα">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Άνοιγμα πίνακα διαδικτυακής ταυτοποίησης">
-
 <!ENTITY urlbar.storageAccessAnchor.tooltip               "Άνοιγμα πίνακα δικαιωμάτων δραστηριότητας περιήγησης">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Διαχείριση του διαμοιρασμού της κάμερας και/ή του μικροφώνου σας για τον ιστοτόπο">
@@ -635,6 +632,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.label      "Προσθήκη στους σελιδοδείκτες">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "λ">
 <!ENTITY pageAction.copyLink.label    "Αντιγραφή συνδέσμου">
+
+<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
+  "Pocket" is a brand name. -->
+<!ENTITY pocketButton.tooltiptext     "Αποθήκευση στο Pocket">
+<!ENTITY saveToPocketCmd.label        "Αποθήκευση σελίδας στο Pocket">
+<!ENTITY saveToPocketCmd.accesskey    "k">
+<!ENTITY saveLinkToPocketCmd.label    "Αποθήκευση συνδέσμου στο Pocket">
+<!ENTITY saveLinkToPocketCmd.accesskey "o">
+<!ENTITY pocketMenuitem.label         "Προβολή λίστας Pocket">
+
 <!ENTITY emailPageCmd.label           "Αποστολή συνδέσμου…">
 <!ENTITY emailPageCmd.accesskey       "λ">
 <!ENTITY savePageCmd.label            "Αποθήκευση σελίδας ως…">
@@ -873,6 +880,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsReloadHint "Ίσως χρειαστεί να φορτώσετε εκ νέου τη σελίδα για εφαρμογή των αλλαγών.">
 <!ENTITY identity.permissionsPreferences.tooltip "Άνοιγμα προτιμήσεων δικαιωμάτων">
 
+
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Καρτέλες περιηγητή">
@@ -974,66 +983,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.title "Φραγή περιεχομένου">
 <!ENTITY contentBlocking.detected "Ανιχνεύτηκε περιεχόμενο με δυνατότητα φραγής σε αυτή την ιστοσελίδα.">
 <!ENTITY contentBlocking.notDetected "Δεν ανιχνεύτηκε περιεχόμενο με δυνατότητα φραγής σε αυτή τη σελίδα.">
-<!ENTITY contentBlocking.disabled.label "Ανενεργό">
-<!ENTITY contentBlocking.disabled.tooltip "Έχετε απενεργοποιήσει τη φραγή περιεχομένου.">
-<!ENTITY contentBlocking.exception.tooltip "Έχετε απενεργοποιήσει τη φραγή περιεχομένου για αυτή την ιστοσελίδα.">
-
-<!ENTITY contentBlocking.fastBlock.label "Ιχνηλάτες αργής φόρτωσης">
-<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
-     This label signals that this type of content blocking is turned
-     ON and is successfully blocking malicious/slow content, so this is
-     a positive thing. It forms the end of the (imaginary) sentence
-     "Slow-Loading Trackers [are] Blocked"-->
-<!ENTITY contentBlocking.fastBlock.blocked.label "Γίνεται φραγή">
-<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocking.label):
-     This label signals that this type of content blocking is turned
-     ON, so this is a positive thing. It forms the verb in (imaginary) sentence
-     "Firefox is blocking Slow-Loading Trackers"-->
-<!ENTITY contentBlocking.fastBlock.blocking.label "Φραγή">
-<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
-     This is displayed as a link to preferences, where the user can add
-     this specific type of content blocking. When this text is shown
-     the type of content blocking is currently not enabled. -->
-<!ENTITY contentBlocking.fastBlock.add.label "Προσθήκη φραγής…">
-
-<!ENTITY contentBlocking.trackingProtection2.label "Όλοι οι εντοπισμένοι ιχνηλάτες">
 
 <!ENTITY contentBlocking.trackingProtection3.label "Ιχνηλάτες">
-<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
-     This label signals that this type of content blocking is turned
-     ON and is successfully blocking tracker content, so this is
-     a positive thing. It forms the end of the (imaginary) sentence
-     "Trackers [are] Blocked"-->
-<!ENTITY contentBlocking.trackingProtection.blocked.label "Γίνεται φραγή">
-<!-- LOCALIZATION NOTE (contentBlocking.tranckingProtection.blocking.label):
-     This label signals that this type of content blocking is turned
-     ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
-     "Firefox is blocking Trackers"-->
-<!ENTITY contentBlocking.trackingProtection.blocking.label "Φραγή">
-<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
-     This is displayed as a link to preferences, where the user can add
-     this specific type of content blocking. When this text is shown
-     the type of content blocking is currently not enabled. -->
-<!ENTITY contentBlocking.trackingProtection.add.label "Προσθήκη φραγής…">
-
-<!ENTITY contentBlocking.3rdPartyCookies.label "Cookies τρίτων">
-<!ENTITY contentBlocking.3rdPartyCookies.trackers.label "Cookies καταγραφής">
-<!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.blocked.label):
-     This label signals that this type of content blocking is turned
-     ON and is successfully blocking third-party cookies, so this is
-     a positive thing. It forms the end of the (imaginary) sentence
-     "Third-Party Cookies [are] Blocked"-->
-<!ENTITY contentBlocking.3rdPartyCookies.blocked.label "Σε φραγή">
-<!-- LOCALIZATION NOTE (contentBlocking.tranckingProtection.blocking.label):
-     This label signals that this type of content blocking is turned
-     ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
-     "Firefox is blocking Third-Party Cookies"-->
-<!ENTITY contentBlocking.3rdPartyCookies.blocking.label "Φραγή">
-<!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.add.label):
-     This is displayed as a link to preferences, where the user can add
-     this specific type of content blocking. When this text is shown
-     the type of content blocking is currently not enabled. -->
-<!ENTITY contentBlocking.3rdPartyCookies.add.label "Προσθήκη φραγής…">
 
 <!ENTITY contentBlocking.manageSettings.label "Διαχείριση φραγής περιεχομένου">
 <!ENTITY contentBlocking.manageSettings.accesskey "Δ">
@@ -1053,22 +1004,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Αποστολή αναφοράς">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Ακύρωση">
 
-<!ENTITY trackingProtection.title "Προστασία από καταγραφή">
-<!ENTITY trackingProtection.tooltip "Άνοιγμα προτιμήσεων προστασίας από καταγραφή">
-
-<!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock4.label "Απενεργοποίηση φραγής για την ιστοσελίδα">
-<!ENTITY trackingProtection.unblock4.accesskey "Α">
-<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate4.label "Προσωρινή απενεργοποίηση φραγής">
-<!ENTITY trackingProtection.unblockPrivate4.accesskey "Π">
-<!ENTITY trackingProtection.block5.label "Ενεργοποίηση φραγής για την ιστοσελίδα">
-<!ENTITY trackingProtection.block5.accesskey "Ε">
-
 <!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
@@ -1086,11 +1021,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pluginNotification.showAll.label "Προβολή όλων">
 <!ENTITY pluginNotification.showAll.accesskey "β">
-
-<!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
-<!ENTITY pluginActivateNow.label "Προσωρινή αποδοχή">
-<!ENTITY pluginActivateAlways.label "Αποδοχή και απομνημόνευση">
-<!ENTITY pluginBlockNow.label "Φραγή αρθρώματος">
 
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
      width of the plugin popup notification that can appear if a plugin has been
