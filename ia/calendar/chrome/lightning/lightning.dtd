@@ -72,10 +72,37 @@
 <!ENTITY lightning.imipbar.btnReschedule.tooltiptext                        "Reprogrammar le evento">
 <!ENTITY lightning.imipbar.btnSaveCopy.label                                "Salvar un copia">
 <!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "Salva un copia del evento in le agenda, independentemente del responsa al organisator. Le lista de participantes sera clarate.">
+<!ENTITY lightning.imipbar.btnTentative.label                               "Provisori">
+<!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "Acceptar le invitation al evento provisorimente">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "Toto provisori">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences2.tooltiptext             "Accepta provisorimente le invitation pro tote le occurrentias del evento">
+<!ENTITY lightning.imipbar.btnUpdate.label                                  "Actualisar">
+<!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "Actualisa le evento in agenda">
+<!ENTITY lightning.imipbar.description                                      "Iste message contine un invitation a un evento.">
 
+<!ENTITY lightning.imipbar.btnSend.label                                    "Inviar un responsa ora">
+<!ENTITY lightning.imipbar.btnSend.tooltiptext                              "Inviar un responsa al organisator">
+<!ENTITY lightning.imipbar.btnSendSeries.tooltiptext                        "Inviar un responsa al organisator pro le series integre">
+<!ENTITY lightning.imipbar.btnDontSend.label                                "Non inviar un responsa">
+<!ENTITY lightning.imipbar.btnDontSend.tooltiptext                          "Cambiar tu stato de participation sin inviar un responsa al organisator">
+<!ENTITY lightning.imipbar.btnDontSendSeries.tooltiptext                    "Cambiar tu stato de participation al series sin inviar un responsa al organisator">
 
 <!-- Lightning specific keybindings -->
+<!ENTITY lightning.keys.event.showCalendar.key "C">
+<!ENTITY lightning.keys.event.showTasks.key "D">
+<!ENTITY lightning.keys.event.new "I">
+<!ENTITY lightning.keys.todo.new "D">
 
 <!-- Account Central page -->
+<!ENTITY lightning.acctCentral.newCalendar.label "Crear un nove agenda">
 
 <!-- today-pane-specific -->
+<!ENTITY todaypane.showMinimonth.label "Monstrar mini-mense">
+<!ENTITY todaypane.showMinimonth.accesskey "M">
+<!ENTITY todaypane.showMiniday.label "Monstrar mini-die">
+<!ENTITY todaypane.showMiniday.accesskey  "d">
+<!ENTITY todaypane.showNone.label "Monstrar nihil">
+<!ENTITY todaypane.showNone.accesskey "N">
+<!ENTITY todaypane.showTodayPane.label "Visualisar le pannello Hodie">
+<!ENTITY todaypane.showTodayPane.accesskey "h">
+<!ENTITY todaypane.statusButton.label "Pannello Hodie">
