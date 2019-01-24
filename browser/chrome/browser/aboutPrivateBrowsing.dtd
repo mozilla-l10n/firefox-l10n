@@ -40,4 +40,4 @@
 <!ENTITY aboutPrivateBrowsing.info.description           "&brandShortName; 在您退出本程序或关闭所有隐私浏览标签页和窗口时，将清除您的搜索记录与浏览历史。虽然这样做不会使您对网站或网络服务提供商匿名，但还是可以更简单地让使用此计算机的人无法得知您在网上的活动。">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article
                        about private browsing myths.   -->
-<!ENTITY aboutPrivateBrowsing.info.myths                 "关于隐私浏览的常见迷思">
+<!ENTITY aboutPrivateBrowsing.info.myths                 "隐私浏览功能的常见“神话”">
