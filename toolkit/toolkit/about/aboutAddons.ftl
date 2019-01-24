@@ -36,7 +36,7 @@ debug-addons =
     .label = పొడిగింతలను డీబగ్ చేయుము
     .accesskey = B
 cmd-show-details =
-    .label = మరింత సమాచారము చూపు
+    .label = మరింత సమాచారం చూపించు
     .accesskey = S
 cmd-find-updates =
     .label = నవీకరణలను కనుగొను
@@ -205,3 +205,6 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = తాజాకరణలను స్థాపించు
     .tooltiptext = ఈ జాబితాలోని తాజాకరణలను స్థాపించు
+
+## Extension shortcut management
+

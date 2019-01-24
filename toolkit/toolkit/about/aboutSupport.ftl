@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-page-title = ట్రబుల్‌షూటింగ్ సమాచారము
+page-title = ట్రబుల్‌షూటింగ్ సమాచారం
 page-subtitle = మీరు ఒక సమస్యను పరిష్కరించుటకు ప్రయత్నించునప్పుడు మీకు ఉపయోగవంతంగా వుండగల సాంకేతిక సమాచారమును ఈ పేజీ కలిగివుంటుంది. మీరు { -brand-short-name } గురించిన వుమ్మడి ప్రశ్నలకు సమాధానముల కొరకు చూస్తుంటే, మా <a data-l10n-name="support-link">తోడ్పాటు వెబ్ సైట్</a> చూడండి.
 crashes-title = క్రాష్ నివేదికలు
 crashes-id = నివేదిక ID
