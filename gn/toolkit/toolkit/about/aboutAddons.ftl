@@ -207,3 +207,13 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Ñembohekopyahu mohenda
     .tooltiptext = Ñembohekopyahu eipurukuaáva ko tysýi pegua mohenda
+
+## Extension shortcut management
+
+shortcuts-manage =
+    .label = Tairenda mbopya'eha
+shortcuts-empty-message = Ndaipóri mbopya'eha ko jepysokuépe g̃uarã.
+shortcuts-no-addons = Ndoguerekói jepysokue ijurujáva.
+shortcuts-input =
+    .placeholder = Ehai peteĩ mbopya'eha
+shortcuts-browserAction = Emyandy jepysokue
