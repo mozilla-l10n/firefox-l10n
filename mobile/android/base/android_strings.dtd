@@ -210,8 +210,6 @@
 <!ENTITY pref_feature_tips_notification "Porady o programie i funkcjach">
 <!ENTITY pref_feature_tips_notification_summary "Więcej informacji o przeglądarce &brandShortName; i innych programach od organizacji &vendorShortName;">
 
-<!ENTITY pref_feature_tips_notification_enabling_hint "Włącz">
-
 <!ENTITY pref_feature_tips_notification_enabling_path "&pref_category_privacy_short; → &pref_category_datareporting; → &datareporting_fhr_title;">
 <!ENTITY pref_feature_tips_notification_enabling_hint2 "(Aby móc włączyć tę opcję, &pref_feature_tips_notification_enabling_path; musi być włączone).">
 
@@ -633,13 +631,10 @@
 <!ENTITY pip_pause_button_title "Wstrzymaj">
 <!ENTITY pip_pause_button_description "Wstrzymaj odtwarzanie">
 
-<!ENTITY default_notification_channel "&brandShortName;">
 <!ENTITY default_notification_channel2 "Przeglądarka">
 <!ENTITY mls_notification_channel "Usługi lokalizacji organizacji &vendorShortName;">
 <!ENTITY download_notification_channel "Pobrane pliki">
-<!ENTITY media_notification_channel "Odtwarzanie multimediów">
 <!ENTITY media_notification_channel2 "Dźwięk i obraz">
-<!ENTITY leanplum_default_notifications_channel "Powiadomienia programu &brandShortName;">
 <!ENTITY leanplum_default_notifications_channel2 "Porady i wskazówki organizacji &vendorShortName;">
 <!ENTITY updater_notification_channel "Aktualizacje aplikacji">
 <!ENTITY synced_tabs_notification_channel "Zsynchronizowane karty">
