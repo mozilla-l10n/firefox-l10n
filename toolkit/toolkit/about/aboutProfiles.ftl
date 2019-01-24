@@ -12,7 +12,7 @@ profiles-restart-normal = సాధారణంగా పునఃప్రా�
 #   $name (String) - Name of the profile
 profiles-name = ప్రొఫైలు: { $name }
 profiles-is-default = అప్రమేయ ప్రొఫైలు
-profiles-rootdir = మూలసంచయని
+profiles-rootdir = మూల సంచయం
 # localDir is used to show the directory corresponding to
 # the main profile directory that exists for the purpose of storing data on the
 # local filesystem, including cache files or other data files that may not
@@ -20,7 +20,8 @@ profiles-rootdir = మూలసంచయని
 # part of a backup scheme.)
 # In case localDir and rootDir are equal, localDir is not shown.
 profiles-localdir = స్థానిక సంచయం
-profiles-current-profile = ఈ ఉపయోగం ప్రొఫైల్ మరియు అది తొలగించడం సాధ్యం కాదు.
+profiles-current-profile = ఈ ప్రొఫైలు వాడుకలో ఉంది, దీన్ని తొలగించలేరు.
+profiles-in-use-profile = ఈ ప్రొఫైలు మరో అనువర్తనంలో వాడుకలో ఉంది, దీన్ని తొలగించలేరు.
 profiles-rename = పేరుమార్చు
 profiles-remove = తీసివేయి
 profiles-set-as-default = అప్రమేయ ప్రొఫైలుగా అమర్చు
