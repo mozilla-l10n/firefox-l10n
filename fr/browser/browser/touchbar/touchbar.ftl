@@ -14,6 +14,6 @@ new-tab = Nouvel onglet
 add-bookmark = Ajouter un marque-page
 reader-view = Mode lecture
 # Meant to match the string displayed in an empty URL bar.
-open-location = Recherche ou adresse
+open-location = Rechercher ou saisir une adresse
 share = Partager
 focus = Fermer
