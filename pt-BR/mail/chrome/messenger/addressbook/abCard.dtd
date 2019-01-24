@@ -58,7 +58,7 @@
 <!ENTITY CellularNumber.label           "Celular:">
 <!ENTITY CellularNumber.accesskey       "l">
 
-<!ENTITY Home.tab                       "Privado">
+<!ENTITY Home.tab                       "Privativo">
 <!ENTITY Home.accesskey                 "P">
 <!ENTITY HomeAddress.label              "Endereço:">
 <!ENTITY HomeAddress.accesskey          "d">
