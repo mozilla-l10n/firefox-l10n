@@ -635,8 +635,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
+<!ENTITY pocketButton.tooltiptext     "Eñongatu Pocket-pe">
+<!ENTITY saveToPocketCmd.label        "Eñongatu kuatiarogue Pocket-pe">
 <!ENTITY saveToPocketCmd.accesskey    "k">
+<!ENTITY saveLinkToPocketCmd.label    "Eñongatu juajuha Pocket-pe">
 <!ENTITY saveLinkToPocketCmd.accesskey "o">
+<!ENTITY pocketMenuitem.label         "Ehecha tysýi Pocket-pe">
 
 <!ENTITY emailPageCmd.label           "Joajuha mondo…">
 <!ENTITY emailPageCmd.accesskey       "E">
@@ -876,6 +880,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsReloadHint "Ikatu hína kuatiarogue emyanyhẽjey umi moambuepyre oñemboheko hag̃ua.">
 <!ENTITY identity.permissionsPreferences.tooltip "Oĩ moneĩ jeguerohoryvéva">
 
+<!ENTITY identity.contentBlockingPreferences.tooltip "Eike tetepy jokoha erohoryvévape">
 
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -986,6 +991,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.manageSettings.accesskey "M">
 
 <!ENTITY contentBlocking.trackersView.label "Hekahára">
+<!ENTITY contentBlocking.trackersView.strictInfo.label "Ejoko hag̃ua opaite tapykuehoha, emboheko tetepy jokoha “Strict”-pe.">
 
 <!ENTITY contentBlocking.cookies.label "Kookie">
 <!ENTITY contentBlocking.cookiesView.label "Kookie ha mba’ekuaarã renda rehegua">
