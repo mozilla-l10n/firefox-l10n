@@ -210,3 +210,8 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Asenna päivitykset
     .tooltiptext = Asenna tämän listan saatavilla olevat päivitykset
+
+## Extension shortcut management
+
+shortcuts-manage =
+    .label = Pikanäppäimet
