@@ -217,3 +217,5 @@ shortcuts-no-addons = Ndoguerekói jepysokue ijurujáva.
 shortcuts-input =
     .placeholder = Ehai peteĩ mbopya'eha
 shortcuts-browserAction = Emyandy jepysokue
+shortcuts-pageAction = Emyandy kuatiarogue ñemongu’e
+shortcuts-sidebarAction = Embojopyru tenda yke
