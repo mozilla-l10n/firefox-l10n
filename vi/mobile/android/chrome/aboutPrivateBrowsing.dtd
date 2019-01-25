@@ -14,7 +14,7 @@
 <!ENTITY privatebrowsingpage.title.normal1 "Bạn không ở trong chế độ duyệt riêng tư">
 
 <!ENTITY privatebrowsingpage.description.trackingProtection "&brandShortName; chặn những thành phần của trang có thể theo dõi hoạt động duyệt web của bạn.">
-<!ENTITY privatebrowsingpage.description.privateDetails "Chúng tôi không lưu lại bất kỳ lịch sử duyệt web nào, nhưng các tập tin tải về và trang đánh dấu mới sẽ được lưu lại trên thiết bị của bạn.">
+<!ENTITY privatebrowsingpage.description.privateDetails "Chúng tôi không lưu lại bất kỳ lịch sử duyệt web nào, nhưng các tập tin đã tải xuống và trang đánh dấu mới sẽ được lưu lại trên thiết bị của bạn.">
 
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses
