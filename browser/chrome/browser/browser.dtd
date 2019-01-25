@@ -29,8 +29,6 @@ a tab (i.e. it is a verb, not adjective). -->
 <!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  duplicateTab.accesskey             "D">
-<!ENTITY  closeTabOptions.label              "Tùy chọn đóng thẻ">
-<!ENTITY  closeTabOptions.accesskey          "O">
 <!-- LOCALIZATION NOTE (duplicateTabs.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
 <!ENTITY  duplicateTabs.label                "Nhân đôi các thẻ">
@@ -257,7 +255,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY mobileBookmarksCmd.label "Trang đánh dấu trên di động">
 <!ENTITY bookmarksToolbarChevron.tooltip "Hiện thêm các trang đánh dấu">
 
-<!ENTITY backCmd.label                "Trở lại">
+<!ENTITY backCmd.label                "Quay lại">
 <!ENTITY backCmd.accesskey            "B">
 <!ENTITY backButton.tooltip           "Trở lại trang trước">
 <!ENTITY forwardCmd.label             "Tiếc tục">
@@ -288,7 +286,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Lưu dữ liệu vào bộ nhớ lâu dài">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Trình duyệt đang ở trong chế độ truy cập từ xa">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Mở bảng điều khiển xác thực web">
-
 <!ENTITY urlbar.storageAccessAnchor.tooltip               "Mở bảng điều khiển quyền hoạt động duyệt web">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Quản lý chia sẻ máy ảnh và/hoặc micrô với trang">
@@ -986,66 +983,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.title "Chặn nội dung">
 <!ENTITY contentBlocking.detected "Đã phát hiện nội dung có thể chặn được trên trang này.">
 <!ENTITY contentBlocking.notDetected "Không tìm thấy nội dung có thể chặn trên trang này.">
-<!ENTITY contentBlocking.disabled.label "Đã vô hiệu hóa">
-<!ENTITY contentBlocking.disabled.tooltip "Bạn đã tắt tính năng Chặn nội dung.">
-<!ENTITY contentBlocking.exception.tooltip "Bạn đã tắt tính năng Chặn nội dung cho trang này.">
-
-<!ENTITY contentBlocking.fastBlock.label "Trình theo dõi làm tải chậm">
-<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
-     This label signals that this type of content blocking is turned
-     ON and is successfully blocking malicious/slow content, so this is
-     a positive thing. It forms the end of the (imaginary) sentence
-     "Slow-Loading Trackers [are] Blocked"-->
-<!ENTITY contentBlocking.fastBlock.blocked.label "Đã chặn">
-<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocking.label):
-     This label signals that this type of content blocking is turned
-     ON, so this is a positive thing. It forms the verb in (imaginary) sentence
-     "Firefox is blocking Slow-Loading Trackers"-->
-<!ENTITY contentBlocking.fastBlock.blocking.label "Đang chặn">
-<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
-     This is displayed as a link to preferences, where the user can add
-     this specific type of content blocking. When this text is shown
-     the type of content blocking is currently not enabled. -->
-<!ENTITY contentBlocking.fastBlock.add.label "Thêm chặn…">
-
-<!ENTITY contentBlocking.trackingProtection2.label "Tất cả các trình theo dõi được phát hiện">
 
 <!ENTITY contentBlocking.trackingProtection3.label "Trình theo dõi">
-<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
-     This label signals that this type of content blocking is turned
-     ON and is successfully blocking tracker content, so this is
-     a positive thing. It forms the end of the (imaginary) sentence
-     "Trackers [are] Blocked"-->
-<!ENTITY contentBlocking.trackingProtection.blocked.label "Đã chặn">
-<!-- LOCALIZATION NOTE (contentBlocking.tranckingProtection.blocking.label):
-     This label signals that this type of content blocking is turned
-     ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
-     "Firefox is blocking Trackers"-->
-<!ENTITY contentBlocking.trackingProtection.blocking.label "Đang chặn">
-<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
-     This is displayed as a link to preferences, where the user can add
-     this specific type of content blocking. When this text is shown
-     the type of content blocking is currently not enabled. -->
-<!ENTITY contentBlocking.trackingProtection.add.label "Thêm chặn…">
-
-<!ENTITY contentBlocking.3rdPartyCookies.label "Cookie của bên thứ ba">
-<!ENTITY contentBlocking.3rdPartyCookies.trackers.label "Cookie theo dõi">
-<!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.blocked.label):
-     This label signals that this type of content blocking is turned
-     ON and is successfully blocking third-party cookies, so this is
-     a positive thing. It forms the end of the (imaginary) sentence
-     "Third-Party Cookies [are] Blocked"-->
-<!ENTITY contentBlocking.3rdPartyCookies.blocked.label "Đã chặn">
-<!-- LOCALIZATION NOTE (contentBlocking.tranckingProtection.blocking.label):
-     This label signals that this type of content blocking is turned
-     ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
-     "Firefox is blocking Third-Party Cookies"-->
-<!ENTITY contentBlocking.3rdPartyCookies.blocking.label "Đang chặn">
-<!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.add.label):
-     This is displayed as a link to preferences, where the user can add
-     this specific type of content blocking. When this text is shown
-     the type of content blocking is currently not enabled. -->
-<!ENTITY contentBlocking.3rdPartyCookies.add.label "Thêm chặn...">
 
 <!ENTITY contentBlocking.manageSettings.label "Quản lý chặn nội dung">
 <!ENTITY contentBlocking.manageSettings.accesskey "M">
@@ -1065,22 +1004,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Gửi báo cáo">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Hủy bỏ">
 
-<!ENTITY trackingProtection.title "Chống theo dõi">
-<!ENTITY trackingProtection.tooltip "Mở tùy chọn trình chống theo dõi">
-
-<!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock4.label "Vô hiệu hóa chặn cho trang này">
-<!ENTITY trackingProtection.unblock4.accesskey "D">
-<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate4.label "Tạm thời tắt chặn">
-<!ENTITY trackingProtection.unblockPrivate4.accesskey "D">
-<!ENTITY trackingProtection.block5.label "Kích hoạt chặn cho trang này">
-<!ENTITY trackingProtection.block5.accesskey "E">
-
 <!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
@@ -1098,11 +1021,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pluginNotification.showAll.label "Hiện tất cả">
 <!ENTITY pluginNotification.showAll.accesskey "S">
-
-<!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
-<!ENTITY pluginActivateNow.label "Cho phép một lần">
-<!ENTITY pluginActivateAlways.label "Cho phép và ghi nhớ">
-<!ENTITY pluginBlockNow.label "Chặn plugin">
 
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
      width of the plugin popup notification that can appear if a plugin has been
