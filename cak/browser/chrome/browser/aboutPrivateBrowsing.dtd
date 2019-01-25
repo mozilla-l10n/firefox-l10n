@@ -7,7 +7,6 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "i">
 
 <!ENTITY privateBrowsing.title                           "Ichinan okem pa k'amaya'l">
-<!ENTITY privateBrowsing.title.tracking                  "Ichinan Okik'amaya'l rik'in Chajinïk chuwäch Ojqanïk">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Toq yatok pa jun ichinan tzuwäch, Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "man tuyäk">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
@@ -28,15 +27,15 @@
 <!ENTITY aboutPrivateBrowsing.learnMore3.title           "Ichinan okem pa k'amaya'l">
 <!ENTITY aboutPrivateBrowsing.learnMore3.after           ".">
 
-<!ENTITY trackingProtection.title                        "Chajinïk chuwäch Ojqanïk">
-<!ENTITY trackingProtection.description2                 "Jujun ajk'amaya'l ruxaq nikokisaj ojqanela', ri yetikïr nikinik'oj ri asamaj pa k'amaya'l. Rik'in Chajinïk chuwäch Ojqanïk ri Firefox xkeruq'ät k'ïy taq ojqanela', ri yetikïr nikimöl etamab'äl chi rij rub'anikil runa'oj ri okem pa k'amaya'l.">
-
 <!ENTITY trackingProtection.startTour1                   "Tatz'eta' rub'eyal nisamäj">
 
 <!ENTITY contentBlocking.title                           "Ruq'atik Rupam">
 <!ENTITY contentBlocking.description                     "Jujun ajk'amaya'l ruxaq yekokisaj ojqanela' ri yetikïr nikinik'oj asamaj pan K'amaya'l. Pa ri ichinan rutzuwäch Firefox ri Ruyonil Niq'at Rupam yeruq'ät k'ïy ojqanela', ri yetikïr nikimöl etamab'äl chi rij ri awokem pa k'amaya'l.">
 
 <!-- Strings for new Private Browsing with Search -->
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.search.placeholder): This is the placeholder
+                       text for the search box.   -->
+<!ENTITY aboutPrivateBrowsing.search.placeholder         "Tikanöx pan Ajk'amaya'l">
 <!ENTITY aboutPrivateBrowsing.info.title                 "At k'o pa jun Ichinan Tzuwäch">
 <!ENTITY aboutPrivateBrowsing.info.description           "&brandShortName; nuyüj ri akanoxik chuqa' runatab'al awokem pa k'amaya'l toq yatel pa ri okisab'äl o ye'atz'aíj ri taq ruwi' chuqa' ichinan okem taq tzuwäch. Estape' re re' man yatrewaj ta pan ajk'amaya'l o chuwäch ri niya'on k'amaya'l chawe. Nub'än chi man k'ayew ta nachajij ri ichinan nab'än pa k'amab'ey chuwäch jun chik winäq nrokisaj ri kematz'ib' ri'.">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article
