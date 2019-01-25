@@ -613,9 +613,9 @@
 <!-- Remote Content Button Popup -->
 <!ENTITY remoteContentOptionsAllowForMsg.label "Näytä etäsisältö tässä viestissä">
 <!ENTITY remoteContentOptionsAllowForMsg.accesskey "u">
-<!ENTITY editRemoteContentSettings.label "Muokkaa ulkoisen sisällön asetuksia…">
+<!ENTITY editRemoteContentSettings.label "Muokkaa etäsisällön asetuksia…">
 <!ENTITY editRemoteContentSettings.accesskey "M">
-<!ENTITY editRemoteContentSettingsUnix.label "Muokkaa ulkoisen sisällön asetuksia…">
+<!ENTITY editRemoteContentSettingsUnix.label "Muokkaa etäsisällön asetuksia…">
 <!ENTITY editRemoteContentSettingsUnix.accesskey "M">
 
 <!-- Phishing Button Popup -->
