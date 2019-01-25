@@ -11,6 +11,9 @@ cfr-doorhanger-extension-learn-more-link = மேலும் அறிய
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = ஆக்கம் { $name }
+# This is a notification displayed in the address bar.
+# When clicked it opens a panel with a message for the user.
+cfr-doorhanger-extension-notification = பரிந்துரை
 
 ## Add-on statistics
 ## These strings are used to display the total number of
