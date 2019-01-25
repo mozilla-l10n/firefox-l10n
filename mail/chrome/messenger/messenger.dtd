@@ -611,7 +611,7 @@
 <!ENTITY buttonMenuForwardAsAttachment.label "Välitä liitteenä">
 
 <!-- Remote Content Button Popup -->
-<!ENTITY remoteContentOptionsAllowForMsg.label "Näytä ulkoinen sisältö tässä viestissä">
+<!ENTITY remoteContentOptionsAllowForMsg.label "Näytä etäsisältö tässä viestissä">
 <!ENTITY remoteContentOptionsAllowForMsg.accesskey "u">
 <!ENTITY editRemoteContentSettings.label "Muokkaa ulkoisen sisällön asetuksia…">
 <!ENTITY editRemoteContentSettings.accesskey "M">
