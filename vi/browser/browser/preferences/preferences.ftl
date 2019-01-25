@@ -4,10 +4,6 @@
 
 do-not-track-description = Gửi tín hiệu “Không theo dõi” tới trang web để cho biết bạn không muốn bị theo dõi
 do-not-track-learn-more = Tìm hiểu thêm
-do-not-track-option-default =
-    .label = Chỉ khi dùng trình chống theo dõi
-do-not-track-option-default-content-blocking =
-    .label = Chỉ khi { -brand-short-name } được đặt sang chế độ chặn trình phát hiện theo dõi
 do-not-track-option-default-content-blocking-known =
     .label = Chỉ khi { -brand-short-name } được đặt để chặn trình theo dõi đã biết
 do-not-track-option-always =
@@ -95,9 +91,6 @@ extension-controlled-default-search = Một tiện ích mở rộng, <img data-l
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = Một tiện ích mở rộng này, <img data-l10n-name="icon"/> { $name }, yêu cầu thẻ ngăn chứa.
-# This string is shown to notify the user that their tracking protection preferences
-# are being controlled by an extension.
-extension-controlled-websites-tracking-protection-mode = Một tiện ích mở rộng, <img data-l10n-name="icon"/> { $name }, đang kiểm soát việc chống theo dõi.
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
 extension-controlled-websites-content-blocking-all-trackers = Một tiện ích mở rộng, <img data-l10n-name="icon"/> { $name }, đang kiểm soát cài đặt này.
@@ -594,15 +587,10 @@ sitedata-total-size-calculating = Đang tính toán kích thước cache và d�
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Cookie, dữ liệu trang và bộ nhớ đệm của bạn hiện đang sử dụng { $value } { $unit } dung lượng đĩa.
 sitedata-learn-more = Tìm hiểu thêm
-sitedata-keep-until = Giữ cho đến khi
-    .accesskey = u
-sitedata-keep-until-expire =
-    .label = Chúng hết hạn
-sitedata-keep-until-closed =
-    .label = { -brand-short-name } đã đóng
 sitedata-delete-on-close =
     .label = Xóa cookie và dữ liệu trang web khi { -brand-short-name } bị đóng
     .accesskey = c
+sitedata-delete-on-close-private-browsing = Trong chế độ duyệt riêng tư, cookie và dữ liệu trang web sẽ luôn bị xóa khi { -brand-short-name } bị đóng.
 sitedata-allow-cookies-option =
     .label = Cho phép cookie và dữ liệu trang
     .accesskey = A
@@ -613,16 +601,6 @@ sitedata-disallow-cookies-option =
 # The list items are the strings named sitedata-block-*-option*.
 sitedata-block-desc = Loại bị chặn
     .accesskey = T
-sitedata-block-trackers-option-recommended =
-    .label = Trình theo dõi bên thứ ba (khuyến nghị)
-sitedata-block-trackers-option =
-    .label = Trình theo dõi bên thứ ba
-sitedata-block-unvisited-option =
-    .label = Cookie từ các trang web chưa từng truy cập
-sitedata-block-all-third-party-option =
-    .label = Tất cả cookie của bên thứ ba (có thể khiến trang web bị vỡ)
-sitedata-block-all-option =
-    .label = Tất cả cookie (sẽ khiến trang web bị gián đoạn)
 sitedata-option-block-trackers =
     .label = Trình theo dõi của bên thứ ba
 sitedata-option-block-unvisited =
@@ -637,13 +615,6 @@ sitedata-clear =
 sitedata-settings =
     .label = Quản lí dữ liệu...
     .accesskey = M
-sitedata-cookies-exceptions =
-    .label = Ngoại trừ…
-    .accesskey = N
-# This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
-# in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
-# Cookies and Site Data section.
-sitedata-warning-your-settings-prevent-changes = Cài đặt chặn nội dung của bạn đang ngăn các thay đổi về cài đặt cookie và dữ liệu trang web.
 sitedata-cookies-permissions =
     .label = Quản lí các quyền...
     .accesskey = P
@@ -666,41 +637,8 @@ addressbar-suggestions-settings = Thay đổi tùy chỉnh phần gợi ý của
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Chặn nội dung
-content-blocking-desc = Chặn nội dung của bên thứ ba, như quảng cáo hoặc mã, có thể làm chậm quá trình duyệt web của bạn và theo dõi bạn trên web. Tùy chỉnh cài đặt của bạn để cân bằng tốt nhất sự bảo vệ và hiệu suất.
 content-blocking-description = Chặn nội dung của bên thứ ba theo dõi bạn trên web. Kiểm soát số lượng hoạt động trực tuyến của bạn được lưu trữ và chia sẻ giữa các trang web.
 content-blocking-learn-more = Tìm hiểu thêm
-content-blocking-restore-defaults =
-    .label = Khôi phục về mặc định
-    .accesskey = R
-content-blocking-toggle-on =
-    .tooltiptext = Tắt chặn nội dung
-content-blocking-toggle-off =
-    .tooltiptext = Bật chặn nội dung
-content-blocking-toggle-label-on = BẬT
-    .accesskey = O
-content-blocking-toggle-label-off = TẮT
-    .accesskey = O
-content-blocking-category-label = Chọn thứ cần chặn
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-slow-loading-trackers-label =
-    .label = Trình truy dấu tác nhân tải chậm
-    .accesskey = T
-content-blocking-fastblock-new-description = Chỉ chặn các trình theo dõi làm chậm việc tải trang.
-content-blocking-tracking-protection-trackers-label =
-    .label = Trình theo dõi
-    .accesskey = T
-content-blocking-tracking-protection-all-detected-trackers-label =
-    .label = Tất cả các trình theo dõi đã phát hiện
-    .accesskey = T
-content-blocking-tracking-protection-new-description = Chặn tất cả các trình theo dõi đã biết. (Có thể ngăn việc tải của một số trang.)
-content-blocking-tracking-protection-option-always =
-    .label = Luôn luôn
-    .accesskey = A
-content-blocking-tracking-protection-option-private =
-    .label = Chỉ trong cửa sổ riêng tư
-    .accesskey = p
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 content-blocking-setting-standard =
@@ -733,51 +671,12 @@ content-blocking-option-private =
     .label = Chỉ trong cửa sổ riêng tư
     .accesskey = P
 content-blocking-tracking-protection-change-block-list = Thay đổi danh sách chặn
-content-blocking-third-party-cookies-label =
-    .label = Cookie của bên thứ ba
-    .accesskey = C
-content-blocking-reject-trackers-description = Chặn tất cả cookie của bên thứ ba hoặc chỉ những cookie do trình theo dõi đặt.
-# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
-# of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
-# or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
-# the UI.
-content-blocking-reject-trackers-warning-your-settings-prevent-changes = Cài đặt của bạn trong cookie và dữ liệu trang đang ngăn các thay đổi cài đặt cookie của bên thứ ba.
-content-blocking-change-cookie-settings =
-    .label = Thay đổi thiết lập cookie
-    .accesskey = T
-content-blocking-reject-trackers-block-trackers-option-recommended =
-    .label = Trình theo dõi (đề nghị)
-    .accesskey = k
-content-blocking-reject-trackers-block-trackers-option =
-    .label = Trình theo dõi
-    .accesskey = k
-content-blocking-reject-trackers-all-third-parties-option =
-    .label = Tất cả cookie của bên thứ ba (có thể khiến trang web bị gián đoạn)
-    .accesskey = A
 content-blocking-cookies-label =
     .label = Cookie
     .accesskey = C
 
 ## Privacy Section - Tracking
 
-tracking-header = Trình chống theo dõi
-tracking-desc = Trình chống theo dõi chặn các trình theo dõi trực tuyến thu thập dữ liệu duyệt web của bạn trên nhiều trang web. <a data-l10n-name="learn-more">Tìm hiểu thêm về trình chống theo dõi và chính sách riêng tư của bạn</a>
-tracking-mode-label = Sử dụng trình chống theo dõi để chặn các trình theo dõi đã được nhận biết
-tracking-mode-always =
-    .label = Luôn luôn
-    .accesskey = n
-tracking-mode-private =
-    .label = Chỉ trong cửa sổ riêng tư
-    .accesskey = l
-tracking-mode-never =
-    .label = Không bao giờ
-    .accesskey = K
-tracking-exceptions =
-    .label = Ngoại lệ…
-    .accesskey = g
-tracking-change-block-list =
-    .label = Thay đổi danh sách chặn…
-    .accesskey = C
 tracking-manage-exceptions =
     .label = Quản lý các ngoại lệ…
     .accesskey = x

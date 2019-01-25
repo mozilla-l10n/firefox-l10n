@@ -880,6 +880,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsReloadHint "Bạn có thể cần phải tải lại trang để các thay đổi được áp dụng.">
 <!ENTITY identity.permissionsPreferences.tooltip "Mở tùy chọn các quyền">
 
+<!ENTITY identity.contentBlockingPreferences.tooltip "Mở tùy chọn chặn nội dung">
 
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
