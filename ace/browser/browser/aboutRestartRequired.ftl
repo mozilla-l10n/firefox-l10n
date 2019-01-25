@@ -5,4 +5,5 @@
 restart-required-title = Peureulèë Puphôn Ulang
 restart-required-header = Meu'aih. Kamoe peureulèe peu-teupat saboh hal ubit untuk tetap meulanjut.
 restart-required-intro = Kamoe ban mupasang saboh hai nyang barô bak layeue likôt. Neuteugon Ulang { -brand-short-name } keu neupeulheueh.
+restart-required-description = Kamoe meujak keubah ulang mandum laman, tingkap ngön label gata ukeue,  jeuet beubagah keugata watèe balék keu atra nyan mandum teuma.
 restart-button-label = Mulai keulayi { -brand-short-name }

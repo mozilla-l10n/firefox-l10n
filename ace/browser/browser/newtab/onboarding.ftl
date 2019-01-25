@@ -17,7 +17,11 @@ onboarding-start-browsing-button-label = Mulai Seumeulop
 ## The string for the button is found above, in the UI strings section
 
 onboarding-private-browsing-title = Seumeulop Rasia
+onboarding-private-browsing-text = Neumeulayeu keudroe. Seulayeu rasiya deungon Peumeusom Asoe geupeutheun ureueng nyang geuseutot gata di internét.
 onboarding-screenshots-title = Deuneurop layeue
 onboarding-addons-title = Peungaya
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Peusa
+
+## Message strings belonging to the Return to AMO flow
+
