@@ -7,7 +7,6 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "M">
 
 <!ENTITY privateBrowsing.title                           "Məxfi Səyahət">
-<!ENTITY privateBrowsing.title.tracking                  "İzlənmə Qorumalı Məxfi Səyahət">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Məxfi Pəncərədə gəzərkən, Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "bunları qeyd etmir">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
@@ -28,9 +27,17 @@
 <!ENTITY aboutPrivateBrowsing.learnMore3.title           "Məxfi Səyahət">
 <!ENTITY aboutPrivateBrowsing.learnMore3.after           ".">
 
-<!ENTITY trackingProtection.title                        "İzlənmə Qoruması">
-<!ENTITY trackingProtection.description2                 "Bəzi web saytlar, İnternetdə səyahət edərkən fəaliyyətinizi izləyə biləcək izləyicilərdən istifadə edirlər. Firefox-un İzlənmə Qoruması, fəalliyətiniz haqqında məlumat toplaya biləcək izləyicilərin çoxunu əngəlləyə bilər.">
 <!ENTITY trackingProtection.startTour1                   "Necə işlədiyini görün">
 
 <!ENTITY contentBlocking.title                           "Məzmun Əngəlləmə">
 <!ENTITY contentBlocking.description                     "Bəzi saytlar sizin internetdəki aktivliyinizə nəzarət edəcək izləyicilər işlədirlər. Məxfi pəncərələrdə Firefox Məzmun Əngəlləyicisi haqqınızda məlumat yığan əksər izləyiciləri avtomatik əngəlləyir.">
+
+<!-- Strings for new Private Browsing with Search -->
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.search.placeholder): This is the placeholder
+                       text for the search box.   -->
+<!ENTITY aboutPrivateBrowsing.search.placeholder         "İnternetdə Axtar">
+<!ENTITY aboutPrivateBrowsing.info.title                 "Məxfi Pəncərədəsiniz">
+<!ENTITY aboutPrivateBrowsing.info.description           "&brandShortName; tətbiqdən çıxdığınızda və ya bütün Məxfi Səyahət vərəq və pəncərələrini qapatdığınızda axtarış və səyahət tarixçənizi təmizləyir. Bu sizi saytlar və internet provayderiniz üçün anonim etməsə də, onlayn məlumatlarınızı bu kompüteri işlədən digər şəxslərdən saxlamağınızı asanlaşdırır.">
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article
+                       about private browsing myths.   -->
+<!ENTITY aboutPrivateBrowsing.info.myths                 "Məxfi səyahət haqqında olan əfsanələr">
