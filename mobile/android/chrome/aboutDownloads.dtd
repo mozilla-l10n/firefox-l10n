@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutDownloads.title                      "Tải về">
-<!ENTITY aboutDownloads.header                     "Tải về của bạn">
-<!ENTITY aboutDownloads.empty                      "Không có tải về nào">
+<!ENTITY aboutDownloads.title                      "Tải xuống">
+<!ENTITY aboutDownloads.header                     "Tải xuống của bạn">
+<!ENTITY aboutDownloads.empty                      "Không có tải xuống nào">
 
 <!ENTITY aboutDownloads.open                       "Mở">
 <!ENTITY aboutDownloads.remove                     "Xóa">
