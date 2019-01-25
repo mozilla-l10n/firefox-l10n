@@ -43,7 +43,7 @@ category-home =
 pane-search-title = Tìm kiếm
 category-search =
     .tooltiptext = { pane-search-title }
-pane-privacy-title = Riêng tư & Bảo mật
+pane-privacy-title = Riêng tư & bảo mật
 category-privacy =
     .tooltiptext = { pane-privacy-title }
 # The word "account" can be translated, do not translate or transliterate "Firefox".
@@ -512,7 +512,7 @@ sync-device-name-save =
 sync-mobilepromo-single = Kết nối thiết bị khác
 sync-mobilepromo-multi = Quản lý các thiết bị
 sync-tos-link = Điều khoản Dịch vụ
-sync-fxa-privacy-notice = Chính sách Riêng tư
+sync-fxa-privacy-notice = Chính sách riêng tư
 
 ## Privacy Section
 
@@ -604,7 +604,7 @@ sitedata-block-desc = Loại bị chặn
 sitedata-option-block-trackers =
     .label = Trình theo dõi của bên thứ ba
 sitedata-option-block-unvisited =
-    .label = Cookies từ các trang web không mong muốn
+    .label = Cookie từ các trang web không mong muốn
 sitedata-option-block-all-third-party =
     .label = Tất cả cookie của bên thứ ba (có thể khiến các trang web bị hỏng)
 sitedata-option-block-all =
