@@ -225,6 +225,7 @@ uses-tiling = Käyttää ruutuihin jakoa
 content-uses-tiling = Käyttää ruutuihin jakoa (sisältö)
 off-main-thread-paint-enabled = Pääsäikeen ulkopuolinen piirtäminen käytössä
 off-main-thread-paint-worker-count = Pääsäikeen ulkopuolisen piirtämisen työyksiköitä
+low-end-machine = Havaittu vähemmän suorituskykyinen kone
 audio-backend = Äänen taustajärjestelmä
 max-audio-channels = Kanavia enintään
 channel-layout = Ensisijainen kanava-asettelu
