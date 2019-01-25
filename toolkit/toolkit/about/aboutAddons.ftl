@@ -207,3 +207,20 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Instalar actualizaciones
     .tooltiptext = Instalar actualizaciones disponibles en esta lista
+
+## Extension shortcut management
+
+shortcuts-manage =
+    .label = Atajos del teclado
+shortcuts-empty-message = No hay atajos para esta extensión.
+shortcuts-no-addons = No tienes ninguna extensión habilitada.
+shortcuts-input =
+    .placeholder = Escribe un atajo
+shortcuts-browserAction = Activar extensión
+shortcuts-pageAction = Activar acción de página
+shortcuts-sidebarAction = Barra lateral
+shortcuts-modifier-mac = Incluye Ctrl, Alt o ⌘
+shortcuts-modifier-other = Incluye Ctrl o Alt
+shortcuts-invalid = Combinación inválida
+shortcuts-letter = Escribe una letra
+shortcuts-system = No se puede sobrescribir un atajo de { -brand-short-name }

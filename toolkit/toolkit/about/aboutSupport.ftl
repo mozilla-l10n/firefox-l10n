@@ -242,6 +242,10 @@ effective-content-sandbox-level = Nivel efectivo del contenedor de proceso de co
 sandbox-proc-type-content = contenido
 sandbox-proc-type-file = contenido del archivo
 sandbox-proc-type-media-plugin = complemento de medios
+launcher-process-status-0 = Activado
+launcher-process-status-1 = Desactivado por fallo
+launcher-process-status-2 = Desactivado forzosamente
+launcher-process-status-unknown = Estado desconocido
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
