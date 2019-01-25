@@ -197,7 +197,7 @@ extensions-updates-updating =
 extensions-updates-installed =
     .value = Các tiện ích của bạn đã được cập nhật.
 extensions-updates-downloaded =
-    .value = Các cập nhật tiện ích của bạn đã được tải về.
+    .value = Các cập nhật tiện ích của bạn đã được tải xuống.
 extensions-updates-restart =
     .label = Khởi động lại ngay để hoàn tất cài đặt
 extensions-updates-none-found =
@@ -207,3 +207,6 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Cài đặt cập nhật
     .tooltiptext = Cài đặt các cập nhật trong danh sách này
+
+## Extension shortcut management
+

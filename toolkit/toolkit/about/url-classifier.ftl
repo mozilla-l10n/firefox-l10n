@@ -46,4 +46,4 @@ url-classifier-updating = đang cập nhật
 url-classifier-cannot-update = không thể cập nhật
 url-classifier-success = thành công
 url-classifier-update-error = lỗi cập nhật ({ $error })
-url-classifier-download-error = lỗi tải về ({ $error })
+url-classifier-download-error = lỗi tải xuống ({ $error })
