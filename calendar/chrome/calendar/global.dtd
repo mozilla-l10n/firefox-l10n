@@ -31,14 +31,6 @@
 <!ENTITY day.6.name "Thứ Sáu" >
 <!ENTITY day.7.name "Thứ Bảy" >
 
-<!-- Units -->
-<!ENTITY calendar.global.units.minute   "phút">
-<!ENTITY calendar.global.units.minutes  "phút">
-<!ENTITY calendar.global.units.hour     "giờ">
-<!ENTITY calendar.global.units.hours    "giờ">
-<!ENTITY calendar.global.units.day      "ngày">
-<!ENTITY calendar.global.units.days     "ngày">
-
 <!ENTITY month.1.name "Tháng Một" >
 <!ENTITY month.2.name "Tháng Hai" >
 <!ENTITY month.3.name "Tháng Ba" >
@@ -52,9 +44,9 @@
 <!ENTITY month.11.name "Tháng Mười Một" >
 <!ENTITY month.12.name "Tháng Mười Hai" >
 
-<!ENTITY onemonthbackward.tooltip "Lùi Một Tháng" >
+<!ENTITY onemonthbackward.tooltip "Lùi một tháng" >
 <!ENTITY onemonthforward.tooltip "Tiến Một Tháng" >
 <!ENTITY showToday.tooltip "Nhảy tới Hôm nay">
 <!ENTITY onedayforward.tooltip "Tiến Một Ngày">
-<!ENTITY onedaybackward.tooltip "Lùi Một Ngày">
+<!ENTITY onedaybackward.tooltip "Lùi một ngày">
 <!ENTITY showselectedday.tooltip "Hiện các sự kiện của ngày đã chọn">

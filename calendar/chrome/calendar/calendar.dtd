@@ -75,11 +75,11 @@
 <!ENTITY calendar.prevmonth.accesskey           "s" >
 
 <!ENTITY calendar.navigation.nextday.tooltip    "Tiến Một Ngày" >
-<!ENTITY calendar.navigation.prevday.tooltip    "Lùi Một Ngày" >
+<!ENTITY calendar.navigation.prevday.tooltip    "Lùi một ngày" >
 <!ENTITY calendar.navigation.nextweek.tooltip   "Tiến Một Tuần" >
-<!ENTITY calendar.navigation.prevweek.tooltip   "Lùi Một Tuần" >
+<!ENTITY calendar.navigation.prevweek.tooltip   "Lùi một tuần" >
 <!ENTITY calendar.navigation.nextmonth.tooltip  "Tiến Một Tháng" >
-<!ENTITY calendar.navigation.prevmonth.tooltip  "Lùi Một Tháng" >
+<!ENTITY calendar.navigation.prevmonth.tooltip  "Lùi một tháng" >
 
 <!ENTITY calendar.newevent.button.label         "Sự kiện Mới" >
 <!ENTITY calendar.newtask.button.label          "Tác vụ Mới" >
