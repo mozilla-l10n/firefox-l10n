@@ -5,11 +5,11 @@
 <!-- Mail Content -->
 <!ENTITY captionMailContent.label "Sähköpostin sisältö">
 
-<!ENTITY acceptRemoteContent.label "Salli ulkoinen sisältö sähköposteissa">
+<!ENTITY acceptRemoteContent.label "Salli etäsisältö sähköposteissa">
 <!ENTITY acceptRemoteContent.accesskey "S">
 <!ENTITY remoteContentExceptions.label "Poikkeukset…">
 <!ENTITY remoteContentExceptions.accesskey "P">
-<!ENTITY acceptRemoteContentInfo.label "Lue lisää ulkoisen sisällön tietosuojavaikutuksista">
+<!ENTITY acceptRemoteContentInfo.label "Lue lisää etäsisällön vaikutuksista yksityisyydensuojaan">
 
 <!-- Web Content -->
 <!ENTITY captionWebContent.label "Verkkosisältö">
