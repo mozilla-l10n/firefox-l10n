@@ -3,6 +3,16 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 url-classifier-title = Thông tin về Trình phân loại URL
+url-classifier-search-title = Tìm kiếm
+url-classifier-search-result-title = Kết quả
+url-classifier-search-result-uri = URI: { $uri }
+url-classifier-search-result-list = Danh sách các bảng: { $list }
+url-classifier-search-input = URL
+url-classifier-search-error-invalid-url = URL không hợp lệ
+url-classifier-search-error-no-features = Không có tính năng được chọn
+url-classifier-search-btn = Bắt đầu tìm kiếm
+url-classifier-search-features = Tính năng
+url-classifier-search-listType = Kiểu danh sách
 url-classifier-provider-title = Nhà cung cấp
 url-classifier-provider = Nhà cung cấp
 url-classifier-provider-last-update-time = Thời gian cập nhật lần cuối
