@@ -237,7 +237,7 @@ download-always-ask-where =
     .label = Luôn hỏi bạn nơi để lưu các tập tin
     .accesskey = A
 applications-header = Ứng dụng
-applications-description = Chọn cách { -brand-short-name } xử lý các tập tin bạn tải về từ web hoặc các ứng dụng bạn sử dụng khi duyệt web.
+applications-description = Chọn cách { -brand-short-name } xử lý các tập tin bạn tải xuống từ web hoặc các ứng dụng bạn sử dụng khi duyệt web.
 applications-filter =
     .placeholder = Tìm các loại tập tin hoặc ứng dụng
 applications-type-column =
@@ -826,8 +826,8 @@ space-alert-under-5gb-message = { -brand-short-name } đang hết dung lượng 
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Bàn làm việc
-downloads-folder-name = Trang tải xuống
-choose-download-folder-title = Chọn Thư mục Tải xuống:
+downloads-folder-name = Tải xuống
+choose-download-folder-title = Chọn thư mục tải xuống:
 # Variables:
 #   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
 save-files-to-cloud-storage =
