@@ -7,7 +7,6 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
 
 <!ENTITY privateBrowsing.title                           "Duyệt web riêng tư">
-<!ENTITY privateBrowsing.title.tracking                  "Duyệt web riêng tư với chế độ chống theo dõi">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Khi bạn duyệt web trong cửa sổ riêng tư, Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "không lưu">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
@@ -28,10 +27,17 @@
 <!ENTITY aboutPrivateBrowsing.learnMore3.title           "Duyệt web riêng tư">
 <!ENTITY aboutPrivateBrowsing.learnMore3.after           ".">
 
-<!ENTITY trackingProtection.title                        "Chống theo dõi">
-<!ENTITY trackingProtection.description2                 "Một số trang dùng hệ thống theo dõi để có thể theo dõi hoạt động của bạn trên Internet. Với chế độ chống theo dõi của Firefox sẽ giúp chặn hệ thống theo dõi có thể thu thập thông tin về hành vi duyệt web của bạn.">
-
 <!ENTITY trackingProtection.startTour1                   "Xem cách hoạt động">
 
 <!ENTITY contentBlocking.title                           "Chặn nội dung">
 <!ENTITY contentBlocking.description                     "Một số trang web sử dụng trình theo dõi có thể giám sát hoạt động của bạn trên Internet. Trong cửa sổ riêng tư, trình chặn nội dung của Firefox tự động chặn nhiều trình theo dõi có thể thu thập thông tin về hành vi duyệt web của bạn.">
+
+<!-- Strings for new Private Browsing with Search -->
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.search.placeholder): This is the placeholder
+                       text for the search box.   -->
+<!ENTITY aboutPrivateBrowsing.search.placeholder         "Tìm kiếm trên mạng">
+<!ENTITY aboutPrivateBrowsing.info.title                 "Bạn đang ở cửa sổ riêng tư">
+<!ENTITY aboutPrivateBrowsing.info.description           "&brandShortName; xóa lịch sử tìm kiếm và duyệt web của bạn khi bạn thoát khỏi ứng dụng hoặc đóng tất cả các thẻ và cửa sổ duyệt web riêng tư. Mặc dù điều này không làm cho bạn ẩn danh với các trang web hoặc nhà cung cấp dịch vụ internet của bạn, nhưng việc giữ kín những gì bạn làm trực tuyến với mọi người sử dụng máy tính này sẽ dễ dàng hơn.">
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article
+                       about private browsing myths.   -->
+<!ENTITY aboutPrivateBrowsing.info.myths                 "Những lầm tưởng phổ biến về duyệt web riêng tư">
