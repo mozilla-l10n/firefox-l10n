@@ -44,6 +44,7 @@ app-basics-memory-use = Yaddaş istifadəsi
 app-basics-performance = Məhsuldarlıq
 app-basics-service-workers = Qeyd Olunmuş Service Worker-lar
 app-basics-profiles = Profillər
+app-basics-launcher-process-status = Başladıcı Prosesi
 app-basics-multi-process-support = Çox əməliyyatlı Pəncərələr
 app-basics-process-count = Web Məzmun Emalçıları
 app-basics-enterprise-policies = Sahibkarlıq Siyasəti
@@ -174,6 +175,7 @@ main-thread-no-omtc = ana axın, OMTC yoxdur
 yes = Bəli
 no = Xeyr
 unknown = Bilinməyən
+virtual-monitor-disp = Virtual Monitor Ekranı
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
@@ -181,6 +183,8 @@ unknown = Bilinməyən
 
 found = Tapıldı
 missing = Əksik
+gpu-process-pid = GPUProcessPid
+gpu-process = GPUProcess
 gpu-description = Açıqlama
 gpu-vendor-id = Satıcı kimliyi
 gpu-device-id = Cihaz kimliyi
@@ -213,11 +217,14 @@ d3d9video-crash-buard = D3D9 Video Dekodlayıcı
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Sonrakı yenidən başlatmada sıfırla
 gpu-process-kill-button = GPU Prosesi Dayandır
+gpu-device-reset = Cihaz Sıfırlama
 gpu-device-reset-button = Cihaz sıfırlamanı tətiklə
 uses-tiling = Lövhəcik işlədir
 content-uses-tiling = Lövhə işlədir (Məzmun)
 off-main-thread-paint-enabled = Sönülü əsas bağın rənglənməsi aktivdir
 off-main-thread-paint-worker-count = Sönülü əsas bağın rənglənməsi işçi sayı
+low-end-machine = Az məhsuldar maşın aşkarlandı
+target-frame-rate = Hədəf Kadr Sürəti
 audio-backend = Səs arxa tərəfi
 max-audio-channels = Maksimum kanal
 channel-layout = Üstünlük verilən kanal düzülüşü
@@ -235,6 +242,10 @@ effective-content-sandbox-level = Effektiv məzmun emalı Sandbox səviyyəsi
 sandbox-proc-type-content = məzmun
 sandbox-proc-type-file = fayl məzmunu
 sandbox-proc-type-media-plugin = media qoşması
+launcher-process-status-0 = Aktivdir
+launcher-process-status-1 = Xətadan dolayı söndürülüb
+launcher-process-status-2 = Zorla söndürülüb
+launcher-process-status-unknown = Bilinməyən status
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows

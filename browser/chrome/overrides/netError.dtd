@@ -11,8 +11,8 @@
 <!ENTITY returnToPreviousPage1.label "Geri get (Məsləhətlidir)">
 <!ENTITY advanced.label "Təkmilləşmiş">
 <!ENTITY continue2.label "Ətraflı…">
+<!ENTITY advanced2.label "Təkmilləşmiş…">
 <!ENTITY moreInformation.label "Daha çox məlumat">
-
 <!ENTITY viewCertificate.label "Sertifikatı Gör">
 
 <!-- Specific error messages -->
@@ -102,9 +102,6 @@ will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "<span class='hostname'/> sahibi web saytı düzgün quraşdırmayıb. Məlumatlarınızın oğurlanmasının qarşısın almaq üçün &brandShortName; bu web sayta qoşulmadı.">
 <!ENTITY certerror.introPara2 "&brandShortName; <span class='hostname'/> saytında potensial təhlükə tapdı və davam etmədi. Əgər bu saytı ziyarət etsəniz hücumçular parol, e-poçt, kredit kartı kimi məlumatlarınızı oğurlaya bilərlər.">
-
-<!ENTITY certerror.expiredCert.secondPara "Ola bilsin kompüterinizin saatı səhv qurulduğu üçün &brandShortName; səyyahı təhlükəsiz əlaqə qura bilmir.">
-
 <!ENTITY certerror.sts.introPara "&brandShortName; potensial güvənlik təhlükəsi aşkarladı və <span class='hostname'/> saytına davam etmədi çünki, bu sayt təhlükəsiz əlaqə tələb edir.">
 
 <!ENTITY certerror.expiredCert.introPara "&brandShortName; xəta aşkarladı və <span class='hostname'/> saytına davam etmədi. Ya bu sayt səhv konfiqurasiya edilib və ya kompüterinizin saatı səhvdir.">
@@ -169,6 +166,8 @@ was trying to connect. -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> vaxtı keçmiş və hücumlara açıq bir texnologiyadan istifadə edir. Hücumçular etibarlı olduğunu düşündüyünüz məlumatlarınızı əldə edə bilərlər. Saytın idarəçisi problemi həll etdikdən sonra təkrar daxil ola bilərsiz.</p><p>Xəta kodu: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Əngəllənmiş Səhifə">
+
+<!ENTITY certerror.mitm.title "Proqram &brandShortName; səyyahının bu saytda təhlükəsiz şəkildə qoşulmasının qarşısını alır">
 
 <!ENTITY clockSkewError.title "Kompüterinizin saatı səhvdir">
 <!ENTITY clockSkewError.longDesc "Kompüteriniz saatı <span id='wrongSystemTime_systemDate1'/> kimi fikirləşir, bu da &brandShortName; səyyahının təhlükəsiz əlaqə qurmağına mane olur. <span class='hostname'></span> saytını ziyarət etmək üçün sistem tənzimləmələrindən kompüterinizin saatını hazırki tarix, vaxt və saat zolağı ilə yeniləyin və <span class='hostname'></span> saytını təzədən yükləməyi yoxlayın.">
