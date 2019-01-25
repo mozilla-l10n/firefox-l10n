@@ -215,4 +215,12 @@ extensions-updates-update-selected =
 
 shortcuts-manage =
     .label = Pikanäppäimet
+shortcuts-empty-message = Tällä lisäosalle ei ole pikanäppäimiä.
+shortcuts-no-addons = Yhtäkään lisäosaa ei ole otettu käyttöön.
+shortcuts-input =
+    .placeholder = Kirjoita pikanäppäinyhdistelmä
 shortcuts-sidebarAction = Näytä/piilota sivupaneeli
+shortcuts-modifier-mac = Paina myös Ctrl-, Alt- tai ⌘-näppäintä
+shortcuts-modifier-other = Paina myös Ctrl- tai Alt-näppäintä
+shortcuts-invalid = Virheellinen yhdistelmä
+shortcuts-letter = Kirjoita kirjain
