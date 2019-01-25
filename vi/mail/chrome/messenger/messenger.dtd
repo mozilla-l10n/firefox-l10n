@@ -2,8 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY messengerWindow.title "Thư &amp; Nhóm tin">
-<!ENTITY titledefault.label    "&brandFullName;">
+<!ENTITY titledefault.label "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
 
 <!-- File Menu -->
@@ -33,8 +32,6 @@
 <!ENTITY newExistingEmailAccountCmd.accesskey "T">
 <!ENTITY openMessageFileCmd.label "Mở các Thư Đã Lưu…">
 <!ENTITY openMessageFileCmd.accesskey "h">
-<!ENTITY openAttachmentCmd.label "Phần đính kèm">
-<!ENTITY openAttachmentCmd.accesskey "P">
 <!ENTITY saveAsMenu.label "Lưu Thành">
 <!ENTITY saveAsMenu.accesskey "L">
 <!ENTITY saveAsFileCmd.label "Tập tin">
@@ -48,8 +45,6 @@
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "T">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Tài khoản Hiện tại">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "H">
-<!ENTITY getNextNMsgCmd.label "Lấy 500 Thư Tiếp Theo">
-<!ENTITY getNextNMsgCmd.accesskey "5">
 <!ENTITY sendUnsentCmd.label "Gửi các Thư Chưa Gửi">
 <!ENTITY sendUnsentCmd.accesskey "a">
 <!ENTITY subscribeCmd.label "Theo dõi…">
@@ -60,17 +55,15 @@
 <!ENTITY renameFolder.accesskey "t">
 <!ENTITY renameFolder.key "V">
 <!ENTITY compactFolders.label "Làm gọn Thư mục">
-<!ENTITY compactFolders.accesskey    "n">
+<!ENTITY compactFolders.accesskey "n">
 <!ENTITY emptyTrashCmd.label "Dọn sạch Thùng rác">
-<!ENTITY emptyTrashCmd.accesskey    "D">
+<!ENTITY emptyTrashCmd.accesskey "D">
 <!ENTITY offlineMenu.label "Ngoại tuyến">
 <!ENTITY offlineMenu.accesskey "u">
 <!ENTITY offlineGoOfflineCmd.label "Làm việc Ngoại tuyến">
 <!ENTITY offlineGoOfflineCmd.accesskey "L">
 <!ENTITY synchronizeOfflineCmd.label "Tải/Đồng bộ Ngay…">
 <!ENTITY synchronizeOfflineCmd.accesskey "T">
-<!ENTITY settingsOfflineCmd.label "Thiết lập Ngoại tuyến…">
-<!ENTITY settingsOfflineCmd.accesskey "N">
 <!ENTITY downloadSelectedCmd.label "Lấy các Thư đã chọn">
 <!ENTITY downloadSelectedCmd.accesskey "c">
 <!ENTITY downloadStarredCmd.label "Lấy các Thư gắn sao">
@@ -107,9 +100,6 @@
 <!ENTITY selectFlaggedCmd.accesskey "s">
 <!ENTITY menuFavoriteFolder.label "Thư mục Ưa thích">
 <!ENTITY menuFavoriteFolder.accesskey "a">
-<!ENTITY folderPropsCmd.label "Thuộc tính…">
-<!ENTITY folderPropsFolderCmd.label "Thuộc tính Thư mục…">
-<!ENTITY folderPropsNewsgroupCmd.label "Thuộc tính Nhóm tin…">
 <!ENTITY folderPropsCmd.accesskey "u">
 <!ENTITY undoDeleteMsgCmd.label "Hoàn tác Xóa Thư">
 <!ENTITY redoDeleteMsgCmd.label "Làm lại Xóa Thư">
@@ -249,33 +239,6 @@
 <!ENTITY viewAttachmentsInlineCmd.label "Phần đính kèm ngay Trong thư">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "k">
 
-<!-- LOCALIZATION NOTE :
-fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
-fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
-If shift key is needed with your locale popular keyboard for them,
-you can use these alternative items. Otherwise, their values should be empty.  -->
-
-<!ENTITY fullZoomEnlargeCmd.label       "Phóng To">
-<!ENTITY fullZoomEnlargeCmd.accesskey   "T">
-<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
-
-<!ENTITY fullZoomReduceCmd.label        "Thu Nhỏ">
-<!ENTITY fullZoomReduceCmd.accesskey    "N">
-<!ENTITY fullZoomReduceCmd.commandkey   "-">
-<!ENTITY fullZoomReduceCmd.commandkey2  "">
-
-<!ENTITY fullZoomResetCmd.label         "Mặc định">
-<!ENTITY fullZoomResetCmd.accesskey     "M">
-<!ENTITY fullZoomResetCmd.commandkey    "0">
-<!ENTITY fullZoomResetCmd.commandkey2   "">
-
-<!ENTITY fullZoomToggleCmd.label        "Chỉ thu phóng Văn bản">
-<!ENTITY fullZoomToggleCmd.accesskey    "V">
-<!ENTITY fullZoom.label                 "Thu phóng">
-<!ENTITY fullZoom.accesskey             "p">
-
 <!ENTITY pageSourceCmd.label "Mã nguồn của Thư">
 <!ENTITY pageSourceCmd.accesskey "M">
 <!ENTITY pageSourceCmd.key "u">
@@ -327,15 +290,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goForwardCmd.label "Tiến">
 <!ENTITY goForwardCmd.accesskey "T">
 <!ENTITY goForwardCmd.commandKey "]">
-<!ENTITY goBackCmd.label "Lùi">
+<!ENTITY goBackCmd.label "Quay lại">
 <!ENTITY goBackCmd.accesskey "L">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY prevStarredMsgCmd.label "Thư gắn sao">
 <!ENTITY prevStarredMsgCmd.accesskey "s">
 <!ENTITY folderMenu.label "Thư mục">
 <!ENTITY folderMenu.accesskey "T">
-<!ENTITY thisFolder.label "Thư Mục Này">
-<!ENTITY thisFolder.accesskey "T">
 <!ENTITY goRecentlyClosedTabs.label "Các thẻ Đã đóng Gần đây">
 <!ENTITY startPageCmd.label "Trang Bắt Đầu">
 <!ENTITY startPageCmd.accesskey "B">
@@ -349,34 +310,30 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newNewMsgCmd.accesskey "T">
 <!ENTITY archiveMsgCmd.label "Lưu trữ">
 <!ENTITY archiveMsgCmd.accesskey "L">
-<!ENTITY archiveMsgCmd.key  "a">
+<!ENTITY archiveMsgCmd.key "a">
 <!ENTITY cancelNewsMsgCmd.label "Hủy Thư">
 <!ENTITY cancelNewsMsgCmd.accesskey "y">
 <!ENTITY replyMsgCmd.label "Trả lời">
 <!ENTITY replyMsgCmd.accesskey "i">
-<!ENTITY replyMsgCmd.key  "r">
+<!ENTITY replyMsgCmd.key "r">
 <!ENTITY replySenderCmd.label "Chỉ trả lời Người gửi">
 <!ENTITY replySenderCmd.accesskey "g">
-<!ENTITY replyNewsgroupCmd.label "Trả lời Nhóm tin">
-<!ENTITY replyNewsgroupCmd.accesskey  "h">
 <!ENTITY replyToAllMsgCmd.label "Trả lời Tất cả">
-<!ENTITY replyToAllMsgCmd.accesskey  "r">
-<!ENTITY replyToAllMsgCmd.key  "r">
+<!ENTITY replyToAllMsgCmd.accesskey "r">
+<!ENTITY replyToAllMsgCmd.key "r">
 <!ENTITY replyToListMsgCmd.label "Trả lời Danh sách">
-<!ENTITY replyToListMsgCmd.accesskey  "D">
-<!ENTITY replyToListMsgCmd.key  "l">
+<!ENTITY replyToListMsgCmd.accesskey "D">
+<!ENTITY replyToListMsgCmd.key "l">
 <!ENTITY forwardMsgCmd.label "Chuyển tiếp">
 <!ENTITY forwardMsgCmd.accesskey "y">
-<!ENTITY forwardMsgCmd.key  "l">
+<!ENTITY forwardMsgCmd.key "l">
 <!ENTITY forwardAsMenu.label "Chuyển tiếp Dưới dạng">
 <!ENTITY forwardAsMenu.accesskey "p">
 <!ENTITY forwardAsInline.label "Ngay trong thư">
 <!ENTITY forwardAsInline.accesskey "N">
 <!ENTITY forwardAsAttachmentCmd.label "Phần đính kèm">
 <!ENTITY forwardAsAttachmentCmd.accesskey "P">
-<!ENTITY editMsgAsNewCmd.label "Chỉnh sửa Dưới dạng Thư mới">
-<!ENTITY editMsgAsNewCmd.accesskey "s">
-<!ENTITY editMsgAsNewCmd.key "e">
+<!-- do not change "VK_RETURN" -->
 <!ENTITY createFilter.label "Tạo Bộ lọc từ Thư…">
 <!ENTITY createFilter.accesskey "o">
 <!ENTITY moveMsgToMenu.label "Di chuyển Tới">
@@ -399,10 +356,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY watchThreadMenu.label "Theo dõi Chủ đề">
 <!ENTITY watchThreadMenu.accesskey "e">
 <!ENTITY watchThreadMenu.key "w">
-<!ENTITY fileHereMenu.label "Xếp Vào Đây">
-<!ENTITY fileHereMenu.accesskey "X">
-<!ENTITY copyHereMenu.label "Chép tại đây">
-<!ENTITY copyHereMenu.accesskey "C">
 <!ENTITY tagMenu.label "Nhãn">
 <!ENTITY tagMenu.accesskey "h">
 <!ENTITY tagCmd0.key "0">
@@ -445,15 +398,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY openMessageWindowCmd.label "Mở Thư">
 <!ENTITY openMessageWindowCmd.accesskey "M">
 <!ENTITY openMessageWindowCmd.key "o">
-<!ENTITY openConversationCmd.label "Mở trong Hội thoại">
-<!ENTITY openConversationCmd.accesskey "M">
-<!ENTITY openConversationCmd.key "o">
-<!ENTITY openFeedMessage.label "Mở Tin bài">
-<!ENTITY openFeedMessage.accesskey "M">
-<!ENTITY openFeedWebPageInWindow.label "Trang Web trong Cửa Sổ Mới">
-<!ENTITY openFeedWebPageInWindow.accesskey "W">
-<!ENTITY openFeedSummaryInWindow.label "Tóm Tắt trong Cửa Sổ Mới">
-<!ENTITY openFeedSummaryInWindow.accesskey "S">
 <!ENTITY openFeedWebPageInMP.label "Bật-tắt Trang web và Tóm tắt trong Khung đọc thư">
 <!ENTITY openFeedWebPageInMP.accesskey "K">
 
@@ -475,8 +419,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY savedFiles.label "Tập tin Đã lưu">
 <!ENTITY savedFiles.accesskey "u">
 <!ENTITY savedFiles.key "j">
-<!ENTITY filtersCmd.label "Bộ lọc Thư…">
-<!ENTITY filtersCmd.accesskey "B">
 <!ENTITY filtersApply.label "Chạy Bộ lọc trên Thư mục">
 <!ENTITY filtersApply.accesskey "C">
 <!ENTITY filtersApplyToSelection.label "Chạy Bộ lọc trên các Thư đã Chọn">
@@ -489,16 +431,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY deleteJunk.accesskey "X">
 <!ENTITY importCmd.label "Nhập…">
 <!ENTITY importCmd.accesskey "N">
+<!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey):
+     Belongs to accountManagerCmd.label, which is placed under the Edit menu
+     on Unix systems
+  -->
+
+<!-- Developer Tools Submenu -->
 <!ENTITY errorConsoleCmd.label "Bảng kiểm soát Lỗi">
 <!ENTITY errorConsoleCmd.accesskey "L">
-<!ENTITY accountManagerCmd.label "Thiết lập Tài khoản…">
-<!ENTITY accountManagerCmd.accesskey "h">
-<!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
-        which is placed under the Edit menu on Unix systems -->
-<!ENTITY accountManagerCmdUnix.accesskey "h">
+
+<!--LOCALIZATION NOTE (scratchpadCmd.keycode):
+    This should be a key code constant as per
+    https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/keyCode#Constants_for_keyCode_value
+    (but without the DOM_ prefix) -->
+<!--LOCALIZATION NOTE (scratchpadCmd.keytext):
+    This should be the text printed on the key defined in the previous string. -->
 
 <!-- Mail Toolbar -->
-<!ENTITY getMsgButton.label "Lấy Thư">
 <!ENTITY newMsgButton.label "Viết Thư">
 <!ENTITY replyButton.label "Trả lời">
 <!ENTITY replyAllButton.label "Trả lời Tất cả">
@@ -508,7 +457,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY archiveButton.label "Lưu trữ">
 <!ENTITY nextButton.label "Tiếp">
 <!ENTITY previousButton.label "Trước">
-<!ENTITY backButton1.label "Lùi">
+<!ENTITY backButton1.label "Quay lại">
 <!ENTITY goForwardButton1.label "Tiến">
 <!ENTITY deleteItem.title "Delete">
 <!ENTITY deleteButton.label "Xóa">
@@ -555,19 +504,24 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tagButton.tooltip "Dán nhãn cho thư">
 <!ENTITY compactButton.tooltip "Dọn các thư bị xóa ra khỏi thư mục đã chọn">
 
+<!-- Toolbar Button Popup -->
+
+<!-- Remote Content Button Popup -->
+
+<!-- Phishing Button Popup -->
+
+<!-- AppMenu Popup -->
+
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "Nhãn Mới…">
 <!ENTITY addNewTag.accesskey "N">
 
 <!-- Folder Pane -->
-<!ENTITY folderColumn.label "Tên">
 <!ENTITY folderSizeColumn.label "Dung lượng">
 
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Lấy Thư">
 <!ENTITY folderContextGetMessages.accesskey "L">
-<!ENTITY folderContextOpenNewWindow.label "Mở">
-<!ENTITY folderContextOpenNewWindow.accesskey "M">
 <!ENTITY folderContextOpenNewTab.label "Mở trong Thẻ Mới">
 <!ENTITY folderContextOpenNewTab.accesskey "o">
 <!ENTITY folderContextNew.label "Thư mục con Mới…">
@@ -592,14 +546,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderContextMarkMailFolderRead.accesskey "u">
 <!ENTITY folderContextSubscribe.label "Theo dõi…">
 <!ENTITY folderContextSubscribe.accesskey "e">
-<!ENTITY folderContextSearchMessages.label "Tìm kiếm…">
-<!ENTITY folderContextSearchMessages.accesskey "k">
-<!ENTITY folderContextProperties.label "Thuộc tính…">
-<!ENTITY folderContextProperties.accesskey "h">
 <!ENTITY folderContextFavoriteFolder.label "Thư mục Ưa thích">
 <!ENTITY folderContextFavoriteFolder.accesskey "a">
-<!ENTITY folderContextSettings.label "Thiết lập…">
-<!ENTITY folderContextSettings.accesskey "p">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label "Tên hoặc Email chứa:">
@@ -639,60 +587,38 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY attachmentColumn.label "Phần đính kèm">
 
 <!-- Thread Pane Tooltips -->
-<!ENTITY columnChooser.tooltip "Nhấn để chọn cột hiển thị">
-<!ENTITY threadColumn.tooltip "Nhấn để hiển thị chủ đề thư">
-<!ENTITY fromColumn.tooltip "Nhấn để sắp xếp theo Từ">
-<!ENTITY recipientColumn.tooltip "Nhấn để sắp xếp theo người nhận">
-<!ENTITY subjectColumn.tooltip "Nhấn để sắp xếp theo tiêu đề">
-<!ENTITY dateColumn.tooltip "Nhấn để sắp xếp theo ngày">
-<!ENTITY priorityColumn.tooltip "Nhấn để sắp xếp theo ưu tiên">
-<!ENTITY tagsColumn.tooltip "Nhấn để sắp xếp theo nhãn">
-<!ENTITY accountColumn.tooltip "Nhấn để sắp xếp theo tài khoản">
-<!ENTITY statusColumn.tooltip "Nhấn để sắp xếp theo trạng thái">
-<!ENTITY sizeColumn.tooltip "Nhấn để sắp xếp theo dung lượng">
-<!ENTITY junkStatusColumn.tooltip "Nhấn để sắp xếp theo trạng thái thư rác">
-<!ENTITY unreadColumn.tooltip "Số thư chưa đọc trong chủ đề">
-<!ENTITY totalColumn.tooltip "Tổng số thư trong chủ đề">
-<!ENTITY readColumn.tooltip "Nhấn để sắp xếp theo đã đọc">
-<!ENTITY receivedColumn.tooltip "Nhấn để sắp xếp theo ngày nhận được">
-<!ENTITY starredColumn.tooltip "Nhấn để sắp xếp theo sao">
-<!ENTITY locationColumn.tooltip "Nhấn để sắp xếp theo địa chỉ">
-<!ENTITY idColumn.tooltip "Nhấn để sắp xếp theo thứ tự nhận được">
-<!ENTITY attachmentColumn.tooltip "Nhấn để sắp xếp theo phần đính kèm">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Mở Thư trong Cửa Sổ Mới">
 <!ENTITY contextOpenNewWindow.accesskey "M">
-<!-- The key potentially conflicts with cutCmd.accessKey which is defined in
-     textcontext.dtd from toolkit. Right now, both menu items can't be visible
-     at the same time, but should someone enable copy/paste of message, this key
-     would probably need to be changed. -->
+<!-- The contextOpenNewTab.accesskey ("T") potentially conflicts with
+     cutCmd.accessKey which is defined in textcontext.dtd from toolkit. Right
+     now, both menu items can't be visible at the same time, but should someone
+     enable copy/paste of message, this key would probably need to be changed. -->
 <!ENTITY contextOpenNewTab.label "Mở Thư trong Thẻ Mới">
 <!ENTITY contextOpenNewTab.accesskey "T">
 <!ENTITY contextOpenConversation.label "Mở Thư trong Hội thoại">
 <!ENTITY contextOpenConversation.accesskey "o">
-<!ENTITY contextEditAsNew.label "Chỉnh sửa Dưới dạng Thư Mới…">
-<!ENTITY contextEditAsNew.accesskey "s">
 <!ENTITY contextArchive.label "Lưu trữ">
 <!ENTITY contextArchive.accesskey "L">
 <!ENTITY contextReplySender.label "Chỉ trả lời Người gửi">
 <!ENTITY contextReplySender.accesskey "g">
-<!ENTITY contextReplyNewsgroup.label "Trả lời Nhóm tin">
-<!ENTITY contextReplyNewsgroup.accesskey "h">
 <!ENTITY contextReplyAll.label "Trả lời Tất cả">
 <!ENTITY contextReplyAll.accesskey "r">
 <!ENTITY contextReplyList.label "Trả lời Danh sách">
 <!ENTITY contextReplyList.accesskey "D">
 <!ENTITY contextForward.label "Chuyển tiếp">
 <!ENTITY contextForward.accesskey "y">
-<!ENTITY contextForwardAsAttachment.label "Chuyển tiếp dưới dạng Phần đính kèm">
-<!ENTITY contextForwardAsAttachment.accesskey "p">
 <!ENTITY contextMoveMsgMenu.label "Di chuyển Tới">
 <!ENTITY contextMoveMsgMenu.accesskey "D">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Gần đây">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "G">
 <!ENTITY contextCopyMsgMenu.label "Chép Tới">
 <!ENTITY contextCopyMsgMenu.accesskey "C">
+<!-- LOCALIZATION NOTE (contextWatchThreadMenu.accesskey):
+     In the en-US locale we ran out of access keys, so there is an empty access key for
+     Watch Thread. Localizers can pick a suitable key
+  -->
 <!ENTITY contextSaveAs.label "Lưu Thành…">
 <!ENTITY contextSaveAs.accesskey "L">
 <!ENTITY contextPrint.label "In…">
@@ -702,47 +628,47 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Thread Pane Column Picker -->
 <!-- LOCALIZATION NOTE (columnPicker.resetToInbox.label):
-   This option in the thread pane column picker causes us to reset the
-   customizations for the thread pane columns in this folder to their default.
+     This option in the thread pane column picker causes us to reset the
+     customizations for the thread pane columns in this folder to their default.
   -->
 <!ENTITY columnPicker.resetToInbox.label "Thiết lập lại các cột về mặc định">
 <!-- LOCALIZATION NOTE (columnPicker.applyTo.label):
-   This option in the thread pane column picker pops up a sub-menu containing
-   the "columnPicker.applyToFolder.label" and
-   "columnPicker.applyToFolderAndChildren.label" options.  This item indicates
-   a desire to apply the currently displayed set of columns to some other
-   folder(s).  The sub-menu items indicate whether we want to apply it to just
-   a folder or also its children.
+     This option in the thread pane column picker pops up a sub-menu containing
+     the "columnPicker.applyToFolder.label" and
+     "columnPicker.applyToFolderAndChildren.label" options. This item indicates
+     a desire to apply the currently displayed set of columns to some other
+     folder(s). The sub-menu items indicate whether we want to apply it to just
+     a folder or also its children.
   -->
 <!ENTITY columnPicker.applyTo.label "Áp dụng cột cho…">
 <!-- LOCALIZATION NOTE (columnPicker.applyToFolder.label):
-   This option in the thread pane column picker is found on a sub-menu beneath
-   the "columnPicker.applyTo.label" alongside
-   "columnPicker.applyToFolderAndChildren.label".  It indicates a desire to
-   apply the currently display thread pane column settings to a single folder
-   that the user selects using the same widget as the move to/copy to
-   mechanism (via a series of popups).
+     This option in the thread pane column picker is found on a sub-menu beneath
+     the "columnPicker.applyTo.label" alongside
+     "columnPicker.applyToFolderAndChildren.label". It indicates a desire to
+     apply the currently display thread pane column settings to a single folder
+     that the user selects using the same widget as the move to/copy to
+     mechanism (via a series of popups).
   -->
 <!ENTITY columnPicker.applyToFolder.label "Thư mục…">
 <!-- LOCALIZATION NOTE (columnPicker.applyToFolderAndChildren.label):
-   This option in the thread pane column picker is found on a sub-menu beneath
-   the "columnPicker.applyTo.label" alongside
-   "columnPicker.applyToFolder.label".  It indicates a desire to
-   apply the currently display thread pane column settings to a folder and all
-   of its descendents.  The user selects the folder using the same widget as the
-   move to/copy to mechanism (via a series of popups).
+     This option in the thread pane column picker is found on a sub-menu beneath
+     the "columnPicker.applyTo.label" alongside
+     "columnPicker.applyToFolder.label". It indicates a desire to
+     apply the currently display thread pane column settings to a folder and all
+     of its descendents. The user selects the folder using the same widget as the
+     move to/copy to mechanism (via a series of popups).
   -->
 <!ENTITY columnPicker.applyToFolderAndChildren.label "Thư mục và thư mục con của nó…">
 <!-- LOCALIZATION NOTE (columnPicker.thisFolder.label):
-   This is used in the folder selection widget for the
-   "columnPicker.applyToFolder.label" and
-   "columnPicker.applyToFolderAndChildren.label" menu options.  Whenever
-   a folder has children, it results in a menu popup; the first menu item
-   in that popup is given this label to indicate that that folder should be
-   selected.  For example, if folder "A" has two children, "B" and "C", then
-   when the user hovers over "A", a new popup menu will be displayed whose
-   items are "This folder", "B", and "C".  This is the equivalent of the
-   "File here" option for the move to/copy to widge.t
+     This is used in the folder selection widget for the
+     "columnPicker.applyToFolder.label" and
+     "columnPicker.applyToFolderAndChildren.label" menu options. Whenever
+     a folder has children, it results in a menu popup; the first menu item
+     in that popup is given this label to indicate that that folder should be
+     selected. For example, if folder "A" has two children, "B" and "C", then
+     when the user hovers over "A", a new popup menu will be displayed whose
+     items are "This folder", "B", and "C". This is the equivalent of the
+     "File here" option for the move to/copy to widget.
   -->
 <!ENTITY columnPicker.thisFolder.label "Thư mục này">
 
@@ -757,63 +683,37 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextUnmute.label "Bật tiếng">
 <!ENTITY contextUnmute.accesskey "B">
 
-<!-- Junk Bar -->
-<!ENTITY junkBarMessage1.label "Thư rác">
-<!ENTITY junkBarButton1.label "Không phải Thư rác">
-<!ENTITY junkInfoButton.label "?">
-
-<!-- Remote Content Bar -->
-<!ENTITY remoteContentMessage2.label "Để bảo vệ sự riêng tư của bạn, &brandShortName; đã chặn nội dung từ xa trong thư này.">
-<!ENTITY loadRemoteContentButton3.label "Hiện Nội dung Từ xa">
-
-<!-- Phishing Bar -->
-<!ENTITY phishingBarMessage2.label "Thư này có thể là lừa đảo.">
-<!ENTITY removePhishingBarButton1.label "Bỏ qua Cảnh báo">
-<!ENTITY disablePhishingWarning1.label "Vô hiệu hóa báo động lừa đảo cho tất cả thư">
-<!ENTITY reportPhishingError1.label "Thư này có vẻ không phải là lừa đảo.">
-
-<!-- MDN Bar -->
-<!ENTITY mdnBarIgnoreButton2.label "Bỏ qua">
-<!ENTITY mdnBarIgnoreButton2.accesskey "B">
-<!ENTITY mdnBarSendButton2.label "Gửi Chứng nhận Hồi báo">
-<!ENTITY mdnBarSendButton2.accesskey "o">
-
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
      This is actually the key used for the global message search box; we have
-     not changed 
-     -->
+     not changed
+  -->
 <!ENTITY quickSearchCmd.key "k">
-<!-- LOCALIZATION NOTE (searchAllMessages.label.base):
-     This is the base of the empty text for the global search box.  We replace
-     #1 with the contents of the appropriate
-     searchAllMessages.keyLabel2.* value for the platform.
+<!-- LOCALIZATION NOTE (search.label.base1):
+     This is the base of the empty text for the global search box. We replace
+     #1 with the contents of the appropriate search.keyLabel.* value for the
+     platform.
      The goal is to convey to the user that typing in the box will allow them
      to search for messages globally and that there is a hotkey they can press
-     to get to the box faster.  If the global indexer is disabled, the search
+     to get to the box faster. If the global indexer is disabled, the search
      box will be collapsed and the user will never see this message.
-     -->
-<!ENTITY searchAllMessages.label.base "Tìm kiếm tất cả thư tin… #1">
-<!-- LOCALIZATION NOTE (searchAllMessages.keyLabel.nonmac):
+  -->
+<!-- LOCALIZATION NOTE (search.keyLabel.nonmac):
      The description of the key-binding to get into the global search box on
-     windows and linux (which use the control key).  We use the key defined in
+     windows and linux (which use the control key). We use the key defined in
      the quickSearchCmd.key entity defined above, the letter should match it.
-     -->
-<!ENTITY searchAllMessages.keyLabel2.nonmac "&lt;Ctrl+K&gt;">
-<!-- LOCALIZATION NOTE (searchAllMessages.keyLabel.mac):
+  -->
+<!-- LOCALIZATION NOTE (search.keyLabel.mac):
      The description of the key-binding to get into the global search box on mac
-     systems.  We use the key defined in the quickSearchCmd.key entity defined
+     systems. We use the key defined in the quickSearchCmd.key entity defined
      above, the letter should match it.
-     -->
-<!ENTITY searchAllMessages.keyLabel2.mac "&lt;&#x2318;K&gt;">
+  -->
 
 <!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label "Thêm vào Sổ Địa Chỉ…">
 <!ENTITY AddToAddressBook.accesskey "a">
 <!ENTITY AddDirectlyToAddressBook.label "Thêm vào Sổ Địa Chỉ">
 <!ENTITY AddDirectlyToAddressBook.accesskey "a">
-<!ENTITY EditContact.label "Chỉnh sửa Danh bạ…">
-<!ENTITY EditContact.accesskey "C">
 <!ENTITY ViewContact.label "Hiển thị Danh bạ">
 <!ENTITY ViewContact.accesskey "H">
 <!ENTITY SubscribeToNewsgroup.label "Đăng kí theo dõi Nhóm tin">
@@ -858,14 +758,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Statusbar -->
 <!ENTITY statusText.label "Xong">
 
-<!--  Mac OS X Window Menu -->
+<!-- Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.label "Thu nhỏ">
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY bringAllToFront.label "Đưa Tất Cả ra Tiền Cảnh">
 <!ENTITY zoomWindow.label "Thu phóng">
 
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
-<!ENTITY preferencesCmdMac.label        "Tùy chỉnh…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 <!ENTITY preferencesCmdMac.modifiers    "accel">
 <!ENTITY servicesMenuMac.label          "Dịch vụ">
@@ -877,3 +776,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 <!ENTITY showAllAppsCmdMac.label        "Hiện Tất Cả">
 
+<!-- Mac OS X Dock Icon pop-up menu -->
