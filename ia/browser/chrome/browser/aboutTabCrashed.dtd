@@ -29,4 +29,4 @@
 <!ENTITY tabCrashed.emailMe "Inviar me un email quando plus de informationes es disponibile">
 <!ENTITY tabCrashed.reportSent "Reporto de crash ja submittite; gratias pro adjutar a meliorar &brandShortName;!">
 <!ENTITY tabCrashed.requestAutoSubmit2 "Reportar le schedas de secunde plano">
-<!ENTITY tabCrashed.autoSubmit3 "Actualisa le preferentias pro submitter automaticamente le reportos quando &brandShortName; collabe.">
+<!ENTITY tabCrashed.autoSubmit3 "Actualisa le preferentias pro inviar automaticamente le reportos quando &brandShortName; collabe.">
