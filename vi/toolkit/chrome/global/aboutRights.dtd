@@ -27,7 +27,7 @@
 
 <!-- point 3 text for official branded builds -->
 <!ENTITY rights2.intro-point3a "Cách chúng tôi dùng thông tin cá nhân của bạn và phản hồi được gửi tới &vendorShortName; thông qua &brandShortName; được mô tả trong ">
-<!ENTITY rights2.intro-point3b "Chính sách Riêng tư &brandShortName;">
+<!ENTITY rights2.intro-point3b "Chính sách riêng tư &brandShortName;">
 <!ENTITY rights.intro-point3c ".">
 
 <!-- point 3 text for unbranded builds -->
