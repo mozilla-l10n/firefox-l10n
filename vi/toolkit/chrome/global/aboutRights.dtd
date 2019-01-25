@@ -46,7 +46,7 @@
 <!ENTITY rights2.webservices-header "Dịch vụ Thông tin Dựa trên Web &brandFullName;">
 
 <!-- point 5 -->
-<!ENTITY rights.intro-point5 "Để có thể chơi lại một số loại nội dung video, &brandShortName; tải về một số mô đun giải mã nội dung từ một bên thứ ba.">
+<!ENTITY rights.intro-point5 "Để có thể chơi lại một số loại nội dung video, &brandShortName; tải xuống một số mô đun giải mã nội dung từ một bên thứ ba.">
 
 <!-- Note that this paragraph references a couple of entities from
      preferences/security.dtd, so that we can refer to text the user sees in

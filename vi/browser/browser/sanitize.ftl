@@ -46,7 +46,7 @@ clear-time-duration-suffix =
 
 history-section-label = Lịch sử
 item-history-and-downloads =
-    .label = Lịch sử duyệt web & tải về
+    .label = Lịch sử duyệt web & tải xuống
     .accesskey = d
 item-cookies =
     .label = Cookie

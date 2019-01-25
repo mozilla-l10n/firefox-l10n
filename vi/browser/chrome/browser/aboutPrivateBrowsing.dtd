@@ -17,7 +17,7 @@
 <!ENTITY aboutPrivateBrowsing.info.saved.before          "Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "sẽ lưu">
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          " của bạn:">
-<!ENTITY aboutPrivateBrowsing.info.downloads             "tải về">
+<!ENTITY aboutPrivateBrowsing.info.downloads             "tải xuống">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "dấu trang">
 <!ENTITY aboutPrivateBrowsing.info.clipboard             "văn bản được sao chép">
 <!ENTITY aboutPrivateBrowsing.note.before                "Duyệt web riêng tư ">
