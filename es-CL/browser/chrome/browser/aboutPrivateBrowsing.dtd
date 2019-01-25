@@ -7,7 +7,6 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
 
 <!ENTITY privateBrowsing.title                           "Navegación privada">
-<!ENTITY privateBrowsing.title.tracking                  "Navegación privada con protección de seguimiento">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Cuando navegas en una ventana privada, Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "no guarda">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
@@ -28,10 +27,15 @@
 <!ENTITY aboutPrivateBrowsing.learnMore3.title           "navegación privada">
 <!ENTITY aboutPrivateBrowsing.learnMore3.after           ".">
 
-<!ENTITY trackingProtection.title                        "Protección de seguimiento">
-<!ENTITY trackingProtection.description2                 "Algunos sitios usan rastreadores que pueden monitorear tu actividad en internet. Con la protección de seguimiento, Firefox bloqueará muchos rastreadores que pueden recolectar información sobre tu comportamiento en la red.">
-
 <!ENTITY trackingProtection.startTour1                   "Ver cómo funciona">
 
 <!ENTITY contentBlocking.title                           "Bloqueo de contenido">
 <!ENTITY contentBlocking.description                     "Algunos sitios web usan rastreadores que pueden monitorear tu actividad a través de Internet. En las ventanas privadas, el bloqueo de contenido de Firefox bloquea automáticamente muchos rastreadores que pueden recolectar información acerca de tu comportamiento de navegación.">
+
+<!-- Strings for new Private Browsing with Search -->
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.search.placeholder): This is the placeholder
+                       text for the search box.   -->
+<!ENTITY aboutPrivateBrowsing.search.placeholder         "Buscar en la Web">
+<!ENTITY aboutPrivateBrowsing.info.title                 "Estás en una ventana privada">
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article
+                       about private browsing myths.   -->
