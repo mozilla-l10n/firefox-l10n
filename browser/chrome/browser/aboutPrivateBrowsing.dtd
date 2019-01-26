@@ -39,3 +39,4 @@
 <!ENTITY aboutPrivateBrowsing.info.title                 "Estás en una ventana privada">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article
                        about private browsing myths.   -->
+<!ENTITY aboutPrivateBrowsing.info.myths                 "Mitos comunes sobre la navegación privada">
