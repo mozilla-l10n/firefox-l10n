@@ -4,51 +4,41 @@
 
 <!-- Event Menu -->
 <!ENTITY event.new.event                        "Sự kiện Mới…">
-<!ENTITY event.new.event.key                    "N">
 <!ENTITY event.new.event.accesskey              "S">
 
-<!ENTITY event.new.todo                         "Tác vụ Mới…">
-<!ENTITY event.new.todo.key                     "T">
-<!ENTITY event.new.todo.accesskey               "T">
-
-<!ENTITY calendar.new.server.label              "Lịch Mới…">
-<!ENTITY calendar.new.server.key                "L">
-<!ENTITY calendar.new.server.accesskey          "L">
-
-<!ENTITY calendar.print.label                   "In…">
-<!ENTITY calendar.print.key                     "P">
-<!ENTITY calendar.print.accesskey               "I">
+<!ENTITY event.new.task                         "Nhiệm vụ mới…">
+<!ENTITY event.new.task.accesskey               "k">
 
 <!ENTITY calendar.import.label                  "Nhập…">
-<!ENTITY calendar.import.key                    "I">
 <!ENTITY calendar.import.accesskey              "N">
 
 <!ENTITY calendar.export.label                  "Xuất…">
 <!ENTITY calendar.export.accesskey              "X">
-<!ENTITY calendar.export.selection.label        "Xuất phần Đã chọn…">
-<!ENTITY calendar.export.selection.accesskey    "u">
 
 <!ENTITY calendar.publish.label                 "Xuất bản…">
 <!ENTITY calendar.publish.accesskey             "b">
 
 <!ENTITY calendar.deletecalendar.label          "Xóa Lịch Đã Chọn…">
 <!ENTITY calendar.deletecalendar.accesskey      "X">
+<!ENTITY calendar.unsubscribecalendar.label     "Hủy đăng ký lịch đã chọn…">
+<!ENTITY calendar.unsubscribecalendar.accesskey "U">
+
+<!-- LOCALIZATION NOTE (calendar.removecalendar.label): Removing the calendar
+      is the general action of removing it, while deleting means to clear the
+      data and unsubscribing means just taking it out of the calendar list. -->
+<!ENTITY calendar.removecalendar.label          "Xóa lịch đã chọn…">
+<!ENTITY calendar.removecalendar.accesskey      "R">
+
 
 <!ENTITY calendar.menu.customize.label          "Tùy biến…">
 <!ENTITY calendar.menu.customize.accesskey      "T">
 
 <!ENTITY showUnifinderCmd.label                 "Tìm Sự Kiện">
 <!ENTITY showUnifinderCmd.accesskey             "m">
+<!ENTITY showUnifinderCmd.tooltip               "Chuyển đến khung tìm sự kiện">
 
 <!ENTITY calendar.displaytodos.checkbox.label       "Hiện các Tác vụ trong Lịch">
 <!ENTITY calendar.displaytodos.checkbox.accesskey   "v">
-
-<!ENTITY calendar.menu.numberofweeks.label      "Kích thước của Chế độ Hiển thị Nhiều tuần">
-<!ENTITY calendar.menu.numberofweeks.2          "Hai Tuần">
-<!ENTITY calendar.menu.numberofweeks.3          "Ba Tuần">
-<!ENTITY calendar.menu.numberofweeks.4          "Bốn Tuần">
-<!ENTITY calendar.menu.numberofweeks.5          "Năm Tuần">
-<!ENTITY calendar.menu.numberofweeks.6          "Sáu Tuần">
 
 <!ENTITY goTodayCmd.label                       "Hôm nay">
 <!ENTITY goTodayCmd.accesskey                   "H">

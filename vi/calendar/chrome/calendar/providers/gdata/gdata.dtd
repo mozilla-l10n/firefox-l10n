@@ -13,4 +13,10 @@
 <!ENTITY gdata.migration.upgrade.accesskey "N">
 <!ENTITY gdata.migration.showagain.label "Luôn luôn kiểm tra ">
 
+<!ENTITY gdata.reminder.default "Nhắc nhở mặc định">
 <!ENTITY gdata.reminder.action.sms.label "Gửi một Tin nhắn Văn bản">
+
+<!ENTITY gdata.wizard.session.description "Vui lòng chọn một phiên hiện có hoặc nhập địa chỉ email của bạn để tạo một phiên mới. Bạn chỉ cần một phiên cho mỗi tài khoản.">
+<!ENTITY gdata.wizard.calendars.description "Vui lòng chọn lịch và danh sách nhiệm vụ bạn muốn đăng ký.">
+
+<!ENTITY gdata.wizard.nextstep.description "Vui lòng chuyển sang bước tiếp theo để thiết lập lịch của bạn.">
