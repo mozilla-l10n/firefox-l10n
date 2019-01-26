@@ -212,7 +212,7 @@ extensions-updates-update-selected =
 
 shortcuts-manage =
     .label = Inegzumen n unasiw
-shortcuts-empty-message = Ulac inegzumen i uzegrir-agi.
+shortcuts-empty-message = Ulac inegzumen i usiɣzef-agi.
 shortcuts-no-addons = Ur ɣur-k ara ula d yiwen n usiɣzef iremden.
 shortcuts-browserAction = Rmed isiɣzaf
 shortcuts-sidebarAction = Sken/Fer agalis adisan
