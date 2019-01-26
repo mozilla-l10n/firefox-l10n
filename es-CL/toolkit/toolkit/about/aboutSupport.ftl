@@ -47,6 +47,7 @@ app-basics-memory-use = Uso de memoria
 app-basics-performance = Rendimiento
 app-basics-service-workers = Service Workers registrados
 app-basics-profiles = Perfiles
+app-basics-launcher-process-status = Proceso lanzador
 app-basics-multi-process-support = Ventanas multiproceso
 app-basics-process-count = Procesos de contenido web
 app-basics-enterprise-policies = Políticas empresariales
