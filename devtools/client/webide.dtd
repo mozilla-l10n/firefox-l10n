@@ -118,12 +118,6 @@
 
 <!-- Runtime Details -->
 <!ENTITY runtimedetails_title "Runtime-info">
-<!ENTITY runtimedetails_adbIsRoot "ADB is root: ">
-<!ENTITY runtimedetails_summonADBRoot "rootapparaat">
-<!ENTITY runtimedetails_ADBRootWarning "(vereist niet-vergrendelde bootloader)">
-<!ENTITY runtimedetails_unrestrictedPrivileges "Onbeperkte DevTools-bevoegdheden: ">
-<!ENTITY runtimedetails_requestPrivileges "hogere bevoegdheden vragen">
-<!ENTITY runtimedetails_privilegesWarning "(Zal apparaat herstarten. Vereist root-toegang.)">
 
 <!-- Device Preferences and Settings -->
 <!ENTITY device_typeboolean "Boolean">
