@@ -6,7 +6,7 @@
 <!ENTITY  from.label                  "з:">
 <!ENTITY  actionQuestion.label        "Што &brandShortName; мусіць зрабіць з гэтым файлам?">
 
-<!ENTITY  openWith.label              "Адчыніць з дапамогаю:">
+<!ENTITY  openWith.label              "Адкрыць з дапамогай">
 <!ENTITY  openWith.accesskey          "д">
 <!ENTITY  other.label                 "Іншыя…">
 
