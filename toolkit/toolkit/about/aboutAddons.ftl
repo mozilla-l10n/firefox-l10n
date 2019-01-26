@@ -210,3 +210,17 @@ extensions-updates-update-selected =
 
 ## Extension shortcut management
 
+shortcuts-manage =
+    .label = Các phím tắt bàn phím
+shortcuts-empty-message = Không có phím tắt cho tiện ích mở rộng này.
+shortcuts-no-addons = Bạn không có bất kỳ tiện ích mở rộng nào được kích hoạt.
+shortcuts-input =
+    .placeholder = Nhập một phím tắt
+shortcuts-browserAction = Kích hoạt tiện ích mở rộng
+shortcuts-pageAction = Kích hoạt hành động trang
+shortcuts-sidebarAction = Chuyển đến thanh bên
+shortcuts-modifier-mac = Bao gồmCtrl, Alt, hoặc ⌘
+shortcuts-modifier-other = Bao gồm Ctrl hoặc Alt
+shortcuts-invalid = Kết hợp không hợp lệ
+shortcuts-letter = Nhập một kí tự
+shortcuts-system = Không thể ghi đè một phím tắt { -brand-short-name }

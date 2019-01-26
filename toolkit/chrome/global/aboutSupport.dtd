@@ -118,11 +118,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Chép dữ liệu thô vào bảng tạm">
 
 <!ENTITY aboutSupport.sandboxTitle "Hộp cát">
+<!ENTITY aboutSupport.sandboxSyscallLogTitle "System Call bị từ chối">
 <!ENTITY aboutSupport.sandboxSyscallIndex "#">
 <!ENTITY aboutSupport.sandboxSyscallAge "Cách đây vài giây">
 <!ENTITY aboutSupport.sandboxSyscallPID "PID">
 <!ENTITY aboutSupport.sandboxSyscallTID "TID">
 <!ENTITY aboutSupport.sandboxSyscallProcType "Kiểu quy trình">
+<!ENTITY aboutSupport.sandboxSyscallNumber "Syscall">
+<!ENTITY aboutSupport.sandboxSyscallArgs "Tham số">
 
 <!ENTITY aboutSupport.safeModeTitle "Thử dùng chế độ an toàn">
 <!ENTITY aboutSupport.restartInSafeMode.label "Khởi động lại và vô hiệu hóa các tiện ích…">
@@ -132,6 +135,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsFailureLogTitle "Nhật ký lỗi">
 <!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
 <!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
+<!ENTITY aboutSupport.graphicsDecisionLogTitle "Nhật ký quyết định">
+<!ENTITY aboutSupport.graphicsCrashGuardsTitle "Vô hiệu hóa tính năng bảo vệ sự cố">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Cách giải quyết">
 
 <!ENTITY aboutSupport.mediaTitle "Đa phương tiện">

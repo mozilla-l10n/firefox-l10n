@@ -2,8 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-head-title = GIới thiệu công cụ nhà phát triển
+head-title = GIới thiệu công cụ dành cho nhà phát triển
 enable-title = Kích hoạt công cụ dành cho nhà phát triển Firefox
+enable-inspect-element-title = Bật công cụ dành cho nhà phát triển Firefox để sử dụng kiểm tra phần tử
+enable-key-shortcut-message = Bạn đã kích hoạt phím tắt công cụ dành cho nhà phát triển. Nếu đó là một sai lầm, bạn có thể đóng thẻ này.
 enable-common-message = Công cụ dành cho nhà phát triển Firefox bị tắt theo mặc định để cung cấp cho bạn quyền kiểm soát nhiều hơn đối với trình duyệt của bạn.
 enable-learn-more-link = Xem thêm về công cụ nhà phát triển
 enable-enable-button = Bật công cụ phát triển
