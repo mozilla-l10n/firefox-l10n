@@ -17,4 +17,4 @@ reader-view = Lezerweergave
 # Meant to match the string displayed in an empty URL bar.
 open-location = Voer zoekterm of adres in
 share = Delen
-focus = Sluiten
+close-window = Venster sluiten
