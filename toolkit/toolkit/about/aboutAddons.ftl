@@ -294,3 +294,6 @@ shortcuts-modifier-other = Druk op Ctrl of Alt
 shortcuts-invalid = Ongeldige combinatie
 shortcuts-letter = Typ een letter
 shortcuts-system = Kan geen bestaande { -brand-short-name }-sneltoets gebruiken
+
+go-back-button =
+    .tooltiptext = Teruggaan
