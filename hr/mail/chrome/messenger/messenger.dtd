@@ -440,9 +440,6 @@
 <!ENTITY openMessageWindowCmd.label "Otvori poruku">
 <!ENTITY openMessageWindowCmd.accesskey "u">
 <!ENTITY openMessageWindowCmd.key "o">
-<!ENTITY openConversationCmd.label "Otvori kao razgovor">
-<!ENTITY openConversationCmd.accesskey "k">
-<!ENTITY openConversationCmd.key "o">
 <!ENTITY openInConversationCmd.label "Otvori kao razgovor">
 <!ENTITY openInConversationCmd.accesskey "r">
 <!ENTITY openInConversationCmd.key "o">
@@ -795,6 +792,8 @@
 <!ENTITY contextMoveMsgMenu.accesskey "m">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Nedavno">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "N">
+<!ENTITY contextMoveCopyMsgFavoritesMenu.label "Favoriti">
+<!ENTITY contextMoveCopyMsgFavoritesMenu.accesskey "F">
 <!ENTITY contextCopyMsgMenu.label "Kopiraj u">
 <!ENTITY contextCopyMsgMenu.accesskey "K">
 <!ENTITY contextKillThreadMenu.label "Ignoriraj temu">
