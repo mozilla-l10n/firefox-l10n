@@ -50,7 +50,7 @@ This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDi
 Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsProfileDirWinMac "Thư mục hồ sơ">
 
-<!ENTITY aboutSupport.appBasicsEnabledPlugins "Phần bổ trợ đã kích hoạt">
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "Phần bổ trợ đã bật">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Cấu hình bản dựng">
 <!ENTITY aboutSupport.appBasicsUserAgent "Chuỗi đại diện người dùng (User Agent)">
 <!ENTITY aboutSupport.appBasicsOS "Hệ điều hành">

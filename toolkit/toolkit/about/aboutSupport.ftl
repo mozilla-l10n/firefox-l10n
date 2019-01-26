@@ -36,7 +36,7 @@ app-basics-profile-dir =
         [linux] Thư mục hồ sơ
        *[other] Thư mục hồ sơ
     }
-app-basics-enabled-plugins = Phần bổ trợ đã kích hoạt
+app-basics-enabled-plugins = Phần bổ trợ đã bật
 app-basics-build-config = Cấu hình bản dựng
 app-basics-user-agent = Chuỗi đại diện người dùng (User Agent)
 app-basics-os = Hệ điều hành
@@ -70,6 +70,8 @@ graphics-diagnostics-title = Chẩn đoán
 graphics-failure-log-title = Nhật ký lỗi
 graphics-gpu1-title = GPU #1
 graphics-gpu2-title = GPU #2
+graphics-decision-log-title = Nhật ký quyết định
+graphics-crash-guards-title = Vô hiệu hóa tính năng bảo vệ sự cố
 graphics-workarounds-title = Cách giải quyết
 place-database-title = Cơ sở dữ liệu địa điểm
 place-database-integrity = Tính toàn vẹn
@@ -85,11 +87,14 @@ library-version-title = Phiên bản thư viện
 copy-text-to-clipboard-label = Chép văn bản vào bảng tạm
 copy-raw-data-to-clipboard-label = Chép dữ liệu thô vào bảng tạm
 sandbox-title = Hộp cát
+sandbox-sys-call-log-title = System Call bị từ chối
 sandbox-sys-call-index = #
 sandbox-sys-call-age = Cách đây vài giây
 sandbox-sys-call-pid = PID
 sandbox-sys-call-tid = TID
 sandbox-sys-call-proc-type = Kiểu quy trình
+sandbox-sys-call-number = Syscall
+sandbox-sys-call-args = Tham số
 safe-mode-title = Thử dùng chế độ an toàn
 restart-in-safe-mode-label = Khởi động lại và vô hiệu hóa các tiện ích…
 media-title = Đa phương tiện
@@ -148,6 +153,8 @@ hardware-h264 = Giải mã phần cứng H264
 main-thread-no-omtc = chủ đề chính, không có OMTC
 yes = Có
 no = Không
+unknown = Không rõ
+virtual-monitor-disp = Màn hình ảo
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
@@ -155,6 +162,8 @@ no = Không
 
 found = Đã tìm thấy
 missing = Còn thiếu
+gpu-process-pid = GPUProcessPid
+gpu-process = GPUProcess
 gpu-description = Mô tả
 gpu-vendor-id = ID Nhà cung cấp
 gpu-device-id = ID Thiết bị
@@ -187,6 +196,7 @@ d3d9video-crash-buard = Bộ giải mã video D3D9
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Đặt lại vào lần khởi động lại tiếp theo
 gpu-process-kill-button = Buộc dừng quá trình GPU
+gpu-device-reset = Đặt lại thiết bị
 gpu-device-reset-button = Bắt đầu thiết lập lại phần cứng
 uses-tiling = Sử dụng ốp lát
 content-uses-tiling = Sử dụng ốp lát (Nội dung)
@@ -199,13 +209,18 @@ has-privileged-user-namespaces = User Namespaces với các tiến trình ưu ti
 content-sandbox-level = Cấp độ quy trình nội dung hộp cát
 effective-content-sandbox-level = Cấp độ hiệu quả nội dung hộp cát
 sandbox-proc-type-content = nội dung
+sandbox-proc-type-file = nội dung tập tin
 sandbox-proc-type-media-plugin = phần bổ trợ phương tiện
+launcher-process-status-0 = Đã bật
+launcher-process-status-1 = Vô hiệu hóa do thất bại
+launcher-process-status-2 = Bắt buộc vô hiệu hóa
+launcher-process-status-unknown = Tình trạng không xác định
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
-multi-process-status-0 = Được kích hoạt bởi người dùng
-multi-process-status-1 = Được kích hoạt theo mặc định
+multi-process-status-0 = Đã bật bởi người dùng
+multi-process-status-1 = Đã bật theo mặc định
 multi-process-status-2 = Đã tắt
 multi-process-status-4 = Vô hiệu hóa bởi các công cụ trợ năng
 multi-process-status-6 = Vô hiệu hóa bởi nhập văn bản không được hỗ trợ
@@ -214,11 +229,11 @@ multi-process-status-8 = Bắt buộc vô hiệu hóa
 multi-process-status-unknown = Tình trạng không xác định
 async-pan-zoom = Pan/Zoom không đồng bộ
 apz-none = không có
-wheel-enabled = con lăn được kích hoạt
-touch-enabled = cảm ứng được kích hoạt
-drag-enabled = thanh cuộn kéo được kích hoạt
-keyboard-enabled = bàn phím được kích hoạt
-autoscroll-enabled = tự động cuộn được kích hoạt
+wheel-enabled = con lăn đã bật
+touch-enabled = cảm ứng đã bật
+drag-enabled = thanh cuộn kéo đã bật
+keyboard-enabled = bàn phím đã bật
+autoscroll-enabled = tự động cuộn đã bật
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
