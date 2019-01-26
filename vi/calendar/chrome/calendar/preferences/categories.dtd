@@ -7,9 +7,9 @@
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
 
-<!ENTITY pref.categories.add.title "Thêm Phân Mục">
-<!ENTITY pref.categories.addButton.label "Thêm…">
-<!ENTITY pref.categories.addButton.accesskey "T">
+<!ENTITY pref.categories.new.title "Phân mục mới">
+<!ENTITY pref.categories.newButton.label "Mới…">
+<!ENTITY pref.categories.newButton.accesskey "N">
 <!ENTITY pref.categories.edit.title "Chỉnh sửa Phân mục">
 <!ENTITY pref.categories.editButton.label "Chỉnh sửa…">
 <!ENTITY pref.categories.editButton.accesskey "C">

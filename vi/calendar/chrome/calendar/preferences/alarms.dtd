@@ -14,11 +14,11 @@
 <!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "m">
 <!ENTITY pref.calendar.alarms.sound.browse.label "Duyệt…">
 <!ENTITY pref.calendar.alarms.sound.browse.accessKey "u">
-<!ENTITY pref.calendar.alarms.sound.preview.label "Nghe thử">
-<!ENTITY pref.calendar.alarms.sound.preview.accessKey "e">
+<!ENTITY pref.calendar.alarms.sound.play.label "Phát">
+<!ENTITY pref.calendar.alarms.sound.play.accessKey "P">
 <!ENTITY pref.showalarmbox "Hiện một hộp cảnh báo">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "b">
-<!ENTITY pref.missedalarms "Hiện những chuông báo đã lỡ">
+<!ENTITY pref.missedalarms2 "Hiển thị lời nhắc đã bỏ lỡ cho lịch có thể ghi">
 <!ENTITY pref.calendar.alarms.missedAlarms.accessKey "l">
 <!ENTITY pref.calendar.alarms.defaults.label "Mặc định cho Chuông báo">
 <!ENTITY pref.defalarm4events.label "Thiết lập chuông báo mặc định cho các sự kiện:">
@@ -31,5 +31,6 @@
 <!ENTITY pref.defalarmlen4events.accesskey "r">
 <!ENTITY pref.defalarmlen4todos.label "Mặc định, đổ chuông trước khi có một tác vụ:">
 <!ENTITY pref.defalarmlen4todos.accesskey "k">
-<!ENTITY pref.defaultemail.label "Địa chỉ mặc định để gửi chuông báo tới:">
-<!ENTITY pref.defaulttext.label "Nội dung cảnh báo mặc định cho chuông báo:">
+
+<!ENTITY pref.defaultsnoozelength.label "Độ dài báo lại mặc định:" >
+<!ENTITY pref.defaultsnoozelength.accesskey "S">
