@@ -241,6 +241,9 @@ effective-content-sandbox-level = Rupam b'eyal Sandbox ütz rupalem
 sandbox-proc-type-content = rupam
 sandbox-proc-type-file = rupam yakb'äl
 sandbox-proc-type-media-plugin = q'ojom nak'ab'äl
+launcher-process-status-0 = Tzijon
+launcher-process-status-2 = Xb'an chi xchup
+launcher-process-status-unknown = Man etaman ta täq rub'anikil
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows

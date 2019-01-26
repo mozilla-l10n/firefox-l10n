@@ -207,3 +207,8 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Keyak taq k'exoj
     .tooltiptext = Keyak ri taq k'exoj e k'o pa re rucholajem re'
+
+## Extension shortcut management
+
+shortcuts-manage =
+    .label = Ruq'a' Rub'ey Pitz'b'äl
