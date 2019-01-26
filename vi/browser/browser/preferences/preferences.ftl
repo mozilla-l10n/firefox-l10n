@@ -169,7 +169,7 @@ browser-containers-settings =
 containers-disable-alert-title = Đóng tất cả các thẻ ngăn chứa?
 containers-disable-alert-desc = Nếu bạn vô hiệu hóa thẻ ngăn chứa bây giờ, { $tabCount } thẻ ngăn chứa sẽ bị đóng. Bạn có chắc muốn vô hiệu hóa thẻ ngăn chứa?
 containers-disable-alert-ok-button = Đóng { $tabCount } thẻ ngăn chứa
-containers-disable-alert-cancel-button = Tiếp tục kích hoạt
+containers-disable-alert-cancel-button = Tiếp tục bật
 containers-remove-alert-title = Xóa ngăn chứa này?
 # Variables:
 #   $count (Number) - Number of tabs that will be closed.
