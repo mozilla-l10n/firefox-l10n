@@ -7,7 +7,6 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "а">
 
 <!ENTITY privateBrowsing.title                           "Прыватнае агляданне">
-<!ENTITY privateBrowsing.title.tracking                  "Прыватнае агляданне з аховай ад сачэння">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Калі вы аглядаеце сеціва праз прыватнае акно, Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "не захоўвае">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
@@ -28,15 +27,15 @@
 <!ENTITY aboutPrivateBrowsing.learnMore3.title           "Прыватнае агляданне">
 <!ENTITY aboutPrivateBrowsing.learnMore3.after           ".">
 
-<!ENTITY trackingProtection.title                        "Ахова ад сачэння">
-<!ENTITY trackingProtection.description2                 'Некаторыя сайты выкарыстоўваюць спецыяльныя метады, каб асочваць вашу актыўнасць у інтэрнэце і збіраць пра вас звесткі. Тэхналогія Firefox пад назвай "Ахова ад сачэння" (Tracking Protection) блакуе многія з гэтых метадаў.'>
-
 <!ENTITY trackingProtection.startTour1                   "Як гэта працуе?">
 
 <!ENTITY contentBlocking.title                           "Блакаванне змесціва">
 <!ENTITY contentBlocking.description                     "Некаторыя вэб-сайты выкарыстоўваюць трэкеры, якія могуць асочваць вашу дзейнасць у Інтэрнэце. У прыватных вокнах Блакаванне змесціва Firefox аўтаматычна блакіруе шмат такіх трэкераў, што могуць збіраць звесткі аб вашым агляданні.">
 
 <!-- Strings for new Private Browsing with Search -->
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.search.placeholder): This is the placeholder
+                       text for the search box.   -->
+<!ENTITY aboutPrivateBrowsing.search.placeholder         "Пошук у Інтэрнэце">
 <!ENTITY aboutPrivateBrowsing.info.title                 "Вы ў прыватным акне">
 <!ENTITY aboutPrivateBrowsing.info.description           "&brandShortName; ачышчае вашу гісторыю пошуку і аглядання, калі вы выходзіце з праграмы або закрываеце ўсе карткі і вокны прыватнага аглядання. У той час як гэта не робіць вас ананімным для вэб-сайтаў і інтэрнэт-правайдара, гэта дазваляе лягчэй трымаць у сакрэце тое, што вы робіце ў сеціве, ад астатніх карыстальнікаў гэтага камп'ютара.">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article
