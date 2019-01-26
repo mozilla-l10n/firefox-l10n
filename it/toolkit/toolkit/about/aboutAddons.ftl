@@ -226,3 +226,5 @@ shortcuts-modifier-other = Includi Ctrl o Alt
 shortcuts-invalid = Combinazione non valida
 shortcuts-letter = Inserisci una lettera
 shortcuts-system = Non è possibile sostituire una scorciatoia da tastiera di { -brand-short-name }
+go-back-button =
+    .tooltiptext = Torna indietro
