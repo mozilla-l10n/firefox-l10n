@@ -4,10 +4,6 @@
 
 do-not-track-description = Šalji “Ne prati me” signal web stranicama (stranice ga ne moraju poštivati)
 do-not-track-learn-more = Saznajte više
-do-not-track-option-default =
-    .label = Samo kada koristim zaštitu od praćenja
-do-not-track-option-default-content-blocking =
-    .label = Jedino kada je { -brand-short-name } postavljen da blokira otkrivene pratitelje.
 do-not-track-option-default-content-blocking-known =
     .label = Samo kada je { -brand-short-name } postavljen da blokira poznate pratitelje
 do-not-track-option-always =
@@ -95,9 +91,6 @@ extension-controlled-default-search = Dodatak, <img data-l10n-name="icon"/> { $n
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = Dodatak, <img data-l10n-name="icon"/> { $name }, zahtijeva sadržajne kartice.
-# This string is shown to notify the user that their tracking protection preferences
-# are being controlled by an extension.
-extension-controlled-websites-tracking-protection-mode = Dodatak, <img data-l10n-name="icon"/> { $name }, kontrolira zaštitu od praćenja.
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
 extension-controlled-websites-content-blocking-all-trackers = Dodatak, <img data-l10n-name="icon"/> { $name }, kontrolira ovu postavku.
@@ -609,15 +602,10 @@ sitedata-total-size-calculating = Izračunavanje veličine podataka web stranice
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Vaši spremljeni kolačići, podaci web stranica i privremena memorija trenutno zauzimaju { $value } { $unit } prostora na disku.
 sitedata-learn-more = Saznajte više
-sitedata-keep-until = Zadrži do
-    .accesskey = ž
-sitedata-keep-until-expire =
-    .label = isteka roka
-sitedata-keep-until-closed =
-    .label = zatvaranja { -brand-short-name }a
 sitedata-delete-on-close =
     .label = Obriši kolačiće i podatke stranica kada je { -brand-short-name } zatvoren
     .accesskey = c
+sitedata-delete-on-close-private-browsing = U trajnom privatnom načinu pretraživanja, kolačići i podaci o web stranicama uvijek će biti obrisani kada se zatvori { -brand-short-name }.
 sitedata-allow-cookies-option =
     .label = Prihvati kolačiće i podatke web stranica
     .accesskey = a
@@ -628,16 +616,6 @@ sitedata-disallow-cookies-option =
 # The list items are the strings named sitedata-block-*-option*.
 sitedata-block-desc = Vrsta blokiranog
     .accesskey = t
-sitedata-block-trackers-option-recommended =
-    .label = Pratitelji treće strane (preporučeno)
-sitedata-block-trackers-option =
-    .label = Pratitelji treće strane
-sitedata-block-unvisited-option =
-    .label = Kolačići s neposječenih stranica
-sitedata-block-all-third-party-option =
-    .label = Svi kolačići treće strane (može dovesti do sloma stranice)
-sitedata-block-all-option =
-    .label = Svi kolačići (može dovesti do sloma stranice)
 sitedata-option-block-trackers =
     .label = Pratitelji trećih strana
 sitedata-option-block-unvisited =
@@ -652,13 +630,6 @@ sitedata-clear =
 sitedata-settings =
     .label = Upravljanje podacima
     .accesskey = m
-sitedata-cookies-exceptions =
-    .label = Iznimke...
-    .accesskey = m
-# This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
-# in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
-# Cookies and Site Data section.
-sitedata-warning-your-settings-prevent-changes = Vaše postavke u blokiranju sadržaja sprječavaju promjene postavki kolačića i podataka web stranica.
 sitedata-cookies-permissions =
     .label = Upravljanje dozvolama…
     .accesskey = U
@@ -681,41 +652,8 @@ addressbar-suggestions-settings = Promijenite postavke za prijedloge tražilica
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Blokiranje sadržaja
-content-blocking-desc = Blokirajte sadržaje trećih strana, kao što su reklame ili kod, koji bi mogli usporiti vaše pregledavanje ili vas pratiti po internetu. Prilagodite svoje postavke za najbolji omjer zaštite i performansi.
 content-blocking-description = Blokirajte sadržaj trećih strana koji vas prati na webu. Kontrolirajte koliko se vaših aktivnosti na mreži sprema i dijeli između web stranica.
 content-blocking-learn-more = Saznajte više
-content-blocking-restore-defaults =
-    .label = Vrati zadano
-    .accesskey = r
-content-blocking-toggle-on =
-    .tooltiptext = Isključi blokiranje sadržaja
-content-blocking-toggle-off =
-    .tooltiptext = Uključi blokiranje sadržaja
-content-blocking-toggle-label-on = UKLJUČENO
-    .accesskey = O
-content-blocking-toggle-label-off = ISKLJUČENO
-    .accesskey = O
-content-blocking-category-label = Odaberite što ćete blokirati
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-slow-loading-trackers-label =
-    .label = Skripte za praćenje koje se sporo učitavaju
-    .accesskey = S
-content-blocking-fastblock-new-description = Blokiraj samo skripte za praćenje koje usporavaju učitavanje stranica.
-content-blocking-tracking-protection-trackers-label =
-    .label = Pratitelji
-    .accesskey = t
-content-blocking-tracking-protection-all-detected-trackers-label =
-    .label = Svi otkriveni pratitelji
-    .accesskey = t
-content-blocking-tracking-protection-new-description = Blokiraj sve poznate pratitelje. (Može spriječiti učitavanje stranica.)
-content-blocking-tracking-protection-option-always =
-    .label = Uvijek
-    .accesskey = U
-content-blocking-tracking-protection-option-private =
-    .label = Samo u privatnim prozorima
-    .accesskey = p
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 content-blocking-setting-standard =
@@ -748,51 +686,12 @@ content-blocking-option-private =
     .label = Samo u privatnim prozorima
     .accesskey = p
 content-blocking-tracking-protection-change-block-list = Promijenite popis blokiranih
-content-blocking-third-party-cookies-label =
-    .label = Kolačići treće strane
-    .accesskey = K
-content-blocking-reject-trackers-description = Blokiraj sve kolačiće trećih strana ili samo one postavljene od skripi za praćenje.
-# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
-# of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
-# or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
-# the UI.
-content-blocking-reject-trackers-warning-your-settings-prevent-changes = Vaše postavke kolačića i podatka web stranica sprječavaju promjene postavki kolačića treće strane.
-content-blocking-change-cookie-settings =
-    .label = Promijeni postavke kolačića
-    .accesskey = P
-content-blocking-reject-trackers-block-trackers-option-recommended =
-    .label = Pratitelji (preporučeno)
-    .accesskey = P
-content-blocking-reject-trackers-block-trackers-option =
-    .label = Pratitelji
-    .accesskey = P
-content-blocking-reject-trackers-all-third-parties-option =
-    .label = Svi kolačići treće strane (može dovesti do sloma web stranice)
-    .accesskey = a
 content-blocking-cookies-label =
     .label = Kolačići
     .accesskey = K
 
 ## Privacy Section - Tracking
 
-tracking-header = Zaštita od praćenja
-tracking-desc = Zaštita od praćenja blokira skripte za praćenje koje skupljaju vaše podatke o pregledavanju diljem različitih stranica. <a data-l10n-name="learn-more">Saznajte više o Zaštiti od praćenja i vašoj privatnosti</a>
-tracking-mode-label = Koristi zaštitu od praćenja kako biste blokirali poznate pratitelje
-tracking-mode-always =
-    .label = Uvijek
-    .accesskey = j
-tracking-mode-private =
-    .label = Samo u privatnim prozorima
-    .accesskey = r
-tracking-mode-never =
-    .label = Nikad
-    .accesskey = N
-tracking-exceptions =
-    .label = Iznimke…
-    .accesskey = z
-tracking-change-block-list =
-    .label = Promijenite popis blokiranih…
-    .accesskey = b
 tracking-manage-exceptions =
     .label = Upravljenje iznimkama…
     .accesskey = v
