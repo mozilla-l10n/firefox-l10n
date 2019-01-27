@@ -32,3 +32,8 @@ bottomLinks-rights = Notendaréttindi
 bottomLinks-privacy = Meðferð persónuupplýsinga
 aboutDialog-architecture-sixtyFourBit = 64-bita
 aboutDialog-architecture-thirtyTwoBit = 32-bita
+# Example of resulting string: 66.0.1 (64-bit)
+# Variables:
+#   $version (String): version of Firefox, e.g. 66.0.1
+#   $bits (Number): bits of the architecture (32 or 64)
+aboutDialog-version = { $version } ({ $bits }-bæti)
