@@ -5,6 +5,9 @@
 url-classifier-title = Upplýsingar um URL flokkara
 url-classifier-search-title = Leita
 url-classifier-search-result-title = Niðurstöður
+url-classifier-search-input = Slóð
+url-classifier-search-error-invalid-url = Ógild slóð (URL)
+url-classifier-search-error-no-features = Engir eiginleikar valdir
 url-classifier-search-btn = Byrja að leita
 url-classifier-search-features = Eiginleikar
 url-classifier-provider-title = Þjónustuaðili

@@ -207,3 +207,14 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Setja inn uppfærslur
     .tooltiptext = Setja inn allar uppfærslur í þessum lista
+
+## Extension shortcut management
+
+shortcuts-manage =
+    .label = Flýtilyklar
+shortcuts-input =
+    .placeholder = Slá inn flýtilykil
+shortcuts-modifier-mac = Hafa með Ctrl, Alt eða ⌘
+shortcuts-modifier-other = Hafa með Ctrl eða Alt
+shortcuts-invalid = Ógild samsetning
+shortcuts-letter = Slá inn bókstaf

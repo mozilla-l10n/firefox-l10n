@@ -173,6 +173,7 @@ hardware-h264 = H264 kóðun í vélbúnaði
 main-thread-no-omtc = aðalþráður, ekkert OMTC
 yes = Já
 no = Nei
+unknown = Óþekkt
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
@@ -234,6 +235,7 @@ effective-content-sandbox-level = Effective Content Process Sandbox Level
 sandbox-proc-type-content = innihald
 sandbox-proc-type-file = innihald skráar
 sandbox-proc-type-media-plugin = miðils tengiforrit
+launcher-process-status-0 = Virkt
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
