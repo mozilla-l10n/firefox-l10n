@@ -11,6 +11,8 @@ colors-window =
         }
 colors-close-key =
     .key = w
+colors-page-override-option-never =
+    .label = Ni´in íchi
 colors-text-header = Tu´un
     .accesskey = T
 colors-links-header = Link Teku
