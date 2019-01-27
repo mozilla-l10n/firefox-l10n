@@ -7,7 +7,6 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "p">
 
 <!ENTITY privateBrowsing.title                           "Huliðsstilling">
-<!ENTITY privateBrowsing.title.tracking                  "Huliðsgluggi er með vörn gegn gagnasöfnun">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Þegar þú vafrar með huliðsglugga, mun Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "ekki vista">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
@@ -28,9 +27,6 @@
 <!ENTITY aboutPrivateBrowsing.learnMore3.title           "Huliðsstilling">
 <!ENTITY aboutPrivateBrowsing.learnMore3.after           ".">
 
-<!ENTITY trackingProtection.title                        "Vörn gegn gagnasöfnun">
-<!ENTITY trackingProtection.description2                 "Sum vefsvæði nota rekjara sem geta fylgst með notkun þinni á ferð um netið. Með vörn gegn gagnasöfnun getur Firefox lokað á flesta rekjara sem safna upplýsingum um vafranotkun þína.">
-
 <!ENTITY trackingProtection.startTour1                   "Sjá hvernig þetta virkar">
 
 <!ENTITY contentBlocking.title                           "Blokkun efnis">
@@ -39,6 +35,7 @@
 <!-- Strings for new Private Browsing with Search -->
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.search.placeholder): This is the placeholder
                        text for the search box.   -->
+<!ENTITY aboutPrivateBrowsing.search.placeholder         "Leita á vefnum">
 <!ENTITY aboutPrivateBrowsing.info.title                 "Þú ert í huliðsglugga">
 <!ENTITY aboutPrivateBrowsing.info.description           "&brandShortName; hreinsar leitar- og vafraferilinn þinn þegar þú lokar forritinu eða lokar öllum einkaflipum og gluggum. Þó að þetta sé ekki nafnlaust gagnvart vefsíðum eða þjónustuveitu þinni, gerir það auðveldara að halda því sem þú gerir á netinu hulið gagnvart einkaaðilum sem nota þessa tölvu.">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article
