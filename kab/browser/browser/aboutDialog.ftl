@@ -32,3 +32,8 @@ bottomLinks-rights = Izerfan n useqdac
 bottomLinks-privacy = Tasertit n tbaḍnit
 aboutDialog-architecture-sixtyFourBit = 64-ibiten
 aboutDialog-architecture-thirtyTwoBit = 32-ibiten
+# Example of resulting string: 66.0.1 (64-bit)
+# Variables:
+#   $version (String): version of Firefox, e.g. 66.0.1
+#   $bits (Number): bits of the architecture (32 or 64)
+aboutDialog-version = { $version } ({ $bits }-ibiten)

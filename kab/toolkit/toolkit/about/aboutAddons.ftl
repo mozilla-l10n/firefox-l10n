@@ -218,3 +218,4 @@ shortcuts-browserAction = Rmed isiɣzaf
 shortcuts-sidebarAction = Sken/Fer agalis adisan
 shortcuts-modifier-mac = Seddu Ctrl, Alt, neɣ ⌘
 shortcuts-modifier-other = Seddu Ctrl neɣ Alt
+shortcuts-letter = Sekcem asekkil

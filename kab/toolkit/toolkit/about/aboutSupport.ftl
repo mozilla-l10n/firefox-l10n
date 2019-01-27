@@ -242,6 +242,7 @@ sandbox-proc-type-content = agbur
 sandbox-proc-type-file = agbur n ufaylu
 sandbox-proc-type-media-plugin = asiɣzef n wallen n teywalt
 launcher-process-status-0 = Irmed
+launcher-process-status-2 = Arurmid s tedusi
 launcher-process-status-unknown = Addad arussin
 # Variables
 # $remoteWindows (integer) - Number of remote windows
