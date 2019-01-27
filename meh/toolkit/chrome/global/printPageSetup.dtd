@@ -1,0 +1,30 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- extracted from printjoboptions.xul -->
+
+
+
+
+<!ENTITY portrait.accesskey  "V">
+<!ENTITY landscape.accesskey "l">
+
+<!ENTITY scale.accesskey     "E">
+<!ENTITY scalePercent        "&#037;">
+
+<!ENTITY shrinkToFit.accesskey "R">
+
+
+<!ENTITY printBG.accesskey   "f">
+
+
+<!ENTITY marginTop.accesskey "S">
+<!ENTITY marginBottom.accesskey "I">
+<!ENTITY marginLeft.accesskey "I">
+<!ENTITY marginRight.accesskey "D">
+
+
+
+<!ENTITY hfBlank             "--nada--">
+
