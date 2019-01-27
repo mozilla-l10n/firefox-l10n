@@ -18,3 +18,11 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = Sɨ´ɨ
+item-cookies =
+    .label = Cookies
+    .accesskey = C
+item-cache =
+    .label = Caché
+    .accesskey = a
+window-close =
+    .key = w

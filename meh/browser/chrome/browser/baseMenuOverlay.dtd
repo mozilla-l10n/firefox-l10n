@@ -25,11 +25,7 @@
 
 <!ENTITY helpSafeMode.label       "Nakaji´e jii daa a nachisó-kúmani na´va...">
 <!ENTITY helpSafeMode.accesskey   "N">
-
-
-
-<!ENTITY healthReport2.label      "&brandShorterName; Health Report">
-<!ENTITY healthReport2.accesskey  "e">
+<!ENTITY helpSafeMode.stop.accesskey   "R">
 
 <!ENTITY helpTroubleshootingInfo.label      "Ka´vi da ya´a saa kuvi nasa´anu ya´a de na iyo va´a">
 <!ENTITY helpTroubleshootingInfo.accesskey  "T">

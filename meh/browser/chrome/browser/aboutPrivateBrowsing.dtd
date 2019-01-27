@@ -7,7 +7,6 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "y">
 
 <!ENTITY privateBrowsing.title                           "Navegación yu´u">
-<!ENTITY privateBrowsing.title.tracking                  "Navegación yu´u jii a kumi noo´o">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Saa nanukunu nuu iin ventana yu´u, Firefox">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "Nchuva´a">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
@@ -16,7 +15,13 @@
 <!ENTITY aboutPrivateBrowsing.info.cookies               "cookies">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "Daa archivos temporales">
 <!ENTITY aboutPrivateBrowsing.info.saved.before          "Firefox">
+<!ENTITY aboutPrivateBrowsing.info.downloads             "Daa nxinú">
 <!ENTITY aboutPrivateBrowsing.learnMore3.after           ".">
 
 
 
+<!-- Strings for new Private Browsing with Search -->
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.search.placeholder): This is the placeholder
+                       text for the search box.   -->
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article
+                       about private browsing myths.   -->

@@ -42,6 +42,8 @@ fonts-langgroup-korean =
 # Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language.
 fonts-langgroup-latin =
     .label = Latín
+fonts-langgroup-malayalam =
+    .label = Malayalam
 fonts-langgroup-math =
     .label = Matemáticas
 fonts-langgroup-odia =
