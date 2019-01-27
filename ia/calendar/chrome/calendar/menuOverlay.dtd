@@ -30,8 +30,15 @@
 <!ENTITY calendar.removecalendar.accesskey      "R">
 
 
+<!ENTITY calendar.menu.customize.label          "Personalisar…">
+<!ENTITY calendar.menu.customize.accesskey      "P">
 
+<!ENTITY showUnifinderCmd.label                 "Trovar eventos">
+<!ENTITY showUnifinderCmd.accesskey             "T">
+<!ENTITY showUnifinderCmd.tooltip               "Mutar le quadro trova eventos">
 
+<!ENTITY calendar.displaytodos.checkbox.label       "Monstrar activitates in le agenda">
+<!ENTITY calendar.displaytodos.checkbox.accesskey   "A">
 
 <!ENTITY goTodayCmd.label                       "Hodie">
 <!ENTITY goTodayCmd.accesskey                   "H">
@@ -39,3 +46,5 @@
 <!ENTITY showCurrentView.label                  "Vista actual">
 <!ENTITY showCurrentView.accesskey              "V">
 
+<!ENTITY calendar.properties.label              "Proprietates del agenda…">
+<!ENTITY calendar.properties.accesskey          "a">
