@@ -7,7 +7,6 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "p">
 
 <!ENTITY privateBrowsing.title                           "Privatno pretraživanje">
-<!ENTITY privateBrowsing.title.tracking                  "Privatno pretraživanje sa zaštitom od praćenja">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Kada pretražujete u privatnom prozoru, Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "ne sprema">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
@@ -28,9 +27,16 @@
 <!ENTITY aboutPrivateBrowsing.learnMore3.title           "Privatno pretraživanje">
 <!ENTITY aboutPrivateBrowsing.learnMore3.after           ".">
 
-<!ENTITY trackingProtection.title                        "Zaštita od praćenja">
-<!ENTITY trackingProtection.description2                 "Neke web stranice koriste lokatore koji mogu pratiti vašu aktivnost na Internetu. S zaštitom od praćenja Firefox će blokirati mnoge lokatore koji mogu skupljati informacije o vašem pretraživanju.">
 <!ENTITY trackingProtection.startTour1                   "Pogledajte kako ovo funkcionira">
 
 <!ENTITY contentBlocking.title                           "Blokiranje sadržaja">
 <!ENTITY contentBlocking.description                     "Neke web stranice koriste skripte za praćenje koje nadgledaju vašu aktivnost diljem Interneta. U privatnom načinu, Firefox blokiranje sadržaja automatski blokira mnoge skripte za praćenje koje bi mogle prikupljati informacije o vašem pregledavanju.">
+
+<!-- Strings for new Private Browsing with Search -->
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.search.placeholder): This is the placeholder
+                       text for the search box.   -->
+<!ENTITY aboutPrivateBrowsing.search.placeholder         "Pretraži web">
+<!ENTITY aboutPrivateBrowsing.info.title                 "Nalazite se u privatnom prozoru">
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article
+                       about private browsing myths.   -->
+<!ENTITY aboutPrivateBrowsing.info.myths                 "Česti mitovi o privatnom pretraživanju">
