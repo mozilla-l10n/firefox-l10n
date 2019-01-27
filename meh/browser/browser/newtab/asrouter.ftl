@@ -2,6 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+cfr-doorhanger-extension-heading = Extensión kuvi ni´inu
+cfr-doorhanger-extension-sumo-link =
+    .tooltiptext = ¿Navi ne´yani ya´a?
+cfr-doorhanger-extension-cancel-button = Nkuvi ntañu´u
+    .accesskey = N
+cfr-doorhanger-extension-ok-button = Tee ntañu´u
+    .accesskey = A
 cfr-doorhanger-extension-learn-more-link = Ka´vi kue´eka
 # This string is used on a new line below the add-on name
 # Variables:

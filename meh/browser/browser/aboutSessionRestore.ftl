@@ -37,3 +37,4 @@ welcome-back-restore-button =
     .accesskey = L
 welcome-back-restore-all-label = Natee kuaiyo daa ventanas & pestañas
 welcome-back-restore-some-label = Natee sani daa a ni´inu
+welcome-back-page-info-link = Daa ka̱a̱ chunta´an nxita jee nuu nake´i ka̱a̱ nánuku nkino kua vaji. Dee ya´a ntu nuvi tixi, <a data-l10n-name="link-more">kuni kue´eka a kuvi sa´anu.</a>
