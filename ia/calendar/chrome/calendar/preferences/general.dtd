@@ -34,5 +34,6 @@
      it should be upper case (as a proper name) if the target language permits.
   -->
 
+<!ENTITY pref.accessibility.label "Accessibilitate" >
 
 <!ENTITY pref.eventsandtasks.label "Eventos e activitates" >

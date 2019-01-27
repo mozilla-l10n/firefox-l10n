@@ -8,10 +8,19 @@
   -->
 
 <!ENTITY pref.calendar.view.allview.caption "General">
+<!ENTITY pref.calendar.view.multiweekview.caption "Vista multe-septimanal">
+<!ENTITY pref.calendar.view.workweek.caption "Septimana laborative">
 
+<!ENTITY pref.weekstarts.label "Prime die del septimana:">
+<!ENTITY pref.weekstarts.accesskey "r">
 
+<!ENTITY pref.calendar.view.daystart.label "Le die comencia al:">
+<!ENTITY pref.calendar.view.daystart.accesskey "D">
+<!ENTITY pref.calendar.view.dayend.label "Le die fini al:">
+<!ENTITY pref.calendar.view.dayend.accesskey "f">
 <!ENTITY pref.calendar.view.visiblehours.label "Monstrar:">
 <!ENTITY pref.calendar.view.visiblehours.accesskey "o">
+<!ENTITY pref.calendar.view.visiblehoursend.label "horas al vice">
 
 <!ENTITY pref.numberofweeks.0 "nulle">
 <!ENTITY pref.numberofweeks.1 "1 septimana">
@@ -20,3 +29,5 @@
 <!ENTITY pref.numberofweeks.4 "4 septimanas">
 <!ENTITY pref.numberofweeks.5 "5 septimanas">
 <!ENTITY pref.numberofweeks.6 "6 septimanas">
+<!ENTITY pref.showlocation.label "Monstrar loco">
+<!ENTITY pref.showlocation.accesskey "L">
