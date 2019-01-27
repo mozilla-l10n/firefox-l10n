@@ -1,0 +1,22 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- WARNING! This file contains UTF-8 encoded characters!
+   - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
+   - your editor isn't using UTF-8 encoding and may munge up the document!
+  -->
+
+<!ENTITY pref.calendar.view.allview.caption "General">
+
+
+<!ENTITY pref.calendar.view.visiblehours.label "Monstrar:">
+<!ENTITY pref.calendar.view.visiblehours.accesskey "o">
+
+<!ENTITY pref.numberofweeks.0 "nulle">
+<!ENTITY pref.numberofweeks.1 "1 septimana">
+<!ENTITY pref.numberofweeks.2 "2 septimanas">
+<!ENTITY pref.numberofweeks.3 "3 septimanas">
+<!ENTITY pref.numberofweeks.4 "4 septimanas">
+<!ENTITY pref.numberofweeks.5 "5 septimanas">
+<!ENTITY pref.numberofweeks.6 "6 septimanas">

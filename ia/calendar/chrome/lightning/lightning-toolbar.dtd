@@ -10,9 +10,11 @@
 
 <!-- Mode Toolbar -->
 <!ENTITY lightning.toolbar.calendar.label     "Agenda">
+<!ENTITY lightning.toolbar.task.label         "Activitates">
 
 <!-- Toolbar write button -->
 <!ENTITY lightning.toolbar.newevent.label     "Evento">
+<!ENTITY lightning.toolbar.newevent.tooltip   "Crear un nove evento">
 <!ENTITY lightning.toolbar.newtask.label      "Activitate">
 <!ENTITY lightning.toolbar.newtask.tooltip    "Crear un nove activitate">
 
@@ -28,3 +30,5 @@
 <!-- LOCALIZATION NOTE: the same as appmenuButton.label and appmenuButton1.tooltip
      from messenger.dtd -->
 <!ENTITY lightning.toolbar.appmenuButton.label       "AppMenu">
+<!ENTITY lightning.toolbar.calendarpane.label        "Visualisar le quadro de agenda">
+<!ENTITY lightning.toolbar.calendarpane.accesskey    "Q">
