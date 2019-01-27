@@ -2,15 +2,25 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY lightning.toolbar.calendar.name "Barra del utensiles del agenda">
+<!ENTITY lightning.toolbar.calendar.name.accesskey "A">
+<!ENTITY lightning.toolbar.task.name "Barra del utensiles del activitate">
+<!ENTITY lightning.toolbar.task.name.accesskey "A">
 
 <!ENTITY lightning.toolbar.sync.label "Synchronisar">
 <!ENTITY lightning.toolbar.delete.label "Deler">
 <!ENTITY lightning.toolbar.edit.label "Rediger">
+<!ENTITY lightning.toolbar.gototoday.label "Ir a hodie">
+<!ENTITY lightning.toolbar.gototoday.tooltip "Ir a hodie">
 <!ENTITY lightning.toolbar.print.label "Imprimer">
+<!ENTITY lightning.toolbar.print.tooltip "Imprimer eventos o activitates">
 
 <!-- Mode Toolbar -->
 <!ENTITY lightning.toolbar.calendar.label     "Agenda">
+<!ENTITY lightning.toolbar.calendar.tooltip   "Mutar al scheda del agenda">
+<!ENTITY lightning.toolbar.calendar.accesskey "A">
 <!ENTITY lightning.toolbar.task.label         "Activitates">
+<!ENTITY lightning.toolbar.task.tooltip       "Mutar al scheda del activitate">
 
 <!-- Toolbar write button -->
 <!ENTITY lightning.toolbar.newevent.label     "Evento">
