@@ -37,6 +37,7 @@
                        text for the search box.   -->
 <!ENTITY aboutPrivateBrowsing.search.placeholder         "Pretraži web">
 <!ENTITY aboutPrivateBrowsing.info.title                 "Nalazite se u privatnom prozoru">
+<!ENTITY aboutPrivateBrowsing.info.description           "&brandShortName; čisti vašu povijest pretraživanja i pregledavanja kada izađete iz aplikacije ili zatvorite sve kartice i prozore privatnog pretraživnja. Ovo vas ne čini anonimnim prema web stranicama ili vašem pružatelju internet usluga, ali znatno smanjuje mogućnost praćenja i olakšava da zadržite privatnim što radite na internetu od ostalih osoba koje koriste ovo računalo.">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article
                        about private browsing myths.   -->
 <!ENTITY aboutPrivateBrowsing.info.myths                 "Česti mitovi o privatnom pretraživanju">
