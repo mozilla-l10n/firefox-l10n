@@ -152,7 +152,7 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Adaugă excepție…">
-<!ENTITY securityOverride.exceptionButton1Label "Accept riscul și doresc să continui">
+<!ENTITY securityOverride.exceptionButton1Label "Acceptă riscul și continuă">
 
 <!ENTITY errorReporting.automatic2 "Raportează erori precum aceasta pentru a ajuta Mozilla să identifice și să blocheze site-urile rău intenționate">
 <!ENTITY errorReporting.learnMore "Află mai multe…">
