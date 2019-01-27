@@ -7,3 +7,6 @@ clear-site-data-close-key =
 clear-site-data-cancel =
     .label = Nkuvi
     .accesskey = C
+clear-site-data-clear =
+    .label = Sno
+    .accesskey = l
