@@ -8,10 +8,11 @@
 <!ENTITY loadError.label "Problem pri učitavanju stranice">
 <!ENTITY retry.label "Pokušaj ponovno">
 <!ENTITY returnToPreviousPage.label "Idi natrag">
+<!ENTITY returnToPreviousPage1.label "Natrag (preporučeno)">
 <!ENTITY advanced.label "Napredno">
 <!ENTITY continue2.label "Više…">
+<!ENTITY advanced2.label "Napredno…">
 <!ENTITY moreInformation.label "Više informacija">
-
 <!ENTITY viewCertificate.label "Pregled certifikata">
 
 <!-- Specific error messages -->
@@ -92,12 +93,12 @@
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Stranica koju pokušavate otvoriti ne može biti prikazana jer autentičnost primljenih podataka nije moguće provjeriti.</li> <li>Kontaktirajte vlasnike stranice, te ih obavijestite o ovom problemu.</li> </ul>">
 
 <!ENTITY certerror.longpagetitle1 "Vaša veza nije sigurna">
+<!ENTITY certerror.longpagetitle2 "Upozorenje: potencijalni sigurnosni rizik">
+<!ENTITY certerror.sts.longpagetitle  "Nije se spojio: potencijalni sigurnosni problem">
 <!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Vlasnik <span class='hostname'/> je pogrešno podesio svoju stranicu.  Da bismo spriječili krađu informacija, &brandShortName; se nije povezao na ovu stranicu.">
-
-
 
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Što možete učiniti?">
@@ -144,6 +145,7 @@ was trying to connect. -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> koristi sigurnosne tehnologije koje su zastarjele i podložne napadima. Napadač može jednostavno otkriti informacije za koje ste smatrali da su sigurne. Administrator web stranice će trebati popraviti poslužitelj prije nego možete posjetiti stranicu.</p><p>Kod greške: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Blokirana stranica">
+
 
 <!ENTITY clockSkewError.title "Sat na računalu je pogrešan">
 
