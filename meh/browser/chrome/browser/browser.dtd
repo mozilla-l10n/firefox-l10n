@@ -83,6 +83,10 @@ in "Search through tabs". -->
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
+<!ENTITY openFileCmd.accesskey "A">
+<!ENTITY openFileCmd.commandkey "o">
+<!ENTITY printSetupCmd.accesskey "p">
+<!ENTITY printPreviewCmd.accesskey "l">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "p">
 
@@ -109,20 +113,35 @@ toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
 <!ENTITY toolbarContextMenu.bookmarkSelectedTabs.accesskey "T">
 <!ENTITY toolbarContextMenu.selectAllTabs.accesskey "S">
+<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "D">
 
+<!ENTITY pageSourceCmd.accesskey "">
+<!ENTITY pageSourceCmd.commandkey "u">
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
 Option+Command keyboard shortcut letter that Safari and Chrome use for "View
 Source" on macOS. pageSourceCmd.commandkey above is Firefox's official keyboard
 shortcut shown in the GUI. SafariCommandKey is an alias provided for the
 convenience of Safari and Chrome users on macOS. See bug 1398988. -->
+<!ENTITY pageSourceCmd.SafariCommandKey "u">
 
+<!ENTITY pageInfoCmd.accesskey "I">
+<!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY ldbCmd.accesskey "L">
+<!ENTITY mirrorTabCmd.accesskey "M">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
+<!ENTITY enterFullScreenCmd.accesskey "P">
+<!ENTITY exitFullScreenCmd.accesskey "p">
+<!ENTITY fullScreenCmd.accesskey "P">
+<!ENTITY fullScreenCmd.macCommandKey "f">
+<!ENTITY showAllTabsCmd.accesskey "t">
 <!ENTITY toggleReaderMode.key "R">
 
 
 
 <!ENTITY fullScreenMinimize.tooltip "Nasa´a luli">
+<!ENTITY fullScreenAutohide.accesskey "O">
+<!ENTITY fullScreenExit.accesskey "c">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -134,6 +153,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
+<!ENTITY leaveDOMFullScreen.accesskey "a">
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
@@ -142,9 +162,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      sentence to their language. -->
 <!ENTITY pointerlockWarning.beforeDomain.label "">
 
+<!ENTITY closeWindow.accesskey "v">
+
+<!ENTITY bookmarksMenu.accesskey "M">
+<!ENTITY bookmarkThisPageCmd.commandkey "d">
 
 
-
+<!ENTITY backCmd.accesskey            "B">
+<!ENTITY forwardCmd.accesskey         "F">
+<!ENTITY reloadCmd.accesskey          "R">
 
 
 
