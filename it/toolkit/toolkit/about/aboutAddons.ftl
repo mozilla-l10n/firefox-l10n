@@ -212,6 +212,9 @@ extensions-updates-update-selected =
 
 shortcuts-manage =
     .label = Scorciatoie da tastiera
+manage-extensions-shortcuts =
+    .label = Gestisci scorciatoie da tastiera
+    .accesskey = G
 shortcuts-empty-message = Non sono presenti scorciatoie da tastiera per questa estensione.
 shortcuts-no-addons = Non ci sono estensioni attive.
 shortcuts-input =
