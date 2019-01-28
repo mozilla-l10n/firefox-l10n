@@ -17,4 +17,4 @@ reader-view = Olvasó nézet
 # Meant to match the string displayed in an empty URL bar.
 open-location = Keressen, vagy adjon meg címet
 share = Megosztás
-focus = Bezárás
+close-window = Ablak bezárása
