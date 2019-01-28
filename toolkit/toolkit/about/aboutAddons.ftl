@@ -212,6 +212,9 @@ extensions-updates-update-selected =
 
 shortcuts-manage =
     .label = Các phím tắt bàn phím
+manage-extensions-shortcuts =
+    .label = Quản lý phím tắt tiện ích mở rộng
+    .accesskey = s
 shortcuts-empty-message = Không có phím tắt cho tiện ích mở rộng này.
 shortcuts-no-addons = Bạn không có bất kỳ tiện ích mở rộng nào được kích hoạt.
 shortcuts-input =
@@ -224,3 +227,5 @@ shortcuts-modifier-other = Bao gồm Ctrl hoặc Alt
 shortcuts-invalid = Kết hợp không hợp lệ
 shortcuts-letter = Nhập một kí tự
 shortcuts-system = Không thể ghi đè một phím tắt { -brand-short-name }
+go-back-button =
+    .tooltiptext = Quay lại
