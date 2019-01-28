@@ -8,6 +8,8 @@
   -->
 
 <!ENTITY pref.mainbox.label "Parametros general" >
+<!ENTITY pref.dateformat.label "Formato testo data:" >
+<!ENTITY pref.dateformat.accesskey "F">
 <!ENTITY pref.dateformat.long "Longe" >
 <!ENTITY pref.dateformat.short "Curte"  >
 

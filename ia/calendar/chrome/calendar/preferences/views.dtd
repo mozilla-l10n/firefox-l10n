@@ -8,11 +8,15 @@
   -->
 
 <!ENTITY pref.calendar.view.allview.caption "General">
+<!ENTITY pref.calendar.view.dayandweekviews.caption "Vistas die e septimana">
 <!ENTITY pref.calendar.view.multiweekview.caption "Vista multe-septimanal">
 <!ENTITY pref.calendar.view.workweek.caption "Septimana laborative">
 
 <!ENTITY pref.weekstarts.label "Prime die del septimana:">
 <!ENTITY pref.weekstarts.accesskey "r">
+<!ENTITY pref.calendar.view-minimonth.showweeknumber.label "Monstrar numero del septimana in vistas e mini-mense">
+<!ENTITY pref.calendar.view-minimonth.showweeknumber.accesskey "n">
+<!ENTITY pref.daysoff.label "Dies laborative:">
 
 <!ENTITY pref.calendar.view.daystart.label "Le die comencia al:">
 <!ENTITY pref.calendar.view.daystart.accesskey "D">
@@ -22,6 +26,10 @@
 <!ENTITY pref.calendar.view.visiblehours.accesskey "o">
 <!ENTITY pref.calendar.view.visiblehoursend.label "horas al vice">
 
+<!ENTITY pref.numberofweeks.label "Numero de septimanas a exhibir (includite los anterior):">
+<!ENTITY pref.numberofweeks.accesskey "e">
+<!ENTITY pref.numberofpreviousweeks.label "Septimanas previe a monstrar:">
+<!ENTITY pref.numberofpreviousweeks.accesskey "P">
 <!ENTITY pref.numberofweeks.0 "nulle">
 <!ENTITY pref.numberofweeks.1 "1 septimana">
 <!ENTITY pref.numberofweeks.2 "2 septimanas">
