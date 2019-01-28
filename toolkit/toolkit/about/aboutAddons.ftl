@@ -209,3 +209,8 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Усталяваць абнаўленні
     .tooltiptext = Усталяваць даступныя абнаўленні з гэтага спісу
+
+## Extension shortcut management
+
+go-back-button =
+    .tooltiptext = Вярнуцца

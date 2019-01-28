@@ -47,6 +47,7 @@ app-basics-memory-use = Ужыванне памяці
 app-basics-performance = Прадукцыйнасць
 app-basics-service-workers = Зарэгістраваныя сервіс-воркеры
 app-basics-profiles = Профілі
+app-basics-launcher-process-status = Пускавы працэс
 app-basics-multi-process-support = Шматпрацэсныя вокны
 app-basics-process-count = Працэсы вэб-кантэнту
 app-basics-enterprise-policies = Карпаратыўная палітыка
@@ -249,6 +250,10 @@ effective-content-sandbox-level = Дзейны ўзровень ізаляцыі
 sandbox-proc-type-content = змесціва
 sandbox-proc-type-file = змесціва файла
 sandbox-proc-type-media-plugin = медыяплагін
+launcher-process-status-0 = Уключана
+launcher-process-status-1 = Адключана з-за збою
+launcher-process-status-2 = Прымусова адключана
+launcher-process-status-unknown = Невядомы статус
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
