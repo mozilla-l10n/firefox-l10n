@@ -216,6 +216,9 @@ extensions-updates-update-selected =
 
 shortcuts-manage =
     .label = 快速鍵
+manage-extensions-shortcuts =
+    .label = 管理擴充套件快速鍵
+    .accesskey = S
 shortcuts-empty-message = 此擴充套件沒有用到快速鍵。
 shortcuts-no-addons = 您並未啟用任何擴充套件。
 shortcuts-input =
@@ -228,3 +231,5 @@ shortcuts-modifier-other = 包含 Ctrl 或 Alt
 shortcuts-invalid = 無效的快速鍵
 shortcuts-letter = 按下一個字母
 shortcuts-system = 無法蓋過 { -brand-short-name } 的快速鍵
+go-back-button =
+    .tooltiptext = 回上一頁
