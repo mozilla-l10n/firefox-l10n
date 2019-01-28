@@ -17,4 +17,4 @@ reader-view = Vista de leitura
 # Meant to match the string displayed in an empty URL bar.
 open-location = Pesquisar ou introduzir endereço
 share = Partilhar
-focus = Fechar
+close-window = Fechar janela
