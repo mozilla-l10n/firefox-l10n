@@ -29,8 +29,6 @@ a tab (i.e. it is a verb, not adjective). -->
 <!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  duplicateTab.accesskey             "n">
-<!ENTITY  closeTabOptions.label              "Välilehtien sulkeminen">
-<!ENTITY  closeTabOptions.accesskey          "h">
 <!-- LOCALIZATION NOTE (duplicateTabs.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
 <!ENTITY  duplicateTabs.label                "Monista välilehdet">
@@ -288,7 +286,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Tallenna tietoja pysyvään tallennustilaan">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Selain on kauko-ohjauksessa">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Avaa verkkotodennuksen paneeli">
-
 <!ENTITY urlbar.storageAccessAnchor.tooltip               "Avaa selaamisen seuraamisoikeuden paneeli">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Hallinnoi kameran tai mikrofonin jakamista sivustolle">
@@ -883,6 +880,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsReloadHint "Sivu tarvitsee ehkä päivittää, jotta muutokset tulevat voimaan.">
 <!ENTITY identity.permissionsPreferences.tooltip "Avaa oikeusasetukset">
 
+<!ENTITY identity.contentBlockingPreferences.tooltip "Avaa sisällön eston asetukset">
+
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Selaimen välilehdet">
@@ -984,66 +984,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.title "Sisällön esto">
 <!ENTITY contentBlocking.detected "Estettävää sisältöä havaittiin tällä sivustolla.">
 <!ENTITY contentBlocking.notDetected "Estettävää sisältöä ei havaittu tällä sivustolla.">
-<!ENTITY contentBlocking.disabled.label "Ei käytössä">
-<!ENTITY contentBlocking.disabled.tooltip "Olet poistanut sisällön eston käytöstä.">
-<!ENTITY contentBlocking.exception.tooltip "Olet poistanut sisällön estön käytöstä tältä sivustolta.">
-
-<!ENTITY contentBlocking.fastBlock.label "Hitaasti latautuvat seuraimet">
-<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
-     This label signals that this type of content blocking is turned
-     ON and is successfully blocking malicious/slow content, so this is
-     a positive thing. It forms the end of the (imaginary) sentence
-     "Slow-Loading Trackers [are] Blocked"-->
-<!ENTITY contentBlocking.fastBlock.blocked.label "Estetty">
-<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocking.label):
-     This label signals that this type of content blocking is turned
-     ON, so this is a positive thing. It forms the verb in (imaginary) sentence
-     "Firefox is blocking Slow-Loading Trackers"-->
-<!ENTITY contentBlocking.fastBlock.blocking.label "Estetään">
-<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
-     This is displayed as a link to preferences, where the user can add
-     this specific type of content blocking. When this text is shown
-     the type of content blocking is currently not enabled. -->
-<!ENTITY contentBlocking.fastBlock.add.label "Lisää esto…">
-
-<!ENTITY contentBlocking.trackingProtection2.label "Kaikki havaitut seuraimet">
 
 <!ENTITY contentBlocking.trackingProtection3.label "Seuraimet">
-<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
-     This label signals that this type of content blocking is turned
-     ON and is successfully blocking tracker content, so this is
-     a positive thing. It forms the end of the (imaginary) sentence
-     "Trackers [are] Blocked"-->
-<!ENTITY contentBlocking.trackingProtection.blocked.label "Estetty">
-<!-- LOCALIZATION NOTE (contentBlocking.tranckingProtection.blocking.label):
-     This label signals that this type of content blocking is turned
-     ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
-     "Firefox is blocking Trackers"-->
-<!ENTITY contentBlocking.trackingProtection.blocking.label "Estetään">
-<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
-     This is displayed as a link to preferences, where the user can add
-     this specific type of content blocking. When this text is shown
-     the type of content blocking is currently not enabled. -->
-<!ENTITY contentBlocking.trackingProtection.add.label "Lisää esto…">
-
-<!ENTITY contentBlocking.3rdPartyCookies.label "Kolmannen osapuolen evästeet">
-<!ENTITY contentBlocking.3rdPartyCookies.trackers.label "Seurainevästeet">
-<!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.blocked.label):
-     This label signals that this type of content blocking is turned
-     ON and is successfully blocking third-party cookies, so this is
-     a positive thing. It forms the end of the (imaginary) sentence
-     "Third-Party Cookies [are] Blocked"-->
-<!ENTITY contentBlocking.3rdPartyCookies.blocked.label "Estetty">
-<!-- LOCALIZATION NOTE (contentBlocking.tranckingProtection.blocking.label):
-     This label signals that this type of content blocking is turned
-     ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
-     "Firefox is blocking Third-Party Cookies"-->
-<!ENTITY contentBlocking.3rdPartyCookies.blocking.label "Estetään">
-<!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.add.label):
-     This is displayed as a link to preferences, where the user can add
-     this specific type of content blocking. When this text is shown
-     the type of content blocking is currently not enabled. -->
-<!ENTITY contentBlocking.3rdPartyCookies.add.label "Lisää esto…">
 
 <!ENTITY contentBlocking.manageSettings.label "Hallitse sisällön estämistä">
 <!ENTITY contentBlocking.manageSettings.accesskey "H">
@@ -1063,22 +1005,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Lähetä ilmoitus">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Peruuta">
 
-<!ENTITY trackingProtection.title "Seurannan suojaus">
-<!ENTITY trackingProtection.tooltip "Avaa seurannan suojauksen asetukset">
-
-<!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock4.label "Poista esto käytöstä tältä sivustolta">
-<!ENTITY trackingProtection.unblock4.accesskey "P">
-<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate4.label "Poista esto käytöstä väliaikaisesti">
-<!ENTITY trackingProtection.unblockPrivate4.accesskey "P">
-<!ENTITY trackingProtection.block5.label "Ota esto käyttöön tälle sivustolle">
-<!ENTITY trackingProtection.block5.accesskey "O">
-
 <!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
@@ -1096,11 +1022,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pluginNotification.showAll.label "Näytä kaikki">
 <!ENTITY pluginNotification.showAll.accesskey "N">
-
-<!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
-<!ENTITY pluginActivateNow.label "Salli nyt">
-<!ENTITY pluginActivateAlways.label "Salli ja muista valinta">
-<!ENTITY pluginBlockNow.label "Estä liitännäinen">
 
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
      width of the plugin popup notification that can appear if a plugin has been
