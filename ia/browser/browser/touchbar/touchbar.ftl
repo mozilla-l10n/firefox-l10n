@@ -17,4 +17,4 @@ reader-view = Vista de lectura
 # Meant to match the string displayed in an empty URL bar.
 open-location = Insere un adresse o face un recerca
 share = Compartir
-focus = Clauder
+close-window = Clauder fenestra

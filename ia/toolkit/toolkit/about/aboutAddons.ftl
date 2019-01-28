@@ -217,6 +217,9 @@ extensions-updates-update-selected =
 
 shortcuts-manage =
     .label = Vias breve de claviero
+manage-extensions-shortcuts =
+    .label = Gerer le vias breve del extension
+    .accesskey = V
 shortcuts-empty-message = Il non ha vias breve in iste extension
 shortcuts-no-addons = Tu non ha ulle extensiones activate
 shortcuts-input =
@@ -229,3 +232,5 @@ shortcuts-modifier-other = Include Ctrl o Alt
 shortcuts-invalid = Combination non valide
 shortcuts-letter = Scribe un littera
 shortcuts-system = Impossibile supplantar un via breve de { -brand-short-name }
+go-back-button =
+    .tooltiptext = Regreder
