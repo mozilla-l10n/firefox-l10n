@@ -29,8 +29,6 @@ a tab (i.e. it is a verb, not adjective). -->
 <!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  duplicateTab.accesskey             "ك">
-<!ENTITY  closeTabOptions.label              "خيارات إغلاق اللسان">
-<!ENTITY  closeTabOptions.accesskey          "ت">
 <!-- LOCALIZATION NOTE (duplicateTabs.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
 <!ENTITY  duplicateTabs.label                "كرّر الألسنة">
@@ -288,7 +286,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "حفظ البيانات في مساحة تخزين دائمة">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "يخضع المتصفح للتحكم عن بعد">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "افتح لوحة استيثاق الوِب">
-
 <!ENTITY urlbar.storageAccessAnchor.tooltip               "افتح لوحة تصاريح نشاط التصفّح">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "أدر مشاركة كمرتك و ميكروفونك مع هذا الموقع">
@@ -319,7 +316,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "البداية">
-<!ENTITY homeButton.defaultPage.tooltip "صفحة &brandShortName; الرئيسية">
+<!ENTITY homeButton.defaultPage.tooltip "صفحة بداية &brandShortName;">
 
 <!ENTITY bookmarksButton.label          "العلامات">
 <!ENTITY bookmarksCmd.commandkey "b">
@@ -883,6 +880,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsReloadHint "قد تحتاج إعادة تحميل الصفحة لتطبيق التغييرات.">
 <!ENTITY identity.permissionsPreferences.tooltip "افتح تفضيلات التصاريح">
 
+
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "ألسنة المتصفح">
@@ -984,66 +983,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.title "حجب المحتوى">
 <!ENTITY contentBlocking.detected "اكتُشف في هذا الموقع محتوى يمكن حجبه.">
 <!ENTITY contentBlocking.notDetected "لم يكتُشف في هذا الموقع أي محتوى يمكن حجبه.">
-<!ENTITY contentBlocking.disabled.label "معطّل">
-<!ENTITY contentBlocking.disabled.tooltip "عطّلت حجب المحتوى.">
-<!ENTITY contentBlocking.exception.tooltip "عطّلت حجب المحتوى في هذا الموقع.">
-
-<!ENTITY contentBlocking.fastBlock.label "المتعقّبات بطيئة التحميل">
-<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
-     This label signals that this type of content blocking is turned
-     ON and is successfully blocking malicious/slow content, so this is
-     a positive thing. It forms the end of the (imaginary) sentence
-     "Slow-Loading Trackers [are] Blocked"-->
-<!ENTITY contentBlocking.fastBlock.blocked.label "محجوبة">
-<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocking.label):
-     This label signals that this type of content blocking is turned
-     ON, so this is a positive thing. It forms the verb in (imaginary) sentence
-     "Firefox is blocking Slow-Loading Trackers"-->
-<!ENTITY contentBlocking.fastBlock.blocking.label "محجوبة">
-<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
-     This is displayed as a link to preferences, where the user can add
-     this specific type of content blocking. When this text is shown
-     the type of content blocking is currently not enabled. -->
-<!ENTITY contentBlocking.fastBlock.add.label "أضِف نوع حجب…">
-
-<!ENTITY contentBlocking.trackingProtection2.label "كل المتعقّبات المكتشفة">
 
 <!ENTITY contentBlocking.trackingProtection3.label "المتعقّبات">
-<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
-     This label signals that this type of content blocking is turned
-     ON and is successfully blocking tracker content, so this is
-     a positive thing. It forms the end of the (imaginary) sentence
-     "Trackers [are] Blocked"-->
-<!ENTITY contentBlocking.trackingProtection.blocked.label "محجوبة">
-<!-- LOCALIZATION NOTE (contentBlocking.tranckingProtection.blocking.label):
-     This label signals that this type of content blocking is turned
-     ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
-     "Firefox is blocking Trackers"-->
-<!ENTITY contentBlocking.trackingProtection.blocking.label "محجوبة">
-<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
-     This is displayed as a link to preferences, where the user can add
-     this specific type of content blocking. When this text is shown
-     the type of content blocking is currently not enabled. -->
-<!ENTITY contentBlocking.trackingProtection.add.label "أضِف نوع حجب…">
-
-<!ENTITY contentBlocking.3rdPartyCookies.label "كعكات الأطراف الثالثة">
-<!ENTITY contentBlocking.3rdPartyCookies.trackers.label "الكعكات المتعقِّبة">
-<!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.blocked.label):
-     This label signals that this type of content blocking is turned
-     ON and is successfully blocking third-party cookies, so this is
-     a positive thing. It forms the end of the (imaginary) sentence
-     "Third-Party Cookies [are] Blocked"-->
-<!ENTITY contentBlocking.3rdPartyCookies.blocked.label "محجوبة">
-<!-- LOCALIZATION NOTE (contentBlocking.tranckingProtection.blocking.label):
-     This label signals that this type of content blocking is turned
-     ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
-     "Firefox is blocking Third-Party Cookies"-->
-<!ENTITY contentBlocking.3rdPartyCookies.blocking.label "محجوبة">
-<!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.add.label):
-     This is displayed as a link to preferences, where the user can add
-     this specific type of content blocking. When this text is shown
-     the type of content blocking is currently not enabled. -->
-<!ENTITY contentBlocking.3rdPartyCookies.add.label "أضِف نوع حجب…">
 
 <!ENTITY contentBlocking.manageSettings.label "أدِر حجب المحتوى">
 <!ENTITY contentBlocking.manageSettings.accesskey "د">
@@ -1063,22 +1004,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "أرسِل البلاغ">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "ألغِ">
 
-<!ENTITY trackingProtection.title "الحماية من التعقّب">
-<!ENTITY trackingProtection.tooltip "افتح تفضيلات الحماية من التعقّب">
-
-<!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock4.label "عطّل الحجب في هذا الموقع">
-<!ENTITY trackingProtection.unblock4.accesskey "ط">
-<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate4.label "عطّل الحجب مؤقتًا">
-<!ENTITY trackingProtection.unblockPrivate4.accesskey "ط">
-<!ENTITY trackingProtection.block5.label "فعّل الحجب في هذا الموقع">
-<!ENTITY trackingProtection.block5.accesskey "ف">
-
 <!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
@@ -1096,11 +1021,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pluginNotification.showAll.label "أظهر الكل">
 <!ENTITY pluginNotification.showAll.accesskey "ظ">
-
-<!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
-<!ENTITY pluginActivateNow.label "اسمح الآن">
-<!ENTITY pluginActivateAlways.label "اسمح و تذكّر">
-<!ENTITY pluginBlockNow.label "احجب الملحقة">
 
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
      width of the plugin popup notification that can appear if a plugin has been
