@@ -212,6 +212,9 @@ extensions-updates-update-selected =
 
 shortcuts-manage =
     .label = Tangentbordsgenvägar
+manage-extensions-shortcuts =
+    .label = Hantera genvägar för tillägg
+    .accesskey = g
 shortcuts-empty-message = Det finns inga genvägar för det här tillägget.
 shortcuts-no-addons = Du har inga tillägg aktiverade.
 shortcuts-input =
@@ -224,3 +227,5 @@ shortcuts-modifier-other = Inkludera Ctrl eller Alt
 shortcuts-invalid = Ogiltig kombination
 shortcuts-letter = Skriv en bokstav
 shortcuts-system = Kan inte skriva över en { -brand-short-name } genväg
+go-back-button =
+    .tooltiptext = Gå tillbaka
