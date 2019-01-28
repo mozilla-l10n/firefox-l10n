@@ -212,6 +212,9 @@ extensions-updates-update-selected =
 
 shortcuts-manage =
     .label = Tastowe skrotconki
+manage-extensions-shortcuts =
+    .label = Tastowe skrotconki rozšyrjenjow zastojaś
+    .accesskey = T
 shortcuts-empty-message = Njedaju tastowe skrotconki za toś to rozšyrjenje.
 shortcuts-no-addons = Njejśco zmóžnił žedne rozšyrjenja.
 shortcuts-input =
@@ -224,3 +227,5 @@ shortcuts-modifier-other = Strg abo Alt zapśimjeś
 shortcuts-invalid = Njepłaśiwa kombinacija
 shortcuts-letter = Zapódajśo pismik
 shortcuts-system = Tastowa skrotconka { -brand-short-name } njedajo se pśepisaś
+go-back-button =
+    .tooltiptext = Slědk
