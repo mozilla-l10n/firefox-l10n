@@ -17,4 +17,4 @@ reader-view = Cytański naglěd
 # Meant to match the string displayed in an empty URL bar.
 open-location = Pytaś abo adresu zapódaś
 share = Źěliś
-focus = Zacyniś
+close-window = Wokno zacyniś

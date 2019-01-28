@@ -4,10 +4,6 @@
 
 do-not-track-description = Websedłam signal “Njeslědowaś” pósłaś, až njocośo, až wóne was slěduju
 do-not-track-learn-more = Dalšne informacije
-do-not-track-option-default =
-    .label = Jano, gaž se slědowański šćit wužywa
-do-not-track-option-default-content-blocking =
-    .label = Jano, gaž jo w { -brand-short-name } nastajone, až se namakane pśeslědowaki blokěruju.
 do-not-track-option-default-content-blocking-known =
     .label = Janog gaž w { -brand-short-name } jo blokěrowanje znatych pśeslědowakow  nastajone
 do-not-track-option-always =
@@ -95,9 +91,6 @@ extension-controlled-default-search = Rozšyrjenje, <img data-l10n-name="icon"/>
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = Rozšyrjenje, <img data-l10n-name="icon"/> { $name }, se kontejnerowe rejtark pomina.
-# This string is shown to notify the user that their tracking protection preferences
-# are being controlled by an extension.
-extension-controlled-websites-tracking-protection-mode = Rozšyrjenje, <img data-l10n-name="icon"/> { $name }, slědowański šćit kontrolěrujo.
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
 extension-controlled-websites-content-blocking-all-trackers = Rozšyrjenje, <img data-l10n-name="icon"/> { $name }, toś to nastajenje kontrolěrujo.
@@ -292,6 +285,7 @@ update-application-check-choose =
 update-application-manual =
     .label = Nigda za aktualizacijami njepytaś (njepśiraźijo se)
     .accesskey = i
+update-application-warning-cross-user-setting = Toś to nastajenje se na wšykne konta Windows a profile { -brand-short-name } nałožujo, kótarež toś tu instalaciju { -brand-short-name } wužywaju.
 update-application-use-service =
     .label = Slězynowu słužbu za instalěrowanje aktualizacijow wužywaś
     .accesskey = S
@@ -612,12 +606,6 @@ sitedata-total-size-calculating = Wjelikosć sedłowych datow a purfowaka se wul
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Waše skłaźone cookieje, sedłowe daty a pufrowak se tuchylu { $value } { $unit } platowego ruma wužywaju.
 sitedata-learn-more = Dalšne informacije
-sitedata-keep-until = Wobchowaś
-    .accesskey = b
-sitedata-keep-until-expire =
-    .label = až njepśepadnu
-sitedata-keep-until-closed =
-    .label = { -brand-short-name } se njezacynijo
 sitedata-delete-on-close =
     .label = Cookieje a sedłowe daty wulašowaś, gaž se { -brand-short-name } zacynja
     .accesskey = s
@@ -632,16 +620,6 @@ sitedata-disallow-cookies-option =
 # The list items are the strings named sitedata-block-*-option*.
 sitedata-block-desc = Blokěrowany typ
     .accesskey = t
-sitedata-block-trackers-option-recommended =
-    .label = Pśeslědowaki tśeśich (dopórucone)
-sitedata-block-trackers-option =
-    .label = Pśeslědowaki tśeśich
-sitedata-block-unvisited-option =
-    .label = Cookieje z njewoglědanych websedłow
-sitedata-block-all-third-party-option =
-    .label = Wšykne cookieje tśeśich (móžo zawinowaś, až websedła njefunkcioněruju)
-sitedata-block-all-option =
-    .label = Wšykne cookieje (buźo zawinowaś, až websedła njefunkcioněruju)
 sitedata-option-block-trackers =
     .label = Pśeslědowaki tśeśich
 sitedata-option-block-unvisited =
@@ -656,13 +634,6 @@ sitedata-clear =
 sitedata-settings =
     .label = Daty zastojaś…
     .accesskey = D
-sitedata-cookies-exceptions =
-    .label = Wuwześa…
-    .accesskey = W
-# This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
-# in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
-# Cookies and Site Data section.
-sitedata-warning-your-settings-prevent-changes = Waše nastajenja blokěrowanja wopśimjeśa změnam na nastajenjach cookiejow a sedłowych datow zajźujo.
 sitedata-cookies-permissions =
     .label = Pšawa zastojaś
     .accesskey = P
@@ -685,41 +656,8 @@ addressbar-suggestions-settings = Nastajenja za naraźenja pytnice změniś
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Blokěrowanje wopśimjeśa
-content-blocking-desc = Blokěrujśo wopśimjeśe tśeśich póbitowarjow ako wabjenje abo kod, kótarež móžo wašo pśeglědowanje spómałšyś a was pśez web pśeslědowaś. Pśiměŕśo swóje nastajenja za nejlěpšu balansu mjazy šćitom a wugbaśim.
 content-blocking-description = Blokěrujśo wopśimjeśe tśeśich, kótarež wam pó webje slědujo. Kontrolěrujśo, kak cesto se waša aktiwita online składujo a mjazy websedłami źěli.
 content-blocking-learn-more = Dalšne informacije
-content-blocking-restore-defaults =
-    .label = Standard wótnowiś
-    .accesskey = S
-content-blocking-toggle-on =
-    .tooltiptext = Blokěrowanje wopśimjeśa wušaltowaś
-content-blocking-toggle-off =
-    .tooltiptext = Blokěrowanje wopśimjeśa zašaltowaś
-content-blocking-toggle-label-on = ZAŠALTOWANE
-    .accesskey = Z
-content-blocking-toggle-label-off = WUŠALTOWANE
-    .accesskey = U
-content-blocking-category-label = Wubjeŕśo, což ma se blokěrowaś
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-slow-loading-trackers-label =
-    .label = Pómałem cytajuce pśeslědowaki
-    .accesskey = P
-content-blocking-fastblock-new-description = Jano pśeslědowaki blokěrowaś, kótarež bokam malsne zacyitanje zawoborujo.
-content-blocking-tracking-protection-trackers-label =
-    .label = Pśeslědowaki
-    .accesskey = P
-content-blocking-tracking-protection-all-detected-trackers-label =
-    .label = Wšykne namakane pśeslědowaki
-    .accesskey = s
-content-blocking-tracking-protection-new-description = Wšykne znate pśeslědowaki blokěrowaś. (Móžo někotarym bokam zacytanje zawoborowaś.)
-content-blocking-tracking-protection-option-always =
-    .label = Pśecej
-    .accesskey = P
-content-blocking-tracking-protection-option-private =
-    .label = Jano w priwatnych woknach
-    .accesskey = J
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 content-blocking-setting-standard =
@@ -752,51 +690,12 @@ content-blocking-option-private =
     .label = Jano w priwatnych woknach
     .accesskey = J
 content-blocking-tracking-protection-change-block-list = Blokěrowańsku lisćinu změniś
-content-blocking-third-party-cookies-label =
-    .label = Cookieje tśeśich póbitowarjow
-    .accesskey = C
-content-blocking-reject-trackers-description = Wšykne cookieje tśeśich blokěrowaś abo jano te, kótarež pśeslědowaki su stajili.
-# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
-# of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
-# or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
-# the UI.
-content-blocking-reject-trackers-warning-your-settings-prevent-changes = Waše nastajenja cookiejow a sedłowych datow změnam na nastajenjam cookiejow tśeśich zajźuju.
-content-blocking-change-cookie-settings =
-    .label = Nastajenja cookiejow změniś
-    .accesskey = N
-content-blocking-reject-trackers-block-trackers-option-recommended =
-    .label = Pśeslědowaki (pśiraźone)
-    .accesskey = l
-content-blocking-reject-trackers-block-trackers-option =
-    .label = Pśeslědowaki
-    .accesskey = d
-content-blocking-reject-trackers-all-third-parties-option =
-    .label = Wšykne cookieje tśeśich (móžo zawinowaś, až websedła njefunkcioněruju)
-    .accesskey = t
 content-blocking-cookies-label =
     .label = Cookieje
     .accesskey = C
 
 ## Privacy Section - Tracking
 
-tracking-header = Slědowański šćit
-tracking-desc = Slědowański šćit pśeslědowaki online blokěrujo, kótarež waše pśeglědowańske daty pśez někotare websedła gromaźe. <a data-l10n-name="learn-more">Zgóńśo wěcej wó slědowańskem šćiśe a swójej priwatnosći</a>
-tracking-mode-label = Slědowański šćit wužywaś, aby blokěrował znate pśeslědowaki
-tracking-mode-always =
-    .label = Pśecej
-    .accesskey = c
-tracking-mode-private =
-    .label = Jano w priwatnych woknach
-    .accesskey = o
-tracking-mode-never =
-    .label = Nigda
-    .accesskey = N
-tracking-exceptions =
-    .label = Wuwześa…
-    .accesskey = u
-tracking-change-block-list =
-    .label = Blokěrowańsku lisćinu změniś…
-    .accesskey = z
 tracking-manage-exceptions =
     .label = Wuwześa zastojaś…
     .accesskey = u
@@ -828,6 +727,9 @@ permissions-block-autoplay-media =
     .label = Websedłam zakazaś, medije ze zukom wótgraś
     .accesskey = z
 permissions-block-autoplay-media-menu = Za websedła, kótarež zuk awtomatiski wótgrawaju
+permissions-block-autoplay-media2 =
+    .label = Websedłam awtomatiske wótgrawanje zuka zawoboraś
+    .accesskey = b
 permissions-block-autoplay-media-exceptions =
     .label = Wuwześa…
     .accesskey = u
