@@ -58,10 +58,10 @@ permissions-invalid-uri-label = Lütfen keçerli bir qonaqbay-ismi kirsetiñiz
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-tracking-protection-window =
-    .title = İstisnalar - İzlenme İmayesi
+permissions-exceptions-content-blocking-window =
+    .title = İstisnalar - Muhteva Bloklaması
     .style = { permissions-window.style }
-permissions-exceptions-tracking-protection-desc = Bu ağ-saytlarında İzlenme İmayesini naqabilleştirgen olasıñız.
+permissions-exceptions-content-blocking-desc = Bu ağ-saytlarında muhteva bloklamasını naqabilleştirgen olasıñız.
 
 ## Exceptions - Cookies
 
