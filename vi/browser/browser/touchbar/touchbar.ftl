@@ -17,4 +17,4 @@ reader-view = Chế độ đọc sách
 # Meant to match the string displayed in an empty URL bar.
 open-location = Tìm kiếm hoặc nhập địa chỉ
 share = Chia sẻ
-focus = Đóng
+close-window = Đóng cửa sổ
