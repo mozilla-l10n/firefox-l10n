@@ -212,6 +212,9 @@ extensions-updates-update-selected =
 
 shortcuts-manage =
     .label = 键盘快捷键
+manage-extensions-shortcuts =
+    .label = 管理扩展快捷键
+    .accesskey = S
 shortcuts-empty-message = 此扩展没有快捷键。
 shortcuts-no-addons = 您没有启用任何扩展。
 shortcuts-input =

@@ -4,10 +4,6 @@
 
 do-not-track-description = 向网站发出“请勿跟踪”信号，示明您不想被跟踪
 do-not-track-learn-more = 详细了解
-do-not-track-option-default =
-    .label = 仅限使用跟踪保护时
-do-not-track-option-default-content-blocking =
-    .label = 仅当 { -brand-short-name } 设为拦截检测到的跟踪器
 do-not-track-option-default-content-blocking-known =
     .label = 仅当 { -brand-short-name } 设置为拦截已知跟踪器时
 do-not-track-option-always =
@@ -95,9 +91,6 @@ extension-controlled-default-search = 您的默认搜索引擎由扩展 <img dat
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = 扩展 <img data-l10n-name="icon"/> { $name } 需要启用身份标签页功能才能使用。
-# This string is shown to notify the user that their tracking protection preferences
-# are being controlled by an extension.
-extension-controlled-websites-tracking-protection-mode = 跟踪保护功能由扩展 <img data-l10n-name="icon"/> { $name } 控制。
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
 extension-controlled-websites-content-blocking-all-trackers = 扩展 <img data-l10n-name="icon"/> { $name } 正在控制此设置。
@@ -602,12 +595,6 @@ sitedata-total-size-calculating = 正在计算网站数据和缓存的大小…
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = 您已存储的 Cookie、网站数据和缓存目前使用了 { $value } { $unit } 磁盘空间。
 sitedata-learn-more = 详细了解
-sitedata-keep-until = 保存，直到
-    .accesskey = u
-sitedata-keep-until-expire =
-    .label = 它们过期
-sitedata-keep-until-closed =
-    .label = { -brand-short-name } 关闭
 sitedata-delete-on-close =
     .label = 关闭 { -brand-short-name } 时删除 Cookie 与网站数据
     .accesskey = C
@@ -622,16 +609,6 @@ sitedata-disallow-cookies-option =
 # The list items are the strings named sitedata-block-*-option*.
 sitedata-block-desc = 阻止类型
     .accesskey = T
-sitedata-block-trackers-option-recommended =
-    .label = 第三方跟踪器（推荐）
-sitedata-block-trackers-option =
-    .label = 第三方跟踪器
-sitedata-block-unvisited-option =
-    .label = 未访问网站的 Cookie
-sitedata-block-all-third-party-option =
-    .label = 所有第三方 Cookie（可能导致网站异常）
-sitedata-block-all-option =
-    .label = 所有 Cookie（将会导致网站异常）
 sitedata-option-block-trackers =
     .label = 第三方跟踪器
 sitedata-option-block-unvisited =
@@ -646,13 +623,6 @@ sitedata-clear =
 sitedata-settings =
     .label = 管理数据…
     .accesskey = M
-sitedata-cookies-exceptions =
-    .label = 例外…
-    .accesskey = E
-# This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
-# in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
-# Cookies and Site Data section.
-sitedata-warning-your-settings-prevent-changes = 您的内容拦截设置不允许更改 Cookie 和网站数据的设置。
 sitedata-cookies-permissions =
     .label = 管理权限…
     .accesskey = P
@@ -675,41 +645,8 @@ addressbar-suggestions-settings = 更改搜索引擎建议的首选项
 ## Privacy Section - Content Blocking
 
 content-blocking-header = 内容拦截
-content-blocking-desc = 拦截可能减慢您浏览速度且在网络上跟踪您的广告、代码等第三方内容。您可自行设置以在保护与性能之间达到最佳平衡。
 content-blocking-description = 拦截会在网络上跟踪您的第三方内容。控制您要让不同网站存储并共享多少在线行为。
 content-blocking-learn-more = 详细了解
-content-blocking-restore-defaults =
-    .label = 恢复默认设置
-    .accesskey = R
-content-blocking-toggle-on =
-    .tooltiptext = 关闭内容拦截
-content-blocking-toggle-off =
-    .tooltiptext = 开启内容拦截
-content-blocking-toggle-label-on = 开
-    .accesskey = O
-content-blocking-toggle-label-off = 关
-    .accesskey = O
-content-blocking-category-label = 选择要拦截的内容
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-slow-loading-trackers-label =
-    .label = 减慢加载的跟踪器
-    .accesskey = S
-content-blocking-fastblock-new-description = 拦截减慢页面加载速度的跟踪器。
-content-blocking-tracking-protection-trackers-label =
-    .label = 跟踪器
-    .accesskey = T
-content-blocking-tracking-protection-all-detected-trackers-label =
-    .label = 检测到的所有跟踪器
-    .accesskey = T
-content-blocking-tracking-protection-new-description = 拦截已知的所有跟踪器。（可能影响某些页面的加载。）
-content-blocking-tracking-protection-option-always =
-    .label = 始终
-    .accesskey = A
-content-blocking-tracking-protection-option-private =
-    .label = 仅在隐私窗口中
-    .accesskey = P
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 content-blocking-setting-standard =
@@ -742,51 +679,12 @@ content-blocking-option-private =
     .label = 仅在隐私窗口中
     .accesskey = p
 content-blocking-tracking-protection-change-block-list = 更换拦截列表
-content-blocking-third-party-cookies-label =
-    .label = 第三方 Cookie
-    .accesskey = C
-content-blocking-reject-trackers-description = 拦截所有第三方 Cookie，或只拦截跟踪器设置的 Cookie。
-# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
-# of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
-# or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
-# the UI.
-content-blocking-reject-trackers-warning-your-settings-prevent-changes = 您的 Cookie 和网站数据设置不允许更改第三方 Cookie 的设置。
-content-blocking-change-cookie-settings =
-    .label = 更改 Cookie 设置
-    .accesskey = S
-content-blocking-reject-trackers-block-trackers-option-recommended =
-    .label = 跟踪器（推荐）
-    .accesskey = k
-content-blocking-reject-trackers-block-trackers-option =
-    .label = 跟踪器
-    .accesskey = k
-content-blocking-reject-trackers-all-third-parties-option =
-    .label = 所有第三方 Cookie（可能导致网站故障）
-    .accesskey = A
 content-blocking-cookies-label =
     .label = Cookie
     .accesskey = C
 
 ## Privacy Section - Tracking
 
-tracking-header = 跟踪保护
-tracking-desc = 跟踪保护功能可阻止跟踪者在不同网站间收集您的浏览数据。 <a data-l10n-name="learn-more">详细了解跟踪保护和您的隐私</a>
-tracking-mode-label = 使用跟踪保护功能拦截已知的跟踪器
-tracking-mode-always =
-    .label = 始终
-    .accesskey = y
-tracking-mode-private =
-    .label = 只在隐私窗口中
-    .accesskey = l
-tracking-mode-never =
-    .label = 永不
-    .accesskey = n
-tracking-exceptions =
-    .label = 例外…
-    .accesskey = x
-tracking-change-block-list =
-    .label = 更换拦截列表…
-    .accesskey = C
 tracking-manage-exceptions =
     .label = 管理例外…
     .accesskey = x
@@ -818,6 +716,9 @@ permissions-block-autoplay-media =
     .label = 阻止网站自动播放有声媒体内容
     .accesskey = B
 permissions-block-autoplay-media-menu = 自动播放声音的网站
+permissions-block-autoplay-media2 =
+    .label = 阻止网站自动播放声音
+    .accesskey = B
 permissions-block-autoplay-media-exceptions =
     .label = 例外…
     .accesskey = E
