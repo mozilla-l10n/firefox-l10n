@@ -17,4 +17,4 @@ reader-view = Čitanski napohlad
 # Meant to match the string displayed in an empty URL bar.
 open-location = Pytać abo adresu zapodać
 share = Dźělić
-focus = Začinić
+close-window = Wokno začinić
