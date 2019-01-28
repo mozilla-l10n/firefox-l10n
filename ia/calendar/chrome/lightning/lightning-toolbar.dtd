@@ -8,8 +8,11 @@
 <!ENTITY lightning.toolbar.task.name.accesskey "A">
 
 <!ENTITY lightning.toolbar.sync.label "Synchronisar">
+<!ENTITY lightning.toolbar.sync.tooltip "Recargar agendas e synchronisar le cambios">
 <!ENTITY lightning.toolbar.delete.label "Deler">
+<!ENTITY lightning.toolbar.delete.tooltip "Deler evento o activitate seligite">
 <!ENTITY lightning.toolbar.edit.label "Rediger">
+<!ENTITY lightning.toolbar.edit.tooltip "Rediger evento o activitate seligite">
 <!ENTITY lightning.toolbar.gototoday.label "Ir a hodie">
 <!ENTITY lightning.toolbar.gototoday.tooltip "Ir a hodie">
 <!ENTITY lightning.toolbar.print.label "Imprimer">
@@ -21,6 +24,7 @@
 <!ENTITY lightning.toolbar.calendar.accesskey "A">
 <!ENTITY lightning.toolbar.task.label         "Activitates">
 <!ENTITY lightning.toolbar.task.tooltip       "Mutar al scheda del activitate">
+<!ENTITY lightning.toolbar.task.accesskey     "S">
 
 <!-- Toolbar write button -->
 <!ENTITY lightning.toolbar.newevent.label     "Evento">
@@ -40,5 +44,8 @@
 <!-- LOCALIZATION NOTE: the same as appmenuButton.label and appmenuButton1.tooltip
      from messenger.dtd -->
 <!ENTITY lightning.toolbar.appmenuButton.label       "AppMenu">
+<!ENTITY lightning.toolbar.appmenuButton1.tooltip    "Montrar le menu de &brandShortName;">
+<!ENTITY lightning.toolbar.calendarmenu.label        "Pannello del agenda">
+<!ENTITY lightning.toolbar.calendarmenu.accesskey    "P">
 <!ENTITY lightning.toolbar.calendarpane.label        "Visualisar le quadro de agenda">
 <!ENTITY lightning.toolbar.calendarpane.accesskey    "Q">
