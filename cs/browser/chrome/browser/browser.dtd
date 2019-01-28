@@ -316,7 +316,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "Domů">
-<!ENTITY homeButton.defaultPage.tooltip "Úvodní stránka &brandShortName;">
+<!ENTITY homeButton.defaultPage.tooltip "Otevře domovskou stránku aplikace &brandShortName;">
 
 <!ENTITY bookmarksButton.label          "Záložky">
 <!ENTITY bookmarksCmd.commandkey "b">
