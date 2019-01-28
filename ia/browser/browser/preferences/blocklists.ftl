@@ -28,3 +28,5 @@ blocklist-item-moz-std-name = Disconnect.me basic protection (Recommendate).
 blocklist-item-moz-std-desc = Permitter alcun traciatores a fin que le sitos web functiona correctemente.
 blocklist-item-moz-full-name = Protection stricte de Disconnect.me.
 blocklist-item-moz-full-desc = Blocar le traciatores cognoscite. Alcun sitos web potera non functionar correctemente.
+blocklist-item-moz-std-listName = Lista de blocada nivello 1 (Recommendate).
+blocklist-item-moz-full-listName = Lista de blocada nivello 2.
