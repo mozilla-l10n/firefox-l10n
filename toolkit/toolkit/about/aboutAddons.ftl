@@ -214,6 +214,9 @@ extensions-updates-update-selected =
 
 shortcuts-manage =
     .label = Atalhos de teclado
+manage-extensions-shortcuts =
+    .label = Gira atalhos de extensões
+    .accesskey = s
 shortcuts-empty-message = Não existem atalhos para esta extensão.
 shortcuts-no-addons = Não tem quaisquer extensões ativadas.
 shortcuts-input =
@@ -226,3 +229,5 @@ shortcuts-modifier-other = Incluir Ctrl ou Alt
 shortcuts-invalid = Combinação inválida
 shortcuts-letter = Escrever uma letra
 shortcuts-system = Não é possível sobrepor um atalho do { -brand-short-name }
+go-back-button =
+    .tooltiptext = Retroceder
