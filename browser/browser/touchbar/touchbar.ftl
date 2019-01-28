@@ -17,4 +17,4 @@ reader-view = 阅读器视图
 # Meant to match the string displayed in an empty URL bar.
 open-location = 搜索或输入网址
 share = 共享
-focus = 关闭
+close-window = 关闭窗口
