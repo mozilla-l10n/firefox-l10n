@@ -9,6 +9,7 @@
 
 <!ENTITY pref.categories.new.title "Nove categoria">
 <!ENTITY pref.categories.newButton.label "Nove…">
+<!ENTITY pref.categories.newButton.accesskey "N">
 <!ENTITY pref.categories.edit.title "Rediger categoria">
 <!ENTITY pref.categories.editButton.label "Rediger…">
 <!ENTITY pref.categories.editButton.accesskey "R">
@@ -18,5 +19,6 @@
 <!ENTITY pref.categories.color.label "Color">
 <!ENTITY pref.categories.usecolor.label "Usar color">
 <!ENTITY pref.categories.none.label "(nulle)">
+<!ENTITY pref.categories.overwrite "Il ha jam un categoria con iste nomine. \n Substituer?">
 <!ENTITY pref.categories.overwrite.title "Attention: nomine duplicate">
 <!ENTITY pref.categories.noBlankCategories "Tu debe inserer un nomine de categoria.">
