@@ -4,10 +4,6 @@
 
 do-not-track-description = Send websites a “Do Not Track” signal that you don’t want to be tracked
 do-not-track-learn-more = Learn more
-do-not-track-option-default =
-    .label = Only when using Tracking Protection
-do-not-track-option-default-content-blocking =
-    .label = Only when { -brand-short-name } is set to block Detected Trackers
 do-not-track-option-default-content-blocking-known =
     .label = Only when { -brand-short-name } is set to block known trackers
 do-not-track-option-always =
@@ -95,9 +91,6 @@ extension-controlled-default-search = An extension, <img data-l10n-name="icon"/>
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = An extension, <img data-l10n-name="icon"/> { $name }, requires Container Tabs.
-# This string is shown to notify the user that their tracking protection preferences
-# are being controlled by an extension.
-extension-controlled-websites-tracking-protection-mode = An extension, <img data-l10n-name="icon"/> { $name }, is controlling tracking protection.
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
 extension-controlled-websites-content-blocking-all-trackers = An extension, <img data-l10n-name="icon"/> { $name }, is controlling this setting.
@@ -286,6 +279,7 @@ update-application-check-choose =
 update-application-manual =
     .label = Never check for updates (not recommended)
     .accesskey = N
+update-application-warning-cross-user-setting = This setting will apply to all Windows accounts and { -brand-short-name } profiles using this installation of { -brand-short-name }.
 update-application-use-service =
     .label = Use a background service to install updates
     .accesskey = b
@@ -606,12 +600,6 @@ sitedata-total-size-calculating = Calculating site data and cache size…
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Your stored cookies, site data and cache are currently using { $value } { $unit } of disk space.
 sitedata-learn-more = Learn more
-sitedata-keep-until = Keep until
-    .accesskey = u
-sitedata-keep-until-expire =
-    .label = They expire
-sitedata-keep-until-closed =
-    .label = { -brand-short-name } is closed
 sitedata-delete-on-close =
     .label = Delete cookies and site data when { -brand-short-name } is closed
     .accesskey = c
@@ -626,16 +614,6 @@ sitedata-disallow-cookies-option =
 # The list items are the strings named sitedata-block-*-option*.
 sitedata-block-desc = Type blocked
     .accesskey = T
-sitedata-block-trackers-option-recommended =
-    .label = Third-party trackers (recommended)
-sitedata-block-trackers-option =
-    .label = Third-party trackers
-sitedata-block-unvisited-option =
-    .label = Cookies from unvisited websites
-sitedata-block-all-third-party-option =
-    .label = All third-party cookies (may cause websites to break)
-sitedata-block-all-option =
-    .label = All cookies (will cause websites to break)
 sitedata-option-block-trackers =
     .label = Third-party trackers
 sitedata-option-block-unvisited =
@@ -650,13 +628,6 @@ sitedata-clear =
 sitedata-settings =
     .label = Manage Data…
     .accesskey = M
-sitedata-cookies-exceptions =
-    .label = Exceptions…
-    .accesskey = E
-# This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
-# in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
-# Cookies and Site Data section.
-sitedata-warning-your-settings-prevent-changes = Your settings in Content Blocking are preventing changes to Cookies and Site Data settings.
 sitedata-cookies-permissions =
     .label = Manage Permissions…
     .accesskey = P
@@ -679,41 +650,8 @@ addressbar-suggestions-settings = Change preferences for search engine suggestio
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Content Blocking
-content-blocking-desc = Block third-party content, like ads or code, that can slow your browsing and track you around the web. Customize your settings for the best balance of protection and performance.
 content-blocking-description = Block third-party content that tracks you around the web. Control how much of your online activity gets stored and shared between websites.
 content-blocking-learn-more = Learn more
-content-blocking-restore-defaults =
-    .label = Restore Defaults
-    .accesskey = R
-content-blocking-toggle-on =
-    .tooltiptext = Turn Off Content Blocking
-content-blocking-toggle-off =
-    .tooltiptext = Turn On Content Blocking
-content-blocking-toggle-label-on = ON
-    .accesskey = O
-content-blocking-toggle-label-off = OFF
-    .accesskey = O
-content-blocking-category-label = Choose what to block
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-slow-loading-trackers-label =
-    .label = Slow-Loading Trackers
-    .accesskey = S
-content-blocking-fastblock-new-description = Block just the trackers that keep pages from loading quickly.
-content-blocking-tracking-protection-trackers-label =
-    .label = Trackers
-    .accesskey = T
-content-blocking-tracking-protection-all-detected-trackers-label =
-    .label = All Detected Trackers
-    .accesskey = T
-content-blocking-tracking-protection-new-description = Block all known trackers. (May prevent some pages from loading.)
-content-blocking-tracking-protection-option-always =
-    .label = Always
-    .accesskey = A
-content-blocking-tracking-protection-option-private =
-    .label = Only in private windows
-    .accesskey = p
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 content-blocking-setting-standard =
@@ -746,51 +684,12 @@ content-blocking-option-private =
     .label = Only in Private Windows
     .accesskey = p
 content-blocking-tracking-protection-change-block-list = Change block list
-content-blocking-third-party-cookies-label =
-    .label = Third-Party Cookies
-    .accesskey = C
-content-blocking-reject-trackers-description = Block all third-party cookies or just those set by trackers.
-# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
-# of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
-# or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
-# the UI.
-content-blocking-reject-trackers-warning-your-settings-prevent-changes = Your settings in Cookies and Site Data are preventing changes to Third-Party Cookies settings.
-content-blocking-change-cookie-settings =
-    .label = Change Cookie Settings
-    .accesskey = S
-content-blocking-reject-trackers-block-trackers-option-recommended =
-    .label = Trackers (recommended)
-    .accesskey = k
-content-blocking-reject-trackers-block-trackers-option =
-    .label = Trackers
-    .accesskey = k
-content-blocking-reject-trackers-all-third-parties-option =
-    .label = All third-party cookies (may cause websites to break)
-    .accesskey = A
 content-blocking-cookies-label =
     .label = Cookies
     .accesskey = C
 
 ## Privacy Section - Tracking
 
-tracking-header = Tracking Protection
-tracking-desc = Tracking Protection blocks online trackers that collect your browsing data across multiple websites. <a data-l10n-name="learn-more">Learn more about Tracking Protection and your privacy</a>
-tracking-mode-label = Use Tracking Protection to block known trackers
-tracking-mode-always =
-    .label = Always
-    .accesskey = y
-tracking-mode-private =
-    .label = Only in private windows
-    .accesskey = l
-tracking-mode-never =
-    .label = Never
-    .accesskey = n
-tracking-exceptions =
-    .label = Exceptions…
-    .accesskey = x
-tracking-change-block-list =
-    .label = Change Block List…
-    .accesskey = C
 tracking-manage-exceptions =
     .label = Manage Exceptions…
     .accesskey = x
@@ -822,6 +721,9 @@ permissions-block-autoplay-media =
     .label = Block websites from automatically playing media with sound
     .accesskey = B
 permissions-block-autoplay-media-menu = For websites that autoplay sound
+permissions-block-autoplay-media2 =
+    .label = Block websites from automatically playing sound
+    .accesskey = B
 permissions-block-autoplay-media-exceptions =
     .label = Exceptions…
     .accesskey = E
