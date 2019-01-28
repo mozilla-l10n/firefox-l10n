@@ -104,7 +104,7 @@ intl-os-prefs-system-locales = ภาษาของระบบ
 intl-regional-prefs = ค่ากำหนดภูมิภาค
 # Variables
 # $days (Integer) - Number of days of crashes to log
-report-crash-for-days = รายงานข้อขัดข้องของ { $days } วันล่าสุด
+report-crash-for-days = รายงานข้อขัดข้องของ { $days } วันที่ผ่านมา
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes = { $minutes } นาทีที่แล้ว
