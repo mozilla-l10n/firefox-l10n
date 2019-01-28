@@ -212,6 +212,9 @@ extensions-updates-update-selected =
 
 shortcuts-manage =
     .label = Inegzumen n unasiw
+manage-extensions-shortcuts =
+    .label = Sefrek inegzumen n isiɣzaf
+    .accesskey = i
 shortcuts-empty-message = Ulac inegzumen i usiɣzef-agi.
 shortcuts-no-addons = Ur ɣur-k ara ula d yiwen n usiɣzef iremden.
 shortcuts-input =
@@ -221,3 +224,5 @@ shortcuts-sidebarAction = Sken/Fer agalis adisan
 shortcuts-modifier-mac = Seddu Ctrl, Alt, neɣ ⌘
 shortcuts-modifier-other = Seddu Ctrl neɣ Alt
 shortcuts-letter = Sekcem asekkil
+go-back-button =
+    .tooltiptext = Uɣal ɣer deffir

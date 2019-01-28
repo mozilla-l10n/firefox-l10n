@@ -17,4 +17,4 @@ reader-view = Askar n tɣuṛi
 # Meant to match the string displayed in an empty URL bar.
 open-location = Nadi neɣ sekcem tansa
 share = Bḍu
-focus = Mdel
+close-window = Mdel asfaylu
