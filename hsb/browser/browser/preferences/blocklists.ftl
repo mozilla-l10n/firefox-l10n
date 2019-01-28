@@ -30,6 +30,6 @@ blocklist-item-moz-std-desc = Dowola někotrych slědowarjow, tak zo websydła p
 blocklist-item-moz-full-name = Striktny škit Disconnect.me.
 blocklist-item-moz-full-desc = Blokuje znate přesćěhowaki. Někotre sydła snano porjadnje njefunguja.
 blocklist-item-moz-std-listName = Blokowanska lisćina runiny 1 (doporučena).
-blocklist-item-moz-std-description = Zmóžnja někotrym přesćěhowakam, zo bychu mjenje websydłow njefunguja.
+blocklist-item-moz-std-description = Zmóžnja někotre přesćěhowaki, zo by wjace websydłow fungowało.
 blocklist-item-moz-full-listName = Blokowanska lisćina runiny 2.
 blocklist-item-moz-full-description = Blokuje wšě wotkryte přesćěhowaki. Někotre websydła abo wobsah so snano korektnje njezačitaja.
