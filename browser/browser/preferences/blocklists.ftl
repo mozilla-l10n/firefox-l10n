@@ -6,6 +6,7 @@ blocklist-window =
     .title = Úrovně blokování
     .style = width: 55em
 blocklist-desc = Můžete si vybrat, jak bude { -brand-short-name } postupovat při blokování prvků, které vás mohou sledovat při prohlížení.
+blocklist-description = Vyberte seznam, který { -brand-short-name } použije pro blokování sledovacích prvků. Seznamy poskytuje <a data-l10n-name="disconnect-link" title="Disconnect">Disconnect</a>.
 blocklist-close-key =
     .key = w
 blocklist-treehead-list =
@@ -28,3 +29,7 @@ blocklist-item-moz-std-name = Základní ochrana od Disconnect.me (doporučeno).
 blocklist-item-moz-std-desc = Povoluje některé sledovací prvky, aby stránky fungovaly správně.
 blocklist-item-moz-full-name = Přísná ochrana od Disconnect.me.
 blocklist-item-moz-full-desc = Blokuje všechny známé sledovací prvky. Některé stránky nemusí fungovat správně.
+blocklist-item-moz-std-listName = Základní seznam (doporučený).
+blocklist-item-moz-std-description = Povoluje některé sledovací prvky, aby stránky fungovaly správně.
+blocklist-item-moz-full-listName = Rozšířený seznam.
+blocklist-item-moz-full-description = Blokuje všechny nalezené sledovací prvky. Může omezit fungování některých stránek.

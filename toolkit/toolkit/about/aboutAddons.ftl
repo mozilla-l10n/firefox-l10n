@@ -212,6 +212,9 @@ extensions-updates-update-selected =
 
 shortcuts-manage =
     .label = Klávesové zkratky
+manage-extensions-shortcuts =
+    .label = Správa klávesových zkratek pro rozšíření
+    .accesskey = S
 shortcuts-empty-message = Toto rozšíření nemá žádné klávesové zkratky.
 shortcuts-no-addons = Nemáte povoleno žádné rozšíření.
 shortcuts-input =
@@ -224,3 +227,5 @@ shortcuts-modifier-other = Zahrnout Ctrl nebo Alt
 shortcuts-invalid = Neplatná kombinace kláves
 shortcuts-letter = Napište písmeno
 shortcuts-system = Nelze přepsat zkratku aplikace { -brand-short-name }
+go-back-button =
+    .tooltiptext = Zpátky

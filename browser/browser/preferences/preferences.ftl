@@ -4,10 +4,6 @@
 
 do-not-track-description = Říci webovým stránkám pomocí signálu Do Not Track, že nechcete být sledováni
 do-not-track-learn-more = Zjistit více
-do-not-track-option-default =
-    .label = Pouze při použití ochrany proti sledování
-do-not-track-option-default-content-blocking =
-    .label = Jen pokud je zapnuto blokování nalezených sledovacích prvků
 do-not-track-option-default-content-blocking-known =
     .label = Jen pokud je zapnuto blokování nalezených sledovacích prvků
 do-not-track-option-always =
@@ -82,28 +78,25 @@ restart-later = Restartovat později
 
 # This string is shown to notify the user that their home page
 # is being controlled by an extension.
-extension-controlled-homepage-override = Vaši domovskou stránku spravuje rozšíření <img data-l10n-name="icon"/> { $name }.
+extension-controlled-homepage-override = Vaši domovskou stránku spravuje <img data-l10n-name="icon"/> { $name }.
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
-extension-controlled-new-tab-url = Stránku v novém panelu spravuje rozšíření <img data-l10n-name="icon"/> { $name }.
+extension-controlled-new-tab-url = Stránku v novém panelu spravuje <img data-l10n-name="icon"/> { $name }.
 # This string is shown to notify the user that their notifications permission
 # is being controlled by an extension.
-extension-controlled-web-notifications = Toto nastavení spravuje rozšíření <img data-l10n-name="icon"/> { $name }.
+extension-controlled-web-notifications = Toto nastavení spravuje <img data-l10n-name="icon"/> { $name }.
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
 extension-controlled-default-search = Rozšíření <img data-l10n-name="icon"/> { $name } vám nastavilo nový výchozí vyhledávač.
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
-extension-controlled-privacy-containers = Rozšíření <img data-l10n-name="icon"/> { $name } vyžaduje kontejnerové panely.
-# This string is shown to notify the user that their tracking protection preferences
-# are being controlled by an extension.
-extension-controlled-websites-tracking-protection-mode = Ochranu proti sledování spravuje rozšíření <img data-l10n-name="icon"/> { $name }.
+extension-controlled-privacy-containers = <img data-l10n-name="icon"/> { $name } vyžaduje kontejnerové panely.
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
-extension-controlled-websites-content-blocking-all-trackers = Toto nastavení spravuje rozšíření <img data-l10n-name="icon"/> { $name }.
+extension-controlled-websites-content-blocking-all-trackers = Toto nastavení spravuje <img data-l10n-name="icon"/> { $name }.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
-extension-controlled-proxy-config = Připojení aplikace { -brand-short-name } k internetu spravuje rozšíření <img data-l10n-name="icon"/> { $name }.
+extension-controlled-proxy-config = Připojení aplikace { -brand-short-name } k internetu spravuje <img data-l10n-name="icon"/> { $name }.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -289,6 +282,7 @@ update-application-check-choose =
 update-application-manual =
     .label = Nikdy nevyhledávat aktualizace (nedoporučeno)
     .accesskey = N
+update-application-warning-cross-user-setting = Toto nastavení ovlivní všechny uživatele systému Windows a jejich profily aplikace { -brand-short-name }, pokud používají stejnou instalaci.
 update-application-use-service =
     .label = K instalaci aktualizací použít službu na pozadí
     .accesskey = b
@@ -613,12 +607,6 @@ sitedata-total-size-calculating = Výpočet velikosti mezipaměti a dat stránek
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Velikost cookies, dat uložených stránkami a mezipaměti je { $value } { $unit }.
 sitedata-learn-more = Zjistit více
-sitedata-keep-until = Cookies ponechat do
-    .accesskey = d
-sitedata-keep-until-expire =
-    .label = konce doby platnosti
-sitedata-keep-until-closed =
-    .label = ukončení aplikace { -brand-short-name }
 sitedata-delete-on-close =
     .label = Vymazat cookies a data stránek při zavření aplikace { -brand-short-name }
     .accesskey = c
@@ -633,16 +621,6 @@ sitedata-disallow-cookies-option =
 # The list items are the strings named sitedata-block-*-option*.
 sitedata-block-desc = Blokovat
     .accesskey = t
-sitedata-block-trackers-option-recommended =
-    .label = cookies a data sledovacích prvků třetích stran (doporučeno)
-sitedata-block-trackers-option =
-    .label = cookies a data sledovacích prvků třetích stran
-sitedata-block-unvisited-option =
-    .label = cookies a data dosud nenavštívených stránek
-sitedata-block-all-third-party-option =
-    .label = všechny cookies třetích stran (může omezit fungování některých stránek)
-sitedata-block-all-option =
-    .label = všechny cookies (omezí fungování některých stránek)
 sitedata-option-block-trackers =
     .label = sledovacích prvků třetích stran
 sitedata-option-block-unvisited =
@@ -657,13 +635,6 @@ sitedata-clear =
 sitedata-settings =
     .label = Spravovat data…
     .accesskey = S
-sitedata-cookies-exceptions =
-    .label = Výjimky…
-    .accesskey = k
-# This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
-# in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
-# Cookies and Site Data section.
-sitedata-warning-your-settings-prevent-changes = Vaše nastavení blokování obsahu brání změnám nastavení cookies a dat stránek.
 sitedata-cookies-permissions =
     .label = Spravovat oprávnění…
     .accesskey = S
@@ -686,41 +657,8 @@ addressbar-suggestions-settings = Nastavit našeptávání vyhledávače
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Blokování obsahu
-content-blocking-desc = Zablokujte obsah třetích stran, jako jsou reklamy nebo kód, který zpomaluje načítání stránek a sleduje vaše aktivity na internetu. Úroveň blokování můžete upravit podle vlastních nároků na rychlost načítání i ochranu soukromí.
 content-blocking-description = Blokuje obsah třetích stran, který vás na webu sleduje. Sami určete, jak velká část z vašich aktivit na internetu se bude ukládat a sdílet mezi stránkami.
 content-blocking-learn-more = Zjistit více
-content-blocking-restore-defaults =
-    .label = Obnovit výchozí nastavení
-    .accesskey = O
-content-blocking-toggle-on =
-    .tooltiptext = Vypnout blokování obsahu
-content-blocking-toggle-off =
-    .tooltiptext = Zapnout blokování obsahu
-content-blocking-toggle-label-on = ZAPNUTO
-    .accesskey = Z
-content-blocking-toggle-label-off = VYPNUTO
-    .accesskey = V
-content-blocking-category-label = Vyberte, co chcete blokovat
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-slow-loading-trackers-label =
-    .label = Zpomalující sledovací prvky
-    .accesskey = Z
-content-blocking-fastblock-new-description = Blokovat jen sledovací prvky, které zpomalují načítání stránek.
-content-blocking-tracking-protection-trackers-label =
-    .label = Sledovací prvky
-    .accesskey = S
-content-blocking-tracking-protection-all-detected-trackers-label =
-    .label = Všechny nalezené sledovací prvky
-    .accesskey = s
-content-blocking-tracking-protection-new-description = Blokovat všechny nalezené sledovací prvky (může omezit fungování některých stránek).
-content-blocking-tracking-protection-option-always =
-    .label = Vždy
-    .accesskey = V
-content-blocking-tracking-protection-option-private =
-    .label = Pouze v anonymních oknech
-    .accesskey = P
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 content-blocking-setting-standard =
@@ -753,51 +691,12 @@ content-blocking-option-private =
     .label = jen v anonymních oknech
     .accesskey = a
 content-blocking-tracking-protection-change-block-list = Změnit úroveň blokování
-content-blocking-third-party-cookies-label =
-    .label = Cookies třetích stran
-    .accesskey = C
-content-blocking-reject-trackers-description = Blokovat cookies všech třetích stran nebo jen od sledovacích prvků.
-# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
-# of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
-# or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
-# the UI.
-content-blocking-reject-trackers-warning-your-settings-prevent-changes = Vaše nastavení cookies a dat stránek brání změnám nastavení cookies třetích stran.
-content-blocking-change-cookie-settings =
-    .label = Změnit nastavení cookies
-    .accesskey = Z
-content-blocking-reject-trackers-block-trackers-option-recommended =
-    .label = Cookies sledovacích prvků (doporučeno)
-    .accesskey = k
-content-blocking-reject-trackers-block-trackers-option =
-    .label = Cookies sledovacích prvků
-    .accesskey = k
-content-blocking-reject-trackers-all-third-parties-option =
-    .label = Všechny cookies třetích stran (může omezit fungování některých stránek)
-    .accesskey = a
 content-blocking-cookies-label =
     .label = Blokovat cookies
     .accesskey = c
 
 ## Privacy Section - Tracking
 
-tracking-header = Ochrana proti sledování
-tracking-desc = Ochrana proti sledování blokuje sledovací prvky, které o vás sbírají informace napříč webovými stránkami. <a data-l10n-name="learn-more">Zjistěte více o ochraně proti sledování a o vašem soukromí</a>
-tracking-mode-label = Používat ochranu proti sledování známými sledovacími prvky
-tracking-mode-always =
-    .label = Vždy
-    .accesskey = y
-tracking-mode-private =
-    .label = Pouze v anonymních oknech
-    .accesskey = o
-tracking-mode-never =
-    .label = Nikdy
-    .accesskey = n
-tracking-exceptions =
-    .label = Výjimky…
-    .accesskey = j
-tracking-change-block-list =
-    .label = Změnit seznam blokací…
-    .accesskey = c
 tracking-manage-exceptions =
     .label = Spravovat výjimky…
     .accesskey = p
@@ -829,6 +728,9 @@ permissions-block-autoplay-media =
     .label = Zabránit stránkám v automatickém přehrávání médií se zvukem
     .accesskey = b
 permissions-block-autoplay-media-menu = Při pokusu o automatické přehrání médií se zvukem
+permissions-block-autoplay-media2 =
+    .label = Zabránit stránkám v automatickém přehrávání zvuků
+    .accesskey = b
 permissions-block-autoplay-media-exceptions =
     .label = Výjimky…
     .accesskey = y
