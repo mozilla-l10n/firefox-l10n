@@ -4,10 +4,6 @@
 
 do-not-track-description = „Do Not Track” jelzés küldése a webhelyeknek, jelezve, hogy nem szeretné, hogy kövessék
 do-not-track-learn-more = További információk
-do-not-track-option-default =
-    .label = Csak, ha követésvédelmet használ
-do-not-track-option-default-content-blocking =
-    .label = Csak a { -brand-short-name } az észlelt követők blokkolására van beállítva
 do-not-track-option-default-content-blocking-known =
     .label = Csak akkor, ha a { -brand-short-name } az ismert követők blokkolására van állítva
 do-not-track-option-always =
@@ -95,9 +91,6 @@ extension-controlled-default-search = Egy kiegészítő, a(z) <img data-l10n-nam
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = A(z) <img data-l10n-name="icon"/> { $name } kiterjesztéshez szükségesek a konténerlapok.
-# This string is shown to notify the user that their tracking protection preferences
-# are being controlled by an extension.
-extension-controlled-websites-tracking-protection-mode = A(z) <img data-l10n-name="icon"/> { $name } kiegészítő vezérli a követés elleni védelmet.
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
 extension-controlled-websites-content-blocking-all-trackers = Egy kiegészítő, a(z) <img data-l10n-name="icon"/>{ $name }, vezérli ezt a beállítást.
@@ -286,6 +279,7 @@ update-application-check-choose =
 update-application-manual =
     .label = Ne legyen frissítve (nem ajánlott)
     .accesskey = N
+update-application-warning-cross-user-setting = Ez a beállítás érvényes az összes Windows fiókra és { -brand-short-name } profilra, amely ezt a { -brand-short-name } telepítést használja.
 update-application-use-service =
     .label = Háttérben futó szolgáltatás intézze a frissítést
     .accesskey = H
@@ -606,12 +600,6 @@ sitedata-total-size-calculating = Az oldaladatok és a gyorsítótár méreténe
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = A tárolt sütik, oldaladatok és a gyorsítótár jelenleg { $value } { $unit } területet foglalnak el a lemezen.
 sitedata-learn-more = További tudnivalók
-sitedata-keep-until = Sütik megtartása
-    .accesskey = m
-sitedata-keep-until-expire =
-    .label = Amíg le nem járnak
-sitedata-keep-until-closed =
-    .label = A { -brand-short-name } bezárásáig
 sitedata-delete-on-close =
     .label = Sütik és oldaladatok törlése a { -brand-short-name } bezárásakor
     .accesskey = S
@@ -626,16 +614,6 @@ sitedata-disallow-cookies-option =
 # The list items are the strings named sitedata-block-*-option*.
 sitedata-block-desc = Blokkolt típus
     .accesskey = B
-sitedata-block-trackers-option-recommended =
-    .label = Harmadik féltől származó követők (ajánlott)
-sitedata-block-trackers-option =
-    .label = Harmadik féltől származó követők
-sitedata-block-unvisited-option =
-    .label = Nem megtekintett oldalak sütijei
-sitedata-block-all-third-party-option =
-    .label = Összes harmadik féltől származó süti (egyes weboldalak eltörhetnek)
-sitedata-block-all-option =
-    .label = Összes süti (egyes weboldalak el fognak törni)
 sitedata-option-block-trackers =
     .label = Harmadik féltől származó követők
 sitedata-option-block-unvisited =
@@ -650,13 +628,6 @@ sitedata-clear =
 sitedata-settings =
     .label = Adatok kezelése…
     .accesskey = A
-sitedata-cookies-exceptions =
-    .label = Kivételek…
-    .accesskey = K
-# This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
-# in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
-# Cookies and Site Data section.
-sitedata-warning-your-settings-prevent-changes = A Tartalomblokkolási beállítások megakadályozzák, hogy módosítson a Sütik és oldaladatok beállításain.
 sitedata-cookies-permissions =
     .label = Engedélyek kezelése…
     .accesskey = E
@@ -679,41 +650,8 @@ addressbar-suggestions-settings = Keresőszolgáltatás-javaslatok beállítása
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Tartalomblokkolás
-content-blocking-desc = Az olyan harmadik féltől származó tartalom blokkolása, mint a hirdetések vagy kódok, melyek lelassíthatják a böngészését, és követketik a weben. Szabja testre a beállításait a védelem és a teljesítmény közti legjobb egyensúly érdekében.
 content-blocking-description = A harmadik féltől származó tartalmak blokkolása, melyek követik a weben. Irányítsa, hogy az online tevékenysége mekkora része legyen tárolva és megosztva a webhelyek közt.
 content-blocking-learn-more = További tudnivalók
-content-blocking-restore-defaults =
-    .label = Alapértelmezések visszaállítása
-    .accesskey = v
-content-blocking-toggle-on =
-    .tooltiptext = Tartalomblokkolás kikapcsolása
-content-blocking-toggle-off =
-    .tooltiptext = Tartalomblokkolás bekapcsolása
-content-blocking-toggle-label-on = BE
-    .accesskey = B
-content-blocking-toggle-label-off = KI
-    .accesskey = K
-content-blocking-category-label = Válassza ki, mit szeretne blokkolni
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-slow-loading-trackers-label =
-    .label = Lassan betöltő követők
-    .accesskey = L
-content-blocking-fastblock-new-description = Csak azon követők blokkolása, melyek megakadályozzák az oldalak gyors betöltését.
-content-blocking-tracking-protection-trackers-label =
-    .label = Követők
-    .accesskey = K
-content-blocking-tracking-protection-all-detected-trackers-label =
-    .label = Összes észlelt követő
-    .accesskey = k
-content-blocking-tracking-protection-new-description = Összes ismert követő blokkolása. (Megakadályozhatja néhány oldal betöltését.)
-content-blocking-tracking-protection-option-always =
-    .label = Mindig
-    .accesskey = M
-content-blocking-tracking-protection-option-private =
-    .label = Csak privát ablakokban
-    .accesskey = p
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 content-blocking-setting-standard =
@@ -746,51 +684,12 @@ content-blocking-option-private =
     .label = Csak privát ablakokban
     .accesskey = p
 content-blocking-tracking-protection-change-block-list = Blokkolási lista módosítása
-content-blocking-third-party-cookies-label =
-    .label = Harmadik féltől származó sütik
-    .accesskey = s
-content-blocking-reject-trackers-description = Összes harmadik féltől származó süti, vagy csak a követők által beállítottak blokkolása.
-# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
-# of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
-# or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
-# the UI.
-content-blocking-reject-trackers-warning-your-settings-prevent-changes = A Sütik és oldaladatok beállításai megakadályozzák, hogy módosítsa a Harmadik féltől származó sütik beállításait.
-content-blocking-change-cookie-settings =
-    .label = Sütibeállítások módosítása
-    .accesskey = S
-content-blocking-reject-trackers-block-trackers-option-recommended =
-    .label = Követők (ajánlott)
-    .accesskey = K
-content-blocking-reject-trackers-block-trackers-option =
-    .label = Követők
-    .accesskey = K
-content-blocking-reject-trackers-all-third-parties-option =
-    .label = Összes harmadik féltől származó süti (egyes weboldalak eltörhetnek)
-    .accesskey = e
 content-blocking-cookies-label =
     .label = Sütik
     .accesskey = S
 
 ## Privacy Section - Tracking
 
-tracking-header = Követés elleni védelem
-tracking-desc = A követés elleni védelem blokkolja az online nyomkövetőket, melyek a webhelyek közti böngészési adatait gyűjtik. <a data-l10n-name="learn-more">Tudjon meg többet a követés elleni védelemről és az adatvédelemről</a>
-tracking-mode-label = Követés elleni védelem használata az ismert követők blokkolására
-tracking-mode-always =
-    .label = Mindig
-    .accesskey = d
-tracking-mode-private =
-    .label = Csak privát ablakokban
-    .accesskey = C
-tracking-mode-never =
-    .label = Soha
-    .accesskey = o
-tracking-exceptions =
-    .label = Kivételek…
-    .accesskey = K
-tracking-change-block-list =
-    .label = Blokkolási lista módosítása…
-    .accesskey = m
 tracking-manage-exceptions =
     .label = Kivételek kezelése…
     .accesskey = K
@@ -822,6 +721,9 @@ permissions-block-autoplay-media =
     .label = Webhelyek blokkolása, hogy automatikusan ne játszhassanak le médiát hanggal.
     .accesskey = b
 permissions-block-autoplay-media-menu = Automatikus hanglejátszás a weboldalakon
+permissions-block-autoplay-media2 =
+    .label = A weboldalak automatikus hanglejátszásának blokkolása
+    .accesskey = b
 permissions-block-autoplay-media-exceptions =
     .label = Kivételek…
     .accesskey = K

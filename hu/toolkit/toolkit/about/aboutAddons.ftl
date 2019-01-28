@@ -212,6 +212,9 @@ extensions-updates-update-selected =
 
 shortcuts-manage =
     .label = Gyorsbillentyűk
+manage-extensions-shortcuts =
+    .label = Kiegészítő-gyorsbillentyűk kezelése
+    .accesskey = o
 shortcuts-empty-message = Ennek a kiegészítőnek nincsenek gyorsbillentyűi.
 shortcuts-no-addons = Nincs egyetlen kiterjesztés sem engedélyezve.
 shortcuts-input =
@@ -224,3 +227,5 @@ shortcuts-modifier-other = Ctrl vagy Alt gombot tartalmaz
 shortcuts-invalid = Érvénytelen kombináció
 shortcuts-letter = Írjon be egy betűt
 shortcuts-system = Nem írhat felül egy { -brand-short-name } gyorsbillentyűt
+go-back-button =
+    .tooltiptext = Ugrás vissza
