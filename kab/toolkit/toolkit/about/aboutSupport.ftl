@@ -44,6 +44,7 @@ app-basics-memory-use = Aseqdec n tkatut
 app-basics-performance = Tamellit
 app-basics-service-workers = Tanfa Workers iţwaklesen
 app-basics-profiles = Imeɣna
+app-basics-launcher-process-status = Akala n tnekra
 app-basics-multi-process-support = Isfuyla agetakala
 app-basics-process-count = Ikalan n ugbur web
 app-basics-enterprise-policies = Tasertit n tkebbanit
@@ -242,6 +243,7 @@ sandbox-proc-type-content = agbur
 sandbox-proc-type-file = agbur n ufaylu
 sandbox-proc-type-media-plugin = asiɣzef n wallen n teywalt
 launcher-process-status-0 = Irmed
+launcher-process-status-1 = Yensa ɣef sebba n tuccḍa
 launcher-process-status-2 = Arurmid s tedusi
 launcher-process-status-unknown = Addad arussin
 # Variables

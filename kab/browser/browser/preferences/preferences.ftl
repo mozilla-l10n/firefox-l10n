@@ -602,6 +602,7 @@ sitedata-learn-more = Lmed ugar
 sitedata-delete-on-close =
     .label = Mdel inagan n tuqqna akk d isefka n usmel ticki { -brand-short-name } yettwamdel
     .accesskey = i
+sitedata-delete-on-close-private-browsing = Deg uskar n tinigin tusligt timezgit, inagan n tuqqna akked isefka n usmel ad ttwasefḍen yal tikkelt ticki yemdel { -brand-short-name }.
 sitedata-allow-cookies-option =
     .label = Qbel inagan n tuqqna d yisefka n usmel
     .accesskey = Q

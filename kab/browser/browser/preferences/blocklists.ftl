@@ -6,6 +6,7 @@ blocklist-window =
     .title = Tibdarin n usewḥel
     .style = width: 55em
 blocklist-desc = Tzemreḍ ad tferneḍ anta tabdart ara yesseqdec { -brand-short-name } akken ad isewḥel iferdisen Web i izemren ad sfuɣlen armud-inek n tunigin.
+blocklist-description = Fren aseqdec n tebdert { -brand-short-name } i usewḥel n yineḍfaren srid. Tibdarin i d-yettwanefken sɣur <a data-l10n-name="disconnect-link" title="Disconnect">Ffeɣ</a>.
 blocklist-close-key =
     .key = w
 blocklist-treehead-list =
@@ -28,3 +29,5 @@ blocklist-item-moz-std-name = Ammesten azadur Disconnect.me (ihul).
 blocklist-item-moz-std-desc = Sireg kra n imesfuɣal akken ismal web ad ddun akken iwata.
 blocklist-item-moz-full-name = Ammesten ufrin Disconnect.me.
 blocklist-item-moz-full-desc = Ad isewḥel imsfuɣalen irusinen. Kra n yismal zemren ur tteddun ara akken iwata.
+blocklist-item-moz-std-listName = Tabdert n usewḥel n uswir 1 (Awelleh).
+blocklist-item-moz-full-listName = Tabdert n usewḥel aswir 2.
