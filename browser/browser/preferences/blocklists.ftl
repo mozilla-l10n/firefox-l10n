@@ -28,3 +28,5 @@ blocklist-item-moz-std-name = Βασική προστασία Disconnect.me (Π�
 blocklist-item-moz-std-desc = Επιτρέπει ορισμένους ιχνηλάτες προκειμένου να λειτουργούν σωστά οι ιστοσελίδες.
 blocklist-item-moz-full-name = Αυστηρή προστασία Disconnect.me.
 blocklist-item-moz-full-desc = Αποκλεισμός γνωστών ιχνηλατών. Ορισμένες ιστοσελίδες ενδέχεται να μη λειτουργούν σωστά.
+blocklist-item-moz-std-listName = Λίστα αποκλεισμού επιπέδου 1 (Προτείνεται).
+blocklist-item-moz-full-listName = Λίστα αποκλεισμού επιπέδου 2
