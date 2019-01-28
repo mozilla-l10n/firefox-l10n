@@ -499,7 +499,7 @@ sync-engine-prefs =
            *[other] Tùy chỉnh
         }
     .tooltiptext = Các cài đặt chung, cài đặt về sự riêng tư, và bảo mật mà bạn đã thay đổi
-    .accesskey = y
+    .accesskey = s
 sync-device-name-header = Tên thiết bị
 sync-device-name-change =
     .label = Thay đổi tên thiết bị…
@@ -527,13 +527,13 @@ forms-ask-to-save-logins =
     .accesskey = r
 forms-exceptions =
     .label = Ngoại trừ…
-    .accesskey = r
+    .accesskey = x
 forms-saved-logins =
     .label = Đăng nhập đã lưu…
-    .accesskey = l
+    .accesskey = L
 forms-master-pw-use =
     .label = Dùng một mật khẩu chính
-    .accesskey = D
+    .accesskey = U
 forms-master-pw-change =
     .label = Thay đổi mật khẩu chính…
     .accesskey = M
@@ -561,20 +561,20 @@ history-remember-option-custom =
 history-remember-description = { -brand-short-name } sẽ ghi nhớ lịch sử duyệt web, tải xuống, biểu mẫu và tìm kiếm của bạn.
 history-dontremember-description = { -brand-short-name } sẽ dùng thiết lập giống như chế độ duyệt web riêng tư, và sẽ không ghi nhớ lịch sử khi bạn duyệt Web.
 history-private-browsing-permanent =
-    .label = Luôn luôn dùng chế độ duyệt web riêng tư
-    .accesskey = y
+    .label = Luôn dùng chế độ duyệt web riêng tư
+    .accesskey = p
 history-remember-browser-option =
     .label = Ghi nhớ lịch sử truy cập và tải xuống của tôi
-    .accesskey = G
+    .accesskey = b
 history-remember-search-option =
     .label = Ghi nhớ lịch sử biểu mẫu và tìm kiếm
-    .accesskey = b
+    .accesskey = f
 history-clear-on-close-option =
     .label = Xóa lịch sử khi { -brand-short-name } đóng
-    .accesskey = l
+    .accesskey = r
 history-clear-on-close-settings =
     .label = Thiết lập…
-    .accesskey = p
+    .accesskey = t
 history-clear-button =
     .label = Xóa lịch sử...
     .accesskey = s
@@ -582,14 +582,14 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Cookie và dữ liệu trang
-sitedata-total-size-calculating = Đang tính toán kích thước cache và dữ liệu trang…
+sitedata-total-size-calculating = Đang tính toán kích thước bộ nhớ đệm và dữ liệu trang…
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Cookie, dữ liệu trang và bộ nhớ đệm của bạn hiện đang sử dụng { $value } { $unit } dung lượng đĩa.
 sitedata-learn-more = Tìm hiểu thêm
 sitedata-delete-on-close =
-    .label = Xóa cookie và dữ liệu trang web khi { -brand-short-name } bị đóng
+    .label = Xóa cookie và dữ liệu trang web khi đóng { -brand-short-name }
     .accesskey = c
 sitedata-delete-on-close-private-browsing = Trong chế độ duyệt riêng tư, cookie và dữ liệu trang web sẽ luôn bị xóa khi { -brand-short-name } bị đóng.
 sitedata-allow-cookies-option =
@@ -626,13 +626,13 @@ addressbar-header = Thanh địa chỉ
 addressbar-suggest = Khi dùng thanh địa chỉ, gợi ý
 addressbar-locbar-history-option =
     .label = Lịch sử duyệt web
-    .accesskey = H
+    .accesskey = h
 addressbar-locbar-bookmarks-option =
     .label = Trang đánh dấu
-    .accesskey = d
+    .accesskey = k
 addressbar-locbar-openpage-option =
     .label = Thẻ đang mở
-    .accesskey = T
+    .accesskey = O
 addressbar-suggestions-settings = Thay đổi tùy chỉnh phần gợi ý của công cụ tìm kiếm
 
 ## Privacy Section - Content Blocking
@@ -650,7 +650,7 @@ content-blocking-setting-strict =
     .accesskey = r
 content-blocking-setting-custom =
     .label = Tùy chọn
-    .accesskey = c
+    .accesskey = C
 content-blocking-standard-description = Chỉ chặn các trình theo dõi đã biết trong cửa sổ riêng tư.
 content-blocking-standard-desc = Cân bằng giữa sự bảo mật và hiệu suất. Cho phép một số trình theo dõi để các trang web hoạt động chính xác.
 content-blocking-strict-desc = Chặn tất cả trình theo dõi mà { -brand-short-name } phát hiện. Có thể khiến một số trang web bị hỏng.
