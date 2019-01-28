@@ -17,4 +17,4 @@ reader-view = Läsvy
 # Meant to match the string displayed in an empty URL bar.
 open-location = Sök eller ange adress
 share = Dela
-focus = Stäng
+close-window = Stäng fönster
