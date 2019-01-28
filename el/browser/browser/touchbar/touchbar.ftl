@@ -17,4 +17,4 @@ reader-view = Προβολή ανάγνωσης
 # Meant to match the string displayed in an empty URL bar.
 open-location = Αναζήτηση ή εισαγωγή διεύθυνσης
 share = Κοινή χρήση
-focus = Κλείσιμο
+close-window = Κλείσιμο παραθύρου
