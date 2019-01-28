@@ -283,7 +283,7 @@ shortcuts-manage =
 
 manage-extensions-shortcuts =
     .label = Extensiesneltoetsen beheren
-    .accesskey = t
+    .accesskey = E
 shortcuts-empty-message = Er zijn geen sneltoetsen voor deze extensie.
 shortcuts-no-addons = U hebt geen extensies ingeschakeld.
 shortcuts-input =
