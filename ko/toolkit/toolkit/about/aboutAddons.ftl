@@ -207,3 +207,20 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = 업데이트 설치
     .tooltiptext = 현재 목록 내 업데이트 설치하기
+
+## Extension shortcut management
+
+shortcuts-manage =
+    .label = 키보드 단축키
+shortcuts-empty-message = 이 확장기능에는 단축키가 없습니다.
+shortcuts-no-addons = 활성화된 확장기능이 없습니다.
+shortcuts-input =
+    .placeholder = 단축키 입력
+shortcuts-browserAction = 확장기능 활성화
+shortcuts-pageAction = 페이지 동작 활성화
+shortcuts-sidebarAction = 사이드바 열고 닫기
+shortcuts-modifier-mac = Ctrl, Alt 또는 ⌘ 포함
+shortcuts-modifier-other = Ctrl 또는 Alt 포함
+shortcuts-invalid = 잘못된 조합
+shortcuts-letter = 문자 입력
+shortcuts-system = { -brand-short-name } 단축키를 재정의 할 수 없음

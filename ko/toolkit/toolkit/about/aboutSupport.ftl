@@ -47,6 +47,7 @@ app-basics-memory-use = 메모리 사용
 app-basics-performance = 성능
 app-basics-service-workers = 등록된 Service Workers
 app-basics-profiles = 프로필
+app-basics-launcher-process-status = 런처 프로세스
 app-basics-multi-process-support = 다중프로세스 윈도우
 app-basics-process-count = 웹 콘텐츠 프로세스
 app-basics-enterprise-policies = 엔터프라이즈 정책
@@ -205,6 +206,8 @@ uses-tiling = 타일링 사용
 content-uses-tiling = 타일링(콘텐츠) 사용
 off-main-thread-paint-enabled = 주 쓰레드 페인팅 끄기 활성화됨
 off-main-thread-paint-worker-count = 주 쓰레드 페인팅 워커 카운트 끔
+low-end-machine = 저성능 기기 감지
+target-frame-rate = 목표 프레임 레이트
 audio-backend = 오디오 백엔드
 max-audio-channels = 최대 채널
 channel-layout = 선호하는 채널 레이아웃
@@ -222,6 +225,10 @@ effective-content-sandbox-level = 효과적인 콘텐츠 프로세스 샌드박�
 sandbox-proc-type-content = 내용
 sandbox-proc-type-file = 파일 내용
 sandbox-proc-type-media-plugin = 미디어 플러그인
+launcher-process-status-0 = 활성화됨
+launcher-process-status-1 = 실패로 비활성화됨
+launcher-process-status-2 = 강제로 비활성화됨
+launcher-process-status-unknown = 알 수 없는 상태
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
