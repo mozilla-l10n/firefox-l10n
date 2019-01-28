@@ -4,10 +4,6 @@
 
 do-not-track-description = 傳送 “Do Not Track” 訊號，告訴網站您不想被追蹤
 do-not-track-learn-more = 了解更多
-do-not-track-option-default =
-    .label = 只在使用追蹤保護功能時
-do-not-track-option-default-content-blocking =
-    .label = 僅在 { -brand-short-name } 設定封鎖偵測到的追蹤器時
 do-not-track-option-default-content-blocking-known =
     .label = 僅在 { -brand-short-name } 設定為封鎖已知追蹤器時
 do-not-track-option-always =
@@ -95,9 +91,6 @@ extension-controlled-default-search = 擴充套件「<img data-l10n-name="icon"/
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = 擴充套件「<img data-l10n-name="icon"/> { $name }」需要開啟容器分頁功能才能使用。
-# This string is shown to notify the user that their tracking protection preferences
-# are being controlled by an extension.
-extension-controlled-websites-tracking-protection-mode = 擴充套件「<img data-l10n-name="icon"/> { $name }」正在控制您的追蹤保護設定。
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
 extension-controlled-websites-content-blocking-all-trackers = 擴充套件<img data-l10n-name="icon"/> { $name } 正在控制此設定。
@@ -274,6 +267,7 @@ update-application-check-choose =
 update-application-manual =
     .label = 不要檢查更新（不建議，可能會有安全性風險）
     .accesskey = N
+update-application-warning-cross-user-setting = 此設定將套用到所有 Windows 帳號及此份 { -brand-short-name } 內的所有 { -brand-short-name } 設定檔。
 update-application-use-service =
     .label = 在背景服務當中安裝更新
     .accesskey = b
@@ -594,12 +588,6 @@ sitedata-total-size-calculating = 正在計算網站資料與快取大小…
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = 您儲存的 Cookie、網站資料與快取目前使用了 { $value } { $unit } 磁碟空間
 sitedata-learn-more = 了解更多
-sitedata-keep-until = 保留 Cookie 直到
-    .accesskey = u
-sitedata-keep-until-expire =
-    .label = Cookie 過期
-sitedata-keep-until-closed =
-    .label = 關閉 { -brand-short-name }
 sitedata-delete-on-close =
     .label = 關閉 { -brand-short-name } 時清除 Cookie 與網站資料
     .accesskey = C
@@ -614,16 +602,6 @@ sitedata-disallow-cookies-option =
 # The list items are the strings named sitedata-block-*-option*.
 sitedata-block-desc = 要封鎖的類型
     .accesskey = T
-sitedata-block-trackers-option-recommended =
-    .label = 第三方追蹤器（推薦）
-sitedata-block-trackers-option =
-    .label = 第三方追蹤器
-sitedata-block-unvisited-option =
-    .label = 來自未造訪過網站的 Cookie
-sitedata-block-all-third-party-option =
-    .label = 所有第三方 Cookie（可能造成某些網站不正常）
-sitedata-block-all-option =
-    .label = 所有 Cookie（會造成網站不正常）
 sitedata-option-block-trackers =
     .label = 第三方追蹤器
 sitedata-option-block-unvisited =
@@ -638,13 +616,6 @@ sitedata-clear =
 sitedata-settings =
     .label = 管理資料…
     .accesskey = M
-sitedata-cookies-exceptions =
-    .label = 例外網站…
-    .accesskey = E
-# This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
-# in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
-# Cookies and Site Data section.
-sitedata-warning-your-settings-prevent-changes = 您的內容封鎖設定不允許調整 Cookie 與網站資料設定。
 sitedata-cookies-permissions =
     .label = 管理權限…
     .accesskey = P
@@ -667,41 +638,8 @@ addressbar-suggestions-settings = 修改搜尋建議偏好設定
 ## Privacy Section - Content Blocking
 
 content-blocking-header = 內容封鎖
-content-blocking-desc = 封鎖會拖慢您上網速度並追蹤您的廣告或程式碼等第三方網頁內容。可調整相關設定以在保護與效能間取得最佳平衡。
 content-blocking-description = 封鎖會在網路上追蹤您的第三方內容。控制您要讓不同網站儲存並分享多少線上行為。
 content-blocking-learn-more = 了解更多
-content-blocking-restore-defaults =
-    .label = 回復為預設值
-    .accesskey = R
-content-blocking-toggle-on =
-    .tooltiptext = 關閉內容封鎖
-content-blocking-toggle-off =
-    .tooltiptext = 開啟內容封鎖
-content-blocking-toggle-label-on = 開啟
-    .accesskey = O
-content-blocking-toggle-label-off = 關閉
-    .accesskey = O
-content-blocking-category-label = 選擇要封鎖的內容
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-slow-loading-trackers-label =
-    .label = 慢速載入的追蹤器
-    .accesskey = S
-content-blocking-fastblock-new-description = 只封鎖會影響頁面載入速度的追蹤器。
-content-blocking-tracking-protection-trackers-label =
-    .label = 追蹤器
-    .accesskey = T
-content-blocking-tracking-protection-all-detected-trackers-label =
-    .label = 所有偵測到的追蹤器
-    .accesskey = T
-content-blocking-tracking-protection-new-description = 封鎖所有已知的追蹤器（可能會影響某些頁面載入。）
-content-blocking-tracking-protection-option-always =
-    .label = 總是
-    .accesskey = A
-content-blocking-tracking-protection-option-private =
-    .label = 僅在隱私瀏覽視窗
-    .accesskey = p
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 content-blocking-setting-standard =
@@ -734,51 +672,12 @@ content-blocking-option-private =
     .label = 僅在隱私瀏覽視窗
     .accesskey = p
 content-blocking-tracking-protection-change-block-list = 變更封鎖清單
-content-blocking-third-party-cookies-label =
-    .label = 第三方 Cookie
-    .accesskey = C
-content-blocking-reject-trackers-description = 封鎖所有第三方 Cookie，或只封鎖追蹤器設定的 Cookie
-# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
-# of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
-# or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
-# the UI.
-content-blocking-reject-trackers-warning-your-settings-prevent-changes = 您的 Cookie 與網站資料設定不允許調整第三方 Cookie 的設定。
-content-blocking-change-cookie-settings =
-    .label = 變更 Cookie 設定
-    .accesskey = S
-content-blocking-reject-trackers-block-trackers-option-recommended =
-    .label = 追蹤器（建議）
-    .accesskey = k
-content-blocking-reject-trackers-block-trackers-option =
-    .label = 追蹤器
-    .accesskey = k
-content-blocking-reject-trackers-all-third-parties-option =
-    .label = 所有第三方 Cookie（可能造成某些網站不正常）
-    .accesskey = A
 content-blocking-cookies-label =
     .label = Cookie
     .accesskey = C
 
 ## Privacy Section - Tracking
 
-tracking-header = 追蹤保護
-tracking-desc = 追蹤保護功能會封鎖在不同網站間收集您的瀏覽資料的網路追蹤器。 <a data-l10n-name="learn-more">了解有關追蹤保護功能，以及您的隱私權的更多資訊</a>
-tracking-mode-label = 使用追蹤保護功能，封鎖已知的追蹤器
-tracking-mode-always =
-    .label = 總是
-    .accesskey = y
-tracking-mode-private =
-    .label = 僅在隱私瀏覽視窗
-    .accesskey = l
-tracking-mode-never =
-    .label = 永不
-    .accesskey = n
-tracking-exceptions =
-    .label = 例外網站…
-    .accesskey = x
-tracking-change-block-list =
-    .label = 變更封鎖清單…
-    .accesskey = C
 tracking-manage-exceptions =
     .label = 管理例外網站…
     .accesskey = x
@@ -810,6 +709,9 @@ permissions-block-autoplay-media =
     .label = 防止網站自動播放有聲音的媒體內容
     .accesskey = B
 permissions-block-autoplay-media-menu = 針對會自動播放音效的網站
+permissions-block-autoplay-media2 =
+    .label = 防止網站自動播放聲音
+    .accesskey = B
 permissions-block-autoplay-media-exceptions =
     .label = 例外網站…
     .accesskey = E

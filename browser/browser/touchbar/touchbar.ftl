@@ -17,4 +17,4 @@ reader-view = 閱讀畫面
 # Meant to match the string displayed in an empty URL bar.
 open-location = 搜尋或輸入網址
 share = 分享
-focus = 關閉
+close-window = 關閉視窗
