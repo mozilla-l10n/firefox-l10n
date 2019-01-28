@@ -6,6 +6,7 @@ blocklist-window =
     .title = Blokowanske lisćiny
     .style = width: 55em
 blocklist-desc = Móžeće wubrać, kotru lisćinu { -brand-short-name } ma wužiwać, zo by webelementy blokował, kotrež móhli wašu přehladowansku aktiwitu slědować.
+blocklist-description = Wubjerće lisćinu { -brand-short-name }, zo byšće přesćěhowaki online blokował. Lisćiny so wot <a data-l10n-name="disconnect-link" title="Disconnect">Disconnect</a> k dispoziciji stajeja.
 blocklist-close-key =
     .key = w
 blocklist-treehead-list =
@@ -28,3 +29,7 @@ blocklist-item-moz-std-name = Zakładny škit Disconnect.me (Doporučeny).
 blocklist-item-moz-std-desc = Dowola někotrych slědowarjow, tak zo websydła porjadnje funguja.
 blocklist-item-moz-full-name = Striktny škit Disconnect.me.
 blocklist-item-moz-full-desc = Blokuje znate přesćěhowaki. Někotre sydła snano porjadnje njefunguja.
+blocklist-item-moz-std-listName = Blokowanska lisćina runiny 1 (doporučena).
+blocklist-item-moz-std-description = Zmóžnja někotrym přesćěhowakam, zo bychu mjenje websydłow njefunguja.
+blocklist-item-moz-full-listName = Blokowanska lisćina runiny 2.
+blocklist-item-moz-full-description = Blokuje wšě wotkryte přesćěhowaki. Někotre websydła abo wobsah so snano korektnje njezačitaja.
