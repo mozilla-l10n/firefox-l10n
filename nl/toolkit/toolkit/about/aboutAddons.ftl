@@ -22,7 +22,7 @@ list-empty-available-updates =
     .value = Geen updates gevonden
 
 list-empty-recent-updates =
-    .value = U hebt uw add-ons niet recentelijk bijgewerkt
+    .value = U hebt onlangs geen add-ons bijgewerkt
 
 list-empty-find-updates =
     .label = Controleren op updates
@@ -280,6 +280,10 @@ extensions-updates-update-selected =
 
 shortcuts-manage =
   .label = Sneltoetsen
+
+manage-extensions-shortcuts =
+    .label = Extensiesneltoetsen beheren
+    .accesskey = t
 shortcuts-empty-message = Er zijn geen sneltoetsen voor deze extensie.
 shortcuts-no-addons = U hebt geen extensies ingeschakeld.
 shortcuts-input =
@@ -289,8 +293,8 @@ shortcuts-browserAction = Extensie activeren
 shortcuts-pageAction = Pagina-actie activeren
 shortcuts-sidebarAction = De zijbalk in-/uitschakelen
 
-shortcuts-modifier-mac = Druk op Ctrl, Alt of ⌘
-shortcuts-modifier-other = Druk op Ctrl of Alt
+shortcuts-modifier-mac = Druk ook op Ctrl, Alt of ⌘
+shortcuts-modifier-other = Druk ook op Ctrl of Alt
 shortcuts-invalid = Ongeldige combinatie
 shortcuts-letter = Typ een letter
 shortcuts-system = Kan geen bestaande { -brand-short-name }-sneltoets gebruiken
