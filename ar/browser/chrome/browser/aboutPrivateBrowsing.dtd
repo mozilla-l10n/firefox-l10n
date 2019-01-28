@@ -7,7 +7,6 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "خ">
 
 <!ENTITY privateBrowsing.title                           "التصفح الخاص">
-<!ENTITY privateBrowsing.title.tracking                  "التصفح الخاص مع الحماية من التعقب">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.before       "عندما تتصفح في نافذة خاصة، ">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "لا يحفظ">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        " فَيَرفُكس:">
@@ -28,15 +27,15 @@
 <!ENTITY aboutPrivateBrowsing.learnMore3.title           "التصفح الخاص">
 <!ENTITY aboutPrivateBrowsing.learnMore3.after           ".">
 
-<!ENTITY trackingProtection.title                        "الحماية من التعقّب">
-<!ENTITY trackingProtection.description2                 "تستخدم بعض المواقع متعقبات تستطيع مراقبتك نشاطك عبر الإنترنت. مع الحماية من التعقب سيحجب فَيَرفُكس الكثير من المتعقبات التي تجمع معلومات عن سلوكك على الإنترنت.">
-
 <!ENTITY trackingProtection.startTour1                   "اطلع على طريقة عملها">
 
 <!ENTITY contentBlocking.title                           "حجب المحتوى">
 <!ENTITY contentBlocking.description                     "تستخدم بعض المواقع متعقّبات تُراقب نشاطك وأنت تجوب الإنترنت. في النوافذ الخاصة، ميزة فَيَرفُكس لحجب المحتوى تمنع تلقائيا العديد من المتعقّبات التي تجمع المعلومات عن سلوكك في تصفح الوِب.">
 
 <!-- Strings for new Private Browsing with Search -->
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.search.placeholder): This is the placeholder
+                       text for the search box.   -->
+<!ENTITY aboutPrivateBrowsing.search.placeholder         "ابحث في الوِب">
 <!ENTITY aboutPrivateBrowsing.info.title                 "أنت في نافذة خاصة">
 <!ENTITY aboutPrivateBrowsing.info.description           "يمسح &brandShortName; تأريخ البحث والتصفح لديك عندما تُنهي التطبيق أو تُغلق كل الألسنة والنوافذ بوضع التصفح الخاص. على الرغم من أن هذا لا يجعلك مجهول الهوية إلى المواقع أو مقدّم خدمة الإنترنت لديك، إلا أنه يسهّل عليك إخفاء ما تفعله في الشبكة على أي شخص آخر يستخدم هذا الحاسوب.">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article
