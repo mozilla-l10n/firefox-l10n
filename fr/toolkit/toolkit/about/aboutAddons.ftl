@@ -219,6 +219,7 @@ shortcuts-no-addons = Aucune extension n’est activée.
 shortcuts-input =
     .placeholder = Saisissez un raccourci
 shortcuts-browserAction = Activer l’extension
+shortcuts-pageAction = Activer l’action de la page
 shortcuts-sidebarAction = Afficher/Masquer le panneau latéral
 shortcuts-modifier-mac = Inclure Ctrl, Alt ou ⌘
 shortcuts-modifier-other = Inclure Ctrl ou Alt
