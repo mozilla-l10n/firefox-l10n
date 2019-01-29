@@ -619,6 +619,29 @@ addressbar-suggestions-settings = ਖੋਜ ਇੰਜਣ ਸੁਝਾਵਾਂ �
 
 content-blocking-header = ਸਮੱਗਰੀ ਪਾਬੰਦੀ
 content-blocking-learn-more = ਹੋਰ ਜਾਣੋ
+# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+content-blocking-setting-standard =
+    .label = ਮਿਆਰੀ
+    .accesskey = d
+content-blocking-setting-strict =
+    .label = ਸਖ਼ਤ
+    .accesskey = r
+content-blocking-setting-custom =
+    .label = ਚੁਣਿੰਦਾ
+    .accesskey = c
+content-blocking-standard-description = ਸਿਰਫ਼ ਨਿੱਜੀ ਵਿੰਡੋ ਵਿੱਚ ਪਛਾਣੇ ਹੋਏ ਟਰੈਕਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਉ।
+content-blocking-custom-desc = ਚੁਣੋ ਕਿ ਕਿਸ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਉਣੀ ਹੈ।
+content-blocking-learn-how = ਸਿੱਖੋ ਕਿ ਕਿਵੇਂ
+content-blocking-trackers-label =
+    .label = ਟਰੈਕਰ
+    .accesskey = T
+content-blocking-tracking-protection-option-all-windows =
+    .label = ਸਾਰੀਆਂ ਵਿੰਡੋਆਂ ‘ਚ
+    .accesskey = A
+content-blocking-option-private =
+    .label = ਕੇਵਲ ਨਿੱਜੀ ਵਿੰਡੋਆਂ ‘ਚ
+    .accesskey = p
 content-blocking-tracking-protection-change-block-list = ਪਾਬੰਦੀ ਸੂਚੀ ਬਦਲੋ
 content-blocking-cookies-label =
     .label = ਕੂਕੀਜ਼
