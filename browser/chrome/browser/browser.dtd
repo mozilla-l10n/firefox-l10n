@@ -760,3 +760,9 @@
 <!ENTITY libraryButton.tooltip "Visualizza cronologia, password salvate e altro ancora">
 <!ENTITY accessibilityIndicator.tooltip "Caratteristiche per l’accessibilità attive">
 <!ENTITY addonPostInstallMessage.label "Gestisci i componenti aggiuntivi facendo clic su <image class='addon-addon-icon'/> nel menu <image class='addon-toolbar-icon'/>.">
+<!ENTITY addonPrivateBrowsing.header.label "Estensioni in finestre anonime">
+<!ENTITY addonPrivateBrowsing.body.label "Per impostazione predefinita, le estensioni non possono funzionare in finestre anonime. Questo significa che non saranno attive in Navigazione anonima e non potranno avere accesso alle tue attività online. È possibile consentire il funzionamento di specifiche estensioni in finestre anonime modificando le impostazioni.">
+<!ENTITY addonPrivateBrowsing.okButton.label "OK, tutto chiaro">
+<!ENTITY addonPrivateBrowsing.okButton.accesskey "O">
+<!ENTITY addonPrivateBrowsing.manageButton.label "Gestisci estensioni">
+<!ENTITY addonPrivateBrowsing.manageButton.accesskey "G">
