@@ -6,6 +6,7 @@ blocklist-window =
     .title = Popisi blokiranja
     .style = width: 55em
 blocklist-desc = Možete odabrati koje će popise { -brand-short-name } koristiti za blokiranje Web elemenata koji mogu pratiti vaše aktivnosti pretraživanja.
+blocklist-description = Odaberite popis koji će { -brand-short-name } koristiti kako bi blokirao pratitelje. Popisi su osigurani od strane <a data-l10n-name="disconnect-link" title="Disconnect">Disconnect</a>.
 blocklist-close-key =
     .key = w
 blocklist-treehead-list =
@@ -28,3 +29,7 @@ blocklist-item-moz-std-name = Disconnect.me osnovna zaštita (preporučeno).
 blocklist-item-moz-std-desc = Dopušta neke pratitelje, da bi web stranice mogle ispravno funkcionirati.
 blocklist-item-moz-full-name = Disconnect.me stroga zaštita.
 blocklist-item-moz-full-desc = Blokira poznate pratitelje. Neke stranice možda neće ispravno funkcionirati.
+blocklist-item-moz-std-listName = Razina 1 popisa za blokiranje (preporučeno).
+blocklist-item-moz-std-description = Dozvoljava neke pratitelje kako bi smanjio broj pogrešno prikazanih web stranica.
+blocklist-item-moz-full-listName = Razina 2 popisa za blokiranje.
+blocklist-item-moz-full-description = Blokira sve pratitelje. Neke web stranice ili sadržaji se možda neće ispravno učitati.
