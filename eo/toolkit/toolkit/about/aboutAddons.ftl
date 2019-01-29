@@ -212,6 +212,9 @@ extensions-updates-update-selected =
 
 shortcuts-manage =
     .label = Alirklavoj
+manage-extensions-shortcuts =
+    .label = Administri alirklavojn de etendaĵoj
+    .accesskey = A
 shortcuts-empty-message = Estas neniu alirklavo por tiu ĉi etendaĵo.
 shortcuts-no-addons = Vi havas neniun aktivan etendaĵon.
 shortcuts-input =
@@ -224,3 +227,5 @@ shortcuts-modifier-other = Inkluzivi Stir aŭ Alt
 shortcuts-invalid = Nevalida kombino
 shortcuts-letter = Tajpu literon
 shortcuts-system = Ne eblas anstataŭigi alirklavon de { -brand-short-name }
+go-back-button =
+    .tooltiptext = Iri reen
