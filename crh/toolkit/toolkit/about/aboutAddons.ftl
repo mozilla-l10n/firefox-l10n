@@ -4,6 +4,9 @@
 
 addons-window =
     .title = Eklentiler İdarecisi
+search-header =
+    .placeholder = addons.mozilla.org’da qıdır
+    .searchbuttonlabel = Qıdır
 search-header-shortcut =
     .key = f
 loading-label =
@@ -21,6 +24,12 @@ list-empty-button =
 install-addon-from-file =
     .label = Dosyeden Eklenti Qur…
     .accesskey = Q
+help-button = Eklentiler Destegi
+preferences =
+    { PLATFORM() ->
+        [windows] { -brand-short-name } Seçenekleri
+       *[other] { -brand-short-name } Tercihleri
+    }
 tools-menu =
     .tooltiptext = Episi eklentiler içün aletler
 show-unsigned-extensions-button =
@@ -203,3 +212,22 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Yañartmalarnı Qur
     .tooltiptext = Bu listedeki faydalanışlı yañartmalarnı qur
+
+## Extension shortcut management
+
+shortcuts-manage =
+    .label = Klavye Qısqayolları
+manage-extensions-shortcuts =
+    .label = Eklenti Qısqayollarını İdare Et
+    .accesskey = r
+shortcuts-empty-message = Bu eklenti içün qısqayollar yoq.
+shortcuts-no-addons = Qabilleştirilgen her hangi bir eklentiñiz yoq.
+shortcuts-input =
+    .placeholder = Bir qısqayol kirsetiñiz
+shortcuts-browserAction = Uzantını faalleştir
+shortcuts-pageAction = Sahife fiilini faalleştir
+shortcuts-sidebarAction = Yan-çubuqnı tönter
+shortcuts-modifier-mac = Ctrl, Alt yaki ⌘ dahil et
+shortcuts-modifier-other = Ctrl yaki Alt dahil et
+shortcuts-invalid = Keçersiz kombinasyon
+shortcuts-letter = Bir harf tuşlañız
