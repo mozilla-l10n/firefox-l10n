@@ -9,7 +9,7 @@
 <!ENTITY acceptRemoteContent.accesskey "m">
 <!ENTITY remoteContentExceptions.label "Exceções…">
 <!ENTITY remoteContentExceptions.accesskey "x">
-<!ENTITY acceptRemoteContentInfo.label "Aprenda mais sobre os problemas de privacidade de conteúdo remoto">
+<!ENTITY acceptRemoteContentInfo.label "Saiba mais sobre os problemas de privacidade de conteúdo remoto">
 
 <!-- Web Content -->
 <!ENTITY captionWebContent.label "Conteúdo da web">
