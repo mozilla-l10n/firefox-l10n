@@ -11,8 +11,8 @@
 <!ENTITY returnToPreviousPage1.label "Keri Bar (Tevsiyeli)">
 <!ENTITY advanced.label "İleriletilgen">
 <!ENTITY continue2.label "Daa çoq…">
+<!ENTITY advanced2.label "İleriletilgen…">
 <!ENTITY moreInformation.label "Daa Çoq Malümat">
-
 <!ENTITY viewCertificate.label "Şeadetnameni Köster">
 
 <!-- Specific error messages -->
@@ -153,8 +153,6 @@ will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "<span class='hostname'/> qonaqbayınıñ saibi saytını ğayrımünasip endamlandırğandır. Malümatıñıznı hırsızlanmaqtan imaye etmek içün, &brandShortName; bu ağ-saytına bağlanmağandır.">
 <!ENTITY certerror.introPara2 "&brandShortName; potensial bir emniyet qorquzuvı alğıladı ve <span class='hostname'/> adresine devam etmedi. Bu saytnı ziyaret etseñiz, ücümciler sır-sözler, e-poçtalar ve kredit kartı tafsilâtları kibi malümatıñıznı hırsızlamağa talpınabilir.">
-
-
 <!ENTITY certerror.sts.introPara "&brandShortName; potensial bir emniyet qorquzuvı alğıladı ve <span class='hostname'/> adresine devam etmedi çünki bu sayt emniyetli bir bağlantını şart qoşa.">
 
 <!ENTITY certerror.expiredCert.introPara "&brandShortName; potensial bir mesele alğıladı ve <span class='hostname'/> adresine devam etmedi. Ya bu sayt yañlış endamlandırılğan ya da bilgisayar saatıñız yañlış vaqıtqa tesbit etilgen.">
@@ -227,9 +225,18 @@ içün bir istisna eklemege mümkün degildir.">
 
 <!ENTITY blockedByPolicy.title "Bloklanğan Saife">
 
+<!ENTITY certerror.mitm.title "Yazılım, &brandShortName; Uyğulamasınıñ Emin Olaraq Bu Saytqa Bağlanmasınıñ Aldını Ala">
+<!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> büyük ihtimal ile emin bir sayt, lâkin emniyetli bir bağlantı tesis etilamadı. Bu meseleniñ müsebbibi, bilgisayarıñız yaki şebekeñiz üzerindeki <span class='mitm-name'/> adlı yazılımdır.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "Antivirus yazılımıñızda (sıqça “ağ taraması” yaki “https taraması” dengen) şifrelendirilgen bağlantılarnı tarağan bir hususiyet bar ise, o hususiyetni naqabilleştirebilirsiz. O işke yaramasa, antivirus yazılımıñıznı çetleştirip kene qurabilirsiñiz.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "Qurumsal bir şebeke üzerinde iseñiz, Malümat Tehnologiyası bölümiñiz ile temas qurabilirsiz.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "<span class='mitm-name'/> ile tanış degil iseñiz, bu bir ücüm olabilir ve saytqa devam etmemeñiz lâzim.">
+<!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "<span class='mitm-name'/> ile tanış degil iseñiz, bu bir ücüm olabilir, ve saytqa irişmek içün yapabilgeniñiz bir şey yoqtır.">
+
 <!ENTITY clockSkewError.title "Bilgisayar Saatıñız Yañlış">
 <!ENTITY clockSkewError.longDesc "Bilgisayarıñız saatnıñ <span id='wrongSystemTime_systemDate1'/> olğanını tüşüne ve bu yüzden &brandShortName; emniyetlice bağlanalmay. <span class='hostname'></span> adresini ziyaret etmek içün, sistem ayarlarıñızda bilgisayarıñıznıñ tarihi, saatı ve saat tilimini yañartıp <span class='hostname'></span> saifesini tazertiñiz.">
 
 <!ENTITY prefReset.longDesc "Bunıñ müsebbibi şebeke emniyeti ayarları olabilir kibi körüne. Ögbelgilengen ayarlarnıñ keri tiklenmesini isteysiñizmi?">
 <!ENTITY prefReset.label "Ögbelgilengen ayarlarnı keri tikle">
 
+<!ENTITY networkProtocolError.title "Şebeke Protokolı Hatası">
+<!ENTITY networkProtocolError.longDesc "<p>Seyretmege talpınğanıñız saife kösterilalmay çünki şebeke protokolında bir hata keşfetildi.</p><ul><li>Bu meseleden olarnı haberdar etmek içün lütfen sayt saipleri ile temasqa keçiñiz.</li></ul>">

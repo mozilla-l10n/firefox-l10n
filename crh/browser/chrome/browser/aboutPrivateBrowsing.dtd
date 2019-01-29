@@ -7,7 +7,6 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "H">
 
 <!ENTITY privateBrowsing.title                           "Hususiy Kezinüv">
-<!ENTITY privateBrowsing.title.tracking                  "İzlenme İmayeli Hususiy Kezinüv">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Hususiy bir Pencerede kezingeniñizde, Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "aşağıdakilerni saqlamaz">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
@@ -28,10 +27,17 @@
 <!ENTITY aboutPrivateBrowsing.learnMore3.title           "Hususiy Kezinüv">
 <!ENTITY aboutPrivateBrowsing.learnMore3.after           " aqqında daa çoq ögren.">
 
-<!ENTITY trackingProtection.title                        "İzlenme İmayesi">
-<!ENTITY trackingProtection.description2                 "Bazı ağ-saytları İnternet arqalı faaliyetiñizni közetebilgen izleyicilerni qullana. İzlenme İmayesi ile Firefox kezinüv davranışıñız aqqında malümat toplaybilgen izleyicilerniñ çoqusını bloklaycaq.">
-
 <!ENTITY trackingProtection.startTour1                   "Nasıl çalışqanını kör">
 
 <!ENTITY contentBlocking.title                           "Muhteva Bloklaması">
 <!ENTITY contentBlocking.description                     "Bazı ağ-saytları, İnternet boyunca faaliyetiñizni közetebilgen izciler qullanır. Hususiy pencerelerde, Firefox Muhteva Bloklaması, seyran davranışıñız aqqında malümat toplaybilecek izcilerniñ çoğunı bloklar.">
+
+<!-- Strings for new Private Browsing with Search -->
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.search.placeholder): This is the placeholder
+                       text for the search box.   -->
+<!ENTITY aboutPrivateBrowsing.search.placeholder         "Ağ'da Qıdır">
+<!ENTITY aboutPrivateBrowsing.info.title                 "Hususiy bir Penceredesiz">
+<!ENTITY aboutPrivateBrowsing.info.description           "Uyğulamadan çıqqanıñızda yaki episi Hususiy Kezinüv ilmekleri ve pencerelerini qapatqanıñızda &brandShortName; qıdırma ve kezinüv keçmişiñizni temizler. Bu, ağ-saytları ve internet hızmeti teminatçıñızğa sizni anonim yapmasa da, bu bilgisayarnı qullanğan başqa er angi birinden hat-üstü yapqanlarıñıznı hususiy tutmañıznı qolaylaştırır.">
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article
+                       about private browsing myths.   -->
+<!ENTITY aboutPrivateBrowsing.info.myths                 "Hususiy kezinüv ile alâqalı yayğın efsaneler">
