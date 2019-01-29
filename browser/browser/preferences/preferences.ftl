@@ -102,7 +102,7 @@ extension-controlled-proxy-config = Uma extensão, <img data-l10n-name="icon"/> 
 #
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
-extension-controlled-enable = Para ativar esta extensão vá para <img data-l10n-name="addons-icon"/> Extensões no menu <img data-l10n-name="menu-icon"/>.
+extension-controlled-enable = Para ativar a extensão, vá em <img data-l10n-name="addons-icon"/> Extensões <img data-l10n-name="menu-icon"/> no menu.
 
 ## Preferences UI Search Results
 
