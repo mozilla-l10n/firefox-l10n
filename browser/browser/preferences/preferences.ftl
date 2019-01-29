@@ -4,10 +4,6 @@
 
 do-not-track-description = Bidali webguneei "Do Not Track" seinalea zure jarraipena ez egitea adierazteko
 do-not-track-learn-more = Argibide gehiago
-do-not-track-option-default =
-    .label = Jarraipenaren babesa erabiltzean soilik
-do-not-track-option-default-content-blocking =
-    .label = { -brand-short-name } antzemandako jarraipen-elementuak blokeatzeako konfiguratuta dagoenean soilik
 do-not-track-option-default-content-blocking-known =
     .label = Bakarrik { -brand-short-name } jarraipen-elementu ezagunak blokeatzeko ezarrita dagoenean
 do-not-track-option-always =
@@ -95,9 +91,6 @@ extension-controlled-default-search = Hedapen batek (<img data-l10n-name="icon"/
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = <img data-l10n-name="icon"/> { $name } hedapenak edukiontzi-fitxak behar ditu.
-# This string is shown to notify the user that their tracking protection preferences
-# are being controlled by an extension.
-extension-controlled-websites-tracking-protection-mode = <img data-l10n-name="icon"/> { $name } hedapenak jarraipenaren babesa kontrolatzen du.
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
 extension-controlled-websites-content-blocking-all-trackers = Hedapen bat, <img data-l10n-name="icon"/> { $name }, ezarpen hau kontrolatzen ari da.
@@ -286,6 +279,7 @@ update-application-check-choose =
 update-application-manual =
     .label = Ez egiaztatu inoiz eguneraketarik dagoen (ez gomendatua)
     .accesskey = n
+update-application-warning-cross-user-setting = Ezarpen honek Windows kontu guztiei eta { -brand-short-name }(r)en instalazio hau darabilten profilei eragingo die.
 update-application-use-service =
     .label = Erabili atzeko planoko zerbitzua eguneraketak instalatzeko
     .accesskey = z
@@ -606,12 +600,6 @@ sitedata-total-size-calculating = Gunearen datuen eta cachearen tamaina kalkulat
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Gordetako zure cookiek, gunearen datuek eta cacheak une honetan { $value } { $unit } hartzen dute diskoan.
 sitedata-learn-more = Argibide gehiago
-sitedata-keep-until = Mantentze-epea
-    .accesskey = M
-sitedata-keep-until-expire =
-    .label = Iraungitzea
-sitedata-keep-until-closed =
-    .label = { -brand-short-name } itxi arte
 sitedata-delete-on-close =
     .label = Ezabatu cookieak eta guneetako datuak { -brand-short-name } ixtean
     .accesskey = c
@@ -626,16 +614,6 @@ sitedata-disallow-cookies-option =
 # The list items are the strings named sitedata-block-*-option*.
 sitedata-block-desc = Mota blokeatuta
     .accesskey = M
-sitedata-block-trackers-option-recommended =
-    .label = Hirugarrenen jarraipen-elementuak (gomendatua)
-sitedata-block-trackers-option =
-    .label = Hirugarrenen jarraipen-elementuak
-sitedata-block-unvisited-option =
-    .label = Bisitatu gabeko guneetako cookieak
-sitedata-block-all-third-party-option =
-    .label = Hirugarrenen cookie guztiak (webguneak apur litzake)
-sitedata-block-all-option =
-    .label = Cookie guztiak (webguneak apurtuko ditu)
 sitedata-option-block-trackers =
     .label = Hirugarren jarraipen-elementuak
 sitedata-option-block-unvisited =
@@ -650,13 +628,6 @@ sitedata-clear =
 sitedata-settings =
     .label = Kudeatu datuak…
     .accesskey = K
-sitedata-cookies-exceptions =
-    .label = Salbuespenak…
-    .accesskey = S
-# This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
-# in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
-# Cookies and Site Data section.
-sitedata-warning-your-settings-prevent-changes = Edukia blokeatzeko zure ezarpenek eragotzi egiten dute cookie eta guneetako datuen ezarpenak aldatzea.
 sitedata-cookies-permissions =
     .label = Kudeatu baimenak
     .accesskey = b
@@ -679,41 +650,8 @@ addressbar-suggestions-settings = Aldatu bilaketa-motorren iradokizunetarako hob
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Edukia blokeatzea
-content-blocking-desc = Blokeatu zure nabigatzea moteldu eta webean zehar zure jarraipena egin lezaketen hirugarrenen edukia, adibidez iragarkiak edo kodea. Pertsonalizatu ezarpenak babesaren eta errendimenduaren arteko oreka zuzena aurkitzeko.
 content-blocking-description = Blokeatu webean zure jarraipena egiten duen hirugarrenen edukia. Kontrolatu zure lineako jarduera zenbateraino gordetzen eta partekatzen den webguneen artean.
 content-blocking-learn-more = Argibide gehiago
-content-blocking-restore-defaults =
-    .label = Berrezarri lehenetsiak
-    .accesskey = B
-content-blocking-toggle-on =
-    .tooltiptext = Desaktibatu edukia blokeatzea
-content-blocking-toggle-off =
-    .tooltiptext = Aktibatu edukia blokeatzea
-content-blocking-toggle-label-on = PIZTUTA
-    .accesskey = P
-content-blocking-toggle-label-off = ITZALITA
-    .accesskey = T
-content-blocking-category-label = Aukeratu zer blokeatu
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-slow-loading-trackers-label =
-    .label = Karga moteltzen duten jarraipen-elementuak
-    .accesskey = m
-content-blocking-fastblock-new-description = Blokeatu soilik orrien karga moteltzen duten jarraipen-elementuak.
-content-blocking-tracking-protection-trackers-label =
-    .label = Jarraipen-elementuak
-    .accesskey = r
-content-blocking-tracking-protection-all-detected-trackers-label =
-    .label = Antzemandako jarraipen-elementu guztiak
-    .accesskey = A
-content-blocking-tracking-protection-new-description = Blokeatu jarraipen-elementu ezagunak. (Zenbait orriren karga eragotz lezake).
-content-blocking-tracking-protection-option-always =
-    .label = Beti
-    .accesskey = B
-content-blocking-tracking-protection-option-private =
-    .label = Leiho pribatuetan soilik
-    .accesskey = h
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 content-blocking-setting-standard =
@@ -746,51 +684,12 @@ content-blocking-option-private =
     .label = Leiho pribatuetan soilik
     .accesskey = r
 content-blocking-tracking-protection-change-block-list = Aldatu blokeo-zerrenda
-content-blocking-third-party-cookies-label =
-    .label = Hirugarrenen cookieak
-    .accesskey = c
-content-blocking-reject-trackers-description = Blokeatu hirugarrenen cookie guztiak edo jarraipen-elementuek ezarritakoak soilik.
-# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
-# of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
-# or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
-# the UI.
-content-blocking-reject-trackers-warning-your-settings-prevent-changes = Cookie eta guneetako datuen zure ezarpenek hirugarrenen cookie-ezarpenak aldatzea eragozten dute.
-content-blocking-change-cookie-settings =
-    .label = Aldatu cookie-ezarpenak
-    .accesskey = z
-content-blocking-reject-trackers-block-trackers-option-recommended =
-    .label = Jarraipen-elementuak (gomendatua)
-    .accesskey = r
-content-blocking-reject-trackers-block-trackers-option =
-    .label = Jarraipen-elementuak
-    .accesskey = r
-content-blocking-reject-trackers-all-third-parties-option =
-    .label = Hirugarrenen cookie guztiak (webguneak apur litzake)
-    .accesskey = H
 content-blocking-cookies-label =
     .label = Cookieak
     .accesskey = C
 
 ## Privacy Section - Tracking
 
-tracking-header = Jarraipenaren babesa
-tracking-desc = Jarraipenaren babesarekin hainbat webguneren artean zure nabigazio-datuak biltzea blokeatuko da. <a data-l10n-name="learn-more">Argibide gehiago jarraipenaren babesari eta zure pribatutasunari buruz</a>
-tracking-mode-label = Babestu jarraipena egiteaz ezagunak diren guneetatik
-tracking-mode-always =
-    .label = Beti
-    .accesskey = B
-tracking-mode-private =
-    .label = Leiho pribatuak soilik
-    .accesskey = s
-tracking-mode-never =
-    .label = Inoiz ez
-    .accesskey = I
-tracking-exceptions =
-    .label = Salbuespenak…
-    .accesskey = S
-tracking-change-block-list =
-    .label = Aldatu blokeo-zerrenda…
-    .accesskey = A
 tracking-manage-exceptions =
     .label = Kudeatu salbuespenak…
     .accesskey = s
@@ -822,6 +721,9 @@ permissions-block-autoplay-media =
     .label = Blokeatu webguneak soinudun multimedia erreproduzitzetik
     .accesskey = B
 permissions-block-autoplay-media-menu = Soinua automatikoki erreproduzitzen duten webguneetarako
+permissions-block-autoplay-media2 =
+    .label = Blokeatu webguneei soinudun multimedia erreproduzitzea
+    .accesskey = B
 permissions-block-autoplay-media-exceptions =
     .label = Salbuespenak…
     .accesskey = S
