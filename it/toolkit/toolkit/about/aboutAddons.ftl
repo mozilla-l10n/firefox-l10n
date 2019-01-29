@@ -226,8 +226,6 @@ extensions-updates-update-selected =
 
 ## Extension shortcut management
 
-shortcuts-manage =
-    .label = Scorciatoie da tastiera
 manage-extensions-shortcuts =
     .label = Gestisci scorciatoie da tastiera
     .accesskey = G
