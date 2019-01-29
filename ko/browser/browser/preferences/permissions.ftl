@@ -13,10 +13,10 @@ permissions-block =
     .label = 차단
     .accesskey = B
 permissions-session =
-    .label = 세션 허가
+    .label = 세션 허용
     .accesskey = S
 permissions-allow =
-    .label = 허가
+    .label = 허용
     .accesskey = A
 permissions-site-name =
     .label = 웹사이트
@@ -32,24 +32,24 @@ permissions-button-cancel =
     .label = 취소
     .accesskey = C
 permissions-button-ok =
-    .label = 바뀐 점 저장
+    .label = 변경 내용 저장
     .accesskey = S
 permissions-searchbox =
     .placeholder = 웹사이트 검색
 permissions-capabilities-allow =
-    .label = 허가
+    .label = 허용
 permissions-capabilities-block =
     .label = 차단
 permissions-capabilities-prompt =
     .label = 항상 물어보기
 permissions-capabilities-listitem-allow =
-    .value = 허가
+    .value = 허용
 permissions-capabilities-listitem-block =
     .value = 차단
 permissions-capabilities-listitem-allow-first-party =
     .value = 자신의 것만 허용
 permissions-capabilities-listitem-allow-session =
-    .value = 세션 허가
+    .value = 세션 허용
 
 ## Invalid Hostname Dialog
 
@@ -58,10 +58,6 @@ permissions-invalid-uri-label = 유효한 호스트명을 입력하십시오.
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-tracking-protection-window =
-    .title = 예외 - 추적 보호
-    .style = { permissions-window.style }
-permissions-exceptions-tracking-protection-desc = 이 웹사이트의 추적 방지를 비활성화 하였습니다.
 permissions-exceptions-content-blocking-window =
     .title = 예외 - 콘텐츠 차단
     .style = { permissions-window.style }
@@ -72,14 +68,14 @@ permissions-exceptions-content-blocking-desc = 이 웹 사이트에서 콘텐츠
 permissions-exceptions-cookie-window =
     .title = 예외 - 쿠키와 사이트 데이타
     .style = { permissions-window.style }
-permissions-exceptions-cookie-desc = 어떤 웹사이트에서 쿠키나 사이트 데이터를 항상 사용하거나 사용하지 않도록 설정할 수 잇습니다.  관리할 사이트의 정확한 주소를 입력하고 '차단'이나 '세션에서 허용', '허용'을 클릭하세요.
+permissions-exceptions-cookie-desc = 웹사이트별로 쿠키나 사이트 데이터를 항상 사용하거나 사용하지 않도록 설정할 수 있습니다.  관리할 사이트의 정확한 주소를 입력하고 '차단'이나 '세션에서 허용', '허용'을 클릭하세요.
 
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window =
     .title = 웹사이트 허용 - 팝업
     .style = { permissions-window.style }
-permissions-exceptions-popup-desc = 특정 웹 사이트에 대한 팝업창 허가를 설정할 수 있습니다. 정확한 주소를 입력한 후 허가를 클릭하십시오.
+permissions-exceptions-popup-desc = 특정 웹 사이트에 대한 팝업창 허용을 설정할 수 있습니다. 정확한 주소를 입력한 후 허용을 클릭하십시오.
 
 ## Exceptions - Saved Logins
 
@@ -93,12 +89,12 @@ permissions-exceptions-saved-logins-desc = 다음 웹사이트의 로그인이 �
 permissions-exceptions-addons-window =
     .title = 웹사이트 허용 - 부가기능 설치
     .style = { permissions-window.style }
-permissions-exceptions-addons-desc = 부가 기능이 설치 가능하도록 웹 사이트를 설정할 수 있습니다. 정확한 주소를 입력한 후 허가를 클릭하십시오.
+permissions-exceptions-addons-desc = 부가 기능을 설치 가능하도록 웹 사이트를 설정할 수 있습니다. 정확한 주소를 입력한 후 허용을 클릭하십시오.
 
 ## Exceptions - Autoplay Media
 
 permissions-exceptions-autoplay-media-window2 =
-    .title = 예외 - 자동 실행
+    .title = 예외 - 자동 재생
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = 어떤 웹사이트가 자동으로 소리가 있는 미디어를 항상 재생할지 안 할지를 설정할 수 있습니다. 관리할 웹사이트의 주소를 정확히 입력하고 차단이나 허용을 누르세요.
 
