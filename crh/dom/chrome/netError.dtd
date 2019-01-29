@@ -84,7 +84,7 @@
 ">
 
 <!ENTITY cspBlocked.title "Muhteva Emniyeti Siyaseti Tarafından Bloklanğan">
-<!ENTITY cspBlocked.longDesc "<p>Seyrancı bu saifeniñ bu şekilde yüklenüviniñ aldını aldı çünki saife buña izin bermegen bir muhteva emniyeti siyasetine sahiptir.</p>">
+<!ENTITY cspBlocked.longDesc "<p>Seyrancı bu saifeniñ bu şekilde yüklenüviniñ aldını aldı çünki saife buña izin bermegen bir muhteva emniyeti siyasetine saiptir.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "İfsat Etilgen Muhteva Hatası">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Seyretmege talpınğanıñız saife kösterilalmay çünki verilerniñ naqlinde bir hata keşfetildi.</p><ul><li>Bu meseleden olarnı haberdar etmek içün lütfen sayt saipleri ile temasqa keçiñiz.</li></ul>">
@@ -99,3 +99,5 @@
 
 <!ENTITY blockedByPolicy.title "Bloklanğan Saife">
 
+<!ENTITY networkProtocolError.title "Şebeke Protokolı Hatası">
+<!ENTITY networkProtocolError.longDesc "<p>Seyretmege talpınğanıñız saife kösterilalmay çünki şebeke protokolında bir hata keşfetildi.</p><ul><li>Bu meseleden olarnı haberdar etmek içün lütfen sayt saipleri ile temasqa keçiñiz.</li></ul>">

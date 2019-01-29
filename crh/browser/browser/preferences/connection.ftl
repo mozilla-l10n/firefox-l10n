@@ -67,6 +67,9 @@ connection-proxy-autologin =
 connection-proxy-socks-remote-dns =
     .label = SOCKS v5 qullanğanda Proksi DNS
     .accesskey = d
+connection-dns-over-https =
+    .label = HTTPS üzerinden DNS qabil olsun
+    .accesskey = b
 # Variables:
 #   $url (String) - URL for the DNS over HTTPS provider
 connection-dns-over-https-url-default =
