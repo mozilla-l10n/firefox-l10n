@@ -212,6 +212,9 @@ extensions-updates-update-selected =
 
 shortcuts-manage =
     .label = Teklatuaren lasterbideak
+manage-extensions-shortcuts =
+    .label = Kudeatu hedapenen lasterbideak
+    .accesskey = K
 shortcuts-empty-message = Ez dago lasterbiderik hedapen honentzat.
 shortcuts-no-addons = Ez daukazu hedapenik gaituta.
 shortcuts-input =
@@ -224,3 +227,5 @@ shortcuts-modifier-other = Kontuan hartu Ktrl edo Alt
 shortcuts-invalid = Konbinazio baliogabea
 shortcuts-letter = Idatzi letra bat
 shortcuts-system = Ezin da { -brand-short-name }(r)en lasterbidea gainidatzi
+go-back-button =
+    .tooltiptext = Joan atzera
