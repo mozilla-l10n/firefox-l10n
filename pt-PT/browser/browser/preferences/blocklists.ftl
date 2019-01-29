@@ -32,4 +32,4 @@ blocklist-item-moz-full-desc = Bloqueia trackers conhecidos. Alguns websites pod
 blocklist-item-moz-std-listName = Lista de bloqueio de nível 1 (recomendado).
 blocklist-item-moz-std-description = Permite alguns trackers, de modo a que menos websites quebrem.
 blocklist-item-moz-full-listName = Lista de bloqueio de nível 2.
-blocklist-item-moz-full-description = Bloqueia todos os trackers detectados. Alguns websites ou conteúdo podem não carregar corretamente.
+blocklist-item-moz-full-description = Bloqueia todos os trackers detetados. Alguns websites ou conteúdo podem não carregar corretamente.
