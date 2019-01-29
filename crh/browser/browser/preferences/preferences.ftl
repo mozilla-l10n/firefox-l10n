@@ -4,6 +4,8 @@
 
 do-not-track-description = Ağ-saytlarına izlenmege istemegeniñiz aqqında “Meni İzleme” signalını yiber
 do-not-track-learn-more = Daha çoq ögren
+do-not-track-option-default-content-blocking-known =
+    .label = Faqat { -brand-short-name } bilingen izcilerni bloklamağa tesbit etilgen olğanda
 do-not-track-option-always =
     .label = Er zaman
 pref-page =
@@ -207,6 +209,9 @@ choose-button =
     .label = Sayla…
     .accesskey = S
 choose-browser-language-description = { -brand-short-name } menülerini, mesajlarını ve tebliğlerini köstermek içün qullanılacaq tillerni saylañız.
+manage-browser-languages-button =
+    .label = Alternativlerni Tesbit Et…
+    .accesskey = l
 confirm-browser-language-change-description = Bu deñişikliklerni uyğulamaq içün { -brand-short-name } seyrancısını kene başlatıñız
 confirm-browser-language-change-button = Uyğula ve Kene Başlat
 translate-web-pages =
@@ -274,6 +279,7 @@ update-application-check-choose =
 update-application-manual =
     .label = İç bir zaman teşkermesin (tevsiye etilmez)
     .accesskey = i
+update-application-warning-cross-user-setting = Bu ayar, { -brand-short-name } tatbiqiniñ bu qurulımını qullanğan Windows hesaplarınıñ ve { -brand-short-name } profilleriniñ hepsine uyğulanacaq.
 update-application-use-service =
     .label = Yañartmalarnı qurmaq içün arqazemin hizmetini qullan
     .accesskey = a
@@ -594,6 +600,10 @@ sitedata-total-size-calculating = Sayt verileri ve zula ölçüsi esaplana…
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Saqlanğan çörekler, sayt verileri ve zulañız al-azırda { $value } { $unit } disk fezası qullana.
 sitedata-learn-more = Daha çoq ögren
+sitedata-delete-on-close =
+    .label = { -brand-short-name } qapatılğanında çörekler ve sayt verilerini sil
+    .accesskey = e
+sitedata-delete-on-close-private-browsing = Payidar hususiy seyran tarzında, { -brand-short-name } qapatılğanında çörekler ve sayt verileri her zaman temizlenir.
 sitedata-allow-cookies-option =
     .label = Çöreklerni ve sayt verilerini qabul et
     .accesskey = b
@@ -658,10 +668,31 @@ content-blocking-standard-desc = Himaye ve icraat içün muvazeneli. Ağ-saytlar
 content-blocking-strict-desc = { -brand-short-name } tarafından alğılanğan hepsi izcilerni bloklar. Bazı saytlarnıñ bozulmasına sebep olabilir.
 content-blocking-custom-desc = Nelerniñ bloklanacağını saylañız.
 content-blocking-private-trackers = Faqat Hususiy Pencere'lerde bilingen izciler
+content-blocking-third-party-cookies = Üçünci-taraf izleyici çörekler
+content-blocking-all-windows-trackers = Hepsi pencerelerde bilingen izciler
+content-blocking-all-third-party-cookies = Üçünci-taraf çörekleriniñ hepsi
+content-blocking-warning-title = Diqqat!
+content-blocking-warning-desc = Çörekler ve izcilerniñ bloklanması bazı ağ-saytlarınıñ bozulmasına yol açabilir. İtimat etkeniñiz saytlar içün bloklamanı naqabilleştirmek qolaydır.
+content-blocking-learn-how = Nasılnı ögreniñiz
+content-blocking-trackers-label =
+    .label = İzciler
+    .accesskey = c
+content-blocking-tracking-protection-option-all-windows =
+    .label = Hepsi pencerelerde
+    .accesskey = e
+content-blocking-option-private =
+    .label = Faqat Hususiy Pencerelerde
+    .accesskey = H
 content-blocking-tracking-protection-change-block-list = Blok listesini deñiştir
+content-blocking-cookies-label =
+    .label = Çörekler
+    .accesskey = r
 
 ## Privacy Section - Tracking
 
+tracking-manage-exceptions =
+    .label = İstisnalarnı İdare Et…
+    .accesskey = s
 
 ## Privacy Section - Permissions
 
@@ -690,6 +721,9 @@ permissions-block-autoplay-media =
     .label = Ağ-saytlarınıñ sesli muhtevanı avtomatik olaraq oynatmasını blokla
     .accesskey = o
 permissions-block-autoplay-media-menu = Avtomatik olaraq davuş oynatqan ağ-saytları içün
+permissions-block-autoplay-media2 =
+    .label = Ağ-saytlarınıñ öz-özünden davuş oynatmasını blokla
+    .accesskey = b
 permissions-block-autoplay-media-exceptions =
     .label = İstisnalar…
     .accesskey = s
@@ -729,6 +763,9 @@ collection-health-report-link = Daha çoq ögren
 collection-studies =
     .label = { -brand-short-name } içün tetqiqlerni qurmaq ve çaptırmaq caiz olsun
 collection-studies-link = { -brand-short-name } tetqiqlerini kör
+addon-recommendations =
+    .label = { -brand-short-name } içün maña şahsiyleştirilgen eklenti tavsiyelerini bermek caizdir
+addon-recommendations-link = Daha çoq ögren
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Bu yapılandırma için veri raporlama devre dışı bırakılmış
@@ -807,3 +844,7 @@ space-alert-under-5gb-message = { -brand-short-name } tarafından qulllanılabil
 desktop-folder-name = Masaüstü
 downloads-folder-name = Endirmeler
 choose-download-folder-title = Endirme Cilbentini Saylañız:
+# Variables:
+#   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
+save-files-to-cloud-storage =
+    .label = Dosyelerni { $service-name } hızmetine saqla
