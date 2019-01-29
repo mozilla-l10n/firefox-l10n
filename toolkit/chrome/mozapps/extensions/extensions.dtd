@@ -29,6 +29,7 @@
 <!ENTITY addon.details.tooltip "Visualizza ulteriori dettagli su questo componente aggiuntivo">
 <!ENTITY addon.unknownDate "Sconosciuto">
 <!ENTITY addon.legacy.label "OBSOLETA">
+<!ENTITY addon.privateBrowsing.label "ATTIVA IN NAVIGAZIONE ANONIMA">
 <!ENTITY addon.disabled.postfix "(disattivato)">
 <!ENTITY addon.update.postfix "Aggiorna">
 <!ENTITY addon.undoAction.label "Annulla">
