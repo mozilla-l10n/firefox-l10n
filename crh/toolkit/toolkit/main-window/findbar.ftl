@@ -11,10 +11,14 @@ findbar-previous =
     .tooltiptext = İbareniñ evelki rastkelişini tap
 findbar-find-button-close =
     .tooltiptext = Tap çubuğını qapat
-findbar-highlight-all =
-    .label = Episini Işıqlandır
-    .accesskey = l
-    .tooltiptext = İbareniñ rastkelişleriniñ episini ışıqlandır
+findbar-highlight-all2 =
+    .label = Hepsini Yüksek-ışıt
+    .accesskey =
+        { PLATFORM() ->
+            [macos] l
+           *[other] l
+        }
+    .tooltiptext = İbare rastkelişleriniñ hepsini ışıqlandır
 findbar-case-sensitive =
     .label = Büyük-ufaq Hassasiyeti
     .accesskey = B
