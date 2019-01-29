@@ -49,3 +49,4 @@
 <!ENTITY showToday.tooltip "Ir a hodie">
 <!ENTITY onedayforward.tooltip "Un die avante">
 <!ENTITY onedaybackward.tooltip "Un die retro">
+<!ENTITY showselectedday.tooltip "Monstrar le eventos del die seligite">
