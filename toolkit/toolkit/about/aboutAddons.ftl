@@ -126,6 +126,20 @@ detail-update-manual =
     .label = Uit
     .tooltiptext = Updates niet automatisch installeren
 
+# Used as a description for the option to allow or block an add-on in private windows.
+detail-private-browsing =
+    .value = Uitvoeren in privévensters
+
+detail-private-browsing-description = Extensies zullen in privévensters werken en toegang hebben tot uw online-activiteiten. <label data-l10n-name="detail-private-browsing-learn-more">Meer info</label>
+
+detail-private-browsing-on =
+    .label = Toestaan
+    .tooltiptext = Inschakelen in privénavigatie
+
+detail-private-browsing-off =
+    .label = Niet toestaan
+    .tooltiptext = Uitschakelen in privénavigatie
+
 detail-home =
     .label = Homepage
 
@@ -277,9 +291,6 @@ extensions-updates-update-selected =
     .tooltiptext = Beschikbare updates in deze lijst installeren
 
 ## Extension shortcut management
-
-shortcuts-manage =
-  .label = Sneltoetsen
 
 manage-extensions-shortcuts =
     .label = Extensiesneltoetsen beheren
