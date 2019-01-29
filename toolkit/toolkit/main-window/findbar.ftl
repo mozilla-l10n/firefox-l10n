@@ -11,10 +11,14 @@ findbar-previous =
     .tooltiptext = ਪ੍ਹੈਰੇ ਵਿੱਚ ਪਿਛਲੀ ਮੌਜੂਦਗੀ ਲੱਭੋ
 findbar-find-button-close =
     .tooltiptext = ਲੱਭਣ ਪੱਟੀ ਬੰਦ ਕਰੋ
-findbar-highlight-all =
-    .label = ਸਭ ਉਘਾੜੋ
-    .accesskey = a
-    .tooltiptext = ਪ੍ਹੈਰੇ ਵਿੱਚ ਸਭ ਮੌਜੂਦਗੀਆਂ ਉਘਾੜੋ
+findbar-highlight-all2 =
+    .label = ਸਭ ਉਭਾਰੋ
+    .accesskey =
+        { PLATFORM() ->
+            [macos] l
+           *[other] a
+        }
+    .tooltiptext = ਵਾਕ ਦੀ ਹਰ ਮੌਜੂਦਗੀ ਨੂੰ ਉਘਾੜੋ
 findbar-case-sensitive =
     .label = ਅੱਖਰ ਆਕਾਰ ਮਿਲਦਾ
     .accesskey = c
