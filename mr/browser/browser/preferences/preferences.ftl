@@ -4,8 +4,6 @@
 
 do-not-track-description = आपल्याला ट्रॅक न करण्यासाठी वेबसाइट्सना "ट्रॅक करू नका" हा इशारा पाठवा
 do-not-track-learn-more = अधिक जाणा
-do-not-track-option-default =
-    .label = फक्त ट्रॅकिंग संरक्षण वापरत असताना
 do-not-track-option-always =
     .label = नेहमी
 pref-page =
@@ -87,9 +85,6 @@ extension-controlled-default-search = एक एक्स्टेंशन, <im
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = एक विस्तार, <img data-l10n-name="icon"/> { $name } ला, कंटेनर टॅबची आवश्यकता आहे.
-# This string is shown to notify the user that their tracking protection preferences
-# are being controlled by an extension.
-extension-controlled-websites-tracking-protection-mode = एक एक्स्टेंशन, <img data-l10n-name="icon"/> { $name }, ट्रॅकिंग संरक्षण नियंत्रित करत आहे.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = एक विस्तारण, <img data-l10n-name="icon"/> { $name }, { -brand-short-name } इंटरनेट ला जोडणी कसे करते ते संचालित करत आहे.
@@ -518,7 +513,6 @@ privacy-header = ब्राऊजर गोपनीयता
 
 ## Privacy Section - Forms
 
-forms-header = फॉर्म व पासवर्ड
 forms-ask-to-save-logins =
     .label = संकेतस्थळासाठी लॉगिन आणि पासवर्ड साठवण्यासाठी विचारा
     .accesskey = r
@@ -585,12 +579,6 @@ sitedata-total-size-calculating = कॅश आणि साईट माहि�
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = आपण साठवलेल्या कुकीज, साईट माहिती आणि कॅश सध्या { $value } { $unit } इतकी जागा डिस्कवर व्याप्त करत आहेत
 sitedata-learn-more = अधिक जाणा
-sitedata-keep-until = पर्यंत ठेवा
-    .accesskey = u
-sitedata-keep-until-expire =
-    .label = ते कालबाह्य होतात
-sitedata-keep-until-closed =
-    .label = { -brand-short-name } बंद आहे
 sitedata-allow-cookies-option =
     .label = कुकीज आणि साईट डेटा स्वीकारा
     .accesskey = A
@@ -598,19 +586,12 @@ sitedata-allow-cookies-option =
 # The list items are the strings named sitedata-block-*-option*.
 sitedata-block-desc = प्रकार अवरोधित
     .accesskey = T
-sitedata-block-trackers-option-recommended =
-    .label = तिसरे-पक्षीय मागोवा घेणारे (शिफारसीय)
-sitedata-block-trackers-option =
-    .label = तृतीय-पक्षीय ट्रॅकर
 sitedata-clear =
     .label = माहिती पुसा...
     .accesskey = l
 sitedata-settings =
     .label = डेटा व्यवस्थापित करा...
     .accesskey = M
-sitedata-cookies-exceptions =
-    .label = अपवाद…
-    .accesskey = E
 
 ## Privacy Section - Address Bar
 
@@ -630,56 +611,13 @@ addressbar-suggestions-settings = शोध इंजिनसाठी सू�
 ## Privacy Section - Content Blocking
 
 content-blocking-header = मजकूर अडवणी
-content-blocking-desc = आपले ब्राऊझिंग संथ करणारा व वेब भर आपला मागोवा घेणारा जाहिरात किंवा कोड सारखा त्रयस्थ मजकूर अडवा. आपले सेटिंग अनुकूल करून सुरक्षा आणि कार्यक्षमता यांचा सर्वोत्तम समतोल साधा.
 content-blocking-learn-more = अधिक जाणून घ्या
-content-blocking-restore-defaults =
-    .label = पूर्वनिर्धारित स्थितीत आणा
-    .accesskey = R
-content-blocking-toggle-on =
-    .tooltiptext = मजकूर अवरोध बंद करा
-content-blocking-toggle-off =
-    .tooltiptext = मजकूर अवरोध सुरु करा
-content-blocking-toggle-label-on = सुरु
-    .accesskey = O
-content-blocking-toggle-label-off = बंद
-    .accesskey = O
-content-blocking-category-label = काय अडवायचे ते निवडा
-content-blocking-tracking-protection-option-always =
-    .label = नेहमी
-    .accesskey = A
-content-blocking-tracking-protection-option-private =
-    .label = फक्त खाजगी पटलामध्ये
-    .accesskey = p
-content-blocking-change-cookie-settings =
-    .label = कुकी सेटिंग बदला
-    .accesskey = S
-content-blocking-reject-trackers-block-trackers-option-recommended =
-    .label = ट्रॅकर्स (सुचवलेले)
-    .accesskey = k
-content-blocking-reject-trackers-block-trackers-option =
-    .label = ट्रॅकर्स
-    .accesskey = k
+content-blocking-cookies-label =
+    .label = कुकीज
+    .accesskey = C
 
 ## Privacy Section - Tracking
 
-tracking-header = मागोवा संरक्षण
-tracking-desc = ट्रॅकिंग प्रोटेक्शन ब्लॉक्स ऑनलाइन ट्रॅकर्स ज्या बहुविध वेबसाइट्सवर आपला ब्राउझिंग डेटा संकलित करतात. <a data-l10n-name="learn-more">ट्रॅकिंग संरक्षण आणि आपल्या गोपनीयतेबद्दल अधिक जाणून घ्या</a>
-tracking-mode-label = माहित असलेले ट्रॅकर अडवण्या साठी ट्रॅकिंग संरक्षण वापरा
-tracking-mode-always =
-    .label = नेहमी
-    .accesskey = y
-tracking-mode-private =
-    .label = फक्त खाजगी पटलामध्ये
-    .accesskey = l
-tracking-mode-never =
-    .label = कधीच नाही
-    .accesskey = N
-tracking-exceptions =
-    .label = अपवाद…
-    .accesskey = x
-tracking-change-block-list =
-    .label = अवरोधित सूची बदला…
-    .accesskey = C
 
 ## Privacy Section - Permissions
 
