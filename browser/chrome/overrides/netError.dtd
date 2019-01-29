@@ -124,8 +124,8 @@ was trying to connect. -->
 <!ENTITY certerror.sts.introPara "&brandShortName; 检测到潜在的安全威胁，并因 <span class='hostname'/> 要求安全连接而没有继续。">
 
 <!ENTITY certerror.expiredCert.introPara "&brandShortName; 检测到问题而没有继续连接 <span class='hostname'/>。可能是该网站配置有误，或者您的计算机时钟设置有误。">
-<!ENTITY certerror.expiredCert.secondPara2 "很可能该网站的证书已过期，因而阻拦 &brandShortName; 安全连接。如果您继续访问该网站，可能有攻击者尝试窃取您的密码、电子邮件或信用卡等信息。">
-<!ENTITY certerror.expiredCert.sts.secondPara "很可能该网站的证书已过期，因而阻拦 &brandShortName; 安全连接。">
+<!ENTITY certerror.expiredCert.secondPara2 "很可能该网站的证书已过期，因而阻碍 &brandShortName; 安全地连接。如果您继续访问该网站，攻击者可能尝试窃取您的密码、电子邮件或信用卡等信息。">
+<!ENTITY certerror.expiredCert.sts.secondPara "很可能该网站的证书已过期，因而阻碍 &brandShortName; 安全地连接。">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "您可以做什么？">
 
