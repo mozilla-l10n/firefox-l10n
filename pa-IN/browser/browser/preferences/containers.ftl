@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 containers-window-new =
-    .title = ਨਵਾਂ ਗਲਾਫ ਜੋੜੋ
+    .title = ਨਵਾਂ ਕਨਟੇਨਰ ਜੋੜੋ
     .style = width: 45em
 # Variables
 #   $name (String) - Name of the container
 containers-window-update =
-    .title = { $name } ਗਲਾਫ ਤਰਜੀਹਾਂ
+    .title = { $name } ਕਨਟੇਨਰ ਤਰਜੀਹਾਂ
     .style = width: 45em
 containers-window-close =
     .key = w
@@ -26,7 +26,7 @@ containers-name-label = ਨਾਂ
     .accesskey = N
     .style = { -containers-labels-style }
 containers-name-text =
-    .placeholder = ਇੱਕ ਗਲਾਫ ਨਾਂ ਭਰੋ
+    .placeholder = ਕਨਟੇਨਰ ਨਾਂ ਭਰੋ
 containers-icon-label = ਆਈਕਾਨ
     .accesskey = I
     .style = { -containers-labels-style }
@@ -53,7 +53,7 @@ containers-color-pink =
 containers-color-purple =
     .label = ਬੈਂਗਣੀ
 containers-icon-fingerprint =
-    .label = ਉਂਗਲ-ਛਾਪ
+    .label = ਫਿੰਗਰਪਰਿੰਟ
 containers-icon-briefcase =
     .label = ਸੰਦੂਕੜੀ
 # String represents a money sign but currently uses a dollar sign

@@ -21,16 +21,19 @@
 <!-- Tab context menu -->
 <!ENTITY  reloadTab.label                    "ਟੈਬ ਨੂੰ ਮੁੜ-ਲੋਡ ਕਰੋ">
 <!ENTITY  reloadTab.accesskey                "R">
-<!ENTITY  reloadAllTabs.label                "ਸਭ ਟੈਬਾਂ ਨੂੰ ਮੁੜ-ਲੋਡ ਕਰੋ">
-<!ENTITY  reloadAllTabs.accesskey            "A">
 <!ENTITY  selectAllTabs.label                "ਸਾਰੀਆਂ ਟੈਬਾਂ ਚੁਣੋ">
 <!ENTITY  selectAllTabs.accesskey            "S">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
 <!ENTITY  duplicateTab.label                 "ਡੁਪਲੀਕੇਟ ਟੈਬ">
+<!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
+These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  duplicateTab.accesskey             "D">
-<!ENTITY  closeTabOptions.label              "ਟੈਬ ਬੰਦ ਕਰਨ ਦੀ ਚੋਣਾਂ">
-<!ENTITY  closeTabOptions.accesskey          "O">
+<!-- LOCALIZATION NOTE (duplicateTabs.label): This is a command to duplicate
+a tab (i.e. it is a verb, not adjective). -->
+<!ENTITY  duplicateTabs.label                "ਡੁਪਲੀਕੇਟ ਟੈਬਾਂ">
+<!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
+These items have the same accesskey but will never be visible at the same time. -->
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -38,9 +41,6 @@ left instead of right. -->
 <!ENTITY  closeTabsToTheEnd.accesskey        "i">
 <!ENTITY  closeOtherTabs.label               "ਹੋਰ ਟੈਬਾਂ ਨੂੰ ਬੰਦ ਕਰੋ">
 <!ENTITY  closeOtherTabs.accesskey           "o">
-
-<!ENTITY  closeSelectedTabs.label            "ਚੁਣੀਆਂ ਟੈਬਾਂ ਨੂੰ ਬੰਦ ਕਰੋ">
-<!ENTITY  closeSelectedTabs.accesskey        "S">
 
 <!ENTITY  closeTabs.label                    "ਟੈਬਾਂ ਬੰਦ ਕਰੋ">
 <!ENTITY  closeTabs.accesskey                "S">
@@ -54,10 +54,6 @@ same accesskey but will never be visible at the same time. -->
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinSelectedTabs.accesskey        "p">
-<!-- Reload Tab and Reload Selected Tabs have the same accesskey
-but will never be visible at the same time. -->
-<!ENTITY  reloadSelectedTabs.label           "ਚੁਣੀਆਂ ਟੈਬਾਂ ਮੁੜ-ਲੋਡ ਕਰੋ">
-<!ENTITY  reloadSelectedTabs.accesskey       "R">
 <!-- LOCALIZATION NOTE(reloadTab.label, reloadTabs.label): have the same accesskey
 but will never be visible at the same time. -->
 <!ENTITY  reloadTabs.label                   "ਟੈਬਾਂ ਮੁੜ-ਲੋਡ ਕਰੋ">
@@ -82,8 +78,6 @@ same accesskey but will never be visible at the same time. -->
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinTab.accesskey                 "b">
-<!ENTITY  sendTabToDevice.label              "ਟੈਬ ਨੂੰ ਡਿਵਾਈਸ ਉੱਤੇ ਭੇਜੋ">
-<!ENTITY  sendTabToDevice.accesskey          "D">
 <!ENTITY  sendPageToDevice.label             "ਸਫ਼ੇ ਨੂੰ ਡਿਵਾਈਸ ਉੱਤੇ ਭੇਜੋ">
 <!ENTITY  sendPageToDevice.accesskey         "D">
 <!ENTITY  sendLinkToDevice.label             "ਲਿੰਕ ਨੂੰ ਡਿਵਾਈਸ ਉੱਤੇ ਭੇਜੋ">
@@ -102,8 +96,6 @@ These two items have the same accesskey but will never be visible at the same ti
 <!ENTITY  moveToNewWindow.accesskey          "W">
 <!ENTITY  reopenInContainer.label            "ਕਨਟਰੇਨਰ ਵਿੱਚ ਮੁੜ-ਖੋਲ੍ਹੋ">
 <!ENTITY  reopenInContainer.accesskey        "e">
-<!ENTITY  bookmarkAllTabs.label              "…ਸਭ ਟੈਬਾਂ ਨੂੰ ਬੁੱਕਮਾਰਕ ਕਰੋ">
-<!ENTITY  bookmarkAllTabs.accesskey          "T">
 <!ENTITY  bookmarkTab.label                  "ਟੈਬ ਬੁੱਕਮਾਰਕ ਕਰੋ">
 <!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
@@ -115,6 +107,9 @@ These items have the same accesskey but will never be visible at the same time. 
 <!ENTITY  hiddenTabs.label                   "ਟੈਬਾਂ ਲੁਕਾਓ">
 
 <!ENTITY  listAllTabs.label      "ਸਭ ਟੈਬਾਂ ਦੀ ਲਿਸਟ">
+
+<!-- LOCALIZATION NOTE (allTabsMenu.searchTabs.label): "Search" is a verb, as
+in "Search through tabs". -->
 
 <!ENTITY tabCmd.label "ਨਵੀਂ ਟੈਬ">
 <!ENTITY tabCmd.accesskey "T">
@@ -145,11 +140,6 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.label "ਬੁੱਕਮਾਰਕ ਟੂਲਬਾਰ">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "ਬੁੱਕਮਾਰਕ ਟੂਲਬਾਰ ਆਈਟਮਾਂ">
-
-<!ENTITY toolbarContextMenu.reloadAllTabs.label "ਸਭ ਟੈਬਾਂ ਨੂੰ ਮੁੜ-ਲੋਡ ਕਰੋ">
-<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "A">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "…ਸਭ ਟੈਬਾਂ ਨੂੰ ਬੁੱਕਮਾਰਕ ਕਰੋ">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "T">
 
 <!ENTITY toolbarContextMenu.reloadSelectedTab.label "ਚੁਣੀ ਟੈਬ ਮੁੜ-ਲੋਡ ਕਰੋ">
 <!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
@@ -255,9 +245,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "ਇਹ ਸਫ਼ੇ ਨੂੰ ਬੁੱਕਮਾਰਕ ਕਰੋ">
 <!ENTITY editThisBookmarkCmd.label "ਇਹ ਬੁੱਕਮਾਰਕ ਨੂੰ ਸੋਧੋ">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-
-<!ENTITY subscribeToPageMenupopup.label "ਇਸ ਸਫ਼ਾ ਲਈ ਮੈਂਬਰ ਬਣੋ">
-<!ENTITY subscribeToPageMenuitem.label "…ਸਫ਼ਾ ਲਈ ਮੈਂਬਰ ਬਣੋ">
 
 <!ENTITY addCurPagesCmd.label "…ਸਭ ਟੈਬਾਂ ਲਈ ਬੁੱਕਮਾਰਕ ਬਣਾਓ">
 <!ENTITY showAllBookmarks2.label "ਸਭ ਬੁੱਕਮਾਰਕਾਂ ਨੂੰ ਵੇਖੋ">
@@ -370,7 +357,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY webDeveloperMenu.label       "ਵੈੱਬ ਡਿਵੈਲਪਰ">
 <!ENTITY webDeveloperMenu.accesskey   "W">
-
 
 <!ENTITY inspectContextMenu.label     "ਐਲੀਮੈਂਟ ਜਾਂਚ">
 <!ENTITY inspectContextMenu.accesskey "Q">
@@ -500,7 +486,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "A">
 <!ENTITY customizeMenu.manageExtension.label "ਇਕਸਟੈਨਸ਼ਨਾਂ ਦਾ ਇੰਤਜ਼ਾਮ">
 <!ENTITY customizeMenu.manageExtension.accesskey "E">
-
 <!ENTITY customizeMenu.removeExtension.label "ਇਕਸਟੈਨਸ਼ਨ ਹਟਾਓ">
 <!ENTITY customizeMenu.removeExtension.accesskey "v">
 
@@ -641,6 +626,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.label      "ਇਹ ਫਰੇਮ ਨੂੰ ਬੁੱਕਮਾਰਕ ਕਰੋ">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 <!ENTITY pageAction.copyLink.label    "ਲਿੰਕ ਨੂੰ ਕਾਪੀ ਕਰੋ">
+
+<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
+  "Pocket" is a brand name. -->
+
 <!ENTITY emailPageCmd.label           "…ਲਿੰਕ ਨੂੰ ਈਮੇਲ ਕਰੋ">
 <!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "…ਸਫ਼ੇ ਨੂੰ ਇੰਝ ਸੰਭਾਲੋ">
@@ -827,6 +816,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      Remove Bookmark buttons. -->
 <!ENTITY editBookmark.panel.width                    "23em">
 <!ENTITY editBookmark.done.label                     "ਮੁਕੰਮਲ">
+<!ENTITY editBookmark.showForNewBookmarks.label       "ਸੰਭਾਲਣ ‘ਤੇ ਸੰਪਾਦਕ ਵੇਖੋ">
 
 <!-- LOCALIZATION NOTE (identity.securityView.label)
      This is the header of the security subview in the Site Identity panel. -->
@@ -876,6 +866,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "ਤੁਸੀਂ ਇਸ ਸਾਈਟ ਲਈ ਕੋਈ ਖਾਸ ਇਜਾਜ਼ਤਾਂ ਨਹੀਂ ਦਿੱਤੀਆਂ ਹਨ।">
 <!ENTITY identity.permissionsReloadHint "ਤਬਦੀਲੀਆਂ ਲਾਗੂ ਕਰਨ ਵਾਸਤੇ ਤੁਹਾਨੂੰ ਸਫ਼ੇ ਨੂੰ ਮੁੜ-ਲੋਡ ਕਰਨ ਦੀ ਲੋੜ ਹੋ ਸਕਦੀ ਹੈ।">
 <!ENTITY identity.permissionsPreferences.tooltip "ਇਜਾਜਤ ਪਸੰਦਾਂ ਖੋਲ੍ਹੋ">
+
+
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -978,99 +970,33 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.title "ਸਮੱਗਰੀ ਪਾਬੰਦੀ">
 <!ENTITY contentBlocking.detected "ਇਸ ਸਾਈਟ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਉਣ ਯੋਗ ਸਮੱਗਰੀ ਖੋਜੀ ਗਈ।">
 <!ENTITY contentBlocking.notDetected "ਇਸ ਸਫ਼ੇ ਉੱਤੇ ਕੋਈ ਪਾਬੰਦੀ ਲਗਾਉਣ ਯੋਗ ਸਮੱਗਰੀ ਨਹੀਂ ਖੋਜੀ ਗਈ।">
-<!ENTITY contentBlocking.disabled.label "ਅਸਮਰੱਥ ਹੈ">
-<!ENTITY contentBlocking.disabled.tooltip "ਤੁਸੀਂ ਸਮੱਗਰੀ 'ਤੇ ਪਾਬੰਦੀ ਲਗਾ ਚੁੱਕੇ ਹੋ।">
-<!ENTITY contentBlocking.exception.tooltip "ਤੁਸੀਂ ਇਸ ਸਾਈਟ ਲਈ ਸਮੱਗਰੀ 'ਤੇ ਪਾਬੰਦੀ ਲਗਾ ਚੁੱਕੇ ਹੋ।">
 
-<!ENTITY contentBlocking.fastBlock.label "ਹੌਲੀ-ਲੋਡ ਕਰਨ ਵਾਲੇ ਟਰੈਕਰ">
-<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
-     This label signals that this type of content blocking is turned
-     ON and is successfully blocking malicious/slow content, so this is
-     a positive thing. It forms the end of the (imaginary) sentence
-     "Slow-Loading Trackers [are] Blocked"-->
-<!ENTITY contentBlocking.fastBlock.blocked.label "ਪਾਬੰਦੀ ਲਗਾਈ">
-<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocking.label):
-     This label signals that this type of content blocking is turned
-     ON, so this is a positive thing. It forms the verb in (imaginary) sentence
-     "Firefox is blocking Slow-Loading Trackers"-->
-<!ENTITY contentBlocking.fastBlock.blocking.label "ਪਾਬੰਦੀ ਲਗਾਈ ਜਾ ਰਹੀ ਹੈ">
-<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
-     This is displayed as a link to preferences, where the user can add
-     this specific type of content blocking. When this text is shown
-     the type of content blocking is currently not enabled. -->
-<!ENTITY contentBlocking.fastBlock.add.label "…ਪਾਬੰਦੀ ਜੋੜੋ">
-
-<!ENTITY contentBlocking.trackingProtection2.label "ਸਾਰੇ ਖੋਜੇ ਗਏ ਟਰੈਕਰ">
 <!ENTITY contentBlocking.trackingProtection3.label "ਟਰੈਕਰ">
-<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
-     This label signals that this type of content blocking is turned
-     ON and is successfully blocking tracker content, so this is
-     a positive thing. It forms the end of the (imaginary) sentence
-     "Trackers [are] Blocked"-->
-<!ENTITY contentBlocking.trackingProtection.blocked.label "ਪਾਬੰਦੀ ਲਗਾਈ">
-<!-- LOCALIZATION NOTE (contentBlocking.tranckingProtection.blocking.label):
-     This label signals that this type of content blocking is turned
-     ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
-     "Firefox is blocking Trackers"-->
-<!ENTITY contentBlocking.trackingProtection.blocking.label "ਪਾਬੰਦੀ ਲਗਾਏ">
-<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
-     This is displayed as a link to preferences, where the user can add
-     this specific type of content blocking. When this text is shown
-     the type of content blocking is currently not enabled. -->
-<!ENTITY contentBlocking.trackingProtection.add.label "…ਪਾਬੰਦੀ ਜੋੜੋ">
 
-<!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.blocked.label):
-     This label signals that this type of content blocking is turned
-     ON and is successfully blocking third-party cookies, so this is
-     a positive thing. It forms the end of the (imaginary) sentence
-     "Third-Party Cookies [are] Blocked"-->
-<!ENTITY contentBlocking.3rdPartyCookies.blocked.label "ਪਾਬੰਦੀ ਲਗਾਈ">
-<!-- LOCALIZATION NOTE (contentBlocking.tranckingProtection.blocking.label):
-     This label signals that this type of content blocking is turned
-     ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
-     "Firefox is blocking Third-Party Cookies"-->
-<!ENTITY contentBlocking.3rdPartyCookies.blocking.label "ਪਾਬੰਦੀ ਲਗਾਏ">
-<!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.add.label):
-     This is displayed as a link to preferences, where the user can add
-     this specific type of content blocking. When this text is shown
-     the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.manageSettings.label "ਸਮੱਗਰੀ ਪਾਬੰਦੀ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋ">
+
+<!ENTITY contentBlocking.trackersView.strictInfo.label "ਸਾਰੇ ਟਰੈਕਰਾਂ ‘ਤੇ ਪਾਬੰਦੀ ਲਗਾਉਣ ਲਈ, ਸਮਗਰੀ ਨੂੰ “ਸਖ਼ਤ” ਵਲੋਂ ਨਿਯਤ ਕਰੋ।">
+
 
 <!ENTITY contentBlocking.breakageReportView.learnMore "ਹੋਰ ਜਾਣੋ">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
+<!ENTITY contentBlocking.breakageReportView.collection.comments.label "ਤੁਹਾਡੇ ਕੋਲ ਕਿਹੜੀਆਂ ਮੁਸ਼ਕਲਾਂ ਹਨ? (ਚੋਣਵਾਂ)">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "ਰੱਦ ਕਰੋ">
-
-<!ENTITY trackingProtection.title "ਟਰੈਕਿੰਗ ਤੋਂ ਸੁਰੱਖਿਆ">
-<!ENTITY trackingProtection.tooltip "ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ ਪਸੰਦਾਂ ਨੂੰ ਖੋਲ੍ਹੋ">
-
-<!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock4.label "ਇਸ ਸਾਈਟ ਲਈ ਪਾਬੰਦੀ ਲਗਾਉਣਾ ਅਸਮਰੱਥ ਕਰੋ">
-<!ENTITY trackingProtection.unblock4.accesskey "D">
-<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate4.label "ਪਾਬੰਦੀ ਲਗਾਉਣੀ ਆਰਜ਼ੀ ਤੌਰ 'ਤੇ ਅਸਮਰੱਥ ਕਰੋ">
-<!ENTITY trackingProtection.unblockPrivate4.accesskey "D">
-<!ENTITY trackingProtection.block5.label "ਇਸ ਸਾਈਟ ਲਈ ਪਾਬੰਦੀ ਸਮਰੱਥ ਕਰੋ">
-<!ENTITY trackingProtection.block5.accesskey "E">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock5.label "ਇਸ ਸਾਈਟ ਲਈ ਪਾਬੰਦੀ ਖਤਮ ਕਰੋ">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate6.label, trackingProtection.unblockPrivate6.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate5.label "ਆਰਜ਼ੀ ਤੌਰ ‘ਤੇ ਪਾਬੰਦੀ ਹਟਾਓ">
+<!ENTITY trackingProtection.block6.label "ਇਸ ਸਾਈਟ ਲਈ ਪਾਬੰਦੀ ਲਗਾਓ">
 <!ENTITY trackingProtection.reload2.label "ਸਫ਼ਾ ਮੁੜ-ਲੋਡ ਕਰੋ">
 <!ENTITY trackingProtection.reload2.accesskey "R">
 
 <!ENTITY pluginNotification.showAll.label "ਸਭ ਨੂੰ ਵੇਖਾਓ">
 <!ENTITY pluginNotification.showAll.accesskey "S">
-
-<!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
-<!ENTITY pluginActivateNow.label "ਹੁਣ ਲਈ ਮਨਜ਼ੂਰ">
-<!ENTITY pluginActivateAlways.label "ਮਨਜ਼ੂਰ ਤੇ ਯਾਦ ਰੱਖੋ">
-<!ENTITY pluginBlockNow.label "ਪਲੱਗਇਨ ਉੱਤੇ ਪਾਬੰਦੀ">
 
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
      width of the plugin popup notification that can appear if a plugin has been
@@ -1141,6 +1067,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.label "ਇਕਟੈਨਸ਼ਨ ਅਸਮਰੱਥ ਕਰੋ">
 <!ENTITY newTabControlled.disableButton.accesskey "D">
 
+<!ENTITY homepageControlled.message "ਇਕਸਟੈਂਸ਼ਨ ਬਦਲ ਗਈ ਹੈ ਜੋ ਤੁਸੀਂ ਆਪਣੇ ਹੋਮ ਪੰਨੇ ਦੇ ਰੂਪ ਵਿੱਚ ਦੇਖਦੇ ਹੋੋ। ਜੇ ਤੁਸੀਂ ਇਹ ਤਬਦੀਲੀ ਨਹੀਂ ਚਾਹੁੰਦੇ ਹੋ ਤਾਂ ਤੁਸੀਂ ਆਪਣੀਆਂ ਸੈਟਿੰਗਾਂ ਰੀਸਟੋਰ ਕਰ ਸਕਦੇ ਹੋੋ।">
 <!ENTITY homepageControlled.header.message "ਤੁਹਾਡਾ ਮੁੱਖ ਸਫ਼ਾ ਬਦਲਿਆ ਗਿਆ ਹੈ।">
 <!ENTITY homepageControlled.keepButton.label "ਤਬਦੀਲੀਆਂ ਰੱਖੋ">
 <!ENTITY homepageControlled.keepButton.accesskey "K">
@@ -1156,11 +1083,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "ਸਫ਼ਾ ਕਾਰਵਾਈਆਂ">
 <!ENTITY pageAction.addToUrlbar.label "ਐਡਰੈੱਸ ਪੱਟੀ 'ਚ ਜੋੜੋ">
 <!ENTITY pageAction.removeFromUrlbar.label "ਐਡਰੈੱਸ ਪੱਟੀ ਤੋਂ ਹਟਾਓ">
-<!ENTITY pageAction.allowInUrlbar.label "ਸਿਰਨਾਵਾਂ ਪੱਟੀ 'ਚ ਵੇਖਾਓ">
-<!ENTITY pageAction.disallowInUrlbar.label "ਸਿਰਨਾਵਾਂ ਪੱਟੀ ਵਿੱਚ ਨਾ ਵੇਖਾਓ">
 <!ENTITY pageAction.manageExtension.label "…ਇਕਸਟੈਨਸ਼ਨਾਂ ਦਾ ਪਰਬੰਧ ਕਰੋ">
-
-<!ENTITY pageAction.sendTabToDevice.label "ਟੈਬ ਨੂੰ ਡਿਵਾਈਸ 'ਤੇ ਭੇਜੋ">
 
 <!ENTITY sendToDevice.syncNotReady.label "…ਡਿਵਾਈਸ ਸਿੰਕ ਕੀਤੇ ਜਾ ਰਹੇ ਹਨ">
 
@@ -1178,3 +1101,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE: (addonPostInstallMessage.label):
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
+<!ENTITY addonPostInstallMessage.label "<image class='addon-addon-icon'/> ਮੇਨੂ ਵਿੱਚ <image class='addon-toolbar-icon'/> ਤੇ ਕਲਿੱਕ ਕਰਕੇ ਆਪਣੇ ਐਡਆਨ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋੋ।">
