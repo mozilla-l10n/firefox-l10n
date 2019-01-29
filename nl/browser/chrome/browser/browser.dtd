@@ -1127,3 +1127,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Beheer uw add-ons door op <image class='addon-addon-icon'/> in het menu <image class='addon-toolbar-icon'/> te klikken.">
+
+<!ENTITY addonPrivateBrowsing.header.label "Extensies in privévensters">
+<!ENTITY addonPrivateBrowsing.body.label "Extensies mogen in privévensters standaard niet worden uitgevoerd. Ze zullen niet werken tijdens privénavigatie, en geen toegang hebben tot uw online-activiteiten. U kunt het uitvoeren van elke extensie in privévensters toestaan door uw instellingen te beheren.">
+<!ENTITY addonPrivateBrowsing.okButton.label "Oké, begrepen">
+<!ENTITY addonPrivateBrowsing.okButton.accesskey "O">
+<!ENTITY addonPrivateBrowsing.manageButton.label "Extensies beheren">
+<!ENTITY addonPrivateBrowsing.manageButton.accesskey "b">
