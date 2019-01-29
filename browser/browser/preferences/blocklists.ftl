@@ -6,6 +6,7 @@ blocklist-window =
     .title = 拦截列表
     .style = width: 50em
 blocklist-desc = 您可以选择一个列表，{ -brand-short-name } 将依此过滤可能会跟踪您网上活动的网页元素。
+blocklist-description = 选择 { -brand-short-name } 用于拦截在线跟踪器的列表。列表由 <a data-l10n-name="disconnect-link" title="Disconnect">Disconnect</a> 提供。
 blocklist-close-key =
     .key = w
 blocklist-treehead-list =
