@@ -17,4 +17,4 @@ reader-view = 읽기 모드
 # Meant to match the string displayed in an empty URL bar.
 open-location = 검색어 또는 주소 입력
 share = 공유
-focus = 닫기
+close-window = 창 닫기
