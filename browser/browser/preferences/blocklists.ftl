@@ -6,6 +6,7 @@ blocklist-window =
     .title = Listoj de blokado
     .style = width: 50em
 blocklist-desc = Vi povas elekti la liston, kiun { -brand-short-name } uzos por bloki Teksaĵajn elementojn, kiuj povus spuri vian retumon.
+blocklist-description = Elektu la liston, kiun { -brand-short-name } uzas por bloki retajn spurilojn. Listoj provizitaj de <a data-l10n-name="disconnect-link" title="Disconnect">Disconnect</a>.
 blocklist-close-key =
     .key = w
 blocklist-treehead-list =
@@ -28,3 +29,7 @@ blocklist-item-moz-std-name = Disconnect.me baza protekto (Rekomendata).
 blocklist-item-moz-std-desc = Permesi kelkajn spurilojn, tiel ke retejoj bone funkcios.
 blocklist-item-moz-full-name = Disconnect.me strikta protekto.
 blocklist-item-moz-full-desc = Bloki konatajn spurilojn. Kelkaj retejoj povus ne funkcii bone.
+blocklist-item-moz-std-listName = Nivelo 1 - Listo de blokado (rekomendita).
+blocklist-item-moz-std-description = Tio ĉi permesas kelkajn spurilojn, tiel ke malpli da retejoj ĉesas funkcii.
+blocklist-item-moz-full-listName = Nivelo 2 - Listo de blokado.
+blocklist-item-moz-full-description = Tio ĉi blokas ĉiun trovitajn spurilojn. Kelkaj retejoj aŭ enhavo povus malĝuste ŝargiĝi.
