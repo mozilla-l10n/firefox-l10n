@@ -154,8 +154,8 @@ crashes-time-days =
 # $reports (integer) - Number of pending reports
 pending-reports =
     { $reports ->
-        [one] Hepsi Çöküş Maruzaları (berilgen zaman menzilindeki { $reports } beklegen çöküş dahil)
-       *[other] Hepsi Çöküş Maruzaları (berilgen zaman menzilindeki { $reports } beklegen çöküş dahil)
+        [one] Episi Çöküş Maruzaları (berilgen zaman menzilindeki { $reports } beklegen çöküş dahil)
+       *[other] Episi Çöküş Maruzaları (berilgen zaman menzilindeki { $reports } beklegen çöküş dahil)
     }
 raw-data-copied = Çiy veriler tüyreme-tahtasına kopiyalanğan
 text-copied = Metin tüyreme-tahtasına kopiyalanğan
