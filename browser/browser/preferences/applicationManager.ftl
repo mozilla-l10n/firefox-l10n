@@ -6,9 +6,8 @@ app-manager-window =
     .title = ਐਪਲੀਕੇਸ਼ਨ ਵੇਰਵੇ
     .style = width: 30em; min-height: 20em;
 app-manager-remove =
-    .label = ਹਟਾਉ
+    .label = ਹਟਾਓ
     .accesskey = ਹ
-app-manager-handle-webfeeds = ਅੱਗੇ ਦਿੱਤੀਆਂ ਐਪਲੀਕੇਸ਼ਨਾਂ ਨੂੰ ਵੈੱਬ ਫੀਡ ਹੈਂਡਲ ਕਰਨ ਲਈ ਵਰਤਿਆ ਜਾ ਸਕਦਾ ਹੈ।
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = ਅੱਗੇ ਦਿੱਤੀਆਂ ਐਪਲੀਕੇਸ਼ਨਾਂ ਨੂੰ { $type } ਲਿੰਕ ਹੈਂਡਲ ਕਰਨ ਲਈ ਵਰਤਿਆ ਜਾ ਸਕਦਾ ਹੈ।

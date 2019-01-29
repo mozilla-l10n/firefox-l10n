@@ -4,10 +4,6 @@
 
 do-not-track-description = ਜੇ ਤੁਸੀਂ ਟਰੈਕ ਨਹੀਂ ਕੀਤੇ ਜਾਣਾ ਚਾਹੁੰਦੇ ਹੋ ਤਾਂ ਵੈੱਬਸਾਈਟ ਨੂੰ “ਟਰੈਕ ਨਾ ਕਰੋ” ਸੰਕੇਤ ਭੇਜੋ
 do-not-track-learn-more = ਹੋਰ ਸਿੱਖੋ
-do-not-track-option-default =
-    .label = ਕੇਵਲ ਤਾਂ ਜਦੋਂ ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ ਦੀ ਵਰਤੋਂ ਹੁੰਦੀ ਹੋਵੇ
-do-not-track-option-default-content-blocking =
-    .label = ਸਿਰਫ਼ ਜਦੋਂ { -brand-short-name } ਨੂੰ ਟਰੈਕਰ ਖੋਜਣ ਲਈ ਸੈੱਟ ਕੀਤਾ ਗਿਆ ਹੋਵੇ
 do-not-track-option-default-content-blocking-known =
     .label = ਸਿਰਫ਼ ਜਦੋਂ { -brand-short-name } ਨੂੰ ਜਾਣ-ਪਛਾਣੇ ਟਰੈਕਰਾਂ ਤੇ ਪਾਬੰਦੀ ਲਗਾਉਣ ਲਈ ਸੈੱਟ ਕੀਤਾ ਗਿਆ ਹੋਵੇ
 do-not-track-option-always =
@@ -63,7 +59,7 @@ feature-disable-requires-restart = ਇਹ ਫੀਚਰ ਅਸਮਰੱਥ ਕਰ
 should-restart-title = { -brand-short-name } ਨੂੰ ਮੁੜ-ਚਾਲੂ ਕਰੋ
 should-restart-ok = ਹੁਣੇ { -brand-short-name } ਨੂੰ ਮੁੜ-ਚਾਲੂ ਕਰੋ
 cancel-no-restart-button = ਰੱਦ ਕਰੋ
-restart-later = ਬਾਅਦ 'ਚ ਮੁੜ-ਚਾਲੂ ਕਰਿਉ
+restart-later = ਬਾਅਦ ‘ਚ ਮੁੜ-ਚਾਲੂ ਕਰਿਉ
 
 ## Extension Control Notifications
 ##
@@ -90,9 +86,6 @@ extension-controlled-default-search = <img data-l10n-name="icon"/> { $name } ਇ
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = ਇਕਟੈਨਸ਼ਨ <img data-l10n-name="icon"/> { $name } ਲਈ ਕਨਟੇਨਰ ਟੈਬਾਂ ਲਈ ਚਾਹੀਦੀ ਹੈ।
-# This string is shown to notify the user that their tracking protection preferences
-# are being controlled by an extension.
-extension-controlled-websites-tracking-protection-mode = <img data-l10n-name="icon"/> { $name } ਇਕਸਟੈਨਸਨ ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ ਨੂੰ ਕੰਟੋਰਲ ਕਰ ਰਹੀ ਹੈ।
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
 extension-controlled-websites-content-blocking-all-trackers = ਇਕਸਟੈਨਸ਼ਨ, <img data-l10n-name="icon"/> { $name } ਇਹ ਸੈਟਿੰਗ ਨੂੰ ਕੰਟਰੋਲ ਕਰ ਰਹੀ ਹੈ।
@@ -519,7 +512,7 @@ privacy-header = ਬਰਾਊਜ਼ਰ ਪਰਦੇਦਾਰੀ
 
 logins-header = ਲਾਗਇਨ ਤੇ ਪਾਸਵਰਡ
 forms-ask-to-save-logins =
-    .label = ਵੈੱਬਸਾਈਟਾਂ ਲਈ ਲਾਗਇਨ ਅਤੇ ਪਛਾਣ-ਸ਼ਬਦ ਸੰਭਾਲਣ ਲਈ ਪੁੱਛੋ
+    .label = ਵੈੱਬਸਾਈਟਾਂ ਲਈ ਲਾਗਇਨ ਅਤੇ ਪਾਸਵਰਡ ਸੰਭਾਲਣ ਲਈ ਪੁੱਛੋ
     .accesskey = r
 forms-exceptions =
     .label = …ਛੋਟਾਂ
@@ -584,12 +577,6 @@ sitedata-total-size-calculating = ਸਾਈਟ ਡਾਟੇ ਅਤੇ ਕੈਸ਼ 
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = ਤੁਹਾਡੇ ਸੰਭਾਲੇ ਹੋਏ ਕੂਕੀਜ਼, ਸਾਈਟ ਡਾਟਾ ਅਤੇ ਕੈਸ਼ ਇਸ ਵੇਲੇ { $value } { $unit } ਡਿਸਕ ਥਾਂ ਦੀ ਵਰਤੋਂ ਕਰ ਰਹੀ ਹੈ।
 sitedata-learn-more = ਹੋਰ ਜਾਣੋ
-sitedata-keep-until = ਇਸ ਤੱਕ ਰੱਖੋ
-    .accesskey = u
-sitedata-keep-until-expire =
-    .label = ਉਹਨਾਂ ਦੀ ਮਿਆਦ ਪੁੱਗਦੀ ਹੈ
-sitedata-keep-until-closed =
-    .label = { -brand-short-name } ਬੰਦ ਹੁੰਦਾ ਹੈ
 sitedata-delete-on-close =
     .label = ਜਦੋਂ { -brand-short-name } ਬੰਦ ਹੋਵੇ ਤਾਂ ਕੂਕੀਜ਼ ਤੇ ਸਾਈਟ ਡਾਟੇ ਨੂੰ ਹਟਾਓ
     .accesskey = c
@@ -603,25 +590,12 @@ sitedata-disallow-cookies-option =
 # The list items are the strings named sitedata-block-*-option*.
 sitedata-block-desc = ਪਾਬੰਦੀ ਲਗਾਈ ਕਿਸਮ
     .accesskey = T
-sitedata-block-trackers-option-recommended =
-    .label = ਤੀਜੀ-ਧਿਰ ਟਰੈਕਰ (ਸਿਫਾਰਸ਼ੀ ਹੈ)
-sitedata-block-trackers-option =
-    .label = ਤੀਜੀ-ਧਿਰ ਟਰੈਕਰ
-sitedata-block-unvisited-option =
-    .label = ਬੇਲੋੜੀਆਂ ਵੈੱਬਸਾਈਟਾਂ ਤੋਂ ਕੂਕੀਜ਼
-sitedata-block-all-third-party-option =
-    .label = ਸਾਰੇ ਤੀਜੀ-ਧਿਰ ਕੂਕੀਜ਼ (ਵੈੱਬਸਾਈਟ ਦੇ ਕੰਮ ਨਾ ਕਰਨ ਦਾ ਕਾਰਨ ਹੋ ਸਕਦਾ)
-sitedata-block-all-option =
-    .label = ਸਾਰੇ ਕੂਕੀਜ਼ (ਵੈੱਬਸਾਈਟਾਂ ਦੇ ਕੰਮ ਨਾ ਕਰਨ ਦਾ ਕਾਰਨ ਹੋਵੇਗਾ)
 sitedata-clear =
     .label = …ਡਾਟੇ ਨੂੰ ਸਾਫ਼ ਕਰੋ
     .accesskey = l
 sitedata-settings =
     .label = …ਡਾਟੇ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
     .accesskey = M
-sitedata-cookies-exceptions =
-    .label = ਛੋਟ…
-    .accesskey = E
 sitedata-cookies-permissions =
     .label = …ਇਜਾਜ਼ਤਾਂ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋ
     .accesskey = P
@@ -645,77 +619,13 @@ addressbar-suggestions-settings = ਖੋਜ ਇੰਜਣ ਸੁਝਾਵਾਂ �
 
 content-blocking-header = ਸਮੱਗਰੀ ਪਾਬੰਦੀ
 content-blocking-learn-more = ਹੋਰ ਜਾਣੋ
-content-blocking-restore-defaults =
-    .label = ਮੂਲ ਬਹਾਲ ਕਰੋ
-    .accesskey = R
-content-blocking-toggle-on =
-    .tooltiptext = ਸਮੱਗਰੀ ਪਾਬੰਦੀ ਨੂੰ ਬੰਦ ਕਰੋ
-content-blocking-toggle-off =
-    .tooltiptext = ਸਮੱਗਰੀ ਪਾਬੰਦੀ ਨੂੰ ਚਾਲੂ ਕਰੋ
-content-blocking-toggle-label-on = ਚਾਲੂ
-    .accesskey = O
-content-blocking-toggle-label-off = ਬੰਦ
-    .accesskey = O
-content-blocking-category-label = ਪਾਬੰਦੀ ਲਾਉਣ ਲਈ ਚੋਣ ਕਰੋ
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-slow-loading-trackers-label =
-    .label = ਹੌਲੀ-ਲੋਡਿੰਗ ਟਰੈਕਰ
-    .accesskey = S
-content-blocking-tracking-protection-trackers-label =
-    .label = ਟਰੈਕਰ
-    .accesskey = T
-content-blocking-tracking-protection-all-detected-trackers-label =
-    .label = ਸਾਰੇ ਖੋਜੇ ਗਏ ਟਰੈਕਰ
-    .accesskey = T
-content-blocking-tracking-protection-new-description = ਸਾਰੇ ਜਾਣੇ-ਪਛਾਣੇ ਟਰੈਕਰਾਂ 'ਤੇ ਪਾਬੰਦੀ ਲਗਾਓ। (ਕੁਝ ਸਫ਼ਿਆਂ ਨੂੰ ਲੋਡ ਹੋਣ 'ਤੇ ਰੋਕ ਲੱਗ ਸਕਦੀ ਹੈ।)
-content-blocking-tracking-protection-option-always =
-    .label = ਹਮੇਸ਼ਾ
-    .accesskey = A
-content-blocking-tracking-protection-option-private =
-    .label = ਕੇਵਲ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਵਿੱਚ
-    .accesskey = p
 content-blocking-tracking-protection-change-block-list = ਪਾਬੰਦੀ ਸੂਚੀ ਬਦਲੋ
-content-blocking-third-party-cookies-label =
-    .label = ਤੀਜੀ-ਧਿਰ ਕੂਕੀਜ਼
-    .accesskey = C
-content-blocking-change-cookie-settings =
-    .label = ਕੂਕੀਜ਼ ਸੈਟਿੰਗਾਂ ਬਦਲੋ
-    .accesskey = S
-content-blocking-reject-trackers-block-trackers-option-recommended =
-    .label = ਟਰੈਕਰ (ਸਿਫਾਰਸ਼ੀ)
-    .accesskey = k
-content-blocking-reject-trackers-block-trackers-option =
-    .label = ਟਰੈਕਰ
-    .accesskey = k
-content-blocking-reject-trackers-all-third-parties-option =
-    .label = ਸਾਰੇ ਤੀਜੀ-ਧਿਰ ਕੂਕੀਜ਼ (ਵੈੱਬਸਾਈਟਾਂ ਦੇ ਕੰਮ ਨਾ ਕਰਨ ਦਾ ਕਾਰਨ ਹੋ ਸਕਦਾ ਹੈ)
-    .accesskey = A
 content-blocking-cookies-label =
     .label = ਕੂਕੀਜ਼
     .accesskey = C
 
 ## Privacy Section - Tracking
 
-tracking-header = ਟਰੈਕਿੰਗ ਤੋਂ ਸੁਰੱਖਿਆ
-tracking-desc = ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ ਆਨਲਾਈਨ ਟਰੈਕਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਉਂਦੀ ਹੈ, ਜੋ ਕਿ ਵੱਖ-ਵੱਖ ਵੈੱਬਸਾਈਟਾਂ ਦੁਆਲੇ ਤੁਹਾਡੇ ਬਰਾਊਜ਼ ਕਰਨ ਦੇ ਡਾਟੇ ਨੂੰ ਇਕੱਤਰ ਕਰਦੇ ਹਨ। <a data-l10n-name="learn-more">ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ ਅਤੇ ਆਪਣੀ ਪਰਦੇਦਾਰੀ ਬਾਰੇ ਹੋਰ ਜਾਣੋ</a>
-tracking-mode-label = ਜਾਣੇ-ਪਛਾਣੇ ਟਰੈਕਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਉਣ ਲਈ ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ ਨੂੰ ਵਰਤੋਂ
-tracking-mode-always =
-    .label = ਹਮੇਸ਼ਾ
-    .accesskey = y
-tracking-mode-private =
-    .label = ਸਿਰਫ਼ ਨਿੱਜੀ ਵਿੰਡੋਆਂ ਵਿੱਚ
-    .accesskey = l
-tracking-mode-never =
-    .label = ਕਦੇ ਨਹੀਂ
-    .accesskey = n
-tracking-exceptions =
-    .label = …ਛੋਟਾਂ
-    .accesskey = x
-tracking-change-block-list =
-    .label = ਪਾਬੰਦੀ ਸੂਚੀ ਬਦਲੋ…
-    .accesskey = C
 tracking-manage-exceptions =
     .label = ...ਛੋਟਾਂ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋ
     .accesskey = x
