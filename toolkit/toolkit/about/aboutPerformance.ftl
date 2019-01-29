@@ -5,6 +5,8 @@
 
 ## Column headers
 
+column-type = प्रकार
+column-energy-impact = ऊर्जा प्रभाव
 column-memory = स्मृति
 
 ## Special values for the Name column

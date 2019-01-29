@@ -212,6 +212,9 @@ extensions-updates-update-selected =
 
 shortcuts-manage =
     .label = कुंजीपटल शॉर्टकट‌‌
+manage-extensions-shortcuts =
+    .label = एक्सटेंशन शॉर्टकट प्रबंधित करें
+    .accesskey = S
 shortcuts-empty-message = इस एक्सटेंशन के लिए कोई शॉर्टकट नहीं हैं।
 shortcuts-no-addons = आपके पास कोई एक्सटेंशन सक्रिय नहीं है।
 shortcuts-input =
@@ -223,3 +226,5 @@ shortcuts-modifier-mac = Ctrl, Alt, या ⌘ शामिल करें
 shortcuts-modifier-other = Ctrl या Alt शामिल करें
 shortcuts-invalid = अमान्य संयोजन
 shortcuts-letter = एक अक्षर लिखें
+go-back-button =
+    .tooltiptext = वापस जाएँ
