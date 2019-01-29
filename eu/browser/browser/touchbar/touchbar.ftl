@@ -17,4 +17,4 @@ reader-view = Irakurtzeko ikuspegia
 # Meant to match the string displayed in an empty URL bar.
 open-location = Bilatu edo idatzi helbidea
 share = Partekatu
-focus = Itxi
+close-window = Itxi leihoa

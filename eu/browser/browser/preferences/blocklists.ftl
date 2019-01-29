@@ -6,6 +6,7 @@ blocklist-window =
     .title = Blokeo-zerrendak
     .style = width: 55em
 blocklist-desc = Zure nabigazio-jardueraren jarraipena egiten ari litezkeen web elementuak blokeatzeko { -brand-short-name }ek erabiliko duen zerrenda aukera dezakezu.
+blocklist-description = Aukeratu { -brand-short-name }(e)k jarraipen-elementuak blokeatzeko erabiliko duen zerrenda. Zerrenda <a data-l10n-name="disconnect-link" title="Disconnect">Disconnect</a>-ek hornitzen du.
 blocklist-close-key =
     .key = w
 blocklist-treehead-list =
@@ -28,3 +29,7 @@ blocklist-item-moz-std-name = Disconnect.me oinarrizko babesa (gomendatua).
 blocklist-item-moz-std-desc = Baimendu neurri baterainoko jarraipena webguneak ondo ibil daitezen.
 blocklist-item-moz-full-name = Disconnect.me babes zorrotza.
 blocklist-item-moz-full-desc = Blokeatu jarraipena toki ezagunetatik. Zenbait webgune agian ez dira ondo ibiliko.
+blocklist-item-moz-std-listName = Lehen mailako blokeo-zerrenda (gomendatua).
+blocklist-item-moz-std-description = Zenbait jarraipen-elementu onartzen ditu beraz webgune gutxiago hautsiko dira.
+blocklist-item-moz-full-listName = Bigarren mailako blokeo-zerrenda.
+blocklist-item-moz-full-description = Antzemandako jarraipen-elementu guztiak blokeatzen ditu. Baliteke zenbait webgune edo eduki ondo ez kargatzea.
