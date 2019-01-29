@@ -111,6 +111,7 @@ These items have the same accesskey but will never be visible at the same time. 
 
 <!-- LOCALIZATION NOTE (allTabsMenu.searchTabs.label): "Search" is a verb, as
 in "Search through tabs". -->
+<!ENTITY  allTabsMenu.searchTabs.label       "ਟੈਬਾਂ ਲੱਭੋ">
 
 <!ENTITY tabCmd.label "ਨਵੀਂ ਟੈਬ">
 <!ENTITY tabCmd.accesskey "T">
@@ -983,6 +984,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackersView.label "ਟਰੈਕਰ">
 <!ENTITY contentBlocking.trackersView.strictInfo.label "ਸਾਰੇ ਟਰੈਕਰਾਂ ‘ਤੇ ਪਾਬੰਦੀ ਲਗਾਉਣ ਲਈ, ਸਮਗਰੀ ਨੂੰ “ਸਖ਼ਤ” ਵਲੋਂ ਨਿਯਤ ਕਰੋ।">
 
+<!ENTITY contentBlocking.cookiesView.label "ਕੂਕੀਜ਼ ਅਤੇ ਸਾਈਟ ਡਾਟਾ">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "ਸਮੱਸਿਆ ਦੀ ਰਿਪੋਰਟ ਕਰੋ">
 <!ENTITY contentBlocking.breakageReportView.label "ਸਮੱਸਿਆਵਾਂ ਦੀ ਰਿਪੋਰਟ ਕਰੋ">
