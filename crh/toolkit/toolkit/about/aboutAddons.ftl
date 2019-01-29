@@ -231,3 +231,6 @@ shortcuts-modifier-mac = Ctrl, Alt yaki ⌘ dahil et
 shortcuts-modifier-other = Ctrl yaki Alt dahil et
 shortcuts-invalid = Keçersiz kombinasyon
 shortcuts-letter = Bir harf tuşlañız
+shortcuts-system = Bir { -brand-short-name } qısqayolunınıñ üstünden aydayalmayım
+go-back-button =
+    .tooltiptext = Keri bar

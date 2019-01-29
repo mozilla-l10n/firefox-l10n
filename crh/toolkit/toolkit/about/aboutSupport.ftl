@@ -47,6 +47,7 @@ app-basics-memory-use = Hafiza Qullanımı
 app-basics-performance = İcraat
 app-basics-service-workers = Qaydlı Hızmet İşçileri
 app-basics-profiles = Profiller
+app-basics-launcher-process-status = Fırlatıcı Süreci
 app-basics-multi-process-support = Çoqlusüreç Pencereler
 app-basics-process-count = Ağ Muhtevası Süreçleri
 app-basics-enterprise-policies = Qurum Siyasetleri
@@ -176,6 +177,8 @@ hardware-h264 = Donanım H264 Dekodlaması
 main-thread-no-omtc = ana yip, OMTC yoq
 yes = Ebet
 no = Hayır
+unknown = Namalüm
+virtual-monitor-disp = Virtual Monitor Ekranı
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
@@ -183,6 +186,8 @@ no = Hayır
 
 found = Tapılğan
 missing = Eksik
+gpu-process-pid = GPUProcessPid
+gpu-process = GPUProcess
 gpu-description = Tasvir
 gpu-vendor-id = İsthsalcı Kimligi
 gpu-device-id = Cihaz Kimligi
@@ -215,11 +220,14 @@ d3d9video-crash-buard = D3D9 Video Dekodlayıcı
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Soñraki Kene Başlatma üzerine Sıfırla
 gpu-process-kill-button = GPU Sürecini Soñlandır
+gpu-device-reset = Cihaz Sıfırlaması
 gpu-device-reset-button = Tetik Cihazı Sıfırlanması
 uses-tiling = Fayanslamanı Qullanır
 content-uses-tiling = Fayanslamanı Qullanır (Muhteva)
 off-main-thread-paint-enabled = Baş Yip Tışı Boyama Qabilleştirilgen
 off-main-thread-paint-worker-count = Ana Yip Tışı Boyayıcı İşçi Sayısı
+low-end-machine = Daha tüşük icraatlı maşna alğılandı
+target-frame-rate = Hedef Qare Sür'atı
 audio-backend = Audio Arqa-ucu
 max-audio-channels = Azamiy Kanallar
 channel-layout = Tercihli Kanal Tizilimi
@@ -237,6 +245,10 @@ effective-content-sandbox-level = Effektiv Muhteva Süreci Qum-qutusı Seviyesi
 sandbox-proc-type-content = muhteva
 sandbox-proc-type-file = dosye muhtevası
 sandbox-proc-type-media-plugin = vasat plagini
+launcher-process-status-0 = Qabilleştirilgen
+launcher-process-status-1 = Muvaffaqiyetsizlikten dolayı naqabilleştirilgen
+launcher-process-status-2 = Cebren naqabilleştirilgen
+launcher-process-status-unknown = Namalüm status
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
