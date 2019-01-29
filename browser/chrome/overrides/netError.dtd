@@ -82,7 +82,7 @@
 <li>Entre em contato com os proprietários do site para informá-los sobre esse problema.</li> 
 </ul>">
 
-<!ENTITY netReset.title "A conexão foi redefinida">
+<!ENTITY netReset.title "A conexão foi reiniciada">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
 <!ENTITY netTimeout.title "A conexão expirou">
