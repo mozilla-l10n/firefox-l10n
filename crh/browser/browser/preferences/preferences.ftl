@@ -4,10 +4,6 @@
 
 do-not-track-description = Ağ-saytlarına izlenmege istemegeniñiz aqqında “Meni İzleme” signalını yiber
 do-not-track-learn-more = Daha çoq ögren
-do-not-track-option-default =
-    .label = Faqat İzlenme İmayesi’ni qullanğanda
-do-not-track-option-default-content-blocking =
-    .label = Faqat { -brand-short-name } Alğılanğan İzcilerni bloklamaq üzre ayarlanğan olğanda
 do-not-track-option-always =
     .label = Er zaman
 pref-page =
@@ -93,9 +89,6 @@ extension-controlled-default-search = Bir eklenti, <img data-l10n-name="icon"/> 
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = Bir eklenti, <img data-l10n-name="icon"/> { $name }, İhtivacı İlmeklerni şart qoşa.
-# This string is shown to notify the user that their tracking protection preferences
-# are being controlled by an extension.
-extension-controlled-websites-tracking-protection-mode = Bir eklenti, <img data-l10n-name="icon"/> { $name }, izlenme imayesini kontrol ete.
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
 extension-controlled-websites-content-blocking-all-trackers = Bu ayarnı bir eklenti, <img data-l10n-name="icon"/> { $name }, muraqabe ete.
@@ -141,6 +134,8 @@ set-as-my-default-browser =
 startup-restore-previous-session =
     .label = Evvelki oturımnı keri tikle
     .accesskey = E
+startup-restore-warn-on-quit =
+    .label = Seyrancıdan çıqqanda meni tenbih et
 disable-extension =
     .label = Uzantını naqabilleştir
 tabs-group-header = İlmekler
@@ -285,6 +280,10 @@ update-application-use-service =
 update-enable-search-update =
     .label = Qıdırma motorlarını avtomatik olaraq yañart
     .accesskey = d
+update-pref-write-failure-title = Yazma Hatası
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = Tercih saqlanalmay. Dosyege yazılamadı: { $path }
 
 ## General Section - Performance
 
@@ -528,7 +527,6 @@ privacy-header = Kezici Hususiyatı
 
 ## Privacy Section - Forms
 
-forms-header = Formalar ve Sır-sözler
 logins-header = İçeri İmzalanmalar ve Sır-sözler
 forms-ask-to-save-logins =
     .label = Ağ-saytları içün içeri-imzalanışlar ve sır-sözlerni saqlamağa sora
@@ -596,12 +594,6 @@ sitedata-total-size-calculating = Sayt verileri ve zula ölçüsi esaplana…
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Saqlanğan çörekler, sayt verileri ve zulañız al-azırda { $value } { $unit } disk fezası qullana.
 sitedata-learn-more = Daha çoq ögren
-sitedata-keep-until = Tutuş zamanı
-    .accesskey = u
-sitedata-keep-until-expire =
-    .label = Olar eskirgence
-sitedata-keep-until-closed =
-    .label = { -brand-short-name } qapatılğance
 sitedata-allow-cookies-option =
     .label = Çöreklerni ve sayt verilerini qabul et
     .accesskey = b
@@ -612,25 +604,23 @@ sitedata-disallow-cookies-option =
 # The list items are the strings named sitedata-block-*-option*.
 sitedata-block-desc = Bloklanğan Tür
     .accesskey = T
-sitedata-block-trackers-option-recommended =
-    .label = Üçünci-taraf izciler (tevsiye etilir)
-sitedata-block-trackers-option =
+sitedata-option-block-trackers =
     .label = Üçünci-taraf izciler
-sitedata-block-unvisited-option =
-    .label = Ziyaret etilmegen ağ-saytlarından çörekler
-sitedata-block-all-third-party-option =
-    .label = Üçünci-taraf çörekleriniñ episi (ağ-saytlarınıñ sınmasına sebebiyet berebilir)
-sitedata-block-all-option =
-    .label = Çöreklerniñ episini (ağ-saytlarınıñ sınmasına sebebiyet berecek)
+sitedata-option-block-unvisited =
+    .label = Ziyaret etilmegen saytlardan çörekler
+sitedata-option-block-all-third-party =
+    .label = Üçünci-taraf çörekleriniñ hepsi (ağ-saytlarınıñ bozulmasına sebep olabilir)
+sitedata-option-block-all =
+    .label = Hepsi çörekler (ağ-saytlarınıñ bozulmasına sebep olacaq)
 sitedata-clear =
     .label = Verilerni Temizle…
     .accesskey = l
 sitedata-settings =
     .label = Verilerni İdare Et…
     .accesskey = V
-sitedata-cookies-exceptions =
-    .label = İstisnalar…
-    .accesskey = r
+sitedata-cookies-permissions =
+    .label = Ruhsetlerni idare et…
+    .accesskey = R
 
 ## Privacy Section - Address Bar
 
@@ -650,84 +640,28 @@ addressbar-suggestions-settings = Qıdırma motorı telqinleri içün tercihlern
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Muhteva Bloklaması
-content-blocking-desc = Ağ arqalı sizni izleybilecek, reklamlar yaki kod kibi, üçünci taraf muhtevalarını bloklañız. Eñ yahşı imaye ve icraat muvazeneti içün ayarlarıñıznı özelleştiriñiz.
 content-blocking-description = Ağ arqalı sizni izlegen üçünci-taraf muhtevasını blokla. Hat-üstü faaliyetiñizniñ ne qadarınıñ mağazlanğanını ve saytlar arasında üleşilgenini muraqabe etiñiz.
 content-blocking-learn-more = Daha Çoq Ögren
-content-blocking-restore-defaults =
-    .label = Ögbelgilemelerni Keri Tikle
-    .accesskey = K
-content-blocking-toggle-on =
-    .tooltiptext = Muhteva Bloklamasını Söndür
-content-blocking-toggle-off =
-    .tooltiptext = Muhteva Bloklamasını Yaq
-content-blocking-toggle-label-on = AÇIQ
-    .accesskey = A
-content-blocking-toggle-label-off = SÖNÜK
-    .accesskey = K
-content-blocking-category-label = Nelerniñ bloklanacağını saylañız
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-slow-loading-trackers-label =
-    .label = Yavaş İzleyici Unsurlar
-    .accesskey = Y
-content-blocking-fastblock-new-description = Faqat saifelerni çabuq yüklenmekten alıqoyğan izcilerni blokla.
-content-blocking-tracking-protection-trackers-label =
-    .label = İzciler
-    .accesskey = T
-content-blocking-tracking-protection-all-detected-trackers-label =
-    .label = Alğılanğan İzcilerniñ Episi
-    .accesskey = z
-content-blocking-tracking-protection-new-description = Bilingen izcilerniñ episini blokla. (Bazı saifelerniñ yüklenmesini öñleybilir.)
-content-blocking-tracking-protection-option-always =
-    .label = Er zaman
+# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+content-blocking-setting-standard =
+    .label = Standart
+    .accesskey = S
+content-blocking-setting-strict =
+    .label = Sıqı
+    .accesskey = S
+content-blocking-setting-custom =
+    .label = Özel
     .accesskey = e
-content-blocking-tracking-protection-option-private =
-    .label = Yalıñızca gizli pencerelerde
-    .accesskey = z
+content-blocking-standard-description = Faqat Hususiy Pencere'lerde bilingen izcilerni bloklar.
+content-blocking-standard-desc = Himaye ve icraat içün muvazeneli. Ağ-saytlarınıñ münasip çalışması içün bazı izcilerge izin berir.
+content-blocking-strict-desc = { -brand-short-name } tarafından alğılanğan hepsi izcilerni bloklar. Bazı saytlarnıñ bozulmasına sebep olabilir.
+content-blocking-custom-desc = Nelerniñ bloklanacağını saylañız.
+content-blocking-private-trackers = Faqat Hususiy Pencere'lerde bilingen izciler
 content-blocking-tracking-protection-change-block-list = Blok listesini deñiştir
-content-blocking-third-party-cookies-label =
-    .label = Üçünci-Taraf Çörekleri
-    .accesskey = Ü
-content-blocking-reject-trackers-description = Episi üçünci-taraf çöreklerini yaki yalıñızca izcilerce tesbit etilgenlerini blokla.
-# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
-# of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
-# or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
-# the UI.
-content-blocking-reject-trackers-warning-your-settings-prevent-changes = “Çörekler ve Sayt Verileri”ndeki ayarlarıñız, “Üçünci-taraf Çörekleri” ayarlarına deñişikliklerniñ aldını ala.
-content-blocking-change-cookie-settings =
-    .label = Çörek Ayarlarını Deñiştir
-    .accesskey = r
-content-blocking-reject-trackers-block-trackers-option-recommended =
-    .label = İzciler (tevsiye etilir)
-    .accesskey = z
-content-blocking-reject-trackers-block-trackers-option =
-    .label = İzciler
-    .accesskey = z
-content-blocking-reject-trackers-all-third-parties-option =
-    .label = Üçünci-taraf çörekleriniñ episi (ağ-saytlarınıñ sınmasına sebebiyet berebilir)
-    .accesskey = ü
 
 ## Privacy Section - Tracking
 
-tracking-header = İzlenme İmayesi
-tracking-desc = İzlenme İmayesi, müetaddit sayt arqalı seyran verileriñizni toplağan hat-üstü izcilerni bloklar. <a data-l10n-name="learn-more">İzlenme İmayesi ve hususiyatıñız aqqında daha çoq ögreniñiz.</a>
-tracking-mode-label = Bilinen takipçileri engellemek için İzlenme Koruması’nı kullan
-tracking-mode-always =
-    .label = Er zaman
-    .accesskey = e
-tracking-mode-private =
-    .label = Faqat hususiy pencerelerde
-    .accesskey = h
-tracking-mode-never =
-    .label = Asla
-    .accesskey = A
-tracking-exceptions =
-    .label = İstisnalar…
-    .accesskey = r
-tracking-change-block-list =
-    .label = Bloklama listesini deñiştir…
-    .accesskey = d
 
 ## Privacy Section - Permissions
 
