@@ -30,4 +30,6 @@ blocklist-item-moz-std-desc = 允许部分跟踪行为，同时让网站功能�
 blocklist-item-moz-full-name = Disconnect.me 提供的严格列表。
 blocklist-item-moz-full-desc = 拦截所有已知的跟踪器。某些网站可能会异常。
 blocklist-item-moz-std-listName = 一级拦截列表（推荐）。
+blocklist-item-moz-std-description = 允许部分跟踪器，以减少网站故障率。
 blocklist-item-moz-full-listName = 二级拦截列表。
+blocklist-item-moz-full-description = 拦截检测到的所有跟踪器。可能无法正常载入部分网站或内容。
