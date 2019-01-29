@@ -212,6 +212,9 @@ extensions-updates-update-selected =
 
 shortcuts-manage =
     .label = 키보드 단축키
+manage-extensions-shortcuts =
+    .label = 확장기능 단축키 관리
+    .accesskey = S
 shortcuts-empty-message = 이 확장기능에는 단축키가 없습니다.
 shortcuts-no-addons = 활성화된 확장기능이 없습니다.
 shortcuts-input =
@@ -224,3 +227,5 @@ shortcuts-modifier-other = Ctrl 또는 Alt 포함
 shortcuts-invalid = 잘못된 조합
 shortcuts-letter = 문자 입력
 shortcuts-system = { -brand-short-name } 단축키를 재정의 할 수 없음
+go-back-button =
+    .tooltiptext = 뒤로 가기
