@@ -204,6 +204,12 @@ legacy-extensions =
 legacy-extensions-description =
     Deze extensies voldoen niet aan huidige { -brand-short-name }-standaarden en zijn daarom gedeactiveerd. <label data-l10n-name="legacy-learn-more">Meer info over de wijzigingen omtrent add-ons</label>
 
+private-browsing-description =
+    Extensies mogen in privévensters standaard niet worden uitgevoerd. Dit betekent dat ze tijdens privénavigatie
+    niet zullen werken, en daarin geen toegang zullen hebben tot uw online-activiteiten. Om het uitvoeren van een
+    extensie in privévensters toe te staan, selecteert u hieronder de extensiekaart en wijzigt u de instelling.
+    <label data-l10n-name="private-browsing-learn-more">Meer info.</label>
+
 extensions-view-discover =
     .name = Add-ons verkrijgen
     .tooltiptext = { extensions-view-discover.name }
