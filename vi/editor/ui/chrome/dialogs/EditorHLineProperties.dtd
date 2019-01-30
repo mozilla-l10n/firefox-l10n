@@ -4,7 +4,7 @@
 
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Horizontal Line Properties">
+<!ENTITY windowTitle.label "Thuộc tính đường ngang">
 
 <!ENTITY dimensionsBox.label "Chiều">
 <!ENTITY heightEditField.label "Cao:">
@@ -25,4 +25,3 @@
 <!ENTITY saveSettings.label "Dùng làm Mặc định">
 <!ENTITY saveSettings.accessKey "D">
 <!ENTITY saveSettings.tooltip "Lưu các thiết lập này để dùng khi chèn các đường kẻ ngang mới">
-

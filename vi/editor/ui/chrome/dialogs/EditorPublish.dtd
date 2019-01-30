@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label            "Publish Page">
+<!ENTITY windowTitle.label            "Xuất bản trang">
 <!ENTITY windowTitleSettings.label    "Thiết lập Xuất bản">
 <!ENTITY publishTab.label             "Xuất bản">
 <!ENTITY settingsTab.label            "Thiết lập">
@@ -63,4 +63,3 @@
 <!ENTITY savePassword.label           "Lưu mật khẩu">
 <!ENTITY savePassword.accesskey       "L">
 <!ENTITY savePassword.tooltip         "Chọn để lưu an toàn mật khẩu của bạn bằng Trình quản lí Mật khẩu">
-

@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Page Properties">
+<!ENTITY windowTitle.label "Thuộc tính trang">
 <!ENTITY location.label "Địa chỉ:">
 <!ENTITY lastModified.label "Sửa đổi Mới nhất:">
 <!ENTITY titleInput.label "Tiêu đề:">
@@ -15,4 +15,3 @@
 <!ENTITY locationNewPage.label "[Trang mới, chưa lưu]">
 <!ENTITY EditHEADSource1.label "Người dùng nâng cao:">
 <!ENTITY EditHEADSource2.label "Để chỉnh sửa nội dung của phần &lt;head&gt;, hãy dùng &quot;Mã nguồn HTML&quot; trên Trình đơn Hiển thị hoặc Thanh công cụ Chế độ Chỉnh sửa.">
-

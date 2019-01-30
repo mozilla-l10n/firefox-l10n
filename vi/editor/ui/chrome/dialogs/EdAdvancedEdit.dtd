@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY WindowTitle.label              "Advanced Property Editor">
+<!ENTITY WindowTitle.label              "Trình chỉnh sửa thuộc tính nâng cao">
 <!ENTITY AttName.label                  "Thuộc tính: ">
 <!ENTITY AttValue.label                 "Giá trị: ">
 <!ENTITY PropertyName.label             "Thuộc tính (Property): ">
@@ -16,4 +16,3 @@
 
 <!ENTITY editAttribute.label    "Nhấn lên một mục ở trên để chỉnh sửa giá trị của nó">
 <!ENTITY removeAttribute.label  "Xóa">
-

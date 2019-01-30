@@ -2,12 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY windowTitle.label "Color">
+<!ENTITY windowTitle.label "Màu">
 <!ENTITY lastPickedColor.label "Màu mới chọn">
 <!ENTITY lastPickedColor.accessKey "M">
-<!ENTITY setColor1.label "Nhấn lên một màu hoặc">
-<!ENTITY setColor2.label "nhập một chuỗi màu HTML">
-<!ENTITY setColor2.accessKey "H">
 <!ENTITY setColorExample.label "(vd.: &quot;#0000ff&quot; hoặc &quot;blue&quot;):">
 <!ENTITY default.label "Mặc định">
 <!ENTITY default.accessKey "M">
@@ -20,4 +17,3 @@
 <!ENTITY table.accessKey "B">
 <!ENTITY cell.label "Các Ô">
 <!ENTITY cell.accessKey "C">
-

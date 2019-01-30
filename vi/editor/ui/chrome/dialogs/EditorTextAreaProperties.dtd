@@ -6,24 +6,23 @@
 
 <!ENTITY Settings.label "Thiết lập">
 
-<!ENTITY TextAreaName.label "Field Name:">
+<!ENTITY TextAreaName.label "Tên trường:">
 <!ENTITY TextAreaName.accessKey "T">
-<!ENTITY TextAreaRows.label "Rows:">
+<!ENTITY TextAreaRows.label "Hàng:">
 <!ENTITY TextAreaRows.accessKey "H">
-<!ENTITY TextAreaCols.label "Columns:">
+<!ENTITY TextAreaCols.label "Cột:">
 <!ENTITY TextAreaCols.accessKey "C">
-<!ENTITY TextAreaReadOnly.label "Read Only">
+<!ENTITY TextAreaReadOnly.label "Chỉ đọc">
 <!ENTITY TextAreaReadOnly.accessKey "h">
-<!ENTITY TextAreaDisabled.label "Disabled">
+<!ENTITY TextAreaDisabled.label "Đã tắt">
 <!ENTITY TextAreaDisabled.accessKey "B">
-<!ENTITY TextAreaTabIndex.label "Tab Index:">
+<!ENTITY TextAreaTabIndex.label "Chỉ mục thẻ:">
 <!ENTITY TextAreaTabIndex.accessKey "m">
-<!ENTITY TextAreaAccessKey.label "Access Key:">
+<!ENTITY TextAreaAccessKey.label "Phím truy cập:">
 <!ENTITY TextAreaAccessKey.accessKey "P">
-<!ENTITY InitialText.label "Initial Text:">
+<!ENTITY InitialText.label "Văn bản ban đầu:">
 <!ENTITY InitialText.accessKey "V">
 
-<!ENTITY TextAreaWrap.label "Wrap Mode:">
 <!ENTITY TextAreaWrap.accessKey "B">
 <!ENTITY WrapDefault.value "Mặc định">
 <!ENTITY WrapOff.value "Tắt">
@@ -31,4 +30,3 @@
 <!ENTITY WrapSoft.value "Mềm">
 <!ENTITY WrapPhysical.value "Vật lí">
 <!ENTITY WrapVirtual.value "Ảo">
-

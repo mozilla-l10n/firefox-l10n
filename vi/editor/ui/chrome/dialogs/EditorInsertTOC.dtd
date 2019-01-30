@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY Window.title        "Table of Contents">
+<!ENTITY Window.title        "Mục lục">
 <!ENTITY buildToc.label      "Tạo mục lục từ:">
 <!ENTITY tag.label           "Thẻ:">
 <!ENTITY class.label         "Lớp:">
@@ -14,4 +14,3 @@
 <!ENTITY header6.label       "Cấp 6">
 <!ENTITY makeReadOnly.label  "Tạo mục lục chỉ-đọc">
 <!ENTITY orderedList.label   "Đánh số tất cả các mục trong mục lục">
-

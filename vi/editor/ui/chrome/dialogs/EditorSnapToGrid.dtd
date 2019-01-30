@@ -4,7 +4,6 @@
 
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Snap to Grid">
 
 <!ENTITY enableSnapToGrid.label "kích hoạt Dính vào Đường kẻ ô">
 <!ENTITY enableSnapToGrid.accessKey "k">
@@ -13,4 +12,3 @@
 <!ENTITY sizeEditField.accessKey "h">
 
 <!ENTITY pixelsLabel.value "điểm ảnh">
-

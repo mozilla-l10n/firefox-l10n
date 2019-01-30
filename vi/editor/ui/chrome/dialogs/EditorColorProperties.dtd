@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Page Colors and Background">
+<!ENTITY windowTitle.label "Màu và nền trang">
 <!ENTITY pageColors.label "Màu Trang">
 <!ENTITY defaultColorsRadio.label "Màu mặc định của người đọc (Không thiết lập màu trong trang)">
 <!ENTITY defaultColorsRadio.accessKey "M">
@@ -26,4 +26,3 @@
 <!ENTITY backgroundImage.label "Hình nền:">
 <!ENTITY backgroundImage.accessKey "H">
 <!ENTITY backgroundImage.tooltip "Dùng một tập tin ảnh làm nền cho trang của bạn">
-

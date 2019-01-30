@@ -4,7 +4,7 @@
 
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Convert To Table">
+<!ENTITY windowTitle.label "Chuyển đổi sang bảng">
 <!ENTITY instructions1.label   "Trình soạn thảo tạo một hàng mới trên bảng cho mỗi đoạn đã chọn.">
 <!ENTITY instructions2.label   "Chọn kí tự dùng để tách các khối vào các cột:">
 <!ENTITY commaRadio.label      "Dấu phẩy">
@@ -13,4 +13,3 @@
 <!ENTITY deleteCharCheck.label "Xóa kí tự phân tách">
 <!ENTITY collapseSpaces.label  "Bỏ qua khoảng trống thừa">
 <!ENTITY collapseSpaces.tooltip "Chuyển đổi các khoảng trống kề cận thành một dấu ngăn cách">
-
