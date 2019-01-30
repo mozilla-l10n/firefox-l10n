@@ -6,6 +6,7 @@ blocklist-window =
     .title = Engelleme Listeleri
     .style = width: 55em
 blocklist-desc = Gezinti etkinliğinizi izleyebilecek web öğelerini engellemek için { -brand-short-name } tarayıcınızın hangi listeyi kullanacağını seçebilirsiniz.
+blocklist-description = { -brand-short-name } tarayıcınızın çevrimiçi takipçileri engellemek için kullanacağı listeyi seçin. Listeler <a data-l10n-name="disconnect-link" title="Disconnect">Disconnect</a> tarafından sağlanmaktadır.
 blocklist-close-key =
     .key = w
 blocklist-treehead-list =
@@ -28,3 +29,7 @@ blocklist-item-moz-std-name = Disconnect.me temel koruma (önerilen).
 blocklist-item-moz-std-desc = Web sitelerinin düzgün çalışması için bazı takipçilere izin verir.
 blocklist-item-moz-full-name = Disconnect.me sıkı koruma.
 blocklist-item-moz-full-desc = Bilinen tüm takipçiler engeller. Bazı siteler düzgün çalışmayabilir.
+blocklist-item-moz-std-listName = 1. seviye engelleme listesi (Önerilir).
+blocklist-item-moz-std-description = Daha az sitede sorun yaşamanız için bazı takipçilere izin verir.
+blocklist-item-moz-full-listName = 2. seviye engelleme listesi.
+blocklist-item-moz-full-description = Algılanan tüm takipçileri engeller. Bazı web siteleri veya içerikler düzgün yüklenmeyebilir.
