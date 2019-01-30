@@ -212,3 +212,25 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Ynstallearje fernijingen
     .tooltiptext = Ynstallearje beskikbere fernijingen op dize list
+
+## Extension shortcut management
+
+shortcuts-manage =
+    .label = Fluchtoetsen
+manage-extensions-shortcuts =
+    .label = Utwreidingsfluchtoetsen beheare
+    .accesskey = U
+shortcuts-empty-message = Der binne gjin fluchtoetsen foar dizze útwreiding.
+shortcuts-no-addons = Jo hawwe gjin útwreidingen ynskeakele.
+shortcuts-input =
+    .placeholder = Typ in fluchtoets
+shortcuts-browserAction = Utwreiding aktivearje
+shortcuts-pageAction = Side-aksje aktivearje
+shortcuts-sidebarAction = De sydbalke yn-/útskeakelje
+shortcuts-modifier-mac = Druk ek op Ctrl, Alt of ⌘
+shortcuts-modifier-other = Druk ek op Ctrl of Alt
+shortcuts-invalid = Unjildige kombinaasje
+shortcuts-letter = Typ in letter
+shortcuts-system = Kin gjin besteande { -brand-short-name }-fluchtoets brûke
+go-back-button =
+    .tooltiptext = Tebekgean
