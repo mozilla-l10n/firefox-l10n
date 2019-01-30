@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY AdvancedEditButton.label "Advanced Edit…">
+<!ENTITY AdvancedEditButton.label "Chỉnh sửa nâng cao…">
 <!ENTITY AdvancedEditButton.accessKey "S">
 <!ENTITY AdvancedEditButton.tooltip "Thêm hoặc chỉnh sửa thuộc tính HTML, thuộc tính style và JavaScript">
 <!ENTITY chooseFileButton.label "Chọn Tập Tin...">
@@ -14,6 +14,3 @@
 <!ENTITY makeUrlRelative.tooltip "Thay đổi giữa URL tuyệt đối và tương đối. Bạn phải lưu trang trước khi thay đổi.">
 
 <!-- Shared by Link and Image dialogs -->
-<!ENTITY LinkURLEditField.label "Nhập một địa chỉ trang web, một tập tin trong máy, hoặc chọn một Đầu đề hoặc Thẻ neo Anchor từ danh sách thả xuống:">
-<!ENTITY LinkURLEditField.accessKey "N">
-

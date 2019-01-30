@@ -4,7 +4,7 @@
 
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Insert Character">
+<!ENTITY windowTitle.label "Chèn ký tự">
 <!ENTITY category.label "Phân mục">
 <!ENTITY letter.label "Chữ cái:">
 <!ENTITY letter.accessKey "C">
@@ -17,4 +17,3 @@
 <!ENTITY commonSymbols.label "Biểu tượng Phổ biến">
 <!ENTITY insertButton.label "Chèn">
 <!ENTITY closeButton.label "Đóng">
-

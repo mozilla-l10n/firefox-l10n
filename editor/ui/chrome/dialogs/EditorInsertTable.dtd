@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Insert Table">
+<!ENTITY windowTitle.label "Chèn bảng">
 
 <!ENTITY size.label "Kích thước">
 <!ENTITY numRowsEditField.label "Hàng:">
@@ -16,4 +16,3 @@
 <!ENTITY borderEditField.accessKey "V">
 <!ENTITY borderEditField.tooltip "Gõ một số để tạo đường viền bảng, hoặc gõ số không (0) để không tạo viền">
 <!ENTITY pixels.label "điểm ảnh">
-

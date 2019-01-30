@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Insert HTML">
+<!ENTITY windowTitle.label "Chèn HTML">
 <!ENTITY sourceEditField.label "Chèn văn bản và thẻ HTML:">
 <!ENTITY example.label "Ví dụ: ">
 <!-- LOCALIZATION NOTE (exampleOpenTag.label): DONT_TRANSLATE: they are text for HTML tagnames: "<i>" and "</i>" -->
@@ -13,4 +13,3 @@
 <!ENTITY exampleText.label "Xin chào Thế giới!">
 <!ENTITY insertButton.label "Chèn">
 <!ENTITY insertButton.accesskey "C">
-

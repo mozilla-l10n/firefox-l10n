@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Window title -->
-<!ENTITY siteUrl.label         "Site URL:">
+<!ENTITY siteUrl.label         "URL trang web:">
 <!ENTITY docSubdir.label       "Thư mục con của trang:">
 <!ENTITY otherSubdir.label     "Thư mục con của hình:">
 
@@ -14,4 +14,3 @@
 
 <!ENTITY keepOpen              "Giữ cửa sổ mở sau khi việc xuất bản hoàn tất.">
 <!ENTITY closeButton.label     "Đóng">
-

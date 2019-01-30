@@ -4,7 +4,7 @@
 
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "List Properties">
+<!ENTITY windowTitle.label "Thuộc tính danh sách">
 
 <!ENTITY ListType.label "Kiểu Danh Sách">
 <!ENTITY bulletStyle.label "Kiểu Bullet:">
@@ -18,4 +18,3 @@
 <!ENTITY changeEntireListRadio.accessKey "T">
 <!ENTITY changeSelectedRadio.label "Chỉ thay đổi các mục được chọn">
 <!ENTITY changeSelectedRadio.accessKey "C">
-
