@@ -29,8 +29,6 @@ a tab (i.e. it is a verb, not adjective). -->
 <!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  duplicateTab.accesskey             "D">
-<!ENTITY  closeTabOptions.label              "Opțiuni de închidere a filelor">
-<!ENTITY  closeTabOptions.accesskey          "O">
 <!-- LOCALIZATION NOTE (duplicateTabs.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
 <!ENTITY  duplicateTabs.label                "Duplică filele">
@@ -288,7 +286,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Stochează date în stocarea persistentă">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Browserul este controlat de la distanță">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Deschide panoul de autentificare web">
-
 <!ENTITY urlbar.storageAccessAnchor.tooltip               "Deschide panoul de permisiuni pentru activitatea de navigare">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Gestionează partajarea camerei și/sau a microfonului cu acest site">
@@ -328,8 +325,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton2.label         "Meniu de marcaje">
 <!ENTITY bookmarksMenuButton.other.label    "Alte marcaje">
 <!ENTITY bookmarksMenuButton.mobile.label   "Marcaje mobile">
-<!ENTITY viewBookmarksSidebar2.label        "Vezi bara laterală cu marcaje">
-<!ENTITY hideBookmarksSidebar.label         "Ascunde bara laterală cu marcaje">
+<!ENTITY viewBookmarksSidebar2.label        "Vezi bara laterală de marcaje">
+<!ENTITY hideBookmarksSidebar.label         "Ascunde bara laterală de marcaje">
 <!ENTITY viewBookmarksToolbar.label         "Vezi bara de marcaje">
 <!ENTITY hideBookmarksToolbar.label         "Ascunde bara de marcaje">
 <!ENTITY searchBookmarks.label              "Caută marcaje">
@@ -883,6 +880,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsReloadHint "Ar putea fi nevoie să reîncarci pagina pentru aplicarea modificărilor.">
 <!ENTITY identity.permissionsPreferences.tooltip "Deschide preferințele pentru permisiuni">
 
+<!ENTITY identity.contentBlockingPreferences.tooltip "Deschide preferințele pentru blocarea de conținut">
+
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Filele browserului">
@@ -984,66 +984,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.title "Blocare de conținut">
 <!ENTITY contentBlocking.detected "Conținut blocabil detectat pe acest site.">
 <!ENTITY contentBlocking.notDetected "Niciun conținut blocabil detectat pe această pagină.">
-<!ENTITY contentBlocking.disabled.label "Dezactivat">
-<!ENTITY contentBlocking.disabled.tooltip "Ai dezactivat blocarea de conținut.">
-<!ENTITY contentBlocking.exception.tooltip "Ai dezactivat blocarea de conținut pe acest site.">
-
-<!ENTITY contentBlocking.fastBlock.label "Elemente de urmărire cu încărcare lentă">
-<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
-     This label signals that this type of content blocking is turned
-     ON and is successfully blocking malicious/slow content, so this is
-     a positive thing. It forms the end of the (imaginary) sentence
-     "Slow-Loading Trackers [are] Blocked"-->
-<!ENTITY contentBlocking.fastBlock.blocked.label "Blocat">
-<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocking.label):
-     This label signals that this type of content blocking is turned
-     ON, so this is a positive thing. It forms the verb in (imaginary) sentence
-     "Firefox is blocking Slow-Loading Trackers"-->
-<!ENTITY contentBlocking.fastBlock.blocking.label "Se blochează">
-<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
-     This is displayed as a link to preferences, where the user can add
-     this specific type of content blocking. When this text is shown
-     the type of content blocking is currently not enabled. -->
-<!ENTITY contentBlocking.fastBlock.add.label "Adaugă o blocare…">
-
-<!ENTITY contentBlocking.trackingProtection2.label "Toate elementele de urmărire detectate">
 
 <!ENTITY contentBlocking.trackingProtection3.label "Elemente de urmărire">
-<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
-     This label signals that this type of content blocking is turned
-     ON and is successfully blocking tracker content, so this is
-     a positive thing. It forms the end of the (imaginary) sentence
-     "Trackers [are] Blocked"-->
-<!ENTITY contentBlocking.trackingProtection.blocked.label "Blocați">
-<!-- LOCALIZATION NOTE (contentBlocking.tranckingProtection.blocking.label):
-     This label signals that this type of content blocking is turned
-     ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
-     "Firefox is blocking Trackers"-->
-<!ENTITY contentBlocking.trackingProtection.blocking.label "Se blochează">
-<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
-     This is displayed as a link to preferences, where the user can add
-     this specific type of content blocking. When this text is shown
-     the type of content blocking is currently not enabled. -->
-<!ENTITY contentBlocking.trackingProtection.add.label "Adaugă o blocare…">
-
-<!ENTITY contentBlocking.3rdPartyCookies.label "Cookie-uri de la terți">
-<!ENTITY contentBlocking.3rdPartyCookies.trackers.label "Cookie-uri de urmărire">
-<!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.blocked.label):
-     This label signals that this type of content blocking is turned
-     ON and is successfully blocking third-party cookies, so this is
-     a positive thing. It forms the end of the (imaginary) sentence
-     "Third-Party Cookies [are] Blocked"-->
-<!ENTITY contentBlocking.3rdPartyCookies.blocked.label "Blocat">
-<!-- LOCALIZATION NOTE (contentBlocking.tranckingProtection.blocking.label):
-     This label signals that this type of content blocking is turned
-     ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
-     "Firefox is blocking Third-Party Cookies"-->
-<!ENTITY contentBlocking.3rdPartyCookies.blocking.label "Se blochează">
-<!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.add.label):
-     This is displayed as a link to preferences, where the user can add
-     this specific type of content blocking. When this text is shown
-     the type of content blocking is currently not enabled. -->
-<!ENTITY contentBlocking.3rdPartyCookies.add.label "Adaugă blocaj…">
 
 <!ENTITY contentBlocking.manageSettings.label "Gestionează blocarea de conținut">
 <!ENTITY contentBlocking.manageSettings.accesskey "M">
@@ -1063,22 +1005,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Trimite raportul">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Renunță">
 
-<!ENTITY trackingProtection.title "Protecție împotriva urmăririi">
-<!ENTITY trackingProtection.tooltip "Deschide preferințele de protecție împotriva urmăririi">
-
-<!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock4.label "Dezactivează blocarea pentru acest site">
-<!ENTITY trackingProtection.unblock4.accesskey "D">
-<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate4.label "Dezactivează temporar blocarea">
-<!ENTITY trackingProtection.unblockPrivate4.accesskey "D">
-<!ENTITY trackingProtection.block5.label "Activează blocarea pentru acest site">
-<!ENTITY trackingProtection.block5.accesskey "E">
-
 <!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
@@ -1096,11 +1022,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pluginNotification.showAll.label "Arată-le pe toate">
 <!ENTITY pluginNotification.showAll.accesskey "S">
-
-<!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
-<!ENTITY pluginActivateNow.label "Permite acum">
-<!ENTITY pluginActivateAlways.label "Permite și ține minte">
-<!ENTITY pluginBlockNow.label "Blochează pluginul">
 
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
      width of the plugin popup notification that can appear if a plugin has been

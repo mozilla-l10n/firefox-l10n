@@ -47,6 +47,7 @@ app-basics-memory-use = Utilizare memorie
 app-basics-performance = Performanță
 app-basics-service-workers = Service workeri înregistrați
 app-basics-profiles = Profiluri
+app-basics-launcher-process-status = Proces de lansare
 app-basics-multi-process-support = Ferestre multiproces
 app-basics-process-count = Procese pentru conținut web
 app-basics-enterprise-policies = Politici dedicate întreprinderilor
@@ -230,6 +231,8 @@ uses-tiling = Folosește tiling
 content-uses-tiling = Folosește Tiling (Conținut)
 off-main-thread-paint-enabled = Desenare în afara firului de execuție principal activată
 off-main-thread-paint-worker-count = Număr de workeri pentru desenare în afara firului de execuție principal
+low-end-machine = A detectat o mașină cu performanțe scăzute
+target-frame-rate = Frecvență-țintă de cadre
 audio-backend = Backend audio
 max-audio-channels = Canale maxime
 channel-layout = Aspect preferat al canalelor
@@ -248,6 +251,9 @@ sandbox-proc-type-content = conținut
 sandbox-proc-type-file = conținut fișier
 sandbox-proc-type-media-plugin = plugin media
 launcher-process-status-0 = Activat
+launcher-process-status-1 = Dezactivat din cauza unei probleme
+launcher-process-status-2 = Dezactivat forțat
+launcher-process-status-unknown = Stare necunoscută
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows

@@ -7,8 +7,14 @@
 back = Înapoi
 forward = Înainte
 reload = Reîncarcă
+home = Pagina de start
 fullscreen = Ecran complet
+find = Caută
 new-tab = Filă nouă
 add-bookmark = Adaugă marcaj
+open-bookmarks-sidebar = Deschide bara laterală de marcaje
+reader-view = Mod de lectură
+# Meant to match the string displayed in an empty URL bar.
+open-location = Caută sau introdu adresa
 share = Distribuie
 close-window = Închide fereastra
