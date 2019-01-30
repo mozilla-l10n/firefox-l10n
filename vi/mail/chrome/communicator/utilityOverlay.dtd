@@ -4,7 +4,7 @@
 
 <!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
 
-<!ENTITY fileMenu.label          "File">
+<!ENTITY fileMenu.label          "Tập tin">
 <!ENTITY fileMenu.accesskey        "T">
 <!ENTITY newMenu.label            "Mới">
 <!ENTITY newMenu.accesskey          "M">
