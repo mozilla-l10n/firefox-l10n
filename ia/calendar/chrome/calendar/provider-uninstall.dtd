@@ -9,3 +9,4 @@
 <!ENTITY providerUninstall.cancel.accesskey                "R">
 <!ENTITY providerUninstall.preName.label                   "Tu requireva de disinstallar o disactivar:">
 <!ENTITY providerUninstall.postName.label                  "Isto causara le disactivation del agendas infra.">
+<!ENTITY providerUninstall.reinstallNote.label             "A minus que tu planifica de reinstallar iste fornitor, tu pote eliger de de-rolar de su calendarios.">
