@@ -650,7 +650,7 @@ addressbar-suggestions-settings = Alterar preferências de sugestões de mecanis
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Bloqueio de conteúdo
-content-blocking-description = Bloqueie conteúdo de terceiros que rastreia você pela web. Controle o quanto de suas atividades online é armazenado e compartilhado entre sites.
+content-blocking-description = Bloqueie conteúdos de terceiros que rastreiam você pela web. Controle quanto da sua atividade online é armazenado e compartilhado entre sites.
 content-blocking-learn-more = Saiba mais
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
