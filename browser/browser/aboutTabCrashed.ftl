@@ -1,0 +1,22 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+crashed-title = Zgłaszanie awarii karty
+crashed-close-tab-button = Zamknij kartę
+crashed-restore-tab-button = Przywróć kartę
+crashed-restore-all-button = Przywróć wszystkie karty
+crashed-header = Och – ta karta uległa awarii
+crashed-offer-help = Możemy pomóc!
+crashed-single-offer-help-message = Użyj przycisku „{ crashed-restore-tab-button }”, aby wczytać stronę ponownie.
+crashed-multiple-offer-help-message = Użyj przycisku „{ crashed-restore-tab-button }” lub „{ crashed-restore-all-button }”, aby wczytać stronę lub strony ponownie.
+crashed-request-help = Pomożesz nam?
+crashed-request-report-title = Zgłaszanie problematycznej karty
+crashed-send-report = Automatycznie przesyłaj raporty z awarii, abyśmy mogli naprawiać problemy takie jak ten
+crashed-comment =
+    .placeholder = Opcjonalny komentarz (będzie publicznie dostępny)
+crashed-include-URL = Dołącz do zgłoszenia adresy otworzonych stron, gdy { -brand-short-name } uległ awarii
+crashed-email-placeholder = Adres e-mail
+crashed-email-me = Powiadom, gdy będzie dostępne więcej informacji
+crashed-request-auto-submit-title = Raportowanie pozostałych kart
+crashed-auto-submit-checkbox = Automatyczne przesyłanie raportów awarii
