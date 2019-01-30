@@ -4,10 +4,6 @@
 
 do-not-track-description = Trametter a websites il signal «Do Not Track» per inditgar che ti na vuls betg vegnir fastizà
 do-not-track-learn-more = Ulteriuras infurmaziuns
-do-not-track-option-default =
-    .label = Mo sche la protecziun encunter il fastizar è activada
-do-not-track-option-default-content-blocking =
-    .label = Mo sche { -brand-short-name } è configurà per bloccar fastizaders chattads
 do-not-track-option-default-content-blocking-known =
     .label = Mo sche { -brand-short-name } è configurà uschia che fastizaders enconuschents vegnan bloccads
 do-not-track-option-always =
@@ -95,9 +91,6 @@ extension-controlled-default-search = In supplement, <img data-l10n-name="icon"/
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = Ina extensiun, <img data-l10n-name="icon"/> { $name }, dovra tabs da container.
-# This string is shown to notify the user that their tracking protection preferences
-# are being controlled by an extension.
-extension-controlled-websites-tracking-protection-mode = Ina extensiun, <img data-l10n-name="icon"/> { $name }, administrescha la protecziun cunter il fastizar.
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
 extension-controlled-websites-content-blocking-all-trackers = Ina extensiun, <img data-l10n-name="icon"/> { $name }, administrescha quest parameter.
@@ -286,6 +279,7 @@ update-application-check-choose =
 update-application-manual =
     .label = Mai tschertgar actualisaziuns (betg recumandà)
     .accesskey = M
+update-application-warning-cross-user-setting = Quest parameter pertutga tut ils contos da Windows e profils da { -brand-short-name } che utiliseschan questa installaziun da { -brand-short-name }.
 update-application-use-service =
     .label = Utilisar in servetsch per installar actualisaziuns senza interrupziun
     .accesskey = r
@@ -606,12 +600,6 @@ sitedata-total-size-calculating = Calcular il volumen da datas da websites e dal
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Las datas da websites, il cache ed ils cookies memorisads dovran actualmain { $value } { $unit } spazi sin il disc dir.
 sitedata-learn-more = Ulteriuras infurmaziuns
-sitedata-keep-until = Memorisar enfin
-    .accesskey = e
-sitedata-keep-until-expire =
-    .label = la data da scadenza
-sitedata-keep-until-closed =
-    .label = che { -brand-short-name } vegn serrà
 sitedata-delete-on-close =
     .label = Stizzar ils cookies e las datas da websites cun serrar { -brand-short-name }
     .accesskey = c
@@ -626,16 +614,6 @@ sitedata-disallow-cookies-option =
 # The list items are the strings named sitedata-block-*-option*.
 sitedata-block-desc = Tip da cuntegn bloccà
     .accesskey = T
-sitedata-block-trackers-option-recommended =
-    .label = Fastizaders da terzas partidas (recumandà)
-sitedata-block-trackers-option =
-    .label = Fastizaders da terzas partidas
-sitedata-block-unvisited-option =
-    .label = Cookies da websites betg visitadas
-sitedata-block-all-third-party-option =
-    .label = Tut ils cookies da terzas partidas (po chaschunar problems cun websites)
-sitedata-block-all-option =
-    .label = Tut ils cookies (chaschuna problems cun websites)
 sitedata-option-block-trackers =
     .label = Fastizaders da terzas partidas
 sitedata-option-block-unvisited =
@@ -650,13 +628,6 @@ sitedata-clear =
 sitedata-settings =
     .label = Administrar las datas…
     .accesskey = m
-sitedata-cookies-exceptions =
-    .label = Excepziuns…
-    .accesskey = E
-# This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
-# in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
-# Cookies and Site Data section.
-sitedata-warning-your-settings-prevent-changes = Tes parameters en Bloccada da cuntegn impedeschan la modificaziun dals parameters dals cookies e da las datas da websites.
 sitedata-cookies-permissions =
     .label = Administrar las permissiuns…
     .accesskey = p
@@ -679,41 +650,8 @@ addressbar-suggestions-settings = Midar las preferenzas per propostas da maschin
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Bloccada da cuntegn
-content-blocking-desc = Blochescha cuntegn da terzas partidas sco reclamas u code che po ralentar la navigaziun e ta fastizar en il web. Adattescha las preferenzas per chattar l'equiliber ideal tranter protecziun e performanza.
 content-blocking-description = Blochescha cuntegn da terzas partidas che ta fastizescha en il web. Controllescha quant da tia activitad online che vegn memorisada e cundividida tranter websites.
 content-blocking-learn-more = Ulteriuras infurmaziuns
-content-blocking-restore-defaults =
-    .label = Restaurar il standard
-    .accesskey = R
-content-blocking-toggle-on =
-    .tooltiptext = Deactivar la bloccada da cuntegn
-content-blocking-toggle-off =
-    .tooltiptext = Activar la bloccada da cuntegn
-content-blocking-toggle-label-on = ACTIVÀ
-    .accesskey = A
-content-blocking-toggle-label-off = DEACTIVÀ
-    .accesskey = D
-content-blocking-category-label = Tscherna tge bloccar
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-slow-loading-trackers-label =
-    .label = Fastizaders che chargian plaun
-    .accesskey = F
-content-blocking-fastblock-new-description = Mo bloccar ils fastizaders che impedeschan che las paginas sa chargian svelt.
-content-blocking-tracking-protection-trackers-label =
-    .label = Fastizaders
-    .accesskey = t
-content-blocking-tracking-protection-all-detected-trackers-label =
-    .label = Tut ils fastizaders chattads
-    .accesskey = T
-content-blocking-tracking-protection-new-description = Bloccar tut ils fastizaders chattads. (Eventualmain na vegnan tschertas paginas betg chargiadas a moda correcta.)
-content-blocking-tracking-protection-option-always =
-    .label = Adina
-    .accesskey = A
-content-blocking-tracking-protection-option-private =
-    .label = Mo en fanestras privatas
-    .accesskey = p
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 content-blocking-setting-standard =
@@ -746,51 +684,12 @@ content-blocking-option-private =
     .label = Mo en fanestras privatas
     .accesskey = p
 content-blocking-tracking-protection-change-block-list = Midar la glista da bloccada
-content-blocking-third-party-cookies-label =
-    .label = Cookies da terzas partidas
-    .accesskey = C
-content-blocking-reject-trackers-description = Bloccar tut ils cookies da terzas partidas u mo quels ch'èn definids da fastizaders.
-# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
-# of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
-# or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
-# the UI.
-content-blocking-reject-trackers-warning-your-settings-prevent-changes = Tes parameters en Cookies e Datas da websites impedeschan la modificaziun dals parameters da cookies da terzas partidas.
-content-blocking-change-cookie-settings =
-    .label = Modifitgar ils parameters per ils cookies
-    .accesskey = s
-content-blocking-reject-trackers-block-trackers-option-recommended =
-    .label = Fastizaders (recumandà)
-    .accesskey = z
-content-blocking-reject-trackers-block-trackers-option =
-    .label = Fastizaders
-    .accesskey = z
-content-blocking-reject-trackers-all-third-parties-option =
-    .label = Tut ils cookies da terzas partidas (po chaschunar problems cun websites)
-    .accesskey = T
 content-blocking-cookies-label =
     .label = Cookies
     .accesskey = C
 
 ## Privacy Section - Tracking
 
-tracking-header = Protecziun cunter il fastizar
-tracking-desc = La protecziun cunter il fastizar blochescha fastizaders online che rimnan tias datas da navigaziun repartidas sin pliras websites. <a data-l10n-name="learn-more">Vegnir a savair dapli davart la protecziun cunter il fastizar e tia sfera privata</a>
-tracking-mode-label = Utilisar la protecziun cunter il fastizar per bloccar fastizaders enconuschents
-tracking-mode-always =
-    .label = Adina
-    .accesskey = A
-tracking-mode-private =
-    .label = Mo en fanestras privatas
-    .accesskey = p
-tracking-mode-never =
-    .label = Mai
-    .accesskey = i
-tracking-exceptions =
-    .label = Excepziuns...
-    .accesskey = x
-tracking-change-block-list =
-    .label = Midar la glista da bloccar…
-    .accesskey = M
 tracking-manage-exceptions =
     .label = Administrar excepziuns…
     .accesskey = x
@@ -822,6 +721,9 @@ permissions-block-autoplay-media =
     .label = Impedir che websites reproduceschian automaticamain medias cun tun
     .accesskey = I
 permissions-block-autoplay-media-menu = Per websites che reproduceschan automaticamain tun
+permissions-block-autoplay-media2 =
+    .label = Impedir che websites reproduceschian automaticamain tun
+    .accesskey = I
 permissions-block-autoplay-media-exceptions =
     .label = Excepziuns…
     .accesskey = E

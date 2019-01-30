@@ -217,6 +217,9 @@ extensions-updates-update-selected =
 
 shortcuts-manage =
     .label = Scursanidas da tastas
+manage-extensions-shortcuts =
+    .label = Administrar scursanidas dad extensiuns
+    .accesskey = s
 shortcuts-empty-message = I na dat naginas scursanidas per questa extensiun.
 shortcuts-no-addons = Naginas extensiuns activadas.
 shortcuts-input =
@@ -229,3 +232,5 @@ shortcuts-modifier-other = Includer Ctrl u Alt
 shortcuts-invalid = Cumbinaziun nunvalida
 shortcuts-letter = Tippa ina letra
 shortcuts-system = Impussibel da surscriver ina scursanida da { -brand-short-name }
+go-back-button =
+    .tooltiptext = Turnar
