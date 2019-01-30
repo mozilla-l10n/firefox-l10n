@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 url-classifier-title = Informații privind clasificarea URL-urilor
+url-classifier-search-title = Caută
 url-classifier-provider-title = Furnizor
 url-classifier-provider = Furnizor
 url-classifier-provider-last-update-time = Ora ultimei actualizări
