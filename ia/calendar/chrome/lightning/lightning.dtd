@@ -42,10 +42,13 @@
      These strings are used in the calendar wizard and the calendar properties dialog, but are only
      displayed when setting/using a caldav calendar -->
 <!ENTITY lightning.calendarproperties.email.label                           "Email:">
+<!ENTITY lightning.calendarproperties.forceEmailScheduling.label            "Preferer rediger email de latere del cliente">
 <!-- LOCALIZATON NOTE(lightning.calendarproperties.forceEmailScheduling.tooltiptext1,
      lightning.calendarproperties.forceEmailScheduling.tooltiptext2)
      - tooltiptext1 is used in the calendar wizard when setting a new caldav calendar
      - tooltiptext2 is used in the calendar properties dialog for caldav calendars -->
+<!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext1     "Momentaneemente tu pote solo activar lo post le configuration de iste agenda in su fenestra de dialogo de proprietates si le servitor de agenda prende cura de rediger.">
+<!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext2     "Iste option es disponibile solo si le servitor de agenda tracta le redaction. Activar consentira de receder al redaction basate sur le email standard in vice de lo lassar al servitor.">
 
 <!-- iMIP Bar (meeting support) -->
 <!ENTITY lightning.imipbar.btnAccept.label                                  "Acceptar">

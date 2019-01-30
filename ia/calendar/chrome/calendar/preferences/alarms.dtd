@@ -7,6 +7,7 @@
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
 
+<!ENTITY pref.alarmgoesoff.label "Quando arriva le termino de un memento:">
 <!ENTITY pref.playasound "Reproducer un sono">
 <!ENTITY pref.calendar.alarms.playsound.accessKey "s">
 <!ENTITY pref.calendar.alarms.sound.useDefault.label "Usar sono predefinite">
