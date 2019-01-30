@@ -17,4 +17,4 @@ reader-view = Vista da lectura
 # Meant to match the string displayed in an empty URL bar.
 open-location = Tschertgar u endatar in'adressa
 share = Cundivider
-focus = Serrar
+close-window = Serrar la fanestra
