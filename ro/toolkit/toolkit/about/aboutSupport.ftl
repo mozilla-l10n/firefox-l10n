@@ -247,6 +247,7 @@ effective-content-sandbox-level = Nivel efectiv de sandbox al proceselor pentru 
 sandbox-proc-type-content = conținut
 sandbox-proc-type-file = conținut fișier
 sandbox-proc-type-media-plugin = plugin media
+launcher-process-status-0 = Activat
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
