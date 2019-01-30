@@ -30,3 +30,6 @@ blocklist-item-moz-std-desc = Stiet inkelde folgers ta, sadat websites goed funk
 blocklist-item-moz-full-name = Disconnect.me - strange beskerming.
 blocklist-item-moz-full-desc = Blokkearret bekende folgers. Guon websites wurkje mooglik net goed.
 blocklist-item-moz-std-listName = Nivo 1-blokkearlist (Oanrekommandearre).
+blocklist-item-moz-std-description = Stiet bepaalde trackers ta, sadat minder websites net goed wurkje.
+blocklist-item-moz-full-listName = Nivo 2-blokkearlist.
+blocklist-item-moz-full-description = Blokkearret alle detektearre trackers. Guon websites of ynhâld wurdt mooglik net goed laden.
