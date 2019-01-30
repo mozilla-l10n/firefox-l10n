@@ -275,7 +275,7 @@
 
 <!ENTITY pref_tracking_protection_title2 "Proteção contra rastreamento">
 <!ENTITY pref_donottrack_title "Não rastrear">
-<!ENTITY pref_donottrack_summary "O &brandShortName; dirá aos sites que não quer ser rastreado">
+<!ENTITY pref_donottrack_summary "O &brandShortName; dirá aos sites que você não quer ser rastreado">
 
 <!ENTITY pref_tracking_protection_enabled "Ativada">
 <!ENTITY pref_tracking_protection_enabled_pb "Ativada na navegação privativa">
@@ -290,11 +290,6 @@
 <!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
      Similar to the already existing "pref_whats_new_notification_summary"-->
 <!ENTITY pref_feature_tips_notification_summary "Saiba mais sobre como usar o &brandShortName; e outros produtos &vendorShortName;">
-<!-- Localization note (pref_feature_tips_notification_enabling_hint):
-     Describe the action the user should do to enable this preference
-     Will be used in the context "<Turn on> ... to enable this feature" -->
-<!ENTITY pref_feature_tips_notification_enabling_hint "Ativar">
-
 <!-- Localization note (pref_feature_tips_notification_enabling_path):
      Nothing to translate. Simple concatenation of already localized strings. Result is used below. -->
 <!ENTITY pref_feature_tips_notification_enabling_path "&pref_category_privacy_short; > &pref_category_datareporting; > &datareporting_fhr_title;">
@@ -362,7 +357,7 @@
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "Limpar agora">
 <!ENTITY pref_clear_on_exit_title3 "Limpar dados ao sair">
-<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; irá limpar automaticamente os seus dados sempre que selecionar \&quot;Sair\&quot; no menu principal">
+<!ENTITY pref_clear_on_exit_summary2 "O &brandShortName; limpará automaticamente seus dados sempre que selecionar \&quot;Sair\&quot; no menu principal">
 <!ENTITY pref_clear_on_exit_dialog_title "Selecionar quais dados limpar">
 <!ENTITY pref_restore_tabs "Restaurar abas">
 <!ENTITY pref_restore_always "Restaurar sempre">
@@ -442,9 +437,9 @@
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "Relatório de integridade do &brandShortName;">
-<!ENTITY datareporting_fhr_summary2 "Compartilha dados com a &vendorShortName; sobre a saúde do seu navegador e ajuda a entender seu desempenho">
+<!ENTITY datareporting_fhr_summary2 "Compartilhar com a &vendorShortName; dados sobre a saúde do seu navegador e ajudar você a entender o desempenho do seu navegador">
 <!ENTITY datareporting_telemetry_title "Telemetria">
-<!ENTITY datareporting_telemetry_summary "Compartilha dados de desempenho, uso, hardware e personalizações com a &vendorShortName; para nos ajudar a fazer o &brandShortName; melhor">
+<!ENTITY datareporting_telemetry_summary "Compartilhar dados de desempenho, uso, hardware e personalização com a &vendorShortName; para nos ajudar a melhorar o &brandShortName;">
 <!ENTITY datareporting_crashreporter_summary "O &brandShortName; envia relatórios de travamento para ajudar a &vendorShortName; a tornar o navegador mais estável e seguro">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
@@ -527,8 +522,8 @@
      pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
      just "Pin Site" or "Unpin Site" would mean. -->
 <!ENTITY contextmenu_pin_to_top_sites "Fixar nos sites preferidos">
-<!ENTITY contextmenu_unpin_from_top_sites "Desafixar dos sites preferidos">
-<!ENTITY contextmenu_add_search_engine "Adicionar um mecanismo de pesquisa">
+<!ENTITY contextmenu_unpin_from_top_sites "Desafixar dos preferidos">
+<!ENTITY contextmenu_add_search_engine "Adicionar mecanismo de pesquisa">
 
 <!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
      after the user pins/unpins the currently displayed page from top sites. -->
@@ -904,15 +899,9 @@ Picture-in-picture mini window -->
 <!ENTITY pip_pause_button_description "Pausar a reprodução">
 
 <!-- Notification channels names -->
-<!ENTITY default_notification_channel "&brandShortName;">
-
-<!-- Notification channels names -->
 <!ENTITY default_notification_channel2 "Navegador">
 <!ENTITY mls_notification_channel "Serviço de localização do &vendorShortName;">
 <!ENTITY download_notification_channel "Downloads">
-<!ENTITY media_notification_channel "Reprodução de mídia">
-<!-- These push notifications come without a specific channel and/or name from Leanplum -->
-<!ENTITY leanplum_default_notifications_channel "Notificações push do &brandShortName;">
 <!ENTITY media_notification_channel2 "Som e vídeo">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel2 "Dicas e truques da &vendorShortName;">
