@@ -4,10 +4,6 @@
 
 do-not-track-description = Kas un arhent “Do Not Track” (na heulian) d'al lec'hiennoù evit kemenn dezho ne fell ket deoc'h bezañ heuliet
 do-not-track-learn-more = Gouzout hiroc'h
-do-not-track-option-default =
-    .label = Pa ran gant ar gwarez heuliañ hepken
-do-not-track-option-default-content-blocking =
-    .label = P'eo kefluniet { -brand-short-name } da stankañ an heulierien dinoet hepken
 do-not-track-option-default-content-blocking-known =
     .label = Pa 'z eo kefluniet { -brand-short-name } evit stankañ an heulierien anavezet nemetken.
 do-not-track-option-always =
@@ -95,9 +91,6 @@ extension-controlled-default-search = Kemmet eo bet ho keflusket enklask dre zio
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = Un askouezh, <img data-l10n-name="icon"/> { $name }, a azgoulenn ivinelloù endalc'her.
-# This string is shown to notify the user that their tracking protection preferences
-# are being controlled by an extension.
-extension-controlled-websites-tracking-protection-mode = Un askouezh, <img data-l10n-name="icon"/> { $name }, a zo o reoliañ ar gwarez heuliañ.
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
 extension-controlled-websites-content-blocking-all-trackers = Un askouezh, <img data-l10n-name="icon"/> { $name }, a zo o reoliañ an arventenn-mañ.
@@ -295,6 +288,7 @@ update-application-check-choose =
 update-application-manual =
     .label = Na wiriañ biken mard ez eus hizivadurioù (n'eo ket erbedet)
     .accesskey = N
+update-application-warning-cross-user-setting = An arventenn-mañ a vo arloet d'an holl gontoù Windows hag an aeladoù { -brand-short-name } a arver ar staliadur { -brand-short-name }-mañ.
 update-application-use-service =
     .label = Arverañ ur gwazerezh e drekleur evit staliañ an hizivadurioù
     .accesskey = v
@@ -615,15 +609,10 @@ sitedata-total-size-calculating = O jediñ ment roadennoù ha krubuilh al lec'hi
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Ho toupinoù, roadennoù lec'hienn ha krubuilh kadavet a zo oc'h arverañ { $value } { $unit } war ho kantenn.
 sitedata-learn-more = Gouzout hiroc'h
-sitedata-keep-until = Mirout betek
-    .accesskey = M
-sitedata-keep-until-expire =
-    .label = ez echuont
-sitedata-keep-until-closed =
-    .label = zo serret { -brand-short-name }
 sitedata-delete-on-close =
     .label = Dilemel an toupinoù hag al lec'hiennoù pa vez serret { -brand-short-name }
     .accesskey = c
+sitedata-delete-on-close-private-browsing = Er mod merdeiñ prevez peurzalc'hus e vo skarzhet an toupinoù hag ar roadennoù lec'hienn pa vez serret { -brand-short-name }.
 sitedata-allow-cookies-option =
     .label = Asantiñ an toupinoù hag ar roadennoù lec'hienn
     .accesskey = A
@@ -634,16 +623,6 @@ sitedata-disallow-cookies-option =
 # The list items are the strings named sitedata-block-*-option*.
 sitedata-block-desc = Rizh stanket
     .accesskey = R
-sitedata-block-trackers-option-recommended =
-    .label = Heulierien un trede (erbedet)
-sitedata-block-trackers-option =
-    .label = Heulierien un trede
-sitedata-block-unvisited-option =
-    .label = Toupinoù lec'hiennoù n'int ket bet gweladennet
-sitedata-block-all-third-party-option =
-    .label = Holl doupinoù an tredeoù (gallout a ra terriñ al lec'hiennoù)
-sitedata-block-all-option =
-    .label = An holl doupinoù (gallout a ra terriñ lec'hiennoù)
 sitedata-option-block-trackers =
     .label = Heulierien un trede
 sitedata-option-block-unvisited =
@@ -658,13 +637,6 @@ sitedata-clear =
 sitedata-settings =
     .label = Merañ ar roadennoù…
     .accesskey = M
-sitedata-cookies-exceptions =
-    .label = Nemedennoù…
-    .accesskey = N
-# This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
-# in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
-# Cookies and Site Data section.
-sitedata-warning-your-settings-prevent-changes = Hoc'h arventennoù er stankadurioù endalc'had a vir ar c'hemmoù en toupinoù hag e arventennoù ar roadennoù lec'hienn.
 sitedata-cookies-permissions =
     .label = Merañ an aotreoù
     .accesskey = M
@@ -687,41 +659,8 @@ addressbar-suggestions-settings = Kemmañ ar gwellvezioù evit ar c'hinnigoù lu
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Stankañ endalc'hadoù
-content-blocking-desc = Stankit endalc'hadoù estren (evel bruderezhioù pe vonegoù) a c'hall gorrekaat ho merdeiñ hag heuliañ ac'hanoc'h war ar web. Personelait hoc'h arventennoù evit kaout ur c'hempouez etre gwarez ha digonusted.
 content-blocking-description = Stankañ endalc'hadoù an tredeoù a heuilh ac'hanoc'h etrezek ar web. Reoliañ kementad ho obererezh enlinenn a zo kadavet ha rannet etre al lec'hiennoù.
 content-blocking-learn-more = Gouzout hiroc'h
-content-blocking-restore-defaults =
-    .label = Assav dre ziouer
-    .accesskey = A
-content-blocking-toggle-on =
-    .tooltiptext = Diweredekaat ar stankadur endalc'had
-content-blocking-toggle-off =
-    .tooltiptext = Gweredekaat ar stankadur endalc'had
-content-blocking-toggle-label-on = YA
-    .accesskey = Y
-content-blocking-toggle-label-off = KET
-    .accesskey = K
-content-blocking-category-label = Dibabit petra stankañ
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-slow-loading-trackers-label =
-    .label = Heulierien gorrek
-    .accesskey = H
-content-blocking-fastblock-new-description = Stankañ an heulierien a vir ar bajennoù da gargañ buan.
-content-blocking-tracking-protection-trackers-label =
-    .label = Heulierien
-    .accesskey = H
-content-blocking-tracking-protection-all-detected-trackers-label =
-    .label = An holl heulierien dinoet
-    .accesskey = d
-content-blocking-tracking-protection-new-description = Stankañ an holl heulierien anavezet. (Gallout a ra mirout pajennoù 'zo da gargañ)
-content-blocking-tracking-protection-option-always =
-    .label = Bepred
-    .accesskey = B
-content-blocking-tracking-protection-option-private =
-    .label = E prenestroù prevez hepken
-    .accesskey = p
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 content-blocking-setting-standard =
@@ -754,51 +693,12 @@ content-blocking-option-private =
     .label = Er prenestroù prevez nemetken
     .accesskey = p
 content-blocking-tracking-protection-change-block-list = Kemmañ ar roll stankañ
-content-blocking-third-party-cookies-label =
-    .label = Toupinoù tredeoù
-    .accesskey = T
-content-blocking-reject-trackers-description = Stankañ toupinoù an tredeoù pe an hini lakaet gant heulierien hepken.
-# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
-# of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
-# or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
-# the UI.
-content-blocking-reject-trackers-warning-your-settings-prevent-changes = Hoc'h arventennoù e Toupinoù ha Roadennoù lec'hienn a zidenn d'ober kemmoù d'an arventennoù toupinoù an tredeoù.
-content-blocking-change-cookie-settings =
-    .label = Kemmañ an arventennoù toupinoù
-    .accesskey = K
-content-blocking-reject-trackers-block-trackers-option-recommended =
-    .label = Heulierien (erbedet)
-    .accesskey = H
-content-blocking-reject-trackers-block-trackers-option =
-    .label = Heulierien
-    .accesskey = H
-content-blocking-reject-trackers-all-third-parties-option =
-    .label = Holl doupinoù tredeoù (gallout a ra terriñ lec'hiennoù 'zo)
-    .accesskey = H
 content-blocking-cookies-label =
     .label = Toupinoù
     .accesskey = T
 
 ## Privacy Section - Tracking
 
-tracking-header = Gwarez heuliañ
-tracking-desc = Ar gwarez heuliañ a stank an heulierien enlinenn a zastum ho roadennoù merdeiñ war meur a lec'hienn. <a data-l10n-name="learn-more">Gouzout hiroc'h a-zivout ar gwarez heuliañ hag ho puhez prevez</a>
-tracking-mode-label = Arverañ ar gwarez heuliañ evit stankañ heulierien anavezet
-tracking-mode-always =
-    .label = Atav
-    .accesskey = t
-tracking-mode-private =
-    .label = Er prenestroù prevez hepken
-    .accesskey = p
-tracking-mode-never =
-    .label = Morse
-    .accesskey = M
-tracking-exceptions =
-    .label = Nemedennoù…
-    .accesskey = N
-tracking-change-block-list =
-    .label = Kemmañ ar roll stankañ…
-    .accesskey = K
 tracking-manage-exceptions =
     .label = Merañ an nemedennoù
     .accesskey = n

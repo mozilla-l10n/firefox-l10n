@@ -6,6 +6,7 @@ blocklist-window =
     .title = Rolloù stankañ
     .style = width: 50em
 blocklist-desc = Gallout a rit dibab peseurt roll a vo arveret gant { -brand-short-name } evit stankañ an elfennoù Web a c'hall heuliañ ho oberiantiz merdeiñ.
+blocklist-description = Dibabit ar roll arveret gant { -brand-short-name } evit stankañ heulierien enlinenn. Pourchaset eo ar roll gant <a data-l10n-name="disconnect-link" title="Disconnect">Disconnect</a>.
 blocklist-close-key =
     .key = w
 blocklist-treehead-list =
@@ -28,3 +29,7 @@ blocklist-item-moz-std-name = Gwarez diazez Disconnect.me (erbedet).
 blocklist-item-moz-std-desc = Aotren heulierien evit ma 'z afe al lec'hiennoù en-dro.
 blocklist-item-moz-full-name = Gwarez Disconnect.me strizh.
 blocklist-item-moz-full-desc = Stankañ an heulierien anavezet. Gallout a raio ul lodenn eus al lec'hiennoù chom hep mont en-dro.
+blocklist-item-moz-std-listName = Roll stankañ a live 1 (Erbedet).
+blocklist-item-moz-std-description = Aotren ul lodenn eus an heulierien evit ma vefe torret nebeutoc'h a lec'hiennoù.
+blocklist-item-moz-full-listName = Roll stankañ a live 2.
+blocklist-item-moz-full-description = Stankañ an holl heulierien dinoet. Gallout a ra lec'hiennoù 'zo chom hep kargañ en un doare dereat.
