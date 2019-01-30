@@ -13,7 +13,6 @@
 <!ENTITY continue2.label "अधिक…">
 <!ENTITY moreInformation.label "अधिक माहिती">
 
-
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "जोडणी होऊ शकत नाही">
@@ -97,8 +96,6 @@ was trying to connect. -->
 <!ENTITY certerror.introPara "<span class='hostname'/> च्या मालकाने त्यांची वेबसाइट अयोग्य प्रकारे कॉन्फिगर केली आहे. आपली माहिती चोरीला जाऊ नये यासाठी, &brandShortName; ने या संकेतस्थळाशी जोडणी केली नाही.">
 
 
-
-
 <!ENTITY certerror.whatCanYouDoAboutItTitle "आपण याबद्दल काय करू शकता?">
 
 
@@ -144,7 +141,10 @@ was trying to connect. -->
 
 <!ENTITY blockedByPolicy.title "अवरोधित पृष्ठ">
 
+
 <!ENTITY clockSkewError.title "आपले संगणक घड्याळ चुकीचे आहे">
 
 <!ENTITY prefReset.longDesc "असे दिसते की आपल्या नेटवर्क सुरक्षा सेटिंग्ज या साठी कारणीभूत असू शकते.आपण पूर्वनिर्धारित सेटिंग्ज पुनर्संचयित करू इच्छिता का?">
 <!ENTITY prefReset.label "पूर्वनिर्धारीत सेटिंग पुनर्स्थापित करा">
+
+<!ENTITY networkProtocolError.title "नेटवर्क नियमात त्रुटी">

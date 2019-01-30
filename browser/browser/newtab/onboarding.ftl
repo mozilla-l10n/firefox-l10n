@@ -24,6 +24,8 @@ onboarding-screenshots-text = स्क्रीनशॉट्स घ्या,
 onboarding-addons-title = ॲड-ऑन्स
 onboarding-ghostery-title = Ghostery
 onboarding-ghostery-text = Ghostery सारख्या विस्तारांसह वेगवान, चाणाक्ष किंवा सुरक्षित ब्राउझ करा, जे आपल्याला त्रासदायक जाहिराती अवरोधित करू देतात.
+# Note: "Sync" in this case is a generic verb, as in "to synchronize"
+onboarding-fxa-title = सिंक
 
 ## Message strings belonging to the Return to AMO flow
 
