@@ -36,12 +36,11 @@
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "चालू कालावधीबद्दल माहिती">
 <!ENTITY runtimeMenu_showDetails_accesskey "E">
-<!ENTITY runtimeMenu_showMonitor_label "मॉनिटर">
-<!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "साधन प्राधान्यक्रम">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
 <!ENTITY runtimeMenu_showSettings_label "साधन सेटिंग्स">
 <!ENTITY runtimeMenu_showSettings_accesskey "S">
+<!ENTITY runtimeMenu_showPerformancePanel_accesskey "p">
 
 <!ENTITY viewMenu_label "दृश्य">
 <!ENTITY viewMenu_accesskey "V">
@@ -54,9 +53,9 @@
 
 <!ENTITY projectButton_label "अॅप उघडा">
 <!ENTITY runtimeButton_label "स्थानिक चालुकालावधी">
+
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
-
 <!ENTITY key_quit "W">
 <!-- open menu -->
 <!ENTITY key_showProjectPanel "O">
@@ -75,14 +74,11 @@
 <!ENTITY projectPanel_tabs "टॅब्स">
 <!ENTITY runtimePanel_usb "USB समर्थित साधने">
 <!ENTITY runtimePanel_wifi "वाय-फाय समर्थीत साधने">
-<!ENTITY runtimePanel_simulator "सिम्युलेटर्स">
 <!ENTITY runtimePanel_other "इतर">
-<!ENTITY runtimePanel_installsimulator "सिम्युलेटर इंस्टॉल करा">
-<!ENTITY runtimePanel_noadbhelper "ADB हेल्पर इंस्टॉल करा">
 <!ENTITY runtimePanel_nousbdevice "आपले उपकरण दिसत नाही का?">
 <!ENTITY runtimePanel_refreshDevices_label "पुन्हा दाखल करा">
-<!-- Lense -->
 
+<!-- Lense -->
 <!ENTITY details_valid_header "वैध">
 <!ENTITY details_warning_header "सावधानता">
 <!ENTITY details_error_header "त्रुटी">
@@ -90,23 +86,23 @@
 <!ENTITY details_location "स्थान">
 <!ENTITY details_manifestURL "ॲप ID">
 <!ENTITY details_removeProject_button "प्रकल्प काढून टाका">
-<!-- New App -->
 
+<!-- New App -->
 <!ENTITY newAppWindowTitle "नवीन ॲप">
 <!ENTITY newAppHeader "टेम्प्लेट निवडा">
 <!ENTITY newAppLoadingTemplate "टेम्पलेट्स लोड करत आहे…">
 <!ENTITY newAppProjectName "प्रकल्प नाव:">
+
+
 <!-- Decks -->
 
-
-
 <!ENTITY deck_close "बंद करा">
-<!-- Addons -->
 
+<!-- Addons -->
 <!ENTITY addons_title "अतिरिक्त घटक">
 <!ENTITY addons_aboutaddons "ॲड-ऑन्स् व्यवस्थापक उघडा">
-<!-- Prefs -->
 
+<!-- Prefs -->
 <!ENTITY prefs_title "प्राधान्यक्रम">
 <!ENTITY prefs_editor_title "एडिटर">
 <!ENTITY prefs_general_title "सर्वसाधारण">
@@ -118,45 +114,35 @@
 <!ENTITY prefs_options_rememberlastproject_tooltip "WebIDE सुरु झाल्यानंतर मागील प्रकल्प पूर्ववत करा">
 <!ENTITY prefs_options_templatesurl "टेम्पलेट्स URL">
 <!ENTITY prefs_options_templatesurl_tooltip "उपलब्ध टेम्पलेट्सची अनुक्रमणिका">
+
 <!-- Runtime Details -->
-
 <!ENTITY runtimedetails_title "चालू कालावधीबद्दल माहिती">
-<!ENTITY runtimedetails_adbIsRoot "ADB मूळ आहे: ">
-<!ENTITY runtimedetails_summonADBRoot "साधनाला root करा">
-<!ENTITY runtimedetails_ADBRootWarning "(अनलॉक केलेला बूटलोडर आवश्यक)">
-<!ENTITY runtimedetails_unrestrictedPrivileges "अमर्यादित DevTools अधिकार:">
-<!ENTITY runtimedetails_requestPrivileges "अधिक अधिकारासाठी विनंती करा">
-<!ENTITY runtimedetails_privilegesWarning "(साधन रीबूट केले जाईल. root ॲक्सेस आवश्यक)">
-<!-- Device Preferences and Settings -->
 
+<!-- Device Preferences and Settings -->
 <!ENTITY device_typeboolean "बुलियन">
 <!ENTITY device_typenumber "पूर्णांक">
 <!ENTITY device_typestring "स्ट्रिंग">
 <!ENTITY device_typeobject "घटक">
 <!ENTITY device_typenone "प्रकार नीवडा">
-<!-- Device Preferences -->
 
+<!-- Device Preferences -->
 <!ENTITY devicepreference_title "साधन प्राधान्यक्रम">
 <!ENTITY devicepreference_search "शोध प्राधान्यक्रम">
 <!ENTITY devicepreference_newname "नवीन प्राधान्य नाव">
 <!ENTITY devicepreference_newtext "प्राधान्यता नाव">
 <!ENTITY devicepreference_addnew "नवीन प्राधान्य जोडा">
-<!-- Device Settings -->
 
+<!-- Device Settings -->
 <!ENTITY devicesetting_title "साधन सेटिंग्स">
 <!ENTITY devicesetting_search "शोध सेटिंग्स">
 <!ENTITY devicesetting_newname "नवीन सेटिंग नाव">
 <!ENTITY devicesetting_newtext "सेटिंगचे मुल्य">
 <!ENTITY devicesetting_addnew "नवीन सेटिंग्ज जोडा">
-<!-- Monitor -->
 
-<!ENTITY monitor_title "मॉनिटर">
-<!ENTITY monitor_help "मदत">
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
      that instructs the user to transfer an authentication token to the
      server. -->
-
 <!ENTITY wifi_auth_header "क्लायंट ओळख">
 <!-- LOCALIZATION NOTE (wifi_auth_scan_request): Instructions requesting the
      user to transfer authentication info by scanning a QR code. -->
@@ -171,22 +157,6 @@
      user to transfer authentication info by transferring a token. -->
 <!ENTITY wifi_auth_token_request "आपले अन्य साधन जर क्यूआर कोड स्कॅन करण्याऐवजी ओळखीची खुण मागत असेल, तर अन्य साधनावर खालील मूल्य कॉपी करा:">
 <!ENTITY wifi_auth_qr_size_note "यशस्वी जोडणी करीता QR कोड छोटा पडत असेल तर, त्याला मोठे करा किंवा विंडोचा आकार वाढवा">
+
 <!-- Logs panel -->
-
 <!ENTITY logs_title "पॅकेजिंग-पूर्व कमांड लॉग्स">
-<!-- Simulator Options -->
-
-<!ENTITY simulator_title "सिम्युलेटर पर्याय">
-<!ENTITY simulator_remove "सिम्युलेटर नष्ट करा">
-<!ENTITY simulator_reset "पूर्वनिर्धारित मूळस्थितित आणा">
-<!ENTITY simulator_name "नाव">
-<!ENTITY simulator_software "सॉफ्टवेअर">
-<!ENTITY simulator_version "आवृत्ती">
-<!ENTITY simulator_profile "प्रोफाइलर">
-<!ENTITY simulator_hardware "हार्डवेअर">
-<!ENTITY simulator_device "साधन">
-<!ENTITY simulator_screenSize "पडदा">
-<!ENTITY simulator_pixelRatio "पिक्सेल प्रमाण">
-<!ENTITY simulator_tv_data "टिव्ही अनुकार">
-<!ENTITY simulator_tv_data_open "संरचना संबंधी माहिती">
-<!ENTITY simulator_tv_data_open_button "संरचना डिरेक्ट्री उघडा…">
