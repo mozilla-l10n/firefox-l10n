@@ -212,5 +212,22 @@ extensions-updates-update-selected =
 
 ## Extension shortcut management
 
+shortcuts-manage =
+    .label = Спалучэнні клавіш
+manage-extensions-shortcuts =
+    .label = Кіраваць спалучэннямі клавіш пашырэнняў
+    .accesskey = ы
+shortcuts-empty-message = Гэта пашырэнне не мае спалучэнняў клавіш.
+shortcuts-no-addons = У вас не ўключана ніводнага пашырэння.
+shortcuts-input =
+    .placeholder = Увядзіце спалучэнне клавіш
+shortcuts-browserAction = Актываваць пашырэнне
+shortcuts-pageAction = Актываваць дзеянні старонкі
+shortcuts-sidebarAction = Паказаць/схаваць бакавую панэль
+shortcuts-modifier-mac = Улучыце Ctrl, Alt або ⌘
+shortcuts-modifier-other = Улучыце Ctrl або Alt
+shortcuts-invalid = Недапушчальная камбінацыя
+shortcuts-letter = Увядзіце літару
+shortcuts-system = Нельга перавызначыць спалучэнне клавіш { -brand-short-name }
 go-back-button =
     .tooltiptext = Вярнуцца
