@@ -4,10 +4,6 @@
 
 do-not-track-description = Передавати веб-сайтам сигнал “Не стежити”
 do-not-track-learn-more = Докладніше
-do-not-track-option-default =
-    .label = Лише при використанні захисту від стеження
-do-not-track-option-default-content-blocking =
-    .label = Лише якщо { -brand-short-name } налаштований блокувати виявлене стеження
 do-not-track-option-default-content-blocking-known =
     .label = Лише якщо { -brand-short-name } налаштовано блокувати відомі елементи стеження
 do-not-track-option-always =
@@ -95,9 +91,6 @@ extension-controlled-default-search = Розширення <img data-l10n-name="
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = Для роботи розширення <img data-l10n-name="icon"/> { $name } необхідні вкладки в контейнері.
-# This string is shown to notify the user that their tracking protection preferences
-# are being controlled by an extension.
-extension-controlled-websites-tracking-protection-mode = Розширення <img data-l10n-name="icon"/> { $name } контролює захист від стеження.
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
 extension-controlled-websites-content-blocking-all-trackers = Розширення <img data-l10n-name="icon"/> { $name } контролює ці налаштування.
@@ -154,9 +147,6 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = Відкривати посилання у вкладках замість нових вікон
     .accesskey = л
-warn-on-quit-close-multiple-tabs =
-    .label = Попереджати при закритті декількох вкладок при виході
-    .accesskey = П
 warn-on-close-multiple-tabs =
     .label = Попереджати при закритті декількох вкладок
     .accesskey = і
@@ -612,12 +602,6 @@ sitedata-total-size-calculating = Обчислення розміру даних
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Ваші збережені куки, дані сайтів і кеш використовують { $value } { $unit } дискового простору.
 sitedata-learn-more = Докладніше
-sitedata-keep-until = Зберігати до
-    .accesskey = г
-sitedata-keep-until-expire =
-    .label = Завершення терміну дії
-sitedata-keep-until-closed =
-    .label = Закриття { -brand-short-name }
 sitedata-delete-on-close =
     .label = Видаляти куки і дані сайтів при закритті { -brand-short-name }
     .accesskey = я
@@ -631,16 +615,6 @@ sitedata-disallow-cookies-option =
 # The list items are the strings named sitedata-block-*-option*.
 sitedata-block-desc = Тип блокування
     .accesskey = и
-sitedata-block-trackers-option-recommended =
-    .label = Сторонні елементи стеження (рекомендовано)
-sitedata-block-trackers-option =
-    .label = Сторонні елементи стеження
-sitedata-block-unvisited-option =
-    .label = Куки з невідвіданих веб-сайтів
-sitedata-block-all-third-party-option =
-    .label = Сторонні куки (може пошкодити роботу веб-сайтів)
-sitedata-block-all-option =
-    .label = Усі куки (буде пошкоджувати роботу веб-сайтів)
 sitedata-option-block-trackers =
     .label = Стороннє стеження
 sitedata-option-block-unvisited =
@@ -655,13 +629,6 @@ sitedata-clear =
 sitedata-settings =
     .label = Керувати даними…
     .accesskey = К
-sitedata-cookies-exceptions =
-    .label = Винятки…
-    .accesskey = и
-# This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
-# in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
-# Cookies and Site Data section.
-sitedata-warning-your-settings-prevent-changes = Ваші налаштування блокування вмісту не дозволяють змінювати налаштування куків і даних сайтів.
 sitedata-cookies-permissions =
     .label = Керувати дозволами…
     .accesskey = з
@@ -684,48 +651,15 @@ addressbar-suggestions-settings = Змінити налаштування про
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Блокування вмісту
-content-blocking-desc = Блокувати сторонній вміст, наприклад, рекламу чи код, що може сповільнювати роботу браузера і стежити за вами в інтернеті. Змінюйте налаштування для найкращого балансу захисту й швидкодії.
 content-blocking-description = Блокуйте сторонній вміст, що стежить за вами в інтернеті. Контролюйте обсяг вашої онлайн-активності, що зберігається і передається між веб-сайтами.
 content-blocking-learn-more = Докладніше
-content-blocking-restore-defaults =
-    .label = Відновити типові
-    .accesskey = т
-content-blocking-toggle-on =
-    .tooltiptext = Вимкнути блокування вмісту
-content-blocking-toggle-off =
-    .tooltiptext = Увімкнути блокування вмісту
-content-blocking-toggle-label-on = УВІМК
-    .accesskey = В
-content-blocking-toggle-label-off = ВИМК
-    .accesskey = И
-content-blocking-category-label = Оберіть елементи для блокування
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-slow-loading-trackers-label =
-    .label = Повільні елементи стеження
-    .accesskey = в
-content-blocking-fastblock-new-description = Блокувати лише елементи стеження, що сповільнюють завантаження сторінок.
-content-blocking-tracking-protection-trackers-label =
-    .label = Стеження
-    .accesskey = т
-content-blocking-tracking-protection-all-detected-trackers-label =
-    .label = Виявлене стеження
-    .accesskey = я
-content-blocking-tracking-protection-new-description = Блокувати всі відомі елементи стеження. (Деякі сторінки можуть бути пошкоджені.)
-content-blocking-tracking-protection-option-always =
-    .label = Завжди
-    .accesskey = З
-content-blocking-tracking-protection-option-private =
-    .label = Лише у приватних вікнах
-    .accesskey = п
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 content-blocking-setting-standard =
-    .label = Стандартно
-    .accesskey = т
+    .label = Звичайне
+    .accesskey = ч
 content-blocking-setting-strict =
-    .label = Суворо
+    .label = Суворе
     .accesskey = в
 content-blocking-setting-custom =
     .label = Власне
@@ -751,51 +685,12 @@ content-blocking-option-private =
     .label = Лише у приватних вікнах
     .accesskey = п
 content-blocking-tracking-protection-change-block-list = Змінити список блокування
-content-blocking-third-party-cookies-label =
-    .label = Сторонні куки
-    .accesskey = к
-content-blocking-reject-trackers-description = Блокувати усі сторонні куки, або лише встановлені стеженням.
-# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
-# of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
-# or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
-# the UI.
-content-blocking-reject-trackers-warning-your-settings-prevent-changes = Ваші налаштування куків і даних сайтів не дозволяють змінювати налаштування сторонніх куків.
-content-blocking-change-cookie-settings =
-    .label = Змінити налаштування куків
-    .accesskey = м
-content-blocking-reject-trackers-block-trackers-option-recommended =
-    .label = Стеження (рекомендовано)
-    .accesskey = ж
-content-blocking-reject-trackers-block-trackers-option =
-    .label = Стеження
-    .accesskey = т
-content-blocking-reject-trackers-all-third-parties-option =
-    .label = Усі сторонні куки (може пошкодити роботу веб-сайтів)
-    .accesskey = У
 content-blocking-cookies-label =
     .label = Куки
     .accesskey = К
 
 ## Privacy Section - Tracking
 
-tracking-header = Захист від стеження
-tracking-desc = Захист від стеження блокує елементи, що збирають ваші дані під час перегляду на багатьох веб-сайтах. <a data-l10n-name="learn-more">Дізнайтеся більше про захист від стеження і вашу приватність</a>
-tracking-mode-label = Використовувати захист від стеження
-tracking-mode-always =
-    .label = Завжди
-    .accesskey = З
-tracking-mode-private =
-    .label = Лише у приватних вікнах
-    .accesskey = Л
-tracking-mode-never =
-    .label = Ніколи
-    .accesskey = Н
-tracking-exceptions =
-    .label = Винятки…
-    .accesskey = В
-tracking-change-block-list =
-    .label = Змінити список блокування…
-    .accesskey = м
 tracking-manage-exceptions =
     .label = Керувати винятками…
     .accesskey = н

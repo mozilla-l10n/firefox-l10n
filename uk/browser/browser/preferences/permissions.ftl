@@ -58,10 +58,6 @@ permissions-invalid-uri-label = Введіть правильне мережев
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-tracking-protection-window =
-    .title = Винятки - захист від стеження
-    .style = { permissions-window.style }
-permissions-exceptions-tracking-protection-desc = Ви вимкнули захист від стеження на цих веб-сайтах.
 permissions-exceptions-content-blocking-window =
     .title = Винятки - Блокування вмісту
     .style = { permissions-window.style }
@@ -86,7 +82,7 @@ permissions-exceptions-popup-desc = Ви можете вказати, яким �
 permissions-exceptions-saved-logins-window =
     .title = Винятки - Збережені паролі
     .style = { permissions-window.style }
-permissions-exceptions-saved-logins-desc = Паролі для таких веб-сайтів не буде збережено
+permissions-exceptions-saved-logins-desc = Паролі для таких веб-сайтів не зберігатимуться
 
 ## Exceptions - Add-ons
 
