@@ -37,5 +37,7 @@
                        text for the search box.   -->
 <!ENTITY aboutPrivateBrowsing.search.placeholder         "Caută pe web">
 <!ENTITY aboutPrivateBrowsing.info.title                 "Ești într-o fereastră privată">
+<!ENTITY aboutPrivateBrowsing.info.description           "&brandShortName; îți șterge istoricul de căutare și de navigare când ieși din aplicație sau închizi toate filele și ferestrele private. Deși nu te face anonim pentru site-uri sau pentru furnizorul de internet, îți permite să-ți păstrezi confidențialitatea activității online față de oricine altcineva care folosește acest calculator.">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article
                        about private browsing myths.   -->
+<!ENTITY aboutPrivateBrowsing.info.myths                 "Mituri comune despre navigarea privată">
