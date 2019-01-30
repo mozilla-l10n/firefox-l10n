@@ -12,5 +12,9 @@ fullscreen = Fullskjerm
 find = Søk
 new-tab = Ny fane
 add-bookmark = Legg til bokmerke
+open-bookmarks-sidebar = Opne bokmerkesidestolpen
+reader-view = Lesevising
+# Meant to match the string displayed in an empty URL bar.
+open-location = Søk eller skriv inn adresse
 share = Del
-focus = Lat att
+close-window = Lat att vindauge
