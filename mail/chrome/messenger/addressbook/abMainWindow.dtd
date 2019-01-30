@@ -74,16 +74,14 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-<!ENTITY propertiesCmd.label                            "Thuộc tính…">
-<!ENTITY propertiesCmd.accesskey                        "u">
 <!ENTITY propertiesCmd.key                              "i">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label                                 "Hiển thị">
 <!ENTITY viewMenu.accesskey                             "H">
 <!ENTITY viewToolbarsMenu.label                         "Thanh Công Cụ">
-<!ENTITY viewToolbarsMenu.accesskey                     "C"> 
-<!ENTITY menubarCmd.label                               "Menu Bar">
+<!ENTITY viewToolbarsMenu.accesskey                     "C">
+<!ENTITY menubarCmd.label                               "Thanh menu">
 <!ENTITY menubarCmd.accesskey                           "M">
 <!ENTITY showAbToolbarCmd.label                         "Thanh Sổ Địa Chỉ">
 <!ENTITY showAbToolbarCmd.accesskey                     "S">
@@ -91,18 +89,18 @@
 <!ENTITY showTaskbarCmd.accesskey                       "a">
 <!ENTITY customizeToolbar.label                         "Tùy biến…">
 <!ENTITY customizeToolbar.accesskey                     "b">
-<!ENTITY layoutMenu.label                               "Layout">
+<!ENTITY layoutMenu.label                               "Bố cục">
 <!ENTITY layoutMenu.accesskey                           "L">
-<!ENTITY showDirectoryPane.label                        "Directory Pane">
+<!ENTITY showDirectoryPane.label                        "Ngăn thư mục">
 <!ENTITY showDirectoryPane.accesskey                    "D">
-<!ENTITY showContactPane2.label                         "Contact Pane">
+<!ENTITY showContactPane2.label                         "Ngăn liên lạc">
 <!ENTITY showContactPane2.accesskey                     "C">
 <!ENTITY menu_ShowNameAs.label                          "Hiện Tên theo dạng">
-<!ENTITY menu_ShowNameAs.accesskey                      "T"> 
+<!ENTITY menu_ShowNameAs.accesskey                      "T">
 <!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
 because displayed names don't have the comma in between. -->
-<!ENTITY firstLastCmd2.label                            "First Last">
-<!ENTITY firstLastCmd2.accesskey                        "f"> 
+<!ENTITY firstLastCmd2.label                            "Tên Họ">
+<!ENTITY firstLastCmd2.accesskey                        "f">
 <!ENTITY lastFirstCmd.label                             "Họ, Tên">
 <!ENTITY lastFirstCmd.accesskey                         "H">
 <!ENTITY displayNameCmd.label                           "Tên Hiển Thị">
@@ -122,18 +120,14 @@ because displayed names don't have the comma in between. -->
 <!ENTITY importCmd.accesskey                            "N">
 <!ENTITY exportCmd.label                                "Xuất…">
 <!ENTITY exportCmd.accesskey                            "X">
-<!ENTITY preferencesCmd.label                           "Tùy chọn…">
-<!ENTITY preferencesCmd.accesskey                       "y">
 <!ENTITY preferencesCmdUnix.label                       "Tùy chỉnh">
 <!ENTITY preferencesCmdUnix.accesskey                   "y">
 
-<!-- Address Book Toolbar and Context Menus -->  
+<!-- Address Book Toolbar and Context Menus -->
 <!ENTITY newContactButton.label                         "Danh bạ Mới">
 <!ENTITY newContactButton.accesskey                     "b">
 <!ENTITY newlistButton.label                            "Danh sách Mới">
 <!ENTITY newlistButton.accesskey                        "D">
-<!ENTITY editButton2.label                              "Thuộc tính">
-<!ENTITY editButton2.accesskey                          "T">
 <!ENTITY newmsgButton.label                             "Viết thư">
 <!ENTITY newmsgButton.accesskey                         "V">
 <!ENTITY newIM.label                                    "Tin nhắn Nhanh">
@@ -144,10 +138,9 @@ because displayed names don't have the comma in between. -->
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY newContactButton.tooltip                       "Tạo một tên liên hệ mới trên sổ địa chỉ">
 <!ENTITY newlistButton.tooltip                          "Tạo một danh sách mới">
-<!ENTITY editButton2.tooltip                            "Chỉnh sửa mục đã chọn">
 <!ENTITY newmsgButton.tooltip                           "Gửi một lá thư">
 <!ENTITY newIM.tooltip                                  "Gửi tin nhắn nhanh hoặc chat">
-<!ENTITY deleteButton2.tooltip                           "Xóa mục đã chọn">
+<!ENTITY deleteButton2.tooltip                          "Xóa mục đã chọn">
 
 <!-- Dir Tree header -->
 <!ENTITY dirTreeHeader.label                            "Sổ Địa Chỉ">
@@ -164,8 +157,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY GeneratedName.accesskey                        "T">
 <!ENTITY PrimaryEmail.label                             "Email">
 <!ENTITY PrimaryEmail.accesskey                         "E">
-<!ENTITY ScreenName.label                               "Tên Screen">
-<!ENTITY ScreenName.accesskey                           "S">
 <!ENTITY Company.label                                  "Tổ chức">
 <!ENTITY Company.accesskey                              "h">
 <!ENTITY NickName.label                                 "Tên hiệu">
@@ -190,7 +181,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY sortAscending.accesskey                        "i">
 <!ENTITY sortDescending.label                           "Ngược chiều">
 <!ENTITY sortDescending.accesskey                       "g">
-<!ENTITY _PhoneticName.label                            "Phonetic Name">
+<!ENTITY _PhoneticName.label                            "Tên ngữ âm">
 <!ENTITY _PhoneticName.accesskey                        "o">
 
 <!-- Card Summary Pane -->
@@ -208,12 +199,11 @@ because displayed names don't have the comma in between. -->
 <!ENTITY mapIt.tooltip                                  "Hiển thị bản đồ của địa chỉ này trên Web">
 
 <!-- Status Bar -->
-<!ENTITY statusText.label "">
+<!ENTITY statusText.label                               "">
 
 <!--  Mac OS X Window Menu -->
-<!ENTITY windowMenu.label "Cửa sổ">
-<!ENTITY minimizeWindow.label "Thu nhỏ">
-<!ENTITY minimizeWindow.key "m">
-<!ENTITY bringAllToFront.label "Đưa Tất Cả ra Tiền Cảnh">
-<!ENTITY zoomWindow.label "Thu phóng">
-
+<!ENTITY windowMenu.label                               "Cửa sổ">
+<!ENTITY minimizeWindow.label                           "Thu nhỏ">
+<!ENTITY minimizeWindow.key                             "m">
+<!ENTITY bringAllToFront.label                          "Đưa Tất Cả ra Tiền Cảnh">
+<!ENTITY zoomWindow.label                               "Thu phóng">

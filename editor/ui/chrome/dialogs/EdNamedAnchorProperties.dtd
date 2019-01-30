@@ -2,10 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY windowTitle.label "Named Anchor Properties">
+<!ENTITY windowTitle.label "Thuộc tính mỏ neo">
 <!ENTITY anchorNameEditField.label "Tên Anchor:">
 <!ENTITY anchorNameEditField.accessKey "A">
 <!ENTITY nameInput.tooltip "Nhập một tên cho thẻ neo anchor (đích) này">
-
-
-

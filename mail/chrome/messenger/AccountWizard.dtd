@@ -4,7 +4,7 @@
 
 <!-- Entities for AccountWizard -->
 
-<!ENTITY windowTitle.label "Account Wizard">
+<!ENTITY windowTitle.label "Trình thuật sĩ tài khoản">
 <!ENTITY accountWizard.size "width: 40em; height: 38em;">
 
 <!-- Entities for Account Type page -->
