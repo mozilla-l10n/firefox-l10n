@@ -212,6 +212,9 @@ extensions-updates-update-selected =
 
 shortcuts-manage =
     .label = Klavye kısayolları
+manage-extensions-shortcuts =
+    .label = Eklenti kısayollarını yönet
+    .accesskey = E
 shortcuts-empty-message = Bu eklentiye ait kısayol yok.
 shortcuts-no-addons = Herhangi bir eklentiyi etkinleştirmediniz.
 shortcuts-input =
@@ -224,3 +227,5 @@ shortcuts-modifier-other = Ctrl veya Alt kullanmalısınız
 shortcuts-invalid = Geçersiz kombinasyon
 shortcuts-letter = Bir harf yazın
 shortcuts-system = { -brand-short-name } kısayollarını değiştiremezsiniz
+go-back-button =
+    .tooltiptext = Geri dön
