@@ -7,7 +7,6 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "p">
 
 <!ENTITY privateBrowsing.title                           "Merdeiñ prevez">
-<!ENTITY privateBrowsing.title.tracking                  "Merdeiñ prevez gant ar gwarez heuliañ">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.before       "">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "N'eo ket enrollet">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        " gant Firefox pa verdeit en ur prenestr merdeiñ prevez:">
@@ -28,15 +27,15 @@
 <!ENTITY aboutPrivateBrowsing.learnMore3.title           "Merdeiñ prevez">
 <!ENTITY aboutPrivateBrowsing.learnMore3.after           ".">
 
-<!ENTITY trackingProtection.title                        "Gwarez heuliañ">
-<!ENTITY trackingProtection.description2                 "Gant lec'hiennoù 'zo e vez arveret heulierien evit evezhiañ hoc'h obererezh war ar Genrouedad. Gwarez Heuliañ Firefox a stanko meur a heulier a c'hall dastum titouroù a-zivout hoc'h emzalc'h merdeiñ.">
-
 <!ENTITY trackingProtection.startTour1                   "Sellit penaos ez a en-dro">
 
 <!ENTITY contentBlocking.title                           "Stankadur endalc'had">
 <!ENTITY contentBlocking.description                     "Lec'hiennoù 'zo a arver heulierien evit evezhiañ hoc'h oberiantiz war an internet. E prenestroù pevez e c'hall Firefox stankañ eur a heulier a c'hallfe dastum titouroù a-zivout hoc'h emzalc'h merdeiñ.">
 
 <!-- Strings for new Private Browsing with Search -->
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.search.placeholder): This is the placeholder
+                       text for the search box.   -->
+<!ENTITY aboutPrivateBrowsing.search.placeholder         "Klask er web">
 <!ENTITY aboutPrivateBrowsing.info.title                 "En ur prenestr merdeiñ prevez emaoc'h">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article
                        about private browsing myths.   -->
