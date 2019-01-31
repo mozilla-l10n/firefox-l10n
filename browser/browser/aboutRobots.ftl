@@ -8,5 +8,13 @@
 ### They're just meant to be fun and whimsical, with references to some geeky
 ### but well-known robots in movies and books. Be creative with translations!
 
+# Movie: The Day The Earth Stood Still. Spoken by Klaatu.
+error-short-desc-text = ¡Venimos a visitarlos en paz y con buena voluntad!
+# Various books by Isaac Asimov. http://en.wikipedia.org/wiki/Three_Laws_of_Robotics
+error-long-desc1 = Los robots no deben dañar a un ser humano o, por su inacción, dejar que éste se lastime.
+# Movie: Blade Runner. Batty: "I've seen things you people wouldn’t believe..."
+error-long-desc2 = Los robots han visto cosas que ustedes los humanos no creerían.
 # Book: Hitchhiker’s Guide To The Galaxy. What the Sirius Cybernetics Corporation calls robots.
 error-long-desc3 = Los robots son sus amigos de plástico con los que se pueden divertir.
+# TV: Battlestar Galactica (2004 series). From the opening text.
+error-trailer-desc-text = … Y tienen un plan.
