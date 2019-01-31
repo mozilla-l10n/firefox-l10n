@@ -3,9 +3,11 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 crashed-title = Informador de erros nas lapelas
+crashed-close-tab-button = Pechar lapela
 crashed-restore-tab-button = Restaurar esta lapela
 crashed-restore-all-button = Restaurar todas as lapelas quebradas
 crashed-header = Vaia. A súa lapela quebrou.
+crashed-offer-help = Podemos axudarlle!
 crashed-single-offer-help-message = Escolla { crashed-restore-tab-button } para recargar a páxina.
 crashed-multiple-offer-help-message = Escolla { crashed-restore-tab-button } ou { crashed-restore-all-button } para recargar as páxinas.
 crashed-request-help = Está disposto a axudarnos?
