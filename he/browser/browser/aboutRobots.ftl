@@ -14,6 +14,8 @@ page-title = גורט! קלאטו באראדה ניקטו!
 error-title-text = ברוכים הבאים בני אנוש!
 # Movie: The Day The Earth Stood Still. Spoken by Klaatu.
 error-short-desc-text = באנו לבקר אתכם כשפנינו לשלום ורצון טוב!
+# Various books by Isaac Asimov. http://en.wikipedia.org/wiki/Three_Laws_of_Robotics
+error-long-desc1 = לא יפגע רובוט לרעה בבן אדם, ולא יניח, במחדל, שאדם יפגע.
 # Movie: Blade Runner. Batty: "I've seen things you people wouldn’t believe..."
 error-long-desc2 = רובוטים ראו דברים שאתם האנשים לא תאמינו להם.
 # Book: Hitchhiker’s Guide To The Galaxy. What the Sirius Cybernetics Corporation calls robots.
