@@ -9,4 +9,5 @@ crashed-request-report-title = Azen iccer-a
 crashed-send-report = Azen aneqqis n uɣelluy awurman akken ad nizmir ad nefru uguren am wigi.
 crashed-include-URL = Seddu tansiwin URL n yismal anida telliḍ neɣ melmi i yeɣli { -brand-short-name }.
 crashed-email-placeholder = Sekcem da tansa n yimayl-inek
+crashed-email-me = Azen-iyi-d imayl ticki yella ugar n telɣut
 crashed-auto-submit-checkbox = Beddel ismenyifen akken ad tazneḍ aneqqis s wudem awurman ticki { -brand-short-name } yeɣli.
