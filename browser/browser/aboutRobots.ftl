@@ -16,6 +16,10 @@ error-title-text = Сайн байна уу хүн төрөлхтөн!
 error-short-desc-text = Бид энх тайван, сайн сайхан хүсэж ирсэн бөлгөө!
 # Various books by Isaac Asimov. http://en.wikipedia.org/wiki/Three_Laws_of_Robotics
 error-long-desc1 = Роботууд нь хүн төрөлхтөнг орлох, эсвэл хүний үйлдлийг булааж хүн төрөлхтөнд аюул учруулах гэж ирээгүй юм.
+# Movie: Blade Runner. Batty: "I've seen things you people wouldn’t believe..."
+error-long-desc2 = Роботууд хүн итгэхээргүй зүйлүүдийг үзсэн юм.
+# Book: Hitchhiker’s Guide To The Galaxy. What the Sirius Cybernetics Corporation calls robots.
+error-long-desc3 = Роботууд бол таныг зугаацуулж чадах хуванцар зүйлс
 # TV: Futurama. Bender's first line is "Bite my shiny metal ass."
 error-long-desc4 = Роботуудад гялалзсан сайхан бөгстэй бөгөөд хазуулах гэж хийгээгүй билээ.
 # TV: Battlestar Galactica (2004 series). From the opening text.
