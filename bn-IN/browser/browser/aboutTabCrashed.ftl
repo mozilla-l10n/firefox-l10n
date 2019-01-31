@@ -13,3 +13,4 @@ crashed-comment =
 crashed-email-placeholder = ই-মেইল ঠিকানা এইখানে লিখুন
 crashed-email-me = আরো সংবাদ উপলব্ধ হলে আমাকে ইমেল করুন
 crashed-report-sent = ক্র্যাশ রিপোর্ট ইতিমধ্যে জমা হয়ে গেছে; ধন্যবাদ { -brand-short-name } বানাতে সাহায্য করবার জন্য এবং আরও ভালো করবার জন্য!
+crashed-request-auto-submit-title = ব্যাকগ্রাউন্ড ট্যাবের রিপোর্ট করুন
