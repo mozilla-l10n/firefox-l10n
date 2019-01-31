@@ -10,8 +10,12 @@
 
 # Nonsense line from the movie "The Day The Earth Stood Still". No translation needed.
 page-title = Gort! Klaatu barada nikto!
+# Movie: Logan's Run... Box (cyborg): "Welcome Humans! I am ready for you."
+error-title-text = İnsanlar, hoş geldiniz!
 # Movie: The Day The Earth Stood Still. Spoken by Klaatu.
 error-short-desc-text = Barış içinde ve iyi niyetle sizi ziyarete geldik!
+# Various books by Isaac Asimov. http://en.wikipedia.org/wiki/Three_Laws_of_Robotics
+error-long-desc1 = Robotlar insanoğluna zarar veremez veya pasif kalmak suretiyle insanoğlunun zarar görmesine izin veremez.
 # TV: Futurama. Bender's first line is "Bite my shiny metal ass."
 error-long-desc4 = Robotların ısırılmaması gereken parlak metal popoları vardır.
 # TV: Battlestar Galactica (2004 series). From the opening text.
