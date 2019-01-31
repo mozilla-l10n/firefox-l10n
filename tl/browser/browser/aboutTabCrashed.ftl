@@ -20,5 +20,5 @@ crashed-include-URL = Isama ang mga URLs ng mga site na nandoon ka nung { -brand
 crashed-email-placeholder = Ibigay ang iyong email address dito
 crashed-email-me = I-email ako kapag may bagong impormasyon
 crashed-report-sent = Crash report ay nai-padala na; salamat sa pag tulong gawing mas maayos ang { -brand-short-name }!
-crashed-request-auto-submit-title = I-report ang background tabs{ " " }
+crashed-request-auto-submit-title = I-report ang background tabs
 crashed-auto-submit-checkbox = I-update ang mga kagustuhan upang awtomatikong maisumite ang mga ulat kapag ang { -brand-short-name } ay nag-crash.
