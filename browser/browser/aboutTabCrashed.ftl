@@ -17,5 +17,6 @@ crashed-comment =
 crashed-include-URL = Incluír os URL dos sitios nos que estaba cando { -brand-short-name } quebrou.
 crashed-email-placeholder = Escriba aquí o seu correo electrónico
 crashed-email-me = Envíenme un correo cando haxa máis información dispoñíbel
+crashed-report-sent = Xa se enviou o informe de erro; grazas por axudar a mellorar { -brand-short-name }!
 crashed-request-auto-submit-title = Informar das lapelas en segundo plano
 crashed-auto-submit-checkbox = Actualice as preferencias para enviar automaticamente informes cando { -brand-short-name } quebre.
