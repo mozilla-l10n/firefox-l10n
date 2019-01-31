@@ -6,3 +6,4 @@ crashed-restore-tab-button = Arvi torna sto feuggio
 crashed-restore-all-button = Arvi torna tutti i feuggi ciantæ
 crashed-email-placeholder = Scrivi l’indirisso email
 crashed-email-me = Manda 'n'email quande gh'é de atre informaçioin
+crashed-report-sent = A segnalaçion do cianto anòmalo a l'é za stæta manda. Graçie de avei contribuio a-o migioramento de { -brand-short-name }.
