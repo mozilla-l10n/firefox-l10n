@@ -14,3 +14,6 @@ changed-desc-profiles = Esta instalación de { -brand-short-name } tiene un nuev
 changed-desc-dedicated = Para que sea más fácil y seguro alternar entre las instalaciones de Firefox (incluyendo Firefox, Firefox ESR, Firefox Beta, Firefox Developer Edition y Firefox Nightly), esta instalación ahora tiene un perfil dedicado. No comparte automáticamente su información guardada con otras instalaciones de Firefox.
 lost = <b> No perdió ningún dato personal ni las personalizaciones. </b> Si ya guardó información en Firefox en esta computadora, todavía está disponible en otra instalación de Firefox.
 options-title = ¿Qué opciones tengo?
+options-do-nothing = Si no hace nada, sus datos de perfil de { -brand-short-name } serán diferentes de los datos del perfil en otras instalaciones de Firefox.
+options-use-sync = Si quiere que todos los datos de su perfil sean iguales en todas las instalaciones de Firefox, puede usar { -fxaccount-brand-name } para mantenerlos sincronizados.
+resources = Recursos:
