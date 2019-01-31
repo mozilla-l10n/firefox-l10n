@@ -18,3 +18,5 @@ error-long-desc1 = Robots may not injure a human being or, through inaction, all
 error-long-desc3 = Robots are Your Plastic Pal Who's Fun To Be With
 # TV: Futurama. Bender's first line is "Bite my shiny metal ass."
 error-long-desc4 = Robots have shiny metal posteriors which should not be bitten.
+# TV: Battlestar Galactica (2004 series). From the opening text.
+error-trailer-desc-text = ਅਤੇ ਉਨ੍ਹਾਂ ਕੋਲ ਇੱਕ ਯੋਜਨਾ ਹੈ।
