@@ -12,6 +12,7 @@
 <!ENTITY window.title "您啟動了舊版的 Firefox">
 <!ENTITY window.style "width: 490px;">
 
+<!ENTITY window.nosync "使用舊版的 Firefox 可能會造成現有 Firefox 設定檔當中的書籤、上網紀錄毀損。為了保護您的資訊，請為這份 &brandShortName; 建立新的設定檔。">
 <!ENTITY window.sync "使用舊版的 Firefox 可能會造成現有 Firefox 設定檔當中的書籤、上網紀錄毀損。為了保護您的資訊，請為這份 &brandShortName; 建立新的設定檔。您可隨時登入 &syncBrand.fxAccount.label;，在不同的設定檔之間同步書籤與上網紀錄。">
 
 <!ENTITY window.create "建立新設定檔">
