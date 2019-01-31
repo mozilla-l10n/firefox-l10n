@@ -8,7 +8,16 @@
 ### They're just meant to be fun and whimsical, with references to some geeky
 ### but well-known robots in movies and books. Be creative with translations!
 
+# Nonsense line from the movie "The Day The Earth Stood Still". No translation needed.
+page-title = Gort! Klaatu barada nikto!
+# Movie: Logan's Run... Box (cyborg): "Welcome Humans! I am ready for you."
+error-title-text = Salute, humanos!
 # Movie: The Day The Earth Stood Still. Spoken by Klaatu.
 error-short-desc-text = Nos ha venite pro visitar te in pace e con bon voluntate!
 # Movie: Blade Runner. Batty: "I've seen things you people wouldn’t believe..."
 error-long-desc2 = Le robots ha vidite cosas que vos humanos non poterea creder.
+# TV: Futurama. Bender's first line is "Bite my shiny metal ass."
+error-long-desc4 = Le robots ha culos metallic brillante que non debe esser mordite.
+# Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
+error-try-again = Retentar
+    .label2 = Per favor non pulsar iste button novemente.
