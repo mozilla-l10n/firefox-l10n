@@ -8,6 +8,12 @@
 ### They're just meant to be fun and whimsical, with references to some geeky
 ### but well-known robots in movies and books. Be creative with translations!
 
+# Nonsense line from the movie "The Day The Earth Stood Still". No translation needed.
+page-title = Benvidos, humanos!
+# Movie: Logan's Run... Box (cyborg): "Welcome Humans! I am ready for you."
+error-title-text = Benvidos humanos!
+# Movie: The Day The Earth Stood Still. Spoken by Klaatu.
+error-short-desc-text = Vimos a visitarvos en son de paz e con boa vontade!
 # Various books by Isaac Asimov. http://en.wikipedia.org/wiki/Three_Laws_of_Robotics
 error-long-desc1 = Os robots nin poden mancar os seres humanos nin ficar quietos se ven que corren perigo.
 # Movie: Blade Runner. Batty: "I've seen things you people wouldn’t believe..."
