@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-languages-window =
-    .title = Мови
-    .style = width: 38em
 webpage-languages-window =
     .title = Налаштування мови веб-сторінок
     .style = width: 40em
@@ -44,7 +41,7 @@ languages-active-code-format =
 browser-languages-window =
     .title = Налаштування мови { -brand-short-name }
     .style = width: 40em
-browser-languages-description = { -brand-short-name } типово буде відображати сторінки першою мовою зі списку, а інші мови у вказаному порядку, при необхідності.
+browser-languages-description = { -brand-short-name } типово відображатиме сторінки першою мовою зі списку, а інші мови у вказаному порядку, при необхідності.
 browser-languages-search = Пошук інших мов…
 browser-languages-searching =
     .label = Пошук мов…
