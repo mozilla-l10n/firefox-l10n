@@ -2,9 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+crashed-close-tab-button = Uddu Tabbere
 crashed-restore-tab-button = Artir ndee Tabbere
 crashed-restore-all-button = Artir Tabbe Kookɗe ɗee Fof
 crashed-header = Ndo. Tabbere maa hookii.
+crashed-offer-help = Emin mbaawi wallude!
+crashed-single-offer-help-message = Suɓo { crashed-restore-tab-button } ngam loowtude hello ngoo.
+crashed-multiple-offer-help-message = Suɓo { crashed-restore-tab-button } walla { crashed-restore-all-button } ngam loowtude hello /kelle.
 crashed-request-help = Aɗa waawi wallude min?
 crashed-request-help-message = Jaŋte kooke ena mballa min yiytude caɗe tee ɓeyda { -brand-short-name } yuɓɓude.
 crashed-request-report-title = Jaŋto ndee tabbere
