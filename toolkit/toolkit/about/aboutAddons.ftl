@@ -210,8 +210,6 @@ extensions-updates-update-selected =
 
 ## Extension shortcut management
 
-shortcuts-manage =
-    .label = 键盘快捷键
 manage-extensions-shortcuts =
     .label = 管理扩展快捷键
     .accesskey = S
@@ -227,5 +225,6 @@ shortcuts-modifier-other = 包括 Ctrl 或 Alt
 shortcuts-invalid = 组合无效
 shortcuts-letter = 输入一个字母
 shortcuts-system = 不可覆盖 { -brand-short-name } 的快捷键
+shortcuts-card-collapse-button = 显示更少
 go-back-button =
     .tooltiptext = 返回
