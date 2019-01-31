@@ -10,15 +10,6 @@
 <!ENTITY toggleToolboxF12.keycode          "VK_F12">
 <!ENTITY toggleToolboxF12.keytext          "F12">
 
-<!-- LOCALIZATION NOTE (browserToolboxErrorMessage): This is the label
-  -  shown next to error details when the Browser Toolbox is unable to open. -->
-<!ENTITY browserToolboxErrorMessage          "Помилка відкриття інструментів браузера:">
-
-<!-- LOCALIZATION NOTE (browserToolboxStatusMessage): This is the label
-  -  shown next to status details when the Browser Toolbox fails to connect or
-  -  appears to be taking a while to do so. -->
-<!ENTITY browserToolboxStatusMessage "Статус з'єднання інструментів браузера:">
-
 <!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
   -  the heading of the advanced settings group in the options panel. -->
 <!ENTITY options.context.advancedSettings "Додаткові параметри">
@@ -91,7 +82,7 @@
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
 <!ENTITY options.disableJavaScript.label     "Вимкнути JavaScript *">
-<!ENTITY options.disableJavaScript.tooltip   "Увімкнення цього параметра вимкне JavaScript для поточної вкладки. Якщо вкладка або інструменти закрито, то ці налаштування буде забуто.">
+<!ENTITY options.disableJavaScript.tooltip   "Увімкнення цього параметра вимкне JavaScript для поточної вкладки. Якщо вкладку чи інструменти закрито, то ці налаштування не збережуться.">
 
 <!-- LOCALIZATION NOTE (options.disableHTTPCache.label,
   -  options.disableHTTPCache.tooltip): This is the options panel label and
