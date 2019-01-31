@@ -4,3 +4,5 @@
 
 crashed-restore-tab-button = Obnovi zavihek
 crashed-restore-all-button = Obnovi vse sesute zavihke
+crashed-email-placeholder = Vnesite svoj e-poštni naslov
+crashed-report-sent = Poročilo o sesutju je že bilo poslano. Hvala, da pomagate izboljševati { -brand-short-name }!
