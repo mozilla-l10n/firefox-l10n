@@ -10,6 +10,8 @@
 
 # Nonsense line from the movie "The Day The Earth Stood Still". No translation needed.
 page-title = Gort! Klaatu barada nikto!
+# Movie: Logan's Run... Box (cyborg): "Welcome Humans! I am ready for you."
+error-title-text = Mirë se vini, Qenie Njerëzore!
 # Movie: The Day The Earth Stood Still. Spoken by Klaatu.
 error-short-desc-text = Kemi ardhur t'u vizitojmë në paqe dhe me dëshirën e mirë!
 # Various books by Isaac Asimov. http://en.wikipedia.org/wiki/Three_Laws_of_Robotics
@@ -22,3 +24,6 @@ error-long-desc3 = Roboti është Shoku Juaj Plastik Me të Cilin Ka Lezet të R
 error-long-desc4 = Robotët i kanë prapanicat prej metali, ndaj nuk duhen kafshuar aty.
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = Dhe e kanë një plan.
+# Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
+error-try-again = Riprovoni
+    .label2 = Ju lutemi, mos e shtypni prapë këtë buton.
