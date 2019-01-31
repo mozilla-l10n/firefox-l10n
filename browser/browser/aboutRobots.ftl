@@ -22,3 +22,6 @@ error-long-desc2 = Робаты бачаць рэчы, у якія вы, люд�
 error-long-desc3 = Робаты - вашы пластыкавыя таварышы, з якімі цікава бавіць час.
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = І яны маюць задуму.
+# Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
+error-try-again = Паспрабуйце зноў
+    .label2 = Калі ласка, больш не націскайце на гэтую кнопку.
