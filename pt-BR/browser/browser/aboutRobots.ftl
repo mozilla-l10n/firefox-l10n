@@ -14,5 +14,7 @@ page-title = Gort! Klaatu barada nikto!
 error-title-text = Bem-vindos, humanos!
 # Movie: The Day The Earth Stood Still. Spoken by Klaatu.
 error-short-desc-text = Viemos visitá-los em paz e com boas intenções!
+# Book: Hitchhiker’s Guide To The Galaxy. What the Sirius Cybernetics Corporation calls robots.
+error-long-desc3 = Robôs são os seus amigos de plástico com quem pode se divertir.
 # TV: Futurama. Bender's first line is "Bite my shiny metal ass."
 error-long-desc4 = Robôs possuem traseiros de metal brilhantes que não devem ser mordidos.
