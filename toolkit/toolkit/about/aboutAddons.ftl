@@ -94,6 +94,7 @@ detail-update-manual =
     .tooltiptext = 不要自動安裝更新
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = 於隱私視窗中執行
+detail-private-browsing-description = 擴充套件將在隱私瀏覽視窗中運作，並可存取您的上網行為。<label data-l10n-name="detail-private-browsing-learn-more">了解更多</label>
 detail-private-browsing-on =
     .label = 允許
     .tooltiptext = 在隱私瀏覽模式中啟用
@@ -142,6 +143,7 @@ legacy-warning-show-legacy = 顯示傳統擴充套件
 legacy-extensions =
     .value = 傳統擴充套件
 legacy-extensions-description = 這些擴充套件不符合 { -brand-short-name } 目前的標準，已被停用。 <label data-l10n-name="legacy-learn-more">了解附加元件有什麼變動</label>
+private-browsing-description = 預設情況下，擴充套件將無法在隱私瀏覽視窗中運作。這代表將無法於隱私瀏覽模式使用它們，它們也無法存取您的上網行為。若要允許擴充套件在隱私瀏覽視窗中運作，請選擇下方的擴充套件卡片，並調整設定。<label data-l10n-name="private-browsing-learn-more">了解更多。</label>
 extensions-view-discover =
     .name = 安裝附加元件
     .tooltiptext = { extensions-view-discover.name }
