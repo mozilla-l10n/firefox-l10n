@@ -12,6 +12,7 @@ crashed-request-help-message = 충돌 보고서는 저희가 문제를 진단하
 crashed-request-report-title = 이 탭 보고하기
 crashed-comment =
     .placeholder = 추가 의견(외부에 공개됨)
+crashed-include-URL = { -brand-short-name }에 오류가 발생할 때 이용한 사이트의 URL을 포함합니다.
 crashed-email-placeholder = 이메일 주소를 입력하세요
 crashed-email-me = 추가 정보가 있을 경우 이메일 받기
 crashed-report-sent = 충돌 보고서를 이미 전송했습니다. { -brand-short-name }가 보다 나아지도록 도와주셔서 고맙습니다!
