@@ -18,3 +18,6 @@ error-short-desc-text = Kamoe teuka meukunjong droeneuh lam damee ngon meukeusud
 error-long-desc2 = Robot le that ka jikalön hai-hai nyang han neupateh.
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = Awaknyan na rencana.
+# Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
+error-try-again = Ci Lom
+    .label2 = Bèk teugön tombol nyoe lé.
