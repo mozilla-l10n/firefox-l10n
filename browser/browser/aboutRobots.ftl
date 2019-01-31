@@ -24,3 +24,6 @@ error-long-desc3 = Roboti so vaši plastični prijatelji, s katerimi je lepo.
 error-long-desc4 = Piši se mi v mojo svetlečo kovinsko rit.
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = In imajo načrt.
+# Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
+error-try-again = Poskusi znova
+    .label2 = Prosim, ne pritiskajte tega gumba.
