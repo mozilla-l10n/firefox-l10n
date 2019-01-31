@@ -20,3 +20,6 @@ error-long-desc1 = യന്ത്രങ്ങള്‍ മനുഷ്യനെ
 error-long-desc4 = യന്ത്രങ്ങള്‍ക്ക് തിളങ്ങുന്ന ലോഹ കൊണ്ടൂള്ള പുറകുവശങ്ങളുണ്ട്, ഇവ കടിക്കാന്‍ പാടില്ല :).
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = അവര്‍ക്കൊരു ഉദ്ദേശമുണ്ട്.
+# Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
+error-try-again = വീണ്ടും ശ്രമിക്കുക
+    .label2 = ഈ ബട്ടന്‍ ദയവു ചെയ്ത് ഇനിയും അമര്‍ത്തരുത്.
