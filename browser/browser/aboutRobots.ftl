@@ -16,6 +16,10 @@ error-title-text = Üdv, emberek!
 error-short-desc-text = Látogatásunk békés és jószándékú!
 # Various books by Isaac Asimov. http://en.wikipedia.org/wiki/Three_Laws_of_Robotics
 error-long-desc1 = A robotnak nem szabad kárt okoznia emberi lényben, vagy tétlenül tűrnie, hogy emberi lény bármilyen kárt szenvedjen.
+# Movie: Blade Runner. Batty: "I've seen things you people wouldn’t believe..."
+error-long-desc2 = A robotok láttak dolgokat, amiket ti emberek el sem hinnétek.
+# Book: Hitchhiker’s Guide To The Galaxy. What the Sirius Cybernetics Corporation calls robots.
+error-long-desc3 = A robot a te műanyag haverod, akivel pompásan érzed magad.
 # TV: Futurama. Bender's first line is "Bite my shiny metal ass."
 error-long-desc4 = A robotoknak fényes fémfenekük van, amelybe nem szabad beleharapni.
 # TV: Battlestar Galactica (2004 series). From the opening text.
