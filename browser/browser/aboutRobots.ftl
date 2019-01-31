@@ -18,6 +18,8 @@ error-short-desc-text = Viemos visitar-lhe em paz e de boa vontade!
 error-long-desc1 = Os robôs não podem ferir um ser humano ou, através de inação, permitir que um ser humano sofra algum mal.
 # Movie: Blade Runner. Batty: "I've seen things you people wouldn’t believe..."
 error-long-desc2 = Os robôs viram coisas que vocês não acreditariam.
+# Book: Hitchhiker’s Guide To The Galaxy. What the Sirius Cybernetics Corporation calls robots.
+error-long-desc3 = Os robôs são os seus amigos de plástico para você se divertir.
 # TV: Futurama. Bender's first line is "Bite my shiny metal ass."
 error-long-desc4 = Os robôs têm posteriores de metal brilhantes que não deverão ser mordidos.
 # TV: Battlestar Galactica (2004 series). From the opening text.
