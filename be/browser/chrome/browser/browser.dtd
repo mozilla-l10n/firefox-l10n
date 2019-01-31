@@ -1132,3 +1132,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addonPrivateBrowsing.body.label "Тыпова, пашырэнні не маюць дазволу выконвацца ў прыватных вокнах. Яны не будуць працаваць у рэжыме прыватнага аглядання і не будуць мець доступу да вашай сеціўнай дзейнасці. Вы можаце дазваляць кожнаму пашырэнню выконвацца ў прыватных вокнах, змяняючы налады.">
 <!ENTITY addonPrivateBrowsing.okButton.label "Добра, зразумела">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "з">
+<!ENTITY addonPrivateBrowsing.manageButton.label "Кіраваць пашырэннямі">
+<!ENTITY addonPrivateBrowsing.manageButton.accesskey "ь">
