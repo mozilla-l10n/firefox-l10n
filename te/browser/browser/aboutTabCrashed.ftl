@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 crashed-title = ట్యాబ్ క్రాష్ రిపోర్టర్
+crashed-close-tab-button = ట్యాబును మూసివేయి
 crashed-restore-tab-button = ఈ ట్యాబును పునరుద్ధరించు
 crashed-restore-all-button = క్రాషైన ట్యాబులన్నింటినీ పునరుద్ధరించు
 crashed-header = అయ్యో. మీ ట్యాబు ఇప్పుడే కూలబడింది.
