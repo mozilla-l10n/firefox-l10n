@@ -18,3 +18,6 @@ error-short-desc-text = Rydym wedi dod i'ch cyfarfod mewn heddwch ac ewyllys da!
 error-long-desc1 = Nid yw robotiaid yn cael anafu dynion neu drwy ddiffyg gweithredu gadel iddynt gael eu niweidio.
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = Ac mae ganddyn nhw gynllun.
+# Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
+error-try-again = Ceisiwch eto
+    .label2 = Paid pwyso'r botwm yma eto.
