@@ -16,6 +16,10 @@ error-title-text = أهلا أيها البشر!
 error-short-desc-text = لقد جئناكم مادين أيدينا بالسلام لا نريد بكم سوءًا!
 # Various books by Isaac Asimov. http://en.wikipedia.org/wiki/Three_Laws_of_Robotics
 error-long-desc1 = ليس لآلي إيذاء إنسان أو السكوت عما قد يسبب أذًى له.
+# Movie: Blade Runner. Batty: "I've seen things you people wouldn’t believe..."
+error-long-desc2 = لقد رأى الآليون أشياءً يصعب عليكم أيها البشر تصديقها.
+# Book: Hitchhiker’s Guide To The Galaxy. What the Sirius Cybernetics Corporation calls robots.
+error-long-desc3 = الآليون هم أصحابكم البلاستيكيون الذين تستمتعون برفقتهم.
 # TV: Futurama. Bender's first line is "Bite my shiny metal ass."
 error-long-desc4 = للآليين مؤخرات معدنية لامعة لا يُحبّذ عضُّها.
 # TV: Battlestar Galactica (2004 series). From the opening text.
