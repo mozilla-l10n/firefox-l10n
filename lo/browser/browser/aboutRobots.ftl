@@ -10,7 +10,11 @@
 
 # Nonsense line from the movie "The Day The Earth Stood Still". No translation needed.
 page-title = Gort! Klaatu barada nikto!
+# Movie: Logan's Run... Box (cyborg): "Welcome Humans! I am ready for you."
+error-title-text = ຍິນດີຕ້ອນຮັບມະນຸດໂລກ!
 # Movie: The Day The Earth Stood Still. Spoken by Klaatu.
 error-short-desc-text = ພວກເຮົາໄດ້ມາຢ້ຽມຢາມທ່ານດ້ວຍຄວາມສັນຕິພາບ ແລະ ຄວາມປາດຖະໜາດີ.
 # Movie: Blade Runner. Batty: "I've seen things you people wouldn’t believe..."
 error-long-desc2 = ຫຸ່ນຍົນໄດ້ເຫັນສີ່ງທີ່ປະຊາຊົນຂອງທ່ານບໍເຊື່ອ.
+# TV: Battlestar Galactica (2004 series). From the opening text.
+error-trailer-desc-text = ແລະ ພວກເຂົາມີແຜນການ.
