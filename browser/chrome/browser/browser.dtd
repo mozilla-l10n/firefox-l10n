@@ -29,8 +29,6 @@ a tab (i.e. it is a verb, not adjective). -->
 <!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  duplicateTab.accesskey             "Д">
-<!ENTITY  closeTabOptions.label              "Варыянты закрыцця карткі">
-<!ENTITY  closeTabOptions.accesskey          "В">
 <!-- LOCALIZATION NOTE (duplicateTabs.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
 <!ENTITY  duplicateTabs.label                "Дубляваць карткі">
@@ -288,7 +286,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Захоўваць звесткі ў Сталым Сховішчы (Persistent Storage)">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Браўзер знаходзіцца пад аддаленым кіраваннем">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Адкрыць панэль вэб-аўтарызацыі">
-
 <!ENTITY urlbar.storageAccessAnchor.tooltip               "Адкрыць панэль дазволу дзеянняў аглядання">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Кіраваць доступам сайта да вашай камеры і/або мікрафона">
@@ -987,66 +984,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.title "Блакаванне змесціва">
 <!ENTITY contentBlocking.detected "На гэтым сайце выяўлена змесціва для блакавання.">
 <!ENTITY contentBlocking.notDetected "На гэтай старонцы не выяўлена змесціва для блакавання.">
-<!ENTITY contentBlocking.disabled.label "Выключана">
-<!ENTITY contentBlocking.disabled.tooltip "Вы выключылі блакаванне змесціва.">
-<!ENTITY contentBlocking.exception.tooltip "Вы адключылі блакаванне змесціва для гэтага сайта.">
-
-<!ENTITY contentBlocking.fastBlock.label "Марудныя элементы сачэння">
-<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
-     This label signals that this type of content blocking is turned
-     ON and is successfully blocking malicious/slow content, so this is
-     a positive thing. It forms the end of the (imaginary) sentence
-     "Slow-Loading Trackers [are] Blocked"-->
-<!ENTITY contentBlocking.fastBlock.blocked.label "Заблакавана">
-<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocking.label):
-     This label signals that this type of content blocking is turned
-     ON, so this is a positive thing. It forms the verb in (imaginary) sentence
-     "Firefox is blocking Slow-Loading Trackers"-->
-<!ENTITY contentBlocking.fastBlock.blocking.label "Блакуецца">
-<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
-     This is displayed as a link to preferences, where the user can add
-     this specific type of content blocking. When this text is shown
-     the type of content blocking is currently not enabled. -->
-<!ENTITY contentBlocking.fastBlock.add.label "Дадаць блакаванне…">
-
-<!ENTITY contentBlocking.trackingProtection2.label "Усе выяўленыя трэкеры">
 
 <!ENTITY contentBlocking.trackingProtection3.label "Трэкеры">
-<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
-     This label signals that this type of content blocking is turned
-     ON and is successfully blocking tracker content, so this is
-     a positive thing. It forms the end of the (imaginary) sentence
-     "Trackers [are] Blocked"-->
-<!ENTITY contentBlocking.trackingProtection.blocked.label "Заблакавана">
-<!-- LOCALIZATION NOTE (contentBlocking.tranckingProtection.blocking.label):
-     This label signals that this type of content blocking is turned
-     ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
-     "Firefox is blocking Trackers"-->
-<!ENTITY contentBlocking.trackingProtection.blocking.label "Блакуецца">
-<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
-     This is displayed as a link to preferences, where the user can add
-     this specific type of content blocking. When this text is shown
-     the type of content blocking is currently not enabled. -->
-<!ENTITY contentBlocking.trackingProtection.add.label "Дадаць блакаванне…">
-
-<!ENTITY contentBlocking.3rdPartyCookies.label "Кукі трэцяга боку">
-<!ENTITY contentBlocking.3rdPartyCookies.trackers.label "Кукі асочвання">
-<!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.blocked.label):
-     This label signals that this type of content blocking is turned
-     ON and is successfully blocking third-party cookies, so this is
-     a positive thing. It forms the end of the (imaginary) sentence
-     "Third-Party Cookies [are] Blocked"-->
-<!ENTITY contentBlocking.3rdPartyCookies.blocked.label "Заблакавана">
-<!-- LOCALIZATION NOTE (contentBlocking.tranckingProtection.blocking.label):
-     This label signals that this type of content blocking is turned
-     ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
-     "Firefox is blocking Third-Party Cookies"-->
-<!ENTITY contentBlocking.3rdPartyCookies.blocking.label "Блакуецца">
-<!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.add.label):
-     This is displayed as a link to preferences, where the user can add
-     this specific type of content blocking. When this text is shown
-     the type of content blocking is currently not enabled. -->
-<!ENTITY contentBlocking.3rdPartyCookies.add.label "Дадаць блакаванне…">
 
 <!ENTITY contentBlocking.manageSettings.label "Наладзіць блакаванне змесціва">
 <!ENTITY contentBlocking.manageSettings.accesskey "ь">
@@ -1066,22 +1005,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Адправіць паведамленне">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Скасаваць">
 
-<!ENTITY trackingProtection.title "Ахова ад сачэння">
-<!ENTITY trackingProtection.tooltip "Адкрыць налады аховы ад сачэння">
-
-<!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock4.label "Адключыць блакаванне для гэтага сайта">
-<!ENTITY trackingProtection.unblock4.accesskey "А">
-<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate4.label "Часова адключыць блакаванне">
-<!ENTITY trackingProtection.unblockPrivate4.accesskey "а">
-<!ENTITY trackingProtection.block5.label "Уключыць блакаванне для гэтага сайта">
-<!ENTITY trackingProtection.block5.accesskey "У">
-
 <!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
@@ -1099,11 +1022,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pluginNotification.showAll.label "Паказаць усе">
 <!ENTITY pluginNotification.showAll.accesskey "у">
-
-<!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
-<!ENTITY pluginActivateNow.label "Дазволіць зараз">
-<!ENTITY pluginActivateAlways.label "Дазволіць і запомніць">
-<!ENTITY pluginBlockNow.label "Заблакаваць плагін">
 
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
      width of the plugin popup notification that can appear if a plugin has been
@@ -1209,3 +1127,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Кіруйце вашымі дадаткамі, націснуўшы <image class='addon-addon-icon'/> у меню <image class='addon-toolbar-icon'/>.">
+
+<!ENTITY addonPrivateBrowsing.header.label "Пашырэнні ў прыватных вокнах">
+<!ENTITY addonPrivateBrowsing.body.label "Тыпова, пашырэнні не маюць дазволу выконвацца ў прыватных вокнах. Яны не будуць працаваць у рэжыме прыватнага аглядання і не будуць мець доступу да вашай сеціўнай дзейнасці. Вы можаце дазваляць кожнаму пашырэнню выконвацца ў прыватных вокнах, змяняючы налады.">
+<!ENTITY addonPrivateBrowsing.okButton.label "Добра, зразумела">
+<!ENTITY addonPrivateBrowsing.okButton.accesskey "з">
