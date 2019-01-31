@@ -16,6 +16,10 @@ error-title-text = လူသားများကို ကြိုဆိုလ
 error-short-desc-text = ကျွန်ပ်တို့ဟာ ငြိမ်းချမ်းခြင်းနဲ့ ကောင်းမြတ်ခြင်းနဲ့ သင့်ဆီ လည်ပတ် ရောက်ရှိလာပြီ။
 # Various books by Isaac Asimov. http://en.wikipedia.org/wiki/Three_Laws_of_Robotics
 error-long-desc1 = စက်ရုပ်များက လူသား တဦးကို ထိခိုက်မှာ မဟုတ်ဘူး သို့ လှုပ်ရှားမှုမရှိပဲ၊ လူသား တဦးကို ထိခိုက်စေဖို့ ခွင့်ပြုနိုင်တယ်။
+# Movie: Blade Runner. Batty: "I've seen things you people wouldn’t believe..."
+error-long-desc2 = စက်ရုပ်များသည် အသင် လူသားများ မယုံနိုင်​တဲ့ အရာများကို တွေ့မြင်ခဲ့ပြီ။
+# Book: Hitchhiker’s Guide To The Galaxy. What the Sirius Cybernetics Corporation calls robots.
+error-long-desc3 = စက်ရုပ်များဟာ သင်နဲ့အတူ ရှိနေချင်တဲ့ သင့်ရဲ့ ပလပ်စတစ် ​မိတ်ဆွေ ဖြစ်တယ်။
 # TV: Futurama. Bender's first line is "Bite my shiny metal ass."
 error-long-desc4 = စက်ရုပ်များမှာ ထိခိုက်လို့ မရတဲ့ တောက်ပတဲ့ သတ္တု ကျောဘက်တွေ ရှိတယ်။
 # TV: Battlestar Galactica (2004 series). From the opening text.
