@@ -4,6 +4,7 @@
 
 crashed-restore-tab-button = Restablir aqueste onglet
 crashed-restore-all-button = Restablir totes los onglets plantats
+crashed-request-report-title = Senhalar aqueste onglet
 crashed-comment =
     .placeholder = Comentaris opcionals (los comentaris son visibles publicament)
 crashed-email-placeholder = Picatz vòstra adreça electronica aicí
