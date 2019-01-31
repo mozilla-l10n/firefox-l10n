@@ -8,5 +8,14 @@
 ### They're just meant to be fun and whimsical, with references to some geeky
 ### but well-known robots in movies and books. Be creative with translations!
 
+# Nonsense line from the movie "The Day The Earth Stood Still". No translation needed.
+page-title = গৰ্ট! ক্লাটু বাৰাদা নিকটো!
 # Movie: The Day The Earth Stood Still. Spoken by Klaatu.
 error-short-desc-text = আমি শান্তি আৰু মঙ্গল কামনাৰে আপোনালোকৰ ওচৰত আহিছো!
+# TV: Futurama. Bender's first line is "Bite my shiny metal ass."
+error-long-desc4 = Robot ৰ দেহৰ পিচফালটো উজ্জ্বল যাক কামোৰিব নালাগে।
+# TV: Battlestar Galactica (2004 series). From the opening text.
+error-trailer-desc-text = আৰু তেওঁলোকৰ এটা পৰিকল্পনা আছে।
+# Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
+error-try-again = পুনৰ চেষ্টা কৰক
+    .label2 = অনুগ্ৰহ কৰি এই বুটাম আকৌ নিটিপিব।
