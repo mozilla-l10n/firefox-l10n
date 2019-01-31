@@ -12,6 +12,8 @@
 page-title = Gort! Klaatu barada nikto!
 # Movie: Logan's Run... Box (cyborg): "Welcome Humans! I am ready for you."
 error-title-text = Benvenguts, umans !
+# Movie: The Day The Earth Stood Still. Spoken by Klaatu.
+error-short-desc-text = Vos sèm venguts visitar en patz e amb bona volontat !
 # Various books by Isaac Asimov. http://en.wikipedia.org/wiki/Three_Laws_of_Robotics
 error-long-desc1 = Un robòt pòt pas ferir un èsser uman o, per son inaccion, permetre qu'un èsser uman siá ferit.
 # Movie: Blade Runner. Batty: "I've seen things you people wouldn’t believe..."
