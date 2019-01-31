@@ -16,5 +16,14 @@ error-title-text = Xush kelibsiz, insonlar!
 error-short-desc-text = Biz sizga tinchlik istab keldik!
 # Various books by Isaac Asimov. http://en.wikipedia.org/wiki/Three_Laws_of_Robotics
 error-long-desc1 = Robotlar insonlarga zarar yetkazmasligi kerak yoki inson o‘zi zararlanganda azob bermasligi kerak.
+# Movie: Blade Runner. Batty: "I've seen things you people wouldn’t believe..."
+error-long-desc2 = Insonlar hech qachon ishonmaydigan narsani robotlar ko‘rishdi.
+# Book: Hitchhiker’s Guide To The Galaxy. What the Sirius Cybernetics Corporation calls robots.
+error-long-desc3 = Robotlar  — sizning plastik do‘stlaringiz, ular bilan hech qachon zerikmaysiz.
+# TV: Futurama. Bender's first line is "Bite my shiny metal ass."
+error-long-desc4 = Robotlarning yaltiroq metall bilan qoplangan orqa tarafini tishlab ko‘rmang.
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = Va ularda reja bor.
+# Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
+error-try-again = Yana urinib ko‘rish
+    .label2 = Iltimos, bu tugmani boshqa bosmang.
