@@ -4,6 +4,7 @@
 
 crashed-restore-tab-button = Vrati ovu karticu
 crashed-restore-all-button = Vrati sve prisilno zatvorene kartice
+crashed-offer-help = Možemo pomoći!
 crashed-request-help = Želite li nam pomoći?
 crashed-request-help-message = Izvještaji rušenja nam pomažu da pronađemo probleme i napravimo { -brand-short-name } boljim.
 crashed-request-report-title = Prijavi ovu karticu
