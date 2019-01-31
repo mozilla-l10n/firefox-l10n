@@ -16,6 +16,10 @@ error-title-text = خوش آمدید انسانوں!
 error-short-desc-text = ہم آپ سے امن اور اچھی نیئتوں کے ساتھ ملنے آئے ہیں!
 # Various books by Isaac Asimov. http://en.wikipedia.org/wiki/Three_Laws_of_Robotics
 error-long-desc1 = روبوٹس انسان کو زخمی نہں کر سکتے اور، بذریعہ غیر عملی، انسان کو نقصان نہیں ہونے دے سکتے۔
+# Movie: Blade Runner. Batty: "I've seen things you people wouldn’t believe..."
+error-long-desc2 = روباٹ نے ایسی چیزیں دیکھیں ہیں ج پر آپ کو یقین نہیں آئے گا۔
+# Book: Hitchhiker’s Guide To The Galaxy. What the Sirius Cybernetics Corporation calls robots.
+error-long-desc3 = روبوٹ آپ کی پلاسٹک دوست ہے جن کے ساتھ مزہ کر سکتے ہیں۔
 # TV: Futurama. Bender's first line is "Bite my shiny metal ass."
 error-long-desc4 = روباٹ کی چمکیلی دھات کی پشت ہوتی ہے جسے کاٹا نہیں جانا چاہیے۔
 # TV: Battlestar Galactica (2004 series). From the opening text.
