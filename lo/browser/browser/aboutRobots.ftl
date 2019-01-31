@@ -14,7 +14,13 @@ page-title = Gort! Klaatu barada nikto!
 error-title-text = ຍິນດີຕ້ອນຮັບມະນຸດໂລກ!
 # Movie: The Day The Earth Stood Still. Spoken by Klaatu.
 error-short-desc-text = ພວກເຮົາໄດ້ມາຢ້ຽມຢາມທ່ານດ້ວຍຄວາມສັນຕິພາບ ແລະ ຄວາມປາດຖະໜາດີ.
+# Various books by Isaac Asimov. http://en.wikipedia.org/wiki/Three_Laws_of_Robotics
+error-long-desc1 = ຫຸ່ນຍົນບໍ່ອາດຈະກະທຳຮ້າຍຕໍ່ມະນຸດ, ຢຸດນິ່ງ, ປ່ອຍໃຫ້ມະນຸດຕົກຢູ່ໃນອັນຕະລາຍໄດ້
 # Movie: Blade Runner. Batty: "I've seen things you people wouldn’t believe..."
 error-long-desc2 = ຫຸ່ນຍົນໄດ້ເຫັນສີ່ງທີ່ປະຊາຊົນຂອງທ່ານບໍເຊື່ອ.
+# Book: Hitchhiker’s Guide To The Galaxy. What the Sirius Cybernetics Corporation calls robots.
+error-long-desc3 = ຫຸ່ນຍົນເປັນສະຫາຍພາສຕິກຜູ່ມ່ວນຊື່ນ.
+# TV: Futurama. Bender's first line is "Bite my shiny metal ass."
+error-long-desc4 = ຫຸ່ນຍົນມີກົ້ນທີ່ເຫຼື້ອມແຈ້ງຢ່າໄປລອງກັດຫຼິ້ນລະ.
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = ແລະ ພວກເຂົາມີແຜນການ.
