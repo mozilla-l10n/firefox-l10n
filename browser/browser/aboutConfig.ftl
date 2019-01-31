@@ -2,7 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+about-config-warning-text = 更改進階設定可能會影響本程式的穩定性、安全性及執行效能。在修改前請確定您知道在做什麼，或者確定參考的文件值得信賴。
+about-config-warning-checkbox = 請繼續吵我，謝謝！
+about-config-warning-button = 我發誓，我一定會小心的！
 about-config-title = about:config
+about-config-search =
+    .placeholder = 搜尋或按下 ESC 來顯示全部
 about-config-pref-add = 新增
 about-config-pref-toggle = 切換
 about-config-pref-edit = 編輯

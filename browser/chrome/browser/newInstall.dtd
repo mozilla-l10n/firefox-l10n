@@ -9,5 +9,6 @@
 
 <!ENTITY window.title "重要消息">
 <!ENTITY window.style "width: 490px">
+<!ENTITY sync "若要與這份安裝的 &brandShortName; 同步您已儲存至 Firefox 的資訊，請登入您的 &syncBrand.fxAccount.label;。">
 <!ENTITY continue-button "繼續">
 
