@@ -12,6 +12,10 @@ about-config-search =
     .placeholder = Busque o presione ESC para mostrar todo
 about-config-pref-add = Agregar
 about-config-pref-toggle = Alternar
+about-config-pref-edit = Editar
+about-config-pref-save = Guardar
+about-config-pref-reset = Restablecer
+about-config-pref-delete = Eliminar
 
 ## Preferences with a non-default value are differentiated visually, and at the
 ## same time the state is made accessible to screen readers using an aria-label
@@ -20,3 +24,7 @@ about-config-pref-toggle = Alternar
 ## Variables:
 ##   $value (String): The full value of the preference.
 
+about-config-pref-accessible-value-default =
+    .aria-label = { $value } (predeterminado)
+about-config-pref-accessible-value-custom =
+    .aria-label = { $value } (personalizado)
