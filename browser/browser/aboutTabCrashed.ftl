@@ -10,3 +10,6 @@ crashed-offer-help = మేము సహాయం చెయ్యగలం!
 crashed-single-offer-help-message = పేజీని రీలోడ్ చేయడానికి { crashed-restore-tab-button } ఎంచుకోండి.
 crashed-multiple-offer-help-message = పేజీ/పేజీలను రీలోడ్ చేయడానికి { crashed-restore-tab-button } లేదా { crashed-restore-all-button } ను ఎంచుకోండి.
 crashed-send-report = ఆటోమేటెడ్ క్రాష్ నివేదికను పంపించండి అందువల్ల మేము ఇటువంటి సమస్యలను పరిష్కరించగలము.
+crashed-email-placeholder = మీ ఈమెయిల్ చిరునామాను ఇక్కడ ఇవ్వండి
+crashed-email-me = మరింత సమాచారం అందుబాటులో ఉన్నప్పుడు నాకు ఈమెయిలు చెయ్యండి
+crashed-report-sent = క్రాష్ నివేదిక ఇప్పటికే సమర్పించబడింది; { -brand-short-name }‌ను మెరుగుపరచడానికి తోడ్పడినందుకు కృతజ్ఞతలు!
