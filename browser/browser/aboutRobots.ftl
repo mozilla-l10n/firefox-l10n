@@ -8,6 +8,8 @@
 ### They're just meant to be fun and whimsical, with references to some geeky
 ### but well-known robots in movies and books. Be creative with translations!
 
+# Nonsense line from the movie "The Day The Earth Stood Still". No translation needed.
+page-title = กอร์ท! คลาตู บาราดา นิคโต!
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = และพวกเขาก็มีแผนการ
 # Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
