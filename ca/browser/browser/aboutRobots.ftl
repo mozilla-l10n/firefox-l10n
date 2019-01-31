@@ -20,3 +20,6 @@ error-long-desc1 = Un robot no pot fer mal a un ésser humà o, per inacció, pe
 error-long-desc4 = Els robots tenen darreres de metall lluent que no han de mossegar-se.
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = I tenen un pla.
+# Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
+error-try-again = Torna-ho a provar
+    .label2 = No torneu a prémer aquest botó.
