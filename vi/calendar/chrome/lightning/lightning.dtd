@@ -42,6 +42,7 @@
      These strings are used in the calendar wizard and the calendar properties dialog, but are only
      displayed when setting/using a caldav calendar -->
 <!ENTITY lightning.calendarproperties.email.label                           "Email:">
+<!ENTITY lightning.calendarproperties.forceEmailScheduling.label            "Ưu tiên lập lịch email phía khách hàng">
 <!-- LOCALIZATON NOTE(lightning.calendarproperties.forceEmailScheduling.tooltiptext1,
      lightning.calendarproperties.forceEmailScheduling.tooltiptext2)
      - tooltiptext1 is used in the calendar wizard when setting a new caldav calendar
@@ -84,6 +85,7 @@
 
 <!ENTITY lightning.imipbar.btnSend.label                                    "Gửi phản hồi ngay">
 <!ENTITY lightning.imipbar.btnSend.tooltiptext                              "Gửi phản hồi cho người tổ chức">
+<!ENTITY lightning.imipbar.btnSendSeries.tooltiptext                        "Gửi phản hồi cho toàn bộ chuỗi sự kiện đến nhà tổ chức">
 <!ENTITY lightning.imipbar.btnDontSend.label                                "Không gửi phản hồi">
 <!ENTITY lightning.imipbar.btnDontSend.tooltiptext                          "Thay đổi trạng thái tham gia của bạn mà không gửi phản hồi cho người tổ chức">
 <!ENTITY lightning.imipbar.btnDontSendSeries.tooltiptext                    "Thay đổi trạng thái tham gia của bạn cho chuỗi mà không gửi phản hồi cho người tổ chức">

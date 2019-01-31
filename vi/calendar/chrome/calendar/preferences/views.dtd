@@ -37,5 +37,5 @@
 <!ENTITY pref.numberofweeks.4 "4 tuần">
 <!ENTITY pref.numberofweeks.5 "5 tuần">
 <!ENTITY pref.numberofweeks.6 "6 tuần">
-<!ENTITY pref.showlocation.label "Hiển thị vị trí">
+<!ENTITY pref.showlocation.label "Hiển thị địa chỉ">
 <!ENTITY pref.showlocation.accesskey "L">

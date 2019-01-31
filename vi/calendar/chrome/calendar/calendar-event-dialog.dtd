@@ -7,7 +7,6 @@
 
 <!ENTITY newevent.from.label                "Từ" >
 <!ENTITY newevent.to.label                  "Tới" >
-<!ENTITY newevent.attendees.notify.label    "Thông báo khách tham dự">
 
 <!ENTITY newevent.status.label                    "Trạng thái" >
 <!ENTITY newevent.status.accesskey                "r" >
@@ -27,6 +26,11 @@
 
 <!-- The following entity is for New Task dialog only -->
 <!ENTITY newtodo.percentcomplete.label      "&#37; hoàn tất">
+
+<!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label,
+     event.attendees.disallowcounter.label)
+   - These three labels are displayed side by side in the event dialog, make sure
+   - they still fit in. -->
 
 <!-- Keyboard Shortcuts -->
 <!ENTITY event.dialog.new.event.key2              "I">
@@ -56,10 +60,23 @@
 <!ENTITY  event.menu.item.new.contact.accesskey           "a">
 <!ENTITY  event.menu.item.close.label                     "Đóng">
 <!ENTITY  event.menu.item.close.accesskey                 "g">
+
+<!-- LOCALIZATION NOTE
+   - event.menu.item.save.accesskey is used for the "Save" menu item
+   - when editing events/tasks in a dialog window.
+   - event.menu.item.save.tab.accesskey is used for the "Save" menu item
+   - when editing events/tasks in a tab. -->
 <!ENTITY  event.menu.item.save.label                      "Lưu">
 <!ENTITY  event.menu.item.save.accesskey                  "L">
+
+<!-- LOCALIZATION NOTE
+    - event.menu.item.saveandclose.accesskey is used for "Save and Close"
+    - menu item when editing events/tasks in a dialog window.
+    - event.menu.item.saveandclose.tab.accesskey is used for "Save and Close"
+    - when editing events/tasks in a tab. -->
 <!ENTITY  event.menu.item.saveandclose.label              "Lưu và Đóng">
 <!ENTITY  event.menu.item.saveandclose.accesskey          "v">
+
 <!ENTITY  event.menu.item.delete.label                    "Xóa…">
 <!ENTITY  event.menu.item.delete.accesskey                "X">
 <!ENTITY  event.menu.item.page.setup.label                "Thiết lập Trang">
@@ -95,18 +112,8 @@
 
 <!ENTITY  event.menu.options.label                            "Tùy chọn">
 <!ENTITY  event.menu.options.accesskey                        "y">
-<!ENTITY  event.menu.options.attachments.label                "Đính kèm Trang web…">
-<!ENTITY  event.menu.options.attachments.accesskey            "w">
 <!ENTITY  event.menu.options.attendees.label                  "Mời khách Tham dự…">
 <!ENTITY  event.menu.options.attendees.accesskey              "M">
-<!ENTITY  event.menu.options.spellcheck.label                 "Kiểm tra Chính tả…">
-<!ENTITY  event.menu.options.spellcheck.accesskey             "a">
-<!ENTITY  event.menu.options.inline.spellcheck.label          "Kiểm tra Chính tả Khi gõ">
-<!ENTITY  event.menu.options.inline.spellcheck.accesskey      "K">
-<!ENTITY  event.menu.options.link.label                       "Thêm Liên Kết…">
-<!ENTITY  event.menu.options.link.accesskey                   "L">
-<!ENTITY  event.menu.options.timezone.label                   "Múi giờ">
-<!ENTITY  event.menu.options.timezone.accesskey               "g">
 <!ENTITY  event.menu.options.priority2.label                  "Ưu tiên">
 <!ENTITY  event.menu.options.priority2.accesskey              "u">
 <!ENTITY  event.menu.options.priority.notspecified.label      "Không xác định">
@@ -140,24 +147,30 @@
 <!ENTITY event.email.tentative.attendees.accesskey        "u">
 
 <!-- Toolbar -->
-<!ENTITY  event.toolbar.save.label                        "Lưu và Đóng">
 <!ENTITY  event.toolbar.delete.label                      "Xóa">
 <!ENTITY  event.toolbar.attendees.label                   "Mời khách Tham dự">
-<!ENTITY  event.toolbar.spellcheck.label                  "Kiểm tra Chính tả">
 <!ENTITY  event.toolbar.privacy.label                     "Riêng tư">
-<!ENTITY  event.toolbar.attachments.label                 "Đính kèm">
+
+
+<!-- Counter box -->
+<!-- LOCALIZATON NOTE(counter.button.*)
+   - This is only visible in the UI if you have received a counterproposal before and are going to
+   - reschedule the event from the imipbar in the email view. Clicking on the buttons will only
+   - populate the form fields in the dialog, there's no other immediate action on clicking like with
+   - the imip bar. Rescheduling will happen after clicking on save&close as usual. This screenshot
+   - illustrates how it might look like: https://bugzilla.mozilla.org/attachment.cgi?id=8810121 -->
 
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Tiêu đề:" >
 <!ENTITY event.title.textbox.accesskey                    "u">
-<!ENTITY event.location.label                             "Địa điểm:" >
-<!ENTITY event.location.accesskey                         "a">
+<!ENTITY event.location.label                             "Địa chỉ:" >
+<!ENTITY event.location.accesskey                         "L">
 <!ENTITY event.categories.label                           "Phân mục:">
 <!ENTITY event.categories.accesskey                       "n">
 <!ENTITY event.calendar.label                             "Lịch:" >
 <!ENTITY event.calendar.accesskey                         "L">
 <!ENTITY event.attendees.label                            "Khách tham dự:" >
-<!ENTITY event.attendees.accesskey                        "a" >
+<!ENTITY event.attendees.accesskey                        "a">
 <!ENTITY event.alldayevent.label                          "Sự kiện Cả ngày" >
 <!ENTITY event.alldayevent.accesskey                      "S">
 <!ENTITY event.from.label                                 "Bắt đầu:" >
@@ -203,6 +216,7 @@
 <!ENTITY event.reminder.custom.label                      "Tùy biến…" >
 
 <!ENTITY event.reminder.multiple.label                    "Nhiều lời Nhắc việc…" >
+
 
 <!-- Recurrence dialog -->
 <!ENTITY recurrence.title.label                         "Chỉnh sửa Việc tái diễn">
@@ -314,11 +328,7 @@
 <!ENTITY invite.title.label                     "Mời khách Tham dự">
 <!ENTITY event.organizer.label                  "Người tổ chức">
 <!ENTITY event.freebusy.suggest.slot            "Đề xuất khung thời gian:">
-<!ENTITY event.freebusy.next.slot               "Khung kế " >
-<!ENTITY event.freebusy.previous.slot           " Khung trước" >
 <!ENTITY event.freebusy.zoom                    "Thu phóng:">
-<!ENTITY event.freebusy.plus                    "Giờ kế" >
-<!ENTITY event.freebusy.minus                   "Giờ trước" >
 <!ENTITY event.freebusy.legend.free             "Rảnh" >
 <!ENTITY event.freebusy.legend.busy             "Bận" >
 <!ENTITY event.freebusy.legend.busy_tentative   "Phân vân" >
@@ -336,16 +346,12 @@
 <!ENTITY read.only.general.label         "Tổng quát">
 <!ENTITY read.only.title.label           "Tiêu đề:">
 <!ENTITY read.only.repeat.label          "Lặp lại:">
-<!ENTITY read.only.location.label        "Địa điểm:">
+<!ENTITY read.only.location.label        "Địa chỉ:">
 <!ENTITY read.only.category.label        "Phân mục:">
 <!ENTITY read.only.organizer.label       "Người tổ chức:">
-<!ENTITY read.only.reply.label           "Trả lời:">
-<!ENTITY read.only.accept.label          "Tôi sẽ tham dự">
-<!ENTITY read.only.decline.label         "Tôi sẽ không tham dự">
-<!ENTITY read.only.tentative.label       "Có thể tôi sẽ tham dự">
-<!ENTITY read.only.needs.action.label    "Tôi sẽ xác nhận sau">
 <!ENTITY read.only.reminder.label        "Nhắc việc:">
 <!ENTITY read.only.attendees.label       "Khách tham dự">
 <!ENTITY read.only.description.label     "Mô tả">
-<!ENTITY read.only.documents.label       "Tài liệu">
 <!ENTITY read.only.link.label            "Liên kết Liên quan">
+
+<!-- Summary dialog -->
