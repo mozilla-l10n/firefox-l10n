@@ -16,6 +16,10 @@ error-title-text = Croeso Ddynionach!
 error-short-desc-text = Rydym wedi dod i'ch cyfarfod mewn heddwch ac ewyllys da!
 # Various books by Isaac Asimov. http://en.wikipedia.org/wiki/Three_Laws_of_Robotics
 error-long-desc1 = Nid yw robotiaid yn cael anafu dynion neu drwy ddiffyg gweithredu gadel iddynt gael eu niweidio.
+# Movie: Blade Runner. Batty: "I've seen things you people wouldn’t believe..."
+error-long-desc2 = Mae robotiaid wedi gweld pethau fyddwch chi ddim yn ei gredu.
+# Book: Hitchhiker’s Guide To The Galaxy. What the Sirius Cybernetics Corporation calls robots.
+error-long-desc3 = Robot yw dy Ffrind Plastig sy'n Hwyl a Sbort.
 # TV: Futurama. Bender's first line is "Bite my shiny metal ass."
 error-long-desc4 = Mae gan robotiaid rhan ôl metel disglair na ddylid ei gnoi.
 # TV: Battlestar Galactica (2004 series). From the opening text.
