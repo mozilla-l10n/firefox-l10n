@@ -4,3 +4,4 @@
 
 crashed-restore-tab-button = Pulihkan Tab Ini
 crashed-restore-all-button = Pulihkan Semua Tab Mogok
+crashed-report-sent = Laporan mogok sudah dikirimkan, terima kasih telah membantu menyempurnakan { -brand-short-name }!
