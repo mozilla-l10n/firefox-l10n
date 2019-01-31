@@ -88,6 +88,15 @@ detail-update-automatic =
 detail-update-manual =
     .label = Ki
     .tooltiptext = Ne legyenek automatikus frissítések
+# Used as a description for the option to allow or block an add-on in private windows.
+detail-private-browsing-label = Futtatás privát ablakokban
+detail-private-browsing-description = A kiegészítő privát ablakokban is fog működni, és hozzáfér az online tevékenységéhez. <label data-l10n-name="detail-private-browsing-learn-more">További tudnivalók</label>
+detail-private-browsing-on =
+    .label = Engedélyezés
+    .tooltiptext = Engedélyezés privát böngészésben
+detail-private-browsing-off =
+    .label = Tiltás
+    .tooltiptext = Tiltás privát böngészésben
 detail-home =
     .label = Honlap
 detail-home-value =
@@ -210,8 +219,6 @@ extensions-updates-update-selected =
 
 ## Extension shortcut management
 
-shortcuts-manage =
-    .label = Gyorsbillentyűk
 manage-extensions-shortcuts =
     .label = Kiegészítő-gyorsbillentyűk kezelése
     .accesskey = o
@@ -227,5 +234,11 @@ shortcuts-modifier-other = Ctrl vagy Alt gombot tartalmaz
 shortcuts-invalid = Érvénytelen kombináció
 shortcuts-letter = Írjon be egy betűt
 shortcuts-system = Nem írhat felül egy { -brand-short-name } gyorsbillentyűt
+shortcuts-card-expand-button =
+    { $numberToShow ->
+        [one] Még { $numberToShow } megjelenítése
+       *[other] Még { $numberToShow } megjelenítése
+    }
+shortcuts-card-collapse-button = Kevesebb megjelenítése
 go-back-button =
     .tooltiptext = Ugrás vissza
