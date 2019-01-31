@@ -1129,6 +1129,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addonPostInstallMessage.label "請點擊 <image class='addon-toolbar-icon'/> 選單中的 <image class='addon-addon-icon'/> 來管理附加元件。">
 
 <!ENTITY addonPrivateBrowsing.header.label "隱私視窗中的擴充套件">
+<!ENTITY addonPrivateBrowsing.body.label "預設情況下，擴充套件將無法在隱私瀏覽視窗中運作。這代表將無法於隱私瀏覽模式使用它們，它們也無法存取您的上網行為。您可以調整設定，允許個別擴充套件於隱私視窗中運作。">
 <!ENTITY addonPrivateBrowsing.okButton.label "好的，知道了">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "O">
 <!ENTITY addonPrivateBrowsing.manageButton.label "管理擴充套件">
