@@ -212,8 +212,6 @@ extensions-updates-update-selected =
 
 ## Extension shortcut management
 
-shortcuts-manage =
-    .label = Raccourcis clavier
 shortcuts-empty-message = Il n’y a pas de raccourci pour cette extension.
 shortcuts-no-addons = Aucune extension n’est activée.
 shortcuts-input =
@@ -224,3 +222,6 @@ shortcuts-sidebarAction = Afficher/Masquer le panneau latéral
 shortcuts-modifier-mac = Inclure Ctrl, Alt ou ⌘
 shortcuts-modifier-other = Inclure Ctrl ou Alt
 shortcuts-invalid = Combinaison invalide
+shortcuts-letter = Saisissez une lettre
+go-back-button =
+    .tooltiptext = Retour
