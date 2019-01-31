@@ -16,6 +16,10 @@ error-title-text = Karibu Wanadamu!
 error-short-desc-text = Tumekuja kukutembelea kwa amani na kwa moyo msafi!
 # Various books by Isaac Asimov. http://en.wikipedia.org/wiki/Three_Laws_of_Robotics
 error-long-desc1 = Roboti haiwezi kumuumiza mwanadamu, hata bila kutofanya chochote, kumruhusu mwanadamu aumie.
+# Movie: Blade Runner. Batty: "I've seen things you people wouldn’t believe..."
+error-long-desc2 = Roboti zimeona mambo ambayo nyinyi wanadamu hamuwezi kuamini.
+# Book: Hitchhiker’s Guide To The Galaxy. What the Sirius Cybernetics Corporation calls robots.
+error-long-desc3 = Roboti ni Pali Yako ya Sandarusi Ambao ni Furaha Kuwa Nao.
 # TV: Futurama. Bender's first line is "Bite my shiny metal ass."
 error-long-desc4 = Roboti wana miondoko ya mabati yanayong'ara ambayo haifai kuharibiwa.
 # TV: Battlestar Galactica (2004 series). From the opening text.
