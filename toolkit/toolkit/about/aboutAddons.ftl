@@ -127,8 +127,7 @@ detail-update-manual =
     .tooltiptext = Updates niet automatisch installeren
 
 # Used as a description for the option to allow or block an add-on in private windows.
-detail-private-browsing =
-    .value = Uitvoeren in privévensters
+detail-private-browsing-label = Uitvoeren in privévensters
 
 detail-private-browsing-description = Extensies zullen in privévensters werken en toegang hebben tot uw online-activiteiten. <label data-l10n-name="detail-private-browsing-learn-more">Meer info</label>
 
@@ -315,6 +314,13 @@ shortcuts-modifier-other = Druk ook op Ctrl of Alt
 shortcuts-invalid = Ongeldige combinatie
 shortcuts-letter = Typ een letter
 shortcuts-system = Kan geen bestaande { -brand-short-name }-sneltoets gebruiken
+
+shortcuts-card-expand-button =
+    { $numberToShow ->
+        *[other] Nog { $numberToShow } tonen
+    }
+
+shortcuts-card-collapse-button = Minder tonen
 
 go-back-button =
     .tooltiptext = Teruggaan
