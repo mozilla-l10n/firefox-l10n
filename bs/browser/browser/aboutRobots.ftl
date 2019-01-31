@@ -20,3 +20,6 @@ error-long-desc1 = Roboti ne mogu ozlijediti ljudsko biće ili, zbog neaktivnost
 error-long-desc4 = Roboti imaju sjajne metalne dijelove koji ne bi trebali biti nagriženi.
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = I oni imaju plan.
+# Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
+error-try-again = Pokušaj ponovo
+    .label2 = Molimo da ne pritišćete ovo dugme ponovo.
