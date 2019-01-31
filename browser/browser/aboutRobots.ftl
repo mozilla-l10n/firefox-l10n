@@ -16,6 +16,10 @@ error-title-text = স্বাগতম মনুষ্যসকল!
 error-short-desc-text = আমি শান্তি আৰু মঙ্গল কামনাৰে আপোনালোকৰ ওচৰত আহিছো!
 # Various books by Isaac Asimov. http://en.wikipedia.org/wiki/Three_Laws_of_Robotics
 error-long-desc1 = Robot এ মনুষ্যক আঘাত নকৰে বা, এলাহতে, কোনো মনুষ্যৰ হানি নকৰে।
+# Movie: Blade Runner. Batty: "I've seen things you people wouldn’t believe..."
+error-long-desc2 = মানুহে বিশ্বাস নকৰা বস্তুও Robot এ দেখিছে।
+# Book: Hitchhiker’s Guide To The Galaxy. What the Sirius Cybernetics Corporation calls robots.
+error-long-desc3 = Robot আপোনাৰ প্লাস্টিক বন্ধু যাৰ লগত আমোদ প্ৰমোদ কৰিব পাৰি।
 # TV: Futurama. Bender's first line is "Bite my shiny metal ass."
 error-long-desc4 = Robot ৰ দেহৰ পিচফালটো উজ্জ্বল যাক কামোৰিব নালাগে।
 # TV: Battlestar Galactica (2004 series). From the opening text.
