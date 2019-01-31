@@ -39,3 +39,5 @@ policy-Proxy = กำหนดค่าการตั้งค่าพร็�
 policy-SanitizeOnShutdown = ล้างข้อมูลการนำทางทั้งหมดเมื่อปิดเครื่อง
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = ติดตั้งโมดูล PKCS #11
+policy-SSLVersionMax = ตั้งรุ่น SSL สูงสุด
+policy-SSLVersionMin = ตั้งรุ่น SSL ต่ำสุด
