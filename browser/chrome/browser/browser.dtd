@@ -1129,6 +1129,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addonPostInstallMessage.label "Kezelje kiegészítőit a <image class='addon-addon-icon'/> ikonra kattintva a <image class='addon-toolbar-icon'/> menüben.">
 
 <!ENTITY addonPrivateBrowsing.header.label "Kiegészítők privát ablakokban">
+<!ENTITY addonPrivateBrowsing.body.label "A kiegészítők alapértelmezés szerint nem futhatnak privát ablakokban. Privát böngészés közben nem fognak működni, és nem férnek hozzá az online tevékenységéhez. A beállítások kezelésével a kiegészítők futtatását egyenként engedélyezheti.">
 <!ENTITY addonPrivateBrowsing.okButton.label "Rendben, értem">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "R">
 <!ENTITY addonPrivateBrowsing.manageButton.label "Kiegészítők kezelése">

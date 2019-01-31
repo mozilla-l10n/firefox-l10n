@@ -17,6 +17,7 @@ policy-BlockAboutConfig = Hozzáférés blokkolása az about:config oldalhoz.
 policy-BlockAboutProfiles = Hozzáférés blokkolása az about:profiles oldalhoz.
 policy-BlockAboutSupport = Hozzáférés blokkolása az about:support oldalhoz.
 policy-Bookmarks = Könyvjelzők létrehozása a Könyvjelzők eszköztáron, a Könyvjelző menüben vagy az abban megadott mappában.
+policy-CaptivePortal = Beléptető oldal támogatás engedélyezése vagy letiltása.
 policy-CertificatesDescription = Tanúsítványok hozzáadása vagy beépített tanúsítványok használata.
 policy-Cookies = A weboldalak süti elhelyezésének engedélyezése vagy letiltása.
 policy-DisableAppUpdate = A böngésző frissítésének megakadályozása.
