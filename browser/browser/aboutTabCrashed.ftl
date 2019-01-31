@@ -5,10 +5,12 @@
 crashed-close-tab-button = Tutup Tab
 crashed-restore-tab-button = Pulihkan Tab Ini
 crashed-restore-all-button = Pulihkan Semua Tab Mogok
+crashed-header = Aduh. Tab Anda baru saja mogok.
 crashed-offer-help = Kami dapat membantu!
 crashed-single-offer-help-message = Pilih { crashed-restore-tab-button } untuk memuat ulang laman.
 crashed-multiple-offer-help-message = Pilih { crashed-restore-tab-button } atau { crashed-restore-all-button } untuk memuat ulang laman.
 crashed-request-help = Maukah Anda membantu kami?
+crashed-request-help-message = Laporan kerusakan membantu kami mendiagnosis masalah dan membuat { -brand-short-name } lebih baik.
 crashed-request-report-title = Laporkan tab ini
 crashed-send-report = Kirim laporan kerusakan otomatis agar kami dapat memperbaiki masalah seperti ini.
 crashed-comment =
