@@ -210,8 +210,6 @@ extensions-updates-update-selected =
 
 ## Extension shortcut management
 
-shortcuts-manage =
-    .label = Tangentbordsgenvägar
 manage-extensions-shortcuts =
     .label = Hantera genvägar för tillägg
     .accesskey = g
@@ -227,5 +225,6 @@ shortcuts-modifier-other = Inkludera Ctrl eller Alt
 shortcuts-invalid = Ogiltig kombination
 shortcuts-letter = Skriv en bokstav
 shortcuts-system = Kan inte skriva över en { -brand-short-name } genväg
+shortcuts-card-collapse-button = Visa mindre
 go-back-button =
     .tooltiptext = Gå tillbaka
