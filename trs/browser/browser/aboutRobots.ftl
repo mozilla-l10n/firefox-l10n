@@ -24,3 +24,6 @@ error-long-desc3 = Sa nikaj dugui' ngàt huin nej robôt nakaj a ni nihià' ruhu
 error-long-desc4 = Se sa yatañû' huin dakan siu nej robôt.
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = Ni hua sa anïn ruhuâ ni
+# Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
+error-try-again = A'ngô ñû
+    .label2 = Gi'iaj 'ngo sunuj, ni si guru'man ra'a ñûnt.
