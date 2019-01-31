@@ -10,6 +10,8 @@
 
 # Nonsense line from the movie "The Day The Earth Stood Still". No translation needed.
 page-title = Gort! Klaatu barada nikto!
+# Movie: Logan's Run... Box (cyborg): "Welcome Humans! I am ready for you."
+error-title-text = Benvenguts, umans !
 # Various books by Isaac Asimov. http://en.wikipedia.org/wiki/Three_Laws_of_Robotics
 error-long-desc1 = Un robòt pòt pas ferir un èsser uman o, per son inaccion, permetre qu'un èsser uman siá ferit.
 # TV: Futurama. Bender's first line is "Bite my shiny metal ass."
