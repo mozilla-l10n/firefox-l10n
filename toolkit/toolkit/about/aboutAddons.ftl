@@ -90,6 +90,14 @@ detail-update-automatic =
 detail-update-manual =
     .label = Desligadas
     .tooltiptext = Não instalar atualizações automaticamente
+# Used as a description for the option to allow or block an add-on in private windows.
+detail-private-browsing-label = Executar em janelas privadas
+detail-private-browsing-on =
+    .label = Permitir
+    .tooltiptext = Ativar em navegação privada
+detail-private-browsing-off =
+    .label = Não permitir
+    .tooltiptext = Desativar em navegação privada
 detail-home =
     .label = Página inicial
 detail-home-value =
@@ -212,8 +220,6 @@ extensions-updates-update-selected =
 
 ## Extension shortcut management
 
-shortcuts-manage =
-    .label = Atalhos de teclado
 manage-extensions-shortcuts =
     .label = Gira atalhos de extensões
     .accesskey = s
@@ -229,5 +235,6 @@ shortcuts-modifier-other = Incluir Ctrl ou Alt
 shortcuts-invalid = Combinação inválida
 shortcuts-letter = Escrever uma letra
 shortcuts-system = Não é possível sobrepor um atalho do { -brand-short-name }
+shortcuts-card-collapse-button = Mostrar menos
 go-back-button =
     .tooltiptext = Retroceder
