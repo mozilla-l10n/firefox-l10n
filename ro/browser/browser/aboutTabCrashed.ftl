@@ -2,7 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+crashed-close-tab-button = Închide fila
 crashed-header = Of. Fila tocmai s-a închis neașteptat.
+crashed-offer-help = Te putem ajuta!
 crashed-request-help = Poți să ne ajuți?
 crashed-request-help-message = Rapoartele de defecțiuni ne ajută să diagnosticăm problemele și să îmbunătățim { -brand-short-name }.
 crashed-request-report-title = Raportează această filă
