@@ -9,7 +9,7 @@
 ### but well-known robots in movies and books. Be creative with translations!
 
 # Nonsense line from the movie "The Day The Earth Stood Still". No translation needed.
-page-title = Gort! Klaatu barada nikto!{ " " }
+page-title = Gort! Klaatu barada nikto!
 # Movie: Logan's Run... Box (cyborg): "Welcome Humans! I am ready for you."
 error-title-text = Ansuf yis-wen ay imdanen!
 # Movie: The Day The Earth Stood Still. Spoken by Klaatu.
