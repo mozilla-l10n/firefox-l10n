@@ -88,6 +88,15 @@ detail-update-automatic =
 detail-update-manual =
     .label = 关
     .tooltiptext = 不要自动安装更新
+# Used as a description for the option to allow or block an add-on in private windows.
+detail-private-browsing-label = 在隐私窗口中运行
+detail-private-browsing-description = 扩展将在隐私窗口中运行，并可访问您的在线活动。<label data-l10n-name="detail-private-browsing-learn-more">详细了解</label>
+detail-private-browsing-on =
+    .label = 允许
+    .tooltiptext = 在隐私浏览中启用
+detail-private-browsing-off =
+    .label = 不允许
+    .tooltiptext = 在隐私浏览中禁用
 detail-home =
     .label = 主页
 detail-home-value =
@@ -130,6 +139,7 @@ legacy-warning-show-legacy = 显示旧式扩展
 legacy-extensions =
     .value = 旧式扩展
 legacy-extensions-description = 这些扩展不符合现今的 { -brand-short-name } 标准，因此已被停用。 <label data-l10n-name="legacy-learn-more">了解附加组件的变化</label>
+private-browsing-description = 默认情况下，扩展不允许在隐私窗口中运行。这意味着您无法在隐私浏览中使用它们，而它们也无法获知您的在线活动。若要允许扩展在隐私窗口中运行，请选择下方的扩展卡片，并调整相应设置。<label data-l10n-name="private-browsing-learn-more">详细了解。</label>
 extensions-view-discover =
     .name = 获取附加组件
     .tooltiptext = { extensions-view-discover.name }
@@ -225,6 +235,10 @@ shortcuts-modifier-other = 包括 Ctrl 或 Alt
 shortcuts-invalid = 组合无效
 shortcuts-letter = 输入一个字母
 shortcuts-system = 不可覆盖 { -brand-short-name } 的快捷键
+shortcuts-card-expand-button =
+    { $numberToShow ->
+       *[other] 显示另外 { $numberToShow } 个
+    }
 shortcuts-card-collapse-button = 显示更少
 go-back-button =
     .tooltiptext = 返回

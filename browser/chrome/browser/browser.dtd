@@ -1128,6 +1128,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "点击 <image class='addon-toolbar-icon'/> 菜单中的 <image class='addon-addon-icon'/> 来管理您的附加组件。">
 
+<!ENTITY addonPrivateBrowsing.header.label "隐私窗口中的扩展">
+<!ENTITY addonPrivateBrowsing.body.label "默认情况下，扩展不允许在隐私窗口中运行。这意味着您无法在隐私浏览中使用它们，而它们也无法获知您的在线活动。您可以调整此设置，允许个别扩展在隐私窗口中运行。">
+<!ENTITY addonPrivateBrowsing.okButton.label "好的，明白了">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "O">
 <!ENTITY addonPrivateBrowsing.manageButton.label "管理扩展">
 <!ENTITY addonPrivateBrowsing.manageButton.accesskey "M">
