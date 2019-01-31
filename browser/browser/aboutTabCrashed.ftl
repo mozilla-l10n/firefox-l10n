@@ -3,9 +3,11 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 crashed-title = Kraschrapportör för flikar
+crashed-close-tab-button = Stäng flik
 crashed-restore-tab-button = Återställ denna flik
 crashed-restore-all-button = Återställ alla kraschade flikar
 crashed-header = Arghh. Din flik kraschade precis.
+crashed-offer-help = Vi kan hjälpa till!
 crashed-single-offer-help-message = Välj { crashed-restore-tab-button } för att ladda om sidan.
 crashed-multiple-offer-help-message = Välj { crashed-restore-tab-button } eller { crashed-restore-all-button } för att ladda om sidan/sidorna.
 crashed-request-help = Vill du hjälpa oss?
