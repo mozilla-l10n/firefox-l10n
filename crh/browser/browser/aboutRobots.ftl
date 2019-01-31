@@ -24,3 +24,6 @@ error-long-desc3 = Robotlar Beraber Olmanıñ Eglenceli Olğanı Plastik Arqada�
 error-long-desc4 = Robotlarnıñ tişlenmeyüvi kerekken parlaq metal qıçları bardır.
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = Ve olarnıñ bir planı bar.
+# Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
+error-try-again = Yañıdan Deñe
+    .label2 = Lütfen bir daa bu dögmege basmañız.
