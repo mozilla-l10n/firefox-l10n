@@ -242,6 +242,11 @@ shortcuts-modifier-other = Incluir Ctrl ou Alt
 shortcuts-invalid = Combinação inválida
 shortcuts-letter = Escrever uma letra
 shortcuts-system = Não é possível sobrepor um atalho do { -brand-short-name }
+shortcuts-card-expand-button =
+    { $numberToShow ->
+        [one] Mostrar mais { $numberToShow }
+       *[other] Mostrar mais { $numberToShow }
+    }
 shortcuts-card-collapse-button = Mostrar menos
 go-back-button =
     .tooltiptext = Retroceder
