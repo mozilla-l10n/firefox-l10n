@@ -4,3 +4,6 @@
 
 crashed-restore-tab-button = Restaurar esta pestaña
 crashed-restore-all-button = Restaurar todas las pestañas caídas
+crashed-email-placeholder = Ingresa tu email aquí
+crashed-email-me = Enviarme un email cuando haya más información disponible
+crashed-report-sent = Informe de fallos enviado. ¡Gracias por ayudarnos a mejorar { -brand-short-name }!
