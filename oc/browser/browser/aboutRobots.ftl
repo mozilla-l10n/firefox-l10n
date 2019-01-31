@@ -22,3 +22,6 @@ error-long-desc3 = Los robòts son vòstres amics de plastic amb los quals es ri
 error-long-desc4 = Los robòts an de tafanaris de metal brilhant que devon pas èsser morduts.
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = E an un plan.
+# Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
+error-try-again = Tornar ensajar
+    .label2 = Quichetz pas sus aqueste boton tornarmai.
