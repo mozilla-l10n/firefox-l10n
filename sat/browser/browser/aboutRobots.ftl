@@ -21,7 +21,7 @@ error-long-desc2 = रोबोटस जिनिस को ञेला आप
 # Book: Hitchhiker’s Guide To The Galaxy. What the Sirius Cybernetics Corporation calls robots.
 error-long-desc3 = रोबोट दो आमिच् प्लासटिक गाते काना ओकोयाक् सांव रा़स्का आ .
 # TV: Futurama. Bender's first line is "Bite my shiny metal ass."
-error-long-desc4 = रोबोटस दो नाली मेड़हेद तायोम सेदाक् काना ओका दाल बाङ ला़कती या.{ " " }
+error-long-desc4 = रोबोटस दो नाली मेड़हेद तायोम सेदाक् काना ओका दाल बाङ ला़कती या.
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = आर उनाकुवाक् मित् उयहा़र हुदिस मेनाके आ .
 # Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
