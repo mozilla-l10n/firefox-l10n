@@ -18,3 +18,6 @@ error-long-desc1 = Vélmenni mega ekki meiða mann eða með aðgerðaleysi leyf
 error-long-desc4 = Vélmenni hafa glansandi rass sem ekki ætti að bíta í.
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = Og þeir eru með áætlun.
+# Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
+error-try-again = Reyna aftur
+    .label2 = Vinsamlega ekki ýta aftur á þennan takka.
