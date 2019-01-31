@@ -279,6 +279,7 @@ update-application-check-choose =
 update-application-manual =
     .label = Ne jamais vérifier les mises à jour (déconseillé)
     .accesskey = N
+update-application-warning-cross-user-setting = Ce paramètre s’appliquera à tous les comptes Windows et profils { -brand-short-name } utilisant cette installation de { -brand-short-name }.
 update-application-use-service =
     .label = Utiliser un service en arrière-plan pour installer les mises à jour
     .accesskey = s
