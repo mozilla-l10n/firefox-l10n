@@ -16,6 +16,7 @@ crashed-request-report-title = Relatar esta aba
 crashed-send-report = Enviar um relatório automatizado de travamento para que possamos corrigir problemas como este.
 crashed-comment =
     .placeholder = Comentários opcionais (comentários são visíveis publicamente)
+crashed-include-URL = Incluir as URLs dos sites em que você estava quando { -brand-short-name } travou.
 crashed-email-placeholder = Digite aqui seu endereço de e-mail
 crashed-email-me = Enviar um e-mail quando mais informações estiverem disponíveis
 crashed-report-sent = Relatório do travamento enviado; obrigado por ajudar a fazer o { -brand-short-name } melhor!
