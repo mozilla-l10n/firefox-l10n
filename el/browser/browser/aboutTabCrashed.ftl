@@ -6,6 +6,7 @@ crashed-title = Αναφορά κατάρρευσης καρτελών
 crashed-restore-tab-button = Επαναφορά καρτέλας
 crashed-restore-all-button = Επαναφορά όλων των καρτελών που κατέρρευσαν
 crashed-header = Ωχ. Η καρτέλα σας μόλις κατέρρευσε.
+crashed-offer-help = Μπορούμε να βοηθήσουμε!
 crashed-single-offer-help-message = Επιλέξτε { crashed-restore-tab-button } για εκ νέου φόρτωση της σελίδας.
 crashed-request-help = Θα μάς βοηθήσετε;
 crashed-request-help-message = Οι αναφορές κατάρρευσης μάς βοηθούν στη διάγνωση προβλημάτων και στη βελτίωση του { -brand-short-name }.
