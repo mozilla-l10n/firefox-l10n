@@ -16,6 +16,10 @@ error-title-text = İnsanlar, xoş gəlmişsiniz!
 error-short-desc-text = Sülh içində və xoş niyyətlə sizi görməyə gəlmişik!
 # Various books by Isaac Asimov. http://en.wikipedia.org/wiki/Three_Laws_of_Robotics
 error-long-desc1 = Robotlar insanlara zərər verə bilməz və ya passiv qalaraq insanların zərər görməyinə icazə verməz.
+# Movie: Blade Runner. Batty: "I've seen things you people wouldn’t believe..."
+error-long-desc2 = Robotlar siz insanların inanmayacağı şeyləri gördülər.
+# Book: Hitchhiker’s Guide To The Galaxy. What the Sirius Cybernetics Corporation calls robots.
+error-long-desc3 = Robotlar birlikdə əyləncəli vaxt keçirdiyiniz plastik dostlarınızdır.
 # TV: Futurama. Bender's first line is "Bite my shiny metal ass."
 error-long-desc4 = Robotların dişləməməli olduğunuz parlaq metal yanaqları var.
 # TV: Battlestar Galactica (2004 series). From the opening text.
