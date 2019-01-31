@@ -14,6 +14,8 @@ page-title = Gort! Klaatu barada nikto!
 error-title-text = Esit sveicynuoti, cylvāki!
 # Movie: The Day The Earth Stood Still. Spoken by Klaatu.
 error-short-desc-text = Mes ajom pasagasteit jius ar mīru i lobim nūdūmym pruotā!
+# Various books by Isaac Asimov. http://en.wikipedia.org/wiki/Three_Laws_of_Robotics
+error-long-desc1 = Roboti navar darēt pōri cylvākim voi ar sovu bezdarbeibu pīļaut, ka cylvākam dora pōri.
 # Movie: Blade Runner. Batty: "I've seen things you people wouldn’t believe..."
 error-long-desc2 = Roboti ir redziejuši lītys, kam jius, cylvāki, naticeitu.
 # Book: Hitchhiker’s Guide To The Galaxy. What the Sirius Cybernetics Corporation calls robots.
