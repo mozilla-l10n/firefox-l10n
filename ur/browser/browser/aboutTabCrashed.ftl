@@ -9,6 +9,7 @@ crashed-restore-all-button = تمام تباہ شدہ ٹیب بحال کریں
 crashed-header = اوھ ۔ آپ کا ٹیب ابھی تباہ ہو گیا۔
 crashed-offer-help = ہم مدد کر سکتے ہیں!
 crashed-single-offer-help-message = صفحہ کو پھر لوڈ کرنے کے لیئے { crashed-restore-tab-button } چنیں۔
+crashed-multiple-offer-help-message = /pages. پھر سے لوڈ کرنے کے لیئے { crashed-restore-tab-button } یا { crashed-restore-all-button } کا انتخاب کریں
 crashed-request-help = کیا آپ ہماری مدد کریں گے؟
 crashed-request-help-message = تباہ کی رپورٹس ہمیں مسائل کی تشخیص کرنے میں مدد کرتا ھے اور *{ -brand-short-name }* کو بہترکرتا ہے۔
 crashed-request-report-title = اس ٹیب کی رپورٹ کریں
