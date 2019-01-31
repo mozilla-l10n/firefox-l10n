@@ -39,13 +39,13 @@
 <!ENTITY buttons.subscribe.accesskey "S">
 
 <!ENTITY calendartype.label "Kiểu lịch:">
-<!ENTITY location.label "Vị trí:">
+<!ENTITY location.label "Địa chỉ:">
 <!ENTITY location.placeholder "URL hoặc tên máy chủ của máy chủ lịch">
 
 <!ENTITY network.nocredentials.label "Vị trí này không yêu cầu thông tin đăng nhập">
 <!ENTITY network.loading.description "Xin vui lòng chờ trong khi lịch của bạn đang được phát hiện.">
-<!ENTITY network.notfound.description "Không thể tìm thấy lịch tại vị trí này. Vui lòng kiểm tra cài đặt của bạn.">
+<!ENTITY network.notfound.description "Không thể tìm thấy lịch tại địa chỉ này. Vui lòng kiểm tra cài đặt của bạn.">
 <!ENTITY network.authfail.description "Thông tin đăng nhập bạn đã nhập không được chấp nhận. Vui lòng kiểm tra cài đặt của bạn.">
 
 <!ENTITY network.subscribe.single.description "Vui lòng chọn lịch bạn muốn đăng ký.">
-<!ENTITY network.subscribe.multiple.description "Nhiều loại lịch có sẵn cho vị trí này. Vui lòng chọn kiểu lịch, sau đó đánh dấu các lịch bạn muốn đăng ký.">
+<!ENTITY network.subscribe.multiple.description "Nhiều loại lịch có sẵn cho địa chỉ này. Vui lòng chọn kiểu lịch, sau đó đánh dấu các lịch bạn muốn đăng ký.">
