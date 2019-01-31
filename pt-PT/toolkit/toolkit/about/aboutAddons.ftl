@@ -92,6 +92,7 @@ detail-update-manual =
     .tooltiptext = Não instalar atualizações automaticamente
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Executar em janelas privadas
+detail-private-browsing-description = A extensão irá funcionar em janelas privadas, e irá ter acesso às suas atividades online. <label data-l10n-name="detail-private-browsing-learn-more">Saber mais</label>
 detail-private-browsing-on =
     .label = Permitir
     .tooltiptext = Ativar em navegação privada
@@ -140,6 +141,12 @@ legacy-warning-show-legacy = Mostrar extensões de legado
 legacy-extensions =
     .value = Extensões de legado
 legacy-extensions-description = Estas extensões não atendem aos padrões atuais do { -brand-short-name } por isso foram desativadas <label data-l10n-name="legacy-learn-more">Saber acerca das alterações aos extras</label>
+private-browsing-description =
+    As extensões não estão permitidas de executar por predefinição em janelas privadas. Isto significa 
+    que estas não irão funcionar durante a navegação privada e não irão ter acesso às suas atividades online.
+    Para permitir uma extensão de executar numa janela privada, selecione o cartão de extensão abaixo 
+    e altere a sua definição.
+    <label data-l10n-name="private-browsing-learn-more">Saber mais.</label>
 extensions-view-discover =
     .name = Obter extras
     .tooltiptext = { extensions-view-discover.name }
