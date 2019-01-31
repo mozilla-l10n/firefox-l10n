@@ -12,6 +12,8 @@
 page-title = Gort! Klaatu barada nikto!
 # Movie: Logan's Run... Box (cyborg): "Welcome Humans! I am ready for you."
 error-title-text = Sveiki, Žmonės!
+# Movie: The Day The Earth Stood Still. Spoken by Klaatu.
+error-short-desc-text = Mes atvykome pas jus su taika ir draugiškais ketinimais!
 # Various books by Isaac Asimov. http://en.wikipedia.org/wiki/Three_Laws_of_Robotics
 error-long-desc1 = Robotui draudžiama žaloti žmogų, arba savo neveiksnumu leisti žmogui susižaloti.
 # TV: Futurama. Bender's first line is "Bite my shiny metal ass."
