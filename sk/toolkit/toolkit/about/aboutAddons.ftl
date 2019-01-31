@@ -212,3 +212,7 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Nainštalovať aktualizácie
     .tooltiptext = Nainštalovať aktualizácie dostupné v zozname
+
+## Extension shortcut management
+
+shortcuts-card-collapse-button = Zobraziť menej
