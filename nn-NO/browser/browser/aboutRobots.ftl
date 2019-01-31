@@ -14,5 +14,7 @@ page-title = Gort! Klaatu barada nikto!
 error-title-text = Velkomen menneske!
 # Movie: Blade Runner. Batty: "I've seen things you people wouldn’t believe..."
 error-long-desc2 = Robotar har sett ting de menneske ikkje ville trudd på.
+# TV: Futurama. Bender's first line is "Bite my shiny metal ass."
+error-long-desc4 = Robotar har skinande metall-bakdelar som ikkje må verte bitne.
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = Og dei har ein plan.
