@@ -4,6 +4,9 @@
 
 crashed-restore-tab-button = Obnovit tento panel
 crashed-restore-all-button = Obnovit všechny spadlé panely
+crashed-header = Jejda. Váš panel právě spadl.
+crashed-request-help = Pomůžete nám?
+crashed-request-report-title = Nahlásit tento panel
 crashed-email-placeholder = Zde vložte svoji e-mailovou adresu
 crashed-email-me = Informovat mě e-mailem, až bude k dispozici více informací
 crashed-report-sent = Hlášení o pádu bylo odesláno; děkujeme, že nám pomáháte { -brand-short-name } vylepšovat!
