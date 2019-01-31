@@ -2,9 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+crashed-title = Звіти про збої вкладок
+crashed-close-tab-button = Закрити вкладку
 crashed-restore-tab-button = Відновити цю вкладку
 crashed-restore-all-button = Відновити всі вкладки, які аварійно завершили роботу
 crashed-header = Отакої. Ваша вкладка не працює.
+crashed-offer-help = Ми можемо допомогти!
 crashed-single-offer-help-message = Оберіть { crashed-restore-tab-button }, щоб перезавантажити сторінку.
 crashed-multiple-offer-help-message = Оберіть { crashed-restore-tab-button } чи { crashed-restore-all-button }, щоб перезавантажити сторінку/сторінки.
 crashed-request-help = А ви нам допоможете?
