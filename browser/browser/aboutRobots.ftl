@@ -16,6 +16,8 @@ error-title-text = Croeso Ddynionach!
 error-short-desc-text = Rydym wedi dod i'ch cyfarfod mewn heddwch ac ewyllys da!
 # Various books by Isaac Asimov. http://en.wikipedia.org/wiki/Three_Laws_of_Robotics
 error-long-desc1 = Nid yw robotiaid yn cael anafu dynion neu drwy ddiffyg gweithredu gadel iddynt gael eu niweidio.
+# TV: Futurama. Bender's first line is "Bite my shiny metal ass."
+error-long-desc4 = Mae gan robotiaid rhan ôl metel disglair na ddylid ei gnoi.
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = Ac mae ganddyn nhw gynllun.
 # Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
