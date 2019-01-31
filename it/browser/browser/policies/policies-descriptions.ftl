@@ -16,6 +16,7 @@ policy-BlockAboutConfig = Blocca accesso alla pagina about:config.
 policy-BlockAboutProfiles = Blocca accesso alla pagina about:profiles.
 policy-BlockAboutSupport = Blocca accesso alla pagina about:support.
 policy-Bookmarks = Crea segnalibri nella barra dei segnalibri, nel menu segnalibri o in una specifica cartella in questi elementi.
+policy-CaptivePortal = Attiva o disattiva supporto per captive portal.
 policy-CertificatesDescription = Aggiungi certificati o utilizza i certificati predefiniti (built-in).
 policy-Cookies = Consenti o nega ai siti web di impostare cookie.
 policy-DisableAppUpdate = Blocca l’aggiornamento del browser.
