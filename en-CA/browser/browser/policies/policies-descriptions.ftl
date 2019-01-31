@@ -17,7 +17,7 @@ policy-BlockAboutConfig = Block access to the about:config page.
 policy-BlockAboutProfiles = Block access to the about:profiles page.
 policy-BlockAboutSupport = Block access to the about:support page.
 policy-Bookmarks = Create bookmarks in the Bookmarks toolbar, Bookmarks menu, or a specified folder inside them.
-policy-Certificates = Whether or not to use built-in certificates. This policy is Windows only at this time.
+policy-CaptivePortal = Enable or disable captive portal support.
 policy-CertificatesDescription = Add certificates or use built-in certificates.
 policy-Cookies = Allow or deny websites to set cookies.
 policy-DisableAppUpdate = Prevent the browser from updating.
@@ -37,7 +37,6 @@ policy-DisableProfileImport = Disable the menu command to Import data from anoth
 policy-DisableProfileRefresh = Disable the Refresh { -brand-short-name } button in the about:support page.
 policy-DisableSafeMode = Disable the feature to restart in Safe Mode. Note: the Shift key to enter Safe Mode can only be disabled on Windows using Group Policy.
 policy-DisableSecurityBypass = Prevent the user from bypassing certain security warnings.
-policy-DisableSetDesktopBackground = Disable the menu command Set Image as Desktop Background.
 policy-DisableSetAsDesktopBackground = Disable the menu command Set as Desktop Background for images.
 policy-DisableSystemAddonUpdate = Prevent the browser from installing and updating system add-ons.
 policy-DisableTelemetry = Turn off Telemetry.
@@ -49,8 +48,7 @@ policy-DontCheckDefaultBrowser = Disable check for default browser on startup.
 policy-EnableTrackingProtection = Enable or disable Content Blocking and optionally lock it.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
-# English or translate them as verbs. See also:
-# https://github.com/mozilla/policy-templates/blob/master/README.md#extensions-machine-only
+# English or translate them as verbs.
 policy-Extensions = Install, uninstall or lock extensions. The Install option takes URLs or paths as parameters. The Uninstall and Locked options take extension IDs.
 policy-FlashPlugin = Allow or deny usage of the Flash plugin.
 policy-HardwareAcceleration = If false, turn off hardware acceleration.
@@ -70,6 +68,7 @@ policy-SearchBar = Set the default location of the search bar. The user is still
 policy-SearchEngines = Configure search engine settings. This policy is only available on the Extended Support Release (ESR) version.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Install PKCS #11 modules.
-# “format” refers to the format used for the value of this policy. See also:
-# https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
+policy-SSLVersionMax = Set the maximum SSL version.
+policy-SSLVersionMin = Set the minimum SSL version.
+# “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Block websites from being visited. See documentation for more details on the format.
