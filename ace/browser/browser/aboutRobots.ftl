@@ -14,3 +14,7 @@ page-title = Gort! Klaatu barada nikto!
 error-title-text = Saleum teuka Manosia!
 # Movie: The Day The Earth Stood Still. Spoken by Klaatu.
 error-short-desc-text = Kamoe teuka meukunjong droeneuh lam damee ngon meukeusud nyang jroh!
+# Movie: Blade Runner. Batty: "I've seen things you people wouldn’t believe..."
+error-long-desc2 = Robot le that ka jikalön hai-hai nyang han neupateh.
+# TV: Battlestar Galactica (2004 series). From the opening text.
+error-trailer-desc-text = Awaknyan na rencana.
