@@ -14,6 +14,10 @@ page-title = Gort! Klaatu barada nikto!
 error-title-text = Benvenguts, umans !
 # Various books by Isaac Asimov. http://en.wikipedia.org/wiki/Three_Laws_of_Robotics
 error-long-desc1 = Un robòt pòt pas ferir un èsser uman o, per son inaccion, permetre qu'un èsser uman siá ferit.
+# Movie: Blade Runner. Batty: "I've seen things you people wouldn’t believe..."
+error-long-desc2 = Los robòts an vist de causas que poiriatz pas imaginar.
+# Book: Hitchhiker’s Guide To The Galaxy. What the Sirius Cybernetics Corporation calls robots.
+error-long-desc3 = Los robòts son vòstres amics de plastic amb los quals es risolièr d'èsser.
 # TV: Futurama. Bender's first line is "Bite my shiny metal ass."
 error-long-desc4 = Los robòts an de tafanaris de metal brilhant que devon pas èsser morduts.
 # TV: Battlestar Galactica (2004 series). From the opening text.
