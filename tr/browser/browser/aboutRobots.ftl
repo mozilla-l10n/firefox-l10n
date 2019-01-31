@@ -8,6 +8,8 @@
 ### They're just meant to be fun and whimsical, with references to some geeky
 ### but well-known robots in movies and books. Be creative with translations!
 
+# Movie: The Day The Earth Stood Still. Spoken by Klaatu.
+error-short-desc-text = Barış içinde ve iyi niyetle sizi ziyarete geldik!
 # TV: Futurama. Bender's first line is "Bite my shiny metal ass."
 error-long-desc4 = Robotların ısırılmaması gereken parlak metal popoları vardır.
 # TV: Battlestar Galactica (2004 series). From the opening text.
