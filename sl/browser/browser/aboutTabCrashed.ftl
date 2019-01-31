@@ -13,6 +13,7 @@ crashed-multiple-offer-help-message = Izberite { crashed-restore-tab-button } al
 crashed-request-help = Ali bi nam pomagali?
 crashed-request-help-message = Poročila o sesutju nam pomagajo prepoznati težave in izboljšati { -brand-short-name }.
 crashed-request-report-title = Poročilo o tem zavihku
+crashed-send-report = Pošlji avtomatizirano poročilo o sesutju, da lahko popravimo težave, kot je ta.
 crashed-comment =
     .placeholder = Neobvezni komentarji (vidni javnosti)
 crashed-include-URL = Vključite naslove strani, ki ste jih imeli odprte, ko se je { -brand-short-name } sesul.
