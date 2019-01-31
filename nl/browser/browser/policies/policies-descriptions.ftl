@@ -23,6 +23,8 @@ policy-BlockAboutSupport = Toegang tot de about:support-pagina blokkeren.
 
 policy-Bookmarks = Bladwijzers maken in de Bladwijzerwerkbalk, het menu Bladwijzers, of een hierbinnen opgegeven map.
 
+policy-CaptivePortal = Ondersteuning voor hotspot-aanmeldingspagina inschakelen of uitschakelen.
+
 policy-CertificatesDescription = Certificaten toevoegen of ingebouwde certificaten gebruiken.
 
 policy-Cookies = Toestaan of weigeren dat websites cookies instellen.
@@ -115,6 +117,10 @@ policy-SearchEngines = Instellingen voor zoekmachines configureren. Deze beleids
 
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = PKCS #11-modules installeren.
+
+policy-SSLVersionMax = De maximale SSL-versie instellen.
+
+policy-SSLVersionMin = De minimale SSL-versie instellen.
 
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Het bezoeken van websites blokkeren. Zie de documentatie voor meer informatie over de notatie.
