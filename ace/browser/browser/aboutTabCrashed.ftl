@@ -5,14 +5,17 @@
 crashed-close-tab-button = Tôp Tab
 crashed-restore-tab-button = Peuriwang Tab Nyoe
 crashed-restore-all-button = Peuriwang Mandum Tab Nyang Reuloh
+crashed-header = Nyan. Tab gata ka-reuloh.
 crashed-offer-help = Kamoe jeut meubantu!
 crashed-single-offer-help-message = Piléh { crashed-restore-tab-button } keu-peuhah keulayi laman.
 crashed-multiple-offer-help-message = Piléh { crashed-restore-tab-button } atawa { crashed-restore-all-button } keu-peuhah keulayi laman.
 crashed-request-help = Peu jeut neubantu kamoe?
 crashed-request-report-title = Lapor tab nyoe
+crashed-send-report = Kirem lapuran otomatis sibagoe nyoe mangat kamoe peu-beutôi.
 crashed-comment =
     .placeholder = Komentar Peuniléh (komentar deuh geukalön nibak mandum ureung)
 crashed-include-URL = Neupasoe URL situs nyang bunoe neupeuhah watée { -brand-short-name } jimeuruwé.
+crashed-email-placeholder = Neupasoe email droen disinoe
 crashed-report-sent = Lapuran reulöh ka jikirem; Alhamdulillah ka neu bantu kamoe bah jeut { -brand-short-name } leubèh jrôh lom!
 crashed-request-auto-submit-title = Lapur tab-tab layeue liköt
 crashed-auto-submit-checkbox = Seubarô peuatô bah jeut jikirém keudroe lapuran nyan watée { -brand-short-name } jiruwé ruwé lom.
