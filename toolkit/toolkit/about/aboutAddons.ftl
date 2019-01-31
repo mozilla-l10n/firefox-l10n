@@ -88,6 +88,15 @@ detail-update-automatic =
 detail-update-manual =
     .label = Wupinjeny
     .tooltiptext = Aktualizacije awtomatisce njeinstalować
+# Used as a description for the option to allow or block an add-on in private windows.
+detail-private-browsing-label = W priwatnych woknach wuwjesć
+detail-private-browsing-description = Rozšěrjenje budźe w priwatnych woknach fungować a změje přistup na waše aktiwity online. <label data-l10n-name="detail-private-browsing-learn-more">Dalše informacije</label>
+detail-private-browsing-on =
+    .label = Dowolić
+    .tooltiptext = W priwatnym modusu zmóžnić
+detail-private-browsing-off =
+    .label = Njedowolić
+    .tooltiptext = W priwatnym modusu znjemóžnić
 detail-home =
     .label = Startowa strona
 detail-home-value =
@@ -210,8 +219,6 @@ extensions-updates-update-selected =
 
 ## Extension shortcut management
 
-shortcuts-manage =
-    .label = Tastowe skrótšenki
 manage-extensions-shortcuts =
     .label = Tastowe skrótšenki rozšěrjenjow rjadować
     .accesskey = T
@@ -227,5 +234,13 @@ shortcuts-modifier-other = Strg abo Alt zapřijeć
 shortcuts-invalid = Njepłaćiwa kombinacija
 shortcuts-letter = Zapodajće pismik
 shortcuts-system = Tastowa skrótšenka { -brand-short-name } njeda so přepisać
+shortcuts-card-expand-button =
+    { $numberToShow ->
+        [one] { $numberToShow } dalši pokazać
+        [two] { $numberToShow } dalšej pokazać
+        [few] { $numberToShow } dalše pokazać
+       *[other] { $numberToShow } dalšich pokazać
+    }
+shortcuts-card-collapse-button = Mjenje pokazać
 go-back-button =
     .tooltiptext = Wróćo hić
