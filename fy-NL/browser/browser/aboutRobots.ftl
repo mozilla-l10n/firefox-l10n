@@ -16,7 +16,14 @@ error-title-text = Welcome Humans!
 error-short-desc-text = We have come to visit you in peace and with goodwill!
 # Various books by Isaac Asimov. http://en.wikipedia.org/wiki/Three_Laws_of_Robotics
 error-long-desc1 = Robots may not injure a human being or, through inaction, allow a human being to come to harm.
+# Movie: Blade Runner. Batty: "I've seen things you people wouldn’t believe..."
+error-long-desc2 = Robots have seen things you people wouldn’t believe.
+# Book: Hitchhiker’s Guide To The Galaxy. What the Sirius Cybernetics Corporation calls robots.
+error-long-desc3 = Robots are Your Plastic Pal Who’s Fun To Be With.
 # TV: Futurama. Bender's first line is "Bite my shiny metal ass."
 error-long-desc4 = Robots have shiny metal posteriors which should not be bitten.
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = And they have a plan.
+# Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
+error-try-again = Probearje it opnij
+    .label2 = Please do not press this button again.
