@@ -20,3 +20,6 @@ error-long-desc1 = Robots may not injure a human being or, through inaction, all
 error-long-desc4 = Robots have shiny metal posteriors which should not be bitten.
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = ଏବଂ ସେମାନଙ୍କ ପାଖରେ ଗୋଟିଏ ଯୋଜନା ଅଛି।
+# Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
+error-try-again = ପୁଣିଥରେ ଚେଷ୍ଟା କରନ୍ତୁ
+    .label2 = ଦୟାକରି ପୁଣିଥରେ ଏହି ବଟନକୁ ଦବାନ୍ତୁ ନାହିଁ।
