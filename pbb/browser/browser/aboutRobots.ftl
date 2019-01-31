@@ -19,6 +19,6 @@ error-long-desc1 = Teeçx çamsaçxa suwaj jimea teeçx nasas, meçxa petx ũ's,
 # Movie: Blade Runner. Batty: "I've seen things you people wouldn’t believe..."
 error-long-desc2 = Çamsa uysatxin kwesxyuj'pa ji'yunximesa'tx.
 # Book: Hitchhiker’s Guide To The Galaxy. What the Sirius Cybernetics Corporation calls robots.
-error-long-desc3 = Çamsa kwesx namikuta{ " " }
+error-long-desc3 = Çamsa kwesx namikuta
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = Jĩçxa teeçx we'wenxinxa' jiphta
