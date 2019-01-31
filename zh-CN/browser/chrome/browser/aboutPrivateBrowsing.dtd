@@ -30,7 +30,7 @@
 <!ENTITY trackingProtection.startTour1                   "看看怎么用">
 
 <!ENTITY contentBlocking.title                           "内容拦截">
-<!ENTITY contentBlocking.description                     "某些网站会使用跟踪器来监控您在网络上的活动。在隐私窗口中，Firefox 的内容拦截功能会自动拦截许多试图收集您的浏览行为有关信息的跟踪器。">
+<!ENTITY contentBlocking.description                     "某些网站会使用跟踪器来监控您上网做了什么。在隐私窗口中，Firefox 的内容拦截功能会自动拦截许多试图收集您的上网行为的跟踪器。">
 
 <!-- Strings for new Private Browsing with Search -->
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.search.placeholder): This is the placeholder

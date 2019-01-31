@@ -646,7 +646,7 @@ addressbar-suggestions-settings = 更改搜索引擎建议的首选项
 ## Privacy Section - Content Blocking
 
 content-blocking-header = 内容拦截
-content-blocking-description = 拦截会在网络上跟踪您的第三方内容。控制您要让不同网站存储并共享多少在线行为。
+content-blocking-description = 拦截会在网络上跟踪您的第三方内容。控制多大程度上您要让不同网站保留并互相分享您的上网活动。
 content-blocking-learn-more = 详细了解
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
