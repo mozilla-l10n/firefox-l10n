@@ -92,6 +92,14 @@ detail-update-automatic =
 detail-update-manual =
     .label = 關閉
     .tooltiptext = 不要自動安裝更新
+# Used as a description for the option to allow or block an add-on in private windows.
+detail-private-browsing-label = 於隱私視窗中執行
+detail-private-browsing-on =
+    .label = 允許
+    .tooltiptext = 在隱私瀏覽模式中啟用
+detail-private-browsing-off =
+    .label = 不允許
+    .tooltiptext = 在隱私瀏覽模式中停用
 detail-home =
     .label = 網站首頁
 detail-home-value =
@@ -214,8 +222,6 @@ extensions-updates-update-selected =
 
 ## Extension shortcut management
 
-shortcuts-manage =
-    .label = 快速鍵
 manage-extensions-shortcuts =
     .label = 管理擴充套件快速鍵
     .accesskey = S
@@ -231,5 +237,10 @@ shortcuts-modifier-other = 包含 Ctrl 或 Alt
 shortcuts-invalid = 無效的快速鍵
 shortcuts-letter = 按下一個字母
 shortcuts-system = 無法蓋過 { -brand-short-name } 的快速鍵
+shortcuts-card-expand-button =
+    { $numberToShow ->
+       *[other] 顯示另外 { $numberToShow } 個
+    }
+shortcuts-card-collapse-button = 顯示更少
 go-back-button =
     .tooltiptext = 回上一頁
