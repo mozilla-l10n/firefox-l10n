@@ -5,7 +5,7 @@
 crashed-title = ടാബ് ക്രാഷ് റിപോർട്ടർ
 crashed-close-tab-button = ടാബ് അടയ്കുക
 crashed-restore-tab-button = ഈ ടാബ് പുനഃസ്ഥാപിക്കുക
-crashed-restore-all-button = എല്ലാ തകർന്ന ടാബുകളും പുനഃസ്ഥാപിക്കുക{ " " }
+crashed-restore-all-button = എല്ലാ തകർന്ന ടാബുകളും പുനഃസ്ഥാപിക്കുക
 crashed-header = നിങ്ങളുടെ ടാബ് ക്രാഷ് ചെയ്തു.
 crashed-offer-help = ഞങ്ങൾ സഹായിക്കാം!
 crashed-single-offer-help-message = താൾ വീണ്ടെടുക്കുന്നതിന് { crashed-restore-tab-button } തെരഞ്ഞെടുക്കുക.
