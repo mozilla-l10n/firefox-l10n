@@ -16,6 +16,10 @@ error-title-text = Nnipa, akwaaba!
 error-short-desc-text = Yɛabɛsra mo wɔ asomdwee ne papayɛ mu!
 # Various books by Isaac Asimov. http://en.wikipedia.org/wiki/Three_Laws_of_Robotics
 error-long-desc1 = Robɔt mpra nipa anaa ɔnfa adwuma-gyaeɛ mu nhwɛ mma obi mpra.
+# Movie: Blade Runner. Batty: "I've seen things you people wouldn’t believe..."
+error-long-desc2 = Robɔt nom ehu ndeɛma a nnipa ngye ndi.
+# Book: Hitchhiker’s Guide To The Galaxy. What the Sirius Cybernetics Corporation calls robots.
+error-long-desc3 = Robɔt nom yɛ W'adamfo Plastik a w'ani gye sɛ wowɔ wɔn nkyɛn.
 # TV: Futurama. Bender's first line is "Bite my shiny metal ass."
 error-long-desc4 = Robɔt nom wɔ dade wɔ wɔn ekyi a ɛnsɛ sɛ wɔka.
 # TV: Battlestar Galactica (2004 series). From the opening text.
