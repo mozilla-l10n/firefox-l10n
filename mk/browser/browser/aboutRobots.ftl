@@ -18,6 +18,8 @@ error-short-desc-text = Дојдовме да Ве посетиме во мир 
 error-long-desc1 = Роботите не смеат да повредат човечко суштество или преку или нереагирајќи да дозволат некое човечко суштество да се повреди.
 # Movie: Blade Runner. Batty: "I've seen things you people wouldn’t believe..."
 error-long-desc2 = Роботите виделе работи на кои луѓето нема да веруваат.
+# Book: Hitchhiker’s Guide To The Galaxy. What the Sirius Cybernetics Corporation calls robots.
+error-long-desc3 = Роботите се вашиот пластичен пријател со кој е забавно да се дружите.
 # TV: Futurama. Bender's first line is "Bite my shiny metal ass."
 error-long-desc4 = Роботите се од сјаен метал и не треба да се гризат.
 # TV: Battlestar Galactica (2004 series). From the opening text.
