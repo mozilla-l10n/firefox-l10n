@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY addressbookWindow.title                        "สมุดรายชื่อ">
 
 <!-- File Menu -->
 <!ENTITY newContact.key                                 "N">
@@ -32,8 +33,9 @@ because displayed names don't have the comma in between. -->
 <!-- Address Book Toolbar and Context Menus -->
 
 <!-- Address Book Toolbar Tooltips -->
-
-<!-- Dir Tree header -->
+<!ENTITY newContactButton.tooltip                       "สร้างผู้ติดต่อของสมุดรายชื่อใหม่">
+<!ENTITY newlistButton.tooltip                          "สร้างรายการใหม่">
+<!ENTITY editPropertiesButton.tooltip                   "แก้ไขรายการที่เลือก">
 
 <!-- Search Bar -->
 <!ENTITY quickSearchCmd.key                             "k">
@@ -42,10 +44,17 @@ because displayed names don't have the comma in between. -->
 
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
+<!ENTITY contact.heading                                "ผู้ติดต่อ">
 <!-- Special Box Headings, for mailing lists -->
+<!ENTITY description.heading                            "คำอธิบาย">
+<!ENTITY addresses.heading                              "ที่อยู่">
 <!-- For Map It! -->
+<!ENTITY mapItButton.label                              "รับแผนที่">
 
 <!-- Status Bar -->
 
 <!--  Mac OS X Window Menu -->
+<!ENTITY windowMenu.label                               "หน้าต่าง">
+<!ENTITY minimizeWindow.label                           "ย่อ">
 <!ENTITY minimizeWindow.key                             "m">
+<!ENTITY zoomWindow.label                               "ซูม">
