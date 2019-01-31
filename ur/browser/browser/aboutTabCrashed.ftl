@@ -2,9 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+crashed-title = ٹیب کریش رپورٹر
+crashed-close-tab-button = ٹیب بند کر دیں
 crashed-restore-tab-button = یہ ٹیب دوبارہ چلائیں
 crashed-restore-all-button = تمام تباہ شدہ ٹیب بحال کریں
 crashed-header = اوھ ۔ آپ کا ٹیب ابھی تباہ ہو گیا۔
+crashed-offer-help = ہم مدد کر سکتے ہیں!
+crashed-single-offer-help-message = صفحہ کو پھر لوڈ کرنے کے لیئے { crashed-restore-tab-button } چنیں۔
 crashed-request-help = کیا آپ ہماری مدد کریں گے؟
 crashed-request-help-message = تباہ کی رپورٹس ہمیں مسائل کی تشخیص کرنے میں مدد کرتا ھے اور *{ -brand-short-name }* کو بہترکرتا ہے۔
 crashed-request-report-title = اس ٹیب کی رپورٹ کریں
