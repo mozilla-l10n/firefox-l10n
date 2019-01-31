@@ -17,6 +17,7 @@ policy-BlockAboutConfig = Přistup na stronu about:config blokować.
 policy-BlockAboutProfiles = Přistup na stronu about:profiles blokować.
 policy-BlockAboutSupport = Přistup na stronu about:support blokować.
 policy-Bookmarks = Zapołožki w symbolowej lajsće zapołožkow, w meniju zapołožkow abo w podatym rjadowaku znutřka njeju wutworić.
+policy-CaptivePortal = Kaptiwny portal zmóžnić abo znjemóžnić
 policy-CertificatesDescription = Certifikaty přidać abo zatwarjene certifikaty wužiwać.
 policy-Cookies = Websydłam dowolić abo zakazać, placki składować.
 policy-DisableAppUpdate = Wobhladowakej aktualizowanje zakazać.
