@@ -12,3 +12,4 @@
 <!-- LOCALIZATION NOTE(success.title.before, success.title.after):
      success.title.before and success.title.after all go into one line, wrapping
      around the name that the user has typed in to the search input. -->
+<!ENTITY successful.close "ปิดหน้าต่างนี้">
