@@ -2,9 +2,20 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY titledefault.label "&brandFullName;">
+<!ENTITY titleSeparator.label " - ">
 
 <!-- File Menu -->
+<!ENTITY newFolderCmd.label "โฟลเดอร์…">
+<!ENTITY newFolderCmd.accesskey "ฟ">
+<!ENTITY closeTabCmd2.label "ปิดแท็บ">
+<!ENTITY closeTabCmd2.accesskey "ป">
+<!ENTITY closeOtherTabsCmd2.label "ปิดแท็บอื่น ๆ">
+<!ENTITY closeOtherTabsCmd2.accesskey "ด">
+<!ENTITY recentlyClosedTabsCmd.label "แท็บที่ปิดล่าสุด">
+<!ENTITY recentlyClosedTabsCmd.accesskey "ท">
 
+<!ENTITY undoCloseTabCmd.commandkey "T">
 <!-- LOCALIZATION NOTE (moveToNewWindow.label):
      Menu option to cause the current tab to be migrated to a new Thunderbird
      window.

@@ -1,0 +1,17 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+
+
+
+<!ENTITY importSource.title             "นำเข้าการตั้งค่าและโฟลเดอร์จดหมาย">
+<!ENTITY importItems.title              "รายการที่จะนำเข้า">
+<!ENTITY importItems.label              "เลือกรายการที่จะนำเข้า:">
+
+<!ENTITY migrating.title                "กำลังนำเข้า…">
+
+<!ENTITY selectProfile.title            "เลือกโปรไฟล์">
+
+<!ENTITY done.title                     "การนำเข้าเสร็จสมบูรณ์">
