@@ -8,10 +8,14 @@
 ### They're just meant to be fun and whimsical, with references to some geeky
 ### but well-known robots in movies and books. Be creative with translations!
 
+# Nonsense line from the movie "The Day The Earth Stood Still". No translation needed.
+page-title = Gort! Klaatu barada nikto!
 # Movie: Logan's Run... Box (cyborg): "Welcome Humans! I am ready for you."
 error-title-text = လူသားများကို ကြိုဆိုလျှက်!
 # Movie: The Day The Earth Stood Still. Spoken by Klaatu.
 error-short-desc-text = ကျွန်ပ်တို့ဟာ ငြိမ်းချမ်းခြင်းနဲ့ ကောင်းမြတ်ခြင်းနဲ့ သင့်ဆီ လည်ပတ် ရောက်ရှိလာပြီ။
+# Various books by Isaac Asimov. http://en.wikipedia.org/wiki/Three_Laws_of_Robotics
+error-long-desc1 = စက်ရုပ်များက လူသား တဦးကို ထိခိုက်မှာ မဟုတ်ဘူး သို့ လှုပ်ရှားမှုမရှိပဲ၊ လူသား တဦးကို ထိခိုက်စေဖို့ ခွင့်ပြုနိုင်တယ်။
 # TV: Futurama. Bender's first line is "Bite my shiny metal ass."
 error-long-desc4 = စက်ရုပ်များမှာ ထိခိုက်လို့ မရတဲ့ တောက်ပတဲ့ သတ္တု ကျောဘက်တွေ ရှိတယ်။
 # TV: Battlestar Galactica (2004 series). From the opening text.
