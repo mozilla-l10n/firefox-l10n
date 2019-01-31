@@ -10,3 +10,18 @@
 
 # Nonsense line from the movie "The Day The Earth Stood Still". No translation needed.
 page-title = Gort! Klaatu barada nikto!
+# Movie: Logan's Run... Box (cyborg): "Welcome Humans! I am ready for you."
+error-title-text = Esit sveicynuoti, cylvāki!
+# Movie: The Day The Earth Stood Still. Spoken by Klaatu.
+error-short-desc-text = Mes ajom pasagasteit jius ar mīru i lobim nūdūmym pruotā!
+# Movie: Blade Runner. Batty: "I've seen things you people wouldn’t believe..."
+error-long-desc2 = Roboti ir redziejuši lītys, kam jius, cylvāki, naticeitu.
+# Book: Hitchhiker’s Guide To The Galaxy. What the Sirius Cybernetics Corporation calls robots.
+error-long-desc3 = Roboti ir jiusu mehaniskī draugi, ar kurim ir tik breineigi :)
+# TV: Futurama. Bender's first line is "Bite my shiny metal ass."
+error-long-desc4 = Roboty, ir speideigys metala piecpuses, kuruos nav īteicams kūst.
+# TV: Battlestar Galactica (2004 series). From the opening text.
+error-trailer-desc-text = I jīm ir plans...
+# Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
+error-try-again = Try Again
+    .label2 = Lyudzu namieiginojit nūspīst itū pūgu vēļreiz.
