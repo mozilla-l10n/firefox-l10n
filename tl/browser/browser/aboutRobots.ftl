@@ -12,6 +12,8 @@
 error-title-text = Mabuhay!
 # Movie: The Day The Earth Stood Still. Spoken by Klaatu.
 error-short-desc-text = Kami ay dumating sa ngalan ng kapayapaan at pakikisama!
+# Movie: Blade Runner. Batty: "I've seen things you people wouldn’t believe..."
+error-long-desc2 = Ang mga robot ay nakakita na nang mga bagay na hindi pinaniniwalaan nang tao.
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = At may malagim na plano sila.
 # Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
