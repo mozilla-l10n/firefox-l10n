@@ -10,6 +10,7 @@ crashed-request-help-message = Паведамленні пра крахі дап
 crashed-request-report-title = Даслаць справаздачу пра гэтую картку
 crashed-comment =
     .placeholder = Неабавязковы каментар (каментары агульнадаступныя)
+crashed-email-placeholder = Увядзіце тут ваш адрас эл.пошты
 crashed-email-me = Даслаць мне ліст, калі будзе больш інфармацыі
 crashed-report-sent = Справаздача пра крах ўжо даслана; дзякуй, што дапамагаеце зрабіць { -brand-short-name } лепей!
 crashed-request-auto-submit-title = Даслаць справаздачу пра фонавыя карткі
