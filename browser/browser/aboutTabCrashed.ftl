@@ -11,6 +11,7 @@ crashed-offer-help = אנחנו יכולים לעזור!
 crashed-single-offer-help-message = ניתן לבחור באפשרות { crashed-restore-tab-button } כדי לטעון מחדש את דף זה.
 crashed-multiple-offer-help-message = ניתן לבחור באפשרות { crashed-restore-tab-button } או { crashed-restore-all-button } כדי לטעון מחדש דף אחד או יותר.
 crashed-request-help-message = דיווחי קריסה מסייעים לנו לאתר בעיות ולהפוך את { -brand-short-name } לטוב יותר.
+crashed-request-report-title = דיווח על לשונית זו
 crashed-send-report = שליחת דיווח קריסה אוטומטי כדי שנוכל לתקן בעיות דוגמת זו.
 crashed-comment =
     .placeholder = הוספת הערה (לא חובה; הערות חשופות לקהל)
