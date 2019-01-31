@@ -18,4 +18,5 @@ crashed-comment =
 crashed-email-placeholder = ป้อนที่อยู่อีเมลของคุณที่นี่
 crashed-email-me = ส่งอีเมลหาฉันเมื่อมีข้อมูลเพิ่มเติม
 crashed-report-sent = ส่งรายงานข้อขัดข้องแล้ว; ขอบคุณที่ช่วยทำ { -brand-short-name } ให้ดีขึ้น!
+crashed-request-auto-submit-title = รายงานแท็บเบื้องหลัง
 crashed-auto-submit-checkbox = อัปเดตค่ากำหนดเพื่อให้ส่งรายงานเมื่อ { -brand-short-name } ขัดข้องโดยอัตโนมัติ
