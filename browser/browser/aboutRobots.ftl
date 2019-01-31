@@ -16,6 +16,10 @@ error-title-text = Bi xêr hatî Pisman!
 error-short-desc-text = Em bi hestên aştiyane û xweş hatin serdana te!
 # Various books by Isaac Asimov. http://en.wikipedia.org/wiki/Three_Laws_of_Robotics
 error-long-desc1 = Robot zirarê nadin mirovan û dilê wan nahêlin.
+# Movie: Blade Runner. Batty: "I've seen things you people wouldn’t believe..."
+error-long-desc2 = Robotan tiştên ku hûn mirov jê bawer nakin dîtine.
+# Book: Hitchhiker’s Guide To The Galaxy. What the Sirius Cybernetics Corporation calls robots.
+error-long-desc3 = Robot Hevalên te yên Plastîk in û ji bo Kêfxweşiyê li Cem Te ne
 # TV: Futurama. Bender's first line is "Bite my shiny metal ass."
 error-long-desc4 = Qûna robotan ji metaleke birqok e lewre nayê gezkirin.
 # TV: Battlestar Galactica (2004 series). From the opening text.
