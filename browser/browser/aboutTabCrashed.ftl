@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 crashed-title = Αναφορά κατάρρευσης καρτελών
+crashed-close-tab-button = Κλείσιμο καρτέλας
 crashed-restore-tab-button = Επαναφορά καρτέλας
 crashed-restore-all-button = Επαναφορά όλων των καρτελών που κατέρρευσαν
 crashed-header = Ωχ. Η καρτέλα σας μόλις κατέρρευσε.
@@ -13,5 +14,7 @@ crashed-request-help-message = Οι αναφορές κατάρρευσης μά
 crashed-request-report-title = Αναφορά καρτέλας
 crashed-comment =
     .placeholder = Προαιρετικά σχόλια (τα σχόλια είναι ορατά σε όλους)
+crashed-email-placeholder = Εισάγετε τη διεύθυνση email σας εδώ
 crashed-email-me = Ειδοποίηση στο email μου όταν είναι διαθέσιμες περισσότερες πληροφορίες
 crashed-report-sent = Η αναφορά κατάρρευσης έχει υποβληθεί ήδη· σάς ευχαριστούμε που συμβάλλετε στη βελτίωση του { -brand-short-name }!
+crashed-request-auto-submit-title = Αναφορά καρτελών παρασκηνίου
