@@ -12,6 +12,8 @@
 page-title = 高特！不要炸飛這個世界！ (Gort! Klaatu barada nikto!)
 # Movie: Logan's Run... Box (cyborg): "Welcome Humans! I am ready for you."
 error-title-text = 歡迎，人類！
+# Movie: The Day The Earth Stood Still. Spoken by Klaatu.
+error-short-desc-text = 我們帶著和平與友好前來拜訪您！
 # Various books by Isaac Asimov. http://en.wikipedia.org/wiki/Three_Laws_of_Robotics
 error-long-desc1 = 機器人不得傷害人類，或袖手旁觀坐視人類受到傷害。
 # Movie: Blade Runner. Batty: "I've seen things you people wouldn’t believe..."
