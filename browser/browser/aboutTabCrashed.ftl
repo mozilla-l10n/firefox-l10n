@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+crashed-close-tab-button = ටැබය වසන්න
 crashed-restore-tab-button = මෙම ටැබය යළි පිහිටුවන්න
 crashed-restore-all-button = සියළු බිඳවැටුනු ටැබ යළි පිහිටුවන්න
 crashed-email-placeholder = ඔබේ ඊමේල් ලිපිනය මෙහි එක් කරන්න
