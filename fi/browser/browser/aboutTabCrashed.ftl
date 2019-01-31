@@ -4,3 +4,6 @@
 
 crashed-restore-tab-button = Palauta välilehti
 crashed-restore-all-button = Palauta kaikki kaatuneet välilehdet
+crashed-email-placeholder = Kirjoita sähköpostiosoitteesi
+crashed-email-me = Lähettäkää minulle sähköpostia kun lisätietoja on saatavilla
+crashed-report-sent = Kaatumisilmoitus on jo lähetetty. Kiitos avustasi { -brand-short-name }in kehittämiseksi!
