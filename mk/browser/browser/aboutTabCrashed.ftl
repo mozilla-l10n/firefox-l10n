@@ -18,5 +18,7 @@ crashed-comment =
     .placeholder = Дополнителни коментари (коментарите се јавно-видливи)
 crashed-include-URL = Вклучете ги адресите на мрежните места на коишто бевте кога { -brand-short-name } се урна.
 crashed-email-placeholder = Внесете ја вашата адреса за е-пошта овде
+crashed-email-me = Испрати ми е-пошта кога ќе има повеќе информации за ова
+crashed-report-sent = Извештајот за уривање е веќе испратен; Ви благодариме што помагате { -brand-short-name } да биде подобар!
 crashed-request-auto-submit-title = Пријавете ги позадинските јазичиња
 crashed-auto-submit-checkbox = Ажурирајте ги поставките за автоматски да се испраќаат извештаи кога { -brand-short-name } ќе се урне.
