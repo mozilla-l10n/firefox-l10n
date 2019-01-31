@@ -8,6 +8,8 @@
 ### They're just meant to be fun and whimsical, with references to some geeky
 ### but well-known robots in movies and books. Be creative with translations!
 
+# Nonsense line from the movie "The Day The Earth Stood Still". No translation needed.
+page-title = Gort! Klaatu barada nikto!
 # Various books by Isaac Asimov. http://en.wikipedia.org/wiki/Three_Laws_of_Robotics
 error-long-desc1 = Un robòt pòt pas ferir un èsser uman o, per son inaccion, permetre qu'un èsser uman siá ferit.
 # TV: Futurama. Bender's first line is "Bite my shiny metal ass."
