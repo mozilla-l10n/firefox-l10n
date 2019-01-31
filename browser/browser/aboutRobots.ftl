@@ -10,6 +10,8 @@
 
 # Nonsense line from the movie "The Day The Earth Stood Still". No translation needed.
 page-title = Gort! Klaatu barada nikto!
+# Movie: Logan's Run... Box (cyborg): "Welcome Humans! I am ready for you."
+error-title-text = ¡Saludos, humanos!
 # Movie: The Day The Earth Stood Still. Spoken by Klaatu.
 error-short-desc-text = ¡Venimos a visitarlos en paz y con buena voluntad!
 # Various books by Isaac Asimov. http://en.wikipedia.org/wiki/Three_Laws_of_Robotics
@@ -18,5 +20,7 @@ error-long-desc1 = Los robots no deben dañar a un ser humano o, por su inacció
 error-long-desc2 = Los robots han visto cosas que ustedes los humanos no creerían.
 # Book: Hitchhiker’s Guide To The Galaxy. What the Sirius Cybernetics Corporation calls robots.
 error-long-desc3 = Los robots son sus amigos de plástico con los que se pueden divertir.
+# TV: Futurama. Bender's first line is "Bite my shiny metal ass."
+error-long-desc4 = Los robots tienen brillantes traseros metálicos que no deben ser mordidos.
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = … Y tienen un plan.
