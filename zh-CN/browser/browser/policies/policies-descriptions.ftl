@@ -17,6 +17,7 @@ policy-BlockAboutConfig = 阻止访问 about:config 页面。
 policy-BlockAboutProfiles = 阻止访问 about:profiles 页面。
 policy-BlockAboutSupport = 阻止访问 about:support 页面。
 policy-Bookmarks = 在书签工具栏，书签菜单或特定文件夹中创建书签。
+policy-CaptivePortal = 启用或禁用强制门户支持。
 policy-CertificatesDescription = 添加证书或使用内置的证书。
 policy-Cookies = 允许或拒绝网站设置 Cookie。
 policy-DisableAppUpdate = 阻止浏览器更新。
