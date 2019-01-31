@@ -10,3 +10,5 @@
 
 # Nonsense line from the movie "The Day The Earth Stood Still". No translation needed.
 page-title = Gort! Klaatu barada nikto!{ " " }
+# Book: Hitchhiker’s Guide To The Galaxy. What the Sirius Cybernetics Corporation calls robots.
+error-long-desc3 = Iṛubuten d imdukkal-nwen n plastik ukud ara tenecṛaḥem.
