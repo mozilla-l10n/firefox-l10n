@@ -12,3 +12,5 @@
 page-title = Gort! Klaatu barada nikto!
 # Movie: Logan's Run... Box (cyborg): "Welcome Humans! I am ready for you."
 error-title-text = Bem-vindos, humanos!
+# TV: Futurama. Bender's first line is "Bite my shiny metal ass."
+error-long-desc4 = Robôs possuem traseiros de metal brilhantes que não devem ser mordidos.
