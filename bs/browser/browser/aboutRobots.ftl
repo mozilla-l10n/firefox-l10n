@@ -16,6 +16,10 @@ error-title-text = Dobrodošli ljudi!
 error-short-desc-text = Dolazimo u miru i s dobrom namjerom!
 # Various books by Isaac Asimov. http://en.wikipedia.org/wiki/Three_Laws_of_Robotics
 error-long-desc1 = Roboti ne mogu ozlijediti ljudsko biće ili, zbog neaktivnosti, dozvoliti da se ljudskom biću naškodi.
+# Movie: Blade Runner. Batty: "I've seen things you people wouldn’t believe..."
+error-long-desc2 = Roboti su vidjeli stvari koje vi, ljudi, ne bi povjerovali.
+# Book: Hitchhiker’s Guide To The Galaxy. What the Sirius Cybernetics Corporation calls robots.
+error-long-desc3 = Roboti su vaši plastični drugari kojima je zabavno biti sa vama.
 # TV: Futurama. Bender's first line is "Bite my shiny metal ass."
 error-long-desc4 = Roboti imaju sjajne metalne dijelove koji ne bi trebali biti nagriženi.
 # TV: Battlestar Galactica (2004 series). From the opening text.
