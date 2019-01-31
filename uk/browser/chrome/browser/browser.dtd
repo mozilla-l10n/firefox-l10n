@@ -972,7 +972,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectMicrophone.label "Доступ до мікрофону:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "м">
 <!ENTITY getUserMedia.audioCapture.label "Аудіо з вкладки буде загальнодоступним.">
-<!ENTITY getUserMedia.allWindowsShared.message "Буде надано доступ до всіх видимих вікон на вашому дисплеї.">
+<!ENTITY getUserMedia.allWindowsShared.message "Надасться доступ до всіх видимих вікон на вашому екрані.">
 
 <!ENTITY contentBlocking.title "Блокування вмісту">
 <!ENTITY contentBlocking.detected "На цьому сайті виявлено вміст для блокування.">
@@ -991,7 +991,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Звіт про проблему">
 <!ENTITY contentBlocking.breakageReportView.label "Звіт про проблему">
-<!ENTITY contentBlocking.breakageReportView2.description "Блокування вмісту може пошкодити роботу деяких веб-сайтів. Коли ви звітуєте про проблеми, ви допомагаєте покращити &brandShortName;. (В Mozilla буде відправлено URL-адресу, а також інформацію про налаштування вашого браузера.)">
+<!ENTITY contentBlocking.breakageReportView2.description "Блокування вмісту може пошкодити роботу деяких веб-сайтів. Коли ви звітуєте про проблеми, ви допомагаєте покращити &brandShortName;. (В Mozilla відправиться URL-адреса, а також інформація про налаштування вашого браузера.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Докладніше">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Які у вас виникли проблеми? (Необов'язково)">
@@ -1120,3 +1120,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Керуйте своїми додатками, натиснувши <image class='addon-addon-icon'/> в меню <image class='addon-toolbar-icon'/>.">
+
