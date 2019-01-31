@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+crashed-title = ຕົວລາຍງານບັນຫາແທັບ
 crashed-close-tab-button = ປິດແທັບ
 crashed-restore-tab-button = ເອີ້ນຄືນແທັບນີ້
 crashed-restore-all-button = ກູ້ຄືນແຖບທີ່ເກີດຂໍ້ຂັດຂ້ອງທັງໝົດ
