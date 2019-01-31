@@ -31,6 +31,9 @@ profiles-remove = Verwijderen
 profiles-set-as-default = Instellen als standaardprofiel
 profiles-launch-profile = Profiel starten in nieuwe browser
 
+profiles-cannot-set-as-default-title = Kan standaardprofiel niet instellen
+profiles-cannot-set-as-default-message = Het standaardprofiel kan niet worden gewijzigd voor { -brand-short-name }.
+
 profiles-yes = ja
 profiles-no = nee
 
