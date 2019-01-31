@@ -17,4 +17,4 @@ reader-view = มุมมองผู้อ่าน
 # Meant to match the string displayed in an empty URL bar.
 open-location = ค้นหาหรือป้อนที่อยู่
 share = แบ่งปัน
-focus = ปิด
+close-window = ปิดหน้าต่าง
