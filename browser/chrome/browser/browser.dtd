@@ -1129,6 +1129,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addonPostInstallMessage.label "Gira os seus extras ao clicar em <image class='addon-addon-icon'/> no menu <image class='addon-toolbar-icon'/>.">
 
 <!ENTITY addonPrivateBrowsing.header.label "Extensões em janelas privadas">
+<!ENTITY addonPrivateBrowsing.body.label "As extensões não estão permitidas de executar por predefinição em janelas privadas. Estas não irão funcionar durante a navegação privada e não irão ter acesso às suas atividades online. Pode permitir que cada extensão seja executada em janelas privadas ao gerir as suas definições.">
 <!ENTITY addonPrivateBrowsing.okButton.label "Ok, entendi">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "O">
 <!ENTITY addonPrivateBrowsing.manageButton.label "Gerir extensões">

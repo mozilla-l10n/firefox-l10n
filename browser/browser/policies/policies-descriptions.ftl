@@ -17,6 +17,7 @@ policy-BlockAboutConfig = Bloquear acesso  à página about:config.
 policy-BlockAboutProfiles = Bloquear acesso  à página about:profiles.
 policy-BlockAboutSupport = Bloquear acesso  à página about:support.
 policy-Bookmarks = Criar marcadores na barra de ferramentas de marcadores, menus de marcadores ou uma pasta especificada dentro dos mesmos.
+policy-CaptivePortal = Ativar ou desativar o suporte ao portal cativo.
 policy-CertificatesDescription = Adicionar certificados ou utilizar certificados integrados.
 policy-Cookies = Permitir ou negar que os sites definam cookies.
 policy-DisableAppUpdate = Impedir o navegador de ser atualizado.
@@ -67,5 +68,7 @@ policy-SearchBar = Definir a localização predefinida da barra de pesquisa. O u
 policy-SearchEngines = Configurar as definições de motor de pesquisa. Esta política é apenas disponível na versão Extended Support Release (ESR).
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Instalar módulos PKCS #11.
+policy-SSLVersionMax = Definir a versão máxima de SSL.
+policy-SSLVersionMin = Definir a versão mínima de SSL.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Bloquear websites de serem visitados. Veja a documentação para mais detalhes sobre o formato.
