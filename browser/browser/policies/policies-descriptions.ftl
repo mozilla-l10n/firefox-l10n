@@ -17,6 +17,7 @@ policy-BlockAboutConfig = Zablokování přístupu do editoru předvoleb (about:
 policy-BlockAboutProfiles = Zablokování přístupu do správce profilů (about:profiles).
 policy-BlockAboutSupport = Zablokování přístupu na stránku s technickými informacemi (about:support).
 policy-Bookmarks = Vytvoření záložek na liště, v nabídce nebo vybrané složce.
+policy-CaptivePortal = Povolení nebo zakázání podpory captive portálů.
 policy-CertificatesDescription = Přidat certifikáty nebo použít vestavěné certifikáty.
 policy-Cookies = Pravidla pro ukládání nebo blokování cookies.
 policy-DisableAppUpdate = Blokování aktualizací prohlížeče.
@@ -67,5 +68,7 @@ policy-SearchBar = Nastavení výchozího umístění vyhledávacího pole. Uži
 policy-SearchEngines = Nastavení vyhledávačů. Toto pravidlo je dostupné jen pro verzi s rozšířenou podporou (ESR).
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Instalace modulů PKCS #11.
+policy-SSLVersionMax = Nastavení maximální verze SSL.
+policy-SSLVersionMin = Nastavení minimální verze SSL.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Blokování návštěvy webových stránek. Více informací o formátu najdete v dokumentaci.
