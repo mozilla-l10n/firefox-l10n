@@ -28,3 +28,5 @@ blocklist-item-moz-std-name = Disconnect.me - základná ochrana (odporúčané)
 blocklist-item-moz-std-desc = Niektoré sledovacie prvky sú povolené, takže webové stránky fungujú správne.
 blocklist-item-moz-full-name = Disconnect.me - prísna ochrana.
 blocklist-item-moz-full-desc = Blokuje známe sledovacie prvky. Niektoré stránky nemusia fungovať správne.
+blocklist-item-moz-std-description = Povoľuje niektoré sledovacie prvky, aby stránky mohli fungovať správne.
+blocklist-item-moz-full-description = Blokuje všetky nájdené sledovacie prvky. Toto môže obmedziť fungovanie niektorých stránok.
