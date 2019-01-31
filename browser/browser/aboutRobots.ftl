@@ -8,6 +8,8 @@
 ### They're just meant to be fun and whimsical, with references to some geeky
 ### but well-known robots in movies and books. Be creative with translations!
 
+# Nonsense line from the movie "The Day The Earth Stood Still". No translation needed.
+page-title = Ґорт! Клаату барада ніхто!
 # Movie: Logan's Run... Box (cyborg): "Welcome Humans! I am ready for you."
 error-title-text = Привіт людинам!
 # Movie: The Day The Earth Stood Still. Spoken by Klaatu.
@@ -22,3 +24,6 @@ error-long-desc3 = Серед роботів багато романтиків.
 error-long-desc4 = У роботів є блискучі металеві зади, котрими вони пишаються.
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = Аста ла віста, бейбі.
+# Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
+error-try-again = Спробувати знову
+    .label2 = Будь ласка, не натискайте більше цю кнопку.
