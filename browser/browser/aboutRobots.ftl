@@ -20,3 +20,6 @@ error-long-desc1 = Robotlar insanlara zərər verə bilməz və ya passiv qalara
 error-long-desc4 = Robotların dişləməməli olduğunuz parlaq metal yanaqları var.
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = Və bir planları var.
+# Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
+error-try-again = Təkrar Yoxla
+    .label2 = Lütfən bir daha bu düyməyə basmayın.
