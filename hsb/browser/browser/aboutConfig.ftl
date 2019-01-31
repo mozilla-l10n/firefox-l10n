@@ -5,6 +5,8 @@
 about-config-warning-text = Hdyž tute rozšěrjene nastajenja změniće, móže so to škódnje na stabilitu, wěstotu a wukon tutoho nałoženja wuskutkować. Wy měł jenož z tym pokročować, jeli sće sej wěsty, štož činiće.
 about-config-warning-button = Akceptuju riziko!
 about-config-title = about:config
+about-config-search =
+    .placeholder = Pytajće abo tłóčće ESC, zo byšće wšě pokazał
 about-config-pref-add = Přidać
 about-config-pref-toggle = Přešaltować
 about-config-pref-edit = Wobdźěłać
