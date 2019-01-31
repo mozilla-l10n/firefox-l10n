@@ -24,3 +24,6 @@ error-long-desc3 = Los robots son sus compañeros de plástico con quiénes se p
 error-long-desc4 = Los robots tiene traseros brillantes y metálicos que no deben ser mordidos.
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = Y tienen un plan.
+# Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
+error-try-again = Volver a intentarlo
+    .label2 = No vuelvas a presionar este botón.
