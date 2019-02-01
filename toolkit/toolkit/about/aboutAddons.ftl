@@ -88,6 +88,15 @@ detail-update-automatic =
 detail-update-manual =
     .label = Zakázány
     .tooltiptext = Aktualizace se instalují manuálně
+# Used as a description for the option to allow or block an add-on in private windows.
+detail-private-browsing-label = Povolit běh v anonymních oknech
+detail-private-browsing-description = Rozšíření běžící v anonymních oknech mají přístup také k vaší aktivitě na internetu. <label data-l10n-name="detail-private-browsing-learn-more">Zjistit více</label>
+detail-private-browsing-on =
+    .label = Povolit
+    .tooltiptext = Povolí rozšíření v anonymních oknech
+detail-private-browsing-off =
+    .label = Nepovolit
+    .tooltiptext = Zakáže rozšíření v anonymních oknech
 detail-home =
     .label = Domovská stránka
 detail-home-value =
@@ -130,6 +139,7 @@ legacy-warning-show-legacy = Zobrazit zastaralá rozšíření
 legacy-extensions =
     .value = Zastaralá rozšíření
 legacy-extensions-description = Tato rozšíření byla zakázána, protože neodpovídají současným standardům aplikace { -brand-short-name }. <label data-l10n-name="legacy-learn-more">Zjistit více o změnách pro doplňky</label>
+private-browsing-description = Rozšíření jsou ve výchozím stavu v anonymních oknech vypnutá. To znamená, že v anonymních oknech nefungují a nemají přístup ke stránkám, které tam navštívíte. Pro nastavení běhu rozšíření v anonymních oknech ho vyberte níže. <label data-l10n-name="private-browsing-learn-more">Zjistit více</label>.
 extensions-view-discover =
     .name = Získání doplňků
     .tooltiptext = { extensions-view-discover.name }
@@ -210,8 +220,6 @@ extensions-updates-update-selected =
 
 ## Extension shortcut management
 
-shortcuts-manage =
-    .label = Klávesové zkratky
 manage-extensions-shortcuts =
     .label = Správa klávesových zkratek pro rozšíření
     .accesskey = S
@@ -227,5 +235,12 @@ shortcuts-modifier-other = Zahrnout Ctrl nebo Alt
 shortcuts-invalid = Neplatná kombinace kláves
 shortcuts-letter = Napište písmeno
 shortcuts-system = Nelze přepsat zkratku aplikace { -brand-short-name }
+shortcuts-card-expand-button =
+    { $numberToShow ->
+        [one] Zobrazit další
+        [few] Zobrazit { $numberToShow } další
+       *[other] Zobrazit { $numberToShow } dalších
+    }
+shortcuts-card-collapse-button = Zobrazit méně
 go-back-button =
     .tooltiptext = Zpátky
