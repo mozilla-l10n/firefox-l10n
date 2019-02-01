@@ -13,3 +13,7 @@ changed-title = Kas mainiejīs?
 options-title = Kaidas ir munas īspiejas?
 resources = Resursi:
 support-link = Profila porvaldnīka izmontōšona - aproksts
+sync-label = Īvodi sova e-posta adresi
+sync-input =
+    .placeholder = E-posts
+sync-button = Iz prīšku
