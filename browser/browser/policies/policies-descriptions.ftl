@@ -17,7 +17,7 @@ policy-BlockAboutConfig = Blockera tillgång till sidan about:config.
 policy-BlockAboutProfiles = Blockera tillgång till sidan about:profiles.
 policy-BlockAboutSupport = Blockera tillgång till sidan about:support.
 policy-Bookmarks = Skapa bokmärken i bokmärkesfältet, bokmärkesmenyn eller en angiven mapp inuti dem.
-policy-Certificates = Huruvida du ska använda inbyggda certifikat eller inte. Denna policy är endast för Windows just nu.
+policy-CaptivePortal = Aktivera eller inaktivera captive portal support.
 policy-CertificatesDescription = Lägg till certifikat eller använd inbyggda certifikat.
 policy-Cookies = Tillåt eller neka webbplatser att lagra kakor
 policy-DisableAppUpdate = Förhindra att webbläsaren uppdateras.
@@ -37,7 +37,6 @@ policy-DisableProfileImport = Inaktivera menyalternativet att importera data fr�
 policy-DisableProfileRefresh = Inaktivera knappen Återställ { -brand-short-name } på sidan about:support.
 policy-DisableSafeMode = Inaktivera funktionen att starta om i felsäkert läge. OBS: Att använda knappen Shift för att starta i felsäkert läge kan bara inaktiveras via grupprinciper på Windows.
 policy-DisableSecurityBypass = Förhindra användaren från att gå vidare vid vissa säkerhetsvarningar.
-policy-DisableSetDesktopBackground = Inaktivera menyalternativet Använd bild som skrivbordsbakgrund.
 policy-DisableSetAsDesktopBackground = Inaktivera menyalternativet Använd som skrivbordsbakgrund för bilder.
 policy-DisableSystemAddonUpdate = Förhindra webbläsaren att installera och uppdatera systemtillägg.
 policy-DisableTelemetry = Stäng av telemetri.
@@ -49,8 +48,7 @@ policy-DontCheckDefaultBrowser = Inaktivera kontrollen av förvald webbläsare v
 policy-EnableTrackingProtection = Aktivera eller inaktivera Innehållsblockering med möjlighet att låsa valet.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
-# English or translate them as verbs. See also:
-# https://github.com/mozilla/policy-templates/blob/master/README.md#extensions-machine-only
+# English or translate them as verbs.
 policy-Extensions = Installera, avinstallera eller låsa tillägg. Installeringsalternativet tar webbadresser eller sökvägar som parametrar. Alternativen för borttagning och låsning använder tilläggs-ID.
 policy-FlashPlugin = Tillåt eller neka att insticksmodulen Flash används.
 policy-HardwareAcceleration = Om inaktiv, stäng av hårdvaruacceleration.
@@ -70,6 +68,7 @@ policy-SearchBar = Ange standardplacering av sökfältet. Användaren kan fortfa
 policy-SearchEngines = Ange sökmotorinställningar. Denna policy finns bara på Extended Support Release (ESR)-versionen.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Installera PKCS #11-moduler.
-# “format” refers to the format used for the value of this policy. See also:
-# https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
+policy-SSLVersionMax = Ange den maximala SSL-versionen.
+policy-SSLVersionMin = Ange den lägsta SSL-versionen.
+# “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Blockera besök på webbplatser. Läs dokumentationen för mer detaljer om hur de anges.
