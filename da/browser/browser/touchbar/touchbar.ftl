@@ -13,8 +13,8 @@ find = Find
 new-tab = Nyt faneblad
 add-bookmark = Tilføj bogmærke
 open-bookmarks-sidebar = Åbn bogmærker i sidepanel
-reader-view = Reader View
+reader-view = Læsevisning
 # Meant to match the string displayed in an empty URL bar.
-open-location = Søg eller indtast adresse
+open-location = Søg, eller indtast en adresse
 share = Del
 close-window = Luk vindue
