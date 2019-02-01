@@ -213,12 +213,10 @@ extensions-updates-update-selected =
 
 ## Extension shortcut management
 
-shortcuts-manage =
-    .label = Pikanäppäimet
 shortcuts-empty-message = Tällä lisäosalle ei ole pikanäppäimiä.
 shortcuts-no-addons = Yhtäkään lisäosaa ei ole otettu käyttöön.
 shortcuts-input =
-    .placeholder = Kirjoita pikanäppäinyhdistelmä
+    .placeholder = Kirjoita näppäinyhdistelmä
 shortcuts-sidebarAction = Näytä/piilota sivupaneeli
 shortcuts-modifier-mac = Paina Ctrl-, Alt- tai ⌘-näppäintä
 shortcuts-modifier-other = Paina Ctrl- tai Alt-näppäintä
