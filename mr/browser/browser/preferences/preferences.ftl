@@ -313,6 +313,7 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = लिहीण्यास सुरूवात केल्यावर मजकुर शोधा
     .accesskey = x
+browsing-cfr-recommendations-learn-more = अधिक जाणा
 
 ## General Section - Proxy
 
@@ -612,6 +613,13 @@ addressbar-suggestions-settings = शोध इंजिनसाठी सू�
 
 content-blocking-header = मजकूर अडवणी
 content-blocking-learn-more = अधिक जाणून घ्या
+content-blocking-setting-strict =
+    .label = कठोर
+    .accesskey = r
+content-blocking-learn-how = कसे ते जाणा
+content-blocking-trackers-label =
+    .label = ट्रॅकर
+    .accesskey = T
 content-blocking-cookies-label =
     .label = कुकीज
     .accesskey = C
@@ -685,6 +693,7 @@ collection-health-report-link = अधिक जाणा
 collection-studies =
     .label = { -brand-short-name } ला studies प्रस्थापित करून चालवण्याची परवानगी द्या
 collection-studies-link = { -brand-short-name } studies पहा
+addon-recommendations-link = अधिक जाणा
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = माहिती अहवाल देणे या बांधणी संरचनेमध्ये निष्क्रिय केलेले आहे

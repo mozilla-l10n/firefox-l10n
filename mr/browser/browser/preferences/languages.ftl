@@ -43,4 +43,5 @@ browser-languages-window =
     .style = width: 40em
 browser-languages-downloading =
     .label = डाउनलोड करत आहे...
+browser-languages-installed-label = स्थापित भाषा
 browser-languages-available-label = उपलब्ध भाषा
