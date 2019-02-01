@@ -17,7 +17,7 @@ policy-BlockAboutConfig = about:config sayfasına erişimi engelle.
 policy-BlockAboutProfiles = about:profiles sayfasına erişimi engelle.
 policy-BlockAboutSupport = about:support sayfasına erişimi engelle.
 policy-Bookmarks = Yer imleri araç çubuğunda, yer imleri menüsünde veya bunların içindeki belli bir klasörde yer imi oluştur.
-policy-Certificates = Dahili sertifikaların kullanılıp kullanılmayacağı. Bu ilke şimdilik yalnızca Windows’ta geçerlidir.
+policy-CaptivePortal = Kısıtlama portali desteğini aç veya kapat.
 policy-CertificatesDescription = Sertifika ekle veya yerleşik sertifikaları kullan.
 policy-Cookies = Web sitelerinin çerez ayarlamasına izin ver veya verme.
 policy-DisableAppUpdate = Tarayıcının güncellenmesini engelle.
@@ -37,7 +37,6 @@ policy-DisableProfileImport = Başka tarayıcılardaki verileri içe aktarmaya o
 policy-DisableProfileRefresh = about:support sayfasındaki “{ -brand-short-name } tarayıcısını yenile” düğmesini devre dışı bırak.
 policy-DisableSafeMode = Güvenli kipte yeniden başlatma özelliğini devre dışı bırak. Not: Güvenli kipe girmek için kullanılan Shift tuşu, Windows'ta ancak Grup İlkesi ile devre dışı bırakılabilir.
 policy-DisableSecurityBypass = Kullanıcının belli güvenlik uyarılarını görmezden gelmesini engelle.
-policy-DisableSetDesktopBackground = “Masaüstü arka planı olarak ayarla” menü komutunu devre dışı bırak.
 policy-DisableSetAsDesktopBackground = Resimler için “Masaüstü arka planı olarak ayarla” menü komutunu devre dışı bırak.
 policy-DisableSystemAddonUpdate = Tarayıcının sistem eklentilerini kurmasını ve güncellemesini engelle.
 policy-DisableTelemetry = Telemetri'yi kapat.
@@ -49,8 +48,7 @@ policy-DontCheckDefaultBrowser = Başlangıçta varsayılan tarayıcı kontrolü
 policy-EnableTrackingProtection = İçerik engellemeyi etkinleştir veya devre dışı bırak ve isteğe bağlı olarak kilitle.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
-# English or translate them as verbs. See also:
-# https://github.com/mozilla/policy-templates/blob/master/README.md#extensions-machine-only
+# English or translate them as verbs.
 policy-Extensions = Eklentileri yükle, kaldır veya kilitle. Yükleme seçeneğinde parametre olarak URL veya yol kullanılır. Kaldırma ve kilitleme seçeneklerinde ise eklenti kimliği kullanılır.
 policy-FlashPlugin = Flash yan uygulama kullanımını engelle ya da kullanımına izin ver.
 policy-HardwareAcceleration = false ise donanım ivmelenmesini kapat.
@@ -70,6 +68,7 @@ policy-SearchBar = Arama çubuğunun varsayılan konumunu ayarla. Kullanıcı da
 policy-SearchEngines = Arama motoru ayarlarını yapılandır. Bu ilke yalnızca Extended Support Release (ESR) sürümünde geçerlidir.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = PKCS #11 modüllerini yükle.
-# “format” refers to the format used for the value of this policy. See also:
-# https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
+policy-SSLVersionMax = Maksimum SSL sürümünü ayarla.
+policy-SSLVersionMin = Minimum SSL sürümünü ayarla.
+# “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Web sitelerinin ziyaret edilmesini engelle. Biçimle ilgili daha fazla bilgi için belgelendirmeye bakın.
