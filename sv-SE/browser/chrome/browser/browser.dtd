@@ -1129,5 +1129,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addonPostInstallMessage.label "Hantera dina tillägg genom att klicka på <image class='addon-addon-icon'/> i menyn <image class='addon-toolbar-icon'/>.">
 
 <!ENTITY addonPrivateBrowsing.header.label "Tillägg i privata fönster">
+<!ENTITY addonPrivateBrowsing.body.label "Tillägg får inte köras som standard i privata fönster. De kommer inte att fungera under privat surfning och de kommer inte ha tillgång till dina aktiviteter på nätet. Du kan tillåta att varje tillägg körs i privat fönster genom att hantera dina inställningar.">
 <!ENTITY addonPrivateBrowsing.okButton.label "Ok, jag förstår">
+<!ENTITY addonPrivateBrowsing.okButton.accesskey "O">
 <!ENTITY addonPrivateBrowsing.manageButton.label "Hantera tillägg">
+<!ENTITY addonPrivateBrowsing.manageButton.accesskey "H">

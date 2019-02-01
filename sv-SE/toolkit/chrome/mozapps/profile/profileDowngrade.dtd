@@ -10,7 +10,10 @@
  given Firefox channel". These terms are not synonymous.
 -->
 <!ENTITY window.title "Du har startat en äldre version av Firefox">
+<!ENTITY window.style "width: 490px;">
 
+<!ENTITY window.nosync "Genom att använda en äldre version av Firefox kan korrupta bokmärken och surfhistorik redan sparats i en befintlig Firefox-profil. För att skydda din information, skapa en ny profil för den här installationen av &brandShortName;.">
+<!ENTITY window.sync "Genom att använda en äldre version av Firefox kan korrupta bokmärken och surfhistorik redan ha sparats i en befintlig Firefox-profil. För att skydda din information, skapa en ny profil för den här installationen av &brandShortName;. Du kan alltid logga in med ett &syncBrand.fxAccount.label; för att synkronisera dina bokmärken och surfhistorik mellan profiler.">
 
 <!ENTITY window.create "Skapa ny profil">
 <!ENTITY window.quit-win "Avsluta">
