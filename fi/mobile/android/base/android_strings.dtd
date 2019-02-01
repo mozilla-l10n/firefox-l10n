@@ -290,11 +290,6 @@
 <!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
      Similar to the already existing "pref_whats_new_notification_summary"-->
 <!ENTITY pref_feature_tips_notification_summary "Lue lisää &brandShortName;in ja muiden &vendorShortName;n tuotteiden käyttämisestä">
-<!-- Localization note (pref_feature_tips_notification_enabling_hint):
-     Describe the action the user should do to enable this preference
-     Will be used in the context "<Turn on> ... to enable this feature" -->
-<!ENTITY pref_feature_tips_notification_enabling_hint "Ota käyttöön">
-
 <!-- Localization note (pref_feature_tips_notification_enabling_path):
      Nothing to translate. Simple concatenation of already localized strings. Result is used below. -->
 <!ENTITY pref_feature_tips_notification_enabling_path "&pref_category_privacy_short; > &pref_category_datareporting; > &datareporting_fhr_title;">
@@ -444,7 +439,7 @@
 <!ENTITY datareporting_fhr_title "&brandShortName;in terveydentilaraportti">
 <!ENTITY datareporting_fhr_summary2 "Antaa sinulle tietoa selaimesi suorituskyvystä ja jakaa tiedot selaimesi tilasta &vendorShortName;n kanssa">
 <!ENTITY datareporting_telemetry_title "Kaukomittaustiedot">
-<!ENTITY datareporting_telemetry_summary "Lähetä &vendorShortName;lle tietoja selaimen suorituskyvystä, käytöstä, muokkauksista ja käytetystä laitteistosta auttaaksesi meitä kehittämään &brandShortName;ia">
+<!ENTITY datareporting_telemetry_summary "Auta meitä kehittämään &brandShortName;ia lähettämällä &vendorShortName;lle tietoja selaimen suorituskyvystä, käytöstä, muokkauksista ja käytetystä laitteistosta">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; lähettää tiedot kaatumisista &vendorShortName;lle, jotta voimme tehdä selaimestasi vakaamman ja turvallisen">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
@@ -904,15 +899,9 @@ Picture-in-picture mini window -->
 <!ENTITY pip_pause_button_description "Keskeytä toisto">
 
 <!-- Notification channels names -->
-<!ENTITY default_notification_channel "&brandShortName;">
-
-<!-- Notification channels names -->
 <!ENTITY default_notification_channel2 "Selain">
 <!ENTITY mls_notification_channel "&vendorShortName;n paikannuspalvelut">
 <!ENTITY download_notification_channel "Lataukset">
-<!ENTITY media_notification_channel "Median toisto">
-<!-- These push notifications come without a specific channel and/or name from Leanplum -->
-<!ENTITY leanplum_default_notifications_channel "&brandShortName;-ilmoitukset">
 <!ENTITY media_notification_channel2 "Ääni ja video">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel2 "&vendorShortName;-vinkit ja -vihjeet">
