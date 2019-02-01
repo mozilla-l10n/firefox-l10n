@@ -58,10 +58,6 @@ permissions-invalid-uri-label = Írjon be egy érvényes gépnevet.
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-tracking-protection-window =
-    .title = Kivételek - követés elleni védelem
-    .style = { permissions-window.style }
-permissions-exceptions-tracking-protection-desc = Kikapcsolta a követés elleni védelmet ezeken a weboldalakon.
 permissions-exceptions-content-blocking-window =
     .title = Kivételek – Tartalomblokkolás
     .style = { permissions-window.style }
@@ -110,7 +106,7 @@ permissions-site-notification-window =
 permissions-site-notification-desc = A következő weboldalak kérték, hogy küldhessenek értesítéseket. Megadhatja, hogy mely weboldalak küldhetnek értesítéseket. Az új értesítés engedélyezési kéréseket is blokkolhatja.
 permissions-site-notification-disable-label =
     .label = Új értesítés engedélyezési kérések blokkolása
-permissions-site-notification-disable-desc = Ez megakadályozza, hogy a fent fel nem sorolt weboldalak értesítésküldést kérjenek. Az értesítések blokkolása eltörhet néhány weboldal-funkciót.
+permissions-site-notification-disable-desc = Ez megakadályozza, hogy a fent fel nem sorolt weboldalak értesítésküldést kérjenek. Az értesítések blokkolása tönkretehet néhány weboldal-funkciót.
 
 ## Site Permissions - Location
 
@@ -120,7 +116,7 @@ permissions-site-location-window =
 permissions-site-location-desc = A következő weboldalak a helyadatait kérték. Megadhatja, hogy mely weboldalak érhetik el a tartózkodási helyét. Az új helyadat-kéréseket is blokkolhatja.
 permissions-site-location-disable-label =
     .label = Új tartózkodási hely kérések blokkolása
-permissions-site-location-disable-desc = Ez megakadályozza, hogy a fent fel nem sorolt weboldalak helyadatokat kérjenek. A helyadatok blokkolása eltörhet néhány weboldal-funkciót.
+permissions-site-location-disable-desc = Ez megakadályozza, hogy a fent fel nem sorolt weboldalak helyadatokat kérjenek. A helyadatok blokkolása tönkretehet néhány weboldal-funkciót.
 
 ## Site Permissions - Camera
 
