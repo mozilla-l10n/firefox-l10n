@@ -202,6 +202,7 @@
 <!ENTITY event.location.accesskey                         "L">
 <!ENTITY event.categories.label                           "Phân mục:">
 <!ENTITY event.categories.accesskey                       "n">
+<!ENTITY event.categories.textbox.label                   "Thêm một danh mục mới" >
 <!ENTITY event.calendar.label                             "Lịch:" >
 <!ENTITY event.calendar.accesskey                         "L">
 <!ENTITY event.attendees.label                            "Khách tham dự:" >
@@ -220,12 +221,18 @@
 <!ENTITY task.status.accesskey                            "r">
 <!ENTITY event.repeat.label                               "Lặp lại:" >
 <!ENTITY event.repeat.accesskey                           "i">
+<!ENTITY event.until.label                                "Cho đến khi:">
+<!ENTITY event.until.accesskey                            "B">
 <!ENTITY event.reminder.label                             "Nhắc việc:" >
 <!ENTITY event.reminder.accesskey                         "v">
 <!ENTITY event.description.label                          "Mô tả:" >
 <!ENTITY event.description.accesskey                      "M">
 <!ENTITY event.attachments.label                          "Đính kèm:" >
 <!ENTITY event.attachments.accesskey                      "k" >
+<!ENTITY event.attachments.menubutton.label               "Đính kèm">
+<!ENTITY event.attachments.menubutton.accesskey           "A">
+<!ENTITY event.attachments.url.label                      "Trang web…">
+<!ENTITY event.attachments.url.accesskey                  "W">
 <!ENTITY event.attachments.popup.remove.label             "Xóa" >
 <!ENTITY event.attachments.popup.remove.accesskey         "X" >
 <!ENTITY event.attachments.popup.open.label               "Mở" >
@@ -252,6 +259,7 @@
 
 <!ENTITY event.reminder.multiple.label                    "Nhiều lời Nhắc việc…" >
 
+<!ENTITY event.statusbarpanel.privacy.label               "Riêng tư:">
 
 <!-- Recurrence dialog -->
 <!ENTITY recurrence.title.label                         "Chỉnh sửa Việc tái diễn">
@@ -338,6 +346,7 @@
 <!ENTITY event.recurrence.pattern.yearly.week.5.label        "Thứ Năm" >
 <!ENTITY event.recurrence.pattern.yearly.week.6.label        "Thứ Sáu" >
 <!ENTITY event.recurrence.pattern.yearly.week.7.label        "Thứ Bảy" >
+<!ENTITY event.recurrence.pattern.yearly.day.label           "ngày" >
 <!ENTITY event.recurrence.of.label                           "của" >
 <!ENTITY event.recurrence.pattern.yearly.month2.1.label      "Tháng Một" >
 <!ENTITY event.recurrence.pattern.yearly.month2.2.label      "Tháng Hai" >
@@ -363,6 +372,8 @@
 <!ENTITY invite.title.label                     "Mời khách Tham dự">
 <!ENTITY event.organizer.label                  "Người tổ chức">
 <!ENTITY event.freebusy.suggest.slot            "Đề xuất khung thời gian:">
+<!ENTITY event.freebusy.button.next.slot        "Khe tiếp theo">
+<!ENTITY event.freebusy.button.previous.slot    "Khe trước">
 <!ENTITY event.freebusy.zoom                    "Thu phóng:">
 <!ENTITY event.freebusy.legend.free             "Rảnh" >
 <!ENTITY event.freebusy.legend.busy             "Bận" >
@@ -373,20 +384,44 @@
 <!ENTITY event.attendee.role.optional           "Người tham dự Phụ">
 <!ENTITY event.attendee.role.chair              "Chủ tọa">
 <!ENTITY event.attendee.role.nonparticipant     "Không có Người tham dự">
+<!ENTITY event.attendee.usertype.individual     "Cá nhân">
+<!ENTITY event.attendee.usertype.group          "Nhóm">
+<!ENTITY event.attendee.usertype.resource       "Tài nguyên">
+<!ENTITY event.attendee.usertype.room           "Phòng">
+<!ENTITY event.attendee.usertype.unknown        "Không rõ">
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "Vui lòng Xác định Múi giờ">
+<!ENTITY event.timezone.custom.label     "Hiện thêm múi giờ…">
 
 <!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "Tổng quát">
 <!ENTITY read.only.title.label           "Tiêu đề:">
+<!ENTITY read.only.calendar.label        "Lịch:">
+<!ENTITY read.only.event.start.label     "Ngày bắt đầu:">
+<!ENTITY read.only.task.start.label      "Ngày bắt đầu:">
+<!ENTITY read.only.event.end.label       "Ngày kết thúc:">
+<!ENTITY read.only.task.due.label        "Ngày đến hạn:">
 <!ENTITY read.only.repeat.label          "Lặp lại:">
 <!ENTITY read.only.location.label        "Địa chỉ:">
 <!ENTITY read.only.category.label        "Phân mục:">
 <!ENTITY read.only.organizer.label       "Người tổ chức:">
 <!ENTITY read.only.reminder.label        "Nhắc việc:">
+<!ENTITY read.only.attachments.label     "Đính kèm:">
 <!ENTITY read.only.attendees.label       "Khách tham dự">
 <!ENTITY read.only.description.label     "Mô tả">
 <!ENTITY read.only.link.label            "Liên kết Liên quan">
 
 <!-- Summary dialog -->
+<!ENTITY summary.dialog.saveclose.label         "Lưu và đóng">
+<!ENTITY summary.dialog.saveclose.tooltiptext   "Lưu các thay đổi và đóng cửa sổ mà không thay đổi trạng thái tham gia và gửi phản hồi">
+<!ENTITY summary.dialog.accept.label            "Chấp nhận">
+<!ENTITY summary.dialog.accept.tooltiptext      "Chấp nhận lời mời">
+<!ENTITY summary.dialog.tentative.label         "Phân vân">
+<!ENTITY summary.dialog.tentative.tooltiptext   "Dự kiến chấp nhận lời mời">
+<!ENTITY summary.dialog.decline.label           "Từ chối">
+<!ENTITY summary.dialog.decline.tooltiptext     "Từ chối lời mời">
+<!ENTITY summary.dialog.dontsend.label          "Không gửi phản hồi">
+<!ENTITY summary.dialog.dontsend.tooltiptext    "Thay đổi trạng thái tham gia của bạn mà không gửi trả lời cho người tổ chức và đóng cửa sổ">
+<!ENTITY summary.dialog.send.label              "Gửi phản hồi ngay">
+<!ENTITY summary.dialog.send.tooltiptext        "Gửi phản hồi cho người tổ chức  và đóng cửa sổ">
