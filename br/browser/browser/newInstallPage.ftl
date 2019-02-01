@@ -19,3 +19,10 @@ options-use-sync = Ma fell deoc'h e vefe ho roadennoù aelad an hevelep hini e h
 resources = Loazioù:
 support-link = Arverañ an ardoer aeladoù - Pennad skoazell
 sync-header = Kennaskit pe krouit ur { -fxaccount-brand-name }
+sync-label = Enankit ho chomlec'h postel
+sync-input =
+    .placeholder = Chomlec'h postel
+sync-button = Kenderc'hel
+sync-terms = En ur genderc'hel ec'h asantit d'an <a data-l10n-name="terms">divizoù arver</a> ha d'ar <a data-l10n-name="privacy">reolenn a-fet buhez prevez</a>.
+sync-first = Ar wech kentañ a implijit { -sync-brand-name }? Ezhomm ho po kennaskañ da holl staliadurioù Firefox evit goubredañ ho titouroù.
+sync-learn = Gouzout hiroc'h
