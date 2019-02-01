@@ -828,6 +828,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This is the header of the security subview in the Site Identity panel. -->
 <!ENTITY identity.securityView.label "साइट सुरक्षा">
 
+<!ENTITY identity.connection "जोडणी">
 <!ENTITY identity.connectionSecure "सुरक्षित जोडणी">
 <!ENTITY identity.connectionNotSecure "जोडणी असुरक्षित आहे">
 <!ENTITY identity.connectionFile "हे पृष्ठ आपल्या संगणकावर संचयीत केले गेले आहे.">
@@ -976,10 +977,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.detected "या साइटवर अवरोधित करण्यायोग्य मजकूर आढळले.">
 <!ENTITY contentBlocking.notDetected "या साइटवर अवरोधित करण्यायोग्य मजकूर आढळले नाही.">
 
+<!ENTITY contentBlocking.trackingProtection3.label "ट्रॅकर">
 
 <!ENTITY contentBlocking.manageSettings.accesskey "M">
 
 
+<!ENTITY contentBlocking.cookies.label "कुकीज">
+<!ENTITY contentBlocking.cookiesView.label "कुकीज आणि साईट माहिती">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "समस्या नोंदवा">
 <!ENTITY contentBlocking.breakageReportView.label "समस्या अहवाल द्या">
@@ -1108,3 +1112,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "<image class='addon-toolbar-icon'/> या मेनूत <image class='addon-addon-icon'/> वर क्लिक करून ऍड-ऑन व्यवस्थापित करा.">
 
+<!ENTITY addonPrivateBrowsing.okButton.label "ठीक आहे, समजले">
+<!ENTITY addonPrivateBrowsing.okButton.accesskey "O">
+<!ENTITY addonPrivateBrowsing.manageButton.label "एक्सटेन्शन व्यवस्थापित करा">
+<!ENTITY addonPrivateBrowsing.manageButton.accesskey "M">
