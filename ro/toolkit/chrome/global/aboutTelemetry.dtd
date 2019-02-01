@@ -23,7 +23,6 @@
 <!ENTITY aboutTelemetry.firefoxDataDoc "<a>Documentația de date Firefox</a> conține ghiduri despre cum să lucrezi cu uneltele noastre de date.">
 <!ENTITY aboutTelemetry.telemetryClientDoc "<a>Documentația privind clientul de telemetrie Firefox</a> include definiții de concepte, documentație API și referințe de date.">
 <!ENTITY aboutTelemetry.telemetryDashboard "<a>Tabloul de bord pentru telemetrie</a> îți permite să vizualizezi datele pe care Mozilla le primește prin intermediul telemetriei.">
-
 <!ENTITY aboutTelemetry.telemetryProbeDictionary "<a>Dicționarul de sonde</a> furnizează detalii și descrieri ale sondelor gestionate de telemetrie.">
 
 <!ENTITY aboutTelemetry.showInFirefoxJsonViewer "Deschide în vizualizatorul JSON">
@@ -32,8 +31,8 @@
 <!ENTITY aboutTelemetry.generalDataSection "Date generale">
 <!ENTITY aboutTelemetry.environmentDataSection "Date privind mediul">
 <!ENTITY aboutTelemetry.sessionInfoSection "Informații privind sesiunea">
-<!ENTITY aboutTelemetry.scalarsSection "Mărimi scalare">
-<!ENTITY aboutTelemetry.keyedScalarsSection "Mărimi scalare cu cuvinte cheie">
+<!ENTITY aboutTelemetry.scalarsSection "Scalari">
+<!ENTITY aboutTelemetry.keyedScalarsSection "Scalari cu cuvinte cheie">
 <!ENTITY aboutTelemetry.histogramsSection "Histograme">
 <!ENTITY aboutTelemetry.keyedHistogramsSection "Histograme de chei">
 <!ENTITY aboutTelemetry.eventsSection "Evenimente">
