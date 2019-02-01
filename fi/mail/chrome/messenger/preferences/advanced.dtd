@@ -48,7 +48,7 @@
 <!ENTITY telemetryLearnMore.label        "Lue lisää">
 
 <!ENTITY crashReporterSection.label      "Kaatumisen raportointi">
-<!ENTITY crashReporterDesc.label         "&brandShortName; lähettää tiedot kaatumisista &vendorShortName;:lle, jotta voimme tehdä sähköpostiohjelmastasi vakaamman ja turvallisemman">
+<!ENTITY crashReporterDesc.label         "&brandShortName; lähettää tiedot kaatumisista &vendorShortName;lle, jotta voimme tehdä sähköpostiohjelmastasi vakaamman ja turvallisemman">
 <!ENTITY enableCrashReporter.label       "Ota kaatumisten raportointi käyttöön">
 <!ENTITY enableCrashReporter.accesskey   "i">
 <!ENTITY crashReporterLearnMore.label    "Lue lisää">
