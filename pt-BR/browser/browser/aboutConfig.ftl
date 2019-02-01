@@ -5,6 +5,7 @@
 # An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
 about-config-warning-title = Audaciosamente indo, onde ninguém jamais esteve!
 about-config-warning-text = Alterar essas configurações avançadas pode prejudicar a estabilidade, segurança e desempenho desta aplicação. Você só deve continuar se estiver seguro do que está fazendo.
+about-config-warning-checkbox = Sempre mostrar este aviso
 about-config-warning-button = Eu aceito o risco
 about-config-title = about:config
 about-config-search =
