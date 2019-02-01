@@ -49,7 +49,7 @@
 <!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
 <!ENTITY  tab_offline_version "Näytetään yhteydettömän tilan versio">
 
-<!ENTITY  crash_reporter_title "&brandShortName; kaatumisen raportointi">
+<!ENTITY  crash_reporter_title "&brandShortName;-kaatumisen raportointi">
 <!ENTITY  crash_message2 "&brandShortName; kohtasi odottamattoman ongelman ja kaatui. Avoinna olleiden välilehtien pitäisi olla listattuna aloitussivulla kun käynnistät &brandShortName;in uudestaan">
 <!ENTITY  crash_send_report_message3 "Kerro virheestä &vendorShortName;lle ja auta heitä korjaamaan vika">
 <!ENTITY  crash_include_url2 "Lähetä avoinna olleen sivun osoite">
@@ -443,7 +443,7 @@
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; lähettää tiedot kaatumisista &vendorShortName;lle, jotta voimme tehdä selaimestasi vakaamman ja turvallisen">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
-<!ENTITY datareporting_crashreporter_title_short "Kaatumisten raportointi">
+<!ENTITY datareporting_crashreporter_title_short "Kaatumisen raportointi">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName;n paikannuspalvelut">
 <!ENTITY datareporting_wifi_geolocation_summary4 "Auta  &vendorShortName;a kartoittamaan maailma! Jaa Wi-Fi- ja matkapuhelinverkoista saatava arvioitu sijaintitietosi parantaaksesi paikannuspalvelujamme.">
 <!-- Localization note (datareporting_notification_title ) : This will be the title
