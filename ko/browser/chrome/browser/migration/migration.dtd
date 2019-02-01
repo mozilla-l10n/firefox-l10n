@@ -32,7 +32,7 @@
 <!ENTITY importFrom360se.label          "360 Secure Browser">
 <!ENTITY importFrom360se.accesskey      "3">
 
-<!ENTITY noMigrationSources.label       "북마크, 방문 기록 또는 암호 데이터를 포함하고 있는 프로그램을 찾을 수 없습니다.">
+<!ENTITY noMigrationSources.label       "북마크, 방문 기록 또는 비밀번호 데이타를 포함하고 있는 프로그램을 찾을 수 없습니다.">
 
 <!ENTITY importSource.title             "환경 설정 및 항목 가져오기">
 <!ENTITY importItems.title              "가져올 항목">

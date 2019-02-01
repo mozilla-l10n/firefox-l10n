@@ -532,10 +532,10 @@ forms-saved-logins =
     .label = 저장된 로그인…
     .accesskey = L
 forms-master-pw-use =
-    .label = 정보 보호을 위해 기본 암호 사용
+    .label = 정보 보호을 위해 기본 비밀번호 사용
     .accesskey = U
 forms-master-pw-change =
-    .label = 기본 암호 변경…
+    .label = 기본 비밀번호 변경…
     .accesskey = M
 
 ## Privacy Section - History
