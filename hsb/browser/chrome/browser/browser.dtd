@@ -1129,6 +1129,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addonPostInstallMessage.label "Klikńće na <image class='addon-addon-icon'/> w meniju <image class='addon-toolbar-icon'/>, zo byšće swoje přidatki rjadował.">
 
 <!ENTITY addonPrivateBrowsing.header.label "Rozšěrjenja w priwatnych woknach">
+<!ENTITY addonPrivateBrowsing.body.label "Po standardźe rozšěrjenja njesmědźa so w priwatnych woknach wuwjesć. Njefunguja w priwatnym modusu, a nimaja přistup na waše aktiwity online. Móžeće kóždemu rozšěrjenju dowolić, zo so w priwatnych woknach wuwjedźe, jeli to w swojich nastajenjach nastajeće.">
 <!ENTITY addonPrivateBrowsing.okButton.label "W porjadku, sym zrozumił">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "z">
 <!ENTITY addonPrivateBrowsing.manageButton.label "Rozšěrjenja rjadować">
