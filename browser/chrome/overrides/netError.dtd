@@ -11,7 +11,9 @@
 <!ENTITY returnToPreviousPage1.label "मागे जा (शिफारसीय)">
 <!ENTITY advanced.label "प्रगत">
 <!ENTITY continue2.label "अधिक…">
+<!ENTITY advanced2.label "प्रगत…">
 <!ENTITY moreInformation.label "अधिक माहिती">
+<!ENTITY viewCertificate.label "प्रमाणपत्र पहा">
 
 <!-- Specific error messages -->
 
