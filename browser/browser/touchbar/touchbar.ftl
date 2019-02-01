@@ -5,3 +5,6 @@
 # Strings in this file are used to localize button titles displayed on the 
 # MacBook Touch Bar.
 back = मागे
+forward = पुढे
+find = शोधा
+new-tab = नवीन टॅब
