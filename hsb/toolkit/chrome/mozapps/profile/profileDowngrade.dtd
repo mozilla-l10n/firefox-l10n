@@ -12,6 +12,7 @@
 <!ENTITY window.title "Sće staršu wersiju Firefox startował">
 <!ENTITY window.style "width: 490px;">
 
+<!ENTITY window.nosync "Wužiwanje staršeje wersije Firefox móže zapołožki a přehladowansku historiju wobškodźić, kotrež su so hižo w eksistowacym profilu Firefox składowali. Zo byšće swoje informacije škitał, załožće nowy profil za tutu instalaciju &brandShortName;.">
 
 <!ENTITY window.create "Nowy profil załožić">
 <!ENTITY window.quit-win "Skónčić">
