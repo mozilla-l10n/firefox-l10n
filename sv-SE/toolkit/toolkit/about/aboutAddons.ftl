@@ -90,6 +90,7 @@ detail-update-manual =
     .tooltiptext = Installera inte uppdateringar automatiskt
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Kör i privata fönster
+detail-private-browsing-description = Tillägg kommer att fungera i privata fönster och ha tillgång till dina aktiviteter på nätet. <label data-l10n-name="detail-private-browsing-learn-more">Läs mer</label>
 detail-private-browsing-on =
     .label = Tillåt
     .tooltiptext = Aktivera i privat surfning
@@ -138,6 +139,11 @@ legacy-warning-show-legacy = Visa äldre tillägg
 legacy-extensions =
     .value = Äldre tillägg
 legacy-extensions-description = Dessa tillägg uppfyller inte nuvarande standarder i { -brand-short-name } så de har inaktiverats. <label data-l10n-name="legacy-learn-more">Läs mer om ändringar av tillägg</label>
+private-browsing-description =
+    Tillägg får inte köras som standard i privata fönster. Det betyder att de inte kommer att fungera
+    medan privat surfning och de kommer inte ha tillgång till dina aktiviteter på nätet där. Att tillåta
+    ett tillägg som ska köras i privata fönster, välj tilläggskortet nedan och ändra din inställning.
+    <label data-l10n-name="private-browsing-learn-more">Läs mer.</label>
 extensions-view-discover =
     .name = Hämta tillägg
     .tooltiptext = { extensions-view-discover.name }
