@@ -23,7 +23,7 @@
 <!ENTITY rights.intro-point2-c ".">
 
 <!-- point 2.5 text for official branded builds -->
-<!ENTITY rights.intro-point2.5 "Jotkin &brandShortName;in ominaisuudet, kuten kaatumisten ilmoitustyökalu, antavat mahdollisuuden lähettää palautetta &vendorShortName;lle. Lähettämällä palautetta annat &vendorShortName;lle luvan käyttää lähetettyjä tietoja parantamaan tuotetta, julkaisemaan lähetetyn palautteen verkkosivuilla ja jakelemaan lähetettyjä palautetietoja.">
+<!ENTITY rights.intro-point2.5 "Jotkin &brandShortName;in ominaisuudet, kuten kaatumisten raportointi, antavat mahdollisuuden lähettää palautetta &vendorShortName;lle. Lähettämällä palautetta annat &vendorShortName;lle luvan käyttää lähetettyjä tietoja parantamaan tuotetta, julkaisemaan lähetetyn palautteen verkkosivuilla ja jakelemaan lähetettyjä palautetietoja.">
 
 <!-- point 3 text for official branded builds -->
 <!ENTITY rights2.intro-point3a "">
