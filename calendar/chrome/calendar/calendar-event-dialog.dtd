@@ -4,6 +4,8 @@
 
 <!ENTITY event.title.label                  "Chỉnh sửa Mục" >
 
+<!ENTITY event.dialog.keepDurationButton.tooltip   "Giữ thời lượng khi thay đổi ngày kết thúc">
+<!ENTITY event.dialog.keepDurationButton.accesskey "K">
 
 <!ENTITY newevent.from.label                "Từ" >
 <!ENTITY newevent.to.label                  "Tới" >
@@ -31,6 +33,14 @@
      event.attendees.disallowcounter.label)
    - These three labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
+<!ENTITY event.attendees.notify.label                "Thông báo cho người tham dự">
+<!ENTITY event.attendees.notify.accesskey            "f">
+<!ENTITY event.attendees.notifyundisclosed.label     "Lời mời riêng cho mỗi người tham dự">
+<!ENTITY event.attendees.notifyundisclosed.accesskey "x">
+<!ENTITY event.attendees.notifyundisclosed.tooltip   "Tùy chọn này sẽ gửi một email mời cho mỗi người tham dự. Mỗi lời mời chỉ chứa người tham dự người nhận để các danh tính người tham dự khác không được tiết lộ.">
+<!ENTITY event.attendees.disallowcounter.label       "Không cho phép truy cập">
+<!ENTITY event.attendees.disallowcounter.accesskey   "a">
+<!ENTITY event.attendees.disallowcounter.tooltip     "Cho biết rằng bạn sẽ không chấp nhận phản đối">
 
 <!-- Keyboard Shortcuts -->
 <!ENTITY event.dialog.new.event.key2              "I">
@@ -68,6 +78,7 @@
    - when editing events/tasks in a tab. -->
 <!ENTITY  event.menu.item.save.label                      "Lưu">
 <!ENTITY  event.menu.item.save.accesskey                  "L">
+<!ENTITY  event.menu.item.save.tab.accesskey              "a">
 
 <!-- LOCALIZATION NOTE
     - event.menu.item.saveandclose.accesskey is used for "Save and Close"
@@ -76,6 +87,7 @@
     - when editing events/tasks in a tab. -->
 <!ENTITY  event.menu.item.saveandclose.label              "Lưu và Đóng">
 <!ENTITY  event.menu.item.saveandclose.accesskey          "v">
+<!ENTITY  event.menu.item.saveandclose.tab.accesskey      "z">
 
 <!ENTITY  event.menu.item.delete.label                    "Xóa…">
 <!ENTITY  event.menu.item.delete.accesskey                "X">
@@ -114,6 +126,8 @@
 <!ENTITY  event.menu.options.accesskey                        "y">
 <!ENTITY  event.menu.options.attendees.label                  "Mời khách Tham dự…">
 <!ENTITY  event.menu.options.attendees.accesskey              "M">
+<!ENTITY  event.menu.options.timezone2.label                  "Hiển thị múi giờ">
+<!ENTITY  event.menu.options.timezone2.accesskey              "z">
 <!ENTITY  event.menu.options.priority2.label                  "Ưu tiên">
 <!ENTITY  event.menu.options.priority2.accesskey              "u">
 <!ENTITY  event.menu.options.priority.notspecified.label      "Không xác định">
@@ -145,12 +159,27 @@
 <!ENTITY event.email.attendees.accesskey                  "a">
 <!ENTITY event.email.tentative.attendees.label            "Gửi Email cho các Khách tham dự Chưa quyết định…">
 <!ENTITY event.email.tentative.attendees.accesskey        "u">
+<!ENTITY event.remove.attendees.label2                    "Xóa tất cả những người tham dự">
+<!ENTITY event.remove.attendees.accesskey                 "r">
+<!ENTITY event.remove.attendee.label                      "Xóa người tham dự">
+<!ENTITY event.remove.attendee.accesskey                  "e">
 
 <!-- Toolbar -->
+<!ENTITY  event.toolbar.save.label2                       "Lưu">
+<!ENTITY  event.toolbar.saveandclose.label                "Lưu và đóng">
 <!ENTITY  event.toolbar.delete.label                      "Xóa">
 <!ENTITY  event.toolbar.attendees.label                   "Mời khách Tham dự">
 <!ENTITY  event.toolbar.privacy.label                     "Riêng tư">
 
+<!ENTITY  event.toolbar.save.tooltip2                     "Lưu">
+<!ENTITY  event.toolbar.saveandclose.tooltip              "Lưu và đóng">
+<!ENTITY  event.toolbar.delete.tooltip                    "Xóa">
+<!ENTITY  event.toolbar.attendees.tooltip                 "Mời khách tham dự">
+<!ENTITY  event.toolbar.attachments.tooltip               "Thêm đính kèm">
+<!ENTITY  event.toolbar.privacy.tooltip                   "Thay đổi quyền riêng tư">
+<!ENTITY  event.toolbar.priority.tooltip                  "Thay đổi ưu tiên">
+<!ENTITY  event.toolbar.status.tooltip                    "Thay đổi trạng thái">
+<!ENTITY  event.toolbar.freebusy.tooltip                  "Thay đổi thời gian rảnh/bận">
 
 <!-- Counter box -->
 <!-- LOCALIZATON NOTE(counter.button.*)
@@ -159,6 +188,12 @@
    - populate the form fields in the dialog, there's no other immediate action on clicking like with
    - the imip bar. Rescheduling will happen after clicking on save&close as usual. This screenshot
    - illustrates how it might look like: https://bugzilla.mozilla.org/attachment.cgi?id=8810121 -->
+<!ENTITY counter.button.proposal.label                    "Áp dụng đề xuất">
+<!ENTITY counter.button.proposal.accesskey                "p">
+<!ENTITY counter.button.proposal.tooltip2                 "Các trường sự kiện sẽ được điền vào bằng cách sử dụng các giá trị từ phản hồi, chỉ lưu có hoặc không có thay đổi bổ sung sẽ thông báo cho tất cả người tham dự theo đó">
+<!ENTITY counter.button.original.label                    "Áp dụng dữ liệu gốc">
+<!ENTITY counter.button.original.accesskey                "r">
+<!ENTITY counter.button.original.tooltip2                 "Các trường sẽ được đặt thành các giá trị từ sự kiện ban đầu, trước khi phản hồi được thực hiện">
 
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Tiêu đề:" >
