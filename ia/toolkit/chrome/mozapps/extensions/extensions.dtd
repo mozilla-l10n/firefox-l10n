@@ -1,111 +1,12 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!ENTITY addons.windowTitle                   "Gestor de additivos">
-
-<!ENTITY search.placeholder2                  "Cercar sur addons.mozilla.org">
-
-<!ENTITY search.placeholder3                  "Cercar sur addons.mozilla.org">
-<!ENTITY search.buttonlabel                   "Cercar">
-<!-- LOCALIZATION NOTE (search.commandkey):
-     The search command key should match findOnCmd.commandkey from browser.dtd -->
-<!ENTITY search.commandkey                    "f">
-
-<!ENTITY loading.label                        "Cargante…">
-<!ENTITY listEmpty.installed.label            "Tu non ha additivos de iste typo installate">
-<!ENTITY listEmpty.availableUpdates.label     "Nulle actualisationes trovate">
-<!ENTITY listEmpty.recentUpdates.label        "Tu non ha actualisate ulle additivo recentemente">
-<!ENTITY listEmpty.findUpdates.label          "Cercar actualisationes">
-<!ENTITY listEmpty.button.label               "Saper plus super additivos">
-<!ENTITY installAddonFromFile.label           "Installar additivo ab un file…">
-<!ENTITY installAddonFromFile.accesskey       "I">
-<!ENTITY toolsMenu.tooltip                    "Instrumentos pro tote le additivos">
-
-<!ENTITY getThemes.description                "Desira tu personalisar tu navigator?">
-<!ENTITY getThemes.learnMore                  "Elige inter milles de themas.">
-
-
-<!ENTITY showUnsignedExtensions.button.label  "Alcun extensiones non poteva esser verificate">
-<!ENTITY showAllExtensions.button.label       "Monstrar tote le extensiones">
-<!ENTITY debugAddons.label                    "Depurar le additivos">
-<!ENTITY debugAddons.accesskey                "D">
-
-<!-- global warnings -->
-<!ENTITY warning.safemode.label                    "Tote le additivos ha essite inactivate per le modo secur.">
-<!ENTITY warning.checkcompatibility.label          "Le verification de compatibilitate de additivos es inactive. Tu pote haber additivos incompatibile.">
-<!ENTITY warning.checkcompatibility.enable.label   "Activar">
-<!ENTITY warning.checkcompatibility.enable.tooltip "Activar le verification de compatibilitate de additivos">
-<!ENTITY warning.updatesecurity.label              "Le verification de securitate pro le actualisation del additivos es inactive. Tu pote esser compromittite per actualisationes.">
-<!ENTITY warning.updatesecurity.enable.label       "Activar">
-<!ENTITY warning.updatesecurity.enable.tooltip     "Activar le verification de securitate pro le actualisation del additivos">
-
-<!-- categories / views -->
-<!ENTITY view.discover.label                  "Obtener additivos">
-<!ENTITY view.recentUpdates.label             "Actualisationes recente">
-<!ENTITY view.availableUpdates.label          "Actualisationes disponibile">
-
-<!ENTITY helpButton.label                      "Assistentia del additivos">
-<!ENTITY preferencesWin.label                  "&brandShortName; optiones">
-<!ENTITY preferencesUnix.label                 "&brandShortName; preferentias">
-
-<!-- addon updates -->
-<!ENTITY updates.checkForUpdates.label        "Cercar actualisationes">
-<!ENTITY updates.checkForUpdates.accesskey    "C">
-<!ENTITY updates.viewUpdates.label            "Vider le actualisationes recente">
-<!ENTITY updates.viewUpdates.accesskey        "V">
-<!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
-     is a checkbox that toggles the default global behavior for add-on update
-     checking. -->
-<!ENTITY updates.updateAddonsAutomatically.label     "Actualisar le additivos automaticamente">
-<!ENTITY updates.updateAddonsAutomatically.accesskey "A">
-<!-- LOCALIZATION NOTE (updates.resetUpdatesToAutomatic.label, updates.resetUpdatesToManual.label):
-     Specific addons can have custom update checking behaviors ("Manually",
-     "Automatically", "Use default global behavior"). These menu items reset the
-     update checking behavior for all add-ons to the default global behavior
-     (which itself is either "Automatically" or "Manually", controlled by the
-     updates.updateAddonsAutomatically.label menu item). -->
-<!ENTITY updates.resetUpdatesToAutomatic.label       "Redefinir tote le additivos faciente los actualisar automaticamente">
-<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "R">
-<!ENTITY updates.resetUpdatesToManual.label          "Redefinir tote le additivos faciente los actualisar manualmente">
-<!ENTITY updates.resetUpdatesToManual.accesskey      "R">
-<!ENTITY updates.updating.label               "Actualisante additivos">
-<!ENTITY updates.installed.label              "Tu additivos ha essite actualisate.">
-<!ENTITY updates.downloaded.label             "Le actualisationes de tu additivos ha essite discargate.">
-<!ENTITY updates.restart.label                "Reinitiar pro completar le installation">
-<!ENTITY updates.noneFound.label              "Nulle actualisationes trovate">
-<!ENTITY updates.manualUpdatesFound.label     "Vider le actualisationes disponibile">
-<!ENTITY updates.updateSelected.label         "Installar le actualisationes">
-<!ENTITY updates.updateSelected.tooltip       "Installar le actualisationes disponibile de iste lista">
 
 <!-- addon actions -->
-<!ENTITY cmd.showDetails.label                "Monstrar plus informationes">
-<!ENTITY cmd.showDetails.accesskey            "S">
-<!ENTITY cmd.findUpdates.label                "Cercar actualisationes">
-<!ENTITY cmd.findUpdates.accesskey            "C">
-<!ENTITY cmd.preferencesWin.label             "Optiones">
-<!ENTITY cmd.preferencesWin.accesskey         "O">
-<!ENTITY cmd.preferencesUnix.label            "Preferentias">
-<!ENTITY cmd.preferencesUnix.accesskey        "P">
-
-
-
-
-
-
-
-
-
 <!ENTITY cmd.enableAddon.label                "Activar">
 <!ENTITY cmd.enableAddon.accesskey            "A">
 <!ENTITY cmd.disableAddon.label               "Inactivar">
 <!ENTITY cmd.disableAddon.accesskey           "I">
-<!ENTITY cmd.enableTheme.label                "Applicar le thema">
-<!ENTITY cmd.enableTheme.accesskey            "A">
-<!ENTITY cmd.disableTheme.label               "Cessar le uso del thema">
-<!ENTITY cmd.disableTheme.accesskey           "C">
-
-
-
 
 <!ENTITY cmd.askToActivate.label              "Demandar pro activar">
 <!ENTITY cmd.askToActivate.tooltip            "Demandar cata vice si usar iste additivo">
@@ -114,9 +15,6 @@
 <!ENTITY cmd.neverActivate.label              "Non activar jammais">
 <!ENTITY cmd.neverActivate.tooltip            "Non usar jammais iste additivo">
 <!ENTITY cmd.stateMenu.tooltip                "Cambiar quando iste additivo es activate">
-<!ENTITY cmd.installAddon.label               "Installar">
-<!ENTITY cmd.installAddon.accesskey           "I">
-
 
 <!ENTITY cmd.uninstallAddon.label             "Remover">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
@@ -124,12 +22,6 @@
 <!ENTITY cmd.showPreferencesWin.tooltip       "Cambiar le optiones de iste additivo">
 <!ENTITY cmd.showPreferencesUnix.label        "Preferentias">
 <!ENTITY cmd.showPreferencesUnix.tooltip      "Cambiar le preferentias de iste additivo">
-<!ENTITY cmd.contribute.label                 "Contribuer">
-<!ENTITY cmd.contribute.accesskey             "C">
-<!ENTITY cmd.contribute.tooltip               "Contribuer al developpamento de iste additivo">
-
-
-
 
 <!ENTITY cmd.showReleaseNotes.label           "notas del revision">
 <!ENTITY cmd.showReleaseNotes.tooltip         "Monstrar le notas de revision de iste actualisation">
@@ -137,57 +29,8 @@
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Celar le notas de revision de iste actualisation">
 <!ENTITY cmd.findReplacement.label            "Trovar un reimplaciamento">
 
-<!-- discovery view -->
-<!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
-     Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
-<!ENTITY discover.title                       "Que es additivos?">
-<!ENTITY discover.description2                "Le additivos es applicationes que te permitte de personalisar &brandShortName; con 
-  functionalitate o stilo extra. Essaya un barra lateral utile pro te, un notificator de conditiones climatic, o un apparentia personalisate pro facer &brandShortName;
-  a tu gusto.">
-<!ENTITY discover.footer                      "Quando tu es connectite a Internet, iste pannello te presentara
-  alcun del melior e plus popular additivos a fin que tu los experimenta.">
-
-<!-- detail view -->
-<!ENTITY detail.version.label                 "Version">
-<!ENTITY detail.lastupdated.label             "Ultime actualisation">
-<!ENTITY detail.creator.label                 "Developpator">
-<!ENTITY detail.homepage.label                "Pagina initial">
-
-<!ENTITY detail.contributions.description     "Le developpator de iste additivo demanda que tu le adjuta assecurar su developpamento continue faciente un parve contribution.">
-
-<!ENTITY detail.updateType                    "Actualisationes automatic">
-<!ENTITY detail.updateDefault.label           "Predefinite">
-<!ENTITY detail.updateDefault.tooltip         "Installa automaticamente le actualisationes solmente si isto es le predefinition">
-<!ENTITY detail.updateAutomatic.label         "Active">
-<!ENTITY detail.updateAutomatic.tooltip       "Installae automaticamente le actualisationes">
-<!ENTITY detail.updateManual.label            "Inactive">
-<!ENTITY detail.updateManual.tooltip          "Non installar automaticamente le actualisationes">
-<!ENTITY detail.home                          "Pagina initial">
-<!ENTITY detail.repository                    "Profilo del additivo">
-<!ENTITY detail.size                          "Dimension">
-
-<!ENTITY detail.checkForUpdates.label         "Cercar actualisationes">
-<!ENTITY detail.checkForUpdates.accesskey     "C">
-<!ENTITY detail.checkForUpdates.tooltip       "Cercar actualisationes pro iste additivo">
-<!ENTITY detail.showPreferencesWin.label      "Optiones">
-<!ENTITY detail.showPreferencesWin.accesskey  "O">
-<!ENTITY detail.showPreferencesWin.tooltip    "Cambiar le optiones de iste additivo">
-<!ENTITY detail.showPreferencesUnix.label     "Preferentias">
-<!ENTITY detail.showPreferencesUnix.accesskey "P">
-<!ENTITY detail.showPreferencesUnix.tooltip   "Cambiar le preferentias de iste additivo">
-
-
-<!-- ratings -->
-<!ENTITY rating2.label                        "Valutation">
-
-
 <!-- download/install progress -->
-<!ENTITY progress.pause.tooltip               "Pausar">
-
 <!ENTITY progress.cancel.tooltip              "Cancellar">
-
-<!ENTITY addon.homepage                       "Pagina initial">
-
 
 <!ENTITY addon.details.label                  "Plus">
 <!ENTITY addon.details.tooltip                "Monstrar plus detalios concernente iste additivo">
@@ -196,6 +39,7 @@
      to the add-on name for extensions that are not webextensions, which
      will stop working in Firefox 57. -->
 <!ENTITY addon.legacy.label                   "OBSOLETE">
+<!ENTITY addon.privateBrowsing.label          "CONSENTIR IN FENESTRA PRIVATE">
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
      "<Addon name> <1.0> (disabled)" -->
@@ -209,7 +53,6 @@
 <!ENTITY addon.undoAction.tooltip             "Disfacer iste action">
 <!ENTITY addon.undoRemove.label               "Disfacer">
 <!ENTITY addon.undoRemove.tooltip             "Mantener iste additivo installate">
-<!ENTITY addon.restartNow.label               "Reinitiar ora">
 
 <!ENTITY addon.install.label                  "Installar">
 <!ENTITY addon.install.tooltip                "Installar iste additivo">
@@ -224,34 +67,5 @@
 
 <!ENTITY addon.createdBy.label                "Per ">
 
-<!ENTITY eula.title                           "Accordo de licentia pro le usator final">
-<!ENTITY eula.width                           "560px">
-<!ENTITY eula.height                          "400px">
-<!ENTITY eula.accept                          "Acceptar e Installar…">
-
 <!ENTITY settings.path.button.label           "Perquirer…">
-
 <!ENTITY setting.learnmore "Saper plus…">
-
-<!ENTITY disabledUnsigned.heading "Alcun additivos ha essite inactivate">
-<!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
-     These entities form a sentence, with
-     disabledUnsigned.description.findAddonsLink being a link to an external site. -->
-<!ENTITY disabledUnsigned.description.start "Le additivos sequente non ha essite verificate pro le utilisation in &brandShortName;. Tu pote ">
-<!ENTITY disabledUnsigned.description.findAddonsLink "trovar le reimplaciamentos">
-<!ENTITY disabledUnsigned.description.end " o demandar al developpator de los verificar.">
-<!ENTITY disabledUnsigned.learnMore "Saper plus super nostre effortios pro adjutar a guardar tu securitate in linea.">
-<!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
-     These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
-     being a link to an external site. -->
-<!ENTITY disabledUnsigned.devInfo.start "Developpatores interessate in devenir lor additivos verificate pote continuar legente nostre ">
-<!ENTITY disabledUnsigned.devInfo.linkToManual "manual">
-<!ENTITY disabledUnsigned.devInfo.end ".">
-
-<!ENTITY pluginDeprecation.description "Alcun cosa manca? Alcun plugins non es plus admittite per &brandShortName;.">
-<!ENTITY pluginDeprecation.learnMore "Saper plus.">
-
-<!ENTITY legacyWarning.showLegacy "Monstrar le extensiones obsolete">
-<!ENTITY legacyExtensions.title "Extensiones obsolete">
-<!ENTITY legacyExtensions.description "Ille extensiones non concorda le standardos currente de &brandShortName; assi illos esseva disactivate.">
-<!ENTITY legacyExtensions.learnMore "Sape lo que cambiava al additivos">

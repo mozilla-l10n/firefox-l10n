@@ -93,6 +93,12 @@ detail-update-automatic =
 detail-update-manual =
     .label = Inactive
     .tooltiptext = Non installar automaticamente le actualisationes
+detail-private-browsing-on =
+    .label = Consentir
+    .tooltiptext = Activar in navigation anonime
+detail-private-browsing-off =
+    .label = Non consentir
+    .tooltiptext = Disactiva in navigation priovate
 detail-home =
     .label = Pagina initial
 detail-home-value =
@@ -215,8 +221,6 @@ extensions-updates-update-selected =
 
 ## Extension shortcut management
 
-shortcuts-manage =
-    .label = Vias breve de claviero
 manage-extensions-shortcuts =
     .label = Gerer le vias breve del extension
     .accesskey = V
@@ -232,5 +236,6 @@ shortcuts-modifier-other = Include Ctrl o Alt
 shortcuts-invalid = Combination non valide
 shortcuts-letter = Scribe un littera
 shortcuts-system = Impossibile supplantar un via breve de { -brand-short-name }
+shortcuts-card-collapse-button = Monstrar minus
 go-back-button =
     .tooltiptext = Regreder
