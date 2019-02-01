@@ -8,3 +8,7 @@
 ### given Firefox channel". These terms are not synonymous.
 
 title = Notícias importantes
+heading = Mudanças no seu perfil do { -brand-short-name }
+changed-title = O que mudou?
+changed-desc-profiles = Esta instalação do { -brand-short-name } tem um novo perfil. Um perfil é um conjunto de arquivos onde o Firefox salva informações como favoritos, senhas e preferências do usuário.
+changed-desc-dedicated = Para tornar mais fácil e seguro alternar entre instalações do Firefox (incluindo Firefox, Firefox ESR, Firefox Beta, Firefox Developer Edition e Firefox Nightly), esta instalação agora tem um perfil dedicado. Ele não compartilha automaticamente suas informações salvas com outras instalações do Firefox.
