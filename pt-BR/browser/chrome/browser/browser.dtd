@@ -1130,3 +1130,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY addonPrivateBrowsing.header.label "Extensões em janelas privativas">
 <!ENTITY addonPrivateBrowsing.body.label "Extensões não têm permissão por padrão para funcionar em janelas privativas. Elas não funcionarão durante a navegação privativa e não terão acesso à sua atividade online. Você pode, gerenciando suas configurações, permitir que cada extensão funcione em janelas privativas.">
+<!ENTITY addonPrivateBrowsing.okButton.label "OK, entendi">
+<!ENTITY addonPrivateBrowsing.okButton.accesskey "O">
+<!ENTITY addonPrivateBrowsing.manageButton.label "Gerenciar extensões">
+<!ENTITY addonPrivateBrowsing.manageButton.accesskey "G">
