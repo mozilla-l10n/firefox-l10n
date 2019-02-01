@@ -6,7 +6,7 @@
 about-config-warning-title = Njech su tu zmije!
 about-config-warning-text = Hdyž tute rozšěrjene nastajenja změniće, móže so to škódnje na stabilitu, wěstotu a wukon tutoho nałoženja wuskutkować. Wy měł jenož z tym pokročować, jeli sće sej wěsty, štož činiće.
 about-config-warning-checkbox = Wobćežuj mje zaso prošu!
-about-config-warning-button = Akceptuju riziko!
+about-config-warning-button = Akceptuju riziko
 about-config-title = about:config
 about-config-search =
     .placeholder = Pytajće abo tłóčće ESC, zo byšće wšě pokazał
