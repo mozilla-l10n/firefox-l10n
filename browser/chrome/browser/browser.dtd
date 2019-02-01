@@ -29,8 +29,6 @@ a tab (i.e. it is a verb, not adjective). -->
 <!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  duplicateTab.accesskey             "R">
-<!ENTITY  closeTabOptions.label              "Rejtarkowe nastajenja zacyniś">
-<!ENTITY  closeTabOptions.accesskey          "R">
 <!-- LOCALIZATION NOTE (duplicateTabs.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
 <!ENTITY  duplicateTabs.label                "Rejtarki pódwójś">
@@ -288,7 +286,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Daty w trajnem składowaku składowaś">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Wobglědowak se zdaloka wóźi">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Wobcerk webawtentifikacije wócyniś">
-
 <!ENTITY urlbar.storageAccessAnchor.tooltip               "Dialog za pšawa pśeglědowańskeje aktiwity wócyniś">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Źělenje wašeje kamery a/abo wašogo mikrofona ze sedłom zastojaś">
@@ -987,66 +984,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.title "Blokěrowanje wopśimjeśa">
 <!ENTITY contentBlocking.detected "Blokěrujobne wopśimjeśe jo se namakało na toś tom sedle.">
 <!ENTITY contentBlocking.notDetected "Žedno blokěrujobne wopśimjeśe jo se namakało na toś tom boku.">
-<!ENTITY contentBlocking.disabled.label "Znjemóžnjony">
-<!ENTITY contentBlocking.disabled.tooltip "Sćo znjemóžnił blokěrowanje wopśimjeśa.">
-<!ENTITY contentBlocking.exception.tooltip "Sćo znjemóžnił blokěrowanje wopśimjeśa za toś to sedło.">
-
-<!ENTITY contentBlocking.fastBlock.label "Pómałem cytajuce pśeslědowaki">
-<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
-     This label signals that this type of content blocking is turned
-     ON and is successfully blocking malicious/slow content, so this is
-     a positive thing. It forms the end of the (imaginary) sentence
-     "Slow-Loading Trackers [are] Blocked"-->
-<!ENTITY contentBlocking.fastBlock.blocked.label "Zablokěrowany">
-<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocking.label):
-     This label signals that this type of content blocking is turned
-     ON, so this is a positive thing. It forms the verb in (imaginary) sentence
-     "Firefox is blocking Slow-Loading Trackers"-->
-<!ENTITY contentBlocking.fastBlock.blocking.label "Blokěrujo">
-<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
-     This is displayed as a link to preferences, where the user can add
-     this specific type of content blocking. When this text is shown
-     the type of content blocking is currently not enabled. -->
-<!ENTITY contentBlocking.fastBlock.add.label "Blokěrowanje pśidaś…">
-
-<!ENTITY contentBlocking.trackingProtection2.label "Wšykne namakane pśeslědowaki">
 
 <!ENTITY contentBlocking.trackingProtection3.label "Pśeslědowaki">
-<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
-     This label signals that this type of content blocking is turned
-     ON and is successfully blocking tracker content, so this is
-     a positive thing. It forms the end of the (imaginary) sentence
-     "Trackers [are] Blocked"-->
-<!ENTITY contentBlocking.trackingProtection.blocked.label "Zablokěrowany">
-<!-- LOCALIZATION NOTE (contentBlocking.tranckingProtection.blocking.label):
-     This label signals that this type of content blocking is turned
-     ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
-     "Firefox is blocking Trackers"-->
-<!ENTITY contentBlocking.trackingProtection.blocking.label "Blokěrujo">
-<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
-     This is displayed as a link to preferences, where the user can add
-     this specific type of content blocking. When this text is shown
-     the type of content blocking is currently not enabled. -->
-<!ENTITY contentBlocking.trackingProtection.add.label "Blokěrowanje pśidaś…">
-
-<!ENTITY contentBlocking.3rdPartyCookies.label "Cookieje tśeśich póbitowarjow">
-<!ENTITY contentBlocking.3rdPartyCookies.trackers.label "Slědujuce cookieje">
-<!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.blocked.label):
-     This label signals that this type of content blocking is turned
-     ON and is successfully blocking third-party cookies, so this is
-     a positive thing. It forms the end of the (imaginary) sentence
-     "Third-Party Cookies [are] Blocked"-->
-<!ENTITY contentBlocking.3rdPartyCookies.blocked.label "Zablokěrowane">
-<!-- LOCALIZATION NOTE (contentBlocking.tranckingProtection.blocking.label):
-     This label signals that this type of content blocking is turned
-     ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
-     "Firefox is blocking Third-Party Cookies"-->
-<!ENTITY contentBlocking.3rdPartyCookies.blocking.label "Blokěrujo">
-<!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.add.label):
-     This is displayed as a link to preferences, where the user can add
-     this specific type of content blocking. When this text is shown
-     the type of content blocking is currently not enabled. -->
-<!ENTITY contentBlocking.3rdPartyCookies.add.label "Blokěrowanje pśidaś…">
 
 <!ENTITY contentBlocking.manageSettings.label "Blokěrowanje wopśimjeśa zastojaś">
 <!ENTITY contentBlocking.manageSettings.accesskey "B">
@@ -1066,22 +1005,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Rozpšawu pósłaś">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Pśetergnuś">
 
-<!ENTITY trackingProtection.title "Slědowański šćit">
-<!ENTITY trackingProtection.tooltip "Nastajenja slědowańskego šćita wócyniś">
-
-<!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock4.label "Blokěrowanje za toś to sedło znjemóžniś">
-<!ENTITY trackingProtection.unblock4.accesskey "n">
-<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate4.label "Blokěrowanje nachylu znjemóžniś">
-<!ENTITY trackingProtection.unblockPrivate4.accesskey "c">
-<!ENTITY trackingProtection.block5.label "Blokěrowanje za toś to sedło zmóžniś">
-<!ENTITY trackingProtection.block5.accesskey "z">
-
 <!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
@@ -1099,11 +1022,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pluginNotification.showAll.label "Wšykno pokazaś">
 <!ENTITY pluginNotification.showAll.accesskey "W">
-
-<!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
-<!ENTITY pluginActivateNow.label "Něnto dowóliś">
-<!ENTITY pluginActivateAlways.label "Dowóliś a se spomnjeś">
-<!ENTITY pluginBlockNow.label "Tykac blokěrowaś">
 
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
      width of the plugin popup notification that can appear if a plugin has been
@@ -1209,3 +1127,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Klikniśo na <image class='addon-addon-icon'/> w meniju <image class='addon-toolbar-icon'/>, aby swóje dodanki zastojał.">
+
+<!ENTITY addonPrivateBrowsing.header.label "Rozšyrjenja w priwatnych woknach">
+<!ENTITY addonPrivateBrowsing.okButton.label "W pórěźe, som zrozměł">
+<!ENTITY addonPrivateBrowsing.okButton.accesskey "z">
+<!ENTITY addonPrivateBrowsing.manageButton.label "Rozšyrjenja zastojaś">
+<!ENTITY addonPrivateBrowsing.manageButton.accesskey "R">

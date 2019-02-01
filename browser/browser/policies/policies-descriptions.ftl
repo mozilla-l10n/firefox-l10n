@@ -17,7 +17,7 @@ policy-BlockAboutConfig = Pśistup k bokoju about:config blokěrowaś.
 policy-BlockAboutProfiles = Pśistup k bokoju about:profiles blokěrowaś.
 policy-BlockAboutSupport = Pśistup k bokoju about:support blokěrowaś.
 policy-Bookmarks = Cytańske znamjenja w symbolowej rědce cytańskich znamjenjow, w meniju cytańskich znamjenjow abo w pódanem zastojniku w nima napóraś.
-policy-Certificates = Lěc se zatwarjone certifikaty wužywaju abo nic. Toś te pšawidła tuchylu jano za Windows płaśe.
+policy-CaptivePortal = Kaptiwny portal zmóžniś abo znjemóžniś
 policy-CertificatesDescription = Certifikaty pśidaś abo zatwarjone certifikaty wužywaś.
 policy-Cookies = Websedłam dowóliś abo zakazaś, cookieje składowaś.
 policy-DisableAppUpdate = Wobglědowakoju aktualizěrowanje zakazaś.
@@ -37,7 +37,6 @@ policy-DisableProfileImport = Menijowy pśikaz za importěrowanje datow z drugeg
 policy-DisableProfileRefresh = Tłocašk { -brand-short-name } wótnowiś na boku about:support znjemóžniś.
 policy-DisableSafeMode = Funkciju za znowegostartowanje we wěstem modusu znjemóžniś. Glědajśo: Tasta Umsch, z kótarejuž k wěstemu modusoju pśejźośo, dajo se jano pód Windowsom z pomocu kupkowych pšawidłow znjemóžniś.
 policy-DisableSecurityBypass = Wužywarjeju zakazaś, se wěstych wěstotnych warnowanjow wobinuś.
-policy-DisableSetDesktopBackground = Menijowy pśikaz Wobraz ako desktopowu slězynu nastajiś znjemóžniś.
 policy-DisableSetAsDesktopBackground = Menijowy pśikaz Ako desktopowu slězynu za wobraze nastajiś znjemóžniś.
 policy-DisableSystemAddonUpdate = Wobglědowakoju instalěrowanje a aktualizěrowanje systemowych dodankow zawoboraś.
 policy-DisableTelemetry = Telemetriju znjemóžniś.
@@ -49,8 +48,7 @@ policy-DontCheckDefaultBrowser = Kontrolu za standardnym wobglědowakom pśi sta
 policy-EnableTrackingProtection = Blokěrowanje wopśimjeśa zmóžniś abo znjemóžniś a jo na žycenje zastajiś.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
-# English or translate them as verbs. See also:
-# https://github.com/mozilla/policy-templates/blob/master/README.md#extensions-machine-only
+# English or translate them as verbs.
 policy-Extensions = Rozšyrjenja instalěrowaś, wótinstalěrowaś abo zastajiś. Instalaciska opcija ma URL abo sćažki ako parametry. Opciji Wótinstalěrowaś a Zastajiś ID wužywatej.
 policy-FlashPlugin = Wužywanje tykaca Flash dowóliś abo zakazaś.
 policy-HardwareAcceleration = Jolic njewěrno, hardwarowe póspěšenje znjemóžniś.
@@ -70,6 +68,7 @@ policy-SearchBar = Standardne městno pytańskego póla nastajiś. Wužywaŕ mó
 policy-SearchEngines = Nastajenja pytnicow konfigurěrowaś. Toś to pšawidło jo jano za wersiju Extended Support Release (ESR) k dispoziciji.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Module PKCS #11 instalěrowaś.
-# “format” refers to the format used for the value of this policy. See also:
-# https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
+policy-SSLVersionMax = Nastajśo maksimalnu SSL-wersiju.
+policy-SSLVersionMin = Nastajśo minimalnu SSL-wersiju.
+# “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Woglědowanju k websydłam zajźowaś. Glejśo dokumentaciju za dalšne drobnostki wó formaśe.
