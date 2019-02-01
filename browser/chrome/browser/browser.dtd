@@ -1128,4 +1128,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Hantera dina tillägg genom att klicka på <image class='addon-addon-icon'/> i menyn <image class='addon-toolbar-icon'/>.">
 
+<!ENTITY addonPrivateBrowsing.header.label "Tillägg i privata fönster">
+<!ENTITY addonPrivateBrowsing.okButton.label "Ok, jag förstår">
 <!ENTITY addonPrivateBrowsing.manageButton.label "Hantera tillägg">

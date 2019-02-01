@@ -8,6 +8,9 @@
 ### given Firefox channel". These terms are not synonymous.
 
 title = Viktiga nyheter
+heading = Ändringar till din { -brand-short-name } profil
+changed-title = Vad har ändrats?
+options-title = Vilka är mina alternativ?
 resources = Resurser:
 sync-header = Logga in eller skapa ett { -fxaccount-brand-name }
 sync-label = Ange din e-postadress
