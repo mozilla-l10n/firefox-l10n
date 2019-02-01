@@ -4,10 +4,6 @@
 
 do-not-track-description = Lähetä sivustoille Älä seuraa -signaali, että et halua sinua seurattavan
 do-not-track-learn-more = Lue lisää
-do-not-track-option-default =
-    .label = Vain käytettäessä seurannan suojausta
-do-not-track-option-default-content-blocking =
-    .label = Vain, kun { -brand-short-name } on asetettu estämään havaitut seuraimet
 do-not-track-option-default-content-blocking-known =
     .label = Vain, kun { -brand-short-name } on asetettu estämään tunnetut seuraimet
 do-not-track-option-always =
@@ -95,9 +91,6 @@ extension-controlled-default-search = Laajennus, <img data-l10n-name="icon"/> { 
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = Laajennus, <img data-l10n-name="icon"/> { $name }, vaatii eristetyt välilehdet.
-# This string is shown to notify the user that their tracking protection preferences
-# are being controlled by an extension.
-extension-controlled-websites-tracking-protection-mode = Laajennus, <img data-l10n-name="icon"/> { $name }, hallitsee seurannan suojausta.
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
 extension-controlled-websites-content-blocking-all-trackers = Laajennus, <img data-l10n-name="icon"/> { $name }, hallitsee tätä asetusta.
@@ -606,15 +599,10 @@ sitedata-total-size-calculating = Lasketaan sivustotietojen ja välimuistin koko
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Evästeet, sivustotiedot ja välimuisti vievät tällä hetkellä { $value } { $unit } levytilaa.
 sitedata-learn-more = Lue lisää
-sitedata-keep-until = Säilytä evästeet
-    .accesskey = t
-sitedata-keep-until-expire =
-    .label = kunnes ne vanhenevat
-sitedata-keep-until-closed =
-    .label = kunnes { -brand-short-name } suljetaan
 sitedata-delete-on-close =
     .label = Poista evästeet ja sivustotiedot, kun { -brand-short-name } suljetaan
     .accesskey = s
+sitedata-delete-on-close-private-browsing = Pysyvässä yksityisessä selaustilassa evästeet ja sivustotiedot poistetaan aina, kun { -brand-short-name } suljetaan.
 sitedata-allow-cookies-option =
     .label = Hyväksy evästeet ja sivustotiedot
     .accesskey = H
@@ -625,16 +613,6 @@ sitedata-disallow-cookies-option =
 # The list items are the strings named sitedata-block-*-option*.
 sitedata-block-desc = Tyyppi
     .accesskey = T
-sitedata-block-trackers-option-recommended =
-    .label = Kolmannen osapuolen seuraimet (suositus)
-sitedata-block-trackers-option =
-    .label = Kolmannen osapuolen seuraimet
-sitedata-block-unvisited-option =
-    .label = Evästeet vierailemattomilta sivustoilta
-sitedata-block-all-third-party-option =
-    .label = Kaikki 3. osapuolen evästeet (voi aiheuttaa sivustovirheitä)
-sitedata-block-all-option =
-    .label = Kaikki evästeet (aiheuttaa sivustovirheitä)
 sitedata-option-block-trackers =
     .label = Kolmannen osapuolen seuraimet
 sitedata-option-block-unvisited =
@@ -649,13 +627,6 @@ sitedata-clear =
 sitedata-settings =
     .label = Hallitse tietoja…
     .accesskey = H
-sitedata-cookies-exceptions =
-    .label = Poikkeukset…
-    .accesskey = P
-# This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
-# in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
-# Cookies and Site Data section.
-sitedata-warning-your-settings-prevent-changes = Sisällön eston asetukset estävät muutokset eväste- ja sivustotietoasetuksiin.
 sitedata-cookies-permissions =
     .label = Hallitse oikeuksia…
     .accesskey = o
@@ -678,41 +649,8 @@ addressbar-suggestions-settings = Muuta hakukoneiden ehdotusten asetuksia
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Sisällön esto
-content-blocking-desc = Voit estää kolmannen osapuolen sisältöä, kuten mainoksia tai koodia, joka hidastaa selaamistasi ja seuraa sinua ympäri verkkoa. Voit säätää asetuksia saavuttaaksesi parhaan suojan ja suorituskyvyn tasapainon.
 content-blocking-description = Voit estää kolmannen osapuolen sisältöä, joka seuraa sinua ympäri verkkoa. Voit myös hallita, kuinka paljon tekemisiäsi verkossa tallennetaan ja jaetaan sivustojen välillä.
 content-blocking-learn-more = Lue lisää
-content-blocking-restore-defaults =
-    .label = Palauta oletukset
-    .accesskey = o
-content-blocking-toggle-on =
-    .tooltiptext = Poista sisällön esto käytöstä
-content-blocking-toggle-off =
-    .tooltiptext = Ota sisällön esto käyttöön
-content-blocking-toggle-label-on = KÄYTÖSSÄ
-    .accesskey = K
-content-blocking-toggle-label-off = EI KÄYTÖSSÄ
-    .accesskey = K
-content-blocking-category-label = Valitse, mitä estetään
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-slow-loading-trackers-label =
-    .label = Hitaasti latautuvat seuraimet
-    .accesskey = H
-content-blocking-fastblock-new-description = Estää vain seuraimet, jotka estävät sivuja latautumasta nopeasti.
-content-blocking-tracking-protection-trackers-label =
-    .label = Seuraimet
-    .accesskey = t
-content-blocking-tracking-protection-all-detected-trackers-label =
-    .label = Kaikki havaitut seuraimet
-    .accesskey = K
-content-blocking-tracking-protection-new-description = Estää kaikki tunnetut seuraimet. (Saattaa estää joitain sivuja latautumasta.)
-content-blocking-tracking-protection-option-always =
-    .label = Aina
-    .accesskey = A
-content-blocking-tracking-protection-option-private =
-    .label = Vain yksityisissä ikkunoissa
-    .accesskey = y
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 content-blocking-setting-standard =
@@ -745,51 +683,12 @@ content-blocking-option-private =
     .label = Vain yksityisissä ikkunoissa
     .accesskey = V
 content-blocking-tracking-protection-change-block-list = Muuta estolistaa
-content-blocking-third-party-cookies-label =
-    .label = Kolmannen osapuolen evästeet
-    .accesskey = E
-content-blocking-reject-trackers-description = Estää kaikki kolmannen osapuolen evästeet tai vain seurainten asettamat evästeet.
-# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
-# of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
-# or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
-# the UI.
-content-blocking-reject-trackers-warning-your-settings-prevent-changes = Eväste- ja sivustotietoasetukset estävät muutokset kolmannen osapuolen evästeiden asetuksiin.
-content-blocking-change-cookie-settings =
-    .label = Muuta evästeasetuksia
-    .accesskey = M
-content-blocking-reject-trackers-block-trackers-option-recommended =
-    .label = Seuraimet (suositus)
-    .accesskey = S
-content-blocking-reject-trackers-block-trackers-option =
-    .label = Seuraimet
-    .accesskey = S
-content-blocking-reject-trackers-all-third-parties-option =
-    .label = Kaikki kolmannen osapuolen evästeet (voi aiheuttaa sivustojen toimimattomuutta)
-    .accesskey = K
 content-blocking-cookies-label =
     .label = Evästeet
     .accesskey = E
 
 ## Privacy Section - Tracking
 
-tracking-header = Seurannan suojaus
-tracking-desc = Seurannan suojaus estää verkossa toimivia seuraimia, jotka keräävät tietoja selaamisestasi yli sivustorajojen. <a data-l10n-name="learn-more">Lue lisää seurannan suojauksesta ja tietosuojastasi</a>
-tracking-mode-label = Käytä seurannan suojausta estämään tunnettuja seuraimia
-tracking-mode-always =
-    .label = Aina
-    .accesskey = n
-tracking-mode-private =
-    .label = Vain yksityisen selaamisen ikkunoissa
-    .accesskey = V
-tracking-mode-never =
-    .label = Ei koskaan
-    .accesskey = E
-tracking-exceptions =
-    .label = Poikkeukset…
-    .accesskey = P
-tracking-change-block-list =
-    .label = Muuta estolistaa…
-    .accesskey = M
 tracking-manage-exceptions =
     .label = Hallitse poikkeuksia…
     .accesskey = p

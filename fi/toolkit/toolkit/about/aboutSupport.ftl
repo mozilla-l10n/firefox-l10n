@@ -243,6 +243,8 @@ effective-content-sandbox-level = Sisältöprosessin efektiivinen hiekkalaatikko
 sandbox-proc-type-content = sisältö
 sandbox-proc-type-file = tiedostojen sisältö
 sandbox-proc-type-media-plugin = medialiitännäinen
+launcher-process-status-1 = Ei käytössä johtuen viasta
+launcher-process-status-unknown = Tuntematon tila
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
