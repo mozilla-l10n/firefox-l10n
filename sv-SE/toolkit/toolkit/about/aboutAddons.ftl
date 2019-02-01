@@ -88,6 +88,14 @@ detail-update-automatic =
 detail-update-manual =
     .label = Av
     .tooltiptext = Installera inte uppdateringar automatiskt
+# Used as a description for the option to allow or block an add-on in private windows.
+detail-private-browsing-label = Kör i privata fönster
+detail-private-browsing-on =
+    .label = Tillåt
+    .tooltiptext = Aktivera i privat surfning
+detail-private-browsing-off =
+    .label = Tillåt inte
+    .tooltiptext = Aktivera inte i privat surfning
 detail-home =
     .label = Webbplats
 detail-home-value =
@@ -225,6 +233,11 @@ shortcuts-modifier-other = Inkludera Ctrl eller Alt
 shortcuts-invalid = Ogiltig kombination
 shortcuts-letter = Skriv en bokstav
 shortcuts-system = Kan inte skriva över en { -brand-short-name } genväg
+shortcuts-card-expand-button =
+    { $numberToShow ->
+        [one] Visa { $numberToShow } mer
+       *[other] Visa { $numberToShow } mera
+    }
 shortcuts-card-collapse-button = Visa mindre
 go-back-button =
     .tooltiptext = Gå tillbaka
