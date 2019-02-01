@@ -93,6 +93,15 @@ detail-update-automatic =
 detail-update-manual =
     .label = Desativada
     .tooltiptext = Não instalar atualizações automaticamente
+# Used as a description for the option to allow or block an add-on in private windows.
+detail-private-browsing-label = Executar em janelas privativas
+detail-private-browsing-description = A extensão funcionará em janelas privativas e terá acesso à sua atividade online. <label data-l10n-name="detail-private-browsing-learn-more">Saiba mais</label>
+detail-private-browsing-on =
+    .label = Permitir
+    .tooltiptext = Ativar na navegação privativa
+detail-private-browsing-off =
+    .label = Não permitir
+    .tooltiptext = Desativar na navegação privativa
 detail-home =
     .label = Site
 detail-home-value =
@@ -135,6 +144,11 @@ legacy-warning-show-legacy = Mostrar extensões legadas
 legacy-extensions =
     .value = Extensões legadas
 legacy-extensions-description = Estas extensões não cumprem os padrões atuais do { -brand-short-name }, então foram desativadas. <label data-l10n-name="legacy-learn-more">Saiba mais sobre mudanças em extensões</label>
+private-browsing-description =
+    Extensões não têm permissão por padrão para funcionar em janelas privativas. Significa que durante a
+    navegação privativa elas não funcionarão e não terão acesso à sua atividade online. Para permitir que
+    uma extensão funcione em janelas privativas, selecione abaixo a extensão e mude sua configuração.
+    <label data-l10n-name="private-browsing-learn-more">Saiba mais.</label>
 extensions-view-discover =
     .name = Adicionar
     .tooltiptext = { extensions-view-discover.name }
@@ -215,8 +229,6 @@ extensions-updates-update-selected =
 
 ## Extension shortcut management
 
-shortcuts-manage =
-    .label = Atalhos de teclado
 manage-extensions-shortcuts =
     .label = Gerenciar atalhos de extensões
     .accesskey = h
@@ -232,5 +244,11 @@ shortcuts-modifier-other = Incluir Ctrl ou Alt
 shortcuts-invalid = Combinação inválida
 shortcuts-letter = Digite uma letra
 shortcuts-system = Não é possível substituir um atalho do { -brand-short-name }
+shortcuts-card-expand-button =
+    { $numberToShow ->
+        [one] Mostrar mais { $numberToShow }
+       *[other] Mostrar mais { $numberToShow }
+    }
+shortcuts-card-collapse-button = Mostrar menos
 go-back-button =
     .tooltiptext = Voltar

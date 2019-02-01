@@ -68,5 +68,7 @@ policy-SearchBar = Definir a localização padrão da barra de pesquisa. O usuá
 policy-SearchEngines = Definir as configurações do mecanismo de pesquisa. Esta política está disponível somente na versão Extended Support Release (ESR).
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Instalar módulos PKCS #11.
+policy-SSLVersionMax = Defina a versão SSL máxima.
+policy-SSLVersionMin = Defina a versão SSL mínima.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Bloquear o acesso a determinados sites. Confira a documentação para mais detalhes sobre o formato.
