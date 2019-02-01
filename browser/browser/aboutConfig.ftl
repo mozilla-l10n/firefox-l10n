@@ -5,7 +5,7 @@
 # An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
 about-config-warning-title = 内有恶龙！
 about-config-warning-text = 修改这些高级设置可能会对本应用程序的稳定性、安全性以及性能造成不良影响。请仅在您十分清楚的情况下继续操作。
-about-config-warning-checkbox = 继续显示此提醒
+about-config-warning-checkbox = 下次仍显示此警告文本
 about-config-warning-button = 我了解此风险
 about-config-title = about:config
 about-config-search =
