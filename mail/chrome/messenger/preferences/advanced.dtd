@@ -42,7 +42,7 @@
 
 <!-- Data Choices -->
 <!ENTITY telemetrySection.label          "Kaukomittaustiedot">
-<!ENTITY telemetryDesc.label             "Auta meitä kehittämään &brandShortName;ia lähettämällä &vendorShortName;:lle tietoja sähköpostiohjelman suorituskyvystä, käytöstä, muokkauksista ja käytetystä laitteistosta">
+<!ENTITY telemetryDesc.label             "Auta meitä kehittämään &brandShortName;ia lähettämällä &vendorShortName;lle tietoja sähköpostiohjelman suorituskyvystä, käytöstä, muokkauksista ja käytetystä laitteistosta">
 <!ENTITY enableTelemetry.label           "Kaukomittaus päällä">
 <!ENTITY enableTelemetry.accesskey       "k">
 <!ENTITY telemetryLearnMore.label        "Lue lisää">
