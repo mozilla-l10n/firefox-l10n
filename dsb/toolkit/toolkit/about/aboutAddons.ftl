@@ -139,6 +139,11 @@ legacy-warning-show-legacy = Zestarjone rozšyrjenja pokazaś
 legacy-extensions =
     .value = Zestarjone rozšyrjenja
 legacy-extensions-description = Toś te rozšyrjenja su se znjemóžnili, dokulaž standardam { -brand-short-name } njewótpowěduju. <label data-l10n-name="legacy-learn-more">Dalšne informacije wó změnach toś tych dodankow</label>
+private-browsing-description =
+    Pó standarźe rozšyrjenja njesmeju se w priwatnych woknach wuwjasć. To groni, njefunkcioněruju 
+    w priwatnem modusu, a njamaju tam pśistup k wašym aktiwitam online. Aby rozšyrjenjeju dowólił,
+    až se w priwatnych woknach wuwjeźo, wubjeŕśo slědujucuu kórtu rozšyrjenja a změńśo swóje nastajenje.
+    <label data-l10n-name="private-browsing-learn-more">Zgóńśo wěcej.</label>
 extensions-view-discover =
     .name = Dodanki wobstaraś
     .tooltiptext = { extensions-view-discover.name }
