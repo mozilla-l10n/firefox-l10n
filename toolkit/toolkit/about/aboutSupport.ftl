@@ -6,7 +6,7 @@ page-title = 疑難排解資訊
 page-subtitle =
     此頁面包含技術資訊，可能可以幫您解決一些問題。
     如果您正在尋找關於 { -brand-short-name } 的一些常見問題，
-    請看看我們的 <a data-l10n-name="support-link">支援網站</a>。
+    請看看我們的<a data-l10n-name="support-link">支援網站</a>。
 crashes-title = 錯誤資訊報表
 crashes-id = 報表編號
 crashes-send-date = 送出日期
