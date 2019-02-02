@@ -30,10 +30,13 @@
 <!ENTITY configEdit.accesskey          "ว">
 
 <!-- Data Choices -->
+<!ENTITY enableTelemetry.label           "เปิดใช้งานการวัดและส่งข้อมูลทางไกล">
+<!ENTITY enableTelemetry.accesskey       "ป">
 <!ENTITY telemetryLearnMore.label        "เรียนรู้เพิ่มเติม">
 
 <!ENTITY crashReporterSection.label      "ตัวรายงานข้อขัดข้อง">
 <!ENTITY enableCrashReporter.label       "เปิดใช้งานตัวรายงานข้อขัดข้อง">
+<!ENTITY enableCrashReporter.accesskey   "ด">
 <!ENTITY crashReporterLearnMore.label    "เรียนรู้เพิ่มเติม">
 
 <!-- Update -->
@@ -52,6 +55,8 @@
 
 
 <!-- Networking and Disk Space -->
+<!ENTITY connectionsInfo.caption       "การเชื่อมต่อ">
+<!ENTITY offlineInfo.caption           "ออฟไลน์">
 
 
 <!-- LOCALIZATION NOTE:
