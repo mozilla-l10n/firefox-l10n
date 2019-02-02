@@ -141,7 +141,7 @@ legacy-extensions =
 legacy-extensions-description = Dessa tillägg uppfyller inte nuvarande standarder i { -brand-short-name } så de har inaktiverats. <label data-l10n-name="legacy-learn-more">Läs mer om ändringar av tillägg</label>
 private-browsing-description =
     Tillägg får inte köras som standard i privata fönster. Det betyder att de inte kommer att fungera
-    medan privat surfning och de kommer inte ha tillgång till dina aktiviteter på nätet där. Att tillåta
+    under privat surfning och de kommer inte ha tillgång till dina aktiviteter på nätet där. Att tillåta
     ett tillägg som ska köras i privata fönster, välj tilläggskortet nedan och ändra din inställning.
     <label data-l10n-name="private-browsing-learn-more">Läs mer.</label>
 extensions-view-discover =
