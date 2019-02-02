@@ -30,6 +30,6 @@ blocklist-item-moz-std-desc = Néhány követő engedélyezése, hogy a weboldal
 blocklist-item-moz-full-name = Disconnect.me szigorú védelem.
 blocklist-item-moz-full-desc = Ismert követők blokkolása. Néhány webhely lehet, hogy nem fog megfelelően működni.
 blocklist-item-moz-std-listName = 1. szintű blokkolási lista (ajánlott).
-blocklist-item-moz-std-description = Néhány követőt engedélyez, így kevesebb weboldal törik el.
+blocklist-item-moz-std-description = Néhány követőt engedélyez, így kevesebb weboldal fog hibásan működni.
 blocklist-item-moz-full-listName = 2. szintű blokkolási lista.
 blocklist-item-moz-full-description = Blokkolja az összes észlelt nyomkövetőt. Egyes webhelyek vagy tartalmak lehet, hogy nem megfelelően fognak betöltődni.

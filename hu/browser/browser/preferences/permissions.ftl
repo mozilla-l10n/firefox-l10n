@@ -106,7 +106,7 @@ permissions-site-notification-window =
 permissions-site-notification-desc = A következő weboldalak kérték, hogy küldhessenek értesítéseket. Megadhatja, hogy mely weboldalak küldhetnek értesítéseket. Az új értesítés engedélyezési kéréseket is blokkolhatja.
 permissions-site-notification-disable-label =
     .label = Új értesítés engedélyezési kérések blokkolása
-permissions-site-notification-disable-desc = Ez megakadályozza, hogy a fent fel nem sorolt weboldalak értesítésküldést kérjenek. Az értesítések blokkolása tönkretehet néhány weboldal-funkciót.
+permissions-site-notification-disable-desc = Ez megakadályozza, hogy a fent fel nem sorolt weboldalak értesítésküldést kérjenek. Az értesítések blokkolása működésképtelenné tehet néhány weboldal-funkciót.
 
 ## Site Permissions - Location
 
@@ -116,7 +116,7 @@ permissions-site-location-window =
 permissions-site-location-desc = A következő weboldalak a helyadatait kérték. Megadhatja, hogy mely weboldalak érhetik el a tartózkodási helyét. Az új helyadat-kéréseket is blokkolhatja.
 permissions-site-location-disable-label =
     .label = Új tartózkodási hely kérések blokkolása
-permissions-site-location-disable-desc = Ez megakadályozza, hogy a fent fel nem sorolt weboldalak helyadatokat kérjenek. A helyadatok blokkolása tönkretehet néhány weboldal-funkciót.
+permissions-site-location-disable-desc = Ez megakadályozza, hogy a fent fel nem sorolt weboldalak helyadatokat kérjenek. A helyadatok blokkolása működésképtelenné tehet néhány weboldal-funkciót.
 
 ## Site Permissions - Camera
 
@@ -126,7 +126,7 @@ permissions-site-camera-window =
 permissions-site-camera-desc = A következő weboldalak kérték, hogy hozzáférhessenek a kamerájához. Megadhatja, hogy mely weboldalak férjenek hozzá a kamerájához. Az új kamera hozzáférési kéréseket is blokkolhatja.
 permissions-site-camera-disable-label =
     .label = Új kamera hozzáfés kérések blokkolása
-permissions-site-camera-disable-desc = Ez megakadályozza, hogy a fent fel nem sorolt weboldalak kamera hozzáférést kérjenek. A kamera hozzáférés blokkolása eltörhet néhány weboldal-funkciót.
+permissions-site-camera-disable-desc = Ez megakadályozza, hogy a fent fel nem sorolt weboldalak kamera hozzáférést kérjenek. A kamera hozzáférés blokkolása működésképtelenné tehet néhány weboldal-funkciót.
 
 ## Site Permissions - Microphone
 
@@ -136,4 +136,4 @@ permissions-site-microphone-window =
 permissions-site-microphone-desc = A következő weboldalak kérték, hogy hozzáférhessenek a mikrofonjához. Megadhatja, hogy mely weboldalak férjenek hozzá a mikrofonjához. Az új mikrofon hozzáférési kéréseket is blokkolhatja.
 permissions-site-microphone-disable-label =
     .label = Új mikrofon hozzáférés kérések blokkolása
-permissions-site-microphone-disable-desc = Ez megakadályozza, hogy a fent fel nem sorolt weboldalak mikrofon hozzáférést kérjenek. A mikrofon hozzáférés blokkolása eltörhet néhány weboldal-funkciót.
+permissions-site-microphone-disable-desc = Ez megakadályozza, hogy a fent fel nem sorolt weboldalak mikrofon hozzáférést kérjenek. A mikrofon hozzáférés blokkolása működésképtelenné tehet néhány weboldal-funkciót.
