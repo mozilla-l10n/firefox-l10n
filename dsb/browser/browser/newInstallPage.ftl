@@ -11,6 +11,7 @@ title = Wažne nowosći
 heading = Změny na wašom profilu { -brand-short-name }
 changed-title = Co jo se změniło?
 changed-desc-profiles = Toś ta instalacija { -brand-short-name } ma nowy profil. Profil jo sajźba datajow, źož Firefox informacije ako cytańske znamjenja, gronidła a wužywarske nastajenja składujo.
+changed-desc-dedicated = Aby se pśešaltowanje mjazy instalacijami Firefox (Firefox, Firefox ESR, Firefox Beta, Firefox Developer Edition a Firefox Nightly) wólažcyło a wěsćej cyniło, ma toś ta instalacija něnto swójski pśisłušny profil. Njeźěli awtomatiski waše skłaźone informacije z drugimi instalacijami Firefox.
 lost = <b>Njejsćo zgubił žedne wósobinske daty abo pśiměrjenja.</b> Jolic sćo južo składł informacije Firefox na toś tom licadle, su wóne hyšći w drugej instalaciji Firefox k dispoziciji.
 options-title = Co su móje nastajenja?
 options-do-nothing = Jolic nic njecyniśo, budu se waše profilowe daty w { -brand-short-name } wót profilowych datow w drugich instalacijach Firefox rozeznawaś.

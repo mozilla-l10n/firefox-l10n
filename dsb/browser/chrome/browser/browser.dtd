@@ -1129,6 +1129,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addonPostInstallMessage.label "Klikniśo na <image class='addon-addon-icon'/> w meniju <image class='addon-toolbar-icon'/>, aby swóje dodanki zastojał.">
 
 <!ENTITY addonPrivateBrowsing.header.label "Rozšyrjenja w priwatnych woknach">
+<!ENTITY addonPrivateBrowsing.body.label "Pó standarźe rozšyrjenja njesměju se w priwatnych woknach wuwjasć. Njefunkcioněruju w priwatnem modusu, a njamaju pśistup k wašym aktiwitam online. Móžośo kuždemu rozšyrjenjeju dowóliś, až se w priwatnych woknach wuwjeźo, jolic to w swójich nastajenjach nastajaśo.">
 <!ENTITY addonPrivateBrowsing.okButton.label "W pórěźe, som zrozměł">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "z">
 <!ENTITY addonPrivateBrowsing.manageButton.label "Rozšyrjenja zastojaś">
