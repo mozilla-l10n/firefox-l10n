@@ -7,6 +7,8 @@
 <!ENTITY  window.macWidth                 "41em">
 
 
+<!ENTITY  overridePageColors.always.label "เสมอ">
+<!ENTITY  overridePageColors.never.label  "ไม่เลย">
 
 <!ENTITY  color                           "ข้อความและพื้นหลัง">
 <!ENTITY  textColor.label                 "ข้อความ:">
