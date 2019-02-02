@@ -1,0 +1,16 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY dialogTitle                  "เอาบัญชีและข้อมูลออก">
+<!ENTITY removeButton.label           "เอาออก">
+<!ENTITY removeButton.accesskey       "อ">
+<!ENTITY removeAccount.label          "เอาข้อมูลบัญชีออก">
+<!ENTITY removeAccount.accesskey      "ข">
+<!ENTITY removeData.label             "เอาข้อมูลข้อความออก">
+<!ENTITY removeData.accesskey         "ม">
+<!ENTITY removeDataChat.label         "เอาข้อมูลการสนทนาออก">
+<!ENTITY removeDataChat.accesskey     "ม">
+<!ENTITY showData.label               "แสดงตำแหน่งที่ตั้งข้อมูล">
+<!ENTITY showData.accesskey           "ส">
+<!ENTITY progressPending              "กำลังเอาข้อมูลที่เลือกออก…">
