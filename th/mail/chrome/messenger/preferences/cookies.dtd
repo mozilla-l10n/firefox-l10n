@@ -15,7 +15,16 @@
 <!ENTITY props.value.label                 "เนื้อหา:">
 <!ENTITY props.domain.label                "โฮสต์:">
 <!ENTITY props.path.label                  "เส้นทาง:">
+<!ENTITY props.expires.label               "หมดอายุ:">
 
+<!ENTITY window.title                      "คุกกี้">
+<!ENTITY windowClose.key                   "w">
+<!ENTITY focusSearch1.key                  "f">
+<!ENTITY focusSearch2.key                  "k">
 
+<!ENTITY filter.label                      "ค้นหา:">
+<!ENTITY filter.accesskey                  "ค">
 
+<!ENTITY button.close.label                "ปิด">
+<!ENTITY button.close.accesskey            "ป">
 

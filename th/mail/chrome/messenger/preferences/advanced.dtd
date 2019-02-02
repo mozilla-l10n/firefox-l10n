@@ -30,6 +30,7 @@
 <!ENTITY configEdit.accesskey          "ว">
 
 <!-- Data Choices -->
+<!ENTITY telemetrySection.label          "การวัดและส่งข้อมูลทางไกล">
 <!ENTITY enableTelemetry.label           "เปิดใช้งานการวัดและส่งข้อมูลทางไกล">
 <!ENTITY enableTelemetry.accesskey       "ป">
 <!ENTITY telemetryLearnMore.label        "เรียนรู้เพิ่มเติม">
