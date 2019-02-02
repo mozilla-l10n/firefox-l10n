@@ -1,0 +1,21 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  colorsDialog.title              "สี">
+<!ENTITY  window.width                    "38em">
+<!ENTITY  window.macWidth                 "41em">
+
+
+
+<!ENTITY  color                           "ข้อความและพื้นหลัง">
+<!ENTITY  textColor.label                 "ข้อความ:">
+<!ENTITY  textColor.accesskey             "ข">
+<!ENTITY  backgroundColor.label           "พื้นหลัง:">
+<!ENTITY  backgroundColor.accesskey       "พ">
+<!ENTITY  useSystemColors.label           "ใช้สีของระบบ">
+<!ENTITY  useSystemColors.accesskey       "ช">
+
+<!ENTITY  underlineLinks.label            "ขีดเส้นใต้ลิงก์">
+<!ENTITY  underlineLinks.accesskey        "ด">
+<!ENTITY  links                           "สีลิงก์">
