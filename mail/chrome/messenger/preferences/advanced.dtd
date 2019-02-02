@@ -20,21 +20,35 @@
 <!ENTITY useSmoothScrolling.label      "ใช้การเลื่อนแบบลื่นไหล">
 <!ENTITY useSmoothScrolling.accesskey  "ก">
 
+<!ENTITY systemIntegration.label       "การผนวกรวมระบบ">
+<!ENTITY searchIntegration.label       "อนุญาตให้ &searchIntegration.engineName; ค้นหาข้อความ">
+<!ENTITY searchIntegration.accesskey   "อ">
+<!ENTITY checkDefaultsNow.label        "ตรวจสอบตอนนี้…">
+<!ENTITY checkDefaultsNow.accesskey    "ต">
+<!ENTITY configEditDesc.label          "การกำหนดค่าขั้นสูง">
+<!ENTITY configEdit.label              "ตัวแก้ไขการกำหนดค่า…">
+<!ENTITY configEdit.accesskey          "ว">
 
 <!-- Data Choices -->
+<!ENTITY telemetryLearnMore.label        "เรียนรู้เพิ่มเติม">
 
+<!ENTITY crashReporterSection.label      "ตัวรายงานข้อขัดข้อง">
+<!ENTITY enableCrashReporter.label       "เปิดใช้งานตัวรายงานข้อขัดข้อง">
+<!ENTITY crashReporterLearnMore.label    "เรียนรู้เพิ่มเติม">
 
 <!-- Update -->
 <!-- LOCALIZATION NOTE (updateApp.label):
   Strings from aboutDialog.dtd are displayed in this section of the preferences.
   Please check for possible accesskey conflicts.
 -->
+<!ENTITY updateApp2.label                "การอัปเดต &brandShortName;">
 <!-- LOCALIZATION NOTE (updateApp.version.*): updateApp.version.pre is
   followed by a version number, keep the trailing space or replace it with
   a different character as needed. updateApp.version.post is displayed after
   the version number, and is empty on purpose for English. You can use it
   if required by your language.
  -->
+<!ENTITY updateApp.version.pre           "รุ่น ">
 
 
 <!-- Networking and Disk Space -->
