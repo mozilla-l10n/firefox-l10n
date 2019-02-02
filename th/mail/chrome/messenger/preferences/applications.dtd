@@ -1,0 +1,28 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!ENTITY  actionColumn2.label         "การกระทำ">
+<!ENTITY  actionColumn2.accesskey     "ก">
+
+<!ENTITY  focusSearch1.key            "f">
+<!ENTITY  focusSearch2.key            "k">
+
+<!ENTITY  filter.placeholder          "ค้นหา">
+
+<!ENTITY saveTo.label                 "บันทึกไฟล์ไปยัง">
+<!ENTITY saveTo.accesskey             "บ">
+<!ENTITY chooseFolderWin.label        "เรียกดู…">
+<!ENTITY chooseFolderWin.accesskey    "ร">
+<!ENTITY chooseFolderMac.label        "เลือก…">
+<!ENTITY chooseFolderMac.accesskey    "ล">
+
+<!ENTITY attachments.incoming.label   "ขาเข้า">
+<!ENTITY attachments.outgoing.label   "ขาออก">
+
+<!ENTITY addCloudFileAccount1.label       "เพิ่ม…">
+<!ENTITY addCloudFileAccount1.accesskey   "พ">
+<!ENTITY removeCloudFileAccount.label     "เอาออก">
+<!ENTITY removeCloudFileAccount.accesskey "อ">
+
