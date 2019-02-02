@@ -1,0 +1,51 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY itemGeneral.label       "ทั่วไป">
+<!ENTITY dataChoicesTab.label    "ทางเลือกข้อมูล">
+<!ENTITY itemUpdate.label        "การอัปเดต">
+<!ENTITY itemNetworking.label    "เครือข่ายและพื้นที่ดิสก์">
+<!ENTITY itemCertificates.label  "ใบรับรอง">
+
+<!-- General Settings -->
+<!ENTITY dateTimeFormatting.label      "การจัดรูปแบบวันที่และเวลา">
+<!ENTITY languageSelector.label        "ภาษา">
+<!ENTITY allowHWAccel.label            "ใช้การเร่งความเร็วด้วยฮาร์ดแวร์เมื่อพร้อมใช้งาน">
+<!ENTITY allowHWAccel.accesskey        "ช">
+
+<!ENTITY scrolling.label               "การเลื่อน">
+<!ENTITY useAutoScroll.label           "ใช้การเลื่อนอัตโนมัติ">
+<!ENTITY useAutoScroll.accesskey       "ช">
+<!ENTITY useSmoothScrolling.label      "ใช้การเลื่อนแบบลื่นไหล">
+<!ENTITY useSmoothScrolling.accesskey  "ก">
+
+
+<!-- Data Choices -->
+
+
+<!-- Update -->
+<!-- LOCALIZATION NOTE (updateApp.label):
+  Strings from aboutDialog.dtd are displayed in this section of the preferences.
+  Please check for possible accesskey conflicts.
+-->
+<!-- LOCALIZATION NOTE (updateApp.version.*): updateApp.version.pre is
+  followed by a version number, keep the trailing space or replace it with
+  a different character as needed. updateApp.version.post is displayed after
+  the version number, and is empty on purpose for English. You can use it
+  if required by your language.
+ -->
+
+
+<!-- Networking and Disk Space -->
+
+
+<!-- LOCALIZATION NOTE:
+  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  line in preferences as follows:
+
+  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+-->
+
+<!-- Certificates -->
+
