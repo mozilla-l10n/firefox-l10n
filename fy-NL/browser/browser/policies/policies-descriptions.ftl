@@ -17,7 +17,7 @@ policy-BlockAboutConfig = Tagong ta de about:config-side blokkearje.
 policy-BlockAboutProfiles = Tagong ta de about:profiles-side blokkearje.
 policy-BlockAboutSupport = Tagong ta de about:support-side blokkearje.
 policy-Bookmarks = Blêdwizers meitsje yn de Blêdwizerakbalke, it menu Blêdwizers, of in hjirbinnen opjûne map.
-policy-Certificates = Of ynboude sertifikaten wol of net brûkt wurde. Dizze beliedsregel jildt op dit stuit allinnich foar Windows.
+policy-CaptivePortal = Stipe foar hotspot-oanmeldingsside ynskeakelje of útskeakelje.
 policy-CertificatesDescription = Sertifikaten tafoegje of ynboude sertifikaten brûke.
 policy-Cookies = Tastean of wegerje dat websites cookies ynstelle.
 policy-DisableAppUpdate = Foarkomme dat de browser fernijd wurdt.
@@ -37,7 +37,6 @@ policy-DisableProfileImport = De menuopdracht foar it ymportearjen fan gegevens 
 policy-DisableProfileRefresh = De knop { -brand-short-name } opfrisse yn de about:support-side útskeakelje.
 policy-DisableSafeMode = De funksje foar it opnij starten yn Feilige modus útskeakelje. Noat: de Shift-toets foar it betrêden fan de Feilige modus kin yn Windows allinnich útskeakele wurde fia Groepsbelied.
 policy-DisableSecurityBypass = Foarkomme dat de brûker bepaalde befeiligingsynstellingen omsilet.
-policy-DisableSetDesktopBackground = De menuopdracht As buroblêdachtergrûn ynstelle útskeakelje.
 policy-DisableSetAsDesktopBackground = De menuopdracht As buroblêdachtergrûn ynstelle foar ôfbyldingen útskeakelje.
 policy-DisableSystemAddonUpdate = Foarkomme dat de browser systeemadd-ons ynstallearret en bywurket.
 policy-DisableTelemetry = Telemetry útskeakelje.
@@ -49,8 +48,7 @@ policy-DontCheckDefaultBrowser = Kontrole op standertbrowser by opstarten útske
 policy-EnableTrackingProtection = Ynhâldsblokkearring ynskeakelje of útskeakelje en opsjoneel beskoattelje.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
-# English or translate them as verbs. See also:
-# https://github.com/mozilla/policy-templates/blob/master/README.md#extensions-machine-only
+# English or translate them as verbs.
 policy-Extensions = Utwreidingen ynstallearje, fuortsmite of beskoattelje. De opsje foar ynstallearjen brûkt URL’s of paden as parameters. De opsjes foar fuortsmiten en beskoatteljen brûke útwreiding-ID’s.
 policy-FlashPlugin = Gebrûk fan de Flash-ynstekker tastean of wegerje.
 policy-HardwareAcceleration = Wannear false, hardwarefersnelling útskeakelje.
@@ -70,6 +68,7 @@ policy-SearchBar = De standertlokaasje fan de sykbalke ynstelle. De brûker mei 
 policy-SearchEngines = Ynstellingen foar sykmasinen konfigurearje. Dizze beliedsregel is allinnich beskikber yn de Extended Support Release (ESR)-ferzje.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = PKCS #11-modules ynstallearje.
-# “format” refers to the format used for the value of this policy. See also:
-# https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
+policy-SSLVersionMax = De maksimale SSL-ferzje ynstelle.
+policy-SSLVersionMin = De minimale SSL-ferzje ynstelle.
+# “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = It besykjen fan websites blokkearje. Sjoch de dokumintaasje foar mear ynformaasje oer de notaasje.
