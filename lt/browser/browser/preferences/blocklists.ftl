@@ -6,6 +6,7 @@ blocklist-window =
     .title = Blokavimo sąrašai
     .style = width: 55em
 blocklist-desc = Galite pasirinkti, kurį sąrašą „{ -brand-short-name }“ naudos blokavimui saityno elementų, kurie gali sekti jūsų veiklą internete.
+blocklist-description = Pasirinkite, kurį sąrašą „{ -brand-short-name }“ naudos stebėjimo elementų blokavimui. Sąrašus teikia <a data-l10n-name="disconnect-link" title="Disconnect">„Disconnect“</a>.
 blocklist-close-key =
     .key = w
 blocklist-treehead-list =
@@ -28,3 +29,7 @@ blocklist-item-moz-std-name = „Disconnect.me“ pagrindinė apsauga (rekomendu
 blocklist-item-moz-std-desc = Leidžia dalį stebėjimo elementų, kad svetainės galėtų tinkamai veikti.
 blocklist-item-moz-full-name = „Disconnect.me“ griežta apsauga.
 blocklist-item-moz-full-desc = Blokuoja žinomus stebėjimo elementus. Gali sutrikti kai kurių svetainių veikimas.
+blocklist-item-moz-std-listName = Pirmo lygio blokavimo sąrašas (rekomenduojama).
+blocklist-item-moz-std-description = Leidžia dalį stebėjimo elementų, kad svetainės veiktų tinkamai.
+blocklist-item-moz-full-listName = Antro lygio blokavimo sąrašas.
+blocklist-item-moz-full-description = Blokuoja visus aptiktus stebėjimo elementus. Kai kurios svetainės ar turinys gali turėti problemų.
