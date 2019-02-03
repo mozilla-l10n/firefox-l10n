@@ -93,6 +93,15 @@ detail-update-automatic =
 detail-update-manual =
     .label = Ut
     .tooltiptext = Net automatysk fernijingen ynstallearje
+# Used as a description for the option to allow or block an add-on in private windows.
+detail-private-browsing-label = Utfiere yn priveefinsters
+detail-private-browsing-description = Utwreidingen sille yn priveefinsters wurkje en tagong hawwe ta jo online-aktiviteiten. <label data-l10n-name="detail-private-browsing-learn-more">Mear ynfo</label>
+detail-private-browsing-on =
+    .label = Tastean
+    .tooltiptext = Ynskeakelje yn priveenavigaasje
+detail-private-browsing-off =
+    .label = Net tastean
+    .tooltiptext = Utskeakelje yn priveenavigaasje
 detail-home =
     .label = Begjinside
 detail-home-value =
@@ -135,6 +144,11 @@ legacy-warning-show-legacy = Ferâldere útwreidingen toane
 legacy-extensions =
     .value = Ferâldere útwreidingen
 legacy-extensions-description = Dizze útwreidingen foldogge op dit stuit net oan de { -brand-short-name }-standerts binne dêrom de-aktivearre. <label data-l10n-name="legacy-learn-more">Lear mear oer de wizigingen oan add-ons</label>
+private-browsing-description =
+    Utwreidingen meie yn priveefinsters standert net útfierd wurde. Dit betsjut dat se wylst priveenavigaasje
+    net wurkje sille, en dêryn gjin tagong hawwe sille ta jo online-aktiviteiten. Om it útfieren fan in
+    útwreiding yn priveefinsters ta te stean, selektearje jo hjirûnder de útwreidingskaart en wizigje jo de ynstelling.
+    <label data-l10n-name="private-browsing-learn-more">Mear ynfo.</label>
 extensions-view-discover =
     .name = Add-ons krije
     .tooltiptext = { extensions-view-discover.name }
@@ -215,8 +229,6 @@ extensions-updates-update-selected =
 
 ## Extension shortcut management
 
-shortcuts-manage =
-    .label = Fluchtoetsen
 manage-extensions-shortcuts =
     .label = Utwreidingsfluchtoetsen beheare
     .accesskey = U
@@ -232,5 +244,10 @@ shortcuts-modifier-other = Druk ek op Ctrl of Alt
 shortcuts-invalid = Unjildige kombinaasje
 shortcuts-letter = Typ in letter
 shortcuts-system = Kin gjin besteande { -brand-short-name }-fluchtoets brûke
+shortcuts-card-expand-button =
+    { $numberToShow ->
+       *[other] Noch { $numberToShow } toane
+    }
+shortcuts-card-collapse-button = Minder toane
 go-back-button =
     .tooltiptext = Tebekgean
