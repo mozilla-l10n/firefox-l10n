@@ -93,6 +93,15 @@ detail-update-automatic =
 detail-update-manual =
     .label = No
     .tooltiptext = No instalar actualizaciones automáticamente
+# Used as a description for the option to allow or block an add-on in private windows.
+detail-private-browsing-label = Ejecutar en ventanas privadas
+detail-private-browsing-description = La extensión funcionará en ventanas privadas y tendrá acceso a las actividades en línea. <label data-l10n-name="detail-private-browsing-learn-more">Conocer más</label>
+detail-private-browsing-on =
+    .label = Permitir
+    .tooltiptext = Habilitar en navegación privada
+detail-private-browsing-off =
+    .label = No permitir
+    .tooltiptext = Deshabilitar en navegación privada
 detail-home =
     .label = Sitio web
 detail-home-value =
@@ -135,6 +144,11 @@ legacy-warning-show-legacy = Mostrar extensiones heredadas
 legacy-extensions =
     .value = Extensiones heredadas
 legacy-extensions-description = Estas extensiones no cumplen los estándares actuales de { -brand-short-name } por lo que han sido desactivadas. <label data-l10n-name="legacy-learn-more">Conocer sobre los cambios en los complementos</label>
+private-browsing-description =
+    Las extensiones no pueden ejecutarse de manera predeterminada en ventanas privadas. Esto significa que no funcionarán
+    durante la navegación privada y no tendrán acceso a las actividades en línea. Para permitir
+    una extensión para ejecutar en ventanas privadas, seleccione la tarjeta de extensión a continuación y cambie la configuración.
+    <label data-l10n-name="private-browsing-learn-more">Conocer más. </label>
 extensions-view-discover =
     .name = Obtener complementos
     .tooltiptext = { extensions-view-discover.name }
@@ -215,8 +229,6 @@ extensions-updates-update-selected =
 
 ## Extension shortcut management
 
-shortcuts-manage =
-    .label = Atajos de teclado
 manage-extensions-shortcuts =
     .label = Administrar accesos directos de extensión
     .accesskey = S
@@ -232,5 +244,11 @@ shortcuts-modifier-other = Incluir Ctrl o Alt
 shortcuts-invalid = Combinación inválida
 shortcuts-letter = Escriba una letra
 shortcuts-system = No se puede anular un atajo de { -brand-short-name }
+shortcuts-card-expand-button =
+    { $numberToShow ->
+        [one] Mostrar { $numberToShow } más
+       *[other] Mostrar { $numberToShow } más
+    }
+shortcuts-card-collapse-button = Mostrar menos
 go-back-button =
     .tooltiptext = Retroceder
