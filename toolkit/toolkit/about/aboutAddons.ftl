@@ -88,6 +88,15 @@ detail-update-automatic =
 detail-update-manual =
     .label = Отключено
     .tooltiptext = Не устанавливать обновления автоматически
+# Used as a description for the option to allow or block an add-on in private windows.
+detail-private-browsing-label = Запуск в приватных окнах
+detail-private-browsing-description = Расширение будет работать в Приватных окнах и иметь доступ к вашей активности в Интернете. <label data-l10n-name="detail-private-browsing-learn-more">Подробнее</label>
+detail-private-browsing-on =
+    .label = Разрешить
+    .tooltiptext = Включать при приватном просмотре
+detail-private-browsing-off =
+    .label = Не разрешать
+    .tooltiptext = Отключать при приватном просмотре
 detail-home =
     .label = Домашняя страница
 detail-home-value =
@@ -210,8 +219,9 @@ extensions-updates-update-selected =
 
 ## Extension shortcut management
 
-shortcuts-manage =
-    .label = Горячие клавиши
+manage-extensions-shortcuts =
+    .label = Управление горячими клавишами расширений
+    .accesskey = п
 shortcuts-empty-message = У этого расширения нет горячих клавиш.
 shortcuts-no-addons = У вас не включено ни одного расширения.
 shortcuts-input =
@@ -224,3 +234,12 @@ shortcuts-modifier-other = Добавьте Ctrl или Alt
 shortcuts-invalid = Неверная комбинация
 shortcuts-letter = Введите букву
 shortcuts-system = Нельзя переопределить горячую клавишу { -brand-short-name }
+shortcuts-card-expand-button =
+    { $numberToShow ->
+        [one] Показать ещё { $numberToShow }
+        [few] Показать ещё { $numberToShow }
+       *[other] Показать ещё { $numberToShow }
+    }
+shortcuts-card-collapse-button = Показать меньше
+go-back-button =
+    .tooltiptext = Вернуться назад

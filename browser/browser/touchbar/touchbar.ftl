@@ -17,4 +17,4 @@ reader-view = Вид для чтения
 # Meant to match the string displayed in an empty URL bar.
 open-location = Введите запрос или адрес
 share = Поделиться
-focus = Закрыть
+close-window = Закрыть окно

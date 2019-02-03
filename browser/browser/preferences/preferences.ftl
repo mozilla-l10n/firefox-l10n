@@ -4,10 +4,6 @@
 
 do-not-track-description = Передавать сайтам сигнал “Не отслеживать”, означающий, чтобы вы не хотите быть отслеживаемыми
 do-not-track-learn-more = Подробнее
-do-not-track-option-default =
-    .label = Только при использовании защиты от отслеживания
-do-not-track-option-default-content-blocking =
-    .label = Только когда { -brand-short-name } настроен на блокировку Обнаруженных трекеров
 do-not-track-option-default-content-blocking-known =
     .label = Только когда { -brand-short-name } настроен на блокировку известных трекеров
 do-not-track-option-always =
@@ -95,9 +91,6 @@ extension-controlled-default-search = Расширение <img data-l10n-name="
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = Расширение <img data-l10n-name="icon"/> { $name } требует для своей работы «Вкладки в контейнере».
-# This string is shown to notify the user that their tracking protection preferences
-# are being controlled by an extension.
-extension-controlled-websites-tracking-protection-mode = Расширение <img data-l10n-name="icon"/> { $name } контролирует параметры защиты от отслеживания.
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
 extension-controlled-websites-content-blocking-all-trackers = Расширение <img data-l10n-name="icon"/> { $name } контролирует этот параметр.
@@ -289,6 +282,7 @@ update-application-check-choose =
 update-application-manual =
     .label = Никогда не проверять наличие обновлений (не рекомендуется)
     .accesskey = и
+update-application-warning-cross-user-setting = Этот параметр применится ко всем учётным записям Windows и профилям { -brand-short-name }, использующим эту установку { -brand-short-name }.
 update-application-use-service =
     .label = Использовать фоновую службу для установки обновлений
     .accesskey = ф
@@ -609,12 +603,6 @@ sitedata-total-size-calculating = Вычисление объема данных
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Ваши сохранённые куки, данные сайтов и кэш сейчас занимают на диске { $value } { $unit }.
 sitedata-learn-more = Подробнее
-sitedata-keep-until = Хранить их
-    .accesskey = ь
-sitedata-keep-until-expire =
-    .label = до истечения срока их действия
-sitedata-keep-until-closed =
-    .label = до закрытия { -brand-short-name }
 sitedata-delete-on-close =
     .label = Удалять куки и данные сайтов при закрытии { -brand-short-name }
     .accesskey = д
@@ -629,16 +617,6 @@ sitedata-disallow-cookies-option =
 # The list items are the strings named sitedata-block-*-option*.
 sitedata-block-desc = Тип заблокированного
     .accesskey = п
-sitedata-block-trackers-option-recommended =
-    .label = Сторонние трекеры (рекомендуется)
-sitedata-block-trackers-option =
-    .label = Сторонние трекеры
-sitedata-block-unvisited-option =
-    .label = Куки с непосещённых сайтов
-sitedata-block-all-third-party-option =
-    .label = Все сторонние куки (может нарушить работу веб-сайтов)
-sitedata-block-all-option =
-    .label = Все куки (нарушит работу веб-сайтов)
 sitedata-option-block-trackers =
     .label = Сторонние трекеры
 sitedata-option-block-unvisited =
@@ -653,13 +631,6 @@ sitedata-clear =
 sitedata-settings =
     .label = Управление данными…
     .accesskey = ы
-sitedata-cookies-exceptions =
-    .label = Исключения…
-    .accesskey = ю
-# This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
-# in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
-# Cookies and Site Data section.
-sitedata-warning-your-settings-prevent-changes = Ваши настройки в Блокировке содержимого не дают произвести изменения настроек в Куки и данные сайтов.
 sitedata-cookies-permissions =
     .label = Управление разрешениями…
     .accesskey = п
@@ -682,41 +653,8 @@ addressbar-suggestions-settings = Изменить настройки для п�
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Блокировка содержимого
-content-blocking-desc = Блокирует стороннее содержимое, такое как реклама или код, которое может замедлить просмотр страниц и отслеживать вас в Интернете. Установите свои настройки, чтобы обеспечить наилучший баланс защиты и производительности.
 content-blocking-description = Блокирует стороннее содержимое, отслеживающее вас в Интернете. Контролируйте, что из вашей онлайн-активности хранится и пересылается между сайтами.
 content-blocking-learn-more = Подробнее
-content-blocking-restore-defaults =
-    .label = Восстановить по умолчанию
-    .accesskey = и
-content-blocking-toggle-on =
-    .tooltiptext = Отключить блокировку содержимого
-content-blocking-toggle-off =
-    .tooltiptext = Включить блокировку содержимого
-content-blocking-toggle-label-on = ВКЛ
-    .accesskey = к
-content-blocking-toggle-label-off = ОТКЛ
-    .accesskey = Л
-content-blocking-category-label = Выберите, что блокировать
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-slow-loading-trackers-label =
-    .label = Медленные трекеры
-    .accesskey = н
-content-blocking-fastblock-new-description = Блокировать только трекеры, не дающие страницам быстро загружаться.
-content-blocking-tracking-protection-trackers-label =
-    .label = Трекеры
-    .accesskey = к
-content-blocking-tracking-protection-all-detected-trackers-label =
-    .label = Все обнаруженные трекеры
-    .accesskey = е
-content-blocking-tracking-protection-new-description = Блокировать все известные трекеры (Некоторые страницы могут не открыться).
-content-blocking-tracking-protection-option-always =
-    .label = Всегда
-    .accesskey = а
-content-blocking-tracking-protection-option-private =
-    .label = Только в приватных окнах
-    .accesskey = и
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 content-blocking-setting-standard =
@@ -749,51 +687,12 @@ content-blocking-option-private =
     .label = Только в приватных окнах
     .accesskey = и
 content-blocking-tracking-protection-change-block-list = Сменить список блокировки
-content-blocking-third-party-cookies-label =
-    .label = Сторонние куки
-    .accesskey = о
-content-blocking-reject-trackers-description = Блокировать все сторонние куки или только установленные трекерами.
-# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
-# of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
-# or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
-# the UI.
-content-blocking-reject-trackers-warning-your-settings-prevent-changes = Ваши настройки в Куки и данные сайтов не дают произвести изменения настроек в Сторонние куки.
-content-blocking-change-cookie-settings =
-    .label = Изменить параметры куков
-    .accesskey = м
-content-blocking-reject-trackers-block-trackers-option-recommended =
-    .label = Трекеры (рекомендуется)
-    .accesskey = ы
-content-blocking-reject-trackers-block-trackers-option =
-    .label = Все трекеры
-    .accesskey = к
-content-blocking-reject-trackers-all-third-parties-option =
-    .label = Все сторонние куки (может нарушить работу веб-сайтов)
-    .accesskey = о
 content-blocking-cookies-label =
     .label = Куки
     .accesskey = и
 
 ## Privacy Section - Tracking
 
-tracking-header = Защита от отслеживания
-tracking-desc = Защита от отслеживания блокирует онлайн-трекеры, которые собирают данные вашего веб-сёрфинга на различных веб-сайтах. <a data-l10n-name="learn-more">Узнайте больше о защите от отслеживания и вашей приватности</a>
-tracking-mode-label = Использовать защиту от отслеживания для блокировки известных трекеров
-tracking-mode-always =
-    .label = Всегда
-    .accesskey = е
-tracking-mode-private =
-    .label = Только в приватных окнах
-    .accesskey = в
-tracking-mode-never =
-    .label = Никогда
-    .accesskey = а
-tracking-exceptions =
-    .label = Исключения…
-    .accesskey = л
-tracking-change-block-list =
-    .label = Сменить список блокировки…
-    .accesskey = м
 tracking-manage-exceptions =
     .label = Управление исключениями…
     .accesskey = е
@@ -825,6 +724,9 @@ permissions-block-autoplay-media =
     .label = Не разрешать веб-сайтам автоматически воспроизводить медиа со звуком
     .accesskey = ш
 permissions-block-autoplay-media-menu = Для веб-сайтов автоматически воспроизводящих звук
+permissions-block-autoplay-media2 =
+    .label = Не разрешать веб-сайтам автоматически воспроизводить звук
+    .accesskey = ш
 permissions-block-autoplay-media-exceptions =
     .label = Исключения…
     .accesskey = ю
