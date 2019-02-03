@@ -10,3 +10,8 @@
 title = Viktige nyheter
 heading = Endringer i { -brand-short-name }-profilen din
 changed-title = Hva har blitt endret?
+sync-label = Skriv inn e-postadressen din
+sync-input =
+    .placeholder = E-post
+sync-button = Fortsett
+sync-learn = Les mer
