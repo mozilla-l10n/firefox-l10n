@@ -88,6 +88,15 @@ detail-update-automatic =
 detail-update-manual =
     .label = Ne
     .tooltiptext = Nediegti priedo naujinimų automatiškai
+# Used as a description for the option to allow or block an add-on in private windows.
+detail-private-browsing-label = Leisti privačiojo naršymo languose
+detail-private-browsing-description = Priedas veiks privačiojo naršymo languose, ir turės prieigą prie jūsų veiksmų internete. <label data-l10n-name="detail-private-browsing-learn-more">Sužinoti daugiau</label>
+detail-private-browsing-on =
+    .label = Leisti
+    .tooltiptext = Įjungti privačiajame naršyme
+detail-private-browsing-off =
+    .label = Neleisti
+    .tooltiptext = Išjungti privačiajame naršyme
 detail-home =
     .label = Svetainė
 detail-home-value =
@@ -130,6 +139,11 @@ legacy-warning-show-legacy = Rodyti pasenusius plėtinius
 legacy-extensions =
     .value = Pasenę plėtiniai
 legacy-extensions-description = Šie plėtiniai neatitinka esamų „{ -brand-short-name }“ standartų, tad buvo išjungti. <label data-l10n-name="legacy-learn-more">Sužinokite apie priedų pokyčius</label>
+private-browsing-description =
+    Priedams neleidžiama veikti privačiojo naršymo languose. Tai reiškia, kad jie neveiks naršant
+    privačiai, ir jie neturės prieigos prie jūsų veiksmų internete. Norėdami leisti priedui veikti
+    privačiojo naršymo languose, pasirinkite jo kortelę žemiau ir pakeiskite savo nuostatą.
+    <label data-l10n-name="private-browsing-learn-more">Sužinoti daugiau.</label>
 extensions-view-discover =
     .name = Parsisiųsti priedų
     .tooltiptext = { extensions-view-discover.name }
@@ -210,8 +224,9 @@ extensions-updates-update-selected =
 
 ## Extension shortcut management
 
-shortcuts-manage =
-    .label = Spartieji klavišai
+manage-extensions-shortcuts =
+    .label = Tvarkyti sparčiuosius klavišus priedams
+    .accesskey = s
 shortcuts-empty-message = Šiam priedui sparčiųjų klavišų nėra.
 shortcuts-no-addons = Neturite jokių įjungtų priedų.
 shortcuts-input =
@@ -224,3 +239,12 @@ shortcuts-modifier-other = Įtraukti Ctrl arba Alt
 shortcuts-invalid = Netinkama kombinacija
 shortcuts-letter = Surinkite raidę
 shortcuts-system = Negalima naudoti „{ -brand-short-name }“ sparčiųjų klavišų
+shortcuts-card-expand-button =
+    { $numberToShow ->
+        [one] Rodyti dar { $numberToShow }
+        [few] Rodyti dar { $numberToShow }
+       *[other] Rodyti dar { $numberToShow }
+    }
+shortcuts-card-collapse-button = Rodyti mažiau
+go-back-button =
+    .tooltiptext = Eiti atgal
