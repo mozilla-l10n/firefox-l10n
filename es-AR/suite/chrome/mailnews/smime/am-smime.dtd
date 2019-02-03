@@ -15,11 +15,11 @@
 <!ENTITY digitalSign.certificate.button "Seleccionar…">
 <!ENTITY digitalSign.certificate.accesskey "S">
 <!ENTITY digitalSign.certificate_clear.button "Borrar">
-<!ENTITY digitalSign.certificate_clear.accesskey "C">
+<!ENTITY digitalSign.certificate_clear.accesskey "B">
 <!ENTITY encryption.certificate.button "Seleccionar…">
 <!ENTITY encryption.certificate.accesskey "t">
 <!ENTITY encryption.certificate_clear.button "Borrar">
-<!ENTITY encryption.certificate_clear.accesskey "e">
+<!ENTITY encryption.certificate_clear.accesskey "B">
 <!ENTITY signingGroupTitle.label "Firma digital">
 <!ENTITY signMessage.label "Firmar los mensajes digitalmente (por defecto)">
 <!ENTITY signMessage.accesskey "d">
