@@ -17,6 +17,10 @@
 <!ENTITY password.text "Opcional, sólo se usará para validar el nombre de usuario">
 <!ENTITY rememberPassword.label "Recordar contraseña">
 <!ENTITY rememberPassword.accesskey "R">
+<!ENTITY usernameEx.label "Su nombre de usuario:">
+<!ENTITY usernameEx.accesskey "u">
+<!ENTITY usernameEx.placeholder "SUDOMINIO\sunombredeusuario">
+<!ENTITY usernameEx.text "Nombre de usuario del dominio">
 <!ENTITY imapLong.label "IMAP (carpetas remotas)">
 <!ENTITY pop3Long.label "POP3 (conservar correo en su equipo)">
 <!ENTITY incoming.label "Entrante:">
