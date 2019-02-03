@@ -3,6 +3,16 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 url-classifier-title = URL klasifikatoriaus informacija
+url-classifier-search-title = Ieškoti
+url-classifier-search-result-title = Rezultatai
+url-classifier-search-result-uri = URI: { $uri }
+url-classifier-search-result-list = Lentelių sąrašas: { $list }
+url-classifier-search-input = URL
+url-classifier-search-error-invalid-url = Neteisingas URL
+url-classifier-search-error-no-features = Neparinktos jokios savybės
+url-classifier-search-btn = Pradėti paiešką
+url-classifier-search-features = Savybės
+url-classifier-search-listType = Sąrašo tipas
 url-classifier-provider-title = Tiekėjas
 url-classifier-provider = Tiekėjas
 url-classifier-provider-last-update-time = Paskutinio atnaujinimo laikas
