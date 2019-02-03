@@ -9,6 +9,7 @@
 
 <!ENTITY window.title "Svarbios naujienos">
 <!ENTITY window.style "width: 490px">
-<!ENTITY sync "Norėdami sinchronizuoti informaciją, kurią jau esate įrašę su šia „&brandShortName;“ įdiegtimi, prisijunkite su savo „&syncBrand.fxAccount.label;“.">
+<!ENTITY sync "Norėdami sinchronizuoti informaciją, kurią jau esate įrašę su šia „&brandShortName;“ įdiegtimi, prisijunkite su savo &syncBrand.fxAccount.label;.">
 <!ENTITY continue-button "Tęsti">
 
+<!ENTITY mainText "Ši „“ įdiegtis turi naują profilį. Ji neturi bendro adresyno, slaptažodžių, ir vartotojo nuostatų su kitomis „Firefox“ įdiegtimis („Firefox“, „Firefox ESR“, „Firefox Beta“, „Firefox Developer Edition“, ir „Firefox Nightly“) šiame kompiuteryje.">
