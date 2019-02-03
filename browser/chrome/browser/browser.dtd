@@ -1127,3 +1127,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Tvarkykite savo priedus paspausdami <image class='addon-addon-icon'/>, esantį <image class='addon-toolbar-icon'/> meniu.">
+
+<!ENTITY addonPrivateBrowsing.header.label "Priedai privačiojo naršymo languose">
+<!ENTITY addonPrivateBrowsing.body.label "Priedams neleidžiama veikti privačiojo naršymo languose. Jie neveiks naršant privačiai, ir jie neturės prieigos prie jūsų veiksmų internete. Jūs kiekvienam priedui galite suteikti leidimą veikti privačiojo naršymo languose, tai padarydami savo nuostatose.">
+<!ENTITY addonPrivateBrowsing.okButton.label "Gerai, supratau">
+<!ENTITY addonPrivateBrowsing.okButton.accesskey "G">
+<!ENTITY addonPrivateBrowsing.manageButton.label "Tvarkyti priedus">
+<!ENTITY addonPrivateBrowsing.manageButton.accesskey "T">
