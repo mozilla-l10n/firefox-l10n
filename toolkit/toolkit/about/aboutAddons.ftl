@@ -82,6 +82,9 @@ detail-update-manual =
 detail-private-browsing-on =
     .label = परवानगी द्या
     .tooltiptext = खाजगी ब्राउझिंगमध्ये सक्षम करा
+detail-private-browsing-off =
+    .label = परवानगी देऊ नका
+    .tooltiptext = खाजगी ब्राउझिंगमध्ये अक्षम करा
 detail-home =
     .label = मुख्यपृष्ठ
 detail-home-value =
@@ -204,5 +207,6 @@ extensions-updates-update-selected =
 
 ## Extension shortcut management
 
+shortcuts-card-collapse-button = कमी दर्शवा
 go-back-button =
     .tooltiptext = मागे जा
