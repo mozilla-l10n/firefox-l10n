@@ -23,4 +23,6 @@ sync-label = Insere tu email
 sync-input =
     .placeholder = Email
 sync-button = Continuar
+sync-terms = Si tu procede, tu concorda con le <a data-l10n-name="terms">Terminos de servicio</a> e con le <a data-l10n-name="privacy">Aviso de confidentialitate</a>.
+sync-first = Es il le prime vice que tu usa { -sync-brand-name }? Tu debera acceder a cata installation de Firefox pro synchronisar tu informationes.
 sync-learn = Saper plus
