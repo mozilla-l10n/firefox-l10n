@@ -16,17 +16,17 @@ changed-desc-dedicated = Denne installation har nu sin egen, dedikerede profil f
 lost = <b>Du har ikke mistet nogle af dine personlige data eller indstillinger.</b> Hvis du allerede har gemt oplysninger i Firefox på denne computer, så er de stadig tilgængelige i en anden Firefox-installation.
 
 options-title = Hvilke muligheder har jeg?
-options-do-nothing = Dine profil-data i { -brand-short-name } vil være forskellige fra profil-data i andre Firefox-installationer, hvis du ikke gør noget.
+options-do-nothing = Som standard vil dine profildata i { -brand-short-name } ikke blive synkroniseret med profil-data i dine andre Firefox-installationer.
 options-use-sync = Hvis du gerne vil have at dine profil-data skal være ens for alle installationer af Firefox, så kan du bruge en { -fxaccount-brand-name } til at holde dem synkroniserede.
 
 resources = Læs mere:
 support-link = Brug Profilmanageren - artikel
 
 sync-header = Log ind eller opret en { -fxaccount-brand-name }
-sync-label = Indtast din mail-adresse
+sync-label = Indtast din mailadresse
 sync-input =
-  .placeholder = Mail-adresse
+  .placeholder = Mailadresse
 sync-button = Fortsæt
-sync-terms = Ved at fortsætte godkender du vores <a data-l10n-name="terms">Tjenestevilkår</a> og <a data-l10n-name="privacy">privatlivspolitik</a>.
+sync-terms = Ved at fortsætte accepterer du vores <a data-l10n-name="terms">tjenestevilkår</a> og vores <a data-l10n-name="privacy">privatlivspolitik</a>.
 sync-first = Er det første gang, du bruger { -sync-brand-name }? Så er du nødt til at logge ind i hver enkel installation af Firefox for at synkronisere dine oplysninger.
 sync-learn = Læs mere
