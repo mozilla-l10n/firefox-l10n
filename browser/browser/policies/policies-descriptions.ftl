@@ -17,7 +17,7 @@ policy-BlockAboutConfig = Blokker tilgang til about:config-siden.
 policy-BlockAboutProfiles = Blokker tilgang til about:profiles-siden.
 policy-BlockAboutSupport = Blokker tilgang til about:support-siden.
 policy-Bookmarks = Opprett bokmerker i bokmerkeverktøylinjen, i bokmerkermenyen eller en nærmere angitt mappe i dem.
-policy-Certificates = Om innebygde sertifikat skal brukes eller ikke. Denne policy gjelder kun for Windows på nåværende tidspunkt.
+policy-CaptivePortal = Aktiver eller deaktiver støtte for captive portal.
 policy-CertificatesDescription = Legg til sertifikater eller bruk innebygde sertifikater.
 policy-Cookies = Tillat eller nekt nettsteder å lagre infokapsler.
 policy-DisableAppUpdate = Forhindre oppdatering av nettleseren.
@@ -37,7 +37,6 @@ policy-DisableProfileImport = Deaktiver meny-kommandoen for å importere data fr
 policy-DisableProfileRefresh = Deaktiver knappen Tilbakestill { -brand-short-name } på siden about:support.
 policy-DisableSafeMode = Deaktiver funksjonen for å starte på nytt i sikker modus. NB: Deaktivering av tasten skift for å starte sikker modus kan kun gjennomføres i Windows via gruppepolicy.
 policy-DisableSecurityBypass = Forhindre brukerens mulighet til å omgå visse sikkerhetsadvarsler.
-policy-DisableSetDesktopBackground = Deaktiver menykommandoen Bruk bilde som skrivebordsbakgrunn.
 policy-DisableSetAsDesktopBackground = Deaktiver menykommandoen Bruk som skrivebordsbakgrunn for bilder.
 policy-DisableSystemAddonUpdate = Forhindre at nettleseren installerer og oppdaterer system-utvidelser.
 policy-DisableTelemetry = Slå av av telemetri.
@@ -49,8 +48,7 @@ policy-DontCheckDefaultBrowser = Deaktiver sjekk om standard-nettleser ved oppst
 policy-EnableTrackingProtection = Aktiver eller deaktiver innholdsblokkering med mulighet til å låse valget.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
-# English or translate them as verbs. See also:
-# https://github.com/mozilla/policy-templates/blob/master/README.md#extensions-machine-only
+# English or translate them as verbs.
 policy-Extensions = Installere, avinstallere eller låse utvidelser. Installeringsalternativet tar nettadresser eller baner som parametere. Avinstallerings- og Låse-alternativene tar utvidelses-ID som parameter.
 policy-FlashPlugin = Tillat eller nekt bruk av programtillegget Flash.
 policy-HardwareAcceleration = Hvis deaktivert, slå av maskinvareakselerasjon.
@@ -70,6 +68,7 @@ policy-SearchBar = Angi standardplassering for søkefeltet. Brukeren kan fortsat
 policy-SearchEngines = Konfigurer søkemotorinnstillinger. Denne policyen er kun tilgjengelig for Extended Support Release (ESR).
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Installer PKCS #11-moduler.
-# “format” refers to the format used for the value of this policy. See also:
-# https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
+policy-SSLVersionMax = Angi den maksimale SSL-versjonen.
+policy-SSLVersionMin = Angi den minimale SSL-versjonen.
+# “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Blokker besøk på nettsteder. Les dokumentasjonen for detaljer om formatet.
