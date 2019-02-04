@@ -88,6 +88,15 @@ detail-update-automatic =
 detail-update-manual =
     .label = Kapalı
     .tooltiptext = Güncellemeleri kendiliğinden kurma
+# Used as a description for the option to allow or block an add-on in private windows.
+detail-private-browsing-label = Gizli pencerede çalışabilir
+detail-private-browsing-description = Bu eklenti gizli pencelerde de çalışacak ve web’deki etkinliklerinize erişebilecek. <label data-l10n-name="detail-private-browsing-learn-more">Daha fazla bilgi alın</label>
+detail-private-browsing-on =
+    .label = İzin ver
+    .tooltiptext = Gizli gezintide izin ver
+detail-private-browsing-off =
+    .label = İzin verme
+    .tooltiptext = Gizli gezintide etkisizleştir
 detail-home =
     .label = Ana sayfa
 detail-home-value =
@@ -130,6 +139,7 @@ legacy-warning-show-legacy = Eski teknoloji eklentileri göster
 legacy-extensions =
     .value = Eski teknoloji eklentiler
 legacy-extensions-description = Bu eklentiler yeni { -brand-short-name } standartlarını karşılamadığı için etkisiz hale getirilmiştir. <label data-l10n-name="legacy-learn-more">Eklentilerde yaptığımız değişiklikler hakkında bilgi alın</label>
+private-browsing-description = Gizli pencerede eklentilerinizin çalışmasına izin verilmez. Bu sayede, gizli gezinti sırasında web'de yaptıklarınızı göremezler. Belli bir eklentinin gizli pencerelerde de çalışmasını isterseniz aşağıdan o eklentinin kartını seçerek izin ayarını değiştirebilirsiniz. <label data-l10n-name="private-browsing-learn-more">Daha fazla bilgi alın.</label>
 extensions-view-discover =
     .name = Eklentileri edinin
     .tooltiptext = { extensions-view-discover.name }
@@ -210,8 +220,6 @@ extensions-updates-update-selected =
 
 ## Extension shortcut management
 
-shortcuts-manage =
-    .label = Klavye kısayolları
 manage-extensions-shortcuts =
     .label = Eklenti kısayollarını yönet
     .accesskey = E
@@ -227,5 +235,11 @@ shortcuts-modifier-other = Ctrl veya Alt kullanmalısınız
 shortcuts-invalid = Geçersiz kombinasyon
 shortcuts-letter = Bir harf yazın
 shortcuts-system = { -brand-short-name } kısayollarını değiştiremezsiniz
+shortcuts-card-expand-button =
+    { $numberToShow ->
+        [one] { $numberToShow } tane daha göster
+       *[other] { $numberToShow } tane daha göster
+    }
+shortcuts-card-collapse-button = Daha az göster
 go-back-button =
     .tooltiptext = Geri dön

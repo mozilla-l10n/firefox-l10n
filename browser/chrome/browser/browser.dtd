@@ -1128,6 +1128,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Eklentilerinizi yönetmek için <image class='addon-toolbar-icon'/> menüdeki <image class='addon-addon-icon'/> simgesine tıklayabilirsiniz.">
 
+<!ENTITY addonPrivateBrowsing.header.label "Gizli Pencerelerde Eklentiler">
+<!ENTITY addonPrivateBrowsing.body.label "Gizli pencerede eklentilerinizin çalışmasına varsayılan olarak izin verilmez. Gizli gezinti sırasında eklentileriniz çalışmaz ve web’de yaptıklarınızı göremezler. İsterseniz ayarlarınızı değiştirerek seçtiğiniz eklentilerin gizli pencerelerde çalışmasına izin verebilirsiniz.">
 <!ENTITY addonPrivateBrowsing.okButton.label "Tamam, anladım">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "T">
 <!ENTITY addonPrivateBrowsing.manageButton.label "Eklentileri yönet">
