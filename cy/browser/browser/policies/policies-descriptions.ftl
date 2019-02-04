@@ -17,7 +17,7 @@ policy-BlockAboutConfig = Rhwystro mynediad i'r dudalen about:config.
 policy-BlockAboutProfiles = Rhwystro mynediad i'r dudalen about:profiles.
 policy-BlockAboutSupport = Rhwystro mynediad i'r dudalen about:support.
 policy-Bookmarks = Creu nodau tudalen yn y bar offer Nodau Tudalen, dewislen Nodau Tudalen neu ffolder penodol o'u mewn.
-policy-Certificates = P'un ai ddefnyddio tystysgrifau mewnol. Polisi ar gyfer Windows yw hyn ar hyn o bryd.
+policy-CaptivePortal = Galluogi neu analluogi'r cymorth porth caeth.
 policy-CertificatesDescription = Ychwanegu tystysgrifau neu ddefnyddio tystysgrifau mewnol.
 policy-Cookies = Caniatáu neu wrthod i wefannau osod cwcis.
 policy-DisableAppUpdate = Rhwystro'r wefan rhag diweddaru.
@@ -37,7 +37,6 @@ policy-DisableProfileImport = Analluogi'r gorchymyn dewislen i fewnforio data o 
 policy-DisableProfileRefresh = Analluogi botwm Adnewyddu { -brand-short-name } yn nhudalen about:support
 policy-DisableSafeMode = Analluogi'r nodwedd i ailgychwyn yn y Modd Diogel. Sylw: dim ond drwy'r Polisi Grŵp y mae modd analluogi'r defnydd o fysell Shift i fynd i'r modd Diogel.
 policy-DisableSecurityBypass = Rhwystro'r defnyddiwr rhag osgoi rhai rhybuddion diogelwch.
-policy-DisableSetDesktopBackground = Analluogi gorchymyn dewislen Gosod Delwedd fel Cefndir y Bwrdd Gwaith.
 policy-DisableSetAsDesktopBackground = Analluogi'r dewislen gorchymyn Gosod fel Delwedd Cefndir ar gyfer delwddau.
 policy-DisableSystemAddonUpdate = Rhwystro'r porwr rhag gosod a diweddaru ychwanegion y system.
 policy-DisableTelemetry = Diffodd Telemetreg
@@ -49,8 +48,7 @@ policy-DontCheckDefaultBrowser = Analluogi gwirio am y porwr rhagosodedig wrth g
 policy-EnableTrackingProtection = Galluogi neu analluogi Rhwystro Cynnwys ac o ddewis ei gloi.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
-# English or translate them as verbs. See also:
-# https://github.com/mozilla/policy-templates/blob/master/README.md#extensions-machine-only
+# English or translate them as verbs.
 policy-Extensions = Gosod, dadosod neu gloi estyniadau. Mae'r dewis gosod yn cymryd URL neu lwybrau fel paramedrau. Mae'r dewisiadau Dadosod a Chloi yn cymryd dynodiad estyniadau.
 policy-FlashPlugin = Caniatáu neu wrthod defnydd o'r ychwanegyn Flash.
 policy-HardwareAcceleration = Os gau, diffodd cyflymu caledwedd.
@@ -70,6 +68,7 @@ policy-SearchBar = Gosod y lleoliad ragosodedig y bar chwilio. Mae'r defnyddiwr 
 policy-SearchEngines = Ffurfweddu gosodiadau peiriannau chwilio. Dim ond yn y fersiwn Extended Support Release (ESR) ma'r polisi hwn ar gael.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Gosod modiwlau PKCS #11.
-# “format” refers to the format used for the value of this policy. See also:
-# https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
+policy-SSLVersionMax = Gosodwch y fersiwn SSL uchaf.
+policy-SSLVersionMin = Gosodwch y fersiwn SSL lleiaf.
+# “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Rhwystro gwefannau rhag derbyn ymweliadau. Gw. dogfennaeth am ragor o wybodaeth ar y fformat.
