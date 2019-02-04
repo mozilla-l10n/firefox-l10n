@@ -596,6 +596,9 @@ sitedata-clear =
 sitedata-settings =
     .label = डेटा व्यवस्थापित करा...
     .accesskey = M
+sitedata-cookies-permissions =
+    .label = परवानग्या व्यवस्थापित करा ...
+    .accesskey = P
 
 ## Privacy Section - Address Bar
 
@@ -619,6 +622,7 @@ content-blocking-learn-more = अधिक जाणून घ्या
 content-blocking-setting-strict =
     .label = कठोर
     .accesskey = r
+content-blocking-custom-desc = काय ब्लॉक करावे ते निवडा.
 content-blocking-learn-how = कसे ते जाणा
 content-blocking-trackers-label =
     .label = ट्रॅकर

@@ -9,6 +9,8 @@ about-performance-title = कार्य व्यवस्थापक
 
 column-name = नाव
 column-type = प्रकार
+column-energy-impact = ऊर्जा प्रभाव
+column-memory = मेमरी
 
 ## Special values for the Name column
 
@@ -31,6 +33,12 @@ type-other = इतर
 energy-impact-high = उच्च ({ $value })
 energy-impact-medium = मध्यम ({ $value })
 energy-impact-low = कमी ({ $value })
+
+## Values for the Memory column
+##
+## Variables:
+##   $value (Number) - How much memory is used
+
 
 ## Tooltips for the action buttons
 
