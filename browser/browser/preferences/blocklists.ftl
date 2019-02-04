@@ -6,7 +6,7 @@ blocklist-window =
     .title = Rhestrau Rhwystro
     .style = width: 55em
 blocklist-desc = Gallwch ddewis pa restr fydd { -brand-short-name } yn ei ddefnyddio i rwystro elfennau Gwe gall fod yn tracio eich gweithgaredd pori.
-blocklist-description = Dewis y rhestr mae { -brand-short-name } yn ei defnyddio i atal tracio ar-lein. Rhestrau yn cael eu darparu gan <a data-l10n-name="disconnect-link" title="Disconnect"> Datgysylltu</a>.
+blocklist-description = Dewis y rhestr mae { -brand-short-name } yn ei defnyddio i atal tracio ar-lein. Rhestrau'n cael eu darparu gan <a data-l10n-name="disconnect-link" title="Disconnect"> Datgysylltu</a>.
 blocklist-close-key =
     .key = w
 blocklist-treehead-list =
@@ -29,7 +29,7 @@ blocklist-item-moz-std-name = Diogelwch sylfaenol Disconnect.me (Argymhellir).
 blocklist-item-moz-std-desc = Caniatáu rhai tracwyr fel bod gwefannau'n gweithio'n iawn.
 blocklist-item-moz-full-name = Diogelwch caeth Disconnect.me.
 blocklist-item-moz-full-desc = Rhwystro tracwyr hysbys. Efallai na fydd rhai gwefannau'n gweithio'n iawn.
-blocklist-item-moz-std-listName = Rhestr rhwystro Lefel 1 (Argymhellir).
+blocklist-item-moz-std-listName = Rhestr rhwystro Lefel 1 (Argymell).
 blocklist-item-moz-std-description = Mae'n caniatáu rhai tracwyr fel bod llai o wefannau yn torri.
 blocklist-item-moz-full-listName = Rhestr rhwystro Lefel 2.
 blocklist-item-moz-full-description = Yn rhwystro pob traciwr wedi'u canfod. Efallai na fydd rhai gwefannau neu gynnwys yn llwytho'n iawn.
