@@ -67,5 +67,7 @@ policy-SearchBar = Ορίστε την προεπιλεγμένη τοποθεσ
 policy-SearchEngines = Διαμόρφωση ρυθμίσεων μηχανής αναζήτησης. Αυτή η πολιτική είναι διαθέσιμη μόνο στην έκδοση εκτεταμένης υποστήριξης (ESR).
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Εγκατάσταση προσθέτων PKCS #11.
+policy-SSLVersionMax = Ορίστε τη μέγιστη έκδοση SSL.
+policy-SSLVersionMin = Ορίστε την ελάχιστη έκδοση SSL.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Αποκλεισμός επίσκεψης σε ιστοσελίδας. Δείτε την τεκμηρίωση για περισσότερες λεπτομέρειες στο format.
