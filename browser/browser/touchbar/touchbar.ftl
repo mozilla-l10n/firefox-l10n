@@ -17,4 +17,4 @@ reader-view = منظور القارئ
 # Meant to match the string displayed in an empty URL bar.
 open-location = ابحث أو أدخِل عنوانا
 share = شارِك
-focus = أغلِق
+close-window = أغلِق النافذة

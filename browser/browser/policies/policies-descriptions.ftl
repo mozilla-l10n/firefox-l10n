@@ -17,7 +17,6 @@ policy-BlockAboutConfig = منع الوصول إلى صفحة about:config.
 policy-BlockAboutProfiles = منع الوصول إلى صفحة about:profiles.
 policy-BlockAboutSupport = منع الوصول إلى صفحة about:support.
 policy-Bookmarks = إنشاء العلامات في شريط العلامات أو في قائمة العلامات أو في مجلد محدّد داخلها.
-policy-Certificates = فيما إذا كان يجب استخدام الشهادات المضمّنة أم لا. تعمل هذه السياسة في وندوز حاليا فقط.
 policy-CertificatesDescription = إضافة الشهادات أو استخدام الشهادات المضمّنة.
 policy-Cookies = السماح للمواقع بضبط الكعكات أو الرفض.
 policy-DisableAppUpdate = منع المتصفح من التحديث.
@@ -37,7 +36,6 @@ policy-DisableProfileImport = تعطيل أمر القائمة الخاص باس
 policy-DisableProfileRefresh = تعطيل زر ”أنعِش { -brand-short-name }“ في صفحة about:support.
 policy-DisableSafeMode = تعطيل ميزة إعادة التشغيل في الوضع الآمن. ملاحظة: لا يمكن تعطيل مفتاح Shift لدخول الوضع الآمن في وِندوز إلا باستخدام سياسة المجموعات.
 policy-DisableSecurityBypass = منع المستخدم من تخطّي أنواع معيّنة من التحذيرات الأمنية.
-policy-DisableSetDesktopBackground = تعطيل أمر القائمة الخاص بضبط الصورة كخلفية لسطح المكتب.
 policy-DisableSetAsDesktopBackground = تعطيل أمر القائمة الخاص بالضبط كخلفية سطح مكتب للصور.
 policy-DisableSystemAddonUpdate = منع المتصفّح من تثبيت امتدادات النظام أو تحديثها.
 policy-DisableTelemetry = تعطيل تيليمتري.
@@ -69,5 +67,7 @@ policy-SearchBar = ضبط المكان المبدئي لشريط البحث. ي�
 policy-SearchEngines = ضبط إعدادات محرّك البحث. هذه السياسة متاحة في النسخة ممتدّة الدعم (ESR) لا غير.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = تثبيت وحدات PKCS #11.
+policy-SSLVersionMax = ضبط إصدارة SSL العليا.
+policy-SSLVersionMin = ضبط إصدارة SSL الدنيا.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = منع زيارة المواقع. طالع التوثيق لتفاصيل أكثر بخصوص النسق.

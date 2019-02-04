@@ -11,6 +11,7 @@ about-config-title = about:config
 about-config-search =
     .placeholder = ابحث أو اضغط مفتاح ESC لعرض كل شيء
 about-config-pref-add = أضِف
+about-config-pref-toggle = بدّل
 about-config-pref-edit = حرّر
 about-config-pref-save = احفظ
 about-config-pref-reset = صفّر

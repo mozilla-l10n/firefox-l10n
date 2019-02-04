@@ -30,3 +30,6 @@ blocklist-item-moz-std-desc = اسمح ببعض المتعقّبات لتعمل 
 blocklist-item-moz-full-name = حماية Disconnect.me الصارمة.
 blocklist-item-moz-full-desc = يحجب المتعقّبات المعروفة. قد لا تعمل بعض مواقع الوِب كما ينبغي.
 blocklist-item-moz-std-listName = المستوی الأول من قائمة الحجب (مستحسن).
+blocklist-item-moz-std-description = يترك بعض المتعقّبات على حالها لألا تعطب الكثير من المواقع.
+blocklist-item-moz-full-listName = المستوى الثاني من قائمة الحجب.
+blocklist-item-moz-full-description = يحجب كل المتعقّبات المكتشفة. يمكن ألا تتحمّل بعض المواقع أو أجزاء منها كما ينبغي.
