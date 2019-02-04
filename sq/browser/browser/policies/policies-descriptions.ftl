@@ -67,5 +67,7 @@ policy-SearchBar = Caktoni vendin parazgjedhje për shtyllën e kërkimeve. Për
 policy-SearchEngines = Formësoni rregullime motori kërkimesh. Ky rregull tani është i përdorshëm vetëm në versionin Extended Support Release (ESR).
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Instaloni module PKCS #11.
+policy-SSLVersionMax = Caktoni version maksimum SSL-je.
+policy-SSLVersionMin = Caktoni version minimum SSL-je.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Bllokoni vizita në sajte. Për më tepër hollësi mbi këtë format, shihni dokumentimin.
