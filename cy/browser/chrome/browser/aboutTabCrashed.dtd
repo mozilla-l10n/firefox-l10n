@@ -20,7 +20,7 @@
 <!ENTITY tabCrashed.single.offerHelpMessage2 "Dewiswch &tabCrashed.restoreTab; i ail lwytho'r dudalen.">
 <!ENTITY tabCrashed.multiple.offerHelpMessage2 "Dewiswch &tabCrashed.restoreTab; neu &tabCrashed.restoreAll; i ail lwytho'r dudalen/tudalennau.">
 <!ENTITY tabCrashed.requestHelp "A wnewch chi ein helpu ni?">
-<!ENTITY tabCrashed.requestHelpMessage "Mae adroddiadau chwalu yn caniatau i ni ddadansoddi anawsterau a gwneud &brandShortName; yn well.">
+<!ENTITY tabCrashed.requestHelpMessage "Mae adroddiadau chwalu yn caniatáu i ni ddadansoddi anawsterau a gwneud &brandShortName; yn well.">
 <!ENTITY tabCrashed.requestReport "Adrodd am y tab">
 <!ENTITY tabCrashed.sendReport3 "Anfonwch adroddiad chwalu awtomataidd fel bod modd i ni drwsio materion fel hyn.">
 <!ENTITY tabCrashed.commentPlaceholder2 "Sylwadau dewisol (sylwadau yn weladwy'n gyhoeddus)">

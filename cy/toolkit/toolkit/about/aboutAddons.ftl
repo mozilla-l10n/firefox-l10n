@@ -70,7 +70,7 @@ cmd-contribute =
     .accesskey = C
     .tooltiptext = Cyfrannu i ddatblygiad yr ychwanegyn
 discover-title = Beth yw Ychwanegion?
-discover-description = Mae Ychwanegion yn raglenni sy'n caniatáu i chi bersenoleiddio { -brand-short-name } gyda swyddogaethau neu steil ychwanegol. Defnyddiwch y bar ochr, hysbysydd tywydd, neu thema i'ch gwneud yn gysurus gyda { -brand-short-name }.
+discover-description = Mae Ychwanegion yn raglenni sy'n caniatáu i chi bersonoleiddio { -brand-short-name } gyda swyddogaethau neu steil ychwanegol. Defnyddiwch y bar ochr, hysbysydd tywydd, neu thema i'ch gwneud yn gysurus gyda { -brand-short-name }.
 discover-footer = Pan fyddwch wedi cysylltu â'r rhyngrwyd, bydd y paen yn cynnwys rhai o'r ychwanegion gorau a mwyaf poblogaidd i chi eu dewis.
 detail-version =
     .label = Fersiwn
@@ -210,8 +210,6 @@ extensions-updates-update-selected =
 
 ## Extension shortcut management
 
-shortcuts-manage =
-    .label = Llwybrau Byr Bysellfwrdd
 shortcuts-empty-message = Nid oes llwybrau byr ar gyfer yr estyniad hwn.
 shortcuts-no-addons = Nid oes gennych unrhyw estyniadau wedi'u galluogi.
 shortcuts-input =
