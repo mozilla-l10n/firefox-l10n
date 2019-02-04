@@ -17,7 +17,7 @@ policy-BlockAboutConfig = Tiq'at okem pa ri about:config ruxaq.
 policy-BlockAboutProfiles = Tiq'at okem pa ri about:profiles ruxaq.
 policy-BlockAboutSupport = Tiq'at okem pa ri about:support ruxaq.
 policy-Bookmarks = Ketz'uk taq yaketal pa ri Rukatz'ik yaketal. pa ri Ruk'utsamaj yaketal o pa jun kiyakwuj.
-policy-Certificates = Ye'okisäx o man ye'okisäx ta iqitzijib'äl etz'aqatisan pa cholajil. Re na'ojil re' xa xe pa ri Windows wakami.
+policy-CaptivePortal = Titz'ij o tichup ri rutob'al ri chapon portal.
 policy-CertificatesDescription = Ketz'aqatisäx taq iqitzijib'äl o ke'okisäx tz'aqatisan taq iqitzijib'äl.
 policy-Cookies = Niya' o man niya' ta q'ij chi ke ri ajk'amaya'l taq ruxaq richin nikijikib'a' taq kaxlanwäy.
 policy-DisableAppUpdate = Man tiya' q'ij richin nuk'ëx ri' ri okik'amaya'l.
@@ -37,7 +37,6 @@ policy-DisableProfileImport = Tichup ri runuk'uj k'utsamaj richin yejik' taq tzi
 policy-DisableProfileRefresh = Tichup ri Titzolïx { -brand-short-name } pitz'b'äl pa ri ruxaq about:support.
 policy-DisableSafeMode = Tichup ri rub'anikil richin nitikirisäx chik pa ri Ütz Rub'anikil. Ch'utitzijol: Ri Shift pitz'b'äl richin yatok pa ri Ütz Rub'anikil xa xe tikirel nichup pa Windows rik'in rokisaxik Runa'ojil Rumolaj Q'inoj.
 policy-DisableSecurityBypass = Tichajïx chi ri okisanel tik'o pa kiwi' jujun kitzijol k'ayewal.
-policy-DisableSetDesktopBackground = Tichup runuk'uj k'utsamaj richin niya' jun wachib'äl achi'el Rupam Ajch'atal.
 policy-DisableSetAsDesktopBackground = Tichup runuk'uj k'utsamaj Tiya' achi'el Rupam Ajch'atal kichin ri taq wachib'äl.
 policy-DisableSystemAddonUpdate = Tichajïx chi ri okik'amaya'l keruyaka' chuqa' keruk'exa' ri taq rutz'aqat q'inoj.
 policy-DisableTelemetry = Tichup Telemetry.
@@ -49,8 +48,7 @@ policy-DontCheckDefaultBrowser = Tichup ri tojtob'äl okik'amaya'l k'o wi pa rut
 policy-EnableTrackingProtection = Titzij o tichup ri Kiq'atik Rupam chuqa' ticha' toq niq'at.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
-# English or translate them as verbs. See also:
-# https://github.com/mozilla/policy-templates/blob/master/README.md#extensions-machine-only
+# English or translate them as verbs.
 policy-Extensions = Tiyak, tiyuj o keq'at taq k'amal. Ri rucha'ik Tiyak yeruchäp URLs taq ochochib'äl o taq b'ey achi'el etab'äl. Ri Tiyuj chuqa' Tiq'at yeruchäp ID kichin taq k'amal.
 policy-FlashPlugin = Niya' q'ij o man niya' ta q'ij nokisäx ri Flash nak'ab'äl.
 policy-HardwareAcceleration = We man qitzij ta, tichup ranin ch'akulkem.
@@ -70,6 +68,7 @@ policy-SearchBar = Tib'an runuk'ulem ri k'ojlib'äl k'o wi pa ri rukajtz'ik kano
 policy-SearchEngines = Tib'an runuk'ulem ri kanob'äl. Re na'ojil re' xa xe okel pa ri ruwäch Extended Support Release (ESR).
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Keyak PKCS #11 taq juperaj.
-# “format” refers to the format used for the value of this policy. See also:
-# https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
+policy-SSLVersionMax = Tijikib'äx ri nïm ruwäch SSL.
+policy-SSLVersionMin = Tijikib'äx ri ko'öl ruwäch SSL
+# “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Tiq'at ri tz'etoj rik'in ajk'amaya'l ruxaq. Tatz'eta' ri ruwujil richin nawetamaj ch'aqa' chik rutzijoxik rub'anikil.
