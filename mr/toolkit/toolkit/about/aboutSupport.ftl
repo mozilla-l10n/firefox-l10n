@@ -172,6 +172,7 @@ hardware-h264 = हार्डवेअर H264 डिकोडिंग
 main-thread-no-omtc = मुख्य थ्रेड, OMTC नाही
 yes = होय
 no = नाही
+unknown = अपरिचीत
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
@@ -231,6 +232,7 @@ effective-content-sandbox-level = प्रभावी मजकूर प्�
 sandbox-proc-type-content = मजकूर
 sandbox-proc-type-file = फाईलचा मजकूर
 sandbox-proc-type-media-plugin = मिडीया प्लगइन
+launcher-process-status-0 = सक्षम
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
