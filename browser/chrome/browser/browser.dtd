@@ -1126,3 +1126,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "أدِر إضافاتك بنقر <image class='addon-addon-icon'/> في قائمة <image class='addon-toolbar-icon'/>.">
+
+<!ENTITY addonPrivateBrowsing.okButton.label "حسنًا، فهمت">
+<!ENTITY addonPrivateBrowsing.okButton.accesskey "ح">
+<!ENTITY addonPrivateBrowsing.manageButton.label "أدِر الامتدادات">
+<!ENTITY addonPrivateBrowsing.manageButton.accesskey "د">
