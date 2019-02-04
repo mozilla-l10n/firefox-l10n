@@ -49,6 +49,7 @@ pane-sync-title = Firefox खाते
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = { -brand-short-name } मदत केंद्र
+addons-button-label = विस्तार आणि थीम
 focus-search =
     .key = f
 close-button =
@@ -587,6 +588,8 @@ sitedata-allow-cookies-option =
 # The list items are the strings named sitedata-block-*-option*.
 sitedata-block-desc = प्रकार अवरोधित
     .accesskey = T
+sitedata-option-block-trackers =
+    .label = थर्ड-पार्टी ट्रॅकर
 sitedata-clear =
     .label = माहिती पुसा...
     .accesskey = l
@@ -620,12 +623,21 @@ content-blocking-learn-how = कसे ते जाणा
 content-blocking-trackers-label =
     .label = ट्रॅकर
     .accesskey = T
+content-blocking-tracking-protection-option-all-windows =
+    .label = सर्व पटलामध्ये
+    .accesskey = A
+content-blocking-option-private =
+    .label = फक्त खाजगी पटलामध्ये
+    .accesskey = P
 content-blocking-cookies-label =
     .label = कुकीज
     .accesskey = C
 
 ## Privacy Section - Tracking
 
+tracking-manage-exceptions =
+    .label = अपवाद व्यवस्थापित करा...
+    .accesskey = x
 
 ## Privacy Section - Permissions
 

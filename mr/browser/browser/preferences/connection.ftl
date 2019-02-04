@@ -70,6 +70,13 @@ connection-proxy-socks-remote-dns =
 connection-dns-over-https =
     .label = HTTPS वरील DNS सक्षम करा
     .accesskey = H
-connection-dns-over-https-url = URL
+# Variables:
+#   $url (String) - URL for the DNS over HTTPS provider
+connection-dns-over-https-url-default =
+    .label = पूर्वनिर्धारित वापरा ({ $url })
     .accesskey = U
-    .tooltiptext = HTTPS वरील DNS चे निराकरण करण्यासाठी URL
+    .tooltiptext = HTTPS वरील DNS चे निराकरण करण्यासाठी ह्या URL चा वापरा करा
+connection-dns-over-https-url-custom =
+    .label = पसंतीचे
+    .accesskey = C
+    .tooltiptext = HTTPS वरील DNS चे निराकरण करण्यासाठी URL प्रविष्ट करा

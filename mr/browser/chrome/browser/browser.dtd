@@ -629,6 +629,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
+<!ENTITY pocketButton.tooltiptext     "Pocket मध्ये जतन करा">
 <!ENTITY saveToPocketCmd.label        "पृष्ठ Pocket मध्ये जतन करा">
 <!ENTITY saveToPocketCmd.accesskey    "k">
 <!ENTITY saveLinkToPocketCmd.label    "दुवा Pocket मध्ये जतन करा">
@@ -979,8 +980,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.trackingProtection3.label "ट्रॅकर">
 
+<!ENTITY contentBlocking.manageSettings.label "मजकूर अवरोधन व्यवस्थापित करा">
 <!ENTITY contentBlocking.manageSettings.accesskey "M">
 
+<!ENTITY contentBlocking.trackersView.label "ट्रॅकर">
 
 <!ENTITY contentBlocking.cookies.label "कुकीज">
 <!ENTITY contentBlocking.cookiesView.label "कुकीज आणि साईट माहिती">
