@@ -93,6 +93,9 @@ detail-update-automatic =
 detail-update-manual =
     .label = Inactive
     .tooltiptext = Non installar automaticamente le actualisationes
+# Used as a description for the option to allow or block an add-on in private windows.
+detail-private-browsing-label = Aperir in un fenestra private
+detail-private-browsing-description = Le extension functionara in fenestras anonyme e habera accesso a tu activitates online. <label data-l10n-name="detail-private-browsing-learn-more">Saper plus</label>
 detail-private-browsing-on =
     .label = Consentir
     .tooltiptext = Activar in navigation anonime
@@ -236,6 +239,11 @@ shortcuts-modifier-other = Include Ctrl o Alt
 shortcuts-invalid = Combination non valide
 shortcuts-letter = Scribe un littera
 shortcuts-system = Impossibile supplantar un via breve de { -brand-short-name }
+shortcuts-card-expand-button =
+    { $numberToShow ->
+        [one] Mostrar altere { $numberToShow }
+       *[other] Mostrar altere { $numberToShow }
+    }
 shortcuts-card-collapse-button = Monstrar minus
 go-back-button =
     .tooltiptext = Regreder

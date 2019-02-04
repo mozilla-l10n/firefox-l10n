@@ -4,6 +4,7 @@
 
 # An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
 about-config-warning-title = Hic sunt dracones!
+about-config-warning-text = Cambiar iste parametros avantiate pote esser nocive al stabilitate, securitate e rendimento de iste application. Tu debe continuar solmente si tu es secur de illo que tu va facer.
 about-config-warning-checkbox = Memora me postea, per favor!
 about-config-warning-button = Io accepta le risco!
 about-config-title = about:config

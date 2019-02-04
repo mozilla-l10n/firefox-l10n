@@ -7,6 +7,9 @@
 ### Firefox" and "version" is used to mean "the specific revision number of a
 ### given Firefox channel". These terms are not synonymous.
 
+title = Novas importante
+changed-title = Que es cambiate?
+options-title = Qual es mi optiones?
 resources = Ressources:
 sync-header = Accede o crea un { -fxaccount-brand-name }
 sync-label = Insere tu email
