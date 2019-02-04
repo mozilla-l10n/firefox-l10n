@@ -61,4 +61,4 @@ show-addon =
 #   $dispatchesSincePrevious (Number) - how many dispatches occured in the last 2 seconds
 #   $durationSincePrevious (Number) - how much CPU time was used in the last 2 seconds
 item =
-    .title = Envíos desde la carga: { $totalDispatches } ({ $totalDuration }ms) Envíos en los últimos segundos: { $despachosDesdeAnterior } ({ $durationSincePrevious }ms)
+    .title = Envíos desde la carga: { $totalDispatches } ({ $totalDuration }ms) Envíos en los últimos segundos: { $dispatchesSincePrevious } ({ $durationSincePrevious }ms)
