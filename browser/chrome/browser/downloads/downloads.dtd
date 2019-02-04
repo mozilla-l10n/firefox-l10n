@@ -103,7 +103,7 @@
      downloads fit in the available space, or when there are no downloads in
      the panel at all.
      -->
-<!ENTITY downloadsHistory.label           "Mostrar downloads">
+<!ENTITY downloadsHistory.label           "Mostrar todos os downloads">
 <!ENTITY downloadsHistory.accesskey       "s">
 
 <!-- LOCALIZATION NOTE (downloadDetails.label):
