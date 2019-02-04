@@ -88,6 +88,15 @@ detail-update-automatic =
 detail-update-manual =
     .label = Av
     .tooltiptext = Ikke automatisk installer oppdateringer
+# Used as a description for the option to allow or block an add-on in private windows.
+detail-private-browsing-label = Kjør i private vindu
+detail-private-browsing-description = Utvidelser vil fungere i private vindu, og få tilgang til dine aktiviteter på nettet. <label data-l10n-name="detail-private-browsing-learn-more">Les mer</label>
+detail-private-browsing-on =
+    .label = Tillat
+    .tooltiptext = Tillat i privat nettlesing
+detail-private-browsing-off =
+    .label = Tillat ikke
+    .tooltiptext = Tillat ikke i privat nettlesing
 detail-home =
     .label = Hjemmeside
 detail-home-value =
@@ -207,3 +216,6 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Installer oppdateringer
     .tooltiptext = Installer tilgjengelige oppdateringer i denne listen
+
+## Extension shortcut management
+
