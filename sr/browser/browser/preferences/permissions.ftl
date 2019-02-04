@@ -58,10 +58,10 @@ permissions-invalid-uri-label = Унесите исправно име хост�
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-tracking-protection-window =
-    .title = Изузеци - заштита од праћења
+permissions-exceptions-content-blocking-window =
+    .title = Изузеци - блокирање садржаја
     .style = { permissions-window.style }
-permissions-exceptions-tracking-protection-desc = Онемогућили сте заштиту од праћења на овим сајтовима.
+permissions-exceptions-content-blocking-desc = Онемогућили сте блокирање садржаја на овим веб сајтовима.
 
 ## Exceptions - Cookies
 
