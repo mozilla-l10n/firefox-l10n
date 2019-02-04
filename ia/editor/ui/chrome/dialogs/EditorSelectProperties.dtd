@@ -7,9 +7,16 @@
 <!ENTITY Select.label "Lista de selection">
 <!ENTITY SelectName.label "Nomine del lista:">
 <!ENTITY SelectName.accesskey "N">
+<!ENTITY SelectSize.label "Altor:">
+<!ENTITY SelectSize.accesskey "A">
+<!ENTITY SelectMultiple.label "Selection multiple">
+<!ENTITY SelectMultiple.accesskey "M">
 <!ENTITY SelectDisabled.label "Disactivate">
 <!ENTITY SelectDisabled.accesskey "D">
+<!ENTITY SelectTabIndex.label "Indice tubulation:">
+<!ENTITY SelectTabIndex.accesskey "I">
 
+<!ENTITY OptGroup.label "Gruppo de optiones">
 <!ENTITY OptGroupLabel.label "Etiquetta:">
 <!ENTITY OptGroupLabel.accesskey "E">
 <!ENTITY OptGroupDisabled.label "Disactivate">
