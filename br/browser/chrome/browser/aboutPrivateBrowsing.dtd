@@ -37,6 +37,7 @@
                        text for the search box.   -->
 <!ENTITY aboutPrivateBrowsing.search.placeholder         "Klask er web">
 <!ENTITY aboutPrivateBrowsing.info.title                 "En ur prenestr merdeiñ prevez emaoc'h">
+<!ENTITY aboutPrivateBrowsing.info.description           "&brandShortName; a skarzh ho roll istor klask ha merdeiñ pa guitait an arload pe pa serrit an holl brenestroù hag ivinelloù merdeiñ prevez. Daoust ma ne lak ket ac'hanoc'h da vezañ dizanv evit al lec'hiennoù pe evit ho pourchaser kenrouedad e vo aesoc'h da zerc'hel prevez ar pezh a rit enlinenn evit an dud all a implij an urzhiataer-mañ. ">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article
                        about private browsing myths.   -->
 <!ENTITY aboutPrivateBrowsing.info.myths                 "Mojennoù a vez alies diwar-benn ar merdeiñ prevez">

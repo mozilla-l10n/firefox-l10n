@@ -880,6 +880,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsReloadHint "Ret eo deoc'h adkargañ ar bajenn evit arloañ ar c'hemmoù.">
 <!ENTITY identity.permissionsPreferences.tooltip "Digeriñ gwellvezioù an aotreoù">
 
+<!ENTITY identity.contentBlockingPreferences.tooltip "Digeriñ ar gwellvezioù stankadur endalc'had">
 
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -1128,3 +1129,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addonPostInstallMessage.label "Merit hoc'h askouezhioù en ur glikañ war <image class='addon-addon-icon'/> el lañser <image class='addon-toolbar-icon'/>.">
 
 <!ENTITY addonPrivateBrowsing.header.label "Askouezhioù en ur prenestr prevez">
+<!ENTITY addonPrivateBrowsing.body.label "N'eo ket aotreet an askouezhioù da vont en-dro dre ziouer er prenestroù prevez.  Ne 'z aint ket en-dro en ur verdeiñ prevez ha n'hallint ket haeziñ hoc'h oberiantiz enlinenn. Gallout a rit aotren pep askouezh da vont en-dro er prenestroù prevez en arventennoù.">
+<!ENTITY addonPrivateBrowsing.okButton.label "Mat eo, komprenet am eus">
+<!ENTITY addonPrivateBrowsing.okButton.accesskey "M">
+<!ENTITY addonPrivateBrowsing.manageButton.label "Merañ an askouezhioù">
+<!ENTITY addonPrivateBrowsing.manageButton.accesskey "a">
