@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 # An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
-about-config-warning-title = Cymrwch ofal - dreigiau!
+about-config-warning-title = Cymrwch ofal - dreigiau peryglus!
 about-config-warning-text = Gall newid y gosodiadau uwch hyn wneud niwed i sefydlogrwydd, diogelwch a pherfformiad y rhaglen. Dylech barhau dim ond os ydych yn gwybod beth rydych yn ei wneud.
 about-config-warning-checkbox = Blinwch fi eto, os gwelwch chi'n dda!
 about-config-warning-button = Rwy'n derbyn y perygl

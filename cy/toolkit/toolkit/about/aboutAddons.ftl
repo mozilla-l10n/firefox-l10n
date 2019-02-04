@@ -88,6 +88,15 @@ detail-update-automatic =
 detail-update-manual =
     .label = Diffodd
     .tooltiptext = Peidio gosod diweddariadau'n awtomatig
+# Used as a description for the option to allow or block an add-on in private windows.
+detail-private-browsing-label = Rhedeg mewn Ffenestri Preifat
+detail-private-browsing-description = Bydd yr estyniad yn gweithio mewn Ffenestri Preifat, ac yn cael mynediad i'ch gweithgareddau ar-lein. <label data-l10n-name="detail-private-browsing-learn-more"> Dysgu rhagor</label>
+detail-private-browsing-on =
+    .label = Caniatáu
+    .tooltiptext = Caniatáu wrth Bori Preifat
+detail-private-browsing-off =
+    .label = Peidio Caniatâu
+    .tooltiptext = Analluogi mewn Pori Preifat
 detail-home =
     .label = Tudalen Cartref
 detail-home-value =
@@ -130,6 +139,10 @@ legacy-warning-show-legacy = Dangos hen estyniadau
 legacy-extensions =
     .value = Hen Estyniadau
 legacy-extensions-description = Nid yw'r estyniadau hyn yn cyrraedd safonau cyfredol { -brand-short-name } ac mae nhw wedi cael eu diffodd. <label data-l10n-name="legacy-learn-more">Dysgu am y newidiadau i ychwanegion</label>
+private-browsing-description =
+    Nid yw estyniadau yn cael rhedeg yn ragosodedig mewn Ffenestri Preifat. Fyddan nhw ddim yn gweithio
+    o fewn pori preifat, a fyddan nhw ddim yn gallu cael mynediad i'ch gweithgareddau ar-lein.
+    Gallwch ganiatáu i estyniad redeg mewn Ffenestri Preifat trwy ddewis y cerdyn estyniad isod a newid eich gosodiadau.
 extensions-view-discover =
     .name = Estyn Ychwanegion
     .tooltiptext = { extensions-view-discover.name }
@@ -210,6 +223,9 @@ extensions-updates-update-selected =
 
 ## Extension shortcut management
 
+manage-extensions-shortcuts =
+    .label = Rheoli Estyniad Llwybrau Byr
+    .accesskey = R
 shortcuts-empty-message = Nid oes llwybrau byr ar gyfer yr estyniad hwn.
 shortcuts-no-addons = Nid oes gennych unrhyw estyniadau wedi'u galluogi.
 shortcuts-input =
@@ -222,3 +238,15 @@ shortcuts-modifier-other = Cynnwys Ctrl neu Alt
 shortcuts-invalid = Cyfuniad annilys
 shortcuts-letter = Teipiwch lythyr
 shortcuts-system = Methu anwybyddu llwybr byr { -brand-short-name }
+shortcuts-card-expand-button =
+    { $numberToShow ->
+        [zero] Dangos { $numberToShow } yn Rhagor
+        [one] Dangos { $numberToShow } yn Rhagor
+        [two] Dangos { $numberToShow } yn Rhagor
+        [few] Dangos { $numberToShow } yn Rhagor
+        [many] Dangos { $numberToShow } yn Rhagor
+       *[other] Dangos { $numberToShow } yn Rhagor
+    }
+shortcuts-card-collapse-button = Dangos Llai
+go-back-button =
+    .tooltiptext = Mynd nôl
