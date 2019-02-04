@@ -142,10 +142,10 @@ legacy-extensions-description = Tato rozšíření byla zakázána, protože neo
 private-browsing-description = Rozšíření jsou ve výchozím stavu v anonymních oknech vypnutá. To znamená, že v anonymních oknech nefungují a nemají přístup ke stránkám, které tam navštívíte. Pro nastavení běhu rozšíření v anonymních oknech ho vyberte níže. <label data-l10n-name="private-browsing-learn-more">Zjistit více</label>.
 extensions-view-discover =
     .name = Získání doplňků
-    .tooltiptext = { extensions-view-discover.name }
+    .tooltiptext = Získejte další zajímavé doplňky
 extensions-view-recent-updates =
-    .name = Nedávné aktualizace
-    .tooltiptext = { extensions-view-recent-updates.name }
+    .name = Aktualizováno
+    .tooltiptext = Nedávno aktualizované doplňky
 extensions-view-available-updates =
     .name = Dostupné aktualizace
     .tooltiptext = { extensions-view-available-updates.name }
@@ -177,7 +177,7 @@ extensions-updates-check-for-updates =
     .label = Zkontrolovat aktualizace
     .accesskey = k
 extensions-updates-view-updates =
-    .label = Zobrazit nedávné aktualizace
+    .label = Zobrazit nedávno aktualizované doplňky
     .accesskey = Z
 
 # This menu item is a checkbox that toggles the default global behavior for
