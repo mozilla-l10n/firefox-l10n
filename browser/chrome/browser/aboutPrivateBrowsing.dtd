@@ -7,7 +7,6 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "п">
 
 <!ENTITY privateBrowsing.title                           "Приватно прегледање">
-<!ENTITY privateBrowsing.title.tracking                  "Приватно прегледање са заштитом од праћења">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Кад прегледавате у приватном прозору, Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "неће сачувати">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
@@ -20,6 +19,7 @@
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          ":">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "преузимања">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "забелешке">
+<!ENTITY aboutPrivateBrowsing.info.clipboard             "текст копиран">
 <!ENTITY aboutPrivateBrowsing.note.before                "Приватно прегледање ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "вас не чини анонимним">
 <!ENTITY aboutPrivateBrowsing.note.after                 " на интернету. Ваш послодавац или интернет провајдер и даље могу да виде које странице посећујете.">
@@ -27,9 +27,17 @@
 <!ENTITY aboutPrivateBrowsing.learnMore3.title           "приватном прегледању">
 <!ENTITY aboutPrivateBrowsing.learnMore3.after           ".">
 
-<!ENTITY trackingProtection.title                        "Заштита од праћења">
-<!ENTITY trackingProtection.description2                 "Неки веб сајтови користе трагаче да прате вашу интернет активност. Са заштитом од праћења Firefox ће блокирати трагаче који сакупљају информације о вашој интернет активности.">
 <!ENTITY trackingProtection.startTour1                   "Сазнајте како ради">
 
 <!ENTITY contentBlocking.title                           "Блокирање садржаја">
 <!ENTITY contentBlocking.description                     "Неки веб сајтови користе пратиоце који могу надгледати ваше активности на интернету. У приватним прозорима, Firefox блокер садржаја аутоматски блокира многе пратиоце који прикупљају информације о вашим интернет активностима.">
+
+<!-- Strings for new Private Browsing with Search -->
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.search.placeholder): This is the placeholder
+                       text for the search box.   -->
+<!ENTITY aboutPrivateBrowsing.search.placeholder         "Претражи веб">
+<!ENTITY aboutPrivateBrowsing.info.title                 "У приватном прозору сте">
+<!ENTITY aboutPrivateBrowsing.info.description           "&brandShortName; чисти вашу историју претраживања и прегледања када затворите програм или када затворите све приватне језичке и прозоре. Иако вас ово не чини анонимним вашем интернет провајдеру или на веб сајтовима, ово вам олакшава да сакријете ваше радње на вебу од других корисника овог рачунара.">
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article
+                       about private browsing myths.   -->
+<!ENTITY aboutPrivateBrowsing.info.myths                 "Чести митови о приватном прегледању">
