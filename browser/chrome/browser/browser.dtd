@@ -1128,3 +1128,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Rheolwch eich ychwanegion drwy glicio <image class='addon-addon-icon'/> yn newislen <image class='addon-toolbar-icon'/>.">
 
+<!ENTITY addonPrivateBrowsing.header.label "Estyniadau mewn Ffenestri Preifat">
+<!ENTITY addonPrivateBrowsing.body.label "Nid yw estyniadau yn cael rhedeg yn ragosodedig mewn Ffenestri Preifat. Fyddan nhw ddim yn gweithio o fewn pori preifat, a fyddan nhw ddim yn gallu cael mynediad i'ch gweithgareddau ar-lein. Gallwch ganiatáu i bob estyniad gael ei redeg mewn Ffenestri Preifat trwy reoli'ch gosodiadau.">
+<!ENTITY addonPrivateBrowsing.okButton.label "Iawn, rwy'n deall">
+<!ENTITY addonPrivateBrowsing.okButton.accesskey "I">
+<!ENTITY addonPrivateBrowsing.manageButton.label "Rheoli Estyniadau">
+<!ENTITY addonPrivateBrowsing.manageButton.accesskey "R">
