@@ -29,8 +29,6 @@ a tab (i.e. it is a verb, not adjective). -->
 <!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  duplicateTab.accesskey             "D">
-<!ENTITY  closeTabOptions.label              "Dewisiadau Cau Tabiau">
-<!ENTITY  closeTabOptions.accesskey          "C">
 <!-- LOCALIZATION NOTE (duplicateTabs.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
 <!ENTITY  duplicateTabs.label                "Tabiau Dyblyg">
@@ -288,7 +286,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Cadw data mewn Storfa Barhaus">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Mae'r porwr o dan reolaeth bell">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Agor panel Dilysu Gwe">
-
 <!ENTITY urlbar.storageAccessAnchor.tooltip               "Agor panel caniatâd gweithgaredd pori">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Rheoli rhannu eich camera a/neu feicroffon gyda'r wefan">
@@ -973,7 +970,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.uidensity.menuTouch.label "Cyffwrdd">
 <!ENTITY customizeMode.uidensity.menuTouch.tooltip "Cyffwrdd">
 <!ENTITY customizeMode.uidensity.menuTouch.accessKey "C">
-<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Defnyddiwch Cyffwrdd ar gyfer y Modd Tabled">
+<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Defnyddio Cyffwrdd ar gyfer y Modd Tabled">
 
 <!ENTITY customizeMode.autoHideDownloadsButton.label "Awto-guddio">
 
@@ -987,66 +984,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.title "Rhwystro Cynnwys">
 <!ENTITY contentBlocking.detected "Mae cynnwys rhwystradwy wedi ei ganfod ar y wefan hon.">
 <!ENTITY contentBlocking.notDetected "Dim cynnwys rhwystradwy wedi eu canfod ar y dudalen hon.">
-<!ENTITY contentBlocking.disabled.label "Analluogwyd">
-<!ENTITY contentBlocking.disabled.tooltip "Rydych chi wedi analluogi Rhwystro Cynnwys.">
-<!ENTITY contentBlocking.exception.tooltip "Rydych chi wedi analluogi Rhwystro Cynnwys ar y wefan hon.">
-
-<!ENTITY contentBlocking.fastBlock.label "Tracwyr Llwytho'n Araf">
-<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
-     This label signals that this type of content blocking is turned
-     ON and is successfully blocking malicious/slow content, so this is
-     a positive thing. It forms the end of the (imaginary) sentence
-     "Slow-Loading Trackers [are] Blocked"-->
-<!ENTITY contentBlocking.fastBlock.blocked.label "Wedi Rhwystro">
-<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocking.label):
-     This label signals that this type of content blocking is turned
-     ON, so this is a positive thing. It forms the verb in (imaginary) sentence
-     "Firefox is blocking Slow-Loading Trackers"-->
-<!ENTITY contentBlocking.fastBlock.blocking.label "Rhwystro">
-<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
-     This is displayed as a link to preferences, where the user can add
-     this specific type of content blocking. When this text is shown
-     the type of content blocking is currently not enabled. -->
-<!ENTITY contentBlocking.fastBlock.add.label "Ychwanegu Rhwystro…">
-
-<!ENTITY contentBlocking.trackingProtection2.label "Pob Traciwr wedi ei Ganfod">
 
 <!ENTITY contentBlocking.trackingProtection3.label "Tracwyr">
-<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
-     This label signals that this type of content blocking is turned
-     ON and is successfully blocking tracker content, so this is
-     a positive thing. It forms the end of the (imaginary) sentence
-     "Trackers [are] Blocked"-->
-<!ENTITY contentBlocking.trackingProtection.blocked.label "Wedi Rhwystro">
-<!-- LOCALIZATION NOTE (contentBlocking.tranckingProtection.blocking.label):
-     This label signals that this type of content blocking is turned
-     ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
-     "Firefox is blocking Trackers"-->
-<!ENTITY contentBlocking.trackingProtection.blocking.label "Rhwystro">
-<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
-     This is displayed as a link to preferences, where the user can add
-     this specific type of content blocking. When this text is shown
-     the type of content blocking is currently not enabled. -->
-<!ENTITY contentBlocking.trackingProtection.add.label "Ychwanegu Rhwystro…">
-
-<!ENTITY contentBlocking.3rdPartyCookies.label "Cwcis Trydydd Parti">
-<!ENTITY contentBlocking.3rdPartyCookies.trackers.label "Tracio Cwcis">
-<!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.blocked.label):
-     This label signals that this type of content blocking is turned
-     ON and is successfully blocking third-party cookies, so this is
-     a positive thing. It forms the end of the (imaginary) sentence
-     "Third-Party Cookies [are] Blocked"-->
-<!ENTITY contentBlocking.3rdPartyCookies.blocked.label "Wedi eu Rhwystro">
-<!-- LOCALIZATION NOTE (contentBlocking.tranckingProtection.blocking.label):
-     This label signals that this type of content blocking is turned
-     ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
-     "Firefox is blocking Third-Party Cookies"-->
-<!ENTITY contentBlocking.3rdPartyCookies.blocking.label "Rhwystro">
-<!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.add.label):
-     This is displayed as a link to preferences, where the user can add
-     this specific type of content blocking. When this text is shown
-     the type of content blocking is currently not enabled. -->
-<!ENTITY contentBlocking.3rdPartyCookies.add.label "Ychwanegu Rhwystro…">
 
 <!ENTITY contentBlocking.manageSettings.label "Rheoli Rhwystro Cynnwys">
 <!ENTITY contentBlocking.manageSettings.accesskey "R">
@@ -1066,22 +1005,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Anfon Adroddiad">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Diddymu">
 
-<!ENTITY trackingProtection.title "Diogelwch Rhag Tracio">
-<!ENTITY trackingProtection.tooltip "Agor Dewisiadau Diogelu rhag Tracio">
-
-<!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock4.label "Analluogi Rhwystro ar Gyfer y Wefan Hon">
-<!ENTITY trackingProtection.unblock4.accesskey "A">
-<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate4.label "Analluogi Rhwystro Dros Dro">
-<!ENTITY trackingProtection.unblockPrivate4.accesskey "A">
-<!ENTITY trackingProtection.block5.label "Galluogi Rhwystro ar Gyfer y Wefan Hon">
-<!ENTITY trackingProtection.block5.accesskey "G">
-
 <!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
@@ -1099,11 +1022,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pluginNotification.showAll.label "Dangos Popeth">
 <!ENTITY pluginNotification.showAll.accesskey "P">
-
-<!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
-<!ENTITY pluginActivateNow.label "Caniatáu Nawr">
-<!ENTITY pluginActivateAlways.label "Caniatáu a Chofio">
-<!ENTITY pluginBlockNow.label "Rhwystro Ategyn">
 
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
      width of the plugin popup notification that can appear if a plugin has been
@@ -1209,3 +1127,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Rheolwch eich ychwanegion drwy glicio <image class='addon-addon-icon'/> yn newislen <image class='addon-toolbar-icon'/>.">
+
