@@ -79,6 +79,9 @@ detail-update-automatic =
 detail-update-manual =
     .label = बंद करा
     .tooltiptext = स्वयं सुधारणा प्रतिष्ठापीत करू नका
+detail-private-browsing-on =
+    .label = परवानगी द्या
+    .tooltiptext = खाजगी ब्राउझिंगमध्ये सक्षम करा
 detail-home =
     .label = मुख्यपृष्ठ
 detail-home-value =
@@ -198,3 +201,8 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = सुधारणा प्रतिष्ठापीत करा
     .tooltiptext = या सूचीतील उपलब्ध सुधारणा प्रतिष्ठापीत करा
+
+## Extension shortcut management
+
+go-back-button =
+    .tooltiptext = मागे जा

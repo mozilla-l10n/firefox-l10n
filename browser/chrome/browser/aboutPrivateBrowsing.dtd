@@ -36,3 +36,4 @@
 <!ENTITY aboutPrivateBrowsing.search.placeholder         "वेबवर शोधा">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article
                        about private browsing myths.   -->
+<!ENTITY aboutPrivateBrowsing.info.myths                 "खाजगी ब्राउझिंगबद्दल सामान्य मान्यता">
