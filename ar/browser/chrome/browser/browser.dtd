@@ -880,6 +880,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsReloadHint "قد تحتاج إعادة تحميل الصفحة لتطبيق التغييرات.">
 <!ENTITY identity.permissionsPreferences.tooltip "افتح تفضيلات التصاريح">
 
+<!ENTITY identity.contentBlockingPreferences.tooltip "افتح تفضيلات حجب المحتوى">
 
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -1127,6 +1128,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "أدِر إضافاتك بنقر <image class='addon-addon-icon'/> في قائمة <image class='addon-toolbar-icon'/>.">
 
+<!ENTITY addonPrivateBrowsing.header.label "الامتدادات في النوافذ الخاصة">
+<!ENTITY addonPrivateBrowsing.body.label "ليس مسموحًا بأن تعمل الامتدادات في النوافذ الخاصة مبدئيًا. هكذا لن تعمل وأنت تتصفّح خفية، ولن تقدر على معرفة نشاطاتك على الشبكة. يمكنك السماح بتشغيل الامتدادات في النوافذ الخاصة بإدارتها من قائمة الإعدادات.">
 <!ENTITY addonPrivateBrowsing.okButton.label "حسنًا، فهمت">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "ح">
 <!ENTITY addonPrivateBrowsing.manageButton.label "أدِر الامتدادات">
