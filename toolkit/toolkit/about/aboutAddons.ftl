@@ -236,3 +236,14 @@ shortcuts-pageAction = Aktivizoni veprim faqeje
 shortcuts-sidebarAction = Shfaqni/fshihni anështyllën
 shortcuts-modifier-mac = Përfshi Ctrl, Alt, ose ⌘
 shortcuts-modifier-other = Përfshi Ctrl ose Alt
+shortcuts-invalid = Kombinim i pavlefshëm
+shortcuts-letter = Shtypni një shkronjë
+shortcuts-system = S’anashkalohet dot shkurtore { -brand-short-name }
+shortcuts-card-expand-button =
+    { $numberToShow ->
+        [one] Shfaq { $numberToShow } Më Tepër
+       *[other] Shfaq { $numberToShow } Më Tepër
+    }
+shortcuts-card-collapse-button = Shfaq Më Pak
+go-back-button =
+    .tooltiptext = Shkoni mbrapsht
