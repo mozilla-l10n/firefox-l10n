@@ -17,10 +17,12 @@ options-title = Ç’mundësi kam?
 options-do-nothing = Nëse s’bëni gjë, të dhënat tuaja të profilit te { -brand-short-name } do të jenë të ndryshme nga të dhëna profili prej instalimesh të tjera të Firefox-it.
 options-use-sync = Nëse doni që krejt të dhënat e profilit tuaj të jenë të njëjta në krejt instalimet e Firefox-it, mund të përdorni një { -fxaccount-brand-name } për t’i mbajtur ato të njëkohësuara.
 resources = Burime:
+support-link = Si të përdoret Përgjegjësi i Profileve -  Artikull Asistence
 sync-header = Bëni hyrjen ose krijoni një { -fxaccount-brand-name }
 sync-label = Jepni email-in tuaj
 sync-input =
     .placeholder = Email
 sync-button = Vazhdo
 sync-terms = Duke vazhduar, pajtoheni me <a data-l10n-name="terms">Kushte Shërbimi</a> dhe <a data-l10n-name="privacy">Shënim Privatësie</a>.
+sync-first = Hera e parë që përdorni { -sync-brand-name }? Që të njëkohësohen të dhënat tuaja, do t’ju duhet të bëni hyrjen në çdo instalim Firefox-i.
 sync-learn = Mësoni më tepër
