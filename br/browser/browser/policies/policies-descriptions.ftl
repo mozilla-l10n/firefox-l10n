@@ -17,6 +17,7 @@ policy-BlockAboutConfig = Stankañ ar bajenn about:config.
 policy-BlockAboutProfiles = Stankañ ar bajenn about:profiles.
 policy-BlockAboutSupport = Stankañ ar bajenn about:support.
 policy-Bookmarks = Krouiñ sinedoù e barrenn ostilhoù ar sinedoù, lañser ar sinedoù, pe un teuliad resis eno.
+policy-CaptivePortal = (Di)weredekaat skor ar porched desachus.
 policy-CertificatesDescription = Ouzhpennañ testenioù pe arverañ testenioù enkorfet
 policy-Cookies = Aotren pe difenn al lec'hiennoù da zespizañ toupinoù.
 policy-DisableAppUpdate = Mirout ar merdeer da hizivaat.
