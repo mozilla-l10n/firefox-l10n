@@ -144,6 +144,9 @@ legacy-warning-show-legacy = Monstrar le extensiones obsolete
 legacy-extensions =
     .value = Extensiones obsolete
 legacy-extensions-description = Ille extensiones non concorda le standardos currente de { -brand-short-name } assi illos esseva disactivate. <label data-l10n-name="legacy-learn-more">Sape lo que cambiava al additivos</label>
+private-browsing-description =
+    Le extensiones non es consentite de ordinario pro fluer in Fenestras anonyme. Isto significa que illos non functiona durante le navigation anonyme e illos non habera accesso illac a tu activitates online. Pro consentir que
+    un extension flue in Fenestras anonyme, elige le carta de extension infra e cambia tu parametros.
 extensions-view-discover =
     .name = Obtener additivos
     .tooltiptext = { extensions-view-discover.name }
