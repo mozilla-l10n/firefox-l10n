@@ -58,10 +58,6 @@ permissions-invalid-uri-label = कृपया वैध यजमान ना
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-tracking-protection-window =
-    .title = अपवाद - मागोवा सुरक्षा
-    .style = { permissions-window.style }
-permissions-exceptions-tracking-protection-desc = आपण ह्या पृष्ठावरील मागोवा सुरक्षा निष्क्रिय़ केली आहे.
 
 ## Exceptions - Cookies
 
@@ -93,6 +89,9 @@ permissions-exceptions-addons-desc = कुठल्या संकेतस्
 
 ## Exceptions - Autoplay Media
 
+permissions-exceptions-autoplay-media-window2 =
+    .title = अपवाद - ऑटप्ले
+    .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = कुठल्या संकेतस्थाळांना स्वायत्तपणे ध्वनीसह मीडिया चालवू द्यायचा हे आपण निश्चित करू शकता. त्याकरता हव्या असलेल्या स्थळाचा पत्ता लिहा व आडवा किंवा परवानगी आहे वर क्लिक करा.
 
 ## Site Permissions - Notifications

@@ -9,6 +9,7 @@
 
 title = महत्त्वपूर्ण बातमी
 changed-title = काय बदलले?
+options-title = माझे पर्याय काय आहेत?
 resources = संसाधने:
 sync-label = ईमेल प्रविष्ट करा
 sync-input =
