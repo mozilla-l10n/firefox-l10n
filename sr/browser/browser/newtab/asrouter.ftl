@@ -9,6 +9,10 @@ cfr-doorhanger-extension-cancel-button = Не сада
     .accesskey = Н
 cfr-doorhanger-extension-ok-button = Додај сада
     .accesskey = Д
+cfr-doorhanger-extension-manage-settings-button = Управљај препорукама
+    .accesskey = У
+cfr-doorhanger-extension-never-show-recommendation = Не приказуј ми ову препоруку
+    .accesskey = Н
 cfr-doorhanger-extension-learn-more-link = Сазнајте више
 # This string is used on a new line below the add-on name
 # Variables:
