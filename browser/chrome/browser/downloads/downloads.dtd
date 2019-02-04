@@ -30,7 +30,7 @@
 <!ENTITY cmd.showDownloads.label          "Mostrar pasta de Downloads">
 <!ENTITY cmd.retry.label                  "Repetir">
 <!ENTITY cmd.goToDownloadPage.label       "Ir para a página de download">
-<!ENTITY cmd.goToDownloadPage.accesskey   "b">
+<!ENTITY cmd.goToDownloadPage.accesskey   "d">
 <!ENTITY cmd.copyDownloadLink.label       "Copiar link do download">
 <!ENTITY cmd.copyDownloadLink.accesskey   "l">
 <!ENTITY cmd.removeFromHistory.label      "Remover do histórico">
