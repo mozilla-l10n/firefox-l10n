@@ -7,7 +7,6 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "H">
 
 <!ENTITY privateBrowsing.title                           "Shfletim Privat">
-<!ENTITY privateBrowsing.title.tracking                  "Shfletim Privat me Mbrojtje Nga Gjurmimet">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Kur shfletoni nga një Dritare Private, Firefox-i ">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "nuk ruan">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
@@ -28,15 +27,15 @@
 <!ENTITY aboutPrivateBrowsing.learnMore3.title           "Shfletimin Privat">
 <!ENTITY aboutPrivateBrowsing.learnMore3.after           ".">
 
-<!ENTITY trackingProtection.title                        "Mbrojtje Nga Gjurmimet">
-<!ENTITY trackingProtection.description2                 "Disa sajte përdorin gjurmues që mund të mbikëqyrin veprimtarinë tuaj nëpër Internet. Me Mbrojtjen Nga Gjurmimet, Firefox-i do të bllokojë mjaft nga gjurmuesit që mund të mbledhin informacione rreth mënyrës se si shfletoni.">
-
 <!ENTITY trackingProtection.startTour1                   "Shihni se si funksionon">
 
 <!ENTITY contentBlocking.title                           "Bllokim Lënde">
 <!ENTITY contentBlocking.description                     "Disa sajte përdorin gjurmues që mund të vëzhgojnë veprimtarinë tuaj nëpër Internet. Në dritare private, Bllokimi i Lëndës nga Firefox-i bllokon vetvetiu shumë gjurmues që mund të grumbullojnë të dhëna rreth mënyrës se si shfletoni.">
 
 <!-- Strings for new Private Browsing with Search -->
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.search.placeholder): This is the placeholder
+                       text for the search box.   -->
+<!ENTITY aboutPrivateBrowsing.search.placeholder         "Kërkoni në Web">
 <!ENTITY aboutPrivateBrowsing.info.title                 "Gjendeni në Dritare Private">
 <!ENTITY aboutPrivateBrowsing.info.description           "&brandShortName;-i e pastron historikun tuaj të kërkimeve dhe shfletimit, kur dilni nga aplikacioni apo mbyllni krejt skedat dhe dritaret e Shfletimit Privat. Edhe pse kjo s’ju bën anonim përballë sajteve apo furnizuesit të shërbimit tuaj internet, e bën më të lehtë mbajtjen private të asaj çka bëni në internet, nga cilido tjetër që përdor këtë kompjuter.">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article

@@ -6,6 +6,7 @@ blocklist-window =
     .title = Lista Bllokimesh
     .style = width: 50em
 blocklist-desc = Mund të zgjidhni se cilën listë do të përdorë { -brand-short-name }-i për të bllokuar elementë Web që mund të gjurmojnë veprimtarinë tuaj të shfletimit.
+blocklist-description = Zgjidhni listën që përdor { -brand-short-name } për të bllokuar gjurmues internetorë. Lista të furnizuara nga <a data-l10n-name="disconnect-link" title="Disconnect">Disconnect</a>.
 blocklist-close-key =
     .key = w
 blocklist-treehead-list =
@@ -28,3 +29,7 @@ blocklist-item-moz-std-name = Mbrojtje e thjeshtë me Disconnect.me (E këshillu
 blocklist-item-moz-std-desc = Lejon disa gjurmues, kështu që sajtet punojnë si pritet.
 blocklist-item-moz-full-name = Mbrojtje strikte me Disconnect.me.
 blocklist-item-moz-full-desc = Bllokon gjurmuesit e ditur. Disa sajte mund të mos punojnë si pritet.
+blocklist-item-moz-std-listName = Listë bllokimesh e Shkallës 1 (E këshilluar).
+blocklist-item-moz-std-description = Lejon disa gjurmues, ndaj prish punë në më pak sajte.
+blocklist-item-moz-full-listName = Listë bllokimesh e Shkallës 2.
+blocklist-item-moz-full-description = Bllokon krejt gjurmues e pikasur. Disa sajte ose lëndë mund të mos ngarkohet si duhet.

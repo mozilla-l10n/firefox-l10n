@@ -232,6 +232,7 @@ content-sandbox-level = Shkallë Mbajtjeje Brenda Bankëprovës e Proceseve të 
 sandbox-proc-type-content = lëndë
 sandbox-proc-type-file = lëndë kartele
 sandbox-proc-type-media-plugin = shtojcë mediash
+launcher-process-status-unknown = Gjendje e panjohur
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
