@@ -88,6 +88,15 @@ detail-update-automatic =
 detail-update-manual =
     .label = Off
     .tooltiptext = Mos i instaloni vetvetiu përditësimet
+# Used as a description for the option to allow or block an add-on in private windows.
+detail-private-browsing-label = Xhiroje në Dritare Private
+detail-private-browsing-description = Zgjerimi do të funksionojë në Dritare Private, dhe do të mundet të hyjë në veprimtaritë tuaja internetore. <label data-l10n-name="detail-private-browsing-learn-more">Mësoni më tepër</label>
+detail-private-browsing-on =
+    .label = Lejoje
+    .tooltiptext = Aktivizojeni te Shfletimi Privat
+detail-private-browsing-off =
+    .label = Mos e Lejo
+    .tooltiptext = Çaktivizojeni te Shfletimi Privat
 detail-home =
     .label = Kreu
 detail-home-value =
@@ -130,6 +139,11 @@ legacy-warning-show-legacy = Shfaq zgjerime të dikurshme
 legacy-extensions =
     .value = Zgjerime të Dikurshme
 legacy-extensions-description = Këto zgjerime nuk i plotësojnë standardet e tanishme të { -brand-short-name }-it, ndaj janë çaktivizuar. <label data-l10n-name="legacy-learn-more">Mësoni mbi ndryshimet te shtesat</label>
+private-browsing-description =
+    Si parazgjedhje, zgjerimet nuk lejohen të xhirojnë në Dritare Private. Kjo do të thotë se s’do të funksionojnë
+    kur gjendeni nën shfletim privat, dhe s’do të mund të hyjnë në veprimtaritë tuaja internetore të atjeshme. Për ta lejuar
+    nëj zgjerim të xhirojë në Dritare Private, përzgjidhni kartën më poshtë dhe ndryshoni rregullimet tuaja.
+    <label data-l10n-name="private-browsing-learn-more">Mësoni Më Tepër.</label>
 extensions-view-discover =
     .name = Merrni Shtesa
     .tooltiptext = { extensions-view-discover.name }
@@ -207,3 +221,18 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Nuk u gjetën përditësime
     .tooltiptext = Instaloni përditësimet e mundshme prej kësaj liste
+
+## Extension shortcut management
+
+manage-extensions-shortcuts =
+    .label = Administroni Shkurtore Zgjerimesh
+    .accesskey = A
+shortcuts-empty-message = S’ka shkurtore për këtë zgjerim.
+shortcuts-no-addons = S’keni të aktivizuar ndonjë zgjerim.
+shortcuts-input =
+    .placeholder = Shtypni një shkurtore
+shortcuts-browserAction = Aktivizoni zgjerimin
+shortcuts-pageAction = Aktivizoni veprim faqeje
+shortcuts-sidebarAction = Shfaqni/fshihni anështyllën
+shortcuts-modifier-mac = Përfshi Ctrl, Alt, ose ⌘
+shortcuts-modifier-other = Përfshi Ctrl ose Alt
