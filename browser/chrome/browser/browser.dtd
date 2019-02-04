@@ -1126,3 +1126,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Διαχειριστείτε τα πρόσθετά σας κάνοντας κλικ στο <image class='addon-addon-icon'/>, στο μενού <image class='addon-toolbar-icon'/>.">
+
+<!ENTITY addonPrivateBrowsing.header.label "Επεκτάσεις σε ιδιωτικά παράθυρα">
+<!ENTITY addonPrivateBrowsing.okButton.label "Εντάξει, το 'πιασα">
+<!ENTITY addonPrivateBrowsing.okButton.accesskey "Ε">
+<!ENTITY addonPrivateBrowsing.manageButton.label "Διαχείριση επεκτάσεων">
+<!ENTITY addonPrivateBrowsing.manageButton.accesskey "Δ">
