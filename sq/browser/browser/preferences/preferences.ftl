@@ -4,10 +4,6 @@
 
 do-not-track-description = Dërgojuni sajteve një sinjal “Mos Më Gjurmo” se nuk doni të ndiqeni
 do-not-track-learn-more = Mësoni më tepër
-do-not-track-option-default =
-    .label = Vetëm kur përdoret Mbrojtje Nga Gjurmimet
-do-not-track-option-default-content-blocking =
-    .label = Vetëm kur { -brand-short-name }-i është rregulluar të bllokojë Gjurmues të Pikasur
 do-not-track-option-default-content-blocking-known =
     .label = Vetëm kur { -brand-short-name } është rregulluar të bllokojë gjurmues të njohur
 do-not-track-option-always =
@@ -95,9 +91,6 @@ extension-controlled-default-search = Motorin tuaj parazgjedhje për kërkime e 
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = Një zgjerim, <img data-l10n-name="icon"/> { $name }, lyp Skeda Kontejneri.
-# This string is shown to notify the user that their tracking protection preferences
-# are being controlled by an extension.
-extension-controlled-websites-tracking-protection-mode = Mbrojtjen nga gjurmimet e kontrollon një zgjerim, <img data-l10n-name="icon"/> { $name }.
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
 extension-controlled-websites-content-blocking-all-trackers = Këtë rregullim e kontrollon një zgjerim, <img data-l10n-name="icon"/> { $name }.
@@ -286,6 +279,7 @@ update-application-check-choose =
 update-application-manual =
     .label = Të mos kontrollojë kurrë për përditësime (nuk rekomandohet)
     .accesskey = u
+update-application-warning-cross-user-setting = Ky rregullim do të zbatohet mbi krejt llogaritë Windows dhe profile { -brand-short-name } që përdorin këtë instalim të { -brand-short-name }.
 update-application-use-service =
     .label = Për instalim përditësimesh përdor një shërbim në prapaskenë
     .accesskey = P
@@ -606,15 +600,10 @@ sitedata-total-size-calculating = Po njehsohet madhësi të dhënash sajtesh dhe
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Cookie-t, të dhënat tuaja të sajteve dhe fshehtina përdorin deri sot { $value } { $unit } hapësirë disku.
 sitedata-learn-more = Mësoni më tepër
-sitedata-keep-until = Mbaji
-    .accesskey = M
-sitedata-keep-until-expire =
-    .label = Deri sa të skadojnë
-sitedata-keep-until-closed =
-    .label = { -brand-short-name } të mbyllet
 sitedata-delete-on-close =
     .label = Fshi cookies dhe të dhëna sajti kur mbyllet { -brand-short-name }-i
     .accesskey = F
+sitedata-delete-on-close-private-browsing = Nën mënyrën shfletim i përhershëm privat, cookie-t dhe të dhënat e sajtit do të pastrohen përherë, kur mbyllet { -brand-short-name }-i.
 sitedata-allow-cookies-option =
     .label = Prano të dhëna cookie-sh dhe sajti
     .accesskey = P
@@ -625,16 +614,6 @@ sitedata-disallow-cookies-option =
 # The list items are the strings named sitedata-block-*-option*.
 sitedata-block-desc = Lloj i bllokuar
     .accesskey = L
-sitedata-block-trackers-option-recommended =
-    .label = Gjurmues palë të treta (e këshilluar)
-sitedata-block-trackers-option =
-    .label = Gjurmues palë e tretë
-sitedata-block-unvisited-option =
-    .label = Cookies nga sajte të pavizituar
-sitedata-block-all-third-party-option =
-    .label = Krejt cookie-t nga palë të treta (mund të shkaktojë mosfunksionim të disa sajteve)
-sitedata-block-all-option =
-    .label = Krejt cookie-t (do të shkaktojë mosfunksionim sajtesh)
 sitedata-option-block-trackers =
     .label = Gjurmues nga palë të treta
 sitedata-option-block-unvisited =
@@ -649,13 +628,6 @@ sitedata-clear =
 sitedata-settings =
     .label = Administroni Të dhëna…
     .accesskey = A
-sitedata-cookies-exceptions =
-    .label = Përjashtime…
-    .accesskey = P
-# This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
-# in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
-# Cookies and Site Data section.
-sitedata-warning-your-settings-prevent-changes = Rregullimet tuaja te Bllokim Lënde i pengojnë ndryshimet te rregullimet mbi Cookies dhe të Dhëna Sajti.
 sitedata-cookies-permissions =
     .label = Administroni Lejet
     .accesskey = A
@@ -678,41 +650,8 @@ addressbar-suggestions-settings = Ndryshoni parapëlqimet mbi këshillime motor�
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Bllokim Lënde
-content-blocking-desc = Bllokoni lëndë palësh të treta, të tillë si reklama ose kod, që mund të ngadalësojnë shfletimin tuaj dhe t’ju gjurmojnë nëpër internet. Përshtatini rregullimet tuaj për baraspeshimin më të mirë mes mbrojtjes dhe funksionimit.
 content-blocking-description = Bllokoni lëndë palësh të treta që ju ndjek nëpër internet. Kontrolloni ç’pjesë e veprimtarisë tuaj depozitohet dhe shkëmbehet mes sajtesh.
 content-blocking-learn-more = Mësoni më tepër
-content-blocking-restore-defaults =
-    .label = Rikthe Parazgjedhjet
-    .accesskey = R
-content-blocking-toggle-on =
-    .tooltiptext = Çaktivizo Bllokim Lënde
-content-blocking-toggle-off =
-    .tooltiptext = Aktivizo Bllokim Lënde
-content-blocking-toggle-label-on = ON
-    .accesskey = N
-content-blocking-toggle-label-off = OFF
-    .accesskey = F
-content-blocking-category-label = Zgjidhni çfarë të bllokohet
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-slow-loading-trackers-label =
-    .label = Gjurmues Ngadalësues
-    .accesskey = G
-content-blocking-fastblock-new-description = Blloko vetëm gjurmuesit që pengojnë ngarkimin e shpejtë të faqeve.
-content-blocking-tracking-protection-trackers-label =
-    .label = Gjurmues
-    .accesskey = G
-content-blocking-tracking-protection-all-detected-trackers-label =
-    .label = Krejt Gjurmuesit e Pikasur
-    .accesskey = K
-content-blocking-tracking-protection-new-description = Blloko krejt gjurmuesit e njohur. (Mund të pengojë ngarkimin e disa faqeve.)
-content-blocking-tracking-protection-option-always =
-    .label = Përherë
-    .accesskey = P
-content-blocking-tracking-protection-option-private =
-    .label = Vetëm në dritare private
-    .accesskey = v
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 content-blocking-setting-standard =
@@ -745,51 +684,12 @@ content-blocking-option-private =
     .label = Vetëm në Dritare Pivate
     .accesskey = V
 content-blocking-tracking-protection-change-block-list = Ndryshoni listë bllokimesh
-content-blocking-third-party-cookies-label =
-    .label = Cookies Palësh të Treta
-    .accesskey = T
-content-blocking-reject-trackers-description = Bllokoni krejt cookie-t nga palë të treta ose thjesht ato të depozituara nga gjurmues.
-# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
-# of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
-# or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
-# the UI.
-content-blocking-reject-trackers-warning-your-settings-prevent-changes = Rregullimet tuaja te Cookies dhe Të dhëna Sajti i pengojnë ndryshimet te rregullime mbi Cookies Palësh të Treta.
-content-blocking-change-cookie-settings =
-    .label = Ndryshoni Rregullime Cookie-sh
-    .accesskey = k
-content-blocking-reject-trackers-block-trackers-option-recommended =
-    .label = Gjurmues (e këshilluar)
-    .accesskey = u
-content-blocking-reject-trackers-block-trackers-option =
-    .label = Gjurmues
-    .accesskey = G
-content-blocking-reject-trackers-all-third-parties-option =
-    .label = Krejt cookie-t nga palë të treta (mund të sjellë mosfunksionim sajtesh)
-    .accesskey = K
 content-blocking-cookies-label =
     .label = Cookies
     .accesskey = C
 
 ## Privacy Section - Tracking
 
-tracking-header = Mbrojtje Nga Gjurmimet
-tracking-desc = Mbrojtja Nga Gjurmimet bllokon gjurmues internetorë që grumbullojnë të dhëna shfletimi tuajat nëpër shumë sajte. <a data-l10n-name="learn-more">Mësoni më tepër rreth Mbrojtjes Nga Gjurmimet dhe privatësisë tuaj</a>
-tracking-mode-label = Përdore Mbrojtjen Nga Gjurmimet për bllokim gjurmuesish të ditur
-tracking-mode-always =
-    .label = Përherë
-    .accesskey = h
-tracking-mode-private =
-    .label = Vetëm në dritare private
-    .accesskey = v
-tracking-mode-never =
-    .label = Kurrë
-    .accesskey = u
-tracking-exceptions =
-    .label = Përjashtime…
-    .accesskey = a
-tracking-change-block-list =
-    .label = Ndryshoni Listë Bllokimesh…
-    .accesskey = N
 tracking-manage-exceptions =
     .label = Administroni Përjashtime…
     .accesskey = A
@@ -821,6 +721,9 @@ permissions-block-autoplay-media =
     .label = Bllokoje luajtjen e vetvetishme nga sajtet të mediave me tinguj
     .accesskey = B
 permissions-block-autoplay-media-menu = Për sajte që luajnë tinguj vetvetiu
+permissions-block-autoplay-media2 =
+    .label = Bllokojua sajteve luajtjen e vetvetishme të tingujve
+    .accesskey = B
 permissions-block-autoplay-media-exceptions =
     .label = Përjashtime…
     .accesskey = P
