@@ -1127,3 +1127,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Ke'anuk'samajij ri taq achokoy rik'in napïtz' <image class='addon-addon-icon'/> pa ri <image class='addon-toolbar-icon'/> k'utsamaj.">
+
+<!ENTITY addonPrivateBrowsing.header.label "Taq K'amal pa Ichinan taq Tzuwäch">
+<!ENTITY addonPrivateBrowsing.okButton.label "Ütz, Xq'ax pa nuwi'">
+<!ENTITY addonPrivateBrowsing.okButton.accesskey "O">
+<!ENTITY addonPrivateBrowsing.manageButton.label "Kinuk'samajixik taq K'amal">
+<!ENTITY addonPrivateBrowsing.manageButton.accesskey "K">
