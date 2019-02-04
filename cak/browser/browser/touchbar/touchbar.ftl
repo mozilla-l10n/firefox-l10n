@@ -17,4 +17,4 @@ reader-view = Rutz'etoj Sik'inem
 # Meant to match the string displayed in an empty URL bar.
 open-location = Tikanöx o titz'ib'äx ri ochochib'äl
 share = Tikomonïx
-focus = Titz'apïx
+close-window = Titz'apïx Tzuwäch

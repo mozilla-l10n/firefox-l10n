@@ -6,6 +6,7 @@ blocklist-window =
     .title = Kicholajem taq q'atoj
     .style = width: 55em
 blocklist-desc = Yatikïr nacha' achike rucholajem xtrokisaj ri { -brand-short-name } richin yeruq'ät taq ch'akulal k'amaya'l, ri yetikïr nikïl ri nasamajij pan okik'amaya'l.
+blocklist-description = Tacha' ri rucholb'al { -brand-short-name } richin ye'aq'ät ri ojqanela' pa k'amab'ey. Cholb'äl eya'on ruma  <a data-l10n-name="disconnect-link" title="Disconnect">Disconnect</a>.
 blocklist-close-key =
     .key = w
 blocklist-treehead-list =
@@ -28,3 +29,7 @@ blocklist-item-moz-std-name = Kinel pa ri ruxe'el chajinïk (Chilab'en).
 blocklist-item-moz-std-desc = Tiya' q'ij chi ke jujun taq kanokela' richin chi kesamäj ütz ri taq ruxaq k'amaya'l.
 blocklist-item-moz-full-name = Kinelesäx el pa rub'eyal ruchajinik.
 blocklist-item-moz-full-desc = Ninq'ät taq kanonel ri etaman kiwäch. K'o Jujun taqruxaq ajk'amaya'l man kan ta ütz yesamäj.
+blocklist-item-moz-std-listName = Rucholb'al 1 rupalb'al q'atoj (Chilab'en).
+blocklist-item-moz-std-description = Nuya' q'ij chi ke jujun taq ojqanela' richin e jub'a' taq ajk'amaya'l ruxaq man ütz ta yesamäj.
+blocklist-item-moz-full-listName = Rucholb'al 2 rupalb'al q'atoj.
+blocklist-item-moz-full-description = Keq'at ronojel ri taq ojaqanela' xe'ilitäj. Rik'in jub'a' jujun taq ajk'amaya'l ruxaq o rupam man pa rub'eyal ta xkesamäj.
