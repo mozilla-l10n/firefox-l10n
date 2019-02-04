@@ -239,6 +239,7 @@ effective-content-sandbox-level = Effektiv sandbox-nivå for innholdsprosess
 sandbox-proc-type-content = innhold
 sandbox-proc-type-file = filinnhold
 sandbox-proc-type-media-plugin = programtillegg for media
+launcher-process-status-unknown = Ukjent status
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
