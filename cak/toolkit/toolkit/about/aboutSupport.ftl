@@ -44,6 +44,7 @@ app-basics-memory-use = Rokisaxik rupam rujolom
 app-basics-performance = Rub'eyal nisamäj
 app-basics-service-workers = Samajela' pa samaj tz'ib'an kib'i'
 app-basics-profiles = Taq ruwäch b'i'aj
+app-basics-launcher-process-status = Rub'anik K'aqonel
 app-basics-multi-process-support = Rutzuwach k'ïy tajin
 app-basics-process-count = Rutajinik Rupam Ajk'amaya'l
 app-basics-enterprise-policies = Ajk'aymolojel taq Na'ojil
@@ -242,6 +243,7 @@ sandbox-proc-type-content = rupam
 sandbox-proc-type-file = rupam yakb'äl
 sandbox-proc-type-media-plugin = q'ojom nak'ab'äl
 launcher-process-status-0 = Tzijon
+launcher-process-status-1 = Xchup ruma sachoj
 launcher-process-status-2 = Xb'an chi xchup
 launcher-process-status-unknown = Man etaman ta täq rub'anikil
 # Variables

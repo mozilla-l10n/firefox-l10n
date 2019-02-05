@@ -1129,6 +1129,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addonPostInstallMessage.label "Ke'anuk'samajij ri taq achokoy rik'in napïtz' <image class='addon-addon-icon'/> pa ri <image class='addon-toolbar-icon'/> k'utsamaj.">
 
 <!ENTITY addonPrivateBrowsing.header.label "Taq K'amal pa Ichinan taq Tzuwäch">
+<!ENTITY addonPrivateBrowsing.body.label "Las extensiones no pueden ejecutarse de manera predeterminada en Windows privado. No funcionarán durante la navegación privada y no tendrán acceso a sus actividades en línea. Puede permitir que cada extensión se ejecute en Windows privado administrando sus configuraciones.">
 <!ENTITY addonPrivateBrowsing.okButton.label "Ütz, Xq'ax pa nuwi'">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "O">
 <!ENTITY addonPrivateBrowsing.manageButton.label "Kinuk'samajixik taq K'amal">

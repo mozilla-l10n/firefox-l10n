@@ -139,6 +139,11 @@ legacy-warning-show-legacy = Kek'ut pe ri kochin taq k'amal
 legacy-extensions =
     .value = Kochin taq K'amal
 legacy-extensions-description = Re taq k'amal re' man nikik'äm ta ki' rik'in current { -brand-short-name } taq rub'eyal richin chi xechuputäj. <label data-l10n-name="legacy-learn-more">Tetamäx chi kij ri kijaloj taq tzaqät</label>
+private-browsing-description =
+    Man tikirel ta yesamajïx ri taq k'amal achi'el k'o wi pan Ichinan Tzuwäch. Re re' nuna'ojij chi man xtisamäj ta
+    pa jun ichinan okem pa k'amaya'l chuqa' majun xtok ta pa rusamaj k'amab'ey. Richin niya' q'ij
+    chi re jun k'amal richin nisamäj pa jun Ichinan Tzuwäch, tacha' ri rut'imwuj k'amal richin najäl ri runuk'ulem.
+    <label data-l10n-name="private-browsing-learn-more">Tetamäx Ch'aqa' Chik.</label>
 extensions-view-discover =
     .name = Kek'ulutäj ri taq tz'aqat
     .tooltiptext = { extensions-view-discover.name }
@@ -233,3 +238,12 @@ shortcuts-modifier-mac = Titz'aqatisäx Ctrl, Alt o ⌘
 shortcuts-modifier-other = Titz'aqatisäx Ctrl o Alt
 shortcuts-invalid = Man okel ta ri tunuj
 shortcuts-letter = Tatz'ib'aj jun tz'ib'
+shortcuts-system = Man yatikïr ta nayüj jun { -brand-short-name } chojokem
+shortcuts-card-expand-button =
+    { $numberToShow ->
+        [one] Tik'ut { $numberToShow } Ch'aqa' Chik
+       *[other] Kek'ut { $numberToShow } Ch'aqa' Chik
+    }
+shortcuts-card-collapse-button = Tik'ut pe Jub'a'
+go-back-button =
+    .tooltiptext = Titzolin
