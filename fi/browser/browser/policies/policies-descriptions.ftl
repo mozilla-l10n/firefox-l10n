@@ -17,7 +17,6 @@ policy-BlockAboutConfig = Estä pääsy about:config-sivulle.
 policy-BlockAboutProfiles = Estä pääsy about:profiles-sivulle.
 policy-BlockAboutSupport = Estä pääsy about:support-sivulle.
 policy-Bookmarks = Luo kirjanmerkkejä kirjanmerkkipalkkiin, Kirjanmerkit-valikkoon tai tiettyyn kansioon niiden sisälle.
-policy-Certificates = Käytetäänkö sisäänrakennettuja varmenteita vaiko ei. Tämä käytäntö on tällä hetkellä käytettävissä vain Windowsissa.
 policy-CertificatesDescription = Lisää varmenteita tai käytä sisäänrakennettuja varmenteita.
 policy-Cookies = Salli tai estä, että sivustot asettavat evästeitä.
 policy-DisableAppUpdate = Estä selainta päivittymästä.
@@ -37,7 +36,6 @@ policy-DisableProfileImport = Poista käytöstä valikon komento, jolla tiedot v
 policy-DisableProfileRefresh = Poista käytöstä about:support-sivulla oleva Palauta { -brand-short-name } -painike.
 policy-DisableSafeMode = Poista käytöstä ominaisuus, jolla selaimen voi käynnistää vikasietotilassa. Huomaa: Vaihto-näppäimen käyttö vikasietotilaan käynnistymiseen voidaan poistaa käytöstä Windowsissa vain käyttäen ryhmäkäytäntöä.
 policy-DisableSecurityBypass = Estä käyttäjää ohittamasta tiettyjä tietoturvavaroituksia.
-policy-DisableSetDesktopBackground = Poista käytöstä valikon komento Aseta työpöydän taustakuvaksi.
 policy-DisableSetAsDesktopBackground = Poista käytöstä kuville tarkoitettu valikon komento Aseta työpöydän taustakuvaksi.
 policy-DisableSystemAddonUpdate = Estä selainta asentamasta ja päivittämästä järjestelmälisäosia.
 policy-DisableTelemetry = Poista kaukomittaus käytöstä.
@@ -49,8 +47,7 @@ policy-DontCheckDefaultBrowser = Poista käytöstä oletusselaimen tarkistus kä
 policy-EnableTrackingProtection = Ota käyttöön tai poista käytöstä sisällön esto, ja valinnaisesti lukitse asetus.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
-# English or translate them as verbs. See also:
-# https://github.com/mozilla/policy-templates/blob/master/README.md#extensions-machine-only
+# English or translate them as verbs.
 policy-Extensions = Asenna, poista tai lukitse laajennuksia. Asennusasetus ottaa parametreiksi URL-osoitteita tai polkuja. Poisto- ja lukitsemisasetukset ottavat parametreiksi laajennusten ID:itä.
 policy-FlashPlugin = Salli tai estä Flash-liitännäisen käyttö.
 policy-HardwareAcceleration = Jos epätosi, poista laitteistokiihdytys käytöstä.
@@ -70,6 +67,7 @@ policy-SearchBar = Aseta hakupalkin oletussijainti. Käyttäjä voi silti vaihta
 policy-SearchEngines = Aseta hakukoneasetukset. Tämä käytäntö on käytettävissä vain Extended Support Release (ESR) -versiossa.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Asenna PKCS #11 -moduulit.
-# “format” refers to the format used for the value of this policy. See also:
-# https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
+policy-SSLVersionMax = Aseta SSL:n enimmäisversio.
+policy-SSLVersionMin = Aseta SSL:n vähimmäisversio.
+# “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Estä sivustojen avaaminen. Katso ohjeista lisätietoja käyttötavasta.
