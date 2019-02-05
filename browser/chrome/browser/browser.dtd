@@ -1128,5 +1128,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Spravujte svoje doplnky kliknutím na <image class='addon-addon-icon'/> v ponuke <image class='addon-toolbar-icon'/>.">
 
+<!ENTITY addonPrivateBrowsing.header.label "Rozšírenia v súkromných oknách">
+<!ENTITY addonPrivateBrowsing.body.label "V predvolenom nastavení sú rozšírenia v súkromných oknách vypnuté. V súkromných oknách nebudú fungovať a nebudú mať prístup k vašej aktivite. Spustenie akéhokoľvek rozšírenia v súkromných oknách môžete povoliť v možnostiach.">
 <!ENTITY addonPrivateBrowsing.okButton.label "Ok, rozumiem">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "O">
+<!ENTITY addonPrivateBrowsing.manageButton.label "Správa rozšírení">
+<!ENTITY addonPrivateBrowsing.manageButton.accesskey "r">
