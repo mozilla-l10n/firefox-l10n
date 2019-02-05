@@ -1129,6 +1129,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addonPostInstallMessage.label "Administre sus complementos haciendo clic <image class='addon-addon-icon'/> en el <image class='addon-toolbar-icon'/> menú.">
 
 <!ENTITY addonPrivateBrowsing.header.label "Extensiones en ventanas privadas">
+<!ENTITY addonPrivateBrowsing.body.label "Las extensiones no pueden ejecutarse de manera predeterminada en las Ventanas privadas. No funcionarán durante la navegación privada y no tendrán acceso a sus actividades en línea. Puede permitir que cada extensión se ejecute en las ventanas privadas administrando su configuración.">
 <!ENTITY addonPrivateBrowsing.okButton.label "Listo, lo entendí">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "o">
 <!ENTITY addonPrivateBrowsing.manageButton.label "Administrar extensiones">
