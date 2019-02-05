@@ -11,8 +11,8 @@
 <!ENTITY returnToPreviousPage1.label "Distreiñ (Erbedet)">
 <!ENTITY advanced.label "Kempleshoc'h">
 <!ENTITY continue2.label "Muioc'h...">
+<!ENTITY advanced2.label "Kempleshoc'h…">
 <!ENTITY moreInformation.label "Muioc'h a ditouroù">
-
 <!ENTITY viewCertificate.label "Gwelout an testeni">
 
 <!-- Specific error messages -->
@@ -103,9 +103,6 @@ will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Direizh eo ket bet kefluniet o lec'hienn wiad gant perc'henned <span class='hostname'/>. Kuit na vefe laeret ho stlennoù n'oc'h ket bet kennasket ouzh al lec'hienn-mañ gant &brandShortName;.">
 <!ENTITY certerror.introPara2 "Dinoet eo bet gant &brandShortName; ur arvar diogelroez ha n'eus ket kendalc'het etrezek <span class='hostname'/>. Ma weladennit al lec'hienn-mañ e c'hallo tagerien klask laerez ho titouroù evel gerioù-tremen, chomlec'hioù postel pe munudoù kartennoù kred.">
-
-<!ENTITY certerror.expiredCert.secondPara "Gallout a ra bezañ liammet ar gudenn-mañ gant eurier hoc'h urzhiataer. Un eur direizh a c'hall mirout &brandShortName; da genderc'hel en un doare diogel.">
-
 <!ENTITY certerror.sts.introPara "Dinoet ez eus bet gant &brandShortName; un arvar diogelroez posupl ha n'en deus ket kendalc'het etrezek <span class='hostname'/> dre ma azgoulenn al lec'hienn-mañ ur c'hennask diogel.">
 
 <!ENTITY certerror.expiredCert.introPara "Dinoet ez eus bet ur gudenn gant &brandShortName; ha n'en deus ket kendalc'het etrezek <span class='hostname'/>. Kefluniet eo fall al lec'hienn pe direizh eo eur hoc'h urzhiataer.">
@@ -168,6 +165,9 @@ was trying to connect. -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> a arver ur c'halverezh diogelroez diamzeret ha bresk. Gallout a rafe un tager dizoloiñ titouroù a gredec'h diarvar. Ret vo da verour al lec'hienn ratreañ an dafariad a-raok ma c'hallfec'h gweladenniñ al lec'hienn.</p><p>Boneg fazi: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Pajenn stanket">
+
+<!ENTITY certerror.mitm.title "Ur meziant a vir &brandShortName; da gennaskañ ent diogel d'al lec'hienn-mañ">
+<!ENTITY certerror.mitm.longDesc "Ul lec'hienn diarvar eo <span class='hostname'></span> moarvat, met n'haller ket staliañ ur c'hennask diogel. Abalamour da <span class='mitm-name'/> zo eus ar fazi, ar pezh a zo ur meziant war hoc'h urzhiataer pe ho rouedad.">
 
 <!ENTITY clockSkewError.title "Direizh eo eurier hoc'h urzhiataer">
 <!ENTITY clockSkewError.longDesc "Hoc'h urzhiataer a soñj dezhañ eo <span id='wrongSystemTime_systemDate1'/>, ar pezh a vir &brandShortName; da gennaskañ ent diogel. Evit gweladenniñ <span class='hostname'></span>, hizivait eur hoc'h urzhiataer en hoc'h arventennoù reizhiad ha lakait an deiziad, an eur hag ar gwerzhid-eur reizh. Adkargit <span class='hostname'></span> da c'houde.">
