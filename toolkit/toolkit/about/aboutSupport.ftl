@@ -243,6 +243,7 @@ effective-content-sandbox-level = Sisältöprosessin efektiivinen hiekkalaatikko
 sandbox-proc-type-content = sisältö
 sandbox-proc-type-file = tiedostojen sisältö
 sandbox-proc-type-media-plugin = medialiitännäinen
+launcher-process-status-0 = Käytössä
 launcher-process-status-1 = Ei käytössä johtuen viasta
 launcher-process-status-unknown = Tuntematon tila
 # Variables

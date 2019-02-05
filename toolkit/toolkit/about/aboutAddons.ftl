@@ -222,3 +222,6 @@ shortcuts-modifier-mac = Paina Ctrl-, Alt- tai ⌘-näppäintä
 shortcuts-modifier-other = Paina Ctrl- tai Alt-näppäintä
 shortcuts-invalid = Virheellinen yhdistelmä
 shortcuts-letter = Kirjoita kirjain
+shortcuts-card-collapse-button = Näytä vähemmän
+go-back-button =
+    .tooltiptext = Takaisin
