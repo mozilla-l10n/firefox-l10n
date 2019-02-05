@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
+about-config-warning-title = ¡B'enam pa ri man etaman ta ruwäch!
 about-config-warning-text = Nik'ex re q'axinäq nuk'ulem re' rik'in jub'a' xtutz'ila' rujikilal, rujikomal chuqa' rub'eyal nisamäj re chokoy re'. Ütz yasamäj chik el we at jikïl rik'in ri nab'än.
 about-config-warning-checkbox = ¡Tiya' chik pe rutzijol k'ayewal chwe, tib'ana' utzil!
 about-config-warning-button = Yinok chuwäch ri k'ayewal
