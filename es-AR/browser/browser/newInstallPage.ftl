@@ -18,6 +18,7 @@ options-do-nothing = Si no hace nada, sus datos de perfil de { -brand-short-name
 options-use-sync = Si quiere que todos los datos de su perfil sean iguales en todas las instalaciones de Firefox, puede usar { -fxaccount-brand-name } para mantenerlos sincronizados.
 resources = Recursos:
 support-link = Usando el administrador de perfiles - Artículo de soporte
+sync-header = Inicie la sesión o cree una { -fxaccount-brand-name }
 sync-label = Ingrese su correo electrónico
 sync-input =
     .placeholder = Correo electrónico
