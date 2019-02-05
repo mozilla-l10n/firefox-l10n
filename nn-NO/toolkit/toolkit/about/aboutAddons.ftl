@@ -88,6 +88,12 @@ detail-update-automatic =
 detail-update-manual =
     .label = Av
     .tooltiptext = Ikkje installer oppdateringar automatisk
+detail-private-browsing-on =
+    .label = Tillat
+    .tooltiptext = Tillat i privat nettlesing
+detail-private-browsing-off =
+    .label = Tillat ikkje
+    .tooltiptext = Tillat ikkje i privat nettlesing
 detail-home =
     .label = Heimeside
 detail-home-value =
@@ -207,3 +213,9 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Installer oppdateringane
     .tooltiptext = Installer tilgjengelege oppdateringar i denne lista
+
+## Extension shortcut management
+
+shortcuts-card-collapse-button = Vis mindre
+go-back-button =
+    .tooltiptext = Gå tilbake
