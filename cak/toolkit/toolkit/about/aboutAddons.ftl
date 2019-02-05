@@ -88,6 +88,15 @@ detail-update-automatic =
 detail-update-manual =
     .label = Tichup
     .tooltiptext = Man keyak pa kiyonil ri taq k'exoj
+# Used as a description for the option to allow or block an add-on in private windows.
+detail-private-browsing-label = Kesamajïx pa Ichinan Tzuwäch
+detail-private-browsing-description = Ütz xtisamäj ri k'amaya'l pan Ichinan Tzuwäch chuqa' xkatikïr xkatok pan asamaj pa k'amab'ey. <label data-l10n-name="detail-private-browsing-learn-more">Tetamäx ch'aqa' chik</label>
+detail-private-browsing-on =
+    .label = Tiya' q'ij
+    .tooltiptext = Titz'ij pa Ichinan Okem pa K'amaya'l
+detail-private-browsing-off =
+    .label = Man tiya' q'ij
+    .tooltiptext = Tichup pa Ichinan Okem pa K'amaya'l
 detail-home =
     .label = Ruxaq tikirib'äl
 detail-home-value =
@@ -210,5 +219,17 @@ extensions-updates-update-selected =
 
 ## Extension shortcut management
 
-shortcuts-manage =
-    .label = Ruq'a' Rub'ey Pitz'b'äl
+manage-extensions-shortcuts =
+    .label = Kenuk'samajïx Kichojokem taq K'amal
+    .accesskey = i
+shortcuts-empty-message = Majun ruchojokem re k'amal re'.
+shortcuts-no-addons = Majun ak'amal atzijon.
+shortcuts-input =
+    .placeholder = Tatz'ib'aj jun chojokem
+shortcuts-browserAction = Titzij k'amal
+shortcuts-pageAction = Titzij rub'anoj ruxaq
+shortcuts-sidebarAction = Tik'exlöx ri ajxikin kajtz'ik
+shortcuts-modifier-mac = Titz'aqatisäx Ctrl, Alt o ⌘
+shortcuts-modifier-other = Titz'aqatisäx Ctrl o Alt
+shortcuts-invalid = Man okel ta ri tunuj
+shortcuts-letter = Tatz'ib'aj jun tz'ib'
