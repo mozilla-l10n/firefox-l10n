@@ -1,0 +1,20 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- LOCALIZATION NOTE:
+ This UI can be most easily shown by modifying the version in compatibility.ini
+ to a newer version and then starting Firefox.
+ For this feature, "installation" is used to mean "this discrete download of
+ Firefox" and "version" is used to mean "the specific revision number of a
+ given Firefox channel". These terms are not synonymous.
+-->
+<!ENTITY window.title "Du har startet en gammel version af Firefox">
+<!ENTITY window.style "width: 490px;">
+
+<!ENTITY window.nosync "Ved at bruge en ældre version af Firefox risikerer du at ødelægge browsing-historik og bogmærker gemt til en eksisterende Firefox-profil. Opret en ny profil for denne installation af &brandShortName; for at beskytte dine oplysninger.">
+<!ENTITY window.sync "Ved at bruge en ældre version af Firefox risikerer du at ødelægge browsing-historik og bogmærker gemt til en eksisterende Firefox-profil. Opret en ny profil for denne installation af &brandShortName; for at beskytte dine oplysninger. Du kan logge ind med en &syncBrand.fxAccount.label; for at synkronisere dine bogmærker og din browsing-historik mellem profiler.">
+
+<!ENTITY window.create "Opret en ny profil">
+<!ENTITY window.quit-win "Afslut">
+<!ENTITY window.quit-nonwin "Afslut">
