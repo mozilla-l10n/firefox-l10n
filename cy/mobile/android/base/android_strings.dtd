@@ -290,12 +290,6 @@
 <!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
      Similar to the already existing "pref_whats_new_notification_summary"-->
 <!ENTITY pref_feature_tips_notification_summary "Dysgu rhagor am ddefnyddio &brandShortName; a chynnyrch eraill &vendorShortName;">
-
-<!-- Localization note (pref_feature_tips_notification_enabling_hint):
-     Describe the action the user should do to enable this preference
-     Will be used in the context "<Turn on> ... to enable this feature" -->
-<!ENTITY pref_feature_tips_notification_enabling_hint "Cychwyn">
-
 <!-- Localization note (pref_feature_tips_notification_enabling_path):
      Nothing to translate. Simple concatenation of already localized strings. Result is used below. -->
 <!ENTITY pref_feature_tips_notification_enabling_path "&pref_category_privacy_short; > &pref_category_datareporting; > &datareporting_fhr_title;">
@@ -400,7 +394,7 @@
 <!ENTITY pref_private_data_formdata2 "Hanes ffurflen">
 <!ENTITY pref_private_data_cookies2 "Cwcis a mewngofnodi gweithredol">
 <!ENTITY pref_private_data_passwords2 "Mewngofnodion wedi eu cadw">
-<!ENTITY pref_private_data_cache "Storfa">
+<!ENTITY pref_private_data_cache "Storfa Dros Dro">
 <!ENTITY pref_private_data_offlineApps "Data gwefan all-lein">
 <!ENTITY pref_private_data_siteSettings2 "Gosodiadau gwefan">
 <!ENTITY pref_private_data_downloadFiles2 "Llwythi">
@@ -844,8 +838,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY whatsnew_notification_title "Mae &brandShortName; yn gyfredol">
 <!ENTITY whatsnew_notification_summary "Beth sy\&apos;n newydd yn y fersiwn yma">
 
-<!ENTITY promotion_add_page_shortcut "Creu llwybr byr tudalen">
-
 <!ENTITY helper_first_offline_bookmark_title "Darllen all-lein">
 <!ENTITY helper_first_offline_bookmark_message "Canfod eich eitemau Golwg Darllen yn Nodau Tudalen, hyd yn oed all-lein.">
 <!ENTITY helper_first_offline_bookmark_button "Mynd i\&apos;r Nodau Tudalen">
@@ -904,15 +896,9 @@ Picture-in-picture mini window -->
 <!ENTITY pip_pause_button_description "Oedi chwarae">
 
 <!-- Notification channels names -->
-<!ENTITY default_notification_channel "&brandShortName;">
-
-<!-- Notification channels names -->
 <!ENTITY default_notification_channel2 "Porwr">
 <!ENTITY mls_notification_channel "Gwasanaeth Lleoli &vendorShortName;">
 <!ENTITY download_notification_channel "Llwythau">
-<!ENTITY media_notification_channel "Chwarae cyfwng">
-<!-- These push notifications come without a specific channel and/or name from Leanplum -->
-<!ENTITY leanplum_default_notifications_channel "Hysbysiadau gwthio &brandShortName;">
 <!ENTITY media_notification_channel2 "Sain a fideo">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel2 "&vendorShortName; awgrymiadau a thriciau">
