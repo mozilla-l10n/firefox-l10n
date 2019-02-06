@@ -32,7 +32,7 @@
 <!ENTITY netInterrupt.longDesc "<p>Mae'r porwr wedi cysylltu'n llwyddiannus, ond cafodd y cysylltiad ei darfu wrth drosglwyddo gwybodaeth.   Ceisiwch eto.</p><ul><li>Methu pori gwefannau eraill? Gwiriwch gysylltiad y cyfrifiadur â'r rhwydwaith.</li><li>Yn dal i gael trwbl? Cysylltwch â'ch gweinyddwr rhwydwaith neu ddarparwr Rhyngrwyd am gymorth.</li></ul>">
 
 <!ENTITY notCached.title "Daeth y Ddogfen i Ben">
-<!ENTITY notCached.longDesc "<p>Nid yw'r ddogfen hon ar gael yn storfa'r porwr.</p><ul><li>Fel modd i ddiogelu nid yw'r porwr yn gofyn eto yn awtomatig am ddogfennau sensitif.</li><li>Cliciwch Ceisiwch Eto i ofyn eto am y ddogfen gan y wefan.</li></ul>">
+<!ENTITY notCached.longDesc "<p>Nid yw'r ddogfen hon ar gael yn storfa dros dro'r porwr.</p><ul><li>Fel modd i ddiogelu nid yw'r porwr yn gofyn eto yn awtomatig am ddogfennau sensitif.</li><li>Cliciwch Ceisiwch Eto i ofyn eto am y ddogfen gan y wefan.</li></ul>">
 
 <!ENTITY netOffline.title "Modd All-lein">
 <!ENTITY netOffline.longDesc2 "<p>Mae&apos;r porwr yn gweithredu mewn modd all-lein ac nid oes modd cysylltu â&apos;r eitem hon.</p><ul><li>A yw&apos;r cyfrifiadur wedi cysylltu i rwydwaith fyw?</li><li>Cliciwch &quot;Ceisiwch Eto&quot; er mwyn newid i&apos;r modd ar-lein ac ail lwytho&apos;r dudalen.</li></ul>">

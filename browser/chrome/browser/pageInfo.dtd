@@ -21,7 +21,7 @@
 <!ENTITY  generalMode           "Modd Llunio:">
 <!ENTITY  generalSize           "Maint:">
 <!ENTITY  generalReferrer       "URL cyfeirio:">
-<!ENTITY  generalSource         "Storfa Ffynhonnell:">
+<!ENTITY  generalSource         "Ffynhonnell: Storfa Dros Dro:">
 <!ENTITY  generalModified       "Newidiwyd:">
 <!ENTITY  generalEncoding2      "Amgodiad Testun:">
 <!ENTITY  generalMetaName       "Enw">
@@ -44,21 +44,9 @@
 <!ENTITY  mediaSaveAs2.accesskey "e">
 <!ENTITY  mediaPreview          "Rhagolwg Cyfrwng:">
 
-<!ENTITY  feedTab               "Llif">
-<!ENTITY  feedTab.accesskey     "F">
-<!ENTITY  feedSubscribe         "Tanysgrifio">
-<!ENTITY  feedSubscribe.accesskey "y">
-
 <!ENTITY  permTab               "Caniatâd">
 <!ENTITY  permTab.accesskey     "C">
-<!ENTITY  permUseDefault        "Defnyddio'r Rhagosodedig">
-<!ENTITY  permAskAlways         "Gofyn bob tro">
-<!ENTITY  permAllow             "Caniatáu">
-<!ENTITY  permAllowSession      "Caniatáu ar gyfer y Sesiwn">
-<!ENTITY  permHide              "Cuddio">
-<!ENTITY  permBlock             "Rhwystro">
 <!ENTITY  permissionsFor        "Caniatâd ar gyfer:">
-<!ENTITY  permPlugins           "Gweithredu'r Ategion">
 
 <!ENTITY  securityTab           "Diogelwch">
 <!ENTITY  securityTab.accesskey "D">
@@ -75,9 +63,6 @@
 
 <!ENTITY  securityView.privacy.header                   "Preifatrwydd a Hanes">
 <!ENTITY  securityView.privacy.history                  "A ydw i wedi ymweld â'r wefan hon cyn heddiw?">
-<!ENTITY  securityView.privacy.cookies                  "A yw'r wefan yma'n cadw gwybodaeth (cwcis) ar fy nghyfrifiadur?">
-<!ENTITY  securityView.privacy.viewCookies              "Gweld y Cwcis">
-<!ENTITY  securityView.privacy.viewCookies.accessKey    "C">
 <!ENTITY  securityView.privacy.siteData                 "A yw'r wefan yma'n yn cadw gwybodaeth ar fy nghyfrifiadur?">
 <!ENTITY  securityView.privacy.clearSiteData            "Clirio Data Cwcis a Data">
 <!ENTITY  securityView.privacy.clearSiteData.accessKey  "C">

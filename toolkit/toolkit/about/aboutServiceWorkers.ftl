@@ -30,8 +30,8 @@ app-title = { -brand-short-name } Enw Rhaglen { $appId } - InBrowserElement { $i
 scope = <strong>Ystod:</strong> { $name }
 script-spec = <strong>Manyleb Sgript:</strong> <a data-l10n-name="link">{ $url }</a>
 current-worker-url = <strong>URL Worker Cyfredol:</strong> <a data-l10n-name="link">{ $url }</a>
-active-cache-name = <strong>Enw'r Storfa Weithredol:</strong> { $name }
-waiting-cache-name = <strong>Enw'r Storfa sy'n Aros:</strong> { $name }
+active-cache-name = <strong>Enw'r Storfa Dros Dro Weithredol:</strong> { $name }
+waiting-cache-name = <strong>Enw'r Storfa Dros Dro sy'n Aros:</strong> { $name }
 push-end-point-waiting = <strong>Push Endpoint:</strong> { waiting }
 push-end-point-result = <strong>Push Endpoint:</strong> { $name }
 # This term is used as a button label (verb, not noun).

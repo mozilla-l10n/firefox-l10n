@@ -5,7 +5,7 @@
 clear-site-data-window =
     .title = Clirio Data
     .style = width: 35em
-clear-site-data-description = Gall glirio'r oll gwcis a data gwefan wedi eu cadw gan { -brand-short-name } eich allgofnodi o wefannau a thynnu cynnwys all-lein gwe. Ni fydd clirio data storfa effeithio ar eich mewngofnodion.
+clear-site-data-description = Gall glirio'r oll gwcis a data gwefan wedi eu cadw gan { -brand-short-name } eich allgofnodi o wefannau a thynnu cynnwys all-lein gwe. Ni fydd clirio data storfa dros dro yn effeithio ar eich mewngofnodion.
 clear-site-data-close-key =
     .key = w
 # The parameters in parentheses in this string describe disk usage
@@ -31,7 +31,7 @@ clear-site-data-cookies-info = Efallai y cewch eich allgofnodi os fydd wedi ei g
 #   $amount (Number) - Amount of cache currently stored on disk
 #   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
 clear-site-data-cache-with-data =
-    .label = Cynnwys Gwe wedi'i Storio ({ $amount } { $unit })
+    .label = Cynnwys Gwe wedi'i Storio Dros Dro ({ $amount } { $unit })
     .accesskey = S
 # This string is a placeholder for while the data used to fill
 # clear-site-data-cache-with-data is loading. This placeholder is usually
@@ -39,7 +39,7 @@ clear-site-data-cache-with-data =
 # or the same as clear-site-data-cache-with-data (except the amount and unit),
 # to avoid flickering.
 clear-site-data-cache-empty =
-    .label = Cynnwys Gwe wedi ei Storio
+    .label = Cynnwys Gwe wedi ei Storio Dros Dro
     .accesskey = S
 clear-site-data-cache-info = Bydd angen i wefannau ail lwytho delweddau a data
 clear-site-data-cancel =

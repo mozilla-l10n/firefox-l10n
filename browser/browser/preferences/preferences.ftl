@@ -606,11 +606,11 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Cwcis a Data Gwefan
-sitedata-total-size-calculating = Cyfrifo maint data gwefan…
+sitedata-total-size-calculating = Cyfrifo maint data gwefan a storfa dros dro…
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size = Mae'r cwcis, data gwefan a storfa yn defnyddio { $value } { $unit } o le ar ddisg ar hyn o bryd.
+sitedata-total-size = Mae'r cwcis, data gwefan a storfa dros dro yn defnyddio { $value } { $unit } o le ar ddisg ar hyn o bryd.
 sitedata-learn-more = Dysgu rhagor
 sitedata-delete-on-close =
     .label = Dileu cwcis a data'r wefan pan fydd { -brand-short-name } ar gau

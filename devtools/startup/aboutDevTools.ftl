@@ -35,7 +35,7 @@ features-debugger-desc = Dadfygiwr JavaScript pwerus gyda chefnogaeth am eich ff
 features-network-title = Rhwydwaith
 features-network-desc = Monitro ceisiadau rhwydwaith sy'n gallu arafu neu rwystro eich gwefan. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-storage-title = Storfa
-features-storage-desc = Ychwanegu, newid neu dynnu data storfa, cwcis, cronfeydd data a data sesiynau. <a data-l10n-name="learn-more">{ features-learn-more }</a>
+features-storage-desc = Ychwanegu, newid neu dynnu data storfa dros dro, cwcis, cronfeydd data a data sesiynau. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-responsive-title = Modd Cynllunio Ymatebol
 features-responsive-desc = Profi gwefannau ar ddyfeisiau wedi eu hefelychu o fewn eich porwr. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-visual-editing-title = Golygu Gweledol
