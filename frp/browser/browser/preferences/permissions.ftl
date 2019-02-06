@@ -32,6 +32,8 @@ permissions-capabilities-block =
     .label = Blocar
 permissions-capabilities-prompt =
     .label = Tojòrn demandar
+permissions-capabilities-listitem-allow =
+    .value = Pèrmetre
 
 ## Invalid Hostname Dialog
 
@@ -49,6 +51,9 @@ permissions-capabilities-prompt =
 
 
 ## Exceptions - Add-ons
+
+
+## Exceptions - Autoplay Media
 
 
 ## Site Permissions - Notifications

@@ -8,6 +8,9 @@ releaseNotes-link = Novitâs
 update-checkForUpdatesButton =
     .label = Rechèrche et beta-a-jorn
     .accesskey = R
+update-updateButton =
+    .label = Relanciér por betar a jorn { -brand-shorter-name }
+    .accesskey = R
 update-checkingForUpdates = Rechèrche de beta-a-jorn…
 update-downloading = <img data-l10n-name="icon"/>Après chargiér bâs la betar a jorn — <label data-l10n-name="download-status"/>
 update-applying = Après aplicar la betar a jorn…
