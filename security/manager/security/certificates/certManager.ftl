@@ -14,6 +14,9 @@ certmgr-issuer-info-label =
     .value = Siniketwe Ngu
 certmgr-fingerprints-label =
     .value = Titfupha
+certmgr-subject-label = Siniketwe Ku
+certmgr-issuer-label = Siniketwe Ngu
+certmgr-fingerprints = Titfupha
 certmgr-cert-detail-cn =
     .value = Libito Lelivamile (CN)
 certmgr-cert-detail-o =
@@ -24,6 +27,11 @@ certmgr-cert-detail-serialnumber =
     .value = Isiriyali Namba
 certmgr-cert-detail-sha1-fingerprint =
     .value = SHA1 Sitfupha
+certmgr-cert-detail-commonname = Libito Lelivamile (CN)
+certmgr-cert-detail-org = Inhlangano (O)
+certmgr-cert-detail-orgunit = Bunye Benhlangano (OU)
+certmgr-cert-detail-serial-number = Isiriyali Namba
+certmgr-cert-detail-sha-1-fingerprint = SHA1 Sitfupha
 certmgr-edit-ca-cert =
     .title = Editha tinhelo tesitifiketi Thrasti iCA
     .style = width: 48em;
@@ -39,6 +47,7 @@ certmgr-token-name =
     .label = Idivayisi Yekuvikela
 certmgr-begins-value =
     .value = { certmgr-begins-label.label }
+certmgr-expires-on = Isipaya Nge
 certmgr-expires-label =
     .label = Isipaya Nge
 certmgr-expires-value =
@@ -109,4 +118,7 @@ cert-not-verified-ca-invalid = Asikacinisekiswa lesitifiketi ngoba sitifiketi CA
 cert-not-verified-unknown = Asikacinisekiswa lesitifiketi ngetizatfu letingatiwa.
 
 ## Add Security Exception dialog
+
+
+## Certificate export "Save as" and error dialogs
 
