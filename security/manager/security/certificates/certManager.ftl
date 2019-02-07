@@ -34,6 +34,7 @@ certmgr-fingerprints-label =
     .value = Fingerôfdrukken
 certmgr-subject-label = Utjûn oan
 certmgr-issuer-label = Utjûn troch
+certmgr-fingerprints = Fingerôfdrukken
 certmgr-cert-detail =
     .title = Detail fan sertifikaat
     .buttonlabelaccept = Slute
