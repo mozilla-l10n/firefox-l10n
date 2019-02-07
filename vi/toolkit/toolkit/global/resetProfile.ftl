@@ -10,4 +10,5 @@ refresh-profile-description = Bắt đầu thiết lập mới để khắc ph�
 refresh-profile-description-details = Điều này sẽ:
 refresh-profile-remove = Xóa các tiện ích và mục tùy chỉnh
 refresh-profile-restore = Khôi phục các thiết lập trình duyệt về mặc định
+refresh-profile = Khôi phục { -brand-short-name } như ban đầu
 refresh-profile-button = Làm mới { -brand-short-name }…
