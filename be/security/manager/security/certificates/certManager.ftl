@@ -82,6 +82,7 @@ certmgr-begins-label =
     .label = Пачынаецца (калі)
 certmgr-begins-value =
     .value = { certmgr-begins-label.label }
+certmgr-expires-on = Сканчэнне тэрміну
 certmgr-expires-label =
     .label = Сканчэнне тэрміну
 certmgr-expires-value =
