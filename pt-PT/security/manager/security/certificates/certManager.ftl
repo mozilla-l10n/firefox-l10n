@@ -77,6 +77,7 @@ certmgr-override-lifetime =
     .label = Validade
 certmgr-token-name =
     .label = Dispositivo de segurança
+certmgr-begins-on = Inicia em
 certmgr-begins-label =
     .label = Inicia em
 certmgr-begins-value =
