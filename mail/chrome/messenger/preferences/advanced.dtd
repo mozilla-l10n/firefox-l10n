@@ -67,17 +67,18 @@
  -->
 <!ENTITY updateApp.version.pre           "Versão ">
 <!ENTITY updateApp.version.post          "">
+<!ENTITY updateAppAllow.description      "Permitir ao &brandShortName;">
 <!ENTITY updateAuto.label                "Instalar atualizações automaticamente (recomendado: melhoria da segurança)">
 <!ENTITY updateAuto.accesskey            "a">
 <!ENTITY updateCheck.label               "Verificar atualizações, mas permitir que eu escolha quando instalá-las">
 <!ENTITY updateCheck.accesskey           "c">
-<!ENTITY updateManual.label              "Nunca verificar se há atualizações (não recomendado: risco de segurança)">
-<!ENTITY updateManual.accesskey          "N">
 <!ENTITY updateHistory.label             "Exibir histórico de atualizações">
 <!ENTITY updateHistory.accesskey         "l">
 
 <!ENTITY useService.label                "Usar um serviço em segundo plano para instalar atualizações">
 <!ENTITY useService.accesskey            "s">
+
+<!ENTITY updateCrossUserSettingWarning.description "Esta configuração se aplicará a todas as contas do Windows e perfis do &brandShortName; que usam esta instalação do &brandShortName;.">
 
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Configurar conexão…">
