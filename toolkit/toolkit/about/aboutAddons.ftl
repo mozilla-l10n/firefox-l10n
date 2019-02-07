@@ -4,6 +4,9 @@
 
 addons-window =
     .title = Chestor de complementos
+search-header =
+    .placeholder = Mirar en addons.mozilla.org
+    .searchbuttonlabel = Mirar
 search-header-shortcut =
     .key = f
 loading-label =
@@ -21,6 +24,12 @@ list-empty-button =
 install-addon-from-file =
     .label = Instalar un complemento dende un fichero…
     .accesskey = I
+help-button = Asistencia d'os complementos
+preferences =
+    { PLATFORM() ->
+        [windows] Opcions de { -brand-short-name }
+       *[other] Preferencias de { -brand-short-name }
+    }
 tools-menu =
     .tooltiptext = Ainas ta totz os complementos
 show-unsigned-extensions-button =
@@ -79,6 +88,15 @@ detail-update-automatic =
 detail-update-manual =
     .label = Desenchegadas
     .tooltiptext = No instalar as actualizacions automaticament
+# Used as a description for the option to allow or block an add-on in private windows.
+detail-private-browsing-label = Executar en finestras privadas
+detail-private-browsing-description = La extesión funcionará en finestras privadas, y tendrá acceso a las suyas actividatz en linia. <label data-l10n-name="detail-private-browsing-learn-more">Faga clic pa saber-ne mas</label>
+detail-private-browsing-on =
+    .label = Permitir
+    .tooltiptext = Activar en navegación privada
+detail-private-browsing-off =
+    .label = No permitir
+    .tooltiptext = Desactivar en navegación privada
 detail-home =
     .label = Pachina d'inicio
 detail-home-value =
@@ -198,3 +216,6 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Instalar as actualizacions
     .tooltiptext = Instalar as actualizacions disponibles en ista lista
+
+## Extension shortcut management
+
