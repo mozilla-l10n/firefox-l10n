@@ -35,6 +35,7 @@ certmgr-cert-detail-commonname = Igama Elivamile (CN)
 certmgr-cert-detail-org = Inhlangano (O)
 certmgr-cert-detail-orgunit = Ingxenye Yenhlangano (OU)
 certmgr-cert-detail-serial-number = Inombolo Yaso
+certmgr-cert-detail-sha-1-fingerprint = Isigxivizo somunwe SHA1
 certmgr-edit-ca-cert =
     .title = Lungisa ukuhlelwa kokwethembeka kwesitifiketi se-CA
     .style = width: 48em;
