@@ -7,3 +7,5 @@ refresh-profile-dialog =
 refresh-profile-dialog-button =
     .label = { -brand-short-name } fernije
 refresh-profile-description-details = Dit sil:
+refresh-profile-remove = Jo add-ons en oanpassingen fuortsmite
+refresh-profile-restore = Jo browserynstellingen nei de standertwearden weromsette
