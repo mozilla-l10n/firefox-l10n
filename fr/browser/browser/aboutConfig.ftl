@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-config-warning-text = La modification de ces préférences avancées peut être dommageable pour la stabilité, la sécurité et les performances de cette application. Ne continuez que si vous savez ce que vous faites.
+about-config-warning-checkbox = Me le rappeler la prochaine fois
 about-config-warning-button = Je prends le risque
 about-config-title = about:config
 about-config-search =
