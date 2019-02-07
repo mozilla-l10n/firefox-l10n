@@ -14,6 +14,9 @@ certmgr-issuer-info-label =
     .value = Rebotswe Ke
 certmgr-fingerprints-label =
     .value = Dikgatiso tsa menwana
+certmgr-subject-label = Rebotswe Go
+certmgr-issuer-label = Rebotswe Ke
+certmgr-fingerprints = Dikgatiso tsa menwana
 certmgr-cert-detail-cn =
     .value = Leina le le Tlwaelegileng (CN)
 certmgr-cert-detail-o =
@@ -24,6 +27,11 @@ certmgr-cert-detail-serialnumber =
     .value = Palopopo
 certmgr-cert-detail-sha1-fingerprint =
     .value = Kgatiso ya monwana ya SHA1
+certmgr-cert-detail-commonname = Leina le le Tlwaelegileng (CN)
+certmgr-cert-detail-org = Setlamo (O)
+certmgr-cert-detail-orgunit = Yuniti ya Setlamo (OU)
+certmgr-cert-detail-serial-number = Palopopo
+certmgr-cert-detail-sha-1-fingerprint = Kgatiso ya monwana ya SHA1
 certmgr-edit-ca-cert =
     .title = Tseleganya boalo jwa boikanyego jwa setifikeiti sa CA
     .style = width: 48em;
@@ -39,6 +47,7 @@ certmgr-token-name =
     .label = Sediriswa sa Pabalesego
 certmgr-begins-value =
     .value = { certmgr-begins-label.label }
+certmgr-expires-on = Khutla go dira ka La
 certmgr-expires-label =
     .label = Khutla go dira ka La
 certmgr-expires-value =
@@ -112,4 +121,7 @@ cert-not-verified_algorithm-disabled = Ga e a kgona go tlhotlhomisa setifikeiti 
 cert-not-verified-unknown = Ga e a kgona go tlhomamisa setifikeiti seno ka ntlha ya mabaka a a sa itsiweng.
 
 ## Add Security Exception dialog
+
+
+## Certificate export "Save as" and error dialogs
 
