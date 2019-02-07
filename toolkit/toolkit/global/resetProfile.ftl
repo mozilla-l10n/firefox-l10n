@@ -6,4 +6,6 @@ refresh-profile-dialog =
     .title = Reïnicializar { -brand-short-name }
 refresh-profile-dialog-button =
     .label = Reïnicializar { -brand-short-name }
+refresh-profile-description = Tornar partir per reparar los problèmas e restablir las performanças.
 refresh-profile-description-details = En contunhant anatz :
+refresh-profile-remove = Suprimir vòstres moduls e personalisacions
