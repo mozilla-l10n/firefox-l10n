@@ -47,6 +47,7 @@ certmgr-cert-detail-sha256-fingerprint =
     .value = SHA-256 Fingerprint
 certmgr-cert-detail-sha1-fingerprint =
     .value = SHA1 వేలిముద్ర
+certmgr-cert-detail-org = వ్యవస్థ
 certmgr-cert-detail-orgunit = వ్యవస్థ యూనిట్ (OU)
 certmgr-cert-detail-serial-number = వరుస సంఖ్య
 certmgr-cert-detail-sha-256-fingerprint = SHA-256 Fingerprint
