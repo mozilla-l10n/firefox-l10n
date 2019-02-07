@@ -67,17 +67,18 @@
  -->
 <!ENTITY updateApp.version.pre           "Ferzje ">
 <!ENTITY updateApp.version.post          "">
+<!ENTITY updateAppAllow.description      "&brandShortName; tastean om">
 <!ENTITY updateAuto.label                "Fernijingen automatysk ynstallearje (oanrekommandearre: ferbettere feilichheid)">
 <!ENTITY updateAuto.accesskey            "a">
 <!ENTITY updateCheck.label               "Kontrolearje op fernijngen, mar lit my kieze oft ik se ynstallearje wol">
 <!ENTITY updateCheck.accesskey           "K">
-<!ENTITY updateManual.label              "Nea kontrolearje op fernijingen (net oanrekommandearre: feilichheidsrisiko)">
-<!ENTITY updateManual.accesskey          "N">
 <!ENTITY updateHistory.label             "Fernijingsskiednis toane">
 <!ENTITY updateHistory.accesskey         "s">
 
 <!ENTITY useService.label                "In eftergrûntsjinst brûke om fernijingen te ynstallearjen">
 <!ENTITY useService.accesskey            "a">
+
+<!ENTITY updateCrossUserSettingWarning.description "Dizze ynstelling is fan tapassing op alle Windows-accounts en &brandShortName;-profilen dy't dizze ynstallaasje fan &brandShortName; brûke.">
 
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Ynstellingen…">
