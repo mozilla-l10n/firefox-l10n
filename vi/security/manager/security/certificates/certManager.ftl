@@ -50,6 +50,7 @@ certmgr-cert-detail-sha256-fingerprint =
     .value = Vân tay SHA-256
 certmgr-cert-detail-sha1-fingerprint =
     .value = Vân tay SHA1
+certmgr-cert-detail-commonname = Tên thông thường (CN)
 certmgr-cert-detail-org = Tổ chức (O)
 certmgr-cert-detail-orgunit = Đơn vị của Tổ chức (OU)
 certmgr-cert-detail-serial-number = Số Serial
