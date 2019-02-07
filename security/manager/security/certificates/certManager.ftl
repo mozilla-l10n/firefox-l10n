@@ -79,6 +79,7 @@ certmgr-begins-label =
     .label = تبدأ في
 certmgr-begins-value =
     .value = { certmgr-begins-label.label }
+certmgr-expires-on = تنقضي في
 certmgr-expires-label =
     .label = تنقضي في
 certmgr-expires-value =
