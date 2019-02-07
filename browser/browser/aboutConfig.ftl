@@ -17,6 +17,12 @@ about-config-pref-save = Spara
 about-config-pref-reset = Återställ
 about-config-pref-delete = Ta bort
 
+## Labels for the type selection radio buttons shown when adding preferences.
+
+about-config-pref-add-type-boolean = Boolesk
+about-config-pref-add-type-number = Nummer
+about-config-pref-add-type-string = Sträng
+
 ## Preferences with a non-default value are differentiated visually, and at the
 ## same time the state is made accessible to screen readers using an aria-label
 ## that won't be visible or copied to the clipboard.
