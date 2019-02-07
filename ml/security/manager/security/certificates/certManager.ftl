@@ -56,6 +56,7 @@ certmgr-cert-detail-commonname = പൊതു പേരു്‌  (CN)
 certmgr-cert-detail-org = സ്ഥാപനം
 certmgr-cert-detail-orgunit = Organisational Unit (OU)
 certmgr-cert-detail-serial-number = സീരിയല്‍ നമ്പര്‍
+certmgr-cert-detail-sha-256-fingerprint = SHA-256 ഫിംഗര്‍പ്രിന്റ്
 certmgr-cert-detail-sha-1-fingerprint = SHA1 ഫിംഗര്‍പ്രിന്റ്
 certmgr-edit-ca-cert =
     .title = CA സര്‍ട്ടിഫിക്കറ്റുകളുടെ വിശ്വസ്ഥത സജ്ജീകരണങ്ങള്‍ ചിട്ടപെടുത്തുക
