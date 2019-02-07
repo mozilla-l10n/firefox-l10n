@@ -7,6 +7,7 @@ certmgr-detail-pretty-print-tab-title =
     .accesskey = I
 certmgr-cert-detail-o =
     .value = Shirika (O)
+certmgr-cert-detail-org = Shirika (O)
 certmgr-token-name =
     .label = Kifaa cha Usalama
 certmgr-begins-value =
@@ -60,4 +61,7 @@ verify-email-recip =
     .value = Cheti cha Mpokeaji Barua Pepe
 
 ## Add Security Exception dialog
+
+
+## Certificate export "Save as" and error dialogs
 
