@@ -28,6 +28,10 @@ certmgr-period-of-validity-label =
     .value = बाहाय जाथावनि समफारि
 certmgr-fingerprints-label =
     .value = आसिनि दाग
+certmgr-subject-label = ..सिम इसु खालामबाय
+certmgr-issuer-label = ..जों इसु खालामबाय
+certmgr-period-of-validity = बाहाय जाथावनि समफारि
+certmgr-fingerprints = आसिनि दाग
 certmgr-cert-detail =
     .title = गुवारै सार्टिफिकेट
     .buttonlabelaccept = बन्द खालाम(C)
@@ -44,6 +48,12 @@ certmgr-cert-detail-sha256-fingerprint =
     .value = SHA-256 फिंगारप्रिन्ट
 certmgr-cert-detail-sha1-fingerprint =
     .value = SHA1 आसिनि दाग
+certmgr-cert-detail-commonname = सरासनस्रा मुं (CN)
+certmgr-cert-detail-org = फसंथान (O)
+certmgr-cert-detail-orgunit = फसंथानारि खोन्दो (OU)
+certmgr-cert-detail-serial-number = फारि अनजिमा
+certmgr-cert-detail-sha-256-fingerprint = SHA-256 फिंगारप्रिन्ट
+certmgr-cert-detail-sha-1-fingerprint = SHA1 आसिनि दाग
 certmgr-edit-ca-cert =
     .title = CA सार्टिफिकेट फोथायनाय सेटिंखौ सुजु
     .style = width: 48em;
@@ -63,10 +73,12 @@ certmgr-override-lifetime =
     .label = अराय जिउ सम
 certmgr-token-name =
     .label = रैखाथि डिभाइस
+certmgr-begins-on = आव जागायो
 certmgr-begins-label =
     .label = आव जागायो
 certmgr-begins-value =
     .value = { certmgr-begins-label.label }
+certmgr-expires-on = ..आव मेयाद बारलाङो
 certmgr-expires-label =
     .label = ..आव मेयाद बारलाङो
 certmgr-expires-value =
@@ -161,4 +173,7 @@ verify-email-recip =
     .value = इ-मेइल मोनग्रा चार्टिफिकेट
 
 ## Add Security Exception dialog
+
+
+## Certificate export "Save as" and error dialogs
 
