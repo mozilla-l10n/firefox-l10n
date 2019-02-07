@@ -20,6 +20,7 @@ certmgr-cert-detail-sha256-fingerprint =
     .value = SHA-256 Fingerprint
 certmgr-cert-detail-sha1-fingerprint =
     .value = SHA1 Fingerprint
+certmgr-cert-detail-org = Organisasyon (O)
 certmgr-edit-ca-cert =
     .title = i-Edit ang CA certificate trust settings
     .style = width: 48em;
