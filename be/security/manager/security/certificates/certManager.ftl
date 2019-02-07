@@ -52,6 +52,7 @@ certmgr-cert-detail-sha1-fingerprint =
 certmgr-cert-detail-commonname = Агульная назва (CN)
 certmgr-cert-detail-org = Установа (O)
 certmgr-cert-detail-serial-number = Серыйны нумар
+certmgr-cert-detail-sha-256-fingerprint = Адбітак SHA-256
 certmgr-cert-detail-sha-1-fingerprint = Адбітак SHA1
 certmgr-edit-ca-cert =
     .title = Рэдагаванне наладаў даверу да сертыфіката ЦС
