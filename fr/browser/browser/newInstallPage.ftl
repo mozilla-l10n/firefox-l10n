@@ -8,3 +8,7 @@
 ### given Firefox channel". These terms are not synonymous.
 
 title = Informations importantes
+resources = Ressources :
+sync-label = Saisissez votre adresse électronique
+sync-input =
+    .placeholder = Adresse électronique
