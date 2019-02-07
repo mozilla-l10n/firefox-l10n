@@ -277,7 +277,7 @@ update-application-check-choose =
 update-application-manual =
     .label = Non controllare mai la disponibilità di aggiornamenti (non consigliato)
     .accesskey = N
-update-application-warning-cross-user-setting = Questa impostazione verrà applicata a tutti gli account di Windows e ai profili di { -brand-short-name } utilizzati da questa installazione del browser.    
+update-application-warning-cross-user-setting = Questa impostazione verrà applicata a tutti gli account di Windows e ai profili di { -brand-short-name } utilizzati da questa installazione del browser.
 update-application-use-service =
     .label = Utilizza un servizio di sistema per installare gli aggiornamenti
     .accesskey = U
@@ -672,6 +672,7 @@ content-blocking-all-windows-trackers = Elementi traccianti conosciuti in qualun
 content-blocking-all-third-party-cookies = Tutti i cookie di terze parti
 content-blocking-warning-title = Attenzione
 content-blocking-warning-desc = Il blocco di cookie ed elementi traccianti potrebbe impedire il corretto funzionamento di alcuni siti. È semplice disattivare il blocco per i siti che ritieni affidabili.
+content-blocking-warning-description = Il blocco di contenuti potrebbe impedire il corretto funzionamento di alcuni siti. È semplice disattivare il blocco per i siti che ritieni affidabili.
 content-blocking-learn-how = Scopri come
 content-blocking-trackers-label =
     .label = Elementi traccianti
@@ -686,6 +687,12 @@ content-blocking-tracking-protection-change-block-list = Cambia elenco per blocc
 content-blocking-cookies-label =
     .label = Cookie
     .accesskey = C
+content-blocking-cryptominers-label =
+  .label = Criptominer
+  .accesskey = m
+content-blocking-fingerprinters-label =
+  .label = Fingerprinter
+  .accesskey = F
 
 ## Privacy Section - Tracking
 
