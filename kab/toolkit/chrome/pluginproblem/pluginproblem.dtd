@@ -15,7 +15,7 @@
 <!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
 <!ENTITY reloadPlugin.pre                                    "">
 <!ENTITY reloadPlugin.middle                                 "Smiren asebter">
-<!ENTITY reloadPlugin.post                                   " i weɛraḍ tikelt-nniḍen.">
+<!ENTITY reloadPlugin.post                                   " i weɛraḍ tikkelt-nniḍen.">
 <!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
 <!ENTITY report.please                                       "Azen aneqqis n uɣelluy">
 <!ENTITY report.submitting                                   "Tuzzna n ussaɣ…">

@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-languages-window =
-    .title = Tutlayin
-    .style = width: 30em
 webpage-languages-window =
     .title = Iɣewwaṛen n Tutlayt n Usebter Web
     .style = width: 40em
@@ -55,4 +52,4 @@ browser-languages-select-language =
     .placeholder = Fren tutlayt ara ternuḍ...
 browser-languages-installed-label = Tutlayin ibedden
 browser-languages-available-label = Tutlayin yellan
-browser-languages-error = { -brand-short-name } ur izmir ara ad isnifel tutlayin-ik/im tura. Wali ma teqqneḍ ɣer internet neɣ ɛreḍ tikelt nniḍen.
+browser-languages-error = { -brand-short-name } ur izmir ara ad isnifel tutlayin-ik/im tura. Wali ma teqqneḍ ɣer internet neɣ ɛreḍ tikkelt-nniḍen.

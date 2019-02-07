@@ -9,7 +9,7 @@ update-checkForUpdatesButton =
     .label = Nadi ileqman
     .accesskey = N
 update-updateButton =
-    .label = Sker i tikelt-nniḍen akken ad tleqqmeḍ{ -brand-shorter-name }
+    .label = Sker i tikkelt-nniḍen akken ad tleqqmeḍ{ -brand-shorter-name }
     .accesskey = R
 update-checkingForUpdates = Muqel ma yella lqem amaynut...
 update-downloading = <img data-l10n-name="icon"/>Asider n lqem—  <label data-l10n-name="download-status"/>

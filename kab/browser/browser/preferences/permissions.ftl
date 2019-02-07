@@ -41,7 +41,7 @@ permissions-capabilities-allow =
 permissions-capabilities-block =
     .label = Sewḥel
 permissions-capabilities-prompt =
-    .label = Sutur yal tikelt
+    .label = Sutur yal tikkelt
 permissions-capabilities-listitem-allow =
     .value = Sireg
 permissions-capabilities-listitem-block =
@@ -58,10 +58,6 @@ permissions-invalid-uri-label = Ma ulac aɣilif, sekcem isem n usenneftaɣ ameɣ
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-tracking-protection-window =
-    .title = Tasureft - Ammesten n usfuɣel
-    .style = { permissions-window.style }
-permissions-exceptions-tracking-protection-desc = Treremdeḍ ammesten n usfuɣel ɣef isebtar-agi.
 permissions-exceptions-content-blocking-window =
     .title = Tisuraf - Asewḥel n ugbur
     .style = { permissions-window.style }
@@ -100,7 +96,7 @@ permissions-exceptions-addons-desc = Tzemreḍ ad d-tmuddeḍ ismal web ara teǧ
 permissions-exceptions-autoplay-media-window2 =
     .title = Tisuraf - Taɣuri tawurmant
     .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc2 = Tzemreḍ ad d-tmuddeḍ ismal web yellan yal tikelt neɣ werǧin llan seqdacen taɣuri tawurmant n wallalen n teγwalt s imesli.  Mudd-d tansa n usmel u sit ɣef Fsi neɣ Sireg.
+permissions-exceptions-autoplay-media-desc2 = Tzemreḍ ad d-tmuddeḍ ismal web yellan yal tikkelt neɣ werǧin llan seqdacen taɣuri tawurmant n wallalen n teγwalt s imesli.  Mudd-d tansa n usmel u sit ɣef Sewḥel neɣ Sireg.
 
 ## Site Permissions - Notifications
 
