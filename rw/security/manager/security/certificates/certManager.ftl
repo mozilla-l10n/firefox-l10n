@@ -14,6 +14,9 @@ certmgr-issuer-info-label =
     .value = Byatanzwe Na
 certmgr-fingerprints-label =
     .value = Ibikumwe
+certmgr-subject-label = Byahawe
+certmgr-issuer-label = Byatanzwe Na
+certmgr-fingerprints = Ibikumwe
 certmgr-cert-detail =
     .title = Ibisobanuro by'Icyemezo
     .buttonlabelaccept = Gufunga
@@ -28,6 +31,11 @@ certmgr-cert-detail-serialnumber =
     .value = Nimero Iranga
 certmgr-cert-detail-sha1-fingerprint =
     .value = Igikumwe cya SHA1
+certmgr-cert-detail-commonname = Izina Rusange (CN)
+certmgr-cert-detail-org = Umuryango (O)
+certmgr-cert-detail-orgunit = Ishami Ricunga (OU)
+certmgr-cert-detail-serial-number = Nimero Iranga
+certmgr-cert-detail-sha-1-fingerprint = Igikumwe cya SHA1
 certmgr-edit-ca-cert =
     .title = Guhindura Amagenamiterere y'Icyizere cy'Icyemezo cya CA
     .style = width: 48em;
@@ -45,6 +53,7 @@ certmgr-token-name =
     .label = Apareyi y'Umutekano
 certmgr-begins-value =
     .value = { certmgr-begins-label.label }
+certmgr-expires-on = Agaciro Kayo Kazarangira Ku Wa:
 certmgr-expires-label =
     .label = Agaciro Kayo Kazarangira Ku Wa:
 certmgr-expires-value =
@@ -121,4 +130,7 @@ cert-not-verified-ca-invalid = Ntibyashobotse kugenzura iki cyemezo kubera ko ic
 cert-not-verified-unknown = Ntibyashobotse kugenzura iki cyemezo kubera impamvu zitazwi.
 
 ## Add Security Exception dialog
+
+
+## Certificate export "Save as" and error dialogs
 
