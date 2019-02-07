@@ -11,3 +11,4 @@ refresh-profile-description-details = Dette vil:
 refresh-profile-remove = Fjerne utvidelser og tilpasninger
 refresh-profile-restore = Gjenopprette nettleserinnstillinger til standardverdier
 refresh-profile = Gi { -brand-short-name } en overhaling
+refresh-profile-button = Tilbakestill { -brand-short-name }…
