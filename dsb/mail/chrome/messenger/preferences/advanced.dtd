@@ -67,17 +67,18 @@
  -->
 <!ENTITY updateApp.version.pre           "Wersija ">
 <!ENTITY updateApp.version.post          "">
+<!ENTITY updateAppAllow.description      "&brandShortName; zmóžniś:">
 <!ENTITY updateAuto.label                "Aktualizacije awtomatiski instalěrowaś (pśiraźijo se: pólěpšona wěstota)">
 <!ENTITY updateAuto.accesskey            "A">
 <!ENTITY updateCheck.label               "Aktualizacije pytaś, ale rozsud mě pśewóstajiś, lěc maju se instalěrowaś">
 <!ENTITY updateCheck.accesskey           "c">
-<!ENTITY updateManual.label              "Nigda aktualizacije njepytaś (njepśiraźijo se: wěstotne riziko)">
-<!ENTITY updateManual.accesskey          "N">
 <!ENTITY updateHistory.label             "Historiju aktualizacijow pokazaś">
 <!ENTITY updateHistory.accesskey         "H">
 
 <!ENTITY useService.label                "Slězynowu słužbu za instalěrowanje aktualizacijow wužywaś">
 <!ENTITY useService.accesskey            "z">
+
+<!ENTITY updateCrossUserSettingWarning.description "Toś to nastajenje se na wšykne konta Windows nałožyjo a na profile &brandShortName;, kótarež toś tu instalaciju &brandShortName; wužywaju.">
 
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Nastajenja…">
