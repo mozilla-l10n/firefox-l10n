@@ -9,5 +9,6 @@ refresh-profile-dialog-button =
 refresh-profile-description = Mulai dari awal untuk memperbaiki masalah dan memulihkan kinerja.
 refresh-profile-description-details = Proses ini akan:
 refresh-profile-remove = Menghapus pengaya dan pengubahsuaian
+refresh-profile-restore = Memulihkan setelan peramban ke setelan bawaan
 refresh-profile = Lakukan penyegaran untuk { -brand-short-name }
 refresh-profile-button = Segarkan { -brand-short-name }…
