@@ -10,4 +10,5 @@ refresh-profile-description = Kezdjen tiszta lappal a hibák elhárítása és a
 refresh-profile-description-details = Ennek hatására:
 refresh-profile-remove = A kiegészítők és minden személyre szabás törlésre kerül
 refresh-profile-restore = A böngésző beállításai az alapértékre állnak vissza
+refresh-profile = Tuningolja a { -brand-short-name } böngészőt
 refresh-profile-button = { -brand-short-name } felfrissítése…
