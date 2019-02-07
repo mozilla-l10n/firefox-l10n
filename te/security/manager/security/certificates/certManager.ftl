@@ -49,6 +49,7 @@ certmgr-cert-detail-sha1-fingerprint =
     .value = SHA1 వేలిముద్ర
 certmgr-cert-detail-orgunit = వ్యవస్థ యూనిట్ (OU)
 certmgr-cert-detail-serial-number = వరుస సంఖ్య
+certmgr-cert-detail-sha-256-fingerprint = SHA-256 Fingerprint
 certmgr-cert-detail-sha-1-fingerprint = SHA1 వేలిముద్ర
 certmgr-edit-ca-cert =
     .title = CA ధృవీకరణపత్రం నమ్మిక అమరికలను సరిచేయి
