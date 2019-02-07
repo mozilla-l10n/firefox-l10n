@@ -74,6 +74,7 @@ certmgr-override-lifetime =
     .label = 生命周期
 certmgr-token-name =
     .label = 安全设备
+certmgr-begins-on = 起始时间
 certmgr-begins-label =
     .label = 起始时间
 certmgr-begins-value =
