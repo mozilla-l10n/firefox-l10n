@@ -48,6 +48,7 @@ certmgr-cert-detail-sha256-fingerprint =
     .value = Otisk SHA-256
 certmgr-cert-detail-sha1-fingerprint =
     .value = Otisk SHA1
+certmgr-cert-detail-sha-256-fingerprint = Otisk SHA-256
 certmgr-edit-ca-cert =
     .title = Upravit nastavení důvěryhodnosti CA
     .style = width: 48em;
