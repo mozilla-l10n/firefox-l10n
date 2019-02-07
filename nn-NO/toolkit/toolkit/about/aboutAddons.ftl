@@ -216,6 +216,7 @@ extensions-updates-update-selected =
 
 ## Extension shortcut management
 
+shortcuts-letter = Skriv ein bokstav
 shortcuts-card-collapse-button = Vis mindre
 go-back-button =
     .tooltiptext = Gå tilbake
