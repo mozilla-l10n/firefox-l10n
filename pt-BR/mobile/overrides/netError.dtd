@@ -6,7 +6,7 @@
 %brandDTD;
 
 <!ENTITY loadError.label "Problema ao carregar a página">
-<!ENTITY retry.label "Tentar de novo">
+<!ENTITY retry.label "Tentar novamente">
 
 <!-- Specific error messages -->
 
@@ -66,7 +66,7 @@
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "Documento expirou">
-<!ENTITY notCached.longDesc "<p>O documento solicitado não está mais no cache do &brandShortName;.</p><ul><li>Como medida de segurança, o &brandShortName; não solicita automaticamente documentos contendo informações confidenciais.</li><li>Clique em Tentar de novo para solicitar mais uma vez o documento do site.</li></ul>">
+<!ENTITY notCached.longDesc '<p>O documento solicitado não está mais no cache do &brandShortName;.</p><ul><li>Como medida de segurança, o &brandShortName; não solicita de novo automaticamente documentos contendo informações confidenciais.</li><li>Clique em "Tentar novamente" para solicitar mais uma vez o documento do site.</li></ul>'>
 
 <!ENTITY netOffline.title "Modo off-line">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
@@ -142,11 +142,11 @@ cookies.</li>
 ">
 
 <!ENTITY nssBadCert.title "Falha na conexão segura">
-<!ENTITY nssBadCert.longDesc2 "<ul> 
-<li>Pode ser um problema com a configuração do servidor ou pode ser 
-alguém tentando se passar por ele.</li> 
-<li>Se já conectou com êxito a este servidor, o erro pode ser temporário 
-e pode tentar de novo mais tarde.</li> 
+<!ENTITY nssBadCert.longDesc2 "<ul>
+<li>Pode ser um problema com a configuração do servidor, ou pode ser 
+alguém tentando se passar por ele.</li>
+<li>Se já se conectou com êxito a este servidor, o erro pode ser temporário 
+e você pode tentar de novo mais tarde.</li>
 </ul>">
 
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.

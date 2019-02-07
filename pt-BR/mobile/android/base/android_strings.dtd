@@ -727,7 +727,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_title2 "Baixando o &brandShortName;">
 <!ENTITY updater_downloading_title_failed2 "O download falhou">
 <!ENTITY updater_downloading_select2 "Toque para aplicar a atualização assim que for baixada">
-<!ENTITY updater_downloading_retry2 "Toque para tentar de novo">
+<!ENTITY updater_downloading_retry2 "Toque para tentar novamente">
 
 <!ENTITY updater_apply_title3 "Baixando atualização para o &brandShortName;">
 <!ENTITY updater_apply_select3 "Tocar para instalar">
