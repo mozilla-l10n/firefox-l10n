@@ -14,6 +14,9 @@ certmgr-issuer-info-label =
     .value = Ikhitjhwe Ngu
 certmgr-fingerprints-label =
     .value = Ukugadangiswa kwemino
+certmgr-subject-label = Ikhitjhelwe U
+certmgr-issuer-label = Ikhitjhwe Ngu
+certmgr-fingerprints = Ukugadangiswa kwemino
 certmgr-cert-detail =
     .title = Imininingwana Yesitifikeyiti
     .buttonlabelaccept = Close
@@ -28,6 +31,11 @@ certmgr-cert-detail-serialnumber =
     .value = Inomboro Yesiriyali
 certmgr-cert-detail-sha1-fingerprint =
     .value = SHA1 Umgadangiso wemino
+certmgr-cert-detail-commonname = Ibizo elijwayelekileko (CN)
+certmgr-cert-detail-org = Ihlangano (O)
+certmgr-cert-detail-orgunit = Ikoro yehlangano (OU)
+certmgr-cert-detail-serial-number = Inomboro Yesiriyali
+certmgr-cert-detail-sha-1-fingerprint = SHA1 Umgadangiso wemino
 certmgr-edit-ca-cert =
     .title = Lungisa ijamo lesitifikeyiti se trust yeCA
     .style = width: 48em;
@@ -45,6 +53,7 @@ certmgr-token-name =
     .label = Iisisetjenziswa sokuvikela
 certmgr-begins-value =
     .value = { certmgr-begins-label.label }
+certmgr-expires-on = Siphela Mhlaka
 certmgr-expires-label =
     .label = Siphela Mhlaka
 certmgr-expires-value =
@@ -121,4 +130,7 @@ cert-not-verified-ca-invalid = Akwazeki ukuqinisekisa isitifikhethi lesi ngomban
 cert-not-verified-unknown = Akwazeki ukuqinisekisa isitifikhethi lesi ngezizathu ezingaziwa.
 
 ## Add Security Exception dialog
+
+
+## Certificate export "Save as" and error dialogs
 
