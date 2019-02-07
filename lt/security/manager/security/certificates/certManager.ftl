@@ -48,6 +48,7 @@ certmgr-cert-detail-sha256-fingerprint =
     .value = SHA-256 kontrolinis kodas
 certmgr-cert-detail-sha1-fingerprint =
     .value = SHA1 kontrolinis kodas
+certmgr-cert-detail-sha-256-fingerprint = SHA-256 kontrolinis kodas
 certmgr-edit-ca-cert =
     .title = Pasitikėjimo LĮ liudijimu nuostatos
     .style = width: 48em;
