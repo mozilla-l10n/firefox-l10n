@@ -58,10 +58,9 @@ permissions-invalid-uri-label = Introduzca un nombre de servidor valido
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-tracking-protection-window =
-    .title = Excepcions - Protección contra lo seguimiento
+permissions-exceptions-content-blocking-window =
+    .title = Excepcions - Bloqueyo de contenius
     .style = { permissions-window.style }
-permissions-exceptions-tracking-protection-desc = Has desactivau la protección de seguimiento en estas pachinas web.
 
 ## Exceptions - Cookies
 

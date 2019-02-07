@@ -67,3 +67,16 @@ connection-proxy-autologin =
 connection-proxy-socks-remote-dns =
     .label = Servidor intermediario DNS quan se fa servir SOCKS v6
     .accesskey = d
+connection-dns-over-https =
+    .label = Activar lo DNS sobre HTTPS
+    .accesskey = v
+# Variables:
+#   $url (String) - URL for the DNS over HTTPS provider
+connection-dns-over-https-url-default =
+    .label = Usar valor per defecto ({ $url })
+    .accesskey = U
+    .tooltiptext = Usar la URL per fecto pa resolver lo DNS sobre HTTPS
+connection-dns-over-https-url-custom =
+    .label = Personalizada
+    .accesskey = P
+    .tooltiptext = Escribe la tuya URL preferida pa resolver lo DNS sobre HTTPS
