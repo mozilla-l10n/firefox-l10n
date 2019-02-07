@@ -20,6 +20,9 @@ certmgr-issuer-info-label =
     .value = Ntšhitšwe Ke
 certmgr-fingerprints-label =
     .value = Kgatišo ya menwana
+certmgr-subject-label = Ntšheditšwe Go
+certmgr-issuer-label = Ntšhitšwe Ke
+certmgr-fingerprints = Kgatišo ya menwana
 certmgr-cert-detail =
     .title = Tshedimošo ya Setifikheiti
     .buttonlabelaccept = Tswalela
@@ -34,6 +37,11 @@ certmgr-cert-detail-serialnumber =
     .value = Nomoro ya Seriale
 certmgr-cert-detail-sha1-fingerprint =
     .value = SHA1 Kgatišomonwana
+certmgr-cert-detail-commonname = Leina la Setlwaedi (CN)
+certmgr-cert-detail-org = Mokgahlo (O)
+certmgr-cert-detail-orgunit = Lekala la Mokgahlo (OU)
+certmgr-cert-detail-serial-number = Nomoro ya Seriale
+certmgr-cert-detail-sha-1-fingerprint = SHA1 Kgatišomonwana
 certmgr-edit-ca-cert =
     .title = Rulaganya dipeakanyo tša tshepho ya setifikheiti sa CA
     .style = width: 48em;
@@ -51,6 +59,7 @@ certmgr-token-name =
     .label = Setlabela sa Tšhireletšo
 certmgr-begins-value =
     .value = { certmgr-begins-label.label }
+certmgr-expires-on = E felelwa ke nako Ka
 certmgr-expires-label =
     .label = E felelwa ke nako Ka
 certmgr-expires-value =
@@ -148,4 +157,7 @@ cert-not-verified-ca-invalid = Paletšwe ke go kgonthišiša setifikheihi se ka 
 cert-not-verified-unknown = Paletšwe ke go kgonthišiša setifikheiti se ka mabaka ao a sa tsebjego.
 
 ## Add Security Exception dialog
+
+
+## Certificate export "Save as" and error dialogs
 
