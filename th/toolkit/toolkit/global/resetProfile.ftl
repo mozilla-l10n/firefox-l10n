@@ -9,5 +9,6 @@ refresh-profile-dialog-button =
 refresh-profile-description = เริ่มใหม่เพื่อแก้ไขปัญหาและเรียกคืนประสิทธิภาพ
 refresh-profile-description-details = สิ่งนี้จะ:
 refresh-profile-remove = เอาส่วนเสริมและการปรับแต่งของคุณออก
+refresh-profile-restore = เรียกคืนการตั้งค่าเบราว์เซอร์ของคุณเป็นค่าเริ่มต้น
 refresh-profile = รีดประสิทธิภาพ { -brand-short-name }
 refresh-profile-button = ล้าง { -brand-short-name } ใหม่…
