@@ -7,6 +7,7 @@ refresh-profile-dialog =
 refresh-profile-dialog-button =
     .label = Remontar { -brand-short-name }
 refresh-profile-description = Remontar ab le zero pro corriger le problemas e restabilir le rendimento.
+refresh-profile-description-details = Isto:
 refresh-profile-remove = Removera tu additivos e personalisationes
 refresh-profile-restore = Restaurara le parametros de tu navigator a lor predefinitiones
 refresh-profile = Da a { -brand-short-name } un affinamento
