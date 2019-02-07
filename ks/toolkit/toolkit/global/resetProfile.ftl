@@ -11,4 +11,4 @@ refresh-profile-description-details = یہ کرِ:
 refresh-profile-remove = ہٹأیو پنْنی ایڈ۔آن تْہ کسٹامایزیشن
 refresh-profile-restore = ریسٹور کْریو پننِہ براوزر سیٹینگ تْہندین ڈیفالٹن کُن
 refresh-profile = برانڈ شاٹ ناو؛ اس دِیو اکھ ٹیون اپ
-refresh-profile-button = &برانڈ شاٹ ناو؛ کْریو ریفریش۔ ۔ ۔{ " " }
+refresh-profile-button = برانڈ شاٹ ناو؛ کْریو ریفریش۔ ۔ ۔
