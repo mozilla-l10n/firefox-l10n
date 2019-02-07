@@ -9,5 +9,6 @@ refresh-profile-dialog-button =
 refresh-profile-description = 初期状態にリフレッシュして問題解決およびパフォーマンスを改善します。
 refresh-profile-description-details = この操作は:
 refresh-profile-remove = アドオンとカスタマイズした設定を削除します
+refresh-profile-restore = ブラウザー設定を既定値に戻します
 refresh-profile = { -brand-short-name } の性能改善
 refresh-profile-button = { -brand-short-name } をリフレッシュ...
