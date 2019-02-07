@@ -44,6 +44,7 @@ certmgr-cert-detail-sha256-fingerprint =
     .value = Méarlorg SHA-256
 certmgr-cert-detail-sha1-fingerprint =
     .value = Méarlorg SHA1
+certmgr-cert-detail-sha-256-fingerprint = Méarlorg SHA-256
 certmgr-edit-ca-cert =
     .title = Cuir socruithe muiníne do theastais na nÚdarás Deimhniúcháin in eagar
     .style = width: 48em;
