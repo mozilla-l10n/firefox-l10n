@@ -11,10 +11,14 @@ findbar-previous =
     .tooltiptext = Trobar l'anterior aparición d'a frase
 findbar-find-button-close =
     .tooltiptext = Zarrar a barra de busca
-findbar-highlight-all =
+findbar-highlight-all2 =
     .label = Resaltar-lo tot
-    .accesskey = R
-    .tooltiptext = Resaltar todas as aparicions d'a frase
+    .accesskey =
+        { PLATFORM() ->
+            [macos] a
+           *[other] a
+        }
+    .tooltiptext = Resaltar totas las ocurrencias d'a frase
 findbar-case-sensitive =
     .label = Coincidir mayusclas
     .accesskey = C
