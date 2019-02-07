@@ -49,6 +49,7 @@ certmgr-cert-detail-sha256-fingerprint =
 certmgr-cert-detail-sha1-fingerprint =
     .value = SHA1 ඇඟිලි සළකුණ
 certmgr-cert-detail-commonname = පොදු නාමය (CN)
+certmgr-cert-detail-org = සංවිධානය
 certmgr-cert-detail-orgunit = සංවිධානාත්මක ඒකකය (OU)
 certmgr-cert-detail-serial-number = අනු ක්‍රමාංකය
 certmgr-cert-detail-sha-256-fingerprint = SHA-256ඇඟිලි සළකුණ
