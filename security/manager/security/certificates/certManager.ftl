@@ -82,6 +82,7 @@ certmgr-begins-label =
     .label = Începe
 certmgr-begins-value =
     .value = { certmgr-begins-label.label }
+certmgr-expires-on = Expiră la data de
 certmgr-expires-label =
     .label = Expiră
 certmgr-expires-value =
