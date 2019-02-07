@@ -29,8 +29,6 @@ a tab (i.e. it is a verb, not adjective). -->
 <!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  duplicateTab.accesskey             "D">
-<!ENTITY  closeTabOptions.label              "Lat att fane-innstillingar">
-<!ENTITY  closeTabOptions.accesskey          "a">
 <!-- LOCALIZATION NOTE (duplicateTabs.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
 <!ENTITY  duplicateTabs.label                "Dupliser faner">
@@ -288,7 +286,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Lagre data i vedvarande lagring">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Nettlesaren er under fjernstyring">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Opne webautentiseringspanelet">
-
 <!ENTITY urlbar.storageAccessAnchor.tooltip               "Opne løyvepanelet for nettlesaraktivitet">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Handter deling av kamera og/eller mikrofon på denne nettstaden">
@@ -883,6 +880,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsReloadHint "Du må kanskje laste sida på nytt for at endringane skal gjelde.">
 <!ENTITY identity.permissionsPreferences.tooltip "Opne innstillingar for løyve">
 
+
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Nettlesarfaner">
@@ -984,66 +983,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.title "Innhaldsblokkering">
 <!ENTITY contentBlocking.detected "Innhald som kan blokkerast oppdaga på denne sida.">
 <!ENTITY contentBlocking.notDetected "Inkje innhald som kan blokkerast funne på denne sida.">
-<!ENTITY contentBlocking.disabled.label "Slått av">
-<!ENTITY contentBlocking.disabled.tooltip "Du har slått av innhaldsblokkering.">
-<!ENTITY contentBlocking.exception.tooltip "Du har slått av innhaldsblokkering på denne sida.">
-
-<!ENTITY contentBlocking.fastBlock.label "Langsame sporfølgjarar">
-<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
-     This label signals that this type of content blocking is turned
-     ON and is successfully blocking malicious/slow content, so this is
-     a positive thing. It forms the end of the (imaginary) sentence
-     "Slow-Loading Trackers [are] Blocked"-->
-<!ENTITY contentBlocking.fastBlock.blocked.label "Blokkert">
-<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocking.label):
-     This label signals that this type of content blocking is turned
-     ON, so this is a positive thing. It forms the verb in (imaginary) sentence
-     "Firefox is blocking Slow-Loading Trackers"-->
-<!ENTITY contentBlocking.fastBlock.blocking.label "Blokkerer">
-<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
-     This is displayed as a link to preferences, where the user can add
-     this specific type of content blocking. When this text is shown
-     the type of content blocking is currently not enabled. -->
-<!ENTITY contentBlocking.fastBlock.add.label "Legg til blokkering…">
-
-<!ENTITY contentBlocking.trackingProtection2.label "Alle oppdaga sporfølgjarar">
 
 <!ENTITY contentBlocking.trackingProtection3.label "Sporfølgjarar">
-<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
-     This label signals that this type of content blocking is turned
-     ON and is successfully blocking tracker content, so this is
-     a positive thing. It forms the end of the (imaginary) sentence
-     "Trackers [are] Blocked"-->
-<!ENTITY contentBlocking.trackingProtection.blocked.label "Blokkert">
-<!-- LOCALIZATION NOTE (contentBlocking.tranckingProtection.blocking.label):
-     This label signals that this type of content blocking is turned
-     ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
-     "Firefox is blocking Trackers"-->
-<!ENTITY contentBlocking.trackingProtection.blocking.label "Blokkerer">
-<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
-     This is displayed as a link to preferences, where the user can add
-     this specific type of content blocking. When this text is shown
-     the type of content blocking is currently not enabled. -->
-<!ENTITY contentBlocking.trackingProtection.add.label "Legg til blokkering…">
-
-<!ENTITY contentBlocking.3rdPartyCookies.label "Tredjeparts-infokapslar">
-<!ENTITY contentBlocking.3rdPartyCookies.trackers.label "Sporfølgjarinfokapslar">
-<!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.blocked.label):
-     This label signals that this type of content blocking is turned
-     ON and is successfully blocking third-party cookies, so this is
-     a positive thing. It forms the end of the (imaginary) sentence
-     "Third-Party Cookies [are] Blocked"-->
-<!ENTITY contentBlocking.3rdPartyCookies.blocked.label "Blokkerte">
-<!-- LOCALIZATION NOTE (contentBlocking.tranckingProtection.blocking.label):
-     This label signals that this type of content blocking is turned
-     ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
-     "Firefox is blocking Third-Party Cookies"-->
-<!ENTITY contentBlocking.3rdPartyCookies.blocking.label "Blokkerer">
-<!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.add.label):
-     This is displayed as a link to preferences, where the user can add
-     this specific type of content blocking. When this text is shown
-     the type of content blocking is currently not enabled. -->
-<!ENTITY contentBlocking.3rdPartyCookies.add.label "Legg til blokkering…">
 
 <!ENTITY contentBlocking.manageSettings.label "Handter innhaldsblokkering">
 <!ENTITY contentBlocking.manageSettings.accesskey "H">
@@ -1063,22 +1004,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Send rapport">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Avbryt">
 
-<!ENTITY trackingProtection.title "Sporingsvern">
-<!ENTITY trackingProtection.tooltip "Opne innstillingar for sporingsvern">
-
-<!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock4.label "Slå av blokkering for denne nettsida">
-<!ENTITY trackingProtection.unblock4.accesskey "b">
-<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate4.label "Slå av blokkering mellombels">
-<!ENTITY trackingProtection.unblockPrivate4.accesskey "m">
-<!ENTITY trackingProtection.block5.label "Slå på blokkering for denne nettsida">
-<!ENTITY trackingProtection.block5.accesskey "a">
-
 <!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
@@ -1096,11 +1021,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pluginNotification.showAll.label "Vis alle">
 <!ENTITY pluginNotification.showAll.accesskey "V">
-
-<!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
-<!ENTITY pluginActivateNow.label "Tillat no">
-<!ENTITY pluginActivateAlways.label "Tillat og hugs">
-<!ENTITY pluginBlockNow.label "Blokker programtillegget">
 
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
      width of the plugin popup notification that can appear if a plugin has been
@@ -1206,3 +1126,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Administrer tillegga dine ved å klikke på <image class='addon-addon-icon'/> i menyen <image class='addon-toolbar-icon'/>.">
+
+<!ENTITY addonPrivateBrowsing.okButton.label "Ok, eg forstår">
+<!ENTITY addonPrivateBrowsing.manageButton.label "Handter tillegg">
+<!ENTITY addonPrivateBrowsing.manageButton.accesskey "H">
