@@ -44,7 +44,7 @@ profiles-delete-profile-title = Excluir perfil
 profiles-delete-profile-confirm =
     A exclusão de um perfil removerá o perfil na lista de perfis disponíveis e não poderá ser desfeito.
     Você também pode optar por excluir os arquivos de dados do perfil, incluindo suas configurações, certificados e outros dados relacionados ao usuário. Esta opção excluirá a pasta “{ $dir }” e não poderá ser desfeita.
-    Você gostaria de excluir os arquivos de dados do perfil?
+    Quer excluir os arquivos de dados do perfil?
 profiles-delete-files = Excluir arquivos
 profiles-dont-delete-files = Não excluir arquivos
 profiles-delete-profile-failed-title = Erro
