@@ -33,6 +33,7 @@ certmgr-period-of-validity-label =
 certmgr-fingerprints-label =
     .value = Idsilen umḍinen
 certmgr-subject-label = Ittusgel i:
+certmgr-issuer-label = Yessuffeɣ-it-id:
 certmgr-period-of-validity = Tawala n tneɣbalt
 certmgr-fingerprints = Idsilen umḍinen
 certmgr-cert-detail =
