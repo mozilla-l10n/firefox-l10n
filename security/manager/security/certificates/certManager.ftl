@@ -52,6 +52,7 @@ certmgr-cert-detail-sha256-fingerprint =
 certmgr-cert-detail-sha1-fingerprint =
     .value = SHA1 ठसा
 certmgr-cert-detail-commonname = सर्वसाधारण नाव (CN)
+certmgr-cert-detail-org = संघटना
 certmgr-cert-detail-orgunit = संघटनात्मक घटक (OU)
 certmgr-cert-detail-serial-number = क्रमांक
 certmgr-cert-detail-sha-1-fingerprint = SHA1 ठसा
