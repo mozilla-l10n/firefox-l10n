@@ -6,6 +6,9 @@ blocklist-window =
     .title = Blokeringslister
     .style = width: 55em
 blocklist-desc = Du kan vælge hvilken liste { -brand-short-name } skal bruge til at blokere net-elementer, der kan spore din browsing-aktivitet.
+
+blocklist-description = Vælg hvilken liste, { -brand-short-name } skal bruge til at blokere sporings-teknologier på nettet. Listerne leveres af <a data-l10n-name="disconnect-link" title="Disconnect">Disconnect</a>.
+
 blocklist-close-key =
     .key = w
 blocklist-treehead-list =
@@ -28,3 +31,8 @@ blocklist-item-moz-std-name = Disconnect.me grundlæggende beskyttelse (anbefale
 blocklist-item-moz-std-desc = Tillader nogle sporings-elementer, så websteder fungerer som de skal.
 blocklist-item-moz-full-name = Disconnect.me striks beskyttelse.
 blocklist-item-moz-full-desc = Blokerer kendte sporings-elementer. Nogle websteder fungerer måske ikke som de skal.
+
+blocklist-item-moz-std-listName = Blokeringsliste niveau 1 (anbefalet).
+blocklist-item-moz-std-description = Tillader nogle sporings-elementer, så  de fleste websteder fungerer som de skal.
+blocklist-item-moz-full-listName = Blokeringsliste niveau 2.
+blocklist-item-moz-full-description = Blokerer alle kendte sporings-elementer. Dette kan i nogle tilfælde forhindre indlæsning af websteder eller indhold.

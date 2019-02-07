@@ -950,8 +950,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissions "Tilladelser">
 <!ENTITY identity.permissionsEmpty "Du har ikke tildelt dette websted nogen særlige tilladelser.">
 <!ENTITY identity.permissionsReloadHint "Du skal muligvis genindlæse siden, før at ændringerne slår igennem.">
-
 <!ENTITY identity.permissionsPreferences.tooltip "Åbn indstillinger for tilladelser">
+
+<!ENTITY identity.contentBlockingPreferences.tooltip "Åbn indstillinger for blokering af indhold">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -1330,3 +1331,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Håndter dine tilføejlser ved at klikke på <image class='addon-addon-icon'/> i <image class='addon-toolbar-icon'/>-menuen.">
+
+<!ENTITY addonPrivateBrowsing.header.label "Udvidelser i private vinduer">
+<!ENTITY addonPrivateBrowsing.body.label "Udvidelser har som standard ikke tilladelse til at køre i private vinduer. Det vil sige, at de simpelthen ikke fungerer i private vinduer og derfor heller ikke har adgang til din online adfærd. Gå til indstillinger for at tillade udvidelser at køre i private vinduer.">
+<!ENTITY addonPrivateBrowsing.okButton.label "Ok, forstået">
+<!ENTITY addonPrivateBrowsing.okButton.accesskey "O">
+<!ENTITY addonPrivateBrowsing.manageButton.label "Håndter udvidelser">
+<!ENTITY addonPrivateBrowsing.manageButton.accesskey "H">

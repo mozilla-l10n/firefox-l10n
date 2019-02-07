@@ -293,6 +293,9 @@ update-application-check-choose =
 update-application-manual =
     .label = aldrig søge efter opdateringer (frarådes)
     .accesskey = N
+
+update-application-warning-cross-user-setting = Denne indstilling vil gælde alle Windows-konti og { -brand-short-name }-profiler, der anvender denne { -brand-short-name }-installation.
+
 update-application-use-service =
     .label = bruge en baggrundsservice til at installere opdateringer
     .accesskey = b
@@ -625,6 +628,8 @@ sitedata-delete-on-close =
     .label = Slet cookies og websteds-data, når { -brand-short-name } lukkes
     .accesskey = l
 
+sitedata-delete-on-close-private-browsing = I permanent privat browsing-tilstand bliver cookies og webstedsdata altid slettet, når { -brand-short-name } afsluttes.
+
 sitedata-keep-until-closed =
     .label = Jeg lukker { -brand-short-name }
 sitedata-allow-cookies-option =
@@ -843,8 +848,13 @@ permissions-notification-pause =
     .accesskey = b
 permissions-block-autoplay-media =
     .label = Lad ikke websteder starte automatisk afspilning af mediefiler med lyd
-    .accesskey = l
+    .accesskey = m
 permissions-block-autoplay-media-menu = For websteder, der automatisk afspiller lyd
+
+permissions-block-autoplay-media2 =
+    .label = Lad ikke websteder starte automatisk afspilning af lyd
+    .accesskey = l
+
 permissions-block-autoplay-media-exceptions =
     .label = Undtagelser…
     .accesskey = U

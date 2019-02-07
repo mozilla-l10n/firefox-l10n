@@ -23,6 +23,8 @@ policy-BlockAboutSupport = Bloker adgang til about:support.
 
 policy-Bookmarks = Opret bogmærker i Bogmærkelinjen, i menuen Bogmærker eller en nærmere angivet mappe i dem.
 
+policy-CaptivePortal = Slå understøttelse af captive portal til eller fra.
+
 policy-Certificates = Om indbyggede certifikater skal anvendes eller ikke. Denne politik gælder kun for Windows på nuværende tidspunkt.
 
 policy-CertificatesDescription = Tilføj certifikater eller brug indbyggede certifikater.
@@ -120,6 +122,10 @@ policy-SearchEngines = Opsæt indstillinger for søgetjenester. Denne politik er
 
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Installer PKCS #11 moduler.
+
+policy-SSLVersionMax = Angiv den laveste SSL-version.
+
+policy-SSLVersionMin = Angiv den højeste SSL-version.
 
 # “format” refers to the format used for the value of this policy. See also:
 # https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
