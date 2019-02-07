@@ -48,6 +48,7 @@ certmgr-cert-detail-sha256-fingerprint =
     .value = Inpronta digitale SHA-256
 certmgr-cert-detail-sha1-fingerprint =
     .value = Inpronte de die SHA1
+certmgr-cert-detail-orgunit = Unitæ de Organizaçion (OU)
 certmgr-edit-ca-cert =
     .title = Cangia e inpostaçioin de fiduccia do certificato CA
     .style = width: 48em;
