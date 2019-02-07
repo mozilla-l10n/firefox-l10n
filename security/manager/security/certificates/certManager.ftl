@@ -14,6 +14,9 @@ certmgr-issuer-info-label =
     .value = Yo Bviswa Nga
 certmgr-fingerprints-label =
     .value = Khanḓiso dza minwe
+certmgr-subject-label = I Bviselwa
+certmgr-issuer-label = Yo Bviswa Nga
+certmgr-fingerprints = Khanḓiso dza minwe
 certmgr-cert-detail =
     .title = Zwidodombedzwa zwa Ṱhanziela
     .buttonlabelaccept = Close
@@ -28,6 +31,11 @@ certmgr-cert-detail-serialnumber =
     .value = Nomboro ya nga u londa
 certmgr-cert-detail-sha1-fingerprint =
     .value = Khanḓiso dza minwe dza SHA1
+certmgr-cert-detail-commonname = Dzina ḽo Ḓoweleaho (CN)
+certmgr-cert-detail-org = Dzangano (O)
+certmgr-cert-detail-orgunit = Tshipiḓa tsha Dzangano (OU)
+certmgr-cert-detail-serial-number = Nomboro ya nga u londa
+certmgr-cert-detail-sha-1-fingerprint = Khanḓiso dza minwe dza SHA1
 certmgr-edit-ca-cert =
     .title = Lulamisani nzudzanyo ya ṱhanziela dza fulufhelo kha CA
     .style = width: 48em;
@@ -45,6 +53,7 @@ certmgr-token-name =
     .label = Tshishumswa tsha Tsireledzo
 certmgr-begins-value =
     .value = { certmgr-begins-label.label }
+certmgr-expires-on = I Khou Fhelelwa Nga
 certmgr-expires-label =
     .label = I Khou Fhelelwa Nga
 certmgr-expires-value =
@@ -121,4 +130,7 @@ cert-not-verified-ca-invalid = A yo ngo kona u khwaṱhisedza hei thanziela ngau
 cert-not-verified-unknown = A yo ngo kona u khwaṱthisedza hei ṱhanziela nga ndivho dzi sa divheiho.
 
 ## Add Security Exception dialog
+
+
+## Certificate export "Save as" and error dialogs
 
