@@ -67,17 +67,18 @@
  -->
 <!ENTITY updateApp.version.pre           "Έκδοση ">
 <!ENTITY updateApp.version.post          "">
+<!ENTITY updateAppAllow.description      "Να επιτρέπεται στο &brandShortName;">
 <!ENTITY updateAuto.label                "Αυτόματη εγκατάσταση ενημερώσεων (προτείνεται: αυξημένη ασφάλεια)">
 <!ENTITY updateAuto.accesskey            "Α">
 <!ENTITY updateCheck.label               "Να γίνεται έλεγχος για ενημερώσεις, αλλά να επιλέγω αν θα γίνει εγκατάστασή τους">
 <!ENTITY updateCheck.accesskey           "ε">
-<!ENTITY updateManual.label              "Να μη γίνεται ποτέ έλεγχος για ενημερώσεις (δεν προτείνεται: κίνδυνος ασφαλείας)">
-<!ENTITY updateManual.accesskey          "π">
 <!ENTITY updateHistory.label             "Εμφάνιση ιστορικού ενημερώσεων">
 <!ENTITY updateHistory.accesskey         "ι">
 
 <!ENTITY useService.label                "Χρήση μιας υπηρεσίας παρασκηνίου για την εγκατάσταση ενημερώσεων">
 <!ENTITY useService.accesskey            "υ">
+
+<!ENTITY updateCrossUserSettingWarning.description "Αυτή η ρύθμιση θα εφαρμοστεί σε όλους τους λογαριασμούς των Windows και τα προφίλ του &brandShortName; με αυτή την εγκατάσταση του &brandShortName;.">
 
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Ρυθμίσεις…">
