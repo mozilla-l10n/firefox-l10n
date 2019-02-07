@@ -48,6 +48,7 @@ certmgr-cert-detail-sha256-fingerprint =
     .value = Assinatura SHA-256
 certmgr-cert-detail-sha1-fingerprint =
     .value = Assinatura SHA1
+certmgr-cert-detail-sha-256-fingerprint = Assinatura SHA-256
 certmgr-edit-ca-cert =
     .title = Editar definições de confiança do certificado CA
     .style = width: 48em;
