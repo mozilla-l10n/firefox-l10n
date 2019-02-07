@@ -41,6 +41,9 @@
 <!ENTITY contentBlocking.description                     "Nogle websteder benytter teknologi, der kan overvåge din aktivitet på internettet. I private vinduer blokerer Firefox automatisk mange af de sporings-tjenester, der kan indsamle information om din aktivitet på nettet.">
 
 <!-- Strings for new Private Browsing with Search -->
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.search.placeholder): This is the placeholder
+                       text for the search box.   -->
+<!ENTITY aboutPrivateBrowsing.search.placeholder         "Søg på nettet">
 <!ENTITY aboutPrivateBrowsing.info.title                 "Du befinder dig i et privat vindue">
 <!ENTITY aboutPrivateBrowsing.info.description           "&brandShortName; rydder din søge- og browsing-historik, når du afslutter programmet eller når du lukker alle private faneblade og vinduer. Dette gør det nemmere at holde din gøren og laden på nettet for dig selv, hvis andre bruger den samme computer. Websteder og din internetudbyder kan dog stadig finde ud af, hvad du foretager dig.">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article
