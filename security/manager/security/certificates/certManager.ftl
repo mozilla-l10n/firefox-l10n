@@ -30,6 +30,7 @@ certmgr-fingerprints-label =
     .value = ඇඟිලි සළකුණු
 certmgr-subject-label = ලබන්නා
 certmgr-issuer-label = නිකුත් කරන්නා
+certmgr-fingerprints = ඇඟිලි සළකුණු
 certmgr-cert-detail =
     .title = සහතිකයේ තොරතුරු
     .buttonlabelaccept = වසන්න
