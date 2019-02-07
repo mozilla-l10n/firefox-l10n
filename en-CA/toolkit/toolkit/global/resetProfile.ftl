@@ -8,6 +8,7 @@ refresh-profile-dialog-button =
     .label = Refresh { -brand-short-name }
 refresh-profile-description = Start fresh to fix problems and restore performance.
 refresh-profile-description-details = This will:
+refresh-profile-remove = Remove your add-ons and customizations
 refresh-profile-restore = Restore your browser settings to their defaults
 refresh-profile = Give { -brand-short-name } a tune up
 refresh-profile-button = Refresh { -brand-short-name }…
