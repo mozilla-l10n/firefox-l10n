@@ -12,6 +12,7 @@ certmgr-detail-pretty-print-tab-title =
     .accesskey = D
 certmgr-cert-detail-o =
     .value = Mbootaay
+certmgr-cert-detail-org = Mbootaay
 certmgr-delete-cert =
     .title = Màbb benn sarsifikaa
     .style = width: 48em; height: 24em;
@@ -85,3 +86,6 @@ verify-email-recip =
 
 add-exception-valid-short = Sarsifika bu dëggu
 add-exception-checking-short = Settantal xibaar yi
+
+## Certificate export "Save as" and error dialogs
+
