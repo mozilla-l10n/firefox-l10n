@@ -71,6 +71,7 @@ certmgr-begins-label =
     .label = ਸ਼ੁਰੂ ਹੁੰਦਾ ਹੈ
 certmgr-begins-value =
     .value = { certmgr-begins-label.label }
+certmgr-expires-on = ਮਿਆਦ
 certmgr-expires-label =
     .label = ਮਿਆਦ
 certmgr-expires-value =
