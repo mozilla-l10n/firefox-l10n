@@ -14,6 +14,9 @@ certmgr-issuer-info-label =
     .value = Xi nyikiwile hi
 certmgr-fingerprints-label =
     .value = Nkandziyiso wa tintiho
+certmgr-subject-label = Xi nyikiwile
+certmgr-issuer-label = Xi nyikiwile hi
+certmgr-fingerprints = Nkandziyiso wa tintiho
 certmgr-cert-detail =
     .title = Vuxokoxoko bya xitifiketi
     .buttonlabelaccept = Close
@@ -28,6 +31,11 @@ certmgr-cert-detail-serialnumber =
     .value = Nomboro ya siriyele
 certmgr-cert-detail-sha1-fingerprint =
     .value = Nkandziyiso wa tintiho wa SHA1
+certmgr-cert-detail-commonname = Vito ra ntolovelo (CN)
+certmgr-cert-detail-org = Nhlangano (O)
+certmgr-cert-detail-orgunit = Yuniti ya Nhlangano (OU)
+certmgr-cert-detail-serial-number = Nomboro ya siriyele
+certmgr-cert-detail-sha-1-fingerprint = Nkandziyiso wa tintiho wa SHA1
 certmgr-edit-ca-cert =
     .title = Hlela malulamisele ya xitifiketi xa CA
     .style = width: 48em;
@@ -45,6 +53,7 @@ certmgr-token-name =
     .label = Xitirhisiwa xa vuhlayiseke
 certmgr-begins-value =
     .value = { certmgr-begins-label.label }
+certmgr-expires-on = Xi hela rini
 certmgr-expires-label =
     .label = Xi hela rini
 certmgr-expires-value =
@@ -121,4 +130,7 @@ cert-not-verified-ca-invalid = A swi kotekangi ku tiyisisa xitifiketi lexi hikuv
 cert-not-verified-unknown = A swi kotekangi ku tiyisisa xitifiketi lexi hikwalaho ka swivangelo swo ka swi nga tiveki.
 
 ## Add Security Exception dialog
+
+
+## Certificate export "Save as" and error dialogs
 
