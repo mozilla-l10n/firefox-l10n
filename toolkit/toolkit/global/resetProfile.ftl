@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+refresh-profile-dialog =
+    .title = Obnovenie prehliadača { -brand-short-name }
 refresh-profile-dialog-button =
     .label = Obnoviť { -brand-short-name }
 refresh-profile-description = Začatím odznova opravíte problémy a obnovíte výkonnosť prehliadača.
