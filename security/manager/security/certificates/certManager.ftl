@@ -52,6 +52,7 @@ certmgr-cert-detail-commonname = सामान्य नाम (CN)
 certmgr-cert-detail-org = संगठन (O)
 certmgr-cert-detail-orgunit = सांगठनिक एकाइ (OU)
 certmgr-cert-detail-serial-number = क्रम संख्या
+certmgr-cert-detail-sha-256-fingerprint = SHA-256 फिंगरप्रिंट
 certmgr-cert-detail-sha-1-fingerprint = SHA1 फिंगरप्रिंट
 certmgr-edit-ca-cert =
     .title = CA प्रमाणपत्र ट्रस्ट जमावट केँ संपादित  करू
