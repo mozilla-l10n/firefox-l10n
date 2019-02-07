@@ -48,6 +48,7 @@ certmgr-cert-detail-sha256-fingerprint =
     .value = SHA-256 fingrafar
 certmgr-cert-detail-sha1-fingerprint =
     .value = SHA1 fingrafar
+certmgr-cert-detail-sha-256-fingerprint = SHA-256 fingrafar
 certmgr-edit-ca-cert =
     .title = Breyta stillingum CA skilríkja trausts
     .style = width: 48em;
