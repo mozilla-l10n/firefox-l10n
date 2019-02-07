@@ -32,6 +32,7 @@ certmgr-period-of-validity-label =
     .value = תקופת תוקף
 certmgr-fingerprints-label =
     .value = טביעות אצבע
+certmgr-subject-label = הונפק עבור
 certmgr-issuer-label = הונפק על־ידי
 certmgr-period-of-validity = תקופת תוקף
 certmgr-fingerprints = טביעות אצבע
