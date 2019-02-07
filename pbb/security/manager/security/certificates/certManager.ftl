@@ -4,6 +4,8 @@
 
 certmgr-issuer-info-label =
     .value = Txãa's kaahna
+certmgr-issuer-label = Txãa's kaahna
+certmgr-begins-on = Txãa pu'txhin
 certmgr-begins-label =
     .label = Txãa pu'txhin
 certmgr-begins-value =
@@ -30,4 +32,7 @@ delete-email-cert-title =
 
 
 ## Add Security Exception dialog
+
+
+## Certificate export "Save as" and error dialogs
 
