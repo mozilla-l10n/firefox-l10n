@@ -6,7 +6,7 @@
 %brandDTD;
 
 <!ENTITY loadError.label "Falha no carregamento da página">
-<!ENTITY retry.label "Tentar de novo">
+<!ENTITY retry.label "Tentar novamente">
 
 <!-- Specific error messages -->
 
@@ -55,11 +55,11 @@ que o &brandShortName; esteja autorizado a acessar a web.</li>
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Documento fora de validade">
-<!ENTITY notCached.longDesc "<p>O documento solicitado não está mais no cache de navegação.</p><ul><li>Como precaução de segurança, o &brandShortName; não solicita automaticamente documentos contendo informações confidenciais.</li><li>Clique em “Tentar de novo” para solicitar mais uma vez o documento do site.</li></ul>">
+<!ENTITY notCached.longDesc "<p>O documento solicitado não está mais no cache de navegação.</p><ul><li>Como precaução de segurança, o &brandShortName; não solicita de novo automaticamente documentos contendo informações confidenciais.</li><li>Clique em “Tentar novamente” para solicitar mais uma vez o documento do site.</li></ul>">
 
 <!ENTITY netOffline.title "Modo off-line">
 <!ENTITY netOffline.longDesc2 "<ul> 
-<li>Pressione “Tentar de novo” para sair do modo off-line e recarregar a página.</li> 
+  <li>Pressione &quot;Tentar novamente&quot; para mudar para modo online e recarregar a página.</li>
 </ul>">
 
 <!ENTITY contentEncodingError.title "Erro na codificação do conteúdo">
