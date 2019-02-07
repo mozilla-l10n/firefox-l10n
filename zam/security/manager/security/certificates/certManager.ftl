@@ -13,10 +13,13 @@ certmgr-detail-general-tab-title =
     .accesskey = X
 certmgr-fingerprints-label =
     .value = Fingerprints
+certmgr-fingerprints = Fingerprints
 certmgr-cert-detail-sha256-fingerprint =
     .value = SHA-256 Fingerprint
 certmgr-cert-detail-sha1-fingerprint =
     .value = SHA1 Fingerprint
+certmgr-cert-detail-sha-256-fingerprint = SHA-256 Fingerprint
+certmgr-cert-detail-sha-1-fingerprint = SHA1 Fingerprint
 certmgr-cert-server =
     .label = Server
 certmgr-begins-value =
@@ -58,4 +61,7 @@ not-present =
     .value = <Not Part Of Certificate>
 
 ## Add Security Exception dialog
+
+
+## Certificate export "Save as" and error dialogs
 
