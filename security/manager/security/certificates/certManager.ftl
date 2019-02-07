@@ -48,6 +48,7 @@ certmgr-cert-detail-sha256-fingerprint =
     .value = Отпечаток SHA-256
 certmgr-cert-detail-sha1-fingerprint =
     .value = Отпечаток SHA1
+certmgr-cert-detail-sha-256-fingerprint = Отпечаток SHA-256
 certmgr-edit-ca-cert =
     .title = Изменение степени доверия сертификату CA
     .style = width: 48em;
