@@ -50,6 +50,7 @@ certmgr-cert-detail-sha1-fingerprint =
 certmgr-cert-detail-commonname = کامن نیم (CN)
 certmgr-cert-detail-org = تنظیم (O)
 certmgr-cert-detail-orgunit = تنظیمی یونٹ (OU)
+certmgr-cert-detail-serial-number = تسلسلی نمبر
 certmgr-cert-detail-sha-1-fingerprint = SHA1 انگلیوں کے نشان
 certmgr-edit-ca-cert =
     .title = CA تصدیق نامہ بھروسا ترتیبات تدوین کریں
