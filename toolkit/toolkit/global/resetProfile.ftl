@@ -6,6 +6,7 @@ refresh-profile-dialog =
     .title = Restaurar o { -brand-short-name }
 refresh-profile-dialog-button =
     .label = Restaurar o { -brand-short-name }
+refresh-profile-description = Comece de novo para resolver problemas e restaurar o desempenho.
 refresh-profile-description-details = Isto vai:
 refresh-profile-remove = Remover os seus extras e personalizações
 refresh-profile-restore = Restaurar as definições do seu navegador para as suas predefinições
