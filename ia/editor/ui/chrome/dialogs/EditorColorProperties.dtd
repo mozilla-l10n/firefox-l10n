@@ -17,3 +17,9 @@
 <!ENTITY activeLinkText.label "Texto del ligamine active">
 <!ENTITY activeLinkText.accessKey "A">
 <!ENTITY visitedLinkText.label "Texto del ligamine visitate">
+<!ENTITY visitedLinkText.accessKey "V">
+<!ENTITY background.label "Fundo:">
+<!ENTITY background.accessKey "F">
+<!ENTITY colon.character ":">
+<!ENTITY backgroundImage.label "Imagine de fundo:">
+<!ENTITY backgroundImage.accessKey "m">
