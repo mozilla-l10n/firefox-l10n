@@ -33,6 +33,7 @@ certmgr-period-of-validity-label =
 certmgr-fingerprints-label =
     .value = Відбитки
 certmgr-subject-label = Кому видано
+certmgr-issuer-label = Видавець
 certmgr-period-of-validity = Термін дії
 certmgr-fingerprints = Відбитки
 certmgr-cert-detail =
