@@ -48,6 +48,7 @@ certmgr-cert-detail-sha256-fingerprint =
     .value = Empreinte numérique SHA-256
 certmgr-cert-detail-sha1-fingerprint =
     .value = Empreinte numérique SHA1
+certmgr-cert-detail-sha-256-fingerprint = Empreinte numérique SHA-256
 certmgr-edit-ca-cert =
     .title = Édition des paramètres de confiance de l’autorité de certification (CA)
     .style = width: 48em;
