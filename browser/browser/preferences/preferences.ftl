@@ -679,6 +679,7 @@ content-blocking-all-windows-trackers = Znate pśeslědowaki we wšych woknach
 content-blocking-all-third-party-cookies = Wšykne cookieje tśeśich
 content-blocking-warning-title = Glědajśo!
 content-blocking-warning-desc = Gaž cookieje a pśeslědowaki blokěrujośo, njemógli někotare websedła korektnje funkcioněrowaś. Jo lažko, blokěrowanje sedłow, kótarymž dowěriśo, znjemóžniś.
+content-blocking-warning-description = Blokěrowanje wopśimjeśa móžo zawinowaś, až někotare websedła wěcej njefunkcioněruju. Jo lažko, blokěrowanje za sedła znjemóžniś, kótarymž dowěriśo.
 content-blocking-learn-how = Zgóńśo kak
 content-blocking-trackers-label =
     .label = Pśeslědowaki
@@ -693,6 +694,15 @@ content-blocking-tracking-protection-change-block-list = Blokěrowańsku lisćin
 content-blocking-cookies-label =
     .label = Cookieje
     .accesskey = C
+# Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
+content-blocking-cryptominers-label =
+    .label = Kryptokoparje
+    .accesskey = y
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+content-blocking-fingerprinters-label =
+    .label = Palcowótśišćarje
+    .accesskey = P
 
 ## Privacy Section - Tracking
 
