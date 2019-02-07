@@ -67,17 +67,18 @@
  -->
 <!ENTITY updateApp.version.pre           "Lqem ">
 <!ENTITY updateApp.version.post          "">
+<!ENTITY updateAppAllow.description      "Eǧǧ &brandShortName; ">
 <!ENTITY updateAuto.label                "Sebded s wudem awurman ileqman (yelha i tɣellist-inek)">
 <!ENTITY updateAuto.accesskey            "A">
 <!ENTITY updateCheck.label               "Senqed ma llan ileqman, acu kan eǧǧi-yi a t-nesbeddeɣ">
 <!ENTITY updateCheck.accesskey           "n">
-<!ENTITY updateManual.label              "Weṛǧin ad tesneqdeḍ ileqman (ur ilhi ara: ugur n tɣellist)">
-<!ENTITY updateManual.accesskey          "W">
 <!ENTITY updateHistory.label             "Sken amazray n ileqman">
 <!ENTITY updateHistory.accesskey         "S">
 
 <!ENTITY useService.label                "Seqdec tanfa n ugilal i wesebded n ileqman">
 <!ENTITY useService.accesskey            "b">
+
+<!ENTITY updateCrossUserSettingWarning.description "Aɣewwaṛ-a ad yeddu meṛṛa deg yimiḍanen Windows akked imeɣna yesseqdacen asebded-a n &brandShortName;.">
 
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Iɣewwaṛen…">
