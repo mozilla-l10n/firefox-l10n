@@ -55,6 +55,7 @@ policy-HardwareAcceleration = If false, turn off hardware acceleration.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Set and optionally lock the homepage.
 policy-InstallAddonsPermission = Allow certain websites to install add-ons.
+policy-NetworkPrediction = Enable or disable network prediction (DNS prefetching).
 policy-NoDefaultBookmarks = Disable creation of the default bookmarks bundled with { -brand-short-name }, and the Smart Bookmarks (Most Visited, Recent Tags). Note: this policy is only effective if used before the first run of the profile.
 policy-OfferToSaveLogins = Enforce the setting to allow { -brand-short-name } to offer to remember saved logins and passwords. Both true and false values are accepted.
 policy-OverrideFirstRunPage = Override the first run page. Set this policy to blank if you want to disable the first run page.
