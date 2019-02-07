@@ -679,6 +679,7 @@ content-blocking-all-windows-trackers = Znate přesćěhowaki we wšěch woknach
 content-blocking-all-third-party-cookies = Wšě placki třećich
 content-blocking-warning-title = Kedźbu!
 content-blocking-warning-desc = Hdyž placki a přesćěhowaki blokujeće, njemóhli někotre websydła korektnje fungować. Je lochko, blokowanje sydłow, kotrymž dowěrjeće, znjemóžnić.
+content-blocking-warning-description = Blokowanje wobsaha móže zawinować, zo někotre websydła hinžo njefunguja. Je lochko, blokowanje za sydła znjemóžnić, kotrymž dowěrjeće.
 content-blocking-learn-how = Zhońće kak
 content-blocking-trackers-label =
     .label = Přesćěhowaki
