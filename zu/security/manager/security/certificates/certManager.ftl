@@ -14,6 +14,9 @@ certmgr-issuer-info-label =
     .value = Sikhishwe Ngu-
 certmgr-fingerprints-label =
     .value = Izigxivizo zeminwe
+certmgr-subject-label = Sikhishelwe U-
+certmgr-issuer-label = Sikhishwe Ngu-
+certmgr-fingerprints = Izigxivizo zeminwe
 certmgr-cert-detail =
     .title = Imininingwane Yesitifiketi
     .buttonlabelaccept = Vala
@@ -28,6 +31,10 @@ certmgr-cert-detail-serialnumber =
     .value = Inombolo Yaso
 certmgr-cert-detail-sha1-fingerprint =
     .value = Isigxivizo somunwe SHA1
+certmgr-cert-detail-commonname = Igama Elivamile (CN)
+certmgr-cert-detail-org = Inhlangano (O)
+certmgr-cert-detail-orgunit = Ingxenye Yenhlangano (OU)
+certmgr-cert-detail-serial-number = Inombolo Yaso
 certmgr-edit-ca-cert =
     .title = Lungisa ukuhlelwa kokwethembeka kwesitifiketi se-CA
     .style = width: 48em;
@@ -45,6 +52,7 @@ certmgr-token-name =
     .label = Ithuluzi Lokulondeka
 certmgr-begins-value =
     .value = { certmgr-begins-label.label }
+certmgr-expires-on = Siphelelwa Yisikhathi Mhlaka
 certmgr-expires-label =
     .label = Siphelelwa Yisikhathi Mhlaka
 certmgr-expires-value =
@@ -121,4 +129,7 @@ cert-not-verified-ca-invalid = Ngeke isiqinisekise lesi sitifiketi ngoba isitifi
 cert-not-verified-unknown = Ngeke isiqinisekise lesi sitifiketi ngenxa yezizathu ezingaziwa.
 
 ## Add Security Exception dialog
+
+
+## Certificate export "Save as" and error dialogs
 
