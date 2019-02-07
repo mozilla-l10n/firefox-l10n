@@ -17,6 +17,12 @@ about-config-pref-save = 儲存
 about-config-pref-reset = 重設
 about-config-pref-delete = 刪除
 
+## Labels for the type selection radio buttons shown when adding preferences.
+
+about-config-pref-add-type-boolean = 布林（Boolean）值
+about-config-pref-add-type-number = 數值
+about-config-pref-add-type-string = 字串
+
 ## Preferences with a non-default value are differentiated visually, and at the
 ## same time the state is made accessible to screen readers using an aria-label
 ## that won't be visible or copied to the clipboard.
