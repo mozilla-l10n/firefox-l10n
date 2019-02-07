@@ -77,6 +77,7 @@ certmgr-override-lifetime =
     .label = Xidmət müddəti
 certmgr-token-name =
     .label = Təhlükəsizlik cihazları
+certmgr-begins-on = Başlayır
 certmgr-begins-label =
     .label = Başlayır
 certmgr-begins-value =
