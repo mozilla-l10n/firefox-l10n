@@ -52,6 +52,7 @@ certmgr-cert-detail-sha256-fingerprint =
     .value = SHA-256 hatzmarka
 certmgr-cert-detail-sha1-fingerprint =
     .value = SHA1 hatzmarka
+certmgr-cert-detail-commonname = Izen Arrunta (IA)
 certmgr-cert-detail-org = Erakundea (E)
 certmgr-cert-detail-orgunit = Erakunde saila (ES)
 certmgr-cert-detail-serial-number = Serie-zenbakia:
