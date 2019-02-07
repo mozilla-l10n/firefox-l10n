@@ -673,6 +673,7 @@ content-blocking-all-windows-trackers = Rastreadores conhecidos, em todas as jan
 content-blocking-all-third-party-cookies = Todos os cookies de terceiros
 content-blocking-warning-title = Atenção!
 content-blocking-warning-desc = Bloquear cookies e rastreadores pode atrapalhar alguns sites. É fácil desativar o bloqueio em sites que você confia.
+content-blocking-warning-description = O bloqueio de conteúdo pode fazer alguns sites não funcionarem direito. É fácil desativar o bloqueio em sites que você confia.
 content-blocking-learn-how = Saiba como
 content-blocking-trackers-label =
     .label = Rastreadores
@@ -687,6 +688,15 @@ content-blocking-tracking-protection-change-block-list = Alterar lista de bloque
 content-blocking-cookies-label =
     .label = Cookies
     .accesskey = C
+# Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
+content-blocking-cryptominers-label =
+    .label = Cryptomineradores
+    .accesskey = y
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+content-blocking-fingerprinters-label =
+    .label = Rastreadores de "impressões digitais"
+    .accesskey = m
 
 ## Privacy Section - Tracking
 
