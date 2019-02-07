@@ -56,6 +56,7 @@ certmgr-cert-detail-commonname = Powšykne mě (CN)
 certmgr-cert-detail-org = Organizacija (O)
 certmgr-cert-detail-orgunit = Organizaciska jadnotka (OU)
 certmgr-cert-detail-serial-number = Serijowy numer
+certmgr-cert-detail-sha-256-fingerprint = Palcowy wótśišć SHA-256
 certmgr-cert-detail-sha-1-fingerprint = Palcowy wótśišć SHA1
 certmgr-edit-ca-cert =
     .title = Nastajenja dowěrygódnosći certifikata certifikatoweje awtority wobźěłaś
