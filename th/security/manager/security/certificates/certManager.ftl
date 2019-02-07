@@ -34,6 +34,7 @@ certmgr-fingerprints-label =
     .value = ลายนิ้วมือ
 certmgr-subject-label = ออกให้
 certmgr-issuer-label = ออกโดย
+certmgr-period-of-validity = ระยะเวลาที่มีผล
 certmgr-fingerprints = ลายนิ้วมือ
 certmgr-cert-detail =
     .title = รายละเอียดใบรับรอง
