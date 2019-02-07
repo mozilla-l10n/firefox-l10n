@@ -55,6 +55,7 @@ certmgr-cert-detail-commonname = Vanleg namn (CN)
 certmgr-cert-detail-org = Organisasjon (O)
 certmgr-cert-detail-orgunit = Organisasjonseining (OU)
 certmgr-cert-detail-serial-number = Serienummer
+certmgr-cert-detail-sha-256-fingerprint = SHA-256 fingeravtrykk
 certmgr-cert-detail-sha-1-fingerprint = SHA1 fingeravtrykk
 certmgr-edit-ca-cert =
     .title = Rediger tiltru for CA-sertifikatet
