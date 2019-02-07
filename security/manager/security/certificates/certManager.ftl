@@ -48,6 +48,7 @@ certmgr-cert-detail-sha256-fingerprint =
     .value = Huella digital SHA-256
 certmgr-cert-detail-sha1-fingerprint =
     .value = Huella digital SHA1
+certmgr-cert-detail-sha-256-fingerprint = Huella digital SHA-256
 certmgr-edit-ca-cert =
     .title = Modificar opciones de confianza en el certificado de CA
     .style = width: 48em;
