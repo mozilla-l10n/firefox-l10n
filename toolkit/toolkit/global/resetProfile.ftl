@@ -4,6 +4,8 @@
 
 refresh-profile-dialog =
     .title = Obnovení aplikace { -brand-short-name }
+refresh-profile-dialog-button =
+    .label = Obnovit aplikaci { -brand-short-name }
 refresh-profile-description = Začnutím odznovu opravíte problémy a obnovíte výkonnost prohlížeče.
 refresh-profile-description-details = Tím provedete:
 refresh-profile-remove = Odebraní svých doplňků a vlastního přizpůsobení
