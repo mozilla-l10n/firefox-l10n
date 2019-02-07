@@ -680,6 +680,7 @@ content-blocking-all-windows-trackers = Sledovací prvky blokovány vždy
 content-blocking-all-third-party-cookies = Všechny cookies třetích stran blokovány vždy
 content-blocking-warning-title = Pozor!
 content-blocking-warning-desc = Blokování cookies a sledovacích prvků může omezit fungování některých stránek. Pro stránky, kterým důvěřujete, ale můžete blokování snadno vypnout.
+content-blocking-warning-description = Blokování obsahu může omezit fungování některých stránek. Pro stránky, kterým důvěřujete, ho můžete snadno vypnout.
 content-blocking-learn-how = Jak na to?
 content-blocking-trackers-label =
     .label = Blokovat sledovací prvky
@@ -694,6 +695,15 @@ content-blocking-tracking-protection-change-block-list = Změnit úroveň blokov
 content-blocking-cookies-label =
     .label = Blokovat cookies
     .accesskey = c
+# Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
+content-blocking-cryptominers-label =
+    .label = Blokovat těžbu kryptoměn
+    .accesskey = y
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+content-blocking-fingerprinters-label =
+    .label = Blokovat vytváření otisku prohlížeče
+    .accesskey = s
 
 ## Privacy Section - Tracking
 
