@@ -32,7 +32,7 @@
 <!ENTITY netInterrupt.longDesc "<p>A conexão foi efetuada com êxito, mas foi interrompida durante a transferência de dados. Tente novamente.</p><ul><li>Não consegue abrir outros sites? Verifique a conexão de rede do computador.</li><li>O problema persiste? Peça ajuda ao seu administrador de rede ou ao provedor de internet.</li></ul>">
 
 <!ENTITY notCached.title "Documento fora de validade">
-<!ENTITY notCached.longDesc "<p>O documento solicitado não está mais no cache de navegação.</p><ul><li>Como precaução de segurança, documentos contendo informações confidenciais não são solicitados automaticamente.</li><li>Clique em “Tentar de novo” para solicitar mais uma vez o documento do site.</li></ul>">
+<!ENTITY notCached.longDesc "<p>O documento solicitado não está mais no cache de navegação.</p><ul><li>Como precaução de segurança, documentos contendo informações confidenciais não são solicitados de novo automaticamente.</li><li>Clique em “Tentar novamente” para solicitar mais uma vez o documento do site.</li></ul>">
 
 <!ENTITY netOffline.title "Modo desconectado">
 <!ENTITY netOffline.longDesc2 "<p>O navegador está no modo desconectado e não pode conectar-se ao item solicitado.</p><ul><li>O computador está conectado a uma rede ativa?</li><li>Pressione &quot;Tentar novamente&quot; para mudar para modo conectado e recarregar a página.</li></ul>">
