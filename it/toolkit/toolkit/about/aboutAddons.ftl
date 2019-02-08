@@ -230,6 +230,7 @@ manage-extensions-shortcuts =
     .accesskey = G
 shortcuts-empty-message = Non sono presenti scorciatoie da tastiera per questa estensione.
 shortcuts-no-addons = Non ci sono estensioni attive.
+shortcuts-no-commands = Le seguenti estensioni non hanno scorciatoie da tastiera:
 shortcuts-input =
   .placeholder = Inserisci una scorciatoia
 
