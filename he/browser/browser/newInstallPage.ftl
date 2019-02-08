@@ -9,6 +9,7 @@
 
 title = חדשות חשובות
 changed-title = מה השתנה?
+resources = משאבים:
 sync-label = נא להכניס את כתובת הדוא״ל שלך
 sync-input =
     .placeholder = דוא״ל
