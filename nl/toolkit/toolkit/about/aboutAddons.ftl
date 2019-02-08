@@ -302,6 +302,7 @@ manage-extensions-shortcuts =
     .accesskey = E
 shortcuts-empty-message = Er zijn geen sneltoetsen voor deze extensie.
 shortcuts-no-addons = U hebt geen extensies ingeschakeld.
+shortcuts-no-commands = De volgende extensies hebben geen sneltoetsen:
 shortcuts-input =
   .placeholder = Typ een sneltoets
 
