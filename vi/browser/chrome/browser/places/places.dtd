@@ -29,7 +29,7 @@
 
 <!ENTITY importBookmarksFromHTML.label     "Nhập trang đánh dấu từ HTML…">
 <!ENTITY importBookmarksFromHTML.accesskey "a">
-<!ENTITY exportBookmarksToHTML.label       "Xuất trang đánh dấu từ HTML…">
+<!ENTITY exportBookmarksToHTML.label       "Xuất trang đánh dấu vào HTML…">
 <!ENTITY exportBookmarksToHTML.accesskey   "X">
 <!ENTITY importOtherBrowser.label          "Nhập dữ liệu từ Trình duyệt khác…">
 <!ENTITY importOtherBrowser.accesskey      "y">
@@ -69,9 +69,6 @@
 <!ENTITY cmd.context_new_folder.accesskey  "i">
 <!ENTITY cmd.new_separator.label           "Ngăn cách Mới">
 <!ENTITY cmd.new_separator.accesskey       "N">
-
-<!ENTITY cmd.reloadLivebookmark.label      "Tải lại trang đánh dấu động">
-<!ENTITY cmd.reloadLivebookmark.accesskey  "l">
 
 <!ENTITY col.name.label          "Tên">
 <!ENTITY col.tags.label          "Nhãn">
