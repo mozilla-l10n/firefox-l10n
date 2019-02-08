@@ -7,7 +7,7 @@
 <!ENTITY doNotDownloadImap.label "Viestien noutamista ja säilyttämistä omalla koneella voidaan rajoittaa viestin iän ja koon mukaan levytilan säästämiseksi.">
 <!ENTITY allFoldersOffline2.label "Säilytä tämän tilin kaikkien kansioiden viestejä paikallisella tietokoneella">
 <!ENTITY allFoldersOffline2.accesskey "t">
-<!ENTITY allFoldersOfflineNote.label "Huomaa: Tämän asetuksen muuttaminen vaikuttaa kaikkiin tämän tilin kansioihin. Jos haluat muuttaa yksittäisen kansion asetuksia, napsauta Lisätietoja… -painiketta.">
+<!ENTITY allFoldersOfflineNote.label "Huomaa: Tämän asetuksen muuttaminen vaikuttaa kaikkiin tämän tilin kansioihin. Jos haluat muuttaa yksittäisen kansion asetuksia, napsauta Lisäasetukset… -painiketta.">
 <!ENTITY offlineNotDownload.label "Viestejä, joiden koko on yli">
 <!ENTITY offlineNotDownload.accesskey "e">
 <!ENTITY autosyncNotDownload.label "Älä nouda viestejä, jotka ovat suurempia kuin">
