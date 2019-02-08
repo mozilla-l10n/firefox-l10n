@@ -90,6 +90,14 @@ detail-update-automatic =
 detail-update-manual =
     .label = כבוי
     .tooltiptext = אל תתקין עדכונים אוטומטית
+# Used as a description for the option to allow or block an add-on in private windows.
+detail-private-browsing-label = הפעלה בחלונות פרטיים
+detail-private-browsing-on =
+    .label = לאפשר
+    .tooltiptext = הפעלה בגלישה פרטית
+detail-private-browsing-off =
+    .label = לא לאפשר
+    .tooltiptext = נטרול בגלישה פרטית
 detail-home =
     .label = דף הבית
 detail-home-value =
@@ -212,8 +220,9 @@ extensions-updates-update-selected =
 
 ## Extension shortcut management
 
-shortcuts-manage =
-    .label = קיצורי מקלדת
+manage-extensions-shortcuts =
+    .label = ניהול קיצורי דרך להרחבות
+    .accesskey = נ
 shortcuts-empty-message = אין קיצורי דרך עבור הרחבה זו.
 shortcuts-no-addons = אין לך הרחבות מופעלות.
 shortcuts-input =
@@ -226,3 +235,6 @@ shortcuts-modifier-other = יש לכלול Ctrl או Alt
 shortcuts-invalid = שילוב לא חוקי
 shortcuts-letter = נא להקליד אות
 shortcuts-system = לא ניתן לדרוס קיצור דרך של { -brand-short-name }
+shortcuts-card-collapse-button = הצגת פחות
+go-back-button =
+    .tooltiptext = חזרה אחורה
