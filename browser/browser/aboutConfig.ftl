@@ -16,6 +16,12 @@ about-config-pref-save = साठवा
 about-config-pref-reset = मूळस्थितीत आणा
 about-config-pref-delete = नष्ट करा
 
+## Labels for the type selection radio buttons shown when adding preferences.
+
+about-config-pref-add-type-boolean = बुलियन
+about-config-pref-add-type-number = संख्या
+about-config-pref-add-type-string = अक्षरमाळ
+
 ## Preferences with a non-default value are differentiated visually, and at the
 ## same time the state is made accessible to screen readers using an aria-label
 ## that won't be visible or copied to the clipboard.
