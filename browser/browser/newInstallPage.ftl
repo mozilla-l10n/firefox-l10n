@@ -24,4 +24,5 @@ sync-input =
     .placeholder = Adresse électronique
 sync-button = Continuer
 sync-terms = En continuant, vous acceptez nos <a data-l10n-name="terms">Conditions d’utilisation</a> et notre <a data-l10n-name="privacy">Politique de confidentialité</a>.
+sync-first = C’est votre première utilisation de { -sync-brand-name } ? Vous devrez vous connecter dans chaque installation de Firefox pour synchroniser vos informations.
 sync-learn = En savoir plus
