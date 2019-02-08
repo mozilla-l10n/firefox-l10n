@@ -17,6 +17,7 @@ policy-BlockAboutConfig = Bloque l’accès à la page about:config.
 policy-BlockAboutProfiles = Bloque l’accès à la page about:profiles.
 policy-BlockAboutSupport = Bloque l’accès à la page about:support.
 policy-Bookmarks = Permet de créer des marque-pages dans la Barre personnelle, le menu des marque-pages ou un de leurs sous-dossiers.
+policy-CaptivePortal = Permet ou interdit la prise en charge du portail captif.
 policy-CertificatesDescription = Ajouter des certificats ou utiliser des certificats prédéfinis.
 policy-Cookies = Permet ou interdit aux sites de définir des cookies.
 policy-DisableAppUpdate = Empêche le navigateur de se mettre à jour.
@@ -54,6 +55,7 @@ policy-HardwareAcceleration = Si faux, désactive l’accélération matérielle
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Définit la page d’accueil et propose de la verrouiller.
 policy-InstallAddonsPermission = Autorise certains sites web à installer des extensions.
+policy-NetworkPrediction = Permet ou interdit la prédiction réseau (prélecture DNS).
 policy-NoDefaultBookmarks = Désactive la création des marque-pages par défaut fournis avec { -brand-short-name } ainsi que les marque-pages intelligents (sites les plus visités, sites récents). Note : cette politique ne fonctionne que si elle est activée avant le premier lancement du profil.
 policy-OfferToSaveLogins = Applique les paramètres qui permettent à { -brand-short-name } de se souvenir des identifiants et des mots de passe enregistrés. Les valeurs true et false sont toutes deux acceptées.
 policy-OverrideFirstRunPage = Contrôle la page de premier démarrage. Laissez cette règle vide pour désactiver la page de premier démarrage.
@@ -67,5 +69,7 @@ policy-SearchBar = Définit l’emplacement par défaut de la barre de recherche
 policy-SearchEngines = Configure les paramètres du moteur de recherche. Cette propriété n’est disponible que sur la version Extended Support Release (ESR).
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Permet d’installer des modules PKCS #11.
+policy-SSLVersionMax = Définit la version maximale de SSL à utiliser.
+policy-SSLVersionMin = Définit la version minimale de SSL à utiliser.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Bloque l’accès à des sites web. Voir la documentation pour plus de détails sur le format.
