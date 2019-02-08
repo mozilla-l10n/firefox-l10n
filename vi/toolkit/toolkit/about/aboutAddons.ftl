@@ -88,6 +88,15 @@ detail-update-automatic =
 detail-update-manual =
     .label = Tắt
     .tooltiptext = Không tự động cài đặt cập nhật
+# Used as a description for the option to allow or block an add-on in private windows.
+detail-private-browsing-label = Chạy trong cửa sổ riêng tư
+detail-private-browsing-description = Tiện ích mở rộng sẽ hoạt động trong cửa sổ riêng tư và có quyền truy cập vào các hoạt động trực tuyến của bạn. <label data-l10n-name="detail-private-browsing-learn-more">Tìm hiểu thêm</label>
+detail-private-browsing-on =
+    .label = Cho phép
+    .tooltiptext = Kích hoạt trong duyệt web riêng tư
+detail-private-browsing-off =
+    .label = Không cho phép
+    .tooltiptext = Vô hiệu hóa trong duyệt web riêng tư
 detail-home =
     .label = Trang chủ
 detail-home-value =
@@ -130,6 +139,11 @@ legacy-warning-show-legacy = Hiển thị các phần mở rộng kế thừa
 legacy-extensions =
     .value = Phần mở rộng kế thừa
 legacy-extensions-description = Các tiện ích mở rộng này không đáp ứng tiêu chuẩn hiện tại của { -brand-short-name } do đó chúng đã bị ngừng hoạt động. <label data-l10n-name="legacy-learn-more">Tìm hiểu về các thay đổi tiện ích</label>
+private-browsing-description =
+    Tiện ích mở rộng không được phép chạy theo mặc định trong cửa sổ riêng tư. Điều này có nghĩa là họ sẽ không hoạt động
+    trong khi duyệt web riêng tư và họ sẽ không có quyền truy cập vào các hoạt động trực tuyến của bạn ở đó. Để cho phép
+    một tiện ích chạy trong cửa sổ riêng tư, chọn thẻ mở rộng bên dưới và thay đổi cài đặt của bạn.
+    <label data-l10n-name="private-browsing-learn-more">Tìm hiểu thêm.</label>
 extensions-view-discover =
     .name = Tải thêm tiện ích
     .tooltiptext = { extensions-view-discover.name }
@@ -210,8 +224,6 @@ extensions-updates-update-selected =
 
 ## Extension shortcut management
 
-shortcuts-manage =
-    .label = Các phím tắt bàn phím
 manage-extensions-shortcuts =
     .label = Quản lý phím tắt tiện ích mở rộng
     .accesskey = s
@@ -227,5 +239,10 @@ shortcuts-modifier-other = Bao gồm Ctrl hoặc Alt
 shortcuts-invalid = Kết hợp không hợp lệ
 shortcuts-letter = Nhập một kí tự
 shortcuts-system = Không thể ghi đè một phím tắt { -brand-short-name }
+shortcuts-card-expand-button =
+    { $numberToShow ->
+       *[other] Hiển thị { $numberToShow } khác
+    }
+shortcuts-card-collapse-button = Hiện ít hơn
 go-back-button =
     .tooltiptext = Quay lại
