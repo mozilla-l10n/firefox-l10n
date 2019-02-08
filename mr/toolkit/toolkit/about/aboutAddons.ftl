@@ -207,6 +207,8 @@ extensions-updates-update-selected =
 
 ## Extension shortcut management
 
+shortcuts-browserAction = विस्तार सक्रिय करा
+shortcuts-pageAction = पृष्ठ क्रिया सक्रिय करा
 shortcuts-card-collapse-button = कमी दर्शवा
 go-back-button =
     .tooltiptext = मागे जा
