@@ -63,5 +63,7 @@ policy-SearchBar = הגדרת מיקום ברירת המחדל של סרגל ה�
 policy-SearchEngines = הגדרת תצורת מנועי החיפוש. מדיניות זו זמינה רק בגרסה עם תמיכה מורחבת (ESR).
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = התקנת מודולי PKCS #11.
+policy-SSLVersionMax = הגדרת גרסת ה־SSL המקסימלית.
+policy-SSLVersionMin = הגדרת גרסת ה־SSL המינימלית.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = חסימת ביקור באתרים. יש לעיין בתיעוד לקבלת פרטים נוספים על התבנית.
