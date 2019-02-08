@@ -673,6 +673,7 @@ content-blocking-all-windows-trackers = Bilinen takipçileri tüm pencerelerde e
 content-blocking-all-third-party-cookies = Tüm üçüncü taraf çerezlerini engeller
 content-blocking-warning-title = Dikkat!
 content-blocking-warning-desc = Çerezleri ve takipçileri engellemeniz bazı web sitelerinin düzgün çalışmamasına yol açabilir. Güvendiğiniz sitelerde engellemeyi kolayca kapatabilirsiniz.
+content-blocking-warning-description = İçerikleri engellemek bazı sitelerin bozulmasına neden olabilir. Güvendiğiniz sitelerde engellemeyi kolayca kapatabilirsiniz.
 content-blocking-learn-how = Engellemeyi kapatmayı öğrenin
 content-blocking-trackers-label =
     .label = Takipçiler
@@ -687,6 +688,15 @@ content-blocking-tracking-protection-change-block-list = Engelleme listesini de�
 content-blocking-cookies-label =
     .label = Çerezler
     .accesskey = e
+# Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
+content-blocking-cryptominers-label =
+    .label = Kripto madencileri
+    .accesskey = m
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+content-blocking-fingerprinters-label =
+    .label = Parmak izi toplayıcılar
+    .accesskey = P
 
 ## Privacy Section - Tracking
 

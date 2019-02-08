@@ -55,6 +55,7 @@ policy-HardwareAcceleration = false ise donanım ivmelenmesini kapat.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Giriş sayfasını ayarla ve isteğe bağlı olarak kilitle.
 policy-InstallAddonsPermission = Belirli websitelerinin eklenti yüklemesine izin ver.
+policy-NetworkPrediction = Ağ tahminini (DNS prefetching) aç veya kapat.
 policy-NoDefaultBookmarks = { -brand-short-name }  ile birlikte gelen varsayılan yer imlerinin ve akıllı yer imlerinin (en çok ziyaret edilenler, son kullanılan etiketler) oluşturulmasını devre dışı bırak. Not: Bu ilke yalnızca profil ilk kez çalıştırılmadan önce kullanılırsa etkili olur.
 policy-OfferToSaveLogins = { -brand-short-name } tarayıcısının kullanıcı adı ve parolaları kaydetmeyi önermesini ayarla. true veya false olarak ayarlanabilir.
 policy-OverrideFirstRunPage = İlk açılış sayfasını değiştir. İlk açılış sayfasını devre dışı bırakmak istiyorsanız bu ilkeyi boş olarak ayarlayın.
