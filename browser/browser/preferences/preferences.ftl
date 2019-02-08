@@ -581,22 +581,22 @@ history-clear-button =
 
 ## Privacy Section - Site Data
 
-sitedata-header = 쿠키와 사이트 데이타
-sitedata-total-size-calculating = 사이트 데이타와 캐시 크기 계산중…
+sitedata-header = 쿠키와 사이트 데이터
+sitedata-total-size-calculating = 사이트 데이터와 캐시 크기 계산중…
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size = 현재 저장된 쿠키와 사이트 데이타, 캐시가 { $value } { $unit }의 디스크를 사용하고 있습니다.
+sitedata-total-size = 현재 저장된 쿠키와 사이트 데이터, 캐시가 { $value } { $unit }의 디스크를 사용하고 있습니다.
 sitedata-learn-more = 더 알아보기
 sitedata-delete-on-close =
-    .label = { -brand-short-name }가 닫힐 때 쿠키와 사이트 데이타를 삭제
+    .label = { -brand-short-name }가 닫힐 때 쿠키와 사이트 데이터를 삭제
     .accesskey = c
-sitedata-delete-on-close-private-browsing = 영구 사생활 보호 모드에서는 { -brand-short-name }가 닫히면 쿠키와 사이트 데이타가 항상 지워집니다.
+sitedata-delete-on-close-private-browsing = 영구 사생활 보호 모드에서는 { -brand-short-name }가 닫히면 쿠키와 사이트 데이터가 항상 지워집니다.
 sitedata-allow-cookies-option =
-    .label = 쿠키와 사이트 데이타 허용
+    .label = 쿠키와 사이트 데이터 허용
     .accesskey = A
 sitedata-disallow-cookies-option =
-    .label = 쿠키와 사이트 데이타 차단
+    .label = 쿠키와 사이트 데이터 차단
     .accesskey = B
 # This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
 # The list items are the strings named sitedata-block-*-option*.
@@ -611,10 +611,10 @@ sitedata-option-block-all-third-party =
 sitedata-option-block-all =
     .label = 모든 쿠키(웹사이트가 깨질 수 있음)
 sitedata-clear =
-    .label = 데이타 삭제…
+    .label = 데이터 삭제…
     .accesskey = l
 sitedata-settings =
-    .label = 데이타 관리…
+    .label = 데이터 관리…
     .accesskey = M
 sitedata-cookies-permissions =
     .label = 권한 관리…
@@ -756,7 +756,7 @@ addon-recommendations =
 addon-recommendations-link = 자세히 보기
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
-collection-health-report-disabled = 이 빌드 설정에서는 데이타 보고가 비활성화 되어 있음
+collection-health-report-disabled = 이 빌드 설정에서는 데이터 보고가 비활성화 되어 있음
 collection-browser-errors =
     .label = { -brand-short-name }가 { -vendor-short-name }에 브라우저 오류 보고서(오류 메시지 포함)를 보내도록 허용
     .accesskey = b
@@ -819,8 +819,8 @@ space-alert-over-5gb-pref-button =
         }
 space-alert-over-5gb-message =
     { PLATFORM() ->
-        [windows] { -brand-short-name } 디스크 용량이 부족합니다. 웹사이트 내용이 제대로 표시되지 않을 수 있습니다. 옵션 > 개인정보와 보안 > 쿠키와 사이트 데이타에서 저장된 데이타를 지울 수 있습니다.
-       *[other] { -brand-short-name } 디스크 용량이 부족합니다. 웹사이트 내용이 제대로 표시되지 않을 수 있습니다. 설정 > 개인정보와 보안 > 쿠키와 사이트 데이타에서 저장된 데이터를 지울 수 있습니다.
+        [windows] { -brand-short-name } 디스크 용량이 부족합니다. 웹사이트 내용이 제대로 표시되지 않을 수 있습니다. 옵션 > 개인정보와 보안 > 쿠키와 사이트 데이터에서 저장된 데이터를 지울 수 있습니다.
+       *[other] { -brand-short-name } 디스크 용량이 부족합니다. 웹사이트 내용이 제대로 표시되지 않을 수 있습니다. 설정 > 개인정보와 보안 > 쿠키와 사이트 데이터에서 저장된 데이터를 지울 수 있습니다.
     }
 space-alert-under-5gb-ok-button =
     .label = 알겠습니다

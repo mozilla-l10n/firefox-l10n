@@ -63,8 +63,8 @@
 
 <!ENTITY  securityView.privacy.header                   "개인 정보 및 방문 기록">
 <!ENTITY  securityView.privacy.history                  "이전에 현재 웹 사이트 방문 여부">
-<!ENTITY  securityView.privacy.siteData                 "이 웹사이트가 내 컴퓨터에 데이타를 저장하나요?">
-<!ENTITY  securityView.privacy.clearSiteData            "쿠키와 사이트 데이타 삭제">
+<!ENTITY  securityView.privacy.siteData                 "이 웹사이트가 내 컴퓨터에 데이터를 저장하나요?">
+<!ENTITY  securityView.privacy.clearSiteData            "쿠키와 사이트 데이터 삭제">
 <!ENTITY  securityView.privacy.clearSiteData.accessKey  "C">
 <!ENTITY  securityView.privacy.passwords                "이 사이트에 저정된 비밀번호가 있나요?">
 <!ENTITY  securityView.privacy.viewPasswords            "저장된 비밀번호 보기">

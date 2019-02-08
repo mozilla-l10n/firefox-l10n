@@ -64,7 +64,7 @@ policy-Permissions = 카메라나 마이크, 위치, 알림 권한을 설정합�
 policy-PopupBlocking = 기본으로 특정 웹사이트가 팝업을 보여주도록 허용합니다.
 policy-Proxy = 프록시 설정을 구성합니다.
 policy-RequestedLocales = 어플리케이션의 요청된 로케일의 목록을 설정 순서로 설정합니다.
-policy-SanitizeOnShutdown = 종료시 모든 네비게이션 데이타를 삭제합니다.
+policy-SanitizeOnShutdown = 종료시 모든 네비게이션 데이터를 삭제합니다.
 policy-SearchBar = 검색 바의 기본 위치를 설정합니다. 사용자가 다시 재설정 할 수 있습니다.
 policy-SearchEngines = 검색 엔진 설정을 구성합니다. 이 정책은 확장 지원 버전(ESR)에서만 가능합니다.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
