@@ -8,6 +8,7 @@
 -->
 
 <!ENTITY window.title "Tin tức quan trọng">
+<!ENTITY window.style "width: 490px">
 <!ENTITY sync "Để đồng bộ hóa thông tin bạn đã lưu vào Firefox với bản cài đặt &brandShortName;, đăng nhập bằng &syncBrand.fxAccount.label;.">
 <!ENTITY continue-button "Tiếp tục">
 
