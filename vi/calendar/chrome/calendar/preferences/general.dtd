@@ -12,10 +12,40 @@
 <!ENTITY pref.dateformat.accesskey "N">
 <!ENTITY pref.dateformat.long "Dài" >
 <!ENTITY pref.dateformat.short "Short"  >
-<!ENTITY pref.defaultlength.label "Thời gian Mặc định cho Sự kiện:" >
-<!ENTITY pref.defaultlength.accesskey "S">
-<!ENTITY pref.defaultsnoozelength.label "Thời gian Mặc định cho lúc Tạm tắt chuông:" >
-<!ENTITY pref.defaultsnoozelength.accesskey "T">
-<!ENTITY pref.refreshbox.label "Thiết lập Làm tươi" >
-<!ENTITY pref.autorefresh.label "Làm tươi các bộ lịch mỗi" >
-<!ENTITY pref.autorefresh.accesskey "L" >
+
+<!ENTITY pref.timezones.caption "Múi giờ">
+<!ENTITY pref.timezones.label "Chọn thành phố gần nhất trong múi giờ của bạn:">
+<!ENTITY pref.timezones.accesskey "S">
+
+<!ENTITY pref.defaults.label "Giá trị mặc định cho các mục mới">
+<!ENTITY pref.events.label "Sự kiện">
+<!ENTITY pref.tasks.label "Nhiệm vụ">
+
+<!ENTITY pref.default_event_length.label "Độ dài mặc định:" >
+<!ENTITY pref.default_event_length.accesskey "E">
+
+<!ENTITY pref.default_task_none.label "Không có">
+<!ENTITY pref.default_task_start_of_day.label "Ngày bắt đầu">
+<!ENTITY pref.default_task_end_of_day.label "Ngày kết thúc">
+<!ENTITY pref.default_task_tomorrow.label "Ngày mai">
+<!ENTITY pref.default_task_next_week.label "Tuần tới">
+<!ENTITY pref.default_task_offset_current.label "Liên quan đến thời gian hiện tại">
+<!ENTITY pref.default_task_offset_start.label "Liên quan đến bắt đầu">
+<!ENTITY pref.default_task_offset_next_hour.label "Liên quan đến giờ tiếp theo">
+
+<!ENTITY pref.calendar.todaypane.agenda.caption "Bảng ngày hôm nay">
+<!-- LOCALIZATION NOTE (pref.soondays2.label):
+     "Upcoming" is the name of a section and the translation must match the
+     translation of that section name (calendar.upcoming.button.label). Also,
+     it should be upper case (as a proper name) if the target language permits.
+  -->
+<!ENTITY pref.soondays2.label "Phần sắp tới cho thấy:">
+<!ENTITY pref.soondays2.accesskey "U">
+
+<!ENTITY pref.accessibility.label "Trợ năng" >
+<!ENTITY pref.systemcolors.label "Tối ưu hóa màu sắc cho khả năng tiếp cận" >
+<!ENTITY pref.systemcolors.accesskey "c">
+
+<!ENTITY pref.eventsandtasks.label "Sự kiện và nhiệm vụ" >
+<!ENTITY pref.editInTab.label "Chỉnh sửa các sự kiện và tác vụ trong một thẻ thay vì trong cửa sổ hộp thoại." >
+<!ENTITY pref.editInTab.accesskey "t">
