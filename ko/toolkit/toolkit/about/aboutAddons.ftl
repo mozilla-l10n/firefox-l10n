@@ -88,6 +88,14 @@ detail-update-automatic =
 detail-update-manual =
     .label = 중단
     .tooltiptext = 업데이트 자동 설치 중단
+# Used as a description for the option to allow or block an add-on in private windows.
+detail-private-browsing-label = 사생활 보호 모드에서 실행
+detail-private-browsing-on =
+    .label = 허용
+    .tooltiptext = 사생활 보호 모드에서 사용
+detail-private-browsing-off =
+    .label = 허용하지 않음
+    .tooltiptext = 사생활 보호 모드에서 사용 안 함
 detail-home =
     .label = 홈페이지
 detail-home-value =
@@ -134,7 +142,7 @@ extensions-view-discover =
     .name = 추천
     .tooltiptext = { extensions-view-discover.name }
 extensions-view-recent-updates =
-    .name = 최근 항목 보기
+    .name = 최근 업데이트
     .tooltiptext = { extensions-view-recent-updates.name }
 extensions-view-available-updates =
     .name = 업데이트 가능 항목
@@ -167,7 +175,7 @@ extensions-updates-check-for-updates =
     .label = 업데이트 확인하기
     .accesskey = C
 extensions-updates-view-updates =
-    .label = 최신 업데이트 보기
+    .label = 최근 업데이트 보기
     .accesskey = V
 
 # This menu item is a checkbox that toggles the default global behavior for
@@ -210,8 +218,6 @@ extensions-updates-update-selected =
 
 ## Extension shortcut management
 
-shortcuts-manage =
-    .label = 키보드 단축키
 manage-extensions-shortcuts =
     .label = 확장기능 단축키 관리
     .accesskey = S
