@@ -675,6 +675,10 @@
 <!ENTITY contentBlocking.trackersView.strictInfo.label "Per bloccare tutti gli elementi traccianti, impostare il blocco contenuti su “Restrittivo”.">
 <!ENTITY contentBlocking.cookies.label "Cookie">
 <!ENTITY contentBlocking.cookiesView.label "Cookie e dati dei siti web">
+<!ENTITY contentBlocking.cryptominers.label "Cryptominer">
+<!ENTITY contentBlocking.cryptominersView.label "Cryptominer">
+<!ENTITY contentBlocking.fingerprinters.label "Fingerprinter">
+<!ENTITY contentBlocking.fingerprintersView.label "Fingerprinter">
 <!ENTITY contentBlocking.openBreakageReportView2.label "Segnala un problema">
 <!ENTITY contentBlocking.breakageReportView.label "Segnalazione problema">
 <!ENTITY contentBlocking.breakageReportView2.description "Il blocco contenuti può causare problemi in alcuni siti. Segnalando eventuali anomalie contribuisci a migliorare &brandShortName; per tutti gli utenti. Questa operazione invierà l’indirizzo (URL) a Mozilla, insieme a informazioni relative alle attuali impostazioni del browser.">
