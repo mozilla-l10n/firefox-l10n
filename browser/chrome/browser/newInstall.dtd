@@ -7,5 +7,7 @@
  revision number of a given Firefox channel". These terms are not synonymous.
 -->
 
+<!ENTITY window.style "width: 490px">
+<!ENTITY continue-button "계속">
 
 <!ENTITY mainText "이 &brandShortName; 설치는 새 프로필을 갖습니다. 이 컴퓨터에 설치된 다른 Firefox(Firefox, Firefox ESR, Firefox 베타, Firefox 개발자 버전 및 Firefox Nightly 포함)와 북마크, 비밀번호 및 사용자 기본 설정을 공유하지 않습니다.">

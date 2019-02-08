@@ -401,8 +401,8 @@ search-restore-default =
     .label = 기본 검색 사이트 되돌리기
     .accesskey = d
 search-remove-engine =
-    .label = 지우기
-    .accesskey = r
+    .label = 삭제
+    .accesskey = R
 search-find-more-link = 더 많은 검색 엔진 찾기
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
