@@ -66,7 +66,7 @@ permissions-exceptions-content-blocking-desc = 이 웹 사이트에서 콘텐츠
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window =
-    .title = 예외 - 쿠키와 사이트 데이타
+    .title = 예외 - 쿠키와 사이트 데이터
     .style = { permissions-window.style }
 permissions-exceptions-cookie-desc = 웹사이트별로 쿠키나 사이트 데이터를 항상 사용하거나 사용하지 않도록 설정할 수 있습니다.  관리할 사이트의 정확한 주소를 입력하고 '차단'이나 '세션에서 허용', '허용'을 클릭하세요.
 

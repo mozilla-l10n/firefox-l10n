@@ -306,7 +306,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "이 사이트의 영구 저장소 사용을 차단하였습니다.">
 <!ENTITY urlbar.popupBlocked.tooltip             "이 사이트의 팝업을 차단하였습니다.">
 <!ENTITY urlbar.autoplayMediaBlocked.tooltip     "이 사이트의 소리있는 미디어 자동재생을 차단하였습니다.">
-<!ENTITY urlbar.canvasBlocked.tooltip            "이 사이트의 캔바스 데이타 추출을 차단하였습니다.">
+<!ENTITY urlbar.canvasBlocked.tooltip            "이 사이트의 캔바스 데이터 추출을 차단하였습니다.">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "이 사이트에서 Adobe Flash 플러그인을 사용할 수 없게 설정하였습니다.">
 <!ENTITY urlbar.midiBlocked.tooltip              "이 사이트의 MIDI 접근을 차단하였습니다.">
 
@@ -873,7 +873,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.moreInfoLinkText2 "더 보기">
 
-<!ENTITY identity.clearSiteData "쿠키와 사이트 데이타 삭제…">
+<!ENTITY identity.clearSiteData "쿠키와 사이트 데이터 삭제…">
 
 <!ENTITY identity.permissions "권한">
 <!ENTITY identity.permissionsEmpty "이 사이트를 특별한 권한으로 승인하지 않았습니다.">
@@ -994,7 +994,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackersView.strictInfo.label "모든 추적기를 차단하려면 콘텐츠 차단을 “엄격함”으로 설정하세요.">
 
 <!ENTITY contentBlocking.cookies.label "쿠키">
-<!ENTITY contentBlocking.cookiesView.label "쿠키와 사이트 데이타">
+<!ENTITY contentBlocking.cookiesView.label "쿠키와 사이트 데이터">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "오류 보고">
 <!ENTITY contentBlocking.breakageReportView.label "문제 보고">
@@ -1127,3 +1127,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "<image class='addon-toolbar-icon'/> 메뉴에서 <image class='addon-addon-icon'/> 아이콘을 눌러서 부가 기능을 관리하세요.">
+
