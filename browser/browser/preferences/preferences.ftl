@@ -696,12 +696,12 @@ content-blocking-cookies-label =
     .accesskey = C
 # Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
 content-blocking-cryptominers-label =
-    .label = Kryptokoparje
+    .label = Kryptokopanje
     .accesskey = y
 # Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
 # that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
 content-blocking-fingerprinters-label =
-    .label = Palcowótśišćarje
+    .label = Palcowe wótśišće
     .accesskey = P
 
 ## Privacy Section - Tracking
