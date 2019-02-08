@@ -49,7 +49,7 @@
 <!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
 <!ENTITY  tab_offline_version "Näytetään yhteydettömän tilan versio">
 
-<!ENTITY  crash_reporter_title "&brandShortName;-kaatumisen raportointi">
+<!ENTITY  crash_reporter_title "&brandShortName;: Kaatumisen raportointi">
 <!ENTITY  crash_message2 "&brandShortName; kohtasi odottamattoman ongelman ja kaatui. Avoinna olleiden välilehtien pitäisi olla listattuna aloitussivulla kun käynnistät &brandShortName;in uudestaan">
 <!ENTITY  crash_send_report_message3 "Kerro virheestä &vendorShortName;lle ja auta heitä korjaamaan vika">
 <!ENTITY  crash_include_url2 "Lähetä avoinna olleen sivun osoite">
