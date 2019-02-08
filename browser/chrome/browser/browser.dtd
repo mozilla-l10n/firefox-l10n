@@ -165,7 +165,7 @@ same accesskey but will never be visible at the same time. -->
 <!ENTITY toolbarContextMenu.bookmarkSelectedTabs.accesskey "r">
 <!ENTITY toolbarContextMenu.selectAllTabs.label "Tüm sekmeleri seç">
 <!ENTITY toolbarContextMenu.selectAllTabs.accesskey "ü">
-<!ENTITY toolbarContextMenu.undoCloseTab.label "Kapatılan sekmeyi aç">
+<!ENTITY toolbarContextMenu.undoCloseTab.label "Son kapatılan sekmeyi aç">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "K">
 
 <!ENTITY pageSourceCmd.label "Sayfa kaynağı">
