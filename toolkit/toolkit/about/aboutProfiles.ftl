@@ -27,6 +27,7 @@ profiles-remove = הסרה
 profiles-set-as-default = הגדרה כפרופיל בררת המחדל
 profiles-launch-profile = הפעלת פרופיל בדפדפן חדש
 profiles-cannot-set-as-default-title = לא ניתן להגדיר כברירת מחדל
+profiles-cannot-set-as-default-message = לא ניתן לשנות את פרופיל ברירת המחדל עבור { -brand-short-name }.
 profiles-yes = כן
 profiles-no = לא
 profiles-rename-profile-title = שינוי שם פרופיל
