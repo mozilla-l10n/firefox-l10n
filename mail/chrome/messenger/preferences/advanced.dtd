@@ -67,6 +67,7 @@
  -->
 <!ENTITY updateApp.version.pre           "Versão ">
 <!ENTITY updateApp.version.post          "">
+<!ENTITY updateAppAllow.description      "Permitir ao &brandShortName;">
 <!ENTITY updateAuto.label                "Instalar atualizações automaticamente (recomendado: segurança melhorada)">
 <!ENTITY updateAuto.accesskey            "a">
 <!ENTITY updateCheck.label               "Procurar atualizações, mas deixar-me escolher quais instalar">
@@ -76,6 +77,8 @@
 
 <!ENTITY useService.label                "Utilizar um serviço em segundo plano para instalar atualizações">
 <!ENTITY useService.accesskey            "t">
+
+<!ENTITY updateCrossUserSettingWarning.description "Esta definição irá ser aplicada a todas as contas do Windows e perfis do &brandShortName; utilizando esta instalação do &brandShortName;.">
 
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Definições...">
