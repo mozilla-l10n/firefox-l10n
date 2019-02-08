@@ -515,6 +515,7 @@ privacy-header = ब्राऊजर गोपनीयता
 
 ## Privacy Section - Forms
 
+logins-header = लॉगिन आणि पासवर्ड
 forms-ask-to-save-logins =
     .label = संकेतस्थळासाठी लॉगिन आणि पासवर्ड साठवण्यासाठी विचारा
     .accesskey = r
