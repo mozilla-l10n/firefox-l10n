@@ -9,6 +9,7 @@
  Firefox" and "version" is used to mean "the specific revision number of a
  given Firefox channel". These terms are not synonymous.
 -->
+<!ENTITY window.title "Olet käynnistänyt Firefoxin vanhan version">
 
 
 <!ENTITY window.create "Luo uusi profiili">
