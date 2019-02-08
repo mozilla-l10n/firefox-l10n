@@ -4,10 +4,6 @@
 
 do-not-track-description = שליחת חיווי ”נא לא לעקוב” לאתרים שאין ברצונך שיעקבו אחריך
 do-not-track-learn-more = מידע נוסף
-do-not-track-option-default =
-    .label = רק בעת שימוש בהגנת מעקב
-do-not-track-option-default-content-blocking =
-    .label = רק כאשר { -brand-short-name } מוגדר לחסום רכיבי מעקב מזוהים
 do-not-track-option-default-content-blocking-known =
     .label = רק כאשר { -brand-short-name } מוגדר לחסום רכיבי מעקב מוכרים
 do-not-track-option-always =
@@ -95,9 +91,6 @@ extension-controlled-default-search = הרחבה בשם <img data-l10n-name="ico
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = הרחבה בשם <img data-l10n-name="icon"/> { $name } דורשת שימוש במגירת לשוניות.
-# This string is shown to notify the user that their tracking protection preferences
-# are being controlled by an extension.
-extension-controlled-websites-tracking-protection-mode = הרחבה בשם <img data-l10n-name="icon"/> { $name } שולטת בהגנת המעקב.
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
 extension-controlled-websites-content-blocking-all-trackers = הרחבה בשם <img data-l10n-name="icon"/> { $name } שולטת על הגדרה זו.
@@ -606,12 +599,6 @@ sitedata-total-size-calculating = חישוב גודל נתוני אתרים ומ
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = העוגיות, נתוני האתרים והמטמון השמורים שלך משתמשים כרגע ב־{ $value } { $unit } משטח הדיסק.
 sitedata-learn-more = מידע נוסף
-sitedata-keep-until = שמירה עד ש:
-    .accesskey = מ
-sitedata-keep-until-expire =
-    .label = פג תוקפם
-sitedata-keep-until-closed =
-    .label = ‏{ -brand-short-name } ייסגר
 sitedata-delete-on-close =
     .label = מחיקת עוגיות ונתוני אתרים עם סגירת { -brand-short-name }
     .accesskey = ח
@@ -625,16 +612,6 @@ sitedata-disallow-cookies-option =
 # The list items are the strings named sitedata-block-*-option*.
 sitedata-block-desc = סוג שנחסם
     .accesskey = ס
-sitedata-block-trackers-option-recommended =
-    .label = רכיבי מעקב צד־שלישי (מומלץ)
-sitedata-block-trackers-option =
-    .label = רכיבי מעקב צד־שלישי
-sitedata-block-unvisited-option =
-    .label = עוגיות מאתרים שלא ביקרת בהם
-sitedata-block-all-third-party-option =
-    .label = כל העוגיות צד־שלישי (עשוי לשבש פעילות של חלק מהאתרים)
-sitedata-block-all-option =
-    .label = כל העוגיות (ישבש פעילות של אתרים)
 sitedata-option-block-trackers =
     .label = רכיבי מעקב צד־שלישי
 sitedata-option-block-unvisited =
@@ -649,13 +626,6 @@ sitedata-clear =
 sitedata-settings =
     .label = ניהול נתונים…
     .accesskey = נ
-sitedata-cookies-exceptions =
-    .label = חריגות…
-    .accesskey = ח
-# This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
-# in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
-# Cookies and Site Data section.
-sitedata-warning-your-settings-prevent-changes = ההגדרות שלך בחסימת תוכן מונעות ביצוע שינויים להגדרות העוגיות ונתוני האתרים.
 sitedata-cookies-permissions =
     .label = ניהול הרשאות…
     .accesskey = ה
@@ -678,40 +648,7 @@ addressbar-suggestions-settings = שינוי העדפות של הצעות מנו
 ## Privacy Section - Content Blocking
 
 content-blocking-header = חסימת תוכן
-content-blocking-desc = חסימת תוכן צד־שלישי כגון פרסומות או קוד שעשויים להאט את הגלישה שלך ולעקוב אחריך ברחבי הרשת. ניתן להתאים את ההגדרות שלך לקבלת האיזון הטוב ביותר בין אבטחה לביצועים.
 content-blocking-learn-more = מידע נוסף
-content-blocking-restore-defaults =
-    .label = שחזור ברירות מחדל
-    .accesskey = ש
-content-blocking-toggle-on =
-    .tooltiptext = כיבוי חסימת תוכן
-content-blocking-toggle-off =
-    .tooltiptext = הפעלת חסימת תוכן
-content-blocking-toggle-label-on = פעיל
-    .accesskey = פ
-content-blocking-toggle-label-off = כבוי
-    .accesskey = כ
-content-blocking-category-label = נא לבחור מה לחסום
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-slow-loading-trackers-label =
-    .label = רכיבי מעקב שנטענים לאט
-    .accesskey = א
-content-blocking-fastblock-new-description = חסימת רק רכיבי המעקב שמונעים טעינה מהירה של דפים.
-content-blocking-tracking-protection-trackers-label =
-    .label = רכיבי מעקב
-    .accesskey = ר
-content-blocking-tracking-protection-all-detected-trackers-label =
-    .label = כל רכיבי המעקב המזוהים
-    .accesskey = כ
-content-blocking-tracking-protection-new-description = חסימת כל רכיבי המעקב המוכרים. (עשוי למנוע מחלק מהעמודים להיטען.)
-content-blocking-tracking-protection-option-always =
-    .label = תמיד
-    .accesskey = ת
-content-blocking-tracking-protection-option-private =
-    .label = רק בחלונות פרטיים
-    .accesskey = ח
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 content-blocking-setting-standard =
@@ -744,51 +681,16 @@ content-blocking-option-private =
     .label = רק בחלונות פרטיים
     .accesskey = פ
 content-blocking-tracking-protection-change-block-list = שינוי רשימת חסימות
-content-blocking-third-party-cookies-label =
-    .label = עוגיות צד־שלישי
-    .accesskey = צ
-content-blocking-reject-trackers-description = חסימת כל העוגיות צד־שלישי או רק אלו שהוגדרו על־ידי רכיבי מעקב.
-# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
-# of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
-# or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
-# the UI.
-content-blocking-reject-trackers-warning-your-settings-prevent-changes = ההגדרות שלך בעוגיות ונתוני אתרים מונעות ביצוע שינויים להגדרות עוגיות צד־שלישי.
-content-blocking-change-cookie-settings =
-    .label = שינוי הגדרות עוגיות
-    .accesskey = ש
-content-blocking-reject-trackers-block-trackers-option-recommended =
-    .label = רכיבי מעקב (מומלץ)
-    .accesskey = ר
-content-blocking-reject-trackers-block-trackers-option =
-    .label = רכיבי מעקב
-    .accesskey = ר
-content-blocking-reject-trackers-all-third-parties-option =
-    .label = כל העוגיות צד־שלישי (עשוי לשבש פעילות של חלק מהאתרים)
-    .accesskey = כ
 content-blocking-cookies-label =
     .label = עוגיות
     .accesskey = ע
+# Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
+content-blocking-cryptominers-label =
+    .label = כורי מטבעות דיגיטליים
+    .accesskey = כ
 
 ## Privacy Section - Tracking
 
-tracking-header = הגנת מעקב
-tracking-desc = הגנת מעקב חוסמת רכיבי מעקב מקוונים שאוספים את נתוני הגלישה שלך ממגוון אתרים. <a data-l10n-name="learn-more">מידע נוסף על הגנת מעקב ועל הפרטיות שלך</a>
-tracking-mode-label = שימוש בהגנת מעקב לחסימת רכיבי מעקב מוכרים
-tracking-mode-always =
-    .label = תמיד
-    .accesskey = ת
-tracking-mode-private =
-    .label = רק בחלונות פרטיים
-    .accesskey = ר
-tracking-mode-never =
-    .label = לעולם לא
-    .accesskey = ל
-tracking-exceptions =
-    .label = חריגות…
-    .accesskey = ח
-tracking-change-block-list =
-    .label = שינוי רשימת חסימות…
-    .accesskey = ר
 tracking-manage-exceptions =
     .label = ניהול חריגות…
     .accesskey = ח
