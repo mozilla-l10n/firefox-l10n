@@ -669,6 +669,7 @@ content-blocking-all-windows-trackers = 在所有窗口拦截已知的跟踪器
 content-blocking-all-third-party-cookies = 所有第三方 Cookie
 content-blocking-warning-title = 注意！
 content-blocking-warning-desc = 拦截 Cookie 与跟踪器可能导致某些网站异常。但对您信任的网站禁用拦截非常简单。
+content-blocking-warning-description = 拦截内容后可能导致某些网站异常。但对您信任的网站禁用拦截非常简单。
 content-blocking-learn-how = 了解方法
 content-blocking-trackers-label =
     .label = 跟踪器
@@ -683,6 +684,15 @@ content-blocking-tracking-protection-change-block-list = 更换拦截列表
 content-blocking-cookies-label =
     .label = Cookie
     .accesskey = C
+# Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
+content-blocking-cryptominers-label =
+    .label = 加密货币挖矿程序
+    .accesskey = y
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+content-blocking-fingerprinters-label =
+    .label = 数字指纹跟踪程序
+    .accesskey = F
 
 ## Privacy Section - Tracking
 
