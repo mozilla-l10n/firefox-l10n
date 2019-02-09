@@ -12,7 +12,7 @@ fullscreen = מסך מלא
 find = חיפוש
 new-tab = לשונית חדשה
 add-bookmark = הוספת סימנייה
-open-bookmarks-sidebar = פתיחת סרגל הסימניות
+open-bookmarks-sidebar = פתיחת סרגל הצד סימניות
 reader-view = תצוגת קריאה
 # Meant to match the string displayed in an empty URL bar.
 open-location = חיפוש או הכנסת כתובת
