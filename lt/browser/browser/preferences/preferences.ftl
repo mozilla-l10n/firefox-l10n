@@ -691,6 +691,10 @@ content-blocking-tracking-protection-change-block-list = Keisti blokavimo sąra�
 content-blocking-cookies-label =
     .label = Slapukai
     .accesskey = S
+# Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
+content-blocking-cryptominers-label =
+    .label = Kriptovaliutų kasėjai
+    .accesskey = i
 
 ## Privacy Section - Tracking
 
