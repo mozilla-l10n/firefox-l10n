@@ -11,11 +11,13 @@ rights-intro-point-4 = Hvordan vi bruger dine personlige oplysninger og indsendt
 rights-intro-point-4-unbranded = Alle relevante privatlivspolitikker for dette produkt bør være beskrevet her.
 rights-intro-point-5 = Nogle { -brand-short-name } funktioner gør brug af webbaserede informationstjenester, men vi kan ikke garantere at de er 100% korrekte eller fejlfrie. Yderligere detaljer, inklusiv information om at deaktivere disse tjenester, kan findes under punktet <a data-l10n-name="mozilla-service-terms-link">tjenstevilkår</a>.
 rights-intro-point-5-unbranded = Hvis dette produkt bruger webbaserede tjenester skal alle vedkommende vilkår for tjenesterne linkes til under afsnittet <a data-l10n-name="mozilla-website-services-link">Webbaserede tjenester</a>.
+rights-intro-point-6 = For at kunne afspille visse typer af video skal { -brand-short-name } hente dekrypteringsmoduler fra tredjepart.
 rights-webservices-header = { -brand-full-name } webbaserede informationstjenester
 rights-webservices = { -brand-full-name } bruger webbaserede informationstjenester ("Tjenester") som gøres tilgængelig for dig ved brug af denne binære version af { -brand-short-name } som beskrevet i de nedenstående vilkår. Hvis du ikke ænsker at bruge en eller flere af disse tjenester, eller hvis du ikke kan tilslutte dig de nedenstående vilkår, kan du deaktivere funktionen eller tjenesten. Instruktioner til at deaktivere en given funktion eller tjeneste kan findes <a data-l10n-name="mozilla-disable-service-link">her</a>. Andre funktioner og tjenester kan deaktiveres i indstillingerne.
 rights-safebrowsing = <strong>SafeBrowsing: </strong>Deaktivering af Safe Browsing funktionen er ikke anbefalet da det kan resultere i at du besøger usikre websteder. Hvis du ønsker at deaktivere denne funktion fuldstændigt, kan dette gøres ved følgene trin:
 rights-safebrowsing-term-1 = Åbn programmets indstillinger
 rights-safebrowsing-term-2 = Vælg gruppen Sikkerhed
+rights-safebrowsing-term-3 = Fjern markeringen for at "{ enableSafeBrowsing-label }"
 enableSafeBrowsing-label = Bloker farlige og vildledende websteder
 rights-safebrowsing-term-4 = Safe Browsing er nu deaktiveret
 rights-locationawarebrowsing = <strong>Positionsbevidst browsing: </strong>Du bliver altid spurgt om du ønsker at dele din position. Din position bliver aldrig sendt uden dit samtykke. Hvis du ønsker at deaktivere denne funktion fuldstændigt kan det gøres ved følgende trin:
