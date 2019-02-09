@@ -687,6 +687,11 @@ content-blocking-tracking-protection-change-block-list = Cambiar le lista de blo
 content-blocking-cookies-label =
     .label = Cookies
     .accesskey = C
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+content-blocking-fingerprinters-label =
+    .label = Impressiones digital
+    .accesskey = d
 
 ## Privacy Section - Tracking
 
