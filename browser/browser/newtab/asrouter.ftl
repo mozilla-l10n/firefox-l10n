@@ -41,5 +41,5 @@ cfr-doorhanger-extension-total-users =
     { $total ->
         [zero] { $total } lietotājs
         [one] { $total } lietotāji
-       *[other] { $total } lietotoāju
+       *[other] { $total } lietotāju
     }
