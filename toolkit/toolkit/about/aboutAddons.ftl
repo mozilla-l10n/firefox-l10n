@@ -228,7 +228,7 @@ extensions-updates-update-selected =
 ## Extension shortcut management
 
 manage-extensions-shortcuts =
-    .label = Gira atalhos de extensões
+    .label = Gerir atalhos de extensões
     .accesskey = s
 shortcuts-empty-message = Não existem atalhos para esta extensão.
 shortcuts-no-addons = Não tem quaisquer extensões ativadas.
