@@ -67,17 +67,18 @@
  -->
 <!ENTITY updateApp.version.pre           "Нұсқасы ">
 <!ENTITY updateApp.version.post          "">
+<!ENTITY updateAppAllow.description      "&brandShortName; үшін рұқсат ету">
 <!ENTITY updateAuto.label                "Жаңартуларды автоматты түрде орнату (ұсынылады: қауіпсіздікті арттырады)">
 <!ENTITY updateAuto.accesskey            "а">
 <!ENTITY updateCheck.label               "Жаңартуларды тексеру, бірақ орнату уақытын өзім тандаймын">
 <!ENTITY updateCheck.accesskey           "м">
-<!ENTITY updateManual.label              "Жаңартуларды тексермеу (ұсынылмайды: қауіпсіздік төмендейді)">
-<!ENTITY updateManual.accesskey          "р">
 <!ENTITY updateHistory.label             "Жаңартулар тарихын көрсету">
 <!ENTITY updateHistory.accesskey         "р">
 
 <!ENTITY useService.label                "Жаңартуларды орнату үшін фон қызметін қолдану">
 <!ENTITY useService.accesskey            "ф">
+
+<!ENTITY updateCrossUserSettingWarning.description "Бұл баптау &brandShortName; бұл орнатуын қолданатын барлық Windows тіркелгілері және &brandShortName; профильдері үшін іске асады.">
 
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Баптаулар…">
