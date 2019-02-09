@@ -27,7 +27,7 @@ onboarding-ghostery-title = Ghostery
 onboarding-ghostery-text = Naviguez plus vite, plus intelligemment ou avec plus de sécurité avec des extensions comme Ghostery qui vous permet de bloquer les publicités envahissantes.
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Synchroniser
-onboarding-fxa-text = Créez votre { -fxaccount-brand-name[lowercase] } et synchronisez vos marque-pages, vos mots de passe et onglets ouverts partout où vous utilisez { -brand-short-name }.
+onboarding-fxa-text = Créez votre { -fxaccount-brand-name } et synchronisez vos marque-pages, vos mots de passe et onglets ouverts partout où vous utilisez { -brand-short-name }.
 
 ## Message strings belonging to the Return to AMO flow
 
