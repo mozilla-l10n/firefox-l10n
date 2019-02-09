@@ -99,12 +99,28 @@
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Vlasnik <span class='hostname'/> je pogrešno podesio svoju stranicu.  Da bismo spriječili krađu informacija, &brandShortName; se nije povezao na ovu stranicu.">
+<!ENTITY certerror.introPara2 "&brandShortName; je otkrio potencijalnu prijetnju sigurnosti i nije nastavio na <span class='hostname'/>. Ukoliko posjetite ovu web stranicu, napadači mogu pokušati ukrasti informacije kao što su vaše lozinke, e-poruke ili podatke kreditne kartice.">
+<!ENTITY certerror.sts.introPara "&brandShortName; je otkrio potencijalnu prijetnju sigurnosti i nije nastavio na <span class='hostname'/> iz razloga što ova stranica zahtjeva sigurnu vezu.">
 
+<!ENTITY certerror.expiredCert.introPara "&brandShortName; je otkrio potencijalnu prijetnju sigurnosti i nije nastavio na <span class='hostname'/>. Ova web stranica je pogrešno konfigurirana ili je sat vašeg računala postavljen na pogrešno vrijeme.">
+<!ENTITY certerror.expiredCert.secondPara2 "Vjerojatno je certifikat web stranice istekao, što sprječava &brandShortName; da se sigurno poveže. Ukoliko posjetite ovu web stranicu, napadači mogu pokušati ukrasti informacije kao što su vaše lozinke, e-poruke ili podatke kreditne kartice.">
+<!ENTITY certerror.expiredCert.sts.secondPara "Vjerojatno je certifikat web stranice istekao, što sprječava &brandShortName; da se sigurno poveže.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Što možete učiniti?">
 
+<!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "
+<p>Problem je najvjerojatnije povezan s web stranicom i ne možete ništa učiniti da biste ga riješili.</p>
+<p>Ukoliko se nalazite u korporativnoj mreži ili koristite antivirusni program, za pomoć možete kontaktirati timove za podršku. O problemu možete obavijestiti i administratora web stranice.</p>
+">
 
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "
+<p>Sat vašeg računala je postavljen na <span id='wrongSystemTime_systemDate2'/>. Provjerite da li je vaše računalo postavljeno na ispravan datum, vrijeme i vremensku zonu u postavkama sustava i onda osvježite <span class='hostname'/>.</p>
+<p>Ukoliko je vaš sat već postavljen na ispravno vrijeme, web stranica je vjerojatno pogrešno konfigurirana i ne možete ništa učiniti kako biste riješili ovaj problem. Možete obavijestiti administratora web stranice o ovom problemu.</p>
+">
 
+<!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "
+<p>Problem je najvjerojatnije povezan s web stranicom i ne možete ništa učiniti da biste ga riješili. Možete obavijestiti administratora web stranice o ovom problemu.</p>
+">
 
 <!ENTITY sharedLongDesc "<ul> <li>Ova je stranica privremeno nedostupna ili prezauzeta. Pokušajte ponovno za nekoliko trenutaka.</li> <li>Ako ne možete učitati niti jednu stranicu, provjerite mrežne postavke vašeg računala.</li> <li>Ako je vaše računalo ili mreža zaštićena vatrozidom ili proxyem, provjerite ima li &brandShortName; dozvolu pristupiti Internetu.</li> </ul>">
 
@@ -136,7 +152,10 @@ was trying to connect. -->
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; se nije uspio povezati na <span id='wrongSystemTimeWithoutReference_URL'/> jer vaše računalo pokazuje pogrešno vrijeme što onemogućava sigurno povezivanje.</p> <p>Vrijeme je na vašem računalu postavljeno na <span id='wrongSystemTimeWithoutReference_systemDate'/>. Promijenite vrijeme i datum na vašem računalu kako biste se uspjeli povezati.</p>">
 
 <!ENTITY certerror.pagetitle1  "Nesigurna veza">
+<!ENTITY certerror.pagetitle2  "Upozorenje: potencijalni sigurnosni rizik">
+<!ENTITY certerror.sts.pagetitle  "Nije se spojio: potencijalni sigurnosni problem">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Ova stranica koristi HTTP Strict Transport Security (HSTS) da bi uputila &brandShortName; da uspostavi sigurnu vezu. Rezultat toga je onemogućeno dodavanje iznimke za ovaj certifikat.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> provodi sigurnosnu politiku koja se zove HTTP Strict Transport Security (HSTS), što znači da se &brandShortName; može s njom samo sigurno povezati. Ne možete dodati sigurnosnu iznimku kako biste posjetili ovu web stranicu.">
 <!ENTITY certerror.copyToClipboard.label "Kopiraj tekst u međuspremnik">
 
 <!ENTITY inadequateSecurityError.title "Vaša veza nije sigurna">
@@ -146,6 +165,7 @@ was trying to connect. -->
 
 <!ENTITY blockedByPolicy.title "Blokirana stranica">
 
+<!ENTITY certerror.mitm.title "Program spriječava &brandShortName; da se sigurno poveže s ovom stranicom">
 
 <!ENTITY clockSkewError.title "Sat na računalu je pogrešan">
 
