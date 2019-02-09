@@ -55,6 +55,7 @@ policy-HardwareAcceleration = 若为 false，将会关闭硬件加速。
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = 设置主页，可选择锁定。
 policy-InstallAddonsPermission = 允许特定网站安装附加组件。
+policy-NetworkPrediction = 启用或禁用网络预测（DNS 预读取）功能。
 policy-NoDefaultBookmarks = 禁止创建 { -brand-short-name } 捆绑的默认书签以及智能书签（最常访问、最近使用的标签）。注意：此策略仅在配置文件首次运行时生效。
 policy-OfferToSaveLogins = 强制 { -brand-short-name } 设置为记住登录账号和密码。 接受 true 和 false 值。
 policy-OverrideFirstRunPage = 覆盖首次运行页面。如果您想禁用首次运行页面，将此策略设为空白。
