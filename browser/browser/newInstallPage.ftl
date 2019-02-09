@@ -11,6 +11,7 @@ title = Tärkeitä uutisia
 heading = Muutoksia { -brand-short-name }-profiiliisi
 changed-title = Mikä on muuttunut?
 changed-desc-profiles = Tällä { -brand-short-name }-asennuksella on uusi profiili. Profiili on joukko tiedostoja, johon Firefox tallentaa muun muassa kirjanmerkkejä, salasanoja ja käyttäjän asetuksia.
+resources = Resurssit:
 sync-header = Kirjaudu sisään tai luo { -fxaccount-brand-name }
 sync-label = Anna sähköpostiosoitteesi
 sync-input =
