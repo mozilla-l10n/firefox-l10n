@@ -45,6 +45,7 @@ policy-DNSOverHTTPS = Configura DNS over HTTPS.
 policy-DontCheckDefaultBrowser = Disattiva il controllo del browser predefinito all’avvio.
 policy-EnableTrackingProtection = Attiva o disattiva il blocco contenuti ed eventualmente impedisci modifiche all’opzione.
 policy-Extensions = Installa, disinstalla o blocca estensioni. L’opzione per installare richiede URL o percorsi come parametri. L’opzione per disinstallare o bloccare richiede gli ID delle estensioni.
+policy-ExtensionUpdate = Attiva o disattiva l’aggiornamento automatico delle estensioni.
 policy-FlashPlugin = Consenti o nega l’utilizzo del plugin Flash.
 policy-HardwareAcceleration = Se “false”, disattiva l’accelerazione hardware.
 policy-Homepage = Imposta la pagina iniziale ed eventualmente impedisci modifiche all’opzione.
