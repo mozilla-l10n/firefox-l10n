@@ -67,17 +67,18 @@
  -->
 <!ENTITY updateApp.version.pre           "Inačica ">
 <!ENTITY updateApp.version.post          "">
+<!ENTITY updateAppAllow.description      "Dozvoli &brandShortName; da">
 <!ENTITY updateAuto.label                "Automatski instaliraj dopune (preporučeno: poboljšana sigurnost)">
 <!ENTITY updateAuto.accesskey            "A">
 <!ENTITY updateCheck.label               "Provjeri dostupnost dopuna, ali mi ponudi želim li ih instalirati">
 <!ENTITY updateCheck.accesskey           "d">
-<!ENTITY updateManual.label              "Nikada ne provjeravaj dostupnost dopuna (nije preporučeno: sigurnosni rizik)">
-<!ENTITY updateManual.accesskey          "N">
 <!ENTITY updateHistory.label             "Prikaži povijest ažuriranja">
 <!ENTITY updateHistory.accesskey         "P">
 
 <!ENTITY useService.label                "Koristi pozadinski proces za instalaciju nadogradnji">
 <!ENTITY useService.accesskey            "K">
+
+<!ENTITY updateCrossUserSettingWarning.description "Ove postavke će se primijeniti na sve Windows račune i &brandShortName; profile koji koriste ovu &brandShortName; instalaciju.">
 
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Postavke…">
