@@ -676,6 +676,7 @@ content-blocking-all-windows-trackers = Poznati pratitelji u svim prozorima
 content-blocking-all-third-party-cookies = Svi kolačići trećih strana
 content-blocking-warning-title = Upozorenje!
 content-blocking-warning-desc = Blokiranje kolačića i pratitelja može dovesti do grešaka na nekim stranicama. Lako je onemogućiti blokiranje na stranicama kojima vjerujete.
+content-blocking-warning-description = Blokiranje sadržaja može uzrokovati greške u prikazu nekih web stranica. Lako možete isključiti blokiranje na stranicama kojima vjerujete.
 content-blocking-learn-how = Saznajte kako
 content-blocking-trackers-label =
     .label = Pratitelji
@@ -690,6 +691,15 @@ content-blocking-tracking-protection-change-block-list = Promijenite popis bloki
 content-blocking-cookies-label =
     .label = Kolačići
     .accesskey = K
+# Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
+content-blocking-cryptominers-label =
+    .label = Kripto rudari
+    .accesskey = K
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+content-blocking-fingerprinters-label =
+    .label = Jedinstveni otisci
+    .accesskey = J
 
 ## Privacy Section - Tracking
 
