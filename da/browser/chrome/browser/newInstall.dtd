@@ -12,4 +12,4 @@
 <!ENTITY sync "Log ind med din &syncBrand.fxAccount.label; for at synkronisere oplysninger, du allerede har gemt til Firefox, med denne installation af &brandShortName;.">
 <!ENTITY continue-button "Fortsæt">
 
-<!ENTITY mainText "Denne installation af &brandShortName; har en ny profil. Profilen deler ikke bogmærker, adgangskoder og bruger-indstillinger med andre Firefox-installationer  på denne computer (inklusive Firefox, Firefox ESR, Firefox Beta, Firefox Developer Edition og Firefox Nightly).">
+<!ENTITY mainText "Denne installation af &brandShortName; har en ny profil. Profilen deler ikke bogmærker, adgangskoder og bruger-indstillinger med andre Firefox-installationer på denne computer (inklusive Firefox, Firefox ESR, Firefox Beta, Firefox Developer Edition og Firefox Nightly).">
