@@ -290,15 +290,12 @@
 <!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
      Similar to the already existing "pref_whats_new_notification_summary"-->
 <!ENTITY pref_feature_tips_notification_summary "מידע נוסף על השימוש ב&brandShortName; ובמוצרים אחרים של &vendorShortName;">
-<!-- Localization note (pref_feature_tips_notification_enabling_hint):
-     Describe the action the user should do to enable this preference
-     Will be used in the context "<Turn on> ... to enable this feature" -->
-<!ENTITY pref_feature_tips_notification_enabling_hint "הפעלה">
-
 <!-- Localization note (pref_feature_tips_notification_enabling_path):
      Nothing to translate. Simple concatenation of already localized strings. Result is used below. -->
+<!ENTITY pref_feature_tips_notification_enabling_path "&pref_category_privacy_short; > &pref_category_datareporting; > &datareporting_fhr_title;">
 <!-- Localization note (pref_feature_tips_notification_enabling_hint):
      Describe the action the user should do to enable this preference. -->
+<!ENTITY pref_feature_tips_notification_enabling_hint2 "(כדי להפעיל את אפשרות זו, יש להפעיל &pref_feature_tips_notification_enabling_path;.)">
 
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
@@ -902,17 +899,12 @@ Picture-in-picture mini window -->
 <!ENTITY pip_pause_button_description "השהיית הניגון">
 
 <!-- Notification channels names -->
-<!ENTITY default_notification_channel "&brandShortName;">
-
-<!-- Notification channels names -->
 <!ENTITY default_notification_channel2 "דפדפן">
 <!ENTITY mls_notification_channel "שירות המיקום של &vendorShortName;">
 <!ENTITY download_notification_channel "הורדות">
-<!ENTITY media_notification_channel "ניגון מדיה">
-<!-- These push notifications come without a specific channel and/or name from Leanplum -->
-<!ENTITY leanplum_default_notifications_channel "התרעות דחיפה של &brandShortName;">
 <!ENTITY media_notification_channel2 "שמע ווידאו">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
+<!ENTITY leanplum_default_notifications_channel2 "טיפים וטריקים עבור &vendorShortName;">
 <!ENTITY updater_notification_channel "עדכוני יישומון">
 <!ENTITY synced_tabs_notification_channel "לשוניות מסונכרנות">
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
