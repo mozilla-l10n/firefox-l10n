@@ -17,7 +17,7 @@ policy-BlockAboutConfig = Blokker tilgang til about:config-sida.
 policy-BlockAboutProfiles = Blokker tilgang til about:profiles-sida.
 policy-BlockAboutSupport = Blokker tilgang til about:support-sida.
 policy-Bookmarks = Opprett bokmerke i bokmerkeverktøylinja, i bokmerkermenyen eller ei nærmare spesifisert mappe i dei.
-policy-Certificates = Om innebygde sertifikat skal brukast eller ikkje. Denne policyen gjeld berre for Windows akkurat no.
+policy-CaptivePortal = Aktiver eller deaktiver støtte for captive portal.
 policy-CertificatesDescription = Legg til sertifikat eller bruk innebygde sertifikat.
 policy-Cookies = Tillat eller nekt nettsider å lagre infokapslar.
 policy-DisableAppUpdate = Hindre oppdatering av nettlesaren.
@@ -37,7 +37,6 @@ policy-DisableProfileImport = Deaktiver meny-kommandoen for å importere data fr
 policy-DisableProfileRefresh = Deaktiver knappen Tilbakestill { -brand-short-name } på sida about:support.
 policy-DisableSafeMode = Deaktiver funksjonen for å starte på nytt i trygg modus. NB: Deaktivering av tasten skift for å starte trygg modus kan berre gjennomførast i Windows via gruppepolicy.
 policy-DisableSecurityBypass = Hindre brukaren frå å å omgå visse sikkerheitsåtvaringar.
-policy-DisableSetDesktopBackground = Deaktiver menykommandoen Bruk bilde som skrivebordsbakgrunn.
 policy-DisableSetAsDesktopBackground = Deaktiver menykommandoen Bruk som skrivebordsbakgrunn for bilde.
 policy-DisableSystemAddonUpdate = Hindre at nettlesaren installerer og oppdaterer systemtillegg.
 policy-DisableTelemetry = Slå av av telemetri.
@@ -56,6 +55,7 @@ policy-HardwareAcceleration = Om inaktiv, slå av maskinvareakselerasjon.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Still inn og eventuelt lås startsida.
 policy-InstallAddonsPermission = Tillat visse nettsider å installere tillegg.
+policy-NetworkPrediction = Aktiver eller deaktiver nettverkspredikering (DNS-prefetch).
 policy-NoDefaultBookmarks = Deaktiver oppretting av standardbokmerke, som følgjer med { -brand-short-name }, samt dei smarte bokmerka (Mest besøkte, Siste brukte etikettar). NB: Denne policyen fungerer berre om han er aktivert før profilen vert brukt for første gong.
 policy-OfferToSaveLogins = Tving innstillinga til å tillate { -brand-short-name } å kunne kome i hug lagra innloggingar og passord. Både true- og falseverdiar er godkjende.
 policy-OverrideFirstRunPage = Erstatt sida som vert vist ved første oppstart. La policyen vere tom, viss sida ved første oppstart skal deaktiverast.
@@ -69,5 +69,7 @@ policy-SearchBar = Spesifiser standardplassering for søkjefeltet. Brukaren kan 
 policy-SearchEngines = Konfigurer søkjemotorinnstillingar. Denne policyen er kun tilgjengeleg for Extended Support Release (ESR).
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Installer PKCS #11-modular.
+policy-SSLVersionMax = Still inn den maksimale SSL-versjonen.
+policy-SSLVersionMin = Still inn den minimale SSL-versjonen.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Blokker besøk på nettsider. Les dokumentasjonen for detaljer om formatet.
