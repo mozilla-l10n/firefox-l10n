@@ -17,7 +17,7 @@ policy-BlockAboutConfig = Bloccar l'access a la pagina about:config.
 policy-BlockAboutProfiles = Bloccar l'access a la pagina about:profiles.
 policy-BlockAboutSupport = Bloccar l'access a la pagina about:support.
 policy-Bookmarks = Crear segnapaginas en la trav da segnapaginas, en il menu da segnapaginas u en in da lur sutordinaturs.
-policy-Certificates = Utilisar u betg utilisar certificats integrads. Questa directiva è per il mument mo disponibla per Windows.
+policy-CaptivePortal = Activar u deactivar il sustegn per captive portal.
 policy-CertificatesDescription = Agiuntar certificats u utilisar certificats predefinids.
 policy-Cookies = Permetter u scumandar a websites da definir cookies.
 policy-DisableAppUpdate = Impedir l'actualisaziun dal navigatur.
@@ -37,7 +37,6 @@ policy-DisableProfileImport = Deactivar il punct da menu per importar datas dad 
 policy-DisableProfileRefresh = Deactivar il buttun da redefinir { -brand-short-name } sin la pagina about:support.
 policy-DisableSafeMode = Deactivar la funcziun da reaviar en il modus segirà. Remartga: la tasta per maiusclas che po servir per entrar en il modus segirà po mo vegnir deactivada en Windows cun agid da directivas da gruppa.
 policy-DisableSecurityBypass = Impedir che l'utilisader ignoreschia tscherts avis da segirezza.
-policy-DisableSetDesktopBackground = Deactivar il punct da menu per definir la grafica sco culissa dal desktop.
 policy-DisableSetAsDesktopBackground = Deactivar il punct da menu «Definir sco culissa» (dal desktop) per graficas.
 policy-DisableSystemAddonUpdate = Impedir ch'il navigatur installeschia ed actualiseschia supplements dal sistem.
 policy-DisableTelemetry = Deactivar la telemetria.
@@ -49,14 +48,14 @@ policy-DontCheckDefaultBrowser = Deactivar la controlla dal navigatur da standar
 policy-EnableTrackingProtection = Activar u deactivar la bloccada da cuntegn e tut tenor basegn impedir la modificaziun da l'opziun.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
-# English or translate them as verbs. See also:
-# https://github.com/mozilla/policy-templates/blob/master/README.md#extensions-machine-only
+# English or translate them as verbs.
 policy-Extensions = Installar, deinstallar u bloccar extensiuns. L'opziun «Installar» pretenda URLs u percurs sco parameters. Las opziuns «Deinstallar» e «Bloccar» pretendan IDs dad extensiuns.
 policy-FlashPlugin = Permetter u scumandar l'utilisaziun dal plug-in Flash.
 policy-HardwareAcceleration = Sche «false», deactivar l'acceleraziun cun agid da la hardware.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Definir la pagina da partenza e tut tenor basegn impedir la modificaziun da l'opziun.
 policy-InstallAddonsPermission = Permetter a tschertas websites dad installar supplements.
+policy-NetworkPrediction = Activar u deactivar «network prediction» (prelectura DNS).
 policy-NoDefaultBookmarks = Deactivar la creaziun dals segnapaginas predefinids da { -brand-short-name } ed ils segnapaginas intelligents (Visità il pli savens, Chavazzins utilisads dacurt). Remartga: questa directiva ha mo effect sch'ella vegn utilisada avant ch'il profil vegn avert l'emprima giada.
 policy-OfferToSaveLogins = Gestiunar la dumonda en { -brand-short-name } da memorisar las infurmaziuns d'annunzia. Omaduas valurs, «true» e «false», èn validas.
 policy-OverrideFirstRunPage = Surscriver la pagina che vegn mussada suenter avair avià l'emprima giada. Definir questa directiva cun ina valur vida per deactivar la pagina.
@@ -70,6 +69,7 @@ policy-SearchBar = Definir l'adressa da standard da la trav da tschertgar. L'uti
 policy-SearchEngines = Configurar ils parameters da maschinas da tschertgar. Questa directiva è mo disponibla en la versiun Extended Support Release (ESR).
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Installar moduls PKCS #11.
-# “format” refers to the format used for the value of this policy. See also:
-# https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
+policy-SSLVersionMax = Definir la versiun maximala da SSL.
+policy-SSLVersionMin = Definir la versiun minimala da SSL.
+# “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Impedir l'access a tschertas websites. Consultar la documentaziun per ulteriuras infurmaziuns davart il format.

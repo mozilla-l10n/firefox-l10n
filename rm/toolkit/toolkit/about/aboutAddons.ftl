@@ -93,6 +93,15 @@ detail-update-automatic =
 detail-update-manual =
     .label = Deactivà
     .tooltiptext = Betg installar automaticamain las actualisaziuns
+# Used as a description for the option to allow or block an add-on in private windows.
+detail-private-browsing-label = Exequir en fanestras privatas
+detail-private-browsing-description = L'extensiun vegn a funcziunar en fanestras privatas ed avair access a tias activitads online. <label data-l10n-name="detail-private-browsing-learn-more">Ulteriuras infurmaziuns</label>
+detail-private-browsing-on =
+    .label = Permetter
+    .tooltiptext = Activar en il modus privat
+detail-private-browsing-off =
+    .label = Betg permetter
+    .tooltiptext = Deactivar en il modus privat
 detail-home =
     .label = Website
 detail-home-value =
@@ -135,6 +144,7 @@ legacy-warning-show-legacy = Mussar las extensiuns obsoletas
 legacy-extensions =
     .value = Extensiuns obsoletas
 legacy-extensions-description = Questas extensiuns na correspundan betg als standards actuals da { -brand-short-name } ed èn perquai deactivadas. <label data-l10n-name="legacy-learn-more">Vegnir a savair dapli davart las midadas per supplements</label>
+private-browsing-description = Las extensiuns vegnan bloccadas en fanestras privatas tenor la configuraziun predefinida. Quai vul dir ch'ellas na funcziunan betg en il modus privat e ch'ellas n'han là nagin access a tias activitads online. Per pussibilitar ch'ina extensiun vegnia exequida en fanestras privatas, tscherna la carta d'extensiun sutvart e mida il parameter. <label data-l10n-name="private-browsing-learn-more">Ulteriuras infurmaziuns.</label>
 extensions-view-discover =
     .name = Catalog
     .tooltiptext = { extensions-view-discover.name }
@@ -215,8 +225,6 @@ extensions-updates-update-selected =
 
 ## Extension shortcut management
 
-shortcuts-manage =
-    .label = Scursanidas da tastas
 manage-extensions-shortcuts =
     .label = Administrar scursanidas dad extensiuns
     .accesskey = s
@@ -232,5 +240,11 @@ shortcuts-modifier-other = Includer Ctrl u Alt
 shortcuts-invalid = Cumbinaziun nunvalida
 shortcuts-letter = Tippa ina letra
 shortcuts-system = Impussibel da surscriver ina scursanida da { -brand-short-name }
+shortcuts-card-expand-button =
+    { $numberToShow ->
+        [one] Mussar anc { $numberToShow }
+       *[other] Mussar anc { $numberToShow }
+    }
+shortcuts-card-collapse-button = Mussar damain
 go-back-button =
     .tooltiptext = Turnar
