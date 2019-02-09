@@ -166,9 +166,17 @@ was trying to connect. -->
 <!ENTITY blockedByPolicy.title "Blokirana stranica">
 
 <!ENTITY certerror.mitm.title "Program spriječava &brandShortName; da se sigurno poveže s ovom stranicom">
+<!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> je vjerojatno sigurna stranica, ali se ne može uspostaviti sigurna veza s njom. Ovaj problem je uzrokovan od strane <span class='mitm-name'/>, koji je ili program na vašem računalu ili vašoj mreži.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "Ukoliko vaš antivirusni program uključuje mogućnost skeniranja sigurnih veza (koje se često zove “web skeniranje” ili “https skeniranje”), možete isključiti ovu mogućnost. Ukoliko to ne riješi problem, možete ukloniti i ponovno instalirati antivirusni program.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "Ukoliko se nalazite u korporativnoj mreži, možete kontaktirati svoj IT odjel.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "Ukoliko vam <span class='mitm-name'/> nije poznata, ovo bi možda mogao biti napad i ne biste trebali nastaviti na tu stranicu.">
+<!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "Ukoliko vam <span class='mitm-name'/> nije poznata, ovo bi možda mogao biti napad i ne možete ništa učiniti kako biste pristupili stranici.">
 
 <!ENTITY clockSkewError.title "Sat na računalu je pogrešan">
+<!ENTITY clockSkewError.longDesc "Vaše računalo misli da je <span id='wrongSystemTime_systemDate1'/>, što spriječava &brandShortName; da se sigurno poveže. Kako biste posjetili <span class='hostname'></span>, ažurirajte sat vašeg računala na trenutni datum, vrijeme i vremensku zonu, te onda osvježite <span class='hostname'></span>.">
 
 <!ENTITY prefReset.longDesc "Izgleda da vaše postavke sigurnosti mreže možda uzrokuju ovo. Želite li vratiti na početne postavke?">
 <!ENTITY prefReset.label "Vrati početne postavke">
 
+<!ENTITY networkProtocolError.title "Greška mrežnog protokola">
+<!ENTITY networkProtocolError.longDesc "<p>Stranicu kojoj pokušavate pristupiti nije moguće prikazati zbog greške mrežnog protokola.</p><ul><li>Obavijestite vlasnike web stranice o ovom problemu.</li></ul>">
