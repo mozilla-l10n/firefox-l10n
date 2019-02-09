@@ -676,6 +676,7 @@ content-blocking-all-windows-trackers = Žinomi stebėjimo elementai visuose lan
 content-blocking-all-third-party-cookies = Visi trečiųjų šalių slapukai
 content-blocking-warning-title = Dėmesio!
 content-blocking-warning-desc = Užblokavus slapukus ir stebėjimo elementus, gali sutrikti kai kurių svetainių veikimas. Galite lengvai išjungti blokavimą patikimose svetainėse.
+content-blocking-warning-description = Blokuojant turinį gali sutrikti kai kurių svetainių veikimas. Blokavimą galima lengvai išjungti patikimose svetainėse.
 content-blocking-learn-how = Sužinoti kaip
 content-blocking-trackers-label =
     .label = Stebėjimo elementai

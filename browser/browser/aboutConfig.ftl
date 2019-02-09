@@ -17,6 +17,12 @@ about-config-pref-save = Įrašyti
 about-config-pref-reset = Atstatyti
 about-config-pref-delete = Pašalinti
 
+## Labels for the type selection radio buttons shown when adding preferences.
+
+about-config-pref-add-type-boolean = Loginis
+about-config-pref-add-type-number = Skaičius
+about-config-pref-add-type-string = Simbolių eilutė
+
 ## Preferences with a non-default value are differentiated visually, and at the
 ## same time the state is made accessible to screen readers using an aria-label
 ## that won't be visible or copied to the clipboard.
