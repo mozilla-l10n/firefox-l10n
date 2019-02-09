@@ -325,3 +325,11 @@ shortcuts-card-collapse-button = Minder tonen
 
 go-back-button =
     .tooltiptext = Teruggaan
+
+## Add-on actions
+remove-addon-button = Verwijderen
+disable-addon-button = Uitschakelen
+enable-addon-button = Inschakelen
+
+addons-enabled-heading = Ingeschakeld
+addons-disabled-heading = Uitgeschakeld
