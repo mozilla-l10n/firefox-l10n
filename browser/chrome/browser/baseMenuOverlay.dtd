@@ -25,11 +25,8 @@
 
 <!ENTITY helpSafeMode.label       "Pārstartēt ar deaktivētiem papildinājumiem…">
 <!ENTITY helpSafeMode.accesskey   "r">
-<!ENTITY helpSafeMode.stop.label       "Pārstartēt ar deaktivētiem papildinājumiem">
+<!ENTITY helpSafeMode.stop.label       "Pārstartēt ar aktivētiem papildinājumiem">
 <!ENTITY helpSafeMode.stop.accesskey   "r">
-
-<!ENTITY healthReport2.label      "&brandShorterName; stāvokļa ziņojums">
-<!ENTITY healthReport2.accesskey  "t">
 
 <!ENTITY helpTroubleshootingInfo.label      "Problēmu novēršanas informācija">
 <!ENTITY helpTroubleshootingInfo.accesskey  "P">
