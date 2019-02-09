@@ -67,17 +67,18 @@
  -->
 <!ENTITY updateApp.version.pre           "Versiun ">
 <!ENTITY updateApp.version.post          "">
+<!ENTITY updateAppAllow.description      "Permetter a &brandShortName; da">
 <!ENTITY updateAuto.label                "Installar automaticamain actualisaziuns (recumandà, pli segir)">
 <!ENTITY updateAuto.accesskey            "I">
 <!ENTITY updateCheck.label               "Tschertgar actualisaziuns, dentant dumandar sch'ellas duain vegnir installadas">
 <!ENTITY updateCheck.accesskey           "T">
-<!ENTITY updateManual.label              "Mai tschertgar actualisaziuns (betg recumandà, privel da segirezza)">
-<!ENTITY updateManual.accesskey          "N">
 <!ENTITY updateHistory.label             "Mussar la cronologia da las actualisaziuns">
 <!ENTITY updateHistory.accesskey         "c">
 
 <!ENTITY useService.label                "Utilisar in servetsch per installar actualisaziuns senza interrupziun">
 <!ENTITY useService.accesskey            "r">
+
+<!ENTITY updateCrossUserSettingWarning.description "Quest parameter pertutga tut ils contos da Windows e tut ils profils da &brandShortName; che utiliseschan questa installaziun da &brandShortName;.">
 
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Preferenzas…">
