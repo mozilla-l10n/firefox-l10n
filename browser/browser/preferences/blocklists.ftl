@@ -33,6 +33,6 @@ blocklist-item-moz-full-name = Disconnect.me striks beskyttelse.
 blocklist-item-moz-full-desc = Blokerer kendte sporings-elementer. Nogle websteder fungerer måske ikke som de skal.
 
 blocklist-item-moz-std-listName = Blokeringsliste niveau 1 (anbefalet).
-blocklist-item-moz-std-description = Tillader nogle sporings-elementer, så  de fleste websteder fungerer som de skal.
+blocklist-item-moz-std-description = Tillader nogle sporings-elementer, så de fleste websteder fungerer som de skal.
 blocklist-item-moz-full-listName = Blokeringsliste niveau 2.
 blocklist-item-moz-full-description = Blokerer alle kendte sporings-elementer. Dette kan i nogle tilfælde forhindre indlæsning af websteder eller indhold.
