@@ -84,6 +84,8 @@ policy-EnableTrackingProtection = Inhoudsblokkering inschakelen of uitschakelen 
 # English or translate them as verbs.
 policy-Extensions = Extensies installeren, verwijderen of vergrendelen. De optie voor installeren gebruikt URL’s of paden als parameters. De opties voor verwijderen en vergrendelen gebruiken extensie-ID’s.
 
+policy-ExtensionUpdate = Automatische extensie-updates inschakelen of uitschakelen.
+
 policy-FlashPlugin = Gebruik van de Flash-plug-in toestaan of weigeren.
 
 policy-HardwareAcceleration = Wanneer false, hardwareversnelling uitschakelen.
