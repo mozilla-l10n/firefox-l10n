@@ -51,7 +51,7 @@
 
 <!ENTITY safeb.blocked.phishingPage.errorDesc.noOverride "S'ha informat que <span id='phishing_sitename'/> <a id='error_desc_link'>és un lloc maliciós</a>. Podeu <a id='report_detection'>informar d'un error en la detecció</a>.">
 
-<!ENTITY safeb.blocked.phishingPage.learnMore "Per obtenir més informació sobre el programari perillós i indesitjable, visiteu <a id='learn_more_link'>www.antiphishing.org</a>. Per obtenir més informació sobre la protecció contra la pesca electrònica i el programari maliciós del &brandShortName;, visiteu <a id='firefox_support'>support.mozilla.org</a>.">
+<!ENTITY safeb.blocked.phishingPage.learnMore "Per obtenir més informació sobre els llocs maliciosos i la pesca electrònica (phishing), visiteu <a id='learn_more_link'>www.antiphishing.org</a>. Per obtenir més informació sobre la protecció contra la pesca electrònica i el programari maliciós del &brandShortName;, visiteu <a id='firefox_support'>support.mozilla.org</a>.">
 
 
 <!ENTITY safeb.blocked.harmfulPage.title "El lloc web que voleu visitar pot contenir programari maliciós">
