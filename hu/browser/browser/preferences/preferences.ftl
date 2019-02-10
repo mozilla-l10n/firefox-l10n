@@ -673,6 +673,7 @@ content-blocking-all-windows-trackers = Ismert követők minden ablakban
 content-blocking-all-third-party-cookies = Összes harmadik féltől származó süti
 content-blocking-warning-title = Figyelem!
 content-blocking-warning-desc = A sütik és követők blokkolása egyes webhelyek nem megfelelő működését okozhatják. Könnyű letiltani a blokkolása azokon az oldalakon, melyekben megbízik.
+content-blocking-warning-description = A tartalomblokkolás egyes webhelyek hibás működését okozhatja. A blokkolás könnyen letiltható azokon az oldalakon, melyekben megbízik.
 content-blocking-learn-how = Tudja meg, hogyan
 content-blocking-trackers-label =
     .label = Követők
@@ -687,6 +688,15 @@ content-blocking-tracking-protection-change-block-list = Blokkolási lista módo
 content-blocking-cookies-label =
     .label = Sütik
     .accesskey = S
+# Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
+content-blocking-cryptominers-label =
+    .label = Kriptobányászok
+    .accesskey = i
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+content-blocking-fingerprinters-label =
+    .label = Ujjlenyomat-készítők
+    .accesskey = U
 
 ## Privacy Section - Tracking
 

@@ -17,6 +17,12 @@ about-config-pref-save = Mentés
 about-config-pref-reset = Visszaállítás
 about-config-pref-delete = Törlés
 
+## Labels for the type selection radio buttons shown when adding preferences.
+
+about-config-pref-add-type-boolean = Logikai
+about-config-pref-add-type-number = Szám
+about-config-pref-add-type-string = Karakterlánc
+
 ## Preferences with a non-default value are differentiated visually, and at the
 ## same time the state is made accessible to screen readers using an aria-label
 ## that won't be visible or copied to the clipboard.
