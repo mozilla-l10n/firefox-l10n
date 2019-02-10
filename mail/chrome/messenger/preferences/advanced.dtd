@@ -67,17 +67,18 @@
  -->
 <!ENTITY updateApp.version.pre           "Versió ">
 <!ENTITY updateApp.version.post          "">
+<!ENTITY updateAppAllow.description      "Opcions d'actualització del &brandShortName;">
 <!ENTITY updateAuto.label                "Instal·la les actualitzacions automàticament (és l'opció recomanada per seguretat)">
 <!ENTITY updateAuto.accesskey            "a">
 <!ENTITY updateCheck.label               "Cerca actualitzacions, però demana'm si vull instal·lar-les">
 <!ENTITY updateCheck.accesskey           "C">
-<!ENTITY updateManual.label              "No cerquis mai actualitzacions (poc recomanable pel risc de seguretat que comporta)">
-<!ENTITY updateManual.accesskey          "N">
 <!ENTITY updateHistory.label             "Mostra l'historial d'actualitzacions">
 <!ENTITY updateHistory.accesskey         "h">
 
 <!ENTITY useService.label                "Instal·la les actualitzacions en segon pla">
 <!ENTITY useService.accesskey            "s">
+
+<!ENTITY updateCrossUserSettingWarning.description "Aquest paràmetre s'aplicarà a tots els comptes del Windows i perfils del &brandShortName; que utilitzin aquesta instal·lació del &brandShortName;.">
 
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Paràmetres…">
