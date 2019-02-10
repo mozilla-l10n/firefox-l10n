@@ -16,6 +16,8 @@ extensions-version = Inačica
 extensions-id = ID
 security-software-type = Vrsta
 security-software-name = Naziv
+security-software-antivirus = Antivirus
+security-software-firewall = Vatrozid
 features-title = { -brand-short-name } mogućnosti
 features-name = Naziv
 features-version = Inačica
@@ -163,6 +165,7 @@ hardware-h264 = Hardversko H264 dekodiranje
 main-thread-no-omtc = glavna nit, bez OMTC
 yes = Da
 no = Ne
+unknown = Nepoznato
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
