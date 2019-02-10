@@ -106,7 +106,7 @@ permissions-site-notification-window =
 permissions-site-notification-desc = Els llocs web següents han sol·licitat enviar-vos notificacions. Podeu indicar quins llocs web tenen permís per enviar-vos notificacions. També podeu blocar les noves sol·licituds de permetre notificacions.
 permissions-site-notification-disable-label =
     .label = Bloca les noves sol·licituds de permetre les notificacions
-permissions-site-notification-disable-desc = Això impedirà que els llocs web que no estiguin en aquesta llista us sol·licitin permís per enviar notificacions. Blocar les notificacions podria fer que algunes funcions del llocs web no funcionin correctament.
+permissions-site-notification-disable-desc = Això impedirà que els llocs web que no estiguin en aquesta llista us sol·licitin permís per enviar notificacions. Blocar les notificacions podria fer que algunes funcions dels llocs web no funcionin correctament.
 
 ## Site Permissions - Location
 
@@ -116,7 +116,7 @@ permissions-site-location-window =
 permissions-site-location-desc = Els llocs web següents han sol·licitat accés a la vostra ubicació. Podeu indicar quins llocs web tenen permís per accedir a la vostra ubicació. També podeu blocar les noves sol·licituds d'accedir a la vostra ubicació.
 permissions-site-location-disable-label =
     .label = Bloca les noves sol·licituds d'accés a la vostra ubicació
-permissions-site-location-disable-desc = Això impedirà que els llocs web que no estiguin en aquesta llista us sol·licitin permís per accedir a la vostra ubicació. Blocar l'accés a la vostra ubicació podria fer que algunes funcions del llocs web no funcionin correctament.
+permissions-site-location-disable-desc = Això impedirà que els llocs web que no estiguin en aquesta llista us sol·licitin permís per accedir a la vostra ubicació. Blocar l'accés a la vostra ubicació podria fer que algunes funcions dels llocs web no funcionin correctament.
 
 ## Site Permissions - Camera
 
@@ -126,7 +126,7 @@ permissions-site-camera-window =
 permissions-site-camera-desc = Els llocs web següents han sol·licitat accés a la càmera. Podeu indicar quins llocs web tenen permís per accedir a la càmera. També podeu blocar les noves sol·licituds d'accedir a la càmera.
 permissions-site-camera-disable-label =
     .label = Bloca les noves sol·licituds d'accés a la càmera
-permissions-site-camera-disable-desc = Això impedirà que els llocs web que no estiguin en aquesta llista us sol·licitin permís per accedir a la càmera. Blocar l'accés a la càmera podria fer que algunes funcions del llocs web no funcionin correctament.
+permissions-site-camera-disable-desc = Això impedirà que els llocs web que no estiguin en aquesta llista us sol·licitin permís per accedir a la càmera. Blocar l'accés a la càmera podria fer que algunes funcions dels llocs web no funcionin correctament.
 
 ## Site Permissions - Microphone
 
@@ -136,4 +136,4 @@ permissions-site-microphone-window =
 permissions-site-microphone-desc = Els llocs web següents han sol·licitat accés al micròfon. Podeu indicar quins llocs web tenen permís per accedir al micròfon. També podeu blocar les noves sol·licituds d'accedir al micròfon.
 permissions-site-microphone-disable-label =
     .label = Bloca les noves sol·licituds d'accés al micròfon
-permissions-site-microphone-disable-desc = Això impedirà que els llocs web que no estiguin en aquesta llista us sol·licitin permís per accedir al micròfon. Blocar l'accés al micròfon podria fer que algunes funcions del llocs web no funcionin correctament.
+permissions-site-microphone-disable-desc = Això impedirà que els llocs web que no estiguin en aquesta llista us sol·licitin permís per accedir al micròfon. Blocar l'accés al micròfon podria fer que algunes funcions dels llocs web no funcionin correctament.
