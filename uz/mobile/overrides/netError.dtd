@@ -7,8 +7,8 @@
 
 <!ENTITY loadError.label "Sahifani yuklashda muammo">
 <!ENTITY retry.label "Yana urinib ko'rish">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Ulana olmadi">
 <!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
@@ -80,9 +80,9 @@
 
 <!ENTITY nssBadCert.title "Xavfsiz ulanib bo‘lmadi">
 <!ENTITY nssBadCert.longDesc2 "<ul> <li>Muammoga sabab serverning sozlanishi yoki kimnidir serverni buzishga urinishi bo‘lishi mumkin.</li> <li>Agar serverga oldinroq ulana olgan bo‘lsangiz, xato vaqtinchalik bo‘lishi va keyinroq yana urinib ko‘rishingiz mumkin bo‘ladi.</li> </ul>">
+
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-
 <!ENTITY sharedLongDesc3 "<ul> <li>Sayt vaqtinchalik ishlamayapti yoki juda band. Bir necha daqiqadan keyin urinib ko‘ring.</li> <li>Agar birorta ham sahifa yuklanmasa, telefoningizning mobil internetga  yoki Wi-Fi tarmoqqa ulanishini tekshirib ko‘ring. <button id='wifi'>Wi-Fi tarmog‘ini yoqish</button> </li> </ul>">
 
 <!ENTITY cspBlocked.title "Kontent xavfsizlik nazorati tomonidan to‘sib qo‘yilgan">
@@ -94,11 +94,11 @@
 <!ENTITY securityOverride.linkText "Yoki siz istisno qo‘shishingiz mumkin.">
 <!ENTITY securityOverride.getMeOutOfHereButton "Bu yerdan ketaman!">
 <!ENTITY securityOverride.exceptionButtonLabel "Istisno qo‘shish...">
+
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
-
 
 <!ENTITY securityOverride.warningContent "<p>O‘zingiz ishonmaydigan internetga ulanishdan foydalansangiz yoki ushbu server uchun ogohlantirishlarni ko‘rishdan foydalanmasangiz, istisnolar qo‘shmasligingiz kerak .</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
@@ -119,3 +119,6 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> hujumlarga chidamsiz va eskirgan xavfsizlik texnonolgiyasidan foydalanadi. Xakker siz xavfsiz deb o‘ylaydigan ma’lumotlarni osongina ochib ko‘rishi mumkin. Siz saytga kira olishingiz uchun avvalo sayt administratori serverni to‘g‘rilashi kerak.</p><p>Xatolik kodi: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+<!ENTITY networkProtocolError.title "Tarmoq protokolida xatolik bor">
+<!ENTITY networkProtocolError.longDesc "<p>Siz koʻrmoqchi boʻlgan sahifani koʻrsatib boʻlmaydi, chunki tarmoq protokolida xato aniqlandi.</p><ul><li>Ushbu muammo haqida xabar berish uchun sayt egasi bilan bogʻlaning.</li></ul>">
