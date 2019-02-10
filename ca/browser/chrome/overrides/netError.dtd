@@ -113,7 +113,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "
 <p>Segons el rellotge del vostre ordinador, la data i l'hora actuals són: <span id='wrongSystemTime_systemDate2'/>. Assegureu-vos que l'ordinador tingui definits l'hora, data i fus horari correctes als paràmetres del sistema i, a continuació, torneu a carregar <span class='hostname'/>.</p>
-<p>Si el l'hora del rellotge és correcta, és probable que el lloc web estigui mal configurat i no hi podeu fer res per resoldre-ho. Podeu notificar el problema a l'administrador del lloc web.</p>
+<p>Si l'hora del rellotge és correcta, és probable que el lloc web estigui mal configurat i no hi podeu fer res per resoldre-ho. Podeu notificar el problema a l'administrador del lloc web.</p>
 ">
 
 <!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "
