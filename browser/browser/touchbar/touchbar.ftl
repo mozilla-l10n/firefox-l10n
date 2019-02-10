@@ -6,7 +6,15 @@
 # MacBook Touch Bar.
 back = Назад
 forward = Наперад
+reload = Абнавіць
+home = Дадому
+fullscreen = Увесь экран
+find = Шукаць
 new-tab = Новая картка
 add-bookmark = Дадаць закладку
 open-bookmarks-sidebar = Адкрыць бакавую панэль закладак
-focus = Закрыць
+reader-view = Рэжым чытання
+# Meant to match the string displayed in an empty URL bar.
+open-location = Увядзіце запыт або адрас
+share = Падзяліцца
+close-window = Закрыць акно
