@@ -4,8 +4,6 @@
 
 do-not-track-description = ان ویبسائٹس پر ٹریک نہ کریں سگنل بھیجیں جس سے آپ ٹریک نہ ہو سکے
 do-not-track-learn-more = مزید سیکھیں
-do-not-track-option-default =
-    .label = صرف جب سراغ کاری حفاظت استعمال کر رہے ہوں
 do-not-track-option-always =
     .label = ہمیشہ
 pref-page =
@@ -504,12 +502,6 @@ history-clear-button =
 
 sitedata-header = کوکیاں اور سائٹ کے کواِئف
 sitedata-learn-more = مزید سیکھیں
-sitedata-keep-until = رکھیں جب تک
-    .accesskey = u
-sitedata-keep-until-expire =
-    .label = وہ ختم ہو تے ہیں
-sitedata-keep-until-closed =
-    .label = { -brand-short-name } بند ہے
 sitedata-allow-cookies-option =
     .label = کوکیز اور سائٹ کا ڈیٹا قبول کریں
     .accesskey = A
@@ -520,12 +512,6 @@ sitedata-disallow-cookies-option =
 # The list items are the strings named sitedata-block-*-option*.
 sitedata-block-desc = بلاک کی ہوئی مواد
     .accesskey = T
-sitedata-block-trackers-option-recommended =
-    .label = تیسری تنظیم کے ٹریکرس (سفارش شدا)
-sitedata-block-trackers-option =
-    .label = تیسری تنظیم کے ٹریکرس
-sitedata-block-all-third-party-option =
-    .label = سارے تیسری تنظیم کے کوکیز(ویب سائٹس توڑنے کا سبب بن سکتا ہے)
 sitedata-option-block-trackers =
     .label = تیسری تنظیم کے ٹریکر
 sitedata-clear =
@@ -534,9 +520,6 @@ sitedata-clear =
 sitedata-settings =
     .label = کوائف… بندرست کریں
     .accesskey = M
-sitedata-cookies-exceptions =
-    .label = استثنیات…
-    .accesskey = E
 
 ## Privacy Section - Address Bar
 
@@ -557,36 +540,6 @@ addressbar-suggestions-settings = تلاش کے انجن کی تجاویز کے 
 
 content-blocking-header = مواد روکنا
 content-blocking-learn-more = مزید سیکھیں
-content-blocking-restore-defaults =
-    .label = طےشدہ بحال کریں
-    .accesskey = R
-content-blocking-toggle-on =
-    .tooltiptext = مواد روکنابند کریں
-content-blocking-toggle-off =
-    .tooltiptext = مواد روکناشرو کریں
-content-blocking-toggle-label-on = چالو
-    .accesskey = O
-content-blocking-toggle-label-off = بند
-    .accesskey = O
-content-blocking-category-label = چنیں کیا بلاک کرنا ہے
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-slow-loading-trackers-label =
-    .label = آہستہ لوڈ ہونے والے ٹریکرس
-    .accesskey = S
-content-blocking-tracking-protection-trackers-label =
-    .label = ٹریکرس
-    .accesskey = T
-content-blocking-tracking-protection-all-detected-trackers-label =
-    .label = تمام ٹریکرس کا پتا لگا
-    .accesskey = T
-content-blocking-tracking-protection-option-always =
-    .label = ہمیشہ
-    .accesskey = A
-content-blocking-tracking-protection-option-private =
-    .label = صرف نجی ونڈوں میں
-    .accesskey = p
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 content-blocking-setting-standard =
@@ -600,6 +553,7 @@ content-blocking-setting-custom =
     .accesskey = C
 content-blocking-custom-desc = چنیں کیا بلاک کرنا ہے
 content-blocking-all-third-party-cookies = سارے تیسری تنظیم کے کوکیز
+content-blocking-warning-title = دھیان دیں!
 content-blocking-learn-how = جانیں کہ کس طرح
 content-blocking-trackers-label =
     .label = ٹریکرس
@@ -611,43 +565,12 @@ content-blocking-option-private =
     .label = صرف نجی ونڈوں میں
     .accesskey = p
 content-blocking-tracking-protection-change-block-list = بلاک فہرست تبدیل کریں
-content-blocking-third-party-cookies-label =
-    .label = تیسری تنظیم کے کوکیز
-    .accesskey = C
-content-blocking-change-cookie-settings =
-    .label = کوکی ترتیبات تبدیل کریں
-    .accesskey = S
-content-blocking-reject-trackers-block-trackers-option-recommended =
-    .label = ٹریکرس (سفارش شدا)
-    .accesskey = k
-content-blocking-reject-trackers-block-trackers-option =
-    .label = ٹریکرس
-    .accesskey = k
-content-blocking-reject-trackers-all-third-parties-option =
-    .label = سارے تیسری تنظیم کے کوکیز(ویب سائٹس توڑنے کا سبب بن سکتا ہے)
-    .accesskey = A
 content-blocking-cookies-label =
     .label = کوکیز
     .accesskey = C
 
 ## Privacy Section - Tracking
 
-tracking-header = سراغ کاری حفاظت
-tracking-mode-always =
-    .label = ہمیشہ
-    .accesskey = y
-tracking-mode-private =
-    .label = صرف نجی ونڈوں میں
-    .accesskey = I
-tracking-mode-never =
-    .label = کبھی نہیں
-    .accesskey = N
-tracking-exceptions =
-    .label = استثنیات…
-    .accesskey = x
-tracking-change-block-list =
-    .label = بلاک فہرست تبدیل کریں۔۔۔
-    .accesskey = C
 
 ## Privacy Section - Permissions
 

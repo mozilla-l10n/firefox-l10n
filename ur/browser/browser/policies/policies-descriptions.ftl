@@ -35,6 +35,7 @@ policy-DisplayBookmarksToolbar = بک مارک ٹولبار طے شدہ طور �
 policy-DisplayMenuBar = مینوبار طے شدہ طور پر ظاہر کریں۔
 policy-DNSOverHTTPS = HTTPS پرDNS ترتیب کریں۔
 policy-FlashPlugin = Flash پلگ ان کے استعمال کا اجازت دینے یا انکار کریں۔
+policy-HardwareAcceleration = غلط ہونے کی صورت میں ہارڈویئر تیز رفتاری کو بند کریں۔
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = ابتدائی صفحہ سیٹ کریں اور اختیاری طور پر تالا بندی کرِں۔
 policy-InstallAddonsPermission = چند ویب سائٹص کو اظافہ جات کی تنسیب کاری کی اجازت دیں۔
