@@ -55,6 +55,7 @@ policy-HardwareAcceleration = Wannear false, hardwarefersnelling útskeakelje.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = De startside ynstelle en opsjoneel beskoattelje.
 policy-InstallAddonsPermission = Tastean dat bepaalde websites add-ons ynstallearje.
+policy-NetworkPrediction = ‘Network prediction’ (DNS prefetching) ynskeakelje of útskeakelje.
 policy-NoDefaultBookmarks = Oanmeitsjen fan de standertblêdwizers dy't mei { -brand-short-name } mei levere wurde útskeakelje, krekt as de Tûke blêdwizers (Meast besocht, Resinte labels). Noat: dizze beliedsregel is allinnich fan krêft by gebrûk derfan eardat it profyl foar it earst útfierd wurdt.
 policy-OfferToSaveLogins = De ynstelling foar it tastean dat { -brand-short-name } mei oanbiede bewarre oanmeldingen en wachtwurden te ûnthâlde ôftwinge. Sawol de wearde true as false wurdt akseptearre.
 policy-OverrideFirstRunPage = De side dy't foar it earst iepene wurdt ferfange. Stel dizze beliedsregel yn op leech as jo de oanbelangjende side útskeakelje wolle.
