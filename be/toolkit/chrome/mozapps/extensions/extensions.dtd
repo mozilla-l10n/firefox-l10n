@@ -23,10 +23,10 @@
 <!ENTITY cmd.showPreferencesUnix.label        "Налады">
 <!ENTITY cmd.showPreferencesUnix.tooltip      "Змяненне налад гэтага дадатка">
 
-<!ENTITY cmd.showReleaseNotes.label           "Пабачыць заўвагі пра выданне">
-<!ENTITY cmd.showReleaseNotes.tooltip         "Паказаць заўвагі пра выданне гэтага абнаўлення">
-<!ENTITY cmd.hideReleaseNotes.label           "Схаваць заўвагі пра выданне">
-<!ENTITY cmd.hideReleaseNotes.tooltip         "Схаваць заўвагі пра выданне гэтага абнаўлення">
+<!ENTITY cmd.showReleaseNotes.label           "Паказаць заўвагі пры выпуску">
+<!ENTITY cmd.showReleaseNotes.tooltip         "Паказаць заўвагі пры выпуску гэтага абнаўлення">
+<!ENTITY cmd.hideReleaseNotes.label           "Схаваць заўвагі пры выпуску">
+<!ENTITY cmd.hideReleaseNotes.tooltip         "Схаваць заўвагі пры выпуску для гэтага абнаўлення">
 <!ENTITY cmd.findReplacement.label            "Знайсці замену">
 
 <!-- download/install progress -->
@@ -61,7 +61,7 @@
 <!ENTITY addon.includeUpdate.label            "Уключыць у абнаўленне">
 <!ENTITY addon.updateAvailable.label          "Даступна абнаўленне">
 <!ENTITY addon.checkingForUpdates.label       "Праверка існавання абнаўленняў…">
-<!ENTITY addon.releaseNotes.label             "Заўвагі пра выданне:">
+<!ENTITY addon.releaseNotes.label             "Заўвагі пры выпуску:">
 <!ENTITY addon.loadingReleaseNotes.label      "Загрузка…">
 <!ENTITY addon.errorLoadingReleaseNotes.label "Прабачце, здарылася памылка падчас загрузкі заўвагаў пра выданне.">
 

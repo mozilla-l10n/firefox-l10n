@@ -676,6 +676,7 @@ content-blocking-all-windows-trackers = Вядомыя трэкеры ва ўс�
 content-blocking-all-third-party-cookies = Усе кукі трэцяга боку
 content-blocking-warning-title = Увага!
 content-blocking-warning-desc = Блакаванне кукаў і трэкераў можа парушыць працу некаторых вэб-сайтаў. Адключыць блакаванне на сайтах, якім вы давяраеце, проста.
+content-blocking-warning-description = Блакаванне змесціва можа парушыць працу некаторых вэб-сайтаў. Адключыць блакаванне на сайтах, якім вы давяраеце, лёгка.
 content-blocking-learn-how = Даведацца, як
 content-blocking-trackers-label =
     .label = Трэкеры
@@ -690,6 +691,15 @@ content-blocking-tracking-protection-change-block-list = Змяніць спіс
 content-blocking-cookies-label =
     .label = Кукі
     .accesskey = К
+# Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
+content-blocking-cryptominers-label =
+    .label = Майнеры крыптавалют
+    .accesskey = н
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+content-blocking-fingerprinters-label =
+    .label = Збіральнікі адбіткаў пальцаў
+    .accesskey = а
 
 ## Privacy Section - Tracking
 

@@ -90,6 +90,15 @@ detail-update-automatic =
 detail-update-manual =
     .label = Выкл.
     .tooltiptext = Не ўсталёўваць абнаўленні аўтаматычна
+# Used as a description for the option to allow or block an add-on in private windows.
+detail-private-browsing-label = Задзейнічаць у прыватных вокнах
+detail-private-browsing-description = Пашырэнне будзе працаваць у прыватных вокнах і мець доступ да вашай актыўнасці ў сеціве. <label data-l10n-name="detail-private-browsing-learn-more">Падрабязней</label>
+detail-private-browsing-on =
+    .label = Дазволіць
+    .tooltiptext = Уключаць у рэжыме прыватнага аглядання
+detail-private-browsing-off =
+    .label = Не дазваляць
+    .tooltiptext = Адключаць у рэжыме прыватнага аглядання
 detail-home =
     .label = Хатняя старонка
 detail-home-value =
@@ -212,8 +221,6 @@ extensions-updates-update-selected =
 
 ## Extension shortcut management
 
-shortcuts-manage =
-    .label = Спалучэнні клавіш
 manage-extensions-shortcuts =
     .label = Кіраваць спалучэннямі клавіш пашырэнняў
     .accesskey = ы
@@ -229,5 +236,12 @@ shortcuts-modifier-other = Улучыце Ctrl або Alt
 shortcuts-invalid = Недапушчальная камбінацыя
 shortcuts-letter = Увядзіце літару
 shortcuts-system = Нельга перавызначыць спалучэнне клавіш { -brand-short-name }
+shortcuts-card-expand-button =
+    { $numberToShow ->
+        [one] Паказаць яшчэ { $numberToShow }
+        [few] Паказаць яшчэ { $numberToShow }
+       *[other] Паказаць яшчэ { $numberToShow }
+    }
+shortcuts-card-collapse-button = Паказаць менш
 go-back-button =
     .tooltiptext = Вярнуцца
