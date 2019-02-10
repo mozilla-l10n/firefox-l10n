@@ -4,6 +4,7 @@
 
 # An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
 about-config-warning-title = Ɣur-k dagi talafsa!
+about-config-warning-text = Asnifel n ismenyifen-agi zemren ad sexṣeren arkad, taɣellist d timellit n usnas-agi. Tzemreḍ kan ad kemleḍ ma yella teẓriḍ ayen tmahaleḍ.
 about-config-warning-checkbox = Mmekti-yi-d tikkelt-nniḍen.
 about-config-warning-button = Gziɣ uguren!
 about-config-title = ɣef:tawila
@@ -18,6 +19,9 @@ about-config-pref-delete = Kkes
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
+about-config-pref-add-type-boolean = Abulan
+about-config-pref-add-type-number = Amḍan
+about-config-pref-add-type-string = Azrir
 
 ## Preferences with a non-default value are differentiated visually, and at the
 ## same time the state is made accessible to screen readers using an aria-label

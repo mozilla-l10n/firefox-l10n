@@ -17,7 +17,6 @@ policy-BlockAboutConfig = Sewḥel anekcum ɣer usebter n about:config.
 policy-BlockAboutProfiles = Sewḥel anekcum ɣer usebter n about:profiles.
 policy-BlockAboutSupport = Sewḥel anekcum ɣer usebter n about:support.
 policy-Bookmarks = Rnu ticraḍ n isebtar deg ufeggag n tecraḍ, Umuɣ n tecraḍ n yisebtar, neɣ deg akaram yellan deg-sen.
-policy-Certificates = Ma yella ad tesqedceḍ iselkinen usliɣen neɣ ala. Akka tura tasertit-agi n Windows.
 policy-CertificatesDescription = Rnu iselkinen neɣ seqdec iselkinen usliɣen.
 policy-Cookies = Sireg neɣ gdel asbadu n inagan n tuqqna i yisebtar.
 policy-DisableAppUpdate = Sewḥel aleqqem n yiminig.
@@ -37,7 +36,6 @@ policy-DisableProfileImport = Kkes umuƔ n tludna akken ad tketreḍ isefka seg 
 policy-DisableProfileRefresh = Kkes taqeffalt n usmiren { -brand-short-name } deg usebter about:support.
 policy-DisableSafeMode = Sens tamhilt n usenker deg uskar aɣelsan. Awennit: Di Windows, anekcum Ɣer uskar aƔelsan s usiti Ɣef Shift izmer ad yettwasens kan s useqdec n tsertit n ugraw.
 policy-DisableSecurityBypass = Saεlem iseqdacen ɣef wamek ur neɣelli ara deg kra n uguren n taɣellist.
-policy-DisableSetDesktopBackground = Kkes taludna n ufran n tugna i ugilal n tnarit.
 policy-DisableSetAsDesktopBackground = Sens taladna n umuɣ sbadu am ugilal n tnarit i tugniwin.
 policy-DisableSystemAddonUpdate = Sewḥel asbedded d uleqqem izegrar n unagraw  deg yiminig.
 policy-DisableTelemetry = Sens tilisɣelt.
@@ -49,8 +47,7 @@ policy-DontCheckDefaultBrowser = Sens asenqed amezwer i yiminig deg tnekra.
 policy-EnableTrackingProtection = Rmed neɣ sens asewḥel n ugbur u sekker-it ma tebɣiḍ.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
-# English or translate them as verbs. See also:
-# https://github.com/mozilla/policy-templates/blob/master/README.md#extensions-machine-only
+# English or translate them as verbs.
 policy-Extensions = Sebded, Kkes neƔ sewḥel isiƔzaf. Asebded yettawi URLs neƔ iberdan d iƔewwaren. Tukksa d usewḥel seqdacen isulayen n isiƔzaf.
 policy-FlashPlugin = Sireg neɣ gdel asemres n uzegrir Flash.
 policy-HardwareAcceleration = Ma ur yelli d ameɣtu, sens tasɣiwelt n warrum.
@@ -70,6 +67,7 @@ policy-SearchBar = Sbadu adig imezwer n ufeggag n unadi. Aseqdac izmer ad t-isag
 policy-SearchEngines = Swel iƔewwaren n umsedday n unadi. Tasertit-agi tella kan di lqem Extended Support Release (ESR).
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Sebded izegrar n PKCS #11.
-# “format” refers to the format used for the value of this policy. See also:
-# https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
+policy-SSLVersionMax = Sbadu lqem afellay n SSL.
+policy-SSLVersionMin = Sbadu lqem adday n SSL.
+# “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Sewḥel anekcum Ɣer ismal web. Wali tasemlit i wugar n telqayt Ɣef umasal.

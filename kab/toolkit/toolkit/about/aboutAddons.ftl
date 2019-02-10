@@ -210,8 +210,6 @@ extensions-updates-update-selected =
 
 ## Extension shortcut management
 
-shortcuts-manage =
-    .label = Inegzumen n unasiw
 manage-extensions-shortcuts =
     .label = Sefrek inegzumen n isiɣzaf
     .accesskey = i
@@ -226,5 +224,6 @@ shortcuts-modifier-mac = Seddu Ctrl, Alt, neɣ ⌘
 shortcuts-modifier-other = Seddu Ctrl neɣ Alt
 shortcuts-invalid = Yir tuddsa
 shortcuts-letter = Sekcem asekkil
+shortcuts-card-collapse-button = Sken qel
 go-back-button =
     .tooltiptext = Uɣal ɣer deffir
