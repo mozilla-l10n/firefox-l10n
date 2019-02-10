@@ -10,7 +10,6 @@
 <!ENTITY fullscreenButton.exitfullscreenlabel "Закрыць поўны экран">
 <!ENTITY castingButton.castingLabel "Перакінуць на экран">
 <!ENTITY closedCaption.off "Адключана">
-
 <!-- LOCALIZATION NOTE (volumeScrubber.label): This label is exposed to
      accessibility software to clarify what the slider is for. -->
 <!ENTITY volumeScrubber.label "Рэгулятар гучнасці">
@@ -32,7 +31,7 @@
 <!ENTITY error.network "Прайграванне відэа абарвана праз сеткавую памылку.">
 <!ENTITY error.decode "Відэа не можа быць прайграна, бо файл пашкоджаны.">
 <!ENTITY error.srcNotSupported "Фармат відэая або тып MIME не падтрымліваюцца.">
-<!ENTITY error.noSource2 "Не знойдзены відэа, фармат якіх або тым MIME якіх падтрымліваюцца.">
+<!ENTITY error.noSource2 "Не знойдзены відэа, фармат якіх або тып MIME якіх падтрымліваецца.">
 <!ENTITY error.generic "Прайграванне відэа абарвана праз невядомую памылку.">
 
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
