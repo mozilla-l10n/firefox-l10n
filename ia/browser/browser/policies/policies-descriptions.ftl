@@ -55,6 +55,7 @@ policy-HardwareAcceleration = Si false, disactivar le acceleration hardware.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Definir e optionalmente blocar le pagina principal.
 policy-InstallAddonsPermission = Consentir a certe sitos web de installar additivos.
+policy-NetworkPrediction = Activar o disactivar prediction del rete (prelectura del DNS).
 policy-NoDefaultBookmarks = Disactivar le creation del marcapaginas predefinite impacchettate con { -brand-short-name } e le Marcapaginas intelligente (Plus Visitate, Tags recente). Nota: iste criterio es efficace solo si usate ante le prime uso del profilo.
 policy-OfferToSaveLogins = Fortiar le configuration pro consentir a { -brand-short-name } de offerer de memorar connexiones e contrasignos salvate. Ambe valores ver e false es acceptate.
 policy-OverrideFirstRunPage = Supplantar le pagina del lanceamento initial.

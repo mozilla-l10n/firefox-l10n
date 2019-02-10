@@ -19,6 +19,7 @@ about-config-pref-delete = Deler
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
+about-config-pref-add-type-boolean = Cifra binari
 about-config-pref-add-type-number = Numero
 about-config-pref-add-type-string = Catena
 
