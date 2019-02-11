@@ -67,17 +67,18 @@
  -->
 <!ENTITY updateApp.version.pre           "Fersiwn ">
 <!ENTITY updateApp.version.post          "">
+<!ENTITY updateAppAllow.description      "Gadael i &brandShortName; wneud">
 <!ENTITY updateAuto.label                "Gosod diweddariadau'n awtomatig (argymell: gwella diogelwch)">
 <!ENTITY updateAuto.accesskey            "a">
 <!ENTITY updateCheck.label               "Gwirio am ddiweddariadau, ond gadael i mi ddewis i'w gosod a'i peidio">
 <!ENTITY updateCheck.accesskey           "d">
-<!ENTITY updateManual.label              "Byth gwirio am ddiweddariadau (ddim yn argymell: perygl diogelwch)">
-<!ENTITY updateManual.accesskey          "B">
 <!ENTITY updateHistory.label             "Dangos Hanes Diweddaru">
 <!ENTITY updateHistory.accesskey         "D">
 
 <!ENTITY useService.label                "Defnyddio gwasanaethau cefndirol i osod diweddariadau">
 <!ENTITY useService.accesskey            "e">
+
+<!ENTITY updateCrossUserSettingWarning.description "Bydd y gosodiad hwn yn berthnasol i holl gyfrifon Windows a phroffiliau &brandShortName; sy'n ddefnyddio'r gosodiad hwn &brandShortName;.">
 
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Gosodiadau…">
