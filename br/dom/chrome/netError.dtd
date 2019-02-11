@@ -90,3 +90,4 @@
 <!ENTITY blockedByPolicy.title "Pajenn stanket">
 
 <!ENTITY networkProtocolError.title "Fazi komenad rouedad">
+<!ENTITY networkProtocolError.longDesc "<p>N'haller ket diskouez ar bajenn a glaskit gwelet dre ma 'z eus bet dinoet ur fazi er c'homenad rouedad.</p><ul><li>Kit e darempred gant pec'hened al lec'hienn evit o c'helaouiñ eus ar gudenn.</li></ul>">

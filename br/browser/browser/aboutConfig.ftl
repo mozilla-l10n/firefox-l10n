@@ -17,6 +17,12 @@ about-config-pref-save = Enrollañ
 about-config-pref-reset = Adderaouekaat
 about-config-pref-delete = Dilemel
 
+## Labels for the type selection radio buttons shown when adding preferences.
+
+about-config-pref-add-type-boolean = Boulean
+about-config-pref-add-type-number = Niverenn
+about-config-pref-add-type-string = Chadenn
+
 ## Preferences with a non-default value are differentiated visually, and at the
 ## same time the state is made accessible to screen readers using an aria-label
 ## that won't be visible or copied to the clipboard.
