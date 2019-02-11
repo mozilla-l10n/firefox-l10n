@@ -677,7 +677,7 @@ content-blocking-setting-custom =
     .accesskey = C
 content-blocking-standard-description = Dim ond rhwystro tracwyr hysbys mewn Ffenestri Preifat.
 content-blocking-standard-desc = Cymantoledd rhwng diogelwch a pherfformiad. Yn caniatáu rhai tracwyr fel bod gwefannau'n gweithio'n iawn.
-content-blocking-strict-desc = Rhwystro pob traciwr mae { -brand-short-name } yn ei canfod. Gall achosi rhai gwefannau i dorri.
+content-blocking-strict-desc = Rhwystro pob traciwr mae { -brand-short-name } yn eu canfod. Gall achosi rhai gwefannau i dorri.
 content-blocking-custom-desc = Dewis beth i'w rhwystro.
 content-blocking-private-trackers = Tracwyr hysbys mewn Ffenestri Preifat yn unig.
 content-blocking-third-party-cookies = Cwcis tracio trydydd parti
@@ -685,6 +685,7 @@ content-blocking-all-windows-trackers = Tracwyr hysbys ymhob ffenestr
 content-blocking-all-third-party-cookies = Pob cwci trydydd parti
 content-blocking-warning-title = Rhybudd!
 content-blocking-warning-desc = Gall rwystro cwcis a thracwyr achosi i rai gwefannau i dorri. Mae'n hawdd i analluogi rhwystro ar wefannau rydych yn ymddiried ynddyn nhw.
+content-blocking-warning-description = Gall rhwystro cynnwys achosi i rai gwefannau dorri. Mae'n hawdd i analluogi rhwystro gwefannau rydych chi'n ymddiried ynddyn nhw.
 content-blocking-learn-how = Dysgu sut
 content-blocking-trackers-label =
     .label = Tracwyr
@@ -699,6 +700,15 @@ content-blocking-tracking-protection-change-block-list = Newid y rhestr rhwystro
 content-blocking-cookies-label =
     .label = Cwcis
     .accesskey = C
+# Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
+content-blocking-cryptominers-label =
+    .label = Cryptofwynwyr
+    .accesskey = y
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+content-blocking-fingerprinters-label =
+    .label = Ôl byseddu
+    .accesskey = b
 
 ## Privacy Section - Tracking
 
@@ -765,7 +775,7 @@ permissions-a11y-privacy-link = Dysgu rhagor
 
 ## Privacy Section - Data Collection
 
-collection-header = Casglu Data a Defnyddio { -brand-short-name }
+collection-header = Casglu Data a'r Defnydd o { -brand-short-name }
 collection-description = Rydym yn ceisio darparu dewisiadau i chi a chasglu dim ond beth sydd ei angen arnom i ddarparu a gwella { -brand-short-name } ar gyfer pawb. Rydym yn gofyn caniatâd bob tro cyn derbyn manylion personol.
 collection-privacy-notice = Rhybudd Preifatrwydd
 collection-health-report =
