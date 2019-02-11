@@ -17,7 +17,6 @@ policy-BlockAboutConfig = Bloki aliron al la paĝo about:config.
 policy-BlockAboutProfiles = Bloki aliron al la paĝo about:profiles.
 policy-BlockAboutSupport = Bloki aliron al la paĝo about:support.
 policy-Bookmarks = Krei legosignojn en la ilaro de legosignoj, en la menuo de legosignoj, aŭ en dosierujo sub ili.
-policy-Certificates = Ĉu uzi aŭ ne uzi inkluzivitajn atestilojn. Tiu ĉi politiko nune funkcias nur en Windows.
 policy-CertificatesDescription = Aldoni atestilojn aŭ uzi inkluzivitajn atestilojn.
 policy-Cookies = Permesi aŭ bloki al retejoj konservi kuketojn.
 policy-DisableAppUpdate = Malpermesi al retumilo ĝisdatigiĝi.
@@ -37,7 +36,6 @@ policy-DisableProfileImport = Malaktivigi la menueron por importi datumojn el al
 policy-DisableProfileRefresh = Malaktivigi la butonon "Reŝargi { -brand-short-name }" en la paĝo about:support.
 policy-DisableSafeMode = Malaktivigi la trajton por restartigi en sekura reĝimo. Rimarko: nur en Windows eblas malaktivigi la eniron al sekura reĝimo per la klavo "majuskle", pero grupa politiko.
 policy-DisableSecurityBypass = Malpermesi al uzanto ignori kelkajn sekurecajn avertojn.
-policy-DisableSetDesktopBackground = Malaktivigi la menueron "Difini bildon kiel skribotablan fonon".
 policy-DisableSetAsDesktopBackground = Malaktivigi la menueron "Difini kiel skribotablan fonon" por bildoj.
 policy-DisableSystemAddonUpdate = Malpermesi al retumilo instali kaj ĝisdatigi sistemajn aldonaĵojn.
 policy-DisableTelemetry = Malŝalti telemezuron.
@@ -69,5 +67,7 @@ policy-SearchBar = Elekti la normal lokon de la serĉa strio. La uzanto povas ta
 policy-SearchEngines = Agordi serĉilojn. Tiu ĉi politiko nur disponebla en la versio kun plilongigita subteno (ESR).
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Instali modulojn PKCS #11.
+policy-SSLVersionMax = Difini la minimuman version de SSL.
+policy-SSLVersionMin = Difini la maksimuman version de SSL.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Bloki viziton al kelkaj retejoj. Vidu la dokumentaron por havi pli da informo pri la formo.

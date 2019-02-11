@@ -88,6 +88,12 @@ detail-update-automatic =
 detail-update-manual =
     .label = Malŝaltita
     .tooltiptext = Ne instali ĝisdatigojn aŭtomate
+detail-private-browsing-on =
+    .label = Permesi
+    .tooltiptext = Aktivigi en privata retumo
+detail-private-browsing-off =
+    .label = Malpermesi
+    .tooltiptext = Ne aktivigi en privata retumo
 detail-home =
     .label = Ĉefpaĝo
 detail-home-value =
@@ -210,8 +216,6 @@ extensions-updates-update-selected =
 
 ## Extension shortcut management
 
-shortcuts-manage =
-    .label = Alirklavoj
 manage-extensions-shortcuts =
     .label = Administri alirklavojn de etendaĵoj
     .accesskey = A
@@ -227,5 +231,11 @@ shortcuts-modifier-other = Inkluzivi Stir aŭ Alt
 shortcuts-invalid = Nevalida kombino
 shortcuts-letter = Tajpu literon
 shortcuts-system = Ne eblas anstataŭigi alirklavon de { -brand-short-name }
+shortcuts-card-expand-button =
+    { $numberToShow ->
+        [one] Montri { $numberToShow } pli
+       *[other] Montri { $numberToShow } pli
+    }
+shortcuts-card-collapse-button = Montri malpli
 go-back-button =
     .tooltiptext = Iri reen
