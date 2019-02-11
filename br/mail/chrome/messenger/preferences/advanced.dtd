@@ -67,17 +67,18 @@
  -->
 <!ENTITY updateApp.version.pre           "Handelv ">
 <!ENTITY updateApp.version.post          "">
+<!ENTITY updateAppAllow.description      "Aotren &brandShortName; da">
 <!ENTITY updateAuto.label                "Staliañ an hizivadurioù ent emgefreek (erbedet : diogelroez gwellaet)">
 <!ENTITY updateAuto.accesskey            "e">
 <!ENTITY updateCheck.label               "Gwiriañ mard ez eus hizivadurioù met leuskel ac'hanon dibab mar bezint staliet">
 <!ENTITY updateCheck.accesskey           "G">
-<!ENTITY updateManual.label              "Na wiriañ biken mard ez eus hizivadurioù (ket erbedet : arvarus evit ho tiogelroez)">
-<!ENTITY updateManual.accesskey          "N">
 <!ENTITY updateHistory.label             "Diskouez roll istor an hizivadurioù">
 <!ENTITY updateHistory.accesskey         "u">
 
 <!ENTITY useService.label                "Arverañ ur gwazerezh e drekleur evit staliañ an hizivadurioù">
 <!ENTITY useService.accesskey            "v">
+
+<!ENTITY updateCrossUserSettingWarning.description "An arventenn-mañ a vo arloet war an holl gontoù Windows hag an holl arladoù &brandShortName; a arver ar staliadur &brandShortName;-mañ.">
 
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Arventennoù…">
