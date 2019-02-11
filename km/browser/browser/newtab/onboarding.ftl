@@ -23,3 +23,14 @@ onboarding-addons-title = កម្មវិធី​បន្ថែម
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = ធ្វើ​សមកាលកម្ម
 onboarding-fxa-text = ចុះ​ឈ្មោះ​សម្រាប់ { -fxaccount-brand-name } និង​ធ្វើ​សមកាលកម្ម​ចំណាំ, ពាក្យសម្ងាត់​និង​ផ្ទាំង​បើក​របស់​អ្នក​គ្រប់​ទី​កន្លែង​ដែល​អ្នក​ប្រើ { -brand-short-name } ។
+
+## Message strings belonging to the Return to AMO flow
+
+return-to-amo-sub-header = អស្ចារ្យ​មែន អ្នកទទួលបាន { -brand-short-name }
+# <icon></icon> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-header = ឥឡូវនេះ សូមទាញយក<icon></icon><b>{ $addon-name } របស់អ្នក។</b>
+return-to-amo-extension-button = បញ្ចូលផ្នែកបន្ថែម
+return-to-amo-get-started-button = ចាប់ផ្ដើមជាមួយ { -brand-short-name }
