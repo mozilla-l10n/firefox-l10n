@@ -17,4 +17,4 @@ reader-view = Oxuyucu Görünüşü
 # Meant to match the string displayed in an empty URL bar.
 open-location = Ünvanı daxil et və ya axtar
 share = Paylaş
-focus = Qapat
+close-window = Pəncərəni Qapat
