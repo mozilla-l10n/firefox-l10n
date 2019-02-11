@@ -28,3 +28,5 @@ blocklist-item-moz-std-name = Disconnect.me enkel beskyttelse (Anbefalt).
 blocklist-item-moz-std-desc = Tillater noe sporing slik at nettsteder fungerer riktig.
 blocklist-item-moz-full-name = Disconnect.me streng beskyttelse.
 blocklist-item-moz-full-desc = Blokkerer kjente sporere. Noen nettsteder vil kanskje ikke fungere skikkelig.
+blocklist-item-moz-std-listName = Blokkeringsliste nivå 1 (anbefalt).
+blocklist-item-moz-full-listName = Blokkeringsliste nivå 2
