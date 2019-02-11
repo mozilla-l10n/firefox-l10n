@@ -11,8 +11,13 @@
 ## in the documentation section in about:policies.
 
 policy-AppUpdateURL = កំណត់ URL ធ្វើ​បច្ចុប្បន្នភាព​កម្មវិធី​ផ្ទាល់​ខ្លួន។
+policy-BlockAboutAddons = ទប់ស្កាត់​ការចូលប្រើប្រាស់​កម្មវិធីគ្រប់គ្រង​កម្មវិធី​បន្ថែម (about:addons) ។
+policy-BlockAboutProfiles = ទប់ស្កាត់​ការចូល​ទៅ​កាន់​ទំព័រ about:profiles ។
+policy-BlockAboutSupport = ទប់ស្កាត់​ការចូល​ទៅ​កាន់​ទំព័រ about:support ។
+policy-CertificatesDescription = បញ្ចូល​វិញ្ញាបនបត្រ ឬប្រើវិញ្ញាបនបត្រ​ដែល​បាន​បង្កើត​ស្រាប់។
 policy-Cookies = អនុញ្ញាត ឬបដិសេធវេបសាយដើម្បីកំណត់ខូគី។
 policy-DisableAppUpdate = បង្ការ​កម្មវិធី​រុករក​ពី​ការ​ធ្វើ​បច្ចុប្បន្នភាព។
+policy-DisableBuiltinPDFViewer = បិទដំណើរការឯកសារ PDF.js កម្មវិធីមើល PDF ដែល​បាន​បង្កើត​ស្រាប់​នៅ​ក្នុង { -brand-short-name } ។
 policy-DisableDeveloperTools = ទប់ស្កាត់​ការ​ចូល​ទៅ​ឧបករណ៍​អភិវឌ្ឍន៍។
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = បិទ​មុខងារ​រូបថត​អេក្រង់​របស់ Firefox ។
@@ -22,7 +27,7 @@ policy-DisableMasterPasswordCreation = ប្រសិន​បើ​ពិត�
 policy-DisablePrivateBrowsing = បិទដំណើររុករកឯកជន។
 policy-DisplayMenuBar = បង្ហាញរបារម៉ឺនុយតាមលំនាំដើម។
 policy-DNSOverHTTPS = កំណត់​រចនាសម្ព័ន្ធ DNS នៅ​លើ HTTPS ។
-policy-InstallAddonsPermission = អនុញ្ញាតគេហទំព័រជាក់លាក់ដើម្បីដំឡើងកម្មវិធីបន្ថែម។
+policy-InstallAddonsPermission = អនុញ្ញាត​ឲ្យ​​គេហទំព័រ​ណា​មួយ​ដំឡើង​កម្មវិធី​ផ្នែក​បន្ថែម។
 policy-Proxy = កំណត់​ការកំណត់​ប្រូកស៊ី។
 policy-SanitizeOnShutdown = សម្អាត​ទិន្នន័យ​រុករក​ទាំងអស់​នៅ​ពេល​បិទ។
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
