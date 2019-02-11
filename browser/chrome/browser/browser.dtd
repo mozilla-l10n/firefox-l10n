@@ -1127,3 +1127,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Əlavələrinizi <image class='addon-toolbar-icon'/> menyusundan <image class='addon-addon-icon'/> klikləyərək idarə edin.">
+
+<!ENTITY addonPrivateBrowsing.okButton.label "Tamam, başa düşdüm">
+<!ENTITY addonPrivateBrowsing.okButton.accesskey "O">
+<!ENTITY addonPrivateBrowsing.manageButton.label "Uzantıları idarə et">
+<!ENTITY addonPrivateBrowsing.manageButton.accesskey "M">
