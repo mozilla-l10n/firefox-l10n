@@ -826,7 +826,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (editBookmark.panel.width): width of the bookmark panel.
      Should be large enough to fully display the Done and Cancel/
      Remove Bookmark buttons. -->
-<!ENTITY editBookmark.panel.width                    "26em">
+<!ENTITY editBookmark.panel.width                    "28em">
 <!ENTITY editBookmark.done.label                     "Terminer">
 <!ENTITY editBookmark.showForNewBookmarks.label       "Afficher l’éditeur lors de l’enregistrement">
 <!ENTITY editBookmark.showForNewBookmarks.accesskey   "A">
@@ -1127,3 +1127,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Gérez vos modules en cliquant sur <image class='addon-addon-icon'/> dans le menu <image class='addon-toolbar-icon'/>.">
+
