@@ -1,101 +1,12 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!ENTITY addons.windowTitle                   "מנהל התוספות">
-
-<!ENTITY search.placeholder2                  "חיפוש ב־addons.mozilla.org">
-
-<!ENTITY search.placeholder3                  "חיפוש ב־addons.mozilla.org">
-<!ENTITY search.buttonlabel                   "חיפוש">
-<!-- LOCALIZATION NOTE (search.commandkey):
-     The search command key should match findOnCmd.commandkey from browser.dtd -->
-<!ENTITY search.commandkey                    "f">
-
-<!ENTITY loading.label                        "בטעינה…">
-<!ENTITY listEmpty.installed.label            "לא הותקנה אף תוספת מסוג זה">
-<!ENTITY listEmpty.availableUpdates.label     "לא נמצאו עדכונים">
-<!ENTITY listEmpty.recentUpdates.label        "לא עדכנת תוספות כלשהן לאחרונה">
-<!ENTITY listEmpty.findUpdates.label          "בדיקת עדכונים">
-<!ENTITY listEmpty.button.label               "מידע נוסף על תוספות">
-<!ENTITY installAddonFromFile.label           "התקנת תוספת מקובץ…">
-<!ENTITY installAddonFromFile.accesskey       "ה">
-<!ENTITY toolsMenu.tooltip                    "כלים עבור כל התוספות">
-
-<!ENTITY getThemes.description                "מעוניינים להתאים אישית את הדפדפן?">
-<!ENTITY getThemes.learnMore                  "בחרו מאלפי ערכות נושא זמינות.">
-
-
-<!ENTITY showUnsignedExtensions.button.label  "אין אפשרות לאמת חלק מההרחבות">
-<!ENTITY showAllExtensions.button.label       "הצגת כל ההרחבות">
-<!ENTITY debugAddons.label                    "ניפוי שגיאות של תוספות">
-<!ENTITY debugAddons.accesskey                "נ">
-
-<!-- global warnings -->
-<!ENTITY warning.safemode.label                    "כל התוספות נוטרלו במצב בטוח.">
-<!ENTITY warning.checkcompatibility.label          "בדיקת תאימות תוספות מנוטלת. ייתכן וברשותך הרחבות לא תואמות.">
-<!ENTITY warning.checkcompatibility.enable.label   "הפעלה">
-<!ENTITY warning.checkcompatibility.enable.tooltip "הפעלת בדיקת תאימות תוספות">
-<!ENTITY warning.updatesecurity.label              "בדיקת האבטחה של התוספות כרגע מנוטרלת. עדכונים לתוספות עלולים לסכן אותך.">
-<!ENTITY warning.updatesecurity.enable.label       "הפעלה">
-<!ENTITY warning.updatesecurity.enable.tooltip     "הפעלת בדיקות אבטחה לעדכוני תוספות">
-
-<!-- categories / views -->
-<!ENTITY view.discover.label                  "קבלת תוספות">
-<!ENTITY view.recentUpdates.label             "עדכונים אחרונים">
-<!ENTITY view.availableUpdates.label          "עדכונים זמינים">
-
-<!ENTITY helpButton.label                      "תמיכה בתוספות">
-<!ENTITY preferencesWin.label                  "אפשרויות של &brandShortName;">
-<!ENTITY preferencesUnix.label                 "העדפות של &brandShortName;">
-
-<!-- addon updates -->
-<!ENTITY updates.checkForUpdates.label        "בדיקת עדכונים">
-<!ENTITY updates.checkForUpdates.accesskey    "ב">
-<!ENTITY updates.viewUpdates.label            "הצגת עדכונים אחרונים">
-<!ENTITY updates.viewUpdates.accesskey        "ה">
-<!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
-     is a checkbox that toggles the default global behavior for add-on update
-     checking. -->
-<!ENTITY updates.updateAddonsAutomatically.label     "עדכון תוספות אוטומטי">
-<!ENTITY updates.updateAddonsAutomatically.accesskey "ע">
-<!-- LOCALIZATION NOTE (updates.resetUpdatesToAutomatic.label, updates.resetUpdatesToManual.label):
-     Specific addons can have custom update checking behaviors ("Manually",
-     "Automatically", "Use default global behavior"). These menu items reset the
-     update checking behavior for all add-ons to the default global behavior
-     (which itself is either "Automatically" or "Manually", controlled by the
-     updates.updateAddonsAutomatically.label menu item). -->
-<!ENTITY updates.resetUpdatesToAutomatic.label       "איפוס כל התוספות לעדכון אוטומטי">
-<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "א">
-<!ENTITY updates.resetUpdatesToManual.label          "איפוס כל התוספות לעדכון ידני">
-<!ENTITY updates.resetUpdatesToManual.accesskey      "א">
-<!ENTITY updates.updating.label               "מעדכן תוספות">
-<!ENTITY updates.installed.label              "התוספות שלך עודכנו.">
-<!ENTITY updates.downloaded.label             "עדכוני התוספות שלך הורדו.">
-<!ENTITY updates.restart.label                "הפעלה מחדש כעת להשלמת ההתקנה">
-<!ENTITY updates.noneFound.label              "לא נמצאו עדכונים">
-<!ENTITY updates.manualUpdatesFound.label     "הצגת עדכונים זמינים">
-<!ENTITY updates.updateSelected.label         "התקנת עדכונים">
-<!ENTITY updates.updateSelected.tooltip       "התקנת העדכונים הזמינים ברשימה זו">
-
-<!-- addon actions -->
-<!ENTITY cmd.showDetails.label                "הצגת מידע נוסף">
-<!ENTITY cmd.showDetails.accesskey            "ה">
-<!ENTITY cmd.findUpdates.label                "בדיקת עדכונים">
-<!ENTITY cmd.findUpdates.accesskey            "מ">
-<!ENTITY cmd.preferencesWin.label             "אפשרויות">
-<!ENTITY cmd.preferencesWin.accesskey         "א">
-<!ENTITY cmd.preferencesUnix.label            "העדפות">
-<!ENTITY cmd.preferencesUnix.accesskey        "ה">
 
 <!-- addon actions -->
 <!ENTITY cmd.enableAddon.label                "הפעלה">
 <!ENTITY cmd.enableAddon.accesskey            "פ">
 <!ENTITY cmd.disableAddon.label               "ניטרול">
 <!ENTITY cmd.disableAddon.accesskey           "נ">
-<!ENTITY cmd.enableTheme.label                "לבש ערכת נושא">
-<!ENTITY cmd.enableTheme.accesskey            "ל">
-<!ENTITY cmd.disableTheme.label               "הפסק ללבוש ערכת נושא">
-<!ENTITY cmd.disableTheme.accesskey           "ה">
 
 <!ENTITY cmd.askToActivate.label              "בקשת אישור להפעלה">
 <!ENTITY cmd.askToActivate.tooltip            "בקשת אישור כל פעם להשתמש בתוספת זו">
@@ -104,8 +15,6 @@
 <!ENTITY cmd.neverActivate.label              "לא להפעיל לעולם">
 <!ENTITY cmd.neverActivate.tooltip            "לעולם לא להשתמש בתוספת זו">
 <!ENTITY cmd.stateMenu.tooltip                "לשנות כאשר תוספת זו רצה">
-<!ENTITY cmd.installAddon.label               "התקנה">
-<!ENTITY cmd.installAddon.accesskey           "ה">
 
 <!ENTITY cmd.uninstallAddon.label             "הסרה">
 <!ENTITY cmd.uninstallAddon.accesskey         "ה">
@@ -113,9 +22,6 @@
 <!ENTITY cmd.showPreferencesWin.tooltip       "שינוי האפשרויות של תוספת זו">
 <!ENTITY cmd.showPreferencesUnix.label        "העדפות">
 <!ENTITY cmd.showPreferencesUnix.tooltip      "שינוי העדפות של תוספת זו">
-<!ENTITY cmd.contribute.label                 "תרומה">
-<!ENTITY cmd.contribute.accesskey             "ת">
-<!ENTITY cmd.contribute.tooltip               "תרומה לפיתוח של תוספת זו">
 
 <!ENTITY cmd.showReleaseNotes.label           "הצגת הערות שחרור">
 <!ENTITY cmd.showReleaseNotes.tooltip         "הצגת הערות השחרור של עדכון זה">
@@ -123,54 +29,8 @@
 <!ENTITY cmd.hideReleaseNotes.tooltip         "הסתרת הערות השחרור של עדכון זה">
 <!ENTITY cmd.findReplacement.label            "מציאת חלופה">
 
-<!-- discovery view -->
-<!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
-     Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
-<!ENTITY discover.title                       "מה הן תוספות?">
-<!ENTITY discover.description2                "תוספות הן יישומים המאפשרים לך להתאים אישית את &brandShortName; עם סגנון  או פונקציונליות נוספים. נסה סרגל־צד חוסך זמן, מדווח מזג אוויר, או מראה שונה כדי להפוך את &brandShortName;  לשלך.">
-<!ENTITY discover.footer                      "כאשר החיבור לרשת פעיל, חלונית זו תציג
-  חלק מהתוספות הטובות והפופולריות ביותר אותן כדאי לנסות.">
-
-<!-- detail view -->
-<!ENTITY detail.version.label                 "גרסה">
-<!ENTITY detail.lastupdated.label             "עודכן לאחרונה">
-<!ENTITY detail.creator.label                 "מפתח">
-<!ENTITY detail.homepage.label                "דף בית">
-
-<!ENTITY detail.contributions.description     "המפתחים של תוספת זו מבקשים את עזרתך בהמשך הפיתוח שלה על־ידי מתן תרומה צנועה.">
-
-<!ENTITY detail.updateType                    "עדכונים אוטומטיים">
-<!ENTITY detail.updateDefault.label           "בררת מחדל">
-<!ENTITY detail.updateDefault.tooltip         "התקנת עדכונים באופן אוטומטי רק אם זו בררת המחדל">
-<!ENTITY detail.updateAutomatic.label         "פעיל">
-<!ENTITY detail.updateAutomatic.tooltip       "התקן עדכונים אוטומטית">
-<!ENTITY detail.updateManual.label            "כבוי">
-<!ENTITY detail.updateManual.tooltip          "אל תתקין עדכונים אוטומטית">
-<!ENTITY detail.home                          "דף הבית">
-<!ENTITY detail.repository                    "פרופיל התוספת">
-<!ENTITY detail.size                          "גודל ">
-
-<!ENTITY detail.checkForUpdates.label         "בדיקת עדכונים">
-<!ENTITY detail.checkForUpdates.accesskey     "ב">
-<!ENTITY detail.checkForUpdates.tooltip       "בדיקת עדכונים לתוספת זו">
-<!ENTITY detail.showPreferencesWin.label      "אפשרויות">
-<!ENTITY detail.showPreferencesWin.accesskey  "א">
-<!ENTITY detail.showPreferencesWin.tooltip    "שינוי האפשרויות של תוספת זו">
-<!ENTITY detail.showPreferencesUnix.label     "העדפות">
-<!ENTITY detail.showPreferencesUnix.accesskey "ה">
-<!ENTITY detail.showPreferencesUnix.tooltip   "שינוי העדפות של תוספת זו">
-
-
-<!-- ratings -->
-<!ENTITY rating2.label                        "דירוג">
-
-<!-- download/install progress -->
-<!ENTITY progress.pause.tooltip               "השהיה">
-
 <!-- download/install progress -->
 <!ENTITY progress.cancel.tooltip              "ביטול">
-
-<!ENTITY addon.homepage                       "דף בית">
 
 <!ENTITY addon.details.label                  "עוד">
 <!ENTITY addon.details.tooltip                "הצגת פרטים נוספים על תוספת זו">
@@ -179,6 +39,7 @@
      to the add-on name for extensions that are not webextensions, which
      will stop working in Firefox 57. -->
 <!ENTITY addon.legacy.label                   "דור קודם">
+<!ENTITY addon.privateBrowsing.label          "מופעלת בחלונות פרטיים">
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
      "<Addon name> <1.0> (disabled)" -->
@@ -192,7 +53,6 @@
 <!ENTITY addon.undoAction.tooltip             "ביטול פעולה זו">
 <!ENTITY addon.undoRemove.label               "ביטול">
 <!ENTITY addon.undoRemove.tooltip             "השאר תוספת זו מותקנת">
-<!ENTITY addon.restartNow.label               "הפעלה מחדש כעת">
 
 <!ENTITY addon.install.label                  "התקנה">
 <!ENTITY addon.install.tooltip                "התקנת תוספת זו">
@@ -207,34 +67,5 @@
 
 <!ENTITY addon.createdBy.label                "מאת ">
 
-<!ENTITY eula.title                           "הסכם שימוש למשתמש קצה">
-<!ENTITY eula.width                           "560px">
-<!ENTITY eula.height                          "400px">
-<!ENTITY eula.accept                          "קבלת התנאים והתקנה…">
-
 <!ENTITY settings.path.button.label           "עיון…‏">
-
 <!ENTITY setting.learnmore "מידע נוסף…">
-
-<!ENTITY disabledUnsigned.heading "חלק מהתוספות נוטרלו">
-<!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
-     These entities form a sentence, with
-     disabledUnsigned.description.findAddonsLink being a link to an external site. -->
-<!ENTITY disabledUnsigned.description.start "התוספות הבאות לא אומתו לשימוש ב־&brandShortName;. באפשרותך ">
-<!ENTITY disabledUnsigned.description.findAddonsLink "לחפש חלופות">
-<!ENTITY disabledUnsigned.description.end " או לפנות למפתחים בדרישה לאמת אותן.">
-<!ENTITY disabledUnsigned.learnMore "מידע נוסף על המאמצים שלנו לשמור על המשתמשים שלנו בטוחים ברשת.">
-<!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
-     These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
-     being a link to an external site. -->
-<!ENTITY disabledUnsigned.devInfo.start "מפתחים המעוניינים לאמת את התוספות שלהם מתבקשים לעיין ">
-<!ENTITY disabledUnsigned.devInfo.linkToManual "במדריך">
-<!ENTITY disabledUnsigned.devInfo.end " שלנו.">
-
-<!ENTITY pluginDeprecation.description "חסר כאן משהו? חלק מהתוספים החיצוניים אינם נתמכים עוד ב־&brandShortName;.">
-<!ENTITY pluginDeprecation.learnMore "למידע נוסף.">
-
-<!ENTITY legacyWarning.showLegacy "הצגת הרחבות דור קודם">
-<!ENTITY legacyExtensions.title "הרחבות מדור קודם">
-<!ENTITY legacyExtensions.description "הרחבות אלו לא עומדות בתקנים הנוכחיים של &brandShortName; ולכן כובו.">
-<!ENTITY legacyExtensions.learnMore "מידע נוסף על השינויים בתוספות">

@@ -141,7 +141,7 @@ legacy-warning-show-legacy = הצגת הרחבות דור קודם
 legacy-extensions =
     .value = הרחבות מדור קודם
 legacy-extensions-description = הרחבות אלו לא עומדות בתקנים הנוכחיים של { -brand-short-name } ולכן כובו. <label data-l10n-name="legacy-learn-more">מידע נוסף על השינויים בתוספות</label>
-private-browsing-description = הרחבות אינן מורשות לפעול כברירת מחדל בחלונות פרטיים. זה אומר שהן לא יעבדו תוך כדי גלישה פרטית, ולא תהיה להן  גישה לפעילויות המקוונות שלך שם. כדי לאפשר להרחבה לפעול בחלונות פרטיים, יש לבחור בכרטיס ההרחבה להלן ולשנות את ההגדרה. <label data-l10n-name="private-browsing-learn-more">מידע נוסף</label>
+private-browsing-description = הרחבות אינן מורשות לפעול כברירת מחדל בחלונות פרטיים. זה אומר שהן לא יעבדו תוך כדי גלישה פרטית, ולא תהיה להן גישה לפעילויות המקוונות שלך שם. כדי לאפשר להרחבה לפעול בחלונות פרטיים, יש לבחור בכרטיס ההרחבה להלן ולשנות את ההגדרה. <label data-l10n-name="private-browsing-learn-more">מידע נוסף</label>
 extensions-view-discover =
     .name = קבלת תוספות
     .tooltiptext = { extensions-view-discover.name }
