@@ -147,7 +147,7 @@ was trying to connect. -->
 <!ENTITY certerror.whatCanYouDoAboutItTitle "מה ניתן לעשות בנדון?">
 
 
-<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "<p>שעון המחשב שלך מוגדר כ־<span id='wrongSystemTime_systemDate2'/>. נא לוודא שהתאריך, השעה ואזור הזמן הנכונים מוגדרים בהגדרות המערכת במחשב, ולאחר מכן לרענן את <span class='hostname'/>.</p>
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "<p>שעון המחשב שלך מוגדר ל־<span id='wrongSystemTime_systemDate2'/>. נא לוודא שהתאריך, השעה ואזור הזמן הנכונים מוגדרים בהגדרות המערכת במחשב, ולאחר מכן לרענן את <span class='hostname'/>.</p>
 <p>אם השעון שלך כבר מוגדר לשעה הנכונה, יתכן שהאתר לא מוגדר כראוי, ואין שום דבר שבאפשרותך לעשות כדי לפתור את התקלה. ניתן ליידע את מנהל האתר בנוגע לבעיה.</p>">
 
 
@@ -209,7 +209,7 @@ Strict Transport Security (HSTS) כדי לציין ש־&brandShortName; יוכל
 <!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "אם <span class='mitm-name'/> אינו מוכר לך, יתכן שמדובר בתקיפה ואין לך אף דרך להמשיך אל האתר.">
 
 <!ENTITY clockSkewError.title "השעון של המחשב שלך אינו מכוון">
-<!ENTITY clockSkewError.longDesc "המחשב שלך משוכנע שעכשיו <span id='wrongSystemTime_systemDate1'/>, מה שמונע מ־&brandShortName; ליצור חיבורים מאובטחים. כדי לבקר ב־<span class='hostname'></span>, נא לעדכן את השעון של המחשב שלך בהגדרות המערכת לשעה, התאריך ואזור הזמן הנוכחיים ואז לרענן את <span class='hostname'></span>.">
+<!ENTITY clockSkewError.longDesc "המחשב שלך משוכנע שעכשיו <span id='wrongSystemTime_systemDate1'/>, מה שמונע מ־&brandShortName; להתחבר באופן מאובטח. כדי לבקר ב־<span class='hostname'></span>, נא לעדכן את שעון המחשב שלך בהגדרות המערכת לשעה, התאריך ואזור הזמן הנוכחיים ואז לרענן את <span class='hostname'></span>.">
 
 <!ENTITY prefReset.longDesc "נראה שהגדרות אבטחת הרשת שלך עשוי לגרום לכך. האם ברצונך לשחזר להגדרות ברירת מחדל?">
 <!ENTITY prefReset.label "שחזור הגדרות בררת המחדל">

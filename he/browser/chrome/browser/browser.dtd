@@ -41,7 +41,7 @@ left instead of right. -->
 <!ENTITY  closeTabsToTheEnd.label            "סגירת כל הלשוניות משמאל">
 <!ENTITY  closeTabsToTheEnd.accesskey        "ס">
 <!ENTITY  closeOtherTabs.label               "סגירת לשוניות אחרות">
-<!ENTITY  closeOtherTabs.accesskey           "ס">
+<!ENTITY  closeOtherTabs.accesskey           "א">
 
 <!ENTITY  closeTabs.label                    "סגירת לשוניות">
 <!ENTITY  closeTabs.accesskey                "ס">
@@ -1129,6 +1129,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addonPostInstallMessage.label "ניתן לנהל את התוספות שלך ע״י לחיצה על <image class='addon-addon-icon'/> שבתפריט <image class='addon-toolbar-icon'/>.">
 
 <!ENTITY addonPrivateBrowsing.header.label "הרחבות בחלונות פרטיים">
+<!ENTITY addonPrivateBrowsing.body.label "הרחבות אינן מורשות לפעול כברירת מחדל בחלונות פרטיים. הן לא יעבדו בזמן גלישה פרטית, ולא תהיה להן גישה לפעילויות המקוונות שלך. באפשרותך לאפשר לכל הרחבה לפעול בחלונות פרטיים על־ידי ניהול ההגדרות שלך.">
 <!ENTITY addonPrivateBrowsing.okButton.label "בסדר, הבנתי">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "ב">
 <!ENTITY addonPrivateBrowsing.manageButton.label "ניהול הרחבות">

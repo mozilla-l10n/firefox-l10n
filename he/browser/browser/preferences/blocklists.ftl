@@ -6,6 +6,7 @@ blocklist-window =
     .title = רשימת חסימות
     .style = width: 50em
 blocklist-desc = ניתן לבחור באיזו רשימה { -brand-short-name } ישתמש כדי לחסום רכיבים העשויים לעקוב אחר פעילות הגלישה שלך.
+blocklist-description = בחירת הרשימה ש־{ -brand-short-name } משתמש כדי לחסום רכיבי מעקב מקוונים. הרשימות מסופקות מאת <a data-l10n-name="disconnect-link" title="Disconnect">Disconnect</a>.
 blocklist-close-key =
     .key = w
 blocklist-treehead-list =

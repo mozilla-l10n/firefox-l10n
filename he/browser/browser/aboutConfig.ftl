@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+about-config-warning-text = שינוי ערכי בררת המחדל של הגדרות מתקדמות אלו יכול להזיק ליציבות, אבטחה והביצועים של ישום זה. מוטב להמשיך רק אם השלכות מעשיך ברורות לך לחלוטין.
 about-config-warning-button = הסיכון מקובל עלי
 about-config-title = about:config
 about-config-pref-add = הוספה
