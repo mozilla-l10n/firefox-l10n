@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 language-name-aa = 阿法尔语
-language-name-ab = 阿布哈西亚
+language-name-ab = 阿布哈兹语
 language-name-ach = 阿乔利语
 language-name-ae = 阿维斯陀语
 language-name-af = 南非语
