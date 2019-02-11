@@ -25,3 +25,4 @@ onboarding-fxa-title = ஒத்திசைக்க
 
 ## Message strings belonging to the Return to AMO flow
 
+return-to-amo-sub-header = அருமை, உங்களுக்கு { -brand-short-name } கிடைத்திருக்கிறது.
