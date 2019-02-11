@@ -37,7 +37,7 @@ type-other = Autre
 
 energy-impact-high = Élevé ({ $value })
 energy-impact-medium = Moyen ({ $value })
-energy-impact-low = Bas ({ $value })
+energy-impact-low = Faible ({ $value })
 
 ## Values for the Memory column
 ##
