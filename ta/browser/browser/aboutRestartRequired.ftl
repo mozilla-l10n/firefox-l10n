@@ -4,3 +4,4 @@
 
 restart-required-title = மறுதொடக்கம் தேவை
 restart-required-header = மன்னிக்கவும். தொடர்ந்து பயன்படுத்துவதற்கு ஒரு எளிய வேலையை செய்ய வேண்டியுள்ளது.
+restart-button-label = மீட்தொடக்கம் { -brand-short-name }
