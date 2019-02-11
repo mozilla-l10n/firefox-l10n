@@ -219,3 +219,11 @@ extensions-updates-update-selected =
 
 ## Extension shortcut management
 
+shortcuts-modifier-mac = Inkluder Ctrl, Alt eller ⌘
+shortcuts-modifier-other = Inkluder Ctrl eller Alt
+shortcuts-invalid = Ugyldig kombinasjon
+shortcuts-letter = Skriv en bokstav
+shortcuts-system = Kan ikke overskrive en { -brand-short-name }-snarvei
+shortcuts-card-collapse-button = Vis mindre
+go-back-button =
+    .tooltiptext = Gå tilbake
