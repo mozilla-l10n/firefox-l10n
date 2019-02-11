@@ -4,8 +4,6 @@
 
 do-not-track-description = បញ្ជូន​សញ្ញា "កុំ​តាមដាន" ទៅ​គេហទំព័រ ដែល​អ្នក​មិន​ចង់​ឲ្យ​តាមដាន
 do-not-track-learn-more = ស្វែងយល់​បន្ថែម
-do-not-track-option-default =
-    .label = បានតែ​នៅពេល​ប្រើប្រាស់​ការការពារ​ការតាមដាន​ប៉ុណ្ណោះ
 do-not-track-option-always =
     .label = ជានិច្ច
 pref-page =
@@ -82,9 +80,6 @@ extension-controlled-default-search = ផ្នែកបន្ថែម <img dat
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = ផ្នែកបន្ថែម <img data-l10n-name="icon"/> { $name } ត្រូវការផ្ទាំងឧបករណ៍ផ្ទុក។
-# This string is shown to notify the user that their tracking protection preferences
-# are being controlled by an extension.
-extension-controlled-websites-tracking-protection-mode = ផ្នែកបន្ថែម <img data-l10n-name="icon"/> { $name } កំពុងគ្រប់គ្រងការការពារការតាមដាន។
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
 extension-controlled-websites-content-blocking-all-trackers = ផ្នែកបន្ថែម <img data-l10n-name="icon"/> { $name } កំពុងគ្រប់គ្រងការកំណត់នេះ។
@@ -133,9 +128,6 @@ open-new-link-as-tabs =
 warn-on-close-multiple-tabs =
     .label = ព្រមាន​អ្នក​ពេល​បិទ​ផ្ទាំង​ច្រើន
     .accesskey = m
-warn-on-quit-close-multiple-tabs =
-    .label = ព្រមាន​អ្នក​ពេល​ចាកចេញ និង​​បិទ​ផ្ទាំង​ច្រើន
-    .accesskey = m
 warn-on-open-many-tabs =
     .label = ព្រមាន​អ្នក​ពេល​បើក​ផ្ទាំង​ច្រើន អាច​ធ្វើឲ្យ { -brand-short-name } យឺត
     .accesskey = d
@@ -182,6 +174,7 @@ choose-language-description = ជ្រើស​ភាសា​ដែល​អ�
 choose-button =
     .label = ជ្រើស…
     .accesskey = ស
+confirm-browser-language-change-description = ចាប់ផ្ដើម { -brand-short-name } ឡើងវិញ ​ដើម្បី​​អនុវត្ត​ការផ្លាស់ប្ដូរ​ទាំងនេះ
 confirm-browser-language-change-button = អនុវត្ត​និង​ចាប់ផ្តើម​ឡើង​វិញ
 translate-web-pages =
     .label = ​បកប្រែ​មាតិកា​បណ្ដាញ
@@ -462,7 +455,6 @@ privacy-header = ឯកជនភាព​កម្មវិធី​រុករ
 
 ## Privacy Section - Forms
 
-forms-header = ទម្រង់ & ពាក្យសម្ងាត់
 forms-exceptions =
     .label = ករណី​លើកលែង…
     .accesskey = x
@@ -518,21 +510,12 @@ history-clear-button =
 sitedata-header = ខូឃី និងទិន្នន័យ​គេហទំព័រ
 sitedata-total-size-calculating = កំពុងគណនាទិន្នន័យតំបន់បណ្តាញ និងទំហំឃ្លាំងសម្ងាត់…
 sitedata-learn-more = ស្វែងយល់​បន្ថែម
-sitedata-keep-until = រក្សាទុករហូតដល់
-    .accesskey = u
-sitedata-keep-until-expire =
-    .label = ពួកវា​ផុត​កំណត់
-sitedata-keep-until-closed =
-    .label = { -brand-short-name } ត្រូវបានបិទ
 sitedata-clear =
     .label = សម្អាតទិន្នន័យ...
     .accesskey = l
 sitedata-settings =
     .label = គ្រប់គ្រងទិន្នន័យ...
     .accesskey = M
-sitedata-cookies-exceptions =
-    .label = ករណី​លើកលែង…
-    .accesskey = រ
 
 ## Privacy Section - Address Bar
 
@@ -553,13 +536,8 @@ addressbar-suggestions-settings = ប្ដូរ​ចំណូលចិត្�
 
 content-blocking-header = ទប់ស្កាត់​មាតិកា
 content-blocking-learn-more = ស្វែងយល់​បន្ថែម
-content-blocking-restore-defaults =
-    .label = ស្ដារ​លំនាំ​ដើម
-    .accesskey = R
-content-blocking-toggle-label-on = បើក
-    .accesskey = O
-content-blocking-toggle-label-off = បិទ
-    .accesskey = O
+# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
+# "Standard" in this case is an adjective, meaning "default" or "normal".
 content-blocking-setting-standard =
     .label = ស្ដង់ដា
     .accesskey = d
@@ -570,24 +548,6 @@ content-blocking-learn-how = ស្វែងយល់​ពី​របៀប
 
 ## Privacy Section - Tracking
 
-tracking-header = ការពារ​ការ​តាមដាន
-tracking-desc = ការការពារការតាមដាន​នឹងទប់ស្កាត់កម្មវិធីតាមដានលើអ៊ីនធឺណិត​ដែលប្រមូលទិន្នន័យការរុករករបស់អ្នក​នៅ​លើ​គេហទំព័រ​​ច្រើន។ <a data-l10n-name="learn-more">ស្វែងយល់បន្ថែមអំពីការការពារការតាមដាន និងឯកជនភាព​របស់អ្នក</a>
-tracking-mode-label = ប្រើការការពារការតាមដាន ដើម្បីទប់ស្កាត់កម្មវិធីតាមដានដែលស្គាល់
-tracking-mode-always =
-    .label = ជានិច្ច
-    .accesskey = y
-tracking-mode-private =
-    .label = តែ​នៅ​ក្នុង​បង្អួច​ឯកជន​ប៉ុណ្ណោះ
-    .accesskey = l
-tracking-mode-never =
-    .label = កុំ
-    .accesskey = N
-tracking-exceptions =
-    .label = ករណី​លើកលែង…
-    .accesskey = x
-tracking-change-block-list =
-    .label = ផ្លាស់ប្ដូរបញ្ជីទប់ស្កាត់…
-    .accesskey = C
 
 ## Privacy Section - Permissions
 
