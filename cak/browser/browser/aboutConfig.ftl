@@ -17,6 +17,12 @@ about-config-pref-save = Tiyak
 about-config-pref-reset = Titzolïx pe
 about-config-pref-delete = Tiyuj
 
+## Labels for the type selection radio buttons shown when adding preferences.
+
+about-config-pref-add-type-boolean = Ja' manäq
+about-config-pref-add-type-number = Ajilab'äl
+about-config-pref-add-type-string = Cholajil
+
 ## Preferences with a non-default value are differentiated visually, and at the
 ## same time the state is made accessible to screen readers using an aria-label
 ## that won't be visible or copied to the clipboard.

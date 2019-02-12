@@ -673,6 +673,7 @@ content-blocking-all-windows-trackers = Ojqanela' etaman kiwäch pa ronojel tzuw
 content-blocking-all-third-party-cookies = Ronojel kikuki aj rox winäq
 content-blocking-warning-title = ¡Tak'axäx!
 content-blocking-warning-desc = Ri kiq'atik taq kuki chuqa' taq ojqanela' nitikïr nub'än chi jujun taq ajk'amaya'l ruxaq itzel yesamäj. Man kayew ta richin nachüp ri kiq'atik taq ruxaq akuqub'an ak'u'x chi kij.
+content-blocking-warning-description = Ri ruq'atik rupam nitikïr nub'än chi jujun ajk'amaya'l ruxaq man ütz ta yesamäj. Man k'ayew ta richin nachüp ri kiq'atik ruxaq k'amaya'l akuqub'an ak'u'x chi kij.
 content-blocking-learn-how = Tetamäx achike rub'eyal
 content-blocking-trackers-label =
     .label = Ojqanela'
@@ -687,6 +688,15 @@ content-blocking-tracking-protection-change-block-list = Tijaq rucholajem q'atoj
 content-blocking-cookies-label =
     .label = Taq kuki
     .accesskey = k
+# Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
+content-blocking-cryptominers-label =
+    .label = Cryptominers
+    .accesskey = y
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+content-blocking-fingerprinters-label =
+    .label = Fingerprinters
+    .accesskey = F
 
 ## Privacy Section - Tracking
 
