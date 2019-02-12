@@ -4,8 +4,6 @@
 
 do-not-track-description = நீங்கள் தடமறியப்பட விரும்பவில்லையென்று வலைத்தளங்களுக்கு “தடமறியாதே” சைகையை அனுப்பு
 do-not-track-learn-more = மேலும் அறிய
-do-not-track-option-default =
-    .label = தடமறியல் பாதுகாப்பைப் பயன்படுத்தும்போது மட்டுமே
 do-not-track-option-always =
     .label = எப்போதும்
 pref-page =
@@ -87,9 +85,6 @@ extension-controlled-default-search = <img data-l10n-name="icon"/> { $name }, �
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = <img data-l10n-name="icon"/> { $name }, நீட்சிக்கு கலன் கீற்றுகள் தேவைப்படுகிறது.
-# This string is shown to notify the user that their tracking protection preferences
-# are being controlled by an extension.
-extension-controlled-websites-tracking-protection-mode = <img data-l10n-name="icon"/> { $name }, நீட்சியானது தங்களது கண்காணிப்புப் பாதுகாப்பை கட்டுப்படுத்துகிறது.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = <img data-l10n-name="icon"/> { $name }, நீட்டிப்பு { -brand-short-name } இணையத்துடன் எவ்வாறு இணைய முடியும் என்பதைக் கட்டுப்படுத்துகிறது.
@@ -312,9 +307,11 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = நீங்கள் தட்டச்சு செய்யத்தொடங்கும்போது உரையைத் தேடவும்
     .accesskey = x
+browsing-cfr-recommendations-learn-more = மேலும் அறிய
 
 ## General Section - Proxy
 
+network-settings-title = வலைதள அமைவுகள்
 network-proxy-connection-description = { -brand-short-name } எவ்வாறு இணையத்துடன் இணைய வேண்டும் என்பதைக் கட்டமை.
 network-proxy-connection-learn-more = மேலும் அறிய
 network-proxy-connection-settings =
@@ -511,7 +508,6 @@ privacy-header = உலாவி தனியுரிமை
 
 ## Privacy Section - Forms
 
-forms-header = படிவங்கள் & கடவுச்சொற்கள்
 forms-ask-to-save-logins =
     .label = இணைய தளங்களுக்கான புகுபதிகைகள் கடவுச்சொற்களை சேமிக்க கேள்
     .accesskey = r
@@ -578,21 +574,12 @@ sitedata-total-size-calculating = தள தரவு மற்றும் இ�
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = நீங்கள் சேமித்த நினைவிகள், தள தரவு மற்றும் இடையகத்தின் தற்போதைய பயனளவு வன்தட்டில் { $value }{ $unit } அளவு பயன்படுத்தியுள்ளது.
 sitedata-learn-more = மேலும் அறிய
-sitedata-keep-until = அதுவரையில் வைத்திரு
-    .accesskey = u
-sitedata-keep-until-expire =
-    .label = அவை காலாவதியாகிறது
-sitedata-keep-until-closed =
-    .label = { -brand-short-name } மூடப்பட்டது
 sitedata-clear =
     .label = தரவினை அழி
     .accesskey = l
 sitedata-settings =
     .label = தரவை நிர்வகி
     .accesskey = M
-sitedata-cookies-exceptions =
-    .label = விதிவிலக்குகள்...
-    .accesskey = E
 
 ## Privacy Section - Address Bar
 
@@ -614,24 +601,6 @@ addressbar-suggestions-settings = தேடுபொறி பரிந்து
 
 ## Privacy Section - Tracking
 
-tracking-header = தடமறியல் பாதுகாப்பு
-tracking-desc = தடமறியல் பாதுகாப்பு உங்கள் உலாவல் தரவைச்  சேகரிக்கும் இணைய பின்தொடரிகளை பல வலைதளங்களில் முடக்கிறது. <a data-l10n-name="learn-more">உங்கள் தனியுரிமை மற்றும் தடமறியல் பாதுகாப்பு பற்றி மேலும் அறிய</a>
-tracking-mode-label = அறியப்பட்ட தடமறிவான்களை முடக்க தடமறியல் பாதுகாப்பைப் பயன்படுத்தவும்
-tracking-mode-always =
-    .label = எப்போதும்
-    .accesskey = y
-tracking-mode-private =
-    .label = அந்தரங்க சாளரங்களில் மட்டும்
-    .accesskey = l
-tracking-mode-never =
-    .label = ஒருபோதுமில்லை
-    .accesskey = N
-tracking-exceptions =
-    .label = விதிவிலக்குகள்…
-    .accesskey = x
-tracking-change-block-list =
-    .label = தடை பட்டியலை மாற்று...
-    .accesskey = C
 
 ## Privacy Section - Permissions
 
@@ -660,6 +629,9 @@ permissions-block-autoplay-media =
     .label = ஊடகங்ளை சத்தத்துடன் தானாக இயக்கும் தளங்களைத் தடு
     .accesskey = B
 permissions-block-autoplay-media-menu = தானாக சத்தங்களை எழுப்பும் தளங்களுக்காக
+permissions-block-autoplay-media2 =
+    .label = வலைத்தளங்களில் தானாக ஒலி இயக்குவதைத் தடு
+    .accesskey = த
 permissions-block-autoplay-media-exceptions =
     .label = விதிவிலக்குகள்...
     .accesskey = E
@@ -667,6 +639,9 @@ autoplay-option-ask =
     .label = எப்போதும் கேள்
 autoplay-option-allow =
     .label = தானியக்கத்தை அனுமதி
+autoplay-option-dont =
+    .label = தானியக்கம் வேண்டாம்
+permissions-autoplay-link = மேலும் அறிய
 permissions-block-popups =
     .label = பாப் அப் (துள்ளும்) சாளரங்களை தடுக்கவும்
     .accesskey = ப
