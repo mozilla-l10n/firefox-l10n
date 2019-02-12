@@ -8,4 +8,8 @@
 -->
 
 <!ENTITY window.title "Важныя навіны">
+<!ENTITY window.style "width: 490px">
+<!ENTITY sync "Для сінхранізацыі звестак, ужо захаваных у Firefox, з гэтай усталёўкай &brandShortName;, увайдзіце ў свой &syncBrand.fxAccount.label;.">
+<!ENTITY continue-button "Працягнуць">
 
+<!ENTITY mainText "Гэта ўстаноўка &brandShortName; мае новы профіль. Ён не дзеліць закладкі, паролі і карыстальніцкія налады з іншымі ўсталёўкамі Firefox (уключаючы Firefox, Firefox ESR, Firefox Beta, Firefox Developer Edition і Firefox Nightly) на гэтым камп'ютары.">
