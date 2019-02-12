@@ -2,8 +2,21 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+about-config-warning-checkbox = Me rapèlar la prochèna vês, mèrci!
+about-config-warning-button = Accèpto lo risco
+about-config-title = about:config
 about-config-pref-add = Apondre
+about-config-pref-toggle = Envèrsar
 about-config-pref-edit = Èditar
+about-config-pref-save = Sârvar
+about-config-pref-reset = Recomenciér
+about-config-pref-delete = Garar
+
+## Labels for the type selection radio buttons shown when adding preferences.
+
+about-config-pref-add-type-boolean = Bolèèn
+about-config-pref-add-type-number = Nombro
+about-config-pref-add-type-string = Chêna
 
 ## Preferences with a non-default value are differentiated visually, and at the
 ## same time the state is made accessible to screen readers using an aria-label
@@ -12,3 +25,7 @@ about-config-pref-edit = Èditar
 ## Variables:
 ##   $value (String): The full value of the preference.
 
+about-config-pref-accessible-value-default =
+    .aria-label = { $value } (dèfôt)
+about-config-pref-accessible-value-custom =
+    .aria-label = { $value } (pèrsonalisâ)

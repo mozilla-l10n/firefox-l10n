@@ -1,0 +1,47 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
+<!ENTITY places.library.title  "Bibliotèca">
+<!ENTITY places.library.width  "700">
+<!ENTITY places.library.height "500">
+<!ENTITY organize.label        "Organisar">
+<!ENTITY organize.accesskey    "O">
+<!ENTITY organize.tooltip      "Organisar los mârca-pâges">
+
+<!ENTITY file.close.label               "Fèrmar">
+<!ENTITY file.close.accesskey           "F">
+<!ENTITY cmd.close.key                  "w">
+<!ENTITY views.label                    "Vues">
+<!ENTITY views.accesskey                "V">
+<!ENTITY views.tooltip                  "Changiér la vua">
+<!ENTITY view.columns.label             "Vêr en colones">
+<!ENTITY view.columns.accesskey         "C">
+<!ENTITY view.sort.label                "Discèrnar">
+<!ENTITY view.sort.accesskey            "D">
+<!ENTITY view.unsorted.label            "Pas discèrnâ">
+<!ENTITY view.unsorted.accesskey        "P">
+<!ENTITY view.sortAscending.label       "Tri alfabètico">
+<!ENTITY view.sortAscending.accesskey   "A">
+<!ENTITY view.sortDescending.label      "Tri alfabètico envèrsâ">
+<!ENTITY view.sortDescending.accesskey  "Z">
+
+<!ENTITY importBookmarksFromHTML.label     "Emportar de mârca-pâge de HTML…">
+<!ENTITY importBookmarksFromHTML.accesskey "E">
+<!ENTITY exportBookmarksToHTML.label       "Èxportar de mârca-pâges en HTML…">
+<!ENTITY exportBookmarksToHTML.accesskey   "X">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
