@@ -17,6 +17,12 @@ about-config-pref-save = Сачувај
 about-config-pref-reset = Поново постави
 about-config-pref-delete = Обриши
 
+## Labels for the type selection radio buttons shown when adding preferences.
+
+about-config-pref-add-type-boolean = Булова вредност
+about-config-pref-add-type-number = Број
+about-config-pref-add-type-string = Ниска
+
 ## Preferences with a non-default value are differentiated visually, and at the
 ## same time the state is made accessible to screen readers using an aria-label
 ## that won't be visible or copied to the clipboard.
