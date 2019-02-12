@@ -735,6 +735,7 @@ content-blocking-all-third-party-cookies = Alle tredjeparts-cookies
 
 content-blocking-warning-title = Vigtigt!
 content-blocking-warning-desc = Nogen websteder kan holde op med at fungere, når du blokerer cookies og sporings-tjenester. Det er nemt at slå blokering fra for websteder, du stoler på.
+content-blocking-warning-description = Nogen websteder kan holde op med at fungere, når du blokerer indhold. Det er nemt at slå blokering fra for websteder, du stoler på.
 content-blocking-learn-how = Læs hvordan
 
 content-blocking-tracking-protection-trackers-label =
@@ -798,6 +799,17 @@ content-blocking-cookies-label =
   .label = Cookies
   .accesskey = C
 
+# Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
+content-blocking-cryptominers-label =
+  .label = Cryptominers
+  .accesskey = y
+
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+content-blocking-fingerprinters-label =
+  .label = Fingerprinters
+  .accesskey = F
+
 ## Privacy Section - Tracking
 
 tracking-header = Beskyttelse mod sporing
@@ -846,7 +858,6 @@ permissions-notification-link = Læs mere
 permissions-notification-pause =
     .label = Sæt beskeder på pause, indtil { -brand-short-name } starter igen
     .accesskey = b
-permissions-block-autoplay-media =
     .label = Lad ikke websteder starte automatisk afspilning af mediefiler med lyd
     .accesskey = m
 permissions-block-autoplay-media-menu = For websteder, der automatisk afspiller lyd
