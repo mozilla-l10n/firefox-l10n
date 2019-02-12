@@ -67,17 +67,18 @@
  -->
 <!ENTITY updateApp.version.pre           "Sürüm ">
 <!ENTITY updateApp.version.post          "">
+<!ENTITY updateAppAllow.description      "&brandShortName; şunları yapabilir">
 <!ENTITY updateAuto.label                "Güncellemeleri otomatik olarak kur (önerilir: artırılmış güvenlik)">
 <!ENTITY updateAuto.accesskey            "o">
 <!ENTITY updateCheck.label               "Güncellemeleri denetle, ama onları kurma kararını bana bırak">
 <!ENTITY updateCheck.accesskey           "d">
-<!ENTITY updateManual.label              "Güncellemeleri asla denetleme (önerilmez: güvenlik riski)">
-<!ENTITY updateManual.accesskey          "a">
 <!ENTITY updateHistory.label             "Güncelleme geçmişini göster">
 <!ENTITY updateHistory.accesskey         "n">
 
 <!ENTITY useService.label                "Güncellemeleri kurmak için arka plan hizmetini kullan">
 <!ENTITY useService.accesskey            "G">
+
+<!ENTITY updateCrossUserSettingWarning.description "Bu ayar tüm Windows hesaplarına ve bu &brandShortName; profilini kullanan &brandShortName; kurulumlarına uygulanacaktır.">
 
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Ayarlar…">
