@@ -417,7 +417,7 @@ search-restore-default =
 search-remove-engine =
     .label = Уклони
     .accesskey = У
-search-find-more-link = Нађите још претраживача
+search-find-more-link = Нађите више претраживача
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Поновљена кључна реч
