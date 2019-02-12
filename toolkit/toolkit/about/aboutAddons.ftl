@@ -99,6 +99,20 @@ detail-update-automatic =
 detail-update-manual =
     .label = Fra
     .tooltiptext = Installer ikke opdateringer automatisk
+
+# Used as a description for the option to allow or block an add-on in private windows.
+detail-private-browsing-label = Anvend i private vinduer
+
+detail-private-browsing-description = Udvidelsen vil fungere i private vinduer og dermed have adgang til dine aktiviteter på nettet. <label data-l10n-name="detail-private-browsing-learn-more">Læs mere</label>
+
+detail-private-browsing-on =
+    .label = Tillad
+    .tooltiptext = Aktivér i private vinduer
+
+detail-private-browsing-off =
+    .label = Tillad ikke
+    .tooltiptext = Deaktiver i private vinduer
+
 detail-home =
     .label = Webside
 detail-home-value =
@@ -218,3 +232,33 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Installer opdateringer
     .tooltiptext = Installer tilgængelige opdateringer i denne oversigt
+
+## Extension shortcut management
+
+manage-extensions-shortcuts =
+    .label = Håndter genveje til udvidelser
+    .accesskey = H
+shortcuts-empty-message = Der er ingen genvej for denne udvidelse.
+shortcuts-no-addons = Du har ikke aktiveret nogen udvidelser.
+shortcuts-input =
+  .placeholder = Indtast en genvej.
+
+shortcuts-browserAction = Aktiver udvidelse
+shortcuts-pageAction = Aktiver sidehandling
+shortcuts-sidebarAction = Vis/skjul sidepanelet
+
+shortcuts-modifier-mac = Inkluder Ctrl, Alt eller ⌘
+shortcuts-modifier-other = Inkluder Ctrl eller Alt
+shortcuts-invalid = Ugyldig kombination
+shortcuts-letter = Indtast et bogstav
+shortcuts-system = Kan ikke tilsidesætte { -brand-short-name }-genvej
+
+shortcuts-card-expand-button =
+    { $numberToShow ->
+        *[other] vis { $numberToShow } til
+    }
+
+shortcuts-card-collapse-button = Vis færre
+
+go-back-button =
+    .tooltiptext = Gå tilbage
