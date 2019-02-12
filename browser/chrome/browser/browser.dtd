@@ -21,16 +21,20 @@
 <!-- Tab context menu -->
 <!ENTITY  reloadTab.label                    "Recarega feuggio">
 <!ENTITY  reloadTab.accesskey                "R">
-<!ENTITY  reloadAllTabs.label                "Recarega tutti i feuggi">
-<!ENTITY  reloadAllTabs.accesskey            "a">
 <!ENTITY  selectAllTabs.label                "Seleçionna tutti i feuggi">
 <!ENTITY  selectAllTabs.accesskey            "S">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
 <!ENTITY  duplicateTab.label                 "Duplica Feuggio">
+<!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
+These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  duplicateTab.accesskey             "D">
-<!ENTITY  closeTabOptions.label              "Inpostaçioin pe serâ o feuggio">
-<!ENTITY  closeTabOptions.accesskey          "I">
+<!-- LOCALIZATION NOTE (duplicateTabs.label): This is a command to duplicate
+a tab (i.e. it is a verb, not adjective). -->
+<!ENTITY  duplicateTabs.label                "Duplica Feuggi">
+<!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
+These items have the same accesskey but will never be visible at the same time. -->
+<!ENTITY  duplicateTabs.accesskey            "D">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -38,9 +42,6 @@ left instead of right. -->
 <!ENTITY  closeTabsToTheEnd.accesskey        "d">
 <!ENTITY  closeOtherTabs.label               "Særa atri feuggi">
 <!ENTITY  closeOtherTabs.accesskey           "S">
-
-<!ENTITY  closeSelectedTabs.label            "Særa i feuggi seleçionæ">
-<!ENTITY  closeSelectedTabs.accesskey        "S">
 
 <!ENTITY  closeTabs.label                    "Særa feuggi">
 <!ENTITY  closeTabs.accesskey                "S">
@@ -54,10 +55,6 @@ same accesskey but will never be visible at the same time. -->
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinSelectedTabs.accesskey        "f">
-<!-- Reload Tab and Reload Selected Tabs have the same accesskey
-but will never be visible at the same time. -->
-<!ENTITY  reloadSelectedTabs.label           "Recarega feuggi seleçionæ">
-<!ENTITY  reloadSelectedTabs.accesskey       "R">
 <!-- LOCALIZATION NOTE(reloadTab.label, reloadTabs.label): have the same accesskey
 but will never be visible at the same time. -->
 <!ENTITY  reloadTabs.label                   "Recarega feuggi">
@@ -82,8 +79,6 @@ same accesskey but will never be visible at the same time. -->
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinTab.accesskey                 "T">
-<!ENTITY  sendTabToDevice.label              "Manda Feuggio a-o Dispoxitivo">
-<!ENTITY  sendTabToDevice.accesskey          "D">
 <!ENTITY  sendPageToDevice.label             "Manda Pagina a-o Dispoxitivo">
 <!ENTITY  sendPageToDevice.accesskey         "D">
 <!ENTITY  sendLinkToDevice.label             "Manda Colegamento a-o Dispoxitivo">
@@ -102,8 +97,6 @@ These two items have the same accesskey but will never be visible at the same ti
 <!ENTITY  moveToNewWindow.accesskey          "M">
 <!ENTITY  reopenInContainer.label            "Arvi torna in Contegnitô">
 <!ENTITY  reopenInContainer.accesskey        "e">
-<!ENTITY  bookmarkAllTabs.label              "Azonzi tutti i feuggi a-i segnalibbri…">
-<!ENTITY  bookmarkAllTabs.accesskey          "t">
 <!ENTITY  bookmarkTab.label                  "Azonzi feuggio a-i segnalibbri">
 <!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
@@ -115,6 +108,10 @@ These items have the same accesskey but will never be visible at the same time. 
 <!ENTITY  hiddenTabs.label                   "Feuggi ascozi">
 
 <!ENTITY  listAllTabs.label      "Lista de tutti i feuggi">
+
+<!-- LOCALIZATION NOTE (allTabsMenu.searchTabs.label): "Search" is a verb, as
+in "Search through tabs". -->
+<!ENTITY  allTabsMenu.searchTabs.label       "Bare de Riçerca">
 
 <!ENTITY tabCmd.label "Neuvo feuggio">
 <!ENTITY tabCmd.accesskey "N">
@@ -134,6 +131,8 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.accesskey "p">
 <!ENTITY printCmd.commandkey "p">
 
+<!ENTITY taskManagerCmd.label "Gestion ativitæ">
+
 <!ENTITY goOfflineCmd.label "Loua feua linia">
 <!ENTITY goOfflineCmd.accesskey "L">
 
@@ -143,11 +142,6 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.label "Bara di Segnalibbri">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "Ògetti da Bara di Segnalibbri">
-
-<!ENTITY toolbarContextMenu.reloadAllTabs.label "Carega torna tutti i feuggi">
-<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "r">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Tutti i feuggiinti segnalibbri…">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "T">
 
 <!ENTITY toolbarContextMenu.reloadSelectedTab.label "Recarega feuggio seleçionou">
 <!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
@@ -253,9 +247,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "Azonzi questa pagina a-i segnalibbri">
 <!ENTITY editThisBookmarkCmd.label "Cangia segnalibbro">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-
-<!ENTITY subscribeToPageMenupopup.label "Abon-ite a sta pagina">
-<!ENTITY subscribeToPageMenuitem.label "Abon-ite a questa pagina…">
 
 <!ENTITY addCurPagesCmd.label "Azonzi tutti i feuggi a-i segnalibbri…">
 <!ENTITY showAllBookmarks2.label "Fanni vedde tutti i segnalibbri">
@@ -370,10 +361,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY webDeveloperMenu.label       "Svilupatô Web">
 <!ENTITY webDeveloperMenu.accesskey   "W">
-
-<!ENTITY devtoolsRecordExecution.label "Ezegoçion da registraçion">
-<!ENTITY devtoolsSaveRecording.label "Sarva registraçion">
-<!ENTITY devtoolsReplayExecution.label "Ripròduxi torna ezegoçion">
 
 <!ENTITY inspectContextMenu.label     "Ispeçionn-a elemento">
 <!ENTITY inspectContextMenu.accesskey "Q">
@@ -504,7 +491,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "A">
 <!ENTITY customizeMenu.manageExtension.label "Gestisci estenscion">
 <!ENTITY customizeMenu.manageExtension.accesskey "G">
-
 <!ENTITY customizeMenu.removeExtension.label "Scancella Estenscion">
 <!ENTITY customizeMenu.removeExtension.accesskey "c">
 
@@ -645,6 +631,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.label      "Azonzi sto riquaddro a-i segnalibbri">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "A">
 <!ENTITY pageAction.copyLink.label    "Còpia Colegamento">
+
+<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
+  "Pocket" is a brand name. -->
+<!ENTITY pocketButton.tooltiptext     "Sarva in Pocket">
+<!ENTITY saveToPocketCmd.label        "Sarva pagina in Pocket">
+<!ENTITY saveToPocketCmd.accesskey    "k">
+<!ENTITY saveLinkToPocketCmd.label    "Sarva colegamento in Pocket">
+<!ENTITY saveLinkToPocketCmd.accesskey "o">
+<!ENTITY pocketMenuitem.label         "Amia elenco Pocket">
+
 <!ENTITY emailPageCmd.label           "Manda colegamento pe email…">
 <!ENTITY emailPageCmd.accesskey       "c">
 <!ENTITY savePageCmd.label            "Sarva pagina co-o nomme…">
@@ -883,6 +879,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsReloadHint "Peu dase che ti devi arvî torna a pagina pe vedde i cangiamenti.">
 <!ENTITY identity.permissionsPreferences.tooltip "Arvi preferense di permissi">
 
+<!ENTITY identity.contentBlockingPreferences.tooltip "Arvi preferense do blòcco di contegnui">
+
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Feuggio do navegatô">
@@ -982,44 +981,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.allWindowsShared.message "Tutte i barcoin vixibili into schermo saian condivizi.">
 
 <!ENTITY contentBlocking.title "Blòcco di contengui">
-<!ENTITY contentBlocking.disabled.label "Dizativou">
 
-<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
-     This label signals that this type of content blocking is turned
-     ON and is successfully blocking malicious/slow content, so this is
-     a positive thing. It forms the end of the (imaginary) sentence
-     "Slow-Loading Trackers [are] Blocked"-->
-<!ENTITY contentBlocking.fastBlock.blocked.label "Blocou">
-<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
-     This is displayed as a link to preferences, where the user can add
-     this specific type of content blocking. When this text is shown
-     the type of content blocking is currently not enabled. -->
-<!ENTITY contentBlocking.fastBlock.add.label "Azonzi blòcco…">
 
-<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
-     This label signals that this type of content blocking is turned
-     ON and is successfully blocking tracker content, so this is
-     a positive thing. It forms the end of the (imaginary) sentence
-     "Trackers [are] Blocked"-->
-<!ENTITY contentBlocking.trackingProtection.blocked.label "Blocou">
-<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
-     This is displayed as a link to preferences, where the user can add
-     this specific type of content blocking. When this text is shown
-     the type of content blocking is currently not enabled. -->
-<!ENTITY contentBlocking.trackingProtection.add.label "Azonzi blòcco…">
 
-<!ENTITY contentBlocking.3rdPartyCookies.label "Cookie de terse parte">
-<!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.blocked.label):
-     This label signals that this type of content blocking is turned
-     ON and is successfully blocking third-party cookies, so this is
-     a positive thing. It forms the end of the (imaginary) sentence
-     "Third-Party Cookies [are] Blocked"-->
-<!ENTITY contentBlocking.3rdPartyCookies.blocked.label "Blocou">
-<!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.add.label):
-     This is displayed as a link to preferences, where the user can add
-     this specific type of content blocking. When this text is shown
-     the type of content blocking is currently not enabled. -->
-<!ENTITY contentBlocking.3rdPartyCookies.add.label "Azonzi blòcco…">
+
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Segnala problema">
 <!ENTITY contentBlocking.breakageReportView.label "Segnala problemi">
@@ -1029,31 +994,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Manda Report">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Anulla">
 
-<!ENTITY trackingProtection.title "Proteçion anti-traciamento">
-<!ENTITY trackingProtection.tooltip "Arvi e preferense da proteçion anti-traciamento">
-
-<!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
+<!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock4.label "Dizabilita pe sto scito">
-<!ENTITY trackingProtection.unblock4.accesskey "D">
-<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate6.label, trackingProtection.unblockPrivate6.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate4.label "Dizabilita o blòcco tenporaneamente">
-<!ENTITY trackingProtection.unblockPrivate4.accesskey "D">
-<!ENTITY trackingProtection.block5.label "Abilita pe sto scito">
-<!ENTITY trackingProtection.block5.accesskey "A">
 <!ENTITY trackingProtection.reload2.label "Carega torna a pagina">
 <!ENTITY trackingProtection.reload2.accesskey "C">
 
 <!ENTITY pluginNotification.showAll.label "Veddi tutti">
 <!ENTITY pluginNotification.showAll.accesskey "V">
-
-<!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
-<!ENTITY pluginActivateNow.label "Permetti oua">
-<!ENTITY pluginActivateAlways.label "Permetti e aregòrda">
-<!ENTITY pluginBlockNow.label "Blòcca o plugin">
 
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
      width of the plugin popup notification that can appear if a plugin has been
@@ -1140,11 +1091,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "Pagina açioin">
 <!ENTITY pageAction.addToUrlbar.label "Azonzi a-a bara di indirissi">
 <!ENTITY pageAction.removeFromUrlbar.label "Leva da-a bara di indirissi">
-<!ENTITY pageAction.allowInUrlbar.label "Mostra inta bara di indirissi">
-<!ENTITY pageAction.disallowInUrlbar.label "No mostrâ inta bara di indirissi">
 <!ENTITY pageAction.manageExtension.label "Gestisci estenscioin…">
-
-<!ENTITY pageAction.sendTabToDevice.label "Manda feuggio a-o dispoxitivo">
 
 <!ENTITY sendToDevice.syncNotReady.label "Scincronizzo dispoxitivi…">
 
@@ -1163,3 +1110,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Gestisci e inpostaçioin di conponenti azonti sciacando <image class='addon-addon-icon'/> into <image class='addon-toolbar-icon'/> menû.">
+
