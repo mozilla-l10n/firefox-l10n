@@ -4,6 +4,9 @@
 
 addons-window =
     .title = Менаџер додатака
+search-header =
+    .placeholder = Претражи сајт addons.mozilla.org
+    .searchbuttonlabel = Претражи
 search-header-shortcut =
     .key = f
 loading-label =
@@ -21,6 +24,12 @@ list-empty-button =
 install-addon-from-file =
     .label = Инсталирај додатак из датотеке…
     .accesskey = И
+help-button = Подршка за додатке
+preferences =
+    { PLATFORM() ->
+        [windows] { -brand-short-name } опције
+       *[other] { -brand-short-name } поставке
+    }
 tools-menu =
     .tooltiptext = Алатке за све додатке
 show-unsigned-extensions-button =
@@ -203,3 +212,10 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Инсталирај ажурирања
     .tooltiptext = Инсталирајте доступна ажурирања са овог списка
+
+## Extension shortcut management
+
+manage-extensions-shortcuts =
+    .label = Управљај пречицама екстензија
+    .accesskey = с
+shortcuts-browserAction = Активирај екстензију
