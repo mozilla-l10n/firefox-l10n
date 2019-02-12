@@ -9,6 +9,7 @@ url-classifier-search-result-uri = URI: { $uri }
 url-classifier-search-result-list = Lista de tablas: { $list }
 url-classifier-search-input = URL
 url-classifier-search-error-invalid-url = URL inválida
+url-classifier-search-error-no-features = No se han seleccionado funcionalidades
 url-classifier-search-btn = Empezar a buscar
 url-classifier-search-features = Características
 url-classifier-search-listType = Tipo de lista

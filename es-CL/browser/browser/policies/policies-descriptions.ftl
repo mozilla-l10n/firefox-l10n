@@ -17,6 +17,7 @@ policy-BlockAboutConfig = Bloquear acceso a la página about:config.
 policy-BlockAboutProfiles = Bloquear acceso a la página about:profiles.
 policy-BlockAboutSupport = Bloquear acceso a la página about:support.
 policy-Bookmarks = Crear marcadores en la barra de herramientas de marcadores, en el menú de marcadores o en una carpeta específica dentro de los mismos.
+policy-CaptivePortal = Activar o desactivar soporte de portal cautivo.
 policy-CertificatesDescription = Añade certificados o usa los certificados integrados.
 policy-Cookies = Permitir o negar a los sitios web establecer cookies.
 policy-DisableAppUpdate = Evitar que el navegador se actualice.
@@ -54,6 +55,7 @@ policy-HardwareAcceleration = De ser falso, desactiva la aceleración por hardwa
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Establecer y bloquear opcionalmente la página de inicio.
 policy-InstallAddonsPermission = Permitir que ciertos sitios web instalen complementos.
+policy-NetworkPrediction = Activar o desactivar predicción de red (obtención adelantada de DNS).
 policy-NoDefaultBookmarks = Desactiva la creación por defecto de marcadores incluidos con { -brand-short-name }, y los marcadores inteligentes (Más visitados, Etiquetas recientes). Nota: esta política solo es efectiva si es usada antes de la primera ejecución del perfil.
 policy-OfferToSaveLogins = Refuerza el ajuste para permitir a { -brand-short-name } ofrecer recordar las conexiones y contraseñas guardadas. Se aceptan tanto el valor verdadero como falso.
 policy-OverrideFirstRunPage = Saltarse la página de primera ejecución. Deja esta política en blanco si deseas desactivar la página de primera ejecución.

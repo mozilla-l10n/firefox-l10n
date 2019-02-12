@@ -673,6 +673,7 @@ content-blocking-all-windows-trackers = Rastreadores conocidos en todas las vent
 content-blocking-all-third-party-cookies = Todas las cookies de terceros
 content-blocking-warning-title = ¡Atención!
 content-blocking-warning-desc = Bloquear cookies y rastreadores puede hacer que algunos sitios fallen. Es fácil desactivar el bloqueo para los sitios en los que confías.
+content-blocking-warning-description = Bloquear el contenido puede hacer que algunos sitios dejen de funcionar. Es fácil desactivar el bloqueo para los sitios de confianza.
 content-blocking-learn-how = Aprender cómo
 content-blocking-trackers-label =
     .label = Rastreadores
@@ -687,6 +688,10 @@ content-blocking-tracking-protection-change-block-list = Cambiar lista de bloque
 content-blocking-cookies-label =
     .label = Cookies
     .accesskey = C
+# Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
+content-blocking-cryptominers-label =
+    .label = Criptomineros
+    .accesskey = y
 
 ## Privacy Section - Tracking
 
