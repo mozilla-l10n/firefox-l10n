@@ -98,6 +98,8 @@ policy-Homepage = Indstil og lås eventuelt startsiden.
 
 policy-InstallAddonsPermission = Tillad bestemte websteder at installere tilføjelser.
 
+policy-NetworkPrediction = Slå network prediction (DNS prefetching) til eller fra.
+
 policy-NoDefaultBookmarks = Deaktiver oprettelse af standard-bogmærker, der følger med { -brand-short-name }, samt de smarte bogmærker (Mest besøgte, Seneste mærkater). NB: Denne politik virker kun, hvis den aktiveres før profilen anvendes første gang.
 
 policy-OfferToSaveLogins = Indstil om { -brand-short-name } skal tilbyde at huske gemte logins og adgangskoder. Både true og false accepteres.
