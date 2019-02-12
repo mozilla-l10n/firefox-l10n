@@ -8,6 +8,20 @@ about-config-warning-text = Cangiâ ste inpostaçioin avansæ peu ese peigoso pe
 about-config-warning-checkbox = Ronpime torna, pe piaxei!
 about-config-warning-button = Acetto o reizego
 about-config-title = about:config
+about-config-search =
+    .placeholder = Çerca ò sciacca ESC pe vedde tutto
+about-config-pref-add = Azonzi
+about-config-pref-toggle = Cangia
+about-config-pref-edit = Cangia
+about-config-pref-save = Sarva
+about-config-pref-reset = Reinpòsta
+about-config-pref-delete = Scancella
+
+## Labels for the type selection radio buttons shown when adding preferences.
+
+about-config-pref-add-type-boolean = Boleano
+about-config-pref-add-type-number = Numero
+about-config-pref-add-type-string = Stringa
 
 ## Preferences with a non-default value are differentiated visually, and at the
 ## same time the state is made accessible to screen readers using an aria-label
@@ -16,3 +30,7 @@ about-config-title = about:config
 ## Variables:
 ##   $value (String): The full value of the preference.
 
+about-config-pref-accessible-value-default =
+    .aria-label = { $value } (predefinio)
+about-config-pref-accessible-value-custom =
+    .aria-label = { $value } (personâ)
