@@ -12,6 +12,7 @@
 <!ENTITY window.title "Вы запусцілі старую версію Firefox">
 <!ENTITY window.style "width: 490px;">
 
+<!ENTITY window.nosync "Выкарыстанне старой версіі Firefox можа пашкодзіць закладкі і гісторыю аглядання, ужо захаваныя ў наяўным профілі Firefox. Каб абараніць свае звесткі, стварыце новы профіль для гэтай усталёўкі &brandShortName;.">
 
 <!ENTITY window.create "Стварыць новы профіль">
 <!ENTITY window.quit-win "Выйсці">
