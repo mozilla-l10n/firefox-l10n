@@ -6,6 +6,7 @@ blocklist-window =
     .title = Listas de bloqueo
     .style = width: 50em
 blocklist-desc = Puedes elegir que lista usará { -brand-short-name } para bloquear elementos que podrían seguir tu actividad de navegación.
+blocklist-description = Elige la lista que { -brand-short-name } usa para bloquear a los rastreadores en línea. Las listas son proveídas por <a data-l10n-name="disconnect-link" title="Disconnect">Disconnect</a>.
 blocklist-close-key =
     .key = w
 blocklist-treehead-list =
@@ -28,3 +29,7 @@ blocklist-item-moz-std-name = Protección básica de Disconnect.me (recomendado)
 blocklist-item-moz-std-desc = Permite a algunos seguidores por lo que los sitios funcionan adecuadamente.
 blocklist-item-moz-full-name = Protección estricta de Disconnect.me.
 blocklist-item-moz-full-desc = Bloquea a los rastreadores conocidos. Algunos sitios web pueden no funcionar adecuadamente.
+blocklist-item-moz-std-listName = Lista de bloqueo de nivel 1 (Recomendada).
+blocklist-item-moz-std-description = Permite algunos rasteradores para que sean menos los sitios que dejen de funcionar.
+blocklist-item-moz-full-listName = Lista de bloqueo de nivel 2.
+blocklist-item-moz-full-description = Bloquea todos los rastreadores detectados. Algunos sitios web o contenidos pueden no cargar adecuadamente.

@@ -17,7 +17,6 @@ policy-BlockAboutConfig = Bloquear acceso a la página about:config.
 policy-BlockAboutProfiles = Bloquear acceso a la página about:profiles.
 policy-BlockAboutSupport = Bloquear acceso a la página about:support.
 policy-Bookmarks = Crear marcadores en la barra de herramientas de marcadores, en el menú de marcadores o en una carpeta específica dentro de los mismos.
-policy-Certificates = Usar o no los certificados integrados. Esta política es solo para Windows en este momento.
 policy-CertificatesDescription = Añade certificados o usa los certificados integrados.
 policy-Cookies = Permitir o negar a los sitios web establecer cookies.
 policy-DisableAppUpdate = Evitar que el navegador se actualice.
@@ -37,7 +36,6 @@ policy-DisableProfileImport = Deshabilitar el comando de menú para importar dat
 policy-DisableProfileRefresh = Deshabilitar el botón de "Refrescar { -brand-short-name }" en la página about:support.
 policy-DisableSafeMode = Deshabilitar la función para reiniciar en modo seguro. Nota: la tecla Shift para ingresar al modo seguro solo puede ser desactivada en en Windows usando las políticas de grupo del sistema.
 policy-DisableSecurityBypass = Impedir que el usuario se salte ciertas advertencias de seguridad.
-policy-DisableSetDesktopBackground = Deshabilitar el comando de menú para establecer una imagen como fondo de escritorio.
 policy-DisableSetAsDesktopBackground = Deshabilitar el comando de menú "Colocar como fondo de escritorio" para las imágenes.
 policy-DisableSystemAddonUpdate = Evitar que el navegador instale y actualice los complementos del sistema.
 policy-DisableTelemetry = Desactivar la telemetría.
@@ -49,8 +47,7 @@ policy-DontCheckDefaultBrowser = Deshabilitar revisión del navegador predetermi
 policy-EnableTrackingProtection = Habilitar o deshabilitar el bloqueo de contenido y bloquearlo opcionalmente.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
-# English or translate them as verbs. See also:
-# https://github.com/mozilla/policy-templates/blob/master/README.md#extensions-machine-only
+# English or translate them as verbs.
 policy-Extensions = Instalar, desinstalar o bloquear extensiones. La opción para "instalar" toma URLs o rutas como parámetros. Las opciones "desinstalar" y "bloquear" toman los ID de las extensiones.
 policy-FlashPlugin = Permitir o denegar el uso del complemento Flash.
 policy-HardwareAcceleration = De ser falso, desactiva la aceleración por hardware.
@@ -70,6 +67,7 @@ policy-SearchBar = Ajusta la ubicación predeterminada de la barra de búsqueda.
 policy-SearchEngines = Configurar ajustes de motores de búsqueda. Esta política solo está disponible en la versión de soporte extendido (ESR).
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Instala módulos PKCS #11.
-# “format” refers to the format used for the value of this policy. See also:
-# https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
+policy-SSLVersionMax = Establecer la versión máxima de SSL.
+policy-SSLVersionMin = Establecer la versión mínima de SSL.
+# “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Bloquear contenidos para que no sean visitados. Mira la documentación para más detalles sobre el formato.
