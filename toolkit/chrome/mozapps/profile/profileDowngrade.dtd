@@ -12,5 +12,6 @@
 <!ENTITY window.style "width: 490px;">
 
 
+<!ENTITY window.create "Crear nuevo perfil">
 <!ENTITY window.quit-win "Salir">
 <!ENTITY window.quit-nonwin "Salir">
