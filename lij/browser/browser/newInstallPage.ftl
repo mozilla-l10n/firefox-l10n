@@ -12,8 +12,12 @@ heading = Cangia o teu profî { -brand-short-name }
 changed-title = Cöse o l'é cangiou?
 changed-desc-profiles = L'instalaçion de { -brand-short-name } a l'à 'n neuvo profî. Un profî o l'é 'n'insemme de file donde Firefox o sarva e informaçioin comme segnalibbri, poule segrete e preferense.
 resources = Risorse:
+support-link = Uzo do gestô do profî - Articoli de sopòrto
+sync-header = Intra ò fanni 'n { -fxaccount-brand-name }
 sync-label = Scrivi a teu email
 sync-input =
     .placeholder = Email
 sync-button = Continoa
 sync-terms = Se ti væ avanti t'ê d'acòrdio co-i <a data-l10n-name="terms">Termini do Serviçio</a> e  <a data-l10n-name="privacy">l'Informativa da Privacy</a>.
+sync-first = L'é a primma vòtta che ti deuvi { -sync-brand-name }? Ti devi acede inte ògni instalaçion de Firefox pe scincronizâ e teu informaçioin.
+sync-learn = Atre informaçioin
