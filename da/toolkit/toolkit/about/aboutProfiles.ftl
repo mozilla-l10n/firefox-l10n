@@ -26,6 +26,10 @@ profiles-rename = Omdøb
 profiles-remove = Fjern
 profiles-set-as-default = Angiv som standardprofil
 profiles-launch-profile = Start profilen i en ny browser-session
+
+profiles-cannot-set-as-default-title = Kan ikke indstille standard
+profiles-cannot-set-as-default-message = Standard-profilen i { -brand-short-name } kan ikke ændres.
+
 profiles-yes = ja
 profiles-no = nej
 profiles-rename-profile-title = Omdøb profil
