@@ -11,10 +11,14 @@ findbar-previous =
     .tooltiptext = Treuva a precedente ripetiçion do testo da çercâ
 findbar-find-button-close =
     .tooltiptext = Særa a bara de riçerca
-findbar-highlight-all =
-    .label = Evidençia
-    .accesskey = n
-    .tooltiptext = Evidençia tutte e ripetiçioin do testo da çercâ
+findbar-highlight-all2 =
+    .label = Evidensia tutto
+    .accesskey =
+        { PLATFORM() ->
+            [macos] t
+           *[other] a
+        }
+    .tooltiptext = evidensia tutte e ripetiçioin do testo
 findbar-case-sensitive =
     .label = maioscole/minoscole
     .accesskey = M
