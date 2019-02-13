@@ -121,3 +121,4 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> कालबाह्य आणि हल्ला संवेदनशील असलेले सुरक्षा तंत्रज्ञान वापरत आहे. आपण सुरक्षित समजत असलेली माहिती आक्रमणकर्ता सहजपणे मिळवू शकतो. आपण भेट देण्या आधी, वेबसाईट नियंत्रकाने हा सर्व्हर निर्दोष करायला हवा.</p><p>त्रुटी कोड: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY networkProtocolError.title "नेटवर्क नियमात त्रुटी">
+<!ENTITY networkProtocolError.longDesc "<p>नेटवर्क प्रोटोकॉलच्या त्रुटी मुळे आपण पाहायचा प्रयत्न करत असलेले पृष्ठ दाखवले जाऊ शकत नाही.</p><ul><li>ही समस्या नोंदवण्यासाठी संकेतस्थळाच्या मालकांशी संपर्क साधा.</li></ul>">
