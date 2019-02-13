@@ -248,7 +248,7 @@ sandbox-proc-type-media-plugin = medie-plugin
 
 launcher-process-status-0 = Aktiveret
 launcher-process-status-1 = Deaktiveret på grund af en fejl
-launcher-process-status-2 = Disabled forcibly
+launcher-process-status-2 = Deaktiveret
 launcher-process-status-unknown = Ukendt status
 
 # Variables
