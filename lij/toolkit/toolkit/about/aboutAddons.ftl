@@ -87,6 +87,12 @@ detail-update-automatic =
 detail-update-manual =
     .label = Asmòrtou
     .tooltiptext = No instalâ agiornamenti in aotomatico
+detail-private-browsing-on =
+    .label = Permetti
+    .tooltiptext = Permetti inta Navegaçion privâ
+detail-private-browsing-off =
+    .label = No permette
+    .tooltiptext = Dizabilita inta Navegaçion privâ
 detail-home =
     .label = Pagina Prinçipâ
 detail-home-value =
@@ -206,3 +212,13 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Installa Agiornamento
     .tooltiptext = Installa i Agiornamenti da lista
+
+## Extension shortcut management
+
+shortcuts-modifier-mac = Includde Ctrl, Alt, ò ⌘
+shortcuts-modifier-other = Includde Ctrl ò Alt
+shortcuts-invalid = Conbinaçion no bonn-a
+shortcuts-letter = Scrivi 'na letia
+shortcuts-card-collapse-button = Mostra meno
+go-back-button =
+    .tooltiptext = Vanni inderê
