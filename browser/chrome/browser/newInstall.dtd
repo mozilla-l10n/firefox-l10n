@@ -8,5 +8,6 @@
 -->
 
 <!ENTITY window.title "முக்கிய செய்திகள்">
+<!ENTITY window.style "width: 490px">
 <!ENTITY continue-button "தொடர்க">
 
