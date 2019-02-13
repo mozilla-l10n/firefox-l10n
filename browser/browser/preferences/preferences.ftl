@@ -858,6 +858,7 @@ permissions-notification-link = Læs mere
 permissions-notification-pause =
     .label = Sæt beskeder på pause, indtil { -brand-short-name } starter igen
     .accesskey = b
+permissions-block-autoplay-media =
     .label = Lad ikke websteder starte automatisk afspilning af mediefiler med lyd
     .accesskey = m
 permissions-block-autoplay-media-menu = For websteder, der automatisk afspiller lyd
