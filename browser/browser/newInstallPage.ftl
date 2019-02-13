@@ -7,6 +7,9 @@
 ### Firefox" and "version" is used to mean "the specific revision number of a
 ### given Firefox channel". These terms are not synonymous.
 
+title = වැදගත් පුවත්
+heading = ඔබේ { -brand-short-name } පැතිකඩට වෙනස්කම්
+changed-title = කුමක් වෙනස් වීද?
 sync-input =
     .placeholder = විද්‍යුත් තැපැල් ලිපිනය
 sync-button = ඉදිරියට
