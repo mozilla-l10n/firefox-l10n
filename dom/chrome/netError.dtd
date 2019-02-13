@@ -19,6 +19,8 @@
 <!ENTITY fileNotFound.title "ගොනුව හමු නොවුණි">
 <!ENTITY fileNotFound.longDesc "<ul><li>අයිතමය නාමය වෙනස්කර, ඉවත්කර හෝ වෙනත් තැනක ස්ථාපිතව කර තිබිය හැකි?</li><li>දලිපිනයේ අක්‍ෂර වින්‍යාස හෝ වෙනත් ලිවිමේ ගැටලුවක් ද?</li><li>ඉල්ලා සිටි අයිතමය සඳහා ඔබට නිසි ප්‍රවේශ අවසර තිබේද?</li></ul>">
 
+<!ENTITY fileAccessDenied.title "ගොනුව වෙත පිවිසීම අවහිර කර ඇත">
+<!ENTITY fileAccessDenied.longDesc "<ul><li>එය ඉවත් කර හෝ ස්ථාන මාරු කර තිබිය හැකි, හෝ පිවිසුම වළක්වමින් ගොනු අවසර සකසා තිබිය හැක.</li></ul>">
 
 <!ENTITY generic.title "ඉල්ලීම නිම කළ නොහැක">
 <!ENTITY generic.longDesc "<p>මෙම ගැටලුව හෝ දෝෂය පිළිබඳ අමතර තොරතුරු දැනට නොමැත.</p>">
@@ -77,9 +79,12 @@
 <!ENTITY cspBlocked.title "Blocked by Content Security Policy">
 <!ENTITY cspBlocked.longDesc "<p>The browser prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
 
+<!ENTITY corruptedContentErrorv2.title "දූශිත අන්තර්ගත දෝශය">
 
 <!ENTITY remoteXUL.title "Remote XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Please contact the website owners to inform them of this problem.</li></ul></p>">
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+
+
