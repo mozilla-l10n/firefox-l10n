@@ -4,6 +4,7 @@
 
 # An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
 about-config-warning-title = इथे ड्रॅगन आहेत!
+about-config-warning-text = प्रगत सेटिंग्जमधील बदल या ॲप्लिकेशनची स्थिरता, सुरक्षा, व कार्यक्षमता करीता धोकादायक ठरू शकते. पुढे नक्की असल्यावरच पुढे जावे.
 about-config-warning-checkbox = कृपया मला पुन्हा त्रास द्या!
 about-config-warning-button = मी ही जोखीम पत्करतो
 about-config-title = about:config
