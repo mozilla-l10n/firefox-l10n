@@ -4,8 +4,6 @@
 
 do-not-track-description = පසුහැඹීම අනවශ්‍ය වෙබ් අඩවි සඳහා “පසුහැඹීම එපා“ සංඥාව යවන්න
 do-not-track-learn-more = තවත් දැනගන්න
-do-not-track-option-default =
-    .label = හඹායෑම් ආරක්ෂාව භාවිත කරන විට පමණක්
 do-not-track-option-always =
     .label = සැමවිටම
 pref-page =
@@ -409,17 +407,12 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-learn-more = තවත් දැනගන්න
-sitedata-keep-until-closed =
-    .label = { -brand-short-name } වසා අැත
 sitedata-clear =
     .label = දත්ත මකන්න...
     .accesskey = l
 sitedata-settings =
     .label = දත්ත කළමනාකරණය කරන්න...
     .accesskey = M
-sitedata-cookies-exceptions =
-    .label = හැරදැමීම්...
-    .accesskey = E
 
 ## Privacy Section - Address Bar
 
@@ -440,15 +433,6 @@ addressbar-locbar-openpage-option =
 
 ## Privacy Section - Tracking
 
-tracking-mode-always =
-    .label = සැමවිටම
-    .accesskey = y
-tracking-mode-private =
-    .label = පුද්ගලික කවුළුවකදී පමණක්
-    .accesskey = l
-tracking-mode-never =
-    .label = කිසිදාක නැත
-    .accesskey = n
 
 ## Privacy Section - Permissions
 
@@ -470,6 +454,13 @@ permissions-notification-settings =
     .label = සිටුවම්...
     .accesskey = t
 permissions-notification-link = තවත් දැනගන්න
+autoplay-option-ask =
+    .label = සෑමවිටම විමසන්න
+autoplay-option-allow =
+    .label = ස්වයං වාදනයට ඉඩ දෙන්න
+autoplay-option-dont =
+    .label = ස්වයං වාදනයට ඉඩ නොදෙන්න
+permissions-autoplay-link = තවත් දැනගන්න
 permissions-block-popups =
     .label = පොප්-අප් කවුළු වලකන්න
     .accesskey = B

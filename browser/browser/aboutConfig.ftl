@@ -2,7 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+about-config-warning-button = මම අවදානම පිළි ගනිමි
+about-config-title = about:config
+about-config-search =
+    .placeholder = සොයන්න හෝ සියල්ල පෙන්වීමට ESC ඔබන්න
 about-config-pref-add = එකතු
+about-config-pref-edit = සැකසුම්
 about-config-pref-save = සුරකින්න
 about-config-pref-reset = යළි සැකසුම
 about-config-pref-delete = මකන්න
@@ -19,3 +24,7 @@ about-config-pref-add-type-number = අංකය
 ## Variables:
 ##   $value (String): The full value of the preference.
 
+about-config-pref-accessible-value-default =
+    .aria-label = { $value } (පෙරනිමි)
+about-config-pref-accessible-value-custom =
+    .aria-label = { $value } (රුචි)
