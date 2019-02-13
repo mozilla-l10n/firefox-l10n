@@ -1128,6 +1128,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Gérez vos modules en cliquant sur <image class='addon-addon-icon'/> dans le menu <image class='addon-toolbar-icon'/>.">
 
+<!ENTITY addonPrivateBrowsing.header.label "Extensions dans les fenêtres de navigation privée">
 <!ENTITY addonPrivateBrowsing.okButton.label "J’ai compris">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "a">
 <!ENTITY addonPrivateBrowsing.manageButton.label "Gérer les extensions">
