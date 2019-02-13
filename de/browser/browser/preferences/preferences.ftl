@@ -602,6 +602,7 @@ sitedata-learn-more = Weitere Informationen
 sitedata-delete-on-close =
     .label = Cookies und Website-Daten beim Beenden von { -brand-short-name } löschen
     .accesskey = B
+sitedata-delete-on-close-private-browsing = Im permanenten Privaten Modus werden Cookies und Website-Daten immer gelöscht, wenn { -brand-short-name } geschlossen wird.
 sitedata-allow-cookies-option =
     .label = Annehmen von Cookies und Website-Daten
     .accesskey = A
