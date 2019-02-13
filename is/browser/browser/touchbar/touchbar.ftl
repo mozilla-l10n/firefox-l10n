@@ -17,4 +17,4 @@ reader-view = Leshamur
 # Meant to match the string displayed in an empty URL bar.
 open-location = Leita eða slá inn vistfang
 share = Deila
-focus = Loka
+close-window = Loka glugga
