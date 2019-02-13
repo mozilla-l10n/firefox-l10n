@@ -78,6 +78,7 @@
 <!ENTITY useService.label                "Uporabi storitev za nameščanje posodobitev v ozadju">
 <!ENTITY useService.accesskey            "Z">
 
+<!ENTITY updateCrossUserSettingWarning.description "Ta nastavitev bo uveljavljena v vseh uporabniških računih sistema Windows in &brandShortName;ovih profilih, ki uporabljajo to različico &brandShortName;a.">
 
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Nastavitve …">
