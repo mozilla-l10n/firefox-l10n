@@ -29,8 +29,6 @@ a tab (i.e. it is a verb, not adjective). -->
 <!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  duplicateTab.accesskey             "A">
-<!ENTITY  closeTabOptions.label              "Loka flipastillingum">
-<!ENTITY  closeTabOptions.accesskey          "O">
 <!-- LOCALIZATION NOTE (duplicateTabs.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
 <!ENTITY  duplicateTabs.label                "Tvöfalda flipa">
@@ -288,7 +286,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Geyma gögn í varanlegri gagnageymslu">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Vafri er á fjarstýringu">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Opna auðkenningarspjald vefs">
-
 <!ENTITY urlbar.storageAccessAnchor.tooltip               "Opna heimildaspjald vafravirkni">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Sýsla með deilingu á myndavél og/eða hljóðnema fyrir þetta vefsvæði">
@@ -986,66 +983,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.title "Blokkun efnis">
 <!ENTITY contentBlocking.detected "Blokkanlegt efni fundið á þessari síðu.">
 <!ENTITY contentBlocking.notDetected "Ekkert blokkanlegt efni fundið á þessari síðu.">
-<!ENTITY contentBlocking.disabled.label "Óvirkt">
-<!ENTITY contentBlocking.disabled.tooltip "Þú hefur slökkt á efnisblokkun.">
-<!ENTITY contentBlocking.exception.tooltip "Þú hefur slökkt á efnisblokkun fyrir þessa síðu.">
-
-<!ENTITY contentBlocking.fastBlock.label "Rekjarar sem hlaðast hægt">
-<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
-     This label signals that this type of content blocking is turned
-     ON and is successfully blocking malicious/slow content, so this is
-     a positive thing. It forms the end of the (imaginary) sentence
-     "Slow-Loading Trackers [are] Blocked"-->
-<!ENTITY contentBlocking.fastBlock.blocked.label "Blokkað">
-<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocking.label):
-     This label signals that this type of content blocking is turned
-     ON, so this is a positive thing. It forms the verb in (imaginary) sentence
-     "Firefox is blocking Slow-Loading Trackers"-->
-<!ENTITY contentBlocking.fastBlock.blocking.label "Blokkun">
-<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
-     This is displayed as a link to preferences, where the user can add
-     this specific type of content blocking. When this text is shown
-     the type of content blocking is currently not enabled. -->
-<!ENTITY contentBlocking.fastBlock.add.label "Bæta við blokkun…">
-
-<!ENTITY contentBlocking.trackingProtection2.label "Allir uppgötvaðir rekjarar">
 
 <!ENTITY contentBlocking.trackingProtection3.label "Rekjarar">
-<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
-     This label signals that this type of content blocking is turned
-     ON and is successfully blocking tracker content, so this is
-     a positive thing. It forms the end of the (imaginary) sentence
-     "Trackers [are] Blocked"-->
-<!ENTITY contentBlocking.trackingProtection.blocked.label "Blokkað">
-<!-- LOCALIZATION NOTE (contentBlocking.tranckingProtection.blocking.label):
-     This label signals that this type of content blocking is turned
-     ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
-     "Firefox is blocking Trackers"-->
-<!ENTITY contentBlocking.trackingProtection.blocking.label "Blokkun">
-<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
-     This is displayed as a link to preferences, where the user can add
-     this specific type of content blocking. When this text is shown
-     the type of content blocking is currently not enabled. -->
-<!ENTITY contentBlocking.trackingProtection.add.label "Bæta við blokkun…">
-
-<!ENTITY contentBlocking.3rdPartyCookies.label "Vefkökur þriðja aðila">
-<!ENTITY contentBlocking.3rdPartyCookies.trackers.label "Rekjandi kökur">
-<!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.blocked.label):
-     This label signals that this type of content blocking is turned
-     ON and is successfully blocking third-party cookies, so this is
-     a positive thing. It forms the end of the (imaginary) sentence
-     "Third-Party Cookies [are] Blocked"-->
-<!ENTITY contentBlocking.3rdPartyCookies.blocked.label "Blokkað">
-<!-- LOCALIZATION NOTE (contentBlocking.tranckingProtection.blocking.label):
-     This label signals that this type of content blocking is turned
-     ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
-     "Firefox is blocking Third-Party Cookies"-->
-<!ENTITY contentBlocking.3rdPartyCookies.blocking.label "Blokkun">
-<!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.add.label):
-     This is displayed as a link to preferences, where the user can add
-     this specific type of content blocking. When this text is shown
-     the type of content blocking is currently not enabled. -->
-<!ENTITY contentBlocking.3rdPartyCookies.add.label "Bæta við blokkun…">
 
 <!ENTITY contentBlocking.manageSettings.label "Stjórna efnisblokkun">
 <!ENTITY contentBlocking.manageSettings.accesskey "M">
@@ -1065,22 +1004,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Senda tilkynningu">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Hætta við">
 
-<!ENTITY trackingProtection.title "Gagnasöfnunarvörn">
-<!ENTITY trackingProtection.tooltip "Opna stillingar gagnasöfnunarvarnar">
-
-<!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock4.label "Slökkva á blokkun fyrir þessa síðu">
-<!ENTITY trackingProtection.unblock4.accesskey "D">
-<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate4.label "Slökkva á blokkun tímabundið">
-<!ENTITY trackingProtection.unblockPrivate4.accesskey "D">
-<!ENTITY trackingProtection.block5.label "Kveikja á blokkun fyrir þessa síðu">
-<!ENTITY trackingProtection.block5.accesskey "E">
-
 <!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
@@ -1098,11 +1021,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pluginNotification.showAll.label "Sýna allt">
 <!ENTITY pluginNotification.showAll.accesskey "S">
-
-<!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
-<!ENTITY pluginActivateNow.label "Leyfa núna">
-<!ENTITY pluginActivateAlways.label "Leyfa og muna">
-<!ENTITY pluginBlockNow.label "Loka á tengiforrit">
 
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
      width of the plugin popup notification that can appear if a plugin has been
@@ -1208,3 +1126,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Sýslaðu með viðbætur með því að smella á <image class='addon-addon-icon'/> í <image class='addon-toolbar-icon'/> valmyndinni.">
+
+<!ENTITY addonPrivateBrowsing.okButton.label "Allt í lagi, ég skil">
+<!ENTITY addonPrivateBrowsing.okButton.accesskey "O">

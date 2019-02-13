@@ -236,6 +236,7 @@ sandbox-proc-type-content = innihald
 sandbox-proc-type-file = innihald skráar
 sandbox-proc-type-media-plugin = miðils tengiforrit
 launcher-process-status-0 = Virkt
+launcher-process-status-unknown = Óþekkt staða
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows

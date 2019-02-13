@@ -88,6 +88,8 @@ detail-update-automatic =
 detail-update-manual =
     .label = Óvirkt
     .tooltiptext = Ekki setja sjálfvirkt inn uppfærslur
+# Used as a description for the option to allow or block an add-on in private windows.
+detail-private-browsing-label = Keyra í huliðsgluggum
 detail-home =
     .label = Heimasíða
 detail-home-value =
@@ -210,11 +212,12 @@ extensions-updates-update-selected =
 
 ## Extension shortcut management
 
-shortcuts-manage =
-    .label = Flýtilyklar
 shortcuts-input =
     .placeholder = Slá inn flýtilykil
 shortcuts-modifier-mac = Hafa með Ctrl, Alt eða ⌘
 shortcuts-modifier-other = Hafa með Ctrl eða Alt
 shortcuts-invalid = Ógild samsetning
 shortcuts-letter = Slá inn bókstaf
+shortcuts-card-collapse-button = Sýna minna
+go-back-button =
+    .tooltiptext = Til baka
