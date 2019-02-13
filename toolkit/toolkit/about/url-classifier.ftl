@@ -3,6 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 url-classifier-title = Informaçioin do Clasificatô URL
+url-classifier-search-title = Çerca
+url-classifier-search-result-title = Exiti
+url-classifier-search-result-uri = URI: { $uri }
+url-classifier-search-result-list = Liste de Tabelle: { $list }
+url-classifier-search-input = URL
+url-classifier-search-error-invalid-url = URL grammo
+url-classifier-search-error-no-features = Nisciunn-a fonçion seleçionâ
+url-classifier-search-btn = Iniçia a riçerca
+url-classifier-search-features = Carateristiche
 url-classifier-provider-title = Fornitô
 url-classifier-provider = Fornitô
 url-classifier-provider-last-update-time = Data urtimo agiornamento
