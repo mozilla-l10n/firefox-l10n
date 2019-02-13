@@ -18,4 +18,5 @@ sync-label = Skriv inn e-postadressen din
 sync-input =
     .placeholder = E-post
 sync-button = Fortsett
+sync-terms = Ved å fortsette aksepterer du vår <a data-l10n-name="terms">tjenestevilkår</a> og vår <a data-l10n-name="privacy">personvernbestemmelser</a>.
 sync-learn = Les mer
