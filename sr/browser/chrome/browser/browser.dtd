@@ -1129,6 +1129,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addonPostInstallMessage.label "Управљајте вашим додацима кликом на <image class='addon-addon-icon'/> у <image class='addon-toolbar-icon'/> менију.">
 
 <!ENTITY addonPrivateBrowsing.header.label "Проширења у приватним прозорима">
+<!ENTITY addonPrivateBrowsing.body.label "Подразумевано није дозвољен рад екстензија у приватним прозорима. Екстензије неће радити приликом приватног прегледања и неће имати приступ вашим активностима на мрежи. Можете омогућити рад екстензијама у приватним прозорима понаособ у својим подешавањима.">
 <!ENTITY addonPrivateBrowsing.okButton.label "У реду, разумем">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "У">
 <!ENTITY addonPrivateBrowsing.manageButton.label "Управљај проширењима">

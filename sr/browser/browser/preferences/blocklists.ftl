@@ -6,6 +6,7 @@ blocklist-window =
     .title = Листе блокираних елемената
     .style = width: 50em
 blocklist-desc = Можете изабрати коју листу ће { -brand-short-name } користити да блокира веб елементе који прате ваше активности.
+blocklist-description = Изаберите списак који ће { -brand-short-name } користити за блокирање пратиоца на мрежи. Спискове пружа <a data-l10n-name="disconnect-link" title="Disconnect">Disconnect</a>.
 blocklist-close-key =
     .key = w
 blocklist-treehead-list =
