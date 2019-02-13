@@ -222,3 +222,7 @@ extensions-updates-update-selected =
 
 shortcuts-input =
     .placeholder = කෙටිමඟක් ලියන්න
+shortcuts-browserAction = දිගුව සක්‍රීය කරන්න
+shortcuts-pageAction = පිටු ක්‍රියාව සක්‍රීය කරන්න
+shortcuts-modifier-mac = Ctrl, Alt, හෝ ⌘ ඇතුලත් කරන්න
+shortcuts-modifier-other = Ctrl හෝ Alt ඇතුලත් කරන්න
