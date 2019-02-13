@@ -1,98 +1,13 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!ENTITY addons.windowTitle                   "Gestô di Conponenti azonti">
-
-<!ENTITY search.placeholder2                  "Çerca in addons.mozilla.org">
-
-<!ENTITY search.placeholder3                  "Çerca in addons.mozilla.org">
-<!ENTITY search.buttonlabel                   "Çerca">
-<!-- LOCALIZATION NOTE (search.commandkey):
-     The search command key should match findOnCmd.commandkey from browser.dtd -->
-<!ENTITY search.commandkey                    "f">
-
-<!ENTITY loading.label                        "Carego…">
-<!ENTITY listEmpty.installed.label            "Ti no gh'æ di conponenti azonti de sto tipo instalæ
-">
-<!ENTITY listEmpty.availableUpdates.label     "Nisciun agiornamento trovou">
-<!ENTITY listEmpty.recentUpdates.label        "Urtimamente ti no t'æ agiornou nisciun conponente azonto">
-<!ENTITY listEmpty.findUpdates.label          "Çerca agiornamenti">
-<!ENTITY listEmpty.button.label               "Ciù informaçioin in sci conponenti azonti">
-<!ENTITY installAddonFromFile.label           "Installa i conponenti azonti da 'n file…">
-<!ENTITY installAddonFromFile.accesskey       "I">
-<!ENTITY toolsMenu.tooltip                    "Angæsi pe tutti i conponenti azonti">
-
-<!ENTITY getThemes.description                "T'eu personalizâ o teu navegatô?">
-<!ENTITY getThemes.learnMore                  "Çerni fra migiæe de temi.">
-
-
-<!ENTITY showUnsignedExtensions.button.label  "No ò posciuo verificâ quarche estenscion">
-<!ENTITY showAllExtensions.button.label       "Amia tutte e estenscioin">
-<!ENTITY debugAddons.label                    "Debug di Conponenti azonti">
-<!ENTITY debugAddons.accesskey                "B">
-
-<!-- global warnings -->
-<!ENTITY warning.safemode.label                    "Tutti i conponenti azonti son stæti dizabilitæ da o moddo seguo.">
-<!ENTITY warning.checkcompatibility.label          "O contròllo de conpatibilitæ di conponenti azonti l'é dizabilita. Ti peu avei di conponenti azonti no conpatibili.">
-<!ENTITY warning.checkcompatibility.enable.label   "Abilita">
-<!ENTITY warning.checkcompatibility.enable.tooltip "Abilita o contròllo a conpatibilitæ di conponenti azonti">
-<!ENTITY warning.updatesecurity.label              "O contròllo de seguessa in sci agiornamenti di conponenti azonti o l'é dizabilitou. Te peu capitâ de ese aroinou da i agiornamenti.">
-<!ENTITY warning.updatesecurity.enable.label       "Abilita">
-<!ENTITY warning.updatesecurity.enable.tooltip     "Abilita o contròllo de seguessa in sci agiornamenti di conponenti azonti">
-
-<!-- categories / views -->
-<!ENTITY view.discover.label                  "Scarega i Conponenti azonti">
-<!ENTITY view.recentUpdates.label             "Urtimi agiornamenti">
-<!ENTITY view.availableUpdates.label          "Agiornamenti disponibili">
-
-
-<!-- addon updates -->
-<!ENTITY updates.checkForUpdates.label        "Çerca agiornamenti">
-<!ENTITY updates.checkForUpdates.accesskey    "c">
-<!ENTITY updates.viewUpdates.label            "Fanni vedde i urtimi agiornamenti">
-<!ENTITY updates.viewUpdates.accesskey        "v">
-<!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
-     is a checkbox that toggles the default global behavior for add-on update
-     checking. -->
-<!ENTITY updates.updateAddonsAutomatically.label     "Agiorna i conponenti azonti in aotomatico">
-<!ENTITY updates.updateAddonsAutomatically.accesskey "A">
-<!-- LOCALIZATION NOTE (updates.resetUpdatesToAutomatic.label, updates.resetUpdatesToManual.label):
-     Specific addons can have custom update checking behaviors ("Manually",
-     "Automatically", "Use default global behavior"). These menu items reset the
-     update checking behavior for all add-ons to the default global behavior
-     (which itself is either "Automatically" or "Manually", controlled by the
-     updates.updateAddonsAutomatically.label menu item). -->
-<!ENTITY updates.resetUpdatesToAutomatic.label       "Reinpòsta tutti i conponenti azonti pe agiornali in aotomatico">
-<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "R">
-<!ENTITY updates.resetUpdatesToManual.label          "Reinpòsta tutti i conponenti azonti pe agiornali a man">
-<!ENTITY updates.resetUpdatesToManual.accesskey      "R">
-<!ENTITY updates.updating.label               "Agiorno i conponenti azonti">
-<!ENTITY updates.installed.label              "I teu conponenti azonti son stæti agiornæ.">
-<!ENTITY updates.downloaded.label             "I teu conponenti azonti son stæti descaregæ.">
-<!ENTITY updates.restart.label                "Arvi torna oua pe finî l'instalaçion">
-<!ENTITY updates.noneFound.label              "Nisciun agiornamento trovou">
-<!ENTITY updates.manualUpdatesFound.label     "Fanni vedde i agiornamenti disponibili">
-<!ENTITY updates.updateSelected.label         "Installa Agiornamento">
-<!ENTITY updates.updateSelected.tooltip       "Installa i Agiornamenti da lista">
 
 <!-- addon actions -->
-<!ENTITY cmd.showDetails.label                "Fanni vedde ciù informaçioin">
-<!ENTITY cmd.showDetails.accesskey            "F">
-<!ENTITY cmd.findUpdates.label                "Treuva agiornamento">
-<!ENTITY cmd.findUpdates.accesskey            "T">
-<!ENTITY cmd.preferencesWin.label             "Inpostaçioin">
-<!ENTITY cmd.preferencesWin.accesskey         "o">
-<!ENTITY cmd.preferencesUnix.label            "Preferense">
-<!ENTITY cmd.preferencesUnix.accesskey        "P">
-
 <!ENTITY cmd.enableAddon.label                "Abilita">
 <!ENTITY cmd.enableAddon.accesskey            "A">
 <!ENTITY cmd.disableAddon.label               "Dizabilita">
 <!ENTITY cmd.disableAddon.accesskey           "D">
-<!ENTITY cmd.enableTheme.label                "Metti o Tema">
-<!ENTITY cmd.enableTheme.accesskey            "M">
-<!ENTITY cmd.disableTheme.label               "Leva o Tema">
-<!ENTITY cmd.disableTheme.accesskey           "L">
+
 <!ENTITY cmd.askToActivate.label              "Domanda primma de ativâ">
 <!ENTITY cmd.askToActivate.tooltip            "Chiedi ògni vòtta primma de ativâ questo conponente azonto">
 <!ENTITY cmd.alwaysActivate.label             "Ativa de longo">
@@ -100,17 +15,13 @@
 <!ENTITY cmd.neverActivate.label              "No ativâ mai">
 <!ENTITY cmd.neverActivate.tooltip            "No adeuviâ mai sto conponente azonto">
 <!ENTITY cmd.stateMenu.tooltip                "Domanda quande adeuviâ sto conponente azonto">
-<!ENTITY cmd.installAddon.label               "Installa">
-<!ENTITY cmd.installAddon.accesskey           "I">
+
 <!ENTITY cmd.uninstallAddon.label             "Scancella">
 <!ENTITY cmd.uninstallAddon.accesskey         "S">
 <!ENTITY cmd.showPreferencesWin.label         "Inpostaçioin">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Cangia e preferense de sto conponente azonto">
 <!ENTITY cmd.showPreferencesUnix.label        "Preferense">
 <!ENTITY cmd.showPreferencesUnix.tooltip      "Cangia e preferense de sto conponente azonto">
-<!ENTITY cmd.contribute.label                 "Agiutta">
-<!ENTITY cmd.contribute.accesskey             "A">
-<!ENTITY cmd.contribute.tooltip               "Agiutta a svilupâ sto conponente azonto">
 
 <!ENTITY cmd.showReleaseNotes.label           "Fanni vedde e anotaçioin da distribuçion">
 <!ENTITY cmd.showReleaseNotes.tooltip         "Fanni vedde e anotaçioin da distribuçion de sto agiornamento">
@@ -118,54 +29,9 @@
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Ascondi e anotaçioin da distribuçion de sto agiornamento">
 <!ENTITY cmd.findReplacement.label            "Treuva 'na alternativa">
 
-<!-- discovery view -->
-<!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
-     Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
-<!ENTITY discover.title                       "E cöse son sti Conponenti azonti?">
-<!ENTITY discover.description2                "I conponenti azonti son aplicaçioin che te peuan agiutâ a personalizâ o &brandShortName; graçie
-  a atre funçionaliæ ò stili. Preuvâ 'na bara pe risparmiâ do tenpo, in notiçiario do tenpo ò 'n tema pe fâ davei o 
-  teu &brandShortName;.">
-<!ENTITY discover.footer                      "Quande ti ê conesso a internet, sto panello
-  o te faiâ vedde quarchedun di ciù popolari conponenti azonti da prova.">
-
-<!-- detail view -->
-<!ENTITY detail.version.label                 "Verscion">
-<!ENTITY detail.lastupdated.label             "Agiornou">
-<!ENTITY detail.creator.label                 "Svilupatô">
-<!ENTITY detail.homepage.label                "Pagina Prinçipâ">
-
-<!ENTITY detail.contributions.description     "O svilupatô de sto conponente azonto te domanda se t'eu contriboî con quarche palanca.">
-
-<!ENTITY detail.updateType                    "Agiornamenti aotomatichi">
-<!ENTITY detail.updateDefault.label           "Predefinio">
-<!ENTITY detail.updateDefault.tooltip         "Installa i agiornamenti in aotomatico solo se o l'é predefinio coscî">
-<!ENTITY detail.updateAutomatic.label         "Açendi">
-<!ENTITY detail.updateAutomatic.tooltip       "Installa i agiornamenti in aotomatico">
-<!ENTITY detail.updateManual.label            "Asmòrtou">
-<!ENTITY detail.updateManual.tooltip          "No instalâ agiornamenti in aotomatico">
-<!ENTITY detail.home                          "Pagina Prinçipâ">
-<!ENTITY detail.repository                    "Profî do conponente azonto">
-<!ENTITY detail.size                          "Dimenscion">
-
-<!ENTITY detail.checkForUpdates.label         "Çerca agiornamenti">
-<!ENTITY detail.checkForUpdates.accesskey     "a">
-<!ENTITY detail.checkForUpdates.tooltip       "Çerca agiornamenti pe sto conponente azonto">
-<!ENTITY detail.showPreferencesWin.label      "Inpostaçioin">
-<!ENTITY detail.showPreferencesWin.accesskey  "o">
-<!ENTITY detail.showPreferencesWin.tooltip    "Cangia e preferense de sto conponente azonto">
-<!ENTITY detail.showPreferencesUnix.label     "Preferense">
-<!ENTITY detail.showPreferencesUnix.accesskey "P">
-<!ENTITY detail.showPreferencesUnix.tooltip   "Cangia e preferense de sto conponente azonto">
-
-
-<!-- ratings -->
-<!ENTITY rating2.label                        "Clasifica">
-
 <!-- download/install progress -->
-<!ENTITY progress.pause.tooltip               "Pösa">
 <!ENTITY progress.cancel.tooltip              "Anulla">
 
-<!ENTITY addon.homepage                       "Pagina Prinçipâ">
 <!ENTITY addon.details.label                  "Ciù">
 <!ENTITY addon.details.tooltip                "Fanni vedde ciù informaçioin rigoardo sto conponente azonto">
 <!ENTITY addon.unknownDate                    "no conosciuo">
@@ -173,6 +39,7 @@
      to the add-on name for extensions that are not webextensions, which
      will stop working in Firefox 57. -->
 <!ENTITY addon.legacy.label                   "LEGACY">
+<!ENTITY addon.privateBrowsing.label          "ATIVA IN NAVEGAÇION PRIVÂ">
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
      "<Addon name> <1.0> (disabled)" -->
@@ -186,7 +53,7 @@
 <!ENTITY addon.undoAction.tooltip             "Anulla sta açion">
 <!ENTITY addon.undoRemove.label               "Anulla">
 <!ENTITY addon.undoRemove.tooltip             "Mantegni sto conponente azonto instalou">
-<!ENTITY addon.restartNow.label               "Arvi torna oua">
+
 <!ENTITY addon.install.label                  "Installa">
 <!ENTITY addon.install.tooltip                "Installa sto conponente azonto">
 <!ENTITY addon.updateNow.label                "Agiorna Oua">
@@ -200,34 +67,5 @@
 
 <!ENTITY addon.createdBy.label                "Da ">
 
-<!ENTITY eula.title                           "Licensa de l'utente">
-<!ENTITY eula.width                           "560px">
-<!ENTITY eula.height                          "400px">
-<!ENTITY eula.accept                          "Acetta e installa…">
-
 <!ENTITY settings.path.button.label           "Çerca…">
-
 <!ENTITY setting.learnmore "Ulteriori informazioni…">
-
-<!ENTITY disabledUnsigned.heading "Quarche conponente azonto o l'é dizativou">
-<!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
-     These entities form a sentence, with
-     disabledUnsigned.description.findAddonsLink being a link to an external site. -->
-<!ENTITY disabledUnsigned.description.start "Sti conponenti no en verificæ pe deuviali in &brandShortName;. L'é poscibile ">
-<!ENTITY disabledUnsigned.description.findAddonsLink "çercâ de alternative">
-<!ENTITY disabledUnsigned.description.end " ò domandâ a-o svilupatô de fali verificâ.">
-<!ENTITY disabledUnsigned.learnMore "Descovri atre informaçoin in sciô nòstro inpegno pe garantî a seguessa di utenti in linia.">
-<!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
-     These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
-     being a link to an external site. -->
-<!ENTITY disabledUnsigned.devInfo.start "I svilupatoî interesæ a-o processo de verifica di conponenti azonti peuan amiâ o segoente ">
-<!ENTITY disabledUnsigned.devInfo.linkToManual "manuâ">
-<!ENTITY disabledUnsigned.devInfo.end ".">
-
-<!ENTITY pluginDeprecation.description "Te manca quarcösa? Quarche plugin o no l'é ciù soportou da &brandShortName;.">
-<!ENTITY pluginDeprecation.learnMore "Ciù informaçioin.">
-
-<!ENTITY legacyWarning.showLegacy "Amia estenscioin legacy">
-<!ENTITY legacyExtensions.title "Estenscioin Legacy">
-<!ENTITY legacyExtensions.description "Ste estenscioin no va ben co-i corenti standard de &brandShortName; coscì en stæti dizativæ.">
-<!ENTITY legacyExtensions.learnMore "Pe saveine de ciù in sci conponenti azonti">
