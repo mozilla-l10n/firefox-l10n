@@ -17,6 +17,13 @@ extensions-name = නම
 extensions-enabled = බලැති (Enabled)
 extensions-version = නිකුතුව
 extensions-id = ID
+security-software-title = ආරක්ෂක මෘදුකාංග
+security-software-type = වර්ගය
+security-software-name = නම
+security-software-antivirus = ප්‍රතිවෛරස
+features-name = නම
+features-version = නිකුතුව
+features-id = ID
 app-basics-title = යෙදුම් මූලිකාංග
 app-basics-name = නම
 app-basics-version = නිකුතුව
@@ -34,10 +41,22 @@ app-basics-build-config = Build Configuration
 app-basics-user-agent = User Agent
 app-basics-os = OS
 app-basics-memory-use = මෙමරි භාවිතය
+app-basics-performance = ක්‍රියාකාරීත්වය
 app-basics-service-workers = ලියාපදිංචි කළ Service Workers
 app-basics-profiles = පැතිකඩයන්
+app-basics-launcher-process-status = දියත්කිරීම් සැකසුම
 app-basics-multi-process-support = බහුසැකසුම් කවුළු
+app-basics-process-count = ජාල අන්තර්ගත සැකසුම්
+app-basics-enterprise-policies = ව්‍යවසාය ප්‍රතිපත්ති
+app-basics-key-google = Google යතුර
+app-basics-key-mozilla = Mozilla ස්ථාන සේවා යතුර
 app-basics-safe-mode = ආරක්ෂිත ප්‍රකාරය
+show-dir-label =
+    { PLATFORM() ->
+        [macos] Finder තුළ පෙන්වන්න
+        [windows] බහළුම තුළ පෙන්වන්න
+       *[other] නාමාවලිය තුළ පෙන්වන්න
+    }
 modified-key-prefs-title = ආයාතකළ වෙනස්කළ මනාපයන්
 modified-prefs-name = නම
 modified-prefs-value = අගය
@@ -52,6 +71,7 @@ graphics-diagnostics-title = දෝෂ නිර්ණය
 graphics-failure-log-title = අසමර්ථ වාර්ථාව
 graphics-gpu1-title = GPU #1
 graphics-gpu2-title = GPU #2
+graphics-decision-log-title = තීරණ වාර්ථාව
 js-title = JavaScript
 js-incremental-gc = Incremental GC
 a11y-title = ප්‍රවේශතාව

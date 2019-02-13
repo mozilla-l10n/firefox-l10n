@@ -5,6 +5,7 @@
 title-label = ප්ලගීන
 installed-plugins-label = ස්ථාපිත ප්ලගින
 no-plugins-are-installed-label = කිසිඳු ස්ථාපිත ප්ලගිනයන් හමු නොවිනි
+deprecation-description = යමක් අහිමිද? ඇතැම් ප්ලගින වෙත තවදුරටත් සහය නොදක්වයි. <a data-l10n-name="deprecation-link">තවත් දැනගන්න.</a>
 
 ## The information of plugins
 ##
