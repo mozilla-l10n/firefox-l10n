@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 history-title = යාවත්කාල කිරීම්හී අතීතයන්
+history-intro = පහත යාවත් ස්ථාපනය වී ඇත
 close-button-label =
     .buttonlabelcancel = වසන්න
     .title = යාවත්කාල කිරීම්හී අතීතයන්

@@ -11,10 +11,14 @@ findbar-previous =
     .tooltiptext = මේ වාක්‍ය ඛණ්ඩය මීට පෙර යෙදුණු ස්ථානය සොයන්න
 findbar-find-button-close =
     .tooltiptext = සෙවීම් තීරුව වසන්න
-findbar-highlight-all =
+findbar-highlight-all2 =
     .label = සියල්ල උද්දීපනය
-    .accesskey = A
-    .tooltiptext = මේ වාක්‍ය ඛණ්ඩය යෙදෙන සියලු ස්ථාන ඉස්මතු කර පෙන්වන්න
+    .accesskey =
+        { PLATFORM() ->
+            [macos] l
+           *[other] a
+        }
+    .tooltiptext = වාක්‍යාංශයේ සියළු අවස්ථාවන් උද්දීපනය
 findbar-case-sensitive =
     .label = අක්ෂර ගැලපුම
     .accesskey = c
