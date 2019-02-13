@@ -282,6 +282,7 @@ update-application-check-choose =
 update-application-manual =
     .label = Никадa не проверава ажурирања (не препоручује се)
     .accesskey = Н
+update-application-warning-cross-user-setting = Ово подешавање ће бити примењено на све Windows налоге и на { -brand-short-name } профиле који користе ову инсталацију програма { -brand-short-name }.
 update-application-use-service =
     .label = Употреби позадинске сервисе за инсталацију надоградњи
     .accesskey = з
@@ -675,6 +676,7 @@ content-blocking-all-windows-trackers = Познате пратиоце у св�
 content-blocking-all-third-party-cookies = Све колачиће треће стране
 content-blocking-warning-title = Напомена!
 content-blocking-warning-desc = Блокирање колачића и пратиоца може сломити неке сајтове. Лако можете онемогућити блокирање на сајтовима којима верујете.
+content-blocking-warning-description = Блокирање садржаја може узроковати сломљене сајтове у неким случајевима. Лако је онемогућити блокирање за сајтове којима верујете.
 content-blocking-learn-how = Сазнајте више
 content-blocking-trackers-label =
     .label = Пратиоци
@@ -689,6 +691,15 @@ content-blocking-tracking-protection-change-block-list = Измени листу
 content-blocking-cookies-label =
     .label = Колачићи
     .accesskey = К
+# Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
+content-blocking-cryptominers-label =
+    .label = Крипто-рудари
+    .accesskey = К
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+content-blocking-fingerprinters-label =
+    .label = Хватачи отиска
+    .accesskey = Х
 
 ## Privacy Section - Tracking
 

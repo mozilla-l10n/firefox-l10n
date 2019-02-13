@@ -9,5 +9,6 @@
 
 <!ENTITY window.title "Важне вести">
 <!ENTITY window.style "width: 510px">
+<!ENTITY sync "Да бисте синхронизовали податке које сте сачували у Firefox-у са овом инсталацијом програма &brandShortName;, пријавите се на ваш &syncBrand.fxAccount.label; налог.">
 <!ENTITY continue-button "Настави">
 
