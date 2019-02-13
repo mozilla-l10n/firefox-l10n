@@ -17,7 +17,8 @@ policy-BlockAboutConfig = Blòcca l'acesso a-a pagina about:config.
 policy-BlockAboutProfiles = Blòcca l'acesso a-a pagina about:profiles.
 policy-BlockAboutSupport = Blòcca l'acesso a-a pagina about:support.
 policy-Bookmarks = Crea segnalibbri inta bara di segnalibbri, into menû di segnalibbri ò drento 'na cartella che ti veu ti.
-policy-Certificates = Deciddi se deuviâ i ceertificati built-in. Sta politica a va solo in sce Windows, pe oua.
+policy-CaptivePortal = Abilita ò dizabilita o sopòrto pe captive portal.
+policy-CertificatesDescription = Azonzi certificati ò deuvia certificati predefinii (built-in).
 policy-Cookies = Permetti ò no nega o permisso -ai sciti de mette di cookie.
 policy-DisableAppUpdate = No fâ agiornâ o navegatô.
 policy-DisableBuiltinPDFViewer = Diabilita PDF.js, o letô PDF incòrporou in { -brand-short-name }.
@@ -36,7 +37,6 @@ policy-DisableProfileImport = Dizabilit o menû pe inportâ dæti da 'n atro nav
 policy-DisableProfileRefresh = Dizabilita o pomello Carega torna de { -brand-short-name } inta pagina about_support.
 policy-DisableSafeMode = Dizabilita a fonçion Arvi torna in Mòddo seguo. Nòtta: o pomello maoiscolo pe intrâ into Mòddo seguo o peu ese dizabilitou solo da-e politiche de gruppo de Windows.
 policy-DisableSecurityBypass = Evita che 'n utente o pòsse ignorâ çerti alarmi de seguessa.
-policy-DisableSetDesktopBackground = Dizabilita o comando do menû pe mette l'inmagine comme sfondo do Desktop.
 policy-DisableSetAsDesktopBackground = Dizabilita o comando do menû pe mette e inmagini comme sfondo do Desktop.
 policy-DisableSystemAddonUpdate = No fâ instalâ ò agiornâ a-o navegatô conponenti azonti de scistema.
 policy-DisableTelemetry = Asmòrta Telemetria.
@@ -48,8 +48,7 @@ policy-DontCheckDefaultBrowser = Dizabilita o contròllo se o navegatô o l'é p
 policy-EnableTrackingProtection = Abilita ò dizabilita o Blòcco di contegnui de deciddi se blocâ a decixon.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
-# English or translate them as verbs. See also:
-# https://github.com/mozilla/policy-templates/blob/master/README.md#extensions-machine-only
+# English or translate them as verbs.
 policy-Extensions = Installa, dizinstalla ò bloòcca e estenscioin. L'òpçion de instalaçion piggiâ de URL ò di parametri. In cangio la dizinstalaçion e vlòcco piggiâ de estescioin ID.
 policy-FlashPlugin = Permetti ò nega l'uzo di plugin Flash.
 policy-HardwareAcceleration = Se false, asmòrta l'aceleraçion hardware.
@@ -63,6 +62,7 @@ policy-SearchBar = Inpòsta donde mette a bara de riçerche. In ògni mòddo l'u
 policy-SearchEngines = Configuraçion inpostaçioin do motô de riçerca. Sta òpçion a gh'é solo inta verscion Extended Support Release (ESR).
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Instaala mòdolo PKCS #11.
-# “format” refers to the format used for the value of this policy. See also:
-# https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
+policy-SSLVersionMax = Inpòsta a verscion mascima de SSL.
+policy-SSLVersionMin = Inpòsta a verscion minima de SSL.
+# “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Blòcca a vixita a di sciti. Amia a documentaçion pe avei ciù detalli in sciô formou.

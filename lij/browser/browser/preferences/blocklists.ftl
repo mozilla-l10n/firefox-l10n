@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 blocklist-window =
-    .title = Elenchi pe blòcco elementi che tracian
+    .title = Elenchi de blòcco
     .style = width: 55em
 blocklist-desc = Çerni l’elenco da aduviâ in { -brand-short-name } pe blocâ i elementi che peuan traciâ a navegaçion.
 blocklist-close-key =
@@ -28,3 +28,5 @@ blocklist-item-moz-std-name = Disconnect.me proteçion baze (consegiou).
 blocklist-item-moz-std-desc = Permette quarche elemento ch'o tracia pe garantî o bon fonçionamento di sciti.
 blocklist-item-moz-full-name = Disconnect.me proteçion mascima.
 blocklist-item-moz-full-desc = Blòcca i elementi che tracian conosciui. Quarche scito o porieiva no fonçionâ ben.
+blocklist-item-moz-std-listName = Elenco livello 1 (consegiou).
+blocklist-item-moz-full-listName = Elenco livello 2
