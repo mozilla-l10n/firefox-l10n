@@ -2,7 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY firstrun_panel_title_welcome "සාදරයෙන් පිළිගනිමු">
 <!ENTITY firstrun_urlbar_message2 "&brandShortName; තෝරාගත්තාට ස්තූතියි">
+<!ENTITY firstrun_bookmarks_title "අතීතය">
 <!ENTITY  onboard_start_button_browser "Start Browsing">
 
 
@@ -417,6 +419,9 @@
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
+<!ENTITY doorhanger_login_edit_username_hint "පරිශීලක නම">
+<!ENTITY doorhanger_login_edit_password_hint "මුරපදය">
+<!ENTITY doorhanger_login_edit_toggle "මුරපදය පෙන්වන්න">
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
