@@ -11,6 +11,12 @@ title = Mikilvægar fréttir
 heading = Breytingar á { -brand-short-name } reikningi þínum
 changed-title = Hvað breyttist?
 changed-desc-profiles = Þessi uppsetning af { -brand-short-name } inniheldur nýtt snið. Snið er safn skráa þar sem Firefox vistar upplýsingar, svo sem bókamerki, lykilorð og notandastillingar.
+resources = Auðlindir:
+sync-header = Skráðu þig inn eða stofna { -fxaccount-brand-name }
+sync-label = Sláðu inn netfangið þitt
 sync-input =
     .placeholder = Tölvupóstur
+sync-button = Áfram
+sync-terms = Með því að halda áfram, samþykkir þú <a data-l10n-name="terms"> þjónustuskilmála </a> og <a data-l10n-name="privacy"> Persónuverndarskilaboð </a>.
+sync-first = Ertu að nota { -sync-brand-name } í fyrsta skiptið? Þú þarft að skrá þig inn á allar uppsetningar af Firefox til að samstilla upplýsingarnar þínar.
 sync-learn = Fræðast meira

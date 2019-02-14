@@ -143,6 +143,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.pagetitle1  "Óörugg tenging">
 <!ENTITY certerror.pagetitle2  "Viðvörun: Hugsanleg öryggisáhætta framundan">
+<!ENTITY certerror.sts.pagetitle  "Tengdist ekki: Mögulegt öryggisvandamál">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Þetta vefsvæði notar HTTP Strict Transport Security (HSTS) til að skilgreina að &brandShortName; megi aðeins tengjast með öryggum hætti. Það þýðir, að það er ekki hægt að bæta við undantekningu fyrir þetta skilríki.">
 <!ENTITY certerror.copyToClipboard.label "Afrita texta á klemmuspjald">
 

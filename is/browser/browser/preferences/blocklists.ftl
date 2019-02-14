@@ -6,6 +6,7 @@ blocklist-window =
     .title = Lokunarlistar
     .style = width: 55em
 blocklist-desc = Þú getur valið hvaða lista { -brand-short-name } mun nota til að loka á þá vefhluta sem gætu verið að fylgjast með þér.
+blocklist-description = Veldu listann sem { -brand-short-name } notar til að loka á rekja spor einhvers. Listar í boði <a data-l10n-name="disconnect-link" title="Discoonnect"> Aftengja </a>.
 blocklist-close-key =
     .key = w
 blocklist-treehead-list =
@@ -28,3 +29,6 @@ blocklist-item-moz-std-name = Disconnect.me grunnöryggi (Mælt með).
 blocklist-item-moz-std-desc = Leyfa sumt svo vefsvæði virki eðlilega.
 blocklist-item-moz-full-name = Disconnect.me mikið öryggi.
 blocklist-item-moz-full-desc = Loka á þekkta aðila. Sum vefsvæði gætu virkað illa.
+blocklist-item-moz-std-listName = Fyrsta stigs lokun (mælt með).
+blocklist-item-moz-std-description = Leyfir sumum að rekja spor svo fleiri vefsíður virki.
+blocklist-item-moz-full-listName = Annars stigs lokun.
