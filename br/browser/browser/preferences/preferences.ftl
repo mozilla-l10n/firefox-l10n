@@ -682,6 +682,7 @@ content-blocking-all-windows-trackers = An holl heulierien en holl brenestroù
 content-blocking-all-third-party-cookies = Holl doupinoù an tredeoù
 content-blocking-warning-title = Diwallit!
 content-blocking-warning-desc = Stankañ toupinoù ha heulierien a c'hall mirout lec'hiennoù 'zo da vont en-dro en un doare dereat. Aes eo diweredekaat ar stankadur evit al lec'hiennoù ho peus fiziañs eno.
+content-blocking-warning-description = Stankañ endalc'hadoù a c'hall lakaat lec'hiennoù 'zo da vont en-dro a-dreuz. Aes eo diweredekaat ar stankadur evit al lec'hiennoù ho peus fiziañs eno.
 content-blocking-learn-how = Deskit penaos
 content-blocking-trackers-label =
     .label = Heulierien
@@ -696,6 +697,11 @@ content-blocking-tracking-protection-change-block-list = Kemmañ ar roll stanka�
 content-blocking-cookies-label =
     .label = Toupinoù
     .accesskey = T
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+content-blocking-fingerprinters-label =
+    .label = Roudennerien bizied
+    .accesskey = R
 
 ## Privacy Section - Tracking
 

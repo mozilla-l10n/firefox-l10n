@@ -55,6 +55,7 @@ policy-HardwareAcceleration = M'eo lakaet da Gaou e vo diweredekaet herrekadur a
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Arventennañ ar bennbajenn. Gallout a rit ivez prennañ anezhi.
 policy-InstallAddonsPermission = Aotren lec'hiennoù 'zo da staliañ askouezhioù.
+policy-NetworkPrediction = (Di)weredekaat an diougan rouedad (rakkerc'hat DNS)
 policy-NoDefaultBookmarks = Diweredekaat krouidigezh ar sinedoù dre ziouer roet gant { -brand-short-name }, hag ar sinedoù speredek (Gweladennet ar muiañ, ivinelloù nevesañ). Evezh: ar reolenn-mañ a zo efedus ar wech kentañ vez loc'het Firefox hepken.
 policy-OfferToSaveLogins = Rediañ an arventenn evit aotren { -brand-short-name } da ginnig enrollañ an titouroù kennaskañ. Ar gwerzhioù Gwir ha Gaou a zo asantet.
 policy-OverrideFirstRunPage = Merañ ar bajenn loc'hadur kentañ. Laoskit ar reolenn-mañ goullo ma fell deoc'h diweredekaat ar bajenn loc'hadur kentañ.
