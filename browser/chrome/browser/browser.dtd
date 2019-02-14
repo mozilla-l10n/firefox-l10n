@@ -1129,3 +1129,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY addonPrivateBrowsing.okButton.label "Allt í lagi, ég skil">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "O">
+<!ENTITY addonPrivateBrowsing.manageButton.accesskey "M">

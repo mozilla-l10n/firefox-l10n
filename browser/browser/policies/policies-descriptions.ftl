@@ -17,6 +17,7 @@ policy-BlockAboutConfig = Loka aðgangi að about:config síðu.
 policy-BlockAboutProfiles = Loka aðgangi að about:profiles síðu.
 policy-BlockAboutSupport = Loka aðgangi að about:support síðu.
 policy-Bookmarks = Búa til bókamerki í bókamerkjastiku, bókamerkjalistanum eða tiltekinni möppu inni í þeim.
+policy-CaptivePortal = Virkja eða slökkva á þjónustuaðgangi.
 policy-CertificatesDescription = Bæta við vottorði eða nota innbyggða vottorðið.
 policy-Cookies = Leyfa eða hafna vefsvæðum um að stilla smygildi.
 policy-DisableAppUpdate = Koma í veg fyrir að vafrinn uppfærist.
@@ -67,5 +68,7 @@ policy-SearchBar = Stilla sjálfgefna staðsetningu leitarstiku. Notanda er enn 
 policy-SearchEngines = Stilla leitarvélar. Þessi stefna er aðeins í boði í útgáfu ESR (Extended Support Release).
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Setja inn PKCS #11 forritseiningar.
+policy-SSLVersionMax = Stilltu hámarks SSL útgáfu.
+policy-SSLVersionMin = Stilltu lágmarks SSL útgáfuna.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Loka fyrir heimsókn á vefsvæði. Sjá skjöl fyrir frekari upplýsari um snið.
