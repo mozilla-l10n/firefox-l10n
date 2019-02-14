@@ -5,6 +5,9 @@
 
 ## Settings
 
+site-data-button-cancel =
+    .label = Nkuvi-ka
+    .accesskey = N
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")

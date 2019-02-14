@@ -48,6 +48,17 @@ should-restart-ok = Nakajie´e { -brand-short-name } ntañu´u
 ## General Section - Files and Applications
 
 download-header = Da a xinuun
+download-choose-folder =
+    .label =
+        { PLATFORM() ->
+            [macos] Sama...
+           *[other] Ka̱a̱ nánuku...
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] e
+           *[other] o
+        }
 
 ## General Section - Performance
 
