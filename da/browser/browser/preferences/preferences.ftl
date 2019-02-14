@@ -690,7 +690,7 @@ addressbar-suggestions-settings = Skift indstillinger for søgeforslag
 content-blocking-header = Blokering af indhold
 content-blocking-desc = Bloker indhold fra tredjepart, fx reklamer eller kode, der kan gøre din browsing langsommere og som kan spore dig rundt på nettet. Tilpas dine indstillinger for at få den bedste balance mellem beskyttelse og ydelse.
 
-content-blocking-description = Bloker tredjeparts-indhold, der sporer dig rundt på nettet. Kontroller hvor meget af din aktivetet på nettet, der gemmes og deles mellem websteder.
+content-blocking-description = Bloker tredjeparts-indhold, der sporer dig rundt på nettet. Kontroller hvor meget af din aktivitet på nettet, der gemmes og deles mellem websteder.
 
 content-blocking-learn-more = Læs mere
 content-blocking-restore-defaults =
