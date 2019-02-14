@@ -155,6 +155,13 @@ legacy-warning-show-legacy = Vis forældede udvidelser
 legacy-extensions =
     .value = Forældede udvidelser
 legacy-extensions-description = Disse udvidelser møder ikke de nuværende { -brand-short-name }- standarder, så de er blevet deaktiveret. <label data-l10n-name="legacy-learn-more">Læs mere om ændringerne af tilføjelser</label>
+
+private-browsing-description = 
+     Udvidelser har ikke tilladelse til at køre som standard i private vinduer. Det betyder, 
+     at de ikke funger under privat browsing og at de ikke har adgang til dine aktiviteter i 
+     privat browsing. Vælg en udvidelse nedenfor for at ændre indstillingerne og give udvidelsen tilladelse til at køre i private vinduer.
+    <label data-l10n-name="private-browsing-learn-more">Læs mere.</label>
+
 extensions-view-discover =
     .name = Find tilføjelser
     .tooltiptext = { extensions-view-discover.name }
