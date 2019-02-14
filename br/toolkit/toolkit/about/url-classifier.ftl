@@ -3,9 +3,16 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 url-classifier-title = Titouroù ar rummader URL
+url-classifier-search-title = Klask
+url-classifier-search-result-title = Disoc'hoù
+url-classifier-search-result-uri = URI: { $uri }
+url-classifier-search-result-list = Roll an taolioù: { $list }
 url-classifier-search-input = URL
 url-classifier-search-error-invalid-url = URL didalvoudek
+url-classifier-search-error-no-features = Keweriuster ebet dibabet
+url-classifier-search-btn = Kregiñ da glask
 url-classifier-search-features = Keweriusterioù
+url-classifier-search-listType = Rizh ar roll
 url-classifier-provider-title = Pourchaser
 url-classifier-provider = Pourchaser
 url-classifier-provider-last-update-time = Hizivadenn ziwezhañ

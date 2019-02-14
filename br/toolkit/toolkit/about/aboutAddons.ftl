@@ -88,6 +88,14 @@ detail-update-automatic =
 detail-update-manual =
     .label = Diweredekaet
     .tooltiptext = Arabat staliañ an hizivadennoù ent emgefreek
+# Used as a description for the option to allow or block an add-on in private windows.
+detail-private-browsing-label = Lañsañ en ur prenestr prevez
+detail-private-browsing-on =
+    .label = Aotren
+    .tooltiptext = Gweredekaat er merdeiñ prevez
+detail-private-browsing-off =
+    .label = Na aotren
+    .tooltiptext = Diweredekaat er merdeiñ prevez
 detail-home =
     .label = Pennbajenn
 detail-home-value =
@@ -207,3 +215,32 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Staliañ Hizivadurioù
     .tooltiptext = Staliañ an hizivadennoù hegerz war ar roll-mañ
+
+## Extension shortcut management
+
+manage-extensions-shortcuts =
+    .label = Merañ ar berradennoù askouezhioù
+    .accesskey = b
+shortcuts-empty-message = N'eus berradenn ebet evit an askouezh-mañ.
+shortcuts-no-addons = N'ho peus askouezh ebet gweredekaet.
+shortcuts-input =
+    .placeholder = Biziatait ur verradenn
+shortcuts-browserAction = Gweredekaat an askouezh
+shortcuts-pageAction = Gweredekaat ar gwered pajenn
+shortcuts-sidebarAction = Diskouez/kuzhat ar varrenn gostez
+shortcuts-modifier-mac = Enkorfañ Ctrl, Alt pe ⌘
+shortcuts-modifier-other = Enkorfañ Ctrl pe Alt
+shortcuts-invalid = Kenaozadur didalvoudek
+shortcuts-letter = Biziatait ul lizherenn
+shortcuts-system = N'haller ket flastrañ ur verradenn { -brand-short-name }
+shortcuts-card-expand-button =
+    { $numberToShow ->
+        [one] Diskouez { $numberToShow } ouzhpenn
+        [two] Diskouez { $numberToShow } ouzhpenn
+        [few] Diskouez { $numberToShow } ouzhpenn
+        [many] Diskouez { $numberToShow } ouzhpenn
+       *[other] Diskouez { $numberToShow } ouzhpenn
+    }
+shortcuts-card-collapse-button = Diskouez nebeutoc'h
+go-back-button =
+    .tooltiptext = Distreiñ

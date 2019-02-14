@@ -11,10 +11,14 @@ findbar-previous =
     .tooltiptext = Kavout an tamm frazenn kent o klotañ ganti
 findbar-find-button-close =
     .tooltiptext = Serriñ ar varrenn glask
-findbar-highlight-all =
+findbar-highlight-all2 =
     .label = Sklêrijennañ pep tra
-    .accesskey = a
-    .tooltiptext = Sklêrijennañ pep tamm frazenn o klotañ ganti
+    .accesskey =
+        { PLATFORM() ->
+            [macos] S
+           *[other] p
+        }
+    .tooltiptext = Sklerijennañ holl zegouezhioù ar frazenn
 findbar-case-sensitive =
     .label = Tirenneg
     .accesskey = T

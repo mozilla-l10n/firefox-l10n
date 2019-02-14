@@ -44,6 +44,7 @@ app-basics-memory-use = Arver ar vemor
 app-basics-performance = Digonusted
 app-basics-service-workers = Labourerien gwazerezh marilhet
 app-basics-profiles = Aeladoù
+app-basics-launcher-process-status = Araezad al lañser
 app-basics-multi-process-support = Prenestroù liesargerzh
 app-basics-process-count = Araezadoù endalc'hadoù web
 app-basics-enterprise-policies = Reolennoù embregerezh
@@ -188,6 +189,8 @@ hardware-h264 = Ezvonegañ periant H264
 main-thread-no-omtc = neudenn bennañ, OMTC ebet
 yes = Ya
 no = Ket
+unknown = Dianav
+virtual-monitor-disp = Diskouez Skrammad galloudel
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
@@ -195,6 +198,8 @@ no = Ket
 
 found = Kavet
 missing = A vank
+gpu-process-pid = GPUProcessPid
+gpu-process = GPUProcess
 gpu-description = Deskrivadur
 gpu-vendor-id = ID ar gwerzhour
 gpu-device-id = ID an drobarzhell
@@ -227,11 +232,14 @@ d3d9video-crash-buard = Ezvoneger Video D3D9
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Adderaouekaat en adloc'hañ a zeu
 gpu-process-kill-button = Herzel ar araezad kevregad
+gpu-device-reset = Adderaouekaat an trevnad
 gpu-device-reset-button = Deluskañ adderaouekadur an trevnad
 uses-tiling = Arver an teolioù
 content-uses-tiling = Ober gant an teolioù (endalc'had)
 off-main-thread-paint-enabled = Pentañ e diavaez an neudenn erounezadur pennañ gweredekaet
 off-main-thread-paint-worker-count = Niver a worker o pentañ e diavaez an neudenn erounezadur pennañ
+low-end-machine = Dinoet eo bet ur mekanik nebeutoc'h digonus
+target-frame-rate = Bukenn feur skeudennoù
 audio-backend = Drekva aodio
 max-audio-channels = Niver a sanelloù uc'hek
 channel-layout = Mod sanell gwellañ karet
@@ -249,6 +257,10 @@ effective-content-sandbox-level = Live gwerc'hel ar voest traezh evit ar c'hewer
 sandbox-proc-type-content = endalc'had
 sandbox-proc-type-file = endalc'had ar restr
 sandbox-proc-type-media-plugin = enlugellad media
+launcher-process-status-0 = Gweredekaet
+launcher-process-status-1 = Diweredekaet abalamour d'ur c'hwitadenn
+launcher-process-status-2 = Rediet da ziweredekaat
+launcher-process-status-unknown = Stad dianav
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows

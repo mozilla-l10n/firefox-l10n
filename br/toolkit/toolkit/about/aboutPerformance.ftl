@@ -10,6 +10,7 @@ about-performance-title = Ardoer trevelloù
 column-name = Anv
 column-type = Rizh
 column-energy-impact = Skog gremm
+column-memory = Memor
 
 ## Special values for the Name column
 
@@ -37,6 +38,15 @@ type-other = All
 energy-impact-high = Uhel ({ $value })
 energy-impact-medium = Etre ({ $value })
 energy-impact-low = Izel ({ $value })
+
+## Values for the Memory column
+##
+## Variables:
+##   $value (Number) - How much memory is used
+
+size-KB = { $value } Ke
+size-MB = { $value } Me
+size-GB = { $value } Ge
 
 ## Tooltips for the action buttons
 
