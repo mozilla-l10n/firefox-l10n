@@ -215,6 +215,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.accesskey             "C">
 <!ENTITY addons.commandkey            "A">
 
+<!ENTITY webDeveloperMenu.label       "Ñivɨ sa´a Web">
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
 <!ENTITY inspectContextMenu.accesskey "I">
@@ -538,6 +539,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.enableMixedContentBlocking.accesskey "H">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
+<!ENTITY identity.learnMore "Ka´vi kue´eka">
 
 <!ENTITY identity.removeCertException.accesskey "E">
 
@@ -669,3 +671,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE: (addonPostInstallMessage.label):
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
+
