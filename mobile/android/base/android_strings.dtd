@@ -37,32 +37,50 @@
 <!-- Localization note (url_bar_qrcode_text2) : This text will be
      heard by non-visual users when the focus is on the QR Code
      icon in the url bar. -->
+<!ENTITY url_bar_qrcode_text2 "ලිපිනය ඇතුළත් කිරීමට හෝ සෙවීමට ඔබේ QR කියවුම භාවිත කරන්න">
 <!-- Localization note (url_bar_mic_text2) : This text will be
      heard by non-visual users when the focus is on the Microphone
      icon in the url bar. -->
+<!ENTITY url_bar_mic_text2 "ලිපිනය ඇතුළත් කිරීමට හෝ සෙවීමට ඔබේ මයික්‍රෆෝනය භාවිත කරන්න">
 
 <!ENTITY bookmark "පිටු සලකුණ">
+<!ENTITY bookmark_remove "පිටුසලකුණ ඉවත් කරන්න">
 <!ENTITY bookmark_added "Bookmark added">
 <!-- Localization note (bookmark_already_added) : This string is
      used as a label in a toast. It is the verb "to bookmark", not
      the noun "a bookmark". -->
+<!ENTITY bookmark_already_added "දැනටමත් පිටුසළකුණු කළ">
 <!ENTITY bookmark_removed "Bookmark removed">
 <!ENTITY bookmark_updated "Bookmark updated">
 <!ENTITY bookmark_options "Options">
+<!ENTITY bookmark_save "සුරකින්න">
+<!ENTITY screenshot_added_to_bookmarks "තිර පිටපත පිටු සළකුණු වෙත එක් විය">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
+<!ENTITY screenshot_folder_label_in_bookmarks "තිර පිටපත්">
+<!ENTITY readinglist_smartfolder_label_in_bookmarks "කියවුම් ලැයිස්තුව">
 
 <!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
      in the folder. -->
+<!ENTITY bookmark_folder_items "&formatD; අයිතම">
+<!ENTITY bookmark_folder_one_item "1 අයිතමය">
+<!ENTITY bookmark_folder_updated "බහාළුම යාවත් වී ඇත">
+<!ENTITY bookmark_parent_folder "මුල් බහාළුම">
+<!ENTITY bookmark_add_folder "නව බහාළුමක් එක් කරන්න">
 
+<!ENTITY reader_saved_offline "නොබැඳිව සුරැකි">
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
      "switch" to the bookmarks (saved items) panel. -->
+<!ENTITY reader_switch_to_bookmarks "මාරු වෙන්න">
 
 <!ENTITY history_today_section "අද">
 <!ENTITY history_yesterday_section "ඊයේ">
+<!ENTITY history_week_section3 "අවසන් දින 7">
+<!ENTITY history_older_section3 "මාස 6 කට වඩා පැරණි">
 
+<!ENTITY search "සොයන්න">
 <!ENTITY reload "Reload">
 <!ENTITY forward "Forward">
 <!ENTITY menu "මෙනුව">
@@ -72,8 +90,10 @@
 <!ENTITY edit_mode_cancel "Cancel">
 
 <!ENTITY close_tab "ටැබය වසන්න">
+<!ENTITY one_tab "1 ටැබය">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
+<!ENTITY num_tabs2 "&formatD; ටැබ">
 <!ENTITY new_tab_opened "New tab opened">
 <!ENTITY new_private_tab_opened "New private tab opened">
 <!-- Localization note (switch_button_message): This string should be as short
@@ -87,9 +107,12 @@
      &formatS; will be replaced with the title of the tab, as received from the
      web page. When audio is not playing in a tab, &formatS; will be used as
      the content description. -->
+<!ENTITY tab_title_prefix_is_playing_audio "ශ්‍රව්‍ය වාදනයක් – &formatS;">
 
 <!ENTITY settings "Settings">
 <!ENTITY settings_title "Settings">
+<!ENTITY pref_category_general "සාමාන්‍ය">
+<!ENTITY pref_category_general_summary3 "නිවස, භාෂාව, ටැබ් පෝලිම්">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
@@ -115,6 +138,7 @@
 <!ENTITY overlay_share_bookmark_btn_label_already "Already bookmarked">
 <!ENTITY overlay_share_send_other "Send to other devices">
 
+<!ENTITY overlay_share_open_browser_btn_label "&brandShortName; තුළ විවෘත කරන්න">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
@@ -125,9 +149,16 @@
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
+<!ENTITY overlay_no_synced_devices "කිසිඳු Firefox ගිණුමට බැද උපාංගයක් හමු නොවිනි">
 
 <!ENTITY pref_category_search3 "Search">
+<!ENTITY pref_category_search_summary2 "එක් කරන්න, පෙරනිමිය සකස් කරන්න, යෝජනා පෙන්වන්න">
+<!ENTITY pref_category_accessibility "පිවිසුම් හැකියාව">
+<!ENTITY pref_category_accessibility_summary2 "පෙළ විශාලත්වය, විශාලනය, හඬ ආදානය">
 <!ENTITY pref_category_privacy_short "Privacy">
+<!ENTITY pref_category_privacy_summary4 "ලුහුබැඳීම්, පිවිසුම්, දත්ත තේරීම්">
+<!ENTITY pref_category_vendor2 "&vendorShortName;&brandShortName;">
+<!ENTITY pref_category_vendor_summary2 "&brandShortName; පිළිබඳ,FAQs සහ ප්‍රතිචාර">
 <!ENTITY pref_category_datareporting "Data choices">
 <!ENTITY pref_learn_more "Learn more">
 <!ENTITY pref_category_installed_search_engines "Installed search engines">
@@ -148,40 +179,71 @@
 <!ENTITY pref_category_home "Home">
 <!ENTITY pref_category_home_summary "Customize your homepage">
 <!ENTITY pref_category_home_panels "Panels">
+<!ENTITY pref_category_home_add_ons "ඇඩෝන">
+<!ENTITY pref_home_updates2 "අන්තර්ගත යාවත්">
 <!ENTITY pref_home_updates_enabled "Enabled">
 <!ENTITY pref_home_updates_wifi "Only over Wi-Fi">
+<!ENTITY pref_category_home_homepage "මුල්පිටුව">
 <!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
      home page will be use in every new tab. -->
+<!ENTITY home_homepage_every_new_tab "නව ටැබ් සඳහා ද භාවිතා කරන්න">
+<!ENTITY home_homepage_title "මූලික පිටුවක් පිහිටුවන්න">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, they will use the built-in default Firefox homepage (about:home). -->
+<!ENTITY home_homepage_radio_default "&brandShortName; නිවෙස">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, a text field will appear below the radio button and allow the
      user to insert an address of their choice. -->
+<!ENTITY home_homepage_radio_user_address "රුචි">
 <!-- Localization note (home_homepage_hint_user_address): The user will see a series of
      radio buttons to choose the homepage they'd like to start on. When they click a
      particular radio button, a text field will appear below the radio button and allow the
      user to insert an address of their choice. This string is the hint text to that
      text field. -->
+<!ENTITY home_homepage_hint_user_address "ලිපිනය හෝ සෙවුම් පදය ඇතුලත් කරන්න">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
+<!ENTITY pref_header_general "සාමාන්‍ය">
+<!ENTITY pref_header_search "සොයන්න">
 <!ENTITY pref_header_privacy_short "Privacy">
-<!ENTITY pref_header_help "Help">
+<!ENTITY pref_header_accessibility "පිවිසුම් හැකියාව">
+<!ENTITY pref_header_notifications "දැනුම්දීම්">
+<!ENTITY pref_header_advanced "සංකීර්ණ">
+<!ENTITY pref_header_help "සහාය">
 <!ENTITY pref_header_vendor "&vendorShortName;">
 
 <!ENTITY pref_cookies_menu "කුකී">
+<!ENTITY pref_cookies_accept_all "සක්‍රීය කළ">
+<!ENTITY pref_cookies_not_accept_foreign "3 වන පාර්ශ්වයෙන් හැර, සක්‍රීය කළ">
+<!ENTITY pref_cookies_disabled "අක්‍රීය කළ">
 
 <!-- Localization note (pref_category_data_saver): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
+<!ENTITY pref_category_data_saver "දත්ත සුරැකුම">
+<!ENTITY pref_category_media "මාධ්‍ය">
+<!ENTITY pref_category_developer_tools "සංවර්ධක මෙවලම්">
 
+<!ENTITY pref_tap_to_load_images_title2 "පින්තූර පෙන්වන්න">
+<!ENTITY pref_tap_to_load_images_enabled "සැමවිටම">
+<!ENTITY pref_tap_to_load_images_data "Wi-Fi මත පමණි">
+<!ENTITY pref_tap_to_load_images_disabled2 "අවහිර කළ">
 
+<!ENTITY pref_show_web_fonts "ජාල අකුරු පෙන්වන්න">
+<!ENTITY pref_show_web_fonts_summary2 "පිටුවක් පූරණය කිරීමේ දී දුරස්ථ අකුරු බාගන්න">
 
-<!ENTITY pref_donottrack_title "Do not track">
-<!ENTITY pref_donottrack_summary "&brandShortName; will tell sites that you do not want to be tracked">
+<!ENTITY pref_tracking_protection_title2 "ලුහුබැඳීම් ආරක්ෂාව">
+<!ENTITY pref_donottrack_title "ලුහුබඳින්න එපා">
+<!ENTITY pref_donottrack_summary "&brandShortName; විසින් ඔබ ලුහුබැඳීමට එකඟ නොවන බව අඩවි වෙත පවසනු ඇත">
 
+<!ENTITY pref_tracking_protection_enabled "සක්‍රීය කළ">
+<!ENTITY pref_tracking_protection_enabled_pb "පුද්ගලික ගවේශනය මත සක්‍රීයයි">
+<!ENTITY pref_tracking_protection_disabled "අක්‍රීය කළ">
 
+<!ENTITY pref_whats_new_notification "&brandShortName; තුළ අළුතින් ඇත්තේ">
+<!ENTITY pref_whats_new_notification_summary "යාවත් කිරීමෙන් පස් නව විශේෂාංග ගැන දැනගන්න">
 
 <!-- Localization note (pref_feature_tips_notification): Title of a new toggleable setting in Settings-Notifications screen.
      Similar to the already existing "pref_whats_new_notification"-->
