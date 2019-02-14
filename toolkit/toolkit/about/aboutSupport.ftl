@@ -239,6 +239,8 @@ effective-content-sandbox-level = Құрамасы бар үрдістер үш�
 sandbox-proc-type-content = құрамасы
 sandbox-proc-type-file = файл құрамасы
 sandbox-proc-type-media-plugin = медиа плагині
+launcher-process-status-0 = Іске қосулы
+launcher-process-status-unknown = Қалып-күйі белгісіз
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
