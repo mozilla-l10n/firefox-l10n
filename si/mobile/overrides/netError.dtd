@@ -163,6 +163,7 @@
 <!ENTITY cspBlocked.title "Blocked by Content Security Policy">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
 
+<!ENTITY corruptedContentErrorv2.title "දූශිත අන්තර්ගත දෝශයක්">
 
 <!ENTITY securityOverride.linkText "හෝ ඔබට හැරදැමීමක් එක් කළ හැක…">
 <!ENTITY securityOverride.getMeOutOfHereButton "මා මෙතනින් ඉවතට ගන්න!">
