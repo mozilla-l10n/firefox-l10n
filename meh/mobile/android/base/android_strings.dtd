@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY firstrun_panel_title_welcome "Kusɨɨ inidáni a nkanta-nu">
+<!ENTITY firstrun_panel_title_welcome "Kusɨ inidáni a nkanta-nu">
 <!ENTITY firstrun_urlbar_message2 "Kuta´vi-ani a kajinu &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext2 "Iin ka̱a̱ jíía nánuku nantiñu Mozilla, vetiñu ntu nuku xu´un jee kuvi koo iin web nune jii ntu nasɨ.">
 <!ENTITY firstrun_panel_title_privacy "Privacidad">
@@ -290,11 +290,6 @@
 <!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
      Similar to the already existing "pref_whats_new_notification_summary"-->
 <!ENTITY pref_feature_tips_notification_summary "Kutu´va-ka naja ni´inu &brandShortName; jii daa inka &vendorShortName; ka̱a̱">
-<!-- Localization note (pref_feature_tips_notification_enabling_hint):
-     Describe the action the user should do to enable this preference
-     Will be used in the context "<Turn on> ... to enable this feature" -->
-<!ENTITY pref_feature_tips_notification_enabling_hint "Kutúvi">
-
 <!-- Localization note (pref_feature_tips_notification_enabling_path):
      Nothing to translate. Simple concatenation of already localized strings. Result is used below. -->
 <!ENTITY pref_feature_tips_notification_enabling_path "&pref_category_privacy_short; > &pref_category_datareporting; > &datareporting_fhr_title;">
@@ -901,15 +896,9 @@ Picture-in-picture mini window -->
 <!ENTITY pip_pause_button_description "Siankuiñɨ a teso´onu">
 
 <!-- Notification channels names -->
-<!ENTITY default_notification_channel "&brandShortName;">
-
-<!-- Notification channels names -->
 <!ENTITY default_notification_channel2 "Ka̱a̱ nánuku">
 <!ENTITY mls_notification_channel "&vendorShortName; Chinei Nani´i">
 <!ENTITY download_notification_channel "Daa nxinú">
-<!ENTITY media_notification_channel "Teso´o multimedia">
-<!-- These push notifications come without a specific channel and/or name from Leanplum -->
-<!ENTITY leanplum_default_notifications_channel "Tu´un push &brandShortName;">
 <!ENTITY media_notification_channel2 "Nasun jíí tutu kana">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel2 "&vendorShortName; tu´un jee naja ni´inu">
