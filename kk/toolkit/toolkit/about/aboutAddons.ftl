@@ -88,6 +88,14 @@ detail-update-automatic =
 detail-update-manual =
     .label = Сөндірулі
     .tooltiptext = Жаңартуларды автоорнатпау
+# Used as a description for the option to allow or block an add-on in private windows.
+detail-private-browsing-label = Жекелік шолу режиміндегі терезелерде орындау
+detail-private-browsing-on =
+    .label = Рұқсат ету
+    .tooltiptext = Жекелік шолу режимінде іске қосу
+detail-private-browsing-off =
+    .label = Рұқсат етпеу
+    .tooltiptext = Жекелік шолу режимінде сөндіру
 detail-home =
     .label = Үй парағы
 detail-home-value =
@@ -207,3 +215,14 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Жаңартуларды орнату
     .tooltiptext = Бұл тізімдегі қолжетерлік жаңартуларды орнату
+
+## Extension shortcut management
+
+shortcuts-input =
+    .placeholder = Жарлықты теріңіз
+shortcuts-browserAction = Кеңейтуді белсендіру
+shortcuts-pageAction = Бет әрекетін белсендіру
+shortcuts-sidebarAction = Бүйір панелін көрсету/жасыру
+shortcuts-card-collapse-button = Азырақ көрсету
+go-back-button =
+    .tooltiptext = Артқа
