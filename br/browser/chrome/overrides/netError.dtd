@@ -168,6 +168,10 @@ was trying to connect. -->
 
 <!ENTITY certerror.mitm.title "Ur meziant a vir &brandShortName; da gennaskañ ent diogel d'al lec'hienn-mañ">
 <!ENTITY certerror.mitm.longDesc "Ul lec'hienn diarvar eo <span class='hostname'></span> moarvat, met n'haller ket staliañ ur c'hennask diogel. Abalamour da <span class='mitm-name'/> zo eus ar fazi, ar pezh a zo ur meziant war hoc'h urzhiataer pe ho rouedad.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "M'eo enkorfet ur c'heweriuster a c'hwilerv ar c'hennaskoù enrineget (anvet eo “web scanning” pe “https scanning” peurvuiañ) en ho enepvirus e c'hallit e ziweredekaat. Ma n'ha ket en-dro e c'hallit dilemel hag adstaliañ ar meziant enepvirus. ">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "M'emaoc'h war ur rouedad embregerezh e c'hallit mont e darempred gant an departamant stlenneg.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "Ma n'anavezit ket <span class='mitm-name'/> e c'hall bezañ un dagadenn ha rankout a rafec'h chom hep kenderc'hel war al lec'hienn-mañ.">
+<!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "Ma n'anavezit ket <span class='mitm-name'/> e c'hall bezañ un dagadenn ha n'hallit ket haeziñ al lec'hienn.">
 
 <!ENTITY clockSkewError.title "Direizh eo eurier hoc'h urzhiataer">
 <!ENTITY clockSkewError.longDesc "Hoc'h urzhiataer a soñj dezhañ eo <span id='wrongSystemTime_systemDate1'/>, ar pezh a vir &brandShortName; da gennaskañ ent diogel. Evit gweladenniñ <span class='hostname'></span>, hizivait eur hoc'h urzhiataer en hoc'h arventennoù reizhiad ha lakait an deiziad, an eur hag ar gwerzhid-eur reizh. Adkargit <span class='hostname'></span> da c'houde.">
