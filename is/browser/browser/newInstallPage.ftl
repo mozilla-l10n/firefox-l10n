@@ -7,6 +7,10 @@
 ### Firefox" and "version" is used to mean "the specific revision number of a
 ### given Firefox channel". These terms are not synonymous.
 
+title = Mikilvægar fréttir
+heading = Breytingar á { -brand-short-name } reikningi þínum
+changed-title = Hvað breyttist?
+changed-desc-profiles = Þessi uppsetning af { -brand-short-name } inniheldur nýtt snið. Snið er safn skráa þar sem Firefox vistar upplýsingar, svo sem bókamerki, lykilorð og notandastillingar.
 sync-input =
     .placeholder = Tölvupóstur
 sync-learn = Fræðast meira
