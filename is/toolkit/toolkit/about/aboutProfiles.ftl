@@ -26,6 +26,7 @@ profiles-rename = Endurnefna
 profiles-remove = Fjarlægja
 profiles-set-as-default = Setja sem sjálfgefin notanda
 profiles-launch-profile = Keyra notanda í nýjum vafra
+profiles-cannot-set-as-default-title = Ekki hægt að setja sem sjálfgefið gildi
 profiles-yes = já
 profiles-no = nei
 profiles-rename-profile-title = Endurnefna notanda

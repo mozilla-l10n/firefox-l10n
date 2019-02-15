@@ -16,6 +16,11 @@
 serviceworker-list-header = Þjónustufólk
 # Text for the button to unregister a Service Worker. Displayed for active Service Workers.
 serviceworker-worker-unregister = Afskrá
+# Text for the debug link displayed for an already started Service Worker. Clicking on the
+# link opens a new devtools toolbox for this service worker. The title attribute is only
+# displayed when the link is disabled.
+serviceworker-worker-debug = Kemba
+    .title = Eingöngu er hægt að kemba keyrandi service workers
 # Text for the start link displayed for a registered but not running Service Worker.
 # Clicking on the link will attempt to start the service worker.
 serviceworker-worker-start = Byrja
@@ -32,3 +37,6 @@ serviceworker-worker-status = Staða
 serviceworker-worker-status-running = Í gangi
 # Service Worker status. A stopped service worker is registered but not currently active.
 serviceworker-worker-status-stopped = Hætt
+# Service Worker status. A registering service worker is not yet registered and cannot be
+# started or debugged.
+serviceworker-worker-status-registering = Er að skrá
