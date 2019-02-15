@@ -1,9 +1,0 @@
-<!ENTITY setPassword.title "Cinca Phasiwodi-nkulu">
-<!ENTITY setPassword.tokenName.label "Xitirhisiwa">
-<!ENTITY setPassword.oldPassword.label "Phasiwedi ya sweswi:">
-<!ENTITY setPassword.newPassword.label "Phasiwedi leyintshwa:">
-<!ENTITY setPassword.reenterPassword.label "Nghenisa nakambe phasiwedi:">
-<!ENTITY setPassword.meter.label "Mitira ya nkoka wa phasiwedi">
-<!ENTITY setPassword.meter.loading "Panga">
-<!ENTITY masterPasswordDescription.label "Phasiwedi-nkulu yi tirhiseriwa ku sirhelela mahungu ya nkoka ku kota tiphasiwedi ta sayiti leri.  Loko u tumbuluxa Phasiwedi-nkulu u ta komberiwa ku yi tirhisa kan'we eka sexini loko ku ri &brandShortName; ku kuma mahungu lama hlayisiweke hi phasiwedi.">
-<!ENTITY masterPasswordWarning.label "Vona leswaku u tsundzuka phasiwedi-nkulu leyi u nga yi lulamisa.  Loko u rivala phasiwedi-nkulu, u nga kumi mahungu lama hlayisiweke eka yona.">
