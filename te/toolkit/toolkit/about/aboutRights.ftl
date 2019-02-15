@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+rights-title = మీ హక్కుల గురించి
 rights-intro = ప్రపంచంలో అన్ని ప్రాంతాలనుండి వేల మంది సముదాయముచే తయారు చేయబడిన { -brand-full-name } ఒక స్వేచ్ఛామూలాలు ఉచితంగా కల సాఫ్ట్‌వేర్. మీరు తెలుసుకోవాలిసిన కొన్ని సంగతులు:
 rights-intro-point-1 = { -brand-short-name } <a data-l10n-name="mozilla-public-license-link">Mozilla Public License</a>. మీరు { -brand-short-name } ను వాడుకొనుట, కాపీ చేయుట, ఇతరులకు ఇచ్చుట చేయవచ్చు.  { -brand-short-name } మూలపు కోడ్ ని మీ అవసరాలకొరకు మార్చవచ్చు. Mozilla పబ్లిక్ లైసెన్సు ఇలా మార్చిన వాటిని ఇతరులకు ఇచ్చే హక్కుని మీకు ఇస్తుంది.
 rights-intro-point-2 = Mozilla సంస్థ లేదా యే ఇతర పార్టీ యొక్క లైసెన్సులను లేదా వ్యాపార గుర్తులపై, Firefox పేరు లేదా చిహ్నముపై మీకు యెటువంటి వ్యాపారగుర్తు హక్కులను యిచ్చుటలేదు. వ్యాపారచిహ్నాలగురించి మరింత సమాచారం <a data-l10n-name="mozilla-trademarks-link">యిక్కడ చూడవచ్చు</a>.
