@@ -37,6 +37,7 @@
                        text for the search box.   -->
 <!ENTITY aboutPrivateBrowsing.search.placeholder         "Buscar en la Web">
 <!ENTITY aboutPrivateBrowsing.info.title                 "Estás en una ventana privada">
+<!ENTITY aboutPrivateBrowsing.info.description           "&brandShortName; limpia tu historial de búsqueda y navegación cuando sales de la aplicación o cierras todas las pestañas y ventanas de navegación privada. Si bien esto no te deja en el anonimato ante los sitios web o tu proveedor de servicios de internet, hace que sea más fácil mantener privado lo que haces en línea para todos los otros que usen este computador.">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article
                        about private browsing myths.   -->
 <!ENTITY aboutPrivateBrowsing.info.myths                 "Mitos comunes sobre la navegación privada">

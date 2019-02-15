@@ -880,6 +880,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsReloadHint "Puede que tengas que recargar la página para que los cambios se apliquen.">
 <!ENTITY identity.permissionsPreferences.tooltip "Abrir preferencias de permisos">
 
+<!ENTITY identity.contentBlockingPreferences.tooltip "Abrir preferencias de bloqueo de contenido">
 
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -994,6 +995,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.cookies.label "Cookies">
 <!ENTITY contentBlocking.cookiesView.label "Cookies y datos de sitio">
+
+<!ENTITY contentBlocking.cryptominers.label "Criptomineros">
+<!ENTITY contentBlocking.cryptominersView.label "Criptomineros">
+
+<!ENTITY contentBlocking.fingerprinters.label "Creadores de huellas (Fingerprinters)">
+<!ENTITY contentBlocking.fingerprintersView.label "Creadores de huellas (Fingerprinters)">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Reportar un problema">
 <!ENTITY contentBlocking.breakageReportView.label "Reportar problemas">
