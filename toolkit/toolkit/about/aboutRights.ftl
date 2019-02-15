@@ -4,6 +4,7 @@
 
 rights-intro-point-4-unbranded = Усе прыдатныя палітыкі прыватнасці для гэтага прадукту павінны быць пералічаны тут.
 rights-webservices-header = Сеткавыя звесткавыя службы { -brand-full-name }
+rights-safebrowsing-term-2 = Выберыце раздзел "Бяспека"
 rights-locationawarebrowsing-term-2 = Набярыце geo.enabled
 rights-locationawarebrowsing-term-3 = Двойчы пстрыкніце перавагу geo.enabled
 rights-webservices-term-2 = { -vendor-short-name } можа самастойна перастаць карыстацца службай ці змяніць яе.
