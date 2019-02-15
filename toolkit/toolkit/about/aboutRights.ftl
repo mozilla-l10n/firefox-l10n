@@ -2,18 +2,22 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+rights-title = તમારા અધિકારો વિશે
 rights-intro = { -brand-full-name } is free and open source software, built by a community of thousands from all over the world. There are a few things you should know:
 rights-intro-point-1 = { -brand-short-name } is made available to you under the terms of the <a data-l10n-name="mozilla-public-license-link">Mozilla Public License</a>. This means you may use, copy and distribute { -brand-short-name } to others.  You are also welcome to modify the source code of { -brand-short-name } as you want to meet your needs. The Mozilla Public License also gives you the right to distribute your modified versions.
+rights-intro-point-2 = તમને Mozilla ફાઉન્ડેશનના ટ્રેડમાર્ક્સ અથવા કોઈપણ પક્ષના કોઈ પણ ટ્રેડમાર્ક અધિકારો અથવા લાઇસેંસ આપવામાં આવ્યાં નથી, જેમાં Firefox નામ અથવા લોગોની મર્યાદા વિનાનો સમાવેશ થાય છે. ટ્રેડમાર્ક પર વધારાની માહિતી મળી શકે છે <a data-l10n-name="mozilla-trademarks-link">here</a>.
 rights-intro-point-3 = Some features in { -brand-short-name }, such as the Crash Reporter, give you the option to provide feedback to { -vendor-short-name }. By choosing to submit feedback, you give { -vendor-short-name } permission to use the feedback to improve its products, to publish the feedback on its websites, and to distribute the feedback.
 rights-intro-point-4 = How we use your personal information and feedback submitted to { -vendor-short-name } through { -brand-short-name } is described in the <a data-l10n-name="mozilla-privacy-policy-link">{ -brand-short-name } Privacy Policy</a>.
 rights-intro-point-4-unbranded = Any applicable privacy policies for this product should be listed here.
 rights-intro-point-5 = Some { -brand-short-name } features make use of web-based information services, however, we cannot guarantee they are 100% accurate or error-free. More details, including information on how to disable the features that use these services, can be found in the <a data-l10n-name="mozilla-service-terms-link">service terms</a>.
 rights-intro-point-5-unbranded = If this product incorporates web services, any applicable service terms for the service(s) should be linked to the <a data-l10n-name="mozilla-website-services-link">Web Site Services</a> section.
+rights-intro-point-6 = ચોક્કસ પ્રકારની વિડિઓ સામગ્રીને ચલાવવા માટે, { -brand-short-name } તૃતીય પક્ષોમાંથી અમુક સામગ્રી ડિક્રિપ્શન મોડ્યુલો ડાઉનલોડ કરે છે.
 rights-webservices-header = { -brand-full-name } Web-Based Information Services
 rights-webservices = { -brand-full-name } uses web-based information services ("Services") to provide some of the features provided for your use with this binary version of { -brand-short-name } under the terms described below. If you do not want to use one or more of the Services or the terms below are unacceptable, you may disable the feature or Service(s). Instructions on how to disable a particular feature or Service may be found <a data-l10n-name="mozilla-disable-service-link">here</a>. Other features and Services can be disabled in the application preferences.
 rights-safebrowsing = <strong>SafeBrowsing: </strong>Disabling the Safe Browsing feature is not recommended as it may result in you going to unsafe sites.  If you wish to disable the feature completely, follow these steps:
 rights-safebrowsing-term-1 = Open the application preferences
 rights-safebrowsing-term-2 = Select the Security selection
+rights-safebrowsing-term-3 = "{ enableSafeBrowsing-label }" વિકલ્પને અનચેક કરો
 rights-safebrowsing-term-4 = Safe Browsing is now disabled
 rights-locationawarebrowsing = <strong>Location Aware Browsing: </strong>is always opt-in.  No location information is ever sent without your permission.  If you wish to disable the feature completely, follow these steps:
 rights-locationawarebrowsing-term-1 = In the URL bar, type <code>about:config</code>
