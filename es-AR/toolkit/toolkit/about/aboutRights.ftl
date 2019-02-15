@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+rights-title = Acerca de sus derechos
 rights-intro = { -brand-full-name } es software libre y de código abierto, creado por una comunidad de miles de personas a lo largo del mundo. Hay algunas cosas que debe saber:
 rights-intro-point-1 = { -brand-short-name } está disponible bajo los términos de la <a data-l10n-name="mozilla-public-license-link">Licencia Pública de Mozilla (MPL)</a>. Esto significa que puede usar, copiar y compartir { -brand-short-name } con otras personas. También tiene la posibilidad de modificar el código fuente de { -brand-short-name } como desee a fin de que éste se ajuste a sus necesidades. La Licencia Pública de Mozilla también le otorga el derecho a distribuir esas versiones modificadas.
 rights-intro-point-2 = No se le ha concedido ningún derecho de marca o licencia sobre las marcas registradas de Mozilla Foundation o cualquier parte, incluyendo sin limitaciones el nombre y logo de Firefox. Puede encontrar información adicional sobre las marcas registradas <a data-l10n-name="mozilla-trademarks-link">aquí</a>.
@@ -17,6 +18,7 @@ rights-safebrowsing = <strong>Navegación segura: </strong>No se recomienda desh
 rights-safebrowsing-term-1 = Abrir las preferencias de la aplicación
 rights-safebrowsing-term-2 = Seleccionar la pestaña Seguridad
 rights-safebrowsing-term-3 = Desmarcar la opción para "{ enableSafeBrowsing-label }"
+enableSafeBrowsing-label = Bloquear contenido peligroso y engañoso
 rights-safebrowsing-term-4 = La navegación segura ahora está deshabilitada
 rights-locationawarebrowsing = <strong>Navegación con ubicación geográfica: </strong>siempre es opcional.  Nunca se envía información de ubicación sin su permiso.  Si desea deshabilitar esta característica por completo, siga estos pasos:
 rights-locationawarebrowsing-term-1 = En la barra de direcciones ingrese <code>about:config</code>
