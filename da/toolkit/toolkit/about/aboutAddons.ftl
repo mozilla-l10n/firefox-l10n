@@ -158,7 +158,7 @@ legacy-extensions-description = Disse udvidelser møder ikke de nuværende { -br
 
 private-browsing-description = 
      Udvidelser har ikke tilladelse til at køre som standard i private vinduer. Det betyder, 
-     at de ikke funger under privat browsing og at de ikke har adgang til dine aktiviteter i 
+     at de ikke fungerer under privat browsing, og at de ikke har adgang til dine aktiviteter i 
      privat browsing. Vælg en udvidelse nedenfor for at ændre indstillingerne og give udvidelsen tilladelse til at køre i private vinduer.
     <label data-l10n-name="private-browsing-learn-more">Læs mere.</label>
 
