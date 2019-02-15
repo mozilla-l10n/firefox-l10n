@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+rights-title = Talɣut ɣef izerfan-ik
 rights-intro-point-5-unbranded = Ma yella asɣeẓan-agi isedduy tanfiwin web, isefk akk tisertiyin n useqdec ittusnasen ɣef tanfiwin-agi ad cudden ɣeṛ tigezmi.<a data-l10n-name="mozilla-website-services-link">Tanfiwin n yesmal web</a> tigezmi.
 rights-intro-point-6 = Iwakken ad turareḍ kra n wanawen n ugbur n temwalit, { -brand-short-name } ad izdem kra n izegrar n tukksa n uwgelhen n ugbur n wiyaḍ.
 rights-webservices-header = Tanfiwin n telɣut web n { -brand-full-name }
