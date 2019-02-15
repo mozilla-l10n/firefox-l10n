@@ -5,7 +5,12 @@
 rights-intro = { -brand-full-name } is fergees en iepen boarne software, makke troch in mienskip fan tûzenen fan oeral oer de wrâld. Der binne in pear dingen dy't jo witte moatte:
 rights-intro-point-1 = { -brand-short-name } is jo beskikber makke ûnder de betingsten fan de <a data-l10n-name="mozilla-public-license-link">Mozilla Publike Lisinsje</a>. Dit betsjut dat jo { -brand-short-name } brûke meie, kopiearje en distribuearje nei oaren.  Jo binne ek wolkom om de boarnekoade te bewurkjen of { -brand-short-name } sa as jo dat wolle. De Mozilla Publike Lisinsje jout jo ek it rjocht om jo oanpaste ferzje te fersprieden.
 rights-intro-point-4 = Hoe't wy jo persoanlike ynformaasje en kommentaar oanlevere oan { -vendor-short-name } troch { -brand-short-name } brûke is beskrean yn it <a data-l10n-name="mozilla-privacy-policy-link">{ -brand-short-name } Privacybelied</a>.
+rights-intro-point-6 = Om bepaalde typen fideo-ynhâld ôf te spyljen, downloadt { -brand-short-name } bepaalde ynhâlddekodearringsmodules fan tredden.
+rights-webservices-header = { -brand-full-name } Web-basearre ynformaasjetsjinsten
 rights-safebrowsing-term-1 = Iepenje de applikaasjeopsjes
+rights-safebrowsing-term-2 = Selektearje de seksje Befeiliging
+rights-safebrowsing-term-3 = Finkje de opsjes foar ‘{ enableSafeBrowsing-label }’ út
+enableSafeBrowsing-label = Gefaarlike en misliedende ynhâld blokkearje
 rights-locationawarebrowsing-term-1 = Typ yn de adresbalke <code>about:config</code>
 rights-locationawarebrowsing-term-2 = Typ geo.enabled
 rights-locationawarebrowsing-term-3 = Dûbelklik op de foarkar geo.enabled
