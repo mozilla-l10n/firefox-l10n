@@ -18,6 +18,7 @@ rights-locationawarebrowsing-term-1 = In the  URL bar, type <code>about:config</
 rights-locationawarebrowsing-term-2 = Type geo.enabled
 rights-locationawarebrowsing-term-3 = Double click on the geo.enabled  preference
 rights-locationawarebrowsing-term-4 = Location-Aware Browsing  is now disabled
+rights-webservices-unbranded = An overview of the web site  services the product incorporates, along with instructions on how to disable them, if applicable, should be included here.
 rights-webservices-term-unbranded = Any applicable service  terms for this product should be listed here.
 rights-webservices-term-1 = { -vendor-short-name } and its contributors, licensors and partners work to provide the most accurate and up-to-date Services.  However, we cannot guarantee that this information is comprehensive and error-free.  For example, the Safe Browsing Service may not identify some risky sites and may  identify some safe sites in error and the Location Aware Service all locations returned by our service providers are estimates only and neither we nor our service providers guarantee the accuracy of the locations provided.
 rights-webservices-term-2 = { -vendor-short-name } may discontinue or change the Services at its discretion.
