@@ -22,7 +22,7 @@ update-otherInstanceHandlingUpdates = { -brand-short-name }-ը թարմացվե�
 update-manual = Թարմացումները հասանելի են՝ <label data-l10n-name="manual-link"/>
 update-unsupported = Չեք կարող կատարել հետագա թարմացումներ այս համակարգում:<label data-l10n-name="unsupported-link">Իմանալ ավելին</label>
 update-restarting = Վերամեկնարկում...
-channel-description = Այժմ գործում է <label data-l10n-name="current-channel"></label> թարմացումների աղբյուրը:{ "  " }
+channel-description = Այժմ գործում է <label data-l10n-name="current-channel"></label> թարմացումների աղբյուրը:
 warningDesc-version = { -brand-short-name }-ն փորձնական է և կայուն չի աշխատի:
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> հանդիսանում է <label data-l10n-name="community-exp-creditsLink">գլոբալ համայնք</label>, որն աշխատում է միասին՝ ապահովելու համացանցի հասանելիությունը բոլորի համար:
 community-2 = { -brand-short-name }-ը ստեղծել է <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>-ն՝ <label data-l10n-name="community-creditsLink">գլոբալ համայնք</label>, որն աշխատում է միասին՝ ապահովելու համացանցի հասանելիությունը բոլորի համար:
