@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+rights-title = Par jūsu tiesībām
 rights-intro = { -brand-full-name } ir brīva bezmaksas atvērtā koda programma, ko veido tūkstošiem brīvprātīgo no visas pasaules. Ir dažas lietas, ko jums būtu vērts zināt:
 rights-intro-point-1 = { -brand-short-name } ir pieejams ar <a data-l10n-name="mozilla-public-license-link">Mozilla publiskās licences</a>nosacījumiem. Tas nozīmē, ka jūs varat brīvi izmantot, pavairot uz izplatīt { -brand-short-name } citiem.  Tāpat jūs droši varat mainīt un papildināt { -brand-short-name } pirmkodu pēc saviem ieskatiem. Mozilla publiskā licence dod jums tiesības brīvi izplatīt savas modificētās versijas.
 rights-intro-point-2 = Mozilla nedod jums tiesības izmantot Mozilla un Firefox preču zīmes un logo. Papildus informācija par preču zīmēm ir atrodama <a data-l10n-name="mozilla-trademarks-link">šeit</a>.
@@ -25,6 +26,7 @@ rights-locationawarebrowsing-term-2 = Ierakstiet geo.enabled
 rights-locationawarebrowsing-term-3 = Ar dubultklikšķi uzklikšķiniet uz geo.enabled iestatījuma
 rights-locationawarebrowsing-term-4 = Vietu zinošā pārlūkošana tagad ir deaktivēta
 rights-webservices-unbranded = Pieejamo mājas lapu pakalpojumu apraksti un instrukcijas kā vajadzības gadījumā deaktivēt tos ir pieejami šeit.
+rights-webservices-term-unbranded = Aktuālajiem pakalpojumu izmantošanas noteikumiem būtu jābūt aprakstītiem šeit.
 rights-webservices-term-1 = { -vendor-short-name } kopā ar brīvprātīgajiem, licenču partneriem un partneriem strādā pie tā, lai nodrošinātu visprecīzākos un aktuālākos pakalpojumus. Taču mēs nevaram garantēt, ka šī informācija ir visaptveroša un bez kļūdām. Piemēram, drošās pārlūkošanas pakalpojums var nezināt, ka kāda lapa ir bīstama vai arī kļūdaini uzskatīt kādu drošu lapu par bīstamu. Mūsu partneru piedāvātā atrašanās vietas noteikšana ir tikai aptuvena un nedz mēs, nedz mūsu partneri negarantē piedāvātās atrašanās vietas informācijas pareizību.
 rights-webservices-term-2 = { -vendor-short-name } var pārtraukt Pakalpojumus pēc saviem ieskatiem.
 rights-webservices-term-3 = Mēs laipni lūdzam jūs izmantot šos { -brand-short-name } piedāvātos pakalpojumus, un { -vendor-short-name } sniedz jums tiesības to darīt.  { -vendor-short-name } un tās licenču partneri patur visas citas tiesības šajos pakalpojumos.  Šie nosacījumi nav domāti, lai ierobežotu jūsu tiesības, ko jums sniedz ar { -brand-short-name } saistītās atvērtā koda licences vai { -brand-short-name } pirmkoda licences.
