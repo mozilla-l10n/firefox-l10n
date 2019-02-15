@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+rights-title = ನಿಮ್ಮ ಹಕ್ಕುಗಳ ಬಗ್ಗೆ
 rights-intro = { -brand-full-name } ಒಂದು ಸ್ವತಂತ್ರ ಮತ್ತು ಮುಕ್ತ ತಂತ್ರಾಂಶವಾಗಿದ್ದು, ಇದನ್ನು ವಿಶ್ವದಾದ್ಯಂತ ಹರಡಿರುವ ಸಾವಿರಾರು ಸಂಖ್ಯೆಯ ಸಮುದಾಯ ರಚಿಸಲಾಗಿದೆ. ನೀವು ತಿಳಿಯಬೇಕಾದ ಕೆಲವು ವಿಷಯಗಳಿವೆ:
 rights-intro-point-1 = { -brand-short-name } ಅನ್ನು ಮೋಝಿಲ್ಲಾ ಸಾರ್ವಜನಿಕ ಲೈಸೆನ್ಸಿನ ಅಡಿಯಲ್ಲಿ<a data-l10n-name="mozilla-public-license-link">ನಿಮಗೆ ಲಭ್ಯವಾಗುವಂತೆ ಮಾಡಲಾಗಿದೆ</a>. This means you may use, copy and distribute { -brand-short-name } to others.  You are also welcome to modify the source code of { -brand-short-name } as you want to meet your needs. The Mozilla Public License also gives you the right to distribute your modified versions.
 rights-intro-point-2 = You are not granted any trademark rights or licenses to the trademarks of the Mozilla Foundation or any party, including without limitation the Firefox name or logo. Additional information on trademarks may be found <a data-l10n-name="mozilla-trademarks-link">ಇಲ್ಲಿ</a>.
@@ -10,11 +11,14 @@ rights-intro-point-4 = { -brand-short-name } ಮೂಲಕ { -vendor-short-name }
 rights-intro-point-4-unbranded = ಈ ಉತ್ಪನ್ನಕ್ಕಾಗಿ ಅನ್ವಯಿಸಲ್ಪಡುವ ಗೌಪ್ಯತಾ ನೀತಿಗಳನ್ನು ಇಲ್ಲಿ ಪಟ್ಟಿ ಮಾಡಬೇಕು.
 rights-intro-point-5 = ಕೆಲವು { -brand-short-name } ಸೌಲಭ್ಯಗಳು ಜಾಲ-ಆಧರಿತವಾದ ಮಾಹಿತಿ ಸೇವೆಗಳನ್ನು ಬಳಸುತ್ತವೆ, ಆದರೆ, ಅವುಗಳು 100% ನಿಖರವಾಗಿವೆ ಅಥವ ದೋಷ-ಮುಕ್ತವಾಗಿವೆ ಎಂದು ನಾವು ಖಚಿತತೆಯನ್ನು ನೀಡುವುದಿಲ್ಲ. ಈ ಸೇವೆಗಳನ್ನು ಬಳಸುವ ಸೌಲಭ್ಯಗಳನ್ನು ಹೇಗೆ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಬೇಕು ಎನ್ನುವ ಕುರಿತಾದ ಮಾಹಿತಿಯೂ ಸೇರಿದಂತೆ ಹೆಚ್ಚಿನ ವಿವರಗಳನ್ನು <a data-l10n-name="mozilla-service-terms-link">ಸೇವೆಯ ನಿಯಮಗಳಲ್ಲಿ ಕಾಣಬಹುದು</a>.
 rights-intro-point-5-unbranded = ಈ ಉತ್ಪನ್ನವು ಜಾಲ ಸೇವೆಗಳನ್ನು ಅಳವಡಿಸಿದಲ್ಲಿ, ಸೇವೆಗಾಗಿ(ಗಳಿಗಾಗಿ) ಅನ್ವಯಿಸಲ್ಪಡುವ ಸೇವೆಯ ನಿಯಮಗಳನ್ನು ಇಲ್ಲಿಗೆ ಕೊಂಡಿ ಜೋಡಿಸಬೇಕು<a data-l10n-name="mozilla-website-services-link">ಜಾಲತಾಣ ಸೇವೆಗಳು</a>ವಿಭಾಗ.
+rights-intro-point-6 = ಕೆಲವು ತರಹದ ವೀಡಿಯೋಗಳನ್ನು ತೋರಿಸಲು, { -brand-short-name } ಕೆಲವು ವಿಷಯ ಡೀಕ್ರಿಪ್ಷನ್ ಮೊಡ್ಯುಲ್‌ಗಳನ್ನು ಮೂರನೆಯವರಿಂದ ಡೌನ್‌ಲೋಡ್ ಮಾಡಿಕೊಳ್ಳಲಾಗುವುದು.
 rights-webservices-header = { -brand-full-name } ಜಾಲ-ಆಧರಿತ ಮಾಹಿತಿ ಸೇವೆಗಳು
 rights-webservices = { -brand-full-name } uses web-based information services ("Services") to provide some of the features provided for your use with this binary version of { -brand-short-name } under the terms described below. If you do not want to use one or more of the Services or the terms below are unacceptable, you may disable the feature or Service(s). Instructions on how to disable a particular feature or Service may be found <a data-l10n-name="mozilla-disable-service-link">ಇಲ್ಲಿ</a>. ಅನ್ವಯದ ಆದ್ಯತೆಗಳಲ್ಲಿ ಇತರೆ ಸೌಲಭ್ಯಗಳನ್ನು ಮತ್ತು ಸೇವೆಗಳನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಬಹುದು.
 rights-safebrowsing = <strong>ಸುರಕ್ಷಿತವೀಕ್ಷಣೆ:</strong>ಸುರಕ್ಷಿತ ಜಾಲವೀಕ್ಷಣೆ ಸೌಲಭ್ಯವನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸುವುದನ್ನು ಸಲಹೆ ಮಾಡಲಾಗುವುದಿಲ್ಲ ಏಕೆಂದರೆ ಇದು ಸುರಕ್ಷಿತವಲ್ಲದ ತಾಣಗಳಿಗೆ ನೀವು ಹೋಗುವ ಸಾಧ್ಯತೆ ಇದೆ.  ನೀವು ಈ ಸೌಲಭ್ಯವನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲು ಬಯಸಿದರೆ, ಈ ಹಂತಗಳನ್ನು ಅನುಸರಿಸಿ:
 rights-safebrowsing-term-1 = ಅನ್ವಯದ ಆದ್ಯತೆಗಳನ್ನು ತೆರೆಯಿರಿ
 rights-safebrowsing-term-2 = ಸುರಕ್ಷತಾ ಆಯ್ಕೆಯನ್ನು ಆರಿಸು
+rights-safebrowsing-term-3 = "{ enableSafeBrowsing-label }" ಆಯ್ಕೆಯನ್ನು ತೆಗೆ
+enableSafeBrowsing-label = ಅಪಾಯಕಾರಿ ಮತ್ತು ವಂಚಕ ವಿಷಯಗಳನ್ನು ನಿರ್ಬಂಧಿಸಿ
 rights-safebrowsing-term-4 = ಸುರಕ್ಷತ ವೀಕ್ಷಣೆಯನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಂಡಿದೆ
 rights-locationawarebrowsing = <strong>ಸ್ಥಳದ ಅರಿವಿರುವ ಜಾಲವೀಕ್ಷಣೆ:  </strong>ಯಾವಾಗಲೂ ಆರಿಸಲಾಗಿರುತ್ತದೆ.  ಯಾವುದೆ ಸ್ಥಳದ ಮಾಹಿತಿಯನ್ನು ಎಂದಿಗೂ ಸಹ ನಿಮ್ಮ ಅನುಮತಿ ಇಲ್ಲದೆ ಕಳುಹಿಸಲಾಗುವುದಿಲ್ಲ.  ನೀವು ಈ ಸೌಲಭ್ಯವನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಲು ನೀವು ಬಯಸಿದರೆ, ಈ ಕೆಳಗಿನ ಹಂತಗಳನ್ನು ಬಳಸಿ:
 rights-locationawarebrowsing-term-1 = URL ಪಟ್ಟಿಯಲ್ಲಿ, ಹೀಗೆ ನಮೂದಿಸಿ <code>about:config</code>
