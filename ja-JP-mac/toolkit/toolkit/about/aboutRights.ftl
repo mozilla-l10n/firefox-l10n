@@ -6,9 +6,14 @@ rights-title = あなたの権利について
 rights-intro = { -brand-full-name } は無料のオープンソースソフトウェアであり、世界中の多数のコミュニティによって開発されています。ご利用に際してはいくつか知っておいていただきたいことがあります:
 rights-intro-point-1 = { -brand-short-name } は <a data-l10n-name="mozilla-public-license-link">Mozilla Public License</a> の条項下で提供されます。これにより、あなたは { -brand-short-name } を使用、複製、配布することができます。あなたはまた、{ -brand-short-name } のソースコードを必要に応じて修正することもできます。Mozilla Public License では、あなたが修正したバージョンを配布することも認めています。
 rights-intro-point-2 = Mozilla Foundation とその関係団体の商標およびロゴについては、Firefox の製品名およびロゴを含めこれに限定されず、何らの権利もあなたに与えるものではありません。商標について詳しくは <a data-l10n-name="mozilla-trademarks-link">Mozilla 商標ポリシー</a> をご確認ください。
+rights-intro-point-3 = クラッシュレポータなど { -brand-short-name } の一部の機能には、{ -vendor-short-name } へフィードバックを送信するオプションがあります。あなたがフィードバックの送信を選択することにより、{ -vendor-short-name } がそのフィードバックを製品の改善および { -vendor-short-name } ウェブサイトでの公開、配布のために使用する許可を { -vendor-short-name } に与えるものとします。
 rights-intro-point-4 = あなたの個人情報と { -brand-short-name } を通して { -vendor-short-name } へ送信されるフィードバックの取り扱いについては <a data-l10n-name="mozilla-privacy-policy-link">{ -brand-short-name } プライバシーポリシー</a> をご確認ください。
 rights-intro-point-4-unbranded = この製品に関する適切なプライバシーポリシーをここに記述すること。
+rights-intro-point-5 = { -brand-short-name } の一部の機能は、ウェブベースの情報サービスを利用します。ただし、それらのサービスが 100% 正確であることやエラーが起きないことは保証できません。それらのサービスを利用する機能を無効化する方法を含め、詳しくは <a data-l10n-name="mozilla-service-terms-link">サービス利用規約</a> をご確認ください。
+rights-intro-point-5-unbranded = この製品がウェブサービスと連携する場合、適切なサービス利用規約を <a data-l10n-name="mozilla-website-services-link">ウェブサイトサービス</a> セクションからリンクさせること。
 rights-intro-point-6 = 特定の形式の動画コンテンツを再生するため、{ -brand-short-name } がサードパーティからコンテンツ復号モジュールをダウンロードします。
+rights-webservices-header = { -brand-full-name } ウェブベースの情報サービス
+rights-webservices = { -brand-full-name } は、搭載された機能のために用意されたウェブベースの情報サービス (以下「本サービス」と呼びます) を利用しており、これらは下記の通り { -brand-short-name } のバイナリ版とともに利用できます。本サービスのいずれかをご利用になりたくない場合、または以下の利用規約を受け入れられない場合は、その機能またはサービスを無効化できます。 <a data-l10n-name="mozilla-disable-service-link">機能やサービスを無効化する手順</a> をお読みください。その他の機能やサービスはアプリケーションの設定から無効化できます。
 rights-safebrowsing = <strong>セーフブラウジング機能: </strong>サイトが安全でなくなる恐れがあるため、セーフブラウジング機能を無効にすることはお勧めしません。この機能を完全に無効にしたい場合は以下の手順に従ってください:
 rights-safebrowsing-term-1 = アプリケーションの設定またはオプションを開きます。
 rights-safebrowsing-term-2 = セキュリティ設定を選択します。
@@ -20,6 +25,7 @@ rights-locationawarebrowsing-term-1 = URL バーに次の文字列を入力し�
 rights-locationawarebrowsing-term-2 = フィルター欄に geo.enabled と入力します。
 rights-locationawarebrowsing-term-3 = geo.enabled 設定をダブルクリックして値を false に変更してください。
 rights-locationawarebrowsing-term-4 = 位置情報検出機能が無効になります。
+rights-webservices-unbranded = この製品と連携するウェブサイトサービスの概要と、可能であればそれを無効化する手順をここに記述すること。
 rights-webservices-term-unbranded = この製品に関する適切なサービス利用規約をここに記述すること。
 rights-webservices-term-1 = { -vendor-short-name } ならびにその貢献者、ライセンサ、およびパートナーは、最も正確かつ最新のサービス提供に努めています。ただし、この情報が完全で誤りがないことは保証できません。例えば、セーフブラウジングサービスが危険なサイトを適切に識別しない、または安全なサイトを誤って危険なサイトとして識別する可能性があります。また、位置情報検出サービスによるすべての位置情報は評価のためだけに使用され、提供された位置の正確さを保証するものではありません。
 rights-webservices-term-2 = { -vendor-short-name } は、独自の判断に基づいて本サービスを変更または中止することがあります。
