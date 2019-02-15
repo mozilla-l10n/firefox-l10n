@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+rights-title = О вашим правима
 rights-intro = { -brand-full-name } је бесплатан и отворен софтвер, кога је изградила заједница хиљада људи широм света. Ево неколико ствари које треба да знате:
 rights-intro-point-1 = { -brand-short-name } вам је дат на коришћење под условима <a data-l10n-name="mozilla-public-license-link">Mozilla јавне лиценце</a>. То значи да можете да користите, копирате и даље делите програм { -brand-short-name } другима.  Такође можете слободно да мењате изворни код програма { -brand-short-name } онако како одговара вашим потребама. Mozilla јавна лиценца такође даје право да делите измењено издање.
 rights-intro-point-2 = Нису додељена никаква права на заштитне знакове или лиценце за заштитне знакове Mozilla задужбине или било које стране, укључујући без ограничења назив или лого Firefox. Додатне информације о заштитним знаковима можете да добијете <a data-l10n-name="mozilla-trademarks-link">овде</a>.
