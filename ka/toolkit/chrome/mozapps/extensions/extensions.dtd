@@ -1,101 +1,12 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!ENTITY addons.windowTitle                   "დამატებების მმართველი">
-
-<!ENTITY search.placeholder2                  "addons.mozilla.org საიტზე მოძიება">
-
-<!ENTITY search.placeholder3                  "addons.mozilla.org საიტზე მოძიება">
-<!ENTITY search.buttonlabel                   "ძიება">
-<!-- LOCALIZATION NOTE (search.commandkey):
-     The search command key should match findOnCmd.commandkey from browser.dtd -->
-<!ENTITY search.commandkey                    "f">
-
-<!ENTITY loading.label                        "იტვირთება…">
-<!ENTITY listEmpty.installed.label            "ამ სახის არცერთი დამატება არ გაქვთ დაყენებული">
-<!ENTITY listEmpty.availableUpdates.label     "განახლებები ვერ მოიძებნა">
-<!ENTITY listEmpty.recentUpdates.label        "ბოლო დროს, არცერთი დამატება არ განგიახლებიათ.">
-<!ENTITY listEmpty.findUpdates.label          "განახლებების შემოწმება">
-<!ENTITY listEmpty.button.label               "იხილეთ ვრცლად, დამატებების შესახებ">
-<!ENTITY installAddonFromFile.label           "დამატების დაყენება ფაილის მეშვეობით…">
-<!ENTITY installAddonFromFile.accesskey       "ფ">
-<!ENTITY toolsMenu.tooltip                    "ხელსაწყოები ყველა დამატებისთვის">
-
-<!ENTITY getThemes.description                "ბრაუზერის მორგება გსურთ?">
-<!ENTITY getThemes.learnMore                  "აირჩიეთ ათასობით გაფორმებიდან რომელიმე.">
-
-
-<!ENTITY showUnsignedExtensions.button.label  "ზოგიერთი გაფართოება ვერ გადამოწმდა">
-<!ENTITY showAllExtensions.button.label       "ყველა გაფართოების ჩვენება">
-<!ENTITY debugAddons.label                    "დამატებების გამართვა">
-<!ENTITY debugAddons.accesskey                "გ">
-
-<!-- global warnings -->
-<!ENTITY warning.safemode.label                    "ყველა დამატება გამორთულია უსაფრთხო რეჟიმის მიერ.">
-<!ENTITY warning.checkcompatibility.label          "დამატებების თავსებადობის შემოწმება გამორთულია. შესაძლოა არათავსებადი დამატებები გქონდეთ.">
-<!ENTITY warning.checkcompatibility.enable.label   "ჩართვა">
-<!ENTITY warning.checkcompatibility.enable.tooltip "დამატებების თავსებადობის შემოწმების ჩართვა">
-<!ENTITY warning.updatesecurity.label              "დამატების განახლების უსაფრთხოების შემოწმება გამორთულია. განახლებამ შესაძლოა ზიანი მოგაყენოთ.">
-<!ENTITY warning.updatesecurity.enable.label       "ჩართვა">
-<!ENTITY warning.updatesecurity.enable.tooltip     "დამატებების განახლების უსაფრთხოების შემოწმების ჩართვა">
-
-<!-- categories / views -->
-<!ENTITY view.discover.label                  "ჩამონათვალი">
-<!ENTITY view.recentUpdates.label             "ბოლო განახლებები">
-<!ENTITY view.availableUpdates.label          "ხელმისწვდომი განახლებები">
-
-<!ENTITY helpButton.label                      "დამატებების მხარდაჭერა">
-<!ENTITY preferencesWin.label                  "&brandShortName; პარამეტრები">
-<!ENTITY preferencesUnix.label                 "&brandShortName; პარამეტრები">
-
-<!-- addon updates -->
-<!ENTITY updates.checkForUpdates.label        "განახლებების შემოწმება">
-<!ENTITY updates.checkForUpdates.accesskey    "შ">
-<!ENTITY updates.viewUpdates.label            "ბოლო განახლებების ნახვა">
-<!ENTITY updates.viewUpdates.accesskey        "ბ">
-<!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
-     is a checkbox that toggles the default global behavior for add-on update
-     checking. -->
-<!ENTITY updates.updateAddonsAutomatically.label     "დამატებების თვითგანახლება">
-<!ENTITY updates.updateAddonsAutomatically.accesskey "ვ">
-<!-- LOCALIZATION NOTE (updates.resetUpdatesToAutomatic.label, updates.resetUpdatesToManual.label):
-     Specific addons can have custom update checking behaviors ("Manually",
-     "Automatically", "Use default global behavior"). These menu items reset the
-     update checking behavior for all add-ons to the default global behavior
-     (which itself is either "Automatically" or "Manually", controlled by the
-     updates.updateAddonsAutomatically.label menu item). -->
-<!ENTITY updates.resetUpdatesToAutomatic.label       "ყველა დამატების, ავტომატურ განახლებაზე დაბრუნება">
-<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "დ">
-<!ENTITY updates.resetUpdatesToManual.label          "ყველა დამატებაზე, ხელით განახლების მითითება">
-<!ENTITY updates.resetUpdatesToManual.accesskey      "ხ">
-<!ENTITY updates.updating.label               "დამატებების განახლება">
-<!ENTITY updates.installed.label              "დამატებები განახლებულია.">
-<!ENTITY updates.downloaded.label             "დამატებების განახლებები ჩამოტვირთულია.">
-<!ENTITY updates.restart.label                "ხელახლა გაუშვით დაყენების დასასრულებლად">
-<!ENTITY updates.noneFound.label              "განახლებები ვერ მოიძებნა">
-<!ENTITY updates.manualUpdatesFound.label     "ხელმისაწვდომი განახლებების ნახვა">
-<!ENTITY updates.updateSelected.label         "განახლებების დაყენება">
-<!ENTITY updates.updateSelected.tooltip       "ხელმისაწვდომი განახლებების დაყენება ამ სიიდან">
-
-<!-- addon actions -->
-<!ENTITY cmd.showDetails.label                "დამატებითი ინფორმაციის ჩვენება">
-<!ENTITY cmd.showDetails.accesskey            "მ">
-<!ENTITY cmd.findUpdates.label                "განახლებების პოვნა">
-<!ENTITY cmd.findUpdates.accesskey            "პ">
-<!ENTITY cmd.preferencesWin.label             "პარამეტრები">
-<!ENTITY cmd.preferencesWin.accesskey         "პ">
-<!ENTITY cmd.preferencesUnix.label            "მითითებები">
-<!ENTITY cmd.preferencesUnix.accesskey        "თ">
 
 <!-- addon actions -->
 <!ENTITY cmd.enableAddon.label                "ჩართვა">
 <!ENTITY cmd.enableAddon.accesskey            "ჩ">
 <!ENTITY cmd.disableAddon.label               "ამორთვა">
 <!ENTITY cmd.disableAddon.accesskey           "ა">
-<!ENTITY cmd.enableTheme.label                "თემის მორგება">
-<!ENTITY cmd.enableTheme.accesskey            "გ">
-<!ENTITY cmd.disableTheme.label               "თემის მორგების შეჩერება">
-<!ENTITY cmd.disableTheme.accesskey           "გ">
 
 <!ENTITY cmd.askToActivate.label              "ნებართვა გასაშვებად">
 <!ENTITY cmd.askToActivate.tooltip            "ნებართვა, დამატების ყოველი გაშვების წინ">
@@ -104,8 +15,6 @@
 <!ENTITY cmd.neverActivate.label              "არასდროს გაეშვას">
 <!ENTITY cmd.neverActivate.tooltip            "არასდროს გამოიყენოს ეს დამატება">
 <!ENTITY cmd.stateMenu.tooltip                "აირჩიეთ, როდის გაეშვას ეს დამატება">
-<!ENTITY cmd.installAddon.label               "ჩადგმა">
-<!ENTITY cmd.installAddon.accesskey           "ი">
 
 <!ENTITY cmd.uninstallAddon.label             "ამოშლა">
 <!ENTITY cmd.uninstallAddon.accesskey         "ა">
@@ -113,9 +22,6 @@
 <!ENTITY cmd.showPreferencesWin.tooltip       "ამ დამატების პარამეტრების შეცვლა">
 <!ENTITY cmd.showPreferencesUnix.label        "გამართვა">
 <!ENTITY cmd.showPreferencesUnix.tooltip      "ამ დამატების პარამეტრების შეცვლა">
-<!ENTITY cmd.contribute.label                 "წვლილის გაღება">
-<!ENTITY cmd.contribute.accesskey             "წ">
-<!ENTITY cmd.contribute.tooltip               "შეიტანეთ წვლილი ამ დამატების შემუშავებაში">
 
 <!ENTITY cmd.showReleaseNotes.label           "გამოშვების შენიშვნების ჩვენება">
 <!ENTITY cmd.showReleaseNotes.tooltip         "ამ განახლების შესახებ შენიშვნების ჩვენება">
@@ -123,56 +29,8 @@
 <!ENTITY cmd.hideReleaseNotes.tooltip         "ამ განახლების გამოშვების შენიშვნების დამალვა">
 <!ENTITY cmd.findReplacement.label            "შემცვლელის მოძიება">
 
-<!-- discovery view -->
-<!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
-     Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
-<!ENTITY discover.title                       "რა არის დამატებები?">
-<!ENTITY discover.description2                "დამატებები არის პროგრამები, რომლებიც საშუალებას გაძლევთ უკეთ მოირგოთ &brandShortName;
-  დამატებითი შესაძლებლობებითა და გაფორმებით. სცადეთ დროის დასაზოგი გვერდითი ზოლი, ამინდის მომხსენებელი, ან თემების საშუალებით გახადეთ &brandShortName;
-  უფრო მეტად თქვენებური.">
-<!ENTITY discover.footer                      "ინტერნეტთან კავშირის დროს, ამ არეში გამოჩნდება
-  საუკეთესო და რჩეული დამატებები, რომელიც შეგიძლიათ გამოსცადოთ.">
-
-<!-- detail view -->
-<!ENTITY detail.version.label                 "ვერსია">
-<!ENTITY detail.lastupdated.label             "ბოლო განახლება">
-<!ENTITY detail.creator.label                 "შემმუშავებელი">
-<!ENTITY detail.homepage.label                "მთავარი გვერდი">
-
-<!ENTITY detail.contributions.description     "ამ დამატების შემქმნელი, პროგრამის მომავალი განვითარებისთვის, გთხოვთ მხარდაჭერას, მცირეოდენი შემოწირულობის სახით.">
-
-<!ENTITY detail.updateType                    "თვითგანახლებები">
-<!ENTITY detail.updateDefault.label           "ნაგულისხმევი">
-<!ENTITY detail.updateDefault.tooltip         "განახლებების ავტომატურად დაყენება, თუ ნაგულისხმევადაა მითითებული.">
-<!ENTITY detail.updateAutomatic.label         "ჩართვა">
-<!ENTITY detail.updateAutomatic.tooltip       "განახლებების ავტომატურად დაყენება">
-<!ENTITY detail.updateManual.label            "გამორთვა">
-<!ENTITY detail.updateManual.tooltip          "არ დაყენდეს განახლებები ავტომატურად">
-<!ENTITY detail.home                          "მთავარი გვერდი">
-<!ENTITY detail.repository                    "დამატების პროფილი">
-<!ENTITY detail.size                          "ზომა">
-
-<!ENTITY detail.checkForUpdates.label         "განახლებების შემოწმება">
-<!ENTITY detail.checkForUpdates.accesskey     "ბ">
-<!ENTITY detail.checkForUpdates.tooltip       "ამ დამატების შემოწმება განახლებაზე">
-<!ENTITY detail.showPreferencesWin.label      "გამართვა">
-<!ENTITY detail.showPreferencesWin.accesskey  "გ">
-<!ENTITY detail.showPreferencesWin.tooltip    "ამ დამატების პარამეტრების შეცვლა">
-<!ENTITY detail.showPreferencesUnix.label     "გამართვა">
-<!ENTITY detail.showPreferencesUnix.accesskey "რ">
-<!ENTITY detail.showPreferencesUnix.tooltip   "ამ დამატების პარამეტრების შეცვლა">
-
-
-<!-- ratings -->
-<!ENTITY rating2.label                        "შეფასება">
-
-<!-- download/install progress -->
-<!ENTITY progress.pause.tooltip               "პაუზა">
-
 <!-- download/install progress -->
 <!ENTITY progress.cancel.tooltip              "გაუქმება">
-
-<!ENTITY addon.homepage                       "მთავარი გვერდი">
 
 <!ENTITY addon.details.label                  "ვრცლად">
 <!ENTITY addon.details.tooltip                "ვრცლად ამ დამატების შესახებ">
@@ -181,6 +39,7 @@
      to the add-on name for extensions that are not webextensions, which
      will stop working in Firefox 57. -->
 <!ENTITY addon.legacy.label                   "მოძველებული">
+<!ENTITY addon.privateBrowsing.label          "დაშვებულია პირად ფანჯრებში">
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
      "<Addon name> <1.0> (disabled)" -->
@@ -194,7 +53,6 @@
 <!ENTITY addon.undoAction.tooltip             "ბოლო მოქმედების გაუქმება">
 <!ENTITY addon.undoRemove.label               "დაბრუნება">
 <!ENTITY addon.undoRemove.tooltip             "დაყენებული დამატების დატოვება">
-<!ENTITY addon.restartNow.label               "ხელახლა გაშვება">
 
 <!ENTITY addon.install.label                  "ჩადგმა">
 <!ENTITY addon.install.tooltip                "დამატების ჩადგმა">
@@ -209,34 +67,5 @@
 
 <!ENTITY addon.createdBy.label                "ავტორი ">
 
-<!ENTITY eula.title                           "მომხმარებლის სალიცენზიო შეთანხმება">
-<!ENTITY eula.width                           "560px">
-<!ENTITY eula.height                          "400px">
-<!ENTITY eula.accept                          "მიღება და ჩადგმა…">
-
 <!ENTITY settings.path.button.label           "ამორჩევა…">
-
 <!ENTITY setting.learnmore "ვრცლად…">
-
-<!ENTITY disabledUnsigned.heading "ზოგიერთი დამატება გამორთულია">
-<!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
-     These entities form a sentence, with
-     disabledUnsigned.description.findAddonsLink being a link to an external site. -->
-<!ENTITY disabledUnsigned.description.start "ეს დამატებები არაა დამოწმებული &brandShortName;-ში გამოსაყენებლად. თქვენ შეგიძლიათ ">
-<!ENTITY disabledUnsigned.description.findAddonsLink "მონახოთ შემცვლელები">
-<!ENTITY disabledUnsigned.description.end " ან სთხოვოთ შემქმნელს მათი დამოწმება.">
-<!ENTITY disabledUnsigned.learnMore "შეიტყვეთ მეტი ჩვენი ძალისხმევის შესახებ, ინტერნეტში თქვენი უსაფრთხოების დაცვისთვის.">
-<!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
-     These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
-     being a link to an external site. -->
-<!ENTITY disabledUnsigned.devInfo.start "შემმუშავებლებს, რომელთაც თავიანთი დამატებების დამოწმება სურთ, შეუძლიათ განაგრძონ ჩვენი ">
-<!ENTITY disabledUnsigned.devInfo.linkToManual "სახელმძღვანელოს კითხვა">
-<!ENTITY disabledUnsigned.devInfo.end ".">
-
-<!ENTITY pluginDeprecation.description "რამეს ვერ პოულობთ? ზოგიერთი მოდული აღარაა მხარდაჭერილი &brandShortName;-ში.">
-<!ENTITY pluginDeprecation.learnMore "იხილეთ ვრცლად.">
-
-<!ENTITY legacyWarning.showLegacy "მოძველებული გაფართოებების ჩვენება">
-<!ENTITY legacyExtensions.title "მოძველებული გაფართოებები">
-<!ENTITY legacyExtensions.description "ეს გაფართოებები არ შეესაბამება &brandShortName;-ის არსებულ სტანდარტებს და შესაბამისად ამორთულია.">
-<!ENTITY legacyExtensions.learnMore "ვრცლად, დამატებებთან დაკავშირებული ცვლილებების შესახებ">
