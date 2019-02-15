@@ -26,7 +26,9 @@ profiles-rename = გადარქმევა
 profiles-remove = მოცილება
 profiles-set-as-default = ნაგულისხმევ პროფილად დაყენება
 profiles-launch-profile = პროფილის გაშვება ახალ ბრაუზერში
-profiles-yes = კი
+profiles-cannot-set-as-default-title = ნაგულისხმევად დაყენება ვერ ხერხდება
+profiles-cannot-set-as-default-message = ნაგულისხმევი პროფილი ვერ შეიცვლება { -brand-short-name }-ისთვის.
+profiles-yes = დიახ
 profiles-no = არა
 profiles-rename-profile-title = პროფილის გადარქმევა
 # Variables:

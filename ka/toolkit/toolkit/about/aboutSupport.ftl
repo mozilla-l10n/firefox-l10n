@@ -47,6 +47,7 @@ app-basics-memory-use = გამოყენებული მეხსიე�
 app-basics-performance = წარმადობა
 app-basics-service-workers = დარეგისტრებული Service Worker-ები
 app-basics-profiles = პროფილები
+app-basics-launcher-process-status = გამშვები პროცესი
 app-basics-multi-process-support = მრავალპროცესიანი ფანჯრები
 app-basics-process-count = ვებშიგთავსის პროცესები
 app-basics-enterprise-policies = დებულებები კომპანიებისთვის
@@ -244,6 +245,10 @@ effective-content-sandbox-level = შიგთავსის პროცეს
 sandbox-proc-type-content = შიგთავსი
 sandbox-proc-type-file = ფაილის შიგთავსი
 sandbox-proc-type-media-plugin = მედიის მოდული
+launcher-process-status-0 = ჩართულია
+launcher-process-status-1 = გამორთულია ხარვეზის გამო
+launcher-process-status-2 = გამორთულია ძალით
+launcher-process-status-unknown = უცნობი მდგომარეობა
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
