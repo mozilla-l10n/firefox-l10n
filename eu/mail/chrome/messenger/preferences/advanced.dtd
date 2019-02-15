@@ -67,17 +67,17 @@
  -->
 <!ENTITY updateApp.version.pre           "Bertsioa ">
 <!ENTITY updateApp.version.post          "">
+<!ENTITY updateAppAllow.description      "Baimendu &brandShortName;(r)i">
 <!ENTITY updateAuto.label                "Instalatu eguneraketak automatikoki (gomendatua: hobetutako segurtasuna)">
 <!ENTITY updateAuto.accesskey            "a">
 <!ENTITY updateCheck.label               "Egiaztatu eguneraketarik dagoen baina galdetu instalatu nahi ditudan">
 <!ENTITY updateCheck.accesskey           "E">
-<!ENTITY updateManual.label              "Ez egiaztatu inoiz eguneraketarik dagoen (ez gomendatua: segurtasun arriskua)">
-<!ENTITY updateManual.accesskey          "n">
 <!ENTITY updateHistory.label             "Erakutsi eguneraketen historia">
 <!ENTITY updateHistory.accesskey         "n">
 
 <!ENTITY useService.label                "Erabili atzeko planoko zerbitzua eguneraketak instalatzeko">
 <!ENTITY useService.accesskey            "z">
+
 
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Ezarpenak…">
