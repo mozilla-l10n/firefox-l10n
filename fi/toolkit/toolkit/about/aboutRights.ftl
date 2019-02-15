@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+rights-title = Tietoa oikeuksistasi
 rights-intro = { -brand-full-name } on ilmainen, avoimen lähdekoodin ohjelmisto, jonka tekijäyhteisö koostuu tuhansista ympäri maailmaa asuvista ihmisistä. Seuraavat seikat on hyvä tietää:
 rights-intro-point-1 = { -brand-short-name } on annettu sinulle <a data-l10n-name="mozilla-public-license-link">Mozillan julkisen lisenssin (Mozilla Public License)</a> ehdoilla. Lisenssissä annetaan sinulle oikeus käyttää, kopioida ja levittää { -brand-short-name }ia. Sinulla on myös halutessasi oikeus muokata ja muuttaa { -brand-short-name }in lähdekoodia omien tarpeittesi mukaisesti. Mozillan julkinen lisenssi antaa sinulle myös oikeuden levittää näitä muokkaamiasi versioita.
 rights-intro-point-2 = Sinulle ei anneta minkään muotoisia tavaramerkki- tai lisenssioikeuksia Mozilla-säätiön tai muun tahon tavaramerkkeihin, joihin lukeutuu Firefox-nimi ja -logo. Voit lukea tarkempia lisätietoja tavaramerkeistä <a data-l10n-name="mozilla-trademarks-link">täältä</a>.
@@ -14,6 +15,8 @@ rights-webservices-header = { -brand-full-name }in verkkopohjaiset tietopalvelut
 rights-webservices = { -brand-full-name }käyttää hyväkseen verkkopohjaisia tietopalveluita ("palveluita") joidenkin tämän { -brand-short-name }in binääriversion ominaisuuksien toteuttamiseen kuten alla ehdoissa määritellään. Jos et halua käyttää näitä palveluita tai alla määritellyt ehdot eivät ole hyväksyttäviä, voit poistaa omaisuuden tai palvelut käytöstä. Ohjeet, kuinka tämä tehdään löytyvät <a data-l10n-name="mozilla-disable-service-link">täältä</a>. Muut ominaisuudet ja palvelut voi poistaa päältä ohjelman asetuksista.
 rights-safebrowsing-term-1 = Avaa ohjelman asetukset
 rights-safebrowsing-term-2 = Valitse Turvallisuus-paneeli
+rights-safebrowsing-term-3 = Poista valinta kohdasta "{ enableSafeBrowsing-label }"
+enableSafeBrowsing-label = Estä vaarallinen ja petollinen sisältö
 rights-locationawarebrowsing = <strong>Sijaintitietoinen selaus: </strong>on aina valinnainen. Sijaintitietoja ei ikinä lähetetä ilman hyväksyntääsi. Jos haluat poistaa toiminnon kokonaan, tee seuraavasti:
 rights-locationawarebrowsing-term-1 = Kirjoita osoitepalkkiin <code>about:config</code>
 rights-locationawarebrowsing-term-2 = Kirjoita suodata-kenttään geo.enabled
