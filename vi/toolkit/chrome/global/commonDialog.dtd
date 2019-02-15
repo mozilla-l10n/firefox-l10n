@@ -7,7 +7,7 @@
 <!ENTITY editfield0.label "Tên đăng nhập:"> 
 <!ENTITY editfield1.label "Mật khẩu:"> 
 <!ENTITY checkbox.label   "chọn">
-<!ENTITY copyCmd.label    "Chép">
+<!ENTITY copyCmd.label    "Sao chép">
 <!ENTITY copyCmd.accesskey "C">
 <!ENTITY selectAllCmd.label "Chọn Toàn Bộ">
 <!ENTITY selectAllCmd.accesskey "B">

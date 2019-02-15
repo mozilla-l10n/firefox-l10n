@@ -25,7 +25,7 @@
 <!ENTITY filter2.label      "Bộ lọc (F):">
 <!ENTITY filter2.accesskey  "F">
 
-<!ENTITY copyCmd.label       "Chép">  
+<!ENTITY copyCmd.label       "Sao chép">  
 <!ENTITY copyCmd.accesskey   "C"> 
 <!ENTITY copyCmd.commandkey  "C"> 
 <!ENTITY sortFirst.label     "Sắp xếp Đầu > Cuối">

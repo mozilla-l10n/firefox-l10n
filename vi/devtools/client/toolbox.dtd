@@ -146,7 +146,7 @@
 
 <!-- LOCALIZATION NOTE (options.screenshot.clipboard.label): This is the
    - label for the checkbox that toggles screenshot to clipboard feature. -->
-<!ENTITY options.screenshot.clipboard.label      "Chép ảnh chụp màn hình vào clipboard">
+<!ENTITY options.screenshot.clipboard.label      "Sao chép ảnh chụp màn hình vào clipboard">
 <!ENTITY options.screenshot.clipboard.tooltip    "Lưu ảnh chụp màn hình trực tiếp vào clipboard">
 
 <!-- LOCALIZATION NOTE (options.screenshot.audio.label): This is the

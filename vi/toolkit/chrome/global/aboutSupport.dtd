@@ -114,8 +114,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.installationHistoryTitle "Lịch sử cài đặt">
 <!ENTITY aboutSupport.updateHistoryTitle "Lịch sử cập nhật">
 
-<!ENTITY aboutSupport.copyTextToClipboard.label "Chép văn bản vào bảng tạm">
-<!ENTITY aboutSupport.copyRawDataToClipboard.label "Chép dữ liệu thô vào bảng tạm">
+<!ENTITY aboutSupport.copyTextToClipboard.label "Sao chép văn bản vào clipboard">
+<!ENTITY aboutSupport.copyRawDataToClipboard.label "Sao chép dữ liệu thô vào clipboard">
 
 <!ENTITY aboutSupport.sandboxTitle "Hộp cát">
 <!ENTITY aboutSupport.sandboxSyscallLogTitle "System Call bị từ chối">
