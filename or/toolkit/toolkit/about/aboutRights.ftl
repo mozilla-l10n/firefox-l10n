@@ -1,0 +1,27 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+rights-intro = { -brand-full-name } ଟି ମାଗଣା ଏବଂ  ମୁକ୍ତ ଉତ୍ସ ସଫ୍ଟୱେର ଅଟେ, ସମଗ୍ର ବିଶ୍ୱର ହଜାର ହଜାର ସଦସ୍ୟଙ୍କୁ ନେଇ ଗଠିତ ସମ୍ପ୍ରଦାୟ ଦ୍ୱାରା ନିର୍ମିତ। ଆପଣଙ୍କ ଜାଣିବା ପାଇଁ ଥିବା କିଛି ବିଷୟବସ୍ତୁ:
+rights-intro-point-1 = { -brand-short-name } ଟି Mozilla ସର୍ବସାଧାରଣ ଅନୁମତିପତ୍ର ନିତୀ ଅନ୍ତର୍ଗତରେ ଆପଣଙ୍କ ପାଇଁ<a data-l10n-name="mozilla-public-license-link">ଉପଲବ୍ଧ ହୋଇଥାଏ</a>। ଏହା ଅର୍ଥ ଆପଣ  { -brand-short-name } କୁ ଅନ୍ୟମାନଙ୍କ ପାଇଁ ବ୍ୟବହାର କରିପାରିବେ, ନକଲ କରିପାରିବେ ଏବଂ ବଣ୍ଟନ କରିପାରିବେ। ଆପଣ { -brand-short-name } ର ଉତ୍ସ ସଂକେତକୁ ମଧ୍ଯ ଆପଣଙ୍କ ଆବଶ୍ୟକତା ଅନୁସାରେ ପରିବର୍ତ୍ତନ କରିପାରିବେ। Mozilla ସର୍ବସାଧାରଣ ଅନୁମତିପତ୍ର ଆପଣଙ୍କୁ ନିଜର ପରିବର୍ତ୍ତିତ ସଂସ୍କରଣକୁ ବଣ୍ଟନ କରିବାର ଅଧିକାର ମଧ୍ଯ ପ୍ରଦାନ କରିଥାଏ।
+rights-intro-point-3 = { " " }{ -brand-short-name } ରେ ଥିବା କିଛି ବିଶେଷଗୁଣ, ଯେପରିକି ନଷ୍ଟ ବିବରଣୀ, ଆପଣଙ୍କୁ { -vendor-short-name } କୁ ମତାମତ ଦେବା ପାଇଁ ବିକଳ୍ପ ପ୍ରଦାନ କରିଥାଏ। ମତାମତ ଦାଖଲ କରିବା ପାଇଁ ବାଛିବା ଦ୍ୱାରା, ଆପଣ { -vendor-short-name } କୁ ଏହାର ଉତ୍ପାଦନ ବୃଦ୍ଧିକରିବା ପାଇଁ ମତାମତକୁ ବ୍ୟବହାର କରିବା ପାଇଁ, ଏହାର ୱେବସାଇଟରେ ମତାମତକୁ ପ୍ରକାଶ କରିବା ପାଇଁ, ଏବଂ ମତାମତକୁ ବଣ୍ଟନ କରିବା ପାଇଁ  ଅନୁମତି ଦେଇଥାନ୍ତି।
+rights-intro-point-4-unbranded = ଏହି ଉତ୍ପାଦ ପାଇଁ କୌଣସି ଉପଯୁକ୍ତ ଗୋପନୀୟ ନିତି ଏଠାରେ ତାଲିକାଭୁକ୍ତ ହେବା ଉଚିତ।
+rights-intro-point-5-unbranded = ଯଦି ଏହି ଉତ୍ପାଦ ୱେବ ସର୍ଭିସଗୁଡ଼ିକୁ ଚଲାଉଥାଏ, ତେବେ ସର୍ଭିସଗୁଡ଼ିକ ପାଇଁ ଯେକୌଣସି ଯୋଗ୍ୟ ସର୍ଭିସ ନିୟମାବଳୀକୁ <a data-l10n-name="mozilla-website-services-link">ୱେବ ସାଇଟ ସର୍ଭିସ ବିଭାଗ ସହିତ </a> ସଂଯୁକ୍ତ କରାଯାଇଥାଏ।
+rights-webservices-header = { -brand-full-name } ୱେବ ସାଇଟ ସର୍ଭିସଗୁଡ଼ିକ
+rights-safebrowsing = <strong>ସୁରକ୍ଷିତ ବ୍ରାଉଜିଙ୍ଗ: </strong>ସୁରକ୍ଷିତ ବ୍ରାଉଜିଙ୍ଗ ବିଶେଷତାକୁ ନିଷ୍କ୍ରିୟ କରିବା ଫଳରେଏହା ଅସୁରକ୍ଷିତ ସାଇଟକୁ ଯାଇପାରେ। ଯଦି ଆପଣ ଏହି ବିଶେଷତାକୁ ସମ୍ପୂର୍ଣ୍ଣ ଭାବରେ  ନିଷ୍କ୍ରିୟ କରିବା ପାଇଁ ଚାହୁଁଛନ୍ତି, ତେବେ ନିମ୍ନଲିଖିତ ପଦକ୍ଷେପଗୁଡ଼ିକୁ ଅନୁସରଣ କରନ୍ତୁ:
+rights-safebrowsing-term-1 = ପ୍ରୟୋଗ ପସନ୍ଦଗୁଡ଼ିକୁ ଖୋଲନ୍ତୁ
+rights-safebrowsing-term-2 = ସୁରକ୍ଷା ଚୟନକୁ ବାଛନ୍ତୁ
+rights-safebrowsing-term-4 = ସୁରକ୍ଷିତ ବ୍ରାଉଜିଙ୍ଗକୁ ବର୍ତ୍ତମାନ ନିଷ୍କ୍ରିୟ କରାଯାଇଛି
+rights-locationawarebrowsing = <strong>ଅବସ୍ଥାନ ସଚେତନ ବ୍ରାଉଜିଙ୍ଗକୁ: </strong>ସର୍ବଦା ଗ୍ରହଣ କରାଯାଇଥାଏ।  କୌଣସି ଅବସ୍ଥାନ ସୂଚନାକୁ ଆପଣଙ୍କ ବିନା ଅନୁମତିରେ ପଠାଯାଇନାହିଁ।  ଯଦି ଆପଣ ଏହି ବିଶେଷତାକୁ ସମ୍ପୂର୍ଣ୍ଣ ଭାବରେ ନିଷ୍କ୍ରିୟ କରିବାକୁ ଇଚ୍ଛାକରନ୍ତି, ତେବେ ନିମ୍ନଲିଖିତ ପଦକ୍ଷେପଗୁଡ଼ିକୁ ଅନୁସରଣ କରନ୍ତୁ:
+rights-locationawarebrowsing-term-1 = URL ପଟିରେ, ଲେଖନ୍ତୁ <code>ବିଷୟ:ସଂରଚନା</code>
+rights-locationawarebrowsing-term-2 = { " " }geo.enabled ଲେଖନ୍ତୁ
+rights-locationawarebrowsing-term-3 = geo.enabled ପସନ୍ଦ ଉପରେ ଦୁଇଥର କ୍ଲିକ କରନ୍ତୁ
+rights-locationawarebrowsing-term-4 = ଅବସ୍ଥାନ ସଚେତନ ବ୍ରାଉଜିଙ୍ଗକୁ ବର୍ତ୍ତମାନ ନିଷ୍କ୍ରିୟ କରାଯାଇଛି
+rights-webservices-term-unbranded = ଏହି ଉତ୍ପାଦ ପାଇଁ ଯେ କୌଣସି ଉପଯୁକ୍ତ ସର୍ଭିସ ନିୟମାବଳୀକୁ ଏଠାରେ ତାଲିକାଭୁକ୍ତ କରିବା ଉଚିତ।
+rights-webservices-term-1 = { -vendor-short-name } ଏବଂ ଏହାର ସହଯୋଗୀ, ପ୍ରମାଣପତ୍ରଧାରୀ ଏବଂ ଭାଗିଦାରମାନେ ସଠିକ  ଏବଂ ସମ୍ପୂର୍ଣ୍ଣ ଫିସିଙ୍ଗ ଏବଂ ମାଲୱେର ସୂଚନା ପ୍ରଦାନ କରିବା ପାଇଁ କାର୍ଯ୍ୟ କରିଥାନ୍ତି। ତଥାପି, ସେମାନେ ଏହି ସୂଚନାଟି ବୋଧଗମ୍ୟ ଏବଂ ତ୍ରୁଟିମୁକ୍ତ ବୋଲି ନିର୍ଭରୋକ୍ତି ଦେଇପାରିବେ ନାହିଁ: କିଛି ବିପଦପୂର୍ଣ୍ଣ ସାଇଟଗୁଡ଼ିକୁ ଜାଣିହୁଏ ନାହିଁଏବଂ କିଛି ସୁରକ୍ଷିତ ସାଇଟ ତ୍ରୁଟିଯୁକ୍ତ ବୋଲି ଚିହ୍ନାପଡ଼ିଥାଏ।
+rights-webservices-term-2 = { -vendor-short-name } ବିଚ୍ଚିନ୍ନ ହୋଇପାରେ କିମ୍ବା ଏହାର  ବୃଦ୍ଧିରେ ସର୍ଭିସଗୁଡ଼ିକୁ ପରିବର୍ତ୍ତନ କରିଥାଏ।
+rights-webservices-term-3 = { -brand-short-name }ର ପ୍ରଚଳିତ ସଂସ୍କରଣ ସହିତ ଏହି ସର୍ଭିସଗୁଡ଼ିକୁ ବ୍ୟବହାର କରିବା ପାଇଁ ଆପଣଙ୍କୁ ସ୍ୱାଗତ କରୁଅଛୁ, ଏବଂ ଏହା କରିବା ପାଇଁ ଆପଣଙ୍କୁ ଆବଶ୍ୟକୀୟ ଅଧିକାର ପ୍ରଦାନ କରାଯାଇଛି।  { -vendor-short-name } ଏବଂ ଏହାର ଅନୁମତିପତ୍ର ପ୍ରଦାନକାରୀ ସେହି ସର୍ଭିସଗୁଡ଼ିକରେ ସମସ୍ତ ଅଧିକାରକୁ ସଂରକ୍ଷଣ କରିଥାଏ।  { -brand-short-name } ଏବଂ { -brand-short-name } ଅନୁରୂପ ଉତ୍ସ ସଂକେତ ସଂସ୍କରଣ ପାଇଁ ଏହି ବସ୍ତୁଗୁଡ଼ିକୁ ମୁକ୍ତ ଉତ୍ସ ଅନୁମତି ପତ୍ରରୁ ମିଳିଥିବା କୌଣସି ଅଧିକାରକୁ ସୀମାବଦ୍ଧ କରିବାକୁ ଲକ୍ଷ୍ଯ କରାଯାଇନଥିଲା।
+rights-webservices-term-4 = <strong>ଏହି ସର୍ଭିସଗୁଡ଼ିକ "  { -vendor-short-name }ପରି "ପ୍ରଦାନ କରିଥାଏ,ଏହାର ସହଯୋଗୀ, ପ୍ରମାଣପତ୍ର ଦାତା, ବଣ୍ଟନକାରୀମାନେ ସମସ୍ତ ନିର୍ଭରୋକ୍ତିକୁ ଅସ୍ୱୀକାର କରିଥାନ୍ତି, ଅଭିବ୍ୟକ୍ତ କରାଯାଇଥିଲେ ଅଥବା ପ୍ରୟୋଗ କରାଯାଇଥିଲେ, ସମସ୍ତ ବାରଣ, ନିର୍ଭରୋକ୍ତିକୁ ଅନ୍ତର୍ଭୁକ୍ତ କରି, ଯାହାକି ସେହି ସର୍ଭିସଗୁଡ଼ିକୁ ବାଣିଜ୍ୟ ଉପଯୋଗୀ କରିଥାଏ ଏବଂ ଆପଣଙ୍କର ନିର୍ଦ୍ଦିଷ୍ଟ ଉଦ୍ଦେଶ୍ୟ ପାଇଁ ଉପଯୁକ୍ତ ହୋଇଥାଏ। ଆପଣ ଏହାର ସମଗ୍ର ବିପଦକୁ ଧାରଣ କରିବେ ଯେପରିକି ଆପଣଙ୍କ ଉଦ୍ଦେଶ୍ୟ ପାଇଁ ସର୍ଭିସ ଏବଂ ଗୁଣ ଏବଂ କାର୍ଯ୍ୟକ୍ଷମତା ଚୟନ କରିବେ। କିଛି କ୍ଷେତ୍ରରେ ଏହି ନିର୍ଭେରୋକ୍ତି ଏବଂ ବାରଣକୁ ତ୍ୟାଗ କରିଥାଏ, ଯାହାଫଳରେ ଏହା ଆପଣଙ୍କ ପାଇଁ ପ୍ରୟୋଗ ହୋଇନଥାଏ।</strong>
+rights-webservices-term-5 = <strong>ନିୟମରେ ଆବଶ୍ୟକତା ବ୍ୟତୀତ, { -vendor-short-name }, ଏହାର ସହଯୋଗୀ, ଅନୁମତି ଧାରଣକର୍ତ୍ତା, ଏବଂ ବଣ୍ଟନକାରୀମାନେ କୋଣସି ଅପ୍ରତ୍ୟକ୍ଷ,ବିଶେଷ, ଘଟଣାକ୍ରମିକ, ଫଳସ୍ୱରୂପ, ଦଣ୍ଡାତ୍ମକ, କିମ୍ବା ଘଟିତ କୌଣସି ଅନୁକରଣୀୟ କ୍ଷତି କିମ୍ବା ଯେକୌଣସି ଉପାୟରେ { -brand-short-name }ର ବ୍ୟବହାର  ଏବଂ ତାହାର ସର୍ଭିସ ସହିତ ସମ୍ପୃକ୍ତ।  ଏହି ନିତୀ ଅନ୍ତର୍ଗତରେ ସମୁଦାୟ କ୍ଷତି $500 (ପାଞ୍ଚ ଶହ ଡଲର)କୁ ଅତିକ୍ରମ କରୁନଥିବ। କିଛି କ୍ଷେତ୍ରରେ ଏହାକୁ ଅଥବା କିଛି ନିର୍ଦ୍ଦିଷ୍ଟ କ୍ଷତିକୁ ମାନ୍ୟତା ଦେଇନଥାଏ, ତେଣୁ ଏହି ବହିର୍ଗତ ଏବଂ ସୀମା ଆପଣଙ୍କ କ୍ଷେତରେ ଲାଗୁ ହୋଇନପାରେ।</strong>
+rights-webservices-term-6 = { -vendor-short-name } may update these terms as necessary from time to time. These terms may not be modified or canceled without { -vendor-short-name }'s written agreement.
+rights-webservices-term-7 = These terms are governed by the laws of the state of California, U.S.A., excluding its conflict of law provisions. If any portion of these terms is held to be invalid or unenforceable, the remaining portions will remain in full force and effect. In the event of a conflict between a translated version of these terms and the English language version, the English language version shall control.
