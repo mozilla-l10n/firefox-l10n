@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+rights-title = Hüquqlarınız Haqqında
 rights-intro = { -brand-full-name }, dünya səviyyəsində minlərlə insandan ibarət bir birlik tərəfindən inkişaf etdirilən azad və açıq qaynaqlı bir proqramdır. Bilməli olduğunuz bir neçə şey var:
 rights-intro-point-1 = { -brand-short-name } <a data-l10n-name="mozilla-public-license-link">Mozilla İctimai Lisenziyası</a> ilə yayımlanmaqdadır. Yəni { -brand-short-name } sərbəst şəkildə istifadə oluna bilər, köçürülə bilər və parçalana bilər. Və ehtiyaclarınıza görə { -brand-short-name } qaynaq kodlarını da dəyişdirə bilərsiniz. Mozilla İctimai Lisenziyası, dəyişdirdiyiniz versiyaları yaymaq haqqını da sizə verir.
 rights-intro-point-2 = Mozilla Fondu və ya başqa tərəfin hər hansı bir əmtəə nişanı və ya lisenziyası, Firefox adı və loqosu da daxil olmaqla, üzərində heç bir haqqınız yoxdur. Əmtəə nişanları ilə əlaqəli ətraflı məlumat <a data-l10n-name="mozilla-trademarks-link">buradan baxa bilərsiniz</a>açıqlanmışdır.
@@ -19,11 +20,13 @@ rights-safebrowsing-term-2 = Təhlükəsizlik bölməsini seçin
 rights-safebrowsing-term-3 = "{ enableSafeBrowsing-label }" aktivləşdirmək üçün seçimi qaldır
 enableSafeBrowsing-label = Təhlükəli və aldadıcı məzmunu blokla
 rights-safebrowsing-term-4 = Təhlükəsiz baxış artıq söndürülüb
+rights-locationawarebrowsing = <strong>Vəziyyətə həssas baxış: </strong>həmişə sizin istəyinizlə işləyər.  İcazəniz olmadan heç vaxt mövqe məlumatlarınız göndərilməyib.  Əgər funksiyanı tamamən söndürmək istəyirsinizsə bu addımları təkrarlayın:
 rights-locationawarebrowsing-term-1 = Ünvan sətirinə bunu yazın: URL <code>about:config</code>
 rights-locationawarebrowsing-term-2 = geo.enabled yazın
 rights-locationawarebrowsing-term-3 = geo.enabled seçiminə iki dəfə tıklayın
 rights-locationawarebrowsing-term-4 = Vəziyyətə həssas baxış artıq söndürülüb
 rights-webservices-unbranded = Məhsuluna daxil olan web sayt xidmətlərinə ümumi baxış və varsa söndürülmə təlimatları buraya əlavə edilməlidir.
+rights-webservices-term-unbranded = Bu məhsulla bağlı bütün xidmət şərtləri burada yazılmalıdır.
 rights-webservices-term-1 = { -vendor-short-name } və ona kömək edənlər, lisenziya sahibləri və iş ortaqları ən əksiksiz və aktual Xidmətləri təqdim etmək üçün birlikdə işləməkdədir. Buna baxmayaraq bu məlumatların hərtərəfli və xətasız olduğuna zəmanət verə bilmərik. Məsələn: Təhlükəsiz Baxış xidməti bəzi risqli saytları tanımaya bilər və bəzi təhlükəsiz saytları yanlış tanıya bilər. Vəziyyətə həssas Xidmət də xidmət təminatçılarımız tərəfindən göstərilən bütün vəziyyətlər sadəcə ehtimaldır və nə biz nə də xitmət təminatçılarımız bu vəziyyətlərin doğruluğuna zəmanət vermirik.
 rights-webservices-term-2 = { -vendor-short-name } öz istəyi ilə Xidmətləri dayandıra və ya dəyişdirə bilər.
 rights-webservices-term-3 = Bu xidmətləri uyğun { -brand-short-name } istifadə etməkdə sərbəstsiniz və  { -vendor-short-name } sizə bu haqları verir. { -vendor-short-name } və lisenziya sahibləri üzərindəki digər bütün haqlara sahibdir.  Bu şərtlər { -brand-short-name } və əlaqəli { -brand-short-name } qaynaq kodu versiyalarında etibarlı olan açıq qaynaq lisenziya haqlarınızı heç bir şəkildə məhdudlaşdırmır.
