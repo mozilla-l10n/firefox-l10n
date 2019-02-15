@@ -230,6 +230,7 @@ manage-extensions-shortcuts =
     .accesskey = ღ
 shortcuts-empty-message = ამ გაფართოებისთვის სწრაფი ღილაკები არაა.
 shortcuts-no-addons = არცერთი გაფართოება არ გაქვთ ჩართული.
+shortcuts-no-commands = სწრაფი ღილაკები არ აქვს შემდეგ გაფართოებებს:
 shortcuts-input =
     .placeholder = სწრაფი ღილაკის აკრეფა
 shortcuts-browserAction = გაფართოების ამოქმედება
@@ -247,3 +248,11 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = ნაკლების ჩვენება
 go-back-button =
     .tooltiptext = უკან გადასვლა
+
+## Add-on actions
+
+remove-addon-button = მოცილება
+disable-addon-button = ამორთვა
+enable-addon-button = ჩართვა
+addons-enabled-heading = ჩართულია
+addons-disabled-heading = ამორთულია
