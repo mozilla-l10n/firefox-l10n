@@ -7,7 +7,7 @@
 back = უკან
 forward = წინ
 reload = განახლება
-home = მთავარი
+home = საწყისი გვერდი
 fullscreen = სრული ეკრანი
 find = ძიება
 new-tab = ახალი ჩანართი
