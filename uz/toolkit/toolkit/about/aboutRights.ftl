@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+rights-title = Huqularingiz haqida
 rights-intro = { -brand-full-name } butun dunyo boʻyicha minglab jamoalar hissasini qoʻshib, tuzilgan erkin va ochiq kodli dasturiy ta`minot. Bu yerda bilishingiz kerak boʻlgan ba`zi narsalar bor:
 rights-intro-point-1 = { -brand-short-name } <a data-l10n-name="mozilla-public-license-link">"Mozilla Public License" (Mozilla ochiq litsenziyasi) shartlari boʻyicha mavjud.</a>. Bu degani siz { -brand-short-name }dan foydalanishingiz, nusxa koʻchirishingiz va boshqalarga tarqatishingiz mumkin. Shuningdek, kerak boʻlsa { -brand-short-name }ning kodlarini oʻzgartirishingiz ham mumkin. "The Mozilla Public License" (Mozilla ochiq litsenziyasi) sizga kodlari oʻzgartiriglan versiyalarini tarqatish huquqini ham beradi.
 rights-intro-point-2 = Mozilla jamiyati tomonidan birorta ham savdo belgisi litsenziyalari yoki huquqlar bilan kafolat berilmaydi  yoki Firefox nomi yoki belgisi cheklovi qoʻshilgan birorta tarafga ham kafolat bermaydi. Savdo boʻyicha qoʻshimcha ma`lumotlarni <a data-l10n-name="mozilla-trademarks-link">bu yerdan topishingiz mumkin</a>.
@@ -10,11 +11,14 @@ rights-intro-point-4 = { -vendor-short-name }ga { -brand-short-name } orqali jo�
 rights-intro-point-4-unbranded = Ushbu mahsulot uchun har qanday xavfsizlik nazoratini qoʻllash bu yerdagi roʻyxatda keltirilgan boʻlishi kerak.
 rights-intro-point-5 = Ba`zi { -brand-short-name } xossalari internetga asoslangan ma`lumot xizmatlaridan foydalanadi, shunday ekan, biz ularning 100% xatolardan holi ekanligiga kafolat bera olmaymiz. Ushbu xizmatlardan foydalanish xossasini oʻchirib qoʻyish haqidagi va boshqa koʻplab ma`lumotlarni <a data-l10n-name="mozilla-service-terms-link">xizmat shartlaridan olishingiz mumkin</a>.
 rights-intro-point-5-unbranded = Agar ushbu mahsulot veb xizmatlar bilan bogʻliq boʻlsa, ushbu xizmat(lar) uchun har qanday qabul qilinadigan shartlar <a data-l10n-name="mozilla-website-services-link">Veb sayt xizmatlari</a> boʻlimida keltirilgan boʻlishi kerak.
+rights-intro-point-6 = Aniq bir turdagi video fayllarni ijro etish uchun { -brand-short-name } uchinchi tomondan kerakli kontent ta’rifi modullarini yuklab oladi.
 rights-webservices-header = { -brand-full-name } internetga asoslangan ma`lumot berish xizmatlari
 rights-webservices = { -brand-full-name } internetga asoslangan ma`lumot xizmatlari ("Xizmatlar")dan { -brand-short-name }ning quyida keltirilgan shartlar ostidagi ushbu ikkilik versiyasidan foydalanishda ba`zi xususiyatlarini ta`minlash uchun foydalanadi.Agar "Xizmatlar"dan biri yoki bir nechtasidan foydalanishni xohlamasangiz yoki pastdagi shartlarni qoʻllab boʻlmasa, xususiyatlar yoki "Xizmatlar"ni oʻchirib qoʻyishingiz mumkin. Ba`zi xususiyatlarni yoki "Xizmatlar"ni qanday qilib oʻchirish boʻyicha koʻrsatmani  <a data-l10n-name="mozilla-disable-service-link">bu yerdan topishingiz mumkin</a>. Boshqa xususiyatlar va "Xizmatlar"ni ilova dasturlar moslamalaridan oʻchirib qoʻyish mumkin.
 rights-safebrowsing = <strong>SafeBrowsing: </strong>"Xavfsiz koʻrish" xususiyatini oʻchirib qoʻyish tavsiya qilinmaydi, chunki siz xavfli saytlarga kirib qolishingiz mumkin.  Agar siz ushbu xususiyatni butunlay, oʻchirmoqchi boʻlsangiz quyidagi bosqichlardan oʻtishingiz kerak:
 rights-safebrowsing-term-1 = Ilova dastur moslamalarini oching
 rights-safebrowsing-term-2 = "Xavfsizlikni tanlash"ni tanlang
+rights-safebrowsing-term-3 = "{ enableSafeBrowsing-label }"dan belgini olib tashlang
+enableSafeBrowsing-label = Xavfli va yolg‘on saytlarni bloklash
 rights-safebrowsing-term-4 = "Xavfsiz koʻrish" - hozir oʻchirib qoʻyilgan
 rights-locationawarebrowsing = <strong>Manzilni bilib internetni koʻrish:</strong>- doimiy tanlov. Manzil ma`lumotlari ruxsatingizsiz umuman joʻnatilmaydi. Agar ushbu xususiyatni butunlay oʻchirib qoʻymoqchi boʻlsangiz, quyidagi bosqichlardan oʻtishingiz kerak:
 rights-locationawarebrowsing-term-1 = URL paneliga yozing <code>about:config</code>
