@@ -17,6 +17,7 @@ rights-safebrowsing = <strong>రక్షితబ్రౌజింగ్: </s
 rights-safebrowsing-term-1 = అనువర్తనము అభీష్టాలను తెరువు
 rights-safebrowsing-term-2 = రక్షమ యెంపికను యెంపికచేయుము
 rights-safebrowsing-term-3 = "{ enableSafeBrowsing-label }" కి ఎంపిక గుర్తుచేయవద్దు
+enableSafeBrowsing-label = ప్రమాదకరమైన, మోసపూరిత కంటెంటును నిరోధించు
 rights-safebrowsing-term-4 = రక్షణ బ్రౌజింగ్ యిప్పుడు అచేతనము చేయబడింది
 rights-locationawarebrowsing = <strong>స్థానము తెలిసిన బ్రౌజింగ్: </strong>మీ అనుమతి లేకుండా ఎప్పుడూ కూడా స్థానము సమాచారము పంపబడదు. ఈ సౌలభ్యమును మీరు పూర్తిగా అచేతనము చేయవలెనంటే, ఈ కింది అంచెలను అనుసరించు:
 rights-locationawarebrowsing-term-1 = URL పట్టీనందు, యిది టైపు చేయుము <code>about:config</code>
