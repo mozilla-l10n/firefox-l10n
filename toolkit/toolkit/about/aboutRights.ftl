@@ -5,6 +5,7 @@
 rights-intro = { -brand-full-name } نرم‌افزاری آزاد و بازمتن است که توسط اجتماعی از هزاران نفر از سراسر جهان ساخته شده است.  چند چیز را باید بدانید:
 rights-intro-point-1 = { -brand-short-name } تحت شرایط <a data-l10n-name="mozilla-public-license-link">مجوز عمومی موزیلا</a> در اختیار شما قرار گرفته است. این بدان معنی است که شما می‌توانید از { -brand-short-name } استفاده کنید، از آن نسخه‌برداری کنید و آن را در اختیار دیگران قرار دهید.   همچنین شما می‌توانید کد منبع { -brand-short-name } را برای برآورده شدن نیازهای خود تغییر دهید.  مجوز عمومی موزیلا همچنین به شما حق پخش نسخهٔ تغییر یافتهٔ خود را می‌دهد.
 rights-intro-point-4 = روش استفادهٔ ما از اطلاعات ارسالی و نیز اطلاعات شخصی شما که از طریق { -brand-short-name } به { -vendor-short-name } ارسال شده است در <a data-l10n-name="mozilla-privacy-policy-link">سیاست حفظ حریم خصوصی { -brand-short-name }</a> شرح داده شده است.
+rights-intro-point-4-unbranded = سیاست‌های محرمانگی مربوط به این محصول باید در این مکان ذکر شوند.
 rights-intro-point-5-unbranded = اگر این محصول شامل خدماتی مبتنی بر وب است، شرایط مربوط به این خدمات باید به قسمت <a data-l10n-name="mozilla-website-services-link">خدمات مبتنی بر وب</a> پیوند داده شوند.
 rights-webservices-header = خدمات اطلاعاتی مبتنی بر وب { -brand-full-name }
 rights-safebrowsing-term-1 = پنجرهٔ ترجیحات برنامه را باز کنید
