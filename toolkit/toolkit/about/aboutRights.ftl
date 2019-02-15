@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+rights-title = Informácie o vašich právach
 rights-intro = { -brand-full-name } je voľne šíriteľný otvorený softvér vytvorený spoločenstvom tisícov prispievateľov z celého sveta. Tu je niekoľko faktov, o ktorých by ste mali vedieť:
 rights-intro-point-1 = { -brand-short-name } je dostupný za podmienok licencie <a data-l10n-name="mozilla-public-license-link">Mozilla Public License</a>. To znamená, že { -brand-short-name } môžete používať, kopírovať a ďalej rozširovať. Takisto môžete upravovať zdrojový kód { -brand-short-name }u podľa vašich predstáv. Licencia Mozilla Public License umožňuje šírenie aj upravených verzií.
 rights-intro-point-2 = Nemáte žiadne právo na používanie ochranných známok alebo licencií k ochranným známkam Mozilla Foundation alebo inej strany, vrátane názvu Firefox a jeho logotypu. Ďalšie informácie o ochranných známkach získate <a data-l10n-name="mozilla-trademarks-link">na tejto stránke</a>.
@@ -16,12 +17,14 @@ rights-webservices = { -brand-full-name } využíva služby webových stránok (
 rights-safebrowsing = <strong>Služba SafeBrowsing: </strong>Vypnutie služby Safe Browsing sa neodporúča, pretože môže viesť k tomu, že sa dostanete na nebezpečné stránky. Ak si túto službu prajete vypnúť, postupujte nasledovne:
 rights-safebrowsing-term-1 = Otvorte okno nastavení aplikácie
 rights-safebrowsing-term-2 = Zvoľte panel Bezpečnosť
+rights-safebrowsing-term-3 = Zrušte zaškrtnutie možnosti "{ enableSafeBrowsing-label }"
 enableSafeBrowsing-label = Blokovať nebezpečný a podvodný obsah
 rights-safebrowsing-term-4 = Služba Safe Browsing je teraz vypnutá
 rights-locationawarebrowsing = <strong>Služba Prehliadanie s geolokáciou: </strong>Je vždy voliteľná. Bez vášho povolenia nie sú nikdy odoslané žiadne údaje. Ak chcete túto službu vypnúť, postupujte nasledovne:
 rights-locationawarebrowsing-term-1 = Do panela s adresou zadajte <code>about:config</code>
 rights-locationawarebrowsing-term-2 = Do filtra zadajte geo.enabled
 rights-locationawarebrowsing-term-3 = Dvakrát kliknite na voľbu geo.enabled
+rights-locationawarebrowsing-term-4 = Prehliadanie so zisťovaním polohy je vypnuté
 rights-webservices-unbranded = Tu by mal byť uvedený prehľad webových služieb zahrnutých v produkte, ako aj návod na ich vypnutie (ak je vypnutie možné).
 rights-webservices-term-unbranded = Tu by mali byť uvedené podmienky používania každej webovej služby pre tento produkt.
 rights-webservices-term-1 = { -vendor-short-name } a jej prispievatelia, poskytovatelia licencií a partneri pracujú na tom, aby poskytli čo najpresnejšie a najaktuálnejšie Služby. Napriek tomu nemôžu garantovať, že poskytované informácie sú komplexné a bez chýb. Napríklad, služba SafeBrowsing nemusí identifikovať niektoré rizikové stránky a môže omylom označiť niektoré bezpečné stránky ako podozrivé. Takisto výstupy služby určovania polohy sú len odhady a my ani poskytovatelia Služby negarantujeme presnosť poskytnutej polohy.
