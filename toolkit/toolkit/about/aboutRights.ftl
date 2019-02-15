@@ -15,6 +15,7 @@ rights-webservices = { -brand-full-name } utiliza los servicios de información 
 rights-safebrowsing = <strong>Navegación segura: </strong>Desactivar la función de navegación segura no se recomienda ya que puede resultar que vayas a sitios peligrosos. Si deseas desactivar la función por completo, sigue estos pasos:
 rights-safebrowsing-term-1 = Abre las preferencias de la aplicación
 rights-safebrowsing-term-2 = Selecciona la selección de seguridad
+rights-safebrowsing-term-3 = Desmarcar la opción para "{ enableSafeBrowsing-label }"
 enableSafeBrowsing-label = Bloquear contenido peligroso y engañoso
 rights-safebrowsing-term-4 = La navegación segura está desactivada
 rights-locationawarebrowsing = <strong>Ubicación consciente de navegación: </strong>siempre es opt-in. No hay información de ubicación y es siempre enviado tu permiso. Si deseas  desactivar la función por completo, sigue estos pasos:
