@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+rights-title = Derbarê mafên Te De
 rights-intro = { -brand-full-name } sepaneke belaş û çavkaniya wê vekirî ye, ji hêla bi hezaran kesên ji çarmedorên cîhanê ve hatiye çêkirinLi virê hin tiştên ku divê zanibî hene:
 rights-intro-point-1 = { -brand-short-name } jêr xalên vê lîsansê tê bikaranîn <a data-l10n-name="mozilla-public-license-link">Mozilla Public License de</a>. Ev tê vê wateyê ku dikarî { -brand-short-name }'ê kopî biî û belav bikî. Her wiha dikarî kodên { -brand-short-name }'ê li gorî pêdiviyên xwe biguherînî. Mozilla Public License her wiha destûra belavkirina guhertoya ku te li gorî pêdiviyên xwe çêkiriye, dide.
 rights-intro-point-2 = Tu mafê te li ser bikaranîna marka û lîsansa Fona Mozilalyê tuneyê, an jî li ser logoya Firefoxê tune ye. Ji bo zêdetir agahî <a data-l10n-name="mozilla-trademarks-link">li virê</a>.
