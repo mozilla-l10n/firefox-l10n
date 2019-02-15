@@ -17,6 +17,7 @@ rights-webservices = W tej wersji program { -brand-full-name } wykorzystuje niek
 rights-safebrowsing = <strong>Usługa „Bezpieczne przeglądanie”: </strong>Nie zaleca się wyłączania funkcji „Bezpieczne przeglądanie”, ponieważ wówczas podczas próby otworzenia niebezpiecznej witryny nie będzie emitowane stosowne ostrzeżenie. Aby wyłączyć tę funkcję całkowicie:
 rights-safebrowsing-term-1 = Otwórz opcje programu
 rights-safebrowsing-term-2 = Przejdź do panelu Bezpieczeństwo
+rights-safebrowsing-term-3 = Odznacz opcję „{ enableSafeBrowsing-label }”
 enableSafeBrowsing-label = Blokowanie niebezpiecznych i podejrzanych treści.
 rights-safebrowsing-term-4 = Funkcja „Bezpieczne przeglądanie” zostanie wówczas wyłączona
 rights-locationawarebrowsing = <strong>Udostępnianie witrynom położenia użytkownika: </strong>Ta funkcja przesyła dane tylko za zgodą użytkownika. Bez wyrażenia zgody żadne informacje geolokalizacyjne nie są przesyłane. Aby całkowicie wyłączyć tę funkcję:
