@@ -673,6 +673,7 @@ content-blocking-all-windows-trackers = Les traqueurs connus dans toutes les fen
 content-blocking-all-third-party-cookies = Tous les cookies tiers
 content-blocking-warning-title = Attention !
 content-blocking-warning-desc = Bloquer les cookies et les traqueurs peut empêcher certains sites de fonctionner. Vous pouvez facilement désactiver le blocage pour les sites en lesquels vous avez confiance.
+content-blocking-warning-description = Le blocage de contenu peut empêcher certains sites de fonctionner. Vous pouvez facilement désactiver le blocage pour les sites en lesquels vous avez confiance.
 content-blocking-learn-how = Découvrez comment
 content-blocking-trackers-label =
     .label = Traqueurs
