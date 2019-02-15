@@ -2,9 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+rights-intro-point-5 = Bəzi { -brand-short-name } funksiyaları veb əsaslı məlumat xidmətlərindən yararlanır, ancaq bunların 100% doğru və ya xətasız olduğuna zəmanət verə bilmərik. Daha ətraflı və həmçinin bu xidmətlərin necə söndürülməsi haqqında məlumatı buradan tapa bilərsiz:<a data-l10n-name="mozilla-service-terms-link">xidmət şərtləri</a>açıqlanmışdır.
 rights-intro-point-5-unbranded = Bu məhsul web xidmətləri ilə bağlantı qurursa, xidmət(lər) ilə bağlı bütün xidmət şərtləri <a data-l10n-name="mozilla-website-services-link">Web Sayt Xidmətləri</a> bölməsinə bağlanmalıdır.
 rights-webservices-header = { -brand-full-name } Web Əsaslı Məlumat Xidmətləri
 rights-safebrowsing = <strong>Təhlükəsiz baxış: </strong>Təhlükəsiz Baxış funsiyasını söndürməyiniz etibar edilməyən saytlara girməyinizlə nəticələnə biləcəyi üçün tövsiyyə edilmir. Bu funksiyanı tamam söndürmək istəyirsinizsə bu addımları təkrarlayın:
+rights-safebrowsing-term-1 = Proqram tərcehlərini aç
 rights-safebrowsing-term-2 = Təhlükəsizlik bölməsini seçin
 rights-safebrowsing-term-4 = Təhlükəsiz baxış artıq söndürülüb
 rights-locationawarebrowsing-term-2 = geo.enabled yazın
