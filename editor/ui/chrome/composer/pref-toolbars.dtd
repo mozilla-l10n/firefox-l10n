@@ -12,7 +12,7 @@
 <!ENTITY publish.label          "Xuất bản">
 <!ENTITY preview.label          "Duyệt">
 <!ENTITY cut.label              "Cắt">
-<!ENTITY copy.label             "Chép">
+<!ENTITY copy.label             "Sao chép">
 <!ENTITY paste.label            "Dán">
 <!ENTITY print.label            "In">
 <!ENTITY find.label             "Tìm">
@@ -37,4 +37,3 @@
 <!ENTITY absolutePosition.label "Vị trí tuyệt đối">
 <!ENTITY decreaseZIndex.label   "Đưa ra sau">
 <!ENTITY increaseZIndex.label   "Đưa ra trước">
-

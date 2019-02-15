@@ -105,8 +105,8 @@
 <!ENTITY redoDeleteMsgCmd.label "Làm lại Xóa Thư">
 <!ENTITY undoMoveMsgCmd.label "Hoàn tác Di chuyển Thư">
 <!ENTITY redoMoveMsgCmd.label "Làm lại Di chuyển Thư">
-<!ENTITY undoCopyMsgCmd.label "Hoàn tác Chép Thư">
-<!ENTITY redoCopyMsgCmd.label "Làm lại Chép Thư">
+<!ENTITY undoCopyMsgCmd.label "Hoàn tác sao chép thư">
+<!ENTITY redoCopyMsgCmd.label "Làm lại sao chép thư">
 <!ENTITY undoMarkAllCmd.label "Hoàn tác Đánh dấu Đã Đọc">
 <!ENTITY redoMarkAllCmd.label "Làm lại Đánh dấu Đã Đọc">
 <!ENTITY undoDefaultCmd.label "Hoàn tác">
@@ -340,9 +340,9 @@
 <!ENTITY moveMsgToMenu.accesskey "D">
 <!ENTITY moveCopyMsgRecentMenu.label "Gần đây">
 <!ENTITY moveCopyMsgRecentMenu.accesskey "G">
-<!ENTITY copyMessageLocation.label "Chép Địa Chỉ Thư">
+<!ENTITY copyMessageLocation.label "Sao chép địa chỉ thư">
 <!ENTITY copyMessageLocation.accesskey "p">
-<!ENTITY copyMsgToMenu.label "Chép Tới">
+<!ENTITY copyMsgToMenu.label "Sao chép tới">
 <!ENTITY copyMsgToMenu.accesskey "C">
 <!ENTITY moveToFolderAgain.label "Di chuyển Lại">
 <!ENTITY moveToFolderAgain.accesskey "n">
@@ -613,7 +613,7 @@
 <!ENTITY contextMoveMsgMenu.accesskey "D">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Gần đây">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "G">
-<!ENTITY contextCopyMsgMenu.label "Chép Tới">
+<!ENTITY contextCopyMsgMenu.label "Sao chép tới">
 <!ENTITY contextCopyMsgMenu.accesskey "C">
 <!-- LOCALIZATION NOTE (contextWatchThreadMenu.accesskey):
      In the en-US locale we ran out of access keys, so there is an empty access key for
@@ -720,11 +720,11 @@
 <!ENTITY SubscribeToNewsgroup.accesskey "N">
 <!ENTITY SendMessageTo.label "Soạn Thư Tới">
 <!ENTITY SendMessageTo.accesskey "S">
-<!ENTITY CopyEmailAddress.label "Chép Địa Chỉ Email">
+<!ENTITY CopyEmailAddress.label "Sao chép địa chỉ email">
 <!ENTITY CopyEmailAddress.accesskey "C">
-<!ENTITY CopyNewsgroupName.label "Sao Chép Tên Nhóm Tin">
+<!ENTITY CopyNewsgroupName.label "Sao chép tên nhóm tin">
 <!ENTITY CopyNewsgroupName.accesskey "C">
-<!ENTITY CopyNewsgroupURL.label "Sao Chép URL Nhóm Tin">
+<!ENTITY CopyNewsgroupURL.label "Sao chép URL nhóm tin">
 <!ENTITY CopyNewsgroupURL.accesskey "U">
 <!ENTITY CreateFilterFrom.label "Tạo Bộ Lọc Từ…">
 <!ENTITY CreateFilterFrom.accesskey "B">
@@ -740,11 +740,11 @@
 <!ENTITY saveLinkAsCmd.accesskey "K">
 <!ENTITY saveImageAsCmd.label "Lưu Ảnh dưới dạng…">
 <!ENTITY saveImageAsCmd.accesskey "L">
-<!ENTITY copyLinkCmd.label "Chép Địa Chỉ Liên Kết">
+<!ENTITY copyLinkCmd.label "Sao chép địa chỉ liên kết">
 <!ENTITY copyLinkCmd.accesskey "a">
-<!ENTITY copyImageAllCmd.label "Chép Ảnh">
+<!ENTITY copyImageAllCmd.label "Sao chép ảnh">
 <!ENTITY copyImageAllCmd.accesskey "p">
-<!ENTITY copyEmailCmd.label "Chép Địa Chỉ Email">
+<!ENTITY copyEmailCmd.label "Sao chép địa chỉ email">
 <!ENTITY copyEmailCmd.accesskey "E">
 <!ENTITY stopCmd.label "Dừng">
 <!ENTITY stopCmd.accesskey "D">

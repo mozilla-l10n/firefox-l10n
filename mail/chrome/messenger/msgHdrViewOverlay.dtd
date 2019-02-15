@@ -2,32 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY toField3.label "Tới ">
-<!ENTITY fromField3.label "Từ ">
-<!ENTITY senderField3.label "Người gửi ">
-<!ENTITY organizationField3.label "Tổ chức ">
-<!ENTITY replyToField3.label "Trả lời tới ">
 
-<!ENTITY subjectField3.label "Tiêu đề ">
-<!ENTITY ccField3.label "Cc ">
-<!ENTITY bccField3.label "Bcc ">
-<!ENTITY newsgroupsField3.label "Nhóm tin ">
-<!ENTITY followupToField3.label "Trả lời tin tại ">
-<!ENTITY tagsHdr3.label "Nhãn ">
-<!ENTITY dateField3.label "Ngày ">
-<!ENTITY userAgentField3.label "Chương trình ">
-<!ENTITY referencesField3.label "Tham khảo ">
-<!ENTITY messageIdField3.label "ID thư ">
-<!ENTITY inReplyToField3.label "Trả lời ">
-<!ENTITY originalWebsite3.label "Trang web ">
 
-<!ENTITY editMessageDescription.label "Đây là một thư nháp">
-<!ENTITY editMessageButton.label "Chỉnh sửa…">
 <!ENTITY hdrArchiveButton1.label "Lưu trữ">
 <!ENTITY hdrArchiveButton1.tooltip "Lưu trữ thư này">
 <!ENTITY hdrSmartReplyButton1.label "Trả lời Thông minh">
 <!ENTITY hdrReplyButton1.label "Trả lời">
-<!ENTITY hdrReplyButton1.tooltip "Trả lời thư này">
 <!ENTITY hdrReplyAllButton1.label "Trả lời Tất cả">
 <!ENTITY hdrReplyAllButton1.tooltip "Trả lời người gửi và tất cả người nhận">
 <!ENTITY hdrReplyListButton1.label "Trả lời Danh sách">
@@ -48,7 +28,6 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "Luôn hiện Trả lời tới Người gửi">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "r">
 
-<!ENTITY otherActionsButton1.label "Thao tác Khác">
 <!ENTITY otherActionsOpenConversation1.label "Mở trong Hội thoại">
 <!ENTITY otherActionsOpenConversation1.accesskey "M">
 <!ENTITY otherActionsOpenInNewWindow1.label "Mở trong Cửa Sổ Mới">
@@ -65,6 +44,8 @@
 <!ENTITY viewSourceMenuItem1.accesskey "N">
 <!ENTITY otherActionsPrint1.label "In…">
 <!ENTITY otherActionsPrint1.accesskey "I">
+
+<!-- Attachment bar context menu items -->
 
 <!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label    "Mở">
@@ -92,10 +73,9 @@
 <!ENTITY saveAllAttachmentsButton1.label   "Lưu Tất Cả">
 <!ENTITY saveAllAttachmentsButton1.tooltip "Lưu tất cả tập tin đính kèm">
 
-<!ENTITY copyLinkCmd.label        "Chép Địa Chỉ Liên Kết">
+<!ENTITY copyLinkCmd.label        "Sao chép địa chỉ liên kết">
 <!ENTITY copyLinkCmd.accesskey    "a">
 
-<!ENTITY CopyMessageId.label "Chép ID Thư">
+<!ENTITY CopyMessageId.label "Sao chép ID thư">
 <!ENTITY OpenMessageForMsgId.label "Mở Thư Để Đọc ID">
 <!ENTITY OpenBrowserWithMsgId.label "Mở Trình Duyệt Với ID Thư">
-
