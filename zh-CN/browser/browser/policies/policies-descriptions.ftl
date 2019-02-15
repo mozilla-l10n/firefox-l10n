@@ -50,6 +50,7 @@ policy-EnableTrackingProtection = 启用或禁用内容拦截，并可选择锁�
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
 policy-Extensions = 安装，移除或锁定扩展。安装选项可将网址或路径作为参数。移除和锁定选项则需要扩展 ID 作为参数。
+policy-ExtensionUpdate = 启用或禁用扩展自动更新。
 policy-FlashPlugin = 允许或拒绝使用 Flash 插件。
 policy-HardwareAcceleration = 若为 false，将会关闭硬件加速。
 # “lock” means that the user won’t be able to change this setting
