@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+rights-title = Kuhusu Haki Zako
 rights-intro = { -brand-full-name } ni ya bure na ni programu iliyofunguliwa, imeundwa na jamii ya maelfu kutoka kote ulimwenguni. Kuna mambo machache unayofaa kujua:
 rights-intro-point-1 = { -brand-short-name } imefanywa kupatikana kwako chini ya masharti ya <a data-l10n-name="mozilla-public-license-link">Leseni ya Umma ya Mozilla</a>. Hii ni kumaanisha unaweza kutumia, kunakili na kusambaza { -brand-short-name } kwa wengine.  Unakaribishwa kufanya mabadiliko kodi ya chanzo cha { -brand-short-name } kama unavyotaka ili kukidhi mahitaji yako. Leseni ya Umma ya Mozilla pia inakupa haki ya kusambaza matoleo yako yaliyobadilshwa.
 rights-intro-point-2 = Hujapatiwa haki zozote za alama ya biashara au leseni kwa alama za biashara za Taasisi ya Mozilla au chama chochote, ikijumuisha uzuizi wa jina au nembo za Firefox. Maelezo ya ziada kuhusu alama za biashara yanaweza kupatikana <a data-l10n-name="mozilla-trademarks-link">hapa</a>.
