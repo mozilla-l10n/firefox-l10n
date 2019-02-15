@@ -65,4 +65,5 @@ policy-SearchEngines = Configura le impostazioni relative ai motori di ricerca. 
 policy-SecurityDevices = Installa moduli PKCS #11.
 policy-SSLVersionMax = Imposta la versione massima di SSL.
 policy-SSLVersionMin = Imposta la versione minima di SSL.
+policy-SupportMenu = Aggiungi una voce di menu personalizzata nel menu Aiuto.
 policy-WebsiteFilter = Impedisci l’accesso a determinati siti web. Consulta la documentazione per ulteriori dettagli sul formato da utilizzare.
