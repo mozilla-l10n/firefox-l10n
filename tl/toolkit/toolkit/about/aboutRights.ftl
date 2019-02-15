@@ -4,6 +4,7 @@
 
 rights-intro-point-2 = Ikaw ay hindi nabigyan ng anumang mga karapatan sa trademark o lisensya sa trademark ng Mozilla Foundation o anumang partido, kasama ang walang limitasyon ang Firefox pangalan o logo. Maaaring matagpuan ang karagdagang impormasyon sa mga trademark<a data-l10n-name="mozilla-trademarks-link">dito</a>.
 rights-intro-point-3 = Ang iilang features sa { -brand-short-name }, kabilang na ang Crash Reporter, ay humihingi ng pahintulot bago magbigay ng feedback sa { -vendor-short-name }. Kung pumayag kayo magbigay ng feedback, pinapahintulutan din ninyo ang { -vendor-short-name } na gamitin ang feedback upang mapabuti ang mga produkto nito, i-publish ang feedback sa mga website nito, at ipamahagi ang feedback.
+enableSafeBrowsing-label = I-block ang mga content na delikado at nakakahinala
 rights-safebrowsing-term-4 = Disabled ang Safe Browsing
 rights-locationawarebrowsing-term-1 = Sa URL bar, mag-type <code>about:config</code>
 rights-locationawarebrowsing-term-2 = Mag-type geo.enabled
