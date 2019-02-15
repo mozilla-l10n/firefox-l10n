@@ -50,6 +50,7 @@ policy-EnableTrackingProtection = Titzij o tichup ri Kiq'atik Rupam chuqa' ticha
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
 policy-Extensions = Tiyak, tiyuj o keq'at taq k'amal. Ri rucha'ik Tiyak yeruchäp URLs taq ochochib'äl o taq b'ey achi'el etab'äl. Ri Tiyuj chuqa' Tiq'at yeruchäp ID kichin taq k'amal.
+policy-ExtensionUpdate = Ketzij o kechup ri ruyonil kik'exoj taq k'amal.
 policy-FlashPlugin = Niya' q'ij o man niya' ta q'ij nokisäx ri Flash nak'ab'äl.
 policy-HardwareAcceleration = We man qitzij ta, tichup ranin ch'akulkem.
 # “lock” means that the user won’t be able to change this setting
@@ -71,5 +72,6 @@ policy-SearchEngines = Tib'an runuk'ulem ri kanob'äl. Re na'ojil re' xa xe okel
 policy-SecurityDevices = Keyak PKCS #11 taq juperaj.
 policy-SSLVersionMax = Tijikib'äx ri nïm ruwäch SSL.
 policy-SSLVersionMin = Tijikib'äx ri ko'öl ruwäch SSL
+policy-SupportMenu = Titz'aqatisäx jun ruch'akulal ruk'utsamaj ichinan tob'äl pa ruk'utsamaj tob'äl.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Tiq'at ri tz'etoj rik'in ajk'amaya'l ruxaq. Tatz'eta' ri ruwujil richin nawetamaj ch'aqa' chik rutzijoxik rub'anikil.
