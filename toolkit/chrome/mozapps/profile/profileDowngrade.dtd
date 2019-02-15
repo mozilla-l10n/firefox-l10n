@@ -9,8 +9,11 @@
  Firefox" and "version" is used to mean "the specific revision number of a
  given Firefox channel". These terms are not synonymous.
 -->
+<!ENTITY window.title "Has abierto una versión antigua de Firefox.">
 <!ENTITY window.style "width: 490px;">
 
+<!ENTITY window.nosync "Usar una versión antigua de Firefox puede corromper marcadores e historial de navegación ya almacenado en un perfil de Firefox existente. Para proteger tu información, crea un nuevo perfil para esta instalación de &brandShortName;.">
+<!ENTITY window.sync "Usar una versión antigua de Firefox puede corromper marcadores e historial de navegación ya almacenado en un perfil de Firefox existente. Para proteger tu información, crea un nuevo perfil para esta instalación de &brandShortName;. Siempre puedes conectarte a una &syncBrand.fxAccount.label; para sincronizar tus marcadores e historial de navegación entre perfiles.">
 
 <!ENTITY window.create "Crear nuevo perfil">
 <!ENTITY window.quit-win "Salir">
