@@ -229,6 +229,7 @@ manage-extensions-shortcuts =
     .accesskey = g
 shortcuts-empty-message = Det finns inga genvägar för det här tillägget.
 shortcuts-no-addons = Du har inga tillägg aktiverade.
+shortcuts-no-commands = Följande tillägg har inte genvägar:
 shortcuts-input =
     .placeholder = Skapa en genväg
 shortcuts-browserAction = Aktivera tillägg
