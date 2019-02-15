@@ -18,6 +18,7 @@ rights-safebrowsing = <strong>SafeBrowsing: </strong>Nus recumandain da betg dea
 rights-safebrowsing-term-1 = Avra las preferenzas da l'applicaziun
 rights-safebrowsing-term-2 = Tscherna la secziun "Segirezza"
 rights-safebrowsing-term-3 = Deactivescha l'opziun per "{ enableSafeBrowsing-label }"
+enableSafeBrowsing-label = Bloccar cuntegn privlus ed engianaivel
 rights-safebrowsing-term-4 = SafeBrowsing è ussa deactivà
 rights-locationawarebrowsing = <strong>Navigar cun resguardar tia posiziun (Location Aware Browsing): </strong>è adina facultativ. Nagina infurmaziun davart tia posiziun vegn tramessa senza tes consentiment. Sche ti vuls deactivar cumplettamain questa funcziun, suonda ils suandants pass:
 rights-locationawarebrowsing-term-1 = Scriva en la trav d'adressas <code>about:config</code>
