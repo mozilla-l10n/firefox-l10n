@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+rights-title = Arredol d'os suyos dreitos
 rights-intro = { -brand-full-name } ye un software gratuito y de codigo ubierto construiu por una comunidat de milars de colaboradors de totz. I hai quantas cosetas que habría de conoixer:
 rights-intro-point-1 = { -brand-short-name } ye disponible ta vusté baixo os termins d'a <a data-l10n-name="mozilla-public-license-link">Mozilla Public License (Licencia Publica de Mozilla)</a>. Isto significa que puede fer servir, copiar y distribuir o { -brand-short-name } a atras personas.  Tamién puede modificar o codigo fuent d'o { -brand-short-name } ta adaptar-lo a las suyas necesidatz. A licencia Mozilla Public License (Licencia Publica de Mozilla) le atorga o dreito de distribuir as suyas versions modificadas.
 rights-intro-point-2 = No se le atorga garra dreito ni licencia sobre las marcas comercials de Mozilla Foundation u os suyos filials, incluindo sin limitación o nombre y logo de Firefox. Puede trobar-ie información adicional sobre as marcas comercials <a data-l10n-name="mozilla-trademarks-link">aquí</a>.
@@ -16,6 +17,8 @@ rights-webservices = O { -brand-full-name } emplega servicios d'información web
 rights-safebrowsing = <strong>Navegación segura: </strong>Desactivar a caracteristica de navegación segura no se recomienda porque puede dar como resultau que visite puestos no seguros.  Si deseya desactivar de tot ista caracteristica, siga os trangos siguients:
 rights-safebrowsing-term-1 = Ubra as preferencias de l'aplicación
 rights-safebrowsing-term-2 = Seleccione o panel Seguranza
+rights-safebrowsing-term-3 = Desmarcar la opción pa "{ enableSafeBrowsing-label }"
+enableSafeBrowsing-label = Blocar lo conteniu perigloso y malicioso
 rights-safebrowsing-term-4 = A navegación segura ye agora desactivada
 rights-locationawarebrowsing = <strong>Navegación basada en a ubicación cheografica: </strong>siempre son a esleción de l'usuario.  Nunca no se ninviará garra información sobre a suya ubicación sin o suyo permiso.  Si deseya desactivar a caracteristica por completo, siga istos trangos:
 rights-locationawarebrowsing-term-1 = En a barra d'adrezas, escriba <code>about:config</code>
