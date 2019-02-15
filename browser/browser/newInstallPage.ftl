@@ -12,6 +12,7 @@ heading = שינויים בפרופיל ה־{ -brand-short-name } שלך
 changed-title = מה השתנה?
 changed-desc-profiles = להתקנה זו של { -brand-short-name } יש פרופיל חדש. פרופיל הוא אוסף של קבצים שבו Firefox שומר מידע כגון סימניות, ססמאות והעדפות משתמש.
 lost = <b>לא איבדת שום נתונים אישיים או התאמות אישיות.</b> אם כבר שמרת מידע ב־Firefox במחשב זה, הוא עדיין זמין בהתקנה אחרת של Firefox.
+options-use-sync = אם ברצונך שכל נתוני הפרופיל שלך יהיו זהים בכל ההתקנות של Firefox, ניתן להשתמש ב־{ -fxaccount-brand-name } כדי לשמור אותם מסונכרנים.
 resources = משאבים:
 support-link = שימוש במנהל הפרופילים - מאמר תמיכה
 sync-header = התחברות או יצירת { -fxaccount-brand-name }
