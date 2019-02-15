@@ -246,3 +246,11 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = 顯示更少
 go-back-button =
     .tooltiptext = 回上一頁
+
+## Add-on actions
+
+remove-addon-button = 移除
+disable-addon-button = 停用
+enable-addon-button = 啟用
+addons-enabled-heading = 已啟用
+addons-disabled-heading = 已停用
