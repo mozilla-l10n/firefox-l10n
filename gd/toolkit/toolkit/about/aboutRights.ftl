@@ -4,7 +4,9 @@
 
 rights-intro-point-5-unbranded = If this product incorporates web services, any applicable service terms for the service(s) should be linked to the <a data-l10n-name="mozilla-website-services-link">Web Site Services</a> section.
 rights-webservices-header = { -brand-full-name } Web-Based Information Services
+rights-webservices = { -brand-full-name } uses web-based information services ("Services") to provide some of the features provided for your use with this binary version of { -brand-short-name } under the terms described below. If you do not want to use one or more of the Services or the terms below are unacceptable, you may disable the feature or Service(s). Instructions on how to disable a particular feature or Service may be found <a data-l10n-name="mozilla-disable-service-link">here</a>. 'S urrainn dhut feartan is seirbheisean eile a chur à comas ann an roghainnean na h-aplacaid.
 rights-safebrowsing = <strong>BrabhsadhTèarainte: </strong>Cha mholar dhut am brabhsadh tèarainte a chur à comas oir faodaidh gun tadhal thu air làraichean mì-thèarainte mar sin.  Ma tha thu airson am feart seo a chur dheth gu tur, dèan na leanas:
+rights-safebrowsing-term-1 = Fosgail roghainnean na h-aplacaid
 rights-safebrowsing-term-2 = Tagh roghainn na tèarainteachd
 rights-safebrowsing-term-4 = Tha am brabhsadh tèarainte dheth a-nis
 rights-locationawarebrowsing = <strong>Brabhsadh a mhothaiches dha d' àite: </strong>seo rud a dh'fheumas tu a chur air an-còmhnaidh.  Cha dèid fiosrachadh mu d' àite a chur a-null gun do chead idir.  Ma tha thu airson am feart seo a chur dheth gu tur, dèan nan leanas:
