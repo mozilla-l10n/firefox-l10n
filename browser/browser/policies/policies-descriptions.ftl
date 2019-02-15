@@ -50,6 +50,7 @@ policy-EnableTrackingProtection = Habilitar o deshabilitar el bloqueo de conteni
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
 policy-Extensions = Instalar, desinstalar o bloquear extensiones. La opción Instalar toma direcciones URL o rutas como parámetros. Las opciones desinstalar y bloquear toman ID de extensión.
+policy-ExtensionUpdate = Habilitar o deshabilitar las actualizaciones automáticas de las extensiones.
 policy-FlashPlugin = Permitir o denegar el uso del plugin Flash.
 policy-HardwareAcceleration = Si es falso, desactivar la aceleración de hardware.
 # “lock” means that the user won’t be able to change this setting
@@ -71,5 +72,6 @@ policy-SearchEngines = Configurar los ajustes del buscador. Esta política solo 
 policy-SecurityDevices = Instale los módulos PKCS #11.
 policy-SSLVersionMax = Establecer la versión máxima de SSL.
 policy-SSLVersionMin = Establecer la versión mínima de SSL.
+policy-SupportMenu = Agregar un elemento de menú de ayuda personalizada al menú de ayuda.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Bloquear la visita a sitios web. Consulte la documentación para obtener más detalles sobre el formato.
