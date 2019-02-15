@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+rights-title = Om dina rättigheter
 rights-intro = { -brand-full-name } är fri programvara baserad på öppen källkod, byggd av en community av tusentals personer över hela världen. Det finns några saker du bör känna till:
 rights-intro-point-1 = { -brand-short-name } görs tillgänglig enligt villkoren i <a data-l10n-name="mozilla-public-license-link">Mozilla Public License</a>. Det betyder att du får använda, kopiera och distribuera { -brand-short-name } till andra. Du får också modifiera källkoden i { -brand-short-name } för att bättre passa dina behov. Mozilla Public License ger dig även rätt att distribuera de modifierade versionerna.
 rights-intro-point-2 = Du ges ingen rätt till varumärken eller licenser till varumärken tillhörande Mozilla Foundation eller annan part, detta inkluderar utan undantag namnet Firefox eller dess logotyp. Ytterligare information om varumärkena hittar du <a data-l10n-name="mozilla-trademarks-link">här</a>.
@@ -25,6 +26,7 @@ rights-locationawarebrowsing-term-2 = Skriv geo.enabled
 rights-locationawarebrowsing-term-3 = Dubbelklicka på inställningen geo.enabled
 rights-locationawarebrowsing-term-4 = Positionsberoende surfning är nu inaktiverad
 rights-webservices-unbranded = En översikt av de webbplatstjänster som är integrerade i produkten samt instruktioner om hur man om möjligt kan inaktivera dem bör finnas här.
+rights-webservices-term-unbranded = Tillämpliga tjänstevillkor för denna produkt bör listas här.
 rights-webservices-term-1 = { -vendor-short-name } och dess medarbetare, licensgivare och partners arbetar för att förmedla de mest korrekta och aktuella Tjänsterna. Vi kan dock inte garantera att dessa uppgifter är fullständiga och felfria. Till exempel kanske Säker surfning inte identifierar en del riskabla webbplatser medan andra säkra webbplatser felaktigt pekas ut. För Positionsberoende surfning kommer alla positioner som våra tjänsteleverantörer returnerar endast att vara uppskattningar och varken vi eller våra tjänsteleverantörer garanterar precisionen i de förmedlade positionerna.
 rights-webservices-term-2 = { -vendor-short-name } förbehåller sig rätten att efter eget gottfinnande upphöra med eller modifiera dessa tjänster.
 rights-webservices-term-3 = Du är fri att använda dessa Tjänster med den medföljande versionen av { -brand-short-name }, och { -vendor-short-name } ger dig rättigheten att göra det. { -vendor-short-name } och dess licensgivare förbehåller sig alla andra rättigheter i Tjänsterna. Dessa villkor är inte avsedda att begränsa några rättigheter givna enligt licenser för öppen källkod som tillämpas på { -brand-short-name } och motsvarande källkodsversioner av { -brand-short-name }.
