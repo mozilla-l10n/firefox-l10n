@@ -9,6 +9,7 @@ rights-intro-point-5-unbranded = Sto produto o l'à di serviççi web. I termini
 rights-safebrowsing = <strong>Navegaçion segua: </strong>No l'é racòmandou dizabilitâ a Navegaçion segua perché ti peu finî in di sciti che no son segui. Se ti veu dizabilitâ conpletamente sta carateristica segoi sti passi:
 rights-safebrowsing-term-1 = Arvi e preferense da aplicaçion
 rights-safebrowsing-term-2 = Seleçionn-a a seleçion de seguessa
+enableSafeBrowsing-label = Blòcca contegui grammi pericolozi
 rights-safebrowsing-term-4 = A navegaçion segua a l'é dizabilitâ
 rights-locationawarebrowsing = <strong>Navegaçion atenta a-i indirissi: </strong>a l'é de longo ativa. Nisciunn-a informaçion saiâ spedia sensa o teu permisso. Se ti veu dizabilitâ conpletamente sta carateristica, segoi sti passi:
 rights-locationawarebrowsing-term-1 = Inta bara di indirissi, scrivi <code>about:config</code>
