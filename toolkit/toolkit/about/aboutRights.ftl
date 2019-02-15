@@ -9,6 +9,7 @@ rights-intro-point-2 = You are not granted any trademark rights or licences to t
 rights-intro-point-3 = Some features in { -brand-short-name }, such as the Crash Reporter, give you the option to provide feedback to { -vendor-short-name }. By choosing to submit feedback, you give { -vendor-short-name } permission to use the feedback to improve its products, to publish the feedback on its web sites, and to distribute the feedback.
 rights-intro-point-4 = How we use your personal information and feedback submitted to { -vendor-short-name } through { -brand-short-name } is described in the <a data-l10n-name="mozilla-privacy-policy-link">{ -brand-short-name } Privacy Policy</a>.
 rights-intro-point-4-unbranded = Any applicable privacy policies for this product should be listed here.
+rights-intro-point-5 = Some { -brand-short-name } features make use of web-based information services, however, we cannot guarantee they are 100% accurate or error-free. More details, including information on how to disable the features that use these services, can be found in the <a data-l10n-name="mozilla-service-terms-link">service terms</a>.
 rights-intro-point-5-unbranded = If this product incorporates web services, any applicable service terms for the service(s) should be linked to the <a data-l10n-name="mozilla-website-services-link">Web Site Services</a> section.
 rights-intro-point-6 = In order to play back certain types of video content, { -brand-short-name } downloads certain content decryption modules from third parties.
 rights-webservices-header = { -brand-full-name } Web-Based Information Services
@@ -24,6 +25,7 @@ rights-locationawarebrowsing-term-1 = In the URL bar, type <code>about:config</c
 rights-locationawarebrowsing-term-2 = Type geo.enabled
 rights-locationawarebrowsing-term-3 = Double click on the geo.enabled preference
 rights-locationawarebrowsing-term-4 = Location-Aware Browsing is now disabled
+rights-webservices-unbranded = An overview of the web site services the product incorporates, along with instructions on how to disable them, if applicable, should be included here.
 rights-webservices-term-unbranded = Any applicable service terms for this product should be listed here.
 rights-webservices-term-1 = { -vendor-short-name } and its contributors, licensors and partners work to provide the most accurate and up-to-date Services.  However, we cannot guarantee that this information is comprehensive and error-free.  For example, the Safe Browsing Service may not identify some risky sites and may identify some safe sites in error and the Location Aware Service all locations returned by our service providers are estimates only and neither we nor our service providers guarantee the accuracy of the locations provided.
 rights-webservices-term-2 = { -vendor-short-name } may discontinue or change the Services at its discretion.
