@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+rights-title = Pri viaj rajtoj
 rights-intro = { -brand-full-name } estas libera kaj malfermitkoda programo, konstruita de komunumo de miloj de personoj el la tuta mondo. Estas kelkaj aferoj kiujn vi devus scii:
 rights-intro-point-1 = { -brand-short-name } estas akirebla de vi laŭ la kondiĉoj de la permesilo <a data-l10n-name="mozilla-public-license-link">Mozilla Public License</a>. Tio signifas ke vi povas uzi, kopii kaj distribui { -brand-short-name } al aliaj homoj. Oni kuraĝigas vin modifi la fontan kodon de { -brand-short-name } kiel ajn vi volas por akomodi ĝin al viaj bezonoj. La Mozilla Public License ankaŭ rajtigas vin distribui viajn modifitajn versiojn.
 rights-intro-point-2 = Neniu rajto pri la registrita marko aŭ uzopermesilo por la registritaj markoj de Mozilla Foundation aŭ de iu alia estas ceditaj al vi. Tio inkluzivas, sed ne nur tion, la nomon aŭ emblemon de Firefox.  Pli da informo pri registritaj markoj estas trovebla <a data-l10n-name="mozilla-trademarks-link">ĉi tie</a>.
