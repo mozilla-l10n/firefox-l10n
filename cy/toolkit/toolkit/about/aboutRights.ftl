@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+rights-title = Ynghylch eich hawliau
 rights-intro = Mae { -brand-full-name } yn feddalwedd cod agored rhydd a rhad, wedi ei adeiladu gan gymuned o filoedd o bobl ar draws y byd i gyd. Mae yna rhai pethau i chi gael gwybod:
 rights-intro-point-1 = Mae { -brand-short-name } ar gael i chi o dan amodau'r <a data-l10n-name="mozilla-public-license-link">Trwydded Gyhoeddus Mozilla</a>. Mae hyn yn golygu y cewch ddefnyddio, gopïo a dosbarthu { -brand-short-name } i eraill.  Mae croeso i chi newid cod ffynhonnell { -brand-short-name } yn ôl eich angen. Mae Trwydded Gyhoeddus Mozilla yn rhoi'r hawl i chi ddosbarthu'r fersiwn rydych wedi ei newid.
 rights-intro-point-2 = Nid ydych yn derbyn unrhyw hawliau nod masnachu na thrwyddedau i nod masnach y Mozilla Foundation neu unrhyw barti, gan gynnwys y Mozzilla Foundation heb gyfyngiadau i enw na logo Firefox. Mae gwybodaeth bellach am nodau masnach i’w cael <a data-l10n-name="mozilla-trademarks-link">yma</a>.
