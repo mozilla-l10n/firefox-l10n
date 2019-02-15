@@ -20,7 +20,7 @@
 <!ENTITY cutCmd.label            "Cắt">
 <!ENTITY cutCmd.key              "X">
 <!ENTITY cutCmd.accesskey          "t">
-<!ENTITY copyCmd.label            "Chép">
+<!ENTITY copyCmd.label            "Sao chép">
 <!ENTITY copyCmd.key            "C">
 <!ENTITY copyCmd.accesskey          "C">
 <!ENTITY pasteCmd.label            "Dán">

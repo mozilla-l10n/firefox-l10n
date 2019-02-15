@@ -17,18 +17,15 @@
 <!ENTITY highestPriorityCmd.label "Cao nhất">
 
 <!ENTITY contextDesc.label "Áp dụng bộ lọc khi:">
-<!ENTITY contextDesc.accesskey "k">
-<!ENTITY contextIncoming.label "Kiểm tra Thư">
 <!ENTITY contextManual.label "Tự Chạy">
-<!ENTITY contextBoth.label "Kiểm tra Thư hoặc Tự Chạy">
-<!ENTITY contextPostPlugin.label "Đang kiểm tra Thư (sau phân loại)">
-<!ENTITY contextPostPluginBoth.label "Đang kiểm tra Thư (sau phân loại) hoặc Chạy thủ công">
+
 <!ENTITY filterActionDesc.label "Thực hiện các thao tác này:">
 <!ENTITY filterActionDesc.accesskey "T">
 
+
 <!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "Di chuyển Thư tới">
-<!ENTITY copyMessage.label "Chép Thư tới">
+<!ENTITY copyMessage.label "Sao chép thư tới">
 <!ENTITY forwardTo.label "Chuyển tiếp Thư tới">
 <!ENTITY replyWithTemplate.label "Trả lời bằng Thư mẫu">
 <!ENTITY markMessageRead.label "Đánh Dấu Đã Đọc">
@@ -44,3 +41,10 @@
 <!ENTITY watchThread.label "Theo dõi Chủ đề">
 <!ENTITY stopExecution.label "Ngừng Thực thi Bộ lọc">
 
+
+<!-- LOCALIZATION NOTE
+     The values below are used to control the widths of the filter action widgets.
+     Change the values only when the localized strings in the popup menus
+     are truncated in the widgets.
+  -->
+<!-- Flex Attribute: https://developer.mozilla.org/docs/XUL/Attribute/flex -->

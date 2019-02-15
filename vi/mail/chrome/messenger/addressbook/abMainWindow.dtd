@@ -51,7 +51,7 @@
 <!ENTITY cutCmd.label                                   "Cắt">
 <!ENTITY cutCmd.key                                     "X">
 <!ENTITY cutCmd.accesskey                               "t">
-<!ENTITY copyCmd.label                                  "Chép">
+<!ENTITY copyCmd.label                                  "Sao chép">
 <!ENTITY copyCmd.key                                    "C">
 <!ENTITY copyCmd.accesskey                              "C">
 <!ENTITY pasteCmd.label                                 "Dán">
@@ -141,9 +141,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.tooltip                           "Gửi một lá thư">
 <!ENTITY newIM.tooltip                                  "Gửi tin nhắn nhanh hoặc chat">
 <!ENTITY deleteButton2.tooltip                          "Xóa mục đã chọn">
-
-<!-- Dir Tree header -->
-<!ENTITY dirTreeHeader.label                            "Sổ Địa Chỉ">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "Tên hoặc Email">

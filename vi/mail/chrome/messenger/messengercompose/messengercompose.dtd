@@ -6,7 +6,7 @@
 <!ENTITY msgComposeWindow.title "Viết thư: (chưa có tiêu đề)">
 
 <!-- File Menu -->
-<!ENTITY fileMenu.label "Tập tin"> 
+<!ENTITY fileMenu.label "Tập tin">
 <!ENTITY fileMenu.accesskey "T">
 <!ENTITY newMenu.label "Mới">
 <!ENTITY newMenu.accesskey "M">
@@ -53,50 +53,63 @@
 <!ENTITY printCmd.accesskey "I">
 
 <!-- Edit Menu -->
-<!ENTITY editMenu.label "Chỉnh sửa"> 
+<!ENTITY editMenu.label "Chỉnh sửa">
 <!ENTITY editMenu.accesskey "C">
 <!ENTITY undoCmd.label "Hoàn tác">
 <!ENTITY undoCmd.key "Z">
-<!ENTITY undoCmd.accesskey "H"> 
+<!ENTITY undoCmd.accesskey "H">
 <!ENTITY redoCmd.label "Làm lại">
 <!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "L"> 
+<!ENTITY redoCmd.accesskey "L">
 <!ENTITY cutCmd.label "Cắt">
 <!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "t"> 
-<!ENTITY copyCmd.label "Chép">
+<!ENTITY cutCmd.accesskey "t">
+<!ENTITY copyCmd.label "Sao chép">
 <!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "C"> 
+<!ENTITY copyCmd.accesskey "C">
 <!ENTITY pasteCmd.label "Dán">
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "D">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY editRewrapCmd.label "Gói lại">
-<!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "G">
 <!ENTITY deleteCmd.label "Xóa">
 <!ENTITY deleteCmd.accesskey "X">
+<!ENTITY editRewrapCmd.label "Gói lại">
+<!ENTITY editRewrapCmd.key "R">
+<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.accesskey):
+     For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
+     as attachments.accesskey. -->
+<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
+     As Mac does not have access keys, this key defines a Mac-only, cross-l10n
+     shortcut key (Ctrl+M). Typically, this key should not be translated unless
+     otherwise required by specific needs of the localization. -->
 <!ENTITY selectAllCmd.label "Chọn Toàn Bộ">
+<!ENTITY selectAllCmd.accesskey "B">
 <!ENTITY selectAllCmd.key "A">
-<!ENTITY selectAllCmd.accesskey "B"> 
-<!ENTITY findCmd.label "Tìm và Thay thế…">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.accesskey "v">
 <!ENTITY findAgainCmd.label "Tìm Lại">
-<!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.accesskey "i">
+<!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.label "Tìm Trước">
+<!ENTITY findPrevCmd.accesskey "r">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.accesskey "r"> 
+
+<!-- Reorder Attachment Panel -->
+
+<!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
+     Please ensure that this translation matches
+     sortAttachmentsPanelBtn.Sort.ZA.label, except for the sort direction. -->
+<!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.SortSelection.AZ.label):
+     Please ensure that this translation matches
+     sortAttachmentsPanelBtn.SortSelection.ZA.label, except for the sort direction. -->
 
 <!-- View Menu -->
-<!ENTITY viewMenu.label "Hiển thị"> 
+<!ENTITY viewMenu.label "Hiển thị">
 <!ENTITY viewMenu.accesskey "H">
-<!ENTITY viewToolbarsMenuNew.label "Thanh Công Cụ"> 
-<!ENTITY viewToolbarsMenuNew.accesskey "C"> 
+<!ENTITY viewToolbarsMenuNew.label "Thanh Công Cụ">
+<!ENTITY viewToolbarsMenuNew.accesskey "C">
 <!ENTITY menubarCmd.label "Menu Bar">
 <!ENTITY menubarCmd.accesskey "M">
 <!ENTITY showCompositionToolbarCmd.label "Thanh Soạn Thảo">
@@ -108,8 +121,8 @@
 <!ENTITY customizeToolbar.label "Tùy biến…">
 <!ENTITY customizeToolbar.accesskey "y">
 
-<!ENTITY addressSidebar.label "Thanh Lề Danh Bạ"> 
-<!ENTITY addressSidebar.accesskey "D"> 
+<!ENTITY addressSidebar.label "Thanh Lề Danh Bạ">
+<!ENTITY addressSidebar.accesskey "D">
 
 <!-- Format Menu -->
 <!ENTITY formatMenu.label "Định dạng">
@@ -135,8 +148,6 @@
 <!ENTITY returnReceiptMenu.accesskey "C">
 <!ENTITY dsnMenu.label "Thông báo Trạng thái Gửi thư">
 <!ENTITY dsnMenu.accesskey "G">
-<!ENTITY outputFormatMenu.label "Định dạng">
-<!ENTITY outputFormatMenu.accesskey "d">
 <!ENTITY autoFormatCmd.label "Tự động Nhận diện">
 <!ENTITY autoFormatCmd.accesskey "T">
 <!ENTITY plainTextFormatCmd.label "Văn bản Thuần">
@@ -171,19 +182,14 @@
 <!ENTITY addressBookCmd.label "Sổ Địa Chỉ">
 <!ENTITY addressBookCmd.accesskey "S">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY accountManagerCmd.label "Thiết lập Tài khoản…">
-<!ENTITY accountManagerCmd.accesskey "h">
-<!ENTITY accountManagerCmdUnix.accesskey "l">
-<!ENTITY preferencesCmd.label "Tùy chọn…">
-<!ENTITY preferencesCmd.accesskey "y">
-<!ENTITY preferencesCmdUnix.label       "Tùy chỉnh">
-<!ENTITY preferencesCmdUnix.accesskey   "y"> 
+<!ENTITY preferencesCmdUnix.label "Tùy chỉnh">
+<!ENTITY preferencesCmdUnix.accesskey "y">
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "Thu nhỏ">
 <!ENTITY bringAllToFront.label "Đưa Tất Cả ra Tiền Cảnh">
-<!ENTITY zoomWindow.label "Thu phóng"> 
+<!ENTITY zoomWindow.label "Thu phóng">
 <!ENTITY windowMenu.label "Cửa sổ">
 
 <!-- Mail Toolbar -->
@@ -195,15 +201,14 @@
 <!ENTITY saveButton.label "Lưu">
 
 <!-- Mail Toolbar Tooltips -->
-<!ENTITY sendButton.tooltip "Gửi thư này ngay"> 
-<!ENTITY sendlaterButton.tooltip "Gửi thư này sau"> 
-<!ENTITY quoteButton.tooltip "Trích dẫn thư trước"> 
-<!ENTITY addressButton.tooltip "Chọn một người nhận từ Sổ Địa Chỉ"> 
-<!ENTITY attachButton.tooltip "Thêm một tập tin đính kèm"> 
+<!ENTITY sendButton.tooltip "Gửi thư này ngay">
+<!ENTITY sendlaterButton.tooltip "Gửi thư này sau">
+<!ENTITY quoteButton.tooltip "Trích dẫn thư trước">
+<!ENTITY addressButton.tooltip "Chọn một người nhận từ Sổ Địa Chỉ">
 <!ENTITY spellingButton.tooltip "Kiểm tra chính tả của phần đã chọn hoặc toàn bộ thư">
-<!ENTITY saveButton.tooltip "Lưu thư này"> 
+<!ENTITY saveButton.tooltip "Lưu thư này">
 <!ENTITY cutButton.tooltip              "Cắt">
-<!ENTITY copyButton.tooltip             "Chép">
+<!ENTITY copyButton.tooltip             "Sao chép">
 <!ENTITY pasteButton.tooltip            "Dán">
 
 <!-- Headers -->
@@ -212,16 +217,20 @@
 <!ENTITY headersSpace.style "width: 9em;">
 <!ENTITY fromAddr.label "Gửi Từ:">
 <!ENTITY fromAddr.accesskey "i">
-<!ENTITY toAddr.label "Tới:"> 
-<!ENTITY ccAddr.label "Cc:"> 
-<!ENTITY bccAddr.label "Bcc:"> 
-<!ENTITY replyAddr.label "Trả lời Tới:"> 
-<!ENTITY newsgroupsAddr.label "Nhóm tin:"> 
-<!ENTITY followupAddr.label "Trả lời Tin tại:"> 
+<!ENTITY toAddr.label "Tới:">
+<!ENTITY ccAddr.label "Cc:">
+<!ENTITY bccAddr.label "Bcc:">
+<!ENTITY replyAddr.label "Trả lời Tới:">
+<!ENTITY newsgroupsAddr.label "Nhóm tin:">
+<!ENTITY followupAddr.label "Trả lời Tin tại:">
 <!ENTITY subject.label "Tiêu đề:">
 <!ENTITY subject.accesskey "u">
-<!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
-     to the strings in attachmentCount in composeMsgs.properties -->
+<!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
+     be taken from the strings of attachmentCount in composeMsgs.properties.
+     Please ensure that this access key is unique: Do not duplicate any other
+     first-level access keys of the compose window, e.g. those of main menu,
+     buttons, or labels (message headers, contacts side bar, attachment reminder
+     bar). -->
 <!ENTITY attachments.accesskey "k">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
@@ -253,13 +262,14 @@
 <!ENTITY undo.accesskey "H">
 <!ENTITY cut.label "Cắt">
 <!ENTITY cut.accesskey "t">
-<!ENTITY copy.label "Chép">
+<!ENTITY copy.label "Sao chép">
 <!ENTITY copy.accesskey "C">
 <!ENTITY paste.label "Dán">
 <!ENTITY paste.accesskey "D">
 <!ENTITY pasteQuote.label "Dán dưới dạng Trích dẫn">
 <!ENTITY pasteQuote.accesskey "n">
 
+<!-- Attachment Item and List Context Menus -->
 <!ENTITY openAttachment.label "Mở">
 <!ENTITY openAttachment.accesskey "M">
 <!ENTITY delete.label "Xóa">
@@ -275,6 +285,11 @@
 <!ENTITY attachPage.label "Đính kèm Trang Web…">
 <!ENTITY attachPage.accesskey "W">
 
+<!-- Attachment Pane Header Bar Context Menu -->
+<!-- LOCALIZATION NOTE (initiallyShowAttachmentPane.label):
+     Should use the same wording as startExpandedCmd.label
+     in msgHdrViewOverlay.dtd. -->
+
 <!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "Thêm Từ Điển…">
 <!ENTITY spellAddDictionaries.accesskey "m">
@@ -282,4 +297,8 @@
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "Danh bạ">
 
+<!-- Identity popup customize menuitem -->
 
+<!-- Accessibility name for the document -->
+
+<!-- Status Bar -->
