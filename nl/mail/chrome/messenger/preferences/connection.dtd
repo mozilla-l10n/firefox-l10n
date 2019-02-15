@@ -47,9 +47,6 @@
 <!ENTITY  socksRemoteDNS.accesskey      "D">
 <!ENTITY  dnsOverHttps.label            "DNS over HTTPS inschakelen">
 <!ENTITY  dnsOverHttps.accesskey        "N">
-<!ENTITY  dnsOverHttpsUrl.label         "URL">
-<!ENTITY  dnsOverHttpsUrl.accesskey     "U">
-<!ENTITY  dnsOverHttpsUrl.tooltip       "URL voor het omzetten van DNS over HTTPS">
 <!ENTITY  dnsOverHttpsUrlDefault.label     "Standaard gebruiken">
 <!ENTITY  dnsOverHttpsUrlDefault.accesskey "S">
 <!ENTITY  dnsOverHttpsUrlDefault.tooltip   "De standaard-URL voor het omzetten van DNS over HTTPS gebruiken">
