@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+rights-title = Baɗte Hakkeeji Maa
 rights-intro = { -brand-full-name } ko topirɗe dokkal e open source, nde renndo ujunnaaji neɗɗo wonɓe e winndere ndee fof mbinndi. Won geɗe seeɗa ɗe pot-ɗaa faamde:
 rights-intro-point-1 = { -brand-short-name } ena yettinaa e maa tugnaade e sarɗiiji <a data-l10n-name="mozilla-public-license-link">Mozilla Public License</a>. Ɗum firti ko aɗa waawi huutoraade, tummbitaade, weeɗde { -brand-short-name } woɗɓe.  Aɗa yamiraa kadi waylude dokkol yummawol { -brand-short-name } ngol no njiɗir-ɗaa ngam nafoore maa heeriingo. Mozilla Public License ena hokku-maa kadi hakke weeɗde jame maa bayklaaɗe ɗee.
 rights-intro-point-2 = A hokkaaka hay hakke gooto wonande marke ɗee walla jamirooje marke Mozilla Foundation walla baawɗo wonde kala, ena jeyaa heen tawa alaa ɗo haaɗi innde Firefox ndee e logo mum. Humpito wonngo baɗte marke ena heɓoo <a data-l10n-name="mozilla-trademarks-link">ɗoo</a>.
@@ -10,11 +11,14 @@ rights-intro-point-4 = No min kuutortoo humpito maa heeriingo a miijo maa naatna
 rights-intro-point-4-unbranded = Kala dawirɗe sutoro jammintooɗe e ndee faggoore ena foti limteede ɗoo.
 rights-intro-point-5 = Won e fannuuji { -brand-short-name } ena kuutortoo carwe humpito mooftiiɗe e geese, kono, min mbaawaa adande on eɗe ngoongɗi 100% walla ɗe ngalaa juume. Humpito woɗngo, yantude e hol no fannuuji kuutortooɗi ɗeen carwe daaƴirtee ena heɓoo e <a data-l10n-name="mozilla-service-terms-link">saɗiiji carwe</a>.
 rights-intro-point-5-unbranded = So ndee faggoore ena soomi carwe geese, kala sarɗi carwe pawotooɗe e carwol (carwe) ɗee ena poti jokkondirɗe e <a data-l10n-name="mozilla-website-services-link">Carwe Lowe Geese</a> taƴre.
+rights-intro-point-6 = Ngam tartude yoga e loowdi widewoo, { -brand-short-name } aawtoto won e gulɗe dokkitorɗe loowdi iwde e nokkuuji goɗɗi.
 rights-webservices-header = Carwe Humpito { -brand-full-name } Mooftiiɗe e Geese
 rights-webservices = { -brand-full-name } ena huutoroo carwe humpito mooftiiɗe e geese ("Carwe") ngam addude won e fannuuji ɗi ngaddane-ɗaa yo a huutoro ndee yamre biinere { -brand-short-name } tugnaade e sarɗiiji cifaaɗi les ɗoo. So a yiɗaa huutoraade gootol walla keewɗe e ɗeen Carwe walla sarɗiiji gonɗi les ɗoo njaɓotaako, aɗa waawi daaƴde oon fannu Carwol(we). Tinndinoore e no fannu keeriiɗo walla Carwol daaƴirtee ena heɓoo <a data-l10n-name="mozilla-disable-service-link">ɗoo</a>. Fannuuji e Carwe goɗɗe ena mbaawi daaƴeede e cuɓoraaɗe jaaɓnirgal ngal.
 rights-safebrowsing = <strong>SafeBrowsing</strong>Daaƴde fannu Peeragol Koolnol oo wasiyaaka sabu ena waawi wuftude e yahde-ma e lowe ɗe koolnaaki.  So aɗa yiɗi daaƴde fannu oo haa timma, tugno e ɗee daawe:
 rights-safebrowsing-term-1 = Uddit cuɓoraaɗe jaaɓnirgal ngal
 rights-safebrowsing-term-2 = Labo labannde Kisal ndee
+rights-safebrowsing-term-3 = Jelto suɓre to "{ enableSafeBrowsing-label }"
+enableSafeBrowsing-label = Falo loowi mbonndi e puuntoori
 rights-safebrowsing-term-4 = Peeragol Koolnol daaƴaama jooni
 rights-locationawarebrowsing = <strong>Peeragol Ganndungol Nokkuure: </strong>ko jaɓel kala sahaa.  Alaa humpito nokkuure neldetee tawa a yamiraani.  So aɗa yiɗi daaƴde oo fannu haa timma, tugno e ɗee daawe:
 rights-locationawarebrowsing-term-1 = E palal URL ngal, tappu <code>about:config</code>
