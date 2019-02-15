@@ -10,6 +10,7 @@ rights-intro-point-4 = Hvernig meðferð persónuupplýsinga og upplýsingar sem
 rights-intro-point-4-unbranded = Allar reglur um meðferð persónuupplýsinga fyrir þessa vöru ættu að vera sýndar hér.
 rights-intro-point-5-unbranded = Ef þessi vara inniheldur vefþjónustur, skulu allar viðeigandi skilmálar fyrir þjónustuna vera tengdar við <a data-l10n-name="mozilla-website-services-link">Vefsvæðisþjónustu</a> flipann.
 rights-webservices-header = { -brand-full-name } Vefupplýsingaþjónustur
+rights-webservices = { -brand-full-name } notar vefupplýsingaþjónustur ("Þjónustur") til að bjóða upp á suma eiginleika sem eru aðgengilegir í þessari útgáfu af { -brand-short-name } eins og lýst er hér fyrir neðan. Ef þú vilt ekki nota þjónusturnar eða skilmálarnir eru óaðgengilegir, geturðu gert eiginleikana eða þjónustuna óvirka. Leiðbeiningar fyrir að hætta að nota ákveðinn eiginleika eða þjónustu er hægt að finna <a data-l10n-name="mozilla-disable-service-link">hérna</a>. Aðrar stillingar og þjónustur er hægt að gera óvirkar í valkostum.
 rights-safebrowsing = <strong>Örugg vöfrun: </strong>Ekki er mælt með að hætta að nota örugga vöfrun þar sem það gæti leitt til þess að þú farir á óörugg vefsvæði.  Ef þú vilt taka þennan eiginlega alveg út, geturðu fylgt eftir þessum skrefum:
 rights-safebrowsing-term-1 = Opnaðu valkosti í valmynd
 rights-safebrowsing-term-2 = Veldu öryggisflipan
