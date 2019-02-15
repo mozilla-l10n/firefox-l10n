@@ -8,6 +8,7 @@ rights-intro-point-2 = لا يعطيك هذا أي حقوق أو تراخيص ل
 rights-intro-point-3 = بعض مزايا { -brand-short-name }، مثل مبلّغ الانهيارات، تتيح إرسال تعليقاتك إلى { -vendor-short-name }. باختيارك إرسال تعليق فأنت تعطي { -vendor-short-name } الإذن باستخدامه لتحسين منتجاتها، ونشره على مواقعها، وتوزيعه.
 rights-intro-point-4 = كيفية استخدامنا لمعلوماتك الشخصية والتعليقات التي ترسلها إلى { -vendor-short-name } عبر { -brand-short-name } مشروحة في <a data-l10n-name="mozilla-privacy-policy-link">سياسة خصوصية { -brand-short-name }</a>.
 rights-intro-point-4-unbranded = كل سياسات الخصوصية المطبقة في هذا المنتج مسرودة هنا.
+rights-intro-point-5 = بعض مزايا { -brand-short-name } تستفيد من خدمات للمعلومات في الوب، ولكننا لا نضمن دقتها التامة أو خلوها من الأخطاء. يمكن الاطلاع على مزيد من التفاصيل، بما فيها كيفية تعطيل المزايا التي تستخدم هذه الخدمات، في <a data-l10n-name="mozilla-service-terms-link">بنود الخدمة</a>.
 rights-intro-point-5-unbranded = في حال احتوى هذا المنتج على أي من خدمات الوب فيمكن الوصول إلى بنود استخدام تلك الخدمة من قِسم <a data-l10n-name="mozilla-website-services-link">خدمات مواقع الوب</a>.
 rights-webservices-header = خدمات { -brand-full-name } للمعلومات على الوب
 rights-safebrowsing-term-1 = افتح تفضيلات البرنامج
