@@ -67,6 +67,7 @@
  -->
 <!ENTITY updateApp.version.pre           "ვერსია ">
 <!ENTITY updateApp.version.post          "">
+<!ENTITY updateAppAllow.description      "&brandShortName;-ისთვის ნების დართვა">
 <!ENTITY updateAuto.label                "თავად დააყენოს განახლებები (სასურველია უსაფრთხოების გასაუმჯობესებლად)">
 <!ENTITY updateAuto.accesskey            "თ">
 <!ENTITY updateCheck.label               "შემოწმდეს განახლებებზე, მაგრამ თავად გადაწყვეტთ, დააყენებთ თუ არა">
@@ -76,6 +77,7 @@
 
 <!ENTITY useService.label                "ფონური მოსახურებით სარგებლობა განახლებათა ჩადგმისას">
 <!ENTITY useService.accesskey            "b">
+
 
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "პარამეტრები…">
