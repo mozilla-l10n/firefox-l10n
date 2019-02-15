@@ -17,5 +17,5 @@
 <!ENTITY newPref.toggleButton          "Bật tắt">
 <!ENTITY newPref.cancelButton          "Hủy bỏ">
 
-<!ENTITY contextMenu.copyPrefName      "Chép tên">
-<!ENTITY contextMenu.copyPrefValue     "Chép giá trị">
+<!ENTITY contextMenu.copyPrefName      "Sao chép tên">
+<!ENTITY contextMenu.copyPrefValue     "Sao chép giá trị">
