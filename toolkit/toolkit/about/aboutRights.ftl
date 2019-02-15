@@ -1,0 +1,12 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+rights-intro-point-1 = { -brand-short-name } er á boðstólum fyrir þig samkvæmt skilmálum <a data-l10n-name="mozilla-public-license-link">Mozilla Public License</a>. Þetta þýðir að þú mátt nota, afrita og dreifa { -brand-short-name } til annarra.  Þú mátt einnig breyta frumkóða { -brand-short-name } hvernig sem þér hentar. Mozilla Public License gefur þér einnig rétt til að dreifa breyttum útgáfum.
+rights-intro-point-5-unbranded = Ef þessi vara inniheldur vefþjónustur, skulu allar viðeigandi skilmálar fyrir þjónustuna vera tengdar við <a data-l10n-name="mozilla-website-services-link">Vefsvæðisþjónustu</a> flipann.
+rights-webservices-unbranded = Hér ætti að vera yfirlit yfir þær vefþjónustur sem eru innifaldar í vörunni, með leiðbeiningum um hvernig á að gera þær óvirkar, ef það á við.
+rights-webservices-term-unbranded = Allir viðeigandi skilmálar fyrir þessa vöru eiga að birtast hér.
+rights-webservices-term-2 = { -vendor-short-name } hefur leyfi til að stöðva eða breyta þjónustunum að eigin geðþótta.
+rights-webservices-term-5 = <strong>Nema þess sé krafist af lögum, munu { -vendor-short-name }, þátttakendur, leyfisaðilar, og meðlimir ekki verða ábyrgir fyrir hverskonar óbeinum, sérstökum, tilfallandi, mikilvægum, refsingum, eða varnaðar skaðabótum sem hljótast af notkun eða tengdri notkunar á { -brand-short-name } og þjónustum þess.  Heildar skaðabótaskylda með þessum skilmálum mun aldrei verða meiri en $500 (fimm hundruð dollarar). Sum lögsagnarumdæmi leyfa ekki útilokanir eða takmarkanir á ákveðnum skaðabótum, þannig að þessar útilokanir og takmarkanir gætu ekki átt við þig.</strong>
+rights-webservices-term-6 = Öðru hverju gæti { -vendor-short-name } nauðsynlega þurft að uppfæra þessa skilmála. Þessum skilmálum má ekki breyta eða ógilda án skriflegs leyfis { -vendor-short-name }.
+rights-webservices-term-7 = Þessir skilmálar eru í samræmi við lög Kaliforníu fylkis, U.S.A., undanskilin eru árekstrar við önnur laga ákvæði. Ef einhver hluti þessara skilmála telst vera ógildur eða er ekki framfylgjanlegur, munu samt sem áður aðrir skilmálar vera áfram virkir. Ef upp kemur ágreiningur á milli þýddu útgáfunnar af þessum skilmálum og ensku útgáfunnar, mun enska útgáfan vera ráðandi.
