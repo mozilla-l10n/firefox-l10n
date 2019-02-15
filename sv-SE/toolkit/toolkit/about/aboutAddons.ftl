@@ -247,3 +247,11 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = Visa mindre
 go-back-button =
     .tooltiptext = Gå tillbaka
+
+## Add-on actions
+
+remove-addon-button = Ta bort
+disable-addon-button = Inaktivera
+enable-addon-button = Aktivera
+addons-enabled-heading = Aktiverad
+addons-disabled-heading = Inaktiverad

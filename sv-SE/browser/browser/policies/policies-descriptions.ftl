@@ -50,6 +50,7 @@ policy-EnableTrackingProtection = Aktivera eller inaktivera Innehållsblockering
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
 policy-Extensions = Installera, avinstallera eller låsa tillägg. Installeringsalternativet tar webbadresser eller sökvägar som parametrar. Alternativen för borttagning och låsning använder tilläggs-ID.
+policy-ExtensionUpdate = Aktivera eller inaktivera automatiska utökningsuppdateringar.
 policy-FlashPlugin = Tillåt eller neka att insticksmodulen Flash används.
 policy-HardwareAcceleration = Om inaktiv, stäng av hårdvaruacceleration.
 # “lock” means that the user won’t be able to change this setting
@@ -71,5 +72,6 @@ policy-SearchEngines = Ange sökmotorinställningar. Denna policy finns bara på
 policy-SecurityDevices = Installera PKCS #11-moduler.
 policy-SSLVersionMax = Ange den maximala SSL-versionen.
 policy-SSLVersionMin = Ange den lägsta SSL-versionen.
+policy-SupportMenu = Lägg till ett anpassat menyalternativ med hjälp i hjälpmenyn.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Blockera besök på webbplatser. Läs dokumentationen för mer detaljer om hur de anges.
