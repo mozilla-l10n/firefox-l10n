@@ -78,6 +78,7 @@
 <!ENTITY useService.label                "ფონური მოსახურებით სარგებლობა განახლებათა ჩადგმისას">
 <!ENTITY useService.accesskey            "b">
 
+<!ENTITY updateCrossUserSettingWarning.description "ეს პარამეტრები აისახება Windows-ის ყველა ანგარიშზე და &brandShortName;-ის ყველა პროფილზე, რომელიც &brandShortName;-ის ამ დაყენებულ ვერსიას ექვემდებარება.">
 
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "პარამეტრები…">
