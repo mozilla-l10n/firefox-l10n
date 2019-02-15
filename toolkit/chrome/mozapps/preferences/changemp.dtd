@@ -1,9 +1,0 @@
-<!ENTITY setPassword.title "Shandukisani Phasiwede khulwane">
-<!ENTITY setPassword.tokenName.label "Tshishumiswa tsha Tsireledzo">
-<!ENTITY setPassword.oldPassword.label "Phasiwede ya zwino:">
-<!ENTITY setPassword.newPassword.label "Dzhenisani phasiwede ntswa:">
-<!ENTITY setPassword.reenterPassword.label "Dzhenisani hafhu phasiwede:">
-<!ENTITY setPassword.meter.label "Mithara wa ndeme ya phasiwede">
-<!ENTITY setPassword.meter.loading "U vula">
-<!ENTITY masterPasswordDescription.label "Phasiwede Khulwane i shumiswa u tsireledza vhuṱanzi ha vhuṱhogwa sa phasiwede dza fhethu.  Arali na ḓiitela Phasiwede Khulwane ni ḓo humbelwa uri ni i dzhenise luthihi kha sesheni musi &brandShortName; i tshi wanulula vhuṱanzi ho tsireledzw.">
-<!ENTITY masterPasswordWarning.label "Ni khou humbelwa uri ni humbule Phasiwede Khulwane ye na i tea.  Arali na hangwa Phasiwede yanu Khulwane, ni nga si kone u swikelela mulaedza muṅwe na muṅwe wo tsireledzwaho ngayo.">
