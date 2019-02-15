@@ -11,11 +11,13 @@ rights-intro-point-4 = Bagaimana kami menggunakan maklumat peribadi dan maklum b
 rights-intro-point-4-unbranded = Sebarang polisi privasi lain yang diguna pakai untuk produk ini hendaklah disenaraikan di sini.
 rights-intro-point-5 = Beberapa { -brand-short-name } ciri-ciri menggunakan perkhidmatan-perkhidmatan maklumat berlandaskan web, walaubagaimana, kami tidak boleh menjamin bahawa ciri-ciri tersebut 100%; tepat atau tiada ralat. Maklumat lanjut, termasuk maklumat mengenai bagaimana untuk mematikan ciri-ciri yang menggunakan perkhidmatan-perkhidmatan ini, boleh didapati dalamnya <a data-l10n-name="mozilla-service-terms-link">terma perkhidmatan</a>.
 rights-intro-point-5-unbranded = Sekiranya produk ini merangkumi perkhidmatan web, sebarang terma perkhidmatan yang diguna pakai untuk perkhidmatan ini perlu dihubungkan ke <a data-l10n-name="mozilla-website-services-link">Servis Laman Web</a> bahagian.
+rights-intro-point-6 = Untuk main semula sesetengah jenis kandungan video, { -brand-short-name } memuat turun sesetengah modul dekripsi kandungan daripada pihak ketiga.
 rights-webservices-header = { -brand-full-name } Servis Informasi berdasarkan Web
 rights-webservices = { -brand-full-name } menggunakan perkhidmatan maklumat -berasaskan-web ("Perkhidmatans") untuk menyediakan beberapa ciri yang disediakan untuk kegunaan anda dengan versi binari { -brand-short-name } di bawah terma yang dinyatakan dibawah. Jika anda tidak mahu menggunakan salah satu daripada Perkhidmatan atau tidak menerima terma di bawah, anda boleh nyahdayakan mana-mana ciri Perkhidmatan tersebut. Arahan mengenai cara untuk menyahdayakan ciri atau Perkhidmatan tertentu boleh ditemui di <a data-l10n-name="mozilla-disable-service-link">di sini</a>. Ciri lain dan Services boleh dinyahdayakan dalam keutamaan aplikasi.
 rights-safebrowsing = <strong>SafeBrowsing: </strong>Anda tidak disyorkan untuk menyahaktifkan ciri Pelayaran Selamat kerana anda mungkin melayari laman yang tidak selamat.  Jika anda mahu menyahaktifkan semua ciri ini, ikuti langkah berikut:
 rights-safebrowsing-term-1 = Buka tetapan keutamaan aplikasi
 rights-safebrowsing-term-2 = Pilih pilihan keselamatan
+rights-safebrowsing-term-3 = Nyahpilih pilihan untuk "{ enableSafeBrowsing-label }"
 enableSafeBrowsing-label = Sekat isi kandung berbahaya dan memperdayakan
 rights-safebrowsing-term-4 = Pelayaran Selamat kini dinyahaktifkan
 rights-locationawarebrowsing = <strong>Pelayaran Sedar Lokasi: </strong>adalah satu ciri pilihan.  Tiada maklumat lokasi yang akan dihantar tanpa keizinan anda.  Jika anda mahu menyahaktifkan ciri ini secara keseluruhan, ikuti arahan berikut:
