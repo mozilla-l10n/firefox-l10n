@@ -20,6 +20,7 @@ rights-safebrowsing-term-2 = Seleccionatz lo panèl Seguretat
 rights-safebrowsing-term-3 = Deseleccionar l'opcion "{ enableSafeBrowsing-label }"
 enableSafeBrowsing-label = Blocar lo contengut perilhós e enganaire
 rights-safebrowsing-term-4 = Lo blocatge de sites malvolents es alara desactivat.
+rights-locationawarebrowsing = <strong>Navegacion segon la localizacion geografica : </strong>se fa totjorn a la demanda. Cap d'informacion a prepaus de vòstra localizacion es pas jamai mandada sens vòstra permission. Se volètz desactivar la foncionalitat completament, seguissètz aquelas instruccions :
 rights-locationawarebrowsing-term-1 = Dins la barra d'adreça, picatz <code>about:config</code>
 rights-locationawarebrowsing-term-2 = Fasètz una recèrca sus geo.enabled
 rights-locationawarebrowsing-term-3 = Doble-clicatz sus la preferéncia geo.enabled
