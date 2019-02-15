@@ -2,13 +2,17 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+rights-title = In sci teu diritti
 rights-intro = { -brand-full-name } a l'é 'n'aplicaçion libera co-o sorgente averto e a l'é fæta da 'na comunitæ de migiæa de personn-e de tutto o mondo. Gh'é de cöse che ti doviesci savei:
 rights-intro-point-2 = Mozilla no te dâ di diriti in sci marchi e lòghi de Mozilla e Firefox. Atre informaçioin in sci marchi e lòghi se peuan atrovâ <a data-l10n-name="mozilla-trademarks-link">chi</a>.
 rights-intro-point-4-unbranded = Tutte e politiche da privacy pe sto produto devan ese chi.
 rights-intro-point-5-unbranded = Sto produto o l'à di serviççi web. I termini di serviççi se peaun trovâ chi <a data-l10n-name="mozilla-website-services-link">Serviççi do scito</a>.
+rights-webservices-header = Serviççi de { -brand-full-name } bazê in sciâ ræ
+rights-webservices = O { -brand-full-name } o l'uza di serviççi di informaçion di sciti ("Serviççi") pe fornî de carateristiche de { -brand-short-name } inti termini descriti chi sotta. Se ti no veu uzâ un o ciù di sti serviççi ò no t'ê d'acòrdio co-i termini ti peu dizabilitali. E istruçioin pe dizabilitâ un particolâ serviççio ò carateristica ti peu trovale <a data-l10n-name="mozilla-disable-service-link">chi</a>. Atre carateristiche e serviççi peuan ese dizativæ inte preferense de l'aplicaçion.
 rights-safebrowsing = <strong>Navegaçion segua: </strong>No l'é racòmandou dizabilitâ a Navegaçion segua perché ti peu finî in di sciti che no son segui. Se ti veu dizabilitâ conpletamente sta carateristica segoi sti passi:
 rights-safebrowsing-term-1 = Arvi e preferense da aplicaçion
 rights-safebrowsing-term-2 = Seleçionn-a a seleçion de seguessa
+rights-safebrowsing-term-3 = Deseleçionn-a l'òpçion pe "{ enableSafeBrowsing-label }"
 enableSafeBrowsing-label = Blòcca contegui grammi pericolozi
 rights-safebrowsing-term-4 = A navegaçion segua a l'é dizabilitâ
 rights-locationawarebrowsing = <strong>Navegaçion atenta a-i indirissi: </strong>a l'é de longo ativa. Nisciunn-a informaçion saiâ spedia sensa o teu permisso. Se ti veu dizabilitâ conpletamente sta carateristica, segoi sti passi:
