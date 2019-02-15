@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+rights-intro-point-6 = కొన్ని రకాల వీడియో కాంటెంట్‌ను నడుపుటకు, { -brand-short-name } కొన్ని కాంటెంట్ డిక్రిప్షన్ మాడ్యూళ్ళను ఇతరులనుండి దిగుమతి చేయును.
 rights-webservices-header = { -brand-full-name } వెబ్-ఆధారిత సమాచారం సేవలు
 rights-safebrowsing-term-2 = రక్షమ యెంపికను యెంపికచేయుము
 rights-safebrowsing-term-4 = రక్షణ బ్రౌజింగ్ యిప్పుడు అచేతనము చేయబడింది
