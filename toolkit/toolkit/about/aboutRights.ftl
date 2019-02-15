@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+rights-title = Mayelana namalungelo wakho
 rights-intro = I-{ -brand-full-name } i-software ekhululekile enomthombo ovulekile, eyakhiwe izinkulungewane zomphakathi emhlabeni jikelele. Kunezinto ezombalwa okufanelele uzazi:
 rights-intro-point-1 = I-{ -brand-short-name } yenziwe ukuba itholakale kuwe ngaphansi kwemigomo ye- <a data-l10n-name="mozilla-public-license-link">Ilayisense esobala ye-Mozilla</a>. Lokhu kusho ukuthi ungasebenzisa, ukopishe futhi usabalalise i-{ -brand-short-name } kwabanye.  Futhi wamukelekile ukuba ushintshe ikhodi yomthombo ye-{ -brand-short-name } njengoba ufuna ukuhlangabezana nezidingo zakho. Ilayisense ye-Mozilla esobala futhi ikunika ilungelo lokusabalalisa izinguqulo zakho ozishintshile.
 rights-intro-point-2 = Awunikiwe ilungelo lophawu lokuthengisa noma ilayisense lokuthengiswa kwe-Mozilla Foundation noma okunye, kufaka phakathi ngaphandle komkhawulo wegama noma uphawu lwe-Firefox. Ulwazi olungeziwe kumaphawu wokuthengisa lungatholakala <a data-l10n-name="mozilla-trademarks-link">lapha</a>.
