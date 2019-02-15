@@ -54,6 +54,10 @@ policy-HardwareAcceleration = כיבוי האצת חומרה אם מוגדר כ�
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = הגדרה ונעילה כרשות של דף הבית.
 policy-InstallAddonsPermission = לאפשר לאתרים מסוימים להתקין תוספות.
+policy-NetworkPrediction = הפעלה או השבתה של חיזוי רשתי (אחזור מוקדם באמצעות DNS).
+policy-NoDefaultBookmarks = ביטול יצירת הסימניות המוגדרות כברירת מחדל עם { -brand-short-name }, ואת הסימניות החכמות (הנצפות ביותר, תגים אחרונים). הערה: מדיניות זו יעילה רק אם נעשה בה שימוש קודם להפעלה הראשונה של הפרופיל.
+policy-OfferToSaveLogins = יש לאכוף את ההגדרה כדי לאפשר ל־{ -brand-short-name } להציע לזכור פרטי התחברות וסיסמאות. גם ערכי אמת וגם ערכי שקר יתקבלו.
+policy-OverrideFirstRunPage = עקיפת דף ההפעלה הראשון. ניתן לנקות מדיניות זו אם ברצונך להשבית את דף ההפעלה הראשון.
 policy-Permissions = קביעת תצורה של הרשאות עבור מצלמה, מיקרופון, מיקום והתרעות.
 policy-PopupBlocking = לאפשר לאתרים מסוימים להקפיץ חלונות כברירת מחדל.
 policy-Proxy = קביעת תצורה של הגדרות שרת מתווך.
