@@ -10,6 +10,7 @@ rights-intro-point-4 = Mae sut rydym yn defnyddio y data personol ac adborth ryd
 rights-intro-point-4-unbranded = Rhaid rhestri unrhyw bolisïau preifatrwydd perthnasol yma.
 rights-intro-point-5 = Mae rhai nodweddion { -brand-short-name } yn gwneud defnydd p wasanaethau gwybodaeth gwe, er hynny nid ydym yn gallu gwarantu eu bod yn 100% yn gywir nac yn rhydd o wallau. Mae rhagor o fanylion, gan gynnwys gwybodaeth ar sut i'w hanalluogi i'w cael yn yr <a data-l10n-name="mozilla-service-terms-link">amodau gwasanaeth</a>.
 rights-webservices-header = Gwasanaethau Gwybodaeth Gwe { -brand-full-name }
+rights-webservices = Mae { -brand-full-name } yn defnyddio gwasanaethau gwybodaeth gwe ("Gwasanaethau") i ddarparu rhai o'r nodweddion sy'n cael eu darparu ar eich cyfer yn y fersiwn yma o { -brand-short-name } o fewn yr amodau disgrifir isod. Os nad ydych am ddefnyddio un neu fwy o'r Gwasanaethau neu mae'r amodau yn annerbyniol, mae modd i chi analluogi'r nodwedd neu'r Gwasanaeth(au). Mae gwybodaeth ar sut i analluogi nodwedd neu Wasanaeth penodol i'w cael <a data-l10n-name="mozilla-disable-service-link">yma</a>. Mae modd analluogi nodweddion a Gwasanaethau eraill yn newisiadau'r rhaglen.
 rights-safebrowsing = <strong>Pori Diogel: </strong>Nid yw anablu Pori Diogel yn cael ei gymeradwyo gan y gall arwain i chi fynd i wefannau anniogel.  Os ydych eisiau analluogi'r nodwedd yn llwyr, dilynwch y camau hyn:
 rights-safebrowsing-term-1 = Agor dewisiadau'r rhaglen
 rights-safebrowsing-term-2 = Dewis Diogelwch
