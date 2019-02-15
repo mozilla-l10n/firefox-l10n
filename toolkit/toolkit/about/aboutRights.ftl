@@ -17,6 +17,7 @@ rights-webservices = { -brand-full-name } משתמש בשירותי מידע מ�
 rights-safebrowsing = <strong>גלישה בטוחה: </strong>ניטרול התכונה גלישה בטוחה לא מומלץ מכיוון שביטול התכונה יאפשר לך לגשת לאתרים לא בטוחים. אם אתה רוצה לנטרל את התכונה לחלוטין, עקוב אחר צעדים אלו:
 rights-safebrowsing-term-1 = פתח את העדפות היישום
 rights-safebrowsing-term-2 = בחר בלשונית אבטחה
+rights-safebrowsing-term-3 = ניתן לבטל את הסימון כדי "{ enableSafeBrowsing-label }"
 enableSafeBrowsing-label = חסימת תוכן מסוכן ומטעה
 rights-safebrowsing-term-4 = גלישה בטוחה מנוטרלת כעת
 rights-locationawarebrowsing = <strong>דפדפוף מבוסס מיקום: </strong>תמיד ממתין לאישור המשתמש. אף מידע מיקום לא נשלח בלי לקבל את רשותך. אם אתה מעוניין לנטרל את התכונה הזו לחלוטין, עקוב אחר צעדים אלו:
