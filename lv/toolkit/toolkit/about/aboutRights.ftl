@@ -7,7 +7,18 @@ rights-intro-point-1 = { -brand-short-name } ir pieejams ar <a data-l10n-name="m
 rights-intro-point-2 = Mozilla nedod jums tiesības izmantot Mozilla un Firefox preču zīmes un logo. Papildus informācija par preču zīmēm ir atrodama <a data-l10n-name="mozilla-trademarks-link">šeit</a>.
 rights-intro-point-3 = Dažas no { -brand-short-name } iespējām, piemēram, avāriju gadījumu ziņošanas rīks, piedāvā jums iespēju nosūtīt savu viedokli par { -vendor-short-name }. Izvēloties nosūtīt savu viedokli, jūs dodat atļauju { -vendor-short-name } izmantot šo jūsu sniegto informāciju, lai uzlabotu savus produktus, publicēt to savās mājas lapās vai kā citādi izplatīt šo saņemto informāciju.
 rights-intro-point-4 = Tas kā mēs izmantojam jūsu personisko informāciju un { -vendor-short-name } nosūtīto viedokli izmantojot { -brand-short-name } ir aprakstīts <a data-l10n-name="mozilla-privacy-policy-link">{ -brand-short-name } privātuma politikā</a>.
+rights-intro-point-4-unbranded = Visām aktuālajām privātuma politikām būtu jābūt uzskaitītām šeit.
+rights-intro-point-5 = Dažas { -brand-short-name } iespējas izmanto tīmeklī bāzētus pakalpojumus, taču, mēs nevaram garantēt, ka tie ir 100% pareizi un kļūdu brīvi. Papildus informācija par šiem pakalpojumiem un to kā tos deaktivēt, ir pieejama <a data-l10n-name="mozilla-service-terms-link">pakalpojumu nosacījumu aprakstā</a>.
 rights-intro-point-5-unbranded = Ja šajā produktā ir iekļauti tīmekļa pakalpojumi, visiem aktuālajiem pakalpojuma nosacījumiem jābūt pieejamiem <a data-l10n-name="mozilla-website-services-link">mājas lapu pakalpojumu</a> sadaļā.
+rights-intro-point-6 = Lai varētu atskaņot dažu tipu video, { -brand-short-name } lejupielādē zināmus satura atkodēšanas moduļus no trešajām pusēm.
+rights-webservices-header = { -brand-full-name } tīmeklī bāzētie informācijas pakalpojumi
+rights-webservices = { -brand-full-name } izmanto tīmeklī bāzētus informācijas pakalpojumus ("Pakalpojumi"), lai nodrošinātu dažas no funkcijām, kas pieejamas binārajā { -brand-short-name } versijā ar zemāk aprakstītajiem nosacījumiem. Ja nevēlaties izmantot kādu no aprakstītajiem pakalpojumiem vai arī to izmantošanas nosacījumi jums nav pieņemami, jūs varat deaktivet šos pakalpojumus. Instrukcijas, kā deaktivēt konkrētu pakalpojumi ir pieejamas <a data-l10n-name="mozilla-disable-service-link">te</a>. Citas iespējas un pakalpojumus var deaktivēt programmas iestatījumos.
+rights-safebrowsing = <strong>Drošā pārlūkošana: </strong>Drošās pārlūkošanas deaktivēšana nav ieteicama, jo šādā veidā jūs varat nonākt nedrošās interneta lapās. Ja tomēr vēlaties to deaktivēt, rīkojieties sekojoši:
+rights-safebrowsing-term-1 = Atveriet programmas iestatījumus
+rights-safebrowsing-term-2 = Izvēlieties sadaļu Drošība
+rights-safebrowsing-term-3 = Izņemiet iezīmi pie "{ enableSafeBrowsing-label }"
+enableSafeBrowsing-label = Bloķēt bīstamu un maldinošu saturu
+rights-safebrowsing-term-4 = Drošā pārlūkošana tagad ir deaktivēta
 rights-locationawarebrowsing = <strong>Atrašanās vietu zinoša pārlūkošana: </strong>informācija par jūsu atrašanās vietu nekad netiek sūtīta bez jūsu piekrišanas.  Ja vēlaties pilnībā deaktivēt šo iespēju, rīkojieties sekojoši:
 rights-locationawarebrowsing-term-1 = Adreses joslā ierakstiet <code>about:config</code>
 rights-locationawarebrowsing-term-2 = Ierakstiet geo.enabled
