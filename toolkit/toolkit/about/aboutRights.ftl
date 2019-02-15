@@ -4,4 +4,5 @@
 
 rights-webservices-header = { -brand-full-name } Servis Informasi berdasarkan Web
 rights-safebrowsing-term-2 = Pilih pilihan keselamatan
+enableSafeBrowsing-label = Sekat isi kandung berbahaya dan memperdayakan
 rights-locationawarebrowsing-term-2 = Taip geo.enabled
