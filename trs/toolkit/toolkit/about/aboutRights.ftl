@@ -18,6 +18,7 @@ rights-safebrowsing = <strong>NItaj si ahî huaj gaché nun: </strong>Si guyunt 
 rights-safebrowsing-term-1 = Na'nin si preferensia ma
 rights-safebrowsing-term-2 = Ganahui sa dugumi ma
 rights-safebrowsing-term-3 = Guyun sa ganahuit "{ enableSafeBrowsing-label }"
+enableSafeBrowsing-label = Garun' riña daran' sa ata yi'ìi
 rights-safebrowsing-term-4 = Ahî huaj gaché nut
 rights-locationawarebrowsing = <strong>Riña huajt ni huê dan huin gaché nut. </strong>sa ganahuit huin.  Si nitaj gachîn ni'iaj riñat ni si ga'ue gataj ma dane' nut.  Si ruat guyun sa 'iaj sun guenda na, ganiko' chrej na ga'anjt:
 rights-locationawarebrowsing-term-1 = Gachrun riña sa nanuit.<code>about:config</code>
