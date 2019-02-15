@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+rights-title = 关于您的权利
 rights-intro = { -brand-full-name } 是一款自由开源软件，由来自世界各地成千上万的社区志愿者共同完成。以下几点您应该了解：
 rights-intro-point-1 = { -brand-short-name } 提供给您时依照的条款为 <a data-l10n-name="mozilla-public-license-link">Mozilla 公共许可证（MPL）</a>。这表示您可以使用、复制和向他人分发 { -brand-short-name }。我们也非常欢迎您按自己的需要修改 { -brand-short-name } 的源代码。Mozilla 公共许可证还授予您分发您自己修改过的软件版本的权利。
 rights-intro-point-2 = 您没有获得 Mozilla 基金会或其他任何一方的商标权利或许可，这包括但不限于 Firefox 的名称或标志。有关商标的其他信息在：<a data-l10n-name="mozilla-trademarks-link">这里</a>。
@@ -16,6 +17,7 @@ rights-webservices = { -brand-full-name } 依照下列条款，为该二进制�
 rights-safebrowsing = <strong>安全浏览：</strong>不推荐您禁用安全浏览功能，因为那样可能会导致您到达不安全的网站。如果您确定想完全禁用此功能，请按照下列步骤操作：
 rights-safebrowsing-term-1 = 打开本应用程序的首选项
 rights-safebrowsing-term-2 = 选择“安全”选项
+rights-safebrowsing-term-3 = 取消选中此选项“{ enableSafeBrowsing-label }”
 enableSafeBrowsing-label = 拦截危险与诈骗内容
 rights-safebrowsing-term-4 = 安全浏览现在已禁用
 rights-locationawarebrowsing = <strong>位置感知浏览：</strong>是否启用的选择权永远在您的手中。未经您的许可不会有位置信息被发送。如果您想完全禁用此功能，请按照下列步骤操作：
