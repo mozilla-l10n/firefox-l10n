@@ -8,6 +8,7 @@ rights-intro-point-2 = Du gis ikke noen varemerkerettigheter eller lisenser til 
 rights-intro-point-3 = Noen funksjoner i { -brand-short-name }, som for eksempel krasjrapportereren, gir deg muligheten å gi tilbakemelding til { -vendor-short-name }. Ved å sende tilbakemelding gir du { -vendor-short-name } tillatelse til å bruke tilbakemeldingene for å forbedre produktene sine, publisere tilbakemeldingene på nettstedene sine, og å distribuere tilbakemeldingene.
 rights-intro-point-4 = Hvordan vi bruker personlig informasjon og tilbakemeldinger som er sendt til { -vendor-short-name } gjennom { -brand-short-name } er beskrevet i <a data-l10n-name="mozilla-privacy-policy-link">{ -brand-short-name } personvernbestemmelser</a>.
 rights-intro-point-4-unbranded = Eventuelle personvernbestemmelser for dette produktet bør listes her.
+rights-intro-point-5 = Noen { -brand-short-name }-funksjoner bruker vevbaserte informasjonstjenester, men vi kan ikke garantere at de er 100 % nøyaktige eller feilfrie. Mer informasjon, også om hvordan tjenestene som bruker disse funksjonene kan slås av, kan du finne i <a data-l10n-name="mozilla-service-terms-link">tjenestebetingelsene</a>.
 rights-intro-point-5-unbranded = Dersom dette produktet omfatter informasjonstjenester, så bør tjenestevilkår for tjenestene lenkes opp i  <a data-l10n-name="mozilla-website-services-link">Informasjonstjenester</a>-seksjonen.
 rights-intro-point-6 = For å spille av forskjellige typer videoinnhold, laster { -brand-short-name } ned dekrypteringsmoduler fra tredjeparter.
 rights-webservices-header = { -brand-full-name } webbaserte informasjonstjenester
@@ -15,6 +16,7 @@ rights-webservices = { -brand-full-name } bruker webbaserte informasjonstjeneste
 rights-safebrowsing = <strong>Trygg nettlesing: </strong>Å slå av Trygg nettlesing-funksjonen er ikke anbefalt, ettersom det kan føre til at du besøker utrygge nettsteder.  Dersom du ønsker å skru av funksjonen helt, følg disse stegene:
 rights-safebrowsing-term-1 = Åpne programinnstillingene
 rights-safebrowsing-term-2 = Velg Sikkerhet-fanen
+rights-safebrowsing-term-3 = Skru av valget for å "{ enableSafeBrowsing-label }"
 enableSafeBrowsing-label = Blokker farlig og villendende innhold
 rights-safebrowsing-term-4 = Trygg nettlesing er nå avslått
 rights-locationawarebrowsing = <strong>Stedsbevisst nettlesing: </strong>er alltid en funksjon du må aktivt velge å slå på for at den brukes.  Ingen stedsinfo sendes uten at du gir tillatelse til det.  Dersom du ønsker å skru av denne funksjonen helt, følg disse stegene:
@@ -22,6 +24,7 @@ rights-locationawarebrowsing-term-1 = I adresselinjen, skriv inn <code>about:con
 rights-locationawarebrowsing-term-2 = Skriv inn geo.enabled
 rights-locationawarebrowsing-term-3 = Dobbeltklikk på geo.enabled preference
 rights-locationawarebrowsing-term-4 = Stedsbevisst nettlesing er nå avslått
+rights-webservices-unbranded = En oversikt over informasjonstjenestene som dette produktet inneholder, samt informasjon om hvordan du kan slå av de, bør inkluderes her.
 rights-webservices-term-2 = { -vendor-short-name } kan avslutte eller forandre Tjenestene etter eget ønske.
 rights-webservices-term-3 = Du er velkommen til å bruke disse Tjenestene med den medfølgende versjonen av { -brand-short-name }, og { -vendor-short-name } gir deg retten til å gjøre det.  { -vendor-short-name } og dens lisensgivere reserverer alle andre rettigheter til Tjenestene.  Disse betingelsene er ikke beregnet for å begrense rettighetene som er gitt under åpen kildekode-lisensene som gjelder for { -brand-short-name }, og den tilhørende kildekodeutgaven av { -brand-short-name }.
 rights-webservices-term-4 = <strong>Tjenestene er tilbydt "som-de-er."  { -vendor-short-name }, bidragsyterne, lisensgiverne og distributørene gir ingen garantier, verken eksplisitt eller implisitt, inkludert uten begrensinger, garantier for at Tjenestene skal passe til dine formål.  Du har den fullstendige risikoen for å velge Tjenestene for å oppnå dine hensikter, samt for kvaliteten og ytelsen til Tjenstene. Noen jurisdiksjoner tillater ikke at implisitte garantier ekskluderes, så denne disclaimeren kan muligens ikke gjelde deg.</strong>
