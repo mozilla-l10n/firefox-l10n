@@ -35,7 +35,7 @@
 <!ENTITY bookmarks.folder.toolbar.label 'Thanh đánh dấu'>
 <!ENTITY bookmarks.folder.other.label 'Trang đánh dấu khác'>
 <!ENTITY bookmarks.folder.desktop.label 'Trang đánh dấu Desktop'>
-<!ENTITY bookmarks.folder.mobile.label 'Trang đánh dấu Di động'>
+<!ENTITY bookmarks.folder.mobile.label 'Trang đánh dấu trên di động'>
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label 'Đã ghim'>
 

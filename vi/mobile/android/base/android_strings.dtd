@@ -591,7 +591,7 @@
 <!ENTITY button_clear_data "Xoá dữ liệu">
 <!ENTITY button_set "Thiết lập">
 <!ENTITY button_clear "Xóa">
-<!ENTITY button_copy "Chép">
+<!ENTITY button_copy "Sao chép">
 
 <!ENTITY home_top_sites_title "Trang truy cập nhiều">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -856,7 +856,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
-<!ENTITY activity_stream_highlight_label_bookmarked "Đã đánh dấu trang">
+<!ENTITY activity_stream_highlight_label_bookmarked "Đã đánh dấu">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_visited): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "Đã truy cập">
