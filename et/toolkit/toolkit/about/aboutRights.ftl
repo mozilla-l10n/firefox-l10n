@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+enableSafeBrowsing-label = Ohtlik ja petlik sisu blokitakse
 rights-locationawarebrowsing-term-1 = Trüki aadressireale <code>about:config</code>
 rights-locationawarebrowsing-term-2 = Trüki geo.enabled
 rights-locationawarebrowsing-term-3 = Tee eelistusel geo.enabled topeltklõps
