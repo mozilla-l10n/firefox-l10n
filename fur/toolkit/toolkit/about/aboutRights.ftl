@@ -2,10 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-rights-title = I tiei dirits{ " " }
-rights-intro = { -brand-full-name } al è un program a gratis e open source, realizât di une comunitât di miârs di contributôrs che a son a stâ par dut il mont. Ve ca alc che tu varessis di savê:{ " " }
-rights-intro-point-1 = { -brand-short-name } al è disponibil sot i tiermins dal <a data-l10n-name="mozilla-public-license-link">Mozilla Public License (Licence Publiche di Mozilla) </a>. Chest al vûl dî che tu puedis doprâ, copiâ e distribuî { -brand-short-name } a altris.  Tu puedis ancje modificâ il codiç sorzint di { -brand-short-name } come che tu vuelis seont lis tôs disbisugnis.  Cun di plui la Mozilla Public License ti da il dirit di distribuî lis tôs versions modificadis.{ " " }
-rights-intro-point-4-unbranded = Cualsisei politiche di privacy relatîf a chest prodot al varès di jessi listât ca.{ "  " }
+rights-title = I tiei dirits
+rights-intro = { -brand-full-name } al è un program a gratis e open source, realizât di une comunitât di miârs di contributôrs che a son a stâ par dut il mont. Ve ca alc che tu varessis di savê:
+rights-intro-point-1 = { -brand-short-name } al è disponibil sot i tiermins dal <a data-l10n-name="mozilla-public-license-link">Mozilla Public License (Licence Publiche di Mozilla) </a>. Chest al vûl dî che tu puedis doprâ, copiâ e distribuî { -brand-short-name } a altris.  Tu puedis ancje modificâ il codiç sorzint di { -brand-short-name } come che tu vuelis seont lis tôs disbisugnis.  Cun di plui la Mozilla Public License ti da il dirit di distribuî lis tôs versions modificadis.
+rights-intro-point-4-unbranded = Cualsisei politiche di privacy relatîf a chest prodot al varès di jessi listât ca.
 rights-webservices-term-unbranded = Cualsisei tiermin di servizi aplicabil par chest prodot al varès di jessi elencât culì.
 rights-webservices-term-2 = { -vendor-short-name } al pues fermâ o cambiâ i Servizis a sô discrezion.
 rights-webservices-term-4 = <strong>I Servizis a son furnîts "as-is."  { -vendor-short-name }, chei che a àn contribuît, i licenziataris e i distributôrs a dinein dutis lis garanziis, sei esplicitis sei implicitis, includint cence limitazion lis garanziis che i Servizis a son vendibii e adats pai tiei specifics fins. Tu âs dut il riscjo te selezion dai Servizis pai tiei fins e pe cualitât e pes prestazions dai Servizis. Cualchi jurisdizion no permet la esclusion o la limitazion des garanziis implicitis, par cui chest messaç podarès no jessi aplicabil par te.</strong>
