@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+rights-title = আপোনাৰ অধিকাৰসমূহৰ বিষয়ে
 rights-intro = { -brand-full-name } এটা বিনামূলীয়া আৰু মুক্ত উৎস চফ্টৱেৰ, যাক বিশ্বৰ সকলো প্ৰান্তৰ পৰা হাজাৰ হাজাৰ মানুহৰ এটা সম্প্ৰদায় নিৰ্মাণ কৰিছে। কিছুমান কথা আছে যি আপুনি জানিব লাগে:
 rights-intro-point-1 = { -brand-short-name } আপেনাৰ বাবে উপলব্ধ কৰা হৈছে <a data-l10n-name="mozilla-public-license-link">Mozilla Public License ৰ অন্তৰ্গত</a>। ইয়াৰ অৰ্থ আপুনি { -brand-short-name } ক ব্যৱহাৰ, কপি আৰু অন্যক বিতৰণ কৰিব পাৰিব।  লগতে আপুনি আপোনাৰ প্ৰয়োজন অনুসৰি { -brand-short-name } ৰ উৎস ক'ড সলনি কৰিব পাৰিব। Mozilla Public License এ আপোনাক আপোনাৰ পৰিবৰ্তিত সংস্কৰণসমূহ বিতৰণ কৰাৰ অধিকাৰো প্ৰদান কৰে।
 rights-intro-point-2 = আপোনাক Mozilla Foundation অথবা অন্য কোনো দলৰ পণ্যচিহ্নসমূহ, Firefox নাম অথবা লগোৰ পণ্যচিহ্ন অধিকাৰ অথবা অণুজ্ঞাসমূহ প্ৰদান কৰা নহয়। পণ্যচিহ্নসমূহৰ বিষয়ে অতিৰিক্ত তথ্য পোৱা যাব <a data-l10n-name="mozilla-trademarks-link">ইয়াত</a>.
