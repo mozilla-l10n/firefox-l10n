@@ -218,6 +218,9 @@ extensions-updates-update-selected =
 
 ## Extension shortcut management
 
+manage-extensions-shortcuts =
+    .label = Gérer les raccourcis d’extensions
+    .accesskey = G
 shortcuts-empty-message = Il n’y a pas de raccourci pour cette extension.
 shortcuts-no-addons = Aucune extension n’est activée.
 shortcuts-input =
@@ -229,5 +232,12 @@ shortcuts-modifier-mac = Inclure Ctrl, Alt ou ⌘
 shortcuts-modifier-other = Inclure Ctrl ou Alt
 shortcuts-invalid = Combinaison invalide
 shortcuts-letter = Saisissez une lettre
+shortcuts-system = Impossible de remplacer un raccourci { -brand-short-name }
+shortcuts-card-expand-button =
+    { $numberToShow ->
+        [one] En montrer { $numberToShow } de plus
+       *[other] En montrer { $numberToShow } de plus
+    }
+shortcuts-card-collapse-button = En montrer moins
 go-back-button =
     .tooltiptext = Retour
