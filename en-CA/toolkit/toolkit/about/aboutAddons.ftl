@@ -234,6 +234,7 @@ manage-extensions-shortcuts =
     .accesskey = S
 shortcuts-empty-message = There are no shortcuts for this extension.
 shortcuts-no-addons = You don’t have any extensions enabled.
+shortcuts-no-commands = The following extensions do not have shortcuts:
 shortcuts-input =
     .placeholder = Type a shortcut
 shortcuts-browserAction = Activate extension
@@ -251,3 +252,11 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = Show Less
 go-back-button =
     .tooltiptext = Go back
+
+## Add-on actions
+
+remove-addon-button = Remove
+disable-addon-button = Disable
+enable-addon-button = Enable
+addons-enabled-heading = Enabled
+addons-disabled-heading = Disabled
