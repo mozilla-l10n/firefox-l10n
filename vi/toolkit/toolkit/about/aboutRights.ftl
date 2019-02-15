@@ -12,7 +12,9 @@ rights-intro-point-5-unbranded = Nếu sản phẩm này kết hợp các dịch
 rights-webservices-header = Dịch vụ Thông tin Dựa trên Web { -brand-full-name }
 rights-webservices = { -brand-full-name } dùng dịch vụ thông tin dựa trên web ("Dịch Vụ") để cung cấp một số tính năng mà bạn dùng trong phiên bản { -brand-short-name } theo điều khoản được mô tả bên dưới. Nếu bạn không muốn dùng một hoặc nhiều Dịch Vụ hoặc điều khoản bên dưới không chấp nhận được, bạn có thể vô hiệu hóa tính năng hoặc Dịch Vụ. Chỉ dẫn cho cách vô hiệu hóa một tính năng hay Dịch Vụ đặc thù có thể được tìm <a data-l10n-name="mozilla-disable-service-link">tại đây</a>. Các tính năng và dịch vụ khác có thể bị tắt trong phần tùy chỉnh ứng dụng.
 rights-safebrowsing = <strong>Duyệt web An toàn: </strong>Vô hiệu hóa tính năng Duyệt web An toàn là không nên vì nó có thể làm bạn đi vào các trang không an toàn. Nếu bạn muốn vô hiệu hóa hoàn toàn tính năng, hãy theo các bước sau:
+rights-safebrowsing-term-1 = Mở tùy chỉnh ứng dụng
 rights-safebrowsing-term-2 = Chọn lựa chọn Bảo mật
+enableSafeBrowsing-label = Chặn nội dung lừa đảo và không an toàn
 rights-locationawarebrowsing = <strong>Duyệt web Nhận diện Vị trí: </strong>luôn có sẵn. Không có thông tin địa điểm nào được gửi đi mà không có sự cho phép của bạn. Nếu bạn muốn vô hiệu hóa hoàn toàn tính năng này, làm theo các bước sau:
 rights-locationawarebrowsing-term-1 = Trong thanh URL, gõ <code>about:config</code>
 rights-locationawarebrowsing-term-2 = Gõ geo.enabled
