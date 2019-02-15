@@ -2,18 +2,23 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+rights-title = آپ کے حقوق کے متعلق
 rights-intro = { -brand-full-name } آزاد اور کھلا ماخذ سافٹ ویئر ہے، جو کے دنیا بھر سے ہزاروں لوگوں کے گروپ نے بنائی ہے۔ کچھ باتیں ہیں جو آپ کو پتہ ہونی چاہیے:
 rights-intro-point-1 = { -brand-short-name } آپ کو بر اصطلاحات کے زیر تحت دستیاب کیا گیا ہے <a data-l10n-name="mozilla-public-license-link">Mozilla عوامی لائسنس</a>۔ اس کا مطلب ہے کہ آپ { -brand-short-name } کو استعمال، نقل اور دوسروں کو بانٹ سکتے ہیں۔  آپ اپنی ضرورت پوری کرنے لے لیے { -brand-short-name } کا سورس کوڈ بھی تبدیل کر سکتے ہیں۔ Mozilla عوامی لائسنس آپ کو اپنی تبدیل کی ہوئی ورژن بانٹنے کی بھی اجازت دیتا ہے۔
+rights-intro-point-2 = آپ کو Mozilla Foundation یا کسی پارٹی، کے ٹریڈ مارک کے لائسنس یا ٹریڈ مارک حقوق نہیں دیے گئے۔ اس میں بغیر کسی حدبندی کے Firefox نام اور لوگو بھی شامل ہیں۔ ٹریڈمارک پر اضافی معلومات شاید ملیں <a data-l10n-name="mozilla-trademarks-link">ادھر</a>۔
 rights-intro-point-3 = { -brand-short-name } کے کچھ پیچر، جیسا کہ کریش رپورٹر، آپ کو { -vendor-short-name } تک فیڈ بیک پہنچانے کا اختیار دیتے ہیں۔ فیڈ بیک جمع کرانے کا انتخاب کر کے آپ { -vendor-short-name } کو اجازت دیتے ہیں کہ وہ یہ فیڈ بیک استعمال کر کے اپنے پراڈکٹ بہتر بنائے، فیڈ بیک اپنی ویب سائٹ پر شائع کرے، اور فیڈ بیک کو بانٹیں۔
 rights-intro-point-4 = ہم آپ کی { -vendor-short-name } کو بھیجی ہوئی ذاتی معلومات اور فیڈ بیک کس طرح { -brand-short-name } کے ذریعے استعمال کرتے ہیں، یہ بتایا گیا ہے <a data-l10n-name="mozilla-privacy-policy-link">{ -brand-short-name } نجی نوعیت</a>۔
 rights-intro-point-4-unbranded = اس پراڈکٹ پر اطلاق پزیر نجی نوعیت کی پالسیاں یہاں پر لکھی ہونی چاہیے۔
 rights-intro-point-5 = کچھ { -brand-short-name } فیچر ویب پر مبنی معلوماتی خدمات استعمال کرتے ہیں، لیکن ہم اس بات کی گیرنٹی نہیں دے سکتے کہ یہ 100% ٹھیک یا نقص سے آزاد ہیں۔ ان خدمات کو استعمال کرنے والے فیچر کو نا اہل بنانے کے طریقے اور مزید تفاصیل آپ کو مل سکتی ہیں بر <a data-l10n-name="mozilla-service-terms-link">خدمات اصطلاحات</a>۔
 rights-intro-point-5-unbranded = آگ یہ مصنوعہ ویب خدمات شامل کرتا ہے تو خدمات کی کوئی بھی اطلاق پزیر خدمات اصطلاحات مربوط ہونی چاہییں بر <a data-l10n-name="mozilla-website-services-link">ویب سائٹ خدمات</a> صیغہ۔
+rights-intro-point-6 = ویڈیو مواد کی بعض اقسام کو واپس چلانے کے لئے،{ -brand-short-name } مخصوص مواد ڈکرپشن ماڈیولز تیسری پارٹیوں کی طرف سے ڈاؤن لوڈ کرتا ہے
 rights-webservices-header = { -brand-full-name } ویب پر مبنی معلوماتی خدمات
 rights-webservices = { -brand-full-name } نیچے دی گَی شرائط کے تحت { -brand-short-name } کی اس بائنری ورژن کے ساتھ آپ کے استعمال کے لیے کچھ فیچر مہیا کرنے کے لیے ویب پر مبنی معلوماتی خدمات  ("Services") استعمال کرتا ہے۔ اگر آپ خدمات میں سے ایک یا زیادہ نہیں استعمال کرنا چاہتے یا آپ کو شرائط قبول نہیں تو آپ فیچر یا خدمت نااہل بنا سکتے ہیں۔ کوئی مخصوص فیچر یا خدمت نااہل بنانے کا طریقہ آپ کو ملے گا <a data-l10n-name="mozilla-disable-service-link">یہاں</a>۔ دیگر فیچر اور سروس ایپلی کیشن ترجیحات میں نااہل کی جا سکتی ہیں۔
 rights-safebrowsing = <strong>محفوظ براوزنگ</strong>محفوظ براؤزنگ فیچر نا اہل کرنا تجویز کردہ نہیں ہے کیونکہ اس کے نتیجے میں آپ غیر محفوظ سائٹوں پر پہنچ سکتے ہیں۔  اگر آپ اس فیچر کو پوری طرح سے نااہل کرنا چاہتے ہیں، تو یہ مرحلہ پورے کیجیے:
 rights-safebrowsing-term-1 = ایپلی کیشن کی ترجیحات کھولیں
 rights-safebrowsing-term-2 = سلامتی انتخاب منتخب کریں
+rights-safebrowsing-term-3 = کرنے کا اختیار غیر منتخب "{ enableSafeBrowsing-label }"
+enableSafeBrowsing-label = خطرناک اور دھوکہ دینے والے مواد کو بلاک کریں
 rights-safebrowsing-term-4 = محفوظ براؤزنگ اب نا اہل ہے
 rights-locationawarebrowsing = <strong>محل وقوع آگاہ براؤزنگ: </strong>ہمیشہ خدکار اختیار ہے۔  کوئی بھی محل وقوع معلومات آپ کی اجازت کے بغیر نہیں بھیجی جائے گی۔  اگر آپ اس فیچر کو نااہل کرنا چاہتے ہیں تو یہ مرحلے پورے کریں:
 rights-locationawarebrowsing-term-1 = یو ار ایل بار میں ٹائپ کریں <code>بارے میں: تشکیل</code>
