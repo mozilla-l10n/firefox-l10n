@@ -14,7 +14,7 @@ rights-intro-point-5-unbranded = Ko japopyre oikéramo ñanduti mba'epytyvõrãm
 rights-intro-point-6 = Embohetaseve rupi hetaichagua ta'ãngamýi tretepy, { -brand-short-name } omboguejy heta mbopapapy ra'ãha tetepy mbohapyguáva rehegua.
 rights-webservices-header = Mba'epytyvõrã { -brand-full-name } marandu ñanduti pegua
 rights-webservices = { -brand-full-name } oipuru marandu mba'epytyvõrã ipyendáva ñandutípe ("mba'epytyvõrã") ome'ẽ hag̃ua heseguamimi ojepurukuaáva ko apopy ikõirekóva { -brand-short-name }-pe ojehaiháicha ko'a guive. Ndereipuruséirõ peteĩ térã hetave mba'epytyvõrã térã jehairysýi oĩva ko'a guive noñemoneĩkuaái, ikatu embogue pe hesegua térã mba'epytyvõrã. Reikuaasérõ mba'éichapa remboguekuaa pe mba'e hesegua térã mba'epytyvõrã rejuhukuaa ko'ápe <a data-l10n-name="mozilla-disable-service-link">ko'ápe</a>. Ambue mba'e ha mba'epytyvõrã ikatu oñembogue tembipuru'i eguerohoryvéva rupi.
-rights-safebrowsing = <strong>Kundaha jeroviáva: </strong>Kundaha ñemi rehegua jeikekatu noñemoneĩmbái ikatu rehe nde gueraha tenda jerovia'ỹhápe. Emboguesetéramo ko mba'e rehegua, ehechakuaa ko tape:{ " " }
+rights-safebrowsing = <strong>Kundaha jeroviáva: </strong>Kundaha ñemi rehegua jeikekatu noñemoneĩmbái ikatu rehe nde gueraha tenda jerovia'ỹhápe. Emboguesetéramo ko mba'e rehegua, ehechakuaa ko tape:
 rights-safebrowsing-term-1 = Eike tembipuru'i erohoryvévape
 rights-safebrowsing-term-2 = Eiporavo Tekorosãrã ta'ãngarupa
 rights-safebrowsing-term-3 = Embogue poravopyrã "{ enableSafeBrowsing-label }"
