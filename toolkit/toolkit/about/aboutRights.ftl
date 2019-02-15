@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+rights-title = Om dine rettigheter
 rights-intro = { -brand-full-name } er programvare basert på fri og åpen kildekode, utviklet av et samfunn med tusenvis av medlemmer rundt om i verden. Det er noen ting du bør vite:
 rights-intro-point-1 = { -brand-short-name } er tilgjengelig for deg under betingelsene i <a data-l10n-name="mozilla-public-license-link">Mozilla Public License</a>. Dette betyr at du kan bruke, kopiere og formidle { -brand-short-name } til andre. Du kan også forandre kildekoden til { -brand-short-name } for å passe til dine behov. Mozilla Public License gir deg også rett til å formidle forandrede versjoner.
 rights-intro-point-2 = Du gis ikke noen varemerkerettigheter eller lisenser til varemerker som tilhører Mozilla Foundation eller andre, noe som også gjelder Firefox-navnet og logoen.  Mer informasjon om varemerker finner du <a data-l10n-name="mozilla-trademarks-link">her</a>.
@@ -25,6 +26,8 @@ rights-locationawarebrowsing-term-2 = Skriv inn geo.enabled
 rights-locationawarebrowsing-term-3 = Dobbeltklikk på geo.enabled preference
 rights-locationawarebrowsing-term-4 = Stedsbevisst nettlesing er nå avslått
 rights-webservices-unbranded = En oversikt over informasjonstjenestene som dette produktet inneholder, samt informasjon om hvordan du kan slå av de, bør inkluderes her.
+rights-webservices-term-unbranded = Andre tjenestevilkår for dette produktet bør listes opp her.
+rights-webservices-term-1 = { -vendor-short-name } og dens bidragsytere, lisensgivere og partnere jobber for å tilby den mest nøyaktige og oppdaterte tjenesten.  Vi kan likevel ikke garantere at denne informasjonen er fullstendig og feilfri.  Det kan for eksempel hende at tjenesten for trygg nettlesing ikke indentifiserer noen risikable nettsteder, og noen trygge nettsteder kan feilaktig ha blitt klassifisert som risikable. All plasseringsinfo som returneres fra våre tjenestetilbydere er bare estimater, og verken vi eller tjenestetilbyderne garanterer for nøyaktigheten av plasseringsinformasjonen som gis.
 rights-webservices-term-2 = { -vendor-short-name } kan avslutte eller forandre Tjenestene etter eget ønske.
 rights-webservices-term-3 = Du er velkommen til å bruke disse Tjenestene med den medfølgende versjonen av { -brand-short-name }, og { -vendor-short-name } gir deg retten til å gjøre det.  { -vendor-short-name } og dens lisensgivere reserverer alle andre rettigheter til Tjenestene.  Disse betingelsene er ikke beregnet for å begrense rettighetene som er gitt under åpen kildekode-lisensene som gjelder for { -brand-short-name }, og den tilhørende kildekodeutgaven av { -brand-short-name }.
 rights-webservices-term-4 = <strong>Tjenestene er tilbydt "som-de-er."  { -vendor-short-name }, bidragsyterne, lisensgiverne og distributørene gir ingen garantier, verken eksplisitt eller implisitt, inkludert uten begrensinger, garantier for at Tjenestene skal passe til dine formål.  Du har den fullstendige risikoen for å velge Tjenestene for å oppnå dine hensikter, samt for kvaliteten og ytelsen til Tjenstene. Noen jurisdiksjoner tillater ikke at implisitte garantier ekskluderes, så denne disclaimeren kan muligens ikke gjelde deg.</strong>
