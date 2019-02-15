@@ -4,12 +4,15 @@
 
 rights-intro-point-5-unbranded = If this product incorporates web services, any applicable service terms for the service(s) should be linked to the <a data-l10n-name="mozilla-website-services-link">Web Site Services</a> section.
 rights-webservices-header = { -brand-full-name } Web-Based Information Services
+rights-safebrowsing = <strong>BrabhsadhTèarainte: </strong>Cha mholar dhut am brabhsadh tèarainte a chur à comas oir faodaidh gun tadhal thu air làraichean mì-thèarainte mar sin.  Ma tha thu airson am feart seo a chur dheth gu tur, dèan na leanas:
 rights-safebrowsing-term-2 = Tagh roghainn na tèarainteachd
 rights-safebrowsing-term-4 = Tha am brabhsadh tèarainte dheth a-nis
+rights-locationawarebrowsing = <strong>Brabhsadh a mhothaiches dha d' àite: </strong>seo rud a dh'fheumas tu a chur air an-còmhnaidh.  Cha dèid fiosrachadh mu d' àite a chur a-null gun do chead idir.  Ma tha thu airson am feart seo a chur dheth gu tur, dèan nan leanas:
 rights-locationawarebrowsing-term-1 = Cuir na leanas sa bhàr URL <code>about:config</code>
 rights-locationawarebrowsing-term-2 = Cuir a-steach geo.enabled
 rights-locationawarebrowsing-term-3 = Dèan briogadh dùbailte air an roghainn geo.enabled
 rights-locationawarebrowsing-term-4 = Tha brabhsadh a mhothaicheas dha d' àite dheth a-nis
+rights-webservices-unbranded = An overview of the web site services the product incorporates, along with instructions on how to disable them, if applicable, should be included here.
 rights-webservices-term-unbranded = Any applicable service terms for this product should be listed here.
 rights-webservices-term-1 = { -vendor-short-name } and its contributors, licensors and partners work to provide the most accurate and up-to-date Services.  However, we cannot guarantee that this information is comprehensive and error-free.  For example, the Safe Browsing Service may not identify some risky sites and may identify some safe sites in error and the Location Aware Service all locations returned by our service providers are estimates only and neither we nor our service providers guarantee the accuracy of the locations provided.
 rights-webservices-term-2 = { -vendor-short-name } may discontinue or change the Services at its discretion.
