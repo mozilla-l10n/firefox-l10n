@@ -93,7 +93,7 @@ These two items have the same accesskey but will never be visible at the same ti
 <!ENTITY  moveToStart.accesskey              "i">
 <!ENTITY  moveToEnd.label                    "Mover al fin">
 <!ENTITY  moveToEnd.accesskey                "f">
-<!ENTITY  moveToNewWindow.label              "Mover a un nove fenestra">
+<!ENTITY  moveToNewWindow.label              "Displaciar a un nove fenestra">
 <!ENTITY  moveToNewWindow.accesskey          "f">
 <!ENTITY  reopenInContainer.label            "Reaperir in Container">
 <!ENTITY  reopenInContainer.accesskey        "e">

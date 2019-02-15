@@ -6,7 +6,7 @@
 
 <!ENTITY tabCrashed.closeTab2  "Clauder le scheda">
 <!ENTITY tabCrashed.restoreTab "Restaurar iste scheda">
-<!ENTITY tabCrashed.restoreAll "Restaurar tote le schedas collabite">
+<!ENTITY tabCrashed.restoreAll "Restaurar tote le schedas fracassate">
 
 <!-- LOCALIZATION NOTE (tabCrashed.header2): "Gah" is an English slang word
      used to express surprise or frustration (or both at the same time).  We
@@ -15,7 +15,7 @@
      happen. If you have a similar word or short phrase that is not profane or
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
-<!ENTITY tabCrashed.header2 "Guai. Tu scheda ha justo collabite.">
+<!ENTITY tabCrashed.header2 "Guai. Tu scheda ha justo fracassate.">
 <!ENTITY tabCrashed.offerHelp2 "Nos pote adjutar!">
 <!ENTITY tabCrashed.single.offerHelpMessage2 "Selige &tabCrashed.restoreTab; pro recargar le pagina.">
 <!ENTITY tabCrashed.multiple.offerHelpMessage2 "Selige &tabCrashed.restoreTab; o &tabCrashed.restoreAll; pro recargar le contento del pagina/paginas.">
