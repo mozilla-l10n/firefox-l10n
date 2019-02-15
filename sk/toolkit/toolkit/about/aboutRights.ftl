@@ -10,11 +10,13 @@ rights-intro-point-4 = Informácie o tom, ako používame vaše súkromné údaj
 rights-intro-point-4-unbranded = Tu by mali byť dostupné všetky zásady ochrany súkromia vzťahujúce sa na tento produkt.
 rights-intro-point-5 = Niektoré funkcie programu { -brand-short-name } využívajú na svoju činnosť webové služby. Nemôžeme však zaručiť, že tieto pracujú na 100% a sú dostupné bez chýb. Ďalšie podrobnosti vrátane informácií o možnostiach vypnutia funkcií, ktoré využívajú takéto služby, nájdete v <a data-l10n-name="mozilla-service-terms-link">podmienkach použitia</a>.
 rights-intro-point-5-unbranded = Ak sú súčasťou tohto produktu webové služby, podmienky použitia týchto služieb by mali byť uvedené v sekcii <a data-l10n-name="mozilla-website-services-link">Služby webových stránok</a>.
+rights-intro-point-6 = Aby bolo možné prehrávať určité typy video obsahu, { -brand-short-name } inštaluje moduly na dekódovanie obsahu od tretích strán.
 rights-webservices-header = { -brand-full-name } - Informačné služby webových stránok
 rights-webservices = { -brand-full-name } využíva služby webových stránok (ďalej len "Služby") na funkčnosť niektorých funkcií poskytnutých s binárnou verziou aplikácie { -brand-short-name } tak, ako je popísané nižšie.  Ak nechcete jednu alebo viac týchto Služieb používať alebo podmienky ich používania nie sú pre vás prijateľné, môžete Služby alebo funkcie vypnúť. Inštrukcie, ako vypnúť konkrétnu funkciu alebo Službu, nájdete <a data-l10n-name="mozilla-disable-service-link">tu</a>. Ďalšie funkcie a Služby je možné vypnúť v nastaveniach aplikácie.
 rights-safebrowsing = <strong>Služba SafeBrowsing: </strong>Vypnutie služby Safe Browsing sa neodporúča, pretože môže viesť k tomu, že sa dostanete na nebezpečné stránky. Ak si túto službu prajete vypnúť, postupujte nasledovne:
 rights-safebrowsing-term-1 = Otvorte okno nastavení aplikácie
 rights-safebrowsing-term-2 = Zvoľte panel Bezpečnosť
+enableSafeBrowsing-label = Blokovať nebezpečný a podvodný obsah
 rights-safebrowsing-term-4 = Služba Safe Browsing je teraz vypnutá
 rights-locationawarebrowsing = <strong>Služba Prehliadanie s geolokáciou: </strong>Je vždy voliteľná. Bez vášho povolenia nie sú nikdy odoslané žiadne údaje. Ak chcete túto službu vypnúť, postupujte nasledovne:
 rights-locationawarebrowsing-term-1 = Do panela s adresou zadajte <code>about:config</code>
