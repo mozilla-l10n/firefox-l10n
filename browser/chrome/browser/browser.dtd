@@ -1129,7 +1129,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addonPostInstallMessage.label "მართეთ თქვენი დამატებები <image class='addon-addon-icon'/> ხატულაზე დაწკაპებით, <image class='addon-toolbar-icon'/> მენიუში.">
 
 <!ENTITY addonPrivateBrowsing.header.label "გაფართოებები პირად ფანჯრებში">
-<!ENTITY addonPrivateBrowsing.body.label "გაფართოებების გაშვება არაა დაშვებული ნაგულისხმევად პირად ფანჯრებში. ისინი არ იმუშავებს პირადი თვალიერებისას და არ ექნება წვდომა თქვენს მოქმედებებზე. თითოეული გაფართოების დაშვება პირად ფანჯრებში, შესაძლებელია შესაბამისი პარამეტრებიდან.">
+<!ENTITY addonPrivateBrowsing.body.label "გაფართოებების გაშვება არაა დაშვებული ნაგულისხმევად პირად ფანჯრებში. ისინი არ იმუშავებს პირადი თვალიერებისას და არ ექნება წვდომა თქვენს მოქმედებებზე. ცალკეული გაფართოების დაშვება პირად ფანჯრებში, შესაძლებელია შესაბამისი პარამეტრებიდან.">
 <!ENTITY addonPrivateBrowsing.okButton.label "კარგი, გასაგებია">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "გ">
 <!ENTITY addonPrivateBrowsing.manageButton.label "გაფართოებების მართვა">
