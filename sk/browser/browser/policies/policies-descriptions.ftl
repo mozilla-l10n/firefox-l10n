@@ -17,7 +17,6 @@ policy-BlockAboutConfig = Zablokuje prístup na stránku about:config.
 policy-BlockAboutProfiles = Zablokuje prístup na stránku about:profiles.
 policy-BlockAboutSupport = Zablokuje prístup na stránku about:support.
 policy-Bookmarks = Vytvorí záložku na paneli záložiek, v ponuke alebo vo vybranom priečinku.
-policy-Certificates = Určí, či sa má použiť systémové úložisko certifikátov. V súčasnosti je podpora len pre systém Windows.
 policy-CertificatesDescription = Pridá certifikáty alebo použije zabudované certifikáty.
 policy-Cookies = Povolí alebo zakáže webovým stránkam nastavovať cookies.
 policy-DisableAppUpdate = Zabráni aktualizáciám prehliadača.
@@ -37,7 +36,6 @@ policy-DisableProfileImport = Zablokuje možnosť importu údajov z iných prehl
 policy-DisableProfileRefresh = Zablokuje tlačidlo pre obnovu aplikácie { -brand-short-name } na stránke about:support.
 policy-DisableSafeMode = Zablokuje funkciu reštartu so zakázanými doplnkami. Poznámka: prechod do núdzového režimu podržaním klávesy Shift je v systéme Windows možné len pomocou skupinovej politiky.
 policy-DisableSecurityBypass = Zabráni používateľovi v obchádzaní niektorých bezpečnostných varovaní.
-policy-DisableSetDesktopBackground = Zablokuje kontextovú ponuku pre nastavenie obrázku ako pozadia plochy.
 policy-DisableSetAsDesktopBackground = Zablokuje kontextovú ponuku obrázkov a ich možnosť nastaviť ich ako pozadie plochy.
 policy-DisableSystemAddonUpdate = Zablokuje inštaláciu a aktualizáciu systémových doplnkov prehliadača.
 policy-DisableTelemetry = Vypne telemetriu.
@@ -69,5 +67,7 @@ policy-SearchBar = Nastaví predvolené umiestnenie vyhľadávacieho poľa. Pou�
 policy-SearchEngines = Nakonfiguruje nastavenie vyhľadávacích modulov. Toto pravidlo je dostupné len vo verzii s rozšírenou podporou (ESR).
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Nainštaluje moduly PKCS #11.
+policy-SSLVersionMax = Nastaví maximálnu verziu SSL.
+policy-SSLVersionMin = Nastaví minimálnu verziu SSL.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Zablokuje prístup na určité webové stránky. Ďalšie informácie o formáte nájdete v dokumentácii.
