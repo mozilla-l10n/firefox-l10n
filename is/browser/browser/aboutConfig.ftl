@@ -3,9 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 # An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
-about-config-warning-title = Hérna séu drekar!
+about-config-warning-title = Varúð, þú ert á tröllaslóðum!
 about-config-warning-checkbox = Pirra mig aftur, takk!
 about-config-warning-button = Ég samþykki áhættuna
+about-config-title = about:config
+about-config-search =
+    .placeholder = Leita eða ýta á ESC til að sjá allt
 about-config-pref-add = Bæta við
 about-config-pref-toggle = Víxla
 about-config-pref-edit = Breyta
