@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+rights-title = Về quyền lợi của bạn
 rights-intro = { -brand-full-name } là phần mềm tự do mã nguồn mở, được xây dựng bởi một cộng đồng gồm hàng nghìn người trên khắp thế giới. Có vài điều mà bạn nên biết:
 rights-intro-point-1 = { -brand-short-name } hiện hữu trước bạn theo điều khoản <a data-l10n-name="mozilla-public-license-link">Giấy Phép Công Cộng Mozilla</a>. Điều này có nghĩa là bạn có thể sử dụng, sao chép và phân phối { -brand-short-name } đến người khác. Bạn cũng được hoan nghênh trong việc chỉnh sửa mã nguồn của { -brand-short-name } cho phù hợp với nhu cầu của mình. Giấy Phép Công Cộng Mozilla cũng cho bạn quyền phân phối phiên bản được chỉnh sửa đó.
 rights-intro-point-2 = Bạn không được trao bất kì giấy phép hay quyền thương hiệu nào đối với thương hiệu của Quỹ Mozilla hay tổ chức bất kì, bao gồm và không giới hạn tên hoặc biểu trưng Firefox. Thông tin thêm về thương hiệu có thể được tìm <a data-l10n-name="mozilla-trademarks-link">tại đây</a>.
@@ -14,13 +15,16 @@ rights-webservices = { -brand-full-name } dùng dịch vụ thông tin dựa tr�
 rights-safebrowsing = <strong>Duyệt web An toàn: </strong>Vô hiệu hóa tính năng Duyệt web An toàn là không nên vì nó có thể làm bạn đi vào các trang không an toàn. Nếu bạn muốn vô hiệu hóa hoàn toàn tính năng, hãy theo các bước sau:
 rights-safebrowsing-term-1 = Mở tùy chỉnh ứng dụng
 rights-safebrowsing-term-2 = Chọn lựa chọn Bảo mật
+rights-safebrowsing-term-3 = Bỏ chọn tùy chọn "{ enableSafeBrowsing-label }"
 enableSafeBrowsing-label = Chặn nội dung lừa đảo và không an toàn
+rights-safebrowsing-term-4 = Duyệt web An toàn bây giờ đã bị vô hiệu hóa
 rights-locationawarebrowsing = <strong>Duyệt web Nhận diện Vị trí: </strong>luôn có sẵn. Không có thông tin địa điểm nào được gửi đi mà không có sự cho phép của bạn. Nếu bạn muốn vô hiệu hóa hoàn toàn tính năng này, làm theo các bước sau:
 rights-locationawarebrowsing-term-1 = Trong thanh URL, gõ <code>about:config</code>
 rights-locationawarebrowsing-term-2 = Gõ geo.enabled
 rights-locationawarebrowsing-term-3 = Nhấp đôi vào tùy chỉnh geo.enabled
 rights-locationawarebrowsing-term-4 = Duyệt web Nhận diện Địa điểm bây giờ đã bị vô hiệu hóa
 rights-webservices-unbranded = Tổng quan về các dịch vụ đối với trang web mà sản phẩm này kết hợp, cùng với các chỉ dẫn về cách vô hiệu hóa chúng, nếu thích hợp, sẽ được bao gồm ở đây.
+rights-webservices-term-unbranded = Bất kì điều khoản dịch vụ nào cho sản phẩm này sẽ được liệt kê tại đây.
 rights-webservices-term-1 = { -vendor-short-name } và những bên đóng góp, những bên cấp phép và những đối tác làm việc để cung cấp Dịch Vụ mới và chính xác nhất. Tuy nhiên, chúng tôi không thể đảm bảo rằng thông tin này là toàn diện và không có lỗi. Ví dụ, Dịch vụ Duyệt web An toàn có thể không nhận diện các trang nguy hiểm và có thể nhận diện nhầm các trang an toàn, và trong Dịch vụ Nhận diện Địa điểm, tất cả địa điểm trả lại bởi nhà cung cấp dịch vụ của chúng tôi chỉ là ước tính và chúng tôi lẫn nhà cung cấp dịch vụ không đảm bảo tính chính xác của các địa điểm đó.
 rights-webservices-term-2 = { -vendor-short-name } có thể ngừng hoặc thay đổi Dịch Vụ theo ý mình.
 rights-webservices-term-3 = Bạn được hoan nghênh sử dụng những Dịch Vụ này trong phiên bản { -brand-short-name } đi kèm, và { -vendor-short-name } trao cho bạn quyền làm vậy. { -vendor-short-name } và những bên cấp phép của nó bảo lưu tất cả quyền khác trong Dịch Vụ. Những điều khoản này không nhằm giới hạn bất kì quyền nào được trao theo giấy phép mã nguồn mở áp dụng cho { -brand-short-name } và phiên bản mã nguồn tương ứng của { -brand-short-name }.
