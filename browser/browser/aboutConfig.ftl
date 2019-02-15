@@ -4,6 +4,7 @@
 
 # An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
 about-config-warning-title = Varúð, þú ert á tröllaslóðum!
+about-config-warning-text = Ef átt er við þessar stillingar getur það haft neikvæð áhrif á stöðugleika, öryggi og almenna keyrslu forritsins. Varast skal að breyta þeim nema maður sé fullviss um afleiðingarnar.
 about-config-warning-checkbox = Pirra mig aftur, takk!
 about-config-warning-button = Ég samþykki áhættuna
 about-config-title = about:config
