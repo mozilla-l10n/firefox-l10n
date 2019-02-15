@@ -18,6 +18,7 @@ rights-safebrowsing = <strong>SafeBrowsing: </strong>Disabling the Safe Browsing
 rights-safebrowsing-term-1 = Open the application preferences
 rights-safebrowsing-term-2 = Select the Security selection
 rights-safebrowsing-term-3 = "{ enableSafeBrowsing-label }" વિકલ્પને અનચેક કરો
+enableSafeBrowsing-label = ખતરનાક અને ભ્રામક સામગ્રીને અવરોધિત કરો
 rights-safebrowsing-term-4 = Safe Browsing is now disabled
 rights-locationawarebrowsing = <strong>Location Aware Browsing: </strong>is always opt-in.  No location information is ever sent without your permission.  If you wish to disable the feature completely, follow these steps:
 rights-locationawarebrowsing-term-1 = In the URL bar, type <code>about:config</code>
