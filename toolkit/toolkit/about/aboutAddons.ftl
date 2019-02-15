@@ -215,4 +215,15 @@ extensions-updates-update-selected =
 
 ## Extension shortcut management
 
+manage-extensions-shortcuts =
+    .label = Spravovať klávesové skratky pre rozšírenia
+    .accesskey = n
+shortcuts-no-commands = Nasledujúce rozšírenia nemajú skratky:
+shortcuts-letter = Napíšte písmeno
 shortcuts-card-collapse-button = Zobraziť menej
+go-back-button =
+    .tooltiptext = Späť
+
+## Add-on actions
+
+remove-addon-button = Odstrániť

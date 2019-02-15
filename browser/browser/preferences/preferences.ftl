@@ -4,10 +4,6 @@
 
 do-not-track-description = Požiadať webové stránky pomocou signálu “Do Not Track”, aby vás nesledovali
 do-not-track-learn-more = Ďalšie informácie
-do-not-track-option-default =
-    .label = Len pri použití Ochrany pred sledovaním
-do-not-track-option-default-content-blocking =
-    .label = Len ak je zapnuté blokovanie nájdených sledovacích prvkov
 do-not-track-option-default-content-blocking-known =
     .label = Len ak je zapnuté blokovanie známych sledovacích prvkov
 do-not-track-option-always =
@@ -95,9 +91,6 @@ extension-controlled-default-search = Rozšírenie <img data-l10n-name="icon"/> 
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = Rozšírenie <img data-l10n-name="icon"/> { $name } vyžaduje aktiváciu kontajnerových kariet.
-# This string is shown to notify the user that their tracking protection preferences
-# are being controlled by an extension.
-extension-controlled-websites-tracking-protection-mode = Rozšírenie <img data-l10n-name="icon"/> { $name } kontroluje ochranu pred sledovaním.
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
 extension-controlled-websites-content-blocking-all-trackers = Toto nastavenie spravuje rozšírenie <img data-l10n-name="icon"/> { $name }.
@@ -609,12 +602,6 @@ sitedata-total-size-calculating = Výpočet veľkosti údajov stránky a vyrovn�
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Uložené cookies, údaje stránok a vyrovnávacia pamäť zaberajú { $value } { $unit } priestoru na disku.
 sitedata-learn-more = Ďalšie informácie
-sitedata-keep-until = Uchovávať cookies do
-    .accesskey = U
-sitedata-keep-until-expire =
-    .label = vypršania platnosti
-sitedata-keep-until-closed =
-    .label = ukončenia aplikácie { -brand-short-name }
 sitedata-delete-on-close =
     .label = Odstrániť cookies a údaje stránok pri zatvorení aplikácie { -brand-short-name }
     .accesskey = c
@@ -628,16 +615,6 @@ sitedata-disallow-cookies-option =
 # The list items are the strings named sitedata-block-*-option*.
 sitedata-block-desc = Blokovať
     .accesskey = l
-sitedata-block-trackers-option-recommended =
-    .label = sledovacie prvky tretích strán (odporúča sa)
-sitedata-block-trackers-option =
-    .label = sledovacie prvky tretích strán
-sitedata-block-unvisited-option =
-    .label = cookies z nenavštívených stránok
-sitedata-block-all-third-party-option =
-    .label = všetky cookies tretích strán (môže obmedziť fungovanie niektorých stránok)
-sitedata-block-all-option =
-    .label = všetky cookies (obmedzí fungovanie niektorých stránok)
 sitedata-option-block-trackers =
     .label = Sledovacie prvky tretích strán
 sitedata-option-block-unvisited =
@@ -652,13 +629,6 @@ sitedata-clear =
 sitedata-settings =
     .label = Spravovať údaje…
     .accesskey = S
-sitedata-cookies-exceptions =
-    .label = Výnimky…
-    .accesskey = m
-# This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
-# in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
-# Cookies and Site Data section.
-sitedata-warning-your-settings-prevent-changes = Vaše nastavenia blokovania obsahu bránia zmenám nastavenia cookies a údajov stránok.
 sitedata-cookies-permissions =
     .label = Spravovať povolenia…
     .accesskey = S
@@ -681,41 +651,8 @@ addressbar-suggestions-settings = Zmeniť nastavenia pre návrhy vyhľadávania
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Blokovanie obsahu a ochrana pred sledovaním
-content-blocking-desc = Zablokujte obsah tretích strán, ako sú reklamy alebo kód, ktorý spomaľuje načítanie stránok a sleduje vašu aktivitu na internete. Úroveň blokovania môžete upraviť podľa svojich vlastných požiadaviek na výkon a ochranu súkromia.
 content-blocking-description = Zablokujte obsah tretích strán, ktorý vás sleduje naprieč webom. Sami si určite, aká časť z vašej aktivity na internete sa bude ukladať a zdieľať medzi stránkami.
 content-blocking-learn-more = Ďalšie informácie
-content-blocking-restore-defaults =
-    .label = Obnoviť predvolené nastavenia
-    .accesskey = r
-content-blocking-toggle-on =
-    .tooltiptext = Vypnúť blokovanie obsahu
-content-blocking-toggle-off =
-    .tooltiptext = Zapnúť blokovanie obsahu
-content-blocking-toggle-label-on = ZAPNUTÉ
-    .accesskey = Z
-content-blocking-toggle-label-off = VYPNUTÉ
-    .accesskey = V
-content-blocking-category-label = Vyberte si, čo chcete blokovať
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-slow-loading-trackers-label =
-    .label = Spomaľovacie sledovacie prvky
-    .accesskey = S
-content-blocking-fastblock-new-description = Blokované budú len sledovacie prvky, ktoré spomaľujú načítanie stránok.
-content-blocking-tracking-protection-trackers-label =
-    .label = Sledovacie prvky
-    .accesskey = l
-content-blocking-tracking-protection-all-detected-trackers-label =
-    .label = Všetky nájdené sledovacie prvky
-    .accesskey = t
-content-blocking-tracking-protection-new-description = Blokované budú všetky známe sledovacie prvky. (Toto môže obmedziť fungovanie niektorých stránok.)
-content-blocking-tracking-protection-option-always =
-    .label = Vždy
-    .accesskey = V
-content-blocking-tracking-protection-option-private =
-    .label = Len v súkromných oknách
-    .accesskey = s
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 content-blocking-setting-standard =
@@ -737,6 +674,7 @@ content-blocking-all-windows-trackers = Známe sledovacie prvky sú blokované v
 content-blocking-all-third-party-cookies = Blokované sú všetky cookies tretích strán
 content-blocking-warning-title = Pozor!
 content-blocking-warning-desc = Blokovanie cookies a sledovacích prvkov môže spôsobiť rozbitie niektorých webových stránok. Na dôveryhodných stránkach môžete blokovanie jednoducho vypnúť.
+content-blocking-warning-description = Blokovanie obsahu môže spôsobiť rozbitie niektorých webových stránok. Na dôveryhodných stránkach môžete blokovanie jednoducho vypnúť.
 content-blocking-learn-how = Ďalšie informácie
 content-blocking-trackers-label =
     .label = Sledovacie prvky
@@ -748,51 +686,12 @@ content-blocking-option-private =
     .label = V režime Súkromné prehliadanie
     .accesskey = S
 content-blocking-tracking-protection-change-block-list = Zmeniť zoznam blokovania
-content-blocking-third-party-cookies-label =
-    .label = Cookies tretích strán
-    .accesskey = C
-content-blocking-reject-trackers-description = Blokovať všetky cookies tretích strán alebo len sledovacích prvkov.
-# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
-# of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
-# or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
-# the UI.
-content-blocking-reject-trackers-warning-your-settings-prevent-changes = Vaše nastavenie cookies a údajov stránok bránia zmenám nastavenia cookies tretích strán.
-content-blocking-change-cookie-settings =
-    .label = Zmeniť nastavenia cookies
-    .accesskey = s
-content-blocking-reject-trackers-block-trackers-option-recommended =
-    .label = Sledovacie prvky (odporúča sa)
-    .accesskey = v
-content-blocking-reject-trackers-block-trackers-option =
-    .label = Sledovacie prvky
-    .accesskey = k
-content-blocking-reject-trackers-all-third-parties-option =
-    .label = Všetky cookies tretích strán (môže obmedziť fungovanie niektorých stránok)
-    .accesskey = V
 content-blocking-cookies-label =
     .label = Cookies
     .accesskey = C
 
 ## Privacy Section - Tracking
 
-tracking-header = Ochrana pred sledovaním
-tracking-desc = Ochrana pred sledovaním blokuje sledovacie prvky, ktoré o vás zbierajú údaje naprieč webovými stránkami. <a data-l10n-name="learn-more">Ďalšie informácie o Ochrane pred sledovaním a o vašom súkromí</a>
-tracking-mode-label = Blokovať známe sledovacie prvky pomocou Ochrany pred sledovaním
-tracking-mode-always =
-    .label = Vždy
-    .accesskey = V
-tracking-mode-private =
-    .label = Len v súkromných oknách
-    .accesskey = L
-tracking-mode-never =
-    .label = Nikdy
-    .accesskey = N
-tracking-exceptions =
-    .label = Výnimky…
-    .accesskey = m
-tracking-change-block-list =
-    .label = Zmeniť zoznam blokovania…
-    .accesskey = Z
 tracking-manage-exceptions =
     .label = Správa výnimiek…
     .accesskey = S
@@ -824,6 +723,9 @@ permissions-block-autoplay-media =
     .label = Zabrániť stránkam automaticky prehrávať médiá so zvukom
     .accesskey = Z
 permissions-block-autoplay-media-menu = Pri pokuse o automatické prehranie médií so zvukom
+permissions-block-autoplay-media2 =
+    .label = Zabrániť stránkam automaticky prehrávať zvuk
+    .accesskey = z
 permissions-block-autoplay-media-exceptions =
     .label = Výnimky…
     .accesskey = V

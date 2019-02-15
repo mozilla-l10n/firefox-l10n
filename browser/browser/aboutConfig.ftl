@@ -17,6 +17,12 @@ about-config-pref-save = Uložiť
 about-config-pref-reset = Obnoviť
 about-config-pref-delete = Odstrániť
 
+## Labels for the type selection radio buttons shown when adding preferences.
+
+about-config-pref-add-type-boolean = Logická hodnota
+about-config-pref-add-type-number = Číslo
+about-config-pref-add-type-string = Textový reťazec
+
 ## Preferences with a non-default value are differentiated visually, and at the
 ## same time the state is made accessible to screen readers using an aria-label
 ## that won't be visible or copied to the clipboard.
