@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+rights-title = 여러분의 권리 알아보기
 rights-intro = { -brand-full-name }는 무료 오픈 소스 소프트웨어이며, 전세계 수천명의 커뮤니티 개발자에 의해 만들어지고 있습니다. 아래에 몇 가지 유의 사항을 알려 드립니다:
 rights-intro-point-1 = { -brand-short-name }는 다음 라이선스 조건하에서 사용 가능합니다 - <a data-l10n-name="mozilla-public-license-link">Mozilla Public License</a>본 라이선스는 { -brand-short-name }를 다른 사람에게 사용, 복사, 배포할 수 있습니다. 또한, { -brand-short-name }의 소스 코드를 원하는 요구에 맞추어 고칠 수 있습니다. Mozilla Public License는 또한 고친 버전을 재배포할 수도 있습니다.{ " " }
 rights-intro-point-2 = Mozilla는 Mozilla와 Firefox 상표 및 로고에 대한 사용 권한은 허가하지 않습니다. 자세한 사항은 상표권 부분을 참고하십시오.<a data-l10n-name="mozilla-trademarks-link">자세히</a>.
