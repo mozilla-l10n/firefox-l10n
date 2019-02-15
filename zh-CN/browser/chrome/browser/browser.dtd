@@ -996,6 +996,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Cookie">
 <!ENTITY contentBlocking.cookiesView.label "Cookie 和网站数据">
 
+<!ENTITY contentBlocking.cryptominers.label "加密货币挖矿程序">
+<!ENTITY contentBlocking.cryptominersView.label "加密货币挖矿程序">
+
+<!ENTITY contentBlocking.fingerprinters.label "数字指纹跟踪程序">
+<!ENTITY contentBlocking.fingerprintersView.label "数字指纹跟踪程序">
+
 <!ENTITY contentBlocking.openBreakageReportView2.label "反馈故障">
 <!ENTITY contentBlocking.breakageReportView.label "反馈故障">
 <!ENTITY contentBlocking.breakageReportView2.description "内容拦截可能导致某些网站出现问题。在您反馈故障时，您得以帮助 &brandShortName; 为所有人提供更好的体验。这将会向 Mozilla 发送网页的地址及浏览器的有关信息。">
