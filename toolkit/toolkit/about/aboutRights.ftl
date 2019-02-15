@@ -18,6 +18,7 @@ rights-locationawarebrowsing-term-2 = geo.enabled yazın
 rights-locationawarebrowsing-term-3 = geo.enabled tercihine çift tıklayın
 rights-locationawarebrowsing-term-4 = Konuma Duyarlı Gezinti artık devre dışıdır
 rights-webservices-term-unbranded = Bu ürünle ilgili tüm hizmet koşulları burada listelenmelidir.
+rights-webservices-term-1 = { -vendor-short-name } ve ona katkıda bulunanlar, lisans sahipleri ve iş ortakları en eksiksiz ve güncel Hizmetleri sunmak için birlikte çalışmaktadır. Buna rağmen bu bilgilerin kapsamlı ve hatasız olduğunu garanti edemeyiz. Örneğin, Güvenli Tarama Hizmeti bazı riskli siteleri tanımayabilir ve bazı güvenli siteleri hatalı tanıyabilir. Konuma Duyarlı Hizmet'te hizmet sağlayıcılarımız tarafından döndürülen tüm konumlar yalnızca tahmindir ve ne biz ne de hizmet sağlayıcılarımız bu konumların doğruluğunu garanti etmemekteyiz.
 rights-webservices-term-2 = { -vendor-short-name } kendi isteğiyle Hizmetleri durdurabilir veya değiştirebilir.
 rights-webservices-term-6 = { -vendor-short-name } gerekli gördüğünde bu şartları zaman zaman güncelleyebilir. Bu şartlar { -vendor-short-name }'nın yazılı onayı olmadan değiştirilemez veya iptal edilemez.
 rights-webservices-term-7 = Bu koşullar, kanun ihtilafi hükümleri hariç olmak üzere, ABD California eyalet yasalarıyla korunur. Bu koşulların herhangi bir kısmının hükümsüz veya uygulanamaz olması halinde geri kalan kısımlar geçerli ve etkili olmaya devam edecektir. Bu koşulların çeviri sürümüyle İngilizce sürümü arasında bir çelişki olması halinde İngilizce sürüm geçerli sayılacaktır.
