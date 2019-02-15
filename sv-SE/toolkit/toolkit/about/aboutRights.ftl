@@ -8,18 +8,23 @@ rights-intro-point-2 = Du ges ingen rätt till varumärken eller licenser till v
 rights-intro-point-3 = Vissa funktioner i { -brand-short-name }, såsom Kraschrapportören, ger dig möjlighet att ge feedback till { -vendor-short-name }. Genom att skicka in feedback ger du { -vendor-short-name } tillstånd att använda den för att förbättra sina produkter, publicera denna feedback på sina webbplatser och att distribuera den.
 rights-intro-point-4 = Hur vi använder dina personliga uppgifter och din feedback som du skickar till { -vendor-short-name } genom { -brand-short-name } finns beskrivet i <a data-l10n-name="mozilla-privacy-policy-link">{ -brand-short-name } sekretesspolicy</a>.
 rights-intro-point-4-unbranded = Tillämpliga sekretesspolicyer för denna produkt bör listas här.
+rights-intro-point-5 = Vissa funktioner i { -brand-short-name } använder webbaserade informationstjänster, men vi kan dock inte garantera att dessa är till 100 % felfria. Fler detaljer, med information om hur du inaktiverar de funktioner som använder dessa tjänster hittar du i <a data-l10n-name="mozilla-service-terms-link">tjänstevillkoren</a>.
 rights-intro-point-5-unbranded = Om den här produkten innehåller integrerade webbtjänster bör tillämpliga villkor för tjänsterna länkas till sektionen <a data-l10n-name="mozilla-website-services-link">webbplatstjänster</a> .
+rights-intro-point-6 = För att spela upp vissa typer av videoinnehåll, { -brand-short-name }hämtar innehåll från vissa dekrypteringsmoduler från tredje part.
 rights-webservices-header = { -brand-full-name } webbaserade informationstjänster
 rights-webservices = { -brand-full-name } använder webbaserade informationstjänster (”Tjänster”) för vissa funktioner i den här binära versionen av { -brand-short-name }. Villkoren för dessa beskrivs nedan. Om du inte vill använda en eller flera av dessa Tjänster eller om nedanstående villkor är oacceptabla, kan du inaktivera funktionen eller tjänsten. Instruktioner om hur du inaktiverar en särskild funktion eller tjänst finns <a data-l10n-name="mozilla-disable-service-link">här</a>. Andra funktioner och tjänster kan inaktiveras i programinställningarna.
 rights-safebrowsing = <strong>Säker surfning: </strong>Inaktivering av funktionen Säker surfning rekommenderas inte eftersom det kan leda till att du kommer till osäkra webbplatser.  Om du helt vill inaktivera funktionen, följ dessa steg:
 rights-safebrowsing-term-1 = Öppna programmets inställningar
 rights-safebrowsing-term-2 = Välj sektionen Säkerhet
+rights-safebrowsing-term-3 = Avmarkera alternativet "{ enableSafeBrowsing-label }"
+enableSafeBrowsing-label = Blockera farligt och vilseledande innehåll
 rights-safebrowsing-term-4 = Säker surfning är nu inaktiverad
 rights-locationawarebrowsing = <strong>Positionsberoende surfning: </strong>kräver alltid ditt medgivande.  Ingen positionsinformation skickas utan ditt tillstånd.  Om du helt vill inaktivera funktionen, följ dessa steg:
 rights-locationawarebrowsing-term-1 = I Adressfältet, skriv in <code>about:config</code>
 rights-locationawarebrowsing-term-2 = Skriv geo.enabled
 rights-locationawarebrowsing-term-3 = Dubbelklicka på inställningen geo.enabled
 rights-locationawarebrowsing-term-4 = Positionsberoende surfning är nu inaktiverad
+rights-webservices-unbranded = En översikt av de webbplatstjänster som är integrerade i produkten samt instruktioner om hur man om möjligt kan inaktivera dem bör finnas här.
 rights-webservices-term-1 = { -vendor-short-name } och dess medarbetare, licensgivare och partners arbetar för att förmedla de mest korrekta och aktuella Tjänsterna. Vi kan dock inte garantera att dessa uppgifter är fullständiga och felfria. Till exempel kanske Säker surfning inte identifierar en del riskabla webbplatser medan andra säkra webbplatser felaktigt pekas ut. För Positionsberoende surfning kommer alla positioner som våra tjänsteleverantörer returnerar endast att vara uppskattningar och varken vi eller våra tjänsteleverantörer garanterar precisionen i de förmedlade positionerna.
 rights-webservices-term-2 = { -vendor-short-name } förbehåller sig rätten att efter eget gottfinnande upphöra med eller modifiera dessa tjänster.
 rights-webservices-term-3 = Du är fri att använda dessa Tjänster med den medföljande versionen av { -brand-short-name }, och { -vendor-short-name } ger dig rättigheten att göra det. { -vendor-short-name } och dess licensgivare förbehåller sig alla andra rättigheter i Tjänsterna. Dessa villkor är inte avsedda att begränsa några rättigheter givna enligt licenser för öppen källkod som tillämpas på { -brand-short-name } och motsvarande källkodsversioner av { -brand-short-name }.
