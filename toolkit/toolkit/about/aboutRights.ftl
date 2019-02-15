@@ -18,6 +18,7 @@ rights-safebrowsing = <strong>Shfletim i Parrezik: </strong>Nuk këshillohet ça
 rights-safebrowsing-term-1 = Hapni parapëlqimet e aplikacionit
 rights-safebrowsing-term-2 = Përzgjidhni ndarjen Siguri
 rights-safebrowsing-term-3 = Hiqjani shenjën mundësisë te "{ enableSafeBrowsing-label }"
+enableSafeBrowsing-label = Bllokoni lëndë të rrezikshme dhe të rrejshme
 rights-safebrowsing-term-4 = Shfletimi i Parrezik Sigurt tani është çaktivizuar
 rights-locationawarebrowsing = <strong>Shfletimi i Ndjeshëm Ndaj Vendndodhjes: </strong>është përherë në dorën tuaj ta përdorni a jo. Kurrë nuk dërgohen të dhëna vendndodhjeje pa lejen tuaj. Nëse dëshironi ta çaktivizoni tërësisht veçorinë, ndiqni hapat vijues:
 rights-locationawarebrowsing-term-1 = Te shtylla e URL-ve, shtypni <code>about:config</code>
