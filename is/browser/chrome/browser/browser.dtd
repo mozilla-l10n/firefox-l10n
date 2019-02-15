@@ -880,6 +880,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsReloadHint "Þú gætir þurft að endurhlaða síðuna til að virkja breytingar.">
 <!ENTITY identity.permissionsPreferences.tooltip "Opna heimildastillingar">
 
+<!ENTITY identity.contentBlockingPreferences.tooltip "Opna stillingar um efnisblokkun">
 
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -1129,4 +1130,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY addonPrivateBrowsing.okButton.label "Allt í lagi, ég skil">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "O">
+<!ENTITY addonPrivateBrowsing.manageButton.label "Stjórna viðbótum">
 <!ENTITY addonPrivateBrowsing.manageButton.accesskey "M">
