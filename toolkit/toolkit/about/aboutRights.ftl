@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+rights-title = Tentang Hak Anda
 rights-intro = { -brand-full-name } adalah perangkat lunak bebas dan terbuka yang dibangun oleh ribuan anggota komunitas dari berbagai penjuru dunia. Ada beberapa hal yang perlu Anda ketahui:
 rights-intro-point-1 = { -brand-short-name } disediakan berdasarkan persyaratan dalam lisensi <a data-l10n-name="mozilla-public-license-link">Mozilla Public License</a>. Ini berarti Anda dapat menggunakan, menyalin, dan mendistribusikan { -brand-short-name } kepada pihak lain. Anda juga dapat memodifikasi kode sumber program { -brand-short-name } sesuai dengan kebutuhan Anda. Lisensi Mozilla Public License memberi hak kepada Anda untuk mendistribusikan versi yang telah Anda modifikasi.
 rights-intro-point-2 = Anda tidak diberi hak atau lisensi apa pun atas merek dagang Mozilla Foundation atau pihak lainnya, termasuk tanpa batas, nama atau logo Firefox. Informasi lebih lanjut mengenai Merek Dagang dapat Anda temukan <a data-l10n-name="mozilla-trademarks-link">di sini</a>.
@@ -24,6 +25,7 @@ rights-locationawarebrowsing-term-2 = Ketikkan geo.enabled
 rights-locationawarebrowsing-term-3 = Klik ganda pada item pengaturan geo.enabled
 rights-locationawarebrowsing-term-4 = Penjelajahan Berbasis Lokasi telah dinonaktifkan
 rights-webservices-unbranded = Deskripsi mengenai layanan web yang tersedia bersama produk, beserta petunjuk untuk mematikan layanan tersebut, jika dapat diterapkan, akan tersedia di bawah ini.
+rights-webservices-term-unbranded = Semua persyaratan layanan yang dapat diterapkan akan tersedia di bawah ini.
 rights-webservices-term-1 = { -vendor-short-name }, kontributornya, lisensornya, dan partnernya bekerja untuk menyediakan Layanan terakurat dan terbaru. Akan tetapi kami tidak dapat menjamin informasi tersebut bersifat komprehensif dan bebas dari kesalahan. Sebagai contoh, Layanan Safe Browsing mungkin tidak dapat mengidentifikasi situs yang berisiko dan situs yang aman salah diidentifikasi serta seluruh lokasi pada Layanan Berbasis Lokasi yang dikembalikan dari penyedia layanan kami hanya bersifat perkiraan serta kami atau pun penyedia layanan kami tidak dapat menjamin akurasi lokasi yang disediakan.
 rights-webservices-term-2 = { -vendor-short-name } dapat memberhentikan atau mengubah Layanan sesuai dengan kebijaksanaan masing-masing.
 rights-webservices-term-3 = Anda dipersilakan untuk menggunakan Layanan tersebut dengan menggunakan { -brand-short-name } yang disertakan dan { -vendor-short-name } memberikan hak kepada Anda untuk menggunakannya.  { -vendor-short-name } dan para lisensornya berhak atas seluruh hak lainnya dalam Layanan tersebut. Persyaratan ini tidak dimaksudkan untuk membatasi hak yang diberikan atas dasar lisensi kode sumber terbuka yang dapat diterapkan pada { -brand-short-name } dan versi kode sumber { -brand-short-name } yang berkaitan.
