@@ -47,3 +47,5 @@ size-GB = { $value } GB
 
 close-tab =
     .title = टॅब बंद करा
+show-addon =
+    .title = अॅड-ऑन व्यवस्थापक मध्ये दर्शवा

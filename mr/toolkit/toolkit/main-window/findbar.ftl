@@ -11,10 +11,14 @@ findbar-previous =
     .tooltiptext = शब्दसमुहाचे पूर्वीचे प्रत्यक्ष शोधा
 findbar-find-button-close =
     .tooltiptext = शोध पट्टी बंद करा
-findbar-highlight-all =
+findbar-highlight-all2 =
     .label = सर्व ठळक करा
-    .accesskey = l
-    .tooltiptext = वाक्यात आढळलेलं सर्व काही ठळक करा
+    .accesskey =
+        { PLATFORM() ->
+            [macos] l
+           *[other] a
+        }
+    .tooltiptext = आढळलेले सर्व वाक्यांश ठळक करा
 findbar-case-sensitive =
     .label = आकार जुळवा
     .accesskey = c
