@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+rights-title = War alhakey ga
 rights-intro = { -brand-full-name } ti goyjinay taŋante nda baytalhaya, kaŋ jamaa m'a tee, woo ti boro ženberyaŋ adduɲɲaa kul ra. Haya fooyaŋ goo no kaŋ war ga hima k'i bay:
 rights-intro-point-1 = { -brand-short-name } ga bara war se kalimawey wey bande <a data-l10n-name="mozilla-public-license-link">Mozilla baytal duɲe kaddasu</a>. Maanaa ti kaŋ war ga hin ka { -brand-short-name } ka goy, k'a berandi nda g'a žemna boro tanayaŋ še.  War ga hin ka { -brand-short-name } aššil ašariya nda takaa kaŋ ga tee war še nafaw. Mozilla baytal duɲe kaddasoo ga naŋ war ma dumey kaŋ war n'i barmay žemni.
 rights-intro-point-2 = War mana duu teekaw tammaasa alhaku wala duɲe kaddasu kul Mozilla Foundation do wala nga kondo tana foo, sanda kaŋ a ši nda Firefox maaɲoo wala maa-biyoo. Alhabar tontoni teekaw tammaasawey še ga hin ka duwandi <a data-l10n-name="mozilla-trademarks-link">ne</a>.
@@ -11,9 +12,12 @@ rights-intro-point-4-unbranded = Sutura jejebu laadawey kul kaŋ ga bara jinaa w
 rights-intro-point-5 = { -brand-short-name } alhaaley ga goy nda Interneti alhabar goyey; amma, ir ši hin ka tabatandi kaŋ i ga alhakiika kaŋ ikul ga cum wala firka šii i ra. Ka bay ka tonton, nda taka kaŋ ga alhaaley wey kaa goy ra, ga hin ka duwandi <a data-l10n-name="mozilla-service-terms-link">goy kalimawey ra</a>.
 rights-intro-point-5-unbranded = Nda Interneti goyyaŋ goo jinaa woo ra, kanandi-še goy kalimawey kul ga hima ka dobandi war <a data-l10n-name="mozilla-website-services-link">Interneti nungu goyey</a> dunboo.
 rights-webservices-header = { -brand-full-name } Interneti alhabar goyey
+rights-webservices = { -brand-full-name } ga goy nda interneti alhabar goyey ("Goymiɲey") ka too alhaaley wey jerey ma bara war se nda { -brand-short-name } cere-hinka dumoo woo se, kalimawey kaŋ šilbayandi ne ganda bande. Nda war ši baa ka goy nda goyey wey affoo wala affooyaŋ wala war ši yadda ne ganda kalimawey ga, war ga hin ka alhaaloo wala goy(ey) kaa. Yaamar, sanda takaa kaŋ nda alhaali wala goy tana ga hun, ga hin ka duwandi <a data-l10n-name="mozilla-disable-service-link">ne</a>. Alhaali nda goy tanayaŋ ga hin ka kayandi porogaramoo ibaayey ra.
 rights-safebrowsing = <strong>Naarumi saajante: </strong>Naarumi saajante alhaaloo kaayanoo ši yaamarandi, za a hin ka too war ma koy nunguyaŋ ra kaŋ ši nda naanay.  Nda war ga baa k'alhaaloo kaa sãy, hanga ceebandey wey:
 rights-safebrowsing-term-1 = Porogaram ibaayey feeri
 rights-safebrowsing-term-2 = Saajaw suubari suuba
+rights-safebrowsing-term-3 = Maasa kaa "{ enableSafeBrowsing-label }" suubaroo ga
+enableSafeBrowsing-label = Hasaraw wala zanba gundekuna gagay
 rights-safebrowsing-term-4 = Naarumi saajante kayandi sohõ
 rights-locationawarebrowsing = <strong>Gorodoo laasaabu naarumi: </strong>opt-in goo waati kul. Abada gorodoo alhabar kul ši sanbandi bila nda war duɲe.  Nda war ga booba k'alhaaloo kayandi sãy, hanga ceebandey wey:
 rights-locationawarebrowsing-term-1 = Hantum URL zuu-žeeroo ra <code>hanseyan:ga</code>
