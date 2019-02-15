@@ -7,7 +7,6 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "პ">
 
 <!ENTITY privateBrowsing.title                           "პირადი თვალიერების რეჟიმი">
-<!ENTITY privateBrowsing.title.tracking                  "პირადი დათვალიერების რეჟიმი თვალთვალისგან დაცვით">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.before       "პირადი ფანჯრით სარგებლობისას, Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "არ შეინახავს">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
@@ -28,15 +27,15 @@
 <!ENTITY aboutPrivateBrowsing.learnMore3.title           "პირადი თვალიერების რეჟიმზე">
 <!ENTITY aboutPrivateBrowsing.learnMore3.after           ".">
 
-<!ENTITY trackingProtection.title                        "თვალყურის დევნისგან დაცვა">
-<!ENTITY trackingProtection.description2                 "ვებსაიტების ნაწილი იყენებს მეთვალყურე ელემენტებს, რომლითაც შესაძლებელია ინტერნეტში თქვენს მოქმედებებზე თვალის მიდევნება. Firefox თვალყურის დევნისგან დაცვის საშუალებით კი ხდება, მსგავსი სახის ინფორმაციის შეგროვებისგან თავის არიდება.">
-
 <!ENTITY trackingProtection.startTour1                   "ნახეთ, როგორ მუშაობს">
 
 <!ENTITY contentBlocking.title                           "შიგთავსის შეზღუდვა">
 <!ENTITY contentBlocking.description                     "ვებგვერდების ნაწილი იყენებს მეთვალყურეებს, ინტერნეტში თქვენს მოქმედებებზე თვალის მისადევნებლად. პირად ფანჯრებში Firefox-ის შიგთავსის შეზღუდვა ავტომატურად აცილებს იმ მეთვალყურებს, რომლებსაც თქვენი მონაცემების აღრიცხვა შეუძლია, ინტერნეტით სარგებლობისას.">
 
 <!-- Strings for new Private Browsing with Search -->
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.search.placeholder): This is the placeholder
+                       text for the search box.   -->
+<!ENTITY aboutPrivateBrowsing.search.placeholder         "ძიება ინტერნეტში">
 <!ENTITY aboutPrivateBrowsing.info.title                 "თქვენ იმყოფებით პირად ფანჯარაში">
 <!ENTITY aboutPrivateBrowsing.info.description           "&brandShortName; გაასუფთავებს თქვენ მიერ მოძიებული და მონახულებული გვერდების ისტორიას პროგრამიდან გამოსვლისას ან ყველა პირადი ჩანართისა და ფანჯრის დახურვისას. მართალია ეს არ ფარავს თქვენს ვინაობას საიტებისა და ინტერნეტმომსახურების მომწოდებლისგან, თუმცა დაგეხმარებათ დაიცვათ პირადი მონაცემები კომპიუტერის სხვა მომხმარებლებისგან.">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article
