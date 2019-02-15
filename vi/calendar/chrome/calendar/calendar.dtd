@@ -168,7 +168,7 @@
 <!ENTITY calendar.context.deleteevent.accesskey       "a">
 <!ENTITY calendar.context.cutevent.label              "Cắt">
 <!ENTITY calendar.context.cutevent.accesskey          "t">
-<!ENTITY calendar.context.copyevent.label             "Chép">
+<!ENTITY calendar.context.copyevent.label             "Sao chép">
 <!ENTITY calendar.context.copyevent.accesskey         "C">
 <!ENTITY calendar.context.pasteevent.label            "Dán">
 <!ENTITY calendar.context.pasteevent.accesskey        "D">

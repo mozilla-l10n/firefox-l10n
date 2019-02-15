@@ -104,7 +104,7 @@
 <!ENTITY  event.menu.edit.redo.accesskey                  "L">
 <!ENTITY  event.menu.edit.cut.label                       "Cắt">
 <!ENTITY  event.menu.edit.cut.accesskey                   "t">
-<!ENTITY  event.menu.edit.copy.label                      "Chép">
+<!ENTITY  event.menu.edit.copy.label                      "Sao chép">
 <!ENTITY  event.menu.edit.copy.accesskey                  "C">
 <!ENTITY  event.menu.edit.paste.label                     "Dán">
 <!ENTITY  event.menu.edit.paste.accesskey                 "D">
