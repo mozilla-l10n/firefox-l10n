@@ -1,9 +1,0 @@
-<!ENTITY setPassword.title "Fetola Diphasewete e Kgolo">
-<!ENTITY setPassword.tokenName.label "Sesebediswa sa Tshireletseho">
-<!ENTITY setPassword.oldPassword.label "Phasewete ya Hajwale:">
-<!ENTITY setPassword.newPassword.label "Kenya phasewete e ntjha:">
-<!ENTITY setPassword.reenterPassword.label "Pheta phasewete:">
-<!ENTITY setPassword.meter.label "Mitara wa boemo ba phasewete">
-<!ENTITY setPassword.meter.loading "E a jara">
-<!ENTITY masterPasswordDescription.label "Phasewete e Kgolo e sebedisetswa ho sireletsa tlhahisoleseding e hlokolosi jwalo ka diphasewete tse lehlakoreng.  Ha o etsa Phasewete e Kgolo o tla kopuwa ho e kenya hang lekgetlo ka leng ha &brandShortName; e tla be e tlisa tlhahisoleseding e sireleditsweng ke phasewete.">
-<!ENTITY masterPasswordWarning.label "Etsa hore o hopole Phasewete e Kgolo eo o e setileng.  Ha o ka lebala Phasewete e Kgolo ya hao o tla sitwa ho fihlella tlhahisoleseding efe kapa efe e sireleditsweng ke yona.">
