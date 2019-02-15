@@ -10,6 +10,7 @@
 title = महत्त्वपूर्ण बातमी
 heading = आपल्या { -brand-short-name } प्रोफाइलमध्ये बदल
 changed-title = काय बदलले?
+changed-desc-profiles = { -brand-short-name }च्या ह्या स्थापनास नवीन प्रोफाइल आहे. प्रोफाइल म्हणजे असा फाईलचा संच जिथे Firefox वाचनखुणा, पासवर्ड आणि वापरकर्त्यांची पसंती साठवून ठेवतो.
 options-title = माझे पर्याय काय आहेत?
 resources = संसाधने:
 sync-header = साइन इन करा किंवा { -fxaccount-brand-name } तयार करा
