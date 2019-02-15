@@ -229,6 +229,7 @@ manage-extensions-shortcuts =
     .accesskey = S
 shortcuts-empty-message = 此擴充套件沒有用到快速鍵。
 shortcuts-no-addons = 您並未啟用任何擴充套件。
+shortcuts-no-commands = 下列擴充套件沒有快速鍵:
 shortcuts-input =
     .placeholder = 輸入快速鍵
 shortcuts-browserAction = 啟用快速鍵

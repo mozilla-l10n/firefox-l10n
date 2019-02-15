@@ -50,6 +50,7 @@ policy-EnableTrackingProtection = 開啟或關閉內容封鎖功能，並可選�
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
 policy-Extensions = 安裝、移除或鎖定擴充套件。安裝選項可加入網址或路徑作為參數。移除和鎖定選項則需要擴充套件 ID 作為參數。
+policy-ExtensionUpdate = 開啟或關閉擴充套件自動更新。
 policy-FlashPlugin = 允許或拒絕使用 Flash 擴充套件。
 policy-HardwareAcceleration = 若停用，就會關閉硬體加速。
 # “lock” means that the user won’t be able to change this setting
@@ -71,5 +72,6 @@ policy-SearchEngines = 調整搜尋引擎設定。此原則僅對 Extended Suppo
 policy-SecurityDevices = 安裝 PKCS #11 模組。
 policy-SSLVersionMax = 設定最大 SSL 版本。
 policy-SSLVersionMin = 設定最小 SSL 版本。
+policy-SupportMenu = 於說明選單內新增自訂的技術支援項目。
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = 封鎖網站，不讓使用者開啟。請參考文件取得設定格式的詳細資料。
