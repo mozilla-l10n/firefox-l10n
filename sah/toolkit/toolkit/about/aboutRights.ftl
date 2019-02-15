@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+rights-title = Эн быраабыҥ туһунан
 rights-intro = { -brand-full-name } босхо, аһаҕас куодтаах, тыһыынчанан аан дойду дьоно оҥорор програаммалара. Бу туһунан билиэхтээххин:
 rights-intro-point-1 = { -brand-short-name } маннык усулуобуйаҕа туһаныллар <a data-l10n-name="mozilla-public-license-link">Mozilla Public License</a>. Ол аата { -brand-short-name } програамманы туһаныаххын, төгүллүөххүн уонна тарҕатыаххын сөп.  Ону таһынан { -brand-short-name } куодун бэйэҥ баҕаҕынан уларытыаххын сөп. Mozilla лиссиэнсийэтэ уларыппыт програаммаҕын тарҕатаргын эмиэ көҥүллүүр.
 rights-intro-point-2 = Mozilla Foundation эбэтэр атын ханнык да тэрилтэ табаарынай бэлиэлэрэ эйиэхэ бэриллибэттэр, ол иһигэр  Firefox аата уонна логотииба. Табаарынай бэлиэлэр тустарынан  <a data-l10n-name="mozilla-trademarks-link">манна ааҕыаххын сөп</a>.
