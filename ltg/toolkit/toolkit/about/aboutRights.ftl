@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+rights-title = Par jiusu tīseibom
 rights-intro = { -brand-full-name } ir breiva bezmoksys attaiseituo koda programa, kū veidoj tyukstušym breivpruoteigū nu vysys pasaules. Ir dažys lītys, kū jiusim byutu vārts zynot:
 rights-intro-point-1 = { -brand-short-name } ir pīejams ar <a data-l10n-name="mozilla-public-license-link">Mozilla publiskuos licences</a>nūsaciejumym. Tys nūzeimei, ka jius varot breivi izmantuot, pavairuot iz izplateit { -brand-short-name } cytim.  Taipat jius drūsais varot maineit i papyldynuot { -brand-short-name } pyrmskodu piec sovim īskotym. Mozilla publiskā licence dūd jiusim tīseibys breivi izplateit sovys modificeituos versejis.
 rights-intro-point-2 = Mozilla nadūd jiusim tīseibys izmantuot Mozilla i Firefox preču zeimes i logo. Papyldus informaceja par preču zeimom ir atrūnoma <a data-l10n-name="mozilla-trademarks-link">ite</a>.
