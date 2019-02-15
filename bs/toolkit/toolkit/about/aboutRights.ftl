@@ -4,6 +4,7 @@
 
 rights-intro = { -brand-full-name } je besplatan softver otvorenog koda, kojeg je razvila zajednica sačinjena od hiljada ljudi iz cijelog svijeta. Postoji nekoliko stvari koje biste trebali znati:
 rights-intro-point-1 = { -brand-short-name } vam je dostupan pod uslovima <a data-l10n-name="mozilla-public-license-link">Mozilla Public License</a>. Ovo znači da možete koristiti, kopirati i distribuirati { -brand-short-name } drugima. Također smijete mijenjati izvorni kod { -brand-short-name }a prema vašim potrebama. Mozilla Public License vam daje pravo da distribuirate vaše modificirane verzije.
+rights-intro-point-2 = Vama nisu dodijeljena nikakva prava ili licence za zaštićene znakove Mozilla Foundationa ili drugog lica, uključujući bez ograničenja i Firefox ime i logo. Dodatne informacije o zaštićenim znakovima možete pronaći <a data-l10n-name="mozilla-trademarks-link">ovdje</a>.
 rights-intro-point-3 = Neke opcije u { -brand-short-name }u, poput Izvjestioca o rušenju, daju vam mogućnost da pošaljete povratne informacije { -vendor-short-name }-i. Slanjem povratnih informacija, { -vendor-short-name }-i dajete pravo da iste iskoristi za poboljšanje svojih proizvoda, da objavi informacije na svojim web stranicama, i da distribuira informacije.
 rights-intro-point-4 = Načini na koje koristimo vaše lične i povratne informacije koje ste poslali { -vendor-short-name }-i putem { -brand-short-name }a opisani su u <a data-l10n-name="mozilla-privacy-policy-link">{ -brand-short-name } Polici privatnosti</a>.
 rights-intro-point-4-unbranded = Bilo koje primjenjivo pravilo privatnosti za ovaj proizvod bi trebalo biti izlistano ovdje.
@@ -15,6 +16,7 @@ rights-safebrowsing-term-1 = Otvorite postavke aplikacije
 rights-safebrowsing-term-2 = Izaberite sekciju Sigurnost
 rights-safebrowsing-term-4 = Sigurno surfanje je sada onemogućeno
 rights-locationawarebrowsing = <strong>Lokacijski-svjesno surfanje: </strong>je uvijek opcionalno. Nijedna informacija o lokaciji nije poslata bez vaše dozvole. Ukoliko želite da onemogućite ovu opciju u potpunosti, pratite sljedeće korake:
+rights-locationawarebrowsing-term-1 = U traci za URL, upišite <code>about:config</code>
 rights-locationawarebrowsing-term-2 = Upišite geo.enabled
 rights-locationawarebrowsing-term-3 = Dva puta kliknite na geo.enabled postavku
 rights-locationawarebrowsing-term-4 = Lokacijski-svjesno surfanje je sada onemogućeno
