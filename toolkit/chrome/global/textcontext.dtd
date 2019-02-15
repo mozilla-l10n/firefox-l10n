@@ -4,7 +4,7 @@
 
 <!ENTITY cutCmd.label "Cắt">
 <!ENTITY cutCmd.accesskey "t">
-<!ENTITY copyCmd.label "Chép">
+<!ENTITY copyCmd.label "Sao chép">
 <!ENTITY copyCmd.accesskey "C">
 <!ENTITY pasteCmd.label "Dán">
 <!ENTITY pasteCmd.accesskey "D">
