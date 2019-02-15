@@ -30,5 +30,6 @@ blocklist-item-moz-std-desc = Autorise certains éléments de pistage afin que d
 blocklist-item-moz-full-name = Protection stricte de Disconnect.me.
 blocklist-item-moz-full-desc = Bloque les éléments de pistage connus. Certains sites peuvent ne pas fonctionner correctement.
 blocklist-item-moz-std-listName = Liste de blocage de niveau 1 (recommandé).
+blocklist-item-moz-std-description = Autorise certains traqueurs pour que moins de sites dysfonctionnent.
 blocklist-item-moz-full-listName = Liste de blocage de niveau 2.
 blocklist-item-moz-full-description = Bloque tous les traqueurs détectés. Certains sites web ou contenus peuvent ne pas se charger correctement.
