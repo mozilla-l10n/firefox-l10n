@@ -996,6 +996,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "ფუნთუშები">
 <!ENTITY contentBlocking.cookiesView.label "ფუნთუშები და საიტის მონაცემები">
 
+<!ENTITY contentBlocking.cryptominers.label "კრიპტოვალუტის გამომმუშავებლები">
+<!ENTITY contentBlocking.cryptominersView.label "კრიპტოვალუტის გამომმუშავებლები">
+
+<!ENTITY contentBlocking.fingerprinters.label "მომხმარებლის ამომცნობები">
+<!ENTITY contentBlocking.fingerprintersView.label "მომხმარებლის ამომცნობები">
+
 <!ENTITY contentBlocking.openBreakageReportView2.label "ხარვეზის მოხსენება">
 <!ENTITY contentBlocking.breakageReportView.label "ხარვეზების მოხსენება">
 <!ENTITY contentBlocking.breakageReportView2.description "შიგთავსის შეზღუდვის შედეგად, შესაძლოა საიტებმა გამართულად ვერ იმუშაოს. ხარვეზების მოხსენებით, თქვენ დაგვეხმარებით, რომ &brandShortName; გავხადოთ უკეთესი ყველასთვის. (შედეგად, Mozilla-ს გადაეგზავნება როგორც URL-ბმული, აგრეთვე თქვენი ბრაუზერის პარამეტრების მონაცემები)">
