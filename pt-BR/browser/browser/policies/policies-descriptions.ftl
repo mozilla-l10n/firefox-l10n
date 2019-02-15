@@ -17,7 +17,7 @@ policy-BlockAboutConfig = Bloquear acesso à página about:config.
 policy-BlockAboutProfiles = Bloquear acesso à página about:profiles.
 policy-BlockAboutSupport = Bloquear acesso à página about:support.
 policy-Bookmarks = Criar favoritos na barra de favoritos, no menu de favoritos ou uma pasta especificada dentro deles.
-policy-CaptivePortal = Ativa ou desativa suporte a portal cativo.
+policy-CaptivePortal = Ativar ou desativar suporte a portal cativo.
 policy-CertificatesDescription = Adicionar certificados ou utilizar certificados integrados.
 policy-Cookies = Permitir ou impedir que sites definam cookies.
 policy-DisableAppUpdate = Impedir a atualização do navegador.
@@ -50,6 +50,7 @@ policy-EnableTrackingProtection = Ativar ou desativar o bloqueio de conteúdo e,
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
 policy-Extensions = Instalar, desinstalar e bloquear extensões. A opção “Instalar” recebe URLs ou caminhos como parâmetros. As opções “Desinstalar” e "Bloqueado" usam IDs de extensões.
+policy-ExtensionUpdate = Ativar ou desativar atualizações automáticas de extensões.
 policy-FlashPlugin = Permitir ou negar o uso do plugin Flash.
 policy-HardwareAcceleration = Caso definido como "false", desativar a aceleração de hardware.
 # “lock” means that the user won’t be able to change this setting
@@ -69,7 +70,8 @@ policy-SearchBar = Definir a localização padrão da barra de pesquisa. O usuá
 policy-SearchEngines = Definir as configurações do mecanismo de pesquisa. Esta política está disponível somente na versão Extended Support Release (ESR).
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Instalar módulos PKCS #11.
-policy-SSLVersionMax = Defina a versão SSL máxima.
-policy-SSLVersionMin = Defina a versão SSL mínima.
+policy-SSLVersionMax = Definir a versão SSL máxima.
+policy-SSLVersionMin = Definir a versão SSL mínima.
+policy-SupportMenu = Adicionar um item de menu de suporte personalizado ao menu de ajuda.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Bloquear o acesso a determinados sites. Confira a documentação para mais detalhes sobre o formato.
