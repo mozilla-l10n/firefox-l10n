@@ -8,6 +8,7 @@ rights-intro-point-2 = Nisu vam odobrena nikakva prava na zaštitni znak ili lic
 rights-intro-point-4 = Način na koji koristimo vaše osobne informacije i povratne informacije poslane na { -vendor-short-name } kroz { -brand-short-name } je opisan u <a data-l10n-name="mozilla-privacy-policy-link">{ -brand-short-name } politici privatnosti</a>.
 rights-intro-point-4-unbranded = Bilo koje primjenjivo pravilo privatnosti za ovaj proizvod mora biti navedeno ovdje.
 rights-intro-point-5-unbranded = Ukoliko ovaj proizvod uključuje web usluge, svi primjenjivi uvjeti za tu uslugu bi trebali biti povezani na <a data-l10n-name="mozilla-website-services-link">Usluge web stranica</a> odjeljku.
+rights-webservices = Za pružanje nekih mogućnosti u ovoj binarnoj inačici, { -brand-full-name } koristi informacijske usluge na webu pod niže navedenim uvjetima. Ako ne želite koristiti jednu ili više ovih usluga ili su vam niže navedeni uvjeti neprihvatljivi, možete isključiti mogućnost ili uslugu/e. Upute za isključivanje određene mogućnosti ili usluge možete pronaći <a data-l10n-name="mozilla-disable-service-link">ovdje</a>. Druge mogućnosti i usluge se mogu onemogućiti u postavkama programa.
 rights-safebrowsing-term-1 = Otvorite postavke aplikacije
 rights-safebrowsing-term-2 = Odaberite kategoriju Sigurnost
 rights-locationawarebrowsing = <strong>Geolokacijsko pretraživanje: </strong>je uvijek dobrovoljno.  Informacije o lokaciji se nikada ne šalju bez vašeg dopuštenja.  Ako želite u potpunosti onemogućiti ovu mogućnost, slijedite ove korake:
