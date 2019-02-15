@@ -18,6 +18,7 @@ onboarding-start-browsing-button-label = התחלת גלישה
 ## The string for the button is found above, in the UI strings section
 
 onboarding-private-browsing-title = גלישה פרטית
+onboarding-private-browsing-text = תנו לגלוש בשקט. גלישה פרטית עם חסימת תוכן חוסמת אתרים שעוקבים אחריך ברחבי האינטרנט.
 onboarding-screenshots-title = צילומי מסך
 onboarding-screenshots-text = ניתן לצלם, לשמור ולשתף צילומי מסך מבלי לצאת מ־{ -brand-short-name }. ניתן לצלם את הדף כולו או חלק ממנו בעת הגלישה. לאחר מכן ניתן לשמור לאינטרנט לצורך גישה ושיתוף פשוטים.
 onboarding-addons-title = תוספות
@@ -26,6 +27,7 @@ onboarding-ghostery-title = Ghostery
 onboarding-ghostery-text = גלישה מהירה, חכמה או בטוחה יותר עם הרחבות כמו Ghostery, המאפשרת לך לחסום פרסומות מעצבנות.
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = סנכרון
+onboarding-fxa-text = הירשמו ל־{ -fxaccount-brand-name } וסנכרנו את הסימניות, הסיסמאות והלשוניות בכל מקום שבו תשתמשו ב־{ -brand-short-name }.
 
 ## Message strings belonging to the Return to AMO flow
 

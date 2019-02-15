@@ -29,3 +29,6 @@ blocklist-item-moz-std-name = חסימה בסיסית של Disconnect.me (מומ
 blocklist-item-moz-std-desc = אפשר חלק מרכיבי המעקב כדי לאפשר לאתרים לתפקד כראוי.
 blocklist-item-moz-full-name = חסימה קפדנית של Disconnect.me.
 blocklist-item-moz-full-desc = חסימת רכיבי מעקב מוכרים. חלק מהאתרים עשויים שלא לתפקד כראוי.
+blocklist-item-moz-std-listName = רשימת חסימה רמה 1 (מומלצת).
+blocklist-item-moz-full-listName = רשימת חסימה רמה 2.
+blocklist-item-moz-full-description = חסימת כל העוקבים שזוהו. ייתכן שאתרים או תוכן מסוים לא יטענו כראוי.
