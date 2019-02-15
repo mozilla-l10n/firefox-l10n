@@ -11,6 +11,7 @@ title = Mikilvægar fréttir
 heading = Breytingar á { -brand-short-name } reikningi þínum
 changed-title = Hvað breyttist?
 changed-desc-profiles = Þessi uppsetning af { -brand-short-name } inniheldur nýtt snið. Snið er safn skráa þar sem Firefox vistar upplýsingar, svo sem bókamerki, lykilorð og notandastillingar.
+options-title = Hverjir eru valkostir mínir?
 resources = Auðlindir:
 sync-header = Skráðu þig inn eða stofna { -fxaccount-brand-name }
 sync-label = Sláðu inn netfangið þitt

@@ -15,6 +15,7 @@ about-config-pref-delete = Eyða
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
+about-config-pref-add-type-boolean = Boole gildi
 about-config-pref-add-type-number = Númer
 about-config-pref-add-type-string = Strengur
 
