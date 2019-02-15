@@ -4,10 +4,14 @@
 
 rights-intro = { -brand-full-name } ଟି ମାଗଣା ଏବଂ  ମୁକ୍ତ ଉତ୍ସ ସଫ୍ଟୱେର ଅଟେ, ସମଗ୍ର ବିଶ୍ୱର ହଜାର ହଜାର ସଦସ୍ୟଙ୍କୁ ନେଇ ଗଠିତ ସମ୍ପ୍ରଦାୟ ଦ୍ୱାରା ନିର୍ମିତ। ଆପଣଙ୍କ ଜାଣିବା ପାଇଁ ଥିବା କିଛି ବିଷୟବସ୍ତୁ:
 rights-intro-point-1 = { -brand-short-name } ଟି Mozilla ସର୍ବସାଧାରଣ ଅନୁମତିପତ୍ର ନିତୀ ଅନ୍ତର୍ଗତରେ ଆପଣଙ୍କ ପାଇଁ<a data-l10n-name="mozilla-public-license-link">ଉପଲବ୍ଧ ହୋଇଥାଏ</a>। ଏହା ଅର୍ଥ ଆପଣ  { -brand-short-name } କୁ ଅନ୍ୟମାନଙ୍କ ପାଇଁ ବ୍ୟବହାର କରିପାରିବେ, ନକଲ କରିପାରିବେ ଏବଂ ବଣ୍ଟନ କରିପାରିବେ। ଆପଣ { -brand-short-name } ର ଉତ୍ସ ସଂକେତକୁ ମଧ୍ଯ ଆପଣଙ୍କ ଆବଶ୍ୟକତା ଅନୁସାରେ ପରିବର୍ତ୍ତନ କରିପାରିବେ। Mozilla ସର୍ବସାଧାରଣ ଅନୁମତିପତ୍ର ଆପଣଙ୍କୁ ନିଜର ପରିବର୍ତ୍ତିତ ସଂସ୍କରଣକୁ ବଣ୍ଟନ କରିବାର ଅଧିକାର ମଧ୍ଯ ପ୍ରଦାନ କରିଥାଏ।
+rights-intro-point-2 = ଆପଣଙ୍କୁ Mozilla ଅନୁଷ୍ଠାନ କିମ୍ବା ଅନ୍ୟ କୌଣସି ପକ୍ଷ ତରଫରୁ କୌଣସି ବ୍ୟବସାୟୀକ ଚିହ୍ନ ଅଧିକାର କିମ୍ବା ଅନୁମତି ପ୍ରଦାନ କରାଯାଇନଥାଏ , Firefox ନାମ କିମ୍ବା ପ୍ରତୀକକୁ ଅନ୍ତର୍ଭୁକ୍ତ କରି। ବ୍ୟବସାୟୀକ ଚିହ୍ନ ବିଷୟରେ ଅତିରିକ୍ତ ସୂଚନା  <a data-l10n-name="mozilla-trademarks-link">ଏଠାରେ ମିଳି ପାରିବ</a>.
 rights-intro-point-3 = { " " }{ -brand-short-name } ରେ ଥିବା କିଛି ବିଶେଷଗୁଣ, ଯେପରିକି ନଷ୍ଟ ବିବରଣୀ, ଆପଣଙ୍କୁ { -vendor-short-name } କୁ ମତାମତ ଦେବା ପାଇଁ ବିକଳ୍ପ ପ୍ରଦାନ କରିଥାଏ। ମତାମତ ଦାଖଲ କରିବା ପାଇଁ ବାଛିବା ଦ୍ୱାରା, ଆପଣ { -vendor-short-name } କୁ ଏହାର ଉତ୍ପାଦନ ବୃଦ୍ଧିକରିବା ପାଇଁ ମତାମତକୁ ବ୍ୟବହାର କରିବା ପାଇଁ, ଏହାର ୱେବସାଇଟରେ ମତାମତକୁ ପ୍ରକାଶ କରିବା ପାଇଁ, ଏବଂ ମତାମତକୁ ବଣ୍ଟନ କରିବା ପାଇଁ  ଅନୁମତି ଦେଇଥାନ୍ତି।
+rights-intro-point-4 = { " " }{ -vendor-short-name }ରେ { -brand-short-name } ମାଧ୍ଯମରେ ଦାଖଲ ହୋଇଥିବା ବ୍ୟକ୍ତିଗତ ସୂଚନା ଏବଂ ମତାମତକୁ କିପରି ବ୍ୟବହାର କରାଯିବ ତାହା ଏଠାରେ ବର୍ଣ୍ଣନା କରାଯାଇଛି <a data-l10n-name="mozilla-privacy-policy-link">{ -brand-short-name } ଗୋପନୀୟତା ନିତୀ</a>.
 rights-intro-point-4-unbranded = ଏହି ଉତ୍ପାଦ ପାଇଁ କୌଣସି ଉପଯୁକ୍ତ ଗୋପନୀୟ ନିତି ଏଠାରେ ତାଲିକାଭୁକ୍ତ ହେବା ଉଚିତ।
+rights-intro-point-5 = Some { -brand-short-name } features make use of web-based information services, however, we cannot guarantee they are 100% accurate or error-free. More details, including information on how to disable the features that use these services, can be found in the <a data-l10n-name="mozilla-service-terms-link">service terms</a>.
 rights-intro-point-5-unbranded = ଯଦି ଏହି ଉତ୍ପାଦ ୱେବ ସର୍ଭିସଗୁଡ଼ିକୁ ଚଲାଉଥାଏ, ତେବେ ସର୍ଭିସଗୁଡ଼ିକ ପାଇଁ ଯେକୌଣସି ଯୋଗ୍ୟ ସର୍ଭିସ ନିୟମାବଳୀକୁ <a data-l10n-name="mozilla-website-services-link">ୱେବ ସାଇଟ ସର୍ଭିସ ବିଭାଗ ସହିତ </a> ସଂଯୁକ୍ତ କରାଯାଇଥାଏ।
 rights-webservices-header = { -brand-full-name } ୱେବ ସାଇଟ ସର୍ଭିସଗୁଡ଼ିକ
+rights-webservices = { -brand-full-name } ୱେବ ସାଇଟ ସୂଚନା ସର୍ଭିସଗୁଡ଼ିକୁ ବ୍ୟବହାର କରିଥାଏ("Services"), ଯାହାକି ନିମ୍ନରେ ବର୍ଣ୍ଣନା କରାଯାଇଥିବା ପରି ଏହି { -brand-short-name }ର ଦ୍ୱିମିକ ସଂସ୍କରଣ ସହିତ ଆପଣଙ୍କର ବ୍ୟବହାର ପାଇଁ ଉପଲବ୍ଧ ହୋଇଥାଏ। ଯଦି ଆପଣ ସେହି ସର୍ଭିସକୁ ବ୍ୟବହାର କରିବାକୁ ଚାହୁଁନାହାନ୍ତି କିମ୍ବା ଆପଣଙ୍କୁ ନିମ୍ନଲିଖିତ ନିୟମାବଳୀ ଗ୍ରହଣୀୟ ନୁହଁ, ତେବେ ଆପଣ ପ୍ରୟୋଗ ପସନ୍ଦକୁ ଖୋଲି ସୁରକ୍ଷା ବିଭାଗକୁ ଚୟନ କରି,<a data-l10n-name="mozilla-disable-service-link">ସର୍ଭିସକୁ ନିଷ୍କ୍ରିୟ କରିଥାଏ</a>. ଅନ୍ୟାନ୍ୟ ବିଶେଷତା ଏବଂ ସର୍ଭିସଗୁଡ଼ିକୁ ପ୍ରୟୋଗ ପସନ୍ଦଗୁଡ଼ିକରେ ନିଷ୍କ୍ରିୟ କରିପାରିବେ।
 rights-safebrowsing = <strong>ସୁରକ୍ଷିତ ବ୍ରାଉଜିଙ୍ଗ: </strong>ସୁରକ୍ଷିତ ବ୍ରାଉଜିଙ୍ଗ ବିଶେଷତାକୁ ନିଷ୍କ୍ରିୟ କରିବା ଫଳରେଏହା ଅସୁରକ୍ଷିତ ସାଇଟକୁ ଯାଇପାରେ। ଯଦି ଆପଣ ଏହି ବିଶେଷତାକୁ ସମ୍ପୂର୍ଣ୍ଣ ଭାବରେ  ନିଷ୍କ୍ରିୟ କରିବା ପାଇଁ ଚାହୁଁଛନ୍ତି, ତେବେ ନିମ୍ନଲିଖିତ ପଦକ୍ଷେପଗୁଡ଼ିକୁ ଅନୁସରଣ କରନ୍ତୁ:
 rights-safebrowsing-term-1 = ପ୍ରୟୋଗ ପସନ୍ଦଗୁଡ଼ିକୁ ଖୋଲନ୍ତୁ
 rights-safebrowsing-term-2 = ସୁରକ୍ଷା ଚୟନକୁ ବାଛନ୍ତୁ
@@ -17,6 +21,7 @@ rights-locationawarebrowsing-term-1 = URL ପଟିରେ, ଲେଖନ୍ତୁ
 rights-locationawarebrowsing-term-2 = { " " }geo.enabled ଲେଖନ୍ତୁ
 rights-locationawarebrowsing-term-3 = geo.enabled ପସନ୍ଦ ଉପରେ ଦୁଇଥର କ୍ଲିକ କରନ୍ତୁ
 rights-locationawarebrowsing-term-4 = ଅବସ୍ଥାନ ସଚେତନ ବ୍ରାଉଜିଙ୍ଗକୁ ବର୍ତ୍ତମାନ ନିଷ୍କ୍ରିୟ କରାଯାଇଛି
+rights-webservices-unbranded = ସେହି ଉତ୍ପାଦ ଚଲାଉଥିବା ୱେବ ସାଇଟ ସର୍ଭିସର  ଗୋଟିଏ ସମୀକ୍ଷା, ସେମାନଙ୍କୁ କିପରି ନିଷ୍କ୍ରିୟ କରାଯିବ ତାହା ବିଷୟରେ ସୂଚନା ସହିତ, ଯଦି ଉପଯୁକ୍ତ ହୁଏ, ତେବେ ଏଠାରେ ଅନ୍ତର୍ଭୁକ୍ତ କରିବା ଉଚିତ।
 rights-webservices-term-unbranded = ଏହି ଉତ୍ପାଦ ପାଇଁ ଯେ କୌଣସି ଉପଯୁକ୍ତ ସର୍ଭିସ ନିୟମାବଳୀକୁ ଏଠାରେ ତାଲିକାଭୁକ୍ତ କରିବା ଉଚିତ।
 rights-webservices-term-1 = { -vendor-short-name } ଏବଂ ଏହାର ସହଯୋଗୀ, ପ୍ରମାଣପତ୍ରଧାରୀ ଏବଂ ଭାଗିଦାରମାନେ ସଠିକ  ଏବଂ ସମ୍ପୂର୍ଣ୍ଣ ଫିସିଙ୍ଗ ଏବଂ ମାଲୱେର ସୂଚନା ପ୍ରଦାନ କରିବା ପାଇଁ କାର୍ଯ୍ୟ କରିଥାନ୍ତି। ତଥାପି, ସେମାନେ ଏହି ସୂଚନାଟି ବୋଧଗମ୍ୟ ଏବଂ ତ୍ରୁଟିମୁକ୍ତ ବୋଲି ନିର୍ଭରୋକ୍ତି ଦେଇପାରିବେ ନାହିଁ: କିଛି ବିପଦପୂର୍ଣ୍ଣ ସାଇଟଗୁଡ଼ିକୁ ଜାଣିହୁଏ ନାହିଁଏବଂ କିଛି ସୁରକ୍ଷିତ ସାଇଟ ତ୍ରୁଟିଯୁକ୍ତ ବୋଲି ଚିହ୍ନାପଡ଼ିଥାଏ।
 rights-webservices-term-2 = { -vendor-short-name } ବିଚ୍ଚିନ୍ନ ହୋଇପାରେ କିମ୍ବା ଏହାର  ବୃଦ୍ଧିରେ ସର୍ଭିସଗୁଡ଼ିକୁ ପରିବର୍ତ୍ତନ କରିଥାଏ।
