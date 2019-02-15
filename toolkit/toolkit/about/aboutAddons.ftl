@@ -90,6 +90,12 @@ detail-update-manual =
     .tooltiptext = Ekki setja sjálfvirkt inn uppfærslur
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Keyra í huliðsgluggum
+detail-private-browsing-on =
+    .label = Heimila
+    .tooltiptext = Heimila í huliðsvöfrun
+detail-private-browsing-off =
+    .label = Ekki heimila
+    .tooltiptext = Ekki heimila í huliðsvöfrun
 detail-home =
     .label = Heimasíða
 detail-home-value =
@@ -221,3 +227,11 @@ shortcuts-letter = Slá inn bókstaf
 shortcuts-card-collapse-button = Sýna minna
 go-back-button =
     .tooltiptext = Til baka
+
+## Add-on actions
+
+remove-addon-button = Fjarlægja
+disable-addon-button = Óvirkja
+enable-addon-button = Virkja
+addons-enabled-heading = Virkjað
+addons-disabled-heading = Óvirkt
