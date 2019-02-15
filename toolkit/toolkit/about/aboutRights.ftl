@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+rights-title = Aangaande u regte
 rights-intro = { -brand-full-name } is vrye, oop sagteware wat deur 'n gemeenskap van derduisende mense van reg oor die wêreld gebou is. Hier is 'n paar dinge wat u moet weet:
 rights-intro-point-1 = { -brand-short-name } word aan u beskikbaar gestel ingevolge die <a data-l10n-name="mozilla-public-license-link">Mozilla Publieke Lisensie</a>. Dit beteken dat u { -brand-short-name } kan gebruik, kopieer en versprei.  U kan ook die bronkode van { -brand-short-name } wysig, as u dit wil, om aan u behoeftes te voldoen. Die Mozilla Publieke Lisensie gee u ook die reg om gewysigde weergawes te versprei.
 rights-intro-point-2 = U kry nie enige handelsmerkregte of lisensies om die handelsmerke van die Mozilla Stigting of enige ander party te gebruik nie, waaronder sonder inperking die Firefox-naam of -logo. Bykomende inligting oor handelsmerke is <a data-l10n-name="mozilla-trademarks-link">hier</a> beskikbaar.
@@ -10,11 +11,14 @@ rights-intro-point-4 = Hoe ons u persoonlike inligting en terugvoer gebruik wat 
 rights-intro-point-4-unbranded = Enige toepaslike privaatheidbeleid vir hierdie produk sal daar gelys wees.
 rights-intro-point-5 = Sekere { -brand-short-name }-kenmerke gebruik webgebaseerde inligtingdienste, maar ons kan nie waarborg dat hulle 100% akkuraat of foutvry is nie. Meer inligting oor hoe om die kenmerke wat hierdie dienste gebruik, te deaktiveer, is in die <a data-l10n-name="mozilla-service-terms-link">diensbepalings</a> te kry.
 rights-intro-point-5-unbranded = Indien hierdie produk webdienste bevat, behoort enige toepaslike diensbepalings vir die diens(te) aan die <a data-l10n-name="mozilla-website-services-link">webwerfdienste</a>-afdeling gekoppel wees.
+rights-intro-point-6 = Om sekere soorte video te speel, laai { -brand-short-name } sekere modules vanaf derde partye af vir inhouddekripsie.
 rights-webservices-header = { -brand-full-name } se webgebaseerde inligtingsdienste
 rights-webservices = { -brand-full-name } gebruik webgebaseerde inligtingsdienste ("dienste") om van die kenmerke te bied in hierdie binêre weergawe van { -brand-short-name } ingevolge die bepalings hier onder. As u een of meer van die dienste nie wil gebruik nie of as die bepalings hier onder onaanvaarbaar is, kan u die kenmerk of diens(te) deaktiveer. Inligting oor hoe om 'n sekere kenmerk of diens te deaktiveer, is <a data-l10n-name="mozilla-disable-service-link">hier</a>. Ander funksies en dienste kan in die voorkeure gedeaktiveer word.
 rights-safebrowsing = <strong>Veiligblaai: </strong>Om Veiligblaai te deaktiveer word nie aanbeveel nie omdat u dan per ongeluk na onveilige werwe kan gaan.  As u die kenmerk volledig wil deaktiveer, volg hierdie stappe:
 rights-safebrowsing-term-1 = Maak die toepassing se voorkeure oop
 rights-safebrowsing-term-2 = Kies die soort beveiliging
+rights-safebrowsing-term-3 = Verwyder die merk by "{ enableSafeBrowsing-label }"
+enableSafeBrowsing-label = Blokkeer gevaarlike en bedrieglike inhoud
 rights-safebrowsing-term-4 = Veiligblaai is nou gedeaktiveer
 rights-locationawarebrowsing = <strong>Liggingbewuste blaaiery: </strong>werk altyd met vóórtoestemming.  Geen ligginginligting word ooit sonder u toestemming gestuur nie.  As u die kenmerk volledig wil deaktiveer, volg hierdie stappe:
 rights-locationawarebrowsing-term-1 = In die URL-balk, tik <code>aangaande:konfig</code>
