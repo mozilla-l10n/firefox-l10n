@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+rights-title = О ваших правах
 rights-intro = { -brand-full-name } является бесплатной программой с открытым исходным кодом, созданной многотысячным сообществом людей со всего мира. Вот несколько вещей, о которых вам следует знать:
 rights-intro-point-1 = { -brand-short-name } предоставляется вам на условиях <a data-l10n-name="mozilla-public-license-link">Публичной лицензии Mozilla</a>. Это значит, что вы можете использовать, копировать и распространять { -brand-short-name }.  Вы также можете модифицировать исходный код { -brand-short-name } в соответствии со своими нуждами. Публичная лицензия Mozilla также даёт вам право распространять изменённые вами сборки.
 rights-intro-point-2 = Вам не предоставляются никакие права или лицензии на товарные знаки Mozilla Foundation или любой другой стороны, в том числе на название или логотип Firefox. Дополнительная информация о товарных знаках приведена по <a data-l10n-name="mozilla-trademarks-link">следующему адресу</a>.
