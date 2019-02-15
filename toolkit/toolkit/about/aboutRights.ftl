@@ -10,6 +10,7 @@ rights-intro-point-3 = Деякі можливості { -brand-short-name }, т
 rights-intro-point-4 = Те, як ми використовуємо ваші особисті дані та повідомлення, надіслані до { -vendor-short-name } з допомогою { -brand-short-name }, описано в <a data-l10n-name="mozilla-privacy-policy-link">Політиці приватності { -brand-short-name }</a>.
 rights-intro-point-4-unbranded = Будь-які придатні для цього продукту угоди конфіденційності мають бути тут.
 rights-intro-point-5 = Деякі з можливостей { -brand-short-name } використовують послуги інформаційних веб-служб, однак, ми не можемо гарантувати, що вони на 100% точні чи достовірні. Додаткові подробиці, включно з інформацією як вимкнути ці служби, ви можете прочитати в <a data-l10n-name="mozilla-service-terms-link">угоді надання послуг</a>.
+rights-intro-point-5-unbranded = Якщо цей продукт включає послуги сайтів, то будь-які придатні угоди надання послуг для них мають бути додані посиланнями у розділі <a data-l10n-name="mozilla-website-services-link">Послуги сайтів</a> .
 rights-intro-point-6 = Для можливості відтворення окремих типів відеовмісту, { -brand-short-name } завантажує певні сторонні модулі дешифрування.
 rights-webservices-header = Інформаційні послуги веб-служб в { -brand-full-name }
 rights-webservices = { -brand-full-name } використовує інформаційні послуги веб-служб («Послуги») для забезпечення роботи деяких можливостей, що надаються з цією бінарною версією { -brand-short-name } на нижче наведених умовах. Якщо ви не хочете використовувати одну чи більше з Послуг чи нижче наведені умови для вас неприйнятні, то ви можете вимкнути можливість чи Послугу(и). Інструкції щодо того як вимкнути окрему можливість чи послугу ви можете знайти <a data-l10n-name="mozilla-disable-service-link">тут</a>. Інші можливості та служби можуть бути вимкнені у налаштуваннях програми.
@@ -17,6 +18,7 @@ rights-safebrowsing = <strong>SafeBrowsing: </strong>Вимкнення функ
 rights-safebrowsing-term-1 = Відкрийте налаштування програми
 rights-safebrowsing-term-2 = Оберіть розділ Безпека
 rights-safebrowsing-term-3 = Приберіть прапорець з "{ enableSafeBrowsing-label }"
+enableSafeBrowsing-label = Блокувати небезпечний і підозрілий вміст
 rights-safebrowsing-term-4 = Safe Browsing тепер вимкнено
 rights-locationawarebrowsing = <strong>Визначення розташування під час веб-перегляду: </strong>завжди потребує вашого підтвердження.  Інформація про розташування ніколи не надсилається без вашого дозволу.  Якщо ви бажаєте повністю вимкнути цю функцію, виконайте наступні кроки:
 rights-locationawarebrowsing-term-1 = В панелі адреси введіть <code>about:config</code>
