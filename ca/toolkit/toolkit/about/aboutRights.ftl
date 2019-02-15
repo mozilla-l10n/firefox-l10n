@@ -2,18 +2,22 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+rights-title = Conegueu els vostres drets
 rights-intro = El { -brand-full-name } és programari lliure i de codi obert, creat per una comunitat de milers de desenvolupadors d'arreu del món. Hi ha certs punts que caldria que coneguéssiu:
+rights-intro-point-1 = El { -brand-short-name } es posa a la vostra disposició sota els termes de la <a data-l10n-name="mozilla-public-license-link">Mozilla Public License (Llicència Pública de Mozilla)</a>. Això significa que podeu utilitzar, copiar i distribuir el { -brand-short-name } a altres. També es permet obertament la modificació del codi font del { -brand-short-name } per tal que s'adeqüi a les vostres necessitats. La Mozilla Public License us dóna també el dret de distribuir versions modificades.
 rights-intro-point-2 = No s'atorga cap dret ni cap llicència sobre les marques de la Fundació Mozilla, o de cap altra part, incloent-hi sense cap limitació el nom i el logotip del Firefox. Podeu trobar més informació referent a la política de marques <a data-l10n-name="mozilla-trademarks-link">aquí</a>.
 rights-intro-point-3 = Algunes funcions del { -brand-short-name }, com ara el Generador d'informes de fallada, us donen l'opció d'enviar comentaris a { -vendor-short-name }. Si opteu per enviar els vostres comentaris, autoritzeu { -vendor-short-name } a utilitzar la informació per millorar els seus productes, a publicar-la en els seus llocs web i a distribuir-la.
 rights-intro-point-4 = Com s'utilitza la vostra informació personal i els informes que hàgiu tramès a { -vendor-short-name } des del { -brand-short-name } es descriu a la <a data-l10n-name="mozilla-privacy-policy-link">política de privadesa del { -brand-short-name }</a>.
 rights-intro-point-4-unbranded = Les polítiques de privadesa que s'apliquen a aquest producte cal llistar-les aquí.
 rights-intro-point-5 = Algunes de les funcionalitats del { -brand-short-name } utilitzen serveis d'informació web; tot i així, no podem garantir que funcionin correctament ni que no continguin errors. Per obtenir més detalls, inclosa la informació de com inhabilitar les funcions que utilitzen aquests serveis, vegeu <a data-l10n-name="mozilla-service-terms-link">les condicions del servei</a>.
 rights-intro-point-5-unbranded = Si aquest producte incorpora serveis web, les condicions dels serveis que s'hi apliquin cal enllaçar-les a la secció de <a data-l10n-name="mozilla-website-services-link">Serveis del lloc web</a>.
+rights-intro-point-6 = Per tal de reproduir determinats tipus de contingut de vídeo, el { -brand-short-name } ha de baixar alguns mòduls de desxifratge de contingut de tercers.
 rights-webservices-header = Serveis d'informació web del { -brand-full-name }
 rights-webservices = El { -brand-full-name } utilitza serveis d'informació web («serveis» d'ara endavant), per proporcionar algunes de les funcionalitats disponibles per al vostre ús amb aquesta versió binària del { -brand-short-name }; tal com es descriu a continuació. Si no voleu un o més d'aquests serveis, o bé no considereu llurs termes acceptables, podeu triar inhabilitar-los. Teniu instruccions de com inhabilitar una funcionalitat o servei concret <a data-l10n-name="mozilla-disable-service-link">aquí</a>. En les preferències de l'aplicació es poden inhabilitar altres funcionalitats i serveis.
 rights-safebrowsing = <strong>Navegació segura: </strong>No és recomanable inhabilitar la funcionalitat de navegació segura perquè pot comportar que visiteu llocs insegurs. Si voleu inhabilitar-la completament, seguiu els passos següents:
 rights-safebrowsing-term-1 = Obriu les preferències de l'aplicació
 rights-safebrowsing-term-2 = Seleccioneu la secció de seguretat
+rights-safebrowsing-term-3 = Desmarqueu l'opció «{ enableSafeBrowsing-label }»
 rights-safebrowsing-term-4 = A partir d'aquell moment, la navegació segura estarà inhabilitada
 rights-locationawarebrowsing = <strong>Navegació amb geolocalització: </strong>és sempre opcional.  No s'enviarà mai cap informació de la vostra ubicació sense el vostre permís. Si voleu inhabilitar la funcionalitat complement, seguiu els passos següents:
 rights-locationawarebrowsing-term-1 = A la barra d'ubicació, escriviu-hi <code>about:config</code>
