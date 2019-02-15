@@ -18,6 +18,7 @@ rights-safebrowsing = <strong>Navegació segura: </strong>No és recomanable inh
 rights-safebrowsing-term-1 = Obriu les preferències de l'aplicació
 rights-safebrowsing-term-2 = Seleccioneu la secció de seguretat
 rights-safebrowsing-term-3 = Desmarqueu l'opció «{ enableSafeBrowsing-label }»
+enableSafeBrowsing-label = Bloca el contingut perillós i maliciós
 rights-safebrowsing-term-4 = A partir d'aquell moment, la navegació segura estarà inhabilitada
 rights-locationawarebrowsing = <strong>Navegació amb geolocalització: </strong>és sempre opcional.  No s'enviarà mai cap informació de la vostra ubicació sense el vostre permís. Si voleu inhabilitar la funcionalitat complement, seguiu els passos següents:
 rights-locationawarebrowsing-term-1 = A la barra d'ubicació, escriviu-hi <code>about:config</code>
