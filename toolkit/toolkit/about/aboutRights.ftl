@@ -2,11 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+rights-title = ਆਪਣੇ ਹੱਕਾਂ ਬਾਰੇ ਜਾਣੋ
 rights-intro = { -brand-full-name } ਮੁਫ਼ਤ ਅਤੇ ਓਪਨ ਸੋਰਸ ਸਾਫਟਵੇਅਰ ਹੈ, ਜਿਸ ਨੂੰ ਸੰਸਾਰ ਭਰ ਵਿੱਚੋਂ ਹਜ਼ਾਰਾਂ ਲੋਕਾਂ ਨੇ ਬਣਾਇਆ ਹੈ। ਕੁਝ ਚੀਜ਼ਾਂ ਹਨ, ਜਿੰਨ੍ਹਾਂ ਬਾਰੇ ਤੁਹਾਨੂੰ ਜਾਣ ਲੈਣਾ ਚਾਹੀਦਾ ਹੈ:
 rights-intro-point-1 = { -brand-short-name } ਤੁਹਾਨੂੰ <a data-l10n-name="mozilla-public-license-link">ਮੋਜ਼ੀਲਾ ਪਬਲਿਕ ਲਸੰਸ </a>ਦੀਆਂ ਸ਼ਰਤਾਂ ਅਧੀਨ ਦਿੱਤਾ ਗਿਆ ਹੈ। ਇਸ ਦਾ ਭਾਵ ਹੈ ਕਿ ਤੁਸੀਂ  { -brand-short-name } ਨੂੰ ਵਰਤ ਸਕਦੇ ਹੋ, ਕਾਪੀ ਕਰ ਸਕਦੇ ਹੋ ਅਤੇ ਹੋਰਾਂ ਨੂੰ ਵੰਡ ਸਕਦੇ ਹੋ। { -brand-short-name } ਦੇ ਸਰੋਤ ਕੋਡ (ਸੋਰਸ ਕੋਡ) ਨੂੰ ਤੁਹਾਡੀ ਲੋੜ ਮੁਤਾਬਕ ਬਦਲਣ ਦੀ ਤੁਹਾਨੂੰ ਪੂਰੀ ਖੁੱਲ੍ਹ ਹੈ। ਮੋਜ਼ੀਲਾ ਪਬਲਿਕ ਲਸੰਸ (Mozilla Public License) ਤੁਹਾਨੂੰ ਤੁਹਾਡੇ ਬਦਲੇ ਵਰਜਨ ਮੁਤਾਬਕ ਅੱਗੇ ਵੰਡਣ ਲਈ ਖੁੱਲ੍ਹ ਦਿੰਦਾ ਹੈ।
 rights-intro-point-2 = ਤੁਹਾਨੂੰ ਮੋਜ਼ੀਲਾ ਫਾਊਂਡੇਸ਼ਨ ਜਾਂ ਕਿਤੇ ਵੀ ਪਾਰਟੀ ਦੇ ਮਾਰਕੇ ਵਰਤਣ ਦਾ ਹੱਕ ਜਾਂ ਲਸੰਸ ਨਹੀਂ ਦਿੱਤਾ ਜਾ ਰਿਹਾ ਹੈ, ਜਿਸ ਵਿੱਚ ਫਾਇਰਫਾਕਸ ਦਾ ਨਾਂ ਜਾਂ ਲੋਗੋ ਦੀ ਸੀਮਿਤ ਵਰਤੋਂ ਸਮੇਤ। ਮਾਰਕੇ (ਟਰੇਡਮਾਰਕ) ਬਾਰੇ ਹੋਰ ਜਾਣਕਾਰੀ ਨੂੰ <a data-l10n-name="mozilla-trademarks-link">ਇੱਥੇ</a> ਵੇਖਿਆ ਜਾ ਸਕਦਾ ਹੈ
 rights-intro-point-3 = { -brand-short-name } ਵਿੱਚ ਕੁਝ ਫੀਚਰ ਜਿਵੇਂ ਕਿ ਕਰੈਸ਼ ਰਿਪੋਰਟਾਂ, ਤੁਹਾਨੂੰ { -vendor-short-name } ਨੂੰ ਸੁਝਾਅ ਦੇਣ ਦੀ ਚੋਣ ਦਿੰਦੇ ਹਨ। ਸੁਝਾਅ ਦੇਣ ਦੀ ਚੋਣ ਕਰਕੇ, ਤੁਸੀਂ { -vendor-short-name } ਨੂੰ ਆਪਣੇ ਉਤਪਾਦ ਸੁਧਾਰ, ਸੁਝਾਅ ਨੂੰ ਆਪਣੀਆਂ ਵੈੱਬਸਾਈਟਾਂ ਉੱਤੇ ਪਾਉਣ ਅਤੇ ਸੁਝਾਅ ਨੂੰ ਵੰਡਣ ਦੀ ਇਜ਼ਾਜ਼ਤ ਦਿੰਦੇ ਹੋ।
 rights-intro-point-4 = { -brand-short-name } ਰਾਹੀਂ { -vendor-short-name } ਨੂੰ ਭੇਜੀ ਗਈ ਤੁਹਾਡੀ ਨਿੱਜੀ ਜਾਣਕਾਰੀ ਤੇ ਸੁਝਾਆਵਾਂ ਨੂੰ ਅਸੀਂ ਕਿਵੇਂ ਵਰਤਦੇ ਹਾਂ, ਇਸ ਬਾਰੇ ਜਾਣਕਾਰੀ ਨੂੰ <a data-l10n-name="mozilla-privacy-policy-link">{ -brand-short-name } ਪਰਦੇਦਾਰੀ ਨੀਤੀ</a> ਵਿੱਚ ਵੇਖਿਆ ਜਾ ਸਕਦਾ ਹੈ।
+rights-intro-point-4-unbranded = ਇਸ ਉਤਪਾਦ ਲਈ ਲਾਗੂ ਹੋਣ ਵਾਲੀ ਕੋਈ ਵੀ ਪਰਦੇਦਾਰੀ ਨੀਤੀ ਇੱਥੇ ਦਿਖਾਉਣੀ ਚਾਹੀਦੀ ਹੈ।
 rights-intro-point-5 = ਕੁਝ { -brand-short-name } ਫੀਚਰ ਵੈੱਬ-ਅਧਾਰਿਤ ਜਾਣਕਾਰੀ ਸਰਵਿਸਾਂ ਬਣਾਉਂਦਾ ਹੈ, ਪਰ ਅਸੀਂ ਇਹ ਗਾਰੰਟੀ ਨਹੀਂ ਦੇ ਸਕਦੇ ਕਿ ਉਹ 100% ਠੀਕ ਜਾਂ ਗਲਤੀ ਤੋਂ ਬਿਨਾਂ ਹਨ। ਹੋਰ ਜਾਣਕਾਰੀ ਲਈ, ਜਿਸ ਵਿੱਚ ਫੀਚਰਾਂ, ਜੋ ਕਿ ਇਹ ਸਰਵਿਸਾਂ ਵਰਤਦੇ ਹਨ, ਨੂੰ ਬੰਦ ਕਰਨ ਬਾਰੇ ਵੀ ਜਾਣਕਾਰੀ ਨੂੰ <a data-l10n-name="mozilla-service-terms-link">ਸਰਵਿਸ ਸ਼ਰਤਾਂ</a> ਉੱਤੇ ਲੱਭਿਆ ਜਾ ਸਕਦਾ ਹੈ
 rights-intro-point-5-unbranded = ਜੇ ਇਹ ਪਰੋਡੱਕਟ ਵਿੱਚ ਕੋਈ ਵੀ ਵੈੱਬ ਸਰਵਿਸ ਸ਼ਾਮਲ ਹੈ ਤਾਂ ਕਿਸੇ ਵੀ ਢੁੱਕਵੀਂ ਸਰਵਿਸ (ਜਾਂ ਸਰਵਿਸਾਂ) ਬਾਰੇ ਲਿੰਕ <a data-l10n-name="mozilla-website-services-link">ਵੈੱਬ ਸਾਈਟ ਸਰਵਿਸਾਂ</a> ਸ਼ੈਕਸ਼ਨ ਨਾਲ ਸਬੰਧਿਤ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ।
 rights-webservices-header = { -brand-full-name } ਵੈੱਬ-ਅਧਾਰਿਤ ਜਾਣਕਾਰੀ ਸਰਵਿਸਾਂ
