@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+rights-title = Mu do chòraichean
 rights-intro = Tha { -brand-full-name } 'na bhathar-bog a tha saor an-asgaidh agus 'na chòd fosgailte a tha 'ga leasachadh le coimhearsnachd mhòr a dhaoine o cheithir ceàrnan an t-saoghail. Tha rud na dhà ann a tha cudromach:
 rights-intro-point-1 = Tha { -brand-short-name } 'ga sholar dhut fo theirmichean <a data-l10n-name="mozilla-public-license-link">Ceadachas Poblach Mozilla</a>. 'S ciall dha seo gu bheil cead agad { -brand-short-name } a chleachdadh, lethbhreacan a dhèanamh dheth agus a thoirt do dhaoine eile.  Tha fàilte romhad cuideachd an còd tùsail aig { -brand-short-name } atharrachadh ach an obraich e nas fhearr dhut. Tha Ceadachas Poblach Mozilla a' toirt cead dhut cuideachd na tionndaidhean a dh'atharraich thu a sgaoileadh.
 rights-intro-point-2 = Chan eil sinn a' toirt seachad còir air comharran-malairt no ceadachas air comharran-malairt aig Fonndas Mozilla no pàrtaidh sam bith, a' gabhail a-steach (gun chuingeachadh) ainm no suaicheantas Firefox. Gheibh thu fiosrachadh sam bith mu na comharran-malairt <a data-l10n-name="mozilla-trademarks-link">an-seo</a>.
@@ -10,11 +11,14 @@ rights-intro-point-4 = Tha sinn a' mìneachadh mar a chleachdas sinn am fiosrach
 rights-intro-point-4-unbranded = Chì thu poileasaidhean prìobhaideachd sam bith a tha iomchaidh dhan bhathar seo an-seo.
 rights-intro-point-5 = Tha cuid dhe na feartan aig { -brand-short-name } a' cleachdadh seirbheisean fiosrachaidh a tha stèidhichte air an lìon. Chan urrainn dhuinn làn-bharantas a thoirt gu bheil iad gu tur ceart. Gheibh thu barrachd fiosrachaidh, a' gabhail a-steach fiosrachadh a dh'innseas dhut mar a chuireas tu na seirbheisean seo à comas ann an <a data-l10n-name="mozilla-service-terms-link">teirmichean na seirbheise</a>.
 rights-intro-point-5-unbranded = If this product incorporates web services, any applicable service terms for the service(s) should be linked to the <a data-l10n-name="mozilla-website-services-link">Web Site Services</a> section.
+rights-intro-point-6 = Airson ’s gun urrainn dha cuid a shusbaint video a chluich, luchdaichidh { -brand-short-name } a-nuas cuid a mhòidealan dì-chrioptachaidh o threas-phàrtaidhean.
 rights-webservices-header = { -brand-full-name } Web-Based Information Services
 rights-webservices = { -brand-full-name } uses web-based information services ("Services") to provide some of the features provided for your use with this binary version of { -brand-short-name } under the terms described below. If you do not want to use one or more of the Services or the terms below are unacceptable, you may disable the feature or Service(s). Instructions on how to disable a particular feature or Service may be found <a data-l10n-name="mozilla-disable-service-link">here</a>. 'S urrainn dhut feartan is seirbheisean eile a chur à comas ann an roghainnean na h-aplacaid.
 rights-safebrowsing = <strong>BrabhsadhTèarainte: </strong>Cha mholar dhut am brabhsadh tèarainte a chur à comas oir faodaidh gun tadhal thu air làraichean mì-thèarainte mar sin.  Ma tha thu airson am feart seo a chur dheth gu tur, dèan na leanas:
 rights-safebrowsing-term-1 = Fosgail roghainnean na h-aplacaid
 rights-safebrowsing-term-2 = Tagh roghainn na tèarainteachd
+rights-safebrowsing-term-3 = Thoir air falbh a’ chromag o “{ enableSafeBrowsing-label }”
+enableSafeBrowsing-label = Bac susbaint chunnartach is susbaint foill
 rights-safebrowsing-term-4 = Tha am brabhsadh tèarainte dheth a-nis
 rights-locationawarebrowsing = <strong>Brabhsadh a mhothaiches dha d' àite: </strong>seo rud a dh'fheumas tu a chur air an-còmhnaidh.  Cha dèid fiosrachadh mu d' àite a chur a-null gun do chead idir.  Ma tha thu airson am feart seo a chur dheth gu tur, dèan nan leanas:
 rights-locationawarebrowsing-term-1 = Cuir na leanas sa bhàr URL <code>about:config</code>
