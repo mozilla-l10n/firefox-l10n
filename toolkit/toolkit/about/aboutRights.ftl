@@ -17,6 +17,7 @@ rights-safebrowsing = <strong>Varno brskanje: </strong>Možnosti Varno brskanje 
 rights-safebrowsing-term-1 = Odprite nastavitve programa{ " " }
 rights-safebrowsing-term-2 = Izberite zavihek Varnost{ " " }
 rights-safebrowsing-term-3 = Odstranite možnost "{ enableSafeBrowsing-label }"
+enableSafeBrowsing-label = Zavrni nevarno in zavajajočo vsebino
 rights-locationawarebrowsing = <strong>Brskanje, ki se zaveda položaja: </strong>je vedno izbirno. Podatki o položaju se tako nikoli ne pošiljajo brez vašega dovoljenja. Če želite v celoti onemogočiti to možnost, sledite tem korakom:{ " " }
 rights-locationawarebrowsing-term-1 = V vrstico za naslove vtipkajte <code>about:config</code>
 rights-locationawarebrowsing-term-2 = Vtipkajte geo.enabled
