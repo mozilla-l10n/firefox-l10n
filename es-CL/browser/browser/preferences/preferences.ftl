@@ -274,7 +274,7 @@ update-application-auto =
     .label = Instalar actualizaciones automáticamente (recomendado)
     .accesskey = A
 update-application-check-choose =
-    .label = Buscar actualizaciones pero permitirte elegir cuando instalarlas
+    .label = Buscar actualizaciones pero dar a elegir cuando instalarlas
     .accesskey = C
 update-application-manual =
     .label = Nunca buscar actualizaciones (no recomendado)
@@ -692,6 +692,11 @@ content-blocking-cookies-label =
 content-blocking-cryptominers-label =
     .label = Criptomineros
     .accesskey = y
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+content-blocking-fingerprinters-label =
+    .label = Creadores de huellas (Fingerprinters)
+    .accesskey = F
 
 ## Privacy Section - Tracking
 
@@ -726,6 +731,9 @@ permissions-block-autoplay-media =
     .label = Bloquear a sitios con reproducción automática de multimedia con sonido
     .accesskey = B
 permissions-block-autoplay-media-menu = Para sitios que reproducen sonido automáticamente
+permissions-block-autoplay-media2 =
+    .label = Bloquear la reproducción automática de sonidos en los sitios
+    .accesskey = B
 permissions-block-autoplay-media-exceptions =
     .label = Excepciones…
     .accesskey = E
