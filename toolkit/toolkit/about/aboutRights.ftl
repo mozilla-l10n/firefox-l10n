@@ -17,6 +17,7 @@ rights-safebrowsing = <strong>SafeBrowsing: </strong>Отключение фун
 rights-safebrowsing-term-1 = Откройте настройки приложения
 rights-safebrowsing-term-2 = Выберите раздел Защита
 rights-safebrowsing-term-3 = Снимите флажок "{ enableSafeBrowsing-label }"
+enableSafeBrowsing-label = Блокировать опасное и обманывающее содержимое
 rights-safebrowsing-term-4 = Safe Browsing теперь отключён
 rights-locationawarebrowsing = <strong>Определение местоположения при веб-серфинге: </strong>всегда требует вашего разрешения. Никакая информация о местоположении никогда не отправляется без вашего разрешения. Если вы хотите полностью отключить эту функцию, выполните следующие действия:
 rights-locationawarebrowsing-term-1 = В строке адреса наберите <code>about:config</code>
