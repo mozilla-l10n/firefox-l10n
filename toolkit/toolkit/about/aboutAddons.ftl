@@ -225,6 +225,7 @@ manage-extensions-shortcuts =
     .accesskey = S
 shortcuts-empty-message = 此扩展没有快捷键。
 shortcuts-no-addons = 您没有启用任何扩展。
+shortcuts-no-commands = 下列扩展没有快捷键：
 shortcuts-input =
     .placeholder = 输入一个快捷键
 shortcuts-browserAction = 激活扩展
