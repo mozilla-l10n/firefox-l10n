@@ -215,8 +215,6 @@ extensions-updates-update-selected =
 
 ## Extension shortcut management
 
-shortcuts-manage =
-    .label = Συντομεύσεις πληκτρολογίου
 manage-extensions-shortcuts =
     .label = Διαχείριση συντομεύσεων επέκτασης
     .accesskey = σ
@@ -232,3 +230,11 @@ shortcuts-invalid = Άκυρος συνδυασμός
 shortcuts-letter = Πληκτρολογήστε ένα γράμμα
 go-back-button =
     .tooltiptext = Επιστροφή
+
+## Add-on actions
+
+remove-addon-button = Αφαίρεση
+disable-addon-button = Απενεργοποίηση
+enable-addon-button = Ενεργοποίηση
+addons-enabled-heading = Ενεργό
+addons-disabled-heading = Ανενεργό
