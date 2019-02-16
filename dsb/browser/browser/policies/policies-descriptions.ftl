@@ -50,6 +50,7 @@ policy-EnableTrackingProtection = Blokěrowanje wopśimjeśa zmóžniś abo znje
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
 policy-Extensions = Rozšyrjenja instalěrowaś, wótinstalěrowaś abo zastajiś. Instalaciska opcija ma URL abo sćažki ako parametry. Opciji Wótinstalěrowaś a Zastajiś ID wužywatej.
+policy-ExtensionUpdate = Awtomatiske aktualizacije rozšyrjenjow zmóžniś abo znjemóžniś.
 policy-FlashPlugin = Wužywanje tykaca Flash dowóliś abo zakazaś.
 policy-HardwareAcceleration = Jolic njewěrno, hardwarowe póspěšenje znjemóžniś.
 # “lock” means that the user won’t be able to change this setting
@@ -71,5 +72,6 @@ policy-SearchEngines = Nastajenja pytnicow konfigurěrowaś. Toś to pšawidło 
 policy-SecurityDevices = Module PKCS #11 instalěrowaś.
 policy-SSLVersionMax = Nastajśo maksimalnu SSL-wersiju.
 policy-SSLVersionMin = Nastajśo minimalnu SSL-wersiju.
+policy-SupportMenu = Swójski menijowy zapisk pomocy menijoju pomocy pśidaś.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Woglědowanju k websydłam zajźowaś. Glejśo dokumentaciju za dalšne drobnostki wó formaśe.
