@@ -996,6 +996,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Cookies">
 <!ENTITY contentBlocking.cookiesView.label "Cookies a data stránek">
 
+<!ENTITY contentBlocking.cryptominers.label "Těžba kryptoměn">
+<!ENTITY contentBlocking.cryptominersView.label "Těžba kryptoměn">
+
+<!ENTITY contentBlocking.fingerprinters.label "Otisk prohlížeče">
+<!ENTITY contentBlocking.fingerprintersView.label "Otisk prohlížeče">
+
 <!ENTITY contentBlocking.openBreakageReportView2.label "Nahlásit problém">
 <!ENTITY contentBlocking.breakageReportView.label "Nahlásit problémy">
 <!ENTITY contentBlocking.breakageReportView2.description "Blokování obsahu může způsobovat problémy na některých stránkách. Jejich nahlášením významně pomůžete aplikaci &brandShortName; dále vylepšovat. S vaším hlášením se Mozille odešle URL stránky a informace o vašem nastavení blokování obsahu.">

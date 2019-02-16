@@ -225,6 +225,7 @@ manage-extensions-shortcuts =
     .accesskey = S
 shortcuts-empty-message = Toto rozšíření nemá žádné klávesové zkratky.
 shortcuts-no-addons = Nemáte povoleno žádné rozšíření.
+shortcuts-no-commands = Následující rozšíření nemají žádné klávesové zkratky:
 shortcuts-input =
     .placeholder = Zadejte klávesovou zkratku
 shortcuts-browserAction = Povolit rozšíření
@@ -244,3 +245,11 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = Zobrazit méně
 go-back-button =
     .tooltiptext = Zpátky
+
+## Add-on actions
+
+remove-addon-button = Odebrat
+disable-addon-button = Zakázat
+enable-addon-button = Povolit
+addons-enabled-heading = Povoleno
+addons-disabled-heading = Zakázáno
