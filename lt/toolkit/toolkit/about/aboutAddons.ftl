@@ -229,6 +229,7 @@ manage-extensions-shortcuts =
     .accesskey = s
 shortcuts-empty-message = Šiam priedui sparčiųjų klavišų nėra.
 shortcuts-no-addons = Neturite jokių įjungtų priedų.
+shortcuts-no-commands = Šie priedai neturi sparčiųjų klavišų komandų:
 shortcuts-input =
     .placeholder = Surinkite klavišų kombinaciją
 shortcuts-browserAction = Įjungti priedą
@@ -248,3 +249,11 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = Rodyti mažiau
 go-back-button =
     .tooltiptext = Eiti atgal
+
+## Add-on actions
+
+remove-addon-button = Pašalinti
+disable-addon-button = Išjungti
+enable-addon-button = Įjungti
+addons-enabled-heading = Įjungta
+addons-disabled-heading = Išjungta
