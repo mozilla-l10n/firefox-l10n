@@ -21,7 +21,7 @@ about-config-pref-delete = Удалить
 
 about-config-pref-add-type-boolean = Логическое
 about-config-pref-add-type-number = Число
-about-config-pref-add-type-string = Строку
+about-config-pref-add-type-string = Строка
 
 ## Preferences with a non-default value are differentiated visually, and at the
 ## same time the state is made accessible to screen readers using an aria-label
