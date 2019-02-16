@@ -50,6 +50,7 @@ policy-EnableTrackingProtection = Įjungti arba išjungti turinio blokavimą, ir
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
 policy-Extensions = Diegti, šalinti, arba užrakinti priedus. Diegimo nuostata priima URL adresus arba kelius kaip parametrus. Šalinimo ir užrakinimo nuostatos priima priedų ID.
+policy-ExtensionUpdate = Įjungti arba išjungti automatinius priedų naujinimus.
 policy-FlashPlugin = Leisti arba drausti „Flash“ plėtinio naudojimą.
 policy-HardwareAcceleration = Jei „false“, išjungti aparatinį spartinimą.
 # “lock” means that the user won’t be able to change this setting
@@ -71,5 +72,6 @@ policy-SearchEngines = Konfigūruoti ieškyklių nuostatas. Ši strategija galim
 policy-SecurityDevices = Diegti PKCS #11 modulius.
 policy-SSLVersionMax = Nustatyti didžiausią SSL versiją.
 policy-SSLVersionMin = Nustatyti mažiausią SSL versiją.
+policy-SupportMenu = Pridėti specialų pagalbos meniu elementą į žinyno meniu.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Blokuoti svetainių lankymą. Paskaitykite dokumentaciją dėl informacijos apie formatą.

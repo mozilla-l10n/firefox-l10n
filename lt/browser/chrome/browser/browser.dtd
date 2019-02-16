@@ -996,6 +996,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Slapukai">
 <!ENTITY contentBlocking.cookiesView.label "Slapukai ir svetainių duomenys">
 
+<!ENTITY contentBlocking.cryptominers.label "Kriptovaliutų kasėjai">
+<!ENTITY contentBlocking.cryptominersView.label "Kriptovaliutų kasėjai">
+
+
 <!ENTITY contentBlocking.openBreakageReportView2.label "Pranešti apie problemą">
 <!ENTITY contentBlocking.breakageReportView.label "Pranešti apie problemas">
 <!ENTITY contentBlocking.breakageReportView2.description "Turinio blokavimas gali sutrikdyti kai kurių svetainių veikimą. Pranešdami apie problemas, padėsite tobulinti „&brandShortName;“. „Mozillai“ bus perduodamas svetainės adresas bei informacija apie jūsų naršyklės nuostatas.">
