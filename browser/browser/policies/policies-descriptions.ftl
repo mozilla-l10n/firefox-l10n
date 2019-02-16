@@ -50,6 +50,7 @@ policy-EnableTrackingProtection = Zapnutí nebo vypnutí blokování obsahu a p�
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
 policy-Extensions = Instalace, odinstalace a uzamčení rozšíření. Pro instalaci je potřeba jako parametr zadat URL adresy nebo cesty. Pro odinstalaci nebo uzamčení ID rozšíření.
+policy-ExtensionUpdate = Vypnutí nebo zapnutí automatických aktualizací rozšíření.
 policy-FlashPlugin = Povolení nebo zablokování zásuvného modulu Flash.
 policy-HardwareAcceleration = Hodnota false vypne použití hardwarové akcelerace.
 # “lock” means that the user won’t be able to change this setting
@@ -71,5 +72,6 @@ policy-SearchEngines = Nastavení vyhledávačů. Toto pravidlo je dostupné jen
 policy-SecurityDevices = Instalace modulů PKCS #11.
 policy-SSLVersionMax = Nastavení maximální verze SSL.
 policy-SSLVersionMin = Nastavení minimální verze SSL.
+policy-SupportMenu = Přidání vlastní položky nabídky s nápovědou.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Blokování návštěvy webových stránek. Více informací o formátu najdete v dokumentaci.
