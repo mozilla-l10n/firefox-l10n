@@ -90,6 +90,7 @@ detail-update-manual =
     .tooltiptext = Ekki setja sjálfvirkt inn uppfærslur
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Keyra í huliðsgluggum
+detail-private-browsing-description = Viðbótin mun virka í huliðsgluggum og hafa aðgang að netvirkni þar. <label data-l10n-name="detail-private-browsing-learn-more">Fræðast meira</label>.
 detail-private-browsing-on =
     .label = Heimila
     .tooltiptext = Heimila í huliðsvöfrun
