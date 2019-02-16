@@ -52,6 +52,8 @@ fonts-langgroup-malayalam =
     .label = මලයාලම්
 fonts-langgroup-math =
     .label = ගණිතය
+fonts-langgroup-odia =
+    .label = ඕඩියා
 fonts-langgroup-sinhala =
     .label = සිංහල
 fonts-langgroup-tamil =
@@ -73,6 +75,12 @@ fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans-serif
+fonts-proportional-size = විශාලත්වය
+    .accesskey = z
+fonts-monospace-size = විශාලත්වය
+    .accesskey = e
+fonts-minsize = අවම අකුරු විශාලත්වය:
+    .accesskey = o
 fonts-minsize-none =
     .label = කිසිවක් නැත
 
@@ -118,3 +126,5 @@ fonts-very-large-warning-accept = කෙසේනමුත් මාගේ ව�
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
     .label = පෙරනිමිය ({ $name })
+fonts-label-default-unnamed =
+    .label = පෙරනිමි
