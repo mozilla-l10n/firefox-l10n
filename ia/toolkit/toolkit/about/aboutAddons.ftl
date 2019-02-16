@@ -232,6 +232,7 @@ manage-extensions-shortcuts =
     .accesskey = V
 shortcuts-empty-message = Il non ha vias breve in iste extension
 shortcuts-no-addons = Tu non ha ulle extensiones activate
+shortcuts-no-commands = Le sequente extensiones non ha claves accelerator:
 shortcuts-input =
     .placeholder = Scribe un via breve
 shortcuts-browserAction = Activar extension
@@ -250,3 +251,11 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = Monstrar minus
 go-back-button =
     .tooltiptext = Regreder
+
+## Add-on actions
+
+remove-addon-button = Remover
+disable-addon-button = Disactivar
+enable-addon-button = Activar
+addons-enabled-heading = Activate
+addons-disabled-heading = Disactivate
