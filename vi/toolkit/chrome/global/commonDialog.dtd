@@ -9,5 +9,5 @@
 <!ENTITY checkbox.label   "chọn">
 <!ENTITY copyCmd.label    "Sao chép">
 <!ENTITY copyCmd.accesskey "C">
-<!ENTITY selectAllCmd.label "Chọn Toàn Bộ">
+<!ENTITY selectAllCmd.label "Chọn tất cả">
 <!ENTITY selectAllCmd.accesskey "B">

@@ -21,7 +21,7 @@
 <!ENTITY pasteCmd.accesskey        "p">
 <!ENTITY deleteCmd.label           "Xóa">
 <!ENTITY deleteCmd.accesskey       "d">
-<!ENTITY selectAllCmd.label        "Chọn toàn bộ">
+<!ENTITY selectAllCmd.label        "Chọn tất cả">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey    "a">
 <!ENTITY findCmd.label             "Tìm">

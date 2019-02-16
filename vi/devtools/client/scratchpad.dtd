@@ -43,7 +43,7 @@
 <!ENTITY saveFileCmd.accesskey        "L">
 <!ENTITY saveFileCmd.commandkey       "s">
 
-<!ENTITY saveFileAsCmd.label          "Lưu Thành…">
+<!ENTITY saveFileAsCmd.label          "Lưu thành…">
 <!ENTITY saveFileAsCmd.accesskey      "u">
 
 <!ENTITY closeCmd.label               "Đóng">
