@@ -8,6 +8,7 @@
 ### given Firefox channel". These terms are not synonymous.
 
 title = Маңызды жаңалықтар
+changed-title = Не өзгерді?
 sync-label = Эл. поштаны енгізіңіз
 sync-input =
     .placeholder = Эл. пошта
