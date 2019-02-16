@@ -232,6 +232,7 @@ manage-extensions-shortcuts =
     .accesskey = s
 shortcuts-empty-message = Não existem atalhos para esta extensão.
 shortcuts-no-addons = Não tem quaisquer extensões ativadas.
+shortcuts-no-commands = As seguintes extensões não possuem atalhos:
 shortcuts-input =
     .placeholder = Escrever um atalho
 shortcuts-browserAction = Ativar extensão
@@ -250,3 +251,11 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = Mostrar menos
 go-back-button =
     .tooltiptext = Retroceder
+
+## Add-on actions
+
+remove-addon-button = Remover
+disable-addon-button = Desativar
+enable-addon-button = Ativar
+addons-enabled-heading = Ativado
+addons-disabled-heading = Desativado
