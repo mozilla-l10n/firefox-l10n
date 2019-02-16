@@ -5,7 +5,7 @@
 <!ENTITY firstrun_panel_title_welcome "සාදරයෙන් පිළිගනිමු">
 <!ENTITY firstrun_urlbar_message2 "&brandShortName; තෝරාගත්තාට ස්තූතියි">
 <!ENTITY firstrun_bookmarks_title "අතීතය">
-<!ENTITY  onboard_start_button_browser "Start Browsing">
+<!ENTITY  onboard_start_button_browser "ගවේෂණය අරඹන්න">
 
 
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
@@ -15,14 +15,14 @@
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
-<!ENTITY  bookmarks_title "Bookmarks">
-<!ENTITY  history_title "History">
+<!ENTITY  bookmarks_title "පිටු සලකුණු">
+<!ENTITY  history_title "ඉතිහාසය">
 
-<!ENTITY  switch_to_tab "Switch to tab">
+<!ENTITY  switch_to_tab "ටැබයට මාරුවෙන්න">
 
 <!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
 
-<!ENTITY  crash_reporter_title "&brandShortName; Crash Reporter">
+<!ENTITY  crash_reporter_title "&brandShortName; බිඳවැටීම් වාර්ථාව">
 <!ENTITY  crash_message2 "&brandShortName; had a problem and crashed. Your tabs should be listed on the &brandShortName; Start page when you restart.">
 <!ENTITY  crash_send_report_message3 "Tell &vendorShortName; about this crash so they can fix it">
 <!ENTITY  crash_include_url2 "Include the address of the page I was on">
