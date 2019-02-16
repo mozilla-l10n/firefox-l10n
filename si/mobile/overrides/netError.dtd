@@ -164,6 +164,8 @@
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "දූශිත අන්තර්ගත දෝශයක්">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>දත්ත සම්ප්‍රේශණයේ දෝශයක් හඳුනාගත් බැවින් ඔබ දැකීමට උත්සාහ කරන පිටුව දැක්විය නොහැක</p><ul>
+<li>කරුණාකර මෙම ගැටළුව පිළිබඳව ජාල අඩවියේ හිමිකරුවන් දැනුවත් කරන්න.</li></ul>">
 
 <!ENTITY securityOverride.linkText "හෝ ඔබට හැරදැමීමක් එක් කළ හැක…">
 <!ENTITY securityOverride.getMeOutOfHereButton "මා මෙතනින් ඉවතට ගන්න!">
@@ -182,12 +184,19 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY remoteXUL.title "Remote XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Please contact the website owners to inform them of this problem.</li></ul></p>">
 
+<!ENTITY sslv3Used.title "ආරක්ෂිතව සබඳ විය නොහැක">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
+<!ENTITY sslv3Used.longDesc "සංකීර්ණ තොරතුරු: SSL_ERROR_UNSUPPORTED_VERSION">
 
+<!ENTITY weakCryptoUsed.title "ඔබේ සබඳතාවය අනාරක්ෂිතයි">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
+<!ENTITY weakCryptoUsed.longDesc "සංකීර්ණ තොරතුරු: SSL_ERROR_NO_CYPHER_OVERLAP">
 
+<!ENTITY inadequateSecurityError.title "ඔබේ සබඳතාව අනාරක්ශිතයි">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 
+<!ENTITY networkProtocolError.title "">
+<!ENTITY networkProtocolError.longDesc "">
