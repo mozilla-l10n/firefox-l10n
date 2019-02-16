@@ -10,7 +10,10 @@
 title = Viktig nytt
 heading = Endringar i { -brand-short-name }-profilen din
 changed-title = Kva er endra?
+options-title = Kva for mulegheiter har egt?
 resources = Resursar:
+support-link = Bruke profilhandtering - supportartikkel
+sync-header = Logg inn eller opprett ein { -fxaccount-brand-name }
 sync-label = Skriv inn e-postadressa di
 sync-input =
     .placeholder = E-post
