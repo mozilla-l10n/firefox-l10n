@@ -676,6 +676,7 @@ content-blocking-all-windows-trackers = Все известные трекеры
 content-blocking-all-third-party-cookies = Все сторонние куки
 content-blocking-warning-title = Осторожно!
 content-blocking-warning-desc = Блокировка куков и трекеров может вызывать проблемы с некоторыми веб-сайтами. Можно легко отключить блокировку для сайтов, которым вы доверяете.
+content-blocking-warning-description = Блокировка содержимого может вызывать проблемы с некоторыми веб-сайтами. Можно легко отключить блокировку для сайтов, которым вы доверяете.
 content-blocking-learn-how = Подробнее
 content-blocking-trackers-label =
     .label = Трекеры
@@ -690,6 +691,10 @@ content-blocking-tracking-protection-change-block-list = Сменить спис
 content-blocking-cookies-label =
     .label = Куки
     .accesskey = и
+# Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
+content-blocking-cryptominers-label =
+    .label = Криптомайнеры
+    .accesskey = п
 
 ## Privacy Section - Tracking
 
