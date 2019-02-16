@@ -5,14 +5,23 @@
 # An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
 about-config-warning-title = Здесь обитают драконы!
 about-config-warning-text = Изменение этих настроек может привести к ухудшению стабильности, безопасности и производительности данного приложения. Вам следует изменять что-либо только в том случае, если вы уверены в том, что делаете.
+about-config-warning-checkbox = Напомнить мне об этом в следующий раз!
 about-config-warning-button = Я принимаю на себя риск
 about-config-title = about:config
+about-config-search =
+    .placeholder = Введите поисковый запрос или нажмите ESC, чтобы показать всё
 about-config-pref-add = Добавить
 about-config-pref-toggle = Переключить
 about-config-pref-edit = Изменить
 about-config-pref-save = Сохранить
 about-config-pref-reset = Сбросить
 about-config-pref-delete = Удалить
+
+## Labels for the type selection radio buttons shown when adding preferences.
+
+about-config-pref-add-type-boolean = Логическое
+about-config-pref-add-type-number = Число
+about-config-pref-add-type-string = Строку
 
 ## Preferences with a non-default value are differentiated visually, and at the
 ## same time the state is made accessible to screen readers using an aria-label
@@ -23,3 +32,5 @@ about-config-pref-delete = Удалить
 
 about-config-pref-accessible-value-default =
     .aria-label = { $value } (по умолчанию)
+about-config-pref-accessible-value-custom =
+    .aria-label = { $value } (изменено пользователем)
