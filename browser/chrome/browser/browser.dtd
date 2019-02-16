@@ -649,7 +649,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "P">
 <!ENTITY savePageCmd.commandkey       "s">
-<!ENTITY saveFrameCmd.label           "Lưu khung tới…">
+<!ENTITY saveFrameCmd.label           "Lưu khung thành…">
 <!ENTITY saveFrameCmd.accesskey       "F">
 <!ENTITY printFrameCmd.label          "In khung…">
 <!ENTITY printFrameCmd.accesskey      "P">

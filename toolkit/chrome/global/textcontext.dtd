@@ -10,7 +10,7 @@
 <!ENTITY pasteCmd.accesskey "D">
 <!ENTITY undoCmd.label "Hoàn tác">
 <!ENTITY undoCmd.accesskey "H">
-<!ENTITY selectAllCmd.label "Chọn toàn bộ">
+<!ENTITY selectAllCmd.label "Chọn tất cả">
 <!ENTITY selectAllCmd.accesskey "b">
 <!ENTITY deleteCmd.label "Xóa">
 <!ENTITY deleteCmd.accesskey "X">
