@@ -286,6 +286,9 @@ update-enable-search-update =
     .label = بطور خودکار موتورهای جست‌وجو بروزرسانی شوند
     .accesskey = س
 update-pref-write-failure-title = خطای نگارش
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = امکان ذخیرهٔ ترجیحات نیست. نوشتن در پرونده امکان‌پذیر نبود: { $path }
 
 ## General Section - Performance
 
@@ -651,6 +654,14 @@ content-blocking-setting-custom =
     .label = سفارشی
     .accesskey = C
 content-blocking-standard-description = فقط ردیاب های شناخته شده را در پنجره‌های مرور خصوصی مسدود کن.
+content-blocking-custom-desc = انتخاب کنید چه چیزی مسدود شود.
+content-blocking-third-party-cookies = کوکی‌هایِ ردیبابِ متفرقه
+content-blocking-all-windows-trackers = ردیاب‌های شناخته شده در تمام پنجره‌ها
+content-blocking-all-third-party-cookies = تمام کوکی‌های متفرقه
+content-blocking-warning-title = هوشیار باشید!
+content-blocking-trackers-label =
+    .label = ردیاب‌ها
+    .accesskey = T
 content-blocking-tracking-protection-option-all-windows =
     .label = در همه پنجره‌ها
     .accesskey = A
@@ -658,6 +669,13 @@ content-blocking-option-private =
     .label = تنها در پنجره‌های ناشناس
     .accesskey = p
 content-blocking-tracking-protection-change-block-list = تغییر لیست مسدودی‌ها
+content-blocking-cookies-label =
+    .label = کوکی‌ها
+    .accesskey = C
+# Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
+content-blocking-cryptominers-label =
+    .label = استخراج کننده‌های رمزارزها
+    .accesskey = y
 
 ## Privacy Section - Tracking
 
@@ -692,6 +710,9 @@ permissions-block-autoplay-media =
     .label = مسدود کردن پایگاه‌ها برای پخش خودکار رسانه و صوت
     .accesskey = B
 permissions-block-autoplay-media-menu = برای سایت‌هایی که بطور خودکار صدا پخش می‌کنند
+permissions-block-autoplay-media2 =
+    .label = مسدود کردن وب‌سایت‌ها از پخش خودکار صدا
+    .accesskey = B
 permissions-block-autoplay-media-exceptions =
     .label = استثاناها…
     .accesskey = E
@@ -731,6 +752,8 @@ collection-health-report-link = بیشتر بدانید
 collection-studies =
     .label = اجازه دادن به { -brand-short-name } برای نصب و اجرای studyها
 collection-studies-link = نمایش studyهای { -brand-short-name }
+addon-recommendations =
+    .label = اجازه دادن به { -brand-short-name } برای ساخت پیشنهادهای سفارشی شدهٔ مربوط به افزونه‌ها
 addon-recommendations-link = بیشتر بدانید
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
