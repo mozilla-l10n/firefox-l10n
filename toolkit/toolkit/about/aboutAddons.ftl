@@ -88,6 +88,8 @@ detail-update-automatic =
 detail-update-manual =
     .label = Av
     .tooltiptext = Ikkje installer oppdateringar automatisk
+# Used as a description for the option to allow or block an add-on in private windows.
+detail-private-browsing-label = Køyr i privat vindauge
 detail-private-browsing-on =
     .label = Tillat
     .tooltiptext = Tillat i privat nettlesing
@@ -220,3 +222,11 @@ shortcuts-letter = Skriv ein bokstav
 shortcuts-card-collapse-button = Vis mindre
 go-back-button =
     .tooltiptext = Gå tilbake
+
+## Add-on actions
+
+remove-addon-button = Fjern
+disable-addon-button = Slå av
+enable-addon-button = Slå på
+addons-enabled-heading = Påslått
+addons-disabled-heading = Avslått
