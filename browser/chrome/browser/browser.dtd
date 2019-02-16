@@ -996,6 +996,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Placki">
 <!ENTITY contentBlocking.cookiesView.label "Placki a sydłowe daty">
 
+
+<!ENTITY contentBlocking.fingerprinters.label "Porstowe wotćišće">
+<!ENTITY contentBlocking.fingerprintersView.label "Porstowe wotćišće">
+
 <!ENTITY contentBlocking.openBreakageReportView2.label "Problem zdźělić">
 <!ENTITY contentBlocking.breakageReportView.label "Problemy zdźělić">
 <!ENTITY contentBlocking.breakageReportView2.description "Blokowanje wobsaha móže probleme z někotrymi websydłami zawinować. Hdyž problemy zdźěliće, pomhaće &brandShortName; za kóždeho polěpšić. (Pósćele so Mozilla URL a informacije wo wašich nastajenjach wobhladowaka.)">
