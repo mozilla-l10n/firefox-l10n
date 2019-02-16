@@ -5,6 +5,9 @@
 
 ## UI strings for the simplified onboarding modal
 
+onboarding-button-label-try-now = දැන් එය උත්සහ කරන්න
+onboarding-button-label-get-started = අරඹන්න
+onboarding-start-browsing-button-label = ගවේෂණය අරඹන්න
 
 ## These strings belong to the individual onboarding messages.
 
@@ -13,5 +16,10 @@
 ## Each message also has an associated button for the user to try the feature.
 ## The string for the button is found above, in the UI strings section
 
+onboarding-private-browsing-title = පුද්ගලික ගවේශනය
 onboarding-screenshots-title = තිරපිටපත්
 onboarding-addons-title = ඇඩෝන
+
+## Message strings belonging to the Return to AMO flow
+
+return-to-amo-extension-button = දිගුව එක් කරන්න
