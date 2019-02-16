@@ -4,8 +4,8 @@
 
 do-not-track-description = ارسال یک سیگنال “من را دنبال نکن ” برای پایگاه‌های اینترنتی که شما نمی‌خواهید توسط آن ها دنبال شوید
 do-not-track-learn-more = اطلاعات بیشتر
-do-not-track-option-default =
-    .label = تنها زمانی که از محافظ دنبال کردن استفاده ‌می‌شود
+do-not-track-option-default-content-blocking-known =
+    .label = تنها وقتی که { -brand-short-name } برای مسدودسازی ردیاب‌های شناخته شده تنظیم شده است
 do-not-track-option-always =
     .label = همیشه
 pref-page =
@@ -82,15 +82,18 @@ extension-controlled-homepage-override = یک افزودنی، <img data-l10n-na
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
 extension-controlled-new-tab-url = یک افزودنی، <img data-l10n-name="icon"/>{ $name }، در کنترل صفحهٔ زبانه‌ٔ جدید شماست.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlled-web-notifications = یک افزونه، <img data-l10n-name="icon"/>{ $name }، این تنظیمات را کنترل می‌کند.
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
 extension-controlled-default-search = یک افزایه،‌<img data-l10n-name="icon"/> { $name }،‌ بر روی موتور پیش فرض شما تنظیم شده است.
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = یک افزونه، <img data-l10n-name="icon"/> { $name }،‌نیازمند نگه‌دارنده زبانه‌ها است.
-# This string is shown to notify the user that their tracking protection preferences
-# are being controlled by an extension.
-extension-controlled-websites-tracking-protection-mode = یک افزونه، <img data-l10n-name="icon"/> { $name }، در حال کنترلِ سیستم محافظت در برابر ردگیری است.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlled-websites-content-blocking-all-trackers = یک افزونه، <img data-l10n-name="icon"/>{ $name }، این تنظیم را کنترل می‌کند.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = یک افزودنی، <img data-l10n-name="icon"/>{ $name }، در حال کنترل نحوهٔ اتصال { -brand-short-name } به اینترنت است.
@@ -133,6 +136,8 @@ set-as-my-default-browser =
 startup-restore-previous-session =
     .label = بازنشانی نشست قبلی
     .accesskey = s
+startup-restore-warn-on-quit =
+    .label = هنگام خروج اخطار می‌دهد
 disable-extension =
     .label = غیرفعال سازی افزونه
 tabs-group-header = زبانه‌ها
@@ -203,6 +208,7 @@ choose-language-description = زبان مورد علاقهٔ خود را برا�
 choose-button =
     .label = انتخاب…
     .accesskey = ا
+choose-browser-language-description = زبانی که برای نمایش منوها، پیام‌ها و اعلان‌ها در { -brand-short-name } استفاده می‌شود را انتخاب کنید
 manage-browser-languages-button =
     .label = تنظیم جایگزین‌ها…
     .accesskey = l
@@ -279,6 +285,7 @@ update-application-use-service =
 update-enable-search-update =
     .label = بطور خودکار موتورهای جست‌وجو بروزرسانی شوند
     .accesskey = س
+update-pref-write-failure-title = خطای نگارش
 
 ## General Section - Performance
 
@@ -586,27 +593,29 @@ sitedata-total-size-calculating = در حال محاسبهٔ اطلاعات پا
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = کوکی‌ها، اطلاعات پایگاه‌ها و حافظهٔ نهانِ ذخیره شده در حال حاضر { $value } { $unit } از فضای دیسک شما استفاده می‌کنند.
 sitedata-learn-more = بیشتر بدانید
-sitedata-keep-until = نگهداری شوند تا
-    .accesskey = ن
-sitedata-keep-until-expire =
-    .label = منقضی می‌شوند
-sitedata-keep-until-closed =
-    .label = { -brand-short-name } بسته است
-sitedata-block-trackers-option =
-    .label = ردیاب‌های شخص ثالث
-sitedata-block-unvisited-option =
-    .label = کوکی‌ها از وب‌سایت‌های بازدید نشده
-sitedata-block-all-option =
-    .label = تمام کوکی‌ها (باعث خرابی وب‌سایت‌ها خواهد شد)
+sitedata-delete-on-close =
+    .label = پاک کردن کوکی‌ها و داده‌های سایت هنگام بستن { -brand-short-name }.
+    .accesskey = c
+sitedata-allow-cookies-option =
+    .label = پذیرفتن کوکی‌ها و داده‌های سایت
+    .accesskey = A
+sitedata-disallow-cookies-option =
+    .label = مسدودسازی کوکی‌ها و داده‌های سایت
+    .accesskey = B
+sitedata-option-block-trackers =
+    .label = ردیاب‌های متفرقه
+sitedata-option-block-unvisited =
+    .label = کوکی‌ها از وب‌سایت‌های مشاهده نشده
+sitedata-option-block-all-third-party =
+    .label = تمام کوکی‌های متفرقه (ممکن است باعث از کار افتادن سایت‌ها شود)
+sitedata-option-block-all =
+    .label = تمام کوکی‌ها (باعث از کار افتادن وب‌سایت‌ها می‌شود)
 sitedata-clear =
     .label = پاک کردن اطلاعات…
     .accesskey = I
 sitedata-settings =
     .label = مدیریت اطلاعات…
     .accesskey = M
-sitedata-cookies-exceptions =
-    .label = استثناها…
-    .accesskey = ت
 sitedata-cookies-permissions =
     .label = مدیریت مجوزها...
     .accesskey = P
@@ -630,31 +639,6 @@ addressbar-suggestions-settings = تغییر ترجیحات مربوط به پی
 
 content-blocking-header = مسدود کردن محتوا
 content-blocking-learn-more = بیشتر بدانید
-content-blocking-restore-defaults =
-    .label = بازگرداندن پیش‌فرض‌ها
-    .accesskey = R
-content-blocking-toggle-on =
-    .tooltiptext = مسدود کردن محتوا را غیرفعال کن
-content-blocking-toggle-off =
-    .tooltiptext = مسدود کردن محتوا را فعال کن
-content-blocking-toggle-label-on = روشن
-    .accesskey = O
-content-blocking-toggle-label-off = خاموش
-    .accesskey = O
-content-blocking-category-label = انتخاب کنید چه چیزهایی مسدود شوند
-content-blocking-tracking-protection-trackers-label =
-    .label = ردیاب‌ها
-    .accesskey = T
-content-blocking-tracking-protection-all-detected-trackers-label =
-    .label = تمام ریدیاب‌های شناسایی شده
-    .accesskey = T
-content-blocking-tracking-protection-new-description = تمام ردیاب‌های شناخته شده را مسدود کن. (ممکن است باعث شود برخی صفحه‌ها بارگذاری نشوند.)
-content-blocking-tracking-protection-option-always =
-    .label = همیشه
-    .accesskey = A
-content-blocking-tracking-protection-option-private =
-    .label = تنها در پنجره‌های ناشناس
-    .accesskey = p
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 content-blocking-setting-standard =
@@ -674,40 +658,9 @@ content-blocking-option-private =
     .label = تنها در پنجره‌های ناشناس
     .accesskey = p
 content-blocking-tracking-protection-change-block-list = تغییر لیست مسدودی‌ها
-content-blocking-third-party-cookies-label =
-    .label = کوکی‌های شخص ثالث
-    .accesskey = C
-content-blocking-reject-trackers-description = تمام کوکی‌های شخص ثالث یا فقط آن‌هایی که توسط ردیاب‌ها تنظیم شده‌اند را مسدود کنید.
-content-blocking-change-cookie-settings =
-    .label = تغییر تنظیمات کوکی
-    .accesskey = S
-content-blocking-reject-trackers-block-trackers-option-recommended =
-    .label = ردیاب‌ها (توصیه می شود)
-    .accesskey = k
-content-blocking-reject-trackers-block-trackers-option =
-    .label = ردیاب‌ها
-    .accesskey = k
 
 ## Privacy Section - Tracking
 
-tracking-header = محافظت در برابر ردگیری
-tracking-desc = محافظت از ردیابی دنبال کنندگان انلاینی را که اطلاعات مرورکردن شما را از چند وب سایت مختلف دریافت می کردند مسدود کرده است. <a data-l10n-name="learn-more">در مورد محافظت از ردیابی و حریم شخصی خود بیشتر بدانید</a>
-tracking-mode-label = استفاده از محافظ ردیابی برای مسدود کردند دنبال کنندگان ناشناس
-tracking-mode-always =
-    .label = همیشه
-    .accesskey = م
-tracking-mode-private =
-    .label = تنها در پنجره‌های ناشناس
-    .accesskey = ت
-tracking-mode-never =
-    .label = هرگز
-    .accesskey = ه
-tracking-exceptions =
-    .label = استثناها…
-    .accesskey = ت
-tracking-change-block-list =
-    .label = تغییر فهرست مسدودی‌ها…
-    .accesskey = ت
 tracking-manage-exceptions =
     .label = مدیریت استثناها…
     .accesskey = x
