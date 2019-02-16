@@ -28,3 +28,5 @@ blocklist-item-moz-std-name = Disconnect.me enkelt vern (Tilrådd).
 blocklist-item-moz-std-desc = Tillèt nokre sporfølgjarar slik at nettsider fungerer rett.
 blocklist-item-moz-full-name = Disconnect.me strengt vern.
 blocklist-item-moz-full-desc = Blokkerer kjende sporfølgjarar. Nokre nettsider vil kanskje ikkje fungere skikkeleg.
+blocklist-item-moz-std-listName = Blokkeringsliste nivå 1 (tilrådd).
+blocklist-item-moz-full-listName = Blokkeringsliste nivå 2
