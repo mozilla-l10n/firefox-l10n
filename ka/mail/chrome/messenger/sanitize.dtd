@@ -8,7 +8,7 @@
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
      See UI mockup at bug 480169 -->
 <!ENTITY clearTimeDuration.label          "გასუფთავება: ">
-<!ENTITY clearTimeDuration.accesskey      "T">
+<!ENTITY clearTimeDuration.accesskey      "ფ">
 <!ENTITY clearTimeDuration.lastHour       "ბოლო საათის">
 <!ENTITY clearTimeDuration.last2Hours     "ბოლო ორი საათის">
 <!ENTITY clearTimeDuration.last4Hours     "ბოლო ოთხი საათის">
