@@ -44,23 +44,9 @@
 <!ENTITY  mediaSaveAs2.accesskey "e">
 <!ENTITY  mediaPreview          "මාධ්‍යය පෙරදැක්ම:">
 
-<!ENTITY  feedTab               "පෝශක">
-<!ENTITY  feedTab.accesskey     "F">
-<!ENTITY  feedSubscribe         "දායකත්වය">
-<!ENTITY  feedSubscribe.accesskey "u">
-
 <!ENTITY  permTab               "බලතල">
 <!ENTITY  permTab.accesskey     "P">
-<!ENTITY  permUseDefault        "පෙරනිමිය භාවිත කරන්න">
-<!ENTITY  permAskAlways         "නිතර අසන්න">
-<!ENTITY  permAllow             "අනුමතයි.">
-<!ENTITY  permAllowSession      "වාරය සඳහා ඉඩදේ">
-<!ENTITY  permBlock             "අවහිර කරන්න">
 <!ENTITY  permissionsFor        "අවසර ලැබෙන්නේ:">
-<!ENTITY  permPlugins           "ප්ලගින සක්‍රීය කරන්න">
-
-<!ENTITY  permClearStorage           "ගබඩාව පිරිසිදු">
-<!ENTITY  permClearStorage.accesskey "C">
 
 <!ENTITY  securityTab           "ආරක්ෂාව">
 <!ENTITY  securityTab.accesskey "S">
@@ -76,9 +62,7 @@
 
 <!ENTITY  securityView.privacy.header                   "පුද්ගලිකත්වය හා ඉතිහාසය">
 <!ENTITY  securityView.privacy.history                  "අද දිනට පෙර මා මෙම අඩවියට පිවිස ඇතිද?">
-<!ENTITY  securityView.privacy.cookies                  "මෙම අඩවිය මගේ පරිගණකය මත තොරතුරු (කුකී) ගබඩා කරයිද?">
-<!ENTITY  securityView.privacy.viewCookies              "කුකීස් බලන්න">
-<!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
+<!ENTITY  securityView.privacy.clearSiteData.accessKey  "C">
 <!ENTITY  securityView.privacy.passwords                "මෙම අඩවිය සඳහා මවිසින් කිසිඳු මුරපදයක් සුරැක ඇතිද?">
 <!ENTITY  securityView.privacy.viewPasswords            "සුරැකූ රහස්පද බලන්න">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">

@@ -21,12 +21,18 @@
 <!-- Tab context menu -->
 <!ENTITY  reloadTab.label                    "ටැබ් ප්‍රතිපූරණය කරන්න">
 <!ENTITY  reloadTab.accesskey                "R">
-<!ENTITY  reloadAllTabs.label                "සියළු ටැබ් ප්‍රතිපූරණය කරන්න">
-<!ENTITY  reloadAllTabs.accesskey            "A">
+<!ENTITY  selectAllTabs.accesskey            "S">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
 <!ENTITY  duplicateTab.label                 "ටැබ පිටපතක්">
+<!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
+These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  duplicateTab.accesskey             "D">
+<!-- LOCALIZATION NOTE (duplicateTabs.label): This is a command to duplicate
+a tab (i.e. it is a verb, not adjective). -->
+<!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
+These items have the same accesskey but will never be visible at the same time. -->
+<!ENTITY  duplicateTabs.accesskey            "D">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -35,13 +41,22 @@ left instead of right. -->
 <!ENTITY  closeOtherTabs.label               "අනෙකුත් ටැබ වසන්න">
 <!ENTITY  closeOtherTabs.accesskey           "o">
 
-
-<!-- Pin Tab and Pin Selected Tabs have the same accesskey
+<!ENTITY  closeTabs.accesskey                "">
+<!ENTITY  pinSelectedTabs.label              "ටැබ අමුණන්න">
+<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
+unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!ENTITY  pinSelectedTabs.accesskey          "P">
+<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
+unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!ENTITY  unpinSelectedTabs.accesskey        "p">
+<!-- LOCALIZATION NOTE(reloadTab.label, reloadTabs.label): have the same accesskey
 but will never be visible at the same time. -->
-<!-- Unpin Tab and Unpin Selected Tabs have the same accesskey
-but will never be visible at the same time. -->
-<!-- Reload Tab and Reload Selected Tabs have the same accesskey
-but will never be visible at the same time. -->
+<!ENTITY  reloadTabs.accesskey               "R">
+<!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
+These items have the same accesskey but will never be visible at the same time. -->
+<!ENTITY  bookmarkSelectedTabs.accesskey     "B">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -49,20 +64,31 @@ left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 <!ENTITY  pinTab.label                       "ටැබ අමුණන්න">
+<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
+unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY  pinTab.accesskey                   "P">
 <!ENTITY  unpinTab.label                     "ටැබ ගලවන්න">
+<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
+unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinTab.accesskey                 "b">
-<!ENTITY  sendTabToDevice.label              "ටැබය උපාංගයට යවන්න">
-<!ENTITY  sendTabToDevice.accesskey          "D">
 <!ENTITY  sendPageToDevice.label             "පිටුව උපාංගයට යවන්න">
 <!ENTITY  sendPageToDevice.accesskey         "D">
 <!ENTITY  sendLinkToDevice.label             "ඈදුම උපාංගයට යවන්න">
 <!ENTITY  sendLinkToDevice.accesskey         "D">
-<!ENTITY  sendToDeviceFeedback.label         "යැවිනි!">
+<!-- LOCALIZATION NOTE (moveTabOptions.label and moveSelectedTabOptions.label):
+These two items have the same accesskey but will never be visible at the same time. -->
+<!ENTITY  moveTabOptions.accesskey           "v">
+<!ENTITY  moveSelectedTabOptions.accesskey   "v">
+<!ENTITY  moveToStart.accesskey              "S">
+<!ENTITY  moveToEnd.accesskey                "E">
 <!ENTITY  moveToNewWindow.label              "නව කවුළුවකට යන්න">
 <!ENTITY  moveToNewWindow.accesskey          "W">
-<!ENTITY  bookmarkAllTabs.label              "සියළු ටැබ් පිටුලකුණු කරන්න…">
-<!ENTITY  bookmarkAllTabs.accesskey          "T">
+<!ENTITY  reopenInContainer.accesskey        "e">
+<!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
+These items have the same accesskey but will never be visible at the same time. -->
+<!ENTITY  bookmarkTab.accesskey              "B">
 <!ENTITY  undoCloseTab.label                 "ටැබ් වැසීම අහෝසි කරන්න">
 <!ENTITY  undoCloseTab.accesskey             "U">
 <!ENTITY  closeTab.label                     "ටැබය වසන්න">
@@ -70,6 +96,9 @@ can reach it easily. -->
 <!ENTITY  hiddenTabs.label                   "සැගවුනු ටැබ්">
 
 <!ENTITY  listAllTabs.label      "සියළු ටැබ් ලැයිස්තුගත කරන්න">
+
+<!-- LOCALIZATION NOTE (allTabsMenu.searchTabs.label): "Search" is a verb, as
+in "Search through tabs". -->
 
 <!ENTITY tabCmd.label "නව ටැබයක් විවෘත කරන්න">
 <!ENTITY tabCmd.accesskey "T">
@@ -89,6 +118,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "p">
 
+
 <!ENTITY goOfflineCmd.label "නොබැඳිව ක්‍රියා කරන්න">
 <!ENTITY goOfflineCmd.accesskey "k">
 
@@ -99,10 +129,23 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "පිටු සලකුණු මෙවලම් තීරුවේ අයිතමයන්">
 
-<!ENTITY toolbarContextMenu.reloadAllTabs.label "සියළු ටැබ් යළිපූරණය">
-<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "A">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "සියළු ටැබ් පිටුසලකුණු කරන්න…">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "T">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
+toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.reloadSelectedTab.accesskey "R">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
+toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.reloadSelectedTabs.accesskey "R">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
+toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.bookmarkSelectedTab.accesskey "T">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
+toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.accesskey "T">
+<!ENTITY toolbarContextMenu.selectAllTabs.accesskey "S">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "ටැබ් වැසීම අහෝසි කරන්න">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "U">
 
@@ -185,8 +228,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editThisBookmarkCmd.label "මෙම පිටු සලකුණ සකසන්න">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
-<!ENTITY subscribeToPageMenupopup.label "මෙම පිටුවට දායකත්වය දක්වන්න">
-<!ENTITY subscribeToPageMenuitem.label "මෙම පිටුවට දායකත්වය දක්වන්න...">
 <!ENTITY addCurPagesCmd.label "සියලු ටැබ පිටු සලකුණුගත කරන්න...">
 <!ENTITY showAllBookmarks2.label "සියළු පිටුසලකුණු පෙන්වන්න…">
 <!ENTITY recentBookmarks.label "මෑතදී පිටුසලකුණු කළ">
@@ -250,7 +291,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "මුල් පිටුව">
 
-
 <!ENTITY bookmarksButton.label          "පිටු සලකුණු">
 <!ENTITY bookmarksCmd.commandkey "b">
 
@@ -304,6 +344,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newUserContext.label             "නව බහලුම් ටැබය">
 <!ENTITY newUserContext.accesskey         "C">
+<!ENTITY manageUserContext.accesskey      "O">
 <!ENTITY newNavigatorCmd.label        "නව කවුළුවක්">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
@@ -401,23 +442,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY customizeMenu.addToToolbar.label "මෙවලම් තීරුවට එක් කරන්න">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
-<!ENTITY customizeMenu.addToPanel.label "මෙනුවට එක් කරන්න">
-<!ENTITY customizeMenu.addToPanel.accesskey "M">
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
      customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "පිටාර මෙනුවට එක් කරන්න">
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "M">
-<!ENTITY customizeMenu.moveToToolbar.label "මෙවලම් තීරුව වෙත යන්න">
-<!ENTITY customizeMenu.moveToToolbar.accesskey "o">
-<!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
-     can appear on the same context menu as menubarCmd and personalbarCmd,
-     so they should have different access keys. customizeMenu.moveToToolbar and
-     customizeMenu.moveToPanel are mutually exclusive, so can share access
-     keys.  -->
-<!ENTITY customizeMenu.moveToPanel.label "මෙනුව වෙත ගෙනයන්න">
-<!ENTITY customizeMenu.moveToPanel.accesskey "o">
 <!-- LOCALIZATION NOTE (customizeMenu.pinToOverflowMenu.accesskey)
      can appear on the same context menu as menubarCmd and personalbarCmd,
      so they should have different access keys.  -->
@@ -427,11 +457,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "U">
 <!ENTITY customizeMenu.removeFromToolbar.label "මෙවලම් තීරුවෙන්න ඉවත් කරන්න">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
-<!ENTITY customizeMenu.removeFromMenu.label "මෙනුවෙන් ඉවත් කරන්න">
-<!ENTITY customizeMenu.removeFromMenu.accesskey "R">
 <!ENTITY customizeMenu.addMoreItems.label "තවත් අයිතම එක් කරන්න....">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
-
+<!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "A">
+<!ENTITY customizeMenu.manageExtension.accesskey "E">
+<!ENTITY customizeMenu.removeExtension.accesskey "">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -540,9 +570,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.label         "රාමුව ප්‍රතිපූරණය">
 <!ENTITY reloadFrameCmd.accesskey     "R">
 <!ENTITY viewPartialSourceForSelectionCmd.label "තේරිම් මූලය ‌පෙන්වන්න">
-<!ENTITY viewPartialSourceForMathMLCmd.label    "MathML මූලය ‌පෙන්වන්න">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
-         viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label      "පිටුවේ මූලය ‌පෙන්වන්න">
 <!ENTITY viewPageSourceCmd.accesskey  "V">
@@ -573,7 +600,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.label      "මෙම රාමුව පිටු සලකුණුගත කරන්න">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 <!ENTITY pageAction.copyLink.label    "සබැඳිය පිටපත් කරන්න">
-<!ENTITY copyURLFeedback.label        "පිටපත් කළා!">
+
+<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
+  "Pocket" is a brand name. -->
+<!ENTITY saveToPocketCmd.accesskey    "">
+<!ENTITY saveLinkToPocketCmd.accesskey "">
+
 <!ENTITY emailPageCmd.label           "විද්‍යුත් තැපැල් සබැඳිය">
 <!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "පිටුව සුරකින්න...">
@@ -604,6 +636,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hidePluginCmd.label          "මෙම ප්ලගිනය සඟවන්න">
 <!ENTITY hidePluginCmd.accesskey      "H">
 <!ENTITY copyLinkCmd.label            "පුරුකේ ස්ථානය පිටපත් කරන්න">
+<!-- LOCALIZATION NOTE (copyLinkCmd.accesskey): The access keys for "Copy Link
+Location" and "Copy Email Address" should be the same if possible; the two
+context menu items are mutually exclusive. -->
 <!ENTITY copyLinkCmd.accesskey        "a">
 <!ENTITY copyImageCmd.label           "රූපයෙ ස්ථානය පිටපත් කරන්න">
 <!ENTITY copyImageCmd.accesskey       "o">
@@ -614,6 +649,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyAudioURLCmd.label        "ශ්‍රව්‍ය පිහිටුම පිටපත් කරන්න">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
 <!ENTITY copyEmailCmd.label           "විද්‍යුත් තැපැල් ලිපිනය පිටපත් කරන්න">
+<!-- LOCALIZATION NOTE (copyEmailCmd.accesskey): The access keys for "Copy Link
+Location" and "Copy Email Address" should be the same if possible; the two
+context menu items are mutually exclusive. -->
 <!ENTITY copyEmailCmd.accesskey       "E">
 <!ENTITY thisFrameMenu.label              "මෙම රාමුව">
 <!ENTITY thisFrameMenu.accesskey          "h">
@@ -749,9 +787,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "ශබ්ද කෝෂය එක් කරන්න...">
 <!ENTITY spellAddDictionaries.accesskey "A">
 
+<!-- LOCALIZATION NOTE (editBookmark.panel.width): width of the bookmark panel.
+     Should be large enough to fully display the Done and Cancel/
+     Remove Bookmark buttons. -->
 <!ENTITY editBookmark.done.label                     "කළා">
-<!ENTITY editBookmark.removeBookmark.accessKey       "R">
-
+<!ENTITY editBookmark.showForNewBookmarks.accesskey   "S">
 
 <!-- LOCALIZATION NOTE (identity.securityView.label)
      This is the header of the security subview in the Site Identity panel. -->
@@ -798,6 +838,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissions "අවසරයන්">
 <!ENTITY identity.permissionsEmpty "ඔබ මෙම අඩවියට විශෙෂිත අවසර ලබා දී නැත.">
 <!ENTITY identity.permissionsReloadHint "වෙනස්කම් යෙදවීම සඳහා ඔබට පිටුව යළි පූරණය කිරීමට සිදුවිය හැක.">
+
 
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -898,38 +939,29 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "ටැබයේ හඩ බෙදා හදා ගනු ඇත.">
 <!ENTITY getUserMedia.allWindowsShared.message "ඔබේ තිරයේ දිස්වෙන සියළු කවුළු බෙදාගැනෙනු ඇත.">
 
-<!ENTITY trackingProtection.title "ලුහුබැඳීම් ආරක්ෂණය">
-<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; විසින් මෙම පිටුවේ සමහර කොටස් ඔබගේ ගවේෂණයන් විමර්ශණය කරනු ඇතැයි සළකා ඒවා අවහිර කර ඇත.">
-<!ENTITY trackingProtection.detectedNotBlocked3 "මෙම අඩවියේ ඔබගේ ගවේෂණයන් විමර්ශණය කරන කොටස් අන්තර්ගතය. ඔබ ආරක්ෂණය අබල කර ඇත.">
-<!ENTITY trackingProtection.notDetected3 "ගවේෂණයන් ලුහුබඳින කොටස් මෙම පිටුවේ සොයා නොගැණිනි.">
-<!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock.label "මෙම අඩවිය සඳහා ආරක්ෂනය අක්‍රීය කරන්න">
-<!ENTITY trackingProtection.unblock.accesskey "D">
-<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate.label "මෙම සැසිය සඳහා ආරක්ෂණය අක්‍රීය කරන්න">
-<!ENTITY trackingProtection.unblockPrivate.accesskey "D">
-<!ENTITY trackingProtection.block2.label "ආරක්ෂණය සක්‍රීය කරන්න">
-<!ENTITY trackingProtection.block2.accesskey "E">
 
 
-<!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
+<!ENTITY contentBlocking.manageSettings.accesskey "M">
+
+
+
+
+
+<!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
+<!ENTITY trackingProtection.unblock5.accesskey "T">
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate6.label, trackingProtection.unblockPrivate6.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate5.accesskey "T">
+<!ENTITY trackingProtection.block6.accesskey "T">
+<!ENTITY trackingProtection.reload2.accesskey "R">
 
 <!ENTITY pluginNotification.showAll.label "සියල්ල පෙන්වන්න">
 <!ENTITY pluginNotification.showAll.accesskey "S">
-
-<!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
-<!ENTITY pluginActivateNow.label "දැන් ඉඩ දෙන්න">
-<!ENTITY pluginActivateAlways.label "ඉඩදී මතකතබා ගන්න">
-<!ENTITY pluginBlockNow.label "ප්ලගිනය අවහිර කරන්න">
 
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
      width of the plugin popup notification that can appear if a plugin has been
@@ -997,17 +1029,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.header.message "ඔබේ නව ටැබය වෙනස් වී ඇත.">
 <!ENTITY newTabControlled.keepButton.label "වෙනස්කම් තබාගන්න">
 <!ENTITY newTabControlled.keepButton.accesskey "K">
+<!ENTITY newTabControlled.disableButton.accesskey "D">
 
+<!ENTITY homepageControlled.message "දිගුවක් විසින් ඔබ නිවෙස් පිටුවේ දැක්වෙන ආකාරය වෙනස් කර ඇත. මෙම වෙනස අවශ්‍ය නොවේ නම් ඔබට මෙය යලි පිහිටුවිය හැක.">
+<!ENTITY homepageControlled.keepButton.accesskey "K">
+<!ENTITY homepageControlled.disableButton.accesskey "D">
 
+<!ENTITY tabHideControlled.keepButton.accesskey "K">
+<!ENTITY tabHideControlled.disableButton.accesskey "D">
 
 <!ENTITY pageActionButton.tooltip "පිටු ක්‍රියාවන්">
 <!ENTITY pageAction.addToUrlbar.label "ලිපින තීරුවට එක් කරන්න">
 <!ENTITY pageAction.removeFromUrlbar.label "ලිපින තීරුවෙන් ඉවත් කරන්න">
-<!ENTITY pageAction.allowInUrlbar.label "ලිපින තීරුව තුළ පෙන්වන්න">
-<!ENTITY pageAction.disallowInUrlbar.label "ලිපින තීරුව තුළ නොපෙන්වන්න">
 <!ENTITY pageAction.manageExtension.label "දිගුව පාලනය කරන්න…">
 
-<!ENTITY pageAction.sendTabToDevice.label "ටැබය උපාංගයට යවන්න">
 <!ENTITY sendToDevice.syncNotReady.label "උපාංග සමමුහුර්ත කරමින්…">
 
 
@@ -1022,3 +1057,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE: (addonPostInstallMessage.label):
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
+
+<!ENTITY addonPrivateBrowsing.okButton.accesskey "O">
+<!ENTITY addonPrivateBrowsing.manageButton.accesskey "M">
