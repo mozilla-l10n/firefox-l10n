@@ -52,10 +52,44 @@ restart-later = පසුව යළි අරඹන්න
 ## Variables:
 ##   $name (String): name of the extension
 
+# This string is shown to notify the user that their home page
+# is being controlled by an extension.
+extension-controlled-homepage-override = <img data-l10n-name="icon"/>{ $name }, නමැති දිගුවක් ඔබේ මුල් පිටුව පාලනය කරයි.
+# This string is shown to notify the user that their new tab page
+# is being controlled by an extension.
+extension-controlled-new-tab-url = <img data-l10n-name="icon"/>{ $name }, නමාති දිගුව ඔබගේ නව ටැබ පිටුව පාලනය කරයි.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlled-web-notifications = <img data-l10n-name="icon"/>{ $name }, නමැති දිගුව මෙම සැකසුම පාලනය කරයි.
+# This string is shown to notify the user that the default search engine
+# is being controlled by an extension.
+extension-controlled-default-search = <img data-l10n-name="icon"/>{ $name }, නමැති දිගුව ඔබගේ පෙරනිමි සෙවුම් එළවුම පිහිටුවා ඇත.
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlled-privacy-containers = <img data-l10n-name="icon"/>{ $name }, නමැති දිගුව සඳහා, බහාළුම් ටැබ අවශ්‍ය වේ.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlled-websites-content-blocking-all-trackers = <img data-l10n-name="icon"/>{ $name }, නමැති දිගුව මෙම සැකසුම පාලනය කරයි.
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlled-proxy-config = <img data-l10n-name="icon"/>{ $name }, නමැති දිගුව { -brand-short-name } අන්තර්ජාලයට සබඳ වන ආකාරය පාලනය කරයි.
+# This string is shown after the user disables an extension to notify the user
+# how to enable an extension that they disabled.
+#
+# <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
+# <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
+extension-controlled-enable = මෙම දිගුව සක්‍රීය කිරීමට <img data-l10n-name="menu-icon"/> මෙනුවෙහි <img data-l10n-name="addons-icon"/> ඇඩෝන වෙත යන්න.
 
 ## Preferences UI Search Results
 
 search-results-header = සෙවුම් ප්‍රථිපල
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] සමාවන්න! විකල්ප තුළ <span data-l10n-name="query"></span>  සඳහා ප්‍රථිපල නොමැත.
+       *[other] සමාවන්න! අභිප්‍රේත තුළ <span data-l10n-name="query"></span>  සඳහා ප්‍රථිපල නොමැත.
+    }
+search-results-help-link = උදව් ඇවැසිද? <a data-l10n-name="url">{ -brand-short-name }සහාය</a> වෙත පිවිසෙන්න
 
 ## General Section
 
@@ -78,12 +112,17 @@ set-as-my-default-browser =
 startup-restore-previous-session =
     .label = පෙර සැසිය ප්‍රතිස්ථාපනය කරන්න
     .accesskey = s
+startup-restore-warn-on-quit =
+    .label = ගවේශකයෙන් පිටවන විට ඔබට දන්වන්න
 disable-extension =
     .label = දිගු ක්‍රියා විරහිත කරන්න
 tabs-group-header = ටැබ්
 ctrl-tab-recently-used-order =
     .label = මෑතදී භාවිත පෙළගැස්මට ටැබ අතර මාරුවීම සඳහා Ctrl+Tab භාවිත කරන්න
     .accesskey = T
+open-new-link-as-tabs =
+    .label = නව කවුළු වෙනුවට සබැඳි නව ටැබ තුළ පෙන්වන්න
+    .accesskey = w
 warn-on-close-multiple-tabs =
     .label = ටැබ් කිහිපයක් වසා දැමීමේදී ඔබට අනතුරු අගවයි
     .accesskey = m
@@ -505,6 +544,7 @@ permissions-a11y-privacy-link = තවත් දැනගන්න
 
 collection-privacy-notice = පෞද්ගලිකත්ව දැනුම්දීම
 collection-health-report-link = තවත් දැනගන්න
+addon-recommendations-link = තවත් දැනගන්න
 collection-browser-errors-link = තවත් දැනගන්න
 collection-backlogged-crash-reports-link = තවත් දැනගන්න
 

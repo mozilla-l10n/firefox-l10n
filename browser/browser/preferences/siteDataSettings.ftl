@@ -5,10 +5,15 @@
 
 ## Settings
 
+site-data-search-textbox =
+    .placeholder = ජාල අඩවි සොයන්න
+    .accesskey = S
 site-data-column-host =
     .label = අඩවිය
 site-data-column-storage =
     .label = ගබඩා කිරීම
+site-data-column-last-used =
+    .label = අවසන් භාවිතය
 site-data-remove-selected =
     .label = තෝරාගත් එක ඉවත් කරන්න
     .accesskey = r
@@ -28,5 +33,3 @@ site-data-remove-all =
 
 ## Removing
 
-site-data-removing-window =
-    .title = { site-data-removing-header }
