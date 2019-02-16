@@ -229,6 +229,7 @@ manage-extensions-shortcuts =
     .accesskey = s
 shortcuts-empty-message = Không có phím tắt cho tiện ích mở rộng này.
 shortcuts-no-addons = Bạn không có bất kỳ tiện ích mở rộng nào được kích hoạt.
+shortcuts-no-commands = Các tiện ích mở rộng sau không có phím tắt:
 shortcuts-input =
     .placeholder = Nhập một phím tắt
 shortcuts-browserAction = Kích hoạt tiện ích mở rộng
@@ -246,3 +247,11 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = Hiện ít hơn
 go-back-button =
     .tooltiptext = Quay lại
+
+## Add-on actions
+
+remove-addon-button = Xóa
+disable-addon-button = Tắt
+enable-addon-button = Bật
+addons-enabled-heading = Đã bật
+addons-disabled-heading = Đã tắt
