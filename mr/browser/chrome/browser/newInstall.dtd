@@ -8,5 +8,6 @@
 -->
 
 <!ENTITY window.title "महत्त्वपूर्ण बातमी">
+<!ENTITY window.style "width: 490px">
 <!ENTITY continue-button "पुढे चला">
 
