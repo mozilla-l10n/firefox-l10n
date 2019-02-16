@@ -52,7 +52,7 @@
 <!ENTITY cmd.open_private_window.accesskey "r">
 <!ENTITY cmd.open_tab.label              "Mở trong Thẻ Mới">
 <!ENTITY cmd.open_tab.accesskey          "o">
-<!ENTITY cmd.open_all_in_tabs.label      "Mở Toàn Bộ trong Thẻ">
+<!ENTITY cmd.open_all_in_tabs.label      "Mở toàn bộ trong thẻ">
 <!ENTITY cmd.open_all_in_tabs.accesskey  "B">
 
 <!ENTITY cmd.properties.label      "Thuộc tính">
@@ -62,12 +62,12 @@
 <!ENTITY cmd.sortby_name.accesskey          "X">
 <!ENTITY cmd.context_sortby_name.accesskey  "e">
 
-<!ENTITY cmd.new_bookmark.label            "Đánh dấu Mới…">
+<!ENTITY cmd.new_bookmark.label            "Đánh dấu mới…">
 <!ENTITY cmd.new_bookmark.accesskey        "u">
-<!ENTITY cmd.new_folder.label              "Thư mục Mới…">
+<!ENTITY cmd.new_folder.label              "Thư mục mới…">
 <!ENTITY cmd.new_folder.accesskey          "i">
 <!ENTITY cmd.context_new_folder.accesskey  "i">
-<!ENTITY cmd.new_separator.label           "Ngăn cách Mới">
+<!ENTITY cmd.new_separator.label           "Ngăn cách mới">
 <!ENTITY cmd.new_separator.accesskey       "N">
 
 <!ENTITY col.name.label          "Tên">

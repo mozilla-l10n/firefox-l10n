@@ -996,6 +996,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Cookie">
 <!ENTITY contentBlocking.cookiesView.label "Cookie và dữ liệu trang">
 
+<!ENTITY contentBlocking.cryptominers.label "Tiền điện tử">
+<!ENTITY contentBlocking.cryptominersView.label "Tiền điện tử">
+
+<!ENTITY contentBlocking.fingerprinters.label "Vân tay">
+<!ENTITY contentBlocking.fingerprintersView.label "Vân tay">
+
 <!ENTITY contentBlocking.openBreakageReportView2.label "Báo cáo một lỗi">
 <!ENTITY contentBlocking.breakageReportView.label "Báo cáo lỗi">
 <!ENTITY contentBlocking.breakageReportView2.description "Chặn nội dung có thể gây ra sự cố với một số trang web. Khi bạn báo cáo sự cố, bạn sẽ giúp tạo &brandShortName; tốt hơn cho mọi người. (Thao tác này sẽ gửi URL cũng như thông tin về cài đặt trình duyệt của bạn tới Mozilla.)">

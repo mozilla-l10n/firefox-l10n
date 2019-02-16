@@ -50,6 +50,7 @@ policy-EnableTrackingProtection = Kích hoạt hoặc vô hiệu hóa chặn n�
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
 policy-Extensions = Cài đặt, gỡ cài đặt hoặc khóa tiện ích mở rộng. Tùy chọn Cài đặt lấy URL hoặc đường dẫn làm tham số. Các tùy chọn Gỡ cài đặt và Khóa lấy ID tiện ích mở rộng.
+policy-ExtensionUpdate = Bật hoặc tắt cập nhật tiện ích mở rộng tự động.
 policy-FlashPlugin = Cho phép hoặc từ chối việc sử dụng phần bổ trợ Flash.
 policy-HardwareAcceleration = Nếu không đúng, hãy tắt chế độ tăng tốc phần cứng.
 # “lock” means that the user won’t be able to change this setting
@@ -71,5 +72,6 @@ policy-SearchEngines = Cấu hình cài đặt công cụ tìm kiếm. Chính s�
 policy-SecurityDevices = Cài đặt các mô-đun PKCS # 11.
 policy-SSLVersionMax = Chỉnh phiên bản SSL tối đa.
 policy-SSLVersionMin = Chỉnh phiên bản SSL tối thiểu.
+policy-SupportMenu = Thêm một mục menu hỗ trợ tùy chỉnh vào menu trợ giúp.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Chặn các trang web không được truy cập. Xem tài liệu để biết thêm chi tiết về định dạng.
