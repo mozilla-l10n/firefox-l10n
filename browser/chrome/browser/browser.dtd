@@ -22,6 +22,7 @@
 <!ENTITY  reloadTab.label                    "بازآوری زبانه">
 <!ENTITY  reloadTab.accesskey                "ب">
 <!ENTITY  selectAllTabs.label                "انتخاب همه‌ی زبانه‌ها">
+<!ENTITY  selectAllTabs.accesskey            "S">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
 <!ENTITY  duplicateTab.label                 "تکرار کردن زبانه">
@@ -30,8 +31,10 @@ These items have the same accesskey but will never be visible at the same time. 
 <!ENTITY  duplicateTab.accesskey             "D">
 <!-- LOCALIZATION NOTE (duplicateTabs.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
+<!ENTITY  duplicateTabs.label                "زبانه‌های تکراری">
 <!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
+<!ENTITY  duplicateTabs.accesskey            "D">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -41,6 +44,7 @@ left instead of right. -->
 <!ENTITY  closeOtherTabs.accesskey           "ب">
 
 <!ENTITY  closeTabs.label                    "بستن زبانه‌ها">
+<!ENTITY  closeTabs.accesskey                "S">
 <!ENTITY  pinSelectedTabs.label              "سنجاق کردن زبانه‌ها">
 <!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
@@ -54,6 +58,7 @@ same accesskey but will never be visible at the same time. -->
 <!-- LOCALIZATION NOTE(reloadTab.label, reloadTabs.label): have the same accesskey
 but will never be visible at the same time. -->
 <!ENTITY  reloadTabs.label                   "بازآوری زبانه‌ها">
+<!ENTITY  reloadTabs.accesskey               "R">
 <!ENTITY  bookmarkSelectedTabs.label         "نشانک‌گذاری زبانه‌ها…">
 <!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
@@ -81,9 +86,13 @@ same accesskey but will never be visible at the same time. -->
 <!-- LOCALIZATION NOTE (moveTabOptions.label and moveSelectedTabOptions.label):
 These two items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  moveTabOptions.label               "انتقال زبانه">
+<!ENTITY  moveTabOptions.accesskey           "v">
 <!ENTITY  moveSelectedTabOptions.label       "انتقال زبانه‌ها">
+<!ENTITY  moveSelectedTabOptions.accesskey   "v">
 <!ENTITY  moveToStart.label                  "انتقال به ابتدا">
+<!ENTITY  moveToStart.accesskey              "S">
 <!ENTITY  moveToEnd.label                    "انتقال به انتها">
+<!ENTITY  moveToEnd.accesskey                "E">
 <!ENTITY  moveToNewWindow.label              "انتقال به پنجرهٔ جدید">
 <!ENTITY  moveToNewWindow.accesskey          "پ">
 <!ENTITY  reopenInContainer.label            "باز کردن دوباره در محفظه">
@@ -91,6 +100,7 @@ These two items have the same accesskey but will never be visible at the same ti
 <!ENTITY  bookmarkTab.label                  "نشانک‌گذاری زبانه">
 <!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
+<!ENTITY  bookmarkTab.accesskey              "B">
 <!ENTITY  undoCloseTab.label                 "برگردان زبانه بسته شده">
 <!ENTITY  undoCloseTab.accesskey             "ب">
 <!ENTITY  closeTab.label                     "بستن زبانه">
@@ -101,6 +111,7 @@ These items have the same accesskey but will never be visible at the same time. 
 
 <!-- LOCALIZATION NOTE (allTabsMenu.searchTabs.label): "Search" is a verb, as
 in "Search through tabs". -->
+<!ENTITY  allTabsMenu.searchTabs.label       "جست‌وجو زبانه‌ها">
 
 <!ENTITY tabCmd.label "زبانه جدید">
 <!ENTITY tabCmd.accesskey "ز">
@@ -120,6 +131,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.accesskey "چ">
 <!ENTITY printCmd.commandkey "p">
 
+<!ENTITY taskManagerCmd.label "مدیر وظایف">
 
 <!ENTITY goOfflineCmd.label "آفلاین کار کن">
 <!ENTITY goOfflineCmd.accesskey "ک">
@@ -135,19 +147,24 @@ when there are no windows but Firefox is still running. -->
 <!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
 toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.reloadSelectedTab.accesskey "R">
 <!ENTITY toolbarContextMenu.reloadSelectedTabs.label "بازآوری زبانه‌های انتخاب شده">
 <!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
 toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.reloadSelectedTabs.accesskey "R">
 <!ENTITY toolbarContextMenu.bookmarkSelectedTab.label "نشانک‌گذاری زبانه‌ انتخاب شده…">
 <!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
 toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.bookmarkSelectedTab.accesskey "T">
 <!ENTITY toolbarContextMenu.bookmarkSelectedTabs.label "نشانک‌گذاری زبانه‌های انتخاب شده…">
 <!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
 toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.accesskey "T">
 <!ENTITY toolbarContextMenu.selectAllTabs.label "انتخاب همه‌ی زبانه‌ها">
+<!ENTITY toolbarContextMenu.selectAllTabs.accesskey "S">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "برگردان زبانه بسته شده">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "ب">
 
@@ -269,7 +286,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "ذخیره اطلاعات به صورت ذخیره دائمی">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "مرورگر تحت کنترل از راه دور است">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "باز کردن تابلوی تصدیق هویت وب">
-
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "مدیریت اینکه آیا دوربین و/یا میکروفون خود را با این سایت به اشتراک می‌گذارید یا خیر">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "مدیریت به‌اشتراک‌گذاری میکروفن با این پایگاه">
@@ -619,7 +635,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
 <!ENTITY pocketButton.tooltiptext     "ذخیره‌سازی در Pocket">
+<!ENTITY saveToPocketCmd.label        "ذخیره صفحه در Pocket">
+<!ENTITY saveToPocketCmd.accesskey    "k">
 <!ENTITY saveLinkToPocketCmd.label    "ذخیره پیوند در Pocket">
+<!ENTITY saveLinkToPocketCmd.accesskey "o">
 <!ENTITY pocketMenuitem.label         "نمایش فهرست Pocket">
 
 <!ENTITY emailPageCmd.label           "ایمیل کردن پیوند...">
@@ -860,6 +879,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsReloadHint "ممکن است لازم باشد که صفحه را برای اعمال تغییرات دوباره بارگیری کنید.">
 <!ENTITY identity.permissionsPreferences.tooltip "باز کردن ترجیحات مجوزها">
 
+
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "زبانه‌های مرورگر">
@@ -961,64 +982,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.title "مسدود کردن محتوا">
 <!ENTITY contentBlocking.detected "محتواهای قابل مسدود شدن در این صفحه">
 <!ENTITY contentBlocking.notDetected "هیچ محتوا غیرقابل مسدود شدنی برای این صفحه وجود ندارد.">
-<!ENTITY contentBlocking.disabled.label "غیر فعال">
-<!ENTITY contentBlocking.disabled.tooltip "شما مسدود کردن محتوا رو غیرفعال کرده‌اید.">
-<!ENTITY contentBlocking.exception.tooltip "شما مسدود کردن محتوا برای این وب سایت رو غیرفعال کرده‌اید.">
-
-<!ENTITY contentBlocking.fastBlock.label "بارگذاری کند دنبال کننده‌ ها">
-<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
-     This label signals that this type of content blocking is turned
-     ON and is successfully blocking malicious/slow content, so this is
-     a positive thing. It forms the end of the (imaginary) sentence
-     "Slow-Loading Trackers [are] Blocked"-->
-<!ENTITY contentBlocking.fastBlock.blocked.label "مسدود شده">
-<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocking.label):
-     This label signals that this type of content blocking is turned
-     ON, so this is a positive thing. It forms the verb in (imaginary) sentence
-     "Firefox is blocking Slow-Loading Trackers"-->
-<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
-     This is displayed as a link to preferences, where the user can add
-     this specific type of content blocking. When this text is shown
-     the type of content blocking is currently not enabled. -->
-<!ENTITY contentBlocking.fastBlock.add.label "اضافع کردن مسدودکننده‌ها…">
-
-<!ENTITY contentBlocking.trackingProtection2.label "تمام دنبال کننده های شناسایی شده">
 
 <!ENTITY contentBlocking.trackingProtection3.label "ردیاب‌ها">
-<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
-     This label signals that this type of content blocking is turned
-     ON and is successfully blocking tracker content, so this is
-     a positive thing. It forms the end of the (imaginary) sentence
-     "Trackers [are] Blocked"-->
-<!ENTITY contentBlocking.trackingProtection.blocked.label "مسدود شده">
-<!-- LOCALIZATION NOTE (contentBlocking.tranckingProtection.blocking.label):
-     This label signals that this type of content blocking is turned
-     ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
-     "Firefox is blocking Trackers"-->
-<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
-     This is displayed as a link to preferences, where the user can add
-     this specific type of content blocking. When this text is shown
-     the type of content blocking is currently not enabled. -->
-<!ENTITY contentBlocking.trackingProtection.add.label "اضافه کردن مسدود‌کننده…">
 
-<!ENTITY contentBlocking.3rdPartyCookies.label "کوکی‌های شخص ثالث">
-<!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.blocked.label):
-     This label signals that this type of content blocking is turned
-     ON and is successfully blocking third-party cookies, so this is
-     a positive thing. It forms the end of the (imaginary) sentence
-     "Third-Party Cookies [are] Blocked"-->
-<!ENTITY contentBlocking.3rdPartyCookies.blocked.label "مسدود شده">
-<!-- LOCALIZATION NOTE (contentBlocking.tranckingProtection.blocking.label):
-     This label signals that this type of content blocking is turned
-     ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
-     "Firefox is blocking Third-Party Cookies"-->
-<!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.add.label):
-     This is displayed as a link to preferences, where the user can add
-     this specific type of content blocking. When this text is shown
-     the type of content blocking is currently not enabled. -->
-<!ENTITY contentBlocking.3rdPartyCookies.add.label "اضافه کردن مسدودکننده…">
+<!ENTITY contentBlocking.manageSettings.accesskey "M">
 
+<!ENTITY contentBlocking.trackersView.label "ردیاب‌ها">
 
+<!ENTITY contentBlocking.cookies.label "کوکی‌ها">
+<!ENTITY contentBlocking.cookiesView.label "کوکی‌ها و داده‌های سایت">
+
+<!ENTITY contentBlocking.cryptominers.label "استخراج کننده‌های رمزارزها">
+<!ENTITY contentBlocking.cryptominersView.label "استخراج کننده‌های رمزارزها">
 
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "گزارش خطا">
@@ -1030,38 +1005,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "ارسال گزارش">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "انصراف">
 
-<!ENTITY trackingProtection.title "محافظت در برابر ردگیری">
-<!ENTITY trackingProtection.tooltip "باز کردن ترجیحات محافظت در برابر رهگیری">
-
-<!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock4.label "غیرفعال سازی مسدود کردن برای این وب سایت">
-<!ENTITY trackingProtection.unblock4.accesskey "D">
-<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate4.label "غیرفعال سازی به صورت موقت">
-<!ENTITY trackingProtection.unblockPrivate4.accesskey "D">
-<!ENTITY trackingProtection.block5.label "غیرفعال سازی مسدودکردن برای این وب سایت">
-<!ENTITY trackingProtection.block5.accesskey "E">
-
 <!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock5.label "خاموش کردن مسدودسازی‌ها برای این وب‌سایت">
+<!ENTITY trackingProtection.unblock5.accesskey "T">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate6.label, trackingProtection.unblockPrivate6.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate5.accesskey "T">
+<!ENTITY trackingProtection.block6.accesskey "T">
 <!ENTITY trackingProtection.reload2.label "بازآوری صفحه">
 <!ENTITY trackingProtection.reload2.accesskey "R">
 
 <!ENTITY pluginNotification.showAll.label "نمایش همه">
 <!ENTITY pluginNotification.showAll.accesskey "ن">
-
-<!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
-<!ENTITY pluginActivateNow.label "این بار اجازه بده">
-<!ENTITY pluginActivateAlways.label "اجازه بده و به خاطر بسپار">
-<!ENTITY pluginBlockNow.label "افزونه را مسدود کن">
 
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
      width of the plugin popup notification that can appear if a plugin has been
@@ -1167,3 +1125,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "با کلیک بر روی <image class='addon-addon-icon'/> در منو <image class='addon-toolbar-icon'/> افزونه‌های خود را مدیریت کنید.">
+
+<!ENTITY addonPrivateBrowsing.header.label "افزونه‌ها در پنجره‌های ناشناس">
+<!ENTITY addonPrivateBrowsing.okButton.label "باشه، فهمیدم">
+<!ENTITY addonPrivateBrowsing.okButton.accesskey "O">
+<!ENTITY addonPrivateBrowsing.manageButton.label "مدیریت افزونه‌ها">
+<!ENTITY addonPrivateBrowsing.manageButton.accesskey "M">
