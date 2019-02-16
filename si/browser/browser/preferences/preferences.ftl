@@ -15,6 +15,7 @@ pref-page =
 pane-general-title = සාමාන්‍ය
 category-general =
     .tooltiptext = { pane-general-title }
+pane-home-title = නිවස
 pane-search-title = සෙවුම
 category-search =
     .tooltiptext = { pane-search-title }
@@ -26,6 +27,7 @@ pane-sync-title = Firefox ගිනුම
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = { -brand-short-name } සහය
+addons-button-label = දිගු සහ තේමාවන්
 focus-search =
     .key = f
 close-button =
@@ -73,6 +75,9 @@ is-not-default = { -brand-short-name } දැනට ඔබේ පෙරනිම
 set-as-my-default-browser =
     .label = පෙරනිමිය ලෙස සකසන්න…
     .accesskey = D
+startup-restore-previous-session =
+    .label = පෙර සැසිය ප්‍රතිස්ථාපනය කරන්න
+    .accesskey = s
 disable-extension =
     .label = දිගු ක්‍රියා විරහිත කරන්න
 tabs-group-header = ටැබ්
@@ -216,9 +221,11 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = ඔබ යතුරුකරණය ආරම්භ කළ විට පෙළ සඳහා සොයන්න
     .accesskey = x
+browsing-cfr-recommendations-learn-more = තවත් දැනගන්න
 
 ## General Section - Proxy
 
+network-settings-title = ජාල සැකසුම්
 network-proxy-connection-learn-more = තවත් දැනගන්න
 network-proxy-connection-settings =
     .label = සැකසුම්...
@@ -318,6 +325,8 @@ sync-mobile-promo = මෙය සඳහා Firefox බාගත කරන්න 
 
 ## Sync Section - Signed in
 
+sync-profile-picture =
+    .tooltiptext = පැතිකඩ පින්තූරය වෙනස් කරන්න
 sync-disconnect =
     .label = විසන්ධි කරන්න...
     .accesskey = D
@@ -345,6 +354,10 @@ sync-engine-addresses =
     .label = ලිපින
     .tooltiptext = ඔබ සුරක්ෂිත කර අැති ලිපින (මේස පරිඝනකයේ පමණි)
     .accesskey = e
+sync-engine-creditcards =
+    .label = ණය පත්
+    .tooltiptext = නම්,අංක සහ කල් ඉකුත්වන දින ( ඩෙස්ක්ටොප් පමණි)
+    .accesskey = C
 sync-device-name-header = උපාංග නාමය
 sync-device-name-change =
     .label = මෙවලම් නාමය වෙනස් කරන්න...
@@ -365,6 +378,7 @@ sync-fxa-privacy-notice = පෞද්ගලිකත්ව දැන්වී�
 
 ## Privacy Section - Forms
 
+logins-header = පිවිසුම් සහ මුරපද
 forms-exceptions =
     .label = හැරදැමීම්...
     .accesskey = x
@@ -413,6 +427,9 @@ sitedata-clear =
 sitedata-settings =
     .label = දත්ත කළමනාකරණය කරන්න...
     .accesskey = M
+sitedata-cookies-permissions =
+    .label = බලතල කළමනාකරණය...
+    .accesskey = p
 
 ## Privacy Section - Address Bar
 
@@ -430,6 +447,18 @@ addressbar-locbar-openpage-option =
 
 ## Privacy Section - Content Blocking
 
+content-blocking-learn-more = තවත් දැනගන්න
+# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+content-blocking-setting-standard =
+    .label = සම්මත
+    .accesskey = d
+content-blocking-setting-strict =
+    .label = දැඩි
+    .accesskey = r
+content-blocking-setting-custom =
+    .label = රිසිකළ
+    .accesskey = C
 
 ## Privacy Section - Tracking
 

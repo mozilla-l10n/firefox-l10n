@@ -71,6 +71,8 @@ fonts-langgroup-other =
 
 ## Default fonts and their sizes
 
+fonts-proportional-header = සමානුපාතික:
+    .accesskey = P
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
