@@ -226,3 +226,11 @@ shortcuts-sidebarAction = Бүйір панелін көрсету/жасыру
 shortcuts-card-collapse-button = Азырақ көрсету
 go-back-button =
     .tooltiptext = Артқа
+
+## Add-on actions
+
+remove-addon-button = Өшіру
+disable-addon-button = Сөндіру
+enable-addon-button = Іске қосу
+addons-enabled-heading = Іске қосулы
+addons-disabled-heading = Сөндірілген

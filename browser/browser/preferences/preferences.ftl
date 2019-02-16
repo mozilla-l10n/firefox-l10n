@@ -4,10 +4,6 @@
 
 do-not-track-description = Сайттарға "Мені бақыламау" сигналын жіберу арқылы сіз өзіңізді бақыламауды қалайтыныңыз туралы хабарлау
 do-not-track-learn-more = Көбірек білу
-do-not-track-option-default =
-    .label = Тек Бақылаудан қорғанысты қолдану кезінде
-do-not-track-option-default-content-blocking =
-    .label = Тек { -brand-short-name } Анықталған Трекерлерді бұғаттауға бапталған болса.
 do-not-track-option-default-content-blocking-known =
     .label = Тек { -brand-short-name } белгілі трекерлерді бұғаттауға бапталғанда
 do-not-track-option-always =
@@ -95,9 +91,6 @@ extension-controlled-default-search = <img data-l10n-name="icon"/> { $name } к�
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = <img data-l10n-name="icon"/> { $name } кеңейтуі контейнерлік беттерді басқарып тұр.
-# This string is shown to notify the user that their tracking protection preferences
-# are being controlled by an extension.
-extension-controlled-websites-tracking-protection-mode = <img data-l10n-name="icon"/> { $name } кеңейтуі бақылаудан қорғанысты басқарып тұр.
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
 extension-controlled-websites-content-blocking-all-trackers = Бұл баптауды <img data-l10n-name="icon"/> { $name } кеңейтуі басқарып тұр.
@@ -606,12 +599,6 @@ sitedata-total-size-calculating = Сайттар деректері және к�
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Сізде сақталған cookies файлдары, сайт деректері және кэш қазір { $value } { $unit } диск орнын қолдануда.
 sitedata-learn-more = Көбірек білу
-sitedata-keep-until = Дейін сақтау
-    .accesskey = н
-sitedata-keep-until-expire =
-    .label = олардың мерзімі аяқталады
-sitedata-keep-until-closed =
-    .label = { -brand-short-name } жабылған
 sitedata-delete-on-close =
     .label = { -brand-short-name } жабылған кезде cookies және сайттар деректерін өшіру
     .accesskey = ш
@@ -625,16 +612,6 @@ sitedata-disallow-cookies-option =
 # The list items are the strings named sitedata-block-*-option*.
 sitedata-block-desc = Блокталғанның түрі
     .accesskey = т
-sitedata-block-trackers-option-recommended =
-    .label = Үшінші жақты трекерлер (ұсынылады)
-sitedata-block-trackers-option =
-    .label = Үшінші жақты трекерлер
-sitedata-block-unvisited-option =
-    .label = Шолмаған веб-сайттардан cookies файлдары
-sitedata-block-all-third-party-option =
-    .label = Барлық үшінші жақты cookies файлдары (веб-сайттар жұмысы бұзылуы мүмкін)
-sitedata-block-all-option =
-    .label = Барлық cookies файлдары (веб-сайттар жұмысы бұзылады)
 sitedata-option-block-trackers =
     .label = Үшінші жақты трекерлер
 sitedata-option-block-unvisited =
@@ -649,13 +626,6 @@ sitedata-clear =
 sitedata-settings =
     .label = Деректерді басқару…
     .accesskey = б
-sitedata-cookies-exceptions =
-    .label = Ережелерден бөлек…
-    .accesskey = Е
-# This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
-# in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
-# Cookies and Site Data section.
-sitedata-warning-your-settings-prevent-changes = Сіздің Құраманы бұғаттау ішіндегі баптаулар Cookies файлдары және Сайт деректеріне өзгерістерді енгізуге жол бермей тұр.
 sitedata-cookies-permissions =
     .label = Рұқсаттарды басқару…
     .accesskey = р
@@ -678,41 +648,8 @@ addressbar-suggestions-settings = Іздеу жүйесінің ұсыныста
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Құраманы бұғаттау
-content-blocking-desc = Жарнама немесе шолуды тежей алатын, сізді интернетте бақылай алатын код сияқты үшінші жақты құраманы бұғаттау. Қорғаныс және өнімділіктің ең жақсы теңгерімі үшін баптауларды түзетіңіз.
 content-blocking-description = Интернетте сізді бақылайтын үшінші жақты құраманы бұғаттау. Желілік белсенділігіңіздің қай бөлігі сақталатынын және веб-сайттармен бөлісетінін басқарыңыз.
 content-blocking-learn-more = Көбірек білу
-content-blocking-restore-defaults =
-    .label = Бастапқы мәндерін қайтару
-    .accesskey = р
-content-blocking-toggle-on =
-    .tooltiptext = Құраманы бұғаттауды сөндіру
-content-blocking-toggle-off =
-    .tooltiptext = Құраманы бұғаттауды іске қосу
-content-blocking-toggle-label-on = ІСКЕ ҚОС.
-    .accesskey = С
-content-blocking-toggle-label-off = СӨНД.
-    .accesskey = С
-content-blocking-category-label = Нені бұғаттауды таңдаңыз
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-slow-loading-trackers-label =
-    .label = Баяу жүктелетін трекерлер
-    .accesskey = ж
-content-blocking-fastblock-new-description = Тек беттердің жылдам жүктелуіне жол бермейтін трекерлерді бұғаттау.
-content-blocking-tracking-protection-trackers-label =
-    .label = Трекерлер
-    .accesskey = Т
-content-blocking-tracking-protection-all-detected-trackers-label =
-    .label = Барлық анықталған трекерлер
-    .accesskey = т
-content-blocking-tracking-protection-new-description = Барлық белгілі трекерлерді бұғаттау. (Кейбір парақтар жүктелмеуі мүмкін.)
-content-blocking-tracking-protection-option-always =
-    .label = Әрқашан
-    .accesskey = а
-content-blocking-tracking-protection-option-private =
-    .label = Тек жекелік терезелерінде
-    .accesskey = е
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 content-blocking-setting-standard =
@@ -745,51 +682,16 @@ content-blocking-option-private =
     .label = Тек жекелік терезелерінде
     .accesskey = ж
 content-blocking-tracking-protection-change-block-list = Бұғаттау тізімін өзгерту
-content-blocking-third-party-cookies-label =
-    .label = Үшінші жақты cookies файлдары
-    .accesskey = т
-content-blocking-reject-trackers-description = Барлық үшінші жақты немесе тек трекерлер орнатқан cookies файлдарын бұғаттау.
-# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
-# of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
-# or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
-# the UI.
-content-blocking-reject-trackers-warning-your-settings-prevent-changes = Сіздің Cookies файлдары және Сайт деректері ішіндегі баптаулар Үшінші жақты cookies файлдары баптауларына өзгерістерді енгізуге жол бермей тұр.
-content-blocking-change-cookie-settings =
-    .label = Cookie баптауларын өзгерту
-    .accesskey = п
-content-blocking-reject-trackers-block-trackers-option-recommended =
-    .label = Трекерлер (ұсынылады)
-    .accesskey = к
-content-blocking-reject-trackers-block-trackers-option =
-    .label = Трекерлер
-    .accesskey = к
-content-blocking-reject-trackers-all-third-parties-option =
-    .label = Барлық үшінші жақты cookies (веб-сайтта сынуы мүмкін)
-    .accesskey = а
 content-blocking-cookies-label =
     .label = Cookies
     .accesskey = C
+# Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
+content-blocking-cryptominers-label =
+    .label = Криптомайнерлер
+    .accesskey = и
 
 ## Privacy Section - Tracking
 
-tracking-header = Бақылаудан қорғанысты қолдану
-tracking-desc = Бақылаудан қорғаныс көптеген веб-сайттар арасында сіздің деректеріңізді жинайтын онлайн трекерлерді блоктайды. <a data-l10n-name="learn-more">Бақылаудан қорғаныс және сіздің жекелігіңіз туралы көбірек білу</a>
-tracking-mode-label = Белгілі трекерлерді блоктау үшін Бақылаудан қорғанысты қолдану
-tracking-mode-always =
-    .label = Әрқашан
-    .accesskey = ш
-tracking-mode-private =
-    .label = Тек жекелік терезелерінде
-    .accesskey = к
-tracking-mode-never =
-    .label = Ешқашан
-    .accesskey = н
-tracking-exceptions =
-    .label = Ережелерден бөлек…
-    .accesskey = Е
-tracking-change-block-list =
-    .label = Блоктізімді өзгерту…
-    .accesskey = г
 tracking-manage-exceptions =
     .label = Ережеден тыс жағдайларды басқару…
     .accesskey = ж
