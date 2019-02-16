@@ -89,7 +89,7 @@
 <!ENTITY netReset.title "კავშირი გაწყდა">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
-<!ENTITY netTimeout.title "კავშირის ვადა გავიდა">
+<!ENTITY netTimeout.title "კავშირის დრო ამოიწურა">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
 <!ENTITY unknownProtocolFound.title "მისამართი გაუგებარი იყო">
