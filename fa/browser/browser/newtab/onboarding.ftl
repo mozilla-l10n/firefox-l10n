@@ -22,6 +22,7 @@ onboarding-private-browsing-text = به تنهایی مرور کنید. مرور
 onboarding-screenshots-title = تصاویر صفحه
 onboarding-screenshots-text = تصاویر صفحه را بگیرید،‌ ذخیره و هم‌رسان کنید - بدون ترک { -brand-short-name }. هنگام مرور یک بخش یا کل صفحه را ثبت کنید. سپس آن را برای دسترسی آسان و هم‌رسانی روی وب ذخیره کنید.
 onboarding-addons-title = افزونه‌ها
+onboarding-addons-text = حتی امکاناتی بیشتری اضافه کنید تا { -brand-short-name } به دلخواه شما کار کند. قیمت‌ها را مقایسه کنید، آب‌وهوا را چک کنید یا با یک تم جدید، شخصیت خودتان را بهتر ابراز کنید.
 onboarding-ghostery-title = Ghostery
 onboarding-ghostery-text = با افزونه‌هایی مثل Ghostery که به شما اجازه می‌دهند تبلیغات مزاحم را مسدود کنید، سریع‌تر، دقیق‌تر و با امنیت بیشتر مرور کنید.
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"

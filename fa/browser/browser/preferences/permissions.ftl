@@ -58,10 +58,10 @@ permissions-invalid-uri-label = لطفاً نام میزبان معتبری را
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-tracking-protection-window =
-    .title = استثناها - محافظت در برابر ردگیری
+permissions-exceptions-content-blocking-window =
+    .title = استثناها - مسدودسازی محتوا
     .style = { permissions-window.style }
-permissions-exceptions-tracking-protection-desc = شما محافظت در برابر ردگیری را در این سایت‌ها غیرفعال کرده‌اید.
+permissions-exceptions-content-blocking-desc = شما مسدودسازی محتوا را در این وب‌سایت‌ها غیرفعال کرده‌اید.
 
 ## Exceptions - Cookies
 
