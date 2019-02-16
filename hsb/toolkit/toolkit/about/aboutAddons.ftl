@@ -229,6 +229,7 @@ manage-extensions-shortcuts =
     .accesskey = T
 shortcuts-empty-message = Tastowe skrótšenki za tute rozšěrjenje njejsu.
 shortcuts-no-addons = Njejśce žane rozšěrjenja zmóžnił.
+shortcuts-no-commands = Slědowace rozšěrjenja tastowe skrótšenki nimaja:
 shortcuts-input =
     .placeholder = Zapodajće tastowu skrótšenku
 shortcuts-browserAction = Rozšěrjenje aktiwizować
@@ -249,3 +250,11 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = Mjenje pokazać
 go-back-button =
     .tooltiptext = Wróćo hić
+
+## Add-on actions
+
+remove-addon-button = Wotstronić
+disable-addon-button = Znjemóžnić
+enable-addon-button = Zmóžnić
+addons-enabled-heading = Zmóžnjeny
+addons-disabled-heading = Znjemóžnjeny

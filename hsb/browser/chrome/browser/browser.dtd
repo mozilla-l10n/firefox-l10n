@@ -996,6 +996,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Placki">
 <!ENTITY contentBlocking.cookiesView.label "Placki a sydłowe daty">
 
+<!ENTITY contentBlocking.cryptominers.label "Kryptokopanje">
+<!ENTITY contentBlocking.cryptominersView.label "Kryptokopanje">
 
 <!ENTITY contentBlocking.fingerprinters.label "Porstowe wotćišće">
 <!ENTITY contentBlocking.fingerprintersView.label "Porstowe wotćišće">
