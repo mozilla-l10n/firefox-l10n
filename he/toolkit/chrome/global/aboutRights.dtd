@@ -66,13 +66,13 @@
 <!ENTITY rights.safebrowsing-term4 "גלישה בטוחה מנוטרלת כעת">
 
 <!-- location aware browsing points for branded builds -->
-<!ENTITY rights.locationawarebrowsing-a "דפדפוף מבוסס מיקום: ">
+<!ENTITY rights.locationawarebrowsing-a "דפדוף מבוסס מיקום: ">
 <!ENTITY rights.locationawarebrowsing-b "תמיד ממתין לאישור המשתמש. אף מידע מיקום לא נשלח בלי לקבל את רשותך. אם אתה מעוניין לנטרל את התכונה הזו לחלוטין, עקוב אחר צעדים אלו:">
 <!ENTITY rights.locationawarebrowsing-term1a "בשורת הכתובות, הקש ">
 <!ENTITY rights.locationawarebrowsing-term1b "about:config">
 <!ENTITY rights.locationawarebrowsing-term2 "הקלד geo.enabled">
 <!ENTITY rights.locationawarebrowsing-term3 "לחץ לחיצה כפולה על ההעדפה geo.enabled">
-<!ENTITY rights.locationawarebrowsing-term4 "דפדפוף מבוסס מיקום מנוטרל כעת">
+<!ENTITY rights.locationawarebrowsing-term4 "דפדוף מבוסס מיקום מנוטרל כעת">
 
 <!-- intro paragraph for unbranded builds -->
 <!ENTITY rights.webservices-unbranded "סקירה של שירותי האתרים שהמוצר מכיל, יחד עם הוראות כיצד לבטל אותם, אם הדבר ישים, צריכה להיכלל כאן.">
