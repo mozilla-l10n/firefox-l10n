@@ -18,16 +18,31 @@
 <!ENTITY noAltText.label "Non usar texto alternative">
 <!ENTITY noAltText.accessKey "N">
 
+<!ENTITY previewBox.label "Vista preliminar del imagine">
 
 <!-- These controls are in the Dimensions tab panel -->
 <!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
+<!ENTITY actualSize.label "Dimension actual:">
+<!ENTITY actualSizeRadio.label "Dimension actual">
+<!ENTITY actualSizeRadio.accessKey "A">
+<!ENTITY actualSizeRadio.tooltip "Regrede al actual dimension del imagine">
+<!ENTITY customSizeRadio.label "Personalisar dimension">
+<!ENTITY customSizeRadio.accessKey "D">
+<!ENTITY customSizeRadio.tooltip "Cambia le dimension del imagine como monstrate in iste pagina">
 
 <!-- These controls are in the Image Map box of the expanded area -->
 
 <!-- These are the options for image alignment -->
+<!ENTITY topPopup.value "Al culmine">
+<!ENTITY centerPopup.value "In centro">
 
 <!-- These controls are in the Spacing Box -->
+<!ENTITY topBottomEditField.label "Culmine e pede">
+<!ENTITY topBottomEditField.accessKey "C">
 
 <!-- These controls are in the Link Box -->
 
 <!-- These tabs are currently used in the image input dialog -->
+<!ENTITY imageDimensionsTab.label "Dimensiones">
+<!ENTITY imageAppearanceTab.label "Apparentia">
+<!ENTITY imageLinkTab.label "">
