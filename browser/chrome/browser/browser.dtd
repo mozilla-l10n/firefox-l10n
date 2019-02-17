@@ -891,7 +891,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "Karty z innych urządzeń">
 
 <!ENTITY syncedTabs.sidebar.label              "Karty z innych urządzeń">
-<!ENTITY syncedTabs.sidebar.noclients.label    "Zaloguj się w programie &brandShortName; na innym urządzeniu, aby wyświetlić tutaj listę otwartych na nim kart.">
+<!ENTITY syncedTabs.sidebar.noclients.label    "Zaloguj się w Firefoksie na innym urządzeniu, aby wyświetlić tutaj listę otwartych na nim kart.">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Czy wyświetlić tutaj listę kart otwartych na innych urządzeniach?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Zaloguj się, aby wyświetlić listę kart z innych urządzeń.">
 <!ENTITY syncedTabs.sidebar.unverified.label   "Konto musi zostać zweryfikowane.">

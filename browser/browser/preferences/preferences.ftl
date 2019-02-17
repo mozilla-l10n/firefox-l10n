@@ -47,7 +47,7 @@ pane-privacy-title = Prywatność i bezpieczeństwo
 category-privacy =
     .tooltiptext = Ustawienia dotyczące prywatności i bezpieczeństwa
 # The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = Synchronizacja
+pane-sync-title = Konto Firefoksa
 category-sync =
     .tooltiptext = Konto programu Firefox
 help-button-label = Wsparcie programu { -brand-short-name }
