@@ -49,7 +49,7 @@ category-privacy =
 # The word "account" can be translated, do not translate or transliterate "Firefox".
 pane-sync-title = Konto Firefoksa
 category-sync =
-    .tooltiptext = Konto programu Firefox
+    .tooltiptext = Konto Firefoksa
 help-button-label = Wsparcie programu { -brand-short-name }
 addons-button-label = Dodatki i motywy
 focus-search =
