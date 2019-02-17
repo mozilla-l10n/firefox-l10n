@@ -2,12 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY safeModeDialog.title         "&brandShortName; - tryb awaryjny">
+<!ENTITY safeModeDialog.title         "&brandShortName; — tryb awaryjny">
 <!ENTITY window.maxWidth              "400">
+
 <!ENTITY startSafeMode.label          "Uruchom w trybie awaryjnym">
-<!ENTITY refreshProfile.label "Odśwież program &brandShortName;">
-<!ENTITY safeModeDescription3.label "Tryb awaryjny to specjalny tryb pracy programu, przydatny podczas rozwiązywania problemów.">
-<!ENTITY safeModeDescription4.label "Dodatki i ustawienia własne użytkownika zostaną tymczasowo wyłączone.">
-<!ENTITY safeModeDescription5.label "Dodatki i ustawienia własne użytkownika zostaną tymczasowo wyłączone. Niektóre funkcje przeglądarki mogą nie działać jak obecnie.">
-<!ENTITY refreshProfileInstead.label "Można także pominąć rozwiązywanie problemów i spróbować odświeżyć program &brandShortName;.">
+<!ENTITY refreshProfile.label         "Odśwież program &brandShortName;">
+
+<!ENTITY safeModeDescription3.label   "Tryb awaryjny to specjalny tryb pracy programu, przydatny podczas rozwiązywania problemów.">
+<!ENTITY safeModeDescription5.label   "Dodatki i ustawienia własne użytkownika zostaną tymczasowo wyłączone. Niektóre funkcje przeglądarki mogą nie działać jak obecnie.">
+
+<!ENTITY refreshProfileInstead.label  "Można także pominąć rozwiązywanie problemów i spróbować odświeżyć program &brandShortName;.">
+
+<!-- LOCALIZATION NOTE (autoSafeModeDescription3.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->
 <!ENTITY autoSafeModeDescription3.label "&brandShortName; nieoczekiwanie zakończył działanie podczas uruchamiania. Mogło to zostać spowodowane przez dodatki lub inny problem. Można spróbować zbadać sytuację i rozwiązać problem w trybie awaryjnym.">
