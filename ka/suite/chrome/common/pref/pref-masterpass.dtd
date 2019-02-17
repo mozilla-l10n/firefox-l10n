@@ -3,15 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  pref.masterpass.title                  "მთავარი პაროლები">
-<!ENTITY  managepassword.caption                 "მთავარი პაროლის ვადა">
-<!ENTITY  managepassword.text                    "&brandShortName; დაგეკითხებათ თქვენს მთავარ პაროლს:">
-<!ENTITY  managepassword.askfirsttime            "პირველი საჭიროებისამებრ">
-<!ENTITY  managepassword.askfirsttime.accesskey  "T">
-<!ENTITY  managepassword.askeverytime            "ყოველთვის, როცა საჭიროა">
-<!ENTITY  managepassword.askeverytime.accesskey  "E">
-<!ENTITY  managepassword.asktimeout              "თუ მისით არ უსარგებლიათ ">
-<!ENTITY  managepassword.asktimeout.accesskey    "n">
-<!ENTITY  managepassword.timeout.unit            "წუთი ან მეტი">
 
 <!ENTITY  changepassword.caption                 "მთავარი პაროლის შეცვლა">
 <!ENTITY  changepassword.text                    "თქვენი მთავარი პაროლი იცავს ისეთ მონაცემებს, როგორიცაა პაროლები და სერთიფიკატები.">
@@ -19,6 +10,6 @@
 <!ENTITY  changepassword.accesskey               "C">
 
 <!ENTITY  resetpassword.caption                  "მთავარი პაროლის განულება">
-<!ENTITY  resetpassword.text                     "მთავარი პაროლის განულების შემთხვევაში, ყველა თქვენი შენახული საიტებისა და ელფოსტის პაროლი, ფორმბის მონაცემები, პირადი სერთიფიკატები და კოდები დაიკარგება.">
+<!ENTITY  resetpassword.text                     "მთავარი პაროლის განულების შემთხვევაში, ყველა თქვენი შენახული საიტებისა და ელფოსტის პაროლი, ველების მონაცემები, პირადი სერტიფიკატები და საიდუმლო გასაღებები დაიკარგება.">
 <!ENTITY  resetpassword.button                   "პაროლის განულება">
 <!ENTITY  resetpassword.accesskey                "R">
