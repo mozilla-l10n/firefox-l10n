@@ -55,13 +55,23 @@ policy-FlashPlugin = Zezwalanie lub zabranianie korzystania z wtyczki Flash.
 policy-HardwareAcceleration = Wartość „fałsz” wyłącza przyspieszanie sprzętowe.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Ustawienie i opcjonalna blokada strony startowej.
-policy-InstallAddonsPermission = Zezwolenie pewnym witrynom na instalowanie dodatków.
+policy-InstallAddonsPermission = Zezwalanie pewnym witrynom na instalowanie dodatków.
 policy-NetworkPrediction = Włączenie lub wyłączenie przewidywania sieci (wstępnego pobierania DNS).
 policy-NoDefaultBookmarks = Wyłączenie tworzenia domyślnych zakładek dołączonych do przeglądarki { -brand-short-name } oraz dynamicznych zakładek („Często odwiedzane” i „Ostatnio używane etykiety”). Uwaga: ta zasada jest uwzględniana tylko przed pierwszym uruchomieniem profilu.
 policy-OfferToSaveLogins = Wymuszenie ustawienia zezwalającego przeglądarce { -brand-short-name } pytanie o zapamiętanie zachowanych danych logowania i haseł. Przyjmowane są wartości „prawda” i „fałsz”.
 policy-OverrideFirstRunPage = Zastąpienie strony pierwszego uruchomienia. Ustawienie tej zasady na pustą wyłączy stronę pierwszego uruchomienia.
 policy-OverridePostUpdatePage = Zastąpienie strony „Co nowego” wyświetlanej po aktualizacji. Ustawienie tej zasady na pustą wyłączy stronę wyświetlaną po aktualizacji.
 policy-Permissions = Konfiguracja uprawnień kamery, mikrofonu, położenia i powiadomień.
-policy-PopupBlocking = Domyślne zezwolenie pewnym witrynom na otwieranie wyskakujących okien.
+policy-PopupBlocking = Domyślne zezwalanie pewnym witrynom na otwieranie wyskakujących okien.
 policy-Proxy = Konfiguracja ustawień proxy.
 policy-RequestedLocales = Ustawienie listy żądanych języków dla programu w preferowanej kolejności.
+policy-SanitizeOnShutdown = Usuwanie wszystkich danych nawigacji podczas wyłączania.
+policy-SearchBar = Ustawienie domyślnego położenia paska wyszukiwania. Użytkownik nadal może go konfigurować.
+policy-SearchEngines = Konfiguracja ustawień wyszukiwarki. Ta zasada jest dostępna tylko w wersji ESR (Extended Support Release).
+# For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
+policy-SecurityDevices = Instalacja modułów PKCS #11.
+policy-SSLVersionMax = Ustawienie maksymalnej wersji SSL.
+policy-SSLVersionMin = Ustawienie minimalnej wersji SSL.
+policy-SupportMenu = Dodanie niestandardowego elementu menu pomocy.
+# “format” refers to the format used for the value of this policy.
+policy-WebsiteFilter = Blokowanie odwiedzania witryn. Dokumentacja zawiera więcej informacji o formacie.
