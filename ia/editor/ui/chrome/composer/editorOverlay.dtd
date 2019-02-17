@@ -41,10 +41,20 @@
 <!ENTITY styleItalicCmd.label "Italico">
 <!ENTITY styleItalicCmd.accesskey "I">
 <!ENTITY styleItalicCmd.key "I">
+<!ENTITY styleEm.label "Emphase">
+<!ENTITY styleEm.accesskey "E">
+<!ENTITY styleStrong.label "Emphase plus forte">
+<!ENTITY styleStrong.accesskey "t">
+<!ENTITY styleCite.label "Citation">
+<!ENTITY styleCite.accesskey "C">
+<!ENTITY styleAbbr.label "Abbreviation">
+<!ENTITY styleAbbr.accesskey "A">
 <!ENTITY styleAcronym.label "Acronymo">
 <!ENTITY styleAcronym.accesskey "r">
 <!ENTITY styleCode.label "Codice">
 <!ENTITY styleCode.accesskey "o">
+<!ENTITY styleVar.label "Variabile">
+<!ENTITY styleVar.accesskey "V">
 
 
 
@@ -108,6 +118,8 @@
 <!ENTITY tableCell.accesskey "C">
 <!ENTITY tableCellContents.label "Contento del cella">
 <!-- Delete SubMenu -->
+<!ENTITY tableDeleteMenu.label "Deler">
+<!ENTITY tableDeleteMenu.accesskey "D">
 
 <!-- text for "Join Cells" is in editor.properties
      ("JoinSelectedCells" and "JoinCellToRight")

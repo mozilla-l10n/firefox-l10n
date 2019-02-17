@@ -4,5 +4,8 @@
 
 
 <!--LOCALIZATION NOTE (editorCheck.label): DONT_TRANSLATE -->
+<!ENTITY editorCheck.label "Componer">
+<!ENTITY editorCheck.accesskey "c">
 
+<!ENTITY compose.label "Componer">
 <!ENTITY toolbars.label "Barras de instrumentos">
