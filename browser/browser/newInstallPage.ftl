@@ -13,3 +13,7 @@ changed-title = Што змянілася?
 changed-desc-profiles = Гэта ўстаноўка { -brand-short-name } мае новы профіль. Профіль ўяўляе сабой набор файлаў, дзе Firefox захоўвае інфармацыю, напрыклад, закладкі, паролі і перавагі карыстальнікаў.
 options-title = Якія ў мяне варыянты?
 resources = Рэсурсы:
+sync-label = Увядзіце сваю электронную пошту
+sync-input =
+    .placeholder = Эл.пошта
+sync-button = Працягнуць
