@@ -996,6 +996,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Sütik">
 <!ENTITY contentBlocking.cookiesView.label "Sütik és oldaladatok">
 
+<!ENTITY contentBlocking.cryptominers.label "Kriptobányászok">
+<!ENTITY contentBlocking.cryptominersView.label "Kriptobányászok">
+
+<!ENTITY contentBlocking.fingerprinters.label "Ujjlenyomat-készítők">
+<!ENTITY contentBlocking.fingerprintersView.label "Ujjlenyomat-készítők">
+
 <!ENTITY contentBlocking.openBreakageReportView2.label "Probléma bejelentése">
 <!ENTITY contentBlocking.breakageReportView.label "Problémák bejelentése">
 <!ENTITY contentBlocking.breakageReportView2.description "A tartalomblokkolás problémákat okozhat néhány weboldalon. Ha bejelenti a problémákat, akkor segít jobbá tenni a &brandShortName; böngészőt mindenki számára. (Ez elküldi az URL-t, valamint a böngészőbeállításait a Mozillának.)">
