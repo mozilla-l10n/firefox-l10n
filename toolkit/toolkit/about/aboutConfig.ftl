@@ -75,6 +75,7 @@ config-boolean =
     .label = බූලීය
     .accesskey = B
 config-default = පෙරනිමි
+config-modified = වෙනස් කළ
 config-locked = අගුලු දැමූ
 config-property-string = string
 config-property-int = integer

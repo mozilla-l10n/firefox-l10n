@@ -63,6 +63,7 @@ region-name-cx = Christmas Island
 region-name-cy = සයිප්‍රස්
 region-name-cz = Czech Republic
 region-name-de = ජර්මනිය
+region-name-dg = දියෝගෝ ගාසියා
 region-name-dj = ජිබුටි
 region-name-dk = ඩෙන්මාර්කය
 region-name-dm = ඩොමිනිකාව
