@@ -145,10 +145,10 @@ exception-mgr-permanent =
     .label = Zachowaj ten wyjątek na stałe
     .accesskey = Z
 pk11-bad-password = Wprowadzone hasło tokenu jest nieprawidłowe.
-pkcs12-decode-err = Dekodowanie pliku nie powiodło się. Plik nie jest w formacie PKCS #12, jest uszkodzony lub wprowadzone hasło jest nieprawidłowe.
+pkcs12-decode-err = Dekodowanie pliku się nie powiodło. Plik nie jest w formacie PKCS #12, jest uszkodzony lub wprowadzone hasło jest nieprawidłowe.
 pkcs12-unknown-err-restore = Nie udało się odtworzyć kopii bezpieczeństwa PKCS #12 z nieznanych powodów.
 pkcs12-unknown-err-backup = Nie udało się utworzyć kopii bezpieczeństwa PKCS #12 z nieznanych powodów.
-pkcs12-unknown-err = Operacja PKCS #12 nie powiodła się z nieznanych powodów.
+pkcs12-unknown-err = Operacja PKCS #12 się nie powiodła z nieznanych powodów.
 pkcs12-info-no-smartcard-backup = Zachowanie kopii certyfikatu zapisanego w urządzeniu zabezpieczającym, jak np. inteligentna karta, jest niemożliwe.
 pkcs12-dup-data = To urządzenie zabezpieczające ma już certyfikat oraz klucz prywatny.
 
@@ -166,6 +166,8 @@ import-email-cert-prompt = Wybierz plik zawierający certyfikat e-mail innej oso
 
 ## For editing certificates trust
 
+# Variables:
+#   $certName: the name of certificate
 edit-trust-ca = Certyfikat „{ $certName }” reprezentuje organ certyfikacji.
 
 ## For Deleting Certificates
@@ -186,16 +188,26 @@ delete-email-cert-title =
     .title = Usuń certyfikaty e-mail
 delete-email-cert-confirm = Czy na pewno usunąć certyfikaty e-mail wybranych osób?
 delete-email-cert-impact = Jeśli certyfikat e-mail danej osoby zostanie usunięty, nie będzie można do niej wysłać zaszyfrowanych wiadomości.
+# Used for semi-uniquely representing a cert.
+#
+# Variables:
+#   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
 cert-with-serial =
     .value = Certyfikat o numerze seryjnym { $serialNumber }
 
 ## Cert Viewer
 
+# Title used for the Certificate Viewer.
+#
+# Variables:
+#   $certificate : a string representative of the certificate being viewed.
 cert-viewer-title =
     .title = Podgląd certyfikatu: „{ $certName }”
 not-present =
     .value = <Nie jest częścią certyfikatu>
+# Cert verification
 cert-verified = Niniejszy certyfikat został zweryfikowany do wykorzystania przez:
+# Add usage
 verify-ssl-client =
     .value = Certyfikat SSL klienta
 verify-ssl-server =
@@ -206,6 +218,7 @@ verify-email-signer =
     .value = Certyfikat osoby podpisującej wiadomość
 verify-email-recip =
     .value = Certyfikat adresata wiadomości
+# Cert verification
 cert-not-verified-cert-revoked = Nie można sprawdzić tego certyfikatu, ponieważ został on unieważniony.
 cert-not-verified-cert-expired = Nie można sprawdzić tego certyfikatu, ponieważ stracił on ważność.
 cert-not-verified-cert-not-trusted = Nie można sprawdzić tego certyfikatu, ponieważ nie ma go na liście zaufanych.
