@@ -7,4 +7,14 @@
 ### Firefox" and "version" is used to mean "the specific revision number of a
 ### given Firefox channel". These terms are not synonymous.
 
+title = મહત્વપૂર્ણ સમાચાર
+heading = તમારા { -brand-short-name } પ્રોફાઇલમાં ફેરફારો
+changed-title = શું બદલાયું?
+resources = સંસાધનો:
+support-link = પ્રોફાઇલ મેનેજરનો ઉપયોગ - સપોર્ટ લેખ
+sync-header = સાઇન ઇન કરો અથવા બનાવો { -fxaccount-brand-name }
+sync-label = તમારું ઈમેલ એડ્રેસ લખો
+sync-input =
+    .placeholder = ઇમેઇલ
+sync-button = ચાલુ રાખો
 sync-learn = વધુ શીખો
