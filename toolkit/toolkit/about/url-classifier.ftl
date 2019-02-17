@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-url-classifier-title = Thông tin về Trình phân loại URL
+url-classifier-title = Thông tin về trình phân loại URL
 url-classifier-search-title = Tìm kiếm
 url-classifier-search-result-title = Kết quả
 url-classifier-search-result-uri = URI: { $uri }
@@ -24,10 +24,14 @@ url-classifier-cache-title = Bộ nhớ đệm
 url-classifier-cache-refresh-btn = Tải lại
 url-classifier-cache-clear-btn = Xóa
 url-classifier-cache-table-name = Tên bảng
+url-classifier-cache-ncache-entries = Số lượng bộ nhớ đệm âm
+url-classifier-cache-pcache-entries = Số lượng bộ nhớ đệm tích cực
 url-classifier-cache-show-entries = Hiển thị mục
 url-classifier-cache-entries = Bộ nhớ đệm của mục
 url-classifier-cache-prefix = Tiền tố
+url-classifier-cache-ncache-expiry = Hết hạn bộ nhớ đệm âm
 url-classifier-cache-fullhash = Hash đầy đủ
+url-classifier-cache-pcache-expiry = Hết hạn bộ nhớ đệm tích cực
 url-classifier-debug-title = Gỡ lỗi
 url-classifier-debug-module-btn = Đặt mô-đun nhật ký
 url-classifier-debug-file-btn = Đặt tập tin nhật ký

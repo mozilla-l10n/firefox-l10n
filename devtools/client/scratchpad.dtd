@@ -59,35 +59,40 @@
 <!ENTITY wordWrap.label                "Ngắt dòng văn bản">
 <!ENTITY wordWrap.accesskey            "W">
 
+<!ENTITY highlightTrailingSpace.label     "Làm nổi bật không gian lưu trữ">
+<!ENTITY highlightTrailingSpace.accesskey "H">
 
 <!ENTITY largerFont.label             "Chữ lớn hơn">
-<!ENTITY largerFont.accesskey         "l">
+<!ENTITY largerFont.accesskey         "a">
 <!ENTITY largerFont.commandkey        "+">
 <!ENTITY largerFont.commandkey2       "="> <!-- + is above this key on many keyboards -->
 
 <!ENTITY smallerFont.label            "Chữ nhỏ hơn">
-<!ENTITY smallerFont.accesskey        "n">
+<!ENTITY smallerFont.accesskey        "M">
 <!ENTITY smallerFont.commandkey       "-">
 
 <!ENTITY normalSize.label             "Kích thước mặc định">
-<!ENTITY normalSize.accesskey         "m">
+<!ENTITY normalSize.accesskey         "N">
 <!ENTITY normalSize.commandkey        "0">
 
 <!ENTITY editMenu.label               "Chỉnh sửa">
-<!ENTITY editMenu.accesskey           "C">
+<!ENTITY editMenu.accesskey           "E">
 
 <!ENTITY run.label                    "Chạy">
-<!ENTITY run.accesskey                "y">
+<!ENTITY run.accesskey                "R">
 <!ENTITY run.key                      "r">
 
-<!ENTITY inspect.label                "Giám sát">
-<!ENTITY inspect.accesskey            "i">
+<!ENTITY inspect.label                "Kiểm tra">
+<!ENTITY inspect.accesskey            "I">
 <!ENTITY inspect.key                  "i">
 
 <!ENTITY display.label                "Hiển thị">
-<!ENTITY display.accesskey            "H">
+<!ENTITY display.accesskey            "D">
 <!ENTITY display.key                  "l">
 
+<!ENTITY pprint.label                 "In đẹp">
+<!ENTITY pprint.key                   "p">
+<!ENTITY pprint.accesskey             "P">
 
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
   -  renamed from "Context" to avoid confusion with the right-click context
@@ -96,11 +101,11 @@
   -  (browser).
   -->
 <!ENTITY environmentMenu.label        "Môi trường">
-<!ENTITY environmentMenu.accesskey    "M">
+<!ENTITY environmentMenu.accesskey    "N">
 
 
 <!ENTITY contentContext.label         "Nội dung">
-<!ENTITY contentContext.accesskey     "u">
+<!ENTITY contentContext.accesskey     "C">
 
 <!-- LOCALIZATION NOTE (browserContext.label, accesskey): This menu item is used
   -  to select an execution environment for the browser window itself as opposed
@@ -109,12 +114,12 @@
   -  was called "Chrome".
   -->
 <!ENTITY browserContext.label         "Trình duyệt">
-<!ENTITY browserContext.accesskey     "y">
+<!ENTITY browserContext.accesskey     "B">
 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
   -  for the help button in the menubar but Gnome does not.
   -->
-<!ENTITY helpMenu.label               "Trợ giúp (H)">
+<!ENTITY helpMenu.label               "Trợ giúp">
 <!ENTITY helpMenu.accesskey           "H">
 <!ENTITY helpMenuWin.label            "Trợ giúp">
 <!ENTITY helpMenuWin.accesskey        "H">
@@ -126,15 +131,15 @@
 <!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.
   -->
-<!ENTITY resetContext2.label          "Đặt lại các Biến">
-<!ENTITY resetContext2.accesskey      "t">
+<!ENTITY resetContext2.label          "Đặt lại các biến">
+<!ENTITY resetContext2.accesskey      "T">
 
-<!ENTITY reloadAndRun.label           "Tải và chạy lại">
-<!ENTITY reloadAndRun.accesskey       "e">
+<!ENTITY reloadAndRun.label           "Tải lại và chạy">
+<!ENTITY reloadAndRun.accesskey       "E">
 <!ENTITY reloadAndRun.key             "r">
 
 <!ENTITY executeMenu.label            "Thực thi">
-<!ENTITY executeMenu.accesskey        "h">
+<!ENTITY executeMenu.accesskey        "X">
 
 <!-- LOCALIZATION NOTE (errorConsoleCmd.commandkey): This command key launches
   -  the browser Error Console, the key should be identical to the property of
@@ -146,5 +151,5 @@
   -  to evaluate the top-level function that the cursor is currently at.
   -->
 <!ENTITY evalFunction.label "Đánh giá hàm hiện tại">
-<!ENTITY evalFunction.accesskey "g">
+<!ENTITY evalFunction.accesskey "v">
 <!ENTITY evalFunction.key "e">
