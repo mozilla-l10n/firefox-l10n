@@ -15,6 +15,7 @@ dialog-title =
 dialog-title-everything =
     .title = සියළු අතීත දත්ත හිස් කරන්න
     .style = width: 34em
+clear-data-settings-label = වසා දමන විට, { -brand-short-name } විසින් සියල්ල පිරිසිදු කළ යුතුයි
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.

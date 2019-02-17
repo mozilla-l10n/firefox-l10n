@@ -70,23 +70,16 @@
 <!ENTITY cmd.new_separator.label           "නව වෙන්කරණය">
 <!ENTITY cmd.new_separator.accesskey       "S">
 
-<!ENTITY cmd.reloadLivebookmark.label      "සජීවි පිටු සලකුණ යළි පූරණය">
-<!ENTITY cmd.reloadLivebookmark.accesskey  "R">
-
-<!ENTITY cmd.moveBookmarks.label                  "ගෙන යන්න…">
-<!ENTITY cmd.moveBookmarks.accesskey              "M">
-
 <!ENTITY col.name.label          "නම">
 <!ENTITY col.tags.label          "ලේබල">
 <!ENTITY col.url.label           "පිහිටුම">
 <!ENTITY col.mostrecentvisit.label "වඩා මෑත පිවිසුම">
 <!ENTITY col.visitcount.label    "පිවිසුම් එකතුව">
-<!ENTITY col.description.label   "විස්තරය">
 <!ENTITY col.dateadded.label     "එක් කළා">
 <!ENTITY col.lastmodified.label  "අවසන් වෙනස්කම">
 
-<!ENTITY search.label                              "සොයන්න:">
-<!ENTITY search.accesskey                          "S">
+<!ENTITY historySearch.placeholder  "සෙවුම් ඉතිහාසය">
+<!ENTITY bookmarksSearch.placeholder  "සෙවුම් පිටුසලකුණු">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -98,14 +91,8 @@
 
 <!ENTITY forwardButton.tooltip  "ඉදිරියට යන්න">
 
-<!ENTITY detailsPane.more.label "බොහෝ">
-<!ENTITY detailsPane.more.accesskey "e">
-<!ENTITY detailsPane.less.label "අඩු">
-<!ENTITY detailsPane.less.accesskey "e">
 <!ENTITY detailsPane.selectAnItemText.description "වත්කම් දර්ශනයට සහ සැකසීමට අයිතමයක් තෝරන්න">
 
-<!ENTITY find.label               "සොයන්න:">
-<!ENTITY find.accesskey           "S">
 <!ENTITY view.label               "දසුන්">
 <!ENTITY view.accesskey           "w">
 <!ENTITY byDate.label             "දිනය අනුව">
