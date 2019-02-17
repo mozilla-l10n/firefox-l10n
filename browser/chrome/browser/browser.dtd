@@ -996,6 +996,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Çerezler">
 <!ENTITY contentBlocking.cookiesView.label "Çerezler ve site verileri">
 
+<!ENTITY contentBlocking.cryptominers.label "Kripto madenciler">
+<!ENTITY contentBlocking.cryptominersView.label "Kripto madenciler">
+
+<!ENTITY contentBlocking.fingerprinters.label "Parmak izi toplayıcılar">
+<!ENTITY contentBlocking.fingerprintersView.label "Parmak izi toplayıcılar">
+
 <!ENTITY contentBlocking.openBreakageReportView2.label "Sorun bildir">
 <!ENTITY contentBlocking.breakageReportView.label "Sorun bildir">
 <!ENTITY contentBlocking.breakageReportView2.description "İçerik engelleme bazı web sitelerinde sorunlara yol açabilir. Bu sorunları bize bildirirseniz &brandShortName; tarayıcısını iyileştirme şansımız olur. (Sorunlu sayfanın adresi ve tarayıcı ayarlarınızla ilgili bilgiler Mozilla’ya gönderilecektir.)">
