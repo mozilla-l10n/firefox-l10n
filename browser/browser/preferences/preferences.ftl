@@ -361,7 +361,7 @@ home-restore-defaults =
 # "Firefox" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
-    .label = strona startowa programu (domyślnie)
+    .label = strona startowa Firefoksa (domyślnie)
 home-mode-choice-custom =
     .label = inne strony
 home-mode-choice-blank =

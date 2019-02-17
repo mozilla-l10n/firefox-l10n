@@ -27,7 +27,7 @@
 <!ENTITY aboutPrivateBrowsing.learnMore3.title           "przeglądaniu prywatnym">
 <!ENTITY aboutPrivateBrowsing.learnMore3.after           ".">
 
-<!ENTITY trackingProtection.startTour1                   "Przeczytaj o tym, jak to działa">
+<!ENTITY trackingProtection.startTour1                   "Zobacz, jak to działa">
 
 <!ENTITY contentBlocking.title                           "Blokowanie treści">
 <!ENTITY contentBlocking.description                     "Niektóre strony używają elementów mogących śledzić aktywność użytkownika w Internecie. W oknach przeglądania prywatnego przeglądarka automatycznie zablokuje wiele z elementów mogących zbierać informacje o przeglądaniu.">
@@ -37,5 +37,7 @@
                        text for the search box.   -->
 <!ENTITY aboutPrivateBrowsing.search.placeholder         "Szukaj w Internecie">
 <!ENTITY aboutPrivateBrowsing.info.title                 "Okno w trybie prywatnym">
+<!ENTITY aboutPrivateBrowsing.info.description           "&brandShortName; czyści historię wyszukiwania i przeglądania po wyłączeniu programu lub zamknięciu wszystkich kart i okien w trybie przeglądania prywatnego. Chociaż nie czyni to użytkownika anonimowym wobec stron internetowych ani dostawcy Internetu, to ułatwia zachowanie prywatności przed pozostałymi użytkownikami komputera.">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article
                        about private browsing myths.   -->
+<!ENTITY aboutPrivateBrowsing.info.myths                 "Popularne mity na temat przeglądania prywatnego">
