@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 safe-mode-window =
-    .title = { -brand-short-name } - tryb awaryjny
+    .title = { -brand-short-name } — tryb awaryjny
     .style = max-width: 400px
 start-safe-mode =
     .label = Uruchom w trybie awaryjnym

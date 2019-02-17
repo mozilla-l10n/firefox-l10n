@@ -32,7 +32,7 @@ search-input-box =
 policies-notice =
     { PLATFORM() ->
         [windows] Administrator zablokował możliwość zmiany niektórych opcji
-       *[other] Administrator zablokował możliwość zmiany niektórych ustawień
+       *[other] Administrator zablokował możliwość zmiany niektórych preferencji
     }
 pane-general-title = Ogólne
 category-general =

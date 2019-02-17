@@ -243,7 +243,7 @@ add-exception-valid-long = Ta witryna dostarcza prawidłowych i zweryfikowanych
 add-exception-checking-short = Sprawdzanie informacji
 add-exception-checking-long = Próba identyfikacji witryny…
 add-exception-no-cert-short = Brak dostępnych informacji
-add-exception-no-cert-long = Nie udało się pobrać statusu identyfikacji tej witryny.
+add-exception-no-cert-long = Nie udało się pobrać stanu identyfikacji tej witryny.
 
 ## Certificate export "Save as" and error dialogs
 
