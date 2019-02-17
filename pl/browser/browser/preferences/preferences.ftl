@@ -457,7 +457,7 @@ sync-signedout-account-signin =
 #
 # They can be moved within the sentence as needed to adapt
 # to your language, but should not be changed or translated.
-sync-mobile-promo = Firefox na <a data-l10n-name="android-link">Androida</a> <img data-l10n-name="android-icon"/> i <a data-l10n-name="ios-link">iOSa</a> <img data-l10n-name="ios-icon"/> daje możliwość synchronizacji z urządzeniami przenośnymi.
+sync-mobile-promo = Firefox na <a data-l10n-name="android-link">Androida</a> <img data-l10n-name="android-icon"/> i <a data-l10n-name="ios-link">iOS</a> <img data-l10n-name="ios-icon"/> daje możliwość synchronizacji z urządzeniami przenośnymi.
 
 ## Sync Section - Signed in
 
@@ -528,7 +528,7 @@ sync-device-name-save =
 sync-mobilepromo-single = Połącz inne urządzenie
 sync-mobilepromo-multi = Zarządzaj urządzeniami
 sync-tos-link = Warunki korzystania z usługi
-sync-fxa-privacy-notice = Uwagi dotyczące prywatności
+sync-fxa-privacy-notice = Prywatność
 
 ## Privacy Section
 
@@ -768,7 +768,7 @@ permissions-a11y-privacy-link = Więcej informacji
 
 collection-header = Dane zbierane przez program { -brand-short-name }
 collection-description = Dążymy do zapewnienia odpowiedniego wyboru i zbierania wyłącznie niezbędnych danych, aby dostarczać i doskonalić program { -brand-short-name } dla nas wszystkich. Zawsze prosimy o pozwolenie przed przesłaniem danych osobistych.
-collection-privacy-notice = Uwagi dotyczące prywatności
+collection-privacy-notice = Prywatność
 collection-health-report =
     .label = Przesyłanie do Mozilli danych technicznych i o interakcjach z programem.
     .accesskey = z

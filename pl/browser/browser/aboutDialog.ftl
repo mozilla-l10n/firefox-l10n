@@ -14,8 +14,8 @@ update-updateButton =
 update-checkingForUpdates = Poszukiwanie aktualizacji…
 update-downloading = <img data-l10n-name="icon"/> Pobieranie aktualizacji — <label data-l10n-name="download-status"/>
 update-applying = Instalowanie aktualizacji…
-update-failed = Aktualizacja nie powiodła się. <label data-l10n-name="failed-link">Pobierz najnowszą wersję</label>.
-update-failed-main = Aktualizacja nie powiodła się. <a data-l10n-name="failed-link-main">Pobierz najnowszą wersję</a>.
+update-failed = Aktualizacja się nie powiodła. <label data-l10n-name="failed-link">Pobierz najnowszą wersję</label>.
+update-failed-main = Aktualizacja się nie powiodła. <a data-l10n-name="failed-link-main">Pobierz najnowszą wersję</a>.
 update-adminDisabled = Aktualizacje zablokowane przez administratora.
 update-noUpdatesFound = Program { -brand-short-name } jest aktualny.
 update-otherInstanceHandlingUpdates = Inna instancja właśnie aktualizuje program { -brand-short-name }.
@@ -29,7 +29,7 @@ community-2 = { -brand-short-name } został opracowany przez <label data-l10n-na
 helpus = Chcesz pomóc? <label data-l10n-name="helpus-donateLink">Przekaż datek</label> lub <label data-l10n-name="helpus-getInvolvedLink">dołącz do nas</label>.
 bottomLinks-license = Informacje licencyjne
 bottomLinks-rights = Prawa użytkownika
-bottomLinks-privacy = Polityka prywatności
+bottomLinks-privacy = Zasady ochrony prywatności
 aboutDialog-architecture-sixtyFourBit = 64 bity
 aboutDialog-architecture-thirtyTwoBit = 32 bity
 # Example of resulting string: 66.0.1 (64-bit)
