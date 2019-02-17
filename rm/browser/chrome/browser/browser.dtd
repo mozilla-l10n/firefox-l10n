@@ -996,6 +996,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Cookies">
 <!ENTITY contentBlocking.cookiesView.label "Cookies e datas da websites">
 
+<!ENTITY contentBlocking.cryptominers.label "Criptominiers">
+<!ENTITY contentBlocking.cryptominersView.label "Criptominiers">
+
+<!ENTITY contentBlocking.fingerprinters.label "Fingerprinters">
+<!ENTITY contentBlocking.fingerprintersView.label "Fingerprinters">
+
 <!ENTITY contentBlocking.openBreakageReportView2.label "Annunziar in problem">
 <!ENTITY contentBlocking.breakageReportView.label "Annunziar problems">
 <!ENTITY contentBlocking.breakageReportView2.description "La bloccada da cuntegn po chaschunar problems cun tschertas websites. Sche ti annunzias problems, gidas ti a meglierar &brandShortName; per tuts. (Qua tras vegn tramess in URL sco era infurmaziuns davart la configuraziun da tes navigatur a Mozilla.)">

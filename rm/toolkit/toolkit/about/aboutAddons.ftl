@@ -230,6 +230,7 @@ manage-extensions-shortcuts =
     .accesskey = s
 shortcuts-empty-message = I na dat naginas scursanidas per questa extensiun.
 shortcuts-no-addons = Naginas extensiuns activadas.
+shortcuts-no-commands = Las suandantas extensiuns n'han naginas cumbinaziuns da tastas:
 shortcuts-input =
     .placeholder = Tippa ina scursanida
 shortcuts-browserAction = Activar l'extensiun
@@ -248,3 +249,11 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = Mussar damain
 go-back-button =
     .tooltiptext = Turnar
+
+## Add-on actions
+
+remove-addon-button = Allontanar
+disable-addon-button = Deactivar
+enable-addon-button = Activar
+addons-enabled-heading = Activà
+addons-disabled-heading = Deactivà
