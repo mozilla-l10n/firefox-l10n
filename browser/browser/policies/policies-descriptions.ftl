@@ -72,6 +72,6 @@ policy-SearchEngines = Configure les paramètres du moteur de recherche. Cette p
 policy-SecurityDevices = Permet d’installer des modules PKCS #11.
 policy-SSLVersionMax = Définit la version maximale de SSL à utiliser.
 policy-SSLVersionMin = Définit la version minimale de SSL à utiliser.
-policy-SupportMenu = Ajouter une entrée personnalisée au menu d’aide pour l’assistance.
+policy-SupportMenu = Ajoute une entrée personnalisée au menu d’aide pour l’assistance.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Bloque l’accès à des sites web. Voir la documentation pour plus de détails sur le format.
