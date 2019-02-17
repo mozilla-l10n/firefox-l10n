@@ -5,7 +5,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY            windowtitle.label      "&brandShortName; - Lựa chọn Hồ sơ Người dùng">
+<!ENTITY            windowtitle.label      "&brandShortName; - Chọn hồ sơ người dùng">
 
 <!ENTITY            profilename.label      "Tên Hồ Sơ:">
 
@@ -14,11 +14,11 @@
 
 <!ENTITY            availprofiles.label    "Các Hồ sơ Hiện tại">
 
-<!ENTITY            newButton.label        "Tạo Hồ Sơ…">
+<!ENTITY            newButton.label        "Tạo hồ sơ…">
 <!ENTITY            newButton.accesskey    "T">
-<!ENTITY            renameButton.label     "Đổi tên Hồ sơ…">
+<!ENTITY            renameButton.label     "Đổi tên hồ sơ…">
 <!ENTITY            renameButton.accesskey "n">
-<!ENTITY            deleteButton.label     "Xóa Hồ Sơ…">
+<!ENTITY            deleteButton.label     "Xóa hồ sơ…">
 <!ENTITY            deleteButton.accesskey "X">
 
 <!-- manager entities -->
