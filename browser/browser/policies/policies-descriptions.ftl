@@ -50,6 +50,7 @@ policy-EnableTrackingProtection = Activar u deactivar la bloccada da cuntegn e t
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
 policy-Extensions = Installar, deinstallar u bloccar extensiuns. L'opziun «Installar» pretenda URLs u percurs sco parameters. Las opziuns «Deinstallar» e «Bloccar» pretendan IDs dad extensiuns.
+policy-ExtensionUpdate = Activar u deactivar actualisaziuns automaticas dad extensiuns.
 policy-FlashPlugin = Permetter u scumandar l'utilisaziun dal plug-in Flash.
 policy-HardwareAcceleration = Sche «false», deactivar l'acceleraziun cun agid da la hardware.
 # “lock” means that the user won’t be able to change this setting
@@ -71,5 +72,6 @@ policy-SearchEngines = Configurar ils parameters da maschinas da tschertgar. Que
 policy-SecurityDevices = Installar moduls PKCS #11.
 policy-SSLVersionMax = Definir la versiun maximala da SSL.
 policy-SSLVersionMin = Definir la versiun minimala da SSL.
+policy-SupportMenu = Agiuntar in element da menu persunalisà en il menu d'agid.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Impedir l'access a tschertas websites. Consultar la documentaziun per ulteriuras infurmaziuns davart il format.
