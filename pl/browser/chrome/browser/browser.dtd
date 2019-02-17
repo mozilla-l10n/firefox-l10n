@@ -305,7 +305,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Powiadomienia z tej witryny zostały zablokowane">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Przechowywanie danych na komputerze przez witrynę zostało zablokowane">
 <!ENTITY urlbar.popupBlocked.tooltip             "Wyskakujące okna na tej stronie są blokowane">
-<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "Automatyczne odtwarzanie treści przez tę stronę zostało zablokowane">
+<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "Automatyczne odtwarzanie treści z dźwiękiem przez tę stronę zostało zablokowane">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Odczytywanie danych canvas przez witrynę zostało zablokowane">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Wtyczka Adobe Flash została zablokowana na tej stronie">
 <!ENTITY urlbar.midiBlocked.tooltip              "Dostęp do urządzeń MIDI dla tej witryny został zablokowany">
@@ -1067,7 +1067,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
 <!ENTITY updateAvailable.message "Uaktualnij program &brandShorterName; dla szybkości i bezpieczeństwa.">
-<!ENTITY updateAvailable.whatsnew.label "Sprawdź co nowego.">
+<!ENTITY updateAvailable.whatsnew.label "Sprawdź, co nowego.">
 <!ENTITY updateAvailable.header.message "Nowa wersja programu &brandShorterName; jest dostępna.">
 <!ENTITY updateAvailable.acceptButton.label "Pobierz aktualizację">
 <!ENTITY updateAvailable.acceptButton.accesskey "P">
@@ -1076,7 +1076,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.panelUI.label "Pobierz aktualizację programu &brandShorterName;">
 
 <!ENTITY updateManual.message "Pobierz świeżą kopię programu &brandShorterName;, a my pomożemy ją zainstalować.">
-<!ENTITY updateManual.whatsnew.label "Sprawdź co nowego.">
+<!ENTITY updateManual.whatsnew.label "Sprawdź, co nowego.">
 <!ENTITY updateManual.header.message "&brandShorterName; nie może zostać uaktualniony do najnowszej wersji.">
 <!ENTITY updateManual.acceptButton.label "Pobierz program">
 <!ENTITY updateManual.acceptButton.accesskey "P">
