@@ -49,6 +49,12 @@
   -  in the call tree headers for a recording. -->
 <!ENTITY performanceUI.table.totalDuration            "Tổng thời gian">
 <!ENTITY performanceUI.table.totalDuration.tooltip    "Lượng thời gian dành cho chức năng này và chức năng mà nó gọi.">
+<!ENTITY performanceUI.table.selfDuration             "Thời gian bản thân">
+<!ENTITY performanceUI.table.selfDuration.tooltip     "Lượng thời gian chỉ dành cho chức năng này.">
+<!ENTITY performanceUI.table.totalPercentage          "Tổng tỉ lệ">
+<!ENTITY performanceUI.table.totalPercentage.tooltip  "Tỷ lệ phần trăm thời gian dành cho chức năng này và chức năng mà nó gọi.">
+<!ENTITY performanceUI.table.selfPercentage           "Tỉ lệ bản thân">
+<!ENTITY performanceUI.table.selfPercentage.tooltip   "Tỷ lệ phần trăm thời gian chỉ dành cho chức năng này.">
 <!ENTITY performanceUI.table.samples                  "Mẫu">
 <!ENTITY performanceUI.table.samples.tooltip          "Số lần hàm này nằm trên ngăn xếp khi trình lược tả lấy mẫu.">
 <!ENTITY performanceUI.table.function                 "Hàm">

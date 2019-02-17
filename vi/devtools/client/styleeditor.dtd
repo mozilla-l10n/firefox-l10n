@@ -24,9 +24,11 @@
 <!ENTITY saveButton.tooltip         "Lưu lại style sheet thành một file.">
 <!ENTITY saveButton.accesskey       "S">
 
+<!ENTITY optionsButton.tooltip      "Tùy chọn trình chỉnh sửa kiểu mẫu">
 
 <!-- LOCALIZATION NOTE  (showOriginalSources.label): This is the label on the context
      menu item to toggle showing original sources in the editor. -->
+<!ENTITY showOriginalSources.label     "Hiển thị nguồn gốc">
 
 <!-- LOCALIZATION NOTE  (showOriginalSources.accesskey): This is the access key for
      the menu item to toggle showing original sources in the editor. -->
@@ -63,3 +65,7 @@
 <!-- LOCALIZATION NOTE (openLinkNewTab.label): This is the text for the
      context menu item that opens a stylesheet in a new tab -->
 <!ENTITY openLinkNewTab.label     "Mở liên kết trong thẻ mới">
+
+<!-- LOCALIZATION NOTE (copyUrl.label): This is the text for the
+     context menu item that copies a stylesheet's URL -->
+<!ENTITY copyUrl.label            "Sao chép URL">

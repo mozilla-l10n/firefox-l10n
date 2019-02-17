@@ -188,9 +188,21 @@ delete-email-cert-title =
     .title = Xóa các Chứng chỉ E-Mail
 delete-email-cert-confirm = Bạn có muốn xóa các chứng chỉ email của những người này không?
 delete-email-cert-impact = Nếu bạn xóa chứng chỉ email của một người, bạn sẽ không thể gửi e-mail mật hóa tới người đó được nữa.
+# Used for semi-uniquely representing a cert.
+#
+# Variables:
+#   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
+cert-with-serial =
+    .value = Chứng chỉ có số sê-ri: { $serialNumber }
 
 ## Cert Viewer
 
+# Title used for the Certificate Viewer.
+#
+# Variables:
+#   $certificate : a string representative of the certificate being viewed.
+cert-viewer-title =
+    .title = Trình xem chứng chỉ: “{ $certName }”
 not-present =
     .value = <Không thuộc Chứng chỉ>
 # Cert verification
@@ -221,13 +233,17 @@ cert-not-verified-unknown = Không thể xác minh chứng chỉ này vì không
 add-exception-branded-warning = Bạn đang chuẩn bị thay thế cách { -brand-short-name } định danh trang này.
 add-exception-invalid-header = Trang này đang cố định danh chính nó bằng thông tin bất hợp lệ.
 add-exception-domain-mismatch-short = Sai Trang
+add-exception-domain-mismatch-long = Chứng chỉ thuộc về một trang web khác, điều đó có thể có nghĩa là ai đó đang cố gắng mạo danh trang web này.
 add-exception-expired-short = Thông tin Lỗi thời
+add-exception-expired-long = Chứng chỉ hiện không hợp lệ. Nó có thể đã bị đánh cắp hoặc bị mất và có thể được sử dụng bởi ai đó để mạo danh trang web này.
 add-exception-unverified-or-bad-signature-short = Định danh chưa biết
 add-exception-unverified-or-bad-signature-long = Chứng thư không đáng tin vì không được chứng thực bằng chữ kí bảo mật bởi một hãng đã biết.
 add-exception-valid-short = Chứng thư Hợp lệ
 add-exception-valid-long = Trang này cung cấp định danh hợp lệ, đã được xác minh. Không cần phải thêm ngoại lệ.
 add-exception-checking-short = Đang kiểm tra Thông tin
+add-exception-checking-long = Đang cố gắng nhận dạng trang web này…
 add-exception-no-cert-short = Không có Thông tin Hiện hữu
+add-exception-no-cert-long = Không thể có được trạng thái nhận dạng cho trang web này.
 
 ## Certificate export "Save as" and error dialogs
 

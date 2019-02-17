@@ -25,37 +25,39 @@
 <!ENTITY fileMenu.label               "Tập tin">
 <!ENTITY fileMenu.accesskey           "T">
 
-<!ENTITY newWindowCmd.label           "Cửa sổ Mới">
-<!ENTITY newWindowCmd.accesskey       "a">
+<!ENTITY newWindowCmd.label           "Cửa sổ mới">
+<!ENTITY newWindowCmd.accesskey       "N">
 <!ENTITY newWindowCmd.commandkey      "n">
 
-<!ENTITY openFileCmd.label            "Mở Tập Tin…">
-<!ENTITY openFileCmd.accesskey        "M">
+<!ENTITY openFileCmd.label            "Mở tập tin…">
+<!ENTITY openFileCmd.accesskey        "O">
 <!ENTITY openFileCmd.commandkey       "o">
 
-<!ENTITY openRecentMenu.label         "Mở gần đây (R)">
+<!ENTITY openRecentMenu.label         "Mở gần đây">
 <!ENTITY openRecentMenu.accesskey     "R">
 
-<!ENTITY revertCmd.label              "Khôi phục lại... (t)">
+<!ENTITY revertCmd.label              "Hoàn nguyên…">
 <!ENTITY revertCmd.accesskey          "t">
 
 <!ENTITY saveFileCmd.label            "Lưu">
-<!ENTITY saveFileCmd.accesskey        "L">
+<!ENTITY saveFileCmd.accesskey        "S">
 <!ENTITY saveFileCmd.commandkey       "s">
 
 <!ENTITY saveFileAsCmd.label          "Lưu thành…">
-<!ENTITY saveFileAsCmd.accesskey      "u">
+<!ENTITY saveFileAsCmd.accesskey      "A">
 
 <!ENTITY closeCmd.label               "Đóng">
 <!ENTITY closeCmd.key                 "W">
-<!ENTITY closeCmd.accesskey           "g">
+<!ENTITY closeCmd.accesskey           "C">
 
 <!ENTITY viewMenu.label               "Hiển thị">
-<!ENTITY viewMenu.accesskey           "H">
+<!ENTITY viewMenu.accesskey           "V">
 
 <!ENTITY lineNumbers.label             "Hiện số dòng">
-<!ENTITY lineNumbers.accesskey         "d">
+<!ENTITY lineNumbers.accesskey         "L">
 
+<!ENTITY wordWrap.label                "Ngắt dòng văn bản">
+<!ENTITY wordWrap.accesskey            "W">
 
 
 <!ENTITY largerFont.label             "Chữ lớn hơn">
