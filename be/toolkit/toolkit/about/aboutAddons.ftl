@@ -227,6 +227,7 @@ manage-extensions-shortcuts =
     .accesskey = ы
 shortcuts-empty-message = Гэта пашырэнне не мае спалучэнняў клавіш.
 shortcuts-no-addons = У вас не ўключана ніводнага пашырэння.
+shortcuts-no-commands = Наступныя пашырэнні не маюць спалучэнняў клавіш:
 shortcuts-input =
     .placeholder = Увядзіце спалучэнне клавіш
 shortcuts-browserAction = Актываваць пашырэнне
@@ -246,3 +247,11 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = Паказаць менш
 go-back-button =
     .tooltiptext = Вярнуцца
+
+## Add-on actions
+
+remove-addon-button = Выдаліць
+disable-addon-button = Адключыць
+enable-addon-button = Уключыць
+addons-enabled-heading = Уключана
+addons-disabled-heading = Выключана
