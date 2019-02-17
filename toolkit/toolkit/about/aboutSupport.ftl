@@ -183,6 +183,8 @@ hardware-h264 = Sprzętowe dekodowanie H.264
 main-thread-no-omtc = główny wątek, brak OMTC
 yes = Tak
 no = Nie
+unknown = Nieznane
+virtual-monitor-disp = Wirtualny monitor
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
@@ -190,6 +192,8 @@ no = Nie
 
 found = Obecny
 missing = Brak
+gpu-process-pid = PID procesu GPU
+gpu-process = Proces GPU
 gpu-description = Opis
 gpu-vendor-id = ID dostawcy
 gpu-device-id = ID urządzenia
@@ -222,11 +226,14 @@ d3d9video-crash-buard = Dekoder wideo D3D9
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Spróbuj włączyć przy następnym uruchomieniu
 gpu-process-kill-button = Zakończ proces GPU
+gpu-device-reset = Reset urządzenia
 gpu-device-reset-button = Resetuj urządzenie
 uses-tiling = Używa kafelkowania
 content-uses-tiling = Używa kafelkowania (treść)
 off-main-thread-paint-enabled = Rysowanie poza głównym wątkiem
 off-main-thread-paint-worker-count = Wątki rysujące poza głównym
+low-end-machine = Wykryto mniej wydajny komputer
+target-frame-rate = Docelowa liczba klatek na sekundę
 audio-backend = Mechanizm dźwięku
 max-audio-channels = Maksymalna liczba kanałów
 channel-layout = Preferowany układ kanałów
@@ -244,6 +251,10 @@ effective-content-sandbox-level = Efektywny poziom separacji treści
 sandbox-proc-type-content = zawartość
 sandbox-proc-type-file = zawartość pliku
 sandbox-proc-type-media-plugin = wtyczka
+launcher-process-status-0 = włączony
+launcher-process-status-1 = wyłączony z powodu awarii
+launcher-process-status-2 = wymuszone wyłączenie
+launcher-process-status-unknown = nieznany stan
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows

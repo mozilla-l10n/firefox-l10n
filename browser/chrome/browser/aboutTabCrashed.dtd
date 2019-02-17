@@ -3,11 +3,19 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY tabCrashed.title "Zgłaszanie awarii karty">
-<!ENTITY tabCrashed.closeTab2 "Zamknij kartę">
+
+<!ENTITY tabCrashed.closeTab2  "Zamknij kartę">
 <!ENTITY tabCrashed.restoreTab "Przywróć kartę">
 <!ENTITY tabCrashed.restoreAll "Przywróć wszystkie karty">
 
-<!ENTITY tabCrashed.header2 "Och – ta karta uległa awarii">
+<!-- LOCALIZATION NOTE (tabCrashed.header2): "Gah" is an English slang word
+     used to express surprise or frustration (or both at the same time).  We
+     are using it to communicate in an informal way that it is both
+     frustrating that your tab crashed and a surprise that we didn't want to
+     happen. If you have a similar word or short phrase that is not profane or
+     vulgar, use it. If not, feel free to skip the word in your
+     translation. -->
+<!ENTITY tabCrashed.header2 "Och — ta karta uległa awarii">
 <!ENTITY tabCrashed.offerHelp2 "Możemy pomóc!">
 <!ENTITY tabCrashed.single.offerHelpMessage2 "Użyj przycisku „&tabCrashed.restoreTab;”, aby wczytać stronę ponownie.">
 <!ENTITY tabCrashed.multiple.offerHelpMessage2 "Użyj przycisku „&tabCrashed.restoreTab;” lub „&tabCrashed.restoreAll;”, aby wczytać stronę lub strony ponownie.">
