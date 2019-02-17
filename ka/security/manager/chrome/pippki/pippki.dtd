@@ -40,7 +40,7 @@
 <!ENTITY chooseToken.message1 "გთხოვთ აირჩიოთ სიტყვა-ნიშანი.">
 
 <!-- Strings for the CreateCertInfo dialog  -->
-<!ENTITY createCertInfo.title "პირადი გასაღების შექმნა">
+<!ENTITY createCertInfo.title "საიდუმლო გასაღების შექმნა">
 <!ENTITY createCertInfo.msg1 "მიმდინარეობს გასაღების შექმნა… შესაძლოა რამდენიმე წუთი დასჭირდეს…">
 <!ENTITY createCertInfo.msg2 "შეიცადეთ…">
 
