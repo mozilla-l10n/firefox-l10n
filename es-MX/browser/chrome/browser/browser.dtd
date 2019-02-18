@@ -995,6 +995,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Cookies">
 <!ENTITY contentBlocking.cookiesView.label "Cookies y datos del sitio">
 
+<!ENTITY contentBlocking.cryptominers.label "Criptomineros">
+<!ENTITY contentBlocking.cryptominersView.label "Criptomineros">
+
+
 <!ENTITY contentBlocking.openBreakageReportView2.label "Reportar un problema">
 <!ENTITY contentBlocking.breakageReportView.label "Reportar problemas">
 <!ENTITY contentBlocking.breakageReportView2.description "Bloqueo de contenido puede causar problemas con algunos sitios. Cuando reportas problemas, ayudas a mejorar &brandShortName; para todos. (Esto enviará la URL asi como información de configuración del navegador a Mozilla.)">
