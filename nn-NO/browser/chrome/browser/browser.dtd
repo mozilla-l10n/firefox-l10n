@@ -995,6 +995,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Infokapslar">
 <!ENTITY contentBlocking.cookiesView.label "Infokapslar og nettsidedata">
 
+<!ENTITY contentBlocking.cryptominers.label "Kryptominarar">
+<!ENTITY contentBlocking.cryptominersView.label "Kryptominarar">
+
+
 <!ENTITY contentBlocking.openBreakageReportView2.label "Rapporter eit problem">
 <!ENTITY contentBlocking.breakageReportView.label "Rapporter problem">
 <!ENTITY contentBlocking.breakageReportView2.description "Innhaldsblokkering kan føre til problem med enkelte nettsider. Når du rapporterer problem, hjelper du til med å gjere &brandShortName; betre for alle. (Dette vil sende ein URL, samt informasjon om nettlesarinnstillingane dine, til Mozilla.)">

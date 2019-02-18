@@ -4,10 +4,6 @@
 
 do-not-track-description = Send nettsider eit «Ikkje spor»-signal om at du ikkje vil bli spora
 do-not-track-learn-more = Les meir
-do-not-track-option-default =
-    .label = Berre når eg brukar Sporingsvern
-do-not-track-option-default-content-blocking =
-    .label = Berre når { -brand-short-name } er sett til å blokkere oppdaga sporfølgjarar
 do-not-track-option-default-content-blocking-known =
     .label = Berre når { -brand-short-name } er innstilt for å blokere kjende sporfølgjarar
 do-not-track-option-always =
@@ -95,9 +91,6 @@ extension-controlled-default-search = Ei utviding, <img data-l10n-name="icon"/> 
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = Ei utviding, <img data-l10n-name="icon"/> { $name }, krev innhaldsfaner.
-# This string is shown to notify the user that their tracking protection preferences
-# are being controlled by an extension.
-extension-controlled-websites-tracking-protection-mode = Ei utviding, <img data-l10n-name="icon"/> { $name }, styrer sporingsvernet.
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
 extension-controlled-websites-content-blocking-all-trackers = Eit tillegg, <img data-l10n-name="icon"/> { $name }, styrer denne innstillinga.
@@ -606,12 +599,6 @@ sitedata-total-size-calculating = Reknar ut storleik på nettstad-data og snøgg
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Dei lagra infokapslane dine, nettstaddata og hurtiglager brukar for tida { $value } { $unit } diskplass.
 sitedata-learn-more = Les meir
-sitedata-keep-until = Behald til
-    .accesskey = B
-sitedata-keep-until-expire =
-    .label = Dei går ut
-sitedata-keep-until-closed =
-    .label = { -brand-short-name } er lukka
 sitedata-delete-on-close =
     .label = Slett infokapslar og nettsidedata når { -brand-short-name } stenger
     .accesskey = S
@@ -625,16 +612,6 @@ sitedata-disallow-cookies-option =
 # The list items are the strings named sitedata-block-*-option*.
 sitedata-block-desc = Type blokkert
     .accesskey = T
-sitedata-block-trackers-option-recommended =
-    .label = Tredjeparts-sporfølgjarar (tilrådd)
-sitedata-block-trackers-option =
-    .label = Tredjeparts-sporfølgjarar
-sitedata-block-unvisited-option =
-    .label = Infokapslar frå ubesøkte nettsider
-sitedata-block-all-third-party-option =
-    .label = Alle tredjeparts-infokapslar (kan lage feil på nettsider)
-sitedata-block-all-option =
-    .label = Alle infokapslar (vil føre til at nettstider sluttar å fungere)
 sitedata-option-block-trackers =
     .label = Tredjeparts-sporfølgjarar
 sitedata-option-block-unvisited =
@@ -649,13 +626,6 @@ sitedata-clear =
 sitedata-settings =
     .label = Handter data…
     .accesskey = H
-sitedata-cookies-exceptions =
-    .label = Unntak…
-    .accesskey = U
-# This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
-# in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
-# Cookies and Site Data section.
-sitedata-warning-your-settings-prevent-changes = Innstillingane dine i Innhaldsblokkering hindrar endringar i innstillingar for Infokapslar og nettsidedata.
 sitedata-cookies-permissions =
     .label = Handter løyve…
     .accesskey = H
@@ -678,41 +648,8 @@ addressbar-suggestions-settings = Endre innstillingar for søkjeforslag
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Innhaldsblokkering
-content-blocking-desc = Blokker tredjepartsinnhald, som annonsar eller kode, som kan gjere surfinga tregare og som kan spore deg rundt på nettet. Tilpass innstillingane for best mogleg balanse mellom vern og yting.
 content-blocking-description = Blokker tredjepartsinnhald som sporar deg på nettet. Kontroller kor mykje av internett-aktiviteten din som blir lagra og delt mellom nettstadar.
 content-blocking-learn-more = Les meir
-content-blocking-restore-defaults =
-    .label = Still tilbake til standard
-    .accesskey = S
-content-blocking-toggle-on =
-    .tooltiptext = Slå på innhaldsblokkering
-content-blocking-toggle-off =
-    .tooltiptext = Slå av innhaldsblokkering
-content-blocking-toggle-label-on = PÅ
-    .accesskey = P
-content-blocking-toggle-label-off = AV
-    .accesskey = A
-content-blocking-category-label = Vel kva som skal blokkerast
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-slow-loading-trackers-label =
-    .label = Treglastande sporfølgjarar
-    .accesskey = s
-content-blocking-fastblock-new-description = Blokker berre sporfølgjarar som gjer at sider lastar tregare.
-content-blocking-tracking-protection-trackers-label =
-    .label = Sporfølgjarar
-    .accesskey = S
-content-blocking-tracking-protection-all-detected-trackers-label =
-    .label = Alle oppdaga sporfølgjarar
-    .accesskey = e
-content-blocking-tracking-protection-new-description = Blokker alle kjende sporfølgjarar. (Kan hindre at enkelte nettsider vert lasta inn inn.)
-content-blocking-tracking-protection-option-always =
-    .label = Alltid
-    .accesskey = A
-content-blocking-tracking-protection-option-private =
-    .label = Berre i private vindauge
-    .accesskey = B
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 content-blocking-setting-standard =
@@ -745,51 +682,16 @@ content-blocking-option-private =
     .label = Berre i private vindauge
     .accesskey = B
 content-blocking-tracking-protection-change-block-list = Endre blokkeringsliste
-content-blocking-third-party-cookies-label =
-    .label = Infokapslar frå tredjepart
-    .accesskey = I
-content-blocking-reject-trackers-description = Blokker alle tredjeparts infokapslar eller berre dei som er brukte av sporfølgjarar.
-# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
-# of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
-# or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
-# the UI.
-content-blocking-reject-trackers-warning-your-settings-prevent-changes = Innstillingane dine i Infokapsler og nettsidedata hindrar endringar i Instillingar for tredjeparts-infokapslar
-content-blocking-change-cookie-settings =
-    .label = Endre innstillingar for infokapslar
-    .accesskey = s
-content-blocking-reject-trackers-block-trackers-option-recommended =
-    .label = Sporfølgjarar (tilrådde)
-    .accesskey = S
-content-blocking-reject-trackers-block-trackers-option =
-    .label = Sporfølgjarar
-    .accesskey = S
-content-blocking-reject-trackers-all-third-parties-option =
-    .label = Alle tredjeparts infokapslar (kan føre til at nettsider sluttar å fungere)
-    .accesskey = A
 content-blocking-cookies-label =
     .label = Infokapslar
     .accesskey = k
+# Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
+content-blocking-cryptominers-label =
+    .label = Kryptominarar
+    .accesskey = y
 
 ## Privacy Section - Tracking
 
-tracking-header = Sporingsvern
-tracking-desc = Sporingsvernet blokkerer sporfølgjarar på nettet som samlar inn nettlesardataa dine på fleire nettsider. <a data-l10n-name="learn-more">Les meir om sporingsvern og ditt personvern</a>
-tracking-mode-label = Bruk sporingsvern for å blokkere kjende sporfølgjarar
-tracking-mode-always =
-    .label = Alltid
-    .accesskey = l
-tracking-mode-private =
-    .label = Berre i private vindauge
-    .accesskey = B
-tracking-mode-never =
-    .label = Aldri
-    .accesskey = A
-tracking-exceptions =
-    .label = Unntak…
-    .accesskey = U
-tracking-change-block-list =
-    .label = Endre blokkeringsliste…
-    .accesskey = b
 tracking-manage-exceptions =
     .label = Handter unntak…
     .accesskey = H
