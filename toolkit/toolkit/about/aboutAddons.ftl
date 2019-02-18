@@ -229,6 +229,7 @@ manage-extensions-shortcuts =
     .accesskey = o
 shortcuts-empty-message = Ennek a kiegészítőnek nincsenek gyorsbillentyűi.
 shortcuts-no-addons = Nincs egyetlen kiterjesztés sem engedélyezve.
+shortcuts-no-commands = A következő kiegészítők nem rendelkeznek gyorsbillentyűvel:
 shortcuts-input =
     .placeholder = Írjon be egy gyorsbillentyűt
 shortcuts-browserAction = Kiegészítő aktiválása
@@ -247,3 +248,11 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = Kevesebb megjelenítése
 go-back-button =
     .tooltiptext = Ugrás vissza
+
+## Add-on actions
+
+remove-addon-button = Eltávolítás
+disable-addon-button = Letiltás
+enable-addon-button = Engedélyezés
+addons-enabled-heading = Engedélyezve
+addons-disabled-heading = Tiltva
