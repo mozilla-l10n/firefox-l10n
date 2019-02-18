@@ -2,10 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+about-config-title = about:config
+about-config-search =
+    .placeholder = Buscar o presionar ESC para mostrar todo
 about-config-pref-add = Agregar
 about-config-pref-toggle = Alternar
 about-config-pref-edit = Editar
 about-config-pref-save = Guardar
+about-config-pref-reset = Restablecer
 about-config-pref-delete = Eliminar
 
 ## Labels for the type selection radio buttons shown when adding preferences.
