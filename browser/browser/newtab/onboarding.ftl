@@ -23,3 +23,4 @@ onboarding-addons-title = ඇඩෝන
 ## Message strings belonging to the Return to AMO flow
 
 return-to-amo-extension-button = දිගුව එක් කරන්න
+return-to-amo-get-started-button = { -brand-short-name } සමඟ ආරම්භ කරන්න.

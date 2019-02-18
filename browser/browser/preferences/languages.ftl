@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+webpage-languages-window =
+    .title = ජාලා අඩවි භාෂා සැකසීම්
+    .style = ඝන :40em
 languages-close-key =
     .key = w
 languages-description = ජාල පිටු ඇතැම් විට එක් භාශාවකට වඩා ඉදිරිපත් කරයි. අභිප්‍රේතය පරිදි මෙම ජාල අඩවි පෙන්වීම සඳහා භාශාවන් තෝරන්න
@@ -31,6 +34,9 @@ languages-customize-add =
 #   $code (String) - Locale code of the locale (for example: "is", "es-CL")
 languages-code-format =
     .label = { $locale }  [{ $code }]
+browser-languages-search = තවත් භාෂා සොයන්න ...
+browser-languages-searching =
+    .label = භාෂා සෙවීම...
 browser-languages-downloading =
     .label = බාගනිමින්...
 browser-languages-select-language =
