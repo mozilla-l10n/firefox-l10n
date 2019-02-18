@@ -996,11 +996,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Cwcis">
 <!ENTITY contentBlocking.cookiesView.label "Cwcis a Data Gwefan">
 
-<!ENTITY contentBlocking.cryptominers.label "Cryptofwynwyr">
-<!ENTITY contentBlocking.cryptominersView.label "Cryptofwynwyr">
+<!ENTITY contentBlocking.cryptominers.label "Cryptogloddwyr">
+<!ENTITY contentBlocking.cryptominersView.label "Cryptogloddwyr">
 
-<!ENTITY contentBlocking.fingerprinters.label "Ôl-byseddwyr">
-<!ENTITY contentBlocking.fingerprintersView.label "Ôl-byseddwyr">
+<!ENTITY contentBlocking.fingerprinters.label "Bysbrintwyr">
+<!ENTITY contentBlocking.fingerprintersView.label "Bysbrintwyr">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Adrodd ar broblem">
 <!ENTITY contentBlocking.breakageReportView.label "Adrodd ar Broblemau">
