@@ -41,7 +41,6 @@ left instead of right. -->
 <!ENTITY  closeOtherTabs.label               "අනෙකුත් ටැබ වසන්න">
 <!ENTITY  closeOtherTabs.accesskey           "o">
 
-<!ENTITY  closeTabs.accesskey                "">
 <!ENTITY  pinSelectedTabs.label              "ටැබ අමුණන්න">
 <!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
@@ -461,7 +460,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "A">
 <!ENTITY customizeMenu.manageExtension.accesskey "E">
-<!ENTITY customizeMenu.removeExtension.accesskey "">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -603,8 +601,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
-<!ENTITY saveToPocketCmd.accesskey    "">
-<!ENTITY saveLinkToPocketCmd.accesskey "">
 
 <!ENTITY emailPageCmd.label           "විද්‍යුත් තැපැල් සබැඳිය">
 <!ENTITY emailPageCmd.accesskey       "E">
