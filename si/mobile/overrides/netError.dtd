@@ -197,4 +197,8 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY inadequateSecurityError.title "ඔබේ සබඳතාව අනාරක්ශිතයි">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> විසින් යල් පැනගිය සහ ප්‍රහාර වලට ලක් විය හැකි ආරක්ෂණයක් භාවිත කරයි. ඔබ ආරක්ෂිත යැයි සිතන තොරතුරු ප්‍රහාරකයකුට පහසුවෙන්ම ලබා ගත හැක. ඔබට මෙම අඩවියට පිවිසීමට හැකි වීමට පෙර ජාල අඩවි පරිපාලක විසින් සේවාදායකය අළුත්වැඩියා කළ යුතුයි.</p><p>දෝශ කේතය: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
+<!ENTITY networkProtocolError.title "ජාල ප්‍රතිපත්ති දෝශයක්">
+<!ENTITY networkProtocolError.longDesc "<p>ජාල ප්‍රතිපත්තියේ දෝශයක් හඳුනාගත් බැවින් ඔබ දැකීමට උත්සාහ කරන පිටුව පෙන්විය නොහැක.</p><ul>
+<li>කරුණාකර මෙම ගැටළුව පිළිබඳව ජාල අඩවියේ හිමිකරුවන් දැනුවත් කරන්න.</li></ul>">
