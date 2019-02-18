@@ -996,6 +996,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Cwcis">
 <!ENTITY contentBlocking.cookiesView.label "Cwcis a Data Gwefan">
 
+<!ENTITY contentBlocking.cryptominers.label "Cryptofwynwyr">
+<!ENTITY contentBlocking.cryptominersView.label "Cryptofwynwyr">
+
+<!ENTITY contentBlocking.fingerprinters.label "Ôl-byseddwyr">
+<!ENTITY contentBlocking.fingerprintersView.label "Ôl-byseddwyr">
+
 <!ENTITY contentBlocking.openBreakageReportView2.label "Adrodd ar broblem">
 <!ENTITY contentBlocking.breakageReportView.label "Adrodd ar Broblemau">
 <!ENTITY contentBlocking.breakageReportView2.description "Gall rhwystro cynnwys achosi problemau gyda rai gwefannau. Pan fyddwch yn rhoi adroddiad ar broblemau, byddwch yn helpu gwneud &brandShortName; yn well i bawb. (Bydd hyn yn anfon yr URL yn ogystal â gwybodaeth am osodiadau eich porwr i Mozilla.)">
