@@ -218,7 +218,23 @@ extensions-updates-update-selected =
 
 ## Extension shortcut management
 
+manage-extensions-shortcuts =
+    .label = Handter snarvegar for tillegg
+    .accesskey = H
+shortcuts-input =
+    .placeholder = Skriv inn ein snarveg
+shortcuts-browserAction = Aktiver tillegg
+shortcuts-pageAction = Aktiver sidehandling
+shortcuts-sidebarAction = Vis/skjul sidepanelet
+shortcuts-modifier-mac = Inkluder Ctrl, Alt eller ⌘
+shortcuts-modifier-other = Inkluder Ctrl eller Alt
+shortcuts-invalid = Ugyldig kombinasjon
 shortcuts-letter = Skriv ein bokstav
+shortcuts-system = Kan ikkje overskrive ein { -brand-short-name }-snarveg
+shortcuts-card-expand-button =
+    { $numberToShow ->
+       *[other] Vis { $numberToShow } fleire
+    }
 shortcuts-card-collapse-button = Vis mindre
 go-back-button =
     .tooltiptext = Gå tilbake
