@@ -230,3 +230,8 @@ shortcuts-letter = Sekcem asekkil
 shortcuts-card-collapse-button = Sken qel
 go-back-button =
     .tooltiptext = Uɣal ɣer deffir
+
+## Add-on actions
+
+remove-addon-button = Kkes
+disable-addon-button = Ssens
