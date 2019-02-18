@@ -67,6 +67,7 @@
  -->
 <!ENTITY updateApp.version.pre           "Versiunea ">
 <!ENTITY updateApp.version.post          "">
+<!ENTITY updateAppAllow.description      "Permite ca &brandShortName; să">
 <!ENTITY updateAuto.label                "Instalează actualizări automat (recomandat: securitate sporită)">
 <!ENTITY updateAuto.accesskey            "a">
 <!ENTITY updateCheck.label               "Caută actualizări, dar lasă-mă pe mine să decid dacă să le instalez">
@@ -76,6 +77,8 @@
 
 <!ENTITY useService.label                "Folosește un serviciu în fundal pentru a instala actualizări">
 <!ENTITY useService.accesskey            "s">
+
+<!ENTITY updateCrossUserSettingWarning.description "Această setare se va aplica tuturor conturilor Windows și profilurilor &brandShortName; care folosesc această instalare &brandShortName;.">
 
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Setări…">
