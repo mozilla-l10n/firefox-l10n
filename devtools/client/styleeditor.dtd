@@ -21,7 +21,7 @@
 <!ENTITY visibilityToggle.tooltip   "Bật tắt tính năng có thể xem style sheet">
 
 <!ENTITY saveButton.label           "Lưu">
-<!ENTITY saveButton.tooltip         "Lưu lại style sheet thành một file.">
+<!ENTITY saveButton.tooltip         "Lưu style sheet thành một tập tin">
 <!ENTITY saveButton.accesskey       "S">
 
 <!ENTITY optionsButton.tooltip      "Tùy chọn trình chỉnh sửa kiểu mẫu">
