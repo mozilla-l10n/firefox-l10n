@@ -53,7 +53,7 @@ containers-color-pink =
 containers-color-purple =
     .label = Porffor
 containers-icon-fingerprint =
-    .label = Ôl Bys
+    .label = Bysbrint
 containers-icon-briefcase =
     .label = Bag Dogfennau
 # String represents a money sign but currently uses a dollar sign
