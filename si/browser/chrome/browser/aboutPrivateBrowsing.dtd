@@ -7,7 +7,6 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
 
 <!ENTITY privateBrowsing.title                           "පෞද්ගලික ගවේෂණය">
-<!ENTITY privateBrowsing.title.tracking                  "ලුහුබැඳීම් ආරක්ෂාව සමඟ පුද්ගලික ගවේශනය">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.before       "ඔබ පුද්ගලික කවුළුවක් තුළ ගවේශනය කරන විට, Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "සුරකින්නේ නැත">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
@@ -27,6 +26,12 @@
 <!ENTITY aboutPrivateBrowsing.learnMore3.title           "පෞද්ගලික ගවේෂණය">
 <!ENTITY aboutPrivateBrowsing.learnMore3.after           ".">
 
-<!ENTITY trackingProtection.title                        "ලුහුබැඳීම් ආරක්ෂාව">
-<!ENTITY trackingProtection.description2                 "ඇතැම් ජාල අඩවි මගින් ඔබේ අන්තර්ජාල ක්‍රියාකාරීත්වය දර්ශනය කිරීම සඳහා ලුහුබැඳීම් භාවිත කරයි. ලුහුබැඳීම් ආරක්ෂාව මගින් Firefox විසින් ඔබේ ගවේශන හැසිරීම පිළිබඳ තොරතුරු එක්රැස් කරන ලුහුබැඳීම් වලකයි.">
 <!ENTITY trackingProtection.startTour1                   "එය ක්‍රියාකරන්නේ කෙසේදැයි බලන්න">
+
+
+<!-- Strings for new Private Browsing with Search -->
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.search.placeholder): This is the placeholder
+                       text for the search box.   -->
+<!ENTITY aboutPrivateBrowsing.search.placeholder         "ජාලය තුළ සොයන්න">
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article
+                       about private browsing myths.   -->

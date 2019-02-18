@@ -84,6 +84,9 @@ permissions-exceptions-addons-desc = ඇඩෝන ස්ථාපනයට අ�
 
 ## Site Permissions - Camera
 
+permissions-site-camera-window =
+    .title = සැකසුම් -කැමරා අවසර
+    .style = { permissions-window.style }
 
 ## Site Permissions - Microphone
 
