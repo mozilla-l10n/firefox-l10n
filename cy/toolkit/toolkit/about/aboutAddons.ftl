@@ -228,6 +228,7 @@ manage-extensions-shortcuts =
     .accesskey = R
 shortcuts-empty-message = Nid oes llwybrau byr ar gyfer yr estyniad hwn.
 shortcuts-no-addons = Nid oes gennych unrhyw estyniadau wedi'u galluogi.
+shortcuts-no-commands = Nid oes gan yr estyniadau canlynol lwybrau byr:
 shortcuts-input =
     .placeholder = Teipiwch llwybr byr
 shortcuts-browserAction = Cychwyn estyniad
@@ -250,3 +251,11 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = Dangos Llai
 go-back-button =
     .tooltiptext = Mynd nôl
+
+## Add-on actions
+
+remove-addon-button = Tynnu
+disable-addon-button = Analluogu
+enable-addon-button = Galluogi
+addons-enabled-heading = Galluogwyd
+addons-disabled-heading = Analluogwyd
