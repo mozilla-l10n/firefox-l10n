@@ -467,36 +467,50 @@
 
 <!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
      after the user pins/unpins the currently displayed page from top sites. -->
+<!ENTITY pinned_page_to_top_sites "ප්‍රධාන අඩවි වෙත ඇමිණූ පිටුව">
+<!ENTITY unpinned_page_from_top_sites "ප්‍රධාන අඩවි වෙතින් ඉවත් කළ පිටුව">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
+<!ENTITY doorhanger_login_no_username "[පරිශීලක නමක් නොමැත]">
+<!ENTITY doorhanger_login_edit_title "පිවිසීම සකසන්න">
 <!ENTITY doorhanger_login_edit_username_hint "පරිශීලක නම">
 <!ENTITY doorhanger_login_edit_password_hint "මුරපදය">
 <!ENTITY doorhanger_login_edit_toggle "මුරපදය පෙන්වන්න">
+<!ENTITY doorhanger_login_select_message "&formatS; වෙතින් මුරපදය පිටපත් කරන්නද?">
+<!ENTITY doorhanger_login_select_toast_copy "මුරපදය පසුරු පුවරුවට පිටපත් විය">
+<!ENTITY doorhanger_login_select_action_text "වෙනත් පිවිසුමක් තෝරන්න">
+<!ENTITY doorhanger_login_select_title "මුරපදය පිටපත් කරන ස්ථානය">
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 <!ENTITY pref_scroll_title_bar2 "Full-screen browsing">
 
+<!ENTITY pref_tab_queue_title3 "ටැබ් පෝලිම">
 
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
+<!ENTITY pref_compact_tabs "සංයුක්ත ටැබ්">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed from about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Page removed">
+<!ENTITY folder_removed "බහලුම ඉවත් විය">
 
 <!ENTITY bookmark_edit_title "Edit Bookmark">
+<!ENTITY bookmark_edit_folder_title "බහලුම සකසන්න">
 <!ENTITY bookmark_edit_name "නම">
 <!ENTITY bookmark_edit_location "Location">
 <!ENTITY bookmark_edit_keyword "මූල පදය">
+<!ENTITY bookmark_select_folder "බහලුම තෝරන්න">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 <!ENTITY site_settings_title3       "Site Settings">
 <!ENTITY site_settings_cancel       "Cancel">
+<!ENTITY site_settings_clear        "පිරිසිදු">
 
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
@@ -512,6 +526,9 @@
 <!ENTITY button_yes "Yes">
 <!ENTITY button_no "No">
 <!ENTITY button_clear_data "Clear data">
+<!ENTITY button_set "සකසන්න">
+<!ENTITY button_clear "පිරිසිදු">
+<!ENTITY button_copy "පිටපත්">
 
 <!ENTITY home_top_sites_title "Top Sites">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -522,12 +539,20 @@
      with the page title defined in aboutHome.dtd -->
 <!ENTITY home_title "&brandShortName; Home">
 <!ENTITY home_history_title "History">
+<!ENTITY home_synced_devices_smartfolder "සම්මුහු කළ උපාංග">
+<!ENTITY home_synced_devices_number "&formatD; උපාංග">
 <!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
+<!ENTITY home_synced_devices_one "1 උපාංගය">
+<!ENTITY home_history_back_to2 "සම්පූර්ණ ඉතිහාසයට අපසු යන්න">
 <!ENTITY home_clear_history_button "Clear browsing history">
 <!ENTITY home_clear_history_confirm "Are you sure you want to clear your history?">
 <!ENTITY home_bookmarks_empty "Bookmarks you save show up here.">
+<!ENTITY home_closed_tabs_title2 "මෑතදී වැසූ">
 <!ENTITY home_last_tabs_empty "Your recent tabs show up here.">
+<!ENTITY home_restore_all "සියල්ල යළි පිහිටුවන්න">
+<!ENTITY home_closed_tabs_number "&formatD; ටැබ">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
+<!ENTITY home_closed_tabs_one "1 ටැබය">
 <!ENTITY home_most_recent_empty "Websites you visited most recently show up here.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
@@ -583,6 +608,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Mixed content notifications in site identity popup -->
 
 <!-- Tracking content notifications in site identity popup -->
+<!ENTITY doorhanger_tracking_state_enabled "සක්‍රීය කළ">
+<!ENTITY doorhanger_tracking_state_disabled "අක්‍රීය කළ">
 
 <!-- Common mixed and tracking content strings in site identity popup -->
 <!ENTITY learn_more "Learn More">
@@ -719,7 +746,9 @@ Stream list for highlights sourced from th user's bookmarks. -->
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
 
+<!ENTITY private_tab_learn_more "තවත් දැනගැනීමට අවශ්‍යද?">
 
+<!ENTITY fullscreen_warning "මුළු තිරය වෙත ඇතුළු විය">
 
 <!-- LOCALIZATION NOTE (pwa_add_to_launcher_confirm): The plus sign here is part of UI design -->
 
@@ -731,6 +760,10 @@ See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
 Picture-in-picture mini window -->
 
 <!-- Notification channels names -->
+<!ENTITY mls_notification_channel "&vendorShortName; ස්ථානීය සේවා">
+<!ENTITY download_notification_channel "බාගැනීම්">
+<!ENTITY media_notification_channel2 "ශබ්ද හා වීඩියෝ">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
+<!ENTITY leanplum_default_notifications_channel2 "&vendorShortName; ඉඟි හා උපක්‍රම">
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
 web sites through the HTML Notifications API. -->
