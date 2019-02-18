@@ -4,11 +4,20 @@
 
 <!ENTITY firstrun_panel_title_welcome "සාදරයෙන් පිළිගනිමු">
 <!ENTITY firstrun_urlbar_message2 "&brandShortName; තෝරාගත්තාට ස්තූතියි">
+<!ENTITY firstrun_urlbar_subtext2 "ලාභ නොලබන නිදහස් හා විවෘත ජාලයක් වෙනුවෙන් කැපවූ, නව ජංගම ගවේෂකයක් Mozilla වෙතින්.">
 <!ENTITY firstrun_panel_title_privacy "පෞද්ගලිකත්වය">
+<!ENTITY firstrun_privacy_message "කිසිවෙක් බලාගෙන නොමැති සේ ගවේෂනය කරන්න">
 <!ENTITY firstrun_panel_title_customize "රිසිකරණය">
+<!ENTITY firstrun_customize_message "&brandShortName; ඔබේම කරගන්න.">
+<!ENTITY firstrun_customize_subtext "ඔබේ පුද්ගලිකත්වය පෙන්වන ඇඩෝන, දැන්වීම් වැළකුම්, විශේෂාංග එකතු හෝ නව තේමාවක් තෝරැගැනීමෙන් &brandShortName; රුචි කරණය කරන්න.">
 <!ENTITY firstrun_bookmarks_title "අතීතය">
+<!ENTITY firstrun_bookmarks_message "ඔබේ කැමැත්ත, ප්‍රථමයෙන්">
+<!ENTITY firstrun_bookmarks_subtext "ඔබ සොයන විට ඔබේ පිටුසලකුණු හා ඉතිහාසයෙන් ප්‍රථිපල ලබන්න.">
 <!ENTITY firstrun_data_title "දත්ත">
+<!ENTITY firstrun_data_message "අඩු දත්ත, වැඩි ඉතිරියක්">
+<!ENTITY firstrun_data_subtext2 "ඔබ පිවිසෙන සෑම අඩවියකම දත්ත වැය වීම අඩු කිරීමට පින්තූර නවතා දමන්න.">
 <!ENTITY firstrun_sync_title "සම්මුහු">
+<!ENTITY firstrun_sync_message2 "ඔබ නැවතූ තැන සිට අරඹන්න.">
 <!ENTITY  onboard_start_button_browser "ගවේෂණය අරඹන්න">
 <!ENTITY firstrun_button_notnow "දැන්ම නොවේ">
 <!ENTITY firstrun_button_next "ඊළග">
@@ -731,7 +740,9 @@ from Android">
 
 
 
+<!ENTITY activity_stream_topsites "ප්‍රමුඛ අඩවි">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
+<!ENTITY activity_stream_topstories "&brandPocket; විසින් නිර්දේශිත">
 
 <!-- LOCALIZATION NOTE (activity_stream_link_more1): Link-like text displayed to take user to a website with more content from Pocket. -->
 
