@@ -4,11 +4,13 @@
 
 <!ENTITY firstrun_panel_title_welcome "සාදරයෙන් පිළිගනිමු">
 <!ENTITY firstrun_urlbar_message2 "&brandShortName; තෝරාගත්තාට ස්තූතියි">
+<!ENTITY firstrun_panel_title_privacy "පෞද්ගලිකත්වය">
 <!ENTITY firstrun_panel_title_customize "රිසිකරණය">
 <!ENTITY firstrun_bookmarks_title "අතීතය">
 <!ENTITY firstrun_data_title "දත්ත">
 <!ENTITY firstrun_sync_title "සම්මුහු">
 <!ENTITY  onboard_start_button_browser "ගවේෂණය අරඹන්න">
+<!ENTITY firstrun_button_notnow "දැන්ම නොවේ">
 <!ENTITY firstrun_button_next "ඊළග">
 
 <!ENTITY firstrun_tabqueue_title "සබැඳි">
@@ -169,6 +171,7 @@
 <!ENTITY pref_category_vendor2 "&vendorShortName;&brandShortName;">
 <!ENTITY pref_category_vendor_summary2 "&brandShortName; පිළිබඳ,FAQs සහ ප්‍රතිචාර">
 <!ENTITY pref_category_datareporting "Data choices">
+<!ENTITY pref_category_logins "පිවිසුම්">
 <!ENTITY pref_learn_more "Learn more">
 <!ENTITY pref_category_installed_search_engines "Installed search engines">
 <!ENTITY pref_category_add_search_providers "Add more search providers">
@@ -273,51 +276,74 @@
 
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
+<!ENTITY custom_tabs_menu_item_open_in "&formatS; තුළ විවෘත වේ">
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
+<!ENTITY custom_tabs_hint_url_copy "URL පිටපත් විය">
 
 
 
+<!ENTITY tab_queue_toast_action "දැන් විවෘත කරන්න">
+<!ENTITY tab_queue_prompt_title "සබැඳි කිහිපයක් විවෘත කරන්නද?">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_positive_action_button "සක්‍රීය">
+<!ENTITY tab_queue_prompt_negative_action_button "දැන් නොවේ">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_settings_button "සැකසුම් වෙත යන්න">
+<!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY tab_queue_notification_text_plural2 "&formatD; ටැබ රැඳී සිටියි">
 <!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
+<!ENTITY tab_queue_notification_text_singular2 "1 ටැබ රැඳී සිටියි">
 
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
 
 <!ENTITY pref_char_encoding "Character encoding">
 <!ENTITY pref_char_encoding_on "Show menu">
+<!ENTITY pref_char_encoding_off "මෙනුව පෙන්වන්න එපා">
 <!ENTITY pref_clear_private_data2 "Clear now">
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
+<!ENTITY pref_clear_private_data_now_tablet "දැන් පිරිසිදු කරන්න">
+<!ENTITY pref_clear_on_exit_title3 "පිටවීමේදී පුද්ගලික දත්ත පිරිසිදු කරන්න">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; will automatically clear your data whenever you select \&quot;Quit\&quot; from the main menu">
 <!ENTITY pref_clear_on_exit_dialog_title "Select which data to clear">
+<!ENTITY pref_restore_tabs "ටැබ යළි පිහිටුවන්න">
 <!ENTITY pref_restore_always "Always restore">
 <!ENTITY pref_restore_quit "Don\&apos;t restore after quitting &brandShortName;">
 
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
      Font size here refers to the name of the corresponding Android system setting. -->
+<!ENTITY pref_use_system_font_size "පද්ධති අකුරු ප්‍රමාණය භාවිත කරන්න">
 
 <!ENTITY pref_media_autoplay_enabled "Allow autoplay">
 <!ENTITY pref_zoom_force_enabled "Always enable zoom">
 <!ENTITY pref_zoom_force_enabled_summary "Force override so you can zoom any page">
 
 <!ENTITY pref_use_master_password "Use master password">
+<!ENTITY pref_import_options "ආයාත විකල්පයන්">
 <!ENTITY pref_import_android_summary "Import bookmarks and history from the native browser">
 <!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
      the Clear Private Data  dialog and refers to currently open tabs. -->
+<!ENTITY pref_private_data_openTabs "ටැබ විවෘත කරන්න">
 <!ENTITY pref_private_data_history2 "Browsing history">
+<!ENTITY pref_private_data_searchHistory "සෙවුම් ඉතිහාසය">
+<!ENTITY pref_private_data_formdata2 "ආකෘති ඉතිහාසය">
+<!ENTITY pref_private_data_passwords2 "සුරැකි පිවිසුම්">
 <!ENTITY pref_private_data_cache "Cache">
 <!ENTITY pref_private_data_offlineApps "Offline website data">
 <!ENTITY pref_private_data_siteSettings2 "Site settings">
 <!ENTITY pref_private_data_downloadFiles2 "Downloads">
+<!ENTITY pref_private_data_syncedTabs "සම්මුහු කළ ටැබ">
 
+<!ENTITY pref_default_browser "පෙරනිමි ගවේශකය කරන්න">
+<!ENTITY pref_default_browser_mozilla_support_tablet "Mozilla සහායට පිවිසෙන්න">
 <!ENTITY pref_about_firefox "About &brandShortName;">
 <!ENTITY pref_vendor_faqs "FAQs">
 <!ENTITY pref_vendor_feedback "Give feedback">
@@ -325,6 +351,9 @@
 <!ENTITY pref_dialog_set_default "Set as default">
 <!ENTITY pref_dialog_default "Default">
 <!ENTITY pref_dialog_remove "Remove">
+<!ENTITY pref_dialog_activitystream_header_content "අමතර අන්තර්ගතයන්">
+<!ENTITY pref_dialog_activitystream_recentBookmarks "මෑත පිටු සළකුණු">
+<!ENTITY pref_dialog_activitystream_visited "පිවිසි">
 
 <!ENTITY pref_search_last_toast "You can\&apos;t remove or disable your last search engine.">
 
@@ -365,6 +394,8 @@
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
+<!ENTITY pref_update_autodownload3 "ස්වයංක්‍රීය යාවත්">
+<!ENTITY pref_update_autodownload_wifi "Wi-Fi හරහා පමණයි">
 <!ENTITY pref_update_autodownload_never "Never">
 <!ENTITY pref_update_autodownload_always "Always">
 
@@ -374,19 +405,26 @@
 <!ENTITY quit "Quit">
 
 <!ENTITY addons "ඇඩෝන">
+<!ENTITY logins "පිවිසුම්">
 <!ENTITY downloads "බාගත කිරීම්">
 <!ENTITY char_encoding "අක්‍ෂර කේතාංකනය">
 
 <!ENTITY share "Share">
 <!ENTITY share_title "Share via">
+<!ENTITY share_image_failed "මෙම පින්තූරය බෙදාගැනීමට නොහැකි විය">
 <!ENTITY save_as_pdf "Save as PDF">
+<!ENTITY print "මුද්‍රණය">
+<!ENTITY view_page_source "පිටු මූලය පෙන්වන්න">
 <!ENTITY find_in_page "Find in Page">
 <!ENTITY desktop_mode "Request Desktop Site">
 <!ENTITY page "Page">
 <!ENTITY tools "Tools">
 <!ENTITY new_tab "නව ටැබය">
+<!ENTITY new_private_tab "නව පුද්ගලික ටැබය">
+<!ENTITY close_all_tabs "සියළු ටැබ වසන්න">
 <!ENTITY close_private_tabs "Close Private Tabs">
 <!ENTITY tabs_normal "ටැබ්">
+<!ENTITY tabs_private "පුද්ගලික">
 <!ENTITY set_image_fail "Unable to set image">
 <!ENTITY set_image_path_fail "Unable to save image">
 <!ENTITY set_image_chooser_title "Set Image As">
@@ -406,11 +444,15 @@
 <!ENTITY media_stop "Stop">
 
 <!ENTITY contextmenu_open_new_tab "Open in New Tab">
+<!ENTITY contextmenu_open_private_tab "පුද්ගලික ටැබය තුළ විවෘත කරන්න">
 <!ENTITY contextmenu_remove "Remove">
+<!ENTITY contextmenu_add_page_shortcut "පිටු කෙටිමඟ එක් කරන්න">
+<!ENTITY contextmenu_set_as_homepage "මුල් පිටුව ලෙස පිහිටුවන්න">
 <!ENTITY contextmenu_share "Share">
 <!ENTITY contextmenu_pasteandgo "Paste &amp; Go">
 <!ENTITY contextmenu_paste "අලවන්න">
 <!ENTITY contextmenu_copyurl "Copy Address">
+<!ENTITY contextmenu_edit_bookmark "සකසන්න">
 <!ENTITY contextmenu_subscribe "Subscribe to Page">
 <!ENTITY contextmenu_site_settings "Edit Site Settings">
 <!ENTITY contextmenu_top_sites_edit "Edit">
@@ -419,6 +461,8 @@
 <!-- Localization note (contextmenu_pin_to_top_sites, contextmenu_unpin_from_top_sites): These strings are used to
      pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
      just "Pin Site" or "Unpin Site" would mean. -->
+<!ENTITY contextmenu_pin_to_top_sites "ප්‍රධාන අඩවි වෙත අමුණන්න">
+<!ENTITY contextmenu_unpin_from_top_sites "ප්‍රධාන අඩවි වෙතින් ඉවත් කරන්න">
 <!ENTITY contextmenu_add_search_engine "Add a Search Engine">
 
 <!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
