@@ -282,6 +282,7 @@ update-application-check-choose =
 update-application-manual =
     .label = Ніколи не перевіряти наявність оновлень (не рекомендовано)
     .accesskey = Н
+update-application-warning-cross-user-setting = Цей параметр застосується для всіх облікових записів Windows та профілів { -brand-short-name }, що використовують це встановлення { -brand-short-name }.
 update-application-use-service =
     .label = Використовувати фонову службу для встановлення оновлень
     .accesskey = с
@@ -605,6 +606,7 @@ sitedata-learn-more = Докладніше
 sitedata-delete-on-close =
     .label = Видаляти куки і дані сайтів при закритті { -brand-short-name }
     .accesskey = я
+sitedata-delete-on-close-private-browsing = В режимі постійного приватного перегляду, куки і дані сайтів завжди очищатимуться при закритті { -brand-short-name }.
 sitedata-allow-cookies-option =
     .label = Приймати куки і дані сайтів
     .accesskey = П
@@ -674,6 +676,7 @@ content-blocking-all-windows-trackers = Відомі елементи стеже
 content-blocking-all-third-party-cookies = Усі сторонні куки
 content-blocking-warning-title = Увага!
 content-blocking-warning-desc = Блокування куків та стеження може вплинути на роботу деяких веб-сайтів. Ви можете легко вимкнути блокування для довірених сайтів.
+content-blocking-warning-description = Блокування вмісту може пошкоджувати роботу деяких веб-сайтів. Можна легко вимкнути блокування для сайтів, яким ви довіряєте.
 content-blocking-learn-how = Навчитися
 content-blocking-trackers-label =
     .label = Стеження
@@ -688,6 +691,15 @@ content-blocking-tracking-protection-change-block-list = Змінити спис
 content-blocking-cookies-label =
     .label = Куки
     .accesskey = К
+# Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
+content-blocking-cryptominers-label =
+    .label = Криптомайнери
+    .accesskey = К
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+content-blocking-fingerprinters-label =
+    .label = Засоби зчитування відбитку браузера
+    .accesskey = к
 
 ## Privacy Section - Tracking
 
@@ -722,6 +734,9 @@ permissions-block-autoplay-media =
     .label = Заборонити веб-сайтам автоматично відтворювати медіа зі звуком
     .accesskey = З
 permissions-block-autoplay-media-menu = Для веб-сайтів, що автоматично відтворюють звук
+permissions-block-autoplay-media2 =
+    .label = Блокувати автоматичне відтворення звуку веб-сайтами
+    .accesskey = з
 permissions-block-autoplay-media-exceptions =
     .label = Винятки…
     .accesskey = и
