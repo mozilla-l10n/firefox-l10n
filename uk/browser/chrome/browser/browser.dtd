@@ -635,6 +635,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
+<!ENTITY pocketButton.tooltiptext     "Зберегти в Pocket">
+<!ENTITY saveToPocketCmd.label        "Зберегти сторінку в Pocket">
+<!ENTITY saveToPocketCmd.accesskey    "с">
+<!ENTITY saveLinkToPocketCmd.label    "Зберегти посилання в Pocket">
+<!ENTITY saveLinkToPocketCmd.accesskey "п">
+<!ENTITY pocketMenuitem.label         "Перегляд списку Pocket">
 
 <!ENTITY emailPageCmd.label           "Переслати посилання…">
 <!ENTITY emailPageCmd.accesskey       "с">
@@ -874,6 +880,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsReloadHint "Для застосування змін, можливо, доведеться перезавантажити сторінку.">
 <!ENTITY identity.permissionsPreferences.tooltip "Відкрити налаштування дозволів">
 
+<!ENTITY identity.contentBlockingPreferences.tooltip "Відкрити налаштування блокування вмісту">
 
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -988,6 +995,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.cookies.label "Куки">
 <!ENTITY contentBlocking.cookiesView.label "Куки і дані сайтів">
+
+<!ENTITY contentBlocking.cryptominers.label "Криптомайнери">
+<!ENTITY contentBlocking.cryptominersView.label "Криптомайнери">
+
+<!ENTITY contentBlocking.fingerprinters.label "Засоби зчитування відбитку браузера">
+<!ENTITY contentBlocking.fingerprintersView.label "Засоби зчитування відбитку браузера">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Звіт про проблему">
 <!ENTITY contentBlocking.breakageReportView.label "Звіт про проблему">
@@ -1121,3 +1134,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Керуйте своїми додатками, натиснувши <image class='addon-addon-icon'/> в меню <image class='addon-toolbar-icon'/>.">
 
+<!ENTITY addonPrivateBrowsing.header.label "Розширення в приватних вікнах">
+<!ENTITY addonPrivateBrowsing.body.label "Типово, розширенням не дозволяється виконуватись в приватних вікнах. Вони не працюватимуть під час приватного перегляду і не матимуть доступу до вашої діяльності онлайн. Ви можете дозволити кожному розширенню виконуватись в приватних вікнах, змінивши налаштування.">
+<!ENTITY addonPrivateBrowsing.okButton.label "Гаразд, зрозуміло">
+<!ENTITY addonPrivateBrowsing.okButton.accesskey "Г">
+<!ENTITY addonPrivateBrowsing.manageButton.label "Керувати розширеннями">
+<!ENTITY addonPrivateBrowsing.manageButton.accesskey "К">
