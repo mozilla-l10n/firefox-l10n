@@ -934,7 +934,7 @@ space-alert-over-5gb-message =
 space-alert-under-5gb-ok-button =
     .label = OK, સમજાઇ ગયું
     .accesskey = K
-space-alert-under-5gb-message = { -brand-short-name } ડિસ્ક જગ્યામાંથી બહાર ચાલી રહ્યું છે. વેબસાઈટ વિષયવસ્તુ કદાચ યોગ્ય રીતે દર્શાશે નહીં. સારી બ્રાઉઝિંગ અનુભવ માટે તમારા ડિસ્કનો ઉપયોગ ઑપ્ટિમાઇઝ કરવા &quot;વધુ જાણો&quot; ની મુલાકાત લો.
+space-alert-under-5gb-message = { -brand-short-name } ડિસ્ક જગ્યામાંથી બહાર ચાલી રહ્યું છે. વેબસાઈટ વિષયવસ્તુ કદાચ યોગ્ય રીતે દર્શાશે નહીં. સારી બ્રાઉઝિંગ અનુભવ માટે તમારા ડિસ્કનો ઉપયોગ ઑપ્ટિમાઇઝ કરવા "વધુ જાણો" ની મુલાકાત લો.
 
 ## The following strings are used in the Download section of settings
 
