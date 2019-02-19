@@ -9,6 +9,9 @@ active-policies-tab = Actief
 errors-tab = Fouten
 documentation-tab = Documentatie
 
+no-specified-policies-message = De Enterprise Policies-service is actief, maar er zijn geen beleidsregels ingeschakeld.
+inactive-message = De Enterprise Policies-service is inactief.
+
 policy-name = Beleidsnaam
 policy-value = Beleidswaarde
 policy-errors = Beleidsfouten
