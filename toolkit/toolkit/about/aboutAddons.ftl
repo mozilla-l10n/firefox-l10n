@@ -137,7 +137,7 @@ plugin-deprecation-description = Manca qualcosa? Alcuni plugin non sono più sup
 legacy-warning-show-legacy = Mostra le estensioni obsolete
 legacy-extensions =
     .value = Estensioni obsolete
-legacy-extensions-description = Queste estensioni non soddisfano gli standard attualmente richiesti da { -brand-short-name } e sono state disattivate. <label data-l10n-name="legacy-learn-more">Ulteriori informazioni sui cambiamenti riguardanti le estensioni in &brandShortName;</label>
+legacy-extensions-description = Queste estensioni non soddisfano gli standard attualmente richiesti da { -brand-short-name } e sono state disattivate. <label data-l10n-name="legacy-learn-more">Ulteriori informazioni sui cambiamenti riguardanti le estensioni</label>
 private-browsing-description =
     Le estensioni vengono bloccate in finestre anonime per impostazione
     predefinita. Questo significa che non saranno attive in Navigazione anonima
