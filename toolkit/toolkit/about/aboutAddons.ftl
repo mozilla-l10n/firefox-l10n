@@ -93,6 +93,15 @@ detail-update-automatic =
 detail-update-manual =
     .label = Вимкнено
     .tooltiptext = Не встановлювати оновлення автоматично
+# Used as a description for the option to allow or block an add-on in private windows.
+detail-private-browsing-label = Виконувати в приватних вікнах
+detail-private-browsing-description = Розширення працюватиме в приватних вікнах та матиме доступ до вашої діяльності онлайн. <label data-l10n-name="detail-private-browsing-learn-more">Докладніше</label>
+detail-private-browsing-on =
+    .label = Дозволити
+    .tooltiptext = Увімкнути в приватному перегляді
+detail-private-browsing-off =
+    .label = Не дозволяти
+    .tooltiptext = Вимкнути в приватному перегляді
 detail-home =
     .label = Домівка
 detail-home-value =
@@ -135,6 +144,7 @@ legacy-warning-show-legacy = Показати застарілі розшире�
 legacy-extensions =
     .value = Застарілі розширення
 legacy-extensions-description = Ці розширення не відповідають поточним стандартам { -brand-short-name }, тому вони були вимкнені. <label data-l10n-name="legacy-learn-more">Дізнайтеся про зміни, що стосуються додатків</label>
+private-browsing-description = Типово, розширенням не дозволяється виконуватись в приватних вікнах. Це означає, що вони не працюватимуть в режимі приватного перегляду, а також не матимуть доступу до вашої діяльності онлайн в цих вікнах. Щоб дозволити розширенню виконуватись в приватних вікнах, оберіть картку розширення внизу й змініть налаштування. <label data-l10n-name="private-browsing-learn-more">Докладніше.</label>
 extensions-view-discover =
     .name = Додати ще
     .tooltiptext = { extensions-view-discover.name }
@@ -212,3 +222,39 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Встановити оновлення
     .tooltiptext = Встановити доступні у цьому списку оновлення
+
+## Extension shortcut management
+
+manage-extensions-shortcuts =
+    .label = Керувати комбінаціями клавіш розширень
+    .accesskey = б
+shortcuts-empty-message = Для цього розширення немає комбінації клавіш.
+shortcuts-no-addons = У вас не увімкнено жодного розширення.
+shortcuts-no-commands = Такі розширення не мають комбінацій клавіш:
+shortcuts-input =
+    .placeholder = Введіть комбінацію клавіш
+shortcuts-browserAction = Активувати розширення
+shortcuts-pageAction = Активувати дію сторінки
+shortcuts-sidebarAction = Перемкнути бічну панель
+shortcuts-modifier-mac = Додайте Ctrl, Alt, або ⌘
+shortcuts-modifier-other = Додайте Ctrl або Alt
+shortcuts-invalid = Неправильна комбінація
+shortcuts-letter = Введіть літеру
+shortcuts-system = Неможливо перевизначити комбінацію клавіш { -brand-short-name }
+shortcuts-card-expand-button =
+    { $numberToShow ->
+        [one] Показати ще { $numberToShow }
+        [few] Показати ще { $numberToShow }
+       *[other] Показати ще { $numberToShow }
+    }
+shortcuts-card-collapse-button = Показати менше
+go-back-button =
+    .tooltiptext = Повернутись назад
+
+## Add-on actions
+
+remove-addon-button = Вилучити
+disable-addon-button = Вимкнути
+enable-addon-button = Увімкнути
+addons-enabled-heading = Увімкнено
+addons-disabled-heading = Вимкнено
