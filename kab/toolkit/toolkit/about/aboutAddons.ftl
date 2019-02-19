@@ -88,6 +88,8 @@ detail-update-automatic =
 detail-update-manual =
     .label = Yensa
     .tooltiptext = Ur sebdad ara ileqman s wudem awurman
+# Used as a description for the option to allow or block an add-on in private windows.
+detail-private-browsing-label = Sker deg usfaylu uslig
 detail-private-browsing-on =
     .label = Sireg
     .tooltiptext = Sermed aya deg iccer uslig
@@ -235,3 +237,6 @@ go-back-button =
 
 remove-addon-button = Kkes
 disable-addon-button = Ssens
+enable-addon-button = Rmed
+addons-enabled-heading = Irmed
+addons-disabled-heading = Arurmid
