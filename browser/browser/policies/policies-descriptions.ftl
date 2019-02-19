@@ -50,6 +50,7 @@ policy-EnableTrackingProtection = İçerik engellemeyi etkinleştir veya devre d
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
 policy-Extensions = Eklentileri yükle, kaldır veya kilitle. Yükleme seçeneğinde parametre olarak URL veya yol kullanılır. Kaldırma ve kilitleme seçeneklerinde ise eklenti kimliği kullanılır.
+policy-ExtensionUpdate = Otomatik eklenti güncellemelerini aç veya kapat.
 policy-FlashPlugin = Flash yan uygulama kullanımını engelle ya da kullanımına izin ver.
 policy-HardwareAcceleration = false ise donanım ivmelenmesini kapat.
 # “lock” means that the user won’t be able to change this setting
@@ -71,5 +72,6 @@ policy-SearchEngines = Arama motoru ayarlarını yapılandır. Bu ilke yalnızca
 policy-SecurityDevices = PKCS #11 modüllerini yükle.
 policy-SSLVersionMax = Maksimum SSL sürümünü ayarla.
 policy-SSLVersionMin = Minimum SSL sürümünü ayarla.
+policy-SupportMenu = Yardım menüsüne özel bir destek menüsü öğesi ekle.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Web sitelerinin ziyaret edilmesini engelle. Biçimle ilgili daha fazla bilgi için belgelendirmeye bakın.
