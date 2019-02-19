@@ -25,7 +25,7 @@ update-restarting = Kene başlatıla…
 channel-description = Al-azırda <label data-l10n-name="current-channel"></label> yañartma kanalı üzerindesiñiz.
 warningDesc-version = { -brand-short-name } tecribiydir ve istiqrarsız olabilir.
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name },</label> Ağnı açıq, aleniy ve erkesçe irişilebilir tutmaq içün beraber çalışqan <label data-l10n-name="community-exp-creditsLink">kürreviy bir toplulıq</label>tır.
-community-2 = { -brand-short-name }, <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label> tarafından tasarımlanğandır. &vendorShortName;, İnternetni daa yahşı yapmaq içün beraber çalışqan <label data-l10n-name="community-creditsLink">kürreviy bir toplulıq</label>tır.
+community-2 = { -brand-short-name }, <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label> tarafından tasarımlanğandır. { -vendor-short-name }, İnternetni daa yahşı yapmaq içün beraber çalışqan <label data-l10n-name="community-creditsLink">kürreviy bir toplulıq</label>tır.
 helpus = Yardım etesiñiz kele? <label data-l10n-name="helpus-donateLink">Bir hibe yapıñız</label> yaki <label data-l10n-name="helpus-getInvolvedLink">methaldar oluñız!</label>
 bottomLinks-license = Litsenziyalama Malümatı
 bottomLinks-rights = Ahır-Qullanıcı Aqları
