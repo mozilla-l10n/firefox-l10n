@@ -19,7 +19,7 @@
                                            ўсталяванне праграм на гэтым камп'ютары.">
 <!ENTITY  manualUpdate.space.desc         "Даступна рэкамендаванае абнаўленне бяспекі і стабільнасці, але
                                            ў вас няма месца ўсталяваць яго.">
-<!ENTITY  manualUpdateGetMsg.label        "Вы заўсёды можаце атрымаць апошнюю версію &brandShortName; на:">
+<!ENTITY  manualUpdateGetMsg.label        "Вы заўсёды можаце атрымаць апошнюю версію &brandShortName; з:">
 
 <!ENTITY  unsupported.title               "Непадтрыманая сістэма">
 <!ENTITY  unsupported.label               "Ваш &brandShortName; састарэў, але навейшая версія не падтрымліваецца на вашай сістэме. Узніміце, калі ласка, вашу сістэму і тады паспрабуйце зноў. Вы не пабачыце гэтае папярэджанне зноў, але вы можаце">
@@ -65,3 +65,4 @@
 <!ENTITY  update.details.label            "Падрабязнасці">
 <!ENTITY  update.installedOn.label        "Усталявана ў:">
 <!ENTITY  update.status.label             "Статус:">
+
