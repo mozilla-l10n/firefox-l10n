@@ -31,7 +31,7 @@
 <!ENTITY p200.label           "200&#037;">
 <!ENTITY Custom.label         "Tùy biến…">
 <!ENTITY ShrinkToFit.label    "Co lại cho vừa">
-<!ENTITY customPrompt.title   "Tùy biến Tỉ lệ…">
+<!ENTITY customPrompt.title   "Tùy biến tỉ lệ…">
 <!ENTITY simplifyPage.label   "Đơn giản hóa trang">
 <!ENTITY simplifyPage.accesskey "i">
 <!ENTITY simplifyPage.enabled.tooltip  "Thay đổi giao diện để đọc dễ dàng hơn">
