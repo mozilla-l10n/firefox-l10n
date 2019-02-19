@@ -12,6 +12,7 @@ heading = Cambios a tu perfil de { -brand-short-name }
 changed-title = ¿Qué cambio?
 options-title = ¿Cuales son mis opciones?
 resources = Recursos:
+support-link = Usando el administrador de perfiles - Artículo de soporte
 sync-header = Iniciar sesión o crear una { -fxaccount-brand-name }
 sync-label = Ingresa tu correo
 sync-input =
