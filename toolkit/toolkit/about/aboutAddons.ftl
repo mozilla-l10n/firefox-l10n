@@ -130,7 +130,7 @@ detail-rating =
 addon-restart-now =
     .label = Újraindítás most
 disabled-unsigned-heading =
-    .value = Néhány kiterjesztés letiltásra került
+    .value = Néhány kiegészítő letiltásra került
 disabled-unsigned-description = A következő kiegészítők nem lettek ellenőrizve a { -brand-short-name } böngészőben való használatra. Lehetősége van <label data-l10n-name="find-addons">helyettesítőket keresni</label> vagy megkérni a fejlesztőt az ellenőriztetésre.
 disabled-unsigned-learn-more = Tudjon meg többet erőfeszítéseinkről az online biztonsága fenntartásáért.
 disabled-unsigned-devinfo = A kiegészítőik ellenőriztetése iránt érdeklődő fejlesztők folytathatják a <label data-l10n-name="learn-more">kézikönyv</label> elolvasásával.
@@ -228,7 +228,7 @@ manage-extensions-shortcuts =
     .label = Kiegészítő-gyorsbillentyűk kezelése
     .accesskey = o
 shortcuts-empty-message = Ennek a kiegészítőnek nincsenek gyorsbillentyűi.
-shortcuts-no-addons = Nincs egyetlen kiterjesztés sem engedélyezve.
+shortcuts-no-addons = Egyetlen kiegészítő sincs engedélyezve.
 shortcuts-no-commands = A következő kiegészítők nem rendelkeznek gyorsbillentyűvel:
 shortcuts-input =
     .placeholder = Írjon be egy gyorsbillentyűt

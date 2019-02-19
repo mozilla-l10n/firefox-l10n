@@ -103,7 +103,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "Inkrementális GC">
 
-<!ENTITY aboutSupport.a11yTitle "Kisegítő lehetőségek">
+<!ENTITY aboutSupport.a11yTitle "Akadálymentesítés">
 <!ENTITY aboutSupport.a11yActivated "Aktiválva">
 <!ENTITY aboutSupport.a11yForceDisabled "Kisegítő lehetőségek letiltása">
 <!ENTITY aboutSupport.a11yHandlerUsed "Használt akadálymentesítés-kezelő">

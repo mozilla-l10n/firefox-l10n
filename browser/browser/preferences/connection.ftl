@@ -12,7 +12,7 @@ connection-window =
 connection-close-key =
     .key = w
 connection-disable-extension =
-    .label = Kiterjesztés letiltása
+    .label = Kiegészítő letiltása
 connection-proxy-configure = Proxy beállítása az internet eléréséhez
 connection-proxy-option-no =
     .label = Nincs proxy
@@ -70,9 +70,6 @@ connection-proxy-socks-remote-dns =
 connection-dns-over-https =
     .label = HTTPS-en keresztüli DNS engedélyezése
     .accesskey = H
-connection-dns-over-https-url = URL
-    .accesskey = U
-    .tooltiptext = URL a HTTPS-en keresztüli DNS feloldásához
 # Variables:
 #   $url (String) - URL for the DNS over HTTPS provider
 connection-dns-over-https-url-default =
