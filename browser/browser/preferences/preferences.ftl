@@ -5,7 +5,7 @@
 do-not-track-description = Send nettsider eit «Ikkje spor»-signal om at du ikkje vil bli spora
 do-not-track-learn-more = Les meir
 do-not-track-option-default-content-blocking-known =
-    .label = Berre når { -brand-short-name } er innstilt for å blokere kjende sporfølgjarar
+    .label = Berre når { -brand-short-name } er innstilt for å blokkere kjende sporfølgjarar
 do-not-track-option-always =
     .label = Alltid
 pref-page =
