@@ -138,7 +138,6 @@ search-keyword-warning-title = Kluczowé słowò ju je
 # Variables:
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = Wëbróné kluczowé słowò je ju w ùżëcym przez przezérnik "{ $name }". Wëbierzë jinszé.
-search-keyword-warning-bookmark = Wëbróné kluczowé słowò je ju w ùżëcym przez załóżkã "%S". Wëbierzë jinszé.
 
 ## Containers Section
 
