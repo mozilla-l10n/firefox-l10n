@@ -996,6 +996,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookiesView.label "Infokapsler og nettstedsdata">
 
 <!ENTITY contentBlocking.cryptominers.label "Kryptominere">
+<!ENTITY contentBlocking.cryptominersView.label "Kryptominere">
 
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Rapporter et problem">
