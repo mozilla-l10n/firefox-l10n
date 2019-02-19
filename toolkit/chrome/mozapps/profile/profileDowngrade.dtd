@@ -9,6 +9,7 @@
  Firefox" and "version" is used to mean "the specific revision number of a
  given Firefox channel". These terms are not synonymous.
 -->
+<!ENTITY window.title "Du har startet en eldre versjon av Firefox">
 <!ENTITY window.style "width: 490px;">
 
 

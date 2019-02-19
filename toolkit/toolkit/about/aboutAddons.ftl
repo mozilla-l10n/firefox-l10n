@@ -219,11 +219,30 @@ extensions-updates-update-selected =
 
 ## Extension shortcut management
 
+manage-extensions-shortcuts =
+    .label = Håndter snarveier for utvidelser
+    .accesskey = s
+shortcuts-empty-message = Det er ingen snarveier for denne utvidelsen.
+shortcuts-browserAction = Aktiver utvidelse
+shortcuts-pageAction = Aktiver sidehandling
+shortcuts-sidebarAction = Vis/skjul sidestolpe
 shortcuts-modifier-mac = Inkluder Ctrl, Alt eller ⌘
 shortcuts-modifier-other = Inkluder Ctrl eller Alt
 shortcuts-invalid = Ugyldig kombinasjon
 shortcuts-letter = Skriv en bokstav
 shortcuts-system = Kan ikke overskrive en { -brand-short-name }-snarvei
+shortcuts-card-expand-button =
+    { $numberToShow ->
+       *[other] Vis { $numberToShow } mer
+    }
 shortcuts-card-collapse-button = Vis mindre
 go-back-button =
     .tooltiptext = Gå tilbake
+
+## Add-on actions
+
+remove-addon-button = Fjern
+disable-addon-button = Deaktiver
+enable-addon-button = Aktiver
+addons-enabled-heading = Aktivert
+addons-disabled-heading = Deaktivert
