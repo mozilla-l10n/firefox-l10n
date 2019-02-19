@@ -35,5 +35,9 @@
 <!-- Strings for new Private Browsing with Search -->
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.search.placeholder): This is the placeholder
                        text for the search box.   -->
+<!ENTITY aboutPrivateBrowsing.search.placeholder         "Пошук в Інтернеті">
+<!ENTITY aboutPrivateBrowsing.info.title                 "Ви у приватному вікні">
+<!ENTITY aboutPrivateBrowsing.info.description           "&brandShortName; очищає історію перегляду й пошуку при виході з програми або закритті всіх приватних вкладок та вікон. Це не робить вас анонімними для веб-сайтів чи вашого провайдера, але дозволяє приховати вашу діяльність в Інтернеті від будь-кого іншого, хто користується цим комп'ютером.">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article
                        about private browsing myths.   -->
+<!ENTITY aboutPrivateBrowsing.info.myths                 "Поширені міфи про приватний перегляд">
