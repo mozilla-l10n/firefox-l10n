@@ -420,7 +420,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewSidebarMenu.accesskey "e">
 <!ENTITY viewCustomizeToolbar.label       "Tùy biến…">
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
-<!ENTITY overflowCustomizeToolbar.label       "Tùy biến Thanh công cụ…">
+<!ENTITY overflowCustomizeToolbar.label       "Tùy biến thanh công cụ…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "C">
 
 <!ENTITY historyMenu.label "Lịch sử">
