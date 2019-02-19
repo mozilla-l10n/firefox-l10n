@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 refresh-profile-dialog =
-    .title = &brandShorterName; bereinigen
+    .title = { -brand-shorter-name } bereinigen
 refresh-profile-dialog-button =
-    .label = &brandShorterName; bereinigen
-refresh-profile-description = Ein Neuanfang löst &brandShorterName;-Probleme und stellt die Leistung wieder her.
+    .label = { -brand-shorter-name } bereinigen
+refresh-profile-description = Ein Neuanfang löst { -brand-shorter-name }-Probleme und stellt die Leistung wieder her.
 refresh-profile-description-details = Dies wird:
 refresh-profile-remove = Ihre Add-ons und Anpassungen entfernen
 refresh-profile-restore = Die Browser-Einstellungen auf den Standard zurücksetzen
-refresh-profile = Machen Sie &brandShorterName; wieder flott.
-refresh-profile-button = &brandShorterName; bereinigen…
+refresh-profile = Machen Sie { -brand-shorter-name } wieder flott.
+refresh-profile-button = { -brand-shorter-name } bereinigen…
