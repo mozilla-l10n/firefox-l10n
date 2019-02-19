@@ -7,6 +7,7 @@
 
 onboarding-button-label-try-now = දැන් එය උත්සහ කරන්න
 onboarding-button-label-get-started = අරඹන්න
+onboarding-welcome-header = { -brand-short-name } වෙත සාදරයෙන් පිළිගනිමු
 onboarding-start-browsing-button-label = ගවේෂණය අරඹන්න
 
 ## These strings belong to the individual onboarding messages.
