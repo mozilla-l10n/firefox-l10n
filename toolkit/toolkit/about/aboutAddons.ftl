@@ -225,6 +225,7 @@ manage-extensions-shortcuts =
     .accesskey = E
 shortcuts-empty-message = Bu eklentiye ait kısayol yok.
 shortcuts-no-addons = Herhangi bir eklentiyi etkinleştirmediniz.
+shortcuts-no-commands = Aşağıdaki eklentilerin kısayolları yok:
 shortcuts-input =
     .placeholder = Bir kısayol girin
 shortcuts-browserAction = Eklentiyi etkinleştir
@@ -243,3 +244,11 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = Daha az göster
 go-back-button =
     .tooltiptext = Geri dön
+
+## Add-on actions
+
+remove-addon-button = Kaldır
+disable-addon-button = Etkisizleştir
+enable-addon-button = Etkinleştir
+addons-enabled-heading = Etkin
+addons-disabled-heading = Devre dışı
