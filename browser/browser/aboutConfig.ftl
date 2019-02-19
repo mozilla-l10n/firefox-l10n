@@ -10,8 +10,9 @@ about-config-warning-button = Accetto i rischi
 
 about-config-title = about:config
 
-about-config-search =
-    .placeholder = Cerca o premi ESC per visualizzare l’elenco completo
+about-config-search-input =
+    .placeholder = Cerca
+about-config-show-all = Visualizza tutto
 
 about-config-pref-add = Aggiungi
 about-config-pref-toggle = Cambia
