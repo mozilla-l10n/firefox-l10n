@@ -88,6 +88,12 @@ detail-update-automatic =
 detail-update-manual =
     .label = Desactivar
     .tooltiptext = No instalar actualizaciones automáticamente
+detail-private-browsing-on =
+    .label = Permitir
+    .tooltiptext = Activar en navegación privada
+detail-private-browsing-off =
+    .label = No permitir
+    .tooltiptext = Deshabilitar en navegación privada
 detail-home =
     .label = Página de inicio
 detail-home-value =
@@ -211,3 +217,6 @@ extensions-updates-update-selected =
 ## Extension shortcut management
 
 shortcuts-browserAction = Activar extensión
+
+## Add-on actions
+

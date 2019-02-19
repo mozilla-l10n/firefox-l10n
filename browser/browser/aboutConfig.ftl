@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+about-config-warning-button = Acepto el riesgo
 about-config-title = about:config
 about-config-search =
     .placeholder = Buscar o presionar ESC para mostrar todo
