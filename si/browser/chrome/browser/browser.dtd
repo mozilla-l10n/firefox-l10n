@@ -601,6 +601,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
+<!ENTITY saveToPocketCmd.accesskey    "k">
+<!ENTITY saveLinkToPocketCmd.accesskey "o">
 
 <!ENTITY emailPageCmd.label           "විද්‍යුත් තැපැල් සබැඳිය">
 <!ENTITY emailPageCmd.accesskey       "E">
@@ -793,6 +795,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This is the header of the security subview in the Site Identity panel. -->
 <!ENTITY identity.securityView.label "අඩවි ආරක්ෂාව">
 
+<!ENTITY identity.connection "සබඳතාවය">
 <!ENTITY identity.connectionSecure "ආරක්ෂිත සබධතාවය">
 <!ENTITY identity.connectionNotSecure "සබධතාවය අනාරක්ෂිතයි">
 <!ENTITY identity.connectionFile "මෙම පිටුව ඔබේ පරිගණකයේ ගබඩා කර ඇත.">
@@ -943,7 +946,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+<!ENTITY contentBlocking.openBreakageReportView2.label "ගැටලුවක් වාර්තා කරන්න">
+<!ENTITY contentBlocking.breakageReportView.label "ගැටලු වාර්තා කරන්න">
+<!ENTITY contentBlocking.breakageReportView.learnMore "තවත් දැනගන්න">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
+<!ENTITY contentBlocking.breakageReportView.collection.comments.label "ඔබට ඇති වූ ගැටළු මොනවාද? (වෛකල්පිත)">
+<!ENTITY contentBlocking.breakageReportView.sendReport.label "වාර්තාව යවන්න">
+<!ENTITY contentBlocking.breakageReportView.cancel.label "අවලංගු කරන්න">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
@@ -1026,13 +1035,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.header.message "ඔබේ නව ටැබය වෙනස් වී ඇත.">
 <!ENTITY newTabControlled.keepButton.label "වෙනස්කම් තබාගන්න">
 <!ENTITY newTabControlled.keepButton.accesskey "K">
+<!ENTITY newTabControlled.disableButton.label "දිගුව ක්‍රියා විරහිත කරන්න">
 <!ENTITY newTabControlled.disableButton.accesskey "D">
 
 <!ENTITY homepageControlled.message "දිගුවක් විසින් ඔබ නිවෙස් පිටුවේ දැක්වෙන ආකාරය වෙනස් කර ඇත. මෙම වෙනස අවශ්‍ය නොවේ නම් ඔබට මෙය යලි පිහිටුවිය හැක.">
+<!ENTITY homepageControlled.header.message "ඔබගේ නිවෙස් පිටුව වෙනස් වී ඇත.">
+<!ENTITY homepageControlled.keepButton.label "වෙනස්කම් තබාගන්න">
 <!ENTITY homepageControlled.keepButton.accesskey "K">
+<!ENTITY homepageControlled.disableButton.label "දිගුව ක්‍රියා විරහිත කරන්න">
 <!ENTITY homepageControlled.disableButton.accesskey "D">
 
+<!ENTITY tabHideControlled.header.message "ඔබගේ සැඟවුණු ටැබ් ප්‍රවේශ කරන්න">
+<!ENTITY tabHideControlled.keepButton.label "ටැබ් සඟවා තබන්න">
 <!ENTITY tabHideControlled.keepButton.accesskey "K">
+<!ENTITY tabHideControlled.disableButton.label "දිගුව ක්‍රියා විරහිත කරන්න">
 <!ENTITY tabHideControlled.disableButton.accesskey "D">
 
 <!ENTITY pageActionButton.tooltip "පිටු ක්‍රියාවන්">
@@ -1042,6 +1058,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sendToDevice.syncNotReady.label "උපාංග සමමුහුර්ත කරමින්…">
 
+<!ENTITY pageAction.shareUrl.label "බෙදාගන්න">
+<!ENTITY pageAction.shareMore.label "තවත්…">
 
 <!ENTITY libraryButton.tooltip "ඉතිහාසය, සුරැකි පිටු සලකුණු හා තවත් දෑ බලන්න">
 
@@ -1056,4 +1074,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "O">
+<!ENTITY addonPrivateBrowsing.manageButton.label "දිගු පාලනය කරන්න">
 <!ENTITY addonPrivateBrowsing.manageButton.accesskey "M">
