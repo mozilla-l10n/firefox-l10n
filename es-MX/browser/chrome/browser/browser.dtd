@@ -1132,4 +1132,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addonPostInstallMessage.label "Administra tus complementos haciendo clic <image class='addon-addon-icon'/> en el <image class='addon-toolbar-icon'/> menú.">
 
 <!ENTITY addonPrivateBrowsing.okButton.label "Listo, entendido">
+<!ENTITY addonPrivateBrowsing.okButton.accesskey "O">
 <!ENTITY addonPrivateBrowsing.manageButton.label "Administrar extensiones">
