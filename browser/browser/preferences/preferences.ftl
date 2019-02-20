@@ -579,11 +579,11 @@ history-private-browsing-permanent =
     .label = Zawsze aktywny tryb przeglądania prywatnego
     .accesskey = t
 history-remember-browser-option =
-    .label = Historia przeglądania i pobierania plików
-    .accesskey = H
+    .label = Zachowywanie historii przeglądania i pobierania plików
+    .accesskey = h
 history-remember-search-option =
-    .label = Historia pola wyszukiwania i formularzy
-    .accesskey = H
+    .label = Zachowywanie historii pola wyszukiwania i formularzy
+    .accesskey = o
 history-clear-on-close-option =
     .label = Czyszczenie historii podczas zamykania programu
     .accesskey = z
@@ -693,8 +693,8 @@ content-blocking-cookies-label =
     .accesskey = c
 # Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
 content-blocking-cryptominers-label =
-    .label = Elementy używające komputera użytkownika do generowania kryptowalut
-    .accesskey = E
+    .label = elementy używające komputera użytkownika do generowania kryptowalut
+    .accesskey = e
 # Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
 # that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
 content-blocking-fingerprinters-label =
