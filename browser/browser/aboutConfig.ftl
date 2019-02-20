@@ -4,6 +4,10 @@
 
 about-config-warning-button = Я прымаю рызыку
 about-config-title = about:config
+about-config-pref-add = Дадаць
+
+## Labels for the type selection radio buttons shown when adding preferences.
+
 
 ## Preferences with a non-default value are differentiated visually, and at the
 ## same time the state is made accessible to screen readers using an aria-label
