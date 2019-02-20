@@ -40,7 +40,6 @@
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "Н">
 <!ENTITY runtimeMenu_showSettings_label "Параметри пристрою">
 <!ENTITY runtimeMenu_showSettings_accesskey "п">
-
 <!ENTITY runtimeMenu_showPerformancePanel_label "Швидкодія">
 <!ENTITY runtimeMenu_showPerformancePanel_accesskey "в">
 
@@ -77,8 +76,7 @@
 <!ENTITY runtimePanel_usb "Пристрої USB">
 <!ENTITY runtimePanel_wifi "Пристрої Wi-Fi">
 <!ENTITY runtimePanel_other "Інше">
-<!ENTITY runtimePanel_noadbhelper "Встановити помічник ADB">
-<!ENTITY runtimePanel_nousbdevice "Не можете побачити свій пристрій?">
+<!ENTITY runtimePanel_nousbdevice "Не бачите свій пристрій?">
 <!ENTITY runtimePanel_refreshDevices_label "Оновити список пристроїв">
 
 <!-- Lense -->
@@ -120,12 +118,6 @@
 
 <!-- Runtime Details -->
 <!ENTITY runtimedetails_title "Інформація Runtime">
-<!ENTITY runtimedetails_adbIsRoot "ADB є коренем: ">
-<!ENTITY runtimedetails_summonADBRoot "кореневий пристрій">
-<!ENTITY runtimedetails_ADBRootWarning "(потребує розблокованого завантажувача)">
-<!ENTITY runtimedetails_unrestrictedPrivileges "Необмежені права DevTools: ">
-<!ENTITY runtimedetails_requestPrivileges "запитувати вищі права">
-<!ENTITY runtimedetails_privilegesWarning "(Перезавантажить пристрій. Потребує доступу root.)">
 
 <!-- Device Preferences and Settings -->
 <!ENTITY device_typeboolean "Логічне">
