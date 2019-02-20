@@ -242,6 +242,8 @@ sandbox-proc-type-content = innhald
 sandbox-proc-type-file = filinnhald
 sandbox-proc-type-media-plugin = programtillegg for media
 launcher-process-status-0 = Påslått
+launcher-process-status-1 = Deaktivert på grunn av feil
+launcher-process-status-2 = Tvungen deaktivering
 launcher-process-status-unknown = Ukjend status
 # Variables
 # $remoteWindows (integer) - Number of remote windows
