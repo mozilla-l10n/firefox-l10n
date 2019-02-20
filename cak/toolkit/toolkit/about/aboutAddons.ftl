@@ -229,6 +229,7 @@ manage-extensions-shortcuts =
     .accesskey = i
 shortcuts-empty-message = Majun ruchojokem re k'amal re'.
 shortcuts-no-addons = Majun ak'amal atzijon.
+shortcuts-no-commands = Re taq k'amal re' majun ruq'a' rokem pitz'b'äl:
 shortcuts-input =
     .placeholder = Tatz'ib'aj jun chojokem
 shortcuts-browserAction = Titzij k'amal
@@ -247,3 +248,11 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = Tik'ut pe Jub'a'
 go-back-button =
     .tooltiptext = Titzolin
+
+## Add-on actions
+
+remove-addon-button = Tiyuj
+disable-addon-button = Tichup
+enable-addon-button = Titzij
+addons-enabled-heading = Tzijon
+addons-disabled-heading = Chupun
