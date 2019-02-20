@@ -1,100 +1,13 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!ENTITY addons.windowTitle                   "Utvidelser">
-
-<!ENTITY search.placeholder2                  "Søk på addons.mozilla.org">
-
-<!ENTITY search.placeholder3                  "Søk på addons.mozilla.org">
-<!ENTITY search.buttonlabel                   "Søk">
-<!-- LOCALIZATION NOTE (search.commandkey):
-     The search command key should match findOnCmd.commandkey from browser.dtd -->
-<!ENTITY search.commandkey                    "f">
-
-<!ENTITY loading.label                        "Laster …">
-<!ENTITY listEmpty.installed.label            "Du har ikke installert noen utvidelser av denne typen">
-<!ENTITY listEmpty.availableUpdates.label     "Ingen oppdateringer funnet">
-<!ENTITY listEmpty.recentUpdates.label        "Du har ikke nylig oppdatert noen utvidelser">
-<!ENTITY listEmpty.findUpdates.label          "Søk etter oppdateringer">
-<!ENTITY listEmpty.button.label               "Les mer om utvidelser">
-<!ENTITY installAddonFromFile.label           "Installer utvidelse fra fil …">
-<!ENTITY installAddonFromFile.accesskey       "I">
-<!ENTITY toolsMenu.tooltip                    "Verktøy for alle utvidelser">
-
-<!ENTITY getThemes.description                "Ønsker du å tilpasse nettleseren din?">
-<!ENTITY getThemes.learnMore                  "Velg blant tusenvis av temaer.">
-
-
-<!ENTITY showUnsignedExtensions.button.label  "Noen utvidelser kunne ikke bli kontrollert">
-<!ENTITY showAllExtensions.button.label       "Vis alle utvidelser">
-<!ENTITY debugAddons.label                    "Debug-utvidelser">
-<!ENTITY debugAddons.accesskey                "D">
-
-<!-- global warnings -->
-<!ENTITY warning.safemode.label                    "Alle utvidelser er avslått av sikker modus.">
-<!ENTITY warning.checkcompatibility.label          "Kompatibilitetskontroll er avslått. Du har kanskje ukompatible utvidelser.">
-<!ENTITY warning.checkcompatibility.enable.label   "Slå på">
-<!ENTITY warning.checkcompatibility.enable.tooltip "Slå på kompatibilitetskontroll">
-<!ENTITY warning.updatesecurity.label              "Sikkerhetskontroll av utvidelsesoppdateringer er avslått. Sikkerheten din kan bli satt i fare av oppdateringer.">
-<!ENTITY warning.updatesecurity.enable.label       "Slå på">
-<!ENTITY warning.updatesecurity.enable.tooltip     "Slå på sikkerhetskontroll av utvidelsesoppdateringer">
-
-<!-- categories / views -->
-<!ENTITY view.discover.label                  "Last ned utvidelser">
-<!ENTITY view.recentUpdates.label             "Nylig oppdatert">
-<!ENTITY view.availableUpdates.label          "Tilgjengelige oppdateringer">
-
-<!ENTITY helpButton.label                      "Brukerstøtte for utvidelser">
-<!ENTITY preferencesWin.label                  "&amp;brandShortName;-innstillinger">
-<!ENTITY preferencesUnix.label                 "&amp;brandShortName;-innstillinger">
-
-<!-- addon updates -->
-<!ENTITY updates.checkForUpdates.label        "Søk etter oppdateringer nå">
-<!ENTITY updates.checkForUpdates.accesskey    "S">
-<!ENTITY updates.viewUpdates.label            "Vis nylig oppdaterte">
-<!ENTITY updates.viewUpdates.accesskey        "V">
-<!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
-     is a checkbox that toggles the default global behavior for add-on update
-     checking. -->
-<!ENTITY updates.updateAddonsAutomatically.label     "Oppdater utvidelser automatisk">
-<!ENTITY updates.updateAddonsAutomatically.accesskey "O">
-<!-- LOCALIZATION NOTE (updates.resetUpdatesToAutomatic.label, updates.resetUpdatesToManual.label):
-     Specific addons can have custom update checking behaviors ("Manually",
-     "Automatically", "Use default global behavior"). These menu items reset the
-     update checking behavior for all add-ons to the default global behavior
-     (which itself is either "Automatically" or "Manually", controlled by the
-     updates.updateAddonsAutomatically.label menu item). -->
-<!ENTITY updates.resetUpdatesToAutomatic.label       "Tilbakestill alle utvidelser til å oppdatere automatisk">
-<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "T">
-<!ENTITY updates.resetUpdatesToManual.label          "Tilbakestill alle utvidelser til å oppdatere manuelt">
-<!ENTITY updates.resetUpdatesToManual.accesskey      "T">
-<!ENTITY updates.updating.label               "Oppdaterer utvidelser">
-<!ENTITY updates.installed.label              "Utvidelsene er oppdatert.">
-<!ENTITY updates.downloaded.label             "Oppdateringer til utvidelsene er lastet ned.">
-<!ENTITY updates.restart.label                "Start på nytt nå for å fullføre installeringen">
-<!ENTITY updates.noneFound.label              "Fant ingen oppdateringer">
-<!ENTITY updates.manualUpdatesFound.label     "Vis tilgjengelige oppdateringer">
-<!ENTITY updates.updateSelected.label         "Installer oppdateringer">
-<!ENTITY updates.updateSelected.tooltip       "Installer tilgjengelige oppdateringer i denne listen">
 
 <!-- addon actions -->
-<!ENTITY cmd.showDetails.label                "Vis detaljer">
-<!ENTITY cmd.showDetails.accesskey            "V">
-<!ENTITY cmd.findUpdates.label                "Søk etter oppdateringer">
-<!ENTITY cmd.findUpdates.accesskey            "S">
-<!ENTITY cmd.preferencesWin.label             "Innstillinger">
-<!ENTITY cmd.preferencesWin.accesskey         "I">
-<!ENTITY cmd.preferencesUnix.label            "Innstillinger">
-<!ENTITY cmd.preferencesUnix.accesskey        "I">
-
 <!ENTITY cmd.enableAddon.label                "Slå på">
 <!ENTITY cmd.enableAddon.accesskey            "S">
 <!ENTITY cmd.disableAddon.label               "Slå av">
 <!ENTITY cmd.disableAddon.accesskey           "a">
-<!ENTITY cmd.enableTheme.label                "Bruk tema">
-<!ENTITY cmd.enableTheme.accesskey            "B">
-<!ENTITY cmd.disableTheme.label               "Slutt å bruke tema">
-<!ENTITY cmd.disableTheme.accesskey           "b">
+
 <!ENTITY cmd.askToActivate.label              "Spør for å aktivere">
 <!ENTITY cmd.askToActivate.tooltip            "Spør hver gang for å bruke denne utvidelsen">
 <!ENTITY cmd.alwaysActivate.label             "Alltid aktiver">
@@ -102,17 +15,13 @@
 <!ENTITY cmd.neverActivate.label              "Aldri aktiver">
 <!ENTITY cmd.neverActivate.tooltip            "Aldri bruk denne utvidelsen">
 <!ENTITY cmd.stateMenu.tooltip                "Endre når utvidelsen kjører">
-<!ENTITY cmd.installAddon.label               "Installer">
-<!ENTITY cmd.installAddon.accesskey           "I">
+
 <!ENTITY cmd.uninstallAddon.label             "Slett">
 <!ENTITY cmd.uninstallAddon.accesskey         "e">
 <!ENTITY cmd.showPreferencesWin.label         "Innstillinger">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Endre denne utvidelsens innstillinger">
 <!ENTITY cmd.showPreferencesUnix.label        "Innstillinger">
 <!ENTITY cmd.showPreferencesUnix.tooltip      "Endre denne utvidelsens innstillinger">
-<!ENTITY cmd.contribute.label                 "Bidra">
-<!ENTITY cmd.contribute.accesskey             "B">
-<!ENTITY cmd.contribute.tooltip               "Bidra til utviklingen av denne utvidelsen">
 
 <!ENTITY cmd.showReleaseNotes.label           "Vis versjonsnotat">
 <!ENTITY cmd.showReleaseNotes.tooltip         "Vis versjonsnotatet for denne oppdateringen">
@@ -120,51 +29,9 @@
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Skjuler versjonsnotatet for denne versjonen">
 <!ENTITY cmd.findReplacement.label            "Finn en erstatning">
 
-<!-- discovery view -->
-<!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
-     Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
-<!ENTITY discover.title                       "Hva er utvidelser?">
-<!ENTITY discover.description2                "Utvidelser er programmer som lar deg tilpasse &brandShortName; med ekstra funksjonalitet eller annen stil. Prøv en sidestolpe som sparer deg tid, værvarsling, eller et tema som får &brandShortName; til å se ut akkurat som din.">
-<!ENTITY discover.footer                      "Når du er koblet til nettet vil dette vinduet inneholde noen av de beste og mest populære utvidelsene som du kan prøve ut.">
-
-<!-- detail view -->
-<!ENTITY detail.version.label                 "Versjon">
-<!ENTITY detail.lastupdated.label             "Sist oppdatert">
-<!ENTITY detail.creator.label                 "Utvikler">
-<!ENTITY detail.homepage.label                "Hjemmeside">
-
-<!ENTITY detail.contributions.description     "Utvikleren av denne utvidelsen ber om at du hjelper å støtte videre utvikling ved å gjøre en liten donasjon.">
-
-<!ENTITY detail.updateType                    "Automatiske oppdateringer">
-<!ENTITY detail.updateDefault.label           "Standard">
-<!ENTITY detail.updateDefault.tooltip         "Installer oppdateringer automatisk bare hvis det er standard oppførsel">
-<!ENTITY detail.updateAutomatic.label         "På">
-<!ENTITY detail.updateAutomatic.tooltip       "Automatisk installer utvidelser">
-<!ENTITY detail.updateManual.label            "Av">
-<!ENTITY detail.updateManual.tooltip          "Ikke automatisk installer oppdateringer">
-<!ENTITY detail.home                          "Hjemmeside">
-<!ENTITY detail.repository                    "Utvidelsesprofil">
-<!ENTITY detail.size                          "Størrelse">
-
-<!ENTITY detail.checkForUpdates.label         "Søk etter oppdateringer">
-<!ENTITY detail.checkForUpdates.accesskey     "S">
-<!ENTITY detail.checkForUpdates.tooltip       "Søker etter oppdateringer til denne utvidelsen">
-<!ENTITY detail.showPreferencesWin.label      "Innstillinger">
-<!ENTITY detail.showPreferencesWin.accesskey  "I">
-<!ENTITY detail.showPreferencesWin.tooltip    "Endre denne utvidelsens innstillinger">
-<!ENTITY detail.showPreferencesUnix.label     "Innstillinger">
-<!ENTITY detail.showPreferencesUnix.accesskey "I">
-<!ENTITY detail.showPreferencesUnix.tooltip   "Endre denne utvidelsens innstillinger">
-
-
-<!-- ratings -->
-<!ENTITY rating2.label                        "Vurdering">
-
 <!-- download/install progress -->
-<!ENTITY progress.pause.tooltip               "Pause">
 <!ENTITY progress.cancel.tooltip              "Avbryt">
 
-<!ENTITY addon.homepage                       "Hjemmeside">
 <!ENTITY addon.details.label                  "Mer">
 <!ENTITY addon.details.tooltip                "Vis mer informasjon om denne utvidelsen">
 <!ENTITY addon.unknownDate                    "Ukjent">
@@ -172,6 +39,7 @@
      to the add-on name for extensions that are not webextensions, which
      will stop working in Firefox 57. -->
 <!ENTITY addon.legacy.label                   "FORELDET">
+<!ENTITY addon.privateBrowsing.label          "TILLATT I PRIVATE VINDU">
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
      "<Addon name> <1.0> (disabled)" -->
@@ -185,7 +53,7 @@
 <!ENTITY addon.undoAction.tooltip             "Angre denne handlingen">
 <!ENTITY addon.undoRemove.label               "Angre">
 <!ENTITY addon.undoRemove.tooltip             "Behold denne utvidelsen installert">
-<!ENTITY addon.restartNow.label               "Start på nytt nå">
+
 <!ENTITY addon.install.label                  "Installer">
 <!ENTITY addon.install.tooltip                "Installer denne utvidelsen">
 <!ENTITY addon.updateNow.label                "Oppdater nå">
@@ -199,34 +67,5 @@
 
 <!ENTITY addon.createdBy.label                "Av ">
 
-<!ENTITY eula.title                           "Sluttbrukeravtale">
-<!ENTITY eula.width                           "560px">
-<!ENTITY eula.height                          "400px">
-<!ENTITY eula.accept                          "Godta og installer …">
-
 <!ENTITY settings.path.button.label           "Bla gjennom …">
-
 <!ENTITY setting.learnmore "Les mer …">
-
-<!ENTITY disabledUnsigned.heading "Noen utvidelser har blitt avslått">
-<!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
-     These entities form a sentence, with
-     disabledUnsigned.description.findAddonsLink being a link to an external site. -->
-<!ENTITY disabledUnsigned.description.start "Disse utvidelsene har ikke blitt kontrollert for bruk i &brandShortName;. Du kan ">
-<!ENTITY disabledUnsigned.description.findAddonsLink "finne erstatninger">
-<!ENTITY disabledUnsigned.description.end " eller spørre utvikleren om å få de bekreftet.">
-<!ENTITY disabledUnsigned.learnMore "Les mer om våre tiltak for å holde deg trygg på nettet.">
-<!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
-     These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
-     being a link to an external site. -->
-<!ENTITY disabledUnsigned.devInfo.start "Utviklere som er interessert i å få sine utvidelser bekreftet kan fortsette ved å lese vår ">
-<!ENTITY disabledUnsigned.devInfo.linkToManual "manual">
-<!ENTITY disabledUnsigned.devInfo.end ".">
-
-<!ENTITY pluginDeprecation.description "Savner du noe? Noen programtillegg støttes ikke lenger av &brandShortName;.">
-<!ENTITY pluginDeprecation.learnMore "Les mer">
-
-<!ENTITY legacyWarning.showLegacy "Vis foreldete utvidelser">
-<!ENTITY legacyExtensions.title "Foreldete utvidelser">
-<!ENTITY legacyExtensions.description "Disse utvidelsene oppfyller ikke gjeldende standarder i &brandShortName; og er derfor slått av.">
-<!ENTITY legacyExtensions.learnMore "Les mer om endringer av utvidelser">
