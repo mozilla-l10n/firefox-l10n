@@ -25,3 +25,4 @@ sync-input =
 sync-button = Продовжити
 sync-terms = Продовжуючи, ви погоджуєтеся з <a data-l10n-name="terms">Умовами користування</a> і <a data-l10n-name="privacy">Політикою приватності</a>.
 sync-first = Вперше використовуєте { -sync-brand-name(case: "acc") }? Вам необхідно виконати вхід в кожному встановленні Firefox для синхронізації даних.
+sync-learn = Докладніше
