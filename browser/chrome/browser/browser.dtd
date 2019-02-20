@@ -996,6 +996,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Çərəzlər">
 <!ENTITY contentBlocking.cookiesView.label "Çərəzlər və Sayt Məlumatları">
 
+<!ENTITY contentBlocking.cryptominers.label "Kriptomaynerlər">
+<!ENTITY contentBlocking.cryptominersView.label "Kriptomaynerlər">
+
+<!ENTITY contentBlocking.fingerprinters.label "Barmaq izi toplayıcıları">
+<!ENTITY contentBlocking.fingerprintersView.label "Barmaq izi toplayıcıları">
+
 <!ENTITY contentBlocking.openBreakageReportView2.label "Problem bildir">
 <!ENTITY contentBlocking.breakageReportView.label "Problemləri Bildir">
 <!ENTITY contentBlocking.breakageReportView2.description "Məzmun əngəlləmə bəzi saytlarda problemlərə səbəb ola bilər. Problemləri xəbər etdiyinizdə &brandShortName; səyyahını hamı üçün yaxşılaşdırmağımıza kömək etmiş olursunuz. (Bu ünvanı və səyyahınızın tənzimləmələri ilə əlaqədar məlumatları Mozillaya göndərəcək.)">
@@ -1128,6 +1134,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Əlavələrinizi <image class='addon-toolbar-icon'/> menyusundan <image class='addon-addon-icon'/> klikləyərək idarə edin.">
 
+<!ENTITY addonPrivateBrowsing.header.label "Məxfi Pəncərələrdəki Uzantılar">
+<!ENTITY addonPrivateBrowsing.body.label "Uzantılar varsayılan olaraq Məxfi Pəncərələrdə işləyə bilməzlər. Bu uzantılar məxfi səyahət vaxtı işləməyəcəklər və onlayn aktivliyinizi görə bilməyəcəklər. Tənzimləmələrinizdən hansı uzantıların Məxfi Pəncərələrdə işləyə biləcəyinizi seçə bilərsiz.">
 <!ENTITY addonPrivateBrowsing.okButton.label "Tamam, başa düşdüm">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "O">
 <!ENTITY addonPrivateBrowsing.manageButton.label "Uzantıları idarə et">
