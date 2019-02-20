@@ -12,6 +12,7 @@ url-classifier-search-error-invalid-url = URL grammo
 url-classifier-search-error-no-features = Nisciunn-a fonçion seleçionâ
 url-classifier-search-btn = Iniçia a riçerca
 url-classifier-search-features = Carateristiche
+url-classifier-search-listType = Lista di tipi
 url-classifier-provider-title = Fornitô
 url-classifier-provider = Fornitô
 url-classifier-provider-last-update-time = Data urtimo agiornamento

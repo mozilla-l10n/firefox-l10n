@@ -7,9 +7,14 @@ about-performance-title = Gestion ativitæ
 
 ## Column headers
 
+column-name = Nomme
+column-type = Tipo
+column-energy-impact = Inpatto energetico
+column-memory = Memöia
 
 ## Special values for the Name column
 
+ghost-windows = Feuggi seræ urtimamente
 # Variables:
 #   $title (String) - the title of the preloaded page, typically 'New Tab'
 preloaded-tab = Precaregou: { $title }
@@ -47,3 +52,5 @@ size-GB = { $value } GB
 
 close-tab =
     .title = Særa feuggio
+show-addon =
+    .title = Mostra in gestion di conponenti azonti
