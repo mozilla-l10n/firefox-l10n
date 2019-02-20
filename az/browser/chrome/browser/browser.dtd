@@ -1135,7 +1135,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addonPostInstallMessage.label "Əlavələrinizi <image class='addon-toolbar-icon'/> menyusundan <image class='addon-addon-icon'/> klikləyərək idarə edin.">
 
 <!ENTITY addonPrivateBrowsing.header.label "Məxfi Pəncərələrdəki Uzantılar">
-<!ENTITY addonPrivateBrowsing.body.label "Uzantılar varsayılan olaraq Məxfi Pəncərələrdə işləyə bilməzlər. Bu uzantılar məxfi səyahət vaxtı işləməyəcəklər və onlayn aktivliyinizi görə bilməyəcəklər. Tənzimləmələrinizdən hansı uzantıların Məxfi Pəncərələrdə işləyə biləcəyinizi seçə bilərsiz.">
+<!ENTITY addonPrivateBrowsing.body.label "Uzantılar standart olaraq Məxfi Pəncərələrdə işləyə bilməzlər. Bu uzantılar məxfi səyahət vaxtı işləməyəcəklər və onlayn aktivliyinizi görə bilməyəcəklər. Tənzimləmələrinizdən hansı uzantıların Məxfi Pəncərələrdə işləyə biləcəyinizi seçə bilərsiz.">
 <!ENTITY addonPrivateBrowsing.okButton.label "Tamam, başa düşdüm">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "O">
 <!ENTITY addonPrivateBrowsing.manageButton.label "Uzantıları idarə et">
