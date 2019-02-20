@@ -673,7 +673,7 @@ content-blocking-setting-custom =
 content-blocking-standard-description = Blokuje sledovací prvky jen v anonymních oknech.
 content-blocking-standard-desc = Vyvážená úroveň ochrany. Povoluje některé sledovací prvky, aby stránky fungovaly správně.
 content-blocking-strict-desc = Blokuje všechny sledovací prvky, které { -brand-short-name } najde. Může omezit fungování některých stránek.
-content-blocking-custom-desc = Sami vyberte, co chcete blokovat.
+content-blocking-custom-desc = Sami vyberte, co a kde chcete blokovat.
 content-blocking-private-trackers = Sledovací prvky blokovány v anonymních oknech
 content-blocking-third-party-cookies = Sledovací cookies třetích stran blokovány vždy
 content-blocking-all-windows-trackers = Sledovací prvky blokovány vždy
@@ -683,8 +683,8 @@ content-blocking-warning-desc = Blokování cookies a sledovacích prvků může
 content-blocking-warning-description = Blokování obsahu může omezit fungování některých stránek. Pro stránky, kterým důvěřujete, ho můžete snadno vypnout.
 content-blocking-learn-how = Jak na to?
 content-blocking-trackers-label =
-    .label = Blokovat sledovací prvky
-    .accesskey = s
+    .label = Sledovací prvky
+    .accesskey = S
 content-blocking-tracking-protection-option-all-windows =
     .label = ve všech oknech
     .accesskey = v
@@ -693,16 +693,16 @@ content-blocking-option-private =
     .accesskey = a
 content-blocking-tracking-protection-change-block-list = Změnit úroveň blokování
 content-blocking-cookies-label =
-    .label = Blokovat cookies
-    .accesskey = c
+    .label = Cookies
+    .accesskey = C
 # Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
 content-blocking-cryptominers-label =
-    .label = Blokovat těžbu kryptoměn
+    .label = Těžbu kryptoměn
     .accesskey = y
 # Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
 # that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
 content-blocking-fingerprinters-label =
-    .label = Blokovat vytváření otisku prohlížeče
+    .label = Vytváření otisku prohlížeče
     .accesskey = s
 
 ## Privacy Section - Tracking
