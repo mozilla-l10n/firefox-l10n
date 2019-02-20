@@ -215,6 +215,7 @@ extensions-updates-update-selected =
 
 ## Extension shortcut management
 
+shortcuts-sidebarAction = Ativa/dizativa bara de scianco
 shortcuts-modifier-mac = Includde Ctrl, Alt, ò ⌘
 shortcuts-modifier-other = Includde Ctrl ò Alt
 shortcuts-invalid = Conbinaçion no bonn-a

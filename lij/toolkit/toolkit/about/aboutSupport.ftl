@@ -234,6 +234,7 @@ effective-content-sandbox-level = Contegnuo efetivo do Livello Sandox de process
 sandbox-proc-type-content = contegnuo
 sandbox-proc-type-file = contegnuo do file
 sandbox-proc-type-media-plugin = plugin do media
+launcher-process-status-unknown = Stato no conosciuo
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
