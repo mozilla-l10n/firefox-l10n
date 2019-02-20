@@ -16,7 +16,7 @@
 
 <!ENTITY keepHistory.label "Zapomni si spletna mesta in povezave, ki sem jih obiskal">
 <!ENTITY keepHistory.accesskey "Z">
-<!ENTITY acceptCookies.label "Dovoli stranem, da shranjujejo piškotke.">
+<!ENTITY acceptCookies.label "Dovoli stranem, da shranjujejo piškotke">
 <!ENTITY acceptCookies.accesskey "s">
 <!ENTITY acceptThirdParty.pre.label "Sprejemaj piškotke tretjih strani:">
 <!ENTITY acceptThirdParty.pre.accesskey "š">
