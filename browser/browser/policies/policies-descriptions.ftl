@@ -17,7 +17,6 @@ policy-BlockAboutConfig = about:config səhifəsinə girişi əngəllə.
 policy-BlockAboutProfiles = about:profiles səhifəsinə girişi əngəllə.
 policy-BlockAboutSupport = about:support səhifəsinə girişi əngəllə.
 policy-Bookmarks = Əlfəcinləri Əlfəcinlər alət sətrində, Əlfəcinlər menyusunda və ya bunların içindəki qovluqlarda yarada bilərsiz.
-policy-Certificates = Daxili sertifikatların işlədib-işlədilməməsi. Bu siyasət hələlik ancaq Windows üçündür.
 policy-CertificatesDescription = Sertifikat əlavə et və ya daxili sertifikatları idarə et.
 policy-Cookies = Saytların çərəz qurmalarını qəbul və ya rədd et.
 policy-DisableAppUpdate = Səyyahın yenilənməsinin qarşısını al.
@@ -37,7 +36,6 @@ policy-DisableProfileImport = Digər səyyahdan məlumat idxal etmək üçün me
 policy-DisableProfileRefresh = { -brand-short-name } Yenilə düyməsini about:support səhifəsindən söndür.
 policy-DisableSafeMode = Təhlükəsiz Rejimdə yenidən başlatmaq üçün özəlliyi söndür. Qeyd: Təhlükəsiz Rejimə girmək üçün Shift düyməsi Windows-da ancaq Grup Siyasəti ilə söndürülə bilər.
 policy-DisableSecurityBypass = İstifadəçinin bəzi təhlükəsizlik xəbərdarlıqlarını keçməsini əngəllə.
-policy-DisableSetDesktopBackground = Şəkli Masaüstü Şəkli olaraq qurma menyu əmrini söndür.
 policy-DisableSetAsDesktopBackground = Şəkillər üçün Masaüstü Şəkli olaraq qur menyu əmrini söndür.
 policy-DisableSystemAddonUpdate = Səyyahın sistem əlavəsi qurmasını və yeniləməsini əngəllə.
 policy-DisableTelemetry = Telemetriyanı söndür.
@@ -49,8 +47,7 @@ policy-DontCheckDefaultBrowser = Başlanğıcda əsas səyyah üçün yoxlanış
 policy-EnableTrackingProtection = Məzmun Əngəlləməni aktiv et və ya söndür və kilitlə.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
-# English or translate them as verbs. See also:
-# https://github.com/mozilla/policy-templates/blob/master/README.md#extensions-machine-only
+# English or translate them as verbs.
 policy-Extensions = Uzantıları qur, sil və ya kilitlə. Qurma seçimi Ünvan və ya fayl yolu parametrlərini alır. Silmə və Kilitləmə seçimləri uzantı ID-lərini alır.
 policy-FlashPlugin = Flash qoşmasının istifadəsinə icazə ver və ya əngəllə.
 policy-HardwareAcceleration = Əgər false-dursa, avadanlıq sürətləndirməsini söndür.
@@ -70,6 +67,7 @@ policy-SearchBar = İlkin hal olaraq axtarış sətrinin yerini seç. İstifadə
 policy-SearchEngines = Axtarış mühərriyi tənzimləmələrini konfiqurasiya et. Bu siyasət ancaq Uzadılmış Dəstək Buraxılışı (ESR) versiyasında mümkündür.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = PKCS #11 modullarını qur.
-# “format” refers to the format used for the value of this policy. See also:
-# https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
+policy-SSLVersionMax = Maksimum SSL versiyasını qurun.
+policy-SSLVersionMin = Minimum SSL versiyasını qurun.
+# “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Saytların ziyarət edilməsini əngəllə. Format detalları üçün sənədlərə bax.
