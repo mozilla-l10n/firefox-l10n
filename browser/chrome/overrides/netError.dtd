@@ -10,9 +10,10 @@
 <!ENTITY returnToPreviousPage.label "Vanni inderê">
 <!ENTITY returnToPreviousPage1.label "Vanni inderê (Racomandou)">
 <!ENTITY advanced.label "Avansæ">
-
 <!ENTITY continue2.label "Ciù…">
+<!ENTITY advanced2.label "Avansæ…">
 <!ENTITY moreInformation.label "Ciù informaçioin">
+<!ENTITY viewCertificate.label "Amia certificato">
 
 <!-- Specific error messages -->
 
@@ -127,8 +128,6 @@ was trying to connect. -->
 <!ENTITY certerror.introPara "O propietaio de <span class='hostname'/> o l'à configurou o seu scito mâ.  Pe protezze e teu informaçioin da l'ese aröbæ, &brandShortName; o no s'é conesso a sto scito.">
 
 
-<!ENTITY certerror.expiredCert.secondPara "Sto problema o capita de spesso perché o releuio do computer o l'é sbaliou, e questo no fâ colegâ &brandShortName; in mòddo seguo.">
-
 <!ENTITY certerror.whatCanYouDoAboutItTitle "E aloa cöse ti peu fâ?">
 
 <!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "
@@ -156,7 +155,6 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Azonzi 'na eceçion…">
-
 <!ENTITY securityOverride.exceptionButton1Label "Acetta o reizego e vanni avanti">
 
 <!ENTITY errorReporting.automatic2 "Segnala eroî comme sto chi pe agiutâ Mozilla a identificâ e blocâ sciti danozi">
@@ -188,7 +186,9 @@ was trying to connect. -->
 
 <!ENTITY blockedByPolicy.title "Pagina Blocâ">
 
+
 <!ENTITY clockSkewError.title "O releuio do computer o l'é erou">
 
 <!ENTITY prefReset.longDesc "Pâ che segian e teu inpostaçioin de seguessa a caozâ questo. Ti veu repigiâ e inpostaçioin predefinie?">
 <!ENTITY prefReset.label "Repiggia inpostaçioin predefinie">
+

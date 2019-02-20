@@ -8,4 +8,6 @@
 -->
 
 <!ENTITY window.title "Notiçie inportanti">
+<!ENTITY window.style "width: 490px">
+<!ENTITY continue-button "Continoa">
 
