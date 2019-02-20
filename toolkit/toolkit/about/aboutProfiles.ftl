@@ -27,6 +27,7 @@ profiles-remove = Fjern
 profiles-set-as-default = Vel som standard profil
 profiles-launch-profile = Start profil i ny nettlesar
 profiles-cannot-set-as-default-title = Kan ikkje stille inn som standard
+profiles-cannot-set-as-default-message = Standardprofilen kan ikkje endrast for { -brand-short-name }.
 profiles-yes = ja
 profiles-no = nei
 profiles-rename-profile-title = Byt namn på profilen
