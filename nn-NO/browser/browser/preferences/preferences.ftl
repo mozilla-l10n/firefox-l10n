@@ -689,6 +689,11 @@ content-blocking-cookies-label =
 content-blocking-cryptominers-label =
     .label = Kryptominarar
     .accesskey = y
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+content-blocking-fingerprinters-label =
+    .label = Nettlesaravtrykk
+    .accesskey = N
 
 ## Privacy Section - Tracking
 
@@ -723,6 +728,9 @@ permissions-block-autoplay-media =
     .label = Blokker nettsider frå automatisk å spele media med lyd
     .accesskey = B
 permissions-block-autoplay-media-menu = For nettsider som autospelar lyd
+permissions-block-autoplay-media2 =
+    .label = Blokker nettstadar frå å automatisk spele av lyd
+    .accesskey = B
 permissions-block-autoplay-media-exceptions =
     .label = Unntak…
     .accesskey = U
