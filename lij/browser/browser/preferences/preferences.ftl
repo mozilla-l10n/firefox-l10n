@@ -4,10 +4,6 @@
 
 do-not-track-description = Manda a-o scito un signâ  “No traciame” coscì da faghe savei che ti no veu ese traciou
 do-not-track-learn-more = Atre informaçioin
-do-not-track-option-default =
-    .label = Solo quande ti deuvi a proteçion anti-traciamento.
-do-not-track-option-default-content-blocking =
-    .label = Solo quande { -brand-short-name } o l'à inpostou o blòcco di Traciatoî individoæ
 do-not-track-option-always =
     .label = De longo
 pref-page =
@@ -90,9 +86,6 @@ extension-controlled-default-search = 'Na estenscion, <img data-l10n-name="icon"
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = 'Na estenscion, <img data-l10n-name="icon"/> { $name }, a domanda 'n feuggi contegnitô.
-# This string is shown to notify the user that their tracking protection preferences
-# are being controlled by an extension.
-extension-controlled-websites-tracking-protection-mode = 'Na estenscion, <img data-l10n-name="icon"/> { $name }, a contròlla a teu proteçion anti-traciamento.
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
 extension-controlled-websites-content-blocking-all-trackers = 'Na estenscion <img data-l10n-name="icon"/> { $name }, a contròlla sta inpostaçion.
@@ -599,12 +592,6 @@ sitedata-total-size-calculating = Conto a dimenscion di dæti e da cache…
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = I cookie, dæti do scito e cache deuvian { $value } { $unit } de spaçion in sciô disco.
 sitedata-learn-more = Pe saveine de ciù
-sitedata-keep-until = Mantegni scinn-a che
-    .accesskey = i
-sitedata-keep-until-expire =
-    .label = Scazzan
-sitedata-keep-until-closed =
-    .label = { -brand-short-name } o l'é serou
 sitedata-allow-cookies-option =
     .label = Acetta cookie e dæti do scito
     .accesskey = A
@@ -615,29 +602,12 @@ sitedata-disallow-cookies-option =
 # The list items are the strings named sitedata-block-*-option*.
 sitedata-block-desc = Tipo blocou
     .accesskey = T
-sitedata-block-trackers-option-recommended =
-    .label = Traciatoî de terse parte (racomandou)
-sitedata-block-trackers-option =
-    .label = Traciatoî de terse parte
-sitedata-block-unvisited-option =
-    .label = Cookie da sciti no vixitæ
-sitedata-block-all-third-party-option =
-    .label = Tutti i cookie de terse parte (peu ese che çerti sciti pöi no van)
-sitedata-block-all-option =
-    .label = Tutti i cookie (peu ese che çerti sciti pöi no van)
 sitedata-clear =
     .label = Scancella dæti…
     .accesskey = l
 sitedata-settings =
     .label = Gestisci dæti…
     .accesskey = G
-sitedata-cookies-exceptions =
-    .label = Eceçioin…
-    .accesskey = E
-# This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
-# in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
-# Cookies and Site Data section.
-sitedata-warning-your-settings-prevent-changes = I teu inpostaçioin into Blòcco di contegnui no fan cangiâ e inpostaçioin di cookie e di dæti di sciti.
 
 ## Privacy Section - Address Bar
 
@@ -657,83 +627,22 @@ addressbar-suggestions-settings = Cangia e inpostaçioin di conseggi di motoî d
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Contegnuo blocou
-content-blocking-desc = Blòcca i contegnui de terse parte, comme publicitæ ò còdici, che peuan ralentâ a navegaçion e traciate inta ræ. Personalizza e inpostaçioin pe megio bilanciâ fra proteçion e prestaçioin.
 content-blocking-learn-more = Atre informaçioin
-content-blocking-restore-defaults =
-    .label = Repiggia predefinio
-    .accesskey = R
-content-blocking-toggle-on =
-    .tooltiptext = Asmòrta o blòcco di contegnui
-content-blocking-toggle-off =
-    .tooltiptext = Ativa o blòcco di contengnui
-content-blocking-toggle-label-on = Averto
-    .accesskey = A
-content-blocking-toggle-label-off = Asmòrtou
-    .accesskey = A
-content-blocking-category-label = Çerni cöse blocâ
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-slow-loading-trackers-label =
-    .label = Traciatoî lenti a caregâ
-    .accesskey = T
-content-blocking-fastblock-new-description = Blòcca solo i traciatoî che no fan caregâ e pagine a-a spedia.
-content-blocking-tracking-protection-trackers-label =
-    .label = Traciatoî
-    .accesskey = T
-content-blocking-tracking-protection-all-detected-trackers-label =
-    .label = Tutti i traciatoî individoæ
-    .accesskey = T
-content-blocking-tracking-protection-new-description = Blòcca tutti i traciatoî nòtti. (Peu ese che pöi quarche pagina a no se carega.)
-content-blocking-tracking-protection-option-always =
-    .label = De longo
-    .accesskey = D
-content-blocking-tracking-protection-option-private =
-    .label = Solo inti barcoin privæ
-    .accesskey = S
+# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+content-blocking-setting-standard =
+    .label = Standard
+    .accesskey = d
+content-blocking-setting-custom =
+    .label = Personalizzou
+    .accesskey = P
 content-blocking-tracking-protection-change-block-list = Cangia a lista de blòcco
-content-blocking-third-party-cookies-label =
-    .label = Cookie de terse parte
+content-blocking-cookies-label =
+    .label = Cookie
     .accesskey = C
-content-blocking-reject-trackers-description = Blòcca tutti i cookie de terse parte ò solo quelli che gh'an di traciatoî.
-# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
-# of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
-# or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
-# the UI.
-content-blocking-reject-trackers-warning-your-settings-prevent-changes = E inpostaçioin inti Cookie e dæti di sciti no fan cangiâ e inpostaçioin di cookie de terse parte.
-content-blocking-change-cookie-settings =
-    .label = Cangia inpostaçioin di Cookie
-    .accesskey = C
-content-blocking-reject-trackers-block-trackers-option-recommended =
-    .label = Traciatoî (consegiou)
-    .accesskey = r
-content-blocking-reject-trackers-block-trackers-option =
-    .label = Traciatoî
-    .accesskey = r
-content-blocking-reject-trackers-all-third-parties-option =
-    .label = Tutti i cookie de terse parte (o peu no fâ anâ di sciti)
-    .accesskey = T
 
 ## Privacy Section - Tracking
 
-tracking-header = Proteçion anti-traciamento
-tracking-desc = A proteçion anti-traciamento a blòcca quelli che veuan traciate in linea quande ti naveghi tra ciù sciti. <a data-l10n-name="learn-more">Pe saveine de ciù in sciâ proteçion anti-traciamento e privacy</a>
-tracking-mode-label = Deuvia a proteçion anti-traciamento pe i sciti che se san che tracian
-tracking-mode-always =
-    .label = De longo
-    .accesskey = g
-tracking-mode-private =
-    .label = Solo inti barcoin privæ
-    .accesskey = l
-tracking-mode-never =
-    .label = Mai
-    .accesskey = m
-tracking-exceptions =
-    .label = Eceçioin…
-    .accesskey = c
-tracking-change-block-list =
-    .label = Cangia lista de blòcco…
-    .accesskey = C
 
 ## Privacy Section - Permissions
 
@@ -801,6 +710,7 @@ collection-health-report-link = Atre informaçioin
 collection-studies =
     .label = Pemetti a { -brand-short-name } de instalâ e xoâ studdi
 collection-studies-link = Amia i studde de { -brand-short-name }
+addon-recommendations-link = Atre informaçioin
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = O report di dæti o l'é dizabilitou pe sta configuraçion
@@ -879,3 +789,7 @@ space-alert-under-5gb-message = { -brand-short-name } o sta pe finî o spaçio i
 desktop-folder-name = Desktop
 downloads-folder-name = Descaregamenti
 choose-download-folder-title = Çerni a cartella de descaregamento:
+# Variables:
+#   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
+save-files-to-cloud-storage =
+    .label = Sarva i file in { $service-name }

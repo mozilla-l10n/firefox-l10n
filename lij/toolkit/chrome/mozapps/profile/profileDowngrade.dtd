@@ -10,5 +10,9 @@
  given Firefox channel". These terms are not synonymous.
 -->
 <!ENTITY window.title "Ti deuvi 'na vegia verscion de Firefox">
+<!ENTITY window.style "width: 490px;">
 
 
+<!ENTITY window.create "Crea 'n neuvo profî">
+<!ENTITY window.quit-win "Sciòrti">
+<!ENTITY window.quit-nonwin "Sciòrti">
