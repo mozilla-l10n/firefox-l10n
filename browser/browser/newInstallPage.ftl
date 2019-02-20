@@ -10,6 +10,7 @@
 title = Viktig nytt
 heading = Endringar i { -brand-short-name }-profilen din
 changed-title = Kva er endra?
+changed-desc-profiles = Denne installasjonen av { -brand-short-name } har ein ny profil. Ein profil er ei samling av filer der Firefox lagrar informasjon som bokmerke, passord og brukarinnstillingar.
 options-title = Kva for mulegheiter har egt?
 resources = Resursar:
 support-link = Bruke profilhandtering - supportartikkel
