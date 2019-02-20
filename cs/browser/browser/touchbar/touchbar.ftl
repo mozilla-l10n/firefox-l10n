@@ -15,6 +15,6 @@ add-bookmark = Přidat záložku
 open-bookmarks-sidebar = Zobrazit postranní lištu záložek
 reader-view = Zobrazení čtečky
 # Meant to match the string displayed in an empty URL bar.
-open-location = Zadat hledání nebo adresu
+open-location = Zadat vyhledávání nebo adresu
 share = Sdílet
 close-window = Zavřít okno
