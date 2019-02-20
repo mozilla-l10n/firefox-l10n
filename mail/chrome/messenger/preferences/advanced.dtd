@@ -67,10 +67,10 @@
  -->
 <!ENTITY updateApp.version.pre           "Wersja ">
 <!ENTITY updateApp.version.post          "">
-<!ENTITY updateAppAllow.description      "&brandShortName; ma zezwolenie na">
+<!ENTITY updateAppAllow.description      "Zezwalaj programowi &brandShortName; na:">
 <!ENTITY updateAuto.label                "Automatyczne instalowanie aktualizacji (zalecane: większe bezpieczeństwo)">
 <!ENTITY updateAuto.accesskey            "i">
-<!ENTITY updateCheck.label               "Sprawdzanie dostępności aktualizacji, ale wymaganie potwierdzenia ich instalacji">
+<!ENTITY updateCheck.label               "Sprawdzanie dostępności aktualizacji i pytania o ich instalację">
 <!ENTITY updateCheck.accesskey           "S">
 <!ENTITY updateHistory.label             "Wyświetl historię aktualizacji">
 <!ENTITY updateHistory.accesskey         "W">
