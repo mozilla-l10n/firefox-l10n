@@ -49,6 +49,7 @@ policy-EnableTrackingProtection = Құраманы бұғаттауды іске
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
 policy-Extensions = Кеңейтулерді орнату, өшіру немесе бекіту. Орнату опциясы параметрлер ретінде URL-дер немесе орналасуларды қабылдайды. Өшіру және Бекіту опциялары кеңейтулер ID-ін қабылдайды.
+policy-ExtensionUpdate = Кеңейтулерді автожаңартуды іске қосу немесе сөндіру.
 policy-FlashPlugin = Flash плагинін қолдануды рұқсат ету немесе бұғаттау.
 policy-HardwareAcceleration = Мәні false болса, құрылғылық үдетуді сөндіру.
 # “lock” means that the user won’t be able to change this setting
