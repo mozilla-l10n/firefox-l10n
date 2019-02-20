@@ -998,6 +998,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cryptominers.label "Kryptominere">
 <!ENTITY contentBlocking.cryptominersView.label "Kryptominere">
 
+<!ENTITY contentBlocking.fingerprinters.label "Nettleseravtrykk">
+<!ENTITY contentBlocking.fingerprintersView.label "Nettleseravtrykk">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Rapporter et problem">
 <!ENTITY contentBlocking.breakageReportView.label "Rapporter problemer">
