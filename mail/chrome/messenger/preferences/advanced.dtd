@@ -67,17 +67,18 @@
  -->
 <!ENTITY updateApp.version.pre           "Version ">
 <!ENTITY updateApp.version.post          "">
+<!ENTITY updateAppAllow.description      "Lejojeni &brandShortName;-in të">
 <!ENTITY updateAuto.label                "Instaloji vetvetiu përditësimet (e këshillueshme: përmirësohet siguria)">
 <!ENTITY updateAuto.accesskey            "v">
 <!ENTITY updateCheck.label               "Kontrollo për përditësime, por lejomë të zgjedh t&apos;i instaloj apo jo">
 <!ENTITY updateCheck.accesskey           "K">
-<!ENTITY updateManual.label              "Mos kontrollo kurrë për përditësime (e pakëshillueshme: rrezik sigurie)">
-<!ENTITY updateManual.accesskey          "M">
 <!ENTITY updateHistory.label             "Shfaq Historik Përditësimesh">
 <!ENTITY updateHistory.accesskey         "H">
 
 <!ENTITY useService.label                "Për instalim përditësimesh përdor një shërbim në prapaskenë">
 <!ENTITY useService.accesskey            "i">
+
+<!ENTITY updateCrossUserSettingWarning.description "Ky rregullim do të zbatohet mbi krejt llogaritë Windows dhe profilet &brandShortName; që përdorin këtë instalim të &brandShortName;-it.">
 
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Rregullime…">
