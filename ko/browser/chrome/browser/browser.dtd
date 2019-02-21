@@ -225,9 +225,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
-<!ENTITY exitDOMFullscreen.button "전체 화면 표시 모드 종료(Esc)">
-<!ENTITY exitDOMFullscreenMac.button "전체 화면 표시 모드 종료(esc)">
-<!ENTITY leaveDOMFullScreen.label "전체 화면 표시 모드 종료">
+<!ENTITY exitDOMFullscreen.button "전체 화면 종료(Esc)">
+<!ENTITY exitDOMFullscreenMac.button "전체 화면 종료(esc)">
+<!ENTITY leaveDOMFullScreen.label "전체 화면 종료">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
@@ -420,7 +420,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewSidebarMenu.accesskey "e">
 <!ENTITY viewCustomizeToolbar.label       "사용자 지정…">
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
-<!ENTITY overflowCustomizeToolbar.label       "툴바 개인화…">
+<!ENTITY overflowCustomizeToolbar.label       "도구 모음 개인화…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "C">
 
 <!ENTITY historyMenu.label "방문기록">
@@ -469,7 +469,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY appMenuRecentHighlights.label "최근 하이라이트">
 
-<!ENTITY customizeMenu.addToToolbar.label "도구 상자에 추가">
+<!ENTITY customizeMenu.addToToolbar.label "도구 모음에 추가">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
      customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
@@ -484,15 +484,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.pinToOverflowMenu.accesskey "P">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.label "오버플로우 메뉴에서 고정 해제">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "U">
-<!ENTITY customizeMenu.removeFromToolbar.label "도구 상자에서 제거">
+<!ENTITY customizeMenu.removeFromToolbar.label "도구 모음에서 제거">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
 <!ENTITY customizeMenu.addMoreItems.label "더 많은 아이템 추가…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
-<!ENTITY customizeMenu.autoHideDownloadsButton.label "툴바에서 자동 숨김">
+<!ENTITY customizeMenu.autoHideDownloadsButton.label "도구 모음에서 자동 숨김">
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "A">
 <!ENTITY customizeMenu.manageExtension.label "부가 기능 관리">
 <!ENTITY customizeMenu.manageExtension.accesskey "E">
-<!ENTITY customizeMenu.removeExtension.label "부가기능 제거">
+<!ENTITY customizeMenu.removeExtension.label "확장 기능 제거">
 <!ENTITY customizeMenu.removeExtension.accesskey "v">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
@@ -828,7 +828,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      Remove Bookmark buttons. -->
 <!ENTITY editBookmark.panel.width                    "23em">
 <!ENTITY editBookmark.done.label                     "완료">
-<!ENTITY editBookmark.showForNewBookmarks.label       "저장할 때 에디터 보이기">
+<!ENTITY editBookmark.showForNewBookmarks.label       "저장할 때 편집기 보이기">
 <!ENTITY editBookmark.showForNewBookmarks.accesskey   "S">
 
 <!-- LOCALIZATION NOTE (identity.securityView.label)
@@ -950,7 +950,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore "더 많은 테마 구하기">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
 <!ENTITY customizeMode.overflowList.title2 "넘어간 메뉴">
-<!ENTITY customizeMode.overflowList.description "툴바에서는 빼지만 계속 사용할 수 있게 항목을 드래그앤 드롭 하세요…">
+<!ENTITY customizeMode.overflowList.description "도구 모음에서는 빼지만 계속 사용할 수 있게 항목을 여기에 끌어다 놓으십시오…">
 <!ENTITY customizeMode.uidensity "밀도">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
@@ -995,6 +995,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.cookies.label "쿠키">
 <!ENTITY contentBlocking.cookiesView.label "쿠키와 사이트 데이터">
+
+<!ENTITY contentBlocking.cryptominers.label "크립토마이너">
+<!ENTITY contentBlocking.cryptominersView.label "크립토마이너">
+
+<!ENTITY contentBlocking.fingerprinters.label "핑거프린터">
+<!ENTITY contentBlocking.fingerprintersView.label "핑거프린터">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "오류 보고">
 <!ENTITY contentBlocking.breakageReportView.label "문제 보고">
@@ -1128,3 +1134,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "<image class='addon-toolbar-icon'/> 메뉴에서 <image class='addon-addon-icon'/> 아이콘을 눌러서 부가 기능을 관리하세요.">
 
+<!ENTITY addonPrivateBrowsing.header.label "사생활 보호 모드 확장 기능">
+<!ENTITY addonPrivateBrowsing.body.label "확장 기능은 기본적으로 사생활 보호 모드에서 실행이 허용되지 않습니다. 사생활 보호 모드에서는 작동하지 않으며, 사용자의 온라인 활동에 접근할 수 없습니다. 설정에서 각 확장 기능이 사생활 보호 모드에서 실행되도록 허용할 수 있습니다.">
+<!ENTITY addonPrivateBrowsing.okButton.label "네, 알겠습니다">
+<!ENTITY addonPrivateBrowsing.okButton.accesskey "O">
+<!ENTITY addonPrivateBrowsing.manageButton.label "확장기능 관리">
+<!ENTITY addonPrivateBrowsing.manageButton.accesskey "M">
