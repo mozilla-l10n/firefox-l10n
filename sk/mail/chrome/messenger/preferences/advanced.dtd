@@ -67,17 +67,18 @@
  -->
 <!ENTITY updateApp.version.pre           "Verzia ">
 <!ENTITY updateApp.version.post          "">
+<!ENTITY updateAppAllow.description      "Povoliť aplikácii &brandShortName;">
 <!ENTITY updateAuto.label                "Automaticky inštalovať aktualizácie (odporúčané z dôvodu zvýšenej bezpečnosti)">
 <!ENTITY updateAuto.accesskey            "A">
 <!ENTITY updateCheck.label               "Vyhľadávať aktualizácie, ale poskytnúť možnosť zvoliť, či sa nainštalujú">
 <!ENTITY updateCheck.accesskey           "k">
-<!ENTITY updateManual.label              "Nevyhľadávať aktualizácie (neodporúča sa z dôvodu zníženej bezpečnosti)">
-<!ENTITY updateManual.accesskey          "N">
 <!ENTITY updateHistory.label             "Zobraziť históriu aktualizácií">
 <!ENTITY updateHistory.accesskey         "Z">
 
 <!ENTITY useService.label                "Na inštaláciu aktualizácií použiť službu na pozadí">
 <!ENTITY useService.accesskey            "k">
+
+<!ENTITY updateCrossUserSettingWarning.description "Toto nastavenie sa vzťahuje na všetky účty v systéme Windows a profily aplikácie &brandShortName; používajúce túto inštaláciu aplikácie &brandShortName;.">
 
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Nastavenia…">
