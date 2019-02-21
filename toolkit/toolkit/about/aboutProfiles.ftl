@@ -26,6 +26,7 @@ profiles-rename = Renommer
 profiles-remove = Supprimer
 profiles-set-as-default = Définir comme profil par défaut
 profiles-launch-profile = Lancer le profil dans un nouveau navigateur
+profiles-cannot-set-as-default-message = Le profil par défaut ne peut pas être changé pour { -brand-short-name }.
 profiles-yes = oui
 profiles-no = non
 profiles-rename-profile-title = Renommer un profil
