@@ -12,4 +12,4 @@
 <!ENTITY sync "Pro synchronizaci dat uložených v této instalaci aplikace &brandShortName; se prosím přihlaste ke svému účtu Firefoxu.">
 <!ENTITY continue-button "Pokračovat">
 
-<!ENTITY mainText "Tato instalace aplikace &brandShortName; má nový profil. To znamená, že už automaticky nesdílí vaše záložky, hesla a vaše nastavení s ostatními instalacemi Firefoxu (finální verze Firefoxu, ESR, betaverze, Firefox Developer Edition a Nightly) na tomto počítači.">
+<!ENTITY mainText "Tato instalace aplikace &brandShortName; má nový profil. To znamená, že už automaticky nesdílí vaše záložky, hesla a vaše nastavení s ostatními instalacemi Firefoxu (finální verzí Firefoxu, ESR, betaverzí, Firefox Developer Edition a Nightly) na tomto počítači.">
