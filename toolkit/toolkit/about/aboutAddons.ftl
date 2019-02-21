@@ -225,3 +225,8 @@ shortcuts-letter = Kirjoita kirjain
 shortcuts-card-collapse-button = Näytä vähemmän
 go-back-button =
     .tooltiptext = Takaisin
+
+## Add-on actions
+
+remove-addon-button = Poista
+disable-addon-button = Poista käytöstä
