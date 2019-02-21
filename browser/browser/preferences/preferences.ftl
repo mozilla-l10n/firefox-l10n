@@ -661,6 +661,7 @@ content-blocking-all-windows-trackers = 알려진 추적기를 모든 창에서
 content-blocking-all-third-party-cookies = 모든 제3자 쿠키
 content-blocking-warning-title = 조심하세요!
 content-blocking-warning-desc = 쿠키와 추적기를 차단하면 일부 웹사이트가 정상 작동하지 않을 수 있습니다. 신뢰하는 사이트에 대한 차단은 쉽게 해제할 수 있습니다.
+content-blocking-warning-description = 콘텐츠를 차단하면 일부 웹사이트가 깨질 수 있습니다. 신뢰할 수 있는 사이트에 대한 차단은 쉽게 해제 할 수 있습니다.
 content-blocking-learn-how = 방법 알아보기
 content-blocking-trackers-label =
     .label = 추적기
@@ -675,6 +676,15 @@ content-blocking-tracking-protection-change-block-list = 차단 목록 변경
 content-blocking-cookies-label =
     .label = 쿠키
     .accesskey = C
+# Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
+content-blocking-cryptominers-label =
+    .label = 크립토마이너
+    .accesskey = y
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+content-blocking-fingerprinters-label =
+    .label = 핑거프린터
+    .accesskey = F
 
 ## Privacy Section - Tracking
 
