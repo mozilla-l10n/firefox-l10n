@@ -30,6 +30,9 @@ site-usage-pattern = { $value } { $unit }
 site-data-remove-all =
     .label = සියල්ල ඉවත් කරන්න
     .accesskey = e
+site-data-remove-shown =
+    .label = පෙන්වූ සියල්ල ඉවත් කරන්න
+    .accesskey = e
 
 ## Removing
 
