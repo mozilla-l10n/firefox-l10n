@@ -204,6 +204,9 @@ applications-type-column =
 applications-action-column =
     .label = ක්‍රියාව
     .accesskey = A
+play-drm-content =
+    .label = DRM-පාලිත අන්තර්ගතය ධාවනය කරන්න
+    .accesskey = P
 play-drm-content-learn-more = තවත් දැනගන්න
 update-application-title = { -brand-short-name } යාවත්කාල
 update-history =
@@ -312,6 +315,9 @@ search-engine-default-header = පෙරනිමි සෙවුම් එළ�
 search-suggestions-option =
     .label = සෙවුම් යෝජනා ලබාදෙන්න
     .accesskey = s
+search-show-suggestions-url-bar-option =
+    .label = සෙවුම් යෝජනා ලිපින තීරුවේ පෙන්වන්න
+    .accesskey = I
 search-one-click-header = ඒක-ක්ලික් සෙවුම් එළවුම්
 search-choose-engine-column =
     .label = සෙචුම් එළවුම
@@ -374,6 +380,9 @@ sync-manage-account = ගිණුම කළමනාකරණය කරන්�
     .accesskey = o
 sync-signedin-unverified = { $email } තහවුරු කර නොමැත
 sync-signedin-login-failure = කරුණාකර නැවත සබඳවීමට පිවිසෙන්න { $email }
+sync-resend-verification =
+    .label = තහවුරු කිරීම නැවත එවන්න
+    .accesskey = d
 sync-remove-account =
     .label = ගිණුම ඉවත් කරන්න
     .accesskey = R
@@ -415,6 +424,7 @@ sync-fxa-privacy-notice = පෞද්ගලිකත්ව දැන්වී�
 
 ## Privacy Section
 
+privacy-header = ගවේශන පුද්ගලිකත්වය
 
 ## Privacy Section - Forms
 
@@ -445,6 +455,9 @@ history-dontremember-description = { -brand-short-name } එම සැකසු�
 history-private-browsing-permanent =
     .label = සෑම විටම පෞද්ගලික ගවේෂණය භාවිතා කරන්න
     .accesskey = p
+history-remember-browser-option =
+    .label = ගවේශන ඉතිහාසය සහ බාගැනීම් මතක තබාගන්න
+    .accesskey = b
 history-remember-search-option =
     .label = සෙවීම් සහ පෝරම අතීතයන් මතක තබාගන්න
     .accesskey = f
@@ -484,6 +497,7 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = ටැබ් විවෘත කරන්න
     .accesskey = O
+addressbar-suggestions-settings = සෙවුම් යන්ත්‍රයේ යෝජනා සඳහා අභිරුචි වෙනස් කරන්න
 
 ## Privacy Section - Content Blocking
 
@@ -499,9 +513,13 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = රිසිකළ
     .accesskey = C
+content-blocking-learn-how = කෙසේදැයි ඉගෙන ගන්න
 
 ## Privacy Section - Tracking
 
+tracking-manage-exceptions =
+    .label = හැරදැමීම් කළමනාකරණය
+    .accesskey = x
 
 ## Privacy Section - Permissions
 
@@ -523,6 +541,12 @@ permissions-notification-settings =
     .label = සිටුවම්...
     .accesskey = t
 permissions-notification-link = තවත් දැනගන්න
+permissions-notification-pause =
+    .label = { -brand-short-name } යළි ඇරඹේන තෙක්දැ නුම්දීම් මඳක් නවතන්න
+    .accesskey = n
+permissions-block-autoplay-media-exceptions =
+    .label = හැරදැමීම්...
+    .accesskey = E
 autoplay-option-ask =
     .label = සෑමවිටම විමසන්න
 autoplay-option-allow =
@@ -536,6 +560,9 @@ permissions-block-popups =
 permissions-block-popups-exceptions =
     .label = හැරදැමීම්...
     .accesskey = E
+permissions-addon-install-warning =
+    .label = වෙබ්අඩවි ඇඩෝන ස්ථාපනයට සැරසෙන විට ඔබට අවවාද කරන්න
+    .accesskey = W
 permissions-addon-exceptions =
     .label = හැරදැමීම්...
     .accesskey = E
@@ -559,6 +586,9 @@ security-enable-safe-browsing-link = තවත් දැනගන්න
 security-block-downloads =
     .label = භයානක බාගත කිරීම් අවහිර කරන්න
     .accesskey = d
+security-block-uncommon-software =
+    .label = අනවශ්‍ය සහ අසාමාන්‍ය මෘදුකාංග ගැන අනතුරු අඟවන්න
+    .accesskey = c
 
 ## Privacy Section - Certificates
 
@@ -602,3 +632,7 @@ space-alert-under-5gb-ok-button =
 desktop-folder-name = මුලිකතිරය
 downloads-folder-name = බාගැනිම්
 choose-download-folder-title = බාගත විමේ බහලුම තේරීම:
+# Variables:
+#   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
+save-files-to-cloud-storage =
+    .label = ලිපිගොනු { $service-name } වෙත සුරකින්න
