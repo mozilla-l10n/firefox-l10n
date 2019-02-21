@@ -26,3 +26,10 @@ onboarding-fxa-title = ஒத்திசைக்க
 ## Message strings belonging to the Return to AMO flow
 
 return-to-amo-sub-header = அருமை, உங்களுக்கு { -brand-short-name } கிடைத்திருக்கிறது.
+# <icon></icon> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-header = இப்போது நீங்கள் <icon></icon><b>{ $addon-name }.</b> மேற்சேர்க்கையைப் பெறலாம்.
+return-to-amo-extension-button = நீட்டிப்பினைச் சேர்
+return-to-amo-get-started-button = { -brand-short-name } உடன் தொடங்குங்கள்
