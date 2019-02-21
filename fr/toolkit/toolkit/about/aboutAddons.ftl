@@ -90,6 +90,7 @@ detail-update-automatic =
 detail-update-manual =
     .label = Désactivées
     .tooltiptext = Ne pas installer automatiquement les mises à jour
+detail-private-browsing-description = L’extension fonctionnera en navigation privée et aura accès à vos activités en ligne. <label data-l10n-name="detail-private-browsing-learn-more">En savoir plus</label>
 detail-private-browsing-on =
     .label = Autoriser
     .tooltiptext = Autoriser en navigation privée
