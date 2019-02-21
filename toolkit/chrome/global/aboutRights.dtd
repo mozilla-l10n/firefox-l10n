@@ -27,7 +27,7 @@
 
 <!-- point 3 text for official branded builds -->
 <!ENTITY rights2.intro-point3a "Como é que usamos a sua informação pessoal e feedback enviados para a &vendorShortName; através do &brandShortName; é descrito na ">
-<!ENTITY rights2.intro-point3b "Política de privacidade do &brandShortName;">
+<!ENTITY rights2.intro-point3b "política de privacidade do &brandShortName;">
 <!ENTITY rights.intro-point3c ".">
 
 <!-- point 3 text for unbranded builds -->
@@ -78,7 +78,7 @@
 <!ENTITY rights.webservices-unbranded "Uma visão dos serviços de websites que o produto incorpora, assim como instruções de como os desativar, se necessário, devem ser colocados aqui.">
 
 <!-- point 1 text for unbranded builds -->
-<!ENTITY rights.webservices-term1-unbranded "Quaisquer termos de serviço devem ser listados aqui.">
+<!ENTITY rights.webservices-term1-unbranded "Quaisquer termos do serviço devem ser listados aqui.">
 
 <!-- points 1-7 text for branded builds -->
 <!ENTITY rights2.webservices-term1 "A &vendorShortName; os seus contribuidores, licenciantes e parceiros trabalham para fornecer os serviços mais precisos e atualizados.  No entanto, não podemos garantir que esta informação é abrangente e livre de erros.  Por exemplo, o serviço de navegação segura poderá não identificar alguns sites perigosos e identificar alguns sites seguros com erro e, no serviço de localização, todas as localizações devolvidas pelos nossos fornecedores do serviço são apenas estimativas e nem nós nem os nossos fornecedores do serviço garantimos a exatidão das localizações fornecidas.">
