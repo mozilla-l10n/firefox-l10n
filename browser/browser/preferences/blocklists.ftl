@@ -32,4 +32,4 @@ blocklist-item-moz-full-desc = Блокує відомі елементи сте
 blocklist-item-moz-std-listName = Список блокування 1-го рівня (Рекомендовано).
 blocklist-item-moz-std-description = Дозволяє деякі елементи стеження для належної роботи веб-сайтів.
 blocklist-item-moz-full-listName = Список блокування 2-го рівня.
-blocklist-item-moz-full-description = Блокує всі виявлені елементи стеження. Деякі веб-сайти чи вміст можуть не завантажуватись належним чином.
+blocklist-item-moz-full-description = Блокує все виявлене стеження. Деякі веб-сайти чи вміст можуть не завантажуватись належним чином.
