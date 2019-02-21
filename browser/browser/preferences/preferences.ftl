@@ -282,6 +282,7 @@ update-application-check-choose =
 update-application-manual =
     .label = Nevyhľadávať aktualizácie (neodporúča sa)
     .accesskey = N
+update-application-warning-cross-user-setting = Toto nastavenie sa vzťahuje na všetky účty v systéme Windows a profily aplikácie { -brand-short-name } používajúce túto inštaláciu aplikácie { -brand-short-name }.
 update-application-use-service =
     .label = Na inštaláciu aktualizácií používať službu na pozadí
     .accesskey = z
