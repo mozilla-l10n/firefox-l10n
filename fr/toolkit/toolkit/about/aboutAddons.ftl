@@ -241,3 +241,11 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = En montrer moins
 go-back-button =
     .tooltiptext = Retour
+
+## Add-on actions
+
+remove-addon-button = Supprimer
+disable-addon-button = Désactiver
+enable-addon-button = Activer
+addons-enabled-heading = Activé
+addons-disabled-heading = Désactivé
