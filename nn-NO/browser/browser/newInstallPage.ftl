@@ -11,7 +11,9 @@ title = Viktig nytt
 heading = Endringar i { -brand-short-name }-profilen din
 changed-title = Kva er endra?
 changed-desc-profiles = Denne installasjonen av { -brand-short-name } har ein ny profil. Ein profil er ei samling av filer der Firefox lagrar informasjon som bokmerke, passord og brukarinnstillingar.
+lost = <b>Du har ikkje mista personlege data eller tilpassingar.</b> Dersom du allereie har lagra informasjon i Firefox på denne datamaskina, er han framleis tilgjengeleg i ein annan Firefox-installasjon.
 options-title = Kva for mulegheiter har egt?
+options-do-nothing = Som standard vil profildataa dine i { -brand-short-name } ikkje verte synkroniserte med profildata på dei andre Firefox-installasjonane dine.
 resources = Resursar:
 support-link = Bruke profilhandtering - supportartikkel
 sync-header = Logg inn eller opprett ein { -fxaccount-brand-name }
@@ -20,4 +22,5 @@ sync-input =
     .placeholder = E-post
 sync-button = Hald fram
 sync-terms = Ved å fortsette aksepterer du <a data-l10n-name="terms">tenestevilkåra</a> og <a data-l10n-name="privacy">personvernpraksisane</a> våre.
+sync-first = Er det første gong du brukar { -sync-brand-name }? Du må logge inn på kva installasjon av Firefox for å synkronisere informasjonen din.
 sync-learn = Les meir
