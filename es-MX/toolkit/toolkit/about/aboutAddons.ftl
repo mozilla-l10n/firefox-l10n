@@ -219,6 +219,11 @@ extensions-updates-update-selected =
 ## Extension shortcut management
 
 shortcuts-browserAction = Activar extensión
+shortcuts-pageAction = Activar acción de página
+shortcuts-sidebarAction = Alternar la barra lateral
+shortcuts-modifier-mac = Incluir Ctrl, Alt o ⌘
+shortcuts-modifier-other = Incluir Ctrl o Alt
+shortcuts-invalid = Combinación inválida
 shortcuts-card-collapse-button = Mostrar menos
 
 ## Add-on actions
