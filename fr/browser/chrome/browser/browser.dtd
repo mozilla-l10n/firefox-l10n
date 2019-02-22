@@ -996,6 +996,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Cookies">
 <!ENTITY contentBlocking.cookiesView.label "Cookies et données de sites">
 
+
+
 <!ENTITY contentBlocking.openBreakageReportView2.label "Signaler un problème">
 <!ENTITY contentBlocking.breakageReportView.label "Signaler des problèmes">
 <!ENTITY contentBlocking.breakageReportView2.description "Le blocage des contenus peut occasionner des problèmes sur certains sites web. Quand vous signalez des problèmes, vous contribuez à rendre &brandShortName; meilleur pour tout le monde. (Ceci enverra une URL ainsi que des informations sur les préférences de votre navigateur à Mozilla.)">
@@ -1129,7 +1131,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addonPostInstallMessage.label "Gérez vos modules en cliquant sur <image class='addon-addon-icon'/> dans le menu <image class='addon-toolbar-icon'/>.">
 
 <!ENTITY addonPrivateBrowsing.header.label "Extensions dans les fenêtres de navigation privée">
-<!ENTITY addonPrivateBrowsing.body.label "Par défaut, les extensions ne sont pas autorisées dans les fenêtres privées. Elles ne fonctionneront pas pendant la navigation privée et n’auront pas accès à vos activités en ligne. Vous pouvez autoriser chaque extension à fonctionner dans les fenêtres privées en gérant vos paramètres.">
+<!ENTITY addonPrivateBrowsing.body.label "Par défaut, les extensions ne sont pas autorisées à s’exécuter dans les fenêtres privées. Elles ne fonctionneront pas pendant la navigation privée et n’auront pas accès à vos activités en ligne. Vous pouvez autoriser chaque extension à fonctionner dans les fenêtres privées en modifiant ses paramètres.">
 <!ENTITY addonPrivateBrowsing.okButton.label "J’ai compris">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "a">
 <!ENTITY addonPrivateBrowsing.manageButton.label "Gérer les extensions">
