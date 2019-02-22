@@ -390,8 +390,8 @@ search-bar-shown =
 search-engine-default-header = Mecanismo de pesquisa padrão
 search-engine-default-desc = Escolha o mecanismo de pesquisa padrão a ser usado na barra de endereços e na barra de pesquisa.
 search-suggestions-option =
-    .label = Sugestões de pesquisa
-    .accesskey = S
+    .label = Mostrar sugestões de pesquisa
+    .accesskey = u
 search-show-suggestions-url-bar-option =
     .label = Mostrar sugestões de pesquisa nos resultados da barra de endereços
     .accesskey = l
@@ -634,7 +634,7 @@ sitedata-cookies-permissions =
 
 ## Privacy Section - Address Bar
 
-addressbar-header = Barra de Endereços
+addressbar-header = Barra de endereços
 addressbar-suggest = Ao usar a barra de endereços, sugerir
 addressbar-locbar-history-option =
     .label = Histórico de navegação
