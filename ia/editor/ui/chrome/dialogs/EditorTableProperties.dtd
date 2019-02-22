@@ -1,0 +1,38 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY applyButton.label                "Applicar">
+<!ENTITY applyButton.accesskey            "A">
+<!ENTITY closeButton.label                "Clauder">
+<!ENTITY tableTab.label                   "Tabella">
+<!ENTITY cellTab.label                    "Cellas">
+<!ENTITY tableRows.label                  "Rigas:">
+<!ENTITY tableRows.accessKey              "R">
+<!ENTITY tableColumns.label               "Columnas:">
+<!ENTITY tableColumns.accessKey           "C">
+<!ENTITY tableHeight.label                "Altor:">
+<!ENTITY tableHeight.accessKey            "t">
+<!ENTITY tableBorderWidth.label           "Bordo:">
+<!ENTITY tableBorderWidth.accessKey       "B">
+
+<!ENTITY cellSelection.label              "Selection">
+<!ENTITY cellSelectCell.label             "Cella">
+<!ENTITY cellSelectRow.label              "Riga">
+<!ENTITY cellSelectColumn.label           "Columna">
+<!ENTITY cellSelectNext.label             "Sequente">
+<!ENTITY cellSelectNext.accessKey         "S">
+<!ENTITY cellSelectPrevious.label         "Precedente">
+<!ENTITY cellSelectPrevious.accessKey     "P">
+<!ENTITY cellNormal.label                 "Normal">
+<!ENTITY cellHeader.label                 "Titulo">
+<!ENTITY cellAlignTop.label               "Apice">
+
+<!-- Used in both Table and Cell panels  -->
+<!ENTITY size.label                       "Dimension">
+<!ENTITY pixels.label                     "">
+<!ENTITY backgroundColor.label            "Color de fundo:">
+<!ENTITY backgroundColor.accessKey        "f">
+<!ENTITY AlignLeft.label                  "Sinistra">
+<!ENTITY AlignCenter.label                "Centro">
+<!ENTITY AlignRight.label                 "Dextera">

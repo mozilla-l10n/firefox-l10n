@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
+<!ENTITY rights.locale-direction "ltr">
 <!ENTITY rights.title            "A proposito de tu derectos">
 <!ENTITY rights.intro-header     "A proposito de tu derectos">
 <!ENTITY rights.intro "&brandFullName; es software gratis e de codice aperite, construite per un communitate de milles de contributores de tote le mundo. Il ha poc cosas que tu deberea saper:">
@@ -33,16 +34,29 @@
 <!ENTITY rights.intro-point4c ".">
 
 <!-- point 4 text for unbranded builds -->
+<!ENTITY rights.intro-point4a-unbranded "Si iste producto incorpora servicios web, qualcunque terminos de servicio applicabile pro le servicio(s) debe esser ligate al ">
+<!ENTITY rights.intro-point4b-unbranded "Servicios de sito web">
+<!ENTITY rights.intro-point4c-unbranded " section.">
 
+<!ENTITY rights.webservices-header "Servicios de sito web de &brandFullName;">
 
 <!-- Note that this paragraph references a couple of entities from
      preferences/security.dtd, so that we can refer to text the user sees in
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
+<!ENTITY rights.webservices-b "Avantiate">
+<!ENTITY rights.webservices-d "Actualisar">
 
 <!-- intro paragraph for unbranded builds -->
+<!ENTITY rights.webservices-unbranded "Un synthese del servicios del sito web que le producto incorpora, accompaniate de instructiones sur como inactivar los, si applicabile, debe esser includite hic.">
 
 <!-- point 1 text for unbranded builds -->
+<!ENTITY rights.webservices-term1-unbranded "Tote le terminos de servicio applicabile pro iste producto debe ser listate ci.">
 
 <!-- points 1-7 text for branded builds -->
+<!ENTITY rights.webservices-term1 "&vendorShortName; pote discontinuar o cambiar le Servicios a su discretion.">
+<!ENTITY rights.webservices-term3 "Le Servicios es fornite &quot;tal qual.&quot;  &vendorShortName;, su contributores, licentiantes e distributores, renega tote le garantias, expresse o implicite, inclusive sin limitation, garantias que le Servicios es commerciabile e conveni pro tu propositos particular.  Tu supporta tote le risco de seliger le Servicios pro tu propositos concernente le qualitate e le rendimento del Servicios. Alcun jurisdictiones non permitte le exclusion o limitation de garantias implicite, alora iste clausula non se applica a te.">
+<!ENTITY rights.webservices-term4 "Salvo si requirite per lege, &vendorShortName;, su contributores, licentiantes e distributores non essera responsabilisate per qualcunque damno indirecte, incidental, consequential, punitive o exemplar decurrente de o de omne maniera concernente le uso de &brandShortName; e le Servicios.  Le responsabilitate collective sub iste terminos non excedera $500 (cinque centos dollars). Alcun jurisdictiones non permitte le exclusion o limitation de certe damnos, alora iste exclusion e limitation pote non applicar se a te. ">
+<!ENTITY rights.webservices-term5 "Alicun tempore &vendorShortName; pote actualisar le terminos si necessari. Iste terminos non pote ser modificate o cancellate sin consenso scripte de &vendorShortName; .">
+<!ENTITY rights.webservices-term6 "Iste terminos es governate per le leges del stato de California, SUA, excludente su conflicto de provisiones legal. Si qualcunque potion de iste terminos es tenite como invalide o non applicabile, le portiones restante remanera in tote fortia e effectos. In un eventual conflicto inter un version traducite de iste terminos e le version in lingua anglese, le version in lingua anglese prevalera.">
