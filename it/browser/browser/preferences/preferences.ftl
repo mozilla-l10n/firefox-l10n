@@ -521,7 +521,10 @@ sync-device-name-save =
     .label = Salva
     .accesskey = S
 sync-mobilepromo-single = Connetti un altro dispositivo
+sync-connect-another-device = Connetti un altro dispositivo
 sync-mobilepromo-multi = Gestisci dispositivi
+sync-manage-devices = Gestisci dispositivi
+sync-fxa-begin-pairing = Associa un dispositivo
 sync-tos-link = Condizioni di utilizzo del servizio
 sync-fxa-privacy-notice = Informativa sulla privacy
 
