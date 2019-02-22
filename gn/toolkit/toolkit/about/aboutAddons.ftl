@@ -88,6 +88,9 @@ detail-update-automatic =
 detail-update-manual =
     .label = Mongepyre
     .tooltiptext = Aníke emohenda ñembohekopyahu ijeheguíva
+detail-private-browsing-on =
+    .label = Moneĩ
+    .tooltiptext = Embojuruja kundaha ñemíme
 detail-home =
     .label = Kuatiarogue ñepyrũha
 detail-home-value =
@@ -210,8 +213,6 @@ extensions-updates-update-selected =
 
 ## Extension shortcut management
 
-shortcuts-manage =
-    .label = Tairenda mbopya'eha
 shortcuts-empty-message = Ndaipóri mbopya'eha ko jepysokuépe g̃uarã.
 shortcuts-no-addons = Ndoguerekói jepysokue ijurujáva.
 shortcuts-input =
@@ -224,3 +225,6 @@ shortcuts-modifier-other = Emoinge Ctrl or Alt
 shortcuts-invalid = Ñembojopyru ndoikóiva
 shortcuts-letter = Ehai peteĩ tai
 shortcuts-system = Ndaikatúi eipe’a peteĩ mbopya’eha { -brand-short-name } mba’éva
+
+## Add-on actions
+

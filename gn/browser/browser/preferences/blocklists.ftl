@@ -28,3 +28,4 @@ blocklist-item-moz-std-name = Ñemo'ã tuicha'ỹva Disconnect.me (Je'epyréva).
 blocklist-item-moz-std-desc = Omoneĩ heta tapykueriguávape ñanduti renda omba'apóvo hekoitépe.
 blocklist-item-moz-full-name = Disconnect.me ñemo'ã ha'etéva.
 blocklist-item-moz-full-desc = Tapykuerigua eikuaáva jejoko. Heta tenda ikatu nomba'apoporãmbái.
+blocklist-item-moz-full-listName = Jokoha rysýi mokõiha pegua.
