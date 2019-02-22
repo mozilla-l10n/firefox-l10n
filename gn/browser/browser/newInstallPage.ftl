@@ -8,6 +8,11 @@
 ### given Firefox channel". These terms are not synonymous.
 
 title = Marandu iporãva
+changed-title = ¿Mba'e iñambue?
+options-title = ¿Mba’épa umi poravorã?
+resources = Mba’eita:
+sync-header = Eñepyrũ tembiapo térã emoheñói peteĩ { -fxaccount-brand-name }
+sync-label = Emoinge ne ñanduti veve
 sync-input =
     .placeholder = Ñanduti veve
 sync-button = Ku'ejey

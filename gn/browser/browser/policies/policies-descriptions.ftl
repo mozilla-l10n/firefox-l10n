@@ -17,7 +17,7 @@ policy-BlockAboutConfig = Ejoko about:config kuatiaroguépe jeike.
 policy-BlockAboutProfiles = Ejoko about:profiles-pe jeike.
 policy-BlockAboutSupport = Ejoko about:support kuatiaroguépe jeike.
 policy-Bookmarks = Emoheñói techaukaha tembipuru renda rechaukahápe, pe techaukaha poravorãme térã peteĩ ñongatuhaitépe oĩva hyepýpe voi.
-policy-Certificates = Eipurusépa umi mboajepyre oñemoingeva'ekue. Ko purureko Windows mba’e añoite ko’ág̃a rupi.
+policy-CaptivePortal = Embojuruja térã eipe’a pe pytyvõha ñapytĩmbýva.
 policy-CertificatesDescription = Embojuaju mboajepyre térã eipuru mboajepyre moingepyre.
 policy-Cookies = Emoneĩ térã embotove ani ñanduti renda omoinge kookie.
 policy-DisableAppUpdate = Ani eheja oñembohekopyahu kundahára.
@@ -37,7 +37,6 @@ policy-DisableProfileImport = Eipe’a poravorã mbohapeha egueru hag̃ua mba’
 policy-DisableProfileRefresh = Eipe’a votõ Myanyhẽjey { -brand-short-name } about:support kuatyaroguépe.
 policy-DisableSafeMode = Eipe’a tembiapoite emoñepyrũ hag̃ua tekorosã rekópe. Kuaarã: haiha taiguasúva eike hag̃ua tekorosã rekópe ikatu eipe’a Windows rupive añoite eipurúvo aty purureko.
 policy-DisableSecurityBypass = Ani eheja puruhárape ohejareívo tekorosã rehegua.
-policy-DisableSetDesktopBackground = Eipe’a pe poravorã mbohapeha emoĩ hag̃ua peteĩ ta’anga mba’erechaha ruguarã.
 policy-DisableSetAsDesktopBackground = Eipe’a pe poravorã mbohekopyréva mba’erechaha ruguarã ta’angápe g̃uarãva.
 policy-DisableSystemAddonUpdate = Ani eheja kundahárape omohenda ha ombohekopyahu apopyvusu moimbaha.
 policy-DisableTelemetry = Eipe'aite Telemetría.
@@ -49,9 +48,9 @@ policy-DontCheckDefaultBrowser = Eipe’a kundahára jehechajey ijypykuéva oñe
 policy-EnableTrackingProtection = Embojuruja térã eipe’a tetepy jejoko ha ejoko ejaposérõnte.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
-# English or translate them as verbs. See also:
-# https://github.com/mozilla/policy-templates/blob/master/README.md#extensions-machine-only
+# English or translate them as verbs.
 policy-Extensions = Emboguejy, eipe’a térã ejoko jepysokue. Pe poravopyrã Ñemohenda ojapyhy URL kundaharape térã tape hechapyrãva. Umi poravopyrã pe’a ha joko oguereko jepysokue ID.
+policy-ExtensionUpdate = Embojuruja térã eipe’a ñembohekopyahu ijeheguíva jepysokue rehegua.
 policy-FlashPlugin = Emoneĩ térã embotove mboguejyrã’i Flash jepuru.
 policy-HardwareAcceleration = Japúramo, eipe’a hardware mbopya’eha.
 # “lock” means that the user won’t be able to change this setting
@@ -70,6 +69,5 @@ policy-SearchBar = Emboheko jehekaha rendaite ijypykue rupi. Pe puruhára ikatu 
 policy-SearchEngines = Emboheko jehekaha ñemoĩporã. Ko purureko eipurukuaa pe Extended Support Release (ESR) rupive.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Emohenda PKCS # 11 ra'ãha.
-# “format” refers to the format used for the value of this policy. See also:
-# https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
+# “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Ejoko ñanduti rendápe jeike. Emoñe’ẽ kuatiaita ehechakuaa hag̃ua mba’emimi ko ysaja rehegua.
