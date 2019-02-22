@@ -996,6 +996,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Kolačići">
 <!ENTITY contentBlocking.cookiesView.label "Kolačići i podaci stranica">
 
+<!ENTITY contentBlocking.cryptominers.label "Kripto rudari">
+<!ENTITY contentBlocking.cryptominersView.label "Kripto rudari">
+
+<!ENTITY contentBlocking.fingerprinters.label "Jedinstveni otisci">
+<!ENTITY contentBlocking.fingerprintersView.label "Jedinstveni otisci">
+
 <!ENTITY contentBlocking.openBreakageReportView2.label "Prijavi problem">
 <!ENTITY contentBlocking.breakageReportView.label "Prijavi probleme">
 <!ENTITY contentBlocking.breakageReportView2.description "Blokiranje sadržaja može uzrokovati probleme s nekim web stranicama. Kada prijavite probleme, pomoći ćete unaprijediti &brandShortName; za sve korisnike. (Poslati ćete URL stranice, kao i informacije o postavkama preglednika Mozilli.)">
