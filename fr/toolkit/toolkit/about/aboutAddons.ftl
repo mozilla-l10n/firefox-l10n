@@ -224,6 +224,7 @@ manage-extensions-shortcuts =
     .accesskey = G
 shortcuts-empty-message = Il n’y a pas de raccourci pour cette extension.
 shortcuts-no-addons = Aucune extension n’est activée.
+shortcuts-no-commands = Les extensions suivantes ne disposent pas de raccourcis :
 shortcuts-input =
     .placeholder = Saisissez un raccourci
 shortcuts-browserAction = Activer l’extension
