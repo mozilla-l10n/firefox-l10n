@@ -1,0 +1,48 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
+<!ENTITY rights.title            "A proposito de tu derectos">
+<!ENTITY rights.intro-header     "A proposito de tu derectos">
+<!ENTITY rights.intro "&brandFullName; es software gratis e de codice aperite, construite per un communitate de milles de contributores de tote le mundo. Il ha poc cosas que tu deberea saper:">
+
+<!-- Note on pointa / pointb / pointc form:
+     These points each have an embedded link in the HTML, so each point is
+     split into chunks for text before the link, the link text, and the text
+     after the link. If a localized grammar doesn't need the before or after
+     chunk, it can be left blank.
+
+     Also note the leading/trailing whitespace in strings here, which is
+     deliberate for formatting around the embedded links. -->
+<!ENTITY rights.intro-point1a "&brandShortName; es facite disponibile a te sub le terminos del ">
+<!ENTITY rights.intro-point1b "Licentia public Mozilla">
+<!ENTITY rights.intro-point1c "">
+
+<!ENTITY rights.intro-point2b "hic">
+<!ENTITY rights.intro-point2c ".">
+
+<!-- point 3 text for official branded builds -->
+<!ENTITY rights.intro-point3b "hic">
+<!ENTITY rights.intro-point3c ".">
+
+<!-- point 3 text for unbranded builds -->
+<!ENTITY rights.intro-point3-unbranded "Tote le politicas de confidentialitate applicabile pro iste producto debe esser listate hic.">
+
+<!-- point 4 text for official branded builds -->
+<!ENTITY rights.intro-point4b "terminos de servicio">
+<!ENTITY rights.intro-point4c ".">
+
+<!-- point 4 text for unbranded builds -->
+
+
+<!-- Note that this paragraph references a couple of entities from
+     preferences/security.dtd, so that we can refer to text the user sees in
+     the UI, without this page being forgotten every time those strings are
+     updated.  -->
+<!-- intro paragraph for branded builds -->
+
+<!-- intro paragraph for unbranded builds -->
+
+<!-- point 1 text for unbranded builds -->
+
+<!-- points 1-7 text for branded builds -->
