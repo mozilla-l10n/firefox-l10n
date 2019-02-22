@@ -668,6 +668,12 @@ sync-mobilepromo-single = Een ander apparaat verbinden
 
 sync-mobilepromo-multi = Apparaten beheren
 
+sync-connect-another-device = Een ander apparaat verbinden
+
+sync-manage-devices = Apparaten beheren
+
+sync-fxa-begin-pairing = Een apparaat koppelen
+
 sync-tos-link = Servicevoorwaarden
 
 sync-fxa-privacy-notice = Privacyverklaring
