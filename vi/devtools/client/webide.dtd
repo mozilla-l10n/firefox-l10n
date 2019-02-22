@@ -2,7 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY windowTitle "Firefox WebIDE">
 
+<!ENTITY projectMenu_refreshTabs_label "Làm mới thẻ">
 
 <!ENTITY runtimeMenu_disconnect_label "Ngắt kết nối">
 <!ENTITY runtimeMenu_takeScreenshot_label "Chụp màn hình">
@@ -23,6 +25,7 @@
 <!-- zoom -->
 
 <!ENTITY projectPanel_tabs "Thẻ">
+<!ENTITY runtimePanel_refreshDevices_label "Làm mới thiết bị">
 
 <!-- Lense -->
 <!ENTITY details_description "Mô tả">
