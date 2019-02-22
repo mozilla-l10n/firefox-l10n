@@ -17,4 +17,4 @@ reader-view = Оқу көрінісі
 # Meant to match the string displayed in an empty URL bar.
 open-location = Іздеу немесе адрес
 share = Бөлісу
-focus = Жабу
+close-window = Терезені жабу

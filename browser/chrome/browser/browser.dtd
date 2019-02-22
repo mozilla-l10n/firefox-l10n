@@ -1132,3 +1132,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addonPostInstallMessage.label "Қосымшаларыңызды <image class='addon-toolbar-icon'/> мәзірінен <image class='addon-addon-icon'/> шерту арқылы басқарыңыз.">
 
 <!ENTITY addonPrivateBrowsing.header.label "Жекелік шолу режиміндегі кеңейтулер">
+<!ENTITY addonPrivateBrowsing.okButton.label "Жақсы, түсіндім">
+<!ENTITY addonPrivateBrowsing.okButton.accesskey "а">
+<!ENTITY addonPrivateBrowsing.manageButton.label "Кеңейтулерді басқару">
+<!ENTITY addonPrivateBrowsing.manageButton.accesskey "б">
