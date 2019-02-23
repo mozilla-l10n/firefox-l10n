@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Values for changepassword.xul -->
-<!ENTITY setPassword.title  "Thay đổi Mật khẩu Chính">
+<!ENTITY setPassword.title  "Thay đổi mật khẩu chính">
 <!ENTITY setPassword.tokenName.label "Thiết bị bảo mật">
 <!ENTITY setPassword.oldPassword.label "Mật khẩu hiện tại:">
 <!ENTITY setPassword.newPassword.label "Mật khẩu mới:">
