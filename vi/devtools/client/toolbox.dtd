@@ -123,6 +123,8 @@
 
 <!-- LOCALIZATION NOTE (options.timestampMessages.label): This is the
    - label for the checkbox that toggles timestamps in the Web Console -->
+<!ENTITY options.timestampMessages.label      "Kích hoạt dấu thời gian">
+<!ENTITY options.timestampMessages.tooltip    "Nếu bạn bật lệnh tùy chọn này và đầu ra trong bảng điều khiển Web sẽ hiển thị dấu thời gian">
 
 <!-- LOCALIZATION NOTE (options.debugger.label): This is the label for the
   -  heading of the group of Debugger preferences in the options panel. -->
@@ -134,10 +136,12 @@
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
   -  panel. -->
+<!ENTITY options.styleeditor.label            "Trình chỉnh sửa kiểu mẫu">
 
 <!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
    - label for the checkbox that toggles autocompletion of css in the Style Editor -->
 <!ENTITY options.stylesheetAutocompletion.label      "Tự động điền CSS">
+<!ENTITY options.stylesheetAutocompletion.tooltip    "Tự động điền các thuộc tính, giá trị và bộ chọn CSS trong trình chỉnh sửa kiểu mẫu khi bạn nhập">
 
 <!-- LOCALIZATION NOTE (options.screenshot.label): This is the label for the
    -  heading of the group of Screenshot preferences in the options
