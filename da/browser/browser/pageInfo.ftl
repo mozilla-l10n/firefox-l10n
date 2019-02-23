@@ -113,6 +113,7 @@ general-quirks-mode =
     .value = Quirks tilstand
 general-strict-mode =
     .value = Standardoverholdelsestilstand
+security-no-owner = Dette websted leverer ingen ejerskabsinformation.
 media-select-folder = Vælg en mappe hvor billederne gemmes
 security-no-visits = Nej
 # This string is used to display the type of
