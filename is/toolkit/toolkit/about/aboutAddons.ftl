@@ -221,10 +221,19 @@ extensions-updates-update-selected =
 
 shortcuts-input =
     .placeholder = Slá inn flýtilykil
+shortcuts-browserAction = Virkja viðbót
+shortcuts-pageAction = Virkja síðuaðgerð
+shortcuts-sidebarAction = Víxla hliðarslá
 shortcuts-modifier-mac = Hafa með Ctrl, Alt eða ⌘
 shortcuts-modifier-other = Hafa með Ctrl eða Alt
 shortcuts-invalid = Ógild samsetning
 shortcuts-letter = Slá inn bókstaf
+shortcuts-system = Ekki hægt að breyta { -brand-short-name }-flýtilykli
+shortcuts-card-expand-button =
+    { $numberToShow ->
+        [one] Sýna { $numberToShow } í viðbót
+       *[other] Sýna { $numberToShow } í viðbót
+    }
 shortcuts-card-collapse-button = Sýna minna
 go-back-button =
     .tooltiptext = Til baka
