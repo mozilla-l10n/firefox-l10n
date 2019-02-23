@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/. --
 
+page-info-window =
+    .style = width: 620px; min-height: 580px;
 copy =
     .key = C
 menu-copy =
@@ -17,6 +19,8 @@ close-window =
 general-tab =
     .label = Algemeen
     .accesskey = A
+general-title =
+    .value = Titel:
 general-url =
     .value = Adres:
 general-type =
@@ -29,6 +33,8 @@ general-referrer =
     .value = Verwijzende URL:
 general-modified =
     .value = Gewijzigd:
+general-encoding =
+    .value = Tekstcodering:
 general-meta-name =
     .label = Naam
 general-meta-content =
@@ -83,15 +89,23 @@ security-view-identity-domain =
     .value = Website:
 security-view-identity-verifier =
     .value = Geverifieerd door:
+security-view-identity-validity =
+    .value = Verloopt op:
 security-view-privacy =
     .value = Privacy & geschiedenis
 security-view-privacy-history-value = Heb ik deze website eerder dan vandaag bezocht?
+security-view-privacy-sitedata-value = Slaat deze website informatie op op mijn computer?
+security-view-privacy-clearsitedata =
+    .label = Cookies en websitegegevens wissen
+    .accesskey = k
 security-view-privacy-passwords-value = Heb ik wachtwoorden opgeslagen voor deze website?
 security-view-privacy-viewpasswords =
     .label = Opgeslagen wachtwoorden bekijken
     .accesskey = w
 security-view-technical =
     .value = Technische details
+help-button =
+    .label = Help
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -99,6 +113,10 @@ security-view-technical =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-cookies = Ja, cookies en { $value } { $unit } aan websitegegevens
+security-site-data-only = Ja, { $value } { $unit } aan websitegegevens
+security-site-data-cookies-only = Ja, cookies
+security-site-data-no = Nee
 image-size-unknown = Onbekend
 not-set-verified-by = Niet gespecificeerd
 not-set-alternative-text = Niet gespecificeerd
