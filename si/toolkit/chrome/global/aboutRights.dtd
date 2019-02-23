@@ -3,7 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
 <!ENTITY rights.locale-direction "ltr">
-<!ENTITY rights.pagetitle       "about:rights">
 
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is
@@ -15,6 +14,7 @@
      deliberate for formatting around the embedded links. -->
 
 <!ENTITY rights.intro-point2-b "මෙහි">
+<!ENTITY rights.intro-point2-c ".">
 
 <!-- point 2.5 text for official branded builds -->
 

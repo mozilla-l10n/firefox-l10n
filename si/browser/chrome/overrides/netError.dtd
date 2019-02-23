@@ -8,7 +8,11 @@
 <!ENTITY loadError.label "පිටුව පූරණය ගැටලු සහිතයි">
 <!ENTITY retry.label "නැවත උත්සාහ කරන්න">
 <!ENTITY returnToPreviousPage.label "පසුපසට යන්න">
+<!ENTITY returnToPreviousPage1.label "පසුපසට යන්න (නිර්දේශිත)">
 <!ENTITY advanced.label "සංකීර්ණ">
+<!ENTITY continue2.label "තවත්…">
+<!ENTITY moreInformation.label "වැඩිදුර තොරතුරු">
+<!ENTITY viewCertificate.label "සහතිකය පෙන්වන්න">
 
 <!-- Specific error messages -->
 
@@ -18,16 +22,8 @@
 <!ENTITY deniedPortAccess.title "මෙම ලිපිනය වාරණය කර ඇත">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "සේවාදායකය හමු නොවුනි">
-<!ENTITY dnsNotFound.longDesc "<ul> 
-<li>  <strong>www</strong>.example.com වෙනුවට 
- <strong>ww</strong>.example.com වැනි 
- දෝෂ සහගතව ලිපිනය යතුරුකරණය කර ඇත්දැයි පරීක්‍ෂා කරන්න</li> 
-<li>ඔබට මෙම පිටුව පූරණය කරගත නොහැකි නම් 
- ඔබගේ පරිගණකයේ ජාල සමබන්ධතාව පරීක්‍ෂා කරනන.</li> 
-<li>ඔබගේ පරිගණකය හෝ ජාලය ෆයර්වෝලයක් හෝ ප්‍රොක්සියක් මඟින් ආරක්‍ෂා කරයි නම් 
-&brandShortName; මඟින් අන්තර්ජාල ප්‍රවේශය අනුමත කර ඇති බවට තහවුරු කරගන්න.</li> 
-</ul>">
+<!ENTITY dnsNotFound.pageTitle "සේවාදායකය හමු නොවුනි">
+<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 
 <!ENTITY fileNotFound.title "ගොනුව හමු නොවුනි">
 <!ENTITY fileNotFound.longDesc "<ul> 
@@ -49,13 +45,8 @@
 
 <!ENTITY openPortalLoginPage.label2 "ජාල පිවිසුම් පිටුව විවෘත කරන්න">
 
-<!ENTITY malformedURI.title "ලිපිනය නිරවද්‍ය නොවේ">
-<!ENTITY malformedURI.longDesc "<ul> 
-<li>වෙබ් ලිපිනය සාමාන්‍යයෙන් ලියනු ලබන්නේ 
- <strong>http://www.example.com/</strong> ආකාරයටයි</li> 
-<li>ඔබ ඉදිරි ඇළ සළකුණ භාවිතා කරන බවට සුපරීක්‍ෂාකාරි වන්න(එනම් 
-<strong>/</strong>).</li> 
-</ul>">
+<!ENTITY malformedURI.pageTitle "අවලංගු URL">
+<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 
 <!ENTITY netInterrupt.title "සම්බන්ධය බාධා සහිත විය">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
@@ -124,10 +115,16 @@
 </ul>">
 
 <!ENTITY certerror.longpagetitle1 "ඔබේ සබඳතාවය අනාරක්ෂිතයි">
-<!-- Localization note (certerror.introPara) - The text content of the span tag
+<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "<span class='hostname'/> වෙබ් අඩවියේ හිමිකරු එය නිසි ලෙස සකසා නැත. ඔබේ තොරතුරු  සොරකම් කිරීම වැලක් වීම සඳහා, &brandShortName; මෙම වෙබ් අඩවියට සම්බන්ධ වී නැත.">
+
+
+<!ENTITY certerror.whatCanYouDoAboutItTitle "එය ගැන ඔබට කුමක් කළ හැකි ද?">
+
+
+
 
 <!ENTITY sharedLongDesc "<ul> 
 <li>මෙම අඩවිය තාවකාලිකව ආභාවිතව හෝ ඉතාමත් කාර්යය බහුලව තිබිය හැක. 
@@ -144,6 +141,7 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "හැරදැමීමක් එක් කරන්න…">
+<!ENTITY securityOverride.exceptionButton1Label "අවදානම පිළිගෙන ඉදිරියට යන්න">
 
 <!ENTITY errorReporting.automatic2 "Mozilla ට මෙවැනි ද්වේශ සහගත අඩවි පිළිබඳ දැන අවහිර කිරීමට උදව් වීම සඳහා මෙවැනි දෝෂ වාර්ථා කරන්න">
 <!ENTITY errorReporting.learnMore "තවත් දැනගන්න...">
@@ -167,4 +165,8 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 
+
+
+
 <!ENTITY prefReset.label "පෙරනිමි සිටුවම් පිළිනගන්න">
+

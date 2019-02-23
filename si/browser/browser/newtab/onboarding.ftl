@@ -20,6 +20,8 @@ onboarding-start-browsing-button-label = ගවේෂණය අරඹන්න
 onboarding-private-browsing-title = පුද්ගලික ගවේශනය
 onboarding-screenshots-title = තිරපිටපත්
 onboarding-addons-title = ඇඩෝන
+# Note: "Sync" in this case is a generic verb, as in "to synchronize"
+onboarding-fxa-title = සම්මුහු
 
 ## Message strings belonging to the Return to AMO flow
 

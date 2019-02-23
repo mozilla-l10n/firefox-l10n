@@ -226,3 +226,11 @@ shortcuts-browserAction = දිගුව සක්‍රීය කරන්න
 shortcuts-pageAction = පිටු ක්‍රියාව සක්‍රීය කරන්න
 shortcuts-modifier-mac = Ctrl, Alt, හෝ ⌘ ඇතුලත් කරන්න
 shortcuts-modifier-other = Ctrl හෝ Alt ඇතුලත් කරන්න
+
+## Add-on actions
+
+remove-addon-button = ඉවත් කරන්න
+disable-addon-button = අක්‍රීය කරන්න
+enable-addon-button = සක්‍රීය
+addons-enabled-heading = සක්‍රීය කළ
+addons-disabled-heading = අක්‍රීය කළ

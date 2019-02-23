@@ -34,3 +34,5 @@ dns-lookup = DNS සෙවීම
 dns-lookup-button = විසඳන්න
 dns-domain = වසම:
 dns-lookup-table-column = IPs
+rcwn-perf-open = විවෘත කරන්න
+rcwn-perf-write = ලියන්න

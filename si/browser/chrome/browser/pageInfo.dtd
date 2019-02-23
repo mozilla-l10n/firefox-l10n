@@ -59,6 +59,7 @@
 <!ENTITY  securityView.identity.owner    "හිමිකරු:">
 <!ENTITY  securityView.identity.domain   "ජාල අඩවිය:">
 <!ENTITY  securityView.identity.verifier "ස්ථිර කළේ:">
+<!ENTITY  securityView.identity.validity "කල් ඉකුත් වන්නේ:">
 
 <!ENTITY  securityView.privacy.header                   "පුද්ගලිකත්වය හා ඉතිහාසය">
 <!ENTITY  securityView.privacy.history                  "අද දිනට පෙර මා මෙම අඩවියට පිවිස ඇතිද?">

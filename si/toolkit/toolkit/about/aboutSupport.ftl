@@ -83,8 +83,18 @@ copy-raw-data-to-clipboard-label = අමු දත්ත පසුරු පු
 sandbox-title = සෑන්ඩ්බොක්ස්
 sandbox-sys-call-pid = PID
 sandbox-sys-call-tid = TID
+sandbox-sys-call-args = තර්ක
 safe-mode-title = ආරක්ෂිත ප්‍රකාරය උත්සහ කරන්න
 restart-in-safe-mode-label = ඇඩෝන අක්‍රීය කර යළි ආරම්භ කරන්න…
+media-output-devices-title = ප්‍රතිදාන උපාංග
+media-input-devices-title = ආදාන උපකරණ
+media-device-name = නම
+media-device-group = සමුහය
+media-device-vendor = සම්පාදක
+media-device-state = තත්වය
+media-device-preferred = කැමති
+media-device-format = හැඩසවිය
+intl-os-title = මෙහෙයුම් පද්ධතිය
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -140,11 +150,13 @@ hardware-h264 = දෘඩාංග H264 විකේතණය
 main-thread-no-omtc = ප්‍රධාන තීරය, OMTC නොමැත
 yes = ඔව්
 no = නැහැ
+unknown = නොදන්නා
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
 ## not found.
 
+found = හමුවුණි
 gpu-description = විස්තරය
 gpu-vendor-id = නිශ්පාදක ID
 gpu-device-id = උපාංග ID
@@ -154,6 +166,12 @@ gpu-ram = RAM
 gpu-driver-version = ධාවක නිකුතුව
 gpu-driver-date = ධාවක දිනය
 gpu-active = සක්‍රීය
+webgl1-version = WebGL 1 ධාවක අනුවාදය
+webgl1-driver-extensions = WebGL 1 ධාවක දිගු
+webgl1-extensions = WebGL 1 දිගු
+webgl2-version = WebGL 2 ධාවක අනුවාදය
+webgl2-driver-extensions = WebGL 2 ධාවක දිගු
+webgl2-extensions = WebGL 2 දිගු
 glcontext-crash-guard = OpenGL
 min-lib-versions = බලාපොරුත්තුවන අවම නිකුතුව
 loaded-lib-versions = දැනට භාවිතා වන නිකුතුව
@@ -164,6 +182,8 @@ has-privileged-user-namespaces = බලලත් ක්‍රියාවලි�
 can-sandbox-content = අන්තර්ගත සැකසුම් සෑන්ඩ්බොක්ස්කරණය
 can-sandbox-media = මාධ්‍ය ප්ලගින සෑන්ඩ්බොක්ස්කරණය
 sandbox-proc-type-content = අන්තර්ගතය
+launcher-process-status-0 = සක්‍රීය කළ
+launcher-process-status-unknown = නොදන්නා තත්වයකි
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -181,6 +201,7 @@ apz-none = නොමැත
 wheel-enabled = රෝද ආදාන සක්‍රීයයි
 touch-enabled = ස්පර්ශ ආදාන සක්‍රීයයි
 drag-enabled = ස්ක්‍රෝල් තීරු ඇදීම සක්‍රීයයි
+keyboard-enabled = යතුරුපුවරුව සක්‍රීය
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
@@ -190,3 +211,6 @@ touch-warning = සහය නොදක්වන අභිප්‍රේයක�
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+policies-inactive = අක්‍රීය
+policies-active = සක්‍රීය
+policies-error = දෝෂය
