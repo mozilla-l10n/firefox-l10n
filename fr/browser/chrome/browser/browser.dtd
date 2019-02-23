@@ -996,7 +996,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Cookies">
 <!ENTITY contentBlocking.cookiesView.label "Cookies et données de sites">
 
+<!ENTITY contentBlocking.cryptominers.label "Mineurs de cryptomonnaies">
+<!ENTITY contentBlocking.cryptominersView.label "Mineurs de cryptomonnaies">
 
+<!ENTITY contentBlocking.fingerprinters.label "Détecteurs d’empreinte numérique">
+<!ENTITY contentBlocking.fingerprintersView.label "Détecteurs d’empreinte numérique">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Signaler un problème">
 <!ENTITY contentBlocking.breakageReportView.label "Signaler des problèmes">
