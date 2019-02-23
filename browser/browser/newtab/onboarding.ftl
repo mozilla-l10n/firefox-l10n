@@ -26,7 +26,7 @@ onboarding-addons-text = Thêm nhiều tính năng hơn để { -brand-short-nam
 onboarding-ghostery-title = Ghostery
 onboarding-ghostery-text = Duyệt nhanh hơn, thông minh hơn hoặc an toàn hơn với các tiện ích mở rộng như Ghostery, cho phép bạn chặn quảng cáo gây phiền nhiễu.
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
-onboarding-fxa-title = Đồng bộ
+onboarding-fxa-title = Đồng bộ hóa
 onboarding-fxa-text = Đăng ký tài khoản { -fxaccount-brand-name } để đồng bộ dấu trang, mật khẩu và các thẻ đang mở của bạn khi sử dụng { -brand-short-name } ở mọi nơi.
 
 ## Message strings belonging to the Return to AMO flow

@@ -50,7 +50,7 @@
 
 <!ENTITY  securityTab           "Bảo mật">
 <!ENTITY  securityTab.accesskey "B">
-<!ENTITY  securityView.certView "Xem chứng thư">
+<!ENTITY  securityView.certView "Xem chứng chỉ">
 <!ENTITY  securityView.accesskey "C">
 <!ENTITY  securityView.unknown   "Không rõ">
 

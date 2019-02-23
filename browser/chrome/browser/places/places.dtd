@@ -50,7 +50,7 @@
 <!ENTITY cmd.open_window.accesskey       "S">
 <!ENTITY cmd.open_private_window.label     "Mở liên kết trong cửa sổ riêng tư mới">
 <!ENTITY cmd.open_private_window.accesskey "r">
-<!ENTITY cmd.open_tab.label              "Mở trong Thẻ Mới">
+<!ENTITY cmd.open_tab.label              "Mở trong thẻ mới">
 <!ENTITY cmd.open_tab.accesskey          "o">
 <!ENTITY cmd.open_all_in_tabs.label      "Mở toàn bộ trong thẻ">
 <!ENTITY cmd.open_all_in_tabs.accesskey  "B">
@@ -95,13 +95,13 @@
 
 <!ENTITY view.label               "Xem">
 <!ENTITY view.accesskey           "e">
-<!ENTITY byDate.label             "theo Ngày tháng">
+<!ENTITY byDate.label             "Theo ngày">
 <!ENTITY byDate.accesskey         "N">
-<!ENTITY bySite.label             "theo Tên miền">
+<!ENTITY bySite.label             "Theo trang web">
 <!ENTITY bySite.accesskey         "T">
 <!ENTITY byMostVisited.label      "Theo lần truy cập nhiều nhất">
 <!ENTITY byMostVisited.accesskey  "V">
 <!ENTITY byLastVisited.label      "Theo lần truy cập cuối">
 <!ENTITY byLastVisited.accesskey  "L">
-<!ENTITY byDayAndSite.label       "theo Ngày tháng và Tên miền">
+<!ENTITY byDayAndSite.label       "Theo ngày và trang web">
 <!ENTITY byDayAndSite.accesskey   "y">
