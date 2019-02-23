@@ -22,7 +22,7 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } er ved at blive opda
 update-manual = Opdateringer tilgængelige fra <label data-l10n-name="manual-link"/>
 update-unsupported = Du kan ikke foretage yderligere opdateringer på dette system.<label data-l10n-name="unsupported-link">Læs mere</label>
 update-restarting = Genstarter…
-channel-description = Du er i øjeblikket på opdateringskanalen: <label data-l10n-name="current-channel"></label>.{ " " }
+channel-description = Du er i øjeblikket på opdateringskanalen: <label data-l10n-name="current-channel"></label>.
 warningDesc-version = { -brand-short-name } er eksperimentel og kan være ustabil.
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> er et <label data-l10n-name="community-exp-creditsLink">globalt netværk</label>, der arbejder sammen om at holde internettet åbent, offentligt og tilgængeligt for alle.
 community-2 = { -brand-short-name } er udviklet af <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, et <label data-l10n-name="community-creditsLink">globalt netværk</label>, der arbejder sammen om at holde internettet åbent, offentligt og tilgængeligt for alle.
