@@ -4,7 +4,7 @@
 
 <!-- Values for changepassword.xul -->
 <!ENTITY setPassword.title  "Thay đổi Mật khẩu Chính">
-<!ENTITY setPassword.tokenName.label "Thiết bị Bảo mật">
+<!ENTITY setPassword.tokenName.label "Thiết bị bảo mật">
 <!ENTITY setPassword.oldPassword.label "Mật khẩu hiện tại:">
 <!ENTITY setPassword.newPassword.label "Mật khẩu mới:">
 <!ENTITY setPassword.reenterPassword.label "Mật khẩu mới (nhập lại):">
@@ -20,7 +20,6 @@
 <!ENTITY downloadCert.message1 "Bạn được hỏi có tin tưởng một CA (Bên thẩm định Chứng chỉ) mới hay không.">
 <!ENTITY downloadCert.trustSSL "Tin CA này để nhận diện các trang web.">
 <!ENTITY downloadCert.trustEmail "Tin CA này để nhận diện những người dùng email.">
-<!ENTITY downloadCert.trustObjSign "Tin CA để nhận diện các nhà phát triển phần mềm.">
 <!ENTITY downloadCert.message3 "Trước khi tin vào CA này với bất kì mục đích nào, bạn nên kiểm định chứng chỉ, điều khoản và thủ tục của nó (nếu có).">
 <!ENTITY downloadCert.viewCert.label "Xem">
 <!ENTITY downloadCert.viewCert.text "Kiểm định chứng chỉ của CA">

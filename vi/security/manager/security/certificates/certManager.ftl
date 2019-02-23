@@ -76,7 +76,7 @@ certmgr-cert-server =
 certmgr-override-lifetime =
     .label = Chu kì
 certmgr-token-name =
-    .label = Thiết bị Bảo mật
+    .label = Thiết bị bảo mật
 certmgr-begins-on = Bắt đầu
 certmgr-begins-label =
     .label = Bắt đầu
@@ -88,15 +88,15 @@ certmgr-expires-label =
 certmgr-expires-value =
     .value = { certmgr-expires-label.label }
 certmgr-email =
-    .label = Địa chỉ E-Mail
+    .label = Địa chỉ email
 certmgr-serial =
     .label = Số sê-ri
 certmgr-view =
     .label = Xem…
     .accesskey = e
 certmgr-edit =
-    .label = Chỉnh sửa Sự tin tưởng…
-    .accesskey = C
+    .label = Chỉnh sửa tin tưởng…
+    .accesskey = E
 certmgr-export =
     .label = Xuất…
     .accesskey = u
@@ -104,14 +104,14 @@ certmgr-delete =
     .label = Xóa…
     .accesskey = X
 certmgr-delete-builtin =
-    .label = Xóa hoặc Không tin…
-    .accesskey = X
+    .label = Xóa hoặc không tin tưởng…
+    .accesskey = D
 certmgr-backup =
     .label = Sao lưu…
     .accesskey = l
 certmgr-backup-all =
-    .label = Sao lưu Toàn bộ…
-    .accesskey = b
+    .label = Sao lưu toàn bộ…
+    .accesskey = k
 certmgr-restore =
     .label = Nhập…
     .accesskey = N
@@ -125,13 +125,13 @@ certmgr-hierarchy =
     .value = Cấp bậc chứng thực
     .accesskey = H
 certmgr-add-exception =
-    .label = Thêm Ngoại Lệ…
-    .accesskey = T
+    .label = Thêm ngoại lệ…
+    .accesskey = x
 exception-mgr =
-    .title = Thêm ngoại lệ Bảo mật
+    .title = Thêm ngoại lệ bảo mật
 exception-mgr-extra-button =
-    .label = Xác nhận Ngoại lệ Bảo mật
-    .accesskey = X
+    .label = Xác nhận ngoại lệ bảo mật
+    .accesskey = C
 exception-mgr-supplemental-warning = Ngân hàng, cửa hiệu và trang công cộng hợp pháp khác sẽ không yêu cầu bạn làm việc này.
 exception-mgr-cert-location-url =
     .value = Địa chỉ:
@@ -154,21 +154,21 @@ pkcs12-dup-data = Chứng chỉ và khóa cá nhân đã có sẵn trên thiết
 
 ## PKCS#12 file dialogs
 
-choose-p12-backup-file-dialog = Tên Tập Tin để Sao lưu
+choose-p12-backup-file-dialog = Tên tập tin để sao lưu
 file-browse-pkcs12-spec = Tập tin PKCS12
 choose-p12-restore-file-dialog = Chứng chỉ tập tin để nhập
 
 ## Import certificate(s) file dialog
 
 file-browse-certificate-spec = Tập tin chứng chỉ
-import-ca-certs-prompt = Chọn Tập Tin chứa (các) chứng chỉ của CA để nhập
+import-ca-certs-prompt = Chọn tập tin chứa (các) chứng chỉ CA để nhập
 import-email-cert-prompt = Chọn Tập Tin chứa chứng chỉ Email của ai đó để nhập
 
 ## For editing certificates trust
 
 # Variables:
 #   $certName: the name of certificate
-edit-trust-ca = Chứng chỉ "{ $certName }" đại diện cho một Nhà thẩm định Chứng chỉ.
+edit-trust-ca = Chứng chỉ "{ $certName }" đại diện cho một nhà thẩm định chứng chỉ.
 
 ## For Deleting Certificates
 
@@ -185,7 +185,7 @@ delete-ca-cert-title =
 delete-ca-cert-confirm = Bạn đã yêu cầu xóa các chứng chỉ CA này. Đối với chứng chỉ có sẵn, tất cả tin tưởng sẽ bị xóa, gây ra cùng hiệu ứng. Bạn có chắc bạn muốn xóa hoặc không tin tưởng?
 delete-ca-cert-impact = Nếu bạn xóa hoặc không tin tưởng một chứng chỉ của nhà thẩm định chứng chỉ (CA), ứng dụng này sẽ không còn tin bất kì chứng chỉ nào được cấp phát bởi CA đó.
 delete-email-cert-title =
-    .title = Xóa các Chứng chỉ E-Mail
+    .title = Xóa các chứng chỉ email
 delete-email-cert-confirm = Bạn có muốn xóa các chứng chỉ email của những người này không?
 delete-email-cert-impact = Nếu bạn xóa chứng chỉ email của một người, bạn sẽ không thể gửi e-mail mật hóa tới người đó được nữa.
 # Used for semi-uniquely representing a cert.
@@ -213,11 +213,11 @@ verify-ssl-client =
 verify-ssl-server =
     .value = Chứng chỉ SSL máy chủ
 verify-ssl-ca =
-    .value = Thẩm định Chứng chỉ SSL
+    .value = Chứng chỉ thẩm định SSL
 verify-email-signer =
-    .value = Chứng chỉ Bên kí Email
+    .value = Chứng chỉ bên kí email
 verify-email-recip =
-    .value = Chứng chỉ Bên nhận Email
+    .value = Chứng chỉ bên nhận email
 # Cert verification
 cert-not-verified-cert-revoked = Không thể xác minh chứng chỉ này vì nó đã bị thu hồi.
 cert-not-verified-cert-expired = Không thể xác minh chứng chỉ này vì nó đã hết hạn.
@@ -232,25 +232,25 @@ cert-not-verified-unknown = Không thể xác minh chứng chỉ này vì không
 
 add-exception-branded-warning = Bạn đang chuẩn bị thay thế cách { -brand-short-name } định danh trang này.
 add-exception-invalid-header = Trang này đang cố định danh chính nó bằng thông tin bất hợp lệ.
-add-exception-domain-mismatch-short = Sai Trang
+add-exception-domain-mismatch-short = Trang web sai
 add-exception-domain-mismatch-long = Chứng chỉ thuộc về một trang web khác, điều đó có thể có nghĩa là ai đó đang cố gắng mạo danh trang web này.
-add-exception-expired-short = Thông tin Lỗi thời
+add-exception-expired-short = Thông tin lỗi thời
 add-exception-expired-long = Chứng chỉ hiện không hợp lệ. Nó có thể đã bị đánh cắp hoặc bị mất và có thể được sử dụng bởi ai đó để mạo danh trang web này.
-add-exception-unverified-or-bad-signature-short = Định danh chưa biết
+add-exception-unverified-or-bad-signature-short = Không xác định nhận dạng
 add-exception-unverified-or-bad-signature-long = Chứng chỉ không đáng tin vì không được chứng thực bằng chữ kí bảo mật bởi một hãng đã biết.
 add-exception-valid-short = Chứng chỉ hợp lệ
 add-exception-valid-long = Trang này cung cấp định danh hợp lệ, đã được xác minh. Không cần phải thêm ngoại lệ.
-add-exception-checking-short = Đang kiểm tra Thông tin
+add-exception-checking-short = Đang kiểm tra thông tin
 add-exception-checking-long = Đang cố gắng nhận dạng trang web này…
-add-exception-no-cert-short = Không có Thông tin Hiện hữu
+add-exception-no-cert-short = Không có thông tin
 add-exception-no-cert-long = Không thể có được trạng thái nhận dạng cho trang web này.
 
 ## Certificate export "Save as" and error dialogs
 
 save-cert-as = Lưu chứng chỉ vào tập tin
-cert-format-base64 = X.509 Chứng chỉ (PEM)
-cert-format-base64-chain = X.509 Chứng chỉ có mạch chuỗi (PEM)
-cert-format-der = X.509 Chứng chỉ (DER)
-cert-format-pkcs7 = X.509 Chứng chỉ (PKCS#7)
-cert-format-pkcs7-chain = X.509 Chứng chỉ có mạch chuỗi (PKCS#7)
-write-file-failure = Lỗi Tập Tin
+cert-format-base64 = Chứng chỉ X.509 (PEM)
+cert-format-base64-chain = Chứng chỉ có mạch chuỗi X.509 (PEM)
+cert-format-der = Chứng chỉ X.509 (DER)
+cert-format-pkcs7 = Chứng chỉ X.509 (PKCS#7)
+cert-format-pkcs7-chain = Chứng chỉ có mạch chuỗi X.509 (PKCS#7)
+write-file-failure = Lỗi tập tin
