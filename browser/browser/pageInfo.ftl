@@ -19,12 +19,17 @@ media-object = Oggetto
 media-embed = Incorporato
 media-link = Icona
 media-input = Input
+media-video = Video
+media-audio = Audio
 saved-passwords-yes = Sì
 saved-passwords-no = No
+no-page-title =
+    .value = Pagina senza nome:
 general-quirks-mode =
     .value = Quirks mode
 general-strict-mode =
     .value = Modalità rispetto standard
+security-no-owner = Non sono disponibili informazioni sul proprietario di questo sito web.
 media-unknown-not-cached =
     .value = Sconosciuto (non in cache)
 security-no-visits = No
@@ -49,6 +54,11 @@ media-dimensions-scaled =
 #   $dimy (number) - The vertical size of an image
 media-dimensions =
     .value = { $dimx }px × { $dimy }px
+# This string is used to display the size of a media
+# file in kilobytes
+# Variables:
+#   $size (number) - The size of the media file in kilobytes
+media-file-size = { $size } kB
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 # Variables:
