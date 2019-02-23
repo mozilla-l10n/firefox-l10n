@@ -275,7 +275,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.viewSiteInfo.label                      "Vider le informationes del sito">
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Aperir le pannello de messages">
-<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Aperi le pannello de requesta de geolocalisation">
+<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Aperir le pannello de requesta de geolocalisation">
 <!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "Aperir le pannello de presentation automatic">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Aperir le pannello de messages de installation de additivos">
 <!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Gere le permission de extraction del canevas">
