@@ -512,7 +512,7 @@ sync-device-name-save =
     .accesskey = u
 sync-mobilepromo-single = Kết nối thiết bị khác
 sync-mobilepromo-multi = Quản lý các thiết bị
-sync-tos-link = Điều khoản Dịch vụ
+sync-tos-link = Điều khoản dịch vụ
 sync-fxa-privacy-notice = Chính sách riêng tư
 
 ## Privacy Section
@@ -736,7 +736,7 @@ permissions-block-popups =
     .label = Chặn các cửa sổ bật lên
     .accesskey = B
 permissions-block-popups-exceptions =
-    .label = Ngoại lệ…
+    .label = Ngoại trừ…
     .accesskey = E
 permissions-addon-install-warning =
     .label = Cảnh báo khi trang web cố gắng cài đặt tiện ích

@@ -4,9 +4,9 @@
 
 password-not-set =
     .value = (chưa đặt)
-failed-pw-change = Không thể thay đổi Mật khẩu chính.
+failed-pw-change = Không thể thay đổi mật khẩu chính.
 incorrect-pw = Bạn đã không nhập đúng Mật khẩu chính hiện tại. Hãy thử lại.
-pw-change-ok = Đã thay đổi Mật khẩu chính.
+pw-change-ok = Đã thay đổi mật khẩu chính thành công.
 pw-empty-warning = Các mật khẩu web và email, dữ liệu biểu mẫu, và các khóa cá nhân của bạn sẽ không được bảo vệ.
 pw-erased-ok = Bạn đã xóa Mật khẩu chính của mình. { pw-empty-warning }
 pw-not-wanted = Cảnh báo! Bạn vừa quyết định không dùng Mật khẩu chính. { pw-empty-warning }
@@ -16,7 +16,7 @@ pw-change-failed-title = Thay đổi mật khẩu thất bại
 pw-remove-button =
     .label = Xóa
 set-password =
-    .title = Thay đổi Mật khẩu chính
+    .title = Thay đổi mật khẩu chính
 set-password-old-password = Mật khẩu hiện tại:
 set-password-new-password = Nhập mật khẩu mới:
 set-password-reenter-password = Nhập lại mật khẩu mới:
