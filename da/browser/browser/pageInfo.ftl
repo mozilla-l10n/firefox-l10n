@@ -31,6 +31,8 @@ general-referrer =
     .value = Henvisende URL:
 general-modified =
     .value = Ændret:
+general-encoding =
+    .value = Tegnkodning:
 general-meta-name =
     .label = Navn
 general-meta-content =
@@ -93,6 +95,8 @@ security-view-privacy-viewpasswords =
     .accesskey = a
 security-view-technical =
     .value = Tekniske detaljer
+help-button =
+    .label = Hjælp
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
