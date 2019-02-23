@@ -31,6 +31,9 @@ profiles-remove = 削除
 profiles-set-as-default = 既定のプロファイルに設定
 profiles-launch-profile = プロファイルを別のプロセスで起動
 
+profiles-cannot-set-as-default-title = 既定に設定できません
+profiles-cannot-set-as-default-message = { -brand-short-name } の既定のプロファイルは変更できません。
+
 profiles-yes = はい
 profiles-no = いいえ
 
