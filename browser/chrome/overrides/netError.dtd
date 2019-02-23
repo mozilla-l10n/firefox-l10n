@@ -129,7 +129,7 @@ was trying to connect. -->
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Không thể hiển thị được trang mà bạn muốn xem vì có lỗi trong truyền tải dữ liệu.</p><ul><li>Vui lòng liên hệ chủ trang web để báo họ về vấn đề này.</li></ul>">
 
 
-<!ENTITY securityOverride.exceptionButtonLabel "Thêm ngoại Lệ…">
+<!ENTITY securityOverride.exceptionButtonLabel "Thêm ngoại lệ…">
 <!ENTITY securityOverride.exceptionButton1Label "Chấp nhận rủi ro và tiếp tục">
 
 <!ENTITY errorReporting.automatic2 "Báo cáo những lỗi như thế này để giúp Mozilla nhận diện và chặn những trang độc hại">
