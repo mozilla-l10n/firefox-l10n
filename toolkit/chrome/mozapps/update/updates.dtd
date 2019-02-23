@@ -22,7 +22,7 @@
                                            Não irá voltar a ver este aviso novamente, mas pode obter">
 <!ENTITY  unsupportedLink.label           "mais informações.">
 
-<!ENTITY  clickHere.label                 "Saber mais informações sobre esta atualização">
+<!ENTITY  clickHere.label                 "Ver mais informação acerca desta atualização">
 
 <!ENTITY  evangelism.desc                 "Recomendamos que aplique esta atualização do &brandShortName; o mais depressa possível.">
 
@@ -68,3 +68,4 @@
 <!ENTITY  update.details.label            "Detalhes">
 <!ENTITY  update.installedOn.label        "Instalada em:">
 <!ENTITY  update.status.label             "Estado:">
+

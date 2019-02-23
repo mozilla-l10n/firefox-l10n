@@ -8,7 +8,7 @@
 <!ENTITY blocklist.softblocked       "Para sua proteção, é altamente recomendável que reinicie com estes extras desativados.">
 <!ENTITY blocklist.hardblocked       "Estes extras possuem uma grande probabilidade de causar problemas de estabilidade ou segurança e foram bloqueados, mas é necessário reiniciar para os desativar completamente.">
 <!ENTITY blocklist.softandhard       "Os extras que possuem um alto risco de causar problemas de estabilidade ou segurança foram bloqueados. Os restantes são de baixo risco, mas é altamente recomendável que reinicie com os extras desativados.">
-<!ENTITY blocklist.moreinfo          "Mais informações">
+<!ENTITY blocklist.moreinfo          "Mais informação">
 
 <!ENTITY blocklist.accept.label      "Reiniciar o &brandShortName;">
 <!ENTITY blocklist.accept.accesskey  "R">
