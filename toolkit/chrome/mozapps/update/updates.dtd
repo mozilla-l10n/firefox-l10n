@@ -20,7 +20,7 @@
 <!ENTITY  unsupported.label               "O seu &brandShortName; está desatualizado, mas a versão mais recente não é
                                            suportada no seu sistema. Por favor atualize o seu sistema e tente novamente.
                                            Não irá voltar a ver este aviso novamente, mas pode obter">
-<!ENTITY  unsupportedLink.label           "mais informações.">
+<!ENTITY  unsupportedLink.label           "saiba mais.">
 
 <!ENTITY  clickHere.label                 "Ver mais informação acerca desta atualização">
 
