@@ -3,9 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sync-disconnect-dialog =
-    .title = Ngắt kết nối{ -sync-brand-short-name }
+    .title = Ngắt kết nối { -sync-brand-short-name }?
     .style = width: 36em; min-height: 35em;
-sync-disconnect-heading = Bạn có muốn xóa dữ liệu trình duyệt trên máy tính này? Dữ liệu { -sync-brand-name } của bạn sẽ vẫn còn trong tài khoản của bạn. 
+sync-disconnect-heading = Bạn có muốn xóa dữ liệu trình duyệt trên máy tính này? Dữ liệu { -sync-brand-name } của bạn sẽ vẫn còn trong tài khoản của bạn.
 sync-disconnect-remove-sync-caption = Xóa dữ liệu { -sync-brand-name }
 sync-disconnect-remove-sync-data = Dấu trang, lịch sử, mật khẩu, v.v.
 sync-disconnect-remove-other-caption = Xóa các dữ liệu riêng tư khác
