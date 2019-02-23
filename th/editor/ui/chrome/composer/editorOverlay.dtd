@@ -46,6 +46,10 @@
 <!ENTITY insertCharsCmd.accesskey "อ">
 
 <!-- Used just in context popup. -->
+<!ENTITY createLinkCmd.label "สร้างลิงก์…">
+<!ENTITY createLinkCmd.accesskey "ส">
+<!ENTITY editLinkCmd.label "แก้ไขลิงก์ในตัวเขียนใหม่">
+<!ENTITY editLinkCmd.accesskey "ก">
 
 <!-- Font Face SubMenu -->
 <!ENTITY FontFaceSelect.tooltip "เลือกแบบอักษร">
