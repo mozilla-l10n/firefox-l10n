@@ -35,6 +35,8 @@ general-meta-name =
     .label = Navn
 general-meta-content =
     .label = Indhold
+media-location =
+    .value = Adresse:
 media-text =
     .value = Associeret tekst:
 media-alt-header =
@@ -117,6 +119,8 @@ general-strict-mode =
     .value = Standardoverholdelsestilstand
 security-no-owner = Dette websted leverer ingen ejerskabsinformation.
 media-select-folder = Vælg en mappe hvor billederne gemmes
+media-unknown-not-cached =
+    .value = Ukendt (ikke i cache)
 security-no-visits = Nej
 # This string is used to display the type of
 # an image
