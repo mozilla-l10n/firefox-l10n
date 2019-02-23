@@ -156,7 +156,7 @@ pkcs12-dup-data = 証明書と秘密鍵はすでにセキュリティデバイ�
 
 choose-p12-backup-file-dialog = バックアップファイル名
 file-browse-pkcs12-spec = PKCS12 のファイル
-choose-p12-restore-file-dialog = 読み込む証明書ファイル
+choose-p12-restore-file-dialog = インポートする証明書ファイル
 
 ## Import certificate(s) file dialog
 
@@ -230,7 +230,7 @@ cert-not-verified-unknown = 原因不明の問題により、この証明書の�
 
 ## Add Security Exception dialog
 
-add-exception-branded-warning = 例外的に信頼する証明書としてこのサイトの証明書を登録しようとしています。
+add-exception-branded-warning = { -brand-short-name } が例外的に信頼する証明書としてこのサイトの証明書を登録しようとしています。
 add-exception-invalid-header = このサイトでは不正な証明書が使用されており、サイトの識別情報を確認できません。
 add-exception-domain-mismatch-short = 他のサイトの証明書です
 add-exception-domain-mismatch-long = 他のサイト用の証明書が使われています。誰かがこのサイトを偽装しようとしています。
