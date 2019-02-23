@@ -19,6 +19,8 @@ close-window =
 general-tab =
     .label = Generelt
     .accesskey = G
+general-title =
+    .value = Titel:
 general-url =
     .value = Adresse:
 general-type =
@@ -87,9 +89,16 @@ security-view-identity-domain =
     .value = Websted:{ " " }
 security-view-identity-verifier =
     .value = Bekræftet af:{ " " }
+security-view-identity-validity =
+    .value = Udløber:
 security-view-privacy =
     .value = Privatliv & Historik
 security-view-privacy-history-value = Har jeg besøgt dette websted før?
+security-view-privacy-sitedata-value = Gemmer dette websted informationer på min computer?
+security-view-privacy-clearsitedata =
+    .label = Ryd cookies og websteds-data
+    .accesskey = R
+security-view-privacy-passwords-value = Har jeg gemt nogen adgangskoder til dette websted?
 security-view-privacy-viewpasswords =
     .label = Vis gemte adgangskoder
     .accesskey = a
@@ -104,6 +113,10 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-cookies = Ja, cookies og { $value } { $unit } websteds-data
+security-site-data-only = Ja, { $value } { $unit } websteds-data
+security-site-data-cookies-only = Ja, cookies
+security-site-data-no = Nej
 image-size-unknown = Ukendt
 not-set-verified-by = Ikke angivet
 not-set-alternative-text = Ikke angivet
