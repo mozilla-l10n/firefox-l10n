@@ -8,6 +8,9 @@
 ### given Firefox channel". These terms are not synonymous.
 
 title = ข่าวสำคัญ
+heading = การเปลี่ยนแปลงกับโปรไฟล์ { -brand-short-name } ของคุณ
+changed-title = อะไรเปลี่ยนไปบ้าง
+changed-desc-profiles = การติดตั้ง { -brand-short-name } นี้มีโปรไฟล์ใหม่ โปรไฟล์คือชุดของไฟล์ที่ Firefox บันทึกข้อมูล เช่น ที่คั่นหน้า รหัสผ่าน และค่ากำหนดของผู้ใช้
 resources = ทรัพยากร:
 sync-header = ลงชื่อเข้าหรือสร้าง { -fxaccount-brand-name }
 sync-label = ป้อนอีเมลของคุณ
