@@ -13,6 +13,9 @@ about-config-pref-save = Αποθήκευση
 about-config-pref-reset = Επαναφορά
 about-config-pref-delete = Διαγραφή
 
+## Labels for the type selection radio buttons shown when adding preferences.
+
+
 ## Preferences with a non-default value are differentiated visually, and at the
 ## same time the state is made accessible to screen readers using an aria-label
 ## that won't be visible or copied to the clipboard.
