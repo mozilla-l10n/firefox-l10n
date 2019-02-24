@@ -79,9 +79,6 @@ extension-controlled-default-search = Iin extensión, <img data-l10n-name="icon"
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = Iin extensión, <img data-l10n-name="icon"/> { $name }, tsiniñui xikua.
-# This string is shown to notify the user that their tracking protection preferences
-# are being controlled by an extension.
-extension-controlled-websites-tracking-protection-mode = Iin extensión, <img data-l10n-name="icon"/> { $name }, tsasia ña nduku.
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
 extension-controlled-websites-content-blocking-all-trackers = Iin extensión, <img data-l10n-name="icon"/> { $name }, Tsasia nu samu nixi sachuin.
@@ -137,6 +134,8 @@ download-choose-folder =
         }
 applications-header = Aplicaciones
 play-drm-content-learn-more = Skua'a kuakaa
+update-application-title = { -brand-short-name } ña tsaá
+update-application-version = Versión { $version } <a data-l10n-name="learn-more">Nchi yee</a>
 
 ## General Section - Performance
 
@@ -256,12 +255,6 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-learn-more = Skua'a kuakaa
-sitedata-accept-third-party-always-option =
-    .label = Ntikiì
-sitedata-accept-third-party-visited-option =
-    .label = Ña ntsinu
-sitedata-accept-third-party-never-option =
-    .label = Miki
 sitedata-clear =
     .label = Stoó tutu
     .accesskey = S
@@ -283,19 +276,9 @@ addressbar-locbar-openpage-option =
 
 ## Privacy Section - Content Blocking
 
-content-blocking-toggle-label-on = Ndatu'un
-    .accesskey = N
-content-blocking-toggle-label-off = Ndava
-    .accesskey = N
 
 ## Privacy Section - Tracking
 
-tracking-mode-always =
-    .label = Ntikiì
-    .accesskey = N
-tracking-mode-never =
-    .label = Mikíi
-    .accesskey = M
 
 ## Privacy Section - Permissions
 
@@ -310,6 +293,7 @@ permissions-microphone = Micrófono
 permissions-microphone-settings =
     .label = Ndasama...
     .accesskey = t
+permissions-notification = Tu'un
 permissions-notification-settings =
     .label = Ndasama...
     .accesskey = d
@@ -346,4 +330,7 @@ collection-backlogged-crash-reports-link = Kavi
 security-enable-safe-browsing-link = Skua'a kuakaa
 
 ## Privacy Section - Certificates
+
+
+## The following strings are used in the Download section of settings
 

@@ -10,3 +10,6 @@
 
 # Movie: Logan's Run... Box (cyborg): "Welcome Humans! I am ready for you."
 error-title-text = ¡Taku nivi!
+# Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
+error-try-again = Ki'tsàa tuku
+    .label2 = Ma katuvu tuku.

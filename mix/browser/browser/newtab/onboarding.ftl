@@ -19,3 +19,8 @@ onboarding-private-browsing-title = Nduku seé
 onboarding-screenshots-title = Nta'tava
 onboarding-addons-title = Komplementos
 onboarding-ghostery-title = Ghostery
+# Note: "Sync" in this case is a generic verb, as in "to synchronize"
+onboarding-fxa-title = Sync
+
+## Message strings belonging to the Return to AMO flow
+
