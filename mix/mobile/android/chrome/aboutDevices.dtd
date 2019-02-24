@@ -5,7 +5,7 @@
 <!ENTITY aboutDevices.title              "Kaa">
 <!ENTITY aboutDevices.header             "Kaa meu">
 <!ENTITY aboutDevices.refresh            "Nta tsàa">
-<!ENTITY aboutDevices.addDeviceHeader    "Chika´a iin kaa">
+<!ENTITY aboutDevices.addDeviceHeader    "Chika´a iin kaa ndusu">
 <!ENTITY aboutDevices.roku               "Roku">
 <!ENTITY aboutDevices.chromecast         "Chromecast">
 <!-- Localization note (aboutDevices.placeholder): this is the hint shown to the
