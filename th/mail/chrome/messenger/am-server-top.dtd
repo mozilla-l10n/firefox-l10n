@@ -20,6 +20,17 @@
                 biffStart.label "every"
                 biffEnd.label   "minutes for new messages Check"
 -->
+<!ENTITY biffStart.label "ตรวจสอบข้อความใหม่ทุก ๆ ">
+<!ENTITY biffStart.accesskey "ต">
+<!ENTITY biffEnd.label "นาที">
+<!ENTITY connectionSecurity.label "ความปลอดภัยในการเชื่อมต่อ:">
+<!ENTITY connectionSecurity.accesskey "ค">
+<!ENTITY connectionSecurityType-0.label "ไม่มี">
+<!ENTITY connectionSecurityType-1.label "STARTTLS หากพร้อมใช้งาน">
+<!ENTITY connectionSecurityType-2.label "STARTTLS">
+<!ENTITY connectionSecurityType-3.label "SSL/TLS">
+<!ENTITY authMethod.label "วิธีการรับรองความถูกต้อง:">
+<!ENTITY authMethod.accesskey "ว">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
