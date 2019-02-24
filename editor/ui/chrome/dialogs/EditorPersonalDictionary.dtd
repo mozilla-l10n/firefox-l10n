@@ -6,15 +6,15 @@
 <!ENTITY windowTitle.label "Từ điển cá nhân">
 
 <!ENTITY wordEditField.label "Từ mới:">
-<!ENTITY wordEditField.accessKey "m">
+<!ENTITY wordEditField.accessKey "N">
 <!ENTITY AddButton.label "Thêm">
-<!ENTITY AddButton.accessKey "T">
+<!ENTITY AddButton.accessKey "A">
 <!ENTITY DictionaryList.label "Các từ trong từ điển:">
-<!ENTITY DictionaryList.accessKey "t">
+<!ENTITY DictionaryList.accessKey "W">
 <!ENTITY ReplaceButton.label "Thay thế">
-<!ENTITY ReplaceButton.accessKey "y">
+<!ENTITY ReplaceButton.accessKey "R">
 <!ENTITY RemoveButton.label "Xóa">
-<!ENTITY RemoveButton.accessKey "X">
+<!ENTITY RemoveButton.accessKey "e">
 
 <!ENTITY CloseButton.label "Đóng">
-<!ENTITY CloseButton.accessKey "g">
+<!ENTITY CloseButton.accessKey "C">

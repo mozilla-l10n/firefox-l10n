@@ -5,13 +5,13 @@
 <!-- Window title -->
 <!ENTITY windowTitle.label "Thuộc tính trang">
 <!ENTITY location.label "Địa chỉ:">
-<!ENTITY lastModified.label "Sửa đổi Mới nhất:">
+<!ENTITY lastModified.label "Sửa đổi lần cuối:">
 <!ENTITY titleInput.label "Tiêu đề:">
 <!ENTITY titleInput.accessKey "T">
 <!ENTITY authorInput.label "Tác giả:">
-<!ENTITY authorInput.accessKey "c">
+<!ENTITY authorInput.accessKey "A">
 <!ENTITY descriptionInput.label "Mô tả:">
-<!ENTITY descriptionInput.accessKey "M">
+<!ENTITY descriptionInput.accessKey "D">
 <!ENTITY locationNewPage.label "[Trang mới, chưa lưu]">
 <!ENTITY EditHEADSource1.label "Người dùng nâng cao:">
-<!ENTITY EditHEADSource2.label "Để chỉnh sửa nội dung của phần &lt;head&gt;, hãy dùng &quot;Mã nguồn HTML&quot; trên Trình đơn Hiển thị hoặc Thanh công cụ Chế độ Chỉnh sửa.">
+<!ENTITY EditHEADSource2.label "Để chỉnh sửa nội dung của phần &lt;đầu&gt;, hãy dùng &quot;mã nguồn HTML&quot; trên menu Hiển thị hoặc thanh công cụ của chế độ chỉnh sửa.">

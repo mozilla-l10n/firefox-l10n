@@ -2,23 +2,23 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY windowTitle.label "Thuộc tính Trường của Biểu mẫu">
-<!ENTITY windowTitleImage.label "Thuộc tính Hình ảnh Biểu mẫu">
+<!ENTITY windowTitle.label "Thuộc tính trường biểu mẫu">
+<!ENTITY windowTitleImage.label "Thuộc tính hình ảnh biểu mẫu">
 
-<!ENTITY InputType.label "Kiểu Trường">
-<!ENTITY InputType.accesskey "K">
+<!ENTITY InputType.label "Kiểu trường">
+<!ENTITY InputType.accesskey "T">
 <!ENTITY text.value "Văn bản">
 <!ENTITY password.value "Mật khẩu">
-<!ENTITY checkbox.value "Hộp Chọn">
-<!ENTITY radio.value "Nút Tròn">
-<!ENTITY submit.value "Nút Gửi">
-<!ENTITY reset.value "Nút Đặt Lại">
+<!ENTITY checkbox.value "Hộp chọn">
+<!ENTITY radio.value "Nút radio">
+<!ENTITY submit.value "Nút gửi">
+<!ENTITY reset.value "Nút đặt lại">
 <!ENTITY file.value "Tập tin">
 <!ENTITY hidden.value "Ẩn">
 <!ENTITY image.value "Hình">
 <!ENTITY button.value "Nút">
 
-<!ENTITY InputSettings.label "Thiết lập Trường">
+<!ENTITY InputSettings.label "Cài đặt trường">
 <!ENTITY InputName.label "Tên Trường:">
 <!ENTITY InputName.accesskey "T">
 <!ENTITY GroupName.label "Tên Nhóm:">
@@ -48,4 +48,3 @@
 
 <!ENTITY ImageProperties.label "Thuộc tính Hình ảnh…">
 <!ENTITY ImageProperties.accesskey "u">
-

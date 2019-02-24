@@ -7,12 +7,12 @@
 
 <!ENTITY size.label "Kích thước">
 <!ENTITY numRowsEditField.label "Hàng:">
-<!ENTITY numRowsEditField.accessKey "H">
+<!ENTITY numRowsEditField.accessKey "R">
 <!ENTITY numColumnsEditField.label "Cột:">
 <!ENTITY numColumnsEditField.accessKey "C">
 <!ENTITY widthEditField.label "Rộng:">
-<!ENTITY widthEditField.accessKey "R">
+<!ENTITY widthEditField.accessKey "W">
 <!ENTITY borderEditField.label "Viền:">
-<!ENTITY borderEditField.accessKey "V">
+<!ENTITY borderEditField.accessKey "B">
 <!ENTITY borderEditField.tooltip "Gõ một số để tạo đường viền bảng, hoặc gõ số không (0) để không tạo viền">
 <!ENTITY pixels.label "điểm ảnh">
