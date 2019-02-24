@@ -55,4 +55,4 @@
 <!ENTITY quitApplicationCmdUnix.accesskey  "F">
 
 <!ENTITY quitApplicationCmdMac.label  "Fermi &brandShortName;">
-<!ENTITY quitApplicationCmdMac.accesskey  "Q">
+<!ENTITY quitApplicationCmdMac.accesskey  "F">

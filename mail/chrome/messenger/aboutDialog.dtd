@@ -107,6 +107,6 @@
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
 <!ENTITY channel.description.start  "Vi nun estas en la ĝisdatiga kanalo ">
-<!ENTITY channel.description.end    " update channel. ">
+<!ENTITY channel.description.end    ". ">
 
 <!ENTITY cmdCloseMac.commandKey "w">
