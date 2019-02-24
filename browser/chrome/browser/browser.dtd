@@ -926,7 +926,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.managedevices.accesskey          "D">
 
 
-<!ENTITY syncBrand.shortName.label    "Đồng bộ">
+<!ENTITY syncBrand.shortName.label    "Đồng bộ hóa">
 
 <!ENTITY syncSignIn.label             "Đăng nhập vào &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "Y">
@@ -934,7 +934,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "Kết nối lại với &syncBrand.shortName.label;…">
 <!ENTITY syncReAuthItem.accesskey     "R">
-<!ENTITY syncToolbarButton.label      "Đồng bộ">
+<!ENTITY syncToolbarButton.label      "Đồng bộ hóa">
 
 <!ENTITY customizeMode.menuAndToolbars.header3 "Kéo mục yêu thích của bạn vào thanh công cụ hoặc bảng chọn.">
 <!ENTITY customizeMode.restoreDefaults "Khôi phục mặc định">
