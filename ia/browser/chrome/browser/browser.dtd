@@ -168,7 +168,7 @@ same accesskey but will never be visible at the same time. -->
 <!ENTITY toolbarContextMenu.undoCloseTab.label "Reaperir le ultime scheda claudite">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "u">
 
-<!ENTITY pageSourceCmd.label "Codice fonte del pagina">
+<!ENTITY pageSourceCmd.label "Codification fonte del pagina">
 <!ENTITY pageSourceCmd.accesskey "f">
 <!ENTITY pageSourceCmd.commandkey "u">
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
@@ -601,11 +601,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Recargar le quadro">
 <!ENTITY reloadFrameCmd.accesskey     "R">
-<!ENTITY viewPartialSourceForSelectionCmd.label "Vider le codice fonte del selection">
+<!ENTITY viewPartialSourceForSelectionCmd.label "Vider le codification fonte del selection">
 <!ENTITY viewPartialSourceCmd.accesskey "e">
-<!ENTITY viewPageSourceCmd.label      "Vider le codice fonte del pagina">
+<!ENTITY viewPageSourceCmd.label      "Vider le codification fonte del pagina">
 <!ENTITY viewPageSourceCmd.accesskey  "V">
-<!ENTITY viewFrameSourceCmd.label     "Vider le codice fonte del quadro">
+<!ENTITY viewFrameSourceCmd.label     "Vider le codification fonte del quadro">
 <!ENTITY viewFrameSourceCmd.accesskey "V">
 <!ENTITY viewPageInfoCmd.label        "Vider le informationes del pagina">
 <!ENTITY viewPageInfoCmd.accesskey    "I">

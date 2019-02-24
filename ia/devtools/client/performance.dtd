@@ -15,11 +15,6 @@
   -  is displayed as the tooltip for the buffer capacity during a recording. -->
 <!ENTITY performanceUI.bufferStatusTooltip "Le analysator de rendimento stocka specimenes in un tampon circular, un vice que le tampon attinge le limite de un registration, nove specimenes comencia a superscriber le specimenes in le comencio del registration.">
 
-<!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.nonE10SBuild): This string
-  -  is displayed as a message for why the real time overview graph is disabled
-  -  when running on a non-multiprocess build. -->
-<!ENTITY performanceUI.disabledRealTime.nonE10SBuild "Registration in tempore real inactivate in Firefox sin multiprocesso.">
-
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.disabledE10S): This string
   -  is displayed as a message for why the real time overview graph is disabled
   -  when running on a build that can run multiprocess Firefox, but just is not enabled. -->
@@ -29,7 +24,7 @@
   -  is displayed when the profiler's circular buffer has started to overlap. -->
 <!ENTITY performanceUI.bufferStatusFull "Le tampon is plen. Le specimenes le plus ancian es ora superscribite.">
 
-<!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
+<!-- LOCALIZATION NOTE (performanceUI.unavailableNoticePB): This is the label shown
   -  in the details view while the profiler is unavailable, for example, while
   -  in Private Browsing mode. -->
 <!ENTITY performanceUI.unavailableNoticePB "Le registration de profilo es actualmente indisponibile. Per favor claude tote le fenestras de navigation private e retenta.">
@@ -63,7 +58,7 @@
 <!ENTITY performanceUI.table.samples                  "Specimenes">
 <!ENTITY performanceUI.table.samples.tooltip          "Le numero de vices que iste function era in le pila quando le analysator de rendimento prendeva un specimen.">
 <!ENTITY performanceUI.table.function                 "Function">
-<!ENTITY performanceUI.table.function.tooltip         "Le nomine e le adresse del codice fonte del function prendite.">
+<!ENTITY performanceUI.table.function.tooltip         "Le nomine e le adresse del codification fonte del function prendite.">
 <!ENTITY performanceUI.table.totalAlloc               "Quantitate de allocationes prendite">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "Le numero total de allocationes de objectos prendite a iste loco e in appellates.">
 <!ENTITY performanceUI.table.selfAlloc                "Allocationes individual prendite">
