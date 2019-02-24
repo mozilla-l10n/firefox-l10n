@@ -67,17 +67,18 @@
  -->
 <!ENTITY updateApp.version.pre           "Version ">
 <!ENTITY updateApp.version.post          "">
+<!ENTITY updateAppAllow.description      "Giv &brandShortName; tilladelse til">
 <!ENTITY updateAuto.label                "Installer opdateringer automatisk (anbefalet, forbedrer sikkerheden)">
 <!ENTITY updateAuto.accesskey            "I">
 <!ENTITY updateCheck.label               "Søg efter opdateringer, men lad mig vælge om de skal installeres">
 <!ENTITY updateCheck.accesskey           "S">
-<!ENTITY updateManual.label              "Søg aldrig efter opdateringer (frarådes, sikkerhedsrisiko)">
-<!ENTITY updateManual.accesskey          "ø">
 <!ENTITY updateHistory.label             "Vis opdateringshistorik">
 <!ENTITY updateHistory.accesskey         "V">
 
 <!ENTITY useService.label                "Brug en baggrundsservice til at installere opdateringer">
 <!ENTITY useService.accesskey            "b">
+
+<!ENTITY updateCrossUserSettingWarning.description "Denne indstilling gælder for alle Windows-konti og &brandShortName;-profiler der bruger denne installation af &brandShortName;.">
 
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Indstillinger…">
