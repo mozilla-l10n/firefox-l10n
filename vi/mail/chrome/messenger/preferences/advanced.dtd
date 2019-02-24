@@ -3,25 +3,20 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label       "Tổng quát">
-<!ENTITY itemDisplay.label       "Đọc &amp; Hiển thị">
 <!ENTITY itemUpdate.label        "Cập nhật">
 <!ENTITY itemNetworking.label    "Mạng &amp; Dung lượng Đĩa">
 <!ENTITY itemCertificates.label  "Chứng thư">
 
 <!-- General Settings -->
-
-<!ENTITY submitTelemetry.label         "Gửi Dữ liệu Hiệu suất">
-<!ENTITY submitTelemetry.accesskey     "H">
-<!ENTITY telemetryInfoLink.label       "More information about Telemetry">
 <!ENTITY enableGlodaSearch.label       "Enable Global Search and Indexer">
 <!ENTITY enableGlodaSearch.accesskey   "q">
+
+
 <!ENTITY systemIntegration.label       "Tích hợp Hệ thống">
 <!ENTITY alwaysCheckDefault.label      "Luôn kiểm tra xem &brandShortName; có phải là chương trình gửi thư mặc định mỗi khi khởi chạy">
 <!ENTITY alwaysCheckDefault.accesskey  "L">
 <!ENTITY searchIntegration.label       "Cho phép &searchIntegration.engineName; tìm kiếm thư">
 <!ENTITY searchIntegration.accesskey   "t">
-<!ENTITY checkNow.label                "Kiểm tra Ngay">
-<!ENTITY checkNow.accesskey            "N">
 <!ENTITY configEditDesc.label          "Cấu hình Nâng cao">
 <!ENTITY configEdit.label              "Chỉnh sửa Cấu hình…">
 <!ENTITY configEdit.accesskey          "s">
@@ -29,50 +24,25 @@
 <!ENTITY showReturnReceipts.label      "Chứng nhận Hồi báo…">
 <!ENTITY showReturnReceipts.accesskey  "C">
 
-<!-- Display and Reading Settings -->
-<!ENTITY reading.caption               "Đọc">
-<!ENTITY display.caption               "Hiển thị">
-<!ENTITY showCondensedAddresses.label  "Chỉ hiện tên những người trong sổ địa chỉ của tôi">
-<!ENTITY showCondensedAddresses.accesskey "C">
+<!-- Data Choices -->
 
-<!ENTITY autoMarkAsRead.label          "Tự động đánh dấu thư là đã đọc">
-<!ENTITY autoMarkAsRead.accesskey      "T">
-<!ENTITY markAsReadNoDelay.label       "Ngay khi hiển thị thư">
-<!ENTITY markAsReadNoDelay.accesskey   "N">
-<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
-     "After displaying for [___] seconds",
-     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label         "Sau khi hiển thị">
-<!ENTITY markAsReadDelay.accesskey     "u">
-<!ENTITY secondsLabel.label            "giây">
-<!ENTITY openMsgIn.label               "Mở thư trong:">
-<!ENTITY openMsgInNewTab.label         "Một thẻ mới">
-<!ENTITY openMsgInNewTab.accesskey     "M">
-<!ENTITY reuseExpRadio0.label          "Một cửa sổ mới">
-<!ENTITY reuseExpRadio0.accesskey      "s">
-<!ENTITY reuseExpRadio1.label          "Một cửa sổ đang mở sẵn">
-<!ENTITY reuseExpRadio1.accesskey      "a">
-<!ENTITY closeMsgOnMoveOrDelete.label  "Đóng cửa sổ/thẻ khi xóa hoặc di chuyển thư">
-<!ENTITY closeMsgOnMoveOrDelete.accesskey "g">
 
 <!-- Update -->
-<!ENTITY autoCheck.label                "Tự động kiểm tra phiên bản mới của:">
-<!ENTITY enableAppUpdate.label          "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey      "h">
-<!ENTITY enableAddonsUpdate.label       "Tiện ích Đã cài">
-<!ENTITY enableAddonsUpdate.accesskey   "i">
-<!ENTITY whenUpdatesFound.label         "Khi tìm thấy các bản cập nhật của &brandShortName;,">
-<!ENTITY modeAskMe.label                "Hỏi tôi nên làm gì">
-<!ENTITY modeAskMe.accesskey            "H">
-<!ENTITY modeAutomatic.label            "Tự động tải xuống và cài đặt">
-<!ENTITY modeAutomatic.accesskey        "x">
-<!ENTITY modeAutoAddonWarn.label        "Cảnh báo tôi nếu điều này làm vô hiệu hóa bất kì tiện ích nào">
-<!ENTITY modeAutoAddonWarn.accesskey    "C">
-<!ENTITY showUpdates.label              "Hiển thị Lược sử Cập nhật">
-<!ENTITY showUpdates.accesskey          "L">
+<!-- LOCALIZATION NOTE (updateApp.label):
+  Strings from aboutDialog.dtd are displayed in this section of the preferences.
+  Please check for possible accesskey conflicts.
+-->
+<!-- LOCALIZATION NOTE (updateApp.version.*): updateApp.version.pre is
+  followed by a version number, keep the trailing space or replace it with
+  a different character as needed. updateApp.version.post is displayed after
+  the version number, and is empty on purpose for English. You can use it
+  if required by your language.
+ -->
+
+
 
 <!-- Networking and Disk Space -->
-<!ENTITY showSettings.label            "Thiết lập…">
+<!ENTITY showSettings.label            "Cài đặt…">
 <!ENTITY showSettings.accesskey        "p">
 <!ENTITY proxiesConfigure.label        "Cách thức &brandShortName; kết nối vào Internet">
 <!ENTITY connectionsInfo.caption       "Kết nối">
@@ -81,10 +51,7 @@
 <!ENTITY showOffline.label             "Ngoại tuyến…">
 <!ENTITY showOffline.accesskey         "o">
 
-<!ENTITY Diskspace "Dung lượng Đĩa">
-<!ENTITY offlineCompact.label "Làm gọn thư mục khi nó lưu hơn">
-<!ENTITY offlineCompact.accesskey "L">
-<!ENTITY mb.label "MB">
+<!ENTITY Diskspace                       "Dung lượng Đĩa">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
@@ -105,12 +72,5 @@
 <!ENTITY certs.ask                       "Hỏi tôi mỗi lần">
 <!ENTITY certs.ask.accesskey             "H">
 
-<!ENTITY viewCertificates.label         "Xem Chứng Thư">
-<!ENTITY viewCertificates.accesskey     "X">
-<!ENTITY viewCRLs.label                 "Danh sách Thu hồi">
-<!ENTITY viewCRLs.accesskey             "D">
-<!ENTITY validation.label               "Phê chuẩn">
-<!ENTITY validation.accesskey           "P">
-<!ENTITY viewSecurityDevices.label      "Thiết bị Bảo mật">
-<!ENTITY viewSecurityDevices.accesskey  "B">
-
+<!ENTITY viewSecurityDevices.label "Thiết bị Bảo mật">
+<!ENTITY viewSecurityDevices.accesskey "B">
