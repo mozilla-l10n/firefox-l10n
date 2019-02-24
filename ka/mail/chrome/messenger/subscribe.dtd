@@ -10,7 +10,7 @@
 <!ENTITY newGroupsTab.label           "ახალი ჯგუფები">
 <!ENTITY newGroupsTab.accesskey       "N">
 <!ENTITY refreshButton.label          "განახლება">
-<!ENTITY refreshButton.accesskey      "R">
+<!ENTITY refreshButton.accesskey      "ნ">
 <!ENTITY stopButton.label             "შეჩერება">
 <!ENTITY stopButton.accesskey         "T">
 <!ENTITY server.label                 "ანგარიში:">
