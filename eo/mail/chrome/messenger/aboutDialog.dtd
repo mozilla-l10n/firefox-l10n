@@ -9,14 +9,14 @@
 # The button when displayed is located directly under the Thunderbird version in
 # the about dialog.
 -->
-<!ENTITY update.checkForUpdatesButton.label       "Check for Updates">
-<!ENTITY update.checkForUpdatesButton.accesskey   "C">
+<!ENTITY update.checkForUpdatesButton.label       "Kontroli pri ĝisdatigoj">
+<!ENTITY update.checkForUpdatesButton.accesskey   "K">
 <!ENTITY update.updateButton.label3               "Restartigu por ĝisdatigi &brandShorterName;">
 <!ENTITY update.updateButton.accesskey            "R">
 
 
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly builds. It is only shown in this version. -->
-<!ENTITY warningDesc.version        "&brandShortName; is experimental and may be unstable.">
+<!ENTITY warningDesc.version        "&brandShortName; estas prova versio kaj povas esti nestabila.">
 <!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly builds automatically send Telemetry data back to Mozilla. It is only shown in this version. "It" refers to brandShortName. -->
 <!ENTITY warningDesc.telemetryDesc  "Ĝi aŭtomate sendas informojn pri efikeco, aparataro, uzo kaj personecigo al &vendorShortName; por helpi plibonigi &brandShortName;.">
 
@@ -24,10 +24,10 @@
 <!ENTITY community.exp.start        "">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to https://www.mozilla.org/. -->
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
-<!ENTITY community.exp.middle       " is a ">
+<!ENTITY community.exp.middle       " estas ">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
-<!ENTITY community.exp.creditsLink  "global community">
-<!ENTITY community.exp.end          " working together to keep the Web open, public and accessible to all.">
+<!ENTITY community.exp.creditsLink  "tutmonda komunumo,">
+<!ENTITY community.exp.end          " kiu kunlaboras por konservi la interreton malfermita, publika kaj alirebla por ĉiuj.">
 
 <!ENTITY community.start2           "&brandShortName; is designed by ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to https://www.mozilla.org/. -->
