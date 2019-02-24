@@ -2,42 +2,42 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY windowTitle.label "Thuộc tính Danh sách Chọn">
+<!ENTITY windowTitle.label "Thuộc tính danh sách chọn">
 
-<!ENTITY Select.label "Danh sách Chọn">
-<!ENTITY SelectName.label "Tên Danh sách:">
-<!ENTITY SelectName.accesskey "T">
-<!ENTITY SelectSize.label "Cao:">
-<!ENTITY SelectSize.accesskey "C">
-<!ENTITY SelectMultiple.label "Nhiều phần Chọn">
-<!ENTITY SelectMultiple.accesskey "N">
-<!ENTITY SelectDisabled.label "Bị vô hiệu">
-<!ENTITY SelectDisabled.accesskey "B">
-<!ENTITY SelectTabIndex.label "Chỉ mục Thẻ:">
-<!ENTITY SelectTabIndex.accesskey "m">
+<!ENTITY Select.label "Danh sách chọn">
+<!ENTITY SelectName.label "Tên danh sách:">
+<!ENTITY SelectName.accesskey "N">
+<!ENTITY SelectSize.label "Chiều cao:">
+<!ENTITY SelectSize.accesskey "H">
+<!ENTITY SelectMultiple.label "Nhiều lựa chọn">
+<!ENTITY SelectMultiple.accesskey "M">
+<!ENTITY SelectDisabled.label "Đã tắt">
+<!ENTITY SelectDisabled.accesskey "D">
+<!ENTITY SelectTabIndex.label "Chỉ mục thẻ:">
+<!ENTITY SelectTabIndex.accesskey "I">
 
-<!ENTITY OptGroup.label "Nhóm Tùy chọn">
+<!ENTITY OptGroup.label "Tùy chọn nhóm">
 <!ENTITY OptGroupLabel.label "Nhãn:">
-<!ENTITY OptGroupLabel.accesskey "N">
-<!ENTITY OptGroupDisabled.label "Bị vô hiệu">
-<!ENTITY OptGroupDisabled.accesskey "B">
+<!ENTITY OptGroupLabel.accesskey "L">
+<!ENTITY OptGroupDisabled.label "Đã tắt">
+<!ENTITY OptGroupDisabled.accesskey "D">
 
 <!ENTITY Option.label "Tùy chọn">
 <!ENTITY OptionText.label "Văn bản:">
-<!ENTITY OptionText.accesskey "V">
+<!ENTITY OptionText.accesskey "T">
 <!ENTITY OptionValue.label "Giá trị:">
-<!ENTITY OptionValue.accesskey "G">
-<!ENTITY OptionSelected.label "Được chọn Đầu tiên">
-<!ENTITY OptionSelected.accesskey "n">
-<!ENTITY OptionDisabled.label "Bị vô hiệu">
-<!ENTITY OptionDisabled.accesskey "B">
+<!ENTITY OptionValue.accesskey "V">
+<!ENTITY OptionSelected.label "Được chọn đầu tiên">
+<!ENTITY OptionSelected.accesskey "S">
+<!ENTITY OptionDisabled.label "Đã tắt">
+<!ENTITY OptionDisabled.accesskey "D">
 
 <!ENTITY TextHeader.label "Văn bản">
 <!ENTITY ValueHeader.label "Giá trị">
-<!ENTITY SelectedHeader.label "Được chọn">
+<!ENTITY SelectedHeader.label "Đã chọn">
 
-<!ENTITY AddOption.label "Thêm Tùy chọn">
-<!ENTITY AddOption.accesskey "T">
+<!ENTITY AddOption.label "Thêm tùy chọn">
+<!ENTITY AddOption.accesskey "O">
 <!ENTITY AddOptGroup.label "Thêm Nhóm">
 <!ENTITY AddOptGroup.accesskey "m">
 <!ENTITY RemoveElement.label "Xóa">
@@ -46,4 +46,3 @@
 <!ENTITY MoveElementUp.accesskey "L">
 <!ENTITY MoveElementDown.label "Chuyển Xuống">
 <!ENTITY MoveElementDown.accesskey "g">
-
