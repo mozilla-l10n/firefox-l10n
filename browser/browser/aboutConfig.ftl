@@ -2,6 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
+about-config-warning-title = Тут цмокі!
+about-config-warning-text = Змяненне прадвызначаных значэнняў гэтых пашыраных налад можа быць шкодным для ўстойлівасці, бяспекі і прадукцыйнасці гэтай праграмы. Вы павінны рабіць гэта толькі тады, калі ўпэўнены ў тым, што робіце.
+about-config-warning-checkbox = Нагадваць пра гэта ў наступны раз!
 about-config-warning-button = Я прымаю рызыку
 about-config-title = about:config
 about-config-search =
@@ -26,3 +30,7 @@ about-config-pref-add-type-string = Радок
 ## Variables:
 ##   $value (String): The full value of the preference.
 
+about-config-pref-accessible-value-default =
+    .aria-label = { $value } (прадвызначана)
+about-config-pref-accessible-value-custom =
+    .aria-label = { $value } (зменена)
