@@ -1,0 +1,14 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY settings.caption "การตั้งค่า">
+<!ENTITY serverName.label "ชื่อเซิร์ฟเวอร์:">
+<!ENTITY serverName.accesskey "ช">
+<!ENTITY serverDescription.label "คำอธิบาย:">
+<!ENTITY serverDescription.accesskey "ค">
+<!ENTITY serverPort.label "พอร์ต:">
+<!ENTITY serverPort.accesskey "พ">
+<!ENTITY userName.label "ชื่อผู้ใช้:">
+<!ENTITY userName.accesskey "อ">
+<!ENTITY serverPortDefault.label "ค่าเริ่มต้น:">
