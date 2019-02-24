@@ -6,22 +6,22 @@
 
 <!ENTITY replaceDialog.title "Tìm và thay thế">
 <!ENTITY findField.label "Tìm văn bản:">
-<!ENTITY findField.accesskey "m">
+<!ENTITY findField.accesskey "n">
 <!ENTITY replaceField.label "Thay thế bằng:">
 <!ENTITY replaceField.accesskey "a">
 <!ENTITY caseSensitiveCheckbox.label "Phân biệt HOA-thường">
-<!ENTITY caseSensitiveCheckbox.accesskey "A">
+<!ENTITY caseSensitiveCheckbox.accesskey "M">
 <!ENTITY wrapCheckbox.label "Bao lại xung quanh">
-<!ENTITY wrapCheckbox.accesskey "o">
-<!ENTITY backwardsCheckbox.label "Tìm ngược trở lại">
-<!ENTITY backwardsCheckbox.accesskey "l">
-<!ENTITY findNextButton.label "Tìm Tiếp">
-<!ENTITY findNextButton.accesskey "T">
+<!ENTITY wrapCheckbox.accesskey "W">
+<!ENTITY backwardsCheckbox.label "Tìm kiếm ngược">
+<!ENTITY backwardsCheckbox.accesskey "b">
+<!ENTITY findNextButton.label "Tìm tiếp">
+<!ENTITY findNextButton.accesskey "F">
 <!ENTITY replaceButton.label "Thay thế">
-<!ENTITY replaceButton.accesskey "h">
-<!ENTITY replaceAndFindButton.label "Thay thế và Tìm">
-<!ENTITY replaceAndFindButton.accesskey "v">
-<!ENTITY replaceAllButton.label "Thay thế Toàn bộ">
-<!ENTITY replaceAllButton.accesskey "b">
+<!ENTITY replaceButton.accesskey "R">
+<!ENTITY replaceAndFindButton.label "Thay thế và tìm">
+<!ENTITY replaceAndFindButton.accesskey "d">
+<!ENTITY replaceAllButton.label "Thay thế tất cả">
+<!ENTITY replaceAllButton.accesskey "A">
 <!ENTITY closeButton.label "Đóng">
-<!ENTITY closeButton.accesskey "n">
+<!ENTITY closeButton.accesskey "C">

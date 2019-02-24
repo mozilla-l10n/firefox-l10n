@@ -8,7 +8,7 @@
 <!ENTITY otherSubdir.label     "Thư mục con của hình:">
 
 <!ENTITY status.label          "Xuất bản…">
-<!ENTITY fileList.label        "Trạng thái Xuất bản">
+<!ENTITY fileList.label        "Trạng thái xuất bản">
 <!ENTITY succeeded.label       "Thành công">
 <!ENTITY failed.label          "Thất bại">
 

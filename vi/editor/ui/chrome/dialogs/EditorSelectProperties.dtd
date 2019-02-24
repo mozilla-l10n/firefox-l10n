@@ -38,11 +38,11 @@
 
 <!ENTITY AddOption.label "Thêm tùy chọn">
 <!ENTITY AddOption.accesskey "O">
-<!ENTITY AddOptGroup.label "Thêm Nhóm">
-<!ENTITY AddOptGroup.accesskey "m">
+<!ENTITY AddOptGroup.label "Thêm nhóm">
+<!ENTITY AddOptGroup.accesskey "G">
 <!ENTITY RemoveElement.label "Xóa">
-<!ENTITY RemoveElement.accesskey "X">
-<!ENTITY MoveElementUp.label "Chuyển Lên">
-<!ENTITY MoveElementUp.accesskey "L">
-<!ENTITY MoveElementDown.label "Chuyển Xuống">
-<!ENTITY MoveElementDown.accesskey "g">
+<!ENTITY RemoveElement.accesskey "R">
+<!ENTITY MoveElementUp.label "Chuyển lên">
+<!ENTITY MoveElementUp.accesskey "U">
+<!ENTITY MoveElementDown.label "Chuyển xuống">
+<!ENTITY MoveElementDown.accesskey "D">
