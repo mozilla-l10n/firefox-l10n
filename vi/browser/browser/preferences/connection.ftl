@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window =
-    .title = Thiết lập Kết nối
+    .title = Cài đặt kết nối
     .style =
         { PLATFORM() ->
             [macos] width: 44em
@@ -70,9 +70,6 @@ connection-proxy-socks-remote-dns =
 connection-dns-over-https =
     .label = Kích hoạt DNS qua HTTPS
     .accesskey = b
-connection-dns-over-https-url = URL
-    .accesskey = U
-    .tooltiptext = URL để phân giải DNS qua HTTPS
 # Variables:
 #   $url (String) - URL for the DNS over HTTPS provider
 connection-dns-over-https-url-default =
