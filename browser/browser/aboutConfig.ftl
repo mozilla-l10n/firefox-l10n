@@ -4,7 +4,7 @@
 
 # An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
 about-config-warning-title = ระวังมังกร!
-about-config-warning-text = การเปลี่ยนการตั้งค่าขั้นสูงเหล่านี้อาจเป็นอันตรายต่อความเสถียร ความปลอดภัย และประสิทธิภาพของแอปพลิเคชันนี้ คุณควรดำเนินการต่อเฉพาะเมื่อคุณแน่ใจว่าคุณกำลังทำอะไรอยู่เท่านั้น
+about-config-warning-text = การเปลี่ยนการตั้งค่าขั้นสูงเหล่านี้อาจเป็นอันตรายต่อเสถียรภาพ ความปลอดภัย และประสิทธิภาพของแอปพลิเคชันนี้ คุณควรดำเนินการต่อเฉพาะเมื่อคุณแน่ใจว่าคุณกำลังทำอะไรอยู่เท่านั้น
 about-config-warning-checkbox = ได้โปรดกวนฉันอีกที!
 about-config-warning-button = ฉันยอมรับความเสี่ยง
 about-config-title = about:config
