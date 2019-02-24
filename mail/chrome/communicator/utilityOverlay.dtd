@@ -4,25 +4,25 @@
 
 <!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
 
-<!ENTITY fileMenu.label          "File">
-<!ENTITY fileMenu.accesskey        "F">
-<!ENTITY newMenu.label            "New">
-<!ENTITY newMenu.accesskey          "N">
+<!ENTITY fileMenu.label          "Dosiero">
+<!ENTITY fileMenu.accesskey        "D">
+<!ENTITY newMenu.label            "Krei">
+<!ENTITY newMenu.accesskey          "K">
 
-<!ENTITY editMenu.label          "Edit">
-<!ENTITY editMenu.accesskey        "E">
-<!ENTITY undoCmd.label            "Undo">
+<!ENTITY editMenu.label          "Redakti">
+<!ENTITY editMenu.accesskey        "R">
+<!ENTITY undoCmd.label            "Malfari">
 <!ENTITY undoCmd.key            "Z">
-<!ENTITY undoCmd.accesskey          "U">
-<!ENTITY redoCmd.label            "Redo">
+<!ENTITY undoCmd.accesskey          "M">
+<!ENTITY redoCmd.label            "Refari">
 <!ENTITY redoCmd.key            "Y">
 <!ENTITY redoCmd.accesskey          "R">
-<!ENTITY cutCmd.label            "Cut">
+<!ENTITY cutCmd.label            "Eltondi">
 <!ENTITY cutCmd.key              "X">
 <!ENTITY cutCmd.accesskey          "t">
-<!ENTITY copyCmd.label            "Copy">
+<!ENTITY copyCmd.label            "Kopii">
 <!ENTITY copyCmd.key            "C">
-<!ENTITY copyCmd.accesskey          "C">
+<!ENTITY copyCmd.accesskey          "K">
 <!ENTITY pasteCmd.label            "Paste">
 <!ENTITY pasteCmd.key            "V">
 <!ENTITY pasteCmd.accesskey          "P">
