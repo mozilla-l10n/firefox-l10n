@@ -12,6 +12,8 @@
 <!ENTITY serverPort.accesskey "พ">
 <!ENTITY userName.label "ชื่อผู้ใช้:">
 <!ENTITY userName.accesskey "อ">
+<!ENTITY connectionSecurity.label "ความปลอดภัยในการเชื่อมต่อ:">
+<!ENTITY connectionSecurity.accesskey "ว">
 <!ENTITY connectionSecurityType-0.label "ไม่มี">
 <!ENTITY connectionSecurityType-1.label "STARTTLS หากพร้อมใช้งาน">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
