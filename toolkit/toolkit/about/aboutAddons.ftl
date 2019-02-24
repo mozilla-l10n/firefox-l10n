@@ -90,6 +90,8 @@ detail-update-automatic =
 detail-update-manual =
     .label = Désactivées
     .tooltiptext = Ne pas installer automatiquement les mises à jour
+# Used as a description for the option to allow or block an add-on in private windows.
+detail-private-browsing-label = Exécution dans les fenêtres privées
 detail-private-browsing-description = L’extension fonctionnera en navigation privée et aura accès à vos activités en ligne. <label data-l10n-name="detail-private-browsing-learn-more">En savoir plus</label>
 detail-private-browsing-on =
     .label = Autoriser
@@ -139,6 +141,7 @@ legacy-warning-show-legacy = Afficher les extensions obsolètes
 legacy-extensions =
     .value = Extensions obsolètes
 legacy-extensions-description = Ces extensions ne répondent pas aux exigences actuelles de { -brand-short-name }. Elles ont été désactivées. <label data-l10n-name="legacy-learn-more">En savoir plus sur les changements apportés aux modules</label>
+private-browsing-description = Par défaut, les extensions ne sont pas autorisées à s’exécuter dans les fenêtres de navigation privée. Cela signifie qu’elles ne fonctionneront pas pendant la navigation privée et qu’elles n’auront donc pas accès à ces activités en ligne. Pour autoriser une extension à s’exécuter dans les fenêtres de navigation privée, sélectionnez la carte de l’extension ci-dessous et modifiez le paramètre associé. <label data-l10n-name="private-browsing-learn-more">En savoir plus</label>
 extensions-view-discover =
     .name = Catalogue
     .tooltiptext = { extensions-view-discover.name }
