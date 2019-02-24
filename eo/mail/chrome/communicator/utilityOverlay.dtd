@@ -41,18 +41,18 @@
 <!ENTITY viewToolbarsMenu.label        "Ilarstrioj">
 <!ENTITY viewToolbarsMenu.accesskey      "I">
 <!ENTITY showTaskbarCmd.label          "Stata strio">
-<!ENTITY showTaskbarCmd.accesskey        "u">
+<!ENTITY showTaskbarCmd.accesskey        "S">
 
 <!ENTITY closeCmd.label      "Fermi">
 <!ENTITY closeCmd.key      "W">
-<!ENTITY closeCmd.accesskey    "C">
+<!ENTITY closeCmd.accesskey    "F">
 
 <!ENTITY quitApplicationCmd.label  "Eliri">
 <!ENTITY quitApplicationCmd.key    "Q">
-<!ENTITY quitApplicationCmd.accesskey  "x">
+<!ENTITY quitApplicationCmd.accesskey  "E">
 
 <!ENTITY quitApplicationCmdUnix.label  "Fini">
 <!ENTITY quitApplicationCmdUnix.accesskey  "F">
 
-<!ENTITY quitApplicationCmdMac.label  "Fini &brandShortName;">
+<!ENTITY quitApplicationCmdMac.label  "Fermi &brandShortName;">
 <!ENTITY quitApplicationCmdMac.accesskey  "Q">
