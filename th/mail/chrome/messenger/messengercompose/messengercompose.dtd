@@ -34,6 +34,14 @@
 <!ENTITY saveCmd.accesskey "บ">
 <!ENTITY saveAsCmd.label "บันทึกเป็น">
 <!ENTITY saveAsCmd.accesskey "น">
+<!ENTITY saveAsFileCmd.label "ไฟล์…">
+<!ENTITY saveAsFileCmd.accesskey "ฟ">
+<!ENTITY saveAsDraftCmd.label "แบบร่าง">
+<!ENTITY saveAsDraftCmd.accesskey "บ">
+<!ENTITY saveAsTemplateCmd.label "แม่แบบ">
+<!ENTITY saveAsTemplateCmd.accesskey "ม">
+<!ENTITY sendCmd.keycode "VK_RETURN">
+<!ENTITY sendLaterCmd.keycode "VK_RETURN">
 
 <!-- Edit Menu -->
 <!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.accesskey):
