@@ -23,7 +23,7 @@
 <!ENTITY biffStart.label "ตรวจสอบข้อความใหม่ทุก ๆ ">
 <!ENTITY biffStart.accesskey "ต">
 <!ENTITY biffEnd.label "นาที">
-<!ENTITY connectionSecurity.label "ความปลอดภัยในการเชื่อมต่อ:">
+<!ENTITY connectionSecurity.label "ความปลอดภัยของการเชื่อมต่อ:">
 <!ENTITY connectionSecurity.accesskey "ค">
 <!ENTITY connectionSecurityType-0.label "ไม่มี">
 <!ENTITY connectionSecurityType-1.label "STARTTLS หากพร้อมใช้งาน">
