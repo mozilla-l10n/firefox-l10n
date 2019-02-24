@@ -2,14 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutSupport.pageTitle "Sorun giderme bilgileri">
+<!ENTITY aboutSupport.pageTitle "Sorun Giderme Bilgileri">
 
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "  Bu sayfa, bir sorunu gidermeye çalışırken işinize yarabilecek teknik bilgiler içerir. &brandShortName; hakkında genel sorularla ilgili yanıt arıyorsanız <a id='supportLink'>destek sitemizi</a> ziyaret edin.">
 
-<!ENTITY aboutSupport.crashes.title "Çökme Raporları">
+<!ENTITY aboutSupport.crashes.title "Çökme raporları">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
-This is likely the same like id.heading in crashes.dtd. -->
+This is likely the same like id.heading in aboutcrashes.ftl. -->
 <!ENTITY aboutSupport.crashes.id "Rapor numarası">
 <!ENTITY aboutSupport.crashes.sendDate "Gönderilme tarihi">
 <!ENTITY aboutSupport.crashes.allReports "Tüm çökme raporları">
@@ -32,15 +32,6 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.featureName "Adı">
 <!ENTITY aboutSupport.featureVersion "Sürüm">
 <!ENTITY aboutSupport.featureId "Kimlik">
-
-<!ENTITY aboutSupport.experimentsTitle "Deneysel özellikler">
-<!ENTITY aboutSupport.experimentName "Adı">
-<!ENTITY aboutSupport.experimentId "Kimlik">
-<!ENTITY aboutSupport.experimentDescription "Açıklama">
-<!ENTITY aboutSupport.experimentActive "Etkin">
-<!ENTITY aboutSupport.experimentEndDate "Bitiş tarihi">
-<!ENTITY aboutSupport.experimentHomepage "Ana sayfa">
-<!ENTITY aboutSupport.experimentBranch "Dal">
 
 <!ENTITY aboutSupport.appBasicsTitle "Uygulama temelleri">
 <!ENTITY aboutSupport.appBasicsName "Adı">
