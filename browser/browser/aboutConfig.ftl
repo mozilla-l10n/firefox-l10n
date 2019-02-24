@@ -19,6 +19,9 @@ about-config-pref-delete = Eliminar
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
+about-config-pref-add-type-boolean = Booleano
+about-config-pref-add-type-number = Número
+about-config-pref-add-type-string = Cadena
 
 ## Preferences with a non-default value are differentiated visually, and at the
 ## same time the state is made accessible to screen readers using an aria-label

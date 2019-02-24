@@ -88,6 +88,12 @@ detail-update-automatic =
 detail-update-manual =
     .label = No
     .tooltiptext = No instalar automáticamente las actualizaciones
+detail-private-browsing-on =
+    .label = Permitir
+    .tooltiptext = Activar en navegación privada
+detail-private-browsing-off =
+    .label = No permitir
+    .tooltiptext = Desactivar en navegación privada
 detail-home =
     .label = Página de inicio
 detail-home-value =
@@ -210,8 +216,6 @@ extensions-updates-update-selected =
 
 ## Extension shortcut management
 
-shortcuts-manage =
-    .label = Atajos de teclado
 shortcuts-empty-message = No hay atajos para esta extensión.
 shortcuts-no-addons = No tiene ninguna extensión habilitada.
 shortcuts-input =
@@ -224,3 +228,14 @@ shortcuts-modifier-other = Incluir Ctrl o Alt
 shortcuts-invalid = Combinación no válida
 shortcuts-letter = Escriba una letra
 shortcuts-system = No se puede sobrescribir un acceso directo de { -brand-short-name }.
+shortcuts-card-collapse-button = Mostrar menos
+go-back-button =
+    .tooltiptext = Retroceder
+
+## Add-on actions
+
+remove-addon-button = Eliminar
+disable-addon-button = Desactivar
+enable-addon-button = Activar
+addons-enabled-heading = Activado
+addons-disabled-heading = Desactivado
