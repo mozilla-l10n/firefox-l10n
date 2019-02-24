@@ -49,6 +49,7 @@ policy-EnableTrackingProtection = Rmed neɣ sens asewḥel n ugbur u sekker-it m
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
 policy-Extensions = Sebded, Kkes neƔ sewḥel isiƔzaf. Asebded yettawi URLs neƔ iberdan d iƔewwaren. Tukksa d usewḥel seqdacen isulayen n isiƔzaf.
+policy-ExtensionUpdate = Emed neɣ sens alqem awurman n iseɣzaf.
 policy-FlashPlugin = Sireg neɣ gdel asemres n uzegrir Flash.
 policy-HardwareAcceleration = Ma ur yelli d ameɣtu, sens tasɣiwelt n warrum.
 # “lock” means that the user won’t be able to change this setting
