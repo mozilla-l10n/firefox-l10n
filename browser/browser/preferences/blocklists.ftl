@@ -21,3 +21,4 @@ blocklist-button-ok =
 #   $description {string, "This list does a pretty good job."} - Description of the list.
 blocklist-item-list-template = { $listName } { $description }
 blocklist-item-moz-std-name = Disconnect.me මුලික ආරක්ෂාව (නිර්දේශිතයි).
+blocklist-item-moz-full-name = Disconnect.me දැඩි ආරක්ෂාව.
