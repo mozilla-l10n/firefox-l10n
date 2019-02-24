@@ -13,6 +13,7 @@
 policy-AppUpdateURL = රුචි යෙදුම් යාවත්කාලීන URL සකසන්න
 policy-DisableForgetButton = අමතක කිරීමේ බොත්තමට ප්‍රවේශය වලක්වන්න
 policy-DisablePrivateBrowsing = පුද්ගලික ගවේශනය අක්‍රීය කරන්න.
+policy-DisplayMenuBar = මෙනු තීරුව පෙරනිමියෙන් පෙන්වන්න
 policy-DNSOverHTTPS = HTTPS හරහා DNS සැකසුම් කරන්න.
 policy-DontCheckDefaultBrowser = ආරම්භයේදී පෙරනිමි ගවේශකය සඳහා සෙවීම අක්‍රීය කරන්න.
 policy-Proxy = ප්‍රොක්සි සැකසුම් වින්‍යාස කරන්න.
