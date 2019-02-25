@@ -49,6 +49,8 @@ media-preview =
 perm-tab =
     .label = Permissões
     .accesskey = P
+permissions-for =
+    .value = Permissões para:
 security-tab =
     .label = Segurança
     .accesskey = S
@@ -64,6 +66,8 @@ security-view-privacy =
     .value = Privacidade e histórico
 security-view-technical =
     .value = Detalhes técnicos
+help-button =
+    .label = Ajuda
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -82,12 +86,16 @@ media-cursor = Cursor
 media-object = Objeto
 media-embed = Integrado
 media-link = Ícone
+media-input = Entrada
 media-video = Vídeo
 media-audio = Áudio
 saved-passwords-yes = Sim
 saved-passwords-no = Não
 no-page-title =
     .value = Página sem título:
+general-quirks-mode =
+    .value = Modo de compatibilidade
+security-no-owner = Este site não fornece informações de propriedade.
 permissions-use-default =
     .label = Usar o padrão
 security-no-visits = Não
@@ -97,6 +105,26 @@ security-no-visits = Não
 #   $type (string) - The type of an image
 media-image-type =
     .value = Imagem { $type }
+# This string is used to display the size of a scaled image
+# in both scaled and unscaled pixels
+# Variables:
+#   $dimx (number) - The horizontal size of an image
+#   $dimy (number) - The vertical size of an image
+#   $scaledx (number) - The scaled horizontal size of an image
+#   $scaledy (number) - The scaled vertical size of an image
+media-dimensions-scaled =
+    .value = { $dimx }px × { $dimy }px (redimensionada para { $scaledx }px × { $scaledy }px)
+# This string is used to display the size of an image in pixels
+# Variables:
+#   $dimx (number) - The horizontal size of an image
+#   $dimy (number) - The vertical size of an image
+media-dimensions =
+    .value = { $dimx }px × { $dimy }px
+# This string is used to display the size of a media
+# file in kilobytes
+# Variables:
+#   $size (number) - The size of the media file in kilobytes
+media-file-size = { $size } KB
 # This string is used to display the website name next to the
 # "Block Images" checkbox in the media tab
 # Variables:
