@@ -31,6 +31,8 @@ general-referrer =
     .value = 참조 URL:
 general-modified =
     .value = 수정:
+general-encoding =
+    .value = 글자 인코딩:
 general-meta-name =
     .label = 이름
 general-meta-content =
@@ -85,9 +87,13 @@ security-view-identity-domain =
     .value = 사이트 정보:{ " " }
 security-view-identity-verifier =
     .value = 신원 확인자:{ " " }
+security-view-privacy =
+    .value = 개인 정보 및 방문 기록
 security-view-privacy-history-value = 이전에 현재 웹 사이트 방문 여부
 security-view-technical =
     .value = 세부 사항
+help-button =
+    .label = 도움말
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
