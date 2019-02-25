@@ -50,6 +50,12 @@ media-dimension =
     .value = Ofmjittingen:
 media-long-desc =
     .value = Lange omskriuwing:
+media-save-as =
+    .label = Bewarje as…
+    .accesskey = j
+media-save-image-as =
+    .label = Bewarje as…
+    .accesskey = j
 media-preview =
     .value = Mediafoarbyld:
 perm-tab =
@@ -65,13 +71,18 @@ security-view =
     .accesskey = b
 security-view-unknown = Unbekend
     .value = Unbekend
+security-view-identity-domain =
+    .value = Website:{ " " }
 security-view-identity-verifier =
     .value = Befêstige troch:{ " " }
+security-view-privacy-history-value = Haw ik dizze website al earder as hjoed besocht?
 security-view-privacy-viewpasswords =
     .label = Bewarre wachtwurden besjen
     .accesskey = w
 security-view-technical =
     .value = Technyske details
+help-button =
+    .label = Help
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
