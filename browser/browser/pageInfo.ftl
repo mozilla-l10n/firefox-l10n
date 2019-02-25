@@ -89,6 +89,8 @@ security-view-identity-domain =
     .value = Site web :{ " " }
 security-view-identity-verifier =
     .value = Vérifiée par :{ " " }
+security-view-identity-validity =
+    .value = Expire le :
 security-view-privacy =
     .value = Vie privée et historique
 security-view-privacy-history-value = Ai-je déjà visité ce site web auparavant ?
@@ -108,6 +110,9 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-cookies = Oui, des cookies et { $value } { $unit } de données de sites
+security-site-data-only = Oui, { $value } { $unit } de données de sites
+security-site-data-cookies-only = Oui, des cookies
 image-size-unknown = Inconnu
 not-set-verified-by = Non spécifié
 not-set-alternative-text = Non spécifié
@@ -159,6 +164,11 @@ media-dimensions-scaled =
 #   $dimy (number) - The vertical size of an image
 media-dimensions =
     .value = { $dimx }px × { $dimy }px
+# This string is used to display the size of a media
+# file in kilobytes
+# Variables:
+#   $size (number) - The size of the media file in kilobytes
+media-file-size = { $size } Ko
 # This string is used to display the website name next to the
 # "Block Images" checkbox in the media tab
 # Variables:
