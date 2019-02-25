@@ -6,6 +6,9 @@ page-info-window =
     .style = width: 600px; min-height: 500px;
 copy =
     .key = C
+menu-copy =
+    .label = העתקה
+    .accesskey = ה
 select-all =
     .key = A
 close-window =
@@ -25,6 +28,8 @@ general-referrer =
     .value = כתובת קודמת:
 general-modified =
     .value = שינוי אחרון:
+general-encoding =
+    .value = קידוד טקסט:
 general-meta-name =
     .label = שם
 general-meta-content =
@@ -76,6 +81,8 @@ security-view-privacy-history-value = האם ביקרתי באתר זה בעבר
 security-view-privacy-passwords-value = האם שמרתי ססמאות עבור אתר זה?
 security-view-technical =
     .value = פירוט טכני
+help-button =
+    .label = עזרה
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -83,6 +90,8 @@ security-view-technical =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-cookies = כן, עוגיות ו־‎{ $value } { $unit } של נתוני אתרים
+security-site-data-only = כן, ‎{ $value } { $unit } של נתוני אתרים
 image-size-unknown = לא ידוע
 not-set-verified-by = לא צוין
 not-set-alternative-text = לא צוין
