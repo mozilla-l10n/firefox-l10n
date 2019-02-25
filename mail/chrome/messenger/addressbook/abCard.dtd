@@ -77,8 +77,11 @@
 <!ENTITY Birthday.label                 "Födelsedag:">
 <!ENTITY Birthday.accesskey             "F">
 <!ENTITY In.label                       "">
+<!ENTITY Month.placeholder              "Månad">
+<!ENTITY Day.placeholder                "Dag">
 <!ENTITY Year.placeholder               "År">
 <!ENTITY Or.value                       "eller">
+<!ENTITY Age.label                      "Ålder:">
 <!ENTITY Age.placeholder                "Ålder">
 <!ENTITY YearsOld.label                 "">
 
@@ -141,7 +144,6 @@
 
 <!ENTITY Photo.tab                      "Foto">
 <!ENTITY Photo.accesskey                "F">
-<!ENTITY PhotoDesc.label                "Välj en av de följande:">
 <!ENTITY GenericPhoto.label             "Allmän bild">
 <!ENTITY GenericPhoto.accesskey         "A">
 <!ENTITY DefaultPhoto.label             "Standard">
