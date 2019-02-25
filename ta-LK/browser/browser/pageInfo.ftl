@@ -122,6 +122,8 @@ security-no-owner = இந்த இணையத்தளம் உரிமை 
 media-select-folder = படங்களைச் சேமிக்க ஒரு கோப்புறையைத் தெரிவுசெய்க
 media-unknown-not-cached =
     .value = தெரியாதது (இடையகப்படுத்தாதது)
+permissions-use-default =
+    .label = பொது இருப்பைப் பயன்படுத்துக
 security-no-visits = இல்லை
 # This string is used to display the type of
 # an image
