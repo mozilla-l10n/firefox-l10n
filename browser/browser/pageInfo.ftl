@@ -69,6 +69,12 @@ security-view-unknown = தெரியாதது
     .value = தெரியாதது
 security-view-identity =
     .value = இணைய தள அடையாளம்
+security-view-identity-owner =
+    .value = உரிமையாளர்:
+security-view-identity-domain =
+    .value = இணையத்தளம்:
+security-view-identity-verifier =
+    .value = சரிபார்த்தவர்:
 security-view-privacy-history-value = இன்று நான் இந்த இணையதளத்தை முன்பு பார்த்தேனா?
 security-view-privacy-passwords-value = இந்த இணைய தளத்தின் கடவுச்சொல்லை சேமித்துள்ளேனா?
 security-view-privacy-viewpasswords =
@@ -86,6 +92,9 @@ security-view-technical =
 image-size-unknown = தெரியாதது
 media-img = படம்
 media-bg-img = பின்னணி
+media-border-img = எல்லையில்
+media-list-img = பொட்டு
+media-cursor = நிலைக்காட்டி
 media-object = பொருள்
 media-embed = உட்பொதியப்பட்டது
 media-link = சின்னம்
@@ -99,6 +108,8 @@ general-strict-mode =
 media-select-folder = படங்களை சேமிக்க ஒரு அடைவைத் தேர்ந்தெடு
 media-unknown-not-cached =
     .value = தெரியாதது (இடையகப்படுத்தாதது)
+permissions-use-default =
+    .label = முன்னிருப்பைப் பயன்படுத்து
 security-no-visits = இல்லை
 # This string is used to display the type of
 # an image
@@ -106,9 +117,31 @@ security-no-visits = இல்லை
 #   $type (string) - The type of an image
 media-image-type =
     .value = { $type } படம்
+# This string is used to display the size of a scaled image
+# in both scaled and unscaled pixels
+# Variables:
+#   $dimx (number) - The horizontal size of an image
+#   $dimy (number) - The vertical size of an image
+#   $scaledx (number) - The scaled horizontal size of an image
+#   $scaledy (number) - The scaled vertical size of an image
+media-dimensions-scaled =
+    .value = { $dimx }px × { $dimy }px ({ $scaledx }px × { $scaledy }px க்கு அளவீடு செய்யப்பட்டது)
 # This string is used to display the size of an image in pixels
 # Variables:
 #   $dimx (number) - The horizontal size of an image
 #   $dimy (number) - The vertical size of an image
 media-dimensions =
     .value = { $dimx }px × { $dimy }px
+# This string is used to display the size of a media
+# file in kilobytes
+# Variables:
+#   $size (number) - The size of the media file in kilobytes
+media-file-size = { $size } KB
+# This string is used to display the URL of the website on top of the
+# pageInfo dialog box
+# Variables:
+#   $website (string) - The url of the website pageInfo is getting info for
+page-info-page =
+    .title = பக்கத் தகவல் - { $website }
+page-info-frame =
+    .title = சட்டகத் தகவல் - { $website }
