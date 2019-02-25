@@ -4,13 +4,62 @@
 
 page-info-window =
     .style = width: 600px; min-height: 500px;
+copy =
+    .key = C
+menu-copy =
+    .label = 複製
+    .accesskey = C
+select-all =
+    .key = A
+menu-select-all =
+    .label = 全選
+    .accesskey = A
+close-window =
+    .key = A
+general-tab =
+    .label = 一般
+    .accesskey = G
+general-url =
+    .value = 網址:
+general-type =
+    .value = 類型:
+general-mode =
+    .value = 繪製模式:
+general-size =
+    .value = 大小:
+general-referrer =
+    .value = 參照網址:
+general-modified =
+    .value = 上次修改:
+general-meta-name =
+    .label = 名稱
+general-meta-content =
+    .label = 內容
+media-tab =
+    .label = 媒體
+    .accesskey = M
 media-text =
     .value = 關聯文字:
+media-alt-header =
+    .label = 替代文字
+media-type =
+    .label = 類型
 media-size =
     .label = 大小
+media-count =
+    .label = 數量
+media-dimension =
+    .value = 尺寸:
+media-long-desc =
+    .value = 完整描述:
+media-save-as =
+    .label = 另存新檔…
+    .accesskey = a
 media-save-image-as =
     .label = 另存新檔…
     .accesskey = e
+media-preview =
+    .value = 媒體預覽:
 perm-tab =
     .label = 權限
     .accesskey = P
@@ -24,6 +73,14 @@ security-view =
     .accesskey = V
 security-view-unknown = 未知
     .value = 未知
+security-view-identity-owner =
+    .value = 擁有者:
+security-view-identity-domain =
+    .value = 網站:
+security-view-identity-verifier =
+    .value = 驗證機構:
+security-view-privacy =
+    .value = 隱私及歷史記錄
 security-view-privacy-passwords-value = 我有在此網站儲存任何密碼嗎？
 security-view-privacy-viewpasswords =
     .label = 檢視已存密碼
@@ -55,6 +112,7 @@ general-quirks-mode =
     .value = Quirks 模式
 general-strict-mode =
     .value = 標準遵循模式
+security-no-owner = 這個網站沒有提供擁有者資訊。
 media-select-folder = 請選擇要儲存圖片的資料夾
 security-no-visits = 否
 # This string is used to display the type of
@@ -83,6 +141,13 @@ media-dimensions =
 # Variables:
 #   $size (number) - The size of the media file in kilobytes
 media-file-size = { $size } KB
+# This string is used to display the website name next to the
+# "Block Images" checkbox in the media tab
+# Variables:
+#   $website (string) - The website name
+media-block-image =
+    .label = 封鎖來自 { $website } 的圖片
+    .accesskey = B
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 # Variables:
