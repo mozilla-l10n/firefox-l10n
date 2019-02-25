@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/. --
 
+page-info-window =
+    .style = width: 600px; min-height: 550px;
 copy =
     .key = C
 menu-copy =
@@ -17,6 +19,8 @@ close-window =
 general-tab =
     .label = साधारण
     .accesskey = G
+general-title =
+    .value = शिर्षक:
 general-url =
     .value = पत्ता:
 general-type =
@@ -29,6 +33,8 @@ general-referrer =
     .value = संदर्भित URL:
 general-modified =
     .value = बदलेले:
+general-encoding =
+    .value = मजकूर प्रसंकेतन:
 general-meta-name =
     .label = नाव
 general-meta-content =
@@ -54,6 +60,12 @@ media-dimension =
     .value = माप:
 media-long-desc =
     .value = मोठे वर्णन:
+media-save-as =
+    .label = असे साठवा…
+    .accesskey = A
+media-save-image-as =
+    .label = असे साठवा…
+    .accesskey = e
 media-preview =
     .value = माध्यमाचे पूर्वदर्शन:
 perm-tab =
@@ -77,9 +89,19 @@ security-view-identity-domain =
     .value = संकेतस्थळ:
 security-view-identity-verifier =
     .value = तर्फे तपासलेले:
+security-view-identity-validity =
+    .value = कालबाह्य होण्याची वेळ:
+security-view-privacy =
+    .value = गोपनीयता आणि इतिहास
 security-view-privacy-history-value = आज या संकेत स्थळाला आधि भेट दिली होती का?
+security-view-privacy-passwords-value = या संकेत स्थळास कुठलेही पासवर्ड संचयीत केले गेले आहे का?
+security-view-privacy-viewpasswords =
+    .label = संचयीत पासवर्ड पहा
+    .accesskey = w
 security-view-technical =
     .value = तांत्रिक तपशील
+help-button =
+    .label = मदत
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -96,6 +118,7 @@ media-bg-img = पार्श्वभूमी
 media-border-img = किनार
 media-list-img = बूलेट
 media-cursor = कर्सर
+media-object = घटक
 media-embed = अंतर्भूत
 media-link = चित्रसंकेत
 media-input = आदान
@@ -103,6 +126,8 @@ media-video = व्हिडिओ
 media-audio = ऑडिओ
 saved-passwords-yes = होय
 saved-passwords-no = नाही
+no-page-title =
+    .value = विनाशिर्षक पृष्ठ:
 general-quirks-mode =
     .value = Quirks पद्धती
 general-strict-mode =
@@ -111,6 +136,8 @@ security-no-owner = हे संकेत स्थळ मालकीय म�
 media-select-folder = प्रतिमा संचयीत करण्याकरीता संचयीका निवडा
 media-unknown-not-cached =
     .value = अपरिचीत (कॅश्ड नाही)
+permissions-use-default =
+    .label = पूर्वनिर्धारित वापरा
 security-no-visits = नाही
 # This string is used to display the type of
 # an image
@@ -145,5 +172,11 @@ media-file-size = { $size } KB
 media-block-image =
     .label = { $website } पासून प्रतिमा रोखा
     .accesskey = B
+# This string is used to display the URL of the website on top of the
+# pageInfo dialog box
+# Variables:
+#   $website (string) - The url of the website pageInfo is getting info for
+page-info-page =
+    .title = पृष्ठाविषयक माहिती - { $website }
 page-info-frame =
     .title = पटलविषयक माहिती - { $website }
