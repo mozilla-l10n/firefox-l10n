@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 url-classifier-title = Informace o URL Classifier
+url-classifier-search-input = URL adresa
+url-classifier-search-error-invalid-url = Neplatná URL adresa
 url-classifier-provider-title = Poskytovatel
 url-classifier-provider = Poskytovatel
 url-classifier-provider-last-update-time = Poslední aktualizace
