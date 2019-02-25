@@ -94,6 +94,10 @@ security-view-identity-validity =
 security-view-privacy =
     .value = Preifatrwydd a Hanes
 security-view-privacy-history-value = A ydw i wedi ymweld â'r wefan hon cyn heddiw?
+security-view-privacy-sitedata-value = A yw'r wefan yma'n yn cadw gwybodaeth ar fy nghyfrifiadur?
+security-view-privacy-clearsitedata =
+    .label = Clirio Data Cwcis a Data
+    .accesskey = C
 security-view-privacy-passwords-value = A ydw i wedi cadw unrhyw gyfrineiriau ar gyfer y wefan yma?
 security-view-privacy-viewpasswords =
     .label = Gweld y Cyfrineiriau wedi eu Cadw
@@ -109,6 +113,10 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-cookies = Ydy, cwcis a { $value } { $unit } o ddata gwefan
+security-site-data-only = Ydy, { $value } { $unit } o ddata gwefan
+security-site-data-cookies-only = Ydy, cwcis
+security-site-data-no = Na
 image-size-unknown = Anhysbys
 not-set-verified-by = Heb ddiffinio
 not-set-alternative-text = Heb ddiffinio
@@ -134,6 +142,8 @@ general-strict-mode =
     .value = Modd cynnal safonau
 security-no-owner = Nid yw'r wefan yn darparu gwybodaeth am ei pherchnogaeth.
 media-select-folder = Dewis Ffolder i Gadw'r Delweddau
+media-unknown-not-cached =
+    .value = Anhysbys (heb ei storio dros dro)
 permissions-use-default =
     .label = Defnyddio'r Rhagosodedig
 security-no-visits = Na
