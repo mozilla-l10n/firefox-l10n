@@ -94,6 +94,10 @@ security-view-identity-validity =
 security-view-privacy =
     .value = Privadesa i historial
 security-view-privacy-history-value = He visitat aquest lloc web abans d'avui?
+security-view-privacy-sitedata-value = Aquest lloc web emmagatzema informació al meu ordinador?
+security-view-privacy-clearsitedata =
+    .label = Esborra les galetes i dades dels llocs
+    .accesskey = E
 security-view-privacy-passwords-value = He desat cap contrasenya d'aquest lloc web?
 security-view-privacy-viewpasswords =
     .label = Mostra les contrasenyes desades
@@ -109,6 +113,10 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-cookies = Sí, galetes i { $value } { $unit } de dades del lloc
+security-site-data-only = Sí, { $value } { $unit } de dades del lloc
+security-site-data-cookies-only = Sí, galetes
+security-site-data-no = No
 image-size-unknown = Desconegut
 not-set-verified-by = No s'ha especificat
 not-set-alternative-text = No s'ha especificat
