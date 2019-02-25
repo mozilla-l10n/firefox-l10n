@@ -6,8 +6,14 @@ page-info-window =
     .style = width: 600px; min-height: 550px;
 copy =
     .key = C
+menu-copy =
+    .label = Sao chép
+    .accesskey = C
 select-all =
     .key = A
+menu-select-all =
+    .label = Chọn tất cả
+    .accesskey = B
 close-window =
     .key = A
 general-tab =
@@ -19,6 +25,8 @@ general-url =
     .value = Địa chỉ:
 general-type =
     .value = Kiểu:
+general-mode =
+    .value = Chế độ xử lí:
 general-size =
     .value = Kích thước:
 general-referrer =
@@ -52,6 +60,12 @@ media-dimension =
     .value = Kích cỡ:
 media-long-desc =
     .value = Mô tả Đầy đủ:
+media-save-as =
+    .label = Lưu thành…
+    .accesskey = L
+media-save-image-as =
+    .label = Lưu thành…
+    .accesskey = h
 media-preview =
     .value = Xem trước:
 perm-tab =
@@ -62,15 +76,34 @@ permissions-for =
 security-tab =
     .label = Bảo mật
     .accesskey = B
+security-view =
+    .label = Xem chứng chỉ
+    .accesskey = C
 security-view-unknown = Không rõ
     .value = Không rõ
+security-view-identity =
+    .value = Nhận dạng trang web
+security-view-identity-owner =
+    .value = Chủ sở hữu:
 security-view-identity-domain =
     .value = Trang web:
 security-view-identity-verifier =
     .value = Xác minh bởi:
 security-view-identity-validity =
     .value = Hết hạn vào:
+security-view-privacy =
+    .value = Riêng tư & lịch sử
+security-view-privacy-history-value = Tôi đã từng truy cập trang web này trước ngày hôm nay chưa?
+security-view-privacy-sitedata-value = Có phải trang web này lưu trữ thông tin trên máy tính của tôi?
+security-view-privacy-clearsitedata =
+    .label = Xóa cookie và dữ liệu trang web
+    .accesskey = C
 security-view-privacy-passwords-value = Tôi có lưu mật khẩu nào trên trang web này không?
+security-view-privacy-viewpasswords =
+    .label = Xem các mật khẩu đã lưu
+    .accesskey = M
+security-view-technical =
+    .value = Chi tiết kĩ thuật
 help-button =
     .label = Trợ giúp
 
@@ -80,6 +113,9 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-cookies = Có, cookie và { $value } { $unit } dữ liệu trang web
+security-site-data-only = Có, { $value } { $unit } dữ liệu trang web
+security-site-data-cookies-only = Có, cookie
 security-site-data-no = Không
 image-size-unknown = Không rõ
 not-set-verified-by = Không được chỉ định
@@ -137,6 +173,13 @@ media-dimensions =
 # Variables:
 #   $size (number) - The size of the media file in kilobytes
 media-file-size = { $size } KB
+# This string is used to display the website name next to the
+# "Block Images" checkbox in the media tab
+# Variables:
+#   $website (string) - The website name
+media-block-image =
+    .label = Chặn ảnh từ { $website }
+    .accesskey = C
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 # Variables:
