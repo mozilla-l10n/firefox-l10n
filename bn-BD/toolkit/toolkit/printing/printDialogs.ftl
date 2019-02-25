@@ -14,6 +14,8 @@ portrait =
 landscape =
     .label = আড়াআড়ি (L)
     .accesskey = L
+scale-percent =
+    .value = %
 options-group-label =
     .value = অপশন
 margin-group-label-inches =
@@ -80,5 +82,9 @@ print-window =
     .title = মুদ্রণ করা হচ্ছে
 print-complete =
     .value = মুদ্রণ সম্পন্ন।
+# Variables
+# $percent (integer) - Number of printed percentage
+print-percent =
+    .value = { $percent }%
 dialog-cancel-label = বাতিল
 dialog-close-label = বন্ধ
