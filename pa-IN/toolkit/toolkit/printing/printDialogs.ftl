@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+print-setup =
+    .title = ਸਫ਼ਾ ਸੈੱਟਅੱਪ
 custom-prompt-title = ਕਸਟਮ…
 custom-prompt-prompt = ਆਪਣਾ ਪਸੰਦੀਦਾ ਹੈੱਡਰ/ਫੁੱਟਰ ਟੈਕਸਟ ਦਿਓ
 basic-tab =
@@ -23,6 +25,9 @@ scale =
     .accesskey = S
 scale-percent =
     .value = %
+shrink-to-fit =
+    .label = ਸਫ਼ਾ ਚੌੜਾਈ ਲਈ ਸੁੰਘੜੋ
+    .accesskey = W
 options-group-label =
     .value = ਚੋਣਾਂ
 print-bg =
@@ -80,6 +85,10 @@ hf-url =
     .label = URL
 hf-date-and-time =
     .label = ਮਿਤੀ/ਟਾਈਮ
+hf-page =
+    .label = ਸਫ਼ਾ #
+hf-page-and-total =
+    .label = ਸਫ਼ਾ # ਕੁੱਲ # ਵਿਚੋਂ
 hf-custom =
     .label = ਕਸਟਮ…
 print-preview-window =
