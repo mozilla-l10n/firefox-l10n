@@ -17,6 +17,8 @@ general-type =
     .value = Format:
 general-mode =
     .value = Göstərmə rejimi:
+general-size =
+    .value = Həcm:
 general-referrer =
     .value = Yönləndirən URL:
 general-modified =
@@ -36,6 +38,8 @@ media-address =
     .label = Adres
 media-type =
     .label = Format
+media-size =
+    .label = Həcm
 media-count =
     .label = Sayğaç
 media-dimension =
@@ -84,6 +88,7 @@ media-link = Simvol
 media-input = Daxil etmə
 media-video = Video
 media-audio = Ses
+saved-passwords-yes = Bəli
 no-page-title =
     .value = Başlıqsız səhifə:
 general-quirks-mode =
@@ -94,6 +99,8 @@ security-no-owner = Bu sayt, sahibi ilə bağlı məlumat vermir.
 media-select-folder = Şəkilləri saxlamaq üçün bir qovluq seçin
 media-unknown-not-cached =
     .value = Naməlum (yaddaşda saxlanmadı)
+permissions-use-default =
+    .label = Standartdan istifadə et
 # This string is used to display the type of
 # an image
 # Variables:
