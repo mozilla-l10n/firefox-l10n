@@ -22,7 +22,7 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } itūbreid atjaunynoj
 update-manual = Atjaunynuojumi ir pīejami ite<label data-l10n-name="manual-link"/>
 update-unsupported = Papyldus atjaunynuojumi itymā sistemā nav īspiejami. <label data-l10n-name="unsupported-link">Uzzynojit vairuok</label>
 update-restarting = Nūteik puorstarteišona…
-channel-description = Itūbreid jius izmontojit <label data-l10n-name="current-channel"></label> atjaunynuojumu kanalu.{ " " }
+channel-description = Itūbreid jius izmontojit <label data-l10n-name="current-channel"></label> atjaunynuojumu kanalu.
 warningDesc-version = { -brand-short-name } atsarūn izstruodes procesā i var byut ar napilneibom.
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> ir <label data-l10n-name="community-exp-creditsLink">globala kūpīna</label> , kas struodoj, kab šķārsteikls byutu attaiseits, publisks i vysim pīejams.
 community-2 = { -brand-short-name } veidoj <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, kurys <label data-l10n-name="community-creditsLink">globala kūpīna</label>, kas struodoj, kab šķārsteikls byutu attaiseits, publisks i vysim pīejams.
