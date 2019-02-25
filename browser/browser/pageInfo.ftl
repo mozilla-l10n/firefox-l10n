@@ -94,6 +94,10 @@ security-view-identity-validity =
 security-view-privacy =
     .value = Priwatnosć a historija
 security-view-privacy-history-value = Sym tute websydło hižo prjedy wopytał?
+security-view-privacy-sitedata-value = Składuje tute websydło informacije na mojim ličaku?
+security-view-privacy-clearsitedata =
+    .label = Placki a sydłowe daty zhašeć
+    .accesskey = P
 security-view-privacy-passwords-value = Su so hesła za tute websydło składowali?
 security-view-privacy-viewpasswords =
     .label = Składowane hesła sej wobhladać
@@ -109,6 +113,10 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-cookies = Haj, placki a { $value } { $unit } sydłowych datow
+security-site-data-only = Haj, { $value } { $unit } sydłowych datow
+security-site-data-cookies-only = Haj, placki
+security-site-data-no = Ně
 image-size-unknown = Njeznaty
 not-set-verified-by = Njepodaty
 not-set-alternative-text = Njepodaty
