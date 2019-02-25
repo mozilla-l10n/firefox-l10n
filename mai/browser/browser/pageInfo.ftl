@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/. --
 
+page-info-window =
+    .style = width: 600px; min-height: 550px;
 copy =
     .key = C
 menu-copy =
@@ -29,6 +31,8 @@ general-referrer =
     .value = संदर्भ URL:
 general-modified =
     .value = रूपांतरित:
+general-encoding =
+    .value = पाठ एनकोडिंग:
 general-meta-name =
     .label = नाम
 general-meta-content =
@@ -83,6 +87,8 @@ security-view-identity-domain =
     .value = वेब साइट:{ " " }
 security-view-identity-verifier =
     .value = एकटार द्वारा सत्यापित:{ " " }
+security-view-privacy =
+    .value = गोपनीयता आ इतिहास
 security-view-privacy-history-value = की हम ई वेब साइट आइसँ पहिने देखने छी?
 security-view-privacy-passwords-value = की हम कोनो गुड़किल्ली एहि वेबसाइट क लेल सहेजने छी?
 security-view-privacy-viewpasswords =
@@ -90,6 +96,8 @@ security-view-privacy-viewpasswords =
     .accesskey = w
 security-view-technical =
     .value = तकनीकी विवरण
+help-button =
+    .label = मदति{ " " }
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
