@@ -100,7 +100,7 @@ print-preparing =
 print-progress =
     .value = Progreso:
 print-window =
-    .title = Imprimiendo{ " " }
+    .title = Imprimiendo
 print-complete =
     .value = La impresión ha finalizado.
 # Variables
@@ -108,4 +108,4 @@ print-complete =
 print-percent =
     .value = { $percent }%
 dialog-cancel-label = Cancelar
-dialog-close-label = Cerrar{ " " }
+dialog-close-label = Cerrar
