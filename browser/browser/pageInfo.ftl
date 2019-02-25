@@ -121,6 +121,8 @@ security-no-owner = Ova stranica nema informaciju o vlasništvu.
 media-select-folder = Odaberite mapu za spremanje slika
 media-unknown-not-cached =
     .value = Nepoznato (nije pohranjeno)
+permissions-use-default =
+    .label = Koristi zadane postavke
 security-no-visits = Ne
 # This string is used to display the type of
 # an image
