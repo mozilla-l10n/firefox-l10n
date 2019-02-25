@@ -17,6 +17,8 @@ close-window =
 general-tab =
     .label = General
     .accesskey = G
+general-url =
+    .value = Adreça:
 general-type =
     .value = Tipus:
 general-mode =
@@ -46,6 +48,8 @@ media-type =
     .label = Tipus
 media-size =
     .label = Mida
+media-count =
+    .label = Recompte
 media-dimension =
     .value = Dimensions:
 media-long-desc =
@@ -116,6 +120,8 @@ security-no-owner = Aquest lloc web no proporciona cap informació de propietat.
 media-select-folder = Seleccioneu una carpeta on desar les imatges
 media-unknown-not-cached =
     .value = Desconegut (no està a la memòria cau)
+permissions-use-default =
+    .label = Utilitza el valor per defecte
 security-no-visits = No
 # This string is used to display the type of
 # an image
