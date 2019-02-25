@@ -113,4 +113,21 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-no = ບໍ່
+image-size-unknown = ບໍ່ຮູ້
+media-img = ຮູບພາບ
+media-bg-img = ພື້ນຫຼັງ
+media-border-img = ຂອບ
+media-list-img = ຈຸດນຳ
+media-cursor = ເຄີເຊີ
+media-object = ວັດຖຸ
+media-link = ໄອຄອນ
+media-input = ຄ່າເຂົ້າ
+media-video = ວີດີໂອ
+media-audio = ສຽງ
+saved-passwords-yes = ຕົກລົງ
+saved-passwords-no = ບໍ່
 security-no-owner = ເວັບໄຊຕ໌ນີ້ບໍ່ໄດ້ສະຫນອງຂໍ້ມູນສ່ວນບຸກຄົນ.
+permissions-use-default =
+    .label = ໃຊ້ຄ່າເລີ່ມຕົ້ນ
+security-no-visits = ບໍ່
