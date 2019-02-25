@@ -91,3 +91,21 @@ hf-page-and-total =
     .label = Page # of #
 hf-custom =
     .label = Custom…
+print-preview-window =
+    .title = Print Preview
+print-title =
+    .value = Title:
+print-preparing =
+    .value = Preparing…
+print-progress =
+    .value = Progress:
+print-window =
+    .title = Printing
+print-complete =
+    .value = Printing is Completed.
+# Variables
+# $percent (integer) - Number of printed percentage
+print-percent =
+    .value = { $percent }%
+dialog-cancel-label = Cancel
+dialog-close-label = Close
