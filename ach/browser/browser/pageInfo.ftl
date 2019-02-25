@@ -89,9 +89,15 @@ security-view-identity-domain =
     .value = Kakube:
 security-view-identity-verifier =
     .value = Lamoko ne aye:
+security-view-identity-validity =
+    .value = Kare ne bitum i:
 security-view-privacy =
     .value = Mung ki gin mukato
 security-view-privacy-history-value = Mono alimo kakube man con mapat ki tin?
+security-view-privacy-sitedata-value = Kakube man tye kakano ngec i kompiuta mamega?
+security-view-privacy-clearsitedata =
+    .label = Jwa Angija ki Data me kakube
+    .accesskey = J
 security-view-privacy-passwords-value = Mono agwoko mung me donyo pi kakube man?
 security-view-privacy-viewpasswords =
     .label = Nen mung me donyo ma kigwoko
@@ -107,6 +113,10 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-cookies = Eyo, angija ki { $value } { $unit } me data me kakube
+security-site-data-only = Eyo, { $value } { $unit } me data me kakube
+security-site-data-cookies-only = Eyo, angija
+security-site-data-no = Pe
 image-size-unknown = Pe ngene
 not-set-verified-by = Pe kicimo
 not-set-alternative-text = Pe kicimo
