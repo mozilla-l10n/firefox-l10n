@@ -4,6 +4,8 @@
 
 print-setup =
     .title = Səhifə nizamı
+custom-prompt-title = Fərdi…
+custom-prompt-prompt = Fərdi başlıq/haşiyə mətnini daxil edin
 basic-tab =
     .label = Forma və Seçimlər
 advanced-tab =
@@ -87,6 +89,8 @@ hf-page =
     .label = #. səhifə
 hf-page-and-total =
     .label = #/#. səhifə
+hf-custom =
+    .label = Fərdi…
 print-preview-window =
     .title = Çapa ön baxış
 print-title =
