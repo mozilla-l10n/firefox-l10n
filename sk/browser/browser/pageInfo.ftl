@@ -2,6 +2,72 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/. --
 
+page-info-window =
+    .style = width: 650px; min-height: 550px;
+copy =
+    .key = C
+menu-copy =
+    .label = Kopírovať
+    .accesskey = K
+select-all =
+    .key = A
+menu-select-all =
+    .label = Vybrať všetko
+    .accesskey = a
+close-window =
+    .key = A
+general-tab =
+    .label = Všeobecné
+    .accesskey = V
+general-title =
+    .value = Názov:
+general-url =
+    .value = Adresa:
+general-type =
+    .value = Typ:
+general-mode =
+    .value = Spôsob vykreslenia:
+general-size =
+    .value = Veľkosť:
+general-referrer =
+    .value = Odkazujúca adresa URL:
+general-modified =
+    .value = Upravená:
+general-encoding =
+    .value = Kódovanie textu:
+general-meta-name =
+    .label = Názov
+general-meta-content =
+    .label = Obsah
+media-tab =
+    .label = Médiá
+    .accesskey = M
+media-location =
+    .value = Adresa:
+media-text =
+    .value = Priradený text:
+media-alt-header =
+    .label = Alternatívny text
+media-address =
+    .label = Adresa
+media-type =
+    .label = Typ
+media-size =
+    .label = Veľkosť
+media-count =
+    .label = Počet
+media-dimension =
+    .value = Rozmery:
+media-long-desc =
+    .value = Dlhý popis:
+media-save-as =
+    .label = Uložiť ako…
+    .accesskey = U
+media-save-image-as =
+    .label = Uložiť ako…
+    .accesskey = a
+media-preview =
+    .value = Ukážka:
 perm-tab =
     .label = Povolenia
     .accesskey = P
@@ -21,9 +87,17 @@ security-view-identity-owner =
     .value = Vlastník:
 security-view-identity-domain =
     .value = Webová stránka:
+security-view-identity-verifier =
+    .value = Overil ju:
+security-view-identity-validity =
+    .value = Koniec platnosti:
 security-view-privacy =
     .value = Súkromie a história
 security-view-privacy-history-value = Navštívil som túto stránku v minulosti?
+security-view-privacy-sitedata-value = Ukladá táto stránka informácie na mojom počítači?
+security-view-privacy-clearsitedata =
+    .label = Vymazať cookies a údaje stránok
+    .accesskey = c
 security-view-privacy-passwords-value = Uložil som pre túto stránku nejaké heslá?
 security-view-privacy-viewpasswords =
     .label = Zobraziť uložené heslá
@@ -39,6 +113,10 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-cookies = Áno, cookies a { $value } { $unit } údajov stránok
+security-site-data-only = Áno, { $value } { $unit } údajov stránok
+security-site-data-cookies-only = Áno, cookies
+security-site-data-no = Nie
 image-size-unknown = Neznáme
 not-set-verified-by = Nie je zadané
 not-set-alternative-text = Nie je zadané
@@ -95,6 +173,13 @@ media-dimensions =
 # Variables:
 #   $size (number) - The size of the media file in kilobytes
 media-file-size = { $size } kB
+# This string is used to display the website name next to the
+# "Block Images" checkbox in the media tab
+# Variables:
+#   $website (string) - The website name
+media-block-image =
+    .label = Blokovať obrázky z { $website }
+    .accesskey = B
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 # Variables:
