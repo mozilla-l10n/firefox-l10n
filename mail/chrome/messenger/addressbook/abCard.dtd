@@ -77,8 +77,11 @@
 <!ENTITY Birthday.label                 "Pen-blwydd:">
 <!ENTITY Birthday.accesskey             "P">
 <!ENTITY In.label                       "">
+<!ENTITY Month.placeholder              "Mis">
+<!ENTITY Day.placeholder                "Diwrnod">
 <!ENTITY Year.placeholder               "Blwyddyn">
 <!ENTITY Or.value                       "neu">
+<!ENTITY Age.label                      "Oed:">
 <!ENTITY Age.placeholder                "Oed">
 <!ENTITY YearsOld.label                 "">
 
@@ -141,7 +144,6 @@
 
 <!ENTITY Photo.tab                      "Ffoto">
 <!ENTITY Photo.accesskey                "o">
-<!ENTITY PhotoDesc.label                "Dewis un o'r canlynol:">
 <!ENTITY GenericPhoto.label             "Ffoto Generig">
 <!ENTITY GenericPhoto.accesskey         "G">
 <!ENTITY DefaultPhoto.label             "Rhagosodiad">
