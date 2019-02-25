@@ -94,6 +94,10 @@ security-view-identity-validity =
 security-view-privacy =
     .value = गोपनीयता आणि इतिहास
 security-view-privacy-history-value = आज या संकेत स्थळाला आधि भेट दिली होती का?
+security-view-privacy-sitedata-value = हे संकेत स्थळ संगणकावर माहिती संचयीत करत आहे का?
+security-view-privacy-clearsitedata =
+    .label = कुकीज आणि साईट माहिती पुसा
+    .accesskey = C
 security-view-privacy-passwords-value = या संकेत स्थळास कुठलेही पासवर्ड संचयीत केले गेले आहे का?
 security-view-privacy-viewpasswords =
     .label = संचयीत पासवर्ड पहा
@@ -109,6 +113,7 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-no = नाही
 image-size-unknown = अपिरिचीत
 not-set-verified-by = निश्चित न केलेले
 not-set-alternative-text = निश्चित न केलेले
