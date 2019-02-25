@@ -22,7 +22,7 @@ update-otherInstanceHandlingUpdates = Agiornamento de { -brand-short-name } inte
 update-manual = I agiornamenti en in <label data-l10n-name="manual-link"/>
 update-unsupported = No l'é poscibile instalâ atri agiornamenti in sce sto scistema.<label data-l10n-name="unsupported-link">Atre informaçioin</label>
 update-restarting = Arvo torna…
-channel-description = Oua ti ê into canâ de agiornamento <label data-l10n-name="current-channel"></label>.{ " " }
+channel-description = Oua ti ê into canâ de agiornamento <label data-l10n-name="current-channel"></label>.
 warningDesc-version = { -brand-short-name } o l'é sperimentale e o peu ese instabile.
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> a l'é 'na <label data-l10n-name="community-exp-creditsLink">comunitæ globale</label> ch'a travaggia insemme pe mantegnî a Ræ averta, pubrica e acesibile a tutti.
 community-2 = { -brand-short-name } o l'é fæto da <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, 'na <label data-l10n-name="community-creditsLink">comunitæ globale</label> ch'a travaggia insemme pe mantegnî a Ræ averta, pubrica e acesibile a tutti.
