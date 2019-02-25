@@ -32,6 +32,12 @@ media-preview =
     .value = Tebopele ya Mmedia:
 security-view-unknown = Ga e itsiwe
     .value = Ga e itsiwe
+security-view-identity-verifier =
+    .value = E netefaditswe ke:
+security-view-technical =
+    .value = Ditshetlana tsa Botegeniki{ " " }
+help-button =
+    .label = Thusa
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
