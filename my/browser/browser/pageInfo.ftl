@@ -89,9 +89,14 @@ security-view-identity-domain =
     .value = ဝဘ်ဆိုက်
 security-view-identity-verifier =
     .value = စီစစ်သူ
+security-view-identity-validity =
+    .value = ကုန်ဆုံးရက်။
 security-view-privacy =
     .value = ကိုယ်ရေးကာကွယ်မှုနှင့် မှတ်တမ်း
 security-view-privacy-history-value = ဒီဝဘ်ဆိုက်ကို အရင်က ရောက်ဖူးပါသလား။
+security-view-privacy-clearsitedata =
+    .label = ကွတ်ကီးများနှင့် ဝဘ်ဆိုက် အချက်အလက်အားလုံးကို ရှင်းလင်းပါ
+    .accesskey = C
 security-view-privacy-passwords-value = ဒီဝဘ်ဆိုက်အတွက် စကားဝှက်များကို သိမ်းထားမိပါသလား။
 security-view-privacy-viewpasswords =
     .label = သိမ်းထားသည့် စကားဝှက်များကို ကြည့်ရန်
@@ -107,6 +112,10 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-cookies = ဟုတ်တယ် { $value } { $unit } ကွတ်ကီးနှင့်ဆိုက်ဒေတာ
+security-site-data-only = ဟုတ်တယ် ဆိုက်ဒေတာ { $value }{ $unit }
+security-site-data-cookies-only = ဟုတ်ကဲ့၊ ကွတ်ကီးကို သိမ်းပါမည်
+security-site-data-no = မသိမ်းပါ
 image-size-unknown = အမည်မသိ
 not-set-verified-by = ဖော်ပြမထားပါ
 not-set-alternative-text = ဖော်ပြမထားပါ
