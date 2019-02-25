@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+print-setup =
+    .title = Mise en page
 custom-prompt-title = Personnaliser…
 custom-prompt-prompt = Saisissez votre texte d’en-tête ou de pied de page
 basic-tab =
@@ -23,6 +25,9 @@ scale =
     .accesskey = c
 scale-percent =
     .value = %
+shrink-to-fit =
+    .label = Adapter à la taille de la page
+    .accesskey = t
 options-group-label =
     .value = Options
 print-bg =
@@ -32,6 +37,26 @@ margin-group-label-inches =
     .value = Marges (pouces)
 margin-group-label-metric =
     .value = Marges (millimètres)
+margin-top =
+    .value = Haut :
+    .accesskey = H
+margin-top-invisible =
+    .value = Haut :
+margin-bottom =
+    .value = Bas :
+    .accesskey = B
+margin-bottom-invisible =
+    .value = Bas :
+margin-left =
+    .value = Gauche :
+    .accesskey = G
+margin-left-invisible =
+    .value = Gauche :
+margin-right =
+    .value = Droite :
+    .accesskey = D
+margin-right-invisible =
+    .value = Droite :
 header-footer-label =
     .value = En-têtes et pieds de page
 hf-left-label =
@@ -66,11 +91,21 @@ hf-page-and-total =
     .label = Page # sur #
 hf-custom =
     .label = Personnaliser…
+print-preview-window =
+    .title = Aperçu avant impression
+print-title =
+    .value = Titre :
 print-preparing =
     .value = Préparation…
 print-progress =
     .value = Progression :
+print-window =
+    .title = Impression
+print-complete =
+    .value = L’impression est terminée.
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =
     .value = { $percent }%
+dialog-cancel-label = Annuler
+dialog-close-label = Fermer
