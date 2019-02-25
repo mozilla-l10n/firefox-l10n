@@ -124,6 +124,8 @@ security-no-owner = ई वेबसाइट स्वामित्व सू
 media-select-folder = छवि केँ सहेजबाक लेल कोनो फोल्डर चुनू
 media-unknown-not-cached =
     .value = अज्ञात (कैश नहि)
+permissions-use-default =
+    .label = पूर्वनिर्धारित क प्रयोग  करू{ " " }
 security-no-visits = नहि
 # This string is used to display the type of
 # an image
