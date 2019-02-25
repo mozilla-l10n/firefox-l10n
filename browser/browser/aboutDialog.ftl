@@ -22,7 +22,7 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } est mis à jour par 
 update-manual = Mises à jour disponibles à <label data-l10n-name="manual-link"/>
 update-unsupported = La dernière version n’est pas disponible pour votre système. <label data-l10n-name="unsupported-link">En savoir plus</label>
 update-restarting = Redémarrage…
-channel-description = Vous utilisez actuellement le canal de mise à jour <label data-l10n-name="current-channel"></label>.{ " " }
+channel-description = Vous utilisez actuellement le canal de mise à jour <label data-l10n-name="current-channel"></label>.
 warningDesc-version = { -brand-short-name } est expérimental et peut être instable.
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> est une <label data-l10n-name="community-exp-creditsLink">communauté mondiale</label> de contributeurs qui travaillent ensemble pour garder le Web ouvert, public et accessible à tous.
 community-2 = { -brand-short-name } est conçu par <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, une communauté mondiale de <label data-l10n-name="community-creditsLink">contributeurs</label> qui travaillent ensemble pour garder le Web ouvert, public et accessible à tous.
