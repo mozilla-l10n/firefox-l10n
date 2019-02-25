@@ -4,6 +4,20 @@
 
 page-info-window =
     .style = width: 600px; min-height: 550px;
+copy =
+    .key = C
+select-all =
+    .key = A
+menu-select-all =
+    .label = Pileh Bandum
+    .accesskey = A
+close-window =
+    .key = A
+general-tab =
+    .label = Umom
+    .accesskey = G
+general-meta-name =
+    .label = Nan
 security-view-unknown = Hana Jituri
     .value = Hana Jituri
 
