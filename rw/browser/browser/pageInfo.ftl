@@ -16,6 +16,8 @@ close-window =
     .key = A
 general-url =
     .value = Aderesi:
+general-type =
+    .value = Ubwoko:
 general-mode =
     .value = Uburyo bw'Isubiza:
 general-size =
@@ -43,6 +45,8 @@ media-save-as =
     .accesskey = M
 media-preview =
     .value = Igaragazambere y'Ibitangazamakuru:
+security-view-unknown = Kitazwi
+    .value = Kitazwi
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -60,5 +64,12 @@ media-object = Ikintu
 media-embed = Kwinjizamo
 media-link = Agashushondanga
 media-input = Icyinjizwa
+saved-passwords-yes = Yego
+saved-passwords-no = Oya
 no-page-title =
     .value = Paji Itafite Izina:
+general-quirks-mode =
+    .value = Uburyo bwa Quirks
+general-strict-mode =
+    .value = Uburyo bwo kubahiriza amabwiriza
+security-no-visits = Oya
