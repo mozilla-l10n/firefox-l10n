@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/. --
 
+page-info-window =
+    .style = width: 600px; min-height: 550px;
 copy =
     .key = C
 menu-copy =
@@ -17,6 +19,8 @@ close-window =
 general-tab =
     .label = Ընդհանուր
     .accesskey = G
+general-title =
+    .value = Վերնագիր․
 general-url =
     .value = Հասցեն.
 general-type =
@@ -25,10 +29,16 @@ general-mode =
     .value = Ցուցադրման Եղանակը.
 general-size =
     .value = Չափը.
+general-referrer =
+    .value = Հղվող URL-ն.
 general-modified =
     .value = Փոփոխված է.
+general-encoding =
+    .value = Տեքստի կոդավորումը.
 general-meta-name =
     .label = Անվանումը
+general-meta-content =
+    .label = Բովանդակություն
 media-tab =
     .label = Մեդիա
     .accesskey = M
@@ -50,6 +60,12 @@ media-dimension =
     .value = Չափերը`
 media-long-desc =
     .value = Երկար Նկարագրություն.
+media-save-as =
+    .label = Պահպանել որպես…
+    .accesskey = A
+media-save-image-as =
+    .label = Պահպանել որպես…
+    .accesskey = e
 media-preview =
     .value = Մեդիայի նախադիտում.
 security-tab =
@@ -57,12 +73,16 @@ security-tab =
     .accesskey = S
 security-view-unknown = Անհայտ
     .value = Անհայտ
+security-view-identity =
+    .value = Վեբ Կայքի ինքնությունը
 security-view-identity-owner =
     .value = Սեփականատեր`
 security-view-identity-domain =
     .value = Վեբ Կայք`
 security-view-identity-verifier =
     .value = Ստուգվել է`
+security-view-privacy =
+    .value = Գաղտնիությունը և պատմությունը
 security-view-privacy-history-value = Ես այցելե՞լ էմ այս կայք մինչև այսօր
 security-view-privacy-passwords-value = Պահպանե՞լ եմ արդյոք գաղտնաբառեր այս կայքի համար
 security-view-privacy-viewpasswords =
@@ -70,6 +90,8 @@ security-view-privacy-viewpasswords =
     .accesskey = w
 security-view-technical =
     .value = Տեխնիկական Մանրամասնություններ
+help-button =
+    .label = Օգնություն
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -82,6 +104,7 @@ not-set-verified-by = Նշված չէ
 not-set-alternative-text = Նշված չէ
 not-set-date = Նշված չէ
 media-img = Նկար
+media-bg-img = Խորապատկեր
 media-border-img = Եզրագիծը
 media-list-img = Կետանիշերով
 media-cursor = Կուրսորը
@@ -100,8 +123,11 @@ general-quirks-mode =
 general-strict-mode =
     .value = Ստանդարտներին համաձայն եղանակ
 security-no-owner = Այս վեբ կայքը չի տրամադրում իր սեփականատիրոջ ինֆորմացիան:
+media-select-folder = Ընտրեք թղթապանակ՝ պատկերները պահպանելու համար
 media-unknown-not-cached =
     .value = Անհայտ (չի մտապահվել)
+permissions-use-default =
+    .label = Օգտ. լռելյայն
 security-no-visits = Ոչ՜
 # This string is used to display the type of
 # an image
