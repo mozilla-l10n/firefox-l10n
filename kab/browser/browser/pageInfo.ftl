@@ -94,6 +94,9 @@ security-view-identity-validity =
 security-view-privacy =
     .value = Tudert tusligt d umezgar
 security-view-privacy-history-value = Rziɣ yakan ɣer usmel-a web?
+security-view-privacy-clearsitedata =
+    .label = Sfeḍ inagan n tuqna akked isefka n usmel
+    .accesskey = C
 security-view-privacy-passwords-value = Skelseɣ awal uffir i usmel-a web?
 security-view-privacy-viewpasswords =
     .label = Wali awalen uffiren yettwakelsen
@@ -109,6 +112,10 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-cookies = Ih, inagan n tuqna akked{ $value } { $unit } seg isefka n usmel
+security-site-data-only = Ih, { $value } { $unit } seg isefka n usmel
+security-site-data-cookies-only = Ih, inagan n tuqna
+security-site-data-no = Ala
 image-size-unknown = Arussin
 not-set-verified-by = Ur d-ittumudd ara
 not-set-alternative-text = Ur d-ittumudd ara
