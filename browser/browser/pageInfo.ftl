@@ -2,6 +2,89 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/. --
 
+page-info-window =
+    .style = width: 435px; min-height: 480px;
+copy =
+    .key = C
+menu-copy =
+    .label = Копіювати
+    .accesskey = о
+select-all =
+    .key = A
+close-window =
+    .key = A
+general-url =
+    .value = Адреса:
+general-type =
+    .value = Тип:
+general-mode =
+    .value = Режим відображення:
+general-size =
+    .value = Розмір:
+general-referrer =
+    .value = URL, що посилається:
+general-modified =
+    .value = Остання зміна:
+general-meta-name =
+    .label = Назва
+media-tab =
+    .label = Мультимедіа
+    .accesskey = М
+media-location =
+    .value = Розташування:
+media-text =
+    .value = Пов’язаний текст:
+media-alt-header =
+    .label = Замінний текст
+media-address =
+    .label = Адреса
+media-type =
+    .label = Тип
+media-size =
+    .label = Розмір
+media-count =
+    .label = Кількість
+media-dimension =
+    .value = Виміри:
+media-long-desc =
+    .value = Розширений опис:
+media-save-as =
+    .label = Зберегти як…
+    .accesskey = З
+media-save-image-as =
+    .label = Зберегти як…
+    .accesskey = з
+media-preview =
+    .value = Попередній перегляд мультимедіа:
+perm-tab =
+    .label = Дозволи
+    .accesskey = Д
+permissions-for =
+    .value = Дозволи для:
+security-tab =
+    .label = Безпека
+    .accesskey = з
+security-view =
+    .label = Переглянути сертифікат
+    .accesskey = ф
+security-view-unknown = Невідомий
+    .value = Невідомий
+security-view-identity =
+    .value = Справжність сайту
+security-view-identity-owner =
+    .value = Власник:{ " " }
+security-view-identity-domain =
+    .value = Сайт:{ " " }
+security-view-identity-verifier =
+    .value = Засвідчено:{ " " }
+security-view-privacy =
+    .value = Конфіденційність та історія
+security-view-privacy-passwords-value = Чи зберігаю я паролі для цього сайту?
+security-view-privacy-viewpasswords =
+    .label = Переглянути збережені паролі
+    .accesskey = п
+security-view-technical =
+    .value = Технічні подробиці
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -14,15 +97,23 @@ not-set-verified-by = Не вказано
 not-set-alternative-text = Не вказано
 not-set-date = Не вказано
 media-img = Зображення
+media-bg-img = Тло
+media-border-img = Рамка
+media-list-img = Маркер
+media-cursor = Курсор
 media-object = Об’єкт
 media-embed = Вбудований об’єкт
 media-link = Піктограма
 media-input = Поле введення
+media-video = Відео
+media-audio = Аудіо
 saved-passwords-yes = Так
 saved-passwords-no = Ні
 media-select-folder = Оберіть теку для збереження зображень
 media-unknown-not-cached =
     .value = Невідомо (не закешовано)
+permissions-use-default =
+    .label = Типово
 security-no-visits = Ні
 # This string is used to display the size of a scaled image
 # in both scaled and unscaled pixels
@@ -39,3 +130,10 @@ media-dimensions-scaled =
 #   $dimy (number) - The vertical size of an image
 media-dimensions =
     .value = { $dimx }px × { $dimy }px
+# This string is used to display the website name next to the
+# "Block Images" checkbox in the media tab
+# Variables:
+#   $website (string) - The website name
+media-block-image =
+    .label = Заблокувати зображення з { $website }
+    .accesskey = Р
