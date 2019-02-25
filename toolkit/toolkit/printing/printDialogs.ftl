@@ -4,6 +4,8 @@
 
 print-setup =
     .title = Agordi paĝon
+custom-prompt-title = Personecigita…
+custom-prompt-prompt = Tajpu vian personecigitan tekston por kaptitolo aŭ subtitolo
 basic-tab =
     .label = Formato kaj elektebloj
 advanced-tab =
@@ -87,6 +89,8 @@ hf-page =
     .label = Paĝo #
 hf-page-and-total =
     .label = Paĝo # de #
+hf-custom =
+    .label = Personecigita…
 print-preview-window =
     .title = Antaŭvidi presadon
 print-title =
