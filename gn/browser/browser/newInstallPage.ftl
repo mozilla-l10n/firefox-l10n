@@ -22,4 +22,5 @@ sync-input =
     .placeholder = Ñanduti veve
 sync-button = Ku'ejey
 sync-terms = Eku’ejeývo, emoneĩ ko’ã <a data-l10n-name="terms">Mba'epytyvõrã ñemboguata</a> ha pe <a data-l10n-name="privacy">Ñemigua marandu’i</a>.
+sync-first = ¿Eipuru ñepyrũhína { -sync-brand-name }? Emoñepyrũva’erã tembiapo opaite Firefox ñemohendápe emoñondive hag̃ua ne marandu.
 sync-learn = Kuaave
