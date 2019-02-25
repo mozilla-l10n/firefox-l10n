@@ -114,6 +114,8 @@ security-no-owner = Осы сайт иелік туралы ақпарат жо�
 media-select-folder = Суреттерді сақтау үшін буманы таңдаңыз
 media-unknown-not-cached =
     .value = Белгісіз (кэштелмеген)
+permissions-use-default =
+    .label = Негізгісін қолдану
 security-no-visits = Жоқ
 # This string is used to display the type of
 # an image
