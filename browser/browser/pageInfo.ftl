@@ -73,6 +73,8 @@ security-view =
     .accesskey = х
 security-view-unknown = Үл мэдэгдэх
     .value = Үл мэдэгдэх
+security-view-identity-owner =
+    .value = Эзэмшигч:{ " " }
 security-view-identity-verifier =
     .value = Шалгасан:{ " " }
 security-view-privacy-viewpasswords =
@@ -108,6 +110,8 @@ general-strict-mode =
 media-select-folder = Зурагнуудыг хадгалах санг сонго
 media-unknown-not-cached =
     .value = Үл мэдэгдэх (түр хадгалагдаагүй)
+permissions-use-default =
+    .label = Анхдагч эрхийг хэрэглэ
 security-no-visits = Үгүй
 # This string is used to display the type of
 # an image
