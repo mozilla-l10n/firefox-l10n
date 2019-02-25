@@ -113,6 +113,8 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-cookies = Oo, cookies at { $value } { $unit } ng site data
+security-site-data-only = Oo, { $value } { $unit } ng site data
 security-site-data-cookies-only = Yes, cookies
 security-site-data-no = Hindi
 image-size-unknown = Hindi alam
