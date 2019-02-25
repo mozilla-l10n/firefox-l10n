@@ -96,10 +96,13 @@ print-preparing =
     .value = Pripravuje sa…
 print-progress =
     .value = Priebeh:
+print-window =
+    .title = Tlačí sa
 print-complete =
     .value = Tlač je dokončená.
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =
     .value = { $percent }%
+dialog-cancel-label = Zrušiť
 dialog-close-label = Zavrieť
