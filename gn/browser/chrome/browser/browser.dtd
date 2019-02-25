@@ -996,7 +996,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Kookie">
 <!ENTITY contentBlocking.cookiesView.label "Kookie ha mba’ekuaarã renda rehegua">
 
+<!ENTITY contentBlocking.cryptominers.label "Criptominero">
+<!ENTITY contentBlocking.cryptominersView.label "Criptominero">
 
+<!ENTITY contentBlocking.fingerprinters.label "Fingerprinters">
+<!ENTITY contentBlocking.fingerprintersView.label "Fingerprinters">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Emomarandu apañuãi rehegua">
 <!ENTITY contentBlocking.breakageReportView.label "Emombe’u apañuãi">
@@ -1130,5 +1134,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Eñangareko ne rembipuru'i eikutúvo <image class='addon-addon-icon'/> poravorã <image class='addon-toolbar-icon'/> pegua.">
 
+<!ENTITY addonPrivateBrowsing.header.label "Jepysokue ovetã ñemíme">
+<!ENTITY addonPrivateBrowsing.okButton.label "Oĩma, aikumby">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "O">
+<!ENTITY addonPrivateBrowsing.manageButton.label "Eñangareko jepysokuére">
 <!ENTITY addonPrivateBrowsing.manageButton.accesskey "M">

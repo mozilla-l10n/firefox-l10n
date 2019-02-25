@@ -11,8 +11,8 @@
 <!ENTITY returnToPreviousPage1.label "Eguevi (mboajepyre)">
 <!ENTITY advanced.label "Opanungáva">
 <!ENTITY continue2.label "Hetave…">
+<!ENTITY advanced2.label "Opapotáva…">
 <!ENTITY moreInformation.label "Eñemomaranduve">
-
 <!ENTITY viewCertificate.label "Mboajapyre jehecha">
 
 <!-- Specific error messages -->
@@ -98,9 +98,6 @@ will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "<span class='hostname'/> jára ombohekóma iñanduti kuatiarogue ndoikoiete hag̃uáicha. Anive hag̃ua nemarandu oñemonda, &brandShortName; ndaikatúi oike ko ñanduti rendápe.">
 <!ENTITY certerror.introPara2 "&brandShortName; ojuhu tekorosã ombyaikuaáva ha upévare opytáma <span class='hostname'/>. Eikéramo ko tendápe, ikatu umi mba’evai omondase ndehegui marandu ha’éva ñe’ẽñemi, ñanduti veve térã kuatia'atã ñemurãva.">
-
-<!ENTITY certerror.expiredCert.secondPara "Ko apañuãi ikatuhína pe aravo oĩvai rupi ne mohendahápe, oñatõiva &brandShortName;-pe oikekatu hag̃ua.">
-
 <!ENTITY certerror.sts.introPara "&brandShortName; ohechakuaa tekorosã imarãkuaaha ha upévare ndoku’evéi <span class='hostname'/> gotyo ko ñanduti renda oikotevẽ jeike katu rehe.">
 
 <!ENTITY certerror.expiredCert.introPara "&brandShortName; ohechakuaa peteĩ apañuãi ha upévare ndoku’evéi <span class='hostname'/> gotyo. Ko ñanduti renda noñembohekoporãi térã ne mohendaha aravopapaha noñembohekói aravo añetévape.">
@@ -164,6 +161,7 @@ Pe arapapaha ne mohendaha rehegua oĩporã <span id='wrongSystemTime_systemDate2
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> oipuru tembipuru pyahu rekorosãrã ndoikovéimava ha oimeraẽva ombyaikuaáva. Peteĩ tekoñaña ikatu ohechauka marandu hekorosãha gua'ú. Pe ñanduti renda ñangarekohára omyatãraẽva'erã pe mohendahavusu oike mboyve tendápe.</p><p>Ayvu jejavy: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Kuatiarogue jokopyre">
+
 
 <!ENTITY clockSkewError.title "Aravopapaha mohendaha rehegua oĩvai">
 <!ENTITY clockSkewError.longDesc "Ne mohendaha oimo’ã ha’eha <span id='wrongSystemTime_systemDate1'/>, oñemotenondéva &brandShortName; rehe eikekatu hag̃ua. Eike hag̃ua <span class='hostname'></span>, embohekopyahu ne mohendaha aravo, arange ha aravo rendaguasu ag̃agua, ha upéi emyenyhẽjey <span class='hostname'></span>.">

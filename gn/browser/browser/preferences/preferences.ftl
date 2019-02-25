@@ -527,6 +527,7 @@ sync-mobilepromo-single = Embojuaju ambue mba'e'oka
 sync-mobilepromo-multi = Mba'e'oka ñangarekoha
 sync-connect-another-device = Embojuaju ambue mba’e’oka
 sync-manage-devices = Eñangareko mba'e'okáre
+sync-fxa-begin-pairing = Embojoja mba'e'oka
 sync-tos-link = Mba'epytyvõrã ñemboguata
 sync-fxa-privacy-notice = Purureko ñemiguáva momarandu
 
@@ -685,6 +686,15 @@ content-blocking-tracking-protection-change-block-list = Emoambue jokoha rysýi
 content-blocking-cookies-label =
     .label = Kookie
     .accesskey = C
+# Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
+content-blocking-cryptominers-label =
+    .label = Criptominero
+    .accesskey = y
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+content-blocking-fingerprinters-label =
+    .label = Fingerprinters
+    .accesskey = F
 
 ## Privacy Section - Tracking
 
