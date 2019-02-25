@@ -30,6 +30,9 @@ shrink-to-fit =
     .accesskey = o
 options-group-label =
     .value = Opcje
+print-bg =
+    .label = Drukuj tło (kolory oraz obrazy)
+    .accesskey = k
 margin-group-label-inches =
     .value = Marginesy (w calach)
 margin-group-label-metric =
@@ -96,3 +99,13 @@ print-preparing =
     .value = Przygotowywanie…
 print-progress =
     .value = Postęp:
+print-window =
+    .title = Drukowanie
+print-complete =
+    .value = Ukończono drukowanie.
+# Variables
+# $percent (integer) - Number of printed percentage
+print-percent =
+    .value = { $percent }%
+dialog-cancel-label = Anuluj
+dialog-close-label = Zamknij
