@@ -8,6 +8,15 @@ format-group-label =
     .value = Forma
 orientation-label =
     .value = Ünvan:
+portrait =
+    .label = Şaquli
+    .accesskey = Ş
+landscape =
+    .label = Üfiqi
+    .accesskey = Ü
+scale =
+    .label = Ölçü:
+    .accesskey = Ö
 scale-percent =
     .value = %
 shrink-to-fit =
@@ -76,4 +85,9 @@ print-window =
     .title = Çap edilən
 print-complete =
     .value = Çap tamamlandı.
+# Variables
+# $percent (integer) - Number of printed percentage
+print-percent =
+    .value = { $percent }%
 dialog-cancel-label = ləğv et
+dialog-close-label = Qapat
