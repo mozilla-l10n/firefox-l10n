@@ -18,6 +18,8 @@ landscape =
 scale =
     .label = المقياس:
     .accesskey = م
+scale-percent =
+    .value = ٪
 shrink-to-fit =
     .label = قلص ليناسب عرض الصّفحة
     .accesskey = ص
@@ -89,5 +91,9 @@ print-window =
     .title = يطبع
 print-complete =
     .value = اكتملت الطّباعة.
+# Variables
+# $percent (integer) - Number of printed percentage
+print-percent =
+    .value = { $percent }٪
 dialog-cancel-label = ألغِ
 dialog-close-label = أغلق
