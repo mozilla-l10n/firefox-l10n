@@ -17,6 +17,8 @@ close-window =
 general-tab =
     .label = સામાન્ય
     .accesskey = G
+general-title =
+    .value = શીર્ષક:
 general-url =
     .value = સરનામું:
 general-type =
@@ -29,6 +31,8 @@ general-referrer =
     .value = સંદર્ભિત URL:
 general-modified =
     .value = સુધારેલ:
+general-encoding =
+    .value = ટેક્સ્ટ એન્કોડિંગ:
 general-meta-name =
     .label = નામ
 general-meta-content =
@@ -83,6 +87,8 @@ security-view-identity-domain =
     .value = વેબ સાઈટ:{ " " }
 security-view-identity-verifier =
     .value = ચકાસનાર:{ " " }
+security-view-identity-validity =
+    .value = ના રોજ સમાપ્ત થયેલ:
 security-view-privacy =
     .value = ખાનગીપણું & ઇતિહાસ
 security-view-privacy-history-value = શું મેં આ વેબસાઈટની આજે પહેલાં મુલાકાત લીધી છે?
@@ -92,6 +98,8 @@ security-view-privacy-viewpasswords =
     .accesskey = w
 security-view-technical =
     .value = ટેક્નિકલ વિગતો
+help-button =
+    .label = મદદ
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
