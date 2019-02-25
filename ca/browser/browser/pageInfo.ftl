@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/. --
 
+page-info-window =
+    .style = width: 600px; min-height: 550px;
 copy =
     .key = C
 menu-copy =
@@ -17,6 +19,8 @@ close-window =
 general-tab =
     .label = General
     .accesskey = G
+general-title =
+    .value = Títol:
 general-url =
     .value = Adreça:
 general-type =
@@ -29,6 +33,8 @@ general-referrer =
     .value = URL referent:
 general-modified =
     .value = Modificat:
+general-encoding =
+    .value = Codificació del text:
 general-meta-name =
     .label = Nom
 general-meta-content =
@@ -70,6 +76,9 @@ permissions-for =
 security-tab =
     .label = Seguretat
     .accesskey = S
+security-view =
+    .label = Mostra el certificat
+    .accesskey = c
 security-view-unknown = Desconegut
     .value = Desconegut
 security-view-identity =
@@ -80,12 +89,19 @@ security-view-identity-domain =
     .value = Lloc web:{ " " }
 security-view-identity-verifier =
     .value = Verificat per:{ " " }
+security-view-identity-validity =
+    .value = Data de venciment:
 security-view-privacy =
     .value = Privadesa i historial
 security-view-privacy-history-value = He visitat aquest lloc web abans d'avui?
 security-view-privacy-passwords-value = He desat cap contrasenya d'aquest lloc web?
+security-view-privacy-viewpasswords =
+    .label = Mostra les contrasenyes desades
+    .accesskey = y
 security-view-technical =
     .value = Detalls tècnics
+help-button =
+    .label = Ajuda
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
