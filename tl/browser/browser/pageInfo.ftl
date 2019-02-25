@@ -94,6 +94,10 @@ security-view-identity-validity =
 security-view-privacy =
     .value = Kasaysayan ng Privadong &
 security-view-privacy-history-value = Have I visited this web site prior to today?
+security-view-privacy-sitedata-value = Ang website ba na ito ay nag-iimbak ng impormasyon sa aking computer?
+security-view-privacy-clearsitedata =
+    .label = I-clear ang Cookies at Site Data
+    .accesskey = C
 security-view-privacy-passwords-value = Have I saved any passwords for this web site?
 security-view-privacy-viewpasswords =
     .label = Ipakita ang naka-saved na Passwords
@@ -110,6 +114,7 @@ help-button =
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
 security-site-data-cookies-only = Yes, cookies
+security-site-data-no = Hindi
 image-size-unknown = Hindi alam
 not-set-verified-by = Hindi tukoy
 not-set-alternative-text = Hindi tukoy
