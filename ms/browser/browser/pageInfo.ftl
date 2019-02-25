@@ -63,6 +63,15 @@ media-audio = Audio
 saved-passwords-yes = Ya
 saved-passwords-no = Tidak
 security-no-visits = Tidak
+# This string is used to display the size of a scaled image
+# in both scaled and unscaled pixels
+# Variables:
+#   $dimx (number) - The horizontal size of an image
+#   $dimy (number) - The vertical size of an image
+#   $scaledx (number) - The scaled horizontal size of an image
+#   $scaledy (number) - The scaled vertical size of an image
+media-dimensions-scaled =
+    .value = { $dimx }px × { $dimy }px (berskala { $scaledx }px × { $scaledy }px)
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
