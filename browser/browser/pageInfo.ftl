@@ -21,6 +21,8 @@ general-url =
     .value = સરનામું:
 general-type =
     .value = પ્રકાર:
+general-mode =
+    .value = રેન્ડર સ્થિતિ:
 general-size =
     .value = માપ:
 general-referrer =
@@ -34,6 +36,10 @@ general-meta-content =
 media-tab =
     .label = મીડિયા
     .accesskey = M
+media-location =
+    .value = સ્થાન:
+media-text =
+    .value = સંકલિત લખાણ:
 media-alt-header =
     .label = વૈકલ્પિક લખાણ
 media-address =
@@ -99,14 +105,23 @@ not-set-alternative-text = સ્પષ્ટ થયેલ નથી
 not-set-date = સ્પષ્ટ થયેલ નથી
 media-img = ચિત્ર
 media-bg-img = પાશ્વ ભાગ
+media-border-img = કિનારી
+media-list-img = બુલેટ
+media-cursor = કર્સર
 media-object = ઓબ્જેક્ટ
 media-embed = જડો
 media-link = ચિહ્ન
 media-input = ઈનપુટ
+media-video = વિડિઓ
+media-audio = ઑડિઓ
 saved-passwords-yes = હા
 saved-passwords-no = ના
 no-page-title =
     .value = શીર્ષકવીહિન પાનું:
+general-quirks-mode =
+    .value = Quirks સ્થિતિ
+general-strict-mode =
+    .value = પ્રમાણભૂત સુસંગત સ્થિતિ
 security-no-owner = આ વેબ સાઈટ માલિક જાણકારી પૂરી પાડતી નથી.
 media-select-folder = ચિત્રો સંગ્રહવા માટે ફોલ્ડર પસંદ કરો
 media-unknown-not-cached =
@@ -120,6 +135,21 @@ security-no-visits = ના
 #   $type (string) - The type of an image
 media-image-type =
     .value = { $type } ચિત્ર
+# This string is used to display the size of a scaled image
+# in both scaled and unscaled pixels
+# Variables:
+#   $dimx (number) - The horizontal size of an image
+#   $dimy (number) - The vertical size of an image
+#   $scaledx (number) - The scaled horizontal size of an image
+#   $scaledy (number) - The scaled vertical size of an image
+media-dimensions-scaled =
+    .value = { $dimx }px × { $dimy }px ({ $scaledx }px × { $scaledy }px સુધી ખેંચાયેલ)
+# This string is used to display the size of an image in pixels
+# Variables:
+#   $dimx (number) - The horizontal size of an image
+#   $dimy (number) - The vertical size of an image
+media-dimensions =
+    .value = { $dimx }px × { $dimy }px
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
