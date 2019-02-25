@@ -22,7 +22,7 @@ general-tab =
 general-title =
     .value = Tytuł:
 general-url =
-    .value = URL:
+    .value = Adres:
 general-type =
     .value = Typ:
 general-mode =
@@ -43,7 +43,7 @@ media-tab =
     .label = Media
     .accesskey = M
 media-location =
-    .value = Adres:
+    .value = Położenie:
 media-text =
     .value = Powiązany tekst:
 media-alt-header =
@@ -147,6 +147,51 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = Używaj domyślnych
 security-no-visits = Nie
+# This string is used to display the number of meta tags
+# in the General Tab
+# Variables:
+#   $tags (number) - The number of meta tags
+general-meta-tags =
+    .value =
+        { $tags ->
+            [one] Meta (1 znacznik)
+            [few] Meta ({ $tags } znaczniki)
+           *[other] Meta ({ $tags } znaczników)
+        }
+# This string is used to display the number of times
+# the user has visited the website prior
+# Variables:
+#   $visits (number) - The number of previous visits
+security-visits-number =
+    { $visits ->
+        [0] Nie
+        [one] Tak, raz
+        [few] Tak, { $visits } razy
+       *[other] Tak, { $visits } razy
+    }
+# This string is used to display the size of a media file
+# Variables:
+#   $kb (number) - The size of an image in Kilobytes
+#   $bytes (number) - The size of an image in Bytes
+properties-general-size =
+    .value =
+        { $bytes ->
+            [one] { $kb } KB ({ $bytes } bajt)
+            [few] { $kb } KB ({ $bytes } bajty)
+           *[other] { $kb } KB ({ $bytes } bajtów)
+        }
+# This string is used to display the type and number
+# of frames of a animated image
+# Variables:
+#   $type (string) - The type of a animated image
+#   $frames (number) - The number of frames in an animated image
+media-animated-image-type =
+    .value =
+        { $frames ->
+            [one] Obraz { $type } (animowany, { $frames } klatka)
+            [few] Obraz { $type } (animowany, { $frames } klatki)
+           *[other] Obraz { $type } (animowany, { $frames } klatek)
+        }
 # This string is used to display the type of
 # an image
 # Variables:
