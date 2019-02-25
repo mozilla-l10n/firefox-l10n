@@ -2,6 +2,29 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/. --
 
+copy =
+    .key = C
+menu-copy =
+    .label = คัดลอก
+    .accesskey = ค
+select-all =
+    .key = A
+close-window =
+    .key = A
+general-meta-name =
+    .label = ชื่อ
+general-meta-content =
+    .label = เนื้อหา
+media-alt-header =
+    .label = ข้อความแทนภาพ
+media-address =
+    .label = ที่อยู่
+media-type =
+    .label = ชนิด
+media-size =
+    .label = ขนาด
+media-count =
+    .label = จำนวน
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
