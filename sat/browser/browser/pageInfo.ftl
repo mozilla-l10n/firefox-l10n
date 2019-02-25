@@ -74,10 +74,14 @@ security-view-identity-domain =
     .value = वेब साइट:
 security-view-identity-verifier =
     .value = दाराय ते ञेल मिला़व:
+security-view-privacy =
+    .value = निजेर हिता़ल (& H){ " " }
 security-view-privacy-history-value = चेत् इञ नोवा वेब साइट तेहेञ खोन माड़ाङ ञेल आकात् आ ?
 security-view-privacy-passwords-value = चेत् इञ नोवा वेब साइट ला़गित् जाहान दानाङ साबाद सांचाव आकाना ?
 security-view-technical =
     .value = टेकनिकाल पुरा़ बिबरोन को.
+help-button =
+    .label = गोड़ो
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -115,6 +119,12 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = हुड़ाक् बेभार मे
 security-no-visits = बाङ
+# This string is used to display the type of
+# an image
+# Variables:
+#   $type (string) - The type of an image
+media-image-type =
+    .value = { $type } चिता़र{ " " }
 # This string is used to display the size of a scaled image
 # in both scaled and unscaled pixels
 # Variables:
@@ -129,6 +139,13 @@ media-dimensions-scaled =
 # Variables:
 #   $size (number) - The size of the media file in kilobytes
 media-file-size = { $size } KB
+# This string is used to display the website name next to the
+# "Block Images" checkbox in the media tab
+# Variables:
+#   $website (string) - The website name
+media-block-image =
+    .label = { " " }{ $website } खोन चिता़र को आकोट.
+    .accesskey = B
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 # Variables:
