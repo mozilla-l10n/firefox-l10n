@@ -95,8 +95,12 @@ print-preview-window =
     .title = Ro-shealladh clò-bhualaidh
 print-title =
     .value = Tiotal:
+print-preparing =
+    .value = ’Ga ullachadh…
 print-progress =
     .value = Adhartas:
+print-window =
+    .title = 'Ga chlò-bhualadh
 print-complete =
     .value = Tha an clò-bhualadh deiseil.
 # Variables
