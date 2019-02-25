@@ -2,12 +2,17 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/. --
 
+page-info-window =
+    .style = width: 600px; min-height: 550px;
 copy =
     .key = C
 select-all =
     .key = A
 close-window =
     .key = A
+general-tab =
+    .label = సాధారణం
+    .accesskey = G
 general-url =
     .value = చిరునామా:
 general-type =
@@ -20,6 +25,8 @@ general-referrer =
     .value = సంప్రదించుచున్న URL:
 general-modified =
     .value = సవరించిన:
+general-encoding =
+    .value = పాఠ్యపు ఎన్‌కోడింగు:
 general-meta-name =
     .label = పేరు
 general-meta-content =
@@ -63,6 +70,8 @@ security-view-identity-domain =
     .value = వెబ్ సైటు:
 security-view-identity-verifier =
     .value = దీనిద్వారా నిర్ధారించబడింది:
+help-button =
+    .label = సహాయం
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
