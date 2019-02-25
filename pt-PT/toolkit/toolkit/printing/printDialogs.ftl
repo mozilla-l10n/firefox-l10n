@@ -5,6 +5,7 @@
 print-setup =
     .title = Configuração da página
 custom-prompt-title = Personalizar…
+custom-prompt-prompt = Introduza o seu texto de cabeçalho/rodapé personalizado
 basic-tab =
     .label = Formato e opções
 advanced-tab =
