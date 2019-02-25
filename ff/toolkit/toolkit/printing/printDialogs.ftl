@@ -6,8 +6,12 @@ print-preview-window =
     .title = Jiytindagol Winndito
 print-title =
     .value = Tiitoonde:
+print-preparing =
+    .value = Nana heboo…
 print-progress =
     .value = Ɗo yahrata:
+print-window =
+    .title = Nana winnditoo
 print-complete =
     .value = Winndito Timmii.
 # Variables
