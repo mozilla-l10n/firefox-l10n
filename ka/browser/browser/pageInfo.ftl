@@ -18,6 +18,8 @@ media-count =
     .label = რაოდენობა
 security-view-unknown = უცნობია
     .value = უცნობია
+security-view-identity-owner =
+    .value = მფლობელი:{ " " }
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -35,6 +37,8 @@ saved-passwords-yes = დიახ
 saved-passwords-no = არა
 no-page-title =
     .value = უსახელო გვერდი
+media-unknown-not-cached =
+    .value = უცნობია (არაბუფერირებულია)
 security-no-visits = არა
 # This string is used to display the type of
 # an image
@@ -42,6 +46,12 @@ security-no-visits = არა
 #   $type (string) - The type of an image
 media-image-type =
     .value = { $type } გამოსახულება
+# This string is used to display the size of an image in pixels
+# Variables:
+#   $dimx (number) - The horizontal size of an image
+#   $dimy (number) - The vertical size of an image
+media-dimensions =
+    .value = { $dimx }px × { $dimy }px
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
