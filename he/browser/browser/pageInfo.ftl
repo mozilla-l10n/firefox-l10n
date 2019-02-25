@@ -60,6 +60,12 @@ media-dimension =
     .value = ממדים:
 media-long-desc =
     .value = תיאור:
+media-save-as =
+    .label = שמירה בשם…
+    .accesskey = ש
+media-save-image-as =
+    .label = שמירה בשם…
+    .accesskey = ב
 media-preview =
     .value = תצוגה מקדימה:
 perm-tab =
@@ -70,6 +76,9 @@ permissions-for =
 security-tab =
     .label = אבטחה
     .accesskey = א
+security-view =
+    .label = הצגת אישור
+    .accesskey = ה
 security-view-unknown = לא ידוע
     .value = לא ידוע
 security-view-identity =
@@ -80,6 +89,8 @@ security-view-identity-domain =
     .value = אתר:{ " " }
 security-view-identity-verifier =
     .value = גורם מאמת:{ " " }
+security-view-identity-validity =
+    .value = מועד תפוגה:
 security-view-privacy =
     .value = פרטיות והיסטוריה
 security-view-privacy-history-value = האם ביקרתי באתר זה בעבר?
@@ -88,6 +99,9 @@ security-view-privacy-clearsitedata =
     .label = ניקוי עוגיות ונתוני אתרים
     .accesskey = נ
 security-view-privacy-passwords-value = האם שמרתי ססמאות עבור אתר זה?
+security-view-privacy-viewpasswords =
+    .label = הצגת ססמאות שמורות
+    .accesskey = ס
 security-view-technical =
     .value = פירוט טכני
 help-button =
@@ -130,6 +144,8 @@ security-no-owner = אתר זה לא מספק מידע על הבעלים.
 media-select-folder = בחירת תיקייה לשמירת התמונות
 media-unknown-not-cached =
     .value = לא ידוע (לא במטמון)
+permissions-use-default =
+    .label = שימוש בברירת מחדל
 security-no-visits = לא
 # This string is used to display the type of
 # an image
@@ -157,6 +173,13 @@ media-dimensions =
 # Variables:
 #   $size (number) - The size of the media file in kilobytes
 media-file-size = { $size } ק״ב
+# This string is used to display the website name next to the
+# "Block Images" checkbox in the media tab
+# Variables:
+#   $website (string) - The website name
+media-block-image =
+    .label = חסימת תמונות מ־{ $website }
+    .accesskey = ח
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 # Variables:
