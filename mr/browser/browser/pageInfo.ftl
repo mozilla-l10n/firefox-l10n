@@ -2,6 +2,62 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/. --
 
+copy =
+    .key = C
+select-all =
+    .key = A
+close-window =
+    .key = A
+general-tab =
+    .label = साधारण
+    .accesskey = G
+general-url =
+    .value = पत्ता:
+general-type =
+    .value = प्रकार:
+general-mode =
+    .value = दृश्य स्थिती :
+general-size =
+    .value = आकार:
+general-referrer =
+    .value = संदर्भित URL:
+general-modified =
+    .value = बदलेले:
+general-meta-name =
+    .label = नाव
+general-meta-content =
+    .label = मजकुर
+media-tab =
+    .label = मिडीया
+    .accesskey = M
+media-location =
+    .value = स्थान:
+media-text =
+    .value = संबंधित पाठ्य:
+media-alt-header =
+    .label = पर्यायी गद्य
+media-address =
+    .label = पत्ता
+media-type =
+    .label = प्रकार
+media-size =
+    .label = आकार
+media-count =
+    .label = मोजमाप
+media-dimension =
+    .value = माप:
+media-long-desc =
+    .value = मोठे वर्णन:
+media-preview =
+    .value = माध्यमाचे पूर्वदर्शन:
+perm-tab =
+    .label = परवानगी
+    .accesskey = P
+permissions-for =
+    .value = करीता परवानगी:
+security-tab =
+    .label = सुरक्षा
+    .accesskey = S
 security-view =
     .label = प्रमाणपत्र पहा
     .accesskey = V
@@ -9,6 +65,12 @@ security-view-unknown = अपरिचीत
     .value = अपरिचीत
 security-view-identity =
     .value = संकेत स्थळ ओळख
+security-view-identity-owner =
+    .value = मालक:
+security-view-identity-domain =
+    .value = संकेतस्थळ:
+security-view-identity-verifier =
+    .value = तर्फे तपासलेले:
 security-view-privacy-history-value = आज या संकेत स्थळाला आधि भेट दिली होती का?
 security-view-technical =
     .value = तांत्रिक तपशील
@@ -24,6 +86,58 @@ not-set-verified-by = निश्चित न केलेले
 not-set-alternative-text = निश्चित न केलेले
 not-set-date = निश्चित न केलेले
 media-img = प्रतिमा
+media-bg-img = पार्श्वभूमी
+media-border-img = किनार
+media-list-img = बूलेट
+media-cursor = कर्सर
 media-embed = अंतर्भूत
 media-link = चित्रसंकेत
 media-input = आदान
+media-video = व्हिडिओ
+media-audio = ऑडिओ
+saved-passwords-yes = होय
+saved-passwords-no = नाही
+general-quirks-mode =
+    .value = Quirks पद्धती
+general-strict-mode =
+    .value = प्रमाणित पद्धती
+security-no-owner = हे संकेत स्थळ मालकीय माहिती पुरवत नाही.
+media-select-folder = प्रतिमा संचयीत करण्याकरीता संचयीका निवडा
+media-unknown-not-cached =
+    .value = अपरिचीत (कॅश्ड नाही)
+security-no-visits = नाही
+# This string is used to display the type of
+# an image
+# Variables:
+#   $type (string) - The type of an image
+media-image-type =
+    .value = { $type } प्रतिमा
+# This string is used to display the size of a scaled image
+# in both scaled and unscaled pixels
+# Variables:
+#   $dimx (number) - The horizontal size of an image
+#   $dimy (number) - The vertical size of an image
+#   $scaledx (number) - The scaled horizontal size of an image
+#   $scaledy (number) - The scaled vertical size of an image
+media-dimensions-scaled =
+    .value = { $dimx }px × { $dimy }px ({ $scaledx }px × { $scaledy }px करीता सुस्थीत केले गेले)
+# This string is used to display the size of an image in pixels
+# Variables:
+#   $dimx (number) - The horizontal size of an image
+#   $dimy (number) - The vertical size of an image
+media-dimensions =
+    .value = { $dimx }px × { $dimy }px
+# This string is used to display the size of a media
+# file in kilobytes
+# Variables:
+#   $size (number) - The size of the media file in kilobytes
+media-file-size = { $size } KB
+# This string is used to display the website name next to the
+# "Block Images" checkbox in the media tab
+# Variables:
+#   $website (string) - The website name
+media-block-image =
+    .label = { $website } पासून प्रतिमा रोखा
+    .accesskey = B
+page-info-frame =
+    .title = पटलविषयक माहिती - { $website }
