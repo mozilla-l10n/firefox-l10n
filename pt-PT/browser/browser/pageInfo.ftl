@@ -2,10 +2,68 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/. --
 
+page-info-window =
+    .style = width: 600px; min-height: 550px;
+copy =
+    .key = C
+menu-copy =
+    .label = Copiar
+    .accesskey = C
+select-all =
+    .key = A
+menu-select-all =
+    .label = Selecionar tudo
+    .accesskey = t
+close-window =
+    .key = A
+general-tab =
+    .label = Geral
+    .accesskey = G
+general-title =
+    .value = Título:
+general-url =
+    .value = Endereço:
+general-type =
+    .value = Tipo:
+general-mode =
+    .value = Modo de renderização:
+general-size =
+    .value = Tamanho:
+general-referrer =
+    .value = URL referente:
+general-modified =
+    .value = Modificado:
+general-encoding =
+    .value = Codificação de texto:
+general-meta-name =
+    .label = Nome
+general-meta-content =
+    .label = Conteúdo
+media-tab =
+    .label = Multimédia
+    .accesskey = M
 media-location =
     .value = Localização:
+media-alt-header =
+    .label = Texto alternativo
+media-address =
+    .label = Endereço
+media-type =
+    .label = Tipo
 media-size =
     .label = Tamanho
+media-count =
+    .label = Contador
+media-dimension =
+    .value = Dimensões:
+media-save-as =
+    .label = Guardar como…
+    .accesskey = G
+media-save-image-as =
+    .label = Guardar como…
+    .accesskey = e
+media-preview =
+    .value = Pré-visualização de multimédia:
 perm-tab =
     .label = Permissões
     .accesskey = P
@@ -14,10 +72,22 @@ permissions-for =
 security-tab =
     .label = Segurança
     .accesskey = S
+security-view =
+    .label = Ver certificado
+    .accesskey = V
 security-view-unknown = Desconhecido
     .value = Desconhecido
+security-view-identity-owner =
+    .value = Proprietário:
 security-view-identity-verifier =
     .value = Verificado por:
+security-view-privacy =
+    .value = Privacidade e histórico
+security-view-privacy-viewpasswords =
+    .label = Ver palavras-passe guardadas
+    .accesskey = s
+security-view-technical =
+    .value = Detalhes técnicos
 help-button =
     .label = Ajuda
 
@@ -34,8 +104,10 @@ not-set-date = Não especificado
 media-img = Imagem
 media-bg-img = Fundo
 media-border-img = Margem
+media-list-img = Marcas
 media-cursor = Cursor
 media-object = Objeto
+media-embed = Embutido
 media-link = Ícone
 media-input = Entrada
 media-video = Vídeo
@@ -49,7 +121,30 @@ general-quirks-mode =
 general-strict-mode =
     .value = Modo de cumprimento dos padrões
 media-select-folder = Escolha uma pasta para guardar as imagens
+permissions-use-default =
+    .label = Utilizar predefinições
 security-no-visits = Não
+# This string is used to display the type of
+# an image
+# Variables:
+#   $type (string) - The type of an image
+media-image-type =
+    .value = Imagem { $type }
+# This string is used to display the size of a scaled image
+# in both scaled and unscaled pixels
+# Variables:
+#   $dimx (number) - The horizontal size of an image
+#   $dimy (number) - The vertical size of an image
+#   $scaledx (number) - The scaled horizontal size of an image
+#   $scaledy (number) - The scaled vertical size of an image
+media-dimensions-scaled =
+    .value = { $dimx }px × { $dimy }px (redimensionado para { $scaledx }px × { $scaledy }px)
+# This string is used to display the size of an image in pixels
+# Variables:
+#   $dimx (number) - The horizontal size of an image
+#   $dimy (number) - The vertical size of an image
+media-dimensions =
+    .value = { $dimx }px × { $dimy }px
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
@@ -62,3 +157,11 @@ media-file-size = { $size } KB
 media-block-image =
     .label = Bloquear imagens de { $website }
     .accesskey = B
+# This string is used to display the URL of the website on top of the
+# pageInfo dialog box
+# Variables:
+#   $website (string) - The url of the website pageInfo is getting info for
+page-info-page =
+    .title = Informação da página - { $website }
+page-info-frame =
+    .title = Informação do frame - { $website }
