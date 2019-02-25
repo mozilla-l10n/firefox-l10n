@@ -56,6 +56,12 @@ media-dimension =
     .value = Dimensions :
 media-long-desc =
     .value = Descripcion longa :
+media-save-as =
+    .label = Enregistrar jos…
+    .accesskey = s
+media-save-image-as =
+    .label = Enregistrar jos…
+    .accesskey = E
 media-preview =
     .value = Apercebut del mèdia :
 perm-tab =
@@ -82,6 +88,9 @@ security-view-identity-validity =
 security-view-privacy =
     .value = Vida privada e istoric
 security-view-privacy-history-value = Ai ja visitat aqueste site ?
+security-view-privacy-clearsitedata =
+    .label = Escafar los cookies e las donadas de site
+    .accesskey = E
 security-view-privacy-passwords-value = Ai enregistrat un senhal per aqueste site web ?
 security-view-privacy-viewpasswords =
     .label = Visualizar los senhals enregistrats
@@ -97,6 +106,10 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-cookies = Òc-ben, de cookies e { $value } { $unit } de donadas de site
+security-site-data-only = Òc-ben, { $value } { $unit } de donadas de site
+security-site-data-cookies-only = Òc-ben, de cookies
+security-site-data-no = Non
 image-size-unknown = Desconegut
 not-set-verified-by = Pas especificat
 not-set-alternative-text = Pas especificat
