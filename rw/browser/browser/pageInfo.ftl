@@ -47,6 +47,8 @@ media-preview =
     .value = Igaragazambere y'Ibitangazamakuru:
 security-view-unknown = Kitazwi
     .value = Kitazwi
+help-button =
+    .label = Ifashayobora
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
