@@ -147,6 +147,63 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = Defnyddio'r Rhagosodedig
 security-no-visits = Na
+# This string is used to display the number of meta tags
+# in the General Tab
+# Variables:
+#   $tags (number) - The number of meta tags
+general-meta-tags =
+    .value =
+        { $tags ->
+            [zero] Meta ({ $tags } tagiau)
+            [one] Meta (1 tag)
+            [two] Meta ({ $tags } dags)
+            [few] Meta ({ $tags } tag)
+            [many] Meta ({ $tags } tag)
+           *[other] Meta ({ $tags } tag)
+        }
+# This string is used to display the number of times
+# the user has visited the website prior
+# Variables:
+#   $visits (number) - The number of previous visits
+security-visits-number =
+    { $visits ->
+        [0] Na
+        [zero] Do, unwaith
+        [one] Do, { $visits } waith
+        [two] Do, { $visits } waith
+        [few] Do, { $visits } gwaith
+        [many] Do, { $visits } waith
+       *[other] Do, { $visits } gwaith
+    }
+# This string is used to display the size of a media file
+# Variables:
+#   $kb (number) - The size of an image in Kilobytes
+#   $bytes (number) - The size of an image in Bytes
+properties-general-size =
+    .value =
+        { $bytes ->
+            [zero] { $kb } KB ({ $bytes } beit)
+            [one] { $kb } KB ({ $bytes } beit)
+            [two] { $kb } KB ({ $bytes } beit)
+            [few] { $kb } KB ({ $bytes } beit)
+            [many] { $kb } KB ({ $bytes } beit)
+           *[other] { $kb } KB ({ $bytes } beit)
+        }
+# This string is used to display the type and number
+# of frames of a animated image
+# Variables:
+#   $type (string) - The type of a animated image
+#   $frames (number) - The number of frames in an animated image
+media-animated-image-type =
+    .value =
+        { $frames ->
+            [zero] Delwedd { $type } (animeiddio, { $frames } ffrâm)
+            [one] Delwedd { $type } (animeiddio, { $frames } ffrâm)
+            [two] Delwedd { $type } (animeiddio, { $frames } ffrâm)
+            [few] Delwedd { $type } (animeiddio, { $frames } ffrâm)
+            [many] Delwedd { $type } (animeiddio, { $frames } ffrâm)
+           *[other] Delwedd { $type } (animeiddio, { $frames } ffrâm)
+        }
 # This string is used to display the type of
 # an image
 # Variables:

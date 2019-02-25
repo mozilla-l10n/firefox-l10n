@@ -7,13 +7,8 @@ about-policies-title = Polisïau Mentrau
 active-policies-tab = Gweithredol
 errors-tab = Gwallau
 documentation-tab = Dogfennaeth
+no-specified-policies-message = Mae'r gwasanaeth Polisïau Menter yn weithredol ond nid oes unrhyw bolisïau wedi'u galluogi.
+inactive-message = Mae'r gwasanaeth Polisïau Menter yn anweithredol.
 policy-name = Enw Polisi
 policy-value = Gwerth Polisi
 policy-errors = Gwallau Polisi
-# 'gpo-machine-only' policies are related to the Group Policy features
-# on Windows. Please use the same terminology that is used on Windows
-# to describe Group Policy.
-# These policies can only be set at the computer-level settings, while
-# the other policies can also be set at the user-level.
-gpo-machine-only =
-    .title = Pan yn defnyddio Polisi Grŵp, dim ond ar lefel cyfrifiadur y mae modd gosod y polisi hwn.
