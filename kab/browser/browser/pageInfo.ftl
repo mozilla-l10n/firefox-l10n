@@ -31,6 +31,8 @@ general-size =
     .value = Teɣzi:
 general-referrer =
     .value = URL n uɣbalu:
+general-modified =
+    .value = Ittusnifel:
 general-encoding =
     .value = Asettengel n uḍris:
 general-meta-name =
@@ -108,6 +110,9 @@ help-button =
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
 image-size-unknown = Arussin
+not-set-verified-by = Ur d-ittumudd ara
+not-set-alternative-text = Ur d-ittumudd ara
+not-set-date = Ur d-ittumudd ara
 media-img = Tugna
 media-bg-img = Agilal
 media-border-img = Tama
