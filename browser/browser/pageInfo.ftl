@@ -1,0 +1,61 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/. --
+
+
+## These strings are used to tell the user if the website is storing cookies
+## and data on the users computer in the security tab of pageInfo
+## Variables:
+##   $value (number) - Amount of data being stored
+##   $unit (string) - The unit of data being stored (Usually KB)
+
+image-size-unknown = Óþekkt
+not-set-verified-by = Ekki skilgreint
+not-set-alternative-text = Ekki skilgreint
+not-set-date = Ekki skilgreint
+media-img = Mynd
+media-bg-img = Bakgrunnur
+media-object = Finna hlut
+media-embed = Ívefja
+media-link = Táknmynd
+media-input = Inntak
+saved-passwords-yes = Já
+saved-passwords-no = Nei
+no-page-title =
+    .value = Ónefnt síða:
+general-quirks-mode =
+    .value = Gallahamur
+general-strict-mode =
+    .value = Staðalhamur
+media-select-folder = Veldu möppu til að vista myndirnar
+media-unknown-not-cached =
+    .value = Óþekkt (ekki í skyndiminni)
+security-no-visits = Nei
+# This string is used to display the type of
+# an image
+# Variables:
+#   $type (string) - The type of an image
+media-image-type =
+    .value = { $type } Mynd
+# This string is used to display the size of a scaled image
+# in both scaled and unscaled pixels
+# Variables:
+#   $dimx (number) - The horizontal size of an image
+#   $dimy (number) - The vertical size of an image
+#   $scaledx (number) - The scaled horizontal size of an image
+#   $scaledy (number) - The scaled vertical size of an image
+media-dimensions-scaled =
+    .value = { $dimx }px × { $dimy }px (skalað í { $scaledx }px × { $scaledy }px)
+# This string is used to display the size of an image in pixels
+# Variables:
+#   $dimx (number) - The horizontal size of an image
+#   $dimy (number) - The vertical size of an image
+media-dimensions =
+    .value = { $dimx }px × { $dimy }px
+# This string is used to display the size of a media
+# file in kilobytes
+# Variables:
+#   $size (number) - The size of the media file in kilobytes
+media-file-size = { $size } KB
+page-info-frame =
+    .title = Rammaupplýsingar - { $website }
