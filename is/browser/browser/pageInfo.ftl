@@ -32,6 +32,7 @@ general-quirks-mode =
     .value = Gallahamur
 general-strict-mode =
     .value = Staðalhamur
+security-no-owner = Þetta vefsvæði sendir ekki upplýsingar um eiganda.
 media-select-folder = Veldu möppu til að vista myndirnar
 media-unknown-not-cached =
     .value = Óþekkt (ekki í skyndiminni)
@@ -64,5 +65,11 @@ media-dimensions =
 # Variables:
 #   $size (number) - The size of the media file in kilobytes
 media-file-size = { $size } KB
+# This string is used to display the URL of the website on top of the
+# pageInfo dialog box
+# Variables:
+#   $website (string) - The url of the website pageInfo is getting info for
+page-info-page =
+    .title = Upplýsingar síðu - { $website }
 page-info-frame =
     .title = Rammaupplýsingar - { $website }
