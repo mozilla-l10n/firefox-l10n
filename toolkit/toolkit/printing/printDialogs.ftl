@@ -3,6 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 custom-prompt-prompt = अपनी मनपसंद शीर्षिका/पादिका पाठ दाखिल करें.
+portrait =
+    .label = व्यक्तिचित्र
+    .accesskey = P
 header-left-tip =
     .tooltiptext = बायां शीर्षिका
 header-center-tip =
