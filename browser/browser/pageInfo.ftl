@@ -94,6 +94,10 @@ security-view-identity-validity =
 security-view-privacy =
     .value = Privatnost i povijest
 security-view-privacy-history-value = Jesam li posjetio ovu stranicu prije današnjeg dana?
+security-view-privacy-sitedata-value = Sprema li ova web stranica podatke na mojem računalu?
+security-view-privacy-clearsitedata =
+    .label = Obriši kolačiće i podatke stranice
+    .accesskey = O
 security-view-privacy-passwords-value = Jesam li spremao zaporke za ovu web stranicu?
 security-view-privacy-viewpasswords =
     .label = Pregled spremljenih zaporki
@@ -109,6 +113,9 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-cookies = Da, kolačiće i { $value } { $unit } podataka
+security-site-data-only = Da, { $value } { $unit } podataka
+security-site-data-cookies-only = Da, kolačiće
 security-site-data-no = Ne
 image-size-unknown = Nepoznato
 not-set-verified-by = Neodređeno
