@@ -216,8 +216,12 @@ extensions-updates-update-selected =
 
 ## Extension shortcut management
 
+manage-extensions-shortcuts =
+    .label = Eñangareko jepysokue jeike pya’eha rehe
+    .accesskey = S
 shortcuts-empty-message = Ndaipóri mbopya'eha ko jepysokuépe g̃uarã.
 shortcuts-no-addons = Ndoguerekói jepysokue ijurujáva.
+shortcuts-no-commands = Ko’ã jepysokue ndoguerekói jeike pya’eha:
 shortcuts-input =
     .placeholder = Ehai peteĩ mbopya'eha
 shortcuts-browserAction = Emyandy jepysokue
@@ -228,6 +232,11 @@ shortcuts-modifier-other = Emoinge Ctrl or Alt
 shortcuts-invalid = Ñembojopyru ndoikóiva
 shortcuts-letter = Ehai peteĩ tai
 shortcuts-system = Ndaikatúi eipe’a peteĩ mbopya’eha { -brand-short-name } mba’éva
+shortcuts-card-expand-button =
+    { $numberToShow ->
+        [one] Ehechave { $numberToShow }
+       *[other] Ehechave { $numberToShow }
+    }
 shortcuts-card-collapse-button = Ehechauka'ive
 go-back-button =
     .tooltiptext = Guevijey
