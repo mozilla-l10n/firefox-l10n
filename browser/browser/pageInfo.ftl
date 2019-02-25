@@ -4,6 +4,9 @@
 
 copy =
     .key = C
+menu-copy =
+    .label = ಪ್ರತಿ ಮಾಡು
+    .accesskey = C
 select-all =
     .key = A
 menu-select-all =
@@ -97,8 +100,10 @@ media-bg-img = ಹಿನ್ನಲೆ
 media-border-img = ಅಂಚು
 media-list-img = ಅಂಶಸೂಚಕ
 media-cursor = ತೆರೆಸೂಚಕ
+media-object = ವಸ್ತು
 media-embed = ಎಂಬೆಡ್
 media-link = ಲಾಂಛನ
+media-input = ಇನ್‌ಪುಟ್
 media-video = ವೀಡಿಯೊ
 media-audio = ಆಡಿಯೊ
 saved-passwords-yes = ಹೌದು
@@ -107,10 +112,14 @@ no-page-title =
     .value = ಹೆಸರಿಲ್ಲದ ಪುಟ:
 general-quirks-mode =
     .value = ವೈಖರಿಯ (Quirks) ಕ್ರಮ
+general-strict-mode =
+    .value = ಸಾಮಾನ್ಯ ಅನುವರ್ತನೆ ಕ್ರಮ
 security-no-owner = ಈ ಜಾಲತಾಣವು ಮಾಲಿಕತ್ವದ ಯಾವುದೆ ಮಾಹಿತಿಯನ್ನು ನೀಡುವುದಿಲ್ಲ.
 media-select-folder = ಚಿತ್ರಗಳನ್ನು ಉಳಿಸಲು ಒಂದು ಕಡತಕೋಶವನ್ನು ಆಯ್ಕೆಮಾಡಿ
 media-unknown-not-cached =
     .value = ಅಜ್ಞಾತ (ಕ್ಯಾಚ್ ಆಗಿರದ)
+permissions-use-default =
+    .label = ಡೀಫಾಲ್ಟ್‍ ಆದುದನ್ನು ಬಳಸು
 security-no-visits = ಇಲ್ಲ
 # This string is used to display the type of
 # an image
