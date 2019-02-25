@@ -71,6 +71,8 @@ security-tab =
 security-view =
     .label = Sertîfîkayê Nîşan Bide
     .accesskey = B
+security-view-unknown = Nayê Zanîn
+    .value = Nayê Zanîn
 security-view-identity =
     .value = Nasnameya Malperê
 security-view-identity-owner =
@@ -117,6 +119,8 @@ security-no-owner = Di vê malperê de agahiyên xwediyê malperê nîn in.
 media-select-folder = Ji bo Tomarkirina Wêneyan Peldankekê Hilbijêre
 media-unknown-not-cached =
     .value = Nenîşankirî (nekete pêşbîrê)
+permissions-use-default =
+    .label = Standard
 security-no-visits = Na
 # This string is used to display the type of
 # an image
@@ -124,6 +128,21 @@ security-no-visits = Na
 #   $type (string) - The type of an image
 media-image-type =
     .value = { $type } Wêne
+# This string is used to display the size of a scaled image
+# in both scaled and unscaled pixels
+# Variables:
+#   $dimx (number) - The horizontal size of an image
+#   $dimy (number) - The vertical size of an image
+#   $scaledx (number) - The scaled horizontal size of an image
+#   $scaledy (number) - The scaled vertical size of an image
+media-dimensions-scaled =
+    .value = { $dimx }px × { $dimy }px (li { $scaledx }px × { $scaledy }px hat anîn)
+# This string is used to display the size of an image in pixels
+# Variables:
+#   $dimx (number) - The horizontal size of an image
+#   $dimy (number) - The vertical size of an image
+media-dimensions =
+    .value = { $dimx }px × { $dimy }px
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
