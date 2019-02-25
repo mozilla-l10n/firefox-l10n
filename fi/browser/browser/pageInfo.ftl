@@ -94,6 +94,10 @@ security-view-identity-validity =
 security-view-privacy =
     .value = Tietosuoja ja sivuhistoria
 security-view-privacy-history-value = Onko sivustolla käyty ennen tätä päivää?
+security-view-privacy-sitedata-value = Tallentaako tämä sivusto tietoja koneelleni?
+security-view-privacy-clearsitedata =
+    .label = Tyhjennä evästeet ja sivustotiedot
+    .accesskey = e
 security-view-privacy-passwords-value = Onko sivuston salasanoja tallennettu?
 security-view-privacy-viewpasswords =
     .label = Näytä tallennetut salasanat
@@ -109,6 +113,9 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-cookies = Kyllä, evästeitä ja { $value } { $unit } sivustotietoja
+security-site-data-only = Kyllä, { $value } { $unit } sivustotietoja
+security-site-data-cookies-only = Kyllä, evästeitä
 security-site-data-no = Ei
 image-size-unknown = Tuntematon
 not-set-verified-by = Ei määritelty
