@@ -16,6 +16,8 @@ security-tab =
     .accesskey = S
 security-view-unknown = Desconhecido
     .value = Desconhecido
+security-view-identity-verifier =
+    .value = Verificado por:
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
