@@ -4,6 +4,7 @@
 
 print-setup =
     .title = Aranjare în pagină
+custom-prompt-title = Personalizare…
 basic-tab =
     .label = Format și opțiuni
 advanced-tab =
@@ -74,8 +75,12 @@ hf-page =
     .label = Pagina #
 hf-page-and-total =
     .label = Pagina # din #
+print-preview-window =
+    .title = Previzualizare pentru tipărire
 print-title =
     .value = Titlu:
+print-preparing =
+    .value = Se pregătește…
 print-progress =
     .value = Progres:
 print-window =
@@ -87,3 +92,4 @@ print-complete =
 print-percent =
     .value = { $percent }%
 dialog-cancel-label = Anulează
+dialog-close-label = Închide
