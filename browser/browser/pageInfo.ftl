@@ -2,21 +2,92 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/. --
 
+copy =
+    .key = C
+select-all =
+    .key = A
+close-window =
+    .key = A
 general-tab =
     .label = සාමාන්‍ය
     .accesskey = G
+general-url =
+    .value = ලිපිනය:
+general-type =
+    .value = වර්‍ගය:
+general-mode =
+    .value = ජනන ප්‍රකාරය:
 general-size =
     .value = විශාලත්වය:
+general-referrer =
+    .value = යොමු URL:
+general-modified =
+    .value = වෙනස්කළ:
 general-meta-name =
     .label = නම
 general-meta-content =
     .label = අන්තර්ගතය
+media-tab =
+    .label = මාධ්‍ය
+    .accesskey = M
 media-location =
     .value = පිහිටීම:
+media-text =
+    .value = අදාල පෙළ:
+media-alt-header =
+    .label = අමතර පෙළ
+media-address =
+    .label = ලිපිනය
+media-type =
+    .label = වර්‍ගය
+media-size =
+    .label = විශාලත්වය
+media-count =
+    .label = ගණන
+media-dimension =
+    .value = මාන:
+media-long-desc =
+    .value = දිගු විස්තරය:
+media-save-as =
+    .label = සුරකින අයුර…
+    .accesskey = A
+media-save-image-as =
+    .label = සුරකින අයුර…
+    .accesskey = e
+media-preview =
+    .value = මාධ්‍යය පෙරදැක්ම:
+perm-tab =
+    .label = බලතල
+    .accesskey = P
+permissions-for =
+    .value = අවසර ලැබෙන්නේ:
+security-tab =
+    .label = ආරක්ෂාව
+    .accesskey = S
+security-view =
+    .label = සහතිකය දක්වන්න
+    .accesskey = V
 security-view-unknown = නොදන්නා
     .value = නොදන්නා
+security-view-identity =
+    .value = ජාල අඩවියේ අනන්‍යතාව
+security-view-identity-owner =
+    .value = හිමිකරු:
+security-view-identity-domain =
+    .value = ජාල අඩවිය:
+security-view-identity-verifier =
+    .value = ස්ථිර කළේ:
+security-view-privacy =
+    .value = පුද්ගලිකත්වය හා ඉතිහාසය
+security-view-privacy-history-value = අද දිනට පෙර මා මෙම අඩවියට පිවිස ඇතිද?
+security-view-privacy-passwords-value = මෙම අඩවිය සඳහා මවිසින් කිසිඳු මුරපදයක් සුරැක ඇතිද?
+security-view-privacy-viewpasswords =
+    .label = සුරැකූ රහස්පද බලන්න
+    .accesskey = w
 security-view-technical =
     .value = තාක්ෂණික දත්ත
+help-button =
+    .label = උදව්
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -50,6 +121,8 @@ general-strict-mode =
 media-select-folder = රූපය සුරකීමට බහලුමක් තෝරන්න
 media-unknown-not-cached =
     .value = නොදන්නා (කැච් නොවූ)
+permissions-use-default =
+    .label = පෙරනිමිය භාවිත කරන්න
 security-no-visits = නැත
 # This string is used to display the type of
 # an image
@@ -77,6 +150,13 @@ media-dimensions =
 # Variables:
 #   $size (number) - The size of the media file in kilobytes
 media-file-size = { $size } KB
+# This string is used to display the website name next to the
+# "Block Images" checkbox in the media tab
+# Variables:
+#   $website (string) - The website name
+media-block-image =
+    .label = { $website } වෙතින් රූපය අවහිර කරන්න
+    .accesskey = B
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 # Variables:
