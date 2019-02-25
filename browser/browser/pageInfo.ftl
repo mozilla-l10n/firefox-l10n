@@ -94,6 +94,10 @@ security-view-identity-validity =
 security-view-privacy =
     .value = Privatumas ir žurnalas
 security-view-privacy-history-value = Ar anksčiau jau lankiausi šioje svetainėje?
+security-view-privacy-sitedata-value = Ar ši svetainė turi įrašiusi duomenų mano kompiuteryje?
+security-view-privacy-clearsitedata =
+    .label = Valyti slapukus ir svetainių duomenis
+    .accesskey = V
 security-view-privacy-passwords-value = Ar turiu įsimintų šios svetainės slaptažodžių?
 security-view-privacy-viewpasswords =
     .label = Rodyti slaptažodžius
@@ -109,6 +113,10 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-cookies = Taip, slapukų ir { $value } { $unit } svetainės duomenų
+security-site-data-only = Taip, { $value } { $unit } svetainės duomenų
+security-site-data-cookies-only = Taip, slapukų
+security-site-data-no = Ne
 image-size-unknown = nežinomas
 not-set-verified-by = nenurodytas
 not-set-alternative-text = nenurodytas
