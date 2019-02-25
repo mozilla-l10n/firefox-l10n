@@ -4,10 +4,10 @@
 
 <!ENTITY time.midnight "Түн ортасы" >
 <!ENTITY time.noon "Түс" >
+
 <!-- Day Names -->
 <!-- LOCALIZATION NOTE : Accesskeys for day.1.Ddd to day.7.Ddd are currently
      only used in Preferences > Views > Workweek groupbox -->
-
 <!ENTITY day.1.Ddd "Жек" >
 <!ENTITY day.1.Ddd.accesskey "Ж">
 <!ENTITY day.2.Ddd "Дүй" >
@@ -46,6 +46,8 @@
 
 <!ENTITY onemonthbackward.tooltip "Бір ай артқа" >
 <!ENTITY onemonthforward.tooltip "Бір ай алға" >
+<!ENTITY oneyearbackward.tooltip "Бір жыл артқа" >
+<!ENTITY oneyearforward.tooltip "Бір жыл алға" >
 <!ENTITY showToday.tooltip "Бүгінге өту">
 <!ENTITY onedayforward.tooltip "Бір күн алға">
 <!ENTITY onedaybackward.tooltip "Бір күн артқа">
