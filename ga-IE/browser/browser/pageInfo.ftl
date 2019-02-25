@@ -2,6 +2,94 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/. --
 
+copy =
+    .key = C
+menu-copy =
+    .label = Cóipeáil
+    .accesskey = C
+select-all =
+    .key = A
+menu-select-all =
+    .label = Roghnaigh Uile
+    .accesskey = U
+close-window =
+    .key = A
+general-tab =
+    .label = Ginearálta
+    .accesskey = G
+general-url =
+    .value = Seoladh:
+general-type =
+    .value = Cineál:
+general-mode =
+    .value = Mód Rindreála:
+general-size =
+    .value = Méid:
+general-referrer =
+    .value = URL tagartha:
+general-modified =
+    .value = Athraithe:
+general-encoding =
+    .value = Ionchódú Téacs:
+general-meta-name =
+    .label = Ainm
+general-meta-content =
+    .label = Ábhar
+media-tab =
+    .label = Meáin
+    .accesskey = M
+media-location =
+    .value = Suíomh:
+media-text =
+    .value = Téacs Gaolmhar:
+media-alt-header =
+    .label = Téacs mar Mhalairt
+media-address =
+    .label = Seoladh
+media-type =
+    .label = Cineál
+media-size =
+    .label = Méid
+media-count =
+    .label = Líon
+media-dimension =
+    .value = Toisí:
+media-long-desc =
+    .value = Cur Síos Fada:
+media-save-as =
+    .label = Sábháil Mar…
+    .accesskey = S
+media-save-image-as =
+    .label = Sábháil Mar…
+    .accesskey = l
+media-preview =
+    .value = Réamhamharc na Meán:
+perm-tab =
+    .label = Ceadanna
+    .accesskey = C
+permissions-for =
+    .value = Ceadanna le haghaidh:
+security-tab =
+    .label = Slándáil
+    .accesskey = S
+security-view-unknown = Anaithnid
+    .value = Anaithnid
+security-view-identity =
+    .value = Aitheantas an tSuímh Ghréasáin
+security-view-identity-owner =
+    .value = Úinéir:
+security-view-identity-domain =
+    .value = Suíomh Gréasáin:
+security-view-identity-verifier =
+    .value = Fíoraithe ag:
+security-view-privacy =
+    .value = Príobháideachas agus Stair
+security-view-privacy-history-value = Ar thug mé cuairt ar an suíomh seo roimh inniu?
+security-view-privacy-passwords-value = An bhfuil focail fhaire sábháilte agam le haghaidh an tsuímh seo?
+security-view-technical =
+    .value = Mionsonraí Teicniúla
+help-button =
+    .label = Cabhair
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -65,6 +153,13 @@ media-dimensions =
 # Variables:
 #   $size (number) - The size of the media file in kilobytes
 media-file-size = { $size } kB
+# This string is used to display the website name next to the
+# "Block Images" checkbox in the media tab
+# Variables:
+#   $website (string) - The website name
+media-block-image =
+    .label = Cuir Cosc ar Íomhánna ó { $website }
+    .accesskey = B
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 # Variables:
