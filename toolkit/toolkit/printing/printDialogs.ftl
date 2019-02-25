@@ -4,6 +4,10 @@
 
 print-setup =
     .title = Aranjare în pagină
+basic-tab =
+    .label = Format și opțiuni
+advanced-tab =
+    .label = Margini și antet/subsol
 orientation-label =
     .value = Orientare:
 portrait =
@@ -19,6 +23,9 @@ scale-percent =
     .value = %
 options-group-label =
     .value = Opțiuni
+print-bg =
+    .label = Tipărește fundalul (culori și imagini)
+    .accesskey = T
 margin-group-label-inches =
     .value = Margini (țoli)
 margin-group-label-metric =
