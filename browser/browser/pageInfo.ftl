@@ -25,6 +25,8 @@ general-url =
     .value = Adreso:
 general-type =
     .value = Tipo:
+general-mode =
+    .value = Reĝimo de videbligo:
 general-size =
     .value = Grando:
 general-referrer =
@@ -111,6 +113,10 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-cookies = Jes, kuketojn kaj { $value } { $unit } da retejaj datumoj
+security-site-data-only = Jes, { $value } { $unit } da retejaj datumoj
+security-site-data-cookies-only = Jes, kuketojn
+security-site-data-no = Ne
 image-size-unknown = Nekonata
 not-set-verified-by = Ne difinita
 not-set-alternative-text = Ne difinita
