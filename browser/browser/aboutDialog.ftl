@@ -22,7 +22,7 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } sedang diperbarui ol
 update-manual = Versi baru tersedia di <label data-l10n-name="manual-link"/>
 update-unsupported = Anda tidak dapat melakukan pemutakhiran selanjutnya pada sistem ini. <label data-l10n-name="unsupported-link">Pelajari lebih lanjut</label>
 update-restarting = Memulai ulang…
-channel-description = Anda sedang berada di kanal pemutakhiran <label data-l10n-name="current-channel"></label>.{ " " }
+channel-description = Anda sedang berada di kanal pemutakhiran <label data-l10n-name="current-channel"></label>.
 warningDesc-version = { -brand-short-name } bersifat eksperimental dan mungkin tidak stabil.
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> adalah sebuah <label data-l10n-name="community-exp-creditsLink">komunitas global</label> yang bekerja sama untuk menjaga agar dunia Web tetap terbuka, untuk publik, dan dapat diakses oleh semua orang tanpa batasan.
 community-2 = { -brand-short-name } didesain oleh <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, sebuah <label data-l10n-name="community-creditsLink">komunitas global</label> yang bekerja sama untuk menjaga agar dunia Web tetap terbuka, untuk publik, dan dapat diakses oleh semua orang tanpa batasan.
