@@ -110,6 +110,7 @@ general-quirks-mode =
     .value = Modo con fallos
 general-strict-mode =
     .value = Modo de seguimento dos estándares
+security-no-owner = Este sitio web non fornece información do propietario.
 media-select-folder = Seleccione un cartafol para gardar as imaxes
 media-unknown-not-cached =
     .value = Descoñecido (non está na caché)
