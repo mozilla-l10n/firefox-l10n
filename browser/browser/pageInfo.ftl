@@ -94,6 +94,10 @@ security-view-identity-validity =
 security-view-privacy =
     .value = Sekretess & historik
 security-view-privacy-history-value = Har jag besökt den här webbplatsen tidigare dagar?
+security-view-privacy-sitedata-value = Lagrar denna webbplats information på min dator?
+security-view-privacy-clearsitedata =
+    .label = Rensa kakor och webbplatsdata
+    .accesskey = R
 security-view-privacy-passwords-value = Har jag sparat några lösenord för den här webbplatsen?
 security-view-privacy-viewpasswords =
     .label = Visa sparade lösenord
@@ -109,6 +113,8 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-cookies = Ja, kakor och { $value } { $unit } webbplatsdata
+security-site-data-only = Ja, { $value } { $unit } webbplatsdata
 security-site-data-cookies-only = Ja, kakor
 security-site-data-no = Nej
 image-size-unknown = Okänd
