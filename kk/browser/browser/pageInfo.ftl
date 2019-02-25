@@ -94,6 +94,10 @@ security-view-identity-validity =
 security-view-privacy =
     .value = Жекешелік пен Тарихы
 security-view-privacy-history-value = Бұл сайтта бүгінге дейін болдым ба?
+security-view-privacy-sitedata-value = Бұл сайт компьютерімде ақпаратты сақтап отыр ма?
+security-view-privacy-clearsitedata =
+    .label = Cookies файлдары және сайт деректерін тазарту
+    .accesskey = з
 security-view-privacy-passwords-value = Осы веб-сайт үшін парольдерімді сақтадым ба?
 security-view-privacy-viewpasswords =
     .label = Сақталып тұрған парольдерді қарау
@@ -109,6 +113,10 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-cookies = Иә, cookies файлдары және { $value } { $unit } сайт деректері
+security-site-data-only = Иә, { $value } { $unit } сайт деректері
+security-site-data-cookies-only = Иә, cookies файлдары
+security-site-data-no = Жоқ
 image-size-unknown = Белгісіз
 not-set-verified-by = Көрсетілмеген
 not-set-alternative-text = Көрсетілмеген
