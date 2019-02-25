@@ -1,0 +1,154 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/. --
+
+copy =
+    .key = C
+menu-copy =
+    .label = Kopiera
+    .accesskey = o
+select-all =
+    .key = A
+menu-select-all =
+    .label = Markera allt
+    .accesskey = M
+close-window =
+    .key = A
+general-tab =
+    .label = Allmänt
+    .accesskey = A
+general-url =
+    .value = Adress:
+general-type =
+    .value = Typ:
+general-mode =
+    .value = Renderingsläge:
+general-size =
+    .value = Storlek:
+general-referrer =
+    .value = Anvisande URL:
+general-modified =
+    .value = Ändrad:
+general-meta-name =
+    .label = Namn
+general-meta-content =
+    .label = Innehåll
+media-tab =
+    .label = Media
+    .accesskey = M
+media-location =
+    .value = Adress:
+media-text =
+    .value = Tillhörande text:
+media-alt-header =
+    .label = Alternativ text
+media-address =
+    .label = Adress
+media-type =
+    .label = Typ
+media-size =
+    .label = Storlek
+media-count =
+    .label = Antal gånger
+media-long-desc =
+    .value = Lång beskrivning:
+media-save-as =
+    .label = Spara som…
+    .accesskey = S
+media-save-image-as =
+    .label = Spara som…
+    .accesskey = p
+media-preview =
+    .value = Förhandsgranskning:
+perm-tab =
+    .label = Rättigheter
+    .accesskey = t
+permissions-for =
+    .value = Rättigheter för:
+security-tab =
+    .label = Säkerhet
+    .accesskey = ä
+security-view =
+    .label = Visa certifikat
+    .accesskey = V
+security-view-unknown = Okänt
+    .value = Okänt
+security-view-identity =
+    .value = Webbplatsens identitet
+security-view-privacy-history-value = Har jag besökt den här webbplatsen tidigare dagar?
+security-view-privacy-passwords-value = Har jag sparat några lösenord för den här webbplatsen?
+security-view-privacy-viewpasswords =
+    .label = Visa sparade lösenord
+    .accesskey = ö
+security-view-technical =
+    .value = Tekniska detaljer
+
+## These strings are used to tell the user if the website is storing cookies
+## and data on the users computer in the security tab of pageInfo
+## Variables:
+##   $value (number) - Amount of data being stored
+##   $unit (string) - The unit of data being stored (Usually KB)
+
+image-size-unknown = Okänd
+not-set-verified-by = Ej angivet
+not-set-alternative-text = Ej angivet
+not-set-date = Ej angivet
+media-img = Bild
+media-bg-img = Bakgrund
+media-object = Objekt
+media-embed = Inbäddad
+media-link = Ikon
+media-input = Inmatning
+saved-passwords-yes = Ja
+saved-passwords-no = Nej
+no-page-title =
+    .value = Namnlös sida:
+general-quirks-mode =
+    .value = Tolerant läge
+general-strict-mode =
+    .value = Strikt enligt standard
+media-select-folder = Välj en mapp att spara bilderna i
+media-unknown-not-cached =
+    .value = Okänd (ej cachad)
+security-no-visits = Nej
+# This string is used to display the type of
+# an image
+# Variables:
+#   $type (string) - The type of an image
+media-image-type =
+    .value = { $type }-bild
+# This string is used to display the size of a scaled image
+# in both scaled and unscaled pixels
+# Variables:
+#   $dimx (number) - The horizontal size of an image
+#   $dimy (number) - The vertical size of an image
+#   $scaledx (number) - The scaled horizontal size of an image
+#   $scaledy (number) - The scaled vertical size of an image
+media-dimensions-scaled =
+    .value = { $dimx }px × { $dimy }px (skalad till { $scaledx }px × { $scaledy }px)
+# This string is used to display the size of an image in pixels
+# Variables:
+#   $dimx (number) - The horizontal size of an image
+#   $dimy (number) - The vertical size of an image
+media-dimensions =
+    .value = { $dimx }px × { $dimy }px
+# This string is used to display the size of a media
+# file in kilobytes
+# Variables:
+#   $size (number) - The size of the media file in kilobytes
+media-file-size = { $size } kB
+# This string is used to display the website name next to the
+# "Block Images" checkbox in the media tab
+# Variables:
+#   $website (string) - The website name
+media-block-image =
+    .label = Blockera bilder från { $website }
+    .accesskey = B
+# This string is used to display the URL of the website on top of the
+# pageInfo dialog box
+# Variables:
+#   $website (string) - The url of the website pageInfo is getting info for
+page-info-page =
+    .title = Sidinfo - { $website }
+page-info-frame =
+    .title = Raminfo - { $website }
