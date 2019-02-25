@@ -111,6 +111,8 @@ security-no-owner = આ વેબ સાઈટ માલિક જાણકા�
 media-select-folder = ચિત્રો સંગ્રહવા માટે ફોલ્ડર પસંદ કરો
 media-unknown-not-cached =
     .value = અજ્ઞાત (કેશ થયેલ નથી)
+permissions-use-default =
+    .label = મૂળભૂત વાપરો
 security-no-visits = ના
 # This string is used to display the type of
 # an image
