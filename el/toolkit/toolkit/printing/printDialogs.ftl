@@ -9,6 +9,8 @@ format-group-label =
     .value = Μορφή
 orientation-label =
     .value = Προσανατολισμός:
+scale-percent =
+    .value = %
 margin-group-label-inches =
     .value = Περιθώρια (ίντσες)
 margin-group-label-metric =
@@ -35,6 +37,8 @@ hf-blank =
     .label = --κενή--
 hf-title =
     .label = Τίτλος
+hf-url =
+    .label = URL
 hf-page =
     .label = Σελίδα #
 hf-page-and-total =
@@ -51,5 +55,9 @@ print-window =
     .title = Εκτύπωση
 print-complete =
     .value = Η εκτύπωση ολοκληρώθηκε
+# Variables
+# $percent (integer) - Number of printed percentage
+print-percent =
+    .value = { $percent }%
 dialog-cancel-label = Ακύρωση
 dialog-close-label = Κλείσιμο
