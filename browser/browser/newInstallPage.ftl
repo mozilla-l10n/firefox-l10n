@@ -10,8 +10,11 @@
 title = Noticias importantes
 heading = Cambios en su perfil de { -brand-short-name }
 changed-title = ¿Qué ha cambiado?
+changed-desc-profiles = Esta instalación de { -brand-short-name } incluye un nuevo perfil. Un perfil es un conjunto de archivos en el que Firefox almacena información como marcadores, contraseñas y preferencias del usuario.
+changed-desc-dedicated = Para que sea más fácil y seguro intercambiar las instalaciones de Firefox (Firefox, Firefox ESR, Firefox Beta, Firefox Developer Edition y Firefox Nightly), esta instalación usa ahora un perfil específico. No se compartirá automáticamente la información almacenada con otras instalaciones de Firefox.
 options-title = ¿Cuáles son mis opciones?
 resources = Recursos:
+sync-header = Inicie sesión o cree una { -fxaccount-brand-name }
 sync-label = Escriba su correo electrónico
 sync-input =
     .placeholder = Correo electrónico
