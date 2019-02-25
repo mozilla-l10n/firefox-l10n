@@ -2,9 +2,19 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/. --
 
+page-info-window =
+    .style = width: 600px; min-height: 550px;
+menu-copy =
+    .label = نقل کریں{ " " }
+    .accesskey = ن
 menu-select-all =
     .label = تمام منتخب کریں
     .accesskey = ت
+general-tab =
+    .label = عمومی
+    .accesskey = ج
+general-title =
+    .value = عنوان:
 general-url =
     .value = پتہ:
 general-type =
@@ -17,6 +27,8 @@ general-referrer =
     .value = یو آر ایل کا حوالہ دے رہا ہے:
 general-modified =
     .value = ترمیم شدہ:
+general-encoding =
+    .value = متن کی ضابطہ بندی:
 general-meta-name =
     .label = نام
 general-meta-content =
@@ -24,6 +36,10 @@ general-meta-content =
 media-tab =
     .label = میڈیا
     .accesskey = م
+media-location =
+    .value = محل وقوع :
+media-text =
+    .value = متصل متن :
 media-alt-header =
     .label = متبادل متن
 media-address =
@@ -38,6 +54,12 @@ media-dimension =
     .value = ابعاد:
 media-long-desc =
     .value = طویل تصریح
+media-save-as =
+    .label = محفوظ کریں بطور...
+    .accesskey = آ
+media-save-image-as =
+    .label = محفوظ کریں بطور...
+    .accesskey = e
 media-preview =
     .value = میڈیا پیش نظارہ
 perm-tab =
@@ -68,6 +90,8 @@ security-view-privacy-viewpasswords =
     .accesskey = ن
 security-view-technical =
     .value = تکنیکی تفاصیل
+help-button =
+    .label = مدد
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -86,6 +110,7 @@ media-list-img = شق
 media-cursor = کرسر
 media-object = آبجیکٹ
 media-embed = شامل کریں
+media-link = آئکن
 media-input = ان پٹ
 media-video = وڈیو
 media-audio = آڈیو
