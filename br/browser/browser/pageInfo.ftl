@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/. --
 
+page-info-window =
+    .style = width: 425px; min-height: 550px;
 copy =
     .key = C
 menu-copy =
@@ -17,6 +19,8 @@ close-window =
 general-tab =
     .label = Hollek
     .accesskey = o
+general-title =
+    .value = Titl:
 general-url =
     .value = Chomlec'h :
 general-type =
@@ -29,6 +33,8 @@ general-referrer =
     .value = URL bukenn :
 general-modified =
     .value = Daskemmet :
+general-encoding =
+    .value = Bonegadur an destenn :
 general-meta-name =
     .label = Anv{ " " }
 general-meta-content =
@@ -92,6 +98,8 @@ security-view-privacy-viewpasswords =
     .accesskey = g
 security-view-technical =
     .value = Munudoù kalvezel
+help-button =
+    .label = Help
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
