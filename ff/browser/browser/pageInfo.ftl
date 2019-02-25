@@ -94,6 +94,10 @@ security-view-identity-validity =
 security-view-privacy =
     .value = Aslol & Suturo
 security-view-privacy-history-value = Mi meeɗii yillaade ndee lowre ko adii hannde?
+security-view-privacy-sitedata-value = Mate ndee lowre geese woni ko e mooftude kabaruuji e ordinateer maa?
+security-view-privacy-clearsitedata =
+    .label = Momtu Kuukiije kam e Keɓe Lowre
+    .accesskey = C
 security-view-privacy-passwords-value = Mi danndii finndeeji ndee lowre geese?
 security-view-privacy-viewpasswords =
     .label = Hollu Finndeeji Danndaaɗi
@@ -109,6 +113,10 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-cookies = Eey, kuukiije kam e { $value } { $unit } keɓe lowre ndee
+security-site-data-only = Eey, { $value }{ $unit } keɓe lowre ndee
+security-site-data-cookies-only = Eey, kuukiije
+security-site-data-no = Alaa
 image-size-unknown = Anndaaka
 not-set-verified-by = Laɓɓinaaka
 not-set-alternative-text = Laɓɓinaaka
