@@ -2,6 +2,108 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/. --
 
+page-info-window =
+    .style = width: 970px; min-height: 500px;
+copy =
+    .key = C
+menu-copy =
+    .label = Kopeeri
+    .accesskey = K
+select-all =
+    .key = A
+menu-select-all =
+    .label = Vali kõik
+    .accesskey = V
+close-window =
+    .key = A
+general-tab =
+    .label = Üldine
+    .accesskey = l
+general-title =
+    .value = Pealkiri:
+general-url =
+    .value = Aadress:
+general-type =
+    .value = Tüüp:
+general-mode =
+    .value = Esitusviis:
+general-size =
+    .value = Suurus:
+general-referrer =
+    .value = Viitav URL:
+general-modified =
+    .value = Muudetud:
+general-encoding =
+    .value = Teksti kodeering:
+general-meta-name =
+    .label = Nimi
+general-meta-content =
+    .label = Sisu
+media-tab =
+    .label = Meedia
+    .accesskey = M
+media-location =
+    .value = Asukoht:
+media-text =
+    .value = Seonduv tekst:
+media-alt-header =
+    .label = Alternatiivne tekst
+media-address =
+    .label = Aadress
+media-type =
+    .label = Tüüp
+media-size =
+    .label = Suurus
+media-count =
+    .label = Arv
+media-dimension =
+    .value = Mõõtmed:
+media-long-desc =
+    .value = Pikk kirjeldus:
+media-save-as =
+    .label = Salvesta kui...
+    .accesskey = S
+media-save-image-as =
+    .label = Salvesta kui...
+    .accesskey = e
+media-preview =
+    .value = Meediafaili eelvaatlus:
+perm-tab =
+    .label = Õigused
+    .accesskey = i
+permissions-for =
+    .value = Õigused veebilehele:
+security-tab =
+    .label = Turvalisus
+    .accesskey = r
+security-view =
+    .label = Vaata sertifikaati
+    .accesskey = V
+security-view-unknown = Tundmatu
+    .value = Tundmatu
+security-view-identity =
+    .value = Veebilehe identiteet
+security-view-identity-owner =
+    .value = Omanik:{ " " }
+security-view-identity-domain =
+    .value = Veebileht:{ " " }
+security-view-identity-verifier =
+    .value = Verifitseerija:{ " " }
+security-view-privacy =
+    .value = Privaatsus ja ajalugu
+security-view-privacy-history-value = Kas ma olen enne tänast seda lehte juba külastanud?
+security-view-privacy-sitedata-value = Kas see veebileht salvestab infot minu arvutisse?
+security-view-privacy-clearsitedata =
+    .label = Kustuta küpsised ja saidi andmed
+    .accesskey = K
+security-view-privacy-passwords-value = Kas ma olen salvestanud selle veebilehe paroole?
+security-view-privacy-viewpasswords =
+    .label = Vaata salvestatud paroole
+    .accesskey = s
+security-view-technical =
+    .value = Tehnilised üksikasjad
+help-button =
+    .label = Abi
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -9,16 +111,25 @@
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-cookies = Jah, küpsiseid ja { $value } { $unit } saidi andmeid
+security-site-data-only = Jah, { $value } { $unit } saidi andmeid
+security-site-data-cookies-only = Jah, küpsiseid
+security-site-data-no = Ei
 image-size-unknown = Tundmatu
 not-set-verified-by = Määramata
 not-set-alternative-text = Määramata
 not-set-date = Määramata
 media-img = Pilt
 media-bg-img = Taust
+media-border-img = Piirjoon
+media-list-img = Täpp
+media-cursor = Kursor
 media-object = Objekt
 media-embed = Põimitud
 media-link = Ikoon
 media-input = Sisend
+media-video = Video
+media-audio = Audio
 saved-passwords-yes = Jah
 saved-passwords-no = Ei
 no-page-title =
@@ -27,9 +138,12 @@ general-quirks-mode =
     .value = Lodev režiim
 general-strict-mode =
     .value = Standardipõhine režiim
+security-no-owner = Sellel lehel puudub omaniku info.
 media-select-folder = Vali kaust, kuhu pilt salvestada
 media-unknown-not-cached =
     .value = Tundmatu (puudub puhvermälust)
+permissions-use-default =
+    .label = Kasutatakse vaikeväärtust
 security-no-visits = Ei
 # This string is used to display the type of
 # an image
@@ -52,6 +166,18 @@ media-dimensions-scaled =
 #   $dimy (number) - The vertical size of an image
 media-dimensions =
     .value = { $dimx }px × { $dimy }px
+# This string is used to display the size of a media
+# file in kilobytes
+# Variables:
+#   $size (number) - The size of the media file in kilobytes
+media-file-size = { $size }KiB
+# This string is used to display the website name next to the
+# "Block Images" checkbox in the media tab
+# Variables:
+#   $website (string) - The website name
+media-block-image =
+    .label = Pilte aadressilt { $website } ei laadita
+    .accesskey = P
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 # Variables:
