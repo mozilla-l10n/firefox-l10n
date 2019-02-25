@@ -94,6 +94,7 @@ security-view-identity-validity =
 security-view-privacy =
     .value = Friðhelgi og ferill
 security-view-privacy-history-value = Hef ég skoðað þetta vefsvæði áður?
+security-view-privacy-sitedata-value = Er þessi vefsíða að geyma upplýsingar á tölvunni minni?
 security-view-privacy-clearsitedata =
     .label = Hreinsa smákökur og gögn vefsvæðis
     .accesskey = ö
