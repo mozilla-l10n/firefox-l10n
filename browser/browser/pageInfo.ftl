@@ -94,6 +94,10 @@ security-view-identity-validity =
 security-view-privacy =
     .value = ખાનગીપણું & ઇતિહાસ
 security-view-privacy-history-value = શું મેં આ વેબસાઈટની આજે પહેલાં મુલાકાત લીધી છે?
+security-view-privacy-sitedata-value = શું આ વેબસાઇટ મારા કમ્પ્યુટર પર માહિતી સ્ટોર કરે છે?
+security-view-privacy-clearsitedata =
+    .label = કુકીઝ અને સાઇટ ડેટા સાફ કરો
+    .accesskey = C
 security-view-privacy-passwords-value = શું મેં આ વેબસાઈટ માટે કોઈપણ પાસવર્ડો સંગ્રહ્યા છે?
 security-view-privacy-viewpasswords =
     .label = સંગ્રહાયેલ પાસવર્ડો જુઓ
@@ -109,6 +113,10 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-cookies = હા, કૂકીઝ અને સાઇટ ડેટાના { $value } { $unit }
+security-site-data-only = હા, સાઇટ ડેટાના { $value } { $unit }
+security-site-data-cookies-only = હા, કૂકીઝ
+security-site-data-no = ના
 image-size-unknown = અજ્ઞાત
 not-set-verified-by = સ્પષ્ટ થયેલ નથી
 not-set-alternative-text = સ્પષ્ટ થયેલ નથી
