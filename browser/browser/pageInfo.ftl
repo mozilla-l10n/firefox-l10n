@@ -18,6 +18,8 @@ general-tab =
     .accesskey = X
 general-url =
     .value = Direición:
+general-type =
+    .value = Triba:
 general-mode =
     .value = Mou de renderizáu:
 general-size =
@@ -47,6 +49,8 @@ media-count =
     .label = Cuenta
 media-dimension =
     .value = Dimensiones:
+media-long-desc =
+    .value = Descripción llarga:
 media-save-as =
     .label = Guardar como…
     .accesskey = c
@@ -71,6 +75,8 @@ security-view-identity-domain =
     .value = Sitiu web:
 security-view-identity-verifier =
     .value = Verificáu por:
+security-view-privacy =
+    .value = Privacidá ya historial
 security-view-technical =
     .value = Detalles téunicos
 
@@ -87,6 +93,7 @@ general-quirks-mode =
     .value = Mou de compatibilidá
 general-strict-mode =
     .value = Mou compatible colos estándares
+security-no-owner = Esti sitiu web nun apurre información tocante al so propietariu.
 # This string is used to display the type of
 # an image
 # Variables:
