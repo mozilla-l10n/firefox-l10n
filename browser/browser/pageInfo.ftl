@@ -77,6 +77,12 @@ security-view-unknown = ಅಜ್ಞಾತ
     .value = ಅಜ್ಞಾತ
 security-view-identity =
     .value = ಜಾಲ ತಾಣದ ಗುರುತು
+security-view-identity-owner =
+    .value = ಮಾಲಿಕ:
+security-view-identity-domain =
+    .value = ಜಾಲ ತಾಣ:
+security-view-identity-verifier =
+    .value = ಇವರಿಂದ ಪರಿಶೀಲಿಸಲ್ಪಟ್ಟಿದೆ:
 security-view-privacy-history-value = ನಾನು ಈ ತಾಣಕ್ಕೆ  ಈ ದಿನ ಇದಕ್ಕೂ ಮೊದಲು ಭೇಟಿ ನೀಡಿದ್ದೆನೆಯೆ?
 security-view-privacy-passwords-value = ನಾನು ಈ ತಾಣಕ್ಕಾಗಿ ಯಾವುದಾದರೂ ಗುಪ್ತಪದವನ್ನು ಶೇಖರಿಸಿಟ್ಟಿದ್ದೇನೆಯೆ?
 security-view-privacy-viewpasswords =
@@ -142,6 +148,11 @@ media-dimensions-scaled =
 #   $dimy (number) - The vertical size of an image
 media-dimensions =
     .value = { $dimx }px × { $dimy }px
+# This string is used to display the size of a media
+# file in kilobytes
+# Variables:
+#   $size (number) - The size of the media file in kilobytes
+media-file-size = { $size } KB
 # This string is used to display the website name next to the
 # "Block Images" checkbox in the media tab
 # Variables:
