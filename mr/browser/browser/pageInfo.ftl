@@ -4,8 +4,14 @@
 
 copy =
     .key = C
+menu-copy =
+    .label = प्रत बनवा
+    .accesskey = C
 select-all =
     .key = A
+menu-select-all =
+    .label = सर्व निवडा
+    .accesskey = A
 close-window =
     .key = A
 general-tab =
