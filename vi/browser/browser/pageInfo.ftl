@@ -80,6 +80,7 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-no = Không
 image-size-unknown = Không rõ
 not-set-verified-by = Không được chỉ định
 not-set-alternative-text = Không được chỉ định
