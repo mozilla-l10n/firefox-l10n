@@ -89,9 +89,15 @@ security-view-identity-domain =
     .value = Веб-сайт:
 security-view-identity-verifier =
     .value = Подтверждено:
+security-view-identity-validity =
+    .value = Действителен по:
 security-view-privacy =
     .value = Приватность и История
 security-view-privacy-history-value = Посещал ли я этот веб-сайт до сегодняшнего дня?
+security-view-privacy-sitedata-value = Хранит ли этот веб-сайт информацию на моём компьютере?
+security-view-privacy-clearsitedata =
+    .label = Удалить куки и данные сайта
+    .accesskey = а
 security-view-privacy-passwords-value = Сохранял ли я для этого веб-сайта какие-либо пароли?
 security-view-privacy-viewpasswords =
     .label = Просмотреть сохранённые пароли
@@ -107,6 +113,10 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-cookies = Да, куки и { $value } { $unit } данных сайта
+security-site-data-only = Да, { $value } { $unit } данных сайта
+security-site-data-cookies-only = Да, куки
+security-site-data-no = Нет
 image-size-unknown = Неизвестно
 not-set-verified-by = Не указано
 not-set-alternative-text = Не указано
