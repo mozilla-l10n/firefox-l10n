@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/. --
 
+page-info-window =
+    .style = width: 600px; min-height: 550px;
 copy =
     .key = C
 menu-copy =
@@ -17,6 +19,8 @@ close-window =
 general-tab =
     .label = Generelt
     .accesskey = G
+general-title =
+    .value = Tittel:
 general-url =
     .value = Adresse:
 general-type =
@@ -139,6 +143,21 @@ security-no-visits = Nei
 #   $type (string) - The type of an image
 media-image-type =
     .value = { $type }-bilde
+# This string is used to display the size of a scaled image
+# in both scaled and unscaled pixels
+# Variables:
+#   $dimx (number) - The horizontal size of an image
+#   $dimy (number) - The vertical size of an image
+#   $scaledx (number) - The scaled horizontal size of an image
+#   $scaledy (number) - The scaled vertical size of an image
+media-dimensions-scaled =
+    .value = { $dimx } px × { $dimy } px (skalert til { $scaledx } px × { $scaledy } px)
+# This string is used to display the size of an image in pixels
+# Variables:
+#   $dimx (number) - The horizontal size of an image
+#   $dimy (number) - The vertical size of an image
+media-dimensions =
+    .value = { $dimx } px × { $dimy } px
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
