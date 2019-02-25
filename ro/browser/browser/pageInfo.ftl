@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/. --
 
+page-info-window =
+    .style = width: 600px; min-height: 550px;
 copy =
     .key = C
 menu-copy =
@@ -17,6 +19,8 @@ close-window =
 general-tab =
     .label = General
     .accesskey = G
+general-title =
+    .value = Titlu:
 general-url =
     .value = Adresă:
 general-type =
@@ -29,6 +33,8 @@ general-referrer =
     .value = URL referent:
 general-modified =
     .value = Modificat:
+general-encoding =
+    .value = Codare de text:
 general-meta-name =
     .label = Nume
 general-meta-content =
@@ -36,6 +42,8 @@ general-meta-content =
 media-tab =
     .label = Multimedia
     .accesskey = M
+media-location =
+    .value = Locație:
 media-text =
     .value = Text asociat:
 media-alt-header =
@@ -68,17 +76,28 @@ permissions-for =
 security-tab =
     .label = Securitate
     .accesskey = S
+security-view =
+    .label = Vezi certificatul
+    .accesskey = V
 security-view-unknown = Necunoscut
     .value = Necunoscut
+security-view-identity =
+    .value = Identitatea site-ului web
 security-view-identity-owner =
     .value = Proprietar:
+security-view-identity-domain =
+    .value = Site web:
 security-view-identity-verifier =
     .value = Verificat de:
+security-view-privacy-history-value = Am vizitat acest site web înainte de azi?
+security-view-privacy-passwords-value = Am salvat vreo parolă pentru acest site web?
 security-view-privacy-viewpasswords =
     .label = Vezi parolele salvate
     .accesskey = p
 security-view-technical =
     .value = Detalii tehnice
+help-button =
+    .label = Ajutor
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -96,6 +115,7 @@ media-border-img = Bordură
 media-list-img = Bulină
 media-cursor = Cursor
 media-object = Obiect
+media-link = Pictogramă
 media-input = Intrare
 media-video = Video
 media-audio = Audio
@@ -107,6 +127,8 @@ general-quirks-mode =
     .value = Mod de compatibilitate
 general-strict-mode =
     .value = Respectă standardele
+security-no-owner = Acest site web nu oferă informații despre proprietar.
+media-select-folder = Selectează un dosar în care să salvezi imaginile
 permissions-use-default =
     .label = Folosește setările implicite
 security-no-visits = Nu
@@ -116,6 +138,21 @@ security-no-visits = Nu
 #   $type (string) - The type of an image
 media-image-type =
     .value = Imagine { $type }
+# This string is used to display the size of a scaled image
+# in both scaled and unscaled pixels
+# Variables:
+#   $dimx (number) - The horizontal size of an image
+#   $dimy (number) - The vertical size of an image
+#   $scaledx (number) - The scaled horizontal size of an image
+#   $scaledy (number) - The scaled vertical size of an image
+media-dimensions-scaled =
+    .value = { $dimx }px × { $dimy }px (scalată la { $scaledx }px × { $scaledy }px)
+# This string is used to display the size of an image in pixels
+# Variables:
+#   $dimx (number) - The horizontal size of an image
+#   $dimy (number) - The vertical size of an image
+media-dimensions =
+    .value = { $dimx }px × { $dimy }px
 # This string is used to display the website name next to the
 # "Block Images" checkbox in the media tab
 # Variables:
@@ -123,3 +160,11 @@ media-image-type =
 media-block-image =
     .label = Blochează imaginile de la { $website }
     .accesskey = B
+# This string is used to display the URL of the website on top of the
+# pageInfo dialog box
+# Variables:
+#   $website (string) - The url of the website pageInfo is getting info for
+page-info-page =
+    .title = Informații privind pagina - { $website }
+page-info-frame =
+    .title = Informații privind cadrul - { $website }
