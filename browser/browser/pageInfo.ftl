@@ -94,6 +94,10 @@ security-view-identity-validity =
 security-view-privacy =
     .value = Privacidad e historial
 security-view-privacy-history-value = ¿He visitado este sitio web hoy?
+security-view-privacy-sitedata-value = ¿Este sitio web almacena información en mi computadora?
+security-view-privacy-clearsitedata =
+    .label = Eliminar todas las cookies y los datos del sitio
+    .accesskey = C
 security-view-privacy-passwords-value = ¿He guardado contraseñas para este sitio web?
 security-view-privacy-viewpasswords =
     .label = Ver contraseñas guardadas
@@ -109,6 +113,10 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-cookies = Sí, las cookies y { $value } { $unit } de los datos del sitio
+security-site-data-only = Sí, { $value } { $unit } de datos del sitio
+security-site-data-cookies-only = Sí, las cookies
+security-site-data-no = No
 image-size-unknown = Desconocida
 not-set-verified-by = No especificada
 not-set-alternative-text = No especificada
