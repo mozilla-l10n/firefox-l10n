@@ -65,6 +65,8 @@ print-preparing =
     .value = Menyediakan...
 print-progress =
     .value = Kemajuan:
+print-window =
+    .title = Mencetak
 print-complete =
     .value = Mencetak Selesai.
 # Variables
