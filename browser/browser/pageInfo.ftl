@@ -94,6 +94,10 @@ security-view-identity-validity =
 security-view-privacy =
     .value = تاریخچه و موارد حریم شخصی
 security-view-privacy-history-value = آیا قبل از امروز از این پایگاه وب بازدید کرده‌ام؟
+security-view-privacy-sitedata-value = آیا این وب‌سایت اطلاعات خود را بر روی رایانهٔ من ذخیره می‌کند؟
+security-view-privacy-clearsitedata =
+    .label = پاک کردن کوکی‌ها و اطلاعات پایگاه‌ها
+    .accesskey = C
 security-view-privacy-passwords-value = آیا برای این پایگاه وب گذرواژه‌ای ذخیره کرده‌ام؟
 security-view-privacy-viewpasswords =
     .label = مشاهدهٔ گذرواژه‌های ذخیره شده
@@ -109,6 +113,10 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-cookies = بله، کوکی‌ها و { $value } { $unit } از اطلاعات پایگاه
+security-site-data-only = بله، { $value }{ $unit } از اطلاعات پایگاه
+security-site-data-cookies-only = بله، کوکی‌ها
+security-site-data-no = خیر
 image-size-unknown = نامعلوم
 not-set-verified-by = نامشخص
 not-set-alternative-text = نامشخص
