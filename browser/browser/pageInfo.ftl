@@ -11,8 +11,16 @@ menu-copy =
     .accesskey = ค
 select-all =
     .key = A
+menu-select-all =
+    .label = เลือกทั้งหมด
+    .accesskey = ล
 close-window =
     .key = A
+general-tab =
+    .label = ทั่วไป
+    .accesskey = ท
+general-title =
+    .value = ชื่อเรื่อง:
 general-url =
     .value = ที่อยู่:
 general-type =
@@ -31,6 +39,9 @@ general-meta-name =
     .label = ชื่อ
 general-meta-content =
     .label = เนื้อหา
+media-tab =
+    .label = สื่อ
+    .accesskey = ส
 media-location =
     .value = ตำแหน่งที่ตั้ง:
 media-text =
@@ -49,18 +60,44 @@ media-dimension =
     .value = มิติ:
 media-long-desc =
     .value = คำอธิบายแบบยาว:
+media-save-as =
+    .label = บันทึกเป็น…
+    .accesskey = บ
+media-save-image-as =
+    .label = บันทึกเป็น…
+    .accesskey = บ
+media-preview =
+    .value = ตัวอย่างสื่อ:
+perm-tab =
+    .label = การอนุญาต
+    .accesskey = ก
 permissions-for =
     .value = การอนุญาตสำหรับ:
+security-tab =
+    .label = ความปลอดภัย
+    .accesskey = ค
+security-view =
+    .label = ดูใบรับรอง
+    .accesskey = บ
+security-view-unknown = ไม่ทราบ
+    .value = ไม่ทราบ
+security-view-identity =
+    .value = ข้อมูลประจำตัวเว็บไซต์
 security-view-identity-owner =
     .value = เจ้าของ:
 security-view-identity-domain =
     .value = เว็บไซต์:
 security-view-identity-verifier =
     .value = ยืนยันโดย:
+security-view-identity-validity =
+    .value = หมดอายุเมื่อ:
 security-view-privacy =
     .value = ความเป็นส่วนตัวและประวัติ
 security-view-privacy-history-value = ฉันเคยเยี่ยมชมเว็บไซต์นี้ก่อนหน้าวันนี้หรือไม่?
 security-view-privacy-passwords-value = ฉันเคยบันทึกรหัสผ่านใด ๆ สำหรับเว็บไซต์นี้หรือไม่?
+security-view-privacy-viewpasswords =
+    .label = ดูรหัสผ่านที่บันทึกไว้
+    .accesskey = ร
 security-view-technical =
     .value = รายละเอียดทางเทคนิค
 help-button =
@@ -72,6 +109,11 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-cookies = ใช่, คุกกี้และข้อมูลไซต์ { $value } { $unit }
+security-site-data-only = ใช่, ข้อมูลไซต์ { $value } { $unit }
+security-site-data-cookies-only = ใช่, คุกกี้
+security-site-data-no = ไม่
+image-size-unknown = ไม่ทราบ
 not-set-verified-by = ไม่ระบุ
 not-set-alternative-text = ไม่ระบุ
 not-set-date = ไม่ระบุ
@@ -98,6 +140,8 @@ security-no-owner = เว็บไซต์นี้ไม่มีข้อม
 media-select-folder = เลือกโฟลเดอร์ที่จะบันทึกภาพ
 media-unknown-not-cached =
     .value = ไม่ทราบ (ไม่ถูกแคช)
+permissions-use-default =
+    .label = ใช้ค่าเริ่มต้น
 security-no-visits = ไม่
 # This string is used to display the type of
 # an image
@@ -125,6 +169,13 @@ media-dimensions =
 # Variables:
 #   $size (number) - The size of the media file in kilobytes
 media-file-size = { $size } KB
+# This string is used to display the website name next to the
+# "Block Images" checkbox in the media tab
+# Variables:
+#   $website (string) - The website name
+media-block-image =
+    .label = ปิดกั้นภาพจาก { $website }
+    .accesskey = ป
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 # Variables:
