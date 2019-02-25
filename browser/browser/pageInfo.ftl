@@ -11,6 +11,9 @@ select-all =
     .key = A
 close-window =
     .key = A
+general-tab =
+    .label = Allgemein
+    .accesskey = A
 general-url =
     .value = Adresse:
 general-type =
@@ -48,6 +51,9 @@ media-dimension =
     .value = Maße:
 media-long-desc =
     .value = Ausführliche Beschreibung:
+media-save-as =
+    .label = Speichern unter…
+    .accesskey = u
 media-save-image-as =
     .label = Speichern unter…
     .accesskey = e
@@ -100,6 +106,8 @@ media-object = Objekt
 media-embed = Eingebettet
 media-link = Symbol
 media-input = Eingabe
+media-video = Video
+media-audio = Audio
 saved-passwords-yes = Ja
 saved-passwords-no = Nein
 no-page-title =
@@ -108,6 +116,7 @@ general-quirks-mode =
     .value = Kompatibilitätsmodus (Quirks)
 general-strict-mode =
     .value = Standardkonformer Modus
+security-no-owner = Diese Website stellt keine Informationen über den Besitzer zur Verfügung.
 media-select-folder = Wählen Sie einen Ordner, um die Grafiken zu speichern
 media-unknown-not-cached =
     .value = Unbekannt (nicht gecacht)
@@ -138,3 +147,10 @@ media-dimensions =
 # Variables:
 #   $size (number) - The size of the media file in kilobytes
 media-file-size = { $size } KB
+# This string is used to display the website name next to the
+# "Block Images" checkbox in the media tab
+# Variables:
+#   $website (string) - The website name
+media-block-image =
+    .label = Grafiken von { $website } blockieren
+    .accesskey = G
