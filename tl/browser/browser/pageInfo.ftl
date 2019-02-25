@@ -67,12 +67,46 @@ security-view-privacy-viewpasswords =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+media-img = Imahe
 media-bg-img = Background
+media-border-img = Gilid
+media-list-img = Punto
+media-cursor = Kursor
+media-object = Bagay
+media-embed = Taga
+media-link = Icon
+media-input = Input
+media-video = Bidyo
+media-audio = Tunog
+saved-passwords-yes = Oo
+saved-passwords-no = Hindi
 no-page-title =
     .value = Walang Pamagat na Pahina:
+general-quirks-mode =
+    .value = Quirks mode
+general-strict-mode =
+    .value = Moda pang-standard na pagsunod
 media-select-folder = Pumili ng Folder na paglalagyan ng Images
+media-unknown-not-cached =
+    .value = Di-tiyak (hindi na cache)
 permissions-use-default =
     .label = Gamitin ang Nakatakda
+security-no-visits = Hindi
+# This string is used to display the size of a scaled image
+# in both scaled and unscaled pixels
+# Variables:
+#   $dimx (number) - The horizontal size of an image
+#   $dimy (number) - The vertical size of an image
+#   $scaledx (number) - The scaled horizontal size of an image
+#   $scaledy (number) - The scaled vertical size of an image
+media-dimensions-scaled =
+    .value = { $dimx }px × { $dimy }px (scaled to { $scaledx }px × { $scaledy }px)
+# This string is used to display the size of an image in pixels
+# Variables:
+#   $dimx (number) - The horizontal size of an image
+#   $dimy (number) - The vertical size of an image
+media-dimensions =
+    .value = { $dimx }px × { $dimy }px
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
@@ -85,3 +119,11 @@ media-file-size = { $size } KB
 media-block-image =
     .label = Harangan ang mga larawan mula sa { $website }
     .accesskey = B
+# This string is used to display the URL of the website on top of the
+# pageInfo dialog box
+# Variables:
+#   $website (string) - The url of the website pageInfo is getting info for
+page-info-page =
+    .title = Tungkol sa Pahina - { $website }
+page-info-frame =
+    .title = Tungkol sa Frame - { $website }
