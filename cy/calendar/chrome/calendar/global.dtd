@@ -4,10 +4,10 @@
 
 <!ENTITY time.midnight "Canol Nos" >
 <!ENTITY time.noon "Canol Dydd" >
+
 <!-- Day Names -->
 <!-- LOCALIZATION NOTE : Accesskeys for day.1.Ddd to day.7.Ddd are currently
      only used in Preferences > Views > Workweek groupbox -->
-
 <!ENTITY day.1.Ddd "Sul" >
 <!ENTITY day.1.Ddd.accesskey "S">
 <!ENTITY day.2.Ddd "Llu" >
@@ -46,6 +46,8 @@
 
 <!ENTITY onemonthbackward.tooltip "Un Mis Nôl" >
 <!ENTITY onemonthforward.tooltip "Un Mis Ymlaen" >
+<!ENTITY oneyearbackward.tooltip "Nôl Un Flwyddyn" >
+<!ENTITY oneyearforward.tooltip "Ymlaen Un Flwyddyn" >
 <!ENTITY showToday.tooltip "Mynd i Heddiw">
 <!ENTITY onedayforward.tooltip "Un Diwrnod Ymlaen">
 <!ENTITY onedaybackward.tooltip "Un Diwrnod Nôl">
