@@ -16,6 +16,11 @@ menu-select-all =
     .accesskey = в
 close-window =
     .key = A
+general-tab =
+    .label = Основни
+    .accesskey = О
+general-title =
+    .value = Заглавие:
 general-url =
     .value = Адрес:
 general-type =
@@ -30,6 +35,8 @@ general-modified =
     .value = Последна промяна:
 general-encoding =
     .value = Кодиране на текста:
+general-meta-name =
+    .label = Наименование
 general-meta-content =
     .label = Съдържание
 media-tab =
@@ -45,12 +52,20 @@ media-address =
     .label = Адрес
 media-type =
     .label = Вид
+media-size =
+    .label = Размер
 media-count =
     .label = Брой
 media-dimension =
     .value = Размер:
 media-long-desc =
     .value = Дълго описание:
+media-save-as =
+    .label = Запазване като…
+    .accesskey = З
+media-save-image-as =
+    .label = Запазване като…
+    .accesskey = к
 media-preview =
     .value = Предварителен преглед:
 perm-tab =
@@ -58,6 +73,9 @@ perm-tab =
     .accesskey = П
 permissions-for =
     .value = Правата на:
+security-tab =
+    .label = Защита
+    .accesskey = З
 security-view =
     .label = Преглед на сертификата
     .accesskey = П
@@ -71,9 +89,15 @@ security-view-identity-domain =
     .value = Уеб сайт:
 security-view-identity-verifier =
     .value = Проверено от:
+security-view-identity-validity =
+    .value = Изтича на:
 security-view-privacy =
     .value = Поверителност и история
 security-view-privacy-history-value = Посещавал ли съм този сайт и преди, изключвайки днес?
+security-view-privacy-sitedata-value = Пази ли тази страница информация на компютъра?
+security-view-privacy-clearsitedata =
+    .label = Изчистване на бисквитки и данни на страници
+    .accesskey = И
 security-view-privacy-passwords-value = Имам ли запазени пароли за този сайт?
 security-view-privacy-viewpasswords =
     .label = Преглед на запазените пароли
@@ -89,16 +113,22 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-cookies = Да, бисквитките и { $value } { $unit } данни на страници
+security-site-data-only = Да, { $value } { $unit } данни на страници
+security-site-data-cookies-only = Да, бисквитките
+security-site-data-no = Не
 image-size-unknown = Неизвестно
 not-set-verified-by = Неизвестно
 not-set-alternative-text = Неизвестно
 not-set-date = Неизвестно
 media-img = Изображение
+media-bg-img = Фон
 media-border-img = Рамка
 media-list-img = Водач
 media-cursor = Курсор
 media-object = Обект
 media-embed = Вграден обект
+media-link = Пиктограма
 media-input = Вход
 media-video = Видео
 media-audio = Аудио
@@ -110,6 +140,10 @@ general-quirks-mode =
     .value = Нестандартен режим
 general-strict-mode =
     .value = Стандартен режим
+security-no-owner = Сайтът не предоставя информация за собственост.
+media-select-folder = Изберете папка за запазване на изображенията
+media-unknown-not-cached =
+    .value = Неизвестно (не е буферирано)
 permissions-use-default =
     .label = Както е по подразбиране
 security-no-visits = Не
@@ -134,6 +168,11 @@ media-dimensions-scaled =
 #   $dimy (number) - The vertical size of an image
 media-dimensions =
     .value = { $dimx } × { $dimy } пиксела
+# This string is used to display the size of a media
+# file in kilobytes
+# Variables:
+#   $size (number) - The size of the media file in kilobytes
+media-file-size = { $size } КБ
 # This string is used to display the website name next to the
 # "Block Images" checkbox in the media tab
 # Variables:
