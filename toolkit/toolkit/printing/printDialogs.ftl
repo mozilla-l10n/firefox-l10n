@@ -6,3 +6,4 @@ print-progress =
     .value = İlerleme:
 print-complete =
     .value = Yazdırma tamamlandı.
+dialog-close-label = Kapat
