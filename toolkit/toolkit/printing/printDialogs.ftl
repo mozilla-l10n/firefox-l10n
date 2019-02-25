@@ -4,6 +4,8 @@
 
 scale-percent =
     .value = %
+hf-url =
+    .label = URL
 print-preview-window =
     .title = ਪਰਿੰਟ ਝਲਕ
 print-title =
