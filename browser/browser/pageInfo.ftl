@@ -4,12 +4,18 @@
 
 page-info-window =
     .style = width: 530px; min-height: 480px;
+copy =
+    .key = C
 menu-copy =
     .label = Αντιγραφή
     .accesskey = γ
+select-all =
+    .key = A
 menu-select-all =
     .label = Επιλογή όλων
     .accesskey = λ
+close-window =
+    .key = A
 general-tab =
     .label = Γενικά
     .accesskey = Γ
@@ -79,6 +85,8 @@ security-view-identity-domain =
     .value = Ιστοσελίδα:{ " " }
 security-view-technical =
     .value = Τεχνικές λεπτομέρειες
+help-button =
+    .label = Βοήθεια
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
