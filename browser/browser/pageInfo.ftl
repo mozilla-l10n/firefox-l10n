@@ -94,6 +94,10 @@ security-view-identity-validity =
 security-view-privacy =
     .value = Pribatutasuna eta historia
 security-view-privacy-history-value = Webgune hau lehenago bisitatu dut?
+security-view-privacy-sitedata-value = Webgune hau informazioa gordetzen ari da nire ordenagailuan?
+security-view-privacy-clearsitedata =
+    .label = Garbitu cookieak eta guneetako datuak
+    .accesskey = G
 security-view-privacy-passwords-value = Webgune honetarako pasahitzik gorde dut?
 security-view-privacy-viewpasswords =
     .label = Ikusi pasahitzak
@@ -109,6 +113,10 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-cookies = Bai, cookieak eta gunearen datuetako { $value } { $unit }
+security-site-data-only = Bai, gunearen datuetako { $value } { $unit }
+security-site-data-cookies-only = Bai, cookieak
+security-site-data-no = Ez
 image-size-unknown = Ezezaguna
 not-set-verified-by = Zehaztu gabea
 not-set-alternative-text = Zehaztu gabea
