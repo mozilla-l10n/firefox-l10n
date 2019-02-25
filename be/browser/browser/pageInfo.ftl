@@ -19,6 +19,8 @@ close-window =
 general-tab =
     .label = Агульныя
     .accesskey = А
+general-title =
+    .value = Загаловак:
 general-url =
     .value = Адрас:
 general-type =
@@ -31,6 +33,8 @@ general-referrer =
     .value = Спасылальны URL:
 general-modified =
     .value = Зменена:
+general-encoding =
+    .value = Кадаванне тэксту:
 general-meta-name =
     .label = Назва
 general-meta-content =
@@ -81,6 +85,8 @@ security-view-privacy-viewpasswords =
     .accesskey = п
 security-view-technical =
     .value = Тэхнічныя падрабязнасці
+help-button =
+    .label = Даведка
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
