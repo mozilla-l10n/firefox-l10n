@@ -26,6 +26,7 @@ security-view-privacy =
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
 media-bg-img = Sfondo
+media-link = Icöna
 media-input = Intrâ
 media-video = Video
 media-audio = Aodio
