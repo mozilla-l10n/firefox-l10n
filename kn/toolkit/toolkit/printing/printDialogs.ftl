@@ -2,12 +2,20 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+print-setup =
+    .title = ಪುಟದ ಸಿದ್ಧತೆ
 custom-prompt-title = ನನ್ನಿಚ್ಛೆಯ...
 custom-prompt-prompt = ನಿಮ್ಮ ಇಚ್ಛೆಯ ಹೆಡರ್/ಫೂಟರ್ ಪಠ್ಯ
 format-group-label =
     .value = ಫಾರ್ಮಾಟ್
 orientation-label =
     .value = ನಿಲುವು(ಓರಿಯಂಟೇಶನ್):
+portrait =
+    .label = ಉದ್ದಚಿತ್ರ
+    .accesskey = P
+landscape =
+    .label = ಅಡ್ಡಚಿತ್ರ
+    .accesskey = L
 scale-percent =
     .value = %
 options-group-label =
