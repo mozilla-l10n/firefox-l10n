@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 custom-prompt-title = ఇష్టానుసారం...
+basic-tab =
+    .label = రూపు & ఎంపికలు
 format-group-label =
     .value = రూపం
 orientation-label =
