@@ -85,6 +85,8 @@ security-no-owner = এই ওয়েবসাইটি নিজের মাল
 media-select-folder = ছবি সংরক্ষণের জন্য ফোল্ডার নির্বাচন করুন
 media-unknown-not-cached =
     .value = অজানা (ক্যাশ করা হয়নি)
+permissions-use-default =
+    .label = ডিফল্ট ব্যবহার করা হবে
 security-no-visits = না
 # This string is used to display the type of
 # an image
