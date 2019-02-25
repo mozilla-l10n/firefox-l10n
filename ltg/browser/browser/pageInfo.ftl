@@ -6,10 +6,98 @@ page-info-window =
     .style = width: 600px; min-height: 550px;
 copy =
     .key = C
+menu-copy =
+    .label = Kopēt
+    .accesskey = K
 select-all =
     .key = A
+menu-select-all =
+    .label = Īzeimeit vysu
+    .accesskey = v
 close-window =
     .key = A
+general-tab =
+    .label = Vyspuorejuo
+    .accesskey = G
+general-url =
+    .value = Adress:
+general-type =
+    .value = Tips:
+general-mode =
+    .value = Rendereišonys režyms:
+general-size =
+    .value = Izmārs:
+general-referrer =
+    .value = Nūsyutietuoja URL:
+general-modified =
+    .value = Maineits:
+general-encoding =
+    .value = Teksta kodiejums:
+general-meta-name =
+    .label = Nūsaukums
+general-meta-content =
+    .label = Saturs
+media-tab =
+    .label = Multivide
+    .accesskey = M
+media-location =
+    .value = Adress:
+media-text =
+    .value = Pīsaisteitys teksts:
+media-alt-header =
+    .label = Alternativais teksts
+media-address =
+    .label = Adress
+media-type =
+    .label = Tips
+media-size =
+    .label = Faila izmārs
+media-count =
+    .label = Skaits
+media-dimension =
+    .value = Izmāri:
+media-long-desc =
+    .value = Garais aproksts:
+media-save-as =
+    .label = Saglobuot kai...
+    .accesskey = A
+media-save-image-as =
+    .label = Saglobuot kai...
+    .accesskey = e
+media-preview =
+    .value = Paraugs:
+perm-tab =
+    .label = Atļuovis
+    .accesskey = P
+permissions-for =
+    .value = Atļuovis lopai:
+security-tab =
+    .label = Drūseiba
+    .accesskey = S
+security-view =
+    .label = Skateitīs sertifikatu
+    .accesskey = f
+security-view-unknown = Nazynuoms
+    .value = Nazynuoms
+security-view-identity =
+    .value = Sātys lopys identitate
+security-view-identity-owner =
+    .value = Eipašnīks:{ " " }
+security-view-identity-domain =
+    .value = Sātys lopa:{ " " }
+security-view-identity-verifier =
+    .value = Puorbaudiejs:{ " " }
+security-view-privacy =
+    .value = Privatums i viesture
+security-view-privacy-history-value = Voi es itū lopu šudiņ jau asmu apmekliejs?
+security-view-privacy-passwords-value = Voi maņ ir saglobuotys paroles itai lopai?
+security-view-privacy-viewpasswords =
+    .label = Skateitīs saglobuotuos paroles
+    .accesskey = p
+security-view-technical =
+    .value = Tehniskuo informaceja
+help-button =
+    .label = Paleidzeiba
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -17,10 +105,74 @@ close-window =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+image-size-unknown = Nazynuoms
+not-set-verified-by = Nav nūruodeits
+not-set-alternative-text = Nav nūruodeits
+not-set-date = Nav nūruodeits
+media-img = Attāls
+media-bg-img = Fons
+media-border-img = Apmale
+media-list-img = Aizzeime
+media-cursor = Kursors
+media-object = Objekts
+media-embed = Īgults
+media-link = Ikona
+media-input = Īvode
 media-video = Video
 media-audio = Audio
+saved-passwords-yes = Nui
+saved-passwords-no = Nā
+no-page-title =
+    .value = Nanūsaukta lopa:
+general-quirks-mode =
+    .value = Sadereibys režyms
+general-strict-mode =
+    .value = Standartu atbiļsteibys režyms
+security-no-owner = Itei sātys lopa napīduovoj informaceju par sovu eipašnīku.
+media-select-folder = Izavielit mapi, kurā saglobuot attālus
+media-unknown-not-cached =
+    .value = Nazynuoms (nav kešatminī)
+permissions-use-default =
+    .label = Izmantuot nūkluseitūs
+security-no-visits = Nā
+# This string is used to display the type of
+# an image
+# Variables:
+#   $type (string) - The type of an image
+media-image-type =
+    .value = { $type } attāls
+# This string is used to display the size of a scaled image
+# in both scaled and unscaled pixels
+# Variables:
+#   $dimx (number) - The horizontal size of an image
+#   $dimy (number) - The vertical size of an image
+#   $scaledx (number) - The scaled horizontal size of an image
+#   $scaledy (number) - The scaled vertical size of an image
+media-dimensions-scaled =
+    .value = { $dimx }px × { $dimy }px (izmaineits iz { $scaledx }px × { $scaledy }px)
+# This string is used to display the size of an image in pixels
+# Variables:
+#   $dimx (number) - The horizontal size of an image
+#   $dimy (number) - The vertical size of an image
+media-dimensions =
+    .value = { $dimx }px × { $dimy }px
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
 #   $size (number) - The size of the media file in kilobytes
 media-file-size = { $size } KB
+# This string is used to display the website name next to the
+# "Block Images" checkbox in the media tab
+# Variables:
+#   $website (string) - The website name
+media-block-image =
+    .label = Blokeit attālus nu { $website }
+    .accesskey = B
+# This string is used to display the URL of the website on top of the
+# pageInfo dialog box
+# Variables:
+#   $website (string) - The url of the website pageInfo is getting info for
+page-info-page =
+    .title = Informaceja par lopu - { $website }
+page-info-frame =
+    .title = Informaceja par ītvoru - { $website }
