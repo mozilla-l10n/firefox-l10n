@@ -77,8 +77,11 @@
 <!ENTITY Birthday.label                 "Туған күні:">
 <!ENTITY Birthday.accesskey             "т">
 <!ENTITY In.label                       "">
+<!ENTITY Month.placeholder              "Ай">
+<!ENTITY Day.placeholder                "Күн">
 <!ENTITY Year.placeholder               "Жыл">
 <!ENTITY Or.value                       "немесе">
+<!ENTITY Age.label                      "Жасы:">
 <!ENTITY Age.placeholder                "Жасы">
 <!ENTITY YearsOld.label                 "">
 
@@ -141,7 +144,6 @@
 
 <!ENTITY Photo.tab                      "Фото">
 <!ENTITY Photo.accesskey                "о">
-<!ENTITY PhotoDesc.label                "Келесіден біреуін таңдаңыз:">
 <!ENTITY GenericPhoto.label             "Жалпы фото">
 <!ENTITY GenericPhoto.accesskey         "ж">
 <!ENTITY DefaultPhoto.label             "Бастапқы">
