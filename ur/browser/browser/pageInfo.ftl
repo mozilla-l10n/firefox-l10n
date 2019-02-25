@@ -112,6 +112,7 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-cookies-only = ہاں، کوکیاں
 security-site-data-no = نہیں
 image-size-unknown = نامعلوم
 not-set-verified-by = اختصاص شدہ نہیں
