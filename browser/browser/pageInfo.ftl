@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/. --
 
+page-info-window =
+    .style = width: 700px; min-height: 550px;
 copy =
     .key = C
 menu-copy =
@@ -17,6 +19,8 @@ close-window =
 general-tab =
     .label = Coitcheann
     .accesskey = c
+general-title =
+    .value = Tiotal:
 general-url =
     .value = Seòladh:
 general-type =
@@ -29,6 +33,8 @@ general-referrer =
     .value = An t-URL on dàinigear:
 general-modified =
     .value = Air atharrachadh:
+general-encoding =
+    .value = Còdachadh an teacsa:
 general-meta-name =
     .label = Ainm
 general-meta-content =
@@ -62,6 +68,11 @@ media-save-image-as =
     .accesskey = e
 media-preview =
     .value = Ro-shealladh mheadhanan:
+perm-tab =
+    .label = Ceadachan
+    .accesskey = C
+permissions-for =
+    .value = Ceadachan airson:
 security-tab =
     .label = Tèarainteachd
     .accesskey = n
@@ -78,11 +89,19 @@ security-view-identity-domain =
     .value = Làrach-lìn:
 security-view-identity-verifier =
     .value = Air a dhearbhadh le:
+security-view-identity-validity =
+    .value = Falbhaidh an ùine air:
 security-view-privacy =
     .value = Prìobhaideachd ⁊ eachdraidh
 security-view-privacy-history-value = Na thadhail mi air an làrach-lìn seo ro an-diugh?
+security-view-privacy-passwords-value = A bheil mi air facal-faire a shàbhaladh air an làrach seo?
+security-view-privacy-viewpasswords =
+    .label = Faclan-faire a shàbhail thu
+    .accesskey = w
 security-view-technical =
     .value = Mion-fhiosrachadh teicnigeach
+help-button =
+    .label = Cobhair
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
