@@ -174,6 +174,7 @@ main-thread-no-omtc = inimbo ha'etéva, OMTC ỹre
 yes = Héẽ
 no = Nahániri
 unknown = Ojekuaa'ỹva
+virtual-monitor-disp = Mba’erechaha ñandutiguáva
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
@@ -221,6 +222,7 @@ uses-tiling = Eipuru mosáiko
 content-uses-tiling = Eipuru mosáiko (tetepy)
 off-main-thread-paint-enabled = Opyta okápe inimbo tuichavéva mbosa'yha ijurujáva
 off-main-thread-paint-worker-count = Ñemoha'anga resa'ỹijo téma tuichavéva opyta okápe
+low-end-machine = Ojehechakuaa peteĩ mohendaha hembiapo’ivéva
 audio-backend = Mba'epu ñangarekoha huguapeguáva
 max-audio-channels = Max mbohapeha
 channel-layout = Mbohapeha ñemoĩ ojererohorýva
@@ -239,6 +241,7 @@ sandbox-proc-type-content = tetepy
 sandbox-proc-type-file = Marandurenda rechapyrã
 sandbox-proc-type-media-plugin = plugin maranduguáva
 launcher-process-status-0 = Jurujapyre
+launcher-process-status-1 = Ojepe'apyre ojavy rupi
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
