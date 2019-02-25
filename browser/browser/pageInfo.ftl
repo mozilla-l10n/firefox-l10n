@@ -29,6 +29,7 @@ general-quirks-mode =
     .value = Quirks kipi
 general-strict-mode =
     .value = Standartlarla uyumluluk kipi
+security-no-owner = Bu site, sahibiyle ilgili bilgi sağlamıyor.
 media-unknown-not-cached =
     .value = Bilinmiyor (önbelleğe alınmadı)
 security-no-visits = Hayır
