@@ -94,6 +94,10 @@ security-view-identity-validity =
 security-view-privacy =
     .value = Ñemigua ha tembiasakue
 security-view-privacy-history-value = Ojehechámapa ko ñanduti renda ymavegua
+security-view-privacy-sitedata-value = ¿Ko ñanduti renda ombyaty marandu che mohendahápe?
+security-view-privacy-clearsitedata =
+    .label = Emboguete umi kookie ha mba’ekuaarã tenda pegua
+    .accesskey = C
 security-view-privacy-passwords-value = Oñeñongatúpa ñe'ẽñemi ko ñanduti rendápe
 security-view-privacy-viewpasswords =
     .label = Terañemi ñongatuguáva jehecha
@@ -109,6 +113,10 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-cookies = Hẽe, umi kookie ha { $value } { $unit } tendakuéra mba’ekuaarã
+security-site-data-only = Hẽe,{ $value } { $unit } tendakuéra mba’ekuaarã
+security-site-data-cookies-only = Hẽe, umi kookie
+security-site-data-no = Ahániri
 image-size-unknown = Ojekuaa'ỹva
 not-set-verified-by = Moha'eñopyre'ỹva
 not-set-alternative-text = Moha'eñopyre'ỹva
