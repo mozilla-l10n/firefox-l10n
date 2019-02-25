@@ -7,13 +7,8 @@ about-policies-title = Kurumsal ilkeler
 active-policies-tab = Etkin
 errors-tab = Hatalar
 documentation-tab = Belgelendirme
+no-specified-policies-message = Kuruluş İlkeleri hizmeti etkin ama hiçbir ilke etkinleştirilmemiş.
+inactive-message = Kuruluş İlkeleri hizmeti etkin değil.
 policy-name = İlke adı
 policy-value = İlke değeri
 policy-errors = İlke hataları
-# 'gpo-machine-only' policies are related to the Group Policy features
-# on Windows. Please use the same terminology that is used on Windows
-# to describe Group Policy.
-# These policies can only be set at the computer-level settings, while
-# the other policies can also be set at the user-level.
-gpo-machine-only =
-    .title = Grup İlkesi kullanılırken bu ilke yalnızca bilgisayar düzeyinde ayarlanabilir.
