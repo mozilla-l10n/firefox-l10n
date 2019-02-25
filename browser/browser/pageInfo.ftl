@@ -50,8 +50,12 @@ media-address =
     .label = URL
 media-type =
     .label = 種類
+media-size =
+    .label = サイズ
 media-count =
     .label = カウント
+media-dimension =
+    .value = 寸法:
 media-long-desc =
     .value = 詳細説明:
 media-save-as =
@@ -79,6 +83,8 @@ security-view-identity-owner =
     .value = 運営者:
 security-view-identity-verifier =
     .value = 認証局:
+security-view-identity-validity =
+    .value = 有効期限:
 security-view-privacy =
     .value = プライバシーと履歴
 security-view-privacy-history-value = 昨日までにこのサイトを表示したことがあるか
@@ -97,3 +103,74 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+image-size-unknown = 不明
+not-set-verified-by = なし
+not-set-alternative-text = なし
+not-set-date = なし
+media-img = 画像
+media-bg-img = 背景画像
+media-border-img = ボーダーの画像
+media-list-img = リストのマーカー画像
+media-cursor = カーソル
+media-object = オブジェクト
+media-embed = 埋め込みオブジェクト
+media-link = アイコン
+media-input = 入力
+media-video = 動画
+media-audio = 音声
+saved-passwords-yes = はい
+saved-passwords-no = いいえ
+no-page-title =
+    .value = ページタイトルなし:
+general-quirks-mode =
+    .value = Quirks (後方互換) モード
+general-strict-mode =
+    .value = Standards Compliant (標準準拠) モード
+security-no-owner = 検証され信頼できる運営者情報はありません
+media-select-folder = 画像を保存するフォルダーを選択してください
+media-unknown-not-cached =
+    .value = 不明 (キャッシュなし)
+permissions-use-default =
+    .label = 標準設定を使用する
+security-no-visits = いいえ
+# This string is used to display the type of
+# an image
+# Variables:
+#   $type (string) - The type of an image
+media-image-type =
+    .value = { $type } 画像
+# This string is used to display the size of a scaled image
+# in both scaled and unscaled pixels
+# Variables:
+#   $dimx (number) - The horizontal size of an image
+#   $dimy (number) - The vertical size of an image
+#   $scaledx (number) - The scaled horizontal size of an image
+#   $scaledy (number) - The scaled vertical size of an image
+media-dimensions-scaled =
+    .value = { $dimx }px × { $dimy }px ({ $scaledx }px × { $scaledy }px で表示)
+# This string is used to display the size of an image in pixels
+# Variables:
+#   $dimx (number) - The horizontal size of an image
+#   $dimy (number) - The vertical size of an image
+media-dimensions =
+    .value = { $dimx }px × { $dimy }px
+# This string is used to display the size of a media
+# file in kilobytes
+# Variables:
+#   $size (number) - The size of the media file in kilobytes
+media-file-size = { $size } KB
+# This string is used to display the website name next to the
+# "Block Images" checkbox in the media tab
+# Variables:
+#   $website (string) - The website name
+media-block-image =
+    .label = { $website } の画像をブロック
+    .accesskey = B
+# This string is used to display the URL of the website on top of the
+# pageInfo dialog box
+# Variables:
+#   $website (string) - The url of the website pageInfo is getting info for
+page-info-page =
+    .title = ページ情報 - { $website }
+page-info-frame =
+    .title = フレーム情報 - { $website }
