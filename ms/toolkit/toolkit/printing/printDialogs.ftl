@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 custom-prompt-prompt = Masukkan teks adat pengepala/pekaki
+advanced-tab =
+    .label = Margin & Pengepala/Footer
 format-group-label =
     .value = Format
 orientation-label =
