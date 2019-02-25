@@ -94,6 +94,10 @@ security-view-identity-validity =
 security-view-privacy =
     .value = Protecziun da datas & cronica
 security-view-privacy-history-value = Hai jau gia visità ina giada questa website?
+security-view-privacy-sitedata-value = Memorisescha questa website infurmaziuns sin mes computer?
+security-view-privacy-clearsitedata =
+    .label = Stizzar cookies e datas da websites
+    .accesskey = c
 security-view-privacy-passwords-value = Hai jau memorisà pleds-clav per questa website?
 security-view-privacy-viewpasswords =
     .label = Mussar ils pleds-clav
@@ -109,6 +113,10 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-cookies = Gea, cookies e { $value } { $unit } datas da websites
+security-site-data-only = Gea, { $value } { $unit } datas da websites
+security-site-data-cookies-only = Gea, cookies
+security-site-data-no = Na
 image-size-unknown = Betg enconuschent
 not-set-verified-by = Betg inditgà
 not-set-alternative-text = Betg inditgà
