@@ -2,6 +2,80 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/. --
 
+copy =
+    .key = C
+menu-copy =
+    .label = Kopyala
+    .accesskey = K
+select-all =
+    .key = A
+menu-select-all =
+    .label = Tümünü seç
+    .accesskey = s
+close-window =
+    .key = A
+general-tab =
+    .label = Genel
+    .accesskey = G
+general-type =
+    .value = Tür:
+general-mode =
+    .value = Yorum kipi:
+general-size =
+    .value = Boyut:
+general-referrer =
+    .value = Yönlendiren URL:
+general-modified =
+    .value = Değişme tarihi:
+general-meta-name =
+    .label = Adı
+general-meta-content =
+    .label = İçerik
+media-tab =
+    .label = Ortam
+    .accesskey = O
+media-location =
+    .value = Konum:
+media-alt-header =
+    .label = Alternatif metin
+media-address =
+    .label = Adres
+media-type =
+    .label = Türü
+media-size =
+    .label = Boyut
+media-count =
+    .label = Sayaç
+media-save-as =
+    .label = Farklı kaydet…
+    .accesskey = F
+media-save-image-as =
+    .label = Farklı kaydet…
+    .accesskey = e
+perm-tab =
+    .label = İzinler
+    .accesskey = z
+permissions-for =
+    .value = İzinler:
+security-tab =
+    .label = Güvenlik
+    .accesskey = G
+security-view-unknown = Bilinmiyor
+    .value = Bilinmiyor
+security-view-identity-owner =
+    .value = Sahibi:
+security-view-identity-domain =
+    .value = Web sitesi:
+security-view-identity-validity =
+    .value = Bitiş tarihi:
+security-view-privacy-history-value = Bu siteyi daha önce ziyaret ettim mi?
+security-view-privacy-sitedata-value = Bu site bilgisayarımda bilgi depoluyor mu?
+security-view-privacy-clearsitedata =
+    .label = Çerezleri ve site verilerini temizle
+    .accesskey = t
+security-view-privacy-passwords-value = Bu siteye ait parola kaydettim mi?
+security-view-technical =
+    .value = Teknik ayrıntılar
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -9,6 +83,10 @@
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-cookies = Evet, çerezler ve { $value } { $unit } site verisi
+security-site-data-only = Evet, { $value } { $unit } site verisi
+security-site-data-cookies-only = Evet, çerezler
+security-site-data-no = Hayır
 image-size-unknown = Bilinmiyor
 not-set-verified-by = Belirtilmemiş
 not-set-alternative-text = Belirtilmemiş
