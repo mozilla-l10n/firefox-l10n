@@ -17,6 +17,8 @@ close-window =
 general-tab =
     .label = Algemeen
     .accesskey = A
+general-title =
+    .value = Titel:
 general-url =
     .value = Adres:
 general-type =
@@ -29,6 +31,8 @@ general-referrer =
     .value = Verwyser-URL:
 general-modified =
     .value = Gewysig:
+general-encoding =
+    .value = Teksenkodering:
 general-meta-name =
     .label = Naam
 general-meta-content =
@@ -83,10 +87,17 @@ security-view-identity-domain =
     .value = Webwerf:
 security-view-identity-verifier =
     .value = Geverifieer deur:
+security-view-privacy =
+    .value = Privaatheid en geskiedenis
 security-view-privacy-history-value = Het ek hierdie webwerf voor vandag besoek?
 security-view-privacy-passwords-value = Het ek enige wagwoorde vir hierdie webwerf gestoor?
+security-view-privacy-viewpasswords =
+    .label = Bekyk gestoorde wagwoorde
+    .accesskey = w
 security-view-technical =
     .value = Tegniese details
+help-button =
+    .label = Hulp
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
