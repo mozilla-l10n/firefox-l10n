@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/. --
 
+page-info-window =
+    .style = width: 600px; min-height: 550px;
 copy =
     .key = C
 menu-copy =
@@ -17,6 +19,8 @@ close-window =
 general-tab =
     .label = Orokorra
     .accesskey = O
+general-title =
+    .value = Izenburua:
 general-url =
     .value = Helbidea:
 general-type =
@@ -29,6 +33,8 @@ general-referrer =
     .value = URL igorlea:
 general-modified =
     .value = Aldatuta:
+general-encoding =
+    .value = Testuaren kodeketa:
 general-meta-name =
     .label = Izena
 general-meta-content =
@@ -83,6 +89,8 @@ security-view-identity-domain =
     .value = Webgunea:{ " " }
 security-view-identity-verifier =
     .value = Egiaztatzailea:{ " " }
+security-view-identity-validity =
+    .value = Iraungitze-data:
 security-view-privacy =
     .value = Pribatutasuna eta historia
 security-view-privacy-history-value = Webgune hau lehenago bisitatu dut?
@@ -92,6 +100,8 @@ security-view-privacy-viewpasswords =
     .accesskey = I
 security-view-technical =
     .value = Xehetasun teknikoak
+help-button =
+    .label = Laguntza
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
