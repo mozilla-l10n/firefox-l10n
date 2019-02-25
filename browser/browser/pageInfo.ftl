@@ -2,6 +2,18 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/. --
 
+copy =
+    .key = j
+menu-copy =
+    .label = Kopîkirin
+    .accesskey = K
+select-all =
+    .key = P
+menu-select-all =
+    .label = Gişî hilbijêre
+    .accesskey = G
+close-window =
+    .key = P
 general-tab =
     .label = Giştî
     .accesskey = G
@@ -9,6 +21,8 @@ general-url =
     .value = Navnîşan:
 general-type =
     .value = Cure:
+general-size =
+    .value = Mezinahî
 general-referrer =
     .value = URL'yên Serîlêdanê:
 general-modified =
@@ -38,14 +52,40 @@ media-dimension =
     .value = Dîmen:
 media-long-desc =
     .value = Ravekirina Biberfirehî:
+media-save-as =
+    .label = Cuda Tomar Bike...
+    .accesskey = a
+media-save-image-as =
+    .label = Cuda Tomar Bike...
+    .accesskey = a
 media-preview =
     .value = Pêşdîtina Medyayê:
+perm-tab =
+    .label = Destûr
+    .accesskey = D
 permissions-for =
     .value = Destûrê ji bo:
+security-tab =
+    .label = Ewlekarî
+    .accesskey = E
+security-view =
+    .label = Sertîfîkayê Nîşan Bide
+    .accesskey = B
 security-view-identity =
     .value = Nasnameya Malperê
+security-view-identity-owner =
+    .value = Xwedî:
+security-view-identity-domain =
+    .value = Malper:
+security-view-identity-verifier =
+    .value = Piştrastkirin:
 security-view-privacy-history-value = Gelo min îro serdana vê malperê kiribû?
 security-view-privacy-passwords-value = Gelo min nasnav ji bo vê malperê tomar kirine?
+security-view-privacy-viewpasswords =
+    .label = Nasnavên Tomarbûyî Nîşan Bide
+    .accesskey = W
+security-view-technical =
+    .value = Kitekitên Teknîkî
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -53,6 +93,7 @@ security-view-privacy-passwords-value = Gelo min nasnav ji bo vê malperê tomar
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+image-size-unknown = Nenas
 not-set-verified-by = Nehatiye diyarkirin
 not-set-alternative-text = Nehatiye diyarkirin
 not-set-date = Nehatiye diyarkirin
@@ -62,10 +103,20 @@ media-object = Bireser
 media-embed = Çalbûyî
 media-link = Îkon
 media-input = Ketan
+media-video = Vîdeo
+media-audio = Audîo
 saved-passwords-yes = Erê
 saved-passwords-no = Na
 no-page-title =
     .value = Rûpela Bê Sernivîs:
+general-quirks-mode =
+    .value = Moda Quirk
+general-strict-mode =
+    .value = Moda komplîansa standard
+security-no-owner = Di vê malperê de agahiyên xwediyê malperê nîn in.
+media-select-folder = Ji bo Tomarkirina Wêneyan Peldankekê Hilbijêre
+media-unknown-not-cached =
+    .value = Nenîşankirî (nekete pêşbîrê)
 security-no-visits = Na
 # This string is used to display the type of
 # an image
@@ -78,6 +129,13 @@ media-image-type =
 # Variables:
 #   $size (number) - The size of the media file in kilobytes
 media-file-size = { $size } KB
+# This string is used to display the website name next to the
+# "Block Images" checkbox in the media tab
+# Variables:
+#   $website (string) - The website name
+media-block-image =
+    .label = Wêneyên Blok ji { $website }
+    .accesskey = g
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 # Variables:
