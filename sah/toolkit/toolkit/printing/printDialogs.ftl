@@ -19,6 +19,8 @@ landscape =
 scale =
     .label = Масштаб:
     .accesskey = ш
+scale-percent =
+    .value = %
 shrink-to-fit =
     .label = Сирэй кэтитинэн
     .accesskey = к
@@ -92,5 +94,9 @@ print-window =
     .title = Бэчээттээһин
 print-complete =
     .value = Бэчээттэннэ.
+# Variables
+# $percent (integer) - Number of printed percentage
+print-percent =
+    .value = { $percent }%
 dialog-cancel-label = Салҕаама
 dialog-close-label = Сап
