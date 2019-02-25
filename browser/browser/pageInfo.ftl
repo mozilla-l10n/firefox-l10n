@@ -2,6 +2,82 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/. --
 
+copy =
+    .key = C
+menu-copy =
+    .label = Copiar
+    .accesskey = C
+select-all =
+    .key = A
+menu-select-all =
+    .label = Seleccionar tot
+    .accesskey = t
+close-window =
+    .key = A
+general-tab =
+    .label = General
+    .accesskey = G
+general-url =
+    .value = Adreça :
+general-type =
+    .value = Tipe :
+general-mode =
+    .value = Mòde de rendut :
+general-size =
+    .value = Talha :
+general-referrer =
+    .value = URL de provenença :
+general-modified =
+    .value = Modificat :
+general-meta-name =
+    .label = Nom
+general-meta-content =
+    .label = Contengut
+media-tab =
+    .label = Mèdia
+    .accesskey = M
+media-location =
+    .value = Emplaçament :
+media-address =
+    .label = Adreça
+media-type =
+    .label = Tipe
+media-size =
+    .label = Talha
+media-count =
+    .label = Nombre
+media-dimension =
+    .value = Dimensions :
+media-long-desc =
+    .value = Descripcion longa :
+media-preview =
+    .value = Apercebut del mèdia :
+perm-tab =
+    .label = Permissions
+    .accesskey = P
+permissions-for =
+    .value = Permissions per :
+security-tab =
+    .label = Seguretat
+    .accesskey = S
+security-view =
+    .label = Visualizar lo certificat
+    .accesskey = V
+security-view-unknown = Desconegut
+    .value = Desconegut
+security-view-identity =
+    .value = Identitat del site web
+security-view-identity-domain =
+    .value = Site web :
+security-view-identity-verifier =
+    .value = Verificat per :
+security-view-privacy-history-value = Ai ja visitat aqueste site ?
+security-view-privacy-passwords-value = Ai enregistrat un senhal per aqueste site web ?
+security-view-privacy-viewpasswords =
+    .label = Visualizar los senhals enregistrats
+    .accesskey = V
+security-view-technical =
+    .value = Detalhs tecnics
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -15,10 +91,15 @@ not-set-alternative-text = Pas especificat
 not-set-date = Pas especificat
 media-img = Imatge
 media-bg-img = Fons
+media-border-img = Bordadura
+media-list-img = Lista amb piuses
+media-cursor = Cursor
 media-object = Objècte
 media-embed = Embarcat
 media-link = Icòna
 media-input = Entrada
+media-video = Vidèo
+media-audio = Àudio
 saved-passwords-yes = Òc
 saved-passwords-no = Non
 no-page-title =
@@ -27,8 +108,15 @@ general-quirks-mode =
     .value = Mòde de compatibilitat (quirks)
 general-strict-mode =
     .value = Mòde de respècte dels estandards
+security-no-owner = Aqueste site web balha pas d'entresenhas sul proprietari.
 media-select-folder = Seleccionatz un repertòri ont enregistrar los imatges
 security-no-visits = Non
+# This string is used to display the type of
+# an image
+# Variables:
+#   $type (string) - The type of an image
+media-image-type =
+    .value = Imatge { $type }
 # This string is used to display the size of a scaled image
 # in both scaled and unscaled pixels
 # Variables:
@@ -44,6 +132,18 @@ media-dimensions-scaled =
 #   $dimy (number) - The vertical size of an image
 media-dimensions =
     .value = { $dimx } px × { $dimy } px
+# This string is used to display the size of a media
+# file in kilobytes
+# Variables:
+#   $size (number) - The size of the media file in kilobytes
+media-file-size = { $size } Ko
+# This string is used to display the website name next to the
+# "Block Images" checkbox in the media tab
+# Variables:
+#   $website (string) - The website name
+media-block-image =
+    .label = Blocar los imatges que venon de { $website }
+    .accesskey = B
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 # Variables:
