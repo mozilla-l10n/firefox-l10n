@@ -89,9 +89,15 @@ security-view-identity-domain =
     .value = Веб сајт:
 security-view-identity-verifier =
     .value = Проверио:
+security-view-identity-validity =
+    .value = Истиче:
 security-view-privacy =
     .value = Приватност и историјат
 security-view-privacy-history-value = Да ли сте раније посетили овај сајт?
+security-view-privacy-sitedata-value = Да ли овај веб сајт складишти информације на мој рачунар?
+security-view-privacy-clearsitedata =
+    .label = Обриши колачиће и податке сајта
+    .accesskey = О
 security-view-privacy-passwords-value = Да ли чувам неку лозинку за овај сајт?
 security-view-privacy-viewpasswords =
     .label = Преглед сачуваних лозинки
@@ -107,6 +113,10 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-cookies = Да, колачиће и { $value } { $unit } података сајта
+security-site-data-only = Да, { $value } { $unit } података сајта
+security-site-data-cookies-only = Да, колачиће
+security-site-data-no = Не
 image-size-unknown = Непознат
 not-set-verified-by = Неодређено
 not-set-alternative-text = Неодређено
