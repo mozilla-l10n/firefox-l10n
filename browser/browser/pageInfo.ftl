@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/. --
 
+page-info-window =
+    .style = width: 600px; min-height: 550px;
 copy =
     .key = C
 menu-copy =
@@ -17,6 +19,8 @@ close-window =
 general-tab =
     .label = Cyffredinol
     .accesskey = C
+general-title =
+    .value = Teitl:
 general-url =
     .value = Cyfeiriad:
 general-type =
@@ -29,6 +33,8 @@ general-referrer =
     .value = URL cyfeirio:
 general-modified =
     .value = Newidiwyd:
+general-encoding =
+    .value = Amgodiad Testun:
 general-meta-name =
     .label = Enw
 general-meta-content =
@@ -77,11 +83,14 @@ security-view-identity-verifier =
 security-view-privacy =
     .value = Preifatrwydd a Hanes
 security-view-privacy-history-value = A ydw i wedi ymweld â'r wefan hon cyn heddiw?
+security-view-privacy-passwords-value = A ydw i wedi cadw unrhyw gyfrineiriau ar gyfer y wefan yma?
 security-view-privacy-viewpasswords =
     .label = Gweld y Cyfrineiriau wedi eu Cadw
     .accesskey = w
 security-view-technical =
     .value = Manylion Technegol
+help-button =
+    .label = Cymorth
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
