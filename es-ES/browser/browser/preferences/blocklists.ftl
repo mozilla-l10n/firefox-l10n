@@ -28,3 +28,5 @@ blocklist-item-moz-std-name = Protección básica Disconnect.me (recomendada).
 blocklist-item-moz-std-desc = Permitir algunos rastreadores para que los sitios web funcionen bien.
 blocklist-item-moz-full-name = Protección estricta Disconnect.me.
 blocklist-item-moz-full-desc = Bloquea rastreadores conocidos. Algunos sitios web pueden no funcionar correctamente.
+blocklist-item-moz-std-description = Permite algunos rastreadores para que no se caigan muchos sitios web.
+blocklist-item-moz-full-description = Bloquea todos los rastreadores dectectados. Puede que algunos sitios web o contenidos no se carguen correctamente.
