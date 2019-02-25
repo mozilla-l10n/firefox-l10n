@@ -7,6 +7,12 @@ copy =
 menu-copy =
     .label = Copïo
     .accesskey = C
+menu-select-all =
+    .label = Dewis Popeth
+    .accesskey = P
+general-tab =
+    .label = Cyffredinol
+    .accesskey = C
 general-url =
     .value = Cyfeiriad:
 general-type =
@@ -41,6 +47,12 @@ media-dimension =
     .value = Maint:
 media-long-desc =
     .value = Disgrifiad Hir:
+media-save-as =
+    .label = Cadw Fel…
+    .accesskey = A
+media-save-image-as =
+    .label = Cadw Fel…
+    .accesskey = e
 media-preview =
     .value = Rhagolwg Cyfrwng:
 permissions-for =
@@ -73,6 +85,9 @@ not-set-alternative-text = Heb ddiffinio
 not-set-date = Heb ddiffinio
 media-img = Delwedd
 media-bg-img = Cefndir
+media-border-img = Ymyl
+media-list-img = Bwled
+media-cursor = Cyrchwr
 media-object = Gwrthych
 media-link = Eicon
 media-input = Mewnbwn
@@ -94,6 +109,21 @@ security-no-visits = Na
 #   $type (string) - The type of an image
 media-image-type =
     .value = Delwedd { $type }
+# This string is used to display the size of a scaled image
+# in both scaled and unscaled pixels
+# Variables:
+#   $dimx (number) - The horizontal size of an image
+#   $dimy (number) - The vertical size of an image
+#   $scaledx (number) - The scaled horizontal size of an image
+#   $scaledy (number) - The scaled vertical size of an image
+media-dimensions-scaled =
+    .value = { $dimx }px × { $dimy }px (graddio i { $scaledx }px × { $scaledy }px)
+# This string is used to display the size of an image in pixels
+# Variables:
+#   $dimx (number) - The horizontal size of an image
+#   $dimy (number) - The vertical size of an image
+media-dimensions =
+    .value = { $dimx }px × { $dimy }px
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
