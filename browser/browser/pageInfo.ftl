@@ -2,8 +2,106 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/. --
 
+page-info-window =
+    .style = width: 640px; min-height: 540px;
+copy =
+    .key = C
+menu-copy =
+    .label = Kopírovat
+    .accesskey = K
+select-all =
+    .key = A
+menu-select-all =
+    .label = Vybrat vše
+    .accesskey = a
+close-window =
+    .key = A
+general-tab =
+    .label = Obecné
+    .accesskey = O
+general-title =
+    .value = Název stránky:
+general-url =
+    .value = Adresa:
+general-type =
+    .value = Typ:
+general-mode =
+    .value = Režim vykreslování:
+general-size =
+    .value = Velikost:
+general-referrer =
+    .value = Odkazující URL:
+general-modified =
+    .value = Změněno:
 general-encoding =
     .value = Znaková sada textu:
+general-meta-name =
+    .label = Název
+general-meta-content =
+    .label = Obsah
+media-tab =
+    .label = Média
+    .accesskey = M
+media-location =
+    .value = Adresa:
+media-text =
+    .value = Přidružený text:
+media-alt-header =
+    .label = Alternativní text
+media-address =
+    .label = Adresa
+media-type =
+    .label = Typ
+media-size =
+    .label = Velikost
+media-count =
+    .label = Počet
+media-dimension =
+    .value = Rozměry:
+media-long-desc =
+    .value = Dlouhý popis:
+media-save-as =
+    .label = Uložit jako…
+    .accesskey = j
+media-save-image-as =
+    .label = Uložit jako…
+    .accesskey = a
+media-preview =
+    .value = Náhled:
+perm-tab =
+    .label = Oprávnění
+    .accesskey = p
+permissions-for =
+    .value = Oprávnění pro server:
+security-tab =
+    .label = Zabezpečení
+    .accesskey = b
+security-view =
+    .label = Zobrazit certifikát
+    .accesskey = c
+security-view-unknown = Neznámý
+    .value = Neznámý
+security-view-identity =
+    .value = Identita webového serveru
+security-view-identity-owner =
+    .value = Vlastník:{ " " }
+security-view-identity-domain =
+    .value = Webový server:{ " " }
+security-view-identity-verifier =
+    .value = Ověřil:
+security-view-privacy =
+    .value = Soukromí a historie
+security-view-privacy-history-value = Navštívil jsem už někdy tento server?
+security-view-privacy-sitedata-value = Má tento server na mém počítači uložena nějaká data?
+security-view-privacy-clearsitedata =
+    .label = Vymazat cookies a uložená data
+    .accesskey = c
+security-view-privacy-passwords-value = Mám pro tento server uložená hesla?
+security-view-privacy-viewpasswords =
+    .label = Zobrazit uložená hesla
+    .accesskey = h
+security-view-technical =
+    .value = Technické detaily
 help-button =
     .label = Nápověda
 
@@ -13,7 +111,14 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-cookies = Ano, cookies a { $value } { $unit } dat
+security-site-data-only = Ano, { $value } { $unit } dat
+security-site-data-cookies-only = Ano, cookies
+security-site-data-no = Ne
 image-size-unknown = Neznámý
+not-set-verified-by = Neurčeno
+not-set-alternative-text = Neurčeno
+not-set-date = Neurčeno
 media-img = Obrázek
 media-bg-img = Pozadí
 media-border-img = Rámeček
@@ -61,6 +166,18 @@ media-dimensions-scaled =
 #   $dimy (number) - The vertical size of an image
 media-dimensions =
     .value = { $dimx }px × { $dimy }px
+# This string is used to display the size of a media
+# file in kilobytes
+# Variables:
+#   $size (number) - The size of the media file in kilobytes
+media-file-size = { $size } KB
+# This string is used to display the website name next to the
+# "Block Images" checkbox in the media tab
+# Variables:
+#   $website (string) - The website name
+media-block-image =
+    .label = Blokovat obrázky ze serveru { $website }
+    .accesskey = B
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 # Variables:
