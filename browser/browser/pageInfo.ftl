@@ -89,9 +89,15 @@ security-view-identity-domain =
     .value = Nettsted:
 security-view-identity-verifier =
     .value = Verifisert av:
+security-view-identity-validity =
+    .value = Utløper:
 security-view-privacy =
     .value = Personvern og historikk
 security-view-privacy-history-value = Har jeg besøkt dette nettstedet tidligere?
+security-view-privacy-sitedata-value = Lagrer dette nettstedet informasjon på datamaskinen min?
+security-view-privacy-clearsitedata =
+    .label = Fjern infokapsler og nettstedsdata
+    .accesskey = k
 security-view-privacy-passwords-value = Har jeg lagret passord for dette nettstedet?
 security-view-privacy-viewpasswords =
     .label = Vis lagrede passord
@@ -107,6 +113,10 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-cookies = Ja, infokapsler og { $value } { $unit } nettstedsdata
+security-site-data-only = Ja, { $value } { $unit } nettstedsdata
+security-site-data-cookies-only = Ja, infokapsler
+security-site-data-no = Nei
 image-size-unknown = Ukjent
 not-set-verified-by = Ikke angitt
 not-set-alternative-text = Ikke angitt
