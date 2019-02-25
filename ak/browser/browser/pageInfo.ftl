@@ -124,6 +124,8 @@ security-no-owner = Wɛbsaet yi nnkyerɛ infɔmehyɛn mmfa wɔn a wɛbsaet no y�
 media-select-folder = Fa Folda a Wobɛsie Mfonin Wɔ Mu
 media-unknown-not-cached =
     .value = Nnim (wɔmmfa nnhyɛɛ esiei mu)
+permissions-use-default =
+    .label = Fa difɔlt di dwuma
 security-no-visits = Daabi
 # This string is used to display the type of
 # an image
