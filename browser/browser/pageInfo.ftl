@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/. --
 
+page-info-window =
+    .style = width: 600px; min-height: 550px;
 copy =
     .key = C
 menu-copy =
@@ -17,6 +19,8 @@ close-window =
 general-tab =
     .label = عام
     .accesskey = ع
+general-title =
+    .value = العنوان:
 general-url =
     .value = العنوان:
 general-type =
@@ -29,6 +33,8 @@ general-referrer =
     .value = العنوان المُحِيل:
 general-modified =
     .value = آخر تعديل:
+general-encoding =
+    .value = ترميز النص:
 general-meta-name =
     .label = الاسم
 general-meta-content =
@@ -54,6 +60,12 @@ media-dimension =
     .value = الأبعاد:
 media-long-desc =
     .value = الوصف المطوّل:
+media-save-as =
+    .label = احفظ باسم…
+    .accesskey = س
+media-save-image-as =
+    .label = احفظ باسم…
+    .accesskey = س
 media-preview =
     .value = معاينة الوسائط:
 perm-tab =
@@ -77,6 +89,10 @@ security-view-identity-domain =
     .value = موقع الوِب:
 security-view-identity-verifier =
     .value = تحقق منها:
+security-view-identity-validity =
+    .value = تنقضي في:
+security-view-privacy =
+    .value = الخصوصية و التأريخ
 security-view-privacy-history-value = هل زُرتُ هذا الموقع من قبل؟
 security-view-privacy-passwords-value = هل حفظتُ أي كلمات سر لهذا الموقع؟
 security-view-privacy-viewpasswords =
@@ -84,6 +100,8 @@ security-view-privacy-viewpasswords =
     .accesskey = ك
 security-view-technical =
     .value = التفاصيل التقنية
+help-button =
+    .label = مساعدة
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -147,6 +165,13 @@ media-dimensions =
 # Variables:
 #   $size (number) - The size of the media file in kilobytes
 media-file-size = { $size } ك.بايت
+# This string is used to display the website name next to the
+# "Block Images" checkbox in the media tab
+# Variables:
+#   $website (string) - The website name
+media-block-image =
+    .label = احجب الصّور من { $website }
+    .accesskey = ص
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 # Variables:
