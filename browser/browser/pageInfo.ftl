@@ -6,6 +6,9 @@ page-info-window =
     .style = width: 600px; min-height: 550px;
 copy =
     .key = C
+menu-copy =
+    .label = కాపీ చేయి
+    .accesskey = C
 select-all =
     .key = A
 close-window =
@@ -13,6 +16,8 @@ close-window =
 general-tab =
     .label = సాధారణం
     .accesskey = G
+general-title =
+    .value = శీర్షిక:
 general-url =
     .value = చిరునామా:
 general-type =
@@ -52,6 +57,12 @@ media-dimension =
     .value = కొలతలు:
 media-long-desc =
     .value = పొడవైన వివరణ:
+media-save-as =
+    .label = భద్రపరుచు రీతి…
+    .accesskey = A
+media-save-image-as =
+    .label = భద్రపరుచు రీతి…
+    .accesskey = e
 perm-tab =
     .label = అనుమతులు
     .accesskey = P
@@ -70,6 +81,8 @@ security-view-identity-domain =
     .value = వెబ్ సైటు:
 security-view-identity-verifier =
     .value = దీనిద్వారా నిర్ధారించబడింది:
+security-view-privacy-history-value = ఈ రోజుకు ముందు నేను ఈ వెబ్ సైటును దర్శించానా?
+security-view-privacy-passwords-value = ఈ సైటు కోసం నేను ఏమైనా సంకేతపదాలను భద్రపరిచానా?
 help-button =
     .label = సహాయం
 
@@ -89,14 +102,19 @@ media-border-img = హద్దు
 media-list-img = బుల్లెట్
 media-cursor = కర్సర్
 media-object = ఆబ్జక్టు
+media-embed = పొందుపరచు
 media-link = చిహ్నం
+media-input = ఇన్‍పుట్
 media-video = వీడియో
 media-audio = ఆడియో
 saved-passwords-yes = అవును
 saved-passwords-no = కాదు
 no-page-title =
     .value = శీర్షికలేని పేజీ:
+security-no-owner = ఈ వెబ్ సైటు యజమాని విషయం తెలుపుటలేదు.
 media-select-folder = చిత్రములను భద్రపరచుటకు సంచయమును ఎంపికచేసుకొనుము
+media-unknown-not-cached =
+    .value = తెలియని (క్యాషేకాని)
 security-no-visits = కాదు
 # This string is used to display the type of
 # an image
@@ -104,11 +122,33 @@ security-no-visits = కాదు
 #   $type (string) - The type of an image
 media-image-type =
     .value = { $type } చిత్రము
+# This string is used to display the size of a scaled image
+# in both scaled and unscaled pixels
+# Variables:
+#   $dimx (number) - The horizontal size of an image
+#   $dimy (number) - The vertical size of an image
+#   $scaledx (number) - The scaled horizontal size of an image
+#   $scaledy (number) - The scaled vertical size of an image
+media-dimensions-scaled =
+    .value = { $dimx }px × { $dimy }px ({ $scaledx }px × { $scaledy }px కు స్కేల్‌చేయబడింది)
+# This string is used to display the size of an image in pixels
+# Variables:
+#   $dimx (number) - The horizontal size of an image
+#   $dimy (number) - The vertical size of an image
+media-dimensions =
+    .value = { $dimx }px × { $dimy }px
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
 #   $size (number) - The size of the media file in kilobytes
 media-file-size = { $size } KB
+# This string is used to display the website name next to the
+# "Block Images" checkbox in the media tab
+# Variables:
+#   $website (string) - The website name
+media-block-image =
+    .label = { $website } నుండి  చిత్రములను నిరోధించు
+    .accesskey = B
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 # Variables:
