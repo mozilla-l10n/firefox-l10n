@@ -22,7 +22,7 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } başqa nümunədən 
 update-manual = Yeniləmələr buradadır: <label data-l10n-name="manual-link"/>
 update-unsupported = Siz bu sistemdə gələcək yeniləmələri qura bilməyəcəksiniz. <label data-l10n-name="unsupported-link">Ətraflı öyrən</label>
 update-restarting = Yenidən başladılır…
-channel-description = Hal-hazırda <label data-l10n-name="current-channel"></label> yeniləmə kanalındasınız.{ " " }
+channel-description = Hal-hazırda <label data-l10n-name="current-channel"></label> yeniləmə kanalındasınız.
 warningDesc-version = { -brand-short-name } eksperimentaldır və qərarsız ola bilər.
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> Web-i açıq, ictimai və hərkəsə əl çatan etmək üçün bir yerdə çalışan <label data-l10n-name="community-exp-creditsLink">qlobal cəmiyyətdir</label>.
 community-2 = { -brand-short-name } <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, Web-i açıq, ictimai və hərkəsə əl çatan etmək üçün bir yerdə çalışan <label data-l10n-name="community-creditsLink">qlobal icma tərəfindən</label> hazırlanıb.
