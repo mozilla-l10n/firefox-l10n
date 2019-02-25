@@ -77,8 +77,11 @@
 <!ENTITY Birthday.label                 "Aniversário:">
 <!ENTITY Birthday.accesskey             "A">
 <!ENTITY In.label                       "">
+<!ENTITY Month.placeholder              "Mês">
+<!ENTITY Day.placeholder                "Dia">
 <!ENTITY Year.placeholder               "Ano">
 <!ENTITY Or.value                       "ou">
+<!ENTITY Age.label                      "Idade:">
 <!ENTITY Age.placeholder                "Idade">
 <!ENTITY YearsOld.label                 "">
 
@@ -141,7 +144,6 @@
 
 <!ENTITY Photo.tab                      "Foto">
 <!ENTITY Photo.accesskey                "o">
-<!ENTITY PhotoDesc.label                "Escolha um dos seguintes:">
 <!ENTITY GenericPhoto.label             "Foto genérica">
 <!ENTITY GenericPhoto.accesskey         "g">
 <!ENTITY DefaultPhoto.label             "Predefinido">
