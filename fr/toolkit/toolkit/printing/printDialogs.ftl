@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 custom-prompt-title = Personnaliser…
+custom-prompt-prompt = Saisissez votre texte d’en-tête ou de pied de page
 basic-tab =
     .label = Format et options
 advanced-tab =
