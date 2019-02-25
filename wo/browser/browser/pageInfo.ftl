@@ -19,10 +19,14 @@ general-tab =
     .accesskey = G
 general-url =
     .value = Màkkaan (URL) :
+general-type =
+    .value = Giir :
 general-mode =
     .value = Anamu dippi :
 general-size =
     .value = Dayo :
+general-referrer =
+    .value = URL bi mu tukkee :
 general-modified =
     .value = Soppi ci :
 general-meta-name =
@@ -120,6 +124,8 @@ security-no-owner = Dal bi joxewul ay xibaar ci boroom.
 media-select-folder = Fal benn wayndare gi ngay aar nataal yi
 media-unknown-not-cached =
     .value = Xameesuko (nekkul ci nëbb gi)
+permissions-use-default =
+    .label = Maye ñakk ndigal
 security-no-visits = Déedéet
 # This string is used to display the type of
 # an image
