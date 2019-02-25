@@ -37,6 +37,8 @@ general-encoding =
     .value = টেক্সট এনকোডিংঃ
 general-meta-name =
     .label = নাম
+general-meta-content =
+    .label = কন্টেন্ট
 media-tab =
     .label = মিডিয়া
     .accesskey = M
@@ -87,9 +89,14 @@ security-view-identity-domain =
     .value = ওয়েবসাইট:
 security-view-identity-verifier =
     .value = যাচাইকারী:
+security-view-identity-validity =
+    .value = মেয়াদোত্তীর্ণের তারিখ:
 security-view-privacy =
     .value = গোপণীয়তা এবং ইতিহাস
 security-view-privacy-history-value = আগে কোন সময় এই ওয়েবসাইট আমি পরিদর্শন করেছি কি?
+security-view-privacy-clearsitedata =
+    .label = কুকি এবং সাইট ডাটা পরিষ্কার
+    .accesskey = C
 security-view-privacy-passwords-value = এই ওয়েবসাইটের জন্য কি আমি কোনো পাসওয়ার্ড সংরক্ষণ করেছি?
 security-view-privacy-viewpasswords =
     .label = সংরক্ষিত পাসওয়ার্ড পরিদর্শন
@@ -105,6 +112,10 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-cookies = হ্যাঁ, কুকি এবং সাইট ডাটার { $value } { $unit }
+security-site-data-only = হ্যাঁ, সাইট ডাটার { $value } { $unit }
+security-site-data-cookies-only = হ্যাঁ, কুকি
+security-site-data-no = না
 image-size-unknown = অজানা
 not-set-verified-by = নির্ধারিত নয়
 not-set-alternative-text = নির্ধারিত নয়
@@ -126,6 +137,8 @@ no-page-title =
     .value = শিরোনামহীন পাতা:
 general-quirks-mode =
     .value = Quirks মোড
+general-strict-mode =
+    .value = প্রমিত সমর্থিন মোড
 security-no-owner = এই ওয়েবসাইটি নিজের মালিকানা সংক্রান্ত কোন তথ্য দেয় না।
 media-select-folder = ছবি সংরক্ষণের জন্য ফোল্ডার নির্বাচন করুন
 media-unknown-not-cached =
@@ -139,6 +152,21 @@ security-no-visits = না
 #   $type (string) - The type of an image
 media-image-type =
     .value = { $type } ছবি
+# This string is used to display the size of a scaled image
+# in both scaled and unscaled pixels
+# Variables:
+#   $dimx (number) - The horizontal size of an image
+#   $dimy (number) - The vertical size of an image
+#   $scaledx (number) - The scaled horizontal size of an image
+#   $scaledy (number) - The scaled vertical size of an image
+media-dimensions-scaled =
+    .value = { $dimx }px × { $dimy }px (আনুপাতিকভাবে পরিবর্তিত { $scaledx }px × { $scaledy }px)
+# This string is used to display the size of an image in pixels
+# Variables:
+#   $dimx (number) - The horizontal size of an image
+#   $dimy (number) - The vertical size of an image
+media-dimensions =
+    .value = { $dimx }px × { $dimy }px
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
