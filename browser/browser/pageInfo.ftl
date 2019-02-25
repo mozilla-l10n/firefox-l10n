@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/. --
 
+page-info-window =
+    .style = width: 600px; min-height: 550px;
 copy =
     .key = C
 menu-copy =
@@ -31,6 +33,8 @@ general-referrer =
     .value = URL Perujuk:
 general-modified =
     .value = Diubah:
+general-encoding =
+    .value = Pengodean Teks:
 general-meta-name =
     .label = Nama
 general-meta-content =
@@ -85,6 +89,8 @@ security-view-identity-domain =
     .value = Situs web:{ " " }
 security-view-identity-verifier =
     .value = Diverifikasi oleh:{ " " }
+security-view-privacy =
+    .value = Privasi & Riwayat
 security-view-privacy-history-value = Pernahkah situs ini dikunjungi sebelum hari ini?
 security-view-privacy-sitedata-value = Apakah situs web ini menyimpan informasi dalam komputer saya?
 security-view-privacy-passwords-value = Pernahkah sandi untuk situs web ini disimpan?
@@ -93,6 +99,8 @@ security-view-privacy-viewpasswords =
     .accesskey = s
 security-view-technical =
     .value = Detail Teknis
+help-button =
+    .label = Bantuan
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -130,6 +138,8 @@ security-no-owner = Situs web ini tidak menyediakan informasi identitas.
 media-select-folder = Pilih folder untuk Menyimpan Gambar
 media-unknown-not-cached =
     .value = Tidak Diketahui (tidak tersimpan di tembolok)
+permissions-use-default =
+    .label = Gunakan yang Baku
 security-no-visits = Tidak
 # This string is used to display the type of
 # an image
