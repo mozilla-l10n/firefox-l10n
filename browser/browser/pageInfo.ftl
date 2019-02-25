@@ -114,6 +114,8 @@ media-video = Ividiyo
 media-audio = Enesandi
 saved-passwords-yes = Ewe
 saved-passwords-no = Hayi
+no-page-title =
+    .value = Iphepha Elingenamxholo:
 general-quirks-mode =
     .value = Imo yobuqhinga
 general-strict-mode =
@@ -122,6 +124,8 @@ security-no-owner = Le webhusayithi ayiniki nkcazelo yobunini.
 media-select-folder = Khetha ifolda uze ugcine imifuziselo
 media-unknown-not-cached =
     .value = Ayaziwa (ayikho kuvimba)
+permissions-use-default =
+    .label = Sebenzisa isisesko
 security-no-visits = Hayi
 # This string is used to display the type of
 # an image
@@ -129,6 +133,15 @@ security-no-visits = Hayi
 #   $type (string) - The type of an image
 media-image-type =
     .value = { $type } Umfuziselo
+# This string is used to display the size of a scaled image
+# in both scaled and unscaled pixels
+# Variables:
+#   $dimx (number) - The horizontal size of an image
+#   $dimy (number) - The vertical size of an image
+#   $scaledx (number) - The scaled horizontal size of an image
+#   $scaledy (number) - The scaled vertical size of an image
+media-dimensions-scaled =
+    .value = { $dimx }px × { $dimy }px (iskeyilwe yaya ku- { $scaledx }px × { $scaledy }px)
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
@@ -141,5 +154,11 @@ media-file-size = { $size } KB
 media-block-image =
     .label = Nqanda Imifuziselo ukusuka kwi-{ $website }
     .accesskey = B
+# This string is used to display the URL of the website on top of the
+# pageInfo dialog box
+# Variables:
+#   $website (string) - The url of the website pageInfo is getting info for
+page-info-page =
+    .title = Inkcazelo yephepha - { $website }
 page-info-frame =
     .title = Inkcazelo yefreyim - { $website }
