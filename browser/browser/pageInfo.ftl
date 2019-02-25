@@ -2,6 +2,106 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/. --
 
+page-info-window =
+    .style = width: 600px; min-height: 550px;
+copy =
+    .key = C
+menu-copy =
+    .label = Afrita
+    .accesskey = A
+select-all =
+    .key = A
+menu-select-all =
+    .label = Velja allt
+    .accesskey = j
+close-window =
+    .key = A
+general-tab =
+    .label = Almennt
+    .accesskey = A
+general-title =
+    .value = Titill:
+general-url =
+    .value = Staðsetning:
+general-type =
+    .value = Tegund:
+general-mode =
+    .value = Teiknihamur:
+general-size =
+    .value = Stærð:
+general-referrer =
+    .value = URL bakvísun:
+general-modified =
+    .value = Breytt:
+general-encoding =
+    .value = Stafatafla:
+general-meta-name =
+    .label = Nafn
+general-meta-content =
+    .label = Innihald
+media-tab =
+    .label = Gögn
+    .accesskey = G
+media-location =
+    .value = Staðsetning:
+media-text =
+    .value = Tengdur texti:
+media-alt-header =
+    .label = Aukatexti
+media-address =
+    .label = Staðsetning
+media-type =
+    .label = Tegund
+media-size =
+    .label = Stærð
+media-count =
+    .label = Fjöldi
+media-dimension =
+    .value = Víddir:
+media-long-desc =
+    .value = Löng lýsing:
+media-save-as =
+    .label = Vista sem…
+    .accesskey = V
+media-save-image-as =
+    .label = Vista sem…
+    .accesskey = e
+media-preview =
+    .value = Forsýning gagna:
+perm-tab =
+    .label = Heimildir
+    .accesskey = H
+permissions-for =
+    .value = Heimildir fyrir:
+security-tab =
+    .label = Öryggi
+    .accesskey = Ö
+security-view =
+    .label = Skoða skilríki
+    .accesskey = S
+security-view-unknown = Óþekkt
+    .value = Óþekkt
+security-view-identity =
+    .value = Auðkenni vefsvæðis
+security-view-identity-owner =
+    .value = Eigandi:
+security-view-identity-domain =
+    .value = Vefsetur:
+security-view-identity-verifier =
+    .value = Staðfest af:
+security-view-identity-validity =
+    .value = Rennur út:
+security-view-privacy =
+    .value = Friðhelgi og ferill
+security-view-privacy-history-value = Hef ég skoðað þetta vefsvæði áður?
+security-view-privacy-passwords-value = Hef ég vistað eitthvað lykilorð fyrir þetta vefsvæði?
+security-view-privacy-viewpasswords =
+    .label = Skoða vistuð lykilorð
+    .accesskey = S
+security-view-technical =
+    .value = Tæknileg atriði
+help-button =
+    .label = Help
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -65,6 +165,13 @@ media-dimensions =
 # Variables:
 #   $size (number) - The size of the media file in kilobytes
 media-file-size = { $size } KB
+# This string is used to display the website name next to the
+# "Block Images" checkbox in the media tab
+# Variables:
+#   $website (string) - The website name
+media-block-image =
+    .label = Loka á myndir frá { $website }
+    .accesskey = L
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 # Variables:
