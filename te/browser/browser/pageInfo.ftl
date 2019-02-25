@@ -31,6 +31,8 @@ media-location =
     .value = స్థానము:
 media-text =
     .value = అనుభందిత పాఠ్యము:
+media-alt-header =
+    .label = పరిసంభంద పాఠ్యము
 media-address =
     .label = చిరునామా
 media-type =
@@ -53,6 +55,12 @@ security-tab =
     .accesskey = S
 security-view-unknown = తెలియని
     .value = తెలియని
+security-view-identity-owner =
+    .value = యజమాని:
+security-view-identity-domain =
+    .value = వెబ్ సైటు:
+security-view-identity-verifier =
+    .value = దీనిద్వారా నిర్ధారించబడింది:
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
