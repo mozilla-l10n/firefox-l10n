@@ -6,6 +6,11 @@ scale-percent =
     .value = %
 options-group-label =
     .value = Erakuani
+margin-right =
+    .value = & T´irerkanta:
+    .accesskey = R
+margin-right-invisible =
+    .value = & T´irerkanta:
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =
