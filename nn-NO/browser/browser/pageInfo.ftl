@@ -17,8 +17,14 @@ close-window =
 general-tab =
     .label = Generelt
     .accesskey = G
+general-url =
+    .value = Adresse:
 general-type =
     .value = Type:
+general-mode =
+    .value = Attgjevingsmodus:
+general-size =
+    .value = Storleik:
 general-referrer =
     .value = Tilvisande URL:
 general-modified =
@@ -40,6 +46,8 @@ media-address =
     .label = Adresse
 media-type =
     .label = Type
+media-size =
+    .label = Storleik
 media-count =
     .label = Tal
 media-dimension =
@@ -58,6 +66,8 @@ security-view =
     .accesskey = V
 security-view-unknown = Ukjend
     .value = Ukjend
+security-view-identity =
+    .value = Nettstadidentitet
 security-view-identity-owner =
     .value = Eigar:{ " " }
 security-view-identity-domain =
@@ -67,8 +77,13 @@ security-view-identity-verifier =
 security-view-privacy =
     .value = Personvern og historikk
 security-view-privacy-passwords-value = Har eg lagra passord for denne nettstaden?
+security-view-privacy-viewpasswords =
+    .label = Vis lagra passord
+    .accesskey = s
 security-view-technical =
     .value = Tekniske detaljar
+help-button =
+    .label = Hjelp
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -77,11 +92,20 @@ security-view-technical =
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
 image-size-unknown = Ukjend
+not-set-verified-by = Ikkje spesifisert
+not-set-alternative-text = Ikkje spesifisert
+not-set-date = Ikkje spesifisert
+media-img = Bilde
 media-bg-img = Bakgrunn
+media-border-img = Kantlinje
+media-list-img = Punktlistebilde
+media-cursor = Peikarbilde
 media-object = Objekt
 media-embed = Innebygg
 media-link = Ikon
 media-input = Inndata
+media-video = Video
+media-audio = Lyd
 saved-passwords-yes = Ja
 saved-passwords-no = Nei
 no-page-title =
@@ -90,11 +114,28 @@ general-quirks-mode =
     .value = Særmodus
 general-strict-mode =
     .value = Standardmodus
+security-no-owner = Denne nettstaden har ikkje info om eigarskap.
+media-select-folder = Vel ei mappe å lagre bilda i
+permissions-use-default =
+    .label = Bruk standard
 security-no-visits = Nei
+# This string is used to display the type of
+# an image
+# Variables:
+#   $type (string) - The type of an image
+media-image-type =
+    .value = { $type }-bilde
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
 #   $size (number) - The size of the media file in kilobytes
 media-file-size = { $size } KB
+# This string is used to display the website name next to the
+# "Block Images" checkbox in the media tab
+# Variables:
+#   $website (string) - The website name
+media-block-image =
+    .label = Blokker bilde frå { $website }
+    .accesskey = B
 page-info-frame =
     .title = Rammeinformasjon - { $website }
