@@ -94,6 +94,10 @@ security-view-identity-validity =
 security-view-privacy =
     .value = Prìobhaideachd ⁊ eachdraidh
 security-view-privacy-history-value = Na thadhail mi air an làrach-lìn seo ro an-diugh?
+security-view-privacy-sitedata-value = A bheil an làrach seo a’ stòradh fiosrachadh air a’ choimpiutair agam?
+security-view-privacy-clearsitedata =
+    .label = Falamhaich na briosgaidean is dàta nan làrach
+    .accesskey = C
 security-view-privacy-passwords-value = A bheil mi air facal-faire a shàbhaladh air an làrach seo?
 security-view-privacy-viewpasswords =
     .label = Faclan-faire a shàbhail thu
@@ -109,6 +113,10 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-cookies = Tha, na briosgaidean is { $value } { $unit } de dhàta làraichean
+security-site-data-only = Tha, { $value } { $unit } de dhàta làraichean
+security-site-data-cookies-only = Tha, na briosgaidean
+security-site-data-no = Chan eil
 image-size-unknown = Neo-aithnichte
 not-set-verified-by = Gun sònrachadh
 not-set-alternative-text = Gun sònrachadh
