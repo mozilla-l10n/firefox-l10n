@@ -76,6 +76,8 @@ not-set-alternative-text = Không được chỉ định
 not-set-date = Không được chỉ định
 media-img = Hình
 media-bg-img = Nền
+media-border-img = Viền
+media-cursor = Con trỏ
 media-object = Đối tượng
 media-embed = Được nhúng
 media-link = Biểu tượng
@@ -93,6 +95,8 @@ security-no-owner = Trang web này không cung cấp thông tin về người s�
 media-select-folder = Chọn một Thư mục để Lưu Ảnh
 media-unknown-not-cached =
     .value = Không rõ (không được đệm)
+permissions-use-default =
+    .label = Dùng Mặc Định
 # This string is used to display the type of
 # an image
 # Variables:
