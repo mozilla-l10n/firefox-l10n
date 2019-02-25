@@ -2,6 +2,32 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/. --
 
+menu-copy =
+    .label = Kopa
+    .accesskey = K
+menu-select-all =
+    .label = Khetsa konkhe
+    .accesskey = k
+general-type =
+    .value = Luhlobo:
+general-mode =
+    .value = Sebentisa simo:
+general-size =
+    .value = Bungako:
+general-referrer =
+    .value = Dlulisa URL:
+general-modified =
+    .value = Ulungisiwe:
+general-meta-content =
+    .label = Lokucuketfwe
+media-alt-header =
+    .label = Umbhalo lontjintjwako
+media-count =
+    .label = Bala
+media-long-desc =
+    .value = Inchazelo lendze:
+media-preview =
+    .value = Cala ubuke ngembi kwetekuchumana:
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -21,3 +47,7 @@ media-link = Inkhomba
 media-input = Lwati lolungetiwe
 no-page-title =
     .value = Likhasi lelingenasihloko:
+general-quirks-mode =
+    .value = Indlela lehlukile
+general-strict-mode =
+    .value = Indlela levamile yemtsetfo
