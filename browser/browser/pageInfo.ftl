@@ -95,6 +95,9 @@ security-view-privacy =
     .value = Απόρρητο & ιστορικό
 security-view-privacy-history-value = Έχω επισκεφθεί αυτή την ιστοσελίδα στο παρελθόν;
 security-view-privacy-sitedata-value = Αυτή η ιστοσελίδα αποθηκεύει πληροφορίες στον υπολογιστή μου;
+security-view-privacy-clearsitedata =
+    .label = Εκκαθάριση cookies και δεδομένων ιστοσελίδων
+    .accesskey = Ε
 security-view-privacy-passwords-value = Έχω αποθηκεύσει κωδικούς πρόσβασης για αυτή την ιστοσελίδα;
 security-view-privacy-viewpasswords =
     .label = Προβολή αποθηκευμένων κωδικών πρόσβασης
@@ -111,7 +114,9 @@ help-button =
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
 security-site-data-cookies = Ναι, cookies και { $value } { $unit } δεδομένων ιστοσελίδων
+security-site-data-only = Ναι, { $value } { $unit } δεδομένων ιστοσελίδων
 security-site-data-cookies-only = Ναι, cookies
+security-site-data-no = Όχι
 image-size-unknown = Άγνωστο
 not-set-verified-by = Δεν έχει καθοριστεί
 not-set-alternative-text = Δεν έχει καθοριστεί
