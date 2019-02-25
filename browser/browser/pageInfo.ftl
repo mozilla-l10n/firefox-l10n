@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/. --
 
+page-info-window =
+    .style = width: 600px; min-height: 550px;
 copy =
     .key = C
 menu-copy =
@@ -17,6 +19,8 @@ close-window =
 general-tab =
     .label = عمومی
     .accesskey = ع
+general-title =
+    .value = عنوان:
 general-url =
     .value = نشانی:
 general-type =
@@ -29,6 +33,8 @@ general-referrer =
     .value = نشانی اینترنتی ارجاع کننده:
 general-modified =
     .value = زمان تغییر:
+general-encoding =
+    .value = کدگذاری متن:
 general-meta-name =
     .label = نام
 general-meta-content =
@@ -65,6 +71,8 @@ media-preview =
 perm-tab =
     .label = مجوزها
     .accesskey = م
+permissions-for =
+    .value = مجوزها برای:
 security-tab =
     .label = امنیت
     .accesskey = ا
@@ -81,11 +89,19 @@ security-view-identity-domain =
     .value = پایگاه وبی:
 security-view-identity-verifier =
     .value = تأیید شده توسط:
+security-view-identity-validity =
+    .value = انقضا در:
+security-view-privacy =
+    .value = تاریخچه و موارد حریم شخصی
+security-view-privacy-history-value = آیا قبل از امروز از این پایگاه وب بازدید کرده‌ام؟
+security-view-privacy-passwords-value = آیا برای این پایگاه وب گذرواژه‌ای ذخیره کرده‌ام؟
 security-view-privacy-viewpasswords =
     .label = مشاهدهٔ گذرواژه‌های ذخیره شده
     .accesskey = گ
 security-view-technical =
     .value = جزئیات فنی
+help-button =
+    .label = راهنما
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
