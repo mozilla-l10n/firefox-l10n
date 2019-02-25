@@ -27,6 +27,7 @@ general-quirks-mode =
     .value = Glipsmodus
 general-strict-mode =
     .value = Standaardversoeningmodus
+security-no-owner = Hierdie webwerf verskaf nie eienaarsinligting nie.
 media-select-folder = Kies 'n vouer om die prente te stoor
 media-unknown-not-cached =
     .value = Onbekend (nie gekas nie)
