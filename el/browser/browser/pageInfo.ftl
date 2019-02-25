@@ -19,6 +19,8 @@ close-window =
 general-tab =
     .label = Γενικά
     .accesskey = Γ
+general-title =
+    .value = Τίτλος:
 general-url =
     .value = Διεύθυνση:
 general-type =
@@ -29,6 +31,8 @@ general-size =
     .value = Μέγεθος:
 general-referrer =
     .value = URL παραπομπής:
+general-modified =
+    .value = Τροποποίηση:
 general-encoding =
     .value = Κωδικοποίηση:
 general-meta-name =
@@ -83,6 +87,15 @@ security-view-identity-owner =
     .value = Ιδιοκτήτης:{ " " }
 security-view-identity-domain =
     .value = Ιστοσελίδα:{ " " }
+security-view-identity-verifier =
+    .value = Επαληθεύτηκε από:
+security-view-privacy =
+    .value = Απόρρητο & ιστορικό
+security-view-privacy-history-value = Έχω επισκεφθεί αυτή την ιστοσελίδα στο παρελθόν;
+security-view-privacy-passwords-value = Έχω αποθηκεύσει κωδικούς πρόσβασης για αυτή την ιστοσελίδα;
+security-view-privacy-viewpasswords =
+    .label = Προβολή αποθηκευμένων κωδικών πρόσβασης
+    .accesskey = λ
 security-view-technical =
     .value = Τεχνικές λεπτομέρειες
 help-button =
@@ -94,8 +107,69 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+image-size-unknown = Άγνωστο
+not-set-verified-by = Δεν έχει καθοριστεί
+not-set-alternative-text = Δεν έχει καθοριστεί
+not-set-date = Δεν έχει καθοριστεί
+media-img = Εικόνα
+media-bg-img = Φόντο
+media-border-img = Περίγραμμα
+media-list-img = Κουκκίδα
+media-cursor = Κέρσορας
+media-object = Αντικείμενο
+media-embed = Ενσωμάτωση
+media-link = Εικονίδιο
+media-input = Είσοδος
+media-video = Βίντεο
+media-audio = Ήχος
+saved-passwords-yes = Ναι
+saved-passwords-no = Όχι
 no-page-title =
     .value = Σελίδα χωρίς τίτλο:
+general-quirks-mode =
+    .value = Λειτουργία συμβατότητας
+general-strict-mode =
+    .value = Λειτουργία σύμφωνα με τα πρότυπα
+security-no-owner = Αυτή η ιστοσελίδα δεν παρέχει πληροφορίες ιδιοκτησίας.
+media-select-folder = Επιλέξτε ένα φάκελο για αποθήκευση εικόνων
+media-unknown-not-cached =
+    .value = Άγνωστο (όχι σε μνήμη cache)
+permissions-use-default =
+    .label = Χρήση προεπιλογής
+security-no-visits = Όχι
+# This string is used to display the type of
+# an image
+# Variables:
+#   $type (string) - The type of an image
+media-image-type =
+    .value = Εικόνα { $type }
+# This string is used to display the size of a scaled image
+# in both scaled and unscaled pixels
+# Variables:
+#   $dimx (number) - The horizontal size of an image
+#   $dimy (number) - The vertical size of an image
+#   $scaledx (number) - The scaled horizontal size of an image
+#   $scaledy (number) - The scaled vertical size of an image
+media-dimensions-scaled =
+    .value = { $dimx }px × { $dimy }px (κλιμακώθηκε σε { $scaledx }px × { $scaledy }px)
+# This string is used to display the size of an image in pixels
+# Variables:
+#   $dimx (number) - The horizontal size of an image
+#   $dimy (number) - The vertical size of an image
+media-dimensions =
+    .value = { $dimx }px × { $dimy }px
+# This string is used to display the size of a media
+# file in kilobytes
+# Variables:
+#   $size (number) - The size of the media file in kilobytes
+media-file-size = { $size } KB
+# This string is used to display the website name next to the
+# "Block Images" checkbox in the media tab
+# Variables:
+#   $website (string) - The website name
+media-block-image =
+    .label = Φραγή εικόνων από { $website }
+    .accesskey = α
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 # Variables:
