@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+print-setup =
+    .title = Priprava strani
 custom-prompt-title = Po meri ...
 custom-prompt-prompt = Vnesite besedilo za glavo/nogo po meri
 basic-tab =
