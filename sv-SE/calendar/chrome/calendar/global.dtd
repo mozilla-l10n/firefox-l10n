@@ -1,7 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-   
+
 <!ENTITY time.midnight "Midnatt" >
 <!ENTITY time.noon "12:00" >
 
@@ -46,6 +46,8 @@
 
 <!ENTITY onemonthbackward.tooltip "En månad bakåt" >
 <!ENTITY onemonthforward.tooltip "En månad framåt" >
+<!ENTITY oneyearbackward.tooltip "Ett år tillbaka" >
+<!ENTITY oneyearforward.tooltip "Ett år framåt" >
 <!ENTITY showToday.tooltip "Gå till Idag">
 <!ENTITY onedayforward.tooltip "En dag framåt">
 <!ENTITY onedaybackward.tooltip "En dag bakåt">
