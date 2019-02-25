@@ -1026,7 +1026,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.reload2.label "重新载入页面">
 <!ENTITY trackingProtection.reload2.accesskey "R">
 
-<!ENTITY pluginNotification.showAll.label "全部显示">
+<!ENTITY pluginNotification.showAll.label "显示全部">
 <!ENTITY pluginNotification.showAll.accesskey "S">
 
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
