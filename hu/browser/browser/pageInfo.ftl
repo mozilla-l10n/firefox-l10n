@@ -2,12 +2,25 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/. --
 
+page-info-window =
+    .style = width: 600px; min-height: 550px;
 copy =
     .key = C
+menu-copy =
+    .label = Másolás
+    .accesskey = M
 select-all =
     .key = A
+menu-select-all =
+    .label = Minden kijelölése
+    .accesskey = d
 close-window =
     .key = A
+general-tab =
+    .label = Általános
+    .accesskey = l
+general-title =
+    .value = Cím:
 general-url =
     .value = Cím:
 general-type =
@@ -20,10 +33,15 @@ general-referrer =
     .value = Hivatkozó URL:
 general-modified =
     .value = Módosítva:
+general-encoding =
+    .value = Szövegkódolás:
 general-meta-name =
     .label = Név
 general-meta-content =
     .label = Tartalom
+media-tab =
+    .label = Média
+    .accesskey = M
 media-location =
     .value = Hely:
 media-text =
@@ -42,10 +60,25 @@ media-dimension =
     .value = Méretek:
 media-long-desc =
     .value = Hosszú leírás:
+media-save-as =
+    .label = Mentés másként…
+    .accesskey = M
+media-save-image-as =
+    .label = Mentés másként…
+    .accesskey = e
 media-preview =
     .value = Média-előnézet:
+perm-tab =
+    .label = Engedélyek
+    .accesskey = E
 permissions-for =
     .value = Engedélyezés:
+security-tab =
+    .label = Biztonság
+    .accesskey = B
+security-view =
+    .label = Tanúsítvány megtekintése
+    .accesskey = T
 security-view-unknown = Ismeretlen
     .value = Ismeretlen
 security-view-identity =
@@ -56,12 +89,19 @@ security-view-identity-domain =
     .value = Webhely:{ " " }
 security-view-identity-verifier =
     .value = Ellenőrizte:{ " " }
+security-view-identity-validity =
+    .value = Lejárat:
 security-view-privacy =
     .value = Adatvédelem és előzmények
 security-view-privacy-history-value = Megnéztem már ezt a webhelyet korábban?
 security-view-privacy-passwords-value = Mentettem jelszavakat ehhez a webhelyhez?
+security-view-privacy-viewpasswords =
+    .label = Mentett jelszavak megtekintése
+    .accesskey = M
 security-view-technical =
     .value = Technikai részletek
+help-button =
+    .label = Súgó
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -105,11 +145,33 @@ security-no-visits = Nem
 #   $type (string) - The type of an image
 media-image-type =
     .value = { $type } kép
+# This string is used to display the size of a scaled image
+# in both scaled and unscaled pixels
+# Variables:
+#   $dimx (number) - The horizontal size of an image
+#   $dimy (number) - The vertical size of an image
+#   $scaledx (number) - The scaled horizontal size of an image
+#   $scaledy (number) - The scaled vertical size of an image
+media-dimensions-scaled =
+    .value = { $dimx }px × { $dimy }px (átméretezve: { $scaledx }px × { $scaledy }px)
+# This string is used to display the size of an image in pixels
+# Variables:
+#   $dimx (number) - The horizontal size of an image
+#   $dimy (number) - The vertical size of an image
+media-dimensions =
+    .value = { $dimx } px × { $dimy } px
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
 #   $size (number) - The size of the media file in kilobytes
 media-file-size = { $size } KB
+# This string is used to display the website name next to the
+# "Block Images" checkbox in the media tab
+# Variables:
+#   $website (string) - The website name
+media-block-image =
+    .label = Képek blokkolása a(z) { $website } helyről
+    .accesskey = B
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 # Variables:
