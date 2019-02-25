@@ -54,6 +54,12 @@ media-count =
     .label = ਗਿਣਤੀ
 media-long-desc =
     .value = ਲੰਮਾ ਵੇਰਵਾ:
+media-save-as =
+    .label = … ਵਜੋਂ ਸੰਭਾਲੋ
+    .accesskey = A
+media-save-image-as =
+    .label = … ਵਜੋਂ ਸੰਭਾਲੋ
+    .accesskey = e
 media-preview =
     .value = ਮੀਡਿਆ ਝਲਕ:
 perm-tab =
@@ -82,6 +88,8 @@ security-view-privacy-passwords-value = ਕੀ ਇਸ ਵੈੱਬ ਸਾਇਟ 
 security-view-privacy-viewpasswords =
     .label = ਸੰਭਾਲੇ ਪਾਸਵਰਡ ਵੇਖੋ
     .accesskey = w
+security-view-technical =
+    .value = ਤਕਨੀਕੀ ਵੇਰਵਾ
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -94,10 +102,15 @@ not-set-verified-by = ਦਿੱਤਾ ਨਹੀਂ
 not-set-alternative-text = ਦਿੱਤਾ ਨਹੀਂ
 not-set-date = ਦਿੱਤਾ ਨਹੀਂ
 media-img = ਚਿੱਤਰ
+media-bg-img = ਬੈਕਗਰਾਊਂਡ
+media-border-img = ਬਾਰਡਰ
+media-list-img = ਬਿੰਦੀ
+media-cursor = ਕਰਸਰ
 media-object = ਆਬਜੈਕਟ
 media-embed = ਇੰਬੈੱਡ
 media-link = ਆਈਕਾਨ
 media-input = ਇੰਪੁੱਟ
+media-audio = ਆਡੀਓ
 saved-passwords-yes = ਹਾਂ
 saved-passwords-no = ਨਹੀਂ
 general-quirks-mode =
