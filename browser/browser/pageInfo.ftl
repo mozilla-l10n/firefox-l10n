@@ -94,6 +94,9 @@ security-view-identity-validity =
 security-view-privacy =
     .value = गोपनीयता व इतिहास‌
 security-view-privacy-history-value = क्या मैंने यह वेब साइट आज से पहले देखा‌ है?
+security-view-privacy-clearsitedata =
+    .label = कूकीज़ तथा साइट डेटा हटायें
+    .accesskey = C
 security-view-privacy-passwords-value = क्या‌ मैंने कोई कूटशब्द इस वेबसाइट के लिए सहेजा है?
 security-view-privacy-viewpasswords =
     .label = सहेजा गया कूटशब्द‌ देखें
@@ -109,6 +112,8 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-cookies-only = हाँ, कुकीज़
+security-site-data-no = नहीं
 image-size-unknown = अज्ञा‌त
 not-set-verified-by = निर्दिष्ट‌ नहीं
 not-set-alternative-text = निर्दिष्ट‌ नहीं
