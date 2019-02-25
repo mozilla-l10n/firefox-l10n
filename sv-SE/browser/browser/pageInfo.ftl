@@ -147,12 +147,53 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = Använd standard
 security-no-visits = Nej
+# This string is used to display the number of meta tags
+# in the General Tab
+# Variables:
+#   $tags (number) - The number of meta tags
+general-meta-tags =
+    .value =
+        { $tags ->
+            [one] Meta (1 tagg)
+           *[other] Meta ({ $tags } taggar)
+        }
+# This string is used to display the number of times
+# the user has visited the website prior
+# Variables:
+#   $visits (number) - The number of previous visits
+security-visits-number =
+    { $visits ->
+        [0] Nej
+        [one] Ja, en gång
+       *[other] Ja, { $visits } gånger
+    }
+# This string is used to display the size of a media file
+# Variables:
+#   $kb (number) - The size of an image in Kilobytes
+#   $bytes (number) - The size of an image in Bytes
+properties-general-size =
+    .value =
+        { $bytes ->
+            [one] { $kb } kB ({ $bytes } byte)
+           *[other] { $kb } kB ({ $bytes } byte)
+        }
+# This string is used to display the type and number
+# of frames of a animated image
+# Variables:
+#   $type (string) - The type of a animated image
+#   $frames (number) - The number of frames in an animated image
+media-animated-image-type =
+    .value =
+        { $frames ->
+            [one] { $type } bild (animerad, { $frames } ram)
+           *[other] { $type } bild (animerad, { $frames } ramar)
+        }
 # This string is used to display the type of
 # an image
 # Variables:
 #   $type (string) - The type of an image
 media-image-type =
-    .value = { $type }-bild
+    .value = { $type } bild
 # This string is used to display the size of a scaled image
 # in both scaled and unscaled pixels
 # Variables:
