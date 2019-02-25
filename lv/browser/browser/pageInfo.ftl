@@ -19,6 +19,8 @@ close-window =
 general-tab =
     .label = Vispārējā
     .accesskey = G
+general-title =
+    .value = Virsraksts:
 general-url =
     .value = Adrese:
 general-type =
@@ -87,9 +89,15 @@ security-view-identity-domain =
     .value = Mājas lapa:{ " " }
 security-view-identity-verifier =
     .value = Pārbaudījis:{ " " }
+security-view-identity-validity =
+    .value = Derīgs līdz:
 security-view-privacy =
     .value = Privātums un vēsture
 security-view-privacy-history-value = Vai es šo lapu šodien jau esmu apmeklējis?
+security-view-privacy-sitedata-value = Vai šī vietne glabā kādu informāciju manā datorā?
+security-view-privacy-clearsitedata =
+    .label = Notīrīt sīkdatnes un lapu datus
+    .accesskey = N
 security-view-privacy-passwords-value = Vai man ir saglabātas paroles šai lapai?
 security-view-privacy-viewpasswords =
     .label = Skatīt saglabātās paroles
@@ -105,6 +113,10 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-cookies = Jā, sīkdatnes un { $value } { $unit } lapas datus
+security-site-data-only = Jā, { $value } { $unit } lapas datus
+security-site-data-cookies-only = Jā, sīkdatnes
+security-site-data-no = Nē
 image-size-unknown = Nezināms
 not-set-verified-by = Nav norādīts
 not-set-alternative-text = Nav norādīts
