@@ -2,18 +2,39 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/. --
 
+page-info-window =
+    .style = width: 600px; min-height: 550px;
 copy =
     .key = C
+menu-copy =
+    .label = Kopyahin
+    .accesskey = C
 select-all =
     .key = A
+menu-select-all =
+    .label = Piliin ang Lahat
+    .accesskey = A
 close-window =
     .key = A
+general-tab =
+    .label = Pangkalahatan
+    .accesskey = G
+general-title =
+    .value = Titulo:
+general-url =
+    .value = Address:
 general-type =
     .value = Uri:
+general-mode =
+    .value = Render Mode:
+general-size =
+    .value = Laki:
 general-referrer =
     .value = Pinanggalingan na URL:
 general-modified =
     .value = Ayusin:
+general-encoding =
+    .value = Ini-encode ang Text:
 general-meta-name =
     .label = Pangalan
 general-meta-content =
@@ -27,6 +48,10 @@ media-text =
     .value = Kaugnay na Text:
 media-alt-header =
     .label = Alternate na Text
+media-address =
+    .label = Address
+media-type =
+    .label = Uri
 media-size =
     .label = Sukat
 media-count =
@@ -35,6 +60,12 @@ media-dimension =
     .value = Mga sukat:
 media-long-desc =
     .value = mahabang paglalarawan:
+media-save-as =
+    .label = I-save Bilang…
+    .accesskey = A
+media-save-image-as =
+    .label = I-save Bilang…
+    .accesskey = e
 media-preview =
     .value = Preview ng Media:
 perm-tab =
@@ -45,6 +76,9 @@ permissions-for =
 security-tab =
     .label = Seguridad
     .accesskey = S
+security-view =
+    .label = Tingnan ang Sertipiko
+    .accesskey = V
 security-view-unknown = Unknown
     .value = Unknown
 security-view-identity =
@@ -55,11 +89,19 @@ security-view-identity-domain =
     .value = Web site:
 security-view-identity-verifier =
     .value = Pinatunayan ng:
+security-view-identity-validity =
+    .value = Mag-e-expire sa:
+security-view-privacy =
+    .value = Kasaysayan ng Privadong &
 security-view-privacy-history-value = Have I visited this web site prior to today?
 security-view-privacy-passwords-value = Have I saved any passwords for this web site?
 security-view-privacy-viewpasswords =
     .label = Ipakita ang naka-saved na Passwords
     .accesskey = w
+security-view-technical =
+    .value = Detalyeng Pangtiknikal
+help-button =
+    .label = Tulong
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -67,6 +109,11 @@ security-view-privacy-viewpasswords =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-cookies-only = Yes, cookies
+image-size-unknown = Hindi alam
+not-set-verified-by = Hindi tukoy
+not-set-alternative-text = Hindi tukoy
+not-set-date = Hindi tukoy
 media-img = Imahe
 media-bg-img = Background
 media-border-img = Gilid
@@ -86,12 +133,19 @@ general-quirks-mode =
     .value = Quirks mode
 general-strict-mode =
     .value = Moda pang-standard na pagsunod
+security-no-owner = Ang website na ito ay hindi nagbibigay ng inpormasyong pagmamay-ari.
 media-select-folder = Pumili ng Folder na paglalagyan ng Images
 media-unknown-not-cached =
     .value = Di-tiyak (hindi na cache)
 permissions-use-default =
     .label = Gamitin ang Nakatakda
 security-no-visits = Hindi
+# This string is used to display the type of
+# an image
+# Variables:
+#   $type (string) - The type of an image
+media-image-type =
+    .value = { $type } Imahe
 # This string is used to display the size of a scaled image
 # in both scaled and unscaled pixels
 # Variables:
