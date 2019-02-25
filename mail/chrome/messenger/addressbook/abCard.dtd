@@ -77,8 +77,11 @@
 <!ENTITY Birthday.label                 "Narodniny:">
 <!ENTITY Birthday.accesskey             "N">
 <!ENTITY In.label                       "">
+<!ENTITY Month.placeholder              "Měsac">
+<!ENTITY Day.placeholder                "Dźeń">
 <!ENTITY Year.placeholder               "Lěto">
 <!ENTITY Or.value                       "abo">
+<!ENTITY Age.label                      "Staroba:">
 <!ENTITY Age.placeholder                "Staroba">
 <!ENTITY YearsOld.label                 "">
 
@@ -141,7 +144,6 @@
 
 <!ENTITY Photo.tab                      "Foto">
 <!ENTITY Photo.accesskey                "o">
-<!ENTITY PhotoDesc.label                "Jedne ze slědowacych wubrać:">
 <!ENTITY GenericPhoto.label             "Powšitkowne foto">
 <!ENTITY GenericPhoto.accesskey         "P">
 <!ENTITY DefaultPhoto.label             "Standard">
