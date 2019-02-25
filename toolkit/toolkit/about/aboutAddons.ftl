@@ -88,6 +88,9 @@ detail-update-automatic =
 detail-update-manual =
     .label = No
     .tooltiptext = No instalar automáticamente las actualizaciones
+# Used as a description for the option to allow or block an add-on in private windows.
+detail-private-browsing-label = Ejecutar en ventana privada
+detail-private-browsing-description = La extensión se ejecutará en las ventanas privadas y tendrá acceso a su actividad en línea. <label data-l10n-name="detail-private-browsing-learn-more">Saber más</label>
 detail-private-browsing-on =
     .label = Permitir
     .tooltiptext = Activar en navegación privada
@@ -228,6 +231,11 @@ shortcuts-modifier-other = Incluir Ctrl o Alt
 shortcuts-invalid = Combinación no válida
 shortcuts-letter = Escriba una letra
 shortcuts-system = No se puede sobrescribir un acceso directo de { -brand-short-name }.
+shortcuts-card-expand-button =
+    { $numberToShow ->
+        [one] Mostrar { $numberToShow } más
+       *[other] Mostrar { $numberToShow } más
+    }
 shortcuts-card-collapse-button = Mostrar menos
 go-back-button =
     .tooltiptext = Retroceder
