@@ -13,6 +13,11 @@ select-all =
     .key = A
 close-window =
     .key = A
+general-tab =
+    .label = Основна
+    .accesskey = с
+general-title =
+    .value = Назва:
 general-url =
     .value = Адреса:
 general-type =
@@ -77,14 +82,19 @@ security-view-identity-domain =
     .value = Сайт:{ " " }
 security-view-identity-verifier =
     .value = Засвідчено:{ " " }
+security-view-identity-validity =
+    .value = Завершується:
 security-view-privacy =
     .value = Конфіденційність та історія
+security-view-privacy-history-value = Чи відвідувався цей сайт раніше?
 security-view-privacy-passwords-value = Чи зберігаю я паролі для цього сайту?
 security-view-privacy-viewpasswords =
     .label = Переглянути збережені паролі
     .accesskey = п
 security-view-technical =
     .value = Технічні подробиці
+help-button =
+    .label = Допомога
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -109,12 +119,22 @@ media-video = Відео
 media-audio = Аудіо
 saved-passwords-yes = Так
 saved-passwords-no = Ні
+general-quirks-mode =
+    .value = Режим сумісності
+general-strict-mode =
+    .value = Режим дотримання стандартів
 media-select-folder = Оберіть теку для збереження зображень
 media-unknown-not-cached =
     .value = Невідомо (не закешовано)
 permissions-use-default =
     .label = Типово
 security-no-visits = Ні
+# This string is used to display the type of
+# an image
+# Variables:
+#   $type (string) - The type of an image
+media-image-type =
+    .value = { $type } Зображення
 # This string is used to display the size of a scaled image
 # in both scaled and unscaled pixels
 # Variables:
@@ -137,3 +157,11 @@ media-dimensions =
 media-block-image =
     .label = Заблокувати зображення з { $website }
     .accesskey = Р
+# This string is used to display the URL of the website on top of the
+# pageInfo dialog box
+# Variables:
+#   $website (string) - The url of the website pageInfo is getting info for
+page-info-page =
+    .title = Інформація про сторінку - { $website }
+page-info-frame =
+    .title = Інформація про фрейм - { $website }
