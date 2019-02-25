@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/. --
 
+page-info-window =
+    .style = width: 610px; min-height: 550px;
 copy =
     .key = C
 menu-copy =
@@ -109,9 +111,12 @@ saved-passwords-yes = Ja
 saved-passwords-no = Nee
 no-page-title =
     .value = Titelleaze side
+security-no-owner = Dizze website jout jo gjin eigendomsynformaasje.
 media-select-folder = Selektearje in map foar it bewarjen fan de ôfbyldingen
 media-unknown-not-cached =
     .value = Net bekend (net buffere)
+permissions-use-default =
+    .label = Standert brûke
 security-no-visits = Nee
 # This string is used to display the type of
 # an image
@@ -139,5 +144,18 @@ media-dimensions =
 # Variables:
 #   $size (number) - The size of the media file in kilobytes
 media-file-size = { $size } KB
+# This string is used to display the website name next to the
+# "Block Images" checkbox in the media tab
+# Variables:
+#   $website (string) - The website name
+media-block-image =
+    .label = Ofbyldingen fan { $website } blokkearje
+    .accesskey = l
+# This string is used to display the URL of the website on top of the
+# pageInfo dialog box
+# Variables:
+#   $website (string) - The url of the website pageInfo is getting info for
+page-info-page =
+    .title = Sydeynfo - { $website }
 page-info-frame =
     .title = Dielfinsterynfo - { $website }
