@@ -4,6 +4,7 @@
 
 print-setup =
     .title = إعداد الصّفحة
+custom-prompt-title = مخصّص…
 custom-prompt-prompt = أدخل نصّ التّرويسة/التّذييل المخصّص
 basic-tab =
     .label = التنسيق و الخصائص
@@ -88,6 +89,8 @@ hf-page =
     .label = صفحة #
 hf-page-and-total =
     .label = صفحة # من #
+hf-custom =
+    .label = مخصّص…
 print-preview-window =
     .title = معاينة الطّباعة
 print-title =
