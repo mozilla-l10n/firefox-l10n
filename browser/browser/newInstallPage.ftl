@@ -23,4 +23,5 @@ sync-label = Эл. поштаны енгізіңіз
 sync-input =
     .placeholder = Эл. пошта
 sync-button = Жалғастыру
+sync-terms = Жалғастыру арқылы сіз <a data-l10n-name="terms">Қызмет көрсету шарттары</a> және <a data-l10n-name="privacy">Жекелік ескертуі</a> шарттарымен келісесіз.
 sync-learn = Көбірек білу
