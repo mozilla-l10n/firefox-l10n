@@ -17,6 +17,8 @@ close-window =
 general-tab =
     .label = Ekyawamu, mu bwoona
     .accesskey = G
+general-title =
+    .value = Erinnya
 general-url =
     .value = Endagiriro:
 general-type =
@@ -83,6 +85,8 @@ security-view-identity-domain =
     .value = Ekibanja:
 security-view-identity-verifier =
     .value = Kikakasiddwa:
+security-view-privacy =
+    .value = Ebyekyama ne Byafaayo
 security-view-privacy-history-value = Nakyaddeko kumuko guno emabegako?
 security-view-privacy-passwords-value = Nterese yo obusumuluzo bwonna obwe kibanja kino?
 security-view-privacy-viewpasswords =
@@ -90,6 +94,8 @@ security-view-privacy-viewpasswords =
     .accesskey = w
 security-view-technical =
     .value = Obulambulukufu Obw'ekikugu
+help-button =
+    .label = Yamba
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -124,6 +130,8 @@ security-no-owner = Ekibanja kino tekiwereza bwiino akawata ku nanyini kyo.
 media-select-folder = Londa Eterekero lya fayiro mwonatereka Ebifananyi
 media-unknown-not-cached =
     .value = Terimannyiddwa (tekiterekeddwa mu terekero ly'ekiseera)
+permissions-use-default =
+    .label = Kozesa Eky'enkalakalira
 security-no-visits = Nedda
 # This string is used to display the type of
 # an image
