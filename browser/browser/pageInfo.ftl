@@ -25,3 +25,25 @@ security-view-unknown = უცნობია
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+image-size-unknown = უცნობი
+media-img = გამოსახულება
+media-bg-img = ფონი
+media-object = ობიექტი
+media-embed = ჩაკერება
+media-input = მიღება
+saved-passwords-yes = დიახ
+saved-passwords-no = არა
+no-page-title =
+    .value = უსახელო გვერდი
+security-no-visits = არა
+# This string is used to display the type of
+# an image
+# Variables:
+#   $type (string) - The type of an image
+media-image-type =
+    .value = { $type } გამოსახულება
+# This string is used to display the size of a media
+# file in kilobytes
+# Variables:
+#   $size (number) - The size of the media file in kilobytes
+media-file-size = { $size } კბ
