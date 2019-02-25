@@ -94,6 +94,7 @@ security-view-identity-validity =
 security-view-privacy =
     .value = गोपनीयता व इतिहास‌
 security-view-privacy-history-value = क्या मैंने यह वेब साइट आज से पहले देखा‌ है?
+security-view-privacy-sitedata-value = क्या यह वेब साइट मेरे कंप्यूटर पर सूचना जमा‌ कर रही है?
 security-view-privacy-clearsitedata =
     .label = कूकीज़ तथा साइट डेटा हटायें
     .accesskey = C
@@ -112,6 +113,8 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-cookies = हाँ, साइट डेटा की { $value } { $unit } और कुकीज़
+security-site-data-only = हाँ, साइट डेटा का { $value } { $unit }
 security-site-data-cookies-only = हाँ, कुकीज़
 security-site-data-no = नहीं
 image-size-unknown = अज्ञा‌त
