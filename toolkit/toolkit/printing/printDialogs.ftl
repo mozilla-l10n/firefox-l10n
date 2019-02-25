@@ -4,6 +4,7 @@
 
 print-setup =
     .title = Ustawienia strony
+custom-prompt-title = Własny tekst nagłówka lub stopki…
 custom-prompt-prompt = Wprowadź własny tekst nagłówka lub stopki
 basic-tab =
     .label = Opcje formatowania
@@ -79,9 +80,13 @@ hf-date-and-time =
     .label = Data/czas
 hf-page =
     .label = Strona #
+hf-custom =
+    .label = Własny…
 print-preview-window =
     .title = Podgląd wiadomości
 print-title =
     .value = Tytuł:
+print-preparing =
+    .value = Przygotowywanie…
 print-progress =
     .value = Postęp:
