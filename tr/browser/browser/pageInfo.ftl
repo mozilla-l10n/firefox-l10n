@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/. --
 
+page-info-window =
+    .style = width: 600px; min-height: 550px;
 copy =
     .key = C
 menu-copy =
@@ -17,6 +19,8 @@ close-window =
 general-tab =
     .label = Genel
     .accesskey = G
+general-title =
+    .value = Başlık:
 general-url =
     .value = Adres:
 general-type =
@@ -29,6 +33,8 @@ general-referrer =
     .value = Yönlendiren URL:
 general-modified =
     .value = Değişme tarihi:
+general-encoding =
+    .value = Metin kodlaması:
 general-meta-name =
     .label = Adı
 general-meta-content =
@@ -50,6 +56,8 @@ media-size =
     .label = Boyut
 media-count =
     .label = Sayaç
+media-dimension =
+    .value = Ölçüler:
 media-long-desc =
     .value = Uzun açıklama:
 media-save-as =
@@ -68,22 +76,36 @@ permissions-for =
 security-tab =
     .label = Güvenlik
     .accesskey = G
+security-view =
+    .label = Sertifikayı göster
+    .accesskey = S
 security-view-unknown = Bilinmiyor
     .value = Bilinmiyor
+security-view-identity =
+    .value = Web sitesi kimliği
 security-view-identity-owner =
     .value = Sahibi:
 security-view-identity-domain =
     .value = Web sitesi:
+security-view-identity-verifier =
+    .value = Doğrulayan:
 security-view-identity-validity =
     .value = Bitiş tarihi:
+security-view-privacy =
+    .value = Gizlilik ve geçmiş
 security-view-privacy-history-value = Bu siteyi daha önce ziyaret ettim mi?
 security-view-privacy-sitedata-value = Bu site bilgisayarımda bilgi depoluyor mu?
 security-view-privacy-clearsitedata =
     .label = Çerezleri ve site verilerini temizle
     .accesskey = t
 security-view-privacy-passwords-value = Bu siteye ait parola kaydettim mi?
+security-view-privacy-viewpasswords =
+    .label = Kayıtlı parolaları göster
+    .accesskey = K
 security-view-technical =
     .value = Teknik ayrıntılar
+help-button =
+    .label = Yardım
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -119,6 +141,7 @@ general-quirks-mode =
 general-strict-mode =
     .value = Standartlarla uyumluluk kipi
 security-no-owner = Bu site, sahibiyle ilgili bilgi sağlamıyor.
+media-select-folder = Resimleri kaydetmek için bir klasör seçin
 media-unknown-not-cached =
     .value = Bilinmiyor (önbelleğe alınmadı)
 permissions-use-default =
@@ -150,6 +173,13 @@ media-dimensions =
 # Variables:
 #   $size (number) - The size of the media file in kilobytes
 media-file-size = { $size } KB
+# This string is used to display the website name next to the
+# "Block Images" checkbox in the media tab
+# Variables:
+#   $website (string) - The website name
+media-block-image =
+    .label = { $website } resimlerini engelle
+    .accesskey = e
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 # Variables:
