@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/. --
 
+page-info-window =
+    .style = width: 600px; min-height: 550px;
 copy =
     .key = C
 menu-copy =
@@ -17,6 +19,8 @@ close-window =
 general-tab =
     .label = Jikelele
     .accesskey = G
+general-title =
+    .value = Umxholo
 general-url =
     .value = Idilesi:
 general-type =
@@ -29,6 +33,8 @@ general-referrer =
     .value = I-URL Ebhekisayo:
 general-modified =
     .value = Uhlengahlengisiwe:
+general-encoding =
+    .value = Umbhalo Onekhowudi:
 general-meta-name =
     .label = Igama
 general-meta-content =
@@ -83,6 +89,8 @@ security-view-identity-domain =
     .value = Iwebhusayithi:
 security-view-identity-verifier =
     .value = Iqinisekiswe ngu:
+security-view-privacy =
+    .value = Ubungasese nembali
 security-view-privacy-history-value = Ndikhe ndayityelela le webhusayithi phambi kwanamhlanje?
 security-view-privacy-passwords-value = Ndiyigcinile ipasiwedi yam yale webhusayithi?
 security-view-privacy-viewpasswords =
@@ -90,6 +98,8 @@ security-view-privacy-viewpasswords =
     .accesskey = w
 security-view-technical =
     .value = Iinkcukacha zobuchwepheshe
+help-button =
+    .label = Uncedo
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -142,6 +152,12 @@ media-image-type =
 #   $scaledy (number) - The scaled vertical size of an image
 media-dimensions-scaled =
     .value = { $dimx }px × { $dimy }px (iskeyilwe yaya ku- { $scaledx }px × { $scaledy }px)
+# This string is used to display the size of an image in pixels
+# Variables:
+#   $dimx (number) - The horizontal size of an image
+#   $dimy (number) - The vertical size of an image
+media-dimensions =
+    .value = { $dimx }px × { $dimy }px
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
