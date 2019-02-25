@@ -94,6 +94,9 @@ security-view-identity-validity =
 security-view-privacy =
     .value = தனியுரிமை & வரலாறு
 security-view-privacy-history-value = இன்று நான் இந்த இணையதளத்தை முன்பு பார்த்தேனா?
+security-view-privacy-clearsitedata =
+    .label = நினைவிகள் மற்றும் தள தரவை அழிக்கவும்
+    .accesskey = C
 security-view-privacy-passwords-value = இந்த இணைய தளத்தின் கடவுச்சொல்லை சேமித்துள்ளேனா?
 security-view-privacy-viewpasswords =
     .label = சேமிக்கப்பட்ட கடவுச்சொற்களை பார்வையிடு
@@ -109,6 +112,8 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-cookies-only = ஆம், நினைவிகள்
+security-site-data-no = இல்லை
 image-size-unknown = தெரியாதது
 not-set-verified-by = குறிப்பிடவில்லை
 not-set-alternative-text = குறிப்பிடவில்லை
