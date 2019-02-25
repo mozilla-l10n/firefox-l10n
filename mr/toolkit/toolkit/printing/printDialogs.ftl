@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+print-setup =
+    .title = पृष्ठाची मांडणी
 custom-prompt-title = मनासारखे...
 custom-prompt-prompt = आपले एच्छिक शिर्षलेख/तळलेख मजकुर प्रविष्ट करा
 basic-tab =
@@ -23,6 +25,9 @@ scale =
     .accesskey = S
 scale-percent =
     .value = %
+shrink-to-fit =
+    .label = पृष्ठाच्या रूंदीत आकुंचित करा
+    .accesskey = W
 options-group-label =
     .value = पर्याय
 print-bg =
@@ -80,6 +85,10 @@ hf-url =
     .label = URL
 hf-date-and-time =
     .label = दिनांक/वेळ
+hf-page =
+    .label = पृष्ठ #
+hf-page-and-total =
+    .label = # पैकी # पृष्ठ
 hf-custom =
     .label = मनासारखे...
 print-preview-window =
