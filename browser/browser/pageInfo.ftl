@@ -14,10 +14,50 @@ menu-select-all =
     .accesskey = a
 close-window =
     .key = A
+general-tab =
+    .label = General
+    .accesskey = G
+general-type =
+    .value = Tipus:
+general-mode =
+    .value = Mode de renderització:
+general-size =
+    .value = Mida:
+general-referrer =
+    .value = URL referent:
+general-modified =
+    .value = Modificat:
+general-meta-name =
+    .label = Nom
+general-meta-content =
+    .label = Contingut
+media-tab =
+    .label = Multimèdia
+    .accesskey = M
+media-location =
+    .value = Ubicació:
 media-text =
     .value = Text associat:
+media-alt-header =
+    .label = Text alternatiu
+media-address =
+    .label = Adreça
+media-type =
+    .label = Tipus
 media-size =
     .label = Mida
+media-dimension =
+    .value = Dimensions:
+media-long-desc =
+    .value = Descripció llarga:
+media-save-as =
+    .label = Anomena i desa…
+    .accesskey = a
+media-save-image-as =
+    .label = Anomena i desa…
+    .accesskey = e
+media-preview =
+    .value = Previsualització dels fitxers multimèdia:
 perm-tab =
     .label = Permisos
     .accesskey = P
@@ -30,12 +70,15 @@ security-view-unknown = Desconegut
     .value = Desconegut
 security-view-identity =
     .value = Identitat del lloc web
+security-view-identity-owner =
+    .value = Propietari:
 security-view-identity-domain =
     .value = Lloc web:{ " " }
 security-view-identity-verifier =
     .value = Verificat per:{ " " }
 security-view-privacy =
     .value = Privadesa i historial
+security-view-privacy-history-value = He visitat aquest lloc web abans d'avui?
 security-view-privacy-passwords-value = He desat cap contrasenya d'aquest lloc web?
 security-view-technical =
     .value = Detalls tècnics
@@ -52,16 +95,24 @@ not-set-alternative-text = No s'ha especificat
 not-set-date = No s'ha especificat
 media-img = Imatge
 media-bg-img = Fons
+media-border-img = Contorn
+media-list-img = Pic
+media-cursor = Cursor
 media-object = Objecte
 media-embed = Incrusta
 media-link = Icona
 media-input = Entrada
+media-video = Vídeo
+media-audio = Àudio
 saved-passwords-yes = Sí
 saved-passwords-no = No
+no-page-title =
+    .value = Pàgina sense títol:
 general-quirks-mode =
     .value = Mode de compatibilitat
 general-strict-mode =
     .value = Mode de compliment dels estàndards
+security-no-owner = Aquest lloc web no proporciona cap informació de propietat.
 media-select-folder = Seleccioneu una carpeta on desar les imatges
 media-unknown-not-cached =
     .value = Desconegut (no està a la memòria cau)
@@ -72,6 +123,21 @@ security-no-visits = No
 #   $type (string) - The type of an image
 media-image-type =
     .value = Imatge { $type }
+# This string is used to display the size of a scaled image
+# in both scaled and unscaled pixels
+# Variables:
+#   $dimx (number) - The horizontal size of an image
+#   $dimy (number) - The vertical size of an image
+#   $scaledx (number) - The scaled horizontal size of an image
+#   $scaledy (number) - The scaled vertical size of an image
+media-dimensions-scaled =
+    .value = { $dimx }px × { $dimy }px (escalada a { $scaledx }px × { $scaledy }px)
+# This string is used to display the size of an image in pixels
+# Variables:
+#   $dimx (number) - The horizontal size of an image
+#   $dimy (number) - The vertical size of an image
+media-dimensions =
+    .value = { $dimx }px × { $dimy }px
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
