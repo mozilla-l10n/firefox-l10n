@@ -27,14 +27,21 @@ general-size =
     .value = الحجم:
 general-referrer =
     .value = العنوان المُحِيل:
+general-modified =
+    .value = آخر تعديل:
 general-meta-name =
     .label = الاسم
 general-meta-content =
     .label = المحتوى
+media-tab =
+    .label = الوسائط
+    .accesskey = و
 media-location =
     .value = المكان:
 media-text =
     .value = النص المرتبط:
+media-alt-header =
+    .label = النصّ البديل
 media-address =
     .label = العنوان
 media-type =
@@ -60,6 +67,8 @@ security-tab =
 security-view =
     .label = اعرض الشهادة
     .accesskey = ع
+security-view-unknown = غير معروف
+    .value = غير معروف
 security-view-identity =
     .value = هوية الموقع
 security-view-identity-owner =
@@ -82,11 +91,15 @@ security-view-technical =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+image-size-unknown = غير معروف
 not-set-verified-by = غير محدّد
 not-set-alternative-text = غير محدّد
 not-set-date = غير محدّد
 media-img = صورة
 media-bg-img = خلفيّة
+media-border-img = حد
+media-list-img = نقطة
+media-cursor = مؤشّر
 media-object = كائن
 media-embed = مضمّن
 media-link = أيقونة
@@ -103,6 +116,8 @@ general-strict-mode =
     .value = نمط التوافقية مع المعايير
 security-no-owner = لا يقدّم موقع الوب هذا معلومات عن مالكه.
 media-select-folder = اختر مجلدا لحفظ الصور
+media-unknown-not-cached =
+    .value = غير معروف (ليس في الذّاكرة المؤقّتة)
 security-no-visits = لا
 # This string is used to display the type of
 # an image
