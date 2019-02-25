@@ -89,7 +89,13 @@ security-view-identity-domain =
     .value = Site web:
 security-view-identity-verifier =
     .value = Verificat de:
+security-view-identity-validity =
+    .value = Expiră:
 security-view-privacy-history-value = Am vizitat acest site web înainte de azi?
+security-view-privacy-sitedata-value = Acest site web stochează informații pe calculatorul meu?
+security-view-privacy-clearsitedata =
+    .label = Șterge cookie-urile și datele site-urilor
+    .accesskey = C
 security-view-privacy-passwords-value = Am salvat vreo parolă pentru acest site web?
 security-view-privacy-viewpasswords =
     .label = Vezi parolele salvate
@@ -105,6 +111,10 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-cookies = Da, cookie-uri și { $value } { $unit } de date pentru site
+security-site-data-only = Da, { $value } { $unit } de date pentru site
+security-site-data-cookies-only = Da, cookie-uri
+security-site-data-no = Nu
 image-size-unknown = Necunoscut
 not-set-verified-by = Nespecificat
 not-set-alternative-text = Nespecificat
@@ -130,6 +140,8 @@ general-strict-mode =
     .value = Respectă standardele
 security-no-owner = Acest site web nu oferă informații despre proprietar.
 media-select-folder = Selectează un dosar în care să salvezi imaginile
+media-unknown-not-cached =
+    .value = necunoscută (nu este în memoria cache)
 permissions-use-default =
     .label = Folosește setările implicite
 security-no-visits = Nu
