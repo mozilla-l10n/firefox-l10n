@@ -157,6 +157,16 @@ general-meta-tags =
             [one] 元信息（1 个标签）
            *[other] 元信息（{ $tags } 个标签）
         }
+# This string is used to display the number of times
+# the user has visited the website prior
+# Variables:
+#   $visits (number) - The number of previous visits
+security-visits-number =
+    { $visits ->
+        [0] 否
+        [one] 是，1 次
+       *[other] 是，{ $visits } 次
+    }
 # This string is used to display the size of a media file
 # Variables:
 #   $kb (number) - The size of an image in Kilobytes
