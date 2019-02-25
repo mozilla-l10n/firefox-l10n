@@ -19,6 +19,8 @@ close-window =
 general-tab =
     .label = Generale
     .accesskey = G
+general-title =
+    .value = Titolo:
 general-url =
     .value = Indirisso:
 general-type =
@@ -31,6 +33,8 @@ general-referrer =
     .value = Riferio a l'indirisso:
 general-modified =
     .value = Cangiou
+general-encoding =
+    .value = Codifica testo:
 general-meta-name =
     .label = Nomme
 general-meta-content =
@@ -94,6 +98,8 @@ security-view-privacy-viewpasswords =
     .accesskey = v
 security-view-technical =
     .value = Detalli Tecnichi
+help-button =
+    .label = Goidda
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
