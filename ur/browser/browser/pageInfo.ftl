@@ -94,6 +94,9 @@ security-view-identity-validity =
 security-view-privacy =
     .value = نجی نوعیت & سابقات
 security-view-privacy-history-value = میں نے آج سے پہلے یہ ویب سائٹ دیکھی ہے؟
+security-view-privacy-clearsitedata =
+    .label = کوکیاں اور سائٹ کے کواِئف صاف کریں
+    .accesskey = C
 security-view-privacy-passwords-value = کیا میں نے اس ویب سائٹ کے لیے کوئی پاس ورڈ محفوظ کیے ہیں؟
 security-view-privacy-viewpasswords =
     .label = محفوظ شدہ پاس ورڈ نظارہ کریں
@@ -109,6 +112,7 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-no = نہیں
 image-size-unknown = نامعلوم
 not-set-verified-by = اختصاص شدہ نہیں
 not-set-alternative-text = اختصاص شدہ نہیں
