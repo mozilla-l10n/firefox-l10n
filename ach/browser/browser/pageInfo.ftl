@@ -46,6 +46,12 @@ media-link = Cal
 saved-passwords-yes = Eyo
 general-quirks-mode =
     .value = Kit ma pe ngene
+# This string is used to display the type of
+# an image
+# Variables:
+#   $type (string) - The type of an image
+media-image-type =
+    .value = { $type } Cal
 # This string is used to display the size of an image in pixels
 # Variables:
 #   $dimx (number) - The horizontal size of an image
