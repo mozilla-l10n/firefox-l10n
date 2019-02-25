@@ -2,6 +2,36 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/. --
 
+menu-copy =
+    .label = Kopolola
+    .accesskey = K
+menu-select-all =
+    .label = Tlhopha Gotlhe
+    .accesskey = G
+general-type =
+    .value = Mofuta:
+general-mode =
+    .value = Mokgwa wa Tliso:
+general-size =
+    .value = Bogolo:
+general-referrer =
+    .value = URL e e fetisang:
+general-modified =
+    .value = Fetotswe:
+general-meta-content =
+    .label = Diteng
+media-location =
+    .value = Lefelo:
+media-alt-header =
+    .label = Refosanya Mafoko
+media-count =
+    .label = Palelo
+media-long-desc =
+    .value = Tlhaloso e Telele:
+media-preview =
+    .value = Tebopele ya Mmedia:
+security-view-unknown = Ga e itsiwe
+    .value = Ga e itsiwe
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -19,5 +49,15 @@ media-object = Selo
 media-embed = Tsenyeletsa
 media-link = Aekhone
 media-input = Tsenyeletso
+media-video = Video
+saved-passwords-yes = Ee
+saved-passwords-no = Nnyaa
 no-page-title =
     .value = Tsebe e e senang Leina:
+general-quirks-mode =
+    .value = Mokgwa wa Quirks
+general-strict-mode =
+    .value = Mokgwa wa kobamelo ya Kemo
+media-unknown-not-cached =
+    .value = Ga e itsiwe (ga e a khetšhiwa)
+security-no-visits = Nnyaa
