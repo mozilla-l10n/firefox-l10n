@@ -103,6 +103,9 @@ not-set-alternative-text = Isiyoainishwa
 not-set-date = Isiyoainishwa
 media-img = Picha
 media-bg-img = Mandharinyuma
+media-border-img = Kingo
+media-list-img = Tobo
+media-cursor = Kielekezi
 media-object = Kifaa
 media-embed = Pachika
 media-link = Ikoni
@@ -121,6 +124,8 @@ security-no-owner = Wavuti hii haitoi maelezo ya umiliki.
 media-select-folder = Chagua Kabrasha ya Kuhifadhi Picha
 media-unknown-not-cached =
     .value = Isiyotambulika (haina kache)
+permissions-use-default =
+    .label = Tumia Chaguo-msingi
 security-no-visits = La
 # This string is used to display the type of
 # an image
