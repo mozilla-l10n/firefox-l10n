@@ -124,6 +124,8 @@ security-no-owner = Бу ситим-сири бас билээччи туһун�
 media-select-folder = Ойуулары харайар паапкаҕын тал
 media-unknown-not-cached =
     .value = Биллибэт (кээштэммэтэх)
+permissions-use-default =
+    .label = Анаан этиллибэтэҕинэ
 security-no-visits = Суох
 # This string is used to display the type of
 # an image
