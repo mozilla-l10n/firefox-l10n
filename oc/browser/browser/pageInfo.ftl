@@ -94,6 +94,7 @@ security-view-identity-validity =
 security-view-privacy =
     .value = Vida privada e istoric
 security-view-privacy-history-value = Ai ja visitat aqueste site ?
+security-view-privacy-sitedata-value = Aqueste site web collècta d'informacions sus mon ordenador ?
 security-view-privacy-clearsitedata =
     .label = Escafar los cookies e las donadas de site
     .accesskey = E
