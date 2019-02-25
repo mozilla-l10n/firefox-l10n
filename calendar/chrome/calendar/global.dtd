@@ -46,6 +46,8 @@
 
 <!ENTITY onemonthbackward.tooltip "Ien moanne tebek" >
 <!ENTITY onemonthforward.tooltip "Ien moanne foarút" >
+<!ENTITY oneyearbackward.tooltip "Ien jier tebek" >
+<!ENTITY oneyearforward.tooltip "Ien jier foarút" >
 <!ENTITY showToday.tooltip "Nei hjoed gean">
 <!ENTITY onedayforward.tooltip "Ien dei foarút">
 <!ENTITY onedaybackward.tooltip "Ien dei tebek">
