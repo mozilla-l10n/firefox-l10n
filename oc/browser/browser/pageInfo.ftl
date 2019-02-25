@@ -38,6 +38,10 @@ media-tab =
     .accesskey = M
 media-location =
     .value = Emplaçament :
+media-text =
+    .value = Tèxte associat :
+media-alt-header =
+    .label = Tèxte alternatiu
 media-address =
     .label = Adreça
 media-type =
@@ -110,6 +114,8 @@ general-strict-mode =
     .value = Mòde de respècte dels estandards
 security-no-owner = Aqueste site web balha pas d'entresenhas sul proprietari.
 media-select-folder = Seleccionatz un repertòri ont enregistrar los imatges
+permissions-use-default =
+    .label = Utilizar las valors per defaut
 security-no-visits = Non
 # This string is used to display the type of
 # an image
