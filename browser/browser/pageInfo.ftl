@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/. --
 
+page-info-window =
+    .style = width: 600px; min-height: 550px;
 copy =
     .key = C
 menu-copy =
@@ -17,6 +19,8 @@ close-window =
 general-tab =
     .label = Općenito
     .accesskey = G
+general-title =
+    .value = Naslov:
 general-url =
     .value = Adresa:
 general-type =
@@ -29,6 +33,8 @@ general-referrer =
     .value = Odnosni URL:
 general-modified =
     .value = Izmijenjeno:
+general-encoding =
+    .value = Kôdna stranica teksta:
 general-meta-name =
     .label = Naziv
 general-meta-content =
@@ -83,6 +89,10 @@ security-view-identity-domain =
     .value = Web stranica:{ " " }
 security-view-identity-verifier =
     .value = Potvrdio:{ " " }
+security-view-identity-validity =
+    .value = Istječe:
+security-view-privacy =
+    .value = Privatnost i povijest
 security-view-privacy-history-value = Jesam li posjetio ovu stranicu prije današnjeg dana?
 security-view-privacy-passwords-value = Jesam li spremao zaporke za ovu web stranicu?
 security-view-privacy-viewpasswords =
@@ -90,6 +100,8 @@ security-view-privacy-viewpasswords =
     .accesskey = z
 security-view-technical =
     .value = Tehnički detalji
+help-button =
+    .label = Pomoć
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
