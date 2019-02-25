@@ -45,6 +45,8 @@ media-img = చిత్రము
 media-bg-img = బ్యాక్‌గ్రౌండు
 media-object = ఆబ్జక్టు
 media-link = చిహ్నం
+media-video = వీడియో
+media-audio = ఆడియో
 no-page-title =
     .value = శీర్షికలేని పేజీ:
 # This string is used to display the type of
