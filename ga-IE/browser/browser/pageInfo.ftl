@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/. --
 
+page-info-window =
+    .style = width: 600px; min-height: 550px;
 copy =
     .key = C
 menu-copy =
@@ -17,6 +19,8 @@ close-window =
 general-tab =
     .label = Ginearálta
     .accesskey = G
+general-title =
+    .value = Teideal:
 general-url =
     .value = Seoladh:
 general-type =
@@ -72,6 +76,9 @@ permissions-for =
 security-tab =
     .label = Slándáil
     .accesskey = S
+security-view =
+    .label = Taispeáin an Teastas
+    .accesskey = T
 security-view-unknown = Anaithnid
     .value = Anaithnid
 security-view-identity =
@@ -82,10 +89,15 @@ security-view-identity-domain =
     .value = Suíomh Gréasáin:
 security-view-identity-verifier =
     .value = Fíoraithe ag:
+security-view-identity-validity =
+    .value = In éag ar:
 security-view-privacy =
     .value = Príobháideachas agus Stair
 security-view-privacy-history-value = Ar thug mé cuairt ar an suíomh seo roimh inniu?
 security-view-privacy-passwords-value = An bhfuil focail fhaire sábháilte agam le haghaidh an tsuímh seo?
+security-view-privacy-viewpasswords =
+    .label = Taispeáin Focail Fhaire a Sábháladh
+    .accesskey = S
 security-view-technical =
     .value = Mionsonraí Teicniúla
 help-button =
