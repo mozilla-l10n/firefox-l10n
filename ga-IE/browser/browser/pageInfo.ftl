@@ -15,10 +15,15 @@ not-set-alternative-text = Gan sonrú
 not-set-date = Gan sonrú
 media-img = Íomhá
 media-bg-img = Cúlra
+media-border-img = Imlíne
+media-list-img = Urchar
+media-cursor = Cúrsóir
 media-object = Réad
 media-embed = Neadaigh
 media-link = Deilbhín
 media-input = Ionchur
+media-video = Fís
+media-audio = Fuaim
 saved-passwords-yes = Tá
 saved-passwords-no = Níl
 no-page-title =
@@ -27,9 +32,12 @@ general-quirks-mode =
     .value = Mód leithleachais
 general-strict-mode =
     .value = Mód oiriúna le caighdeáin
+security-no-owner = Ní sholáthraíonn an suíomh seo faisnéis maidir lena úinéirí.
 media-select-folder = Roghnaigh Fillteán a Sábhálfar na hÍomhánna Ann
 media-unknown-not-cached =
     .value = Anaithnid (gan taisceadh)
+permissions-use-default =
+    .label = Úsáid Réamhshocrú
 security-no-visits = Níl
 # This string is used to display the type of
 # an image
@@ -37,6 +45,15 @@ security-no-visits = Níl
 #   $type (string) - The type of an image
 media-image-type =
     .value = Íomhá { $type }
+# This string is used to display the size of a scaled image
+# in both scaled and unscaled pixels
+# Variables:
+#   $dimx (number) - The horizontal size of an image
+#   $dimy (number) - The vertical size of an image
+#   $scaledx (number) - The scaled horizontal size of an image
+#   $scaledy (number) - The scaled vertical size of an image
+media-dimensions-scaled =
+    .value = { $dimx } picteilín × { $dimy } picteilín (scálaithe go { $scaledx } picteilín × { $scaledy } picteilín)
 # This string is used to display the size of an image in pixels
 # Variables:
 #   $dimx (number) - The horizontal size of an image
