@@ -89,9 +89,15 @@ security-view-identity-domain =
     .value = Spletna stran:
 security-view-identity-verifier =
     .value = Preveril:
+security-view-identity-validity =
+    .value = Poteče:
 security-view-privacy =
     .value = Zasebnost in zgodovina
 security-view-privacy-history-value = Ali sem to stran obiskal že kdaj pred današnjim dnem?
+security-view-privacy-sitedata-value = Ali ta spletna stran shranjuje podatke na moj računalnik?
+security-view-privacy-clearsitedata =
+    .label = Počisti piškotke in podatke strani
+    .accesskey = č
 security-view-privacy-passwords-value = Ali sem shranil kakšno geslo za to stran?
 security-view-privacy-viewpasswords =
     .label = Preglej shranjena gesla
@@ -107,6 +113,10 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-cookies = Da, piškotke in { $value } { $unit } podatkov strani
+security-site-data-only = Da, { $value } { $unit } podatkov strani
+security-site-data-cookies-only = Da, piškotke
+security-site-data-no = Ne
 image-size-unknown = Neznano
 not-set-verified-by = Ni določeno
 not-set-alternative-text = Ni določeno
