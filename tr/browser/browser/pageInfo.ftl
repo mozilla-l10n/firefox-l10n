@@ -121,6 +121,8 @@ general-strict-mode =
 security-no-owner = Bu site, sahibiyle ilgili bilgi sağlamıyor.
 media-unknown-not-cached =
     .value = Bilinmiyor (önbelleğe alınmadı)
+permissions-use-default =
+    .label = Varsayılanı kullan
 security-no-visits = Hayır
 # This string is used to display the type of
 # an image
