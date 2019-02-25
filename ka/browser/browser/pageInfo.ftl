@@ -16,10 +16,16 @@ close-window =
 general-tab =
     .label = ზოგადი
     .accesskey = ზ
+general-title =
+    .value = სათაური:
 general-url =
     .value = მისამართი:
+general-type =
+    .value = სახეობა:
 general-mode =
     .value = ასახვის რეჟიმი:
+general-size =
+    .value = მოცულობა:
 general-referrer =
     .value = დამოწმების URL:
 general-modified =
@@ -30,24 +36,44 @@ general-meta-name =
     .label = სახელი
 general-meta-content =
     .label = შიგთავსი
+media-tab =
+    .label = ფაილები
+    .accesskey = ფ
+media-location =
+    .value = მდებარეობა:
+media-text =
+    .value = დართული ტექსტი:
 media-alt-header =
     .label = ალტერნატული ტექსტი
 media-address =
     .label = მისამართი
+media-type =
+    .label = სახეობა
+media-size =
+    .label = მოცულობა
 media-count =
     .label = რაოდენობა
+media-long-desc =
+    .value = ვრცელი აღწერა:
 media-save-as =
     .label = შენახვა როგორც…
     .accesskey = რ
 media-save-image-as =
     .label = შენახვა როგორც…
     .accesskey = ე
+media-preview =
+    .value = გამოსახულების შეთვალიერება:
 perm-tab =
     .label = ნებართვები
     .accesskey = ნ
+permissions-for =
+    .value = ნებართვები საიტისთვის:
 security-tab =
     .label = უსაფრთხოება
     .accesskey = უ
+security-view =
+    .label = სერტიფიკატის ნახვა
+    .accesskey = ნ
 security-view-unknown = უცნობია
     .value = უცნობია
 security-view-identity =
@@ -58,10 +84,21 @@ security-view-identity-domain =
     .value = საიტი:
 security-view-identity-verifier =
     .value = დამმოწმებელი:{ " " }
+security-view-identity-validity =
+    .value = ვადის გასვლის დრო:
+security-view-privacy =
+    .value = პირადულობა და ისტორია
+security-view-privacy-history-value = ამ საიტზე აქამდე ნამყოფი ვარ?
+security-view-privacy-sitedata-value = ინახავს ეს საიტი ჩემს კომპიუტერში მონაცემებს?
+security-view-privacy-clearsitedata =
+    .label = ფუნთუშებისა და საიტის მონაცემების გასუფთავება
+    .accesskey = გ
 security-view-privacy-passwords-value = ამ საიტისთვის პაროლები შენახული მაქვს?
 security-view-privacy-viewpasswords =
     .label = შენახული პაროლების ნახვა
     .accesskey = პ
+security-view-technical =
+    .value = ტექნიკური მონაცემები
 help-button =
     .label = დახმარება
 
@@ -71,6 +108,10 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-cookies = დიახ, ფუნთუშებსა და { $value } { $unit } საიტის მონაცემებს
+security-site-data-only = დიახ, { $value }{ $unit } საიტის მონაცემებს
+security-site-data-cookies-only = დიახ, ფუნთუშებს
+security-site-data-no = არა
 image-size-unknown = უცნობი
 not-set-verified-by = მითითებული არ არის
 not-set-alternative-text = მითითებული არ არის
@@ -90,8 +131,16 @@ saved-passwords-yes = დიახ
 saved-passwords-no = არა
 no-page-title =
     .value = უსახელო გვერდი
+general-quirks-mode =
+    .value = მოძველებული სტანდარტის
+general-strict-mode =
+    .value = სტანდარტების შესაბამისი
+security-no-owner = ვებსაიტი მფლობელის შესახებ ინფორმაციას არ იძლევა.
+media-select-folder = აირჩიეთ საქაღალდე სურათის შესანახად
 media-unknown-not-cached =
     .value = უცნობია (არაბუფერირებულია)
+permissions-use-default =
+    .label = ნაგულისხმევის მითითება
 security-no-visits = არა
 # This string is used to display the type of
 # an image
@@ -99,6 +148,15 @@ security-no-visits = არა
 #   $type (string) - The type of an image
 media-image-type =
     .value = { $type } გამოსახულება
+# This string is used to display the size of a scaled image
+# in both scaled and unscaled pixels
+# Variables:
+#   $dimx (number) - The horizontal size of an image
+#   $dimy (number) - The vertical size of an image
+#   $scaledx (number) - The scaled horizontal size of an image
+#   $scaledy (number) - The scaled vertical size of an image
+media-dimensions-scaled =
+    .value = { $dimx }px × { $dimy }px (დაყვანილი { $scaledx }px × { $scaledy }px)
 # This string is used to display the size of an image in pixels
 # Variables:
 #   $dimx (number) - The horizontal size of an image
@@ -110,3 +168,18 @@ media-dimensions =
 # Variables:
 #   $size (number) - The size of the media file in kilobytes
 media-file-size = { $size } კბ
+# This string is used to display the website name next to the
+# "Block Images" checkbox in the media tab
+# Variables:
+#   $website (string) - The website name
+media-block-image =
+    .label = სურათების შეზღუდვა { $website }-ზე
+    .accesskey = ბ
+# This string is used to display the URL of the website on top of the
+# pageInfo dialog box
+# Variables:
+#   $website (string) - The url of the website pageInfo is getting info for
+page-info-page =
+    .title = გვერდის მონაცემები – { $website }
+page-info-frame =
+    .title = ჩარჩოს მონაცემები – { $website }
