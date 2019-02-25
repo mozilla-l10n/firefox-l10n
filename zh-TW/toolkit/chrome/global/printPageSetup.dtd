@@ -30,7 +30,7 @@
 
 <!ENTITY advanced.tab        "邊界與頁首／頁尾">
 
-<!ENTITY marginGroup.label   "邊界 (#1) ">
+<!ENTITY marginGroup.label   "邊界（#1）">
 <!ENTITY marginUnits.inches  "英吋">
 <!ENTITY marginUnits.metric  "公釐 (mm)">
 <!ENTITY marginTop.label     "頂端:">
@@ -64,4 +64,3 @@
 
 <!ENTITY customPrompt.title  "自訂…">
 <!ENTITY customPrompt.prompt "輸入您自訂的頁首／頁尾文字">
-
