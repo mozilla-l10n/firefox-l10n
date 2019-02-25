@@ -95,8 +95,13 @@ print-preparing =
     .value = సిద్దమౌతోంది…
 print-progress =
     .value = పురోగతి:
+print-window =
+    .title = ముద్రిస్తోంది
+print-complete =
+    .value = ముద్రణ పూర్తయింది.
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =
     .value = { $percent }%
 dialog-cancel-label = రద్దుచేయి
+dialog-close-label = మూసివేయి
