@@ -19,6 +19,8 @@ close-window =
 general-tab =
     .label = ਆਮ
     .accesskey = G
+general-title =
+    .value = Title:
 general-url =
     .value = ਐਡਰੈੱਸ:
 general-type =
@@ -31,6 +33,8 @@ general-referrer =
     .value = ਰੈਡਰਿੰਗ URL:
 general-modified =
     .value = ਸੋਧਿਆ:
+general-encoding =
+    .value = ਟੈਕਸਟ ਇੰਕੋਡਿੰਗ:
 general-meta-name =
     .label = ਨਾਂ
 general-meta-content =
@@ -83,6 +87,8 @@ security-view-identity-domain =
     .value = ਵੈੱਬ ਸਾਇਟ:{ " " }
 security-view-identity-verifier =
     .value = ਜਾਂਚ ਕਰਤਾ:{ " " }
+security-view-privacy =
+    .value = ਪਰਦੇਦਾਰੀ ਤੇ ਅਤੀਤ
 security-view-privacy-history-value = ਕੀ ਮੈਂ ਇਹ ਵੈੱਬਸਾਇਟ ਅੱਜ ਤੋਂ ਪਹਿਲਾਂ ਵੇਖੀ ਹੈ?
 security-view-privacy-passwords-value = ਕੀ ਇਸ ਵੈੱਬ ਸਾਇਟ ਲਈ ਮੈਂ ਕੋਈ ਪਾਸਵਰਡ ਸੰਭਾਲੇ ਹਨ?
 security-view-privacy-viewpasswords =
@@ -90,6 +96,8 @@ security-view-privacy-viewpasswords =
     .accesskey = w
 security-view-technical =
     .value = ਤਕਨੀਕੀ ਵੇਰਵਾ
+help-button =
+    .label = ਮਦਦ
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -110,15 +118,22 @@ media-object = ਆਬਜੈਕਟ
 media-embed = ਇੰਬੈੱਡ
 media-link = ਆਈਕਾਨ
 media-input = ਇੰਪੁੱਟ
+media-video = ਵੀਡੀਓ
 media-audio = ਆਡੀਓ
 saved-passwords-yes = ਹਾਂ
 saved-passwords-no = ਨਹੀਂ
+no-page-title =
+    .value = ਬੇਨਾਮਾ ਸਫ਼ਾ:
 general-quirks-mode =
     .value = ਕੁਈਰਕਸ ਮੋਡ
 general-strict-mode =
     .value = ਸਟੈਂਡਰਡ ਪੂਰਨਤਾ ਮੋਡ
+security-no-owner = ਇਹ ਵੈੱਬ ਸਾਈਟ ਮਲਕੀਅਤ ਬਾਰੇ ਜਾਣਕਾਰੀ ਨਹੀਂ ਦਿੰਦੀ ਹੈ।
+media-select-folder = ਚਿੱਤਰ ਸੰਭਾਲਣ ਵਾਸਤੇ ਇੱਕ ਫੋਲਡਰ ਨੂੰ ਚੁਣੋ
 media-unknown-not-cached =
     .value = ਅਣਜਾਣ (ਕੈਸ਼ ਨਹੀਂ ਕੀਤਾ)
+permissions-use-default =
+    .label = ਮੂਲ ਵਰਤੋਂ
 security-no-visits = ਨਹੀਂ
 # This string is used to display the type of
 # an image
@@ -146,5 +161,18 @@ media-dimensions =
 # Variables:
 #   $size (number) - The size of the media file in kilobytes
 media-file-size = { $size } KB
+# This string is used to display the website name next to the
+# "Block Images" checkbox in the media tab
+# Variables:
+#   $website (string) - The website name
+media-block-image =
+    .label = { $website } ਤੋਂ ਚਿੱਤਰ ਨੂੰ ਬਲਾਕ ਕਰੋ
+    .accesskey = B
+# This string is used to display the URL of the website on top of the
+# pageInfo dialog box
+# Variables:
+#   $website (string) - The url of the website pageInfo is getting info for
+page-info-page =
+    .title = ਸਫ਼ਾ ਜਾਣਕਾਰੀ - { $website }
 page-info-frame =
     .title = ਫਰੇਮ ਜਾਣਕਾਰੀ - { $website }
