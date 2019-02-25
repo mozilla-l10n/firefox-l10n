@@ -94,6 +94,10 @@ security-view-identity-validity =
 security-view-privacy =
     .value = الخصوصية و التأريخ
 security-view-privacy-history-value = هل زُرتُ هذا الموقع من قبل؟
+security-view-privacy-sitedata-value = هل يحفظ هذا الموقع معلومات على حاسوبي؟
+security-view-privacy-clearsitedata =
+    .label = امسح الكعكات و بيانات المواقع
+    .accesskey = س
 security-view-privacy-passwords-value = هل حفظتُ أي كلمات سر لهذا الموقع؟
 security-view-privacy-viewpasswords =
     .label = اعرض كلمات السر المحفوظة
@@ -109,6 +113,10 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-cookies = نعم، كعكات و بيانات مواقع بحجم { $value } { $unit }
+security-site-data-only = نعم، بيانات مواقع بحجم { $value } { $unit }
+security-site-data-cookies-only = نعم، كعكات
+security-site-data-no = لا
 image-size-unknown = غير معروف
 not-set-verified-by = غير محدّد
 not-set-alternative-text = غير محدّد
