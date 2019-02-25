@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+print-setup =
+    .title = পৃষ্ঠা সংস্থাপন
 custom-prompt-title = স্বনিৰ্বাচিত...
 format-group-label =
     .value = ফৰমেট
@@ -81,8 +83,12 @@ hf-custom =
     .label = স্বনিৰ্বাচিত...
 print-preview-window =
     .title = প্ৰিন্টৰ পূৰ্ব প্ৰদৰ্শন
+print-title =
+    .value = শীৰ্ষক:
 print-preparing =
     .value = প্ৰস্তুত কৰা হৈছে...
+print-progress =
+    .value = প্ৰগতি:
 print-window =
     .title = প্ৰিন্ট কৰা হৈছে
 print-complete =
