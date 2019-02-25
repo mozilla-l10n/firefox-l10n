@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+print-setup =
+    .title = Sayfa Yapısı
 basic-tab =
     .label = Biçim ve seçenekler
 format-group-label =
@@ -13,6 +15,9 @@ shrink-to-fit =
     .accesskey = d
 options-group-label =
     .value = Seçenekler
+print-bg =
+    .label = Arka planı yazdır (renkler ve resimler)
+    .accesskey = k
 margin-group-label-inches =
     .value = Kenarlar (inç)
 margin-group-label-metric =
@@ -53,12 +58,16 @@ hf-date-and-time =
     .label = Tarih/Saat
 hf-page =
     .label = Sayfa #
+print-preview-window =
+    .title = Yazdırma Ön İzleme
 print-title =
     .value = Başlık:
 print-preparing =
     .value = Hazırlanıyor…
 print-progress =
     .value = İlerleme:
+print-window =
+    .title = Yazdırılıyor
 print-complete =
     .value = Yazdırma tamamlandı.
 # Variables
