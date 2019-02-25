@@ -54,6 +54,7 @@ media-img = Imej
 media-bg-img = Latar Belakang
 media-border-img = Sempadan
 media-list-img = Peluru
+media-cursor = Kursor
 media-object = Objek
 media-embed = Benam
 media-link = Ikon
