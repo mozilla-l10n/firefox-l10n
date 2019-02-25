@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/. --
 
+page-info-window =
+    .style = width: 600px; min-height: 550px;
 copy =
     .key = C
 select-all =
@@ -23,6 +25,8 @@ general-referrer =
     .value = යොමු URL:
 general-modified =
     .value = වෙනස්කළ:
+general-encoding =
+    .value = පෙළ සංකේතනය:
 general-meta-name =
     .label = නම
 general-meta-content =
@@ -118,6 +122,7 @@ general-quirks-mode =
     .value = Quirks ආකාරය
 general-strict-mode =
     .value = සම්මත අනුකූල ආකාරය
+security-no-owner = මෙම වෙබ් අඩවිය අයිතිය පිළිබඳ තොරතුරු සපයන්නේ නැත..
 media-select-folder = රූපය සුරකීමට බහලුමක් තෝරන්න
 media-unknown-not-cached =
     .value = නොදන්නා (කැච් නොවූ)
