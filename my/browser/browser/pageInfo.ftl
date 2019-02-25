@@ -30,6 +30,8 @@ media-count =
 security-tab =
     .label = လုံခြုံရေး
     .accesskey = S
+help-button =
+    .label = အကူအညီ
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
