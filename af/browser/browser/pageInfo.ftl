@@ -102,6 +102,7 @@ media-img = Prent
 media-bg-img = Agtergrond
 media-border-img = Rand
 media-list-img = Koeëltjie
+media-cursor = Wyser
 media-object = Objek
 media-embed = Ingebed
 media-link = Ikoon
@@ -120,6 +121,8 @@ security-no-owner = Hierdie webwerf verskaf nie eienaarsinligting nie.
 media-select-folder = Kies 'n vouer om die prente te stoor
 media-unknown-not-cached =
     .value = Onbekend (nie gekas nie)
+permissions-use-default =
+    .label = Gebruik verstek
 security-no-visits = Nee
 # This string is used to display the type of
 # an image
