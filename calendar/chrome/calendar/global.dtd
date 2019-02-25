@@ -44,9 +44,11 @@
 <!ENTITY month.11.name "November" >
 <!ENTITY month.12.name "December" >
 
-<!ENTITY onemonthbackward.tooltip "In mais enavos" >
-<!ENTITY onemonthforward.tooltip "In mais enavant" >
+<!ENTITY onemonthbackward.tooltip "Mais precedent" >
+<!ENTITY onemonthforward.tooltip "Proxim mais" >
+<!ENTITY oneyearbackward.tooltip "Onn precedent" >
+<!ENTITY oneyearforward.tooltip "Proxim onn" >
 <!ENTITY showToday.tooltip "Ir ad oz">
-<!ENTITY onedayforward.tooltip "In di enavant">
-<!ENTITY onedaybackward.tooltip "In di enavos">
+<!ENTITY onedayforward.tooltip "Ir al proxim di">
+<!ENTITY onedaybackward.tooltip "Ir al di precedent">
 <!ENTITY showselectedday.tooltip "Mussar eveniments per il di tschernì">
