@@ -46,6 +46,8 @@
 
 <!ENTITY onemonthbackward.tooltip "En mesec nazaj" >
 <!ENTITY onemonthforward.tooltip "En mesec naprej" >
+<!ENTITY oneyearbackward.tooltip "Eno leto nazaj" >
+<!ENTITY oneyearforward.tooltip "Eno leto naprej" >
 <!ENTITY showToday.tooltip "Pojdi na današnji dan">
 <!ENTITY onedayforward.tooltip "En dan naprej">
 <!ENTITY onedaybackward.tooltip "En dan nazaj">
