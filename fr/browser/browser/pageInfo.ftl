@@ -82,6 +82,9 @@ security-view-identity-verifier =
 security-view-privacy =
     .value = Vie privée et historique
 security-view-privacy-sitedata-value = Ce site web conserve-t-il des informations sur mon ordinateur ?
+security-view-privacy-viewpasswords =
+    .label = Voir les mots de passe enregistrés
+    .accesskey = V
 security-view-technical =
     .value = Détails techniques
 
