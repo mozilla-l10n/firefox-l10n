@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/. --
 
+page-info-window =
+    .style = width: 600px; min-height: 550px;
 copy =
     .key = C
 select-all =
@@ -66,6 +68,8 @@ security-view-identity-domain =
     .value = Trang web:
 security-view-identity-verifier =
     .value = Xác minh bởi:
+security-view-identity-validity =
+    .value = Hết hạn vào:
 security-view-privacy-passwords-value = Tôi có lưu mật khẩu nào trên trang web này không?
 help-button =
     .label = Trợ giúp
@@ -92,6 +96,7 @@ media-input = Nhập vào
 media-video = Đoạn phim
 media-audio = Âm thanh
 saved-passwords-yes = Có
+saved-passwords-no = Không
 no-page-title =
     .value = Trang không có tiêu đề:
 general-quirks-mode =
@@ -104,6 +109,7 @@ media-unknown-not-cached =
     .value = Không rõ (không được đệm)
 permissions-use-default =
     .label = Dùng Mặc Định
+security-no-visits = Không
 # This string is used to display the type of
 # an image
 # Variables:
