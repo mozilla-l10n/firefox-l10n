@@ -25,6 +25,7 @@ general-quirks-mode =
     .value = Modd Quirks
 general-strict-mode =
     .value = Modd cynnal safonau
+security-no-owner = Nid yw'r wefan yn darparu gwybodaeth am ei pherchnogaeth.
 media-select-folder = Dewis Ffolder i Gadw'r Delweddau
 security-no-visits = Na
 # This string is used to display the type of
@@ -33,6 +34,11 @@ security-no-visits = Na
 #   $type (string) - The type of an image
 media-image-type =
     .value = Delwedd { $type }
+# This string is used to display the size of a media
+# file in kilobytes
+# Variables:
+#   $size (number) - The size of the media file in kilobytes
+media-file-size = { $size } KB
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 # Variables:
