@@ -4,6 +4,8 @@
 
 page-info-window =
     .style = width: 600px; min-height: 550px;
+copy =
+    .key = C
 menu-copy =
     .label = Wachib'exïk
     .accesskey = c
@@ -92,12 +94,18 @@ security-view-identity-validity =
 security-view-privacy =
     .value = Ichinanem chuqa' natab'äl
 security-view-privacy-history-value = ¿La nintz'ët chik re jun ruxaq k'amaya'l re'?
+security-view-privacy-sitedata-value = ¿La yeruyäk na'oj pa nukematz'ib' re ajk'amaya'l ruxaq re'?
+security-view-privacy-clearsitedata =
+    .label = Keyuj ri taq Kaxlanwäy chuqa' Kitzij Ruxaq K'amaya'l
+    .accesskey = K
 security-view-privacy-passwords-value = ¿La xeyak ewan taq rutzij re ruxaq k'amaya'l re'?
 security-view-privacy-viewpasswords =
     .label = Ketz'et ri yakäl ewan taq tzij
     .accesskey = w
 security-view-technical =
     .value = Retal ajsamajel
+help-button =
+    .label = Tob'äl
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -105,6 +113,10 @@ security-view-technical =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-cookies = Ja', taq kaxlanwey chuqa' { $value } { $unit } kitzij ruxaq k'amaya'l
+security-site-data-only = Ja', { $value } { $unit } kitzij ruxaq k'amaya'l
+security-site-data-cookies-only = Ja', taq kaxlanwäy
+security-site-data-no = Mani
 image-size-unknown = Man etaman ta ruwäch
 not-set-verified-by = Man ya'on ta retal
 not-set-alternative-text = Man ya'on ta retal
