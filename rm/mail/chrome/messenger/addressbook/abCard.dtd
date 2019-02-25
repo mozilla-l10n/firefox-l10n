@@ -77,8 +77,11 @@
 <!ENTITY Birthday.label                 "Anniversari:">
 <!ENTITY Birthday.accesskey             "v">
 <!ENTITY In.label                       "">
+<!ENTITY Month.placeholder              "Mais">
+<!ENTITY Day.placeholder                "Di">
 <!ENTITY Year.placeholder               "Onn">
 <!ENTITY Or.value                       "u">
+<!ENTITY Age.label                      "Vegliadetgna:">
 <!ENTITY Age.placeholder                "Vegliadetgna">
 <!ENTITY YearsOld.label                 "">
 
