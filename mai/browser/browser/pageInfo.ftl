@@ -84,11 +84,11 @@ security-view-unknown = अज्ञात
 security-view-identity =
     .value = वेब साइट सुरक्षा
 security-view-identity-owner =
-    .value = स्वामी:{ " " }
+    .value = स्वामी:
 security-view-identity-domain =
-    .value = वेब साइट:{ " " }
+    .value = वेब साइट:
 security-view-identity-verifier =
-    .value = एकटार द्वारा सत्यापित:{ " " }
+    .value = एकटार द्वारा सत्यापित:
 security-view-identity-validity =
     .value = एकरा पर समाप्त:
 security-view-privacy =
@@ -101,7 +101,7 @@ security-view-privacy-viewpasswords =
 security-view-technical =
     .value = तकनीकी विवरण
 help-button =
-    .label = मदति{ " " }
+    .label = मदति
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -137,7 +137,7 @@ media-select-folder = छवि केँ सहेजबाक लेल को
 media-unknown-not-cached =
     .value = अज्ञात (कैश नहि)
 permissions-use-default =
-    .label = पूर्वनिर्धारित क प्रयोग  करू{ " " }
+    .label = पूर्वनिर्धारित क प्रयोग  करू
 security-no-visits = नहि
 # This string is used to display the type of
 # an image

@@ -100,12 +100,12 @@ print-preparing =
 print-progress =
     .value = प्रगति:
 print-window =
-    .title = छप रहल  अछि{ " " }
+    .title = छप रहल  अछि
 print-complete =
     .value = छपाइ समाप्त.
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =
     .value = { $percent }%
-dialog-cancel-label = रद्द करू{ " " }
-dialog-close-label = बन्न करू{ " " }
+dialog-cancel-label = रद्द करू
+dialog-close-label = बन्न करू
