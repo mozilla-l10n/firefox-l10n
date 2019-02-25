@@ -108,4 +108,4 @@ print-complete =
 print-percent =
     .value = { $percent }%
 dialog-cancel-label = ပယ်​ဖျက်ပါ
-dialog-close-label = ပိတ်ပါ{ " " }
+dialog-close-label = ပိတ်ပါ
