@@ -94,5 +94,9 @@ print-window =
     .title = Tê Çapkirin
 print-complete =
     .value = Çapkirin Qediya.
+# Variables
+# $percent (integer) - Number of printed percentage
+print-percent =
+    .value = { $percent }%
 dialog-cancel-label = Betal
 dialog-close-label = Girtin
