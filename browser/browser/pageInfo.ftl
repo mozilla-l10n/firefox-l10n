@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/. --
 
+page-info-window =
+    .style = width: 600px; min-height: 550px;
 copy =
     .key = C
 menu-copy =
@@ -17,6 +19,8 @@ close-window =
 general-tab =
     .label = Powšykne
     .accesskey = P
+general-title =
+    .value = Titel:
 general-url =
     .value = Adresa:
 general-type =
@@ -29,6 +33,8 @@ general-referrer =
     .value = Slědkpokazujucy URL:
 general-modified =
     .value = Změnjony:
+general-encoding =
+    .value = Tekstowe koděrowanje:
 general-meta-name =
     .label = Mě
 general-meta-content =
@@ -36,6 +42,8 @@ general-meta-content =
 media-tab =
     .label = Medije
     .accesskey = M
+media-location =
+    .value = Adresa:
 media-text =
     .value = Pśisłušny tekst:
 media-alt-header =
@@ -81,6 +89,8 @@ security-view-identity-domain =
     .value = Websedło:
 security-view-identity-verifier =
     .value = Pśespytany wót:
+security-view-identity-validity =
+    .value = Spadnjo:
 security-view-privacy =
     .value = Priwatnosć a historija
 security-view-privacy-history-value = Som se k toś tomu websedłoju južo do togo woglědał?
@@ -90,6 +100,8 @@ security-view-privacy-viewpasswords =
     .accesskey = r
 security-view-technical =
     .value = Techniske drobnostki
+help-button =
+    .label = Pomoc
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -118,6 +130,8 @@ no-page-title =
     .value = Bok bźez titela:
 general-quirks-mode =
     .value = Modus kompatibelnosći
+general-strict-mode =
+    .value = Modus konformnosći ze standardami
 security-no-owner = Websedło njepódawa informacije wó wobsejźarstwje.
 media-select-folder = Wubjeŕśo zastojnik za składowanje wobrazow
 media-unknown-not-cached =
