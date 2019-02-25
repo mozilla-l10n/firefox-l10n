@@ -121,6 +121,7 @@ image-size-unknown = Nieznany
 not-set-verified-by = Nieokreślony
 not-set-alternative-text = Nieokreślony
 not-set-date = Nieokreślony
+media-img = Obraz
 media-bg-img = Tło
 media-border-img = Obramowanie
 media-list-img = Wypunktowanie
@@ -140,11 +141,18 @@ general-quirks-mode =
 general-strict-mode =
     .value = Tryb standardów
 security-no-owner = Ta witryna nie dostarcza informacji o swoich właścicielach.
+media-select-folder = Wybierz folder do zapisu obrazów
 media-unknown-not-cached =
     .value = Nieznany (brak w pamięci podręcznej)
 permissions-use-default =
     .label = Używaj domyślnych
 security-no-visits = Nie
+# This string is used to display the type of
+# an image
+# Variables:
+#   $type (string) - The type of an image
+media-image-type =
+    .value = Obraz { $type }
 # This string is used to display the size of a scaled image
 # in both scaled and unscaled pixels
 # Variables:
@@ -165,6 +173,13 @@ media-dimensions =
 # Variables:
 #   $size (number) - The size of the media file in kilobytes
 media-file-size = { $size } KB
+# This string is used to display the website name next to the
+# "Block Images" checkbox in the media tab
+# Variables:
+#   $website (string) - The website name
+media-block-image =
+    .label = Blokuj obrazy z witryny { $website }
+    .accesskey = B
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 # Variables:
