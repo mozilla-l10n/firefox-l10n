@@ -94,6 +94,7 @@ security-view-identity-validity =
 security-view-privacy =
     .value = গোপণীয়তা এবং ইতিহাস
 security-view-privacy-history-value = আগে কোন সময় এই ওয়েবসাইট আমি পরিদর্শন করেছি কি?
+security-view-privacy-sitedata-value = ওয়েবসাইটটি কি আমার কম্পিউটারে তথ্য সংরক্ষণ করছে?
 security-view-privacy-clearsitedata =
     .label = কুকি এবং সাইট ডাটা পরিষ্কার
     .accesskey = C
