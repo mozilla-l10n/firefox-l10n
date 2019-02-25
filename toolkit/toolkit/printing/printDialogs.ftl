@@ -91,14 +91,21 @@ hf-page-and-total =
     .label = Side # av #
 hf-custom =
     .label = Annen …
+print-preview-window =
+    .title = Forhåndsvisning
+print-title =
+    .value = Tittel:
 print-preparing =
     .value = Forbereder …
 print-progress =
     .value = Fremdrift:
+print-window =
+    .title = Skriver ut
 print-complete =
     .value = Utskriften er ferdig.
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =
     .value = { $percent } %
+dialog-cancel-label = Avbryt
 dialog-close-label = Lukk
