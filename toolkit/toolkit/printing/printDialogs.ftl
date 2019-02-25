@@ -4,9 +4,12 @@
 
 print-setup =
     .title = Парақ баптаулары
+custom-prompt-title = Баптау…
 custom-prompt-prompt = Өзіңіздің колонтитул мәтінің енгізіңіз
 basic-tab =
     .label = Пішімі мен қасиеттері
+advanced-tab =
+    .label = Шеттер мен колонтитулдар
 format-group-label =
     .value = Формат
 orientation-label =
@@ -86,8 +89,14 @@ hf-page =
     .label = Парақ нөмірі
 hf-page-and-total =
     .label = Парақ #, барлығы #
+hf-custom =
+    .label = Баптау…
 print-preview-window =
     .title = Алдын-ала қарау
+print-title =
+    .value = Тақырыбы:
+print-preparing =
+    .value = Дайындау…
 print-progress =
     .value = Прогресс:
 print-window =
