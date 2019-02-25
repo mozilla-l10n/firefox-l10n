@@ -80,6 +80,8 @@ hf-page-and-total =
     .label = பக்கம் # of #
 hf-custom =
     .label = தனிபயன்…
+print-title =
+    .value = தலைப்பு:
 print-preparing =
     .value = தயாராகிறது..
 print-progress =
@@ -90,4 +92,5 @@ print-complete =
 # $percent (integer) - Number of printed percentage
 print-percent =
     .value = { $percent }%
+dialog-cancel-label = ரத்து செய்
 dialog-close-label = மூடு
