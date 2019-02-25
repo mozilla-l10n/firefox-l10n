@@ -24,6 +24,7 @@ general-quirks-mode =
     .value = Režim zpětné kompatibility
 general-strict-mode =
     .value = Režim platných standardů
+security-no-owner = Tato stránka neposkytuje informace o vlastníkovi
 media-select-folder = Zvolte složku pro uložení obrázků
 security-no-visits = Ne
 # This string is used to display the type of
