@@ -4,12 +4,18 @@
 
 page-info-window =
     .style = width: 600px; min-height: 550px;
+copy =
+    .key = C
 menu-copy =
     .label = نقل کریں{ " " }
     .accesskey = ن
+select-all =
+    .key = A
 menu-select-all =
     .label = تمام منتخب کریں
     .accesskey = ت
+close-window =
+    .key = A
 general-tab =
     .label = عمومی
     .accesskey = ج
