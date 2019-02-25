@@ -94,6 +94,9 @@ security-view-identity-validity =
 security-view-privacy =
     .value = Friðhelgi og ferill
 security-view-privacy-history-value = Hef ég skoðað þetta vefsvæði áður?
+security-view-privacy-clearsitedata =
+    .label = Hreinsa smákökur og gögn vefsvæðis
+    .accesskey = ö
 security-view-privacy-passwords-value = Hef ég vistað eitthvað lykilorð fyrir þetta vefsvæði?
 security-view-privacy-viewpasswords =
     .label = Skoða vistuð lykilorð
@@ -109,6 +112,10 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-cookies = Já, smákökur og { $value } { $unit } af gögnum vefsvæðis
+security-site-data-only = Já, { $value } { $unit } af gögnum vefsvæðis
+security-site-data-cookies-only = Já, smákökur
+security-site-data-no = Nei
 image-size-unknown = Óþekkt
 not-set-verified-by = Ekki skilgreint
 not-set-alternative-text = Ekki skilgreint
