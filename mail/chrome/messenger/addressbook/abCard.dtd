@@ -77,8 +77,11 @@
 <!ENTITY Birthday.label                 "Data de nascimento:">
 <!ENTITY Birthday.accesskey             "n">
 <!ENTITY In.label                       "">
+<!ENTITY Month.placeholder              "Mês">
+<!ENTITY Day.placeholder                "Dia">
 <!ENTITY Year.placeholder               "Ano">
 <!ENTITY Or.value                       "ou">
+<!ENTITY Age.label                      "Idade:">
 <!ENTITY Age.placeholder                "Idade">
 <!ENTITY YearsOld.label                 "">
 
