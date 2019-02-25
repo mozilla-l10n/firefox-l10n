@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/. --
 
+page-info-window =
+    .style = width: 600px; min-height: 550px;
 copy =
     .key = C
 menu-copy =
@@ -29,6 +31,8 @@ general-referrer =
     .value = URL referente:
 general-modified =
     .value = Modificada:
+general-encoding =
+    .value = Codificación do texto:
 general-meta-name =
     .label = Nome
 general-meta-content =
@@ -57,6 +61,9 @@ media-long-desc =
 media-save-as =
     .label = Gardar como…
     .accesskey = G
+media-save-image-as =
+    .label = Gardar como…
+    .accesskey = e
 media-preview =
     .value = Previsualización multimedia:
 perm-tab =
@@ -82,9 +89,15 @@ security-view-identity-verifier =
     .value = Verificado por:{ " " }
 security-view-privacy =
     .value = Privacidade e historial
+security-view-privacy-history-value = Visitei este sitio web anteriormente?
 security-view-privacy-passwords-value = Gardei algún contrasinal para este sitio web?
+security-view-privacy-viewpasswords =
+    .label = Ver contrasinais gardados
+    .accesskey = V
 security-view-technical =
     .value = Detalles técnicos
+help-button =
+    .label = Axuda
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -98,10 +111,15 @@ not-set-alternative-text = Sen especificar
 not-set-date = Sen especificar
 media-img = Imaxe
 media-bg-img = Fondo
+media-border-img = Bordo
+media-list-img = Viñeta
+media-cursor = Cursor
 media-object = Obxecto
 media-embed = Incorporar
 media-link = Icona
 media-input = Entrada
+media-video = Vídeo
+media-audio = Audio
 saved-passwords-yes = Si
 saved-passwords-no = Non
 no-page-title =
@@ -114,6 +132,8 @@ security-no-owner = Este sitio web non fornece información do propietario.
 media-select-folder = Seleccione un cartafol para gardar as imaxes
 media-unknown-not-cached =
     .value = Descoñecido (non está na caché)
+permissions-use-default =
+    .label = Usar predeterminado
 security-no-visits = Non
 # This string is used to display the type of
 # an image
@@ -141,6 +161,13 @@ media-dimensions =
 # Variables:
 #   $size (number) - The size of the media file in kilobytes
 media-file-size = { $size } KB
+# This string is used to display the website name next to the
+# "Block Images" checkbox in the media tab
+# Variables:
+#   $website (string) - The website name
+media-block-image =
+    .label = Bloquear as imaxes de { $website }
+    .accesskey = B
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 # Variables:
