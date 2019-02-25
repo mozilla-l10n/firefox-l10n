@@ -89,6 +89,8 @@ security-view-identity-domain =
     .value = ජාල අඩවිය:
 security-view-identity-verifier =
     .value = ස්ථිර කළේ:
+security-view-identity-validity =
+    .value = කල් ඉකුත් වන්නේ:
 security-view-privacy =
     .value = පුද්ගලිකත්වය හා ඉතිහාසය
 security-view-privacy-history-value = අද දිනට පෙර මා මෙම අඩවියට පිවිස ඇතිද?
@@ -107,6 +109,7 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-no = නැත
 image-size-unknown = නොදන්නා
 not-set-verified-by = විශේෂිතව දක්වා නැත
 not-set-alternative-text = විශේෂිතව දක්වා නැත
