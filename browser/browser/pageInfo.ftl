@@ -113,6 +113,8 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-cookies = ஆம், நினைவிகள் மற்றும் { $value } { $unit } தளத்தின் தரவு
+security-site-data-only = ஆம், { $value } { $unit } தளத்தின் தரவு
 security-site-data-cookies-only = ஆம், நினைவிகள்
 security-site-data-no = இல்லை
 image-size-unknown = தெரியாதது
