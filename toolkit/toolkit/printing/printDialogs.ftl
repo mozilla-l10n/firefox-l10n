@@ -4,6 +4,7 @@
 
 print-setup =
     .title = Настройка на страницата
+custom-prompt-title = Персонализиране…
 custom-prompt-prompt = Моля, въведете вашия текст за горен/долен колонтитул
 basic-tab =
     .label = Формат и настройки
@@ -88,10 +89,14 @@ hf-page =
     .label = Страница #
 hf-page-and-total =
     .label = Страница # от #
+hf-custom =
+    .label = Персонализиране…
 print-preview-window =
     .title = Преглед преди отпечатване
 print-title =
     .value = Заглавие:
+print-preparing =
+    .value = Подготвяне…
 print-progress =
     .value = Напредък:
 print-window =
