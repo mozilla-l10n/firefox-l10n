@@ -94,6 +94,7 @@ security-view-identity-validity =
 security-view-privacy =
     .value = Tudert tusligt d umezgar
 security-view-privacy-history-value = Rziɣ yakan ɣer usmel-a web?
+security-view-privacy-sitedata-value = Asmel-agi yesseklas talɣut ɣef uselkim-iw?
 security-view-privacy-clearsitedata =
     .label = Sfeḍ inagan n tuqna akked isefka n usmel
     .accesskey = C
