@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/. --
 
+page-info-window =
+    .style = width: 425px; min-height: 550px;
 copy =
     .key = C
 menu-copy =
@@ -29,6 +31,8 @@ general-referrer =
     .value = റെഫര്‍ ചെയ്യുന്ന URL{ " " }
 general-modified =
     .value = പരിഷ്കരിച്ചത്‌:
+general-encoding =
+    .value = ­പദാവലിയുടെ എന്‍കോഡിങ്ങ്:
 general-meta-name =
     .label = പേര്‌{ " " }
 general-meta-content =
@@ -83,6 +87,8 @@ security-view-identity-domain =
     .value = വെബ് സൈറ്റ്:{ " " }
 security-view-identity-verifier =
     .value = ഉറപ്പാക്കിയതു്::{ " " }
+security-view-privacy =
+    .value = സ്വകാര്യതയും നാള്‍വഴിയും
 security-view-privacy-history-value = ഇതിനു് മുമ്പു് ഈ വെബ് സൈറ്റ് സന്ദര്‍ശിച്ചിട്ടുണ്ടോ?
 security-view-privacy-passwords-value = ഈ വെബ് സൈറ്റിനു് വേണ്ടി രഹസ്യവാക്കുകള്‍ സൂക്ഷിച്ചിട്ടുണ്ടോ?
 security-view-privacy-viewpasswords =
@@ -90,6 +96,8 @@ security-view-privacy-viewpasswords =
     .accesskey = w
 security-view-technical =
     .value = സാങ്കേതിക വിശദാംശങ്ങള്‍
+help-button =
+    .label = സഹായം{ " " }
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
