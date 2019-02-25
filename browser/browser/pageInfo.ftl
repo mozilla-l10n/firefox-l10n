@@ -11,6 +11,8 @@ close-window =
 general-tab =
     .label = Tổng quát
     .accesskey = T
+general-title =
+    .value = Tiêu đề:
 general-url =
     .value = Địa chỉ:
 general-type =
@@ -21,6 +23,8 @@ general-referrer =
     .value = URL liên quan:
 general-modified =
     .value = Được chỉnh sửa:
+general-encoding =
+    .value = Mã hóa văn bản:
 general-meta-name =
     .label = Tên
 general-meta-content =
@@ -63,6 +67,8 @@ security-view-identity-domain =
 security-view-identity-verifier =
     .value = Xác minh bởi:
 security-view-privacy-passwords-value = Tôi có lưu mật khẩu nào trên trang web này không?
+help-button =
+    .label = Trợ giúp
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -77,6 +83,7 @@ not-set-date = Không được chỉ định
 media-img = Hình
 media-bg-img = Nền
 media-border-img = Viền
+media-list-img = Dấu tròn đầu dòng
 media-cursor = Con trỏ
 media-object = Đối tượng
 media-embed = Được nhúng
