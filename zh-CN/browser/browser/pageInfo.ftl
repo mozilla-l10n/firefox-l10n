@@ -147,6 +147,37 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = 使用默认设置
 security-no-visits = 否
+# This string is used to display the number of meta tags
+# in the General Tab
+# Variables:
+#   $tags (number) - The number of meta tags
+general-meta-tags =
+    .value =
+        { $tags ->
+            [one] 元信息（1 个标签）
+           *[other] 元信息（{ $tags } 个标签）
+        }
+# This string is used to display the size of a media file
+# Variables:
+#   $kb (number) - The size of an image in Kilobytes
+#   $bytes (number) - The size of an image in Bytes
+properties-general-size =
+    .value =
+        { $bytes ->
+            [one] { $kb } KB ({ $bytes } 字节)
+           *[other] { $kb } KB ({ $bytes } 字节)
+        }
+# This string is used to display the type and number
+# of frames of a animated image
+# Variables:
+#   $type (string) - The type of a animated image
+#   $frames (number) - The number of frames in an animated image
+media-animated-image-type =
+    .value =
+        { $frames ->
+            [one] { $type } 图像（动画，%S 帧）
+           *[other] { $type } 图像（动画，%S 帧）
+        }
 # This string is used to display the type of
 # an image
 # Variables:
