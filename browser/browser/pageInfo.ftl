@@ -101,7 +101,11 @@ image-size-unknown = ଅଜଣା
 not-set-verified-by = ଉଲ୍ଲେଖିତ ହୋଇନଥିବା
 not-set-alternative-text = ଉଲ୍ଲେଖିତ ହୋଇନଥିବା
 not-set-date = ଉଲ୍ଲେଖିତ ହୋଇନଥିବା
+media-img = ପ୍ରତିଛବି
 media-bg-img = ପୃଷ୍ଠଭୂମି
+media-border-img = ଧାର
+media-list-img = ବିନ୍ଦୁ
+media-cursor = ସୂଚକ
 media-object = ବସ୍ତୁ
 media-embed = ଅନ୍ତଃ ସ୍ଥାପିତ
 media-link = ଚିତ୍ରସଙ୍କେତ
@@ -116,9 +120,12 @@ general-quirks-mode =
     .value = ଭେଦ ଅବସ୍ଥା
 general-strict-mode =
     .value = ମାନକ ସ୍ୱୀକୃତିପ୍ରାପ୍ତ ଅବସ୍ଥା
+security-no-owner = ଏହି ୱେବ ସାଇଟ ମାଲିକତ୍ତ୍ୱ ସୂଚନା ପ୍ରଦାନ କରିନଥାଏ।
 media-select-folder = ପ୍ରତିଛବିଗୁଡ଼ିକୁ ସଂରକ୍ଷଣ କରିବାକୁ ଗୋଟିଏ ଫୋଲଡର ଚୟନକରନ୍ତୁ
 media-unknown-not-cached =
     .value = ଅଜଣା (ଲୁଚି ରହି ନଥିବା)
+permissions-use-default =
+    .label = ପୂର୍ବନିର୍ଦ୍ଧାରିତକୁ ବ୍ୟବହାର କରନ୍ତୁ
 security-no-visits = ନା
 # This string is used to display the type of
 # an image
@@ -126,6 +133,21 @@ security-no-visits = ନା
 #   $type (string) - The type of an image
 media-image-type =
     .value = { $type } ପ୍ରତିଛବି
+# This string is used to display the size of a scaled image
+# in both scaled and unscaled pixels
+# Variables:
+#   $dimx (number) - The horizontal size of an image
+#   $dimy (number) - The vertical size of an image
+#   $scaledx (number) - The scaled horizontal size of an image
+#   $scaledy (number) - The scaled vertical size of an image
+media-dimensions-scaled =
+    .value = { $dimx }px × { $dimy }px ({ $scaledx }px × { $scaledy }px ରେ ମପାହୋଇଥିବା)
+# This string is used to display the size of an image in pixels
+# Variables:
+#   $dimx (number) - The horizontal size of an image
+#   $dimy (number) - The vertical size of an image
+media-dimensions =
+    .value = { $dimx }px × { $dimy }px
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
