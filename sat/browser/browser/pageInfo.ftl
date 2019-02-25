@@ -55,11 +55,11 @@ media-preview =
     .value = माड़ाङ तेयाक् ञेल:
 perm-tab =
     .label = छाड को
-    .accesskey = { " " }P
+    .accesskey = P
 permissions-for =
     .value = ला़गित् छा़ड को:
 security-tab =
-    .label = { " " }जा़पती
+    .label = जा़पती
     .accesskey = S
 security-view =
     .label = पोरमान साकाम ञेल मे.
@@ -75,7 +75,7 @@ security-view-identity-domain =
 security-view-identity-verifier =
     .value = दाराय ते ञेल मिला़व:
 security-view-privacy =
-    .value = निजेर हिता़ल (& H){ " " }
+    .value = निजेर हिता़ल
 security-view-privacy-history-value = चेत् इञ नोवा वेब साइट तेहेञ खोन माड़ाङ ञेल आकात् आ ?
 security-view-privacy-passwords-value = चेत् इञ नोवा वेब साइट ला़गित् जाहान दानाङ साबाद सांचाव आकाना ?
 security-view-technical =
@@ -124,7 +124,7 @@ security-no-visits = बाङ
 # Variables:
 #   $type (string) - The type of an image
 media-image-type =
-    .value = { $type } चिता़र{ " " }
+    .value = { $type } चिता़र
 # This string is used to display the size of a scaled image
 # in both scaled and unscaled pixels
 # Variables:
@@ -144,7 +144,7 @@ media-file-size = { $size } KB
 # Variables:
 #   $website (string) - The website name
 media-block-image =
-    .label = { " " }{ $website } खोन चिता़र को आकोट.
+    .label = { $website } खोन चिता़र को आकोट.
     .accesskey = B
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
