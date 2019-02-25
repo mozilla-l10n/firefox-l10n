@@ -19,6 +19,8 @@ media-object = Objekts
 media-embed = Iegults
 media-link = Ikona
 media-input = Ievade
+media-video = Video
+media-audio = Audio
 saved-passwords-yes = Jā
 saved-passwords-no = Nē
 no-page-title =
@@ -30,6 +32,8 @@ general-strict-mode =
 media-select-folder = Izvēlieties mapi, kurā saglabāt attēlus
 media-unknown-not-cached =
     .value = Nezināms (nav kešatmiņā)
+permissions-use-default =
+    .label = Izmantot noklusētos
 security-no-visits = Nē
 # This string is used to display the type of
 # an image
