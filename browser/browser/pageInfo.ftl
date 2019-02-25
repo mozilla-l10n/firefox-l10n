@@ -56,6 +56,8 @@ media-size =
     .label = ਆਕਾਰ
 media-count =
     .label = ਗਿਣਤੀ
+media-dimension =
+    .value = ਮਾਪ:
 media-long-desc =
     .value = ਲੰਮਾ ਵੇਰਵਾ:
 media-save-as =
@@ -87,9 +89,15 @@ security-view-identity-domain =
     .value = ਵੈੱਬ ਸਾਇਟ:{ " " }
 security-view-identity-verifier =
     .value = ਜਾਂਚ ਕਰਤਾ:{ " " }
+security-view-identity-validity =
+    .value = ਮਿਆਦ ਪੁੱਗੇਗੀ:
 security-view-privacy =
     .value = ਪਰਦੇਦਾਰੀ ਤੇ ਅਤੀਤ
 security-view-privacy-history-value = ਕੀ ਮੈਂ ਇਹ ਵੈੱਬਸਾਇਟ ਅੱਜ ਤੋਂ ਪਹਿਲਾਂ ਵੇਖੀ ਹੈ?
+security-view-privacy-sitedata-value = ਕੀ ਇਹ ਵੈੱਬਸਾਈਟ ਮੇਰੇ ਕੰਪਿਊਟਰ 'ਤੇ ਜਾਣਕਾਰੀ ਸੰਭਾਲਦੀ ਹੈ?
+security-view-privacy-clearsitedata =
+    .label = ਕੂਕੀਜ਼ ਅਤੇ ਸਾਈਟ ਡਾਟੇ ਨੂੰ ਸਾਫ਼ ਕਰੋ
+    .accesskey = C
 security-view-privacy-passwords-value = ਕੀ ਇਸ ਵੈੱਬ ਸਾਇਟ ਲਈ ਮੈਂ ਕੋਈ ਪਾਸਵਰਡ ਸੰਭਾਲੇ ਹਨ?
 security-view-privacy-viewpasswords =
     .label = ਸੰਭਾਲੇ ਪਾਸਵਰਡ ਵੇਖੋ
@@ -105,6 +113,10 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-cookies = ਹਾਂ ਜੀ, ਕੂਕੀਜ਼ ਅਤੇ { $value } { $unit } ਸਾਈਟ ਡਾਟਾ
+security-site-data-only = ਹਾਂ ਜੀ, { $value } { $unit } ਸਾਈਟ ਡਾਟਾ
+security-site-data-cookies-only = ਹਾਂ ਜੀ, ਕੂਕੀਜ਼
+security-site-data-no = ਨਹੀਂ
 image-size-unknown = ਅਣਜਾਣ
 not-set-verified-by = ਦਿੱਤਾ ਨਹੀਂ
 not-set-alternative-text = ਦਿੱਤਾ ਨਹੀਂ
