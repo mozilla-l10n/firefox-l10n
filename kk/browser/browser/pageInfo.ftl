@@ -2,8 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/. --
 
+page-info-window =
+    .style = width: 620px; min-height: 600px;
 copy =
     .key = C
+menu-copy =
+    .label = Көшіріп алу
+    .accesskey = К
 select-all =
     .key = A
 menu-select-all =
@@ -14,16 +19,22 @@ close-window =
 general-tab =
     .label = Жалпы
     .accesskey = Ж
+general-title =
+    .value = Атауы:
 general-url =
     .value = Адрес:
 general-type =
     .value = Түрі:
 general-mode =
     .value = Визуализация түрі:
+general-size =
+    .value = Өлшемі:
 general-referrer =
     .value = Сілтейтін URL:
 general-modified =
     .value = Соңғы өзгерту:
+general-encoding =
+    .value = Мәтін кодталуы:
 general-meta-name =
     .label = Аты
 general-meta-content =
@@ -49,6 +60,12 @@ media-dimension =
     .value = Өлшемдер:
 media-long-desc =
     .value = Толық сипаттамасы:
+media-save-as =
+    .label = Қалайша сақтау…
+    .accesskey = с
+media-save-image-as =
+    .label = Қалайша сақтау…
+    .accesskey = а
 media-preview =
     .value = Мультимедианы алдын-ала қарау:
 perm-tab =
@@ -72,6 +89,8 @@ security-view-identity-domain =
     .value = Веб-сайт:
 security-view-identity-verifier =
     .value = Растаған:
+security-view-identity-validity =
+    .value = Мерзімі аяқталады:
 security-view-privacy =
     .value = Жекешелік пен Тарихы
 security-view-privacy-history-value = Бұл сайтта бүгінге дейін болдым ба?
@@ -81,6 +100,8 @@ security-view-privacy-viewpasswords =
     .accesskey = т
 security-view-technical =
     .value = Техникалық ақпарат
+help-button =
+    .label = Көмек
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -101,6 +122,7 @@ media-object = Объект
 media-embed = Құрамындағы объект
 media-link = Белгі
 media-input = Енгізу
+media-video = Видео
 media-audio = Аудио
 saved-passwords-yes = Иә
 saved-passwords-no = Жоқ
@@ -143,6 +165,13 @@ media-dimensions =
 # Variables:
 #   $size (number) - The size of the media file in kilobytes
 media-file-size = { $size } Кб
+# This string is used to display the website name next to the
+# "Block Images" checkbox in the media tab
+# Variables:
+#   $website (string) - The website name
+media-block-image =
+    .label = { $website } адресінен суреттерді блоктау
+    .accesskey = б
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 # Variables:
