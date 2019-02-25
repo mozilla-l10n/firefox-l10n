@@ -8,7 +8,9 @@
 ### given Firefox channel". These terms are not synonymous.
 
 title = Marandu iporãva
+heading = Ñemoambue ne mba’etépe { -brand-short-name } rupive
 changed-title = ¿Mba'e iñambue?
+changed-desc-profiles = { -brand-short-name } ñemohenda oguereko mba’ete pyahu. Peteĩ mba’ete ha’e marandurenda aty Firefox oñongatuha marandu, techapyrãrõ techaukaha, ñe’ẽñemi ha puruhára oguerohoryvéva.
 options-title = ¿Mba’épa umi poravorã?
 resources = Mba’eita:
 support-link = Aipuruhína mba’ete ñangarekoha – Pytyvõha jehaipy
