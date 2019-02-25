@@ -89,9 +89,15 @@ security-view-identity-domain =
     .value = Puesto web:
 security-view-identity-verifier =
     .value = Verificau por:
+security-view-identity-validity =
+    .value = Vence lo:
 security-view-privacy =
     .value = Privacidat y historia
 security-view-privacy-history-value = He visitau iste puesto web antes de hue?
+security-view-privacy-sitedata-value = Ye almagazenando esta pachina garra información en o mío ordinador?
+security-view-privacy-clearsitedata =
+    .label = Borrar cookies y datos d'o puesto
+    .accesskey = C
 security-view-privacy-passwords-value = Ha alzau garra clau d'iste puesto web?
 security-view-privacy-viewpasswords =
     .label = Veyer as claus alzadas
@@ -107,6 +113,10 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-cookies = Sí, las cookies y { $value } { $unit } de datos d'o puesto
+security-site-data-only = Sí, { $value } { $unit } de datos d'o puesto
+security-site-data-cookies-only = Sí, las cookies
+security-site-data-no = No
 image-size-unknown = Desconoixiu
 not-set-verified-by = No s'ha especificau
 not-set-alternative-text = No s'ha especificau
