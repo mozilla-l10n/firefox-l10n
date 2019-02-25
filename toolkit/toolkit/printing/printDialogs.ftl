@@ -1,0 +1,75 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+custom-prompt-prompt = Masukkan teks adat pengepala/pekaki
+format-group-label =
+    .value = Format
+orientation-label =
+    .value = Orientasi:
+portrait =
+    .label = Potret
+    .accesskey = P
+landscape =
+    .label = Lanskap
+    .accesskey = L
+scale =
+    .label = Skala:
+    .accesskey = S
+scale-percent =
+    .value = %
+margin-group-label-inches =
+    .value = Margin (inci)
+margin-group-label-metric =
+    .value = Margin (milimeter)
+margin-top-invisible =
+    .value = Atas:
+margin-bottom =
+    .value = Bawah:
+    .accesskey = B
+margin-bottom-invisible =
+    .value = Bawah:
+margin-left-invisible =
+    .value = Kiri:
+margin-right-invisible =
+    .value = Kanan:
+hf-left-label =
+    .value = Kiri:
+hf-center-label =
+    .value = Tengah:
+hf-right-label =
+    .value = Kanan:
+header-left-tip =
+    .tooltiptext = Pengepala kiri
+header-center-tip =
+    .tooltiptext = Pengepala tengah
+header-right-tip =
+    .tooltiptext = Pengepala kanan
+footer-left-tip =
+    .tooltiptext = Pekaki kiri
+footer-center-tip =
+    .tooltiptext = Pekaki tengah
+footer-right-tip =
+    .tooltiptext = Pekaki kanan
+hf-blank =
+    .label = --kosong--
+hf-title =
+    .label = Tajuk
+hf-url =
+    .label = URL
+hf-date-and-time =
+    .label = Tarikh/Masa
+print-title =
+    .value = Tajuk:
+print-preparing =
+    .value = Menyediakan...
+print-progress =
+    .value = Kemajuan:
+print-complete =
+    .value = Mencetak Selesai.
+# Variables
+# $percent (integer) - Number of printed percentage
+print-percent =
+    .value = { $percent }%
+dialog-cancel-label = Batal
+dialog-close-label = Tutup
