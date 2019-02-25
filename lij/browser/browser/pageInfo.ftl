@@ -107,6 +107,9 @@ not-set-alternative-text = No specificou
 not-set-date = No specificou
 media-img = Inmagine
 media-bg-img = Sfondo
+media-border-img = Oexin
+media-list-img = Baletta
+media-cursor = Corsô
 media-object = Ògetto
 media-embed = Inserio
 media-link = Icöna
@@ -125,6 +128,8 @@ security-no-owner = Sto scito o no me dixe de chi o l'e.
 media-select-folder = Seleçionn-a 'na cartella pe sarvâ e inmagini
 media-unknown-not-cached =
     .value = No conosciuo (no memorizou)
+permissions-use-default =
+    .label = Adeuvia predefinii
 security-no-visits = No
 # This string is used to display the type of
 # an image
