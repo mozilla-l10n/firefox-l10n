@@ -19,6 +19,8 @@ close-window =
 general-tab =
     .label = Ümumi
     .accesskey = G
+general-title =
+    .value = Başlıq:
 general-url =
     .value = URL:
 general-type =
@@ -87,9 +89,15 @@ security-view-identity-domain =
     .value = Web sayt:
 security-view-identity-verifier =
     .value = Təsdiqləyən:
+security-view-identity-validity =
+    .value = Vaxtı çıxma:
 security-view-privacy =
     .value = Məxfilik və Tarixçə
 security-view-privacy-history-value = Bu saytı daha əvvəl açmışam?
+security-view-privacy-sitedata-value = Bu sayt kompüterimdə məlumat saxlayırmı?
+security-view-privacy-clearsitedata =
+    .label = Çərəzlər və Sayt Məlumatlarını Təmizlə
+    .accesskey = C
 security-view-privacy-passwords-value = Bu sayta aid hər hansı bir parol saxlamışam?
 security-view-privacy-viewpasswords =
     .label = Saxlanılmış Parolları Gör
@@ -105,6 +113,10 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-cookies = Bəli, çərəzlər və { $value } { $unit } sayt məlumatı
+security-site-data-only = Bəli, { $value } { $unit } sayt məlumatı
+security-site-data-cookies-only = Bəli, çərəzlər
+security-site-data-no = Xeyr
 image-size-unknown = Bilinmir
 not-set-verified-by = Göstərilməyib
 not-set-alternative-text = Göstərilməyib
@@ -121,6 +133,7 @@ media-input = Daxil etmə
 media-video = Video
 media-audio = Ses
 saved-passwords-yes = Bəli
+saved-passwords-no = Xeyr
 no-page-title =
     .value = Başlıqsız səhifə:
 general-quirks-mode =
@@ -133,6 +146,7 @@ media-unknown-not-cached =
     .value = Naməlum (yaddaşda saxlanmadı)
 permissions-use-default =
     .label = Standartdan istifadə et
+security-no-visits = Xeyr
 # This string is used to display the type of
 # an image
 # Variables:
