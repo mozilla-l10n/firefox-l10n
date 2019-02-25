@@ -98,6 +98,7 @@ no-page-title =
 general-quirks-mode =
     .value = Modo de compatibilidade
 security-no-owner = Este site não fornece informações de propriedade.
+media-select-folder = Selecione uma pasta onde salvar as imagens
 permissions-use-default =
     .label = Usar o padrão
 security-no-visits = Não
