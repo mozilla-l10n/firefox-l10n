@@ -35,7 +35,7 @@ security-view-unknown = Ga e itsiwe
 security-view-identity-verifier =
     .value = E netefaditswe ke:
 security-view-technical =
-    .value = Ditshetlana tsa Botegeniki{ " " }
+    .value = Ditshetlana tsa Botegeniki
 help-button =
     .label = Thusa
 
