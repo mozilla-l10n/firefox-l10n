@@ -4,6 +4,7 @@
 
 print-setup =
     .title = ページ設定
+custom-prompt-title = ユーザー設定...
 basic-tab =
     .label = 書式とオプション
 format-group-label =
@@ -71,6 +72,8 @@ hf-page =
     .label = ページ #
 hf-page-and-total =
     .label = ページ # / #
+hf-custom =
+    .label = ユーザー設定...
 print-preview-window =
     .title = プリントプレビュー
 print-title =
