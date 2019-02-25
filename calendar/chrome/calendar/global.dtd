@@ -4,10 +4,10 @@
 
 <!ENTITY time.midnight "Meia noite" >
 <!ENTITY time.noon "Meio dia" >
+
 <!-- Day Names -->
 <!-- LOCALIZATION NOTE : Accesskeys for day.1.Ddd to day.7.Ddd are currently
      only used in Preferences > Views > Workweek groupbox -->
-
 <!ENTITY day.1.Ddd "dom" >
 <!ENTITY day.1.Ddd.accesskey "d">
 <!ENTITY day.2.Ddd "seg" >
@@ -46,6 +46,8 @@
 
 <!ENTITY onemonthbackward.tooltip "Recuar um mês" >
 <!ENTITY onemonthforward.tooltip "Avançar um mês" >
+<!ENTITY oneyearbackward.tooltip "Recuar um ano" >
+<!ENTITY oneyearforward.tooltip "Avançar um ano" >
 <!ENTITY showToday.tooltip "Ir para hoje">
 <!ENTITY onedayforward.tooltip "Avançar um dia">
 <!ENTITY onedaybackward.tooltip "Recuar um dia">
