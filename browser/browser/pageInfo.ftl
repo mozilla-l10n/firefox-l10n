@@ -11,6 +11,9 @@ menu-copy =
     .accesskey = о
 select-all =
     .key = A
+menu-select-all =
+    .label = Вибрати все
+    .accesskey = и
 close-window =
     .key = A
 general-tab =
@@ -34,6 +37,8 @@ general-encoding =
     .value = Кодування:
 general-meta-name =
     .label = Назва
+general-meta-content =
+    .label = Вміст
 media-tab =
     .label = Мультимедіа
     .accesskey = М
@@ -89,6 +94,10 @@ security-view-identity-validity =
 security-view-privacy =
     .value = Конфіденційність та історія
 security-view-privacy-history-value = Чи відвідувався цей сайт раніше?
+security-view-privacy-sitedata-value = Чи зберігає цей веб-сайт інформацію на моєму комп’ютері?
+security-view-privacy-clearsitedata =
+    .label = Стерти куки і дані сайтів
+    .accesskey = т
 security-view-privacy-passwords-value = Чи зберігаю я паролі для цього сайту?
 security-view-privacy-viewpasswords =
     .label = Переглянути збережені паролі
@@ -104,6 +113,10 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-cookies = Так, куки і { $value } { $unit } даних сайтів
+security-site-data-only = Так, { $value } { $unit } даних сайтів
+security-site-data-cookies-only = Так, куки
+security-site-data-no = Ні
 image-size-unknown = Невідомо
 not-set-verified-by = Не вказано
 not-set-alternative-text = Не вказано
@@ -121,10 +134,13 @@ media-video = Відео
 media-audio = Аудіо
 saved-passwords-yes = Так
 saved-passwords-no = Ні
+no-page-title =
+    .value = Сторінка без назви:
 general-quirks-mode =
     .value = Режим сумісності
 general-strict-mode =
     .value = Режим дотримання стандартів
+security-no-owner = Цей веб-сайт не надає інформації про власника.
 media-select-folder = Оберіть теку для збереження зображень
 media-unknown-not-cached =
     .value = Невідомо (не закешовано)
@@ -152,6 +168,11 @@ media-dimensions-scaled =
 #   $dimy (number) - The vertical size of an image
 media-dimensions =
     .value = { $dimx }px × { $dimy }px
+# This string is used to display the size of a media
+# file in kilobytes
+# Variables:
+#   $size (number) - The size of the media file in kilobytes
+media-file-size = { $size } КБ
 # This string is used to display the website name next to the
 # "Block Images" checkbox in the media tab
 # Variables:
