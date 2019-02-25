@@ -94,6 +94,10 @@ security-view-identity-validity =
 security-view-privacy =
     .value = Priwatnosć a historija
 security-view-privacy-history-value = Som se k toś tomu websedłoju južo do togo woglědał?
+security-view-privacy-sitedata-value = Składujo toś to websedło informacije na mójo licadle?
+security-view-privacy-clearsitedata =
+    .label = Cookieje a sedłowe daty wulašowaś
+    .accesskey = C
 security-view-privacy-passwords-value = Su se gronidła za toś to websedło składowali?
 security-view-privacy-viewpasswords =
     .label = Składowane gronidła se woglědaś
@@ -109,6 +113,10 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-cookies = Jo, cookieje a { $value } { $unit } sedłowych datow
+security-site-data-only = Jo, { $value } { $unit } sedłowych datow
+security-site-data-cookies-only = Jo, cookieje
+security-site-data-no = Ně
 image-size-unknown = Njeznaty
 not-set-verified-by = Njepódany
 not-set-alternative-text = Njepódany
