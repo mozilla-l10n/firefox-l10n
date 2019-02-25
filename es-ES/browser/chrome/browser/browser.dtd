@@ -996,6 +996,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Cookies">
 <!ENTITY contentBlocking.cookiesView.label "Cookies y datos del sitio">
 
+
+
 <!ENTITY contentBlocking.openBreakageReportView2.label "Informar de un problema">
 <!ENTITY contentBlocking.breakageReportView.label "Informar de problemas">
 <!ENTITY contentBlocking.breakageReportView2.description "El bloqueo de contenido puede causar problemas con algunos sitios. Cuando informa de problemas, ayuda a mejorar &brandShortName; para todos (esto enviará a Mozilla la URL junto con información de la configuración del navegador).">
@@ -1127,3 +1129,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Gestione sus complementos haciendo clic <image class='addon-addon-icon'/> en el menú <image class='addon-toolbar-icon'/>.">
+
+<!ENTITY addonPrivateBrowsing.header.label "Extensiones en ventanas privadas">
+<!ENTITY addonPrivateBrowsing.body.label "Por defecto, las extensiones no se ejecutan en las ventanas privadas. Ni se ejecutarán en la navegación privada ni podrán acceder a su actividad en línea. En los Ajustes podrá permitir que las extensiones se ejecuten en las ventanas privadas.">
+<!ENTITY addonPrivateBrowsing.okButton.label "Vale, entendido">
+<!ENTITY addonPrivateBrowsing.manageButton.label "Gestionar extensiones">

@@ -8,5 +8,6 @@
 -->
 
 <!ENTITY window.title "Noticias importantes">
+<!ENTITY sync "Para sincronizar la información que ya ha guardado en Firefox con esta instalación de &brandShortName;, inicie sesión con su &syncBrand.fxAccount.label;.">
 <!ENTITY continue-button "Continuar">
 
