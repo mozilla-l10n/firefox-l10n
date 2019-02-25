@@ -7,13 +7,8 @@ about-policies-title = Directivas d'interpresa
 active-policies-tab = Activas
 errors-tab = Errurs
 documentation-tab = Documentaziun
+no-specified-policies-message = Il servetsch Enterprise Policies è activ, ma naginas directivas èn activas.
+inactive-message = Il servetsch Enterprise Policies è inactiv.
 policy-name = Num da la directiva
 policy-value = Valur da la directiva
 policy-errors = Errurs da la directiva
-# 'gpo-machine-only' policies are related to the Group Policy features
-# on Windows. Please use the same terminology that is used on Windows
-# to describe Group Policy.
-# These policies can only be set at the computer-level settings, while
-# the other policies can also be set at the user-level.
-gpo-machine-only =
-    .title = Sche directivas da gruppa vegnan utilisadas, po questa directiva mo vegnir definida sin nivel dal computer.
