@@ -94,6 +94,7 @@ security-view-identity-validity =
 security-view-privacy =
     .value = தனியுரிமை & வரலாறு
 security-view-privacy-history-value = இன்று நான் இந்த இணையதளத்தை முன்பு பார்த்தேனா?
+security-view-privacy-sitedata-value = இந்த இணைய தளம் தகவல்களை என்னுடைய கணினியில் சேமிக்கிறதா?
 security-view-privacy-clearsitedata =
     .label = நினைவிகள் மற்றும் தள தரவை அழிக்கவும்
     .accesskey = C
