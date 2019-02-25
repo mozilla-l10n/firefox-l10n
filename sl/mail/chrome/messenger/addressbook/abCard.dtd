@@ -81,6 +81,7 @@
 <!ENTITY Day.placeholder                "Dan">
 <!ENTITY Year.placeholder               "leto">
 <!ENTITY Or.value                       "ali">
+<!ENTITY Age.label                      "Starost:">
 <!ENTITY Age.placeholder                "starost">
 <!ENTITY YearsOld.label                 "">
 
