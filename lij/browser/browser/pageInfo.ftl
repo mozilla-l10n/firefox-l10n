@@ -94,6 +94,10 @@ security-view-identity-validity =
 security-view-privacy =
     .value = Privacy & stöia
 security-view-privacy-history-value = T'æ za vixitou sto scito primma de ancheu?
+security-view-privacy-sitedata-value = Sto scito web o sarva informaçioin in sciô mæ computer?
+security-view-privacy-clearsitedata =
+    .label = Scancella Cookie e Dæti di Sciti
+    .accesskey = S
 security-view-privacy-passwords-value = Gh'ò de paròlle segrete sarvæ pe sto scito?
 security-view-privacy-viewpasswords =
     .label = Fanni vedde e paròlle segrete sarvæ
@@ -109,6 +113,10 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-cookies = Sci, cookie e { $value } { $unit } de dæti di sciti
+security-site-data-only = Sci, { $value } { $unit } de dæti di sciti
+security-site-data-cookies-only = Sci, cookie
+security-site-data-no = No
 image-size-unknown = no conosciuo
 not-set-verified-by = No specificou
 not-set-alternative-text = No specificou
