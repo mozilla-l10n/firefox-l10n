@@ -9,11 +9,17 @@
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+media-border-img = ขอบ
+media-list-img = จุดนำ
+media-cursor = เคอร์เซอร์
 media-object = วัตถุ
 media-embed = ฝังตัว
 media-link = ไอคอน
+media-video = วิดีโอ
+media-audio = เสียง
 saved-passwords-yes = ใช่
 saved-passwords-no = ไม่
+security-no-owner = เว็บไซต์นี้ไม่มีข้อมูลเจ้าของเว็บ
 media-unknown-not-cached =
     .value = ไม่ทราบ (ไม่ถูกแคช)
 security-no-visits = ไม่
