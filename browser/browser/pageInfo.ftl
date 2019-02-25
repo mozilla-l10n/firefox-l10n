@@ -2,6 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/. --
 
+general-encoding =
+    .value = Znaková sada textu:
+help-button =
+    .label = Nápověda
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -33,6 +37,8 @@ security-no-owner = Tato stránka neposkytuje informace o vlastníkovi
 media-select-folder = Zvolte složku pro uložení obrázků
 media-unknown-not-cached =
     .value = Neznámá (není v mezipaměti)
+permissions-use-default =
+    .label = Použít výchozí
 security-no-visits = Ne
 # This string is used to display the type of
 # an image
