@@ -111,6 +111,7 @@ general-quirks-mode =
     .value = حالت غیر استاندارد
 general-strict-mode =
     .value = حالت پیروی از استاندارد
+security-no-owner = این پایگاه وبی اطلاعی در مورد مالک خود ارائه نمی‌دهد.
 media-select-folder = پوشه‌ای برای ذخیرهٔ تصویر انتخاب کنید
 media-unknown-not-cached =
     .value = نامعلوم (در حافظهٔ نهان نیست)‏
