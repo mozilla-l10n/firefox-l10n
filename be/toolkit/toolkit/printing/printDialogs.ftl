@@ -108,3 +108,4 @@ print-complete =
 print-percent =
     .value = { $percent }%
 dialog-cancel-label = Скасаваць
+dialog-close-label = Закрыць
