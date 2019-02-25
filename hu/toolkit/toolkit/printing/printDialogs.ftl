@@ -4,6 +4,7 @@
 
 print-setup =
     .title = Oldalbeállítás
+custom-prompt-title = Egyéni…
 custom-prompt-prompt = Adja meg az egyéni élőfej- vagy élőlábszöveget
 basic-tab =
     .label = Formátum és beállítások
@@ -85,10 +86,14 @@ hf-page =
     .label = #. oldal
 hf-page-and-total =
     .label = # / # oldal
+hf-custom =
+    .label = Egyéni…
 print-preview-window =
     .title = Nyomtatási kép
 print-title =
     .value = Cím:
+print-preparing =
+    .value = Előkészítés…
 print-progress =
     .value = Folyamat:
 print-window =
