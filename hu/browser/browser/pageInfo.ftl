@@ -94,6 +94,10 @@ security-view-identity-validity =
 security-view-privacy =
     .value = Adatvédelem és előzmények
 security-view-privacy-history-value = Megnéztem már ezt a webhelyet korábban?
+security-view-privacy-sitedata-value = Tárol ez a webhely adatokat a számítógépemen?
+security-view-privacy-clearsitedata =
+    .label = Sütik és oldaladatok törlése
+    .accesskey = t
 security-view-privacy-passwords-value = Mentettem jelszavakat ehhez a webhelyhez?
 security-view-privacy-viewpasswords =
     .label = Mentett jelszavak megtekintése
@@ -109,6 +113,10 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-cookies = Igen, sütiket és { $value } { $unit } oldaladatot
+security-site-data-only = Igen, { $value } { $unit } oldaladatot
+security-site-data-cookies-only = Igen, sütiket
+security-site-data-no = Nem
 image-size-unknown = Ismeretlen
 not-set-verified-by = Nincs megadva
 not-set-alternative-text = Nincs megadva
