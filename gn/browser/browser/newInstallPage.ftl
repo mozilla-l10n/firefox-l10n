@@ -11,9 +11,11 @@ title = Marandu iporãva
 changed-title = ¿Mba'e iñambue?
 options-title = ¿Mba’épa umi poravorã?
 resources = Mba’eita:
+support-link = Aipuruhína mba’ete ñangarekoha – Pytyvõha jehaipy
 sync-header = Eñepyrũ tembiapo térã emoheñói peteĩ { -fxaccount-brand-name }
 sync-label = Emoinge ne ñanduti veve
 sync-input =
     .placeholder = Ñanduti veve
 sync-button = Ku'ejey
+sync-terms = Eku’ejeývo, emoneĩ ko’ã <a data-l10n-name="terms">Mba'epytyvõrã ñemboguata</a> ha pe <a data-l10n-name="privacy">Ñemigua marandu’i</a>.
 sync-learn = Kuaave
