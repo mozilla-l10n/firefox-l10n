@@ -76,7 +76,11 @@ not-set-verified-by = Não especificado
 not-set-alternative-text = Não especificado
 not-set-date = Não especificado
 media-img = Imagem
+media-border-img = Borda
+media-list-img = Marcador
+media-cursor = Cursor
 media-object = Objeto
+media-embed = Integrado
 media-link = Ícone
 media-video = Vídeo
 media-audio = Áudio
@@ -84,6 +88,8 @@ saved-passwords-yes = Sim
 saved-passwords-no = Não
 no-page-title =
     .value = Página sem título:
+permissions-use-default =
+    .label = Usar o padrão
 security-no-visits = Não
 # This string is used to display the type of
 # an image
