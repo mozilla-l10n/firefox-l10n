@@ -118,6 +118,8 @@ security-no-owner = لا يقدّم موقع الوب هذا معلومات عن
 media-select-folder = اختر مجلدا لحفظ الصور
 media-unknown-not-cached =
     .value = غير معروف (ليس في الذّاكرة المؤقّتة)
+permissions-use-default =
+    .label = استخدم المبدئي
 security-no-visits = لا
 # This string is used to display the type of
 # an image
