@@ -128,6 +128,7 @@ media-list-img = Viñeta
 media-cursor = Cursor
 media-object = Objeto
 media-embed = Anidar
+media-link = Ícono
 media-input = Entrada
 media-video = Video
 media-audio = Audio
