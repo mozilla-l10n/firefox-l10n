@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/. --
 
+page-info-window =
+    .style = width: 610px; min-height: 550px;
 copy =
     .key = C
 menu-copy =
@@ -29,6 +31,8 @@ general-referrer =
     .value = Dirección de referencia:
 general-modified =
     .value = Modificado:
+general-encoding =
+    .value = Codificación del texto:
 general-meta-name =
     .label = Nombre
 general-meta-content =
@@ -89,6 +93,8 @@ security-view-privacy-history-value = ¿He visitado este sitio web anteriormente
 security-view-privacy-passwords-value = ¿He guardado contraseñas de este sitio web?
 security-view-technical =
     .value = Detalles técnicos
+help-button =
+    .label = Ayuda
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
