@@ -81,6 +81,7 @@ security-view-identity-verifier =
     .value = Vérifiée par :{ " " }
 security-view-privacy =
     .value = Vie privée et historique
+security-view-privacy-sitedata-value = Ce site web conserve-t-il des informations sur mon ordinateur ?
 security-view-technical =
     .value = Détails techniques
 
