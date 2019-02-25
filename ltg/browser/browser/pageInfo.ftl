@@ -94,6 +94,10 @@ security-view-identity-validity =
 security-view-privacy =
     .value = Privatums i viesture
 security-view-privacy-history-value = Voi es itū lopu šudiņ jau asmu apmekliejs?
+security-view-privacy-sitedata-value = Voi itei vītne globoj kaidu informaceju munā datorā?
+security-view-privacy-clearsitedata =
+    .label = Dzēst seikdatnes un lopu datus
+    .accesskey = D
 security-view-privacy-passwords-value = Voi maņ ir saglobuotys paroles itai lopai?
 security-view-privacy-viewpasswords =
     .label = Skateitīs saglobuotuos paroles
@@ -109,6 +113,10 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-cookies = Jā, seikdatnes un { $value } { $unit } lopys datu
+security-site-data-only = Jā, { $value } { $unit } lopys datu
+security-site-data-cookies-only = Jā, seikdatnes
+security-site-data-no = Nā
 image-size-unknown = Nazynuoms
 not-set-verified-by = Nav nūruodeits
 not-set-alternative-text = Nav nūruodeits
