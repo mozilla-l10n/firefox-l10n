@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/. --
 
+page-info-window =
+    .style = width: 600px; min-height: 550px;
 select-all =
     .key = A
 close-window =
@@ -9,6 +11,8 @@ close-window =
 general-tab =
     .label = ទូទៅ
     .accesskey = G
+general-encoding =
+    .value = ការ​បម្លែង​អត្ថបទ៖
 general-meta-name =
     .label = ឈ្មោះ
 general-meta-content =
@@ -61,6 +65,8 @@ security-view-privacy-viewpasswords =
     .accesskey = w
 security-view-technical =
     .value = សេចក្តី​​លម្អិត​អំពី​​បច្ចេកទេស
+help-button =
+    .label = ជំនួយ
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
