@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/. --
 
+page-info-window =
+    .style = width: 600px; min-height: 550px;
 copy =
     .key = C
 menu-copy =
@@ -17,6 +19,8 @@ close-window =
 general-tab =
     .label = Allmänt
     .accesskey = A
+general-title =
+    .value = Titel:
 general-url =
     .value = Adress:
 general-type =
@@ -29,6 +33,8 @@ general-referrer =
     .value = Anvisande URL:
 general-modified =
     .value = Ändrad:
+general-encoding =
+    .value = Teckenkodning:
 general-meta-name =
     .label = Namn
 general-meta-content =
@@ -90,6 +96,8 @@ security-view-privacy-viewpasswords =
     .accesskey = ö
 security-view-technical =
     .value = Tekniska detaljer
+help-button =
+    .label = Hjälp
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
