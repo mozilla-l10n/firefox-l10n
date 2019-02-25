@@ -120,6 +120,8 @@ security-no-owner = این پایگاه وبی اطلاعی در مورد مال
 media-select-folder = پوشه‌ای برای ذخیرهٔ تصویر انتخاب کنید
 media-unknown-not-cached =
     .value = نامعلوم (در حافظهٔ نهان نیست)‏
+permissions-use-default =
+    .label = استفاده از مقدار پیش‌فرض
 security-no-visits = خیر
 # This string is used to display the type of
 # an image
