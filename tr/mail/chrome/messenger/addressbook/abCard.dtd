@@ -77,8 +77,11 @@
 <!ENTITY Birthday.label                 "Doğum günü:">
 <!ENTITY Birthday.accesskey             "D">
 <!ENTITY In.label                       "">
+<!ENTITY Month.placeholder              "Ay">
+<!ENTITY Day.placeholder                "Gün">
 <!ENTITY Year.placeholder               "Yıl">
 <!ENTITY Or.value                       "veya">
+<!ENTITY Age.label                      "Yaş:">
 <!ENTITY Age.placeholder                "Yaş">
 <!ENTITY YearsOld.label                 "">
 
