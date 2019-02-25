@@ -89,9 +89,15 @@ security-view-identity-domain =
     .value = ওয়েব-সাইট:{ " " }
 security-view-identity-verifier =
     .value = অনুমোদনকারী:{ " " }
+security-view-identity-validity =
+    .value = মেয়াদ পূরণের তারিখ:
 security-view-privacy =
     .value = গোপনীয়তা এবং পূর্ববর্তী তথ্য
 security-view-privacy-history-value = আজকের আগে কোনো সময় এই ওয়েব-সাইট আমি পরিদর্শন করেছি কি?
+security-view-privacy-sitedata-value = এই ওয়েবসাইটি কি আমার কম্পিউটারে তথ্য সংরক্ষণ করছে?
+security-view-privacy-clearsitedata =
+    .label = কুকি এবং সাইটের ডেটা পরিষ্কার করুন
+    .accesskey = C
 security-view-privacy-passwords-value = এই ওয়েব-সাইটের জন্য কোনো পাসওয়ার্ড আমি সংরক্ষণ করেছি কি?
 security-view-privacy-viewpasswords =
     .label = সংরক্ষিত পাসওয়ার্ড দেখুন
@@ -107,6 +113,10 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-cookies = হ্যাঁ, কুকি এবং সাইটের ডেটার { $value } { $unit }
+security-site-data-only = হ্যাঁ, সাইটের ডেটার { $value } { $unit }
+security-site-data-cookies-only = হ্যাঁ, কুকি
+security-site-data-no = না
 image-size-unknown = অজানা
 not-set-verified-by = নির্ধারিত নয়
 not-set-alternative-text = নির্ধারিত নয়
