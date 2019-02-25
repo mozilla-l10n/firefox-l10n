@@ -5,9 +5,13 @@
 menu-copy =
     .label = Copiar
     .accesskey = C
+select-all =
+    .key = a
 menu-select-all =
     .label = Selecionar tudo
     .accesskey = S
+close-window =
+    .key = a
 general-tab =
     .label = Geral
     .accesskey = G
