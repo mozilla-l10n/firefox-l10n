@@ -117,6 +117,8 @@ security-no-owner = Chan eil an làrach-lìn seo a' nochdadh fiosrachadh mu na s
 media-select-folder = Tagh pasgan san dèid na dealbhan a shàbhaladh
 media-unknown-not-cached =
     .value = Neo-aithnichte (gun tasgadh)
+permissions-use-default =
+    .label = Cleachd an roghainn bhunaiteach
 security-no-visits = Chan eil
 # This string is used to display the type of
 # an image
