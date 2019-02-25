@@ -9,11 +9,16 @@ menu-copy =
     .accesskey = K
 select-all =
     .key = A
+menu-select-all =
+    .label = Alles auswählen
+    .accesskey = u
 close-window =
     .key = A
 general-tab =
     .label = Allgemein
     .accesskey = A
+general-title =
+    .value = Titel:
 general-url =
     .value = Adresse:
 general-type =
@@ -80,9 +85,15 @@ security-view-identity-domain =
     .value = Website:{ " " }
 security-view-identity-verifier =
     .value = Validiert von:{ " " }
+security-view-identity-validity =
+    .value = Gültig bis:
 security-view-privacy =
     .value = Datenschutz & Chronik
 security-view-privacy-history-value = Habe ich diese Website früher schon einmal besucht?
+security-view-privacy-sitedata-value = Speichert diese Website Daten auf meinem Computer?
+security-view-privacy-clearsitedata =
+    .label = Cookies und Website-Daten löschen
+    .accesskey = C
 security-view-privacy-passwords-value = Habe ich Passwörter für diese Website gespeichert?
 security-view-privacy-viewpasswords =
     .label = Gespeicherte Passwörter anzeigen
@@ -96,12 +107,19 @@ security-view-technical =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-cookies = Ja, Cookies und { $value } { $unit } Website-Daten
+security-site-data-only = Ja, { $value } { $unit } Website-Daten
+security-site-data-cookies-only = Ja, Cookies
+security-site-data-no = Nein
 image-size-unknown = Unbekannt
 not-set-verified-by = Nicht angegeben
 not-set-alternative-text = Nicht angegeben
 not-set-date = Nicht angegeben
 media-img = Grafik
 media-bg-img = Hintergrund
+media-border-img = Rahmengrafik
+media-list-img = Aufzählungssymbol
+media-cursor = Mauszeiger
 media-object = Objekt
 media-embed = Eingebettet
 media-link = Symbol
@@ -120,6 +138,8 @@ security-no-owner = Diese Website stellt keine Informationen über den Besitzer 
 media-select-folder = Wählen Sie einen Ordner, um die Grafiken zu speichern
 media-unknown-not-cached =
     .value = Unbekannt (nicht gecacht)
+permissions-use-default =
+    .label = Standard verwenden
 security-no-visits = Nein
 # This string is used to display the type of
 # an image
@@ -154,3 +174,11 @@ media-file-size = { $size } KB
 media-block-image =
     .label = Grafiken von { $website } blockieren
     .accesskey = G
+# This string is used to display the URL of the website on top of the
+# pageInfo dialog box
+# Variables:
+#   $website (string) - The url of the website pageInfo is getting info for
+page-info-page =
+    .title = Seiteninformationen - { $website }
+page-info-frame =
+    .title = Frame-Informationen - { $website }
