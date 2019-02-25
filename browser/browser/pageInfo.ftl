@@ -87,6 +87,7 @@ security-view-identity-validity =
     .value = Expira em:
 security-view-privacy =
     .value = Privacidade e histórico
+security-view-privacy-sitedata-value = Este site está armazenando informações no meu computador?
 security-view-privacy-viewpasswords =
     .label = Ver senhas salvas
     .accesskey = s
@@ -101,6 +102,10 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-cookies = Sim, cookies e { $value } { $unit } de dados do site
+security-site-data-only = Sim, { $value } { $unit } de dados do site
+security-site-data-cookies-only = Sim, cookies
+security-site-data-no = Não
 image-size-unknown = Desconhecido
 not-set-verified-by = Não especificado
 not-set-alternative-text = Não especificado
