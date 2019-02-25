@@ -15,10 +15,15 @@ not-set-alternative-text = Ekki skilgreint
 not-set-date = Ekki skilgreint
 media-img = Mynd
 media-bg-img = Bakgrunnur
+media-border-img = Jaðar
+media-list-img = Áherslumerki
+media-cursor = Bendill
 media-object = Finna hlut
 media-embed = Ívefja
 media-link = Táknmynd
 media-input = Inntak
+media-video = Myndband
+media-audio = Hljóð
 saved-passwords-yes = Já
 saved-passwords-no = Nei
 no-page-title =
@@ -30,6 +35,8 @@ general-strict-mode =
 media-select-folder = Veldu möppu til að vista myndirnar
 media-unknown-not-cached =
     .value = Óþekkt (ekki í skyndiminni)
+permissions-use-default =
+    .label = Nota sjálfgefið
 security-no-visits = Nei
 # This string is used to display the type of
 # an image
