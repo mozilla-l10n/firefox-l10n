@@ -90,6 +90,8 @@ security-view-privacy-viewpasswords =
     .accesskey = w
 security-view-technical =
     .value = Техникаҕа сыһыаннаах информация
+help-button =
+    .label = Көмө
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
