@@ -12,10 +12,15 @@
 image-size-unknown = Neznámý
 media-img = Obrázek
 media-bg-img = Pozadí
+media-border-img = Rámeček
+media-list-img = Odrážka
+media-cursor = Kurzor
 media-object = Objekt
 media-embed = Vložený
 media-link = Ikona
 media-input = Vstup
+media-video = Video
+media-audio = Audio
 saved-passwords-yes = Ano
 saved-passwords-no = Ne
 no-page-title =
@@ -26,6 +31,8 @@ general-strict-mode =
     .value = Režim platných standardů
 security-no-owner = Tato stránka neposkytuje informace o vlastníkovi
 media-select-folder = Zvolte složku pro uložení obrázků
+media-unknown-not-cached =
+    .value = Neznámá (není v mezipaměti)
 security-no-visits = Ne
 # This string is used to display the type of
 # an image
