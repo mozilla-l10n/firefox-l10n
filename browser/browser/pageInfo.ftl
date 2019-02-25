@@ -106,3 +106,9 @@ security-no-visits = இல்லை
 #   $type (string) - The type of an image
 media-image-type =
     .value = { $type } படம்
+# This string is used to display the size of an image in pixels
+# Variables:
+#   $dimx (number) - The horizontal size of an image
+#   $dimy (number) - The vertical size of an image
+media-dimensions =
+    .value = { $dimx }px × { $dimy }px
