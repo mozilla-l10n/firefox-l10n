@@ -101,6 +101,8 @@ security-no-owner = یہ ویب سائٹ مالکیت کی معلومات نہی
 media-select-folder = نقوش محفوظ کرنے کے لیے پوشہ منتخب کریں
 media-unknown-not-cached =
     .value = نامعلوم (کیسہ نہیں کیا گیا)
+permissions-use-default =
+    .label = طے شدہ استعمال کریں
 security-no-visits = نہیں
 # This string is used to display the type of
 # an image
