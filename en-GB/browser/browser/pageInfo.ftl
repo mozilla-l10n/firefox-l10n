@@ -19,6 +19,8 @@ close-window =
 general-tab =
     .label = General
     .accesskey = G
+general-title =
+    .value = Title:
 general-url =
     .value = Address:
 general-type =
@@ -31,6 +33,8 @@ general-referrer =
     .value = Referring URL:
 general-modified =
     .value = Modified:
+general-encoding =
+    .value = Text Encoding:
 general-meta-name =
     .label = Name
 general-meta-content =
@@ -85,6 +89,8 @@ security-view-identity-domain =
     .value = Web site:
 security-view-identity-verifier =
     .value = Verified by:
+security-view-identity-validity =
+    .value = Expires on:
 security-view-privacy =
     .value = Privacy & History
 security-view-privacy-history-value = Have I visited this web site before today?
@@ -94,6 +100,8 @@ security-view-privacy-viewpasswords =
     .accesskey = w
 security-view-technical =
     .value = Technical Details
+help-button =
+    .label = Help
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -107,6 +115,9 @@ not-set-alternative-text = Not specified
 not-set-date = Not specified
 media-img = Image
 media-bg-img = Background
+media-border-img = Border
+media-list-img = Bullet
+media-cursor = Cursor
 media-object = Object
 media-embed = Embed
 media-link = Icon
@@ -125,6 +136,8 @@ security-no-owner = This web site does not supply ownership information.
 media-select-folder = Select a Folder to Save the Images
 media-unknown-not-cached =
     .value = Unknown (not cached)
+permissions-use-default =
+    .label = Use Default
 security-no-visits = No
 # This string is used to display the type of
 # an image
