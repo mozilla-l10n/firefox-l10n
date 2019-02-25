@@ -93,6 +93,12 @@ security-view-identity-validity =
     .value = Канчаецца:
 security-view-privacy =
     .value = Прыватнасць і бяспека
+security-view-privacy-history-value = Ці я наведваў гэты вэб-сайт раней?
+security-view-privacy-sitedata-value = Ці захоўвае гэты вэб-сайт звесткі на маім камп'ютары?
+security-view-privacy-clearsitedata =
+    .label = Выдаліць кукі і дадзеныя сайтаў
+    .accesskey = В
+security-view-privacy-passwords-value = Ці я захаваў які-небудзь пароль для гэтага вэб-сайта?
 security-view-privacy-viewpasswords =
     .label = Прагледзець захаваныя паролі
     .accesskey = п
@@ -107,6 +113,10 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-cookies = Так, кукі і { $value } { $unit } дадзеных з сайта
+security-site-data-only = Так, { $value } { $unit } дадзеных з сайта
+security-site-data-cookies-only = Так, кукі
+security-site-data-no = Не
 image-size-unknown = Невядомы
 not-set-verified-by = Не вызначаны
 not-set-alternative-text = Не вызначаны
