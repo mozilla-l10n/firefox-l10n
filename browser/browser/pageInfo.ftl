@@ -46,10 +46,17 @@ media-size =
     .label = Grutte
 media-count =
     .label = Oantal
+media-dimension =
+    .value = Ofmjittingen:
 media-long-desc =
     .value = Lange omskriuwing:
 media-preview =
     .value = Mediafoarbyld:
+perm-tab =
+    .label = Tastimmingen
+    .accesskey = T
+permissions-for =
+    .value = Tastimmingen foar:
 security-tab =
     .label = Befeiliging
     .accesskey = B
@@ -77,6 +84,10 @@ not-set-verified-by = Net spesifisearre
 not-set-alternative-text = Net spesifisearre
 not-set-date = Net spesifisearre
 media-img = Ofbylding
+media-bg-img = Eftergrûn
+media-border-img = Râne
+media-list-img = Opsommingsteken
+media-cursor = Kursor
 media-object = Objekt
 media-embed = Embed
 media-link = Piktogram
@@ -87,6 +98,7 @@ saved-passwords-yes = Ja
 saved-passwords-no = Nee
 no-page-title =
     .value = Titelleaze side
+media-select-folder = Selektearje in map foar it bewarjen fan de ôfbyldingen
 media-unknown-not-cached =
     .value = Net bekend (net buffere)
 security-no-visits = Nee
@@ -96,6 +108,21 @@ security-no-visits = Nee
 #   $type (string) - The type of an image
 media-image-type =
     .value = { $type } Ofbylding
+# This string is used to display the size of a scaled image
+# in both scaled and unscaled pixels
+# Variables:
+#   $dimx (number) - The horizontal size of an image
+#   $dimy (number) - The vertical size of an image
+#   $scaledx (number) - The scaled horizontal size of an image
+#   $scaledy (number) - The scaled vertical size of an image
+media-dimensions-scaled =
+    .value = { $dimx }px × { $dimy }px (ferskaald ta { $scaledx }px × { $scaledy }px)
+# This string is used to display the size of an image in pixels
+# Variables:
+#   $dimx (number) - The horizontal size of an image
+#   $dimy (number) - The vertical size of an image
+media-dimensions =
+    .value = { $dimx }px × { $dimy }px
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
