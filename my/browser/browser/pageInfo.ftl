@@ -49,6 +49,20 @@ media-video = ဗီဒီယို
 #   $type (string) - The type of an image
 media-image-type =
     .value = { $type } ရုပ်ပုံ
+# This string is used to display the size of a scaled image
+# in both scaled and unscaled pixels
+# Variables:
+#   $dimx (number) - The horizontal size of an image
+#   $dimy (number) - The vertical size of an image
+#   $scaledx (number) - The scaled horizontal size of an image
+#   $scaledy (number) - The scaled vertical size of an image
+media-dimensions-scaled =
+    .value = { $dimx }px × { $dimy }px ({ $scaledx }px × { $scaledy }px သို့ ချိန်ညှိထားသည်။)
+# This string is used to display the size of a media
+# file in kilobytes
+# Variables:
+#   $size (number) - The size of the media file in kilobytes
+media-file-size = { $size } KB
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 # Variables:
