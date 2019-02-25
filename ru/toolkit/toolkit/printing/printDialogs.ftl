@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 custom-prompt-prompt = Введите собственный текст колонтитула
+print-preparing =
+    .value = Подготовка…
 print-progress =
     .value = Прогресс:
 print-complete =
