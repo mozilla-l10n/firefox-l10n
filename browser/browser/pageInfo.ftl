@@ -107,6 +107,8 @@ general-quirks-mode =
     .value = Mod de compatibilitate
 general-strict-mode =
     .value = Respectă standardele
+permissions-use-default =
+    .label = Folosește setările implicite
 security-no-visits = Nu
 # This string is used to display the type of
 # an image
