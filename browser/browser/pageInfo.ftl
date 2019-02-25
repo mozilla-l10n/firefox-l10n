@@ -9,6 +9,9 @@ menu-copy =
     .accesskey = C
 select-all =
     .key = A
+menu-select-all =
+    .label = সকলো বাছক
+    .accesskey = A
 close-window =
     .key = A
 general-tab =
@@ -16,6 +19,8 @@ general-tab =
     .accesskey = G
 general-url =
     .value = ঠিকনা:
+general-type =
+    .value = ধৰণ:
 general-mode =
     .value = প্ৰদৰ্শনৰ ধৰণ:
 general-size =
@@ -49,11 +54,22 @@ media-dimension =
     .value = আয়তন:
 media-long-desc =
     .value = দীঘল বিৱৰণ:
+media-save-as =
+    .label = এই ধৰণে সংৰক্ষণ কৰক…
+    .accesskey = A
+media-save-image-as =
+    .label = এই ধৰণে সংৰক্ষণ কৰক…
+    .accesskey = e
 media-preview =
     .value = মাধ্যমৰ পূৰ্ব প্ৰদৰ্শন:
 perm-tab =
     .label = অনুমতিসমূহ
     .accesskey = P
+permissions-for =
+    .value = চিহ্নিত কাৰ্য্যৰ বাবে অনুমতি:
+security-tab =
+    .label = সুৰক্ষা
+    .accesskey = S
 security-view =
     .label = প্ৰমাণপত্ৰ চাওক
     .accesskey = V
@@ -61,6 +77,15 @@ security-view-unknown = অজ্ঞাত
     .value = অজ্ঞাত
 security-view-identity =
     .value = ৱেব ছাইটৰ পৰিচয়
+security-view-identity-owner =
+    .value = গৰাকী:
+security-view-identity-domain =
+    .value = ৱেবছাইট:
+security-view-identity-verifier =
+    .value = চিহ্নিত ব্যক্তি অথবা সংঘঠন দ্বাৰা প্ৰমাণিত কৰা হৈছে:
+security-view-privacy-history-value = আজিৰ পূৰ্বে মই এই ৱেব ছাইটত আহিছো নে?
+security-view-technical =
+    .value = কাৰিকৰী বিৱৰণসমূহ
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -95,6 +120,8 @@ security-no-owner = এই ৱেব ছাইটে গৰাকীৰ তথ�
 media-select-folder = ছবি সংৰক্ষণ কৰিবলৈ এটা ফোল্ডাৰ নিৰ্বাচন কৰক
 media-unknown-not-cached =
     .value = অজ্ঞাত (ক্যাশ কৰা হোৱা নাই)
+permissions-use-default =
+    .label = অবিকল্পিত ব্যৱহাৰ কৰক
 security-no-visits = নহয়
 # This string is used to display the type of
 # an image
@@ -102,6 +129,21 @@ security-no-visits = নহয়
 #   $type (string) - The type of an image
 media-image-type =
     .value = { $type } ছবি
+# This string is used to display the size of a scaled image
+# in both scaled and unscaled pixels
+# Variables:
+#   $dimx (number) - The horizontal size of an image
+#   $dimy (number) - The vertical size of an image
+#   $scaledx (number) - The scaled horizontal size of an image
+#   $scaledy (number) - The scaled vertical size of an image
+media-dimensions-scaled =
+    .value = { $dimx }px × { $dimy }px ({ $scaledx }px × { $scaledy }px লে স্কেইল্ড)
+# This string is used to display the size of an image in pixels
+# Variables:
+#   $dimx (number) - The horizontal size of an image
+#   $dimy (number) - The vertical size of an image
+media-dimensions =
+    .value = { $dimx }px × { $dimy }px
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
