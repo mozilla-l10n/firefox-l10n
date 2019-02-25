@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/. --
 
+page-info-window =
+    .style = width: 600px; min-height: 550px;
 copy =
     .key = j
 menu-copy =
@@ -90,6 +92,8 @@ security-view-privacy-viewpasswords =
     .accesskey = W
 security-view-technical =
     .value = Kitekitên Teknîkî
+help-button =
+    .label = Alîkarî
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
