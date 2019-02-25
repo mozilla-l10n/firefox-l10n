@@ -2,20 +2,100 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/. --
 
+page-info-window =
+    .style = width: 600px; min-height: 550px;
 menu-copy =
     .label = Wachib'exïk
     .accesskey = c
+select-all =
+    .key = A
 menu-select-all =
     .label = Rucha'ik ronojel
     .accesskey = r
+close-window =
+    .key = A
+general-tab =
+    .label = Chijun
+    .accesskey = O
+general-title =
+    .value = B'i'aj:
+general-url =
+    .value = Ochochib'äl:
+general-type =
+    .value = Ruwäch:
+general-mode =
+    .value = Pa'äl pa chuwäch rub'anikil:
+general-size =
+    .value = Nimilem:
+general-referrer =
+    .value = Atux JAY:
+general-modified =
+    .value = K'exon:
+general-encoding =
+    .value = Rucholajil rucholajem tzij:
 general-meta-name =
     .label = B'i'aj
+general-meta-content =
+    .label = rupam
+media-tab =
+    .label = K'ïy k'oxom
+    .accesskey = K
+media-location =
+    .value = Ochochib'al:
+media-text =
+    .value = Ximon chi rucholajem tzij:
+media-alt-header =
+    .label = Cha'el rucholajem tzij
+media-address =
+    .label = Ochochib'äl
 media-type =
     .label = Ruwäch
+media-size =
+    .label = Nimilem
+media-count =
+    .label = Rub'i' taqoya'l
 media-dimension =
     .value = Runimilem:
+media-long-desc =
+    .value = Nïm cholonem:
+media-save-as =
+    .label = Tiyak achi'el…
+    .accesskey = A
+media-save-image-as =
+    .label = Tiyak achi'el…
+    .accesskey = e
+media-preview =
+    .value = Nab'ey rutzub'al q'ojom:
+perm-tab =
+    .label = Taq ya'oj q'ij
+    .accesskey = P
+permissions-for =
+    .value = Taq ruya'ik q'ij richin:
+security-tab =
+    .label = Chajinïk
+    .accesskey = S
+security-view =
+    .label = Tatz'eta' ruwujil b'i'aj
+    .accesskey = W
 security-view-unknown = Man etaman ta ruwäch
     .value = Man etaman ta ruwäch
+security-view-identity =
+    .value = Ruk'utwachib'al ruxaq k'amaya'l
+security-view-identity-owner =
+    .value = Rajaw
+security-view-identity-domain =
+    .value = Ruxaq k'amaya'l:
+security-view-identity-verifier =
+    .value = Jikib'an ruma:
+security-view-identity-validity =
+    .value = Nik'is ruq'ijul ri:
+security-view-privacy =
+    .value = Ichinanem chuqa' natab'äl
+security-view-privacy-history-value = ¿La nintz'ët chik re jun ruxaq k'amaya'l re'?
+security-view-privacy-passwords-value = ¿La xeyak ewan taq rutzij re ruxaq k'amaya'l re'?
+security-view-privacy-viewpasswords =
+    .label = Ketz'et ri yakäl ewan taq tzij
+    .accesskey = w
 security-view-technical =
     .value = Retal ajsamajel
 
@@ -26,10 +106,73 @@ security-view-technical =
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
 image-size-unknown = Man etaman ta ruwäch
+not-set-verified-by = Man ya'on ta retal
+not-set-alternative-text = Man ya'on ta retal
+not-set-date = Man ya'on ta retal
+media-img = Wachib'äl
+media-bg-img = Rupam
+media-border-img = Ruchi'
+media-list-img = Weqoj
+media-cursor = Retal ch'oy
 media-object = Wachinäq
+media-embed = Tik'ase'
+media-link = Wachib'äl
+media-input = Okitz'ib'
+media-video = Silowachib'äl
 media-audio = K'oxomal
+saved-passwords-yes = Ja'
+saved-passwords-no = Mani
+no-page-title =
+    .value = Majun rub'i' ri ruxaq:
+general-quirks-mode =
+    .value = Rub'eyal  nuk'än
+general-strict-mode =
+    .value = K'omonel rub'anikil kik'in jikïl taq b'eyal
+security-no-owner = Re jun ruxaq k'amaya'l re' man nuya' ta rutzijol chi rij ri rajaw.
+media-select-folder = Tacha' jun yakb'äl akuchi' yatikir nayäk ri taq wachb'äl
+media-unknown-not-cached =
+    .value = Man etaman ta ruwäch (man jumejyak ta)
+permissions-use-default =
+    .label = Tokisäx ri ruk'amon wi pe
+security-no-visits = Mani
+# This string is used to display the type of
+# an image
+# Variables:
+#   $type (string) - The type of an image
+media-image-type =
+    .value = { $type } Wachib'äl
+# This string is used to display the size of a scaled image
+# in both scaled and unscaled pixels
+# Variables:
+#   $dimx (number) - The horizontal size of an image
+#   $dimy (number) - The vertical size of an image
+#   $scaledx (number) - The scaled horizontal size of an image
+#   $scaledy (number) - The scaled vertical size of an image
+media-dimensions-scaled =
+    .value = { $dimx }px × { $dimy }px (jotob'an pa { $scaledx }px × { $scaledy }px)
+# This string is used to display the size of an image in pixels
+# Variables:
+#   $dimx (number) - The horizontal size of an image
+#   $dimy (number) - The vertical size of an image
+media-dimensions =
+    .value = { $dimx }px × { $dimy }px
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
 #   $size (number) - The size of the media file in kilobytes
 media-file-size = { $size } KB
+# This string is used to display the website name next to the
+# "Block Images" checkbox in the media tab
+# Variables:
+#   $website (string) - The website name
+media-block-image =
+    .label = Keq'at taq ruwachib'al { $website }
+    .accesskey = B
+# This string is used to display the URL of the website on top of the
+# pageInfo dialog box
+# Variables:
+#   $website (string) - The url of the website pageInfo is getting info for
+page-info-page =
+    .title = Na'oj pa ruwi' re ruxaq - { $website }
+page-info-frame =
+    .title = Na'oj chi rij re ruchi' re' - { $website }
