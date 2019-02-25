@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+print-setup =
+    .title = பக்க அமைவு
 custom-prompt-title = தனிபயன்…
 custom-prompt-prompt = உங்கள் தனிபயன் தலைப்பை உள்நுழை/அடிக்குறிப்பு உரை
 format-group-label =
@@ -80,12 +82,16 @@ hf-page-and-total =
     .label = பக்கம் # of #
 hf-custom =
     .label = தனிபயன்…
+print-preview-window =
+    .title = அச்சு முன்பார்வை
 print-title =
     .value = தலைப்பு:
 print-preparing =
     .value = தயாராகிறது..
 print-progress =
     .value = செயல்படுகிறது:
+print-window =
+    .title = அச்சிடுகிறது
 print-complete =
     .value = அச்சடித்தல் முடிந்தது.
 # Variables
