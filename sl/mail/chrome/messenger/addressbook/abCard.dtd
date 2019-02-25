@@ -77,6 +77,8 @@
 <!ENTITY Birthday.label                 "Datum rojstva:">
 <!ENTITY Birthday.accesskey             "r">
 <!ENTITY In.label                       "">
+<!ENTITY Month.placeholder              "Mesec">
+<!ENTITY Day.placeholder                "Dan">
 <!ENTITY Year.placeholder               "leto">
 <!ENTITY Or.value                       "ali">
 <!ENTITY Age.placeholder                "starost">
