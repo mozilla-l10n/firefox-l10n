@@ -2,6 +2,64 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/. --
 
+copy =
+    .key = C
+menu-copy =
+    .label = Copïo
+    .accesskey = C
+general-url =
+    .value = Cyfeiriad:
+general-type =
+    .value = Math:
+general-mode =
+    .value = Modd Llunio:
+general-size =
+    .value = Maint:
+general-referrer =
+    .value = URL cyfeirio:
+general-modified =
+    .value = Newidiwyd:
+general-meta-name =
+    .label = Enw
+general-meta-content =
+    .label = Cynnwys
+media-location =
+    .value = Lleoliad:
+media-text =
+    .value = Testun Cysylltiedig:
+media-alt-header =
+    .label = Testun Arall
+media-address =
+    .label = Cyfeiriad
+media-type =
+    .label = Math
+media-size =
+    .label = Maint
+media-count =
+    .label = Cyfrif
+media-dimension =
+    .value = Maint:
+media-long-desc =
+    .value = Disgrifiad Hir:
+media-preview =
+    .value = Rhagolwg Cyfrwng:
+permissions-for =
+    .value = Caniatâd ar gyfer:
+security-view-unknown = Anhysbys
+    .value = Anhysbys
+security-view-identity =
+    .value = Enw Gwefan
+security-view-identity-owner =
+    .value = Perchennog:
+security-view-identity-domain =
+    .value = Gwefan:
+security-view-identity-verifier =
+    .value = Gwirio gan:
+security-view-privacy =
+    .value = Preifatrwydd a Hanes
+security-view-privacy-history-value = A ydw i wedi ymweld â'r wefan hon cyn heddiw?
+security-view-technical =
+    .value = Manylion Technegol
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -18,6 +76,8 @@ media-bg-img = Cefndir
 media-object = Gwrthych
 media-link = Eicon
 media-input = Mewnbwn
+media-video = Fideo
+media-audio = Sain
 saved-passwords-no = Na
 no-page-title =
     .value = Tudalen heb Deitl:
@@ -39,6 +99,13 @@ media-image-type =
 # Variables:
 #   $size (number) - The size of the media file in kilobytes
 media-file-size = { $size } KB
+# This string is used to display the website name next to the
+# "Block Images" checkbox in the media tab
+# Variables:
+#   $website (string) - The website name
+media-block-image =
+    .label = Rhwystro Delweddau o { $website }
+    .accesskey = B
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 # Variables:
