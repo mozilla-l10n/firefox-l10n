@@ -1,0 +1,52 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+custom-prompt-prompt = Ket yik nyig coc mamegi me lawie/late
+format-group-label =
+    .value = Yore me waraga
+orientation-label =
+    .value = Kagwoko coc acoya pi agoa:
+portrait =
+    .label = Cal me wie
+    .accesskey = C
+landscape =
+    .label = Ma labuto
+    .accesskey = M
+scale =
+    .label = Lapim:
+    .accesskey = L
+margin-top =
+    .value = Wie:
+    .accesskey = W
+margin-top-invisible =
+    .value = Wie:
+margin-bottom =
+    .value = Te:
+    .accesskey = T
+margin-bottom-invisible =
+    .value = Te:
+margin-left =
+    .value = Tung acam:
+    .accesskey = T
+margin-left-invisible =
+    .value = Tung acam:
+margin-right =
+    .value = Tung acuc:
+    .accesskey = T
+margin-right-invisible =
+    .value = Tung acuc:
+hf-left-label =
+    .value = Tung acam:
+hf-center-label =
+    .value = Dyere:
+hf-right-label =
+    .value = Acuc:
+hf-blank =
+    .label = --blank--
+hf-url =
+    .label = URL
+hf-date-and-time =
+    .label = Nino dwe/Cawa
+print-preparing =
+    .value = Yube…
