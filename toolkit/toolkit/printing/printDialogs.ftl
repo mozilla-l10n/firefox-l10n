@@ -89,5 +89,9 @@ print-progress =
     .value = Adhartas:
 print-complete =
     .value = Tha an clò-bhualadh deiseil.
+# Variables
+# $percent (integer) - Number of printed percentage
+print-percent =
+    .value = { $percent }%
 dialog-cancel-label = Sguir dheth
 dialog-close-label = Dùin
