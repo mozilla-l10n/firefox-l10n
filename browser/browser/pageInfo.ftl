@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/. --
 
+page-info-window =
+    .style = width: 600px; min-height: 550px;
 copy =
     .key = C
 menu-copy =
@@ -17,6 +19,8 @@ close-window =
 general-tab =
     .label = ಸಾಮಾನ್ಯ
     .accesskey = G
+general-title =
+    .value = ಶೀರ್ಷಿಕೆ:
 general-url =
     .value = ವಿಳಾಸ:
 general-type =
@@ -29,6 +33,8 @@ general-referrer =
     .value = ಉಲ್ಲೇಖಿಸಲಾದ URL:
 general-modified =
     .value = ಮಾರ್ಪಡಿಸಲಾದ:
+general-encoding =
+    .value = ಪಠ್ಯದ ಎನ್‍ಕೋಡಿಂಗ್:
 general-meta-name =
     .label = ಹೆಸರು
 general-meta-content =
@@ -83,6 +89,8 @@ security-view-identity-domain =
     .value = ಜಾಲ ತಾಣ:
 security-view-identity-verifier =
     .value = ಇವರಿಂದ ಪರಿಶೀಲಿಸಲ್ಪಟ್ಟಿದೆ:
+security-view-privacy =
+    .value = ಗೌಪ್ಯತೆ ಹಾಗು ಇತಿಹಾಸ
 security-view-privacy-history-value = ನಾನು ಈ ತಾಣಕ್ಕೆ  ಈ ದಿನ ಇದಕ್ಕೂ ಮೊದಲು ಭೇಟಿ ನೀಡಿದ್ದೆನೆಯೆ?
 security-view-privacy-passwords-value = ನಾನು ಈ ತಾಣಕ್ಕಾಗಿ ಯಾವುದಾದರೂ ಗುಪ್ತಪದವನ್ನು ಶೇಖರಿಸಿಟ್ಟಿದ್ದೇನೆಯೆ?
 security-view-privacy-viewpasswords =
@@ -90,6 +98,8 @@ security-view-privacy-viewpasswords =
     .accesskey = w
 security-view-technical =
     .value = ತಾಂತ್ರಿಕ ವಿವರಗಳು
+help-button =
+    .label = ನೆರವು
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
