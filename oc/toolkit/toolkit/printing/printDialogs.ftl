@@ -4,6 +4,7 @@
 
 print-setup =
     .title = Mesa en pagina
+custom-prompt-prompt = Picatz vòstre tèxte d'entèsta o de pè de pagina
 format-group-label =
     .value = Format
 orientation-label =
@@ -20,6 +21,8 @@ options-group-label =
     .value = Opcions
 margin-group-label-inches =
     .value = Marges (poces)
+margin-group-label-metric =
+    .value = Marges (millimètres)
 margin-top =
     .value = Naut :
     .accesskey = N
@@ -59,12 +62,18 @@ hf-page =
     .label = Numèro de pagina
 hf-page-and-total =
     .label = Pagina # sus #
+print-preview-window =
+    .title = Apercebut abans impression
 print-title =
     .value = Títol :
 print-preparing =
     .value = Preparacion…
 print-progress =
     .value = Progression :
+print-window =
+    .title = Impression
+print-complete =
+    .value = L'impression es acabada.
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =
