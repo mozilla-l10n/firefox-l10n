@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/. --
 
+page-info-window =
+    .style = width: 600px; min-height: 550px;
 copy =
     .key = C
 menu-copy =
@@ -75,6 +77,8 @@ security-view-identity-domain =
     .value = Site web :
 security-view-identity-verifier =
     .value = Verificat per :
+security-view-privacy =
+    .value = Vida privada e istoric
 security-view-privacy-history-value = Ai ja visitat aqueste site ?
 security-view-privacy-passwords-value = Ai enregistrat un senhal per aqueste site web ?
 security-view-privacy-viewpasswords =
@@ -82,6 +86,8 @@ security-view-privacy-viewpasswords =
     .accesskey = V
 security-view-technical =
     .value = Detalhs tecnics
+help-button =
+    .label = Ajuda
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -114,6 +120,8 @@ general-strict-mode =
     .value = Mòde de respècte dels estandards
 security-no-owner = Aqueste site web balha pas d'entresenhas sul proprietari.
 media-select-folder = Seleccionatz un repertòri ont enregistrar los imatges
+media-unknown-not-cached =
+    .value = Desconegut (pas dins lo cache)
 permissions-use-default =
     .label = Utilizar las valors per defaut
 security-no-visits = Non
