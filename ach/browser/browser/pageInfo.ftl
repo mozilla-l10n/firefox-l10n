@@ -22,6 +22,10 @@ media-address =
     .label = Kanonge
 media-type =
     .label = Kit
+media-count =
+    .label = Kwano
+media-dimension =
+    .value = Kit dite:
 security-view-unknown = Pe ngene
     .value = Pe ngene
 
@@ -33,6 +37,11 @@ security-view-unknown = Pe ngene
 
 image-size-unknown = Pe ngene
 media-img = Cal
+media-bg-img = Ngeye
+media-border-img = Twoke
+media-list-img = Ricac
+media-cursor = Lacim
+media-object = Jami
 media-link = Cal
 saved-passwords-yes = Eyo
 general-quirks-mode =
