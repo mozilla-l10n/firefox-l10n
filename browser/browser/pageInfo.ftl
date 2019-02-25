@@ -19,6 +19,8 @@ close-window =
 general-tab =
     .label = Xeral
     .accesskey = X
+general-title =
+    .value = Título:
 general-url =
     .value = Enderezo:
 general-type =
@@ -87,9 +89,15 @@ security-view-identity-domain =
     .value = Sitio web:{ " " }
 security-view-identity-verifier =
     .value = Verificado por:{ " " }
+security-view-identity-validity =
+    .value = Caduca o:
 security-view-privacy =
     .value = Privacidade e historial
 security-view-privacy-history-value = Visitei este sitio web anteriormente?
+security-view-privacy-sitedata-value = Este sitio web está almacenando información no meu computador?
+security-view-privacy-clearsitedata =
+    .label = Borrar cookies e datos do sitio
+    .accesskey = c
 security-view-privacy-passwords-value = Gardei algún contrasinal para este sitio web?
 security-view-privacy-viewpasswords =
     .label = Ver contrasinais gardados
@@ -105,6 +113,10 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-cookies = Si, cookies e { $value } { $unit } dos datos do sitio
+security-site-data-only = Si, { $value } { $unit } dos datos do sitio
+security-site-data-cookies-only = Si, cookies
+security-site-data-no = Non
 image-size-unknown = Descoñecido
 not-set-verified-by = Sen especificar
 not-set-alternative-text = Sen especificar
