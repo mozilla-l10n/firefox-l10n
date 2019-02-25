@@ -2,8 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+print-setup =
+    .title = পাতার সেটআপ
 custom-prompt-title = স্বনির্ধারিত…
 custom-prompt-prompt = শীর্ষচরণ/পাদচরণের জন্য আপনার পছন্দসই পাঠ্য লিখুন
+basic-tab =
+    .label = বিন্যাস ও অপশন
+advanced-tab =
+    .label = মার্জিন ও শীর্ষচরণ/পাদচরণ
 format-group-label =
     .value = বিন্যাস
 orientation-label =
@@ -16,6 +22,9 @@ landscape =
     .accesskey = L
 scale-percent =
     .value = %
+shrink-to-fit =
+    .label = পাতার প্রস্থের সাথে মানানসই করার জন্য সংকোচন করা হবে
+    .accesskey = W
 options-group-label =
     .value = অপশন
 margin-group-label-inches =
@@ -42,6 +51,8 @@ margin-right =
     .accesskey = R
 margin-right-invisible =
     .value = ডান: (R)
+header-footer-label =
+    .value = শীর্ষচরণ ও পাদচরণ
 hf-left-label =
     .value = বাম:
 hf-center-label =
@@ -68,6 +79,10 @@ hf-url =
     .label = URL
 hf-date-and-time =
     .label = তারিখ/সময়
+hf-page =
+    .label = পাতা #
+hf-page-and-total =
+    .label = পাতা # সর্বমোট পাতা #
 hf-custom =
     .label = স্বনির্ধারিত…
 print-preview-window =
