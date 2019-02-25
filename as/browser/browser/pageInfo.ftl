@@ -83,9 +83,17 @@ security-view-identity-domain =
     .value = ৱেবছাইট:
 security-view-identity-verifier =
     .value = চিহ্নিত ব্যক্তি অথবা সংঘঠন দ্বাৰা প্ৰমাণিত কৰা হৈছে:
+security-view-privacy =
+    .value = গোপনীয়তা আৰু ইতিহাস
 security-view-privacy-history-value = আজিৰ পূৰ্বে মই এই ৱেব ছাইটত আহিছো নে?
+security-view-privacy-passwords-value = এই ৱেব ছাইটৰ বাবে মই কোনো পাছৱৰ্ড সংৰক্ষণ কৰিছোঁ নে?
+security-view-privacy-viewpasswords =
+    .label = সংৰক্ষিত পাছৱৰ্ড চাওক
+    .accesskey = w
 security-view-technical =
     .value = কাৰিকৰী বিৱৰণসমূহ
+help-button =
+    .label = সহায়
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
