@@ -115,6 +115,7 @@ media-border-img = Bordură
 media-list-img = Bulină
 media-cursor = Cursor
 media-object = Obiect
+media-embed = Înglobat
 media-link = Pictogramă
 media-input = Intrare
 media-video = Video
