@@ -5,6 +5,7 @@
 print-setup =
     .title = Поставување на страницата
 custom-prompt-title = Сопствен…
+custom-prompt-prompt = Внесете го вашиот текст за заглавје/подножје
 basic-tab =
     .label = Формат и опции
 advanced-tab =
