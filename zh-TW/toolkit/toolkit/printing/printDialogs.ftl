@@ -5,6 +5,7 @@
 print-setup =
     .title = 頁面設定
 custom-prompt-title = 自訂…
+custom-prompt-prompt = 輸入您自訂的頁首／頁尾文字
 basic-tab =
     .label = 格式與選項
 advanced-tab =
