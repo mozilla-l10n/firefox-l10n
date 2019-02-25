@@ -52,6 +52,8 @@ security-view-unknown = មិន​ស្គាល់
     .value = មិន​ស្គាល់
 security-view-identity =
     .value = អត្តសញ្ញាណ​​តំបន់បណ្ដាញ
+security-view-privacy =
+    .value = ភាព​ឯកជន & ប្រវត្តិ
 security-view-privacy-history-value = តើ​ខ្ញុំ​បាន​ចូល​ទស្សនា​តំបន់បណ្ដាញ​នេះ​មុន​ថ្ងៃនេះ​ឬ ?
 security-view-privacy-passwords-value = តើ​ខ្ញុំ​បាន​រក្សាទុក​ពាក្យសម្ងាត់​សម្រាប់​តំបន់បណ្ដាញ​នេះ​ឬ ?
 security-view-privacy-viewpasswords =
@@ -93,6 +95,8 @@ security-no-owner = តំបន់បណ្ដាញ​នេះ​មិន​
 media-select-folder = ជ្រើស​ថត ដើម្បី​រក្សាទុក​រូបភាព
 media-unknown-not-cached =
     .value = មិន​ស្គាល់ (មិន​ត្រូវ​បាន​ដាក់​ក្នុង​ឃ្លាំង​សម្ងាត់)
+permissions-use-default =
+    .label = ប្រើ​លំនាំ​ដើម
 security-no-visits = ទេ
 # This string is used to display the type of
 # an image
@@ -100,6 +104,21 @@ security-no-visits = ទេ
 #   $type (string) - The type of an image
 media-image-type =
     .value = រូបភាព { $type }
+# This string is used to display the size of a scaled image
+# in both scaled and unscaled pixels
+# Variables:
+#   $dimx (number) - The horizontal size of an image
+#   $dimy (number) - The vertical size of an image
+#   $scaledx (number) - The scaled horizontal size of an image
+#   $scaledy (number) - The scaled vertical size of an image
+media-dimensions-scaled =
+    .value = { $dimx }px × { $dimy }px (បាន​ដាក់​មាត្រដ្ឋាន​ត្រឹម { $scaledx }px × { $scaledy }px)
+# This string is used to display the size of an image in pixels
+# Variables:
+#   $dimx (number) - The horizontal size of an image
+#   $dimy (number) - The vertical size of an image
+media-dimensions =
+    .value = { $dimx }px × { $dimy }px
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
