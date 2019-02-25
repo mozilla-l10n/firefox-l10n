@@ -4,6 +4,9 @@
 
 copy =
     .key = C
+menu-copy =
+    .label = Պատճենել
+    .accesskey = Պ
 select-all =
     .key = A
 menu-select-all =
@@ -16,6 +19,8 @@ general-tab =
     .accesskey = G
 general-url =
     .value = Հասցեն.
+general-type =
+    .value = Տեսակը.{ " " }
 general-mode =
     .value = Ցուցադրման Եղանակը.
 general-size =
@@ -24,12 +29,19 @@ general-modified =
     .value = Փոփոխված է.
 general-meta-name =
     .label = Անվանումը
+media-tab =
+    .label = Մեդիա
+    .accesskey = M
+media-location =
+    .value = Տեղը.
 media-text =
     .value = Կապակցված Տեքստ`
 media-alt-header =
     .label = Այլնտրանք. ՏԵքստ
 media-address =
     .label = Հասցեն
+media-type =
+    .label = Տեսակը{ " " }
 media-size =
     .label = Չափը
 media-count =
@@ -38,6 +50,8 @@ media-dimension =
     .value = Չափերը`
 media-long-desc =
     .value = Երկար Նկարագրություն.
+media-preview =
+    .value = Մեդիայի նախադիտում.
 security-tab =
     .label = Անվտանգություն
     .accesskey = S
@@ -95,6 +109,15 @@ security-no-visits = Ոչ՜
 #   $type (string) - The type of an image
 media-image-type =
     .value = Նկար { $type }
+# This string is used to display the size of a scaled image
+# in both scaled and unscaled pixels
+# Variables:
+#   $dimx (number) - The horizontal size of an image
+#   $dimy (number) - The vertical size of an image
+#   $scaledx (number) - The scaled horizontal size of an image
+#   $scaledy (number) - The scaled vertical size of an image
+media-dimensions-scaled =
+    .value = { $dimx }px × { $dimy }px (մասշտաբը` { $scaledx }px × { $scaledy }px)
 # This string is used to display the size of an image in pixels
 # Variables:
 #   $dimx (number) - The horizontal size of an image
