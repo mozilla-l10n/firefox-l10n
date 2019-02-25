@@ -44,5 +44,11 @@ media-dimensions-scaled =
 #   $dimy (number) - The vertical size of an image
 media-dimensions =
     .value = { $dimx } px × { $dimy } px
+# This string is used to display the URL of the website on top of the
+# pageInfo dialog box
+# Variables:
+#   $website (string) - The url of the website pageInfo is getting info for
+page-info-page =
+    .title = Entresenhas sus la pagina - { $website }
 page-info-frame =
     .title = Entresenhas sul quadre - { $website }
