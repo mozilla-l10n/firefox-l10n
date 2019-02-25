@@ -94,6 +94,10 @@ security-view-identity-validity =
 security-view-privacy =
     .value = Buhez prevez ha Roll istor
 security-view-privacy-history-value = Ha gweladennet em befe al lec'hienn-mañ a-raok hiziv ?
+security-view-privacy-sitedata-value = Daoust hag emañ al lec'hienn-mañ o kadaviñ titouroù war ma urzhiataer?
+security-view-privacy-clearsitedata =
+    .label = Skarzhañ an toupinoù ha roadennoù lec'hienn
+    .accesskey = S
 security-view-privacy-passwords-value = Ur ger-tremen am eus enrollet evit al lec'hienn-mañ ?
 security-view-privacy-viewpasswords =
     .label = Gwelout ar gerioù-tremen bet enrollet
@@ -109,6 +113,10 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-cookies = Ya, toupinoù ha  { $value }{ $unit } a roadennoù lec'hienn
+security-site-data-only = Ya, { $value } { $unit } a roadennoù lec'hienn
+security-site-data-cookies-only = Ya, toupinoù
+security-site-data-no = Ket
 image-size-unknown = Dianav
 not-set-verified-by = Anerspizet
 not-set-alternative-text = Anerspizet
