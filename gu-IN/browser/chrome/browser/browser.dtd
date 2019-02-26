@@ -996,6 +996,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "કૂકીઝ">
 <!ENTITY contentBlocking.cookiesView.label "કૂકીઝ અને સાઇટ ડેટા">
 
+<!ENTITY contentBlocking.cryptominers.label "Cryptominers">
+<!ENTITY contentBlocking.cryptominersView.label "Cryptominers">
+
+<!ENTITY contentBlocking.fingerprinters.label "Fingerprinters">
+<!ENTITY contentBlocking.fingerprintersView.label "Fingerprinters">
+
 <!ENTITY contentBlocking.openBreakageReportView2.label "સમસ્યાનો અહેવાલ આપો">
 <!ENTITY contentBlocking.breakageReportView.label "સમસ્યાઓની જાણ કરો">
 <!ENTITY contentBlocking.breakageReportView2.description "સામગ્રી અવરોધિત કરવું કેટલીક વેબસાઇટ્સ સાથે સમસ્યા ઊભી કરી શકે છે. જ્યારે તમે સમસ્યાઓની જાણ કરો છો, ત્યારે તમે &brandShortName; દરેક માટે સારું. (આ એક URL મોકલશે તેમજ તમારી બ્રાઉઝર સેટિંગ્સ વિશેની માહિતી મોઝિલાને મોકલશે.)">
@@ -1128,6 +1134,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "<image class='addon-addon-icon'/> મેનૂમાં <image class='addon-toolbar-icon'/> ક્લિક કરીને તમારા ઍડ-ઑનને સંચાલિત કરો.">
 
+<!ENTITY addonPrivateBrowsing.header.label "ખાનગી વિંડોઝમાં એક્સ્ટેન્શન્સ">
 <!ENTITY addonPrivateBrowsing.okButton.label "ઠીક છે, સમજાઇ ગયું">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "O">
 <!ENTITY addonPrivateBrowsing.manageButton.label "એક્સ્ટેંશન્સનો વહીવટ કરો">

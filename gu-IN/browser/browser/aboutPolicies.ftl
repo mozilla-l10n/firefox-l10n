@@ -7,13 +7,8 @@ about-policies-title = સંગઠન નીતિ
 active-policies-tab = સક્રિય
 errors-tab = ભૂલો
 documentation-tab = દસ્તાવેજીકરણ
+no-specified-policies-message = એન્ટરપ્રાઇઝ નીતિઓની સેવા સક્રિય છે પરંતુ કોઈ નીતિઓ સક્ષમ નથી.
+inactive-message = એન્ટરપ્રાઇઝ નીતિઓ સેવા નિષ્ક્રિય છે.
 policy-name = નીતિનું નામ
 policy-value = નીતિ મૂલ્ય
 policy-errors = નીતિ ભૂલો
-# 'gpo-machine-only' policies are related to the Group Policy features
-# on Windows. Please use the same terminology that is used on Windows
-# to describe Group Policy.
-# These policies can only be set at the computer-level settings, while
-# the other policies can also be set at the user-level.
-gpo-machine-only =
-    .title = જ્યારે જૂથ નીતિ વાપરી રહ્યા હોય, ત્યારે આ નીતિ ફક્ત કમ્પ્યુટર સ્તર પર સેટ કરી શકાય છે.

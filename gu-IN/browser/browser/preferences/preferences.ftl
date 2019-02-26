@@ -4,10 +4,6 @@
 
 do-not-track-description = વેબસાઇટ્સને "ટ્રેક ન કરો" સિગ્નલ મોકલો કે જેને તમે ટ્રૅક કરી ન શકો
 do-not-track-learn-more = વધુ શીખો
-do-not-track-option-default =
-    .label = માત્ર ટ્રૅકિંગ પ્રોટેક્શનનો ઉપયોગ કરતી વખતે
-do-not-track-option-default-content-blocking =
-    .label = જ્યારે { -brand-short-name } તપાસ કરેલા ટ્રેકર્સને અવરોધિત કરવા માટે સેટ કરેલું હોય ત્યારે
 do-not-track-option-default-content-blocking-known =
     .label = જ્યારે { -brand-short-name } જાણીતા ટ્રૅકર્સને અવરોધિત કરવા માટે સેટ કરવામાં આવે છે ત્યારે જ
 do-not-track-option-always =
@@ -54,6 +50,9 @@ category-privacy =
 pane-sync-title = Firefox ખાતુ
 category-sync =
     .tooltiptext = { pane-sync-title }
+pane-sync-title2 = { -sync-brand-short-name }
+category-sync2 =
+    .tooltiptext = { pane-sync-title2 }
 help-button-label = { -brand-short-name } આધાર
 addons-button-label = એક્સ્ટેન્શન્સ અને થીમ્સ
 focus-search =
@@ -95,9 +94,6 @@ extension-controlled-default-search = એક્સ્ટેંશન, <img data-
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = એક્સ્ટેંશન, <img data-l10n-name="icon"/> { $name }, કન્ટેઈનર ટેબ્સની જરૂર છે.
-# This string is shown to notify the user that their tracking protection preferences
-# are being controlled by an extension.
-extension-controlled-websites-tracking-protection-mode = એક્સ્ટેન્શન, <img data-l10n-name="icon"/> { $name }, ટ્રેકિંગ સંરક્ષણને નિયંત્રિત કરી રહ્યું છે.
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
 extension-controlled-websites-content-blocking-all-trackers = એક્સ્ટેન્શન, <img data-l10n-name="icon"/>{ $name }, આ સેટિંગને નિયંત્રિત કરી રહ્યું છે.
@@ -530,6 +526,9 @@ sync-device-name-save =
     .accesskey = v
 sync-mobilepromo-single = બીજા ઉપકરણ સાથે જોડાણ કરો
 sync-mobilepromo-multi = ઉપકરણો સંચાલિત કરો
+sync-connect-another-device = બીજા ઉપકરણ સાથે જોડાણ કરો
+sync-manage-devices = ઉપકરણો સંચાલિત કરો
+sync-fxa-begin-pairing = ઉપકરણ જોડો
 sync-tos-link = સેવાની મર્યાદાઓ
 sync-fxa-privacy-notice = ખાનગી સૂચના
 
@@ -606,12 +605,6 @@ sitedata-total-size-calculating = સાઇટ ડેટા અને કેશ 
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = તમારી સંગ્રહિત કૂકીઝ, સાઇટ ડેટા અને કેશ હાલમાં { $value } { $unit } જગ્યા નો ઉપયોગ કરી રહ્યાં છે.
 sitedata-learn-more = વધુ શીખો
-sitedata-keep-until = ત્યાં સુધી રાખો
-    .accesskey = u
-sitedata-keep-until-expire =
-    .label = સમાપ્ત થાયા
-sitedata-keep-until-closed =
-    .label = { -brand-short-name } બંધ છે
 sitedata-delete-on-close =
     .label = { -brand-short-name } બંધ હોય ત્યારે કૂકીઝ અને સાઇટ માહિતી કાઢી નાખો
     .accesskey = c
@@ -625,16 +618,6 @@ sitedata-disallow-cookies-option =
 # The list items are the strings named sitedata-block-*-option*.
 sitedata-block-desc = પ્રકાર અવરોધિત
     .accesskey = T
-sitedata-block-trackers-option-recommended =
-    .label = તૃતીય-પક્ષ ટ્રેકર્સ (ભલામણ કરેલ)
-sitedata-block-trackers-option =
-    .label = તૃતીય-પક્ષ ટ્રેકર્સ
-sitedata-block-unvisited-option =
-    .label = મુલાકાત લીધેલી વેબસાઇટ્સ પરથી કૂકીઝ
-sitedata-block-all-third-party-option =
-    .label = બધી તૃતીય-પક્ષ કૂકીઝ (વેબસાઇટ્સને બંધ કરવા કારણ બની શકે છે)
-sitedata-block-all-option =
-    .label = બધી કૂકીઝ (વેબસાઇટ્સને બંધ કરવા કારણ બની શકે છે)
 sitedata-option-block-trackers =
     .label = તૃતીય પક્ષ ટ્રેકર
 sitedata-option-block-unvisited =
@@ -649,13 +632,6 @@ sitedata-clear =
 sitedata-settings =
     .label = ડેટા સંચાલન કરો…
     .accesskey = M
-sitedata-cookies-exceptions =
-    .label = અપવાદો...
-    .accesskey = E
-# This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
-# in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
-# Cookies and Site Data section.
-sitedata-warning-your-settings-prevent-changes = સામગ્રી અવરોધમાંની તમારી સેટિંગ્સ કૂકીઝ અને સાઇટ માહિતી સેટિંગ્સમાં ફેરફારોને અટકાવી રહી છે.
 sitedata-cookies-permissions =
     .label = પરવાનગીઓ મેનેજ કરો...
     .accesskey = P
@@ -678,41 +654,8 @@ addressbar-suggestions-settings = શોધ એન્જિન સૂચનો �
 ## Privacy Section - Content Blocking
 
 content-blocking-header = સામગ્રી અવરોધિત
-content-blocking-desc = તૃતીય-પક્ષ વસ્તુઓને અવરોધિત કરો, જેમ કે જાહેરાતો અથવા કોડ, જે તમારી બ્રાઉઝિંગને ધીમુ કરી શકે છે અને વેબ પર તમને ટ્રૅક કરી શકે છે. રક્ષણ અને કાર્યના શ્રેષ્ઠ સંતુલન માટે તમારી સેટિંગ્સને કસ્ટમાઇઝ કરો.
 content-blocking-description = તૃતીય-પક્ષ સામગ્રીને અવરોધિત કરો જે તમને વેબ પર ટ્રૅક કરે છે. વેબસાઇટ્સની વચ્ચે તમારી કેટલી ઑનલાઇન પ્રવૃત્તિ સંગ્રહિત અને શેર કરવામાં આવે તે નિયંત્રિત કરો.
 content-blocking-learn-more = વધુ શીખો
-content-blocking-restore-defaults =
-    .label = મૂળભૂતને પુન:સંગ્રહો
-    .accesskey = R
-content-blocking-toggle-on =
-    .tooltiptext = વસ્તુઓનો અવરોધ બંધ કરો
-content-blocking-toggle-off =
-    .tooltiptext = વસ્તુઓનો અવરોધ ચાલુ કરો
-content-blocking-toggle-label-on = ચાલુ
-    .accesskey = O
-content-blocking-toggle-label-off = બંધ
-    .accesskey = O
-content-blocking-category-label = શું અવરોધ કરવું તે પસંદ કરો
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-slow-loading-trackers-label =
-    .label = ધીરેથી લોડ થતાં ટ્રેકર્સ
-    .accesskey = S
-content-blocking-fastblock-new-description = ફક્ત એજ ટ્રેકર્સને અવરોધિત કરો કે જે પાનાંને ઝડપથી ખોલવાથી અટકાવે છે.
-content-blocking-tracking-protection-trackers-label =
-    .label = ટ્રેકર્સ
-    .accesskey = T
-content-blocking-tracking-protection-all-detected-trackers-label =
-    .label = શોધી કાઢેલાં બધાં ટ્રેકર્સ
-    .accesskey = T
-content-blocking-tracking-protection-new-description = તમામ જાણીતા ટ્રેકર્સને અવરોધિત કરો. (કેટલાક પાનાંને લોડ થવાથી અટકાવી શકે છે.)
-content-blocking-tracking-protection-option-always =
-    .label = હંમેશાં
-    .accesskey = A
-content-blocking-tracking-protection-option-private =
-    .label = ફકત ખાનગી વિંડોઝમાં જ
-    .accesskey = P
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 content-blocking-setting-standard =
@@ -745,51 +688,21 @@ content-blocking-option-private =
     .label = ફક્ત ખાનગી વિન્ડોઝમા
     .accesskey = P
 content-blocking-tracking-protection-change-block-list = અવરોધ સૂચિ બદલો
-content-blocking-third-party-cookies-label =
-    .label = તૃતીય-પક્ષ કૂકીઝ
-    .accesskey = C
-content-blocking-reject-trackers-description = તમામ તૃતીય-પક્ષની કૂકીઝને અથવા ફક્ત ટ્રેકર્સ દ્વારા સેટ કરેલ કૂકીઝને અવરોધિત કરો.
-# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
-# of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
-# or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
-# the UI.
-content-blocking-reject-trackers-warning-your-settings-prevent-changes = કુકીઝ અને સાઇટ માહિતમાં તમારી સેટિંગ્સ તૃતીય-પક્ષ કૂકીઝ સેટિંગ્સમાં ફેરફારોને અટકાવી રહી છે.
-content-blocking-change-cookie-settings =
-    .label = કૂકી સેટિંગ્સ બદલો
-    .accesskey = S
-content-blocking-reject-trackers-block-trackers-option-recommended =
-    .label = ટ્રેકર્સ (ભલામણ કરેલ)
-    .accesskey = k
-content-blocking-reject-trackers-block-trackers-option =
-    .label = ટ્રેકર્સ
-    .accesskey = k
-content-blocking-reject-trackers-all-third-parties-option =
-    .label = બધી તૃતીય-પક્ષની કૂકીઝ (વેબસાઇટ્સને તોડી શકે છે)
-    .accesskey = A
 content-blocking-cookies-label =
     .label = કૂકીઝ
     .accesskey = C
+# Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
+content-blocking-cryptominers-label =
+    .label = Cryptominers
+    .accesskey = y
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+content-blocking-fingerprinters-label =
+    .label = Fingerprinters
+    .accesskey = F
 
 ## Privacy Section - Tracking
 
-tracking-header = ટ્રેકિંગ પ્રોટેક્શન
-tracking-desc = ટ્રેકિંગ પ્રોટેક્શન ઓનલાઇન ટ્રેકર જે બહુવિધ વેબસાઇટ્સ પર તમારા બ્રાઉઝિંગ ડેટાને એકત્રિત કરે તેને અવરોધે છે. <a data-l10n-name="learn-more">ટ્રેકિંગ સુરક્ષા અને તમારી ગોપનીયતા વિશે વધુ જાણો</a>
-tracking-mode-label = જાણીતા ટ્રેકર્સને અવરોધિત કરવા માટે ટ્રેકિંગ પ્રોટેક્શનનો ઉપયોગ કરો
-tracking-mode-always =
-    .label = હંમેશા
-    .accesskey = y
-tracking-mode-private =
-    .label = ખાનગી વિન્ડો માં જ
-    .accesskey = I
-tracking-mode-never =
-    .label = ક્યારેય નહિં
-    .accesskey = n
-tracking-exceptions =
-    .label = અપવાદો…
-    .accesskey = x
-tracking-change-block-list =
-    .label = અવરોધિત સૂચિ બદલો…
-    .accesskey = C
 tracking-manage-exceptions =
     .label = અપવાદોને મેનેજ કરો ...
     .accesskey = x
@@ -821,6 +734,9 @@ permissions-block-autoplay-media =
     .label = અવાજ સાથે મીડિયાને આપમેળે ચલાવવાથી વેબસાઇટ્સને બ્લૉક કરો
     .accesskey = B
 permissions-block-autoplay-media-menu = ઑટોપ્લે અવાજ વેબસાઇટ્સ માટે
+permissions-block-autoplay-media2 =
+    .label = આપમેળે અવાજ વગાડવાથી વેબસાઇટ્સને અવરોધિત કરો
+    .accesskey = B
 permissions-block-autoplay-media-exceptions =
     .label = અપવાદો…
     .accesskey = E
