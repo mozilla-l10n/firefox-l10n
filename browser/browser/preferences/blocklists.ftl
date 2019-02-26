@@ -30,3 +30,5 @@ blocklist-item-moz-std-desc = કેટલાક ટ્રેકર તેથી
 blocklist-item-moz-full-name = કડક રક્ષણ Disconnect.me.
 blocklist-item-moz-full-desc = બ્લોક્સ જાણીતા ટ્રેકર્સ. કેટલીક વેબસાઇટ્સ યોગ્ય રીતે કાર્ય કરી શકશે નહીં.
 blocklist-item-moz-std-listName = સ્તર 1 બ્લોક સૂચિ (ભલામણ કરેલ).
+blocklist-item-moz-std-description = કેટલાક ટ્રેકર્સને મંજૂરી આપે છે જેથી ઓછી વેબસાઇટ્સ તૂટી જાય છે.
+blocklist-item-moz-full-listName = સ્તર 2 બ્લોક સૂચિ.
