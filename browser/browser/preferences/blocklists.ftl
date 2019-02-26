@@ -31,3 +31,4 @@ blocklist-item-moz-full-desc = Blokkerer kjende sporfølgjarar. Nokre nettsider 
 blocklist-item-moz-std-listName = Blokkeringsliste nivå 1 (tilrådd).
 blocklist-item-moz-std-description = Tillèt nokre sporings-element, slik at dei fleste nettsider fungerer som dei skal.
 blocklist-item-moz-full-listName = Blokkeringsliste nivå 2
+blocklist-item-moz-full-description = Blokker alle kjende sporingselement. Dette kan i nokre tilfelle hindre innlesing av nettsider eller innhald.
