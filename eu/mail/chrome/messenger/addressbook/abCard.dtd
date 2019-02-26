@@ -77,8 +77,11 @@
 <!ENTITY Birthday.label                 "Jaiotze-data:">
 <!ENTITY Birthday.accesskey             "J">
 <!ENTITY In.label                       "">
+<!ENTITY Month.placeholder              "Hilabetea">
+<!ENTITY Day.placeholder                "Eguna">
 <!ENTITY Year.placeholder               "Urtea">
 <!ENTITY Or.value                       "edo">
+<!ENTITY Age.label                      "Adina:">
 <!ENTITY Age.placeholder                "Adina">
 <!ENTITY YearsOld.label                 "">
 
@@ -141,7 +144,6 @@
 
 <!ENTITY Photo.tab                      "Argazkia">
 <!ENTITY Photo.accesskey                "A">
-<!ENTITY PhotoDesc.label                "Aukeratu hauetako bat:">
 <!ENTITY GenericPhoto.label             "Argazki arrunta">
 <!ENTITY GenericPhoto.accesskey         "A">
 <!ENTITY DefaultPhoto.label             "Lehenetsia">
