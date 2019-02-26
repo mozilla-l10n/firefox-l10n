@@ -77,8 +77,11 @@
 <!ENTITY Birthday.label                 "День народження:">
 <!ENTITY Birthday.accesskey             "н">
 <!ENTITY In.label                       "">
+<!ENTITY Month.placeholder              "Місяць">
+<!ENTITY Day.placeholder                "День">
 <!ENTITY Year.placeholder               "Рік">
 <!ENTITY Or.value                       "чи">
+<!ENTITY Age.label                      "Вік:">
 <!ENTITY Age.placeholder                "Вік">
 <!ENTITY YearsOld.label                 "">
 
@@ -141,7 +144,6 @@
 
 <!ENTITY Photo.tab                      "Зображення">
 <!ENTITY Photo.accesskey                "З">
-<!ENTITY PhotoDesc.label                "Оберіть одне з наступного:">
 <!ENTITY GenericPhoto.label             "Просто зображення">
 <!ENTITY GenericPhoto.accesskey         "П">
 <!ENTITY DefaultPhoto.label             "Типове">
