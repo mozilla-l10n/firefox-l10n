@@ -7,13 +7,8 @@ about-policies-title = Podniková pravidla
 active-policies-tab = Aktivní
 errors-tab = Chyby
 documentation-tab = Dokumentace
+no-specified-policies-message = Podniková pravidla jsou aktivní, ale žádná nebyla nastavena.
+inactive-message = Podniková pravidla jsou vypnutá.
 policy-name = Název pravidla
 policy-value = Pravidlo (hodnota)
 policy-errors = Chyby v pravidlech
-# 'gpo-machine-only' policies are related to the Group Policy features
-# on Windows. Please use the same terminology that is used on Windows
-# to describe Group Policy.
-# These policies can only be set at the computer-level settings, while
-# the other policies can also be set at the user-level.
-gpo-machine-only =
-    .title = Při použití zásad skupin, toto pravidlo může být nastaveno jen na úrovni počítače.
