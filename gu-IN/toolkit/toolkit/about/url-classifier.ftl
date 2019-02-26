@@ -3,6 +3,16 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 url-classifier-title = URL ક્લાસિફાયર માહિતી
+url-classifier-search-title = શોધો
+url-classifier-search-result-title = પરિણામો
+url-classifier-search-result-uri = URI: { $uri }
+url-classifier-search-result-list = કોષ્ટકોની સૂચિ: { $list }
+url-classifier-search-input = URL
+url-classifier-search-error-invalid-url = અયોગ્ય URL
+url-classifier-search-error-no-features = કોઈ સુવિધાઓ પસંદ નથી
+url-classifier-search-btn = શોધ શરૂ કરો
+url-classifier-search-features = લક્ષણો
+url-classifier-search-listType = સૂચિ પ્રકાર
 url-classifier-provider-title = પ્રદાતા
 url-classifier-provider = પ્રદાતા
 url-classifier-provider-last-update-time = છેલ્લું અદ્યતન સમય

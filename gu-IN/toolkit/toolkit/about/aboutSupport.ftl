@@ -44,6 +44,7 @@ app-basics-memory-use = મેમરી વપરાશ
 app-basics-performance = કામગીરી
 app-basics-service-workers = રજીસ્ટર કરેલ Service Workers
 app-basics-profiles = પ્રોફાઇલ્સ
+app-basics-launcher-process-status = લોંચર પ્રક્રિયા
 app-basics-multi-process-support = મલ્ટીપ્રોસેસ વિન્ડો
 app-basics-process-count = વેબ સામગ્રી પ્રક્રિયાઓ
 app-basics-enterprise-policies = સંગઠન નીતિ
@@ -173,6 +174,8 @@ hardware-h264 = હાર્ડવેર H264 ડિકોડિંગ
 main-thread-no-omtc = મુખ્ય થ્રેડ, કોઈ OMTC નથી
 yes = હા
 no = ના
+unknown = અજ્ઞાત
+virtual-monitor-disp = વર્ચ્યુઅલ મોનિટર ડિસ્પ્લે
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
@@ -180,6 +183,8 @@ no = ના
 
 found = મળ્યું
 missing = અનુપલબ્ધ
+gpu-process-pid = GPUProcessPid
+gpu-process = GPUProcess
 gpu-description = વર્ણન
 gpu-vendor-id = વેન્ડર ID
 gpu-device-id = ઉપકરણ ID
@@ -212,11 +217,14 @@ d3d9video-crash-buard = D3D9 વિડીયો ડીકોડર
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = આગલું પુનઃપ્રારંભ કરો પર ફરીથી સેટ કરો
 gpu-process-kill-button = GPU પ્રક્રિયા સમાપ્ત કરો
+gpu-device-reset = ઉપકરણ ફરીથી સેટ કરો
 gpu-device-reset-button = ટ્રિગર ઉપકરણ રીસેટ કરો
 uses-tiling = ટાઇલીંગનો ઉપયોગ કરે છે
 content-uses-tiling = ટાઇલિંગનો ઉપયોગ (સામગ્રી)
 off-main-thread-paint-enabled = બંધ મુખ્ય થ્રેડ પેઈન્ટીંગ સક્ષમ
 off-main-thread-paint-worker-count = મુખ્ય થ્રેડ પેઈન્ટીંગ કામદાર ગણક બંધ
+low-end-machine = ઓછા પ્રભાવશાળી મશીન શોધી કાઢ્યું
+target-frame-rate = લક્ષ્ય ફ્રેમ દર
 audio-backend = ઑડિઓ બેકએન્ડ
 max-audio-channels = મહત્તમ ચૅનલ્સ
 channel-layout = મનપસંદ ચેનલ લેઆઉટ
@@ -234,6 +242,10 @@ effective-content-sandbox-level = અસરકારક સામગ્રી �
 sandbox-proc-type-content = સામગ્રી
 sandbox-proc-type-file = ફાઇલ સામગ્રી
 sandbox-proc-type-media-plugin = મીડિયા પ્લગઇન
+launcher-process-status-0 = સક્રિય
+launcher-process-status-1 = નિષ્ફળતાને કારણે નિષ્ક્રિય
+launcher-process-status-2 = બળજબરીથી અક્ષમ
+launcher-process-status-unknown = અજ્ઞાત સ્થિતિ
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
