@@ -88,6 +88,14 @@ detail-update-automatic =
 detail-update-manual =
     .label = બંધ
     .tooltiptext = આપમેળે સુધારાઓને સ્થાપિત કરો નહિં
+# Used as a description for the option to allow or block an add-on in private windows.
+detail-private-browsing-label = ખાનગી વિન્ડોઝ માં ચલાવો
+detail-private-browsing-on =
+    .label = પરવાનગી આપો
+    .tooltiptext = ખાનગી બ્રાઉઝિંગમાં સક્ષમ કરો
+detail-private-browsing-off =
+    .label = મંજૂરી આપશો નહીં
+    .tooltiptext = ખાનગી બ્રાઉઝિંગમાં અક્ષમ કરો
 detail-home =
     .label = મુખ્યપાનુ
 detail-home-value =
@@ -207,3 +215,38 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = સુધારાઓને સ્થાપિત કરો
     .tooltiptext = આ યાદીમાં ઉપલબ્ધ સુધારાઓને સ્થાપિત કરો
+
+## Extension shortcut management
+
+manage-extensions-shortcuts =
+    .label = એક્સ્ટેંશન શૉર્ટકટ્સ મેનેજ કરો
+    .accesskey = S
+shortcuts-empty-message = આ એક્સ્ટેન્શન માટે કોઈ શૉર્ટકટ્સ નથી.
+shortcuts-no-addons = તમારી પાસે કોઈ એક્સ્ટેન્શન સક્ષમ નથી.
+shortcuts-no-commands = નીચેના એક્સ્ટેન્શન્સમાં શૉર્ટકટ્સ નથી:
+shortcuts-input =
+    .placeholder = શૉર્ટકટ લખો
+shortcuts-browserAction = એક્સ્ટેંશન સક્રિય કરો
+shortcuts-pageAction = પૃષ્ઠ ક્રિયા સક્રિય કરો
+shortcuts-sidebarAction = ટૉગલ બાજુપટ્ટી
+shortcuts-modifier-mac = Ctrl, Alt, અથવા ⌘ શામેલ કરો
+shortcuts-modifier-other = Ctrl અથવા Alt ને શામેલ કરો
+shortcuts-invalid = અમાન્ય સંયોજન
+shortcuts-letter = એક પત્ર લખો
+shortcuts-system = { -brand-short-name } શૉર્ટકટને ઓવરરાઇડ કરી શકતા નથી
+shortcuts-card-expand-button =
+    { $numberToShow ->
+        [one] { $NumberToShow } વધુ બતાવો
+       *[other] { $NumberToShow } વધુ બતાવો
+    }
+shortcuts-card-collapse-button = ઓછું બતાવો
+go-back-button =
+    .tooltiptext = પાછળ જાવ
+
+## Add-on actions
+
+remove-addon-button = દૂર કરો
+disable-addon-button = નિષ્ક્રિય
+enable-addon-button = સક્રિય
+addons-enabled-heading = સક્રિય
+addons-disabled-heading = નિષ્ક્રિય
