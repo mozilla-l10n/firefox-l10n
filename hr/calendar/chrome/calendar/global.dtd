@@ -4,10 +4,10 @@
 
 <!ENTITY time.midnight "Ponoć" >
 <!ENTITY time.noon "Podne" >
+
 <!-- Day Names -->
 <!-- LOCALIZATION NOTE : Accesskeys for day.1.Ddd to day.7.Ddd are currently
      only used in Preferences > Views > Workweek groupbox -->
-
 <!ENTITY day.1.Ddd "Ned" >
 <!ENTITY day.1.Ddd.accesskey "N">
 <!ENTITY day.2.Ddd "Pon" >
@@ -46,6 +46,8 @@
 
 <!ENTITY onemonthbackward.tooltip "Jedan mjesec unazad" >
 <!ENTITY onemonthforward.tooltip "Jedan mjesec naprijed" >
+<!ENTITY oneyearbackward.tooltip "Jedna godina natrag" >
+<!ENTITY oneyearforward.tooltip "Jedna godina naprijed" >
 <!ENTITY showToday.tooltip "Idi na danas">
 <!ENTITY onedayforward.tooltip "Jedan dan naprijed">
 <!ENTITY onedaybackward.tooltip "Jedan dan nazad">
