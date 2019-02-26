@@ -11,37 +11,37 @@
 <!ENTITY organize.tooltip      "Tổ chức trang đánh dấu của bạn">
 
 <!ENTITY file.close.label               "Đóng">
-<!ENTITY file.close.accesskey           "g">
+<!ENTITY file.close.accesskey           "C">
 <!ENTITY cmd.close.key                  "w">
 <!ENTITY views.label                    "Xem">
-<!ENTITY views.accesskey                "X">
-<!ENTITY views.tooltip                  "Thay đổi góc nhìn của bạn">
-<!ENTITY view.columns.label             "Hiện Cột">
+<!ENTITY views.accesskey                "V">
+<!ENTITY views.tooltip                  "Thay đổi cách nhìn của bạn">
+<!ENTITY view.columns.label             "Hiển thị cột">
 <!ENTITY view.columns.accesskey         "C">
-<!ENTITY view.sort.label                "Xếp">
-<!ENTITY view.sort.accesskey            "p">
-<!ENTITY view.unsorted.label            "Chưa xếp">
-<!ENTITY view.unsorted.accesskey        "C">
-<!ENTITY view.sortAscending.label       "Xếp theo A > Z">
-<!ENTITY view.sortAscending.accesskey   "o">
-<!ENTITY view.sortDescending.label      "Xếp theo Z > A">
+<!ENTITY view.sort.label                "Sắp xếp">
+<!ENTITY view.sort.accesskey            "S">
+<!ENTITY view.unsorted.label            "Chưa sắp xếp">
+<!ENTITY view.unsorted.accesskey        "U">
+<!ENTITY view.sortAscending.label       "Sắp xếp từ A > Z">
+<!ENTITY view.sortAscending.accesskey   "A">
+<!ENTITY view.sortDescending.label      "Sắp xếp từ Z > A">
 <!ENTITY view.sortDescending.accesskey  "Z">
 
 <!ENTITY importBookmarksFromHTML.label     "Nhập trang đánh dấu từ HTML…">
-<!ENTITY importBookmarksFromHTML.accesskey "a">
+<!ENTITY importBookmarksFromHTML.accesskey "I">
 <!ENTITY exportBookmarksToHTML.label       "Xuất trang đánh dấu vào HTML…">
-<!ENTITY exportBookmarksToHTML.accesskey   "X">
-<!ENTITY importOtherBrowser.label          "Nhập dữ liệu từ Trình duyệt khác…">
-<!ENTITY importOtherBrowser.accesskey      "y">
+<!ENTITY exportBookmarksToHTML.accesskey   "E">
+<!ENTITY importOtherBrowser.label          "Nhập dữ liệu từ trình duyệt khác…">
+<!ENTITY importOtherBrowser.accesskey      "A">
 
 <!ENTITY cmd.backup.label               "Sao lưu…">
-<!ENTITY cmd.backup.accesskey           "S">
+<!ENTITY cmd.backup.accesskey           "B">
 <!ENTITY cmd.restore2.label             "Khôi phục">
-<!ENTITY cmd.restore2.accesskey         "K">
-<!ENTITY cmd.restoreFromFile.label      "Chọn Tập Tin…">
-<!ENTITY cmd.restoreFromFile.accesskey  "T">
+<!ENTITY cmd.restore2.accesskey         "R">
+<!ENTITY cmd.restoreFromFile.label      "Chọn tập tin…">
+<!ENTITY cmd.restoreFromFile.accesskey  "C">
 
-<!ENTITY cmd.deleteDomainData.label     "Quên Trang Này">
+<!ENTITY cmd.deleteDomainData.label     "Quên trang này">
 <!ENTITY cmd.deleteDomainData.accesskey "Q">
 
 <!ENTITY cmd.open.label                  "Mở">
@@ -58,7 +58,7 @@
 <!ENTITY cmd.properties.label      "Thuộc tính">
 <!ENTITY cmd.properties.accesskey  "h">
 
-<!ENTITY cmd.sortby_name.label              "Xếp theo Tên">
+<!ENTITY cmd.sortby_name.label              "Sắp xếp theo tên">
 <!ENTITY cmd.sortby_name.accesskey          "X">
 <!ENTITY cmd.context_sortby_name.accesskey  "e">
 
