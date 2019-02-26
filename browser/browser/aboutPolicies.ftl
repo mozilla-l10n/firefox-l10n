@@ -7,13 +7,8 @@ about-policies-title = Políticas empresariales
 active-policies-tab = Activo
 errors-tab = Errores
 documentation-tab = Documentación
+no-specified-policies-message = El servicio de Políticas Empresariales está activo pero no hay políticas habilitadas.
+inactive-message = El servicio de Políticas Empresariales está inactivo.
 policy-name = Nombre de la política
 policy-value = Valor de la política
 policy-errors = Errores de la política
-# 'gpo-machine-only' policies are related to the Group Policy features
-# on Windows. Please use the same terminology that is used on Windows
-# to describe Group Policy.
-# These policies can only be set at the computer-level settings, while
-# the other policies can also be set at the user-level.
-gpo-machine-only =
-    .title = Cuando se usa una Política de Grupo, esta política puede ser establecida solamente a nivel de la computadora.
