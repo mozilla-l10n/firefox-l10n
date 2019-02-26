@@ -46,6 +46,8 @@
 
 <!ENTITY onemonthbackward.tooltip "Один місяць назад" >
 <!ENTITY onemonthforward.tooltip "Один місяць вперед" >
+<!ENTITY oneyearbackward.tooltip "На один рік назад" >
+<!ENTITY oneyearforward.tooltip "На один рік вперед" >
 <!ENTITY showToday.tooltip "Сьогодні">
 <!ENTITY onedayforward.tooltip "Один день вперед">
 <!ENTITY onedaybackward.tooltip "Один день назад">
