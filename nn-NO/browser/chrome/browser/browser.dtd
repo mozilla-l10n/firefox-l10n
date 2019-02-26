@@ -1135,5 +1135,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY addonPrivateBrowsing.header.label "Utvidingar i private vindauge">
 <!ENTITY addonPrivateBrowsing.okButton.label "Ok, eg forstår">
+<!ENTITY addonPrivateBrowsing.okButton.accesskey "O">
 <!ENTITY addonPrivateBrowsing.manageButton.label "Handter tillegg">
 <!ENTITY addonPrivateBrowsing.manageButton.accesskey "H">
