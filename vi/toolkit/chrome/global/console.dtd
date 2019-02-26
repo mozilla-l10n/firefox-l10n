@@ -28,9 +28,9 @@
 <!ENTITY copyCmd.label       "Sao chép">  
 <!ENTITY copyCmd.accesskey   "C"> 
 <!ENTITY copyCmd.commandkey  "C"> 
-<!ENTITY sortFirst.label     "Sắp xếp Đầu > Cuối">
+<!ENTITY sortFirst.label     "Sắp xếp từ đầu > cuối">
 <!ENTITY sortFirst.accesskey "u">
-<!ENTITY sortLast.label      "Sắp xếp Cuối > Đầu">
+<!ENTITY sortLast.label      "Sắp xếp từ cuối > đầu">
 <!ENTITY sortLast.accesskey  "i">
 <!ENTITY closeCmd.commandkey "w">  
 <!ENTITY focus1.commandkey   "l">  
