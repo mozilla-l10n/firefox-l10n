@@ -7,13 +7,8 @@ about-policies-title = Pravila poduzeća
 active-policies-tab = Aktivno
 errors-tab = Greške
 documentation-tab = Dokumentacija
+no-specified-policies-message = Servisi korporacijskih politika su aktivni, ali nema aktivnih politika.
+inactive-message = Servisi korporacijskih politika nisu aktivni.
 policy-name = Naziv politike
 policy-value = Vrijednost pravila
 policy-errors = Greške u pravilima
-# 'gpo-machine-only' policies are related to the Group Policy features
-# on Windows. Please use the same terminology that is used on Windows
-# to describe Group Policy.
-# These policies can only be set at the computer-level settings, while
-# the other policies can also be set at the user-level.
-gpo-machine-only =
-    .title = Kada upotrebljavate grupna pravila, ovo pravilo se može postaviti samo na razini računala.
