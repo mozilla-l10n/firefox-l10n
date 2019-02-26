@@ -7,13 +7,8 @@ about-policies-title = Корпоративна політика
 active-policies-tab = Активно
 errors-tab = Помилки
 documentation-tab = Документація
+no-specified-policies-message = Служба корпоративних політик активна, але жодної політики не увімкнено.
+inactive-message = Служба корпоративних політик неактивна.
 policy-name = Назва політики
 policy-value = Значення політики
 policy-errors = Помилки політики
-# 'gpo-machine-only' policies are related to the Group Policy features
-# on Windows. Please use the same terminology that is used on Windows
-# to describe Group Policy.
-# These policies can only be set at the computer-level settings, while
-# the other policies can also be set at the user-level.
-gpo-machine-only =
-    .title = При використанні групової політики, цю політику можливо встановити лише на рівні комп'ютера.
