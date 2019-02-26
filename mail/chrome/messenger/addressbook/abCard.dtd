@@ -77,8 +77,11 @@
 <!ENTITY Birthday.label                 "Rođendan:">
 <!ENTITY Birthday.accesskey             "R">
 <!ENTITY In.label                       "">
+<!ENTITY Month.placeholder              "Mjesec">
+<!ENTITY Day.placeholder                "Dan">
 <!ENTITY Year.placeholder               "Godina">
 <!ENTITY Or.value                       "ili">
+<!ENTITY Age.label                      "Starost:">
 <!ENTITY Age.placeholder                "Starost">
 <!ENTITY YearsOld.label                 "">
 
