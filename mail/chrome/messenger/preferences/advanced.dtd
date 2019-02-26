@@ -78,6 +78,7 @@
 <!ENTITY useService.label                "Erabili atzeko planoko zerbitzua eguneraketak instalatzeko">
 <!ENTITY useService.accesskey            "z">
 
+<!ENTITY updateCrossUserSettingWarning.description "Ezarpenak leiho guztiei aplikatuko zaizkie eta &brandShortName; profil guztiei, &brandShortName; instalazio hau erabiliz.">
 
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Ezarpenak…">
