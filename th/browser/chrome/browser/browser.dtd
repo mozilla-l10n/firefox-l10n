@@ -996,10 +996,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "คุกกี้">
 <!ENTITY contentBlocking.cookiesView.label "คุกกี้และข้อมูลไซต์">
 
+<!ENTITY contentBlocking.cryptominers.label "ตัวขุดเหรียญดิจิทัล">
+<!ENTITY contentBlocking.cryptominersView.label "ตัวขุดเหรียญดิจิทัล">
 
+<!ENTITY contentBlocking.fingerprinters.label "ลายนิ้วมือดิจิทัล">
+<!ENTITY contentBlocking.fingerprintersView.label "ลายนิ้วมือดิจิทัล">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "รายงานปัญหา">
 <!ENTITY contentBlocking.breakageReportView.label "รายงานปัญหา">
+<!ENTITY contentBlocking.breakageReportView2.description "การบล็อกเนื้อหาอาจทำให้เกิดปัญหากับบางเว็บไซต์ได้ เมื่อคุณรายงานปัญหา นั่นก็เท่ากับคุณช่วยทำให้ &brandShortName; ดีขึ้นสำหรับทุกๆ คน (การดำเนินการนี้จะส่ง URL พร้อมทั้งข้อมูลเกี่ยวกับการตั้งค่าเบราว์เซอร์ของคุณไปให้กับ Mozilla)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "เรียนรู้เพิ่มเติม">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "คุณมีปัญหาอะไร? (ไม่จำเป็นต้องระบุ)">
@@ -1017,6 +1022,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate5.label "ปิดการปิดกั้นชั่วคราว">
 <!ENTITY trackingProtection.unblockPrivate5.accesskey "ป">
 <!ENTITY trackingProtection.block6.label "เปิดการปิดกั้นสำหรับไซต์นี้">
+<!ENTITY trackingProtection.block6.accesskey "T">
 <!ENTITY trackingProtection.reload2.label "โหลดหน้าใหม่">
 <!ENTITY trackingProtection.reload2.accesskey "ห">
 
