@@ -147,6 +147,55 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = Standard wužywaś
 security-no-visits = Ně
+# This string is used to display the number of meta tags
+# in the General Tab
+# Variables:
+#   $tags (number) - The number of meta tags
+general-meta-tags =
+    .value =
+        { $tags ->
+            [one] Meta ({ $tags } wobznamjenje)
+            [two] Meta ({ $tags } wobznamjeni)
+            [few] Meta ({ $tags } wobznamjenja)
+           *[other] Meta ({ $tags } wobznamjenjow)
+        }
+# This string is used to display the number of times
+# the user has visited the website prior
+# Variables:
+#   $visits (number) - The number of previous visits
+security-visits-number =
+    { $visits ->
+        [0] Ně
+        [one] Jo, { $visits } raz
+        [two] Jo, { $visits } raza
+        [few] Jo, { $visits } raze
+       *[other] Jo, { $visits } razow
+    }
+# This string is used to display the size of a media file
+# Variables:
+#   $kb (number) - The size of an image in Kilobytes
+#   $bytes (number) - The size of an image in Bytes
+properties-general-size =
+    .value =
+        { $bytes ->
+            [one] { $kb } KB ({ $bytes } bajt)
+            [two] { $kb } KB ({ $bytes } bajta)
+            [few] { $kb } KB ({ $bytes } bajty)
+           *[other] { $kb } KB ({ $bytes } bajtow)
+        }
+# This string is used to display the type and number
+# of frames of a animated image
+# Variables:
+#   $type (string) - The type of a animated image
+#   $frames (number) - The number of frames in an animated image
+media-animated-image-type =
+    .value =
+        { $frames ->
+            [one] Wobraz { $type } (animěrowany, { $frames } wobłuk)
+            [two] Wobraz { $type } (animěrowany, { $frames } wobłuka)
+            [few] Wobraz { $type } (animěrowany, { $frames } wobłuki)
+           *[other] Wobraz { $type } (animěrowany, { $frames } wobłukow)
+        }
 # This string is used to display the type of
 # an image
 # Variables:
