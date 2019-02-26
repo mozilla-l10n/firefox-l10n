@@ -7,13 +7,8 @@ about-policies-title = Pśedewześowe pšawidła
 active-policies-tab = Aktiwny
 errors-tab = Zmólki
 documentation-tab = Dokumentacija
+no-specified-policies-message = Słužba pśdedewześowych pšawidłow jo aktiwna, ale pšawidła njejsu zmóžnjone.
+inactive-message = Słužba pśedewześowych pšawidłow njejo aktiwna.
 policy-name = Mě pšawidła
 policy-value = Gódnota pšawidła
 policy-errors = Zmólki pšawidłow
-# 'gpo-machine-only' policies are related to the Group Policy features
-# on Windows. Please use the same terminology that is used on Windows
-# to describe Group Policy.
-# These policies can only be set at the computer-level settings, while
-# the other policies can also be set at the user-level.
-gpo-machine-only =
-    .title = Gaž se kupkowe pšawidła wužywaju, daju se toś te pšawidła jano na rowninje licadła nastajiś.
