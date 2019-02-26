@@ -5,6 +5,7 @@
 # An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
 about-config-warning-title = Міне, айдаһар!
 about-config-warning-text = Осы баптауларды өзгерту тұрақтылық, қауіпсіздік пен өнімділіктің құлдырауына әкеп соғуы мүмкін. Сенімді болсаңыз ғана, өзгертіңіз.
+about-config-warning-checkbox = Маған бұл туралы келесіде ескерту!
 about-config-warning-button = Осыны қабылдаймын!
 about-config-title = about:config
 about-config-search-input =

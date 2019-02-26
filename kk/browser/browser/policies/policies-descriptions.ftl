@@ -70,5 +70,6 @@ policy-SearchEngines = Іздеу жүйесі параметрлерін бап
 policy-SecurityDevices = PKCS #11 модульдерін орнату.
 policy-SSLVersionMax = Максималды SSL нұсқасын орнату.
 policy-SSLVersionMin = Минималды SSL нұсқасын орнату.
+policy-SupportMenu = Көмек мәзіріне таңдауыңызша қолдау көрсету мәзір элементін қосу.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Веб-сайттарды шолуға тыйым салады. Пішімі туралы көбірек білу үшін, құжаттаманы қараңыз.
