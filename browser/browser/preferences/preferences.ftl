@@ -529,6 +529,7 @@ sync-mobilepromo-single = Connecter un autre appareil
 sync-mobilepromo-multi = Gérer les appareils
 sync-connect-another-device = Connecter un autre appareil
 sync-manage-devices = Gérer les appareils
+sync-fxa-begin-pairing = Associer un appareil
 sync-tos-link = Conditions d’utilisation
 sync-fxa-privacy-notice = Politique de confidentialité
 
