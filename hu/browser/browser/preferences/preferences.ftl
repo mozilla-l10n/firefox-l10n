@@ -524,6 +524,7 @@ sync-device-name-save =
     .accesskey = M
 sync-mobilepromo-single = Másik eszköz csatlakoztatása
 sync-mobilepromo-multi = Eszközök kezelése
+sync-manage-devices = Eszközök kezelése
 sync-tos-link = A szolgáltatás feltételei
 sync-fxa-privacy-notice = Adatvédelmi megjegyzés
 
