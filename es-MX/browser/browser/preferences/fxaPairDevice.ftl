@@ -5,3 +5,4 @@
 fxa-pair-device-dialog =
     .title = Conectar otro dispositivo
     .style = width: 26em; min-height: 35em;
+fxa-qrcode-error-body = Intentar de nuevo.
