@@ -77,8 +77,11 @@
 <!ENTITY Birthday.label                 "დაბადების დღე:">
 <!ENTITY Birthday.accesskey             "ბ">
 <!ENTITY In.label                       "">
+<!ENTITY Month.placeholder              "თვე">
+<!ENTITY Day.placeholder                "დღე">
 <!ENTITY Year.placeholder               "წელი">
 <!ENTITY Or.value                       "ან">
+<!ENTITY Age.label                      "ასაკი:">
 <!ENTITY Age.placeholder                "ასაკი">
 <!ENTITY YearsOld.label                 "">
 
