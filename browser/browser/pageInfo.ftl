@@ -147,6 +147,47 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = ნაგულისხმევის მითითება
 security-no-visits = არა
+# This string is used to display the number of meta tags
+# in the General Tab
+# Variables:
+#   $tags (number) - The number of meta tags
+general-meta-tags =
+    .value =
+        { $tags ->
+            [one] მონაცემები (1 ჭდე)
+           *[other] მონაცემები ({ $tags } ჭდე)
+        }
+# This string is used to display the number of times
+# the user has visited the website prior
+# Variables:
+#   $visits (number) - The number of previous visits
+security-visits-number =
+    { $visits ->
+        [0] არა
+        [one] დიახ, ერთხელ
+       *[other] დიახ, { $visits }-ჯერ
+    }
+# This string is used to display the size of a media file
+# Variables:
+#   $kb (number) - The size of an image in Kilobytes
+#   $bytes (number) - The size of an image in Bytes
+properties-general-size =
+    .value =
+        { $bytes ->
+            [one] { $kb } კბ ({ $bytes } ბაიტი)
+           *[other] { $kb } კბ ({ $bytes } ბაიტი)
+        }
+# This string is used to display the type and number
+# of frames of a animated image
+# Variables:
+#   $type (string) - The type of a animated image
+#   $frames (number) - The number of frames in an animated image
+media-animated-image-type =
+    .value =
+        { $frames ->
+            [one] { $type } გამოსახულება (მოძრავი, { $frames } კადრი)
+           *[other] { $type } გამოსახულება (მოძრავი, { $frames } კადრი)
+        }
 # This string is used to display the type of
 # an image
 # Variables:
