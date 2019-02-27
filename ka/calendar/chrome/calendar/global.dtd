@@ -44,9 +44,11 @@
 <!ENTITY month.11.name "ნოემბერი" >
 <!ENTITY month.12.name "დეკემებერი" >
 
-<!ENTITY onemonthbackward.tooltip "ერთი თვით უკან" >
-<!ENTITY onemonthforward.tooltip "ერთი თვით წინ" >
+<!ENTITY onemonthbackward.tooltip "ერთი თვით წინ" >
+<!ENTITY onemonthforward.tooltip "ერთი თვით შემდგომ" >
+<!ENTITY oneyearbackward.tooltip "ერთი წლით წინ" >
+<!ENTITY oneyearforward.tooltip "ერთი წლით შემდგომ" >
 <!ENTITY showToday.tooltip "დღეს">
-<!ENTITY onedayforward.tooltip "ერთი დღით უკან">
+<!ENTITY onedayforward.tooltip "ერთი დღით შემდგომ">
 <!ENTITY onedaybackward.tooltip "ერთი დღით წინ">
 <!ENTITY showselectedday.tooltip "ღონისძიებები მითითებული დღისთვის">
