@@ -996,6 +996,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Toupinoù">
 <!ENTITY contentBlocking.cookiesView.label "Toupinoù ha roadennoù lec'hienn">
 
+<!ENTITY contentBlocking.cryptominers.label "Kriptogleuzerien">
+<!ENTITY contentBlocking.cryptominersView.label "Klriptogleuzerien">
+
+<!ENTITY contentBlocking.fingerprinters.label "Dinoerien roudoù niverel">
+<!ENTITY contentBlocking.fingerprintersView.label "Dinoerien roudoù niverel">
+
 <!ENTITY contentBlocking.openBreakageReportView2.label "Danevelliñ ur gudenn">
 <!ENTITY contentBlocking.breakageReportView.label "Danevelliñ kudennoù">
 <!ENTITY contentBlocking.breakageReportView2.description "Gallout a ra stankadur an endalc'hadoù sevel kudennoù gant lec'hiennoù 'zo. Pa zanevellit kudennoù e sikourit da lakaat &brandShortName; gwelloc'h evit an holl. (Kas a raio un URL ha titouroù a-zivout hoc'h arventennoù merdeer da vMozilla.)">

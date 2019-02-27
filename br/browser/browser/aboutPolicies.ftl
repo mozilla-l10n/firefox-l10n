@@ -7,13 +7,8 @@ about-policies-title = Reolennoù embregerezh
 active-policies-tab = Oberiant
 errors-tab = Fazioù
 documentation-tab = Teuliadur
+no-specified-policies-message = Oberiant eo ar gwazerezh reolennoù embregerezh met n'eus reolenn ebet gweredekaet.
+inactive-message = Dioberiant eo ar gwazerezh reolennoù embregerezh.
 policy-name = Anv ar reolenn
 policy-value = Gwerzh ar reolenn
 policy-errors = Fazioù ar reolenn
-# 'gpo-machine-only' policies are related to the Group Policy features
-# on Windows. Please use the same terminology that is used on Windows
-# to describe Group Policy.
-# These policies can only be set at the computer-level settings, while
-# the other policies can also be set at the user-level.
-gpo-machine-only =
-    .title = En ur arverañ ar reolennoù strollad e c'hallit o arloañ e live an urzhiataer hepken.

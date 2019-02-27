@@ -50,6 +50,9 @@ category-privacy =
 pane-sync-title = Kont Firefox
 category-sync =
     .tooltiptext = { pane-sync-title }
+pane-sync-title2 = { -sync-brand-short-name }
+category-sync2 =
+    .tooltiptext = { pane-sync-title2 }
 help-button-label = Skor { -brand-short-name }
 addons-button-label = Askouezhioù & Neuzioù
 focus-search =
@@ -533,6 +536,9 @@ sync-device-name-save =
     .accesskey = E
 sync-mobilepromo-single = Kennaskañ un trevnad all
 sync-mobilepromo-multi = Merañ an trevnadoù
+sync-connect-another-device = Kennaskit un trevnad all
+sync-manage-devices = Merañ an trevnadoù
+sync-fxa-begin-pairing = Koublañ un trevnad
 sync-tos-link = Divizoù arver
 sync-fxa-privacy-notice = Evezhiadennoù a-fet buhez prevez
 
@@ -697,6 +703,10 @@ content-blocking-tracking-protection-change-block-list = Kemmañ ar roll stanka�
 content-blocking-cookies-label =
     .label = Toupinoù
     .accesskey = T
+# Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
+content-blocking-cryptominers-label =
+    .label = Kriptogleuzerien
+    .accesskey = K
 # Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
 # that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
 content-blocking-fingerprinters-label =

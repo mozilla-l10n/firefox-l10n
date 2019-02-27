@@ -147,6 +147,59 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = Arverañ an arventennoù dre ziouer
 security-no-visits = Ket
+# This string is used to display the number of meta tags
+# in the General Tab
+# Variables:
+#   $tags (number) - The number of meta tags
+general-meta-tags =
+    .value =
+        { $tags ->
+            [one] Meta ({ $tags } skritellig)
+            [two] Meta ({ $tags } skritellig)
+            [few] Meta ({ $tags } skritellig)
+            [many] Meta ({ $tags } a skritelligoù)
+           *[other] Meta ({ $tags } skritellig)
+        }
+# This string is used to display the number of times
+# the user has visited the website prior
+# Variables:
+#   $visits (number) - The number of previous visits
+security-visits-number =
+    { $visits ->
+        [0] Ne ra ket
+        [one] Ya, { $visits } wech
+        [two] Ya, { $visits } wech
+        [few] Ya, { $visits } gwech
+        [many] Ya, { $visits } a wechoù
+       *[other] Ya, { $visits } gwech
+    }
+# This string is used to display the size of a media file
+# Variables:
+#   $kb (number) - The size of an image in Kilobytes
+#   $bytes (number) - The size of an image in Bytes
+properties-general-size =
+    .value =
+        { $bytes ->
+            [one] { $kb } Ke ({ $bytes } eizhbit)
+            [two] { $kb } Ke ({ $bytes } eizhbit)
+            [few] { $kb } Ke ({ $bytes } eizhbit)
+            [many] { $kb } Ke ({ $bytes } a eizhbitoù)
+           *[other] { $kb } Ke ({ $bytes } eizhbit)
+        }
+# This string is used to display the type and number
+# of frames of a animated image
+# Variables:
+#   $type (string) - The type of a animated image
+#   $frames (number) - The number of frames in an animated image
+media-animated-image-type =
+    .value =
+        { $frames ->
+            [one] Skeudenn { $type } (blivet, { $frames } skeudenn)
+            [two] Skeudenn { $type } (blivet, { $frames } skeudenn)
+            [few] Skeudenn { $type } (blivet, { $frames } skeudenn)
+            [many] Skeudenn { $type } (blivet, { $frames } a skeudennoù)
+           *[other] Skeudenn { $type } (blivet, { $frames } skeudenn)
+        }
 # This string is used to display the type of
 # an image
 # Variables:

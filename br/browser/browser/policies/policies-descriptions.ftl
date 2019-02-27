@@ -50,6 +50,7 @@ policy-EnableTrackingProtection = Gweredekaat pe diweredekaat stankadur an endal
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
 policy-Extensions = Staliañ, distaliañ pe prennañ askouezhioù. An dibarzh staliañ a gemer URLoù pe treugoù evel arventennoù. An dibarzhioù distaliañ ha prennañ a gemer naoudioù askouezhioù.
+policy-ExtensionUpdate = (Di)weredekaat hizivadennoù askouezhioù ent emgefreek.
 policy-FlashPlugin = Aotren pe difenn arver an enlugellad Flash.
 policy-HardwareAcceleration = M'eo lakaet da Gaou e vo diweredekaet herrekadur ar periant.
 # “lock” means that the user won’t be able to change this setting
@@ -71,5 +72,6 @@ policy-SearchEngines = Kefluniañ arventennoù al lusker enklask. Ar reolenn-ma�
 policy-SecurityDevices = Staliañ ar molladoù PKCS #11.
 policy-SSLVersionMax = Arventennañ an handelv SSL uhelañ.
 policy-SSLVersionMin = Arventennañ an handelv SSL izelañ.
+policy-SupportMenu = Ouzhpennañ un elfenn lañser skor personelaet el lañser skoazell.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Stankañ al lec'hiennoù da vezañ gweladennet. Lennit an teuliadur evit kaout muioc'h a vunudoù war ar mentrezh.
