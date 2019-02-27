@@ -147,6 +147,28 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = Користи подразумевано
 security-no-visits = Не
+# This string is used to display the number of meta tags
+# in the General Tab
+# Variables:
+#   $tags (number) - The number of meta tags
+general-meta-tags =
+    .value =
+        { $tags ->
+            [one] Мета ({ $tags } ознака)
+            [few] Мета ({ $tags } ознаке)
+           *[other] Мета ({ $tags } ознака)
+        }
+# This string is used to display the number of times
+# the user has visited the website prior
+# Variables:
+#   $visits (number) - The number of previous visits
+security-visits-number =
+    { $visits ->
+        [0] Не
+        [one] Да, један
+        [few] Да, више
+       *[other] Да, { $visits } пута
+    }
 # This string is used to display the type of
 # an image
 # Variables:
