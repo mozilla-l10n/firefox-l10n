@@ -236,8 +236,8 @@ shortcuts-letter = એક પત્ર લખો
 shortcuts-system = { -brand-short-name } શૉર્ટકટને ઓવરરાઇડ કરી શકતા નથી
 shortcuts-card-expand-button =
     { $numberToShow ->
-        [one] { $NumberToShow } વધુ બતાવો
-       *[other] { $NumberToShow } વધુ બતાવો
+        [one] { $numberToShow } વધુ બતાવો
+       *[other] { $numberToShow } વધુ બતાવો
     }
 shortcuts-card-collapse-button = ઓછું બતાવો
 go-back-button =
