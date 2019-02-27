@@ -5,7 +5,7 @@
 <!-- Don't localize these. They're here until they have
      a better place to live. -->
 <!ENTITY syncBrand.fullName.label "Đồng bộ hóa Firefox">
-<!ENTITY syncBrand.shortName.label "Đồng bộ">
+<!ENTITY syncBrand.shortName.label "Đồng bộ hóa">
 
 <!-- Main titles. -->
 <!ENTITY sync.title.connect.label 'Kết nối đến &syncBrand.shortName.label;'>
@@ -53,7 +53,7 @@
 
 <!ENTITY fxaccount_status_auth_server 'Máy chủ tài khoản'>
 <!ENTITY fxaccount_status_sync_now 'Đồng bộ ngay'>
-<!ENTITY fxaccount_status_syncing2 'Đang đồng bộ...'>
+<!ENTITY fxaccount_status_syncing2 'Đang đồng bộ hóa…'>
 <!ENTITY fxaccount_status_device_name 'Tên thiết bị'>
 <!ENTITY fxaccount_status_sync_server 'Máy chủ đồng bộ'>
 <!ENTITY fxaccount_status_needs_verification2 'Tài khoản của bạn cần được xác thực. Chạm để gửi lại thư xác thực.'>
@@ -81,7 +81,7 @@
 <!ENTITY fxaccount_status_linkprivacy2 'Chính sách riêng tư'>
 <!ENTITY fxaccount_remove_account 'Ngưng kết nối&ellipsis;'>
 
-<!ENTITY fxaccount_remove_account_dialog_title2 'Ngắt kết nối đến Đồng bộ?'>
+<!ENTITY fxaccount_remove_account_dialog_title2 'Ngắt kết nối đến đồng bộ hóa?'>
 <!ENTITY fxaccount_remove_account_dialog_message2 'Dữ liệu duyệt web của bạn sẽ vẫn trên thiết bị này, nhưng nó sẽ không còn đồng bộ với tài khoản của bạn.'>
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->

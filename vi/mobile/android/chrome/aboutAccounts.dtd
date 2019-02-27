@@ -4,7 +4,7 @@
 
 <!ENTITY aboutAccounts.connected.title "Tài khoản Firefox">
 <!ENTITY aboutAccounts.connected.description "Bạn đang kết nối với cái tên">
-<!ENTITY aboutAccounts.syncPreferences.label "Chạm để kiểm tra cài đặt Đồng bộ hóa">
+<!ENTITY aboutAccounts.syncPreferences.label "Chạm để kiểm tra cài đặt đồng bộ hóa">
 
 <!ENTITY aboutAccounts.noConnection.title "Không có kết nối mạng">
 <!ENTITY aboutAccounts.retry.label "Thử lại">
