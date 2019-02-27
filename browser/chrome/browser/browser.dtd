@@ -996,6 +996,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Cookies">
 <!ENTITY contentBlocking.cookiesView.label "Cookies en websitegegevens">
 
+<!ENTITY contentBlocking.cryptominers.label "Cryptominers">
+<!ENTITY contentBlocking.cryptominersView.label "Cryptominers">
+
+<!ENTITY contentBlocking.fingerprinters.label "Fingerprinters">
+<!ENTITY contentBlocking.fingerprintersView.label "Fingerprinters">
+
 <!ENTITY contentBlocking.openBreakageReportView2.label "In probleem rapportearje">
 <!ENTITY contentBlocking.breakageReportView.label "Problemen rapportearje">
 <!ENTITY contentBlocking.breakageReportView2.description "Ynhâldsblokkearring kin problemen mei bepaalde websites feroarsaakje. As jo problemen rapportearje, helpe jo &brandShortName; foar elkenien te ferbetterjen. (Hjirtroch wurdt sawol in URL as ynformaasje oer jo browserynstellingen nei Mozilla ferstjoerd.)">
