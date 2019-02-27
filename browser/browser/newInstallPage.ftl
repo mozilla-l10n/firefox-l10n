@@ -7,6 +7,8 @@
 ### Firefox" and "version" is used to mean "the specific revision number of a
 ### given Firefox channel". These terms are not synonymous.
 
+changed-title = Čo sa zmenilo?
+resources = Zdroje:
 sync-label = Zadajte e-mailovú adresu
 sync-input =
     .placeholder = E-mailová adresa
