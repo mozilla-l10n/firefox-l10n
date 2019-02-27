@@ -6,6 +6,7 @@ blocklist-window =
     .title = Seznami za zavračanje
     .style = width: 50em
 blocklist-desc = Izberite, kateri seznam naj { -brand-short-name } uporablja za zavračanje elementov, ki bi lahko sledili vašim aktivnostim na spletu.
+blocklist-description = Izberite, kateri seznam naj { -brand-short-name } uporablja za zavračanje spletnih sledilcev. Sezname omogoča <a data-l10n-name="disconnect-link" title="Disconnect">Disconnect</a>.
 blocklist-close-key =
     .key = w
 blocklist-treehead-list =
