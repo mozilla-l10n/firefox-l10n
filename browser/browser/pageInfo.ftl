@@ -152,10 +152,7 @@ security-no-visits = No
 # Variables:
 #   $tags (number) - The number of meta tags
 general-meta-tags =
-    .value =
-        { $tags ->
-            *[other] Meta ({ $tags } tag)
-        }
+    .value = Meta ({ $tags } tag)
 # This string is used to display the number of times
 # the user has visited the website prior
 # Variables:
@@ -171,18 +168,14 @@ security-visits-number =
 #   $kb (number) - The size of an image in Kilobytes
 #   $bytes (number) - The size of an image in Bytes
 properties-general-size =
-    .value = { $bytes ->
-        *[other] { $kb } kB ({ $bytes } byte)
-    }
+    .value = { $kb } kB ({ $bytes } byte)
 # This string is used to display the type and number
 # of frames of a animated image
 # Variables:
 #   $type (string) - The type of a animated image
 #   $frames (number) - The number of frames in an animated image
 media-animated-image-type =
-    .value = { $frames ->
-        *[other] { $type } Immagine (animata, { $frames } frame)
-    }
+    .value = { $type } Immagine (animata, { $frames } frame)
 # This string is used to display the type of
 # an image
 # Variables:
