@@ -29,8 +29,6 @@ a tab (i.e. it is a verb, not adjective). -->
 <!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  duplicateTab.accesskey             "o">
-<!ENTITY  closeTabOptions.label              "Možnosti zapiranja zavihkov">
-<!ENTITY  closeTabOptions.accesskey          "ž">
 <!-- LOCALIZATION NOTE (duplicateTabs.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
 <!ENTITY  duplicateTabs.label                "Podvoji zavihke">
@@ -288,7 +286,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Shrani podatke v trajni shrambi">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Brskalnik je pod daljinskim upravljanjem">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Odpri ploščo za spletno overitev">
-
 <!ENTITY urlbar.storageAccessAnchor.tooltip               "Odpri ploščo z dovoljenji za brskanje">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Upravljajte dovoljenje za uporabo kamere in/ali mikrofona na tej strani">
@@ -987,66 +984,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.title "Zavračanje vsebine">
 <!ENTITY contentBlocking.detected "Na tej strani je bila zaznana vsebina, ki jo lahko zavrnete.">
 <!ENTITY contentBlocking.notDetected "Na tej strani ni zaznane vsebine, ki bi jo lahko zavrnili.">
-<!ENTITY contentBlocking.disabled.label "Onemogočeno">
-<!ENTITY contentBlocking.disabled.tooltip "Onemogočili ste zavračanje vsebine.">
-<!ENTITY contentBlocking.exception.tooltip "Zavračanje vsebine na tej strani je onemogočeno.">
-
-<!ENTITY contentBlocking.fastBlock.label "Počasni sledilci">
-<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
-     This label signals that this type of content blocking is turned
-     ON and is successfully blocking malicious/slow content, so this is
-     a positive thing. It forms the end of the (imaginary) sentence
-     "Slow-Loading Trackers [are] Blocked"-->
-<!ENTITY contentBlocking.fastBlock.blocked.label "Zavrnjeni">
-<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocking.label):
-     This label signals that this type of content blocking is turned
-     ON, so this is a positive thing. It forms the verb in (imaginary) sentence
-     "Firefox is blocking Slow-Loading Trackers"-->
-<!ENTITY contentBlocking.fastBlock.blocking.label "Zavrnjeni">
-<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
-     This is displayed as a link to preferences, where the user can add
-     this specific type of content blocking. When this text is shown
-     the type of content blocking is currently not enabled. -->
-<!ENTITY contentBlocking.fastBlock.add.label "Zavračaj …">
-
-<!ENTITY contentBlocking.trackingProtection2.label "Vsi zaznani sledilci">
 
 <!ENTITY contentBlocking.trackingProtection3.label "Sledilci">
-<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
-     This label signals that this type of content blocking is turned
-     ON and is successfully blocking tracker content, so this is
-     a positive thing. It forms the end of the (imaginary) sentence
-     "Trackers [are] Blocked"-->
-<!ENTITY contentBlocking.trackingProtection.blocked.label "Zavrnjeni">
-<!-- LOCALIZATION NOTE (contentBlocking.tranckingProtection.blocking.label):
-     This label signals that this type of content blocking is turned
-     ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
-     "Firefox is blocking Trackers"-->
-<!ENTITY contentBlocking.trackingProtection.blocking.label "Zavrnjeni">
-<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
-     This is displayed as a link to preferences, where the user can add
-     this specific type of content blocking. When this text is shown
-     the type of content blocking is currently not enabled. -->
-<!ENTITY contentBlocking.trackingProtection.add.label "Zavračaj …">
-
-<!ENTITY contentBlocking.3rdPartyCookies.label "Piškotki tretjih strani">
-<!ENTITY contentBlocking.3rdPartyCookies.trackers.label "Sledilni piškotki">
-<!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.blocked.label):
-     This label signals that this type of content blocking is turned
-     ON and is successfully blocking third-party cookies, so this is
-     a positive thing. It forms the end of the (imaginary) sentence
-     "Third-Party Cookies [are] Blocked"-->
-<!ENTITY contentBlocking.3rdPartyCookies.blocked.label "Zavrnjeni">
-<!-- LOCALIZATION NOTE (contentBlocking.tranckingProtection.blocking.label):
-     This label signals that this type of content blocking is turned
-     ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
-     "Firefox is blocking Third-Party Cookies"-->
-<!ENTITY contentBlocking.3rdPartyCookies.blocking.label "Zavrnjeni">
-<!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.add.label):
-     This is displayed as a link to preferences, where the user can add
-     this specific type of content blocking. When this text is shown
-     the type of content blocking is currently not enabled. -->
-<!ENTITY contentBlocking.3rdPartyCookies.add.label "Zavračaj …">
 
 <!ENTITY contentBlocking.manageSettings.label "Upravljaj zavračanje vsebine">
 <!ENTITY contentBlocking.manageSettings.accesskey "U">
@@ -1057,6 +996,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Piškotki">
 <!ENTITY contentBlocking.cookiesView.label "Piškotki in podatki strani">
 
+
+
 <!ENTITY contentBlocking.openBreakageReportView2.label "Prijavi težavo">
 <!ENTITY contentBlocking.breakageReportView.label "Prijavite težave">
 <!ENTITY contentBlocking.breakageReportView2.description "Zavračanje vsebine lahko povzroči težave z nekaterimi spletnimi stranmi. S prijavo težav pomagate izboljšati &brandShortName; za vse uporabnike. (Mozilli bo poslan naslov spletne strani, kot tudi informacije o nastavitvah vašega brskalnika.)">
@@ -1065,22 +1006,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Kakšne težave ste imeli? (neobvezno)">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Pošlji poročilo">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Prekliči">
-
-<!ENTITY trackingProtection.title "Zaščita pred sledenjem">
-<!ENTITY trackingProtection.tooltip "Odpri nastavitve zaščite pred sledenjem">
-
-<!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock4.label "Onemogoči zavračanje za to stran">
-<!ENTITY trackingProtection.unblock4.accesskey "O">
-<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate4.label "Začasno onemogoči zavračanje">
-<!ENTITY trackingProtection.unblockPrivate4.accesskey "Z">
-<!ENTITY trackingProtection.block5.label "Omogoči zavračanje za to stran">
-<!ENTITY trackingProtection.block5.accesskey "M">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
@@ -1099,11 +1024,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pluginNotification.showAll.label "Prikaži vse">
 <!ENTITY pluginNotification.showAll.accesskey "S">
-
-<!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
-<!ENTITY pluginActivateNow.label "Dovoli zdaj">
-<!ENTITY pluginActivateAlways.label "Dovoli in si zapomni">
-<!ENTITY pluginBlockNow.label "Zavrni vtičnik">
 
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
      width of the plugin popup notification that can appear if a plugin has been
@@ -1209,3 +1129,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Upravljajte dodatke s klikom na <image class='addon-addon-icon'/> v meniju <image class='addon-toolbar-icon'/>.">
+
+<!ENTITY addonPrivateBrowsing.header.label "Razširitve v zasebnih oknih">
+<!ENTITY addonPrivateBrowsing.okButton.label "Razumem">
+<!ENTITY addonPrivateBrowsing.okButton.accesskey "z">

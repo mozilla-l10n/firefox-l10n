@@ -17,4 +17,4 @@ reader-view = Bralni pogled
 # Meant to match the string displayed in an empty URL bar.
 open-location = Iskanje ali naslov strani
 share = Deli
-focus = Zapri
+close-window = Zapri okno

@@ -17,7 +17,6 @@ policy-BlockAboutConfig = Zavrni dostop do strani about:config.
 policy-BlockAboutProfiles = Zavrni dostop do strani about:profiles.
 policy-BlockAboutSupport = Zavrni dostop do strani about:support.
 policy-Bookmarks = Ustvarjaj zaznamke v orodni vrstici, meniju zaznamkov ali v določeni mapi.
-policy-Certificates = Ali naj se uporablja vgrajena digitalna potrdila ali ne. Ta pravilnik trenutno deluje le v sistemu Windows.
 policy-CertificatesDescription = Dodajte digitalna potrdila ali uporabite vgrajena potrdila.
 policy-Cookies = Spletnim stranem dovoli ali zavrni nastavljanje piškotkov.
 policy-DisableAppUpdate = Prepreči posodabljanje brskalnika.
@@ -37,7 +36,6 @@ policy-DisableProfileImport = Onemogoči menijski ukaz Uvozi podatke drugega brs
 policy-DisableProfileRefresh = Onemogoči gumb Osveži { -brand-short-name } na strani about:support.
 policy-DisableSafeMode = Onemogoči možnost za ponovni zagon v varnem načinu. Opomba: zagon varnega načina s tipko Shift lahko v sistemu Windows onemogočite le z uporabo pravilnika skupine.
 policy-DisableSecurityBypass = Uporabniku prepreči, da zaobide določena varnostna opozorila.
-policy-DisableSetDesktopBackground = Onemogoči menijski ukaz Nastavi sliko kot ozadje namizja.
 policy-DisableSetAsDesktopBackground = Onemogoči menijski ukaz Nastavi kot ozadje namizja za slike.
 policy-DisableSystemAddonUpdate = Prepreči brskalniku nameščanje in posodabljanje sistemskih dodatkov.
 policy-DisableTelemetry = Izključi telemetrijo.
@@ -49,9 +47,9 @@ policy-DontCheckDefaultBrowser = Onemogoči preverjanje privzetega brskalnika ob
 policy-EnableTrackingProtection = Omogoči ali onemogoči zavračanje vsebine ter ga po potrebi zakleni.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
-# English or translate them as verbs. See also:
-# https://github.com/mozilla/policy-templates/blob/master/README.md#extensions-machine-only
+# English or translate them as verbs.
 policy-Extensions = Namesti, odstrani ali zakleni razširitve. Možnost "Install" kot parametre sprejema URL-je ali poti. Možnosti "Uninstall" in "Locked" sprejemata ID-je razširitev.
+policy-ExtensionUpdate = Omogoči ali onemogoči samodejno posodabljanje razširitev.
 policy-FlashPlugin = Dovoli ali zavrni uporabo vtičnika Flash.
 policy-HardwareAcceleration = Če je "false", izklopi strojno pospeševanje.
 # “lock” means that the user won’t be able to change this setting
@@ -70,6 +68,8 @@ policy-SearchBar = Nastavi privzet položaj vrstice za iskanje. Uporabnik ga lah
 policy-SearchEngines = Nastavi iskalnike. Ta pravilnik je na voljo le v izdaji Extended Support Release (ESR).
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Namesti module PKCS #11.
-# “format” refers to the format used for the value of this policy. See also:
-# https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
+policy-SSLVersionMax = Nastavi najnovejšo dovoljeno različico SSL.
+policy-SSLVersionMin = Nastavi najstarejšo dovoljeno različico SSL.
+policy-SupportMenu = Dodaj poljubno povezavo za podporo v meni Pomoč.
+# “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Prepreči obisk določenih spletnih mest. Za več podrobnosti o obliki glejte dokumentacijo.
