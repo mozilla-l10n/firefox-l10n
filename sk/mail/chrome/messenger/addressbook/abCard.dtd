@@ -77,8 +77,11 @@
 <!ENTITY Birthday.label                 "Dátum narodenia:">
 <!ENTITY Birthday.accesskey             "n">
 <!ENTITY In.label                       "">
+<!ENTITY Month.placeholder              "Mesiac">
+<!ENTITY Day.placeholder                "Deň">
 <!ENTITY Year.placeholder               "Rok">
 <!ENTITY Or.value                       "alebo">
+<!ENTITY Age.label                      "Vek:">
 <!ENTITY Age.placeholder                "vek">
 <!ENTITY YearsOld.label                 "">
 
@@ -141,7 +144,6 @@
 
 <!ENTITY Photo.tab                      "Fotografia">
 <!ENTITY Photo.accesskey                "o">
-<!ENTITY PhotoDesc.label                "Zvoľte jednu z možností:">
 <!ENTITY GenericPhoto.label             "Predvolený obrázok">
 <!ENTITY GenericPhoto.accesskey         "e">
 <!ENTITY DefaultPhoto.label             "Predvolený">
