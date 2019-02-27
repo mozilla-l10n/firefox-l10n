@@ -234,6 +234,7 @@ manage-extensions-shortcuts =
     .accesskey = U
 shortcuts-empty-message = Der binne gjin fluchtoetsen foar dizze útwreiding.
 shortcuts-no-addons = Jo hawwe gjin útwreidingen ynskeakele.
+shortcuts-no-commands = De folgjende útwreidingen hawwe gjin fluchtoetsen:
 shortcuts-input =
     .placeholder = Typ in fluchtoets
 shortcuts-browserAction = Utwreiding aktivearje
@@ -251,3 +252,11 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = Minder toane
 go-back-button =
     .tooltiptext = Tebekgean
+
+## Add-on actions
+
+remove-addon-button = Fuortsmite
+disable-addon-button = Utskeakelje
+enable-addon-button = Ynskeakelje
+addons-enabled-heading = Ynskeakele
+addons-disabled-heading = Utskeakele
