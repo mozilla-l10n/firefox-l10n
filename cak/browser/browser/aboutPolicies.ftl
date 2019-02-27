@@ -7,13 +7,8 @@ about-policies-title = Ajk'aymolojel taq Na'ojil
 active-policies-tab = Tzijïl
 errors-tab = Taq sachoj
 documentation-tab = Yaköl wuj
+no-specified-policies-message = Tzijïl ri samaj Kina'ojil Loq'k'ayij xa xe chi majun na'ojil tzijon.
+inactive-message = Chupül ri samaj richin Kina'ojil Loq'k'ayij.
 policy-name = Rub'i' Na'ojil
 policy-value = Rejqalem Na'ojil
 policy-errors = KIsachoj Na'ojil
-# 'gpo-machine-only' policies are related to the Group Policy features
-# on Windows. Please use the same terminology that is used on Windows
-# to describe Group Policy.
-# These policies can only be set at the computer-level settings, while
-# the other policies can also be set at the user-level.
-gpo-machine-only =
-    .title = Toq nokisäx jun Ajmoloj Na'ojil, re na'ojil re' xa xe ninuk' pa kematz'ib'.
