@@ -50,6 +50,7 @@ policy-EnableTrackingProtection = Ynhâldsblokkearring ynskeakelje of útskeakel
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
 policy-Extensions = Utwreidingen ynstallearje, fuortsmite of beskoattelje. De opsje foar ynstallearjen brûkt URL’s of paden as parameters. De opsjes foar fuortsmiten en beskoatteljen brûke útwreiding-ID’s.
+policy-ExtensionUpdate = Automatyske útwreiding-fernijingen ynskeakelje of útskeakelje.
 policy-FlashPlugin = Gebrûk fan de Flash-ynstekker tastean of wegerje.
 policy-HardwareAcceleration = Wannear false, hardwarefersnelling útskeakelje.
 # “lock” means that the user won’t be able to change this setting
@@ -71,5 +72,6 @@ policy-SearchEngines = Ynstellingen foar sykmasinen konfigurearje. Dizze belieds
 policy-SecurityDevices = PKCS #11-modules ynstallearje.
 policy-SSLVersionMax = De maksimale SSL-ferzje ynstelle.
 policy-SSLVersionMin = De minimale SSL-ferzje ynstelle.
+policy-SupportMenu = In oanpast menu-item foar stipe oan it menu Help tafoegje.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = It besykjen fan websites blokkearje. Sjoch de dokumintaasje foar mear ynformaasje oer de notaasje.

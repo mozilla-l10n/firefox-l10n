@@ -7,13 +7,8 @@ about-policies-title = Bedriuwsbelied
 active-policies-tab = Aktyf
 errors-tab = Flaters
 documentation-tab = Dokumintaasje
+no-specified-policies-message = De Enterprise Policies-tsjinst is aktyf, mar der binne gjin beliedsrigels ynskeakele.
+inactive-message = De Enterprise Policies-tsjinst is ynaktyf.
 policy-name = Beliedsnamme
 policy-value = Beliedswearde
 policy-errors = Beliedsflaters
-# 'gpo-machine-only' policies are related to the Group Policy features
-# on Windows. Please use the same terminology that is used on Windows
-# to describe Group Policy.
-# These policies can only be set at the computer-level settings, while
-# the other policies can also be set at the user-level.
-gpo-machine-only =
-    .title = By gebrûk fan Groepsbelied kin dizze beliedsregel allinnich op kompjûternivo ynsteld wurde.
