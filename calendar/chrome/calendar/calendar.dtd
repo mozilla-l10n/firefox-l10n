@@ -78,12 +78,12 @@
 <!ENTITY calendar.nextmonth.accesskey           "x" >
 <!ENTITY calendar.prevmonth.accesskey           "s" >
 
-<!ENTITY calendar.navigation.nextday.tooltip    "ერთი დღით წინ" >
-<!ENTITY calendar.navigation.prevday.tooltip    "ერთი დღით უკან" >
-<!ENTITY calendar.navigation.nextweek.tooltip   "ერთი კვირით წინ" >
-<!ENTITY calendar.navigation.prevweek.tooltip   "ერთი კვირით უკან" >
-<!ENTITY calendar.navigation.nextmonth.tooltip  "ერთი თვით წინ" >
-<!ENTITY calendar.navigation.prevmonth.tooltip  "ერთი თვით უკან" >
+<!ENTITY calendar.navigation.nextday.tooltip    "ერთი დღით შემდგომ" >
+<!ENTITY calendar.navigation.prevday.tooltip    "ერთი დღით წინ" >
+<!ENTITY calendar.navigation.nextweek.tooltip   "ერთი კვირით შემდგომ" >
+<!ENTITY calendar.navigation.prevweek.tooltip   "ერთი კვირით წინ" >
+<!ENTITY calendar.navigation.nextmonth.tooltip  "ერთი თვით შემდგომ" >
+<!ENTITY calendar.navigation.prevmonth.tooltip  "ერთი თვით წინ" >
 
 <!ENTITY calendar.newevent.button.label         "ახალი ღონისძიება" >
 <!ENTITY calendar.newtask.button.label          "რედაქტირება" >
