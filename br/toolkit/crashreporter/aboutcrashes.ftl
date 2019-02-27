@@ -3,11 +3,10 @@
 # file, You can obtain one at http://mozilla-org/MPL/2-0/-
 
 crash-reports-title = Danevelloù sac'hadenn
-clear-all-reports-label = Dilemel an holl zanevelloù
 delete-button-label = Skarzhañ an holl
 delete-confirm-title = Sur oc'h?
-delete-confirm-description = An holl zanevelloù a vo dilamet da viken.
 delete-unsubmitted-description = Dilemel a raio an holl danevelloù sac'hadenn n'int ket bet kinniget ha n'hall ket bezañ dizgraet.
+delete-submitted-description = Dilemel a raio ar roll danevelloù sac'hadenn met ne dilamo ket ar roadennoù kinniget. N'hall ket bezañ disgraet.
 crashes-unsubmitted-label = Danevelloù sac'hadenn n'int ket treuzkaset
 id-heading = Naoudi an danevell
 date-crashed-heading = Deiziad ar sac'hadenn

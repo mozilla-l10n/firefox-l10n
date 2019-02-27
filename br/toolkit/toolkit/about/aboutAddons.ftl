@@ -90,6 +90,7 @@ detail-update-manual =
     .tooltiptext = Arabat staliañ an hizivadennoù ent emgefreek
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Lañsañ en ur prenestr prevez
+detail-private-browsing-description = An askouezhioù az aio en-dro er prenestroù prevez, ha gallout a reont haeziñ hoc'h oberiantiz enlinenn. <label data-l10n-name="detail-private-browsing-learn-more">Gouzout hiroc'h</label>
 detail-private-browsing-on =
     .label = Aotren
     .tooltiptext = Gweredekaat er merdeiñ prevez
@@ -138,6 +139,7 @@ legacy-warning-show-legacy = Diskouez an askouezhioù diamzeret
 legacy-extensions =
     .value = Askouezhioù diamzeret
 legacy-extensions-description = An askouezhioù-mañ ne glotont ket kenn gant skouerioù { -brand-short-name } ha diweredekaet int bet. <label data-l10n-name="legacy-learn-more">Gouzout hiroc'h a-zivout ar c'hemmoù en askouezhioù</label>
+private-browsing-description = N'eo ket aotreet an askouezhioù da vont en-dro er prenestroù prevez dre ziouer. Talvezout a ra ne vint ket gouest da haeziñ hoc'h oberiantiz enlinenn. Evit aotren un askouezh da vont en-dro er prenestroù prevez, diuzit an askouezh dindan ha kemmit e arventennoù. <label data-l10n-name="private-browsing-learn-more">Gouzout hiroc'h</label>.
 extensions-view-discover =
     .name = Kaout askouezhioù
     .tooltiptext = { extensions-view-discover.name }
@@ -223,6 +225,7 @@ manage-extensions-shortcuts =
     .accesskey = b
 shortcuts-empty-message = N'eus berradenn ebet evit an askouezh-mañ.
 shortcuts-no-addons = N'ho peus askouezh ebet gweredekaet.
+shortcuts-no-commands = An askouezhioù da-heul n'ho deus ket a verradenn:
 shortcuts-input =
     .placeholder = Biziatait ur verradenn
 shortcuts-browserAction = Gweredekaat an askouezh
@@ -244,3 +247,11 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = Diskouez nebeutoc'h
 go-back-button =
     .tooltiptext = Distreiñ
+
+## Add-on actions
+
+remove-addon-button = Dilemel
+disable-addon-button = Diweredekaat
+enable-addon-button = Gweredekaat
+addons-enabled-heading = Gweredekaet
+addons-disabled-heading = Diweredekaet

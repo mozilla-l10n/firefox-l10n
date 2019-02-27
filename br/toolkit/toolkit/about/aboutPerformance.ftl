@@ -54,3 +54,13 @@ close-tab =
     .title = Serriñ an ivinell
 show-addon =
     .title = Diskouez en ardoer askouezhioù
+# Tooltip when hovering an item of the about:performance table
+# Variables:
+#   $totalDispatches (Number) - how many dispatches occured for this page since it loaded
+#   $totalDuration (Number) - how much CPU time was used by this page since it loaded
+#   $dispatchesSincePrevious (Number) - how many dispatches occured in the last 2 seconds
+#   $durationSincePrevious (Number) - how much CPU time was used in the last 2 seconds
+item =
+    .title =
+        Danevelloù abaoe ar c'hargadenn: { $totalDispatches } ({ $totalDuration } me)
+        Danevelloù en eilennoù diwezhañ: { $dispatchesSincePrevious } ({ $durationSincePrevious }me)

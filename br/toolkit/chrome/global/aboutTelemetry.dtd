@@ -12,7 +12,6 @@
 <!ENTITY aboutTelemetry.optionGroupToday "Hiziv">
 <!ENTITY aboutTelemetry.optionGroupYesterday "Derc'h">
 <!ENTITY aboutTelemetry.optionGroupOlder "Koshoc'h">
-<!ENTITY aboutTelemetry.payloadChoiceHeader "  Payload">
 <!-- LOCALIZATION NOTE(aboutTelemetry.previousPing, aboutTelemetry.nextPing):
 	These strings are displayed when selecting Archived pings, and they’re
 	used to move to the next or previous ping. -->
@@ -24,6 +23,7 @@
 <!ENTITY aboutTelemetry.firefoxDataDoc "<a>Teuliadur roadennoù Firefox</a> a ginnig sturlevrioù evit kompren penaos implij hor ostilhoù roadennoù.">
 <!ENTITY aboutTelemetry.telemetryClientDoc "<a>Teuliadur arval pellventerezh Firefox</a> a enkorf despizadurioù evit meizadoù, teuliadurioù API ha daveennoù roadennoù.">
 <!ENTITY aboutTelemetry.telemetryDashboard "Gant an <a>daolenn bellventerezh</a> e c'hallit gwelet ar roadennoù resevet gant Mozilla dre ar pellventerezh.">
+<!ENTITY aboutTelemetry.telemetryProbeDictionary "Ar <a>geriadur standilhonoù</a> a ro munudoù ha deskrivadurioù evit ar standilhonoù dastumet gant Telemetry.">
 
 <!ENTITY aboutTelemetry.showInFirefoxJsonViewer "Digeriñ er gweler JSON">
 
@@ -37,9 +37,7 @@
 <!ENTITY aboutTelemetry.keyedHistogramsSection "  Tellunioù gant alc'hwezioù">
 <!ENTITY aboutTelemetry.eventsSection "  Darvoudoù">
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Muzulioù eeun">
-<!ENTITY aboutTelemetry.telemetryLogSection "  Kerzhlevr Telemetry">
 <!ENTITY aboutTelemetry.slowSqlSection "  Azgoulennoù SQL gorrek">
-<!ENTITY aboutTelemetry.chromeHangsSection "  Sac'hadennoù ar merdeer">
 <!ENTITY aboutTelemetry.addonDetailsSection "  Munudoù an askouezh">
 <!ENTITY aboutTelemetry.capturedStacksSection "  Bernioù euvret">
 <!ENTITY aboutTelemetry.lateWritesSection "  Skrivadurioù diwezhat">

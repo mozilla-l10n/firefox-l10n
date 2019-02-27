@@ -13,6 +13,7 @@
 <!ENTITY window.style "width: 490px;">
 
 <!ENTITY window.nosync "Ober gant un handelv kozh eus Firefox a c'hall kontroniñ ar sinedoù  hag ar roll istor enrollet e-barzh un aelad Firefox a zo anezhañ endeo. Evit gwareziñ ho titouroù, krouit un aelad nevez evit ar staliadur-mañ eus &brandShortName;.">
+<!ENTITY window.sync "Arverañ un handelv koshoc'h eus Firefox a c'hall kontroniñ ho sinedoù hag ho roll istor enrollet en un aelad Firefox a zo dioutañ endeo. Evit gwareziñ ho titouroù, krouit un aelad nevez evit ar staliadur-mañ eus &brandShortName;. Gallout a rit atav kennaskañ gant ur &syncBrand.fxAccount.label; evit goubredañ ho sinedoù hag ho roll istor etre aeladoù.">
 
 <!ENTITY window.create "Krouiñ un aelad nevez">
 <!ENTITY window.quit-win "Kuitaat">
