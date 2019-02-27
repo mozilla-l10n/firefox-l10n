@@ -7,13 +7,8 @@ about-policies-title = დებულებები კომპანიე�
 active-policies-tab = მოქმედი
 errors-tab = შეცდომები
 documentation-tab = მასალები
+no-specified-policies-message = დაწესებულების დებულებების მომსახურება მოქმედია, თუმცა ჯერ არცერთი დებულებაა არაა ჩართული.
+inactive-message = დაწესებულების დებულებების მომსახურება უმოქმედოა.
 policy-name = დებულების სახელი
 policy-value = დებულების მნიშვნელობა
 policy-errors = დებულების შეცდომები
-# 'gpo-machine-only' policies are related to the Group Policy features
-# on Windows. Please use the same terminology that is used on Windows
-# to describe Group Policy.
-# These policies can only be set at the computer-level settings, while
-# the other policies can also be set at the user-level.
-gpo-machine-only =
-    .title = ჯგუფის წესებით (Group Policy) სარგებლობისას, ეს დებულება შეიძლება მიეთითოს მხოლოდ კომპიუტერის სისტემის დონეზე.
