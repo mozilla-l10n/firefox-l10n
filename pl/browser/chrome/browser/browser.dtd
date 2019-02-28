@@ -709,18 +709,18 @@ items are mutually exclusive. -->
 <!ENTITY mediaUnmute.accesskey       "c">
 <!ENTITY mediaPlaybackRate2.label     "Szybkość odtwarzania">
 <!ENTITY mediaPlaybackRate2.accesskey "S">
-<!ENTITY mediaPlaybackRate050x2.label "Zmniejszona (0,5 ×)">
+<!ENTITY mediaPlaybackRate050x2.label "Zmniejszona (0,5×)">
 <!ENTITY mediaPlaybackRate050x2.accesskey "Z">
 <!ENTITY mediaPlaybackRate100x2.label "Normalna">
 <!ENTITY mediaPlaybackRate100x2.accesskey "N">
-<!ENTITY mediaPlaybackRate125x2.label "Zwiększona (1,25 ×)">
+<!ENTITY mediaPlaybackRate125x2.label "Zwiększona (1,25×)">
 <!ENTITY mediaPlaybackRate125x2.accesskey "k">
-<!ENTITY mediaPlaybackRate150x2.label "Wysoka (1,5 ×)">
+<!ENTITY mediaPlaybackRate150x2.label "Wysoka (1,5×)">
 <!ENTITY mediaPlaybackRate150x2.accesskey "W">
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-<!ENTITY mediaPlaybackRate200x2.label "Absurdalna (2 ×)">
+<!ENTITY mediaPlaybackRate200x2.label "Absurdalna (2×)">
 <!ENTITY mediaPlaybackRate200x2.accesskey "A">
 <!ENTITY mediaLoop.label             "Zapętl">
 <!ENTITY mediaLoop.accesskey         "Z">
@@ -1134,8 +1134,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Zarządzaj dodatkami klikając <image class='addon-addon-icon'/> w menu <image class='addon-toolbar-icon'/>.">
 
-<!ENTITY addonPrivateBrowsing.header.label "Rozszerzenia w trybie prywatnym">
-<!ENTITY addonPrivateBrowsing.body.label "Rozszerzenia domyślnie nie mogą działać w oknach prywatnych. Nie będą działać podczas przeglądania w trybie prywatnym oraz nie mają dostępu do działań użytkownika w Internecie. Można zezwolić każdemu rozszerzeniu na działanie w trybie prywatnym w ustawieniach.">
 <!ENTITY addonPrivateBrowsing.okButton.label "OK">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "O">
 <!ENTITY addonPrivateBrowsing.manageButton.label "Ustawienia rozszerzeń">
