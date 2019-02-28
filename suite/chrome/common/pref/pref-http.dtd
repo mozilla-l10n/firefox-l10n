@@ -14,7 +14,7 @@
 <!ENTITY prefEnableHTTP11.accesskey          "H">
 <!ENTITY prefEnableHTTP11Proxy.accesskey     "T">
 <!ENTITY prefPara                            "HTTP-tilkoblinger kan bli finjustert med disse innstillingene for å bedre enten ytelse eller kompabilitet. Noen proxyer, for eksempel, trenger HTTP/1.0 for å virke (se versjonsnotatet for mer informasjon.)">
-<!ENTITY prefUseragent.label                 "Brukeragenttekst">
+<!ENTITY prefUseragent.label                 "User Agent-tekst">
 <!ENTITY prefFirefoxCompat.label             "Annonser kompatibilitet med Firefox">
 <!ENTITY prefFirefoxCompat.accesskey         "A">
 <!ENTITY prefLightningShow.label             "Annonser Lightning-installasjon">
