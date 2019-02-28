@@ -139,11 +139,7 @@ legacy-warning-show-legacy = Visa äldre tillägg
 legacy-extensions =
     .value = Äldre tillägg
 legacy-extensions-description = Dessa tillägg uppfyller inte nuvarande standarder i { -brand-short-name } så de har inaktiverats. <label data-l10n-name="legacy-learn-more">Läs mer om ändringar av tillägg</label>
-private-browsing-description =
-    Tillägg får inte köras som standard i privata fönster. Det betyder att de inte kommer att fungera
-    under privat surfning och de kommer inte ha tillgång till dina aktiviteter på nätet där. Att tillåta
-    ett tillägg som ska köras i privata fönster, välj tilläggskortet nedan och ändra din inställning.
-    <label data-l10n-name="private-browsing-learn-more">Läs mer.</label>
+private-browsing-description2 = { -brand-short-name } ändrar hur tillägg fungerar i privat surfläge. Alla nya tillägg du lägger till i { -brand-short-name } kommer inte att köras som standard i privata fönster. Om du inte tillåter detta i inställningarna, kommer tillägget inte fungera när du är i privat surfläge, och kommer inte ha åtkomst till dina online aktiviteter där, Vi har gjort denna ändring för att hålla privata surfning privat. <label data-l10n-name="private-browsing-learn-more">Läs hur du hanterar tilläggsinställningar.</label>
 extensions-view-discover =
     .name = Hämta tillägg
     .tooltiptext = { extensions-view-discover.name }

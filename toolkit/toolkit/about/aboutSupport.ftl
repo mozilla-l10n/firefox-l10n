@@ -242,6 +242,7 @@ effective-content-sandbox-level = Effektiv sandlådenivå för innehållsprocess
 sandbox-proc-type-content = innehåll
 sandbox-proc-type-file = filinnehåll
 sandbox-proc-type-media-plugin = insticksmodul media
+sandbox-proc-type-data-decoder = dataavkodare
 launcher-process-status-0 = Aktiverad
 launcher-process-status-1 = Inaktiverad på grund av fel
 launcher-process-status-2 = Inaktiverad med tvång
