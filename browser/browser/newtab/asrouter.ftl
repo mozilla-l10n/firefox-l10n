@@ -41,3 +41,8 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } användare
        *[other] { $total } användare
     }
+
+## These messages are steps on how to use the feature and are shown together.
+
+cfr-doorhanger-pintab-animation-pause = Pausa
+cfr-doorhanger-pintab-animation-resume = Återuppta
