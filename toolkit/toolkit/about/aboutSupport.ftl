@@ -251,6 +251,7 @@ effective-content-sandbox-level = Efektywny poziom separacji treści
 sandbox-proc-type-content = zawartość
 sandbox-proc-type-file = zawartość pliku
 sandbox-proc-type-media-plugin = wtyczka
+sandbox-proc-type-data-decoder = dekoder danych
 launcher-process-status-0 = włączony
 launcher-process-status-1 = wyłączony z powodu awarii
 launcher-process-status-2 = wymuszone wyłączenie
