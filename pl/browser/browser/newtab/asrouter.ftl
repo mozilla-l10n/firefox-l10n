@@ -48,8 +48,12 @@ cfr-doorhanger-extension-total-users =
         [many] { $total } użytkowników
        *[other] { $total } użytkowników
     }
+cfr-doorhanger-pintab-description = Łatwy dostęp do najczęściej używanych stron dzięki kartom otwartym na stałe (nawet po ponownym uruchomieniu).
 
 ## These messages are steps on how to use the feature and are shown together.
 
+cfr-doorhanger-pintab-step1 = <b>Kliknij prawym przyciskiem</b> kartę, którą chcesz przypiąć.
+cfr-doorhanger-pintab-step2 = Wybierz <b>Przypnij kartę</b> z menu.
+cfr-doorhanger-pintab-step3 = Strony z aktualizacjami mają niebieską kropkę na przypiętej karcie.
 cfr-doorhanger-pintab-animation-pause = Wstrzymaj
 cfr-doorhanger-pintab-animation-resume = Wznów

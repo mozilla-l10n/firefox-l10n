@@ -139,7 +139,12 @@ legacy-warning-show-legacy = Wyświetl przestarzałe rozszerzenia
 legacy-extensions =
     .value = Przestarzałe rozszerzenia
 legacy-extensions-description = Te rozszerzenia nie spełniają obecnych standardów programu { -brand-short-name } i z tego powodu zostały wyłączone. <label data-l10n-name="legacy-learn-more">Więcej informacji o zmianach w dodatkach</label>.
-private-browsing-description = Rozszerzenia domyślnie nie mogą działać w oknach prywatnych. Oznacza to, że nie będą działać podczas przeglądania w trybie prywatnym oraz nie mają w nim dostępu do działań użytkownika w Internecie. Aby zezwolić rozszerzeniu na działanie w oknach prywatnych, kliknij je poniżej i zmień to ustawienie. <label data-l10n-name="private-browsing-learn-more">Więcej informacji.</label>
+private-browsing-description2 =
+    { -brand-short-name } zmienia sposób działania rozszerzeń w trybie prywatnym. Rozszerzenia dodane
+    do przeglądarki domyślnie nie będą działały w oknach prywatnych. Jeśli nie zostanie to zmienione
+    w ustawieniach, rozszerzenie nie będzie działało w trybie prywatnym i nie będzie miało dostępu
+    do działań użytkownika. Wprowadziliśmy tę zmianę, aby prywatne przeglądanie zawsze było prywatne.
+    <label data-l10n-name="private-browsing-learn-more">Więcej informacji o zarządzaniu ustawieniami rozszerzeń.</label>
 extensions-view-discover =
     .name = Pobierz dodatki
     .tooltiptext = Pobierz dodatki
