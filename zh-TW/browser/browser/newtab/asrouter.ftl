@@ -3,12 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 cfr-doorhanger-extension-heading = 推薦擴充套件
+cfr-doorhanger-pintab-heading = 試試看: 釘選分頁
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = 為什麼我會看到這個？
 cfr-doorhanger-extension-cancel-button = 現在不要
     .accesskey = N
 cfr-doorhanger-extension-ok-button = 立刻新增
     .accesskey = A
+cfr-doorhanger-pintab-ok-button = 釘選此分頁
+    .accesskey = P
 cfr-doorhanger-extension-manage-settings-button = 管理建議設定
     .accesskey = M
 cfr-doorhanger-extension-never-show-recommendation = 不要告訴我這個建議
@@ -39,3 +42,11 @@ cfr-doorhanger-extension-total-users =
     { $total ->
        *[other] { $total } 使用者
     }
+
+## These messages are steps on how to use the feature and are shown together.
+
+cfr-doorhanger-pintab-step1 = 對想要釘選的分頁<b>點擊滑鼠右鍵</b>。
+cfr-doorhanger-pintab-step2 = 選擇<b>釘選分頁</b>。
+cfr-doorhanger-pintab-step3 = 若網站有更新，會在釘選分頁上出現藍色點點。
+cfr-doorhanger-pintab-animation-pause = 暫停
+cfr-doorhanger-pintab-animation-resume = 恢復

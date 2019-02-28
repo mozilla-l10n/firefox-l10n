@@ -225,6 +225,7 @@ effective-content-sandbox-level = 有效內容處理程序沙盒等級
 sandbox-proc-type-content = 內容
 sandbox-proc-type-file = 檔案內容
 sandbox-proc-type-media-plugin = 媒體外掛程式
+sandbox-proc-type-data-decoder = 資料解碼器
 launcher-process-status-0 = 啟用
 launcher-process-status-1 = 由於失敗而停用
 launcher-process-status-2 = 強制停用
