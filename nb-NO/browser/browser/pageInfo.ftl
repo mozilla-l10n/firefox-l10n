@@ -147,6 +147,26 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = Bruk standard
 security-no-visits = Nei
+# This string is used to display the number of meta tags
+# in the General Tab
+# Variables:
+#   $tags (number) - The number of meta tags
+general-meta-tags =
+    .value =
+        { $tags ->
+            [one] Meta (1 tagg)
+           *[other] Meta ({ $tags } tagger)
+        }
+# This string is used to display the number of times
+# the user has visited the website prior
+# Variables:
+#   $visits (number) - The number of previous visits
+security-visits-number =
+    { $visits ->
+        [0] Nei
+        [one] Ja, én gang
+       *[other] Ja, { $visits } ganger
+    }
 # This string is used to display the type of
 # an image
 # Variables:
