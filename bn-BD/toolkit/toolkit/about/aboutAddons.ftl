@@ -207,3 +207,16 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = হালনাগাদ ইনস্টল করুন
     .tooltiptext = তালিকায় বিদ্যমান হালনাগাদ ইনস্টল করুন
+
+## Extension shortcut management
+
+go-back-button =
+    .tooltiptext = ফিরে যাও
+
+## Add-on actions
+
+remove-addon-button = অপসারণ
+disable-addon-button = নিষ্ক্রিয়
+enable-addon-button = সক্রিয়
+addons-enabled-heading = সক্রিয় হয়েছে
+addons-disabled-heading = নিষ্ক্রিয় হয়েছে

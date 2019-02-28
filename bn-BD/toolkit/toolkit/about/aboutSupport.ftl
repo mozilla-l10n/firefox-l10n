@@ -173,6 +173,7 @@ hardware-h264 = H264 হার্ডওয়্যার ডিকোডিং
 main-thread-no-omtc = মূল থ্রেড, OMTC নাই
 yes = হ্যাঁ
 no = না
+unknown = অজানা
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
