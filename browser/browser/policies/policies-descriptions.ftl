@@ -17,6 +17,7 @@ policy-BlockAboutConfig = Blochează accesul la pagina about:config.
 policy-BlockAboutProfiles = Blochează accesul la pagina about:profiles.
 policy-BlockAboutSupport = Blochează accesul la pagina about:support.
 policy-Bookmarks = Creează marcaje în bara de marcaje, în meniul de marcaje sau într-un dosar specificat din ele.
+policy-CaptivePortal = Activează sau dezactivează suportul pentru portaluri captive.
 policy-CertificatesDescription = Adaugă certificate sau folosește certificate încorporate.
 policy-Cookies = Permite sau blochează setarea de cookie-uri de către site-urile web.
 policy-DisableAppUpdate = Împiedică actualizarea browserului.

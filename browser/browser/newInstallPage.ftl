@@ -17,8 +17,12 @@ options-title = Ce opțiuni am?
 options-do-nothing = Dacă nu faci nimic, datele tale de profil din { -brand-short-name } vor fi diferite de cele din alte instalații Firefox.
 options-use-sync = Dacă vrei ca toate datele tale de profil să fie identice pe toate instalările Firefox, poți folosi un { -fxaccount-brand-name } pentru a le păstra sincronizate.
 resources = Resurse:
+support-link = Utilizarea managerului de profile - articol de asistență
+sync-header = Intră în cont sau creează un { -fxaccount-brand-name }
 sync-label = Introdu adresa de e-mail
 sync-input =
     .placeholder = E-mail
 sync-button = Continuă
+sync-terms = Prin continuare, agreezi <a data-l10n-name="terms">Termenii de utilizare a serviciilor</a> și <a data-l10n-name="privacy">Politica de confidențialitate</a>.
+sync-first = E prima dată când folosești { -sync-brand-name }? Trebuie să te autentifici pe fiecare instalare de Firefox ca să îți sincronizezi informațiile.
 sync-learn = Află mai multe

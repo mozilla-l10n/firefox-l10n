@@ -682,6 +682,7 @@ content-blocking-all-windows-trackers = Elemente de urmărire cunoscute în toat
 content-blocking-all-third-party-cookies = Toate cookie-urile de la terți
 content-blocking-warning-title = Atenție!
 content-blocking-warning-desc = Blocarea cookie-urilor și a elementelor de urmărire poate produce disfuncționalități pe anumite site-uri web. Poți dezactiva ușor blocarea pentru site-urile în care ai încredere.
+content-blocking-warning-description = Blocarea conținutului poate împiedica funcționarea unor site-uri web. Deblocarea se poare realiza ușor pentru site-urile în care ai încredere.
 content-blocking-learn-how = Află cum
 content-blocking-trackers-label =
     .label = Elemente de urmărire
