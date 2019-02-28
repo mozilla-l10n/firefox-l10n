@@ -1132,5 +1132,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addonPostInstallMessage.label "Gestionează suplimentele dând clic pe <image class='addon-addon-icon'/> în meniul <image class='addon-toolbar-icon'/>.">
 
 <!ENTITY addonPrivateBrowsing.header.label "Extensii în ferestre private">
+<!ENTITY addonPrivateBrowsing.body.label "Extensiile sunt blocate implicit în ferestrele private. Nu vor funcționa în navigarea privată și nu vor avea acces atunci la activitatea ta online. Poți autoriza separat fiecare extensie pentru rulare în ferestre private prin gestionarea setărilor.">
 <!ENTITY addonPrivateBrowsing.okButton.label "OK, am înțeles">
 <!ENTITY addonPrivateBrowsing.manageButton.label "Gestionează extensiile">
