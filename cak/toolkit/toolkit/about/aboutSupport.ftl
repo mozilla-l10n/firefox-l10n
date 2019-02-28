@@ -242,6 +242,7 @@ effective-content-sandbox-level = Rupam b'eyal Sandbox ütz rupalem
 sandbox-proc-type-content = rupam
 sandbox-proc-type-file = rupam yakb'äl
 sandbox-proc-type-media-plugin = q'ojom nak'ab'äl
+sandbox-proc-type-data-decoder = sik'inel tzij
 launcher-process-status-0 = Tzijon
 launcher-process-status-1 = Xchup ruma sachoj
 launcher-process-status-2 = Xb'an chi xchup
