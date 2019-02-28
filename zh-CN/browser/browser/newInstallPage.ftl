@@ -8,9 +8,9 @@
 ### given Firefox channel". These terms are not synonymous.
 
 title = 重要消息
-heading = 新的举措适用于您的 { -brand-short-name } 配置文件
-changed-title = 有何变化？
-changed-desc-profiles = 这份已安装的 { -brand-short-name } 有了一份新的配置文件。Firefox 依托由一系列文件组成的配置文件来保存书签、密码、用户首选项等信息。
+heading = 涉及您的 { -brand-short-name } 配置文件的变化
+changed-title = 怎么了？
+changed-desc-profiles = 我们为此版本的 { -brand-short-name } 新建了专门的用户配置文件。Firefox 会在用户配置文件中保存书签、密码、用户偏好设置等信息。
 changed-desc-dedicated = 为了让您在各项安装的 Firefox（包括 Firefox、Firefox ESR、Firefox Beta、Firefox Developer Edition 和 Firefox Nightly）之间的切换更加轻松和安全，此项安装现在起会使用独立的配置文件，不再自动与其他项 Firefox 安装共享您保存的信息。
 lost = <b>您并未丢失任何个人数据或定制信息。</b>如果您在此计算机上的 Firefox 中保存过信息 ，该信息仍适用于另一项安装的版本。
 options-title = 我有哪些选择？
