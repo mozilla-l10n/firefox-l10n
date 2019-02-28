@@ -7,7 +7,6 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
 
 <!ENTITY privateBrowsing.title                           "ব্যক্তিগত ব্রাউজিং">
-<!ENTITY privateBrowsing.title.tracking                  "ট্র্যাকিং সুরক্ষার সাথে ব্যক্তিগত ব্রাউজিং">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.before       "যখন আপনি কোন ব্যক্তিগত উইন্ডো ব্রাউজ করেন, Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "সংরক্ষণ করবে না">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
@@ -28,10 +27,15 @@
 <!ENTITY aboutPrivateBrowsing.learnMore3.title           "ব্যক্তিগত ব্রাউজিং">
 <!ENTITY aboutPrivateBrowsing.learnMore3.after           "।">
 
-<!ENTITY trackingProtection.title                        "ট্র্যাকিং সুরক্ষা">
-<!ENTITY trackingProtection.description2                 "কিছু ওয়েবসাইট ট্র্যাকার ব্যবহার করে যেটা ইন্টারনেটের সাহায্যে আপনার কার্যকলাপ পর্যবেক্ষণ করতে পারে। ট্র্যাকিং প্রোটেকশন ব্যবহার করে Firefox এমন অনেক ট্র্যাক্যার ব্লক করবে যারা আপনার ব্রাউজিং আচরণ সম্পর্কে তথ্য সংগ্রহ করে।">
-
 <!ENTITY trackingProtection.startTour1                   "দেখুন এটা কিভাবে কাজ করে">
 
 <!ENTITY contentBlocking.title                           "কনটেন্ট ব্লকিং">
 <!ENTITY contentBlocking.description                     "অনেক ওয়েবসাইট ট্র্যাকার ব্যবহার করে, ইন্টারনেট আপনার কার্যক্রম পর্যবেক্ষণ করতে পারে। ব্যক্তিগত উইন্ডোতে, Firefox কনটেন্ট ব্লকিং স্বয়ংক্রিয়ভাবে অনেক ট্র্যাকার আটকে দেয়, যা আপনার ব্রাউজিং আচরণ সম্পর্কে তথ্য সংগ্রহ করতে পারে।">
+
+<!-- Strings for new Private Browsing with Search -->
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.search.placeholder): This is the placeholder
+                       text for the search box.   -->
+<!ENTITY aboutPrivateBrowsing.search.placeholder         "ওয়েবে অনুসন্ধান করুন">
+<!ENTITY aboutPrivateBrowsing.info.title                 "আপনি একটি ব্যাক্তিগত উইন্ডোতে আছেন">
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article
+                       about private browsing myths.   -->

@@ -70,18 +70,11 @@
 <!ENTITY cmd.new_separator.label           "নতুন বিভাজক">
 <!ENTITY cmd.new_separator.accesskey       "S">
 
-<!ENTITY cmd.reloadLivebookmark.label      "লাইভ বুকমার্ক রিলোড করা হবে">
-<!ENTITY cmd.reloadLivebookmark.accesskey  "R">
-
-<!ENTITY cmd.moveBookmarks.label                  "স্থানান্তর…">
-<!ENTITY cmd.moveBookmarks.accesskey              "M">
-
 <!ENTITY col.name.label          "নাম">
 <!ENTITY col.tags.label          "ট্যাগ">
 <!ENTITY col.url.label           "অবস্থান">
 <!ENTITY col.mostrecentvisit.label "সবচেয়ে সাম্প্রতিক পরিদর্শন">
 <!ENTITY col.visitcount.label    "পরিদর্শনের সংখ্যা">
-<!ENTITY col.description.label   "বর্ণনা">
 <!ENTITY col.dateadded.label     "যোগ হয়েছে">
 <!ENTITY col.lastmodified.label  "সর্বশেষ পরিবর্তন">
 
@@ -96,12 +89,8 @@
 
 <!ENTITY backButton.tooltip  "পূর্ববর্তী স্থানে ফিরে যাবে">
 
-<!ENTITY forwardButton.tooltip  "পরবর্তী স্থানে এগিয়ে যাবে">
+<!ENTITY forwardButton.tooltip  "পরবর্তী অংশে যাও">
 
-<!ENTITY detailsPane.more.label "আরও">
-<!ENTITY detailsPane.more.accesskey "e">
-<!ENTITY detailsPane.less.label "কম">
-<!ENTITY detailsPane.less.accesskey "e">
 <!ENTITY detailsPane.selectAnItemText.description "একটি আইটেম নির্বাচন করে তার বৈশিষ্ট্য প্রদর্শন ও পরিবর্তন">
 
 <!ENTITY view.label               "প্রদর্শন">
