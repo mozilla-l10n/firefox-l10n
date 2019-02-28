@@ -10,7 +10,7 @@
 title = Pomembne novice
 heading = Spremembe v vašem profilu { -brand-short-name }
 changed-title = Kaj se je spremenilo?
-changed-desc-profiles = Ta namestitev { -brand-short-name }a ima nov profil. Profil je zbirka datotek, v katerih Firefox shranjuje podatke kot so zaznamki, gesla in uporabniške nastavitve.
+changed-desc-profiles = Ta namestitev { -brand-short-name }a ima nov profil. Profil je zbirka datotek, v katerih Firefox shranjuje podatke, kot so zaznamki, gesla in uporabniške nastavitve.
 changed-desc-dedicated = Za lažje in varnejše preklapljanje med namestitvami Firefoxa (velja za Firefox, Firefox ESR, Firefox Beta, Firefox Developer Edition in Firefox Nightly) ima ta različica zdaj poseben profil. Shranjeni podatki se ne delijo z drugimi različicami Firefoxa samodejno.
 lost = <b>Nobenih osebnih podatkov ali prilagoditev niste izgubili.</b> Če ste na tem računalniku že shranili podatke v Firefox, so ti še vedno na voljo v drugi namestitvi Firefoxa.
 options-title = Kakšne so moje možnosti?
