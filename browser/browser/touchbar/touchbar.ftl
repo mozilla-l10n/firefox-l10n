@@ -6,6 +6,7 @@
 # MacBook Touch Bar.
 back = পিছনে
 forward = পরবর্তী
+reload = রিলোড
 home = নীড়
 fullscreen = পূর্ণ পর্দাজুড়ে
 find = খুঁজুন

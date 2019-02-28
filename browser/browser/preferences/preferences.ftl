@@ -660,6 +660,7 @@ content-blocking-setting-custom =
     .accesskey = C
 content-blocking-custom-desc = নির্বাচন করুন কি ব্লক করবেন
 content-blocking-third-party-cookies = তৃতীয় পক্ষের ট্র্যাকিং কুকি
+content-blocking-all-windows-trackers = সব উইন্ডোতে পরিচিত ট্র্যাকার
 content-blocking-all-third-party-cookies = সকল তৃতীয়-পক্ষের কুকিগুলো
 content-blocking-learn-how = শিখুন কিভাবে হয়
 content-blocking-trackers-label =
@@ -675,6 +676,15 @@ content-blocking-tracking-protection-change-block-list = ব্লক তাল�
 content-blocking-cookies-label =
     .label = কুকি
     .accesskey = C
+# Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
+content-blocking-cryptominers-label =
+    .label = ক্রিপ্টোমাইনার
+    .accesskey = y
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+content-blocking-fingerprinters-label =
+    .label = ফিঙ্গারপ্রিন্টার
+    .accesskey = F
 
 ## Privacy Section - Tracking
 

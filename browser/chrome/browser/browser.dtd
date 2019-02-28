@@ -995,7 +995,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "কুকি">
 <!ENTITY contentBlocking.cookiesView.label "কুকি ও সাইট ডাটা">
 
+<!ENTITY contentBlocking.cryptominers.label "ক্রিপ্টোমাইনার">
+<!ENTITY contentBlocking.cryptominersView.label "ক্রিপ্টোমাইনার">
 
+<!ENTITY contentBlocking.fingerprinters.label "ফিঙ্গারপ্রিন্টার">
+<!ENTITY contentBlocking.fingerprintersView.label "ফিঙ্গারপ্রিন্টার">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "সমস্যা রিপোর্ট করুন">
 <!ENTITY contentBlocking.breakageReportView.label "সমস্যা রিপোর্ট করুন">
@@ -1129,5 +1133,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "আপনার অ্যাড-অন পরিচালনা করতে <image class='addon-addon-icon'/> মেনুতে <image class='addon-toolbar-icon'/> ক্লিক করুন।">
 
+<!ENTITY addonPrivateBrowsing.header.label "ব্যক্তিগত উইন্ডোতে এক্সটেনশন">
 <!ENTITY addonPrivateBrowsing.okButton.label "ঠিকাছে, বুঝতে পেরেছি">
+<!ENTITY addonPrivateBrowsing.okButton.accesskey "O">
 <!ENTITY addonPrivateBrowsing.manageButton.label "এক্সটেনশন ব্যবস্থাপনা">
+<!ENTITY addonPrivateBrowsing.manageButton.accesskey "M">
