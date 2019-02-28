@@ -50,6 +50,7 @@ policy-EnableTrackingProtection = Aktiver eller deaktiver innholdsblokkering med
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
 policy-Extensions = Installere, avinstallere eller låse utvidelser. Installeringsalternativet tar nettadresser eller baner som parametere. Avinstallerings- og Låse-alternativene tar utvidelses-ID som parameter.
+policy-ExtensionUpdate = Slå på eller slå av automatisk utvidelsesoppdateringer.
 policy-FlashPlugin = Tillat eller nekt bruk av programtillegget Flash.
 policy-HardwareAcceleration = Hvis deaktivert, slå av maskinvareakselerasjon.
 # “lock” means that the user won’t be able to change this setting
