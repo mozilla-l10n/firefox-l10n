@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 cfr-doorhanger-extension-heading = Extensão recomendada
+cfr-doorhanger-pintab-heading = Experimente isto: Fixar separador
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Porque é que estou a ver isto
 cfr-doorhanger-extension-cancel-button = Agora não
@@ -43,6 +44,7 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } utilizador
        *[other] { $total } utilizadores
     }
+cfr-doorhanger-pintab-description = Obtenha acesso fácil aos seus sites mais utilizados. Mantenha sites abertos num separador (mesmo quando reinicia).
 
 ## These messages are steps on how to use the feature and are shown together.
 
