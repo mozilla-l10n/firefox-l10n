@@ -10,10 +10,14 @@ about-performance-title = কাজ ব্যবস্থাপক
 column-name = নাম
 column-type = ধরন
 column-energy-impact = শক্তির প্রভাব
+column-memory = মেমরি
 
 ## Special values for the Name column
 
 ghost-windows = সম্প্রতি বন্ধ করা ট্যাব
+# Variables:
+#   $title (String) - the title of the preloaded page, typically 'New Tab'
+preloaded-tab = প্রাকলোড: { $title }
 
 ## Values for the Type column
 
@@ -40,6 +44,9 @@ energy-impact-low = নিম্ন ({ $value })
 ## Variables:
 ##   $value (Number) - How much memory is used
 
+size-KB = { $value } KB
+size-MB = { $value } MB
+size-GB = { $value } GB
 
 ## Tooltips for the action buttons
 
