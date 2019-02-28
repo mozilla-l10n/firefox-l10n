@@ -997,7 +997,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookiesView.label "Cookie-uri și date ale site-urilor">
 
 <!ENTITY contentBlocking.cryptominers.label "Criptomineri">
+<!ENTITY contentBlocking.cryptominersView.label "Criptomineri">
 
+<!ENTITY contentBlocking.fingerprinters.label "Detectoare de amprente digitale">
+<!ENTITY contentBlocking.fingerprintersView.label "Detectoare de amprente digitale">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Raportează o problemă">
 <!ENTITY contentBlocking.breakageReportView.label "Raportează probleme">
@@ -1134,4 +1137,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addonPrivateBrowsing.header.label "Extensii în ferestre private">
 <!ENTITY addonPrivateBrowsing.body.label "Extensiile sunt blocate implicit în ferestrele private. Nu vor funcționa în navigarea privată și nu vor avea acces atunci la activitatea ta online. Poți autoriza separat fiecare extensie pentru rulare în ferestre private prin gestionarea setărilor.">
 <!ENTITY addonPrivateBrowsing.okButton.label "OK, am înțeles">
+<!ENTITY addonPrivateBrowsing.okButton.accesskey "O">
 <!ENTITY addonPrivateBrowsing.manageButton.label "Gestionează extensiile">
+<!ENTITY addonPrivateBrowsing.manageButton.accesskey "M">
