@@ -1133,7 +1133,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Zarządzaj dodatkami klikając <image class='addon-addon-icon'/> w menu <image class='addon-toolbar-icon'/>.">
+<!ENTITY addonPostInstall.incognito.label "To rozszerzenie może działać w oknach prywatnych.">
+<!ENTITY addonPostInstall.incognito.accesskey "T">
 
+<!ENTITY addonPrivateBrowsing.header2.label "Zmiana działania rozszerzeń w oknach prywatnych">
+<!ENTITY addonPrivateBrowsing.body2.label "Rozszerzenia dodane do przeglądarki &brandShorterName; nie będą działać w oknach prywatnych, jeśli nie zostanie to zmienione w ustawieniach.">
+<!ENTITY addonPrivateBrowsing.learnMore.label "Więcej informacji o zarządzaniu ustawieniami rozszerzeń.">
 <!ENTITY addonPrivateBrowsing.okButton.label "OK">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "O">
 <!ENTITY addonPrivateBrowsing.manageButton.label "Ustawienia rozszerzeń">
