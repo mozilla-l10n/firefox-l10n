@@ -88,6 +88,15 @@ detail-update-automatic =
 detail-update-manual =
     .label = Dezactivate
     .tooltiptext = Nu instala actualizările automat
+# Used as a description for the option to allow or block an add-on in private windows.
+detail-private-browsing-label = Execută în ferestre private
+detail-private-browsing-description = Extensia va funcționa în ferestre private și va avea acces la activitatea ta online.<label data-l10n-name="detail-private-browsing-learn-more">Află mai multe</label>
+detail-private-browsing-on =
+    .label = Permite
+    .tooltiptext = Activează în navigarea privată
+detail-private-browsing-off =
+    .label = Nu permite
+    .tooltiptext = Dezactivează în navigarea privată
 detail-home =
     .label = Pagină de start
 detail-home-value =
@@ -130,6 +139,7 @@ legacy-warning-show-legacy = Afișează extensiile obsolete
 legacy-extensions =
     .value = Extensii obsolete
 legacy-extensions-description = Aceste extensii nu îndeplinesc standardele actuale ale { -brand-short-name } astfel încât au fost dezactivate. <label data-l10n-name="legacy-learn-more">Află despre schimbările aduse suplimentelor</label>
+private-browsing-description = Extensiile sunt blocate implicit în ferestrele private. Înseamnă că nu vor funcționa în navigarea privată și nu vor avea atunci acces la activitățile tale online. Pentru a permite rularea unei extensii în ferestre private, selectează cartela extensiei de mai jos și modifică setarea. <label data-l10n-name="private-browsing-learn-more">Află mai multe.</label>
 extensions-view-discover =
     .name = Descarcă suplimente
     .tooltiptext = { extensions-view-discover.name }
@@ -215,6 +225,7 @@ manage-extensions-shortcuts =
     .accesskey = S
 shortcuts-empty-message = Nu există comenzi rapide pentru această extensie.
 shortcuts-no-addons = Nu ai activat nicio extensie.
+shortcuts-no-commands = Următoarele extensii nu au comenzi rapide:
 shortcuts-input =
     .placeholder = Tastează o comandă rapidă
 shortcuts-browserAction = Activează extensia
@@ -225,6 +236,12 @@ shortcuts-modifier-other = Include Ctrl sau Alt
 shortcuts-invalid = Combinație invalidă
 shortcuts-letter = Tastează o literă
 shortcuts-system = Scurtăturile { -brand-short-name } nu pot fi înlocuite
+shortcuts-card-expand-button =
+    { $numberToShow ->
+        [one] Afișează încă { $numberToShow }
+        [few] Afișează încă { $numberToShow }
+       *[other] Afișează încă { $numberToShow }
+    }
 shortcuts-card-collapse-button = Afișează mai puțin
 go-back-button =
     .tooltiptext = Înapoi
