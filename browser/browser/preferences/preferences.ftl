@@ -341,6 +341,9 @@ browsing-search-on-start-typing =
 browsing-cfr-recommendations =
     .label = Rozšěrjenja doporučić, hdyž přehladujeće
     .accesskey = R
+browsing-cfr-features =
+    .label = Doporučće funkcije, mjeztym zo přehladujeće
+    .accesskey = f
 browsing-cfr-recommendations-learn-more = Dalše informacije
 
 ## General Section - Proxy
