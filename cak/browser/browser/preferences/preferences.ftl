@@ -335,6 +335,9 @@ browsing-search-on-start-typing =
 browsing-cfr-recommendations =
     .label = Kechilab'ëx taq k'amal toq nib'an okem pa k'amaya'l
     .accesskey = K
+browsing-cfr-features =
+    .label = Ke'achilab'ej taq b'anikil toq atokinäq pa k'amaya'l
+    .accesskey = b
 browsing-cfr-recommendations-learn-more = Tetamäx Ch'aqa' chik
 
 ## General Section - Proxy
