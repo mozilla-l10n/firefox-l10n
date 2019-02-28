@@ -139,11 +139,12 @@ legacy-warning-show-legacy = Kek'ut pe ri kochin taq k'amal
 legacy-extensions =
     .value = Kochin taq K'amal
 legacy-extensions-description = Re taq k'amal re' man nikik'äm ta ki' rik'in current { -brand-short-name } taq rub'eyal richin chi xechuputäj. <label data-l10n-name="legacy-learn-more">Tetamäx chi kij ri kijaloj taq tzaqät</label>
-private-browsing-description =
-    Man tikirel ta yesamajïx ri taq k'amal achi'el k'o wi pan Ichinan Tzuwäch. Re re' nuna'ojij chi man xtisamäj ta
-    pa jun ichinan okem pa k'amaya'l chuqa' majun xtok ta pa rusamaj k'amab'ey. Richin niya' q'ij
-    chi re jun k'amal richin nisamäj pa jun Ichinan Tzuwäch, tacha' ri rut'imwuj k'amal richin najäl ri runuk'ulem.
-    <label data-l10n-name="private-browsing-learn-more">Tetamäx Ch'aqa' Chik.</label>
+private-browsing-description2 =
+    { -brand-short-name } yerujäl achike rub'eyal yesamäj ri taq k'amal pa ri ichinan okem pa k'amaya'l. Xab'achike k'ak'a' k'amall xtatz'aqatisaj pa
+    { -brand-short-name } man xtisamäj ta el achi'el k'o pa Ichinan Tzuwäch. Xa xe we naya' q'ij chi re pa runuk'ulem, ri 
+    k'amal man xtisamäj ta pa ichinan okem pa k'amaya'l, chuqa' man xkatikïr ta xkatok pa ri asamaj richin k'amab'ey
+    chi ri'. Xqab'än re jaloj re' richin nichinäx ri ichinan awokem pa k'amaya'l
+    <label data-l10n-name="private-browsing-learn-more">Tawetamaj achike rub'eyal ninuk'samajïx ri runuk'ulem k'amal.</label>
 extensions-view-discover =
     .name = Kek'ulutäj ri taq tz'aqat
     .tooltiptext = { extensions-view-discover.name }
