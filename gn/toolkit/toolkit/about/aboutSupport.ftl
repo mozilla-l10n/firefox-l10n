@@ -240,6 +240,7 @@ effective-content-sandbox-level = Sandbox Level rembiapo retepy
 sandbox-proc-type-content = tetepy
 sandbox-proc-type-file = Marandurenda rechapyrã
 sandbox-proc-type-media-plugin = plugin maranduguáva
+sandbox-proc-type-data-decoder = Mba’ekuaarã papapy'o
 launcher-process-status-0 = Jurujapyre
 launcher-process-status-1 = Ojepe'apyre ojavy rupi
 # Variables

@@ -1133,8 +1133,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Eñangareko ne rembipuru'i eikutúvo <image class='addon-addon-icon'/> poravorã <image class='addon-toolbar-icon'/> pegua.">
+<!ENTITY addonPostInstall.incognito.accesskey "A">
 
-<!ENTITY addonPrivateBrowsing.header.label "Jepysokue ovetã ñemíme">
 <!ENTITY addonPrivateBrowsing.okButton.label "Oĩma, aikumby">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "O">
 <!ENTITY addonPrivateBrowsing.manageButton.label "Eñangareko jepysokuére">
