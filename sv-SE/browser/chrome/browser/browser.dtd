@@ -1137,6 +1137,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addonPostInstall.incognito.accesskey "A">
 
 <!ENTITY addonPrivateBrowsing.header2.label "Ändra hur tillägg fungerar i privata fönster">
+<!ENTITY addonPrivateBrowsing.body2.label "Alla nya tillägg du lägger till i &brandShorterName; kommer inte att fungera i privata fönster om du inte tillåter detta i inställningarna.">
 <!ENTITY addonPrivateBrowsing.learnMore.label "Lär dig hur du hanterar tilläggsinställningar.">
 <!ENTITY addonPrivateBrowsing.okButton.label "Ok, jag förstår">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "O">
