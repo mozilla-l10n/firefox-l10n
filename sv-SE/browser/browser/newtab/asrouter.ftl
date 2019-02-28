@@ -3,12 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 cfr-doorhanger-extension-heading = Rekommenderade tillägg
+cfr-doorhanger-pintab-heading = Prova detta: Fäst flik
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Varför ser jag detta
 cfr-doorhanger-extension-cancel-button = Inte nu
     .accesskey = n
 cfr-doorhanger-extension-ok-button = Lägg till nu
     .accesskey = L
+cfr-doorhanger-pintab-ok-button = Fäst denna flik
+    .accesskey = P
 cfr-doorhanger-extension-manage-settings-button = Hantera rekommendationsinställningar
     .accesskey = H
 cfr-doorhanger-extension-never-show-recommendation = Visa mig inte denna rekommendation
@@ -41,8 +44,12 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } användare
        *[other] { $total } användare
     }
+cfr-doorhanger-pintab-description = Få enkel åtkomst till dina mest använda webbplatser. Håll webbplatser öppna i en flik (även när du startar om).
 
 ## These messages are steps on how to use the feature and are shown together.
 
+cfr-doorhanger-pintab-step1 = <b>Högerklicka</b> på en av flikarna du vill fästa.
+cfr-doorhanger-pintab-step2 = Välj <b>Fäst flik</b> från menyn.
+cfr-doorhanger-pintab-step3 = Om webbplatsen har en uppdatering ser du en blå punkt på din fästa flik.
 cfr-doorhanger-pintab-animation-pause = Pausa
 cfr-doorhanger-pintab-animation-resume = Återuppta

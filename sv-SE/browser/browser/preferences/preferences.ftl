@@ -335,6 +335,9 @@ browsing-search-on-start-typing =
 browsing-cfr-recommendations =
     .label = Rekommendera tillägg när du surfar
     .accesskey = R
+browsing-cfr-features =
+    .label = Rekommendera funktioner medans du surfar
+    .accesskey = f
 browsing-cfr-recommendations-learn-more = Läs mer
 
 ## General Section - Proxy
