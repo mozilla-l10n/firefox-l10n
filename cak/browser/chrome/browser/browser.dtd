@@ -1137,6 +1137,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addonPostInstall.incognito.accesskey "T">
 
 <!ENTITY addonPrivateBrowsing.header2.label "Kejal rik'in taq k'amal pan Ichinan taq Tzuwäch">
+<!ENTITY addonPrivateBrowsing.body2.label "Xab'achike k'ak'a' k'amab'ey xtatz'aqatisaj pa &brandShorterName; man xtisamäj ta pa Ichinan Tzuwäch xa xe we naya' q'ij chi re pa ri nuk'ulem.">
+<!ENTITY addonPrivateBrowsing.learnMore.label "Tawetamaj nanuk'samajij runuk'ulem k'amal.">
 <!ENTITY addonPrivateBrowsing.okButton.label "Ütz, Xq'ax pa nuwi'">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "O">
 <!ENTITY addonPrivateBrowsing.manageButton.label "Kinuk'samajixik taq K'amal">
