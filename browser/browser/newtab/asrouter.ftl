@@ -3,12 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 cfr-doorhanger-extension-heading = Estyniadau Cymeradwy
+cfr-doorhanger-pintab-heading = Profi hwn: Pinio Tab
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Pam ydw i'n gweld hyn
 cfr-doorhanger-extension-cancel-button = Nid Nawr
     .accesskey = N
 cfr-doorhanger-extension-ok-button = Ychwanegu Nawr
     .accesskey = Y
+cfr-doorhanger-pintab-ok-button = Pinio'r Tab
+    .accesskey = P
 cfr-doorhanger-extension-manage-settings-button = Gosodiadau Argymell Rheoli
     .accesskey = R
 cfr-doorhanger-extension-never-show-recommendation = Peidio Dangos yr Argymhelliad i Mi
@@ -49,3 +52,12 @@ cfr-doorhanger-extension-total-users =
         [many] { $total } defnyddiwr
        *[other] { $total } defnyddiwr
     }
+cfr-doorhanger-pintab-description = Cael mynediad hawdd i'ch hoff wefannau. Cadwch wefannau ar agor mewn tab (hyd yn oed pan yn ailgychwyn).
+
+## These messages are steps on how to use the feature and are shown together.
+
+cfr-doorhanger-pintab-step1 = <b>Clic de</ b> ar y tab rydych am ei binio.
+cfr-doorhanger-pintab-step2 = Dewis <b>Pinio Tab</ b> o'r ddewislen.
+cfr-doorhanger-pintab-step3 = Os fydd gan y wefan ddiweddariad, gwelwch ddot glas ar eich tab wedi'i binio.
+cfr-doorhanger-pintab-animation-pause = Oedi
+cfr-doorhanger-pintab-animation-resume = Ailgychwyn

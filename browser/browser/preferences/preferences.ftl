@@ -347,6 +347,9 @@ browsing-search-on-start-typing =
 browsing-cfr-recommendations =
     .label = Argymell estyniadau wrth i chi bori
     .accesskey = A
+browsing-cfr-features =
+    .label = Argymell nodweddion wrth bori
+    .accesskey = A
 browsing-cfr-recommendations-learn-more = Dysgu Rhagor
 
 ## General Section - Proxy
