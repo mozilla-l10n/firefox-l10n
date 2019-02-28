@@ -1133,9 +1133,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Rheolwch eich ychwanegion drwy glicio <image class='addon-addon-icon'/> yn newislen <image class='addon-toolbar-icon'/>.">
+<!ENTITY addonPostInstall.incognito.label "Caniatáu i'r estyniad yma redeg mewn Ffenestr Breifat.">
+<!ENTITY addonPostInstall.incognito.accesskey "C">
 
-<!ENTITY addonPrivateBrowsing.header.label "Estyniadau mewn Ffenestri Preifat">
-<!ENTITY addonPrivateBrowsing.body.label "Nid yw estyniadau yn cael rhedeg yn ragosodedig mewn Ffenestri Preifat. Fyddan nhw ddim yn gweithio o fewn pori preifat, a fyddan nhw ddim yn gallu cael mynediad i'ch gweithgareddau ar-lein. Gallwch ganiatáu i bob estyniad gael ei redeg mewn Ffenestri Preifat trwy reoli'ch gosodiadau.">
+<!ENTITY addonPrivateBrowsing.header2.label "Newid i estyniadau mewn Ffenestri Preifat">
+<!ENTITY addonPrivateBrowsing.body2.label "Bydd unrhyw estyniad newydd y byddwch yn eu hychwanegu i &brandShorterName; ddim yn gweithio mewn Ffenestri Preifat oni bai eich bod yn caniatáu hynny yn y gosodiadau.">
+<!ENTITY addonPrivateBrowsing.learnMore.label "Dysgu sut i reoli gosodiadau estyniad.">
 <!ENTITY addonPrivateBrowsing.okButton.label "Iawn, rwy'n deall">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "I">
 <!ENTITY addonPrivateBrowsing.manageButton.label "Rheoli Estyniadau">
