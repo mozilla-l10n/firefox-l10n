@@ -47,7 +47,7 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc3 "&brandShortName; đã chặn trang này vì nó có thể lừa bạn làm điều gì đó nguy hiểm như cài đặt phần mềm hoặc tiết lộ thông tin cá nhân như mật khẩu hoặc thẻ tín dụng.">
 
 <!-- Localization note (safeb.blocked.phishingPage.errorDesc.override, safeb.blocked.phishingPage.errorDesc.noOverride, safeb.blocked.phishingPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
-<!ENTITY safeb.blocked.phishingPage.errorDesc.override "<span id='phishing_sitename'/> đã bị <a id='error_desc_link'> báo cáo là trang web lừa đảo</a>. Bạn có thể <a id='report_detection'>báo cáo một vấn đề phát hiện</a> hoặc <a id='ignore_warning_link'>bỏ qua rủi ro</a>và truy cập trang không an toàn này.">
+<!ENTITY safeb.blocked.phishingPage.errorDesc.override "<span id='phishing_sitename'/> đã bị <a id='error_desc_link'> báo cáo là trang web lừa đảo</a>. Bạn có thể <a id='report_detection'>báo cáo một vấn đề phát hiện</a> hoặc <a id='ignore_warning_link'>bỏ qua rủi ro</a> và truy cập trang không an toàn này.">
 
 <!ENTITY safeb.blocked.phishingPage.errorDesc.noOverride "<span id='phishing_sitename'/> đã bị <a id='error_desc_link'>báo cáo là trang web lừa đảo</a>. Bạn có thể <a id='report_detection'>báo cáo một vấn đề phát hiện</a>.">
 
