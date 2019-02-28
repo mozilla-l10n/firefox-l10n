@@ -4,6 +4,10 @@
 
 label-disable = Inaktivera
 label-enable = Aktivera
+label-interventions = Ändringar
 label-more-information = Mer information: Bug { $bug }
+label-overrides = User Agent-överskridningar
 text-disabled-in-about-config = Den här funktionen har inaktiverats i about:config
+text-no-interventions = Inga ändringar används
+text-no-overrides = Inga UA överskridningar används
 text-title = about:compat
