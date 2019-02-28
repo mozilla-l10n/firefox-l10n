@@ -210,8 +210,6 @@ extensions-updates-update-selected =
 
 ## Extension shortcut management
 
-shortcuts-manage =
-    .label = Klaviatura Qısayolları
 shortcuts-empty-message = Bu uzantı üçün qısayol yoxdur.
 shortcuts-no-addons = Aktiv uzantınız yoxdur.
 shortcuts-input =
@@ -224,3 +222,14 @@ shortcuts-modifier-other = Ctrl və ya Alt istifadə edin
 shortcuts-invalid = Səhv kombinasiya
 shortcuts-letter = Hərf yazın
 shortcuts-system = { -brand-short-name } qısayolu dəyişdirilə bilməz
+shortcuts-card-collapse-button = Daha az göstər
+go-back-button =
+    .tooltiptext = Geri get
+
+## Add-on actions
+
+remove-addon-button = Sil
+disable-addon-button = Söndür
+enable-addon-button = Aktiv et
+addons-enabled-heading = Aktivdir
+addons-disabled-heading = Söndürülüb
