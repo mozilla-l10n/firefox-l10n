@@ -603,7 +603,7 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Cookie-uri și date ale site-urilor
-sitedata-total-size-calculating = Se calculează datele site-urilor și dimensiunea cache-ului…
+sitedata-total-size-calculating = Se calculează datele site-urilor și mărimea cache-ului…
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")

@@ -138,8 +138,8 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vietnameză
 fonts-languages-fallback-name-other =
     .label = Alta (inclusiv vest europeană)
-fonts-very-large-warning-title = Dimensiune minimă mare a fonturilor
-fonts-very-large-warning-message = Ai selectat o dimensiune minimă foarte mare a fonturilor (mai mult de 24 de pixeli). Acest lucru poate face dificilă sau imposibilă folosirea unor pagini de configurare importante precum aceasta.
+fonts-very-large-warning-title = Mărime minimă de fonturi mari
+fonts-very-large-warning-message = Ai selectat o mărime minimă foarte mare a fonturilor (mai mult de 24 de pixeli). Acest lucru poate face dificilă sau imposibilă folosirea unor pagini de configurare importante precum aceasta.
 fonts-very-large-warning-accept = Păstrează-mi schimbările oricum
 # Variables:
 #   $name {string, "Arial"} - Name of the default font

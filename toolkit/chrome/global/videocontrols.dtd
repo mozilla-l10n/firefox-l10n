@@ -10,13 +10,12 @@
 <!ENTITY fullscreenButton.exitfullscreenlabel "Ieși din modul ecran complet">
 <!ENTITY castingButton.castingLabel "Proiectează pe ecran">
 <!ENTITY closedCaption.off "Dezactivează">
-
 <!-- LOCALIZATION NOTE (volumeScrubber.label): This label is exposed to
      accessibility software to clarify what the slider is for. -->
 <!ENTITY volumeScrubber.label "Glisor de volum">
 
 <!ENTITY stats.media "Multimedia">
-<!ENTITY stats.size "Dimensiune">
+<!ENTITY stats.size "Mărime">
 <!ENTITY stats.activity "Activitate">
 <!ENTITY stats.activityPaused "Pus pe pauză">
 <!ENTITY stats.activityPlaying "Redare">
