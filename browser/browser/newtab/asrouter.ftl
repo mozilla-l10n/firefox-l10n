@@ -9,6 +9,8 @@ cfr-doorhanger-extension-cancel-button = Agora não
     .accesskey = n
 cfr-doorhanger-extension-ok-button = Adicionar agora
     .accesskey = A
+cfr-doorhanger-pintab-ok-button = Fixar este separador
+    .accesskey = p
 cfr-doorhanger-extension-manage-settings-button = Gerir definições de recomendações
     .accesskey = m
 cfr-doorhanger-extension-never-show-recommendation = Não me mostrar esta recomendação
@@ -41,3 +43,11 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } utilizador
        *[other] { $total } utilizadores
     }
+
+## These messages are steps on how to use the feature and are shown together.
+
+cfr-doorhanger-pintab-step1 = <b>Clique com o botão direito</ b> no separador que pretende fixar.
+cfr-doorhanger-pintab-step2 = Selecione <b>Fixar separador</ b> a partir do menu.
+cfr-doorhanger-pintab-step3 = Se o site tiver uma atualização irá ver um ponto azul no separador fixado.
+cfr-doorhanger-pintab-animation-pause = Pausar
+cfr-doorhanger-pintab-animation-resume = Retomar
