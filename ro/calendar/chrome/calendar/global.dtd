@@ -46,6 +46,8 @@
 
 <!ENTITY onemonthbackward.tooltip "Cu o lună înapoi" >
 <!ENTITY onemonthforward.tooltip "Cu o lună înainte" >
+<!ENTITY oneyearbackward.tooltip "Cu un an înapoi" >
+<!ENTITY oneyearforward.tooltip "Cu un an înainte" >
 <!ENTITY showToday.tooltip "Mergi la ziua de azi">
 <!ENTITY onedayforward.tooltip "Cu o zi înainte">
 <!ENTITY onedaybackward.tooltip "Cu o zi înapoi">
