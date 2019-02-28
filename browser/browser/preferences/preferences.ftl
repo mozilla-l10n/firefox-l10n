@@ -50,6 +50,9 @@ category-privacy =
 pane-sync-title = Cont Firefox
 category-sync =
     .tooltiptext = { pane-sync-title }
+pane-sync-title2 = { -sync-brand-short-name }
+category-sync2 =
+    .tooltiptext = { pane-sync-title2 }
 help-button-label = Asistență { -brand-short-name }
 addons-button-label = Extensii și teme
 focus-search =
@@ -527,6 +530,9 @@ sync-device-name-save =
     .accesskey = v
 sync-mobilepromo-single = Conectează alt dispozitiv
 sync-mobilepromo-multi = Gestionează dispozitivele
+sync-connect-another-device = Conectează alt dispozitiv
+sync-manage-devices = Gestionează dispozitivele
+sync-fxa-begin-pairing = Asociază un dispozitiv
 sync-tos-link = Termenii de utilizare a serviciului
 sync-fxa-privacy-notice = Politica de confidențialitate
 
@@ -690,6 +696,10 @@ content-blocking-tracking-protection-change-block-list = Modifică lista de bloc
 content-blocking-cookies-label =
     .label = Cookie-uri
     .accesskey = C
+# Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
+content-blocking-cryptominers-label =
+    .label = Criptomineri
+    .accesskey = y
 
 ## Privacy Section - Tracking
 

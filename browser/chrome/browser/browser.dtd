@@ -996,6 +996,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Cookie-uri">
 <!ENTITY contentBlocking.cookiesView.label "Cookie-uri și date ale site-urilor">
 
+<!ENTITY contentBlocking.cryptominers.label "Criptomineri">
+
+
 <!ENTITY contentBlocking.openBreakageReportView2.label "Raportează o problemă">
 <!ENTITY contentBlocking.breakageReportView.label "Raportează probleme">
 <!ENTITY contentBlocking.breakageReportView2.description "Blocarea de conținut poate produce probleme pe unele site-uri web. Prin raportarea problemelor vei ajuta la îmbunătățirea &brandShortName; pentru toți. (Va trimite la Mozilla un URL și informații despre setările browserului.)">
@@ -1127,3 +1130,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Gestionează suplimentele dând clic pe <image class='addon-addon-icon'/> în meniul <image class='addon-toolbar-icon'/>.">
+
+<!ENTITY addonPrivateBrowsing.header.label "Extensii în ferestre private">
+<!ENTITY addonPrivateBrowsing.okButton.label "OK, am înțeles">
+<!ENTITY addonPrivateBrowsing.manageButton.label "Gestionează extensiile">

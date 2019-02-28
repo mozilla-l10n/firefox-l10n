@@ -17,7 +17,6 @@ policy-BlockAboutConfig = Blochează accesul la pagina about:config.
 policy-BlockAboutProfiles = Blochează accesul la pagina about:profiles.
 policy-BlockAboutSupport = Blochează accesul la pagina about:support.
 policy-Bookmarks = Creează marcaje în bara de marcaje, în meniul de marcaje sau într-un dosar specificat din ele.
-policy-Certificates = Utilizarea sau neutilizarea certificatelor încorporate. Politica există acum numai în Windows.
 policy-CertificatesDescription = Adaugă certificate sau folosește certificate încorporate.
 policy-Cookies = Permite sau blochează setarea de cookie-uri de către site-urile web.
 policy-DisableAppUpdate = Împiedică actualizarea browserului.
@@ -37,7 +36,6 @@ policy-DisableProfileImport = Dezactivează comanda de meniu pentru importul de 
 policy-DisableProfileRefresh = Dezactivează butonul de reîmprospătare { -brand-short-name } în pagina about:support.
 policy-DisableSafeMode = Dezactivează funcționalitatea de repornire în Modul sigur. Obs: Tasta Shift de intrare în Modul sigur poate fi dezactivată numai în Windows, folosind Politica de grup.
 policy-DisableSecurityBypass = Împiedică utilizatorul să ocolească anumite avertismente de securitate.
-policy-DisableSetDesktopBackground = Dezactivează comanda de meniu pentru setarea de imagini ca fundal pe desktop.
 policy-DisableSetAsDesktopBackground = Dezactivează comanda de meniu de setare ca fundal pe desktop pentru imagini.
 policy-DisableSystemAddonUpdate = Împiedică browserul să instaleze și să actualizeze suplimente de sistem.
 policy-DisableTelemetry = Dezactivează telemetria.
@@ -51,6 +49,7 @@ policy-EnableTrackingProtection = Activează sau dezactivează blocarea conținu
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
 policy-Extensions = Instalează, dezinstalează sau blochează extensii. Opțiunea de instalare ia URL-urile sau căile drept parametri. Opțiunile Dezinstalează și Blocată iau ID-uri de extensii.
+policy-ExtensionUpdate = Activează sau dezactivează actualizările automate de extensii.
 policy-FlashPlugin = Permite sau respinge utilizarea pluginului Flash.
 policy-HardwareAcceleration = Dacă este dezactivat, oprește accelerarea hardware.
 # “lock” means that the user won’t be able to change this setting
@@ -69,5 +68,8 @@ policy-SearchBar = Setează locația implicită în bara de căutare. Utilizator
 policy-SearchEngines = Configurează setările motorului de căutare. Politica este disponibilă numai în versiunea Ediție cu suport extins (ERS).
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Instalează module PKCS #11.
+policy-SSLVersionMax = Setează versiunea maximă SSL.
+policy-SSLVersionMin = Setează versiunea minimă SSL.
+policy-SupportMenu = Adaugă un element personalizat din meniul de asistență în meniul Ajutor.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Blochează intrarea pe site-uri web. Vezi documentația pentru detalii suplimentare despre format.
