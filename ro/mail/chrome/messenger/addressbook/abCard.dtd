@@ -77,8 +77,11 @@
 <!ENTITY Birthday.label                 "Zi de naștere:">
 <!ENTITY Birthday.accesskey             "Z">
 <!ENTITY In.label                       "">
+<!ENTITY Month.placeholder              "Lună">
+<!ENTITY Day.placeholder                "Zi">
 <!ENTITY Year.placeholder               "An">
 <!ENTITY Or.value                       "sau">
+<!ENTITY Age.label                      "Vârstă:">
 <!ENTITY Age.placeholder                "Vârsta">
 <!ENTITY YearsOld.label                 "">
 
