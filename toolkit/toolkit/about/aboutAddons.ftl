@@ -138,13 +138,6 @@ legacy-warning-show-legacy = Mostra le estensioni obsolete
 legacy-extensions =
     .value = Estensioni obsolete
 legacy-extensions-description = Queste estensioni non soddisfano gli standard attualmente richiesti da { -brand-short-name } e sono state disattivate. <label data-l10n-name="legacy-learn-more">Ulteriori informazioni sui cambiamenti riguardanti le estensioni</label>
-private-browsing-description =
-    Le estensioni vengono bloccate in finestre anonime per impostazione
-    predefinita. Questo significa che non saranno attive in Navigazione anonima
-    e non potranno avere accesso alle attività online in queste finestre. Per
-    consentire il funzionamento di un’estensione anche nelle finestre anonime,
-    selezionare la scheda sottostante e modificare la relativa impostazione.
-    <label data-l10n-name="private-browsing-learn-more">Ulteriori informazioni.</label>
 private-browsing-description2 =
     Il funzionamento delle estensioni in finestre anonime sta per cambiare.
     Qualunque estensione aggiunta a { -brand-short-name } non funzionerà in
