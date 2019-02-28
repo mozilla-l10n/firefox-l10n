@@ -56,6 +56,7 @@ policy-HardwareAcceleration = Dacă este dezactivat, oprește accelerarea hardwa
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Setează și, opțional, blochează pagina de start.
 policy-InstallAddonsPermission = Permite anumitor site-uri web să instaleze suplimente.
+policy-NetworkPrediction = Activează sau dezactivează predicția de rețea (prelectură DNS).
 policy-NoDefaultBookmarks = Dezactivează crearea marcajelor implicite care vin la pachet cu { -brand-short-name } și crearea de marcaje inteligente (Cele mai vizitate, Etichete recente). Obs: politica produce efecte numai dacă este folosită înainte de prima utilizare a profilului.
 policy-OfferToSaveLogins = Impune setarea care permite { -brand-short-name } să se ofere să țină minte datele de autentificare și parolele salvate. Sunt acceptate atât valoarea de adevărat, cât și cea de fals.
 policy-OverrideFirstRunPage = Înlocuiește pagina de întâmpinare la prima utilizare. Lasă politica goală dacă vrei să dezactivezi pagina de întâmpinare la prima utilizare.
