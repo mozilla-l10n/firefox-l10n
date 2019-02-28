@@ -46,6 +46,8 @@
 
 <!ENTITY onemonthbackward.tooltip "Jaden mjasec slědk" >
 <!ENTITY onemonthforward.tooltip "Jaden mjasec doprědka" >
+<!ENTITY oneyearbackward.tooltip "Jadno lěto slědk" >
+<!ENTITY oneyearforward.tooltip "Jadno lěto doprědka" >
 <!ENTITY showToday.tooltip "K źinsnajšnemu">
 <!ENTITY onedayforward.tooltip "Jaden źeń doprědka">
 <!ENTITY onedaybackward.tooltip "Jaden źeń slědk">
