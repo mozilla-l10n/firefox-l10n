@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 cfr-doorhanger-extension-heading = Estensione suggerita
+cfr-doorhanger-pintab-heading = Prova questo: appunta scheda
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Perché viene visualizzato questo messaggio
@@ -17,6 +18,8 @@ cfr-doorhanger-extension-never-show-recommendation = Non visualizzare suggerimen
     .accesskey = v
 
 cfr-doorhanger-extension-ok-button = Aggiungi
+    .accesskey = A
+cfr-doorhanger-pintab-ok-button = Appunta questa scheda
     .accesskey = A
 
 cfr-doorhanger-extension-learn-more-link = Ulteriori informazioni
@@ -49,3 +52,13 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } utente
        *[other] { $total } utenti
     }
+
+cfr-doorhanger-pintab-description = Accedi facilmente ai siti web che utilizzi più spesso. Mantieni i siti aperti in una scheda (anche quando riavvii).
+
+## These messages are steps on how to use the feature and are shown together.
+cfr-doorhanger-pintab-step1 = <b>Fai clic con il tasto destro</b> sulla scheda da appuntare.
+cfr-doorhanger-pintab-step2 = Seleziona <b>Appunta scheda</b> nel menu.
+cfr-doorhanger-pintab-step3 = Quando i contenuti del sito vengono aggiornati, un punto blu apparirà sulla scheda.
+
+cfr-doorhanger-pintab-animation-pause = Metti in pausa
+cfr-doorhanger-pintab-animation-resume = Riprendi
