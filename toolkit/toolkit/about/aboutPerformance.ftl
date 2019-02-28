@@ -45,3 +45,5 @@ energy-impact-low = নিম্ন ({ $value })
 
 close-tab =
     .title = ট্যাব বন্ধ করুন
+show-addon =
+    .title = অ্যাড-অন ম্যানেজারে দেখাও
