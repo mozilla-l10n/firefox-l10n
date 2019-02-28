@@ -8,14 +8,21 @@ about-config-warning-text = Schimbarea acestor setări avansate poate fi dăună
 about-config-warning-checkbox = Irită-mă din nou, te rog!
 about-config-warning-button = Accept riscul
 about-config-title = about:config
-about-config-search =
-    .placeholder = Caută sau apasă ESC pentru a afișa toate
+about-config-search-input =
+    .placeholder = Caută
+about-config-show-all = Afișează tot
 about-config-pref-add = Adaugă
 about-config-pref-toggle = Comută
 about-config-pref-edit = Editează
 about-config-pref-save = Salvează
 about-config-pref-reset = Resetează
 about-config-pref-delete = Șterge
+
+## Labels for the type selection radio buttons shown when adding preferences.
+
+about-config-pref-add-type-boolean = Boolean
+about-config-pref-add-type-number = Număr
+about-config-pref-add-type-string = Şir
 
 ## Preferences with a non-default value are differentiated visually, and at the
 ## same time the state is made accessible to screen readers using an aria-label
