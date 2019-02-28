@@ -2,11 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Page title
+about-performance-title = কাজ ব্যবস্থাপক
 
 ## Column headers
 
 column-name = নাম
 column-type = ধরন
+column-energy-impact = শক্তির প্রভাব
 
 ## Special values for the Name column
 
@@ -31,6 +34,12 @@ type-other = অন্যান্য
 energy-impact-high = উচ্চ ({ $value })
 energy-impact-medium = মধ্যম ({ $value })
 energy-impact-low = নিম্ন ({ $value })
+
+## Values for the Memory column
+##
+## Variables:
+##   $value (Number) - How much memory is used
+
 
 ## Tooltips for the action buttons
 
