@@ -10,6 +10,7 @@
 title = গুরুত্বপূর্ণ খবর
 changed-title = কি পরিবর্তন হয়েছে?
 options-title = আমার অপশনগুলো কি কি?
+resources = রিসোর্স:
 sync-label = আপনার ইমেইল দিন
 sync-input =
     .placeholder = ইমেইল
