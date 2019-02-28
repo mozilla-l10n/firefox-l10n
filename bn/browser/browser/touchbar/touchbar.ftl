@@ -7,9 +7,12 @@
 back = পিছনে
 forward = পরবর্তী
 home = নীড়
+fullscreen = পূর্ণ পর্দাজুড়ে
 find = খুঁজুন
 new-tab = নতুন ট্যাব
 add-bookmark = বুকমার্ক যোগ করুন
 open-bookmarks-sidebar = বুকমার্ক সাইডবার খুলুন
+# Meant to match the string displayed in an empty URL bar.
+open-location = অনুসন্ধান করুন বা ঠিকানা লিখুন
 share = শেয়ার করুন
 close-window = উইন্ডো বন্ধ করুন
