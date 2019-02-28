@@ -139,10 +139,9 @@ legacy-warning-show-legacy = Dangos hen estyniadau
 legacy-extensions =
     .value = Hen Estyniadau
 legacy-extensions-description = Nid yw'r estyniadau hyn yn cyrraedd safonau cyfredol { -brand-short-name } ac mae nhw wedi cael eu diffodd. <label data-l10n-name="legacy-learn-more">Dysgu am y newidiadau i ychwanegion</label>
-private-browsing-description =
-    Nid yw estyniadau yn cael rhedeg yn ragosodedig mewn Ffenestri Preifat. Fyddan nhw ddim yn gweithio
-    o fewn pori preifat, a fyddan nhw ddim yn gallu cael mynediad i'ch gweithgareddau ar-lein.
-    Gallwch ganiatáu i estyniad redeg mewn Ffenestri Preifat trwy ddewis y cerdyn estyniad isod a newid eich gosodiadau.
+private-browsing-description2 =
+    Mae { -brand-short-name } yn newid sut mae estyniadau'n gweithio o fewn pori preifat. Ni fydd unrhyw estyniadau newydd y byddwch chi'n eu hychwanegu at { -brand-short-name } yn rhedeg yn ragosodedig o fewn Ffenestri Prefat. Oni bai eich bod yn ei ganiatáu yn y gosodiadau, ni fydd estyniad yn gweithio wrth bori'n preifat, ac ni chaiff fynediad at eich gweithgareddau ar-lein yno. Rydym wedi gwneud y newid hwn i gadw eich pori preifat yn breifat.
+    <label data-l10n-name="private-browsing-learn-more">Dysgu sut i reoli gosodiadau estyniad.</label>
 extensions-view-discover =
     .name = Estyn Ychwanegion
     .tooltiptext = { extensions-view-discover.name }

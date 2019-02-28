@@ -262,6 +262,7 @@ effective-content-sandbox-level = Lefel Blwch Tywod Proses Cynnwys Effeithiol
 sandbox-proc-type-content = cynnwys
 sandbox-proc-type-file = cynnwys ffeil
 sandbox-proc-type-media-plugin = ategyn cyfrwng
+sandbox-proc-type-data-decoder = datgodydd data
 launcher-process-status-0 = Galluogwyd
 launcher-process-status-1 = Analluogwyd oherwydd methiant
 launcher-process-status-2 = Analluogwyd yn orfodol
