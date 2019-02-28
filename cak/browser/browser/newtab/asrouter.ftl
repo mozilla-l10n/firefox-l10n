@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 cfr-doorhanger-extension-heading = Chilab'en K'amal
+cfr-doorhanger-pintab-heading = Tatojtob'ej rere': Pin Tab
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Aruma nintz'ët re'
 cfr-doorhanger-extension-cancel-button = Wakami Mani
@@ -41,3 +42,7 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } okisanel
        *[other] { $total } okisanela'
     }
+cfr-doorhanger-pintab-description = Katok anin pa ri ruxaq ak'amaya'l yalan nawokisaj. Ke'ajaqa' kan ri taq ruxaq k'amaya'l pa jun ruwi' (achi'el toq natikirisaj).
+
+## These messages are steps on how to use the feature and are shown together.
+
