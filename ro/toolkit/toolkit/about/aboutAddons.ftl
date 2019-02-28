@@ -210,8 +210,6 @@ extensions-updates-update-selected =
 
 ## Extension shortcut management
 
-shortcuts-manage =
-    .label = Comenzi rapide de la tastatură
 manage-extensions-shortcuts =
     .label = Gestionează scurtături de extensii
     .accesskey = S
@@ -227,5 +225,14 @@ shortcuts-modifier-other = Include Ctrl sau Alt
 shortcuts-invalid = Combinație invalidă
 shortcuts-letter = Tastează o literă
 shortcuts-system = Scurtăturile { -brand-short-name } nu pot fi înlocuite
+shortcuts-card-collapse-button = Afișează mai puțin
 go-back-button =
     .tooltiptext = Înapoi
+
+## Add-on actions
+
+remove-addon-button = Elimină
+disable-addon-button = Dezactivează
+enable-addon-button = Activează
+addons-enabled-heading = Activat
+addons-disabled-heading = Dezactivat
