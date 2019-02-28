@@ -8,15 +8,15 @@
 findbar-next =
     .tooltiptext = İbareniñ soñraki rastkelişini tap
 findbar-previous =
-    .tooltiptext = İbareniñ evelki rastkelişini tap
+    .tooltiptext = İbareniñ evvelki rastkelişini tap
 findbar-find-button-close =
     .tooltiptext = Tap çubuğını qapat
 findbar-highlight-all2 =
     .label = Episini Yüksek-ışıt
     .accesskey =
         { PLATFORM() ->
-            [macos] l
-           *[other] l
+            [macos] k
+           *[other] k
         }
     .tooltiptext = İbare rastkelişleriniñ episini ışıqlandır
 findbar-case-sensitive =
