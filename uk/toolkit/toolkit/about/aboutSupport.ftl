@@ -250,6 +250,7 @@ effective-content-sandbox-level = Ефективний рівень ізоляц
 sandbox-proc-type-content = вміст
 sandbox-proc-type-file = вміст файлу
 sandbox-proc-type-media-plugin = медіаплагін
+sandbox-proc-type-data-decoder = декодер даних
 launcher-process-status-0 = Увімкнено
 launcher-process-status-1 = Вимкнено через збій
 launcher-process-status-2 = Примусово вимкнено
