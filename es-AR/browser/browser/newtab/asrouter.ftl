@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 cfr-doorhanger-extension-heading = Extensión recomendada
+cfr-doorhanger-pintab-heading = Pruebe esto: Pegar pestaña
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Por qué estoy viendo esto
 cfr-doorhanger-extension-cancel-button = Ahora no
@@ -41,3 +42,6 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } usuario
        *[other] { $total } usuarios
     }
+
+## These messages are steps on how to use the feature and are shown together.
+
