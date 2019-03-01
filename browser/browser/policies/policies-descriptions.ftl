@@ -17,6 +17,7 @@ policy-BlockAboutConfig = Zablokuje prístup na stránku about:config.
 policy-BlockAboutProfiles = Zablokuje prístup na stránku about:profiles.
 policy-BlockAboutSupport = Zablokuje prístup na stránku about:support.
 policy-Bookmarks = Vytvorí záložku na paneli záložiek, v ponuke alebo vo vybranom priečinku.
+policy-CaptivePortal = Povolenie alebo zakázanie podpory pre captive portály.
 policy-CertificatesDescription = Pridá certifikáty alebo použije zabudované certifikáty.
 policy-Cookies = Povolí alebo zakáže webovým stránkam nastavovať cookies.
 policy-DisableAppUpdate = Zabráni aktualizáciám prehliadača.
@@ -49,11 +50,13 @@ policy-EnableTrackingProtection = Zapne alebo vypne blokovanie obsahu a prípadn
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
 policy-Extensions = Nainštaluje, odinštaluje alebo uzamkne rozšírenie. Pre inštaláciu je potrebné ako parameter zadať URL adresy alebo cesty. Pre odinštaláciu alebo uzamknutie je potrebné ID rozšírenia.
+policy-ExtensionUpdate = Zapne alebo vypne automatické aktualizácie rozšírení.
 policy-FlashPlugin = Povolí alebo zakáže používanie zásuvného modulu Flash.
 policy-HardwareAcceleration = Ak je nastavená hodnota false, vypne hardvérové urýchľovanie.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Nastaví a v prípade potreby uzamkne domovskú stránku.
 policy-InstallAddonsPermission = Povolí určitým webovým stránkam inštalovať doplnky.
+policy-NetworkPrediction = Povolí alebo zakáže prednačítavanie DNS (prefetching).
 policy-NoDefaultBookmarks = Vypne vytváranie predvolených záložiek a chytrých záložiek aplikácie { -brand-short-name } (Najnavštevovanejšie, Naposledy použité značky). Poznámka: toto pravidlo možno efektívne využiť len vtedy, ak bude nastavené pred prvým spustením.
 policy-OfferToSaveLogins = Nastaví pravidlo na uloženie prihlasovacích údajov v aplikácii { -brand-short-name }. Je možné použiť hodnoty true aj false.
 policy-OverrideFirstRunPage = Nastaví vlastnú stránku pri prvom spustení. Ak nechcete pri prvom spustení zobrazovať žiadnu stránku, nastavte toto pravidlo ako prázdne.
@@ -69,5 +72,6 @@ policy-SearchEngines = Nakonfiguruje nastavenie vyhľadávacích modulov. Toto p
 policy-SecurityDevices = Nainštaluje moduly PKCS #11.
 policy-SSLVersionMax = Nastaví maximálnu verziu SSL.
 policy-SSLVersionMin = Nastaví minimálnu verziu SSL.
+policy-SupportMenu = Pridá vlastnú položku do ponuky pomocníka.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Zablokuje prístup na určité webové stránky. Ďalšie informácie o formáte nájdete v dokumentácii.
