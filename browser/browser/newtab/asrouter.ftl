@@ -42,6 +42,7 @@ cfr-doorhanger-extension-total-users =
     { $total ->
        *[other] { $total } 使用者
     }
+cfr-doorhanger-pintab-description = 快速開啟您最常使用的網站，就算是重新啟動後也將網站直接開啟於分頁中。
 
 ## These messages are steps on how to use the feature and are shown together.
 
