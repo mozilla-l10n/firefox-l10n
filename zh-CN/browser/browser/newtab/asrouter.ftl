@@ -3,12 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 cfr-doorhanger-extension-heading = 推荐扩展
+cfr-doorhanger-pintab-heading = 试试：固定标签页
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = 我为什么会看到这个？
 cfr-doorhanger-extension-cancel-button = 暂时不要
     .accesskey = N
 cfr-doorhanger-extension-ok-button = 立刻添加
     .accesskey = A
+cfr-doorhanger-pintab-ok-button = 固定此标签页
+    .accesskey = P
 cfr-doorhanger-extension-manage-settings-button = 管理推荐设置
     .accesskey = M
 cfr-doorhanger-extension-never-show-recommendation = 不再显示此推荐
@@ -39,3 +42,8 @@ cfr-doorhanger-extension-total-users =
     { $total ->
        *[other] { $total } 用户
     }
+
+## These messages are steps on how to use the feature and are shown together.
+
+cfr-doorhanger-pintab-animation-pause = 暂停
+cfr-doorhanger-pintab-animation-resume = 恢复
