@@ -93,6 +93,15 @@ detail-update-automatic =
 detail-update-manual =
     .label = Qapalı
     .tooltiptext = Yañartmalarnı öz-özünden qurma
+# Used as a description for the option to allow or block an add-on in private windows.
+detail-private-browsing-label = Hususiy Pencerelerde Çaptır
+detail-private-browsing-description = Uzantı Hususiy Pencerelerde çalışacaq ve hat-üstü faaliyetleriñizge irişimi olacaq. <label data-l10n-name="detail-private-browsing-learn-more">Daha çoq ögren</label>iñiz
+detail-private-browsing-on =
+    .label = İzin Ber
+    .tooltiptext = Hususiy Seyranda Qabilleştir
+detail-private-browsing-off =
+    .label = İzin Berme
+    .tooltiptext = Hususiy Seyranda Naqabilleştir
 detail-home =
     .label = Ev saifesi
 detail-home-value =
@@ -135,6 +144,9 @@ legacy-warning-show-legacy = Qadimiy uzantılarnı köster
 legacy-extensions =
     .value = Qadimiy Uzantılar
 legacy-extensions-description = Bu uzantılar cari { -brand-short-name } standartlarını qarşılamay ve ondan dolayı ğayrıfaalleştirilgenlerdir. <label data-l10n-name="legacy-learn-more">Eklentilerge deñişiklikler aqqında ögreniñiz.</label>
+private-browsing-description2 =
+    { -brand-short-name } uzantılarnıñ hususiy seyranda nasıl çalışqanını deñiştire. { -brand-short-name } içine eklegeniñiz her hangi yañı eklentiler ögbelgilengen olaraq Hususiy Pencerelerde çapmaycaq. Ayarlarda oña izin bermegeniñiz taqdirde, uzantı hususiy seyranda olğanda çalışmaycaq ve andaki hat-üstü faaliyetleriñizge irişimi olmaycaq.
+    <label data-l10n-name="private-browsing-learn-more">Uzantı ayarlarınıñ nasıl idare etilgenini ögreniñiz.</label>
 extensions-view-discover =
     .name = Eklentilerni Elde Et
     .tooltiptext = { extensions-view-discover.name }
@@ -215,13 +227,12 @@ extensions-updates-update-selected =
 
 ## Extension shortcut management
 
-shortcuts-manage =
-    .label = Klavye Qısqayolları
 manage-extensions-shortcuts =
     .label = Eklenti Qısqayollarını İdare Et
     .accesskey = r
 shortcuts-empty-message = Bu eklenti içün qısqayollar yoq.
 shortcuts-no-addons = Qabilleştirilgen er angi bir eklentiñiz yoq.
+shortcuts-no-commands = Aşağıdaki uzantılarnıñ qısqayolları yoq:
 shortcuts-input =
     .placeholder = Bir qısqayol kirsetiñiz
 shortcuts-browserAction = Uzantını faalleştir
@@ -232,5 +243,19 @@ shortcuts-modifier-other = Ctrl yaki Alt dahil et
 shortcuts-invalid = Keçersiz kombinasyon
 shortcuts-letter = Bir harf tuşlañız
 shortcuts-system = Bir { -brand-short-name } qısqayolunınıñ üstünden aydayalmayım
+shortcuts-card-expand-button =
+    { $numberToShow ->
+        [one] { $numberToShow } dane daha köster
+       *[other] { $numberToShow } dane daha köster
+    }
+shortcuts-card-collapse-button = Daha Az Köster
 go-back-button =
     .tooltiptext = Keri bar
+
+## Add-on actions
+
+remove-addon-button = Çetleştir
+disable-addon-button = Naqabilleştir
+enable-addon-button = Qabilleştir
+addons-enabled-heading = Qabilleştirilgen
+addons-disabled-heading = Naqabilleştirilgen
