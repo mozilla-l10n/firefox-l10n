@@ -50,6 +50,9 @@ category-privacy =
 pane-sync-title = Účet Firefox
 category-sync =
     .tooltiptext = { pane-sync-title }
+pane-sync-title2 = { -sync-brand-short-name }
+category-sync2 =
+    .tooltiptext = { pane-sync-title2 }
 help-button-label = Podpora aplikácie { -brand-short-name }
 addons-button-label = Rozšírenia a témy vzhľadu
 focus-search =
@@ -606,6 +609,7 @@ sitedata-learn-more = Ďalšie informácie
 sitedata-delete-on-close =
     .label = Odstrániť cookies a údaje stránok pri zatvorení aplikácie { -brand-short-name }
     .accesskey = c
+sitedata-delete-on-close-private-browsing = Pri trvalom režime súkromného prehliadania sa cookies a údaje stránok vymažú ihneď po uzavretí aplikácie { -brand-short-name }.
 sitedata-allow-cookies-option =
     .label = Ukladať cookies a údaje stránok
     .accesskey = U
@@ -690,6 +694,15 @@ content-blocking-tracking-protection-change-block-list = Zmeniť zoznam blokovan
 content-blocking-cookies-label =
     .label = Cookies
     .accesskey = C
+# Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
+content-blocking-cryptominers-label =
+    .label = Ťažbu kryptomien
+    .accesskey = k
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+content-blocking-fingerprinters-label =
+    .label = Vytváranie odtlačku prehliadača
+    .accesskey = o
 
 ## Privacy Section - Tracking
 
@@ -760,7 +773,7 @@ collection-header = Zber a použitie údajov o aplikácii { -brand-short-name }
 collection-description = Keď sa jedná o údaje, dávame vám vždy na výber. Zbierame len údaje, ktoré nám pomôžu aplikáciu { -brand-short-name } naďalej zlepšovať. Pred odoslaním osobných údajov vždy žiadame o váš súhlas.
 collection-privacy-notice = Zásady ochrany súkromia
 collection-health-report =
-    .label = Povoliť aplikácii { -brand-short-name } odosielať Mozille technické údaje a údaje o interakciách
+    .label = Povoliť aplikácii { -brand-short-name } odosielať technické údaje a údaje o interakciách spoločnosti { -vendor-short-name }
     .accesskey = o
 collection-health-report-link = Ďalšie informácie
 collection-studies =
@@ -773,7 +786,7 @@ addon-recommendations-link = Ďalšie informácie
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Odosielanie údajov je v konfigurácii tohto zostavenia zakázané
 collection-browser-errors =
-    .label = Povoliť aplikácii { -brand-short-name } odosielať hlásenia o chybách prehliadača (vrátane textu správ o chybách) Mozille
+    .label = Povoliť aplikácii { -brand-short-name } odosielať hlásenia o chybách prehliadača (vrátane textu správ o chybách) spoločnosti { -vendor-short-name }
     .accesskey = b
 collection-browser-errors-link = Ďalšie informácie
 collection-backlogged-crash-reports =
