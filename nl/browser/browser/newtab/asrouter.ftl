@@ -4,6 +4,8 @@
 
 cfr-doorhanger-extension-heading = Aanbevolen extensie
 
+cfr-doorhanger-pintab-heading = Probeer dit: Tabblad vastmaken
+
 cfr-doorhanger-extension-sumo-link =
   .tooltiptext = Waarom zie ik dit
 
@@ -12,6 +14,9 @@ cfr-doorhanger-extension-cancel-button = Niet nu
 
 cfr-doorhanger-extension-ok-button = Nu toevoegen
   .accesskey = t
+
+cfr-doorhanger-pintab-ok-button = Dit tabblad vastmaken
+  .accesskey = v
 
 cfr-doorhanger-extension-manage-settings-button = Instellingen voor aanbevelingen beheren
   .accesskey = I
@@ -49,3 +54,13 @@ cfr-doorhanger-extension-total-users =
       [one] { $total } gebruiker
      *[other] { $total } gebruikers
   }
+
+cfr-doorhanger-pintab-description = Makkelijke toegang tot uw meestgebruikte websites. Houd websites open in een tabblad (zelfs wanneer u herstart).
+
+## These messages are steps on how to use the feature and are shown together.
+cfr-doorhanger-pintab-step1 = <b>Klik met de rechtermuisknop</b> op het tabblad dat u wilt vastmaken.
+cfr-doorhanger-pintab-step2 = Selecteer <b>Tabblad vastmaken</b> vanuit het menu.
+cfr-doorhanger-pintab-step3 = Als de website een update bevat, ziet u een blauwe stip op uw vastgemaakte tabblad.
+
+cfr-doorhanger-pintab-animation-pause = Pauzeren
+cfr-doorhanger-pintab-animation-resume = Hervatten
