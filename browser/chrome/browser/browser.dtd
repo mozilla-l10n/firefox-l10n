@@ -1133,9 +1133,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Керуйте своїми додатками, натиснувши <image class='addon-addon-icon'/> в меню <image class='addon-toolbar-icon'/>.">
+<!ENTITY addonPostInstall.incognito.label "Дозволити цьому розширенню виконуватися в приватних вікнах.">
+<!ENTITY addonPostInstall.incognito.accesskey "п">
 
-<!ENTITY addonPrivateBrowsing.header.label "Розширення в приватних вікнах">
-<!ENTITY addonPrivateBrowsing.body.label "Типово, розширенням не дозволяється виконуватись в приватних вікнах. Вони не працюватимуть під час приватного перегляду і не матимуть доступу до вашої діяльності онлайн. Ви можете дозволити кожному розширенню виконуватись в приватних вікнах, змінивши налаштування.">
+<!ENTITY addonPrivateBrowsing.header2.label "Зміни розширень в приватних вікнах">
+<!ENTITY addonPrivateBrowsing.body2.label "Нові розширення, які ви додаєте в &brandShorterName;, не працюватимуть в приватних вікнах, доки ви не встановите дозвіл в налаштуваннях.">
+<!ENTITY addonPrivateBrowsing.learnMore.label "Дізнайтеся, як керувати налаштуваннями розширень.">
 <!ENTITY addonPrivateBrowsing.okButton.label "Гаразд, зрозуміло">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "Г">
 <!ENTITY addonPrivateBrowsing.manageButton.label "Керувати розширеннями">
