@@ -12,7 +12,7 @@
 <!ENTITY requestReceipt.label         "Ao enviar mensagens, pedir sempre um recibo de leitura">
 <!ENTITY requestReceipt.accesskey     "A">
 <!ENTITY receiptArrive.label          "Ao receber um recibo:">
-<!ENTITY leaveIt.label                "Manter na caixa de entrada">
+<!ENTITY leaveIt.label                "Manter na minha caixa de entrada">
 <!ENTITY leaveIt.accesskey            "M">
 <!-- LOCALIZATION NOTE moveToSent.label Translate: 'Sent' according to Netscape glossary -->
 <!ENTITY moveToSent.label             "Mover para a pasta de &quot;Enviadas&quot;">
