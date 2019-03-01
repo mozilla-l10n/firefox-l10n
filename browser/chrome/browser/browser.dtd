@@ -1133,9 +1133,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Quản lý tiện ích của bạn bằng cách nhấp vào <image class='addon-addon-icon'/> trong trình đơn <image class='addon-toolbar-icon'/>.">
+<!ENTITY addonPostInstall.incognito.label "Cho phép tiện ích mở rộng này chạy trong cửa sổ riêng tư.">
+<!ENTITY addonPostInstall.incognito.accesskey "A">
 
-<!ENTITY addonPrivateBrowsing.header.label "Tiện ích mở rộng trong cửa sổ riêng tư">
-<!ENTITY addonPrivateBrowsing.body.label "Tiện ích mở rộng không được phép chạy theo mặc định trong cửa sổ riêng tư. Họ sẽ không làm việc trong khi duyệt web riêng tư và sẽ không có quyền truy cập vào các hoạt động trực tuyến của bạn. Bạn có thể cho phép mỗi tiện ích chạy trong cửa sổ riêng tư bằng cách quản lý cài đặt của mình.">
+<!ENTITY addonPrivateBrowsing.header2.label "Thay đổi tiện ích mở rộng trong cửa sổ riêng tư">
+<!ENTITY addonPrivateBrowsing.body2.label "Bất kỳ tiện ích mở rộng mới nào bạn thêm vào &brandShorterName; sẽ không chạy trong cửa sổ riêng tư trừ khi bạn cho phép điều này trong cài đặt.">
+<!ENTITY addonPrivateBrowsing.learnMore.label "Tìm hiểu cách quản lý cài đặt tiện ích mở rộng.">
 <!ENTITY addonPrivateBrowsing.okButton.label "OK, đã hiểu">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "O">
 <!ENTITY addonPrivateBrowsing.manageButton.label "Quản lí tiện ích">
