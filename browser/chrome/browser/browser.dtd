@@ -1133,9 +1133,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Klikniśo na <image class='addon-addon-icon'/> w meniju <image class='addon-toolbar-icon'/>, aby swóje dodanki zastojał.">
+<!ENTITY addonPostInstall.incognito.label "Toś to rozšyrjenje w priwatnych woknach dowóliś.">
+<!ENTITY addonPostInstall.incognito.accesskey "T">
 
-<!ENTITY addonPrivateBrowsing.header.label "Rozšyrjenja w priwatnych woknach">
-<!ENTITY addonPrivateBrowsing.body.label "Pó standarźe rozšyrjenja njesměju se w priwatnych woknach wuwjasć. Njefunkcioněruju w priwatnem modusu, a njamaju pśistup k wašym aktiwitam online. Móžośo kuždemu rozšyrjenjeju dowóliś, až se w priwatnych woknach wuwjeźo, jolic to w swójich nastajenjach nastajaśo.">
+<!ENTITY addonPrivateBrowsing.header2.label "K rozšyrjenjam w priwatnych woknach přejś">
+<!ENTITY addonPrivateBrowsing.body2.label "Někotare nowe rozšyrjenja, kótarež &brandShorterName; pśidawaśo, w priwatnych woknach njefunkcioněruju, snaźkuli dowólujośo to w nastajenjach.">
+<!ENTITY addonPrivateBrowsing.learnMore.label "Zgóńśo, kak se nastajenja rozšyrjenjow zastojaju.">
 <!ENTITY addonPrivateBrowsing.okButton.label "W pórěźe, som zrozměł">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "z">
 <!ENTITY addonPrivateBrowsing.manageButton.label "Rozšyrjenja zastojaś">
