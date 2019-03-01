@@ -77,8 +77,11 @@
 <!ENTITY Birthday.label                 "Amulli:">
 <!ENTITY Birthday.accesskey             "B">
 <!ENTITY In.label                       "">
+<!ENTITY Month.placeholder              "Aggur">
+<!ENTITY Day.placeholder                "Ass">
 <!ENTITY Year.placeholder               "Iseggwasen">
 <!ENTITY Or.value                       "neɣ">
+<!ENTITY Age.label                      "Awtay:">
 <!ENTITY Age.placeholder                "Awtay">
 <!ENTITY YearsOld.label                 "">
 
