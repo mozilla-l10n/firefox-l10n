@@ -242,6 +242,7 @@ effective-content-sandbox-level = અસરકારક સામગ્રી �
 sandbox-proc-type-content = સામગ્રી
 sandbox-proc-type-file = ફાઇલ સામગ્રી
 sandbox-proc-type-media-plugin = મીડિયા પ્લગઇન
+sandbox-proc-type-data-decoder = માહિતી ડીકોડર
 launcher-process-status-0 = સક્રિય
 launcher-process-status-1 = નિષ્ફળતાને કારણે નિષ્ક્રિય
 launcher-process-status-2 = બળજબરીથી અક્ષમ

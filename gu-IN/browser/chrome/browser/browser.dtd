@@ -1133,8 +1133,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "<image class='addon-addon-icon'/> મેનૂમાં <image class='addon-toolbar-icon'/> ક્લિક કરીને તમારા ઍડ-ઑનને સંચાલિત કરો.">
+<!ENTITY addonPostInstall.incognito.label "ખાનગી વિંડોઝમાં આ એક્સ્ટેંશનને ચલાવવાની મંજૂરી આપો.">
+<!ENTITY addonPostInstall.incognito.accesskey "A">
 
-<!ENTITY addonPrivateBrowsing.header.label "ખાનગી વિંડોઝમાં એક્સ્ટેન્શન્સ">
+<!ENTITY addonPrivateBrowsing.header2.label "ખાનગી વિંડોઝમાં એક્સ્ટેન્શન્સ બદલો">
 <!ENTITY addonPrivateBrowsing.okButton.label "ઠીક છે, સમજાઇ ગયું">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "O">
 <!ENTITY addonPrivateBrowsing.manageButton.label "એક્સ્ટેંશન્સનો વહીવટ કરો">

@@ -3,12 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 cfr-doorhanger-extension-heading = ભલામણ કરેલ એક્સ્ટેંશન
+cfr-doorhanger-pintab-heading = આને અજમાવો: ટૅબ પિન કરો
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = શા માટે હું આ જોઈ રહ્યો છું
 cfr-doorhanger-extension-cancel-button = હમણાં નહિ
     .accesskey = N
 cfr-doorhanger-extension-ok-button = હમણાંજ ઉમેરો
     .accesskey = A
+cfr-doorhanger-pintab-ok-button = આ ટેબ પિન કરો
+    .accesskey = P
 cfr-doorhanger-extension-manage-settings-button = ભલામણ સેટિંગ્સ મેનેજ કરો
     .accesskey = M
 cfr-doorhanger-extension-never-show-recommendation = મને આ ભલામણ બતાવશો નહીં
@@ -41,3 +44,10 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } વપરાશકર્તા
        *[other] { $total } વપરાશકર્તાઓ
     }
+cfr-doorhanger-pintab-description = તમારી સૌથી વધુ ઉપયોગમાં લેવાતી સાઇટ્સની સરળ ઍક્સેસ મેળવો. સાઇટ્સને ટેબમાં ખોલો (તમે ફરીથી શરૂ કરો ત્યારે પણ).
+
+## These messages are steps on how to use the feature and are shown together.
+
+cfr-doorhanger-pintab-step1 = તમે જે ટૅબને પિન કરવા માંગો છો તેના પર <b>જમણી ક્લિક કરો.</b>
+cfr-doorhanger-pintab-animation-pause = અટકાવો
+cfr-doorhanger-pintab-animation-resume = ફરી શરૂ કરો
