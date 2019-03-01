@@ -50,6 +50,9 @@ category-privacy =
 pane-sync-title = Firefox Esabı
 category-sync =
     .tooltiptext = { pane-sync-title }
+pane-sync-title2 = { -sync-brand-short-name }
+category-sync2 =
+    .tooltiptext = { pane-sync-title2 }
 help-button-label = { -brand-short-name } Destegi
 addons-button-label = Eklentiler ve Temalar
 focus-search =
@@ -332,6 +335,9 @@ browsing-search-on-start-typing =
 browsing-cfr-recommendations =
     .label = Siz kezingende yañı eklentiler tevsiye et
     .accesskey = t
+browsing-cfr-features =
+    .label = Siz seyran etkende hususiyetlerni tevsiye et
+    .accesskey = h
 browsing-cfr-recommendations-learn-more = Daha Çoq Ögren
 
 ## General Section - Proxy
@@ -514,16 +520,19 @@ sync-engine-prefs =
     .accesskey = T
 sync-device-name-header = Cihaz adı
 sync-device-name-change =
-    .label = Cihaz adını değiştir…
+    .label = Cihaz Adını Deñiştir…
     .accesskey = C
 sync-device-name-cancel =
-    .label = İptal
+    .label = Vazgeç
     .accesskey = t
 sync-device-name-save =
-    .label = Kaydet
+    .label = Saqla
     .accesskey = K
-sync-mobilepromo-single = Başka bir cihaz bağla
+sync-mobilepromo-single = Başqa bir cihaznı bağla
 sync-mobilepromo-multi = Cihazları yönet
+sync-connect-another-device = Başqa bir cihaz bağla
+sync-manage-devices = Cihazlarnı idare et
+sync-fxa-begin-pairing = Bir cihaznı çiftle
 sync-tos-link = Kullanım Koşulları
 sync-fxa-privacy-notice = Gizlilik Bildirimi
 
@@ -673,6 +682,7 @@ content-blocking-all-windows-trackers = Episi pencerelerde bilingen izciler
 content-blocking-all-third-party-cookies = Üçünci-taraf çörekleriniñ episi
 content-blocking-warning-title = Diqqat!
 content-blocking-warning-desc = Çörekler ve izcilerniñ bloklanması bazı ağ-saytlarınıñ bozulmasına yol açabilir. İtimat etkeniñiz saytlar içün bloklamanı naqabilleştirmek qolaydır.
+content-blocking-warning-description = Muhtevanıñ bloklanması bazı ağ-saytlarınıñ sınmasına sebep olabilir. İtimat etkeniñiz saytlar içün bloklamanı naqabilleştirmek qolaydır.
 content-blocking-learn-how = Nasılnı ögreniñiz
 content-blocking-trackers-label =
     .label = İzciler
@@ -687,6 +697,15 @@ content-blocking-tracking-protection-change-block-list = Blok listesini deñişt
 content-blocking-cookies-label =
     .label = Çörekler
     .accesskey = r
+# Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
+content-blocking-cryptominers-label =
+    .label = Kriptomadenciler
+    .accesskey = m
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+content-blocking-fingerprinters-label =
+    .label = Parmak-izciler
+    .accesskey = P
 
 ## Privacy Section - Tracking
 
