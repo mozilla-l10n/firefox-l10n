@@ -3,12 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 cfr-doorhanger-extension-heading = Extensão Recomendada
+cfr-doorhanger-pintab-heading = Experimente isso: Fixar aba
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Por que estou vendo isso
 cfr-doorhanger-extension-cancel-button = Agora não
     .accesskey = n
 cfr-doorhanger-extension-ok-button = Adicionar agora
     .accesskey = A
+cfr-doorhanger-pintab-ok-button = Fixar esta aba
+    .accesskey = x
 cfr-doorhanger-extension-manage-settings-button = Gerenciar definições de recomendações
     .accesskey = m
 cfr-doorhanger-extension-never-show-recommendation = Não me mostrar esta recomendação
@@ -41,3 +44,12 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } usuário
        *[other] { $total } usuários
     }
+cfr-doorhanger-pintab-description = Tenha acesso fácil aos sites que você mais usa. Mantenha sites abertos em abas (mesmo quando reiniciar).
+
+## These messages are steps on how to use the feature and are shown together.
+
+cfr-doorhanger-pintab-step1 = <b>Clique com o botão direito</b> na aba que deseja fixar.
+cfr-doorhanger-pintab-step2 = Selecione <b>Fixar aba</b> no menu.
+cfr-doorhanger-pintab-step3 = Se o site for atualizado, você verá um ponto azul na aba fixada.
+cfr-doorhanger-pintab-animation-pause = Pausar
+cfr-doorhanger-pintab-animation-resume = Continuar

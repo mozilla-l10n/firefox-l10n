@@ -1133,9 +1133,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Gerencie suas extensões clicando no ícone <image class='addon-addon-icon'/> no menu <image class='addon-toolbar-icon'/>.">
+<!ENTITY addonPostInstall.incognito.label "Permitir que esta extensão funcione em janelas privativas.">
+<!ENTITY addonPostInstall.incognito.accesskey "P">
 
-<!ENTITY addonPrivateBrowsing.header.label "Extensões em janelas privativas">
-<!ENTITY addonPrivateBrowsing.body.label "Extensões não têm permissão por padrão para funcionar em janelas privativas. Elas não funcionarão durante a navegação privativa e não terão acesso à sua atividade online. Você pode, gerenciando suas configurações, permitir que cada extensão funcione em janelas privativas.">
+<!ENTITY addonPrivateBrowsing.header2.label "Alteração de extensões em janelas privativas">
+<!ENTITY addonPrivateBrowsing.body2.label "Qualquer nova extensão que você adicionar ao &brandShorterName; não funcionará em janelas privativas, a menos que permita isso nas configurações.">
+<!ENTITY addonPrivateBrowsing.learnMore.label "Saiba como gerenciar configurações de extensões.">
 <!ENTITY addonPrivateBrowsing.okButton.label "OK, entendi">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "O">
 <!ENTITY addonPrivateBrowsing.manageButton.label "Gerenciar extensões">
