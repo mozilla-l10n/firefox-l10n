@@ -3,12 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 cfr-doorhanger-extension-heading = Tiện ích được đề xuất
+cfr-doorhanger-pintab-heading = Hãy thử cái này: Ghim thẻ
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Tại sao tôi thấy cái này
 cfr-doorhanger-extension-cancel-button = Không phải bây giờ
     .accesskey = N
 cfr-doorhanger-extension-ok-button = Thêm vào ngay
     .accesskey = A
+cfr-doorhanger-pintab-ok-button = Ghim thẻ này
+    .accesskey = P
 cfr-doorhanger-extension-manage-settings-button = Quản lý các thiết lập được đề xuất
     .accesskey = M
 cfr-doorhanger-extension-never-show-recommendation = Không hiển thị cho tôi đề xuất này
@@ -39,3 +42,12 @@ cfr-doorhanger-extension-total-users =
     { $total ->
        *[other] { $total } người dùng
     }
+cfr-doorhanger-pintab-description = Dễ dàng truy cập vào các trang web được sử dụng nhiều nhất của bạn. Giữ các trang web mở trong một thẻ (ngay cả khi bạn khởi động lại).
+
+## These messages are steps on how to use the feature and are shown together.
+
+cfr-doorhanger-pintab-step1 = <b>Nhấp chuột phải</b> trên thẻ bạn muốn ghim.
+cfr-doorhanger-pintab-step2 = Chọn <b>Ghim thẻ</b> từ menu.
+cfr-doorhanger-pintab-step3 = Nếu trang web có bản cập nhật, bạn sẽ thấy một chấm màu xanh trên thẻ được ghim.
+cfr-doorhanger-pintab-animation-pause = Tạm dừng
+cfr-doorhanger-pintab-animation-resume = Tiếp tục

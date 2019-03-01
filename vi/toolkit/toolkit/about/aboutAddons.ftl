@@ -139,11 +139,12 @@ legacy-warning-show-legacy = Hiển thị các phần mở rộng kế thừa
 legacy-extensions =
     .value = Phần mở rộng kế thừa
 legacy-extensions-description = Các tiện ích mở rộng này không đáp ứng tiêu chuẩn hiện tại của { -brand-short-name } do đó chúng đã bị ngừng hoạt động. <label data-l10n-name="legacy-learn-more">Tìm hiểu về các thay đổi tiện ích</label>
-private-browsing-description =
-    Tiện ích mở rộng không được phép chạy theo mặc định trong cửa sổ riêng tư. Điều này có nghĩa là họ sẽ không hoạt động
-    trong khi duyệt web riêng tư và họ sẽ không có quyền truy cập vào các hoạt động trực tuyến của bạn ở đó. Để cho phép
-    một tiện ích chạy trong cửa sổ riêng tư, chọn thẻ mở rộng bên dưới và thay đổi cài đặt của bạn.
-    <label data-l10n-name="private-browsing-learn-more">Tìm hiểu thêm.</label>
+private-browsing-description2 =
+    { -brand-short-name } đang thay đổi cách các tiện ích mở rộng hoạt động trong trình duyệt riêng tư. Bất kỳ tiện ích mở rộng mới nào bạn thêm vào
+    { -brand-short-name } sẽ không chạy theo mặc định trong cửa sổ riêng tư. Trừ khi bạn cho phép nó trong cài đặt,
+    tiện ích mở rộng sẽ không chạy trong khi duyệt web riêng tư và sẽ không có quyền truy cập vào các hoạt động trực tuyến của bạn.
+    Chúng tôi đã thực hiện thay đổi này để giữ trình duyệt của bạn riêng tư.
+    <label data-l10n-name="private-browsing-learn-more">Tìm hiểu cách quản lý cài đặt tiện ích mở rộng.</label>
 extensions-view-discover =
     .name = Tải thêm tiện ích
     .tooltiptext = { extensions-view-discover.name }
