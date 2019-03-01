@@ -252,6 +252,7 @@ effective-content-sandbox-level = Aktualna rownina wopśimjeśowych procesow w p
 sandbox-proc-type-content = wopśimjeśe
 sandbox-proc-type-file = datajowe wopśimjeśe
 sandbox-proc-type-media-plugin = medijowy tykac
+sandbox-proc-type-data-decoder = dekoděrowak datow
 launcher-process-status-0 = Zmóžnjony
 launcher-process-status-1 = Zmólki dla znjemóžnjony
 launcher-process-status-2 = Z nuzkanim znjemóžnjony

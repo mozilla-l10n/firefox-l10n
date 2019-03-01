@@ -3,12 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 cfr-doorhanger-extension-heading = Dopórucone rozšyrjenje
+cfr-doorhanger-pintab-heading = Wopytajśo to: Rejtark pśipěś
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Cogodla se to pokazujo
 cfr-doorhanger-extension-cancel-button = Nic něnto
     .accesskey = N
 cfr-doorhanger-extension-ok-button = Něnto pśidaś
     .accesskey = d
+cfr-doorhanger-pintab-ok-button = Toś ten rejtark pśipěś
+    .accesskey = T
 cfr-doorhanger-extension-manage-settings-button = Dopóruceńske nastajenja zastojaś
     .accesskey = D
 cfr-doorhanger-extension-never-show-recommendation = Toś to dopórucenje njepokazaś
@@ -45,3 +48,11 @@ cfr-doorhanger-extension-total-users =
         [few] { $total } wužywarje
        *[other] { $total } wužywarjow
     }
+
+## These messages are steps on how to use the feature and are shown together.
+
+cfr-doorhanger-pintab-step1 = <b>Klikniśo z pšaweju tastu</b> na rejtark, kótaryž cośo pśipěś.
+cfr-doorhanger-pintab-step2 = Wubjeŕśo <b>Rejtark pśipěś</b> z menija.
+cfr-doorhanger-pintab-step3 = Jolic sedło ma aktualizaciju, buźośo módry dypk na swójom pśipětem rejtarku wiźeś.
+cfr-doorhanger-pintab-animation-pause = Pawza
+cfr-doorhanger-pintab-animation-resume = Pókšacowaś
