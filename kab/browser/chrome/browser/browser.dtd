@@ -996,6 +996,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Inagan n tuqqna">
 <!ENTITY contentBlocking.cookiesView.label "Inagan n tuqna akked isefka n usmel">
 
+
+<!ENTITY contentBlocking.fingerprinters.label "Idsilen umḍinen">
+<!ENTITY contentBlocking.fingerprintersView.label "Idsilen umḍinen">
+
 <!ENTITY contentBlocking.openBreakageReportView2.label "Azen-d ugur">
 <!ENTITY contentBlocking.breakageReportView.label "Azen-d uguren">
 <!ENTITY contentBlocking.breakageReportView2.description "Asewḥel n ugbur izmer ad d-yawi uguren deg kra n ismal. Mi ara ad aɣ-tazneḍ uguren, ad d-fkeḍ tallelt akken ad yili &brandShortName; igerrez i yal yiwen. ( aya ad yazen URL d  talɣut ɣef iɣewwaṛen , iminig-inek ɣer Mozilla.)">
@@ -1128,6 +1132,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Sefrek izegrar inek s usebbed γef <image class='addon-addon-icon'/> deg umuγ <image class='addon-toolbar-icon'/>.">
 
-<!ENTITY addonPrivateBrowsing.header.label "Isiɣzaf deg isfuyla usligen">
 <!ENTITY addonPrivateBrowsing.okButton.label "Ih, awi-t-id">
 <!ENTITY addonPrivateBrowsing.manageButton.label "Sefrek isiɣzaf">
