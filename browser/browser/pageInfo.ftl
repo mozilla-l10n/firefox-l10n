@@ -145,7 +145,7 @@ media-select-folder = Chọn một Thư mục để Lưu Ảnh
 media-unknown-not-cached =
     .value = Không rõ (không được đệm)
 permissions-use-default =
-    .label = Dùng Mặc Định
+    .label = Sử dụng mặc định
 security-no-visits = Không
 # This string is used to display the number of meta tags
 # in the General Tab

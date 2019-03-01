@@ -218,6 +218,7 @@ effective-content-sandbox-level = Cấp độ hiệu quả nội dung hộp cát
 sandbox-proc-type-content = nội dung
 sandbox-proc-type-file = nội dung tập tin
 sandbox-proc-type-media-plugin = phần bổ trợ phương tiện
+sandbox-proc-type-data-decoder = bộ giải mã dữ liệu
 launcher-process-status-0 = Đã bật
 launcher-process-status-1 = Vô hiệu hóa do thất bại
 launcher-process-status-2 = Bắt buộc vô hiệu hóa

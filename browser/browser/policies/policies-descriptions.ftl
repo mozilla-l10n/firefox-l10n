@@ -55,7 +55,7 @@ policy-FlashPlugin = Cho phép hoặc từ chối việc sử dụng phần bổ
 policy-HardwareAcceleration = Nếu không đúng, hãy tắt chế độ tăng tốc phần cứng.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Đặt và tùy chọn khóa trang chủ.
-policy-InstallAddonsPermission = Cho phép một số website cài đặt tiện ích.
+policy-InstallAddonsPermission = Cho phép một số trang web cài đặt tiện ích.
 policy-NetworkPrediction = Kích hoạt hoặc vô hiệu hóa dự đoán mạng (tìm nạp trước DNS).
 policy-NoDefaultBookmarks = Vô hiệu hóa việc tạo dấu trang mặc định đi kèm với { -brand-short-name } và dấu trang thông minh (được truy cập nhiều nhất, thẻ gần đây). Lưu ý: chính sách này chỉ có hiệu lực nếu được sử dụng trước lần chạy đầu tiên của hồ sơ.
 policy-OfferToSaveLogins = Thực thi cài đặt để cho phép { -brand-short-name } cung cấp và ghi nhớ thông tin đăng nhập và mật khẩu đã lưu. Cả hai giá trị đúng và sai đều được chấp nhận.
