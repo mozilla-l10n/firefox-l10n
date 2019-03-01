@@ -143,7 +143,7 @@ legacy-warning-show-legacy = 顯示傳統擴充套件
 legacy-extensions =
     .value = 傳統擴充套件
 legacy-extensions-description = 這些擴充套件不符合 { -brand-short-name } 目前的標準，已被停用。 <label data-l10n-name="legacy-learn-more">了解附加元件有什麼變動</label>
-private-browsing-description = 預設情況下，擴充套件將無法在隱私瀏覽視窗中運作。這代表將無法於隱私瀏覽模式使用它們，它們也無法存取您的上網行為。若要允許擴充套件在隱私瀏覽視窗中運作，請選擇下方的擴充套件卡片，並調整設定。<label data-l10n-name="private-browsing-learn-more">了解更多。</label>
+private-browsing-description2 = { -brand-short-name } 將調整擴充套件於隱私瀏覽模式中運作的方式。預設情況下，任何新安裝至 { -brand-short-name } 的擴充套件都無法在隱私瀏覽視窗中執行。我們這樣做是為了確保您的隱私瀏覽過程更加私密；除非您在設定中允許，否則擴充套件將無法在隱私瀏覽模式中運作，也無法在該模式中存取您的線上行為。<label data-l10n-name="private-browsing-learn-more">了解如何管理擴充套件設定。</label>
 extensions-view-discover =
     .name = 安裝附加元件
     .tooltiptext = { extensions-view-discover.name }
