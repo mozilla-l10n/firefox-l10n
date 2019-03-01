@@ -11,6 +11,9 @@ cfr-doorhanger-extension-ok-button = ఇప్పుడే చేర్చు
 cfr-doorhanger-extension-never-show-recommendation = ఈ సిఫార్సును నాకు చూపించవద్దు
     .accesskey = S
 cfr-doorhanger-extension-learn-more-link = ఇంకా తెలుసుకోండి
+# This is a notification displayed in the address bar.
+# When clicked it opens a panel with a message for the user.
+cfr-doorhanger-extension-notification = సిఫార్సు
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -31,3 +34,6 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } వాడుకరి
        *[other] { $total } వాడుకరులు
     }
+
+## These messages are steps on how to use the feature and are shown together.
+
