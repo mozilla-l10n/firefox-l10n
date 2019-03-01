@@ -144,11 +144,12 @@ legacy-warning-show-legacy = Mostrar extensões legadas
 legacy-extensions =
     .value = Extensões legadas
 legacy-extensions-description = Estas extensões não cumprem os padrões atuais do { -brand-short-name }, então foram desativadas. <label data-l10n-name="legacy-learn-more">Saiba mais sobre mudanças em extensões</label>
-private-browsing-description =
-    Extensões não têm permissão por padrão para funcionar em janelas privativas. Significa que durante a
-    navegação privativa elas não funcionarão e não terão acesso à sua atividade online. Para permitir que
-    uma extensão funcione em janelas privativas, selecione abaixo a extensão e mude sua configuração.
-    <label data-l10n-name="private-browsing-learn-more">Saiba mais.</label>
+private-browsing-description2 =
+    O { -brand-short-name } está mudando o modo como extensões funcionam na navegação privativa. Qualquer nova extensão que você adicionar ao
+    { -brand-short-name } por padrão não funcionará em janelas privativas. A menos que você permita nas configurações, a
+    extensão não funcionará durante a navegação privativa e não terá acesso à sua atividade online.
+    Fizemos esta alteração para assegurar sua navegação privativa.
+    <label data-l10n-name="private-browsing-learn-more">Saiba como gerenciar configurações de extensões.</label>
 extensions-view-discover =
     .name = Adicionar
     .tooltiptext = { extensions-view-discover.name }

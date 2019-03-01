@@ -245,6 +245,7 @@ effective-content-sandbox-level = Nível efetivo de isolamento de processamento 
 sandbox-proc-type-content = conteúdo
 sandbox-proc-type-file = conteúdo do arquivo
 sandbox-proc-type-media-plugin = plugin de mídia
+sandbox-proc-type-data-decoder = decodificador de dados
 launcher-process-status-0 = Ativado
 launcher-process-status-1 = Desativado devido a falha
 launcher-process-status-2 = Desativado à força
