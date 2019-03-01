@@ -1142,4 +1142,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addonPrivateBrowsing.okButton.label "Ok, rozumím">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "O">
 <!ENTITY addonPrivateBrowsing.manageButton.label "Správa rozšíření">
-<!ENTITY addonPrivateBrowsing.manageButton.accesskey "e">
+<!ENTITY addonPrivateBrowsing.manageButton.accesskey "S">
