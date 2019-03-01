@@ -261,6 +261,8 @@ sandbox-proc-type-content = inhoud
 sandbox-proc-type-file = bestandsinhoud
 sandbox-proc-type-media-plugin = mediaplug-in
 
+sandbox-proc-type-data-decoder = gegevensdecoder
+
 launcher-process-status-0 = Ingeschakeld
 launcher-process-status-1 = Uitgeschakeld vanwege fout
 launcher-process-status-2 = Geforceerd uitgeschakeld
