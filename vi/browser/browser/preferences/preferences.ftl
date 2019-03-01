@@ -54,7 +54,7 @@ pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
 help-button-label = Hỗ trợ { -brand-short-name }
-addons-button-label = Tiện ích mở rộng & Chủ đề
+addons-button-label = Tiện ích mở rộng & chủ đề
 focus-search =
     .key = f
 close-button =
@@ -323,6 +323,9 @@ browsing-search-on-start-typing =
 browsing-cfr-recommendations =
     .label = Đề xuất tiện ích mở rộng khi duyệt
     .accesskey = R
+browsing-cfr-features =
+    .label = Đề xuất các tính năng khi bạn duyệt
+    .accesskey = f
 browsing-cfr-recommendations-learn-more = Xem thêm
 
 ## General Section - Proxy
