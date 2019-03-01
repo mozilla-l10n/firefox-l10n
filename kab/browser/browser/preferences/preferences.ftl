@@ -50,6 +50,9 @@ category-privacy =
 pane-sync-title = Amiḍan Firefox
 category-sync =
     .tooltiptext = { pane-sync-title }
+pane-sync-title2 = { -sync-brand-short-name }
+category-sync2 =
+    .tooltiptext = { pane-sync-title2 }
 help-button-label = { -brand-short-name } Tallalt
 addons-button-label = Isiɣzaf akked yisental
 focus-search =
@@ -523,6 +526,7 @@ sync-device-name-save =
     .accesskey = l
 sync-mobilepromo-single = Qqen ibenk nniḍen
 sync-mobilepromo-multi = Sefrek ibenkan
+sync-manage-devices = Sefrek ibenkan
 sync-tos-link = Tiwtilin n useqdec
 sync-fxa-privacy-notice = Tasertit n tbaḍnit
 

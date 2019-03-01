@@ -41,3 +41,8 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } aseqdac
        *[other] { $total } iseqdacen
     }
+
+## These messages are steps on how to use the feature and are shown together.
+
+cfr-doorhanger-pintab-animation-pause = Asteɛfu
+cfr-doorhanger-pintab-animation-resume = Kemmel
