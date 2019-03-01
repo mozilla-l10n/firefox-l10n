@@ -430,6 +430,10 @@ browsing-cfr-recommendations =
     .label = Extensies aanbevelen terwijl u surft
     .accesskey = a
 
+browsing-cfr-features =
+    .label = Functies aanbevelen terwijl u surft
+    .accesskey = F
+
 browsing-cfr-recommendations-learn-more = Meer info
 
 ## General Section - Proxy
