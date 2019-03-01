@@ -331,6 +331,9 @@ browsing-search-on-start-typing =
 browsing-cfr-recommendations =
     .label = 在您浏览时推荐扩展
     .accesskey = R
+browsing-cfr-features =
+    .label = 在您浏览时推荐新功能
+    .accesskey = f
 browsing-cfr-recommendations-learn-more = 详细了解
 
 ## General Section - Proxy
