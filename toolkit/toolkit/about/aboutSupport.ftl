@@ -250,6 +250,7 @@ effective-content-sandbox-level = Účinná úroveň sandboxu procesů pro obsah
 sandbox-proc-type-content = obsah
 sandbox-proc-type-file = obsah souboru
 sandbox-proc-type-media-plugin = zásuvný modul médií
+sandbox-proc-type-data-decoder = dekodér dat
 launcher-process-status-0 = Povoleno
 launcher-process-status-1 = Zakázáno kvůli chybě
 launcher-process-status-2 = Násilně zakázáno

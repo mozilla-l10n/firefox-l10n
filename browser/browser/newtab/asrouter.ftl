@@ -3,12 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 cfr-doorhanger-extension-heading = Doporučené rozšíření
+cfr-doorhanger-pintab-heading = Vyzkoušejte připnout panel
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Co to je
 cfr-doorhanger-extension-cancel-button = Teď ne
     .accesskey = n
 cfr-doorhanger-extension-ok-button = Přidat
     .accesskey = a
+cfr-doorhanger-pintab-ok-button = Připnout tento panel
+    .accesskey = P
 cfr-doorhanger-extension-manage-settings-button = Nastavení doporučování
     .accesskey = d
 cfr-doorhanger-extension-never-show-recommendation = Toto doporučení už nezobrazovat
@@ -43,3 +46,12 @@ cfr-doorhanger-extension-total-users =
         [few] { $total } uživatelé
        *[other] { $total } uživatelů
     }
+cfr-doorhanger-pintab-description = Nechte si nejpoužívanější stránky po ruce v panelu, který neztratíe ani při restartu počítače.
+
+## These messages are steps on how to use the feature and are shown together.
+
+cfr-doorhanger-pintab-step1 = Pokud chcete panel připnout, klikněte na něj <b>pravým tlačítkem</b>.
+cfr-doorhanger-pintab-step2 = V nabídce vyberte <b>Připnout panel</b>.
+cfr-doorhanger-pintab-step3 = Pokud je na stránce něco nového, uvidíte u ní na liště panelů modrý puntík.
+cfr-doorhanger-pintab-animation-pause = Pozastavit
+cfr-doorhanger-pintab-animation-resume = Pokračovat

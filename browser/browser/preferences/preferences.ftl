@@ -338,6 +338,9 @@ browsing-search-on-start-typing =
 browsing-cfr-recommendations =
     .label = Doporučovat vhodná rozšíření pro navštívené stránky
     .accesskey = r
+browsing-cfr-features =
+    .label = Doporučovat funkce Firefoxu během prohlížení
+    .accesskey = f
 browsing-cfr-recommendations-learn-more = Zjistit více
 
 ## General Section - Proxy
