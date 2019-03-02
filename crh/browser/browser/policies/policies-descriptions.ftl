@@ -17,7 +17,7 @@ policy-BlockAboutConfig = about:config sayfasına erişimi engelle.
 policy-BlockAboutProfiles = about:profiles sayfasına erişimi engelle.
 policy-BlockAboutSupport = about:support sayfasına erişimi engelle.
 policy-Bookmarks = Yer imleri araç çubuğunda, yer imleri menüsünde veya bunların içindeki belli bir klasörde yer imi oluştur.
-policy-Certificates = Dahili sertifikaların kullanılıp kullanılmayacağı. Bu ilke şimdilik yalnızca Windows’ta geçerlidir.
+policy-CaptivePortal = Yaqalayıcı portal destegini qabilleştir yaki naqabilleştir.
 policy-CertificatesDescription = Sertifika ekle veya yerleşik sertifikaları kullan.
 policy-Cookies = Web sitelerinin çerez ayarlamasına izin ver veya verme.
 policy-DisableAppUpdate = Tarayıcının güncellenmesini engelle.
@@ -37,7 +37,6 @@ policy-DisableProfileImport = Başka tarayıcılardaki verileri içe aktarmaya o
 policy-DisableProfileRefresh = about:support sayfasındaki “{ -brand-short-name } tarayıcısını yenile” düğmesini devre dışı bırak.
 policy-DisableSafeMode = Güvenli kipte yeniden başlatma özelliğini devre dışı bırak. Not: Güvenli kipe girmek için kullanılan Shift tuşu, Windows'ta ancak Grup İlkesi ile devre dışı bırakılabilir.
 policy-DisableSecurityBypass = Kullanıcının belli güvenlik uyarılarını görmezden gelmesini engelle.
-policy-DisableSetDesktopBackground = “Masaüstü arka planı olarak ayarla” menü komutunu devre dışı bırak.
 policy-DisableSetAsDesktopBackground = Resimler için “Masaüstü arka planı olarak ayarla” menü komutunu devre dışı bırak.
 policy-DisableSystemAddonUpdate = Tarayıcının sistem eklentilerini kurmasını ve güncellemesini engelle.
 policy-DisableTelemetry = Telemetri'yi kapat.
@@ -51,11 +50,13 @@ policy-EnableTrackingProtection = İçerik engellemeyi etkinleştir veya devre d
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
 policy-Extensions = Eklentileri yükle, kaldır veya kilitle. Yükleme seçeneğinde parametre olarak URL veya yol kullanılır. Kaldırma ve kilitleme seçeneklerinde ise eklenti kimliği kullanılır.
+policy-ExtensionUpdate = Avtomatik uzantı yañartmalarını qabilleştir yaki naqabilleştir.
 policy-FlashPlugin = Flash yan uygulama kullanımını engelle ya da kullanımına izin ver.
 policy-HardwareAcceleration = false ise donanım ivmelenmesini kapat.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Giriş sayfasını ayarla ve isteğe bağlı olarak kilitle.
 policy-InstallAddonsPermission = Belirli websitelerinin eklenti yüklemesine izin ver.
+policy-NetworkPrediction = Şebeke tahminini (DNS ögketirmesi) qabilleştir yaki naqabilleştir.
 policy-NoDefaultBookmarks = { -brand-short-name }  ile birlikte gelen varsayılan yer imlerinin ve akıllı yer imlerinin (en çok ziyaret edilenler, son kullanılan etiketler) oluşturulmasını devre dışı bırak. Not: Bu ilke yalnızca profil ilk kez çalıştırılmadan önce kullanılırsa etkili olur.
 policy-OfferToSaveLogins = { -brand-short-name } tarayıcısının kullanıcı adı ve parolaları kaydetmeyi önermesini ayarla. true veya false olarak ayarlanabilir.
 policy-OverrideFirstRunPage = İlk açılış sayfasını değiştir. İlk açılış sayfasını devre dışı bırakmak istiyorsanız bu ilkeyi boş olarak ayarlayın.
@@ -69,5 +70,8 @@ policy-SearchBar = Arama çubuğunun varsayılan konumunu ayarla. Kullanıcı da
 policy-SearchEngines = Arama motoru ayarlarını yapılandır. Bu ilke yalnızca Extended Support Release (ESR) sürümünde geçerlidir.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = PKCS #11 modüllerini yükle.
+policy-SSLVersionMax = Azamiy SSL sürümini tesbit et.
+policy-SSLVersionMin = Asğariy SSL sürümini tesbit et.
+policy-SupportMenu = Yardım menüsine özel bir destek menü-unsurını ekle.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Web sitelerinin ziyaret edilmesini engelle. Biçimle ilgili daha fazla bilgi için belgelendirmeye bakın.
