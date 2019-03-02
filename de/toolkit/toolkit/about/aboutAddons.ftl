@@ -212,3 +212,26 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Updates installieren
     .tooltiptext = In dieser Liste verfügbare Updates installieren
+
+## Extension shortcut management
+
+manage-extensions-shortcuts =
+    .label = Tastenkombination für Erweiterungen verwalten
+    .accesskey = T
+shortcuts-empty-message = Diese Erweiterung verfügt über keine Tastenkombinationen.
+shortcuts-no-addons = Es sind keine Erweiterungen installiert.
+shortcuts-input =
+  .placeholder = Tastenkombination drücken
+
+shortcuts-browserAction = Aktion für Erweiterung aktivieren
+shortcuts-pageAction = Aktion für Seite aktivieren
+shortcuts-sidebarAction = Sidebar umschalten
+
+shortcuts-modifier-mac = Mit Strg-, Alt- oder ⌘-Taste kombinieren
+shortcuts-modifier-other = Mit Strg- oder Alt-Taste kombinieren
+shortcuts-invalid = Ungültige Kombination
+shortcuts-letter = Zeichen eingeben
+shortcuts-system = { -brand-short-name }-Tastenkombinationen können nicht überschrieben werden.
+
+go-back-button =
+    .tooltiptext = Zurück
