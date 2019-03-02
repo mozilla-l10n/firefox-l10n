@@ -245,6 +245,7 @@ sandbox-proc-type-file = tiedostojen sisältö
 sandbox-proc-type-media-plugin = medialiitännäinen
 launcher-process-status-0 = Käytössä
 launcher-process-status-1 = Ei käytössä johtuen viasta
+launcher-process-status-2 = Poistettu käytöstä pakottaen
 launcher-process-status-unknown = Tuntematon tila
 # Variables
 # $remoteWindows (integer) - Number of remote windows
