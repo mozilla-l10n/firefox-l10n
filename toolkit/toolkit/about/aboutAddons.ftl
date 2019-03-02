@@ -139,11 +139,10 @@ legacy-warning-show-legacy = Shfaq zgjerime të dikurshme
 legacy-extensions =
     .value = Zgjerime të Dikurshme
 legacy-extensions-description = Këto zgjerime nuk i plotësojnë standardet e tanishme të { -brand-short-name }-it, ndaj janë çaktivizuar. <label data-l10n-name="legacy-learn-more">Mësoni mbi ndryshimet te shtesat</label>
-private-browsing-description =
-    Si parazgjedhje, zgjerimet nuk lejohen të xhirojnë në Dritare Private. Kjo do të thotë se s’do të funksionojnë
-    kur gjendeni nën shfletim privat, dhe s’do të mund të hyjnë në veprimtaritë tuaja internetore të atjeshme. Për ta lejuar
-    nëj zgjerim të xhirojë në Dritare Private, përzgjidhni kartën më poshtë dhe ndryshoni rregullimet tuaja.
-    <label data-l10n-name="private-browsing-learn-more">Mësoni Më Tepër.</label>
+private-browsing-description2 =
+    Në { -brand-short-name } po ndryshon mënyra se si funksionojnë zgjerimet nën shfletim privat. Çfarëdo zgjerimi i ri që shtoni te
+    { -brand-short-name } s’do të xhirohet në Dritare Private, si parazgjedhje. Veç në e lejofshi te rregullimet, zgjerimi s’do të funksionojë, teksa gjendeni nën shfletim privat, dhe s’do të mund të përdorë veprimtaritë tuaja internetore të atyshme. Këtë ndryshim e kemi bërë për ta mbajtur privat shfletimin tuaj privat.
+    <label data-l10n-name="private-browsing-learn-more">Mësoni si të administroni rregullime zgjerimi.</label>
 extensions-view-discover =
     .name = Merrni Shtesa
     .tooltiptext = { extensions-view-discover.name }
@@ -229,6 +228,7 @@ manage-extensions-shortcuts =
     .accesskey = A
 shortcuts-empty-message = S’ka shkurtore për këtë zgjerim.
 shortcuts-no-addons = S’keni të aktivizuar ndonjë zgjerim.
+shortcuts-no-commands = Zgjerimet vijuese nuk kanë shkurtore:
 shortcuts-input =
     .placeholder = Shtypni një shkurtore
 shortcuts-browserAction = Aktivizoni zgjerimin
@@ -247,3 +247,11 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = Shfaq Më Pak
 go-back-button =
     .tooltiptext = Shkoni mbrapsht
+
+## Add-on actions
+
+remove-addon-button = Hiqe
+disable-addon-button = Çaktivizoje
+enable-addon-button = Aktivizoje
+addons-enabled-heading = I aktivizuar
+addons-disabled-heading = I çaktivizuar

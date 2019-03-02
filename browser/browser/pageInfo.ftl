@@ -147,6 +147,47 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = Përdor Parazgjedhjet
 security-no-visits = Jo
+# This string is used to display the number of meta tags
+# in the General Tab
+# Variables:
+#   $tags (number) - The number of meta tags
+general-meta-tags =
+    .value =
+        { $tags ->
+            [one] Meta (1 etiketë)
+           *[other] Meta ({ $tags } etiketa)
+        }
+# This string is used to display the number of times
+# the user has visited the website prior
+# Variables:
+#   $visits (number) - The number of previous visits
+security-visits-number =
+    { $visits ->
+        [0] Jo
+        [one] Po, njëherë
+       *[other] Po, { $visits } herë
+    }
+# This string is used to display the size of a media file
+# Variables:
+#   $kb (number) - The size of an image in Kilobytes
+#   $bytes (number) - The size of an image in Bytes
+properties-general-size =
+    .value =
+        { $bytes ->
+            [one] { $kb } KB ({ $bytes } bajt)
+           *[other] { $kb } KB ({ $bytes } bajte)
+        }
+# This string is used to display the type and number
+# of frames of a animated image
+# Variables:
+#   $type (string) - The type of a animated image
+#   $frames (number) - The number of frames in an animated image
+media-animated-image-type =
+    .value =
+        { $frames ->
+            [one] { $type } Figurë (e animuar, { $frames } kuadro)
+           *[other] { $type } Figurë (e animuar, { $frames } kuadro)
+        }
 # This string is used to display the type of
 # an image
 # Variables:

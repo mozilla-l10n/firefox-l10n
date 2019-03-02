@@ -50,6 +50,9 @@ category-privacy =
 pane-sync-title = Llogari Firefox
 category-sync =
     .tooltiptext = { pane-sync-title }
+pane-sync-title2 = { -sync-brand-short-name }
+category-sync2 =
+    .tooltiptext = { pane-sync-title2 }
 help-button-label = Asistencë { -brand-short-name }-i
 addons-button-label = Zgjerime & Tema
 focus-search =
@@ -332,6 +335,9 @@ browsing-search-on-start-typing =
 browsing-cfr-recommendations =
     .label = Rekomandoni zgjerime teksa shfletoni
     .accesskey = R
+browsing-cfr-features =
+    .label = Rekomandim veçorish teksa shfletoni
+    .accesskey = R
 browsing-cfr-recommendations-learn-more = Mësoni Më Tepër
 
 ## General Section - Proxy
@@ -524,6 +530,9 @@ sync-device-name-save =
     .accesskey = u
 sync-mobilepromo-single = Lidhni një tjetër pajisje
 sync-mobilepromo-multi = Administroni pajisje
+sync-connect-another-device = Lidhni tjetër pajisje
+sync-manage-devices = Administroni pajisje
+sync-fxa-begin-pairing = Çiftoni një pajisje
 sync-tos-link = Kushte Shërbimi
 sync-fxa-privacy-notice = Shënim Mbi Privatësinë
 
