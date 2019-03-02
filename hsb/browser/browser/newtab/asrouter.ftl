@@ -48,6 +48,7 @@ cfr-doorhanger-extension-total-users =
         [few] { $total } wužiwarjo
        *[other] { $total } wužiwarjow
     }
+cfr-doorhanger-pintab-description = Mějće lochki přistup na swoje najwjace wužiwane sydła. Dźeržće sydła w rajtarku wočinjene (samo hdyž znowa startujeće)
 
 ## These messages are steps on how to use the feature and are shown together.
 
