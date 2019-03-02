@@ -175,6 +175,7 @@ main-thread-no-omtc = rrjedhë kryesore, jo OMTC
 yes = Po
 no = Jo
 unknown = E panjohur
+virtual-monitor-disp = Shfaqje Nën Monitor Virtual
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
@@ -182,6 +183,8 @@ unknown = E panjohur
 
 found = U gjet
 missing = Mungon
+gpu-process-pid = GPUProcessPid
+gpu-process = GPUProcess
 gpu-description = Përshkrim
 gpu-vendor-id = ID Treguesi
 gpu-device-id = ID Pajisjeje
@@ -216,6 +219,9 @@ reset-on-next-restart = Gjatë Rinisjes Tjetër Ktheje te Parazgjedhjet
 gpu-process-kill-button = Përfundoje Procesin GPU
 gpu-device-reset = Rikthim i Pajisjes Në Fillimet
 gpu-device-reset-button = Shkakto Rikthim të Pajisjes Në Fillimet
+uses-tiling = Përdor Tjegullzim
+content-uses-tiling = Përdor Tjegullzim (Lëndë)
+low-end-machine = U pikas makinë më pak e suksesshme
 audio-backend = Mekanizëm Audio
 max-audio-channels = Kanale Maksimum
 channel-layout = Skemë e Parapëlqyer Për Kanalin
@@ -232,6 +238,10 @@ content-sandbox-level = Shkallë Mbajtjeje Brenda Bankëprovës e Proceseve të 
 sandbox-proc-type-content = lëndë
 sandbox-proc-type-file = lëndë kartele
 sandbox-proc-type-media-plugin = shtojcë mediash
+sandbox-proc-type-data-decoder = shkodues të dhënash
+launcher-process-status-0 = E aktivizuar
+launcher-process-status-1 = Çaktivizuar për shkak dështimesh
+launcher-process-status-2 = Çaktivizuar forcërisht
 launcher-process-status-unknown = Gjendje e panjohur
 # Variables
 # $remoteWindows (integer) - Number of remote windows
