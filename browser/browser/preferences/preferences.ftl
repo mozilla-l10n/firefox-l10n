@@ -282,6 +282,7 @@ update-application-check-choose =
 update-application-manual =
     .label = Se aldri etter oppdateringer (anbefales ikke)
     .accesskey = s
+update-application-warning-cross-user-setting = Denne innstillingen gjelder for alle Windows-kontoer og { -brand-short-name }-profiler som bruker denne installasjonen av { -brand-short-name }.
 update-application-use-service =
     .label = Bruk en bakgrunnstjeneste for å installere oppdateringer
     .accesskey = B
@@ -334,6 +335,9 @@ browsing-search-on-start-typing =
 browsing-cfr-recommendations =
     .label = Anbefal utvidelser mens du surfer
     .accesskey = r
+browsing-cfr-features =
+    .label = Anbefal funksjoner mens du surfer
+    .accesskey = f
 browsing-cfr-recommendations-learn-more = Les mer
 
 ## General Section - Proxy
@@ -526,6 +530,7 @@ sync-device-name-save =
     .accesskey = L
 sync-mobilepromo-single = Koble til en annen enhet
 sync-mobilepromo-multi = Administrer enheter
+sync-connect-another-device = Koble til en annen enhet
 sync-manage-devices = Administrer enheter
 sync-fxa-begin-pairing = Tilknytt en enhet
 sync-tos-link = Tjenestevilkår
