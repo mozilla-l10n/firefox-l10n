@@ -44,7 +44,7 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } användare
        *[other] { $total } användare
     }
-cfr-doorhanger-pintab-description = Få enkel åtkomst till dina mest använda webbplatser. Håll webbplatser öppna i en flik (även när du startar om).
+cfr-doorhanger-pintab-description = Få enkel åtkomst till dina mest använda webbplatser. Behåll webbplatser öppna i en flik (även när du startar om).
 
 ## These messages are steps on how to use the feature and are shown together.
 
