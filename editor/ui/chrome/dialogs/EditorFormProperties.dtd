@@ -14,7 +14,7 @@
 <!ENTITY FormMethod.accesskey "M">
 <!ENTITY FormEncType.label "Kodim:">
 <!ENTITY FormEncType.accesskey "K">
-<!ENTITY FormTarget.label "Korniza e Synuar:">
+<!ENTITY FormTarget.label "Kuadri i Synuar:">
 <!ENTITY FormTarget.accesskey "S">
 
 <!ENTITY RemoveForm.label "Hiq Formular">
