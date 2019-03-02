@@ -9,6 +9,9 @@ active-policies-tab = Aktive
 errors-tab = Fejl
 documentation-tab = Dokumentation
 
+no-specified-policies-message = Servicen virksomheds-politikker er aktiv, men ingen politikker er aktiveret. 
+inactive-message = Servicen virksomheds-politikker er inaktiv.
+
 policy-name = Navn på politik
 policy-value = Værdi for politik
 policy-errors = Fejl med politik

@@ -54,6 +54,11 @@ category-privacy =
 pane-sync-title = Firefox-konto
 category-sync =
     .tooltiptext = { pane-sync-title }
+
+pane-sync-title2 = { -sync-brand-short-name }
+category-sync2 =
+    .tooltiptext = { pane-sync-title2 }
+
 help-button-label = Hjælp til { -brand-short-name }
 addons-button-label = Udvidelser og temaer
 focus-search =
@@ -350,6 +355,11 @@ browsing-search-on-start-typing =
 browsing-cfr-recommendations =
     .label = Anbefal udvidelser mens jeg browser
     .accesskey = u
+
+browsing-cfr-features =
+    .label = Anbefal funktioner mens jeg browser
+    .accesskey = f
+
 browsing-cfr-recommendations-learn-more = Læs mere
 
 ## General Section - Proxy
@@ -542,6 +552,13 @@ sync-device-name-save =
     .accesskey = G
 sync-mobilepromo-single = Opret forbindelse til en ny enhed
 sync-mobilepromo-multi = Håndter enheder
+
+sync-connect-another-device = Opret forbindelse til en ny enhed
+
+sync-manage-devices = Håndter enheder
+
+sync-fxa-begin-pairing = Tilføj enhed
+
 sync-tos-link = Tjenestevilkår
 sync-fxa-privacy-notice = Privatlivspolitik
 

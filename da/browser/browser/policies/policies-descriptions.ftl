@@ -89,6 +89,8 @@ policy-EnableTrackingProtection = Slå Blokering af indhold til eller fra. Bruge
 # https://github.com/mozilla/policy-templates/blob/master/README.md#extensions-machine-only
 policy-Extensions = Installer, afinstaller eller lås udvidelser. Valgmuligheden Installer tager URL’er eller stier som parametre. Valgmulighederne Afinstaller og Låst tager udvidelelses-ID som parameter.
 
+policy-ExtensionUpdate = Slå automatisk opdatering af udvidelser til eller fra.
+
 policy-FlashPlugin = Tillad eller afvis brug af Flash-plugin.
 
 policy-HardwareAcceleration = False slår hardware-acceleration fra.
@@ -128,6 +130,8 @@ policy-SecurityDevices = Installer PKCS #11 moduler.
 policy-SSLVersionMax = Angiv den laveste SSL-version.
 
 policy-SSLVersionMin = Angiv den højeste SSL-version.
+
+policy-SupportMenu = Tilføj et tilpasset menupunkt til menuen Hjælp.
 
 # “format” refers to the format used for the value of this policy. See also:
 # https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
