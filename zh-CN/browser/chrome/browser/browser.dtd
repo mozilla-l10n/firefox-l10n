@@ -1136,6 +1136,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addonPostInstall.incognito.label "允许此扩展在隐私窗口中运行。">
 <!ENTITY addonPostInstall.incognito.accesskey "A">
 
+<!ENTITY addonPrivateBrowsing.header2.label "隐私窗口中扩展的变化">
+<!ENTITY addonPrivateBrowsing.body2.label "除非您在设置中明确允许，任何新添加至 &brandShorterName; 的扩展均无法在隐私窗口中使用。">
+<!ENTITY addonPrivateBrowsing.learnMore.label "了解如何管理扩展设置。">
 <!ENTITY addonPrivateBrowsing.okButton.label "好的，明白了">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "O">
 <!ENTITY addonPrivateBrowsing.manageButton.label "管理扩展">
