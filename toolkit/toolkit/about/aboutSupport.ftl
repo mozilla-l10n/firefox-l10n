@@ -242,6 +242,7 @@ effective-content-sandbox-level = Tartalomfolyamat tényleges sandboxing szintje
 sandbox-proc-type-content = tartalom
 sandbox-proc-type-file = fájltartalom
 sandbox-proc-type-media-plugin = médiabővítmény
+sandbox-proc-type-data-decoder = adatdekódoló
 launcher-process-status-0 = Engedélyezve
 launcher-process-status-1 = Hiba miatt letiltva
 launcher-process-status-2 = Kényszerítve letiltva

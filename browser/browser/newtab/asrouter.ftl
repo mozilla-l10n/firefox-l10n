@@ -3,12 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 cfr-doorhanger-extension-heading = Ajánlott kiegészítő
+cfr-doorhanger-pintab-heading = Próbálja ki ezt: Lap rögzítése
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Miért látom ezt
 cfr-doorhanger-extension-cancel-button = Most nem
     .accesskey = N
 cfr-doorhanger-extension-ok-button = Hozzáadás most
     .accesskey = a
+cfr-doorhanger-pintab-ok-button = Lap rögzítése
+    .accesskey = r
 cfr-doorhanger-extension-manage-settings-button = Ajánlási beállítások kezelése
     .accesskey = A
 cfr-doorhanger-extension-never-show-recommendation = Ne mutassa ezt az ajánlást
@@ -41,3 +44,11 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } felhasználó
        *[other] { $total } felhasználó
     }
+
+## These messages are steps on how to use the feature and are shown together.
+
+cfr-doorhanger-pintab-step1 = <b>Kattintson a jobb egérgombbal</b> a rögzítendő lapra.
+cfr-doorhanger-pintab-step2 = Válassza a <b>Lap rögzítése</b> lehetőséget a menüből.
+cfr-doorhanger-pintab-step3 = Ha a webhely frissült, akkor egy kék pont jelenik meg a rögzített lapon.
+cfr-doorhanger-pintab-animation-pause = Szünet
+cfr-doorhanger-pintab-animation-resume = Folytatás
