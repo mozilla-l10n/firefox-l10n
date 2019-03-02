@@ -6,6 +6,7 @@ blocklist-window =
     .title = Blokkeringslister
     .style = width: 55em
 blocklist-desc = Du kan velge hvilke lister { -brand-short-name } vil bruke for å blokkere web-elementer som kan spore nettleseraktiviteten din.
+blocklist-description = Velg hvilken liste { -brand-short-name } bruker for å blokkere sporere på internett. Lister levert av <a data-l10n-name="disconnect-link" title="Disconnect">Disconnect</a>.
 blocklist-close-key =
     .key = w
 blocklist-treehead-list =
@@ -31,3 +32,4 @@ blocklist-item-moz-full-desc = Blokkerer kjente sporere. Noen nettsteder vil kan
 blocklist-item-moz-std-listName = Blokkeringsliste nivå 1 (anbefalt).
 blocklist-item-moz-std-description = Tillater noen sporings-element, så de fleste nettsteder fungerer som de skal.
 blocklist-item-moz-full-listName = Blokkeringsliste nivå 2
+blocklist-item-moz-full-description = Blokkerer alle kjente sporingselement. Dette kan i noen tilfeller hindre innlesing av nettsteder eller innhold.
