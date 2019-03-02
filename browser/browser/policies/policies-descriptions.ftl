@@ -72,5 +72,6 @@ policy-SearchEngines = Konfigurer søkemotorinnstillinger. Denne policyen er kun
 policy-SecurityDevices = Installer PKCS #11-moduler.
 policy-SSLVersionMax = Angi den maksimale SSL-versjonen.
 policy-SSLVersionMin = Angi den minimale SSL-versjonen.
+policy-SupportMenu = Legg til et tilpasset menyelement med hjelp i hjelpemenyen.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Blokker besøk på nettsteder. Les dokumentasjonen for detaljer om formatet.
