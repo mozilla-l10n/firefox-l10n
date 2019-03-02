@@ -1139,6 +1139,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Cookies">
 <!ENTITY contentBlocking.cookiesView.label "Cookies og websteds-data">
 
+<!ENTITY contentBlocking.cryptominers.label "Cryptominers">
+<!ENTITY contentBlocking.cryptominersView.label "Cryptominers">
+
+<!ENTITY contentBlocking.fingerprinters.label "Fingerprinters">
+<!ENTITY contentBlocking.fingerprintersView.label "Fingerprinters">
+
 <!ENTITY contentBlocking.openBreakageReportView2.label "Rapportér et problem">
 <!ENTITY contentBlocking.breakageReportView.label "Rapportér problemer">
 <!ENTITY contentBlocking.breakageReportView2.description "Blokering af indhold kan skabe problemer for nogle websteder. Ved at rapportere problemer hjælper du med at gøre &brandShortName; bedre for alle. (Dette sender en URL samt information om dine browser-indstillinger til Mozilla.)">
@@ -1330,10 +1336,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE: (addonPostInstallMessage.label):
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
-<!ENTITY addonPostInstallMessage.label "Håndter dine tilføejlser ved at klikke på <image class='addon-addon-icon'/> i <image class='addon-toolbar-icon'/>-menuen.">
+<!ENTITY addonPostInstallMessage.label "Håndter dine tilføjelser ved at klikke på <image class='addon-addon-icon'/> i <image class='addon-toolbar-icon'/>-menuen.">
+<!ENTITY addonPostInstall.incognito.label "Tillad denne udvidelse at virke i private vinduer.">
+<!ENTITY addonPostInstall.incognito.accesskey "T">
 
 <!ENTITY addonPrivateBrowsing.header.label "Udvidelser i private vinduer">
 <!ENTITY addonPrivateBrowsing.body.label "Udvidelser har som standard ikke tilladelse til at køre i private vinduer. Det vil sige, at de simpelthen ikke fungerer i private vinduer og derfor heller ikke har adgang til din online adfærd. Gå til indstillinger for at tillade udvidelser at køre i private vinduer.">
+<!ENTITY addonPrivateBrowsing.header2.label "Ændring til udvidelser i private vinduer">
+<!ENTITY addonPrivateBrowsing.body2.label "Nye udvidelser, du føjer til &brandShorterName; virker kun i private vinduer, hvis du tillader dette i indstillingerne.">
+<!ENTITY addonPrivateBrowsing.learnMore.label "Læs mere om at håndtere indstillinger for udvidelser.">
 <!ENTITY addonPrivateBrowsing.okButton.label "Ok, forstået">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "O">
 <!ENTITY addonPrivateBrowsing.manageButton.label "Håndter udvidelser">
