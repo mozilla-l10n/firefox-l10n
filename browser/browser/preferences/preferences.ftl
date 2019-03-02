@@ -326,7 +326,7 @@ browsing-cfr-recommendations =
 browsing-cfr-features =
     .label = Đề xuất các tính năng khi bạn duyệt
     .accesskey = f
-browsing-cfr-recommendations-learn-more = Xem thêm
+browsing-cfr-recommendations-learn-more = Tìm hiểu thêm
 
 ## General Section - Proxy
 
