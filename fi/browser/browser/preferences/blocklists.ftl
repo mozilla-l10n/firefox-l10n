@@ -6,6 +6,7 @@ blocklist-window =
     .title = Estolistat
     .style = width: 50em
 blocklist-desc = { -brand-short-name } estää valittujen listojen määrittämät verkkoelementit, jotka voivat seurata selaamistasi.
+blocklist-description = Valitse lista, jota { -brand-short-name } käyttää verkkoseurainten estämiseen. Listat tarjoaa <a data-l10n-name="disconnect-link" title="Disconnect">Disconnect</a>.
 blocklist-close-key =
     .key = w
 blocklist-treehead-list =
@@ -28,3 +29,7 @@ blocklist-item-moz-std-name = Disconnect.me perussuojaus (Suositeltu).
 blocklist-item-moz-std-desc = Sallii rajatun seurannan, jotta sivustot voivat toimia asianmukaisesti.
 blocklist-item-moz-full-name = Disconnect.me tiukka suojaus.
 blocklist-item-moz-full-desc = Estää tunnetut seuraimet. Joidenkin sivustojen toiminta voi häiriintyä.
+blocklist-item-moz-std-listName = Tason 1 estolista (suositeltu).
+blocklist-item-moz-std-description = Sallii jotkin seuraimet, jotta useimmat verkkosivustot eivät rikkoutuisi.
+blocklist-item-moz-full-listName = Tason 2 estolista.
+blocklist-item-moz-full-description = Estää kaikki havaitut seuraimet. Jotkin verkkosivustot tai sivujen sisältö ei välttämättä lataudu kunnolla.
