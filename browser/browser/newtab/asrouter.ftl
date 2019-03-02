@@ -9,6 +9,8 @@ cfr-doorhanger-extension-cancel-button = Ne sada
     .accesskey = N
 cfr-doorhanger-extension-ok-button = Dodaj
     .accesskey = D
+cfr-doorhanger-pintab-ok-button = Zakači ovu karticu
+    .accesskey = Z
 cfr-doorhanger-extension-manage-settings-button = Upravljanje postavkama preporuka
     .accesskey = U
 cfr-doorhanger-extension-never-show-recommendation = Ne pokazuj mi ovu preporuku
@@ -43,3 +45,8 @@ cfr-doorhanger-extension-total-users =
         [few] { $total } korisnika
        *[other] { $total } korisnika
     }
+
+## These messages are steps on how to use the feature and are shown together.
+
+cfr-doorhanger-pintab-animation-pause = Pauziraj
+cfr-doorhanger-pintab-animation-resume = Nastavi
