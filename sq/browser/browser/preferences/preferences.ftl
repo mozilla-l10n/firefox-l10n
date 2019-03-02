@@ -682,6 +682,7 @@ content-blocking-all-windows-trackers = Gjurmues të njohur në krejt dritaret
 content-blocking-all-third-party-cookies = Krejt cookie-t prej palësh të treta
 content-blocking-warning-title = Kini mendjen!
 content-blocking-warning-desc = Bllokimi i cookie-eve dhe gjurmuesve mund të bëjë që disa sajte të mos funksionojnë. Është e lehtë të çaktivizoni bllokime për sajte të cilëve u zini besë.
+content-blocking-warning-description = Bllokimi i lëndës mund të dëmtojë funksionimin e disa sajteve. Është e lehtë të çaktivizoni bllokimin për sajte të cilëve u zini besë.
 content-blocking-learn-how = Mësoni se si
 content-blocking-trackers-label =
     .label = Gjurmues
@@ -696,6 +697,15 @@ content-blocking-tracking-protection-change-block-list = Ndryshoni listë blloki
 content-blocking-cookies-label =
     .label = Cookies
     .accesskey = C
+# Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
+content-blocking-cryptominers-label =
+    .label = Nxjerrës kriptomonedhash
+    .accesskey = N
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+content-blocking-fingerprinters-label =
+    .label = Zbulues shenjash gishtash
+    .accesskey = Z
 
 ## Privacy Section - Tracking
 
