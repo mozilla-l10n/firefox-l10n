@@ -538,6 +538,7 @@ sync-mobilepromo-single = Z druhim gratom zwjazać
 sync-mobilepromo-multi = Graty rjadować
 sync-connect-another-device = Z druhim gratom zwjazać
 sync-manage-devices = Graty rjadować
+sync-fxa-begin-pairing = Grat zwjazać
 sync-tos-link = Słužbne wuměnjenja
 sync-fxa-privacy-notice = Zdźělenka priwatnosće
 
