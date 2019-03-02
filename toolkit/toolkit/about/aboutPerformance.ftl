@@ -22,7 +22,7 @@ preloaded-tab = E parangarkuar: { $title }
 ## Values for the Type column
 
 type-tab = Skedë
-type-subframe = Nënkornizë
+type-subframe = Nënkuadër
 type-tracker = Gjurmues
 type-addon = Shtesë
 type-browser = Shfletues
