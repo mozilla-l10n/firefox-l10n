@@ -335,6 +335,9 @@ browsing-search-on-start-typing =
 browsing-cfr-recommendations =
     .label = Kiegészítők ajánlása böngészés közben
     .accesskey = K
+browsing-cfr-features =
+    .label = Funkciójavaslatok böngészés közben
+    .accesskey = F
 browsing-cfr-recommendations-learn-more = További tudnivalók
 
 ## General Section - Proxy
