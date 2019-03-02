@@ -37,6 +37,7 @@
                        text for the search box.   -->
 <!ENTITY aboutPrivateBrowsing.search.placeholder         "Verkkohaku">
 <!ENTITY aboutPrivateBrowsing.info.title                 "Olet yksityisessä ikkunassa">
+<!ENTITY aboutPrivateBrowsing.info.description           "&brandShortName; poistaa haku- ja selaushistorian, kun ohjelma suljetaan tai kaikki yksityisen selauksen välilehdet ja ikkunat suljetaan. Tämä ei tee sinusta anonyymiä sivustoille tai internetpalveluntarjoajallesi, mutta helpottaa pitämään verkossa tekemäsi asiat yksityisinä muilta, jotka käyttävät tätä tietokonetta.">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article
                        about private browsing myths.   -->
 <!ENTITY aboutPrivateBrowsing.info.myths                 "Yleiset myytit yksityisestä selaamisesta">
