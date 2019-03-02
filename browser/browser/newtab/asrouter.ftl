@@ -3,12 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 cfr-doorhanger-extension-heading = Tilrådde tillegg
+cfr-doorhanger-pintab-heading = Prøv dette: fest fana
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Kvifor ser eg dette?
 cfr-doorhanger-extension-cancel-button = Ikkje no
     .accesskey = n
 cfr-doorhanger-extension-ok-button = Legg til no
     .accesskey = e
+cfr-doorhanger-pintab-ok-button = Fest denne fana
+    .accesskey = F
 cfr-doorhanger-extension-manage-settings-button = Handter tilrådingsinnstillingar
     .accesskey = H
 cfr-doorhanger-extension-never-show-recommendation = Ikkje vis meg denne tilrådinga
@@ -41,3 +44,8 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } brukar
        *[other] { $total } brukarar
     }
+
+## These messages are steps on how to use the feature and are shown together.
+
+cfr-doorhanger-pintab-animation-pause = Pause
+cfr-doorhanger-pintab-animation-resume = Fortset
