@@ -166,7 +166,7 @@ general-meta-tags =
 security-visits-number =
     { $visits ->
          [0] Nej
-         [one] Ja, en gang
+         [one] Ja, én gang
         *[other] Ja, { $visits } gange
     }
 
