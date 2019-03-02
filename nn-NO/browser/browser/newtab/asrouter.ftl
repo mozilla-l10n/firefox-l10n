@@ -47,5 +47,6 @@ cfr-doorhanger-extension-total-users =
 
 ## These messages are steps on how to use the feature and are shown together.
 
+cfr-doorhanger-pintab-step2 = Vel <b>Fest fane</ b> frå menyen.
 cfr-doorhanger-pintab-animation-pause = Pause
 cfr-doorhanger-pintab-animation-resume = Fortset
