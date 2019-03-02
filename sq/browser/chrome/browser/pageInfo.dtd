@@ -44,9 +44,6 @@
 <!ENTITY  mediaSaveAs2.accesskey "e">
 <!ENTITY  mediaPreview          "Paraparje e Medias:">
 
-<!ENTITY  feedTab               "Prurje">
-<!ENTITY  feedTab.accesskey     "P">
-
 <!ENTITY  permTab               "Leje">
 <!ENTITY  permTab.accesskey     "L">
 <!ENTITY  permissionsFor        "Leje për:">
@@ -66,10 +63,7 @@
 
 <!ENTITY  securityView.privacy.header                   "Privatësi &amp; Historik">
 <!ENTITY  securityView.privacy.history                  "E kam vizituar këtë sajt më herët se sot?">
-<!ENTITY  securityView.privacy.cookies                  "A po depoziton ky sajt të dhëna (cookies) në kompjuterin tim?">
-<!ENTITY  securityView.privacy.viewCookies              "Shihni Cookie-t">
-<!ENTITY  securityView.privacy.viewCookies.accessKey    "C">
-<!ENTITY  securityView.privacy.siteData                 "A depozitonnn ky sajt të dhëna në kompjuterin tim?">
+<!ENTITY  securityView.privacy.siteData                 "A depoziton ky sajt të dhëna në kompjuterin tim?">
 <!ENTITY  securityView.privacy.clearSiteData            "Pastro Cookie-t dhe të Dhëna Sajti">
 <!ENTITY  securityView.privacy.clearSiteData.accessKey  "P">
 <!ENTITY  securityView.privacy.passwords                "A kam ruajtur ndonjë fjalëkalim për këtë sajt?">
