@@ -996,6 +996,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Cookies">
 <!ENTITY contentBlocking.cookiesView.label "Cookies dhe të Dhëna Sajti">
 
+<!ENTITY contentBlocking.cryptominers.label "Nxjerrës kriptomonedhash">
+<!ENTITY contentBlocking.cryptominersView.label "Nxjerrës kriptomonedhash">
+
+<!ENTITY contentBlocking.fingerprinters.label "Zbulues shenja gishtash">
+<!ENTITY contentBlocking.fingerprintersView.label "Zbulues shenja gishtash">
+
 <!ENTITY contentBlocking.openBreakageReportView2.label "Raportoni një problem">
 <!ENTITY contentBlocking.breakageReportView.label "Raportoni Probleme">
 <!ENTITY contentBlocking.breakageReportView2.description "Bllokimi i lëndë mund të shkaktojë probleme me disa sajte. Kur raportoni probleme, ndihmoni për ta bërë &brandShortName;-in më të mirë për këdo. (Kështu do të dërgohet te Mozilla edhe një URL, përveç të dhënave mbi rregullimet tuaja të shfletuesit.)">
@@ -1127,9 +1133,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Administroni shtesat tuaj duke klikuar <image class='addon-addon-icon'/> te menuja <image class='addon-toolbar-icon'/>.">
+<!ENTITY addonPostInstall.incognito.label "Lejoje këtë zgjerim të xhirojë në Dritare Private.">
+<!ENTITY addonPostInstall.incognito.accesskey "L">
 
-<!ENTITY addonPrivateBrowsing.header.label "Zgjerime në Dritare Private">
-<!ENTITY addonPrivateBrowsing.body.label "Si parazgjedhje, zgjerimet nuk lejohet të xhirojnë në Dritare Private. Ata s’do të funksionojnë nën shfletim privat, dhe nuk do të mund të hyjnë dot në veprimtaritë tuaja internetore. Mund ta lejoni cilindo zgjerim të xhirojë në Dritare Private, duke ujdisur rregullimet tuaja.">
+<!ENTITY addonPrivateBrowsing.header2.label "Ndryshim te zgjerime në Dritare Private">
+<!ENTITY addonPrivateBrowsing.body2.label "Çfarëdo zgjerimesh të reja që shtoni te &brandShorterName; s’do të funksionojë në Dritare Private, veç në e lejofshi ju këtë te rregullimet.">
+<!ENTITY addonPrivateBrowsing.learnMore.label "Mësoni si të administroni rregullime zgjerimesh.">
 <!ENTITY addonPrivateBrowsing.okButton.label "OK, e mora vesh">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "O">
 <!ENTITY addonPrivateBrowsing.manageButton.label "Administroni Zgjerime">
