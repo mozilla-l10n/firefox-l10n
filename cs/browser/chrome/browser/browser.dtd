@@ -1136,7 +1136,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addonPostInstall.incognito.label "Povolit toto rozšíření v anonymních oknech.">
 <!ENTITY addonPostInstall.incognito.accesskey "P">
 
-<!ENTITY addonPrivateBrowsing.header2.label "Změnit pro rozšíření povolená v anonymních oknech">
+<!ENTITY addonPrivateBrowsing.header2.label "Změna fungování rozšíření v anonymních oknech">
 <!ENTITY addonPrivateBrowsing.body2.label "Nově nainstalovaná rozšíření budou v anonymních oknech aplikace &brandShorterName; vypnutá, dokud je pro anonymní režim explicitně nezapnete v nastavení.">
 <!ENTITY addonPrivateBrowsing.learnMore.label "Jak na nastavení rozšíření.">
 <!ENTITY addonPrivateBrowsing.okButton.label "Ok, rozumím">
