@@ -15,13 +15,13 @@
 -->
 
 <!-- LOCALIZATION NOTE (NameField1.id) : DONT_TRANSLATE -->
-<!ENTITY NameField1.id                  "Emër">
+<!ENTITY NameField1.id                  "">
 <!-- LOCALIZATION NOTE (NameField2.id) : DONT_TRANSLATE -->
-<!ENTITY NameField2.id                  "Mbiemër">
+<!ENTITY NameField2.id                  "">
 <!-- LOCALIZATION NOTE (PhoneticField1.id) : DONT_TRANSLATE -->
-<!ENTITY PhoneticField1.id              "EmërFonetik">
+<!ENTITY PhoneticField1.id              "">
 <!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
-<!ENTITY PhoneticField2.id              "MbiemërFonetik">
+<!ENTITY PhoneticField2.id              "">
 
 <!ENTITY NameField1.label               "Emër:">
 <!ENTITY NameField1.accesskey           "E">
@@ -77,8 +77,11 @@
 <!ENTITY Birthday.label                 "Datëlindje:">
 <!ENTITY Birthday.accesskey             "D">
 <!ENTITY In.label                       "">
+<!ENTITY Month.placeholder              "Muaj">
+<!ENTITY Day.placeholder                "Ditë">
 <!ENTITY Year.placeholder               "Vit">
 <!ENTITY Or.value                       "ose">
+<!ENTITY Age.label                      "Moshë:">
 <!ENTITY Age.placeholder                "Moshë">
 <!ENTITY YearsOld.label                 "">
 
@@ -141,7 +144,6 @@
 
 <!ENTITY Photo.tab                      "Foto">
 <!ENTITY Photo.accesskey                "f">
-<!ENTITY PhotoDesc.label                "Zgjidhni një nga vijueset:">
 <!ENTITY GenericPhoto.label             "Foto e Thjeshtë">
 <!ENTITY GenericPhoto.accesskey         "o">
 <!ENTITY DefaultPhoto.label             "Parazgjedhje">
