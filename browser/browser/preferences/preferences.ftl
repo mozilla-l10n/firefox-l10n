@@ -538,6 +538,7 @@ sync-mobilepromo-single = Z drugim rědom zwězaś
 sync-mobilepromo-multi = Rědy zastojaś
 sync-connect-another-device = Z drugim rědom zwězaś
 sync-manage-devices = Rědy zastojaś
+sync-fxa-begin-pairing = Rěd zwězaś
 sync-tos-link = Słužbne wuměnjenja
 sync-fxa-privacy-notice = Powěźeńka priwatnosći
 
