@@ -228,4 +228,4 @@ media-block-image =
 page-info-page =
     .title = Të dhëna Faqeje - { $website }
 page-info-frame =
-    .title = Të dhëna Kornize - { $website }
+    .title = Të dhëna Kuadri - { $website }

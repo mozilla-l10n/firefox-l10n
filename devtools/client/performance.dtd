@@ -15,11 +15,6 @@
   -  is displayed as the tooltip for the buffer capacity during a recording. -->
 <!ENTITY performanceUI.bufferStatusTooltip "Profilizuesi i depoziton kampionet në një shtytëz qarkore, dhe kur shtytëza arrin kufirin për një regjistrim, kampionet e rinj zënë e mbishkruajnë kampionet që gjenden në fillim të regjistrimit.">
 
-<!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.nonE10SBuild): This string
-  -  is displayed as a message for why the real time overview graph is disabled
-  -  when running on a non-multiprocess build. -->
-<!ENTITY performanceUI.disabledRealTime.nonE10SBuild "Të dhënat e regjistrimeve realtime janë të çaktivizuara në një Firefox jo-shumëprocesësh.">
-
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.disabledE10S): This string
   -  is displayed as a message for why the real time overview graph is disabled
   -  when running on a build that can run multiprocess Firefox, but just is not enabled. -->
@@ -29,7 +24,7 @@
   -  is displayed when the profiler's circular buffer has started to overlap. -->
 <!ENTITY performanceUI.bufferStatusFull "Shtytëza është plot. Tani po fillohet me mbishkrimin e kampioneve të vjetër.">
 
-<!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
+<!-- LOCALIZATION NOTE (performanceUI.unavailableNoticePB): This is the label shown
   -  in the details view while the profiler is unavailable, for example, while
   -  in Private Browsing mode. -->
 <!ENTITY performanceUI.unavailableNoticePB "Regjistrimi i një profili është hëpërhë jo gati. Ju lutemi, mbyllini krejt dritaret e shfletimit privat dhe riprovoni.">
@@ -118,7 +113,7 @@
 <!-- LOCALIZATION NOTE (performanceUI.enableFramerate): This string
   -  is displayed next to a checkbox determining whether or not framerate
   -  is recorded. -->
-<!ENTITY performanceUI.enableFramerate             "Regjistroni Framerate">
+<!ENTITY performanceUI.enableFramerate             "Regjistro Framerate">
 <!ENTITY performanceUI.enableFramerate.tooltiptext "Regjistroni framerate, teksa kryhet profilizim.">
 
 <!-- LOCALIZATION NOTE (performanceUI.console.recordingNoticeStart/recordingNoticeEnd):

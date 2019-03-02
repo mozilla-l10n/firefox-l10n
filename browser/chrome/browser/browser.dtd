@@ -590,26 +590,26 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "V">
 <!ENTITY openLinkCmdInCurrent.label     "Hape Lidhjen">
 <!ENTITY openLinkCmdInCurrent.accesskey "H">
-<!ENTITY openFrameCmdInTab.label      "Hape Kornizën në Skedë të Re">
+<!ENTITY openFrameCmdInTab.label      "Hape Kuadrin në Skedë të Re">
 <!ENTITY openFrameCmdInTab.accesskey  "S">
-<!ENTITY openFrameCmd.label           "Hape Kornizën në Dritare të Re">
+<!ENTITY openFrameCmd.label           "Hape Kuadrin në Dritare të Re">
 <!ENTITY openFrameCmd.accesskey       "D">
 <!ENTITY openLinkCmdInContainerTab.label "Hape Lidhjen në Skedë të Re Kontejneri">
 <!ENTITY openLinkCmdInContainerTab.accesskey "K">
-<!ENTITY showOnlyThisFrameCmd.label     "Trego Vetëm Këtë Kornizë">
+<!ENTITY showOnlyThisFrameCmd.label     "Shfaq Vetëm Këtë Kuadër">
 <!ENTITY showOnlyThisFrameCmd.accesskey "T">
 <!ENTITY reloadCmd.commandkey         "r">
-<!ENTITY reloadFrameCmd.label         "Ringarkoje Kornizën">
+<!ENTITY reloadFrameCmd.label         "Ringarkoje Kuadrin">
 <!ENTITY reloadFrameCmd.accesskey     "R">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Shihni Burim Përzgjedhjeje">
 <!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label      "Shihni Burim Faqeje">
 <!ENTITY viewPageSourceCmd.accesskey  "u">
-<!ENTITY viewFrameSourceCmd.label     "Shihni Burim Kornize">
+<!ENTITY viewFrameSourceCmd.label     "Shihni Burim Kuadri">
 <!ENTITY viewFrameSourceCmd.accesskey "B">
 <!ENTITY viewPageInfoCmd.label        "Shihni të Dhëna Faqeje">
 <!ENTITY viewPageInfoCmd.accesskey    "D">
-<!ENTITY viewFrameInfoCmd.label       "Shihni të Dhëna Kornize">
+<!ENTITY viewFrameInfoCmd.label       "Shihni të Dhëna Kuadri">
 <!ENTITY viewFrameInfoCmd.accesskey   "I">
 <!ENTITY reloadImageCmd.label         "Ringarkoje Figurën">
 <!ENTITY reloadImageCmd.accesskey     "R">
@@ -629,7 +629,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkPageCmd2.accesskey   "F">
 <!ENTITY bookmarkThisLinkCmd.label      "Faqeruaje Këtë Lidhje">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
-<!ENTITY bookmarkThisFrameCmd.label      "Faqeruaje Këtë Kornizë">
+<!ENTITY bookmarkThisFrameCmd.label      "Faqeruaje Këtë Kuadër">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "K">
 <!ENTITY pageAction.copyLink.label    "Kopjoji Lidhjen">
 
@@ -649,9 +649,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "S">
 <!ENTITY savePageCmd.commandkey       "s">
-<!ENTITY saveFrameCmd.label           "Ruajeni Kornizën Si…">
+<!ENTITY saveFrameCmd.label           "Ruajeni Kuadrin Si…">
 <!ENTITY saveFrameCmd.accesskey       "i">
-<!ENTITY printFrameCmd.label          "Shtypni Kornizën…">
+<!ENTITY printFrameCmd.label          "Shtypni Kuadrin…">
 <!ENTITY printFrameCmd.accesskey      "K">
 <!ENTITY saveLinkCmd.label            "Ruajeni Lidhjen Si…">
 <!ENTITY saveLinkCmd.accesskey        "R">
@@ -689,7 +689,7 @@ context menu items are mutually exclusive. -->
 Location" and "Copy Email Address" should be the same if possible; the two
 context menu items are mutually exclusive. -->
 <!ENTITY copyEmailCmd.accesskey       "E">
-<!ENTITY thisFrameMenu.label              "Këtë Kornizë">
+<!ENTITY thisFrameMenu.label              "Këtë Kuadër">
 <!ENTITY thisFrameMenu.accesskey          "z">
 
 <!-- Media (video/audio) controls -->
