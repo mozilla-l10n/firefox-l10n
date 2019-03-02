@@ -258,6 +258,6 @@ touch-warning = 因为不支持的首选项: { $preferenceKey }，已禁用异�
 
 ## Strings representing the status of the Enterprise Policies engine.
 
-policies-inactive = 非活跃
-policies-active = 活跃
+policies-inactive = 未激活
+policies-active = 已激活
 policies-error = 错误
