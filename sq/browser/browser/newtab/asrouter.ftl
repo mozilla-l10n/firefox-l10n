@@ -3,12 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 cfr-doorhanger-extension-heading = Zgjerim i Këshilluar
+cfr-doorhanger-pintab-heading = Provoni Këtë: Fiksoni Skedë
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Pse më del kjo?
 cfr-doorhanger-extension-cancel-button = Jo Tani
     .accesskey = J
 cfr-doorhanger-extension-ok-button = Shtoje Tani
     .accesskey = S
+cfr-doorhanger-pintab-ok-button = Fiksojeni Këtë Skedë
+    .accesskey = F
 cfr-doorhanger-extension-manage-settings-button = Administroni Rregullimet Mbi Rekomandimet
     .accesskey = A
 cfr-doorhanger-extension-never-show-recommendation = Mos Ma Shfaq Këtë Rekomandim
@@ -41,3 +44,12 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } përdorues
        *[other] { $total } përdorues
     }
+cfr-doorhanger-pintab-description = Hyni kollaj te sajtet tuaj më të përdorur. Mbajini sajtet hapur në një skedë (madje edhe kur bëni rinisje).
+
+## These messages are steps on how to use the feature and are shown together.
+
+cfr-doorhanger-pintab-step1 = <b>Djathtasklikoni</b> te skeda që doni të fiksohet.
+cfr-doorhanger-pintab-step2 = Përzgjidhni <b>Fiksoje Skedën</b> që nga menuja.
+cfr-doorhanger-pintab-step3 = Nëse sajti ka një përditësim, do të shihni një pikë blu te skeda juaj e fiksuar.
+cfr-doorhanger-pintab-animation-pause = Pushim
+cfr-doorhanger-pintab-animation-resume = Vazhdoje

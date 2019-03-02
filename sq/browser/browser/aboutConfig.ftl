@@ -8,14 +8,21 @@ about-config-warning-text = Ndryshimi i këtyre rregullimeve të thelluara mund 
 about-config-warning-checkbox = Bezdismëni prapë, ju lutem!
 about-config-warning-button = E pranoj rrezikun
 about-config-title = about:config
-about-config-search =
-    .placeholder = Kërkoni, ose shtypni tastin ESC që të shfaqen të tëra
+about-config-search-input =
+    .placeholder = Kërkoni
+about-config-show-all = Shfaqi Krejt
 about-config-pref-add = Shtoje
 about-config-pref-toggle = Shfaqe/Fshihe
 about-config-pref-edit = Përpunojeni
 about-config-pref-save = Ruaje
 about-config-pref-reset = Riktheje te parazgjedhjet
 about-config-pref-delete = Fshije
+
+## Labels for the type selection radio buttons shown when adding preferences.
+
+about-config-pref-add-type-boolean = Vlerë buleane
+about-config-pref-add-type-number = Numër
+about-config-pref-add-type-string = Varg
 
 ## Preferences with a non-default value are differentiated visually, and at the
 ## same time the state is made accessible to screen readers using an aria-label
