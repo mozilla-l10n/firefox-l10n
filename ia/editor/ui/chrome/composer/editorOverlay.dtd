@@ -7,6 +7,8 @@
 <!-- File menu items -->
 
 <!-- Edit menu items -->
+<!ENTITY pasteAs.label "Collar como">
+<!ENTITY pasteAs.accesskey "o">
 <!ENTITY findBarCmd.label "Trovar…">
 
 <!-- Insert menu items -->
@@ -16,8 +18,12 @@
 <!ENTITY insertLinkCmd2.accesskey "L">
 <!ENTITY insertImageCmd.label "Imagine…">
 <!ENTITY insertImageCmd.accesskey "I">
+<!ENTITY insertTableCmd.label "Tabella…">
+<!ENTITY insertTableCmd.accesskey "T">
 <!ENTITY insertHTMLCmd.label "HTML…">
 <!ENTITY insertHTMLCmd.accesskey "H">
+<!ENTITY insertMathCmd.label "Math…">
+<!ENTITY insertMathCmd.accesskey "M">
 
 <!-- Used just in context popup. -->
 
@@ -113,6 +119,8 @@
 <!ENTITY tableTable.label "Tabella">
 <!ENTITY tableTable.accesskey "T">
 <!ENTITY tableColumn.label "Columna">
+<!ENTITY tableColumns.label "Columna(s)">
+<!ENTITY tableColumn.accesskey "o">
 <!ENTITY tableCell.label "Cella">
 <!ENTITY tableCells.label "Cella(s)">
 <!ENTITY tableCell.accesskey "C">

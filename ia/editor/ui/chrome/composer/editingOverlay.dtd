@@ -6,6 +6,19 @@
 <!ENTITY openFileCmd.label "Apertura de un file…">
 <!ENTITY openFileCmd.accesskey "A">
 <!ENTITY openFileCmd.key "A">
+<!ENTITY fileRecentMenu.label "Paginas recente">
+<!ENTITY fileRecentMenu.accesskey "R">
+<!ENTITY saveCmd.label "Salvar">
+<!ENTITY saveCmd.accesskey "S">
+<!ENTITY saveAsCmd.label "Salvar como…">
+<!ENTITY saveAsCmd.accesskey "C">
+<!ENTITY publishCmd.label "Publicar">
+<!ENTITY publishCmd.accesskey "b">
+<!ENTITY publishCmd.key "S">
+<!ENTITY publishAsCmd.label "Publicar como…">
+<!ENTITY publishAsCmd.accesskey "c">
+<!ENTITY fileRevert.label "Reverter">
+<!ENTITY fileRevert.accesskey "t">
 
 <!-- Edit menu items -->
 

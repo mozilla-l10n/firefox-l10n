@@ -29,8 +29,16 @@
 <!ENTITY customSizeRadio.label "Personalisar dimension">
 <!ENTITY customSizeRadio.accessKey "D">
 <!ENTITY customSizeRadio.tooltip "Cambia le dimension del imagine como monstrate in iste pagina">
+<!ENTITY heightEditField.label "Altor:">
+<!ENTITY heightEditField.accessKey "A">
+<!ENTITY widthEditField.label "Largessa:">
+<!ENTITY widthEditField.accessKey "L">
+<!ENTITY constrainCheckbox.label "Restringer">
+<!ENTITY constrainCheckbox.accessKey "R">
 
 <!-- These controls are in the Image Map box of the expanded area -->
+<!ENTITY removeImageMapButton.label "Remover">
+<!ENTITY removeImageMapButton.accessKey "R">
 
 <!-- These are the options for image alignment -->
 <!ENTITY topPopup.value "Al culmine">

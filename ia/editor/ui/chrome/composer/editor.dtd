@@ -4,6 +4,8 @@
 
 <!-- Window title -->
 <!-- LOCALIZATION NOTE  (editorWindow.titlemodifier): DONT_TRANSLATE -->
+<!ENTITY editorWindow.titlemodifier "Componer">
+<!ENTITY editorWindow.titlemodifiermenuseparator " - ">
 
 <!-- Menu items:  the . means that the menu item isn't implemented yet -->
 
@@ -25,6 +27,7 @@
      you want the <html> image to left of the 'HTMLSourceModeTab.label' text,
      or use latin "rtl" if you want this image to the right of text. You do
      not need to include HTML in the label 'HTMLSourceModeTab.label' -->
+<!ENTITY HTMLSourceModeTab.label "Fonte">
 <!ENTITY PreviewModeTab.label "Vista preliminar">
 <!ENTITY PreviewMode.label "Vista preliminar">
 <!ENTITY PreviewMode.accesskey "P">
