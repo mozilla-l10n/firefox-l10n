@@ -230,6 +230,8 @@ uses-tiling = Používa skladanie
 content-uses-tiling = Používa skladanie (obsah)
 off-main-thread-paint-enabled = Vykresľovanie mimo hlavného vlákna povolené
 off-main-thread-paint-worker-count = Počet vlákien pre vykresľovanie mimo hlavného vlákna
+low-end-machine = Bolo rozpoznané menej výkonné zariadenie
+target-frame-rate = Cieľová obrazová frekvencia
 audio-backend = Audio Backend
 max-audio-channels = Maximálny počet kanálov
 channel-layout = Preferované nastavenie kanála
@@ -247,6 +249,7 @@ effective-content-sandbox-level = Účinná úroveň sandboxu procesu s obsahom
 sandbox-proc-type-content = obsah
 sandbox-proc-type-file = obsah súboru
 sandbox-proc-type-media-plugin = zásuvný modul médií
+sandbox-proc-type-data-decoder = dekóder údajov
 launcher-process-status-unknown = Neznámy stav
 # Variables
 # $remoteWindows (integer) - Number of remote windows
