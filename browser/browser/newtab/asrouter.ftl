@@ -44,6 +44,12 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } brûker
        *[other] { $total } brûkers
     }
+cfr-doorhanger-pintab-description = Maklike tagong ta jo meastbrûkte websites. Hâld websites iepen yn in ljepblêd (sels wannear't jo opnij starte).
 
 ## These messages are steps on how to use the feature and are shown together.
 
+cfr-doorhanger-pintab-step1 = <b>Klik mei de rjochtermûsknop</b> op it ljepblêd dat jo fêstmeitsje wolle.
+cfr-doorhanger-pintab-step2 = Selektearje <b>Ljepblêd fêstmeitsje</b> fan it menu út.
+cfr-doorhanger-pintab-step3 = As de website in fernijing befettet, sjogge jo in blauwe stip op jo fêstmakke ljepblêd.
+cfr-doorhanger-pintab-animation-pause = Pausearje
+cfr-doorhanger-pintab-animation-resume = Ferfetsje

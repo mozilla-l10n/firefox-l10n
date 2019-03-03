@@ -335,6 +335,9 @@ browsing-search-on-start-typing =
 browsing-cfr-recommendations =
     .label = Utwreidingen oanrekommandearje wylst jo sneupe
     .accesskey = a
+browsing-cfr-features =
+    .label = Funksjes oanrekommandearje wylst jo sneupe
+    .accesskey = F
 browsing-cfr-recommendations-learn-more = Mear ynfo
 
 ## General Section - Proxy
