@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 cfr-doorhanger-extension-heading = အကြံပြုထားသော တိုးချဲ့ချက်
+cfr-doorhanger-pintab-heading = ဒါကိုစမ်းကြည့်ပါ: Tab ကို Pin လုပ်ပါ
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = ဘာကြောင့် မြင်ရပါသနည်း
 cfr-doorhanger-extension-cancel-button = ယခု မဟုတ်သေးပါ
@@ -39,3 +40,6 @@ cfr-doorhanger-extension-total-users =
     { $total ->
        *[other] သုံးစွဲသူ { $total } ယောက်
     }
+
+## These messages are steps on how to use the feature and are shown together.
+

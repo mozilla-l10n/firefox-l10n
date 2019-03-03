@@ -20,6 +20,9 @@ policy-CertificatesDescription = သက်သေခံလက်မှတ် ထ�
 policy-Cookies = ကွတ်ကီးအသုံးပြုခြင်းကို ခွင့်ပြုရန် သို့မဟုတ် တားမြစ်ရန်။
 policy-DisableAppUpdate = ဘရောင်ဇာကို နောက်ဆုံးပေါ် ကို ဆွဲယူမွမ်းမံခြင်းမှ တားဆီးရန်။
 policy-DisableBuiltinPDFViewer = { -brand-short-name } တွင် တစ်ခါတည်း ပါလာသော PDF viewer PDF.js ကို ပိတ်ရန်။
+policy-DisableDeveloperTools = ဆော့ဖ်ဝဲရေးသားအသုံးပြုပစ္စည်းတွေ၏အသုံးပြုခွင့်ကိုပိတ်ဆို့ပါ။
+# Firefox Screenshots is the name of the feature, and should not be translated.
+policy-DisableFirefoxScreenshots = မီးမြေခွေး၏ Screenshots အသုံးပြုမှုကိုပိတ်ပင်ထားပါ။
 policy-DisableFormHistory = ရှာဖွေမှု ဖြည့်စွက်မှု သမိုင်းများကို မမှတ်ထားပါ
 policy-DisableMasterPasswordCreation = ဒါမှန်တယ်ဆိုပါက မာစတာစကားဝှက်ကို မဖန်တီးနိုင်ပါ
 policy-DisablePrivateBrowsing = သီးသန့်ရှာဖွေမှုကို ပိတ်ပါ

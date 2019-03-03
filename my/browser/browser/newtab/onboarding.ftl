@@ -23,5 +23,17 @@ onboarding-screenshots-title = မျက်နှာပြင်ပုံရိ�
 onboarding-screenshots-text = { -brand-short-name } ထံမှ ထွက်ခွာစရာ မလိုဘဲ မျက်နှာပြင် ပုံဖမ်းချက်များကို ရိုက်ကူးပါ၊ သိမ်းဆည်းပါ၊ ပြီးနောက် မျှဝေပါ။ နေရာတစ်ခု သို့မဟုတ် စာမျက်နှာတစ်ခုလုံးကို ဖမ်းယူပါ။ ထို့နောက် အလွယ်တကူ အသုံးပြုနိုင်ရန်နှင့် မျှဝေနိုင်ရန် ဝဘ်တွင် သိမ်းဆည်းပါ။
 onboarding-addons-title = အတ်အွန်များ
 onboarding-ghostery-title = Ghostery
+onboarding-ghostery-text = Ghostery  လို extension အသုံးပြုပြီးတော့ လျှင်မြန်၊ ဖျက်လက် လုံခြုံစိတ်ချစွာရှာဖွေပါ၊ Ghostery ကစိတ်ပျက်စရာကြော်ငြာတွေကိုတားစီးပေးပါတယ်။
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = ထပ်တူပြုရန်
+
+## Message strings belonging to the Return to AMO flow
+
+return-to-amo-sub-header = အကောင်းဆုံးဘဲ၊ { -brand-short-name } သင်ရသွားပြီ
+# <icon></icon> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-header = အခုဘဲ <icon></icon><b>{ $addon-name }</b> ကိုသင့်အတွက်ရယူလိုက်ပါ။
+return-to-amo-extension-button = အိတ်စတန်းရှင်းထည့်ပါ
+return-to-amo-get-started-button = { -brand-short-name } နှင့်စတင်လိုက်ကြရအောင်
