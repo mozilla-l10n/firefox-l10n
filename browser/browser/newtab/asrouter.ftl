@@ -3,12 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 cfr-doorhanger-extension-heading = ส่วนขยายที่แนะนำ
+cfr-doorhanger-pintab-heading = ลองนี่: ปักหมุดแท็บ
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = ทำไมฉันจึงเห็นสิ่งนี้
 cfr-doorhanger-extension-cancel-button = ไม่ใช่ตอนนี้
     .accesskey = ม
 cfr-doorhanger-extension-ok-button = เพิ่มตอนนี้
     .accesskey = พ
+cfr-doorhanger-pintab-ok-button = ปักหมุดแท็บนี้
+    .accesskey = P
 cfr-doorhanger-extension-manage-settings-button = จัดการการตั้งค่าคำแนะนำ
     .accesskey = จ
 cfr-doorhanger-extension-never-show-recommendation = ไม่ต้องแสดงคำแนะนำนี้ให้ฉัน
@@ -39,3 +42,11 @@ cfr-doorhanger-extension-total-users =
     { $total ->
        *[other] { $total } ผู้ใช้
     }
+cfr-doorhanger-pintab-description = เข้าถึงเว็บที่คุณใช้บ่อยได้อย่างง่ายดาย เปิดเว็บไว้ในแท็บตลอดเวลา (แม้ว่าคุณจะเปิดปิดใหม่ก็ตาม)
+
+## These messages are steps on how to use the feature and are shown together.
+
+cfr-doorhanger-pintab-step1 = <b>คลิกขวา</b> บนแท็บที่คุณต้องการจะปัก
+cfr-doorhanger-pintab-step3 = หากเว็บไซต์มีการเปลี่ยนแปลง คุณจะได้เห็นจุดสีฟ้าบนแท็บที่ถูกปัก
+cfr-doorhanger-pintab-animation-pause = หยุดชั่วคราว
+cfr-doorhanger-pintab-animation-resume = ทำต่อ

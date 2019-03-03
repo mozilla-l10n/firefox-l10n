@@ -270,6 +270,7 @@ update-application-check-choose =
 update-application-manual =
     .label = ไม่ตรวจสอบการอัปเดตเสมอ (ไม่แนะนำ)
     .accesskey = ม
+update-application-warning-cross-user-setting = การตั้งค่านี้จะนำไปใช้กับบัญชี Windows ทั้งหมด และโปรไฟล์ { -brand-short-name } ในขณะการติดตั้ง { -brand-short-name }
 update-application-use-service =
     .label = ใช้บริการเบื้องหลังเพื่อติดตั้งการอัปเดต
     .accesskey = ช
@@ -322,6 +323,9 @@ browsing-search-on-start-typing =
 browsing-cfr-recommendations =
     .label = แนะนำส่วนขยายขณะที่คุณท่องเว็บ
     .accesskey = น
+browsing-cfr-features =
+    .label = แนะนำคุณสมบัติในขณะที่คุณเรียกดู
+    .accesskey = f
 browsing-cfr-recommendations-learn-more = เรียนรู้เพิ่มเติม
 
 ## General Section - Proxy
@@ -666,6 +670,7 @@ content-blocking-all-windows-trackers = ตัวติดตามที่ร�
 content-blocking-all-third-party-cookies = คุกกี้จากบุคคลที่สามทั้งหมด
 content-blocking-warning-title = ระวัง!
 content-blocking-warning-desc = การปิดกั้นคุกกี้และตัวติดตามสามารถส่งผลให้เว็บไซต์บางส่วนไม่สมบูรณ์ การปิดใช้งานการปิดกั้นสำหรับไซต์ที่คุณเชื่อถือเป็นเรื่องง่าย
+content-blocking-warning-description = การปิดกั้นเนื้อหาอาจส่งผลให้บางเว็บใช้การไม่ได้ แต่มันก็ง่ายที่จะปลดการปิดกั้นสำหรับเว็บที่คุณไว้ใจ
 content-blocking-learn-how = เรียนรู้วิธี
 content-blocking-trackers-label =
     .label = ตัวติดตาม
@@ -680,6 +685,15 @@ content-blocking-tracking-protection-change-block-list = เปลี่ยน�
 content-blocking-cookies-label =
     .label = คุกกี้
     .accesskey = ค
+# Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
+content-blocking-cryptominers-label =
+    .label = ตัวขุดเหรียญดิจิทัล
+    .accesskey = y
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+content-blocking-fingerprinters-label =
+    .label = ลายนิ้วมือดิจิทัล
+    .accesskey = F
 
 ## Privacy Section - Tracking
 
