@@ -3,11 +3,14 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 cfr-doorhanger-extension-heading = Odporúčané rozšírenie
+cfr-doorhanger-pintab-heading = Vyskúšajte pripnúť kartu
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Prečo sa mi toto zobrazuje
 cfr-doorhanger-extension-cancel-button = Teraz nie
     .accesskey = n
 cfr-doorhanger-extension-ok-button = Pridať
+    .accesskey = P
+cfr-doorhanger-pintab-ok-button = Pripnúť túto kartu
     .accesskey = P
 cfr-doorhanger-extension-manage-settings-button = Nastavenia odporúčania
     .accesskey = d
@@ -43,3 +46,12 @@ cfr-doorhanger-extension-total-users =
         [few] { $total } používatelia
        *[other] { $total } používateľov
     }
+cfr-doorhanger-pintab-description = Majte svoje najpoužívanejšie stránky po ruke. Karty nezmiznú ani pri reštarte.
+
+## These messages are steps on how to use the feature and are shown together.
+
+cfr-doorhanger-pintab-step1 = Ak chcete pripnúť kartu, kliknite na ňu <b>pravým tlačidlom</b>.
+cfr-doorhanger-pintab-step2 = V ponuke vyberte možnosť <b>pripnúť kartu</b>.
+cfr-doorhanger-pintab-step3 = Ak sa na stránke objaví niečo nové, uvidíte pri jej ikone modrú bodku.
+cfr-doorhanger-pintab-animation-pause = Pozastaviť
+cfr-doorhanger-pintab-animation-resume = Pokračovať

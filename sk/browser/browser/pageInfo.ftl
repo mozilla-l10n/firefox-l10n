@@ -147,6 +147,17 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = Použiť predvolené
 security-no-visits = Nie
+# This string is used to display the number of meta tags
+# in the General Tab
+# Variables:
+#   $tags (number) - The number of meta tags
+general-meta-tags =
+    .value =
+        { $tags ->
+            [one] Meta (1 značka)
+            [few] Meta ({ $tags } značky)
+           *[other] Meta ({ $tags } značiek)
+        }
 # This string is used to display the number of times
 # the user has visited the website prior
 # Variables:
@@ -158,6 +169,29 @@ security-visits-number =
         [few] Áno, { $visits }-krát
        *[other] Áno, { $visits }-krát
     }
+# This string is used to display the size of a media file
+# Variables:
+#   $kb (number) - The size of an image in Kilobytes
+#   $bytes (number) - The size of an image in Bytes
+properties-general-size =
+    .value =
+        { $bytes ->
+            [one] { $kb } kB ({ $bytes } bajt)
+            [few] { $kb } kB ({ $bytes } bajty)
+           *[other] { $kb } kB ({ $bytes } bajtov)
+        }
+# This string is used to display the type and number
+# of frames of a animated image
+# Variables:
+#   $type (string) - The type of a animated image
+#   $frames (number) - The number of frames in an animated image
+media-animated-image-type =
+    .value =
+        { $frames ->
+            [one] { $type } obrázok (animovaný, { $frames } snímok)
+            [few] { $type } obrázok (animovaný, { $frames } snímky)
+           *[other] { $type } obrázok (animovaný, { $frames } snímkov)
+        }
 # This string is used to display the type of
 # an image
 # Variables:
