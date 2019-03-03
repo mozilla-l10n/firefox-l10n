@@ -3,7 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "សូម​ស្វាគមន៍">
+<!ENTITY firstrun_urlbar_message2 "សូមអរគុណសម្រាប់ការជ្រើសរើស &brandShortName;">
+<!ENTITY firstrun_urlbar_subtext2 "កម្មវិធីរុករក​តាម​អ៊ីនធឺណិត​លើ​ទូរសព្ទទំនើបពី Mozilla ដែលជាក្រុមហ៊ុនមិនស្វែងរកប្រាក់ចំណេញដែលបានប្តេជ្ញាចិត្តចំពោះបណ្តាញបើកទូលាយ និងឥតគិតថ្លៃ។">
+<!ENTITY firstrun_panel_title_privacy "ឯកជនភាព">
+<!ENTITY firstrun_privacy_message "រុករកដូចពេលគ្មាននរណាមើល">
+<!ENTITY firstrun_privacy_subtext "ការរុករកឯកជនជាមួយការការពារការតាមដានប្លុកកម្មវិធីតាមដានខណៈពេលអ្នករុករក និងនឹងមិនចងចាំប្រវត្តិរបស់អ្នកនៅពេលអ្នកបញ្ចប់ការរុករក។">
 <!ENTITY firstrun_panel_title_customize "ប្ដូរ​តាម​បំណង">
+<!ENTITY firstrun_customize_message "ធ្វើឲ្យ &brandShortName; ជារបស់អ្នក។">
+<!ENTITY firstrun_customize_subtext "ប្តូរ &brandShortName; តាមបំណងជាមួយកម្មវិធីបន្ថែម។ ទប់ស្កាត់​ពាណិជ្ចកម្ម បន្ថែមមុខងារ ឬជ្រើសរើស​រចនាប័ទ្ម​ថ្មី ដើម្បី​ឲ្យ​ស័ក្ដិសម​នឹង​បុគ្គលិកលក្ខណៈ​របស់​អ្នក។">
 <!ENTITY firstrun_bookmarks_title "ប្រវត្តិ">
 <!ENTITY firstrun_bookmarks_message "ចំណូលចិត្ត​របស់​អ្នក ខាងមុខ និង​កណ្ដាល">
 <!ENTITY firstrun_bookmarks_subtext "ទទួលបាន​លទ្ធផល​ពី​ការ​ចំណាំ​និង​ប្រវត្តិ​ស្វែងរក​របស់​អ្នក នៅ​ពេល​អ្នក​ស្វែងរក​អ្វី​មួយ។">
@@ -11,6 +18,8 @@
 <!ENTITY firstrun_data_message "ប្រើ​ទិន្នន័យ​តិច, សន្សំ​បាន​ច្រើន">
 <!ENTITY firstrun_data_subtext2 "បិទ​រូបភាព​នៅ​គ្រប់​វេបសាយ​ដែល​អ្នក​ចូល​មើល ដើម្បី​សន្សំសំចៃ​ទិន្នន័យ​របស់​អ្នក។">
 <!ENTITY firstrun_sync_title "ធ្វើ​សមកាលកម្ម">
+<!ENTITY firstrun_sync_message2 "ជ្រើសយក កន្លែងដែលអ្នក​ចាកចេញ។">
+<!ENTITY firstrun_sync_subtext2 "ប្រើសមកាលកម្មដើម្បីរក​ចំណាំ ពាក្យសម្ងាត់ និងអ្វីផ្សេងទៀត ដែលអ្នករក្សាទុកទៅ &brandShortName; នៅលើឧបករណ៍ទាំងអស់របស់អ្នក។">
 <!ENTITY firstrun_signin_message "ឲ្យ​តែ​មាន​អ៊ិនធឺណិត​អាច​ប្រើ​បាន​ភ្លាម">
 <!ENTITY firstrun_signin_button "ចូល​ដើម្បី​ធ្វើ​សមកាលកម្ម">
 <!ENTITY  onboard_start_button_browser "ចាប់​ផ្ដើម​រុករក">
@@ -216,6 +225,7 @@
 <!ENTITY pref_category_home_homepage "គេហទំព័រ">
 <!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
      home page will be use in every new tab. -->
+<!ENTITY home_homepage_every_new_tab "ប្រើសម្រាប់ផ្ទាំងថ្មី​ផងដែរ">
 <!ENTITY home_homepage_title "កំណត់​គេហ​ទំព័រ">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -280,12 +290,6 @@
 <!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
      Similar to the already existing "pref_whats_new_notification_summary"-->
 <!ENTITY pref_feature_tips_notification_summary "ស្វែងយល់​បន្ថែម​អំពី​ការ​ប្រើប្រាស់ &brandShortName; និង​ផលិតផល &vendorShortName; ផ្សេង​ទៀត">
-
-<!-- Localization note (pref_feature_tips_notification_enabling_hint):
-     Describe the action the user should do to enable this preference
-     Will be used in the context "<Turn on> ... to enable this feature" -->
-<!ENTITY pref_feature_tips_notification_enabling_hint "បើក">
-
 <!-- Localization note (pref_feature_tips_notification_enabling_path):
      Nothing to translate. Simple concatenation of already localized strings. Result is used below. -->
 <!ENTITY pref_feature_tips_notification_enabling_path "&pref_category_privacy_short; > &pref_category_datareporting; > &datareporting_fhr_title;">
@@ -305,6 +309,7 @@
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
 <!ENTITY custom_tabs_menu_item_open_in "បើក​នៅ​ក្នុង &formatS;">
+<!ENTITY custom_tabs_menu_footer "គ្រប់គ្រង​ដោយ &brandShortName;">
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 <!ENTITY custom_tabs_hint_url_copy "បាន​ចម្លង URL">
 
@@ -359,6 +364,7 @@
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
      Font size here refers to the name of the corresponding Android system setting. -->
 <!ENTITY pref_use_system_font_size "ប្រើ​ទំហំពុម្ពអក្សររបស់ប្រព័ន្ធ">
+<!ENTITY pref_use_system_font_size_summary "ធ្វើមាត្រដ្ឋាន​ខ្លឹមសារ​បណ្ដាញតាមទំហំពុម្ពអក្សរ​របស់​ប្រព័ន្ធ">
 
 <!ENTITY pref_media_autoplay_enabled "អនុញ្ញាត​ការ​ចាក់​ស្វ័យប្រវត្តិ">
 <!ENTITY pref_zoom_force_enabled "បើក​ការ​ពង្រីក​ជានិច្ច">
@@ -495,6 +501,7 @@
 <!ENTITY contextmenu_open_private_tab "បើក​ក្នុង​ផ្ទាំង​ឯកជន">
 <!ENTITY contextmenu_remove "លុបចេញ">
 <!ENTITY contextmenu_add_page_shortcut "បន្ថែម​ផ្លូវកាត់​ទំព័រ">
+<!ENTITY contextmenu_set_as_homepage "កំណត់ជាគេហទំព័រ">
 <!ENTITY contextmenu_share "ចែករំលែក">
 <!ENTITY contextmenu_pasteandgo "បិទ​ភ្ជាប់ រួច​ទៅ">
 <!ENTITY contextmenu_paste "បិទភ្ជាប់">
@@ -549,6 +556,7 @@
 <!ENTITY bookmark_edit_name "ឈ្មោះ">
 <!ENTITY bookmark_edit_location "ទីតាំង">
 <!ENTITY bookmark_edit_keyword "ពាក្យ​គន្លឹះ">
+<!ENTITY bookmark_select_folder "ជ្រើសរើស​ថត">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
@@ -816,8 +824,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY whatsnew_notification_title "&brandShortName; មាន​បច្ចុប្បន្នភាព">
 <!ENTITY whatsnew_notification_summary "ស្វែងយល់​អ្វី​ថ្មីៗ​នៅ​ក្នុង​កំណែ​នេះ">
 
-<!ENTITY promotion_add_page_shortcut "បន្ថែម​ផ្លូវកាត់​ទំព័រ">
-
 <!ENTITY helper_first_offline_bookmark_title "អាន​ពេល​គ្មាន​អ៊ីនធឺណិត">
 <!ENTITY helper_first_offline_bookmark_message "ស្វែងរក​ទិដ្ឋភាព​អាន​របស់​អ្នក​នៅ​ក្នុង​ចំណាំ ទោះ​បី​គ្មាន​អ៊ីនធឺណិត">
 <!ENTITY helper_first_offline_bookmark_button "ទៅកាន់​ចំណាំ">
@@ -863,9 +869,6 @@ See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
 Picture-in-picture mini window -->
 
 <!-- Notification channels names -->
-
-<!-- Notification channels names -->
-<!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
 web sites through the HTML Notifications API. -->
