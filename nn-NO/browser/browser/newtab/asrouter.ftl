@@ -44,9 +44,12 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } brukar
        *[other] { $total } brukarar
     }
+cfr-doorhanger-pintab-description = Få enkel tilgang til dei mest brukte nettstadane dine. Hald nettstadar opne i ei fane (sjølv når du starter på nytt).
 
 ## These messages are steps on how to use the feature and are shown together.
 
+cfr-doorhanger-pintab-step1 = <b>Høgreklikk</b> på fana du vil feste.
 cfr-doorhanger-pintab-step2 = Vel <b>Fest fane</ b> frå menyen.
+cfr-doorhanger-pintab-step3 = Om nettstaden har ei oppdatering, vil du sjå ein blå prikk på den festa fana di.
 cfr-doorhanger-pintab-animation-pause = Pause
 cfr-doorhanger-pintab-animation-resume = Fortset
