@@ -996,6 +996,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Cookies">
 <!ENTITY contentBlocking.cookiesView.label "Cookies y datos del sitio">
 
+<!ENTITY contentBlocking.cryptominers.label "Criptomineros">
+<!ENTITY contentBlocking.cryptominersView.label "Criptomineros">
 
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Informar de un problema">
@@ -1129,8 +1131,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Gestione sus complementos haciendo clic <image class='addon-addon-icon'/> en el menú <image class='addon-toolbar-icon'/>.">
+<!ENTITY addonPostInstall.incognito.label "Permitir que esta extensión se ejecute en ventanas privadas.">
+<!ENTITY addonPostInstall.incognito.accesskey "P">
 
-<!ENTITY addonPrivateBrowsing.header.label "Extensiones en ventanas privadas">
-<!ENTITY addonPrivateBrowsing.body.label "Por defecto, las extensiones no se ejecutan en las ventanas privadas. Ni se ejecutarán en la navegación privada ni podrán acceder a su actividad en línea. En los Ajustes podrá permitir que las extensiones se ejecuten en las ventanas privadas.">
+<!ENTITY addonPrivateBrowsing.body2.label "Cualquier nueva extensión que añada a &brandShorterName; no funcionará en ventanas privadas a menos que lo permita en la configuración.">
+<!ENTITY addonPrivateBrowsing.learnMore.label "Sepa cómo administrar la configuración de extensiones.">
 <!ENTITY addonPrivateBrowsing.okButton.label "Vale, entendido">
+<!ENTITY addonPrivateBrowsing.okButton.accesskey "O">
 <!ENTITY addonPrivateBrowsing.manageButton.label "Gestionar extensiones">
+<!ENTITY addonPrivateBrowsing.manageButton.accesskey "M">
