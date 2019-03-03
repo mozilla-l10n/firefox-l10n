@@ -1131,7 +1131,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Tvarkykite savo priedus paspausdami <image class='addon-addon-icon'/>, esantį <image class='addon-toolbar-icon'/> meniu.">
+<!ENTITY addonPostInstall.incognito.label "Leisti šiam priedui veikti privačiojo naršymo languose.">
+<!ENTITY addonPostInstall.incognito.accesskey "L">
 
+<!ENTITY addonPrivateBrowsing.body2.label "Visi naujai priedai, kuriuos pridėsite į „&brandShorterName;“, neveiks privačiojo naršymo languose, nebent leisite tai per nuostatas.">
 <!ENTITY addonPrivateBrowsing.okButton.label "Gerai, supratau">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "G">
 <!ENTITY addonPrivateBrowsing.manageButton.label "Tvarkyti priedus">

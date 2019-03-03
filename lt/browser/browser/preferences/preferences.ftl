@@ -50,6 +50,9 @@ category-privacy =
 pane-sync-title = „Firefox“ paskyra
 category-sync =
     .tooltiptext = { pane-sync-title }
+pane-sync-title2 = { -sync-brand-short-name }
+category-sync2 =
+    .tooltiptext = { pane-sync-title2 }
 help-button-label = „{ -brand-short-name }“ pagalba
 addons-button-label = Priedai ir grafiniai apvalkalai
 focus-search =
@@ -335,6 +338,9 @@ browsing-search-on-start-typing =
 browsing-cfr-recommendations =
     .label = Rekomenduoti priedus naršant
     .accesskey = R
+browsing-cfr-features =
+    .label = Rekomenduoti funkcijas naršant
+    .accesskey = f
 browsing-cfr-recommendations-learn-more = Sužinoti daugiau
 
 ## General Section - Proxy
@@ -527,6 +533,9 @@ sync-device-name-save =
     .accesskey = r
 sync-mobilepromo-single = Susieti kitą įrenginį
 sync-mobilepromo-multi = Tvarkyti įrenginius
+sync-connect-another-device = Susieti kitą įrenginį
+sync-manage-devices = Tvarkyti įrenginius
+sync-fxa-begin-pairing = Susieti įrenginį
 sync-tos-link = Paslaugos teikimo nuostatai
 sync-fxa-privacy-notice = Privatumo pranešimas
 
