@@ -50,6 +50,9 @@ category-privacy =
 pane-sync-title = Konto de Firefox
 category-sync =
     .tooltiptext = { pane-sync-title }
+pane-sync-title2 = { -sync-brand-short-name }
+category-sync2 =
+    .tooltiptext = { pane-sync-title2 }
 help-button-label = Helpo pri { -brand-short-name }
 addons-button-label = Etendaĵoj kaj etosoj
 focus-search =
@@ -332,6 +335,9 @@ browsing-search-on-start-typing =
 browsing-cfr-recommendations =
     .label = Sugesti etendaĵojn dum retumo
     .accesskey = S
+browsing-cfr-features =
+    .label = Sugesti funkciojn dum retumo
+    .accesskey = f
 browsing-cfr-recommendations-learn-more = Pli da informo
 
 ## General Section - Proxy
@@ -524,6 +530,9 @@ sync-device-name-save =
     .accesskey = K
 sync-mobilepromo-single = Konekti alian aparaton
 sync-mobilepromo-multi = Administri aparatojn
+sync-connect-another-device = Konekti alian aparaton
+sync-manage-devices = Administri aparatojn
+sync-fxa-begin-pairing = Asocii aparaton
 sync-tos-link = Kondiĉoj de uzado
 sync-fxa-privacy-notice = Rimarko pri privateco
 

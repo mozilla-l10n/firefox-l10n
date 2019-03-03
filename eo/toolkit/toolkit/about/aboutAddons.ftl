@@ -239,3 +239,11 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = Montri malpli
 go-back-button =
     .tooltiptext = Iri reen
+
+## Add-on actions
+
+remove-addon-button = Forigi
+disable-addon-button = Malaktivigi
+enable-addon-button = Aktivigi
+addons-enabled-heading = Aktiva
+addons-disabled-heading = Malaktiva

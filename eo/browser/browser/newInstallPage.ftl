@@ -11,6 +11,7 @@ title = Gravaj novaĵoj
 changed-title = Kio ŝanĝiĝis?
 options-title = Kion mi faru?
 resources = Rimedoj:
+sync-header = Komenci seancon aŭ krei konton de { -fxaccount-brand-name }
 sync-label = Tajpu vian retpoŝtan adreson
 sync-input =
     .placeholder = Retpoŝto

@@ -69,5 +69,6 @@ policy-SearchEngines = Agordi serĉilojn. Tiu ĉi politiko nur disponebla en la 
 policy-SecurityDevices = Instali modulojn PKCS #11.
 policy-SSLVersionMax = Difini la minimuman version de SSL.
 policy-SSLVersionMin = Difini la maksimuman version de SSL.
+policy-SupportMenu = Aldoni personecigitan menueron al la helpa menuo.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Bloki viziton al kelkaj retejoj. Vidu la dokumentaron por havi pli da informo pri la formo.

@@ -9,6 +9,8 @@ cfr-doorhanger-extension-cancel-button = Poste
     .accesskey = P
 cfr-doorhanger-extension-ok-button = Aldoni nun
     .accesskey = A
+cfr-doorhanger-pintab-ok-button = Alpingli tiun ĉi langeton
+    .accesskey = p
 cfr-doorhanger-extension-manage-settings-button = Administri agordojn de rekomendoj
     .accesskey = A
 cfr-doorhanger-extension-never-show-recommendation = Ne montri al mi tiun ĉi rekomendon
@@ -41,3 +43,8 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } uzanto
        *[other] { $total } uzantoj
     }
+
+## These messages are steps on how to use the feature and are shown together.
+
+cfr-doorhanger-pintab-animation-pause = Paŭzigi
+cfr-doorhanger-pintab-animation-resume = Daŭrigi

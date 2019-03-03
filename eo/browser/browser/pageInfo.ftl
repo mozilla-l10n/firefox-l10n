@@ -147,6 +147,36 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = Uzi normon
 security-no-visits = Ne
+# This string is used to display the number of meta tags
+# in the General Tab
+# Variables:
+#   $tags (number) - The number of meta tags
+general-meta-tags =
+    .value =
+        { $tags ->
+            [one] Meta (1 etikedo)
+           *[other] Meta ({ $tags } etikedoj)
+        }
+# This string is used to display the number of times
+# the user has visited the website prior
+# Variables:
+#   $visits (number) - The number of previous visits
+security-visits-number =
+    { $visits ->
+        [0] Ne
+        [one] Jes, unufoje
+       *[other] Jes, { $visits } fojojn
+    }
+# This string is used to display the size of a media file
+# Variables:
+#   $kb (number) - The size of an image in Kilobytes
+#   $bytes (number) - The size of an image in Bytes
+properties-general-size =
+    .value =
+        { $bytes ->
+            [one] { $kb } KO ({ $bytes } okteto)
+           *[other] { $kb } KO ({ $bytes } oktetoj)
+        }
 # This string is used to display the type of
 # an image
 # Variables:
