@@ -3,12 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 cfr-doorhanger-extension-heading = შემოთავაზებული გაფართოება
+cfr-doorhanger-pintab-heading = სცადეთ: ჩანართის მიმაგრება
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = რატომ ვხედავ ამას
 cfr-doorhanger-extension-cancel-button = ახლა არა
     .accesskey = რ
 cfr-doorhanger-extension-ok-button = დამატება ახლავე
     .accesskey = ხ
+cfr-doorhanger-pintab-ok-button = ამ ჩანართის მიმაგრება
+    .accesskey = გ
 cfr-doorhanger-extension-manage-settings-button = შემოთავაზებების პარამეტრების მართვა
     .accesskey = შ
 cfr-doorhanger-extension-never-show-recommendation = ამ შემოთავაზების ჩვენების შეწყვეტა
@@ -41,3 +44,12 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } მომხმარებელი
        *[other] { $total } მომხმარებელი
     }
+cfr-doorhanger-pintab-description = მიიღეთ მარტივი წვდომა თქვენს ხშირად მონახულებულ საიტებთან. დატოვეთ საიტები ჩანართში გახსნილი (ხელახლა გაშვების დროსაც).
+
+## These messages are steps on how to use the feature and are shown together.
+
+cfr-doorhanger-pintab-step1 = <b>მარჯვენა-წკაპი</b> მისამაგრებელ ჩანართზე.
+cfr-doorhanger-pintab-step2 = აირჩიეთ <b>ჩანართის მიმაგრება</b> მენიუდან.
+cfr-doorhanger-pintab-step3 = თუ საიტზე რამე განახლდება, ლურჯი წერტილი გამოჩნდება მიმაგრებულ ჩანართზე.
+cfr-doorhanger-pintab-animation-pause = შეჩერება
+cfr-doorhanger-pintab-animation-resume = გაგრძელება
