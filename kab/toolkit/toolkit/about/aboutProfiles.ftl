@@ -26,6 +26,7 @@ profiles-rename = Snifel isem
 profiles-remove = Kkes
 profiles-set-as-default = Sbadut d amaɣnu amezwer
 profiles-launch-profile = Senker amaɣnu ɣef iminig amaynut
+profiles-cannot-set-as-default-title = Ur yezmir ara ad yesbadu amezwer
 profiles-yes = Ih
 profiles-no = ala
 profiles-rename-profile-title = Snifel isem n umaɣnu

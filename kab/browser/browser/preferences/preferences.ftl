@@ -526,6 +526,7 @@ sync-device-name-save =
     .accesskey = l
 sync-mobilepromo-single = Qqen ibenk nniḍen
 sync-mobilepromo-multi = Sefrek ibenkan
+sync-connect-another-device = Qqen ibenk-nniḍen
 sync-manage-devices = Sefrek ibenkan
 sync-tos-link = Tiwtilin n useqdec
 sync-fxa-privacy-notice = Tasertit n tbaḍnit

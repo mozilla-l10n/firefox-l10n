@@ -7,13 +7,8 @@ about-policies-title = Tasertit n tkebbanit
 active-policies-tab = Urmid
 errors-tab = Tuccḍiwin
 documentation-tab = Tasemlit
+no-specified-policies-message = Ameẓlu n tsertiyin n tkebbanit yermed maca ulac tisertiyin yettwarmden.
+inactive-message = Ameẓlu n tsertiyin n tkebbanit ur yermid ara.
 policy-name = Isem n tsertit
 policy-value = Azal n tsertit
 policy-errors = Tucciwin n tsertit
-# 'gpo-machine-only' policies are related to the Group Policy features
-# on Windows. Please use the same terminology that is used on Windows
-# to describe Group Policy.
-# These policies can only be set at the computer-level settings, while
-# the other policies can also be set at the user-level.
-gpo-machine-only =
-    .title = Ticki tseqdaceḍ tasertit n ugraw , tasertit-agi tezmer kan ad  tettusbadu deg uswir n uselkim.
