@@ -3,12 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 cfr-doorhanger-extension-heading = Рекомендуемое расширение
+cfr-doorhanger-pintab-heading = Попробуйте: Закрепление вкладок
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Почему я это вижу
 cfr-doorhanger-extension-cancel-button = Не сейчас
     .accesskey = е
 cfr-doorhanger-extension-ok-button = Добавить
     .accesskey = а
+cfr-doorhanger-pintab-ok-button = Закрепить эту вкладку
+    .accesskey = З
 cfr-doorhanger-extension-manage-settings-button = Управление настройками рекомендаций
     .accesskey = п
 cfr-doorhanger-extension-never-show-recommendation = Не показывать мне эту рекомендацию
@@ -43,3 +46,12 @@ cfr-doorhanger-extension-total-users =
         [few] { $total } пользователя
        *[other] { $total } пользователей
     }
+cfr-doorhanger-pintab-description = Получите лёгкий доступ к наиболее часто используемым вами сайтам. Оставляйте сайты открытыми (даже после перезапуска браузера).
+
+## These messages are steps on how to use the feature and are shown together.
+
+cfr-doorhanger-pintab-step1 = <b>Щёлкните правой кнопкой мыши</b> по вкладке, которую вы хотите закрепить.
+cfr-doorhanger-pintab-step2 = Выберите <b>Закрепить вкладку</b> в меню.
+cfr-doorhanger-pintab-step3 = Если на сайте произошло обновление, вы увидите синюю точку на закрепленной вкладке.
+cfr-doorhanger-pintab-animation-pause = Приостановить
+cfr-doorhanger-pintab-animation-resume = Возобновить
