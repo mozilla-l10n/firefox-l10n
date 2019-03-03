@@ -335,6 +335,9 @@ browsing-search-on-start-typing =
 browsing-cfr-recommendations =
     .label = Gezinirken yeni eklentiler öner
     .accesskey = G
+browsing-cfr-features =
+    .label = Gezinti yeni özellikler öner
+    .accesskey = G
 browsing-cfr-recommendations-learn-more = Daha fazla bilgi al
 
 ## General Section - Proxy
@@ -529,6 +532,7 @@ sync-mobilepromo-single = Başka bir cihaz bağla
 sync-mobilepromo-multi = Cihazları yönet
 sync-connect-another-device = Başka bir cihaz bağla
 sync-manage-devices = Cihazları yönet
+sync-fxa-begin-pairing = Cihaz eşleştir
 sync-tos-link = Kullanım Koşulları
 sync-fxa-privacy-notice = Gizlilik Bildirimi
 
