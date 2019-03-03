@@ -101,7 +101,7 @@ permissions-exceptions-autoplay-media-desc2 = Bạn có thể chỉ định tran
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =
-    .title = Cài đặt - Quyển thông báo
+    .title = Cài đặt - Quyền thông báo
     .style = { permissions-window.style }
 permissions-site-notification-desc = Các trang web dưới đây đã yêu cầu để gửi thông báo tới bạn. Bạn có thể chỉ định những trang web nào được phép gửi bạn thông báo. Bạn cũng có thể chặn những yêu cầu mà bạn không muốn cho phép.
 permissions-site-notification-disable-label =
