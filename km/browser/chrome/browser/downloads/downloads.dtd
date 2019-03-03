@@ -7,40 +7,10 @@
      -->
 <!ENTITY downloads.title                  "ទាញ​យក">
 
-<!-- LOCALIZATION NOTE (downloadDetails.width):
-     Width of details for a Downloads Panel item (which directly influences the
-     width of the Downloads Panel) expressed using a CSS unit. The longest
-     labels that should fit in the item width are usually those of in-progress
-     downloads and those of blocked downloads.
-
-     A good rule of thumb is to try to determine the longest string possible
-     that an in-progress download could display, and use that value in ch
-     units.
-
-     For example, in English, a long string would be:
-
-     59m 59s left - 1022 of 1023 KB (120.5 KB/sec)
-
-     Since Downloads Panel is redesigned to show the detail string including
-     the hovering case for an item or an action button.
-     Bug 1328519 is for discussing the detail rule of `downloadDetails.width`.
+<!-- LOCALIZATION NOTE (downloads.width):
+     Width of the Downloads Panel expressed using a CSS unit. The longest labels
+     that should fit are usually those of in-progress and blocked downloads.
      -->
-<!ENTITY downloadDetails.width            "50ch">
-
-<!-- LOCALIZATION NOTE (downloadsSummary.minWidth2):
-     Minimum width for the main description of the downloads summary,
-     which is displayed at the bottom of the Downloads Panel if the
-     number of downloads exceeds the limit that the panel can display.
-
-     A good rule of thumb here is to look at the otherDownloads3 string
-     in downloads.properties, and make a reasonable estimate of its
-     maximum length. For English, this seems like a reasonable limit:
-
-     999 files downloading
-
-     that's 21 characters, so we set the minimum width to 21ch.
-     -->
-<!ENTITY downloadsSummary.minWidth2       "21ch">
 
 <!ENTITY cmd.pause.label                  "ផ្អាក">
 <!ENTITY cmd.pause.accesskey              "ក">
@@ -56,6 +26,7 @@
 <!ENTITY cmd.show.accesskey               "ថ">
 <!ENTITY cmd.showMac.label                "បង្ហាញ​នៅ​ក្នុង​កម្មវិធី​រក">
 <!ENTITY cmd.showMac.accesskey            "ប">
+<!ENTITY cmd.showDownloads.label          "បង្ហាញថតទាញយក">
 <!ENTITY cmd.retry.label                  "ព្យាយាម​ម្តង​ទៀត">
 <!ENTITY cmd.goToDownloadPage.label       "ទៅកាន់​ទំព័រ​ទាញ​យក">
 <!ENTITY cmd.goToDownloadPage.accesskey   "ទ">
@@ -76,13 +47,13 @@
      This is the tooltip of the action button shown when malware is blocked.
      -->
 <!ENTITY cmd.removeFile.label             "លុប​ឯកសារ​ចេញ">
-<!-- LOCALIZATION NOTE (cmd.chooseUnblock.tooltip):
+<!-- LOCALIZATION NOTE (cmd.chooseUnblock.label):
      This is the tooltip of the action button shown when potentially unwanted
      downloads are blocked. This opens a dialog where the user can choose
      whether to unblock or remove the download. Removing is the default option.
      -->
 <!ENTITY cmd.chooseUnblock.label          "លុប​ឯកសារ ឬ អនុញ្ញាត​ឲ្យ​ទាញយក">
-<!-- LOCALIZATION NOTE (cmd.chooseOpen.tooltip):
+<!-- LOCALIZATION NOTE (cmd.chooseOpen.label):
      This is the tooltip of the action button shown when uncommon downloads are
      blocked.This opens a dialog where the user can choose whether to open the
      file or remove the download. Opening is the default option.
@@ -134,7 +105,17 @@
 <!ENTITY downloadsHistory.label           "បង្ហាញ​ការ​ទាញ​យក​ទាំងអស់">
 <!ENTITY downloadsHistory.accesskey       "ញ">
 
-<!ENTITY openDownloadsFolder.label       "បើក​ថត​ទាញយក">
+<!-- LOCALIZATION NOTE (downloadDetails.label):
+     This string is shown at the top of the Download Details Panel, to indicate
+     that we are showing the details of a single download.
+     -->
+<!ENTITY downloadDetails.label            "ព័ត៌មាន​លម្អិត​ការទាញយក">
+
+<!-- LOCALIZATION NOTE (openDownloadsFolder.label):
+     This command is not currently available in the user interface, but the
+     string was preserved by bug 1362207 to be used in a future version.
+     -->
+<!ENTITY openDownloadsFolder.label        "បើក​ថត​ទាញយក">
 
 <!ENTITY clearDownloadsButton.label       "សម្អាត​ការ​ទាញ​យក">
 <!ENTITY clearDownloadsButton.tooltip     "សម្អាត​ការ​ទាញ​យក​ដែល​បាន​បញ្ចប់​ទាំងស្រុង ដែល​បាន​បោះបង់ និង​ដែល​បាន​បរាជ័យ">
