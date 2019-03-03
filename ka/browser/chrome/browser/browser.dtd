@@ -1133,9 +1133,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "მართეთ თქვენი დამატებები <image class='addon-addon-icon'/> ხატულაზე დაწკაპებით, <image class='addon-toolbar-icon'/> მენიუში.">
+<!ENTITY addonPostInstall.incognito.label "დაშვება ამ გაფართოების, პირად ფანჯრებში.">
+<!ENTITY addonPostInstall.incognito.accesskey "ნ">
 
-<!ENTITY addonPrivateBrowsing.header.label "გაფართოებები პირად ფანჯრებში">
-<!ENTITY addonPrivateBrowsing.body.label "გაფართოებების გაშვება არაა დაშვებული ნაგულისხმევად პირად ფანჯრებში. ისინი არ იმუშავებს პირადი თვალიერებისას და არ ექნება წვდომა თქვენს მოქმედებებზე. ცალკეული გაფართოების დაშვება პირად ფანჯრებში, შესაძლებელია შესაბამისი პარამეტრებიდან.">
+<!ENTITY addonPrivateBrowsing.header2.label "გაფართოებების გამოყენება პირად ფანჯრებში">
+<!ENTITY addonPrivateBrowsing.body2.label "ახლად დაყენებულ გაფართოებებს &brandShorterName; არ გაუშვებს პირად ფანჯრებში, სანამ თქვენ არ დაუშვებთ პარამეტრებიდან.">
+<!ENTITY addonPrivateBrowsing.learnMore.label "იხილეთ, თუ როგორ იმართება გაფართოების პარამეტრები.">
 <!ENTITY addonPrivateBrowsing.okButton.label "კარგი, გასაგებია">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "გ">
 <!ENTITY addonPrivateBrowsing.manageButton.label "გაფართოებების მართვა">

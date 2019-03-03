@@ -335,6 +335,9 @@ browsing-search-on-start-typing =
 browsing-cfr-recommendations =
     .label = გაფართოებების შემოთავაზებები ძიებისას
     .accesskey = შ
+browsing-cfr-features =
+    .label = შესაძლებლობების შემოთავაზებები, გვერდების მონახულებისას
+    .accesskey = ზ
 browsing-cfr-recommendations-learn-more = იხილეთ ვრცლად
 
 ## General Section - Proxy
