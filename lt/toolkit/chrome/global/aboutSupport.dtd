@@ -9,7 +9,7 @@
 
 <!ENTITY aboutSupport.crashes.title "Strigčių pranešimai">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
-This is likely the same like id.heading in crashes.dtd. -->
+This is likely the same like id.heading in aboutcrashes.ftl. -->
 <!ENTITY aboutSupport.crashes.id "Pranešimo ID">
 <!ENTITY aboutSupport.crashes.sendDate "Pranešimo data">
 <!ENTITY aboutSupport.crashes.allReports "Visi strigčių pranešimai">
@@ -32,15 +32,6 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.featureName "Pavadinimas">
 <!ENTITY aboutSupport.featureVersion "Laida">
 <!ENTITY aboutSupport.featureId "ID">
-
-<!ENTITY aboutSupport.experimentsTitle "Eksperimentinės funkcijos">
-<!ENTITY aboutSupport.experimentName "Pavadinimas">
-<!ENTITY aboutSupport.experimentId "ID">
-<!ENTITY aboutSupport.experimentDescription "Aprašas">
-<!ENTITY aboutSupport.experimentActive "Aktyvi">
-<!ENTITY aboutSupport.experimentEndDate "Galioja iki">
-<!ENTITY aboutSupport.experimentHomepage "Tinklalapis">
-<!ENTITY aboutSupport.experimentBranch "Šaka">
 
 <!ENTITY aboutSupport.appBasicsTitle "Pagrindinės programos savybės">
 <!ENTITY aboutSupport.appBasicsName "Pavadinimas">
@@ -75,7 +66,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsProcessCount "Saityno turinio procesai">
 
-<!ENTITY aboutSupport.enterprisePolicies "Įmonės nuostatai">
+<!ENTITY aboutSupport.enterprisePolicies "Įmonės strategijos">
 
 <!ENTITY aboutSupport.appBasicsKeyGoogle "„Google“ raktas">
 <!ENTITY aboutSupport.appBasicsKeyMozilla "„Mozillos“ buvimo vietos nustatymo paslaugos raktas">
