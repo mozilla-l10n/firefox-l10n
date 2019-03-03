@@ -5,7 +5,7 @@
 <!--LOCALIZATION NOTE msgCompSMIMEOverlay.dtd UI for s/mime hooks in message composition -->
 
 <!ENTITY menu_securityEncryptRequire.label "წერილის დაშიფვრა">
-<!ENTITY menu_securityEncryptRequire.accesskey "E">
+<!ENTITY menu_securityEncryptRequire.accesskey "ე">
 
 <!ENTITY menu_securitySign.label "წერილის ციფრულად ხელმოწერა">
 <!ENTITY menu_securitySign.accesskey "M">

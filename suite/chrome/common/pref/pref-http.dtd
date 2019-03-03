@@ -14,7 +14,7 @@
 <!ENTITY prefEnableHTTP11.accesskey          "მ">
 <!ENTITY prefEnableHTTP11Proxy.accesskey     "T">
 <!ENTITY prefPara                            "HTTP კავშირების წარმადობისა და თავსებადობის გაზრდა ამ პარამეტრებითაა შესაძელებელი.  მაგალითად, ზოგიერთი პროქსი სერვერი საჭიროებს HTTP/1.0-ს (იხ. დოკუმენტაცია).">
-<!ENTITY prefUseragent.label                 "User Agent ტექსტი">
+<!ENTITY prefUseragent.label                 "მომხმარებლის პროგრამა ტექსტი">
 <!ENTITY prefFirefoxCompat.label             "Firefox თავსებადობის შესახებ ცნობება">
 <!ENTITY prefFirefoxCompat.accesskey         "ც">
 <!ENTITY prefLightningShow.label             "Lightning დაყენების შესახებ ცნობება">

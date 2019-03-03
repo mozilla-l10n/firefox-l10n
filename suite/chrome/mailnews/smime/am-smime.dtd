@@ -8,18 +8,18 @@
 <!ENTITY encryptionGroupTitle.label "დაშიფვრა">
 <!ENTITY encryptionChoiceLabel.label "დაშიფვრის ძირითადი პარამეტრები წერილების გაგზავნისას:">
 <!ENTITY neverEncrypt.label "არასოდეს (დაუშიფრავად)">
-<!ENTITY neverEncrypt.accesskey "N">
+<!ENTITY neverEncrypt.accesskey "რ">
 <!ENTITY alwaysEncryptMessage.label "ყოველთვის (არ გაიგზავნება თუ ყველა მიმღებს არ გააჩნია სერტიფიკატი)">
-<!ENTITY alwaysEncryptMessage.accesskey "u">
+<!ENTITY alwaysEncryptMessage.accesskey "ყ">
 <!ENTITY encryptionCert.message "ამ სერტთიფიკატის გამოყენება გამოგზავნილი წერილების დასაშიფრად და გასაშიფრად:">
 <!ENTITY digitalSign.certificate.button "არჩევა…">
 <!ENTITY digitalSign.certificate.accesskey "S">
 <!ENTITY digitalSign.certificate_clear.button "გასუფთავება">
 <!ENTITY digitalSign.certificate_clear.accesskey "C">
 <!ENTITY encryption.certificate.button "არჩევა…">
-<!ENTITY encryption.certificate.accesskey "t">
+<!ENTITY encryption.certificate.accesskey "ჩ">
 <!ENTITY encryption.certificate_clear.button "გასუფთავება">
-<!ENTITY encryption.certificate_clear.accesskey "e">
+<!ENTITY encryption.certificate_clear.accesskey "უ">
 <!ENTITY signingGroupTitle.label "ციფრული ხელმოწერა">
 <!ENTITY signMessage.label "ციფრული ხელმოწერილი წერილები (ნაგულისხმები)">
 <!ENTITY signMessage.accesskey "D">
