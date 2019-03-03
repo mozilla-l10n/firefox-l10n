@@ -16,7 +16,7 @@
 <!ENTITY followupToField4.label "კონფერენცია ">
 <!ENTITY tagsHdr4.label "ჭდეები ">
 <!ENTITY dateField4.label "თარიღი ">
-<!ENTITY userAgentField4.label "პროგრამა ">
+<!ENTITY userAgentField4.label "მომხმარებლის პროგრამა">
 <!ENTITY referencesField4.label "დამოწმებები ">
 <!ENTITY messageIdField4.label "გზავნილის კოდი ">
 <!ENTITY inReplyToField4.label "პასუხად ">
