@@ -999,6 +999,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cryptominers.label "Криптомайнеры">
 <!ENTITY contentBlocking.cryptominersView.label "Криптомайнеры">
 
+<!ENTITY contentBlocking.fingerprinters.label "Сборщики цифровых отпечатков">
+<!ENTITY contentBlocking.fingerprintersView.label "Сборщики цифровых отпечатков">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Сообщить о проблеме">
 <!ENTITY contentBlocking.breakageReportView.label "Сообщить о проблеме">
@@ -1131,9 +1133,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Управляйте своими дополнениями, щёлкнув по <image class='addon-addon-icon'/> в меню <image class='addon-toolbar-icon'/>.">
+<!ENTITY addonPostInstall.incognito.label "Разрешить этому расширению работать в приватных окнах.">
+<!ENTITY addonPostInstall.incognito.accesskey "ш">
 
-<!ENTITY addonPrivateBrowsing.header.label "Расширения в приватных окнах">
-<!ENTITY addonPrivateBrowsing.body.label "По умолчанию расширениям не разрешено запускаться в приватных окнах. Они не будут работать во время приватного просмотра, и у них не будет доступа к вашей онлайн-активности. Вы можете разрешить каждому отдельному расширению запускаться в приватных окнах, изменив его настройки.">
+<!ENTITY addonPrivateBrowsing.header2.label "Изменение в работе расширений в приватных окнах">
+<!ENTITY addonPrivateBrowsing.body2.label "Любые новые расширения, которые вы добавите в &brandShorterName; не будут работать в приватных окнах, если вы не разрешите этого в настройках.">
+<!ENTITY addonPrivateBrowsing.learnMore.label "Узнайте, как управлять настройками расширений.">
 <!ENTITY addonPrivateBrowsing.okButton.label "Ок, понятно">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "я">
 <!ENTITY addonPrivateBrowsing.manageButton.label "Управление расширениями">

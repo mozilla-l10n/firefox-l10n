@@ -50,6 +50,9 @@ category-privacy =
 pane-sync-title = Аккаунт Firefox
 category-sync =
     .tooltiptext = { pane-sync-title }
+pane-sync-title2 = { -sync-brand-short-name }
+category-sync2 =
+    .tooltiptext = { pane-sync-title2 }
 help-button-label = Поддержка { -brand-short-name }
 addons-button-label = Расширения и темы
 focus-search =
@@ -335,6 +338,9 @@ browsing-search-on-start-typing =
 browsing-cfr-recommendations =
     .label = Рекомендовать расширения при просмотре
     .accesskey = к
+browsing-cfr-features =
+    .label = Рекомендавать функции при просмотре
+    .accesskey = ф
 browsing-cfr-recommendations-learn-more = Подробнее
 
 ## General Section - Proxy
@@ -527,6 +533,9 @@ sync-device-name-save =
     .accesskey = х
 sync-mobilepromo-single = Подключить другое устройство
 sync-mobilepromo-multi = Управление устройствами
+sync-connect-another-device = Подключить другое устройство
+sync-manage-devices = Управление устройствами
+sync-fxa-begin-pairing = Соединиться с устройством
 sync-tos-link = Условия службы
 sync-fxa-privacy-notice = Уведомление о приватности
 
@@ -695,6 +704,11 @@ content-blocking-cookies-label =
 content-blocking-cryptominers-label =
     .label = Криптомайнеры
     .accesskey = п
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+content-blocking-fingerprinters-label =
+    .label = Сборщики цифровых отпечатков
+    .accesskey = о
 
 ## Privacy Section - Tracking
 
