@@ -55,7 +55,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "ჩართული მოდულები">
 <!ENTITY aboutSupport.appBasicsBuildConfig "ანაწყობის კონფიგურაცია">
-<!ENTITY aboutSupport.appBasicsUserAgent "მომხმარებლის აგენტი">
+<!ENTITY aboutSupport.appBasicsUserAgent "მომხმარებლის პროგრამა">
 <!ENTITY aboutSupport.appBasicsOS "OS">
 <!ENTITY aboutSupport.appBasicsMemoryUse "გამოყენებული მეხსიერება">
 <!ENTITY aboutSupport.appBasicsPerformance "წარმადობა">
