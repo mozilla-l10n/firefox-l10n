@@ -147,6 +147,51 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = Ужываць прадвызначаныя
 security-no-visits = Не
+# This string is used to display the number of meta tags
+# in the General Tab
+# Variables:
+#   $tags (number) - The number of meta tags
+general-meta-tags =
+    .value =
+        { $tags ->
+            [one] Мета (1 тэг)
+            [few] Мета ({ $tags } тэгі)
+           *[other] Мэта ({ $tags } тэгаў)
+        }
+# This string is used to display the number of times
+# the user has visited the website prior
+# Variables:
+#   $visits (number) - The number of previous visits
+security-visits-number =
+    { $visits ->
+        [0] Не
+        [one] Так, раз
+        [few] Так, { $visits } разы
+       *[other] Так, { $visits } разоў
+    }
+# This string is used to display the size of a media file
+# Variables:
+#   $kb (number) - The size of an image in Kilobytes
+#   $bytes (number) - The size of an image in Bytes
+properties-general-size =
+    .value =
+        { $bytes ->
+            [one] { $kb } КБ ({ $bytes } байт)
+            [few] { $kb } КБ ({ $bytes } байты)
+           *[other] { $kb } КБ ({ $bytes } байтаў)
+        }
+# This string is used to display the type and number
+# of frames of a animated image
+# Variables:
+#   $type (string) - The type of a animated image
+#   $frames (number) - The number of frames in an animated image
+media-animated-image-type =
+    .value =
+        { $frames ->
+            [one] Выява { $type } (анімацыя, { $frames } кадр)
+            [few] Выява { $type } (анімацыя, { $frames } кадры)
+           *[other] Выява { $type } (анімацыя, { $frames } кадраў)
+        }
 # This string is used to display the type of
 # an image
 # Variables:
