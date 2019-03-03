@@ -95,7 +95,7 @@ These two items have the same accesskey but will never be visible at the same ti
 <!ENTITY  moveToEnd.accesskey                "E">
 <!ENTITY  moveToNewWindow.label              "In neues Fenster verschieben">
 <!ENTITY  moveToNewWindow.accesskey          "n">
-<!ENTITY  reopenInContainer.label            "In Tab-Umgebung verschieben">
+<!ENTITY  reopenInContainer.label            "In Tab-Umgebung öffnen">
 <!ENTITY  reopenInContainer.accesskey        "U">
 <!ENTITY  bookmarkTab.label                  "Tab als Lesezeichen hinzufügen">
 <!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
