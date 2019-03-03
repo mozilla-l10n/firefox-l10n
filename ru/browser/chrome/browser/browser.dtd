@@ -842,7 +842,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionVerified2 "Вы подключились по защищённому соединению к сайту, которым владеет:">
 <!ENTITY identity.connectionInternal "Это защищённая страница &brandShortName;.">
 <!ENTITY identity.extensionPage "Эта страница загружена из расширения.">
-<!ENTITY identity.insecureLoginForms2 "Логины, введённые на этой странице, могут быть скомпрометированы.">
+<!ENTITY identity.insecureLoginForms2 "Учётные данные, вводимые на этой странице, могут быть скомпрометированы.">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; заблокировал незащищённые части этой страницы.">
@@ -852,7 +852,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Strings for connection state warnings in the subview. -->
 <!ENTITY identity.description.insecure "Ваше соединение с этим сайтом не защищено. Вводимая вами информация может быть видна посторонним (например, пароли, сообщения, номера кредитных карт и т.д.).">
-<!ENTITY identity.description.insecureLoginForms "Данные логина, вводимые вами на этой странице, не защищены и могут быть скомпрометированы.">
+<!ENTITY identity.description.insecureLoginForms "Учётные данные, вводимые вами на этой странице, не защищены и могут быть скомпрометированы.">
 <!ENTITY identity.description.weakCipher "Ваше соединение с этим веб-сайтом использует слабое шифрование и не защищено.">
 <!ENTITY identity.description.weakCipher2 "Посторонние лица могут просматривать вашу информацию или изменять поведение веб-сайта.">
 <!ENTITY identity.description.activeBlocked "&brandShortName; заблокировал незащищённые части этой страницы.">

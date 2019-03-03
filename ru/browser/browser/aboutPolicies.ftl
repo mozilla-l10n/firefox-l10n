@@ -7,13 +7,8 @@ about-policies-title = Корпоративные политики
 active-policies-tab = Активна
 errors-tab = Ошибки
 documentation-tab = Документация
+no-specified-policies-message = Служба корпоративных политик активна, но ни одной политики не включено.
+inactive-message = Служба корпоративных политик неактивна.
 policy-name = Имя политики
 policy-value = Значение политики
 policy-errors = Ошибки политики
-# 'gpo-machine-only' policies are related to the Group Policy features
-# on Windows. Please use the same terminology that is used on Windows
-# to describe Group Policy.
-# These policies can only be set at the computer-level settings, while
-# the other policies can also be set at the user-level.
-gpo-machine-only =
-    .title = При использовании групповой политики, эту политику можно установить только на уровне компьютера.
