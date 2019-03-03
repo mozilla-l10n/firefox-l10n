@@ -3,12 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 cfr-doorhanger-extension-heading = Eklenti Önerisi
+cfr-doorhanger-pintab-heading = Bunu deneyin: Sekme sabitleme
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Bunu neden görüyorum?
 cfr-doorhanger-extension-cancel-button = Daha sonra
     .accesskey = D
 cfr-doorhanger-extension-ok-button = Hemen ekle
     .accesskey = H
+cfr-doorhanger-pintab-ok-button = Bu sekmeyi sabitle
+    .accesskey = s
 cfr-doorhanger-extension-manage-settings-button = Öneri ayarlarını yönet
     .accesskey = Ö
 cfr-doorhanger-extension-never-show-recommendation = Bana bu öneriyi gösterme
@@ -41,3 +44,12 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } kullanıcı
        *[other] { $total } kullanıcı
     }
+cfr-doorhanger-pintab-description = En çok kullandığınız sitelere kolayca ulaşın. Siteleri sabit bir sekmede açık tutabilirsiniz (tarayıcınızı yeniden başlatsanız bile).
+
+## These messages are steps on how to use the feature and are shown together.
+
+cfr-doorhanger-pintab-step1 = Sabitlemek istediğiniz sekmeye <b>sağ tıklayın</b>.
+cfr-doorhanger-pintab-step2 = Menüden <b>Sekmeyi sabitle</b>’yi seçin.
+cfr-doorhanger-pintab-step3 = Sitede bir güncelleme olursa sabit sekmenizde mavi bir nokta göreceksiniz.
+cfr-doorhanger-pintab-animation-pause = Duraklat
+cfr-doorhanger-pintab-animation-resume = Devam et
