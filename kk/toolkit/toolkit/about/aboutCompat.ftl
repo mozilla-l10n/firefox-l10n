@@ -5,4 +5,5 @@
 label-disable = Сөндіру
 label-enable = Іске қосу
 label-more-information = Көбірек ақпарат: Ақаулық { $bug }
+text-disabled-in-about-config = Бұл мүмкіндік about:config ішінде сөндірілген
 text-title = about:compat
