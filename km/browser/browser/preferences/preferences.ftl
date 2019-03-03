@@ -247,6 +247,7 @@ update-application-use-service =
 update-enable-search-update =
     .label = ធ្វើ​បច្ចុប្បន្នភាព​ម៉ាស៊ីន​ស្វែងរក​ដោយស្វ័យប្រវត្តិ
     .accesskey = e
+update-pref-write-failure-title = សរសេរមិនបានទេ
 
 ## General Section - Performance
 
@@ -510,6 +511,10 @@ history-clear-button =
 sitedata-header = ខូឃី និងទិន្នន័យ​គេហទំព័រ
 sitedata-total-size-calculating = កំពុងគណនាទិន្នន័យតំបន់បណ្តាញ និងទំហំឃ្លាំងសម្ងាត់…
 sitedata-learn-more = ស្វែងយល់​បន្ថែម
+# This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
+# The list items are the strings named sitedata-block-*-option*.
+sitedata-block-desc = ប្រភេទខ្លឹមផ្សាដែលបានទប់ស្កាត់
+    .accesskey = T
 sitedata-clear =
     .label = សម្អាតទិន្នន័យ...
     .accesskey = l
