@@ -1130,5 +1130,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Voit hallita lisäosia avaamalla <image class='addon-toolbar-icon'/>-valikon ja napsauttamalla <image class='addon-addon-icon'/>-kuvaketta.">
 
-<!ENTITY addonPrivateBrowsing.okButton.label "Selvä, ymmärretty">
+<!ENTITY addonPrivateBrowsing.okButton.label "Selvä">
 <!ENTITY addonPrivateBrowsing.manageButton.label "Hallitse laajennuksia">
