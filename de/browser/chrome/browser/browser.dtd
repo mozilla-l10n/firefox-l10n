@@ -111,6 +111,7 @@ These items have the same accesskey but will never be visible at the same time. 
 
 <!-- LOCALIZATION NOTE (allTabsMenu.searchTabs.label): "Search" is a verb, as
 in "Search through tabs". -->
+<!ENTITY  allTabsMenu.searchTabs.label       "Tab suchen">
 
 <!ENTITY tabCmd.label "Neuer Tab">
 <!ENTITY tabCmd.accesskey "T">
@@ -634,6 +635,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
+<!ENTITY pocketButton.tooltiptext     "In Pocket speichern">
+<!ENTITY saveToPocketCmd.label        "Seite in Pocket speichern">
+<!ENTITY saveToPocketCmd.accesskey    "o">
+<!ENTITY saveLinkToPocketCmd.label    "Link in Pocket speichern">
+<!ENTITY saveLinkToPocketCmd.accesskey "o">
+<!ENTITY pocketMenuitem.label         "Pocket-Liste">
 
 <!ENTITY emailPageCmd.label           "Link per E-Mail senden…">
 <!ENTITY emailPageCmd.accesskey       "s">
@@ -873,7 +880,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsReloadHint "Eventuell muss die Seite neu geladen werden, um die Änderungen zu übernehmen.">
 <!ENTITY identity.permissionsPreferences.tooltip "Berechtigungs-Einstellungen öffnen">
 
-<!ENTITY identity.contentBlockingPreferences.tooltip "Öffnen der Einstellungen zum Blockieren von Seitenelementen">
+<!ENTITY identity.contentBlockingPreferences.tooltip "Einstellungen zum Blockieren von Seitenelementen öffnen">
 
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
