@@ -9,5 +9,7 @@
 
 <!ENTITY window.title "Маңызды жаңалықтар">
 <!ENTITY window.style "width: 490px">
+<!ENTITY sync "Сіз Firefox-қа бұрыннан сақтаған ақпаратпен бұл &brandShortName; орнатуымен бөлісу үшін, өзіңіздің &syncBrand.fxAccount.label; кіріңіз.">
 <!ENTITY continue-button "Жалғастыру">
 
+<!ENTITY mainText "Бұл &brandShortName; орнатуында жаңа профиль бар. Ол бұл компьютердегі басқа Firefox орнатуларымен (соның ішінде Firefox, Firefox ESR, Firefox Beta, Firefox Developer Edition, және Firefox Nightly) бетбелгілер, парольдер және пайдаланушы баптауларымен бөліспейді.">
