@@ -1133,9 +1133,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Administrescha tes supplements cun cliccar sin <image class='addon-addon-icon'/> en il menu <image class='addon-toolbar-icon'/>.">
+<!ENTITY addonPostInstall.incognito.label "Lubir a questa extensiun dad esser activa en fanestras privatas.">
+<!ENTITY addonPostInstall.incognito.accesskey "L">
 
-<!ENTITY addonPrivateBrowsing.header.label "Extensiuns en fanestras privatas">
-<!ENTITY addonPrivateBrowsing.body.label "Extensiuns na dastgan tenor la configuraziun predefinida betg vegnir exequidas en fanestras privatas. Quai vul dir ch'ellas na funcziunan betg durant la navigaziun privata e ch'ellas n'han nagin access a tia activitad online. Ti pos dentant permetter mintga extensiun en il modus privat cun modifitgar las preferenzas.">
 <!ENTITY addonPrivateBrowsing.okButton.label "Ok, chapì">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "O">
 <!ENTITY addonPrivateBrowsing.manageButton.label "Administrar las extensiuns">

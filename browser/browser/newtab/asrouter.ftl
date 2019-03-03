@@ -3,12 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 cfr-doorhanger-extension-heading = Extensiun recumandada
+cfr-doorhanger-pintab-heading = Emprova quai: Fixar quest tab
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Pertge ves jau quai
 cfr-doorhanger-extension-cancel-button = Betg ussa
     .accesskey = B
 cfr-doorhanger-extension-ok-button = Agiuntar ussa
     .accesskey = A
+cfr-doorhanger-pintab-ok-button = Fixar quest tab
+    .accesskey = F
 cfr-doorhanger-extension-manage-settings-button = Administrar ils parameters da recumandaziun
     .accesskey = A
 cfr-doorhanger-extension-never-show-recommendation = Betg ma mussar questa recumandaziun
@@ -41,3 +44,12 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } utilisader
        *[other] { $total } utilisaders
     }
+cfr-doorhanger-pintab-description = Acceda a moda simpla a las paginas che ti visitas il pli savens. Las tegna avert en in tab (schizunt suenter avair reavià).
+
+## These messages are steps on how to use the feature and are shown together.
+
+cfr-doorhanger-pintab-step1 = <b>Clicca cun la tasta dretga da la mieur</b> sin il tab che ti vuls fixar.
+cfr-doorhanger-pintab-step2 = Tscherna <b>Fixar il tab</b> en il menu.
+cfr-doorhanger-pintab-step3 = Sche la pagina è vegnida actualisada vesas ti in punct blau sin il tab fixà.
+cfr-doorhanger-pintab-animation-pause = Pausa
+cfr-doorhanger-pintab-animation-resume = Cuntinuar
