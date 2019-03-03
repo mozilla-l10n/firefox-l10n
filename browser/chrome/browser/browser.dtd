@@ -1135,6 +1135,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addonPostInstall.incognito.accesskey "L">
 
 <!ENTITY addonPrivateBrowsing.body2.label "Visi naujai priedai, kuriuos pridėsite į „&brandShorterName;“, neveiks privačiojo naršymo languose, nebent leisite tai per nuostatas.">
+<!ENTITY addonPrivateBrowsing.learnMore.label "Sužinokite, kaip tvarkyti priedų nuostatas.">
 <!ENTITY addonPrivateBrowsing.okButton.label "Gerai, supratau">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "G">
 <!ENTITY addonPrivateBrowsing.manageButton.label "Tvarkyti priedus">

@@ -139,11 +139,12 @@ legacy-warning-show-legacy = Rodyti pasenusius plėtinius
 legacy-extensions =
     .value = Pasenę plėtiniai
 legacy-extensions-description = Šie plėtiniai neatitinka esamų „{ -brand-short-name }“ standartų, tad buvo išjungti. <label data-l10n-name="legacy-learn-more">Sužinokite apie priedų pokyčius</label>
-private-browsing-description =
-    Priedams neleidžiama veikti privačiojo naršymo languose. Tai reiškia, kad jie neveiks naršant
-    privačiai, ir jie neturės prieigos prie jūsų veiksmų internete. Norėdami leisti priedui veikti
-    privačiojo naršymo languose, pasirinkite jo kortelę žemiau ir pakeiskite savo nuostatą.
-    <label data-l10n-name="private-browsing-learn-more">Sužinoti daugiau.</label>
+private-browsing-description2 =
+    „{ -brand-short-name }“ keičia priedų veikimą privačiojo naršymo languose. Visi nauji priedai, kuriuos pridėsite į
+    „{ -brand-short-name }“, neveiks privačiojo naršymo languose. Nebent leisite tai per nuostatas, priedas
+    neveiks naršant privačiai, ir neturės prieigos prie tokios jūsų veiklos. Šį pakeitimą atlikome
+    norėdami išlaikyti jūsų privatųjį naršymą privačiu.
+    <label data-l10n-name="private-browsing-learn-more">Sužinokite, kaip tvarkyti priedų nuostatas.</label>
 extensions-view-discover =
     .name = Parsisiųsti priedų
     .tooltiptext = { extensions-view-discover.name }
