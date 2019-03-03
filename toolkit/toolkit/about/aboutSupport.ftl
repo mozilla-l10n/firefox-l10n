@@ -245,6 +245,7 @@ effective-content-sandbox-level = Sandboxnivo fan effektyf ynhâldsproses
 sandbox-proc-type-content = ynhâld
 sandbox-proc-type-file = bestânsynhâld
 sandbox-proc-type-media-plugin = mediaynstekker
+sandbox-proc-type-data-decoder = gegevensdecoder
 launcher-process-status-0 = Ynskeakele
 launcher-process-status-1 = Utskeakele fanwegen flater
 launcher-process-status-2 = Forsearre útskeakele

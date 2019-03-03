@@ -1133,9 +1133,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Behear jo add-ons troch op <image class='addon-addon-icon'/> yn it menu <image class='addon-toolbar-icon'/> te klikken.">
+<!ENTITY addonPostInstall.incognito.label "Dizze útwreiding tastean om yn priveefinsters útfierd te wurden.">
+<!ENTITY addonPostInstall.incognito.accesskey "D">
 
-<!ENTITY addonPrivateBrowsing.header.label "Utwreidingen yn priveefinsters">
-<!ENTITY addonPrivateBrowsing.body.label "Utwreidingen meie yn priveefinsters standert net útfierd wurde. Se sille net wurkje wylst priveenavigaasje, en gjin tagong hawwe ta jo online-aktiviteiten. Jo kinne it útfieren fan elke útwreiding yn priveefinsters tastean troch jo ynstellingen te behearen.">
+<!ENTITY addonPrivateBrowsing.header2.label "Wiziging oan útwreidingen yn priveefinsters">
+<!ENTITY addonPrivateBrowsing.body2.label "Nije útwreidingen dy't jo oan &brandShorterName; tafoegje wurkje net yn priveefinsters, útsein jo dit tastean yn de ynstellingen.">
+<!ENTITY addonPrivateBrowsing.learnMore.label "Mear ynfo oer it behearen fan útwreidingen-ynstellingen.">
 <!ENTITY addonPrivateBrowsing.okButton.label "Okee, begrepen">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "O">
 <!ENTITY addonPrivateBrowsing.manageButton.label "Utwreidingen beheare">
