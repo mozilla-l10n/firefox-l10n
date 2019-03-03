@@ -37,6 +37,7 @@
                        text for the search box.   -->
 <!ENTITY aboutPrivateBrowsing.search.placeholder         "Интернетте іздеу">
 <!ENTITY aboutPrivateBrowsing.info.title                 "Сіз жекелік шолу режиміндегі терезедесіз">
+<!ENTITY aboutPrivateBrowsing.info.description           "&brandShortName; қолданба немесе барлық жекелік шолу беттері және терезелері жабылғанда іздеулер және шолу тарихын өшіреді. Бұл сізді веб-сайттар немесе интернет қызметін ұсынушысына анонимды етпесе де, бұл компьютерді қолданатын басқа адамдардан сіздің интернеттегі белсенділікті жасырын сақтауға жол береді.">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article
                        about private browsing myths.   -->
 <!ENTITY aboutPrivateBrowsing.info.myths                 "Жекелік шолу туралы кең тараған аңыздар">
