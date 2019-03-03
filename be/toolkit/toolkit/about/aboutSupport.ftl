@@ -250,6 +250,7 @@ effective-content-sandbox-level = Дзейны ўзровень ізаляцыі
 sandbox-proc-type-content = змесціва
 sandbox-proc-type-file = змесціва файла
 sandbox-proc-type-media-plugin = медыяплагін
+sandbox-proc-type-data-decoder = дэкодар даных
 launcher-process-status-0 = Уключана
 launcher-process-status-1 = Адключана з-за збою
 launcher-process-status-2 = Прымусова адключана

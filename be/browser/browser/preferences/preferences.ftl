@@ -338,6 +338,9 @@ browsing-search-on-start-typing =
 browsing-cfr-recommendations =
     .label = Рэкамендаваць пашырэнні цягам аглядання
     .accesskey = Р
+browsing-cfr-features =
+    .label = Рэкамендаваць функцыі цягам аглядання
+    .accesskey = а
 browsing-cfr-recommendations-learn-more = Падрабязней
 
 ## General Section - Proxy
