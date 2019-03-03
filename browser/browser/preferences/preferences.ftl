@@ -338,6 +338,9 @@ browsing-search-on-start-typing =
 browsing-cfr-recommendations =
     .label = Odporúčať rozšírenia počas prehliadania
     .accesskey = O
+browsing-cfr-features =
+    .label = Odporúčať funkcie počas prehliadania
+    .accesskey = f
 browsing-cfr-recommendations-learn-more = Ďalšie informácie
 
 ## General Section - Proxy
@@ -530,6 +533,9 @@ sync-device-name-save =
     .accesskey = U
 sync-mobilepromo-single = Pripojiť ďalšie zariadenie
 sync-mobilepromo-multi = Spravovať zariadenia
+sync-connect-another-device = Pripojiť ďalšie zariadenie
+sync-manage-devices = Spravovať zariadenia
+sync-fxa-begin-pairing = Spárovať zariadenie
 sync-tos-link = Podmienky používania služby
 sync-fxa-privacy-notice = Zásady ochrany súkromia
 
