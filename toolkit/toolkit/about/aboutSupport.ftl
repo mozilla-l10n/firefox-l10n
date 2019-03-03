@@ -247,6 +247,7 @@ effective-content-sandbox-level = Efektyvus turinio procesų izoliavimo lygmuo
 sandbox-proc-type-content = turinys
 sandbox-proc-type-file = failo turinys
 sandbox-proc-type-media-plugin = medijos įskiepis
+sandbox-proc-type-data-decoder = duomenų iškoduotuvas
 launcher-process-status-0 = Įjungta
 launcher-process-status-1 = Išjungta dėl gedimo
 launcher-process-status-2 = Išjungta priverstinai
