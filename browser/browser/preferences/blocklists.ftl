@@ -32,4 +32,4 @@ blocklist-item-moz-full-desc = Estää tunnetut seuraimet. Joidenkin sivustojen 
 blocklist-item-moz-std-listName = Tason 1 estolista (suositeltu).
 blocklist-item-moz-std-description = Sallii jotkin seuraimet, jotta useimmat verkkosivustot eivät rikkoutuisi.
 blocklist-item-moz-full-listName = Tason 2 estolista.
-blocklist-item-moz-full-description = Estää kaikki havaitut seuraimet. Jotkin verkkosivustot tai sivujen sisältö ei välttämättä lataudu kunnolla.
+blocklist-item-moz-full-description = Estää kaikki havaitut seuraimet. Jotkin sivustot tai niiden sisältö ei välttämättä lataudu kunnolla.
