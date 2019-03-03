@@ -139,7 +139,12 @@ legacy-warning-show-legacy = Eski teknoloji eklentileri göster
 legacy-extensions =
     .value = Eski teknoloji eklentiler
 legacy-extensions-description = Bu eklentiler yeni { -brand-short-name } standartlarını karşılamadığı için etkisiz hale getirilmiştir. <label data-l10n-name="legacy-learn-more">Eklentilerde yaptığımız değişiklikler hakkında bilgi alın</label>
-private-browsing-description = Gizli pencerede eklentilerinizin çalışmasına izin verilmez. Bu sayede, gizli gezinti sırasında web'de yaptıklarınızı göremezler. Belli bir eklentinin gizli pencerelerde de çalışmasını isterseniz aşağıdan o eklentinin kartını seçerek izin ayarını değiştirebilirsiniz. <label data-l10n-name="private-browsing-learn-more">Daha fazla bilgi alın.</label>
+private-browsing-description2 =
+    { -brand-short-name } gizli gezinti modunda eklentilerin çalışma şekli değişiyor. Bundan sonra
+    { -brand-short-name } tarayıcınıza ekleceğiniz eklentiler varsayılan olarak gizli pencerelerde çalışmayacak.
+    Böylece, siz ayarlara girip özellikle izin vermedikçe eklentiler gizli gezinti sırasında yaptıklarınızı göremeyecekler.
+    Bu değişikliği, gizli gezintinizin daha da gizli kalması için yapıyoruz.
+    <label data-l10n-name="private-browsing-learn-more">Eklenti ayarlarınızı yönetmeyi öğrenin.</label>
 extensions-view-discover =
     .name = Eklentileri edinin
     .tooltiptext = { extensions-view-discover.name }
