@@ -10,7 +10,10 @@
  given Firefox channel". These terms are not synonymous.
 -->
 <!ENTITY window.title "Ha ejecutado una versión antigua de Firefox">
+<!ENTITY window.style "width: 490px;">
 
+<!ENTITY window.nosync "Usar una versión antigua de Firefox puede corromper los marcadores y el historial de navegación ya guardados en un perfil de Firefox existente. Para proteger su información, cree un nuevo perfil para esta instalación de &brandShortName;.">
+<!ENTITY window.sync "Usar una versión antigua de Firefox puede corromper los marcadores y el historial de navegación ya guardados en un perfil de Firefox existente. Para proteger su información, cree un nuevo perfil para esta instalación de &brandShortName;. Siempre puede conectarse a una &syncBrand.fxAccount.label; para sincronizar sus marcadores e historial de navegación entre perfiles.">
 
 <!ENTITY window.create "Crear nuevo perfil">
 <!ENTITY window.quit-win "Salir">
