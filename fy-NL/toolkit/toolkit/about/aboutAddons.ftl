@@ -144,11 +144,12 @@ legacy-warning-show-legacy = Ferâldere útwreidingen toane
 legacy-extensions =
     .value = Ferâldere útwreidingen
 legacy-extensions-description = Dizze útwreidingen foldogge op dit stuit net oan de { -brand-short-name }-standerts binne dêrom de-aktivearre. <label data-l10n-name="legacy-learn-more">Lear mear oer de wizigingen oan add-ons</label>
-private-browsing-description =
-    Utwreidingen meie yn priveefinsters standert net útfierd wurde. Dit betsjut dat se wylst priveenavigaasje
-    net wurkje sille, en dêryn gjin tagong hawwe sille ta jo online-aktiviteiten. Om it útfieren fan in
-    útwreiding yn priveefinsters ta te stean, selektearje jo hjirûnder de útwreidingskaart en wizigje jo de ynstelling.
-    <label data-l10n-name="private-browsing-learn-more">Mear ynfo.</label>
+private-browsing-description2 =
+    { -brand-short-name } wizigt de manier wêrop útwreidingen yn priveenavigaasje wurkje. Nije útwreidingen dy't jo oan
+    { -brand-short-name } tafoegje, wurkje standert net yn priveefinsters. Utsein jo dit tastean yn de ynstellingen, wurket
+    de útwreiding net yn priveenavigaasje, en hat dizze dêryn gjin tagong ta jo online-aktiviteiten.
+    Dizze wiziging is oanbrocht om jo priveenavigaasje privee te hâlden.
+    <label data-l10n-name="private-browsing-learn-more">Mear ynfo oer it behearen fan útwreidingen-ynstellingen.</label>
 extensions-view-discover =
     .name = Add-ons krije
     .tooltiptext = { extensions-view-discover.name }
