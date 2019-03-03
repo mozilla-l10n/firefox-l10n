@@ -282,6 +282,7 @@ update-application-check-choose =
 update-application-manual =
     .label = Жаңартуларды тексермеу (ұсынылмайды)
     .accesskey = р
+update-application-warning-cross-user-setting = Бұл баптау бұл { -brand-short-name } орнатуын қолдатын барлық Windows тіркелгілері және { -brand-short-name } профильдері үшін іске асады.
 update-application-use-service =
     .label = Жаңартуларды орнату үшін фон қызметін қолдану
     .accesskey = ф
@@ -334,6 +335,9 @@ browsing-search-on-start-typing =
 browsing-cfr-recommendations =
     .label = Шолу кезінде кеңейтулерді ұсыну
     .accesskey = с
+browsing-cfr-features =
+    .label = Шолу кезінде мүмкіндіктерді ұсыну
+    .accesskey = м
 browsing-cfr-recommendations-learn-more = Көбірек білу
 
 ## General Section - Proxy
@@ -608,6 +612,7 @@ sitedata-learn-more = Көбірек білу
 sitedata-delete-on-close =
     .label = { -brand-short-name } жабылған кезде cookies және сайттар деректерін өшіру
     .accesskey = ш
+sitedata-delete-on-close-private-browsing = Тұрақты жекелік шолу режимінде { -brand-short-name } жабылған кезде cookie файлдары және сайт деректері әрқашан өшірілетін болады.
 sitedata-allow-cookies-option =
     .label = Cookies және сайт деректерін қабылдау
     .accesskey = а
@@ -677,6 +682,7 @@ content-blocking-all-windows-trackers = Барлық терезелердегі 
 content-blocking-all-third-party-cookies = Барлық үшінші жақты cookies
 content-blocking-warning-title = Ескерту!
 content-blocking-warning-desc = Cookies файлдарын және трекерлерді бұғаттау кейбір веб-сайттар жұмысын бұзуы мүмкін. Өзіңіз сенетін сайттар үшін бұғаттауды сөндіру оңай.
+content-blocking-warning-description = Құраманы бұғаттау кейбір веб-сайттар жұмысын бұзуы мүмкін. Сенімді сайттар үшін бұғаттауды өшіру оңай.
 content-blocking-learn-how = Көбірек білу
 content-blocking-trackers-label =
     .label = Трекерлер
@@ -695,6 +701,11 @@ content-blocking-cookies-label =
 content-blocking-cryptominers-label =
     .label = Криптомайнерлер
     .accesskey = и
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+content-blocking-fingerprinters-label =
+    .label = Баспаны жинаушылар
+    .accesskey = б
 
 ## Privacy Section - Tracking
 
@@ -729,6 +740,9 @@ permissions-block-autoplay-media =
     .label = Веб-сайттарға дыбысы бар медианы автоойнатуды бұғаттау
     .accesskey = б
 permissions-block-autoplay-media-menu = Дыбысты автоойнайтын веб-сайттар үшін
+permissions-block-autoplay-media2 =
+    .label = Веб-сайттардың автоматты түрде дыбыс ойнатауын бұғаттау
+    .accesskey = д
 permissions-block-autoplay-media-exceptions =
     .label = Ережелерден бөлек…
     .accesskey = Е

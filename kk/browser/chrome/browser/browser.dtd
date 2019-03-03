@@ -880,6 +880,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsReloadHint "Өзгерістер іске асуы үшін бұл парақты қайта жүктеуіңіз керек болуы мүмкін.">
 <!ENTITY identity.permissionsPreferences.tooltip "Рұқсаттар баптауларын ашу">
 
+<!ENTITY identity.contentBlockingPreferences.tooltip "Құраманы бұғаттау баптауларын ашу">
 
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -998,6 +999,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cryptominers.label "Криптомайнерлер">
 <!ENTITY contentBlocking.cryptominersView.label "Криптомайнерлер">
 
+<!ENTITY contentBlocking.fingerprinters.label "Баспаны жинаушылар">
+<!ENTITY contentBlocking.fingerprintersView.label "Баспаны жинаушылар">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Мәселені хабарлау">
 <!ENTITY contentBlocking.breakageReportView.label "Мәселелерді хабарлау">
@@ -1130,8 +1133,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Қосымшаларыңызды <image class='addon-toolbar-icon'/> мәзірінен <image class='addon-addon-icon'/> шерту арқылы басқарыңыз.">
+<!ENTITY addonPostInstall.incognito.label "Бұл кеңейтуге жекелік шолу терезелерінде орындалуға рұқсат ету.">
+<!ENTITY addonPostInstall.incognito.accesskey "а">
 
-<!ENTITY addonPrivateBrowsing.header.label "Жекелік шолу режиміндегі кеңейтулер">
+<!ENTITY addonPrivateBrowsing.header2.label "Жекелік шолу режиміндегі кеңейтулерге өзгеріс">
+<!ENTITY addonPrivateBrowsing.body2.label "&brandShorterName; ішіне қосылған әрбір жаңа кеңейту жекелік шолу терезелерінде жасамайды, сіз оған рұқсат беруіңіз керек.">
+<!ENTITY addonPrivateBrowsing.learnMore.label "Кеңейту баптауларын қалай басқаруға болатынын білу.">
 <!ENTITY addonPrivateBrowsing.okButton.label "Жақсы, түсіндім">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "а">
 <!ENTITY addonPrivateBrowsing.manageButton.label "Кеңейтулерді басқару">
