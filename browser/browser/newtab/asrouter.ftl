@@ -3,12 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 cfr-doorhanger-extension-heading = Рэкамендаванае пашырэнне
+cfr-doorhanger-pintab-heading = Паспрабуйце: Прышпіліць картку
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Чаму я гэта бачу
 cfr-doorhanger-extension-cancel-button = Не зараз
     .accesskey = Н
 cfr-doorhanger-extension-ok-button = Дадаць
     .accesskey = Д
+cfr-doorhanger-pintab-ok-button = Прышпіліць гэту картку
+    .accesskey = П
 cfr-doorhanger-extension-manage-settings-button = Кіраваць наладамі рэкамендацый
     .accesskey = ь
 cfr-doorhanger-extension-never-show-recommendation = Не паказваць мне гэту рэкамендацыю
@@ -43,3 +46,12 @@ cfr-doorhanger-extension-total-users =
         [few] { $total } карыстальнікі
        *[other] { $total } карыстальнікаў
     }
+cfr-doorhanger-pintab-description = Атрымайце зручны доступ да найчасцей наведаных сайтаў. Трымайце сайты адкрытымі ў картках (нават пасля перазапуску).
+
+## These messages are steps on how to use the feature and are shown together.
+
+cfr-doorhanger-pintab-step1 = <b>Націсніце правай кнопкай</b> на картцы, якую хочаце прышпіліць.
+cfr-doorhanger-pintab-step2 = Выберыце <b>Прышпіліць картку</b> ў меню.
+cfr-doorhanger-pintab-step3 = Калі сайт абнавіўся, вы ўбачыце блакітную кропку на прышпіленай картцы.
+cfr-doorhanger-pintab-animation-pause = Прыпыніць
+cfr-doorhanger-pintab-animation-resume = Працягнуць
