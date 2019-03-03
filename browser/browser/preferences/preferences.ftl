@@ -279,6 +279,9 @@ update-application-check-choose =
 update-application-manual =
     .label = Nicht nach Updates suchen (nicht empfohlen)
     .accesskey = d
+
+update-application-warning-cross-user-setting = Diese Einstellung betrifft alle Windows-Konten und { -brand-short-name }-Profile, welche diese Installation von { -brand-short-name } verwenden.
+
 update-application-use-service =
     .label = Einen Hintergrunddienst verwenden, um Updates zu installieren
     .accesskey = g
@@ -602,7 +605,7 @@ sitedata-learn-more = Weitere Informationen
 sitedata-delete-on-close =
     .label = Cookies und Website-Daten beim Beenden von { -brand-short-name } löschen
     .accesskey = B
-sitedata-delete-on-close-private-browsing = Im permanenten Privaten Modus werden Cookies und Website-Daten immer gelöscht, wenn { -brand-short-name } geschlossen wird.
+sitedata-delete-on-close-private-browsing = Wenn der Private Modus immer verwendet wird, löscht { -brand-short-name } Cookies und Website-Daten beim Beenden.
 sitedata-allow-cookies-option =
     .label = Annehmen von Cookies und Website-Daten
     .accesskey = A
@@ -720,6 +723,11 @@ permissions-block-autoplay-media =
     .label = Automatische Wiedergabe von Medien mit Ton durch Websites verhindern
     .accesskey = W
 permissions-block-autoplay-media-menu = Bei automatischer Wiedergabe von Ton durch Websites
+
+permissions-block-autoplay-media2 =
+    .label = Automatische Wiedergabe von Audio-Inhalten verhindern
+    .accesskey = u
+
 permissions-block-autoplay-media-exceptions =
     .label = Ausnahmen…
     .accesskey = A
