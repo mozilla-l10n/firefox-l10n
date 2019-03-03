@@ -90,6 +90,7 @@ detail-update-manual =
     .tooltiptext = Жаңартуларды автоорнатпау
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Жекелік шолу режиміндегі терезелерде орындау
+detail-private-browsing-description = Кеңейту жекелік терезелерінде жұмыс істейтін болады, және сіздің желідегі белсенділікке қол жеткізе алады. <label data-l10n-name="detail-private-browsing-learn-more">Көбірек білу</label>
 detail-private-browsing-on =
     .label = Рұқсат ету
     .tooltiptext = Жекелік шолу режимінде іске қосу
