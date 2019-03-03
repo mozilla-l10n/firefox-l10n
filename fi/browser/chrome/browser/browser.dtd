@@ -996,6 +996,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Evästeet">
 <!ENTITY contentBlocking.cookiesView.label "Evästeet ja sivustotiedot">
 
+
+
 <!ENTITY contentBlocking.openBreakageReportView2.label "Ilmoita ongelmasta">
 <!ENTITY contentBlocking.breakageReportView.label "Ilmoita ongelmista">
 <!ENTITY contentBlocking.breakageReportView2.description "Sisällön esto voi aiheuttaa ongelmia joillakin sivustoilla. Ongelmista ilmoittaminen auttaa tekemään &brandShortName;ista paremman kaikille. (Ilmoittaminen lähettää Mozillalle sivun osoitteen sekä tietoja selainasetuksistasi.)">
@@ -1128,5 +1130,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Voit hallita lisäosia avaamalla <image class='addon-toolbar-icon'/>-valikon ja napsauttamalla <image class='addon-addon-icon'/>-kuvaketta.">
 
-<!ENTITY addonPrivateBrowsing.header.label "Laajennukset yksityisissä ikkunoissa">
+<!ENTITY addonPrivateBrowsing.okButton.label "Selvä, ymmärretty">
 <!ENTITY addonPrivateBrowsing.manageButton.label "Hallitse laajennuksia">
