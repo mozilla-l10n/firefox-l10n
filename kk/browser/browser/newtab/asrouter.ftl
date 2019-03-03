@@ -3,12 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 cfr-doorhanger-extension-heading = Ұсынылатын кеңейту
+cfr-doorhanger-pintab-heading = Осыны көріңіз: Бетті бекіту
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Мен бұны неге көріп отырмын
 cfr-doorhanger-extension-cancel-button = Қазір емес
     .accesskey = м
 cfr-doorhanger-extension-ok-button = Қазір қосу
     .accesskey = а
+cfr-doorhanger-pintab-ok-button = Бұл бетті бекіту
+    .accesskey = б
 cfr-doorhanger-extension-manage-settings-button = Ұсыныстар параметрлерін басқару
     .accesskey = б
 cfr-doorhanger-extension-never-show-recommendation = Бұл ұсынысты маған көрсетпеу
@@ -39,3 +42,8 @@ cfr-doorhanger-extension-total-users =
     { $total ->
        *[other] { $total } пайдаланушы
     }
+
+## These messages are steps on how to use the feature and are shown together.
+
+cfr-doorhanger-pintab-animation-pause = Аялдату
+cfr-doorhanger-pintab-animation-resume = Жалғастыру
