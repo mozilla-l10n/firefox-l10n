@@ -77,8 +77,11 @@
 <!ENTITY Birthday.label                 "Jierdei:">
 <!ENTITY Birthday.accesskey             "J">
 <!ENTITY In.label                       "">
+<!ENTITY Month.placeholder              "Moanne">
+<!ENTITY Day.placeholder                "Dei">
 <!ENTITY Year.placeholder               "Jier">
 <!ENTITY Or.value                       "of">
+<!ENTITY Age.label                      "Leeftiid:">
 <!ENTITY Age.placeholder                "Leeftiid">
 <!ENTITY YearsOld.label                 "">
 
@@ -141,7 +144,6 @@
 
 <!ENTITY Photo.tab                      "Foto">
 <!ENTITY Photo.accesskey                "o">
-<!ENTITY PhotoDesc.label                "Kies ien fan de folgjende:">
 <!ENTITY GenericPhoto.label             "Algemiene foto">
 <!ENTITY GenericPhoto.accesskey         "g">
 <!ENTITY DefaultPhoto.label             "Standert">
