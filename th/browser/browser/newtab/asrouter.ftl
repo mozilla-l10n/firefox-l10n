@@ -47,6 +47,7 @@ cfr-doorhanger-pintab-description = เข้าถึงเว็บที่�
 ## These messages are steps on how to use the feature and are shown together.
 
 cfr-doorhanger-pintab-step1 = <b>คลิกขวา</b> บนแท็บที่คุณต้องการจะปัก
+cfr-doorhanger-pintab-step2 = เลือก <b>ปักหมุดแท็บ</b> จากเมนู
 cfr-doorhanger-pintab-step3 = หากเว็บไซต์มีการเปลี่ยนแปลง คุณจะได้เห็นจุดสีฟ้าบนแท็บที่ถูกปัก
 cfr-doorhanger-pintab-animation-pause = หยุดชั่วคราว
 cfr-doorhanger-pintab-animation-resume = ทำต่อ
