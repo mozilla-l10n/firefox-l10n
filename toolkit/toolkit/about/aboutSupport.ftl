@@ -247,6 +247,7 @@ effective-content-sandbox-level = Účinná úroveň sandboxu procesu s obsahom
 sandbox-proc-type-content = obsah
 sandbox-proc-type-file = obsah súboru
 sandbox-proc-type-media-plugin = zásuvný modul médií
+launcher-process-status-unknown = Neznámy stav
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
