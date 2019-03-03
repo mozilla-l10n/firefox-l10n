@@ -140,7 +140,7 @@ legacy-extensions =
     .value = 旧式扩展
 legacy-extensions-description = 这些扩展不符合现今的 { -brand-short-name } 标准，因此已被停用。 <label data-l10n-name="legacy-learn-more">了解附加组件的变化</label>
 private-browsing-description2 =
-    扩展在 { -brand-short-name } 隐私浏览模式中的运行权限有了调整。默认情况下，任何新添加至 { -brand-short-name } 的扩展均不会在隐私窗口中运行。除非您在设置中明确允许，否则扩展将在隐私浏览模式中停止运行，也无法获知您的在线活动。这项调整旨在确保您的隐私浏览足够私密。
+    扩展在 { -brand-short-name } 隐私浏览模式中的运行权限有所调整。默认情况下，任何新添加至 { -brand-short-name } 的扩展均不会在隐私窗口中运行。除非您在设置中明确允许，否则扩展将在隐私浏览模式中停止运行，也无法获知您的在线活动。这项调整旨在确保您的隐私浏览足够私密。
     <label data-l10n-name="private-browsing-learn-more">了解如何管理扩展设置。</label>
 extensions-view-discover =
     .name = 获取附加组件
