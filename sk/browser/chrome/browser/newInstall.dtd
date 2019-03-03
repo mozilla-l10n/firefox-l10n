@@ -9,5 +9,7 @@
 
 <!ENTITY window.title "Dôležité novinky">
 <!ENTITY window.style "width: 490px">
+<!ENTITY sync "Ak chcete synchronizovať údaje, ktoré už máte v tejto inštalácii aplikácie &brandShortName; uložené, prosím, prihláste sa ku svoju účtu Firefox.">
 <!ENTITY continue-button "Pokračovať">
 
+<!ENTITY mainText "Táto inštalácia aplikácie &brandShortName; má nový profil. To znamená, že už automaticky nezdieľa záložky, heslá a vaše nastavenia s ostatnými inštaláciami Firefoxu (vrátane bežnej verzie Firefoxu, Firefoxu ESR, Firefoxu Beta, Firefoxu Developer Edition a Firefoxu Nightly) na tomto počítači.">
