@@ -3,12 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 cfr-doorhanger-extension-heading = Oanrekommandearre útwreiding
+cfr-doorhanger-pintab-heading = Probearje dit: Ljepblêd fêstsette
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Wêrom sjoch ik dit
 cfr-doorhanger-extension-cancel-button = No net
     .accesskey = N
 cfr-doorhanger-extension-ok-button = No tafoegje
     .accesskey = t
+cfr-doorhanger-pintab-ok-button = Dit ljepblêd fêstsette
+    .accesskey = f
 cfr-doorhanger-extension-manage-settings-button = Ynstellingen foar oanrekommandaasjes beheare
     .accesskey = o
 cfr-doorhanger-extension-never-show-recommendation = Dizze oanrekommandaasje net toane
@@ -41,3 +44,6 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } brûker
        *[other] { $total } brûkers
     }
+
+## These messages are steps on how to use the feature and are shown together.
+
