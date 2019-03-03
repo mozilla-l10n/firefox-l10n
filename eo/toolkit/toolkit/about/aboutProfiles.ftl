@@ -27,6 +27,7 @@ profiles-remove = Forigi
 profiles-set-as-default = Igi profilon norma
 profiles-launch-profile = Lanĉi profilon en nova retumilo
 profiles-cannot-set-as-default-title = Ne eblis igi ĝin norma
+profiles-cannot-set-as-default-message = Ne eblas ŝanĝi la ĉefan profilon de { -brand-short-name }.
 profiles-yes = jes
 profiles-no = ne
 profiles-rename-profile-title = Renomi profilon
