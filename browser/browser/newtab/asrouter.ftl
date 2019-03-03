@@ -42,8 +42,12 @@ cfr-doorhanger-extension-total-users =
     { $total ->
        *[other] { $total } пайдаланушы
     }
+cfr-doorhanger-pintab-description = Жиі қолданатын сайттарыңызға ыңғайлы қатынаңыз. Сайттарды бетте ашық ұстаңыз (қайта қосылсаңыз да).
 
 ## These messages are steps on how to use the feature and are shown together.
 
+cfr-doorhanger-pintab-step1 = Бекіткіңіз келетін бетке <b>оң жақпен шертіңіз</b>.
+cfr-doorhanger-pintab-step2 = Мәзірден <b>Бетті бекітуді</b> таңдаңыз.
+cfr-doorhanger-pintab-step3 = Сайтта жаңарту болса, бекітілген бетте көк нүктені көретін боласыз.
 cfr-doorhanger-pintab-animation-pause = Аялдату
 cfr-doorhanger-pintab-animation-resume = Жалғастыру
