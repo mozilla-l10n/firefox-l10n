@@ -44,6 +44,7 @@ app-basics-memory-use = Жады қолданылуы
 app-basics-performance = Өнімділік
 app-basics-service-workers = Тіркелген жұмыс үрдістері
 app-basics-profiles = Профильдер
+app-basics-launcher-process-status = Жөнелтетін үрдіс
 app-basics-multi-process-support = Мультипроцесс терезелері
 app-basics-process-count = Веб құрамасы процестері
 app-basics-enterprise-policies = Кәсіпоорындық саясаттар
@@ -222,6 +223,8 @@ uses-tiling = Тайлингті қолданады
 content-uses-tiling = Тайлинг қолданады (мазмұны)
 off-main-thread-paint-enabled = Басты емес ағында элементтерді суреттеу іске қосылған
 off-main-thread-paint-worker-count = Негізгі ағыннан тыс салатын воркер саны
+low-end-machine = Өнімділігі аздау машина аяқталды
+target-frame-rate = Кадр/сек мақсат көрсеткіші
 audio-backend = Аудио файлдарын ойнату бағдарламасы
 max-audio-channels = Макс. арналар
 channel-layout = Таңдамалы арналар жаймасы
@@ -239,7 +242,10 @@ effective-content-sandbox-level = Құрамасы бар үрдістер үш�
 sandbox-proc-type-content = құрамасы
 sandbox-proc-type-file = файл құрамасы
 sandbox-proc-type-media-plugin = медиа плагині
+sandbox-proc-type-data-decoder = деректер декодері
 launcher-process-status-0 = Іске қосулы
+launcher-process-status-1 = Ақаулығы салдарынан сөндірілген
+launcher-process-status-2 = Мәжбүрлі сөндірілген
 launcher-process-status-unknown = Қалып-күйі белгісіз
 # Variables
 # $remoteWindows (integer) - Number of remote windows
