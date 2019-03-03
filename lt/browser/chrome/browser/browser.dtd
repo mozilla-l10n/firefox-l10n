@@ -69,7 +69,7 @@ used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
-<!ENTITY  pinTab.label                       "Įsegti kortelę kairėje">
+<!ENTITY  pinTab.label                       "Įsegti kortelę">
 <!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
@@ -1132,8 +1132,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Tvarkykite savo priedus paspausdami <image class='addon-addon-icon'/>, esantį <image class='addon-toolbar-icon'/> meniu.">
 
-<!ENTITY addonPrivateBrowsing.header.label "Priedai privačiojo naršymo languose">
-<!ENTITY addonPrivateBrowsing.body.label "Priedams neleidžiama veikti privačiojo naršymo languose. Jie neveiks naršant privačiai, ir jie neturės prieigos prie jūsų veiksmų internete. Jūs kiekvienam priedui galite suteikti leidimą veikti privačiojo naršymo languose, tai padarydami savo nuostatose.">
 <!ENTITY addonPrivateBrowsing.okButton.label "Gerai, supratau">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "G">
 <!ENTITY addonPrivateBrowsing.manageButton.label "Tvarkyti priedus">

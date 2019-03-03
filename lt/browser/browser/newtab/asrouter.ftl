@@ -3,12 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 cfr-doorhanger-extension-heading = Rekomenduojamas priedas
+cfr-doorhanger-pintab-heading = Pabandykite: kortelės įsegimas
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Kodėl tai matau
 cfr-doorhanger-extension-cancel-button = Ne dabar
     .accesskey = N
 cfr-doorhanger-extension-ok-button = Pridėti dabar
     .accesskey = P
+cfr-doorhanger-pintab-ok-button = Įsegti šią kortelę
+    .accesskey = s
 cfr-doorhanger-extension-manage-settings-button = Tvarkyti rekomendacijų nuostatas
     .accesskey = T
 cfr-doorhanger-extension-never-show-recommendation = Nerodyti man šios rekomendacijos
@@ -43,3 +46,12 @@ cfr-doorhanger-extension-total-users =
         [few] { $total } naudotojai
        *[other] { $total } naudotojų
     }
+cfr-doorhanger-pintab-description = Lengvai pasiekite dažniausiai naudojamas svetaines. Laikykite jas atvertas kortelėse (net kai iš naujo atidarote naršyklę).
+
+## These messages are steps on how to use the feature and are shown together.
+
+cfr-doorhanger-pintab-step1 = <b>Spustelėkite dešiniu pelės mygtuku</b> ant kortelės, kurią norite įsegti.
+cfr-doorhanger-pintab-step2 = Iš meniu pasirinkite <b>įsegti kortelę</b>.
+cfr-doorhanger-pintab-step3 = Jeigu svetainė atsinaujino, ant įsegtos kortelės matysite mėlyną tašką.
+cfr-doorhanger-pintab-animation-pause = Pristabdyti
+cfr-doorhanger-pintab-animation-resume = Tęsti
