@@ -1136,6 +1136,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addonPostInstall.incognito.label "Bu eklentinin gizli pencerelerde çalışmasına izin ver.">
 <!ENTITY addonPostInstall.incognito.accesskey "z">
 
+<!ENTITY addonPrivateBrowsing.header2.label "Gizli pencerelerde eklentiler değişiyor">
+<!ENTITY addonPrivateBrowsing.body2.label "Bundan sonra &brandShorterName; tarayıcınıza ekleyeceğiniz eklentiler, siz özellikle izin vermedikçe gizli pencerelerde çalışmayacak.">
 <!ENTITY addonPrivateBrowsing.learnMore.label "Eklenti ayarlarını yönetmeyi öğrenin.">
 <!ENTITY addonPrivateBrowsing.okButton.label "Tamam, anladım">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "T">
