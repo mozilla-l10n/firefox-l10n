@@ -218,11 +218,26 @@ extensions-updates-update-selected =
 
 ## Extension shortcut management
 
+manage-extensions-shortcuts =
+    .label = Кеңейтудің пернетақта жарлықтарын басқару
+    .accesskey = ж
+shortcuts-empty-message = Бұл кеңейту үшін ешқандай жарлық жоқ.
+shortcuts-no-addons = Сізде ешқандай кеңейтулер орнатылмаған.
+shortcuts-no-commands = Келесі кеңейтулерде жарлықтар жоқ:
 shortcuts-input =
     .placeholder = Жарлықты теріңіз
 shortcuts-browserAction = Кеңейтуді белсендіру
 shortcuts-pageAction = Бет әрекетін белсендіру
 shortcuts-sidebarAction = Бүйір панелін көрсету/жасыру
+shortcuts-modifier-mac = Ctrl, Alt, немесе ⌘ қосыңыз
+shortcuts-modifier-other = Ctrl немесе Alt қосыңыз
+shortcuts-invalid = Комбинация жарамсыз
+shortcuts-letter = Әріпті теріңіз
+shortcuts-system = { -brand-short-name } жарлығын қайта анықтау мүмкін емес
+shortcuts-card-expand-button =
+    { $numberToShow ->
+       *[other] Тағы { $numberToShow } көрсету
+    }
 shortcuts-card-collapse-button = Азырақ көрсету
 go-back-button =
     .tooltiptext = Артқа
