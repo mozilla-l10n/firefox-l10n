@@ -51,15 +51,11 @@
 <!ENTITY fxaccount_getting_started_get_started 'បាន​ចាប់ផ្ដើម'>
 <!ENTITY fxaccount_getting_started_old_firefox 'ប្រើ​កំណែ​ចាស់​នៃ &syncBrand.shortName.label;?'>
 
-<!ENTITY fxaccount_status_signed_in_as 'បាន​ចូល​ជា'>
-<!ENTITY fxaccount_status_manage_account 'គ្រប់គ្រង​គណនី'>
 <!ENTITY fxaccount_status_auth_server 'ម៉ាស៊ីន​មេ​គណនី'>
 <!ENTITY fxaccount_status_sync_now 'ធ្វើ​សមកាលកម្ម​ឥឡូវ'>
 <!ENTITY fxaccount_status_syncing2 'កំពុង​ធ្វើ​សមាកលកម្ម...'>
 <!ENTITY fxaccount_status_device_name 'ឈ្មោះ​ឧបករណ៍'>
 <!ENTITY fxaccount_status_sync_server 'ធ្វើ​សមកាលកម្មម៉ាស៊ីន​មេ'>
-<!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
-<!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: បាន​បើក'>
 <!ENTITY fxaccount_status_needs_verification2 'ចាំបាច់​ត្រូវ​ផ្ទៀងផ្ទាត់​គណនី​របស់​អ្នក។ ប៉ះ​ដើម្បី​ផ្ញើ​អ៊ីមែល​ការ​ផ្ទៀងផ្ទាត់​ឡើង​វិញ។'>
 <!ENTITY fxaccount_status_needs_credentials 'មិន​អាច​តភ្ជាប់។ ប៉ះ​ដើម្បី​ចូល។'>
 <!ENTITY fxaccount_status_needs_upgrade 'អ្នក​ត្រូវ​ធ្វើ​បច្ចុប្បន្នភាព &brandShortName; ដើម្បី​ចូល។'>
@@ -70,6 +66,8 @@
 <!ENTITY fxaccount_status_history 'ប្រវត្តិ'>
 <!ENTITY fxaccount_status_passwords2 'ចូល'>
 <!ENTITY fxaccount_status_tabs 'បើក​ផ្ទាំង'>
+<!-- Localization note: Only affects background syncing, user initiated
+     syncs will still be done regardless of the connection -->
 <!ENTITY fxaccount_status_legal 'ស្រប​ច្បាប់' >
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
@@ -77,13 +75,16 @@
      the two uses differently. -->
 <!ENTITY fxaccount_status_linktos2 'លក្ខខណ្ឌ​ប្រើប្រាស់'>
 <!ENTITY fxaccount_status_linkprivacy2 'ការ​ជូន​ដំណឹង​ពី​ភាព​ឯកជន'>
-<!ENTITY fxaccount_status_more 'ច្រើន​ទៀត&ellipsis;'>
 <!ENTITY fxaccount_remove_account 'ផ្ដាច់ &ellipsis;'>
 
+<!ENTITY fxaccount_remove_account_dialog_title2 'តើអ្នកចង់ផ្ដាច់ពីការធ្វើសមកាលកម្មទេ?'>
+<!ENTITY fxaccount_remove_account_dialog_message2 'ទិន្នន័យការរុករក​របស់​អ្នក​នៅតែមានលើឧបករណ៍នេះ ប៉ុន្តែវានឹងមិនធ្វើសមកាលកម្ម​ជាមួយគណនីរបស់អ្នក​ទៀត​ទេ។'>
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_remove_account_toast2 'គណនី Firefox &formatS; បានផ្ដាច់ការតភ្ជាប់។'>
 <!-- Localization note (fxaccount_remove_account_dialog_action_confirm): This is the label for the
  confirm button in the dialog that shows up when disconnecting from sync. -->
+<!ENTITY fxaccount_remove_account_dialog_action_confirm 'ផ្ដាច់ការតភ្ជាប់'>
 
 <!ENTITY fxaccount_enable_debug_mode 'អនុញ្ញាត​​របៀប​កែ​កំហុស'>
 
@@ -98,21 +99,6 @@
      Account. -->
 <!ENTITY fxaccount_options_title 'ជម្រើស &syncBrand.shortName.label;'>
 <!ENTITY fxaccount_options_configure_title 'កំណត់​រចនា​សម្ព័ន្ធ &syncBrand.shortName.label;'>
-
-<!-- Localization note: these error messages are shown after a request
-     has been made to the remote server, and an error of some type has
-     been returned. -->
-<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED 'អ្នក​ត្រូវ​ធ្វើ​បច្ចុប្បន្នភាព Firefox'>
-
-<!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 'មាន​គណនី​រួច​ហើយ។ &formatS1;'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST 'ឈ្មោះ ឬ​ពាក្យ​សម្ងាត់​មិន​ត្រឹមត្រូវ'>
-<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD 'ពាក្យសម្ងាត់ ឬ​អ៊ីមែល​មិន​ត្រឹមត្រូវ'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT 'គណនី​មិន​ត្រូវ​បាន​ផ្ទៀងផ្ទាត់'>
-<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS 'ម៉ាស៊ីន​មេ​ជាប់​រវល់, ព្យាយាម​ម្ដងទៀត​ឆាប់ៗ​នេះ'>
-<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'ម៉ាស៊ីន​មេ​ជាប់​រវល់, ព្យាយាម​ម្ដងទៀត​ឆាប់ៗ​នេះ'>
-<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR 'មាន​បញ្ហា'>
-<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED 'គណនី​ត្រូវ​បាន​ចាក់សោ។ &formatS1;'>
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; ត្រូវ​បាន​តភ្ជាប់'>
 <!-- Localization note: the format string below will be replaced
