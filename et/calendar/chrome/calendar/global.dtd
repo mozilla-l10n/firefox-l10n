@@ -46,6 +46,8 @@
 
 <!ENTITY onemonthbackward.tooltip "Üks kuu tagasi" >
 <!ENTITY onemonthforward.tooltip "Üks kuu edasi" >
+<!ENTITY oneyearbackward.tooltip "Üks aasta tagasi" >
+<!ENTITY oneyearforward.tooltip "Üks aasta edasi" >
 <!ENTITY showToday.tooltip "Tänase päeva juurde">
 <!ENTITY onedayforward.tooltip "Üks päev edasi">
 <!ENTITY onedaybackward.tooltip "Üks päev tagasi">
