@@ -5,10 +5,10 @@
 # An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
 about-config-warning-title = Varo vaaraa!
 about-config-warning-text = Tällä sivulla olevien asetusten muuttamisella voi olla vahingollisia vaikutuksia tämän ohjelman turvallisuuteen, vakauteen ja suorituskykyyn. Älä koske näihin asetuksiin ellet tiedä tarkalleen, mitä olet tekemässä.
+about-config-warning-checkbox = Häiritse myös ensi kerralla
 about-config-warning-button = Otan riskin
 about-config-title = about:config
-about-config-search =
-    .placeholder = Etsi tai näytä kaikki painamalla Esc
+about-config-show-all = Näytä kaikki
 about-config-pref-add = Lisää
 about-config-pref-toggle = Vaihda tilaa
 about-config-pref-edit = Muokkaa
