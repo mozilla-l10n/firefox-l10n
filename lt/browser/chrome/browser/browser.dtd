@@ -999,6 +999,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cryptominers.label "Kriptovaliutų kasėjai">
 <!ENTITY contentBlocking.cryptominersView.label "Kriptovaliutų kasėjai">
 
+<!ENTITY contentBlocking.fingerprinters.label "Skaitmeninių atspaudų stebėjimas">
+<!ENTITY contentBlocking.fingerprintersView.label "Skaitmeninių atspaudų stebėjimas">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Pranešti apie problemą">
 <!ENTITY contentBlocking.breakageReportView.label "Pranešti apie problemas">
@@ -1134,6 +1136,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addonPostInstall.incognito.label "Leisti šiam priedui veikti privačiojo naršymo languose.">
 <!ENTITY addonPostInstall.incognito.accesskey "L">
 
+<!ENTITY addonPrivateBrowsing.header2.label "Pakeisti į priedus privačioje naršymo languose">
 <!ENTITY addonPrivateBrowsing.body2.label "Visi naujai priedai, kuriuos pridėsite į „&brandShorterName;“, neveiks privačiojo naršymo languose, nebent leisite tai per nuostatas.">
 <!ENTITY addonPrivateBrowsing.learnMore.label "Sužinokite, kaip tvarkyti priedų nuostatas.">
 <!ENTITY addonPrivateBrowsing.okButton.label "Gerai, supratau">
