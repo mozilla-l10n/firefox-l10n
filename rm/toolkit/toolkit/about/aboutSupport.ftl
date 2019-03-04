@@ -245,6 +245,7 @@ effective-content-sandbox-level = Nivel effectiv da sandbox per ils process da c
 sandbox-proc-type-content = cuntegn
 sandbox-proc-type-file = cuntegn da la datoteca
 sandbox-proc-type-media-plugin = plugin per medias
+sandbox-proc-type-data-decoder = decoder da datas
 launcher-process-status-0 = Activà
 launcher-process-status-1 = Deactivà pervia dad errurs
 launcher-process-status-2 = Deactivà cun forza
