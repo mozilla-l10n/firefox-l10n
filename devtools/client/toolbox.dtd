@@ -27,6 +27,8 @@
 <!-- LOCALIZATION NOTE (options.collapseAttrs.label): This is the label
   -  for the checkbox option to enable collapse attributes in the Inspector
   -  panel. -->
+<!ENTITY options.collapseAttrs.label "Cắt bớt các thuộc tính DOM">
+<!ENTITY options.collapseAttrs.tooltip "Cắt ngắn các thuộc tính dài trong trình kiểm tra">
 
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.label): This is the label for a
   -  dropdown list that controls the default color unit used in the inspector.
@@ -67,6 +69,8 @@
 <!-- LOCALIZATION NOTE (options.enableChrome.label5): This is the label for the
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
+<!ENTITY options.enableChrome.label5    "Kích hoạt trình duyệt chrome và các hộp công cụ gỡ lỗi tiện ích">
+<!ENTITY options.enableChrome.tooltip3  "Bật tùy chọn này sẽ cho phép bạn sử dụng các công cụ dành cho nhà phát triển khác nhau trong ngữ cảnh trình duyệt (thông qua Công cụ > Nhà phát triển web > Hộp công cụ trình duyệt) và gỡ lỗi các tiện ích bổ sung từ trình quản lý tiện ích">
 
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
@@ -134,6 +138,8 @@
 
 <!-- LOCALIZATION NOTE (options.sourceMaps.label): This is the
    - label for the checkbox that toggles source maps in all tools -->
+<!ENTITY options.sourceMaps.label      "Bật bản đồ nguồn">
+<!ENTITY options.sourceMaps.tooltip1   "Nếu bạn bật tùy chọn này, các nguồn sẽ được ánh xạ trong các công cụ.">
 
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
@@ -172,6 +178,7 @@ kí hiệu nền tảng Gecko">
   -  section. -->
 
 <!ENTITY options.sourceeditor.label                     "Tùy chỉnh trình soạn thảo">
+<!ENTITY options.sourceeditor.autoclosebrackets.label   "Tự đóng dấu ngoặc">
 <!ENTITY options.sourceeditor.autoclosebrackets.tooltip "Tự động chèn dấu đóng">
 <!ENTITY options.sourceeditor.expandtab.label           "Căn lề bằng khoảng trắng">
 <!ENTITY options.sourceeditor.expandtab.tooltip         "Sử dụng dấu cách thay cho ký tự tab">
