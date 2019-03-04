@@ -159,8 +159,8 @@ legacy-extensions-description = Disse udvidelser møder ikke de nuværende { -br
 private-browsing-description2 =
     { -brand-short-name } har ændret, hvordan udvidelser fungerer i private vinduer. Som standard vil alle nyinstallerede
     udvidelser være blokeret i privat browsing-tilstand, medmindre du giver dem tilladelse i indstillingerne.
-    { -brand-short-name } blokerer udvidelserne for at sikre, at de ikke har adgang til din aktivitet på nettet,
-    når du benytter privat browsing.
+    { -brand-short-name } blokerer udvidelserne for at sikre, at de kun med din tilladelse har adgang til din aktivitet 
+    på nettet, når du benytter privat browsing.
     <label data-l10n-name="private-browsing-learn-more">Læs her, hvordan du håndterer indstillingerne for udvidelser.
 
 private-browsing-description = 
