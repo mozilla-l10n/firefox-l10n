@@ -157,10 +157,10 @@ legacy-extensions =
 legacy-extensions-description = Disse udvidelser møder ikke de nuværende { -brand-short-name }- standarder, så de er blevet deaktiveret. <label data-l10n-name="legacy-learn-more">Læs mere om ændringerne af tilføjelser</label>
 
 private-browsing-description2 =
-    { -brand-short-name } har ændret, hvordan udvidelser fungerer i private vinduer. Alle nye udvidelser, du føjer til
-    { -brand-short-name } vil som standard ikke virke i private vinduer. Medmindre du tillader det i indstillingerne, 
-    så vil udvidelsen ikke fungere, når du benytter privat browsing-tilstand.  Udvidelsen vil derfor ikke have adgang til
-    din aktivitet på nettet.  Vi har foretaget denne ændring for at sørge for, at din private browsing forbliver privat.
+    { -brand-short-name } har ændret, hvordan udvidelser fungerer i private vinduer. Som standard vil alle nyinstallerede
+    udvidelser være blokeret i privat browsing-tilstand, medmindre du giver dem tilladelse i indstillingerne.
+    { -brand-short-name } blokerer udvidelserne for at sikre, at de ikke har adgang til din aktivitet på nettet,
+    når du benytter privat browsing.
     <label data-l10n-name="private-browsing-learn-more">Læs her, hvordan du håndterer indstillingerne for udvidelser.
 
 private-browsing-description = 
@@ -254,7 +254,7 @@ manage-extensions-shortcuts =
     .accesskey = H
 shortcuts-empty-message = Der er ingen genvej for denne udvidelse.
 shortcuts-no-addons = Du har ikke aktiveret nogen udvidelser.
-shortcuts-no-commands = Følgene udvidelser han ingen genveje: 
+shortcuts-no-commands = Følgende udvidelser han ingen genveje: 
 shortcuts-input =
   .placeholder = Indtast en genvej.
 
