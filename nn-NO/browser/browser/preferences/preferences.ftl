@@ -682,6 +682,7 @@ content-blocking-all-windows-trackers = Kjende sporfølgjarar i alle vindauge
 content-blocking-all-third-party-cookies = Alle tredjeparts infokapslar
 content-blocking-warning-title = Sjå opp!
 content-blocking-warning-desc = Blokkering av infokapslar og sporfølgjarar kan føre til at nokre nettsider sluttar å fungere. Det er enkelt å deaktivere blokkering for nettsider du stolar på.
+content-blocking-warning-description = Blokkering av innhald kan føre til at nokre nettstadar sluttar å fungere. Det er enkelt å deaktivere blokkering for nettstadar du stolar på.
 content-blocking-learn-how = Finn ut korleis
 content-blocking-trackers-label =
     .label = Sporfølgjarar

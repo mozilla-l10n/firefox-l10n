@@ -15,6 +15,7 @@ changed-desc-dedicated = For å gjere det enklare og sikrare å byte mellom inst
 lost = <b>Du har ikkje mista personlege data eller tilpassingar.</b> Dersom du allereie har lagra informasjon i Firefox på denne datamaskina, er han framleis tilgjengeleg i ein annan Firefox-installasjon.
 options-title = Kva for mulegheiter har egt?
 options-do-nothing = Som standard vil profildataa dine i { -brand-short-name } ikkje verte synkroniserte med profildata på dei andre Firefox-installasjonane dine.
+options-use-sync = Om du vil at alle profildataa dine skal vere dei same på alle installasjonar av Firefox, kan du bruke ein { -fxaccount-brand-name } for å halde dei synkroniserte.
 resources = Resursar:
 support-link = Bruke profilhandtering - supportartikkel
 sync-header = Logg inn eller opprett ein { -fxaccount-brand-name }

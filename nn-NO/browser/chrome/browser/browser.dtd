@@ -880,6 +880,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsReloadHint "Du må kanskje laste sida på nytt for at endringane skal gjelde.">
 <!ENTITY identity.permissionsPreferences.tooltip "Opne innstillingar for løyve">
 
+<!ENTITY identity.contentBlockingPreferences.tooltip "Opne innstillingar for innhaldsblokkering">
 
 
 <!-- Name for the tabs toolbar as spoken by screen readers.

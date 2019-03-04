@@ -12,6 +12,8 @@
 <!ENTITY window.title "Du har starta ein eldre versjon av Firefox">
 <!ENTITY window.style "width: 490px;">
 
+<!ENTITY window.nosync "Bruk av ein eldre versjon av Firefox kan øydeleggje bokmerke og nettlesingshistorikken som allereie er lagra i ein eksisterande Firefox-profil. For å beskytte informasjonen din, lag ein ny profil for denne installasjonen av &brandShortName;.">
+<!ENTITY window.sync "Bruk av ein eldre versjon av Firefox kan øydeleggje bokmerke og nettlesingshistorikk som allereie er lagra i ein eksisterande Firefox-profil. For å beskytte informasjonen din, opprett ein ny profil for denne installasjonen av &brandShortName;. Du kan logge på med ein &syncBrand.fxAccount.label; for å synkronisere bokmerke og nettlesarhistorikken mellom ulike profilar.">
 
 <!ENTITY window.create "Lag ein ny profil">
 <!ENTITY window.quit-win "Avslutt">
