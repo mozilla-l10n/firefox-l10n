@@ -37,6 +37,7 @@
                        text for the search box.   -->
 <!ENTITY aboutPrivateBrowsing.search.placeholder         "Søk på nettet">
 <!ENTITY aboutPrivateBrowsing.info.title                 "Du er i et privat vindu">
+<!ENTITY aboutPrivateBrowsing.info.description           "&brandShortName; fjerner søk- og nettleserhistorikken når du avslutter programmet eller lukker alle private faner og vinduer. Selv om dette ikke gjør deg anonym for nettsteder eller Internett-leverandøren din, vil det gjøre det lettere å beholde det du gjør på nettet privat fra alle andre som bruker denne datamaskinen.">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article
                        about private browsing myths.   -->
 <!ENTITY aboutPrivateBrowsing.info.myths                 "Vanlige myter om privat nettlesing">
