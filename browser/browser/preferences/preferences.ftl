@@ -682,6 +682,7 @@ content-blocking-all-windows-trackers = Kjente sporere i alle vinduer
 content-blocking-all-third-party-cookies = Alle tredjeparts infokapsler
 content-blocking-warning-title = Se opp!
 content-blocking-warning-desc = Blokkering av infokapsler og sporere kan føre til at noen nettsteder slutter å fungere. Det er enkelt å deaktivere blokkering for nettsteder du stoler på.
+content-blocking-warning-description = Blokkering av innhold kan føre til at noen nettsteder slutter å fungere. Det er enkelt å deaktivere blokkering for nettsteder du stoler på.
 content-blocking-learn-how = Finn ut hvordan
 content-blocking-trackers-label =
     .label = Sporere
