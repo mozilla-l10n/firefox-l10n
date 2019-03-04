@@ -612,6 +612,7 @@ sitedata-learn-more = Les mer
 sitedata-delete-on-close =
     .label = Slett infokapsler og nettsteddata når { -brand-short-name } stenger
     .accesskey = S
+sitedata-delete-on-close-private-browsing = I permanent privat nettlesingsmodus vil infokapsler og nettstedsdata alltid bli slettet når { -brand-short-name } er avsluttet.
 sitedata-allow-cookies-option =
     .label = Tillat infokapsler og nettstedsdata
     .accesskey = a
