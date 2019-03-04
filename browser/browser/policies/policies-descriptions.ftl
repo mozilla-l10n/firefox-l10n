@@ -17,6 +17,7 @@ policy-BlockAboutConfig = Blokeatu about:config orrirako sarbidea.
 policy-BlockAboutProfiles = Blokeatu about:profiles orrirako sarbidea.
 policy-BlockAboutSupport = Blokeatu about:support orrirako sarbidea.
 policy-Bookmarks = Sortu laster-markak laster-marken tresna-barran, menuan edo hauen barneko karpeta batean.
+policy-CaptivePortal = Gaitu edo desgaitu atari gatibuen euskarria.
 policy-CertificatesDescription = Ziurtagiriak gehitzea edo integratutako ziurtagiriak erabiltzea.
 policy-Cookies = Baimendu edo ukatu webguneei cookieak ezartzea.
 policy-DisableAppUpdate = Eragotzi nabigatzailea eguneratzea.
