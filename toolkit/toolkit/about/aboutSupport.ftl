@@ -246,6 +246,8 @@ sandbox-proc-type-content = indhold
 sandbox-proc-type-file = fil-indhold
 sandbox-proc-type-media-plugin = medie-plugin
 
+sandbox-proc-type-data-decoder = data-decoder
+
 launcher-process-status-0 = Aktiveret
 launcher-process-status-1 = Deaktiveret på grund af en fejl
 launcher-process-status-2 = Deaktiveret
