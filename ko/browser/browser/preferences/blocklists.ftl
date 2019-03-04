@@ -15,7 +15,7 @@ blocklist-button-cancel =
     .label = 취소
     .accesskey = C
 blocklist-button-ok =
-    .label = 변경사항 저장
+    .label = 변경 내용 저장
     .accesskey = S
 # This template constructs the name of the block list in the block lists dialog.
 # It combines the list name and description.

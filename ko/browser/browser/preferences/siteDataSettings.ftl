@@ -26,7 +26,7 @@ site-data-button-cancel =
     .label = 취소
     .accesskey = C
 site-data-button-save =
-    .label = 변경된 내용 저장
+    .label = 변경 내용 저장
     .accesskey = a
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
