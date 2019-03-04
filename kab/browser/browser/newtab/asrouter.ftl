@@ -3,12 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 cfr-doorhanger-extension-heading = Asiɣzef yelhan
+cfr-doorhanger-pintab-heading = Ɛreḍ aya: senṭeḍ iccer
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Acuɣer i d-yettban waya
 cfr-doorhanger-extension-cancel-button = Mačči tura
     .accesskey = T
 cfr-doorhanger-extension-ok-button = Rnu Tura
     .accesskey = N
+cfr-doorhanger-pintab-ok-button = Senṭeḍ iccer-agi
+    .accesskey = S
 cfr-doorhanger-extension-manage-settings-button = Sefrek Iɣewwaṛen n wahul
     .accesskey = S
 cfr-doorhanger-extension-never-show-recommendation = Ur yid-skan ara Ahul Agi
