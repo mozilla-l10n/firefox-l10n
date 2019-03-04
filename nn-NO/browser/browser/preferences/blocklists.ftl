@@ -6,6 +6,7 @@ blocklist-window =
     .title = Blokkeringslister
     .style = width: 55em
 blocklist-desc = Du kan velje kva for lister { -brand-short-name } skal bruke for å blokkere web-element som kan spore nettlesaraktiviteten din.
+blocklist-description = Vel lista { -brand-short-name } brukar for å blokkere sporfølgjarar på internett. Lister levert av <a data-l10n-name="disconnect-link" title="Disconnect">Disconnect</a>.
 blocklist-close-key =
     .key = w
 blocklist-treehead-list =

@@ -1136,6 +1136,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addonPostInstall.incognito.accesskey "a">
 
 <!ENTITY addonPrivateBrowsing.header2.label "Endring av korleis utvidingar fungerer i private vindauge">
+<!ENTITY addonPrivateBrowsing.body2.label "Eventuelle nye utvidingar du legg til &brandShorterName; vil ikkje fungere i private vindauge med mindre du tillèt dette i innstillingane.">
 <!ENTITY addonPrivateBrowsing.learnMore.label "Les om korleis du handterer utvidingsinnstillingar.">
 <!ENTITY addonPrivateBrowsing.okButton.label "Ok, eg forstår">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "O">
