@@ -682,6 +682,7 @@ content-blocking-all-windows-trackers = Jarraipen-elementu ezagunak leiho guztie
 content-blocking-all-third-party-cookies = Hirugarrenen cookie guztiak
 content-blocking-warning-title = Argi!
 content-blocking-warning-desc = Cookieak eta jarraipen-elementuak blokeatzeak zenbait webgune haustea eragin lezake. Erraza da gune fidagarrientzako blokeoa desgaitzea.
+content-blocking-warning-description = Edukia blokeatzeak zenbait webgune haustea eragin lezake. Erraza da konfiantzazko guneetarako blokeoa desgaitzea.
 content-blocking-learn-how = Ikasi nola
 content-blocking-trackers-label =
     .label = Jarraipen-elementuak

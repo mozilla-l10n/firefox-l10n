@@ -44,8 +44,12 @@ cfr-doorhanger-extension-total-users =
         [one] erabiltzaile bat
        *[other] { $total } erabiltzaile
     }
+cfr-doorhanger-pintab-description = Eskuratu gehien erabilitako guneetarako sarbide azkarra. Mantendu guneak zabalik fitxa batean (berrabiarazita ere bai).
 
 ## These messages are steps on how to use the feature and are shown together.
 
+cfr-doorhanger-pintab-step1 = Egin <b>eskuin-klika</b> ainguratu nahi duzun fitxan.
+cfr-doorhanger-pintab-step2 = Hautatu <b>Ainguratu fitxa</b> menu-aukera.
+cfr-doorhanger-pintab-step3 = Gunea eguneratzen bada, puntu urdin bat ikusiko duzu ainguratutako fitxan.
 cfr-doorhanger-pintab-animation-pause = Pausatu
 cfr-doorhanger-pintab-animation-resume = Berrekin

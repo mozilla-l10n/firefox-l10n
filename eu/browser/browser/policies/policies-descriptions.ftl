@@ -49,11 +49,13 @@ policy-EnableTrackingProtection = Gaitu edo desgaitu edukia blokeatzea eta bloke
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
 policy-Extensions = Instalatu, desinstalatu edo blokeatu hedapenak. Instalatzeko aukerak URLak edo bide-izenak hartzen ditu parametro gisa. Desinstalatzeko eta blokeatzeko aukerek, berriz, hedapen-IDak.
+policy-ExtensionUpdate = Gaitu edo desgaitu hedapenen eguneraketa automatikoa.
 policy-FlashPlugin = Baimendu edo ukatu Flash plugina erabiltzea.
 policy-HardwareAcceleration = Ez badago ezarrita, hardware-azelerazioa desgaituko da.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Hasiera-orria ezarri eta ezarpen bidez aldatzea.
 policy-InstallAddonsPermission = Baimendu zenbait webgunek gehigarriak instalatzea.
+policy-NetworkPrediction = Gaitu edo desgaitu sarearen iragarpena (DNS aurre-eskuratzea).
 policy-NoDefaultBookmarks = Desgaitu { -brand-short-name }(r)ekin datozen laster-marka lehenetsiak eta dinamikoak sortzea (gehien bisitatutakoak, azken etiketak). Oharra: profila lehenengo aldiz erabili aurretik ezartzen bada bakarrik du eragina politika honek.
 policy-OfferToSaveLogins = Behartu { -brand-short-name }(e)k gordetako saio-hasierak eta pasahitzak gogoratzea eskaintzeko ezarpena. Ezarrita eta ezarri gabeko balioak onartzen dira.
 policy-OverrideFirstRunPage = Gainidatzi lehen abioko orria. Utzi zurian politika hau lehen abioko orria desgaitu nahi baduzu.
@@ -69,5 +71,6 @@ policy-SearchEngines = Konfiguratu bilaketa-motorren ezarpenak. Politika hau Ext
 policy-SecurityDevices = Instalatu PKCS #11 moduluak.
 policy-SSLVersionMax = Ezarri SSL bertsio maximoa.
 policy-SSLVersionMin = Ezarri SSL bertsio minimoa.
+policy-SupportMenu = Gehitu euskarrirako menu-elementu pertsonalizatua laguntzaren menuan.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Blokeatu zenbait webgune bisitatzea. Irakurri dokumentazioa formatuaren gaineko xehetasun gehiagorako.
