@@ -50,6 +50,7 @@ policy-EnableTrackingProtection = 콘텐츠 차단을 활성화 하거나 비활
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
 policy-Extensions = 확장기능을 설치하거나 제거, 잠급니다. 설치 옵션은 URL이나 경로를 파라메터로 받습니다. 설치 제거와 잠금 옵션은 확장기능의 ID를 받습니다.
+policy-ExtensionUpdate = 확장기능 자동 업데이트를 사용 또는 사용하지 않게 합니다.
 policy-FlashPlugin = 플래시 플러그인의 사용을 허용하거나 거부합니다.
 policy-HardwareAcceleration = False 값이면 하드웨어 가속 기능을 끕니다.
 # “lock” means that the user won’t be able to change this setting
@@ -71,5 +72,6 @@ policy-SearchEngines = 검색 엔진 설정을 구성합니다. 이 정책은 �
 policy-SecurityDevices = PKCS #11 모듈을 설치합니다.
 policy-SSLVersionMax = 최대 SSL 버전을 설정합니다.
 policy-SSLVersionMin = 최소 SSL 버전을 설정합니다.
+policy-SupportMenu = 도움말 메뉴에 사용자 지정 지원 메뉴 항목을 추가합니다.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = 특정 웹사이트 방문을 차단합니다. 자세한 형식에 대해서는 문서를 참고하세요.

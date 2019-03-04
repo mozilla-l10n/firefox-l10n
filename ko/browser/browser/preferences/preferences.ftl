@@ -50,6 +50,9 @@ category-privacy =
 pane-sync-title = Firefox 계정
 category-sync =
     .tooltiptext = { pane-sync-title }
+pane-sync-title2 = { -sync-brand-short-name }
+category-sync2 =
+    .tooltiptext = { pane-sync-title2 }
 help-button-label = { -brand-short-name } 도움말
 addons-button-label = 확장기능과 테마
 focus-search =
@@ -320,6 +323,9 @@ browsing-search-on-start-typing =
 browsing-cfr-recommendations =
     .label = 탐색시 확장 기능 추천
     .accesskey = R
+browsing-cfr-features =
+    .label = 탐색시 기능 추천
+    .accesskey = f
 browsing-cfr-recommendations-learn-more = 더 알아보기
 
 ## General Section - Proxy
@@ -512,6 +518,9 @@ sync-device-name-save =
     .accesskey = v
 sync-mobilepromo-single = 다른 기기에 연결
 sync-mobilepromo-multi = 기기 관리
+sync-connect-another-device = 다른 기기 연결
+sync-manage-devices = 기기 관리
+sync-fxa-begin-pairing = 기기 연결하기
 sync-tos-link = 서비스 약관
 sync-fxa-privacy-notice = 개인 정보 보호 정책
 
