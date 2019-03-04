@@ -15,6 +15,7 @@ changed-desc-dedicated = Firefoxen instalazioen artean errazago eta seguruago al
 lost = <b>Ez duzu datu pertsonal edo pertsonalizaziorik galdu.</b> Ordenagailu honetako Firefoxen informaziorik gordeta bazenu, beste Firefox instalazio batean erabilgarri dago oraindik.
 options-title = Zein dira nire aukerak?
 options-do-nothing = Ezer ez baduzu egiten, zure { -brand-short-name }(e)ko profilaren datuak beste Firefox instalazioekiko desberdinak izango dira.
+options-use-sync = Profileko datuak berdinak izatea nahi baduzu Firefoxen instalazio guztietan, { -fxaccount-brand-name } erabil dezakezu hauek sinkronizatuta mantentzeko.
 resources = Baliabideak:
 support-link = Profilen kudeatzailea erabiltzea - laguntza artikulua
 sync-header = Hasi saioa edo sortu { -fxaccount-brand-name } kontua
@@ -22,4 +23,6 @@ sync-label = Idatzi zure helbide elektronikoa
 sync-input =
     .placeholder = Helbide elektronikoa
 sync-button = Jarraitu
+sync-terms = Jarraituz gero, <a data-l10n-name="terms">zerbitzuaren baldintzak</a>eta <a data-l10n-name="privacy">pribatutasun-oharra</a> onartzen dituzu.
+sync-first = Lehenengo aldia da { -sync-brand-name } erabiltzen? Zure informazioa sinkronizatzeko, saioa hasi behar duzu Firefoxen instalazio guztietan.
 sync-learn = Argibide gehiago

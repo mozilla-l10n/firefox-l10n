@@ -88,6 +88,15 @@ detail-update-automatic =
 detail-update-manual =
     .label = Desaktibatuta
     .tooltiptext = Ez instalatu eguneraketak automatikoki
+# Used as a description for the option to allow or block an add-on in private windows.
+detail-private-browsing-label = Exekutatu leiho pribatuetan
+detail-private-browsing-description = Hedapena leiho pribatuetan ibiliko da eta lineako zure jardueretarako sarbidea izango du. <label data-l10n-name="detail-private-browsing-learn-more">Argibide gehiago</label>
+detail-private-browsing-on =
+    .label = Baimendu
+    .tooltiptext = Gaitu nabigatze pribatuan
+detail-private-browsing-off =
+    .label = Ez baimendu
+    .tooltiptext = Desgaitu nabigatze pribatuan
 detail-home =
     .label = Webgunea
 detail-home-value =
@@ -130,6 +139,7 @@ legacy-warning-show-legacy = Erakutsi legatu-hedapenak
 legacy-extensions =
     .value = Legatu-hedapenak
 legacy-extensions-description = Hedapen hauek ez dira { -brand-short-name }(r)en gutxieneko kalitatera heltzen eta desaktibatu egin dira. <label data-l10n-name="legacy-learn-more">Gehigarrien aldaketei buruzko argibide gehiago</label>
+private-browsing-description2 = { -brand-short-name } aldatzen ari da hedapenak nola dabiltzan nabigatze pribatuan. { -brand-short-name }(e)ra gehitutako hedapen berriak lehenespenez ez dira leiho pribatuetan ibiliko. Ezarpenetan baimendu ezean, hedapena ez da ibiliko modu pribatuan nabigatu ahala eta bertan ez du zure lineako jardueretarako sarbiderik izango. Zure nabigatze pribatua benetan pribatu mantentzeko egin dugu aldaketa hau. <label data-l10n-name="private-browsing-learn-more">Hedapenen ezarpenak kudeatzeko argibide gehiago.</label>
 extensions-view-discover =
     .name = Eskuratu gehigarriak
     .tooltiptext = { extensions-view-discover.name }
@@ -210,13 +220,12 @@ extensions-updates-update-selected =
 
 ## Extension shortcut management
 
-shortcuts-manage =
-    .label = Teklatuaren lasterbideak
 manage-extensions-shortcuts =
     .label = Kudeatu hedapenen lasterbideak
     .accesskey = K
 shortcuts-empty-message = Ez dago lasterbiderik hedapen honentzat.
 shortcuts-no-addons = Ez daukazu hedapenik gaituta.
+shortcuts-no-commands = Ondorengo hedapenek ez dute lasterbiderik:
 shortcuts-input =
     .placeholder = Idatzi lasterbidea
 shortcuts-browserAction = Gaitu hedapena
@@ -227,5 +236,19 @@ shortcuts-modifier-other = Kontuan hartu Ktrl edo Alt
 shortcuts-invalid = Konbinazio baliogabea
 shortcuts-letter = Idatzi letra bat
 shortcuts-system = Ezin da { -brand-short-name }(r)en lasterbidea gainidatzi
+shortcuts-card-expand-button =
+    { $numberToShow ->
+        [one] Erakutsi bat gehiago
+       *[other] Erakutsi { $numberToShow } gehiago
+    }
+shortcuts-card-collapse-button = Erakutsi gutxiago
 go-back-button =
     .tooltiptext = Joan atzera
+
+## Add-on actions
+
+remove-addon-button = Kendu
+disable-addon-button = Desgaitu
+enable-addon-button = Gaitu
+addons-enabled-heading = Gaituta
+addons-disabled-heading = Desgaituta
