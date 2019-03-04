@@ -223,6 +223,7 @@ manage-extensions-shortcuts =
     .label = Handter snarvegar for tillegg
     .accesskey = H
 shortcuts-empty-message = Det er ingen snarvegar for denne utvidinga.
+shortcuts-no-addons = Du har ingen utvidinga aktiverte.
 shortcuts-input =
     .placeholder = Skriv inn ein snarveg
 shortcuts-browserAction = Aktiver utviding
