@@ -44,6 +44,7 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } felhasználó
        *[other] { $total } felhasználó
     }
+cfr-doorhanger-pintab-description = Kapjon könnyű hozzáférést a leggyakrabban használt webhelyekhez. Tartsa nyitva a webhelyeket egy lapon (akkor is, ha újraindítja a böngészőt).
 
 ## These messages are steps on how to use the feature and are shown together.
 
