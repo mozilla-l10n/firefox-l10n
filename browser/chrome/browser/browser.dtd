@@ -1133,6 +1133,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Administrer utvidelsene dine ved å klikke på <image class='addon-addon-icon'/> i menyen <image class='addon-toolbar-icon'/>.">
 
+<!ENTITY addonPrivateBrowsing.body2.label "Eventuelle nye utvidelser du legger til &brandShorterName; vil ikke fungerere i private vinuder med mindre du tillater dette i innstillingene.">
+<!ENTITY addonPrivateBrowsing.learnMore.label "Lær hvordan du behandler utvidelsesinnstillinger.">
 <!ENTITY addonPrivateBrowsing.okButton.label "Ok, jeg forstår">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "O">
 <!ENTITY addonPrivateBrowsing.manageButton.label "Behandle utvidelser">
