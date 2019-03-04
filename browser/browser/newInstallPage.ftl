@@ -10,6 +10,9 @@
 title = Viktige nyheter
 heading = Endringer i { -brand-short-name }-profilen din
 changed-title = Hva har blitt endret?
+changed-desc-profiles = Denne installasjonen av { -brand-short-name } har en ny profil. En profil er en samling av filer der Firefox lagrer informasjon som bokmerker, passord og brukerinnstillinger.
+changed-desc-dedicated = For å gjøre det enklere og sikrere å bytte mellom installasjoner av Firefox (inkludert Firefox, Firefox ESR, Firefox Beta, Firefox Developer Edition og Firefox Nightly), har denne installasjon nå en dedikert profil. Den deler ikke automatisk din lagrede informasjon med andre Firefox-installasjoner.
+lost = <b>Du har ikke mistet noen personlige data eller tilpasninger. </b> Hvis du allerede har lagret informasjon i Firefox på denne datamaskinen, er den fortsatt tilgjengelig i en annen Firefox-installasjon.
 options-title = Hva er mine valg?
 resources = Ressurser:
 support-link = Bruke profilbehandling - supportartikkel
