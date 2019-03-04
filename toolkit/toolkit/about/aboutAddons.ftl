@@ -139,6 +139,12 @@ legacy-warning-show-legacy = Vis foreldete utvidelser
 legacy-extensions =
     .value = Foreldete utvidelser
 legacy-extensions-description = Disse utvidelsene oppfyller ikke gjeldende standarder i { -brand-short-name } og er derfor slått av. <label data-l10n-name="legacy-learn-more">Les mer om endringer av utvidelser</label>
+private-browsing-description2 =
+    { -brand-short-name } endrer hvordan utvidelser fungerer i privat nettlesingsmodus. Eventuelle nye utvidelser du legger til i
+    { -brand-short-name } kjøres ikke som standard i private vinduer, med mindre du tillater det i innstillingene.
+    Utvidelsen vil ikke fungere under privat nettlesing, og vil ikke ha tilgang til dine aktiviteter på nettet.
+    Vi har gjort denne endringen for å holde privat nettlesing privat.
+    <label data-l10n-name="private-browsing-learn-more">Les om hvordan du administrerer utvidelsesinnstillinger.</label>
 extensions-view-discover =
     .name = Last ned utvidelser
     .tooltiptext = { extensions-view-discover.name }
