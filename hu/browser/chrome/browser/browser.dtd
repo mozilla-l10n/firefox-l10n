@@ -1136,6 +1136,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addonPostInstall.incognito.label "A kiegészítő futtatásának engedélyezése privát ablakokban.">
 <!ENTITY addonPostInstall.incognito.accesskey "e">
 
+<!ENTITY addonPrivateBrowsing.header2.label "Változás a kiegészítők privát ablakokban történő működésében">
+<!ENTITY addonPrivateBrowsing.body2.label "Az újonnan hozzáadott &brandShorterName; kiegészítők nem fognak működni privát ablakokban, hacsak nem engedélyezi ezt a beállításokban.">
+<!ENTITY addonPrivateBrowsing.learnMore.label "Ismerje meg, hogyan kezelje a kiegészítőbeállításokat.">
 <!ENTITY addonPrivateBrowsing.okButton.label "Rendben, értem">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "R">
 <!ENTITY addonPrivateBrowsing.manageButton.label "Kiegészítők kezelése">
