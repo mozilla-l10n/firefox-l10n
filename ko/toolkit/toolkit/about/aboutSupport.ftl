@@ -60,7 +60,7 @@ show-dir-label =
         [windows] 폴더 열기
        *[other] 디렉토리 열기
     }
-modified-key-prefs-title = 변경 설정 목록
+modified-key-prefs-title = 중요한 변경된 환경 설정
 modified-prefs-name = 이름
 modified-prefs-value = 값
 user-js-title = user.js 환경 설정
@@ -225,6 +225,7 @@ effective-content-sandbox-level = 효과적인 콘텐츠 프로세스 샌드박�
 sandbox-proc-type-content = 내용
 sandbox-proc-type-file = 파일 내용
 sandbox-proc-type-media-plugin = 미디어 플러그인
+sandbox-proc-type-data-decoder = 데이터 디코더
 launcher-process-status-0 = 활성화됨
 launcher-process-status-1 = 실패로 비활성화됨
 launcher-process-status-2 = 강제로 비활성화됨
