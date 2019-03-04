@@ -50,6 +50,9 @@ category-privacy =
 pane-sync-title = Firefox kontua
 category-sync =
     .tooltiptext = { pane-sync-title }
+pane-sync-title2 = { -sync-brand-short-name }
+category-sync2 =
+    .tooltiptext = { pane-sync-title2 }
 help-button-label = { -brand-short-name } laguntza
 addons-button-label = Hedapenak eta itxurak
 focus-search =
@@ -332,6 +335,9 @@ browsing-search-on-start-typing =
 browsing-cfr-recommendations =
     .label = Gomendatu hedapenak nabigatu ahala
     .accesskey = G
+browsing-cfr-features =
+    .label = Gomendatu eginbideak nabigatu ahala
+    .accesskey = G
 browsing-cfr-recommendations-learn-more = Argibide gehiago
 
 ## General Section - Proxy
@@ -524,6 +530,9 @@ sync-device-name-save =
     .accesskey = G
 sync-mobilepromo-single = Konektatu beste gailu bat
 sync-mobilepromo-multi = Kudeatu gailuak
+sync-connect-another-device = Konektatu beste gailu bat
+sync-manage-devices = Kudeatu gailuak
+sync-fxa-begin-pairing = Parekatu gailua
 sync-tos-link = Zerbitzuaren baldintzak
 sync-fxa-privacy-notice = Pribatutasun-oharra
 

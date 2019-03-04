@@ -47,3 +47,5 @@ cfr-doorhanger-extension-total-users =
 
 ## These messages are steps on how to use the feature and are shown together.
 
+cfr-doorhanger-pintab-animation-pause = Pausatu
+cfr-doorhanger-pintab-animation-resume = Berrekin

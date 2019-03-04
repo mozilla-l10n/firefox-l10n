@@ -67,5 +67,7 @@ policy-SearchBar = Ezarri bilaketa-barraren kokaleku lehenetsia. Erabiltzaileek 
 policy-SearchEngines = Konfiguratu bilaketa-motorren ezarpenak. Politika hau Extended Support Release (ESR) bertsiorako dago erabilgarri soilik.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Instalatu PKCS #11 moduluak.
+policy-SSLVersionMax = Ezarri SSL bertsio maximoa.
+policy-SSLVersionMin = Ezarri SSL bertsio minimoa.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Blokeatu zenbait webgune bisitatzea. Irakurri dokumentazioa formatuaren gaineko xehetasun gehiagorako.

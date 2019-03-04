@@ -242,6 +242,7 @@ effective-content-sandbox-level = Eduki-prozesuen isolamendu maila eraginkorra
 sandbox-proc-type-content = edukia
 sandbox-proc-type-file = fitxategiaren edukia
 sandbox-proc-type-media-plugin = multimedia plugina
+sandbox-proc-type-data-decoder = datu-deskodetzailea
 launcher-process-status-0 = Gaituta
 launcher-process-status-1 = Desgaituta hutsegitea dela-eta
 launcher-process-status-2 = Behartuta desgaituta
