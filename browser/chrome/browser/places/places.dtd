@@ -29,7 +29,7 @@
 
 <!ENTITY importBookmarksFromHTML.label     "HTML에서 북마크 가져오기…">
 <!ENTITY importBookmarksFromHTML.accesskey "I">
-<!ENTITY exportBookmarksToHTML.label       "북마크를 HTML으로 내보내기…">
+<!ENTITY exportBookmarksToHTML.label       "북마크를 HTML로 내보내기…">
 <!ENTITY exportBookmarksToHTML.accesskey   "E">
 <!ENTITY importOtherBrowser.label          "다른 브라우저에서 가져오기…">
 <!ENTITY importOtherBrowser.accesskey      "A">
