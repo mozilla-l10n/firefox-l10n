@@ -144,7 +144,12 @@ legacy-warning-show-legacy = Mussar las extensiuns obsoletas
 legacy-extensions =
     .value = Extensiuns obsoletas
 legacy-extensions-description = Questas extensiuns na correspundan betg als standards actuals da { -brand-short-name } ed èn perquai deactivadas. <label data-l10n-name="legacy-learn-more">Vegnir a savair dapli davart las midadas per supplements</label>
-private-browsing-description = Las extensiuns vegnan bloccadas en fanestras privatas tenor la configuraziun predefinida. Quai vul dir ch'ellas na funcziunan betg en il modus privat e ch'ellas n'han là nagin access a tias activitads online. Per pussibilitar ch'ina extensiun vegnia exequida en fanestras privatas, tscherna la carta d'extensiun sutvart e mida il parameter. <label data-l10n-name="private-browsing-learn-more">Ulteriuras infurmaziuns.</label>
+private-browsing-description2 =
+    { -brand-short-name } mida il cumportament dad extensiuns en il modus privat. Tut las novas extensiuns che ti agiunteschas a
+    { -brand-short-name } na vegnan tenor la configuraziun predefinida betg exequidas en fanestras privatas. Sche ti na las permettas betg en ils parameters
+    na vegnan las extensiuns betg a funcziunar en il modus privat e na vegnan er betg ad avair access a tias activitads online en lez modus. 
+    Questa midada succeda per che la navigaziun en il modus privat restia privata.
+    <label data-l10n-name="private-browsing-learn-more">Vegnir a savair co administrar ils parameters da las extensiuns.</label>
 extensions-view-discover =
     .name = Catalog
     .tooltiptext = { extensions-view-discover.name }

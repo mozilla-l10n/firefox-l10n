@@ -1136,6 +1136,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addonPostInstall.incognito.label "Lubir a questa extensiun dad esser activa en fanestras privatas.">
 <!ENTITY addonPostInstall.incognito.accesskey "L">
 
+<!ENTITY addonPrivateBrowsing.header2.label "Midar a extensiuns en fanestras privatas">
+<!ENTITY addonPrivateBrowsing.body2.label "Mintga nova extensiun che ti agiunteschas a &brandShorterName; na vegn betg a funcziunar en fanestras privatas avant che ti permettias quai en ils parameters.">
+<!ENTITY addonPrivateBrowsing.learnMore.label "Vegnir a savair co administrar ils parameters da las extensiuns.">
 <!ENTITY addonPrivateBrowsing.okButton.label "Ok, chapì">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "O">
 <!ENTITY addonPrivateBrowsing.manageButton.label "Administrar las extensiuns">
