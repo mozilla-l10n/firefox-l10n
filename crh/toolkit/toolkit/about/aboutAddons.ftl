@@ -145,7 +145,7 @@ legacy-extensions =
     .value = Qadimiy Uzantılar
 legacy-extensions-description = Bu uzantılar cari { -brand-short-name } standartlarını qarşılamay ve ondan dolayı ğayrıfaalleştirilgenlerdir. <label data-l10n-name="legacy-learn-more">Eklentilerge deñişiklikler aqqında ögreniñiz.</label>
 private-browsing-description2 =
-    { -brand-short-name } uzantılarnıñ hususiy seyranda nasıl çalışqanını deñiştire. { -brand-short-name } içine eklegeniñiz her hangi yañı eklentiler ögbelgilengen olaraq Hususiy Pencerelerde çapmaycaq. Ayarlarda oña izin bermegeniñiz taqdirde, uzantı hususiy seyranda olğanda çalışmaycaq ve andaki hat-üstü faaliyetleriñizge irişimi olmaycaq.
+    { -brand-short-name } uzantılarnıñ hususiy seyranda nasıl çalışqanını deñiştire. { -brand-short-name } içine eklegeniñiz er angi yañı eklentiler ögbelgilengen olaraq Hususiy Pencerelerde çapmaycaq. Ayarlarda oña izin bermegeniñiz taqdirde, uzantı hususiy seyranda olğanda çalışmaycaq ve andaki hat-üstü faaliyetleriñizge irişimi olmaycaq.
     <label data-l10n-name="private-browsing-learn-more">Uzantı ayarlarınıñ nasıl idare etilgenini ögreniñiz.</label>
 extensions-view-discover =
     .name = Eklentilerni Elde Et

@@ -8,6 +8,6 @@ label-interventions = Müdahaleler
 label-more-information = Daha Çoq Malümat: İllet { $bug }
 label-overrides = Qullanıcı-Vekili Üst-aydamaları
 text-disabled-in-about-config = Bu hususiyet about:config içinde naqabilleştirilgendir
-text-no-interventions = Hiçbir müdahaler qullanılmay
+text-no-interventions = İç bir müdahaler qullanılmay
 text-no-overrides = Qullanılğan QV (UA) üst-aydaması yoq
 text-title = about:compat

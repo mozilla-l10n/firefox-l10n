@@ -704,7 +704,7 @@ content-blocking-cryptominers-label =
 # Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
 # that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
 content-blocking-fingerprinters-label =
-    .label = Parmak-izciler
+    .label = Parmaq-izciler
     .accesskey = P
 
 ## Privacy Section - Tracking
