@@ -7,13 +7,8 @@ about-policies-title = Qurumsal Siyasetler
 active-policies-tab = Faal
 errors-tab = Hatalar
 documentation-tab = Tavsiq
+no-specified-policies-message = Qurumsal Siyasetler hızmeti faaldir amma qabilleştirilgen siyasetler yoq.
+inactive-message = Qurumsal Siyasetler hızmeti ğayrı-faaldir.
 policy-name = Siyaset Adı
 policy-value = Siyaset Degeri
 policy-errors = Siyaset Hataları
-# 'gpo-machine-only' policies are related to the Group Policy features
-# on Windows. Please use the same terminology that is used on Windows
-# to describe Group Policy.
-# These policies can only be set at the computer-level settings, while
-# the other policies can also be set at the user-level.
-gpo-machine-only =
-    .title = Grup Siyaseti qullanılğanda, bu siyaset faqat bilgisayar seviyesinde tesbit etilebilir.

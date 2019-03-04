@@ -950,7 +950,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore "Daa Çoq Tema Elde Et">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "T">
 <!ENTITY customizeMode.overflowList.title2 "Taşıp-aq Menüsi">
-<!ENTITY customizeMode.overflowList.description "Unsurlarnı irişim içerisinde lâkin alet çubuğıñiz tışında tutmaq içün olarnı mında süyrekleñiz…">
+<!ENTITY customizeMode.overflowList.description "Unsurlarnı irişim içerisinde lâkin alet çubuğıñız tışında tutmaq içün olarnı mında süyrekleñiz…">
 <!ENTITY customizeMode.uidensity "Yoğunlıq">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
@@ -995,6 +995,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.cookies.label "Çörekler">
 <!ENTITY contentBlocking.cookiesView.label "Çörekler ve Sayt Verileri">
+
+<!ENTITY contentBlocking.cryptominers.label "Kriptomadenciler">
+<!ENTITY contentBlocking.cryptominersView.label "Kriptomadenciler">
+
+<!ENTITY contentBlocking.fingerprinters.label "Parmaq-izciler">
+<!ENTITY contentBlocking.fingerprintersView.label "Parmaq-izciler">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Bir mesele maruzala">
 <!ENTITY contentBlocking.breakageReportView.label "Meselelerni Maruzala">
@@ -1127,3 +1133,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "<image class='addon-toolbar-icon'/> menüsinde <image class='addon-addon-icon'/> çerterek eklentileriñizni idare etiñiz.">
+
+<!ENTITY addonPrivateBrowsing.okButton.label "Tamam, Añladım">
+<!ENTITY addonPrivateBrowsing.okButton.accesskey "T">
+<!ENTITY addonPrivateBrowsing.manageButton.label "Eklentilerni İdare Et">
+<!ENTITY addonPrivateBrowsing.manageButton.accesskey "d">

@@ -32,4 +32,4 @@ blocklist-item-moz-full-desc = Malüm izleyicilerni bloklar. Bazı saytlar belki
 blocklist-item-moz-std-listName = Seviye 1 bloklama listesi (tevsiyeli).
 blocklist-item-moz-std-description = Daha az ağ-saytı "sınsın" dep bazı izcilerge izin berir.
 blocklist-item-moz-full-listName = Seviye 2 bloklama listesi.
-blocklist-item-moz-full-description = Alğılanğan izcilerniñ hepsini bloklar. Bazı ağ-saytları yaki muhteva tüzgün yüklenmeybilir.
+blocklist-item-moz-full-description = Alğılanğan izcilerniñ episini bloklar. Bazı ağ-saytları yaki muhteva tüzgün yüklenmeybilir.
