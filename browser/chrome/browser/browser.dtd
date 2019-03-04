@@ -1132,8 +1132,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Administrer tillegga dine ved å klikke på <image class='addon-addon-icon'/> i menyen <image class='addon-toolbar-icon'/>.">
+<!ENTITY addonPostInstall.incognito.label "Tillat at denne utvidinga vert køyrt i private vindauge.">
+<!ENTITY addonPostInstall.incognito.accesskey "a">
 
-<!ENTITY addonPrivateBrowsing.header.label "Utvidingar i private vindauge">
+<!ENTITY addonPrivateBrowsing.header2.label "Endring av korleis utvidingar fungerer i private vindauge">
+<!ENTITY addonPrivateBrowsing.learnMore.label "Les om korleis du handterer utvidingsinnstillingar.">
 <!ENTITY addonPrivateBrowsing.okButton.label "Ok, eg forstår">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "O">
 <!ENTITY addonPrivateBrowsing.manageButton.label "Handter tillegg">
