@@ -9,5 +9,7 @@
 
 <!ENTITY window.title "Viktige nyheter">
 <!ENTITY window.style "width: 490px">
+<!ENTITY sync "For å synkronisere informasjon du allerede har lagret i Firefox med denne installasjonen av &brandShortName;, logg inn med din &syncBrand.fxAccount.label;.">
 <!ENTITY continue-button "Fortsett">
 
+<!ENTITY mainText "Denne installasjonen av &brandShortName; har en ny profil. Den deler ikke bokmerker, passord og brukerinnstillinger med andre installasjoner av Firefox (inkludert Firefox, Firefox ESR, Firefox Beta, Firefox Developer Edition og Firefox Nightly) på denne datamaskinen.">

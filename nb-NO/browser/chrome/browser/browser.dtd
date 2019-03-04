@@ -880,6 +880,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsReloadHint "Du må kanskje laste siden på nytt for at endringene skal gjelde.">
 <!ENTITY identity.permissionsPreferences.tooltip "Åpne innstillinger for tillatelser">
 
+<!ENTITY identity.contentBlockingPreferences.tooltip "Åpne innstillinger for innholdsblokkering">
 
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -1136,7 +1137,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addonPostInstall.incognito.accesskey "a">
 
 <!ENTITY addonPrivateBrowsing.header2.label "Endring av hvordan utvidelser virker i private vindu">
-<!ENTITY addonPrivateBrowsing.body2.label "Eventuelle nye utvidelser du legger til &brandShorterName; vil ikke fungerere i private vinuder med mindre du tillater dette i innstillingene.">
+<!ENTITY addonPrivateBrowsing.body2.label "Eventuelle nye utvidelser du legger til &brandShorterName; vil ikke fungere i private vinuder med mindre du tillater dette i innstillingene.">
 <!ENTITY addonPrivateBrowsing.learnMore.label "Les om hvordan du behandler utvidelsesinnstillinger.">
 <!ENTITY addonPrivateBrowsing.okButton.label "Ok, jeg forstår">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "O">
