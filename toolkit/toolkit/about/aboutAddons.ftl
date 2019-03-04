@@ -139,11 +139,12 @@ legacy-warning-show-legacy = Hagyományos kiegészítők megjelenítése
 legacy-extensions =
     .value = Hagyományos kiegészítők
 legacy-extensions-description = Ezek a kiegészítők nem felelnek meg a { -brand-short-name } aktuális elvárásainak, emiatt le lettek tiltva. <label data-l10n-name="legacy-learn-more">További tudnivalók a kiegészítők módosulásáról</label>
-private-browsing-description =
-    A kiegészítők alapértelmezetten nem futnak privát ablakokban. Ez azt jelenti, hogy nem fognak
-    működni privát böngészés közben, és nem férnek hozzá az online tevékenységéhez. Ahhoz, hogy
-    privát ablakokban is fusson a kiegészítő, válassza ki a kiegészítő kártyáját, és módosítsa a beállításait.
-    <label data-l10n-name="private-browsing-learn-more">További tudnivalók.</label>
+private-browsing-description2 =
+    A { -brand-short-name } megváltoztatja a kiegészítők működését privát böngészésben. A { -brand-short-name }hoz
+    hozzáadott új kiegészítők alapértelmezetten nem futnak privát böngészésben. Ha nem engedélyezi a beállításokban,
+    akkor a kiegészítő nem fog működni privát böngészésben, és ott nem fog hozzáférni az online tevékenységéhez.
+    Ezt a változtatást azért hoztuk, hogy a privát böngészése tényleg privát legyen.
+    <label data-l10n-name="private-browsing-learn-more">Tudjon meg többet a kiegészítőbeállítások kezeléséről.</label>
 extensions-view-discover =
     .name = Kiegészítők letöltése
     .tooltiptext = { extensions-view-discover.name }
