@@ -8,7 +8,7 @@ fxa-pair-device-dialog =
 
 fxa-qrcode-heading-phase1 = 1. Installer <a data-l10n-name="connect-another-device">Firefox på din mobile enhed</a>, hvis du ikke allerede har gjort det.
 
-fxa-qrcode-heading-phase2 = 2. Log ind på { -sync-brand-short-name }. Anvender du Android kan du skanne parrings-koden i indstillingerne for { -sync-brand-short-name }.
+fxa-qrcode-heading-phase2 = 2. Log ind på { -sync-brand-short-name }. Anvender du Android, kan du skanne parrings-koden i indstillingerne for { -sync-brand-short-name }.
 
 fxa-qrcode-error-title = Parring mislykkedes.
 
