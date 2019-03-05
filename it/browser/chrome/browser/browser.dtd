@@ -73,6 +73,8 @@
 <!ENTITY printCmd.label "Stampa…">
 <!ENTITY printCmd.accesskey "m">
 <!ENTITY printCmd.commandkey "p">
+<!ENTITY importFromAnotherBrowserCmd.label "Importa da un altro browser…">
+<!ENTITY importFromAnotherBrowserCmd.accesskey "b">
 <!ENTITY taskManagerCmd.label "Gestione attività">
 <!ENTITY goOfflineCmd.label "Lavora non in linea">
 <!ENTITY goOfflineCmd.accesskey "L">
