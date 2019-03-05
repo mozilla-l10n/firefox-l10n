@@ -4,17 +4,17 @@
 
 <!ENTITY aboutSupport.appBasicsAppBuildID "Kompilaĵ-identigilo">
 
-<!ENTITY aboutSupport.accountsTitle "Mail and News Accounts">
-<!ENTITY aboutSupport.showPrivateData.mainText "Include account names">
-<!ENTITY aboutSupport.showPrivateData.explanationText "(possibly identifying information)">
-<!ENTITY aboutSupport.accountsID "ID">
-<!ENTITY aboutSupport.accountsName "Name">
-<!ENTITY aboutSupport.accountsIncomingServer "Incoming server">
-<!ENTITY aboutSupport.accountsOutgoingServers "Outgoing servers">
-<!ENTITY aboutSupport.accountsServerName "Name">
-<!ENTITY aboutSupport.accountsConnSecurity "Connection security">
-<!ENTITY aboutSupport.accountsAuthMethod "Authentication method">
-<!ENTITY aboutSupport.accountsDefault "Default?">
-<!ENTITY aboutSupport.identityName "Identity">
+<!ENTITY aboutSupport.accountsTitle "Retpoŝtaj kaj novaĵgrupaj kontoj">
+<!ENTITY aboutSupport.showPrivateData.mainText "Inkluzivi nomojn de kontoj">
+<!ENTITY aboutSupport.showPrivateData.explanationText "(eble identigeblaj datumoj)">
+<!ENTITY aboutSupport.accountsID "Identigilo">
+<!ENTITY aboutSupport.accountsName "Nomo">
+<!ENTITY aboutSupport.accountsIncomingServer "Enira servilo">
+<!ENTITY aboutSupport.accountsOutgoingServers "Eliraj serviloj">
+<!ENTITY aboutSupport.accountsServerName "Nomo">
+<!ENTITY aboutSupport.accountsConnSecurity "Sekureco de konekto">
+<!ENTITY aboutSupport.accountsAuthMethod "Aŭtentiga metodo">
+<!ENTITY aboutSupport.accountsDefault "Implicita?">
+<!ENTITY aboutSupport.identityName "Identigilo">
 
-<!ENTITY aboutSupport.sendViaEmail.label "Send via email">
+<!ENTITY aboutSupport.sendViaEmail.label "Sendi per retpoŝto">
