@@ -147,6 +147,16 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = Tisirag n tazwara
 security-no-visits = Ala
+# This string is used to display the number of times
+# the user has visited the website prior
+# Variables:
+#   $visits (number) - The number of previous visits
+security-visits-number =
+    { $visits ->
+        [0] Ala
+        [one] Ih, tikkelt kan
+       *[other] Ih, { $visits } n tikkal
+    }
 # This string is used to display the type of
 # an image
 # Variables:
