@@ -24,20 +24,20 @@
 <!ENTITY rights.intro-point2c ".">
 
 <!-- point 3 text for official branded builds -->
-<!ENTITY rights.intro-point3a "Privacy policies for &vendorShortName;'s products may be found ">
-<!ENTITY rights.intro-point3b "here">
+<!ENTITY rights.intro-point3a "Privatecaj politikoj rilataj al produktoj de &vendorShortName; troviĝas ">
+<!ENTITY rights.intro-point3b "tie ĉi">
 <!ENTITY rights.intro-point3c ".">
 
 <!-- point 3 text for unbranded builds -->
-<!ENTITY rights.intro-point3-unbranded "Any applicable privacy policies for this product should be listed here.">
+<!ENTITY rights.intro-point3-unbranded "Ĉiu aplikebla privateca politiko por tiu ĉi produkto devus esti listigita tie ĉi.">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights.intro-point4a "&brandShortName; also offers optional services, such as the add-on update service; however we cannot guarantee they are 100&#37; accurate or error-free. More details, including information on how to disable the services, can be found in the ">
-<!ENTITY rights.intro-point4b "service terms">
+<!ENTITY rights.intro-point4a "&brandShortName; ankaŭ oferas malneprajn servojn kiel servon por ĝisdatigi etendaĵojn; tamen ni ne povas garantii, ke ili estas perfekte senmalfunkciaj. Pliaj detaloj – inkluzivante informojn pri kiel malaktivigi tiujn servojn – troviĝas en la ">
+<!ENTITY rights.intro-point4b "servaj kondiĉoj">
 <!ENTITY rights.intro-point4c ".">
 
 <!-- point 4 text for unbranded builds -->
-<!ENTITY rights.intro-point4a-unbranded "If this product incorporates web services, any applicable service terms for the service(s) should be linked to the ">
+<!ENTITY rights.intro-point4a-unbranded "Se tiu ĉi produkto inkluzivas retejajn servojn, ĉiuj kondiĉoj de uzado de tiuj servoj troviĝas en la sekcio ">
 <!ENTITY rights.intro-point4b-unbranded "Web Site Services">
 <!ENTITY rights.intro-point4c-unbranded " section.">
 
