@@ -1,0 +1,39 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutPrivateBrowsing.notPrivate                 "ཁྱེད་རང་ད་ལྟ་མི་སྒེར་གྱི་འཆར་སྒྲོམ་ཞིག་གི་ནང་དུ་མེད།">
+<!ENTITY privatebrowsingpage.openPrivateWindow.label     "མི་སྒེར་གྱི་འཆར་སྒྲོམ་ཞིག་ཁ་ཕྱེ">
+<!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
+
+<!ENTITY privateBrowsing.title                           "མི་སྒེར་གྱི་དྲ་བ་ལྟ་བཤེར">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.before       "ཁྱེད་ཀྱིས་མི་སྒེར་གྱི་འཆར་སྒྲོམ་ཞིག་གི་ནང་དུ་དྲ་བར་ལྟ་དུས། མེ་ཝ་ཡིས་">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "འདི་དག་ཉར་ཚགས་མི་བྱེད">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
+<!ENTITY aboutPrivateBrowsing.info.visited               "བལྟས་ཟིན་པའི་དྲ་ངོས">
+<!ENTITY aboutPrivateBrowsing.info.searches              "འཚོལ་བཤེར">
+<!ENTITY aboutPrivateBrowsing.info.cookies               "བར་གསོག">
+<!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "གནས་སྐབས་ཡིག་ཆ">
+<!ENTITY aboutPrivateBrowsing.info.saved.before          "མེ་ཝ་">
+<!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "ཡིས་ཉར་ཚགས་བྱ་རྒྱུ་ཡིན་པ་ནི་">
+<!ENTITY aboutPrivateBrowsing.info.saved.after2          "ཁྱེད་ཀྱི་:">
+<!ENTITY aboutPrivateBrowsing.info.downloads             "ལེན་འཇུག་བྱས་པ">
+<!ENTITY aboutPrivateBrowsing.info.bookmarks             "ཡིག་རྟགས">
+<!ENTITY aboutPrivateBrowsing.info.clipboard             "འདྲ་བཤུ་བྱས་པའི་ཡི་གེ">
+<!ENTITY aboutPrivateBrowsing.note.before                "མི་སྒེར་གྱི་ལྟ་བཤེར་">
+<!ENTITY aboutPrivateBrowsing.note.emphasize             "གྱིས་དྲ་རྒྱའི་ཐོག་ཏུ་ཁྱེད་རང་སུ་ཡིན་མི་གསལ་བ་བྱེད་མི་ཐུབ། ">
+<!ENTITY aboutPrivateBrowsing.note.after                 "ཁྱེད་ཀྱི་སྦྱིན་བདག་དང་ཡང་ན་དྲ་རྒྱ་ཞབས་ཞུ་མཁོ་མདོན་མཁན་གྱིས་ད་དུང་ཁྱེད་ཀྱིས་དྲ་ངོས་གང་ཞིག་ལྟ་བཞིན་ཡོད་པ་ཤེས་ཐུབ།">
+<!ENTITY aboutPrivateBrowsing.learnMore3.before          "དེ་ལས་མང་ཙམ་">
+<!ENTITY aboutPrivateBrowsing.learnMore3.title           "མི་སྒེར་གྱི་ལྟ་བཤེར་ལ་སློང་སྦྱོང་བྱེད་པ">
+<!ENTITY aboutPrivateBrowsing.learnMore3.after           "།">
+
+<!ENTITY trackingProtection.startTour1                   "དེ་གང་འདྲ་ཡིན་པ་ལྟ་བ">
+
+<!ENTITY contentBlocking.title                           "ནང་དོན་བཀག་འགོག">
+<!ENTITY contentBlocking.description                     "དྲ་ཚིགས་འགའ་ཞིག་གིས་རྗེས་འདེད་བྱེད་བེད་སྤྱོད་བཏང་ནས་དྲ་རྒྱའི་ཐོག་ཏུ་ཁྱེད་ཀྱི་བྱ་འགུལ་ལ་ལྐོག་ལྟ་བྱེད། མི་སྒེར་གྱི་འཆར་སྒྲོམ་ནང་དུ། མེ་ཝའི་ནང་དོན་བཀག་འགོག་གིས་རང་འགུལ་གྱིས་ཁྱེད་ཀྱི་དྲ་བ་ལྟ་བཤེར་གྱི་བྱ་སྤྱོད་སྐོར་ལ་རྗེས་འདེད་བྱེད་པའི་སྒྲིག་རིམ་བཀག་འགོག་བྱེད་ངེས།">
+
+<!-- Strings for new Private Browsing with Search -->
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.search.placeholder): This is the placeholder
+                       text for the search box.   -->
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article
+                       about private browsing myths.   -->
