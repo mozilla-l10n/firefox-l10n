@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 cfr-doorhanger-extension-heading = Rekomendata etendaĵo
+cfr-doorhanger-pintab-heading = Konsileto: alpingli tiun ĉi langeton
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Kial mi vidas tion ĉi?
 cfr-doorhanger-extension-cancel-button = Poste
@@ -43,8 +44,12 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } uzanto
        *[other] { $total } uzantoj
     }
+cfr-doorhanger-pintab-description = Facila aliro al viaj plej uzataj retejoj. Teni retejojn malfermitaj en langeto (eĉ kiam vi restartigas).
 
 ## These messages are steps on how to use the feature and are shown together.
 
+cfr-doorhanger-pintab-step1 = <b>Dekstre alklaku</b> por alpingli la langeton.
+cfr-doorhanger-pintab-step2 = Elektu <b>Alpingli langeton</b> el la menuo.
+cfr-doorhanger-pintab-step3 = Se la retejo aktualiĝos, vi vidos bluan punkton sur la alpinglita langeto.
 cfr-doorhanger-pintab-animation-pause = Paŭzigi
 cfr-doorhanger-pintab-animation-resume = Daŭrigi

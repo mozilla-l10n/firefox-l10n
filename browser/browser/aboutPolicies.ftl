@@ -7,13 +7,8 @@ about-policies-title = Entreprenaj politikoj
 active-policies-tab = Aktiva
 errors-tab = Eraroj
 documentation-tab = Dokumentaro
+no-specified-policies-message = La servo “enterprenaj politikoj” estas aktiva, sed neniu politiko estas aktiva.
+inactive-message = La servo “enterprenaj politikoj” estas malaktiva.
 policy-name = Nomo de politiko
 policy-value = Valoro de politiko
 policy-errors = Eraroj de politiko
-# 'gpo-machine-only' policies are related to the Group Policy features
-# on Windows. Please use the same terminology that is used on Windows
-# to describe Group Policy.
-# These policies can only be set at the computer-level settings, while
-# the other policies can also be set at the user-level.
-gpo-machine-only =
-    .title = Se vi uzas grupan politikon, tiu ĉi politiko nur povas esti difinita je la nivelo de la komputilo.
