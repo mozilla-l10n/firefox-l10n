@@ -10,7 +10,10 @@
  given Firefox channel". These terms are not synonymous.
 -->
 <!ENTITY window.title "Zagnali ste starejšo različico Firefoxa">
+<!ENTITY window.style "width: 490px;">
 
+<!ENTITY window.nosync "Uporaba starejše različice Firefoxa lahko pokvari zgodovino brskanja in zaznamke, ki so že shranjeni v obstoječem Firefoxovem profilu. Za zaščito svojih podatkov ustvarite nov profil za to namestitev &brandShortName;a.">
+<!ENTITY window.sync "Uporaba starejše različice Firefoxa lahko pokvari zgodovino brskanja in zaznamke, ki so že shranjeni v obstoječem Firefoxovem profilu. Za zaščito svojih podatkov ustvarite nov profil za to namestitev &brandShortName;a. Svoje podatke lahko ohranite usklajene v vseh profilih s pomočjo &syncBrand.fxAccount.label;a.">
 
 <!ENTITY window.create "Ustvari nov profil">
 <!ENTITY window.quit-win "Izhod">

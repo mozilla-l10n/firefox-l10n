@@ -3,8 +3,11 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-config-warning-text = Spreminjanje teh naprednih nastavitev lahko vpliva na zanesljivost, varnost in učinkovitost tega programa. Nadaljujte samo v primeru, da ste prepričani v svoje početje.
+about-config-warning-checkbox = Spet me opozori!
 about-config-warning-button = Sprejmem tveganje
 about-config-title = about:config
+about-config-search-input =
+    .placeholder = Išči
 about-config-show-all = Prikaži vse
 about-config-pref-add = Dodaj
 about-config-pref-toggle = Preklopi

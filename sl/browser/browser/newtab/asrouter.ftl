@@ -3,12 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 cfr-doorhanger-extension-heading = Priporočena razširitev
+cfr-doorhanger-pintab-heading = Poskusite možnost: Pripni zavihek
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Zakaj vidim to
 cfr-doorhanger-extension-cancel-button = Ne zdaj
     .accesskey = N
 cfr-doorhanger-extension-ok-button = Dodaj zdaj
     .accesskey = D
+cfr-doorhanger-pintab-ok-button = Pripni ta zavihek
+    .accesskey = P
 cfr-doorhanger-extension-manage-settings-button = Upravljaj nastavitve priporočil
     .accesskey = U
 cfr-doorhanger-extension-never-show-recommendation = Ne prikazuj tega priporočila
@@ -45,3 +48,12 @@ cfr-doorhanger-extension-total-users =
         [few] { $total } uporabniki
        *[other] { $total } uporabnikov
     }
+cfr-doorhanger-pintab-description = Ohranite si preprost dostop do strani, ki jih najpogosteje uporabljate. Obdržite jih odprte v zavihkih (tudi po ponovnem zagonu).
+
+## These messages are steps on how to use the feature and are shown together.
+
+cfr-doorhanger-pintab-step1 = <b>Desno-kliknite</b> zavihek, ki ga želite pripeti.
+cfr-doorhanger-pintab-step2 = V meniju izberite <b>Pripni zavihek</b>.
+cfr-doorhanger-pintab-step3 = Ko se spletna stran posodobi, vas pripet zavihek na to opozori z modro piko.
+cfr-doorhanger-pintab-animation-pause = Premor
+cfr-doorhanger-pintab-animation-resume = Nadaljuj

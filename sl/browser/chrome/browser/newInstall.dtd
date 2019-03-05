@@ -8,5 +8,7 @@
 -->
 
 <!ENTITY window.title "Pomembne novice">
+<!ENTITY window.style "width: 490px">
+<!ENTITY sync "Če želite sinhronizirati podatke, ki ste jih že shranili v Firefox s to namestitvijo &brandShortName;a, se prijavite s svojim &syncBrand.fxAccount.label;.">
 <!ENTITY continue-button "Nadaljuj">
 
