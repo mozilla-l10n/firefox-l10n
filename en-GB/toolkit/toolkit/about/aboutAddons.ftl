@@ -93,6 +93,15 @@ detail-update-automatic =
 detail-update-manual =
     .label = Off
     .tooltiptext = Don't automatically install updates
+# Used as a description for the option to allow or block an add-on in private windows.
+detail-private-browsing-label = Run in Private Windows
+detail-private-browsing-description = Extension will work in Private Windows, and have access to your online activities. <label data-l10n-name="detail-private-browsing-learn-more">Learn more</label>
+detail-private-browsing-on =
+    .label = Allow
+    .tooltiptext = Enable in Private Browsing
+detail-private-browsing-off =
+    .label = Don’t Allow
+    .tooltiptext = Disable in Private Browsing
 detail-home =
     .label = Homepage
 detail-home-value =
@@ -135,6 +144,12 @@ legacy-warning-show-legacy = Show legacy extensions
 legacy-extensions =
     .value = Legacy Extensions
 legacy-extensions-description = These extensions do not meet current { -brand-short-name } standards so they have been deactivated. <label data-l10n-name="legacy-learn-more">Learn about the changes to add-ons</label>
+private-browsing-description2 =
+    { -brand-short-name } is changing how extensions work in private browsing. Any new extensions you add to
+    { -brand-short-name } won’t run by default in Private Windows. Unless you allow it in settings, the
+    extension won’t work while private browsing, and won’t have access to your online activities
+    there. We’ve made this change to keep your private browsing private.
+    <label data-l10n-name="private-browsing-learn-more">Learn how to manage extension settings.</label>
 extensions-view-discover =
     .name = Get Add-ons
     .tooltiptext = { extensions-view-discover.name }
@@ -215,8 +230,12 @@ extensions-updates-update-selected =
 
 ## Extension shortcut management
 
+manage-extensions-shortcuts =
+    .label = Manage Extension Shortcuts
+    .accesskey = S
 shortcuts-empty-message = There are no shortcuts for this extension.
 shortcuts-no-addons = You don’t have any extensions enabled.
+shortcuts-no-commands = The following extensions do not have shortcuts:
 shortcuts-input =
     .placeholder = Type a shortcut
 shortcuts-browserAction = Activate extension
@@ -227,6 +246,18 @@ shortcuts-modifier-other = Include Ctrl or Alt
 shortcuts-invalid = Invalid combination
 shortcuts-letter = Type a letter
 shortcuts-system = Can’t override a { -brand-short-name } shortcut
+shortcuts-card-expand-button =
+    { $numberToShow ->
+       *[other] Show { $numberToShow } More
+    }
+shortcuts-card-collapse-button = Show Less
+go-back-button =
+    .tooltiptext = Go back
 
 ## Add-on actions
 
+remove-addon-button = Remove
+disable-addon-button = Disable
+enable-addon-button = Enable
+addons-enabled-heading = Enabled
+addons-disabled-heading = Disabled
