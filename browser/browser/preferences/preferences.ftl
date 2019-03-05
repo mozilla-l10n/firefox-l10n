@@ -50,6 +50,9 @@ category-privacy =
 pane-sync-title = Firefox Account
 category-sync =
     .tooltiptext = { pane-sync-title }
+pane-sync-title2 = { -sync-brand-short-name }
+category-sync2 =
+    .tooltiptext = { pane-sync-title2 }
 help-button-label = { -brand-short-name } Support
 addons-button-label = Extensions & Themes
 focus-search =
@@ -279,6 +282,7 @@ update-application-check-choose =
 update-application-manual =
     .label = Never check for updates (not recommended)
     .accesskey = N
+update-application-warning-cross-user-setting = This setting will apply to all Windows accounts and { -brand-short-name } profiles using this installation of { -brand-short-name }.
 update-application-use-service =
     .label = Use a background service to install updates
     .accesskey = b
@@ -331,6 +335,9 @@ browsing-search-on-start-typing =
 browsing-cfr-recommendations =
     .label = Recommend extensions as you browse
     .accesskey = R
+browsing-cfr-features =
+    .label = Recommend features as you browse
+    .accesskey = f
 browsing-cfr-recommendations-learn-more = Learn more
 
 ## General Section - Proxy
@@ -523,6 +530,9 @@ sync-device-name-save =
     .accesskey = v
 sync-mobilepromo-single = Connect another device
 sync-mobilepromo-multi = Manage devices
+sync-connect-another-device = Connect another device
+sync-manage-devices = Manage devices
+sync-fxa-begin-pairing = Pair a device
 sync-tos-link = Terms of Service
 sync-fxa-privacy-notice = Privacy Notice
 
@@ -672,6 +682,7 @@ content-blocking-all-windows-trackers = Known trackers in all windows
 content-blocking-all-third-party-cookies = All third-party cookies
 content-blocking-warning-title = Heads up!
 content-blocking-warning-desc = Blocking cookies and trackers can cause some web sites to break. It’s easy to disable blocking for sites you trust.
+content-blocking-warning-description = Blocking content can cause some web sites to break. It’s easy to disable blocking for sites you trust.
 content-blocking-learn-how = Learn how
 content-blocking-trackers-label =
     .label = Trackers
@@ -686,6 +697,15 @@ content-blocking-tracking-protection-change-block-list = Change block list
 content-blocking-cookies-label =
     .label = Cookies
     .accesskey = C
+# Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
+content-blocking-cryptominers-label =
+    .label = Cryptominers
+    .accesskey = y
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+content-blocking-fingerprinters-label =
+    .label = Fingerprinters
+    .accesskey = F
 
 ## Privacy Section - Tracking
 
@@ -720,6 +740,9 @@ permissions-block-autoplay-media =
     .label = Block web sites from automatically playing media with sound
     .accesskey = B
 permissions-block-autoplay-media-menu = For web sites that autoplay sound
+permissions-block-autoplay-media2 =
+    .label = Block web sites from automatically playing sound
+    .accesskey = B
 permissions-block-autoplay-media-exceptions =
     .label = Exceptions…
     .accesskey = E
