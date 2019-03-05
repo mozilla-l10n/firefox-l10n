@@ -41,16 +41,16 @@
 <!ENTITY rights.intro-point4b-unbranded "retejaj servoj">
 <!ENTITY rights.intro-point4c-unbranded ".">
 
-<!ENTITY rights.webservices-header "&brandFullName; Web Site Services">
+<!ENTITY rights.webservices-header "Retejaj servoj de &brandFullName;">
 
 <!-- Note that this paragraph references a couple of entities from
      preferences/security.dtd, so that we can refer to text the user sees in
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights.webservices-a "&brandFullName; offers optional services (&quot;Services&quot;), such as the add-on update service, that are available for your use with this binary version of &brandShortName; as described below. If you do not want to use the Services or the terms below are unacceptable, you may disable the add-on update service by opening the application preferences, selecting the ">
-<!ENTITY rights.webservices-b "Advanced">
-<!ENTITY rights.webservices-c " section, followed by the ">
+<!ENTITY rights.webservices-a "&brandFullName; oferas malneprajn servojn (sekve “Servoj”), kiel servon por ĝisdatigi aldonaĵojn, kiuj estas disponeblaj por uzi kun tiu ĉi kompilita versio de &brandShortName; laŭ la kondiĉoj priskribitaj sube. Se vi ne volas uzi Servojn aŭ ne akceptas iliajn kondiĉojn, vi povas malaktivigi servon por ĝisdatigi aldonaĵojn per malfermi “elekteblojn”, klaku la sekcion ">
+<!ENTITY rights.webservices-b "“spertulajn”">
+<!ENTITY rights.webservices-c " sekve elektu la langeton ">
 <!ENTITY rights.webservices-d "Update">
 <!ENTITY rights.webservices-e " tab, and unchecking the options for &quot;Automatically check for updates to&quot;.">
 
