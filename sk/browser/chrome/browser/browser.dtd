@@ -996,6 +996,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Cookies">
 <!ENTITY contentBlocking.cookiesView.label "Cookies a údaje stránok">
 
+<!ENTITY contentBlocking.cryptominers.label "Ťažba kryptomien">
+<!ENTITY contentBlocking.cryptominersView.label "Ťažba kryptomien">
+
+<!ENTITY contentBlocking.fingerprinters.label "Odtlačok prehliadača">
+<!ENTITY contentBlocking.fingerprintersView.label "Odtlačok prehliadača">
+
 <!ENTITY contentBlocking.openBreakageReportView2.label "Nahlásiť problém">
 <!ENTITY contentBlocking.breakageReportView.label "Nahlásiť problémy">
 <!ENTITY contentBlocking.breakageReportView2.description "Blokovanie obsahu môže spôsobovať problémy s webovými stránkami. Ich nahlásením významne pomôžete aplikácii &brandShortName; sa neustále zlepšovať. S vašim hlásením sa Mozille odošle URL adresa stránky a informácie o vašom nastavení blokovania obsahu.">
@@ -1127,9 +1133,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Spravujte svoje doplnky kliknutím na <image class='addon-addon-icon'/> v ponuke <image class='addon-toolbar-icon'/>.">
+<!ENTITY addonPostInstall.incognito.label "Povoľte tento doplnok v súkromných oknách.">
+<!ENTITY addonPostInstall.incognito.accesskey "P">
 
-<!ENTITY addonPrivateBrowsing.header.label "Rozšírenia v súkromných oknách">
-<!ENTITY addonPrivateBrowsing.body.label "V predvolenom nastavení sú rozšírenia v súkromných oknách vypnuté. V súkromných oknách nebudú fungovať a nebudú mať prístup k vašej aktivite. Spustenie akéhokoľvek rozšírenia v súkromných oknách môžete povoliť v možnostiach.">
+<!ENTITY addonPrivateBrowsing.header2.label "Zmena fungovania rozšírení v súkromných oknách">
+<!ENTITY addonPrivateBrowsing.body2.label "Novo nainštalované rozšírenia budú v súkromných oknách aplikácie &brandShorterName; vypnuté, až dokým ich nezapnete v možnostiach.">
+<!ENTITY addonPrivateBrowsing.learnMore.label "Ako spravovať rozšírenia.">
 <!ENTITY addonPrivateBrowsing.okButton.label "Ok, rozumiem">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "O">
 <!ENTITY addonPrivateBrowsing.manageButton.label "Správa rozšírení">
