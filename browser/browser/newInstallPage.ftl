@@ -8,7 +8,11 @@
 ### given Firefox channel". These terms are not synonymous.
 
 title = Gravaj novaĵoj
+heading = Ŝanĝoj al via profilo de { -brand-short-name }
 changed-title = Kio ŝanĝiĝis?
+changed-desc-profiles = Tiu ĉi instalaĵo de { -brand-short-name } havas novan profilon. Profilo estas aro da dosieroj en kiuj Firefox konservas informojn, kiel viajn legosignojn, pasvortojn kaj preferojn de uzanto.
+changed-desc-dedicated = Por plifaciligi kaj plisekurigi ŝanĝadon inter diversaj instalaĵoj de Firefox (kiel Firefox, Firefox ESR, Firefox Beta, Firefox Developer Edition kaj Firefox Nightly), tiu ĉi instalaĵo nun havas apartan profilon. Ĝi ne aŭtomate kundividas datumojn kun aliaj instalaĵoj de Firefox.
+lost = <b>Vi ne perdis viajn personajn datumojn kaj agordojn.</b> Datumoj konservitaj en alia instalaĵo de Firefox ĉe tiu ĉi komputilo plue estas disponeblaj en tiu alia instalaĵo.
 options-title = Kion mi faru?
 resources = Rimedoj:
 sync-header = Komenci seancon aŭ krei konton de { -fxaccount-brand-name }
