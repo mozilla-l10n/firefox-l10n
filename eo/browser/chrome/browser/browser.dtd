@@ -996,6 +996,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Kuketoj">
 <!ENTITY contentBlocking.cookiesView.label "Kuketoj kaj retejaj datumoj">
 
+<!ENTITY contentBlocking.cryptominers.label "Miniloj de ĉifromono">
+<!ENTITY contentBlocking.cryptominersView.label "Miniloj de ĉifromono">
+
+<!ENTITY contentBlocking.fingerprinters.label "Identigiloj de ciferecaj spuroj">
+<!ENTITY contentBlocking.fingerprintersView.label "Identigiloj de ciferecaj spuroj">
+
 <!ENTITY contentBlocking.openBreakageReportView2.label "Raporti problemon">
 <!ENTITY contentBlocking.breakageReportView.label "Raporti problemojn">
 <!ENTITY contentBlocking.breakageReportView2.description "La blokado de enhavo povas okazigi problemojn en kelkaj retejoj. Se vi raportas problemojn, vi helpos nin plibonigi &brandShortName; por ĉiuj. (Tio ĉi sendos al Mozilla retadreson kaj informojn pri la agordoj de via retumilo.)">
@@ -1127,7 +1133,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Administru viajn aldonaĵojn per alklako de <image class='addon-addon-icon'/> en la menuo <image class='addon-toolbar-icon'/>.">
+<!ENTITY addonPostInstall.incognito.label "Permesi al tiu ĉi etendaĵo funkcii en privataj fenestroj.">
+<!ENTITY addonPostInstall.incognito.accesskey "P">
 
+<!ENTITY addonPrivateBrowsing.header2.label "Ŝanĝoj de etendaĵoj en privataj fenestroj">
+<!ENTITY addonPrivateBrowsing.body2.label "Neniu nova etendaĵo aldonita al &brandShorterName; funkcios en privataj fenestroj, krom se vi tion permesas en la agordoj.">
+<!ENTITY addonPrivateBrowsing.learnMore.label "Pli da informo pri administro de agordoj de etendaĵoj.">
 <!ENTITY addonPrivateBrowsing.okButton.label "En ordo, mi komprenis">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "o">
 <!ENTITY addonPrivateBrowsing.manageButton.label "Administri etendaĵojn">
