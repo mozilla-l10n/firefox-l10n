@@ -10,6 +10,8 @@ cfr-doorhanger-extension-cancel-button = Ahora no
     .accesskey = N
 cfr-doorhanger-extension-ok-button = Agregar ahora
     .accesskey = A
+cfr-doorhanger-pintab-ok-button = Pegar esta estaña
+    .accesskey = P
 cfr-doorhanger-extension-manage-settings-button = Administrar opciones de recomendaciones
     .accesskey = m
 cfr-doorhanger-extension-never-show-recommendation = No mostrarme esta recomendación
@@ -42,6 +44,12 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } usuario
        *[other] { $total } usuarios
     }
+cfr-doorhanger-pintab-description = Acceda fácilmente a sus sitios más utilizados. Mantenga los sitios abiertos en una pestaña (incluso cuando reinicia).
 
 ## These messages are steps on how to use the feature and are shown together.
 
+cfr-doorhanger-pintab-step1 = <b> Haga clic con el botón derecho </b> en la pestaña que desea pegar.
+cfr-doorhanger-pintab-step2 = Seleccione <b> Pegar pestaña </b> en el menú.
+cfr-doorhanger-pintab-step3 = Si el sitio tiene una actualización, verá un punto azul en la pestaña pegada.
+cfr-doorhanger-pintab-animation-pause = Pausar
+cfr-doorhanger-pintab-animation-resume = Continuar
