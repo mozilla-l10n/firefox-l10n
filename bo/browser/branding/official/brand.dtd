@@ -1,0 +1,9 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  brandShorterName      "མེ་ཝ">
+<!ENTITY  brandShortName        "མེ་ཝ">
+<!ENTITY  brandFullName         "Mozilla མེ་ཝ">
+<!ENTITY  vendorShortName       "Mozilla">
+<!ENTITY  trademarkInfo.part1   "མེ་ཝ་དང་མེ་ཝའི་ཁ་རྟགས་ནི་Mozilla ཚོགས་པའི་ཚོང་རྟགས་ཡིན།">
