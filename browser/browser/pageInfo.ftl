@@ -147,6 +147,26 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = Käytä oletusta
 security-no-visits = Ei
+# This string is used to display the number of meta tags
+# in the General Tab
+# Variables:
+#   $tags (number) - The number of meta tags
+general-meta-tags =
+    .value =
+        { $tags ->
+            [one] Metatiedot (1 merkintä)
+           *[other] Metatiedot ({ $tags } merkintää)
+        }
+# This string is used to display the number of times
+# the user has visited the website prior
+# Variables:
+#   $visits (number) - The number of previous visits
+security-visits-number =
+    { $visits ->
+        [0] Ei
+        [one] Kyllä, kerran
+       *[other] Kyllä, { $visits } kertaa
+    }
 # This string is used to display the type of
 # an image
 # Variables:
