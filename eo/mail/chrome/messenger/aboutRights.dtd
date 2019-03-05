@@ -38,8 +38,8 @@
 
 <!-- point 4 text for unbranded builds -->
 <!ENTITY rights.intro-point4a-unbranded "Se tiu ĉi produkto inkluzivas retejajn servojn, ĉiuj kondiĉoj de uzado de tiuj servoj troviĝas en la sekcio ">
-<!ENTITY rights.intro-point4b-unbranded "Web Site Services">
-<!ENTITY rights.intro-point4c-unbranded " section.">
+<!ENTITY rights.intro-point4b-unbranded "retejaj servoj">
+<!ENTITY rights.intro-point4c-unbranded ".">
 
 <!ENTITY rights.webservices-header "&brandFullName; Web Site Services">
 
