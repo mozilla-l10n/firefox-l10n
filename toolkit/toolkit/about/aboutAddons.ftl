@@ -139,6 +139,12 @@ legacy-warning-show-legacy = Vis forelda utvidingar
 legacy-extensions =
     .value = Forelda utvidingar
 legacy-extensions-description = Desse utvidingane oppfyller ikkje gjeldande standardar i { -brand-short-name } og er difor slått av. <label data-l10n-name="legacy-learn-more">Les meir om endringar av tillegg</label>
+private-browsing-description2 =
+    { -brand-short-name } endar korleis utvidingar fungerer i privat nettlesingsmodus. Eventuelle nye utvidingar du legg til i
+    { -brand-short-name } vert ikkje køyrt som standard i private vindauge, med mindre du tillèt det i innstillingane.
+    Utvidinga vil ikkje fungere under privat nettlesing, og vil ikkje ha tilgang til aktivitetane dine på nettet.
+    Vi har gjort denne endringa for å halde privat nettlesing privat.
+    <label data-l10n-name="private-browsing-learn-more">Les om korleis du administrerer utvidingsinnstillingar.</label>
 extensions-view-discover =
     .name = Last ned tillegg
     .tooltiptext = { extensions-view-discover.name }
