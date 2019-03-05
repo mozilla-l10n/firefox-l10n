@@ -19,6 +19,7 @@ about-config-pref-delete = ဖျက်ရန်
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
+about-config-pref-add-type-boolean = ယုတ္တိကိန်းတန်ဖိုး
 about-config-pref-add-type-number = ဂဏန်း
 about-config-pref-add-type-string = စာကြောင်း
 
