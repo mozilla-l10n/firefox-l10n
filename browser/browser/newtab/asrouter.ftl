@@ -41,3 +41,9 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } utente
        *[other] { $total } utenti
     }
+
+## These messages are steps on how to use the feature and are shown together.
+
+cfr-doorhanger-pintab-step1 = <b>Sciacca drito</b> in sciô feuggio quade t'eu amugiâ.
+cfr-doorhanger-pintab-animation-pause = Pösa
+cfr-doorhanger-pintab-animation-resume = Repiggia
