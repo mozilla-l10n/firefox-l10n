@@ -177,6 +177,17 @@ properties-general-size =
             [one] { $kb } KO ({ $bytes } okteto)
            *[other] { $kb } KO ({ $bytes } oktetoj)
         }
+# This string is used to display the type and number
+# of frames of a animated image
+# Variables:
+#   $type (string) - The type of a animated image
+#   $frames (number) - The number of frames in an animated image
+media-animated-image-type =
+    .value =
+        { $frames ->
+            [one] { $type } bildo (moviĝanta, { $frames } kadro)
+           *[other] { $type } bildo (moviĝanta, { $frames } kadroj)
+        }
 # This string is used to display the type of
 # an image
 # Variables:
