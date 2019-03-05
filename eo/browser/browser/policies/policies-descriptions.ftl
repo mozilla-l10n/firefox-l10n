@@ -17,6 +17,7 @@ policy-BlockAboutConfig = Bloki aliron al la paĝo about:config.
 policy-BlockAboutProfiles = Bloki aliron al la paĝo about:profiles.
 policy-BlockAboutSupport = Bloki aliron al la paĝo about:support.
 policy-Bookmarks = Krei legosignojn en la ilaro de legosignoj, en la menuo de legosignoj, aŭ en dosierujo sub ili.
+policy-CaptivePortal = Aktivigi aŭ malaktivigi subtenon por kapta portalo.
 policy-CertificatesDescription = Aldoni atestilojn aŭ uzi inkluzivitajn atestilojn.
 policy-Cookies = Permesi aŭ bloki al retejoj konservi kuketojn.
 policy-DisableAppUpdate = Malpermesi al retumilo ĝisdatigiĝi.
@@ -49,11 +50,13 @@ policy-EnableTrackingProtection = Aktivigi aŭ malaktivigi la blokadon de enhavo
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
 policy-Extensions = Instali, malinstali aŭ ŝlosi etendaĵojn. La elekteblo "instali" akceptas retadresojn aŭ vojojn kiel parametrojn. La elektebloj "malinstali" kaj "ŝlosi" akceptas identigilojn de etendaĵo.
+policy-ExtensionUpdate = Aktivigi aŭ malaktivigi aŭtomatan ĝisdatigon de etendaĵoj.
 policy-FlashPlugin = Permesi aŭ malpermesi la uzon de la kromprogramo Flash.
 policy-HardwareAcceleration = Se estas "malvera" la aparata akcelo estos malŝaltita.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Difini kaj havi la eblon ŝlosi la ekan paĝon.
 policy-InstallAddonsPermission = Permesi al kelkaj retejoj la instalon de aldonaĵoj.
+policy-NetworkPrediction = Aktivigi aŭ malaktivigi retan prognozon (antaŭlegon de DNS).
 policy-NoDefaultBookmarks = Malaktivigi kreadon de la normaj legosignoj inkluzivitaj kun { -brand-short-name }, kaj de la inteligentaj legosignoj (pli ofte vizititaj, ĵusaj etikedoj). Rimarko: tiu ĉi politiko nur efikas se ĝi estas uzita antaŭ la unua uzo de la profilo.
 policy-OfferToSaveLogins = Respekti la agordon kiu permesas al { -brand-short-name } proponi memori konservitajn nomojn de uzanto kaj pasvortojn. Kaj "vera" kaj "malvera" estas akceptitaj.
 policy-OverrideFirstRunPage = Ŝanĝi la paĝon de unua starto. Lasu tiun ĉi politikon malplena se vi volas malaktivigi la paĝon de unua starto.
