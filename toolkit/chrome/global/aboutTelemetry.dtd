@@ -23,14 +23,16 @@
 <!ENTITY aboutTelemetry.firefoxDataDoc "<a>Tài liệu dữ liệu Firefox</a> chứa các hướng dẫn về cách làm việc với các công cụ dữ liệu của chúng tôi.">
 <!ENTITY aboutTelemetry.telemetryClientDoc "<a>Tài liệu ứng dụng khách từ xa của Firefox</a> bao gồm các định nghĩa cho các khái niệm, tài liệu API và tham chiếu dữ liệu.">
 <!ENTITY aboutTelemetry.telemetryDashboard "<a>Bảng điều khiển từ xa</a> cho phép bạn trực quan hóa dữ liệu Mozilla nhận được thông qua từ xa.">
-
 <!ENTITY aboutTelemetry.telemetryProbeDictionary "<a>Từ điển thăm dò</a> cung cấp chi tiết và mô tả cho các thăm dò được thu thập bởi Telemetry.">
 
 <!ENTITY aboutTelemetry.showInFirefoxJsonViewer "Mở trong trình xem JSON">
 
 <!ENTITY aboutTelemetry.homeSection "Trang chủ">
 <!ENTITY aboutTelemetry.generalDataSection "Dữ liệu chung">
+<!ENTITY aboutTelemetry.environmentDataSection "Dữ liệu môi trường">
 <!ENTITY aboutTelemetry.sessionInfoSection "Thông tin phiên">
+<!ENTITY aboutTelemetry.histogramsSection "Biểu đồ">
+<!ENTITY aboutTelemetry.eventsSection "Sự kiện">
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "Các phép đo đơn giản">
 <!ENTITY aboutTelemetry.slowSqlSection "Lệnh SQL Chậm">
 <!ENTITY aboutTelemetry.addonDetailsSection "Chi tiết về các tiện ích">
