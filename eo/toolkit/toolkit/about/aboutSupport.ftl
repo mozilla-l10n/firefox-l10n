@@ -242,6 +242,7 @@ effective-content-sandbox-level = Efektiva nivelo de izolado por enhava procezo
 sandbox-proc-type-content = enhavo
 sandbox-proc-type-file = enhavo de dosiero
 sandbox-proc-type-media-plugin = aŭdvida kromprogramo
+sandbox-proc-type-data-decoder = malkodilo de datumoj
 launcher-process-status-0 = Aktiva
 launcher-process-status-1 = Malaktiva pro paneo
 launcher-process-status-2 = Devigite malaktiva
