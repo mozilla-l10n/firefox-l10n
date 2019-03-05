@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
 <!ENTITY rights.locale-direction "ltr">
-<!ENTITY rights.title            "About Your Rights">
-<!ENTITY rights.intro-header     "About Your Rights">
-<!ENTITY rights.intro "&brandFullName; is free and open source software, built by a community of thousands from all over the world. There are a few things you should know:">
+<!ENTITY rights.title            "Pri viaj rajtoj">
+<!ENTITY rights.intro-header     "Pri viaj rajtoj">
+<!ENTITY rights.intro "&brandFullName; estas libera kaj malfermkoda programo, konstruita de komunumo de miloj da personoj el la tuta mondo. Estas kelkaj aferoj, kiujn vi devus scii:">
 
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is
@@ -15,12 +15,12 @@
 
      Also note the leading/trailing whitespace in strings here, which is
      deliberate for formatting around the embedded links. -->
-<!ENTITY rights.intro-point1a "&brandShortName; is made available to you under the terms of the ">
+<!ENTITY rights.intro-point1a "&brandShortName; estas akirebla de vi laŭ kondiĉoj de la permesilo ">
 <!ENTITY rights.intro-point1b "Mozilla Public License">
-<!ENTITY rights.intro-point1c ". This means you may use, copy and distribute &brandShortName; to others.  You are also welcome to modify the source code of &brandShortName; as you want to meet your needs. The Mozilla Public License also gives you the right to distribute your modified versions.">
+<!ENTITY rights.intro-point1c ". Tio signifas, ke vi povas uzi, kopii kaj distribui &brandShortName; al aliaj homoj. Vi ankaŭ rajtas modifi la fontan kodon de &brandShortName; kiel ajn vi volas por akomodi ĝin al viaj bezonoj. La permesilo Mozilla Public License ankaŭ rajtigas vin distribui viajn modifitajn versiojn.">
 
-<!ENTITY rights.intro-point2a "Mozilla does not grant you any rights to the Mozilla and Thunderbird trademarks or logos. Additional information on Trademarks may be found ">
-<!ENTITY rights.intro-point2b "here">
+<!ENTITY rights.intro-point2a "Mozilla ne donas al vi rajtojn pri disponi registritajn varmarkojn kaj emblemojn de Mozilla kaj Thunderbird. Pliaj informoj pri registritaj varmarkoj troviĝas ">
+<!ENTITY rights.intro-point2b "tie ĉi">
 <!ENTITY rights.intro-point2c ".">
 
 <!-- point 3 text for official branded builds -->
