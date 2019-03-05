@@ -47,6 +47,7 @@ app-basics-memory-use = Poraba pomnilnika
 app-basics-performance = Učinkovitost
 app-basics-service-workers = Registrirani Service Workerji
 app-basics-profiles = Profili
+app-basics-launcher-process-status = Proces zaganjača
 app-basics-multi-process-support = Večprocesna okna
 app-basics-process-count = Procesi spletne vsebine
 app-basics-enterprise-policies = Pravilniki za podjetja
@@ -254,7 +255,9 @@ effective-content-sandbox-level = Dejanska raven peskovnika vsebinskih opravil
 sandbox-proc-type-content = vsebina
 sandbox-proc-type-file = vsebina datoteke
 sandbox-proc-type-media-plugin = večpredstavni vtičnik
+sandbox-proc-type-data-decoder = podatkovni dekodirnik
 launcher-process-status-0 = Omogočeno
+launcher-process-status-1 = Onemogočeno zaradi napake
 launcher-process-status-2 = Prisilno onemogočeno
 launcher-process-status-unknown = Neznano stanje
 # Variables

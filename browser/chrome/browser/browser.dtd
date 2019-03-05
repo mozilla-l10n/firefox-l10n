@@ -996,6 +996,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Piškotki">
 <!ENTITY contentBlocking.cookiesView.label "Piškotki in podatki strani">
 
+<!ENTITY contentBlocking.cryptominers.label "Kriptorudarji">
+<!ENTITY contentBlocking.cryptominersView.label "Kriptorudarji">
 
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Prijavi težavo">
@@ -1129,7 +1131,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Upravljajte dodatke s klikom na <image class='addon-addon-icon'/> v meniju <image class='addon-toolbar-icon'/>.">
+<!ENTITY addonPostInstall.incognito.label "Dovoli, da se ta razširitev izvaja v zasebnih oknih.">
+<!ENTITY addonPostInstall.incognito.accesskey "z">
 
-<!ENTITY addonPrivateBrowsing.header.label "Razširitve v zasebnih oknih">
+<!ENTITY addonPrivateBrowsing.header2.label "Sprememba delovanja razširitev v zasebnih oknih">
+<!ENTITY addonPrivateBrowsing.body2.label "Nove razširitve, ki jih boste dodali v &brandShorterName;, ne bodo delovale v zasebnih oknih, razen če to dovolite v možnostih.">
+<!ENTITY addonPrivateBrowsing.learnMore.label "Več o upravljanju možnosti razširitev.">
 <!ENTITY addonPrivateBrowsing.okButton.label "Razumem">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "z">
+<!ENTITY addonPrivateBrowsing.manageButton.label "Upravljaj razširitve">
+<!ENTITY addonPrivateBrowsing.manageButton.accesskey "U">

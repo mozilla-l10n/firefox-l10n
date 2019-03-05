@@ -147,6 +147,43 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = Uporabi privzeto
 security-no-visits = Ne
+# This string is used to display the number of times
+# the user has visited the website prior
+# Variables:
+#   $visits (number) - The number of previous visits
+security-visits-number =
+    { $visits ->
+        [0] Ne
+        [one] Da, enkrat
+        [two] Da, { $visits }-krat
+        [few] Da, { $visits }-krat
+       *[other] Da, { $visits }-krat
+    }
+# This string is used to display the size of a media file
+# Variables:
+#   $kb (number) - The size of an image in Kilobytes
+#   $bytes (number) - The size of an image in Bytes
+properties-general-size =
+    .value =
+        { $bytes ->
+            [one] { $kb } KB ({ $bytes } bajt)
+            [two] { $kb } KB ({ $bytes } bajta)
+            [few] { $kb } KB ({ $bytes } bajte)
+           *[other] { $kb } KB ({ $bytes } bajtov)
+        }
+# This string is used to display the type and number
+# of frames of a animated image
+# Variables:
+#   $type (string) - The type of a animated image
+#   $frames (number) - The number of frames in an animated image
+media-animated-image-type =
+    .value =
+        { $frames ->
+            [one] Slika { $type } (animacija, { $frames } sličica)
+            [two] Slika { $type } (animacija, { $frames } sličici)
+            [few] Slika { $type } (animacija, { $frames } sličice)
+           *[other] Slika { $type } (animacija, { $frames } sličic)
+        }
 # This string is used to display the type of
 # an image
 # Variables:

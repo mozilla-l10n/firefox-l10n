@@ -341,6 +341,9 @@ browsing-search-on-start-typing =
 browsing-cfr-recommendations =
     .label = Med brskanjem priporoči razširitve
     .accesskey = r
+browsing-cfr-features =
+    .label = Med brskanjem priporoči možnosti
+    .accesskey = m
 browsing-cfr-recommendations-learn-more = Več o tem
 
 ## General Section - Proxy
@@ -535,6 +538,7 @@ sync-mobilepromo-single = Poveži drugo napravo
 sync-mobilepromo-multi = Upravljanje naprav
 sync-connect-another-device = Poveži drugo napravo
 sync-manage-devices = Upravljanje naprav
+sync-fxa-begin-pairing = Seznani napravo
 sync-tos-link = Pogoji uporabe
 sync-fxa-privacy-notice = Obvestilo o zasebnosti
 
@@ -699,6 +703,10 @@ content-blocking-tracking-protection-change-block-list = Zamenjaj seznam za zavr
 content-blocking-cookies-label =
     .label = Piškotke
     .accesskey = š
+# Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
+content-blocking-cryptominers-label =
+    .label = Kriptorudarje
+    .accesskey = K
 
 ## Privacy Section - Tracking
 
