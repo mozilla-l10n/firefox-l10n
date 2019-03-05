@@ -167,6 +167,27 @@ security-visits-number =
         [one] Kyllä, kerran
        *[other] Kyllä, { $visits } kertaa
     }
+# This string is used to display the size of a media file
+# Variables:
+#   $kb (number) - The size of an image in Kilobytes
+#   $bytes (number) - The size of an image in Bytes
+properties-general-size =
+    .value =
+        { $bytes ->
+            [one] { $kb } kt ({ $bytes } tavu)
+           *[other] { $kb } kt ({ $bytes } tavua)
+        }
+# This string is used to display the type and number
+# of frames of a animated image
+# Variables:
+#   $type (string) - The type of a animated image
+#   $frames (number) - The number of frames in an animated image
+media-animated-image-type =
+    .value =
+        { $frames ->
+            [one] { $type }-kuva (animoitu, { $frames } kuva)
+           *[other] { $type }-kuva (animoitu, { $frames } kuvaa)
+        }
 # This string is used to display the type of
 # an image
 # Variables:
