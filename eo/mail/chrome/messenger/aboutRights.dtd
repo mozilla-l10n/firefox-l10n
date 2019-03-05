@@ -51,19 +51,19 @@
 <!ENTITY rights.webservices-a "&brandFullName; oferas malneprajn servojn (sekve “Servoj”), kiel servon por ĝisdatigi aldonaĵojn, kiuj estas disponeblaj por uzi kun tiu ĉi kompilita versio de &brandShortName; laŭ la kondiĉoj priskribitaj sube. Se vi ne volas uzi Servojn aŭ ne akceptas iliajn kondiĉojn, vi povas malaktivigi servon por ĝisdatigi aldonaĵojn per malfermi “elekteblojn”, klaku la sekcion ">
 <!ENTITY rights.webservices-b "“spertulajn”">
 <!ENTITY rights.webservices-c " sekve elektu la langeton ">
-<!ENTITY rights.webservices-d "Update">
-<!ENTITY rights.webservices-e " tab, and unchecking the options for &quot;Automatically check for updates to&quot;.">
+<!ENTITY rights.webservices-d "“ĝisdatigo”">
+<!ENTITY rights.webservices-e " kaj malmarku la agordon “aŭtomate kontroli pri ĝisdatigoj”.">
 
 <!-- intro paragraph for unbranded builds -->
-<!ENTITY rights.webservices-unbranded "An overview of the web site services the product incorporates, along with instructions on how to disable them, if applicable, should be included here.">
+<!ENTITY rights.webservices-unbranded "Sumigo pri la retejaj servoj inkluzivitaj en la produkto, kune kun instrukcioj pri kiel malaktivigi ilin – se tio eblas – devus aperi tie ĉi.">
 
 <!-- point 1 text for unbranded builds -->
-<!ENTITY rights.webservices-term1-unbranded "Any applicable service terms for this product should be listed here.">
+<!ENTITY rights.webservices-term1-unbranded "Ĉiu aplikebla kondiĉo de servoj por tiu ĉi produkto devus esti listigita tie ĉi.">
 
 <!-- points 1-7 text for branded builds -->
-<!ENTITY rights.webservices-term1 "&vendorShortName; may discontinue or change the Services at its discretion.">
-<!ENTITY rights.webservices-term2 "You are welcome to use these Services with the accompanying version of &brandShortName;, and you have all the rights necessary to do so.  &vendorShortName; and its licensors reserve all other rights in the Services.  These terms are not intended to limit any rights granted under open source licenses applicable to &brandShortName; and to corresponding source code versions of &brandShortName;.">
-<!ENTITY rights.webservices-term3 "The Services are provided &quot;as-is.&quot;  &vendorShortName;, its contributors, licensors, and distributors, disclaim all warranties, whether express or implied, including without limitation, warranties that the Services are merchantable and fit for your particular purposes.  You bear the entire risk as to selecting the Services for your purposes and as to the quality and performance of the Services. Some jurisdictions do not allow the exclusion or limitation of implied warranties, so this disclaimer may not apply to you.">
-<!ENTITY rights.webservices-term4 "Except as required by law, &vendorShortName;, its contributors, licensors, and distributors will not be liable for any indirect, special, incidental, consequential, punitive, or exemplary damages arising out of or in any way relating to the use of &brandShortName; and the Services.  The collective liability under these terms will not exceed $500 (five hundred dollars). Some jurisdictions do not allow the exclusion or limitation of certain damages, so this exclusion and limitation may not apply to you.">
-<!ENTITY rights.webservices-term5 "&vendorShortName; may update these terms as necessary from time to time. These terms may not be modified or canceled without &vendorShortName;'s written agreement.">
-<!ENTITY rights.webservices-term6 "These terms are governed by the laws of the state of California, U.S.A., excluding its conflict of law provisions. If any portion of these terms is held to be invalid or unenforceable, the remaining portions will remain in full force and effect. In the event of a conflict between a translated version of these terms and the English language version, the English language version shall control.">
+<!ENTITY rights.webservices-term1 "&vendorShortName; povas maldaŭrigi aŭ ŝanĝi funkciadon de la Servojn laŭ ĝia volo.">
+<!ENTITY rights.webservices-term2 "Vi rajtas uzi la Servojn kun la rilata versio de &brandShortName;. &vendorShortName; kaj ĝiaj permesil-donantoj restriktas ĉiujn aliajn rajtojn al la Servoj. Tiuj kondiĉoj tamen ne celas limigi iujn rajtojn garantiitajn de malfermkodaj permesiloj de &brandShortName; kaj rilataj fontkodaj versioj de &brandShortName;.">
+<!ENTITY rights.webservices-term3 "La Servoj estas liverataj sen iu ajn garantio. &vendorShortName;, ĝiaj kontribuantoj, permesil-donantoj kaj distribuantoj garantias nenion – aŭ rekte aŭ subkomprenige – inkluzivante garantion, ke la Servoj estas en komerca kvalito kaj taŭgas por bezonoj de la uzanto. Vi mem respondumas pri elekti la Servojn por viaj bezonoj kaj pri ĝiaj efikecoj kaj kvalitoj. Iuj juĝpovoj ne permesas ekskluzivi aŭ limigi implicitajn garantiojn, do tiu ĉi malgarantio povas ne temi vin.">
+<!ENTITY rights.webservices-term4 "Escepte de juĝaj bezonoj, &vendorShortName;, ĝiaj kontribuantoj, permesil-donantoj kaj distribuantoj ne respondumas pri iujn ajn nerektaj, speciaj, hazardaj, rezultaj, punaj aŭ moralaj difektoj estigitaj pro uzado de &brandShortName; kaj la Servoj. Kolektiva respondumo laŭ tiuj ĉi kondiĉoj ne povas troigi $500 (kvincent Usonaj dolaroj). Iuj juĝpovoj malpermesas ekskluzivi aŭ limigi respondumojn pro iuj difektoj, do tiu ĉi malgarantio povas ne temi vin.">
+<!ENTITY rights.webservices-term5 "&vendorShortName; povas iam aktualigi tiujn kondiĉojn. Tiuj kondiĉoj ne povas esti modifitaj aŭ nuligitaj sen skriba permeso de &vendorShortName;.">
+<!ENTITY rights.webservices-term6 "La jenaj kondiĉoj estu prijuĝitaj laŭ leĝoj de la subŝtato Kalifornio (Usono), escepte se ĝi konfliktas kun la leĝo. Se iun parton de tiuj kondiĉoj oni aljuĝos kiel eraran aŭ nerealigeblan, la restantaj partoj estos validaj. Se okazas konflikto inter tradukita versio de tiuj kondiĉoj kaj la angla versio; decidoj de la angla versio validas.">
