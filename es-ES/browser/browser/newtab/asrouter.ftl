@@ -3,11 +3,14 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 cfr-doorhanger-extension-heading = Extensión recomendada
+cfr-doorhanger-pintab-heading = Intenta esto: Fijar pestaña
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = ¿Por qué estoy viendo esto?
 cfr-doorhanger-extension-cancel-button = Ahora no
     .accesskey = N
 cfr-doorhanger-extension-ok-button = Añadir ahora
+    .accesskey = A
+cfr-doorhanger-pintab-ok-button = Fijar esta pestaña
     .accesskey = A
 cfr-doorhanger-extension-manage-settings-button = Administrar ajustes de recomendaciones
     .accesskey = m
@@ -41,3 +44,12 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } usuario
        *[other] { $total } usuarios
     }
+cfr-doorhanger-pintab-description = Obtén acceso rápido a tus sitios más visitados. Mantén sitios abiertos en una pestaña (incluso cuando reinicies).
+
+## These messages are steps on how to use the feature and are shown together.
+
+cfr-doorhanger-pintab-step1 = <b>Haz clic con el botón derecho</b> en la pestaña que quieres fijar.
+cfr-doorhanger-pintab-step2 = Selecciona <b>Fijar pestaña</b> en el menú.
+cfr-doorhanger-pintab-step3 = Si el sitio tiene una actualización, verás un punto azul en la pestaña fijada.
+cfr-doorhanger-pintab-animation-pause = Pausar
+cfr-doorhanger-pintab-animation-resume = Reanudar
