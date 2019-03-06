@@ -12,3 +12,4 @@
 <!ENTITY sync "Če želite sinhronizirati podatke, ki ste jih že shranili v Firefox s to namestitvijo &brandShortName;a, se prijavite s svojim &syncBrand.fxAccount.label;om.">
 <!ENTITY continue-button "Nadaljuj">
 
+<!ENTITY mainText "Ta namestitev &brandShortName;a ima nov profil. Na tem računalniku ne deli zaznamkov, gesel in uporabniških nastavitev z drugimi namestitvami Firefoxa (velja za Firefox, Firefox ESR, Firefox Beta, Firefox Developer Edition in Firefox Nightly).">
