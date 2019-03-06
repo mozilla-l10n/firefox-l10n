@@ -131,6 +131,9 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.accesskey "d">
 <!ENTITY printCmd.commandkey "p">
 
+<!ENTITY importFromAnotherBrowserCmd.label "Importeren vanuit een andere browser…">
+<!ENTITY importFromAnotherBrowserCmd.accesskey "b">
+
 <!ENTITY taskManagerCmd.label "Taakbeheerder">
 
 <!ENTITY goOfflineCmd.label "Offline werken">
