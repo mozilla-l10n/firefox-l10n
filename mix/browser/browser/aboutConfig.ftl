@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+about-config-search-input =
+    .placeholder = Nduku
+about-config-show-all = Snaa ntia
 about-config-pref-add = Chikaa
 about-config-pref-toggle = Sama
 about-config-pref-edit = Sama
