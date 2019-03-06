@@ -9,6 +9,8 @@ cfr-doorhanger-extension-cancel-button = Pas maintenant
     .accesskey = P
 cfr-doorhanger-extension-ok-button = Ajouter maintenant
     .accesskey = A
+cfr-doorhanger-pintab-ok-button = Épingler cet onglet
+    .accesskey = i
 cfr-doorhanger-extension-manage-settings-button = Gérer les paramètres de recommandation
     .accesskey = G
 cfr-doorhanger-extension-never-show-recommendation = Ne pas montrer cette recommandation
@@ -41,7 +43,12 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } utilisateur
        *[other] { $total } utilisateurs
     }
+cfr-doorhanger-pintab-description = Obtenez un accès facile à vos sites les plus utilisés. Gardez les sites ouverts dans un onglet (même lorsque vous redémarrez).
 
 ## These messages are steps on how to use the feature and are shown together.
 
 cfr-doorhanger-pintab-step1 = <b>Effectuez un clic droit</ b> sur l’onglet que vous souhaitez épingler.
+cfr-doorhanger-pintab-step2 = Sélectionnez <b>Épingler cet onglet</b> dans le menu.
+cfr-doorhanger-pintab-step3 = Si le site est mis à jour vous verrez un point bleu apparaître sur votre onglet épinglé.
+cfr-doorhanger-pintab-animation-pause = Pause
+cfr-doorhanger-pintab-animation-resume = Reprendre
