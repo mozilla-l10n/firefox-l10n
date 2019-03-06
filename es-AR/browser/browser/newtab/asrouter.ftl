@@ -48,8 +48,8 @@ cfr-doorhanger-pintab-description = Acceda fácilmente a sus sitios más utiliza
 
 ## These messages are steps on how to use the feature and are shown together.
 
-cfr-doorhanger-pintab-step1 = <b> Haga clic con el botón derecho </b> en la pestaña que desea pegar.
-cfr-doorhanger-pintab-step2 = Seleccione <b> Pegar pestaña </b> en el menú.
+cfr-doorhanger-pintab-step1 = <b>Haga clic con el botón derecho</b> en la pestaña que desea pegar.
+cfr-doorhanger-pintab-step2 = Seleccione <b>Pegar pestaña</b> en el menú.
 cfr-doorhanger-pintab-step3 = Si el sitio tiene una actualización, verá un punto azul en la pestaña pegada.
 cfr-doorhanger-pintab-animation-pause = Pausar
 cfr-doorhanger-pintab-animation-resume = Continuar
