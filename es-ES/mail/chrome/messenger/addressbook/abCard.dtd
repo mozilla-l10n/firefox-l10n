@@ -60,8 +60,11 @@
 <!ENTITY Birthday.label "Cumpleaños:">
 <!ENTITY Birthday.accesskey "u">
 <!ENTITY In.label "">
+<!ENTITY Month.placeholder "Mes">
+<!ENTITY Day.placeholder "Día">
 <!ENTITY Year.placeholder "Año">
 <!ENTITY Or.value "o">
+<!ENTITY Age.label "Edad:">
 <!ENTITY Age.placeholder "Edad">
 <!ENTITY YearsOld.label "">
 <!ENTITY Work.tab "Trabajo">
