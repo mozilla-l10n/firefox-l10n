@@ -534,7 +534,7 @@ sync-connect-another-device = In oar apparaat ferbine
 sync-manage-devices = Apparaten beheare
 sync-fxa-begin-pairing = In apparaat keppelje
 sync-tos-link = Tsjinstbetingsten (In)
-sync-fxa-privacy-notice = Privacy-opmerking
+sync-fxa-privacy-notice = Privacyferklearring
 
 ## Privacy Section
 
