@@ -1134,6 +1134,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addonPostInstall.incognito.label "Permitir que esta extensión se ejecute en ventanas privadas.">
 <!ENTITY addonPostInstall.incognito.accesskey "P">
 
+<!ENTITY addonPrivateBrowsing.header2.label "Cambiar a extensiones en ventanas privadas">
 <!ENTITY addonPrivateBrowsing.body2.label "Cualquier nueva extensión que añada a &brandShorterName; no funcionará en ventanas privadas a menos que lo permita en la configuración.">
 <!ENTITY addonPrivateBrowsing.learnMore.label "Sepa cómo administrar la configuración de extensiones.">
 <!ENTITY addonPrivateBrowsing.okButton.label "Vale, entendido">
