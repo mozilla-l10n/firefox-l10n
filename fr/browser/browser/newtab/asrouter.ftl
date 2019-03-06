@@ -41,3 +41,7 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } utilisateur
        *[other] { $total } utilisateurs
     }
+
+## These messages are steps on how to use the feature and are shown together.
+
+cfr-doorhanger-pintab-step1 = <b>Effectuez un clic droit</ b> sur l’onglet que vous souhaitez épingler.
