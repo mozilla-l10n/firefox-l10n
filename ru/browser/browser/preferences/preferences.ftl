@@ -339,7 +339,7 @@ browsing-cfr-recommendations =
     .label = Рекомендовать расширения при просмотре
     .accesskey = к
 browsing-cfr-features =
-    .label = Рекомендавать функции при просмотре
+    .label = Рекомендовать функции при просмотре
     .accesskey = ф
 browsing-cfr-recommendations-learn-more = Подробнее
 
