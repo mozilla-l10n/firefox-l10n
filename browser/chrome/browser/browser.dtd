@@ -131,6 +131,9 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.accesskey "ш">
 <!ENTITY printCmd.commandkey "p">
 
+<!ENTITY importFromAnotherBrowserCmd.label "Басқа браузерден импорттау…">
+<!ENTITY importFromAnotherBrowserCmd.accesskey "и">
+
 <!ENTITY taskManagerCmd.label "Тапсырмалар басқарушысы">
 
 <!ENTITY goOfflineCmd.label "Дербес жұмыс істеу">
