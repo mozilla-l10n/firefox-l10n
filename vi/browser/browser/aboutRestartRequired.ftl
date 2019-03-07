@@ -5,5 +5,6 @@
 restart-required-title = Yêu cầu khởi động lại
 restart-required-header = Xin lỗi. Chúng tôi chỉ cần làm một việc nho nhỏ để tiếp tục.
 restart-required-intro = Chúng tôi đã cài đặt bản cập nhật ở chế độ nền. Nhấn Khởi động lại { -brand-short-name } để hoàn tất các thay đổi.
+restart-required-intro-brand = { -brand-short-name } vừa được cập nhật trong nền. Nhấp vào Khởi động lại { -brand-short-name } để hoàn thành cập nhật.
 restart-required-description = Sau đó, chúng tôi sẽ khôi phục tất cả các trang, cửa sổ và thẻ của bạn để bạn có thể quay lại công việc của mình một cách nhanh chóng.
 restart-button-label = Khởi động lại { -brand-short-name }
