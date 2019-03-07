@@ -131,6 +131,8 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.accesskey "ط">
 <!ENTITY printCmd.commandkey "p">
 
+<!ENTITY importFromAnotherBrowserCmd.label "استورد من متصفح آخر…">
+
 <!ENTITY taskManagerCmd.label "مدير المهام">
 
 <!ENTITY goOfflineCmd.label "اعمل دون اتصال">
@@ -996,6 +998,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "الكعكات">
 <!ENTITY contentBlocking.cookiesView.label "الكعكات وبيانات المواقع">
 
+
+
 <!ENTITY contentBlocking.openBreakageReportView2.label "أبلِغ عن مشكلة">
 <!ENTITY contentBlocking.breakageReportView.label "الإبلاغ عن مشاكل">
 <!ENTITY contentBlocking.breakageReportView2.description "يمكن أن يتسبّب حجب المحتوى بمشاكل مع بعض المواقع. عندما تُبلغ عن المشاكل تكون تساعد في جعل &brandShortName; أفضل للجميع. (سيُرسل هذا مسار الصفحة كما ومعلومات عن إعدادات المتصفح لديك إلى موزيلا.)">
@@ -1127,9 +1131,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "أدِر إضافاتك بنقر <image class='addon-addon-icon'/> في قائمة <image class='addon-toolbar-icon'/>.">
+<!ENTITY addonPostInstall.incognito.label "اسمح لهذا الامتداد بأن يعمل في النوافذ الخاصة.">
 
-<!ENTITY addonPrivateBrowsing.header.label "الامتدادات في النوافذ الخاصة">
-<!ENTITY addonPrivateBrowsing.body.label "ليس مسموحًا بأن تعمل الامتدادات في النوافذ الخاصة مبدئيًا. هكذا لن تعمل وأنت تتصفّح خفية، ولن تقدر على معرفة نشاطاتك على الشبكة. يمكنك السماح بتشغيل الامتدادات في النوافذ الخاصة بإدارتها من قائمة الإعدادات.">
+<!ENTITY addonPrivateBrowsing.learnMore.label "اطّلع على طريقة إدارة إعدادات الامتدادات.">
 <!ENTITY addonPrivateBrowsing.okButton.label "حسنًا، فهمت">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "ح">
 <!ENTITY addonPrivateBrowsing.manageButton.label "أدِر الامتدادات">
