@@ -131,6 +131,9 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.accesskey "z">
 <!ENTITY printCmd.commandkey "p">
 
+<!ENTITY importFromAnotherBrowserCmd.label "Başka bir tarayıcıdan içe aktar…">
+<!ENTITY importFromAnotherBrowserCmd.accesskey "B">
+
 <!ENTITY taskManagerCmd.label "Görev yöneticisi">
 
 <!ENTITY goOfflineCmd.label "Çevrimdışı çalış">
