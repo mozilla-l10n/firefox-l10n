@@ -131,6 +131,9 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.accesskey "u">
 <!ENTITY printCmd.commandkey "p">
 
+<!ENTITY importFromAnotherBrowserCmd.label "Importera från en annan webbläsare…">
+<!ENTITY importFromAnotherBrowserCmd.accesskey "I">
+
 <!ENTITY taskManagerCmd.label "Aktivitetshanterare">
 
 <!ENTITY goOfflineCmd.label "Arbeta nedkopplad">
