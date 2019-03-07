@@ -7,5 +7,6 @@ restart-required-header = Desculpe. Precisamos de fazer uma pequena coisa para c
 restart-required-intro =
     Acabámos de instalar uma atualização em segundo plano. Clique em Reiniciar o { -brand-short-name } para terminar
     de a aplicar.
+restart-required-intro-brand = O { -brand-short-name } acabou de ser atualizado em segundo plano. Clique em Reiniciar o { -brand-short-name } para concluir a atualização.
 restart-required-description = Iremos restaurar todas as suas páginas, janelas e separadores depois, para que possa estar no seu caminho rapidamente.
 restart-button-label = Reiniciar o { -brand-short-name }
