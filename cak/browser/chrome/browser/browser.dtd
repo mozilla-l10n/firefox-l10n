@@ -131,6 +131,9 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.accesskey "T">
 <!ENTITY printCmd.commandkey "p">
 
+<!ENTITY importFromAnotherBrowserCmd.label "Tijik' pa Jun Chik Okik'amaya'l…">
+<!ENTITY importFromAnotherBrowserCmd.accesskey "T">
+
 <!ENTITY taskManagerCmd.label "Kinuk'samajixik taq Samaj">
 
 <!ENTITY goOfflineCmd.label "Chupül rusamaj">
