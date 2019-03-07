@@ -245,7 +245,7 @@ shortcuts-card-expand-button =
     { $numberToShow ->
         [one] { $numberToShow } więcej
         [few] { $numberToShow } więcej
-       *[other] { $numberToShow } więcej
+       *[many] { $numberToShow } więcej
     }
 shortcuts-card-collapse-button = Mniej
 go-back-button =
