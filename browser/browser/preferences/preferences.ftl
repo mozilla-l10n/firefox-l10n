@@ -4,10 +4,6 @@
 
 do-not-track-description = Kirim sinyal “Jangan Lacak” ke situs web bahwa Anda tidak ingin dilacak
 do-not-track-learn-more = Pelajari lebih lanjut
-do-not-track-option-default =
-    .label = Hanya saat menggunakan Perlindungan Pelacakan
-do-not-track-option-default-content-blocking =
-    .label = Hanya saat { -brand-short-name } disetel untuk memblokir Pelacak Terdeteksi
 do-not-track-option-default-content-blocking-known =
     .label = Hanya ketika { -brand-short-name } diatur untuk memblokir pelacak yang diketahui
 do-not-track-option-always =
@@ -95,9 +91,6 @@ extension-controlled-default-search = Ekstensi <img data-l10n-name="icon"/> { $n
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = Ekstensi <img data-l10n-name="icon"/> { $name } membutuhkan Tab Kontainer.
-# This string is shown to notify the user that their tracking protection preferences
-# are being controlled by an extension.
-extension-controlled-websites-tracking-protection-mode = Ekstensi <img data-l10n-name="icon"/> { $name } mengendalikan perlindungan pelacakan.
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
 extension-controlled-websites-content-blocking-all-trackers = Ekstensi <img data-l10n-name="icon"/> { $name } mengontrol setelan ini.
@@ -154,9 +147,6 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = Buka tautan di tab, bukan di jendela baru
     .accesskey = t
-warn-on-quit-close-multiple-tabs =
-    .label = Ingatkan ketika keluar dan menutup banyak tab
-    .accesskey = m
 warn-on-close-multiple-tabs =
     .label = Ingatkan ketika menutup banyak tab sekaligus
     .accesskey = m
@@ -521,6 +511,8 @@ sync-device-name-save =
     .accesskey = S
 sync-mobilepromo-single = Sambungkan peranti lain
 sync-mobilepromo-multi = Kelola peranti
+sync-connect-another-device = Hubungkan perangkat lain
+sync-manage-devices = Kelola perangkat
 sync-tos-link = Ketentuan Layanan
 sync-fxa-privacy-notice = Pernyataan Privasi
 
@@ -597,12 +589,6 @@ sitedata-total-size-calculating = Menghitung ukuran data situs dan tembolok…
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Kuki, data situs tersimpan, dan tembolok Anda saat ini menggunakan ruang penyimpanan { $value } { $unit }.
 sitedata-learn-more = Pelajari lebih lanjut
-sitedata-keep-until = Simpan hingga
-    .accesskey = h
-sitedata-keep-until-expire =
-    .label = Kedaluwarsa
-sitedata-keep-until-closed =
-    .label = { -brand-short-name } ditutup
 sitedata-delete-on-close =
     .label = Hapus kuki dan data situs ketika { -brand-short-name } ditutup
     .accesskey = c
@@ -616,16 +602,6 @@ sitedata-disallow-cookies-option =
 # The list items are the strings named sitedata-block-*-option*.
 sitedata-block-desc = Tipe yang diblokir
     .accesskey = T
-sitedata-block-trackers-option-recommended =
-    .label = Pelacak pihak ketiga (disarankan)
-sitedata-block-trackers-option =
-    .label = Pelacak pihak ketiga
-sitedata-block-unvisited-option =
-    .label = Kuki dari situs web yang belum dikunjungi
-sitedata-block-all-third-party-option =
-    .label = Semua kuki pihak ketiga (mungkin menyebabkan situs tidak bekerja)
-sitedata-block-all-option =
-    .label = Semua kuki (akan menyebabkan situs tidak bekerja)
 sitedata-option-block-trackers =
     .label = Pelacak pihak ketiga
 sitedata-option-block-unvisited =
@@ -640,13 +616,6 @@ sitedata-clear =
 sitedata-settings =
     .label = Kelola Data
     .accesskey = K
-sitedata-cookies-exceptions =
-    .label = Pengecualian…
-    .accesskey = e
-# This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
-# in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
-# Cookies and Site Data section.
-sitedata-warning-your-settings-prevent-changes = Setelan Anda di Pemblokiran Konten mencegah perubahan atas pengaturan Kuki dan Data Situs.
 sitedata-cookies-permissions =
     .label = Kelola Izin…
     .accesskey = K
@@ -669,41 +638,8 @@ addressbar-suggestions-settings = Ubah pengaturan untuk saran mesin pencari
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Pemblokiran Konten
-content-blocking-desc = Blokir konten pihak ketiga, seperti iklan atau kode, yang memperlambat penjelajahan Anda dan melacak Anda di web. Ubahsuai setelan Anda untuk perlindungan dan kinerja terbaik.
 content-blocking-description = Blokir konten pihak ketiga yang melacak Anda di seantero web. Kendalikan berapa banyak aktivitas daring Anda yang tersimpan dan dibagi antara situs.
 content-blocking-learn-more = Pelajari Lebih Lanjut
-content-blocking-restore-defaults =
-    .label = Pulihkan Bawaan
-    .accesskey = P
-content-blocking-toggle-on =
-    .tooltiptext = Nonaktifkan Pemblokiran Konten
-content-blocking-toggle-off =
-    .tooltiptext = Aktifkan Pemblokiran Konten
-content-blocking-toggle-label-on = AKTIF
-    .accesskey = A
-content-blocking-toggle-label-off = NONAKTIF
-    .accesskey = N
-content-blocking-category-label = Pilih yang ingin diblokir
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-slow-loading-trackers-label =
-    .label = Pelacak yang Dimuat Lambat
-    .accesskey = L
-content-blocking-fastblock-new-description = Hanya blokir pelacak yang membuat laman lambat dimuat.
-content-blocking-tracking-protection-trackers-label =
-    .label = Pelacak
-    .accesskey = P
-content-blocking-tracking-protection-all-detected-trackers-label =
-    .label = Semua Pelacak Terdeteksi
-    .accesskey = P
-content-blocking-tracking-protection-new-description = Blokir semua pelacak diketahui (mungkin mencegah beberapa laman dimuat).
-content-blocking-tracking-protection-option-always =
-    .label = Selalu
-    .accesskey = e
-content-blocking-tracking-protection-option-private =
-    .label = Hanya di jendela pribadi
-    .accesskey = p
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 content-blocking-setting-standard =
@@ -736,51 +672,12 @@ content-blocking-option-private =
     .label = Hanya di Jendela Pribadi
     .accesskey = H
 content-blocking-tracking-protection-change-block-list = Ubah daftar blokir
-content-blocking-third-party-cookies-label =
-    .label = Kuki Pihak Ketiga
-    .accesskey = K
-content-blocking-reject-trackers-description = Blokir semua kuki pihak ketiga atau hanya yang diatur oleh pelacak.
-# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
-# of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
-# or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
-# the UI.
-content-blocking-reject-trackers-warning-your-settings-prevent-changes = Pengaturan Anda di Kuki dan Data Situs mencegah perubahan pada setelan Kuki Pihak Ketiga.
-content-blocking-change-cookie-settings =
-    .label = Ubah Setelan Kuki
-    .accesskey = U
-content-blocking-reject-trackers-block-trackers-option-recommended =
-    .label = Pelacak (direkomendasikan)
-    .accesskey = k
-content-blocking-reject-trackers-block-trackers-option =
-    .label = Pelacak
-    .accesskey = k
-content-blocking-reject-trackers-all-third-parties-option =
-    .label = Semua kuki pihak ketiga (mungkin menyebabkan situs tidak bekerja)
-    .accesskey = a
 content-blocking-cookies-label =
     .label = Kuki
     .accesskey = K
 
 ## Privacy Section - Tracking
 
-tracking-header = Perlindungan Pelacakan
-tracking-desc = Perlindungan pelacakan memblokir pelacak daring yang mengumpulkan data penjelajahan Anda lintas berbagai situs web. <a data-l10n-name="learn-more">Pelajari lebih lanjut tentang Perlindungan Pelacakan dan privasi Anda</a>
-tracking-mode-label = Gunakan Perlindungan Pelacakan untuk memblokir pelacak yang diketahui
-tracking-mode-always =
-    .label = Selalu
-    .accesskey = S
-tracking-mode-private =
-    .label = Hanya di jendela pribadi
-    .accesskey = p
-tracking-mode-never =
-    .label = Tidak Pernah
-    .accesskey = P
-tracking-exceptions =
-    .label = Pengecualian…
-    .accesskey = e
-tracking-change-block-list =
-    .label = Ubah Daftar Blokir…
-    .accesskey = U
 tracking-manage-exceptions =
     .label = Kelola Pengecualian…
     .accesskey = P

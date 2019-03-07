@@ -147,6 +147,15 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = Gunakan yang Baku
 security-no-visits = Tidak
+# This string is used to display the number of meta tags
+# in the General Tab
+# Variables:
+#   $tags (number) - The number of meta tags
+general-meta-tags =
+    .value =
+        { $tags ->
+           *[other] Meta ({ $tags } tags)
+        }
 # This string is used to display the type of
 # an image
 # Variables:

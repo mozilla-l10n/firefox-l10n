@@ -7,13 +7,8 @@ about-policies-title = Kebijakan Perusahaan
 active-policies-tab = Aktif
 errors-tab = Galat
 documentation-tab = Dokumentasi
+no-specified-policies-message = Layanan Kebijakan Perusahaan aktif tetapi tidak ada kebijakan yang diaktifkan.
+inactive-message = Layanan Kebijakan Perusahaan tidak aktif.
 policy-name = Nama Kebijakan
 policy-value = Nilai Kebijakan
 policy-errors = Masalah Kebijakan
-# 'gpo-machine-only' policies are related to the Group Policy features
-# on Windows. Please use the same terminology that is used on Windows
-# to describe Group Policy.
-# These policies can only be set at the computer-level settings, while
-# the other policies can also be set at the user-level.
-gpo-machine-only =
-    .title = Saat menggunakan Kebijakan Grup, kebijakan ini hanya dapat diatur pada tingkatan komputer.
