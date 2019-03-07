@@ -132,7 +132,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.commandkey "p">
 
 <!ENTITY importFromAnotherBrowserCmd.label "Importera från en annan webbläsare…">
-<!ENTITY importFromAnotherBrowserCmd.accesskey "I">
+<!ENTITY importFromAnotherBrowserCmd.accesskey "m">
 
 <!ENTITY taskManagerCmd.label "Aktivitetshanterare">
 
