@@ -36,7 +36,7 @@ cfr-doorhanger-extension-rating =
         { $total ->
             [one] { $total } звезда
             [few] { $total } звезды
-           *[other] { $total } звёзд
+           *[many] { $total } звёзд
         }
 # Variables:
 #   $total (Number) - The total number of users using the add-on
@@ -44,7 +44,7 @@ cfr-doorhanger-extension-total-users =
     { $total ->
         [one] { $total } пользователь
         [few] { $total } пользователя
-       *[other] { $total } пользователей
+       *[many] { $total } пользователей
     }
 cfr-doorhanger-pintab-description = Получите лёгкий доступ к наиболее часто используемым вами сайтам. Оставляйте сайты открытыми (даже после перезапуска браузера).
 
