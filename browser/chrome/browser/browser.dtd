@@ -131,6 +131,9 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.accesskey "i">
 <!ENTITY printCmd.commandkey "p">
 
+<!ENTITY importFromAnotherBrowserCmd.label "Z druheho wobhladowaka importować…">
+<!ENTITY importFromAnotherBrowserCmd.accesskey "i">
+
 <!ENTITY taskManagerCmd.label "Zrjadowak nadawkow">
 
 <!ENTITY goOfflineCmd.label "Offline dźełać">
