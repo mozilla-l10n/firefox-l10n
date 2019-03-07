@@ -250,7 +250,7 @@ shortcuts-card-expand-button =
     { $numberToShow ->
         [one] Показати ще { $numberToShow }
         [few] Показати ще { $numberToShow }
-       *[other] Показати ще { $numberToShow }
+       *[many] Показати ще { $numberToShow }
     }
 shortcuts-card-collapse-button = Показати менше
 go-back-button =
