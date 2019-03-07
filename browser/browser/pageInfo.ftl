@@ -156,7 +156,7 @@ general-meta-tags =
         { $tags ->
             [one] Мета (1 мітка)
             [few] Мета ({ $tags } мітки)
-           *[other] Мета ({ $tags } міток)
+           *[many] Мета ({ $tags } міток)
         }
 # This string is used to display the number of times
 # the user has visited the website prior
@@ -167,7 +167,7 @@ security-visits-number =
         [0] Немає
         [one] Так, один раз
         [few] Так, { $visits } рази
-       *[other] Так, { $visits } разів
+       *[many] Так, { $visits } разів
     }
 # This string is used to display the size of a media file
 # Variables:
@@ -178,7 +178,7 @@ properties-general-size =
         { $bytes ->
             [one] { $kb } КБ ({ $bytes } байт)
             [few] { $kb } КБ ({ $bytes } байти)
-           *[other] { $kb } КБ ({ $bytes } байтів)
+           *[many] { $kb } КБ ({ $bytes } байтів)
         }
 # This string is used to display the type and number
 # of frames of a animated image
@@ -190,7 +190,7 @@ media-animated-image-type =
         { $frames ->
             [one] Зображення { $type } (анімація, { $frames } кадр)
             [few] Зображення { $type } (анімація, { $frames } кадри)
-           *[other] Зображення { $type } (анімація, { $frames } кадрів)
+           *[many] Зображення { $type } (анімація, { $frames } кадрів)
         }
 # This string is used to display the type of
 # an image
