@@ -5,5 +5,6 @@
 restart-required-title = Патрабуецца перазапуск
 restart-required-header = Прабачце. Нам трэба зрабіць адну невялікую рэч, каб працягнуць працу.
 restart-required-intro = Мы толькі што ўсталявалі абнаўленне ў фонавым рэжыме. Націсніце Перазапуск { -brand-short-name } для яго прымянення.
+restart-required-intro-brand = { -brand-short-name } толькі што абнавіўся ў фонавым рэжыме. Націсніце Перазапусціць { -brand-short-name } для завяршэння абнаўлення.
 restart-required-description = Усе вашы старонкі, вокны і карткі будуць узноўлены, і вы зможаце хутка прадоўжыць свае справы.
 restart-button-label = Перазапусціць { -brand-short-name }
