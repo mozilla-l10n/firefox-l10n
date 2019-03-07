@@ -7,13 +7,8 @@ about-policies-title = سياسات المؤسسات
 active-policies-tab = نشطة
 errors-tab = الأخطاء
 documentation-tab = التوثيق
+no-specified-policies-message = خدمة سياسات المؤسسات نشطة إلا أنك لم تفعّل أي سياسة.
+inactive-message = خدمة سياسات المؤسسات غير نشطة.
 policy-name = اسم السياسة
 policy-value = قيمة السياسة
 policy-errors = أخطاء السياسة
-# 'gpo-machine-only' policies are related to the Group Policy features
-# on Windows. Please use the same terminology that is used on Windows
-# to describe Group Policy.
-# These policies can only be set at the computer-level settings, while
-# the other policies can also be set at the user-level.
-gpo-machine-only =
-    .title = يمكن ضبط هذه السياسة على مستوى الحاسوب فقط، وذلك عند استخدام ”سياسة المجموعات“.

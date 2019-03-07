@@ -8,14 +8,20 @@ about-config-warning-text = تغيير القيم المبدئية لهذه ال
 about-config-warning-checkbox = أزعِجني بهذا المرة القادمة!
 about-config-warning-button = أقبل المخاطرة
 about-config-title = about:config
-about-config-search =
-    .placeholder = ابحث أو اضغط مفتاح ESC لعرض كل شيء
+about-config-search-input =
+    .placeholder = ابحث
+about-config-show-all = أظهر الكل
 about-config-pref-add = أضِف
 about-config-pref-toggle = بدّل
 about-config-pref-edit = حرّر
 about-config-pref-save = احفظ
 about-config-pref-reset = صفّر
 about-config-pref-delete = احذف
+
+## Labels for the type selection radio buttons shown when adding preferences.
+
+about-config-pref-add-type-boolean = قيمة منطقية
+about-config-pref-add-type-string = نص
 
 ## Preferences with a non-default value are differentiated visually, and at the
 ## same time the state is made accessible to screen readers using an aria-label

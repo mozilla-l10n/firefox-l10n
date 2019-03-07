@@ -3,12 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 cfr-doorhanger-extension-heading = الامتدادات المقترحة
+cfr-doorhanger-pintab-heading = هيا جرّب: ثبّت اللسان
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = لماذا أرى هذا
 cfr-doorhanger-extension-cancel-button = ليس الآن
     .accesskey = ل
 cfr-doorhanger-extension-ok-button = أضِف الآن
     .accesskey = ض
+cfr-doorhanger-pintab-ok-button = ثبّت هذا اللسان
+    .accesskey = ث
 cfr-doorhanger-extension-manage-settings-button = أدِر إعدادات التوصيات
     .accesskey = د
 cfr-doorhanger-extension-never-show-recommendation = لا تعرض لي هذه التوصية
@@ -49,3 +52,12 @@ cfr-doorhanger-extension-total-users =
         [many] { $total } مستخدما
        *[other] { $total } مستخدم
     }
+cfr-doorhanger-pintab-description = انتقل إلى أكثر المواقع التي تزورها بسرعة. بهذا تبقى المواقع مفتوحة في ألسنة (حتى إن أعدت تشغيل المتصفح).
+
+## These messages are steps on how to use the feature and are shown together.
+
+cfr-doorhanger-pintab-step1 = <b>انقر باليمين</b> على أي لسان تريد تثبيته.
+cfr-doorhanger-pintab-step2 = اختر <b>ثبّت اللسان</b> من القائمة.
+cfr-doorhanger-pintab-step3 = إن حصل شيء في الموقع وطرأ تحديث، سترى نقطة زرقاء في اللسان الذي ثبّته.
+cfr-doorhanger-pintab-animation-pause = ألبِث
+cfr-doorhanger-pintab-animation-resume = استأنف

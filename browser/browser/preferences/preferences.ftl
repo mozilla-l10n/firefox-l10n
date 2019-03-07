@@ -533,6 +533,8 @@ sync-device-name-save =
     .accesskey = ح
 sync-mobilepromo-single = أوصِل جهازا آخر
 sync-mobilepromo-multi = أدِر الأجهزة
+sync-connect-another-device = صِلْ جهازا آخر
+sync-manage-devices = أدِر الأجهزة
 sync-tos-link = بنود الخدمة
 sync-fxa-privacy-notice = تنويه الخصوصية
 
