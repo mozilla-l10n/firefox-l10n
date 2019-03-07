@@ -208,7 +208,7 @@ private-browsing-description2 =
     { -brand-short-name } toevoegt, werken standaard niet in privévensters. Tenzij u dit toestaat in de instellingen, werkt
     de extensie niet tijdens privénavigatie, en heeft deze daarin geen toegang tot uw online-activiteiten.
     Deze wijziging is aangebracht om uw privénavigatie privé te houden.
-    <label data-l10n-name="private-browsing-learn-more">Meer info over het beheren van extensie-instellingen.</label>
+    <label data-l10n-name="private-browsing-learn-more">Meer info over het beheren van extensie-instellingen</label>
 
 extensions-view-discover =
     .name = Add-ons verkrijgen
