@@ -42,8 +42,12 @@ cfr-doorhanger-extension-total-users =
     { $total ->
        *[other] { $total } pengguna
     }
+cfr-doorhanger-pintab-description = Dapatkan akses mudah ke situs yang paling sering Anda gunakan. Simpan situs agar tetap terbuka di tab (bahkan saat Anda memuat ulang).
 
 ## These messages are steps on how to use the feature and are shown together.
 
+cfr-doorhanger-pintab-step1 = <b>Klik-kanan</b> pada tab yang ingin Anda pin.
+cfr-doorhanger-pintab-step2 = Pilih <b>Pin Tab</b> dari menu.
+cfr-doorhanger-pintab-step3 = Jika situs  diperbarui, akan ada titik biru pada tab yang Anda pin.
 cfr-doorhanger-pintab-animation-pause = Jeda
 cfr-doorhanger-pintab-animation-resume = Lanjutkan

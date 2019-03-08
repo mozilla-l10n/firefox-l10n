@@ -17,6 +17,7 @@ policy-BlockAboutConfig = Blokir akses ke laman about:config.
 policy-BlockAboutProfiles = Blokir akses ke laman about:profiles.
 policy-BlockAboutSupport = Blokir akses ke laman about:support.
 policy-Bookmarks = Buat markah pada bilah alat Markah, menu Markah, atau folder tertentu yang ada di dalamnya.
+policy-CaptivePortal = Aktifkan atau matikan dukungan menahan portal.
 policy-CertificatesDescription = Tambahkan sertifikat atau gunakan sertifikat bawaan.
 policy-Cookies = Izinkan atau tolak situs untuk menyetel kuki.
 policy-DisableAppUpdate = Cegah peramban untuk memperbarui.
@@ -49,11 +50,13 @@ policy-EnableTrackingProtection = Aktifkan atau nonaktifkan Pemblokiran Konten d
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
 policy-Extensions = Memasang, mencopot, atau mengunci ekstensi. Opsi Memasang membutuhkan parameter URL atau jalur. Opsi Mencopot dan Mengunci membutuhkan ID ekstensi.
+policy-ExtensionUpdate = Aktifkan atau matikan pembaruan ekstensi otomatis.
 policy-FlashPlugin = Izinkan atau tolak penggunaan plugin Flash.
 policy-HardwareAcceleration = Jika bernilai false, menonaktifkan akselerasi perangkat keras.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Mengatur dan mengunci halaman beranda secara opsional.
 policy-InstallAddonsPermission = Izinkan situs tertentu untuk memasang pengaya.
+policy-NetworkPrediction = Aktifkan atau matikan prediksi jaringan (DNS prefetching).
 policy-NoDefaultBookmarks = Nonaktifkan pembuatan markah default yang dibundel dengan { -brand-short-name } serta Markah Cerdas (Sering Mampir, Tag Terbaru). Catatan: kebijakan ini hanya efektif jika digunakan sebelum menjalankan profil pertama.
 policy-OfferToSaveLogins = Paksa setelan untuk mengizinkan { -brand-short-name } untuk menawarkan agar mengingat info masuk dan kata sandi yang disimpan. Nilai true dan false diterima.
 policy-OverrideFirstRunPage = Ganti laman pertama yang dibuka. Setel kebijakan ini menjadi kosong jika ingin menonaktifkan laman pertama yang dibuka.
@@ -69,5 +72,6 @@ policy-SearchEngines = Konfigurasikan setelan mesin pencari. Kebijakan ini hanya
 policy-SecurityDevices = Pasang modul PKCS #11.
 policy-SSLVersionMax = Tetapkan versi SSL maksimum.
 policy-SSLVersionMin = Tetapkan versi SSL minimum.
+policy-SupportMenu = Tambahkan item menu dukungan khusus pada menu bantuan.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Blokir situs web agar tidak dikunjungi. Lihat dokumentasi lebih lanjut untuk formatnya.
