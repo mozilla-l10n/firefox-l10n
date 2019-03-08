@@ -15,11 +15,11 @@
 
 <!-- Second wizard page -->
 <!ENTITY profileCreationIntro.text      "Se você criar vários perfis, pode diferenciá-los através do nome. Você pode usar o nome sugerido aqui ou escolher outro.">
-<!ENTITY profilePrompt.label            "Forneça o nome do novo perfil:">
+<!ENTITY profilePrompt.label            "Digite o nome do novo perfil:">
 <!ENTITY profilePrompt.accesskey        "F">
 <!ENTITY profileDirectoryExplanation.text   "Suas configurações, preferências e dados relacionados serão armazenados em:">
 <!ENTITY profileDefaultName             "Novo perfil">
-<!ENTITY button.choosefolder.label      "Pasta…">
+<!ENTITY button.choosefolder.label      "Escolher pasta…">
 <!ENTITY button.choosefolder.accesskey  "P">
 <!ENTITY button.usedefault.label        "Usar a pasta padrão">
 <!ENTITY button.usedefault.accesskey    "U">
