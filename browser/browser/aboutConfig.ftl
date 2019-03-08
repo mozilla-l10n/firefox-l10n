@@ -5,8 +5,8 @@
 # An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
 about-config-warning-title = Inilah naga!
 about-config-warning-text = Mengubah nilai bawaan pada pengaturan canggih ini dapat mengakibatkan kerusakan pada stabilitas, keamanan, dan kinerja aplikasi ini. Hanya lanjutkan jika benar-benar tahu apa yang akan Anda lakukan.
-about-config-warning-checkbox = Ganggu saya lagi!
-about-config-warning-button = Saya menerima risikonya
+about-config-warning-checkbox = Tanya lagi nanti!
+about-config-warning-button = Saya terima risikonya
 about-config-title = about:config
 about-config-search-input =
     .placeholder = Cari
@@ -32,6 +32,6 @@ about-config-pref-add-type-string = String
 ##   $value (String): The full value of the preference.
 
 about-config-pref-accessible-value-default =
-    .aria-label = { $nilai } (bawaan)
+    .aria-label = { $value } (bawaan)
 about-config-pref-accessible-value-custom =
-    .aria-label = { $nilai } (kustom)
+    .aria-label = { $value } (khusus)
