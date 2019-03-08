@@ -257,6 +257,7 @@ effective-content-sandbox-level = Live gwerc'hel ar voest traezh evit ar c'hewer
 sandbox-proc-type-content = endalc'had
 sandbox-proc-type-file = endalc'had ar restr
 sandbox-proc-type-media-plugin = enlugellad media
+sandbox-proc-type-data-decoder = ezvoneger roadennoù
 launcher-process-status-0 = Gweredekaet
 launcher-process-status-1 = Diweredekaet abalamour d'ur c'hwitadenn
 launcher-process-status-2 = Rediet da ziweredekaat

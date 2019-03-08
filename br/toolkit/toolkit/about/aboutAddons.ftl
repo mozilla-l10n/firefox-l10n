@@ -139,7 +139,7 @@ legacy-warning-show-legacy = Diskouez an askouezhioù diamzeret
 legacy-extensions =
     .value = Askouezhioù diamzeret
 legacy-extensions-description = An askouezhioù-mañ ne glotont ket kenn gant skouerioù { -brand-short-name } ha diweredekaet int bet. <label data-l10n-name="legacy-learn-more">Gouzout hiroc'h a-zivout ar c'hemmoù en askouezhioù</label>
-private-browsing-description = N'eo ket aotreet an askouezhioù da vont en-dro er prenestroù prevez dre ziouer. Talvezout a ra ne vint ket gouest da haeziñ hoc'h oberiantiz enlinenn. Evit aotren un askouezh da vont en-dro er prenestroù prevez, diuzit an askouezh dindan ha kemmit e arventennoù. <label data-l10n-name="private-browsing-learn-more">Gouzout hiroc'h</label>.
+private-browsing-description2 = { -brand-short-name } a cheñch an doare da vont en-dro evit an askouezhioù er merdeiñ prevez. Kement askouezh a vo ouzhpennet ganeoc'h e { -brand-short-name } a vo stanket dre ziouer er prenestroù prevez. Estreget mard aotreit anezho en arventennoù n'ez aio ket en-dro an askouezhioù er merdeiñ prevez ha n'hallint ket haeziñ hoc'h oberiantiz enlinenn
 extensions-view-discover =
     .name = Kaout askouezhioù
     .tooltiptext = { extensions-view-discover.name }
