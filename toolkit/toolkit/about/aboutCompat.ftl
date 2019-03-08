@@ -5,3 +5,4 @@
 label-disable = Nonaktifkan
 label-enable = Aktifkan
 label-interventions = Intervensi
+text-title = about:compat

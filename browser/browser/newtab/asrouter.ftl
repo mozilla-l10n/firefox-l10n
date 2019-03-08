@@ -3,12 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 cfr-doorhanger-extension-heading = Rekomendasi Ekstensi
+cfr-doorhanger-pintab-heading = Coba Yang Ini: Sematkan Tab
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Mengapa saya melihat ini?
 cfr-doorhanger-extension-cancel-button = Jangan Sekarang
     .accesskey = J
 cfr-doorhanger-extension-ok-button = Tambahkan Sekarang
     .accesskey = T
+cfr-doorhanger-pintab-ok-button = Sematkan Tab Ini
+    .accesskey = S
 cfr-doorhanger-extension-manage-settings-button = Kelola Pengaturan Rekomendasi
     .accesskey = K
 cfr-doorhanger-extension-never-show-recommendation = Jangan Tampilkan Rekomendasi Ini

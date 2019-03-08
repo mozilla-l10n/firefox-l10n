@@ -210,11 +210,17 @@ extensions-updates-update-selected =
 
 ## Extension shortcut management
 
+shortcuts-modifier-mac = Sertakan Ctrl, Alt, atau ⌘
+shortcuts-modifier-other = Sertakan Ctrl atau Alt
+shortcuts-invalid = Kombinasi tidak valid
+shortcuts-letter = Ketikkan huruf
+shortcuts-card-collapse-button = Lebih Sedikit
 go-back-button =
     .tooltiptext = Mundur
 
 ## Add-on actions
 
+remove-addon-button = Hapus
 disable-addon-button = Nonaktifkan
 enable-addon-button = Aktifkan
 addons-enabled-heading = Diaktifkan

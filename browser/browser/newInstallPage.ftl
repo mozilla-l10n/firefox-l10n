@@ -8,8 +8,11 @@
 ### given Firefox channel". These terms are not synonymous.
 
 title = Berita Penting
+heading = Perubahan atas profil { -brand-short-name } Anda
 changed-title = Apa yang berubah?
 resources = Sumber Daya:
+support-link = Artikel Dukungan Menggunakan Pengelola Profil
+sync-header = Masuk atau buat { -fxaccount-brand-name }
 sync-label = Masukkan surel Anda
 sync-input =
     .placeholder = Surel
