@@ -16,7 +16,7 @@ update-downloading = <img data-l10n-name="icon"/>Baixando atualização — <lab
 update-applying = Aplicando atualização…
 update-failed = A atualização falhou. <label data-l10n-name="failed-link">Baixar a última versão</label>
 update-failed-main = A atualização falhou. <a data-l10n-name="failed-link-main">Baixar a última versão</a>
-update-adminDisabled = Atualizações desabilitadas pelo administrador do sistema
+update-adminDisabled = Atualizações desativadas pelo administrador do sistema
 update-noUpdatesFound = O { -brand-short-name } está atualizado
 update-otherInstanceHandlingUpdates = O { -brand-short-name } está sendo atualizado por outra instância
 update-manual = Atualizações disponíveis em <label data-l10n-name="manual-link"/>

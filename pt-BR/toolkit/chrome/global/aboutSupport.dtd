@@ -138,7 +138,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
 <!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "Registro de decisões">
-<!ENTITY aboutSupport.graphicsCrashGuardsTitle "Proteção contra travamentos desabilitada">
+<!ENTITY aboutSupport.graphicsCrashGuardsTitle "Recursos desativados da proteção contra travamentos">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Soluções alternativas">
 
 <!ENTITY aboutSupport.mediaTitle "Mídia">
