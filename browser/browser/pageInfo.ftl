@@ -169,6 +169,17 @@ security-visits-number =
         [few] Da, de { $visits } ori
        *[other] Da, de { $visits } de ori
     }
+# This string is used to display the size of a media file
+# Variables:
+#   $kb (number) - The size of an image in Kilobytes
+#   $bytes (number) - The size of an image in Bytes
+properties-general-size =
+    .value =
+        { $bytes ->
+            [one] { $kb } KB ({ $bytes } byte)
+            [few] { $kb } KB ({ $bytes } byți)
+           *[other] { $kb } KB ({ $bytes } de byți)
+        }
 # This string is used to display the type and number
 # of frames of a animated image
 # Variables:
