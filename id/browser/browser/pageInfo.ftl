@@ -154,7 +154,7 @@ security-no-visits = Tidak
 general-meta-tags =
     .value =
         { $tags ->
-           *[other] Meta ({ $tags } tags)
+           *[other] Meta ({ $tags } tag)
         }
 # This string is used to display the type of
 # an image
