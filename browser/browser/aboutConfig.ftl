@@ -4,6 +4,7 @@
 
 # An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
 about-config-warning-title = ¡Rumbo a lo desconocido!
+about-config-warning-text = Cambiar estas configuraciones avanzadas puede dañar la estabilidad, seguridad y rendimiento de la aplicación. Deberías continuar solamente si estás seguro de lo que estás haciendo.
 about-config-warning-checkbox = ¡Advertirme de nuevo, por favor!
 about-config-warning-button = Acepto el riesgo
 about-config-title = about:config
