@@ -344,6 +344,9 @@ browsing-search-on-start-typing =
 browsing-cfr-recommendations =
     .label = Erbediñ askouezhioù p'emaoc'h o merdeiñ
     .accesskey = R
+browsing-cfr-features =
+    .label = Erbediñ keweriusterioù pa verdeit
+    .accesskey = E
 browsing-cfr-recommendations-learn-more = Gouzout hiroc'h
 
 ## General Section - Proxy

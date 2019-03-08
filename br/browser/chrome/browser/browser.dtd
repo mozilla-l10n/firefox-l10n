@@ -131,6 +131,9 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.accesskey "M">
 <!ENTITY printCmd.commandkey "p">
 
+<!ENTITY importFromAnotherBrowserCmd.label "Enporzhiañ eus ur merdeer all...">
+<!ENTITY importFromAnotherBrowserCmd.accesskey "E">
+
 <!ENTITY taskManagerCmd.label "Ardoer trevelloù">
 
 <!ENTITY goOfflineCmd.label "Labourat ezlinenn">
@@ -1133,9 +1136,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Merit hoc'h askouezhioù en ur glikañ war <image class='addon-addon-icon'/> el lañser <image class='addon-toolbar-icon'/>.">
+<!ENTITY addonPostInstall.incognito.label "Aotren an askouezh-mañ da vezañ lañset en ur prenestr merdeiñ prevez.">
+<!ENTITY addonPostInstall.incognito.accesskey "A">
 
-<!ENTITY addonPrivateBrowsing.header.label "Askouezhioù en ur prenestr prevez">
-<!ENTITY addonPrivateBrowsing.body.label "N'eo ket aotreet an askouezhioù da vont en-dro dre ziouer er prenestroù prevez.  Ne 'z aint ket en-dro en ur verdeiñ prevez ha n'hallint ket haeziñ hoc'h oberiantiz enlinenn. Gallout a rit aotren pep askouezh da vont en-dro er prenestroù prevez en arventennoù.">
+<!ENTITY addonPrivateBrowsing.header2.label "Cheñchamant evit an askouezhioù er merdeiñ prevez">
+<!ENTITY addonPrivateBrowsing.body2.label "Forzh pe askouezh nevez a ouzhpennit da &brandShorterName; a vo stanket er prenestroù prevez estreget mard aotreit anezho en arventennoù.">
+<!ENTITY addonPrivateBrowsing.learnMore.label "Deskit penaos merañ arventennoù an askouezhioù.">
 <!ENTITY addonPrivateBrowsing.okButton.label "Mat eo, komprenet am eus">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "M">
 <!ENTITY addonPrivateBrowsing.manageButton.label "Merañ an askouezhioù">

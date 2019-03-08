@@ -3,12 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 cfr-doorhanger-extension-heading = Askouezh erbedet
+cfr-doorhanger-pintab-heading = Klaskit an dra-se: spilhennañ an ivinell
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Perak e welan an dra-mañ
 cfr-doorhanger-extension-cancel-button = Ket bremañ
     .accesskey = K
 cfr-doorhanger-extension-ok-button = Ouzhpennañ bremañ
     .accesskey = O
+cfr-doorhanger-pintab-ok-button = Spilhennañ an ivinell-mañ
+    .accesskey = S
 cfr-doorhanger-extension-manage-settings-button = Merañ an arventennoù erbediñ
     .accesskey = M
 cfr-doorhanger-extension-never-show-recommendation = Na ziskouez din an erbedadenn-mañ
@@ -47,3 +50,12 @@ cfr-doorhanger-extension-total-users =
         [many] { $total } a arveriadoù
        *[other] { $total } arveriad
     }
+cfr-doorhanger-pintab-description = Haezit al lec'hiennoù gwellañ deoc'h en un doare aes. Mirit al lec'hiennoù digor en un ivinell (zoken pa adloc'hit).
+
+## These messages are steps on how to use the feature and are shown together.
+
+cfr-doorhanger-pintab-step1 = <b>Klikit dehou</b> war an ivinell a fell deoc'h spilhennañ.
+cfr-doorhanger-pintab-step2 = Dibabit <b>Spilhennañ an ivinell</b> el lañser.
+cfr-doorhanger-pintab-step3 = Ma vez un hizivadenn gant al lec'hienn e welot ur pik glas war an ivinell spilhennet.
+cfr-doorhanger-pintab-animation-pause = Ehaniñ
+cfr-doorhanger-pintab-animation-resume = Kenderc'hel
