@@ -131,6 +131,8 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.accesskey "C">
 <!ENTITY printCmd.commandkey "p">
 
+<!ENTITY importFromAnotherBrowserCmd.label "Impor dari Peramban Lain…">
+<!ENTITY importFromAnotherBrowserCmd.accesskey "I">
 
 <!ENTITY taskManagerCmd.label "Pengelola Tugas">
 
@@ -881,6 +883,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsReloadHint "Anda mungkin perlu memuat ulang laman untuk menerapkan perubahan.">
 <!ENTITY identity.permissionsPreferences.tooltip "Buka Preferensi Izin">
 
+<!ENTITY identity.contentBlockingPreferences.tooltip "Buka Preferensi Pemblokiran Konten">
 
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -1129,6 +1132,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Kelola pengaya Anda dengan mengeklik <image class='addon-addon-icon'/>di<image class='addon-toolbar-icon'/> menu.">
+<!ENTITY addonPostInstall.incognito.label "Izinkan ekstensi ini untuk berjalan di Jendela Pribadi.">
+<!ENTITY addonPostInstall.incognito.accesskey "A">
 
+<!ENTITY addonPrivateBrowsing.header2.label "Ubah ke ekstensi pada Jendela Pribadi">
 <!ENTITY addonPrivateBrowsing.okButton.label "Oke, Paham">
 <!ENTITY addonPrivateBrowsing.manageButton.label "Kelola Ekstensi">
