@@ -219,6 +219,8 @@ effective-content-sandbox-level = Tingkat Sandbox Proses Konten Efektif
 sandbox-proc-type-content = konten
 sandbox-proc-type-file = konten berkas
 sandbox-proc-type-media-plugin = plugin media
+launcher-process-status-0 = Diaktifkan
+launcher-process-status-unknown = Status tak diketahui
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows

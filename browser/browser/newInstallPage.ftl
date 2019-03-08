@@ -8,6 +8,8 @@
 ### given Firefox channel". These terms are not synonymous.
 
 title = Berita Penting
+changed-title = Apa yang berubah?
+resources = Sumber Daya:
 sync-label = Masukkan surel Anda
 sync-input =
     .placeholder = Surel

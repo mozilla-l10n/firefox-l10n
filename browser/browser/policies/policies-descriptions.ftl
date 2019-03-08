@@ -17,7 +17,6 @@ policy-BlockAboutConfig = Blokir akses ke laman about:config.
 policy-BlockAboutProfiles = Blokir akses ke laman about:profiles.
 policy-BlockAboutSupport = Blokir akses ke laman about:support.
 policy-Bookmarks = Buat markah pada bilah alat Markah, menu Markah, atau folder tertentu yang ada di dalamnya.
-policy-Certificates = Apakah menggunakan sertifikat bawaan atau tidak. Hanya berlaku untuk Windows saja saat ini.
 policy-CertificatesDescription = Tambahkan sertifikat atau gunakan sertifikat bawaan.
 policy-Cookies = Izinkan atau tolak situs untuk menyetel kuki.
 policy-DisableAppUpdate = Cegah peramban untuk memperbarui.
@@ -37,7 +36,6 @@ policy-DisableProfileImport = Nonaktifkan perintah menu untuk mengimpor data dar
 policy-DisableProfileRefresh = Nonaktifkan tombol Segarkan { -brand-short-name } di laman about:support.
 policy-DisableSafeMode = Nonaktifkan fitur untuk memulai ulang di Mode Aman. Catatan: Tombol Shift untuk masuk ke Mode Aman hanya dapat dinonaktifkan pada Windows menggunakan Kebijakan Grup.
 policy-DisableSecurityBypass = Mencegah pengguna melewati peringatan keamanan tertentu.
-policy-DisableSetDesktopBackground = Nonaktifkan perintah menu Jadikan Gambar sebagai Latar Belakang Desktop.
 policy-DisableSetAsDesktopBackground = Nonaktifkan perintah menu Jadikan sebagai Latar Belakang Desktop untuk gambar.
 policy-DisableSystemAddonUpdate = Mencegah peramban memasang dan memperbarui pengaya sistem.
 policy-DisableTelemetry = Nonaktifkan Telemetry.
@@ -69,5 +67,7 @@ policy-SearchBar = Setel lokasi bawaan untuk bilah pencarian. Pengguna masih dii
 policy-SearchEngines = Konfigurasikan setelan mesin pencari. Kebijakan ini hanya tersedia dalam versi Extended Support Release (ESR).
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Pasang modul PKCS #11.
+policy-SSLVersionMax = Tetapkan versi SSL maksimum.
+policy-SSLVersionMin = Tetapkan versi SSL minimum.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Blokir situs web agar tidak dikunjungi. Lihat dokumentasi lebih lanjut untuk formatnya.

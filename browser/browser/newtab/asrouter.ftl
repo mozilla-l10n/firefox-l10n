@@ -39,3 +39,8 @@ cfr-doorhanger-extension-total-users =
     { $total ->
        *[other] { $total } pengguna
     }
+
+## These messages are steps on how to use the feature and are shown together.
+
+cfr-doorhanger-pintab-animation-pause = Jeda
+cfr-doorhanger-pintab-animation-resume = Lanjutkan

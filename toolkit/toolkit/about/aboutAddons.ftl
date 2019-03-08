@@ -207,3 +207,15 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Pasang Versi Baru
     .tooltiptext = Pasang versi baru yang ada pada daftar ini
+
+## Extension shortcut management
+
+go-back-button =
+    .tooltiptext = Mundur
+
+## Add-on actions
+
+disable-addon-button = Nonaktifkan
+enable-addon-button = Aktifkan
+addons-enabled-heading = Diaktifkan
+addons-disabled-heading = Dinonaktifkan
