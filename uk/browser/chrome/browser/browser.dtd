@@ -131,6 +131,9 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.accesskey "к">
 <!ENTITY printCmd.commandkey "p">
 
+<!ENTITY importFromAnotherBrowserCmd.label "Імпорт даних з іншого браузера…">
+<!ENTITY importFromAnotherBrowserCmd.accesskey "І">
+
 <!ENTITY taskManagerCmd.label "Менеджер завдань">
 
 <!ENTITY goOfflineCmd.label "Працювати автономно">
