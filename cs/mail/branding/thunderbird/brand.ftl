@@ -12,5 +12,23 @@
 ##
 ## Reference: https://www.mozilla.org/styleguide/communications/translation/
 
--brand-short-name = Thunderbird
--vendor-short-name = Mozilla
+-brand-short-name =
+    { $case ->
+       *[nom] Thunderbird
+        [gen] Thunderbirdu
+        [dat] Thunderbirdu
+        [acc] Thunderbird
+        [voc] Thunderbirde
+        [loc] Thunderbirdu
+        [ins] Thunderbirdem
+    }
+-vendor-short-name =
+    { $case ->
+       *[nom] Mozilla
+        [gen] Mozilly
+        [dat] Mozille
+        [acc] Mozillu
+        [voc] Mozillo
+        [loc] Mozille
+        [ins] Mozillou
+    }
