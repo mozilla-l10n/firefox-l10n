@@ -45,16 +45,16 @@ left instead of right. -->
 
 <!ENTITY  closeTabs.label                    "Fechar separadores">
 <!ENTITY  closeTabs.accesskey                "s">
-<!ENTITY  pinSelectedTabs.label              "Afixar separadores">
+<!ENTITY  pinSelectedTabs.label              "Fixar separadores">
 <!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
-<!ENTITY  pinSelectedTabs.accesskey          "A">
+<!ENTITY  pinSelectedTabs.accesskey          "p">
 <!ENTITY  unpinSelectedTabs.label            "Desafixar separadores">
 <!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
-<!ENTITY  unpinSelectedTabs.accesskey        "d">
+<!ENTITY  unpinSelectedTabs.accesskey        "p">
 <!-- LOCALIZATION NOTE(reloadTab.label, reloadTabs.label): have the same accesskey
 but will never be visible at the same time. -->
 <!ENTITY  reloadTabs.label                   "Recarregar separadores">
@@ -78,7 +78,7 @@ same accesskey but will never be visible at the same time. -->
 <!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
-<!ENTITY  unpinTab.accesskey                 "r">
+<!ENTITY  unpinTab.accesskey                 "p">
 <!ENTITY  sendPageToDevice.label             "Enviar página para dispositivo">
 <!ENTITY  sendPageToDevice.accesskey         "d">
 <!ENTITY  sendLinkToDevice.label             "Enviar ligação para dispositivo">
