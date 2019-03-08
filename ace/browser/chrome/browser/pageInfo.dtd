@@ -6,6 +6,7 @@
 <!ENTITY  pageInfoWindow.height "550">
 
 <!ENTITY  copy.key              "C">
+<!ENTITY  copy.label            "Salèn">
 <!ENTITY  copy.accesskey        "C">
 <!ENTITY  selectall.key         "A">
 <!ENTITY  selectall.label       "Pileh Bandum">
