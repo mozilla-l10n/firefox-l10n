@@ -75,7 +75,7 @@ graphics-failure-log-title = Registro de falhas
 graphics-gpu1-title = GPU #1
 graphics-gpu2-title = GPU #2
 graphics-decision-log-title = Registro de decisões
-graphics-crash-guards-title = Proteção contra travamentos desabilitada
+graphics-crash-guards-title = Recursos desativados da proteção contra travamentos
 graphics-workarounds-title = Soluções alternativas
 place-database-title = Base de dados de lugares
 place-database-integrity = Integridade
@@ -273,8 +273,8 @@ autoscroll-enabled = rolagem automática ativada
 ## Variables
 ## $preferenceKey (string) - String ID of preference
 
-wheel-warning = entrada wheel assíncrona desabilitada devido a preferência não suportada: { $preferenceKey }
-touch-warning = entrada touch assíncrona desabilitada devido a preferência não suportada: { $preferenceKey }
+wheel-warning = entrada com roda do mouse assíncrona desativada devido a preferência não suportada: { $preferenceKey }
+touch-warning = entrada touch assíncrona desativada devido a preferência não suportada: { $preferenceKey }
 
 ## Strings representing the status of the Enterprise Policies engine.
 

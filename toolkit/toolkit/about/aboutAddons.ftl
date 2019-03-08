@@ -135,7 +135,7 @@ detail-rating =
 addon-restart-now =
     .label = Reiniciar agora
 disabled-unsigned-heading =
-    .value = Algumas extensões foram desabilitadas
+    .value = Algumas extensões foram desativadas
 disabled-unsigned-description = As seguintes extensões não foram verificadas para uso no { -brand-short-name }. Você pode <label data-l10n-name="find-addons">procurar substitutos</label> ou solicitar que o desenvolvedor peça a sua verificação.
 disabled-unsigned-learn-more = Saiba mais sobre nossos esforços para ajudar a manter os usuários seguros.
 disabled-unsigned-devinfo = Os desenvolvedores interessados que seus complementos sejam verificados, devem ler o nosso <label data-l10n-name="learn-more">manual</label>.
@@ -163,11 +163,11 @@ extensions-view-available-updates =
 ## These are global warnings
 
 extensions-warning-safe-mode-label =
-    .value = Todos as extensões foram desabilitadas pelo modo seguro.
+    .value = Todos as extensões foram desativadas pelo modo de segurança.
 extensions-warning-safe-mode-container =
     .tooltiptext = { extensions-warning-safe-mode-label.value }
 extensions-warning-check-compatibility-label =
-    .value = A verificação de compatibilidade está desabilitada. Pode ter complementos incompatíveis.
+    .value = A verificação de compatibilidade de extensões está desativada. Você pode ter extensões incompatíveis.
 extensions-warning-check-compatibility-container =
     .tooltiptext = { extensions-warning-check-compatibility-label.value }
 extensions-warning-check-compatibility-enable =
