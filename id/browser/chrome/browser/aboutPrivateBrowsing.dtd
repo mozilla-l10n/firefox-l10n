@@ -7,7 +7,6 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
 
 <!ENTITY privateBrowsing.title                           "Penjelajahan Pribadi">
-<!ENTITY privateBrowsing.title.tracking                  "Penjelajahan Pribadi dengan Perlindungan Pelacakan">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Saat Anda menjelajah di Jendela Pribadi, Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "tidak menyimpan">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
@@ -28,9 +27,15 @@
 <!ENTITY aboutPrivateBrowsing.learnMore3.title           "Penjelajahan Pribadi">
 <!ENTITY aboutPrivateBrowsing.learnMore3.after           ".">
 
-<!ENTITY trackingProtection.title                        "Perlindungan Pelacakan">
-<!ENTITY trackingProtection.description2                 "Beberapa situs menggunakan pelacak yang dapat memantau aktivitas Anda di Internet. Dengan Perlindungan Pelacakan, Firefox akan memblokir banyak pelacak yang dapat menghimpun informasi tentang perilaku berselancar Anda.">
 <!ENTITY trackingProtection.startTour1                   "Lihat cara kerjanya">
 
 <!ENTITY contentBlocking.title                           "Pemblokiran Konten">
 <!ENTITY contentBlocking.description                     "Beberapa situs web menggunakan pelacak yang dapat memantau aktivitas Anda di Internet. Di jendela pribadi Firefox, Pemblokir Konten secara otomatis memblokir banyak pelacak yang dapat mengumpulkan informasi tentang kebiasaan menjelajah Anda.">
+
+<!-- Strings for new Private Browsing with Search -->
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.search.placeholder): This is the placeholder
+                       text for the search box.   -->
+<!ENTITY aboutPrivateBrowsing.search.placeholder         "Cari di Web">
+<!ENTITY aboutPrivateBrowsing.info.title                 "Anda berada di Jendela Pribadi">
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article
+                       about private browsing myths.   -->

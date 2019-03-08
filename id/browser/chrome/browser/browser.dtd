@@ -131,6 +131,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.accesskey "C">
 <!ENTITY printCmd.commandkey "p">
 
+
 <!ENTITY taskManagerCmd.label "Pengelola Tugas">
 
 <!ENTITY goOfflineCmd.label "Bekerja Luring">
@@ -1129,3 +1130,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Kelola pengaya Anda dengan mengeklik <image class='addon-addon-icon'/>di<image class='addon-toolbar-icon'/> menu.">
 
+<!ENTITY addonPrivateBrowsing.okButton.label "Oke, Paham">
+<!ENTITY addonPrivateBrowsing.manageButton.label "Kelola Ekstensi">

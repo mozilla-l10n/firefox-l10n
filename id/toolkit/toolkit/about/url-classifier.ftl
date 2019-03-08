@@ -3,6 +3,16 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 url-classifier-title = Informasi Penggolong URL
+url-classifier-search-title = Cari
+url-classifier-search-result-title = Hasil
+url-classifier-search-result-uri = URI: { $uri }
+url-classifier-search-result-list = Daftar tabel: { $list }
+url-classifier-search-input = URL
+url-classifier-search-error-invalid-url = URL tidak valid
+url-classifier-search-error-no-features = Tidak ada fitur yang dipilih
+url-classifier-search-btn = Mulai mencari
+url-classifier-search-features = Fitur
+url-classifier-search-listType = Jenis daftar
 url-classifier-provider-title = Penyedia
 url-classifier-provider = Penyedia
 url-classifier-provider-last-update-time = Pemutakhiran terakhir

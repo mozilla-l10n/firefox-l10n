@@ -50,6 +50,9 @@ category-privacy =
 pane-sync-title = Akun Firefox
 category-sync =
     .tooltiptext = { pane-sync-title }
+pane-sync-title2 = { -sync-brand-short-name }
+category-sync2 =
+    .tooltiptext = { pane-sync-title2 }
 help-button-label = Dukungan { -brand-short-name }
 addons-button-label = Ekstensi & Tema
 focus-search =
@@ -513,6 +516,7 @@ sync-mobilepromo-single = Sambungkan peranti lain
 sync-mobilepromo-multi = Kelola peranti
 sync-connect-another-device = Hubungkan perangkat lain
 sync-manage-devices = Kelola perangkat
+sync-fxa-begin-pairing = Pasangkan perangkat
 sync-tos-link = Ketentuan Layanan
 sync-fxa-privacy-notice = Pernyataan Privasi
 
