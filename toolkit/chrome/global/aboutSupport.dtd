@@ -129,7 +129,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.sandboxSyscallNumber "Chamadas de sistema">
 <!ENTITY aboutSupport.sandboxSyscallArgs "Argumentos">
 
-<!ENTITY aboutSupport.safeModeTitle "Usar o Modo Seguro">
+<!ENTITY aboutSupport.safeModeTitle "Experimentar o modo de segurança">
 <!ENTITY aboutSupport.restartInSafeMode.label "Reiniciar com extensões desativadas…">
 
 <!ENTITY aboutSupport.graphicsFeaturesTitle "Funcionalidades">

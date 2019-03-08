@@ -787,7 +787,7 @@ addon-recommendations =
 addon-recommendations-link = Saiba mais
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
-collection-health-report-disabled = O relatório de dados está desabilitado nesta configuração
+collection-health-report-disabled = O relatório de dados está desativado nesta configuração
 collection-browser-errors =
     .label = Permitir que o { -brand-short-name } envie relatórios de erro do navegador (incluindo mensagens de erro) para a { -vendor-short-name }
     .accesskey = b

@@ -20,7 +20,7 @@
 <!ENTITY report.please                                       "Enviar relatório">
 <!ENTITY report.submitting                                   "Enviando relatório…">
 <!ENTITY report.submitted                                    "Relatório do travamento enviado.">
-<!ENTITY report.disabled                                     "Relatório de travamento desabilitado.">
+<!ENTITY report.disabled                                     "Relatório de travamentos desativado.">
 <!ENTITY report.failed                                       "Envio mal sucedido">
 <!ENTITY report.unavailable                                  "Nenhum relatório disponível.">
 <!ENTITY report.comment                                      "Adicione um comentário (será visível publicamente)">
