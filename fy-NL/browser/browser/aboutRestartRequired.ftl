@@ -5,5 +5,6 @@
 restart-required-title = Opnij starte fereaske
 restart-required-header = Sorry. Wy moatte noch ien lyts ding dwaan om troch te gean.
 restart-required-intro = Wy hawwe krekt in fernijing op de eftergrûn ynstallearre. Klik op { -brand-short-name } opnij starte om it tapassen dêrfan te foltôgjen.
+restart-required-intro-brand = { -brand-short-name } is sakrekt op de eftergrûn bywurke. Klik op { -brand-short-name } opnij starte om de fernijing te foltôgjen.
 restart-required-description = Dêrnei wurde al jo siden, finsters en ljepblêden wer wersteld, sadat jo fluch fierder kinne.
 restart-button-label = { -brand-short-name } opnij starte
