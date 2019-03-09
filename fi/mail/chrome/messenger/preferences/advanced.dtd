@@ -67,6 +67,7 @@
  -->
 <!ENTITY updateApp.version.pre           "Versio ">
 <!ENTITY updateApp.version.post          "">
+<!ENTITY updateAppAllow.description      "Anna sovellukselle &brandShortName; lupa">
 <!ENTITY updateAuto.label                "Asenna päivitykset automaattisesti (suositeltu: turvallisin)">
 <!ENTITY updateAuto.accesskey            "A">
 <!ENTITY updateCheck.label               "Hae päivityksiä, mutta minä päätän asennetaanko ne">
@@ -76,6 +77,8 @@
 
 <!ENTITY useService.label                "Asenna päivitykset taustapalvelun avulla">
 <!ENTITY useService.accesskey            "u">
+
+<!ENTITY updateCrossUserSettingWarning.description "Tämä asetus vaikuttaa kaikkiin tätä &brandShortName;-asennusta käyttäviin Windows-tileihin ja &brandShortName;-profiileihin.">
 
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Yhteysasetukset…">

@@ -77,8 +77,11 @@
 <!ENTITY Birthday.label                 "Syntymäpäivä:">
 <!ENTITY Birthday.accesskey             "y">
 <!ENTITY In.label                       "">
+<!ENTITY Month.placeholder              "Kuukausi">
+<!ENTITY Day.placeholder                "Päivä">
 <!ENTITY Year.placeholder               "Vuosi">
 <!ENTITY Or.value                       "tai">
+<!ENTITY Age.label                      "Ikä:">
 <!ENTITY Age.placeholder                "Ikä">
 <!ENTITY YearsOld.label                 "">
 
@@ -141,7 +144,6 @@
 
 <!ENTITY Photo.tab                      "Valokuva">
 <!ENTITY Photo.accesskey                "V">
-<!ENTITY PhotoDesc.label                "Valitse yksi seuraavista:">
 <!ENTITY GenericPhoto.label             "Yleinen kuva">
 <!ENTITY GenericPhoto.accesskey         "Y">
 <!ENTITY DefaultPhoto.label             "Oletus">
