@@ -131,6 +131,9 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.accesskey "N">
 <!ENTITY printCmd.commandkey "p">
 
+<!ENTITY importFromAnotherBrowserCmd.label "Uvozi iz drugega brskalnika …">
+<!ENTITY importFromAnotherBrowserCmd.accesskey "U">
+
 <!ENTITY taskManagerCmd.label "Upravitelj opravil">
 
 <!ENTITY goOfflineCmd.label "Nepovezan način">
