@@ -940,7 +940,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncToolbarButton.label      "Đồng bộ hóa">
 
 <!ENTITY customizeMode.menuAndToolbars.header3 "Kéo mục yêu thích của bạn vào thanh công cụ hoặc bảng chọn.">
-<!ENTITY customizeMode.restoreDefaults "Khôi phục mặc định">
+<!ENTITY customizeMode.restoreDefaults "Khôi phục về mặc định">
 <!ENTITY customizeMode.done "Xong">
 <!ENTITY customizeMode.titlebar "Thanh tiêu đề">
 <!ENTITY customizeMode.extraDragSpace "Kéo khoảng trắng">

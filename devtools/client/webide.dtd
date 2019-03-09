@@ -42,6 +42,7 @@
 
 <!-- Prefs -->
 <!ENTITY prefs_general_title "Tổng quát">
+<!ENTITY prefs_restore "Khôi phục về mặc định">
 
 <!-- Runtime Details -->
 
