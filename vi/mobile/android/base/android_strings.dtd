@@ -193,9 +193,9 @@
 <!ENTITY pref_learn_more "Tìm hiểu thêm">
 <!ENTITY pref_category_installed_search_engines "Công cụ tìm kiếm đã được cài đặt">
 <!ENTITY pref_category_add_search_providers "Thêm nhiều công cụ tìm kiếm">
-<!ENTITY pref_category_search_restore_defaults "Phục hồi công cụ tìm kiếm">
-<!ENTITY pref_search_restore_defaults "Phục hồi mặc định">
-<!ENTITY pref_search_restore_defaults_summary "Phục hồi mặc định">
+<!ENTITY pref_category_search_restore_defaults "Khôi phục công cụ tìm kiếm">
+<!ENTITY pref_search_restore_defaults "Khôi phục về mặc định">
+<!ENTITY pref_search_restore_defaults_summary "Khôi phục về mặc định">
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.
