@@ -6,6 +6,7 @@
 <!ENTITY itemAutoComplete.label              "Xác định Địa chỉ">
 <!ENTITY itemSpellCheck.label                "Chính tả">
 
+
 <!ENTITY forwardMsg.label                     "Chuyển tiếp thư:">
 <!ENTITY forwardMsg.accesskey                 "y">
 <!ENTITY inline.label                         "Ngay trong thư">
@@ -16,14 +17,12 @@
 <!ENTITY htmlComposeHeader.label              "HTML">
 <!ENTITY font.label                           "Phông:">
 <!ENTITY font.accesskey                       "P">
-<!ENTITY size.label                           "Kích thước:">
-<!ENTITY size.accesskey                       "h">
 <!ENTITY fontColor.label                      "Màu Chữ:">
 <!ENTITY fontColor.accesskey                  "C">
 <!ENTITY bgColor.label                        "Màu Nền:">
 <!ENTITY bgColor.accesskey                    "N">
-<!ENTITY restoreHTMLDefaults.label            "Khôi phục về Mặc định">
-<!ENTITY restoreHTMLDefaults.accesskey        "K">
+<!ENTITY restoreHTMLDefaults.label            "Khôi phục về mặc định">
+<!ENTITY restoreHTMLDefaults.accesskey        "R">
 
 <!ENTITY spellCheck.label                     "Kiểm tra chính tả trước khi gửi">
 <!ENTITY spellCheck.accesskey                 "c">
@@ -59,4 +58,3 @@
 <!ENTITY attachmentReminder.accesskey          "K">
 <!ENTITY attachmentReminderOptions.label       "Từ khóa…">
 <!ENTITY attachmentReminderOptions.accesskey   "a">
-
