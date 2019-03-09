@@ -9,6 +9,8 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
+policy-3rdparty = Beleidsregels instellen die door WebExtensions kunnen worden benaderd via chrome.storage.managed.
+
 policy-AppUpdateURL = Aangepaste app-update-URL instellen.
 
 policy-Authentication = Geïntegreerde authenticatie configureren voor websites die dit ondersteunen.
