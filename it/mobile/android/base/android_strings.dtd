@@ -50,6 +50,9 @@
 <!ENTITY crash_close_label "Chiudi">
 <!ENTITY crash_restart_label "Riavvia &brandShortName;">
 <!ENTITY url_bar_default_text2 "Cerca o inserisci un indirizzo">
+<!ENTITY search_widget_default_text "Cerca sul Web">
+<!ENTITY search_widget_default_cropped_text "Cerca">
+<!ENTITY search_widget_logo_description "Cerca sul Web con &brandShortName;">
 <!ENTITY url_bar_qrcode_text2 "Utilizza il lettore QR per cercare o inserire un indirizzo">
 <!ENTITY url_bar_mic_text2 "Utilizza il microfono per cercare o inserire un indirizzo">
 <!ENTITY bookmark "Segnalibro">
