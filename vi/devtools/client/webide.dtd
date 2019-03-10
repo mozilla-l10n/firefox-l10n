@@ -4,16 +4,49 @@
 
 <!ENTITY windowTitle "Firefox WebIDE">
 
+<!ENTITY projectMenu_label "Dự án">
+<!ENTITY projectMenu_accesskey "P">
+<!ENTITY projectMenu_newApp_label "Ứng dụng mới…">
+<!ENTITY projectMenu_newApp_accesskey "N">
+<!ENTITY projectMenu_importPackagedApp_label "Mở ứng dụng đã đóng gói…">
+<!ENTITY projectMenu_importPackagedApp_accesskey "P">
+<!ENTITY projectMenu_importHostedApp_accesskey "H">
+<!ENTITY projectMenu_selectApp_label "Mở ứng dụng…">
+<!ENTITY projectMenu_selectApp_accesskey "O">
+<!ENTITY projectMenu_play_label "Cài đặt và chạy">
+<!ENTITY projectMenu_play_accesskey "I">
+<!ENTITY projectMenu_stop_label "Dừng ứng dụng">
+<!ENTITY projectMenu_stop_accesskey "S">
+<!ENTITY projectMenu_debug_label "Gỡ lỗi ứng dụng">
+<!ENTITY projectMenu_debug_accesskey "D">
+<!ENTITY projectMenu_remove_label "Xóa dự án">
+<!ENTITY projectMenu_remove_accesskey "R">
+<!ENTITY projectMenu_showPrefs_label "Tùy chỉnh">
+<!ENTITY projectMenu_showPrefs_accesskey "e">
+<!ENTITY projectMenu_manageComponents_label "Quản lý các thành phần bổ sung">
+<!ENTITY projectMenu_manageComponents_accesskey "M">
 <!ENTITY projectMenu_refreshTabs_label "Làm mới thẻ">
 
+<!ENTITY runtimeMenu_label "Runtime">
+<!ENTITY runtimeMenu_accesskey "R">
 <!ENTITY runtimeMenu_disconnect_label "Ngắt kết nối">
+<!ENTITY runtimeMenu_disconnect_accesskey "D">
 <!ENTITY runtimeMenu_takeScreenshot_label "Chụp màn hình">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
+<!ENTITY runtimeMenu_showDetails_label "Thông tin runtime">
+<!ENTITY runtimeMenu_showDetails_accesskey "E">
+<!ENTITY runtimeMenu_showDevicePrefs_label "Tùy chỉnh thiết bị">
+<!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
+<!ENTITY runtimeMenu_showSettings_label "Cài đặt thiết bị">
+<!ENTITY runtimeMenu_showSettings_accesskey "s">
+<!ENTITY runtimeMenu_showPerformancePanel_label "Hiệu suất">
+<!ENTITY runtimeMenu_showPerformancePanel_accesskey "p">
 
 <!ENTITY viewMenu_label "Xem">
 <!ENTITY viewMenu_zoomin_label "Phóng to">
 <!ENTITY viewMenu_zoomout_label "Thu nhỏ">
 
+<!ENTITY runtimeButton_label "Chọn runtime">
 
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
@@ -24,7 +57,12 @@
 <!ENTITY key_toggleToolbox "VK_F12">
 <!-- zoom -->
 
+<!ENTITY projectPanel_runtimeApps "Ứng dụng runtime">
 <!ENTITY projectPanel_tabs "Thẻ">
+<!ENTITY runtimePanel_usb "Thiết bị USB">
+<!ENTITY runtimePanel_wifi "Thiết bị Wi-Fi">
+<!ENTITY runtimePanel_other "Khác">
+<!ENTITY runtimePanel_nousbdevice "Không thấy thiết bị của bạn?">
 <!ENTITY runtimePanel_refreshDevices_label "Làm mới thiết bị">
 
 <!-- Lense -->
@@ -43,8 +81,11 @@
 <!-- Prefs -->
 <!ENTITY prefs_general_title "Tổng quát">
 <!ENTITY prefs_restore "Khôi phục về mặc định">
+<!ENTITY prefs_options_autoconnectruntime "Kết nối lại với runtime trước đó">
+<!ENTITY prefs_options_autoconnectruntime_tooltip "Kết nối lại với runtime trước đó khi WebIDE bắt đầu">
 
 <!-- Runtime Details -->
+<!ENTITY runtimedetails_title "Thông tin runtime">
 
 <!-- Device Preferences and Settings -->
 <!ENTITY device_typeobject "Đối tượng">
