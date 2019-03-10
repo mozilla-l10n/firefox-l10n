@@ -7,5 +7,6 @@ restart-required-header = Beklagar. Vi treng berre å gjere ein liten ting for �
 restart-required-intro =
     Vi har nettopp installert ei oppdatering i bakgrunnen. Klikk på Start om { -brand-short-name } for å fullføre
     installasjonen.
+restart-required-intro-brand = { -brand-short-name } har nettopp blitt oppdatert i bakgrunnen. Klikk på Start { -brand-short-name } på nytt for å fullføre oppdateringa.
 restart-required-description = Vi vil gjenopprette alle sidene dine, vindauga og fanene etterpå, slik at du fort kan fortsetje.
 restart-button-label = Start om { -brand-short-name }
