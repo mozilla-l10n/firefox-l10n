@@ -131,6 +131,9 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.accesskey "Ç">
 <!ENTITY printCmd.commandkey "p">
 
+<!ENTITY importFromAnotherBrowserCmd.label "Başqa səyyahdan idxal et…">
+<!ENTITY importFromAnotherBrowserCmd.accesskey "I">
+
 <!ENTITY taskManagerCmd.label "Tapşırıq idarə edicisi">
 
 <!ENTITY goOfflineCmd.label "Oflayn işlə">
@@ -1133,9 +1136,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Əlavələrinizi <image class='addon-toolbar-icon'/> menyusundan <image class='addon-addon-icon'/> klikləyərək idarə edin.">
+<!ENTITY addonPostInstall.incognito.label "Bu uzantıya Məxfi Pəncərələrdə işləməyə icazə ver.">
+<!ENTITY addonPostInstall.incognito.accesskey "A">
 
-<!ENTITY addonPrivateBrowsing.header.label "Məxfi Pəncərələrdəki Uzantılar">
-<!ENTITY addonPrivateBrowsing.body.label "Uzantılar standart olaraq Məxfi Pəncərələrdə işləyə bilməzlər. Bu uzantılar məxfi səyahət vaxtı işləməyəcəklər və onlayn aktivliyinizi görə bilməyəcəklər. Tənzimləmələrinizdən hansı uzantıların Məxfi Pəncərələrdə işləyə biləcəyinizi seçə bilərsiz.">
+<!ENTITY addonPrivateBrowsing.header2.label "Məxfi Pəncərələrdəki uzantılar dəyişdirilir">
 <!ENTITY addonPrivateBrowsing.okButton.label "Tamam, başa düşdüm">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "O">
 <!ENTITY addonPrivateBrowsing.manageButton.label "Uzantıları idarə et">
