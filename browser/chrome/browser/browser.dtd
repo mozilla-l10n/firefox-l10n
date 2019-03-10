@@ -326,7 +326,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksSubview.label             "Trang đánh dấu">
 <!ENTITY bookmarksMenuButton2.label         "Bảng chọn trang đánh dấu">
-<!ENTITY bookmarksMenuButton.other.label    "Các trang đánh dấu khác">
+<!ENTITY bookmarksMenuButton.other.label    "Trang đánh dấu khác">
 <!ENTITY bookmarksMenuButton.mobile.label   "Trang đánh dấu trên điện thoại di động">
 <!ENTITY viewBookmarksSidebar2.label        "Hiển thị thanh bên trang đánh dấu">
 <!ENTITY hideBookmarksSidebar.label         "Ẩn thanh lề trang đánh dấu">
