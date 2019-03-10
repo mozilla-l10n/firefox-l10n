@@ -338,6 +338,9 @@ browsing-search-on-start-typing =
 browsing-cfr-recommendations =
     .label = Preporučuj dodatke dok pretražujem
     .accesskey = r
+browsing-cfr-features =
+    .label = Preporuči mogućnosti tijekom pregledavanja
+    .accesskey = m
 browsing-cfr-recommendations-learn-more = Saznajte više
 
 ## General Section - Proxy
