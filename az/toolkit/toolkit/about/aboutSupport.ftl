@@ -242,6 +242,7 @@ effective-content-sandbox-level = Effektiv məzmun emalı Sandbox səviyyəsi
 sandbox-proc-type-content = məzmun
 sandbox-proc-type-file = fayl məzmunu
 sandbox-proc-type-media-plugin = media qoşması
+sandbox-proc-type-data-decoder = məlumat dekodlaşdırıcısı
 launcher-process-status-0 = Aktivdir
 launcher-process-status-1 = Xətadan dolayı söndürülüb
 launcher-process-status-2 = Zorla söndürülüb
