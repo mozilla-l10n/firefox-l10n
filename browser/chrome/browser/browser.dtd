@@ -319,7 +319,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "Başlangıç">
-<!ENTITY homeButton.defaultPage.tooltip "Ana sayfa">
+<!ENTITY homeButton.defaultPage.tooltip "&brandShortName; Giriş Sayfası">
 
 <!ENTITY bookmarksButton.label          "Yer imleri">
 <!ENTITY bookmarksCmd.commandkey "b">
