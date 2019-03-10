@@ -14,4 +14,4 @@ no-change-button =
     .accesskey = D
 change-engine-button =
     .label = Axtarış Mühərriyini Dəyişdir
-    .accesskey = C
+    .accesskey = A
