@@ -46,8 +46,12 @@ cfr-doorhanger-extension-total-users =
         [few] { $total } korisnika
        *[other] { $total } korisnika
     }
+cfr-doorhanger-pintab-description = Jednostavan pristup vašim najkorištenijim stranicama. Držite stranice otvorene u kartici (čak i kada ponovno pokrenete preglednik).
 
 ## These messages are steps on how to use the feature and are shown together.
 
+cfr-doorhanger-pintab-step1 = <b>Desni klik</b> na karticu koju želite zakačiti.
+cfr-doorhanger-pintab-step2 = Odaberite <b>Zakači karticu</b> iz izbornika.
+cfr-doorhanger-pintab-step3 = Ukoliko je stranica osvježena, vidjet ćete plavu točku na zakačenoj kartici.
 cfr-doorhanger-pintab-animation-pause = Pauziraj
 cfr-doorhanger-pintab-animation-resume = Nastavi
