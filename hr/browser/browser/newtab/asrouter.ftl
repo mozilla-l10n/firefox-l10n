@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 cfr-doorhanger-extension-heading = Preporučeni dodatak
+cfr-doorhanger-pintab-heading = Pokušajte ovo: Zakačite karticu
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Zašto ovo vidim
 cfr-doorhanger-extension-cancel-button = Ne sada
