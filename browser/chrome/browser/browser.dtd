@@ -1140,6 +1140,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addonPostInstall.incognito.accesskey "A">
 
 <!ENTITY addonPrivateBrowsing.header2.label "Məxfi Pəncərələrdəki uzantılar dəyişdirilir">
+<!ENTITY addonPrivateBrowsing.body2.label "&brandShorterName; səyyahına əlavə etdiyiniz yeni uzantılar bu tənzimləmədə icazə vermənizə qədər Məxfi Pəncərələrdə işləməyəcəklər.">
+<!ENTITY addonPrivateBrowsing.learnMore.label "Uzantı tənzimləmələrini necə idarə edəcəyinizi öyrənin.">
 <!ENTITY addonPrivateBrowsing.okButton.label "Tamam, başa düşdüm">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "O">
 <!ENTITY addonPrivateBrowsing.manageButton.label "Uzantıları idarə et">
