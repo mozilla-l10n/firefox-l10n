@@ -4,10 +4,6 @@
 
 do-not-track-description = Saytlara “Məni İzləmə” siqnalı göndərərək izlənmək istəmədiyinizi bildirin
 do-not-track-learn-more = Ətraflı öyrən
-do-not-track-option-default =
-    .label = Ancaq İzlənmə Qoruması işlədərkən
-do-not-track-option-default-content-blocking =
-    .label = Ancaq { -brand-short-name } Tapılan İzləyiciləri əngəlləmək üçün tənzimləndiyində
 do-not-track-option-always =
     .label = Həmişə
 pref-page =
@@ -52,6 +48,9 @@ category-privacy =
 pane-sync-title = Firefox Hesabı
 category-sync =
     .tooltiptext = { pane-sync-title }
+pane-sync-title2 = { -sync-brand-short-name }
+category-sync2 =
+    .tooltiptext = { pane-sync-title2 }
 help-button-label = { -brand-short-name } Dəstək
 addons-button-label = Uzantılar və Mövzular
 focus-search =
@@ -93,9 +92,6 @@ extension-controlled-default-search = <img data-l10n-name="icon"/> { $name } uza
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = Uzantı, <img data-l10n-name="icon"/> { $name }, Konteyner vərəqlərini tələb edir.
-# This string is shown to notify the user that their tracking protection preferences
-# are being controlled by an extension.
-extension-controlled-websites-tracking-protection-mode = Uzantı, <img data-l10n-name="icon"/> { $name }, izlənmə qorumasını idarə edir.
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
 extension-controlled-websites-content-blocking-all-trackers = Bu tənzimləməni uzantı, <img data-l10n-name="icon"/> { $name }, idarə edir.
@@ -526,6 +522,9 @@ sync-device-name-save =
     .accesskey = v
 sync-mobilepromo-single = Digər cihazı qoş
 sync-mobilepromo-multi = Cihazları idarə et
+sync-connect-another-device = Digər cihazı qoş
+sync-manage-devices = Cihazları idarə et
+sync-fxa-begin-pairing = Cihaz qoş
 sync-tos-link = İstifadə Şərtləri
 sync-fxa-privacy-notice = Məxfilik Bildirişi
 
@@ -602,12 +601,6 @@ sitedata-total-size-calculating = Sayt məlumatları və keş ölçüsü hesabla
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Saxlanılan çərəz, sayt məlumatları və keşləriniz hazırda { $value } { $unit } disk işlədirlər.
 sitedata-learn-more = Ətraflı öyrən
-sitedata-keep-until = Saxlama limiti
-    .accesskey = u
-sitedata-keep-until-expire =
-    .label = Vaxtı bitənə qədər
-sitedata-keep-until-closed =
-    .label = { -brand-short-name } qapatılana qədər
 sitedata-delete-on-close =
     .label = { -brand-short-name } qapatıldığında çərəzləri və sayt məlumatlarını sil
     .accesskey = c
@@ -621,29 +614,14 @@ sitedata-disallow-cookies-option =
 # The list items are the strings named sitedata-block-*-option*.
 sitedata-block-desc = Əngəllənən növ
     .accesskey = T
-sitedata-block-trackers-option-recommended =
-    .label = Üçüncü tərəf izləyicilər (məsləhətlidir)
-sitedata-block-trackers-option =
-    .label = Üçüncü tərəf izləyicilər
-sitedata-block-unvisited-option =
-    .label = Ziyarət edilməmiş saytlardan olan çərəzlər
-sitedata-block-all-third-party-option =
-    .label = Bütün üçüncü-tərəf çərəzləri (bəzi saytlar səhv işləyə bilər)
-sitedata-block-all-option =
-    .label = Bütün çərəzləri (əksər səhifələr səhv işləyəcəklər)
+sitedata-option-block-trackers =
+    .label = Üçüncü-tərəf izləyicilər
 sitedata-clear =
     .label = Məlumatları təmizlə…
     .accesskey = l
 sitedata-settings =
     .label = Məlumatları idarə et…
     .accesskey = M
-sitedata-cookies-exceptions =
-    .label = İstisnalar…
-    .accesskey = a
-# This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
-# in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
-# Cookies and Site Data section.
-sitedata-warning-your-settings-prevent-changes = Məzmun Əngəlləmə tənzimləmələriniz Çərəzlər və Sayt Məlumatları tənzimləmələrini dəyişdirməyə imkan vermirlər.
 sitedata-cookies-permissions =
     .label = İcazələri idarə et…
     .accesskey = P
@@ -666,41 +644,8 @@ addressbar-suggestions-settings = Axtarış mühərriyi təklifləri üçün niz
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Məzmun Əngəlləmə
-content-blocking-desc = Səyahətinizi yavaşladacaq və sizi internetdə izləyəcək reklam və kod kimi üçüncü tərəf məzmunları əngəllə. Tənzimləmələrinizi qoruma və məhsuldarlıq arasında ehtiyyacınıza görə tarazlaşdırın.
 content-blocking-description = Sizi internetdə izləyən üçüncü tərəf məzmunlarını əngəlləyin. Onlayn aktivliyinizin nə qədər saxlandığını və hansı saytlar arasında paylaşıldığını idarə edin.
 content-blocking-learn-more = Ətraflı Öyrən
-content-blocking-restore-defaults =
-    .label = İlkin Seçənəkləri bərpa et
-    .accesskey = R
-content-blocking-toggle-on =
-    .tooltiptext = Məzmun Əngəlləməni söndür
-content-blocking-toggle-off =
-    .tooltiptext = Məzmun Əngəlləməni aktivləşdir
-content-blocking-toggle-label-on = AÇIQ
-    .accesskey = O
-content-blocking-toggle-label-off = QAPALI
-    .accesskey = O
-content-blocking-category-label = Nələrin əngəllənəcəyini seçin
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-slow-loading-trackers-label =
-    .label = Yavaş yüklənən izləyicilər
-    .accesskey = S
-content-blocking-fastblock-new-description = Ancaq səhifənin tez yüklənməsini əngəlləyən izləyiciləri əngəllə.
-content-blocking-tracking-protection-trackers-label =
-    .label = İzləyicilər
-    .accesskey = T
-content-blocking-tracking-protection-all-detected-trackers-label =
-    .label = Bütün aşkarlanan izləyicilər
-    .accesskey = T
-content-blocking-tracking-protection-new-description = Bütün bilinən izləyiciləri əngəllə. (Bəzi səhifələr yüklənməyə bilər.)
-content-blocking-tracking-protection-option-always =
-    .label = Həmişə
-    .accesskey = A
-content-blocking-tracking-protection-option-private =
-    .label = Ancaq məxfi pəncərələrdə
-    .accesskey = p
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 content-blocking-setting-standard =
@@ -732,51 +677,12 @@ content-blocking-option-private =
     .label = Ancaq Məxfi Pəncərələrdə
     .accesskey = p
 content-blocking-tracking-protection-change-block-list = Qara siyahını dəyişdir
-content-blocking-third-party-cookies-label =
-    .label = Üçüncü-tərəf çərəzlər
-    .accesskey = C
-content-blocking-reject-trackers-description = Bütün üçüncü-tərəf çərəzləri və ya ancaq izləyicilər tərəfindən olanları əngəllə.
-# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
-# of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
-# or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
-# the UI.
-content-blocking-reject-trackers-warning-your-settings-prevent-changes = Çərəzlər və Sayt Məlumatları tənzimləmələriniz Üçüncü-Tərəf Çərəzləri tənzimləmələrini dəyişdirməyə imkan vermirlər.
-content-blocking-change-cookie-settings =
-    .label = Çərəz Tənzimləmələrini Dəyişdir
-    .accesskey = S
-content-blocking-reject-trackers-block-trackers-option-recommended =
-    .label = İzləyicilər (məsləhətlidir)
-    .accesskey = k
-content-blocking-reject-trackers-block-trackers-option =
-    .label = İzləyicilər
-    .accesskey = k
-content-blocking-reject-trackers-all-third-parties-option =
-    .label = Bütün üçüncü-tərəf çərəzlər (bəzi saytlar düz işləməyə bilər)
-    .accesskey = A
 content-blocking-cookies-label =
     .label = Çərəzlər
     .accesskey = C
 
 ## Privacy Section - Tracking
 
-tracking-header = İzlənmə Qoruması
-tracking-desc = İzlənmə Qoruması saytlar arası səyahət məlumatlarınızı yığan onlayn izləyiciləri əngəlləyir. <a data-l10n-name="learn-more">İzlənmə Qoruması və məxfiliyiniz haqqında ətraflı öyrənin</a>
-tracking-mode-label = Bilinin izləyiciləri əngəlləmək üçün İzlənmə Qorumasını işlədin
-tracking-mode-always =
-    .label = Həmişə
-    .accesskey = H
-tracking-mode-private =
-    .label = Ancaq Məxfi Pəncərələrdə
-    .accesskey = n
-tracking-mode-never =
-    .label = Heç vaxt
-    .accesskey = v
-tracking-exceptions =
-    .label = İstisnalar…
-    .accesskey = a
-tracking-change-block-list =
-    .label = Qara Siyahını Dəyiş…
-    .accesskey = C
 tracking-manage-exceptions =
     .label = İstisnaları idarə et…
     .accesskey = x

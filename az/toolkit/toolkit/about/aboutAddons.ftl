@@ -88,6 +88,14 @@ detail-update-automatic =
 detail-update-manual =
     .label = Bağlı
     .tooltiptext = Yeniləmələri avtomatik quraşdırma
+# Used as a description for the option to allow or block an add-on in private windows.
+detail-private-browsing-label = Məxfi Pəncərələrdə işlət
+detail-private-browsing-on =
+    .label = İcazə ver
+    .tooltiptext = Məxfi Pəncərələrdə aktivləşdir
+detail-private-browsing-off =
+    .label = İcazə vermə
+    .tooltiptext = Məxfi Pəncərələrdə söndür
 detail-home =
     .label = Ana səhifə
 detail-home-value =
@@ -210,8 +218,12 @@ extensions-updates-update-selected =
 
 ## Extension shortcut management
 
+manage-extensions-shortcuts =
+    .label = Uzantı Qısa-yollarını İdarə et
+    .accesskey = S
 shortcuts-empty-message = Bu uzantı üçün qısayol yoxdur.
 shortcuts-no-addons = Aktiv uzantınız yoxdur.
+shortcuts-no-commands = Bu uzantıların qısa-yolları yoxdur:
 shortcuts-input =
     .placeholder = Qısayol yazın
 shortcuts-browserAction = Uzantını aktivləşdir
@@ -222,6 +234,11 @@ shortcuts-modifier-other = Ctrl və ya Alt istifadə edin
 shortcuts-invalid = Səhv kombinasiya
 shortcuts-letter = Hərf yazın
 shortcuts-system = { -brand-short-name } qısayolu dəyişdirilə bilməz
+shortcuts-card-expand-button =
+    { $numberToShow ->
+        [one] Daha { $numberToShow } dənə göstər
+       *[other] Daha { $numberToShow } dənə göstər
+    }
 shortcuts-card-collapse-button = Daha az göstər
 go-back-button =
     .tooltiptext = Geri get
