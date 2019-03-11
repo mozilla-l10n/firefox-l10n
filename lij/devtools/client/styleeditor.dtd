@@ -21,7 +21,7 @@
 <!ENTITY visibilityToggle.tooltip   "Inverti a vizibilitæ do feuggio de stile">
 
 <!ENTITY saveButton.label           "Sarva">
-<!ENTITY saveButton.tooltip         "Sarva sto feuggio de stile inte 'n file">
+<!ENTITY saveButton.tooltip         "Sarva sto feuggio de stile inte 'n schedaio">
 <!ENTITY saveButton.accesskey       "S">
 
 <!ENTITY optionsButton.tooltip      " Editô do stile">
