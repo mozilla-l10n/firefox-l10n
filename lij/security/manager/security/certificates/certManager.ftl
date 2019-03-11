@@ -15,7 +15,7 @@ certmgr-tab-ca =
 certmgr-mine = Ti gh'é sti certificati da ste organizaçioin che te identifican
 certmgr-people = Ti gh'é sti certificati che identifican ste personn-e
 certmgr-servers = Ti gh'é sti certificati che identifican sti server
-certmgr-ca = Ti gh'é sti certificati inti file che identifican ste aotoritæ
+certmgr-ca = Ti gh'é sti certificati inti schedai che identifican ste aotoritæ
 certmgr-detail-general-tab-title =
     .label = Generale
     .accesskey = G
@@ -147,22 +147,22 @@ exception-mgr-permanent =
 pk11-bad-password = A paròlla segreta a l'é sbalia.
 pkcs12-decode-err = Inposcibile decodificâ l'archivio. Ò o no l'é into formato PKCS #12, ò o l'é corotto, ò a paròlla d'ordine a l'é scoretta.
 pkcs12-unknown-err-restore = Inposcibile arecuviâ l'archivio PKCS #12 pe de raxoin sconosciue.
-pkcs12-unknown-err-backup = Inposcibile fâ l'archivio d'agiornamento do PKCS #12 pe de raxoin sconosciue.
+pkcs12-unknown-err-backup = Inposcibile creâ o schedaio de sarvaguardia do PKCS #12 pe de raxoin sconosciue.
 pkcs12-unknown-err = A procedua do PKCS #12 a l'é falia pe de raxoin sconosciue.
 pkcs12-info-no-smartcard-backup = Inposcibile agiornâ i certificati da un apægio hardware de seguessa comme 'na smart card.
 pkcs12-dup-data = O certificato e a ciave privâ existan za inte l'apægio de seguessa.
 
 ## PKCS#12 file dialogs
 
-choose-p12-backup-file-dialog = Nomme do file pe-a còpia de seguessa
-file-browse-pkcs12-spec = File PKCS12
-choose-p12-restore-file-dialog = File do certificato da inportâ
+choose-p12-backup-file-dialog = Nomme do schedaio da sarvaguardâ
+file-browse-pkcs12-spec = Schedaio PKCS12
+choose-p12-restore-file-dialog = Schedaio de certificato da inportâ
 
 ## Import certificate(s) file dialog
 
-file-browse-certificate-spec = File di Certificati
-import-ca-certs-prompt = Seleçionn-a o file ch'o gh'à i certificati CA da inportâ
-import-email-cert-prompt = Seleçionn-a o file ch'o gh'à o certificato Email da inportâ
+file-browse-certificate-spec = Schedai de certificato
+import-ca-certs-prompt = Seleçionn-a o schedaio ch'o gh'à i certificati CA da inportâ
+import-email-cert-prompt = Seleçionn-a o schedaio ch'o gh'à o certificato do destinataio de posta da inportâ
 
 ## For editing certificates trust
 
@@ -234,7 +234,7 @@ add-exception-branded-warning = T'ê apreuvo a cangiâ o mòddo ch'o l'à { -bra
 add-exception-invalid-header = Sto scito o preuva a identificase con dæti no validi.
 add-exception-domain-mismatch-short = Scito sbagliou
 add-exception-domain-mismatch-long = O certificato o l'é de 'n'atro scito, o porieva ese 'n tentativo de sostitoise a-o scito òriginale.
-add-exception-expired-short = Informaçion Vegia
+add-exception-expired-short = Informaçion vegia
 add-exception-expired-long = O certificato o no l'é ciù valido. L'é poscibile ch'o segge stæto arobou ò perduo, e o porieiva ese adeuviou into tentativo de sostitoise a-o scito òriginale.
 add-exception-unverified-or-bad-signature-short = Identitæ no conosciua
 add-exception-unverified-or-bad-signature-long = O certificato o no l'é afidabile perché no l'é poscibile verificâ ch'o segge emesso da 'na Autoritæ riconosciua co-ina firma segua.
@@ -247,10 +247,10 @@ add-exception-no-cert-long = Inposcibile pigiâ o stæto de identificaçion de s
 
 ## Certificate export "Save as" and error dialogs
 
-save-cert-as = Sarva o Certificato into File
+save-cert-as = Sarva o Certificato in sce schedaio
 cert-format-base64 = Certificato X.509 (PEM)
 cert-format-base64-chain = Certificato X.509 con cadenn-a (PEM)
 cert-format-der = Certificato X.509 (DER)
 cert-format-pkcs7 = Certificato X.509 (PKCS#7)
 cert-format-pkcs7-chain = Certificato X.509 con cadenn-a (PKCS#7)
-write-file-failure = Erô do file
+write-file-failure = Erô do schedaio

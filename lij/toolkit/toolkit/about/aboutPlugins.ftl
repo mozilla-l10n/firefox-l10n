@@ -14,7 +14,7 @@ deprecation-description = Te manca quarcösa? Çerti plugin no en ciù soportæ.
 ##   $pluginFullPath: path of the plugin
 ##   $version: version of the plugin
 
-file-dd = <span data-l10n-name="file">File:</span> { $pluginLibraries }
+file-dd = <span data-l10n-name="file">Schedaio:</span> { $pluginLibraries }
 path-dd = <span data-l10n-name="path">Percorso:</span> { $pluginFullPath }
 version-dd = <span data-l10n-name="version">Verscion:</span> { $version }
 

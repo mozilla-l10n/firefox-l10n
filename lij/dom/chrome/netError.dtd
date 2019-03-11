@@ -16,11 +16,11 @@
 <!ENTITY dnsNotFound.title "Indirisso no trovou">
 <!ENTITY dnsNotFound.longDesc "<p>O navegatô o no treuva o server pe l'indirisso che t'æ scrito.</p><ul><li>T'æ miga fæto 'n erô a scrive? (ez. <q><strong>ww</strong>.mozilla.org</q> invece de <q><strong>www</strong>.mozilla.org</q>)</li><li>T'ê seguo che l'indirisso o l'exista?  Fòscia l'indirisso o l'é scheito.</li><li>Ti no riesci a navegâ inti atri sciti?  Contròlla a teu conescion e o teu DNS.</li><li>O teu computer o l'é miga protezuo da 'n firewall ò proxy?  Se ti gh'æ 'na inpostaçion sbaliâ ti no peu navega.</li></ul>">
 
-<!ENTITY fileNotFound.title "File no trovou">
+<!ENTITY fileNotFound.title "Schedaio no trovou">
 <!ENTITY fileNotFound.longDesc "<ul><li>Peu miga ese che l'ògetto o segge stæto rinominou, scancelou ò mesciou?</li><li>Gh'é quarche erô inte l'indirisso?</li><li>Ti ghe l'æ i permissi pe acede a l'ògetto?</li></ul>">
 
-<!ENTITY fileAccessDenied.title "Acesso a-o file negou">
-<!ENTITY fileAccessDenied.longDesc "<ul><li>O peu ese stæto scancelou,mesciou, ò i permissi de acesso a-i file peuan proibine l'acesso.</li></ul>">
+<!ENTITY fileAccessDenied.title "Acesso a-o schedaio negou">
+<!ENTITY fileAccessDenied.longDesc "<ul><li>O peu ese stæto scancelou, mesciou, ò i permissi de acesso a-o schedaio peuan proibine l'acesso.</li></ul>">
 
 <!ENTITY generic.title "No riescio a finî a domanda">
 <!ENTITY generic.longDesc "<p>No gh'é son atre informaçioin in sciô problema.</p>">
@@ -40,7 +40,7 @@
 <!ENTITY contentEncodingError.title "Erô de còdifica do contegnuo">
 <!ENTITY contentEncodingError.longDesc "<p>A pagina che t'eu vedde a no se peu mostrâ perché a gh'à 'na comprescion ch'a no l'é soportâ.</p><ul><li>Pe piaxei, contatta i padroin do scito pe faghe savei de questo problema.</li></ul>">
 
-<!ENTITY unsafeContentType.title "Tipo de file no seguo">
+<!ENTITY unsafeContentType.title "Tipo de schedaio no segûo">
 <!ENTITY unsafeContentType.longDesc "<p>A pagina che t'eu vedde a no se peu mostrâ perché a gh'à 'na comprescion che a no l'é soportâ.</p><ul><li>Pe piaxei, contatta i padroin do scito pe faghe savei de questo problema.</li></ul>">
 
 <!ENTITY netReset.title "Conescion Scancelâ">

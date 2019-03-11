@@ -43,8 +43,8 @@ profiles-delete-profile-confirm =
     Quande se scencella un profî sto chi o saiâ levòu da l'elenco di profî disponibili e o no saiâ poscibile anulâ l’operaçion.
     Ti peu çerne de scancelâ anche i file asociæ a-o profî, incluzi inpostaçion, certificati e atri dæti de l’utente. Se ti çerni sta opçion a cartella “{ $dir }” a saiâ scanelâ e no saiâ poscibile repigiala.
     Scancelâ i file asociæ a-o profî?
-profiles-delete-files = Scancella i file
-profiles-dont-delete-files = No scancelâ i file
+profiles-delete-files = Scancella i schedai
+profiles-dont-delete-files = No scancelâ i schedai
 profiles-delete-profile-failed-title = Erô
 profiles-delete-profile-failed-message = Gh'é stæto 'n erô into scancelâ sto profî.
 profiles-opendir =
