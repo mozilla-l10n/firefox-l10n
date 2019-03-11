@@ -141,7 +141,12 @@ legacy-warning-show-legacy = Afficher les extensions obsolètes
 legacy-extensions =
     .value = Extensions obsolètes
 legacy-extensions-description = Ces extensions ne répondent pas aux exigences actuelles de { -brand-short-name }. Elles ont été désactivées. <label data-l10n-name="legacy-learn-more">En savoir plus sur les changements apportés aux modules</label>
-private-browsing-description = Par défaut, les extensions ne sont pas autorisées à s’exécuter dans les fenêtres de navigation privée. Cela signifie qu’elles ne fonctionneront pas pendant la navigation privée et qu’elles n’auront donc pas accès à ces activités en ligne. Pour autoriser une extension à s’exécuter dans les fenêtres de navigation privée, sélectionnez la carte de l’extension ci-dessous et modifiez le paramètre associé. <label data-l10n-name="private-browsing-learn-more">En savoir plus</label>
+private-browsing-description2 =
+    { -brand-short-name } modifie le fonctionnement des extensions en navigation privée. Aucune nouvelle extension que vous ajouterez à
+    { -brand-short-name } ne s’exécutera par défaut dans une fenêtre privée. Si vous ne le permettez pas dans les paramètres, 
+    l’extension ne fonctionnera pas en navigation privée et n’aura pas accès à vos activités en ligne.
+    Nous avons apporté cette modification pour que votre navigation privée reste confidentielle.
+    <label data-l10n-name="private-browsing-learn-more"> Découvrez comment gérer les paramètres d’extension.</ label>
 extensions-view-discover =
     .name = Catalogue
     .tooltiptext = { extensions-view-discover.name }
