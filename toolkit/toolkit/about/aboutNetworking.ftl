@@ -32,9 +32,9 @@ bytes-sent = Byte mandæ
 bytes-received = Byte reçevui
 logging = Registro
 log-tutorial = Amia o <a data-l10n-name="logging"> diaio HTTP</a> pe instruçioin in sce comme dueviâ sto strumento.
-current-log-file = File do diaio corente:
+current-log-file = Schedaio de diaio corente:
 current-log-modules = Mòdoli do diaio corente:
-set-log-file = Seleçionn-a file do diaio
+set-log-file = Seleçionn-a schedaio de diaio
 set-log-modules = Inpòsta mòdoli do diaio
 start-logging = Iniçia a registrâ
 stop-logging = Ferma a registraçion

@@ -26,7 +26,7 @@
 <!ENTITY report.comment                                      "Azonzi 'n comento (i comenti en vixibili pubricamente)">
 <!ENTITY report.pageURL                                      "Includdi URL da pagina">
 
-<!ENTITY plugin.file                                         "File">
+<!ENTITY plugin.file                                         "Schedaio">
 <!ENTITY plugin.mimeTypes                                    "Tipi MIME">
 <!ENTITY plugin.flashProtectedMode.label                     "Ativa mòddo proteto in Adobe Flash">
 <!ENTITY plugin.enableBlocklists.label                       "Blòcca contegui Flash grammi e pericolozi">

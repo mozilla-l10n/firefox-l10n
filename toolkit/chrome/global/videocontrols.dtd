@@ -29,7 +29,7 @@
 
 <!ENTITY error.aborted "Caregamento do video fermou.">
 <!ENTITY error.network "Riproduçion video fermâ a caoza de 'n'erô da ræ.">
-<!ENTITY error.decode "Riproduçion video inposciblie a caoza de 'n file aroinou.">
+<!ENTITY error.decode "Riproduçion video inposciblie a caoza de 'n schedaio aroinou.">
 <!ENTITY error.srcNotSupported "Formou video ò tipo MIME no soportou.">
 <!ENTITY error.noSource2 "Niscun video con formato ò tipo MIME soportou.">
 <!ENTITY error.generic "Riproduçion video fermâ pe caxon de n'erô sconosciuo.">
