@@ -12,7 +12,6 @@
 <!ENTITY advanced.label "Подробности">
 <!ENTITY continue2.label "Подробности…">
 <!ENTITY moreInformation.label "Повече информация">
-
 <!ENTITY viewCertificate.label "Преглед на сертификата">
 
 <!-- Specific error messages -->
@@ -116,9 +115,6 @@ was trying to connect. -->
 <!ENTITY certerror.introPara "Собственикът на <span class='hostname'/> е настроил страницата неправилно. За да ви защити от кражба на информация, &brandShortName; отказа връзката с тази страница.">
 <!ENTITY certerror.introPara2 "&brandShortName; забеляза възможна заплаха за сигурността и не продължи към <span class='hostname'/>. Ако посетите страницата атакуващ може да опита да открадне информация като ваши пароли, електронни писма или данни за банкови карти.">
 
-<!ENTITY certerror.expiredCert.secondPara "Проблемът, най-вероятно, е причинен от неверен часовник на компютъра, което би могло да попречи на &brandShortName; да осъществи защитена връзка.">
-
-
 <!ENTITY certerror.expiredCert.introPara "&brandShortName; откри проблем и не продължи към <span class='hostname'/>. Сайтът е или неправилно настроен, или часовникът на вашия компютър е неверен.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Какво да направите в тази ситуация?">
@@ -178,6 +174,7 @@ was trying to connect. -->
 
 <!ENTITY blockedByPolicy.title "Забранена страница">
 
+
 <!ENTITY clockSkewError.title "Часовникът на компютъра е неверен">
 <!ENTITY clockSkewError.longDesc "Часовникът на компютъра показва <span id='wrongSystemTime_systemDate1'/> което пречи на &brandShortName; да осъществи защитена връзка. Сверете датата, часа и часовия пояс на компютъра в системните настройки, за да посетите <span class='hostname'/>. След това презаредете страницата на <span class='hostname'/>.">
 
@@ -185,7 +182,4 @@ was trying to connect. -->
 <!ENTITY prefReset.label "Възстановяване на оригиналните настройки">
 
 <!ENTITY networkProtocolError.title "Нарушение на мрежовия протокол">
-<!ENTITY networkProtocolError.longDesc "<p>Страницата която се опитвате да отворите не може да бъде показана, защото е открита грешка в мрежовия протокол.</p>
-<ul>
-  <li>Моля, свържете се със собствениците на сайта, за да ги информирате за проблема.</li>
-</ul>">
+<!ENTITY networkProtocolError.longDesc "<p>Страницата не може да бъде показана поради грешка в мрежовия протокол.</p><ul><li>Моля, свържете се със собствениците на сайта, за да ги информирате за проблема.</li></ul>">
