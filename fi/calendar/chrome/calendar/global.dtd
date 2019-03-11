@@ -46,6 +46,8 @@
 
 <!ENTITY onemonthbackward.tooltip "Siirry edelliseen kuukauteen" >
 <!ENTITY onemonthforward.tooltip "Siirry seuraavaan kuukauteen" >
+<!ENTITY oneyearbackward.tooltip "Siirry vuosi taaksepäin" >
+<!ENTITY oneyearforward.tooltip "Siirry vuosi eteenpäin" >
 <!ENTITY showToday.tooltip "Siirry tähän päivään">
 <!ENTITY onedayforward.tooltip "Siirry seuraavaan päivään">
 <!ENTITY onedaybackward.tooltip "Siirry edelliseen päivään">
