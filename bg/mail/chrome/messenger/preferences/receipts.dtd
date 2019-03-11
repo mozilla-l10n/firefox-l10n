@@ -10,7 +10,7 @@
 <!ENTITY leaveIt.accesskey             "О">
 <!ENTITY moveToSent.label              "Премества се в папка &quot;Изпратени&quot;">
 <!ENTITY moveToSent.accesskey          "р">
-<!ENTITY requestMDN.label              "Когато се получи заявка за обратна разписка:">
+<!ENTITY requestMDN.label              "При получаване на заявка за обратна разписка:">
 <!ENTITY never.label                   "Никога не се изпраща обратна разписка">
 <!ENTITY never.accesskey               "Н">
 <!ENTITY returnSome.label              "Изпраща се обратна разписка според следните правила">

@@ -120,3 +120,5 @@ functionality specific to thunderbird. -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> използва остаряла технология за сигурност, уязвима към атаки. Такива атаки могат лесно да разкрият информация, която мислите, че е защитена. Администраторът на сайта трябва да поправи сървъра преди да може да използвате сайта.</p><p>Код на грешка: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Забранена страница">
+
+<!ENTITY networkProtocolError.longDesc "<p>Страницата не може да бъде показана поради грешка в мрежовия протокол.</p><ul><li>Моля, свържете се със собствениците на сайта, за да ги информирате за проблема.</li></ul>">
