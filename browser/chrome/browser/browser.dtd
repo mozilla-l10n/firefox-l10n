@@ -120,7 +120,7 @@ in "Search through tabs". -->
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
 <!ENTITY openLocationCmd.label "Arvi Indirisso…">
-<!ENTITY openFileCmd.label "Arvi File…">
+<!ENTITY openFileCmd.label "Arvi schedaio…">
 <!ENTITY openFileCmd.accesskey "v">
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "Inpòsta pagina…">
@@ -130,6 +130,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.label "Stanpa…">
 <!ENTITY printCmd.accesskey "p">
 <!ENTITY printCmd.commandkey "p">
+
 
 <!ENTITY taskManagerCmd.label "Gestion ativitæ">
 
@@ -367,7 +368,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY inspectA11YContextMenu.label     "Ispeçionn-a propietæ de acesibilitæ">
 
-<!ENTITY fileMenu.label         "File">
+<!ENTITY fileMenu.label         "Schedaio">
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newUserContext.label             "Neuvo feuggio contenitô">
 <!ENTITY newUserContext.accesskey         "c">
@@ -982,9 +983,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.title "Blòcco di contengui">
 
+<!ENTITY contentBlocking.trackingProtection3.label "Traciatoî">
 
 
+<!ENTITY contentBlocking.trackersView.label "Traciatoî">
 
+<!ENTITY contentBlocking.cookies.label "Cookie">
 
 <!ENTITY contentBlocking.cryptominers.label "Cryptominer">
 <!ENTITY contentBlocking.cryptominersView.label "Cryptominer">
@@ -1117,3 +1121,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Gestisci e inpostaçioin di conponenti azonti sciacando <image class='addon-addon-icon'/> into <image class='addon-toolbar-icon'/> menû.">
 
+<!ENTITY addonPrivateBrowsing.okButton.label "Va ben, ò capio">

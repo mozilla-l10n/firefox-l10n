@@ -29,7 +29,7 @@ community-2 = { -brand-short-name } o l'é fæto da <label data-l10n-name="commu
 helpus = Ti ne veu agiutâ? <label data-l10n-name="helpus-donateLink">Fanni 'na donaçion</label> ò <label data-l10n-name="helpus-getInvolvedLink">travaggia con niatri</label>
 bottomLinks-license = Informaçion de licensa
 bottomLinks-rights = Diritti de l'utente
-bottomLinks-privacy = Politica da Privacy
+bottomLinks-privacy = Informativa in sciâ privacy
 aboutDialog-architecture-sixtyFourBit = 64-bit
 aboutDialog-architecture-thirtyTwoBit = 32-bit
 # Example of resulting string: 66.0.1 (64-bit)

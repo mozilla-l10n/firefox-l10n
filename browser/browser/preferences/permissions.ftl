@@ -58,10 +58,10 @@ permissions-invalid-uri-label = Pe piaxei inserisci un nomme de host valido
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-tracking-protection-window =
-    .title = Eceçioin - Proteçion anti-traciamento
+permissions-exceptions-content-blocking-window =
+    .title = Eceçioin - Blòcco di contegnui
     .style = { permissions-window.style }
-permissions-exceptions-tracking-protection-desc = T'æ dizabilitou a proteçion anti-traciamento pe sti sciti.
+permissions-exceptions-content-blocking-desc = T'æ dizabilitou o blòcco di contegnui pe sti sciti.
 
 ## Exceptions - Cookies
 

@@ -45,16 +45,19 @@ policy-DisplayMenuBar = Fanni vedde a bara do menû comme preinpostaçion.
 policy-DNSOverHTTPS = Configua DNS over HTTPS.
 policy-DontCheckDefaultBrowser = Dizabilita o contròllo se o navegatô o l'é predefinio quande arvo.
 # “lock” means that the user won’t be able to change this setting
-policy-EnableTrackingProtection = Abilita ò dizabilita o Blòcco di contegnui de deciddi se blocâ a decixon.
+policy-EnableTrackingProtection = Abilita ò dizabilita o Blòcco di contegnui e opçionalmente blòcca a impostaçion.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
 policy-Extensions = Installa, dizinstalla ò bloòcca e estenscioin. L'òpçion de instalaçion piggiâ de URL ò di parametri. In cangio la dizinstalaçion e vlòcco piggiâ de estescioin ID.
+policy-ExtensionUpdate = Abilita o dizabilita o agiornamento aotomatico de estenscioin.
 policy-FlashPlugin = Permetti ò nega l'uzo di plugin Flash.
 policy-HardwareAcceleration = Se false, asmòrta l'aceleraçion hardware.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Inpòsta e blòcca (se ti veu) a pagina prinçipâ.
 policy-InstallAddonsPermission = Permetti a çerti sciti de instalâ conponenti azonti.
+policy-NetworkPrediction = Abilita o dizabilita a prediçion da ræ (preletûa DNS).
+policy-Permissions = Inpòsta i permissi do micròfono, fötocamera, poxiçion e notificaçion.
 policy-PopupBlocking = Permetti a çerti sciti de mostrâ di popup comme òpçion predefinia.
 policy-Proxy = Configuraçion inpostaçioin do proxy.
 policy-SanitizeOnShutdown = Scancella tutti i dæti de navegaçion quande asmòrto.

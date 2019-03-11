@@ -13,11 +13,11 @@
 <!ENTITY aboutPrivateBrowsing.info.visited               "pagine vixitæ">
 <!ENTITY aboutPrivateBrowsing.info.searches              "riçerche">
 <!ENTITY aboutPrivateBrowsing.info.cookies               "cookie">
-<!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "file tenporanei">
+<!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "schedai tenporanei">
 <!ENTITY aboutPrivateBrowsing.info.saved.before          "Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "o se sarva">
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          ":">
-<!ENTITY aboutPrivateBrowsing.info.downloads             "File descaregæ">
+<!ENTITY aboutPrivateBrowsing.info.downloads             "descaregamenti">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "Segnalibbri">
 <!ENTITY aboutPrivateBrowsing.info.clipboard             "testo copiou">
 <!ENTITY aboutPrivateBrowsing.note.before                "Navegaçion privâ ">

@@ -35,10 +35,10 @@
 </ul>
 ">
 
-<!ENTITY fileNotFound.title "File no trovou">
+<!ENTITY fileNotFound.title "Schedaio no trovou">
 <!ENTITY fileNotFound.longDesc "<ul><li>Peu ese che l'ògetto o segge stæto rinominou, scancelou ò mesciou?</li><li>Gh'é quarche erô inte l'indirisso?</li><li>Ti ghe l'æ i permissi pe acede a l'ògetto?</li></ul>">
 
-<!ENTITY fileAccessDenied.title "Acesso a-o file negou">
+<!ENTITY fileAccessDenied.title "Acesso a-o schedaio negou">
 <!ENTITY fileAccessDenied.longDesc "
 <ul>
   <li>O peu ese stæto scancelou,mesciou, ò i permissi de acesso a-i file peuan proibine l'acesso.</li>
@@ -76,7 +76,7 @@
 <!ENTITY contentEncodingError.title "Erô de còdifica do contegnuo">
 <!ENTITY contentEncodingError.longDesc "<p>A pagina che t'eu vedde a no se peu mostrâ perché a gh'à 'na conprescion ch'a no l'é soportâ.</p><ul><li>Pe piaxei ciamma o propietaio do scito pe informalo do problema.</li></ul>">
 
-<!ENTITY unsafeContentType.title "Tipo de file no seguo">
+<!ENTITY unsafeContentType.title "Tipo de schedaio no seguo">
 <!ENTITY unsafeContentType.longDesc "<p>A pagina che t'eu vedde a no se peu mostrâ perché a gh'à 'na conprescion ch'a no l'é soportâ.</p><ul><li>Pe piaxei ciamma o propietaio do scito pe informalo do problema.</li></ul>">
 
 <!ENTITY netReset.title "Conescion Scancelâ">

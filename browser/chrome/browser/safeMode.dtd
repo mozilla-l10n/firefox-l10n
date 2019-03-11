@@ -2,15 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY safeModeDialog.title         "Mòddo Seguo de &brandShortName;">
+<!ENTITY safeModeDialog.title         "Mòddo seguo de &brandShortName;">
 <!ENTITY window.maxWidth              "400">
 
 <!ENTITY startSafeMode.label          "Vanni co-o Mòddo Seguo">
 <!ENTITY refreshProfile.label         "Repiggia &brandShortName;">
 
 <!ENTITY safeModeDescription3.label   "O Mòddo Seguo o l'é 'na speciale modalitæ de &brandShortName; ch'a peu ese utile pe risòlve di problemi.">
-<!ENTITY safeModeDescription4.label   "I teu conponenti azonti saian tenporaneamente dizativæ.">
-
 <!ENTITY safeModeDescription5.label   "I teu conponenti azonti saian tenporaneamente dizativæ, e e fonçioin de &brandShortName; porian no anâ comme de sòlito.">
 
 <!ENTITY refreshProfileInstead.label  "Ti peu anche ignorâ a risoluçion di problemi e provâ a repigiâ &brandShortName;.">
