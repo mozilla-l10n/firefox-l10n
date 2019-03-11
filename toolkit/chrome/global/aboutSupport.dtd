@@ -10,7 +10,7 @@
 
 <!ENTITY aboutSupport.crashes.title "Segnalaçioin de cianto anòmalo">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
-This is likely the same like id.heading in crashes.dtd. -->
+This is likely the same like id.heading in aboutcrashes.ftl. -->
 <!ENTITY aboutSupport.crashes.id "ID segnalaçion">
 <!ENTITY aboutSupport.crashes.sendDate "Mandâ">
 <!ENTITY aboutSupport.crashes.allReports "Tutte e segnalaçioin">
@@ -33,15 +33,6 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.featureName "Nomme">
 <!ENTITY aboutSupport.featureVersion "Verscion">
 <!ENTITY aboutSupport.featureId "ID">
-
-<!ENTITY aboutSupport.experimentsTitle "Carateristiche sperimentali">
-<!ENTITY aboutSupport.experimentName "Nome">
-<!ENTITY aboutSupport.experimentId "ID">
-<!ENTITY aboutSupport.experimentDescription "Descriçion">
-<!ENTITY aboutSupport.experimentActive "Ativa">
-<!ENTITY aboutSupport.experimentEndDate "Dæta fin">
-<!ENTITY aboutSupport.experimentHomepage "Pagina prinçipâ">
-<!ENTITY aboutSupport.experimentBranch "Branch">
 
 <!ENTITY aboutSupport.appBasicsTitle "Aplicaçion de Base">
 <!ENTITY aboutSupport.appBasicsName "Nomme">
@@ -111,7 +102,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "Verifica Integritæ">
 
 <!ENTITY aboutSupport.jsTitle "JavaScript">
-<!ENTITY aboutSupport.jsIncrementalGC "GC incrementale">
+<!ENTITY aboutSupport.jsIncrementalGC "Coleçion de rumenta incrementale">
 
 <!ENTITY aboutSupport.a11yTitle "Acesibilitæ">
 <!ENTITY aboutSupport.a11yActivated "Ativou">
