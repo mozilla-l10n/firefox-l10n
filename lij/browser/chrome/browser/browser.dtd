@@ -111,7 +111,7 @@ These items have the same accesskey but will never be visible at the same time. 
 
 <!-- LOCALIZATION NOTE (allTabsMenu.searchTabs.label): "Search" is a verb, as
 in "Search through tabs". -->
-<!ENTITY  allTabsMenu.searchTabs.label       "Bare de Riçerca">
+<!ENTITY  allTabsMenu.searchTabs.label       "Çerca inte schede">
 
 <!ENTITY tabCmd.label "Neuvo feuggio">
 <!ENTITY tabCmd.accesskey "N">
@@ -137,12 +137,12 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY goOfflineCmd.label "Loua feua linia">
 <!ENTITY goOfflineCmd.accesskey "L">
 
-<!ENTITY menubarCmd.label "Bara do Menû">
+<!ENTITY menubarCmd.label "Bara di menû">
 <!ENTITY menubarCmd.accesskey "M">
-<!ENTITY navbarCmd.label "Bara de Navegaçion">
-<!ENTITY personalbarCmd.label "Bara di Segnalibbri">
+<!ENTITY navbarCmd.label "Bara de navegaçion">
+<!ENTITY personalbarCmd.label "Bara di segnalibbri">
 <!ENTITY personalbarCmd.accesskey "B">
-<!ENTITY bookmarksToolbarItem.label "Ògetti da Bara di Segnalibbri">
+<!ENTITY bookmarksToolbarItem.label "Ògetti da bara di segnalibbri">
 
 <!ENTITY toolbarContextMenu.reloadSelectedTab.label "Recarega feuggio seleçionou">
 <!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
@@ -416,11 +416,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewMenu.accesskey       "v">
 <!ENTITY viewToolbarsMenu.label       "Bare">
 <!ENTITY viewToolbarsMenu.accesskey     "B">
-<!ENTITY viewSidebarMenu.label "Bare de scianco">
+<!ENTITY viewSidebarMenu.label "Bara de scianco">
 <!ENTITY viewSidebarMenu.accesskey "e">
 <!ENTITY viewCustomizeToolbar.label       "Personalizza…">
 <!ENTITY viewCustomizeToolbar.accesskey     "P">
-<!ENTITY overflowCustomizeToolbar.label       "Personalizza Bara di atressi…">
+<!ENTITY overflowCustomizeToolbar.label       "Personaliza a bara di atressi…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "P">
 
 <!ENTITY historyMenu.label "Stöia">
@@ -436,7 +436,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.showAll.label "Veddi a stöia">
 <!ENTITY appMenuHistory.clearRecent.label "Scancella a stöia ciù neuva…">
 <!ENTITY appMenuHistory.restoreSession.label "Repiggia a sescion primma">
-<!ENTITY appMenuHistory.viewSidebar.label "Veddi a bara de scianco stöia">
+<!ENTITY appMenuHistory.viewSidebar.label "Veddi a bara de scianco da stöia">
 <!ENTITY appMenuHistory.recentHistory.label "Stöia recente">
 <!ENTITY appMenuHelp.label "Agiutto">
 
@@ -511,9 +511,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Conseggi:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hint "Fatte agiutâ a trovâ e cöse! Çerca a &#x1F50E; vixin a-i conseggi de riçerca.">
-<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Cangia Inpostaçioin…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Cangia e inpostaçioin…">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "C">
-<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Cangia preferense…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Cangia e preferense…">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "C">
 
 <!--
