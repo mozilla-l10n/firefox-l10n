@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 certmgr-title =
-    .title = Gestô di Certificati
+    .title = Gestô di certificati
 certmgr-tab-mine =
     .label = I teu Certificati
 certmgr-tab-people =
