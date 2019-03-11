@@ -14,7 +14,15 @@
 ## Reference: https://www.mozilla.org/styleguide/communications/translation/
 
 -brand-short-name = Firefox
--vendor-short-name = Mozilla
+-vendor-short-name =
+    { $case ->
+       *[nominative] Mozilla
+        [genitive] Mozillos
+        [dative] Mozillai
+        [accusative] Mozillą
+        [instrumental] Mozilla
+        [locative] Mozilloje
+    }
 -brand-full-name = Mozilla Firefox
 -brand-shorter-name = Firefox
 trademarkInfo = „Firefox“ ir „Firefox“ logotipai yra bendrijos „Mozilla Foundation“ prekės ženklai.
