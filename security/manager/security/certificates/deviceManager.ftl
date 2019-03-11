@@ -6,7 +6,7 @@
 ## Strings used for device manager
 
 devmgr =
-    .title = Gestô di Aparati
+    .title = Gestô di aparati
     .style = width: 67em; height: 32em;
 devmgr-devlist =
     .label = Mòdoli e aparati de seguessa

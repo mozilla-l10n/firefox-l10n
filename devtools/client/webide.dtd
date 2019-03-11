@@ -40,7 +40,6 @@
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "z">
 <!ENTITY runtimeMenu_showSettings_label "Inpostaçioin dispoxitivo">
 <!ENTITY runtimeMenu_showSettings_accesskey "I">
-
 <!ENTITY runtimeMenu_showPerformancePanel_label "Prestaçioin">
 <!ENTITY runtimeMenu_showPerformancePanel_accesskey "p">
 
@@ -77,7 +76,6 @@
 <!ENTITY runtimePanel_usb "Dispoxitivi USB">
 <!ENTITY runtimePanel_wifi "Dispocitivi Wi-Fi">
 <!ENTITY runtimePanel_other "Atro">
-<!ENTITY runtimePanel_noadbhelper "Installa ADB Helper">
 <!ENTITY runtimePanel_nousbdevice "O dispoxitivo o no l'é vixibile?">
 <!ENTITY runtimePanel_refreshDevices_label "Agiorna dispoxitivi">
 
@@ -103,7 +101,7 @@
 
 <!-- Addons -->
 <!ENTITY addons_title "Conponenti azonti">
-<!ENTITY addons_aboutaddons "Apri gestore conponenti azonti">
+<!ENTITY addons_aboutaddons "Apri gestô conponenti azonti">
 
 <!-- Prefs -->
 <!ENTITY prefs_title "Preferense">
@@ -120,12 +118,6 @@
 
 <!-- Runtime Details -->
 <!ENTITY runtimedetails_title "Informaçioin runtime">
-<!ENTITY runtimedetails_adbIsRoot "ADB o l'é root: ">
-<!ENTITY runtimedetails_summonADBRoot "dispoxitivo root">
-<!ENTITY runtimedetails_ADBRootWarning "(domanda bootloader sblocou)">
-<!ENTITY runtimedetails_unrestrictedPrivileges "Permissi ilimitæ pe-i strumenti de sviluppo: ">
-<!ENTITY runtimedetails_requestPrivileges "domanda permissi ciù erti">
-<!ENTITY runtimedetails_privilegesWarning "(O dispoxitivo saià averto torna. Domanda acesso root.)">
 
 <!-- Device Preferences and Settings -->
 <!ENTITY device_typeboolean "boolean">

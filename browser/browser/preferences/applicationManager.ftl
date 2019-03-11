@@ -8,13 +8,12 @@ app-manager-window =
 app-manager-remove =
     .label = Scancella
     .accesskey = S
-app-manager-handle-webfeeds = Ste aplicaçioin peuan ese uzæ pe Feed web.
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
-app-manager-handle-protocol = Ste aplicaçioin peuan ese uzæ pe Colegamenti de { $type }.
+app-manager-handle-protocol = Ste aplicaçioin peuan ese uzæ pe colegamenti de { $type }.
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
-app-manager-handle-file = Ste aplicaçioin peuan ese uzæ pe Contegnuo de { $type }.
+app-manager-handle-file = Ste aplicaçioin peuan ese uzæ pe contegnuo de { $type }.
 
 ## These strings are followed, on a new line,
 ## by the URL or path of the application.
