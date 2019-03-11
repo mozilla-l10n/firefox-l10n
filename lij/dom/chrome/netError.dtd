@@ -80,8 +80,8 @@
 <p>A ògni mòddo ti peu azonze 'n eceçion… pe sto scito co-e inpostaçioin avansæ pe-a cifratua.</p>
 ">
 
-<!ENTITY cspBlocked.title "Blocou da i criteri in sciâ seguessa di contegnui">
-<!ENTITY cspBlocked.longDesc "<p>O navegatô o l'à blocou o caregamento da pagina con sta modalitæ perché a l'includde di criteri de seguessa di contegnui ch'ou inpediscian.</p>">
+<!ENTITY cspBlocked.title "Blocou da i critei de seguessa di contegnui">
+<!ENTITY cspBlocked.longDesc "<p>O navegatô o l'à blocou o caregamento da pagina con sta modalitæ perché a l'includde di critei de seguessa di contegnui ch'ou inpediscian.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Erô de contegnuo andæto a mâ">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>A pagina che ti preuvi a vedde a no peu mostrase perché no l'é poscibile perché gh'é un erô inta trasmiscion di dæti.</p><ul><li>Ciamma o propietaio do scito web pe informalo do problema.</li></ul>">
