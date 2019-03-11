@@ -41,13 +41,16 @@ category-home =
 pane-search-title = Çerca
 category-search =
     .tooltiptext = { pane-search-title }
-pane-privacy-title = Privacy e Seguessa
+pane-privacy-title = Privacy e seguessa
 category-privacy =
     .tooltiptext = { pane-privacy-title }
 # The word "account" can be translated, do not translate or transliterate "Firefox".
 pane-sync-title = Account Firefox
 category-sync =
     .tooltiptext = { pane-sync-title }
+pane-sync-title2 = { -sync-brand-short-name }
+category-sync2 =
+    .tooltiptext = { pane-sync-title2 }
 help-button-label = Sopòrto de { -brand-short-name }
 addons-button-label = Estenscioin e Temi
 focus-search =
@@ -80,6 +83,9 @@ extension-controlled-homepage-override = 'Na estenscion, <img data-l10n-name="ic
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
 extension-controlled-new-tab-url = 'Na estenscion, <img data-l10n-name="icon"/> { $name }, a contròlla a teu pagina neuvo feuggio.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlled-web-notifications = 'Na estencion, <img data-l10n-name="icon"/> { $name }, a contròlla sta inpostaçion.
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
 extension-controlled-default-search = 'Na estenscion, <img data-l10n-name="icon"/> { $name }, a l'à inpostou o teu motô de riçerca.
@@ -131,6 +137,8 @@ set-as-my-default-browser =
 startup-restore-previous-session =
     .label = Repiggia vegia sescion
     .accesskey = s
+startup-restore-warn-on-quit =
+    .label = Avertime quande særo o navegatô
 disable-extension =
     .label = Dizabilita estençion
 tabs-group-header = feuggi
@@ -222,10 +230,10 @@ check-user-spelling =
 
 ## General Section - Files and Applications
 
-files-and-applications-title = File e Aplicaçioin
+files-and-applications-title = Schedai e aplicaçioin
 download-header = Descaregamenti
 download-save-to =
-    .label = Sarva file in
+    .label = Sarva schedai in
     .accesskey = v
 download-choose-folder =
     .label =
@@ -239,12 +247,12 @@ download-choose-folder =
            *[other] Ç
         }
 download-always-ask-where =
-    .label = Domanda de longo donde sarvâ i file
+    .label = Domanda de longo donde sarvâ i schedai
     .accesskey = D
 applications-header = Aplicaçioin
 applications-description = Çerni comme { -brand-short-name } o gestisce i teu descaregamenti da-a Ræ ò e aplicaçioin che ti deuvi quande ti naveghi.
 applications-filter =
-    .placeholder = Çerca tipi de file ò aplicaçioin
+    .placeholder = Çerca tipi de schedai ò aplicaçioin
 applications-type-column =
     .label = Tipo de contegnuo
     .accesskey = T
@@ -322,8 +330,11 @@ browsing-search-on-start-typing =
     .label = Çerca tanto che son derê a scrive
     .accesskey = s
 browsing-cfr-recommendations =
-    .label = Estenscioin consegiæ quande ti naveghi
-    .accesskey = E
+    .label = Consegime estenscioin quande navego
+    .accesskey = C
+browsing-cfr-features =
+    .label = Consegime fonçioin quande navego
+    .accesskey = f
 browsing-cfr-recommendations-learn-more = Atre informaçioin
 
 ## General Section - Proxy
@@ -516,6 +527,9 @@ sync-device-name-save =
     .accesskey = v
 sync-mobilepromo-single = Conetti atro dispoxitivo
 sync-mobilepromo-multi = Gestisci dispoxitivi
+sync-connect-another-device = Conetti atro dispoxitivo
+sync-manage-devices = Gestisci dispoxitivi
+sync-fxa-begin-pairing = Acobia un dispoxitivo
 sync-tos-link = Termini do serviçio
 sync-fxa-privacy-notice = Informativa in sciâ privacy
 
@@ -602,12 +616,23 @@ sitedata-disallow-cookies-option =
 # The list items are the strings named sitedata-block-*-option*.
 sitedata-block-desc = Tipo blocou
     .accesskey = T
+sitedata-option-block-trackers =
+    .label = Elementi che tracian de terse parti
+sitedata-option-block-unvisited =
+    .label = Cookie de sciti no vixitæ
+sitedata-option-block-all-third-party =
+    .label = Tutti i cookie de terse parti (quarche scito o porieiva no fonçionâ ben)
+sitedata-option-block-all =
+    .label = Tutti i cookie (quarche scito no fonçioniâ ben)
 sitedata-clear =
     .label = Scancella dæti…
     .accesskey = l
 sitedata-settings =
     .label = Gestisci dæti…
     .accesskey = G
+sitedata-cookies-permissions =
+    .label = Gestisci permissi...
+    .accesskey = p
 
 ## Privacy Section - Address Bar
 
@@ -794,4 +819,4 @@ choose-download-folder-title = Çerni a cartella de descaregamento:
 # Variables:
 #   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
 save-files-to-cloud-storage =
-    .label = Sarva i file in { $service-name }
+    .label = Sarva i schedai in { $service-name }

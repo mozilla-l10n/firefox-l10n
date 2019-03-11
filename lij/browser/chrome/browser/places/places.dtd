@@ -38,7 +38,7 @@
 <!ENTITY cmd.backup.accesskey           "c">
 <!ENTITY cmd.restore2.label             "Repiggia">
 <!ENTITY cmd.restore2.accesskey         "R">
-<!ENTITY cmd.restoreFromFile.label      "Çerni file…">
+<!ENTITY cmd.restoreFromFile.label      "Çerni schedaio…">
 <!ENTITY cmd.restoreFromFile.accesskey  "c">
 
 <!ENTITY cmd.deleteDomainData.label     "Ascòrdite de questo scito">
@@ -70,18 +70,11 @@
 <!ENTITY cmd.new_separator.label           "Neuvo separatô">
 <!ENTITY cmd.new_separator.accesskey       "s">
 
-<!ENTITY cmd.reloadLivebookmark.label      "Recarega segnalibbro dò-u vivo">
-<!ENTITY cmd.reloadLivebookmark.accesskey  "R">
-
-<!ENTITY cmd.moveBookmarks.label                  "Mescia…">
-<!ENTITY cmd.moveBookmarks.accesskey              "M">
-
 <!ENTITY col.name.label          "Nomme">
 <!ENTITY col.tags.label          "Etichette">
 <!ENTITY col.url.label           "Indirisso">
 <!ENTITY col.mostrecentvisit.label "Vixita ciù recente">
 <!ENTITY col.visitcount.label    "Numero de vixite">
-<!ENTITY col.description.label   "Descriçion">
 <!ENTITY col.dateadded.label     "Azonto">
 <!ENTITY col.lastmodified.label  "Cangiou o">
 
@@ -98,10 +91,6 @@
 
 <!ENTITY forwardButton.tooltip  "Vanni avanti">
 
-<!ENTITY detailsPane.more.label "Ciù">
-<!ENTITY detailsPane.more.accesskey "C">
-<!ENTITY detailsPane.less.label "Meno">
-<!ENTITY detailsPane.less.accesskey "M">
 <!ENTITY detailsPane.selectAnItemText.description "Seleçionn-a un ògetto pe vedde e modificâ e propietæ">
 
 <!ENTITY view.label               "Fanni vedde">
