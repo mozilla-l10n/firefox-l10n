@@ -10,6 +10,7 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
+policy-3rdparty = Tetapkan kebijakan yang dapat diakses WebExtensions melalui chrome.storage.managed.
 policy-AppUpdateURL = Atur URL pemutakhiran aplikasi khusus
 policy-Authentication = Atur autentikasi terintegrasi untuk situs lain yang mendukung.
 policy-BlockAboutAddons = Blokir akses ke Pengelola Pengaya (about:addons).
