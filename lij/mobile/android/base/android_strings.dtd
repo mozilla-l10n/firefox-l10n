@@ -16,7 +16,7 @@
 <!ENTITY firstrun_bookmarks_subtext "Amia i exiti da-i teu segnalibbri e stöia tanto che ti çerchi.">
 <!ENTITY firstrun_data_title "Dæti">
 <!ENTITY firstrun_data_message "Meno dæti, ciù risparmio">
-<!ENTITY firstrun_data_subtext2 "Asmòrta e inmagine pe spende meno dati inte tutti i sciti che ti vixiti.">
+<!ENTITY firstrun_data_subtext2 "Asmòrta e inmagine pe spende meno dæti inte tutti i sciti che ti vixiti.">
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message2 "Repiggia da donde t\&apos;ei arestou.">
 <!ENTITY firstrun_sync_subtext2 "Deuvia Sync pe trovâ i segnalibbri, poule segrete e atre cöse che t\&apos;æ sarvou con &brandShortName; in sce tutti i dispoxitivi.">
@@ -290,12 +290,6 @@
 <!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
      Similar to the already existing "pref_whats_new_notification_summary"-->
 <!ENTITY pref_feature_tips_notification_summary "Atre informaçioin in sce &brandShortName; e i atri pròduti &vendorShortName;">
-
-<!-- Localization note (pref_feature_tips_notification_enabling_hint):
-     Describe the action the user should do to enable this preference
-     Will be used in the context "<Turn on> ... to enable this feature" -->
-<!ENTITY pref_feature_tips_notification_enabling_hint "Açendi">
-
 <!-- Localization note (pref_feature_tips_notification_enabling_path):
      Nothing to translate. Simple concatenation of already localized strings. Result is used below. -->
 <!ENTITY pref_feature_tips_notification_enabling_path "&pref_category_privacy_short; > &pref_category_datareporting; > &datareporting_fhr_title;">
@@ -844,8 +838,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY whatsnew_notification_title "&brandShortName; o l\&apos;é agiornou">
 <!ENTITY whatsnew_notification_summary "Descòvri cöse gh\&apos;é de neuvo in sta verscion">
 
-<!ENTITY promotion_add_page_shortcut "Azonzi scorsaieu pagina">
-
 <!ENTITY helper_first_offline_bookmark_title "Lezi feua linia">
 <!ENTITY helper_first_offline_bookmark_message "Treuva e teu cöse da leze into mòddo letua drento i segnalibbri, pure feua linia.">
 <!ENTITY helper_first_offline_bookmark_button "Vanni a-i segnalibbri">
@@ -904,15 +896,9 @@ Picture-in-picture mini window -->
 <!ENTITY pip_pause_button_description "Riproduçion in pösa">
 
 <!-- Notification channels names -->
-<!ENTITY default_notification_channel "&brandShortName;">
-
-<!-- Notification channels names -->
 <!ENTITY default_notification_channel2 "Navegatô">
 <!ENTITY mls_notification_channel "Serviçio de localizaçion de &vendorShortName;">
 <!ENTITY download_notification_channel "Descaregamenti">
-<!ENTITY media_notification_channel "Riproduçion media">
-<!-- These push notifications come without a specific channel and/or name from Leanplum -->
-<!ENTITY leanplum_default_notifications_channel "Notifiche push de &brandShortName;">
 <!ENTITY media_notification_channel2 "Son e video">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel2 "Conseggi e dritonaie de &vendorShortName;">
