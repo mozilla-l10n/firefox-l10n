@@ -72,7 +72,7 @@
 <!ENTITY otherActionsPrint1.accesskey "P">
 
 <!-- Attachment bar context menu items -->
-<!ENTITY startExpandedCmd.label    "首先显示附件面板">
+<!ENTITY startExpandedCmd.label    "首先显示附件窗格">
 <!ENTITY startExpandedCmd.accesskey    "S">
 
 <!-- Attachment context menu items -->
