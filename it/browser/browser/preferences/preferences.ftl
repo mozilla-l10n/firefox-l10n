@@ -335,7 +335,7 @@ browsing-cfr-recommendations =
     .accesskey = S
 browsing-cfr-features =
     .label = Suggerisci funzioni durante la navigazione
-    .accesskey = f    
+    .accesskey = f
 browsing-cfr-recommendations-learn-more = Ulteriori informazioni
 
 ## General Section - Proxy
@@ -732,23 +732,12 @@ permissions-notification-link = Ulteriori informazioni
 permissions-notification-pause =
     .label = Sospendi notifiche fino al riavvio di { -brand-short-name }
     .accesskey = n
-permissions-block-autoplay-media =
-    .label = Impedisci ai siti web di riprodurre automaticamente contenuti sonori
-    .accesskey = m
 permissions-block-autoplay-media2 =
     .label = Impedisci ai siti web di riprodurre automaticamente audio
     .accesskey = m
-permissions-block-autoplay-media-menu = Per i siti web che cercano di riprodurre automaticamente contenuti sonori:
 permissions-block-autoplay-media-exceptions =
     .label = Eccezioni…
     .accesskey = E
-autoplay-option-ask =
-    .label = chiedi sempre
-autoplay-option-allow =
-    .label = consenti riproduzione
-autoplay-option-dont =
-    .label = non riprodurre
-permissions-autoplay-link = Ulteriori informazioni
 permissions-block-popups =
     .label = Blocca le finestre pop-up
     .accesskey = B
@@ -786,10 +775,6 @@ addon-recommendations-link = Ulteriori informazioni
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = L’invio dei dati è stato disattivato nella configurazione utilizzata per questa build
-collection-browser-errors =
-    .label = Consenti a { -brand-short-name } di inviare a { -vendor-short-name } le segnalazioni di errori nel browser (inclusi i messaggi di errore)
-    .accesskey = b
-collection-browser-errors-link = Ulteriori informazioni
 collection-backlogged-crash-reports =
     .label = Consenti a { -brand-short-name } di inviare segnalazioni di arresto anomalo in sospeso
     .accesskey = C
