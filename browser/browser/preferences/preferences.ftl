@@ -665,6 +665,7 @@ content-blocking-setting-custom =
     .label = Personalizzou
     .accesskey = P
 content-blocking-custom-desc = Çerni cöse blòccâ
+content-blocking-third-party-cookies = Cookie che tracian de terse parte
 content-blocking-all-third-party-cookies = Tutti i cookie de terse parte
 content-blocking-warning-title = Stanni atento!
 content-blocking-learn-how = Comme se fa
@@ -674,6 +675,9 @@ content-blocking-trackers-label =
 content-blocking-tracking-protection-option-all-windows =
     .label = In tutti i barcoin
     .accesskey = u
+content-blocking-option-private =
+    .label = Solo inti barcoin privæ
+    .accesskey = p
 content-blocking-tracking-protection-change-block-list = Cangia a lista de blòcco
 content-blocking-cookies-label =
     .label = Cookie
@@ -690,6 +694,9 @@ content-blocking-fingerprinters-label =
 
 ## Privacy Section - Tracking
 
+tracking-manage-exceptions =
+    .label = Gestisci eceçioin
+    .accesskey = x
 
 ## Privacy Section - Permissions
 
