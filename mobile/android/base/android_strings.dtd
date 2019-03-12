@@ -241,7 +241,6 @@
 <!ENTITY pref_private_data_searchHistory "Cronologia ricerche">
 <!ENTITY pref_private_data_formdata2 "Cronologia moduli">
 <!ENTITY pref_private_data_cookies2 "Cookie e accessi attivi">
-<!ENTITY pref_private_data_passwords2 "Accessi salvati">
 <!ENTITY pref_private_data_cache "Cache">
 <!ENTITY pref_private_data_offlineApps "Dati non in linea dei siti web">
 <!ENTITY pref_private_data_siteSettings2 "Impostazioni siti">
