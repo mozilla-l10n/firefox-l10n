@@ -1,96 +1,12 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!ENTITY addons.windowTitle                   "Pengelola Pengaya">
-
-<!ENTITY search.placeholder3                  "Cari di addons.mozilla.org">
-<!ENTITY search.buttonlabel                   "Cari">
-<!-- LOCALIZATION NOTE (search.commandkey):
-     The search command key should match findOnCmd.commandkey from browser.dtd -->
-<!ENTITY search.commandkey                    "f">
-
-<!ENTITY loading.label                        "Memuat…">
-<!ENTITY listEmpty.installed.label            "Anda tidak memiliki pengaya terpasang jenis ini">
-<!ENTITY listEmpty.availableUpdates.label     "Tidak ada versi baru ditemukan">
-<!ENTITY listEmpty.recentUpdates.label        "Anda masih belum memasang versi baru pengaya">
-<!ENTITY listEmpty.findUpdates.label          "Periksa Versi Baru">
-<!ENTITY listEmpty.button.label               "Pelajari lebih lanjut tentang pengaya">
-<!ENTITY installAddonFromFile.label           "Pasang Pengaya dari Berkas…">
-<!ENTITY installAddonFromFile.accesskey       "B">
-<!ENTITY toolsMenu.tooltip                    "Alat untuk semua pengaya">
-
-
-<!ENTITY showUnsignedExtensions.button.label  "Beberapa ekstensi tidak dapat diverifikasi">
-<!ENTITY showAllExtensions.button.label       "Tampilkan semua ekstensi">
-<!ENTITY debugAddons.label                    "Debug Pengaya">
-<!ENTITY debugAddons.accesskey                "b">
-
-<!-- global warnings -->
-<!ENTITY warning.safemode.label                    "Semua pengaya telah dinonaktifkan dalam mode aman.">
-<!ENTITY warning.checkcompatibility.label          "Pemeriksaan kompatibilitas pengaya telah dinonaktifkan. Anda mungkin menggunakan pengaya yang tidak kompatibel.">
-<!ENTITY warning.checkcompatibility.enable.label   "Aktifkan">
-<!ENTITY warning.checkcompatibility.enable.tooltip "Aktifkan pemeriksaan kompatibilitas pengaya">
-<!ENTITY warning.updatesecurity.label              "Pemeriksaan keamanan pemutakhiran pengaya telah dinonaktifkan. Pemutakhiran pengaya saat ini memiliki risiko keamanan.">
-<!ENTITY warning.updatesecurity.enable.label       "Aktifkan">
-<!ENTITY warning.updatesecurity.enable.tooltip     "Aktifkan pemeriksaan keamanan pemutakhiran pengaya">
-
-<!-- categories / views -->
-<!ENTITY view.discover.label                  "Unduh Pengaya">
-<!ENTITY view.recentUpdates.label             "Versi Baru">
-<!ENTITY view.availableUpdates.label          "Versi Baru yang Tersedia">
-
-<!ENTITY helpButton.label                      "Dukungan Pengaya">
-<!ENTITY preferencesWin.label                  "Opsi &brandShortName;">
-<!ENTITY preferencesUnix.label                 "Pengaturan &brandShortName;">
-
-<!-- addon updates -->
-<!ENTITY updates.checkForUpdates.label        "Periksa Versi Baru">
-<!ENTITY updates.checkForUpdates.accesskey    "P">
-<!ENTITY updates.viewUpdates.label            "Tampilkan Versi Baru">
-<!ENTITY updates.viewUpdates.accesskey        "V">
-<!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
-     is a checkbox that toggles the default global behavior for add-on update
-     checking. -->
-<!ENTITY updates.updateAddonsAutomatically.label     "Otomatis Perbarui Pengaya">
-<!ENTITY updates.updateAddonsAutomatically.accesskey "O">
-<!-- LOCALIZATION NOTE (updates.resetUpdatesToAutomatic.label, updates.resetUpdatesToManual.label):
-     Specific addons can have custom update checking behaviors ("Manually",
-     "Automatically", "Use default global behavior"). These menu items reset the
-     update checking behavior for all add-ons to the default global behavior
-     (which itself is either "Automatically" or "Manually", controlled by the
-     updates.updateAddonsAutomatically.label menu item). -->
-<!ENTITY updates.resetUpdatesToAutomatic.label       "Setel Ulang Semua Pengaya agar Diperbarui Otomatis">
-<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "S">
-<!ENTITY updates.resetUpdatesToManual.label          "Setel Ulang Semua Pengaya agar Hanya Diperbarui Manual">
-<!ENTITY updates.resetUpdatesToManual.accesskey      "M">
-<!ENTITY updates.updating.label               "Memperbarui pengaya">
-<!ENTITY updates.installed.label              "Pengaya Anda telah diperbarui.">
-<!ENTITY updates.downloaded.label             "Versi baru pengaya Anda telah diunduh.">
-<!ENTITY updates.restart.label                "Mulai ulang sekarang untuk menyelesaikan pemasangan">
-<!ENTITY updates.noneFound.label              "Tidak ada versi baru ditemukan">
-<!ENTITY updates.manualUpdatesFound.label     "Tampilkan Versi Baru yang Tersedia">
-<!ENTITY updates.updateSelected.label         "Pasang Versi Baru">
-<!ENTITY updates.updateSelected.tooltip       "Pasang versi baru yang ada pada daftar ini">
-
-<!-- addon actions -->
-<!ENTITY cmd.showDetails.label                "Tampilkan Informasi Lebih Lanjut">
-<!ENTITY cmd.showDetails.accesskey            "i">
-<!ENTITY cmd.findUpdates.label                "Temukan Versi Baru">
-<!ENTITY cmd.findUpdates.accesskey            "B">
-<!ENTITY cmd.preferencesWin.label             "Pengaturan">
-<!ENTITY cmd.preferencesWin.accesskey         "P">
-<!ENTITY cmd.preferencesUnix.label            "Pengaturan">
-<!ENTITY cmd.preferencesUnix.accesskey        "P">
 
 <!-- addon actions -->
 <!ENTITY cmd.enableAddon.label                "Aktifkan">
 <!ENTITY cmd.enableAddon.accesskey            "A">
 <!ENTITY cmd.disableAddon.label               "Matikan">
 <!ENTITY cmd.disableAddon.accesskey           "M">
-<!ENTITY cmd.enableTheme.label                "Gunakan Tema">
-<!ENTITY cmd.enableTheme.accesskey            "G">
-<!ENTITY cmd.disableTheme.label               "Berhenti Menggunakan Tema">
-<!ENTITY cmd.disableTheme.accesskey           "B">
 
 <!ENTITY cmd.askToActivate.label              "Tanyakan untuk Mengaktifkan">
 <!ENTITY cmd.askToActivate.tooltip            "Tanya setiap kali akan menggunakan pengaya ini">
@@ -99,8 +15,6 @@
 <!ENTITY cmd.neverActivate.label              "Tidak Pernah Diaktifkan">
 <!ENTITY cmd.neverActivate.tooltip            "Jangan pernah gunakan pengaya ini">
 <!ENTITY cmd.stateMenu.tooltip                "Ubah saat pengaya ini dijalankan">
-<!ENTITY cmd.installAddon.label               "Pasang">
-<!ENTITY cmd.installAddon.accesskey           "P">
 
 <!ENTITY cmd.uninstallAddon.label             "Hapus">
 <!ENTITY cmd.uninstallAddon.accesskey         "H">
@@ -108,9 +22,6 @@
 <!ENTITY cmd.showPreferencesWin.tooltip       "Ubah pengaturan pengaya ini">
 <!ENTITY cmd.showPreferencesUnix.label        "Pengaturan">
 <!ENTITY cmd.showPreferencesUnix.tooltip      "Ubah pengaturan pengaya ini">
-<!ENTITY cmd.contribute.label                 "Berkontribusi">
-<!ENTITY cmd.contribute.accesskey             "k">
-<!ENTITY cmd.contribute.tooltip               "Ikut berkontribusi pengembangan pengaya ini">
 
 <!ENTITY cmd.showReleaseNotes.label           "Tampilkan Catatan Rilis">
 <!ENTITY cmd.showReleaseNotes.tooltip         "Tampilkan catatan rilis versi baru ini">
@@ -118,53 +29,8 @@
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Sembunyikan catatan rilis versi baru ini">
 <!ENTITY cmd.findReplacement.label            "Cari Penggantian">
 
-<!-- discovery view -->
-<!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
-     Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
-<!ENTITY discover.title                       "Apa itu Pengaya?">
-<!ENTITY discover.description2                "Pengaya adalah aplikasi dapat Anda tambahkan pada &brandShortName; untuk menambahkan fungsionalitas atau tampilan ekstra yang berbeda. Coba gunakan bilah samping hemat waktu, pemberi kabar cuaca, atau tema yang sama sekali berbeda untuk &brandShortName; Anda.">
-<!ENTITY discover.footer                      "Jika Anda tersambung ke Internet, panel ini akan menampilkan pengaya unggulan dan populer yang dapat Anda coba.">
-
-<!-- detail view -->
-<!ENTITY detail.version.label                 "Versi">
-<!ENTITY detail.lastupdated.label             "Terakhir Diperbarui">
-<!ENTITY detail.creator.label                 "Pengembang">
-<!ENTITY detail.homepage.label                "Beranda">
-
-<!ENTITY detail.contributions.description     "Pengembang pengaya ini memohon bantuan dukungan Anda untuk membantu kesinambungan pengembangan pengaya dengan memberikan kontribusi kecil.">
-
-<!ENTITY detail.updateType                    "Pemutakhiran Otomatis">
-<!ENTITY detail.updateDefault.label           "Bawaan">
-<!ENTITY detail.updateDefault.tooltip         "Otomatis pasang pemutakhiran hanya jika pengaturan bawaan diatur demikian">
-<!ENTITY detail.updateAutomatic.label         "Aktif">
-<!ENTITY detail.updateAutomatic.tooltip       "Otomatis memasang pemutakhiran">
-<!ENTITY detail.updateManual.label            "Mati">
-<!ENTITY detail.updateManual.tooltip          "Jangan otomatis memasang pemutakhiran">
-<!ENTITY detail.home                          "Beranda">
-<!ENTITY detail.repository                    "Profil Pengaya">
-<!ENTITY detail.size                          "Ukuran">
-
-<!ENTITY detail.checkForUpdates.label         "Periksa versi baru">
-<!ENTITY detail.checkForUpdates.accesskey     "v">
-<!ENTITY detail.checkForUpdates.tooltip       "Periksa versi baru pengaya ini">
-<!ENTITY detail.showPreferencesWin.label      "Pengaturan">
-<!ENTITY detail.showPreferencesWin.accesskey  "P">
-<!ENTITY detail.showPreferencesWin.tooltip    "Ubah pengaturan pengaya ini">
-<!ENTITY detail.showPreferencesUnix.label     "Pengaturan">
-<!ENTITY detail.showPreferencesUnix.accesskey "P">
-<!ENTITY detail.showPreferencesUnix.tooltip   "Ubah pengaturan pengaya ini">
-
-
-<!-- ratings -->
-<!ENTITY rating2.label                        "Peringkat">
-
-<!-- download/install progress -->
-<!ENTITY progress.pause.tooltip               "Tunda">
-
 <!-- download/install progress -->
 <!ENTITY progress.cancel.tooltip              "Batalkan">
-
-<!ENTITY addon.homepage                       "Beranda">
 
 <!ENTITY addon.details.label                  "Lebih Lanjut">
 <!ENTITY addon.details.tooltip                "Tampilkan detail lainnya tentang pengaya ini">
@@ -173,6 +39,7 @@
      to the add-on name for extensions that are not webextensions, which
      will stop working in Firefox 57. -->
 <!ENTITY addon.legacy.label                   "LAWAS">
+<!ENTITY addon.privateBrowsing.label          "DIIZINKAN DALAM JENDELA PRIBADI">
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
      "<Addon name> <1.0> (disabled)" -->
@@ -186,7 +53,6 @@
 <!ENTITY addon.undoAction.tooltip             "Urungkan aksi ini">
 <!ENTITY addon.undoRemove.label               "Urungkan">
 <!ENTITY addon.undoRemove.tooltip             "Biarkan pengaya ini tetap terpasang">
-<!ENTITY addon.restartNow.label               "Mulai ulang sekarang">
 
 <!ENTITY addon.install.label                  "Pasang">
 <!ENTITY addon.install.tooltip                "Pasang pengaya ini">
@@ -201,34 +67,5 @@
 
 <!ENTITY addon.createdBy.label                "Oleh ">
 
-<!ENTITY eula.title                           "Perjanjian Lisensi Pengguna Akhir">
-<!ENTITY eula.width                           "560px">
-<!ENTITY eula.height                          "400px">
-<!ENTITY eula.accept                          "Terima dan Pasang…">
-
 <!ENTITY settings.path.button.label           "Jelajahi…">
-
 <!ENTITY setting.learnmore "Pelajari Lebih Lanjut…">
-
-<!ENTITY disabledUnsigned.heading "Beberapa pengaya telah dinonaktifkan">
-<!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
-     These entities form a sentence, with
-     disabledUnsigned.description.findAddonsLink being a link to an external site. -->
-<!ENTITY disabledUnsigned.description.start "Pengaya berikut belum diverifikasi untuk digunakan di &brandShortName;. Anda dapat ">
-<!ENTITY disabledUnsigned.description.findAddonsLink "temukan pengganti">
-<!ENTITY disabledUnsigned.description.end " atau minta pengembangnya untuk memverifikasi.">
-<!ENTITY disabledUnsigned.learnMore "Pelajari tentang usaha kami untuk menjaga keselamatan daring Anda.">
-<!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
-     These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
-     being a link to an external site. -->
-<!ENTITY disabledUnsigned.devInfo.start "Pengembang yang tertarik untuk memverifikasi pengayanya dapat terus melanjutkan membaca ">
-<!ENTITY disabledUnsigned.devInfo.linkToManual "manual">
-<!ENTITY disabledUnsigned.devInfo.end " kami.">
-
-<!ENTITY pluginDeprecation.description "Kehilangan sesuatu? Beberapa plugin tidak didukung lagi oleh &brandShortName;.">
-<!ENTITY pluginDeprecation.learnMore "Pelajari Lebih Lanjut.">
-
-<!ENTITY legacyWarning.showLegacy "Tampilkan ekstensi peninggalan">
-<!ENTITY legacyExtensions.title "Ekstensi Peninggalan">
-<!ENTITY legacyExtensions.description "Ekstensi ini tidak memenuhi standar &brandShortName; saat ini sehingga telah dinonaktifkan.">
-<!ENTITY legacyExtensions.learnMore "Pelajari tentang perubahan terhadap pengaya">

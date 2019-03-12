@@ -6,4 +6,5 @@ label-disable = Nonaktifkan
 label-enable = Aktifkan
 label-interventions = Intervensi
 label-more-information = Informasi Lebih Lanjut: Bug { $bug }
+text-disabled-in-about-config = Fitur ini telah dinonaktifkan di about:config
 text-title = about:compat

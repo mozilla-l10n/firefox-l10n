@@ -90,7 +90,7 @@ detail-update-manual =
     .tooltiptext = Jangan otomatis memasang pemutakhiran
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Jalankan di Jendela Pribadi
-detail-private-browsing-description = Ektensi akan bekerja di Jendela Pribadi dan bisa mengakses aktivitias daring Anda. <label data-l10n-name="detail-private-browsing-learn-more">Pelajari lebih lanjut</label>
+detail-private-browsing-description2 = Jika diizinkan, ekstensi akan memiliki akses ke aktivitas daring Anda saat menjelajah secara pribadi. <label data-l10n-name="detail-private-browsing-learn-more">Pelajari lebih lanjut </label>
 detail-private-browsing-on =
     .label = Izinkan
     .tooltiptext = Aktifkan di Penjelajahan Pribadi
@@ -139,6 +139,12 @@ legacy-warning-show-legacy = Tampilkan ekstensi peninggalan
 legacy-extensions =
     .value = Ekstensi Peninggalan
 legacy-extensions-description = Ekstensi ini tidak memenuhi standar { -brand-short-name } saat ini sehingga telah dinonaktifkan. <label data-l10n-name="legacy-learn-more">Pelajari tentang perubahan terhadap pengaya</label>
+private-browsing-description2 =
+    { -brand-short-name } mengubah cara kerja ekstensi di mode penjelajahan pribadi. Setiap ekstensi baru yang Anda tambahkan
+    ke { -brand-short-name } tidak akan berjalan secara baku di Jendela Pribadi. Kecuali Anda mengizinkannya dalam pengaturan,
+    ekstensi tidak akan berfungsi saat menjelajah secara pribadi dan tidak akan memiliki akses ke aktivitas daring Anda
+    pada jendela pribadi tersebut. Kami telah membuat perubahan ini untuk menjaga penelusuran pribadi Anda tetap pribadi.
+    <label data-l10n-name="private-browsing-learn-more">Pelajari cara mengelola pengaturan ekstensi.</label>
 extensions-view-discover =
     .name = Unduh Pengaya
     .tooltiptext = { extensions-view-discover.name }
@@ -219,6 +225,14 @@ extensions-updates-update-selected =
 
 ## Extension shortcut management
 
+manage-extensions-shortcuts =
+    .label = Kelola Pintasan Ekstensi
+    .accesskey = K
+shortcuts-empty-message = Tidak ada pintasan untuk ektensi ini.
+shortcuts-no-addons = Anda tidak memiliki ekstensi yang aktif.
+shortcuts-no-commands = Ekstensi berikut tidak memiliki pintasan:
+shortcuts-input =
+    .placeholder = Ketikkan pintasan
 shortcuts-browserAction = Aktifkan ekstensi
 shortcuts-pageAction = Aktifkan tindakan laman
 shortcuts-sidebarAction = Aktifkan/Nonaktifkan bilah samping
