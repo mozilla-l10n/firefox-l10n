@@ -34,7 +34,7 @@
 <!ENTITY importOtherBrowser.label          "Inportâ dæti da un atro navegatô…">
 <!ENTITY importOtherBrowser.accesskey      "a">
 
-<!ENTITY cmd.backup.label               "Fanni 'na còpia de seguessa…">
+<!ENTITY cmd.backup.label               "Sarvaguarda…">
 <!ENTITY cmd.backup.accesskey           "c">
 <!ENTITY cmd.restore2.label             "Repiggia">
 <!ENTITY cmd.restore2.accesskey         "R">

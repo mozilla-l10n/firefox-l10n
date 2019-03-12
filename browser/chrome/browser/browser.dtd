@@ -131,6 +131,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.accesskey "p">
 <!ENTITY printCmd.commandkey "p">
 
+<!ENTITY importFromAnotherBrowserCmd.label "Inportâ da 'n atro navegatô…">
 
 <!ENTITY taskManagerCmd.label "Gestion ativitæ">
 
@@ -985,16 +986,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.trackingProtection3.label "Elementi che tracian">
 
+<!ENTITY contentBlocking.manageSettings.label "Gestisci blòcco di contegnui">
 
 <!ENTITY contentBlocking.trackersView.label "Elementi che tracian">
 
 <!ENTITY contentBlocking.cookies.label "Cookie">
+<!ENTITY contentBlocking.cookiesView.label "Cookie e dæti di sciti">
 
 <!ENTITY contentBlocking.cryptominers.label "Cryptominer">
 <!ENTITY contentBlocking.cryptominersView.label "Cryptominer">
 
-<!ENTITY contentBlocking.fingerprinters.label "Fingerprinters">
-<!ENTITY contentBlocking.fingerprintersView.label "Fingerprinters">
+<!ENTITY contentBlocking.fingerprinters.label "Rilevatoî de inpronte digitali">
+<!ENTITY contentBlocking.fingerprintersView.label "Rilevatoî de inpronte digitali">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Segnala problema">
 <!ENTITY contentBlocking.breakageReportView.label "Segnala problemi">
@@ -1122,3 +1125,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addonPostInstallMessage.label "Gestisci e inpostaçioin di conponenti azonti sciacando <image class='addon-addon-icon'/> into <image class='addon-toolbar-icon'/> menû.">
 
 <!ENTITY addonPrivateBrowsing.okButton.label "Va ben, ò capio">
+<!ENTITY addonPrivateBrowsing.manageButton.label "Gestisci estenscioin">

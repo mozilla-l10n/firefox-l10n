@@ -53,7 +53,7 @@ containers-color-pink =
 containers-color-purple =
     .label = Pórpoa
 containers-icon-fingerprint =
-    .label = Inpronta do dio
+    .label = Inpronta digitale
 containers-icon-briefcase =
     .label = Valixe
 # String represents a money sign but currently uses a dollar sign
