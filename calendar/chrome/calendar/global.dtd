@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY time.midnight "Polnoc" >
-<!ENTITY time.noon     "Obed" >
+<!ENTITY time.noon "Obed" >
 
 <!-- Day Names -->
 <!-- LOCALIZATION NOTE : Accesskeys for day.1.Ddd to day.7.Ddd are currently
@@ -23,13 +23,13 @@
 <!ENTITY day.7.Ddd "Sob" >
 <!ENTITY day.7.Ddd.accesskey "o">
 
-<!ENTITY day.1.name    "Nedeľa" >
-<!ENTITY day.2.name    "Pondelok" >
-<!ENTITY day.3.name    "Utorok" >
-<!ENTITY day.4.name    "Streda" >
-<!ENTITY day.5.name    "Štvrtok" >
-<!ENTITY day.6.name    "Piatok" >
-<!ENTITY day.7.name    "Sobota" >
+<!ENTITY day.1.name "Nedeľa" >
+<!ENTITY day.2.name "Pondelok" >
+<!ENTITY day.3.name "Utorok" >
+<!ENTITY day.4.name "Streda" >
+<!ENTITY day.5.name "Štvrtok" >
+<!ENTITY day.6.name "Piatok" >
+<!ENTITY day.7.name "Sobota" >
 
 <!ENTITY month.1.name "Január" >
 <!ENTITY month.2.name "Február" >
@@ -46,6 +46,8 @@
 
 <!ENTITY onemonthbackward.tooltip "Jeden mesiac dozadu" >
 <!ENTITY onemonthforward.tooltip "Jeden mesiac dopredu" >
+<!ENTITY oneyearbackward.tooltip "Jeden rok dozadu" >
+<!ENTITY oneyearforward.tooltip "Jeden rok dopredu" >
 <!ENTITY showToday.tooltip "Prejsť na Dnes">
 <!ENTITY onedayforward.tooltip "Jeden deň dopredu">
 <!ENTITY onedaybackward.tooltip "Jeden deň dozadu">
