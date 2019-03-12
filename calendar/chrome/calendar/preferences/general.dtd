@@ -33,10 +33,7 @@
 <!ENTITY pref.default_task_offset_start.label "相对开始时间的关系">
 <!ENTITY pref.default_task_offset_next_hour.label "相对下个小时的关系">
 
-<!ENTITY pref.calendar.todaypane.agenda.caption "今日面板">
-<!ENTITY pref.soondays.label "“即将到来”区块将显示：">
-<!ENTITY pref.soondays.accesskey "u">
-
+<!ENTITY pref.calendar.todaypane.agenda.caption "今日窗格">
 <!-- LOCALIZATION NOTE (pref.soondays2.label):
      "Upcoming" is the name of a section and the translation must match the
      translation of that section name (calendar.upcoming.button.label). Also,
