@@ -436,7 +436,7 @@
 <!ENTITY markAsNotJunkCmd.accesskey "i">
 <!ENTITY markAsNotJunkCmd.key "j">
 <!ENTITY recalculateJunkScoreCmd.label "Tunnista roskapostit">
-<!ENTITY recalculateJunkScoreCmd.accesskey "u">
+<!ENTITY recalculateJunkScoreCmd.accesskey "n">
 <!ENTITY openMessageWindowCmd.label "Avaa viesti">
 <!ENTITY openMessageWindowCmd.accesskey "i">
 <!ENTITY openMessageWindowCmd.key "o">
