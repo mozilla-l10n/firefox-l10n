@@ -651,7 +651,7 @@ addressbar-suggestions-settings = Cangia e inpostaçioin di conseggi di motoî d
 
 ## Privacy Section - Content Blocking
 
-content-blocking-header = Contegnuo blocou
+content-blocking-header = Blòcco di contegnui
 content-blocking-learn-more = Atre informaçioin
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
@@ -721,20 +721,9 @@ permissions-notification-link = Atre informaçioin
 permissions-notification-pause =
     .label = Ferma notificaçioin scinché { -brand-short-name } o no s'arve torna
     .accesskey = n
-permissions-block-autoplay-media =
-    .label = Blòcca in aotomatico i sciti che fan sunâ in aotomatico i media.
-    .accesskey = B
-permissions-block-autoplay-media-menu = Pe i scite che fan a riproduçion aotomatica di soin
 permissions-block-autoplay-media-exceptions =
     .label = Eceçioin…
     .accesskey = E
-autoplay-option-ask =
-    .label = Domanda de longo
-autoplay-option-allow =
-    .label = Permetti aotoriproduçion
-autoplay-option-dont =
-    .label = No aotoriprodue
-permissions-autoplay-link = Atre informaçioin
 permissions-block-popups =
     .label = Blòcca i barcoin de pop-up
     .accesskey = B
@@ -768,10 +757,6 @@ addon-recommendations-link = Atre informaçioin
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = O report di dæti o l'é dizabilitou pe sta configuraçion
-collection-browser-errors =
-    .label = Permetti a { -brand-short-name } de mandâ report di eroî (incluzo mesaggi d'erô) a { -vendor-short-name }
-    .accesskey = d
-collection-browser-errors-link = Atre informaçioin
 collection-backlogged-crash-reports =
     .label = Permetti a { -brand-short-name } de mandâ report di cianti in background pe conto teu
     .accesskey = c
