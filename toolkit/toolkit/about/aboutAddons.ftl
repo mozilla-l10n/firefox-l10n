@@ -92,7 +92,7 @@ detail-update-manual =
     .tooltiptext = Não instalar atualizações automaticamente
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Executar em janelas privadas
-detail-private-browsing-description = A extensão irá funcionar em janelas privadas, e irá ter acesso às suas atividades online. <label data-l10n-name="detail-private-browsing-learn-more">Saber mais</label>
+detail-private-browsing-description2 = Quando permitido, a extensão irá ter acesso às suas atividades online durante a navegação privada. <label data-l10n-name="detail-private-browsing-learn-more">Saber mais</label>
 detail-private-browsing-on =
     .label = Permitir
     .tooltiptext = Ativar em navegação privada
