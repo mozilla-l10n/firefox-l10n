@@ -63,6 +63,12 @@
 <!ENTITY  crash_restart_label "Khởi động lại &brandShortName;">
 
 <!ENTITY url_bar_default_text2 "Tìm kiếm hoặc nhập địa chỉ">
+
+<!-- Localization note: this text will be displayed in the Search Widget -->
+<!ENTITY search_widget_default_text "Tìm kiếm trên mạng">
+<!ENTITY search_widget_default_cropped_text "Tìm kiếm">
+<!ENTITY search_widget_logo_description "Tìm kiếm trên mạng với &brandShortName;">
+
 <!-- Localization note (url_bar_qrcode_text2) : This text will be
      heard by non-visual users when the focus is on the QR Code
      icon in the url bar. -->
@@ -393,7 +399,6 @@
 <!ENTITY pref_private_data_searchHistory "Lịch sử tìm kiếm">
 <!ENTITY pref_private_data_formdata2 "Lịch sử biểu mẫu">
 <!ENTITY pref_private_data_cookies2 "Cookie và phiên đăng nhập đang hoạt động">
-<!ENTITY pref_private_data_passwords2 "Phiên đăng nhập đã lưu">
 <!ENTITY pref_private_data_cache "Bộ nhớ đệm">
 <!ENTITY pref_private_data_offlineApps "Dữ liệu trang web ngoại tuyến">
 <!ENTITY pref_private_data_siteSettings2 "Cài đặt trang">
