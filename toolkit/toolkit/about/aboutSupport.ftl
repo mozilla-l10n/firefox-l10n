@@ -204,6 +204,8 @@ uses-tiling = Gunakan Tiling
 content-uses-tiling = Gunakan Tiling (Konten)
 off-main-thread-paint-enabled = Off Main Thread Painting Diaktifkan
 off-main-thread-paint-worker-count = Jumlah Off Main Thread Painting Worker
+low-end-machine = Mesin yang berkinerja kurang telah terdeteksi
+target-frame-rate = Tingkat Target Bingkai
 audio-backend = Backend Audio
 max-audio-channels = Kanal Maksimal
 channel-layout = Tata Letak Saluran Pilihan
@@ -221,7 +223,10 @@ effective-content-sandbox-level = Tingkat Sandbox Proses Konten Efektif
 sandbox-proc-type-content = konten
 sandbox-proc-type-file = konten berkas
 sandbox-proc-type-media-plugin = plugin media
+sandbox-proc-type-data-decoder = dekoder data
 launcher-process-status-0 = Diaktifkan
+launcher-process-status-1 = Dinonaktifkan karena kegagalan
+launcher-process-status-2 = Dinonaktifkan secara paksa
 launcher-process-status-unknown = Status tak diketahui
 # Variables
 # $remoteWindows (integer) - Number of remote windows
