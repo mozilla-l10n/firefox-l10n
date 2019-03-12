@@ -58,7 +58,7 @@
 <!ENTITY addon.install.tooltip                "현재 부가 기능 설치하기">
 <!ENTITY addon.updateNow.label                "업데이트">
 <!ENTITY addon.updateNow.tooltip              "현재 부가 기능 업데이트하기">
-<!ENTITY addon.includeUpdate.label            "업데이트 포함 항목">
+<!ENTITY addon.includeUpdate.label            "업데이트에 포함">
 <!ENTITY addon.updateAvailable.label          "업데이트 사용 가능">
 <!ENTITY addon.checkingForUpdates.label       "업데이트 확인…">
 <!ENTITY addon.releaseNotes.label             "제품 소개:">

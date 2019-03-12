@@ -13,7 +13,7 @@
 
 <!ENTITY aboutSupport.crashes.title "충돌 보고서">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
-This is likely the same like id.heading in crashes.dtd. -->
+This is likely the same like id.heading in aboutcrashes.ftl. -->
 <!ENTITY aboutSupport.crashes.id "보고 ID">
 <!ENTITY aboutSupport.crashes.sendDate "전송됨">
 <!ENTITY aboutSupport.crashes.allReports "모든 충돌 보고서">
@@ -86,7 +86,7 @@ variant of aboutSupport.showDir.label.  This allows us to use the preferred
 variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.showWin2.label "폴더 열기">
 
-<!ENTITY aboutSupport.modifiedKeyPrefsTitle "변경 설정 목록">
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle "중요한 변경된 환경 설정">
 <!ENTITY aboutSupport.modifiedPrefsName "이름">
 <!ENTITY aboutSupport.modifiedPrefsValue "값">
 
@@ -118,8 +118,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.installationHistoryTitle "설치 기록">
 <!ENTITY aboutSupport.updateHistoryTitle "업데이트 기록">
 
-<!ENTITY aboutSupport.copyTextToClipboard.label "클립보드로 텍스트 복사하기">
-<!ENTITY aboutSupport.copyRawDataToClipboard.label "클립보드로 원본 복사하기">
+<!ENTITY aboutSupport.copyTextToClipboard.label "클립보드에 텍스트 복사하기">
+<!ENTITY aboutSupport.copyRawDataToClipboard.label "클립보드에 원본 데이터 복사하기">
 
 <!ENTITY aboutSupport.sandboxTitle "샌드박스">
 <!ENTITY aboutSupport.sandboxSyscallLogTitle "거절된 시스템 콜">
