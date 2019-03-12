@@ -768,6 +768,8 @@
 <!ENTITY addonPostInstallMessage.label "Gestisci i componenti aggiuntivi facendo clic su <image class='addon-addon-icon'/> nel menu <image class='addon-toolbar-icon'/>.">
 <!ENTITY addonPostInstall.incognito.label "Consenti il funzionamento di questa estensione in finestre anonime.">
 <!ENTITY addonPostInstall.incognito.accesskey "C">
+<!ENTITY addonPostInstall.incognito.checkbox.label "Consenti il funzionamento di questa estensione in finestre anonime">
+<!ENTITY addonPostInstall.incognito.checkbox.accesskey "C">
 <!ENTITY addonPrivateBrowsing.header2.label "Cambiamenti relativi alle estensioni in finestre anonime">
 <!ENTITY addonPrivateBrowsing.body2.label "Qualunque estensione aggiunta a &brandShorterName; non funzionerà in finestre anonime a meno che non venga garantito il permesso nelle impostazioni.">
 <!ENTITY addonPrivateBrowsing.learnMore.label "Scopri come gestire le impostazioni delle estensioni.">
