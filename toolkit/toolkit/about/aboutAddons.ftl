@@ -90,7 +90,7 @@ detail-update-manual =
     .tooltiptext = Aktualizace se instalují manuálně
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Povolit v anonymních oknech
-detail-private-browsing-description = Rozšíření běžící v anonymních oknech mají přístup také k vaší aktivitě na internetu. <label data-l10n-name="detail-private-browsing-learn-more">Zjistit více</label>
+detail-private-browsing-description2 = Zde můžete tomuto rozšíření povolit běh a přístup k vaší aktivitě na internetu v anonymních oknech. <label data-l10n-name="detail-private-browsing-learn-more">Zjistit více</label>
 detail-private-browsing-on =
     .label = Povolit
     .tooltiptext = Povolí rozšíření v anonymních oknech

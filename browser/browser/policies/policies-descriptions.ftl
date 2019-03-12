@@ -10,6 +10,7 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
+policy-3rdparty = Nastavení pravidel, ke kterým mají přístup rozšíření skrze chrome.storage.managed.
 policy-AppUpdateURL = Nastavení vlastní URL pro aktualizace aplikace.
 policy-Authentication = Konfigurace integrované autentizace webových stránek, které ji podporují.
 policy-BlockAboutAddons = Zablokování přístupu do správce doplňků (about:addons).
@@ -27,7 +28,7 @@ policy-DisableFeedbackCommands = Blokování odeslání zpětné vazby z nabídk
 policy-DisableFirefoxAccounts = Vypnutí služeb používajících účet Firefoxu, včetně synchronizace.
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Vypnutí funkce Firefox Screenshots.
-policy-DisableFirefoxStudies = Zablokování spouštění studií.
+policy-DisableFirefoxStudies = Zablokování spouštění studií aplikace { -brand-short-name }.
 policy-DisableForgetButton = Zablokování tlačítka Zapomenout.
 policy-DisableFormHistory = Vypnutí ukládání historie vyhledávání a formulářů.
 policy-DisableMasterPasswordCreation = Hodnota true znemožní nastavení hlavního hesla.
