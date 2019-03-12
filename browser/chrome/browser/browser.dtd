@@ -108,7 +108,6 @@ These items have the same accesskey but will never be visible at the same time. 
 <!ENTITY  hiddenTabs.label                   "Feuggi ascozi">
 
 <!ENTITY  listAllTabs.label      "Lista de tutti i feuggi">
-
 <!-- LOCALIZATION NOTE (allTabsMenu.searchTabs.label): "Search" is a verb, as
 in "Search through tabs". -->
 <!ENTITY  allTabsMenu.searchTabs.label       "Çerca inte schede">
@@ -880,7 +879,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "Nisciun permisso speciale asociou a sto scito.">
 <!ENTITY identity.permissionsReloadHint "Peu dase che ti devi arvî torna a pagina pe vedde i cangiamenti.">
 <!ENTITY identity.permissionsPreferences.tooltip "Arvi preferense di permissi">
-
 <!ENTITY identity.contentBlockingPreferences.tooltip "Arvi preferense do blòcco di contegnui">
 
 
@@ -1126,6 +1124,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Gestisci e inpostaçioin di conponenti azonti sciacando <image class='addon-addon-icon'/> into <image class='addon-toolbar-icon'/> menû.">
+<!ENTITY addonPostInstall.incognito.label "Permetti l’ezegoçion de sta estenscion inti barcoin privæ.">
 
 <!ENTITY addonPrivateBrowsing.okButton.label "Va ben, ò capio">
 <!ENTITY addonPrivateBrowsing.manageButton.label "Gestisci estenscioin">
