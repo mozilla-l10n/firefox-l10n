@@ -12,7 +12,7 @@
 
 <!ENTITY aboutSupport.crashes.title "崩溃报告">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
-This is likely the same like id.heading in crashes.dtd. -->
+This is likely the same like id.heading in aboutcrashes.ftl. -->
 <!ENTITY aboutSupport.crashes.id "报告 ID">
 <!ENTITY aboutSupport.crashes.sendDate "提交日期">
 <!ENTITY aboutSupport.crashes.allReports "全部崩溃报告">
@@ -35,15 +35,6 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.featureName "名称">
 <!ENTITY aboutSupport.featureVersion "版本">
 <!ENTITY aboutSupport.featureId "ID">
-
-<!ENTITY aboutSupport.experimentsTitle "实验性功能">
-<!ENTITY aboutSupport.experimentName "名称">
-<!ENTITY aboutSupport.experimentId "ID">
-<!ENTITY aboutSupport.experimentDescription "描述">
-<!ENTITY aboutSupport.experimentActive "激活">
-<!ENTITY aboutSupport.experimentEndDate "结束时间">
-<!ENTITY aboutSupport.experimentHomepage "主页">
-<!ENTITY aboutSupport.experimentBranch "分支">
 
 <!ENTITY aboutSupport.appBasicsTitle "应用程序概要">
 <!ENTITY aboutSupport.appBasicsName "名称">
@@ -102,7 +93,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.userJSTitle "user.js 设置">
 <!ENTITY aboutSupport.userJSDescription "您的配置文件夹中有一个 <a id='prefs-user-js-link'>user.js 文件</a>，其中包含了一些并非由 &brandShortName; 所创建的首选项（偏好设置）。">
 
-<!ENTITY aboutSupport.lockedKeyPrefsTitle "重要的已锁定的首选项">
+<!ENTITY aboutSupport.lockedKeyPrefsTitle "已锁定的重要首选项">
 <!ENTITY aboutSupport.lockedPrefsName "名称">
 <!ENTITY aboutSupport.lockedPrefsValue "值">
 
