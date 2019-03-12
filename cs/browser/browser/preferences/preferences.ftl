@@ -449,7 +449,7 @@ containers-remove-button =
 
 sync-signedout-caption = Vezměte si web s sebou
 sync-signedout-description = Synchronizujte své záložky, historii, panely, hesla, doplňky a předvolby ve všech svých zařízeních.
-sync-signedout-account-title = Propojit s { -fxaccount-brand-name(case: "ins", capitalization: "lower") }
+sync-signedout-account-title = Propojit s účtem Firefoxu
 sync-signedout-account-create = Nemáte účet? Začněte tady
     .accesskey = t
 sync-signedout-account-signin =
