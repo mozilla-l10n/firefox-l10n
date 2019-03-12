@@ -65,7 +65,7 @@ modified-prefs-name = 名称
 modified-prefs-value = 值
 user-js-title = user.js 设置
 user-js-description = 您的配置文件夹中有一个 <a data-l10n-name="user-js-link">user.js 文件</a>，其中包含了一些并非由 { -brand-short-name } 所创建的首选项（偏好设置）。
-locked-key-prefs-title = 重要的已锁定的首选项
+locked-key-prefs-title = 已锁定的重要首选项
 locked-prefs-name = 名称
 locked-prefs-value = 值
 graphics-title = 图像
