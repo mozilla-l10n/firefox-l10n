@@ -4,7 +4,7 @@
 
 title = 네트워크 정보
 warning = 이 기능은 실험 단계입니다. 네트워크 기술에 잘 아는 사람 이외는 사용하지 마십시오.
-show-next-time-checkbox = 다음에 경고 표시하기
+show-next-time-checkbox = 다음에 이 경고 표시하기
 ok = 확인
 http = HTTP
 sockets = Sockets
@@ -16,7 +16,7 @@ hostname = 호스트명
 port = 포트
 http2 = HTTP/2
 ssl = SSL
-active = 액티브
+active = 활성
 idle = 대기
 host = 호스트
 tcp = TCP
