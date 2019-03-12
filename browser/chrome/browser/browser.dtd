@@ -360,7 +360,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.accesskey             "a">
 <!ENTITY addons.commandkey            "A">
 
-<!ENTITY webDeveloperMenu.label       "Svilupatô Web">
+<!ENTITY webDeveloperMenu.label       "Svilupatô web">
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
 <!ENTITY inspectContextMenu.label     "Ispeçionn-a elemento">
@@ -1077,7 +1077,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY updateRestart.message2 "Dòppo ina avertua rapida, &brandShorterName; o repigiâ tutti feuggi e barcoin che no ean into mòddo de Naveagçion Privâ.">
 <!ENTITY updateRestart.header.message2 "Arvi torna pe agiornâ &brandShorterName;.">
-<!ENTITY updateRestart.acceptButton.label "Arvi torna e Repiggia">
+<!ENTITY updateRestart.acceptButton.label "Arvi torna e repiggia">
 <!ENTITY updateRestart.acceptButton.accesskey "A">
 <!ENTITY updateRestart.cancelButton.label "Oua No">
 <!ENTITY updateRestart.cancelButton.accesskey "N">

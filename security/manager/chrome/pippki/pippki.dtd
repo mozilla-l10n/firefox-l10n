@@ -17,10 +17,9 @@
 
 <!-- Downloading a cert -->
 <!ENTITY downloadCert.title "Descarego o certificato">
-<!ENTITY downloadCert.message1 "Te vegne domandou de dâ a fiduccia a sta neuva Aotoritæ di Certicati (CA).">
+<!ENTITY downloadCert.message1 "Te vegne domandou de dâ a fiduccia a sta neuva aotoritæ de certificaçion (CA).">
 <!ENTITY downloadCert.trustSSL "Fiate de sta CA pe identificâ i sciti web.">
 <!ENTITY downloadCert.trustEmail "Fiate de sta CA pe identificâ e email.">
-<!ENTITY downloadCert.trustObjSign "Danni a fiduccia a sta CA a identificâ i svilupatoî de aplicaçioin.">
 <!ENTITY downloadCert.message3 "Primma de dâ a fiduccia a sta CA ti dovesci ezaminâ o seu certificato, a seu politica e procedue (se ghe son).">
 <!ENTITY downloadCert.viewCert.label "Fanni vedde">
 <!ENTITY downloadCert.viewCert.text "Ezamina o certificato CA">
