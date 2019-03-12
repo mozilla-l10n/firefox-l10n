@@ -15,7 +15,7 @@ changed-desc-dedicated = Aby bylo možné bezpečně používat více instalací
 lost = <b>O žádná svá data a nastavení nepřijdete.</b> Vše je bezpečně uloženo v profilu a dostupné pro první spuštěnou instalaci Firefoxu.
 options-title = Co mohu dělat dál?
 options-do-nothing = Pokud nebudete dělat nic, vaše aplikace { -brand-short-name } bude používat samostatný profil a nebude sdílet žádná data s ostatními instalacemi Firefoxu.
-options-use-sync = Pokud chcete mít stejná data ve více instalacích Firefoxu, použijte bezpečnost synchronizaci pomocí účtu Firefoxu.
+options-use-sync = Pokud chcete mít stejná data ve více instalacích Firefoxu, použijte bezpečnou synchronizaci pomocí účtu Firefoxu.
 resources = Zdroje:
 support-link = Správa profilů - článek nápovědy
 sync-header = Přihlaste se nebo si založte { -fxaccount-brand-name }
@@ -24,5 +24,5 @@ sync-input =
     .placeholder = E-mail
 sync-button = Pokračovat
 sync-terms = Pokračováním souhlasíte s <a data-l10n-name="terms">podmínkami poskytování služby</a> a <a data-l10n-name="privacy">zásadami ochrany osobních údajů</a>.
-sync-first = Používáte { -sync-brand-name } poprvé? Pro synchronizaci svých dat se přihlaste stejným účtem ve všech instalacích Firefoxu.
+sync-first = Používáte { -sync-brand-name(case: "acc") } poprvé? Pro synchronizaci svých dat se přihlaste stejným účtem ve všech instalacích Firefoxu.
 sync-learn = Zjistit více

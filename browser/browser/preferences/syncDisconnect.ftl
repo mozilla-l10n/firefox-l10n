@@ -3,10 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sync-disconnect-dialog =
-    .title = Odpojit { -sync-brand-short-name }?
+    .title = Odpojit od { -sync-brand-short-name(case: "gen") }?
     .style = width: 36em; min-height: 35em;
-sync-disconnect-heading = Chcete z tohoto počítače smazat synchronizovaná data? Ve vašem účtu { -sync-brand-name } data zůstanou.
-sync-disconnect-remove-sync-caption = Smazat synchronizovaná data
+sync-disconnect-heading = Chcete z tohoto počítače smazat synchronizovaná data? Ve vašem { -sync-brand-name(case: "loc") } data zůstanou.
+sync-disconnect-remove-sync-caption = Smazat data z { -sync-brand-name(case: "gen") }
 sync-disconnect-remove-sync-data = Záložky, historie prohlížení, hesla, atd.
 sync-disconnect-remove-other-caption = Smazat další soukromá data
 sync-disconnect-remove-other-data = Cookies, mezipaměť, offline data stránek, atd.
