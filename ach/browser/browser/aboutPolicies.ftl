@@ -5,3 +5,4 @@
 # 'Active' is used to describe the policies that are currently active
 active-policies-tab = Tye katic
 errors-tab = Bal
+documentation-tab = Gin acoya
