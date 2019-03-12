@@ -26,6 +26,7 @@ onboarding-ghostery-text = Yeny oyot, ki ngec, onyo maber ki lamed calo Ghostery
 
 ## Message strings belonging to the Return to AMO flow
 
+return-to-amo-sub-header = Ber matek, itye ki { -brand-short-name }
 # <icon></icon> will be replaced with the icon belonging to the extension
 #
 # Variables:

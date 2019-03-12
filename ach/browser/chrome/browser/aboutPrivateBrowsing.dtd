@@ -7,7 +7,6 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "m">
 
 <!ENTITY privateBrowsing.title                           "Yeny i mung">
-<!ENTITY privateBrowsing.title.tracking                  "Yeny i mung ki Gwokke ikom lubo kor">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Ka i yenyo i Dirica me mung, Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "pe gwoko">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
@@ -28,8 +27,13 @@
 <!ENTITY aboutPrivateBrowsing.learnMore3.title           "Yeny i mung">
 <!ENTITY aboutPrivateBrowsing.learnMore3.after           ".">
 
-<!ENTITY trackingProtection.title                        "Gwokke ikom lubo kor">
-<!ENTITY trackingProtection.description2                 "Kakube mukene tiyo ki gilubo kor me neno tic mamegi i intanet. Ki Gwokke ikom lubo kor Firefox bigengo gilubo kor madwong ma twero coko ngec ikom yeny mamegi.">
-
 <!ENTITY trackingProtection.startTour1                   "Nen kit ma tiyo kwede">
 
+
+<!-- Strings for new Private Browsing with Search -->
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.search.placeholder): This is the placeholder
+                       text for the search box.   -->
+<!ENTITY aboutPrivateBrowsing.search.placeholder         "Yeny Kakube">
+<!ENTITY aboutPrivateBrowsing.info.title                 "Itye ii Dirica me Mung">
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article
+                       about private browsing myths.   -->
