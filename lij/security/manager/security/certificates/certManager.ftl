@@ -168,7 +168,7 @@ import-email-cert-prompt = Seleçionn-a o schedaio ch'o gh'à o certificato do d
 
 # Variables:
 #   $certName: the name of certificate
-edit-trust-ca = Sto certificato "{ $certName }" o rapresenta a Aotoritæ di Certificati
+edit-trust-ca = O certificato "{ $certName }" o rapresenta 'na aotoritæ de certificaçion.
 
 ## For Deleting Certificates
 
@@ -183,7 +183,7 @@ delete-ssl-cert-impact = Se ti ti scancelli sta eceçion do server, ghe saian i 
 delete-ca-cert-title =
     .title = Scancella ò leva a fiduccia a-i certificati CA
 delete-ca-cert-confirm = T'æ domandou de scancelâ sti cerficati CA. Mia che saiâ scancelâ anche a fiduccia di cerficati relativi a questa CA. T'ê seguo de scancelâ ò levâ a fiduccia?
-delete-ca-cert-impact = Se ti ti scancelli o ti levi a fiduccia a ina Aotoritæ di Certificati (CA), st'aplicaçion a no poriâ ciù fiase di certificati fæti da sta CA.
+delete-ca-cert-impact = Se ti ti scancelli o ti levi a fiduccia a ina aotoritæ de certificaçion (CA), st'aplicaçion a no poriâ ciù fiase di certificati fæti da sta CA.
 delete-email-cert-title =
     .title = Scancella certificati email
 delete-email-cert-confirm = T'ê seguo de scancelâ sti certificati de personn-e?
@@ -213,7 +213,7 @@ verify-ssl-client =
 verify-ssl-server =
     .value = Certificato SSL do Server
 verify-ssl-ca =
-    .value = Aotoritæ de certificato SSL
+    .value = Aotoritæ de certificaçion SSL
 verify-email-signer =
     .value = Certificato do mitente e-mail
 verify-email-recip =
