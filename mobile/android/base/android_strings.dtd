@@ -63,6 +63,12 @@
 <!ENTITY  crash_restart_label "重开 &brandShortName;">
 
 <!ENTITY url_bar_default_text2 "搜索或输入网址">
+
+<!-- Localization note: this text will be displayed in the Search Widget -->
+<!ENTITY search_widget_default_text "在网络上搜索">
+<!ENTITY search_widget_default_cropped_text "搜索">
+<!ENTITY search_widget_logo_description "使用 &brandShortName; 在网络上搜索">
+
 <!-- Localization note (url_bar_qrcode_text2) : This text will be
      heard by non-visual users when the focus is on the QR Code
      icon in the url bar. -->
@@ -290,11 +296,6 @@
 <!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
      Similar to the already existing "pref_whats_new_notification_summary"-->
 <!ENTITY pref_feature_tips_notification_summary "了解 &brandShortName; 与其他 &vendorShortName; 产品的更多信息">
-<!-- Localization note (pref_feature_tips_notification_enabling_hint):
-     Describe the action the user should do to enable this preference
-     Will be used in the context "<Turn on> ... to enable this feature" -->
-<!ENTITY pref_feature_tips_notification_enabling_hint "开启">
-
 <!-- Localization note (pref_feature_tips_notification_enabling_path):
      Nothing to translate. Simple concatenation of already localized strings. Result is used below. -->
 <!ENTITY pref_feature_tips_notification_enabling_path "&pref_category_privacy_short; > &pref_category_datareporting; > &datareporting_fhr_title;">
@@ -398,7 +399,6 @@
 <!ENTITY pref_private_data_searchHistory "搜索历史记录">
 <!ENTITY pref_private_data_formdata2 "表单历史记录">
 <!ENTITY pref_private_data_cookies2 "Cookie 及当前的登录状态">
-<!ENTITY pref_private_data_passwords2 "已保存的登录信息">
 <!ENTITY pref_private_data_cache "高速缓存">
 <!ENTITY pref_private_data_offlineApps "离线站点数据">
 <!ENTITY pref_private_data_siteSettings2 "站点设置">
@@ -901,15 +901,9 @@ Picture-in-picture mini window -->
 <!ENTITY pip_pause_button_description "暂停播放">
 
 <!-- Notification channels names -->
-<!ENTITY default_notification_channel "&brandShortName;">
-
-<!-- Notification channels names -->
 <!ENTITY default_notification_channel2 "浏览器">
 <!ENTITY mls_notification_channel "&vendorShortName; 位置服务">
 <!ENTITY download_notification_channel "下载">
-<!ENTITY media_notification_channel "媒体播放">
-<!-- These push notifications come without a specific channel and/or name from Leanplum -->
-<!ENTITY leanplum_default_notifications_channel "&brandShortName; 推送通知">
 <!ENTITY media_notification_channel2 "声音和视频">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel2 "&vendorShortName; 使用技巧">
