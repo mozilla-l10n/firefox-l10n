@@ -26,41 +26,4 @@
     }
 # “Account” can be localized, “Firefox” must be treated as a brand,
 # and kept in English.
--fxaccount-brand-name =
-    { $case ->
-       *[nom]
-            { $capitalization ->
-               *[upper] Účet Firefoxu
-                [lower] účet Firefoxu
-            }
-        [gen]
-            { $capitalization ->
-               *[upper] Účtu Firefoxu
-                [lower] účtu Firefoxu
-            }
-        [dat]
-            { $capitalization ->
-               *[upper] Účtu Firefoxu
-                [lower] účtu Firefoxu
-            }
-        [acc]
-            { $capitalization ->
-               *[upper] Účet Firefoxu
-                [lower] účet Firefoxu
-            }
-        [voc]
-            { $capitalization ->
-               *[upper] Účte Firefoxu
-                [lower] účte Firefoxu
-            }
-        [loc]
-            { $capitalization ->
-               *[upper] Účtu Firefoxu
-                [lower] účtu Firefoxu
-            }
-        [ins]
-            { $capitalization ->
-               *[upper] Účtem Firefoxu
-                [lower] účtem Firefoxu
-            }
-    }
+-fxaccount-brand-name = Účet Firefoxu
