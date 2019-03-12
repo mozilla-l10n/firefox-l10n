@@ -10,7 +10,6 @@
 <!ENTITY returnToPreviousPage.label "Vanni inderê">
 <!ENTITY returnToPreviousPage1.label "Vanni inderê (Racomandou)">
 <!ENTITY advanced.label "Avansæ">
-<!ENTITY continue2.label "Ciù…">
 <!ENTITY advanced2.label "Avansæ…">
 <!ENTITY moreInformation.label "Ciù informaçioin">
 <!ENTITY viewCertificate.label "Amia certificato">
@@ -192,3 +191,4 @@ was trying to connect. -->
 <!ENTITY prefReset.longDesc "Pâ che segian e teu inpostaçioin de seguessa a caozâ questo. Ti veu repigiâ e inpostaçioin predefinie?">
 <!ENTITY prefReset.label "Repiggia inpostaçioin predefinie">
 
+<!ENTITY networkProtocolError.title "Erô de protocòllo de ræ">
