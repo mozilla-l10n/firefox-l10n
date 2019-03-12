@@ -483,7 +483,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      so they should have different access keys.  -->
 <!ENTITY customizeMenu.pinToOverflowMenu.label "Azonzi a-o menû Overflow">
 <!ENTITY customizeMenu.pinToOverflowMenu.accesskey "A">
-<!ENTITY customizeMenu.unpinFromOverflowMenu.label "Leva da-o menû Overflow">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.label "Leva da-o menû de straripo">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "L">
 <!ENTITY customizeMenu.removeFromToolbar.label "Scancella da bara di strumenti">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "b">
