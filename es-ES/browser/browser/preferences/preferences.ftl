@@ -532,6 +532,7 @@ sync-mobilepromo-single = Conectar otro dispositivo
 sync-mobilepromo-multi = Administrar dispositivos
 sync-connect-another-device = Conectar otro dispositivo
 sync-manage-devices = Administrar dispositivos
+sync-fxa-begin-pairing = Emparejar un dispositivo
 sync-tos-link = Términos del Servicio
 sync-fxa-privacy-notice = Aviso sobre privacidad
 
@@ -696,6 +697,10 @@ content-blocking-tracking-protection-change-block-list = Cambiar la lista de blo
 content-blocking-cookies-label =
     .label = Cookies
     .accesskey = C
+# Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
+content-blocking-cryptominers-label =
+    .label = Criptomineros
+    .accesskey = y
 
 ## Privacy Section - Tracking
 
@@ -726,23 +731,12 @@ permissions-notification-link = Saber más
 permissions-notification-pause =
     .label = Pausar notificaciones hasta que { -brand-short-name } se reinicie
     .accesskey = n
-permissions-block-autoplay-media =
-    .label = Bloquear en los sitios web la reproducción automática de medios con sonido
-    .accesskey = B
-permissions-block-autoplay-media-menu = Para sitios web que reproducen sonidos automáticamente
 permissions-block-autoplay-media2 =
     .label = Bloquear sitios web para que no reproduzcan sonido automáticamente
     .accesskey = B
 permissions-block-autoplay-media-exceptions =
     .label = Excepciones…
     .accesskey = E
-autoplay-option-ask =
-    .label = Preguntar siempre
-autoplay-option-allow =
-    .label = Permitir reproducción automática
-autoplay-option-dont =
-    .label = No reproducir de manera automática
-permissions-autoplay-link = Más información
 permissions-block-popups =
     .label = Bloquear ventanas emergentes
     .accesskey = B
@@ -778,10 +772,6 @@ addon-recommendations-link = Saber más
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = La recopilación de datos está deshabilitada en esta configuración de compilación
-collection-browser-errors =
-    .label = Permitir a { -brand-short-name } enviar informes de error del navegador (incluyendo mensajes de error) a { -vendor-short-name }
-    .accesskey = e
-collection-browser-errors-link = Saber más
 collection-backlogged-crash-reports =
     .label = Permitir que { -brand-short-name } envíe los informes de fallos pendientes en su nombre
     .accesskey = r

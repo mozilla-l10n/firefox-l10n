@@ -69,6 +69,8 @@ policy-SearchBar = Establecer la ubicación predeterminada de la barra de búsqu
 policy-SearchEngines = Configurar los ajustes del motor de búsqueda. Esta política solo está disponible en la versión Extended Support Release (ESR).
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Instalar módulos PKCS #11.
+policy-SSLVersionMax = Establecer la versión máxima de SSL.
+policy-SSLVersionMin = Establecer la versión mínima de SSL.
 policy-SupportMenu = Agrega un elemento de menú de soporte personalizado al menú de ayuda.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Bloquear sitios web para que no sean visitados. Consulte la documentación para obtener más detalles sobre el formato.
