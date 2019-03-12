@@ -88,6 +88,15 @@ detail-update-automatic =
 detail-update-manual =
     .label = Mati
     .tooltiptext = Jangan otomatis memasang pemutakhiran
+# Used as a description for the option to allow or block an add-on in private windows.
+detail-private-browsing-label = Jalankan di Jendela Pribadi
+detail-private-browsing-description = Ektensi akan bekerja di Jendela Pribadi dan bisa mengakses aktivitias daring Anda. <label data-l10n-name="detail-private-browsing-learn-more">Pelajari lebih lanjut</label>
+detail-private-browsing-on =
+    .label = Izinkan
+    .tooltiptext = Aktifkan di Penjelajahan Pribadi
+detail-private-browsing-off =
+    .label = Jangan Izinkan
+    .tooltiptext = Nonaktifkan di Penjelajahan Pribadi
 detail-home =
     .label = Beranda
 detail-home-value =
@@ -210,10 +219,18 @@ extensions-updates-update-selected =
 
 ## Extension shortcut management
 
+shortcuts-browserAction = Aktifkan ekstensi
+shortcuts-pageAction = Aktifkan tindakan laman
+shortcuts-sidebarAction = Aktifkan/Nonaktifkan bilah samping
 shortcuts-modifier-mac = Sertakan Ctrl, Alt, atau ⌘
 shortcuts-modifier-other = Sertakan Ctrl atau Alt
 shortcuts-invalid = Kombinasi tidak valid
 shortcuts-letter = Ketikkan huruf
+shortcuts-system = Tidak bisa menimpa pintasan { -brand-short-name }
+shortcuts-card-expand-button =
+    { $numberToShow ->
+       *[other] Tampilkan { $numberToShow } Lainnya
+    }
 shortcuts-card-collapse-button = Lebih Sedikit
 go-back-button =
     .tooltiptext = Mundur

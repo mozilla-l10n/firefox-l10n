@@ -5,4 +5,5 @@
 label-disable = Nonaktifkan
 label-enable = Aktifkan
 label-interventions = Intervensi
+label-more-information = Informasi Lebih Lanjut: Bug { $bug }
 text-title = about:compat
