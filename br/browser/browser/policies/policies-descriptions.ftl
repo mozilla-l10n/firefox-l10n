@@ -10,6 +10,7 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
+policy-3rdparty = Gwelout ar reolennoù a c'hall bezañ haezet gant ar WebExtensions dre chrome.storage.managed.
 policy-AppUpdateURL = Lakaat un URL hizivaat personelaet evit an arload.
 policy-Authentication = Kefluniañ an dilesa ebarzhet evit al lec'hiennoù skoret.
 policy-BlockAboutAddons = Stankañ an ardoer askouezhioù (about:addons).
