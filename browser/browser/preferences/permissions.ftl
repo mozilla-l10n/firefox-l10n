@@ -8,7 +8,7 @@ permissions-window =
 permissions-close-key =
     .key = w
 permissions-address = Sayt ünvanı
-    .accesskey = d
+    .accesskey = S
 permissions-block =
     .label = Blokla
     .accesskey = B
@@ -24,10 +24,10 @@ permissions-status =
     .label = Durum
 permissions-remove =
     .label = Saytı sil
-    .accesskey = R
+    .accesskey = S
 permissions-remove-all =
     .label = Bütün saytları sil
-    .accesskey = e
+    .accesskey = s
 permissions-button-cancel =
     .label = Ləğv et
     .accesskey = L
@@ -58,10 +58,6 @@ permissions-invalid-uri-label = Lütfən etibarlı bir server adı daxil edin
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-tracking-protection-window =
-    .title = İstisnalar - İzlənmə Qoruması
-    .style = { permissions-window.style }
-permissions-exceptions-tracking-protection-desc = Bu saytlarda İzlənmə Qorumasını söndürmüsünüz.
 permissions-exceptions-content-blocking-window =
     .title = İstisnalar - Məzmun Əngəlləmə
     .style = { permissions-window.style }

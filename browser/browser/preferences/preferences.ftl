@@ -224,7 +224,7 @@ translate-exceptions =
     .accesskey = t
 check-user-spelling =
     .label = Hərf səhvləriniz siz yazdıqca yoxlanılsın
-    .accesskey = t
+    .accesskey = y
 
 ## General Section - Files and Applications
 
@@ -679,7 +679,7 @@ content-blocking-option-private =
 content-blocking-tracking-protection-change-block-list = Qara siyahını dəyişdir
 content-blocking-cookies-label =
     .label = Çərəzlər
-    .accesskey = C
+    .accesskey = z
 
 ## Privacy Section - Tracking
 
@@ -793,16 +793,16 @@ certs-select-auto-option =
     .accesskey = S
 certs-select-ask-option =
     .label = Hər dəfə soruş
-    .accesskey = A
+    .accesskey = H
 certs-enable-ocsp =
     .label = Sertifikatların keçərliliyini təsdiqləmək üçün OCSP cavabdehlik serverlərinə Sorğu göndər
     .accesskey = S
 certs-view =
     .label = Sertifikatları göstər…
-    .accesskey = C
+    .accesskey = S
 certs-devices =
     .label = Təhlükəsizlik cihazları…
-    .accesskey = D
+    .accesskey = T
 space-alert-learn-more-button =
     .label = Ətraflı öyrən
     .accesskey = L

@@ -23,12 +23,12 @@ containers-window-close =
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
 containers-name-label = Ad
-    .accesskey = N
+    .accesskey = A
     .style = { -containers-labels-style }
 containers-name-text =
     .placeholder = Konteyner adını daxil edin
 containers-icon-label = İkon
-    .accesskey = I
+    .accesskey = k
     .style = { -containers-labels-style }
 containers-color-label = Rəng
     .accesskey = g
