@@ -26,6 +26,7 @@ profiles-rename = Preimenuj
 profiles-remove = Odstrani
 profiles-set-as-default = Nastavi kot privzeti profil
 profiles-launch-profile = Zaženi profil v novem brskalniku
+profiles-cannot-set-as-default-title = Nastavitev privzetega profila ni bila mogoča
 profiles-cannot-set-as-default-message = Privzetega profila za { -brand-short-name } ni bilo mogoče zamenjati.
 profiles-yes = da
 profiles-no = ne
