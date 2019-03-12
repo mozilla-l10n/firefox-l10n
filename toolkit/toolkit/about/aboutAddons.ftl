@@ -90,7 +90,7 @@ detail-update-manual =
     .tooltiptext = Không tự động cài đặt cập nhật
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Chạy trong cửa sổ riêng tư
-detail-private-browsing-description = Tiện ích mở rộng sẽ hoạt động trong cửa sổ riêng tư và có quyền truy cập vào các hoạt động trực tuyến của bạn. <label data-l10n-name="detail-private-browsing-learn-more">Tìm hiểu thêm</label>
+detail-private-browsing-description2 = Khi được cho phép, tiện ích mở rộng sẽ có quyền truy cập vào các hoạt động trực tuyến của bạn trong khi duyệt web riêng tư. <label data-l10n-name="detail-private-browsing-learn-more">Tìm hiểu thêm</label>
 detail-private-browsing-on =
     .label = Cho phép
     .tooltiptext = Kích hoạt trong duyệt web riêng tư
