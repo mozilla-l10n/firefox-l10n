@@ -51,10 +51,10 @@
 
 <!ENTITY captivePortal.title "Intra inta ræ">
 <!ENTITY captivePortal.longDesc2 "
-<p>Ti devi fâ o login in sta ræ prima che ti pòsse acede a l'internet.</p>
+<p>Ti devi intrâ in sta ræ prima che ti pòsse acede a l'internet.</p>
 ">
 
-<!ENTITY openPortalLoginPage.label2 "Arvi a Pagina de Login da ræ">
+<!ENTITY openPortalLoginPage.label2 "Arvi a pagina de intrâ da ræ">
 
 <!ENTITY malformedURI.pageTitle "URL grammo">
 <!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
