@@ -668,6 +668,7 @@ content-blocking-custom-desc = Çerni cöse blòccâ
 content-blocking-third-party-cookies = Cookie che tracian de terse parte
 content-blocking-all-third-party-cookies = Tutti i cookie de terse parte
 content-blocking-warning-title = Stanni atento!
+content-blocking-warning-description = Blòccâ i contegnui porieiva inpedî o fonçionamento de çerti sciti. O l'é façile dizabilitâ o blòcco pe-i sciti afidabili.
 content-blocking-learn-how = Comme se fa
 content-blocking-trackers-label =
     .label = Elementi che tracian
