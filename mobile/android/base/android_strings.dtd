@@ -63,6 +63,12 @@
 <!ENTITY  crash_restart_label "Pārstartēt &brandShortName;">
 
 <!ENTITY url_bar_default_text2 "Ievadiet adresi vai meklējamo frāzi">
+
+<!-- Localization note: this text will be displayed in the Search Widget -->
+<!ENTITY search_widget_default_text "Meklēt tīmeklī">
+<!ENTITY search_widget_default_cropped_text "Meklēt">
+<!ENTITY search_widget_logo_description "Meklējiet tīmeklī &brandShortName;">
+
 <!-- Localization note (url_bar_qrcode_text2) : This text will be
      heard by non-visual users when the focus is on the QR Code
      icon in the url bar. -->
@@ -393,7 +399,6 @@
 <!ENTITY pref_private_data_searchHistory "Meklēšanas vēsture">
 <!ENTITY pref_private_data_formdata2 "Formu datu vēsture">
 <!ENTITY pref_private_data_cookies2 "Sīkdatnes un aktīvās autorizācijas sesijas">
-<!ENTITY pref_private_data_passwords2 "Saglabātās paroles">
 <!ENTITY pref_private_data_cache "Kešatmiņu">
 <!ENTITY pref_private_data_offlineApps "Lapu saglabātos datus">
 <!ENTITY pref_private_data_siteSettings2 "Lapu iestatījumus">
