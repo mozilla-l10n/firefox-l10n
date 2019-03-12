@@ -7,6 +7,7 @@ about-policies-title = Politiche aziendali
 active-policies-tab = Ativo
 errors-tab = Eroî
 documentation-tab = Documenti
+inactive-message = O serviçio de politiche aziendali o l'é inativo
 policy-name = Nomme do criteio
 policy-value = Valô do criteio
 policy-errors = Eroî do criteio
