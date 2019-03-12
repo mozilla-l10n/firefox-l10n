@@ -979,14 +979,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectMicrophone.label "Micròfono da condividde:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 <!ENTITY getUserMedia.audioCapture.label "L’aodio do feugio o saiâ condivizo.">
-<!ENTITY getUserMedia.allWindowsShared.message "Tutte i barcoin vixibili into schermo saian condivizi.">
+<!ENTITY getUserMedia.allWindowsShared.message "Tutti i barcoin vixibili into schermo saian condivizi.">
 
 <!ENTITY contentBlocking.title "Blòcco di contengui">
 
-<!ENTITY contentBlocking.trackingProtection3.label "Traciatoî">
+<!ENTITY contentBlocking.trackingProtection3.label "Elementi che tracian">
 
 
-<!ENTITY contentBlocking.trackersView.label "Traciatoî">
+<!ENTITY contentBlocking.trackersView.label "Elementi che tracian">
 
 <!ENTITY contentBlocking.cookies.label "Cookie">
 
