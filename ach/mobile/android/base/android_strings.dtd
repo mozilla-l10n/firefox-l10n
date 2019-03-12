@@ -63,6 +63,12 @@
 <!ENTITY  crash_restart_label "Cak &brandShortName;">
 
 <!ENTITY url_bar_default_text2 "Yeny onyo ket kanonge">
+
+<!-- Localization note: this text will be displayed in the Search Widget -->
+<!ENTITY search_widget_default_text "Yeny kakube">
+<!ENTITY search_widget_default_cropped_text "Yeny">
+<!ENTITY search_widget_logo_description "Yeny kakube ki &brandShortName;">
+
 <!-- Localization note (url_bar_qrcode_text2) : This text will be
      heard by non-visual users when the focus is on the QR Code
      icon in the url bar. -->
@@ -290,11 +296,6 @@
 <!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
      Similar to the already existing "pref_whats_new_notification_summary"-->
 <!ENTITY pref_feature_tips_notification_summary "Nong ngec mapol ikom tic ki &brandShortName; ki jami mukene me &vendorShortName;">
-<!-- Localization note (pref_feature_tips_notification_enabling_hint):
-     Describe the action the user should do to enable this preference
-     Will be used in the context "<Turn on> ... to enable this feature" -->
-<!ENTITY pref_feature_tips_notification_enabling_hint "Caki">
-
 <!-- Localization note (pref_feature_tips_notification_enabling_path):
      Nothing to translate. Simple concatenation of already localized strings. Result is used below. -->
 <!ENTITY pref_feature_tips_notification_enabling_path "&pref_category_privacy_short; > &pref_category_datareporting; > &datareporting_fhr_title;">
@@ -398,7 +399,6 @@
 <!ENTITY pref_private_data_searchHistory "Gin mukato me yeny">
 <!ENTITY pref_private_data_formdata2 "Gin mukato me pwom">
 <!ENTITY pref_private_data_cookies2 "Angija ki donyo iyie ma tye katic">
-<!ENTITY pref_private_data_passwords2 "Donyo iyie ma kigwoko">
 <!ENTITY pref_private_data_cache "Kagwoko">
 <!ENTITY pref_private_data_offlineApps "Coc kakube me web ma pe iwi yamo">
 <!ENTITY pref_private_data_siteSettings2 "Ter me kakube">
@@ -901,14 +901,9 @@ Picture-in-picture mini window -->
 <!ENTITY pip_pause_button_description "Juk tuko">
 
 <!-- Notification channels names -->
-<!ENTITY default_notification_channel "&brandShortName;">
-
-<!-- Notification channels names -->
 <!ENTITY default_notification_channel2 "Layeny">
 <!ENTITY mls_notification_channel "Tic me Kabedo pa &vendorShortName;">
 <!ENTITY download_notification_channel "Gam">
-<!-- These push notifications come without a specific channel and/or name from Leanplum -->
-<!ENTITY leanplum_default_notifications_channel "jami angeya ma pire kene me &brandShortName;">
 <!ENTITY media_notification_channel2 "Dwon ki video">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel2 "ngec ki diro me &vendorShortName;">
