@@ -131,6 +131,9 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.accesskey "p">
 <!ENTITY printCmd.commandkey "p">
 
+<!ENTITY importFromAnotherBrowserCmd.label "Uvoz iz drugog preglednika…">
+<!ENTITY importFromAnotherBrowserCmd.accesskey "U">
+
 <!ENTITY taskManagerCmd.label "Upravitelj zadataka">
 
 <!ENTITY goOfflineCmd.label "Izvanmrežni rad">
@@ -1133,9 +1136,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Upravljajte svojim dodacima klikom na <image class='addon-addon-icon'/> u <image class='addon-toolbar-icon'/> izborniku.">
+<!ENTITY addonPostInstall.incognito.label "Dopusti ovom dodatku da radi u privatnom prozoru.">
+<!ENTITY addonPostInstall.incognito.accesskey "D">
 
-<!ENTITY addonPrivateBrowsing.header.label "Dodaci u privatnim prozorima">
-<!ENTITY addonPrivateBrowsing.body.label "Prema zadanim postavkama dodacima nije dozvoljeno raditi u privatnim prozorima. Oni neće raditi u privatnom pretraživanju i neće imati pristup vašim aktivnostima. Možete dozvoliti svakom dodatku pojedinačno rad u privatnim prozorima tako da izmijenite vaše postavke.">
+<!ENTITY addonPrivateBrowsing.header2.label "Promijeni u dodatke u privatnim prozorima">
+<!ENTITY addonPrivateBrowsing.body2.label "Nove dodatke koje dodate u &brandShorterName; neće raditi u privatnim prozorima kod ne dopustite ovo u postavkama.">
+<!ENTITY addonPrivateBrowsing.learnMore.label "Saznajte kako upravljati postavkama dodataka.">
 <!ENTITY addonPrivateBrowsing.okButton.label "U redu, razumijem">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "U">
 <!ENTITY addonPrivateBrowsing.manageButton.label "Upravljanje dodacima">
