@@ -86,6 +86,12 @@ detail-update-automatic =
 detail-update-manual =
     .label = ఆఫ్ చేయి
     .tooltiptext = తాజాకరణలను స్వయంచాలకంగా స్థాపించవద్దు
+detail-private-browsing-on =
+    .label = అనుమతించు
+    .tooltiptext = అంతరంగిక విహరణలో చేతనంచేయి
+detail-private-browsing-off =
+    .label = అనుమతించ వద్దు
+    .tooltiptext = అంతరంగిక విహరణలో అచేతనించు
 detail-home =
     .label = ముంగిలిపేజీ
 detail-home-value =
@@ -207,4 +213,7 @@ extensions-updates-update-selected =
     .tooltiptext = ఈ జాబితాలోని తాజాకరణలను స్థాపించు
 
 ## Extension shortcut management
+
+
+## Add-on actions
 
