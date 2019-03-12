@@ -90,7 +90,7 @@ detail-update-manual =
     .tooltiptext = Aktualizacije awtomatisce njeinstalować
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = W priwatnych woknach wuwjesć
-detail-private-browsing-description = Rozšěrjenje budźe w priwatnych woknach fungować a změje přistup na waše aktiwity online. <label data-l10n-name="detail-private-browsing-learn-more">Dalše informacije</label>
+detail-private-browsing-description2 = Jeli maće prawo, ma rozšěrjenje přistup na waše aktiwity online w priwatnym modusu. <label data-l10n-name="detail-private-browsing-learn-more">Dalše informacije</label>
 detail-private-browsing-on =
     .label = Dowolić
     .tooltiptext = W priwatnym modusu zmóžnić
