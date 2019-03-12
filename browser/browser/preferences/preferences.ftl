@@ -679,6 +679,15 @@ content-blocking-tracking-protection-change-block-list = Ubah daftar blokir
 content-blocking-cookies-label =
     .label = Kuki
     .accesskey = K
+# Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
+content-blocking-cryptominers-label =
+    .label = Penambang Kripto
+    .accesskey = P
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+content-blocking-fingerprinters-label =
+    .label = Pelacak Sidik
+    .accesskey = P
 
 ## Privacy Section - Tracking
 
@@ -713,6 +722,9 @@ permissions-block-autoplay-media =
     .label = Blokir situs web untuk memainkan media dengan suara secara otomatis
     .accesskey = B
 permissions-block-autoplay-media-menu = Untuk situs web yang memutar suara otomatis
+permissions-block-autoplay-media2 =
+    .label = Blokir situs web yang memutar suara secara otomatis
+    .accesskey = B
 permissions-block-autoplay-media-exceptions =
     .label = Pengecualian…
     .accesskey = l

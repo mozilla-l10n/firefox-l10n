@@ -37,6 +37,7 @@
                        text for the search box.   -->
 <!ENTITY aboutPrivateBrowsing.search.placeholder         "Cari di Web">
 <!ENTITY aboutPrivateBrowsing.info.title                 "Anda berada di Jendela Pribadi">
+<!ENTITY aboutPrivateBrowsing.info.description           "&brandShortName; menghapus riwayat penjelajahan dan pencarian saat keluar dari aplikasi atau saat menutup semua tab dan jendela Penjelajahan Pribadi. Meskipun hal ini tidak membuat Anda menjadi anonim dalam situs web atau penyedia layanan internet, hal ini mempermudah Anda untuk menjaga apa yang Anda lakukan secara online agar tetap pribadi dari siapa pun yang menggunakan komputer ini.">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article
                        about private browsing myths.   -->
 <!ENTITY aboutPrivateBrowsing.info.myths                 "Mitos umum tentang penjelajahan pribadi">
