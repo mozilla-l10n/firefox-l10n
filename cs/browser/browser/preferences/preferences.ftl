@@ -125,9 +125,9 @@ startup-header = Spuštění
 # since this setting is only exposed in Firefox Developer Edition
 separate-profile-mode =
     .label = Povolit současné spuštění aplikací { -brand-short-name } a Firefox
-use-firefox-sync = Tip: Budou použity oddělené uživatelské profily. Pro sdílení dat mezi nimi můžete použít službu { -sync-brand-short-name }.
-get-started-not-logged-in = Přihlášení k { -sync-brand-short-name }…
-get-started-configured = Otevřít předvolby služby { -sync-brand-short-name }
+use-firefox-sync = Tip: Budou použity oddělené uživatelské profily. Pro sdílení dat mezi nimi můžete použít { -sync-brand-short-name(case: "acc") }.
+get-started-not-logged-in = Přihlášení k { -sync-brand-short-name(case: "dat") }…
+get-started-configured = Otevřít nastavení { -sync-brand-short-name(case: "gen") }
 always-check-default =
     .label = Kontrolovat, jestli je { -brand-short-name } výchozím webovým prohlížečem
     .accesskey = w
