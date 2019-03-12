@@ -133,7 +133,7 @@ is-default = { -brand-short-name } hazırda əsas səyyahınızdır
 is-not-default = { -brand-short-name } əsas səyyahınız deyil
 set-as-my-default-browser =
     .label = Əsas səyyahım et…
-    .accesskey = D
+    .accesskey = m
 startup-restore-previous-session =
     .label = Əvvəlki sessiyanı bərpa et
     .accesskey = s
@@ -260,7 +260,7 @@ applications-action-column =
 drm-content-header = Rəqəmsal Hüquqların İdarəsi (DRM) Məzmunu
 play-drm-content =
     .label = DRM-idarəli məzmunu oxut (güvənilir deyil)
-    .accesskey = P
+    .accesskey = o
 play-drm-content-learn-more = Ətraflı öyrən
 update-application-title = { -brand-short-name } yeniləmələri
 update-application-description = Yaxşı məhsuldarlıq, sabitlik və təhlükəsizlik üçün { -brand-short-name } səyyahını daima yeni tutun.
@@ -409,7 +409,7 @@ search-choose-keyword-column =
     .label = Açar söz
 search-restore-default =
     .label = İlkin axtarış nizamlarını bərpa et
-    .accesskey = D
+    .accesskey = b
 search-remove-engine =
     .label = Sil
     .accesskey = S
@@ -460,7 +460,7 @@ sync-profile-picture =
     .tooltiptext = Profil şəklini dəyiş
 sync-disconnect =
     .label = Ayrıl…
-    .accesskey = D
+    .accesskey = y
 sync-manage-account = Hesabı idarə et
     .accesskey = o
 sync-signedin-unverified = { $email } təsdiqlənməyib.
@@ -516,10 +516,10 @@ sync-device-name-change =
     .accesskey = h
 sync-device-name-cancel =
     .label = Ləğv et
-    .accesskey = n
+    .accesskey = L
 sync-device-name-save =
     .label = Saxla
-    .accesskey = v
+    .accesskey = S
 sync-mobilepromo-single = Digər cihazı qoş
 sync-mobilepromo-multi = Cihazları idarə et
 sync-connect-another-device = Digər cihazı qoş
@@ -603,17 +603,18 @@ sitedata-total-size = Saxlanılan çərəz, sayt məlumatları və keşləriniz 
 sitedata-learn-more = Ətraflı öyrən
 sitedata-delete-on-close =
     .label = { -brand-short-name } qapatıldığında çərəzləri və sayt məlumatlarını sil
-    .accesskey = c
+    .accesskey = s
+sitedata-delete-on-close-private-browsing = Daimi məxfi səyahət rejimində çərəzlər və sayt məlumatları { -brand-short-name } hər qapatıldığında silinəcəklər.
 sitedata-allow-cookies-option =
     .label = Çərəz və sayt məlumatlarını qəbul et
     .accesskey = A
 sitedata-disallow-cookies-option =
     .label = Çərəz və sayt məlumatlarını əngəllə
-    .accesskey = B
+    .accesskey = l
 # This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
 # The list items are the strings named sitedata-block-*-option*.
 sitedata-block-desc = Əngəllənən növ
-    .accesskey = T
+    .accesskey = n
 sitedata-option-block-trackers =
     .label = Üçüncü-tərəf izləyicilər
 sitedata-clear =
@@ -624,7 +625,7 @@ sitedata-settings =
     .accesskey = M
 sitedata-cookies-permissions =
     .label = İcazələri idarə et…
-    .accesskey = P
+    .accesskey = i
 
 ## Privacy Section - Address Bar
 
@@ -710,20 +711,9 @@ permissions-notification-link = Ətraflı öyrən
 permissions-notification-pause =
     .label = { -brand-short-name } yenidən başladılana qədər bildirişləri dayandır
     .accesskey = n
-permissions-block-autoplay-media =
-    .label = Saytların səsli medianı avtomatik oxutmalarını əngəllə
-    .accesskey = B
-permissions-block-autoplay-media-menu = Səsi avtomatik oxudan saytlar üçün
 permissions-block-autoplay-media-exceptions =
     .label = İstisnalar…
     .accesskey = s
-autoplay-option-ask =
-    .label = Həmişə soruş
-autoplay-option-allow =
-    .label = Avto oxutmaya icazə ver
-autoplay-option-dont =
-    .label = Avtomatik oxutma
-permissions-autoplay-link = Ətraflı öyrən
 permissions-block-popups =
     .label = Peyda olan pəncərələri blokla
     .accesskey = b
@@ -757,10 +747,6 @@ addon-recommendations-link = Ətraflı öyrən
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Bu quraşdırmanın konfiqurasiyasında məlumat xəbərdarlığı söndürülüb
-collection-browser-errors =
-    .label = { -brand-short-name } səyyahına xəta hesabatlarını (xəta mesajları da daxil olmaqla) { -vendor-short-name }ya göndərməsinə icazə ver
-    .accesskey = b
-collection-browser-errors-link = Ətraflı öyrən
 collection-backlogged-crash-reports =
     .label = { -brand-short-name } səyyahına sizin adınıza yığılmış çəkmə hesabatlarını göndərməyə icazə ver
     .accesskey = c
@@ -782,7 +768,7 @@ security-block-downloads =
     .accesskey = d
 security-block-uncommon-software =
     .label = İstənməyən və ümumi olmayan proqramlar haqqında xəbərdar olun
-    .accesskey = C
+    .accesskey = o
 
 ## Privacy Section - Certificates
 
@@ -824,7 +810,7 @@ space-alert-over-5gb-message =
     }
 space-alert-under-5gb-ok-button =
     .label = Tamam, başa düşdüm
-    .accesskey = K
+    .accesskey = T
 space-alert-under-5gb-message = { -brand-short-name } səyyahının diskdə yaddaşı dolur. Sayt məzmunları səhv göstərilə bilər. Daha yaxşı internet səyahəti təcrübəsi üçün “Ətraflı Öyrən”-i ziyarət edərək disk istifadənizi optimallaşdıra bilərsiz.
 
 ## The following strings are used in the Download section of settings
