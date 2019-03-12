@@ -5,5 +5,6 @@
 restart-required-title = Berrabiarazi egin behar da
 restart-required-header = Barkatu, gauzatxo bat egin behar dugu jarraitu ahal izateko.
 restart-required-intro = Eguneraketa bat instalatu berri dugu atzeko planoan. Egin klik 'Berrabiarazi { -brand-short-name }' botoian eguneraketa aplikatzen amaitzeko.
+restart-required-intro-brand = { -brand-short-name } atzeko planoan eguneratu berri da. Egin klik 'Berrabiarazi { -brand-short-name }' botoian eguneraketa burutzeko.
 restart-required-description = Zure orri, leiho eta fitxa guztiak berreskuratuko ditugu gero, ari zinenarekin azkar jarraitu ahal dezazun.
 restart-button-label = Berrabiarazi { -brand-short-name }
