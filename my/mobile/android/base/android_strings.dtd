@@ -63,6 +63,12 @@
 <!ENTITY  crash_restart_label "&brandShortName; ကို ပြန်ဖွင့်ပါ">
 
 <!ENTITY url_bar_default_text2 "ရှာဖွေ (သို့) လိပ်စာ ထည့်သွင်းပါ">
+
+<!-- Localization note: this text will be displayed in the Search Widget -->
+<!ENTITY search_widget_default_text "ဝဘ်တွင် ရှာဖွေပါ">
+<!ENTITY search_widget_default_cropped_text "ရှာဖွေပါ">
+<!ENTITY search_widget_logo_description "&brandShortName; ကို အသုံးပြုပြီး ဝဘ်တွင် ရှာဖွေပါ">
+
 <!-- Localization note (url_bar_qrcode_text2) : This text will be
      heard by non-visual users when the focus is on the QR Code
      icon in the url bar. -->
@@ -290,12 +296,6 @@
 <!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
      Similar to the already existing "pref_whats_new_notification_summary"-->
 <!ENTITY pref_feature_tips_notification_summary "&brandShortName; နှင့် အခြား &vendorShortName; ထုတ်ကုန်များ အသုံးပြုခြင်းအကြောင်း ပိုမိုလေ့လာပါ">
-
-<!-- Localization note (pref_feature_tips_notification_enabling_hint):
-     Describe the action the user should do to enable this preference
-     Will be used in the context "<Turn on> ... to enable this feature" -->
-<!ENTITY pref_feature_tips_notification_enabling_hint "ဖွင့်ပါ">
-
 <!-- Localization note (pref_feature_tips_notification_enabling_path):
      Nothing to translate. Simple concatenation of already localized strings. Result is used below. -->
 <!ENTITY pref_feature_tips_notification_enabling_path "&pref_category_privacy_short; > &pref_category_datareporting; > &datareporting_fhr_title;">
@@ -399,7 +399,6 @@
 <!ENTITY pref_private_data_searchHistory "ရှာဖွေမှု မှတ်တမ်း">
 <!ENTITY pref_private_data_formdata2 "ဖောင်ဖြည့် မှတ်တမ်း">
 <!ENTITY pref_private_data_cookies2 "ကွတ်ကီးများ နှင့် လက်ရှိဝင်ရောက်မှုများ">
-<!ENTITY pref_private_data_passwords2 "သိမ်းထားသော ဝင်ရောက်မှုများ">
 <!ENTITY pref_private_data_cache "ယာယီမှတ်တမ်း">
 <!ENTITY pref_private_data_offlineApps "ချိတ်ဆက်မဲ့သုံး အချက်အလက်">
 <!ENTITY pref_private_data_siteSettings2 "ဆိုဒ်ဆိုင်ရာ အပြင်အဆင်များ">
@@ -844,8 +843,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY whatsnew_notification_title "&brandShortName; သည် နောက်ဆုံးပေါ် ဖြစ်သည်">
 <!ENTITY whatsnew_notification_summary "ဒီဗားရှင်းမှာ ဘာတွေအသစ်ပါလာလဲဆိုတာကို ကြည့်ရှုပါ">
 
-<!ENTITY promotion_add_page_shortcut "စာမျက်နှာအမြန်ဖွင့်ခလုတ် ထည့်ပါ">
-
 <!ENTITY helper_first_offline_bookmark_title "အော့ဖ်လိုင်းတွင် ဖတ်ပါ">
 <!ENTITY helper_first_offline_bookmark_message "အင်တာနက်မရှိပဲနှင့်လည်း စာဖတ်အမြင်ထဲရှိ အကြောင်းအရာတို့ကို စာမှတ်များထဲတွင် ရှာနိုင်သည်။">
 <!ENTITY helper_first_offline_bookmark_button "စာမှတ်များသို့ သွားပါ">
@@ -904,15 +901,9 @@ Picture-in-picture mini window -->
 <!ENTITY pip_pause_button_description "ဖွင့်ထားခြင်းကို ခေတ္တရပ်တန့်ပါ">
 
 <!-- Notification channels names -->
-<!ENTITY default_notification_channel "&brandShortName;">
-
-<!-- Notification channels names -->
 <!ENTITY default_notification_channel2 "ဘရောက်ဇာ">
 <!ENTITY mls_notification_channel "&vendorShortName; Location Service">
 <!ENTITY download_notification_channel "ဆွဲယူထားသည့်ဖိုင်များ">
-<!ENTITY media_notification_channel "မီဒီယာဖွင့်ခြင်း">
-<!-- These push notifications come without a specific channel and/or name from Leanplum -->
-<!ENTITY leanplum_default_notifications_channel "&brandShortName; တွန်းပို့အသိပေးချက်များ">
 <!ENTITY media_notification_channel2 "အသံနှင့်ဗီဒီယို">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel2 "&vendorShortName; အကြံပေးချက်များနှင့်လှည့်ကွက်">
