@@ -63,6 +63,12 @@
 <!ENTITY  crash_restart_label "&brandShortName; baştan başlasın">
 
 <!ENTITY url_bar_default_text2 "Arama yapın veya adres yazın">
+
+<!-- Localization note: this text will be displayed in the Search Widget -->
+<!ENTITY search_widget_default_text "Web’de ara">
+<!ENTITY search_widget_default_cropped_text "Arama">
+<!ENTITY search_widget_logo_description "&brandShortName; ile web’de ara">
+
 <!-- Localization note (url_bar_qrcode_text2) : This text will be
      heard by non-visual users when the focus is on the QR Code
      icon in the url bar. -->
@@ -290,12 +296,6 @@
 <!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
      Similar to the already existing "pref_whats_new_notification_summary"-->
 <!ENTITY pref_feature_tips_notification_summary "&brandShortName; kullanımı ve diğer &vendorShortName; ürünleriyle ilgili daha fazla bilgi alın">
-
-<!-- Localization note (pref_feature_tips_notification_enabling_hint):
-     Describe the action the user should do to enable this preference
-     Will be used in the context "<Turn on> ... to enable this feature" -->
-<!ENTITY pref_feature_tips_notification_enabling_hint "Aç">
-
 <!-- Localization note (pref_feature_tips_notification_enabling_path):
      Nothing to translate. Simple concatenation of already localized strings. Result is used below. -->
 <!ENTITY pref_feature_tips_notification_enabling_path "&pref_category_privacy_short; > &pref_category_datareporting; > &datareporting_fhr_title;">
@@ -399,7 +399,6 @@
 <!ENTITY pref_private_data_searchHistory "Arama geçmişi">
 <!ENTITY pref_private_data_formdata2 "Form geçmişi">
 <!ENTITY pref_private_data_cookies2 "Çerezler ve aktif oturumlar">
-<!ENTITY pref_private_data_passwords2 "Kayıtlı hesaplar">
 <!ENTITY pref_private_data_cache "Önbellek">
 <!ENTITY pref_private_data_offlineApps "Çevrimdışı web sitesi verileri">
 <!ENTITY pref_private_data_siteSettings2 "Site ayarları">
@@ -844,8 +843,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY whatsnew_notification_title "&brandShortName; güncel">
 <!ENTITY whatsnew_notification_summary "Bu sürümdeki yenilikleri öğrenin">
 
-<!ENTITY promotion_add_page_shortcut "Sayfa kısayolu ekle">
-
 <!ENTITY helper_first_offline_bookmark_title "Çevrimdışı oku">
 <!ENTITY helper_first_offline_bookmark_message "Çevrimdışı olsanız bile Okuyucu Görünümü öğelerinizi yer imlerinde bulabilirsiniz.">
 <!ENTITY helper_first_offline_bookmark_button "Yer imlerine git">
@@ -904,15 +901,9 @@ Picture-in-picture mini window -->
 <!ENTITY pip_pause_button_description "Oynatmayı duraklat">
 
 <!-- Notification channels names -->
-<!ENTITY default_notification_channel "&brandShortName;">
-
-<!-- Notification channels names -->
 <!ENTITY default_notification_channel2 "Tarayıcı">
 <!ENTITY mls_notification_channel "&vendorShortName; Konum Hizmeti">
 <!ENTITY download_notification_channel "İndirilenler">
-<!ENTITY media_notification_channel "Medya oynatma">
-<!-- These push notifications come without a specific channel and/or name from Leanplum -->
-<!ENTITY leanplum_default_notifications_channel "&brandShortName; push bildirimleri">
 <!ENTITY media_notification_channel2 "Ses ve video">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel2 "&vendorShortName; ipuçları ve püf noktaları">
