@@ -3,9 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label       "Tổng quát">
+<!ENTITY dataChoicesTab.label    "Lựa chọn dữ liệu">
 <!ENTITY itemUpdate.label        "Cập nhật">
-<!ENTITY itemNetworking.label    "Mạng &amp; Dung lượng Đĩa">
-<!ENTITY itemCertificates.label  "Chứng thư">
+<!ENTITY itemNetworking.label    "Mạng &amp; dung lượng trống">
+<!ENTITY itemCertificates.label  "Chứng chỉ">
 
 <!-- General Settings -->
 <!ENTITY enableGlodaSearch.label       "Enable Global Search and Indexer">
@@ -66,11 +67,14 @@
 <!ENTITY clearCacheNow.accesskey         "a">
 
 <!-- Certificates -->
-<!ENTITY certSelection.description       "Khi một máy chủ yêu cầu chứng thư cá nhân của tôi:">
+<!ENTITY certSelection.description       "Khi một máy chủ yêu cầu chứng chỉ cá nhân của tôi:">
 <!ENTITY certs.auto                      "Tự động chọn một cái">
 <!ENTITY certs.auto.accesskey            "n">
 <!ENTITY certs.ask                       "Hỏi tôi mỗi lần">
 <!ENTITY certs.ask.accesskey             "H">
+<!ENTITY enableOCSP.label                "Truy vấn máy chủ đáp ứng giao thức OCSP để xác minh hiệu lực của các chứng chỉ">
 
+<!ENTITY manageCertificates.label "Quản lý chứng chỉ">
+<!ENTITY manageCertificates.accesskey "M">
 <!ENTITY viewSecurityDevices.label "Thiết bị Bảo mật">
 <!ENTITY viewSecurityDevices.accesskey "B">
