@@ -4,7 +4,6 @@
 
 <!--LOCALIZATION NOTE shown while obtaining certificates from a directory -->
 
-<!ENTITY title.label "Downloading Certificates">
-<!ENTITY info.message "Đang tìm chứng thư của người nhận trong thư mục. Có thể sẽ mất vài phút.">
+<!ENTITY title.label "Đang tải xuống chứng chỉ">
+<!ENTITY info.message "Đang tìm chứng chỉ của người nhận trong thư mục. Có thể sẽ mất vài phút.">
 <!ENTITY stop.label "Dừng tìm kiếm">
-

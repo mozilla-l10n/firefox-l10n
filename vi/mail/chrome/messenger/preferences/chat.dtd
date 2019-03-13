@@ -22,8 +22,10 @@ sentence. -->
 <!ENTITY  andSetStatusToAway.label      "và đặt trạng thái của tôi thành vắng với thông báo trạng thái này:">
 <!ENTITY  andSetStatusToAway.accesskey  "A">
 
+<!ENTITY  sendTyping.label              "Gửi thông báo về việc gõ trong các cuộc hội thoại">
 <!ENTITY  sendTyping.accesskey          "t">
 
+<!ENTITY  chatNotifications.label             "Khi có tin nhắn đến:">
 <!ENTITY  desktopChatNotifications.label      "Hiển thị thông báo:">
 <!ENTITY  desktopChatNotifications.accesskey  "c">
 <!ENTITY  completeNotification.label          "với tên người xem và tin nhắn xem trước">

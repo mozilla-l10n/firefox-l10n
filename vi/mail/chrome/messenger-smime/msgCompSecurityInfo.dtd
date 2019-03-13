@@ -9,11 +9,10 @@
 <!ENTITY status.heading "Nội dung thư của bạn sẽ được gửi như sau:">
 <!ENTITY status.signed "Chữ kí điện tử:">
 <!ENTITY status.encrypted "Mã hóa:">
-<!ENTITY status.certificates "Chứng thư:">
+<!ENTITY status.certificates "Chứng chỉ:">
 <!ENTITY view.label "Hiển thị">
 <!ENTITY view.accesskey "H">
 <!ENTITY tree.recipient "Người nhận">
 <!ENTITY tree.status "Trạng thái">
 <!ENTITY tree.issuedDate "Phát hành">
 <!ENTITY tree.expiresDate "Hết hạn">
-
