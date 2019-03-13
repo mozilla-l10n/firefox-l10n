@@ -399,7 +399,6 @@
 <!ENTITY pref_private_data_searchHistory "Zoekgeschiedenis">
 <!ENTITY pref_private_data_formdata2 "Formuliergeschiedenis">
 <!ENTITY pref_private_data_cookies2 "Cookies &amp; actieve aanmeldingen">
-<!ENTITY pref_private_data_passwords2 "Opgeslagen aanmeldingen">
 <!ENTITY pref_private_data_cache "Buffer">
 <!ENTITY pref_private_data_offlineApps "Offlinewebsitegegevens">
 <!ENTITY pref_private_data_siteSettings2 "Website-instellingen">
