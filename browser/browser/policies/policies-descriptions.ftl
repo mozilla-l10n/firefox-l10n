@@ -49,6 +49,7 @@ policy-EnableTrackingProtection = Ota käyttöön tai poista käytöstä sisäll
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
 policy-Extensions = Asenna, poista tai lukitse laajennuksia. Asennusasetus ottaa parametreiksi URL-osoitteita tai polkuja. Poisto- ja lukitsemisasetukset ottavat parametreiksi laajennusten ID:itä.
+policy-ExtensionUpdate = Ota käyttöön tai poista käytöstä laajennusten automaattipäivitykset.
 policy-FlashPlugin = Salli tai estä Flash-liitännäisen käyttö.
 policy-HardwareAcceleration = Jos epätosi, poista laitteistokiihdytys käytöstä.
 # “lock” means that the user won’t be able to change this setting
@@ -69,5 +70,6 @@ policy-SearchEngines = Aseta hakukoneasetukset. Tämä käytäntö on käytettä
 policy-SecurityDevices = Asenna PKCS #11 -moduulit.
 policy-SSLVersionMax = Aseta SSL:n enimmäisversio.
 policy-SSLVersionMin = Aseta SSL:n vähimmäisversio.
+policy-SupportMenu = Lisää Ohje-valikkoon oma valikkokohta tukea varten.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Estä sivustojen avaaminen. Katso ohjeista lisätietoja käyttötavasta.
