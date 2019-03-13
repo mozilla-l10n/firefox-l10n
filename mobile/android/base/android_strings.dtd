@@ -63,6 +63,11 @@
 <!ENTITY  crash_restart_label "&brandShortName; পুনরায় চালু করুন">
 
 <!ENTITY url_bar_default_text2 "অনুসন্ধান বা ঠিকানা দিন">
+
+<!-- Localization note: this text will be displayed in the Search Widget -->
+<!ENTITY search_widget_default_text "ওয়েবে অনুসন্ধান করুন">
+<!ENTITY search_widget_default_cropped_text "অনুসন্ধান">
+
 <!-- Localization note (url_bar_qrcode_text2) : This text will be
      heard by non-visual users when the focus is on the QR Code
      icon in the url bar. -->
@@ -290,12 +295,6 @@
 <!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
      Similar to the already existing "pref_whats_new_notification_summary"-->
 <!ENTITY pref_feature_tips_notification_summary "&brandShortName; এবং অনান্য &vendorShortName; পণ্য ব্যবহার সম্পর্কে আরও জানুন">
-
-<!-- Localization note (pref_feature_tips_notification_enabling_hint):
-     Describe the action the user should do to enable this preference
-     Will be used in the context "<Turn on> ... to enable this feature" -->
-<!ENTITY pref_feature_tips_notification_enabling_hint "চালু করুন">
-
 <!-- Localization note (pref_feature_tips_notification_enabling_path):
      Nothing to translate. Simple concatenation of already localized strings. Result is used below. -->
 <!ENTITY pref_feature_tips_notification_enabling_path "&pref_category_privacy_short; > &pref_category_datareporting; > &datareporting_fhr_title;">
@@ -399,7 +398,6 @@
 <!ENTITY pref_private_data_searchHistory "অনুসন্ধান ইতিহাস">
 <!ENTITY pref_private_data_formdata2 "ফর্মের ইতিহাস">
 <!ENTITY pref_private_data_cookies2 "কুকি এবং সক্রিয় লগইন">
-<!ENTITY pref_private_data_passwords2 "সংরক্ষিত লগইন">
 <!ENTITY pref_private_data_cache "ক্যাশ">
 <!ENTITY pref_private_data_offlineApps "অফলাইন ওয়েবসাইটের তথ্য">
 <!ENTITY pref_private_data_siteSettings2 "সাইটের সেটিং">
@@ -844,8 +842,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY whatsnew_notification_title "&brandShortName; হালনাগাদ করা হয়েছে">
 <!ENTITY whatsnew_notification_summary "এই সংস্করণে নতুন কি আছে খুঁজে বের করুন">
 
-<!ENTITY promotion_add_page_shortcut "পাতার সর্টকাট যোগ করুন">
-
 <!ENTITY helper_first_offline_bookmark_title "অফলাইনে পড়ুন">
 <!ENTITY helper_first_offline_bookmark_message "আপনার পাঠক প্রদর্শন আইটেম বুকমার্কসহ অফলাইনে দেখুন।">
 <!ENTITY helper_first_offline_bookmark_button "বুকমার্কে যাও">
@@ -904,15 +900,9 @@ Picture-in-picture mini window -->
 <!ENTITY pip_pause_button_description "চালানো বন্ধ কর">
 
 <!-- Notification channels names -->
-<!ENTITY default_notification_channel "&brandShortName;">
-
-<!-- Notification channels names -->
 <!ENTITY default_notification_channel2 "ব্রাউজার">
 <!ENTITY mls_notification_channel "&vendorShortName; লোকেশন সার্ভিস">
 <!ENTITY download_notification_channel "ডাউনলোডসমূহ">
-<!ENTITY media_notification_channel "মিডিয়া প্লেব্যাক">
-<!-- These push notifications come without a specific channel and/or name from Leanplum -->
-<!ENTITY leanplum_default_notifications_channel "&brandShortName; পুশ নোটিফিকেশন">
 <!ENTITY media_notification_channel2 "শব্দ ও ভিডিও">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel2 "&vendorShortName; কৌশল ও পরামর্শ">
