@@ -63,6 +63,12 @@
 <!ENTITY  crash_restart_label "Restartovat &brandShortName;">
 
 <!ENTITY url_bar_default_text2 "Zadejte adresu nebo dotaz pro vyhledávač">
+
+<!-- Localization note: this text will be displayed in the Search Widget -->
+<!ENTITY search_widget_default_text "Vyhledat na webu">
+<!ENTITY search_widget_default_cropped_text "Vyhledat">
+<!ENTITY search_widget_logo_description "Vyhledávání na webu s aplikací &brandShortName;">
+
 <!-- Localization note (url_bar_qrcode_text2) : This text will be
      heard by non-visual users when the focus is on the QR Code
      icon in the url bar. -->
@@ -290,11 +296,6 @@
 <!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
      Similar to the already existing "pref_whats_new_notification_summary"-->
 <!ENTITY pref_feature_tips_notification_summary "Zjistěte více o používání aplikace &brandShortName; a dalších produktech společnosti &vendorShortName;">
-<!-- Localization note (pref_feature_tips_notification_enabling_hint):
-     Describe the action the user should do to enable this preference
-     Will be used in the context "<Turn on> ... to enable this feature" -->
-<!ENTITY pref_feature_tips_notification_enabling_hint "Zapnout">
-
 <!-- Localization note (pref_feature_tips_notification_enabling_path):
      Nothing to translate. Simple concatenation of already localized strings. Result is used below. -->
 <!ENTITY pref_feature_tips_notification_enabling_path "&pref_category_privacy_short; > &pref_category_datareporting; > &datareporting_fhr_title;">
@@ -398,7 +399,6 @@
 <!ENTITY pref_private_data_searchHistory "Historie vyhledávání">
 <!ENTITY pref_private_data_formdata2 "Historie formulářů">
 <!ENTITY pref_private_data_cookies2 "Cookies a aktivní přihlášení">
-<!ENTITY pref_private_data_passwords2 "Uložené přihlašovací údaje">
 <!ENTITY pref_private_data_cache "Mezipaměť">
 <!ENTITY pref_private_data_offlineApps "Offline data">
 <!ENTITY pref_private_data_siteSettings2 "Nastavení serveru">
@@ -901,15 +901,9 @@ Picture-in-picture mini window -->
 <!ENTITY pip_pause_button_description "Pozastavit přehrávání">
 
 <!-- Notification channels names -->
-<!ENTITY default_notification_channel "&brandShortName;">
-
-<!-- Notification channels names -->
 <!ENTITY default_notification_channel2 "Prohlížeč">
 <!ENTITY mls_notification_channel "Geolokační služba &vendorShortName;">
 <!ENTITY download_notification_channel "Stahování">
-<!ENTITY media_notification_channel "Přehrávání médií">
-<!-- These push notifications come without a specific channel and/or name from Leanplum -->
-<!ENTITY leanplum_default_notifications_channel "Oznámení z aplikace &brandShortName;">
 <!ENTITY media_notification_channel2 "Zvuk a video">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel2 "Tipy pro &vendorShortName;">

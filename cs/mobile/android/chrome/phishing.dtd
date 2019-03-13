@@ -21,7 +21,7 @@
 <!ENTITY safeb.blocked.unwantedPage.title "Nahlášená stránka s nežádoucím softwarem!">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Tato webová stránka na serveru <span id='unwanted_sitename'/> byla nahlášena jako stránka s nežádoucím softwarem a byla zablokována na základě vašeho bezpečnostního nastavení.">
-<!ENTITY safeb.blocked.unwantedPage.longDesc "Nežádoucí stránka se software se pokouší nainstalovat software, který může být klamavý a ovlivnit váš systém neočekávanými způsoby.">
+<!ENTITY safeb.blocked.unwantedPage.longDesc "Stránky s nežádoucím softwarem se pokouší nainstalovat software, který může být klamavý a může nečekaným způsobem ovlivnit váš systém.">
 
 <!ENTITY safeb.blocked.harmfulPage.title "Tato stránka může obsahovat malware">
 <!ENTITY safeb.blocked.harmfulPage.shortDesc "Aplikace &brandShortName; zablokovala tuto stránku, protože se může pokoušet nainstalovat nebezpečné programy a ukrást nebo smazat vaše data (např. fotografie, hesla, zprávy nebo číslo platební karty).">
