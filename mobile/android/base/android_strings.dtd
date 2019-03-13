@@ -67,6 +67,7 @@
 <!-- Localization note: this text will be displayed in the Search Widget -->
 <!ENTITY search_widget_default_text "ওয়েবে অনুসন্ধান করুন">
 <!ENTITY search_widget_default_cropped_text "অনুসন্ধান">
+<!ENTITY search_widget_logo_description "&brandShortName; দিয়ে ওয়েবে অনুসন্ধান করুন">
 
 <!-- Localization note (url_bar_qrcode_text2) : This text will be
      heard by non-visual users when the focus is on the QR Code
