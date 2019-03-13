@@ -63,6 +63,12 @@
 <!ENTITY  crash_restart_label "เริ่มการทำงาน &brandShortName; ใหม่">
 
 <!ENTITY url_bar_default_text2 "ค้นหาหรือป้อนที่อยู่">
+
+<!-- Localization note: this text will be displayed in the Search Widget -->
+<!ENTITY search_widget_default_text "ค้นหาเว็บ">
+<!ENTITY search_widget_default_cropped_text "ค้นหา">
+<!ENTITY search_widget_logo_description "ค้นหาเว็บด้วย &brandShortName;">
+
 <!-- Localization note (url_bar_qrcode_text2) : This text will be
      heard by non-visual users when the focus is on the QR Code
      icon in the url bar. -->
@@ -290,11 +296,6 @@
 <!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
      Similar to the already existing "pref_whats_new_notification_summary"-->
 <!ENTITY pref_feature_tips_notification_summary "เรียนรู้เพิ่มเติมเกี่ยวกับการใช้ &brandShortName; และผลิตภัณฑ์ &vendorShortName; อื่น ๆ">
-<!-- Localization note (pref_feature_tips_notification_enabling_hint):
-     Describe the action the user should do to enable this preference
-     Will be used in the context "<Turn on> ... to enable this feature" -->
-<!ENTITY pref_feature_tips_notification_enabling_hint "เปิด">
-
 <!-- Localization note (pref_feature_tips_notification_enabling_path):
      Nothing to translate. Simple concatenation of already localized strings. Result is used below. -->
 <!ENTITY pref_feature_tips_notification_enabling_path "&pref_category_privacy_short; > &pref_category_datareporting; > &datareporting_fhr_title;">
@@ -398,7 +399,6 @@
 <!ENTITY pref_private_data_searchHistory "ประวัติการค้นหา">
 <!ENTITY pref_private_data_formdata2 "ประวัติแบบฟอร์ม">
 <!ENTITY pref_private_data_cookies2 "คุกกี้และการเข้าสู่ระบบที่ใช้งานอยู่">
-<!ENTITY pref_private_data_passwords2 "การเข้าสู่ระบบที่บันทึกไว้">
 <!ENTITY pref_private_data_cache "แคช">
 <!ENTITY pref_private_data_offlineApps "ข้อมูลเว็บไซต์ออฟไลน์">
 <!ENTITY pref_private_data_siteSettings2 "การตั้งค่าไซต์">
@@ -901,15 +901,9 @@ Picture-in-picture mini window -->
 <!ENTITY pip_pause_button_description "หยุดเล่นชั่วคราว">
 
 <!-- Notification channels names -->
-<!ENTITY default_notification_channel "&brandShortName;">
-
-<!-- Notification channels names -->
 <!ENTITY default_notification_channel2 "เบราว์เซอร์">
 <!ENTITY mls_notification_channel "บริการตำแหน่งที่ตั้งของ &vendorShortName;">
 <!ENTITY download_notification_channel "การดาวน์โหลด">
-<!ENTITY media_notification_channel "การเล่นสื่อ">
-<!-- These push notifications come without a specific channel and/or name from Leanplum -->
-<!ENTITY leanplum_default_notifications_channel "การแจ้งเตือนแบบผลักของ &brandShortName;">
 <!ENTITY media_notification_channel2 "เสียงและวิดีโอ">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel2 "เคล็ดลับและเทคนิคของ &vendorShortName;">
