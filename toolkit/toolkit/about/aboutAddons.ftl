@@ -90,7 +90,7 @@ detail-update-manual =
     .tooltiptext = Güncellemeleri kendiliğinden kurma
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Gizli pencerede çalışabilir
-detail-private-browsing-description = Bu eklenti gizli pencelerde de çalışacak ve web’deki etkinliklerinize erişebilecek. <label data-l10n-name="detail-private-browsing-learn-more">Daha fazla bilgi alın</label>
+detail-private-browsing-description2 = Bu izni verdiğinizde eklenti, gizli gezinti sırasında yaptıklarınızı görebilecektir. <label data-l10n-name="detail-private-browsing-learn-more">Daha fazla bilgi alın</label>
 detail-private-browsing-on =
     .label = İzin ver
     .tooltiptext = Gizli gezintide izin ver

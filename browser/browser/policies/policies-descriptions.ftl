@@ -10,6 +10,7 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
+policy-3rdparty = WebExtension’ların chrome.storage.managed aracılığıyla ulaşabileceği ilkeleri ayarla.
 policy-AppUpdateURL = Özel uygulama güncelleme URL'si ayarla.
 policy-Authentication = Destekleyen web siteleri için bütünleşik kimlik doğrulamasını yapılandır.
 policy-BlockAboutAddons = Eklenti yöneticisine (about:addons) erişimi engelle.
