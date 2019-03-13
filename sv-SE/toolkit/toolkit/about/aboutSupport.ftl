@@ -48,8 +48,9 @@ app-basics-launcher-process-status = Uppstartsprocess
 app-basics-multi-process-support = Multiprocess fönster
 app-basics-process-count = Webbinnehållsprocesser
 app-basics-enterprise-policies = Företagspolicyer
-app-basics-key-google = Google-nyckel
-app-basics-key-mozilla = Mozilla Location Service-nyckel
+app-basics-location-service-key-google = Nyckel Google Location Service
+app-basics-safebrowsing-key-google = Nyckel Google Safe browsing
+app-basics-key-mozilla = Nyckel Mozilla Location Service
 app-basics-safe-mode = Felsäkert läge
 show-dir-label =
     { PLATFORM() ->
