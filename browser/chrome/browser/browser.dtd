@@ -215,6 +215,27 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenExit.label "Volledigschermmodus verlaten">
 <!ENTITY fullScreenExit.accesskey "d">
 
+ <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
+     for the Firefox Account toolbar signin menu screen. -->
+<!ENTITY fxa.signin.callout.label "Neem Firefox met u mee">
+<!ENTITY fxa.signin.description.label "Bereik uw bladwijzers, geschiedenis, wachtwoorden en andere instellingen op al uw apparaten.">
+<!ENTITY fxa.signin.button.label "&syncBrand.shortName.label; inschakelen…">
+
+<!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
+     for the Firefox Account toolbar unverified menu screen. -->
+<!ENTITY fxa.unverified.callout.label "Controleer uw e-mail">
+<!ENTITY fxa.unverified.description.label "U dient uw account te verifiëren voordat u kunt synchroniseren.">
+<!ENTITY fxa.unverified.button.label "&syncBrand.shortName.label;-instellingen openen…">
+
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbart menu screen. The `Signed in as` text is
+     followed by the user's email. -->
+<!ENTITY fxa.menu.signedInAs.label "Aangemeld als">
+<!ENTITY fxa.menu.manageAccount.label "Account beheren…">
+<!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label;-instellingen…">
+<!ENTITY fxa.menu.connectAnotherDevice.label "&syncedTabs.sidebar.connectAnotherDevice;">
+<!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
+
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring fullscreen.
@@ -409,6 +430,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "Voorkeuren">
 <!ENTITY preferencesCmdUnix.accesskey     "V">
+
+<!ENTITY logins.label                           "Aanmeldingen en wachtwoorden">
 
 <!ENTITY clearRecentHistory.label               "Recente geschiedenis wissen…">
 

@@ -21,7 +21,7 @@ onboarding-screenshots-title = Screenshots
 onboarding-screenshots-text = Maak, bewaar en deel schermafbeeldingen - zonder { -brand-short-name } te verlaten. Leg een gebied of een hele pagina vast terwijl u surft. Sla het daarna op voor makkelijke toegang en delen.
 
 onboarding-addons-title = Add-ons
-onboarding-addons-text = Voeg zelfs meer functies toe die { -brand-short-name } harder voor u laten werken. Vergelijk prijzen, bekijk het weerbericht of druk uw persoonlijkheid uit met een aangepast thema.
+onboarding-addons-text = Voeg nog meer functies toe die { -brand-short-name } harder voor u laten werken. Vergelijk prijzen, bekijk het weerbericht of druk uw persoonlijkheid uit met een aangepast thema.
 
 onboarding-ghostery-title = Ghostery
 onboarding-ghostery-text = Surf sneller, slimmer of veiliger met extensies zoals Ghostery, waarmee u vervelende advertenties kunt blokkeren.
