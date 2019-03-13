@@ -452,7 +452,7 @@ containers-remove-button =
 
 sync-signedout-caption = Wzejśo swój web sobu
 sync-signedout-description = Synchronizěrujśo swóje cytańske znamjenja, historiju, rejtarki, gronidła, dodanki a nastajenja mjazy wšymi wašymi rědami.
-sync-signedout-account-title = Z { -fxaccount-brand-name } zwězaś
+sync-signedout-account-title = Zwězaś z: { -fxaccount-brand-name }
 sync-signedout-account-create = Njamaśo konto? Zachopśo
     .accesskey = k
 sync-signedout-account-signin =
@@ -466,7 +466,7 @@ sync-signedout-account-signin =
 #
 # They can be moved within the sentence as needed to adapt
 # to your language, but should not be changed or translated.
-sync-mobile-promo = Firefox ześěgnuś za <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> abo <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a>, aby ze swójim mobilnym rědom synchronizěrował.
+sync-mobile-promo = Firefox za <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> abo <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> ześěgnuś, aby ze swójim mobilnym rědom synchronizěrował.
 
 ## Sync Section - Signed in
 
@@ -742,23 +742,12 @@ permissions-notification-link = Dalšne informacije
 permissions-notification-pause =
     .label = Z powěźeńkami pśestaś, daniž se { -brand-short-name } znowego njestartujo
     .accesskey = z
-permissions-block-autoplay-media =
-    .label = Websedłam zakazaś, medije ze zukom wótgraś
-    .accesskey = z
-permissions-block-autoplay-media-menu = Za websedła, kótarež zuk awtomatiski wótgrawaju
 permissions-block-autoplay-media2 =
     .label = Websedłam awtomatiske wótgrawanje zuka zawoboraś
     .accesskey = b
 permissions-block-autoplay-media-exceptions =
     .label = Wuwześa…
     .accesskey = u
-autoplay-option-ask =
-    .label = Pśecej se pšašaś
-autoplay-option-allow =
-    .label = Awtomatiske wótgrawanje dowóliś
-autoplay-option-dont =
-    .label = Awtomatiski njewótgraś
-permissions-autoplay-link = Dalšne informacije
 permissions-block-popups =
     .label = Wuskokujuce wokno blokěrowaś
     .accesskey = k
@@ -794,10 +783,6 @@ addon-recommendations-link = Dalšne informacije
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Datowe rozpšawjenje jo znjemóžnjone za toś tu programowu konfiguraciju
-collection-browser-errors =
-    .label = { -brand-short-name } dowóliś, { -vendor-short-name } zmólkowe rozpšawy (inkluziwnje zmólkowe powěźeńki) pósłaś
-    .accesskey = z
-collection-browser-errors-link = Dalšne informacije
 collection-backlogged-crash-reports =
     .label = { -brand-short-name } dowóliś, njewobźěłane wowaleńske rozpšawy we wašom mjenju pósłaś
     .accesskey = r
