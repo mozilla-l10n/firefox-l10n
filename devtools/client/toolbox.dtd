@@ -10,15 +10,6 @@
 <!ENTITY toggleToolboxF12.keycode          "VK_F12">
 <!ENTITY toggleToolboxF12.keytext          "F12">
 
-<!-- LOCALIZATION NOTE (browserToolboxErrorMessage): This is the label
-  -  shown next to error details when the Browser Toolbox is unable to open. -->
-<!ENTITY browserToolboxErrorMessage          "Грешка при отваряне на кутията с инструменти за четеца:">
-
-<!-- LOCALIZATION NOTE (browserToolboxStatusMessage): This is the label
-  -  shown next to status details when the Browser Toolbox fails to connect or
-  -  appears to be taking a while to do so. -->
-<!ENTITY browserToolboxStatusMessage "Състояние на връзката на кутията с инструменти на четеца:">
-
 <!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
   -  the heading of the advanced settings group in the options panel. -->
 <!ENTITY options.context.advancedSettings "Настройки за напреднали">
@@ -84,7 +75,7 @@
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
-<!ENTITY options.enableRemote.label3    "Включване отдалеченото дебъгване">
+<!ENTITY options.enableRemote.label3    "Отдалечено дебъгване">
 <!ENTITY options.enableRemote.tooltip2  "Включването на тази настройка ще ви позволи да използвате развойните инструменти за дебъгване на отдалечени екземпляри на Firefox, като Firefox OS">
 
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
@@ -119,7 +110,7 @@
 <!-- LOCALIZATION NOTE (options.selectEnabledToolboxButtons.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tool buttons. -->
-<!ENTITY options.selectEnabledToolboxButtons.label     "Налични бутони за лентата с инструменти">
+<!ENTITY options.selectEnabledToolboxButtons.label     "Бутони за лентата с инструменти">
 
 <!-- LOCALIZATION NOTE (options.toolNotSupported.label): This is the label for
   -  the explanation of the * marker on a tool which is currently not supported
@@ -142,7 +133,7 @@
 
 <!-- LOCALIZATION NOTE (options.timestampMessages.label): This is the
    - label for the checkbox that toggles timestamps in the Web Console -->
-<!ENTITY options.timestampMessages.label      "Показване на времеви маркер">
+<!ENTITY options.timestampMessages.label      "Извеждане на времеви маркер">
 <!ENTITY options.timestampMessages.tooltip    "Ако е отметнато командите и изхода от уеб конзолата ще извеждат времеви маркер">
 
 <!-- LOCALIZATION NOTE (options.debugger.label): This is the label for the

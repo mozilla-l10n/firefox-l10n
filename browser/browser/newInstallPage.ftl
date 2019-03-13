@@ -8,3 +8,4 @@
 ### given Firefox channel". These terms are not synonymous.
 
 title = Важни новини
+heading = Промени в профила на { -brand-short-name }
