@@ -9,6 +9,7 @@ accounts-incoming-server = เซิร์ฟเวอร์ขาเข้า
 accounts-outgoing-servers = เซิร์ฟเวอร์ขาออก
 accounts-server-name = ชื่อ
 accounts-conn-security = ความปลอดภัยของการเชื่อมต่อ
+accounts-auth-method = วิธีการรับรองความถูกต้อง
 accounts-default = ค่าเริ่มต้น?
 identity-name = ข้อมูลประจำตัว
 send-via-email = ส่งผ่านอีเมล
