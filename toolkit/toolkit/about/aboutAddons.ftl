@@ -146,7 +146,7 @@ private-browsing-description2 =
     funzionamento sia stato consentito nelle impostazioni. Questa modifica è
     stata introdotta per garantire la riservatezza dei dati di navigazione
     quando si utilizzano finestre anonime.
-    <label data-l10n-name="private-browsing-learn-more">Scopri come gestire le impostazioni delle estensioni.</label>
+    <label data-l10n-name="private-browsing-learn-more">Scopri come gestire le impostazioni delle estensioni</label>
 extensions-view-discover =
     .name = Esplora
     .tooltiptext = { extensions-view-discover.name }
