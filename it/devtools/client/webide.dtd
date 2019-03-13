@@ -46,7 +46,7 @@
 <!ENTITY viewMenu_zoomin_accesskey "A">
 <!ENTITY viewMenu_zoomout_label "Riduci zoom">
 <!ENTITY viewMenu_zoomout_accesskey "R">
-<!ENTITY viewMenu_resetzoom_label "Ripristina zoom">
+<!ENTITY viewMenu_resetzoom_label "Reimposta zoom">
 <!ENTITY viewMenu_resetzoom_accesskey "i">
 <!ENTITY projectButton_label "Apri app">
 <!ENTITY runtimeButton_label "Seleziona runtime">
