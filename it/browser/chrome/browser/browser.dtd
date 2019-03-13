@@ -772,7 +772,7 @@
 <!ENTITY addonPostInstall.incognito.checkbox.accesskey "C">
 <!ENTITY addonPrivateBrowsing.header2.label "Cambiamenti relativi alle estensioni in finestre anonime">
 <!ENTITY addonPrivateBrowsing.body2.label "Qualunque estensione aggiunta a &brandShorterName; non funzionerà in finestre anonime a meno che non venga garantito il permesso nelle impostazioni.">
-<!ENTITY addonPrivateBrowsing.learnMore.label "Scopri come gestire le impostazioni delle estensioni.">
+<!ENTITY addonPrivateBrowsing.learnMore.label "Scopri come gestire le impostazioni delle estensioni">
 <!ENTITY addonPrivateBrowsing.okButton.label "OK, tutto chiaro">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "O">
 <!ENTITY addonPrivateBrowsing.manageButton.label "Gestisci estensioni">
