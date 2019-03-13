@@ -131,6 +131,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.commandkey "p">
 
 <!ENTITY importFromAnotherBrowserCmd.label "Inportâ da 'n atro navegatô…">
+<!ENTITY importFromAnotherBrowserCmd.accesskey "I">
 
 <!ENTITY taskManagerCmd.label "Gestion ativitæ">
 
@@ -287,6 +288,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Sarva dæti inta memöia persistente">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Navegatô in contròllo remòtto">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Arvi panello de aotenticaçion">
+<!ENTITY urlbar.storageAccessAnchor.tooltip               "Arvi o panello di permissi pe-a navegaçion">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Gestisci a condivixon de fòtocamera e/o micròfono co-o scito">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Gestisci a condivixon do micròfono co-o scito">
@@ -981,6 +983,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.allWindowsShared.message "Tutti i barcoin vixibili into schermo saian condivizi.">
 
 <!ENTITY contentBlocking.title "Blòcco di contengui">
+<!ENTITY contentBlocking.detected "Sta pagina a l'à di elementi che peuan ese blocâ.">
 <!ENTITY contentBlocking.notDetected "In sta pagina no gh'é di elementi che peuan ese blocâ.">
 
 <!ENTITY contentBlocking.trackingProtection3.label "Elementi che tracian">
@@ -1130,6 +1133,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Gestisci e inpostaçioin di conponenti azonti sciacando <image class='addon-addon-icon'/> into <image class='addon-toolbar-icon'/> menû.">
 <!ENTITY addonPostInstall.incognito.label "Permetti l’ezegoçion de sta estenscion inti barcoin privæ.">
+<!ENTITY addonPostInstall.incognito.accesskey "P">
 
+<!ENTITY addonPrivateBrowsing.header2.label "Cangiamenti in scê estenscioin inti barcoin privæ">
+<!ENTITY addonPrivateBrowsing.learnMore.label "Descòvri comme gestî e inpostaçioin de estenscioin.">
 <!ENTITY addonPrivateBrowsing.okButton.label "Va ben, ò capio">
+<!ENTITY addonPrivateBrowsing.okButton.accesskey "V">
 <!ENTITY addonPrivateBrowsing.manageButton.label "Gestisci estenscioin">
+<!ENTITY addonPrivateBrowsing.manageButton.accesskey "G">
