@@ -95,7 +95,7 @@ detail-update-manual =
     .tooltiptext = Net automatysk fernijingen ynstallearje
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Utfiere yn priveefinsters
-detail-private-browsing-description = Utwreidingen sille yn priveefinsters wurkje en tagong hawwe ta jo online-aktiviteiten. <label data-l10n-name="detail-private-browsing-learn-more">Mear ynfo</label>
+detail-private-browsing-description2 = Wannear tastien, hat de útwreiding tagong ta jo online-aktiviteiten yn priveenavigaasje. <label data-l10n-name="detail-private-browsing-learn-more">Mear ynfo</label>
 detail-private-browsing-on =
     .label = Tastean
     .tooltiptext = Ynskeakelje yn priveenavigaasje
