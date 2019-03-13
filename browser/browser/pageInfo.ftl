@@ -86,7 +86,7 @@ security-view-identity =
 security-view-identity-owner =
     .value = Omistaja:
 security-view-identity-domain =
-    .value = WWW-sivusto:
+    .value = Sivusto:
 security-view-identity-verifier =
     .value = Varmentaja:
 security-view-identity-validity =
@@ -118,9 +118,9 @@ security-site-data-only = Kyllä, { $value } { $unit } sivustotietoja
 security-site-data-cookies-only = Kyllä, evästeitä
 security-site-data-no = Ei
 image-size-unknown = Tuntematon
-not-set-verified-by = Ei määritelty
-not-set-alternative-text = Ei määritelty
-not-set-date = Ei määritelty
+not-set-verified-by = Ei määritetty
+not-set-alternative-text = Ei määritetty
+not-set-date = Ei määritetty
 media-img = Kuva
 media-bg-img = Taustakuva
 media-border-img = Kehys
@@ -202,7 +202,7 @@ media-image-type =
 #   $scaledx (number) - The scaled horizontal size of an image
 #   $scaledy (number) - The scaled vertical size of an image
 media-dimensions-scaled =
-    .value = { $dimx }px × { $dimy }px (pienennetty kokoon { $scaledx }px × { $scaledy }px)
+    .value = { $dimx }px × { $dimy }px (skaalattu kokoon { $scaledx }px × { $scaledy }px)
 # This string is used to display the size of an image in pixels
 # Variables:
 #   $dimx (number) - The horizontal size of an image

@@ -7,5 +7,6 @@
  revision number of a given Firefox channel". These terms are not synonymous.
 -->
 
+<!ENTITY window.title "Tärkeitä uutisia">
 <!ENTITY continue-button "Jatka">
 
