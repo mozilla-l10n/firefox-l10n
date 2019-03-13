@@ -47,9 +47,6 @@ bottomLinks-license = Licentie-informatie
 bottomLinks-rights = Eindgebruikersrechten
 bottomLinks-privacy = Privacybeleid
 
-aboutDialog-architecture-sixtyFourBit = 64-bits
-aboutDialog-architecture-thirtyTwoBit = 32-bits
-
 # Example of resulting string: 66.0.1 (64-bit)
 # Variables:
 #   $version (String): version of Firefox, e.g. 66.0.1

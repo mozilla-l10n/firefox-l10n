@@ -10,7 +10,6 @@
 <!ENTITY returnToPreviousPage.label "Terug">
 <!ENTITY returnToPreviousPage1.label "Teruggaan (Aanbevolen)">
 <!ENTITY advanced.label "Geavanceerd">
-<!ENTITY continue2.label "Meer…">
 <!ENTITY advanced2.label "Geavanceerd…">
 <!ENTITY moreInformation.label "Meer informatie">
 <!ENTITY viewCertificate.label "Certificaat bekijken">
@@ -249,4 +248,4 @@ uitzondering voor dit certificaat toe te voegen.">
 <!ENTITY prefReset.label "Standaardinstellingen herstellen">
 
 <!ENTITY networkProtocolError.title "Netwerkprotocolfout">
-<!ENTITY networkProtocolError.longDesc "<p>De pagina die u wilt bekijken kan niet worden weergegeven, omdat een fout in het netwerkprotocol is gedetecteerd.</p><ul><li>Neem contact op met de website-eigenaars om ze over dit probleem te informeren.</li></ul>">
+<!ENTITY networkProtocolError.longDesc "<p>De pagina die u wilt bekijken kan niet worden weergegeven, omdat er een fout in het netwerkprotocol is gedetecteerd.</p><ul><li>Neem contact op met de website-eigenaars om ze over dit probleem te informeren.</li></ul>">

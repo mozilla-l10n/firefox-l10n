@@ -60,8 +60,6 @@ permissions-capabilities-listitem-allow =
     .value = Toestaan
 permissions-capabilities-listitem-block =
     .value = Blokkeren
-permissions-capabilities-listitem-allow-first-party =
-    .value = Van derden blokkeren
 permissions-capabilities-listitem-allow-session =
     .value = Toestaan voor sessie
 

@@ -880,6 +880,9 @@ content-blocking-cookies-label =
   .label = Cookies
   .accesskey = C
 
+content-blocking-expand-section = 
+  .tooltiptext = Meer informatie
+
 # Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
 content-blocking-cryptominers-label =
   .label = Cryptominers
@@ -926,12 +929,6 @@ permissions-notification-pause =
     .label = Notificaties pauzeren totdat { -brand-short-name } wordt herstart
     .accesskey = N
 
-permissions-block-autoplay-media =
-    .label = Automatisch afspelen van media met geluid door websites blokkeren
-    .accesskey = s
-
-permissions-block-autoplay-media-menu = Voor websites die automatisch geluid afspelen
-
 permissions-block-autoplay-media2 =
     .label = Automatisch afspelen van geluid door websites bokkeren
     .accesskey = s
@@ -939,15 +936,6 @@ permissions-block-autoplay-media2 =
 permissions-block-autoplay-media-exceptions =
     .label = Uitzonderingen…
     .accesskey = U
-
-autoplay-option-ask =
-    .label = Altijd vragen
-autoplay-option-allow =
-    .label = Automatisch afspelen toestaan
-autoplay-option-dont =
-    .label = Niet automatisch afspelen
-
-permissions-autoplay-link = Meer info
 
 permissions-block-popups =
     .label = Pop-upvensters blokkeren
@@ -994,11 +982,6 @@ addon-recommendations-link = Meer info
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Gegevensrapportage is uitgeschakeld voor deze buildconfiguratie
-
-collection-browser-errors =
-    .label = { -brand-short-name } toestaan om foutrapporten van de browser (waaronder foutmeldingen) naar { -vendor-short-name } te verzenden
-    .accesskey = b
-collection-browser-errors-link = Meer info
 
 collection-backlogged-crash-reports =
     .label = { -brand-short-name } toestaan om namens u achterstallige crashrapporten te verzenden
