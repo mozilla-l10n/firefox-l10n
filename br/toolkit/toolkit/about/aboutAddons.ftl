@@ -90,7 +90,7 @@ detail-update-manual =
     .tooltiptext = Arabat staliañ an hizivadennoù ent emgefreek
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Lañsañ en ur prenestr prevez
-detail-private-browsing-description = An askouezhioù az aio en-dro er prenestroù prevez, ha gallout a reont haeziñ hoc'h oberiantiz enlinenn. <label data-l10n-name="detail-private-browsing-learn-more">Gouzout hiroc'h</label>
+detail-private-browsing-description2 = P'eo aotreet e c'hall an askouezh haeziñ hoc'h oberiantizoù enlinenn er merdeiñ prevez. <label data-l10n-name="detail-private-browsing-learn-more">Gouzout hiroc'h</label>
 detail-private-browsing-on =
     .label = Aotren
     .tooltiptext = Gweredekaat er merdeiñ prevez
