@@ -63,6 +63,12 @@
 <!ENTITY  crash_restart_label "ເລີ່ມຕົ້ນການທຳງານ &brandShortName; ໃຫມ່">
 
 <!ENTITY url_bar_default_text2 "ຊອກຫາ ຫລື ປ້ອນທີ່ຢູ່ໃສ່">
+
+<!-- Localization note: this text will be displayed in the Search Widget -->
+<!ENTITY search_widget_default_text "ຄົ້ນຫາເວັບໄຊທ">
+<!ENTITY search_widget_default_cropped_text "ຄົ້ນຫາ">
+<!ENTITY search_widget_logo_description "ຄົ້ນຫາເວັບດ້ວຍ &brandShortName;">
+
 <!-- Localization note (url_bar_qrcode_text2) : This text will be
      heard by non-visual users when the focus is on the QR Code
      icon in the url bar. -->
@@ -393,7 +399,6 @@
 <!ENTITY pref_private_data_searchHistory "ປະຫວັດການຊອກຫາ">
 <!ENTITY pref_private_data_formdata2 "ແບບຟອມປະຫວັດການໃຊ້ງານ">
 <!ENTITY pref_private_data_cookies2 "ຄຸກກີ &amp; ການເຂົ້າລະບົບທີ່ໃຊ້ງານຢູ່">
-<!ENTITY pref_private_data_passwords2 "ຂໍ້ມູນການເຂົ້າສູ່ລະບົບທີ່ໄດ້ບັນທຶກໄວ້">
 <!ENTITY pref_private_data_cache "ແຄຊ໌">
 <!ENTITY pref_private_data_offlineApps "ຂໍ້ມູນອັອບລາຍຂອງເວັບໄຊທ໌">
 <!ENTITY pref_private_data_siteSettings2 "ການຕັ້ງຄ່າເວັບໄຊທ໌">
