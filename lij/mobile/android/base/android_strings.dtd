@@ -63,6 +63,12 @@
 <!ENTITY  crash_restart_label "Arvi torna &brandShortName;">
 
 <!ENTITY url_bar_default_text2 "Çerca ò scrivi indirisso">
+
+<!-- Localization note: this text will be displayed in the Search Widget -->
+<!ENTITY search_widget_default_text "Çerca inta ræ">
+<!ENTITY search_widget_default_cropped_text "Çerca">
+<!ENTITY search_widget_logo_description "Çerca inta ræ con &brandShortName;">
+
 <!-- Localization note (url_bar_qrcode_text2) : This text will be
      heard by non-visual users when the focus is on the QR Code
      icon in the url bar. -->
@@ -393,7 +399,6 @@
 <!ENTITY pref_private_data_searchHistory "Stöia de riçerche">
 <!ENTITY pref_private_data_formdata2 "Stöia di mòdoli">
 <!ENTITY pref_private_data_cookies2 "Cookie e acessi ativi">
-<!ENTITY pref_private_data_passwords2 "Acessi sarvæ">
 <!ENTITY pref_private_data_cache "Cache">
 <!ENTITY pref_private_data_offlineApps "Dæti feua linia di sciti web">
 <!ENTITY pref_private_data_siteSettings2 "Inpostaçioin di sciti">
