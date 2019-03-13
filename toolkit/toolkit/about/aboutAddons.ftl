@@ -229,3 +229,7 @@ shortcuts-card-collapse-button = Mostrar menos
 ## Add-on actions
 
 remove-addon-button = Eliminar
+disable-addon-button = Deshabilitar
+enable-addon-button = Habilitar
+addons-enabled-heading = Habilitado
+addons-disabled-heading = Deshabilitado
