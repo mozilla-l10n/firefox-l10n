@@ -80,12 +80,30 @@
 
 <!ENTITY fontSizeMenu.label "ขนาด">
 <!ENTITY fontSizeMenu.accesskey "ข">
+<!ENTITY size-tinyCmd.label "เล็กมาก">
+<!ENTITY size-tinyCmd.accesskey "ล">
+<!ENTITY size-smallCmd.label "เล็ก">
+<!ENTITY size-smallCmd.accesskey "ก">
+<!ENTITY size-mediumCmd.label "ปานกลาง">
+<!ENTITY size-mediumCmd.accesskey "ป">
+<!ENTITY size-largeCmd.label "ใหญ่">
+<!ENTITY size-largeCmd.accesskey "ห">
+<!ENTITY size-extraLargeCmd.label "ใหญ่มาก">
+<!ENTITY size-extraLargeCmd.accesskey "ม">
+<!ENTITY size-hugeCmd.label "มหึมา">
+<!ENTITY size-hugeCmd.accesskey "ห">
 
 <!-- Font Style SubMenu -->
 <!ENTITY fontStyleMenu.label "ลักษณะข้อความ">
 <!ENTITY fontStyleMenu.accesskey "ก">
+<!ENTITY styleBoldCmd.label "ตัวหนา">
+<!ENTITY styleBoldCmd.accesskey "ต">
 <!ENTITY styleBoldCmd.key "B">
+<!ENTITY styleItalicCmd.label "ตัวเอียง">
+<!ENTITY styleItalicCmd.accesskey "ว">
 <!ENTITY styleItalicCmd.key "I">
+<!ENTITY styleUnderlineCmd.label "ขีดเส้นใต้">
+<!ENTITY styleUnderlineCmd.accesskey "ข">
 <!ENTITY styleUnderlineCmd.key "U">
 
 <!ENTITY formatFontColor.label "สีข้อความ…">
