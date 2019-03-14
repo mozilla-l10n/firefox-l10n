@@ -63,6 +63,12 @@
 <!ENTITY  crash_restart_label "Ponovno pokreni &brandShortName;">
 
 <!ENTITY url_bar_default_text2 "Pretražite ili upišite adresu">
+
+<!-- Localization note: this text will be displayed in the Search Widget -->
+<!ENTITY search_widget_default_text "Pretraži web">
+<!ENTITY search_widget_default_cropped_text "Traži">
+<!ENTITY search_widget_logo_description "Pretraži web s &brandShortName;">
+
 <!-- Localization note (url_bar_qrcode_text2) : This text will be
      heard by non-visual users when the focus is on the QR Code
      icon in the url bar. -->
@@ -290,12 +296,6 @@
 <!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
      Similar to the already existing "pref_whats_new_notification_summary"-->
 <!ENTITY pref_feature_tips_notification_summary "Saznajte više o korištenju &brandShortName; i drugih &vendorShortName; proizvoda">
-
-<!-- Localization note (pref_feature_tips_notification_enabling_hint):
-     Describe the action the user should do to enable this preference
-     Will be used in the context "<Turn on> ... to enable this feature" -->
-<!ENTITY pref_feature_tips_notification_enabling_hint "Uključi">
-
 <!-- Localization note (pref_feature_tips_notification_enabling_path):
      Nothing to translate. Simple concatenation of already localized strings. Result is used below. -->
 <!ENTITY pref_feature_tips_notification_enabling_path "&pref_category_privacy_short; > &pref_category_datareporting; > &datareporting_fhr_title;">
@@ -399,7 +399,6 @@
 <!ENTITY pref_private_data_searchHistory "Povijest pretraživanja">
 <!ENTITY pref_private_data_formdata2 "Povijest obrazaca">
 <!ENTITY pref_private_data_cookies2 "Kolačići i aktivne prijave">
-<!ENTITY pref_private_data_passwords2 "Spremljene prijave">
 <!ENTITY pref_private_data_cache "Priručna memorija">
 <!ENTITY pref_private_data_offlineApps "Podaci izvanmreženih stranica">
 <!ENTITY pref_private_data_siteSettings2 "Postavke stranice">
@@ -844,8 +843,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY whatsnew_notification_title "&brandShortName; je ažuriran">
 <!ENTITY whatsnew_notification_summary "Saznajte što je novo u ovoj inačici">
 
-<!ENTITY promotion_add_page_shortcut "Dodaj prečicu stranice">
-
 <!ENTITY helper_first_offline_bookmark_title "Čitaj izvanmrežno">
 <!ENTITY helper_first_offline_bookmark_message "Pronađite stavke Prikaza čitača u zabilješkama, čak i u izvanmrežnom načinu rada.">
 <!ENTITY helper_first_offline_bookmark_button "Idi u zabiilješke">
@@ -904,15 +901,9 @@ Picture-in-picture mini window -->
 <!ENTITY pip_pause_button_description "Zaustavi reprodukciju">
 
 <!-- Notification channels names -->
-<!ENTITY default_notification_channel "&brandShortName;">
-
-<!-- Notification channels names -->
 <!ENTITY default_notification_channel2 "Preglednik">
 <!ENTITY mls_notification_channel "&vendorShortName; lokacijska usluga">
 <!ENTITY download_notification_channel "Preuzimanja">
-<!ENTITY media_notification_channel "Reproduciranje medija">
-<!-- These push notifications come without a specific channel and/or name from Leanplum -->
-<!ENTITY leanplum_default_notifications_channel "&brandShortName; push obavijesti">
 <!ENTITY media_notification_channel2 "Zvuk i video">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel2 "&vendorShortName; savjeti i trikovi">
