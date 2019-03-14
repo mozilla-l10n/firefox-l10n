@@ -108,7 +108,6 @@ These items have the same accesskey but will never be visible at the same time. 
 <!ENTITY  hiddenTabs.label                   "Onglets masqués">
 
 <!ENTITY  listAllTabs.label      "Lister tous les onglets">
-
 <!-- LOCALIZATION NOTE (allTabsMenu.searchTabs.label): "Search" is a verb, as
 in "Search through tabs". -->
 <!ENTITY  allTabsMenu.searchTabs.label       "Rechercher dans les onglets">
@@ -131,6 +130,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.accesskey "p">
 <!ENTITY printCmd.commandkey "p">
 
+<!ENTITY importFromAnotherBrowserCmd.label "Importer depuis un autre navigateur…">
 
 <!ENTITY taskManagerCmd.label "Gestionnaire de tâches">
 
@@ -880,7 +880,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "Vous n’avez pas accordé de permission particulière à ce site.">
 <!ENTITY identity.permissionsReloadHint "Vous devrez peut-être actualiser la page pour que les changements prennent effet.">
 <!ENTITY identity.permissionsPreferences.tooltip "Ouvrir les préférences des permissions">
-
 <!ENTITY identity.contentBlockingPreferences.tooltip "Ouvrir les préférences de blocage de contenu">
 
 
