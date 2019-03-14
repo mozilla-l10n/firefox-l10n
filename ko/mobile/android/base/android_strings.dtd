@@ -63,6 +63,12 @@
 <!ENTITY  crash_restart_label "&brandShortName; 다시 시작">
 
 <!ENTITY url_bar_default_text2 "검색어 또는 주소를 입력하세요">
+
+<!-- Localization note: this text will be displayed in the Search Widget -->
+<!ENTITY search_widget_default_text "웹 검색">
+<!ENTITY search_widget_default_cropped_text "검색">
+<!ENTITY search_widget_logo_description "&brandShortName;로 웹 검색">
+
 <!-- Localization note (url_bar_qrcode_text2) : This text will be
      heard by non-visual users when the focus is on the QR Code
      icon in the url bar. -->
@@ -290,12 +296,6 @@
 <!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
      Similar to the already existing "pref_whats_new_notification_summary"-->
 <!ENTITY pref_feature_tips_notification_summary "&brandShortName; 사용과 다른 &vendorShortName; 제품에 대해 자세히 알아보기">
-
-<!-- Localization note (pref_feature_tips_notification_enabling_hint):
-     Describe the action the user should do to enable this preference
-     Will be used in the context "<Turn on> ... to enable this feature" -->
-<!ENTITY pref_feature_tips_notification_enabling_hint "켜기">
-
 <!-- Localization note (pref_feature_tips_notification_enabling_path):
      Nothing to translate. Simple concatenation of already localized strings. Result is used below. -->
 <!ENTITY pref_feature_tips_notification_enabling_path "&pref_category_privacy_short; > &pref_category_datareporting; > &datareporting_fhr_title;">
@@ -399,7 +399,6 @@
 <!ENTITY pref_private_data_searchHistory "검색 기록">
 <!ENTITY pref_private_data_formdata2 "양식 데이터 기록">
 <!ENTITY pref_private_data_cookies2 "쿠키 및 로그인">
-<!ENTITY pref_private_data_passwords2 "저장된 로그인">
 <!ENTITY pref_private_data_cache "캐시">
 <!ENTITY pref_private_data_offlineApps "오프라인 웹 데이터">
 <!ENTITY pref_private_data_siteSettings2 "웹 사이트별 설정">
@@ -844,8 +843,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY whatsnew_notification_title "&brandShortName;가 최신버전입니다">
 <!ENTITY whatsnew_notification_summary "새로운 기능을 확인하세요">
 
-<!ENTITY promotion_add_page_shortcut "페이지 바로가기 추가">
-
 <!ENTITY helper_first_offline_bookmark_title "오프라인으로 읽기">
 <!ENTITY helper_first_offline_bookmark_message "오프라인에서도 북마크된 읽기 모드 항목들을 볼 수 있습니다.">
 <!ENTITY helper_first_offline_bookmark_button "북마크로 이동">
@@ -904,15 +901,9 @@ Picture-in-picture mini window -->
 <!ENTITY pip_pause_button_description "재생 일시 중지">
 
 <!-- Notification channels names -->
-<!ENTITY default_notification_channel "&brandShortName;">
-
-<!-- Notification channels names -->
 <!ENTITY default_notification_channel2 "브라우저">
 <!ENTITY mls_notification_channel "&vendorShortName; 위치 기반 서비스">
 <!ENTITY download_notification_channel "다운로드">
-<!ENTITY media_notification_channel "미디어 재생">
-<!-- These push notifications come without a specific channel and/or name from Leanplum -->
-<!ENTITY leanplum_default_notifications_channel "&brandShortName; 푸시 알림">
 <!ENTITY media_notification_channel2 "사운드와 비디오">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel2 "&vendorShortName; 팁과 트릭">
