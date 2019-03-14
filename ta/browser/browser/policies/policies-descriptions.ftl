@@ -10,4 +10,7 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
+policy-CertificatesDescription = சான்றிதழ்களைச் சேர் அல்லது உள்ளமைந்த சான்றிதழ்களைப் பயன்படுத்து.
+policy-DisableDeveloperTools = உருவாக்குநர் கருவிகளுக்கான அணுகலைத் தடு.
+policy-DisableFormHistory = தேடல் மற்றும் படிவ வரலாற்றை நினைவில் கொள்ளாதே.
 policy-DNSOverHTTPS = HTTPS வழியாக DNS ஐ கட்டமைக்கவும்.
