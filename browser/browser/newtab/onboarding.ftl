@@ -20,6 +20,7 @@ onboarding-start-browsing-button-label = உலவத் தொடங்கு�
 onboarding-private-browsing-title = அந்தரங்க உலாவல்
 onboarding-screenshots-title = திரைப்பிடிப்புகள்
 onboarding-addons-title = கூடுதல்-வசதிகள்
+onboarding-ghostery-title = Ghostery
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = ஒத்திசைக்க
 

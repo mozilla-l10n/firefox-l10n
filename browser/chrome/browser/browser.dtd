@@ -21,12 +21,16 @@
 <!-- Tab context menu -->
 <!ENTITY  reloadTab.label                    "கீற்றை மீளேற்று">
 <!ENTITY  reloadTab.accesskey                "R">
-<!ENTITY  reloadAllTabs.label                "கீற்றுகளை மீளேற்று">
-<!ENTITY  reloadAllTabs.accesskey            "A">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
 <!ENTITY  duplicateTab.label                 "நகல் கீற்று">
+<!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
+These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  duplicateTab.accesskey             "D">
+<!-- LOCALIZATION NOTE (duplicateTabs.label): This is a command to duplicate
+a tab (i.e. it is a verb, not adjective). -->
+<!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
+These items have the same accesskey but will never be visible at the same time. -->
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -35,22 +39,21 @@ left instead of right. -->
 <!ENTITY  closeOtherTabs.label               "மீதி கீற்றுகளை மூடு">
 <!ENTITY  closeOtherTabs.accesskey           "o">
 
-<!ENTITY  closeSelectedTabs.label            "தேர்ந்த கீற்றுகளை மூடுக">
-<!ENTITY  closeSelectedTabs.accesskey        "S">
-
 <!ENTITY  pinSelectedTabs.label              "கீற்றுகளைக் குத்தி வை">
-<!-- Pin Tab and Pin Selected Tabs have the same accesskey
-but will never be visible at the same time. -->
+<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
+unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY  pinSelectedTabs.accesskey          "P">
 <!ENTITY  unpinSelectedTabs.label            "இட முனையிலிருந்து நீக்கு">
-<!-- Unpin Tab and Unpin Selected Tabs have the same accesskey
-but will never be visible at the same time. -->
+<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
+unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinSelectedTabs.accesskey        "b">
-<!-- Reload Tab and Reload Selected Tabs have the same accesskey
+<!-- LOCALIZATION NOTE(reloadTab.label, reloadTabs.label): have the same accesskey
 but will never be visible at the same time. -->
-<!ENTITY  reloadSelectedTabs.label           "தேர்ந்த கீற்றுகளை மீளேற்று">
-<!ENTITY  reloadSelectedTabs.accesskey       "R">
 <!ENTITY  bookmarkSelectedTabs.label         "கீற்றுகளை புத்தகக்குறியிடு…">
+<!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
+These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  bookmarkSelectedTabs.accesskey     "k">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
@@ -59,23 +62,28 @@ left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 <!ENTITY  pinTab.label                       "இட முனையில் சேர்">
+<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
+unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY  pinTab.accesskey                   "P">
 <!ENTITY  unpinTab.label                     "முனையிலிருந்து நீக்கு">
+<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
+unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinTab.accesskey                 "b">
-<!ENTITY  sendTabToDevice.label              "சாதனத்திற்கு அனுப்பு">
-<!ENTITY  sendTabToDevice.accesskey          "D">
 <!ENTITY  sendPageToDevice.label             "சாதனத்திற்கு அனுப்பு">
 <!ENTITY  sendPageToDevice.accesskey         "D">
 <!ENTITY  sendLinkToDevice.label             "சாதனத்திற்கு அனுப்பு">
 <!ENTITY  sendLinkToDevice.accesskey         "D">
-<!ENTITY  sendToDeviceFeedback.label         "அனுப்பப்பட்டது!">
-<!ENTITY  sendToDeviceOfflineFeedback.label  "வரிசையில் உள்ளவை (முடக்கலை)">
+<!-- LOCALIZATION NOTE (moveTabOptions.label and moveSelectedTabOptions.label):
+These two items have the same accesskey but will never be visible at the same time. -->
+<!ENTITY  moveToStart.label                  "தொடக்கத்திற்கு நகர்">
 <!ENTITY  moveToNewWindow.label              "புதிய சாளரத்திற்கு நகற்று">
 <!ENTITY  moveToNewWindow.accesskey          "W">
 <!ENTITY  reopenInContainer.label            "மீண்டும் கலனில் திற">
 <!ENTITY  reopenInContainer.accesskey        "e">
-<!ENTITY  bookmarkAllTabs.label              "கீற்றுகளைப் புத்தகக்குறியிடு…">
-<!ENTITY  bookmarkAllTabs.accesskey          "T">
+<!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
+These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  undoCloseTab.label                 "மூடியவற்றைத் திற">
 <!ENTITY  undoCloseTab.accesskey             "U">
 <!ENTITY  closeTab.label                     "கீற்றை மூடு">
@@ -83,6 +91,8 @@ can reach it easily. -->
 <!ENTITY  hiddenTabs.label                   "மறைக்கப்பட்ட கீற்றுகள்">
 
 <!ENTITY  listAllTabs.label      "அனைத்து கீற்றுகளையும் பட்டியலிடு">
+<!-- LOCALIZATION NOTE (allTabsMenu.searchTabs.label): "Search" is a verb, as
+in "Search through tabs". -->
 
 <!ENTITY tabCmd.label "புதிய கீற்று">
 <!ENTITY tabCmd.accesskey "T">
@@ -102,6 +112,8 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "p">
 
+
+
 <!ENTITY goOfflineCmd.label "முடக்க நிலை">
 <!ENTITY goOfflineCmd.accesskey "k">
 
@@ -112,10 +124,18 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "புத்தகக்குறிகள் கருவிப்பட்டை உருப்படிகள்">
 
-<!ENTITY toolbarContextMenu.reloadAllTabs.label "கீற்றுகளை மீளேற்று">
-<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "A">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "கீற்றுகளை புத்தகக்குறியிடு…">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "T">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
+toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
+toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
+toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
+toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY toolbarContextMenu.undoCloseTab.label "மூடிய கீற்றுகளைத் திற">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "U">
 
@@ -199,8 +219,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editThisBookmarkCmd.label "புத்தகக்குறியைத் திருத்து">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
-<!ENTITY subscribeToPageMenupopup.label "இந்தப் பக்கத்திற்குச் சந்தாப்படுத்து">
-<!ENTITY subscribeToPageMenuitem.label "சந்தா…">
 <!ENTITY addCurPagesCmd.label "கீற்றுகளை புத்தகக்குறியிடு…">
 <!ENTITY showAllBookmarks2.label "அனைத்தையும் காண்பி">
 <!ENTITY recentBookmarks.label "சமீபத்திய புத்தகக்குறிகள்">
@@ -268,7 +286,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "இல்லம்">
-
 <!ENTITY homeButton.defaultPage.tooltip "&brandShortName; அகப்பக்கம்">
 
 <!ENTITY bookmarksButton.label          "புத்தகக்குறிகள்">
@@ -424,23 +441,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY customizeMenu.addToToolbar.label "கருவிப்பட்டியில் சேர்க்க">
 <!ENTITY customizeMenu.addToToolbar.accesskey "க">
-<!ENTITY customizeMenu.addToPanel.label "பட்டியில் சேர்">
-<!ENTITY customizeMenu.addToPanel.accesskey "ப">
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
      customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "மேலோடு பட்டிக்குச் சேர்">
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "M">
-<!ENTITY customizeMenu.moveToToolbar.label "கருவிப்பட்டிக்கு நகர்த்து">
-<!ENTITY customizeMenu.moveToToolbar.accesskey "க">
-<!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
-     can appear on the same context menu as menubarCmd and personalbarCmd,
-     so they should have different access keys. customizeMenu.moveToToolbar and
-     customizeMenu.moveToPanel are mutually exclusive, so can share access
-     keys.  -->
-<!ENTITY customizeMenu.moveToPanel.label "பட்டியில் சேர்க்க">
-<!ENTITY customizeMenu.moveToPanel.accesskey "ப">
 <!-- LOCALIZATION NOTE (customizeMenu.pinToOverflowMenu.accesskey)
      can appear on the same context menu as menubarCmd and personalbarCmd,
      so they should have different access keys.  -->
@@ -450,11 +456,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "U">
 <!ENTITY customizeMenu.removeFromToolbar.label "கருவிப்பட்டையிலிருந்து நீக்கு">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "ந">
-<!ENTITY customizeMenu.removeFromMenu.label "பட்டியிலிருந்து நீக்கு">
-<!ENTITY customizeMenu.removeFromMenu.accesskey "ந">
 <!ENTITY customizeMenu.addMoreItems.label "மேலும் உருப்பிடிகளை சேர்க்க...">
 <!ENTITY customizeMenu.addMoreItems.accesskey "ச">
-
 <!ENTITY customizeMenu.autoHideDownloadsButton.label "கருவிப்பெட்டியை தானாக மறை">
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "A">
 <!ENTITY customizeMenu.manageExtension.label "நீட்சிகளை நிர்வகி">
@@ -567,9 +570,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.label         "சட்டத்தை மீளேற்று">
 <!ENTITY reloadFrameCmd.accesskey     "R">
 <!ENTITY viewPartialSourceForSelectionCmd.label "தேர்ந்தெடுத்தல் மூலத்தைக் காட்டு">
-<!ENTITY viewPartialSourceForMathMLCmd.label    "MathML மூலத்தைக் காட்டு">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
-         viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label      "பக்கத்தின் மூலத்தைக் காட்டு">
 <!ENTITY viewPageSourceCmd.accesskey  "V">
@@ -600,7 +600,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.label      "இந்த சட்டத்தை புத்தகக்குறியிடு">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 <!ENTITY pageAction.copyLink.label    "தொடுப்பை நகலெடுக்கவும்">
-<!ENTITY copyURLFeedback.label        "நகலெடுக்கப்பட்டது!">
+
+<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
+  "Pocket" is a brand name. -->
+
 <!ENTITY emailPageCmd.label           "மின்னஞ்சல் இணைப்பு ...">
 <!ENTITY emailPageCmd.accesskey       "ம">
 <!ENTITY savePageCmd.label            "இவ்வாறு சேமி…">
@@ -631,6 +634,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hidePluginCmd.label          "இந்த செருகுநிரலை மறைக்கவும்">
 <!ENTITY hidePluginCmd.accesskey      "H">
 <!ENTITY copyLinkCmd.label            "தொடுப்பை நகலெடு">
+<!-- LOCALIZATION NOTE (copyLinkCmd.accesskey): The access keys for "Copy Link
+Location" and "Copy Email Address" should be the same if possible; the two
+context menu items are mutually exclusive. -->
 <!ENTITY copyLinkCmd.accesskey        "a">
 <!ENTITY copyImageCmd.label           "பட இடத்தை நகலெடு">
 <!ENTITY copyImageCmd.accesskey       "o">
@@ -641,6 +647,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyAudioURLCmd.label        "ஒலி இடத்தை நகலெடு">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
 <!ENTITY copyEmailCmd.label           "மின்னஞ்சல் முகவரியை நகலெடு">
+<!-- LOCALIZATION NOTE (copyEmailCmd.accesskey): The access keys for "Copy Link
+Location" and "Copy Email Address" should be the same if possible; the two
+context menu items are mutually exclusive. -->
 <!ENTITY copyEmailCmd.accesskey       "E">
 <!ENTITY thisFrameMenu.label              "இந்த சட்டம்">
 <!ENTITY thisFrameMenu.accesskey          "h">
@@ -781,8 +790,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      Remove Bookmark buttons. -->
 <!ENTITY editBookmark.panel.width                    "23em">
 <!ENTITY editBookmark.done.label                     "முடிந்தது">
-<!ENTITY editBookmark.removeBookmark.accessKey       "R">
-
 <!ENTITY editBookmark.showForNewBookmarks.label       "சேமிக்கும்பொருட்டு தொகுப்பதைக் காண்பி">
 <!ENTITY editBookmark.showForNewBookmarks.accesskey   "S">
 
@@ -832,8 +839,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissions "அனுமதிகள்">
 <!ENTITY identity.permissionsEmpty "நீங்கள் இத்தளத்துக்கு சிறப்பு அனுமதிகள் எதையும் வழங்கவில்லை.">
 <!ENTITY identity.permissionsReloadHint "மாற்றங்களைச் செயற்படுத்த பக்கத்தை மீளேற்று.">
-
 <!ENTITY identity.permissionsPreferences.tooltip "அனுமதிகளின் முன்னுரிமைகளைத் திற">
+
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -933,41 +940,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "கீற்றிலிருந்து ஒலி பகிரப்படும்.">
 <!ENTITY getUserMedia.allWindowsShared.message "திரையில் பார்வையிலுள்ள அனைத்து சாளரங்களும் பகிரப்படும்.">
 
-<!ENTITY trackingProtection.on "தடமறி பாதுகாப்பு: செயலில்">
-<!ENTITY trackingProtection.off "தடமறி பாதுகாப்பு: அணை">
-<!ENTITY trackingProtection.title "தடமறி பாதுகாப்பு">
-<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; உங்களது தேடல்களைத் தடமறிக்கக் கூடிய பக்கத்தின் பகுதிகளை முடக்குகிறது.">
-<!ENTITY trackingProtection.detectedNotBlocked3 "இத்தளம் உங்களை தடமறியக்கூடிய உறுப்புகளைக் கொண்டுள்ளது. நீங்கள் பாதுகாப்பை முடக்கியுள்ளீர்கள்.">
-<!ENTITY trackingProtection.notDetected3 "எந்த சுவடுதொடரல் உறுப்புகளும் இப்பக்கத்தில் இல்லை.">
-<!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock.label "இப்பக்கத்தில் பாதுகாப்பை முடக்கு">
-<!ENTITY trackingProtection.unblock.accesskey "D">
-<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate.label "இந்தப் பக்கத்தில் பாதுகாப்பை முடக்கு ">
-<!ENTITY trackingProtection.unblockPrivate.accesskey "D">
-<!ENTITY trackingProtection.block2.label "பாதுகாப்பைச் செயல்படுத்து ">
-<!ENTITY trackingProtection.block2.accesskey "E">
-
-<!ENTITY trackingProtection.tooltip "தடமறி பாதுகாப்பு முன்னுரிமைகளைத் திற">
-
-<!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in NON-private browsing mode. -->
-<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate6.label, trackingProtection.unblockPrivate6.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
 
 <!ENTITY pluginNotification.showAll.label "அனைத்தையும் காட்டு">
 <!ENTITY pluginNotification.showAll.accesskey "S">
-
-<!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
-<!ENTITY pluginActivateNow.label "இப்போது அனுமதி">
-<!ENTITY pluginActivateAlways.label "அனுமதித்துவிட்டு நினைவில் கொள்ளவும்">
-<!ENTITY pluginBlockNow.label "செருகுநிரலைத் தடு">
 
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
      width of the plugin popup notification that can appear if a plugin has been
@@ -1054,15 +1043,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "பக்க செயல்கள்">
 <!ENTITY pageAction.addToUrlbar.label "முகவரி பட்டையில் சேர்">
 <!ENTITY pageAction.removeFromUrlbar.label "முகவரி பட்டையிலிருந்து நீக்கு">
-<!ENTITY pageAction.allowInUrlbar.label "முகவரி பட்டையில் காண்பி">
-<!ENTITY pageAction.disallowInUrlbar.label "முகவரி பட்டையில் காட்டாதே">
 <!ENTITY pageAction.manageExtension.label "நீட்சிகளை நிர்வகி…">
 
-<!ENTITY pageAction.sendTabToDevice.label "சாதனத்திற்கு கீற்றுகளை அனுப்பு">
 <!ENTITY sendToDevice.syncNotReady.label "சாதனங்களை ஒத்திசைக்கிறது...">
 
 <!ENTITY pageAction.shareUrl.label "பகிர்">
-
 
 <!ENTITY libraryButton.tooltip "வரலாறு, சேமித்த புத்தகக்குறிகள், மற்றும் பலவற்றைப் பார்">
 
@@ -1076,3 +1061,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "<image class='addon-toolbar-icon'/> மெனுவில் <image class='addon-addon-icon'/> என்பதைச் சொடுக்குவதின் மூலம் உங்கள் மேற்சேர்க்கைகளை நிர்வகியுங்கள்.">
+
