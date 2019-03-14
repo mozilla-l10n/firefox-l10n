@@ -63,6 +63,12 @@
 <!ENTITY  crash_restart_label "Reinicia el &brandShortName;">
 
 <!ENTITY url_bar_default_text2 "Escriviu una cerca o adreça">
+
+<!-- Localization note: this text will be displayed in the Search Widget -->
+<!ENTITY search_widget_default_text "Cerca al web">
+<!ENTITY search_widget_default_cropped_text "Cerca">
+<!ENTITY search_widget_logo_description "Cerca al web amb &brandShortName;">
+
 <!-- Localization note (url_bar_qrcode_text2) : This text will be
      heard by non-visual users when the focus is on the QR Code
      icon in the url bar. -->
@@ -290,11 +296,6 @@
 <!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
      Similar to the already existing "pref_whats_new_notification_summary"-->
 <!ENTITY pref_feature_tips_notification_summary "Més informació sobre l\&apos;ús del &brandShortName; i altres productes de &vendorShortName;">
-<!-- Localization note (pref_feature_tips_notification_enabling_hint):
-     Describe the action the user should do to enable this preference
-     Will be used in the context "<Turn on> ... to enable this feature" -->
-<!ENTITY pref_feature_tips_notification_enabling_hint "Activeu">
-
 <!-- Localization note (pref_feature_tips_notification_enabling_path):
      Nothing to translate. Simple concatenation of already localized strings. Result is used below. -->
 <!ENTITY pref_feature_tips_notification_enabling_path "&pref_category_privacy_short; > &pref_category_datareporting; > &datareporting_fhr_title;">
@@ -398,7 +399,6 @@
 <!ENTITY pref_private_data_searchHistory "Historial de cerques">
 <!ENTITY pref_private_data_formdata2 "Historial de formularis">
 <!ENTITY pref_private_data_cookies2 "Galetes i sessions actives">
-<!ENTITY pref_private_data_passwords2 "Inicis de sessió desats">
 <!ENTITY pref_private_data_cache "Memòria cau">
 <!ENTITY pref_private_data_offlineApps "Dades de llocs web fora de línia">
 <!ENTITY pref_private_data_siteSettings2 "Paràmetres del lloc">
@@ -901,15 +901,9 @@ Picture-in-picture mini window -->
 <!ENTITY pip_pause_button_description "Posa en pausa la reproducció">
 
 <!-- Notification channels names -->
-<!ENTITY default_notification_channel "&brandShortName;">
-
-<!-- Notification channels names -->
 <!ENTITY default_notification_channel2 "Navegador">
 <!ENTITY mls_notification_channel "Servei d\&apos;ubicació de &vendorShortName;">
 <!ENTITY download_notification_channel "Baixades">
-<!ENTITY media_notification_channel "Reproducció multimèdia">
-<!-- These push notifications come without a specific channel and/or name from Leanplum -->
-<!ENTITY leanplum_default_notifications_channel "Notificacions Push del &brandShortName;">
 <!ENTITY media_notification_channel2 "So i vídeo">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel2 "Trucs i consells del &vendorShortName;">
