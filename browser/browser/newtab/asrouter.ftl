@@ -9,6 +9,8 @@ cfr-doorhanger-extension-cancel-button = आत्ता नाही
     .accesskey = N
 cfr-doorhanger-extension-ok-button = आत्ताच जोडा
     .accesskey = A
+cfr-doorhanger-pintab-ok-button = हा टॅब पिन करा
+    .accesskey = P
 cfr-doorhanger-extension-manage-settings-button = शिफारशी सेटिंग्ज व्यवस्थापित करा
     .accesskey = M
 cfr-doorhanger-extension-never-show-recommendation = मला ही शिफारस दर्शवू नका
@@ -41,3 +43,8 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } वापरकर्ता
        *[other] { $total } वापरकर्ते
     }
+
+## These messages are steps on how to use the feature and are shown together.
+
+cfr-doorhanger-pintab-animation-pause = स्तब्ध करा
+cfr-doorhanger-pintab-animation-resume = पुन्हा सुरू करा
