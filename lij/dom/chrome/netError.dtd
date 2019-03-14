@@ -94,7 +94,7 @@
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span>o deuvia ina tecnòlogia vegia ch'a peu ese atacâ. Un bonægia o peu pigiâse con façilitæ de informaçioin che ti pensavi fisan a-o seguo. L'aministratô do scito o deve dâ revatto a sto server primma che ti peu vixitalo.</p><p>Còdice erô: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
-<!ENTITY blockedByPolicy.title "Pagina Blocâ">
+<!ENTITY blockedByPolicy.title "Pagina blocâ">
 
 <!ENTITY networkProtocolError.title "Erô de Protocòllo de ræ">
 <!ENTITY networkProtocolError.longDesc "<p>A pagina che ti veu vedde a no peu ese mostrâ perché gh'é 'n erô inta trasmiscion di dæti.</p><ul><li>Pe piaxei, ciamma o responsabile do scito pe informalo do problema.</li></ul>">

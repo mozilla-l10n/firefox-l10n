@@ -183,7 +183,7 @@ was trying to connect. -->
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> o deuvia 'na tecnòlogia de seguessa vegia ch'a l'é debole . Un mascarson o peu pigiâ con façiliæ e teu informaçioin che ti pensi segian a-o seguo. L'aministratô do scito o deve dâ recatto a-o server primma che ti ti posse vixitâ sta pagina.</p><p>Còdice d'erô: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
-<!ENTITY blockedByPolicy.title "Pagina Blocâ">
+<!ENTITY blockedByPolicy.title "Pagina blocâ">
 
 
 <!ENTITY clockSkewError.title "O releuio do computer o l'é erou">

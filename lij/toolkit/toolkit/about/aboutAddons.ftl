@@ -24,6 +24,7 @@ list-empty-button =
 install-addon-from-file =
     .label = Installa i conponenti azonti da 'n schedaio…
     .accesskey = I
+help-button = Sopòrto conponenti azonti
 tools-menu =
     .tooltiptext = Angæsi pe tutti i conponenti azonti
 show-unsigned-extensions-button =
@@ -87,6 +88,8 @@ detail-update-automatic =
 detail-update-manual =
     .label = Asmòrtou
     .tooltiptext = No instalâ agiornamenti in aotomatico
+# Used as a description for the option to allow or block an add-on in private windows.
+detail-private-browsing-label = Ezegoçion inti barcoin privæ
 detail-private-browsing-on =
     .label = Permetti
     .tooltiptext = Permetti inta Navegaçion privâ
@@ -215,6 +218,9 @@ extensions-updates-update-selected =
 
 ## Extension shortcut management
 
+manage-extensions-shortcuts =
+    .label = Gestisci scorsaeiu de estenscioin
+    .accesskey = G
 shortcuts-sidebarAction = Ativa/dizativa bara de scianco
 shortcuts-modifier-mac = Includde Ctrl, Alt, ò ⌘
 shortcuts-modifier-other = Includde Ctrl ò Alt

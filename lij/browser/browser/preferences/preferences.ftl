@@ -4,6 +4,8 @@
 
 do-not-track-description = Manda a-o scito un signâ  “No traciame” coscì da faghe savei che ti no veu ese traciou
 do-not-track-learn-more = Atre informaçioin
+do-not-track-option-default-content-blocking-known =
+    .label = Solo quande { -brand-short-name } o l'é inpòstou pe blocâ i elementi che tracian conosciui
 do-not-track-option-always =
     .label = De longo
 pref-page =
