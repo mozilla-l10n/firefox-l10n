@@ -108,7 +108,6 @@ These items have the same accesskey but will never be visible at the same time. 
 <!ENTITY  hiddenTabs.label                   "Schedas celate">
 
 <!ENTITY  listAllTabs.label      "Listar tote le schedas">
-
 <!-- LOCALIZATION NOTE (allTabsMenu.searchTabs.label): "Search" is a verb, as
 in "Search through tabs". -->
 <!ENTITY  allTabsMenu.searchTabs.label       "Recercar in le schedas">
@@ -130,6 +129,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.label "Imprimer…">
 <!ENTITY printCmd.accesskey "I">
 <!ENTITY printCmd.commandkey "p">
+
 
 <!ENTITY taskManagerCmd.label "Gestor de activitate">
 
@@ -879,7 +879,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "Tu non ha concedite ulle permission special a iste sito.">
 <!ENTITY identity.permissionsReloadHint "Il es possibile que tu debe recargar le pagina pro que le cambios se applica.">
 <!ENTITY identity.permissionsPreferences.tooltip "Aperir le preferentias del permissos">
-
 <!ENTITY identity.contentBlockingPreferences.tooltip "Aperir le preferentias del blocada de contentos">
 
 
@@ -1133,9 +1132,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Gere tu additivos per cliccar <image class='addon-addon-icon'/> in le <image class='addon-toolbar-icon'/> menu.">
+<!ENTITY addonPostInstall.incognito.label "Consenti le functionamento de iste extension in fenestras anonyme.">
+<!ENTITY addonPostInstall.incognito.accesskey "A">
 
-<!ENTITY addonPrivateBrowsing.header.label "Extensiones in fenestra private">
-<!ENTITY addonPrivateBrowsing.body.label "Per parametro predefinite non es consentite facer fluer le extensiones in Fenestra private. Illos non functionara in navigation private e non habera accesso a tu activitates in rete. Tu pote consentir al extensiones de fluer in fenestra private per tu parametros.">
+<!ENTITY addonPrivateBrowsing.header2.label "Cambios al extensiones in fenestra private">
 <!ENTITY addonPrivateBrowsing.okButton.label "OK, io lo comprende">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "O">
 <!ENTITY addonPrivateBrowsing.manageButton.label "Gerer extensiones">

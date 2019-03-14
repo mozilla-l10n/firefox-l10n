@@ -3,12 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 cfr-doorhanger-extension-heading = Extension recommendate
+cfr-doorhanger-pintab-heading = Prova isto: Fixar scheda
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Perque io vide isto
 cfr-doorhanger-extension-cancel-button = Non ora
     .accesskey = N
 cfr-doorhanger-extension-ok-button = Adde ora
     .accesskey = A
+cfr-doorhanger-pintab-ok-button = Fixar scheda
+    .accesskey = F
 cfr-doorhanger-extension-manage-settings-button = Gere le definitiones del recommendation
     .accesskey = G
 cfr-doorhanger-extension-never-show-recommendation = Non plus me monstrar iste recommendation
@@ -41,6 +44,7 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } usator
        *[other] { $total } usatores
     }
+cfr-doorhanger-pintab-description = Accede facilemente al sitos web que tu usa plus frequentemente. Mantene le sitos aperte in un scheda (anque quando tu reinitialisa).
 
 ## These messages are steps on how to use the feature and are shown together.
 

@@ -10,6 +10,7 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
+policy-3rdparty = Defini politicas que WebExtensions pote acceder via chrome.storage.managed.
 policy-AppUpdateURL = Definir un URL de actualisation personalisate pro le application.
 policy-Authentication = Configurar authentication integrate pro sitos web que lo supporta.
 policy-BlockAboutAddons = Blocar accesso al Gestor de additivos (circa:additivos).
