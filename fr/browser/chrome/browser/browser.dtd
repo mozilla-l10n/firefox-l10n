@@ -131,6 +131,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.commandkey "p">
 
 <!ENTITY importFromAnotherBrowserCmd.label "Importer depuis un autre navigateur…">
+<!ENTITY importFromAnotherBrowserCmd.accesskey "I">
 
 <!ENTITY taskManagerCmd.label "Gestionnaire de tâches">
 
