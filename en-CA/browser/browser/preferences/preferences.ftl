@@ -195,7 +195,7 @@ containers-remove-cancel-button = Don’t remove this Container
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Language and Appearance
-fonts-and-colors-header = Fonts & Colours
+fonts-and-colors-header = Fonts and Colours
 default-font = Default font
     .accesskey = D
 default-font-size = Size
@@ -542,7 +542,7 @@ privacy-header = Browser Privacy
 
 ## Privacy Section - Forms
 
-logins-header = Logins & Passwords
+logins-header = Logins and Passwords
 forms-ask-to-save-logins =
     .label = Ask to save logins and passwords for websites
     .accesskey = r
@@ -579,7 +579,7 @@ history-remember-option-never =
     .label = Never remember history
 history-remember-option-custom =
     .label = Use custom settings for history
-history-remember-description = { -brand-short-name } will remember your browsing, download, form and search history.
+history-remember-description = { -brand-short-name } will remember your browsing, download, form, and search history.
 history-dontremember-description = { -brand-short-name } will use the same settings as private browsing, and will not remember any history as you browse the Web.
 history-private-browsing-permanent =
     .label = Always use private browsing mode
@@ -607,7 +607,7 @@ sitedata-total-size-calculating = Calculating site data and cache size…
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size = Your stored cookies, site data and cache are currently using { $value } { $unit } of disk space.
+sitedata-total-size = Your stored cookies, site data, and cache are currently using { $value } { $unit } of disk space.
 sitedata-learn-more = Learn more
 sitedata-delete-on-close =
     .label = Delete cookies and site data when { -brand-short-name } is closed
@@ -736,23 +736,12 @@ permissions-notification-link = Learn more
 permissions-notification-pause =
     .label = Pause notifications until { -brand-short-name } restarts
     .accesskey = n
-permissions-block-autoplay-media =
-    .label = Block websites from automatically playing media with sound
-    .accesskey = B
-permissions-block-autoplay-media-menu = For websites that autoplay sound
 permissions-block-autoplay-media2 =
     .label = Block websites from automatically playing sound
     .accesskey = B
 permissions-block-autoplay-media-exceptions =
     .label = Exceptions…
     .accesskey = E
-autoplay-option-ask =
-    .label = Always Ask
-autoplay-option-allow =
-    .label = Allow Autoplay
-autoplay-option-dont =
-    .label = Don’t Autoplay
-permissions-autoplay-link = Learn more
 permissions-block-popups =
     .label = Block pop-up windows
     .accesskey = B
@@ -788,10 +777,6 @@ addon-recommendations-link = Learn more
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Data reporting is disabled for this build configuration
-collection-browser-errors =
-    .label = Allow { -brand-short-name } to send browser error reports (including error messages) to { -vendor-short-name }
-    .accesskey = b
-collection-browser-errors-link = Learn more
 collection-backlogged-crash-reports =
     .label = Allow { -brand-short-name } to send backlogged crash reports on your behalf
     .accesskey = c
