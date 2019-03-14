@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 cfr-doorhanger-extension-heading = Extension recommandée
+cfr-doorhanger-pintab-heading = Essayez ceci : épingler un onglet
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Pourquoi ceci s’affiche-t-il ?
 cfr-doorhanger-extension-cancel-button = Pas maintenant
