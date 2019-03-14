@@ -46,6 +46,8 @@
 
 <!ENTITY onemonthbackward.tooltip "Un mense retro" >
 <!ENTITY onemonthforward.tooltip "Un mense avante" >
+<!ENTITY oneyearbackward.tooltip "Un anno retro" >
+<!ENTITY oneyearforward.tooltip "Un anno avante" >
 <!ENTITY showToday.tooltip "Ir a hodie">
 <!ENTITY onedayforward.tooltip "Un die avante">
 <!ENTITY onedaybackward.tooltip "Un die retro">
