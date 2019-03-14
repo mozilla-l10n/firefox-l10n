@@ -63,6 +63,12 @@
 <!ENTITY  crash_restart_label "Reinitiar &brandShortName;">
 
 <!ENTITY url_bar_default_text2 "Insere un adresse o face un recerca">
+
+<!-- Localization note: this text will be displayed in the Search Widget -->
+<!ENTITY search_widget_default_text "Cercar in le Web">
+<!ENTITY search_widget_default_cropped_text "Cercar">
+<!ENTITY search_widget_logo_description "Cercar in le Web con &brandShortName;">
+
 <!-- Localization note (url_bar_qrcode_text2) : This text will be
      heard by non-visual users when the focus is on the QR Code
      icon in the url bar. -->
@@ -393,7 +399,6 @@
 <!ENTITY pref_private_data_searchHistory "Chronologia del recercas">
 <!ENTITY pref_private_data_formdata2 "Chronologia de formulario">
 <!ENTITY pref_private_data_cookies2 "Cookies &amp; sessiones active">
-<!ENTITY pref_private_data_passwords2 "Authenticationes salvate">
 <!ENTITY pref_private_data_cache "Memoria tampon">
 <!ENTITY pref_private_data_offlineApps "Datos del sitos web disponibile sin connexion">
 <!ENTITY pref_private_data_siteSettings2 "Parametros del sito">
