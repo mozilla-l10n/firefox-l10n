@@ -95,7 +95,7 @@ detail-update-manual =
     .tooltiptext = არ დაყენდეს განახლებები ავტომატურად
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = პირად ფანჯრებში გაშვება
-detail-private-browsing-description = გაფართოება არ იმუშავებს პირად ფანჯრებში და არ ექნება წვდომა თქვენს მოქმედებებზე. <label data-l10n-name="detail-private-browsing-learn-more">ვრცლად</label>
+detail-private-browsing-description2 = დაშვების შემთხვევაში, გაფართოებას წვდომა ექნება თქვენს მოქმედებებზე პირად ფანჯრებში. <label data-l10n-name="detail-private-browsing-learn-more">იხილეთ ვრცლად</label>
 detail-private-browsing-on =
     .label = დაშვება
     .tooltiptext = ჩართვა პირადი თვალიერებისას

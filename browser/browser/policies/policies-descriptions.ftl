@@ -10,6 +10,7 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
+policy-3rdparty = მიუთითეთ დებულებები, რომ WebExtension-ებს შეეძლოს chrome.storage.managed-ით წვდომა.
 policy-AppUpdateURL = პროგრამის გასაახლებელი URL-მისამართის დაყენება.
 policy-Authentication = ინტეგრირებული ავთენტურობის გამართვა ვებსაიტებისთვის, რომლებზეც მხარდაჭერილია.
 policy-BlockAboutAddons = დამატებების მმართველთან წვდომის შეზღუდვა (about:addons).
