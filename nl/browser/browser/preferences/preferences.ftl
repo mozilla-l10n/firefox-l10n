@@ -240,7 +240,7 @@ containers-remove-cancel-button = Deze container niet verwijderen
 
 language-and-appearance-header = Taal en Vormgeving
 
-fonts-and-colors-header = Lettertypen & kleuren
+fonts-and-colors-header = Lettertypen en kleuren
 
 default-font = Standaardlettertype
     .accesskey = S
@@ -692,7 +692,7 @@ privacy-header = Browserprivacy
 
 ## Privacy Section - Forms
 
-logins-header = Aanmeldingen & Wachtwoorden
+logins-header = Aanmeldingen en Wachtwoorden
 forms-ask-to-save-logins =
     .label = Vragen voor opslaan van aanmeldingen en wachtwoorden voor websites
     .accesskey = r
@@ -864,6 +864,11 @@ content-blocking-warning-title = Let op!
 content-blocking-warning-desc = Het blokkeren van cookies en trackers kan ervoor zorgen dat bepaalde websites niet goed werken. Blokkering kan eenvoudig worden uitgeschakeld voor websites die u vertrouwt.
 content-blocking-warning-description = Het blokkeren van inhoud kan ervoor zorgen dat bepaalde websites niet goed werken. Blokkering kan eenvoudig worden uitgeschakeld voor websites die u vertrouwt.
 content-blocking-learn-how = Meer info
+
+content-blocking-reload-description = U dient uw tabbladen te vernieuwen om deze wijzigingen toe te passen.
+content-blocking-reload-tabs-button =
+  .label = Alle tabbladen vernieuwen
+  .accesskey = A
 
 content-blocking-trackers-label =
     .label = Trackers
