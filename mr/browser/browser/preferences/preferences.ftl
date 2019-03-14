@@ -506,6 +506,7 @@ sync-device-name-save =
     .accesskey = v
 sync-mobilepromo-single = दुसरे साधन जोडा
 sync-mobilepromo-multi = साधने व्यवस्थापित करा
+sync-fxa-begin-pairing = उपकरण संलग्न करा
 sync-tos-link = सेवा अटी
 sync-fxa-privacy-notice = गोपणीयता सूचना
 
@@ -585,6 +586,9 @@ sitedata-learn-more = अधिक जाणा
 sitedata-allow-cookies-option =
     .label = कुकीज आणि साईट डेटा स्वीकारा
     .accesskey = A
+sitedata-disallow-cookies-option =
+    .label = कुकीज आणि साइट डेटा अवरोधित करा
+    .accesskey = B
 # This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
 # The list items are the strings named sitedata-block-*-option*.
 sitedata-block-desc = प्रकार अवरोधित
@@ -620,6 +624,11 @@ addressbar-suggestions-settings = शोध इंजिनसाठी सू�
 
 content-blocking-header = मजकूर अडवणी
 content-blocking-learn-more = अधिक जाणून घ्या
+# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+content-blocking-setting-standard =
+    .label = मानक
+    .accesskey = d
 content-blocking-setting-strict =
     .label = कठोर
     .accesskey = r
@@ -671,20 +680,9 @@ permissions-notification-link = अधिक जाणा
 permissions-notification-pause =
     .label = सूचना { -brand-short-name } पुन्हा सुरु होईपर्यंत स्थगित करा
     .accesskey = n
-permissions-block-autoplay-media =
-    .label = संकेतस्थळांना स्वायत्ततेने ध्वनीसह मीडिया चालवण्यापासून रोखा
-    .accesskey = B
-permissions-block-autoplay-media-menu = स्वायत्ततेने ध्वनी चालवणाऱ्या संकेतस्थळांसाठी
 permissions-block-autoplay-media-exceptions =
     .label = अपवाद…
     .accesskey = E
-autoplay-option-ask =
-    .label = नेहमी विचारा
-autoplay-option-allow =
-    .label = ऑटोप्ले ला परवानगी द्या
-autoplay-option-dont =
-    .label = ऑटोप्ले करू नका
-permissions-autoplay-link = अधिक जाणा
 permissions-block-popups =
     .label = पॉपअप पटल अडवा
     .accesskey = B
@@ -718,10 +716,6 @@ addon-recommendations-link = अधिक जाणा
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = माहिती अहवाल देणे या बांधणी संरचनेमध्ये निष्क्रिय केलेले आहे
-collection-browser-errors =
-    .label = { -brand-short-name } ला { -vendor-short-name } यास ब्राऊजरच्या चुकांचा अहवाल(चुकीचे संदेश धरून) पाठवण्यास परवानगी द्या
-    .accesskey = b
-collection-browser-errors-link = अधिक जाणा
 collection-backlogged-crash-reports =
     .label = आपल्यावतीने { -brand-short-name } ला बॅकलॉग क्रॅश अहवाल पाठवण्याची परवानगी दया
     .accesskey = c
