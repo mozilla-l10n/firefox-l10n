@@ -4,10 +4,6 @@
 
 do-not-track-description = Указване на сайтовете, че не желаете да бъдете проследявани
 do-not-track-learn-more = Научете повече
-do-not-track-option-default =
-    .label = Само при използване на защита от проследяване
-do-not-track-option-default-content-blocking =
-    .label = Само когато { -brand-short-name } ограничава всички открити проследявания
 do-not-track-option-always =
     .label = Винаги
 pref-page =
@@ -89,9 +85,6 @@ extension-controlled-default-search = Разширението „<img data-l10n
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = Разширението „<img data-l10n-name="icon"/> { $name }“ има изискване за изолирани раздели.
-# This string is shown to notify the user that their tracking protection preferences
-# are being controlled by an extension.
-extension-controlled-websites-tracking-protection-mode = Разширението „<img data-l10n-name="icon"/> { $name }“ управлява защитата от проследяване.
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
 extension-controlled-websites-content-blocking-all-trackers = Разширението „<img data-l10n-name="icon"/> { $name }“ управлява тази настройка.
@@ -323,6 +316,7 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Търсене на текст при започване на въвеждане
     .accesskey = Т
+browsing-cfr-recommendations-learn-more = Научете повече
 
 ## General Section - Proxy
 
@@ -523,7 +517,6 @@ privacy-header = Поверителност на четеца
 
 ## Privacy Section - Forms
 
-forms-header = Формуляри и пароли
 logins-header = Регистрации и пароли
 forms-ask-to-save-logins =
     .label = Питане при запазване имена и пароли за вход в страниците
@@ -591,12 +584,6 @@ sitedata-total-size-calculating = Изчисляване на размера н�
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Буферът, бисквитките и данните от страници момента заемат { $value } { $unit } дисково пространство.
 sitedata-learn-more = Научете повече
-sitedata-keep-until = Пазене до
-    .accesskey = а
-sitedata-keep-until-expire =
-    .label = загуба на валидност
-sitedata-keep-until-closed =
-    .label = затваряне на { -brand-short-name }
 sitedata-allow-cookies-option =
     .label = Разрешаване на бисквитки и данни
     .accesskey = р
@@ -607,29 +594,12 @@ sitedata-disallow-cookies-option =
 # The list items are the strings named sitedata-block-*-option*.
 sitedata-block-desc = Вид на ограничения ресурс
     .accesskey = в
-sitedata-block-trackers-option-recommended =
-    .label = Проследявания от трети страни (препоръчително)
-sitedata-block-trackers-option =
-    .label = Проследявания от трети страни
-sitedata-block-unvisited-option =
-    .label = Бисквитки от непосетени страници
-sitedata-block-all-third-party-option =
-    .label = Всички бисквитки от трети страни (може наруши работата на страниците)
-sitedata-block-all-option =
-    .label = Всички бисквитки (ще наруши работата на страниците)
 sitedata-clear =
     .label = Изчистване на данни…
     .accesskey = т
 sitedata-settings =
     .label = Управление на данни…
     .accesskey = у
-sitedata-cookies-exceptions =
-    .label = Изключения…
-    .accesskey = И
-# This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
-# in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
-# Cookies and Site Data section.
-sitedata-warning-your-settings-prevent-changes = Настройките за ограничаване на съдържанието забраняват промяна на настройките за бисквитки и данни на страници.
 
 ## Privacy Section - Address Bar
 
@@ -649,83 +619,11 @@ addressbar-suggestions-settings = Настройки на предложения
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Ограничаване на съдържание
-content-blocking-desc = Ограничаване на съдържание от трети страни като реклами или друг код, който би могъл да забави разглеждането или да ви проследява из Мрежата. Изберете настройките, които са най-добрия баланс между защита и производителност.
 content-blocking-learn-more = Научете повече
-content-blocking-restore-defaults =
-    .label = Стандартни настройки
-    .accesskey = д
-content-blocking-toggle-on =
-    .tooltiptext = Изключване ограничаването на съдържание
-content-blocking-toggle-off =
-    .tooltiptext = Включване ограничаването на съдържание
-content-blocking-toggle-label-on = ВКЛ
-    .accesskey = в
-content-blocking-toggle-label-off = ИЗКЛ
-    .accesskey = и
-content-blocking-category-label = Изберете какво да бъде спирано
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-slow-loading-trackers-label =
-    .label = Бавни проследявания
-    .accesskey = б
-content-blocking-fastblock-new-description = Ограничаване само на проследяванията, които бавят зареждането на страницата.
-content-blocking-tracking-protection-trackers-label =
-    .label = Проследявания
-    .accesskey = п
-content-blocking-tracking-protection-all-detected-trackers-label =
-    .label = Всички открити проследявания
-    .accesskey = в
-content-blocking-tracking-protection-new-description = Ограничаване на всички известни проследявания (Може да доведе до незареждащи страници.)
-content-blocking-tracking-protection-option-always =
-    .label = Винаги
-    .accesskey = в
-content-blocking-tracking-protection-option-private =
-    .label = Само в поверителни прозорци
-    .accesskey = п
 content-blocking-tracking-protection-change-block-list = Промяна списъка за блокиране
-content-blocking-third-party-cookies-label =
-    .label = Бисквитки от трети страни
-    .accesskey = т
-content-blocking-reject-trackers-description = Ограничаване на всички бисквитки от трети страни или само тези от проследявания.
-# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
-# of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
-# or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
-# the UI.
-content-blocking-reject-trackers-warning-your-settings-prevent-changes = Настройките на бисквитките и данните на страници забраняват промяна на настройките за бисквитките от трети страни.
-content-blocking-change-cookie-settings =
-    .label = Настройки на бисквитките
-    .accesskey = б
-content-blocking-reject-trackers-block-trackers-option-recommended =
-    .label = Проследявания (препоръчително)
-    .accesskey = п
-content-blocking-reject-trackers-block-trackers-option =
-    .label = Проследявания
-    .accesskey = п
-content-blocking-reject-trackers-all-third-parties-option =
-    .label = Всички бисквитки от трети страни (може наруши работата на страниците)
-    .accesskey = в
 
 ## Privacy Section - Tracking
 
-tracking-header = Защита от проследяване
-tracking-desc = Защитата от проследяване спира страниците, които събират информация за вас докато разглеждате различни сайтове. <a data-l10n-name="learn-more">Научете повече за защитата от проследяване и поверителност</a>
-tracking-mode-label = Използвайте защитата за спиране на известните проследяващи страници
-tracking-mode-always =
-    .label = Винаги
-    .accesskey = В
-tracking-mode-private =
-    .label = Само в поверителни прозорци
-    .accesskey = С
-tracking-mode-never =
-    .label = Никога
-    .accesskey = Н
-tracking-exceptions =
-    .label = Изключения…
-    .accesskey = з
-tracking-change-block-list =
-    .label = Промяна на блокиращия списък…
-    .accesskey = с
 
 ## Privacy Section - Permissions
 
@@ -750,20 +648,9 @@ permissions-notification-link = Научете повече
 permissions-notification-pause =
     .label = Спиране на известията до рестарт на { -brand-short-name }
     .accesskey = з
-permissions-block-autoplay-media =
-    .label = Забраняване на страниците автоматично да възпроизвеждат медия със звук
-    .accesskey = я
-permissions-block-autoplay-media-menu = За страниците, автоматично изпълняващи звук
 permissions-block-autoplay-media-exceptions =
     .label = Изключения…
     .accesskey = ю
-autoplay-option-ask =
-    .label = Винаги да пита
-autoplay-option-allow =
-    .label = Автоматично изпълняване
-autoplay-option-dont =
-    .label = Забрана на автоматичното изпълняване
-permissions-autoplay-link = Научете повече
 permissions-block-popups =
     .label = Спиране на изскачащите прозорци
     .accesskey = С
@@ -793,13 +680,10 @@ collection-health-report-link = Научете повече
 collection-studies =
     .label = Разрешаване на { -brand-short-name } да инсталира и извършва изследвания
 collection-studies-link = Преглед на изследванията на { -brand-short-name }
+addon-recommendations-link = Научете повече
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Докладването да данни е изключено за тази конфигурация на изданието
-collection-browser-errors =
-    .label = Разрешаване на { -brand-short-name } да изпраща доклади за грешките на четеца (включително и самото съобщение) към { -vendor-short-name }
-    .accesskey = г
-collection-browser-errors-link = Научете повече
 collection-backlogged-crash-reports =
     .label = Разрешаване на { -brand-short-name } да изпраща от ваше име предишни доклади за срив
     .accesskey = и

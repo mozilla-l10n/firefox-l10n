@@ -9,3 +9,4 @@
 
 title = Важни новини
 heading = Промени в профила на { -brand-short-name }
+sync-learn = Научете повече
