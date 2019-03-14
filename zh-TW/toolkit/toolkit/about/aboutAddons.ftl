@@ -94,7 +94,7 @@ detail-update-manual =
     .tooltiptext = 不要自動安裝更新
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = 於隱私視窗中執行
-detail-private-browsing-description2 = 允許後，擴充套件會在隱私瀏覽模式中取得您的線上行為。<label data-l10n-name="detail-private-browsing-learn-more">了解更多資訊</label>
+detail-private-browsing-description2 = 若允許執行，擴充套件可在隱私瀏覽模式中取得您的線上行為。<label data-l10n-name="detail-private-browsing-learn-more">了解更多資訊</label>
 detail-private-browsing-on =
     .label = 允許
     .tooltiptext = 在隱私瀏覽模式中啟用
