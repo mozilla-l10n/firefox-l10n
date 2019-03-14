@@ -90,7 +90,7 @@ detail-update-manual =
     .tooltiptext = Peidio gosod diweddariadau'n awtomatig
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Rhedeg mewn Ffenestri Preifat
-detail-private-browsing-description = Bydd yr estyniad yn gweithio mewn Ffenestri Preifat, ac yn cael mynediad i'ch gweithgareddau ar-lein. <label data-l10n-name="detail-private-browsing-learn-more"> Dysgu rhagor</label>
+detail-private-browsing-description2 = Pan fydd yna ganiatâd, bydd yr estyniad ar gael i'ch gweithgareddau ar-lein wrth bori preifat. <label data-l10n-name="details-private-browsing-learning-more"> Dysgu rhagor </label>
 detail-private-browsing-on =
     .label = Caniatáu
     .tooltiptext = Caniatáu wrth Bori Preifat
