@@ -10,6 +10,7 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
+policy-3rdparty = Difini politikojn, kiujn Webextensions povas aliri per chrome.storage.managed.
 policy-AppUpdateURL = Difini personecigitan ĝisdatigan ligilon por programo.
 policy-Authentication = Agordi internan aŭtentikigon por retejoj, kiuj subtenas ĝin.
 policy-BlockAboutAddons = Bloki aliron al administrilo de aldonaĵoj (about:addons).
