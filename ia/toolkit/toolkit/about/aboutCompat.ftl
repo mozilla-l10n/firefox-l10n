@@ -4,4 +4,5 @@
 
 label-disable = Disactivar
 label-enable = Activar
+label-interventions = Interventiones
 text-title = about:compat

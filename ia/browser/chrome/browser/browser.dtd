@@ -130,6 +130,8 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.accesskey "I">
 <!ENTITY printCmd.commandkey "p">
 
+<!ENTITY importFromAnotherBrowserCmd.label "Importar ab un altere navigator…">
+<!ENTITY importFromAnotherBrowserCmd.accesskey "I">
 
 <!ENTITY taskManagerCmd.label "Gestor de activitate">
 
@@ -1136,6 +1138,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addonPostInstall.incognito.accesskey "A">
 
 <!ENTITY addonPrivateBrowsing.header2.label "Cambios al extensiones in fenestra private">
+<!ENTITY addonPrivateBrowsing.learnMore.label "Discoperi como gerer le parametros del extension.">
 <!ENTITY addonPrivateBrowsing.okButton.label "OK, io lo comprende">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "O">
 <!ENTITY addonPrivateBrowsing.manageButton.label "Gerer extensiones">
