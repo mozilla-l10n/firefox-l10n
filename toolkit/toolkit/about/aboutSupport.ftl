@@ -44,6 +44,7 @@ app-basics-memory-use = Uzo da memöia
 app-basics-performance = Prestaçioin
 app-basics-service-workers = Service worker registræ
 app-basics-profiles = Profî
+app-basics-launcher-process-status = Processo lanciatou
 app-basics-multi-process-support = Barcoin moltiprocesso
 app-basics-process-count = Processi di contegnui web
 app-basics-enterprise-policies = Politiche aziendali
