@@ -63,6 +63,12 @@
 <!ENTITY  crash_restart_label "Перезапустити &brandShortName;">
 
 <!ENTITY url_bar_default_text2 "Введіть запит чи адресу">
+
+<!-- Localization note: this text will be displayed in the Search Widget -->
+<!ENTITY search_widget_default_text "Пошук в Інтернеті">
+<!ENTITY search_widget_default_cropped_text "Пошук">
+<!ENTITY search_widget_logo_description "Пошук в Інтернеті з &brandShortName;">
+
 <!-- Localization note (url_bar_qrcode_text2) : This text will be
      heard by non-visual users when the focus is on the QR Code
      icon in the url bar. -->
@@ -393,7 +399,6 @@
 <!ENTITY pref_private_data_searchHistory "Історія пошуку">
 <!ENTITY pref_private_data_formdata2 "Історія форм">
 <!ENTITY pref_private_data_cookies2 "Куки й активні сеанси">
-<!ENTITY pref_private_data_passwords2 "Збережені паролі">
 <!ENTITY pref_private_data_cache "Кеш">
 <!ENTITY pref_private_data_offlineApps "Дані автономних веб-сайтів">
 <!ENTITY pref_private_data_siteSettings2 "Налаштування сайтів">
