@@ -90,7 +90,7 @@ detail-update-manual =
     .tooltiptext = 업데이트 자동 설치 중단
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = 사생활 보호 모드에서 실행
-detail-private-browsing-description = 확장 기능이 사생활 보호 모드에서 작동하며 사용자의 온라인 활동에 접근할 수 있습니다. <label data-l10n-name="detail-private-browsing-learn-more">더 알아보기</label>
+detail-private-browsing-description2 = 허용되면, 확장 기능은 사생활 보호 브라우징 중에 사용자 온라인 활동에 접근할 수 있습니다. <label data-l10n-name="detail-private-browsing-learn-more">더 알아보기</label>
 detail-private-browsing-on =
     .label = 허용
     .tooltiptext = 사생활 보호 모드에서 사용
