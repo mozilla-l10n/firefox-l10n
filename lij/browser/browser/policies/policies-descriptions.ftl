@@ -67,5 +67,6 @@ policy-SearchEngines = Configuraçion inpostaçioin do motô de riçerca. Sta ò
 policy-SecurityDevices = Instaala mòdolo PKCS #11.
 policy-SSLVersionMax = Inpòsta a verscion mascima de SSL.
 policy-SSLVersionMin = Inpòsta a verscion minima de SSL.
+policy-SupportMenu = Azonzi 'na voxe de menû personalizâ into menû d'agiutto.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Blòcca a vixita a di sciti. Amia a documentaçion pe avei ciù detalli in sciô formou.
