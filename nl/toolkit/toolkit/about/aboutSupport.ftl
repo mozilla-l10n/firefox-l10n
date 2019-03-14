@@ -52,7 +52,6 @@ app-basics-launcher-process-status = Launcher-proces
 app-basics-multi-process-support = Multiprocess-vensters
 app-basics-process-count = Webinhoudsprocessen
 app-basics-enterprise-policies = Bedrijfsbeleidsregels
-app-basics-key-google = Google-sleutel
 app-basics-location-service-key-google = Google-locatieservicesleutel
 app-basics-safebrowsing-key-google = Google Safe Browsing-sleutel
 app-basics-key-mozilla = Mozilla-locatieservicesleutel
