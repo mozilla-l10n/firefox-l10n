@@ -5,5 +5,6 @@
 restart-required-title = Restarto postulata
 restart-required-header = Bedaŭrinde ankoraŭ restas detaleto farenda, post tio ni daŭrigos.
 restart-required-intro = Ni ĵus fone instalis ĝisdatigon. Alklaku Restartigi { -brand-short-name } por plene apliki ĝin.
+restart-required-intro-brand = { -brand-short-name } estis fone ĝisdatigita. Alklaku Restartigi { -brand-short-name } por fini la ĝisdatigon.
 restart-required-description = Ni restarigos ĉiujn viajn paĝojn, fenestrojn kaj langetojn poste, tiel ke vi povos rapide daŭrigi.
 restart-button-label = Restartigi { -brand-short-name }
