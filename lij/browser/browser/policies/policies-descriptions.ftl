@@ -22,7 +22,7 @@ policy-CertificatesDescription = Azonzi certificati ò deuvia certificati predef
 policy-Cookies = Permetti ò no nega o permisso -ai sciti de mette di cookie.
 policy-DisableAppUpdate = No fâ agiornâ o navegatô.
 policy-DisableBuiltinPDFViewer = Diabilita PDF.js, o letô PDF incòrporou in { -brand-short-name }.
-policy-DisableDeveloperTools = Blòcca l'acesso a-i strumenti do svilupatô.
+policy-DisableDeveloperTools = Blòcca l'acesso a-i atressi do svilupatô.
 policy-DisableFeedbackCommands = Dizabilita i comandi pe mandâ i comenti da-o menû agiutto (Manda comento e segnala scito scito mascarson)
 policy-DisableFirefoxAccounts = Dizabilita i serviççi bazæ in sce { -fxaccount-brand-name }, incluzo Sync.
 # Firefox Screenshots is the name of the feature, and should not be translated.
