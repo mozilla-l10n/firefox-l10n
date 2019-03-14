@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
+about-config-warning-title = ¡Sitio desconocido!
 about-config-warning-text = Cambiar estos ajustes avanzados puede ser perjudicial para la estabilidad, seguridad y el rendimiento de esta aplicación. Debieras continuar solo si tienes certeza de lo que estás haciendo.
 about-config-warning-checkbox = Vuélvanme a molestar, ¡por favor!
 about-config-warning-button = Acepto el riesgo

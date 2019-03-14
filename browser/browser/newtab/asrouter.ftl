@@ -41,3 +41,9 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } usuario
        *[other] { $total } usuarios
     }
+cfr-doorhanger-pintab-description = Obtén acceso rápido a tus sitios más visitados. Mantén los sitios abiertos en una pestaña (incluso cuando reinicies).
+
+## These messages are steps on how to use the feature and are shown together.
+
+cfr-doorhanger-pintab-animation-pause = Pausar
+cfr-doorhanger-pintab-animation-resume = Continuar
