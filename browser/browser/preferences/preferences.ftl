@@ -4,10 +4,6 @@
 
 do-not-track-description = Senda vefsvæðum “Do Not Track” merki um að þú viljir ekki láta fylgjast með þér
 do-not-track-learn-more = Fræðast meira
-do-not-track-option-default =
-    .label = Aðeins þegar notað er vörn gegn gagnasöfnun
-do-not-track-option-default-content-blocking =
-    .label = Aðeins þegar { -brand-short-name } er stillt til að loka fyrir uppgötvaða rekjara
 do-not-track-option-default-content-blocking-known =
     .label = Aðeins þegar { -brand-short-name } er stillt til að loka fyrir þekkta rekjara
 do-not-track-option-always =
@@ -54,6 +50,9 @@ category-privacy =
 pane-sync-title = Firefox reikningur
 category-sync =
     .tooltiptext = { pane-sync-title }
+pane-sync-title2 = { -sync-brand-short-name }
+category-sync2 =
+    .tooltiptext = { pane-sync-title2 }
 help-button-label = { -brand-short-name } Stuðningur
 addons-button-label = Viðbætur & þemu
 focus-search =
@@ -95,9 +94,6 @@ extension-controlled-default-search = Viðbót, <img data-l10n-name="icon"/> { $
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = Viðbót, <img data-l10n-name="icon"/> { $name }, þarfnast inihalds flipa.
-# This string is shown to notify the user that their tracking protection preferences
-# are being controlled by an extension.
-extension-controlled-websites-tracking-protection-mode = Viðbót, <img data-l10n-name="icon"/> { $name }, er að stjórna vörn gegn gagnasöfnun.
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
 extension-controlled-websites-content-blocking-all-trackers = Viðbót, <img data-l10n-name="icon"/> { $name }, stjórnar þessari stillingu.
@@ -338,6 +334,9 @@ browsing-search-on-start-typing =
 browsing-cfr-recommendations =
     .label = Viðbætur sem mælt er með til að vafra
     .accesskey = R
+browsing-cfr-features =
+    .label = Stinga uppá virkni er þú vafrar
+    .accesskey = S
 browsing-cfr-recommendations-learn-more = Fræðast meira
 
 ## General Section - Proxy
@@ -606,12 +605,6 @@ sitedata-total-size-calculating = Reikna gagnastærð vefsvæðis og stærð sky
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Geymdar smákökur, gögn fyrir vefsvæði og skyndiminni eru að nota { $value } { $unit } af diskplássi.
 sitedata-learn-more = Fræðast meira
-sitedata-keep-until = Eiga þangað til
-    .accesskey = E
-sitedata-keep-until-expire =
-    .label = þær renna út
-sitedata-keep-until-closed =
-    .label = { -brand-short-name } er lokað
 sitedata-delete-on-close =
     .label = Eyða vafrakökum og síðugögnum þegar { -brand-short-name } er lokað
     .accesskey = c
@@ -625,16 +618,6 @@ sitedata-disallow-cookies-option =
 # The list items are the strings named sitedata-block-*-option*.
 sitedata-block-desc = Tegund blokkuð
     .accesskey = T
-sitedata-block-trackers-option-recommended =
-    .label = Rekjari þriðja aðila (mælt er með)
-sitedata-block-trackers-option =
-    .label = Rekjari þriðja aðila
-sitedata-block-unvisited-option =
-    .label = Vefkökur frá óheimsóttum vefsíðum
-sitedata-block-all-third-party-option =
-    .label = Allar vefkökur frá þriðja aðila (geta valdið því að vefsíður hrynji)
-sitedata-block-all-option =
-    .label = Allar vefkökur (munu valda því að vefsíður hrynji)
 sitedata-option-block-trackers =
     .label = Rekjarar þriðja aðila
 sitedata-option-block-unvisited =
@@ -649,13 +632,6 @@ sitedata-clear =
 sitedata-settings =
     .label = Sýsla með gögn…
     .accesskey = M
-sitedata-cookies-exceptions =
-    .label = Undanþágur…
-    .accesskey = U
-# This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
-# in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
-# Cookies and Site Data section.
-sitedata-warning-your-settings-prevent-changes = Stillingar þínar í Blokkun efnis koma í veg fyrir breytingar á stillingum vefkakna og síðugagna.
 sitedata-cookies-permissions =
     .label = Stjórna heimildum
     .accesskey = P
@@ -678,41 +654,8 @@ addressbar-suggestions-settings = Breyta stillingum fyrir ábendingar leitarvél
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Blokkun efnis
-content-blocking-desc = Blokka efni frá þriðja aðila, svo sem auglýsingar eða kóði, sem geta hægt á vafranum þínum og rakið feril þinn um vefinn. Sérsníðið ykkur stillingar fyrir besta jafnvægið á vernd og vinnslu.
 content-blocking-description = Blokka efni frá þriðja aðila sem rekur feril þinn um netið. Stjórnaðu hversu mikið af netvirkni þinni er geymd og deilt á milli vefsíðna.
 content-blocking-learn-more = Læra meira
-content-blocking-restore-defaults =
-    .label = Upphafleg gildi
-    .accesskey = R
-content-blocking-toggle-on =
-    .tooltiptext = Slökkva á blokkun efnis
-content-blocking-toggle-off =
-    .tooltiptext = Kveikja á blokkun efnis
-content-blocking-toggle-label-on = Á
-    .accesskey = Á
-content-blocking-toggle-label-off = Af
-    .accesskey = A
-content-blocking-category-label = Velja hvað skal loka á
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-slow-loading-trackers-label =
-    .label = Rekjarar sem hlaða hægt
-    .accesskey = S
-content-blocking-fastblock-new-description = Blokka einungis þá rekjara sem hindra hraða hleðslu vefsíðna.
-content-blocking-tracking-protection-trackers-label =
-    .label = Rekjarar
-    .accesskey = T
-content-blocking-tracking-protection-all-detected-trackers-label =
-    .label = Allir uppgötvaðir rekjarar
-    .accesskey = T
-content-blocking-tracking-protection-new-description = Blokka alla þekkta rekjara. (Gæti hindrað hleðslu á einhverjum síðum.)
-content-blocking-tracking-protection-option-always =
-    .label = Ávallt
-    .accesskey = A
-content-blocking-tracking-protection-option-private =
-    .label = Einungis í huliðsgluggum
-    .accesskey = p
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 content-blocking-setting-standard =
@@ -745,51 +688,16 @@ content-blocking-option-private =
     .label = Bara í huliðsgluggum
     .accesskey = p
 content-blocking-tracking-protection-change-block-list = Breyta blokkunarlista
-content-blocking-third-party-cookies-label =
-    .label = Vefkökur þriðja aðila
-    .accesskey = C
-content-blocking-reject-trackers-description = Blokka allar vefkökur frá þriðja aðila eða bara þær settar eru af rekjurum.
-# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
-# of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
-# or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
-# the UI.
-content-blocking-reject-trackers-warning-your-settings-prevent-changes = Stillingar þínar um vefkökur og síðugögn eru að hindra breytingar á vefkökustillingum þriðja aðila.
-content-blocking-change-cookie-settings =
-    .label = Breyta vefkökustillingum
-    .accesskey = S
-content-blocking-reject-trackers-block-trackers-option-recommended =
-    .label = Rekjarar (mælt er með)
-    .accesskey = k
-content-blocking-reject-trackers-block-trackers-option =
-    .label = Rekjarar
-    .accesskey = k
-content-blocking-reject-trackers-all-third-parties-option =
-    .label = Allar vefkökur frá þriðja aðila (getur valdið því að vefsíður hrynji)
-    .accesskey = A
 content-blocking-cookies-label =
     .label = Smákökur
     .accesskey = S
+# Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
+content-blocking-cryptominers-label =
+    .label = Rafnám
+    .accesskey = y
 
 ## Privacy Section - Tracking
 
-tracking-header = Vörn gegn gagnasöfnun
-tracking-desc = Vörn gegn gagnasöfnun lokar á njósnaraforrit á netinu sem safna vafragögnum á milli margra vefsvæða. <a data-l10n-name="learn-more">Fræðast meira um vörn gegn gagnasöfnun og friðhelgi</a>
-tracking-mode-label = Nota vörn gegn gagnasöfnun til að loka á þekkta gagnasafnara
-tracking-mode-always =
-    .label = Alltaf
-    .accesskey = A
-tracking-mode-private =
-    .label = Aðeins í huliðsgluggum
-    .accesskey = l
-tracking-mode-never =
-    .label = Aldrei
-    .accesskey = d
-tracking-exceptions =
-    .label = Undanþágur…
-    .accesskey = U
-tracking-change-block-list =
-    .label = Breyta lokunarlista…
-    .accesskey = B
 tracking-manage-exceptions =
     .label = Stjórna undanþágum...
     .accesskey = x
@@ -817,20 +725,9 @@ permissions-notification-link = Vita meira
 permissions-notification-pause =
     .label = Stöðva tilkynningar þangað til { -brand-short-name } endurræsir
     .accesskey = n
-permissions-block-autoplay-media =
-    .label = Banna vefsíðum sjálfvirka afspilun margmiðlunarefnis með hljóði
-    .accesskey = B
-permissions-block-autoplay-media-menu = Fyrir vefsíður með sjálfvirkri afspilun hljóðs
 permissions-block-autoplay-media-exceptions =
     .label = Undanþágur...
     .accesskey = E
-autoplay-option-ask =
-    .label = Spyrja alltaf
-autoplay-option-allow =
-    .label = Leyfa sjálfvirka afspilun
-autoplay-option-dont =
-    .label = Ekki spila sjálfkrafa
-permissions-autoplay-link = Læra meira
 permissions-block-popups =
     .label = Loka á sprettiglugga
     .accesskey = g
@@ -866,10 +763,6 @@ addon-recommendations-link = Fræðast meira
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Gagna skýrsla er óvirk í þessari útgáfu
-collection-browser-errors =
-    .label = Leyfa { -brand-short-name } að senda villuskýrslur vafra (með villuskilaboðum) til { -vendor-short-name }
-    .accesskey = b
-collection-browser-errors-link = Fræðast meira
 collection-backlogged-crash-reports =
     .label = Leyfa { -brand-short-name } að senda hrunskýrslu í bakgrunni í þínu nafni
     .accesskey = ð
