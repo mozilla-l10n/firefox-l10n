@@ -333,6 +333,9 @@ browsing-search-on-start-typing =
 browsing-cfr-recommendations =
     .label = Eñe’eporã jepysokue rehe eikumdaha aja
     .accesskey = R
+browsing-cfr-features =
+    .label = Eñe’ẽporã tembiapoitére eikundahakuévo
+    .accesskey = f
 browsing-cfr-recommendations-learn-more = Kuaave
 
 ## General Section - Proxy
@@ -725,20 +728,9 @@ permissions-notification-link = Eikuaave
 permissions-notification-pause =
     .label = Tojejoko momarandu'i oñepyrũjey peve { -brand-short-name }
     .accesskey = n
-permissions-block-autoplay-media =
-    .label = Ejoko ñanduti renda ani hag̃ua omboheta ijehegui mba’epu ndive
-    .accesskey = B
-permissions-block-autoplay-media-menu = Umi tenda ombohetáva mba’epu ijeheguípe g̃uarã
 permissions-block-autoplay-media-exceptions =
     .label = Ykepegua...
     .accesskey = E
-autoplay-option-ask =
-    .label = Eporandu tapia
-autoplay-option-allow =
-    .label = Emoneĩ mboheta ijeheguíva
-autoplay-option-dont =
-    .label = Ani eheja omboheta ijehegui
-permissions-autoplay-link = Kuaave
 permissions-block-popups =
     .label = Ovetã apysẽ joko
     .accesskey = B
@@ -772,10 +764,6 @@ addon-recommendations-link = Kuaave
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Pe mba'ekuaarã momarandu oñemboguéma ko ñemboheko guasúpe g̃uarã
-collection-browser-errors =
-    .label = Emoneĩ { -brand-short-name } pe omomarandúvo jejavy (oikehápe ñe'ẽmondo jejavy rehegua) { -vendor-short-name }-pe
-    .accesskey = b
-collection-browser-errors-link = Kuaave
 collection-backlogged-crash-reports =
     .label = Emoneĩ { -brand-short-name } omondóvo marandu jejavy rehegua nde rérape
     .accesskey = c

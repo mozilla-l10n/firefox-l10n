@@ -49,6 +49,7 @@ app-basics-multi-process-support = Windows rembiapoita
 app-basics-process-count = Ñanduti Retepy Rembiapo
 app-basics-enterprise-policies = Purureko mba'apoha rehegua
 app-basics-location-service-key-google = Google ñemoñe’ẽasa ñe’ẽñemi
+app-basics-safebrowsing-key-google = Google Safebrowsing Key
 app-basics-key-mozilla = Mozilla mba'epytyvõrã rendaite rehegua
 app-basics-safe-mode = Teko jerovia
 show-dir-label =
@@ -244,6 +245,7 @@ sandbox-proc-type-media-plugin = plugin maranduguáva
 sandbox-proc-type-data-decoder = Mba’ekuaarã papapy'o
 launcher-process-status-0 = Jurujapyre
 launcher-process-status-1 = Ojepe'apyre ojavy rupi
+launcher-process-status-2 = Mbaretépe jepe’apyre
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
