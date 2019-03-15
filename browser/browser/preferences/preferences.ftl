@@ -681,6 +681,10 @@ content-blocking-tracking-protection-change-block-list = Qara siyahını dəyiş
 content-blocking-cookies-label =
     .label = Çərəzlər
     .accesskey = z
+# Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
+content-blocking-cryptominers-label =
+    .label = Kriptomaynerlər
+    .accesskey = K
 
 ## Privacy Section - Tracking
 
