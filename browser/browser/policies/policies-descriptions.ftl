@@ -9,6 +9,8 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
+policy-3rdparty = Indstil politikker, som WebExtensions kan tilgå via chrome.storage.managed.
+
 policy-AppUpdateURL = Indstil tilpasset URL for app-opdateringer
 
 policy-Authentication = Indstil integreret godkendelse for websteder, der understøtter det
