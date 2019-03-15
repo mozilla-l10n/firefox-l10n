@@ -47,6 +47,9 @@ category-privacy =
 pane-sync-title = Firefox Account
 category-sync =
     .tooltiptext = { pane-sync-title }
+pane-sync-title2 = { -sync-brand-short-name }
+category-sync2 =
+    .tooltiptext = { pane-sync-title2 }
 help-button-label = Поддръжка на { -brand-short-name }
 addons-button-label = Разширения и теми
 focus-search =
@@ -620,10 +623,31 @@ addressbar-suggestions-settings = Настройки на предложения
 
 content-blocking-header = Ограничаване на съдържание
 content-blocking-learn-more = Научете повече
+content-blocking-warning-title = Внимание!
+content-blocking-learn-how = Научете как
+content-blocking-trackers-label =
+    .label = Проследявания
+    .accesskey = П
+content-blocking-tracking-protection-option-all-windows =
+    .label = Във всички прозорци
+    .accesskey = в
+content-blocking-option-private =
+    .label = Само в поверителни прозорци
+    .accesskey = о
 content-blocking-tracking-protection-change-block-list = Промяна списъка за блокиране
+content-blocking-cookies-label =
+    .label = Бисквитки
+    .accesskey = б
+# Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
+content-blocking-cryptominers-label =
+    .label = Копачи на криптовалути
+    .accesskey = к
 
 ## Privacy Section - Tracking
 
+tracking-manage-exceptions =
+    .label = Управление на изключенията…
+    .accesskey = и
 
 ## Privacy Section - Permissions
 
