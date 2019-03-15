@@ -1157,9 +1157,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Beheer uw add-ons door op <image class='addon-addon-icon'/> in het menu <image class='addon-toolbar-icon'/> te klikken.">
-<!ENTITY addonPostInstall.incognito.label "Deze extensie in privévensters laten uitvoeren">
-<!ENTITY addonPostInstall.incognito.accesskey "D">
-
 <!ENTITY addonPostInstall.incognito.checkbox.label "Deze extensie in privévensters laten uitvoeren">
 <!ENTITY addonPostInstall.incognito.checkbox.accesskey "D">
 
