@@ -90,7 +90,7 @@ detail-update-manual =
     .tooltiptext = Ne legyenek automatikus frissítések
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Futtatás privát ablakokban
-detail-private-browsing-description = A kiegészítő privát ablakokban is fog működni, és hozzáfér az online tevékenységéhez. <label data-l10n-name="detail-private-browsing-learn-more">További tudnivalók</label>
+detail-private-browsing-description2 = Ha engedélyezve van, akkor a kiegészítő privát böngészésben is hozzá fog férni az online tevékenységéhez. <label data-l10n-name="detail-private-browsing-learn-more">Tudjon meg többet</label>
 detail-private-browsing-on =
     .label = Engedélyezés
     .tooltiptext = Engedélyezés privát böngészésben
