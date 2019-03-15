@@ -47,7 +47,6 @@ app-basics-profiles = Perfiles
 app-basics-multi-process-support = Ventanas multiproceso
 app-basics-process-count = Procesos de contenido web
 app-basics-enterprise-policies = Políticas empresariales
-app-basics-key-google = Clave de Google
 app-basics-key-mozilla = Clave del servicio de localización de Mozilla
 app-basics-safe-mode = Modo Seguro
 show-dir-label =
@@ -241,6 +240,7 @@ sandbox-proc-type-content = contenido
 sandbox-proc-type-file = contenido del archivo
 sandbox-proc-type-media-plugin = plugin de medios
 launcher-process-status-0 = Habilitado
+launcher-process-status-unknown = Estado desconocido
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
