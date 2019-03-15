@@ -4,4 +4,5 @@
 
 label-disable = Jepe'aite
 label-enable = Mbojuruja
+label-more-information = Maranduve: javy { $bug }
 text-title = about:compat
