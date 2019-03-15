@@ -3,12 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 cfr-doorhanger-extension-heading = Jepysokue jeroviaháva
+cfr-doorhanger-pintab-heading = Eipuru kóva: Emboja tendayke
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Mba’ére ahechahína kóva
 cfr-doorhanger-extension-cancel-button = Ko'ág̃a nahániri
     .accesskey = N
 cfr-doorhanger-extension-ok-button = Embojuaju ko'ág̃a
     .accesskey = A
+cfr-doorhanger-pintab-ok-button = Emboja ko tendayke
+    .accesskey = P
 cfr-doorhanger-extension-manage-settings-button = Eñangareko je’eporã ñemboheko rehe
     .accesskey = M
 cfr-doorhanger-extension-never-show-recommendation = Ani ehechauka ko je’eporã
@@ -45,3 +48,4 @@ cfr-doorhanger-extension-total-users =
 ## These messages are steps on how to use the feature and are shown together.
 
 cfr-doorhanger-pintab-animation-pause = Mbopyta
+cfr-doorhanger-pintab-animation-resume = Eku'ejey
