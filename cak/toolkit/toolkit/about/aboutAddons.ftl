@@ -90,7 +90,7 @@ detail-update-manual =
     .tooltiptext = Man keyak pa kiyonil ri taq k'exoj
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Kesamajïx pa Ichinan Tzuwäch
-detail-private-browsing-description = Ütz xtisamäj ri k'amaya'l pan Ichinan Tzuwäch chuqa' xkatikïr xkatok pan asamaj pa k'amab'ey. <label data-l10n-name="detail-private-browsing-learn-more">Tetamäx ch'aqa' chik</label>
+detail-private-browsing-description2 = Toq xtiya' q'ij, ri k'amal xtok pa ri asamaj pa k'amab'ey toq yatok pa ichinan okem. <label data-l10n-name="detail-private-browsing-learn-more">Tawetamaj ch'aqa' chik</label>
 detail-private-browsing-on =
     .label = Tiya' q'ij
     .tooltiptext = Titz'ij pa Ichinan Okem pa K'amaya'l
