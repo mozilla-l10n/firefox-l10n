@@ -26,6 +26,7 @@ profiles-rename = Renombrar
 profiles-remove = Eliminar
 profiles-set-as-default = Establecer como perfil predeterminado
 profiles-launch-profile = Lanzar perfil en nuevo navegador
+profiles-cannot-set-as-default-title = No se puede establecer predeterminado
 profiles-yes = sí
 profiles-no = no
 profiles-rename-profile-title = Renombrar perfil

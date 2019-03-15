@@ -225,6 +225,8 @@ shortcuts-modifier-mac = Incluir Ctrl, Alt o ⌘
 shortcuts-modifier-other = Incluir Ctrl o Alt
 shortcuts-invalid = Combinación inválida
 shortcuts-card-collapse-button = Mostrar menos
+go-back-button =
+    .tooltiptext = Regresar
 
 ## Add-on actions
 
