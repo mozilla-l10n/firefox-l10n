@@ -3,12 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 cfr-doorhanger-extension-heading = Tillögur að viðbótum
+cfr-doorhanger-pintab-heading = Prófaðu þetta: Festa flipa
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Hvers vegna er ég að sjá þetta
 cfr-doorhanger-extension-cancel-button = Ekki núna
     .accesskey = E
 cfr-doorhanger-extension-ok-button = Bæta við núna
     .accesskey = B
+cfr-doorhanger-pintab-ok-button = Festa þennan flipa
+    .accesskey = F
 cfr-doorhanger-extension-manage-settings-button = Sýsla með ábendingastillingar
     .accesskey = s
 cfr-doorhanger-extension-never-show-recommendation = Ekki sýna mér þessar tillögur
@@ -41,3 +44,8 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } notandi
        *[other] { $total } notendur
     }
+
+## These messages are steps on how to use the feature and are shown together.
+
+cfr-doorhanger-pintab-animation-pause = Setja í bið
+cfr-doorhanger-pintab-animation-resume = Halda áfram

@@ -7,13 +7,8 @@ about-policies-title = Reglur fyrirtækis
 active-policies-tab = Virkar
 errors-tab = Villur
 documentation-tab = Skjölun
+no-specified-policies-message = Enterprise Policy þjónustan er virk, en engar reglur hafa verið virkjaðar.
+inactive-message = Enterprise Policy þjónustan er óvirkjuð.
 policy-name = Nafn á reglu
 policy-value = Gildi reglu
 policy-errors = Villur við stefnu
-# 'gpo-machine-only' policies are related to the Group Policy features
-# on Windows. Please use the same terminology that is used on Windows
-# to describe Group Policy.
-# These policies can only be set at the computer-level settings, while
-# the other policies can also be set at the user-level.
-gpo-machine-only =
-    .title = Þegar hópstefnan er notuð er einungis hægt að stilla þessa stefnu á tölvustigi.
