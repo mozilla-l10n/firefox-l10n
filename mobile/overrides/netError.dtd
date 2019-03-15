@@ -218,3 +218,6 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> usa una teunoloxía de seguranza que nun ta anovada y ye vulnerable a ataques. Un atacante podría revelar información cenciellamente que cuidabes que taba segura. L'alministrador del sitiu web pecisará iguar primero'l sirvidor enantes que pueas visitar el sitiu.</p><p>Códigu de fallu: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+<!ENTITY networkProtocolError.title "Fallu del protocolu de rede">
+<!ENTITY networkProtocolError.longDesc "<p>Nun pue amosase la páxina que tas tentando de ver porque deteutóse un fallu nel protocolu de rede.</p><ul><li>Contauta colos dueños del sitiu web pa informalos d'esti problema.</li></ul>">
