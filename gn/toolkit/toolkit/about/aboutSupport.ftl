@@ -246,6 +246,7 @@ sandbox-proc-type-data-decoder = Mba’ekuaarã papapy'o
 launcher-process-status-0 = Jurujapyre
 launcher-process-status-1 = Ojepe'apyre ojavy rupi
 launcher-process-status-2 = Mbaretépe jepe’apyre
+launcher-process-status-unknown = Tekotee ojekuaa’ỹva
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
