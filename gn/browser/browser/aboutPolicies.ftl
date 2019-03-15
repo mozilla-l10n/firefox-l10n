@@ -7,13 +7,8 @@ about-policies-title = Mba’apohaguasu Purureko
 active-policies-tab = Myandypy
 errors-tab = Jejavy
 documentation-tab = Kuatiaita
+no-specified-policies-message = Mba’apohaguasu Purureko pytyvõrã ndojepurukuaái, hákatu ndaiporivoi purureko ijurujáva.
+inactive-message = Mba’apohaguasu Purureko pytyvõrã ndojepurukuaái.
 policy-name = Purureko réra
 policy-value = Purureko repykue
 policy-errors = Purureko jejavy
-# 'gpo-machine-only' policies are related to the Group Policy features
-# on Windows. Please use the same terminology that is used on Windows
-# to describe Group Policy.
-# These policies can only be set at the computer-level settings, while
-# the other policies can also be set at the user-level.
-gpo-machine-only =
-    .title = Eipurúvo Aty Purureko, ko purureko ikatu hína ne mohendahápe g̃uarã añónte.
