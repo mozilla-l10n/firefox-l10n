@@ -335,6 +335,9 @@ browsing-search-on-start-typing =
 browsing-cfr-recommendations =
     .label = Suosittele laajennuksia selaamisen yhteydessä
     .accesskey = S
+browsing-cfr-features =
+    .label = Suosittele ominaisuuksia selaamisen yhteydessä
+    .accesskey = u
 browsing-cfr-recommendations-learn-more = Lue lisää
 
 ## General Section - Proxy
@@ -529,6 +532,7 @@ sync-mobilepromo-single = Yhdistä toinen laite
 sync-mobilepromo-multi = Hallitse laitteita
 sync-connect-another-device = Yhdistä toinen laite
 sync-manage-devices = Hallitse laitteita
+sync-fxa-begin-pairing = Parita laite
 sync-tos-link = Käyttöehdot
 sync-fxa-privacy-notice = Tietosuojakäytäntö
 

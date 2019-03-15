@@ -108,7 +108,6 @@ These items have the same accesskey but will never be visible at the same time. 
 <!ENTITY  hiddenTabs.label                   "Piilotetut välilehdet">
 
 <!ENTITY  listAllTabs.label      "Listaa kaikki välilehdet">
-
 <!-- LOCALIZATION NOTE (allTabsMenu.searchTabs.label): "Search" is a verb, as
 in "Search through tabs". -->
 <!ENTITY  allTabsMenu.searchTabs.label       "Etsi välilehtiä">
@@ -130,6 +129,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.label "Tulosta…">
 <!ENTITY printCmd.accesskey "o">
 <!ENTITY printCmd.commandkey "p">
+
 
 <!ENTITY taskManagerCmd.label "Tehtävienhallinta">
 
@@ -879,7 +879,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "Sivustolle ei ole myönnetty mitään erityisoikeuksia.">
 <!ENTITY identity.permissionsReloadHint "Sivu tarvitsee ehkä päivittää, jotta muutokset tulevat voimaan.">
 <!ENTITY identity.permissionsPreferences.tooltip "Avaa oikeusasetukset">
-
 <!ENTITY identity.contentBlockingPreferences.tooltip "Avaa sisällön eston asetukset">
 
 
@@ -1129,6 +1128,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Voit hallita lisäosia avaamalla <image class='addon-toolbar-icon'/>-valikon ja napsauttamalla <image class='addon-addon-icon'/>-kuvaketta.">
+<!ENTITY addonPostInstall.incognito.label "Salli tämän laajennuksen käyttö yksityisissä ikkunoissa.">
 
+<!ENTITY addonPrivateBrowsing.learnMore.label "Lue lisää kuinka hallita laajennusten asetuksia.">
 <!ENTITY addonPrivateBrowsing.okButton.label "Selvä">
 <!ENTITY addonPrivateBrowsing.manageButton.label "Hallitse laajennuksia">
