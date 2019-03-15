@@ -71,5 +71,6 @@ policy-SearchBar = Emboheko jehekaha rendaite ijypykue rupi. Pe puruhára ikatu 
 policy-SearchEngines = Emboheko jehekaha ñemoĩporã. Ko purureko eipurukuaa pe Extended Support Release (ESR) rupive.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Emohenda PKCS # 11 ra'ãha.
+policy-SSLVersionMax = Emboheko SSL rembiapokue ipyahuvéva.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Ejoko ñanduti rendápe jeike. Emoñe’ẽ kuatiaita ehechakuaa hag̃ua mba’emimi ko ysaja rehegua.
