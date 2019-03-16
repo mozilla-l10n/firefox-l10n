@@ -5,9 +5,7 @@
 <!ENTITY windowTitle.label "Barva">
 <!ENTITY lastPickedColor.label "Naposledy použitá barva">
 <!ENTITY lastPickedColor.accessKey "N">
-<!ENTITY setColor1.label "Klepněte na barvu nebo">
-<!ENTITY setColor2.label "zadejte definici HTML barvy">
-<!ENTITY setColor2.accessKey "d">
+<!ENTITY chooseColor1.label "Vyberte barvu:">
 <!ENTITY setColorExample.label "(např.: „#0000ff“ nebo „blue“):">
 <!ENTITY default.label "Výchozí">
 <!ENTITY default.accessKey "V">

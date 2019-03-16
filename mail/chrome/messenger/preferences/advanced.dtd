@@ -67,6 +67,7 @@
  -->
 <!ENTITY updateApp.version.pre           "Verze ">
 <!ENTITY updateApp.version.post          "">
+<!ENTITY updateAppAllow.description      "Povolit aplikaci &brandShortName;">
 <!ENTITY updateAuto.label                "Instalovat aktualizace automaticky (doporučováno z důvodu vyšší bezpečnosti)">
 <!ENTITY updateAuto.accesskey            "A">
 <!ENTITY updateCheck.label               "Vyhledávat aktualizace, ale zeptat se, zda mají být nainstalovány">
@@ -76,6 +77,7 @@
 
 <!ENTITY useService.label                "K instalaci aktualizací použít službu na pozadí">
 <!ENTITY useService.accesskey            "s">
+
 
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Nastavení…">
