@@ -51,17 +51,17 @@
 <!ENTITY fxaccount_getting_started_get_started 'Iniçia'>
 <!ENTITY fxaccount_getting_started_old_firefox 'Ti deuvi \&apos;na vegia verscion de &syncBrand.shortName.label;?'>
 
-<!ENTITY fxaccount_status_auth_server 'Server di account'>
+<!ENTITY fxaccount_status_auth_server 'Server de conti'>
 <!ENTITY fxaccount_status_sync_now 'Scincronizza oua'>
 <!ENTITY fxaccount_status_syncing2 'Scincronizaçion…'>
 <!ENTITY fxaccount_status_device_name 'Nomme dispoxitivo'>
 <!ENTITY fxaccount_status_sync_server 'Server Sync'>
-<!ENTITY fxaccount_status_needs_verification2 'O teu account o deve ese verificou. Sciacca pe mandâ torna l\&apos;email de verifica.'>
+<!ENTITY fxaccount_status_needs_verification2 'O teu conto o deve ese verificou. Sciacca pe mandâ torna l\&apos;email de verifica.'>
 <!ENTITY fxaccount_status_needs_credentials 'No me pòsso conette. Sciacca pe intrâ.'>
 <!ENTITY fxaccount_status_needs_upgrade 'Ti devi agiornâ &brandShortName; pe intrâ.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; o l\&apos;é scistemou, ma o no scincronizza in aotomatico. Cangia a “Aotoscincronizza dati” inte inpostaçioin Android &gt; Uzo dati.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; o l\&apos;é scistemou, ma o no scincronizza in aotomatico. Cangia a “Aotoscincronizza dati” inte inpostaçioin Android &gt; Account.'>
-<!ENTITY fxaccount_status_needs_finish_migrating 'Sciacca pe intrâ into neuvo account Firefox.'>
+<!ENTITY fxaccount_status_needs_finish_migrating 'Sciacca pe intrâ into neuvo conto Firefox.'>
 <!ENTITY fxaccount_status_choose_what 'Çerni cöse scincronizâ'>
 <!ENTITY fxaccount_status_bookmarks 'Segnalibbri'>
 <!ENTITY fxaccount_status_history 'Stöia'>
@@ -85,7 +85,7 @@
 <!ENTITY fxaccount_remove_account_dialog_message2 'I teu dæti de navegaçion restian in sce questo computer, ma no ti saiæ ciù scincronizou co-o teu account Sync.'>
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_remove_account_toast2 'Account Firefox &formatS; disconesso.'>
+<!ENTITY fxaccount_remove_account_toast2 'Conto Firefox &formatS; disconesso.'>
 <!-- Localization note (fxaccount_remove_account_dialog_action_confirm): This is the label for the
  confirm button in the dialog that shows up when disconnecting from sync. -->
 <!ENTITY fxaccount_remove_account_dialog_action_confirm 'Disconnetti'>

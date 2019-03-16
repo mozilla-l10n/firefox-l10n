@@ -184,7 +184,7 @@
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
-<!ENTITY overlay_no_synced_devices "Nisciun dispoxitivo con Account Firefox conesso atrovou">
+<!ENTITY overlay_no_synced_devices "Nisciun dispoxitivo con conto Firefox conesso atrovou">
 
 <!ENTITY pref_category_search3 "Çerca">
 <!ENTITY pref_category_search_summary2 "Azonzi motô de riçerca, inpòsta predefinio, mostra conseggi">
@@ -385,7 +385,7 @@
 <!ENTITY pref_qrcode_enabled_summary2 "Permetti o scan QR inta bara de URL">
 
 <!ENTITY pref_use_master_password "Adevia paròlla segreta prinçipâ">
-<!ENTITY pref_sync_default_title "Account Firefox">
+<!ENTITY pref_sync_default_title "Conto Firefox">
 <!ENTITY pref_sync2 "Intra">
 <!ENTITY pref_sync_summary2 "Scincronizza feuggi, segnalibbri, acessi e stöia">
 <!ENTITY pref_search_suggestions "Veddi i sugerimenti de riçerca">
