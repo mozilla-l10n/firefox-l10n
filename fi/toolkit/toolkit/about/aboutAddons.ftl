@@ -250,3 +250,6 @@ go-back-button =
 
 remove-addon-button = Poista
 disable-addon-button = Poista käytöstä
+enable-addon-button = Käytä
+addons-enabled-heading = Käytössä
+addons-disabled-heading = Ei käytössä
