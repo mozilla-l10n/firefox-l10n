@@ -95,7 +95,7 @@ detail-update-manual =
     .tooltiptext = Non installar automaticamente le actualisationes
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Aperir in un fenestra private
-detail-private-browsing-description = Le extension functionara in fenestras anonyme e habera accesso a tu activitates online. <label data-l10n-name="detail-private-browsing-learn-more">Saper plus</label>
+detail-private-browsing-description2 = Quando consentite, le extension habera accesso a tu activitates online durante le navigation anonyme. <label data-l10n-name="detail-private-browsing-learn-more">Saper plus</label>
 detail-private-browsing-on =
     .label = Consentir
     .tooltiptext = Activar in navigation anonime
@@ -144,9 +144,6 @@ legacy-warning-show-legacy = Monstrar le extensiones obsolete
 legacy-extensions =
     .value = Extensiones obsolete
 legacy-extensions-description = Ille extensiones non concorda le standardos currente de { -brand-short-name } assi illos esseva disactivate. <label data-l10n-name="legacy-learn-more">Sape lo que cambiava al additivos</label>
-private-browsing-description =
-    Le extensiones non es consentite de ordinario pro fluer in Fenestras anonyme. Isto significa que illos non functiona durante le navigation anonyme e illos non habera accesso illac a tu activitates online. Pro consentir que
-    un extension flue in Fenestras anonyme, elige le carta de extension infra e cambia tu parametros.
 extensions-view-discover =
     .name = Obtener additivos
     .tooltiptext = { extensions-view-discover.name }
