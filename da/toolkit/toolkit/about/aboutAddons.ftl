@@ -103,6 +103,8 @@ detail-update-manual =
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Anvend i private vinduer
 
+detail-private-browsing-description2 = Udvidelsen vil have adgang til dine aktiviteter i privat browsing-tilstand, når du giver den tilladelse til det. <label data-l10n-name="detail-private-browsing-learn-more">Læs mere</label>
+
 detail-private-browsing-description = Udvidelsen vil fungere i private vinduer og dermed have adgang til dine aktiviteter på nettet. <label data-l10n-name="detail-private-browsing-learn-more">Læs mere</label>
 
 detail-private-browsing-on =
