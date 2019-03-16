@@ -90,7 +90,7 @@ detail-update-manual =
     .tooltiptext = Ikke automatisk installer oppdateringer
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Kjør i private vindu
-detail-private-browsing-description = Utvidelser vil fungere i private vindu, og få tilgang til dine aktiviteter på nettet. <label data-l10n-name="detail-private-browsing-learn-more">Les mer</label>
+detail-private-browsing-description2 = Utvidelsen har tilgang til dine aktiviteter mens du bruker privat nettlesing, hvis du gir tilgang til det. <label data-l10n-name="detail-private-browsing-learn-more">Les mer</label>
 detail-private-browsing-on =
     .label = Tillat
     .tooltiptext = Tillat i privat nettlesing
