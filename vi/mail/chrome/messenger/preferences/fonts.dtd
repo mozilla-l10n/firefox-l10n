@@ -2,41 +2,36 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  fontsAndEncodingsDialog.title           "Phông &amp; Bảng mã">
-<!ENTITY  window.width                            "39em">
-<!ENTITY  window.macWidth                         "43em">
-<!ENTITY  window.unixWidth                        "41em">
+<!ENTITY  fontsAndEncodingsDialog.title           "Phông chữ &amp; bảng mã">
 
-<!ENTITY  language.label                          "Phông cho:">
-<!ENTITY  language.accesskey                      "P">
+<!ENTITY  language.label                          "Phông chữ cho:">
+<!ENTITY  language.accesskey                      "t">
 
 <!ENTITY  size.label                              "Kích cỡ:">
-<!ENTITY  proportionalSize.accesskey              "K">
-<!ENTITY  sizeMono.accesskey                      "h">
+<!ENTITY  sizeProportional.accesskey              "e">
+<!ENTITY  sizeMonospace.accesskey                 "i">
 
-<!ENTITY  proportional.label                      "Tỉ lệ:">
-<!ENTITY  proportional.accesskey                  "l">
+<!ENTITY  proportional.label                      "Tỷ lệ:">
+<!ENTITY  proportional.accesskey                  "P">
 
 <!ENTITY  serif.label                             "Serif:">
 <!ENTITY  serif.accesskey                         "S">
 <!ENTITY  sans-serif.label                        "Sans-serif:">
 <!ENTITY  sans-serif.accesskey                    "n">
-<!ENTITY  monospace.label                         "Giãn Cách Đơn:">
-<!ENTITY  monospace.accesskey                     "G">
+<!ENTITY  monospace.label                         "Monospace:">
+<!ENTITY  monospace.accesskey                     "M">
 
-<!ENTITY  font.langGroup.latin1                   "Phương Tây">
-<!ENTITY  font.langGroup.latin2                   "Trung Âu">
+<!-- LOCALIZATION NOTE (font.langGroup.latin) :
+     Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
+<!ENTITY  font.langGroup.latin                    "Latin">
 <!ENTITY  font.langGroup.japanese                 "Nhật Bản">
 <!ENTITY  font.langGroup.trad-chinese             "Hoa Phồn Thể (Đài Loan)">
 <!ENTITY  font.langGroup.simpl-chinese            "Hoa Giản Thể">
 <!ENTITY  font.langGroup.trad-chinese-hk          "Hoa Phồn Thể (Hồng Kông)">
 <!ENTITY  font.langGroup.korean                   "Hàn Quốc">
 <!ENTITY  font.langGroup.cyrillic                 "Kirin">
-<!ENTITY  font.langGroup.baltic                   "Ấn Âu">
 <!ENTITY  font.langGroup.el                       "Hi Lạp">
-<!ENTITY  font.langGroup.turkish                  "Thổ Nhĩ Kì">
-<!ENTITY  font.langGroup.unicode                  "Ngôn ngữ khác">
-<!ENTITY  font.langGroup.user-def                 "Người dùng Định nghĩa">
+<!ENTITY  font.langGroup.other                    "Hệ thống chữ viết khác">
 <!ENTITY  font.langGroup.thai                     "Thái">
 <!ENTITY  font.langGroup.hebrew                   "Do Thái">
 <!ENTITY  font.langGroup.arabic                   "Ả Rập">
@@ -51,10 +46,10 @@
 <!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi">
 <!ENTITY  font.langGroup.khmer                    "Khơ-me">
 <!ENTITY  font.langGroup.malayalam                "Malayalam">
-
+<!ENTITY  font.langGroup.odia                     "Tiếng Odia">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "Cỡ phông tối thiểu:">
-<!ENTITY minSize.accesskey                        "n">
+<!ENTITY minSize.accesskey                        "z">
 <!ENTITY minSize.none                             "Không">
 
 <!-- default font type -->
@@ -62,20 +57,19 @@
 <!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
 
 <!-- fonts in message -->
-<!ENTITY  fontControl.label                       "Điều chỉnh Phông">
-<!ENTITY  useFixedWidthForPlainText.label         "Dùng phông độ rộng cố định cho các thư thuần văn bản">
-<!ENTITY  fixedWidth.accesskey                    "b">
-<!ENTITY  useDocumentFonts.label                  "Cho phép thư sử dụng phông khác">
-<!ENTITY  useDocumentFonts.accesskey              "C">
+<!ENTITY  fontControl.label                       "Điều chỉnh phông chữ">
+<!ENTITY  useFixedWidthForPlainText.label         "Sử dụng phông chữ có chiều rộng cố định cho thư văn bản thuần túy">
+<!ENTITY  fixedWidth.accesskey                    "x">
+<!ENTITY  useDocumentFonts.label                  "Cho phép thư sử dụng phông chữ khác">
+<!ENTITY  useDocumentFonts.accesskey              "o">
 
 <!-- Language settings -->
-<!ENTITY sendDefaultCharset.label         "Thư Gửi:">
-<!ENTITY sendDefaultCharset.accesskey     "h">
-<!ENTITY languagesTitle1.label            "Bảng mã">
-<!ENTITY composingDescription.label       "Thiết lập bảng mã mặc định để gửi và nhận thư">
+<!ENTITY sendDefaultCharset.label         "Thư gửi đi:">
+<!ENTITY sendDefaultCharset.accesskey     "u">
+<!ENTITY languagesTitle2.label            "Mã hóa văn bản">
+<!ENTITY composingDescription2.label      "Đặt mã hóa văn bản mặc định để gửi và nhận thư">
 
-<!ENTITY viewDefaultCharsetList.label     "Thư Nhận:">
-<!ENTITY viewDefaultCharsetList.accesskey  "N">
-<!ENTITY replyInDefaultCharset2.label     "Nếu được, dùng bảng mã mặc định trong thư trả lời">
-<!ENTITY replyInDefaultCharset2.accesskey "o">
-
+<!ENTITY viewDefaultCharsetList.label     "Thư đến:">
+<!ENTITY viewDefaultCharsetList.accesskey  "I">
+<!ENTITY replyInDefaultCharset3.label     "Khi có thể, sử dụng mã hóa văn bản mặc định trong trả lời">
+<!ENTITY replyInDefaultCharset3.accesskey "h">

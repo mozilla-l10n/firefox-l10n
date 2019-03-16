@@ -2,12 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY attachmentReminderDialog.title   "Từ khóa để Nhắc về Đính kèm">
-<!ENTITY attachKeywordText.label          "&brandShortName; sẽ báo cho bạn là đang thiếu phần đính kèm khi nào gửi e-mail chứa một trong những từ khóa này.">
-<!ENTITY addKeywordButton.label           "Thêm">
-<!ENTITY addKeywordButton.accesskey       "T">
-<!ENTITY editKeywordButton.label          "Chỉnh sửa">
-<!ENTITY editKeywordButton.accesskey      "C">
+<!ENTITY attachmentReminderDialog.title   "Từ khóa lời nhắc về đính kèm">
+<!ENTITY attachKeywordText.label          "&brandShortName; sẽ cảnh báo bạn về các tập tin đính kèm bị thiếu nếu bạn sắp gửi e-mail chứa một trong những từ khóa này.">
+<!ENTITY newKeywordButton.label           "Mới…">
+<!ENTITY newKeywordButton.accesskey       "N">
+<!ENTITY editKeywordButton1.label         "Chỉnh sửa…">
+<!ENTITY editKeywordButton1.accesskey     "E">
 <!ENTITY removeKeywordButton.label        "Xóa">
-<!ENTITY removeKeywordButton.accesskey    "X">
-
+<!ENTITY removeKeywordButton.accesskey    "D">
