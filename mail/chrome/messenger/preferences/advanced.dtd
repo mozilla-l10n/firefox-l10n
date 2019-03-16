@@ -18,6 +18,8 @@
 <!ENTITY mboxStore2.label              "Tập tin trên mỗi thư mục (mbox)">
 <!ENTITY maildirStore.label            "Tập tin trên mỗi thư (maildir)">
 
+<!ENTITY scrolling.label               "Cuộn">
+<!ENTITY useAutoScroll.label           "Sử dụng tự động cuộn">
 <!ENTITY useAutoScroll.accesskey       "U">
 <!ENTITY useSmoothScrolling.label      "Cuộn uyển chuyển">
 <!ENTITY useSmoothScrolling.accesskey  "m">

@@ -3,10 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  typeColumn.label            "Kiểu dữ liệu">
-<!ENTITY  typeColumn.accesskey        "K">
+<!ENTITY  typeColumn.accesskey        "T">
 
-<!ENTITY  actionColumn2.label         "Thao tác">
-<!ENTITY  actionColumn2.accesskey     "T">
+<!ENTITY  actionColumn2.label         "Hành động">
+<!ENTITY  actionColumn2.accesskey     "A">
 
 <!ENTITY  focusSearch1.key            "f">
 <!ENTITY  focusSearch2.key            "k">
@@ -14,11 +14,22 @@
 <!ENTITY  filter.placeholder          "Tìm kiếm">
 
 <!ENTITY saveTo.label                 "Lưu các tập tin vào">
-<!ENTITY saveTo.accesskey             "L">
+<!ENTITY saveTo.accesskey             "S">
 <!ENTITY alwaysAsk.label              "Luôn hỏi tôi nơi lưu tập tin">
-<!ENTITY alwaysAsk.accesskey          "h">
+<!ENTITY alwaysAsk.accesskey          "A">
 <!ENTITY chooseFolderWin.label        "Duyệt…">
-<!ENTITY chooseFolderWin.accesskey    "D">
+<!ENTITY chooseFolderWin.accesskey    "B">
 <!ENTITY chooseFolderMac.label        "Chọn…">
 <!ENTITY chooseFolderMac.accesskey    "C">
 
+
+<!ENTITY addCloudFileAccount1.label       "Thêm…">
+<!ENTITY addCloudFileAccount1.accesskey   "A">
+<!ENTITY removeCloudFileAccount.label     "Xóa">
+<!ENTITY removeCloudFileAccount.accesskey "R">
+<!ENTITY authRequired.description         "Cần có sự cho phép của bạn để xem cài đặt cho dịch vụ lưu trữ này.">
+<!ENTITY authRequired.button.label        "Ủy quyền">
+<!ENTITY authRequired.button.accesskey    "U">
+
+<!ENTITY enableCloudFileAccountOffer.label "Đề nghị chia sẻ cho các tập tin lớn hơn">
+<!ENTITY enableCloudFileAccountOffer.mb "MB">
