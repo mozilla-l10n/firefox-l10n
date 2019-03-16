@@ -1130,6 +1130,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addonPostInstallMessage.label "Voit hallita lisäosia avaamalla <image class='addon-toolbar-icon'/>-valikon ja napsauttamalla <image class='addon-addon-icon'/>-kuvaketta.">
 <!ENTITY addonPostInstall.incognito.label "Salli tämän laajennuksen käyttö yksityisissä ikkunoissa.">
 
+<!ENTITY addonPrivateBrowsing.body2.label "Yksikään &brandShorterName;iin lisäämäsi uusi laajennus ei toimi yksityisissä ikkunoissa, ellet salli toimintaa asetuksista.">
 <!ENTITY addonPrivateBrowsing.learnMore.label "Lue lisää kuinka hallita laajennusten asetuksia.">
 <!ENTITY addonPrivateBrowsing.okButton.label "Selvä">
 <!ENTITY addonPrivateBrowsing.manageButton.label "Hallitse laajennuksia">
