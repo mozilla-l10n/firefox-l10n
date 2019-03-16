@@ -56,12 +56,12 @@
                                            Tarkista, että käytät &brandShortName;in uusinta versiota osoitteesta:">
 
 <!ENTITY  finishedPage.title              "Päivitys on valmis asennettavaksi">
-<!ENTITY  finishedPage.text               "Päivitys asennetaan, kun &brandShortName; käynnistetään uudelleen. Voit
-                                           käynnistää &brandShortName;in uudelleen nyt tai jatkaa &brandShortName;in
-                                           käyttöä ja käynnistää sen uudelleen myöhemmin.">
+<!ENTITY  finishedPage.text               "Päivitys asennetaan, kun &brandShortName; käynnistetään uudelleen. Käynnistä
+                                           &brandShortName; uudelleen nyt tai jatka käyttöä ja
+                                           käynnistä &brandShortName; uudelleen myöhemmin.">
 
-<!ENTITY  finishedBackgroundPage.text     "Turvallisuus- ja vakauspäivitys &brandShortName;iin
-                                           on ladattu ja valmis asennettavaksi.">
+<!ENTITY  finishedBackgroundPage.text     "Sovelluksen &brandShortName; turvallisuus- ja vakauspäivitys on
+                                           ladattu, ja se on valmis asennettavaksi.">
 <!ENTITY  finishedBackground.name         "Päivitys:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "Päivitys asennetaan, kun &brandShortName; käynnistetään uudelleen. Voit
@@ -72,6 +72,3 @@
                                            &brandShortName;in uudelleen nyt, jatkaa &brandShortName;in käyttöä ja
                                            käynnistää sen uudelleen myöhemmin tai hylätä tämän päivityksen.">
 
-<!ENTITY  update.details.label            "Yksityiskohdat">
-<!ENTITY  update.installedOn.label        "Asennusaika:">
-<!ENTITY  update.status.label             "Tila:">
