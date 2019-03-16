@@ -10,6 +10,7 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
+policy-3rdparty = WebExtensions chrome.storage.managed арқылы қатынай алатын саясаттарды орнатыңыз.
 policy-AppUpdateURL = Қолданбаны жаңартудың таңдауыңызша URL-ын орнату.
 policy-Authentication = Құрамдас аутентификациясын қолдайтын веб-сайттары үшін оны баптау.
 policy-BlockAboutAddons = Қосымшалар басқарушысына (about:addons) қатынауды бұғаттау.
