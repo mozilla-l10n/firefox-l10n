@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sanitize-prefs =
-    .title = Definições para limpar o histórico
+    .title = Definições para limpar histórico
     .style = width: 34em
 sanitize-prefs-style =
     .style = width: 17em
@@ -26,8 +26,8 @@ clear-data-settings-label = Quando fechado, o { -brand-short-name } deve limpar 
 ## Time range to clear: (Last Hour, Today, etc.)
 
 clear-time-duration-prefix =
-    .value = Limpar histórico:{ " " }
-    .accesskey = L
+    .value = Intervalo de tempo a limpar:{ " " }
+    .accesskey = t
 clear-time-duration-value-last-hour =
     .label = da última hora
 clear-time-duration-value-last-2-hours =
