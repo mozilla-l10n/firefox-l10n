@@ -17,6 +17,7 @@ policy-BlockAboutConfig = Estä pääsy about:config-sivulle.
 policy-BlockAboutProfiles = Estä pääsy about:profiles-sivulle.
 policy-BlockAboutSupport = Estä pääsy about:support-sivulle.
 policy-Bookmarks = Luo kirjanmerkkejä kirjanmerkkipalkkiin, Kirjanmerkit-valikkoon tai tiettyyn kansioon niiden sisälle.
+policy-CaptivePortal = Ota käyttöön tai poista käytöstä vahtiportaalien tuki.
 policy-CertificatesDescription = Lisää varmenteita tai käytä sisäänrakennettuja varmenteita.
 policy-Cookies = Salli tai estä, että sivustot asettavat evästeitä.
 policy-DisableAppUpdate = Estä selainta päivittymästä.
@@ -55,6 +56,7 @@ policy-HardwareAcceleration = Jos epätosi, poista laitteistokiihdytys käytöst
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Aseta ja valinnaisesti lukitse aloitussivu.
 policy-InstallAddonsPermission = Salli tiettyjen sivustojen asentaa lisäosia.
+policy-NetworkPrediction = Ota käyttöön tai poista käytöstä verkkoennakointi (DNS-esihaku).
 policy-NoDefaultBookmarks = Poista käytöstä { -brand-short-name }in mukana tulevien oletuskirjanmerkkien luonti ja älykkäiden kirjanmerkkien (Useimmin avatut, Viimeiset avainsanat) luonti. Huomaa: tällä käytännöllä on vaikutusta vain, kun profiili käynnistetään ensimmäisen kerran.
 policy-OfferToSaveLogins = Pakota asetus, joka sallii { -brand-short-name }in tarjota käyttäjätunnusten ja salasanojen tallentamista. Sekä tosi- että epätosi-arvot hyväksytään.
 policy-OverrideFirstRunPage = Korvaa ensimmäisen käynnistyskerran sivu. Aseta tämä käytäntö tyhjäksi, jos haluat poistaa ensimmäisen käyttökerran sivun käytöstä.
