@@ -93,6 +93,14 @@ detail-update-automatic =
 detail-update-manual =
     .label = Vypnuté
     .tooltiptext = Neinštalovať aktualizácie automaticky
+# Used as a description for the option to allow or block an add-on in private windows.
+detail-private-browsing-label = Povoliť v súkromných oknách
+detail-private-browsing-on =
+    .label = Povoliť
+    .tooltiptext = Povoliť v súkromných oknách
+detail-private-browsing-off =
+    .label = Nepovoliť
+    .tooltiptext = Nepovoliť v súkromných oknách
 detail-home =
     .label = Domovská stránka
 detail-home-value =
@@ -223,8 +231,20 @@ shortcuts-no-addons = Nemáte povolené žiadne rozšírenie.
 shortcuts-no-commands = Nasledujúce rozšírenia nemajú skratky:
 shortcuts-input =
     .placeholder = Zadajte klávesovú skratku
+shortcuts-browserAction = Aktivovať rozšírenie
+shortcuts-pageAction = Aktivovať akciu stránky
+shortcuts-sidebarAction = Prepnúť zobrazenie bočného panela
+shortcuts-modifier-mac = Nezabudnite vložiť aj Ctrl, Alt alebo ⌘
+shortcuts-modifier-other = Nezabudnite vložiť aj Ctrl alebo Alt
 shortcuts-invalid = Neplatná kombinácia klávesov
 shortcuts-letter = Napíšte písmeno
+shortcuts-system = Prepísať skratku aplikácie { -brand-short-name } nie je možné
+shortcuts-card-expand-button =
+    { $numberToShow ->
+        [one] Zobraziť { $numberToShow } ďalšiu
+        [few] Zobraziť { $numberToShow } ďalšie
+       *[other] Zobraziť { $numberToShow } ďalších
+    }
 shortcuts-card-collapse-button = Zobraziť menej
 go-back-button =
     .tooltiptext = Späť
