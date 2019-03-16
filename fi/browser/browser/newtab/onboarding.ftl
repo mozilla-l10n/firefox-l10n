@@ -27,7 +27,7 @@ onboarding-ghostery-title = Ghostery
 onboarding-ghostery-text = Selaa nopeammin, älykkäämmin tai turvallisemmin laajennusten avulla; esimerkkinä Ghostery, joka mahdollistaa ärsyttävien mainosten estämisen.
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Synkronointi
-onboarding-fxa-text = Luo { -fxaccount-brand-name } -tili ja synkronoi kirjanmerkit, salasanat ja avoimet välilehdet kaikkialla, missä käytät { -brand-short-name }ia.
+onboarding-fxa-text = Luo { -fxaccount-brand-name } ja synkronoi kirjanmerkit, salasanat ja avoimet välilehdet kaikkialla, missä käytät { -brand-short-name }ia.
 
 ## Message strings belonging to the Return to AMO flow
 

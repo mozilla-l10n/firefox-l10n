@@ -13,7 +13,7 @@
 <!ENTITY window.style "width: 490px;">
 
 <!ENTITY window.nosync "Firefoxin vanhan version käyttäminen voi vioittaa nykyiseen Firefox-profiiliin tallennetut kirjanmerkit ja selaushistorian. Suojellaksesi tietojasi, luo uusi profiili tätä &brandShortName;-asennusta varten.">
-<!ENTITY window.sync "Firefoxin vanhan version käyttäminen voi vioittaa nykyiseen Firefox-profiiliin tallennetut kirjanmerkit ja selaushistorian. Suojellaksesi tietojasi, luo uusi profiili tätä &brandShortName;-asennusta varten. Voit aina kirjautua sisään &syncBrand.fxAccount.label;-tilillä ja synkronoida kirjanmerkit sekä selaushistorian profiilien välillä.">
+<!ENTITY window.sync "Firefoxin vanhan version käyttäminen voi vioittaa nykyiseen Firefox-profiiliin tallennetut kirjanmerkit ja selaushistorian. Suojellaksesi tietojasi, luo uusi profiili tätä &brandShortName;-asennusta varten. Voit aina kirjautua sisään &syncBrand.fxAccount.label;llä ja synkronoida kirjanmerkit sekä selaushistorian profiilien välillä.">
 
 <!ENTITY window.create "Luo uusi profiili">
 <!ENTITY window.quit-win "Sulje">

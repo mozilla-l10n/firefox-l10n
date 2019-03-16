@@ -446,7 +446,7 @@ containers-remove-button =
 
 sync-signedout-caption = Pidä oma selain aina mukanasi
 sync-signedout-description = Synkronoi kirjanmerkit, sivuhistoria, välilehdet, salasanat, lisäosat ja asetukset kaikilla laitteillasi.
-sync-signedout-account-title = Yhdistä { -fxaccount-brand-name }in
+sync-signedout-account-title = Yhdistä { -fxaccount-brand-name(case: "illative") }
 sync-signedout-account-create = Eikö sinulla ole tiliä? Aloitetaan
     .accesskey = E
 sync-signedout-account-signin =

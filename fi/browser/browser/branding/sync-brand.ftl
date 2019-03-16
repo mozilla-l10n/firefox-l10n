@@ -8,4 +8,10 @@
 -sync-brand-name = Firefox Sync
 # “Account” can be localized, “Firefox” must be treated as a brand,
 # and kept in English.
--fxaccount-brand-name = Firefox-tili
+-fxaccount-brand-name =
+    { $case ->
+        [adessive] Firefox-tilillä
+        [illative] Firefox-tiliin
+        [partitive] Firefox-tiliä
+       *[nominative] Firefox-tili
+    }
