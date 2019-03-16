@@ -335,6 +335,9 @@ browsing-search-on-start-typing =
 browsing-cfr-recommendations =
     .label = Extensiones recommendate quando tu naviga
     .accesskey = r
+browsing-cfr-features =
+    .label = Functionalitates recommendate durante que tu naviga.
+    .accesskey = F
 browsing-cfr-recommendations-learn-more = Saper plus
 
 ## General Section - Proxy
@@ -733,23 +736,12 @@ permissions-notification-link = Saper plus
 permissions-notification-pause =
     .label = Pausar le notificationes usque { -brand-short-name } reinitia
     .accesskey = n
-permissions-block-autoplay-media =
-    .label = Blocar le reproduction automatic de medias con sono in le sitos web
-    .accesskey = B
-permissions-block-autoplay-media-menu = Pro le sitos web que presenta sono automaticamente
 permissions-block-autoplay-media2 =
     .label = Blocar le sitos web de reproducer automaticamente sono
     .accesskey = B
 permissions-block-autoplay-media-exceptions =
     .label = Exceptiones…
     .accesskey = E
-autoplay-option-ask =
-    .label = Demandar sempre
-autoplay-option-allow =
-    .label = Permitter le presentation automatic
-autoplay-option-dont =
-    .label = Non presentar automaticamente
-permissions-autoplay-link = Saper plus
 permissions-block-popups =
     .label = Blocar le fenestras emergente
     .accesskey = B
@@ -785,10 +777,6 @@ addon-recommendations-link = Saper plus
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Le reporto de datos es inactive pro iste configuration de compilation
-collection-browser-errors =
-    .label = Consentir a { -brand-short-name } de inviar reportos de error de navigator (includite messages de error) a { -vendor-short-name }
-    .accesskey = b
-collection-browser-errors-link = Saper plus
 collection-backlogged-crash-reports =
     .label = Consentir { -brand-short-name } de inviar in tu nomine reportos de collapso arretrate
     .accesskey = c
