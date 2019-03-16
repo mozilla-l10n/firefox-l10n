@@ -9,6 +9,7 @@
 
 <!ENTITY window.title "Tärkeitä uutisia">
 <!ENTITY window.style "width: 490px">
+<!ENTITY sync "Synkronoidaksesi tiedot, jotka olet jo tallettanut tähän &brandShortName;-asennukseen, kirjaudu sisään omalla &syncBrand.fxAccount.label;llä.">
 <!ENTITY continue-button "Jatka">
 
 <!ENTITY mainText "Tämä &brandShortName;-asennus käyttää uutta profiilia. Se ei jaa kirjanmerkkejä, salasanoja tai käyttäjäasetuksia muiden tällä tietokoneella olevien Firefox-asennusten kanssa (mukaan lukien Firefox, Firefox ESR, Firefox Beta, Firefox Developer Edition ja Firefox Nightly).">
