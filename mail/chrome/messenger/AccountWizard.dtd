@@ -53,6 +53,7 @@
 <!ENTITY portNum.label "Cổng:">
 <!ENTITY portNum.accesskey "C">
 <!ENTITY defaultPortLabel.label "Mặc định:">
+<!ENTITY defaultPortValue.label "">
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
 <!ENTITY incomingServer.label "Máy chủ Nhận thư:">
 <!ENTITY incomingServer.accesskey "M">
