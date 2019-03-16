@@ -138,7 +138,7 @@ use-firefox-sync = Ved tilladelse af samtidig kørsel benyttes to forskellige pr
 get-started-not-logged-in = Log ind på { -sync-brand-short-name }…
 get-started-configured = Åbn indstillinger for { -sync-brand-short-name }
 always-check-default =
-    .label = Undersøg altid om { -brand-short-name } er din standardbrowser
+    .label = Undersøg altid om { -brand-short-name } er min standardbrowser
     .accesskey = U
 is-default = { -brand-short-name } er sat som din standardbrowser
 is-not-default = { -brand-short-name } er ikke din standardbrowser
@@ -350,7 +350,7 @@ browsing-use-cursor-navigation =
     .label = Brug altid markør og tastatur til at navigere på sider
     .accesskey = m
 browsing-search-on-start-typing =
-    .label = Begynd søgning mens du taster
+    .label = Begynd søgning mens jeg taster
     .accesskey = s
 browsing-cfr-recommendations =
     .label = Anbefal udvidelser mens jeg browser
@@ -429,7 +429,7 @@ search-show-suggestions-url-bar-option =
 # "ahead" refers to location (appearing most proximate to), not time
 # (appearing before).
 search-show-suggestions-above-history-option =
-    .label = Vis søgeforslag før resultater fra din browserhistorik i adressefeltet
+    .label = Vis søgeforslag før resultater fra min browserhistorik i adressefeltet
 search-suggestions-cant-show = Søgeforslag vil ikke blive vist i adressefeltet, fordi du har sat { -brand-short-name } op til aldrig at gemme historik.
 search-one-click-header = Lyn-søgetjenester
 search-one-click-desc = Vælg de alternative søgetjenester, der vises under adressefeltet og søgefeltet, når du begynder at indtaste en søgeterm.
@@ -907,7 +907,7 @@ permissions-addon-exceptions =
     .label = Undtagelser…
     .accesskey = t
 permissions-a11y-privacy-checkbox =
-    .label = Lad ikke tilgængeligheds-tjenester få adgang til din browser
+    .label = Lad ikke tilgængeligheds-tjenester få adgang til min browser
     .accesskey = t
 permissions-a11y-privacy-link = Læs mere
 
