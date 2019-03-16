@@ -4,4 +4,5 @@
 
 label-disable = Dizabilita
 label-enable = Abilita
+label-interventions = Coreçion
 text-title = about:compat
