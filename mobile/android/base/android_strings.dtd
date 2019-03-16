@@ -202,6 +202,7 @@
 <!ENTITY tab_queue_prompt_positive_action_button "Attiva">
 <!ENTITY tab_queue_prompt_negative_action_button "Non adesso">
 <!ENTITY tab_queue_prompt_settings_button "Vai a Impostazioni">
+<!ENTITY tab_queue_notification_prompt "Aggiunta nuova scheda alla coda…">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!ENTITY tab_queue_notification_text_plural2 "&formatD; schede in attesa">
 <!ENTITY tab_queue_notification_text_singular2 "1 scheda in attesa">
