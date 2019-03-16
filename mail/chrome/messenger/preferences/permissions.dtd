@@ -7,21 +7,22 @@
 
 <!ENTITY treehead.sitename.label      "Trang">
 <!ENTITY treehead.status.label        "Trạng thái">
-<!ENTITY removepermission.label       "Xóa Trang">
-<!ENTITY removepermission.accesskey   "X">
-<!ENTITY removeallpermissions.label   "Xóa Toàn Bộ Các Trang">
-<!ENTITY removeallpermissions.accesskey "B">
+<!ENTITY removepermission.label       "Xóa trang">
+<!ENTITY removepermission.accesskey   "R">
+<!ENTITY removeallpermissions.label   "Xóa hết các trang này">
+<!ENTITY removeallpermissions.accesskey "e">
 <!ENTITY address.label                "Địa chỉ của trang web:">
-<!ENTITY address.accesskey            "a">
+<!ENTITY address.accesskey            "d">
 <!ENTITY block.label                  "Chặn">
-<!ENTITY block.accesskey              "C">
-<!ENTITY session.label                "Cho phép theo Phiên">
-<!ENTITY session.accesskey            "P">
+<!ENTITY block.accesskey              "B">
+<!ENTITY session.label                "Cho phép theo phiên">
+<!ENTITY session.accesskey            "n">
 <!ENTITY allow.label                  "Cho phép">
-<!ENTITY allow.accesskey              "h">
+<!ENTITY allow.accesskey              "A">
 <!ENTITY windowClose.key              "w">
 
-<!ENTITY button.close.label           "Đóng">
-<!ENTITY button.close.accesskey       "g">
-
+<!ENTITY button.cancel.label          "Hủy bỏ">
+<!ENTITY button.cancel.accesskey      "C">
+<!ENTITY button.ok.label              "Lưu thay đổi">
+<!ENTITY button.ok.accesskey          "S">
 

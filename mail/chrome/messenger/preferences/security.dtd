@@ -3,62 +3,45 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemJunk.label          "Thư rác">
-<!ENTITY itemPhishing.label      "Lừa đảo Email">
+<!ENTITY itemPhishing.label      "Email lừa đảo">
 <!ENTITY itemPasswords.label     "Mật khẩu">
-<!ENTITY itemAntiVirus.label     "Diệt Virút">
-<!ENTITY itemCookies.label       "Nội dung Web">
+<!ENTITY itemAntiVirus.label     "Diệt virus">
 
 <!-- Junk Mail Controls -->
-<!ENTITY junkMail.intro "Chỉnh các thiết lập thư rác mặc định. Cũng có thể thiết lập thư rác từng tài khoản trong Thiết lập Tài khoản.">
-<!ENTITY manualMark.label "Khi tôi đánh dấu thư là rác:">
-<!ENTITY manualMark.accesskey "K">
+<!ENTITY junkMail.intro "Đặt cài đặt thư rác mặc định của bạn. Cài đặt thư rác dành riêng cho tài khoản có thể được định cấu hình trong cài đặt tài khoản.">
+<!ENTITY manualMark.label "Khi tôi đánh dấu thư là thư rác:">
+<!ENTITY manualMark.accesskey "W">
 <!ENTITY manualMarkModeMove.label "Di chuyển chúng vào thư mục &quot;Thư rác&quot; của tài khoản">
-<!ENTITY manualMarkModeMove.accesskey "D">
+<!ENTITY manualMarkModeMove.accesskey "o">
 <!ENTITY manualMarkModeDelete.label "Xóa chúng">
-<!ENTITY manualMarkModeDelete.accesskey "X">
-<!ENTITY markAsReadOnSpam.label "Đánh dấu các thư được xem là Thư rác thành đã đọc">
-<!ENTITY markAsReadOnSpam.accesskey "u">
-<!ENTITY enableJunkLogging.label "Kích hoạt lưu kí bộ lọc thư rác">
-<!ENTITY enableJunkLogging.accesskey "b">
-<!ENTITY openJunkLog.label "Hiện lưu kí">
-<!ENTITY openJunkLog.accesskey "H">
-<!ENTITY resetTrainingData.label "Đặt lại Dữ liệu Huấn luyện về Mặc định">
-<!ENTITY resetTrainingData.accesskey "y">
+<!ENTITY manualMarkModeDelete.accesskey "D">
+<!ENTITY markAsReadOnSpam.label "Đánh dấu thư được xác định là thư rác khi đọc">
+<!ENTITY markAsReadOnSpam.accesskey "M">
+<!ENTITY enableAdaptiveJunkLogging.label "Cho phép ghi nhật ký bộ lọc thư rác thích ứng">
+<!ENTITY enableAdaptiveJunkLogging.accesskey "E">
+<!ENTITY openJunkLog.label "Hiển thị nhật ký">
+<!ENTITY openJunkLog.accesskey "S">
+<!ENTITY resetTrainingData.label "Đặt lại dữ liệu đào tạo">
+<!ENTITY resetTrainingData.accesskey "R">
 
 <!-- Phishing Detector -->
-<!ENTITY phishingDetector1.intro  "&brandShortName; có thể phân tích những thư bị nghi ngờ là email xấu bằng cách tra cứu những trò thường được dùng để lừa đảo.">
-<!ENTITY enablePhishingDetector1.label    "Báo tôi biết nếu thư tôi đang đọc bị nghi ngờ là email xấu">
-<!ENTITY enablePhishingDetector1.accesskey  "B">
+<!ENTITY phishingDetector1.intro  "&brandShortName; có thể phân tích tin nhắn cho các vụ lừa đảo email đáng ngờ bằng cách tìm kiếm các kỹ thuật phổ biến được sử dụng để đánh lừa bạn.">
+<!ENTITY enablePhishingDetector1.label    "Hãy cho tôi biết nếu thư tôi đang đọc là một email lừa đảo đáng ngờ">
+<!ENTITY enablePhishingDetector1.accesskey  "T">
 <!ENTITY useDownloadedList.label "Sử dụng một danh sách đen trên mạng để nhận biết các email xấu">
-<!ENTITY useDownloadedList.accesskey "S">
+<!ENTITY useDownloadedList.accesskey "U">
 
 <!-- Passwords -->
 <!ENTITY savedPasswords.intro           "&brandShortName; có thể ghi nhớ mật khẩu cho tất cả tài khoản của bạn.">
 <!ENTITY useMasterPassword.label        "Dùng một mật khẩu chính">
-<!ENTITY useMasterPassword.accesskey    "D">
-<!ENTITY masterPassword.intro           "Mật khẩu Chính bảo vệ tất cả mật khẩu của bạn, nhưng bạn phải nhập nó trong mỗi phiên làm việc.">
-<!ENTITY changeMasterPassword.label     "Thay đổi Mật khẩu Chính…">
+<!ENTITY useMasterPassword.accesskey    "U">
+<!ENTITY masterPassword.intro           "Mật khẩu chính bảo vệ tất cả mật khẩu của bạn, nhưng bạn phải nhập mật khẩu một lần mỗi phiên.">
+<!ENTITY changeMasterPassword.label     "Thay đổi mật khẩu chính…">
 <!ENTITY changeMasterPassword.accesskey "C">
-<!ENTITY savedPasswords.label           "Mật khẩu đã Lưu…">
-<!ENTITY savedPasswords.accesskey       "M">
+<!ENTITY savedPasswords.label           "Mật khẩu đã lưu…">
+<!ENTITY savedPasswords.accesskey       "S">
 
 <!-- Anti Virus -->
-<!ENTITY antiVirus.intro      "&brandShortName; có thể giúp các phần mềm diệt virút dễ dàng phân tích các thư đến, trước khi chúng được lưu trữ vào máy.">
-<!ENTITY antiVirus.label      "Cho phép chương trình diệt virút cách ly riêng biệt từng thư đến">
-<!ENTITY antiVirus.accesskey  "C">
-
-<!-- Cookies -->
-<!ENTITY cookies.intro                  "&brandShortName; để bạn chỉ định những blog, feed tin tức và các trang web nào được phép đặt cookie.">
-<!ENTITY acceptCookies.label            "Cho phép cookie từ các trang">
-<!ENTITY acceptCookies.accesskey        "C">
-<!ENTITY keepUntil.label                "Lưu cho tới khi:">
-<!ENTITY keepUntil.accesskey            "k">
-<!ENTITY expire.label                   "chúng hết hạn">
-<!ENTITY close.label                    "tôi thoát &brandShortName;">
-<!ENTITY askEachTime.label              "hỏi tôi mỗi lần">
-<!ENTITY cookieExceptions.label         "Ngoại trừ…">
-<!ENTITY cookieExceptions.accesskey     "N">
-<!ENTITY showCookies.label              "Hiện Cookie…">
-<!ENTITY showCookies.accesskey          "e">
-
-
+<!ENTITY antiVirus.intro      "&brandShortName; có thể giúp phần mềm chống vi-rút dễ dàng phân tích thư đến của vi-rút trước khi chúng được lưu trữ cục bộ.">
+<!ENTITY antiVirus.label      "Cho phép máy khách chống vi-rút cách ly các thư đến riêng lẻ">
+<!ENTITY antiVirus.accesskey  "A">

@@ -46,7 +46,12 @@
 <!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi">
 <!ENTITY  font.langGroup.khmer                    "Khơ-me">
 <!ENTITY  font.langGroup.malayalam                "Malayalam">
+<!ENTITY  font.langGroup.math                     "Mathematics">
 <!ENTITY  font.langGroup.odia                     "Tiếng Odia">
+<!ENTITY  font.langGroup.telugu                   "Tiếng Telugu">
+<!ENTITY  font.langGroup.kannada                  "Tiếng Kannada">
+<!ENTITY  font.langGroup.sinhala                  "Tiếng Sinhala">
+<!ENTITY  font.langGroup.tibetan                  "Tiếng Tibetan">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "Cỡ phông tối thiểu:">
 <!ENTITY minSize.accesskey                        "z">
@@ -66,7 +71,7 @@
 <!-- Language settings -->
 <!ENTITY sendDefaultCharset.label         "Thư gửi đi:">
 <!ENTITY sendDefaultCharset.accesskey     "u">
-<!ENTITY languagesTitle2.label            "Mã hóa văn bản">
+<!ENTITY languagesTitle2.label            "Bảng mã văn bản">
 <!ENTITY composingDescription2.label      "Đặt mã hóa văn bản mặc định để gửi và nhận thư">
 
 <!ENTITY viewDefaultCharsetList.label     "Thư đến:">
