@@ -440,6 +440,7 @@
 <!ENTITY openMessageWindowCmd.label "Otevřít zprávu">
 <!ENTITY openMessageWindowCmd.accesskey "t">
 <!ENTITY openMessageWindowCmd.key "o">
+<!ENTITY openInConversationCmd.label "Otevřít v konverzaci">
 <!ENTITY openAttachmentListCmd.label "Přílohy">
 <!ENTITY openAttachmentListCmd.accesskey "h">
 <!ENTITY openFeedMessage1.label "Při otvírání zprávy z kanálu">
@@ -789,6 +790,7 @@
 <!ENTITY contextMoveMsgMenu.accesskey "s">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Poslední">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "P">
+<!ENTITY contextMoveCopyMsgFavoritesMenu.label "Oblíbené">
 <!ENTITY contextCopyMsgMenu.label "Kopírovat do">
 <!ENTITY contextCopyMsgMenu.accesskey "K">
 <!ENTITY contextKillThreadMenu.label "Ignorovat vlákno">
@@ -814,6 +816,7 @@
      customizations for the thread pane columns in this folder to their default.
   -->
 <!ENTITY columnPicker.resetToInbox.label "Obnovit výchozí sloupce">
+
 <!-- LOCALIZATION NOTE (columnPicker.applyTo.label):
      This option in the thread pane column picker pops up a sub-menu containing
      the "columnPicker.applyToFolder.label" and

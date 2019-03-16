@@ -11,9 +11,6 @@
 <!ENTITY  prefWindow.titleWin     "Možnosti">
 <!ENTITY  prefWindow.titleGNOME   "Předvolby aplikace &brandShortName;">
 <!ENTITY  prefWindow.titleMAC     "Předvolby">
-<!ENTITY  prefWindow.styleWindows "width: 44em; min-height: 39em;">
-<!ENTITY  prefWindow.styleMac     "width: 47em;">
-<!ENTITY  prefWindow.styleGNOME   "width: 48em; min-height: 40em;">
 
 <!ENTITY paneGeneral.title        "Obecné">
 <!ENTITY paneDisplay.title        "Zobrazení">
@@ -22,8 +19,11 @@
 <!ENTITY paneAttachments.title    "Přílohy">
 <!ENTITY panePrivacy.title        "Soukromí">
 <!ENTITY paneSecurity.title       "Zabezpečení">
+<!ENTITY paneLightning.title      "Kalendář">
 <!ENTITY paneAdvanced.title       "Rozšířené">
 <!ENTITY paneAccount.title        "Účty">
+
+<!ENTITY addonsButton.label       "Rozšíření a vzhledy">
 
 <!ENTITY okButton.title           "OK">
 <!ENTITY okButton.accesskey       "O">

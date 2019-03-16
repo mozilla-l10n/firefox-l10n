@@ -18,8 +18,7 @@
 <!ENTITY htmlComposeHeader.label              "HTML">
 <!ENTITY font.label                           "Písmo:">
 <!ENTITY font.accesskey                       "m">
-<!ENTITY size.label                           "Velikost:">
-<!ENTITY size.accesskey                       "V">
+<!ENTITY fontSize.label                       "Velikost:">
 <!ENTITY fontColor.label                      "Text:">
 <!ENTITY fontColor.accesskey                  "T">
 <!ENTITY bgColor.label                        "Barva pozadí:">

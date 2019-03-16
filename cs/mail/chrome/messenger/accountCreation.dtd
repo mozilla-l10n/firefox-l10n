@@ -19,6 +19,12 @@
 <!ENTITY rememberPassword.label          "Pamatovat si heslo">
 <!ENTITY rememberPassword.accesskey      "P">
 
+<!ENTITY usernameEx.label                "Vaše přihlašovací jméno:">
+<!-- LOCALIZATION NOTE(usernameEx.placeholder): YOURDOMAIN refers to the Windows domain in ActiveDirectory. yourusername refers to the user's account name in Windows. -->
+<!ENTITY usernameEx.placeholder          "VAŠEDOMÉNA\vašeuživatelskéjméno">
+<!-- LOCALIZATION NOTE(usernameEx.text): Domain refers to the Windows domain in ActiveDirectory. We mean the user's login in Windows at the local corporate network. -->
+<!ENTITY usernameEx.text                 "Přihlášení k doméně">
+
 <!ENTITY imapLong.label                  "IMAP (vzdálené složky)">
 <!ENTITY pop3Long.label                  "POP3 (místní úložiště pošty)">
 
@@ -30,7 +36,9 @@
 <!ENTITY ssl.label                       "SSL">
 <!ENTITY auth.label                      "Autentizace">
 <!ENTITY imap.label                      "IMAP">
-<!ENTITY pop3.label                       "POP3">
+<!ENTITY pop3.label                      "POP3">
+<!-- LOCALIZATION NOTE(exchange.label): Do not translate Exchange, it is a product name. -->
+<!ENTITY exchange.label                  "Exchange">
 <!ENTITY smtp.label                      "SMTP">
 <!ENTITY autodetect.label                "Autodetekce">
 <!-- LOCALIZATION NOTE(noEncryption.label): Neither SSL/TLS nor STARTTLS.
@@ -38,6 +46,9 @@
 <!ENTITY noEncryption.label              "Žádné">
 <!ENTITY starttls.label                  "STARTTLS">
 <!ENTITY sslTls.label                    "SSL/TLS">
+
+<!-- LOCALIZATION NOTE(exchange-hostname.label): Do not translate Exchange, it is a product name. -->
+<!ENTITY exchange-hostname.label         "Server Exchange:">
 
 <!ENTITY advancedSetup.label             "Rozšířené nastavení">
 <!ENTITY advancedSetup.accesskey         "R">

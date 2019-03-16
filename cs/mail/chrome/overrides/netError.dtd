@@ -193,3 +193,4 @@ functionality specific to thunderbird. -->
 
 <!ENTITY blockedByPolicy.title "Zablokovaná stránka">
 
+<!ENTITY networkProtocolError.title "Chyba síťového protokolu">
