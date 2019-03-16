@@ -47,6 +47,9 @@
 <!ENTITY  socksRemoteDNS.accesskey      "d">
 <!ENTITY  dnsOverHttps.label            "Abilita DNS su HTTPS">
 <!ENTITY  dnsOverHttps.accesskey        "b">
-<!ENTITY  dnsOverHttpsUrl.label         "URL">
-<!ENTITY  dnsOverHttpsUrl.accesskey     "R">
-<!ENTITY  dnsOverHttpsUrl.tooltip       "URL per la risoluzione di DNS su HTTPS">
+<!ENTITY  dnsOverHttpsUrlDefault.label     "Utilizza predefiniti">
+<!ENTITY  dnsOverHttpsUrlDefault.accesskey "U">
+<!ENTITY  dnsOverHttpsUrlDefault.tooltip   "Utilizza l'URL predefinito per risolvere DNS su HTTPS">
+<!ENTITY  dnsOverHttpsUrlCustom.label      "Personalizzato">
+<!ENTITY  dnsOverHttpsUrlCustom.accesskey  "e">
+<!ENTITY  dnsOverHttpsUrlCustom.tooltip    "Inserisci l'URL preferito per la risoluzione di DNS su HTTPS">
