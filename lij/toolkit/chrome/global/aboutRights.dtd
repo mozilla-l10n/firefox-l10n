@@ -27,11 +27,11 @@
 
 <!-- point 3 text for official branded builds -->
 <!ENTITY rights2.intro-point3a "O mòddo che emmo de deuviâ e teu informaçioin e comenti che mandi a &vendorShortName; co-o &brandShortName; o l'é descrito inta ">
-<!ENTITY rights2.intro-point3b "Politica da privacy de &brandShortName;">
+<!ENTITY rights2.intro-point3b "Informativa in sciâ privacy de &brandShortName;">
 <!ENTITY rights.intro-point3c ".">
 
 <!-- point 3 text for unbranded builds -->
-<!ENTITY rights.intro-point3-unbranded "Tutte e politiche da privacy pe sto produto devan ese chi.">
+<!ENTITY rights.intro-point3-unbranded "Tutte e informative in sciâ privacy pe sto produto devan ese chi.">
 
 <!-- point 4 text for official branded builds -->
 <!ENTITY rights2.intro-point4a "Quarche fonçion de &brandShortName; a peu deuviâ serviççi in sciâ ræ e niatri no poemmo garantî che segian a-o 100&#37; sensa eroî. Pe avei ciù detalli vanni inte ">
