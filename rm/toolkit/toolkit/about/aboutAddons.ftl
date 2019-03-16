@@ -95,7 +95,7 @@ detail-update-manual =
     .tooltiptext = Betg installar automaticamain las actualisaziuns
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Exequir en fanestras privatas
-detail-private-browsing-description = L'extensiun vegn a funcziunar en fanestras privatas ed avair access a tias activitads online. <label data-l10n-name="detail-private-browsing-learn-more">Ulteriuras infurmaziuns</label>
+detail-private-browsing-description2 = Sche permess vegn l'extensiun ad avair access a tias activitads online en il modus privat. <label data-l10n-name="detail-private-browsing-learn-more">Ulteriuras infurmaziuns</label>
 detail-private-browsing-on =
     .label = Permetter
     .tooltiptext = Activar en il modus privat
