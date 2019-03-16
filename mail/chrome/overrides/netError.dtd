@@ -194,3 +194,4 @@ functionality specific to thunderbird. -->
 <!ENTITY blockedByPolicy.title "Zablokovaná stránka">
 
 <!ENTITY networkProtocolError.title "Chyba síťového protokolu">
+<!ENTITY networkProtocolError.longDesc "<p>Požadovanou stránku nelze zobrazit, protože došlo k chybě v síťovém protokolu.</p><ul><li>Kontaktujte prosím vlastníky webového serveru a informujte je o tomto problému.</li></ul>">
