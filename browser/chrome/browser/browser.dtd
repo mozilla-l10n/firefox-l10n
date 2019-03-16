@@ -204,7 +204,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignIn.label "Acedi a &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Arvi e inpostaçioin de &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Riconetti a &syncBrand.shortName.label;">
-<!ENTITY fxaUnverified.label "Verifica l’account">
+<!ENTITY fxaUnverified.label "Verifico o teu conto">
 
 
 <!ENTITY fullScreenMinimize.tooltip "Riduci">
@@ -463,7 +463,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "T'eu amiâ chi i teu feuggi da atri dipoxitivi?">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Arvi preferense de scincronizaçion">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Acedi pe vedde l'elenco di feuggi averti inti atri dispoxitivi.">
-<!ENTITY appMenuRemoteTabs.unverified.label "O teu account o deve ese verificou.">
+<!ENTITY appMenuRemoteTabs.unverified.label "O teu conto o deve ese verificou.">
 <!ENTITY appMenuRemoteTabs.signin.label "Acedi a Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Gestion di dispoxitivi…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Fanni vedde a bara di feuggi scincronizæ">
@@ -895,7 +895,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.noclients.label    "Acedi a Firefox con atri dispoxitivi pe vedde i feuggi averti.">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Comme pòsso amiâ in sta sescion i feuggi da atri dipoxitivi?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Acedi pe amiâ un elenco di feuggi averti inti atri dispoxitivi.">
-<!ENTITY syncedTabs.sidebar.unverified.label   "O teu account o deve ese verificou.">
+<!ENTITY syncedTabs.sidebar.unverified.label   "O teu conto o deve ese verificou.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Nisciun feuggio averto">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Arvi e inpostaçioin de &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
