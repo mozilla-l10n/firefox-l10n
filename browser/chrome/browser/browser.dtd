@@ -642,6 +642,7 @@
 <!ENTITY syncSignIn.label "Accedi a &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey "y">
 <!ENTITY syncSyncNowItem.label "Sincronizza adesso">
+<!ENTITY syncSyncNowItemSyncing.label "Sincronizzazione in corso…">
 <!ENTITY syncSyncNowItem.accesskey "z">
 <!ENTITY syncReAuthItem.label "Riconnetti a &syncBrand.shortName.label;…">
 <!ENTITY syncReAuthItem.accesskey "R">
