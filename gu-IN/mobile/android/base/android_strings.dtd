@@ -63,6 +63,12 @@
 <!ENTITY  crash_restart_label "&brandShortName; પુનઃશરૂ કરો">
 
 <!ENTITY url_bar_default_text2 "શોધ અથવા સરનામું દાખલ કરો">
+
+<!-- Localization note: this text will be displayed in the Search Widget -->
+<!ENTITY search_widget_default_text "વેબ પર શોધો">
+<!ENTITY search_widget_default_cropped_text "શોધો">
+<!ENTITY search_widget_logo_description "વેબ સાથે &brandShortName; સાથે શોધો">
+
 <!-- Localization note (url_bar_qrcode_text2) : This text will be
      heard by non-visual users when the focus is on the QR Code
      icon in the url bar. -->
@@ -290,11 +296,6 @@
 <!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
      Similar to the already existing "pref_whats_new_notification_summary"-->
 <!ENTITY pref_feature_tips_notification_summary "&brandShortName; નો ઉપયોગ કરવા વિશે વધુ જાણો; અને અન્ય &vendorShortName; ઉત્પાદનો">
-<!-- Localization note (pref_feature_tips_notification_enabling_hint):
-     Describe the action the user should do to enable this preference
-     Will be used in the context "<Turn on> ... to enable this feature" -->
-<!ENTITY pref_feature_tips_notification_enabling_hint "ચાલુ કરો">
-
 <!-- Localization note (pref_feature_tips_notification_enabling_path):
      Nothing to translate. Simple concatenation of already localized strings. Result is used below. -->
 <!ENTITY pref_feature_tips_notification_enabling_path "&pref_category_privacy_short; > &pref_category_datareporting; > &datareporting_fhr_title;">
@@ -398,7 +399,6 @@
 <!ENTITY pref_private_data_searchHistory "શોઘો ઇતિહાસ">
 <!ENTITY pref_private_data_formdata2 "ફોર્મ ઇતિહાસ">
 <!ENTITY pref_private_data_cookies2 "કુકીઓ અને સક્રિય પ્રવેશો">
-<!ENTITY pref_private_data_passwords2 "સાચવેલા લૉગિન્સ">
 <!ENTITY pref_private_data_cache "કેશ">
 <!ENTITY pref_private_data_offlineApps "ઑફલાઇન વેબસાઇટ માહિતી">
 <!ENTITY pref_private_data_siteSettings2 "સાઇટ સેટીંગ">
@@ -901,15 +901,9 @@ Picture-in-picture mini window -->
 <!ENTITY pip_pause_button_description "થોભો વગાડો">
 
 <!-- Notification channels names -->
-<!ENTITY default_notification_channel "&brandShortName;">
-
-<!-- Notification channels names -->
 <!ENTITY default_notification_channel2 "બ્રાઉઝર">
 <!ENTITY mls_notification_channel "&vendorShortName; સ્થાન સેવા">
 <!ENTITY download_notification_channel "ડાઉનલોડ">
-<!ENTITY media_notification_channel "મીડિયા પ્લેબેક">
-<!-- These push notifications come without a specific channel and/or name from Leanplum -->
-<!ENTITY leanplum_default_notifications_channel "&brandShortName; પુશ સૂચનાઓ">
 <!ENTITY media_notification_channel2 "ધ્વનિ અને વિડિઓ">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel2 "&vendorShortName; ટિપ્પણીઓ અને યુક્તિઓ">
