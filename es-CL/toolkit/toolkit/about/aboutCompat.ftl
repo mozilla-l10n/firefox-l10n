@@ -5,3 +5,5 @@
 label-disable = Desactivar
 label-enable = Activar
 label-interventions = Intervenciones
+label-more-information = Más información: Bug { $bug }
+text-title = about:compat
