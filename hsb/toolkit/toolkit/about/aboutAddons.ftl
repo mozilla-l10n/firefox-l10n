@@ -256,5 +256,5 @@ go-back-button =
 remove-addon-button = Wotstronić
 disable-addon-button = Znjemóžnić
 enable-addon-button = Zmóžnić
-addons-enabled-heading = Zmóžnjeny
-addons-disabled-heading = Znjemóžnjeny
+addons-enabled-heading = Zmóžnjene
+addons-disabled-heading = Znjemóžnjene
