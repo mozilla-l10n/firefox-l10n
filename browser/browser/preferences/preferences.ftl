@@ -335,6 +335,9 @@ browsing-search-on-start-typing =
 browsing-cfr-recommendations =
     .label = Recomendar extensiones mientras se navega
     .accesskey = R
+browsing-cfr-features =
+    .label = Recomendar funciones mientras navegas
+    .accesskey = f
 browsing-cfr-recommendations-learn-more = Aprender más
 
 ## General Section - Proxy
