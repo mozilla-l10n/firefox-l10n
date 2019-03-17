@@ -63,6 +63,12 @@
 <!ENTITY  crash_restart_label "Senker i tikelt nniḍen &brandShortName;">
 
 <!ENTITY url_bar_default_text2 "Nadi neɣ sekcem tansa">
+
+<!-- Localization note: this text will be displayed in the Search Widget -->
+<!ENTITY search_widget_default_text "Nadi di web">
+<!ENTITY search_widget_default_cropped_text "Nadi">
+<!ENTITY search_widget_logo_description "Nadi di web akked &brandShortName;">
+
 <!-- Localization note (url_bar_qrcode_text2) : This text will be
      heard by non-visual users when the focus is on the QR Code
      icon in the url bar. -->
@@ -290,12 +296,6 @@
 <!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
      Similar to the already existing "pref_whats_new_notification_summary"-->
 <!ENTITY pref_feature_tips_notification_summary "Issin ugar γef useqdec n &brandShortName; akked isenfaṛen-nniḍen &vendorShortName;">
-
-<!-- Localization note (pref_feature_tips_notification_enabling_hint):
-     Describe the action the user should do to enable this preference
-     Will be used in the context "<Turn on> ... to enable this feature" -->
-<!ENTITY pref_feature_tips_notification_enabling_hint "Rmed">
-
 <!-- Localization note (pref_feature_tips_notification_enabling_path):
      Nothing to translate. Simple concatenation of already localized strings. Result is used below. -->
 <!ENTITY pref_feature_tips_notification_enabling_path "&pref_category_privacy_short; > &pref_category_datareporting; > &datareporting_fhr_title;">
@@ -399,7 +399,6 @@
 <!ENTITY pref_private_data_searchHistory "Amazray n unadi">
 <!ENTITY pref_private_data_formdata2 "Amazray n tferkit">
 <!ENTITY pref_private_data_cookies2 "Inagan n tuqqna &amp; tuqqniwin turmidin">
-<!ENTITY pref_private_data_passwords2 "Inekcam yettwakelsen">
 <!ENTITY pref_private_data_cache "Tuffirt">
 <!ENTITY pref_private_data_offlineApps "Isefka n isemlen web war tuqqna">
 <!ENTITY pref_private_data_siteSettings2 "Iɣewwaṛen n usmel">
@@ -844,8 +843,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY whatsnew_notification_title "&brandShortName; ittwaleqqem">
 <!ENTITY whatsnew_notification_summary "Wali amaynut ɣef lqem-agi">
 
-<!ENTITY promotion_add_page_shortcut "Rnu anegzum n usebter">
-
 <!ENTITY helper_first_offline_bookmark_title "Ɣɣer war tuqqna">
 <!ENTITY helper_first_offline_bookmark_message "Aff-d iferdisen-inek n uskan n umeɣṛi deg ticraḍ, xas deg war tuqqna.">
 <!ENTITY helper_first_offline_bookmark_button "Ddu ɣer tecraḍ">
@@ -904,15 +901,9 @@ Picture-in-picture mini window -->
 <!ENTITY pip_pause_button_description "Serǧu urar">
 
 <!-- Notification channels names -->
-<!ENTITY default_notification_channel "&brandShortName;">
-
-<!-- Notification channels names -->
 <!ENTITY default_notification_channel2 "Iminig">
 <!ENTITY mls_notification_channel "Ameẓlu n tansa n &vendorShortName;">
 <!ENTITY download_notification_channel "Isidar">
-<!ENTITY media_notification_channel "Taɣuri n wallalen n teywalt">
-<!-- These push notifications come without a specific channel and/or name from Leanplum -->
-<!ENTITY leanplum_default_notifications_channel "&brandShortName; Azen ilɣa">
 <!ENTITY media_notification_channel2 "Imseli d uvidyu">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel2 "timahltin d tixbula &vendorShortName;">
