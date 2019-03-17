@@ -332,5 +332,7 @@ remove-addon-button = Verwijderen
 disable-addon-button = Uitschakelen
 enable-addon-button = Inschakelen
 
+expand-addon-button = Meer opties
+
 addons-enabled-heading = Ingeschakeld
 addons-disabled-heading = Uitgeschakeld
