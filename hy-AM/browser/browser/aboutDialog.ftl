@@ -30,5 +30,14 @@ helpus = Ցանկանու՞մ եք օգնել: <label data-l10n-name="helpus-don
 bottomLinks-license = Արտոնագրի տվյալներ
 bottomLinks-rights = Օգտագործողի Իրավունքները
 bottomLinks-privacy = Գաղտնիության դրույթներ
-aboutDialog-architecture-sixtyFourBit = 64-բիթ
-aboutDialog-architecture-thirtyTwoBit = 32-բիթ
+# Example of resulting string: 66.0.1 (64-bit)
+# Variables:
+#   $version (String): version of Firefox, e.g. 66.0.1
+#   $bits (Number): bits of the architecture (32 or 64)
+aboutDialog-version = { $version }{ $bits }-բիթ)
+# Example of resulting string: 66.0a1 (2019-01-16) (64-bit)
+# Variables:
+#   $version (String): version of Firefox for Nightly builds, e.g. 66.0a1
+#   $isodate (String): date in ISO format, e.g. 2019-01-16
+#   $bits (Number): bits of the architecture (32 or 64)
+aboutDialog-version-nightly = { $version } ({ $isodate }) ({ $bits }-բիթ)

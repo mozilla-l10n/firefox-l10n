@@ -46,8 +46,6 @@ permissions-capabilities-listitem-allow =
     .value = Թույլատրել
 permissions-capabilities-listitem-block =
     .value = Արգելել
-permissions-capabilities-listitem-allow-first-party =
-    .value = Թույլատրել միայն առաջին մասը
 permissions-capabilities-listitem-allow-session =
     .value = Թույլատրել աշխատաշրջանում
 
@@ -58,10 +56,10 @@ permissions-invalid-uri-label = Նշեք հանգույցի վավեր անու�
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-tracking-protection-window =
-    .title = Բացառություններ՝ Հետագծման պաշտպանություն
+permissions-exceptions-content-blocking-window =
+    .title = Բացառություններ՝ բովանդակության արգելափակում
     .style = { permissions-window.style }
-permissions-exceptions-tracking-protection-desc = Դուք անջատել եք Հետագծման պաշտպանությունը այս կայքերի համար:
+permissions-exceptions-content-blocking-desc = Դուք անջատել եք բովանդակության արգելափակումը այս կայքերի համար:
 
 ## Exceptions - Cookies
 
@@ -93,6 +91,9 @@ permissions-exceptions-addons-desc = Դուք կարող էք նշել այն վ
 
 ## Exceptions - Autoplay Media
 
+permissions-exceptions-autoplay-media-window2 =
+    .title = Բացառություններ՝  Ինքնանվագարկում
+    .style = { permissions-window.style }
 
 ## Site Permissions - Notifications
 
