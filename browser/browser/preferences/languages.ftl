@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-languages-window =
-    .title = Լեզուներ
-    .style = width: 30em
 webpage-languages-window =
     .title = Վեբ էջի լեզվի կարգավորումներ
     .style = width: 45em
@@ -44,3 +41,11 @@ languages-active-code-format =
 browser-languages-window =
     .title = { -brand-short-name }-ի լեզվի կարգավորումներ
     .style = width: 45em
+browser-languages-downloading =
+    .label = Ներբեռնում է...
+browser-languages-select-language =
+    .label = Ընտրեք լեզուն՝ ավելացնելու համար...
+    .placeholder = Ընտրեք լեզուն՝ ավելացնելու համար...
+browser-languages-installed-label = Տեղադրված լեզուներ
+browser-languages-available-label = Մատչելի լեզուներ
+browser-languages-error = { -brand-short-name }-ը չի կարող արդիացնել ձեր լեզուները հիմա: Ստուգեք՝ արդյոք կապակցված եք համացանցին և կրկին փորձեք:
