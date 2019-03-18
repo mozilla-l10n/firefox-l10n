@@ -252,6 +252,9 @@ sandbox-proc-type-content = obsah
 sandbox-proc-type-file = obsah súboru
 sandbox-proc-type-media-plugin = zásuvný modul médií
 sandbox-proc-type-data-decoder = dekóder údajov
+launcher-process-status-0 = Povolený
+launcher-process-status-1 = Zakázaný kvôli chybe
+launcher-process-status-2 = Vynútene zakázaný
 launcher-process-status-unknown = Neznámy stav
 # Variables
 # $remoteWindows (integer) - Number of remote windows
