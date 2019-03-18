@@ -11,7 +11,7 @@ colors-window =
         }
 colors-close-key =
     .key = w
-colors-page-override = Anular los colores especificados por la página con tu selección anterior
+colors-page-override = Saltarse los colores especificados por la página con tu selección anterior
     .accesskey = O
 colors-page-override-option-always =
     .label = Siempre
