@@ -95,6 +95,7 @@ detail-update-manual =
     .tooltiptext = Neinštalovať aktualizácie automaticky
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Povoliť v súkromných oknách
+detail-private-browsing-description2 = Tu môžete tomuto rozšíreniu povoliť prístup k vašej aktivite na internete v súkromných oknách. <label data-l10n-name="detail-private-browsing-learn-more">Ďalšie informácie</label>
 detail-private-browsing-on =
     .label = Povoliť
     .tooltiptext = Povoliť v súkromných oknách
@@ -143,6 +144,12 @@ legacy-warning-show-legacy = Zobraziť zastarané rozšírenia
 legacy-extensions =
     .value = Zastarané rozšírenia
 legacy-extensions-description = Tieto rozšírenia nespĺňajú súčasné kritériá prehliadača { -brand-short-name } a boli preto deaktivované. <label data-l10n-name="legacy-learn-more">Ďalšie informácie o zmenách ohľadom doplnkov</label>
+private-browsing-description2 =
+    Fungovanie rozšírení v aplikácii { -brand-short-name } v súkromnom prehliadaní sa mení. Všetky novo nainštalované 
+    rozšírenia do aplikácie { -brand-short-name } nebudú fungovať v súkromných oknách, pokiaľ im to nepovolíte.
+    Rozšírenia tak nebudú mať bez vášho vedomia prístup k tomu, čo robíte v súkromnom prehliadaní. 
+    Týmto krokom sa snažíme zvýšiť vaše súkromie.
+    <label data-l10n-name="private-browsing-learn-more">Ďalšie informácie o správe rozšírení.</label>
 extensions-view-discover =
     .name = Získať doplnky
     .tooltiptext = { extensions-view-discover.name }
@@ -252,3 +259,7 @@ go-back-button =
 ## Add-on actions
 
 remove-addon-button = Odstrániť
+disable-addon-button = Zakázať
+enable-addon-button = Povoliť
+addons-enabled-heading = Povolené
+addons-disabled-heading = Zakázané
