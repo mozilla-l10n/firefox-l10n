@@ -5,9 +5,9 @@
 <!ENTITY firstrun_panel_title_welcome "欢迎使用">
 <!ENTITY firstrun_urlbar_message2 "感谢您选择 &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext2 "Firefox 是现代化的移动浏览器，由致力于建立一个自由且开放的网络的非营利组织 Mozilla 打造。">
-<!ENTITY firstrun_panel_title_privacy "隐私">
+<!ENTITY firstrun_panel_title_privacy "私密">
 <!ENTITY firstrun_privacy_message "上网自在无监视">
-<!ENTITY firstrun_privacy_subtext "附有跟踪保护功能的隐私浏览模式可以帮助您在浏览时规避网络跟踪器，并且避免设备记住您的浏览记录。">
+<!ENTITY firstrun_privacy_subtext "打开隐私标签页，不仅能阻挡跟踪器和广告，也不会留下浏览记录，上网好安心。">
 <!ENTITY firstrun_panel_title_customize "定制">
 <!ENTITY firstrun_customize_message "让 &brandShortName; 有你的风格。">
 <!ENTITY firstrun_customize_subtext "使用附加组件定制 &brandShortName;。过滤广告、增添功能，或者选一套主题来体现你的个性，一切尽在附加组件。">
@@ -15,14 +15,14 @@
 <!ENTITY firstrun_bookmarks_message "您想找的，全在一处">
 <!ENTITY firstrun_bookmarks_subtext "在您搜索时，也会得到书签和历史记录中的相关内容。">
 <!ENTITY firstrun_data_title "数据流量">
-<!ENTITY firstrun_data_message "流量消耗更少，节省更多">
+<!ENTITY firstrun_data_message "流量消耗更少，帮您节省更多">
 <!ENTITY firstrun_data_subtext2 "不显示网站上的图像，可节省您访问时消耗的数据流量。">
 <!ENTITY firstrun_sync_title "同步">
-<!ENTITY firstrun_sync_message2 "从上次看到的地方继续。">
-<!ENTITY firstrun_sync_subtext2 "使用同步功能随时在您的设备上使用您存储在 &brandShortName; 中的书签、密码等信息。">
+<!ENTITY firstrun_sync_message2 "这边看罢，那边继续。">
+<!ENTITY firstrun_sync_subtext2 "利用同步服务，在您任何设备上的 &brandShortName; 中都能漫游同一套书签、密码等信息。">
 <!ENTITY firstrun_signin_message "互联设备，即刻畅游">
 <!ENTITY firstrun_signin_button "登录并同步">
-<!ENTITY  onboard_start_button_browser "开始浏览">
+<!ENTITY  onboard_start_button_browser "开始上网">
 <!ENTITY firstrun_button_notnow "暂时不要">
 <!ENTITY firstrun_button_next "下一步">
 
@@ -328,14 +328,14 @@
 <!ENTITY tracking_protection_prompt_tip_text "在“隐私”设置中详细了解">
 <!ENTITY tracking_protection_prompt_action_button "明白了！">
 
-<!ENTITY tab_queue_toast_message3 "&brandShortName; 中已保存的标签页">
+<!ENTITY tab_queue_toast_message3 "已将标签页存到 &brandShortName; 中">
 <!ENTITY tab_queue_toast_action "立即打开">
-<!ENTITY tab_queue_prompt_title "一并打开多个链接？">
-<!ENTITY tab_queue_prompt_text4 "保存它们，供您下次打开 &brandShortName; 时使用。">
+<!ENTITY tab_queue_prompt_title "经常打开很多链接？">
+<!ENTITY tab_queue_prompt_text4 "推荐使用“标签页队列”功能，在其他应用中点击链接时先存下来，下次启动 &brandShortName; 时再一并打开。">
 <!ENTITY tab_queue_prompt_tip_text2 "您以后可以在“设置”中更改此行为">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
-<!ENTITY tab_queue_prompt_permit_drawing_over_apps "授予“在其他应用上绘制”的权限">
+<!ENTITY tab_queue_prompt_permit_drawing_over_apps "请授予“显示在其他应用的上层”权限">
 <!ENTITY tab_queue_prompt_positive_action_button "启用">
 <!ENTITY tab_queue_prompt_negative_action_button "暂时不要">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
@@ -353,7 +353,7 @@
 
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
-<!ENTITY tab_queue_notification_settings "要一并打开多个链接，请为 &brandShortName; 启用“在其他应用之上显示内容”的权限">
+<!ENTITY tab_queue_notification_settings "要一并打开多个链接，请为 &brandShortName; 启用“显示在其他应用的上层”的权限">
 
 <!ENTITY pref_char_encoding "显示字符编码">
 <!ENTITY pref_char_encoding_on "显示菜单">
@@ -554,7 +554,7 @@
 <!ENTITY pref_scroll_title_bar_summary2 "网页向下滚动时隐藏 &brandShortName; 工具栏">
 
 <!ENTITY pref_tab_queue_title3 "标签页队列">
-<!ENTITY pref_tab_queue_summary4 "在其他应用中点击链接时不立即开启，下次启动 &brandShortName; 时一并打开">
+<!ENTITY pref_tab_queue_summary4 "在其他应用中点击链接时不立即打开网页，下次启动 &brandShortName; 时一并打开">
 
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
