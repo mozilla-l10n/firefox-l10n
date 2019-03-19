@@ -3,9 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 cfr-doorhanger-extension-heading = 推荐扩展
-cfr-doorhanger-pintab-heading = 试试：固定标签页
+cfr-doorhanger-pintab-heading = 试试看：固定标签页
 cfr-doorhanger-extension-sumo-link =
-    .tooltiptext = 我为什么会看到这个？
+    .tooltiptext = 为什么我会看到这个？
 cfr-doorhanger-extension-cancel-button = 暂时不要
     .accesskey = N
 cfr-doorhanger-extension-ok-button = 立刻添加
