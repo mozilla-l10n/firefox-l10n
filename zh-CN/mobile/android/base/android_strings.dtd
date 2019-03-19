@@ -416,9 +416,9 @@
 <!ENTITY pref_dialog_remove "移除">
 <!ENTITY pref_dialog_activitystream_header_content "额外内容">
 <!ENTITY pref_dialog_activitystream_recentBookmarks "最近的书签">
-<!ENTITY pref_dialog_activitystream_visited "曾经造访">
+<!ENTITY pref_dialog_activitystream_visited "曾经访问">
 
-<!ENTITY pref_search_last_toast "您可以移除或禁用您最少使用的搜索引擎。">
+<!ENTITY pref_search_last_toast "您可以移除或禁用您很少使用的搜索引擎。">
 
 <!ENTITY pref_panels_show "显示">
 <!ENTITY pref_panels_hide "隐藏">
@@ -868,7 +868,7 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
 <!ENTITY activity_stream_highlight_label_trending "趋势">
 <!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
-<!ENTITY activity_stream_highlights_empty "开始浏览旅程吧，之后这里会显示您最近看过或加了书签的精彩文章、视频或其他页面。">
+<!ENTITY activity_stream_highlights_empty "开始网络旅程吧，之后这里会显示您最近看过或加了书签的精彩文章、视频或其他页面。">
 
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
