@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-languages-window =
-    .title = Lengües
-    .style = width: 30em
 languages-close-key =
     .key = w
 languages-customize-moveup =
@@ -19,3 +16,7 @@ languages-customize-remove =
 languages-customize-add =
     .label = Apondre
     .accesskey = A
+browser-languages-window =
+    .title = Règllâjos de lengues de { -brand-short-name }
+    .style = width: 40em
+browser-languages-search = Chèrchiér dʼâtres lengües...

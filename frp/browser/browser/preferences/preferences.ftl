@@ -4,6 +4,7 @@
 
 do-not-track-option-always =
     .label = Tojòrn
+pane-general-title = G·ènèrâl
 category-general =
     .tooltiptext = { pane-general-title }
 pane-home-title = Reçua
@@ -41,7 +42,6 @@ cancel-no-restart-button = Anular
 always-check-default =
     .label = Tojòrn vèrifiar que { -brand-short-name } est lo navìgatòr prèsèlèccionâ
     .accesskey = T
-home-page-header = Pâge de reçua
 browser-containers-settings =
     .label = Règllajos...
     .accesskey = R
@@ -114,22 +114,15 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
-sitedata-accept-third-party-always-option =
-    .label = Tojòrn
-sitedata-accept-third-party-never-option =
-    .label = Jamés
 
 ## Privacy Section - Address Bar
 
 
+## Privacy Section - Content Blocking
+
+
 ## Privacy Section - Tracking
 
-tracking-mode-always =
-    .label = Tojòrn
-    .accesskey = T
-tracking-mode-never =
-    .label = Jamés
-    .accesskey = J
 
 ## Privacy Section - Permissions
 
@@ -156,4 +149,7 @@ permissions-notification-settings =
 
 
 ## Privacy Section - Certificates
+
+
+## The following strings are used in the Download section of settings
 
