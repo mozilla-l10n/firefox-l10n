@@ -285,6 +285,6 @@ touch-warning = Asynchroniczne przewijanie/powiększanie za pomocą dotyku wył�
 
 ## Strings representing the status of the Enterprise Policies engine.
 
-policies-inactive = Nieaktywna
-policies-active = Aktywna
+policies-inactive = Nieaktywne
+policies-active = Aktywne
 policies-error = Błąd
