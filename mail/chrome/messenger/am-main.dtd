@@ -4,7 +4,7 @@
 
 <!-- extracted from am-main.xul -->
 
-<!ENTITY accountTitle.label "Account Settings">
+<!ENTITY accountTitle.label "Cài đặt tài khoản">
 <!ENTITY accountName.label "Tên Tài Khoản:">
 <!ENTITY accountName.accesskey "n">
 <!ENTITY identityTitle.label "Định danh Mặc định">
@@ -15,7 +15,7 @@
 <!ENTITY email.accesskey "E">
 <!ENTITY replyTo.label "Địa chỉ Trả-lời-tới:">
 <!ENTITY replyTo.accesskey "a">
-<!ENTITY replyTo.placeholder "Recipients will reply to this other address">
+<!ENTITY replyTo.placeholder "Người nhận sẽ trả lời địa chỉ khác này">
 <!ENTITY organization.label "Tổ chức:">
 <!ENTITY organization.accesskey "h">
 <!ENTITY signatureText.label "Chữ kí:">

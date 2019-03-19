@@ -4,7 +4,7 @@
 
 <!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
 
-<!ENTITY viewPicker.label "View:">
+<!ENTITY viewPicker.label "Xem:">
 <!ENTITY viewPicker.accesskey "i">
 <!ENTITY viewAll.label "Tất cả">
 <!ENTITY viewAll.accesskey "T">
@@ -20,4 +20,3 @@
 <!ENTITY viewVirtualFolder.accesskey "L">
 <!ENTITY viewCustomizeView.label "Tùy biến…">
 <!ENTITY viewCustomizeView.accesskey "b">
-

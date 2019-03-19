@@ -115,9 +115,9 @@
 <!ENTITY redoDefaultCmd.accesskey "L">
 
 <!-- View Menu -->
-<!ENTITY menubarCmd.label "Menu Bar">
+<!ENTITY menubarCmd.label "Thanh menu">
 <!ENTITY menubarCmd.accesskey "M">
-<!ENTITY showMessengerToolbarCmd.label "Mail Toolbar">
+<!ENTITY showMessengerToolbarCmd.label "Thanh công cụ thư">
 <!ENTITY showMessengerToolbarCmd.accesskey "T">
 <!ENTITY customizeToolbar.label "Tùy biến…">
 <!ENTITY customizeToolbar.accesskey "y">
@@ -130,7 +130,7 @@
 <!ENTITY messagePaneWide.accesskey "R">
 <!ENTITY messagePaneVertical.label "Hiển thị Dọc">
 <!ENTITY messagePaneVertical.accesskey "D">
-<!ENTITY showFolderPaneCmd.label "Folder Pane">
+<!ENTITY showFolderPaneCmd.label "Ngăn thư mục">
 <!ENTITY showFolderPaneCmd.accesskey "F">
 <!ENTITY showMessageCmd.label "Khung Đọc Thư">
 <!ENTITY showMessageCmd.accesskey "K">
@@ -224,7 +224,7 @@
 <!ENTITY bodySanitized.accesskey "L">
 <!ENTITY bodyAsPlaintext.label "Văn bản Thuần">
 <!ENTITY bodyAsPlaintext.accesskey "V">
-<!ENTITY bodyAllParts.label "All Body Parts">
+<!ENTITY bodyAllParts.label "Tất cả các phần thân">
 <!ENTITY bodyAllParts.accesskey "A">
 
 <!ENTITY bodyMenuFeed.label "Nội dung Tin bài dưới dạng">
@@ -459,14 +459,14 @@
 <!ENTITY previousButton.label "Trước">
 <!ENTITY backButton1.label "Quay lại">
 <!ENTITY goForwardButton1.label "Tiến">
-<!ENTITY deleteItem.title "Delete">
+<!ENTITY deleteItem.title "Xóa">
 <!ENTITY deleteButton.label "Xóa">
 <!ENTITY undeleteButton.label "Không xóa">
 <!ENTITY markButton.label "Đánh dấu">
 <!ENTITY printButton.label "In">
 <!ENTITY stopButton.label "Dừng">
 <!ENTITY throbberItem.title "Chỉ báo Hoạt động">
-<!ENTITY junkItem.title "Junk">
+<!ENTITY junkItem.title "Thư rác">
 <!ENTITY junkButton.label "Thư rác">
 <!ENTITY notJunkButton.label "Không phải Thư rác">
 <!ENTITY addressBookButton.label "Sổ Địa Chỉ">
@@ -632,6 +632,7 @@
      customizations for the thread pane columns in this folder to their default.
   -->
 <!ENTITY columnPicker.resetToInbox.label "Thiết lập lại các cột về mặc định">
+
 <!-- LOCALIZATION NOTE (columnPicker.applyTo.label):
      This option in the thread pane column picker pops up a sub-menu containing
      the "columnPicker.applyToFolder.label" and
