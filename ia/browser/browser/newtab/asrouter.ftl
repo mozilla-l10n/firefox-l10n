@@ -48,5 +48,8 @@ cfr-doorhanger-pintab-description = Accede facilemente al sitos web que tu usa p
 
 ## These messages are steps on how to use the feature and are shown together.
 
+cfr-doorhanger-pintab-step1 = <b>Clicca dextre</b> sur le scheda que tu desira appunctar.
+cfr-doorhanger-pintab-step2 = Elige <b>Appunctar scheda</b> ab le menu.
+cfr-doorhanger-pintab-step3 = Si le sito ha un actualisation tu videra un puncto blau sur tu scheda appunctate.
 cfr-doorhanger-pintab-animation-pause = Pausar
 cfr-doorhanger-pintab-animation-resume = Resumer

@@ -7,13 +7,8 @@ about-policies-title = Politicas de interprisa
 active-policies-tab = Active
 errors-tab = Errores
 documentation-tab = Documentation
+no-specified-policies-message = Le servicio Politicas de interprisas es active, ma il ha nulle politicas activate.
+inactive-message = Le servicio Politicas de interprisas es inactive.
 policy-name = Nomine del politica
 policy-value = Valor del politica
 policy-errors = Errores del politica
-# 'gpo-machine-only' policies are related to the Group Policy features
-# on Windows. Please use the same terminology that is used on Windows
-# to describe Group Policy.
-# These policies can only be set at the computer-level settings, while
-# the other policies can also be set at the user-level.
-gpo-machine-only =
-    .title = Quando on usa criterios de gruppo, iste criterio pote solmente esser definite al nivello del computator.
