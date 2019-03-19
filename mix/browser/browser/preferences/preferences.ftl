@@ -42,6 +42,9 @@ category-privacy =
 pane-sync-title = Cuenta Firefox
 category-sync =
     .tooltiptext = { pane-sync-title }
+pane-sync-title2 = { -sync-brand-short-name }
+category-sync2 =
+    .tooltiptext = { pane-sync-title2 }
 help-button-label = { -brand-short-name }Soporte
 focus-search =
     .key = f
@@ -298,13 +301,6 @@ permissions-notification-settings =
     .label = Ndasama...
     .accesskey = d
 permissions-notification-link = Skua'a kuakaa
-autoplay-option-ask =
-    .label = Ndaka tu'un ntikii
-autoplay-option-allow =
-    .label = A kunu kitsai mituin
-autoplay-option-dont =
-    .label = Ma kitsai mituin
-permissions-autoplay-link = Skua'a kuakaa
 permissions-block-popups =
     .label = Kasi ventanas ndatu
     .accesskey = K
@@ -319,7 +315,6 @@ permissions-a11y-privacy-link = Kavi
 ## Privacy Section - Data Collection
 
 collection-health-report-link = Kavi
-collection-browser-errors-link = Kavi
 collection-backlogged-crash-reports-link = Kavi
 
 ## Privacy Section - Security

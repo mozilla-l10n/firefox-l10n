@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-languages-window =
-    .title = Tu'un
-    .style = width: 30em
 webpage-languages-window =
     .title = Sama tu'un página web
     .style = width: 40em
@@ -38,3 +35,13 @@ languages-code-format =
     .label = { $locale }  [{ $code }]
 languages-active-code-format =
     .value = { languages-code-format.label }
+browser-languages-window =
+    .title = { -brand-short-name } Sama Tu'un
+    .style = width: 40em
+browser-languages-downloading =
+    .label = Snuì
+browser-languages-select-language =
+    .label = Katsi iin tu'un ña chikau…
+    .placeholder = Katsi iin tu'un ña chikau…
+browser-languages-installed-label = Tu'un inka
+browser-languages-available-label = Tu'un inka
