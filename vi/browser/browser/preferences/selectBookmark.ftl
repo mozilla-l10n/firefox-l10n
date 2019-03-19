@@ -5,4 +5,4 @@
 select-bookmark-window =
     .title = Đặt làm Trang Chủ
     .style = width: 32em;
-select-bookmark-desc = Chọn một Trang đánh dấu để làm Trang Chủ của bạn. Nếu bạn chọn một thư mục, các Trang đánh dấu của thư mục đó sẽ được mở trong Thẻ.
+select-bookmark-desc = Chọn một trang đánh dấu để làm trang chủ của bạn. Nếu bạn chọn một thư mục, dấu trang trong thư mục đó sẽ được mở trong thẻ.
