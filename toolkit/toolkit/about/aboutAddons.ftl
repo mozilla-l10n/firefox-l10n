@@ -92,6 +92,7 @@ detail-update-manual =
     .tooltiptext = Не ўсталёўваць абнаўленні аўтаматычна
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Задзейнічаць у прыватных вокнах
+detail-private-browsing-description2 = Калі дазволена, пашырэнне будзе мець доступ да вашай актыўнасці ў інтэрнэце ў час прыватнага аглядання. <label data-l10n-name="detail-private-browsing-learn-more">Падрабязней</label>
 detail-private-browsing-on =
     .label = Дазволіць
     .tooltiptext = Уключаць у рэжыме прыватнага аглядання
