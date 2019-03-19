@@ -108,10 +108,9 @@ These items have the same accesskey but will never be visible at the same time. 
 <!ENTITY  hiddenTabs.label                   "Tabiau Cudd">
 
 <!ENTITY  listAllTabs.label      "Rhestru pob tab">
-
 <!-- LOCALIZATION NOTE (allTabsMenu.searchTabs.label): "Search" is a verb, as
 in "Search through tabs". -->
-<!ENTITY  allTabsMenu.searchTabs.label       "Tabiau Chwilio">
+<!ENTITY  allTabsMenu.searchTabs.label       "Chwilio'r Tabiau">
 
 <!ENTITY tabCmd.label "Tab Newydd">
 <!ENTITY tabCmd.accesskey "T">
@@ -882,7 +881,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "Nid ydych wedi rhoi i'r wefan hon unrhyw ganiatâd arbennig.">
 <!ENTITY identity.permissionsReloadHint "Efallai y bydd angen ail lwytho'r dudalen i newidiadau ddod ar waith.">
 <!ENTITY identity.permissionsPreferences.tooltip "Agor Dewisiadau Caniatâd">
-
 <!ENTITY identity.contentBlockingPreferences.tooltip "Agor Dewisiadau Rhwystro Cynnwys">
 
 
@@ -903,7 +901,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Cychwynnwch gydweddu tabiau er mwyn gweld rhestr o dabiau o'ch dyfeisiau eraill.">
-<!ENTITY syncedTabs.sidebar.searchPlaceholder  "Chwilio'r tabiau wedi eu cydweddu">
+<!ENTITY syncedTabs.sidebar.searchPlaceholder  "Chwilio tabiau wedi eu cydweddu">
 <!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Cysylltu Dyfais Arall">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
