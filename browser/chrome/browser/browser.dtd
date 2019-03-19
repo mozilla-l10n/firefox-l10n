@@ -108,7 +108,6 @@ These items have the same accesskey but will never be visible at the same time. 
 <!ENTITY  hiddenTabs.label                   "Ukryte karty">
 
 <!ENTITY  listAllTabs.label      "Pokaż wszystkie karty">
-
 <!-- LOCALIZATION NOTE (allTabsMenu.searchTabs.label): "Search" is a verb, as
 in "Search through tabs". -->
 <!ENTITY  allTabsMenu.searchTabs.label       "Przeszukaj karty">
@@ -558,7 +557,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
 <!ENTITY searchFor.label              "Szukaj „">
-<!ENTITY searchWith.label             "” z:">
+<!ENTITY searchWith.label             "” w:">
 
 <!-- LOCALIZATION NOTE (search.label, searchAfter.label):
      This string is used to build the header above the list of one-click search
@@ -882,7 +881,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "Strona korzysta z domyślnych uprawnień.">
 <!ENTITY identity.permissionsReloadHint "Ponowne wczytanie strony może być konieczne, aby wprowadzone zmiany przyniosły skutek.">
 <!ENTITY identity.permissionsPreferences.tooltip "Otwórz ustawienia uprawnień">
-
 <!ENTITY identity.contentBlockingPreferences.tooltip "Otwórz ustawienia blokowania treści">
 
 
