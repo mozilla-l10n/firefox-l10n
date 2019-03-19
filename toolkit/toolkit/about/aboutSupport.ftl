@@ -52,6 +52,7 @@ app-basics-multi-process-support = Fenêtres multiprocessus
 app-basics-process-count = Processus de contenu web
 app-basics-enterprise-policies = Stratégies d’entreprise
 app-basics-location-service-key-google = Clé du service de localisation de Google
+app-basics-safebrowsing-key-google = Clé de Google Safebrowsing
 app-basics-key-mozilla = Clé du service de localisation de Mozilla
 app-basics-safe-mode = Mode sans échec
 show-dir-label =
