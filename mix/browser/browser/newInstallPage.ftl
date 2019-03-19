@@ -7,6 +7,7 @@
 ### Firefox" and "version" is used to mean "the specific revision number of a
 ### given Firefox channel". These terms are not synonymous.
 
+title = Tu'un
 changed-title = ¿Nchi ña sama?
 sync-input =
     .placeholder = Korreo
