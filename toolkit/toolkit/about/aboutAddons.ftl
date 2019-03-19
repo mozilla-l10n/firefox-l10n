@@ -92,7 +92,6 @@ detail-update-manual =
     .tooltiptext = Не ўсталёўваць абнаўленні аўтаматычна
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Задзейнічаць у прыватных вокнах
-detail-private-browsing-description = Пашырэнне будзе працаваць у прыватных вокнах і мець доступ да вашай актыўнасці ў сеціве. <label data-l10n-name="detail-private-browsing-learn-more">Падрабязней</label>
 detail-private-browsing-on =
     .label = Дазволіць
     .tooltiptext = Уключаць у рэжыме прыватнага аглядання
@@ -143,7 +142,7 @@ legacy-extensions =
 legacy-extensions-description = Гэтыя пашырэнні не адпавядаюць бягучым стандартам { -brand-short-name }, таму яны былі выключаны. <label data-l10n-name="legacy-learn-more">Даведацца аб зменах у дадатках</label>
 private-browsing-description2 =
     { -brand-short-name } змяняе парадак працы пашырэнняў у прыватным агляданні. Усе новыя пашырэнні, якія вы дадаяце да
-    { -brand-short-name }, тыпова не будуць дзейнічаць прыватных вокнах. Пакуль вы не выставіце дазвол у наладах,
+    { -brand-short-name }, тыпова не будуць дзейнічаць у прыватных вокнах. Пакуль вы не выставіце дазвол у наладах,
     пашырэнне не будзе працаваць у час прыватнага аглядання, і не будзе мець доступу да вашай сеціўнай
     актыўнасці ў гэтым рэжыме. Мы зрабілі гэта для аховы вашай прыватнасці.
     <label data-l10n-name="private-browsing-learn-more">Даведайцеся, як кіраваць наладамі пашырэння.</label>
