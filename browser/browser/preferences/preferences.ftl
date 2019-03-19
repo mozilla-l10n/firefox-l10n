@@ -154,7 +154,7 @@ warn-on-close-multiple-tabs =
     .label = 关闭多个标签页时警告您
     .accesskey = m
 warn-on-open-many-tabs =
-    .label = 打开多个标签页可能致使 { -brand-short-name } 缓慢时警告
+    .label = 打开多个标签页可能拖慢 { -brand-short-name } 时警告我
     .accesskey = d
 switch-links-to-new-tabs =
     .label = 在新标签页中打开链接时，立即切换过去
@@ -303,7 +303,7 @@ performance-allow-hw-accel =
     .accesskey = r
 performance-limit-content-process-option = 内容进程限制
     .accesskey = L
-performance-limit-content-process-enabled-desc = 更多内容进程可以改善使用多个标签页时的性能，但也将消耗更多内存。
+performance-limit-content-process-enabled-desc = 调高内容进程数量可以改善使用多个标签页时的性能，但也将消耗更多内存。
 performance-limit-content-process-blocked-desc = 仅在多进程 { -brand-short-name } 时可修改进程数量。 <a data-l10n-name="learn-more">了解如何检查多进程的启用状况</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
@@ -732,23 +732,12 @@ permissions-notification-link = 详细了解
 permissions-notification-pause =
     .label = 暂停通知直至下次打开 { -brand-short-name }
     .accesskey = n
-permissions-block-autoplay-media =
-    .label = 阻止网站自动播放有声媒体内容
-    .accesskey = B
-permissions-block-autoplay-media-menu = 自动播放声音的网站
 permissions-block-autoplay-media2 =
     .label = 阻止网站自动播放声音
     .accesskey = B
 permissions-block-autoplay-media-exceptions =
     .label = 例外…
     .accesskey = E
-autoplay-option-ask =
-    .label = 始终询问
-autoplay-option-allow =
-    .label = 允许自动播放
-autoplay-option-dont =
-    .label = 不要自动播放
-permissions-autoplay-link = 详细了解
 permissions-block-popups =
     .label = 拦截弹出式窗口
     .accesskey = B
@@ -784,10 +773,6 @@ addon-recommendations-link = 详细了解
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = 在此构建配置下数据反馈被禁用
-collection-browser-errors =
-    .label = 允许 { -brand-short-name } 发送浏览器错误报告（包含错误信息）到 { -vendor-short-name }
-    .accesskey = b
-collection-browser-errors-link = 详细了解
 collection-backlogged-crash-reports =
     .label = 允许 { -brand-short-name } 代您发送积压的崩溃报告
     .accesskey = c

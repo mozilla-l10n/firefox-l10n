@@ -25,13 +25,13 @@
 <!ENTITY  selectAllTabs.accesskey            "S">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
-<!ENTITY  duplicateTab.label                 "创建标签页副本">
+<!ENTITY  duplicateTab.label                 "克隆标签页">
 <!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  duplicateTab.accesskey             "D">
 <!-- LOCALIZATION NOTE (duplicateTabs.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
-<!ENTITY  duplicateTabs.label                "创建多个标签页的副本">
+<!ENTITY  duplicateTabs.label                "克隆标签页">
 <!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  duplicateTabs.accesskey            "D">
@@ -43,7 +43,7 @@ left instead of right. -->
 <!ENTITY  closeOtherTabs.label               "关闭其他标签页">
 <!ENTITY  closeOtherTabs.accesskey           "o">
 
-<!ENTITY  closeTabs.label                    "关闭多个标签页">
+<!ENTITY  closeTabs.label                    "关闭标签页">
 <!ENTITY  closeTabs.accesskey                "S">
 <!ENTITY  pinSelectedTabs.label              "固定标签页">
 <!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
@@ -57,9 +57,9 @@ same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinSelectedTabs.accesskey        "b">
 <!-- LOCALIZATION NOTE(reloadTab.label, reloadTabs.label): have the same accesskey
 but will never be visible at the same time. -->
-<!ENTITY  reloadTabs.label                   "重新载入多个标签页">
+<!ENTITY  reloadTabs.label                   "重新载入标签页">
 <!ENTITY  reloadTabs.accesskey               "R">
-<!ENTITY  bookmarkSelectedTabs.label         "将多个标签页加入书签…">
+<!ENTITY  bookmarkSelectedTabs.label         "给标签页加上书签…">
 <!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  bookmarkSelectedTabs.accesskey     "k">
@@ -87,7 +87,7 @@ same accesskey but will never be visible at the same time. -->
 These two items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  moveTabOptions.label               "移动标签页">
 <!ENTITY  moveTabOptions.accesskey           "v">
-<!ENTITY  moveSelectedTabOptions.label       "移动多个标签页">
+<!ENTITY  moveSelectedTabOptions.label       "移动标签页">
 <!ENTITY  moveSelectedTabOptions.accesskey   "v">
 <!ENTITY  moveToStart.label                  "移动到开头">
 <!ENTITY  moveToStart.accesskey              "S">
@@ -108,7 +108,6 @@ These items have the same accesskey but will never be visible at the same time. 
 <!ENTITY  hiddenTabs.label                   "隐藏标签页">
 
 <!ENTITY  listAllTabs.label      "列出全部标签页">
-
 <!-- LOCALIZATION NOTE (allTabsMenu.searchTabs.label): "Search" is a verb, as
 in "Search through tabs". -->
 <!ENTITY  allTabsMenu.searchTabs.label       "搜索标签页">
@@ -151,7 +150,7 @@ when there are no windows but Firefox is still running. -->
 toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
 <!ENTITY toolbarContextMenu.reloadSelectedTab.accesskey "R">
-<!ENTITY toolbarContextMenu.reloadSelectedTabs.label "重新载入所选的多个标签页">
+<!ENTITY toolbarContextMenu.reloadSelectedTabs.label "重新载入选中的标签页">
 <!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
 toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
@@ -882,7 +881,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "您尚未授予此站点任何权限。">
 <!ENTITY identity.permissionsReloadHint "您可能需要重新载入此页面以应用更改。">
 <!ENTITY identity.permissionsPreferences.tooltip "打开权限偏好设置">
-
 <!ENTITY identity.contentBlockingPreferences.tooltip "打开内容拦截首选项">
 
 
