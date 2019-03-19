@@ -40,14 +40,14 @@ cfr-doorhanger-extension-rating =
 #   $total (Number) - The total number of users using the add-on
 cfr-doorhanger-extension-total-users =
     { $total ->
-       *[other] { $total } 用户
+       *[other] { $total } 个用户
     }
-cfr-doorhanger-pintab-description = 快速打开您最常使用的网站，就算重启也保持将网站打开于标签页中。
+cfr-doorhanger-pintab-description = 固定常用的网站，就算重启也能快捷打开。
 
 ## These messages are steps on how to use the feature and are shown together.
 
 cfr-doorhanger-pintab-step1 = <b>右键点击</b>您想要固定的标签页。
 cfr-doorhanger-pintab-step2 = 在菜单中选择<b>固定标签页</b>。
-cfr-doorhanger-pintab-step3 = 若网站有更新，固定的标签页上会出现蓝色小点。
+cfr-doorhanger-pintab-step3 = 若网站有新动向，固定的标签页上会出现蓝色小点。
 cfr-doorhanger-pintab-animation-pause = 暂停
 cfr-doorhanger-pintab-animation-resume = 恢复
