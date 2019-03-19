@@ -19,4 +19,4 @@
 <!ENTITY prefFirefoxCompat.accesskey         "F">
 <!ENTITY prefLightningShow.label             "Doporučit instalaci doplňku Lightning">
 <!ENTITY prefLightningShow.accesskey         "L">
-<!ENTITY prefCompatWarning                   "VAROVÁNÍ: vypnutí tohoto nastavení může způsobit, že webové stránky nebo služby nemusí správně fungovat.">
+<!ENTITY prefCompatWarning                   "VAROVÁNÍ: vypnutí těchto voleb může způsobit, že webové stránky nebo služby nebudou fungovat správně.">
