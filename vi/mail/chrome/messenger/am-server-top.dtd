@@ -4,7 +4,7 @@
 
 <!-- extracted from am-server-top.xul -->
 
-<!ENTITY securitySettings.label "Security Settings">
+<!ENTITY securitySettings.label "Cài đặt bảo mật">
 <!ENTITY serverSettings.label "Thiết lập Máy chủ">
 <!ENTITY serverType.label "Kiểu Máy Chủ:">
 <!ENTITY serverName.label "Tên Máy Chủ:">
@@ -14,7 +14,7 @@
 <!ENTITY port.label "Cổng:">
 <!ENTITY port.accesskey "C">
 <!ENTITY serverPortDefault.label "Mặc định:">
-<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
+<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammar dependency
         For example, in Japanese cases:
                 biffStart.label "every"
                 biffEnd.label   "minutes for new messages Check"
@@ -58,7 +58,7 @@
 <!ENTITY loginAtStartup.accesskey "i">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
-   of messages between them
+    of messages between them
 -->
 <!ENTITY maxMessagesStart.label "Hỏi tôi trước khi tải nhiều hơn">
 <!ENTITY maxMessagesStart.accesskey "H">
@@ -67,17 +67,16 @@
 <!ENTITY alwaysAuthenticate.label "Luôn yêu cầu xác thực khi kết nối đến máy chủ này">
 <!ENTITY alwaysAuthenticate.accesskey "u">
 <!ENTITY newsrcFilePath.label "tập tin newsrc:">
-<!ENTITY localPath.label "Thư mục Nội bộ:">
+<!ENTITY newsrcPicker.label "Chọn Tập Tin newsrc">
 <!ENTITY abbreviate.label "Hiện tên nhóm tin trong bảng Thư mục Thư dưới dạng:">
 <!ENTITY abbreviateOn.label "Các tên đầy đủ (thí dụ “netscape.public.mozilla.mail-news”)">
 <!ENTITY abbreviateOff.label "Tên viết tắt chữ đầu (ví dụ, 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Nâng cao…">
 <!ENTITY advancedButton.accesskey "a">
-<!ENTITY serverDefaultCharset.label "Bảng mã Mặc định:">
+<!ENTITY localPath.label "Thư mục Nội bộ:">
 <!ENTITY localFolderPicker.label "Chọn Thư mục Nội bộ">
 <!ENTITY browseFolder.label "Duyệt…">
 <!ENTITY browseFolder.accesskey "y">
-<!ENTITY newsrcPicker.label "Chọn Tập Tin newsrc">
 <!ENTITY browseNewsrc.label "Duyệt…">
 <!ENTITY browseNewsrc.accesskey "D">
 

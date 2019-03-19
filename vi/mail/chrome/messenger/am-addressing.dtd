@@ -4,7 +4,6 @@
 
 <!-- extracted from am-addressing.xul -->
 
-<!ENTITY addressing.label          "Composition &amp; Addressing">
 <!ENTITY addressingGroupTitle.label "Xác định Địa chỉ">
 <!ENTITY addressingText.label      "Khi tìm địa chỉ:">
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
@@ -19,15 +18,13 @@
 
 <!-- am-addressing.xul -->
 
-<!ENTITY compositionGroupTitle.label "Soạn thảo">
+<!ENTITY compositionGroupTitle.label          "Soạn thảo">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
 <!ENTITY useHtml.label                        "Soạn thư định dạng HTML">
 <!ENTITY useHtml.accesskey                    "S">
 <!ENTITY autoQuote.label                      "Tự động trích dẫn thư gốc khi trả lời">
 <!ENTITY autoQuote.accesskey                  "n">
-<!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
-<!ENTITY then.label                           "Rồi,">
-<!ENTITY then.accesskey                       "R">
+<!-- LOCALIZATION NOTE (quoting.label): This will concatenate with the 4 strings that follow. -->
 <!ENTITY aboveQuote.label                     "bắt đầu viết trả lời trên đoạn trích dẫn">
 <!ENTITY belowQuote.label                     "bắt đầu viết trả lời dưới đoạn trích dẫn">
 <!ENTITY selectAndQuote.label                 "chọn trích dẫn">
@@ -39,4 +36,5 @@
 <!ENTITY includeSigOnReply.accesskey          "B">
 <!ENTITY includeSigOnForward.label            "Bao gồm chữ kí trong thư chuyển tiếp">
 <!ENTITY includeSigOnForward.accesskey        "y">
+
 

@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY fieldMapImport.title "Import Address Book">
+<!ENTITY fieldMapImport.title "Nhập sổ địa chỉ">
 <!ENTITY fieldMapImport.size "width: 40em; height: 30em;">
 <!ENTITY fieldMapImport.recordNumber "Dữ liệu đã nhập cho Bản ghi: ">
 <!ENTITY fieldMapImport.next.label "Tiếp">
@@ -18,4 +18,3 @@
 <!ENTITY fieldMapImport.dataTitle "Dữ liệu bản ghi cần nhập">
 <!ENTITY fieldMapImport.skipFirstRecord.label "Bản ghi đầu tiên chứa các tên trường">
 <!ENTITY fieldMapImport.skipFirstRecord.accessKey "B">
-

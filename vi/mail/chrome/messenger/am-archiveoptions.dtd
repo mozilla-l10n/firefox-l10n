@@ -4,7 +4,7 @@
 
 <!-- extracted from am-archiveoptions.xul -->
 
-<!ENTITY dialogTitle.label "Archive Options">
+<!ENTITY dialogTitle.label "Tùy chọn lưu trữ">
 <!ENTITY archiveGranularityPrefix.label "Khi lưu trữ thư, xếp nó vào trong:">
 <!ENTITY archiveFlat.label "Chỉ một thư mục">
 <!ENTITY archiveFlat.accesskey "C">
@@ -21,4 +21,3 @@
 <!-- LOCALIZATION NOTE (inboxFolderName.label): this should match the default
      name for the "Inbox" folder -->
 <!ENTITY inboxFolderName.label "Hộp thư">
-

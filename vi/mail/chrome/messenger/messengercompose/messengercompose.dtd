@@ -110,7 +110,7 @@
 <!ENTITY viewMenu.accesskey "H">
 <!ENTITY viewToolbarsMenuNew.label "Thanh Công Cụ">
 <!ENTITY viewToolbarsMenuNew.accesskey "C">
-<!ENTITY menubarCmd.label "Menu Bar">
+<!ENTITY menubarCmd.label "Thanh menu">
 <!ENTITY menubarCmd.accesskey "M">
 <!ENTITY showCompositionToolbarCmd.label "Thanh Soạn Thảo">
 <!ENTITY showCompositionToolbarCmd.accesskey "S">

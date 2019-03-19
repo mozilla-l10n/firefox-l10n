@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
+<!-- extracted from MsgSynchronize.xul and msgSelectOfflineFolders.xul-->
 
-<!ENTITY MsgSynchronize.label "Download and Sync Messages">
+<!ENTITY MsgSynchronize.label "Tải xuống và đồng bộ hóa thư">
 <!ENTITY MsgSelect.label "Các mục để Sử dụng Ngoại tuyến">
 <!ENTITY MsgSyncDesc.label "Nếu bạn đã chọn thư mục hoặc nhóm tin để dùng ngoại tuyến, bạn có thể tải/đồng bộ chúng ngay bây giờ. Nếu chưa, hãy sử dụng nút &quot;Chọn&quot; để chọn thư mục thư và nhóm tin để dùng ngoại tuyến.">
 <!ENTITY MsgSyncDirections.label "Tải và/hoặc đồng bộ những mục sau:">
