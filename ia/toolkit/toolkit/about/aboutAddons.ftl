@@ -144,6 +144,7 @@ legacy-warning-show-legacy = Monstrar le extensiones obsolete
 legacy-extensions =
     .value = Extensiones obsolete
 legacy-extensions-description = Ille extensiones non concorda le standardos currente de { -brand-short-name } assi illos esseva disactivate. <label data-l10n-name="legacy-learn-more">Sape lo que cambiava al additivos</label>
+private-browsing-description2 = { -brand-short-name } es cambiar como le extensiones functiona in navigation anonyme. Cata nove extension que tu adde a { -brand-short-name } non fluera de ordinario in le Fenestras anonyme. A minus que tu lo consenti in le parametros, le extension non functiona durante le navigation anonyme, e non habera accesso a tu activitates online illac. Nos ha facite iste cambio pro mantener private tu navigation anonyme. <label data-l10n-name="private-browsing-learn-more">Apprende a gerer le parametros del extension.</label>
 extensions-view-discover =
     .name = Obtener additivos
     .tooltiptext = { extensions-view-discover.name }
