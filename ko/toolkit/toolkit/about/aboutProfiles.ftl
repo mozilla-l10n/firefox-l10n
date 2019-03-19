@@ -51,7 +51,7 @@ profiles-delete-profile-failed-title = 오류
 profiles-delete-profile-failed-message = 이 프로필을 지우는 동안 오류가 발생 했습니다.
 profiles-opendir =
     { PLATFORM() ->
-        [macos] Finder에 표시
-        [windows] 다른 폴더
+        [macos] Finder에서 보기
+        [windows] 폴더 열기
        *[other] 디렉토리 열기
     }
