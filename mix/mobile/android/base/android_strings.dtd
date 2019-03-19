@@ -63,6 +63,12 @@
 <!ENTITY  crash_restart_label "Ndu tsaa &brandShortName;">
 
 <!ENTITY url_bar_default_text2 "Nda tuku a chika direccion">
+
+<!-- Localization note: this text will be displayed in the Search Widget -->
+<!ENTITY search_widget_default_text "Nduku nu web">
+<!ENTITY search_widget_default_cropped_text "Nduku">
+<!ENTITY search_widget_logo_description "Nduku nu web tsi &brandShortName;">
+
 <!-- Localization note (url_bar_qrcode_text2) : This text will be
      heard by non-visual users when the focus is on the QR Code
      icon in the url bar. -->
@@ -393,7 +399,6 @@
 <!ENTITY pref_private_data_searchHistory "Nda ntuku ña niya\&apos;a">
 <!ENTITY pref_private_data_formdata2 "formulario ña niya\&apos;a">
 <!ENTITY pref_private_data_cookies2 "Cookies tsi logins vaa">
-<!ENTITY pref_private_data_passwords2 "Inka vaa nishi ni kuvu">
 <!ENTITY pref_private_data_cache "Caché">
 <!ENTITY pref_private_data_offlineApps "Tutù ña sitios web koò conexión">
 <!ENTITY pref_private_data_siteSettings2 "nda sama sitio">
