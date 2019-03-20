@@ -10,7 +10,7 @@
 <!ENTITY returnToPreviousPage.label "Dok cen">
 <!ENTITY returnToPreviousPage1.label "Dok cen (Kicwako)">
 <!ENTITY advanced.label "Ma lamal">
-<!ENTITY continue2.label "Mapol…">
+<!ENTITY advanced2.label "Ma lamal…">
 <!ENTITY moreInformation.label "Ngec mapol">
 <!ENTITY viewCertificate.label "Nen Catibiket">
 
@@ -151,3 +151,5 @@ was trying to connect. -->
 <!ENTITY prefReset.longDesc "Nen calo ter me ber bedo per netwak mamegi aye tye ka kelo man. Imito ni ki dwok ter makwongo?">
 <!ENTITY prefReset.label "Dwok ter makwongo">
 
+<!ENTITY networkProtocolError.title "Bal me Cik me Netwak">
+<!ENTITY networkProtocolError.longDesc "<p>Pot buk ma i tye katemo neno ne pe romo nyutu pien bal mo i cik me netwak onyute.</p><ul><li>Tim ber i kube ki wegi di bar me Web me minigi ngec pi peko man.</li></ul>">
