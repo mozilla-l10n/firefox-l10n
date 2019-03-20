@@ -371,7 +371,7 @@
 <!ENTITY editTemplateMsgCmd.label "Chỉnh sửa mẫu">
 <!ENTITY editTemplateMsgCmd.accesskey "T">
 <!ENTITY newMsgFromTemplateCmd.label "Thư mới từ mẫu">
-<!-- do not change "VK_RETURN" -->
+<!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN"><!-- do not change "VK_RETURN" -->
 <!ENTITY createFilter.label "Tạo Bộ lọc từ Thư…">
 <!ENTITY createFilter.accesskey "o">
 <!ENTITY moveMsgToMenu.label "Di chuyển Tới">
