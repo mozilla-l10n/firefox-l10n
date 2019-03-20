@@ -251,5 +251,6 @@ go-back-button =
 remove-addon-button = 移除
 disable-addon-button = 禁用
 enable-addon-button = 启用
+expand-addon-button = 更多选项
 addons-enabled-heading = 已启用
 addons-disabled-heading = 已禁用
