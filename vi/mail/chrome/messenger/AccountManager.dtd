@@ -16,7 +16,7 @@
 <!ENTITY addFeedAccountButton.accesskey "N">
 <!ENTITY addOtherAccountButton.label "Thêm Tài Khoản Khác…">
 <!ENTITY addOtherAccountButton.accesskey "o">
-<!ENTITY setDefaultButton.label "Dùng làm Mặc định">
+<!ENTITY setDefaultButton.label "Đặt làm mặc định">
 <!ENTITY setDefaultButton.accesskey "D">
 <!ENTITY removeButton.label "Xóa Tài Khoản">
 <!ENTITY removeButton.accesskey "X">

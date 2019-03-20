@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY pref.toolbars.title    "Thanh Công Cụ">
+<!ENTITY pref.toolbars.title    "Thanh công cụ">
 
-<!ENTITY composition.caption    "Hiện những nút này trong Thanh Soạn Thảo:">
+<!ENTITY composition.caption    "Hiển thị những nút này trong thanh công cụ soạn thảo:">
 
 <!ENTITY new.label              "Mới">
 <!ENTITY open.label             "Mở">
@@ -16,18 +16,18 @@
 <!ENTITY paste.label            "Dán">
 <!ENTITY print.label            "In">
 <!ENTITY find.label             "Tìm">
-<!ENTITY image.label            "Hình">
+<!ENTITY image.label            "Hình ảnh">
 <!ENTITY hline.label            "Đ. Ngang">
 <!ENTITY table.label            "Bảng">
 <!ENTITY link.label             "Liên kết">
-<!ENTITY anchor.label           "Thẻ Neo">
+<!ENTITY anchor.label           "Mỏ neo">
 
-<!ENTITY formatting.caption     "Hiện những nút này trong Thẻ Định Dạng:">
+<!ENTITY formatting.caption     "Hiển thị các nút này trong thanh công cụ định dạng:">
 
 <!ENTITY smaller.label          "Nhỏ hơn">
 <!ENTITY larger.label           "Lớn hơn">
 <!ENTITY bold.label             "Đậm">
-<!ENTITY bullets.label          "Bullet">
+<!ENTITY bullets.label          "Dấu tròn đầu dòng">
 <!ENTITY numbers.label          "Số">
 <!ENTITY italic.label           "Nghiêng">
 <!ENTITY outdent.label          "Thụt lề">

@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY serverAdvanced.label "Thiết lập Tài khoản Nâng cao">
+<!ENTITY serverAdvanced.label "Cài đặt tài khoản nâng cao">
 <!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
 <!ENTITY serverDirectory.label "Thư mục máy chủ IMAP:">
 <!ENTITY serverDirectory.accesskey "m">
@@ -10,8 +10,6 @@
 <!ENTITY usingSubscription.accesskey "C">
 <!ENTITY dualUseFolders.label "Máy chủ hỗ trợ các thư mục có chứa thư mục con và thư">
 <!ENTITY dualUseFolders.accesskey "r">
-<!ENTITY useIdle.label "Dùng lệnh IDLE nếu máy chủ hỗ trợ nó">
-<!ENTITY useIdle.accesskey "I">
 <!ENTITY maximumConnectionsNumber.label "Số lượng kết nối tối đa từ máy chủ tới bộ đệm">
 <!ENTITY maximumConnectionsNumber.accesskey "S">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
@@ -24,13 +22,7 @@
 <!ENTITY otherUsersNamespace.accesskey "N">
 <!ENTITY overrideNamespaces.label "Cho phép máy chủ ghi đè những không gian tên này">
 <!ENTITY overrideNamespaces.accesskey "o">
-<!ENTITY pop3Desc.label "Khi tải thư pop cho máy chủ này, sử dụng thư mục sau đối với thư mới:" >
-<!ENTITY globalInbox.label "Hộp thư Bao quát (Tài khoản Thư mục Nội bộ)">
-<!ENTITY globalInbox.accesskey "B">
-<!ENTITY accountDirectory.label "Hộp thư cho tài khoản của máy chủ này">
-<!ENTITY accountDirectory.accesskey "H">
 <!ENTITY deferToServer.label "Hộp thư cho tài khoản khác">
 <!ENTITY deferToServer.accesskey "p">
 <!ENTITY deferGetNewMail.label "Bao gồm máy chủ này khi nhận thư mới">
 <!ENTITY deferGetNewMail.accesskey "o">
-
