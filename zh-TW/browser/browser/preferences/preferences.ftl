@@ -672,6 +672,7 @@ content-blocking-warning-title = 注意！
 content-blocking-warning-desc = 封鎖 Cookie 與追蹤器可能會造成某些網站故障。若開啟網站遇到問題，很簡單就能為您信任的網站關閉封鎖。
 content-blocking-warning-description = 封鎖內容後可能造成某些網站無法正常運作。很簡單就能為您信任的網站關閉封鎖功能。
 content-blocking-learn-how = 了解要怎麼做
+content-blocking-reload-description = 需要重新載入分頁才能套用變更。
 content-blocking-reload-tabs-button =
     .label = 重新載入所有分頁
     .accesskey = R
