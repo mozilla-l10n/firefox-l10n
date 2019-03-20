@@ -10,7 +10,6 @@
 <!ENTITY fullscreenButton.exitfullscreenlabel "Połnu wobrazowku skónčić">
 <!ENTITY castingButton.castingLabel "Na wobrazowku projicěrować">
 <!ENTITY closedCaption.off "Wupinjeny">
-
 <!-- LOCALIZATION NOTE (volumeScrubber.label): This label is exposed to
      accessibility software to clarify what the slider is for. -->
 <!ENTITY volumeScrubber.label "Regulator sylnosće zwuka">
@@ -34,6 +33,8 @@
 <!ENTITY error.srcNotSupported "Widejowy format abo MIME-typ so njepodpěruje.">
 <!ENTITY error.noSource2 "Widejo z podpěranym formatom a MIME-typom njeje so namakało.">
 <!ENTITY error.generic "Wothrawanje wideja je so njeznateho zmylka dla přetorhnyło.">
+
+<!ENTITY status.pictureInPicture "Tute widejo so w modusu wobraz-we-wobrazu wothrawa.">
 
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
