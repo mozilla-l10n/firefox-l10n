@@ -47,6 +47,7 @@
 <!ENTITY colorButton.accesskey   "C">
 
 <!-- Advanced -->
+<!ENTITY reading.caption                  "Đọc">
 <!ENTITY display.caption                  "Hiển thị">
 <!ENTITY showCondensedAddresses.label     "Chỉ hiển thị tên cho những người trong sổ địa chỉ của tôi">
 <!ENTITY showCondensedAddresses.accesskey "S">
