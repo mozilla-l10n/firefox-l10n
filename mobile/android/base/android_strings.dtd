@@ -63,6 +63,12 @@
 <!ENTITY  crash_restart_label "&brandShortName; पुनः आरंभ करें">
 
 <!ENTITY url_bar_default_text2 "खोजें या पता दर्ज करें">
+
+<!-- Localization note: this text will be displayed in the Search Widget -->
+<!ENTITY search_widget_default_text "वेब पर खोजें">
+<!ENTITY search_widget_default_cropped_text "खोजें">
+<!ENTITY search_widget_logo_description "&brandShortName; के साथ वेब पर खोजें">
+
 <!-- Localization note (url_bar_qrcode_text2) : This text will be
      heard by non-visual users when the focus is on the QR Code
      icon in the url bar. -->
@@ -290,12 +296,6 @@
 <!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
      Similar to the already existing "pref_whats_new_notification_summary"-->
 <!ENTITY pref_feature_tips_notification_summary "&brandShortName; तथा अन्य &vendorShortName; उत्पादों के उपयोग करने के बारे में अधिक जानें">
-
-<!-- Localization note (pref_feature_tips_notification_enabling_hint):
-     Describe the action the user should do to enable this preference
-     Will be used in the context "<Turn on> ... to enable this feature" -->
-<!ENTITY pref_feature_tips_notification_enabling_hint "चालू करें">
-
 <!-- Localization note (pref_feature_tips_notification_enabling_path):
      Nothing to translate. Simple concatenation of already localized strings. Result is used below. -->
 <!ENTITY pref_feature_tips_notification_enabling_path "&pref_category_privacy_short; > &pref_category_datareporting; > &datareporting_fhr_title;">
@@ -341,6 +341,9 @@
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
 <!ENTITY tab_queue_prompt_settings_button "सेटिंग्स पर जायें">
+<!-- Localization note (tab_queue_notification_prompt): This is the text of the default notification
+shown from Android O while a tab is being queued.-->
+<!ENTITY tab_queue_notification_prompt "टैब को कतार &#8230; में जोड़ा जा रहा है">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -399,7 +402,6 @@
 <!ENTITY pref_private_data_searchHistory "खोज इतिहास">
 <!ENTITY pref_private_data_formdata2 "फॉर्म इतिहास">
 <!ENTITY pref_private_data_cookies2 "कुकीज़ &amp; सक्रिय लॉगिन">
-<!ENTITY pref_private_data_passwords2 "सहेजे गए लॉगिन">
 <!ENTITY pref_private_data_cache "कैशे">
 <!ENTITY pref_private_data_offlineApps "ऑफ़लाइन वेबसाइट डेटा">
 <!ENTITY pref_private_data_siteSettings2 "साइट सेटिंग">
@@ -844,8 +846,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY whatsnew_notification_title "&brandShortName; अद्यतन है">
 <!ENTITY whatsnew_notification_summary "इस संस्करण में क्या नया है यह ढूंढें">
 
-<!ENTITY promotion_add_page_shortcut "पृष्ठ शॉर्टकट जोड़ें">
-
 <!ENTITY helper_first_offline_bookmark_title "ऑफलाइन पढ़ें">
 <!ENTITY helper_first_offline_bookmark_message "पुस्तचिन्हों में अपनी पाठ्य दृष्टि वस्तुएँ ढूँढ़ें, ऑफ़लाइन भी.">
 <!ENTITY helper_first_offline_bookmark_button "पुस्तचिह्नों पर जायें">
@@ -904,15 +904,9 @@ Picture-in-picture mini window -->
 <!ENTITY pip_pause_button_description "चलना रोकें">
 
 <!-- Notification channels names -->
-<!ENTITY default_notification_channel "&brandShortName;">
-
-<!-- Notification channels names -->
 <!ENTITY default_notification_channel2 "ब्राउज़र">
 <!ENTITY mls_notification_channel "&vendorShortName; लोकेशन सेवा">
 <!ENTITY download_notification_channel "डाउनलोड्स">
-<!ENTITY media_notification_channel "मीडिया प्लेबैक">
-<!-- These push notifications come without a specific channel and/or name from Leanplum -->
-<!ENTITY leanplum_default_notifications_channel "&brandShortName; पुश सूचनाएँ">
 <!ENTITY media_notification_channel2 "ध्वनि और वीडियो">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel2 "&vendorShortName; सुझाव एवं तरकीब">
