@@ -108,7 +108,6 @@ These items have the same accesskey but will never be visible at the same time. 
 <!ENTITY  hiddenTabs.label                   "隱藏分頁">
 
 <!ENTITY  listAllTabs.label      "列出所有分頁">
-
 <!-- LOCALIZATION NOTE (allTabsMenu.searchTabs.label): "Search" is a verb, as
 in "Search through tabs". -->
 <!ENTITY  allTabsMenu.searchTabs.label       "搜尋分頁">
@@ -215,6 +214,23 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenAutohide.accesskey "H">
 <!ENTITY fullScreenExit.label "離開全螢幕模式">
 <!ENTITY fullScreenExit.accesskey "F">
+
+ <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
+     for the Firefox Account toolbar signin menu screen. -->
+<!ENTITY fxa.signin.callout.label "Firefox 隨身帶著走">
+<!ENTITY fxa.signin.description.label "在您的任何裝置上取得書籤、瀏覽紀錄、密碼及其他設定。">
+<!ENTITY fxa.signin.button.label "開啟 &syncBrand.shortName.label;…">
+
+<!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
+     for the Firefox Account toolbar unverified menu screen. -->
+<!ENTITY fxa.unverified.callout.label "收信確認">
+<!ENTITY fxa.unverified.description.label "請先驗證您的帳號，即可開始同步。">
+<!ENTITY fxa.unverified.button.label "開啟 &syncBrand.shortName.label; 設定…">
+
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbart menu screen. The `Signed in as` text is
+     followed by the user's email. -->
+<!ENTITY fxa.menu.signedInAs.label "已登入為">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -410,6 +426,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "偏好設定">
 <!ENTITY preferencesCmdUnix.accesskey     "n">
+
 
 <!ENTITY clearRecentHistory.label               "清除最近的歷史記錄…">
 
@@ -882,7 +899,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "您並未授予此網站任何特殊權限。">
 <!ENTITY identity.permissionsReloadHint "您可能需要重新載入頁面才能讓變更生效。">
 <!ENTITY identity.permissionsPreferences.tooltip "開啟權限偏好設定">
-
 <!ENTITY identity.contentBlockingPreferences.tooltip "開啟內容封鎖偏好設定">
 
 
@@ -1136,8 +1152,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "請點擊 <image class='addon-toolbar-icon'/> 選單中的 <image class='addon-addon-icon'/> 來管理附加元件。">
-<!ENTITY addonPostInstall.incognito.label "允許此擴充套件於瀏覽視窗中執行。">
-<!ENTITY addonPostInstall.incognito.accesskey "A">
 
 <!ENTITY addonPrivateBrowsing.header2.label "於隱私視窗中對擴充套件行為的變更">
 <!ENTITY addonPrivateBrowsing.body2.label "除非您在設定中允許，否則任何新安裝到 &brandShorterName; 的擴充套件都將無法在隱私瀏覽視窗中使用。">
