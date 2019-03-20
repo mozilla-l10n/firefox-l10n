@@ -256,5 +256,6 @@ go-back-button =
 remove-addon-button = Tynnu
 disable-addon-button = Analluogu
 enable-addon-button = Galluogi
+expand-addon-button = Rhagor o Opsiynau
 addons-enabled-heading = Galluogwyd
 addons-disabled-heading = Analluogwyd
