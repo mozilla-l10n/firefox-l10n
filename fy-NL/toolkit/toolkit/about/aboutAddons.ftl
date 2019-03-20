@@ -259,5 +259,6 @@ go-back-button =
 remove-addon-button = Fuortsmite
 disable-addon-button = Utskeakelje
 enable-addon-button = Ynskeakelje
+expand-addon-button = Mear opsjes
 addons-enabled-heading = Ynskeakele
 addons-disabled-heading = Utskeakele
