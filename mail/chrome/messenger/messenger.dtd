@@ -50,91 +50,96 @@
 <!ENTITY saveAsTemplateCmd.label "Mẫu">
 <!ENTITY saveAsTemplateCmd.accesskey "T">
 <!ENTITY getNewMsgForCmd.label "Nhận thư mới cho">
-<!ENTITY getNewMsgForCmd.accesskey "c">
-<!ENTITY getAllNewMsgCmdPopupMenu.label "Tất cả Tài khoản">
-<!ENTITY getAllNewMsgCmdPopupMenu.accesskey "T">
-<!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Tài khoản Hiện tại">
-<!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "H">
-<!ENTITY sendUnsentCmd.label "Gửi các Thư Chưa Gửi">
-<!ENTITY sendUnsentCmd.accesskey "a">
-<!ENTITY subscribeCmd.label "Theo dõi…">
-<!ENTITY subscribeCmd.accesskey "e">
-<!ENTITY deleteFolder.label "Xóa Thư Mục">
-<!ENTITY deleteFolder.accesskey "X">
-<!ENTITY renameFolder.label "Đổi tên Thư mục…">
-<!ENTITY renameFolder.accesskey "t">
-<!ENTITY renameFolder.key "V">
-<!ENTITY compactFolders.label "Làm gọn Thư mục">
-<!ENTITY compactFolders.accesskey "n">
-<!ENTITY emptyTrashCmd.label "Dọn sạch Thùng rác">
-<!ENTITY emptyTrashCmd.accesskey "D">
+<!ENTITY getNewMsgForCmd.accesskey "w">
+<!ENTITY getAllNewMsgCmdPopupMenu.label "Tất cả các tài khoản">
+<!ENTITY getAllNewMsgCmdPopupMenu.accesskey "A">
+<!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Tài khoản hiện tại">
+<!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "C">
+<!ENTITY sendUnsentCmd.label "Gửi các thư chưa gửi">
+<!ENTITY sendUnsentCmd.accesskey "d">
+<!ENTITY subscribeCmd.label "Đăng kí…">
+<!ENTITY subscribeCmd.accesskey "b">
+<!ENTITY deleteFolder.label "Xóa thư mục">
+<!ENTITY deleteFolder.accesskey "e">
+<!ENTITY renameFolder.label "Đổi tên thư mục…">
+<!ENTITY renameFolder.accesskey "R">
+<!ENTITY renameFolder.key "VK_F2">
+<!ENTITY compactFolders.label "Làm gọn thư mục">
+<!ENTITY compactFolders.accesskey "F">
+<!ENTITY emptyTrashCmd.label "Dọn sạch thùng rác">
+<!ENTITY emptyTrashCmd.accesskey "y">
 <!ENTITY offlineMenu.label "Ngoại tuyến">
-<!ENTITY offlineMenu.accesskey "u">
-<!ENTITY offlineGoOfflineCmd.label "Làm việc Ngoại tuyến">
-<!ENTITY offlineGoOfflineCmd.accesskey "L">
-<!ENTITY synchronizeOfflineCmd.label "Tải/Đồng bộ Ngay…">
-<!ENTITY synchronizeOfflineCmd.accesskey "T">
-<!ENTITY downloadSelectedCmd.label "Lấy các Thư đã chọn">
-<!ENTITY downloadSelectedCmd.accesskey "c">
-<!ENTITY downloadStarredCmd.label "Lấy các Thư gắn sao">
-<!ENTITY downloadStarredCmd.accesskey "s">
+<!ENTITY offlineMenu.accesskey "l">
+<!ENTITY offlineGoOfflineCmd.label "Làm việc ngoại tuyến">
+<!ENTITY offlineGoOfflineCmd.accesskey "w">
+<!ENTITY synchronizeOfflineCmd.label "Tải xuống/Đồng bộ hóa ngay…">
+<!ENTITY synchronizeOfflineCmd.accesskey "S">
+<!ENTITY settingsOfflineCmd2.label "Cài đặt ngoại tuyến">
+<!ENTITY settingsOfflineCmd2.accesskey "e">
+<!ENTITY downloadSelectedCmd.label "Nhận các thư đã chọn">
+<!ENTITY downloadSelectedCmd.accesskey "l">
+<!ENTITY downloadStarredCmd.label "Nhận các thư được gắn dấu sao">
+<!ENTITY downloadStarredCmd.accesskey "a">
 <!ENTITY printCmd.label "In…">
-<!ENTITY printCmd.accesskey "I">
+<!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.key "p">
-<!ENTITY printPreviewCmd.label "Xem trước Bản in">
-<!ENTITY printPreviewCmd.accesskey "B">
-<!ENTITY printSetupCmd.label "Thiết lập Trang…">
-<!ENTITY printSetupCmd.accesskey "r">
+<!ENTITY printPreviewCmd.label "Xem trước khi In">
+<!ENTITY printPreviewCmd.accesskey "v">
+<!ENTITY printSetupCmd.label "Thiết lập trang…">
+<!ENTITY printSetupCmd.accesskey "u">
 
 <!-- Edit Menu -->
-<!ENTITY deleteMsgCmd.label "Xóa Thư">
-<!ENTITY deleteMsgCmd.accesskey "X">
-<!ENTITY undeleteMsgCmd.label "Không Xóa Thư">
-<!ENTITY undeleteMsgCmd.accesskey "X">
-<!ENTITY deleteMsgsCmd.label "Xóa Thư Đã Chọn">
-<!ENTITY deleteMsgsCmd.accesskey "X">
-<!ENTITY undeleteMsgsCmd.label "Không Xóa Thư Đã Chọn">
-<!ENTITY undeleteMsgsCmd.accesskey "X">
-<!ENTITY deleteFolderCmd.label "Xóa Thư Mục">
-<!ENTITY deleteFolderCmd.accesskey "X">
-<!ENTITY unsubscribeNewsgroupCmd.label "Dừng đăng kí">
-<!ENTITY unsubscribeNewsgroupCmd.accesskey "n">
+<!ENTITY deleteMsgCmd.label "Xóa thư">
+<!ENTITY deleteMsgCmd.accesskey "D">
+<!ENTITY undeleteMsgCmd.label "Không xóa thư">
+<!ENTITY undeleteMsgCmd.accesskey "d">
+<!ENTITY deleteMsgsCmd.label "Xóa thư đã chọn">
+<!ENTITY deleteMsgsCmd.accesskey "D">
+<!ENTITY undeleteMsgsCmd.label "Không xóa thư đã chọn">
+<!ENTITY undeleteMsgsCmd.accesskey "d">
+<!ENTITY deleteFolderCmd.label "Xóa thư mục">
+<!ENTITY deleteFolderCmd.accesskey "D">
+<!ENTITY unsubscribeNewsgroupCmd.label "Hủy đăng ký">
+<!ENTITY unsubscribeNewsgroupCmd.accesskey "b">
 <!ENTITY selectMenu.label "Chọn">
-<!ENTITY selectMenu.accesskey "n">
+<!ENTITY selectMenu.accesskey "S">
 <!ENTITY all.label "Tất cả">
-<!ENTITY all.accesskey "T">
+<!ENTITY all.accesskey "A">
 <!ENTITY selectThreadCmd.label "Chủ đề">
-<!ENTITY selectThreadCmd.accesskey "C">
+<!ENTITY selectThreadCmd.accesskey "T">
 <!ENTITY selectThreadCmd.key "a">
-<!ENTITY selectFlaggedCmd.label "Thư gắn sao">
-<!ENTITY selectFlaggedCmd.accesskey "s">
-<!ENTITY menuFavoriteFolder.label "Thư mục Ưa thích">
-<!ENTITY menuFavoriteFolder.accesskey "a">
-<!ENTITY folderPropsCmd.accesskey "u">
-<!ENTITY undoDeleteMsgCmd.label "Hoàn tác Xóa Thư">
-<!ENTITY redoDeleteMsgCmd.label "Làm lại Xóa Thư">
-<!ENTITY undoMoveMsgCmd.label "Hoàn tác Di chuyển Thư">
-<!ENTITY redoMoveMsgCmd.label "Làm lại Di chuyển Thư">
+<!ENTITY selectFlaggedCmd.label "Thư được gắn dấu sao">
+<!ENTITY selectFlaggedCmd.accesskey "S">
+<!ENTITY menuFavoriteFolder.label "Thư mục yêu thích">
+<!ENTITY menuFavoriteFolder.accesskey "v">
+<!ENTITY folderPropsCmd2.label "Thuộc tính">
+<!ENTITY folderPropsFolderCmd2.label "Thuộc tính thư mục">
+<!ENTITY folderPropsNewsgroupCmd2.label "Thuộc tính nhóm tin">
+<!ENTITY folderPropsCmd.accesskey "o">
+<!ENTITY undoDeleteMsgCmd.label "Hoàn tác xóa thư">
+<!ENTITY redoDeleteMsgCmd.label "Làm lại xóa thư">
+<!ENTITY undoMoveMsgCmd.label "Hoàn tác di chuyển thư">
+<!ENTITY redoMoveMsgCmd.label "Làm lại di chuyển thư">
 <!ENTITY undoCopyMsgCmd.label "Hoàn tác sao chép thư">
 <!ENTITY redoCopyMsgCmd.label "Làm lại sao chép thư">
-<!ENTITY undoMarkAllCmd.label "Hoàn tác Đánh dấu Đã Đọc">
-<!ENTITY redoMarkAllCmd.label "Làm lại Đánh dấu Đã Đọc">
+<!ENTITY undoMarkAllCmd.label "Hoàn tác đánh dấu tất cả là đã đọc">
+<!ENTITY redoMarkAllCmd.label "Đánh dấu lại tất cả là đã đọc">
 <!ENTITY undoDefaultCmd.label "Hoàn tác">
-<!ENTITY undoDefaultCmd.accesskey "H">
+<!ENTITY undoDefaultCmd.accesskey "U">
 <!ENTITY redoDefaultCmd.label "Làm lại">
-<!ENTITY redoDefaultCmd.accesskey "L">
+<!ENTITY redoDefaultCmd.accesskey "R">
 
 <!-- View Menu -->
 <!ENTITY menubarCmd.label "Thanh menu">
 <!ENTITY menubarCmd.accesskey "M">
 <!ENTITY showMessengerToolbarCmd.label "Thanh công cụ thư">
-<!ENTITY showMessengerToolbarCmd.accesskey "T">
+<!ENTITY showMessengerToolbarCmd.accesskey "o">
 <!ENTITY customizeToolbar.label "Tùy biến…">
-<!ENTITY customizeToolbar.accesskey "y">
+<!ENTITY customizeToolbar.accesskey "C">
 
-<!ENTITY messagePaneLayoutStyle.label "Bố cục Chương trình">
-<!ENTITY messagePaneLayoutStyle.accesskey "n">
-<!ENTITY messagePaneClassic.label "Hiển thị Cổ điển">
+<!ENTITY messagePaneLayoutStyle.label "Bố cục">
+<!ENTITY messagePaneLayoutStyle.accesskey "L">
+<!ENTITY messagePaneClassic.label "Chế độ xem cổ điển">
 <!ENTITY messagePaneClassic.accesskey "C">
 <!ENTITY messagePaneWide.label "Hiển thị Rộng">
 <!ENTITY messagePaneWide.accesskey "R">
@@ -636,13 +641,6 @@
 <!ENTITY contextPrintPreview.label "Xem trước Bản in">
 <!ENTITY contextPrintPreview.accesskey "e">
 
-<!-- Thread Pane Column Picker -->
-<!-- LOCALIZATION NOTE (columnPicker.resetToInbox.label):
-     This option in the thread pane column picker causes us to reset the
-     customizations for the thread pane columns in this folder to their default.
-  -->
-<!ENTITY columnPicker.resetToInbox.label "Thiết lập lại các cột về mặc định">
-
 <!-- LOCALIZATION NOTE (columnPicker.applyTo.label):
      This option in the thread pane column picker pops up a sub-menu containing
      the "columnPicker.applyToFolder.label" and
@@ -682,7 +680,6 @@
      "File here" option for the move to/copy to widget.
   -->
 <!ENTITY columnPicker.thisFolder.label "Thư mục này">
-
 
 <!-- Media (video/audio) controls -->
 <!ENTITY contextPlay.label "Chơi">
