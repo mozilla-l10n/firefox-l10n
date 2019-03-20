@@ -7,6 +7,7 @@
 ### Firefox" and "version" is used to mean "the specific revision number of a
 ### given Firefox channel". These terms are not synonymous.
 
+title = Lok angeya ma pire tek
 changed-title = Ngo ma oloke?
 options-title = Ngo ma atwero timo?
 resources = Jami me tic:

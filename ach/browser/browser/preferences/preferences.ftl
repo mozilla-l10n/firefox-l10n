@@ -4,8 +4,6 @@
 
 do-not-track-description = Cwal bot kakube ngec me "Pe ilub kor" me nyuto ni pe imito ni ki lub kor in.
 do-not-track-learn-more = Nong ngec mapol
-do-not-track-option-default =
-    .label = Keken ka itye katic ki Gwokke ikom lubo kor
 do-not-track-option-always =
     .label = Jwijwi
 pref-page =
@@ -87,9 +85,6 @@ extension-controlled-default-search = Lamed, <img data-l10n-name="icon"/> { $nam
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = Lamed, <img data-l10n-name="icon"/> { $name }, mito dirica matino me mako jami.
-# This string is shown to notify the user that their tracking protection preferences
-# are being controlled by an extension.
-extension-controlled-websites-tracking-protection-mode = Lamed, <img data-l10n-name="icon"/> { $name }, tye ka loono gwokke ikom lubo kor.
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
 extension-controlled-websites-content-blocking-all-trackers = Lamed , <img data-l10n-name="icon"/> { $name }, tye ka loono ter man.
@@ -498,6 +493,7 @@ sync-device-name-save =
     .accesskey = o
 sync-mobilepromo-single = Kub nyonyo mukene
 sync-mobilepromo-multi = Lo nyonyo
+sync-connect-another-device = Kub nyonyo mukene
 sync-tos-link = Cik me Tic
 sync-fxa-privacy-notice = Ngec me mung
 
@@ -569,12 +565,6 @@ history-clear-button =
 
 sitedata-header = Angija ki Data me kakube
 sitedata-learn-more = Nong ngec mapol
-sitedata-keep-until = Gwok wang ma
-    .accesskey = a
-sitedata-keep-until-expire =
-    .label = Kare gitum ii
-sitedata-keep-until-closed =
-    .label = { -brand-short-name } olore oko
 sitedata-delete-on-close =
     .label = Kwany angija ki data me kakube kace kiloro { -brand-short-name }
     .accesskey = c
@@ -584,17 +574,12 @@ sitedata-allow-cookies-option =
 sitedata-disallow-cookies-option =
     .label = Geng angija ki data me kakube
     .accesskey = G
-sitedata-block-unvisited-option =
-    .label = Angija ki ii kakube mape kilimo
 sitedata-clear =
     .label = Jwa data…
     .accesskey = j
 sitedata-settings =
     .label = Lo Data
     .accesskey = D
-sitedata-cookies-exceptions =
-    .label = Ma kiweko woko…
-    .accesskey = M
 
 ## Privacy Section - Address Bar
 
@@ -614,20 +599,6 @@ addressbar-suggestions-settings = Lok ter pi tam ma kimiyo me injin yeny
 ## Privacy Section - Content Blocking
 
 content-blocking-learn-more = Nong ngec mapol
-content-blocking-restore-defaults =
-    .label = Dwok makwongo
-    .accesskey = D
-content-blocking-category-label = Yer ngo me agenga
-content-blocking-tracking-protection-trackers-label =
-    .label = Lulub kor
-    .accesskey = L
-content-blocking-tracking-protection-new-description = Geng lulub kor weng ma ngene. (Twero gengo kakube mogo me cane.)
-content-blocking-tracking-protection-option-always =
-    .label = Jwijwi
-    .accesskey = J
-content-blocking-tracking-protection-option-private =
-    .label = I dirica me mung keken
-    .accesskey = d
 content-blocking-custom-desc = Yer ngo me agenga.
 content-blocking-warning-title = Ngec!
 content-blocking-warning-desc = Gengo angija ki lulub kor twero weko kakube mogo bale woko. Yot me juko geng pi kakube ma igeno.
@@ -638,33 +609,14 @@ content-blocking-tracking-protection-option-all-windows =
 content-blocking-option-private =
     .label = I Dirica me Mung Keken
     .accesskey = M
-content-blocking-change-cookie-settings =
-    .label = Lok Ter me Angija
-    .accesskey = T
 content-blocking-cookies-label =
     .label = Angija
     .accesskey = A
+content-blocking-expand-section =
+    .tooltiptext = Ngec mapol
 
 ## Privacy Section - Tracking
 
-tracking-header = Gwokke ikom lubo kor
-tracking-desc = Gwokke ikom lubo kor gengo lulub kor me wiyamo ma coko data me yeny mamegi ki ii kakube mapol. <a data-l10n-name="learn-more">Nong ngec mapol ikom Gwokke ikom lubo kor ki mung mamegi</a>
-tracking-mode-label = Tii ki Gwokke ikom lubo kor me gengo lulub kor ma ngene
-tracking-mode-always =
-    .label = Jwijwi
-    .accesskey = w
-tracking-mode-private =
-    .label = I dirica me mung manyen keken
-    .accesskey = k
-tracking-mode-never =
-    .label = Pe matwal
-    .accesskey = a
-tracking-exceptions =
-    .label = Ma kiweko woko…
-    .accesskey = M
-tracking-change-block-list =
-    .label = Lok jami ma i dul…
-    .accesskey = L
 
 ## Privacy Section - Permissions
 
@@ -689,13 +641,6 @@ permissions-notification-link = Nong ngec mapol
 permissions-notification-pause =
     .label = Juk jami angeya wang ma { -brand-short-name } onwoyo cake
     .accesskey = n
-autoplay-option-ask =
-    .label = Peny jwijwi
-autoplay-option-allow =
-    .label = Yee tuko pire kene
-autoplay-option-dont =
-    .label = Pe i yee tuko pire kene
-permissions-autoplay-link = Nong ngec mapol
 permissions-block-popups =
     .label = Geng dirica ma pye-malo
     .accesskey = G
@@ -723,10 +668,6 @@ collection-health-report =
     .accesskey = r
 collection-health-report-link = Nong ngec mapol
 addon-recommendations-link = Nong ngec mapol
-collection-browser-errors =
-    .label = Yee { -brand-short-name } me cwalo ripot me bal pi layeny (bene ki kwena me bal) bot { -vendor-short-name }
-    .accesskey = b
-collection-browser-errors-link = Nong ngec mapol
 collection-backlogged-crash-reports =
     .label = Yee { -brand-short-name } me cwalo ripot me poto ma odure pi in
     .accesskey = c

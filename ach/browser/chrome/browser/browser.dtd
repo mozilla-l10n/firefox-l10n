@@ -104,7 +104,6 @@ These items have the same accesskey but will never be visible at the same time. 
 <!ENTITY  hiddenTabs.label                   "Dirica matino ma okane">
 
 <!ENTITY  listAllTabs.label      "Rwe dirica matino weng">
-
 <!-- LOCALIZATION NOTE (allTabsMenu.searchTabs.label): "Search" is a verb, as
 in "Search through tabs". -->
 
@@ -125,6 +124,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.label "Go…">
 <!ENTITY printCmd.accesskey "G">
 <!ENTITY printCmd.commandkey "p">
+
 
 
 <!ENTITY goOfflineCmd.label "Ti ma pe ikube iyamo">
@@ -206,6 +206,24 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenExit.label "Kat woko ki i kit wang komputa ma opong">
 <!ENTITY fullScreenExit.accesskey "w">
 
+ <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
+     for the Firefox Account toolbar signin menu screen. -->
+<!ENTITY fxa.signin.callout.label "Wot ki Firefox">
+<!ENTITY fxa.signin.description.label "Nong alamabuk mamegi, gin mukato, mung me donyo ki ter mukene i nyonyo ni weng.">
+<!ENTITY fxa.signin.button.label "Cak &syncBrand.shortName.label;…">
+
+<!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
+     for the Firefox Account toolbar unverified menu screen. -->
+<!ENTITY fxa.unverified.callout.label "Rot Email mamegi">
+
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbart menu screen. The `Signed in as` text is
+     followed by the user's email. -->
+<!ENTITY fxa.menu.signedInAs.label "I donyo iyie calo">
+<!ENTITY fxa.menu.manageAccount.label "Lo Akaunt…">
+<!ENTITY fxa.menu.connectAnotherDevice.label "&syncedTabs.sidebar.connectAnotherDevice;">
+<!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
+
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring fullscreen.
@@ -276,7 +294,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Lo tic ki larwak">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Lok kono nyo itwero nongo jami angeya ki i kakube ne">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Ki tye ka loono layeny ki kama bor">
-
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Lo nywako lamak cal ki/onyo mikropon mamegi ki kakube">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Lo nywako mikropon mamegi ki kakube">
@@ -390,6 +407,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmd2.accesskey     "G">
 <!ENTITY preferencesCmdUnix.label       "Ma imaro">
 <!ENTITY preferencesCmdUnix.accesskey     "r">
+
 
 <!ENTITY clearRecentHistory.label               "Jwa gin mukato cokki…">
 
@@ -855,6 +873,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "Pe imiyo ki kakube man kit twer madito mo keken.">
 <!ENTITY identity.permissionsReloadHint "Twero mite ni myero i nwo cano potbuk wek alokaloka otime.">
 
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Dirica matino me layeny">
@@ -944,67 +963,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "Ki binywako dwon ma i dirica matidi.">
 <!ENTITY getUserMedia.allWindowsShared.message "Ki binywako dirica weng ma nen i wang kompiuta ni.">
 
-<!ENTITY contentBlocking.disabled.label "Kijuko woko">
-
-<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
-     This label signals that this type of content blocking is turned
-     ON and is successfully blocking malicious/slow content, so this is
-     a positive thing. It forms the end of the (imaginary) sentence
-     "Slow-Loading Trackers [are] Blocked"-->
-<!ENTITY contentBlocking.fastBlock.blocked.label "Kigengo woko">
-<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocking.label):
-     This label signals that this type of content blocking is turned
-     ON, so this is a positive thing. It forms the verb in (imaginary) sentence
-     "Firefox is blocking Slow-Loading Trackers"-->
-<!ENTITY contentBlocking.fastBlock.blocking.label "Tye ka gengo">
-<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
-     This is displayed as a link to preferences, where the user can add
-     this specific type of content blocking. When this text is shown
-     the type of content blocking is currently not enabled. -->
-<!ENTITY contentBlocking.fastBlock.add.label "Med Gengo…">
-
-<!ENTITY contentBlocking.trackingProtection2.label "Lulub kor weng ma kinongo">
 
 <!ENTITY contentBlocking.trackingProtection3.label "Lulub kor">
-<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
-     This label signals that this type of content blocking is turned
-     ON and is successfully blocking tracker content, so this is
-     a positive thing. It forms the end of the (imaginary) sentence
-     "Trackers [are] Blocked"-->
-<!ENTITY contentBlocking.trackingProtection.blocked.label "Kigengo woko">
-<!-- LOCALIZATION NOTE (contentBlocking.tranckingProtection.blocking.label):
-     This label signals that this type of content blocking is turned
-     ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
-     "Firefox is blocking Trackers"-->
-<!ENTITY contentBlocking.trackingProtection.blocking.label "Tye ka gengo">
-<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
-     This is displayed as a link to preferences, where the user can add
-     this specific type of content blocking. When this text is shown
-     the type of content blocking is currently not enabled. -->
-<!ENTITY contentBlocking.trackingProtection.add.label "Med Gengo…">
-
-<!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.blocked.label):
-     This label signals that this type of content blocking is turned
-     ON and is successfully blocking third-party cookies, so this is
-     a positive thing. It forms the end of the (imaginary) sentence
-     "Third-Party Cookies [are] Blocked"-->
-<!ENTITY contentBlocking.3rdPartyCookies.blocked.label "Kigengo woko">
-<!-- LOCALIZATION NOTE (contentBlocking.tranckingProtection.blocking.label):
-     This label signals that this type of content blocking is turned
-     ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
-     "Firefox is blocking Third-Party Cookies"-->
-<!ENTITY contentBlocking.3rdPartyCookies.blocking.label "Tye ka gengo">
-<!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.add.label):
-     This is displayed as a link to preferences, where the user can add
-     this specific type of content blocking. When this text is shown
-     the type of content blocking is currently not enabled. -->
-<!ENTITY contentBlocking.3rdPartyCookies.add.label "Med Gengo…">
 
 
 <!ENTITY contentBlocking.trackersView.label "Lulub kor">
 
 <!ENTITY contentBlocking.cookies.label "Angija">
 <!ENTITY contentBlocking.cookiesView.label "Angija ki Data me kakube">
+
+
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Mi ripot me bal">
 <!ENTITY contentBlocking.breakageReportView.label "Mi ripot me bal">
@@ -1013,22 +981,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Peko ango ma ibedo kwede? (Ka imito)">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Cwal Ripot">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Juki">
-
-<!ENTITY trackingProtection.title "Gwokke ikom lubo kor">
-<!ENTITY trackingProtection.tooltip "Yab ter me Gwokke ikom lubo kor">
-
-<!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock4.label "Juk Gengo Pi Kakube Man">
-<!ENTITY trackingProtection.unblock4.accesskey "J">
-<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate4.label "Juk Gengo pi Tutunu">
-<!ENTITY trackingProtection.unblockPrivate4.accesskey "J">
-<!ENTITY trackingProtection.block5.label "Cak Gengo Pi Kakube Man">
-<!ENTITY trackingProtection.block5.accesskey "C">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
@@ -1047,11 +999,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pluginNotification.showAll.label "Nyut weng">
 <!ENTITY pluginNotification.showAll.accesskey "N">
-
-<!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
-<!ENTITY pluginActivateNow.label "Ye Kombedi">
-<!ENTITY pluginActivateAlways.label "Ye kadong Poo">
-<!ENTITY pluginBlockNow.label "Geng Larwak">
 
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
      width of the plugin popup notification that can appear if a plugin has been
@@ -1157,3 +1104,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Lo med-ikome mamegi ki diino <image class='addon-addon-icon'/> ii jami ayera me <image class='addon-toolbar-icon'/>.">
+
+<!ENTITY addonPrivateBrowsing.okButton.label "Eyo, Aniang">
