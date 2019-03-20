@@ -4,6 +4,8 @@
 
 do-not-track-description = Emondo ñanduti rendápe peteĩ kuaaharã “Jehapykueho'ỹ” ndereipotáiva ojehapykueho
 do-not-track-learn-more = Kuaave
+do-not-track-option-default-content-blocking-known =
+    .label = { -brand-short-name } oñemboheko jave ojoko hag̃ua tapykuehohápe añoite
 do-not-track-option-always =
     .label = Katui
 pref-page =
@@ -610,6 +612,7 @@ sitedata-learn-more = Kuaave
 sitedata-delete-on-close =
     .label = Embogue kookie ha mba'ekuaarã tenda pegua oñemboty vove { -brand-short-name }
     .accesskey = c
+sitedata-delete-on-close-private-browsing = Kundaha ñemigua tapiagua rekópe, umi kookie ha tenda mba’ekuaarã oguéta oñymbotykuévo { -brand-short-name }.
 sitedata-allow-cookies-option =
     .label = Emoneĩ kookie ha tenda mba’ekuaarã
     .accesskey = A
@@ -656,6 +659,7 @@ addressbar-suggestions-settings = Jerohoryvéva jehekaha mongu'eha je'epyre momb
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Ejoko tetepy
+content-blocking-description = Ejoko pe tetepy mbohapyháva ohapykuehóva ñandutípe. Eñangareko hembiapo ñanduti pegua ombyaty ha omoherakuãramo ambue ñanduti renda ndive.
 content-blocking-learn-more = Eikuaave
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".

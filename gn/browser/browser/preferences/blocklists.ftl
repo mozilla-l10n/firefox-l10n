@@ -27,3 +27,4 @@ blocklist-item-list-template = { $listName } { $description }
 blocklist-item-moz-std-listName = Jokoha rysýi peteĩha pegua (Eipurukuaa).
 blocklist-item-moz-std-description = Omoneĩ ndahetái tapykuehohápe ani hag̃ua oñembyai heta ñanduti renda.
 blocklist-item-moz-full-listName = Jokoha rysýi mokõiha pegua.
+blocklist-item-moz-full-description = Ejoko opaite tapykuehoha ehecháva. Ikatu ndahetái ñanduti renda térã tetepy nahenyhẽporãi.
