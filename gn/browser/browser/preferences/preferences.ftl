@@ -673,13 +673,18 @@ content-blocking-setting-custom =
     .label = Ñemomba'e
     .accesskey = C
 content-blocking-standard-description = Ejoko jehekaha ojekuaáva ovetã ñemiguápe añoite.
+content-blocking-standard-desc = Ijojáva omo’ã ha oikoporã hag̃ua. Omoneĩ ndahetái tapykuehápe ikatu hag̃uáicha ñanduti renda oiko hekopete.
+content-blocking-strict-desc = Ojoko opaite tapykuehoha ohecháva { -brand-short-name }. Ikatuhína ombojavy tenda.
 content-blocking-custom-desc = Eiporavo mba’etépa ejokóta.
 content-blocking-private-trackers = Jehekaha ojekuaáva ovetã ñemiguápe añoite
 content-blocking-third-party-cookies = Jehekaha kookie mbohapyguáva
 content-blocking-all-windows-trackers = Jehekaha ojekuaáva opaite ovetãme
 content-blocking-all-third-party-cookies = Opaite kookie mbohapyguáva
 content-blocking-warning-title = ¡Ema'ẽmi!
+content-blocking-warning-desc = Kookie ha tapykuehoha jejoko ikatu nomomba’apo porãi ñanduti renda. Ndahasýi eipe’a hag̃ua jokoha tenda ejeroviaha pegua.
+content-blocking-warning-description = Tetepy jejoko ikatu nomomba’apo porãi ñanduti renda. Ikatúramo eipe’a pe jokoha tenda ejeroviaha pegua.
 content-blocking-learn-how = Mba’éicha eikuaa
+content-blocking-reload-description = Emonyhẽjeyva’erã umi tendayke oiko hag̃ua ko’ã moambuepyre.
 content-blocking-reload-tabs-button =
     .label = Embohekopyahu opaite tendayke
     .accesskey = E
@@ -772,6 +777,8 @@ collection-health-report-link = Kuaave
 collection-studies =
     .label = Emoneĩ { -brand-short-name } omohenda ha omongu’e hag̃ua kuaarã
 collection-studies-link = Ehecha kuaarã { -brand-short-name } mba’éva
+addon-recommendations =
+    .label = Emoneĩ { -brand-short-name } ojapóvo ñe’ẽporã jepysokue momba’epyrépe
 addon-recommendations-link = Kuaave
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
