@@ -44,6 +44,7 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } puruhára
        *[other] { $total } puruhára
     }
+cfr-doorhanger-pintab-description = Eike pya’e umi tenda ojepuruvévape. Embojuruja tapia umi tenda peteĩ tendayképe (avei emoñepyrũjeývo tembiapo).
 
 ## These messages are steps on how to use the feature and are shown together.
 
