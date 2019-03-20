@@ -88,6 +88,9 @@ detail-update-automatic =
 detail-update-manual =
     .label = Mongepyre
     .tooltiptext = Aníke emohenda ñembohekopyahu ijeheguíva
+# Used as a description for the option to allow or block an add-on in private windows.
+detail-private-browsing-label = Eipuru ovetã ñemíme
+detail-private-browsing-description2 = Oñemoneĩ vove, pe jepysokue ikatu oike hembiapo ñandutiguápe oikundaha ñeminguévo. <label data-l10n-name="detail-private-browsing-learn-more">Eikuaave</label>
 detail-private-browsing-on =
     .label = Moneĩ
     .tooltiptext = Embojuruja kundaha ñemíme
@@ -246,5 +249,6 @@ go-back-button =
 remove-addon-button = Mboguete
 disable-addon-button = Pe'a
 enable-addon-button = Mbojuruja
+expand-addon-button = Jeporavorãve
 addons-enabled-heading = Mbojurujapyre
 addons-disabled-heading = Pe'apyre

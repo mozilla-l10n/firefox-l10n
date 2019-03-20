@@ -225,6 +225,7 @@ content-uses-tiling = Eipuru mosáiko (tetepy)
 off-main-thread-paint-enabled = Opyta okápe inimbo tuichavéva mbosa'yha ijurujáva
 off-main-thread-paint-worker-count = Ñemoha'anga resa'ỹijo téma tuichavéva opyta okápe
 low-end-machine = Ojehechakuaa peteĩ mohendaha hembiapo’ivéva
+target-frame-rate = Ta’anga py’ỹi hupytyrã
 audio-backend = Mba'epu ñangarekoha huguapeguáva
 max-audio-channels = Max mbohapeha
 channel-layout = Mbohapeha ñemoĩ ojererohorýva
