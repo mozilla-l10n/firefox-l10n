@@ -259,5 +259,6 @@ go-back-button =
 remove-addon-button = Eliminar
 disable-addon-button = Deshabilitar
 enable-addon-button = Habilitar
+expand-addon-button = Más opciones
 addons-enabled-heading = Habilitado
 addons-disabled-heading = Deshabilitado
