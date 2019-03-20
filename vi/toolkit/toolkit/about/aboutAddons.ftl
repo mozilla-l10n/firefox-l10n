@@ -254,5 +254,6 @@ go-back-button =
 remove-addon-button = Xóa
 disable-addon-button = Tắt
 enable-addon-button = Bật
+expand-addon-button = Tùy chọn khác
 addons-enabled-heading = Đã bật
 addons-disabled-heading = Đã tắt
