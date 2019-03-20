@@ -10,7 +10,6 @@
 <!ENTITY returnToPreviousPage.label "后退">
 <!ENTITY returnToPreviousPage1.label "返回上一页（推荐）">
 <!ENTITY advanced.label "高级">
-<!ENTITY continue2.label "更多选项…">
 <!ENTITY advanced2.label "高级…">
 <!ENTITY moreInformation.label "更多信息">
 <!ENTITY viewCertificate.label "查看证书">
@@ -70,7 +69,7 @@
 <!ENTITY netOffline.title "脱机模式">
 <!ENTITY netOffline.longDesc2 "<ul>
   
-  <li>请按“重试”切换到在线模式并重新载入此页面。</li>
+  <li>请按“重试”切换到联网模式并重新载入此页面。</li>
 </ul>">
 
 <!ENTITY contentEncodingError.title "内容编码错误">
