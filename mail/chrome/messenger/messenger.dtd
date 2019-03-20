@@ -7,39 +7,49 @@
 
 <!-- File Menu -->
 <!ENTITY newFolderCmd.label "Thư mục…">
-<!ENTITY newFolderCmd.accesskey "h">
-<!ENTITY closeTabCmd2.label "Đóng Thẻ">
-<!ENTITY closeTabCmd2.accesskey "g">
-<!ENTITY closeOtherTabsCmd2.label "Đóng Các Thẻ Khác">
-<!ENTITY closeOtherTabsCmd2.accesskey "K">
-<!ENTITY recentlyClosedTabsCmd.label "Các thẻ Đã đóng Gần đây">
-<!ENTITY recentlyClosedTabsCmd.accesskey "y">
+<!ENTITY newFolderCmd.accesskey "F">
+<!ENTITY closeTabCmd2.label "Đóng thẻ">
+<!ENTITY closeTabCmd2.accesskey "C">
+<!ENTITY closeOtherTabsCmd2.label "Đóng các thẻ khác">
+<!ENTITY closeOtherTabsCmd2.accesskey "o">
+<!ENTITY recentlyClosedTabsCmd.label "Các thẻ mới đóng gần đây">
+<!ENTITY recentlyClosedTabsCmd.accesskey "R">
 
 <!ENTITY undoCloseTabCmd.commandkey "T">
 <!-- LOCALIZATION NOTE (moveToNewWindow.label):
      Menu option to cause the current tab to be migrated to a new Thunderbird
      window.
      -->
-<!ENTITY moveToNewWindow.label "Di chuyển sang Cửa Sổ Mới">
-<!ENTITY moveToNewWindow.accesskey "a">
-<!ENTITY newVirtualFolderCmd.label "Tìm kiếm Được lưu…">
-<!ENTITY newVirtualFolderCmd.accesskey "m">
-<!ENTITY newOtherAccountsCmd.label "Tài khoản Khác…">
-<!ENTITY newOtherAccountsCmd.accesskey "i">
-<!ENTITY newCreateEmailAccountCmd.label "Mở Tài Khoản Thư Mới…">
-<!ENTITY newCreateEmailAccountCmd.accesskey "M">
-<!ENTITY newExistingEmailAccountCmd.label "Tài khoản Thư Tồn tại…">
-<!ENTITY newExistingEmailAccountCmd.accesskey "T">
-<!ENTITY openMessageFileCmd.label "Mở các Thư Đã Lưu…">
-<!ENTITY openMessageFileCmd.accesskey "h">
-<!ENTITY saveAsMenu.label "Lưu Thành">
-<!ENTITY saveAsMenu.accesskey "L">
+<!ENTITY moveToNewWindow.label "Di chuyển đến cửa sổ mới">
+<!ENTITY moveToNewWindow.accesskey "W">
+<!ENTITY newVirtualFolderCmd.label "Tìm kiếm đã lưu…">
+<!ENTITY newVirtualFolderCmd.accesskey "S">
+<!ENTITY newOtherAccountsCmd.label "Các tài khoản khác…">
+<!ENTITY newOtherAccountsCmd.accesskey "O">
+<!ENTITY newCreateEmailAccountCmd.label "Tạo tài khoản thư mới…">
+<!ENTITY newCreateEmailAccountCmd.accesskey "G">
+<!ENTITY newExistingEmailAccountCmd.label "Tài khoản thư hiện có…">
+<!ENTITY newExistingEmailAccountCmd.accesskey "E">
+<!ENTITY newIMAccountCmd.label "Tài khoản trò chuyện…">
+<!ENTITY newIMAccountCmd.accesskey "C">
+<!ENTITY newIMContactCmd.label "Trò chuyện liên hệ…">
+<!ENTITY newIMContactCmd.accesskey "h">
+<!ENTITY  newMessageCmd2.key "N">
+<!ENTITY  newMessageCmd.key "M">
+<!ENTITY  newMessageCmd.label "Thư">
+<!ENTITY  newMessageCmd.accesskey "m">
+<!ENTITY  newContactCmd.label "Sổ địa chỉ liên hệ…">
+<!ENTITY  newContactCmd.accesskey "C">
+<!ENTITY openMessageFileCmd.label "Mở các thư đã lưu…">
+<!ENTITY openMessageFileCmd.accesskey "O">
+<!ENTITY saveAsMenu.label "Lưu thành">
+<!ENTITY saveAsMenu.accesskey "S">
 <!ENTITY saveAsFileCmd.label "Tập tin">
-<!ENTITY saveAsFileCmd.accesskey "T">
+<!ENTITY saveAsFileCmd.accesskey "F">
 <!ENTITY saveAsFileCmd.key "s">
-<!ENTITY saveAsTemplateCmd.label "Thư mẫu">
-<!ENTITY saveAsTemplateCmd.accesskey "m">
-<!ENTITY getNewMsgForCmd.label "Lấy Thư Mới cho">
+<!ENTITY saveAsTemplateCmd.label "Mẫu">
+<!ENTITY saveAsTemplateCmd.accesskey "T">
+<!ENTITY getNewMsgForCmd.label "Nhận thư mới cho">
 <!ENTITY getNewMsgForCmd.accesskey "c">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "Tất cả Tài khoản">
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "T">
