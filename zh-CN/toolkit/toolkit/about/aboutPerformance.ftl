@@ -17,7 +17,7 @@ column-memory = 内存
 ghost-windows = 最近关闭的标签页
 # Variables:
 #   $title (String) - the title of the preloaded page, typically 'New Tab'
-preloaded-tab = 预加载：{ $title }
+preloaded-tab = 预先载入：{ $title }
 
 ## Values for the Type column
 
