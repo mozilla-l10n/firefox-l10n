@@ -5,6 +5,7 @@
 blocklist-window =
     .title = Tysýi jejoko
     .style = width: 55em
+blocklist-description = Elija la lista que { -brand-short-name } utiliza para bloquear los rastreadores en línea. Listas proporcionadas por <a data-l10n-name="disconnect-link" title="Disconnect">Pe'a</a>.
 blocklist-close-key =
     .key = w
 blocklist-treehead-list =
