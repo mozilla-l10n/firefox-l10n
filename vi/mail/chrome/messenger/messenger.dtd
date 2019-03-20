@@ -141,173 +141,183 @@
 <!ENTITY messagePaneLayoutStyle.accesskey "L">
 <!ENTITY messagePaneClassic.label "Chế độ xem cổ điển">
 <!ENTITY messagePaneClassic.accesskey "C">
-<!ENTITY messagePaneWide.label "Hiển thị Rộng">
-<!ENTITY messagePaneWide.accesskey "R">
-<!ENTITY messagePaneVertical.label "Hiển thị Dọc">
-<!ENTITY messagePaneVertical.accesskey "D">
+<!ENTITY messagePaneWide.label "Chế độ xem rộng">
+<!ENTITY messagePaneWide.accesskey "W">
+<!ENTITY messagePaneVertical.label "Chế độ xem dọc">
+<!ENTITY messagePaneVertical.accesskey "V">
 <!ENTITY showFolderPaneCmd.label "Ngăn thư mục">
 <!ENTITY showFolderPaneCmd.accesskey "F">
-<!ENTITY showMessageCmd.label "Khung Đọc Thư">
-<!ENTITY showMessageCmd.accesskey "K">
+<!ENTITY showFolderPaneColsCmd.label "Cột trong ngăn thư mục">
+<!ENTITY showFolderPaneColsCmd.accesskey "P">
+<!ENTITY showMessageCmd.label "Ngăn đọc thư">
+<!ENTITY showMessageCmd.accesskey "M">
 
 <!ENTITY folderView.label "Thư mục">
-<!ENTITY folderView.accesskey "T">
+<!ENTITY folderView.accesskey "F">
 <!ENTITY unifiedFolders.label "Hợp nhất">
-<!ENTITY unifiedFolders.accesskey "p">
+<!ENTITY unifiedFolders.accesskey "n">
 <!ENTITY allFolders.label "Tất cả">
-<!ENTITY allFolders.accesskey "T">
+<!ENTITY allFolders.accesskey "A">
 <!ENTITY unreadFolders.label "Chưa đọc">
-<!ENTITY unreadFolders.accesskey "C">
-<!ENTITY favoriteFolders.label "Ưa thích">
-<!ENTITY favoriteFolders.accesskey "a">
+<!ENTITY unreadFolders.accesskey "U">
+<!ENTITY favoriteFolders.label "Yêu thích">
+<!ENTITY favoriteFolders.accesskey "F">
 <!ENTITY recentFolders.label "Gần đây">
-<!ENTITY recentFolders.accesskey "G">
+<!ENTITY recentFolders.accesskey "R">
+<!ENTITY compactVersion.label "Chế độ xem gọn">
+<!ENTITY compactVersion.accesskey "C">
+<!ENTITY folderPaneBar.label "Thanh công cụ ngăn thư mục">
+<!ENTITY folderPaneBar.accesskey "F">
+<!ENTITY folderModeSelector.label "Cách hiển thị thư mục">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Sắp xếp theo">
 <!ENTITY sortMenu.accesskey "S">
 <!ENTITY sortByDateCmd.label "Ngày">
-<!ENTITY sortByDateCmd.accesskey "y">
-<!ENTITY sortByReceivedCmd.label "Nhận được">
-<!ENTITY sortByReceivedCmd.accesskey "N">
-<!ENTITY sortByStarCmd.label "Sao">
-<!ENTITY sortByStarCmd.accesskey "o">
-<!ENTITY sortByAttachmentsCmd.label "Phần đính kèm">
-<!ENTITY sortByAttachmentsCmd.accesskey "P">
-<!ENTITY sortByPriorityCmd.label "Mức ưu tiên">
-<!ENTITY sortByPriorityCmd.accesskey "M">
-<!ENTITY sortBySizeCmd.label "Dung lượng">
-<!ENTITY sortBySizeCmd.accesskey "D">
+<!ENTITY sortByDateCmd.accesskey "e">
+<!ENTITY sortByReceivedCmd.label "Đã nhận">
+<!ENTITY sortByReceivedCmd.accesskey "v">
+<!ENTITY sortByStarCmd.label "Dấu sao">
+<!ENTITY sortByStarCmd.accesskey "S">
+<!ENTITY sortByAttachmentsCmd.label "Đính kèm">
+<!ENTITY sortByAttachmentsCmd.accesskey "m">
+<!ENTITY sortByPriorityCmd.label "Ưu tiên">
+<!ENTITY sortByPriorityCmd.accesskey "P">
+<!ENTITY sortBySizeCmd.label "Kích thước">
+<!ENTITY sortBySizeCmd.accesskey "z">
 <!ENTITY sortByStatusCmd.label "Trạng thái">
-<!ENTITY sortByStatusCmd.accesskey "r">
+<!ENTITY sortByStatusCmd.accesskey "u">
 <!ENTITY sortByTagsCmd.label "Nhãn">
-<!ENTITY sortByTagsCmd.accesskey "h">
-<!ENTITY sortByJunkStatusCmd.label "Trạng thái Thư rác">
-<!ENTITY sortByJunkStatusCmd.accesskey "i">
+<!ENTITY sortByTagsCmd.accesskey "g">
+<!ENTITY sortByJunkStatusCmd.label "Trạng thái thư rác">
+<!ENTITY sortByJunkStatusCmd.accesskey "J">
 <!ENTITY sortBySubjectCmd.label "Tiêu đề">
-<!ENTITY sortBySubjectCmd.accesskey "u">
+<!ENTITY sortBySubjectCmd.accesskey "b">
 <!ENTITY sortByFromCmd.label "Từ">
-<!ENTITY sortByFromCmd.accesskey "T">
+<!ENTITY sortByFromCmd.accesskey "F">
 <!ENTITY sortByRecipientCmd.label "Người nhận">
-<!ENTITY sortByRecipientCmd.accesskey "g">
+<!ENTITY sortByRecipientCmd.accesskey "c">
+<!ENTITY sortByCorrespondentCmd.label "Người viết">
+<!ENTITY sortByCorrespondentCmd.accesskey "n">
 <!ENTITY sortByUnreadCmd.label "Đã đọc">
-<!ENTITY sortByUnreadCmd.accesskey "c">
-<!ENTITY sortByOrderReceivedCmd.label "Thứ tự Nhận được">
-<!ENTITY sortByOrderReceivedCmd.accesskey "h">
-<!ENTITY sortAscending.label "Sắp xếp Thuận chiều">
-<!ENTITY sortAscending.accesskey "S">
-<!ENTITY sortDescending.label "Sắp xếp Ngược chiều">
-<!ENTITY sortDescending.accesskey "x">
-<!ENTITY sortThreaded.label "Theo Chủ Đề">
-<!ENTITY sortThreaded.accesskey "e">
-<!ENTITY sortUnthreaded.label "Không theo Chủ Đề">
-<!ENTITY sortUnthreaded.accesskey "K">
-<!ENTITY groupBySort.label "Được Nhóm bởi Sắp xếp">
-<!ENTITY groupBySort.accesskey "b">
-<!ENTITY msgsMenu.label "Thư tin">
-<!ENTITY msgsMenu.accesskey "i">
+<!ENTITY sortByUnreadCmd.accesskey "R">
+<!ENTITY sortByOrderReceivedCmd.label "Thứ tự nhận được">
+<!ENTITY sortByOrderReceivedCmd.accesskey "O">
+<!ENTITY sortAscending.label "Tăng dần">
+<!ENTITY sortAscending.accesskey "A">
+<!ENTITY sortDescending.label "Giảm dần">
+<!ENTITY sortDescending.accesskey "D">
+<!ENTITY sortThreaded.label "Theo chủ đề">
+<!ENTITY sortThreaded.accesskey "T">
+<!ENTITY sortUnthreaded.label "Không theo chủ đề">
+<!ENTITY sortUnthreaded.accesskey "h">
+<!ENTITY groupBySort.label "Được nhóm theo sắp xếp">
+<!ENTITY groupBySort.accesskey "G">
+<!ENTITY msgsMenu.label "Thư">
+<!ENTITY msgsMenu.accesskey "M">
 <!ENTITY threads.label "Chủ đề">
-<!ENTITY threads.accesskey "C">
+<!ENTITY threads.accesskey "e">
 <!ENTITY allMsgsCmd.label "Tất cả">
-<!ENTITY allMsgsCmd.accesskey "T">
-<!ENTITY expandAllThreadsCmd.label "Mở rộng Tất cả Chủ đề">
-<!ENTITY expandAllThreadsCmd.accesskey "M">
+<!ENTITY allMsgsCmd.accesskey "A">
+<!ENTITY expandAllThreadsCmd.label "Mở rộng tất cả các chủ đề">
+<!ENTITY expandAllThreadsCmd.accesskey "E">
 <!ENTITY expandAllThreadsCmd.key "*">
-<!ENTITY collapseAllThreadsCmd.label "Thu gọn Tất cả Chủ đề">
-<!ENTITY collapseAllThreadsCmd.accesskey "u">
+<!ENTITY collapseAllThreadsCmd.label "Thu gọn tất cả các chủ đề">
+<!ENTITY collapseAllThreadsCmd.accesskey "C">
 <!ENTITY collapseAllThreadsCmd.key "\">
 <!ENTITY unreadMsgsCmd.label "Chưa đọc">
-<!ENTITY unreadMsgsCmd.accesskey "C">
-<!ENTITY threadsWithUnreadCmd.label "Chủ đề có Thư chưa đọc">
-<!ENTITY threadsWithUnreadCmd.accesskey "a">
-<!ENTITY watchedThreadsWithUnreadCmd.label "Chủ đề đã chọn Theo dõi có Thư chưa đọc">
-<!ENTITY watchedThreadsWithUnreadCmd.accesskey "e">
-<!ENTITY ignoredThreadsCmd.label "Chủ đề bị Bỏ qua">
-<!ENTITY ignoredThreadsCmd.accesskey "q">
+<!ENTITY unreadMsgsCmd.accesskey "U">
+<!ENTITY threadsWithUnreadCmd.label "Chủ đề có thư chưa đọc">
+<!ENTITY threadsWithUnreadCmd.accesskey "T">
+<!ENTITY watchedThreadsWithUnreadCmd.label "Chủ đề đã đăng kí có thư chưa đọc">
+<!ENTITY watchedThreadsWithUnreadCmd.accesskey "W">
+<!ENTITY ignoredThreadsCmd.label "Chủ đề đã bỏ qua">
+<!ENTITY ignoredThreadsCmd.accesskey "i">
 
-<!ENTITY headersMenu.label "Đầu đề">
-<!ENTITY headersMenu.accesskey "u">
+<!ENTITY headersMenu.label "Header">
+<!ENTITY headersMenu.accesskey "H">
 <!ENTITY headersAllCmd.label "Tất cả">
-<!ENTITY headersAllCmd.accesskey "T">
+<!ENTITY headersAllCmd.accesskey "A">
 <!ENTITY headersNormalCmd.label "Bình thường">
-<!ENTITY headersNormalCmd.accesskey "B">
-<!ENTITY bodyMenu.label "Nội dung Thư dưới dạng">
-<!ENTITY bodyMenu.accesskey "d">
+<!ENTITY headersNormalCmd.accesskey "N">
+<!ENTITY bodyMenu.label "Nội dung thư dưới dạng">
+<!ENTITY bodyMenu.accesskey "B">
 <!ENTITY bodyAllowHTML.label "HTML Gốc">
 <!ENTITY bodyAllowHTML.accesskey "H">
 <!ENTITY bodySanitized.label "HTML Đơn giản">
-<!ENTITY bodySanitized.accesskey "L">
-<!ENTITY bodyAsPlaintext.label "Văn bản Thuần">
-<!ENTITY bodyAsPlaintext.accesskey "V">
+<!ENTITY bodySanitized.accesskey "S">
+<!ENTITY bodyAsPlaintext.label "Văn bản thuần túy">
+<!ENTITY bodyAsPlaintext.accesskey "P">
 <!ENTITY bodyAllParts.label "Tất cả các phần thân">
 <!ENTITY bodyAllParts.accesskey "A">
 
-<!ENTITY bodyMenuFeed.label "Nội dung Tin bài dưới dạng">
-<!ENTITY bodyMenuFeed.accesskey "d">
-<!ENTITY viewFeedWebPage.label "Trang Web">
+<!ENTITY bodyMenuFeed.label "Nội dung nguồn cấp dưới dạng">
+<!ENTITY bodyMenuFeed.accesskey "B">
+<!ENTITY viewFeedWebPage.label "Trang web">
 <!ENTITY viewFeedWebPage.accesskey "W">
 <!ENTITY viewFeedSummary.label "Tóm tắt">
 <!ENTITY viewFeedSummary.accesskey "m">
-<!ENTITY viewFeedSummaryFeedPropsPref.label "Định dạng Mặc định">
-<!ENTITY viewFeedSummaryFeedPropsPref.accesskey "M">
+<!ENTITY viewFeedSummaryFeedPropsPref.label "Định dạng mặc định">
+<!ENTITY viewFeedSummaryFeedPropsPref.accesskey "D">
 
-<!ENTITY viewAttachmentsInlineCmd.label "Phần đính kèm ngay Trong thư">
-<!ENTITY viewAttachmentsInlineCmd.accesskey "k">
+<!ENTITY viewAttachmentsInlineCmd.label "Hiển thị đính kèm trong nội dung thư">
+<!ENTITY viewAttachmentsInlineCmd.accesskey "A">
 
-<!ENTITY pageSourceCmd.label "Mã nguồn của Thư">
-<!ENTITY pageSourceCmd.accesskey "M">
+<!ENTITY pageSourceCmd.label "Mã nguồn của thư">
+<!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.key "u">
 <!ENTITY getNewMessagesCmd.key "y">
 <!ENTITY getAllNewMessagesCmd.key "Y">
 
 <!-- Search Menu -->
 <!ENTITY findMenu.label "Tìm">
-<!ENTITY findMenu.accesskey "m">
-<!ENTITY findCmd.label "Tìm trong Thư Này…">
-<!ENTITY findCmd.accesskey "y">
+<!ENTITY findMenu.accesskey "F">
+<!ENTITY findCmd.label "Tìm trong thư này…">
+<!ENTITY findCmd.accesskey "F">
 <!ENTITY findCmd.key "f">
-<!ENTITY findAgainCmd.label "Tìm Lại">
-<!ENTITY findAgainCmd.accesskey "i">
+<!ENTITY findAgainCmd.label "Tìm lại">
+<!ENTITY findAgainCmd.accesskey "g">
 <!ENTITY findAgainCmd.key "g">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.key "g">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY searchMailCmd.label "Tìm kiếm Thư…">
-<!ENTITY searchMailCmd.accesskey "k">
+<!ENTITY searchMailCmd.label "Tìm kiếm thư…">
+<!ENTITY searchMailCmd.accesskey "M">
 <!ENTITY searchMailCmd.key "f">
-<!ENTITY searchAddressesCmd.label "Tìm kiếm Địa chỉ…">
-<!ENTITY searchAddressesCmd.accesskey "a">
+<!ENTITY searchAddressesCmd.label "Tìm kiếm địa chỉ…">
+<!ENTITY searchAddressesCmd.accesskey "S">
 
 <!-- Go Menu -->
-<!ENTITY goMenu.label "Duyệt xem">
-<!ENTITY goMenu.accesskey "D">
+<!ENTITY goMenu.label "Đi">
+<!ENTITY goMenu.accesskey "G">
 <!ENTITY nextMenu.label "Tiếp">
-<!ENTITY nextMenu.accesskey "i">
+<!ENTITY nextMenu.accesskey "N">
 <!ENTITY nextMsgCmd.label "Thư">
-<!ENTITY nextMsgCmd.accesskey "T">
+<!ENTITY nextMsgCmd.accesskey "M">
 <!ENTITY nextMsgCmd.key "f">
 <!ENTITY nextUnreadMsgCmd.label "Thư chưa đọc">
-<!ENTITY nextUnreadMsgCmd.accesskey "a">
+<!ENTITY nextUnreadMsgCmd.accesskey "U">
 <!ENTITY nextUnreadMsgCmd.key "n">
-<!ENTITY nextStarredMsgCmd.label "Thư gắn sao">
-<!ENTITY nextStarredMsgCmd.accesskey "s">
+<!ENTITY nextStarredMsgCmd.label "Thư được gắn dấu sao">
+<!ENTITY nextStarredMsgCmd.accesskey "S">
 <!ENTITY nextUnreadThread.label "Chủ đề chưa đọc">
-<!ENTITY nextUnreadThread.accesskey "C">
+<!ENTITY nextUnreadThread.accesskey "T">
 <!ENTITY nextUnreadThread.key "t">
 <!ENTITY prevMenu.label "Trước">
-<!ENTITY prevMenu.accesskey "r">
+<!ENTITY prevMenu.accesskey "P">
 <!ENTITY prevMsgCmd.label "Thư">
-<!ENTITY prevMsgCmd.accesskey "T">
+<!ENTITY prevMsgCmd.accesskey "M">
 <!ENTITY prevMsgCmd.key "b">
 <!ENTITY prevUnreadMsgCmd.label "Thư chưa đọc">
-<!ENTITY prevUnreadMsgCmd.accesskey "a">
+<!ENTITY prevUnreadMsgCmd.accesskey "U">
 <!ENTITY prevUnreadMsgCmd.key "p">
 <!ENTITY goForwardCmd.label "Tiến">
-<!ENTITY goForwardCmd.accesskey "T">
+<!ENTITY goForwardCmd.accesskey "F">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY goBackCmd.label "Quay lại">
-<!ENTITY goBackCmd.accesskey "L">
+<!ENTITY goBackCmd.accesskey "B">
 <!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goChatCmd.label "Trò chuyện">
 <!ENTITY prevStarredMsgCmd.label "Thư gắn sao">
 <!ENTITY prevStarredMsgCmd.accesskey "s">
 <!ENTITY folderMenu.label "Thư mục">
