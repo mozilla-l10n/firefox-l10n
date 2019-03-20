@@ -217,17 +217,22 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
  <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
      for the Firefox Account toolbar signin menu screen. -->
+<!ENTITY fxa.signin.callout.label "Ta med dig Firefox">
+<!ENTITY fxa.signin.description.label "Få dina bokmärken, historik, lösenord och andra inställningar på alla dina enheter.">
+<!ENTITY fxa.signin.button.label "Slå på &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
      for the Firefox Account toolbar unverified menu screen. -->
-<!ENTITY fxa.unverified.button.label "Öppna &syncBrand.shortName.label; Inställningar…">
+<!ENTITY fxa.unverified.callout.label "Kolla din e-post">
+<!ENTITY fxa.unverified.description.label "Du måste verifiera ditt konto innan du kan synkronisera.">
+<!ENTITY fxa.unverified.button.label "Öppna &syncBrand.shortName.label; inställningar…">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbart menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Inloggad som">
 <!ENTITY fxa.menu.manageAccount.label "Hantera konto…">
-<!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label; Inställningar…">
+<!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label; inställningar…">
 <!ENTITY fxa.menu.connectAnotherDevice.label "&syncedTabs.sidebar.connectAnotherDevice;">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
@@ -1153,6 +1158,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Hantera dina tillägg genom att klicka på <image class='addon-addon-icon'/> i menyn <image class='addon-toolbar-icon'/>.">
+<!ENTITY addonPostInstall.incognito.checkbox.label "Tillåt att detta tillägg körs i privata fönster">
+<!ENTITY addonPostInstall.incognito.checkbox.accesskey "T">
 
 <!ENTITY addonPrivateBrowsing.header2.label "Ändra hur tillägg fungerar i privata fönster">
 <!ENTITY addonPrivateBrowsing.body2.label "Alla nya tillägg du lägger till i &brandShorterName; kommer inte att fungera i privata fönster om du inte tillåter detta i inställningarna.">
