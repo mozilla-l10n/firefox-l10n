@@ -338,6 +338,9 @@ browsing-search-on-start-typing =
 browsing-cfr-recommendations =
     .label = Препоручи проширења приликом прегледања
     .accesskey = р
+browsing-cfr-features =
+    .label = Предлажи могућности током прегледања
+    .accesskey = м
 browsing-cfr-recommendations-learn-more = Сазнајте више
 
 ## General Section - Proxy
@@ -736,23 +739,12 @@ permissions-notification-link = Сазнајте више
 permissions-notification-pause =
     .label = Паузирај обавештења док се { -brand-short-name } не рестартује
     .accesskey = о
-permissions-block-autoplay-media =
-    .label = Блокирај аутоматско пуштање медија са звуком
-    .accesskey = Б
-permissions-block-autoplay-media-menu = За веб сајтове који аутоматски пуштају звук
 permissions-block-autoplay-media2 =
     .label = Блокирај самостално пуштање звука на веб сајтовима
     .accesskey = Б
 permissions-block-autoplay-media-exceptions =
     .label = Изузеци...
     .accesskey = И
-autoplay-option-ask =
-    .label = Увек питај
-autoplay-option-allow =
-    .label = Дозволи аутоматско пуштање
-autoplay-option-dont =
-    .label = Немој аутоматски пуштати
-permissions-autoplay-link = Сазнајте више
 permissions-block-popups =
     .label = Блокирај искачуће прозоре
     .accesskey = ч
@@ -788,10 +780,6 @@ addon-recommendations-link = Сазнајте више
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Слање података је онемогућено за ову конфигурацију за изградњу
-collection-browser-errors =
-    .label = Дозволи { -brand-short-name }-у да шаље извештаје о грешкама унутар прегледача (укључујући и поруке грешке) { -vendor-short-name }-и
-    .accesskey = Д
-collection-browser-errors-link = Сазнајте више
 collection-backlogged-crash-reports =
     .label = Дозволи { -brand-short-name }-у да шаље извештаје о рушењу у ваше име
     .accesskey = и
