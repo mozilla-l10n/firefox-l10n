@@ -218,13 +218,23 @@ These should match what Safari and other Apple applications use on OS X Lion. --
  <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
      for the Firefox Account toolbar signin menu screen. -->
 <!ENTITY fxa.signin.callout.label "Cymrwch Firefox gyda Chi">
+<!ENTITY fxa.signin.description.label "Cewch eich nodau tudalen, hanes, cyfrineiriau a gosodiadau eraill ar eich holl ddyfeisiau.">
+<!ENTITY fxa.signin.button.label "Trowch &syncBrand.shortName.label;ymlaen…">
 
 <!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
      for the Firefox Account toolbar unverified menu screen. -->
+<!ENTITY fxa.unverified.callout.label "Gwiriwch eich e-bost">
+<!ENTITY fxa.unverified.description.label "Bydd angen i chi wirio eich cyfrif cyn y gallwch gydweddu.">
+<!ENTITY fxa.unverified.button.label "Agor Dewisiadau &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbart menu screen. The `Signed in as` text is
      followed by the user's email. -->
+<!ENTITY fxa.menu.signedInAs.label "Mewngofnodwyd fel">
+<!ENTITY fxa.menu.manageAccount.label "Rheoli Cyfrif…">
+<!ENTITY fxa.menu.syncSettings.label "Gosodiadau &syncBrand.shortName.label;…">
+<!ENTITY fxa.menu.connectAnotherDevice.label "&syncedTabs.sidebar.connectAnotherDevice;">
+<!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -421,6 +431,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.label       "Dewisiadau">
 <!ENTITY preferencesCmdUnix.accesskey     "w">
 
+<!ENTITY logins.label                           "Mewngofnodion a Cyfrineiriau">
 
 <!ENTITY clearRecentHistory.label               "Clirio Hanes Diweddar…">
 
@@ -944,6 +955,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncSignIn.label             "Mewngofnodi i &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "Y">
 <!ENTITY syncSyncNowItem.label        "Cydweddu Nawr">
+<!ENTITY syncSyncNowItemSyncing.label "Cydweddu…">
 <!ENTITY syncSyncNowItem.accesskey    "y">
 <!ENTITY syncReAuthItem.label         "Ail gysylltu i &syncBrand.shortName.label;…">
 <!ENTITY syncReAuthItem.accesskey     "A">
@@ -1146,6 +1158,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Rheolwch eich ychwanegion drwy glicio <image class='addon-addon-icon'/> yn newislen <image class='addon-toolbar-icon'/>.">
+<!ENTITY addonPostInstall.incognito.checkbox.label "Caniatáu i'r estyniad yma redeg mewn Ffenestri Preifat">
+<!ENTITY addonPostInstall.incognito.checkbox.accesskey "C">
 
 <!ENTITY addonPrivateBrowsing.header2.label "Newid i estyniadau mewn Ffenestri Preifat">
 <!ENTITY addonPrivateBrowsing.body2.label "Bydd unrhyw estyniad newydd y byddwch yn eu hychwanegu i &brandShorterName; ddim yn gweithio mewn Ffenestri Preifat oni bai eich bod yn caniatáu hynny yn y gosodiadau.">

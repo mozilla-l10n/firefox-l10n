@@ -10,7 +10,6 @@
 <!ENTITY fullscreenButton.exitfullscreenlabel "Gadael y Sgrin Lawn">
 <!ENTITY castingButton.castingLabel "Darlledu i'r Sgrin">
 <!ENTITY closedCaption.off "Diffodd">
-
 <!-- LOCALIZATION NOTE (volumeScrubber.label): This label is exposed to
      accessibility software to clarify what the slider is for. -->
 <!ENTITY volumeScrubber.label "Llithrydd sain">
@@ -34,6 +33,8 @@
 <!ENTITY error.srcNotSupported "Nid yw'r fformat fideo na'r math MIME yn cael eu cynnal.">
 <!ENTITY error.noSource2 "Heb ganfod fideo gyda fformat sy'n cael ei gynnal na math MIME.">
 <!ENTITY error.generic "Ataliwyd chwarae'r fideo oherwydd gwall anhysbys.">
+
+<!ENTITY status.pictureInPicture "Mae'r fideo hwn yn chwarae yn y modd Llun o Fewn Llun.">
 
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
