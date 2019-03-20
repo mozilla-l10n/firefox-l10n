@@ -215,6 +215,27 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenExit.label "退出全屏模式">
 <!ENTITY fullScreenExit.accesskey "F">
 
+ <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
+     for the Firefox Account toolbar signin menu screen. -->
+<!ENTITY fxa.signin.callout.label "把 Firefox 随身带着走">
+<!ENTITY fxa.signin.description.label "在您的设备间同步书签、浏览记录、密码和其他设置。">
+<!ENTITY fxa.signin.button.label "开启&syncBrand.shortName.label;服务…">
+
+<!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
+     for the Firefox Account toolbar unverified menu screen. -->
+<!ENTITY fxa.unverified.callout.label "去收件箱看看">
+<!ENTITY fxa.unverified.description.label "请先完成账号验证，稍后即可开始同步。">
+<!ENTITY fxa.unverified.button.label "打开&syncBrand.shortName.label;服务设置…">
+
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbart menu screen. The `Signed in as` text is
+     followed by the user's email. -->
+<!ENTITY fxa.menu.signedInAs.label "已登录">
+<!ENTITY fxa.menu.manageAccount.label "管理账户…">
+<!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label;服务设置…">
+<!ENTITY fxa.menu.connectAnotherDevice.label "&syncedTabs.sidebar.connectAnotherDevice;">
+<!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
+
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring fullscreen.
@@ -409,6 +430,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "首选项">
 <!ENTITY preferencesCmdUnix.accesskey     "n">
+
+<!ENTITY logins.label                           "登录账号和密码">
 
 <!ENTITY clearRecentHistory.label               "清除最近的历史记录…">
 
@@ -932,6 +955,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncSignIn.label             "登录至&syncBrand.shortName.label;服务…">
 <!ENTITY syncSignIn.accesskey         "Y">
 <!ENTITY syncSyncNowItem.label        "立即同步">
+<!ENTITY syncSyncNowItemSyncing.label "正在同步…">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "重新连接&syncBrand.shortName.label;服务…">
 <!ENTITY syncReAuthItem.accesskey     "R">
@@ -1134,8 +1158,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "点击 <image class='addon-toolbar-icon'/> 菜单中的 <image class='addon-addon-icon'/> 来管理您的附加组件。">
-<!ENTITY addonPostInstall.incognito.label "允许此扩展在隐私窗口中运行。">
-<!ENTITY addonPostInstall.incognito.accesskey "A">
+<!ENTITY addonPostInstall.incognito.checkbox.label "允许此扩展在隐私窗口中运行">
+<!ENTITY addonPostInstall.incognito.checkbox.accesskey "A">
 
 <!ENTITY addonPrivateBrowsing.header2.label "隐私窗口中扩展的变化">
 <!ENTITY addonPrivateBrowsing.body2.label "除非您在设置中明确允许，任何新添加至 &brandShorterName; 的扩展均无法在隐私窗口中使用。">
