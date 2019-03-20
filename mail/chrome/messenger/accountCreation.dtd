@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY autoconfigWizard2.title         "Thiết lập tài khoản email hiện có">
 <!ENTITY name.label                      "Tên của bạn:">
 <!ENTITY name.accesskey                  "T">
 <!ENTITY name.placeholder                "Tên, Họ">

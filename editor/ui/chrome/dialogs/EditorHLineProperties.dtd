@@ -22,6 +22,6 @@
 
 <!ENTITY threeDShading.label "Bóng 3-D">
 <!ENTITY threeDShading.accessKey "B">
-<!ENTITY saveSettings.label "Dùng làm Mặc định">
+<!ENTITY saveSettings.label "Sử dụng làm mặc định">
 <!ENTITY saveSettings.accessKey "D">
 <!ENTITY saveSettings.tooltip "Lưu các thiết lập này để dùng khi chèn các đường kẻ ngang mới">
