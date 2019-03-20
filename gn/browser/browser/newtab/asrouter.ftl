@@ -47,5 +47,6 @@ cfr-doorhanger-extension-total-users =
 
 ## These messages are steps on how to use the feature and are shown together.
 
+cfr-doorhanger-pintab-step1 = <b>Eikutu akatúa gotyo</b> pe tendayke emombytasévape.
 cfr-doorhanger-pintab-animation-pause = Mbopyta
 cfr-doorhanger-pintab-animation-resume = Eku'ejey

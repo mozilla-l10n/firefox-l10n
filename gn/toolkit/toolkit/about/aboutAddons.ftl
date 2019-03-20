@@ -139,6 +139,11 @@ legacy-warning-show-legacy = Opaite mba'ejoapyrã jehecha
 legacy-extensions =
     .value = Opaite mba'ejoapyrã
 legacy-extensions-description = Ko'ã jepysokue ndoguerekói { -brand-short-name } tekoguatarã oñembogue hag̃ua. <label data-l10n-name="legacy-learn-more">Maranduve moĩmbaha moambue rehegua</label>
+private-browsing-description2 =
+    { -brand-short-name } iñambuehína mba’éichapa omba’apo jepysokue kundaha ñemíme. Oimeraẽva jepysokue pyahu embojuajúva
+    { -brand-short-name } rupi nomba’apomo’ãi ijypykue rupi kundaha ñemíme. Neremoneĩrirõ Moĩporãhápe, pe jepysokue ndoikomo’ãi kundaha ñemíme, ha ndoikemo’ãi nerembiapo ñanduti
+    peguápe. Romoambue roguereko hag̃ua ñemiháme ne kundaha ñemigua.
+    <label data-l10n-name="private-browsing-learn-more">Eikuaa mba’éichapa eñangarekóta ko’ã jepysokue ñemboheko rehe </label>
 extensions-view-discover =
     .name = Moĩmbaha rupity
     .tooltiptext = { extensions-view-discover.name }
