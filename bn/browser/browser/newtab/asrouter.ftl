@@ -3,12 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 cfr-doorhanger-extension-heading = প্রস্তাবিত এক্সটেনশান
+cfr-doorhanger-pintab-heading = এটি ব্যবহার করে দেখুন: ট্যাব পিন করুন
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = কেন আমি এটি দেখছি?
 cfr-doorhanger-extension-cancel-button = এখন না
     .accesskey = N
 cfr-doorhanger-extension-ok-button = এখন যোগ করুন
     .accesskey = A
+cfr-doorhanger-pintab-ok-button = এই ট্যাব পিন করুন
+    .accesskey = P
 cfr-doorhanger-extension-manage-settings-button = সুপারিশ সেটিংস ব্যবস্থাপনা করুন
     .accesskey = M
 cfr-doorhanger-extension-never-show-recommendation = আমাকে এই সুপারিশ দেখাবেন না
@@ -41,3 +44,8 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } ব্যবহারকারী
        *[other] { $total } ব্যবহারকারী
     }
+
+## These messages are steps on how to use the feature and are shown together.
+
+cfr-doorhanger-pintab-animation-pause = বিরতি
+cfr-doorhanger-pintab-animation-resume = পুনরায় শুরু

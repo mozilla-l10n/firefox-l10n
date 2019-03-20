@@ -30,5 +30,9 @@ helpus = সাহায্য করতে চান? <label data-l10n-name="he
 bottomLinks-license = লাইসেন্স এর তথ্য
 bottomLinks-rights = প্রান্তিক ব্যবহারকারীর অধিকার
 bottomLinks-privacy = গোপনীয়তা নীতি
-aboutDialog-architecture-sixtyFourBit = 64-bit
-aboutDialog-architecture-thirtyTwoBit = 32-bit
+# Example of resulting string: 66.0a1 (2019-01-16) (64-bit)
+# Variables:
+#   $version (String): version of Firefox for Nightly builds, e.g. 66.0a1
+#   $isodate (String): date in ISO format, e.g. 2019-01-16
+#   $bits (Number): bits of the architecture (32 or 64)
+aboutDialog-version-nightly = { $version } ({ $isodate }) ({ $bits }-বিট)
