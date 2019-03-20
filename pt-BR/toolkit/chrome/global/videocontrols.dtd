@@ -10,7 +10,6 @@
 <!ENTITY fullscreenButton.exitfullscreenlabel "Sair da tela inteira">
 <!ENTITY castingButton.castingLabel "Transmitir para tela">
 <!ENTITY closedCaption.off "Desligar">
-
 <!-- LOCALIZATION NOTE (volumeScrubber.label): This label is exposed to
      accessibility software to clarify what the slider is for. -->
 <!ENTITY volumeScrubber.label "Controle de volume">
@@ -34,6 +33,8 @@
 <!ENTITY error.srcNotSupported "Formato de vídeo ou tipo MIME não suportado.">
 <!ENTITY error.noSource2 "Não há nenhum vídeo com formato ou tipo MIME suportados.">
 <!ENTITY error.generic "Execução do vídeo interrompida por um erro desconhecido.">
+
+<!ENTITY status.pictureInPicture "Este vídeo está sendo reproduzido em modo Picture-in-Picture.">
 
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
