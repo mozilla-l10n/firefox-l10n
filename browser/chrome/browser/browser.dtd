@@ -108,7 +108,6 @@ These items have the same accesskey but will never be visible at the same time. 
 <!ENTITY  hiddenTabs.label                   "Separadores ocultados">
 
 <!ENTITY  listAllTabs.label      "Listar todos os separadores">
-
 <!-- LOCALIZATION NOTE (allTabsMenu.searchTabs.label): "Search" is a verb, as
 in "Search through tabs". -->
 <!ENTITY  allTabsMenu.searchTabs.label       "Pesquisar separadores">
@@ -215,6 +214,27 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenAutohide.accesskey "e">
 <!ENTITY fullScreenExit.label "Sair do modo de ecrã completo">
 <!ENTITY fullScreenExit.accesskey "e">
+
+ <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
+     for the Firefox Account toolbar signin menu screen. -->
+<!ENTITY fxa.signin.callout.label "Leve o Firefox consigo">
+<!ENTITY fxa.signin.description.label "Obtenha os seus marcadores, histórico, palavras-passe e outras definições em todos os seus dispositivos.">
+<!ENTITY fxa.signin.button.label "Ligar o &syncBrand.shortName.label;…">
+
+<!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
+     for the Firefox Account toolbar unverified menu screen. -->
+<!ENTITY fxa.unverified.callout.label "Verifique o seu email">
+<!ENTITY fxa.unverified.description.label "Irá precisar de verificar a sua conta antes de poder sincronizar.">
+<!ENTITY fxa.unverified.button.label "Abrir definições do &syncBrand.shortName.label;…">
+
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbart menu screen. The `Signed in as` text is
+     followed by the user's email. -->
+<!ENTITY fxa.menu.signedInAs.label "Sessão iniciada como">
+<!ENTITY fxa.menu.manageAccount.label "Gerir conta…">
+<!ENTITY fxa.menu.syncSettings.label "Definições do &syncBrand.shortName.label;…">
+<!ENTITY fxa.menu.connectAnotherDevice.label "&syncedTabs.sidebar.connectAnotherDevice;">
+<!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -410,6 +430,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "Preferências">
 <!ENTITY preferencesCmdUnix.accesskey     "f">
+
+<!ENTITY logins.label                           "Credenciais e palavras-passe">
 
 <!ENTITY clearRecentHistory.label               "Limpar histórico recente…">
 
@@ -882,7 +904,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "Não concedeu quaisquer permissões especiais a este site.">
 <!ENTITY identity.permissionsReloadHint "Poderá ter de recarregar a página para as alterações se aplicarem.">
 <!ENTITY identity.permissionsPreferences.tooltip "Abrir preferências de permissões">
-
 <!ENTITY identity.contentBlockingPreferences.tooltip "Abrir preferências do bloqueio de conteúdo">
 
 
@@ -934,6 +955,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncSignIn.label             "Iniciar sessão no &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "Y">
 <!ENTITY syncSyncNowItem.label        "Sincronizar agora">
+<!ENTITY syncSyncNowItemSyncing.label "A sincronizar…">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "Religar ao &syncBrand.shortName.label;…">
 <!ENTITY syncReAuthItem.accesskey     "R">
@@ -1136,8 +1158,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Gira os seus extras ao clicar em <image class='addon-addon-icon'/> no menu <image class='addon-toolbar-icon'/>.">
-<!ENTITY addonPostInstall.incognito.label "Permitir que esta extensão seja executada em janelas privadas.">
-<!ENTITY addonPostInstall.incognito.accesskey "a">
+<!ENTITY addonPostInstall.incognito.checkbox.label "Permitir que esta extensão seja executada em janelas privadas">
+<!ENTITY addonPostInstall.incognito.checkbox.accesskey "a">
 
 <!ENTITY addonPrivateBrowsing.header2.label "Alteração nas extensões em janelas privadas">
 <!ENTITY addonPrivateBrowsing.body2.label "Quaisquer novas extensões que adicione ao &brandShorterName; não irão funcionar em janelas privadas a menos que permita isto nas definições.">
