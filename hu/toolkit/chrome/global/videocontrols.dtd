@@ -10,7 +10,6 @@
 <!ENTITY fullscreenButton.exitfullscreenlabel "Kilépés a teljes képernyős módból">
 <!ENTITY castingButton.castingLabel "Képernyőre vetítés">
 <!ENTITY closedCaption.off "Ki">
-
 <!-- LOCALIZATION NOTE (volumeScrubber.label): This label is exposed to
      accessibility software to clarify what the slider is for. -->
 <!ENTITY volumeScrubber.label "Hangerő csúszka">
@@ -34,6 +33,8 @@
 <!ENTITY error.srcNotSupported "A videó formátuma vagy MIME-típusa nem támogatott.">
 <!ENTITY error.noSource2 "Nincs támogatott formátumú vagy MIME-típusú videó.">
 <!ENTITY error.generic "A videólejátszás leállt ismeretlen hiba miatt.">
+
+<!ENTITY status.pictureInPicture "Ez a videó kép a képben módban van lejátszva.">
 
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
