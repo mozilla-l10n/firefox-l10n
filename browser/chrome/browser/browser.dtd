@@ -108,7 +108,6 @@ These items have the same accesskey but will never be visible at the same time. 
 <!ENTITY  hiddenTabs.label                   "Gizli sekmeler">
 
 <!ENTITY  listAllTabs.label      "Tüm sekmeleri listele">
-
 <!-- LOCALIZATION NOTE (allTabsMenu.searchTabs.label): "Search" is a verb, as
 in "Search through tabs". -->
 <!ENTITY  allTabsMenu.searchTabs.label       "Sekmelerde ara">
@@ -215,6 +214,27 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenAutohide.accesskey "A">
 <!ENTITY fullScreenExit.label "Tam ekran kipinden çık">
 <!ENTITY fullScreenExit.accesskey "T">
+
+ <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
+     for the Firefox Account toolbar signin menu screen. -->
+<!ENTITY fxa.signin.callout.label "Firefox’u yanında taşı">
+<!ENTITY fxa.signin.description.label "Yer imlerinizi, geçmişinizi, parolalarınızı ve diğer ayarlarınızı tüm cihazlarınızda kullanabilirsiniz.">
+<!ENTITY fxa.signin.button.label "&syncBrand.shortName.label;’i aç…">
+
+<!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
+     for the Firefox Account toolbar unverified menu screen. -->
+<!ENTITY fxa.unverified.callout.label "E-postanızı kontrol edin">
+<!ENTITY fxa.unverified.description.label "Eşitlemeyi başlatabilmek için hesabınızı doğrulamanız gerekir.">
+<!ENTITY fxa.unverified.button.label "&syncBrand.shortName.label; ayarlarını aç…">
+
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbart menu screen. The `Signed in as` text is
+     followed by the user's email. -->
+<!ENTITY fxa.menu.signedInAs.label "Giriş yapan kullanıcı">
+<!ENTITY fxa.menu.manageAccount.label "Hesabı yönet…">
+<!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label; ayarları…">
+<!ENTITY fxa.menu.connectAnotherDevice.label "&syncedTabs.sidebar.connectAnotherDevice;">
+<!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -410,6 +430,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmd2.accesskey     "S">
 <!ENTITY preferencesCmdUnix.label       "Tercihler">
 <!ENTITY preferencesCmdUnix.accesskey     "T">
+
+<!ENTITY logins.label                           "Hesaplar ve parolalar">
 
 <!ENTITY clearRecentHistory.label               "Yakın geçmişi temizle…">
 
@@ -882,7 +904,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "Bu siteye özel bir izin vermediniz.">
 <!ENTITY identity.permissionsReloadHint "Değişikliklerin uygulanması için bu sayfayı tazelemeniz gerekebilir.">
 <!ENTITY identity.permissionsPreferences.tooltip "İzin tercihlerini aç">
-
 <!ENTITY identity.contentBlockingPreferences.tooltip "İçerik engelleme tercihlerini aç">
 
 
@@ -934,6 +955,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncSignIn.label             "&syncBrand.shortName.label;’e giriş yap…">
 <!ENTITY syncSignIn.accesskey         "Y">
 <!ENTITY syncSyncNowItem.label        "Şimdi eşitle">
+<!ENTITY syncSyncNowItemSyncing.label "Eşitleniyor…">
 <!ENTITY syncSyncNowItem.accesskey    "m">
 <!ENTITY syncReAuthItem.label         "&syncBrand.shortName.label;’e tekrar bağlan…">
 <!ENTITY syncReAuthItem.accesskey     "R">
@@ -1136,8 +1158,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Eklentilerinizi yönetmek için <image class='addon-toolbar-icon'/> menüdeki <image class='addon-addon-icon'/> simgesine tıklayabilirsiniz.">
-<!ENTITY addonPostInstall.incognito.label "Bu eklentinin gizli pencerelerde çalışmasına izin ver.">
-<!ENTITY addonPostInstall.incognito.accesskey "z">
+<!ENTITY addonPostInstall.incognito.checkbox.label "Bu eklentinin gizli pencerelerde çalışmasına izin ver">
+<!ENTITY addonPostInstall.incognito.checkbox.accesskey "B">
 
 <!ENTITY addonPrivateBrowsing.header2.label "Gizli pencerelerde eklentiler değişiyor">
 <!ENTITY addonPrivateBrowsing.body2.label "Bundan sonra &brandShorterName; tarayıcınıza ekleyeceğiniz eklentiler, siz özellikle izin vermedikçe gizli pencerelerde çalışmayacak.">
