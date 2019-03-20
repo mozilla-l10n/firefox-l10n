@@ -3,12 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 cfr-doorhanger-extension-heading = Препоручене екстензије
+cfr-doorhanger-pintab-heading = Пробајте ово: закачи језичак
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Зашто видим ово
 cfr-doorhanger-extension-cancel-button = Не сада
     .accesskey = Н
 cfr-doorhanger-extension-ok-button = Додај сада
     .accesskey = Д
+cfr-doorhanger-pintab-ok-button = Закачи овај језичак
+    .accesskey = З
 cfr-doorhanger-extension-manage-settings-button = Управљај препорукама
     .accesskey = У
 cfr-doorhanger-extension-never-show-recommendation = Не приказуј ми ову препоруку
@@ -43,3 +46,8 @@ cfr-doorhanger-extension-total-users =
         [few] { $total } корисника
        *[other] { $total } корисника
     }
+
+## These messages are steps on how to use the feature and are shown together.
+
+cfr-doorhanger-pintab-animation-pause = Заустави
+cfr-doorhanger-pintab-animation-resume = Настави
