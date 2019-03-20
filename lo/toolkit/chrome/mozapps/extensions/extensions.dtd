@@ -1,131 +1,23 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!ENTITY addons.windowTitle                   "ຕົວຈັດການກັບ Add-ons">
-
-<!ENTITY search.placeholder2                  "ຄົ້ນຫາໃນ addons.mozilla.org">
-
-<!ENTITY search.placeholder3                  "ຄົ້ນຫາ addons.mozilla.org">
-<!ENTITY search.buttonlabel                   "ຄົ້ນຫາ">
-<!-- LOCALIZATION NOTE (search.commandkey):
-     The search command key should match findOnCmd.commandkey from browser.dtd -->
-<!ENTITY search.commandkey                    "f">
-
-<!ENTITY loading.label                        "ກຳລັງໂຫລດ…">
-<!ENTITY listEmpty.installed.label            "ທ່ານບໍ່ໄດ້ຕິດຕັ້ງ Add-ons ປະເພດນີ້ໄວ້">
-<!ENTITY listEmpty.availableUpdates.label     "ບໍ່ພົບການອັບເດດ">
-<!ENTITY listEmpty.recentUpdates.label        "ທ່ານບໍ່ໄດ້ອັບເດດ Add-ons ຈັກອັນເລີຍ">
-<!ENTITY listEmpty.findUpdates.label          "ກວດເບິງການອັບເດດ">
-<!ENTITY listEmpty.button.label               "ຮຽນຮູ້ເພີ່ມເຕີມກ່ຽວກັບ Add-ons ນີ້">
-<!ENTITY installAddonFromFile.label           "ຕິດຕັ້ງ Add-ons ຈາກໄຟລ໌…">
-<!ENTITY installAddonFromFile.accesskey       "I">
-<!ENTITY toolsMenu.tooltip                    "ເຄື່ອງມືສຳລັບທຸກ Add-ons">
-
-
-
-<!ENTITY showUnsignedExtensions.button.label  "ບໍ່ສາມາດຢືນຢັນບາງ extension ໄດ້">
-<!ENTITY showAllExtensions.button.label       "ສະແດງ extension ທັງຫມົດ">
-<!ENTITY debugAddons.label                    "ດີບັກ Add-on">
-<!ENTITY debugAddons.accesskey                "B">
-
-<!-- global warnings -->
-<!ENTITY warning.safemode.label                    "Add-on ທັງຫມົດໄດ້ຖືກປິດນຳໃຊ້ໂດຍໂຫມດປອດໄພ.">
-<!ENTITY warning.checkcompatibility.enable.label   "ເປີດໃຊ້ງານ">
-<!ENTITY warning.updatesecurity.enable.label       "ເປີດໃຊ້ງານ">
-
-<!-- categories / views -->
-<!ENTITY view.discover.label                  "ຮັບ Add-ons">
-<!ENTITY view.recentUpdates.label             "ການອັບເດດຫຼ້າສຸດ">
-<!ENTITY view.availableUpdates.label          "ອັບເດດທີ່ມີຢູ່">
-
-<!ENTITY helpButton.label                      "ການສະຫນັບສະຫນູນ Add-ons">
-
-<!-- addon updates -->
-<!ENTITY updates.checkForUpdates.label        "ກວດສອບການອັບເດດ">
-<!ENTITY updates.checkForUpdates.accesskey    "C">
-<!ENTITY updates.viewUpdates.accesskey        "V">
-<!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
-     is a checkbox that toggles the default global behavior for add-on update
-     checking. -->
-<!ENTITY updates.updateAddonsAutomatically.label     "ອັບເດດ Add-ons ໂດຍອັດຕະໂນມັດ">
-<!ENTITY updates.updateAddonsAutomatically.accesskey "A">
-<!-- LOCALIZATION NOTE (updates.resetUpdatesToAutomatic.label, updates.resetUpdatesToManual.label):
-     Specific addons can have custom update checking behaviors ("Manually",
-     "Automatically", "Use default global behavior"). These menu items reset the
-     update checking behavior for all add-ons to the default global behavior
-     (which itself is either "Automatically" or "Manually", controlled by the
-     updates.updateAddonsAutomatically.label menu item). -->
-<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "R">
-<!ENTITY updates.resetUpdatesToManual.accesskey      "R">
-<!ENTITY updates.updating.label               "ກຳລັງອັບເດດ add-ons">
-<!ENTITY updates.noneFound.label              "ບໍ່ພົບການອັບເດດ">
-<!ENTITY updates.manualUpdatesFound.label     "ເບິ່ງການອັບເດດທີ່ມີຢູ່">
-<!ENTITY updates.updateSelected.label         "ຕິດຕັ້ງການອັບເດດ">
-
-<!-- addon actions -->
-<!ENTITY cmd.showDetails.accesskey            "S">
-<!ENTITY cmd.findUpdates.label                "ຊອກຫາການອັບເດດ">
-<!ENTITY cmd.findUpdates.accesskey            "F">
-<!ENTITY cmd.preferencesWin.label             "ຕົວເລືອກ">
-<!ENTITY cmd.preferencesWin.accesskey         "O">
-<!ENTITY cmd.preferencesUnix.accesskey        "P">
 
 <!-- addon actions -->
 <!ENTITY cmd.enableAddon.label                "ເປີດໃຊ້ງານ">
 <!ENTITY cmd.enableAddon.accesskey            "E">
 <!ENTITY cmd.disableAddon.label               "ປິດໃຊ້ງານ">
 <!ENTITY cmd.disableAddon.accesskey           "D">
-<!ENTITY cmd.enableTheme.label                "ໃຊ້ຊຸດປັບແຕ່ງ">
-<!ENTITY cmd.enableTheme.accesskey            "W">
-<!ENTITY cmd.disableTheme.accesskey           "W">
 
-<!ENTITY cmd.installAddon.label               "ການຕິດຕັ້ງ">
-<!ENTITY cmd.installAddon.accesskey           "I">
 
 <!ENTITY cmd.uninstallAddon.label             "ລຶບ">
 <!ENTITY cmd.uninstallAddon.accesskey         "ລ">
 <!ENTITY cmd.showPreferencesWin.label         "ຕັ້ງຄ່າ">
 <!ENTITY cmd.showPreferencesUnix.label        "ການຕັ້ງຄ່າ">
-<!ENTITY cmd.contribute.label                 "ສະໜັບສະໜູນ">
-<!ENTITY cmd.contribute.accesskey             "C">
 
 <!ENTITY cmd.showReleaseNotes.label           "ສະແດງຫມາຍເຫດການອອກເວີຊັນໃຫມ່">
 
-<!-- discovery view -->
-<!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
-     Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
-
-<!-- detail view -->
-<!ENTITY detail.version.label                 "ເວີຊັນ">
-<!ENTITY detail.lastupdated.label             "ອັດເດດຫຼ້າສຸດ">
-<!ENTITY detail.creator.label                 "ນັກພັດທະນາ">
-<!ENTITY detail.homepage.label                "ຫນ້າທຳອິດ">
-
-
-<!ENTITY detail.updateType                    "ອັບເດດອັດຕະໂນມັດ">
-<!ENTITY detail.updateDefault.label           "ຄ່າພື້ນຖານ">
-<!ENTITY detail.updateAutomatic.label         "ເປີດ">
-<!ENTITY detail.updateManual.label            "ປິດ">
-<!ENTITY detail.home                          "ຫນ້າທຳອິດ">
-<!ENTITY detail.size                          "ຂະຫນາດ">
-
-<!ENTITY detail.checkForUpdates.label         "ກວດສອບການອັບເດດ">
-<!ENTITY detail.checkForUpdates.accesskey     "F">
-<!ENTITY detail.checkForUpdates.tooltip       "ກວດເບິ່ງການອັບເດດນີ້ສຳລັບ add-on">
-<!ENTITY detail.showPreferencesWin.label      "ຕົວເລືອກ">
-<!ENTITY detail.showPreferencesWin.accesskey  "O">
-<!ENTITY detail.showPreferencesUnix.accesskey "P">
-
-
-<!-- ratings -->
-<!ENTITY rating2.label                        "ຄະແນນ">
-
-<!-- download/install progress -->
-<!ENTITY progress.pause.tooltip               "ຢຸດ">
-
 <!-- download/install progress -->
 <!ENTITY progress.cancel.tooltip              "ຍົກເລີກ">
-
 
 <!ENTITY addon.details.label                  "ເພີ່ມເຕີມ">
 <!ENTITY addon.unknownDate                    "ບໍ່ຮູ້ຈັກ">
@@ -136,6 +28,7 @@
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
      "<Addon name> <1.0> (disabled)" -->
+<!ENTITY addon.disabled.postfix               "(ປິດໃຊ້ງານແລ້ວ)">
 <!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
      updates list to signify that an item is an update, in the form
      "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
@@ -144,31 +37,16 @@
 <!ENTITY addon.undoAction.label               "ເອົາກັບຄືນ">
 <!ENTITY addon.undoAction.tooltip             "ຍົກເລີກການກະທຳນີ້">
 <!ENTITY addon.undoRemove.label               "ເອົາກັບຄືນ">
-<!ENTITY addon.restartNow.label               "ເລີ່ມລະບົບໃໝ່ດຽວນີ້">
 
 <!ENTITY addon.install.label                  "ຕິດຕັ້ງ">
 <!ENTITY addon.install.tooltip                "ຕິດຕັ້ງ add-on ນີ້">
 <!ENTITY addon.updateNow.label                "ອັບເດດຕອນນີ້ເລີຍ">
+<!ENTITY addon.includeUpdate.label            "ລວມຢູ່ໃນການອັບເດດ">
+<!ENTITY addon.updateAvailable.label          "ມີໂຕອັບເດດໃຫມ່">
 <!ENTITY addon.checkingForUpdates.label       "ກວດສອບການອັບເດດ...">
 <!ENTITY addon.loadingReleaseNotes.label      "ກຳລັງໂຫລດ…">
 
 <!ENTITY addon.createdBy.label                "ໂດຍ ">
 
-<!ENTITY eula.width                           "560px">
-<!ENTITY eula.height                          "400px">
-
 <!ENTITY settings.path.button.label           "ຊອກຫາ…">
-
 <!ENTITY setting.learnmore "ຮຽນຮູ້ເພີ່ມເຕີມ...​">
-
-<!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
-     These entities form a sentence, with
-     disabledUnsigned.description.findAddonsLink being a link to an external site. -->
-<!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
-     These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
-     being a link to an external site. -->
-<!ENTITY disabledUnsigned.devInfo.linkToManual "ເຮັດດ້ວຍຕົນເອງ">
-<!ENTITY disabledUnsigned.devInfo.end ".">
-
-<!ENTITY pluginDeprecation.learnMore "ຮຽນຮູ້ເພີ່ມເຕີມ.">
-

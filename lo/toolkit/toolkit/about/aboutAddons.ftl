@@ -51,6 +51,12 @@ detail-update-automatic =
 detail-update-manual =
     .label = ປິດ
     .tooltiptext = ບໍ່ຕິດຕັ້ງອັບເດດໂດຍອັດຕະໂນມັດ
+detail-private-browsing-on =
+    .label = ອະນຸຍາດ
+    .tooltiptext = ເປີດນຳໃຊ້ໃນການຄົ້ນຫາແບບສ່ວນໂຕ
+detail-private-browsing-off =
+    .label = ບໍ່ອະນຸຍາດ
+    .tooltiptext = ປິດນຳໃຊ້ໃນການຄົ້ນຫາແບບສ່ວນໂຕ
 detail-home =
     .label = ຫນ້າທຳອິດ
 detail-home-value =
@@ -106,3 +112,9 @@ extensions-updates-updating =
     .value = ກຳລັງອັບເດດ add-ons
 extensions-updates-manual-updates-found =
     .label = ເບິ່ງການອັບເດດທີ່ມີຢູ່
+
+## Extension shortcut management
+
+
+## Add-on actions
+
