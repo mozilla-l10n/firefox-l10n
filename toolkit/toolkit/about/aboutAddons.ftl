@@ -255,5 +255,6 @@ go-back-button =
 remove-addon-button = Eltávolítás
 disable-addon-button = Letiltás
 enable-addon-button = Engedélyezés
+expand-addon-button = További beállítások
 addons-enabled-heading = Engedélyezve
 addons-disabled-heading = Tiltva
