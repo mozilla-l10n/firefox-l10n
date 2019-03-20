@@ -10,7 +10,6 @@
 <!ENTITY fullscreenButton.exitfullscreenlabel "Sortir dal maletg entir">
 <!ENTITY castingButton.castingLabel "Trametter al monitur">
 <!ENTITY closedCaption.off "Deactivà">
-
 <!-- LOCALIZATION NOTE (volumeScrubber.label): This label is exposed to
      accessibility software to clarify what the slider is for. -->
 <!ENTITY volumeScrubber.label "Reglader dal volumen">
@@ -34,6 +33,8 @@
 <!ENTITY error.srcNotSupported "Il format dal video u tip da MIME na vegn betg sustegnì.">
 <!ENTITY error.noSource2 "Betg chattà in video cun in format e tip da MIME sustegnì.">
 <!ENTITY error.generic "Interrut la reproducziun dal video pervia d'ina errur nunenconuschenta.">
+
+<!ENTITY status.pictureInPicture "Quest video vegn reproducì en il modus maletg-en-maletg.">
 
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
