@@ -223,10 +223,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
      for the Firefox Account toolbar unverified menu screen. -->
 <!ENTITY fxa.unverified.callout.label "Ehecha ne ñanduti veve">
+<!ENTITY fxa.unverified.button.label "Eike &syncBrand.shortName.label; Ñoĩporã…">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbart menu screen. The `Signed in as` text is
      followed by the user's email. -->
+<!ENTITY fxa.menu.signedInAs.label "Heraguapy kóicha">
+<!ENTITY fxa.menu.manageAccount.label "Mba'ete ñangareko…">
 <!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label; Moĩporã…">
 <!ENTITY fxa.menu.connectAnotherDevice.label "&syncedTabs.sidebar.connectAnotherDevice;">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
@@ -1153,8 +1156,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Eñangareko ne rembipuru'i eikutúvo <image class='addon-addon-icon'/> poravorã <image class='addon-toolbar-icon'/> pegua.">
+<!ENTITY addonPostInstall.incognito.checkbox.label "Emoneĩ ko jepysokue oñembohekóvo Windows ñemiguápe">
 <!ENTITY addonPostInstall.incognito.checkbox.accesskey "A">
 
+<!ENTITY addonPrivateBrowsing.header2.label "Emoambue jepysokue Ovetã ñemiguápe">
 <!ENTITY addonPrivateBrowsing.learnMore.label "Eñangarekokuaa jepysokue ñembohekóre.">
 <!ENTITY addonPrivateBrowsing.okButton.label "Oĩma, aikumby">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "O">
