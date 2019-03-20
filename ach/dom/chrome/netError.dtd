@@ -88,3 +88,5 @@
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> tiyo ki diro me ber bedo ma con ki kiromo mwonyo ne cawa mo keken. Ngat ma omwonyo romo nyuto ngec mamegi ma itamo no ni tye maber iyoo mayot. Laloc me kakube ne myero kong oyub lapok tic ma pud pe ilimo kakube ne.</p><p>Kod me bal: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Potbuk ma kigengo">
+
+<!ENTITY networkProtocolError.title "Bal me Cik me Netwak">
