@@ -108,7 +108,6 @@ These items have the same accesskey but will never be visible at the same time. 
 <!ENTITY  hiddenTabs.label                   "Skryté panely">
 
 <!ENTITY  listAllTabs.label      "Seznam všech panelů">
-
 <!-- LOCALIZATION NOTE (allTabsMenu.searchTabs.label): "Search" is a verb, as
 in "Search through tabs". -->
 <!ENTITY  allTabsMenu.searchTabs.label       "Najít panel">
@@ -215,6 +214,27 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenAutohide.accesskey "S">
 <!ENTITY fullScreenExit.label "Ukončit režim celé obrazovky">
 <!ENTITY fullScreenExit.accesskey "k">
+
+ <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
+     for the Firefox Account toolbar signin menu screen. -->
+<!ENTITY fxa.signin.callout.label "Vezměte si Firefox s sebou">
+<!ENTITY fxa.signin.description.label "Mějte své záložky, historii i uložená hesla s sebou na všech svých zařízeních.">
+<!ENTITY fxa.signin.button.label "Zapnout &syncBrand.shortName.label;…">
+
+<!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
+     for the Firefox Account toolbar unverified menu screen. -->
+<!ENTITY fxa.unverified.callout.label "Podívejte se do své e-mailové schránky">
+<!ENTITY fxa.unverified.description.label "Před zahájením synchronizace prosím ověřte svůj účet.">
+<!ENTITY fxa.unverified.button.label "Nastavení služby &syncBrand.shortName.label;…">
+
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbart menu screen. The `Signed in as` text is
+     followed by the user's email. -->
+<!ENTITY fxa.menu.signedInAs.label "Přihlášen(a) jako">
+<!ENTITY fxa.menu.manageAccount.label "Správa účtu…">
+<!ENTITY fxa.menu.syncSettings.label "Nastavení synchronizace…">
+<!ENTITY fxa.menu.connectAnotherDevice.label "&syncedTabs.sidebar.connectAnotherDevice;">
+<!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -410,6 +430,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmd2.accesskey     "M">
 <!ENTITY preferencesCmdUnix.label       "Předvolby">
 <!ENTITY preferencesCmdUnix.accesskey     "v">
+
+<!ENTITY logins.label                           "Přihlašovací údaje">
 
 <!ENTITY clearRecentHistory.label               "Vymazat nedávnou historii…">
 
@@ -882,7 +904,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "Tento server nemá žádná zvláštní oprávnění.">
 <!ENTITY identity.permissionsReloadHint "Pro provedení změn budete možná muset obnovit stránku.">
 <!ENTITY identity.permissionsPreferences.tooltip "Otevřít nastavení oprávnění">
-
 <!ENTITY identity.contentBlockingPreferences.tooltip "Otevřít nastavení blokování obsahu">
 
 
@@ -934,6 +955,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncSignIn.label             "Přihlásit se do &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "i">
 <!ENTITY syncSyncNowItem.label        "Synchronizovat">
+<!ENTITY syncSyncNowItemSyncing.label "Probíhá synchronizace…">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "Opětovné připojení k &syncBrand.shortName.label;…">
 <!ENTITY syncReAuthItem.accesskey     "p">
@@ -1136,8 +1158,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Své doplňky spravujte klepnutím na <image class='addon-addon-icon'/> v nabídce <image class='addon-toolbar-icon'/>.">
-<!ENTITY addonPostInstall.incognito.label "Povolit toto rozšíření v anonymních oknech.">
-<!ENTITY addonPostInstall.incognito.accesskey "P">
+<!ENTITY addonPostInstall.incognito.checkbox.label "Povolit toto rozšíření v anonymních oknech">
+<!ENTITY addonPostInstall.incognito.checkbox.accesskey "P">
 
 <!ENTITY addonPrivateBrowsing.header2.label "Změna fungování rozšíření v anonymních oknech">
 <!ENTITY addonPrivateBrowsing.body2.label "Nově nainstalovaná rozšíření budou v anonymních oknech aplikace &brandShorterName; vypnutá, dokud je pro anonymní režim explicitně nezapnete v nastavení.">
