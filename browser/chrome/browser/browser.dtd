@@ -215,6 +215,21 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenExit.label "Sciòrti da-o mòddo a tutto schermo">
 <!ENTITY fullScreenExit.accesskey "S">
 
+ <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
+     for the Firefox Account toolbar signin menu screen. -->
+
+<!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
+     for the Firefox Account toolbar unverified menu screen. -->
+
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbart menu screen. The `Signed in as` text is
+     followed by the user's email. -->
+<!ENTITY fxa.menu.signedInAs.label "Introu comme">
+<!ENTITY fxa.menu.manageAccount.label "Gestisci account…">
+<!ENTITY fxa.menu.syncSettings.label "Inpostaçioin de &syncBrand.shortName.label;…">
+<!ENTITY fxa.menu.connectAnotherDevice.label "&syncedTabs.sidebar.connectAnotherDevice;">
+<!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
+
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring fullscreen.
@@ -409,6 +424,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmd2.accesskey     "o">
 <!ENTITY preferencesCmdUnix.label       "Preferense">
 <!ENTITY preferencesCmdUnix.accesskey     "n">
+
+<!ENTITY logins.label                           "Acessi e poule segrete">
 
 <!ENTITY clearRecentHistory.label               "Scancella a stöia ciù neuva…">
 
@@ -932,6 +949,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncSignIn.label             "Acedi a &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "y">
 <!ENTITY syncSyncNowItem.label        "Scincronizza oua">
+<!ENTITY syncSyncNowItemSyncing.label "Scincronizzo…">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "Conetti torna a &syncBrand.shortName.label;…">
 <!ENTITY syncReAuthItem.accesskey     "R">
@@ -1132,8 +1150,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Gestisci e inpostaçioin di conponenti azonti sciacando <image class='addon-addon-icon'/> into <image class='addon-toolbar-icon'/> menû.">
-<!ENTITY addonPostInstall.incognito.label "Permetti l’ezegoçion de sta estenscion inti barcoin privæ.">
-<!ENTITY addonPostInstall.incognito.accesskey "P">
+<!ENTITY addonPostInstall.incognito.checkbox.label "Permetti l’ezegoçion de sta estenscion inti barcoin privæ">
+<!ENTITY addonPostInstall.incognito.checkbox.accesskey "A">
 
 <!ENTITY addonPrivateBrowsing.header2.label "Cangiamenti in scê estenscioin inti barcoin privæ">
 <!ENTITY addonPrivateBrowsing.learnMore.label "Descòvri comme gestî e inpostaçioin de estenscioin.">
