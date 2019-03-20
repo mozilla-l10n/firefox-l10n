@@ -215,6 +215,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenExit.label "Gadael Modd Sgrin Lawn">
 <!ENTITY fullScreenExit.accesskey "L">
 
+ <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
+     for the Firefox Account toolbar signin menu screen. -->
+<!ENTITY fxa.signin.callout.label "Cymrwch Firefox gyda Chi">
+
+<!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
+     for the Firefox Account toolbar unverified menu screen. -->
+
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbart menu screen. The `Signed in as` text is
+     followed by the user's email. -->
+
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring fullscreen.
@@ -409,6 +420,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmd2.accesskey     "e">
 <!ENTITY preferencesCmdUnix.label       "Dewisiadau">
 <!ENTITY preferencesCmdUnix.accesskey     "w">
+
 
 <!ENTITY clearRecentHistory.label               "Clirio Hanes Diweddar…">
 
@@ -1134,8 +1146,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Rheolwch eich ychwanegion drwy glicio <image class='addon-addon-icon'/> yn newislen <image class='addon-toolbar-icon'/>.">
-<!ENTITY addonPostInstall.incognito.label "Caniatáu i'r estyniad yma redeg mewn Ffenestr Breifat.">
-<!ENTITY addonPostInstall.incognito.accesskey "C">
 
 <!ENTITY addonPrivateBrowsing.header2.label "Newid i estyniadau mewn Ffenestri Preifat">
 <!ENTITY addonPrivateBrowsing.body2.label "Bydd unrhyw estyniad newydd y byddwch yn eu hychwanegu i &brandShorterName; ddim yn gweithio mewn Ffenestri Preifat oni bai eich bod yn caniatáu hynny yn y gosodiadau.">
