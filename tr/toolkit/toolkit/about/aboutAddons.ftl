@@ -255,5 +255,6 @@ go-back-button =
 remove-addon-button = Kaldır
 disable-addon-button = Etkisizleştir
 enable-addon-button = Etkinleştir
+expand-addon-button = Diğer seçenekler
 addons-enabled-heading = Etkin
 addons-disabled-heading = Devre dışı
