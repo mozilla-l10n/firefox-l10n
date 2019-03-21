@@ -10,7 +10,6 @@
 <!ENTITY fullscreenButton.exitfullscreenlabel "Tam ekrandan çık">
 <!ENTITY castingButton.castingLabel "Ekrana yansıt">
 <!ENTITY closedCaption.off "Kapalı">
-
 <!-- LOCALIZATION NOTE (volumeScrubber.label): This label is exposed to
      accessibility software to clarify what the slider is for. -->
 <!ENTITY volumeScrubber.label "Ses düzeyi kaydırıcısı">
@@ -34,6 +33,8 @@
 <!ENTITY error.srcNotSupported "Video biçimi veya MIME türü desteklenmiyor.">
 <!ENTITY error.noSource2 "Desteklenen biçimlerde veya MIME türlerinde video bulunamadı.">
 <!ENTITY error.generic "Bilinmeyen bir hata nedeniyle video oynatma iptal edildi.">
+
+<!ENTITY status.pictureInPicture "Bu video, görüntü içinde görüntü modunda oynatılıyor.">
 
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
