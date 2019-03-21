@@ -501,14 +501,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. -->
-<!ENTITY customizeMenu.addToOverflowMenu.label "Přeběhowy meni přidać">
+<!ENTITY customizeMenu.addToOverflowMenu.label "Přeběžkowemu menijej přidać">
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "m">
 <!-- LOCALIZATION NOTE (customizeMenu.pinToOverflowMenu.accesskey)
      can appear on the same context menu as menubarCmd and personalbarCmd,
      so they should have different access keys.  -->
-<!ENTITY customizeMenu.pinToOverflowMenu.label "Přeběhowy meni připjeć">
+<!ENTITY customizeMenu.pinToOverflowMenu.label "K přeběžkowemu menijej připjeć">
 <!ENTITY customizeMenu.pinToOverflowMenu.accesskey "P">
-<!ENTITY customizeMenu.unpinFromOverflowMenu.label "Přeběhowy meni wotpjeć">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.label "Z přeběžkoweho menija wotpjeć">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "t">
 <!ENTITY customizeMenu.removeFromToolbar.label "Ze symboloweje lajsty wotstronić">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "Z">
@@ -962,7 +962,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "Z">
 <!ENTITY syncToolbarButton.label      "Sync">
 
-<!ENTITY customizeMode.menuAndToolbars.header3 "Ćehńće swoje najlubše zapiski do symboloweje lajsty abo přeběžneho menija.">
+<!ENTITY customizeMode.menuAndToolbars.header3 "Ćehńće swoje najlubše zapiski do symboloweje lajsty abo přeběžkoweho menija.">
 <!ENTITY customizeMode.restoreDefaults "Standard wobnowić">
 <!ENTITY customizeMode.done "Dokónčeny">
 <!ENTITY customizeMode.titlebar "Titulowa lajsta">
