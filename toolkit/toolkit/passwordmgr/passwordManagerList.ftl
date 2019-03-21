@@ -54,6 +54,7 @@ show-passwords =
 hide-passwords =
     .label = Թաքցնել Գաղտնաբառերը
     .accesskey = P
+logins-description-all = Հետևյալ կայքերում մուտքագրումները պահպանվել են ձեր համակարգչում:
 logins-description-filtered = Հետևյալ գաղտնաբառը համապատասխանում է որոնմանը:
 remove-all =
     .label = Հեռացնել բոլորը
