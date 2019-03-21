@@ -2,15 +2,26 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+saved-logins =
+    .title = פרטי כניסה שמורים
 window-close =
     .key = w
 focus-search-shortcut =
     .key = f
 focus-search-altshortcut =
     .key = k
+copy-username-cmd =
+    .label = העתקת שם משתמש
+    .accesskey = ש
+edit-username-cmd =
+    .label = עריכת שם המשתמש
+    .accesskey = ר
 copy-password-cmd =
     .label = העתקת ססמה
     .accesskey = ה
+edit-password-cmd =
+    .label = עריכת הססמה
+    .accesskey = ע
 search-filter =
     .accesskey = ח
     .placeholder = חיפוש
