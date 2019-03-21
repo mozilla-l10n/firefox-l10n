@@ -218,13 +218,24 @@ These should match what Safari and other Apple applications use on OS X Lion. --
  <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
      for the Firefox Account toolbar signin menu screen. -->
 <!ENTITY fxa.signin.callout.label "Bawa Firefox bersama Anda">
+<!ENTITY fxa.signin.description.label "Dapatkan markah, riwayat, sandi, dan setelan lainnya di semua peranti Anda.">
+<!ENTITY fxa.signin.button.label "Nyalakan &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
      for the Firefox Account toolbar unverified menu screen. -->
+<!ENTITY fxa.unverified.callout.label "Periksa Surel Anda">
+<!ENTITY fxa.unverified.description.label "Anda harus memverifikasi akun Anda sebelum dapat menyinkronkan.">
+<!ENTITY fxa.unverified.button.label "Buka Setelan &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbart menu screen. The `Signed in as` text is
      followed by the user's email. -->
+<!ENTITY fxa.menu.signedInAs.label "Masuk sebagai">
+<!ENTITY fxa.menu.manageAccount.label "Kelola Akun…">
+<!ENTITY fxa.menu.syncSettings.label "Setelan &syncBrand.shortName.label;…">
+<!ENTITY fxa.menu.connectAnotherDevice.label "&syncedTabs.sidebar.connectAnotherDevice;">
+<!ENTITY fxa.menu.connectAnotherDevice2.label "Sambungkan Peranti Lain…">
+<!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -421,6 +432,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.label       "Pengaturan">
 <!ENTITY preferencesCmdUnix.accesskey     "g">
 
+<!ENTITY logins.label                           "Log Masuk dan Sandi">
 
 <!ENTITY clearRecentHistory.label               "Bersihkan Riwayat Terakhir">
 
@@ -944,6 +956,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncSignIn.label             "Masuk ke &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "M">
 <!ENTITY syncSyncNowItem.label        "Sinkronkan Sekarang">
+<!ENTITY syncSyncNowItemSyncing.label "Menyinkronkan…">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "Sambungkan ulang ke &syncBrand.shortName.label;â€¦">
 <!ENTITY syncReAuthItem.accesskey     "u">
@@ -1146,6 +1159,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Kelola pengaya Anda dengan mengeklik <image class='addon-addon-icon'/>di<image class='addon-toolbar-icon'/> menu.">
+<!ENTITY addonPostInstall.incognito.checkbox.label "Izinkan ekstensi ini untuk berjalan di Jendela Pribadi">
 
 <!ENTITY addonPrivateBrowsing.header2.label "Ubah ke ekstensi pada Jendela Pribadi">
 <!ENTITY addonPrivateBrowsing.body2.label "Semua ekstensi baru yang Anda tambahkan ke &brandShorterName; tidak akan berjalan di Jendela Pribadi kecuali Anda mengizinkannya di peraturan.">
