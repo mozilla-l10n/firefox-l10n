@@ -58,6 +58,7 @@ show-passwords =
 hide-passwords =
     .label = Ffer awalen uffiren
     .accesskey = P
+logins-description-all = Isulayen i yismal-agi ttwaskelsen ɣef uselkim-ik
 logins-description-filtered = Inekcumen-agi meɣrun d wid akken tettnadiḍ:
 remove-all =
     .label = Kkes akk
