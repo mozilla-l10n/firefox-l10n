@@ -54,6 +54,7 @@ show-passwords =
 hide-passwords =
     .label = Verskuil wagwoorde
     .accesskey = w
+logins-description-all = Aantekenings vir die volgende webwerwe word op U rekenaar gestoor
 logins-description-filtered = Die volgende rekeninginligting pas by u soektog:
 remove-all =
     .label = Verwyder almal
