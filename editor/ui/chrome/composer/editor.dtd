@@ -57,3 +57,11 @@
      or use latin "rtl" if you want this image to the right of text. You do
      not need to include HTML in the label 'HTMLSourceModeTab.label' -->
 <!ENTITY HTMLSourceModeTab.dir "ltr">
+<!ENTITY HTMLSourceModeTab.label "ซอร์ส">
+<!ENTITY HTMLSourceMode.label "ซอร์ส HTML">
+<!ENTITY HTMLSourceMode.accesskey "อ">
+<!ENTITY HTMLSourceMode.tooltip "แก้ไขซอร์ส HTML">
+<!ENTITY PreviewModeTab.label "ตัวอย่าง">
+<!ENTITY PreviewMode.label "ตัวอย่าง">
+<!ENTITY PreviewMode.accesskey "ว">
+<!ENTITY PreviewMode.tooltip "แสดงเป็นแบบ WYSIWYG (เหมือนในเบราว์เซอร์)">
