@@ -234,6 +234,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.manageAccount.label "Správa účtu…">
 <!ENTITY fxa.menu.syncSettings.label "Nastavení synchronizace…">
 <!ENTITY fxa.menu.connectAnotherDevice.label "&syncedTabs.sidebar.connectAnotherDevice;">
+<!ENTITY fxa.menu.connectAnotherDevice2.label "Připojit další zařízení…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
@@ -1163,7 +1164,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY addonPrivateBrowsing.header2.label "Změna fungování rozšíření v anonymních oknech">
 <!ENTITY addonPrivateBrowsing.body2.label "Nově nainstalovaná rozšíření budou v anonymních oknech aplikace &brandShorterName; vypnutá, dokud je pro anonymní režim explicitně nezapnete v nastavení.">
-<!ENTITY addonPrivateBrowsing.learnMore.label "Jak na nastavení rozšíření.">
+<!ENTITY addonPrivateBrowsing.learnMore.label "Jak na nastavení rozšíření">
 <!ENTITY addonPrivateBrowsing.okButton.label "Ok, rozumím">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "O">
 <!ENTITY addonPrivateBrowsing.manageButton.label "Správa rozšíření">
