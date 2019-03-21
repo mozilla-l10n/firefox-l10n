@@ -50,46 +50,47 @@
 <!-- LOCALIZATION NOTE(exchange-hostname.label): Do not translate Exchange, it is a product name. -->
 <!ENTITY exchange-hostname.label         "Servilo Exchange:">
 
-<!ENTITY advancedSetup.label             "Advanced config">
-<!ENTITY advancedSetup.accesskey         "A">
-<!ENTITY cancel.label                    "Cancel">
-<!ENTITY cancel.accesskey                "a">
-<!ENTITY continue.label                  "Continue">
-<!ENTITY continue.accesskey              "C">
-<!ENTITY stop.label                      "Stop">
-<!ENTITY stop.accesskey                  "S">
+<!ENTITY advancedSetup.label             "Spertulaj agordoj">
+<!ENTITY advancedSetup.accesskey         "S">
+<!ENTITY cancel.label                    "Nuligi">
+<!ENTITY cancel.accesskey                "N">
+<!ENTITY continue.label                  "Pluigi">
+<!ENTITY continue.accesskey              "P">
+<!ENTITY stop.label                      "Haltigi">
+<!ENTITY stop.accesskey                  "H">
 <!-- LOCALIZATION NOTE (half-manual-test.label): This is the text that is
      displayed on the button in manual edit mode which will re-guess
      the account configuration, taking into account the settings that
      the user has manually changed. -->
-<!ENTITY half-manual-test.label          "Re-test">
-<!ENTITY half-manual-test.accesskey      "t">
-<!ENTITY manual-edit.label               "Manual config">
-<!ENTITY manual-edit.accesskey           "M">
+<!ENTITY half-manual-test.label          "Eltrovi ree">
+<!ENTITY half-manual-test.accesskey      "E">
+<!ENTITY manual-edit.label               "Agordi permane">
+<!ENTITY manual-edit.accesskey           "p">
+<!ENTITY open-provisioner.label          "Akiri novan retpoŝtan adreson…">
+<!ENTITY open-provisioner.accesskey      "n">
 
 
-<!ENTITY warning.label                   "Warning!">
-<!ENTITY incomingSettings.label          "Incoming settings:">
-<!ENTITY outgoingSettings.label          "Outgoing settings:">
-<!ENTITY technicaldetails.label          "Technical Details">
+<!ENTITY warning.label                   "Averto!">
+<!ENTITY incomingSettings.label          "Agordoj de enira poŝto:">
+<!ENTITY outgoingSettings.label          "Agordoj de elira poŝto:">
+<!ENTITY technicaldetails.label          "Teĥnikaj detaloj">
 <!-- LOCALIZATION NOTE (confirmWarning.label): If there is a security
      warning on the outgoing server, then the user will need to check a
      checkbox beside this text before continuing. -->
-<!ENTITY confirmWarning.label            "I understand the risks.">
-<!ENTITY confirmWarning.accesskey        "u">
+<!ENTITY confirmWarning.label            "Mi komprenas la riskon.">
+<!ENTITY confirmWarning.accesskey        "k">
 <!-- LOCALIZATION NOTE (doneAccount.label): If there is a security warning
      on the incoming or outgoing servers, then the page that pops up will
      have this text in a button to continue by creating the account. -->
-<!ENTITY doneAccount.label               "Done">
-<!ENTITY doneAccount.accesskey           "D">
+<!ENTITY doneAccount.label               "Farita">
+<!ENTITY doneAccount.accesskey           "F">
 <!-- LOCALIZATION NOTE (changeSettings.label): If there is a security warning on
      the incoming or outgoing servers, then the page that pops up will have
      this text in a button to take you back to the previous page to change
      the settings and try again. -->
-<!ENTITY changeSettings.label            "Change Settings">
-<!ENTITY changeSettings.accesskey        "S">
+<!ENTITY changeSettings.label            "Ŝanĝi agordojn">
+<!ENTITY changeSettings.accesskey        "a">
 
-<!ENTITY contactYourProvider.description "&brandShortName; can allow you to get to your mail using the provided configurations. However, you should contact your administrator or email provider regarding these improper connections. See the Thunderbird FAQ for more information.">
 
 <!ENTITY insecureServer.tooltip.title    "Warning! This is an insecure server.">
 <!ENTITY insecureServer.tooltip.details  "Click circle for more details.">
