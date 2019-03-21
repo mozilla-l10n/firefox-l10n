@@ -8,3 +8,4 @@ show-passwords =
 hide-passwords =
     .label = Ocultar contraseñas
     .accesskey = P
+remove-all-passwords-title = Eliminar todas las contraseñas
