@@ -23,4 +23,5 @@ remove =
 close-button =
     .label = বন্ধ কৰক
     .accesskey = C
+remove-all-passwords-prompt = আপুনি সকলো পাছৱাৰ্ড আতৰাবলে নিশ্চিত নে?
 remove-all-passwords-title = সকলো পাছৱাৰ্ড আতৰাওক
