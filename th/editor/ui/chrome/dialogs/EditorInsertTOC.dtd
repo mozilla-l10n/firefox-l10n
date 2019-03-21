@@ -12,3 +12,5 @@
 <!ENTITY header4.label       "ระดับ 4">
 <!ENTITY header5.label       "ระดับ 5">
 <!ENTITY header6.label       "ระดับ 6">
+<!ENTITY makeReadOnly.label  "ทำให้สารบัญเป็นแบบอ่านอย่างเดียว">
+<!ENTITY orderedList.label   "เรียงรายการทั้งหมดในสารบัญตามลำดับเลข">

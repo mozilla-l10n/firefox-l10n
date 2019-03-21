@@ -12,4 +12,5 @@
 <!ENTITY succeeded.label       "สำเร็จ">
 <!ENTITY failed.label          "ล้มเหลว">
 
+<!ENTITY keepOpen              "เปิดหน้าต่างนี้ค้างไว้หลังจากการเผยแพร่เสร็จสมบูรณ์">
 <!ENTITY closeButton.label     "ปิด">

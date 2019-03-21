@@ -6,8 +6,13 @@
      equal to the value of accountManager.size entity minus the value
      of accountTree.width entity. -->
 <!ENTITY identityDialog.style "min-width: 75ch;">
+<!ENTITY identityListDesc.label "กำหนดการตั้งค่าสำหรับข้อมูลประจำตัวนี้:">
 
 <!ENTITY settingsTab.label       "การตั้งค่า">
+<!ENTITY copiesFoldersTab.label "สำเนาและโฟลเดอร์">
+<!ENTITY addressingTab.label    "การเขียนและการกำหนดที่อยู่">
 
 <!ENTITY publicData.label        "ข้อมูลสาธารณะ">
 <!ENTITY privateData.label       "ข้อมูลส่วนตัว">
+<!ENTITY identityAlias.label     "ป้ายกำกับข้อมูลประจำตัว:">
+<!ENTITY identityAlias.accesskey "ป">

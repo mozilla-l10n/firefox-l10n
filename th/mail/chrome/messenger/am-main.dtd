@@ -8,12 +8,14 @@
 <!ENTITY accountName.label "ชื่อบัญชี:">
 <!ENTITY accountName.accesskey "ช">
 <!ENTITY identityTitle.label "ข้อมูลประจำตัวเริ่มต้น">
+<!ENTITY identityDesc.label "แต่ละบัญชีมีข้อมูลประจำตัว ซึ่งเป็นข้อมูลที่คนอื่นจะเห็นเมื่อพวกเขาอ่านข้อความของคุณ">
 <!ENTITY name.label "ชื่อของคุณ:">
 <!ENTITY name.accesskey "อ">
 <!ENTITY email.label "ที่อยู่อีเมล:">
 <!ENTITY email.accesskey "ท">
 <!ENTITY replyTo.label "ที่อยู่ตอบกลับ:">
 <!ENTITY replyTo.accesskey "ย">
+<!ENTITY replyTo.placeholder "ผู้รับจะตอบกลับไปยังที่อยู่อื่นนี้">
 <!ENTITY organization.label "องค์กร:">
 <!ENTITY organization.accesskey "ง">
 <!ENTITY signatureText.label "ข้อความลายเซ็น:">

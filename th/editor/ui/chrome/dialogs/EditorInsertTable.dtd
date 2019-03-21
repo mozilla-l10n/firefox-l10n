@@ -14,4 +14,5 @@
 <!ENTITY widthEditField.accessKey "ก">
 <!ENTITY borderEditField.label "เส้นขอบ:">
 <!ENTITY borderEditField.accessKey "ข">
+<!ENTITY borderEditField.tooltip "พิมพ์จำนวนเส้นขอบของตาราง หรือพิมพ์เลขศูนย์ (0) หากไม่ต้องการเส้นขอบ">
 <!ENTITY pixels.label "พิกเซล">

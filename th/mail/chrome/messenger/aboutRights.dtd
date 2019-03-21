@@ -2,6 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
+<!ENTITY rights.locale-direction "ltr">
+<!ENTITY rights.title            "เกี่ยวกับสิทธิของคุณ">
+<!ENTITY rights.intro-header     "เกี่ยวกับสิทธิของคุณ">
+<!ENTITY rights.intro "&brandFullName; เป็นซอฟต์แวร์ฟรีและโอเพนซอร์ส สร้างขึ้นโดยชุมชนของคนนับพันจากทั่วโลก มีบางสิ่งที่คุณควรทราบ:">
 
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is
@@ -11,15 +15,31 @@
 
      Also note the leading/trailing whitespace in strings here, which is
      deliberate for formatting around the embedded links. -->
+<!ENTITY rights.intro-point1a "&brandShortName; ให้คุณใช้ภายใต้เงื่อนไขของ ">
+<!ENTITY rights.intro-point1b "Mozilla Public License">
+<!ENTITY rights.intro-point1c " สิ่งนี้หมายถึงคุณอาจใช้งาน คัดลอก และแจกจ่าย &brandShortName; ให้กับผู้อื่น  คุณยังสามารถแก้ไขโค้ดต้นฉบับของ &brandShortName; ตามที่คุณต้องการเพื่อให้ตรงกับความต้องการของคุณ Mozilla Public License ยังให้สิทธิคุณในการแจกจ่ายรุ่นที่คุณแก้ไขอีกด้วย">
 
+<!ENTITY rights.intro-point2a "Mozilla ไม่ให้สิทธิ์ใด ๆ แก่คุณสำหรับเครื่องหมายการค้าหรือโลโก้ Mozilla และ Thunderbird ข้อมูลเพิ่มเติมเกี่ยวกับเครื่องหมายการค้าอาจพบได้">
+<!ENTITY rights.intro-point2b "ที่นี่">
+<!ENTITY rights.intro-point2c "">
 
 <!-- point 3 text for official branded builds -->
+<!ENTITY rights.intro-point3a "นโยบายความเป็นส่วนตัวสำหรับผลิตภัณฑ์ของ &vendorShortName; อาจพบได้">
+<!ENTITY rights.intro-point3b "ที่นี่">
+<!ENTITY rights.intro-point3c "">
 
 <!-- point 3 text for unbranded builds -->
+<!ENTITY rights.intro-point3-unbranded "นโยบายความเป็นส่วนตัวใด ๆ ที่บังคับใช้สำหรับผลิตภัณฑ์นี้ควรถูกแสดงรายการไว้ที่นี่">
 
 <!-- point 4 text for official branded builds -->
+<!ENTITY rights.intro-point4a "&brandShortName; ยังมาพร้อมกับบริการเพิ่มเติม เช่น บริการอัปเดตส่วนเสริม อย่างไรก็ตาม เราไม่สามารถรับประกันได้ว่าบริการเหล่านั้นจะทำงานได้ถูกต้อง 100&#037; หรือปราศจากความผิดพลาด รายละเอียดเพิ่มเติมรวมไปถึงวิธียกเลิกใช้บริการเหล่านั้น สำหรับอ่านได้ที่ ">
+<!ENTITY rights.intro-point4b "ข้อตกลงบริการ">
+<!ENTITY rights.intro-point4c "">
 
 <!-- point 4 text for unbranded builds -->
+<!ENTITY rights.intro-point4a-unbranded "ถ้าผลิตภัณฑ์นี้ได้ทำการรวมบริการเว็บไว้ ข้อตกลงบริการใด ๆ สำหรับบริการนั้น ๆ ที่สามารถนำไปปรับใช้ได้จะถูกลงรายการไว้ที่ส่วน">
+<!ENTITY rights.intro-point4b-unbranded "บริการเว็บ">
+<!ENTITY rights.intro-point4c-unbranded "">
 
 
 <!-- Note that this paragraph references a couple of entities from

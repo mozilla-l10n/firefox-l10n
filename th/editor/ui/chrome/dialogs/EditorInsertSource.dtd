@@ -4,6 +4,7 @@
 
 <!-- Window title -->
 <!ENTITY windowTitle.label "แทรก HTML">
+<!ENTITY sourceEditField.label "ป้อนแท็ก HTML และข้อความ:">
 <!ENTITY example.label "ตัวอย่าง: ">
 <!-- LOCALIZATION NOTE (exampleOpenTag.label): DONT_TRANSLATE: they are text for HTML tagnames: "<i>" and "</i>" -->
 <!ENTITY exampleOpenTag.label "&lt;i&gt;">
