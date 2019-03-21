@@ -18,3 +18,6 @@ column-heading-username =
 remove =
     .label = काढून टाका
     .accesskey = R
+close-button =
+    .label = बंद करा
+    .accesskey = C
