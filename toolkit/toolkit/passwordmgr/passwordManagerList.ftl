@@ -54,6 +54,7 @@ show-passwords =
 hide-passwords =
     .label = गुप्तशब्द लपवा
     .accesskey = P
+logins-description-all = पुढील साईटसाठीचे लॉगिन्स आपल्या संगणकावर जतन केले आहेत
 logins-description-filtered = खालील लॉगिन आपल्या शोधाशी जुळतात:
 remove-all =
     .label = सर्व काढून टाका
