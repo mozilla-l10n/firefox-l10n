@@ -343,7 +343,7 @@ browsing-cfr-recommendations-learn-more = Saiba mais
 ## General Section - Proxy
 
 network-settings-title = Configurações de rede
-network-proxy-connection-description = Configure como o { -brand-short-name } se conecta à Internet.
+network-proxy-connection-description = Configure como o { -brand-short-name } se conecta à internet.
 network-proxy-connection-learn-more = Saiba mais
 network-proxy-connection-settings =
     .label = Configurar conexão…
