@@ -46,3 +46,18 @@ serviceworker-worker-status-stopped = หยุดอยู่
 # Service Worker status. A registering service worker is not yet registered and cannot be
 # started or debugged.
 serviceworker-worker-status-registering = กำลังลงทะเบียน
+# Text displayed when no service workers are visible for the current page. Clicking on the
+# link will open https://developer-mozilla-org/docs/Web/API/Service_Worker_API/Using_Service_Workers
+serviceworker-empty-intro = คุณต้องลงทะเบียนเวิร์กเกอร์บริการเพื่อตรวจสอบที่นี่ <a>เรียนรู้เพิ่มเติม</a>
+# Text displayed when there are no Service Workers to display for the current page,
+# introducing hints to debug Service Worker issues.
+serviceworker-empty-suggestions = ถ้าหน้าปัจจุบันควรมีเวิร์กเกอร์บริการ ต่อไปนี้คือบางสิ่งที่คุณสามารถลองทำได้
+# Suggestion to check for errors in the Console to investigate why a service worker is not
+# registered. Clicking on the link opens the webconsole.
+serviceworker-empty-suggestions-console = มองหาข้อผิดพลาดในคอนโซล <a>เปิดคอนโซล</a>
+# Suggestion to use the debugger to investigate why a service worker is not registered.
+# Clicking on the link will switch from the Application panel to the debugger.
+serviceworker-empty-suggestions-debugger = ลงทะเบียนเวิร์กเกอร์บริการของคุณตามขั้นตอนที่กำหนดและมองหาข้อยกเว้น <a>เปิดตัวดีบั๊ก</a>
+# Suggestion to go to about:debugging in order to see Service Workers for all domains.
+# Clicking on the link will open about:debugging in a new tab.
+serviceworker-empty-suggestions-aboutdebugging = ตรวจสอบเวิร์กเกอร์บริการจากโดเมนอื่น <a>เปิด about:debugging</a>

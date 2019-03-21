@@ -28,6 +28,7 @@
 
 <!ENTITY safeb.blocked.malwarePage.errorDesc.noOverride "<span id='malware_sitename'/> <a id='error_desc_link'>ถูกรายงานว่ามีซอฟต์แวร์ที่ประสงค์ร้าย</a> คุณสามารถ <a id='report_detection'>รายงานปัญหาการตรวจพบ</a>">
 
+<!ENTITY safeb.blocked.malwarePage.learnMore "เรียนรู้เพิ่มเติมเกี่ยวกับเนื้อหาเว็บที่เป็นอันตรายที่ประกอบด้วยไวรัสและมัลแวร์อื่น ๆ และวิธีปกป้องคอมพิวเตอร์ของคุณได้ที่ <a id='learn_more_link'>StopBadware.org</a> เรียนรู้เพิ่มเติมเกี่ยวกับระบบฟิชชิ่งและระบบป้องกันมัลแวร์ของ &brandShortName; ได้ที่ <a id='firefox_support'>support.mozilla.org</a>">
 
 
 <!ENTITY safeb.blocked.unwantedPage.title2 "ไซต์ข้างหน้าอาจมีโปรแกรมที่เป็นอันตราย">
@@ -39,6 +40,7 @@
 
 <!ENTITY safeb.blocked.unwantedPage.errorDesc.noOverride "<span id='unwanted_sitename'/> <a id='error_desc_link'>ถูกรายงานว่ามีซอฟต์แวร์ที่เป็นอันตราย</a>">
 
+<!ENTITY safeb.blocked.unwantedPage.learnMore "เรียนรู้เพิ่มเติมเกี่ยวกับซอฟต์แวร์ที่เป็นอันตรายและไม่ต้องการได้ที่ <a id='learn_more_link'>นโยบายซอฟต์แวร์ที่ไม่ต้องการ</a> เรียนรู้เพิ่มเติมเกี่ยวกับระบบฟิชชิ่งและระบบป้องกันมัลแวร์ได้ที่ <a id='firefox_support'>support.mozilla.org</a>">
 
 
 <!ENTITY safeb.blocked.phishingPage.title3 "ไซต์หลอกลวงข้างหน้า">
@@ -49,6 +51,7 @@
 
 <!ENTITY safeb.blocked.phishingPage.errorDesc.noOverride "<span id='phishing_sitename'/> <a id='error_desc_link'>ถูกรายงานว่าเป็นไซต์หลอกลวง</a> คุณสามารถ <a id='report_detection'>รายงานปัญหาการตรวจพบ</a>">
 
+<!ENTITY safeb.blocked.phishingPage.learnMore "เรียนรู้เพิ่มเติมเกี่ยวกับไซต์หลอกลวงและระบบฟิชชิ่งได้ที่ <a id='learn_more_link'>www.antiphishing.org</a> เรียนรู้เพิ่มเติมเกี่ยวกับระบบฟิชชิ่งและระบบป้องกันมัลแวร์ของ &brandShortName; ได้ที่ <a id='firefox_support'>support.mozilla.org</a>">
 
 
 <!ENTITY safeb.blocked.harmfulPage.title "ไซต์ข้างหน้าอาจมีมัลแวร์">
@@ -59,3 +62,4 @@
 
 <!ENTITY safeb.blocked.harmfulPage.errorDesc.noOverride "<span id='harmful_sitename'/> <a id='error_desc_link'>ถูกรายงานว่ามีแอปพลิเคชันที่อาจเป็นอันตราย</a>">
 
+<!ENTITY safeb.blocked.harmfulPage.learnMore "เรียนรู้เพิ่มเติมเกี่ยวกับระบบฟิชชิ่งและระบบป้องก้นมัลแวร์ของ &brandShortName; ได้ที่ <a id='firefox_support'>support.mozilla.org</a>">
