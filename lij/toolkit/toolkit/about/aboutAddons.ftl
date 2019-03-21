@@ -244,5 +244,6 @@ go-back-button =
 remove-addon-button = Scancella
 disable-addon-button = Dizabilita
 enable-addon-button = Abilita
+expand-addon-button = Ciù inpostaçioin
 addons-enabled-heading = Ativou
 addons-disabled-heading = Dizativou
