@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+saved-logins =
+    .title = Gemte logins
 window-close =
     .key = w
 focus-search-shortcut =
@@ -11,9 +13,15 @@ focus-search-altshortcut =
 copy-username-cmd =
     .label = Kopier brugernavn
     .accesskey = o
+edit-username-cmd =
+    .label = Rediger brugernavn
+    .accesskey = d
 copy-password-cmd =
     .label = Kopier adgangskode
     .accesskey = K
+edit-password-cmd =
+    .label = Rediger adgangskode
+    .accesskey = e
 search-filter =
     .accesskey = S
     .placeholder = Søg
@@ -34,9 +42,18 @@ column-heading-times-used =
 remove =
     .label = Fjern
     .accesskey = F
+import =
+    .label = Importer…
+    .accesskey = I
 close-button =
     .label = Luk
     .accesskey = L
+show-passwords =
+    .label = Vis adgangskoder
+    .accesskey = d
+hide-passwords =
+    .label = Skjul adgangskoder
+    .accesskey = d
 logins-description-filtered = Følgende logins passer på din søgning:
 remove-all =
     .label = Fjern alle
