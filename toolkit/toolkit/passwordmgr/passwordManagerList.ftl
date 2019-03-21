@@ -1,0 +1,54 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+window-close =
+    .key = w
+focus-search-shortcut =
+    .key = f
+focus-search-altshortcut =
+    .key = k
+copy-username-cmd =
+    .label = Copiar il num d'utilisader
+    .accesskey = U
+copy-password-cmd =
+    .label = Copiar il pled-clav
+    .accesskey = C
+search-filter =
+    .accesskey = T
+    .placeholder = Tschertgar
+column-heading-site =
+    .label = Website
+column-heading-username =
+    .label = Num d'utilisader
+column-heading-password =
+    .label = Pled-clav
+column-heading-time-created =
+    .label = Emprima utilisaziun
+column-heading-time-last-used =
+    .label = Ultima utilisaziun
+column-heading-time-password-changed =
+    .label = Ultima midada
+column-heading-times-used =
+    .label = Dumber dad utilisaziuns
+remove =
+    .label = Allontanar
+    .accesskey = A
+close-button =
+    .label = Serrar
+    .accesskey = S
+show-passwords =
+    .label = Mussar ils pleds-clav
+    .accesskey = p
+hide-passwords =
+    .label = Zuppentar ils pleds-clav
+    .accesskey = p
+remove-all =
+    .label = Allontanar tut
+    .accesskey = A
+remove-all-shown =
+    .label = Allontanar tut ils mussads
+    .accesskey = A
+remove-all-passwords-prompt = Duain propi tut ils pleds-clav memorisads vegnir stizzads?
+remove-all-passwords-title = Stizzar tut ils pleds-clav
+no-master-password-prompt = Vuls ti propi laschar mussar tes pleds-clav?
