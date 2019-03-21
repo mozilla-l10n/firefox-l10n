@@ -9,33 +9,62 @@
 
 <!-- Entities for Account Type page -->
 
+<!ENTITY accountSetupInfo2.label "คุณต้องตั้งค่าบัญชีก่อนจึงจะสามารถรับข้อความได้">
+<!ENTITY accountTypeTitle.label "การตั้งค่าบัญชีใหม่">
+<!ENTITY accountTypeDesc2.label "ตัวช่วยสร้างนี้จะรวบรวมข้อมูลที่จำเป็นเพื่อใช้ตั้งค่าบัญชี หากคุณไม่รู้ข้อมูลที่ถามไว้ โปรดติดต่อผู้ดูแลระบบหรือผู้ให้บริการอินเทอร์เน็ตของคุณ">
+<!ENTITY accountTypeDirections.label "เลือกประเภทบัญชีที่คุณต้องการตั้งค่า:">
+<!ENTITY accountTypeMail.label "บัญชีอีเมล">
+<!ENTITY accountTypeNews.label "บัญชีกลุ่มข่าว">
 <!-- LOCALIZATION NOTE(accountTypeMovemail.label): do not translate 'Movemail' -->
+<!ENTITY accountTypeMovemail.label "Unix Mailspool (Movemail)">
 
 <!-- Entities for Identity page -->
 
+<!ENTITY identityTitle.label "ข้อมูลประจำตัว">
+<!ENTITY identityDesc.label "แต่ละบัญชีจะมีข้อมูลประจำตัว ซึ่งเป็นข้อมูลที่ระบุตัวตนคุณแก่ผู้อื่นเมื่อพวกเขาได้รับข้อความจากคุณ">
 
 <!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
+<!ENTITY fullnameDesc.label "ป้อนชื่อที่คุณต้องการให้ปรากฏในช่อง &quot;จาก&quot; ของข้อความขาออกของคุณ">
 <!-- LOCALIZATION NOTE (fullnameExample.label) : use following directions for below line
   1, do not translate two of "&quot;"
   2, Use localized full name instead of "John Smith"
 -->
+<!ENTITY fullnameExample.label "(ตัวอย่างเช่น &quot;John Smith&quot;)">
+<!ENTITY fullnameLabel.label "ชื่อของคุณ:">
 
+<!ENTITY emailLabel.label "ที่อยู่อีเมล:">
 
 <!-- Entities for Incoming Server page -->
 
+<!ENTITY incomingTitle.label "ข้อมูลเซิร์ฟเวอร์ขาเข้า">
+<!ENTITY incomingServerTypeDesc.label "เลือกประเภทเซิร์ฟเวอร์ขาเข้าที่คุณกำลังใช้">
 <!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
+<!ENTITY imapType.label "IMAP">
 <!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
+<!ENTITY popType.label "POP">
+<!ENTITY leaveMsgsOnSrvr.label "ฝากข้อความไว้บนเซิร์ฟเวอร์">
+<!ENTITY portNum.label "พอร์ต:">
+<!ENTITY defaultPortLabel.label "ค่าเริ่มต้น:">
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
+<!ENTITY incomingServer.description "ป้อนชื่อเซิร์ฟเวอร์ขาเข้าของคุณ (ตัวอย่างเช่น &quot;mail.example.net&quot;)">
+<!ENTITY incomingServer.label "เซิร์ฟเวอร์ขาเข้า:">
 <!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
+<!ENTITY incomingUsername.label "ชื่อผู้ใช้:">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
+<!ENTITY newsServerLabel.label "เซิร์ฟเวอร์กลุ่มข่าว:">
 
 <!-- Entities for Outgoing Server page -->
 
+<!ENTITY outgoingTitle.label "ข้อมูลเซิร์ฟเวอร์ขาออก">
 <!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
+<!ENTITY outgoingServer.description "ป้อนชื่อเซิร์ฟเวอร์ขาออกของคุณ (SMTP) (ตัวอย่างเช่น &quot;smtp.example.net&quot;)">
+<!ENTITY outgoingServer.label "เซิร์ฟเวอร์ขาออก:">
+<!ENTITY outgoingUsername.label "ชื่อผู้ใช้ขาออก:">
 
 <!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
      haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
 -->
+<!ENTITY modifyOutgoing.suffix "คุณสามารถเปลี่ยนเซิร์ฟเวอร์ขาออกได้ในการตั้งค่าบัญชี">
 <!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp1.suffix3, if required grammatically.
@@ -51,7 +80,11 @@
 
 <!-- Entities for Account name page -->
 
+<!ENTITY accnameTitle.label "ชื่อบัญชี">
 <!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
+<!ENTITY accnameLabel.label "ชื่อบัญชี:">
 
 <!-- Entities for Done (Congratulations) page -->
 
+<!ENTITY completionTitle.label "ยินดีด้วย!">
+<!ENTITY completionText.label "โปรดยืนยันว่าข้อมูลด้านล่างถูกต้อง">

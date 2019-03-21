@@ -5,3 +5,6 @@
 <!-- Window title -->
 <!ENTITY windowTitle.label "เลือกการเปลี่ยนแปลงการแก้ไข">
 <!ENTITY conflictWarning.label "หน้านี้ถูกเปลี่ยนแปลงด้วยโปรแกรมอื่น แต่คุณยังมีการเปลี่ยนแปลงที่ยังไม่ได้บันทึกในตัวเขียน">
+<!ENTITY conflictResolve.label "เลือกรุ่นที่จะเก็บ:">
+<!ENTITY keepCurrentPageButton.label "เก็บการเปลี่ยนแปลงหน้าปัจจุบัน">
+<!ENTITY useOtherPageButton.label "แทนที่หน้าปัจจุบันด้วยการเปลี่ยนแปลงอื่น ๆ">

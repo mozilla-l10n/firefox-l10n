@@ -1,0 +1,23 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- Smiley Menu items -->
+<!ENTITY insertSmiley.label "สัญลักษณ์หน้ายิ้ม">
+
+<!ENTITY smiley1Cmd.label "หน้ายิ้ม">
+<!ENTITY smiley2Cmd.label "หน้าขมวดคิ้ว">
+<!ENTITY smiley3Cmd.label "หน้าขยิบตา">
+<!ENTITY smiley4Cmd.label "หน้าแลบลิ้น">
+<!ENTITY smiley5Cmd.label "หน้าหัวเราะ">
+<!ENTITY smiley6Cmd.label "หน้ายิ้มเขิน">
+<!ENTITY smiley7Cmd.label "หน้าลังเล">
+<!ENTITY smiley8Cmd.label "หน้าประหลาดใจ">
+<!ENTITY smiley9Cmd.label "หน้าจูบ">
+<!ENTITY smiley10Cmd.label "หน้าตะโกน">
+<!ENTITY smiley11Cmd.label "หน้าเท่">
+<!ENTITY smiley12Cmd.label "หน้ามีปากรูปเงิน">
+<!ENTITY smiley13Cmd.label "หน้าพลั้งปาก">
+<!ENTITY smiley14Cmd.label "หน้าบริสุทธิ์">
+<!ENTITY smiley15Cmd.label "หน้าร้องไห้">
+<!ENTITY smiley16Cmd.label "หน้าปิดปากสนิท">

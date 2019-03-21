@@ -18,3 +18,4 @@
 <!ENTITY  composerEditing.label         "การแก้ไข">
 <!ENTITY  maintainStructure.label       "รักษาเค้าโครงตารางเมื่อแทรกหรือลบเซลล์">
 <!ENTITY  maintainStructure.tooltip     "รักษารูปทรงสี่เหลี่ยมของตารางโดยเพิ่มเซลล์โดยอัตโนมัติหลังจากแทรกหรือลบเซลล์">
+<!ENTITY  useCSS.label                  "ใช้สไตล์ CSS แทนองค์ประกอบและแอตทริบิวต์ HTML">
