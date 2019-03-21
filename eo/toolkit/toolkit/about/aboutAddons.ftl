@@ -250,5 +250,6 @@ go-back-button =
 remove-addon-button = Forigi
 disable-addon-button = Malaktivigi
 enable-addon-button = Aktivigi
+expand-addon-button = Pli da elektebloj
 addons-enabled-heading = Aktiva
 addons-disabled-heading = Malaktiva
