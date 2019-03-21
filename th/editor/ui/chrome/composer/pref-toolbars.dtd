@@ -4,6 +4,7 @@
 
 <!ENTITY pref.toolbars.title    "แถบเครื่องมือ">
 
+<!ENTITY composition.caption    "แสดงปุ่มเหล่านี้ในแถบเครื่องมือการเขียน:">
 
 <!ENTITY new.label              "ใหม่">
 <!ENTITY open.label             "เปิด">
@@ -19,14 +20,20 @@
 <!ENTITY hline.label            "เส้นแนวนอน">
 <!ENTITY table.label            "ตาราง">
 <!ENTITY link.label             "ลิงก์">
+<!ENTITY anchor.label           "จุดยึด">
 
+<!ENTITY formatting.caption     "แสดงปุ่มเหล่านี้ในแถบเครื่องมือการจัดรูปแบบ:">
 
 <!ENTITY smaller.label          "เล็กลง">
 <!ENTITY larger.label           "ใหญ่ขึ้น">
 <!ENTITY bold.label             "ตัวหนา">
+<!ENTITY bullets.label          "สัญลักษณ์แสดงหัวข้อย่อย">
 <!ENTITY numbers.label          "ตัวเลข">
 <!ENTITY italic.label           "ตัวเอียง">
 <!ENTITY outdent.label          "เยื้องออก">
 <!ENTITY indent.label           "เยื้องเข้า">
 <!ENTITY underline.label        "ขีดเส้นใต้">
 
+<!ENTITY absolutePosition.label "การชี้ตำแหน่งแบบสัมบูรณ์">
+<!ENTITY decreaseZIndex.label   "ส่งไปข้างหลัง">
+<!ENTITY increaseZIndex.label   "นำมาข้างหน้า">

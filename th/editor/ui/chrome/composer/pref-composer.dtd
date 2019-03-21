@@ -9,4 +9,12 @@
 <!--LOCALIZATION NOTE (pref.composer.title): DONT_TRANSLATE -->
 <!ENTITY  pref.composer.title           "Composer">
 <!ENTITY  recentFiles.title             "เมนูหน้าล่าสุด">
+<!ENTITY  documentsInMenu.label         "จำนวนหน้าสูงสุดที่จะแสดงในรายการ:">
 <!ENTITY  savingFiles.title             "เมื่อบันทึกหรือเผยแพร่หน้า">
+<!ENTITY  preserveExisting.label        "รักษาการจัดรูปแบบดั้งเดิม">
+<!ENTITY  preserveExisting.tooltip      "รักษาการแบ่งบรรทัดและการจัดรูปแบบดั้งเดิมของหน้า">
+<!ENTITY  saveAssociatedFiles.label     "บันทึกภาพและไฟล์ที่เชื่อมโยงกันอื่นๆ เมื่อบันทึกหน้า">
+<!ENTITY  showPublishDialog.label       "แสดงกล่องโต้ตอบ เผยแพร่ เมื่อเผยแพร่หน้าเสมอ">
+<!ENTITY  composerEditing.label         "การแก้ไข">
+<!ENTITY  maintainStructure.label       "รักษาเค้าโครงตารางเมื่อแทรกหรือลบเซลล์">
+<!ENTITY  maintainStructure.tooltip     "รักษารูปทรงสี่เหลี่ยมของตารางโดยเพิ่มเซลล์โดยอัตโนมัติหลังจากแทรกหรือลบเซลล์">
