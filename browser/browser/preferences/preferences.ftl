@@ -684,6 +684,7 @@ content-blocking-warning-title = Sjå opp!
 content-blocking-warning-desc = Blokkering av infokapslar og sporfølgjarar kan føre til at nokre nettsider sluttar å fungere. Det er enkelt å deaktivere blokkering for nettsider du stolar på.
 content-blocking-warning-description = Blokkering av innhald kan føre til at nokre nettstadar sluttar å fungere. Det er enkelt å deaktivere blokkering for nettstadar du stolar på.
 content-blocking-learn-how = Finn ut korleis
+content-blocking-reload-description = Du må oppdatere fanene dine for å kunne bruke desse endringane.
 content-blocking-reload-tabs-button =
     .label = Oppdater alle faner
     .accesskey = O

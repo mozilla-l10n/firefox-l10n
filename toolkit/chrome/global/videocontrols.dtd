@@ -10,7 +10,6 @@
 <!ENTITY fullscreenButton.exitfullscreenlabel "Avslutt fullskjerm">
 <!ENTITY castingButton.castingLabel "Cast til skjerm">
 <!ENTITY closedCaption.off "Av">
-
 <!-- LOCALIZATION NOTE (volumeScrubber.label): This label is exposed to
      accessibility software to clarify what the slider is for. -->
 <!ENTITY volumeScrubber.label "Volumkontroll">
@@ -34,6 +33,8 @@
 <!ENTITY error.srcNotSupported "Videoformat eller MIME-type er ikkje støtta.">
 <!ENTITY error.noSource2 "Ingen video med eit støtta format eller MIME-type funne.">
 <!ENTITY error.generic "Videoavspeling avbroten på grunn av ukjend feil.">
+
+<!ENTITY status.pictureInPicture "Denne videoen vert spela av i Picture-in-Picture-modus.">
 
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
