@@ -71,3 +71,5 @@ remove-all-shown =
 remove-all-passwords-prompt = Duain propi tut ils pleds-clav memorisads vegnir stizzads?
 remove-all-passwords-title = Stizzar tut ils pleds-clav
 no-master-password-prompt = Vuls ti propi laschar mussar tes pleds-clav?
+auto-fill-logins-and-passwords =
+    .label = Emplenir automaticamain infurmaziuns d'annunzia
