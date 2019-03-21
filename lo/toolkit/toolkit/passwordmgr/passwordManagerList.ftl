@@ -54,6 +54,7 @@ show-passwords =
 hide-passwords =
     .label = ເຊື່ອງລະຫັດຜ່າານ
     .accesskey = P​
+logins-description-all = ເຂົ້າສູ່ລະບົບສໍາລັບການຕິດຕາມເວັບໄຊຕ໌ແມ່ນຖືກຈັດເກັບໄວ້ໃນຄອມພິວເຕີຂອງທ່ານ
 logins-description-filtered = ການເຂົ້າສູ່ລະບົບດັ່ງຕໍ່ໄປນີ້ກົງກັບທີ່ທ່ານຄົ້ນຫາ:
 remove-all =
     .label = ລົບອອກທັງໝົດ
