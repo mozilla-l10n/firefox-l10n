@@ -54,9 +54,53 @@ about-debugging-setup-title = Ñembosako’i
 about-debugging-setup-connect-heading = Embojuaju peteĩ mba'e'oka
 # USB section of the Setup page
 about-debugging-setup-usb-title = USB
+# Text of the button displayed in the USB section of the setup page when USB debugging is disabled.
+# Clicking on it will download components needed to debug USB Devices remotely.
+about-debugging-setup-usb-enable-button = Embojuruja USB mba’e’oka
+# Text of the button displayed in the USB section of the setup page when USB debugging is enabled.
+about-debugging-setup-usb-disable-button = Eipe’a USB mba’e’oka
+# Text of the button displayed in the USB section of the setup page while USB debugging
+# components are downloaded and installed.
+about-debugging-setup-usb-updating-button = Hekopyahuhína...
+# USB section of the Setup page (USB status)
+about-debugging-setup-usb-status-enabled = Jurujapyre
+about-debugging-setup-usb-status-disabled = Pe'apyre
+about-debugging-setup-usb-status-updating = Hekopyahuhína...
+# Network section of the Setup page
+about-debugging-setup-network =
+    .title = Ñanduti rendaite
+# Text of a button displayed after the network locations "Host" input.
+# Clicking on it will add the new network location to the list.
+about-debugging-network-locations-add-button = Mbojuaju
+# Text to display when there are no locations to show.
+about-debugging-network-locations-empty-text = Noñembojuajúi gueteri ñanduti rendaite.
+# Text of the label for the text input that allows users to add new network locations in
+# the Connect page. A host is a hostname and a port separated by a colon, as suggested by
+# the input's placeholder "localhost:6080".
+about-debugging-network-locations-host-input-label = Tendaygua
+# Text of a button displayed next to existing network locations in the Connect page.
+# Clicking on it removes the network location from the list.
+about-debugging-network-locations-remove-button = Hekýi
 
 # Runtime Page strings
 
+# Below are the titles for the various categories of debug targets that can be found
+# on "runtime" pages of about:debugging.
+# Title of the temporary extensions category (only available for "This Firefox" runtime).
+about-debugging-runtime-temporary-extensions =
+    .name = Jepysokue sapy’agua
+# Title of the extensions category.
+about-debugging-runtime-extensions =
+    .name = Jepysokue
+# Title of the tabs category.
+about-debugging-runtime-tabs =
+    .name = Tendayke
+# Title of the service workers category.
+about-debugging-runtime-service-workers =
+    .name = Mba'apohára mba'epytyvõrãguáva
+# Title of the shared workers category.
+about-debugging-runtime-shared-workers =
+    .name = Mba'apohára oñondiveguáva
 
 # Debug Targets strings
 
