@@ -2,15 +2,23 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+saved-logins =
+    .title = සුරැකි පිවිසුම්
 window-close =
     .key = w
 focus-search-shortcut =
     .key = f
 focus-search-altshortcut =
     .key = k
+edit-username-cmd =
+    .label = පරිශීලක නම සකසන්න
+    .accesskey = d
 copy-password-cmd =
     .label = රහස්පදය පිටපත් කරන්න
     .accesskey = C
+edit-password-cmd =
+    .label = මුරපදය සකසන්න
+    .accesskey = E
 column-heading-site =
     .label = අඩවිය
 column-heading-username =
@@ -34,5 +42,13 @@ import =
 close-button =
     .label = වසන්න
     .accesskey = C
+show-passwords =
+    .label = මුරපද පෙන්වන්න
+    .accesskey = P
+hide-passwords =
+    .label = මුරපද සඟවන්න
+    .accesskey = P
+logins-description-filtered = පහත පිවිසුම් ඔබේ සෙවුම හා ගැළපේ:
 remove-all-passwords-prompt = ඔබට විශ්වාසද, ඔබගේ රහස්පද සියල්ල ඉවත් කිරීම කරන්නඅවශ්‍යද?
 remove-all-passwords-title = සියලු රහස්පද ඉවත් කරන්න
+no-master-password-prompt = ඔබට ඔබේ මුරපද දර්ශණයට අවශ්‍ය බව විශ්වාසද?
