@@ -215,6 +215,28 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenExit.label "სრულეკრანიანი რეჟიმიდან გამოსვლა">
 <!ENTITY fullScreenExit.accesskey "ს">
 
+ <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
+     for the Firefox Account toolbar signin menu screen. -->
+<!ENTITY fxa.signin.callout.label "თან წაიყოლეთ Firefox">
+<!ENTITY fxa.signin.description.label "მიიღეთ წვდომა თქვენს სანიშნებთან, ისტორიასთან, პაროლებსა და სხვა პარამეტრებთან, ყველა თქვენს მოწყობილობაზე.">
+<!ENTITY fxa.signin.button.label "ჩართეთ &syncBrand.shortName.label;…">
+
+<!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
+     for the Firefox Account toolbar unverified menu screen. -->
+<!ENTITY fxa.unverified.callout.label "შეამოწმეთ თქვენი ელფოსტა">
+<!ENTITY fxa.unverified.description.label "ჯერ საჭიროა ანგარიშის დამოწმება, სინქრონიზაციის დასაწყებად.">
+<!ENTITY fxa.unverified.button.label "გახსენით &syncBrand.shortName.label; – პარამეტრები…">
+
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbart menu screen. The `Signed in as` text is
+     followed by the user's email. -->
+<!ENTITY fxa.menu.signedInAs.label "შესული, როგორც">
+<!ENTITY fxa.menu.manageAccount.label "ანგარიშის მართვა…">
+<!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label; – პარამეტრები…">
+<!ENTITY fxa.menu.connectAnotherDevice.label "&syncedTabs.sidebar.connectAnotherDevice;">
+<!ENTITY fxa.menu.connectAnotherDevice2.label "სხვა მოწყობილობის დაკავშირება…">
+<!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
+
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring fullscreen.
@@ -409,6 +431,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmd2.accesskey     "პ">
 <!ENTITY preferencesCmdUnix.label       "პარამეტრები">
 <!ENTITY preferencesCmdUnix.accesskey     "ტ">
+
+<!ENTITY logins.label                           "ანგარიშები და პაროლები">
 
 <!ENTITY clearRecentHistory.label               "უახლესი ისტორიის გასუფთავება...">
 
@@ -932,6 +956,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncSignIn.label             "&syncBrand.shortName.label; – შესვლა…">
 <!ENTITY syncSignIn.accesskey         "შ">
 <!ENTITY syncSyncNowItem.label        "დასინქრონება ახლავე">
+<!ENTITY syncSyncNowItemSyncing.label "სინქრონდება…">
 <!ENTITY syncSyncNowItem.accesskey    "ს">
 <!ENTITY syncReAuthItem.label         "&syncBrand.shortName.label; – ხელახლა დაკავშირება…">
 <!ENTITY syncReAuthItem.accesskey     "ხ">
@@ -1134,8 +1159,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "მართეთ თქვენი დამატებები <image class='addon-addon-icon'/> ხატულაზე დაწკაპებით, <image class='addon-toolbar-icon'/> მენიუში.">
-<!ENTITY addonPostInstall.incognito.label "დაშვება ამ გაფართოების, პირად ფანჯრებში.">
-<!ENTITY addonPostInstall.incognito.accesskey "ნ">
+<!ENTITY addonPostInstall.incognito.checkbox.label "დაშვება ამ გაფართოების, პირად ფანჯრებში">
+<!ENTITY addonPostInstall.incognito.checkbox.accesskey "დ">
 
 <!ENTITY addonPrivateBrowsing.header2.label "გაფართოებების გამოყენება პირად ფანჯრებში">
 <!ENTITY addonPrivateBrowsing.body2.label "ახლად დაყენებულ გაფართოებებს &brandShorterName; არ გაუშვებს პირად ფანჯრებში, სანამ თქვენ არ დაუშვებთ პარამეტრებიდან.">
