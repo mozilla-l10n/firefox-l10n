@@ -23,3 +23,5 @@ remove =
 close-button =
     .label = ಮುಚ್ಚು
     .accesskey = C
+remove-all-passwords-prompt = ಎಲ್ಲಾ ಗುಪ್ತಪದಗಳನ್ನೂ ತೆಗೆದುಹಾಕಲು ನೀವು ಖಚಿತವಾಗಿಯೂ ಬಯಸುತ್ತೀರ?
+remove-all-passwords-title = ಎಲ್ಲಾ ಗುಪ್ತಗಳನ್ನು ತೆಗೆದು ಹಾಕು
