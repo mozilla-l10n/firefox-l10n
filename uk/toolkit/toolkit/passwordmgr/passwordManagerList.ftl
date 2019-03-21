@@ -60,6 +60,7 @@ show-passwords =
 hide-passwords =
     .label = Приховати паролі
     .accesskey = х
+logins-description-all = На вашому комп'ютері збережено паролі для таких сайтів
 logins-description-filtered = Пошуку відповідають наступні паролі:
 remove-all =
     .label = Видалити все
