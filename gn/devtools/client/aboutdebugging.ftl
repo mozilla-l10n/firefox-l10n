@@ -101,6 +101,36 @@ about-debugging-runtime-service-workers =
 # Title of the shared workers category.
 about-debugging-runtime-shared-workers =
     .name = Mba'apohára oñondiveguáva
+# Title of the other workers category.
+about-debugging-runtime-other-workers =
+    .name = Ambue mba'apohára
+# Displayed for runtime info in runtime pages.
+# { $name } is brand name such as "Firefox Nightly"
+# { $version } is version such as "64.0a1"
+about-debugging-runtime-name = { $name } ({ $version })
 
 # Debug Targets strings
 
+# Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
+# Clicking on the button will reload the extension.
+about-debugging-tmp-extension-reload-button = Myanyhẽjey
+# Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
+# Clicking on the button will uninstall the extension and remove it from the page.
+about-debugging-tmp-extension-remove-button = Hekýi
+# Text displayed for extensions (temporary extensions only) in "runtime" pages, before
+# displaying the location of the temporary extension.
+about-debugging-extension-location =
+    .label = Tendaite
+# Text displayed for extensions in "runtime" pages, before displaying the extension's ID.
+# For instance "geckoprofiler@mozilla.com" or "{ed26ddcb-5611-4512-a89a-51b8db81cfb2}".
+about-debugging-extension-id =
+    .label = ID jepysokue
+# This string is displayed as a label of the button that pushes a test payload
+# to a service worker.
+# Notes, this relates to the "Push" API, which is normally not localized so it is
+# probably better to not localize it.
+about-debugging-worker-action-push = Myaña
+# This string is displayed as a label of the button that starts a service worker.
+about-debugging-worker-action-start = Ñepyrũ
+# This string is displayed as a label of the button that unregisters a service worker.
+about-debugging-worker-action-unregister = Jehaipy ñembogue
