@@ -42,6 +42,10 @@ about-debugging-sidebar-item-connect-button = Ligar
 # Temporary text displayed in sidebar items representing remote runtimes after
 # successfully connecting to them. Temporary UI, do not localize.
 about-debugging-sidebar-item-connected-label = Ligado
+# Text displayed in sidebar items for remote devices where a compatible runtime (eg
+# Firefox) has not been detected yet. Typically, Android phones connected via USB with
+# USB debugging enabled, but where Firefox is not started.
+about-debugging-sidebar-runtime-item-waiting-for-runtime = A aguardar pelo runtime...
 # Title for runtime sidebar items that are related to a specific device (USB, WiFi).
 about-debugging-sidebar-runtime-item-name =
     .title = { $displayName } ({ $deviceName })
@@ -57,10 +61,19 @@ about-debugging-refresh-usb-devices-button = Atualizar dispositivos
 
 # Title of the Setup page.
 about-debugging-setup-title = Configuração
+# Introduction text in the Setup page to explain how to configure remote debugging.
+about-debugging-setup-intro = Configure o método de ligação com o qual deseja depurar remotamente o seu dispositivo.
+# Link displayed in the Setup page that leads to MDN page with list of supported devices.
+# Temporarily leads to https://support.mozilla.org/en-US/kb/will-firefox-work-my-mobile-device#w_android-devices
+about-debugging-setup-link-android-devices = Ver lista de dispositivos Android suportados
+# Explanatory text in the Setup page about what the 'This Firefox' page is for
+about-debugging-setup-this-firefox = Utilize <a>{ about-debugging-this-firefox-runtime-name }</a> para depurar separadores, extensões e service works nesta versão do { -brand-shorter-name }.
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = Ligue um dispositivo
 # USB section of the Setup page
 about-debugging-setup-usb-title = USB
+# Explanatory text displayed in the Setup page when USB debugging is disabled
+about-debugging-setup-usb-disabled = Ativar isto irá transferir e adicionar os componentes de depuração Android USB para o { -brand-shorter-name }.
 # Text of the button displayed in the USB section of the setup page when USB debugging is disabled.
 # Clicking on it will download components needed to debug USB Devices remotely.
 about-debugging-setup-usb-enable-button = Ativar dispositivos USB
@@ -122,6 +135,32 @@ about-debugging-runtime-other-workers =
 # Title of the processes category.
 about-debugging-runtime-processes =
     .name = Processos
+# Label of the button opening the performance profiler panel in runtime pages for remote
+# runtimes.
+about-debugging-runtime-profile-button = Perfil de runtime
+# This string is displayed in the runtime page if the current configuration of the
+# target runtime is incompatible with service workers. "Learn more" points to MDN.
+# https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
+about-debugging-runtime-service-workers-not-compatible = A configuração do seu navegador não é compatível com Service Workers. <a>Saber mais</a>
+# This string is displayed in the runtime page if the remote runtime version is too old.
+# "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/WebIDE/Troubleshooting
+# { $runtimeVersion } is the version of the remote runtime (for instance "67.0a1")
+# { $minVersion } is the minimum version that is compatible with the current Firefox instance (same format)
+about-debugging-runtime-version-too-old = O runtime ligado tem uma versão antiga ({ $runtimeVersion }). A versão mínima suportada é ({ $minVersion }). Isto é uma configuração não suportada e pode causar com que as DevTools falhem. Por favor atualize o runtime ligado. <a>Resolução de problemas</a>
+# Dedicated message for a backward compatibility issue that occurs when connecting:
+# - from Fx 67 to 66 or to 65
+# - from Fx 68 to 66
+# Those are normally in range for DevTools compatibility policy, but specific non
+# backward compatible changes broke the debugger in those scenarios (Bug 1528219).
+# { $runtimeVersion } is the version of the remote runtime (for instance "67.0a1")
+about-debugging-runtime-version-too-old-67-debugger = O painel Depurador pode não funcionar com o runtime ligado. Por favor utilize o Firefox { $runtimeVersion } se precisar de utilizar o Depurador com este runtime.
+# This string is displayed in the runtime page if the remote runtime version is too recent.
+# "Troubleshooting" link points to https://developer.mozilla.org/en-US/docs/Tools/WebIDE/Troubleshooting
+# { $runtimeID } is the build ID of the remote runtime (for instance "20181231", format is yyyyMMdd)
+# { $localID } is the build ID of the current Firefox instance (same format)
+# { $runtimeVersion } is the version of the remote runtime (for instance "67.0a1")
+# { $localVersion } is the version of your current runtime (same format)
+about-debugging-runtime-version-too-recent = O runtime ligado é mais recente ({ $runtimeVersion }, buildID { $runtimeID }) do que a sua versão do { -brand-shorter-name }  ({ $localVersion }, buildID { $localID }). A versão mínima suportada é ({ $minVersion }). Isto é uma configuração não suportada e pode causar com que as DevTools falhem. Por favor atualize o Firefox. <a>Resolução de problemas</a>
 # Displayed for runtime info in runtime pages.
 # { $name } is brand name such as "Firefox Nightly"
 # { $version } is version such as "64.0a1"
@@ -129,6 +168,19 @@ about-debugging-runtime-name = { $name } ({ $version })
 # Text of a button displayed in Runtime pages for remote runtimes.
 # Clicking on the button will close the connection to the runtime.
 about-debugging-runtime-disconnect-button = Desligar
+# Text of the connection prompt button displayed in Runtime pages, when the preference
+# "devtools.debugger.prompt-connection" is false on the target runtime.
+about-debugging-connection-prompt-enable-button = Ativar solicitação de ligação
+# Text of the connection prompt button displayed in Runtime pages, when the preference
+# "devtools.debugger.prompt-connection" is true on the target runtime.
+about-debugging-connection-prompt-disable-button = Desativar solicitação de ligação
+# Title of a modal dialog displayed on remote runtime pages after clicking on the Profile Runtime button.
+about-debugging-profiler-dialog-title = Perfilador de desempenho
+# Label of a checkbox displayed in the runtime page for "This Firefox".
+# This checkbox will toggle preferences that enable local addon debugging.
+# The "Learn more" link points to MDN.
+# https://developer.mozilla.org/docs/Tools/about:debugging#Enabling_add-on_debugging
+about-debugging-extension-debug-setting-label = Ative a depuração de extensões. <a>Saber mais</a>
 # Clicking on the header of a debug target category will expand or collapse the debug
 # target items in the category. This text is used as ’title’ attribute of the header,
 # to describe this feature.
@@ -154,6 +206,13 @@ about-debugging-tmp-extension-reload-button = Recarregar
 # Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
 # Clicking on the button will uninstall the extension and remove it from the page.
 about-debugging-tmp-extension-remove-button = Remover
+# Message displayed in the file picker that opens to select a temporary extension to load
+# (triggered by the button using "about-debugging-tmp-extension-install-button")
+# manifest.json .xpi and .zip should not be localized.
+# Note: this message is only displayed in Windows and Linux platforms.
+about-debugging-tmp-extension-install-message = Selecione o ficheiro manifest.json ou arquivo .xpi/.zip
+# This string is displayed as a message about the add-on having a temporaryID.
+about-debugging-tmp-extension-temporary-id = Este WebExtension tem um ID temporário. <a>Saber mais</a>
 # Text displayed for extensions in "runtime" pages, before displaying a link the extension's
 # manifest URL.
 about-debugging-extension-manifest-url =
