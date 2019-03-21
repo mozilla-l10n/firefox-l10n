@@ -230,6 +230,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbart menu screen. The `Signed in as` text is
      followed by the user's email. -->
+<!ENTITY fxa.menu.syncSettings.label "Налады &syncBrand.shortName.label;…">
+<!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -426,6 +428,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.label       "Налады">
 <!ENTITY preferencesCmdUnix.accesskey     "л">
 
+<!ENTITY logins.label                           "Лагіны і паролі">
 
 <!ENTITY clearRecentHistory.label               "Ачысціць нядаўнюю гісторыю…">
 
@@ -949,6 +952,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncSignIn.label             "Увайсці ў &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "У">
 <!ENTITY syncSyncNowItem.label        "Сінхранізаваць зараз ">
+<!ENTITY syncSyncNowItemSyncing.label "Сінхранізацыя…">
 <!ENTITY syncSyncNowItem.accesskey    "С">
 <!ENTITY syncReAuthItem.label         "Перазлучыцца з &syncBrand.shortName.label;…">
 <!ENTITY syncReAuthItem.accesskey     "П">
