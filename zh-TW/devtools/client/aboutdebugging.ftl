@@ -61,13 +61,19 @@ about-debugging-refresh-usb-devices-button = 重新整理裝置
 
 # Title of the Setup page.
 about-debugging-setup-title = 設定
+# Introduction text in the Setup page to explain how to configure remote debugging.
+about-debugging-setup-intro = 設定要用哪種方式來從遠端對您的裝置除錯。
 # Link displayed in the Setup page that leads to MDN page with list of supported devices.
 # Temporarily leads to https://support.mozilla.org/en-US/kb/will-firefox-work-my-mobile-device#w_android-devices
 about-debugging-setup-link-android-devices = 檢視支援的 Android 裝置清單
+# Explanatory text in the Setup page about what the 'This Firefox' page is for
+about-debugging-setup-this-firefox = 於這個版本的 { -brand-shorter-name } 使用 <a>{ about-debugging-this-firefox-runtime-name }</a> 來對分頁、擴充套件與 Service Worker 除錯。
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = 連線到裝置
 # USB section of the Setup page
 about-debugging-setup-usb-title = USB
+# Explanatory text displayed in the Setup page when USB debugging is disabled
+about-debugging-setup-usb-disabled = 開啟此功能後，將會下載並安裝必需的 Android USB 除錯元件到 { -brand-shorter-name }。
 # Text of the button displayed in the USB section of the setup page when USB debugging is disabled.
 # Clicking on it will download components needed to debug USB Devices remotely.
 about-debugging-setup-usb-enable-button = 啟用 USB 裝置
@@ -80,6 +86,12 @@ about-debugging-setup-usb-updating-button = 更新中…
 about-debugging-setup-usb-status-enabled = 已啟用
 about-debugging-setup-usb-status-disabled = 已停用
 about-debugging-setup-usb-status-updating = 更新中…
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-dev-menu = 開啟 Android 裝置的開發者選單。<a>了解怎麼做</a>
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug = 於 Android 的開發者選單開啟 USB 除錯模式。<a>了解怎麼做</a>
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug-firefox = 於 Android 裝置上的 Firefox 開啟 USB 除錯模式。<a>了解怎麼做</a>
 # USB section step by step guide
 about-debugging-setup-usb-step-plug-device = 將 Android 裝置連線到您的電腦。
 # Network section of the Setup page
@@ -126,6 +138,29 @@ about-debugging-runtime-processes =
 # Label of the button opening the performance profiler panel in runtime pages for remote
 # runtimes.
 about-debugging-runtime-profile-button = 對 Runtime 進行 Profile
+# This string is displayed in the runtime page if the current configuration of the
+# target runtime is incompatible with service workers. "Learn more" points to MDN.
+# https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
+about-debugging-runtime-service-workers-not-compatible = 您瀏覽器的設定與 Service Worker 不相容。<a>了解更多資訊</a>
+# This string is displayed in the runtime page if the remote runtime version is too old.
+# "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/WebIDE/Troubleshooting
+# { $runtimeVersion } is the version of the remote runtime (for instance "67.0a1")
+# { $minVersion } is the minimum version that is compatible with the current Firefox instance (same format)
+about-debugging-runtime-version-too-old = 連結的 Runtime 使用的是舊版（{ $runtimeVersion }）。目前支援的最小版本為（{ $minVersion }）。不支援這種設定，可能會造成開發者工具發生錯誤，請更新連線的 Runtime。<a>點此進行疑難排解</a>
+# Dedicated message for a backward compatibility issue that occurs when connecting:
+# - from Fx 67 to 66 or to 65
+# - from Fx 68 to 66
+# Those are normally in range for DevTools compatibility policy, but specific non
+# backward compatible changes broke the debugger in those scenarios (Bug 1528219).
+# { $runtimeVersion } is the version of the remote runtime (for instance "67.0a1")
+about-debugging-runtime-version-too-old-67-debugger = 除錯器面板可能與連結的 Runtime 不相容。若需要對此 Runtime 除錯請改用 Firefox { $runtimeVersion }。
+# This string is displayed in the runtime page if the remote runtime version is too recent.
+# "Troubleshooting" link points to https://developer.mozilla.org/en-US/docs/Tools/WebIDE/Troubleshooting
+# { $runtimeID } is the build ID of the remote runtime (for instance "20181231", format is yyyyMMdd)
+# { $localID } is the build ID of the current Firefox instance (same format)
+# { $runtimeVersion } is the version of the remote runtime (for instance "67.0a1")
+# { $localVersion } is the version of your current runtime (same format)
+about-debugging-runtime-version-too-recent = 連結的 Runtime（版本 { $runtimeVersion }、buildID { $runtimeID }）比您的 { -brand-shorter-name }（{ $localVersion }、buildID { $localID }）還新。不支援這種設定，可能會造成開發者工具發生錯誤，請更新 Firefox。<a>點此進行疑難排解</a>
 # Displayed for runtime info in runtime pages.
 # { $name } is brand name such as "Firefox Nightly"
 # { $version } is version such as "64.0a1"
