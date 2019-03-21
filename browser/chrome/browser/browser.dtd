@@ -500,14 +500,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. -->
-<!ENTITY customizeMenu.addToOverflowMenu.label "Pśeběgowy meni pśidás">
+<!ENTITY customizeMenu.addToOverflowMenu.label "Woběžkowemu menijoju pśidás">
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "m">
 <!-- LOCALIZATION NOTE (customizeMenu.pinToOverflowMenu.accesskey)
      can appear on the same context menu as menubarCmd and personalbarCmd,
      so they should have different access keys.  -->
-<!ENTITY customizeMenu.pinToOverflowMenu.label "Pśeběgowy meni pśipěś">
+<!ENTITY customizeMenu.pinToOverflowMenu.label "K woběžkowemu menijoju pśipěś">
 <!ENTITY customizeMenu.pinToOverflowMenu.accesskey "P">
-<!ENTITY customizeMenu.unpinFromOverflowMenu.label "Pśeběgowy meni wótpěś">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.label "Z woběžkowego menija wótpěś">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "t">
 <!ENTITY customizeMenu.removeFromToolbar.label "Ze symboloweje rědki wótpóraś">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "Z">
@@ -961,7 +961,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "Z">
 <!ENTITY syncToolbarButton.label      "Sync">
 
-<!ENTITY customizeMode.menuAndToolbars.header3 "Śěgniśo swóje nejlubše zapiski do symboloweje rědki abo woběžkego menija.">
+<!ENTITY customizeMode.menuAndToolbars.header3 "Śěgniśo swóje nejlubše zapiski do symboloweje rědki abo woběžkowego menija.">
 <!ENTITY customizeMode.restoreDefaults "Standard wótnowiś">
 <!ENTITY customizeMode.done "Dokóńcony">
 <!ENTITY customizeMode.titlebar "Titelowa rědka">
