@@ -20,4 +20,5 @@ remove =
 close-button =
     .label = 關閉
     .accesskey = C
+remove-all-passwords-prompt = 您確定要刪除所有密碼嗎？
 remove-all-passwords-title = 刪除所有密碼
