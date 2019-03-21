@@ -2,24 +2,46 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+saved-logins =
+    .title = Acessi sarvæ
 window-close =
     .key = w
 focus-search-shortcut =
     .key = f
 focus-search-altshortcut =
     .key = k
+copy-username-cmd =
+    .label = Còpia nomme utente
+    .accesskey = u
+edit-username-cmd =
+    .label = Cangia nomme utente
+    .accesskey = g
 copy-password-cmd =
     .label = Còpia Paròlla segreta
     .accesskey = C
+edit-password-cmd =
+    .label = Cangia paròlla segreta
+    .accesskey = n
 column-heading-site =
     .label = Scito
 column-heading-username =
     .label = Nomme de l'utente
 column-heading-password =
     .label = Paròlla segreta
+column-heading-time-created =
+    .label = Primma vòtta
+column-heading-time-last-used =
+    .label = Urtima vòtta
+column-heading-time-password-changed =
+    .label = Urtimo cangiamento
+column-heading-times-used =
+    .label = Numero vòtte
 remove =
     .label = Scancella
     .accesskey = S
+import =
+    .label = Inpòrta…
+    .accesskey = I
 close-button =
     .label = Særa
     .accesskey = S
