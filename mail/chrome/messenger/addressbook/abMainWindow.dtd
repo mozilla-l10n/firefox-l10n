@@ -3,58 +3,161 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY addressbookWindow.title                        "สมุดรายชื่อ">
+<!ENTITY blankResultsPaneMessage.label                  "สมุดรายชื่อนี้แสดงผู้ติดต่อหลังจากการค้นหาเท่านั้น">
+<!ENTITY localResultsOnlyMessage.label                  "ผู้ติดต่อจากสมุดรายชื่อระยะไกลจะไม่แสดงจนกว่าคุณจะค้นหา">
 
 <!-- File Menu -->
+<!ENTITY fileMenu.label                                 "ไฟล์">
+<!ENTITY newMenu.label                                  "ใหม่">
+<!ENTITY newContact.label                               "ผู้ติดต่อของสมุดรายชื่อ…">
 <!ENTITY newContact.key                                 "N">
+<!ENTITY newListCmd.label                               "รายชื่อผู้รับจดหมาย…">
+<!ENTITY newAddressBookCmd.label                        "สมุดรายชื่อ…">
+<!ENTITY newLDAPDirectoryCmd.label                      "ไดเรกทอรี LDAP…">
+<!ENTITY newMessageCmd.label                            "ข้อความ">
 <!ENTITY newMessageCmd.key                              "M">
 <!-- LOCALIZATION NOTE (osxAddressBook) : These entities are only used on Mac -->
+<!ENTITY osxAddressBook.label                           "ใช้สมุดรายชื่อ Mac OS X">
+<!ENTITY closeCmd.label                                 "ปิด">
 <!ENTITY closeCmd.key                                   "W">
+<!ENTITY printSetupCmd.label                            "ตั้งค่าหน้ากระดาษ…">
+<!ENTITY printPreviewContactCmd.label                   "แสดงตัวอย่างผู้ติดต่อก่อนพิมพ์">
+<!ENTITY printPreviewAddressBook.label                  "แสดงตัวอย่างสมุดรายชื่อก่อนพิมพ์">
+<!ENTITY printContactCmd.label                          "พิมพ์ผู้ติดต่อ…">
 <!ENTITY printContactCmd.key                            "P">
+<!ENTITY printAddressBook.label                         "พิมพ์สมุดรายชื่อ…">
 
 <!-- Edit Menu -->
+<!ENTITY editMenu.label                                 "แก้ไข">
+<!ENTITY undoCmd.label                                  "เลิกทำ">
 <!ENTITY undoCmd.key                                    "Z">
+<!ENTITY redoCmd.label                                  "ทำซ้ำ">
 <!ENTITY redoCmd.key                                    "Y">
+<!ENTITY cutCmd.label                                   "ตัด">
 <!ENTITY cutCmd.key                                     "X">
+<!ENTITY copyCmd.label                                  "คัดลอก">
 <!ENTITY copyCmd.key                                    "C">
+<!ENTITY pasteCmd.label                                 "วาง">
 <!ENTITY pasteCmd.key                                   "V">
+<!ENTITY deleteCmd.label                                "ลบ">
+<!ENTITY deleteAbCmd.label                              "ลบสมุดรายชื่อ">
+<!ENTITY deleteContactCmd.label                         "ลบผู้ติดต่อ">
+<!ENTITY deleteContactsCmd.label                        "ลบผู้ติดต่อ">
+<!ENTITY deleteListCmd.label                            "ลบรายชื่อ">
+<!ENTITY deleteListsCmd.label                           "ลบรายชื่อ">
+<!ENTITY deleteItemsCmd.label                           "ลบรายการ">
+<!ENTITY selectAllCmd.label                             "เลือกทั้งหมด">
 <!ENTITY selectAllCmd.key                               "A">
 <!ENTITY searchAddressesCmd.key                         "f">
+<!ENTITY swapFirstNameLastNameCmd.label                 "สลับชื่อ/นามสกุล">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
+<!ENTITY propertiesMenu.label                           "คุณสมบัติ">
 <!ENTITY propertiesCmd.key                              "i">
+<!ENTITY abPropertiesMenu.label                         "คุณสมบัติสมุดรายชื่อ">
+<!ENTITY contactPropertiesMenu.label                    "คุณสมบัติผู้ติดต่อ">
+<!ENTITY mailingListPropertiesMenu.label                "คุณสมบัติรายชื่อผู้รับจดหมาย">
 
 <!-- View Menu -->
+<!ENTITY viewMenu.label                                 "มุมมอง">
+<!ENTITY viewToolbarsMenu.label                         "แถบเครื่องมือ">
+<!ENTITY menubarCmd.label                               "แถบเมนู">
+<!ENTITY showAbToolbarCmd.label                         "แถบเครื่องมือสมุดรายชื่อ">
+<!ENTITY showTaskbarCmd.label                           "แถบสถานะ">
+<!ENTITY customizeToolbar.label                         "ปรับแต่ง…">
+<!ENTITY layoutMenu.label                               "เค้าโครง">
+<!ENTITY showDirectoryPane.label                        "บานหน้าต่างไดเรกทอรี">
+<!ENTITY showContactPane2.label                         "บานหน้าต่างผู้ติดต่อ">
+<!ENTITY menu_ShowNameAs.label                          "แสดงชื่อเป็น">
 <!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
 because displayed names don't have the comma in between. -->
+<!ENTITY firstLastCmd2.label                            "ชื่อ นามสกุล">
+<!ENTITY lastFirstCmd.label                             "นามสกุล ชื่อ">
+<!ENTITY displayNameCmd.label                           "ชื่อที่แสดงผล">
+<!ENTITY sortMenu.label                                 "เรียงตาม">
 
 <!-- Tools Menu -->
+<!ENTITY tasksMenu.label                                "เครื่องมือ">
+<!ENTITY messengerCmd.label                             "จดหมายและกลุ่มข่าว">
+<!ENTITY addressBookCmd.label                           "สมุดรายชื่อ">
 <!ENTITY addressBookCmd.key                             "B">
+<!ENTITY searchAddressesCmd.label                       "ค้นหาที่อยู่…">
+<!ENTITY importCmd.label                                "นำเข้า…">
+<!ENTITY exportCmd.label                                "ส่งออก…">
+<!ENTITY preferencesCmd2.label                          "ตัวเลือก">
+<!ENTITY preferencesCmdUnix.label                       "ค่ากำหนด">
 
 <!-- Address Book Toolbar and Context Menus -->
+<!ENTITY newContactButton.label                         "ผู้ติดต่อใหม่">
+<!ENTITY newlistButton.label                            "รายชื่อใหม่">
+<!ENTITY showAsDefault.label                            "ไดเรกทอรีเริ่มต้นตามค่าเริ่มต้น">
+<!ENTITY editPropertiesButton.label                     "แก้ไข">
+<!ENTITY propertiesContext.label                        "คุณสมบัติ">
+<!ENTITY abPropertiesContext.label                      "คุณสมบัติ">
+<!ENTITY editContactContext.label                       "แก้ไขผู้ติดต่อ">
+<!ENTITY editMailingListContext.label                   "แก้ไขรายชื่อ">
+<!ENTITY newmsgButton.label                             "เขียน">
+<!ENTITY newIM.label                                    "ข้อความโต้ตอบแบบทันที">
+<!ENTITY printButton.label                              "พิมพ์…">
+<!ENTITY deleteButton2.label                            "ลบ">
 
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY newContactButton.tooltip                       "สร้างผู้ติดต่อของสมุดรายชื่อใหม่">
 <!ENTITY newlistButton.tooltip                          "สร้างรายการใหม่">
 <!ENTITY editPropertiesButton.tooltip                   "แก้ไขรายการที่เลือก">
+<!ENTITY editAbPropertiesButton.tooltip                 "แก้ไขคุณสมบัติของสมุดรายชื่อที่เลือก">
+<!ENTITY editContactPropertiesButton.tooltip            "แก้ไขผู้ติดต่อที่เลือก">
+<!ENTITY editMailingListPropertiesButton.tooltip        "แก้ไขรายชื่อผู้รับจดหมายที่เลือก">
+<!ENTITY newmsgButton.tooltip                           "ส่งข้อความเมล">
+<!ENTITY newIM.tooltip                                  "ส่งข้อความโต้ตอบแบบทันทีหรือแชท">
+<!ENTITY deleteButton2.tooltip                          "ลบรายการที่เลือก">
 
 <!-- Search Bar -->
+<!ENTITY SearchNameOrEmail.label                        "ชื่อหรืออีเมล">
+<!ENTITY advancedButton.tooltip                         "การค้นหาที่อยู่ขั้นสูง">
 <!ENTITY quickSearchCmd.key                             "k">
+<!ENTITY searchItem.title "การค้นหาด่วน">
 
 <!-- Results Pane -->
+<!ENTITY Addrbook.label                                 "สมุดรายชื่อ">
+<!ENTITY GeneratedName.label                            "ชื่อ">
+<!ENTITY PrimaryEmail.label                             "อีเมล">
+<!ENTITY ChatName.label                                 "ชื่อแชท">
+<!ENTITY Company.label                                  "องค์กร">
+<!ENTITY NickName.label                                 "ชื่อเล่น">
+<!ENTITY SecondEmail.label                              "อีเมลเพิ่มเติม">
+<!ENTITY Department.label                               "แผนก">
+<!ENTITY JobTitle.label                                 "ตำแหน่ง">
+<!ENTITY CellularNumber.label                           "มือถือ">
+<!ENTITY PagerNumber.label                              "เพจเจอร์">
+<!ENTITY FaxNumber.label                                "โทรสาร">
+<!ENTITY HomePhone.label                                "โทรศัพท์บ้าน">
+<!ENTITY WorkPhone.label                                "โทรศัพท์ที่ทำงาน">
+<!ENTITY sortAscending.label                            "จากน้อยไปมาก">
+<!ENTITY sortDescending.label                           "จากมากไปน้อย">
+<!ENTITY _PhoneticName.label                            "ชื่อการออกเสียง">
 
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
 <!ENTITY contact.heading                                "ผู้ติดต่อ">
+<!ENTITY home.heading                                   "บ้าน">
+<!ENTITY other.heading                                  "อื่น ๆ">
+<!ENTITY chat.heading                                   "แชท">
+<!ENTITY phone.heading                                  "โทรศัพท์">
+<!ENTITY work.heading                                   "ที่ทำงาน">
 <!-- Special Box Headings, for mailing lists -->
 <!ENTITY description.heading                            "คำอธิบาย">
 <!ENTITY addresses.heading                              "ที่อยู่">
 <!-- For Map It! -->
 <!ENTITY mapItButton.label                              "รับแผนที่">
+<!ENTITY mapIt.tooltip                                  "แสดงแผนที่ของที่อยู่นี้จากเว็บ">
 
 <!-- Status Bar -->
+<!ENTITY statusText.label                               "">
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY windowMenu.label                               "หน้าต่าง">
 <!ENTITY minimizeWindow.label                           "ย่อ">
 <!ENTITY minimizeWindow.key                             "m">
+<!ENTITY bringAllToFront.label                          "นำทั้งหมดมาข้างหน้า">
 <!ENTITY zoomWindow.label                               "ซูม">

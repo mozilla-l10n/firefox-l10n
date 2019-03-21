@@ -17,7 +17,10 @@
 <!ENTITY releaseCmd2.accesskey "บ">
 <!ENTITY whatsNewCmd.label "มีอะไรใหม่">
 <!ENTITY whatsNewCmd.accesskey "ม">
+<!ENTITY openHelp.label "เนื้อหาความช่วยเหลือ">
+<!ENTITY openHelp.accesskey "ช">
 <!ENTITY openHelp.commandkey "VK_F1">
+<!ENTITY openHelpMac2.label "ความช่วยเหลือของ &brandFullName;">
 <!ENTITY openHelpMac2.commandkey   "?">
 <!ENTITY openHelpMac2.modifiers    "accel">
 

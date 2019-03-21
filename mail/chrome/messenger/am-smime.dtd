@@ -4,6 +4,34 @@
 
 <!ENTITY securityTitle.label "ความปลอดภัย">
 <!ENTITY securityTab.label "ความปลอดภัย">
+<!ENTITY securityHeading.label "เพื่อส่งและรับข้อความที่ถูกลงชื่อหรือเข้ารหัส คุณควรระบุทั้งใบรับรองลายเซ็นดิจิทัลและใบรับรองการเข้ารหัส">
+<!ENTITY encryptionGroupTitle.label "การเข้ารหัส">
+<!ENTITY encryptionChoiceLabel.label "การตั้งค่าการเข้ารหัสเริ่มต้นขณะส่งข้อความ:">
+<!ENTITY neverEncrypt.label "ไม่ต้องเข้ารหัส">
+<!ENTITY neverEncrypt.accesskey "ม">
+<!ENTITY alwaysEncryptMessage.label "ต้องเข้ารหัส (จะไม่สามารถส่งข้อความได้เว้นแต่ผู้รับทั้งหมดจะมีใบรับรอง)">
+<!ENTITY alwaysEncryptMessage.accesskey "ต">
+<!ENTITY encryptionCert.message "ใช้ใบรับรองนี้เพื่อเข้าและถอดรหัสข้อความที่ถูกส่งถึงคุณ:">
+<!ENTITY digitalSign.certificate.button "เลือก…">
+<!ENTITY digitalSign.certificate.accesskey "ล">
+<!ENTITY digitalSign.certificate_clear.button "ล้าง">
+<!ENTITY digitalSign.certificate_clear.accesskey "ง">
+<!ENTITY encryption.certificate.button "เลือก…">
+<!ENTITY encryption.certificate.accesskey "เ">
+<!ENTITY encryption.certificate_clear.button "ล้าง">
+<!ENTITY encryption.certificate_clear.accesskey "า">
+<!ENTITY signingGroupTitle.label "ลายเซ็นดิจิทัล">
+<!ENTITY signMessage.label "ลงลายเซ็นข้อความแบบดิจิทัล (ตามค่าเริ่มต้น)">
+<!ENTITY signMessage.accesskey "ซ">
+<!ENTITY signingCert.message "ใช้ใบรับรองนี้เพื่อลงลายเซ็นข้อความที่คุณส่งแบบดิจิทัล:">
 
+<!ENTITY certificates.label "ใบรับรอง">
+<!ENTITY manageCerts2.label "จัดการใบรับรอง">
+<!ENTITY manageCerts2.accesskey "จ">
+<!ENTITY manageDevices.label "อุปกรณ์ความปลอดภัย">
+<!ENTITY manageDevices.accesskey "ภ">
 
 <!-- Strings for the cert picker dialog -->
+<!ENTITY certPicker.title "เลือกใบรับรอง">
+<!ENTITY certPicker.info  "ใบรับรอง:">
+<!ENTITY certPicker.detailsLabel "รายละเอียดของใบรับรองที่เลือก:">

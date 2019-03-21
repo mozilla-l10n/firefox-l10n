@@ -1,0 +1,18 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY windowTitle.label "คุณสมบัติพื้นที่ข้อความ">
+
+<!ENTITY Settings.label "การตั้งค่า">
+
+<!ENTITY TextAreaName.label "ชื่อช่องกรอกข้อมูล:">
+<!ENTITY TextAreaRows.label "แถว:">
+<!ENTITY TextAreaCols.label "คอลัมน์:">
+<!ENTITY TextAreaReadOnly.label "อ่านอย่างเดียว">
+<!ENTITY TextAreaDisabled.label "ปิดใช้งาน">
+<!ENTITY TextAreaTabIndex.label "ดัชนีแท็บ:">
+<!ENTITY TextAreaAccessKey.label "ปุ่มลัดแป้นพิมพ์:">
+<!ENTITY InitialText.label "ข้อความตั้งต้น:">
+
+<!ENTITY TextAreaWrap.label "โหมดการตัด:">

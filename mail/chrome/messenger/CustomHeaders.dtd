@@ -7,3 +7,5 @@
 <!ENTITY addButton.accesskey "พ">
 <!ENTITY removeButton.label "เอาออก">
 <!ENTITY removeButton.accesskey "อ">
+<!ENTITY newMsgHeader.label "ส่วนหัวข้อความใหม่:">
+<!ENTITY newMsgHeader.accesskey "ม">

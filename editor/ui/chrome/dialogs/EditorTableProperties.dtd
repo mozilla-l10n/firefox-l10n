@@ -1,0 +1,30 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY tableWindow.title                "คุณสมบัติตาราง">
+<!ENTITY applyButton.label                "นำไปใช้">
+<!ENTITY closeButton.label                "ปิด">
+<!ENTITY tableTab.label                   "ตาราง">
+<!ENTITY cellTab.label                    "เซลล์">
+<!ENTITY tableRows.label                  "แถว:">
+<!ENTITY tableColumns.label               "คอลัมน์:">
+<!ENTITY tableHeight.label                "ความสูง:">
+<!ENTITY tableWidth.label                 "ความกว้าง:">
+<!ENTITY tableBorderSpacing.label         "เส้นขอบและระยะห่าง">
+<!ENTITY tableBorderWidth.label           "เส้นขอบ:">
+<!ENTITY tableSpacing.label               "ระยะห่าง:">
+<!ENTITY tablePadding.label               "ช่องว่างภายใน:">
+<!ENTITY tablePxBetwCells.label           "พิกเซลระหว่างเซลล์">
+<!ENTITY tablePxBetwBrdrCellContent.label "พิกเซลระหว่างเส้นขอบและเนื้อหาภายในเซลล์">
+<!ENTITY tableAlignment.label             "การจัดแนวตาราง:">
+<!ENTITY tableCaption.label               "คำบรรยาย:">
+<!ENTITY tableCaptionAbove.label          "ด้านบนของตาราง">
+<!ENTITY tableCaptionBelow.label          "ด้านล่างของตาราง">
+<!ENTITY tableCaptionLeft.label           "ด้านซ้ายของตาราง">
+<!ENTITY tableCaptionRight.label          "ด้านขวาของตาราง">
+<!ENTITY tableCaptionNone.label           "ไม่มี">
+<!ENTITY tableInheritColor.label           "(ให้สีของหน้าแสดงผ่าน)">
+
+
+<!-- Used in both Table and Cell panels  -->
