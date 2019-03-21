@@ -8,6 +8,11 @@
 <!ENTITY chooseColor1.label "เลือกสี:">
 <!ENTITY chooseColor2.label "ป้อนสตริงสี HTML">
 <!ENTITY chooseColor2.accessKey "ป">
+<!ENTITY setColorExample.label "(เช่น: &quot;#0000ff&quot; หรือ &quot;blue&quot;):">
 <!ENTITY default.label "ค่าเริ่มต้น">
 <!ENTITY default.accessKey "ค">
 <!ENTITY standardPalette.label "มาตรฐาน">
+<!ENTITY webPalette.label "สีเว็บทั้งหมด">
+<!ENTITY background.label "พื้นหลังสำหรับ:">
+<!ENTITY table.label "ตาราง">
+<!ENTITY cell.label "เซลล์">
