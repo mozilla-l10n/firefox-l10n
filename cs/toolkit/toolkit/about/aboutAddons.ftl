@@ -141,7 +141,7 @@ legacy-extensions =
 legacy-extensions-description = Tato rozšíření byla zakázána, protože neodpovídají současným standardům aplikace { -brand-short-name }. <label data-l10n-name="legacy-learn-more">Zjistit více o změnách pro doplňky</label>
 private-browsing-description2 =
     Fungování rozšíření pro aplikaci { -brand-short-name } se v anonymním prohlížení mění. Všechna nově nainstalovaná rozšíření, nebudou ve výchozím nastavení v anonymních oknech fungovat, pokud jim to nepovolíte. Rozšíření tak nebudou mít bez vašeho vědomí přístup k tomu, co v anonymním prohlížení děláte.
-    <label data-l10n-name="private-browsing-learn-more">Jak na nastavení rozšíření.</label>
+    <label data-l10n-name="private-browsing-learn-more">Jak na nastavení rozšíření</label>
 extensions-view-discover =
     .name = Získání doplňků
     .tooltiptext = Získejte další zajímavé doplňky
