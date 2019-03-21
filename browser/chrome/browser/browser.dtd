@@ -108,7 +108,6 @@ These items have the same accesskey but will never be visible at the same time. 
 <!ENTITY  hiddenTabs.label                   "File ascunse">
 
 <!ENTITY  listAllTabs.label      "Listează toate filele">
-
 <!-- LOCALIZATION NOTE (allTabsMenu.searchTabs.label): "Search" is a verb, as
 in "Search through tabs". -->
 <!ENTITY  allTabsMenu.searchTabs.label       "Caută în file">
@@ -130,6 +129,9 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.label "Tipărește…">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "p">
+
+<!ENTITY importFromAnotherBrowserCmd.label "Importă din alt browser…">
+<!ENTITY importFromAnotherBrowserCmd.accesskey "I">
 
 <!ENTITY taskManagerCmd.label "Manager de activități">
 
@@ -212,6 +214,26 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenAutohide.accesskey "H">
 <!ENTITY fullScreenExit.label "Ieși din modul de ecran complet">
 <!ENTITY fullScreenExit.accesskey "F">
+
+ <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
+     for the Firefox Account toolbar signin menu screen. -->
+<!ENTITY fxa.signin.callout.label "Ia Firefox cu tine">
+<!ENTITY fxa.signin.description.label "Ia cu tine marcajele, istoricul, parolele și alte setări pe toate dispozitivele.">
+<!ENTITY fxa.signin.button.label "Activează &syncBrand.shortName.label;…">
+
+<!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
+     for the Firefox Account toolbar unverified menu screen. -->
+<!ENTITY fxa.unverified.callout.label "Verifică-ți email-ul">
+<!ENTITY fxa.unverified.button.label "Deschide &syncBrand.shortName.label; Setări…">
+
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbart menu screen. The `Signed in as` text is
+     followed by the user's email. -->
+<!ENTITY fxa.menu.signedInAs.label "Autentificat ca">
+<!ENTITY fxa.menu.manageAccount.label "Gestionează contul…">
+<!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label; Setări…">
+<!ENTITY fxa.menu.connectAnotherDevice.label "&syncedTabs.sidebar.connectAnotherDevice;">
+<!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -407,6 +429,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "Preferințe">
 <!ENTITY preferencesCmdUnix.accesskey     "n">
+
+<!ENTITY logins.label                           "Date de autentificare și parole">
 
 <!ENTITY clearRecentHistory.label               "Șterge istoricul recent…">
 
@@ -879,7 +903,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "Nu ai acordat acestui site nicio permisiune specială.">
 <!ENTITY identity.permissionsReloadHint "Ar putea fi nevoie să reîncarci pagina pentru aplicarea modificărilor.">
 <!ENTITY identity.permissionsPreferences.tooltip "Deschide preferințele pentru permisiuni">
-
 <!ENTITY identity.contentBlockingPreferences.tooltip "Deschide preferințele pentru blocarea de conținut">
 
 
@@ -931,6 +954,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncSignIn.label             "Autentifică-te la &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "Y">
 <!ENTITY syncSyncNowItem.label        "Sincronizează acum">
+<!ENTITY syncSyncNowItemSyncing.label "Se sincronizează…">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "Reconectare la &syncBrand.shortName.label;…">
 <!ENTITY syncReAuthItem.accesskey     "R">
@@ -1133,9 +1157,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Gestionează suplimentele dând clic pe <image class='addon-addon-icon'/> în meniul <image class='addon-toolbar-icon'/>.">
+<!ENTITY addonPostInstall.incognito.checkbox.label "Permite acestei extensii să ruleze în ferestre private">
+<!ENTITY addonPostInstall.incognito.checkbox.accesskey "A">
 
-<!ENTITY addonPrivateBrowsing.header.label "Extensii în ferestre private">
-<!ENTITY addonPrivateBrowsing.body.label "Extensiile sunt blocate implicit în ferestrele private. Nu vor funcționa în navigarea privată și nu vor avea acces atunci la activitatea ta online. Poți autoriza separat fiecare extensie pentru rulare în ferestre private prin gestionarea setărilor.">
+<!ENTITY addonPrivateBrowsing.header2.label "Modificare pentru extensii în ferestre private">
+<!ENTITY addonPrivateBrowsing.body2.label "Orice extensii noi pe care le adaugi în &brandShorterName; nu vor funcționa în ferestrele private dacă nu le permiți să o facă din setări.">
+<!ENTITY addonPrivateBrowsing.learnMore.label "Află cum să gestionezi setările pentru extensii">
 <!ENTITY addonPrivateBrowsing.okButton.label "OK, am înțeles">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "O">
 <!ENTITY addonPrivateBrowsing.manageButton.label "Gestionează extensiile">

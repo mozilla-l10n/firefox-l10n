@@ -43,3 +43,8 @@ cfr-doorhanger-extension-total-users =
         [few] { $total } utilizatori
        *[other] { $total } de utilizatori
     }
+
+## These messages are steps on how to use the feature and are shown together.
+
+cfr-doorhanger-pintab-animation-pause = Pauză
+cfr-doorhanger-pintab-animation-resume = Continuă
