@@ -12,3 +12,4 @@ remove =
     .label = Gukuraho
     .accesskey = k
 remove-all-passwords-prompt = Urashaka koko kuvanamo amagambobanga yose?
+no-master-password-prompt = Urashaka koko kwerekana amagambobanga?
