@@ -5,7 +5,6 @@
 blocklist-window =
     .title = Elenchi de blòcco
     .style = width: 55em
-blocklist-desc = Çerni l’elenco da aduviâ in { -brand-short-name } pe blocâ i elementi che peuan traciâ a navegaçion.
 blocklist-close-key =
     .key = w
 blocklist-treehead-list =
@@ -24,10 +23,7 @@ blocklist-button-ok =
 #   $listName {string, "Standard (Recommended)."} - List name.
 #   $description {string, "This list does a pretty good job."} - Description of the list.
 blocklist-item-list-template = { $listName } { $description }
-blocklist-item-moz-std-name = Disconnect.me proteçion baze (consegiou).
-blocklist-item-moz-std-desc = Permette quarche elemento ch'o tracia pe garantî o bon fonçionamento di sciti.
-blocklist-item-moz-full-name = Disconnect.me proteçion mascima.
-blocklist-item-moz-full-desc = Blòcca i elementi che tracian conosciui. Quarche scito o porieiva no fonçionâ ben.
 blocklist-item-moz-std-listName = Elenco livello 1 (consegiou).
 blocklist-item-moz-std-description = Permette quarche elemento ch'o tracia pe limitâ o numero di sciti che fonçionan mâ.
 blocklist-item-moz-full-listName = Elenco livello 2
+blocklist-item-moz-full-description = Blôca tutti i elementi tracianti trovæ. Çerti sciti o contegnui porieivan no caregase ben.

@@ -1001,8 +1001,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.allWindowsShared.message "Tutti i barcoin vixibili into schermo saian condivizi.">
 
 <!ENTITY contentBlocking.title "Blòcco di contengui">
-<!ENTITY contentBlocking.detected "Sta pagina a l'à di elementi che peuan ese blocâ.">
-<!ENTITY contentBlocking.notDetected "In sta pagina no gh'é di elementi che peuan ese blocâ.">
+<!ENTITY contentBlocking.detected "Sta pagina a no gh'à di elementi che peuan ese blocâ.">
+<!ENTITY contentBlocking.notDetected "Sta pagina a gh'à di elementi che peuan ese blocâ.">
 
 <!ENTITY contentBlocking.trackingProtection3.label "Elementi che tracian">
 
