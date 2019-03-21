@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+saved-logins =
+    .title = Infurmaziuns d'annunzia memorisadas
 window-close =
     .key = w
 focus-search-shortcut =
@@ -52,6 +54,7 @@ show-passwords =
 hide-passwords =
     .label = Zuppentar ils pleds-clav
     .accesskey = p
+logins-description-filtered = Las suandantas infurmaziuns d'annunzia correspundan a tes criteris da tschertga:
 remove-all =
     .label = Allontanar tut
     .accesskey = A
