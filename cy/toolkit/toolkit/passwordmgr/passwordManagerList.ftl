@@ -54,6 +54,7 @@ show-passwords =
 hide-passwords =
     .label = Cuddio Cyfrineiriau
     .accesskey = C
+logins-description-all = Mae'r cyfrineiriau ar gyfer y gwefannau hyn ar gadw ar eich cyfrifiadur
 logins-description-filtered = Mae'r cyfrineiriau'n cydweddu a'ch chwilio:
 remove-all =
     .label = Tynnu Popeth
