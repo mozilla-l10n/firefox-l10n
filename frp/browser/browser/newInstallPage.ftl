@@ -10,6 +10,8 @@
 title = Novèla important
 heading = Changiéds votron pèrfilo { -brand-short-name }
 changed-title = Cen qu'at changié?
+options-title = Quines sont mes ocpcions?
+resources = Ressorces:
 sync-input =
     .placeholder = Adrèce èlèctronica
 sync-button = Continuar

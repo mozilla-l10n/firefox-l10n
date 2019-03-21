@@ -7,3 +7,6 @@ about-policies-title = Politiques d'entreprisa
 active-policies-tab = Actives
 errors-tab = Èrròrs
 documentation-tab = Documentacion
+policy-name = Nom de la politica
+policy-value = Valòr de la politica
+policy-errors = Èrròr de la politica
