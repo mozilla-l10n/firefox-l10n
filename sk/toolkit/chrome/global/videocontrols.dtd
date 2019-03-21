@@ -10,7 +10,6 @@
 <!ENTITY fullscreenButton.exitfullscreenlabel "Ukončiť režim celej obrazovky">
 <!ENTITY castingButton.castingLabel "Prehrať na obrazovke">
 <!ENTITY closedCaption.off "Vypnuté">
-
 <!-- LOCALIZATION NOTE (volumeScrubber.label): This label is exposed to
      accessibility software to clarify what the slider is for. -->
 <!ENTITY volumeScrubber.label "Ovládanie hlasitosti">
@@ -34,6 +33,8 @@
 <!ENTITY error.srcNotSupported "Formát videa alebo typ MIME nie je podporovaný.">
 <!ENTITY error.noSource2 "Nebolo nájdené video s podporovaným formátom a typom MIME.">
 <!ENTITY error.generic "Prehrávanie videa bolo prerušené kvôli neznámej chybe.">
+
+<!ENTITY status.pictureInPicture "Toto video sa prehráva ako obraz v obraze.">
 
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
