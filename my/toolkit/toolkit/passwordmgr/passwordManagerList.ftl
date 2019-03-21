@@ -4,6 +4,10 @@
 
 saved-logins =
     .title = သိမ်းထားသော ဝင်ရောက်မှုများ
+window-close =
+    .key = w
+focus-search-shortcut =
+    .key = f
 focus-search-altshortcut =
     .key = k
 copy-username-cmd =
