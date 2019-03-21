@@ -672,6 +672,7 @@ content-blocking-warning-title = Perhatian!
 content-blocking-warning-desc = Pemblokiran kuki dan pelacak dapat menyebabkan kerusakan pada sejumlah situs. Menghentikan pemblokiran untuk situs yang Anda percayai sangatlah mudah.
 content-blocking-warning-description = Pemblokiran konten bisa menyebabkan beberapa situs web tidak berfungsi. Mudah sekali untuk menonaktifkan pemblokiran pada situs yang Anda percayai.
 content-blocking-learn-how = Pelajari caranya
+content-blocking-reload-description = Anda harus memuat ulang tab Anda untuk menerapkan perubahan ini.
 content-blocking-trackers-label =
     .label = Pelacak
     .accesskey = P
@@ -685,6 +686,8 @@ content-blocking-tracking-protection-change-block-list = Ubah daftar blokir
 content-blocking-cookies-label =
     .label = Kuki
     .accesskey = K
+content-blocking-expand-section =
+    .tooltiptext = Keterangan lebih lanjut
 # Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
 content-blocking-cryptominers-label =
     .label = Penambang Kripto
