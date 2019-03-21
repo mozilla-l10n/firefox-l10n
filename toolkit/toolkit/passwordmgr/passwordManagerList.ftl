@@ -23,4 +23,5 @@ remove =
 close-button =
     .label = बन्न  करू{ " " }
     .accesskey = C
+remove-all-passwords-prompt = की अहाँ सबहि कूटशब्दकेँ हटाना चाहैत छी?
 remove-all-passwords-title = सभटा गुड़किल्ली हटाउ
