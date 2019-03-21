@@ -54,6 +54,7 @@ show-passwords =
 hide-passwords =
     .label = Ke'ewäx ri ewan taq tzij
     .accesskey = P
+logins-description-all = Ri kitikirib'al moloj re taq ruxaq k'amaya'l re' yeyak pan akematz'ib'
 logins-description-filtered = Re jujun kitikirib'al molojri'ïl re', nikik'äm ki' rik'in ri nakanoj:
 remove-all =
     .label = Keyuj ronojel
