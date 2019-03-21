@@ -71,3 +71,5 @@ remove-all-shown =
 remove-all-passwords-prompt = Poistetaanko kaikki salasanat?
 remove-all-passwords-title = Poista kaikki salasanat
 no-master-password-prompt = Haluatko varmasti näyttää salasanasi?
+auto-fill-logins-and-passwords =
+    .label = Täytä käyttäjätunnukset ja salasanat automaattisesti
