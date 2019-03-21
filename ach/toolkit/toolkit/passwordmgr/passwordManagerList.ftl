@@ -54,6 +54,7 @@ show-passwords =
 hide-passwords =
     .label = Kan mung me donyo
     .accesskey = P
+logins-description-all = Donyo iyie pi kakube magi ki gwoko gi i kompiuta mamegi
 logins-description-filtered = Donyo iyie magi rwate ki yeny mamegi:
 remove-all =
     .label = Kwany Weng
