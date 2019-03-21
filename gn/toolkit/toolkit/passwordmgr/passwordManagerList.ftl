@@ -71,3 +71,5 @@ remove-all-shown =
 remove-all-passwords-prompt = Emboguepasépa opaite ñe'ẽñemikuéra
 remove-all-passwords-title = Emboguepa opaite ñe'ẽñemikuéra
 no-master-password-prompt = Ehechaukasépa neñe'ẽñemikuéra
+auto-fill-logins-and-passwords =
+    .label = Tembiapo ñepyrũ ha ñe’ẽñemi myanehẽjehegui
