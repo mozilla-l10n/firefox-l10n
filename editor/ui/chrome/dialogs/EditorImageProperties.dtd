@@ -5,33 +5,36 @@
 <!-- These strings are for use specifically in the editor's image and form image dialogs. -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "คุณสมบัติรูปภาพ">
+<!ENTITY windowTitle.label "คุณสมบัติภาพ">
 
 <!ENTITY pixelsPopup.value "พิกเซล">
 
 <!-- These are in the Location tab panel -->
-<!ENTITY locationEditField.label "ตำแหน่งที่ตั้งรูปภาพ:">
-<!ENTITY locationEditField.tooltip "พิมพ์ชื่อไฟล์หรือตำแหน่งที่ตั้งของรูปภาพ">
+<!ENTITY locationEditField.label "ตำแหน่งที่ตั้งภาพ:">
+<!ENTITY locationEditField.tooltip "พิมพ์ชื่อไฟล์หรือตำแหน่งที่ตั้งของภาพ">
 <!ENTITY locationEditField.shortenedDataURI "URI ข้อมูลที่สั้นลง (การคัดลอกจะวาง URI แบบเต็มลงในคลิปบอร์ด)">
 <!ENTITY title.label "เคล็ดลับเครื่องมือ:">
 <!ENTITY title.tooltip "แอตทริบิวต์ HTML 'title' ที่แสดงเป็นเคล็ดลับเครื่องมือ">
 <!ENTITY altText.label "ข้อความแทนภาพ:">
-<!ENTITY altTextEditField.tooltip "พิมพ์ข้อความที่จะใช้แสดงแทนรูปภาพ">
+<!ENTITY altTextEditField.tooltip "พิมพ์ข้อความที่จะใช้แสดงแทนภาพ">
 <!ENTITY noAltText.label "ไม่ต้องใช้ข้อความแทนภาพ">
 
-<!ENTITY previewBox.label "ตัวอย่างรูปภาพ">
+<!ENTITY previewBox.label "ตัวอย่างภาพ">
 
 <!-- These controls are in the Dimensions tab panel -->
 <!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
 <!ENTITY actualSize.label "ขนาดจริง:">
 <!ENTITY actualSizeRadio.label "ขนาดจริง">
-<!ENTITY actualSizeRadio.tooltip "แปลงกลับเป็นขนาดจริงของรูปภาพ">
+<!ENTITY actualSizeRadio.tooltip "เปลี่ยนกลับเป็นขนาดจริงของภาพ">
 <!ENTITY customSizeRadio.label "กำหนดขนาดเอง">
-<!ENTITY customSizeRadio.tooltip "เปลี่ยนขนาดของรูปภาพตามที่แสดงในหน้า">
+<!ENTITY customSizeRadio.tooltip "เปลี่ยนขนาดของภาพตามที่แสดงในหน้า">
 <!ENTITY heightEditField.label "ความสูง:">
 <!ENTITY widthEditField.label "ความกว้าง:">
+<!ENTITY constrainCheckbox.tooltip "คงอัตราส่วนเดิมของภาพไว้">
 
 <!-- These controls are in the Image Map box of the expanded area -->
+<!ENTITY imagemapBox.label "แผนที่ภาพ">
+<!ENTITY removeImageMapButton.label "เอาออก">
 
 <!-- These are the options for image alignment -->
 

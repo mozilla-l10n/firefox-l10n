@@ -5,7 +5,7 @@
 <!-- Window title -->
 <!ENTITY siteUrl.label         "URL ไซต์:">
 <!ENTITY docSubdir.label       "ไดเรกทอรีย่อยหน้า:">
-<!ENTITY otherSubdir.label     "ไดเรกทอรีย่อยรูปภาพ:">
+<!ENTITY otherSubdir.label     "ไดเรกทอรีย่อยภาพ:">
 
 <!ENTITY status.label          "กำลังเผยแพร่…">
 <!ENTITY fileList.label        "สถานะการเผยแพร่">
