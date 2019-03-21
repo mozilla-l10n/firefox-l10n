@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+saved-logins =
+    .title = Huruyan maa gaabuntey
 window-close =
     .key = w
 focus-search-shortcut =
@@ -11,9 +13,15 @@ focus-search-altshortcut =
 copy-username-cmd =
     .label = Goykaw maa berandi
     .accesskey = y
+edit-username-cmd =
+    .label = Goykaw maa fasal
+    .accesskey = f
 copy-password-cmd =
     .label = Šennikufal berandi
     .accesskey = b
+edit-password-cmd =
+    .label = Šennikufal fasal
+    .accesskey = E
 search-filter =
     .accesskey = C
     .placeholder = Ceeci
