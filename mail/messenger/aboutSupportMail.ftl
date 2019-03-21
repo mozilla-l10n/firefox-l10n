@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 accounts-title = บัญชีจดหมายและข่าว
+show-private-data-main-text = รวมชื่อบัญชี
+show-private-data-explanation-text = (อาจระบุข้อมูล)
 accounts-ID = ID
 accounts-name = ชื่อ
 accounts-incoming-server = เซิร์ฟเวอร์ขาเข้า
