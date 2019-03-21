@@ -106,6 +106,10 @@
 <!ENTITY styleUnderlineCmd.label "ขีดเส้นใต้">
 <!ENTITY styleUnderlineCmd.accesskey "ข">
 <!ENTITY styleUnderlineCmd.key "U">
+<!ENTITY styleStrikeThruCmd.label "ขีดทับ">
+<!ENTITY styleSuperscriptCmd.label "ตัวยก">
+<!ENTITY styleSubscriptCmd.label "ตัวห้อย">
+<!ENTITY styleNonbreakingCmd.label "ช่องว่างแบบไม่แบ่งบรรทัด">
 
 <!ENTITY formatFontColor.label "สีข้อความ…">
 <!ENTITY formatFontColor.accesskey "ส">
