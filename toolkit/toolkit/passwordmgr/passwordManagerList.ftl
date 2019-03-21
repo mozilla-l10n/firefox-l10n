@@ -71,3 +71,5 @@ remove-all-shown =
 remove-all-passwords-prompt = Ali ste prepričani, da želite odstraniti vsa gesla?
 remove-all-passwords-title = Odstrani vsa gesla
 no-master-password-prompt = Ali ste prepričani, da želite pokazati svoja gesla?
+auto-fill-logins-and-passwords =
+    .label = Samodejno izpolni prijave in gesla
