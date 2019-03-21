@@ -10,6 +10,12 @@
 <!ENTITY FormName.accesskey "ช">
 <!ENTITY FormAction.label "URL การกระทำ:">
 <!ENTITY FormAction.accesskey "ก">
+<!ENTITY FormMethod.label "วิธีการ:">
+<!ENTITY FormMethod.accesskey "ว">
+<!ENTITY FormEncType.label "การเข้ารหัส:">
+<!ENTITY FormEncType.accesskey "ข">
+<!ENTITY FormTarget.label "กรอบเป้าหมาย:">
+<!ENTITY FormTarget.accesskey "ป">
 
 <!ENTITY RemoveForm.label "เอาแบบฟอร์มออก">
 <!ENTITY RemoveForm.accesskey "อ">

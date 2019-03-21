@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY windowTitle.label "คุณสมบัติปุ่ม">
 
 <!ENTITY Settings.label "การตั้งค่า">
 
@@ -15,4 +16,12 @@
 <!ENTITY ButtonName.accesskey "อ">
 <!ENTITY ButtonValue.label "ค่า:">
 <!ENTITY ButtonValue.accesskey "ค">
+<!ENTITY tabIndex.label "ดัชนีแท็บ:">
+<!ENTITY tabIndex.accesskey "ด">
+<!ENTITY ButtonDisabled.label "ถูกปิดใช้งาน">
+<!ENTITY ButtonDisabled.accesskey "ป">
+<!ENTITY AccessKey.label "ปุ่มลัดแป้นพิมพ์:">
+<!ENTITY AccessKey.accesskey "ล">
 
+<!ENTITY RemoveButton.label "เอาปุ่มออก">
+<!ENTITY RemoveButton.accesskey "ม">
