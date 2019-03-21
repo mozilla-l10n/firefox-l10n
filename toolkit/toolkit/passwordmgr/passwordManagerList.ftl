@@ -37,3 +37,4 @@ close-button =
 logins-description-filtered = Seuraavat kirjautumistiedot vastaavat hakua:
 remove-all-passwords-prompt = Poistetaanko kaikki salasanat?
 remove-all-passwords-title = Poista kaikki salasanat
+no-master-password-prompt = Haluatko varmasti näyttää salasanasi?
