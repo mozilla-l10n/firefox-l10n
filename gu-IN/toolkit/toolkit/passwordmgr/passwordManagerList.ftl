@@ -71,3 +71,5 @@ remove-all-shown =
 remove-all-passwords-prompt = શું તમે ખરેખર બધા પાસવર્ડો દૂર કરવા માંગો છો?
 remove-all-passwords-title = બધા પાસવર્ડો દૂર કરો
 no-master-password-prompt = શું તમે ખરેખર તમારા પાસવર્ડો બતાવવા માંગો છો?
+auto-fill-logins-and-passwords =
+    .label = ઑટોફિલ લૉગિન અને પાસવર્ડ્સ
