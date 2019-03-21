@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+saved-logins =
+    .title = સાચવેલા લોગિન
 window-close =
     .key = w
 focus-search-shortcut =
@@ -11,9 +13,18 @@ focus-search-altshortcut =
 copy-username-cmd =
     .label = વપરાશકર્તાનામની નકલ કરો
     .accesskey = U
+edit-username-cmd =
+    .label = વપરાશકર્તાનામ સંપાદિત કરો
+    .accesskey = d
 copy-password-cmd =
     .label = પાસવર્ડની નકલ કરો
     .accesskey = C
+edit-password-cmd =
+    .label = પાસવર્ડ સંપાદિત કરો
+    .accesskey = E
+search-filter =
+    .accesskey = S
+    .placeholder = શોધો
 column-heading-site =
     .label = સાઈટ
 column-heading-username =
@@ -31,6 +42,9 @@ column-heading-times-used =
 remove =
     .label = દૂર કરો
     .accesskey = R
+import =
+    .label = આયાત કરો ...
+    .accesskey = I
 close-button =
     .label = બંધ કરો
     .accesskey = C
