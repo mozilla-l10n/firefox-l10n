@@ -341,6 +341,9 @@
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
 <!ENTITY tab_queue_prompt_settings_button "Prejsť do Nastavení">
+<!-- Localization note (tab_queue_notification_prompt): This is the text of the default notification
+shown from Android O while a tab is being queued.-->
+<!ENTITY tab_queue_notification_prompt "Pridávam novú kartu do radu&#8230;">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -553,7 +556,7 @@
 <!ENTITY pref_scroll_title_bar2 "Prehliadanie na celú obrazovku">
 <!ENTITY pref_scroll_title_bar_summary2 "Skrýva panel nástrojov prehliadača &brandShortName; počas posúvania stránky">
 
-<!ENTITY pref_tab_queue_title3 "Fronta kariet">
+<!ENTITY pref_tab_queue_title3 "Rad kariet">
 <!ENTITY pref_tab_queue_summary4 "Linky ostanú uložené až pokiaľ znova nespustíte &brandShortName;.">
 
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
