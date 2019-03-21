@@ -45,6 +45,7 @@ import =
 close-button =
     .label = അടയ്ക്കുക{ " " }
     .accesskey = C
+logins-description-all = ഈ സൈറ്റുകളിലേയ്ക്കുള്ല പ്രവേശനം നിങ്ങളുടെ കമ്പ്യുട്ടറില്‍ സൂക്ഷിച്ചിട്ടുണ്ട്
 logins-description-filtered = താഴെ നല്‍കിയിരിക്കുന്ന പാസ്‌വേര്‍ഡുകള്‍ നിങ്ങളുടെ തെരച്ചിലുമായി പൊരുത്തപ്പെടുന്നു:
 remove-all-passwords-prompt = തങ്കളൂടെ എല്ലാ പാസ്‌വേര്‍ഡുകളും മായിക്കണം എന്നു് ഉറപ്പാണോ?{ " " }
 remove-all-passwords-title = എല്ലാ പാസ്‌വേര്‍ഡുകളും നീക്കം ചെയ്യുക
