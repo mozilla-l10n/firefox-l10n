@@ -5,7 +5,7 @@
 <!ENTITY safeModeDialog.title             "&brandShortName; Chế độ An toàn">
 <!ENTITY window.width                     "37em">
 
-<!ENTITY safeModeDescription.label        "&brandShortName; đang chạy ở chế độ An toàn, nó sẽ tạm thời vô hiệu hóa mọi thiết lập cá nhân, giao diện, phần mở rộng của bạn.">
+<!ENTITY safeModeDescription.label        "&brandShortName; đang chạy ở chế độ an toàn, nó sẽ tạm thời vô hiệu hóa mọi thiết lập cá nhân, chủ đề, tiện ích mở rộng của bạn.">
 <!ENTITY safeModeDescription2.label       "Bạn có thể chuyển một số hoặc tất cả các thiết lập sau đây thành những thay đổi vĩnh viễn:">
 
 <!ENTITY disableAddons.label              "Vô hiệu hóa tất cả tiện ích">
@@ -19,4 +19,3 @@
 
 <!ENTITY continueButton.label             "Tiếp tục ở Chế độ An toàn">
 <!ENTITY continueButton.accesskey         "p">
-
