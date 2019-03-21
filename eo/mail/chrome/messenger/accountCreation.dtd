@@ -91,11 +91,11 @@
 <!ENTITY changeSettings.label            "Ŝanĝi agordojn">
 <!ENTITY changeSettings.accesskey        "a">
 
-<!ENTITY contactYourProvider.description "&brandShortName; povas uzi liveritajn agordojn por konekti al via retpoŝto, tamen vi kontaktu vian administranton aŭ retpoŝt-provizanton pri tiuj malĝustaj konektoj. Pli da informo troviĝas en la dokumentaro de &brandShortName;.">
+<!ENTITY contactYourProvider.description "&brandShortName; povas uzi liveritajn agordojn por konekti al via retpoŝto, tamen vi kontaktu vian administranton aŭ retpoŝt‑provizanton pri tiuj malĝustaj konektoj. Pli da informo troviĝas en la dokumentaro de &brandShortName;.">
 
 <!ENTITY insecureServer.tooltip.title    "Averto! Tiu ĉi servilo estas malsekura.">
 <!ENTITY insecureServer.tooltip.details  "Alklaku por pli da informo.">
 
-<!ENTITY insecureUnencrypted.description "La konekto estas malĉifrita, do via pasvorto kaj retleteroj povas esti facile legeblaj de aliuloj. &brandShortName; ebligos al vi uzi tiun ĉi konton, sed vi devus kontakti vian retpoŝt‑liveranton pri konfiguri la servilon per sekura konekto.">
-<!ENTITY insecureSelfSigned.description  "The server uses a certificate that we can't trust, so we can't be sure that someone isn't intercepting the traffic between &brandShortName; and your server. &brandShortName; will let you get to your mail, but you should really get your email provider to configure the server with a trusted certificate.">
-<!ENTITY secureServer.description        "Congratulations! This is a secure server.">
+<!ENTITY insecureUnencrypted.description "La konekto estas malĉifrita, do via pasvorto kaj retleteroj povas esti facile legeblaj de aliuloj. &brandShortName; ebligos al vi uzi tiun ĉi konton, sed vi devus kontakti vian retpoŝt‑provizanton pri agordi la servilon kun sekura konekto.">
+<!ENTITY insecureSelfSigned.description  "La servilo uzas nefidindan atestilon, do ne eblas certigi, ke neniu interkaptas datumtrafikon inter &brandShortName; kaj la servilo. &brandShortName; ebligos al vi agordi vian retpoŝton, sed vi devus kontakti vian retpoŝt‑provizanton pri agordi la servilon kun fidinda atestilo.">
+<!ENTITY secureServer.description        "Gratulon! Tiu ĉi servilo estas sekura.">
