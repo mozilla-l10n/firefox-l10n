@@ -4,6 +4,12 @@
 
 saved-logins =
     .title = محفوظ شدہ لاگ ان
+window-close =
+    .key = w
+focus-search-shortcut =
+    .key = f
+focus-search-altshortcut =
+    .key = k
 copy-username-cmd =
     .label = صارف نام نقل کریں{ " " }
     .accesskey = ص
