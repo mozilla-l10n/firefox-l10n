@@ -34,6 +34,8 @@
 <!ENTITY error.noSource2 "მხარდაჭერილი ფორმატის ან MIME ტიპის ვიდეო, ვერ მოიძებნა.">
 <!ENTITY error.generic "ვიდეოს გაშვება შეწყდა, გაურკვეველი შეცდომის გამო.">
 
+<!ENTITY status.pictureInPicture "ვიდეო გაშვებულია რეჟიმით სურათი-სურათში.">
+
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
 the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be

@@ -259,5 +259,6 @@ go-back-button =
 remove-addon-button = მოცილება
 disable-addon-button = ამორთვა
 enable-addon-button = ჩართვა
+expand-addon-button = დამატებითი პარამეტრები
 addons-enabled-heading = ჩართულია
 addons-disabled-heading = ამორთულია
