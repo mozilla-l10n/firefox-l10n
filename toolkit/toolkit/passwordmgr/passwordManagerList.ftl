@@ -71,3 +71,5 @@ remove-all-shown =
 remove-all-passwords-prompt = Вы ўпэўнены, што хочаце выдаліць усе паролі?
 remove-all-passwords-title = Выдаленне усіх пароляў
 no-master-password-prompt = Вы сапраўды хочаце паказаць вашы паролі?
+auto-fill-logins-and-passwords =
+    .label = Аўтазапаўненне лагінаў і пароляў
