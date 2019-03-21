@@ -71,3 +71,5 @@ remove-all-shown =
 remove-all-passwords-prompt = Ydych chi'n siŵr eich bod am dynnu pob cyfrinair?
 remove-all-passwords-title = Tynnu pob cyfrinair
 no-master-password-prompt = Ydych chi'n siŵr eich bod am ddangos eich cyfrinair?
+auto-fill-logins-and-passwords =
+    .label = Awtolanw mewngofnodion a chyfrineiriau
