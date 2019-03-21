@@ -7,13 +7,8 @@ about-policies-title = นโยบายองค์กร
 active-policies-tab = ใช้งานอยู่
 errors-tab = ข้อผิดพลาด
 documentation-tab = เอกสารประกอบ
+no-specified-policies-message = บริการนโยบายองค์กรใช้งานอยู่แต่ไม่ได้เปิดใช้งานนโยบายใด ๆ
+inactive-message = บริการนโยบายองค์กรไม่ได้ใช้งานอยู่
 policy-name = ชื่อนโยบาย
 policy-value = ค่านโยบาย
 policy-errors = ข้อผิดพลาดนโยบาย
-# 'gpo-machine-only' policies are related to the Group Policy features
-# on Windows. Please use the same terminology that is used on Windows
-# to describe Group Policy.
-# These policies can only be set at the computer-level settings, while
-# the other policies can also be set at the user-level.
-gpo-machine-only =
-    .title = เมื่อใช้นโยบายกลุ่ม นโยบายนี้สามารถตั้งค่าได้เฉพาะระดับคอมพิวเตอร์เท่านั้น
