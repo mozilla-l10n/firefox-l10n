@@ -234,6 +234,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.manageAccount.label "Mba'ete ñangareko…">
 <!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label; Moĩporã…">
 <!ENTITY fxa.menu.connectAnotherDevice.label "&syncedTabs.sidebar.connectAnotherDevice;">
+<!ENTITY fxa.menu.connectAnotherDevice2.label "Embojuaju ambue mba’e’oka…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
@@ -1162,6 +1163,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addonPostInstall.incognito.checkbox.accesskey "A">
 
 <!ENTITY addonPrivateBrowsing.header2.label "Emoambue jepysokue Ovetã ñemiguápe">
+<!ENTITY addonPrivateBrowsing.body2.label "Oimeraẽ ambue jepysokue embojuajúva &brandShorterName; rehe ndoikomo’ãi ovetã ñemíme neremoneĩriramo ñembohekópe.">
 <!ENTITY addonPrivateBrowsing.learnMore.label "Eñangarekokuaa jepysokue ñembohekóre.">
 <!ENTITY addonPrivateBrowsing.okButton.label "Oĩma, aikumby">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "O">

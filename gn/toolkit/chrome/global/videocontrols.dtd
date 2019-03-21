@@ -10,7 +10,6 @@
 <!ENTITY fullscreenButton.exitfullscreenlabel "Mba'erechaha tuichavévagui ñesẽ">
 <!ENTITY castingButton.castingLabel "Mba'erechaha ojuehéva">
 <!ENTITY closedCaption.off "Mboguepyre">
-
 <!-- LOCALIZATION NOTE (volumeScrubber.label): This label is exposed to
      accessibility software to clarify what the slider is for. -->
 <!ENTITY volumeScrubber.label "Pureko ñangarekoha rehegua">
@@ -34,6 +33,8 @@
 <!ENTITY error.srcNotSupported "Ysaja térã MIME ta'ãngamýi rehegua noñemoneĩri.">
 <!ENTITY error.noSource2 "Ndojejuhúi mba'eveichagua ta'ãngamýi oguerekóva ysaja térã peteĩva MIME ojokupytýva.">
 <!ENTITY error.generic "Pe ta'ãngamýi ñemboheta ndoikomo'ãi peteĩ jejavy jeikuaa'ỹva rupi.">
+
+<!ENTITY status.pictureInPicture "Ko ta’angamýi oñembohetahína Picture-in-Picture rekópe.">
 
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
