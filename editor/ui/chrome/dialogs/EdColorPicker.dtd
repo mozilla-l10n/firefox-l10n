@@ -11,8 +11,12 @@
 <!ENTITY setColorExample.label "(เช่น: &quot;#0000ff&quot; หรือ &quot;blue&quot;):">
 <!ENTITY default.label "ค่าเริ่มต้น">
 <!ENTITY default.accessKey "ค">
+<!ENTITY palette.label "ชุดแบบสี:">
 <!ENTITY standardPalette.label "มาตรฐาน">
 <!ENTITY webPalette.label "สีเว็บทั้งหมด">
 <!ENTITY background.label "พื้นหลังสำหรับ:">
+<!ENTITY background.accessKey "พ">
 <!ENTITY table.label "ตาราง">
+<!ENTITY table.accessKey "ต">
 <!ENTITY cell.label "เซลล์">
+<!ENTITY cell.accessKey "ซ">
