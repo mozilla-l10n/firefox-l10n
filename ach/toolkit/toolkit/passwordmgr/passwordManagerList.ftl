@@ -10,3 +10,6 @@ focus-search-altshortcut =
     .key = k
 column-heading-site =
     .label = Kakube
+close-button =
+    .label = Lori
+    .accesskey = L
