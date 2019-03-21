@@ -15,20 +15,22 @@
 <!ENTITY password.label                  "Pasvorto:">
 <!ENTITY password.accesskey              "P">
 <!ENTITY password.placeholder            "Pasvorto">
-<!ENTITY password.text                   "Malnepra, estos uzita nur por kontroli la uzantnomon">
+<!ENTITY password.text                   "Malnepra, estos uzita nur por kontroli la salutnomon">
 <!ENTITY rememberPassword.label          "Memori pasvorton">
 <!ENTITY rememberPassword.accesskey      "m">
 <!ENTITY usernameEx.label                "Via salutnomo:">
 <!ENTITY usernameEx.accesskey            "s">
 <!-- LOCALIZATION NOTE(usernameEx.placeholder): YOURDOMAIN refers to the Windows domain in ActiveDirectory. yourusername refers to the user's account name in Windows. -->
+<!ENTITY usernameEx.placeholder          "YOURDOMAIN\salutnomo">
 <!-- LOCALIZATION NOTE(usernameEx.text): Domain refers to the Windows domain in ActiveDirectory. We mean the user's login in Windows at the local corporate network. -->
+<!ENTITY usernameEx.text                 "Nomregna salutnomo">
 
-<!ENTITY imapLong.label                  "IMAP (remote folders)">
-<!ENTITY pop3Long.label                  "POP3 (keep mail on your computer)">
+<!ENTITY imapLong.label                  "IMAP (foraj mesaĝujoj)">
+<!ENTITY pop3Long.label                  "POP3 (retpoŝto loke en via komputilo)">
 
-<!ENTITY incoming.label                  "Incoming:">
-<!ENTITY outgoing.label                  "Outgoing:">
-<!ENTITY username.label                  "Username:">
+<!ENTITY incoming.label                  "Enira servilo:">
+<!ENTITY outgoing.label                  "Elira servilo:">
+<!ENTITY username.label                  "Salutnomo:">
 <!ENTITY hostname.label                  "Server hostname">
 <!ENTITY port.label                      "Port">
 <!ENTITY ssl.label                       "SSL">
