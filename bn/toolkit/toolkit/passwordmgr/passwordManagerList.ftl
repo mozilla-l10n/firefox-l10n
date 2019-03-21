@@ -48,6 +48,7 @@ show-passwords =
 hide-passwords =
     .label = পাসওয়ার্ড আড়াল
     .accesskey = P
+logins-description-all = আপনার কম্পিউটারে নিম্নলিখিত সাইটগুলোর জন্য লগইন সংরক্ষিত আছে
 logins-description-filtered = আপনার অনুসন্ধানের সাথে নিম্নলিখিত লগইন মিলেছে:
 remove-all =
     .label = সব অপসারণ করুন
