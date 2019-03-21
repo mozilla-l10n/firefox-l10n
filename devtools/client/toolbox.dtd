@@ -114,6 +114,7 @@
 <!-- LOCALIZATION NOTE (options.toolNotSupported.label): This is the label for
   -  the explanation of the * marker on a tool which is currently not supported
   -  for the target of the toolbox. -->
+<!ENTITY options.toolNotSupported.label  "* Không được hỗ trợ cho hộp công cụ đích hiện tại">
 
 <!-- LOCALIZATION NOTE (options.selectDevToolsTheme.label2): This is the label for
   -  the heading of the radiobox corresponding to the theme of the developer
@@ -122,6 +123,8 @@
 
 <!-- LOCALIZATION NOTE (options.usedeveditiontheme.*) Options under the
   -  toolbox for enabling and disabling the Developer Edition browser theme. -->
+<!ENTITY options.usedeveditiontheme.label   "Sử dụng chủ đề trình duyệt dành cho nhà phát triển">
+<!ENTITY options.usedeveditiontheme.tooltip "Bật/tắt chủ đề trình duyệt dành cho nhà phát triển.">
 
 <!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
   -  heading of the group of Web Console preferences in the options panel. -->
