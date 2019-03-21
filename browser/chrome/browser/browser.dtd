@@ -108,7 +108,6 @@ These items have the same accesskey but will never be visible at the same time. 
 <!ENTITY  hiddenTabs.label                   "Tab Tersembunyi">
 
 <!ENTITY  listAllTabs.label      "Daftar tab">
-
 <!-- LOCALIZATION NOTE (allTabsMenu.searchTabs.label): "Search" is a verb, as
 in "Search through tabs". -->
 <!ENTITY  allTabsMenu.searchTabs.label       "Cari Tab">
@@ -215,6 +214,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenAutohide.accesskey "S">
 <!ENTITY fullScreenExit.label "Keluar dari Mode Layar Penuh">
 <!ENTITY fullScreenExit.accesskey "P">
+
+ <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
+     for the Firefox Account toolbar signin menu screen. -->
+<!ENTITY fxa.signin.callout.label "Bawa Firefox bersama Anda">
+
+<!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
+     for the Firefox Account toolbar unverified menu screen. -->
+
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbart menu screen. The `Signed in as` text is
+     followed by the user's email. -->
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -410,6 +420,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmd2.accesskey     "g">
 <!ENTITY preferencesCmdUnix.label       "Pengaturan">
 <!ENTITY preferencesCmdUnix.accesskey     "g">
+
 
 <!ENTITY clearRecentHistory.label               "Bersihkan Riwayat Terakhir">
 
@@ -882,7 +893,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "Anda belum memberikan izin khusus apa pun untuk situs ini. ">
 <!ENTITY identity.permissionsReloadHint "Anda mungkin perlu memuat ulang laman untuk menerapkan perubahan.">
 <!ENTITY identity.permissionsPreferences.tooltip "Buka Preferensi Izin">
-
 <!ENTITY identity.contentBlockingPreferences.tooltip "Buka Preferensi Pemblokiran Konten">
 
 
@@ -1136,8 +1146,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Kelola pengaya Anda dengan mengeklik <image class='addon-addon-icon'/>di<image class='addon-toolbar-icon'/> menu.">
-<!ENTITY addonPostInstall.incognito.label "Izinkan ekstensi ini untuk berjalan di Jendela Pribadi.">
-<!ENTITY addonPostInstall.incognito.accesskey "A">
 
 <!ENTITY addonPrivateBrowsing.header2.label "Ubah ke ekstensi pada Jendela Pribadi">
 <!ENTITY addonPrivateBrowsing.body2.label "Semua ekstensi baru yang Anda tambahkan ke &brandShorterName; tidak akan berjalan di Jendela Pribadi kecuali Anda mengizinkannya di peraturan.">
