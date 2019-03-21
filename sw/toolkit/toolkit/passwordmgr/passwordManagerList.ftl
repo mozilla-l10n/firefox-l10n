@@ -25,3 +25,4 @@ close-button =
     .accesskey = F
 remove-all-passwords-prompt = Una uhakika ungependa kuondoa manenosiri yote?
 remove-all-passwords-title = Onyesha Manenosiri yote
+no-master-password-prompt = Una uhakika ungependa kuonyesha manenosiri yako?
