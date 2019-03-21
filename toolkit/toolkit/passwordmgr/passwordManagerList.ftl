@@ -61,6 +61,7 @@ hide-passwords =
     .label = Ascondi Paròlla segreta
     .accesskey = P
 logins-description-all = I dæti d'acesso pe sti sciti en sarvæ in sciô computer
+logins-description-filtered = Sti dæti d'acesso corispondan a-i critei de riçerca:
 remove-all =
     .label = Scancella tutto
     .accesskey = S
