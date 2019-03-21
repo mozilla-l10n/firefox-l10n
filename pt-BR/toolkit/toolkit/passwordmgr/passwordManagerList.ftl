@@ -57,6 +57,7 @@ show-passwords =
 hide-passwords =
     .label = Ocultar senhas
     .accesskey = s
+logins-description-all = Contas de acessos para os seguintes sites são armazenadas no seu computador
 logins-description-filtered = As seguintes contas de acesso satisfazem a sua pesquisa:
 remove-all =
     .label = Remover tudo
