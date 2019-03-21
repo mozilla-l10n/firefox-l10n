@@ -51,6 +51,7 @@ show-passwords =
 hide-passwords =
     .label = Ocultar contraseñas
     .accesskey = P
+logins-description-all = Los inicios de sesión para los siguientes sitios web están almacenados en tu computadora
 logins-description-filtered = Los siguientes inicios de sesión coinciden con tu búsqueda:
 remove-all-passwords-prompt = ¿Seguro que quieres eliminar todas las contraseñas?
 remove-all-passwords-title = Eliminar todas las contraseñas
