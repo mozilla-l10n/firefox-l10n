@@ -54,6 +54,7 @@ show-passwords =
 hide-passwords =
     .label = စကားဝှက်များကို မပြပါနှင့်
     .accesskey = P
+logins-description-all = အောက်ပါ ဝက်ဆိုက်များ အတွင်း ဝင်ရောက်ထားသော စကားဝှက်များ
 logins-description-filtered = အောက်ပါဝင်ရောက်မှု အချက်အလက်များသည် သင့်ရှာဖွေမှုနှင့် ကိုက်ညီသည်။:
 remove-all =
     .label = အားလုံးကိုဖယ်ပါ
