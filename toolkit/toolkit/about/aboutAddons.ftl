@@ -261,5 +261,6 @@ go-back-button =
 remove-addon-button = Odstrániť
 disable-addon-button = Zakázať
 enable-addon-button = Povoliť
+expand-addon-button = Ďalšie možnosti
 addons-enabled-heading = Povolené
 addons-disabled-heading = Zakázané
