@@ -1,0 +1,49 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+saved-logins =
+    .title = Запазени регистрации
+window-close =
+    .key = w
+focus-search-shortcut =
+    .key = f
+focus-search-altshortcut =
+    .key = k
+edit-username-cmd =
+    .label = Редактиране на потребителско име
+    .accesskey = п
+edit-password-cmd =
+    .label = Редактиране на парола
+    .accesskey = Р
+column-heading-username =
+    .label = Потребителско име
+column-heading-password =
+    .label = Парола
+column-heading-time-created =
+    .label = Първо използване
+column-heading-time-last-used =
+    .label = Последно използване
+column-heading-time-password-changed =
+    .label = Последна промяна
+column-heading-times-used =
+    .label = Брой използвания
+remove =
+    .label = Премахване
+    .accesskey = П
+import =
+    .label = Внасяне…
+    .accesskey = В
+close-button =
+    .label = Затваряне
+    .accesskey = З
+show-passwords =
+    .label = Показване на пароли
+    .accesskey = П
+hide-passwords =
+    .label = Скриване на паролите
+    .accesskey = С
+logins-description-filtered = Следните регистрации отговарят на търсенето ви:
+remove-all-passwords-prompt = Сигурни ли сте, че желаете да изтриете всички запазени пароли?
+remove-all-passwords-title = Изтриване на всички пароли
+no-master-password-prompt = Сигурни ли сте, че желаете паролите ви да бъдат показани?
