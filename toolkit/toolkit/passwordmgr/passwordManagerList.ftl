@@ -4,6 +4,8 @@
 
 saved-logins =
     .title = Saxlanılmış Hesablar
+window-close =
+    .key = w
 focus-search-shortcut =
     .key = f
 focus-search-altshortcut =
