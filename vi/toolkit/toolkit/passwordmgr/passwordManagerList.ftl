@@ -71,3 +71,5 @@ remove-all-shown =
 remove-all-passwords-prompt = Bạn có chắc bạn muốn xóa tất cả mật khẩu?
 remove-all-passwords-title = Xóa tất cả mật khẩu
 no-master-password-prompt = Bạn có chắc bạn muốn hiện các mật khẩu của mình?
+auto-fill-logins-and-passwords =
+    .label = Tự động điền đăng nhập và mật khẩu
