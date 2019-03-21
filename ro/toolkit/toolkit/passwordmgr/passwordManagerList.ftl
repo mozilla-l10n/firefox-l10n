@@ -71,3 +71,5 @@ remove-all-shown =
 remove-all-passwords-prompt = Sigur vrei să elimini toate parolele?
 remove-all-passwords-title = Elimină toate parolele
 no-master-password-prompt = Sigur vrei să afișezi parolele?
+auto-fill-logins-and-passwords =
+    .label = Completare automată nume de utilizator și parole
