@@ -112,10 +112,19 @@ about-debugging-collapse-expand-debug-targets = 折叠 / 展开
 
 # Debug Targets strings
 
+# Displayed in the categories of "runtime" pages that don't have any debug target to
+# show. Debug targets depend on the category (extensions, tabs, workers...).
+about-debugging-debug-target-list-empty = 尚未开始。
 # Text of a button displayed next to debug targets of "runtime" pages. Clicking on this
 # button will open a DevTools toolbox that will allow inspecting the target.
 # A target can be an addon, a tab, a worker...
 about-debugging-debug-target-inspect-button = 查看
+# Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
+# Clicking on the button will reload the extension.
+about-debugging-tmp-extension-reload-button = 重载
+# Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
+# Clicking on the button will uninstall the extension and remove it from the page.
+about-debugging-tmp-extension-remove-button = 移除
 # Text displayed for extensions in "runtime" pages, before displaying a link the extension's
 # manifest URL.
 about-debugging-extension-manifest-url =
@@ -149,6 +158,11 @@ about-debugging-worker-fetch-listening =
 about-debugging-worker-fetch-not-listening =
     .label = Fetch
     .value = 未在监听 fetch 事件
+# Displayed for service workers in runtime pages that are currently running (service
+# worker instance is active).
+about-debugging-worker-status-running = 正在运行
+# Displayed for service workers in runtime pages that are registered but stopped.
+about-debugging-worker-status-stopped = 已停止
 # Displayed for service workers in runtime pages that are registering.
 about-debugging-worker-status-registering = 正在注册
 # Displayed for service workers in runtime pages, to label the scope of a worker
