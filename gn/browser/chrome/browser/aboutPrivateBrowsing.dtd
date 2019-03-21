@@ -37,6 +37,7 @@
                        text for the search box.   -->
 <!ENTITY aboutPrivateBrowsing.search.placeholder         "Eheka ñandutípe">
 <!ENTITY aboutPrivateBrowsing.info.title                 "Eikehína ovetã ñemíme">
+<!ENTITY aboutPrivateBrowsing.info.description           "&brandShortName; ombogue jeheka ha kundaha rembiasakue esẽvo tembipuru’ígui térã embotykuévo opaite ovetã ha tendayke kundaha ñemi rehegua. Kóva nandekuaukáiramo jepe ñanduti rendápe térã ne ñanduti me'ẽhárape g̃uarã, nombohasýi eime ñemi hag̃ua ñandutípe opaite tapicha oipurúva ko mohendaha renondépe.">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article
                        about private browsing myths.   -->
 <!ENTITY aboutPrivateBrowsing.info.myths                 "Mombe'uguau kundaha ñemi rehegua">
