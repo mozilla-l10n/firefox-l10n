@@ -218,14 +218,24 @@ These should match what Safari and other Apple applications use on OS X Lion. --
  <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
      for the Firefox Account toolbar signin menu screen. -->
 <!ENTITY fxa.signin.callout.label "Ta med deg Firefox">
+<!ENTITY fxa.signin.description.label "Få bokmerke, historikk, passord og andre innstillingar på alle einingane dine.">
+<!ENTITY fxa.signin.button.label "Slå på &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
      for the Firefox Account toolbar unverified menu screen. -->
+<!ENTITY fxa.unverified.callout.label "Sjekk e-posten din">
+<!ENTITY fxa.unverified.description.label "Du må stadfeste kontoen din før du kan synkronisere.">
+<!ENTITY fxa.unverified.button.label "Opne &syncBrand.shortName.label;-innstillingar…">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbart menu screen. The `Signed in as` text is
      followed by the user's email. -->
+<!ENTITY fxa.menu.signedInAs.label "Logga inn som">
 <!ENTITY fxa.menu.manageAccount.label "Handter kontoen…">
+<!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label;-innstillingar…">
+<!ENTITY fxa.menu.connectAnotherDevice.label "&syncedTabs.sidebar.connectAnotherDevice;">
+<!ENTITY fxa.menu.connectAnotherDevice2.label "Kople til ei anna eining…">
+<!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -1149,6 +1159,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Administrer tillegga dine ved å klikke på <image class='addon-addon-icon'/> i menyen <image class='addon-toolbar-icon'/>.">
+<!ENTITY addonPostInstall.incognito.checkbox.label "Tillat denne utvidinga å kløyre i private vindauge">
+<!ENTITY addonPostInstall.incognito.checkbox.accesskey "T">
 
 <!ENTITY addonPrivateBrowsing.header2.label "Endring av korleis utvidingar fungerer i private vindauge">
 <!ENTITY addonPrivateBrowsing.body2.label "Eventuelle nye utvidingar du legg til &brandShorterName; vil ikkje fungere i private vindauge med mindre du tillèt dette i innstillingane.">
