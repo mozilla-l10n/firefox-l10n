@@ -60,6 +60,7 @@ show-passwords =
 hide-passwords =
     .label = Ascondi Paròlla segreta
     .accesskey = P
+logins-description-all = I dæti d'acesso pe sti sciti en sarvæ in sciô computer
 remove-all =
     .label = Scancella tutto
     .accesskey = S
