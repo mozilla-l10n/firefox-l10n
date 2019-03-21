@@ -2,15 +2,29 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+saved-logins =
+    .title = Inicis de sessió desats
 window-close =
     .key = w
 focus-search-shortcut =
     .key = f
 focus-search-altshortcut =
     .key = k
+copy-username-cmd =
+    .label = Copia el nom d'usuari
+    .accesskey = u
+edit-username-cmd =
+    .label = Edita el nom d'usuari
+    .accesskey = d
 copy-password-cmd =
     .label = Copia la contrasenya
     .accesskey = C
+edit-password-cmd =
+    .label = Edita la contrasenya
+    .accesskey = E
+search-filter =
+    .accesskey = C
+    .placeholder = Cerca
 column-heading-site =
     .label = Lloc
 column-heading-username =
@@ -25,6 +39,17 @@ column-heading-time-password-changed =
     .label = Darrer canvi
 column-heading-times-used =
     .label = Nombre d'usos
+import =
+    .label = Importa…
+    .accesskey = I
 close-button =
     .label = Tanca
     .accesskey = c
+show-passwords =
+    .label = Mostra les contrasenyes
+    .accesskey = M
+hide-passwords =
+    .label = Amaga les contrasenyes
+    .accesskey = m
+logins-description-filtered = Les dades d'inici de sessió següents coincideixen amb la vostra cerca:
+no-master-password-prompt = Esteu segur que voleu mostrar les vostres contrasenyes?
