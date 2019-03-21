@@ -44,10 +44,12 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } utente
        *[other] { $total } utenti
     }
+cfr-doorhanger-pintab-description = Acedi façilmente a-i sciti ciù uzæ.  Tegni i sciti averti inte 'n feuggio (anche dòppo 'n re-inandio).
 
 ## These messages are steps on how to use the feature and are shown together.
 
 cfr-doorhanger-pintab-step1 = <b>Sciacca drito</b> in sciô feuggio quade t'eu amugiâ.
 cfr-doorhanger-pintab-step2 = Seleçionn-a <b>Aponta sto feuggio</b> da-o menû.
+cfr-doorhanger-pintab-step3 = Se o scito o l'à 'n agiornamento ti vediæ 'n balin bleu in sciô feuggio apontou.
 cfr-doorhanger-pintab-animation-pause = Pösa
 cfr-doorhanger-pintab-animation-resume = Repiggia
