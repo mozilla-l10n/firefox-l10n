@@ -196,7 +196,7 @@ which uses strings already defined above. The button is included here (instead o
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
 <!ENTITY securityOverride.warningContent "
-<p>არ დაამატოთ გამონაკლისი, თუ არა სანდო ინტერნეტ კავშირს იყენებთ, ან ამ სერვერისთვის გაფრთხილება არასდროს გინახავთ.</p>
+<p>არ დაამატოთ გამონაკლისი, თუ არასანდო ინტერნეტკავშირს იყენებთ ან ამ სერვერზე გაფრთხილება აქამდე არასდროს გინახავთ.</p>
 
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
