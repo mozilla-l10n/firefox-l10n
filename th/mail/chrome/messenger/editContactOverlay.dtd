@@ -14,9 +14,7 @@
 <!ENTITY editContactAddressBook.label "สมุดรายชื่อ:">
 <!ENTITY editContactAddressBook.accesskey "ส">
 
-<!ENTITY editContactPanelCancel.label "ยกเลิก">
-<!ENTITY editContactPanelCancel.accesskey "ย">
-
 <!ENTITY editContactPanelDone.label "เสร็จสิ้น">
 <!ENTITY editContactPanelDone.accesskey "ร">
 
+<!ENTITY contactMoveDisabledWarning.description "คุณไม่สามารถเปลี่ยนสมุดรายชื่อได้เนื่องจากผู้ติดต่ออยู่ในรายชื่อผู้รับจดหมาย">
