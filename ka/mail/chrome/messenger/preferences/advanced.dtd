@@ -67,7 +67,7 @@
  -->
 <!ENTITY updateApp.version.pre           "ვერსია ">
 <!ENTITY updateApp.version.post          "">
-<!ENTITY updateAppAllow.description      "&brandShortName;-ისთვის ნების დართვა">
+<!ENTITY updateAppAllow.description      "ნებართვა, რომ &brandShortName; შეძლებს,">
 <!ENTITY updateAuto.label                "თავად დააყენოს განახლებები (სასურველია უსაფრთხოების გასაუმჯობესებლად)">
 <!ENTITY updateAuto.accesskey            "თ">
 <!ENTITY updateCheck.label               "შემოწმდეს განახლებებზე, მაგრამ თავად გადაწყვეტთ, დააყენებთ თუ არა">
