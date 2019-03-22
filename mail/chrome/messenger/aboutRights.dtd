@@ -41,13 +41,18 @@
 <!ENTITY rights.intro-point4b-unbranded "บริการเว็บ">
 <!ENTITY rights.intro-point4c-unbranded "">
 
+<!ENTITY rights.webservices-header "บริการเว็บไซต์ &brandFullName;">
 
 <!-- Note that this paragraph references a couple of entities from
      preferences/security.dtd, so that we can refer to text the user sees in
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
+<!ENTITY rights.webservices-a "&brandFullName; เสนอบริการเพิ่มเติม (&quot;บริการ&quot;) เช่น บริการอัปเดตส่วนเสริม ซึ่งมีให้คุณใช้ใน &brandShortName; รุ่นนี้ตามที่ได้อธิบายไว้ด้านล่าง หากคุณไม่ต้องการใช้งานบริการหรือข้อตกลงด้านล่างนั้นไม่สามารถยอมรับได้ คุณอาจใช้งานบริการอัปเดตส่วนเสริมโดยเปิดค่ากำหนดแอปพลิเคชัน แล้วเลือกส่วน ">
 <!ENTITY rights.webservices-b "ขั้นสูง">
+<!ENTITY rights.webservices-c " ตามด้วยแท็บ ">
+<!ENTITY rights.webservices-d "การอัปเดต">
+<!ENTITY rights.webservices-e " และยกเลิกการกาเครื่องหมายตัวเลือก &quot;ตรวจสอบการอัปเดตอัตโนมัติ&quot;">
 
 <!-- intro paragraph for unbranded builds -->
 
