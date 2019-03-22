@@ -69,22 +69,38 @@
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp1.suffix3, if required grammatically.
 -->
+<!ENTITY haveSmtp1.prefix "เซิร์ฟเวอร์ขาออกที่มีอยู่ของคุณ (SMTP) &quot;">
+<!ENTITY haveSmtp1.suffix3 "&quot; จะถูกใช้">
 <!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp2.suffix3, if required grammatically.
 -->
+<!ENTITY haveSmtp2.prefix "ชื่อผู้ใช้ขาออก (SMTP) ที่มีอยู่ของคุณ &quot;">
+<!ENTITY haveSmtp2.suffix3 "&quot; จะถูกใช้">
 <!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp3.suffix3, if required grammatically.
 -->
+<!ENTITY haveSmtp3.prefix "เซิร์ฟเวอร์ขาออก (SMTP) ของคุณ &quot;">
+<!ENTITY haveSmtp3.suffix3 "&quot; เหมือนกับเซิร์ฟเวอร์ขาเข้าของคุณ ชื่อผู้ใช้ขาเข้าของคุณจะถูกใช้ในการเข้าถึงแทน">
 
 <!-- Entities for Account name page -->
 
 <!ENTITY accnameTitle.label "ชื่อบัญชี">
 <!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
+<!ENTITY accnameDesc.label "ป้อนชื่อที่คุณต้องการอ้างถึงบัญชีนี้ (ตัวอย่างเช่น &quot;บัญชีที่ทำงาน&quot;, &quot;บัญชีที่บ้าน&quot; หรือ &quot;บัญชีข่าว&quot;)">
 <!ENTITY accnameLabel.label "ชื่อบัญชี:">
 
 <!-- Entities for Done (Congratulations) page -->
 
 <!ENTITY completionTitle.label "ยินดีด้วย!">
 <!ENTITY completionText.label "โปรดยืนยันว่าข้อมูลด้านล่างถูกต้อง">
+<!ENTITY serverTypePrefix.label "ชนิดเซิร์ฟเวอร์ขาเข้า:">
+<!ENTITY serverNamePrefix.label "ชื่อเซิร์ฟเวอร์ขาเข้า:">
+<!ENTITY smtpServerNamePrefix.label "ชื่อเซิร์ฟเวอร์ขาออก (SMTP):">
+<!ENTITY newsServerNamePrefix.label "ชื่อเซิร์ฟเวอร์ข่าว (NNTP):">
+<!ENTITY downloadOnLogin.label "ดาวน์โหลดข้อความเดี๋ยวนี้">
+<!ENTITY deferStorageDesc.label "ยกเลิกการกาเครื่องหมายในกล่องกาเครื่องหมายนี้เพื่อเก็บจดหมายสำหรับบัญชีนี้ในไดเรกทอรีของบัญชีนี้เอง ซึ่งจะทำให้บัญชีนี้ปรากฏเป็นบัญชีระดับบนสุด มิฉะนั้น จะกลายเป็นส่วนหนึ่งของบัญชีกล่องขาเข้าส่วนกลางของโฟลเดอร์ภายในเครื่องแทน">
+<!ENTITY deferStorage.label "ใช้กล่องขาเข้าส่วนกลาง (เก็บจดหมายในโฟลเดอร์ภายในเครื่อง)">
+<!ENTITY clickFinish.label "คลิก เสร็จสิ้น เพื่อบันทึกการตั้งค่าเหล่านี้และออกจากตัวช่วยสร้างบัญชี">
+<!ENTITY clickFinish.labelMac "คลิก เสร็จสิ้น เพื่อบันทึกการตั้งค่าเหล่านี้และออกจากตัวช่วยสร้างบัญชี">
