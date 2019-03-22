@@ -255,5 +255,6 @@ go-back-button =
 remove-addon-button = Tiyuj
 disable-addon-button = Tichup
 enable-addon-button = Titzij
+expand-addon-button = Ch'aqa' chik taq Cha'oj
 addons-enabled-heading = Tzijon
 addons-disabled-heading = Chupun
