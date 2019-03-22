@@ -54,8 +54,8 @@
 <!ENTITY  errorpatching.intro             "ნაწილობრივი განახლება შეუძლებელია. 
 &brandShortName; კვლავ შეეცდება სრული განახლების გადმოტვირთვის გზით.">
 
-<!ENTITY  genericBackgroundError.label    "&brandShortName;-მა ვერ შეძლო დაედგინა ხელმისაწვდომია თუ არა განახლება. გთხოვთ
-                                           დარწმუნდით, რომ &brandShortName;-ის ბოლო ვერსი გაქვთ, მდებარეობიდან:">
+<!ENTITY  genericBackgroundError.label    "&brandShortName; ვერ ახერხებს დაადგინოს, ხელმისაწვდომია თუ არა განახლება. გთხოვთ
+                                           დარწმუნდეთ, რომ brandShortName; ბოლო ვერსიაა, მისამართიდან:">
 
 <!ENTITY  finishedPage.title              "განახლება მზადაა ჩასადგმელად">
 <!ENTITY  finishedPage.text               "განახლება ჩაიდგმება &brandShortName; შემდეგ სეანსზე. შეგიძლიათ დახუროთ და ხელახლა 
@@ -72,6 +72,3 @@
                                            ხელახლა გაუშვათ &brandShortName; ახლვე, ან განაგრძოთ მუშაობა და მოგვიანებით გაუშვათ ხელახლა, ან უარი თქვათ
                                            განახლებაზე.">
 
-<!ENTITY  update.details.label            "ვრცლად">
-<!ENTITY  update.installedOn.label        "ჩადგმის თარიღი:">
-<!ENTITY  update.status.label             "მდგომარეობა:">
