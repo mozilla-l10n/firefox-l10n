@@ -45,6 +45,7 @@
 <!ENTITY insertCharsCmd.label "อักขระและสัญลักษณ์…">
 <!ENTITY insertCharsCmd.accesskey "อ">
 <!ENTITY insertBreakAllCmd.label "แบ่งภาพที่อยู่ด้านล่าง">
+<!ENTITY insertBreakAllCmd.accesskey "แ">
 
 <!-- Used just in context popup. -->
 <!ENTITY createLinkCmd.label "สร้างลิงก์…">
