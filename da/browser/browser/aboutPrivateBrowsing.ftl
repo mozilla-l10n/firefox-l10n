@@ -11,6 +11,7 @@ about-private-browsing-search-placeholder = Søg på nettet
 about-private-browsing-info-bookmarks = bogmærker
 about-private-browsing-info-title = Du befinder dig i et privat vindue
 about-private-browsing-info-searches = søgninger
+about-private-browsing-info-downloads = hentede filer
 private-browsing-title = Privat browsing
 about-private-browsing-info-saved = { -brand-short-name } <strong>gemmer</strong> dine:
 about-private-browsing-info-myths = Almindelige myter om privat browsing
