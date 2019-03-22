@@ -215,6 +215,28 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenExit.label "Opuść tryb pełnoekranowy">
 <!ENTITY fullScreenExit.accesskey "O">
 
+ <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
+     for the Firefox Account toolbar signin menu screen. -->
+<!ENTITY fxa.signin.callout.label "Zabierz Firefoksa ze sobą">
+<!ENTITY fxa.signin.description.label "Zakładki, historia, hasła i pozostałe ustawienia na wszystkich urządzeniach.">
+<!ENTITY fxa.signin.button.label "Włącz synchronizację…">
+
+<!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
+     for the Firefox Account toolbar unverified menu screen. -->
+<!ENTITY fxa.unverified.callout.label "Sprawdź pocztę">
+<!ENTITY fxa.unverified.description.label "Przed synchronizacją musisz zweryfikować konto.">
+<!ENTITY fxa.unverified.button.label "Otwórz ustawienia synchronizacji…">
+
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbart menu screen. The `Signed in as` text is
+     followed by the user's email. -->
+<!ENTITY fxa.menu.signedInAs.label "Zalogowano jako">
+<!ENTITY fxa.menu.manageAccount.label "Zarządzaj kontem…">
+<!ENTITY fxa.menu.syncSettings.label "Ustawienia synchronizacji…">
+<!ENTITY fxa.menu.connectAnotherDevice.label "&syncedTabs.sidebar.connectAnotherDevice;">
+<!ENTITY fxa.menu.connectAnotherDevice2.label "Połącz inne urządzenie…">
+<!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
+
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring fullscreen.
@@ -409,6 +431,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "Preferencje">
 <!ENTITY preferencesCmdUnix.accesskey     "r">
+
+<!ENTITY logins.label                           "Dane logowania i hasła">
 
 <!ENTITY clearRecentHistory.label               "Wyczyść historię przeglądania…">
 
@@ -932,6 +956,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncSignIn.label             "Zaloguj się, aby rozpocząć synchronizację…">
 <!ENTITY syncSignIn.accesskey         "s">
 <!ENTITY syncSyncNowItem.label        "Synchronizuj teraz">
+<!ENTITY syncSyncNowItemSyncing.label "Synchronizowanie…">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "Zaloguj się ponownie, aby synchronizować…">
 <!ENTITY syncReAuthItem.accesskey     "Z">
@@ -1134,8 +1159,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Zarządzaj dodatkami klikając <image class='addon-addon-icon'/> w menu <image class='addon-toolbar-icon'/>.">
-<!ENTITY addonPostInstall.incognito.label "To rozszerzenie może działać w oknach prywatnych.">
-<!ENTITY addonPostInstall.incognito.accesskey "T">
+<!ENTITY addonPostInstall.incognito.checkbox.label "To rozszerzenie może działać w oknach prywatnych">
+<!ENTITY addonPostInstall.incognito.checkbox.accesskey "T">
 
 <!ENTITY addonPrivateBrowsing.header2.label "Zmiana działania rozszerzeń w oknach prywatnych">
 <!ENTITY addonPrivateBrowsing.body2.label "Rozszerzenia dodane do przeglądarki &brandShorterName; nie będą działać w oknach prywatnych, jeśli nie zostanie to zmienione w ustawieniach.">
