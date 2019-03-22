@@ -4,8 +4,9 @@
 
 about-config-warning-button = Αποδέχομαι τον κίνδυνο
 about-config-title = about:config
-about-config-search =
-    .placeholder = Αναζήτηση ή πατήστε ESC για εμφάνιση όλων
+about-config-search-input =
+    .placeholder = Αναζήτηση
+about-config-show-all = Εμφάνιση όλων
 about-config-pref-add = Προσθήκη
 about-config-pref-toggle = Εναλλαγή
 about-config-pref-edit = Επεξεργασία
@@ -15,6 +16,9 @@ about-config-pref-delete = Διαγραφή
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
+about-config-pref-add-type-boolean = Αληθείας
+about-config-pref-add-type-number = Αριθμητικά
+about-config-pref-add-type-string = Αλφαριθμητικά
 
 ## Preferences with a non-default value are differentiated visually, and at the
 ## same time the state is made accessible to screen readers using an aria-label
