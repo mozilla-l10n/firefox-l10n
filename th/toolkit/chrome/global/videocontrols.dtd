@@ -10,7 +10,6 @@
 <!ENTITY fullscreenButton.exitfullscreenlabel "ออกจากภาพเต็มหน้าจอ">
 <!ENTITY castingButton.castingLabel "ฉายขึ้นหน้าจอ">
 <!ENTITY closedCaption.off "ปิด">
-
 <!-- LOCALIZATION NOTE (volumeScrubber.label): This label is exposed to
      accessibility software to clarify what the slider is for. -->
 <!ENTITY volumeScrubber.label "แถบเลื่อนระดับเสียง">
@@ -34,6 +33,8 @@
 <!ENTITY error.srcNotSupported "ไม่สามารถเล่นวิดีโอรูปแบบนี้ หรือ MIME ชนิดนี้ได้">
 <!ENTITY error.noSource2 "ไม่พบวิดีโอที่อยู่ในรูปแบบหรือชนิดของ MIME ที่เล่นได้">
 <!ENTITY error.generic "การเล่นวิดีโอถูกยกเลิกเนื่องจากข้อผิดพลาดที่ไม่ระบุไม่ได้">
+
+<!ENTITY status.pictureInPicture "วิดีโอนี้กำลังเล่นในโหมดภาพที่เล่นควบคู่">
 
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
