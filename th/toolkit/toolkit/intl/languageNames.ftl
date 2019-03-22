@@ -206,5 +206,6 @@ language-name-xh = โซซา
 language-name-yi = ยิดดิช
 language-name-yo = โยรูบา
 language-name-za = จ้วง
+language-name-zam = ซาโพเท็กเมียฮวัตลัน
 language-name-zh = จีน
 language-name-zu = ซูลู

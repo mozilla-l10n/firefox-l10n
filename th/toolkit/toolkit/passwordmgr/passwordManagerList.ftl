@@ -71,3 +71,5 @@ remove-all-shown =
 remove-all-passwords-prompt = คุณแน่ใจหรือไม่ว่าต้องการเอารหัสผ่านทั้งหมดออก?
 remove-all-passwords-title = เอารหัสผ่านทั้งหมดออก
 no-master-password-prompt = คุณแน่ใจหรือไม่ว่าต้องการแสดงรหัสผ่านของคุณ?
+auto-fill-logins-and-passwords =
+    .label = กรอกข้อมูลการเข้าสู่ระบบและรหัสผ่านอัตโนมัติ
