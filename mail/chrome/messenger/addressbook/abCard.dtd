@@ -77,8 +77,11 @@
 <!ENTITY Birthday.label                 "Γενέθλια:">
 <!ENTITY Birthday.accesskey             "Γ">
 <!ENTITY In.label                       "">
+<!ENTITY Month.placeholder              "Μήνας">
+<!ENTITY Day.placeholder                "Ημέρα">
 <!ENTITY Year.placeholder               "Έτος">
 <!ENTITY Or.value                       "ή">
+<!ENTITY Age.label                      "Ηλικία:">
 <!ENTITY Age.placeholder                "Ηλικία">
 <!ENTITY YearsOld.label                 "">
 
