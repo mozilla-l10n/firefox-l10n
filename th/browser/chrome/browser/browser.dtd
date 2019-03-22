@@ -215,6 +215,28 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenExit.label "ออกจากโหมดเต็มหน้าจอ">
 <!ENTITY fullScreenExit.accesskey "จ">
 
+ <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
+     for the Firefox Account toolbar signin menu screen. -->
+<!ENTITY fxa.signin.callout.label "นำ Firefox ไปกับคุณ">
+<!ENTITY fxa.signin.description.label "รับที่คั่นหน้า ประวัติการเข้าชม รหัสผ่าน และการตั้งค่าอื่นๆ บนอุปกรณ์ทั้งหมดของคุณ">
+<!ENTITY fxa.signin.button.label "เปิด &syncBrand.shortName.label;…">
+
+<!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
+     for the Firefox Account toolbar unverified menu screen. -->
+<!ENTITY fxa.unverified.callout.label "ตรวจสอบอีเมลของคุณ">
+<!ENTITY fxa.unverified.description.label "คุณจำเป็นต้องยืนยันบัญชีของคุณก่อนจึงจะสามารถซิงค์ได้">
+<!ENTITY fxa.unverified.button.label "เปิดการตั้งค่า &syncBrand.shortName.label;…">
+
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbart menu screen. The `Signed in as` text is
+     followed by the user's email. -->
+<!ENTITY fxa.menu.signedInAs.label "ลงชื่อเข้าเป็น">
+<!ENTITY fxa.menu.manageAccount.label "จัดการบัญชี…">
+<!ENTITY fxa.menu.syncSettings.label "การตั้งค่า &syncBrand.shortName.label;…">
+<!ENTITY fxa.menu.connectAnotherDevice.label "&syncedTabs.sidebar.connectAnotherDevice;">
+<!ENTITY fxa.menu.connectAnotherDevice2.label "เชื่อมต่ออุปกรณ์อื่น…">
+<!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
+
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring fullscreen.
@@ -409,6 +431,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmd2.accesskey     "ต">
 <!ENTITY preferencesCmdUnix.label       "ค่ากำหนด">
 <!ENTITY preferencesCmdUnix.accesskey     "ด">
+
+<!ENTITY logins.label                           "การเข้าสู่ระบบและรหัสผ่าน">
 
 <!ENTITY clearRecentHistory.label               "ล้างประวัติล่าสุด…">
 
@@ -932,6 +956,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncSignIn.label             "ลงชื่อเข้า &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "ล">
 <!ENTITY syncSyncNowItem.label        "ซิงค์ตอนนี้">
+<!ENTITY syncSyncNowItemSyncing.label "กำลังซิงค์…">
 <!ENTITY syncSyncNowItem.accesskey    "ง">
 <!ENTITY syncReAuthItem.label         "เชื่อมต่อกับ &syncBrand.shortName.label; ใหม่…">
 <!ENTITY syncReAuthItem.accesskey     "ช">
@@ -1134,7 +1159,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "จัดการส่วนเสริมของคุณโดยคลิก <image class='addon-addon-icon'/> ใน <image class='addon-toolbar-icon'/> เมนู">
+<!ENTITY addonPostInstall.incognito.checkbox.label "อนุญาตให้ส่วนขยายนี้ทำงานในหน้าต่างส่วนตัว">
+<!ENTITY addonPostInstall.incognito.checkbox.accesskey "อ">
 
+<!ENTITY addonPrivateBrowsing.header2.label "การเปลี่ยนแปลงกับส่วนขยายในหน้าต่างส่วนตัว">
+<!ENTITY addonPrivateBrowsing.body2.label "ส่วนขยายใหม่ใด ๆ ที่คุณเพิ่มไปยัง &brandShorterName; จะไม่ทำงานในหน้าต่างส่วนตัวนอกจากคุณจะอนุญาตสิ่งนี้ในการตั้งค่า">
+<!ENTITY addonPrivateBrowsing.learnMore.label "เรียนรู้วิธีการจัดการการตั้งค่าส่วนขยาย">
 <!ENTITY addonPrivateBrowsing.okButton.label "ตกลง เข้าใจแล้ว">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "ต">
 <!ENTITY addonPrivateBrowsing.manageButton.label "จัดการส่วนขยาย">
