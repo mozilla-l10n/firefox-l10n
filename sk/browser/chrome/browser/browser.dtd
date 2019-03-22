@@ -432,7 +432,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.label       "Možnosti">
 <!ENTITY preferencesCmdUnix.accesskey     "M">
 
-<!ENTITY logins.label                           "Prihlasovacie údaje a heslá">
+<!ENTITY logins.label                           "Prihlasovacie údaje">
 
 <!ENTITY clearRecentHistory.label               "Vymazať históriu prehliadania…">
 
