@@ -8,6 +8,11 @@
 
 # Page Title strings
 
+# Page title (ie tab title) for the Setup page
+about-debugging-page-title-setup-page = 调试 - 设置
+# Page title (ie tab title) for the Runtime page
+# { $selectedRuntimeId } is the id of the current runtime, such as "this-firefox", "localhost:6080", ...
+about-debugging-page-title-runtime-page = 调试 - 运行时 / { $selectedRuntimeId }
 
 # Sidebar strings
 
@@ -17,6 +22,9 @@ about-debugging-this-firefox-runtime-name = 此 { -brand-shorter-name }
 # Sidebar heading for selecting the currently running instance of Firefox
 about-debugging-sidebar-this-firefox =
     .name = { about-debugging-this-firefox-runtime-name }
+# Sidebar heading for connecting to some remote source
+about-debugging-sidebar-setup =
+    .name = 设置
 # Text displayed in the about:debugging sidebar when USB devices discovery is enabled.
 about-debugging-sidebar-usb-enabled = USB 已启用
 # Text displayed in the about:debugging sidebar when USB devices discovery is disabled
@@ -26,6 +34,8 @@ about-debugging-sidebar-usb-disabled = USB 已禁用
 aboutdebugging-sidebar-runtime-connection-status-connected = 已连接
 # Connection status (disconnected) for runtime items in the sidebar
 aboutdebugging-sidebar-runtime-connection-status-disconnected = 已断开连接
+# Text displayed in the about:debugging sidebar when no device was found.
+about-debugging-sidebar-no-devices = 未发现设备
 # Text displayed in buttons found in sidebar items representing remote runtimes.
 # Clicking on the button will attempt to connect to the runtime.
 about-debugging-sidebar-item-connect-button = 连接
@@ -45,10 +55,21 @@ about-debugging-refresh-usb-devices-button = 刷新设备
 
 # Setup Page strings
 
+# Title of the Setup page.
+about-debugging-setup-title = 设置
+# Introduction text in the Setup page to explain how to configure remote debugging.
+about-debugging-setup-intro = 配置您偏好的连接方式以远程调试设备。
+# Link displayed in the Setup page that leads to MDN page with list of supported devices.
+# Temporarily leads to https://support.mozilla.org/en-US/kb/will-firefox-work-my-mobile-device#w_android-devices
+about-debugging-setup-link-android-devices = 查看支持的 Android 设备列表
+# Explanatory text in the Setup page about what the 'This Firefox' page is for
+about-debugging-setup-this-firefox = 使用<a>{ about-debugging-this-firefox-runtime-name }</a> 调试此版本 { -brand-shorter-name } 上的标签页、扩展和 Service Worker。
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = 连接设备
 # USB section of the Setup page
 about-debugging-setup-usb-title = USB
+# Explanatory text displayed in the Setup page when USB debugging is disabled
+about-debugging-setup-usb-disabled = 启用此功能将下载并安装所需的 Android USB 调试组件到 { -brand-shorter-name }。
 # Text of the button displayed in the USB section of the setup page when USB debugging is disabled.
 # Clicking on it will download components needed to debug USB Devices remotely.
 about-debugging-setup-usb-enable-button = 启用 USB 设备
@@ -61,6 +82,14 @@ about-debugging-setup-usb-updating-button = 更新中…
 about-debugging-setup-usb-status-enabled = 已启用
 about-debugging-setup-usb-status-disabled = 已禁用
 about-debugging-setup-usb-status-updating = 更新中...
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-dev-menu = 启用 Android 设备上的“开发者选项”。<a>了解方法</a>
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug = 启用 Android 开发者选项中的“ USB 调试”功能。<a>了解方法</a>
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug-firefox = 启用 Android 设备上 Firefox 的“USB 调试”功能。<a>了解方法</a>
+# USB section step by step guide
+about-debugging-setup-usb-step-plug-device = 将 Android 设备连接到您的计算机。
 # Network section of the Setup page
 about-debugging-setup-network =
     .title = 网络位置
@@ -102,6 +131,10 @@ about-debugging-runtime-other-workers =
 # Title of the processes category.
 about-debugging-runtime-processes =
     .name = 进程
+# This string is displayed in the runtime page if the current configuration of the
+# target runtime is incompatible with service workers. "Learn more" points to MDN.
+# https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
+about-debugging-runtime-service-workers-not-compatible = 您的浏览器配置与 Service Worker 不兼容。<a>详细了解</a>
 # Displayed for runtime info in runtime pages.
 # { $name } is brand name such as "Firefox Nightly"
 # { $version } is version such as "64.0a1"
@@ -109,6 +142,12 @@ about-debugging-runtime-name = { $name }（{ $version }）
 # Text of a button displayed in Runtime pages for remote runtimes.
 # Clicking on the button will close the connection to the runtime.
 about-debugging-runtime-disconnect-button = 断开连接
+# Text of the connection prompt button displayed in Runtime pages, when the preference
+# "devtools.debugger.prompt-connection" is false on the target runtime.
+about-debugging-connection-prompt-enable-button = 启用连接提示
+# Text of the connection prompt button displayed in Runtime pages, when the preference
+# "devtools.debugger.prompt-connection" is true on the target runtime.
+about-debugging-connection-prompt-disable-button = 禁用连接提示
 # Label of a checkbox displayed in the runtime page for "This Firefox".
 # This checkbox will toggle preferences that enable local addon debugging.
 # The "Learn more" link points to MDN.
@@ -131,12 +170,21 @@ about-debugging-debug-target-inspect-button = 查看
 # Text of a button displayed in the "This Firefox" page, in the Temporary Extension
 # section. Clicking on the button will open a file picker to load a temporary extension
 about-debugging-tmp-extension-install-button = 临时载入附加组件…
+# Text displayed when trying to install a temporary extension in the "This Firefox" page.
+about-debugging-tmp-extension-install-error = 安装临时附加组件时出错。
 # Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
 # Clicking on the button will reload the extension.
 about-debugging-tmp-extension-reload-button = 重载
 # Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
 # Clicking on the button will uninstall the extension and remove it from the page.
 about-debugging-tmp-extension-remove-button = 移除
+# Message displayed in the file picker that opens to select a temporary extension to load
+# (triggered by the button using "about-debugging-tmp-extension-install-button")
+# manifest.json .xpi and .zip should not be localized.
+# Note: this message is only displayed in Windows and Linux platforms.
+about-debugging-tmp-extension-install-message = 请选择 manifest.json 文件或 .xpi/.zip 压缩包
+# This string is displayed as a message about the add-on having a temporaryID.
+about-debugging-tmp-extension-temporary-id = 此 WebExtension 使用临时 ID。<a>详细了解</a>
 # Text displayed for extensions in "runtime" pages, before displaying a link the extension's
 # manifest URL.
 about-debugging-extension-manifest-url =
