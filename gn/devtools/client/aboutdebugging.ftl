@@ -61,6 +61,9 @@ about-debugging-refresh-usb-devices-button = Embohekopyahu mba'e'oka
 
 # Title of the Setup page.
 about-debugging-setup-title = Ñembosako’i
+# Link displayed in the Setup page that leads to MDN page with list of supported devices.
+# Temporarily leads to https://support.mozilla.org/en-US/kb/will-firefox-work-my-mobile-device#w_android-devices
+about-debugging-setup-link-android-devices = Ehecha mba’e’oka Android rysýi ojokupytýva
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = Embojuaju peteĩ mba'e'oka
 # USB section of the Setup page
