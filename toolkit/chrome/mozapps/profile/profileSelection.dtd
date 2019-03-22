@@ -9,7 +9,7 @@
 
 <!ENTITY            profilename.label      "პროფილის სახელი:">
 
-<!ENTITY            start.label            "&brandShortName;-ის გაშვება">
+<!ENTITY            start.label            "გაეშვას &brandShortName;">
 <!ENTITY            exit.label             "გასვლა">
 
 <!ENTITY            availprofiles.label    "არსებული პროფილები">
