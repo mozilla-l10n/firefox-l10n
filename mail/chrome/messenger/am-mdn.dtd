@@ -4,7 +4,7 @@
 
 <!ENTITY pane.title                   "การรับการส่งคืน">
 <!ENTITY useGlobalPrefs.label         "ใช้ค่ากำหนดการรับการส่งคืนกลางสำหรับบัญชีนี้">
-<!ENTITY globalReceipts.label         "ค่ากำหนดกลาง…">
+<!ENTITY globalReceipts.label         "ค่ากำหนดส่วนกลาง…">
 <!ENTITY useCustomPrefs.label         "ปรับแต่งการรับการส่งคืนสำหรับบัญชีนี้">
 <!ENTITY requestReceipt.label         "เมื่อส่งข้อความ ให้ขอการรับการส่งคืนเสมอ">
 <!ENTITY receiptArrive.label          "เมื่อจะรับ:">

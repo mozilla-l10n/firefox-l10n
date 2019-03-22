@@ -16,3 +16,5 @@
 <!--LOCALIZATION NOTE (headers.label): see note for download.label -->
 <!ENTITY headers.label      "ส่วนหัว">
 <!ENTITY headers.accesskey  "ส">
+<!ENTITY mark.label         "ทำเครื่องหมายส่วนหัวที่เหลือว่าอ่านแล้ว">
+<!ENTITY mark.accesskey     "ท">

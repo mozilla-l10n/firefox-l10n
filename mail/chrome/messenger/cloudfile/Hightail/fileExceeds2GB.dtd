@@ -3,3 +3,4 @@
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY fileExceeds2GB.title   "Hightail">
 <!ENTITY fileExceeds2GB.cancel "ตกลง">
+<!ENTITY fileExceeds2GB.description "ไม่รองรับการส่งไฟล์ที่มีขนาดใหญ่กว่า 2GB">
