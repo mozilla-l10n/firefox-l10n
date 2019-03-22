@@ -39,3 +39,4 @@
 <!ENTITY aboutPrivateBrowsing.info.title                 "আপনি একটি ব্যাক্তিগত উইন্ডোতে আছেন">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article
                        about private browsing myths.   -->
+<!ENTITY aboutPrivateBrowsing.info.myths                 "ব্যাক্তিগত ব্রাউজিং সম্পর্কে কিছু ভুল ধারণা">
