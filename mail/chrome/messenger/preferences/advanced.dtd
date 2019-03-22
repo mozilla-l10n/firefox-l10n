@@ -47,9 +47,9 @@
 <!ENTITY enableTelemetry.accesskey       "ღ">
 <!ENTITY telemetryLearnMore.label        "ვრცლად">
 
-<!ENTITY crashReporterSection.label      "ავარიული დახურვის მომხსენებელი">
-<!ENTITY crashReporterDesc.label         "&brandShortName; აგზავნის ავარიული დახურვის მოხსენებებს, რაც &vendorShortName;-ს თქვენი ელფოსტის კლიენტის მდგრადობისა და უსაფრთხოების გაუმჯობესებაში ეხმარება">
-<!ENTITY enableCrashReporter.label       "ავარიული დახურვის მომხსენებლის ჩართვა">
+<!ENTITY crashReporterSection.label      "უეცარი გათიშვების მომხსენებელი">
+<!ENTITY crashReporterDesc.label         "&brandShortName; აგზავნის უეცარი გათიშვების მოხსენებებს, რაც &vendorShortName;-ს თქვენი ელფოსტის პროგრამის მდგრადობისა და უსაფრთხოების გაუმჯობესებაში ეხმარება">
+<!ENTITY enableCrashReporter.label       "უეცარი გათიშვების მომხსენებლის ჩართვა">
 <!ENTITY enableCrashReporter.accesskey   "რ">
 <!ENTITY crashReporterLearnMore.label    "ვრცლად">
 
