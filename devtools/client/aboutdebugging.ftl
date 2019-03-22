@@ -125,13 +125,13 @@ about-debugging-runtime-tabs =
     .name = 标签页
 # Title of the service workers category.
 about-debugging-runtime-service-workers =
-    .name = Service Workers
+    .name = Service Worker
 # Title of the shared workers category.
 about-debugging-runtime-shared-workers =
-    .name = Shared Workers
+    .name = Shared Worker
 # Title of the other workers category.
 about-debugging-runtime-other-workers =
-    .name = 其他 Workers
+    .name = 其他 Worker
 # Title of the processes category.
 about-debugging-runtime-processes =
     .name = 进程
