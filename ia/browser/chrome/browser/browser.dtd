@@ -215,6 +215,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenExit.label "Exir del modo plen schermo">
 <!ENTITY fullScreenExit.accesskey "E">
 
+ <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
+     for the Firefox Account toolbar signin menu screen. -->
+
+<!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
+     for the Firefox Account toolbar unverified menu screen. -->
+
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbart menu screen. The `Signed in as` text is
+     followed by the user's email. -->
+<!ENTITY fxa.menu.connectAnotherDevice.label "&syncedTabs.sidebar.connectAnotherDevice;">
+<!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
+
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring fullscreen.
@@ -409,6 +421,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "Preferentias">
 <!ENTITY preferencesCmdUnix.accesskey     "P">
+
 
 <!ENTITY clearRecentHistory.label               "Vacuar le chronologia recente…">
 
@@ -1134,8 +1147,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Gere tu additivos per cliccar <image class='addon-addon-icon'/> in le <image class='addon-toolbar-icon'/> menu.">
-<!ENTITY addonPostInstall.incognito.label "Consenti le functionamento de iste extension in fenestras anonyme.">
-<!ENTITY addonPostInstall.incognito.accesskey "A">
 
 <!ENTITY addonPrivateBrowsing.header2.label "Cambios al extensiones in fenestra private">
 <!ENTITY addonPrivateBrowsing.body2.label "Ulle nove extensiones que tu adde a &brandShorterName; non functiona in Fenestras anonyme a minus que tu lo consentir in le parametros.">
