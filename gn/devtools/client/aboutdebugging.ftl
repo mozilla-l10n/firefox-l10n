@@ -64,6 +64,8 @@ about-debugging-setup-title = Ñembosako’i
 # Link displayed in the Setup page that leads to MDN page with list of supported devices.
 # Temporarily leads to https://support.mozilla.org/en-US/kb/will-firefox-work-my-mobile-device#w_android-devices
 about-debugging-setup-link-android-devices = Ehecha mba’e’oka Android rysýi ojokupytýva
+# Explanatory text in the Setup page about what the 'This Firefox' page is for
+about-debugging-setup-this-firefox = Eipuru <a>{ about-debugging-this-firefox-runtime-name }</a> emopotĩ hag̃ua tendayke, jepysokue ha Mba'apohára mba'epytyvõrãguáva ko peteĩchagua { -brand-shorter-name }.
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = Embojuaju peteĩ mba'e'oka
 # USB section of the Setup page
@@ -214,3 +216,9 @@ about-debugging-worker-scope =
 # of a worker
 about-debugging-worker-push-service =
     .label = Mba'epytyvõrã ñemondo
+# Displayed as name for the Main Process debug target in the Processes category. Only for
+# remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
+about-debugging-main-process-name = Tembiapo ñemboguata
+# Displayed as description for the Main Process debug target in the Processes category.
+# Only for remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
+about-debugging-main-process-description = Tembiapo ñemboguata aravo jejaporã ryepýpe
