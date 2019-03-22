@@ -49,9 +49,23 @@ about-debugging-sidebar-runtime-item-waiting-for-runtime = Esperando el tiempo d
 # Title for runtime sidebar items that are related to a specific device (USB, WiFi).
 about-debugging-sidebar-runtime-item-name =
     .title = { $displayName } ( { $deviceName } )
+# Title for runtime sidebar items where we cannot get device information (network
+# locations).
+about-debugging-sidebar-runtime-item-name-no-device =
+    .title = { $displayName }
+# Text displayed in a sidebar button to refresh the list of USB devices. Clicking on it
+# will attempt to update the list of devices displayed in the sidebar.
+about-debugging-refresh-usb-devices-button = Actualizar dispositivos
 
 # Setup Page strings
 
+# Title of the Setup page.
+about-debugging-setup-title = Configuración
+# Introduction text in the Setup page to explain how to configure remote debugging.
+about-debugging-setup-intro = Configurar el método de conexión con el que desea depurar remotamente su dispositivo.
+# Link displayed in the Setup page that leads to MDN page with list of supported devices.
+# Temporarily leads to https://support.mozilla.org/en-US/kb/will-firefox-work-my-mobile-device#w_android-devices
+about-debugging-setup-link-android-devices = Vista del listado de dispositivos Android compatibles
 
 # Runtime Page strings
 
