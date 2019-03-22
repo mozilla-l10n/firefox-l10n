@@ -50,7 +50,7 @@
 <!ENTITY  tab_offline_version "ნაჩვენებია კავშირგარეშე ვერსია">
 
 <!ENTITY  crash_reporter_title "&brandShortName; ავარიული დახურვის მომხსენებელი">
-<!ENTITY  crash_message2 "&brandShortName; მუშაობა შეწყდა. თქვენი დაფები &brandShortName;-ის ხელახლა გახსნისას საწყის გვერდზე უნდა აისახოს.">
+<!ENTITY  crash_message2 "&brandShortName; გაუმართაობის გამო დაიხურა. თქვენი ჩანართების სია ჩამოწერილი იქნება საწყის გვერდზე, როცა &brandShortName; ხელახლა გაეშვება.">
 <!ENTITY  crash_send_report_message3 "აცნობეთ &vendorShortName;-ს ამ პრობლემის შესახებ">
 <!ENTITY  crash_include_url2 "თან დაერთოს გვერდის მისამართი, რომელზეც ვიყავი">
 <!ENTITY  crash_sorry "ძალიან ვწუხვართ">
