@@ -17,10 +17,10 @@
 <!ENTITY reloadPlugin.middle                                 "განაახლეთ გვერდი">
 <!ENTITY reloadPlugin.post                                   " ხელახლა საცდელად.">
 <!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
-<!ENTITY report.please                                       "ავარიული დახურვის მოხსენების გაგზავნა">
+<!ENTITY report.please                                       "უეცარი გათიშვის მოხსენების გაგზავნა">
 <!ENTITY report.submitting                                   "მოხსენება იგზავნება…">
-<!ENTITY report.submitted                                    "ავარიული დახურვის შესახებ მოხსენება გაგზავნილია.">
-<!ENTITY report.disabled                                     "ავარიული დახურვის მომხსენებელი გამორთულია.">
+<!ENTITY report.submitted                                    "უეცარი გათიშვის შესახებ მოხსენება გაგზავნილია.">
+<!ENTITY report.disabled                                     "უეცარი გათიშვების მომხსენებელი გამორთულია.">
 <!ENTITY report.failed                                       "გადაგზავნა ვერ მოხერხდა.">
 <!ENTITY report.unavailable                                  "მოხსენებები არაა.">
 <!ENTITY report.comment                                      "დაურთეთ შენიშვნა (შენიშვნები, საჯაროდ გამოჩნდება)">

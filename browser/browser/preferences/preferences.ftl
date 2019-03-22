@@ -784,7 +784,7 @@ addon-recommendations-link = ვრცლად
 # or builds with no Telemetry support available.
 collection-health-report-disabled = მოხსენებები გამორთულია ანაწყობის ამ კონფიგურაციისთვის
 collection-backlogged-crash-reports =
-    .label = ნებართვა, რომ { -brand-short-name } შეძლებს, გადააგზავნოს დაგროვილი ავარიული დახურვის შეტყობინებები თქვენი სახელით
+    .label = ნებართვა, რომ { -brand-short-name } შეძლებს, გადააგზავნოს დაგროვილი უეცარი გათიშვების შეტყობინებები თქვენი სახელით
     .accesskey = დ
 collection-backlogged-crash-reports-link = ვრცლად
 
