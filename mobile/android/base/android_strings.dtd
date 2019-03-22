@@ -49,18 +49,18 @@
 <!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
 <!ENTITY  tab_offline_version "ნაჩვენებია კავშირგარეშე ვერსია">
 
-<!ENTITY  crash_reporter_title "&brandShortName; ავარიული დახურვის მომხსენებელი">
+<!ENTITY  crash_reporter_title "&brandShortName; – უეცარი გათიშვების მომხსენებელი">
 <!ENTITY  crash_message2 "&brandShortName; გაუმართაობის გამო დაიხურა. თქვენი ჩანართების სია ჩამოწერილი იქნება საწყის გვერდზე, როცა &brandShortName; ხელახლა გაეშვება.">
-<!ENTITY  crash_send_report_message3 "აცნობეთ &vendorShortName;-ს ამ პრობლემის შესახებ">
-<!ENTITY  crash_include_url2 "თან დაერთოს გვერდის მისამართი, რომელზეც ვიყავი">
+<!ENTITY  crash_send_report_message3 "მოეხსენოს &vendorShortName;-ს უეცარი გათიშვის შესახებ, რომ გამოასწორონ ხარვეზი">
+<!ENTITY  crash_include_url2 "გვერდის მისამართის მითითება, რომელიც გახსნილი იყო">
 <!ENTITY  crash_sorry "ძალიან ვწუხვართ">
 <!ENTITY  crash_comment "დაურთეთ შენიშვნა (ხილული იქნება საჯაროდ)">
 <!ENTITY  crash_allow_contact2 "ნების დართვა &vendorShortName;-სთვის გამომეხმაუროს მოხსენების შესახებ">
 <!ENTITY  crash_email "თქვენი ელფოსტა">
-<!ENTITY  crash_closing_alert "გსურთ გამოსვლა, ავარიული დახურვის მოხსენების გადაგზავნის გარეშე?">
-<!ENTITY  sending_crash_report "ავარიული დახურვის მოხსენება იგზავნება\u2026">
+<!ENTITY  crash_closing_alert "გსურთ გამოსვლა, უეცარი გათიშვის მოხსენების გადაგზავნის გარეშე?">
+<!ENTITY  sending_crash_report "უეცარი გათიშვის მოხსენება იგზავნება\u2026">
 <!ENTITY  crash_close_label "დახურვა">
-<!ENTITY  crash_restart_label "&brandShortName; გადატვირთვა">
+<!ENTITY  crash_restart_label "ხელახლა გაეშვას &brandShortName;">
 
 <!ENTITY url_bar_default_text2 "მოძებნეთ ან შეიყვანეთ მისამართი">
 
@@ -448,10 +448,10 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY datareporting_fhr_summary2 "მონაცემთა გაზიარება &vendorShortName;-სთან თქვენი ბრაუზერის შესახებ მისი წარმადობის გაგებაში დაგეხმარებათ">
 <!ENTITY datareporting_telemetry_title "ტელემეტრია">
 <!ENTITY datareporting_telemetry_summary "გაუზიარებს წარმადობის, გამოყენების, მოწყობილობისა და პარამეტრების მონაცემებს &vendorShortName;-ს, &brandShortName; ბრაუზერის მეტად დასახვეწად">
-<!ENTITY datareporting_crashreporter_summary "&brandShortName; აგზავნის ავარიული დახურვის მოხსენებებს, რაც &vendorShortName;-ს თქვენი ბრაუზერის მდგრადობის და უსაფრთხოების გაუმჯობესებაში ეხმარება.">
+<!ENTITY datareporting_crashreporter_summary "&brandShortName; აგზავნის უეცარი გათიშვების მოხსენებებს, რაც &vendorShortName;-ს თქვენი ბრაუზერის მდგრადობისა და უსაფრთხოების გაუმჯობესებაში ეხმარება">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
-<!ENTITY datareporting_crashreporter_title_short "ავარიული დახურვის მომხსენებელი">
+<!ENTITY datareporting_crashreporter_title_short "უეცარი გათიშვების მომხსენებელი">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; მდებარეობა">
 <!ENTITY datareporting_wifi_geolocation_summary4 "დაეხმარეთ &vendorShortName;-ს მსოფლიო რუკის შექმნაში! გააზიარეთ თქვენი მოწყობილობის მიახლოებითი Wi-Fi და მობილური მდებარეობა ჩვენი გეოლოკაციის მომსახურების გასაუმჯობესებლად.">
 <!-- Localization note (datareporting_notification_title ) : This will be the title
