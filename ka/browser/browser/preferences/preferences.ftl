@@ -740,7 +740,7 @@ permissions-notification-settings =
     .accesskey = პ
 permissions-notification-link = ვრცლად
 permissions-notification-pause =
-    .label = შეტყობინებების შეჩერება { -brand-short-name }-ის ხელახლა გაშვებამდე
+    .label = შეჩერდეს შეტყობინებები, სანამ { -brand-short-name } ხელახლა გაეშვება
     .accesskey = ჩ
 permissions-block-autoplay-media2 =
     .label = ვებსაიტებისთვის, ხმის თვითგაშვების შეზღუდვა
@@ -784,7 +784,7 @@ addon-recommendations-link = ვრცლად
 # or builds with no Telemetry support available.
 collection-health-report-disabled = მოხსენებები გამორთულია ანაწყობის ამ კონფიგურაციისთვის
 collection-backlogged-crash-reports =
-    .label = { -brand-short-name }-სთვის ნების დართვა, გადააგზავნოს დაგროვილი ავარიული დახურვის შეტყობინებები თქვენი სახელით
+    .label = ნებართვა, რომ { -brand-short-name } შეძლებს, გადააგზავნოს დაგროვილი ავარიული დახურვის შეტყობინებები თქვენი სახელით
     .accesskey = დ
 collection-backlogged-crash-reports-link = ვრცლად
 
