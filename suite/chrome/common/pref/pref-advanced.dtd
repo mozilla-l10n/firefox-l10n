@@ -14,9 +14,9 @@
 <!ENTITY prefCheckDefaultClient.label     "პროგრამის ნაგულისხმები პარამეტრების შემოწმება სეანსის დაწყებისას">
 <!ENTITY prefCheckDefaultClient.accesskey "წ">
 
-<!ENTITY crashReports.caption             "შეცდომის მოპატაკე">
-<!ENTITY submitCrashes.label              "ავარიული დახურვის მოხსენების გაგზავნა">
-<!ENTITY submitCrashes.accesskey          "ვ">
+<!ENTITY crashReports.caption             "უეცარი გათიშვების მომხსენებელი">
+<!ENTITY submitCrashes.label              "უეცარი გათიშვების მოხსენების გადაგზავნა">
+<!ENTITY submitCrashes.accesskey          "ხ">
 
 <!ENTITY devTools.caption                 "შემმუშავებლის ხელსაწყოები">
 <!ENTITY allowDebugger.label              "გამმართველისთვის, &brandShortName;-თან დაკავშირების ნების დართვა">

@@ -25,7 +25,7 @@
 <!ENTITY rights.intro-point2c ".">
 
 <!-- point 2d is technically point 3. in the list -->
-<!ENTITY rights.intro-point2d "&brandShortName;-ის შესაძლებლობა, როგორიცაა ავარიული გამორთვის მომხსენებელი, საშუალებას გაძლევთ გამოეხმაუროთ &vendorShortName;-ს. გამოხმაურების გაგზავნით, &vendorShortName;-ს და Mozilla-ს აძლევთ უფლებას, თქვენ მიერ მიწოდებული ინფორმაცია გამოიყენოს პროდუქტების გასაუმჯობესებლად, გამოაქვეყნოს კუთვნილ საიტზე და გაავრცელოს.">
+<!ENTITY rights.intro-point2d "&brandShortName; უეცარი გათიშვის მომხსენებლით, საშუალებას გაძლევთ გამოეხმაუროთ &vendorShortName;-ს. გამოხმაურების გაგზავნით, &vendorShortName; თქვენგან იღებს უფლებას, თქვენ მიერ მიწოდებული ინფორმაცია გამოიყენოს თავისი პროგრამების გასაუმჯობესებლად, გამოაქვეყნოს კუთვნილ საიტზე და გაავრცელოს.">
 
 <!-- point 3 text for official branded builds -->
 <!ENTITY rights.intro-point3a "&vendorShortName;-ს პროდუქტების პირადულობის დებულებებს, შეგიძლიათ გაეცნოთ ">
