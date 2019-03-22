@@ -228,6 +228,7 @@ shortcuts-modifier-mac = Συμπεριλάβετε Ctrl, Alt, ή ⌘
 shortcuts-modifier-other = Συμπεριλάβετε Ctrl ή Alt
 shortcuts-invalid = Άκυρος συνδυασμός
 shortcuts-letter = Πληκτρολογήστε ένα γράμμα
+shortcuts-card-collapse-button = Εμφάνιση λιγότερων
 go-back-button =
     .tooltiptext = Επιστροφή
 
@@ -236,5 +237,6 @@ go-back-button =
 remove-addon-button = Αφαίρεση
 disable-addon-button = Απενεργοποίηση
 enable-addon-button = Ενεργοποίηση
+expand-addon-button = Περισσότερες επιλογές
 addons-enabled-heading = Ενεργό
 addons-disabled-heading = Ανενεργό

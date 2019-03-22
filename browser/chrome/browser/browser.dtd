@@ -108,7 +108,6 @@ These items have the same accesskey but will never be visible at the same time. 
 <!ENTITY  hiddenTabs.label                   "Κρυμμένες καρτέλες">
 
 <!ENTITY  listAllTabs.label      "Προβολή καρτελών σε λίστα">
-
 <!-- LOCALIZATION NOTE (allTabsMenu.searchTabs.label): "Search" is a verb, as
 in "Search through tabs". -->
 <!ENTITY  allTabsMenu.searchTabs.label       "Αναζήτηση καρτελών">
@@ -130,6 +129,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.label "Εκτύπωση…">
 <!ENTITY printCmd.accesskey "κ">
 <!ENTITY printCmd.commandkey "p">
+
 
 <!ENTITY taskManagerCmd.label "Διαχείριση εργασιών">
 
@@ -212,6 +212,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenAutohide.accesskey "ψ">
 <!ENTITY fullScreenExit.label "Έξοδος από πλήρη οθόνη">
 <!ENTITY fullScreenExit.accesskey "π">
+
+ <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
+     for the Firefox Account toolbar signin menu screen. -->
+
+<!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
+     for the Firefox Account toolbar unverified menu screen. -->
+
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbart menu screen. The `Signed in as` text is
+     followed by the user's email. -->
+<!ENTITY fxa.menu.manageAccount.label "Διαχείριση λογαριασμού…">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -407,6 +418,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmd2.accesskey     "Ε">
 <!ENTITY preferencesCmdUnix.label       "Προτιμήσεις">
 <!ENTITY preferencesCmdUnix.accesskey     "μ">
+
 
 <!ENTITY clearRecentHistory.label               "Εκκαθάριση πρόσφατου ιστορικού…">
 
@@ -881,7 +893,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsPreferences.tooltip "Άνοιγμα προτιμήσεων δικαιωμάτων">
 
 
-
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Καρτέλες περιηγητή">
@@ -930,6 +941,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncSignIn.label             "Σύνδεση στο &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "ν">
 <!ENTITY syncSyncNowItem.label        "Συγχρονισμός τώρα">
+<!ENTITY syncSyncNowItemSyncing.label "Συγχρονισμός…">
 <!ENTITY syncSyncNowItem.accesskey    "Σ">
 <!ENTITY syncReAuthItem.label         "Επανασύνδεση στο &syncBrand.shortName.label;…">
 <!ENTITY syncReAuthItem.accesskey     "Ρ">
@@ -994,6 +1006,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.cookies.label "Cookies">
 <!ENTITY contentBlocking.cookiesView.label "Cookies και δεδομένα ιστοσελίδων">
+
+
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Αναφορά προβλήματος">
 <!ENTITY contentBlocking.breakageReportView.label "Αναφορά προβλημάτων">
@@ -1127,7 +1141,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Διαχειριστείτε τα πρόσθετά σας κάνοντας κλικ στο <image class='addon-addon-icon'/>, στο μενού <image class='addon-toolbar-icon'/>.">
 
-<!ENTITY addonPrivateBrowsing.header.label "Επεκτάσεις σε ιδιωτικά παράθυρα">
 <!ENTITY addonPrivateBrowsing.okButton.label "Εντάξει, το 'πιασα">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "Ε">
 <!ENTITY addonPrivateBrowsing.manageButton.label "Διαχείριση επεκτάσεων">
