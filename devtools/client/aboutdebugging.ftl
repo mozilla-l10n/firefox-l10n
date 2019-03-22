@@ -46,6 +46,9 @@ about-debugging-sidebar-item-connected-label = Conectado
 # Firefox) has not been detected yet. Typically, Android phones connected via USB with
 # USB debugging enabled, but where Firefox is not started.
 about-debugging-sidebar-runtime-item-waiting-for-runtime = Esperando el tiempo de ejecución...
+# Title for runtime sidebar items that are related to a specific device (USB, WiFi).
+about-debugging-sidebar-runtime-item-name =
+    .title = { $displayName } ( { $deviceName } )
 
 # Setup Page strings
 
@@ -147,3 +150,9 @@ about-debugging-worker-scope =
 # of a worker
 about-debugging-worker-push-service =
     .label = Servicio Push
+# Displayed as name for the Main Process debug target in the Processes category. Only for
+# remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
+about-debugging-main-process-name = Proceso principal
+# Displayed as description for the Main Process debug target in the Processes category.
+# Only for remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
+about-debugging-main-process-description = Proceso principal para el tiempo de ejecución establecido
