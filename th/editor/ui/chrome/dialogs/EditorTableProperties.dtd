@@ -26,5 +26,20 @@
 <!ENTITY tableCaptionNone.label           "ไม่มี">
 <!ENTITY tableInheritColor.label           "(ให้สีของหน้าแสดงผ่าน)">
 
+<!ENTITY cellSelection.label              "ส่วนที่เลือก">
+<!ENTITY cellSelectCell.label             "เซลล์">
+<!ENTITY cellSelectRow.label              "แถว">
+<!ENTITY cellSelectColumn.label           "คอลัมน์">
+<!ENTITY cellSelectNext.label             "ถัดไป">
+<!ENTITY cellSelectNext.accessKey         "ถ">
+<!ENTITY cellSelectPrevious.label         "ก่อนหน้า">
+<!ENTITY cellSelectPrevious.accessKey     "ก">
+<!ENTITY applyBeforeChange.label          "การเปลี่ยนแปลงปัจจุบันจะถูกนำไปใช้ก่อนที่จะเปลี่ยนแปลงส่วนที่เลือก">
+<!ENTITY cellContentAlignment.label       "การจัดชิดแนวเนื้อหา">
+<!ENTITY cellHorizontal.label             "แนวนอน:">
+<!ENTITY cellHorizontal.accessKey         "น">
+<!ENTITY cellVertical.label               "แนวตั้ง:">
+<!ENTITY cellVertical.accessKey           "ต">
+<!ENTITY cellStyle.label                  "ลักษณะเซลล์:">
 
 <!-- Used in both Table and Cell panels  -->
