@@ -19,6 +19,7 @@
 <!ENTITY rememberPassword.label          "จดจำรหัสผ่าน">
 <!ENTITY rememberPassword.accesskey      "จ">
 <!ENTITY usernameEx.label                "ข้อมูลการเข้าสู่ระบบของคุณ:">
+<!ENTITY usernameEx.accesskey            "ข">
 <!-- LOCALIZATION NOTE(usernameEx.placeholder): YOURDOMAIN refers to the Windows domain in ActiveDirectory. yourusername refers to the user's account name in Windows. -->
 <!ENTITY usernameEx.placeholder          "YOURDOMAIN\yourusername">
 <!-- LOCALIZATION NOTE(usernameEx.text): Domain refers to the Windows domain in ActiveDirectory. We mean the user's login in Windows at the local corporate network. -->
