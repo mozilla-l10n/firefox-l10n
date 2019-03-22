@@ -51,6 +51,7 @@
 <!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
 <!ENTITY incomingUsername.label "ชื่อผู้ใช้:">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
+<!ENTITY newsServerNameDesc.label "ป้อนชื่อเซิร์ฟเวอร์ข่าวของคุณ (NNTP) (ตัวอย่างเช่น &quot;news.example.net&quot;)">
 <!ENTITY newsServerLabel.label "เซิร์ฟเวอร์กลุ่มข่าว:">
 
 <!-- Entities for Outgoing Server page -->
@@ -59,6 +60,7 @@
 <!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
 <!ENTITY outgoingServer.description "ป้อนชื่อเซิร์ฟเวอร์ขาออกของคุณ (SMTP) (ตัวอย่างเช่น &quot;smtp.example.net&quot;)">
 <!ENTITY outgoingServer.label "เซิร์ฟเวอร์ขาออก:">
+<!ENTITY outgoingUsername.description "ป้อนชื่อผู้ใช้ขาออกที่คุณได้รับจากผู้ให้บริการอีเมลของคุณ (โดยปกติมักจะเหมือนกับชื่อผู้ใช้ขาเข้าของคุณ)">
 <!ENTITY outgoingUsername.label "ชื่อผู้ใช้ขาออก:">
 
 <!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of

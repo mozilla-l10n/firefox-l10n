@@ -31,6 +31,6 @@
 <!ENTITY includeSigOnReply.label              "รวมลายเซ็นสำหรับการตอบกลับ">
 <!ENTITY includeSigOnForward.label            "รวมลายเซ็นสำหรับการส่งต่อ">
 
-<!ENTITY globalComposingPrefs.label           "การตั้งค่าการเขียนทั่วโลก…">
+<!ENTITY globalComposingPrefs.label           "การตั้งค่าการเขียนส่วนกลาง…">
 
-<!ENTITY globalAddressingPrefs.label          "การตั้งค่าการกำหนดที่อยู่ทั่วโลก…">
+<!ENTITY globalAddressingPrefs.label          "การตั้งค่าการกำหนดที่อยู่ส่วนกลาง…">
