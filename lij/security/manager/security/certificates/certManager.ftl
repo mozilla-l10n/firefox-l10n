@@ -147,14 +147,14 @@ exception-mgr-permanent =
 pk11-bad-password = A paròlla segreta a l'é sbalia.
 pkcs12-decode-err = Inposcibile decodificâ l'archivio. Ò o no l'é into formato PKCS #12, ò o l'é corotto, ò a paròlla d'ordine a l'é scoretta.
 pkcs12-unknown-err-restore = Inposcibile arecuviâ l'archivio PKCS #12 pe de raxoin sconosciue.
-pkcs12-unknown-err-backup = Inposcibile creâ o schedaio de sarvaguardia do PKCS #12 pe de raxoin sconosciue.
+pkcs12-unknown-err-backup = Inposcibile creâ o schedaio de backup do PKCS #12 pe de raxoin sconosciue.
 pkcs12-unknown-err = A procedua do PKCS #12 a l'é falia pe de raxoin sconosciue.
 pkcs12-info-no-smartcard-backup = Inposcibile agiornâ i certificati da un apægio hardware de seguessa comme 'na smart card.
 pkcs12-dup-data = O certificato e a ciave privâ existan za inte l'apægio de seguessa.
 
 ## PKCS#12 file dialogs
 
-choose-p12-backup-file-dialog = Nomme do schedaio da sarvaguardâ
+choose-p12-backup-file-dialog = Nomme do schedaio da archiviâ
 file-browse-pkcs12-spec = Schedaio PKCS12
 choose-p12-restore-file-dialog = Schedaio de certificato da inportâ
 
