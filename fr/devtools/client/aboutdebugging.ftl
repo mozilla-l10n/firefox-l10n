@@ -25,6 +25,13 @@ aboutdebugging-sidebar-runtime-connection-status-connected = Connecté
 aboutdebugging-sidebar-runtime-connection-status-disconnected = Déconnecté
 # Text displayed in the about:debugging sidebar when no device was found.
 about-debugging-sidebar-no-devices = Aucun appareil déctecté
+# Text displayed in buttons found in sidebar items representing remote runtimes.
+# Clicking on the button will attempt to connect to the runtime.
+about-debugging-sidebar-item-connect-button = Connecter
+# Text displayed in sidebar items for remote devices where a compatible runtime (eg
+# Firefox) has not been detected yet. Typically, Android phones connected via USB with
+# USB debugging enabled, but where Firefox is not started.
+about-debugging-sidebar-runtime-item-waiting-for-runtime = En attente de l’environnement d’exécution…
 # Text displayed in a sidebar button to refresh the list of USB devices. Clicking on it
 # will attempt to update the list of devices displayed in the sidebar.
 about-debugging-refresh-usb-devices-button = Actualiser les appareils
