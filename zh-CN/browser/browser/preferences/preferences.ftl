@@ -540,7 +540,7 @@ privacy-header = 浏览器隐私
 
 logins-header = 登录信息与密码
 forms-ask-to-save-logins =
-    .label = 向您询问是否要记住网站的登录账号和密码
+    .label = 向您询问是否保存网站的登录名和密码
     .accesskey = r
 forms-exceptions =
     .label = 例外…
