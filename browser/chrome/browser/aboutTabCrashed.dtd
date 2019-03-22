@@ -26,7 +26,7 @@
 <!ENTITY tabCrashed.commentPlaceholder2 "დამატებითი შენიშვნა (შენიშვნები, საჯაროდ გამოჩნდება)">
 <!ENTITY tabCrashed.includeURL3 "მათ შორის საიტების URL-ბმულები, რომელზეც იმყოფებოდით, როცა &brandShortName; უეცრად დაიხურა.">
 <!ENTITY tabCrashed.emailPlaceholder "შეიყვანეთ თქვენი ელფოსტის მისამართი">
-<!ENTITY tabCrashed.emailMe "მომწერეთ, როდესაც მეტი ინფრომაცია გახდება ცნობილი">
+<!ENTITY tabCrashed.emailMe "მომწერეთ, როდესაც მეტი ინფორმაცია გახდება ცნობილი">
 <!ENTITY tabCrashed.reportSent "უეცარი გათიშვის მოხსენება უკვე გადმოგზავნილია; მადლობას გიხდით, რომ გვეხმარებით გავაუმჯობესოთ &brandShortName;!">
 <!ENTITY tabCrashed.requestAutoSubmit2 "გააგზავნეთ მოხსენება ფონურ ჩანართებზე">
 <!ENTITY tabCrashed.autoSubmit3 "შეცვალეთ პარამეტრები, რომ ავტომატურად გაიგზავნოს მოხსენებები, როცა &brandShortName; უეცრად გაითიშება.">
