@@ -88,6 +88,15 @@ detail-update-automatic =
 detail-update-manual =
     .label = ปิด
     .tooltiptext = ไม่ติดตั้งการอัปเดตโดยอัตโนมัติ
+# Used as a description for the option to allow or block an add-on in private windows.
+detail-private-browsing-label = เรียกใช้ในหน้าต่างส่วนตัว
+detail-private-browsing-description2 = เมื่ออนุญาตแล้ว ส่วนขยายจะสามารถเข้าถึงกิจกรรมออนไลน์ของคุณขณะท่องเว็บแบบส่วนตัวได้ <label data-l10n-name="detail-private-browsing-learn-more">เรียนรู้เพิ่มเติม</label>
+detail-private-browsing-on =
+    .label = อนุญาต
+    .tooltiptext = เปิดใช้งานในการท่องเว็บแบบส่วนตัว
+detail-private-browsing-off =
+    .label = ไม่อนุญาต
+    .tooltiptext = ปิดใช้งานในการท่องเว็บแบบส่วนตัว
 detail-home =
     .label = หน้าแรก
 detail-home-value =
@@ -206,3 +215,9 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = ติดตั้งการอัปเดต
     .tooltiptext = ติดตั้งการอัปเดตที่มีในรายการนี้
+
+## Extension shortcut management
+
+
+## Add-on actions
+
