@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY firstrun_panel_title_welcome "Bem-vindo">
+<!ENTITY firstrun_panel_title_welcome "Boas-vindas">
 <!ENTITY firstrun_urlbar_message2 "Obrigado por escolher o &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext2 "Um moderno navegador para dispositivos móveis da Mozilla, a fundação sem fins lucrativos comprometida com uma Web livre e aberta.">
 <!ENTITY firstrun_panel_title_privacy "Privacidade">
