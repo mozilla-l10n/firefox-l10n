@@ -8,9 +8,20 @@
 
 # Page Title strings
 
+# Page title (ie tab title) for the Setup page
+about-debugging-page-title-setup-page = Ñemopotĩ - Ñemboheko
+# Page title (ie tab title) for the Runtime page
+# { $selectedRuntimeId } is the id of the current runtime, such as "this-firefox", "localhost:6080", ...
+about-debugging-page-title-runtime-page = Ñemopotĩ - Mboy aravópa oipuru / { $selectedRuntimeId }
 
 # Sidebar strings
 
+# Display name of the runtime for the currently running instance of Firefox. Used in the
+# Sidebar and in the Setup page.
+about-debugging-this-firefox-runtime-name = Ko { -brand-shorter-name }
+# Sidebar heading for selecting the currently running instance of Firefox
+about-debugging-sidebar-this-firefox =
+    .name = { about-debugging-this-firefox-runtime-name }
 # Sidebar heading for connecting to some remote source
 about-debugging-sidebar-setup =
     .name = Ñembosako’i
@@ -66,6 +77,8 @@ about-debugging-setup-usb-updating-button = Hekopyahuhína...
 about-debugging-setup-usb-status-enabled = Jurujapyre
 about-debugging-setup-usb-status-disabled = Pe'apyre
 about-debugging-setup-usb-status-updating = Hekopyahuhína...
+# USB section step by step guide
+about-debugging-setup-usb-step-plug-device = Embojuaju Android mba’e’oka ne mohendaha rehe.
 # Network section of the Setup page
 about-debugging-setup-network =
     .title = Ñanduti rendaite
@@ -104,10 +117,22 @@ about-debugging-runtime-shared-workers =
 # Title of the other workers category.
 about-debugging-runtime-other-workers =
     .name = Ambue mba'apohára
+# Title of the processes category.
+about-debugging-runtime-processes =
+    .name = Tapereko
+# Label of the button opening the performance profiler panel in runtime pages for remote
+# runtimes.
+about-debugging-runtime-profile-button = Runtime mba'ete
 # Displayed for runtime info in runtime pages.
 # { $name } is brand name such as "Firefox Nightly"
 # { $version } is version such as "64.0a1"
 about-debugging-runtime-name = { $name } ({ $version })
+# Text of a button displayed in Runtime pages for remote runtimes.
+# Clicking on the button will close the connection to the runtime.
+about-debugging-runtime-disconnect-button = Ñesẽte
+# Text of the connection prompt button displayed in Runtime pages, when the preference
+# "devtools.debugger.prompt-connection" is false on the target runtime.
+about-debugging-connection-prompt-enable-button = Embojuruja jeikeha rechaha
 
 # Debug Targets strings
 
