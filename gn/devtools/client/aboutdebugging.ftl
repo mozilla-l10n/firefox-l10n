@@ -189,3 +189,25 @@ about-debugging-worker-action-push = Myaña
 about-debugging-worker-action-start = Ñepyrũ
 # This string is displayed as a label of the button that unregisters a service worker.
 about-debugging-worker-action-unregister = Jehaipy ñembogue
+# Displayed for service workers in runtime pages that listen to Fetch events.
+about-debugging-worker-fetch-listening =
+    .label = Ikatu eguerujey
+    .value = Ahenduhína aheka hag̃ua tembiaporã
+# Displayed for service workers in runtime pages that do not listen to Fetch events.
+about-debugging-worker-fetch-not-listening =
+    .label = Ikatu eguerujey
+    .value = Nahendúi aheka hag̃ua tembiaporã
+# Displayed for service workers in runtime pages that are currently running (service
+# worker instance is active).
+about-debugging-worker-status-running = Ñeñani
+# Displayed for service workers in runtime pages that are registered but stopped.
+about-debugging-worker-status-stopped = Mombytapyre
+# Displayed for service workers in runtime pages that are registering.
+about-debugging-worker-status-registering = Amo ñemboheraguapy
+# Displayed for service workers in runtime pages, to label the scope of a worker
+about-debugging-worker-scope =
+    .label = Hupytykue
+# Displayed for service workers in runtime pages, to label the push service endpoint (url)
+# of a worker
+about-debugging-worker-push-service =
+    .label = Mba'epytyvõrã ñemondo
