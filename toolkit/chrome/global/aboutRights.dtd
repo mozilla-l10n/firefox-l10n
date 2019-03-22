@@ -14,7 +14,7 @@
 
      Also note the leading/trailing whitespace in strings here, which is
      deliberate for formatting around the embedded links. -->
-<!ENTITY rights.intro-point1a "&brandShortName; ბრაუზერი მოგეწოდებათ ">
+<!ENTITY rights.intro-point1a "&brandShortName; მოგეწოდებათ ">
 <!ENTITY rights.intro-point1b "Mozilla საზოგადოებრივი ლიცენზიით">
 <!ENTITY rights.intro-point1c ". ეს ნიშნავს, რომ შეგიძლიათ &brandShortName; ბრაუზერის გამოყენება, გავრცელება და წარმოება.  ასევე, შეგიძლიათ შეცვალოთ &brandShortName; ბრაუზერის პირველწყარო კოდები თქვენი მოთხოვნების შესაბამისად. Mozilla საზოგადოებრივი ლიცენზია ასევე გაძლევთ უფლებას გაავრცელოთ თქვენი სახეცვლილი ვერსიები.">
 
@@ -23,18 +23,18 @@
 <!ENTITY rights.intro-point2-c ".">
 
 <!-- point 2.5 text for official branded builds -->
-<!ENTITY rights.intro-point2.5 "&brandShortName;-ის შესაძლებლობა, როგორიცაა ავარიული გამორთვის მომხსენებელი, საშუალებას გაძლევთ გამოეხმაუროთ &vendorShortName;-ს. გამოხმაურების გაგზავნით, &vendorShortName;-ს აძლევთ უფლებას, თქვენ მიერ მიწოდებული ინფორმაცია გამოიყენოს პროდუქტის გასაუმჯობესებლად, გამოაქვეყნოს კუთვნილ საიტზე და გაავრცელოს.">
+<!ENTITY rights.intro-point2.5 "&brandShortName; უეცარი გათიშვის მომხსენებლით, საშუალებას გაძლევთ გამოეხმაუროთ &vendorShortName;-ს. გამოხმაურების გაგზავნით, &vendorShortName; თქვენგან იღებს უფლებას, თქვენ მიერ მიწოდებული ინფორმაცია გამოიყენოს პროდუქტის გასაუმჯობესებლად, გამოაქვეყნოს კუთვნილ საიტზე და გაავრცელოს.">
 
 <!-- point 3 text for official branded builds -->
-<!ENTITY rights2.intro-point3a "თუ როგორ ვიყენებთ ჩვენ თქვენს პირად მონაცემებს და &brandShortName;-ის საშუალებით &vendorShortName;-ისთვის გამოგზავნილ გამოხმაურებებს , აღწერილია ">
-<!ENTITY rights2.intro-point3b "&brandShortName;-ის პირადი მონაცემების დაცვის დებულებაში">
+<!ENTITY rights2.intro-point3a "თუ როგორ ვიყენებთ თქვენს პირად მონაცემებსა და გამოხმაურებებს, რომელთაც &brandShortName; გზავნის &vendorShortName;-ში, შეგიძლიათ იხილოთ ბმულზე ">
+<!ENTITY rights2.intro-point3b "&brandShortName; – პირადი მონაცემების დაცვის დებულება.">
 <!ENTITY rights.intro-point3c ".">
 
 <!-- point 3 text for unbranded builds -->
 <!ENTITY rights.intro-point3-unbranded "პირადი მონაცემების დაცვის ყველა დებულება ამ პროდუქტისთვის უნდა აისახოს აქ.">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights2.intro-point4a "&brandShortName;-ის ზოგიერთი ფუნქცია იყენებს ინტერნეტზე დაფუძნებულ საინფორმაციო მომსახურებებს, რომელთა 100&#37;-იან სიზუსტესა და უშეცდომობას, ჩვენ ვერ უზრუნველვყოფთ. დამატებითი ინფორმაცია, მათ შორის ამ ფუნქციების გამორთვის თაობაზე, შეგიძლიათ იხილოთ ">
+<!ENTITY rights2.intro-point4a "&brandShortName; ზოგიერთი შესაძლებლობის მეშვეობით იყენებს ინტერნეტზე დაფუძნებულ საინფორმაციო მომსახურებებს, რომელთა 100&#37;-იან სიზუსტესა და უშეცდომობას, ჩვენ ვერ უზრუნველვყოფთ. დამატებითი ინფორმაცია, მათ შორის ამ შესაძლებლობების გამორთვის თაობაზე, შეგიძლიათ იხილოთ ">
 <!ENTITY rights.intro-point4b "მომსახურების პირობებში">
 <!ENTITY rights.intro-point4c ".">
 
