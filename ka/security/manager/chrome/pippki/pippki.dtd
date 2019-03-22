@@ -18,9 +18,9 @@
 <!-- Downloading a cert -->
 <!ENTITY downloadCert.title "სერთიფიკატის გადმოწერა">
 <!ENTITY downloadCert.message1 "თქვენგან მოითხოვეს სერტიფიკატების ახალი გამცემისთვის (CA) ნდობის გამოცხადება.">
-<!ENTITY downloadCert.trustSSL "ვებსაიტების დამოწმების ამ CA-სთვის ნდობა.">
+<!ENTITY downloadCert.trustSSL "ვებსაიტების დამოწმების მინდობა ამ CA-სთვის.">
 <!ENTITY downloadCert.trustEmail "სერტიფიკატის გამომცემლობისთვის ნდობის გამოცხადება, ელფოსტის მომხმარებელთა ამოსაცნობად.">
-<!ENTITY downloadCert.message3 "სანამ CA-ს ნდობას გამოუცხადებთ, ჯერ შეამოწმეთ მისი სერთიფიკატი, პირობები და პროცედურები (თუ გააჩნია).">
+<!ENTITY downloadCert.message3 "სანამ CA-ს ნდობას გამოუცხადებთ, ჯერ შეამოწმეთ მისი სერტიფიკატი, დებულება და თანმიმდევრულობა (თუ გააჩნია).">
 <!ENTITY downloadCert.viewCert.label "ჩვენება">
 <!ENTITY downloadCert.viewCert.text "სააგენტოს სერთიფიკატის შემოწმება">
 
