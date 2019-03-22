@@ -775,10 +775,10 @@ collection-health-report =
     .accesskey = რ
 collection-health-report-link = იხილეთ ვრცლად
 collection-studies =
-    .label = { -brand-short-name }-ისთვის ნების დართვა, კვლევების დაყენებასა და გამართვაზე
+    .label = ნებართვა, რომ { -brand-short-name } შეძლებს კვლევების დაყენებასა და გაშვებას
 collection-studies-link = იხილეთ { -brand-short-name } კვლევები
 addon-recommendations =
-    .label = { -brand-short-name }-ისთვის ნების დართვა, მორგებული გაფართოებების შემოსათავაზებლად
+    .label = ნებართვა, რომ { -brand-short-name } შეძლებს მორგებული გაფართოებების შემოთავაზებას
 addon-recommendations-link = ვრცლად
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.

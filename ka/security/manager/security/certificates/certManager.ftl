@@ -219,14 +219,14 @@ verify-email-signer =
 verify-email-recip =
     .value = ელფოსტის მიღების სერთიფიკატი
 # Cert verification
-cert-not-verified-cert-revoked = ამ სერთიფიკატის შემოწმება ვერ მოხერხრდა, რადგან იგი გაუქმებულია.
-cert-not-verified-cert-expired = ამ სერთიფიკატის შემოწმება ვერ მოხერხრდა, რადგან იგი ვადაგასულია.
-cert-not-verified-cert-not-trusted = ამ სერთიფიკატის შემოწმება ვერ მოხერხრდა, რადგან იგი სანდო არაა.
-cert-not-verified-issuer-not-trusted = ამ სერთიფიკატის შემოწმება ვერ მოხერხრდა, რადგან მისი გამცემი სანდო არაა.
-cert-not-verified-issuer-unknown = ამ სერთიფიკატის შემოწმება ვერ მოხერხრდა, რადგან გამცემი უცნობია.
-cert-not-verified-ca-invalid = ამ სერთიფიკატის შემოწმება ვერ მოხერხრდა, რადგან CA-ს სერთიფიკატი მცდარია.
+cert-not-verified-cert-revoked = ამ სერტიფიკატის შემოწმება ვერ მოხერხდა, რადგან იგი გაუქმებულია.
+cert-not-verified-cert-expired = ამ სერტიფიკატის შემოწმება ვერ მოხერხდა, რადგან იგი ვადაგასულია.
+cert-not-verified-cert-not-trusted = ამ სერტიფიკატის შემოწმება ვერ მოხერხდა, რადგან იგი სანდო არაა.
+cert-not-verified-issuer-not-trusted = ამ სერტიფიკატის შემოწმება ვერ მოხერხდა, რადგან მისი გამცემი სანდო არაა.
+cert-not-verified-issuer-unknown = ამ სერტიფიკატის შემოწმება ვერ მოხერხდა, რადგან მისი გამცემი უცნობია.
+cert-not-verified-ca-invalid = ამ სერტიფიკატის შემოწმება ვერ მოხერხდა, რადგან გამცემი უწყების სერტიფიკატი არამართებულია.
 cert-not-verified_algorithm-disabled = სერთიფიკატი ვერ გადამოწმდა, რადგანაც ის ხელმოწერილია ალგორითმით, რომელიც იმის გამო გამოირთო, რომ უსაფრთხო არ იყო.
-cert-not-verified-unknown = ამ სერთიფიკატის შემოწმება ვერ მოხერხრდა გაურკვეველი მიზეზების გამო.
+cert-not-verified-unknown = ამ სერტიფიკატის შემოწმება ვერ მოხერხდა გაურკვეველი მიზეზების გამო.
 
 ## Add Security Exception dialog
 
