@@ -4,10 +4,10 @@
 
 <!ENTITY time.midnight "Tengah malam" >
 <!ENTITY time.noon "Tengah hari" >
+
 <!-- Day Names -->
 <!-- LOCALIZATION NOTE : Accesskeys for day.1.Ddd to day.7.Ddd are currently
      only used in Preferences > Views > Workweek groupbox -->
-
 <!ENTITY day.1.Ddd "Min" >
 <!ENTITY day.1.Ddd.accesskey "M">
 <!ENTITY day.2.Ddd "Sen" >
@@ -46,6 +46,8 @@
 
 <!ENTITY onemonthbackward.tooltip "Mundur Satu Bulan" >
 <!ENTITY onemonthforward.tooltip "Maju Satu Bulan" >
+<!ENTITY oneyearbackward.tooltip "Satu Tahun ke Belakang" >
+<!ENTITY oneyearforward.tooltip "Satu Tahun ke Depan" >
 <!ENTITY showToday.tooltip "Buka Hari Ini">
 <!ENTITY onedayforward.tooltip "Maju Satu Hari">
 <!ENTITY onedaybackward.tooltip "Mundur Satu Hari">
