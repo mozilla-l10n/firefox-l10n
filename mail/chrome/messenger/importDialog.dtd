@@ -10,9 +10,21 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 "&brandShortName;" below.
 -->
 
+<!ENTITY importDialog.windowTitle "นำเข้า">
+<!ENTITY importAll.label          "นำเข้าทุกอย่าง">
+<!ENTITY importMail.label         "จดหมาย">
+<!ENTITY importFeeds.label        "การบอกรับฟีด">
+<!ENTITY importAddressbook.label  "สมุดรายชื่อ">
+<!ENTITY importSettings.label     "การตั้งค่า">
+<!ENTITY importFilters.label      "ตัวกรอง">
 
+<!ENTITY  window.width            "40em">
+<!ENTITY  window.macWidth         "45em">
 
+<!ENTITY importTitle.label        "ตัวช่วยสร้างการนำเข้าของ &brandShortName;">
+<!ENTITY importShortDesc.label    "นำเข้าจดหมาย สมุดรายชื่อ การตั้งค่า และตัวกรองจากโปรแกรมอื่น">
 
+<!ENTITY importDescription1.label "ตัวช่วยสร้างนี้จะนำเข้าข้อความจดหมาย รายการสมุดรายชื่อ การบอกรับฟีด ค่ากำหนด และ/หรือตัวกรองจากโปรแกรมจดหมายอื่นและรูปแบบสมุดรายชื่อทั่วไปลงใน &brandShortName;">
 
 
 <!ENTITY back.label               "&lt; ย้อนกลับ">
