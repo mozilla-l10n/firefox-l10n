@@ -89,7 +89,7 @@ about-debugging-setup-usb-status-updating = 更新中...
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-dev-menu = 启用 Android 设备的“开发者选项”。<a>了解方法</a>
 # USB section step by step guide
-about-debugging-setup-usb-step-enable-debug = 启用 Android 开发者选项中的“ USB 调试”功能。<a>了解方法</a>
+about-debugging-setup-usb-step-enable-debug = 启用 Android 开发者选项中的“USB 调试”功能。<a>了解方法</a>
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-debug-firefox = 启用 Android 设备上 Firefox 的“USB 调试”功能。<a>了解方法</a>
 # USB section step by step guide
