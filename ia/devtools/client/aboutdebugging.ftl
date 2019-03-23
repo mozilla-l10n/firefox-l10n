@@ -61,6 +61,35 @@ about-debugging-refresh-usb-devices-button = Actualisar le apparatos
 
 # Title of the Setup page.
 about-debugging-setup-title = Installation
+# Introduction text in the Setup page to explain how to configure remote debugging.
+about-debugging-setup-intro = Configura le methodo de connexion que tu vole usar pro le depuration remote de tu dispositivo.
+# Link displayed in the Setup page that leads to MDN page with list of supported devices.
+# Temporarily leads to https://support.mozilla.org/en-US/kb/will-firefox-work-my-mobile-device#w_android-devices
+about-debugging-setup-link-android-devices = Vider le lista de apparatos Android supportate
+# Explanatory text in the Setup page about what the 'This Firefox' page is for
+about-debugging-setup-this-firefox = Usar <a>{ about-debugging-this-firefox-runtime-name }</a> pro depurar schedas, extensiones e obreros de servicio sur iste version de { -brand-shorter-name }.
+# Title of the heading Connect section of the Setup page.
+about-debugging-setup-connect-heading = Connecter un apparato
+# USB section of the Setup page
+about-debugging-setup-usb-title = USB
+# Explanatory text displayed in the Setup page when USB debugging is disabled
+about-debugging-setup-usb-disabled = Iste activation discargara e addera le componentes de depuration USB de Android pro { -brand-shorter-name }.
+# Text of the button displayed in the USB section of the setup page when USB debugging is disabled.
+# Clicking on it will download components needed to debug USB Devices remotely.
+about-debugging-setup-usb-enable-button = Activar le dispositivos USB
+# Text of the button displayed in the USB section of the setup page when USB debugging is enabled.
+about-debugging-setup-usb-disable-button = Disactivar dispositivos USB
+# Text of the button displayed in the USB section of the setup page while USB debugging
+# components are downloaded and installed.
+about-debugging-setup-usb-updating-button = Actualisation…
+# USB section of the Setup page (USB status)
+about-debugging-setup-usb-status-enabled = Activate
+about-debugging-setup-usb-status-disabled = Disactivate
+about-debugging-setup-usb-status-updating = Actualisation...
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-dev-menu = Activar le menu de disveloppator sur tu apparato Android.
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug = Activar le depuration USB in le menu del disveloppator de Android.
 
 # Runtime Page strings
 
