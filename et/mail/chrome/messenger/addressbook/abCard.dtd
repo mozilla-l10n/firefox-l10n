@@ -15,13 +15,13 @@
 -->
 
 <!-- LOCALIZATION NOTE (NameField1.id) : DONT_TRANSLATE -->
-<!ENTITY NameField1.id                  "Eesnimi">
+<!ENTITY NameField1.id                  "FirstName">
 <!-- LOCALIZATION NOTE (NameField2.id) : DONT_TRANSLATE -->
-<!ENTITY NameField2.id                  "Perekonnanimi">
+<!ENTITY NameField2.id                  "LastName">
 <!-- LOCALIZATION NOTE (PhoneticField1.id) : DONT_TRANSLATE -->
-<!ENTITY PhoneticField1.id              "Eesnime hääldus">
+<!ENTITY PhoneticField1.id              "PhoneticFirstName">
 <!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
-<!ENTITY PhoneticField2.id              "Perekonnanime hääldus">
+<!ENTITY PhoneticField2.id              "PhoneticLastName">
 
 <!ENTITY NameField1.label               "Eesnimi:">
 <!ENTITY NameField1.accesskey           "E">
@@ -141,7 +141,6 @@
 
 <!ENTITY Photo.tab                      "Pilt">
 <!ENTITY Photo.accesskey                "i">
-<!ENTITY PhotoDesc.label                "Valitakse üks järgnevatest:">
 <!ENTITY GenericPhoto.label             "Üldine pilt">
 <!ENTITY GenericPhoto.accesskey         "Ü">
 <!ENTITY DefaultPhoto.label             "vaikimisi">
