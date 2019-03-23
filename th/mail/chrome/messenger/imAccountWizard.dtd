@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY windowTitle.label            "ตัวช่วยสร้างบัญชีแชท">
+<!ENTITY windowTitle.label            "ตัวช่วยบัญชีแชท">
 
 <!ENTITY accountProtocolTitle.label   "เครือข่ายแชท">
 <!ENTITY accountProtocolInfo.label    "โปรดเลือกเครือข่ายของบัญชีแชทของคุณ">

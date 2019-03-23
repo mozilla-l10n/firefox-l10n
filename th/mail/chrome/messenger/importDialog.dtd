@@ -27,10 +27,10 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY  window.width            "40em">
 <!ENTITY  window.macWidth         "45em">
 
-<!ENTITY importTitle.label        "ตัวช่วยสร้างการนำเข้าของ &brandShortName;">
+<!ENTITY importTitle.label        "ตัวช่วยนำเข้าของ &brandShortName;">
 <!ENTITY importShortDesc.label    "นำเข้าจดหมาย สมุดรายชื่อ การตั้งค่า และตัวกรองจากโปรแกรมอื่น">
 
-<!ENTITY importDescription1.label "ตัวช่วยสร้างนี้จะนำเข้าข้อความจดหมาย รายการสมุดรายชื่อ การบอกรับฟีด ค่ากำหนด และ/หรือตัวกรองจากโปรแกรมจดหมายอื่นและรูปแบบสมุดรายชื่อทั่วไปลงใน &brandShortName;">
+<!ENTITY importDescription1.label "ตัวช่วยนี้จะนำเข้าข้อความจดหมาย รายการสมุดรายชื่อ การบอกรับฟีด ค่ากำหนด และ/หรือตัวกรองจากโปรแกรมจดหมายอื่นและรูปแบบสมุดรายชื่อทั่วไปลงใน &brandShortName;">
 <!ENTITY importDescription2.label "เมื่อข้อมูลเหล่านั้นถูกนำเข้าแล้ว คุณจะสามารถเข้าถึงข้อมูลเหล่านั้นได้จากภายใน &brandShortName;">
 
 <!ENTITY selectDescription.label  "โปรดเลือกชนิดของไฟล์ที่คุณต้องการนำเข้า:">
