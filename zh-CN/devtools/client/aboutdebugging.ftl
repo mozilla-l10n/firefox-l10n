@@ -62,12 +62,12 @@ about-debugging-refresh-usb-devices-button = 刷新设备
 # Title of the Setup page.
 about-debugging-setup-title = 设置
 # Introduction text in the Setup page to explain how to configure remote debugging.
-about-debugging-setup-intro = 配置您偏好的连接方式以远程调试设备。
+about-debugging-setup-intro = 配置您偏好的连接方法以远程调试您的设备。
 # Link displayed in the Setup page that leads to MDN page with list of supported devices.
 # Temporarily leads to https://support.mozilla.org/en-US/kb/will-firefox-work-my-mobile-device#w_android-devices
-about-debugging-setup-link-android-devices = 查看支持的 Android 设备列表
+about-debugging-setup-link-android-devices = 查看受支持的 Android 设备列表
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
-about-debugging-setup-this-firefox = 使用<a>{ about-debugging-this-firefox-runtime-name }</a> 调试此版本 { -brand-shorter-name } 上的标签页、扩展和 Service Worker。
+about-debugging-setup-this-firefox = 使用<a>{ about-debugging-this-firefox-runtime-name }</a> 调试此 { -brand-shorter-name } 版本上的标签页、扩展和 Service Worker。
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = 连接设备
 # USB section of the Setup page
@@ -81,17 +81,17 @@ about-debugging-setup-usb-enable-button = 启用 USB 设备
 about-debugging-setup-usb-disable-button = 禁用 USB 设备
 # Text of the button displayed in the USB section of the setup page while USB debugging
 # components are downloaded and installed.
-about-debugging-setup-usb-updating-button = 更新中…
+about-debugging-setup-usb-updating-button = 正在更新…
 # USB section of the Setup page (USB status)
 about-debugging-setup-usb-status-enabled = 已启用
 about-debugging-setup-usb-status-disabled = 已禁用
-about-debugging-setup-usb-status-updating = 更新中...
+about-debugging-setup-usb-status-updating = 正在更新...
 # USB section step by step guide
-about-debugging-setup-usb-step-enable-dev-menu = 启用 Android 设备的“开发者选项”。<a>了解方法</a>
+about-debugging-setup-usb-step-enable-dev-menu = 在您的 Android 设备上启用“开发者选项”。<a>了解方法</a>
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-debug = 启用 Android 开发者选项中的“USB 调试”功能。<a>了解方法</a>
 # USB section step by step guide
-about-debugging-setup-usb-step-enable-debug-firefox = 启用 Android 设备上 Firefox 的“USB 调试”功能。<a>了解方法</a>
+about-debugging-setup-usb-step-enable-debug-firefox = 在 Android 设备的 Firefox 中启用“USB 调试”功能。<a>了解方法</a>
 # USB section step by step guide
 about-debugging-setup-usb-step-plug-device = 将 Android 设备连接到您的计算机。
 # Network section of the Setup page
