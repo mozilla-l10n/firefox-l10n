@@ -4,7 +4,7 @@
 
 # An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
 about-config-warning-title = Čia yra drakonų!
-about-config-warning-text = Šių ekspertinių parametrų keitimas gali pakenkti programos stabilumui, saugumui ir darbo greičiui. Turėtumėte tai daryti tik tuomet, jei tikrai žinote, ką darote.
+about-config-warning-text = Šių ekspertinių nustatymų keitimas gali pakenkti programos stabilumui, saugumui ir darbo greičiui. Turėtumėte tai daryti tik tuomet, jei tikrai žinote, ką darote.
 about-config-warning-checkbox = Suerzinkite mane ir vėl, prašau!
 about-config-warning-button = Sutinku su rizika
 about-config-title = about:config
