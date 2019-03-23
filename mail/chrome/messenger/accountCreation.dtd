@@ -92,5 +92,7 @@
 <!ENTITY changeSettings.accesskey        "ป">
 
 
+<!ENTITY insecureServer.tooltip.title    "คำเตือน! เซิร์ฟเวอร์นี้เป็นเซิร์ฟเวอร์ที่ไม่ปลอดภัย">
 <!ENTITY insecureServer.tooltip.details  "คลิกวงกลมสำหรับรายละเอียดเพิ่มเติม">
 
+<!ENTITY secureServer.description        "ยินดีด้วย! เซิร์ฟเวอร์นี้เป็นเซิร์ฟเวอร์ที่ปลอดภัย">
