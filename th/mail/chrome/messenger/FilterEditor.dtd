@@ -26,9 +26,29 @@
 
 <!ENTITY filterActionDesc.label "ดำเนินการการกระทำเหล่านี้:">
 
+<!ENTITY filterActionOrder.label "ดูลำดับการทำงาน">
 
 <!-- New Style Filter Rule Actions -->
+<!ENTITY moveMessage.label "ย้ายข้อความไปยัง">
+<!ENTITY copyMessage.label "คัดลอกข้อความไปยัง">
+<!ENTITY forwardTo.label "ส่งต่อข้อความไปยัง">
+<!ENTITY replyWithTemplate.label "ตอบกลับด้วยแม่แบบ">
+<!ENTITY markMessageRead.label "ทำเครื่องหมายว่าอ่านแล้ว">
+<!ENTITY markMessageUnread.label "ทำเครื่องหมายว่ายังไม่ได้อ่าน">
+<!ENTITY markMessageStarred.label "เพิ่มดาว">
+<!ENTITY setPriority.label "ตั้งค่าลำดับความสำคัญเป็น">
+<!ENTITY addTag.label "แท็กข้อความ">
+<!ENTITY setJunkScore.label "ตั้งค่าสถานะขยะเป็น">
+<!ENTITY deleteMessage.label "ลบข้อความ">
+<!ENTITY deleteFromPOP.label "ลบจากเซิร์ฟเวอร์ POP">
+<!ENTITY fetchFromPOP.label "ดึงจากเซิร์ฟเวอร์ POP">
+<!ENTITY ignoreThread.label "เพิกเฉยหัวข้อ">
+<!ENTITY ignoreSubthread.label "เพิกเฉยหัวข้อย่อย">
+<!ENTITY watchThread.label "เฝ้าดูหัวข้อ">
+<!ENTITY stopExecution.label "หยุดการทำงานของตัวกรอง">
 
+<!ENTITY addAction.tooltip "เพิ่มการกระทำใหม่">
+<!ENTITY removeAction.tooltip "เอาการกระทำนี้ออก">
 
 <!-- LOCALIZATION NOTE
      The values below are used to control the widths of the filter action widgets.
@@ -36,3 +56,5 @@
      are truncated in the widgets.
   -->
 <!-- Flex Attribute: https://developer.mozilla.org/docs/XUL/Attribute/flex -->
+<!ENTITY filterActionTypeFlexValue "1">
+<!ENTITY filterActionTargetFlexValue "4">
