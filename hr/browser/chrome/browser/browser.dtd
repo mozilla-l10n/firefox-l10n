@@ -108,7 +108,6 @@ These items have the same accesskey but will never be visible at the same time. 
 <!ENTITY  hiddenTabs.label                   "Skrivene kartice">
 
 <!ENTITY  listAllTabs.label      "Popis svih tabova">
-
 <!-- LOCALIZATION NOTE (allTabsMenu.searchTabs.label): "Search" is a verb, as
 in "Search through tabs". -->
 <!ENTITY  allTabsMenu.searchTabs.label       "Pretraži kartice">
@@ -215,6 +214,28 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenAutohide.accesskey "k">
 <!ENTITY fullScreenExit.label "Izađi iz prikaza potpunog ekrana">
 <!ENTITY fullScreenExit.accesskey "p">
+
+ <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
+     for the Firefox Account toolbar signin menu screen. -->
+<!ENTITY fxa.signin.callout.label "Uzmite Firefox sa sobom">
+<!ENTITY fxa.signin.description.label "Preuzmite svoje zabilješke, povijest, lozinke i druge postavke na sve vaše uređaje.">
+<!ENTITY fxa.signin.button.label "Uključite &syncBrand.shortName.label;…">
+
+<!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
+     for the Firefox Account toolbar unverified menu screen. -->
+<!ENTITY fxa.unverified.callout.label "Provjerite svoju e-poštu">
+<!ENTITY fxa.unverified.description.label "Prije sinkronizacije morat ćete potvrditi svoj račun.">
+<!ENTITY fxa.unverified.button.label "Otvori &syncBrand.shortName.label; mogućnosti…">
+
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbart menu screen. The `Signed in as` text is
+     followed by the user's email. -->
+<!ENTITY fxa.menu.signedInAs.label "Prijavljen kao">
+<!ENTITY fxa.menu.manageAccount.label "Upravljanje računom…">
+<!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label; mogućnosti…">
+<!ENTITY fxa.menu.connectAnotherDevice.label "&syncedTabs.sidebar.connectAnotherDevice;">
+<!ENTITY fxa.menu.connectAnotherDevice2.label "Poveži novi uređaj…">
+<!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -410,6 +431,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmd2.accesskey     "M">
 <!ENTITY preferencesCmdUnix.label       "Postavke">
 <!ENTITY preferencesCmdUnix.accesskey     "P">
+
+<!ENTITY logins.label                           "Prijave i lozinke">
 
 <!ENTITY clearRecentHistory.label               "Obriši nedavnu povijest…">
 
@@ -882,7 +905,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "Ovoj stranici niste dali nikakva posebna dopuštenja.">
 <!ENTITY identity.permissionsReloadHint "Trebali biste ponovno osvježiti stranicu radi primjene izmjena.">
 <!ENTITY identity.permissionsPreferences.tooltip "Otvori postavke dopuštenja">
-
 <!ENTITY identity.contentBlockingPreferences.tooltip "Otvori postavke blokiranja sadržaja">
 
 
@@ -934,6 +956,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncSignIn.label             "Prijavite se u &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "Y">
 <!ENTITY syncSyncNowItem.label        "Sinkroniziraj sada">
+<!ENTITY syncSyncNowItemSyncing.label "Sinkroniziranje…">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "Ponovno povezivanje na &syncBrand.shortName.label;a…">
 <!ENTITY syncReAuthItem.accesskey     "v">
@@ -1136,8 +1159,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Upravljajte svojim dodacima klikom na <image class='addon-addon-icon'/> u <image class='addon-toolbar-icon'/> izborniku.">
-<!ENTITY addonPostInstall.incognito.label "Dopusti ovom dodatku da radi u privatnom prozoru.">
-<!ENTITY addonPostInstall.incognito.accesskey "D">
+<!ENTITY addonPostInstall.incognito.checkbox.label "Dopusti ovom dodatku da radi u privatnom prozoru">
+<!ENTITY addonPostInstall.incognito.checkbox.accesskey "a">
 
 <!ENTITY addonPrivateBrowsing.header2.label "Promijeni u dodatke u privatnim prozorima">
 <!ENTITY addonPrivateBrowsing.body2.label "Nove dodatke koje dodate u &brandShorterName; neće raditi u privatnim prozorima kod ne dopustite ovo u postavkama.">
