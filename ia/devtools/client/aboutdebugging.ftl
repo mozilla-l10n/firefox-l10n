@@ -62,7 +62,7 @@ about-debugging-refresh-usb-devices-button = Actualisar le apparatos
 # Title of the Setup page.
 about-debugging-setup-title = Installation
 # Introduction text in the Setup page to explain how to configure remote debugging.
-about-debugging-setup-intro = Configura le methodo de connexion que tu vole usar pro le depuration remote de tu dispositivo.
+about-debugging-setup-intro = Configurar le methodo de connexion desirate pro le depuration remote de tu dispositivo.
 # Link displayed in the Setup page that leads to MDN page with list of supported devices.
 # Temporarily leads to https://support.mozilla.org/en-US/kb/will-firefox-work-my-mobile-device#w_android-devices
 about-debugging-setup-link-android-devices = Vider le lista de apparatos Android supportate
@@ -90,9 +90,51 @@ about-debugging-setup-usb-status-updating = Actualisation...
 about-debugging-setup-usb-step-enable-dev-menu = Activar le menu de disveloppator sur tu apparato Android.
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-debug = Activar le depuration USB in le menu del disveloppator de Android.
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug-firefox = Activa le depuration USB in Firefox sur le  apparato Android. <a>Apprende como</a>
+# USB section step by step guide
+about-debugging-setup-usb-step-plug-device = Connecte le apparato Android a tu computator.
+# Network section of the Setup page
+about-debugging-setup-network =
+    .title = Position del rete
+# Text of a button displayed after the network locations "Host" input.
+# Clicking on it will add the new network location to the list.
+about-debugging-network-locations-add-button = Adder
+# Text to display when there are no locations to show.
+about-debugging-network-locations-empty-text = Nulle positiones de rete ha essite ancora addite.
+# Text of the label for the text input that allows users to add new network locations in
+# the Connect page. A host is a hostname and a port separated by a colon, as suggested by
+# the input's placeholder "localhost:6080".
+about-debugging-network-locations-host-input-label = Hospite
+# Text of a button displayed next to existing network locations in the Connect page.
+# Clicking on it removes the network location from the list.
+about-debugging-network-locations-remove-button = Remover
 
 # Runtime Page strings
 
+# Below are the titles for the various categories of debug targets that can be found
+# on "runtime" pages of about:debugging.
+# Title of the temporary extensions category (only available for "This Firefox" runtime).
+about-debugging-runtime-temporary-extensions =
+    .name = Extensiones temporari
+# Title of the extensions category.
+about-debugging-runtime-extensions =
+    .name = Extensiones
+# Title of the tabs category.
+about-debugging-runtime-tabs =
+    .name = Schedas
+# Title of the service workers category.
+about-debugging-runtime-service-workers =
+    .name = Obreros de servicio
+# Title of the shared workers category.
+about-debugging-runtime-shared-workers =
+    .name = Obreros compartite
+# Title of the other workers category.
+about-debugging-runtime-other-workers =
+    .name = Altere obreros
+# Title of the processes category.
+about-debugging-runtime-processes =
+    .name = Processos
 # Displayed for runtime info in runtime pages.
 # { $name } is brand name such as "Firefox Nightly"
 # { $version } is version such as "64.0a1"
