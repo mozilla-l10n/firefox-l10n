@@ -6,7 +6,19 @@
 <!ENTITY offlineContactsHeader.label   "ผู้ติดต่อออฟไลน์">
 <!ENTITY conversationsHeader.label     "การสนทนา">
 <!ENTITY searchResultConversation.label "ผลการค้นหา">
+<!ENTITY chat.noConv.title             "การสนทนาจะแสดงที่นี่">
+<!ENTITY chat.noConv.description       "เลือกผู้ติดต่อจากรายชื่อที่อยู่ในแผงด้านซ้ายเพื่อเริ่มการสนทนา">
+<!ENTITY chat.noPreviousConv.description       "ขณะนี้ &brandShortName; ไม่มีการสนทนาก่อนหน้าใด ๆ ที่เก็บไว้สำหรับผู้ติดต่อนี้">
+<!ENTITY chat.noAccount.title             "คุณยังไม่ได้ตั้งค่าบัญชีแชท">
+<!ENTITY chat.noAccount.description       "ให้ &brandShortName; แนะนำคุณผ่านกระบวนการตั้งค่าบัญชีแชทของคุณ">
+<!ENTITY chat.accountWizard.button       "เริ่มต้นใช้งาน">
+<!ENTITY chat.noConnectedAccount.title             "บัญชีแชทของคุณไม่ได้ถูกเชื่อมต่อ">
+<!ENTITY chat.noConnectedAccount.description       "คุณสามารถเชื่อมต่อบัญชีแชทได้จากกล่องโต้ตอบ 'สถานะการแชท':">
+<!ENTITY chat.showAccountManager.button       "แสดงสถานะการแชท">
 
+<!ENTITY chat.participants             "ผู้เข้าร่วม:">
+<!ENTITY chat.previousConversations    "การสนทนาก่อนหน้า:">
+<!ENTITY chat.ongoingConversation      "การสนทนาที่กำลังดำเนินอยู่">
 
 <!ENTITY openConversationCmd.label     "เริ่มการสนทนา">
 <!ENTITY openConversationCmd.accesskey "ร">
