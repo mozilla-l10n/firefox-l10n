@@ -132,11 +132,17 @@
 <!ENTITY paragraphMenu.label "ย่อหน้า">
 <!ENTITY paragraphParagraphCmd.label "ย่อหน้า">
 <!ENTITY heading1Cmd.label "หัวเรื่อง 1">
+<!ENTITY heading1Cmd.accesskey "1">
 <!ENTITY heading2Cmd.label "หัวเรื่อง 2">
+<!ENTITY heading2Cmd.accesskey "2">
 <!ENTITY heading3Cmd.label "หัวเรื่อง 3">
+<!ENTITY heading3Cmd.accesskey "3">
 <!ENTITY heading4Cmd.label "หัวเรื่อง 4">
+<!ENTITY heading4Cmd.accesskey "4">
 <!ENTITY heading5Cmd.label "หัวเรื่อง 5">
+<!ENTITY heading5Cmd.accesskey "5">
 <!ENTITY heading6Cmd.label "หัวเรื่อง 6">
+<!ENTITY heading6Cmd.accesskey "6">
 <!ENTITY paragraphAddressCmd.label "ที่อยู่">
 <!ENTITY paragraphPreformatCmd.label "ย่อหน้าที่จัดรูปแบบไว้ล่วงหน้า">
 
