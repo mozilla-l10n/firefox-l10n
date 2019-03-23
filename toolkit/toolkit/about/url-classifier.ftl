@@ -18,6 +18,7 @@ url-classifier-debug-file-btn = ตั้งไฟล์รายการบั
 url-classifier-debug-js-log-chk = ตั้งรายการบันทึก JS
 url-classifier-debug-modules = โมดูลรายการบันทึกปัจจุบัน
 url-classifier-debug-file = ไฟล์รายการบันทึกปัจจุบัน
+url-classifier-not-available = ไม่มี
 url-classifier-enabled = ถูกเปิดใช้งาน
 url-classifier-disabled = ถูกปิดใช้งาน
 url-classifier-updating = กำลังอัปเดต
