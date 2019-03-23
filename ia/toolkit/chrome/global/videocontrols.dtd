@@ -10,7 +10,6 @@
 <!ENTITY fullscreenButton.exitfullscreenlabel "Exir del plen schermo">
 <!ENTITY castingButton.castingLabel "Transmitter per le schermo">
 <!ENTITY closedCaption.off "Inactive">
-
 <!-- LOCALIZATION NOTE (volumeScrubber.label): This label is exposed to
      accessibility software to clarify what the slider is for. -->
 <!ENTITY volumeScrubber.label "Cursor del volumine">
@@ -34,6 +33,8 @@
 <!ENTITY error.srcNotSupported "Formato video o typo MIME non supportate.">
 <!ENTITY error.noSource2 "Nulle formato video supportate e typo MIME trovate.">
 <!ENTITY error.generic "Le lectura del video ha essite interrumpite a causa de un error incognite.">
+
+<!ENTITY status.pictureInPicture "Iste video es reproducite in modo imagine annidate.">
 
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
