@@ -366,10 +366,10 @@ home-homepage-custom-url =
 use-current-pages =
     .label =
         { $tabCount ->
-            [1] Sử dụng Trang hiện tại
-           *[other] Dùng các Trang hiện tại
+            [1] Dùng các trang hiện tại
+           *[other] Dùng các trang hiện tại
         }
-    .accesskey = a
+    .accesskey = C
 choose-bookmark =
     .label = Dùng trang đánh dấu…
     .accesskey = d
