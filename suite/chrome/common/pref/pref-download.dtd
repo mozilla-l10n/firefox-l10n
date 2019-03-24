@@ -19,7 +19,7 @@
 <!ENTITY saveTo.accesskey               "v">
 <!ENTITY chooseDownloadFolder.label     "选择文件夹…">
 <!ENTITY chooseDownloadFolder.accesskey "C">
-<!ENTITY alwaysAsk.label                "每次问我保存文件的位置">
+<!ENTITY alwaysAsk.label                "每次都问我保存文件的位置">
 <!ENTITY alwaysAsk.accesskey            "A">
 
 <!ENTITY finishedBehavior.label         "当一个下载项结束时">
