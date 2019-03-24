@@ -49,7 +49,7 @@
 <!ENTITY hdrViewToolbarShowIcons.accesskey "I">
 <!ENTITY hdrViewToolbarShowText.label "仅显示文本">
 <!ENTITY hdrViewToolbarShowText.accesskey "T">
-<!ENTITY hdrViewToolbarAlwaysReplySender.label "总是回复至发件人">
+<!ENTITY hdrViewToolbarAlwaysReplySender.label "一律回复至发件人">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "R">
 
 <!ENTITY otherActionsButton2.label "更多">
