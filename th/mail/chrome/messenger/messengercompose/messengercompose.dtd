@@ -15,6 +15,7 @@
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessage.accesskey "ข">
 <!ENTITY newContact.label "ผู้ติดต่อของสมุดรายชื่อ…">
+<!ENTITY newContact.accesskey "ผ">
 <!ENTITY attachMenu.label "แนบ">
 <!ENTITY attachMenu.accesskey "น">
 <!ENTITY attachFileCmd.label "ไฟล์…">
@@ -28,6 +29,7 @@
 <!ENTITY attachVCardCmd.label "บัตรส่วนบุคคล (vCard)">
 <!ENTITY attachVCardCmd.accesskey "บ">
 <!ENTITY remindLater.label "เตือนฉันภายหลัง">
+<!ENTITY remindLater.accesskey "ต">
 <!ENTITY closeCmd.label "ปิด">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "ป">
@@ -191,22 +193,63 @@
 <!ENTITY smiley1Cmd.label "หน้ายิ้ม">
 <!ENTITY smiley2Cmd.label "หน้าขมวดคิ้ว">
 <!ENTITY smiley3Cmd.label "หน้าขยิบตา">
+<!ENTITY smiley4Cmd.label "หน้าแลบลิ้น">
+<!ENTITY smiley5Cmd.label "หน้าหัวเราะ">
+<!ENTITY smiley6Cmd.label "หน้ายิ้มเขิน">
+<!ENTITY smiley7Cmd.label "หน้าลังเล">
+<!ENTITY smiley8Cmd.label "หน้าประหลาดใจ">
+<!ENTITY smiley9Cmd.label "หน้าจูบ">
+<!ENTITY smiley10Cmd.label "หน้าตะโกน">
+<!ENTITY smiley11Cmd.label "หน้าเท่">
+<!ENTITY smiley12Cmd.label "หน้ามีปากรูปเงิน">
+<!ENTITY smiley13Cmd.label "หน้าพลั้งปาก">
+<!ENTITY smiley14Cmd.label "หน้าบริสุทธิ์">
+<!ENTITY smiley15Cmd.label "หน้าร้องไห้">
+<!ENTITY smiley16Cmd.label "หน้าปิดปากสนิท">
 
 <!-- Message Pane Context Menu -->
+<!ENTITY spellCheckNoSuggestions.label "ไม่พบคำแนะนำ">
+<!ENTITY spellCheckIgnoreWord.label "เพิกเฉยคำ">
+<!ENTITY spellCheckAddToDictionary.label "เพิ่มไปยังพจนานุกรม">
+<!ENTITY undo.label "เลิกทำ">
+<!ENTITY cut.label "ตัด">
+<!ENTITY copy.label "คัดลอก">
+<!ENTITY paste.label "วาง">
+<!ENTITY pasteQuote.label "วางเป็นถ้อยคำอ้างอิง">
 
 <!-- Attachment Item and List Context Menus -->
+<!ENTITY openAttachment.label "เปิด">
+<!ENTITY delete.label "ลบ">
+<!ENTITY removeAttachment.label "เอาไฟล์แนบออก">
+<!ENTITY renameAttachment.label "เปลี่ยนชื่อ…">
+<!ENTITY reorderAttachments.label "จัดลำดับไฟล์แนบใหม่…">
+<!ENTITY removeAllAttachments.label "เอาไฟล์แนบทั้งหมดออก">
+<!ENTITY selectAll.label "เลือกทั้งหมด">
+<!ENTITY attachFile.label "แนบไฟล์…">
+<!ENTITY attachCloud.label "ลิงก์ไฟล์…">
+<!ENTITY convertCloud.label "แปลงเป็น…">
+<!ENTITY cancelUpload.label "ยกเลิกการอัปโหลด">
+<!ENTITY convertRegularAttachment.label "ไฟล์แนบปกติ">
+<!ENTITY attachPage.label "แนบหน้าเว็บ…">
 
 <!-- Attachment Pane Header Bar Context Menu -->
 <!-- LOCALIZATION NOTE (initiallyShowAttachmentPane.label):
      Should use the same wording as startExpandedCmd.label
      in msgHdrViewOverlay.dtd. -->
+<!ENTITY initiallyShowAttachmentPane.label "แสดงบานหน้าต่างไฟล์แนบตั้งแต่เริ่มต้น">
 
 <!-- Spell checker context menu items -->
+<!ENTITY spellAddDictionaries.label "เพิ่มพจนานุกรม…">
 
 <!-- Title for the address picker panel -->
+<!ENTITY addressesSidebarTitle.label "ผู้ติดต่อ">
 
 <!-- Identity popup customize menuitem -->
+<!ENTITY customizeFromAddress.label "ปรับแต่งที่อยู่ จาก…">
 
 <!-- Accessibility name for the document -->
+<!ENTITY aria.message.bodyName "เนื้อความของข้อความ">
 
 <!-- Status Bar -->
+<!ENTITY languageStatusButton.tooltip "ภาษาการตรวจการสะกดคำ">
+<!ENTITY encodingStatusPanel.tooltip "รหัสอักขระ">

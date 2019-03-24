@@ -1,0 +1,17 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- extracted from MsgSynchronize.xul and msgSelectOfflineFolders.xul-->
+
+<!ENTITY MsgSynchronize.label "ดาวน์โหลดและซิงค์ข้อความ">
+<!ENTITY MsgSelect.label "รายการสำหรับใช้งานออฟไลน์">
+<!ENTITY MsgSyncDirections.label "ดาวน์โหลดและ/หรือซิงค์สิ่งต่อไปนี้:">
+<!ENTITY syncTypeMail.label "ข้อความจดหมาย">
+<!ENTITY syncTypeNews.label "ข้อความกลุ่มข่าว">
+<!ENTITY sendMessage.label "ส่งข้อความที่ไม่ได้ส่ง">
+<!ENTITY workOffline.label "ทำงานแบบออฟไลน์เมื่อการดาวน์โหลดและ/หรือการซิงค์เสร็จสมบูรณ์">
+<!ENTITY selectButton.label "เลือก…">
+<!ENTITY MsgSelectDesc.label "เลือกโฟลเดอร์จดหมายและกลุ่มข่าวสำหรับใช้งานออฟไลน์">
+<!ENTITY MsgSelectInd.label "ดาวน์โหลด">
+<!ENTITY MsgSelectItems.label "โฟลเดอร์และกลุ่มข่าว">
