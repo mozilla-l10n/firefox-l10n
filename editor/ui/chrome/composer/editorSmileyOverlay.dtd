@@ -4,6 +4,7 @@
 
 <!-- Smiley Menu items -->
 <!ENTITY insertSmiley.label "สัญลักษณ์หน้ายิ้ม">
+<!ENTITY insertSmiley.accesskey "ย">
 
 <!ENTITY smiley1Cmd.label "หน้ายิ้ม">
 <!ENTITY smiley1Cmd.tooltip "แทรกหน้ายิ้ม">
