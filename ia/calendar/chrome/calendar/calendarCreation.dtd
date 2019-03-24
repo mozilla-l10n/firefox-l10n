@@ -39,4 +39,5 @@
 <!ENTITY location.label "Adresse:">
 
 <!ENTITY network.nocredentials.label "Iste position non require credentiales">
+<!ENTITY network.loading.description "Attende durante que tu agendas es discoperite.">
 

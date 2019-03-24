@@ -4,6 +4,7 @@
 -->
 
 <!-- Calendar Subscriptions Dialog -->
+<!ENTITY calendar.subscriptions.dialog.title                            "Subscribe agendas">
 <!ENTITY calendar.subscriptions.dialog.search.label.value               "Monstrar agendas que contine:">
 <!ENTITY calendar.subscriptions.dialog.search.button.label              "Cercar">
 <!ENTITY calendar.subscriptions.dialog.subscribe.button.label           "Subscriber">
