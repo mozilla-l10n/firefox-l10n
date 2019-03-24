@@ -128,6 +128,15 @@
 <!ENTITY groupBySort.label "จัดกลุ่มตามการเรียง">
 <!ENTITY msgsMenu.label "ข้อความ">
 <!ENTITY threads.label "หัวข้อ">
+<!ENTITY allMsgsCmd.label "ทั้งหมด">
+<!ENTITY expandAllThreadsCmd.label "ขยายหัวข้อทั้งหมด">
+<!ENTITY expandAllThreadsCmd.key "*">
+<!ENTITY collapseAllThreadsCmd.label "ยุบหัวข้อทั้งหมด">
+<!ENTITY collapseAllThreadsCmd.key "\">
+<!ENTITY unreadMsgsCmd.label "ยังไม่ได้อ่าน">
+<!ENTITY threadsWithUnreadCmd.label "หัวข้อที่มีที่ยังไม่ได้อ่าน">
+<!ENTITY watchedThreadsWithUnreadCmd.label "หัวข้อที่เฝ้าดูที่มีที่ยังไม่ได้อ่าน">
+<!ENTITY ignoredThreadsCmd.label "หัวข้อที่เพิกเฉย">
 
 
 
