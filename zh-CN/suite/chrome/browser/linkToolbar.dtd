@@ -12,7 +12,7 @@
 <!ENTITY linkToolbarAlways.accesskey "S">
 <!ENTITY linkToolbarAsNeeded.label "仅需要时显示">
 <!ENTITY linkToolbarAsNeeded.accesskey "O">
-<!ENTITY linkToolbarNever.label "始终隐藏">
+<!ENTITY linkToolbarNever.label "一律隐藏">
 <!ENTITY linkToolbarNever.accesskey "H">
 
 <!-- Toolbar buttons, menus, and menuitems -->
