@@ -371,7 +371,7 @@
 
 <!-- Attendees dialog -->
 <!ENTITY invite.title.label                     "Katılımcıları davet et">
-<!ENTITY event.organizer.label                  "Düzenleyici">
+<!ENTITY event.organizer.label                  "Düzenleyen">
 <!ENTITY event.freebusy.suggest.slot            "Zaman aralığı öner:">
 <!ENTITY event.freebusy.button.next.slot        "Sonraki zaman aralığı">
 <!ENTITY event.freebusy.button.previous.slot    "Önceki zaman aralığı">
@@ -415,6 +415,7 @@
 
 <!-- Summary dialog -->
 <!ENTITY summary.dialog.saveclose.label         "Kaydet ve kapat">
+<!ENTITY summary.dialog.saveclose.tooltiptext   "Katılım durumunu değiştirmeden ve yanıt göndermeden değişiklikleri kaydedin ve pencereyi kapatın">
 <!ENTITY summary.dialog.accept.label            "Kabul et">
 <!ENTITY summary.dialog.accept.tooltiptext      "Daveti kabul et">
 <!ENTITY summary.dialog.tentative.label         "Kesin değil">
@@ -422,5 +423,6 @@
 <!ENTITY summary.dialog.decline.label           "Reddet">
 <!ENTITY summary.dialog.decline.tooltiptext     "Daveti reddet">
 <!ENTITY summary.dialog.dontsend.label          "Yanıt gönderme">
+<!ENTITY summary.dialog.dontsend.tooltiptext    "Düzenleyene yanıt göndermeden katılım durumunuzu değiştirin ve pencereyi kapatın">
 <!ENTITY summary.dialog.send.label              "Şimdi yanıt gönder">
-<!ENTITY summary.dialog.send.tooltiptext        "Organizatöre yanıt gönder  ve pencereyi kapat">
+<!ENTITY summary.dialog.send.tooltiptext        "Düzenleyene yanıt gönder  ve pencereyi kapat">

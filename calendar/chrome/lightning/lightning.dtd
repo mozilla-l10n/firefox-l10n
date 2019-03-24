@@ -82,9 +82,11 @@
 <!ENTITY lightning.imipbar.description                                      "Bu ileti bir etkinliğe davetiyedir.">
 
 <!ENTITY lightning.imipbar.btnSend.label                                    "Hemen yanıt gönder">
-<!ENTITY lightning.imipbar.btnSend.tooltiptext                              "Organizatöre yanıt gönder">
-<!ENTITY lightning.imipbar.btnSendSeries.tooltiptext                        "Dizinin tamamı için düzenleyiciye yanıt gönder">
+<!ENTITY lightning.imipbar.btnSend.tooltiptext                              "Düzenleyene yanıt gönder">
+<!ENTITY lightning.imipbar.btnSendSeries.tooltiptext                        "Dizinin tamamı için düzenleyene yanıt gönder">
 <!ENTITY lightning.imipbar.btnDontSend.label                                "Yanıt gönderme">
+<!ENTITY lightning.imipbar.btnDontSend.tooltiptext                          "Düzenleyene yanıt göndermeden katılım durumunuzu değiştirin">
+<!ENTITY lightning.imipbar.btnDontSendSeries.tooltiptext                    "Düzenleyene yanıt göndermeden bu dizi için katılım durumunuzu değiştirin">
 
 <!-- Lightning specific keybindings -->
 <!ENTITY lightning.keys.event.showCalendar.key "C">
