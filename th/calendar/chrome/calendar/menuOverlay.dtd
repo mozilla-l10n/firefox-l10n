@@ -25,7 +25,7 @@
 <!ENTITY calendar.menu.customize.label          "ปรับแต่ง…">
 
 <!ENTITY showUnifinderCmd.label                 "ค้นหาเหตุการณ์">
-<!ENTITY showUnifinderCmd.tooltip               "แสดง/ซ่อนบานหน้าต่างค้นหาเหตุการณ์">
+<!ENTITY showUnifinderCmd.tooltip               "เปิด/ปิดบานหน้าต่างการค้นหาเหตุการณ์">
 
 <!ENTITY calendar.displaytodos.checkbox.label       "แสดงงานในปฏิทิน">
 
