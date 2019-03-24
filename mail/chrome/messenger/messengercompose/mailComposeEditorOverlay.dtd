@@ -5,3 +5,5 @@
 <!ENTITY attachImageSource.label         "แนบภาพนี้ไปยังข้อความ">
 <!ENTITY attachImageSource.accesskey     "น">
 
+<!ENTITY attachLinkSource.label          "แนบซอร์สของลิงก์นี้ไปยังข้อความ">
+<!ENTITY attachLinkSource.accesskey      "น">
