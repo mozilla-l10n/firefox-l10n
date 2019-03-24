@@ -80,7 +80,7 @@
 
 <!ENTITY  event.menu.options.label                            "ตัวเลือก">
 <!ENTITY  event.menu.options.attendees.label                  "เชิญผู้เข้าร่วม…">
-<!ENTITY  event.menu.options.timezone2.label                  "แสดงโซนเวลา">
+<!ENTITY  event.menu.options.timezone2.label                  "แสดงเขตเวลา">
 <!ENTITY  event.menu.options.priority2.label                  "ความสำคัญ">
 <!ENTITY  event.menu.options.priority.notspecified.label      "ไม่ระบุ">
 <!ENTITY  event.menu.options.priority.low.label               "ต่ำ">

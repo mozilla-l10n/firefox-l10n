@@ -1,0 +1,26 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- WARNING! This file contains UTF-8 encoded characters!
+   - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
+   - your editor isn't using UTF-8 encoding and may munge up the document!
+  -->
+
+<!ENTITY pref.mainbox.label "การตั้งค่าทั่วไป" >
+<!ENTITY pref.dateformat.label "รูปแบบข้อความวันที่:" >
+<!ENTITY pref.dateformat.long "แบบยาว" >
+<!ENTITY pref.dateformat.short "แบบสั้น"  >
+
+<!ENTITY pref.timezones.caption "เขตเวลา">
+
+
+
+
+<!-- LOCALIZATION NOTE (pref.soondays2.label):
+     "Upcoming" is the name of a section and the translation must match the
+     translation of that section name (calendar.upcoming.button.label). Also,
+     it should be upper case (as a proper name) if the target language permits.
+  -->
+
+
