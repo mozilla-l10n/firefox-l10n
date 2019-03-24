@@ -46,9 +46,26 @@ about-debugging-sidebar-item-connected-label = Prisijungta
 # Firefox) has not been detected yet. Typically, Android phones connected via USB with
 # USB debugging enabled, but where Firefox is not started.
 about-debugging-sidebar-runtime-item-waiting-for-runtime = Laukiama vykdymo…
+# Title for runtime sidebar items that are related to a specific device (USB, WiFi).
+about-debugging-sidebar-runtime-item-name =
+    .title = { $displayName } ({ $deviceName })
+# Title for runtime sidebar items where we cannot get device information (network
+# locations).
+about-debugging-sidebar-runtime-item-name-no-device =
+    .title = { $displayName }
+# Text displayed in a sidebar button to refresh the list of USB devices. Clicking on it
+# will attempt to update the list of devices displayed in the sidebar.
+about-debugging-refresh-usb-devices-button = Atnaujinti įrenginius
 
 # Setup Page strings
 
+# Title of the Setup page.
+about-debugging-setup-title = Sąranka
+# Introduction text in the Setup page to explain how to configure remote debugging.
+about-debugging-setup-intro = Konfigūruokite prisijungimo būdą, kuriuo norite derinti savo įrenginį per nuotolį.
+# Link displayed in the Setup page that leads to MDN page with list of supported devices.
+# Temporarily leads to https://support.mozilla.org/en-US/kb/will-firefox-work-my-mobile-device#w_android-devices
+about-debugging-setup-link-android-devices = Peržiūrėti palaikomų „Android“ įrenginių sąrašą
 
 # Runtime Page strings
 
