@@ -17,7 +17,9 @@
 <!ENTITY calendar.upcoming.button.label       "กำลังจะมาถึง">
 
 <!ENTITY calendar.events.filter.all.label "เหตุการณ์ทั้งหมด">
+<!ENTITY calendar.events.filter.today.label "เหตุการณ์วันนี้">
 <!ENTITY calendar.events.filter.future.label "เหตุการณ์ในอนาคตทั้งหมด">
+<!ENTITY calendar.events.filter.current.label "วันที่เลือกปัจจุบัน">
 <!ENTITY calendar.events.filter.currentview.label "เหตุการณ์ในมุมมองปัจจุบัน">
 <!ENTITY calendar.events.filter.next7Days.label "เหตุการณ์ใน 7 วันถัดไป">
 <!ENTITY calendar.events.filter.next14Days.label "เหตุการณ์ใน 14 วันถัดไป">
@@ -33,6 +35,8 @@
 <!ENTITY calendar.unifinder.tree.priority.tooltip2         "เรียงตามความสำคัญ">
 <!ENTITY calendar.unifinder.tree.title.label               "ชื่อเรื่อง">
 <!ENTITY calendar.unifinder.tree.title.tooltip2            "เรียงตามชื่อเรื่อง">
+<!ENTITY calendar.unifinder.tree.percentcomplete.label     "เสร็จสมบูรณ์ &#37;">
+<!ENTITY calendar.unifinder.tree.percentcomplete.tooltip2  "เรียงตามเสร็จสมบูรณ์ &#37;">
 <!ENTITY calendar.unifinder.tree.startdate.label           "เริ่ม">
 <!ENTITY calendar.unifinder.tree.startdate.tooltip2        "เรียงตามวันที่เริ่ม">
 <!ENTITY calendar.unifinder.tree.enddate.label             "สิ้นสุด">
@@ -53,8 +57,13 @@
 <!ENTITY calendar.unifinder.tree.duration.tooltip2         "เรียงตามเวลาจนกระทั่งครบกำหนด">
 <!ENTITY calendar.unifinder.close.tooltip                  "ปิดการค้นหาเหตุการณ์และรายการเหตุการณ์">
 
+<!ENTITY calendar.today.button.tooltip          "ไปยังวันนี้" >
 <!ENTITY calendar.todaypane.button.tooltip      "แสดงบานหน้าต่างวันนี้" >
 
+<!ENTITY calendar.day.button.tooltip            "สลับเป็นมุมมองวัน" >
+<!ENTITY calendar.week.button.tooltip           "สลับเป็นมุมมองสัปดาห์" >
+<!ENTITY calendar.month.button.tooltip          "สลับเป็นมุมมองเดือน" >
+<!ENTITY calendar.multiweek.button.tooltip      "สลับเป็นมุมมองหลายสัปดาห์" >
 
 <!ENTITY calendar.nextday.label                 "วันถัดไป" >
 <!ENTITY calendar.prevday.label                 "วันก่อนหน้า" >

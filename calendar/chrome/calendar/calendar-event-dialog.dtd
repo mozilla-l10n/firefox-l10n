@@ -10,13 +10,24 @@
 
 <!ENTITY newevent.status.label                    "สถานะ" >
 <!ENTITY newevent.status.accesskey                "ส" >
+<!ENTITY newevent.eventStatus.none.label          "ไม่ระบุ" >
+<!ENTITY newevent.todoStatus.none.label           "ไม่ระบุ" >
+<!ENTITY newevent.eventStatus.cancelled.label     "ถูกยกเลิก" >
+<!ENTITY newevent.todoStatus.cancelled.label      "ถูกยกเลิก" >
+<!ENTITY newevent.status.tentative.label          "ไม่แน่นอน" >
+<!ENTITY newevent.status.confirmed.label          "ยืนยันแล้ว" >
+<!ENTITY newevent.status.needsaction.label        "ต้องการการกระทำ" >
+<!ENTITY newevent.status.inprogress.label         "กำลังดำเนินอยู่" >
+<!ENTITY newevent.status.completed.label          "เสร็จสมบูรณ์เมื่อ" >
 
 <!-- The following entity is for New Task dialog only -->
+<!ENTITY newtodo.percentcomplete.label      "เสร็จสมบูรณ์ &#37;">
 
 <!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label,
      event.attendees.disallowcounter.label)
    - These three labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
+<!ENTITY event.attendees.notify.label                "แจ้งเตือนผู้เข้าร่วม">
 
 <!-- Keyboard Shortcuts -->
 
@@ -47,21 +58,59 @@
     - menu item when editing events/tasks in a dialog window.
     - event.menu.item.saveandclose.tab.accesskey is used for "Save and Close"
     - when editing events/tasks in a tab. -->
+<!ENTITY  event.menu.item.saveandclose.label              "บันทึกแล้วปิด">
 
+<!ENTITY  event.menu.item.delete.label                    "ลบ…">
+<!ENTITY  event.menu.item.page.setup.label                "ตั้งค่าหน้ากระดาษ">
+<!ENTITY  event.menu.item.print.label                     "พิมพ์">
 
+<!ENTITY  event.menu.edit.label                           "แก้ไข">
+<!ENTITY  event.menu.edit.undo.label                      "เลิกทำ">
+<!ENTITY  event.menu.edit.redo.label                      "ทำซ้ำ">
+<!ENTITY  event.menu.edit.cut.label                       "ตัด">
+<!ENTITY  event.menu.edit.copy.label                      "คัดลอก">
+<!ENTITY  event.menu.edit.paste.label                     "วาง">
+<!ENTITY  event.menu.edit.select.all.label                "เลือกทั้งหมด">
 
+<!ENTITY  event.menu.view.label                           "มุมมอง">
+<!ENTITY  event.menu.view.toolbars.label                  "แถบเครื่องมือ">
+<!ENTITY  event.menu.view.toolbars.event.label            "แถบเครื่องมือเหตุการณ์">
+<!ENTITY  event.menu.view.toolbars.customize.label        "ปรับแต่ง…">
+<!ENTITY  event.menu.view.showlink.label                  "แสดงลิงก์ที่เกี่ยวข้อง">
 
+<!ENTITY  event.menu.options.label                            "ตัวเลือก">
+<!ENTITY  event.menu.options.attendees.label                  "เชิญผู้เข้าร่วม…">
+<!ENTITY  event.menu.options.timezone2.label                  "แสดงโซนเวลา">
+<!ENTITY  event.menu.options.priority2.label                  "ความสำคัญ">
+<!ENTITY  event.menu.options.priority.notspecified.label      "ไม่ระบุ">
+<!ENTITY  event.menu.options.priority.low.label               "ต่ำ">
+<!ENTITY  event.menu.options.priority.normal.label            "ปกติ">
+<!ENTITY  event.menu.options.priority.high.label              "สูง">
+<!ENTITY  event.menu.options.privacy.label                    "ความเป็นส่วนตัว">
+<!ENTITY  event.menu.options.privacy.public.label             "เหตุการณ์สาธารณะ">
+<!ENTITY  event.menu.options.privacy.confidential.label       "แสดงเวลาและวันที่เท่านั้น">
+<!ENTITY  event.menu.options.privacy.private.label            "เหตุการณ์ส่วนตัว">
+<!ENTITY  event.menu.options.show.time.label                  "แสดงเวลาเป็น">
+<!ENTITY  event.menu.options.show.time.busy.label             "ไม่ว่าง">
+<!ENTITY  event.menu.options.show.time.free.label             "ว่าง">
 
+<!ENTITY event.invite.attendees.label                     "เชิญผู้เข้าร่วม…">
+<!ENTITY event.email.attendees.label                      "เขียนอีเมลถึงผู้เข้าร่วมทั้งหมด…">
+<!ENTITY event.email.tentative.attendees.label            "เขียนอีเมลถึงผู้เข้าร่วมที่ไม่ได้ตัดสินใจ…">
+<!ENTITY event.remove.attendees.label2                    "เอาผู้เข้าร่วมทั้งหมดออก">
+<!ENTITY event.remove.attendee.label                      "เอาผู้เข้าร่วมออก">
 
 <!-- Toolbar -->
 <!ENTITY  event.toolbar.save.label2                       "บันทึก">
 <!ENTITY  event.toolbar.saveandclose.label                "บันทึกแล้วปิด">
 <!ENTITY  event.toolbar.delete.label                      "ลบ">
+<!ENTITY  event.toolbar.attendees.label                   "เชิญผู้เข้าร่วม">
 <!ENTITY  event.toolbar.privacy.label                     "ความเป็นส่วนตัว">
 
 <!ENTITY  event.toolbar.save.tooltip2                     "บันทึก">
 <!ENTITY  event.toolbar.saveandclose.tooltip              "บันทึกแล้วปิด">
 <!ENTITY  event.toolbar.delete.tooltip                    "ลบ">
+<!ENTITY  event.toolbar.attendees.tooltip                 "เชิญผู้เข้าร่วม">
 <!ENTITY  event.toolbar.attachments.tooltip               "เพิ่มไฟล์แนบ">
 <!ENTITY  event.toolbar.privacy.tooltip                   "เปลี่ยนความเป็นส่วนตัว">
 <!ENTITY  event.toolbar.priority.tooltip                  "เปลี่ยนความสำคัญ">

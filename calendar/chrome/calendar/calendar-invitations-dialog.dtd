@@ -4,6 +4,9 @@
 -->
 
 <!-- Calendar Invitations Dialog -->
+<!ENTITY calendar.invitations.dialog.invitations.text                   "คำเชิญ">
+<!ENTITY calendar.invitations.dialog.statusmessage.updating.text        "กำลังอัปเดตรายการคำเชิญ">
+<!ENTITY calendar.invitations.dialog.statusmessage.noinvitations.text   "ไม่พบคำเชิญที่ไม่ได้ยืนยัน">
 
 <!-- Calendar Invitations List -->
 <!ENTITY calendar.invitations.list.accept.button.label                  "ยอมรับ">
@@ -11,3 +14,4 @@
 <!ENTITY calendar.invitations.list.location.text                        "ตำแหน่งที่ตั้ง: ">
 <!ENTITY calendar.invitations.list.organizer.text                       "ผู้จัด: ">
 <!ENTITY calendar.invitations.list.attendee.text                        "ผู้เข้าร่วม: ">
+<!ENTITY calendar.invitations.list.none.text                            "ไม่มี">
