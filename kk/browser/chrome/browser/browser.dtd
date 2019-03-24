@@ -108,7 +108,6 @@ These items have the same accesskey but will never be visible at the same time. 
 <!ENTITY  hiddenTabs.label                   "Жасырын беттер">
 
 <!ENTITY  listAllTabs.label      "Барлық беттерді тізіп шығу">
-
 <!-- LOCALIZATION NOTE (allTabsMenu.searchTabs.label): "Search" is a verb, as
 in "Search through tabs". -->
 <!ENTITY  allTabsMenu.searchTabs.label       "Беттерден іздеу">
@@ -215,6 +214,28 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenAutohide.accesskey "С">
 <!ENTITY fullScreenExit.label "Толық экран режимінен шығу">
 <!ENTITY fullScreenExit.accesskey "Т">
+
+ <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
+     for the Firefox Account toolbar signin menu screen. -->
+<!ENTITY fxa.signin.callout.label "Firefox-ты өзіңізбен бірге алыңыз">
+<!ENTITY fxa.signin.description.label "Бетбелгілер, тарих, парольдер және т.б. баптауларды құрылғыларыңыздың барлығында алыңыз.">
+<!ENTITY fxa.signin.button.label "&syncBrand.shortName.label; іске қосу…">
+
+<!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
+     for the Firefox Account toolbar unverified menu screen. -->
+<!ENTITY fxa.unverified.callout.label "Эл. поштаңызды тексеріңіз">
+<!ENTITY fxa.unverified.description.label "Синхрондауды бастамас бұрын тіркелгіңізді растау керек.">
+<!ENTITY fxa.unverified.button.label "&syncBrand.shortName.label; баптауларын ашу…">
+
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbart menu screen. The `Signed in as` text is
+     followed by the user's email. -->
+<!ENTITY fxa.menu.signedInAs.label "Кім ретінде кірген:">
+<!ENTITY fxa.menu.manageAccount.label "Тіркелгіні басқару…">
+<!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label; баптаулары…">
+<!ENTITY fxa.menu.connectAnotherDevice.label "&syncedTabs.sidebar.connectAnotherDevice;">
+<!ENTITY fxa.menu.connectAnotherDevice2.label "Басқа құрылғыны байланыстыру…">
+<!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -410,6 +431,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmd2.accesskey     "ц">
 <!ENTITY preferencesCmdUnix.label       "Параметрлер">
 <!ENTITY preferencesCmdUnix.accesskey     "м">
+
+<!ENTITY logins.label                           "Логиндер және парольдер">
 
 <!ENTITY clearRecentHistory.label               "Жуырдағы тарихты өшіру…">
 
@@ -882,7 +905,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "Бұл сайтқа арнайы рұқсаттарды берген жоқсыз.">
 <!ENTITY identity.permissionsReloadHint "Өзгерістер іске асуы үшін бұл парақты қайта жүктеуіңіз керек болуы мүмкін.">
 <!ENTITY identity.permissionsPreferences.tooltip "Рұқсаттар баптауларын ашу">
-
 <!ENTITY identity.contentBlockingPreferences.tooltip "Құраманы бұғаттау баптауларын ашу">
 
 
@@ -934,6 +956,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncSignIn.label             "&syncBrand.shortName.label; ішіне кіру…">
 <!ENTITY syncSignIn.accesskey         "у">
 <!ENTITY syncSyncNowItem.label        "Қазір синхрондау">
+<!ENTITY syncSyncNowItemSyncing.label "Синхрондау…">
 <!ENTITY syncSyncNowItem.accesskey    "с">
 <!ENTITY syncReAuthItem.label         "&syncBrand.shortName.label; үшін қайта байланысу…">
 <!ENTITY syncReAuthItem.accesskey     "R">
@@ -1136,8 +1159,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Қосымшаларыңызды <image class='addon-toolbar-icon'/> мәзірінен <image class='addon-addon-icon'/> шерту арқылы басқарыңыз.">
-<!ENTITY addonPostInstall.incognito.label "Бұл кеңейтуге жекелік шолу терезелерінде орындалуға рұқсат ету.">
-<!ENTITY addonPostInstall.incognito.accesskey "а">
+<!ENTITY addonPostInstall.incognito.checkbox.label "Бұл кеңейтуге жекелік шолу терезелерінде орындалуға рұқсат ету">
+<!ENTITY addonPostInstall.incognito.checkbox.accesskey "а">
 
 <!ENTITY addonPrivateBrowsing.header2.label "Жекелік шолу режиміндегі кеңейтулерге өзгеріс">
 <!ENTITY addonPrivateBrowsing.body2.label "&brandShorterName; ішіне қосылған әрбір жаңа кеңейту жекелік шолу терезелерінде жасамайды, сіз оған рұқсат беруіңіз керек.">
