@@ -17,9 +17,18 @@ about-debugging-sidebar-item-connect-button = Qqen
 # Temporary text displayed in sidebar items representing remote runtimes after
 # successfully connecting to them. Temporary UI, do not localize.
 about-debugging-sidebar-item-connected-label = Iqqen
+# Title for runtime sidebar items that are related to a specific device (USB, WiFi).
+about-debugging-sidebar-runtime-item-name =
+    .title = { $displayName }{ $deviceName }
+# Title for runtime sidebar items where we cannot get device information (network
+# locations).
+about-debugging-sidebar-runtime-item-name-no-device =
+    .title = { $displayName }
 
 # Setup Page strings
 
+# Title of the heading Connect section of the Setup page.
+about-debugging-setup-connect-heading = Qen ibenk
 # USB section of the Setup page
 about-debugging-setup-usb-title = USB
 # Text of the button displayed in the USB section of the setup page while USB debugging

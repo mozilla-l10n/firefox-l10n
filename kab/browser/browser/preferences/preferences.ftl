@@ -678,6 +678,9 @@ content-blocking-all-third-party-cookies = Akk inagan n tuqqna n wis kraḍ
 content-blocking-warning-title = Aqeṛṛu d afella!
 content-blocking-warning-desc = Asewḥel n inagan n tuqqna akked ineḍfaren yezmer ad iseḥbes kra n yesmal web. Yeshel ad tekkseḍ asewḥel i yesmal tettamneḍ.
 content-blocking-learn-how = Issin amek
+content-blocking-reload-tabs-button =
+    .label = Smiren akk accaren
+    .accesskey = S
 content-blocking-trackers-label =
     .label = Ineḍfaren
     .accesskey = I
@@ -690,6 +693,13 @@ content-blocking-option-private =
 content-blocking-tracking-protection-change-block-list = Snifel tabdart n usewḥel
 content-blocking-cookies-label =
     .label = Inagan n tuqqna
+    .accesskey = I
+content-blocking-expand-section =
+    .tooltiptext = Ugar n telɣut
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+content-blocking-fingerprinters-label =
+    .label = Idsilen umḍinen
     .accesskey = I
 
 ## Privacy Section - Tracking
@@ -721,23 +731,12 @@ permissions-notification-link = Issin ugar
 permissions-notification-pause =
     .label = Saḥbes ilγa arma yekker { -brand-short-name }
     .accesskey = n
-permissions-block-autoplay-media =
-    .label = Sewḥel ismal web si tɣuri tawurmant n yiferdisen imeslawen
-    .accesskey = S
-permissions-block-autoplay-media-menu = I yismal yetturaren imesliyen s wudem awurman
 permissions-block-autoplay-media2 =
     .label = Sewḥel taɣuri tawurmant n yimesli  n yesmal web
     .accesskey = S
 permissions-block-autoplay-media-exceptions =
     .label = Tisuraf…
     .accesskey = r
-autoplay-option-ask =
-    .label = Steqsay yal tikkelt
-autoplay-option-allow =
-    .label = Sreg taɣuri tawurmant
-autoplay-option-dont =
-    .label = Ur tturar ara s wudem awurman
-permissions-autoplay-link = Issin ugar
 permissions-block-popups =
     .label = Sewḥel isfuyla udhimen
     .accesskey = S
@@ -773,10 +772,6 @@ addon-recommendations-link = Issin ugar
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Aneqqis n isefka ur irmid ara i uswel-a n usefsu
-collection-browser-errors =
-    .label = Sireg i { -brand-short-name } ad yazen aneqis n tucṣiwin n tunigin( igber iznan  n tusḍa) γer { -vendor-short-name }
-    .accesskey = b
-collection-browser-errors-link = Issin ugar
 collection-backlogged-crash-reports =
     .label = Sireg { -brand-short-name } akken ad yazen ineqqisen n uɣelluy deg ugilal
     .accesskey = c

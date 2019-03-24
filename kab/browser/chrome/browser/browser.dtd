@@ -1153,6 +1153,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Sefrek izegrar inek s usebbed γef <image class='addon-addon-icon'/> deg umuγ <image class='addon-toolbar-icon'/>.">
 
+<!ENTITY addonPrivateBrowsing.header2.label "Asnifel i yisiɣzaf def isfuyla usligen">
+<!ENTITY addonPrivateBrowsing.learnMore.label "Issin amek ara tesferkeḍ iɣewwaṛen n yisiɣzaf">
 <!ENTITY addonPrivateBrowsing.okButton.label "Ih, awi-t-id">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "O">
 <!ENTITY addonPrivateBrowsing.manageButton.label "Sefrek isiɣzaf">
