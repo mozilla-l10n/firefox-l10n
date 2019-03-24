@@ -20,7 +20,7 @@
 <!ENTITY acceptCookies.accesskey "A">
 <!ENTITY acceptThirdParty.pre.label "接受第三方 Cookie：">
 <!ENTITY acceptThirdParty.pre.accesskey "C">
-<!ENTITY acceptThirdParty.always.label "总是">
+<!ENTITY acceptThirdParty.always.label "一律">
 <!ENTITY acceptThirdParty.never.label "总不">
 <!ENTITY acceptThirdParty.visited.label "仅访问过的域">
 <!ENTITY keepUntil.label "保存直至：">
