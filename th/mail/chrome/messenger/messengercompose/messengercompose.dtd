@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
+<!ENTITY msgComposeWindow.title "เขียน: (ไม่มีหัวเรื่อง)">
 
 <!-- File Menu -->
 <!ENTITY fileMenu.label "ไฟล์">
@@ -26,6 +27,7 @@
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "บัตรส่วนบุคคล (vCard)">
 <!ENTITY attachVCardCmd.accesskey "บ">
+<!ENTITY remindLater.label "เตือนฉันภายหลัง">
 <!ENTITY closeCmd.label "ปิด">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "ป">
@@ -40,10 +42,29 @@
 <!ENTITY saveAsDraftCmd.accesskey "บ">
 <!ENTITY saveAsTemplateCmd.label "แม่แบบ">
 <!ENTITY saveAsTemplateCmd.accesskey "ม">
+<!ENTITY sendNowCmd.label "ส่งเดี๋ยวนี้">
 <!ENTITY sendCmd.keycode "VK_RETURN">
+<!ENTITY sendLaterCmd.label "ส่งภายหลัง">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
+<!ENTITY printSetupCmd.label "ตั้งค่าหน้ากระดาษ…">
+<!ENTITY printPreviewCmd.label "ตัวอย่างก่อนพิมพ์">
+<!ENTITY printCmd.label "พิมพ์…">
 
 <!-- Edit Menu -->
+<!ENTITY editMenu.label "แก้ไข">
+<!ENTITY undoCmd.label "เลิกทำ">
+<!ENTITY redoCmd.label "ทำซ้ำ">
+<!ENTITY cutCmd.label "ตัด">
+<!ENTITY cutCmd.key "X">
+<!ENTITY copyCmd.label "คัดลอก">
+<!ENTITY copyCmd.key "C">
+<!ENTITY pasteCmd.label "วาง">
+<!ENTITY pasteCmd.key "V">
+<!ENTITY deleteCmd.label "ลบ">
+<!ENTITY editRewrapCmd.label "ตัดบรรทัดใหม่">
+<!ENTITY renameAttachmentCmd.label "เปลี่ยนชื่อไฟล์แนบ…">
+<!ENTITY reorderAttachmentsCmd.label "จัดลำดับไฟล์แนบใหม่…">
+<!ENTITY toggleAttachmentPaneCmd.label "บานหน้าต่างไฟล์แนบ">
 <!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.accesskey):
      For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
      as attachments.accesskey. -->
@@ -51,8 +72,20 @@
      As Mac does not have access keys, this key defines a Mac-only, cross-l10n
      shortcut key (Ctrl+M). Typically, this key should not be translated unless
      otherwise required by specific needs of the localization. -->
+<!ENTITY selectAllCmd.label "เลือกทั้งหมด">
+<!ENTITY findBarCmd.label "ค้นหา…">
+<!ENTITY findReplaceCmd.label "ค้นหาแล้วแทนที่…">
+<!ENTITY findAgainCmd.label "ค้นหาอีกครั้ง">
+<!ENTITY findAgainCmd.key2 "VK_F3">
+<!ENTITY findPrevCmd.label "ค้นหาก่อนหน้า">
 
 <!-- Reorder Attachment Panel -->
+<!ENTITY reorderAttachmentsPanel.label "จัดลำดับไฟล์แนบใหม่">
+<!ENTITY moveAttachmentTopPanelBtn.label "ย้ายไปด้านบนสุด">
+<!ENTITY moveAttachmentUpPanelBtn.label "ย้ายขึ้น">
+<!ENTITY moveAttachmentBundleUpPanelBtn.label "ย้ายพร้อมกัน">
+<!ENTITY moveAttachmentDownPanelBtn.label "ย้ายลง">
+<!ENTITY moveAttachmentBottomPanelBtn.label "ย้ายไปด้านล่างสุด">
 
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
      Please ensure that this translation matches
