@@ -9,8 +9,8 @@
 
 <!ENTITY pref.mainbox.label "การตั้งค่าทั่วไป" >
 <!ENTITY pref.dateformat.label "รูปแบบข้อความวันที่:" >
-<!ENTITY pref.dateformat.long "แบบยาว" >
-<!ENTITY pref.dateformat.short "แบบสั้น"  >
+<!ENTITY pref.dateformat.long "ยาว" >
+<!ENTITY pref.dateformat.short "สั้น"  >
 
 <!ENTITY pref.timezones.caption "เขตเวลา">
 
