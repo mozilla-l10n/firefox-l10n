@@ -42,6 +42,10 @@ about-debugging-sidebar-item-connect-button = Bağlan
 # Temporary text displayed in sidebar items representing remote runtimes after
 # successfully connecting to them. Temporary UI, do not localize.
 about-debugging-sidebar-item-connected-label = Bağlı
+# Text displayed in sidebar items for remote devices where a compatible runtime (eg
+# Firefox) has not been detected yet. Typically, Android phones connected via USB with
+# USB debugging enabled, but where Firefox is not started.
+about-debugging-sidebar-runtime-item-waiting-for-runtime = Çalışma zamanı bekleniyor…
 # Title for runtime sidebar items that are related to a specific device (USB, WiFi).
 about-debugging-sidebar-runtime-item-name =
     .title = { $displayName } ({ $deviceName })
@@ -49,11 +53,28 @@ about-debugging-sidebar-runtime-item-name =
 # locations).
 about-debugging-sidebar-runtime-item-name-no-device =
     .title = { $displayName }
+# Text displayed in a sidebar button to refresh the list of USB devices. Clicking on it
+# will attempt to update the list of devices displayed in the sidebar.
+about-debugging-refresh-usb-devices-button = Cihazları yenile
 
 # Setup Page strings
 
+# Title of the Setup page.
+about-debugging-setup-title = Kurulum
+# Introduction text in the Setup page to explain how to configure remote debugging.
+about-debugging-setup-intro = Cihazınızla uzaktan hata ayıklamak istediğiniz bağlantı yöntemini ayarlayın.
+# Link displayed in the Setup page that leads to MDN page with list of supported devices.
+# Temporarily leads to https://support.mozilla.org/en-US/kb/will-firefox-work-my-mobile-device#w_android-devices
+about-debugging-setup-link-android-devices = Desteklenen Android cihazların listesini göster
 # USB section of the Setup page
 about-debugging-setup-usb-title = USB
+# Text of the button displayed in the USB section of the setup page while USB debugging
+# components are downloaded and installed.
+about-debugging-setup-usb-updating-button = Güncelleniyor…
+about-debugging-setup-usb-status-updating = Güncelleniyor…
+# Network section of the Setup page
+about-debugging-setup-network =
+    .title = Ağ konumu
 # Text of a button displayed after the network locations "Host" input.
 # Clicking on it will add the new network location to the list.
 about-debugging-network-locations-add-button = Ekle
@@ -62,9 +83,33 @@ about-debugging-network-locations-empty-text = Henüz hiçbir ağ konumu eklenme
 
 # Runtime Page strings
 
+# Title of the extensions category.
+about-debugging-runtime-extensions =
+    .name = Eklentiler
 # Title of the tabs category.
 about-debugging-runtime-tabs =
     .name = Sekmeler
+# Title of the processes category.
+about-debugging-runtime-processes =
+    .name = İşlemler
+# Label of the button opening the performance profiler panel in runtime pages for remote
+# runtimes.
+about-debugging-runtime-profile-button = Profil çalışma zamanı
+# Displayed for runtime info in runtime pages.
+# { $name } is brand name such as "Firefox Nightly"
+# { $version } is version such as "64.0a1"
+about-debugging-runtime-name = { $name } ({ $version })
+# Text of a button displayed in Runtime pages for remote runtimes.
+# Clicking on the button will close the connection to the runtime.
+about-debugging-runtime-disconnect-button = Bağlantıyı kes
 
 # Debug Targets strings
 
+# Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
+# Clicking on the button will reload the extension.
+about-debugging-tmp-extension-reload-button = Tazele
+# Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
+# Clicking on the button will uninstall the extension and remove it from the page.
+about-debugging-tmp-extension-remove-button = Kaldır
+# This string is displayed as a label of the button that starts a service worker.
+about-debugging-worker-action-start = Başlat
