@@ -21,10 +21,44 @@
      window.
      -->
 <!ENTITY moveToNewWindow.label "ย้ายไปยังหน้าต่างใหม่">
+<!ENTITY newVirtualFolderCmd.label "การค้นหาที่บันทึกไว้…">
+<!ENTITY newOtherAccountsCmd.label "บัญชีอื่น ๆ…">
+<!ENTITY newCreateEmailAccountCmd.label "รับบัญชีจดหมายใหม่…">
+<!ENTITY newExistingEmailAccountCmd.label "บัญชีจดหมายที่มีอยู่…">
+<!ENTITY newIMAccountCmd.label "บัญชีแชท…">
+<!ENTITY newFeedAccountCmd.label "บัญชีฟีด…">
+<!ENTITY newIMContactCmd.label "ผู้ติดต่อแชท…">
 <!ENTITY  newMessageCmd.label "ข้อความ">
 <!ENTITY  newContactCmd.label "ผู้ติดต่อของสมุดรายชื่อ…">
+<!ENTITY openMessageFileCmd.label "เปิดข้อความที่บันทึกไว้…">
+<!ENTITY saveAsMenu.label "บันทึกเป็น">
+<!ENTITY saveAsFileCmd.label "ไฟล์">
+<!ENTITY saveAsTemplateCmd.label "แม่แบบ">
+<!ENTITY getNewMsgForCmd.label "รับข้อความใหม่สำหรับ">
+<!ENTITY getAllNewMsgCmdPopupMenu.label "บัญชีทั้งหมด">
+<!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "บัญชีปัจจุบัน">
+<!ENTITY getNextNMsgCmd2.label "รับข้อความข่าวถัดไป">
+<!ENTITY sendUnsentCmd.label "ส่งข้อความที่ไม่ได้ส่ง">
+<!ENTITY subscribeCmd.label "บอกรับ…">
+<!ENTITY deleteFolder.label "ลบโฟลเดอร์">
+<!ENTITY renameFolder.label "เปลี่ยนชื่อโฟลเดอร์…">
+<!ENTITY renameFolder.key "VK_F2">
+<!ENTITY compactFolders.label "กระชับโฟลเดอร์">
+<!ENTITY emptyTrashCmd.label "ล้างข้อมูลในถังขยะ">
+<!ENTITY offlineMenu.label "ออฟไลน์">
+<!ENTITY offlineGoOfflineCmd.label "ทำงานออฟไลน์">
+<!ENTITY synchronizeOfflineCmd.label "ดาวน์โหลด/ซิงค์เดี๋ยวนี้…">
+<!ENTITY settingsOfflineCmd2.label "การตั้งค่าออฟไลน์">
+<!ENTITY downloadSelectedCmd.label "รับข้อความที่เลือก">
+<!ENTITY downloadStarredCmd.label "รับข้อความที่ติดดาว">
+<!ENTITY printCmd.label "พิมพ์…">
+<!ENTITY printPreviewCmd.label "ตัวอย่างก่อนพิมพ์">
+<!ENTITY printSetupCmd.label "ตั้งค่าหน้ากระดาษ…">
 
 <!-- Edit Menu -->
+<!ENTITY deleteMsgCmd.label "ลบข้อความ">
+<!ENTITY undeleteMsgCmd.label "เลิกลบข้อความ">
+<!ENTITY deleteMsgsCmd.label "ลบข้อความที่เลือก">
 
 <!-- View Menu -->
 
