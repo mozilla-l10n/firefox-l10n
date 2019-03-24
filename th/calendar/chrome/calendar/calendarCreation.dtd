@@ -6,9 +6,12 @@
 <!ENTITY wizard.label             "สร้างปฏิทินใหม่" >
 <!ENTITY wizard.description       "ระบุตำแหน่งปฏิทินของคุณ" >
 
+<!ENTITY initialpage.description    "สามารถเก็บปฏิทินของคุณไว้ในคอมพิวเตอร์ของคุณหรือในเซิร์ฟเวอร์เพื่อให้สามารถเข้าถึงได้จากระยะไกลหรือแบ่งปันกับเพื่อนร่วมงานของคุณได้" >
 <!ENTITY initialpage.computer.label  "ในคอมพิวเตอร์ของฉัน">
 <!ENTITY initialpage.network.label  "ในเครือข่าย">
 
+<!ENTITY locationpage.description         "ระบุข้อมูลเกี่ยวกับสิ่งที่จำเป็นในการเข้าถึงปฏิทินระยะไกลของคุณ" >
+<!ENTITY locationpage.login.description   "เพิ่มเติม: ป้อนชื่อผู้ใช้และรหัสผ่าน" >
 <!ENTITY locationpage.username.label      "ชื่อผู้ใช้:" >
 <!ENTITY locationpage.password.label      "รหัสผ่าน:" >
 
@@ -20,6 +23,7 @@
 <!-- Below are new strings for the revised new calendar dialog. The above strings should be
     removed/renamed later on -->
 
+<!ENTITY sourcetabs.other.label  "อื่น ๆ">
 
 <!ENTITY buttons.create.label "สร้างปฏิทิน">
 <!ENTITY buttons.create.accesskey "ส">
