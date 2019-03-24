@@ -11,6 +11,9 @@
 
 # Sidebar strings
 
+# Sidebar heading for selecting the currently running instance of Firefox
+about-debugging-sidebar-this-firefox =
+    .name = { about-debugging-this-firefox-runtime-name }
 # Text displayed in the about:debugging sidebar when USB devices discovery is enabled.
 about-debugging-sidebar-usb-enabled = USB habilitado
 # Text displayed in the about:debugging sidebar when USB devices discovery is disabled
@@ -33,9 +36,17 @@ about-debugging-sidebar-runtime-item-name =
 # locations).
 about-debugging-sidebar-runtime-item-name-no-device =
     .title = { $displayName }
+# Text displayed in a sidebar button to refresh the list of USB devices. Clicking on it
+# will attempt to update the list of devices displayed in the sidebar.
+about-debugging-refresh-usb-devices-button = Actualizar dispositivos
 
 # Setup Page strings
 
+# Title of the Setup page.
+about-debugging-setup-title = Configuración
+# Link displayed in the Setup page that leads to MDN page with list of supported devices.
+# Temporarily leads to https://support.mozilla.org/en-US/kb/will-firefox-work-my-mobile-device#w_android-devices
+about-debugging-setup-link-android-devices = Ver lista de dispositivos Android admitidos
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = Conectar un dispositivo
 # USB section of the Setup page
