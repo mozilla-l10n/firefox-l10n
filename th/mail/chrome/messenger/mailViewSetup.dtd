@@ -4,5 +4,7 @@
 
 <!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
 
+<!ENTITY mailViewSetupTitle.label "การตั้งค่ามุมมองข้อความ">
 <!ENTITY mailViewHeading.label "ชื่อมุมมองข้อความ:">
 <!ENTITY mailViewHeading.accesskey "ช">
+<!ENTITY searchTermCaption.label "เมื่อเลือกมุมมองนี้แล้ว ให้แสดงเฉพาะข้อความที่:">

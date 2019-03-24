@@ -8,3 +8,4 @@
 <!ENTITY  newMessageCmd.accesskey         "ข">
 
 <!ENTITY  newContactCmd.label             "ผู้ติดต่อของสมุดรายชื่อ…">
+<!ENTITY  newContactCmd.accesskey         "ผ">
