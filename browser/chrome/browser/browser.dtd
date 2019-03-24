@@ -230,6 +230,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbart menu screen. The `Signed in as` text is
      followed by the user's email. -->
+<!ENTITY fxa.menu.signedInAs.label "Prisijungėte kaip">
+<!ENTITY fxa.menu.manageAccount.label "Tvarkyti paskyrą…">
+<!ENTITY fxa.menu.syncSettings.label "„&syncBrand.shortName.label;“ nuostatos…">
+<!ENTITY fxa.menu.connectAnotherDevice.label "&syncedTabs.sidebar.connectAnotherDevice;">
+<!ENTITY fxa.menu.connectAnotherDevice2.label "Susieti kitą įrenginį…">
+<!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -426,6 +432,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.label       "Nuostatos">
 <!ENTITY preferencesCmdUnix.accesskey     "N">
 
+<!ENTITY logins.label                           "Prisijungimai ir slaptažodžiai">
 
 <!ENTITY clearRecentHistory.label               "Valyti žurnalą…">
 
@@ -949,6 +956,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncSignIn.label             "Jungtis prie „&syncBrand.shortName.label;“…">
 <!ENTITY syncSignIn.accesskey         "Y">
 <!ENTITY syncSyncNowItem.label        "Sinchronizuoti dabar">
+<!ENTITY syncSyncNowItemSyncing.label "Sinchronizuojama…">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "Iš naujo jungtis prie „&syncBrand.shortName.label;“…">
 <!ENTITY syncReAuthItem.accesskey     "n">
@@ -1151,6 +1159,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Tvarkykite savo priedus paspausdami <image class='addon-addon-icon'/>, esantį <image class='addon-toolbar-icon'/> meniu.">
+<!ENTITY addonPostInstall.incognito.checkbox.label "Leisti šiam priedui veikti privačiojo naršymo languose">
+<!ENTITY addonPostInstall.incognito.checkbox.accesskey "L">
 
 <!ENTITY addonPrivateBrowsing.header2.label "Pakeisti į priedus privačioje naršymo languose">
 <!ENTITY addonPrivateBrowsing.body2.label "Visi naujai priedai, kuriuos pridėsite į „&brandShorterName;“, neveiks privačiojo naršymo languose, nebent leisite tai per nuostatas.">
