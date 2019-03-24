@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title "ยินดีต้อนรับสู่ &brandShortName;">
+<!ENTITY header2.label "คุณต้องการที่อยู่อีเมลใหม่หรือไม่?">
 
 <!-- LOCALIZATION NOTE(error.suggest.before, error.suggest.middle, error.suggest.after):
      error.suggest.before, error.suggest.middle, and error.suggest.after all go into
@@ -13,3 +14,6 @@
      success.title.before and success.title.after all go into one line, wrapping
      around the name that the user has typed in to the search input. -->
 <!ENTITY successful.close "ปิดหน้าต่างนี้">
+<!ENTITY input.search "ค้นหา">
+<!ENTITY search_engine.title "ปรับแต่งเครื่องมือค้นหาของคุณ">
+<!ENTITY search_engine.button "เสร็จสิ้น">
