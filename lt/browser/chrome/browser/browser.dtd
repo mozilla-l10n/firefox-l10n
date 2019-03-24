@@ -108,7 +108,6 @@ These items have the same accesskey but will never be visible at the same time. 
 <!ENTITY  hiddenTabs.label                   "Paslėptos kortelės">
 
 <!ENTITY  listAllTabs.label      "Pateikti visas korteles">
-
 <!-- LOCALIZATION NOTE (allTabsMenu.searchTabs.label): "Search" is a verb, as
 in "Search through tabs". -->
 <!ENTITY  allTabsMenu.searchTabs.label       "Ieškoti kortelėse">
@@ -215,6 +214,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenAutohide.accesskey "S">
 <!ENTITY fullScreenExit.label "Grįžti iš viso ekrano veiksenos">
 <!ENTITY fullScreenExit.accesskey "v">
+
+ <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
+     for the Firefox Account toolbar signin menu screen. -->
+<!ENTITY fxa.signin.callout.label "Pasiimkite „Firefox“ su savimi">
+<!ENTITY fxa.signin.description.label "Turėkite savo adresyną, žurnalą, slaptažodžius ir kitas nuostatas visuose savo įrenginiuose.">
+<!ENTITY fxa.signin.button.label "Įjungti „&syncBrand.shortName.label;“…">
+
+<!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
+     for the Firefox Account toolbar unverified menu screen. -->
+
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbart menu screen. The `Signed in as` text is
+     followed by the user's email. -->
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -410,6 +422,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmd2.accesskey     "N">
 <!ENTITY preferencesCmdUnix.label       "Nuostatos">
 <!ENTITY preferencesCmdUnix.accesskey     "N">
+
 
 <!ENTITY clearRecentHistory.label               "Valyti žurnalą…">
 
@@ -882,7 +895,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "Šiai svetainei nesate suteikę jokių ypatingų leidimų.">
 <!ENTITY identity.permissionsReloadHint "Kad būtų pritaikyti pakeitimai, tinklalapį galimai reikia atsiųsti iš naujo.">
 <!ENTITY identity.permissionsPreferences.tooltip "Atverti leidimų nuostatas">
-
 <!ENTITY identity.contentBlockingPreferences.tooltip "Atverti turinio blokavimo nuostatas">
 
 
@@ -1136,8 +1148,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Tvarkykite savo priedus paspausdami <image class='addon-addon-icon'/>, esantį <image class='addon-toolbar-icon'/> meniu.">
-<!ENTITY addonPostInstall.incognito.label "Leisti šiam priedui veikti privačiojo naršymo languose.">
-<!ENTITY addonPostInstall.incognito.accesskey "L">
 
 <!ENTITY addonPrivateBrowsing.header2.label "Pakeisti į priedus privačioje naršymo languose">
 <!ENTITY addonPrivateBrowsing.body2.label "Visi naujai priedai, kuriuos pridėsite į „&brandShorterName;“, neveiks privačiojo naršymo languose, nebent leisite tai per nuostatas.">
