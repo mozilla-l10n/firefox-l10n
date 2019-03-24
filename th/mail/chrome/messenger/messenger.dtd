@@ -118,6 +118,16 @@
 <!ENTITY sortBySubjectCmd.label "หัวเรื่อง">
 <!ENTITY sortByFromCmd.label "จาก">
 <!ENTITY sortByRecipientCmd.label "ผู้รับ">
+<!ENTITY sortByCorrespondentCmd.label "ผู้สื่อสาร">
+<!ENTITY sortByUnreadCmd.label "อ่านแล้ว">
+<!ENTITY sortByOrderReceivedCmd.label "ลำดับที่ได้รับ">
+<!ENTITY sortAscending.label "จากน้อยไปมาก">
+<!ENTITY sortDescending.label "จากมากไปน้อย">
+<!ENTITY sortThreaded.label "มีหัวข้อ">
+<!ENTITY sortUnthreaded.label "ไม่มีหัวข้อ">
+<!ENTITY groupBySort.label "จัดกลุ่มตามการเรียง">
+<!ENTITY msgsMenu.label "ข้อความ">
+<!ENTITY threads.label "หัวข้อ">
 
 
 
