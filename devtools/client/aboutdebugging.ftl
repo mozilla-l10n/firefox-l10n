@@ -12,7 +12,7 @@
 about-debugging-page-title-setup-page = Derinimas – sąranka
 # Page title (ie tab title) for the Runtime page
 # { $selectedRuntimeId } is the id of the current runtime, such as "this-firefox", "localhost:6080", ...
-about-debugging-page-title-runtime-page = Derinimas – vykdymas / { $selectedRuntimeId }
+about-debugging-page-title-runtime-page = Derinimas – įrenginio darinys / { $selectedRuntimeId }
 
 # Sidebar strings
 
@@ -45,7 +45,7 @@ about-debugging-sidebar-item-connected-label = Prisijungta
 # Text displayed in sidebar items for remote devices where a compatible runtime (eg
 # Firefox) has not been detected yet. Typically, Android phones connected via USB with
 # USB debugging enabled, but where Firefox is not started.
-about-debugging-sidebar-runtime-item-waiting-for-runtime = Laukiama vykdymo…
+about-debugging-sidebar-runtime-item-waiting-for-runtime = Laukiama įrenginio darinio…
 # Title for runtime sidebar items that are related to a specific device (USB, WiFi).
 about-debugging-sidebar-runtime-item-name =
     .title = { $displayName } ({ $deviceName })
@@ -69,7 +69,7 @@ about-debugging-setup-link-android-devices = Peržiūrėti palaikomų „Android
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
 about-debugging-setup-this-firefox = Naudokite <a>„{ about-debugging-this-firefox-runtime-name }“</a>, norėdami su šia „{ -brand-shorter-name }“ laida derinti korteles, priedus, aptarnavimo scenarijus.
 # Title of the heading Connect section of the Setup page.
-about-debugging-setup-connect-heading = Susiekite įrenginį
+about-debugging-setup-connect-heading = Prijungti įrenginį
 # USB section of the Setup page
 about-debugging-setup-usb-title = USB
 # Explanatory text displayed in the Setup page when USB debugging is disabled
@@ -137,7 +137,7 @@ about-debugging-runtime-processes =
     .name = Procesai
 # Label of the button opening the performance profiler panel in runtime pages for remote
 # runtimes.
-about-debugging-runtime-profile-button = Profilio vykdymas
+about-debugging-runtime-profile-button = Profilio įrenginio darinys
 # This string is displayed in the runtime page if the current configuration of the
 # target runtime is incompatible with service workers. "Learn more" points to MDN.
 # https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
