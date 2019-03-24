@@ -5,6 +5,12 @@
 
 <!-- Window title -->
 
+<!ENTITY dimensionsBox.label "Dimensiones">
+<!ENTITY heightEditField.label "Altor:">
+<!ENTITY heightEditField.accessKey "A">
+<!ENTITY widthEditField.label "Largessa:">
+<!ENTITY widthEditField.accessKey "L">
+<!ENTITY pixelsPopup.value "pixels">
 <!ENTITY leftRadio.label "Sinistra">
 <!ENTITY leftRadio.accessKey "S">
 <!ENTITY centerRadio.label "Centro">

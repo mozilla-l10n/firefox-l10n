@@ -2,8 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY name.label                      "Tu nomine:">
+<!ENTITY name.accesskey                  "n">
+<!ENTITY email.label                     "Adresse email:">
+<!ENTITY email.accesskey                 "e">
 <!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
-
+<!ENTITY email2.placeholder              "you@example.com">
 <!-- LOCALIZATION NOTE(usernameEx.placeholder): YOURDOMAIN refers to the Windows domain in ActiveDirectory. yourusername refers to the user's account name in Windows. -->
 <!-- LOCALIZATION NOTE(usernameEx.text): Domain refers to the Windows domain in ActiveDirectory. We mean the user's login in Windows at the local corporate network. -->
 

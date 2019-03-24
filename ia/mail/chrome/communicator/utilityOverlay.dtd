@@ -1,0 +1,36 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
+
+
+<!ENTITY editMenu.label          "Rediger">
+<!ENTITY editMenu.accesskey        "R">
+<!ENTITY undoCmd.label            "Disfacer">
+<!ENTITY undoCmd.key            "D">
+<!ENTITY cutCmd.label            "Taliar">
+<!ENTITY cutCmd.key              "X">
+<!ENTITY copyCmd.label            "Copiar">
+<!ENTITY copyCmd.key            "C">
+<!ENTITY pasteCmd.label            "Collar">
+<!ENTITY pasteCmd.key            "V">
+<!ENTITY deleteCmd.label          "Deler">
+<!ENTITY deleteCmd.accesskey        "D">
+<!ENTITY selectAllCmd.label          "Seliger toto">
+<!ENTITY selectAllCmd.key          "A">
+<!ENTITY preferencesCmd2.label "Optiones">
+<!ENTITY preferencesCmd2.accesskey "O">
+
+<!ENTITY viewMenu.label          "Vider">
+<!ENTITY viewMenu.accesskey        "V">
+<!ENTITY showTaskbarCmd.label          "Barra de stato">
+<!ENTITY showTaskbarCmd.accesskey        "o">
+
+<!ENTITY closeCmd.label      "Clauder">
+<!ENTITY closeCmd.key      "W">
+
+<!ENTITY quitApplicationCmd.label  "Exir">
+<!ENTITY quitApplicationCmd.key    "Q">
+
+

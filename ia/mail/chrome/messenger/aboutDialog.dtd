@@ -16,6 +16,7 @@
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly builds, instead of the other "community.*" strings below. -->
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to https://www.mozilla.org/. -->
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
+<!ENTITY community.exp.creditsLink  "communitate mundial">
 
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to https://www.mozilla.org/. -->
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
@@ -61,7 +62,6 @@
      is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
      the "em dash" (long dash).
      example: Downloading update — 111 KB of 13 MB -->
-
 
 
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and

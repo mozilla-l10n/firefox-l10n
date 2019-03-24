@@ -7,3 +7,5 @@
 <!ENTITY default.accessKey "d">
 <!ENTITY standardPalette.label "Standard">
 <!ENTITY table.label "Tabella">
+<!ENTITY cell.label "Cella(s)">
+<!ENTITY cell.accessKey "C">

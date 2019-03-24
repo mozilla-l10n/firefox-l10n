@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
+<!ENTITY Settings.label "Parametros">
 
 <!ENTITY ButtonType.label "Typo">
 <!ENTITY ButtonType.accesskey "T">
@@ -11,10 +12,13 @@
 <!ENTITY button.value "Button">
 
 <!ENTITY ButtonName.label "Nomine:">
+<!ENTITY ButtonName.accesskey "P">
 <!ENTITY ButtonValue.label "Valor:">
 <!ENTITY ButtonValue.accesskey "V">
 <!ENTITY ButtonDisabled.label "Disactivate">
 <!ENTITY ButtonDisabled.accesskey "D">
+<!ENTITY AccessKey.label "Clave de accesso:">
+<!ENTITY AccessKey.accesskey "C">
 
 <!ENTITY RemoveButton.label "Remover le button">
 <!ENTITY RemoveButton.accesskey "R">

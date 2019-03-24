@@ -41,6 +41,7 @@
 <!ENTITY removeImageMapButton.accessKey "R">
 
 <!-- These are the options for image alignment -->
+<!ENTITY bottomPopup.value "Al base">
 <!ENTITY topPopup.value "Al culmine">
 <!ENTITY centerPopup.value "In centro">
 
@@ -51,6 +52,7 @@
 <!-- These controls are in the Link Box -->
 
 <!-- These tabs are currently used in the image input dialog -->
+<!ENTITY imageLocationTab.label "Position">
 <!ENTITY imageDimensionsTab.label "Dimensiones">
 <!ENTITY imageAppearanceTab.label "Apparentia">
 <!ENTITY imageLinkTab.label "">
