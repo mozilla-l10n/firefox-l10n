@@ -147,6 +147,122 @@ about-debugging-runtime-service-workers-not-compatible = Jūsų naršyklės nuos
 # { $runtimeVersion } is the version of the remote runtime (for instance "67.0a1")
 # { $minVersion } is the minimum version that is compatible with the current Firefox instance (same format)
 about-debugging-runtime-version-too-old = Prijungto įrenginio darinio laida ({ $runtimeVersion }) yra senesnė negu minimali palaikoma ({ $minVersion }). Tokia konfigūracija nėra palaikoma ir gali sukelti saityno kūrėjo priemonių sutrikimus. Atnaujinkite susieto įrenginio darinį. <a>Problemų sprendimas</a>
+# Dedicated message for a backward compatibility issue that occurs when connecting:
+# - from Fx 67 to 66 or to 65
+# - from Fx 68 to 66
+# Those are normally in range for DevTools compatibility policy, but specific non
+# backward compatible changes broke the debugger in those scenarios (Bug 1528219).
+# { $runtimeVersion } is the version of the remote runtime (for instance "67.0a1")
+about-debugging-runtime-version-too-old-67-debugger = Derintuvės polangis gali neveikti su prijungto įrenginio dariniu. Naudokite „Firefox“ { $runtimeVersion }, jeigu norite naudoti derintuvę su šiuo įrenginio dariniu.
+# This string is displayed in the runtime page if the remote runtime version is too recent.
+# "Troubleshooting" link points to https://developer.mozilla.org/en-US/docs/Tools/WebIDE/Troubleshooting
+# { $runtimeID } is the build ID of the remote runtime (for instance "20181231", format is yyyyMMdd)
+# { $localID } is the build ID of the current Firefox instance (same format)
+# { $runtimeVersion } is the version of the remote runtime (for instance "67.0a1")
+# { $localVersion } is the version of your current runtime (same format)
+about-debugging-runtime-version-too-recent = Prijungto įrenginio darinio laida yra naujesnė ({ $runtimeVersion }, buildID { $runtimeID }) negu jūsų „{ -brand-shorter-name }“ ({ $localVersion }, buildID { $localID }). Tokia konfigūracija nėra palaikoma ir gali sukelti saityno kūrėjo priemonių sutrikimus. <a>Problemų sprendimas</a>
+# Displayed for runtime info in runtime pages.
+# { $name } is brand name such as "Firefox Nightly"
+# { $version } is version such as "64.0a1"
+about-debugging-runtime-name = „{ $name }“ ({ $version })
+# Text of a button displayed in Runtime pages for remote runtimes.
+# Clicking on the button will close the connection to the runtime.
+about-debugging-runtime-disconnect-button = Atsijungti
+# Text of the connection prompt button displayed in Runtime pages, when the preference
+# "devtools.debugger.prompt-connection" is false on the target runtime.
+about-debugging-connection-prompt-enable-button = Įjungti prisijungimo pranešimą
+# Text of the connection prompt button displayed in Runtime pages, when the preference
+# "devtools.debugger.prompt-connection" is true on the target runtime.
+about-debugging-connection-prompt-disable-button = Išjungti prisijungimo pranešimą
+# Title of a modal dialog displayed on remote runtime pages after clicking on the Profile Runtime button.
+about-debugging-profiler-dialog-title = Našumo profiliuoklė
+# Label of a checkbox displayed in the runtime page for "This Firefox".
+# This checkbox will toggle preferences that enable local addon debugging.
+# The "Learn more" link points to MDN.
+# https://developer.mozilla.org/docs/Tools/about:debugging#Enabling_add-on_debugging
+about-debugging-extension-debug-setting-label = Įjungti priedų derinimą. <a>Sužinokite daugiau</a>
+# Clicking on the header of a debug target category will expand or collapse the debug
+# target items in the category. This text is used as ’title’ attribute of the header,
+# to describe this feature.
+about-debugging-collapse-expand-debug-targets = Suskleisti / išskleisti
 
 # Debug Targets strings
 
+# Displayed in the categories of "runtime" pages that don't have any debug target to
+# show. Debug targets depend on the category (extensions, tabs, workers...).
+about-debugging-debug-target-list-empty = Kol kas nieko.
+# Text of a button displayed next to debug targets of "runtime" pages. Clicking on this
+# button will open a DevTools toolbox that will allow inspecting the target.
+# A target can be an addon, a tab, a worker...
+about-debugging-debug-target-inspect-button = Tirti
+# Text of a button displayed in the "This Firefox" page, in the Temporary Extension
+# section. Clicking on the button will open a file picker to load a temporary extension
+about-debugging-tmp-extension-install-button = Įkelti laikiną priedą…
+# Text displayed when trying to install a temporary extension in the "This Firefox" page.
+about-debugging-tmp-extension-install-error = Laikino priedo diegimo metu įvyko klaida.
+# Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
+# Clicking on the button will reload the extension.
+about-debugging-tmp-extension-reload-button = Įkelti iš naujo
+# Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
+# Clicking on the button will uninstall the extension and remove it from the page.
+about-debugging-tmp-extension-remove-button = Pašalinti
+# Message displayed in the file picker that opens to select a temporary extension to load
+# (triggered by the button using "about-debugging-tmp-extension-install-button")
+# manifest.json .xpi and .zip should not be localized.
+# Note: this message is only displayed in Windows and Linux platforms.
+about-debugging-tmp-extension-install-message = Pasirinkite manifest.json failą arba .xpi/.zip archyvą
+# This string is displayed as a message about the add-on having a temporaryID.
+about-debugging-tmp-extension-temporary-id = Šis „WebExtension“ turi laikiną ID. <a>Sužinokite daugiau</a>
+# Text displayed for extensions in "runtime" pages, before displaying a link the extension's
+# manifest URL.
+about-debugging-extension-manifest-url =
+    .label = Manifesto URL
+# Text displayed for extensions in "runtime" pages, before displaying the extension's uuid.
+# UUIDs look like b293e463-481e-5148-a487-5aaf7a130429
+about-debugging-extension-uuid =
+    .label = Vidinis UUID
+# Text displayed for extensions (temporary extensions only) in "runtime" pages, before
+# displaying the location of the temporary extension.
+about-debugging-extension-location =
+    .label = Vieta
+# Text displayed for extensions in "runtime" pages, before displaying the extension's ID.
+# For instance "geckoprofiler@mozilla.com" or "{ed26ddcb-5611-4512-a89a-51b8db81cfb2}".
+about-debugging-extension-id =
+    .label = Priedo ID
+# This string is displayed as a label of the button that pushes a test payload
+# to a service worker.
+# Notes, this relates to the "Push" API, which is normally not localized so it is
+# probably better to not localize it.
+about-debugging-worker-action-push = Push
+# This string is displayed as a label of the button that starts a service worker.
+about-debugging-worker-action-start = Pradėti
+# This string is displayed as a label of the button that unregisters a service worker.
+about-debugging-worker-action-unregister = Išregistruoti
+# Displayed for service workers in runtime pages that listen to Fetch events.
+about-debugging-worker-fetch-listening =
+    .label = Fetch
+    .value = Stebimi „fetch“ įvykiai
+# Displayed for service workers in runtime pages that do not listen to Fetch events.
+about-debugging-worker-fetch-not-listening =
+    .label = Fetch
+    .value = Nestebimi „fetch“ įvykiai
+# Displayed for service workers in runtime pages that are currently running (service
+# worker instance is active).
+about-debugging-worker-status-running = Paleistas
+# Displayed for service workers in runtime pages that are registered but stopped.
+about-debugging-worker-status-stopped = Sustabdytas
+# Displayed for service workers in runtime pages that are registering.
+about-debugging-worker-status-registering = Registruojamas
+# Displayed for service workers in runtime pages, to label the scope of a worker
+about-debugging-worker-scope =
+    .label = Sritis
+# Displayed for service workers in runtime pages, to label the push service endpoint (url)
+# of a worker
+about-debugging-worker-push-service =
+    .label = Pateikimų tarnyba
+# Displayed as name for the Main Process debug target in the Processes category. Only for
+# remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
+about-debugging-main-process-name = Pagrindinis procesas
+# Displayed as description for the Main Process debug target in the Processes category.
+# Only for remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
+about-debugging-main-process-description = Pagrindinis derinamo įrenginio darinio procesas
