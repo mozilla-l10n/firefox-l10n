@@ -90,7 +90,7 @@ detail-update-manual =
     .tooltiptext = Nediegti priedo naujinimų automatiškai
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Leisti privačiojo naršymo languose
-detail-private-browsing-description = Priedas veiks privačiojo naršymo languose, ir turės prieigą prie jūsų veiksmų internete. <label data-l10n-name="detail-private-browsing-learn-more">Sužinoti daugiau</label>
+detail-private-browsing-description2 = Jums leidus, šis priedas turės prieigą prie jūsų veiklos internete, kai naršote privačiai. <label data-l10n-name="detail-private-browsing-learn-more">Sužinokite daugiau</label>
 detail-private-browsing-on =
     .label = Leisti
     .tooltiptext = Įjungti privačiajame naršyme
@@ -256,5 +256,6 @@ go-back-button =
 remove-addon-button = Pašalinti
 disable-addon-button = Išjungti
 enable-addon-button = Įjungti
+expand-addon-button = Daugiau veiksmų
 addons-enabled-heading = Įjungta
 addons-disabled-heading = Išjungta
