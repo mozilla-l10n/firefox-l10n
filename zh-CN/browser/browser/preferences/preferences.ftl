@@ -245,7 +245,7 @@ download-choose-folder =
            *[other] o
         }
 download-always-ask-where =
-    .label = 总是询问您保存文件的位置
+    .label = 每次都问您要存到哪
     .accesskey = A
 applications-header = 应用程序
 applications-description = 选择 { -brand-short-name } 如何处理这些文件。
