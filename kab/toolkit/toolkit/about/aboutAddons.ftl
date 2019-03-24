@@ -241,5 +241,6 @@ go-back-button =
 remove-addon-button = Kkes
 disable-addon-button = Ssens
 enable-addon-button = Rmed
+expand-addon-button = Ugar n iɣewwaṛen
 addons-enabled-heading = Irmed
 addons-disabled-heading = Arurmid

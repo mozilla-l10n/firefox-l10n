@@ -214,6 +214,24 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenExit.label "Ffeɣ seg uskar n ugdil ačaran">
 <!ENTITY fullScreenExit.accesskey "F">
 
+ <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
+     for the Firefox Account toolbar signin menu screen. -->
+<!ENTITY fxa.signin.callout.label "Awi Firefox yid-k">
+
+<!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
+     for the Firefox Account toolbar unverified menu screen. -->
+<!ENTITY fxa.unverified.button.label "Ldi iɣewwaṛen n &syncBrand.shortName.label;…">
+
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbart menu screen. The `Signed in as` text is
+     followed by the user's email. -->
+<!ENTITY fxa.menu.signedInAs.label "Tkecmeḍ s yisem">
+<!ENTITY fxa.menu.manageAccount.label "Sefrek imiḍanen…">
+<!ENTITY fxa.menu.syncSettings.label "Iɣewwaṛen n &syncBrand.shortName.label;…">
+<!ENTITY fxa.menu.connectAnotherDevice.label "&syncedTabs.sidebar.connectAnotherDevice;">
+<!ENTITY fxa.menu.connectAnotherDevice2.label "Qqen ibenk-nniḍen...">
+<!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
+
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring fullscreen.
@@ -408,6 +426,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmd2.accesskey     "w">
 <!ENTITY preferencesCmdUnix.label       "Ismenyifen">
 <!ENTITY preferencesCmdUnix.accesskey     "s">
+
+<!ENTITY logins.label                           "Inekcam d wawalen uffiren">
 
 <!ENTITY clearRecentHistory.label               "Sfeḍ amazray-ik n melmi kan…">
 
@@ -931,6 +951,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncSignIn.label             "Kcem ɣer &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "Y">
 <!ENTITY syncSyncNowItem.label        "Mtawi tura">
+<!ENTITY syncSyncNowItemSyncing.label "Amtawi…">
 <!ENTITY syncSyncNowItem.accesskey    "M">
 <!ENTITY syncReAuthItem.label         "Qqen i tikelt-nniḍen ɣeṛ &syncBrand.shortName.label;…">
 <!ENTITY syncReAuthItem.accesskey     "Q">
@@ -1131,7 +1152,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Sefrek izegrar inek s usebbed γef <image class='addon-addon-icon'/> deg umuγ <image class='addon-toolbar-icon'/>.">
-<!ENTITY addonPostInstall.incognito.accesskey "A">
 
 <!ENTITY addonPrivateBrowsing.okButton.label "Ih, awi-t-id">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "O">
