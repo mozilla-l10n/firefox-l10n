@@ -138,11 +138,30 @@
 <!ENTITY watchedThreadsWithUnreadCmd.label "หัวข้อที่เฝ้าดูที่มีที่ยังไม่ได้อ่าน">
 <!ENTITY ignoredThreadsCmd.label "หัวข้อที่เพิกเฉย">
 
+<!ENTITY headersMenu.label "ส่วนหัว">
+<!ENTITY headersAllCmd.label "ทั้งหมด">
+<!ENTITY headersNormalCmd.label "ปกติ">
+<!ENTITY bodyMenu.label "เนื้อความของข้อความเป็น">
+<!ENTITY bodyAllowHTML.label "HTML ดั้งเดิม">
+<!ENTITY bodySanitized.label "HTML แบบง่าย">
+<!ENTITY bodyAsPlaintext.label "ข้อความธรรมดา">
+<!ENTITY bodyAllParts.label "ส่วนเนื้อความทั้งหมด">
 
+<!ENTITY bodyMenuFeed.label "เนื้อความของข้อความฟีดเป็น">
+<!ENTITY viewFeedWebPage.label "หน้าเว็บ">
+<!ENTITY viewFeedSummary.label "ข้อมูลสรุป">
+<!ENTITY viewFeedSummaryFeedPropsPref.label "รูปแบบเริ่มต้น">
 
+<!ENTITY viewAttachmentsInlineCmd.label "แสดงไฟล์แนบแบบอินไลน์">
 
+<!ENTITY pageSourceCmd.label "ซอร์สข้อความ">
 
 <!-- Search Menu -->
+<!ENTITY findMenu.label "ค้นหา">
+<!ENTITY findCmd.label "ค้นหาในข้อความนี้…">
+<!ENTITY findAgainCmd.label "ค้นหาอีกครั้ง">
+<!ENTITY findAgainCmd.key2 "VK_F3">
+<!ENTITY findPrevCmd.key2 "VK_F3">
 
 <!-- Go Menu -->
 
