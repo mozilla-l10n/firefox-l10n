@@ -34,6 +34,8 @@
 <!ENTITY error.noSource2 "Видео в поддерживаемом формате и MIME-типе не найдено.">
 <!ENTITY error.generic "Воспроизведение видео прервано из-за неизвестной ошибки.">
 
+<!ENTITY status.pictureInPicture "Это видео воспроизводится в режиме «Картинка в картинке».">
+
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
 the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
