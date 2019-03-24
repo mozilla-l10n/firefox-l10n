@@ -7,6 +7,7 @@
 <!ENTITY calendar.subscriptions.dialog.title                            "Subscribe agendas">
 <!ENTITY calendar.subscriptions.dialog.search.label.value               "Monstrar agendas que contine:">
 <!ENTITY calendar.subscriptions.dialog.search.button.label              "Cercar">
+<!ENTITY calendar.subscriptions.dialog.select.label.value               "Selige agendas al los qual subscriber se:">
 <!ENTITY calendar.subscriptions.dialog.subscribe.button.label           "Subscriber">
 <!ENTITY calendar.subscriptions.dialog.unsubscribe.button.label         "Cancellar le inscription">
 <!ENTITY calendar.subscriptions.dialog.statusmessage.busy.label         "Cercar…">
