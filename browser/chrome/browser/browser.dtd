@@ -227,7 +227,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignInError.label "Genopret forbindelse til &syncBrand.shortName.label;">
 <!ENTITY fxaUnverified.label "Bekræft din konto">
 
-
 <!ENTITY fullScreenMinimize.tooltip "Minimer">
 <!ENTITY fullScreenRestore.tooltip "Gendan">
 <!ENTITY fullScreenClose.tooltip "Luk">
@@ -235,6 +234,28 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenAutohide.accesskey "S">
 <!ENTITY fullScreenExit.label "Afslut fuld skærm">
 <!ENTITY fullScreenExit.accesskey "A">
+
+ <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
+     for the Firefox Account toolbar signin menu screen. -->
+<!ENTITY fxa.signin.callout.label "Tag Firefox med dig">
+<!ENTITY fxa.signin.description.label "Få adgang til din historik, dine bogmærker, adgangskoder og andre indstillinger på alle dine enheder.">
+<!ENTITY fxa.signin.button.label "Aktiver &syncBrand.shortName.label;…">
+
+<!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
+     for the Firefox Account toolbar unverified menu screen. -->
+<!ENTITY fxa.unverified.callout.label "Tjek din indbakke">
+<!ENTITY fxa.unverified.description.label "Du skal bekræfte din konto, før du kan gå i gang med at synkronisere.">
+<!ENTITY fxa.unverified.button.label "Åbn indstillingerne for  &syncBrand.shortName.label;…">
+
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbart menu screen. The `Signed in as` text is
+     followed by the user's email. -->
+<!ENTITY fxa.menu.signedInAs.label "Logget ind som">
+<!ENTITY fxa.menu.manageAccount.label "Håndter konto…">
+<!ENTITY fxa.menu.syncSettings.label "Indstillinger for &syncBrand.shortName.label;…">
+<!ENTITY fxa.menu.connectAnotherDevice.label "&syncedTabs.sidebar.connectAnotherDevice;">
+<!ENTITY fxa.menu.connectAnotherDevice2.label "Opret forbindelse til en ny enhed…">
+<!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -449,6 +470,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmd2.accesskey     "I">
 <!ENTITY preferencesCmdUnix.label       "Indstillinger">
 <!ENTITY preferencesCmdUnix.accesskey     "I">
+
+<!ENTITY logins.label                           "Logins og adgangskoder">
 
 <!ENTITY clearRecentHistory.label               "Ryd seneste historik…">
 
@@ -1007,6 +1030,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncSignIn.label             "Log ind på &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "Y">
 <!ENTITY syncSyncNowItem.label        "Synkroniser nu">
+<!ENTITY syncSyncNowItemSyncing.label "Synkroniserer…">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "Genopret forbindelse til &syncBrand.shortName.label;…">
 <!ENTITY syncReAuthItem.accesskey     "G">

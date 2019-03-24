@@ -710,6 +710,12 @@ content-blocking-desc = Bloker indhold fra tredjepart, fx reklamer eller kode, d
 content-blocking-description = Bloker tredjeparts-indhold, der sporer dig rundt på nettet. Kontroller hvor meget af din aktivitet på nettet, der gemmes og deles mellem websteder.
 
 content-blocking-learn-more = Læs mere
+
+content-blocking-reload-description = Du skal genindlæse dine faneblade, før ændringerne slår igennem.
+content-blocking-reload-tabs-button =
+  .label = Genindlæs alle faneblade
+  .accesskey = G
+
 content-blocking-restore-defaults =
     .label = Gendan standard
     .accesskey = G
@@ -815,6 +821,9 @@ sitedata-option-block-all =
 content-blocking-cookies-label =
   .label = Cookies
   .accesskey = C
+
+content-blocking-expand-section = 
+  .tooltiptext = Mere information
 
 # Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
 content-blocking-cryptominers-label =
