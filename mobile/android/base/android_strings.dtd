@@ -272,7 +272,7 @@
 <!ENTITY pref_category_developer_tools "开发者工具">
 
 <!ENTITY pref_tap_to_load_images_title2 "显示图像">
-<!ENTITY pref_tap_to_load_images_enabled "总是">
+<!ENTITY pref_tap_to_load_images_enabled "一律显示">
 <!ENTITY pref_tap_to_load_images_data "仅通过 Wi-Fi">
 <!ENTITY pref_tap_to_load_images_disabled2 "拦截">
 
@@ -369,7 +369,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; 将在您每次从主菜单中选择“退出”时自动清除您的数据">
 <!ENTITY pref_clear_on_exit_dialog_title "选择要清除的数据">
 <!ENTITY pref_restore_tabs "恢复标签页">
-<!ENTITY pref_restore_always "总是恢复">
+<!ENTITY pref_restore_always "一律恢复">
 <!ENTITY pref_restore_quit "曾明确退出 &brandShortName; 则不要恢复">
 
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
@@ -380,7 +380,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_media_autoplay_enabled "允许自动播放">
 <!ENTITY pref_media_autoplay_allow "允许自动播放">
 <!ENTITY pref_media_autoplay_block "屏蔽自动播放">
-<!ENTITY pref_zoom_force_enabled "总是启用缩放">
+<!ENTITY pref_zoom_force_enabled "一律强制启用缩放功能">
 <!ENTITY pref_zoom_force_enabled_summary "强制让所有页面都能缩放">
 <!ENTITY pref_voice_input "语音输入">
 <!ENTITY pref_voice_input_summary2 "允许在地址栏进行语音输入">
@@ -465,7 +465,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_update_autodownload3 "自动更新">
 <!ENTITY pref_update_autodownload_wifi "仅通过 Wi-Fi">
 <!ENTITY pref_update_autodownload_never "永不">
-<!ENTITY pref_update_autodownload_always "总是">
+<!ENTITY pref_update_autodownload_always "一律下载">
 
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 <!ENTITY help_menu "帮助">
