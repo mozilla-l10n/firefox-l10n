@@ -17,3 +17,4 @@ about-private-browsing-info-cookies = cookies
 tracking-protection-start-tour = Tignan kung paano gumagana
 about-private-browsing-note = Private Browsing <strong>ay hindi ka ginagawang anonymous</strong> sa Internet. Maaari pa ring malaman ng iyong employer o ng iyong Internet service provider kung anu-anong webpage ang binisita mo.
 about-private-browsing-not-private = Ikaw ay kasalukuyang wala sa pribadong window.
+content-blocking-title = Content Blocking
