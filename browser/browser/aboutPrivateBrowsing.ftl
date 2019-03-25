@@ -6,12 +6,12 @@ about-private-browsing-learn-more = Barrachd fiosrachaidh mu <a data-l10n-name="
 about-private-browsing-info-visited = duilleagan air an tadhail thu
 privatebrowsingpage-open-private-window-label = Fosgail uinneag phrìobhaideach
     .accesskey = p
-about-private-browsing-info-notsaved = Nuair a nì thu brabhsadh ann an uinneag phrìobhaideach, <strong>cha sàbhail Firefox</strong>:
+about-private-browsing-info-notsaved = Nuair a nì thu brabhsadh ann an uinneag phrìobhaideach, <strong>cha sàbhail { -brand-short-name }</strong>:
 about-private-browsing-info-bookmarks = comharran-lìn
 about-private-browsing-info-searches = na lorgas tu
 about-private-browsing-info-downloads = na luchdaicheas tu a-nuas
 private-browsing-title = Brabhsadh prìobhaideach
-about-private-browsing-info-saved = Ach <strong>sàbhailidh Firefox</strong> na leanas:
+about-private-browsing-info-saved = Ach <strong>sàbhailidh { -brand-short-name }</strong> na leanas:
 about-private-browsing-info-clipboard = lethbhreac teacsa
 about-private-browsing-info-temporary-files = faidhlichean sealach
 about-private-browsing-info-cookies = briosgaidean
