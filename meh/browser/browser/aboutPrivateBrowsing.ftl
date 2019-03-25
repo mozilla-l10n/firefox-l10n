@@ -7,6 +7,7 @@ privatebrowsingpage-open-private-window-label = Síne iin ventana yu´u
     .accesskey = y
 about-private-browsing-info-notsaved = Saa nanukunu nuu iin ventana yu´u, { -brand-short-name }<strong>Nchuva´a</strong>:
 about-private-browsing-info-searches = Daa a nnanuku
+about-private-browsing-info-downloads = Daa nxinú
 private-browsing-title = Navegación yu´u
 about-private-browsing-info-temporary-files = Daa archivos temporales
 about-private-browsing-info-cookies = cookies
