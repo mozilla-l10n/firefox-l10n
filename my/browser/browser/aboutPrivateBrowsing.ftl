@@ -5,9 +5,11 @@
 about-private-browsing-info-visited = ကြည့်ရှုခဲ့သည့် စာမျက်နှာများ
 privatebrowsingpage-open-private-window-label = သီးသန့်ဝင်းဒိုးကို ဖွင့်ပါ
     .accesskey = P
+about-private-browsing-info-notsaved = သင် သီးသန့်ဝင်းဒိုးအသုံးပြုသောအခါ၊ { -brand-short-name } <strong>သည် မသိမ်းဆည်းပါ</strong>။
 about-private-browsing-info-bookmarks = စာမှတ်များ
 about-private-browsing-info-searches = ရှာဖွေမှုများ
 about-private-browsing-info-downloads = ဆွဲယူထားသည့်ဖိုင်များ
+private-browsing-title = လုံခြုံစွာ ဝဘ်ဆိုက်ကြည့်ရှုခြင်း
 about-private-browsing-info-saved = မီးမြေခွေး <strong>သိမ်းပါမည်</strong> သင်၏။ ။
 about-private-browsing-info-temporary-files = ယာယီ ဖိုင်များ
 about-private-browsing-info-cookies = ကွတ်ကီးများ
