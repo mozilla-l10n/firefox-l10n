@@ -14,6 +14,7 @@ about-private-browsing-info-downloads = डाउनलोड्स
 private-browsing-title = खाजगी ब्राउझिंग
 about-private-browsing-info-saved = { -brand-short-name } <strong>साठविले जाईल</strong> आपल्या:
 about-private-browsing-info-myths = खाजगी ब्राउझिंगबद्दल सामान्य मान्यता
+about-private-browsing-info-clipboard = कॉपी केलेला मजकूर
 about-private-browsing-info-temporary-files = तात्पुरत्या फाइल्स
 about-private-browsing-info-cookies = कुकिज
 tracking-protection-start-tour = हे कसे काम करते ते पहा
