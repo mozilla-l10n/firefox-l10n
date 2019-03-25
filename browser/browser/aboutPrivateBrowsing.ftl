@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+about-private-browsing-learn-more = Dysgu rhagor am <a data-l10n-name="learn-more">Pori Preifat</a>.
 about-private-browsing-info-visited = tudalennau rydych wedi ymweld â nhw
 privatebrowsingpage-open-private-window-label = Agor Ffenestr Breifat
     .accesskey = F
