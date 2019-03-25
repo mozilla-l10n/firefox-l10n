@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+about-private-browsing-learn-more = Pelajari lebih lanjut tentang <a data-l10n-name="learn-more">Penjelajahan Pribadi</a>.
 privatebrowsingpage-open-private-window-label = Buka Jendela Pribadi
     .accesskey = P
 about-private-browsing-info-notsaved = Saat Anda menjelajah di Jendela Pribadi, { -brand-short-name } <strong>tidak menyimpan</strong>:
