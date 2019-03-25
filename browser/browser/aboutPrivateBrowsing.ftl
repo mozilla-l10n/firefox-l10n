@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+about-private-browsing-learn-more = ស្វែងយល់​បន្ថែម​អំពី<a data-l10n-name="learn-more">ការ​រក​មើល​ឯកជន</a>.
 about-private-browsing-info-visited = ទំព័រ​ដែល​បាន​ទស្សនា
 about-private-browsing-info-notsaved = នៅ​ពេល​អ្នក​រក​មើល​នៅ​ក្នុង​បង្អួច​ឯកជន { -brand-short-name }<strong>កុំ​រក្សាទុក</strong>:
 about-private-browsing-info-bookmarks = ចំណាំ
