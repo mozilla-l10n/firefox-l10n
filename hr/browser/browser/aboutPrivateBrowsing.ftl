@@ -23,5 +23,6 @@ about-private-browsing-note = Privatno pretraživanje <strong>vas ne čini anoni
 about-private-browsing =
     .title = Pretraži web
 about-private-browsing-not-private = Trenutno niste u privatnom prozoru.
+content-blocking-title = Blokiranje sadržaja
 content-blocking-description = Neke web stranice koriste skripte za praćenje koje nadgledaju vašu aktivnost diljem Interneta. U privatnom načinu, { -brand-short-name } blokiranje sadržaja automatski blokira mnoge skripte za praćenje koje bi mogle prikupljati informacije o vašem pregledavanju.
 about-private-browsing-info-description = { -brand-short-name } čisti vašu povijest pretraživanja i pregledavanja kada izađete iz aplikacije ili zatvorite sve kartice i prozore privatnog pretraživnja. Ovo vas ne čini anonimnim prema web stranicama ili vašem pružatelju internet usluga, ali znatno smanjuje mogućnost praćenja i olakšava da zadržite privatnim što radite na internetu od ostalih osoba koje koriste ovo računalo.
