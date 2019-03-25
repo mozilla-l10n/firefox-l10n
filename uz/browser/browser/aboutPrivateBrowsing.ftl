@@ -14,3 +14,4 @@ about-private-browsing-info-temporary-files = vaqtinchalik fayllar
 about-private-browsing-info-cookies = kukilar
 tracking-protection-start-tour = Qanday ishlashi haqida tanishing
 about-private-browsing-not-private = Siz hozirda maxfiy oynada emassiz.
+content-blocking-title = Kontentni bloklash
