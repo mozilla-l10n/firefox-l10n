@@ -19,6 +19,7 @@ about-private-browsing-info-clipboard = texto copiado
 about-private-browsing-info-temporary-files = ficheiros temporários
 about-private-browsing-info-cookies = cookies
 tracking-protection-start-tour = Ver como funciona
+about-private-browsing-note = A Navegação privada <strong>não lhe dá anonimato</strong> na Internet. O seu empregador ou fornecedor do serviço de Internet ainda podem saber quais as páginas que visita.
 about-private-browsing =
     .title = Pesquisar na Web
 about-private-browsing-not-private = Atualmente, não está numa janela privada.
