@@ -6,7 +6,7 @@ about-private-browsing-learn-more = Læs mere om <a data-l10n-name="learn-more">
 about-private-browsing-info-visited = besøgte sider
 privatebrowsingpage-open-private-window-label = Åbn et privat vindue
     .accesskey = p
-about-private-browsing-info-notsaved = Når du browser i et privat vindue gemmer <strong>Firefox ikke</strong>:
+about-private-browsing-info-notsaved = Når du browser i et privat vindue gemmer <strong>{ -brand-short-name } ikke</strong>:
 about-private-browsing-search-placeholder = Søg på nettet
 about-private-browsing-info-bookmarks = bogmærker
 about-private-browsing-info-title = Du befinder dig i et privat vindue
