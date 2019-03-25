@@ -10,7 +10,6 @@
 <!ENTITY returnToPreviousPage.label "Eguevi">
 <!ENTITY returnToPreviousPage1.label "Eguevi (mboajepyre)">
 <!ENTITY advanced.label "Opanungáva">
-<!ENTITY continue2.label "Hetave…">
 <!ENTITY advanced2.label "Opapotáva…">
 <!ENTITY moreInformation.label "Eñemomaranduve">
 <!ENTITY viewCertificate.label "Mboajapyre jehecha">
@@ -162,6 +161,8 @@ Pe arapapaha ne mohendaha rehegua oĩporã <span id='wrongSystemTime_systemDate2
 
 <!ENTITY blockedByPolicy.title "Kuatiarogue jokopyre">
 
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "Ndereikuaa porãiramo ko <span class='mitm-name'/>, upéicharõ kóva ikatu mba’evai ha ani eike tendápe.">
+<!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "Ndereikuaa porãiramo ko <span class='mitm-name'/>, upéicharõ kóva ikatu mba’evai ha ani ejapo mba’eve eike hag̃ua tendápe.">
 
 <!ENTITY clockSkewError.title "Aravopapaha mohendaha rehegua oĩvai">
 <!ENTITY clockSkewError.longDesc "Ne mohendaha oimo’ã ha’eha <span id='wrongSystemTime_systemDate1'/>, oñemotenondéva &brandShortName; rehe eikekatu hag̃ua. Eike hag̃ua <span class='hostname'></span>, embohekopyahu ne mohendaha aravo, arange ha aravo rendaguasu ag̃agua, ha upéi emyenyhẽjey <span class='hostname'></span>.">
