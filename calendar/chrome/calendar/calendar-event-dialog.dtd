@@ -190,6 +190,8 @@
    - illustrates how it might look like: https://bugzilla.mozilla.org/attachment.cgi?id=8810121 -->
 <!ENTITY counter.button.proposal.label                    "ใช้ข้อเสนอ">
 <!ENTITY counter.button.proposal.accesskey                "ช">
+<!ENTITY counter.button.original.label                    "ใช้ข้อมูลดั้งเดิม">
+<!ENTITY counter.button.original.accesskey                "ช">
 
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "ชื่อเรื่อง:" >
@@ -357,6 +359,18 @@
 <!ENTITY event.freebusy.zoom                    "ซูม:">
 <!ENTITY event.freebusy.legend.free             "ว่าง" >
 <!ENTITY event.freebusy.legend.busy             "ไม่ว่าง" >
+<!ENTITY event.freebusy.legend.busy_tentative   "ไม่แน่นอน" >
+<!ENTITY event.freebusy.legend.busy_unavailable "ไม่อยู่ที่สำนักงาน" >
+<!ENTITY event.freebusy.legend.unknown          "ไม่มีข้อมูล" >
+<!ENTITY event.attendee.role.required           "ผู้เข้าร่วมที่จำเป็น">
+<!ENTITY event.attendee.role.optional           "ผู้เข้าร่วมเพิ่มเติม">
+<!ENTITY event.attendee.role.chair              "ประธาน">
+<!ENTITY event.attendee.role.nonparticipant     "ไม่ใช่ผู้เข้าร่วม">
+<!ENTITY event.attendee.usertype.individual     "รายบุคคล">
+<!ENTITY event.attendee.usertype.group          "กลุ่ม">
+<!ENTITY event.attendee.usertype.resource       "ทรัพยากร">
+<!ENTITY event.attendee.usertype.room           "ห้อง">
+<!ENTITY event.attendee.usertype.unknown        "ไม่ทราบ">
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "โปรดระบุเขตเวลา">
@@ -381,7 +395,12 @@
 <!ENTITY read.only.link.label            "ลิงก์ที่เกี่ยวข้อง">
 
 <!-- Summary dialog -->
+<!ENTITY summary.dialog.saveclose.label         "บันทึกแล้วปิด">
 <!ENTITY summary.dialog.accept.label            "ยอมรับ">
 <!ENTITY summary.dialog.accept.tooltiptext      "ยอมรับคำเชิญ">
+<!ENTITY summary.dialog.tentative.label         "ไม่แน่นอน">
+<!ENTITY summary.dialog.tentative.tooltiptext   "ยอมรับคำเชิญอย่างไม่แน่นอน">
 <!ENTITY summary.dialog.decline.label           "ปฏิเสธ">
 <!ENTITY summary.dialog.decline.tooltiptext     "ปฏิเสธคำเชิญ">
+<!ENTITY summary.dialog.dontsend.label          "ไม่ส่งการตอบสนอง">
+<!ENTITY summary.dialog.send.label              "ส่งการตอบสนองตอนนี้">

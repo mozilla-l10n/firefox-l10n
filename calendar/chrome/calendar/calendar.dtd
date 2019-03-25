@@ -54,7 +54,7 @@
 <!ENTITY calendar.unifinder.tree.calendarname.label        "ชื่อปฏิทิน">
 <!ENTITY calendar.unifinder.tree.calendarname.tooltip2     "เรียงตามชื่อปฏิทิน">
 <!ENTITY calendar.unifinder.tree.duration.label            "ครบกำหนดใน">
-<!ENTITY calendar.unifinder.tree.duration.tooltip2         "เรียงตามเวลาจนกระทั่งครบกำหนด">
+<!ENTITY calendar.unifinder.tree.duration.tooltip2         "เรียงตามเวลาจนถึงครบกำหนด">
 <!ENTITY calendar.unifinder.close.tooltip                  "ปิดการค้นหาเหตุการณ์และรายการเหตุการณ์">
 
 <!ENTITY calendar.today.button.tooltip          "ไปยังวันนี้" >
