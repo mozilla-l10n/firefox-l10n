@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+about-private-browsing-learn-more = കൂടുതൽ അറിയുക <a data-l10n-name="learn-more">സ്വകാര്യമായ ബ്രൗസിംഗ്</a>.
 about-private-browsing-info-visited = സന്ദര്‍ശിച്ച താളുകള്‍
 privatebrowsingpage-open-private-window-label = ഒരു സ്വകാര്യ ജാലകം തുറക്കുക
     .accesskey = ക
