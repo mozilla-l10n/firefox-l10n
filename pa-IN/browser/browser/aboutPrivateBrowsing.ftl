@@ -1,0 +1,17 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+about-private-browsing-learn-more = { " " }<a data-l10n-name="learn-more">ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ</a> ਬਾਰੇ ਹੋਰ ਜਾਣੋ।
+about-private-browsing-info-visited = ਖੋਲ੍ਹੇ ਗਏ ਸਫ਼ੇ
+about-private-browsing-info-notsaved = ਜਦੋਂ ਤੁਸੀਂ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਵਿੱਚ ਬਰਾਊਜ਼ ਕਰਦੇ ਹੋ ਤਾਂ ਫਾਇਰਫਾਕਸ<strong>ਇਹਨਾਂ ਨੂੰ ਨਹੀਂ ਸੰਭਾਲਦਾ</strong>:
+about-private-browsing-info-bookmarks = ਬੁੱਕਮਾਰਕ
+about-private-browsing-info-searches = ਖੋਜਾਂ
+about-private-browsing-info-downloads = ਡਾਊਨਲੋਡ
+private-browsing-title = ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ
+about-private-browsing-info-saved = ਫਾਇਰਫਾਕਸ <strong>ਸੰਭਾਲੇਗਾ</strong> ਤੁਹਾਡੇ:
+about-private-browsing-info-temporary-files = ਆਰਜ਼ੀ ਫਾਈਲਾਂ
+about-private-browsing-info-cookies = ਕੂਕੀਜ਼
+tracking-protection-start-tour = ਵੇਖੋ ਕਿ ਇਹ ਕਿਵੇਂ ਕੰਮ ਕਰਦਾ ਹੈ
+about-private-browsing-note = ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਰਿੰਗ <strong>ਤੁਹਾਨੂੰ ਇੰਟਰਨੈੱਟ ਉੱਤੇ ਅਣਪਛਾਤਾ ਨਹੀਂ </strong> ਬਣਾਉਂਦੀ ਹੈ। ਤੁਹਾਡੀ ਕੰਪਨੀ ਜਾਂ ਇੰਟਰਨੈੱਟ ਸੇਵਾ ਦੇਣ ਵਾਲੇ ਫਿਰ ਵੀ ਤੁਹਾਡੇ ਵਲੋਂ ਖੋਲ੍ਹੇ ਗਏ ਸਫ਼ਿਆਂ ਬਾਰੇ ਜਾਣ ਸਕਦੇ ਹਨ।
+about-private-browsing-not-private = ਇਸ ਸਮੇਂ ਤੁਸੀਂ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਨੂੰ ਨਹੀਂ ਵਰਤ ਰਹੇ ਹੋ।
