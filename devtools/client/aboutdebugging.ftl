@@ -109,6 +109,14 @@ about-debugging-network-locations-host-input-label = Gwesteiwr
 # Text of a button displayed next to existing network locations in the Connect page.
 # Clicking on it removes the network location from the list.
 about-debugging-network-locations-remove-button = Tynnu
+# Text used as error message if the format of the input value was invalid in the network locations form of the Setup page.
+# Variables:
+#   $host-value (string) - The input value submitted by the user in the network locations form
+about-debugging-network-location-form-invalid = Gwestai annilys  “{ $host-value }”.Y fformat disgwyliedig yw “hostname:portnumber”.
+# Text used as error message if the input value was already registered in the network locations form of the Setup page.
+# Variables:
+#   $host-value (string) - The input value submitted by the user in the network locations form
+about-debugging-network-location-form-duplicate = Mae'r gwestai “{ $host-value }” eisoes wedi ei gofrestru
 
 # Runtime Page strings
 
@@ -142,6 +150,11 @@ about-debugging-runtime-profile-button = Proffilio'r Amser Rhedeg
 # target runtime is incompatible with service workers. "Learn more" points to MDN.
 # https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
 about-debugging-runtime-service-workers-not-compatible = Nid yw ffurfweddiad eich porwr yn cydweddu â Service Workers. <a>Dysgu rhagor</a>
+# This string is displayed in the runtime page if the remote runtime version is too old.
+# "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/WebIDE/Troubleshooting
+# { $runtimeVersion } is the version of the remote runtime (for instance "67.0a1")
+# { $minVersion } is the minimum version that is compatible with the current Firefox instance (same format)
+about-debugging-runtime-version-too-old = Mae gan yr amser rhedeg cysylltiedig hen fersiwn ({ $runtimeVersion }). Y fersiwn hynaf sy'n cael ei gynnal yw ({ $minVersion }). Mae hwn yn osodiad sydd ddim yn cael ei gynnal a gall achosi i DevTools fethu. Diweddarwch yr amser rhedeg cysylltiedig. <a>Datrys problemau</a>
 # Dedicated message for a backward compatibility issue that occurs when connecting:
 # - from Fx 67 to 66 or to 65
 # - from Fx 68 to 66
