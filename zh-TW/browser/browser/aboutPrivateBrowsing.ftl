@@ -19,6 +19,7 @@ about-private-browsing-info-clipboard = 已複製文字
 about-private-browsing-info-temporary-files = 暫存檔案
 about-private-browsing-info-cookies = Cookie
 tracking-protection-start-tour = 看看原理是什麼
+about-private-browsing-note = 隱私瀏覽<strong>不會讓您在網路上匿蹤。</strong>您的雇主或網路業者還是能知道您看過哪些網站。
 about-private-browsing =
     .title = 搜尋 Web
 about-private-browsing-not-private = 您目前不在隱私瀏覽視窗當中。
