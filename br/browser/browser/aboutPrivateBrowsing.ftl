@@ -6,14 +6,14 @@ about-private-browsing-learn-more = Gouzout hiroc'h diwar-benn<a data-l10n-name=
 about-private-browsing-info-visited = pajennoù gweladennet
 privatebrowsingpage-open-private-window-label = Digeriñ ur prenestr merdeiñ prevez
     .accesskey = p
-about-private-browsing-info-notsaved = <strong>N'eo ket enrollet</strong> gant Firefox pa verdeit en ur prenestr merdeiñ prevez:
+about-private-browsing-info-notsaved = <strong>N'eo ket enrollet</strong> gant { -brand-short-name } pa verdeit en ur prenestr merdeiñ prevez:
 about-private-browsing-search-placeholder = Klask er web
 about-private-browsing-info-bookmarks = sinedoù
 about-private-browsing-info-title = En ur prenestr merdeiñ prevez emaoc'h
 about-private-browsing-info-searches = klaskoù
 about-private-browsing-info-downloads = pellgargadurioù
 private-browsing-title = Merdeiñ prevez
-about-private-browsing-info-saved = <strong>Enrollet e vo</strong> gant Firefox:
+about-private-browsing-info-saved = <strong>Enrollet e vo</strong> gant { -brand-short-name }:
 about-private-browsing-info-myths = Mojennoù a vez alies diwar-benn ar merdeiñ prevez
 about-private-browsing-info-clipboard = testenn eilet
 about-private-browsing-info-temporary-files = restroù padennek
