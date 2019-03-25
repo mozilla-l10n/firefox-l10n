@@ -257,6 +257,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (pictureInPicture.label, pictureInPicture.accesskey):
      these two strings are used when right-clicking on a video in the
      content area when the Picture-in-Picture feature is enabled. -->
+<!ENTITY pictureInPicture.label "Skeudenn-ouzh-skeudenn">
+<!ENTITY pictureInPicture.accesskey "S">
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
@@ -436,6 +438,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.label       "Gwellvezioù">
 <!ENTITY preferencesCmdUnix.accesskey     "l">
 
+<!ENTITY logins.label                           "Titouroù kennaskañ">
 
 <!ENTITY clearRecentHistory.label               "Skarzhañ ar roll istor nevesañ…">
 
@@ -959,6 +962,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncSignIn.label             "En em gennaskañ ouzh &syncBrand.shortName.label;">
 <!ENTITY syncSignIn.accesskey         "Y">
 <!ENTITY syncSyncNowItem.label        "Goubredañ bremañ">
+<!ENTITY syncSyncNowItemSyncing.label "O c'houbredañ...">
 <!ENTITY syncSyncNowItem.accesskey    "G">
 <!ENTITY syncReAuthItem.label         "En em adkennaskañ ouzh &syncBrand.shortName.label;…">
 <!ENTITY syncReAuthItem.accesskey     "a">
@@ -1161,6 +1165,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Merit hoc'h askouezhioù en ur glikañ war <image class='addon-addon-icon'/> el lañser <image class='addon-toolbar-icon'/>.">
+<!ENTITY addonPostInstall.incognito.checkbox.label "Aotren an askouezh-mañ da vezañ lañset en ur prenestr merdeiñ prevez">
+<!ENTITY addonPostInstall.incognito.checkbox.accesskey "A">
 
 <!ENTITY addonPrivateBrowsing.header2.label "Cheñchamant evit an askouezhioù er merdeiñ prevez">
 <!ENTITY addonPrivateBrowsing.body2.label "Forzh pe askouezh nevez a ouzhpennit da &brandShorterName; a vo stanket er prenestroù prevez estreget mard aotreit anezho en arventennoù.">

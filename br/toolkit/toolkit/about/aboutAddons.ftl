@@ -253,5 +253,6 @@ go-back-button =
 remove-addon-button = Dilemel
 disable-addon-button = Diweredekaat
 enable-addon-button = Gweredekaat
+expand-addon-button = Dibarzhioù ouzhpenn
 addons-enabled-heading = Gweredekaet
 addons-disabled-heading = Diweredekaet
