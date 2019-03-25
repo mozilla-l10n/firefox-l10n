@@ -6,12 +6,12 @@ about-private-browsing-learn-more = Tuilleadh eolais faoi <a data-l10n-name="lea
 about-private-browsing-info-visited = stair bhrabhsála
 privatebrowsingpage-open-private-window-label = Oscail Fuinneog Phríobháideach
     .accesskey = P
-about-private-browsing-info-notsaved = Nuair a dhéanann tú brabhsáil i bhFuinneog Phríobháideach, <strong>ní shábhálann Firefox </strong>:
+about-private-browsing-info-notsaved = Nuair a dhéanann tú brabhsáil i bhFuinneog Phríobháideach, <strong>ní shábhálann { -brand-short-name }</strong>:
 about-private-browsing-info-bookmarks = leabharmharcanna
 about-private-browsing-info-searches = cuardaigh
 about-private-browsing-info-downloads = íoslódálacha
 private-browsing-title = Brabhsáil Phríobháideach
-about-private-browsing-info-saved = Ach <strong>sábhálann Firefox </strong> do chuid:
+about-private-browsing-info-saved = Ach <strong>sábhálann { -brand-short-name }</strong> do chuid:
 about-private-browsing-info-temporary-files = comhaid shealadacha
 about-private-browsing-info-cookies = fianáin
 tracking-protection-start-tour = Conas a oibríonn sé
