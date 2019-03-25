@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+about-private-browsing-learn-more = 더 알아보기 <a data-l10n-name="learn-more">사생활 보호 모드</a>.
 about-private-browsing-info-visited = 방문한 페이지
 privatebrowsingpage-open-private-window-label = 새 사생활 보호 창 시작
     .accesskey = P
