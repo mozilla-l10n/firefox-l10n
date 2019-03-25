@@ -63,6 +63,12 @@
 <!ENTITY  crash_restart_label "&brandShortName; पुनःसुरू करा">
 
 <!ENTITY url_bar_default_text2 "शोधा किंवा पत्ता द्या">
+
+<!-- Localization note: this text will be displayed in the Search Widget -->
+<!ENTITY search_widget_default_text "वेबवर शोधा">
+<!ENTITY search_widget_default_cropped_text "शोधा">
+<!ENTITY search_widget_logo_description "&brandShortName; सह वेबवर शोधा">
+
 <!-- Localization note (url_bar_qrcode_text2) : This text will be
      heard by non-visual users when the focus is on the QR Code
      icon in the url bar. -->
@@ -290,11 +296,6 @@
 <!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
      Similar to the already existing "pref_whats_new_notification_summary"-->
 <!ENTITY pref_feature_tips_notification_summary "&brandShortName; आणि &vendorShortName; उत्पादने वापरण्याबद्दल आणखी जाणा">
-<!-- Localization note (pref_feature_tips_notification_enabling_hint):
-     Describe the action the user should do to enable this preference
-     Will be used in the context "<Turn on> ... to enable this feature" -->
-<!ENTITY pref_feature_tips_notification_enabling_hint "सुरु करा">
-
 <!-- Localization note (pref_feature_tips_notification_enabling_path):
      Nothing to translate. Simple concatenation of already localized strings. Result is used below. -->
 <!ENTITY pref_feature_tips_notification_enabling_path "&pref_category_privacy_short; > &pref_category_datareporting; > &datareporting_fhr_title;">
@@ -340,6 +341,9 @@
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
 <!ENTITY tab_queue_prompt_settings_button "सेटिंग्स् मध्ये जा">
+<!-- Localization note (tab_queue_notification_prompt): This is the text of the default notification
+shown from Android O while a tab is being queued.-->
+<!ENTITY tab_queue_notification_prompt "&#8230; रांगेत नवीन टॅब जोडत आहे">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -398,7 +402,6 @@
 <!ENTITY pref_private_data_searchHistory "शोध इतिहास">
 <!ENTITY pref_private_data_formdata2 "फॉर्म इतिहास">
 <!ENTITY pref_private_data_cookies2 "कुकीज आणि कार्यरत लॉगइन्स">
-<!ENTITY pref_private_data_passwords2 "साठवलेले लॉगइन्स">
 <!ENTITY pref_private_data_cache "कॅशे">
 <!ENTITY pref_private_data_offlineApps "ऑफलाइन संकेतस्थळ माहिती">
 <!ENTITY pref_private_data_siteSettings2 "साइट सेटिंग">
@@ -901,15 +904,9 @@ Picture-in-picture mini window -->
 <!ENTITY pip_pause_button_description "चालवणे थांबवा">
 
 <!-- Notification channels names -->
-<!ENTITY default_notification_channel "&brandShortName;">
-
-<!-- Notification channels names -->
 <!ENTITY default_notification_channel2 "ब्राउझर">
 <!ENTITY mls_notification_channel "&vendorShortName; स्थान सेवा">
 <!ENTITY download_notification_channel "डाउनलोड">
-<!ENTITY media_notification_channel "मीडिया प्लेबॅक">
-<!-- These push notifications come without a specific channel and/or name from Leanplum -->
-<!ENTITY leanplum_default_notifications_channel "&brandShortName; पुश सुचना">
 <!ENTITY media_notification_channel2 "ध्वनी आणि व्हिडिओ">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel2 "&vendorShortName; सल्ले व युक्त्या">
