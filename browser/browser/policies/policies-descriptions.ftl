@@ -109,7 +109,7 @@ policy-Permissions = カメラ、マイク、位置情報、通知の許可と�
 
 policy-PopupBlocking = 特定のウェブサイトのポッポアップ表示をデフォルトで許可します。
 
-policy-Proxy = プロキシの設定を指示します。
+policy-Proxy = プロキシーの設定を指示します。
 
 policy-RequestedLocales = アプリケーションに要求される言語リストと優先順位を設定します。
 
