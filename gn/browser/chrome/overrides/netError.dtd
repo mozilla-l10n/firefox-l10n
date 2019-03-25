@@ -161,6 +161,9 @@ Pe arapapaha ne mohendaha rehegua oĩporã <span id='wrongSystemTime_systemDate2
 
 <!ENTITY blockedByPolicy.title "Kuatiarogue jokopyre">
 
+<!ENTITY certerror.mitm.title "Ko software ojokohína &brandShortName; ani oike ko tendápe tekorasãme">
+<!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> ha’évaicha tenda hekorasãva, hákatu ndaikatúi eike tekorasãme. Ko apañuãi ojehu <span class='mitm-name'/> rupi, ha’éva software ne mohendaha térã ne ñandutípe.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "Eiméramo peteĩ ñanduti atyguávape, ikatu eñomongeta IT vore ndive.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "Ndereikuaa porãiramo ko <span class='mitm-name'/>, upéicharõ kóva ikatu mba’evai ha ani eike tendápe.">
 <!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "Ndereikuaa porãiramo ko <span class='mitm-name'/>, upéicharõ kóva ikatu mba’evai ha ani ejapo mba’eve eike hag̃ua tendápe.">
 

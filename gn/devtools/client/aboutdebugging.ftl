@@ -72,6 +72,8 @@ about-debugging-setup-this-firefox = Eipuru <a>{ about-debugging-this-firefox-ru
 about-debugging-setup-connect-heading = Embojuaju peteĩ mba'e'oka
 # USB section of the Setup page
 about-debugging-setup-usb-title = USB
+# Explanatory text displayed in the Setup page when USB debugging is disabled
+about-debugging-setup-usb-disabled = Embojurujáramo ko jeporavorã, oñemboguejy ha oñembojuajúta mopotĩha tekotevẽva Android USB { -brand-shorter-name } peg̃uarã.
 # Text of the button displayed in the USB section of the setup page when USB debugging is disabled.
 # Clicking on it will download components needed to debug USB Devices remotely.
 about-debugging-setup-usb-enable-button = Embojuruja USB mba’e’oka
@@ -84,6 +86,10 @@ about-debugging-setup-usb-updating-button = Hekopyahuhína...
 about-debugging-setup-usb-status-enabled = Jurujapyre
 about-debugging-setup-usb-status-disabled = Pe'apyre
 about-debugging-setup-usb-status-updating = Hekopyahuhína...
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-dev-menu = Embojuruja mboguatahára poravorã ne Android mba’e’okápe. <a>Ehecha mba’éichapa</a>
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug = Embojuruja mopotĩha poravorã ne Android mboguatahára poravorãme. <a>Ehecha mba’éichapa</a>
 # USB section step by step guide
 about-debugging-setup-usb-step-plug-device = Embojuaju Android mba’e’oka ne mohendaha rehe.
 # Network section of the Setup page
