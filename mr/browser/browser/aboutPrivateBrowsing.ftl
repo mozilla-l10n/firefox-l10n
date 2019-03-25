@@ -17,3 +17,4 @@ about-private-browsing-info-cookies = कुकिज
 tracking-protection-start-tour = हे कसे काम करते ते पहा
 about-private-browsing-note = खाजगी ब्राउझिंग <strong>आपणास निनावी बनवीत नाही</strong> इंटरनेट वर. आपला नियोक्त्याला किंवा इंटरनेट सेवा प्रदात्याला आपण भेट दिलेल्या पृष्ठांची माहिती असते.
 about-private-browsing-not-private = आपण सध्या खाजगी पटलात नाही.
+content-blocking-title = मजकूर अवरोधन
