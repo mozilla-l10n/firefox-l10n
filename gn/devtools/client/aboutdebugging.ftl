@@ -91,6 +91,8 @@ about-debugging-setup-usb-step-enable-dev-menu = Embojuruja mboguatahára poravo
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-debug = Embojuruja mopotĩha poravorã ne Android mboguatahára poravorãme. <a>Ehecha mba’éichapa</a>
 # USB section step by step guide
+about-debugging-setup-usb-step-enable-debug-firefox = Embojuruja USB mopotĩha Firefox-pe ne Android mba’e’okápe. <a>Ehecha mba’éichapa</a>
+# USB section step by step guide
 about-debugging-setup-usb-step-plug-device = Embojuaju Android mba’e’oka ne mohendaha rehe.
 # Network section of the Setup page
 about-debugging-setup-network =
@@ -107,6 +109,14 @@ about-debugging-network-locations-host-input-label = Tendaygua
 # Text of a button displayed next to existing network locations in the Connect page.
 # Clicking on it removes the network location from the list.
 about-debugging-network-locations-remove-button = Hekýi
+# Text used as error message if the format of the input value was invalid in the network locations form of the Setup page.
+# Variables:
+#   $host-value (string) - The input value submitted by the user in the network locations form
+about-debugging-network-location-form-invalid = Mbohupa ndoikóiva "{ $host-value }". Pe ysaja oñeha’arõva ha’e “hostname:portnumber”.
+# Text used as error message if the input value was already registered in the network locations form of the Setup page.
+# Variables:
+#   $host-value (string) - The input value submitted by the user in the network locations form
+about-debugging-network-location-form-duplicate = Pe Mbohupa “{ $host-value }” oñemboheraguapýma
 
 # Runtime Page strings
 
