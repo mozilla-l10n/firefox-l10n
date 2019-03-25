@@ -16,7 +16,7 @@ update-adminDisabled = Iasi anapu ampe enka no tsinharhitini jaka xanhatatirini 
 update-otherInstanceHandlingUpdates = { -brand-short-name } iasi anapu 'ukuatsati materu jasî anapu jimpo
 update-manual = Ixuri exeantauaka sánteru jimpanhechani <label data-l10n-name="manual-link"/>
 update-unsupported = Noteru úatiksi úkauni santeru iasi anapu ampeecha arini miiunharhitakuani jimpo. <label data-l10n-name="unsupported-link">Sánteru mítini</label>
-channel-description = Jirukutapaxakari <label data-l10n-name="current-channel"></label> jimpanherantskueri ampe.{ " " }
+channel-description = Jirukutapaxakari <label data-l10n-name="current-channel"></label> jimpanherantskueri ampe.
 warningDesc-version = { -brand-short-name } mónharhintani jámsïnti jimpoka yásï ts'éjkukueska.
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label>Maesti<label data-l10n-name="community-exp-creditsLink">Parhakpini anapuecha</label>Mak'u ánchikwarhiparini jimpok'a web mentku mitakwarhitini jawaka.
 community-2 = { -brand-short-name } nésï eratsekuntani jaki <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, ma <label data-l10n-name="community-creditsLink">yapurisï anapuecha</label> yámituechaksï úati mítani ka exeni jimpokaksï márku jauaka ka méntku mítakurhitini jauati.
