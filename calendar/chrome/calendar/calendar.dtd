@@ -178,6 +178,7 @@
 <!ENTITY calendar.context.attendance.menu.label                 "การเข้าร่วมประชุม">
 <!ENTITY calendar.context.attendance.menu.accesskey             "ก">
 <!ENTITY calendar.context.attendance.occurrence.label           "เหตุการณ์นี้">
+<!ENTITY calendar.context.attendance.all2.label                 "ชุดข้อมูลแบบสมบูรณ์">
 <!ENTITY calendar.context.attendance.send.label                 "ส่งการแจ้งเตือนตอนนี้">
 <!ENTITY calendar.context.attendance.send.accesskey             "ส">
 <!ENTITY calendar.context.attendance.dontsend.label             "ไม่ส่งการแจ้งเตือน">
@@ -193,17 +194,65 @@
 <!ENTITY calendar.context.attendance.occ.delegated.label        "มอบหมาย">
 <!ENTITY calendar.context.attendance.occ.needsaction.accesskey  "ย">
 <!ENTITY calendar.context.attendance.occ.needsaction.label      "ยังต้องการการกระทำ">
+<!ENTITY calendar.context.attendance.occ.inprogress.accesskey   "ด">
+<!ENTITY calendar.context.attendance.occ.inprogress.label       "ดำเนินการอยู่">
+<!ENTITY calendar.context.attendance.occ.completed.accesskey    "ส">
+<!ENTITY calendar.context.attendance.occ.completed.label        "เสร็จสมบูรณ์">
 
+<!ENTITY calendar.context.attendance.all.accepted.accesskey     "ย">
+<!ENTITY calendar.context.attendance.all.accepted.label         "ยอมรับ">
+<!ENTITY calendar.context.attendance.all.tentative.accesskey    "อ">
+<!ENTITY calendar.context.attendance.all.tentative.label        "ยอมรับอย่างไม่แน่นอน">
+<!ENTITY calendar.context.attendance.all.declined.accesskey     "ป">
+<!ENTITY calendar.context.attendance.all.declined.label         "ปฏิเสธ">
+<!ENTITY calendar.context.attendance.all.delegated.accesskey    "ม">
+<!ENTITY calendar.context.attendance.all.delegated.label        "มอบหมาย">
+<!ENTITY calendar.context.attendance.all.needsaction.accesskey  "ย">
+<!ENTITY calendar.context.attendance.all.needsaction.label      "ยังต้องการการกระทำ">
+<!ENTITY calendar.context.attendance.all.inprogress.accesskey   "ด">
+<!ENTITY calendar.context.attendance.all.inprogress.label       "ดำเนินการอยู่">
+<!ENTITY calendar.context.attendance.all.completed.accesskey    "ส">
+<!ENTITY calendar.context.attendance.all.completed.label        "เสร็จสมบูรณ์">
 
 <!-- Task Context Menu -->
+<!ENTITY calendar.context.progress.label              "ความคืบหน้า">
+<!ENTITY calendar.context.progress.accesskey          "ค">
+<!ENTITY calendar.context.priority.label              "ความสำคัญ">
+<!ENTITY calendar.context.priority.accesskey          "ว">
+<!ENTITY calendar.context.postpone.label              "เลื่อนงาน">
+<!ENTITY calendar.context.postpone.accesskey          "ล">
 
-<!--=percent sign-->
+<!ENTITY percnt "&#38;#37;" ><!--=percent sign-->
 
 <!ENTITY calendar.context.markcompleted.label     "ทำเครื่องหมายว่าเสร็จสมบูรณ์">
 <!ENTITY calendar.context.markcompleted.accesskey "ท">
 
+<!ENTITY progress.level.0             "เสร็จสมบูรณ์ 0&percnt;">
+<!ENTITY progress.level.0.accesskey   "0">
+<!ENTITY progress.level.25            "เสร็จสมบูรณ์ 25&percnt;">
+<!ENTITY progress.level.25.accesskey  "2">
+<!ENTITY progress.level.50            "เสร็จสมบูรณ์ 50&percnt;">
+<!ENTITY progress.level.50.accesskey  "5">
+<!ENTITY progress.level.75            "เสร็จสมบูรณ์ 75&percnt;">
+<!ENTITY progress.level.75.accesskey  "7">
+<!ENTITY progress.level.100            "เสร็จสมบูรณ์ 100&percnt;">
+<!ENTITY progress.level.100.accesskey  "1">
 
+<!ENTITY priority.level.none                "ไม่ระบุ">
+<!ENTITY priority.level.none.accesskey      "ม">
+<!ENTITY priority.level.low                 "ต่ำ">
+<!ENTITY priority.level.low.accesskey       "ต">
+<!ENTITY priority.level.normal              "ปกติ">
+<!ENTITY priority.level.normal.accesskey    "ป">
+<!ENTITY priority.level.high                "สูง">
+<!ENTITY priority.level.high.accesskey      "ส">
 
+<!ENTITY calendar.context.postpone.1hour.label      "1 ชั่วโมง">
+<!ENTITY calendar.context.postpone.1hour.accesskey  "ช">
+<!ENTITY calendar.context.postpone.1day.label       "1 วัน">
+<!ENTITY calendar.context.postpone.1day.accesskey   "ว">
+<!ENTITY calendar.context.postpone.1week.label      "1 สัปดาห์">
+<!ENTITY calendar.context.postpone.1week.accesskey  "ส">
 
 <!ENTITY calendar.copylink.label       "คัดลอกตำแหน่งที่ตั้งลิงก์">
 <!ENTITY calendar.copylink.accesskey   "ค">
@@ -235,25 +284,52 @@
 <!ENTITY calendar.context.publish.accesskey            "ผ">
 <!ENTITY calendar.context.export.label                 "ส่งออกปฏิทิน…">
 <!ENTITY calendar.context.export.accesskey             "ส">
+<!ENTITY calendar.context.properties.label             "คุณสมบัติ">
+<!ENTITY calendar.context.properties.accesskey         "ค">
 
 <!-- LOCALIZATION NOTE (calendar.context.showcalendar.accesskey)
      This is the access key used for the showCalendar string -->
+<!ENTITY calendar.context.showcalendar.accesskey      "ส">
 
 <!-- LOCALIZATION NOTE (calendar.context.hidecalendar.accesskey)
      This is the access key used for the hideCalendar string -->
+<!ENTITY calendar.context.hidecalendar.accesskey      "อ">
 
 <!-- LOCALIZATION NOTE (calendar.context.showonly.accesskey)
      This is the access key used for the showOnlyCalendar string -->
+<!ENTITY calendar.context.showonly.accesskey           "ช">
+<!ENTITY calendar.context.showall.label                "แสดงปฏิทินทั้งหมด">
+<!ENTITY calendar.context.showall.accesskey            "ส">
 
+<!ENTITY calendar.context.convertmenu.label              "แปลงเป็น">
+<!ENTITY calendar.context.convertmenu.accesskey.mail     "ป">
+<!ENTITY calendar.context.convertmenu.accesskey.calendar "ป">
+<!ENTITY calendar.context.convertmenu.event.label        "เหตุการณ์…">
+<!ENTITY calendar.context.convertmenu.event.accesskey    "ห">
+<!ENTITY calendar.context.convertmenu.message.label      "ข้อความ…">
+<!ENTITY calendar.context.convertmenu.message.accesskey  "ข">
+<!ENTITY calendar.context.convertmenu.task.label         "งาน…">
+<!ENTITY calendar.context.convertmenu.task.accesskey     "ง">
 
+<!ENTITY calendar.tasks.view.minimonth.label           "เดือนขนาดเล็ก">
+<!ENTITY calendar.tasks.view.minimonth.accesskey       "ด">
 
+<!ENTITY calendar.tasks.view.calendarlist.label        "รายการปฏิทิน">
+<!ENTITY calendar.tasks.view.calendarlist.accesskey    "ร">
 
+<!ENTITY calendar.tasks.view.filtertasks.label           "กรองงาน">
+<!ENTITY calendar.tasks.view.filtertasks.accesskey       "ก">
 
 <!-- Calendar Alarm Dialog -->
 
 <!ENTITY calendar.alarm.location.label              "ตำแหน่งที่ตั้ง:" >
 <!ENTITY calendar.alarm.details.label               "รายละเอียด…" >
 
+<!ENTITY calendar.alarm.snoozefor.label             "เลื่อนไป" >
+<!ENTITY calendar.alarm.snoozeallfor.label          "เลือกทั้งหมดไป" >
+<!ENTITY calendar.alarm.title.label                 "การเตือนความจำปฏิทิน" >
+<!ENTITY calendar.alarm.dismiss.label               "ยกเลิก" >
+<!ENTITY calendar.alarm.dismissall.label            "ยกเลิกทั้งหมด" >
 
 <!ENTITY calendar.alarm.snooze.5minutes.label       "5 นาที" >
 <!ENTITY calendar.alarm.snooze.10minutes.label      "10 นาที" >
@@ -268,6 +344,7 @@
      This string is not seen in the UI, it is read by screen readers when the
      user focuses the "Cancel" button in the "Snooze for..." popup of the alarm
      dialog. -->
+<!ENTITY calendar.alarm.snooze.cancel               "ยกเลิกการเลื่อน">
 
 <!-- Calendar Server Dialog -->
 <!ENTITY calendar.server.dialog.title.edit          "แก้ไขปฏิทิน">
@@ -277,9 +354,17 @@
 <!ENTITY calendarproperties.color.label                    "สี:">
 <!ENTITY calendarproperties.webdav.label                   "iCalendar (ICS)">
 <!ENTITY calendarproperties.caldav.label                   "CalDAV">
+<!ENTITY calendarproperties.wcap.label                     "Sun Java System Calendar Server (WCAP)">
 <!ENTITY calendarproperties.format.label                   "รูปแบบ:">
 <!ENTITY calendarproperties.location.label                 "ตำแหน่งที่ตั้ง:">
+<!ENTITY calendarproperties.refreshInterval.label          "เรียกปฏิทินใหม่:">
+<!ENTITY calendarproperties.refreshInterval.manual.label   "ด้วยตนเอง">
 <!ENTITY calendarproperties.name.label                     "ชื่อ:">
+<!ENTITY calendarproperties.readonly.label                 "อ่านอย่างเดียว">
+<!ENTITY calendarproperties.firealarms.label               "แสดงการเตือนความจำ">
+<!ENTITY calendarproperties.cache3.label                   "การสนับสนุนออฟไลน์">
+<!ENTITY calendarproperties.enabled.label                  "เปิดปฏิทินนี้">
+<!ENTITY calendarproperties.forceDisabled.label            "ไม่พบผู้ให้บริการสำหรับปฏิทินนี้ สิ่งนี้มักจะเกิดขึ้นหากคุณปิดใช้งานหรือถอนการติดตั้งส่วนเสริมบางตัว">
 <!ENTITY calendarproperties.unsubscribe.label              "เลิกบอกรับ">
 <!ENTITY calendarproperties.unsubscribe.accesskey          "ล">
 
@@ -289,6 +374,7 @@
 <!ENTITY calendar.publish.publish.button      "เผยแพร่">
 <!ENTITY calendar.publish.close.button      "ปิด">
 
+<!ENTITY calendar.publish.example.url.description   "บางอย่างเช่น http://www.myserver.com/webdav/test.ics">
 
 <!-- Select Calendar Dialog -->
 <!ENTITY calendar.select.dialog.title    "เลือกปฏิทิน">
@@ -319,3 +405,5 @@
 <!-- Extract buttons in message header -->
 <!ENTITY calendar.extract.event.button         "เพิ่มเป็นเหตุการณ์">
 <!ENTITY calendar.extract.task.button          "เพิ่มเป็นงาน">
+<!ENTITY calendar.extract.event.button.tooltip "แยกข้อมูลปฏิทินจากข้อความและเพิ่มลงในปฏิทินของคุณเป็นเหตุการณ์">
+<!ENTITY calendar.extract.task.button.tooltip  "แยกข้อมูลปฏิทินจากข้อความและเพิ่มลงในปฏิทินของคุณเป็นงาน">
