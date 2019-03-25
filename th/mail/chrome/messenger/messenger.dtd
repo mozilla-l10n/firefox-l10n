@@ -162,6 +162,8 @@
 <!ENTITY findAgainCmd.label "ค้นหาอีกครั้ง">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.key2 "VK_F3">
+<!ENTITY searchMailCmd.label "ค้นหาข้อความ…">
+<!ENTITY searchAddressesCmd.label "ค้นหาที่อยู่…">
 
 <!-- Go Menu -->
 
