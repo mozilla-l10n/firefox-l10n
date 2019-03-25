@@ -392,14 +392,42 @@
 <!ENTITY manageTags.label "จัดการป้ายกำกับ…">
 
 <!-- Folder Pane -->
+<!ENTITY folderNameColumn.label "ชื่อ">
+<!ENTITY folderUnreadColumn.label "ยังไม่ได้อ่าน">
+<!ENTITY folderTotalColumn.label "รวมทั้งหมด">
+<!ENTITY folderSizeColumn.label "ขนาด">
 
 <!-- Folder Pane Context Menu -->
+<!ENTITY folderContextGetMessages.label "รับข้อความ">
+<!ENTITY folderContextMarkAllFoldersRead.label "ทำเครื่องหมายโฟลเดอร์ทั้งหมดว่าอ่านแล้ว">
+<!ENTITY folderContextPauseAllUpdates.label "หยุดการอัปเดตทั้งหมดชั่วคราว">
+<!ENTITY folderContextPauseUpdates.label "หยุดการอัปเดตชั่วคราว">
+<!ENTITY folderContextOpenInNewWindow.label "เปิดในหน้าต่างใหม่">
+<!ENTITY folderContextOpenNewTab.label "เปิดในแท็บใหม่">
+<!ENTITY folderContextNew.label "โฟลเดอร์ย่อยใหม่…">
+<!ENTITY folderContextRename.label "เปลี่ยนชื่อ">
+<!ENTITY folderContextRemove.label "ลบ">
+<!ENTITY folderContextCompact.label "กระชับ">
+<!ENTITY folderContextEmptyTrash.label "ล้างข้อมูลในถังขยะ">
+<!ENTITY folderContextEmptyJunk.label "ล้างขยะ">
+<!ENTITY folderContextSendUnsentMessages.label "ส่งข้อความที่ไม่ได้ส่ง">
+<!ENTITY folderContextUnsubscribe.label "เลิกบอกรับ">
+<!ENTITY folderContextMarkNewsgroupRead.label "ทำเครื่องหมายกลุ่มข่าวว่าอ่านแล้ว">
+<!ENTITY folderContextMarkMailFolderRead.label "ทำเครื่องหมายโฟลเดอร์ว่าอ่านแล้ว">
+<!ENTITY folderContextSubscribe.label "บอกรับ…">
+<!ENTITY folderContextSearchForMessages.label "ค้นหาข้อความ…">
+<!ENTITY folderContextProperties2.label "คุณสมบัติ">
+<!ENTITY folderContextFavoriteFolder.label "โฟลเดอร์โปรด">
+<!ENTITY folderContextSettings2.label "การตั้งค่า">
 
 <!-- Search Bar -->
+<!ENTITY SearchNameOrEmail.label "ชื่อหรืออีเมลมี:">
 
 <!-- Gloda Search Bar -->
+<!ENTITY glodaSearchBar.placeholder "ค้นหาข้อความ…">
 
 <!-- Quick Search Menu Bar -->
+<!ENTITY saveAsVirtualFolderMenu.label "บันทึกการค้นหาเป็นโฟลเดอร์…">
 
 <!-- Thread Pane -->
 
