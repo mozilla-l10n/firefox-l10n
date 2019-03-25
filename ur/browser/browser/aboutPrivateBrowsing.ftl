@@ -12,6 +12,7 @@ about-private-browsing-info-searches = تلاش شدہ
 about-private-browsing-info-downloads = ڈاؤن لوڈ
 private-browsing-title = نجی براوزنگ
 about-private-browsing-info-saved = { -brand-short-name } <strong>محفوظ کریں گا</strong> تمھارا:
+about-private-browsing-info-clipboard = نقل شدہ متن
 about-private-browsing-info-temporary-files = عارضی مسلیں
 about-private-browsing-info-cookies = کوکی
 tracking-protection-start-tour = دیکھیں کہ یہ کیسے کام کرتا ہے
