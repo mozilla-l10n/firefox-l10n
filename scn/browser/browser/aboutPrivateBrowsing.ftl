@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-private-browsing-learn-more = Cchiú nfurmazzioni supra la <a data-l10n-name="learn-more">Navigazzioni ammucciata</a>.
+about-private-browsing-info-visited = pàggini visitati
 privatebrowsingpage-open-private-window-label = Grapi na finestra ammucciata
     .accesskey = a
 about-private-browsing-info-bookmarks = nzingalibbra
