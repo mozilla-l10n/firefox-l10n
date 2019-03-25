@@ -13,6 +13,7 @@ about-private-browsing-info-title = أنت في نافذة خاصة
 about-private-browsing-info-searches = عمليات البحث
 about-private-browsing-info-downloads = تنزيلاتك
 private-browsing-title = التصفح الخاص
+about-private-browsing-info-saved = <strong>سيحفظ</strong> فَيَرفُكس:
 about-private-browsing-info-myths = الخرافات الشائعة بخصوص التصفح الخاص
 about-private-browsing-info-clipboard = النصوص المنسوخة
 about-private-browsing-info-temporary-files = الملفات المؤقتة
