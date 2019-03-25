@@ -15,4 +15,5 @@ about-private-browsing-info-saved = { -brand-short-name }-ը <strong>կպահի<
 about-private-browsing-info-temporary-files = ժամանակավոր ֆայլերը
 about-private-browsing-info-cookies = cookie-ները
 tracking-protection-start-tour = Տեսեք, թե ինչպես է այն աշխատում
+about-private-browsing-note = Գաղտնի Դիտարկումը <strong>չի դարձնում ձեզ անանուն</strong> համացանցում: Ձեր գործատուն կամ ինտերնետի մատակարարը դեռ կարող են հետագծել ձեր այցելած էջերը:
 about-private-browsing-not-private = Այժմ դուք Գաղտնի դիտարկման էջում չեք։
