@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+about-private-browsing-learn-more = Докладніше про <a data-l10n-name="learn-more">Приватний перегляд</a>.
 about-private-browsing-info-visited = відвідані сторінки
 privatebrowsingpage-open-private-window-label = Відкрити приватне вікно
     .accesskey = п
