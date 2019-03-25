@@ -94,9 +94,101 @@ about-debugging-setup-usb-step-enable-debug = Skeakelje USB-flateropspoaring yn 
 about-debugging-setup-usb-step-enable-debug-firefox = Skeakelje USB-debugging yn Firefox op it Android-apparaat yn. <a>Mear ynfo</a>
 # USB section step by step guide
 about-debugging-setup-usb-step-plug-device = Ferbyn it Android-apparaat mei jo kompjûter.
+# Network section of the Setup page
+about-debugging-setup-network =
+    .title = Netwurklokaasje
+# Text of a button displayed after the network locations "Host" input.
+# Clicking on it will add the new network location to the list.
+about-debugging-network-locations-add-button = Tafoegje
+# Text to display when there are no locations to show.
+about-debugging-network-locations-empty-text = Der binne noch gjin netwurklokaasjes tafoege.
+# Text of the label for the text input that allows users to add new network locations in
+# the Connect page. A host is a hostname and a port separated by a colon, as suggested by
+# the input's placeholder "localhost:6080".
+about-debugging-network-locations-host-input-label = Host
+# Text of a button displayed next to existing network locations in the Connect page.
+# Clicking on it removes the network location from the list.
+about-debugging-network-locations-remove-button = Fuortsmite
+# Text used as error message if the format of the input value was invalid in the network locations form of the Setup page.
+# Variables:
+#   $host-value (string) - The input value submitted by the user in the network locations form
+about-debugging-network-location-form-invalid = Unjildige host ‘{ $host-value }’. De ferwachte notaasje is ‘hostnamme:poartenûmer’.
+# Text used as error message if the input value was already registered in the network locations form of the Setup page.
+# Variables:
+#   $host-value (string) - The input value submitted by the user in the network locations form
+about-debugging-network-location-form-duplicate = De host ‘{ $host-value }’ is al registrearre
 
 # Runtime Page strings
 
+# Below are the titles for the various categories of debug targets that can be found
+# on "runtime" pages of about:debugging.
+# Title of the temporary extensions category (only available for "This Firefox" runtime).
+about-debugging-runtime-temporary-extensions =
+    .name = Tydlike útwreidingen
+# Title of the extensions category.
+about-debugging-runtime-extensions =
+    .name = Utwreidingen
+# Title of the tabs category.
+about-debugging-runtime-tabs =
+    .name = Ljepblêden
+# Title of the service workers category.
+about-debugging-runtime-service-workers =
+    .name = Service Workers
+# Title of the shared workers category.
+about-debugging-runtime-shared-workers =
+    .name = Shared Workers
+# Title of the other workers category.
+about-debugging-runtime-other-workers =
+    .name = Oare Workers
+# Title of the processes category.
+about-debugging-runtime-processes =
+    .name = Prosessen
+# Label of the button opening the performance profiler panel in runtime pages for remote
+# runtimes.
+about-debugging-runtime-profile-button = Profylruntime
+# This string is displayed in the runtime page if the current configuration of the
+# target runtime is incompatible with service workers. "Learn more" points to MDN.
+# https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
+about-debugging-runtime-service-workers-not-compatible = Jo browserkonfiguraasje is net kompatibel mei Service Workers. <a>Mear ynfo</a>
+# This string is displayed in the runtime page if the remote runtime version is too old.
+# "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/WebIDE/Troubleshooting
+# { $runtimeVersion } is the version of the remote runtime (for instance "67.0a1")
+# { $minVersion } is the minimum version that is compatible with the current Firefox instance (same format)
+about-debugging-runtime-version-too-old = De ferbûne runtime hat in âlde ferzje ({ $runtimeVersion }). De minimaal stipe ferzje is ({ $minVersion }). Dizze konfiguraasje wurdt net stipe en kin derfoar soargje dat DevTools net goed wurket. Wurkje de ferbûne runtime by. <a>Probleemoplossing</a>
+# Dedicated message for a backward compatibility issue that occurs when connecting:
+# - from Fx 67 to 66 or to 65
+# - from Fx 68 to 66
+# Those are normally in range for DevTools compatibility policy, but specific non
+# backward compatible changes broke the debugger in those scenarios (Bug 1528219).
+# { $runtimeVersion } is the version of the remote runtime (for instance "67.0a1")
+about-debugging-runtime-version-too-old-67-debugger = It Debugger-paniel wurket mooglik net mei de ferbûne runtime. Brûk Firefox { $runtimeVersion } as jo de Debugger mei dizze runtime brûke moatte.
+# This string is displayed in the runtime page if the remote runtime version is too recent.
+# "Troubleshooting" link points to https://developer.mozilla.org/en-US/docs/Tools/WebIDE/Troubleshooting
+# { $runtimeID } is the build ID of the remote runtime (for instance "20181231", format is yyyyMMdd)
+# { $localID } is the build ID of the current Firefox instance (same format)
+# { $runtimeVersion } is the version of the remote runtime (for instance "67.0a1")
+# { $localVersion } is the version of your current runtime (same format)
+about-debugging-runtime-version-too-recent = De ferbûne runtime is resinter ({ $runtimeVersion }, buildID { $runtimeID }) as jo { -brand-shorter-name } ({ $localVersion }, buildID { $localID }). Dizze konfiguraasje wurdt net stipe en kin derfoar soargje dat DevTools net goed wurket. Wurkje Firefox by. <a>Probleemoplossing</a>
+# Displayed for runtime info in runtime pages.
+# { $name } is brand name such as "Firefox Nightly"
+# { $version } is version such as "64.0a1"
+about-debugging-runtime-name = { $name } ({ $version })
+# Text of a button displayed in Runtime pages for remote runtimes.
+# Clicking on the button will close the connection to the runtime.
+about-debugging-runtime-disconnect-button = Ferbrekke
+# Text of the connection prompt button displayed in Runtime pages, when the preference
+# "devtools.debugger.prompt-connection" is false on the target runtime.
+about-debugging-connection-prompt-enable-button = Ferbiningsprompt ynskeakelje
+# Text of the connection prompt button displayed in Runtime pages, when the preference
+# "devtools.debugger.prompt-connection" is true on the target runtime.
+about-debugging-connection-prompt-disable-button = Ferbiningsprompt útskeakelje
+# Title of a modal dialog displayed on remote runtime pages after clicking on the Profile Runtime button.
+about-debugging-profiler-dialog-title = Prestaasjes-profiler
+# Label of a checkbox displayed in the runtime page for "This Firefox".
+# This checkbox will toggle preferences that enable local addon debugging.
+# The "Learn more" link points to MDN.
+# https://developer.mozilla.org/docs/Tools/about:debugging#Enabling_add-on_debugging
+about-debugging-extension-debug-setting-label = Utwreidingsdebugging ynskeakelje. <a>Mear ynfo</a>
 
 # Debug Targets strings
 
