@@ -19,3 +19,4 @@ tracking-protection-start-tour = Ni'iaj dà 'iaj sunj
 about-private-browsing-note = Gachenu hùi'<strong>Nitaj hua huì nunt</strong>riña internet. Si aga't na ni ni'in riña aché nut
 about-private-browsing-not-private = Se riña ventana hua huìi nut akuan' nï
 content-blocking-title = Garrun' riña kontenido
+content-blocking-description = Hua da'aj nej sîtio ni nikaj man sa naga'naj ga'ue ni'iaj sa 'iát nga aché nunt riña internet. Riña nej bentanâ huìi, sa narán riña nej sa hua nikaj { -brand-short-name } ni narán man'an man riña nej sa naga'naj nan.
