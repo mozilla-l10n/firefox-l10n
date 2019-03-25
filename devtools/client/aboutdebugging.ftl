@@ -71,6 +71,12 @@ about-debugging-setup-usb-status-enabled = Habilitado
 about-debugging-setup-usb-status-disabled = Deshabilitado
 about-debugging-setup-usb-status-updating = Actualizando...
 # USB section step by step guide
+about-debugging-setup-usb-step-enable-dev-menu = Habilitar menú de desarrollador en su dispositivo Android. <a>Descubrir cómo</a>
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug = Habilitar depuración de USB en el menú desarrollador de Android. <a>Descubrir cómo</a>
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug-firefox = Habilitar depuración de USB en Firefox en su dispositivo Android. <a>Descubrir cómo</a>
+# USB section step by step guide
 about-debugging-setup-usb-step-plug-device = Conectar el dispositivo Android a su equipo.
 # Text of a button displayed after the network locations "Host" input.
 # Clicking on it will add the new network location to the list.
@@ -126,3 +132,6 @@ about-debugging-extension-id =
     .label = ID de la extensión
 # This string is displayed as a label of the button that starts a service worker.
 about-debugging-worker-action-start = Iniciar
+# Displayed as name for the Main Process debug target in the Processes category. Only for
+# remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
+about-debugging-main-process-name = Proceso principal
