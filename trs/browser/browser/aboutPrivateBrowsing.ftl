@@ -12,6 +12,7 @@ about-private-browsing-info-searches = Nej sa nanan'uî'
 about-private-browsing-info-downloads = Naduninj
 private-browsing-title = Gachenu hùi'
 about-private-browsing-info-saved = { -brand-short-name }<strong>Nanïnj sà'aj</strong>si:
+about-private-browsing-info-clipboard = guxun nuguan'an ni nachrunt a'ngo hiuj u
 about-private-browsing-info-temporary-files = Ñanj nitaj si nu yitïnj ïn
 about-private-browsing-info-cookies = cookies
 tracking-protection-start-tour = Ni'iaj dà 'iaj sunj
