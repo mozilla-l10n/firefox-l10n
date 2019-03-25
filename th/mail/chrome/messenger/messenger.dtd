@@ -166,13 +166,96 @@
 <!ENTITY searchAddressesCmd.label "ค้นหาที่อยู่…">
 
 <!-- Go Menu -->
+<!ENTITY goMenu.label "ไป">
+<!ENTITY nextMenu.label "ถัดไป">
+<!ENTITY nextMsgCmd.label "ข้อความ">
+<!ENTITY nextUnreadMsgCmd.label "ข้อความที่ยังไม่ได้อ่าน">
+<!ENTITY nextStarredMsgCmd.label "ข้อความที่ติดดาว">
+<!ENTITY nextUnreadThread.label "หัวข้อที่ยังไม่ได้อ่าน">
+<!ENTITY prevMenu.label "ก่อนหน้า">
+<!ENTITY prevMsgCmd.label "ข้อความ">
+<!ENTITY prevUnreadMsgCmd.label "ข้อความที่ยังไม่ได้อ่าน">
+<!ENTITY goForwardCmd.label "เดินหน้า">
+<!ENTITY goForwardCmd.commandKey "]">
+<!ENTITY goBackCmd.label "ย้อนกลับ">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goChatCmd.label "แชท">
+<!ENTITY prevStarredMsgCmd.label "ข้อความที่ติดดาว">
+<!ENTITY folderMenu.label "โฟลเดอร์">
+<!ENTITY goRecentlyClosedTabs.label "แท็บที่เพิ่งปิด">
+<!ENTITY startPageCmd.label "หน้าเริ่มต้นจดหมาย">
 
 <!-- Message Menu -->
-<!-- do not change "VK_RETURN" -->
+<!ENTITY msgMenu.label "ข้อความ">
+<!ENTITY newMsgCmd.label "ข้อความใหม่">
+<!ENTITY newNewMsgCmd.label "ข้อความ">
+<!ENTITY archiveMsgCmd.label "เก็บถาวร">
+<!ENTITY cancelNewsMsgCmd.label "ยกเลิกข้อความ">
+<!ENTITY replyMsgCmd.label "ตอบกลับ">
+<!ENTITY replySenderCmd.label "ตอบกลับถึงผู้ส่งเท่านั้น">
+<!ENTITY replyNewsgroupCmd2.label "ติดตามถึงกลุ่มข่าว">
+<!ENTITY replyToAllMsgCmd.label "ตอบกลับถึงทั้งหมด">
+<!ENTITY replyToListMsgCmd.label "ตอบกลับถึงรายการ">
+<!ENTITY forwardMsgCmd.label "ส่งต่อ">
+<!ENTITY forwardAsMenu.label "ส่งต่อเป็น">
+<!ENTITY forwardAsInline.label "อินไลน์">
+<!ENTITY forwardAsAttachmentCmd.label "ไฟล์แนบ">
+<!ENTITY editAsNewMsgCmd.label "แก้ไขเป็นข้อความใหม่">
+<!ENTITY editDraftMsgCmd.label "แก้ไขข้อความฉบับร่าง">
+<!ENTITY editTemplateMsgCmd.label "แก้ไขแม่แบบ">
+<!ENTITY newMsgFromTemplateCmd.label "ข้อความใหม่จากแม่แบบ">
+<!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN"><!-- do not change "VK_RETURN" -->
+<!ENTITY createFilter.label "สร้างตัวกรองจากข้อความ…">
+<!ENTITY moveMsgToMenu.label "ย้ายไปยัง">
+<!ENTITY moveCopyMsgRecentMenu.label "ล่าสุด">
+<!ENTITY copyMessageLocation.label "คัดลอกตำแหน่งที่ตั้งข้อความ">
+<!ENTITY copyMsgToMenu.label "คัดลอกไปยัง">
+<!ENTITY moveToFolderAgain.label "ย้ายอีกครั้ง">
+<!ENTITY killThreadMenu.label "เพิกเฉยหัวข้อ">
+<!ENTITY killSubthreadMenu.label "เพิกเฉยหัวข้อย่อย">
+<!ENTITY watchThreadMenu.label "เฝ้าดูหัวข้อ">
+<!ENTITY tagMenu.label "ป้ายกำกับ">
+<!ENTITY tagCmd0.key "0">
+<!ENTITY tagCmd1.key "1">
+<!ENTITY tagCmd2.key "2">
+<!ENTITY tagCmd3.key "3">
+<!ENTITY tagCmd4.key "4">
+<!ENTITY tagCmd5.key "5">
+<!ENTITY tagCmd6.key "6">
+<!ENTITY tagCmd7.key "7">
+<!ENTITY tagCmd8.key "8">
+<!ENTITY tagCmd9.key "9">
+<!ENTITY markMenu.label "ทำเครื่องหมาย">
+<!ENTITY markAsReadCmd.label "ว่าอ่านแล้ว">
+<!ENTITY markAsUnreadCmd.label "ว่ายังไม่ได้อ่าน">
+<!ENTITY markThreadAsReadCmd.label "หัวข้อว่าอ่านแล้ว">
+<!ENTITY markReadByDateCmd.label "ว่าอ่านแล้วตามวันที่…">
+<!ENTITY markAllReadCmd.label "ทั้งหมดว่าอ่านแล้ว">
+<!ENTITY markStarredCmd.label "เพิ่มดาว">
+<!ENTITY markAsJunkCmd.label "ว่าเป็นขยะ">
+<!ENTITY markAsNotJunkCmd.label "ว่าไม่เป็นขยะ">
+<!ENTITY recalculateJunkScoreCmd.label "เรียกใช้การควบคุมจดหมายขยะ">
+<!ENTITY openMessageWindowCmd.label "เปิดข้อความ">
+<!ENTITY openInConversationCmd.label "เปิดในการสนทนา">
+<!ENTITY openAttachmentListCmd.label "ไฟล์แนบ">
+<!ENTITY openFeedMessage1.label "เมื่อเปิดข้อความฟีด">
+<!ENTITY openFeedWebPage.label "เปิดเป็นหน้าเว็บ">
+<!ENTITY openFeedSummary.label "เปิดเป็นข้อมูลสรุป">
+<!ENTITY openFeedWebPageInMP.label "เปิด/ปิดหน้าเว็บและข้อมูลสรุปในบานหน้าต่างข้อความ">
 
 <!-- Windows Menu -->
+<!ENTITY windowMenu.label "หน้าต่าง">
 
 <!-- Tools Menu -->
+<!ENTITY tasksMenu.label "เครื่องมือ">
+<!ENTITY messengerCmd.label "จดหมายและกลุ่มข่าว">
+<!ENTITY addressBookCmd.label "สมุดรายชื่อ">
+<!ENTITY addons.label "ส่วนเสริม">
+<!ENTITY addonPrefs.label "ตัวเลือกส่วนเสริม">
+<!ENTITY addonPrefsUnix.label "ค่ากำหนดส่วนเสริม">
+<!ENTITY addonNoPrefs.label "ไม่พบการตั้งค่าส่วนเสริม">
+<!ENTITY activitymanager.label "ตัวจัดการกิจกรรม">
+<!ENTITY imAccountsStatus.label "สถานะการแชท">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey):
      Belongs to accountManagerCmd.label, which is placed under the Edit menu
      on Unix systems
