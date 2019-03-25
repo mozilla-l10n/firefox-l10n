@@ -14,6 +14,7 @@ about-private-browsing-info-searches = অনুসন্ধান
 about-private-browsing-info-downloads = ডাউনলোড
 private-browsing-title = ব্যক্তিগত ব্রাউজিং
 about-private-browsing-info-saved = { -brand-short-name } <strong>সংরক্ষণ করা হবে</strong> আপনার:
+about-private-browsing-info-myths = ব্যাক্তিগত ব্রাউজিং সম্পর্কে কিছু ভুল ধারণা
 about-private-browsing-info-clipboard = অনুলিপি করা টেক্সট
 about-private-browsing-info-temporary-files = অস্থায়ী ফাইল
 about-private-browsing-info-cookies = কুকি
