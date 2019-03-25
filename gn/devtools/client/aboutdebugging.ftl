@@ -61,6 +61,8 @@ about-debugging-refresh-usb-devices-button = Embohekopyahu mba'e'oka
 
 # Title of the Setup page.
 about-debugging-setup-title = Ñembosako’i
+# Introduction text in the Setup page to explain how to configure remote debugging.
+about-debugging-setup-intro = Emboheko mba’éichapa eikéta emopotĩ hag̃ua okáguio ne mba’e’oka.
 # Link displayed in the Setup page that leads to MDN page with list of supported devices.
 # Temporarily leads to https://support.mozilla.org/en-US/kb/will-firefox-work-my-mobile-device#w_android-devices
 about-debugging-setup-link-android-devices = Ehecha mba’e’oka Android rysýi ojokupytýva
@@ -163,12 +165,21 @@ about-debugging-debug-target-inspect-button = Ma'ẽ'ag̃ui
 # Text of a button displayed in the "This Firefox" page, in the Temporary Extension
 # section. Clicking on the button will open a file picker to load a temporary extension
 about-debugging-tmp-extension-install-button = Emyenyhẽ moimbaha sapy’aguáva…
+# Text displayed when trying to install a temporary extension in the "This Firefox" page.
+about-debugging-tmp-extension-install-error = Oiko jejavy emohendakuévo moimbaha sapy’agua.
 # Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
 # Clicking on the button will reload the extension.
 about-debugging-tmp-extension-reload-button = Myanyhẽjey
 # Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
 # Clicking on the button will uninstall the extension and remove it from the page.
 about-debugging-tmp-extension-remove-button = Hekýi
+# Message displayed in the file picker that opens to select a temporary extension to load
+# (triggered by the button using "about-debugging-tmp-extension-install-button")
+# manifest.json .xpi and .zip should not be localized.
+# Note: this message is only displayed in Windows and Linux platforms.
+about-debugging-tmp-extension-install-message = Eiporavo marandurenda manifest.json térã marandurenda .xpi /.zip
+# This string is displayed as a message about the add-on having a temporaryID.
+about-debugging-tmp-extension-temporary-id = Ko ñanduti jepysokue oguereko heratee sapy’aguáva. <a>Eikuaave</a>
 # Text displayed for extensions in "runtime" pages, before displaying a link the extension's
 # manifest URL.
 about-debugging-extension-manifest-url =
