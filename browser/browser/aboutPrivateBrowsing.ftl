@@ -4,6 +4,8 @@
 
 about-private-browsing-learn-more = { " " }<a data-l10n-name="learn-more">ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ</a> ਬਾਰੇ ਹੋਰ ਜਾਣੋ।
 about-private-browsing-info-visited = ਖੋਲ੍ਹੇ ਗਏ ਸਫ਼ੇ
+privatebrowsingpage-open-private-window-label = ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਨੂੰ ਖੋਲ੍ਹੋ
+    .accesskey = P
 about-private-browsing-info-notsaved = ਜਦੋਂ ਤੁਸੀਂ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਵਿੱਚ ਬਰਾਊਜ਼ ਕਰਦੇ ਹੋ ਤਾਂ ਫਾਇਰਫਾਕਸ<strong>ਇਹਨਾਂ ਨੂੰ ਨਹੀਂ ਸੰਭਾਲਦਾ</strong>:
 about-private-browsing-info-bookmarks = ਬੁੱਕਮਾਰਕ
 about-private-browsing-info-searches = ਖੋਜਾਂ
