@@ -4,10 +4,6 @@
 
 do-not-track-description = Magpadala ng mga website ng signal na ”Huwag Subaybayan” na hindi mo gustong masubaybayan
 do-not-track-learn-more = Matuto ng higit pa
-do-not-track-option-default =
-    .label = Lamang kapag gumagamit ng Pagsubaybay na Proteksyon
-do-not-track-option-default-content-blocking =
-    .label = Only when { -brand-short-name } is set to block Detected Trackers
 do-not-track-option-always =
     .label = Palagi
 pref-page =
@@ -52,6 +48,9 @@ category-privacy =
 pane-sync-title = Firefox Account
 category-sync =
     .tooltiptext = { pane-sync-title }
+pane-sync-title2 = { -sync-brand-short-name }
+category-sync2 =
+    .tooltiptext = { pane-sync-title2 }
 help-button-label = Suporta sa { -brand-short-name }
 addons-button-label = Extensions & Themes
 focus-search =
@@ -93,9 +92,6 @@ extension-controlled-default-search = Ang extension, <img data-l10n-name="icon"/
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = Ang extension, <img data-l10n-name="icon"/> { $name }, ay nangangailangan ng mga Tab ng Lalagyan.
-# This string is shown to notify the user that their tracking protection preferences
-# are being controlled by an extension.
-extension-controlled-websites-tracking-protection-mode = Ang extension, <img data-l10n-name="icon"/> { $name }, ay nagkokontrol sa tracking protection.
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
 extension-controlled-websites-content-blocking-all-trackers = An extension, <img data-l10n-name="icon"/> { $name }, is controlling this setting.
@@ -151,9 +147,6 @@ open-new-link-as-tabs =
     .label = Buksan ang mga link sa mga tab sa halip ng mga bagong window
     .accesskey = w
 warn-on-close-multiple-tabs =
-    .label = Babalaan ka kapag nagsasara ng maraming mga tab
-    .accesskey = m
-warn-on-quit-close-multiple-tabs =
     .label = Babalaan ka kapag nagsasara ng maraming mga tab
     .accesskey = m
 warn-on-open-many-tabs =
@@ -494,6 +487,10 @@ sync-engine-logins =
     .label = Mga login
     .tooltiptext = Iyong mga username at password
     .accesskey = l
+sync-engine-addresses =
+    .label = Mga Address
+    .tooltiptext = Ang mga Postal address na iyong na e-save
+    .accesskey = e
 sync-engine-creditcards =
     .label = Mga credit card
     .tooltiptext = Mga credit card
@@ -523,7 +520,6 @@ privacy-header = Pang-sarilinan sa Browser
 
 ## Privacy Section - Forms
 
-forms-header = Mga form & Mga Password
 forms-exceptions =
     .label = Mga exceptions...
     .accesskey = x
@@ -581,13 +577,6 @@ sitedata-total-size-calculating = Kinakalkula ang site data at cache size...
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Ikaw ay nagstore ng cookies, site data at cache ay kasalukuyang gumagamit ng { $value } { $unit } ng disk space.
 sitedata-learn-more = Karagdagang kaalaman
-sitedata-keep-until = Panatilihin hanggang
-    .accesskey = u
-sitedata-keep-until-closed =
-    .label = { -brand-short-name } ay sarado
-sitedata-cookies-exceptions =
-    .label = Mga exceptions...
-    .accesskey = e
 
 ## Privacy Section - Address Bar
 
@@ -607,50 +596,16 @@ addressbar-suggestions-settings = Baguhin ang mga kagustuhan para sa mga suhesti
 ## Privacy Section - Content Blocking
 
 content-blocking-learn-more = Alamin pa
-content-blocking-toggle-label-on = ON
-    .accesskey = O
-content-blocking-toggle-label-off = OFF
-    .accesskey = F
 content-blocking-setting-strict =
     .label = Istrikto
     .accesskey = I
 content-blocking-strict-desc = Blocks all trackers { -brand-short-name } detects. May cause some sites to break.
-content-blocking-tracking-protection-trackers-label =
-    .label = mga Tracker
-    .accesskey = T
-content-blocking-tracking-protection-option-always =
-    .label = Palagi
-    .accesskey = P
-content-blocking-tracking-protection-option-private =
-    .label = Sa pribadong window lamang
-    .accesskey = p
-content-blocking-reject-trackers-block-trackers-option =
-    .label = mga Tracker
-    .accesskey = T
 content-blocking-cookies-label =
     .label = Mga Cookie
     .accesskey = C
 
 ## Privacy Section - Tracking
 
-tracking-header = Proteksyon sa Pagsubaybay
-tracking-desc = Ang Proteksyon sa Pagsubaybay ay naghaharang sa mga online na tracker na nagkokolekta ng iyong impormasyon tungkol sa pag-browse sa maramihang mga website. <a data-l10n-name="learn-more">Matuto nang higit pa tungkol sa Proteksyon sa Pagsubaybay at iyong pagiging pribado</a>
-tracking-mode-label = Gamitin ang Proteksyon sa Pagsubaybay upang harangan ang mga kilalang tracker
-tracking-mode-always =
-    .label = Palagi
-    .accesskey = y
-tracking-mode-private =
-    .label = Sa pribadong mga window lamang
-    .accesskey = l
-tracking-mode-never =
-    .label = Hindi Kailanman
-    .accesskey = n
-tracking-exceptions =
-    .label = Mga eksepsyon…
-    .accesskey = x
-tracking-change-block-list =
-    .label = Bagohin ang Listahan ng mga Bina-block…
-    .accesskey = C
 
 ## Privacy Section - Permissions
 
@@ -678,13 +633,6 @@ permissions-notification-pause =
 permissions-block-autoplay-media-exceptions =
     .label = mga Execption
     .accesskey = E
-autoplay-option-ask =
-    .label = Laging itanong
-autoplay-option-allow =
-    .label = Payagan ang Autoplay
-autoplay-option-dont =
-    .label = Huwag mag Autoplay
-permissions-autoplay-link = Alamin pa
 permissions-block-popups =
     .label = Harangin ang mga pop-up windows
     .accesskey = H
@@ -717,7 +665,6 @@ collection-studies-link = I-view ang studies ng { -brand-short-name }
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Hindi pinagana ang pag-uulat ng data para sa build configuration na ito
-collection-browser-errors-link = Alamin pa
 collection-backlogged-crash-reports-link = Karagdagang kaalaman
 
 ## Privacy Section - Security
