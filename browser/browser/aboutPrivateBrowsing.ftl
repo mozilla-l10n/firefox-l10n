@@ -16,6 +16,7 @@ about-private-browsing-info-clipboard = kopeeritud tekstid
 about-private-browsing-info-temporary-files = ajutisi faile
 about-private-browsing-info-cookies = küpsiseid
 tracking-protection-start-tour = Vaata, kuidas see töötab
+about-private-browsing-note = Privaatne veebilehitsemine ei muuda sind internetis <strong>anonüümseks</strong>. Sinu interneti teenusepakkuja või tööandja võib siiski sinu poolt külastatavaid lehti jälgida.
 about-private-browsing-not-private = Sa pole praegu privaatses aknas.
 content-blocking-title = Sisu blokkimine
 content-blocking-description = Mõned saidid kasutavad jälitamistehnoloogiaid, mis võivad jälitada sinu tegevust üle terve interneti. { -brand-short-name }i sisu blokkija blokib automaatselt paljud sellised jälitajad, kes võivad koguda andmeid sinu lehitsemiseelistuste kohta.
