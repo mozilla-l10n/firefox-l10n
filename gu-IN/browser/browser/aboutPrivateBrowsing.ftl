@@ -24,3 +24,4 @@ about-private-browsing =
     .title = વેબ પર શોધો
 about-private-browsing-not-private = તમે હાલમાં ખાનગી વિન્ડો મા નથી.
 content-blocking-title = વસ્તુઓ અવરોધ
+content-blocking-description = કેટલીક વેબસાઇટ્સ ઇન્ટરનેટ પરની તમારી પ્રવૃત્તિઓ પર દેખરેખ રાખવા માટે ટ્રેકર્સનો ઉપયોગ કરે છે. ખાનગી વિન્ડોઝમાં { -brand-short-name } સામગ્રી અવરોધિત સ્વતઃ ઘણા ટ્રેકર્સને અવરોધિત કરે છે કે જે તમારાં બ્રાઉઝિંગ વર્તન વિશેની માહિતી ભેગી કરે છે.
