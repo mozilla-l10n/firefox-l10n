@@ -614,11 +614,33 @@
 <!ENTITY saveLinkAsCmd.label "บันทึกลิงก์เป็น…">
 <!ENTITY saveImageAsCmd.label "บันทึกภาพเป็น…">
 <!ENTITY copyLinkCmd.label "คัดลอกตำแหน่งที่ตั้งลิงก์">
+<!ENTITY copyImageAllCmd.label "คัดลอกภาพ">
+<!ENTITY copyEmailCmd.label "คัดลอกที่อยู่อีเมล">
+<!ENTITY stopCmd.label "หยุด">
+<!ENTITY reloadCmd.label "โหลดใหม่">
+<!ENTITY openInBrowser.label "เปิดในเบราว์เซอร์">
+<!ENTITY openLinkInBrowser.label "เปิดลิงก์ในเบราว์เซอร์">
 
 <!-- Statusbar -->
+<!ENTITY statusText.label "เสร็จสิ้น">
 
 <!-- Mac OS X Window Menu -->
+<!ENTITY minimizeWindow.label "ย่อ">
+<!ENTITY bringAllToFront.label "นำทั้งหมดมาข้างหน้า">
+<!ENTITY zoomWindow.label "ซูม">
 
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
+<!ENTITY preferencesCmdMac2.label       "ค่ากำหนด">
+<!ENTITY preferencesCmdMac.commandkey   ",">
+<!ENTITY preferencesCmdMac.modifiers    "accel">
+<!ENTITY servicesMenuMac.label          "บริการ">
+<!ENTITY hideThisAppCmdMac.label        "ซ่อน &brandShortName;">
+<!ENTITY hideThisAppCmdMac.modifiers    "accel">
+<!ENTITY hideOtherAppsCmdMac.label      "ซ่อนอื่น ๆ">
+<!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
+<!ENTITY showAllAppsCmdMac.label        "แสดงทั้งหมด">
 
 <!-- Mac OS X Dock Icon pop-up menu -->
+<!ENTITY dockOptions.label              "ตัวเลือกไอคอนแอป…">
+<!ENTITY writeNewMessageDock.label      "เขียนข้อความใหม่">
+<!ENTITY openAddressBookDock.label      "เปิดสมุดรายชื่อ">
