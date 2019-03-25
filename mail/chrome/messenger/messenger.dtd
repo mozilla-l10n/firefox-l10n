@@ -436,6 +436,14 @@
 <!ENTITY saveAsVirtualFolderMenu.label "บันทึกการค้นหาเป็นโฟลเดอร์…">
 
 <!-- Thread Pane -->
+<!ENTITY threadColumn.label "หัวข้อ">
+<!ENTITY fromColumn.label "จาก">
+<!ENTITY recipientColumn.label "ผู้รับ">
+<!ENTITY correspondentColumn.label "ผู้สื่อสาร">
+<!ENTITY subjectColumn.label "หัวเรื่อง">
+<!ENTITY dateColumn.label "วันที่">
+<!ENTITY priorityColumn.label "ความสำคัญ">
+<!ENTITY tagsColumn.label "ป้ายกำกับ">
 
 <!-- Thread Pane Tooltips -->
 
