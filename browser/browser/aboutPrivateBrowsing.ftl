@@ -4,11 +4,13 @@
 
 about-private-browsing-learn-more = Zjistit více o <a data-l10n-name="learn-more">anonymním prohlížení</a>.
 about-private-browsing-info-visited = navštívené stránky
+about-private-browsing-info-notsaved = Při použití anonymního okna { -brand-short-name } <strong>neukládá</strong>:
 about-private-browsing-search-placeholder = Vyhledat na webu
 about-private-browsing-info-bookmarks = záložky
 about-private-browsing-info-title = Jste v anonymním okně
 about-private-browsing-info-searches = vyhledávání
 about-private-browsing-info-downloads = stahování
+about-private-browsing-info-saved = { -brand-short-name } <strong>bude ukládat</strong> vaše:
 about-private-browsing-info-myths = Časté omyly o fungování anonymního prohlížení
 about-private-browsing-info-clipboard = zkopírovaný text
 about-private-browsing-info-temporary-files = dočasné soubory
