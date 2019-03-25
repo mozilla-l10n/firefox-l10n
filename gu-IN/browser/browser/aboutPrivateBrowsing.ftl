@@ -6,6 +6,7 @@ about-private-browsing-learn-more = વિશે વધુ શીખો <a data-
 about-private-browsing-info-visited = મુલાકાત લીધેલા પૃષ્ઠો
 privatebrowsingpage-open-private-window-label = ખાનગી વિન્ડો ખોલો
     .accesskey = P
+about-private-browsing-info-notsaved = જ્યારે તમે એક { -brand-short-name } ખાનગી વિન્ડો મા બ્રાઉઝ કરો <strong>સાચવી નથી</strong>:
 about-private-browsing-search-placeholder = વેબ પર શોધો
 about-private-browsing-info-bookmarks = બુકમાર્ક્સ
 about-private-browsing-info-title = તમે ખાનગી વિન્ડો માં છો
