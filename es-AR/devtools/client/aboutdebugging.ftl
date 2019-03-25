@@ -72,9 +72,81 @@ about-debugging-setup-this-firefox = Usar <a> { about-debugging-this-firefox-run
 about-debugging-setup-connect-heading = Conectar un dispositivo
 # USB section of the Setup page
 about-debugging-setup-usb-title = USB
+# Explanatory text displayed in the Setup page when USB debugging is disabled
+about-debugging-setup-usb-disabled = Si habilita esta opción, se descargarán y agregarán los componentes de depuración necesarios para Android USB a { -brand-shorter-name }.
+# Text of the button displayed in the USB section of the setup page when USB debugging is disabled.
+# Clicking on it will download components needed to debug USB Devices remotely.
+about-debugging-setup-usb-enable-button = Habilitar dispositivos USB
+# Text of the button displayed in the USB section of the setup page when USB debugging is enabled.
+about-debugging-setup-usb-disable-button = Deshabilitar dispositivos USB
+# Text of the button displayed in the USB section of the setup page while USB debugging
+# components are downloaded and installed.
+about-debugging-setup-usb-updating-button = Actualizando...
+# USB section of the Setup page (USB status)
+about-debugging-setup-usb-status-enabled = Habilitado
+about-debugging-setup-usb-status-disabled = Deshabilitado
+about-debugging-setup-usb-status-updating = Actualizando...
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-dev-menu = Habilitar el  menú de desarrollador en su dispositivo Android. <a>Aprender cómo</a>
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug = Habilitar depuración de USB en el menú de desarrollador de Android. <a>Aprender cómo</a>
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug-firefox = Habilitar depuración de USB en Firefox en su dispositivo Android. <a>Aprender cómo</a>
+# USB section step by step guide
+about-debugging-setup-usb-step-plug-device = Conectar el dispositivo Android a su equipo.
+# Network section of the Setup page
+about-debugging-setup-network =
+    .title = Ubicación de la red
+# Text of a button displayed after the network locations "Host" input.
+# Clicking on it will add the new network location to the list.
+about-debugging-network-locations-add-button = Agregar
+# Text to display when there are no locations to show.
+about-debugging-network-locations-empty-text = Todavía no se agregaron ubicaciones de red.
+# Text of the label for the text input that allows users to add new network locations in
+# the Connect page. A host is a hostname and a port separated by a colon, as suggested by
+# the input's placeholder "localhost:6080".
+about-debugging-network-locations-host-input-label = Servidor
+# Text of a button displayed next to existing network locations in the Connect page.
+# Clicking on it removes the network location from the list.
+about-debugging-network-locations-remove-button = Eliminar
+# Text used as error message if the format of the input value was invalid in the network locations form of the Setup page.
+# Variables:
+#   $host-value (string) - The input value submitted by the user in the network locations form
+about-debugging-network-location-form-invalid = Servidor inválido "{ $host-value }". El formato esperado es "nombredelservidor: númerodepuerto".
+# Text used as error message if the input value was already registered in the network locations form of the Setup page.
+# Variables:
+#   $host-value (string) - The input value submitted by the user in the network locations form
+about-debugging-network-location-form-duplicate = El servidor “{ $host-value }” ya está registrado
 
 # Runtime Page strings
 
+# Below are the titles for the various categories of debug targets that can be found
+# on "runtime" pages of about:debugging.
+# Title of the temporary extensions category (only available for "This Firefox" runtime).
+about-debugging-runtime-temporary-extensions =
+    .name = Extensiones temporales
+# Title of the extensions category.
+about-debugging-runtime-extensions =
+    .name = Extensiones
+# Title of the tabs category.
+about-debugging-runtime-tabs =
+    .name = Pestañas
+# Title of the service workers category.
+about-debugging-runtime-service-workers =
+    .name = Service Workers
+# Title of the shared workers category.
+about-debugging-runtime-shared-workers =
+    .name = Shared Workers
+# Title of the other workers category.
+about-debugging-runtime-other-workers =
+    .name = Other Workers
+# Title of the processes category.
+about-debugging-runtime-processes =
+    .name = Procesos
+# This string is displayed in the runtime page if the current configuration of the
+# target runtime is incompatible with service workers. "Learn more" points to MDN.
+# https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
+about-debugging-runtime-service-workers-not-compatible = La configuración del navegador no es compatible con Service Workers. <a>Conocer más</a>
 # Text of a button displayed in Runtime pages for remote runtimes.
 # Clicking on the button will close the connection to the runtime.
 about-debugging-runtime-disconnect-button = Desconectar
