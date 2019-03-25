@@ -175,7 +175,24 @@
 <!ENTITY calendar.context.button.label                "บานหน้าต่างวันนี้">
 <!ENTITY calendar.context.button.accesskey            "บ">
 
+<!ENTITY calendar.context.attendance.menu.label                 "การเข้าร่วมประชุม">
+<!ENTITY calendar.context.attendance.menu.accesskey             "ก">
+<!ENTITY calendar.context.attendance.occurrence.label           "เหตุการณ์นี้">
+<!ENTITY calendar.context.attendance.send.label                 "ส่งการแจ้งเตือนตอนนี้">
+<!ENTITY calendar.context.attendance.send.accesskey             "ส">
+<!ENTITY calendar.context.attendance.dontsend.label             "ไม่ส่งการแจ้งเตือน">
+<!ENTITY calendar.context.attendance.dontsend.accesskey         "ม">
 
+<!ENTITY calendar.context.attendance.occ.accepted.accesskey     "ย">
+<!ENTITY calendar.context.attendance.occ.accepted.label         "ยอมรับ">
+<!ENTITY calendar.context.attendance.occ.tentative.accesskey    "อ">
+<!ENTITY calendar.context.attendance.occ.tentative.label        "ยอมรับอย่างไม่แน่นอน">
+<!ENTITY calendar.context.attendance.occ.declined.accesskey     "ป">
+<!ENTITY calendar.context.attendance.occ.declined.label         "ปฏิเสธ">
+<!ENTITY calendar.context.attendance.occ.delegated.accesskey    "ม">
+<!ENTITY calendar.context.attendance.occ.delegated.label        "มอบหมาย">
+<!ENTITY calendar.context.attendance.occ.needsaction.accesskey  "ย">
+<!ENTITY calendar.context.attendance.occ.needsaction.label      "ยังต้องการการกระทำ">
 
 
 <!-- Task Context Menu -->

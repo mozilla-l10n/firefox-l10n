@@ -16,6 +16,7 @@
 <!ENTITY locationpage.password.label      "รหัสผ่าน:" >
 
 <!ENTITY custompage.shortdescription  "ปรับแต่งปฏิทินของคุณ" >
+<!ENTITY custompage.longdescription   "คุณสามารถตั้งชื่อเล่นปฏิทินของคุณและใส่สีเหตุการณ์จากปฏิทินนี้" >
 
 <!ENTITY finishpage.shortdescription  "สร้างปฏิทินแล้ว" >
 <!ENTITY finishpage.longdescription   "สร้างปฏิทินของคุณแล้ว" >
@@ -41,4 +42,10 @@
 <!ENTITY location.label "ตำแหน่งที่ตั้ง:">
 <!ENTITY location.placeholder "URL หรือชื่อโฮสต์ของเซิร์ฟเวอร์ปฏิทิน">
 
+<!ENTITY network.nocredentials.label "ตำแหน่งที่ตั้งนี้ไม่ต้องการข้อมูลรับรอง">
+<!ENTITY network.loading.description "โปรดรอในขณะที่กำลังค้นพบปฏิทินของคุณ">
+<!ENTITY network.notfound.description "ไม่พบปฏิทินที่ตำแหน่งที่ตั้งนี้ โปรดตรวจสอบการตั้งค่าของคุณ">
+<!ENTITY network.authfail.description "ไม่ยอมรับข้อมูลรับรองที่คุณป้อน โปรดตรวจสอบการตั้งค่าของคุณ">
 
+<!ENTITY network.subscribe.single.description "โปรดเลือกปฏิทินที่คุณต้องการบอกรับ">
+<!ENTITY network.subscribe.multiple.description "มีปฏิทินหลายชนิดสำหรับตำแหน่งที่ตั้งนี้ โปรดเลือกชนิดปฏิทิน จากนั้นทำเครื่องหมายปฏิทินที่คุณต้องการบอกรับ">
