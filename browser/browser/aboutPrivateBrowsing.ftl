@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+about-private-browsing-learn-more = அதுபற்றி மேலும் அறிக <a data-l10n-name="learn-more">அந்தரங்க உலாவல்</a>.
 about-private-browsing-info-visited = பார்த்த பக்கங்கள்
 privatebrowsingpage-open-private-window-label = அந்தரங்க சாளரத்தைத் திற
     .accesskey = P
