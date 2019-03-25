@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+about-private-browsing-learn-more = Даведайцеся больш пра <a data-l10n-name="learn-more">Прыватнае агляданне</a>.
 about-private-browsing-info-visited = наведаныя старонкі
 about-private-browsing-info-notsaved = Калі вы аглядаеце сеціва праз прыватнае акно, { -brand-short-name } <strong>не захоўвае</strong>:
 about-private-browsing-info-bookmarks = закладкі
