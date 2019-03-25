@@ -6,7 +6,7 @@ about-private-browsing-learn-more = Läs mer om <a data-l10n-name="learn-more">P
 about-private-browsing-info-visited = besökta sidor
 privatebrowsingpage-open-private-window-label = Öppna ett privat fönster
     .accesskey = p
-about-private-browsing-info-notsaved = När du surfar i ett privat fönster, <strong>sparar Firefox inte</strong>:
+about-private-browsing-info-notsaved = När du surfar i ett privat fönster, <strong>sparar { -brand-short-name } inte</strong>:
 about-private-browsing-search-placeholder = Sök på nätet
 about-private-browsing-info-bookmarks = bokmärken
 about-private-browsing-info-title = Du är i ett privat fönster
