@@ -427,6 +427,12 @@
 <!ENTITY glodaSearchBar.placeholder "ค้นหาข้อความ…">
 
 <!-- Quick Search Menu Bar -->
+<!ENTITY searchSubjectMenu.label "หัวเรื่อง">
+<!ENTITY searchFromMenu.label "จาก">
+<!ENTITY searchSubjectOrFromMenu.label "หัวเรื่องหรือจาก">
+<!ENTITY searchRecipient.label "ถึงหรือสำเนาถึง">
+<!ENTITY searchSubjectOrRecipientMenu.label "หัวเรื่อง ถึงหรือสำเนาถึง">
+<!ENTITY searchMessageBody.label "ทั้งข้อความ">
 <!ENTITY saveAsVirtualFolderMenu.label "บันทึกการค้นหาเป็นโฟลเดอร์…">
 
 <!-- Thread Pane -->
