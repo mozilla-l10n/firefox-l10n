@@ -37,8 +37,25 @@
 <!ENTITY event.attendees.notify.accesskey            "จ">
 <!ENTITY event.attendees.notifyundisclosed.label     "แยกคำเชิญต่อผู้เข้าร่วม">
 <!ENTITY event.attendees.notifyundisclosed.accesskey "ย">
+<!ENTITY event.attendees.notifyundisclosed.tooltip   "ตัวเลือกนี้จะส่งหนึ่งอีเมลคำเชิญต่อผู้เข้าร่วม แต่ละคำเชิญจะมีเพียงผู้เข้าร่วมเท่านั้นเพื่อไม่ให้เปิดเผยข้อมูลประจำตัวของผู้เข้าร่วมอื่น ๆ">
+<!ENTITY event.attendees.disallowcounter.label       "ไม่อนุญาตตัวนับ">
+<!ENTITY event.attendees.disallowcounter.accesskey   "ม">
+<!ENTITY event.attendees.disallowcounter.tooltip     "บ่งชี้ว่าคุณจะไม่ยอมรับการโต้แย้ง">
 
 <!-- Keyboard Shortcuts -->
+<!ENTITY event.dialog.new.event.key2              "I">
+<!ENTITY event.dialog.new.task.key2               "D">
+<!ENTITY event.dialog.new.message.key2            "N">
+<!ENTITY event.dialog.close.key                   "W">
+<!ENTITY event.dialog.save.key                    "S">
+<!ENTITY event.dialog.saveandclose.key            "L">
+<!ENTITY event.dialog.print.key                   "P">
+<!ENTITY event.dialog.undo.key                    "Z">
+<!ENTITY event.dialog.redo.key                    "Y">
+<!ENTITY event.dialog.cut.key                     "X">
+<!ENTITY event.dialog.copy.key                    "C">
+<!ENTITY event.dialog.paste.key                   "V">
+<!ENTITY event.dialog.select.all.key              "A">
 
 <!-- Menubar -->
 <!ENTITY  event.menu.item.new.label                       "ใหม่">
@@ -61,6 +78,7 @@
    - when editing events/tasks in a tab. -->
 <!ENTITY  event.menu.item.save.label                      "บันทึก">
 <!ENTITY  event.menu.item.save.accesskey                  "บ">
+<!ENTITY  event.menu.item.save.tab.accesskey              "บ">
 
 <!-- LOCALIZATION NOTE
     - event.menu.item.saveandclose.accesskey is used for "Save and Close"
@@ -68,46 +86,83 @@
     - event.menu.item.saveandclose.tab.accesskey is used for "Save and Close"
     - when editing events/tasks in a tab. -->
 <!ENTITY  event.menu.item.saveandclose.label              "บันทึกแล้วปิด">
+<!ENTITY  event.menu.item.saveandclose.accesskey          "น">
+<!ENTITY  event.menu.item.saveandclose.tab.accesskey      "น">
 
 <!ENTITY  event.menu.item.delete.label                    "ลบ…">
+<!ENTITY  event.menu.item.delete.accesskey                "ล">
 <!ENTITY  event.menu.item.page.setup.label                "ตั้งค่าหน้ากระดาษ">
+<!ENTITY  event.menu.item.page.setup.accesskey            "ต">
 <!ENTITY  event.menu.item.print.label                     "พิมพ์">
+<!ENTITY  event.menu.item.print.accesskey                 "พ">
 
 <!ENTITY  event.menu.edit.label                           "แก้ไข">
+<!ENTITY  event.menu.edit.accesskey                       "ก">
 <!ENTITY  event.menu.edit.undo.label                      "เลิกทำ">
+<!ENTITY  event.menu.edit.undo.accesskey                  "ล">
 <!ENTITY  event.menu.edit.redo.label                      "ทำซ้ำ">
+<!ENTITY  event.menu.edit.redo.accesskey                  "ท">
 <!ENTITY  event.menu.edit.cut.label                       "ตัด">
+<!ENTITY  event.menu.edit.cut.accesskey                   "ต">
 <!ENTITY  event.menu.edit.copy.label                      "คัดลอก">
+<!ENTITY  event.menu.edit.copy.accesskey                  "ค">
 <!ENTITY  event.menu.edit.paste.label                     "วาง">
+<!ENTITY  event.menu.edit.paste.accesskey                 "ว">
 <!ENTITY  event.menu.edit.select.all.label                "เลือกทั้งหมด">
+<!ENTITY  event.menu.edit.select.all.accesskey            "อ">
 
 <!ENTITY  event.menu.view.label                           "มุมมอง">
+<!ENTITY  event.menu.view.accesskey                       "ม">
 <!ENTITY  event.menu.view.toolbars.label                  "แถบเครื่องมือ">
+<!ENTITY  event.menu.view.toolbars.accesskey              "ถ">
 <!ENTITY  event.menu.view.toolbars.event.label            "แถบเครื่องมือเหตุการณ์">
+<!ENTITY  event.menu.view.toolbars.event.accesskey        "บ">
 <!ENTITY  event.menu.view.toolbars.customize.label        "ปรับแต่ง…">
+<!ENTITY  event.menu.view.toolbars.customize.accesskey    "ป">
 <!ENTITY  event.menu.view.showlink.label                  "แสดงลิงก์ที่เกี่ยวข้อง">
+<!ENTITY  event.menu.view.showlink.accesskey              "ส">
 
 <!ENTITY  event.menu.options.label                            "ตัวเลือก">
+<!ENTITY  event.menu.options.accesskey                        "ต">
 <!ENTITY  event.menu.options.attendees.label                  "เชิญผู้เข้าร่วม…">
+<!ENTITY  event.menu.options.attendees.accesskey              "ช">
 <!ENTITY  event.menu.options.timezone2.label                  "แสดงเขตเวลา">
+<!ENTITY  event.menu.options.timezone2.accesskey              "ส">
 <!ENTITY  event.menu.options.priority2.label                  "ความสำคัญ">
+<!ENTITY  event.menu.options.priority2.accesskey              "ค">
 <!ENTITY  event.menu.options.priority.notspecified.label      "ไม่ระบุ">
+<!ENTITY  event.menu.options.priority.notspecified.accesskey  "ม">
 <!ENTITY  event.menu.options.priority.low.label               "ต่ำ">
+<!ENTITY  event.menu.options.priority.low.accesskey           "ต">
 <!ENTITY  event.menu.options.priority.normal.label            "ปกติ">
+<!ENTITY  event.menu.options.priority.normal.accesskey        "ป">
 <!ENTITY  event.menu.options.priority.high.label              "สูง">
+<!ENTITY  event.menu.options.priority.high.accesskey          "ส">
 <!ENTITY  event.menu.options.privacy.label                    "ความเป็นส่วนตัว">
+<!ENTITY  event.menu.options.privacy.accesskey                "ค">
 <!ENTITY  event.menu.options.privacy.public.label             "เหตุการณ์สาธารณะ">
+<!ENTITY  event.menu.options.privacy.public.accesskey         "ห">
 <!ENTITY  event.menu.options.privacy.confidential.label       "แสดงเวลาและวันที่เท่านั้น">
+<!ENTITY  event.menu.options.privacy.confidential.accesskey   "ส">
 <!ENTITY  event.menu.options.privacy.private.label            "เหตุการณ์ส่วนตัว">
+<!ENTITY  event.menu.options.privacy.private.accesskey        "ห">
 <!ENTITY  event.menu.options.show.time.label                  "แสดงเวลาเป็น">
+<!ENTITY  event.menu.options.show.time.accesskey              "ส">
 <!ENTITY  event.menu.options.show.time.busy.label             "ไม่ว่าง">
+<!ENTITY  event.menu.options.show.time.busy.accesskey         "ม">
 <!ENTITY  event.menu.options.show.time.free.label             "ว่าง">
+<!ENTITY  event.menu.options.show.time.free.accesskey         "ว">
 
 <!ENTITY event.invite.attendees.label                     "เชิญผู้เข้าร่วม…">
+<!ENTITY event.invite.attendees.accesskey                 "ช">
 <!ENTITY event.email.attendees.label                      "เขียนอีเมลถึงผู้เข้าร่วมทั้งหมด…">
+<!ENTITY event.email.attendees.accesskey                  "ข">
 <!ENTITY event.email.tentative.attendees.label            "เขียนอีเมลถึงผู้เข้าร่วมที่ไม่ได้ตัดสินใจ…">
+<!ENTITY event.email.tentative.attendees.accesskey        "ย">
 <!ENTITY event.remove.attendees.label2                    "เอาผู้เข้าร่วมทั้งหมดออก">
+<!ENTITY event.remove.attendees.accesskey                 "อ">
 <!ENTITY event.remove.attendee.label                      "เอาผู้เข้าร่วมออก">
+<!ENTITY event.remove.attendee.accesskey                  "ผ">
 
 <!-- Toolbar -->
 <!ENTITY  event.toolbar.save.label2                       "บันทึก">
@@ -133,27 +188,118 @@
    - populate the form fields in the dialog, there's no other immediate action on clicking like with
    - the imip bar. Rescheduling will happen after clicking on save&close as usual. This screenshot
    - illustrates how it might look like: https://bugzilla.mozilla.org/attachment.cgi?id=8810121 -->
+<!ENTITY counter.button.proposal.label                    "ใช้ข้อเสนอ">
+<!ENTITY counter.button.proposal.accesskey                "ช">
 
 <!-- Main page -->
+<!ENTITY event.title.textbox.label                        "ชื่อเรื่อง:" >
+<!ENTITY event.title.textbox.accesskey                    "ช">
+<!ENTITY event.location.label                             "ตำแหน่งที่ตั้ง:" >
+<!ENTITY event.location.accesskey                         "ต">
+<!ENTITY event.categories.label                           "หมวดหมู่:">
+<!ENTITY event.categories.accesskey                       "ห">
+<!ENTITY event.categories.textbox.label                   "เพิ่มหมวดหมู่ใหม่" >
+<!ENTITY event.calendar.label                             "ปฏิทิน:" >
+<!ENTITY event.calendar.accesskey                         "ป">
+<!ENTITY event.attendees.label                            "ผู้เข้าร่วม:" >
+<!ENTITY event.attendees.accesskey                        "ผ">
+<!ENTITY event.alldayevent.label                          "เหตุการณ์ตลอดวัน" >
+<!ENTITY event.alldayevent.accesskey                      "ห">
+<!ENTITY event.from.label                                 "เริ่ม:" >
+<!ENTITY event.from.accesskey                             "ร">
+<!ENTITY task.from.label                                  "เริ่ม:" >
+<!ENTITY task.from.accesskey                              "ร">
+<!ENTITY event.to.label                                   "สิ้นสุด:" >
+<!ENTITY event.to.accesskey                               "ส">
+<!ENTITY task.to.label                                    "วันที่ครบกำหนด:" >
+<!ENTITY task.to.accesskey                                "ว">
+<!ENTITY task.status.label                                "สถานะ:" >
+<!ENTITY task.status.accesskey                            "ส">
+<!ENTITY event.repeat.label                               "ทำซ้ำ:" >
+<!ENTITY event.repeat.accesskey                           "ท">
+<!ENTITY event.until.label                                "จนถึง:">
+<!ENTITY event.until.accesskey                            "จ">
+<!ENTITY event.reminder.label                             "การเตือนความจำ:" >
+<!ENTITY event.reminder.accesskey                         "ก">
+<!ENTITY event.description.label                          "คำอธิบาย:" >
+<!ENTITY event.description.accesskey                      "ค">
+<!ENTITY event.attachments.label                          "ไฟล์แนบ:" >
+<!ENTITY event.attachments.accesskey                      "ฟ" >
+<!ENTITY event.attachments.menubutton.label               "แนบ">
+<!ENTITY event.attachments.menubutton.accesskey           "น">
+<!ENTITY event.attachments.url.label                      "หน้าเว็บ…">
+<!ENTITY event.attachments.url.accesskey                  "ห">
+<!ENTITY event.attachments.popup.remove.label             "เอาออก" >
+<!ENTITY event.attachments.popup.remove.accesskey         "อ" >
+<!ENTITY event.attachments.popup.open.label               "เปิด" >
+<!ENTITY event.attachments.popup.open.accesskey           "ป" >
+<!ENTITY event.attachments.popup.removeAll.label          "เอาทั้งหมดออก" >
+<!ENTITY event.attachments.popup.removeAll.accesskey      "อ" >
+<!ENTITY event.attachments.popup.attachPage.label         "แนบหน้าเว็บ…" >
+<!ENTITY event.attachments.popup.attachPage.accesskey     "น" >
+<!ENTITY event.url.label                                  "ลิงก์ที่เกี่ยวข้อง" >
+<!ENTITY event.priority2.label                            "ความสำคัญ:">
 
+<!ENTITY event.reminder.none.label                        "ไม่มีการเตือนความจำ " >
+<!ENTITY event.reminder.0minutes.before.label             "0 นาทีก่อนหน้า" >
+<!ENTITY event.reminder.5minutes.before.label             "5 นาทีก่อนหน้า" >
+<!ENTITY event.reminder.15minutes.before.label            "15 นาทีก่อนหน้า" >
+<!ENTITY event.reminder.30minutes.before.label            "30 นาทีก่อนหน้า" >
+<!ENTITY event.reminder.1hour.before.label                "1 ชั่วโมงก่อนหน้า" >
+<!ENTITY event.reminder.2hours.before.label               "2 ชั่วโมงก่อนหน้า" >
+<!ENTITY event.reminder.12hours.before.label              "12 ชั่วโมงก่อนหน้า" >
+<!ENTITY event.reminder.1day.before.label                 "1 วันก่อนหน้า" >
+<!ENTITY event.reminder.2days.before.label                "2 วันก่อนหน้า" >
+<!ENTITY event.reminder.1week.before.label                "1 สัปดาห์ก่อนหน้า" >
 <!ENTITY event.reminder.custom.label                      "กำหนดเอง…" >
 
+<!ENTITY event.reminder.multiple.label                    "การเตือนความจำหลายรายการ…" >
 
+<!ENTITY event.statusbarpanel.freebusy.label              "เวลาเป็น:">
 <!ENTITY event.statusbarpanel.privacy.label               "ความเป็นส่วนตัว:">
 
 <!-- Recurrence dialog -->
+<!ENTITY recurrence.title.label                         "แก้ไขการเกิดซ้ำ">
 
+<!ENTITY event.repeat.does.not.repeat.label             "ไม่ทำซ้ำ">
+<!ENTITY event.repeat.daily.label                       "รายวัน">
+<!ENTITY event.repeat.weekly.label                      "รายสัปดาห์">
+<!ENTITY event.repeat.every.weekday.label               "ทุกวันธรรมดา">
+<!ENTITY event.repeat.bi.weekly.label                   "รายปักษ์">
+<!ENTITY event.repeat.monthly.label                     "รายเดือน">
+<!ENTITY event.repeat.yearly.label                      "รายปี">
 <!ENTITY event.repeat.custom.label                      "กำหนดเอง…">
 
+<!ENTITY event.recurrence.pattern.label                 "รูปแบบการเกิดซ้ำ">
 <!ENTITY event.recurrence.occurs.label                  "ทำซ้ำ" >
 <!ENTITY event.recurrence.day.label                     "รายวัน" >
 <!ENTITY event.recurrence.week.label                    "รายสัปดาห์" >
 <!ENTITY event.recurrence.month.label                   "รายเดือน" >
 <!ENTITY event.recurrence.year.label                    "รายปี" >
 
+<!ENTITY event.recurrence.pattern.every.label           "ทุก" >
+<!ENTITY repeat.units.days.both                         "วัน" >
+<!ENTITY event.recurrence.pattern.every.weekday.label   "ทุกวันธรรมดา" >
 
+<!ENTITY event.recurrence.pattern.weekly.every.label    "ทุก" >
+<!ENTITY repeat.units.weeks.both                        "สัปดาห์" >
+<!ENTITY event.recurrence.on.label                      "ใน:" >
 
+<!ENTITY event.recurrence.pattern.monthly.every.label   "ทุก" >
+<!ENTITY repeat.units.months.both                       "เดือน" >
+<!ENTITY event.recurrence.monthly.every.label           "ทุก" >
+<!ENTITY event.recurrence.pattern.monthly.week.1.label  "วันอาทิตย์" >
+<!ENTITY event.recurrence.pattern.monthly.week.2.label  "วันจันทร์" >
+<!ENTITY event.recurrence.pattern.monthly.week.3.label  "วันอังคาร" >
+<!ENTITY event.recurrence.pattern.monthly.week.4.label  "วันพุธ" >
+<!ENTITY event.recurrence.pattern.monthly.week.5.label  "วันพฤหัสบดี" >
+<!ENTITY event.recurrence.pattern.monthly.week.6.label  "วันศุกร์" >
+<!ENTITY event.recurrence.pattern.monthly.week.7.label  "วันเสาร์" >
+<!ENTITY event.recurrence.repeat.dayofmonth.label       "วันของเดือน">
 
+<!ENTITY event.recurrence.every.label                        "ทุก:" >
+<!ENTITY repeat.units.years.both                             "ปี" >
+<!ENTITY event.recurrence.pattern.yearly.every.month.label   "ทุก" >
 
 <!-- LOCALIZATON NOTE
      Some languages use a preposition when describing dates:
@@ -163,9 +309,54 @@
      Edit recurrence window -> Recurrence pattern -> Repeat yearly
 -->
 
+<!ENTITY event.recurrence.pattern.yearly.month.1.label       "มกราคม" >
+<!ENTITY event.recurrence.pattern.yearly.month.2.label       "กุมภาพันธ์" >
+<!ENTITY event.recurrence.pattern.yearly.month.3.label       "มีนาคม" >
+<!ENTITY event.recurrence.pattern.yearly.month.4.label       "เมษายน" >
+<!ENTITY event.recurrence.pattern.yearly.month.5.label       "พฤษภาคม" >
+<!ENTITY event.recurrence.pattern.yearly.month.6.label       "มิถุนายน" >
+<!ENTITY event.recurrence.pattern.yearly.month.7.label       "กรกฎาคม" >
+<!ENTITY event.recurrence.pattern.yearly.month.8.label       "สิงหาคม" >
+<!ENTITY event.recurrence.pattern.yearly.month.9.label       "กันยายน" >
+<!ENTITY event.recurrence.pattern.yearly.month.10.label      "ตุลาคม" >
+<!ENTITY event.recurrence.pattern.yearly.month.11.label      "พฤศจิกายน" >
+<!ENTITY event.recurrence.pattern.yearly.month.12.label      "ธันวาคม" >
+<!ENTITY event.recurrence.yearly.every.label                 "ทุก">
+<!ENTITY event.recurrence.pattern.yearly.week.1.label        "วันอาทิตย์" >
+<!ENTITY event.recurrence.pattern.yearly.week.2.label        "วันจันทร์" >
+<!ENTITY event.recurrence.pattern.yearly.week.3.label        "วันอังคาร" >
+<!ENTITY event.recurrence.pattern.yearly.week.4.label        "วันพุธ" >
+<!ENTITY event.recurrence.pattern.yearly.week.5.label        "วันพฤหัสบดี" >
+<!ENTITY event.recurrence.pattern.yearly.week.6.label        "วันศุกร์" >
+<!ENTITY event.recurrence.pattern.yearly.week.7.label        "วันเสาร์" >
+<!ENTITY event.recurrence.pattern.yearly.day.label           "วัน" >
+<!ENTITY event.recurrence.of.label                           "ของ" >
+<!ENTITY event.recurrence.pattern.yearly.month2.1.label      "มกราคม" >
+<!ENTITY event.recurrence.pattern.yearly.month2.2.label      "กุมภาพันธ์" >
+<!ENTITY event.recurrence.pattern.yearly.month2.3.label      "มีนาคม" >
+<!ENTITY event.recurrence.pattern.yearly.month2.4.label      "เมษายน" >
+<!ENTITY event.recurrence.pattern.yearly.month2.5.label      "พฤษภาคม" >
+<!ENTITY event.recurrence.pattern.yearly.month2.6.label      "มิถุนายน" >
+<!ENTITY event.recurrence.pattern.yearly.month2.7.label      "กรกฎาคม" >
+<!ENTITY event.recurrence.pattern.yearly.month2.8.label      "สิงหาคม" >
+<!ENTITY event.recurrence.pattern.yearly.month2.9.label      "กันยายน" >
+<!ENTITY event.recurrence.pattern.yearly.month2.10.label     "ตุลาคม" >
+<!ENTITY event.recurrence.pattern.yearly.month2.11.label     "พฤศจิกายน" >
+<!ENTITY event.recurrence.pattern.yearly.month2.12.label     "ธันวาคม" >
 
+<!ENTITY event.recurrence.range.label                   "ช่วงของการเกิดซ้ำ">
+<!ENTITY event.recurrence.forever.label                 "ไม่มีวันที่สิ้นสุด" >
+<!ENTITY event.recurrence.repeat.for.label              "สร้าง" >
+<!ENTITY event.recurrence.appointments.label            "การนัดหมาย" >
+<!ENTITY event.repeat.until.label                       "ทำซ้ำจนถึง" >
+<!ENTITY event.recurrence.preview.label                 "แสดงตัวอย่าง">
 
 <!-- Attendees dialog -->
+<!ENTITY invite.title.label                     "เชิญผู้เข้าร่วม">
+<!ENTITY event.organizer.label                  "ผู้จัด">
+<!ENTITY event.freebusy.zoom                    "ซูม:">
+<!ENTITY event.freebusy.legend.free             "ว่าง" >
+<!ENTITY event.freebusy.legend.busy             "ไม่ว่าง" >
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "โปรดระบุเขตเวลา">
