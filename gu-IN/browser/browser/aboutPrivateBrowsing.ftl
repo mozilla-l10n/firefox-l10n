@@ -4,12 +4,15 @@
 
 about-private-browsing-learn-more = વિશે વધુ શીખો <a data-l10n-name="learn-more">ખાનગી બ્રાઉઝિંગ</a>.
 about-private-browsing-info-visited = મુલાકાત લીધેલા પૃષ્ઠો
+privatebrowsingpage-open-private-window-label = ખાનગી વિન્ડો ખોલો
+    .accesskey = P
 about-private-browsing-search-placeholder = વેબ પર શોધો
 about-private-browsing-info-bookmarks = બુકમાર્ક્સ
 about-private-browsing-info-title = તમે ખાનગી વિન્ડો માં છો
 about-private-browsing-info-searches = શોધ
 about-private-browsing-info-downloads = ડાઉનલોડ
 private-browsing-title = ખાનગી બ્રાઉઝિંગ
+about-private-browsing-info-saved = { -brand-short-name } <strong>સેવ કરશે</strong>તમારા:
 about-private-browsing-info-myths = ખાનગી બ્રાઉઝિંગ વિશે સામાન્ય માન્યતાઓ
 about-private-browsing-info-clipboard = નકલ કરેલ લખાણ
 about-private-browsing-info-temporary-files = કામચલાઉ ફાઈલો
