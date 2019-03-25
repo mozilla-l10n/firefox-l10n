@@ -6,8 +6,8 @@ about-private-browsing-learn-more = Gahuin chrunt doj rayi'î <a data-l10n-name=
 about-private-browsing-info-visited = Nej ñanj ngà' ni'io'
 privatebrowsingpage-open-private-window-label = Ga'nin riña 'ngo ventanahuìi
     .accesskey = h
-about-private-browsing-info-notsaved = Nga aché nunt riña 'ngo ventana huìi, { -brand-short-name }<strong>Nu nanun sà'aj</strong>:{ " " }
-about-private-browsing-info-bookmarks = Sa raj sun doj{ " " }
+about-private-browsing-info-notsaved = Nga aché nunt riña 'ngo ventana huìi, { -brand-short-name }<strong>Nu nanun sà'aj</strong>:
+about-private-browsing-info-bookmarks = Sa raj sun doj
 about-private-browsing-info-searches = Nej sa nanan'uî'
 about-private-browsing-info-downloads = Naduninj
 private-browsing-title = Gachenu hùi'
