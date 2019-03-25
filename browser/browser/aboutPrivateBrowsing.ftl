@@ -14,6 +14,7 @@ about-private-browsing-info-searches = Búsquedas
 about-private-browsing-info-downloads = Descargas
 private-browsing-title = Navegación privada
 about-private-browsing-info-saved = { -brand-short-name } <strong>sí guarda</strong> tus:
+about-private-browsing-info-myths = Mitos comunes sobre la navegación privada
 about-private-browsing-info-clipboard = texto copiado
 about-private-browsing-info-temporary-files = Archivos temporales
 about-private-browsing-info-cookies = Cookies
