@@ -94,6 +94,7 @@
   -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the service workers testing features on or off. This option enables service workers over HTTP. -->
 <!ENTITY options.enableServiceWorkersHTTP.label     "Cho phép Service Worker qua HTTP (khi hộp công cụ mở)">
+<!ENTITY options.enableServiceWorkersHTTP.tooltip   "Bật tùy chọn này sẽ cho phép service workers qua HTTP cho tất cả các thẻ đang mở hộp công cụ.">
 
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label2): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
