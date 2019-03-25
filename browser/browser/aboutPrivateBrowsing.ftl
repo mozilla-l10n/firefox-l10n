@@ -2,12 +2,15 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+about-private-browsing-info-visited = as páxinas visitadas
 privatebrowsingpage-open-private-window-label = Abrir unha xanela privada
     .accesskey = p
+about-private-browsing-info-notsaved = Cando navega nunha xanela privada, { -brand-short-name } <strong>non garda</strong>:
 about-private-browsing-info-bookmarks = Marcadores
 about-private-browsing-info-searches = Buscas
 about-private-browsing-info-downloads = Descargas
 private-browsing-title = Navegación privada
+about-private-browsing-info-saved = { -brand-short-name } <strong>gardará</strong> o seu:
 about-private-browsing-info-clipboard = texto copiado
 about-private-browsing-info-temporary-files = Ficheiros temporais
 about-private-browsing-info-cookies = Cookies
