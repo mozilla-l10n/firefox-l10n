@@ -14,3 +14,4 @@ about-private-browsing-info-saved = { -brand-short-name } <strong>sarba</strong>
 about-private-browsing-info-temporary-files = prichi pruvvisori
 tracking-protection-start-tour = Talia comu funziona
 about-private-browsing-note = La navigazzioni ammucciata <strong>nun ti fa 'ffacciari senza nomu</strong> ncapu Internet. Lu to' principali o lu to' provider ponnu sapiri quali pàggini stai visitannu.
+about-private-browsing-not-private = P'accamora nun sí nta na finestra ammucciata.
