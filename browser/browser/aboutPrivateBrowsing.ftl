@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-private-browsing-learn-more = এ সম্পর্কে আরও জানুন <a data-l10n-name="learn-more">ব্যক্তিগত ব্রাউজিং</a>।
+about-private-browsing-info-visited = দেখে ফেলা পেজসমূহ
 privatebrowsingpage-open-private-window-label = একটি ব্যক্তিগত উইন্ডো খুলুন
     .accesskey = P
 about-private-browsing-info-notsaved = যখন আপনি কোন ব্যক্তিগত উইন্ডো ব্রাউজ করেন, { -brand-short-name } <strong>সংরক্ষণ করবে না</strong>:
