@@ -19,4 +19,4 @@ tracking-protection-start-tour = Qanday ishlashi haqida tanishing
 about-private-browsing-note = Maxfiy ko‘rish orqali <strong>siz internetda butunlay ko‘rinmas bo‘la olmaysiz.</strong> Ish beruvchingiz yoki internet provayderingiz xodimlari siz kirgan sahifalarni ko‘ra olishadi.
 about-private-browsing-not-private = Siz hozirda maxfiy oynada emassiz.
 content-blocking-title = Kontentni bloklash
-content-blocking-description = Ba’zi saytlar internetdagi faoliyatingizni o‘rganish uchun kuzatishlari mumkin. Maxfiy oynalarda { -brand-short-name } kontentni bloklash funksiyasi yordamida ko‘plab kuzatuvlarni avtomatik bloklash mumkin. Ularning kuzatishdan maqsadi internetdagi faoliyatingizni o‘rganish.{ " " }
+content-blocking-description = Ba’zi saytlar internetdagi faoliyatingizni o‘rganish uchun kuzatishlari mumkin. Maxfiy oynalarda { -brand-short-name } kontentni bloklash funksiyasi yordamida ko‘plab kuzatuvlarni avtomatik bloklash mumkin. Ularning kuzatishdan maqsadi internetdagi faoliyatingizni o‘rganish.
