@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-about-private-browsing-learn-more = { " " }<a data-l10n-name="learn-more">ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ</a> ਬਾਰੇ ਹੋਰ ਜਾਣੋ।
+about-private-browsing-learn-more = <a data-l10n-name="learn-more">ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ</a> ਬਾਰੇ ਹੋਰ ਜਾਣੋ।
 about-private-browsing-info-visited = ਖੋਲ੍ਹੇ ਗਏ ਸਫ਼ੇ
 privatebrowsingpage-open-private-window-label = ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਨੂੰ ਖੋਲ੍ਹੋ
     .accesskey = P
