@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+about-private-browsing-learn-more = Дознајте повеќе за <a data-l10n-name="learn-more">Приватно прелистување</a>.
 about-private-browsing-info-visited = посетени страници
 privatebrowsingpage-open-private-window-label = Отвори приватен прозорецw
     .accesskey = п
