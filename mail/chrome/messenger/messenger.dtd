@@ -256,23 +256,89 @@
 <!ENTITY addonNoPrefs.label "ไม่พบการตั้งค่าส่วนเสริม">
 <!ENTITY activitymanager.label "ตัวจัดการกิจกรรม">
 <!ENTITY imAccountsStatus.label "สถานะการแชท">
+<!ENTITY imStatus.available          "พร้อมใช้งาน">
+<!ENTITY imStatus.unavailable        "ไม่พร้อมใช้งาน">
+<!ENTITY imStatus.offline            "ออฟไลน์">
+<!ENTITY imStatus.showAccounts       "แสดงบัญชี…">
+<!ENTITY joinChatCmd.label "เข้าร่วมแชท…">
+<!ENTITY savedFiles.label "ไฟล์ที่บันทึกไว้">
+<!ENTITY filtersCmd2.label "ตัวกรองข้อความ">
+<!ENTITY filtersApply.label "เรียกใช้ตัวกรองกับโฟลเดอร์">
+<!ENTITY filtersApplyToSelection.label "เรียกใช้ตัวกรองกับข้อความที่เลือก">
+<!ENTITY filtersApplyToMessage.label "เรียกใช้ตัวกรองกับข้อความ">
+<!ENTITY runJunkControls.label "เรียกใช้การควบคุมจดหมายขยะกับโฟลเดอร์">
+<!ENTITY deleteJunk.label "ลบจดหมายที่ถูกทำเครื่องหมายว่าเป็นขยะในโฟลเดอร์">
+<!ENTITY importCmd.label "นำเข้า…">
+<!ENTITY clearRecentHistory.label "ล้างประวัติล่าสุด…">
+<!ENTITY accountManagerCmd2.label "การตั้งค่าบัญชี">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey):
      Belongs to accountManagerCmd.label, which is placed under the Edit menu
      on Unix systems
   -->
 
 <!-- Developer Tools Submenu -->
+<!ENTITY devtoolsMenu.label "เครื่องมือนักพัฒนา">
+<!ENTITY devToolboxCmd.label "กล่องเครื่องมือนักพัฒนา">
+<!ENTITY debugAddonsCmd.label "ดีบั๊กส่วนเสริม">
+<!ENTITY tabsDebugCmd.label "ตัวดีบั๊กเฟรมเนื้อหา">
+<!ENTITY errorConsoleCmd.label "คอนโซลข้อผิดพลาด">
+<!ENTITY scratchpadCmd.label "กระดานทดลอง">
 
 <!--LOCALIZATION NOTE (scratchpadCmd.keycode):
     This should be a key code constant as per
     https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/keyCode#Constants_for_keyCode_value
     (but without the DOM_ prefix) -->
+<!ENTITY scratchpadCmd.keycode "VK_F4">
 <!--LOCALIZATION NOTE (scratchpadCmd.keytext):
     This should be the text printed on the key defined in the previous string. -->
+<!ENTITY scratchpadCmd.keytext "F4">
 
 <!-- Mail Toolbar -->
+<!ENTITY getMsgButton1.label "รับข้อความ">
+<!ENTITY newMsgButton.label "เขียน">
+<!ENTITY replyButton.label "ตอบกลับ">
+<!ENTITY replyAllButton.label "ตอบกลับทั้งหมด">
+<!ENTITY replyListButton.label "ตอบกลับถึงรายการ">
+<!ENTITY forwardButton.label "ส่งต่อ">
+<!ENTITY fileButton.label "ไฟล์">
+<!ENTITY archiveButton.label "เก็บถาวร">
+<!ENTITY openConversationButton.label "การสนทนา">
+<!ENTITY nextButton.label "ถัดไป">
+<!ENTITY nextButtonToolbarItem.label "ถัดไปที่ยังไม่ได้อ่าน">
+<!ENTITY nextMsgButton.label "ถัดไป">
+<!ENTITY previousButton.label "ก่อนหน้า">
+<!ENTITY previousButtonToolbarItem.label "ก่อนหน้าที่ยังไม่ได้อ่าน">
+<!ENTITY previousMsgButton.label "ก่อนหน้า">
+<!ENTITY backButton1.label "ย้อนกลับ">
+<!ENTITY goForwardButton1.label "เดินหน้า">
+<!ENTITY deleteItem.title "ลบ">
+<!ENTITY deleteButton.label "ลบ">
+<!ENTITY undeleteButton.label "เลิกลบ">
+<!ENTITY markButton.label "ทำเครื่องหมาย">
+<!ENTITY printButton.label "พิมพ์">
+<!ENTITY stopButton.label "หยุด">
+<!ENTITY throbberItem.title "ตัวบ่งชี้กิจกรรม">
+<!ENTITY junkItem.title "ขยะ">
+<!ENTITY junkButton.label "ขยะ">
+<!ENTITY notJunkButton.label "ไม่ใช่ขยะ">
+<!ENTITY addressBookButton.label "สมุดรายชื่อ">
+<!ENTITY chatButton.label "แชท">
+<!ENTITY glodaSearch.title "การค้นหาส่วนกลาง">
+<!ENTITY searchItem.title "การค้นหาด่วน">
+<!ENTITY mailViewsToolbarItem.title "มุมมองจดหมาย">
+<!ENTITY folderLocationToolbarItem.title "ตำแหน่งที่ตั้งโฟลเดอร์">
+<!ENTITY tagButton.label "ป้ายกำกับ">
+<!ENTITY compactButton.label "กระชับ">
+<!ENTITY appmenuButton.label "เมนูแอป">
 
 <!-- Mail Toolbar Tooltips-->
+<!ENTITY advancedButton.tooltip "การค้นหาข้อความขั้นสูง">
+<!ENTITY getMsgButton.tooltip "รับข้อความใหม่">
+<!ENTITY getAllNewMsgCmd.label "รับข้อความใหม่ทั้งหมด">
+<!ENTITY getAllNewMsgCmd.accesskey "ร">
+<!ENTITY newMsgButton.tooltip "สร้างข้อความใหม่">
+<!ENTITY replyButton.tooltip "ตอบกลับถึงข้อความ">
+<!ENTITY replyAllButton.tooltip "ตอบกลับถึงผู้ส่งและผู้รับทั้งหมด">
 
 <!-- Toolbar Button Popup -->
 
