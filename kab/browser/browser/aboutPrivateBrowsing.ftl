@@ -4,8 +4,10 @@
 
 about-private-browsing-learn-more = Issin ugar ɣef <a data-l10n-name="learn-more">Tunigin tusligt</a>.
 about-private-browsing-info-visited = isebtar yettwarzan{ " " }
+about-private-browsing-info-title = Deg usfaylu uslig i telliḍ tura
 about-private-browsing-info-searches = anadi{ " " }
 about-private-browsing-info-downloads = isidar{ " " }
 private-browsing-title = Tunigin tusligt{ " " }
+about-private-browsing-info-clipboard = aḍris yettwaneɣlen
 about-private-browsing-info-temporary-files = ifuyla iskudanen{ " " }
 about-private-browsing-info-cookies = inagan n tuqqna{ " " }
