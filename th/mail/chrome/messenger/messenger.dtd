@@ -339,17 +339,57 @@
 <!ENTITY newMsgButton.tooltip "สร้างข้อความใหม่">
 <!ENTITY replyButton.tooltip "ตอบกลับถึงข้อความ">
 <!ENTITY replyAllButton.tooltip "ตอบกลับถึงผู้ส่งและผู้รับทั้งหมด">
+<!ENTITY replyListButton.tooltip "ตอบกลับถึงรายชื่อผู้รับจดหมาย">
+<!ENTITY forwardButton.tooltip "ส่งต่อข้อความที่เลือก">
+<!ENTITY forwardAsInline.tooltip "ส่งต่อข้อความที่เลือกเป็นข้อความแบบอินไลน์">
+<!ENTITY forwardAsAttachment.tooltip "ส่งต่อข้อความที่เลือกเป็นไฟล์แนบ">
+<!ENTITY fileButton.tooltip "นำข้อความที่เลือกไปยังจุดอื่น">
+<!ENTITY archiveButton.tooltip "เก็บถาวรข้อความที่เลือก">
+<!ENTITY openConversationButton.tooltip "แสดงการสนทนาของข้อความที่เลือก">
+<!ENTITY nextButton.tooltip "ย้ายไปยังข้อความที่ยังไม่ได้อ่านถัดไป">
+<!ENTITY nextMsgButton.tooltip "ย้ายไปยังข้อความถัดไป">
+<!ENTITY previousButton.tooltip "ย้ายไปยังข้อความที่ยังไม่ได้อ่านก่อนหน้า">
+<!ENTITY previousMsgButton.tooltip "ย้ายไปยังข้อความก่อนหน้า">
+<!ENTITY goForwardButton.tooltip "เดินหน้าไปหนึ่งข้อความ">
+<!ENTITY goBackButton.tooltip "ย้อนกลับไปหนึ่งข้อความ">
+<!ENTITY deleteButton.tooltip "ลบข้อความหรือโฟลเดอร์ที่เลือก">
+<!ENTITY undeleteButton.tooltip "เลิกลบข้อความที่เลือก">
+<!ENTITY markButton.tooltip "ทำเครื่องหมายข้อความ">
+<!ENTITY printButton.tooltip "พิมพ์ข้อความนี้">
+<!ENTITY stopButton.tooltip "หยุดการถ่ายโอนปัจจุบัน">
+<!ENTITY junkButton.tooltip "ทำเครื่องหมายข้อความที่เลือกว่าเป็นขยะ">
+<!ENTITY notJunkButton.tooltip "ทำเครื่องหมายข้อความที่เลือกว่าไม่เป็นขยะ">
+<!ENTITY addressBookButton.tooltip "ไปยังสมุดรายชื่อ">
+<!ENTITY chatButton.tooltip "แสดงแท็บแชท">
+<!ENTITY tagButton.tooltip "ติดป้ายกำกับข้อความ">
+<!ENTITY compactButton.tooltip "เอาข้อความที่ถูกลบออกจากโฟลเดอร์ที่เลือก">
+<!ENTITY appmenuButton1.tooltip "แสดงเมนู &brandShortName;">
 
 <!-- Toolbar Button Popup -->
+<!ENTITY buttonMenuForwardAsInline.label "ส่งต่อแบบอินไลน์">
+<!ENTITY buttonMenuForwardAsAttachment.label "ส่งต่อเป็นไฟล์แนบ">
 
 <!-- Remote Content Button Popup -->
+<!ENTITY remoteContentOptionsAllowForMsg.label "แสดงเนื้อหาระยะไกลในข้อความนี้">
+<!ENTITY editRemoteContentSettings.label "แก้ไขตัวเลือกเนื้อหาระยะไกล…">
+<!ENTITY editRemoteContentSettingsUnix.label "แก้ไขค่ากำหนดเนื้อหาระยะไกล…">
 
 <!-- Phishing Button Popup -->
+<!ENTITY phishingOptionIgnore.label "เพิกเฉยคำเตือนสำหรับข้อความนี้">
+<!ENTITY phishingOptionSettings.label "แก้ไขตัวเลือกการตรวจพบสแปม…">
+<!ENTITY phishingOptionSettingsUnix.label "แก้ไขค่ากำหนดการตรวจพบสแปม…">
 
 <!-- AppMenu Popup -->
+<!ENTITY appmenuNewMsgCmd.label "ข้อความใหม่">
 <!ENTITY appmenuNewContactCmd.label "ผู้ติดต่อของสมุดรายชื่อ…">
+<!ENTITY appmenuEditMenu.label "แก้ไข">
+<!ENTITY appmenuToolbarLayout.label "เค้าโครงแถบเครื่องมือ…">
+<!ENTITY appmenuSelectThread.label "เลือกหัวข้อ">
+<!ENTITY appmenuSelectFlagged.label "เลือกข้อความที่ติดดาว">
 
 <!-- Tags Menu Popup -->
+<!ENTITY addNewTag.label "ป้ายกำกับใหม่…">
+<!ENTITY manageTags.label "จัดการป้ายกำกับ…">
 
 <!-- Folder Pane -->
 
