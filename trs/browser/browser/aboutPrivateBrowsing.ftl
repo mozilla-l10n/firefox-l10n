@@ -17,3 +17,4 @@ about-private-browsing-info-cookies = cookies
 tracking-protection-start-tour = Ni'iaj dà 'iaj sunj
 about-private-browsing-note = Gachenu hùi'<strong>Nitaj hua huì nunt</strong>riña internet. Si aga't na ni ni'in riña aché nut
 about-private-browsing-not-private = Se riña ventana hua huìi nut akuan' nï
+content-blocking-title = Garrun' riña kontenido
