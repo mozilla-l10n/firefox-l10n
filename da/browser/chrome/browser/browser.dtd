@@ -274,6 +274,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY leaveDOMFullScreen.label "Afslut fuld skærm">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
 
+<!-- LOCALIZATION NOTE (pictureInPicture.label, pictureInPicture.accesskey):
+     these two strings are used when right-clicking on a video in the
+     content area when the Picture-in-Picture feature is enabled. -->
+<!ENTITY pictureInPicture.label "Picture-in-Picture">
+<!ENTITY pictureInPicture.accesskey "u">
+
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring pointerlock.
@@ -1366,6 +1372,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addonPostInstallMessage.label "Håndter dine tilføjelser ved at klikke på <image class='addon-addon-icon'/> i <image class='addon-toolbar-icon'/>-menuen.">
 <!ENTITY addonPostInstall.incognito.label "Tillad denne udvidelse at virke i private vinduer.">
 <!ENTITY addonPostInstall.incognito.accesskey "T">
+<!ENTITY addonPostInstall.incognito.checkbox.label "Tillad denne udvidelse at virke i private vinduer.">
+<!ENTITY addonPostInstall.incognito.checkbox.accesskey "T">
 
 <!ENTITY addonPrivateBrowsing.header.label "Udvidelser i private vinduer">
 <!ENTITY addonPrivateBrowsing.body.label "Udvidelser har som standard ikke tilladelse til at køre i private vinduer. Det vil sige, at de simpelthen ikke fungerer i private vinduer og derfor heller ikke har adgang til din online adfærd. Gå til indstillinger for at tillade udvidelser at køre i private vinduer.">
