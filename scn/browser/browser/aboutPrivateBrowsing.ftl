@@ -6,6 +6,7 @@ about-private-browsing-learn-more = Cchiú nfurmazzioni supra la <a data-l10n-na
 about-private-browsing-info-visited = pàggini visitati
 privatebrowsingpage-open-private-window-label = Grapi na finestra ammucciata
     .accesskey = a
+about-private-browsing-info-notsaved = Quannu navighi nta na finestra ammucciata, { -brand-short-name } <strong>nun sarba</strong>:
 about-private-browsing-info-bookmarks = nzingalibbra
 about-private-browsing-info-downloads = scarricamenti
 private-browsing-title = Navigazzioni Ammucciata
