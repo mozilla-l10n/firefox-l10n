@@ -19,3 +19,4 @@ about-private-browsing-info-cookies = inagan n tuqqna{ " " }
 tracking-protection-start-tour = Wali amek i iteddu
 about-private-browsing-note = Tunigin tusligt  <strong>ur k-yettarra ara d udrig</strong> deg Internet, asemras-ik neɣ aseǧǧaw-ik n tuqqna internet zemren ad ẓren isebtar iɣer trezzuḍ.
 about-private-browsing-not-private = Mačči deg usfaylu uslig i telliḍ tura.
+content-blocking-title = Asewḥel n ugbur
