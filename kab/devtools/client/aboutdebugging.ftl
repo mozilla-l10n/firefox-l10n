@@ -11,6 +11,8 @@
 
 # Sidebar strings
 
+# Connection status (connected) for runtime items in the sidebar
+aboutdebugging-sidebar-runtime-connection-status-connected = Iqqen
 # Text displayed in buttons found in sidebar items representing remote runtimes.
 # Clicking on the button will attempt to connect to the runtime.
 about-debugging-sidebar-item-connect-button = Qqen
@@ -24,6 +26,9 @@ about-debugging-sidebar-runtime-item-name =
 # locations).
 about-debugging-sidebar-runtime-item-name-no-device =
     .title = { $displayName }
+# Text displayed in a sidebar button to refresh the list of USB devices. Clicking on it
+# will attempt to update the list of devices displayed in the sidebar.
+about-debugging-refresh-usb-devices-button = Smiren ibenkan
 
 # Setup Page strings
 
@@ -37,6 +42,7 @@ about-debugging-setup-usb-updating-button = Aleqqem...
 # USB section of the Setup page (USB status)
 about-debugging-setup-usb-status-enabled = Irmed
 about-debugging-setup-usb-status-disabled = Arurmid
+about-debugging-setup-usb-status-updating = Aleqqem...
 # Text of a button displayed after the network locations "Host" input.
 # Clicking on it will add the new network location to the list.
 about-debugging-network-locations-add-button = Rnu

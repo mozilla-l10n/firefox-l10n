@@ -4,3 +4,4 @@
 
 label-disable = Ssens
 label-enable = Rmed
+text-title = about:compat
