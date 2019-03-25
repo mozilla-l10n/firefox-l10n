@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+about-private-browsing-learn-more = ဆက်လက်လေ့လာပါ <a data-l10n-name="learn-more">တစ်ကိုယ်ရေအင်တာနက်သုံး</a>.
 about-private-browsing-info-visited = ကြည့်ရှုခဲ့သည့် စာမျက်နှာများ
 privatebrowsingpage-open-private-window-label = သီးသန့်ဝင်းဒိုးကို ဖွင့်ပါ
     .accesskey = P
