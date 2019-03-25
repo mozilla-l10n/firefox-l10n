@@ -24,4 +24,5 @@ about-private-browsing =
     .title = Search the Web
 about-private-browsing-not-private = You are currently not in a private window.
 content-blocking-title = Content Blocking
+content-blocking-description = Some websites use trackers that can monitor your activity across the Internet. In private windows, { -brand-short-name } Content Blocking automatically blocks many trackers that can collect information about your browsing behaviour.
 about-private-browsing-info-description = { -brand-short-name } clears your search and browsing history when you quit the app or close all Private Browsing tabs and windows. While this doesn’t make you anonymous to websites or your internet service provider, it makes it easier to keep what you do online private from anyone else who uses this computer.
