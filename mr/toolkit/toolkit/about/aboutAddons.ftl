@@ -222,3 +222,12 @@ shortcuts-letter = एक अक्षर टाइप करा
 shortcuts-card-collapse-button = कमी दर्शवा
 go-back-button =
     .tooltiptext = मागे जा
+
+## Add-on actions
+
+remove-addon-button = काढून टाका
+disable-addon-button = निष्क्रिय
+enable-addon-button = सक्रिय
+expand-addon-button = आणखी पर्याय
+addons-enabled-heading = सक्रिय
+addons-disabled-heading = निष्क्रिय

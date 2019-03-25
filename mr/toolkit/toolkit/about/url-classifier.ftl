@@ -5,6 +5,7 @@
 url-classifier-title = URL वर्गिकारक माहिती
 url-classifier-search-title = शोध
 url-classifier-search-result-title = परिणाम
+url-classifier-search-result-uri = URI: { $uri }
 url-classifier-search-result-list = सारण्यांची सूची: { $list }
 url-classifier-search-input = URL
 url-classifier-search-error-invalid-url = अवैध URL
