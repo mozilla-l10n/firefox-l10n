@@ -213,6 +213,22 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenExit.label "Ekki fylla skjá">
 <!ENTITY fullScreenExit.accesskey "f">
 
+ <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
+     for the Firefox Account toolbar signin menu screen. -->
+
+<!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
+     for the Firefox Account toolbar unverified menu screen. -->
+
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbart menu screen. The `Signed in as` text is
+     followed by the user's email. -->
+<!ENTITY fxa.menu.signedInAs.label "Skráður inn sem">
+<!ENTITY fxa.menu.manageAccount.label "Sýsla með aðgang…">
+<!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label; Stillingar…">
+<!ENTITY fxa.menu.connectAnotherDevice.label "&syncedTabs.sidebar.connectAnotherDevice;">
+<!ENTITY fxa.menu.connectAnotherDevice2.label "Tengja annað tæki…">
+<!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
+
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring fullscreen.
@@ -229,6 +245,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY exitDOMFullscreenMac.button "Hætta í fullum skjá (esc)">
 <!ENTITY leaveDOMFullScreen.label "Hætta í fullum skjá">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
+
+<!-- LOCALIZATION NOTE (pictureInPicture.label, pictureInPicture.accesskey):
+     these two strings are used when right-clicking on a video in the
+     content area when the Picture-in-Picture feature is enabled. -->
+<!ENTITY pictureInPicture.label "Mynd-í-mynd">
+<!ENTITY pictureInPicture.accesskey "u">
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
@@ -407,6 +429,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmd2.accesskey     "V">
 <!ENTITY preferencesCmdUnix.label       "Valkostir">
 <!ENTITY preferencesCmdUnix.accesskey     "V">
+
+<!ENTITY logins.label                           "Innskráning og lykilorð">
 
 <!ENTITY clearRecentHistory.label               "Hreinsa nýlega ferla…">
 
@@ -930,6 +954,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncSignIn.label             "Skráðu þig inn í &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "y">
 <!ENTITY syncSyncNowItem.label        "Samstilla núna">
+<!ENTITY syncSyncNowItemSyncing.label "Er að samstilla…">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "Endurtengjast við &syncBrand.shortName.label;…">
 <!ENTITY syncReAuthItem.accesskey     "r">
@@ -1128,8 +1153,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Sýslaðu með viðbætur með því að smella á <image class='addon-addon-icon'/> í <image class='addon-toolbar-icon'/> valmyndinni.">
-<!ENTITY addonPostInstall.incognito.accesskey "A">
+<!ENTITY addonPostInstall.incognito.checkbox.accesskey "A">
 
+<!ENTITY addonPrivateBrowsing.header2.label "Skipta yfir í viðbætur í huliðsgluggum">
 <!ENTITY addonPrivateBrowsing.okButton.label "Allt í lagi, ég skil">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "O">
 <!ENTITY addonPrivateBrowsing.manageButton.label "Stjórna viðbótum">
