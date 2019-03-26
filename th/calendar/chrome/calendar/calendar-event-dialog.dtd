@@ -369,6 +369,9 @@
 <!-- Attendees dialog -->
 <!ENTITY invite.title.label                     "เชิญผู้เข้าร่วม">
 <!ENTITY event.organizer.label                  "ผู้จัด">
+<!ENTITY event.freebusy.suggest.slot            "ช่วงเวลาที่เสนอแนะ:">
+<!ENTITY event.freebusy.button.next.slot        "ช่วงถัดไป">
+<!ENTITY event.freebusy.button.previous.slot    "ช่วงก่อนหน้า">
 <!ENTITY event.freebusy.zoom                    "ซูม:">
 <!ENTITY event.freebusy.legend.free             "ว่าง" >
 <!ENTITY event.freebusy.legend.busy             "ไม่ว่าง" >
