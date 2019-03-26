@@ -109,6 +109,14 @@ about-debugging-network-locations-host-input-label = Värd
 # Text of a button displayed next to existing network locations in the Connect page.
 # Clicking on it removes the network location from the list.
 about-debugging-network-locations-remove-button = Ta bort
+# Text used as error message if the format of the input value was invalid in the network locations form of the Setup page.
+# Variables:
+#   $host-value (string) - The input value submitted by the user in the network locations form
+about-debugging-network-location-form-invalid = Ogiltigt värdnamn "{ $host-value }". Det förväntade formatet är "värdnamn: portnummer".
+# Text used as error message if the input value was already registered in the network locations form of the Setup page.
+# Variables:
+#   $host-value (string) - The input value submitted by the user in the network locations form
+about-debugging-network-location-form-duplicate = Detta värdnamn "{ $host-value }" är redan registrerat
 
 # Runtime Page strings
 
