@@ -6,14 +6,12 @@ about-private-browsing-learn-more = <a data-l10n-name="learn-more">ਪ੍ਰਾ�
 about-private-browsing-info-visited = ਖੋਲ੍ਹੇ ਗਏ ਸਫ਼ੇ
 privatebrowsingpage-open-private-window-label = ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਨੂੰ ਖੋਲ੍ਹੋ
     .accesskey = P
-about-private-browsing-info-notsaved = ਜਦੋਂ ਤੁਸੀਂ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਵਿੱਚ ਬਰਾਊਜ਼ ਕਰਦੇ ਹੋ ਤਾਂ ਫਾਇਰਫਾਕਸ<strong>ਇਹਨਾਂ ਨੂੰ ਨਹੀਂ ਸੰਭਾਲਦਾ</strong>:
 about-private-browsing-search-placeholder = ਵੈੱਬ ‘ਤੇ ਲੱਭੋ
 about-private-browsing-info-bookmarks = ਬੁੱਕਮਾਰਕ
 about-private-browsing-info-title = ਤੁਸੀਂ ਨਿੱਜੀ ਵਿੰਡੋ ‘ਚ ਹੋ
 about-private-browsing-info-searches = ਖੋਜਾਂ
 about-private-browsing-info-downloads = ਡਾਊਨਲੋਡ
 private-browsing-title = ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ
-about-private-browsing-info-saved = ਫਾਇਰਫਾਕਸ <strong>ਸੰਭਾਲੇਗਾ</strong> ਤੁਹਾਡੇ:
 about-private-browsing-info-myths = ਨਿੱਜੀ ਬਰਾਊਜ਼ ਕਰਨ ਬਾਰੇ ਆਮ ਮਿੱਥਾਂ
 about-private-browsing-info-clipboard = ਲਿਖਤ ਕਾਪੀ ਕੀਤੀ
 about-private-browsing-info-temporary-files = ਆਰਜ਼ੀ ਫਾਈਲਾਂ
