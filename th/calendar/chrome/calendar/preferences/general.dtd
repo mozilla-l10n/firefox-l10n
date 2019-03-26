@@ -14,13 +14,23 @@
 
 <!ENTITY pref.timezones.caption "เขตเวลา">
 
+<!ENTITY pref.events.label "เหตุการณ์">
+<!ENTITY pref.tasks.label "งาน">
 
+<!ENTITY pref.default_event_length.label "ความยาวเริ่มต้น:" >
+<!ENTITY pref.default_event_length.accesskey "ค">
 
+<!ENTITY pref.default_task_none.label "ไม่มี">
+<!ENTITY pref.default_task_tomorrow.label "พรุ่งนี้">
+<!ENTITY pref.default_task_next_week.label "สัปดาห์ถัดไป">
 
+<!ENTITY pref.calendar.todaypane.agenda.caption "บานหน้าต่างวันนี้">
 <!-- LOCALIZATION NOTE (pref.soondays2.label):
      "Upcoming" is the name of a section and the translation must match the
      translation of that section name (calendar.upcoming.button.label). Also,
      it should be upper case (as a proper name) if the target language permits.
   -->
 
+<!ENTITY pref.accessibility.label "การช่วยการเข้าถึง" >
 
+<!ENTITY pref.eventsandtasks.label "เหตุการณ์และงาน" >
