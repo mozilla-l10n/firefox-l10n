@@ -12,9 +12,9 @@ cfr-doorhanger-extension-ok-button = Adicionar agora
     .accesskey = A
 cfr-doorhanger-pintab-ok-button = Fixar esta aba
     .accesskey = x
-cfr-doorhanger-extension-manage-settings-button = Gerenciar definições de recomendações
+cfr-doorhanger-extension-manage-settings-button = Gerenciar configurações de recomendações
     .accesskey = m
-cfr-doorhanger-extension-never-show-recommendation = Não me mostrar esta recomendação
+cfr-doorhanger-extension-never-show-recommendation = Não mostrar esta recomendação
     .accesskey = s
 cfr-doorhanger-extension-learn-more-link = Saiba mais
 # This string is used on a new line below the add-on name
