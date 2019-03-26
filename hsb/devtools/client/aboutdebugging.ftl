@@ -85,6 +85,8 @@ about-debugging-setup-usb-status-enabled = Zmóžnjeny
 about-debugging-setup-usb-status-disabled = Znjemóžnjeny
 about-debugging-setup-usb-status-updating = Aktualizuje so…
 # USB section step by step guide
+about-debugging-setup-usb-step-enable-dev-menu = Zmóžńće meni wuwiwarjow na swojim graće Android. <a>Zhońće kak</a>
+# USB section step by step guide
 about-debugging-setup-usb-step-plug-device = Zwjazajće grat Android ze swojim ličakom.
 # Network section of the Setup page
 about-debugging-setup-network =
@@ -116,7 +118,7 @@ about-debugging-network-location-form-duplicate = Host "{ $host-value }" je hiž
 # on "runtime" pages of about:debugging.
 # Title of the temporary extensions category (only available for "This Firefox" runtime).
 about-debugging-runtime-temporary-extensions =
-    .name = Nachwile rozšěrjenja
+    .name = Nachwilne rozšěrjenja
 # Title of the extensions category.
 about-debugging-runtime-extensions =
     .name = Rozšěrjenja
