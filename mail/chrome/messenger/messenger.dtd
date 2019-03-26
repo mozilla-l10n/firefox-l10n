@@ -149,7 +149,7 @@
 
 <!ENTITY bodyMenuFeed.label "เนื้อความของข้อความฟีดเป็น">
 <!ENTITY viewFeedWebPage.label "หน้าเว็บ">
-<!ENTITY viewFeedSummary.label "ข้อมูลสรุป">
+<!ENTITY viewFeedSummary.label "บทสรุป">
 <!ENTITY viewFeedSummaryFeedPropsPref.label "รูปแบบเริ่มต้น">
 
 <!ENTITY viewAttachmentsInlineCmd.label "แสดงไฟล์แนบแบบอินไลน์">
@@ -240,8 +240,8 @@
 <!ENTITY openAttachmentListCmd.label "ไฟล์แนบ">
 <!ENTITY openFeedMessage1.label "เมื่อเปิดข้อความฟีด">
 <!ENTITY openFeedWebPage.label "เปิดเป็นหน้าเว็บ">
-<!ENTITY openFeedSummary.label "เปิดเป็นข้อมูลสรุป">
-<!ENTITY openFeedWebPageInMP.label "เปิด/ปิดหน้าเว็บและข้อมูลสรุปในบานหน้าต่างข้อความ">
+<!ENTITY openFeedSummary.label "เปิดเป็นบทสรุป">
+<!ENTITY openFeedWebPageInMP.label "เปิด/ปิดหน้าเว็บและบทสรุปในบานหน้าต่างข้อความ">
 
 <!-- Windows Menu -->
 <!ENTITY windowMenu.label "หน้าต่าง">
