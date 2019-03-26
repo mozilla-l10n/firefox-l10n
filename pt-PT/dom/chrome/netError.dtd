@@ -11,7 +11,7 @@
 <!ENTITY connectionFailure.longDesc "<p>Apesar do site parecer válido, o navegador foi incapaz de estabelecer uma ligação.</p><ul><li>Pode o site estar temporariamente indisponível? Tente novamente mais tarde.</li><li>Não consegue navegar noutros sites?  Verifique a ligação do computador à rede.</li><li>O seu computador ou rede estão protegidos por uma firewall ou proxy? Definições incorretas podem interferir com a navegação Web.</li></ul>">
 
 <!ENTITY deniedPortAccess.title "Porta restringida por razões de segurança">
-<!ENTITY deniedPortAccess.longDesc "<p>O endereço especifica uma porta (exemplo: <q>mozilla.org:80</q> para a porta 80 no mozilla.org) normalmente utilizada para <em>outros</em> fins para além de navegação Web. O navegador cancelou o pedido para sua proteção e segurança.</p>">
+<!ENTITY deniedPortAccess.longDesc "<p>O endereço solicitado especifica uma porta (exemplo: <q>mozilla.org:80</q> para a porta 80 em mozilla.org) normalmente utilizada para <em>outros</em> propósitos para além de navegação Web. O navegador cancelou a solicitação para sua proteção e segurança.</p>">
 
 <!ENTITY dnsNotFound.title "Endereço não encontrado">
 <!ENTITY dnsNotFound.longDesc "<p>O navegador não conseguiu localizar o servidor do endereço fornecido.</p><ul><li>Enganou-se ao escrever o domínio? (exemplo: <q><strong>ww</strong>.mozilla.org</q> em vez de <q><strong>www</strong>.mozilla.org</q>)</li><li>Tem a certeza de que este endereço de domínio existe?  O seu registo pode ter expirado.</li><li>Consegue navegar em outros sites?  Verifique a sua ligação à rede e as definições do servidor DNS.</li><li>O seu computador ou rede estão protegidos por uma firewall ou proxy?  Definições incorretas podem interferir com a navegação Web.</li></ul>">
