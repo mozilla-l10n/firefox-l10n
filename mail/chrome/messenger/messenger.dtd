@@ -732,7 +732,6 @@
 <!ENTITY contextPrint.accesskey "i">
 <!ENTITY contextPrintPreview.label "Vista preliminar">
 <!ENTITY contextPrintPreview.accesskey "V">
-<!ENTITY columnPicker.resetToInbox.label "Restaurar las columnas predeterminadas">
 <!ENTITY columnPicker.applyTo.label "Aplicar columnas a…">
 <!ENTITY columnPicker.applyToFolder.label "Carpeta…">
 <!ENTITY columnPicker.applyToFolderAndChildren.label "Carpeta y sus subcarpetas…">
