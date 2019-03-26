@@ -290,6 +290,12 @@
 <!ENTITY event.recurrence.pattern.monthly.every.label   "ทุก" >
 <!ENTITY repeat.units.months.both                       "เดือน" >
 <!ENTITY event.recurrence.monthly.every.label           "ทุก" >
+<!ENTITY event.recurrence.monthly.first.label           "แรก">
+<!ENTITY event.recurrence.monthly.second.label          "ที่สอง">
+<!ENTITY event.recurrence.monthly.third.label           "ที่สาม">
+<!ENTITY event.recurrence.monthly.fourth.label          "ที่สี่">
+<!ENTITY event.recurrence.monthly.fifth.label           "ที่ห้า">
+<!ENTITY event.recurrence.monthly.last.label            "สุดท้าย">
 <!ENTITY event.recurrence.pattern.monthly.week.1.label  "วันอาทิตย์" >
 <!ENTITY event.recurrence.pattern.monthly.week.2.label  "วันจันทร์" >
 <!ENTITY event.recurrence.pattern.monthly.week.3.label  "วันอังคาร" >
@@ -298,6 +304,7 @@
 <!ENTITY event.recurrence.pattern.monthly.week.6.label  "วันศุกร์" >
 <!ENTITY event.recurrence.pattern.monthly.week.7.label  "วันเสาร์" >
 <!ENTITY event.recurrence.repeat.dayofmonth.label       "วันของเดือน">
+<!ENTITY event.recurrence.repeat.recur.label            "เกิดซ้ำในวัน">
 
 <!ENTITY event.recurrence.every.label                        "ทุก:" >
 <!ENTITY repeat.units.years.both                             "ปี" >
@@ -324,6 +331,12 @@
 <!ENTITY event.recurrence.pattern.yearly.month.11.label      "พฤศจิกายน" >
 <!ENTITY event.recurrence.pattern.yearly.month.12.label      "ธันวาคม" >
 <!ENTITY event.recurrence.yearly.every.label                 "ทุก">
+<!ENTITY event.recurrence.yearly.first.label                 "แรก">
+<!ENTITY event.recurrence.yearly.second.label                "ที่สอง">
+<!ENTITY event.recurrence.yearly.third.label                 "ที่สาม">
+<!ENTITY event.recurrence.yearly.fourth.label                "ที่สี่">
+<!ENTITY event.recurrence.yearly.fifth.label                 "ที่ห้า">
+<!ENTITY event.recurrence.yearly.last.label                  "สุดท้าย">
 <!ENTITY event.recurrence.pattern.yearly.week.1.label        "วันอาทิตย์" >
 <!ENTITY event.recurrence.pattern.yearly.week.2.label        "วันจันทร์" >
 <!ENTITY event.recurrence.pattern.yearly.week.3.label        "วันอังคาร" >
