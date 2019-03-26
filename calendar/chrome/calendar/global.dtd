@@ -33,6 +33,7 @@
 <!ENTITY onemonthbackward.tooltip "ย้อนกลับหนึ่งเดือน" >
 <!ENTITY onemonthforward.tooltip "เดินหน้าหนึ่งเดือน" >
 <!ENTITY oneyearbackward.tooltip "ย้อนกลับหนึ่งปี" >
+<!ENTITY oneyearforward.tooltip "เดินหน้าหนึ่งปี" >
 <!ENTITY showToday.tooltip "ไปยังวันนี้">
 <!ENTITY onedayforward.tooltip "เดินหน้าหนึ่งวัน">
 <!ENTITY onedaybackward.tooltip "ย้อนกลับหนึ่งวัน">
