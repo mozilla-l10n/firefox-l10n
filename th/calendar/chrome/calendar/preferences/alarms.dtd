@@ -1,0 +1,20 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- WARNING! This file contains UTF-8 encoded characters!
+   - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
+   - your editor isn't using UTF-8 encoding and may munge up the document!
+  -->
+
+<!ENTITY pref.playasound "เล่นเสียง">
+<!ENTITY pref.calendar.alarms.playsound.accessKey "ล">
+<!ENTITY pref.calendar.alarms.sound.useDefault.label "ใช้เสียงเริ่มต้น">
+<!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "ช">
+<!ENTITY pref.calendar.alarms.sound.browse.label "เรียกดู…">
+<!ENTITY pref.calendar.alarms.sound.browse.accessKey "ร">
+<!ENTITY pref.calendar.alarms.sound.play.label "เล่น">
+<!ENTITY pref.calendar.alarms.sound.play.accessKey "ล">
+<!ENTITY pref.showalarmbox "แสดงกล่องโต้ตอบการเตือนความจำ">
+<!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "ส">
+
