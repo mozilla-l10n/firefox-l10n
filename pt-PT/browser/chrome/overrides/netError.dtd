@@ -10,7 +10,6 @@
 <!ENTITY returnToPreviousPage.label "Retroceder">
 <!ENTITY returnToPreviousPage1.label "Retroceder (recomendado)">
 <!ENTITY advanced.label "Avançado">
-<!ENTITY continue2.label "Mais…">
 <!ENTITY advanced2.label "Avançado…">
 <!ENTITY moreInformation.label "Mais informação">
 <!ENTITY viewCertificate.label "Ver certificado">
@@ -39,7 +38,10 @@
 <!ENTITY fileNotFound.longDesc "<ul> <li>Verifique se existem erros de escrita no nome do ficheiro.</li> <li>Verifique se o ficheiro foi movido, renomeado ou apagado.</li> </ul>">
 
 <!ENTITY fileAccessDenied.title "O acesso ao ficheiro foi negado">
-<!ENTITY fileAccessDenied.longDesc "<ul> <li>Pode ter sido removido, movido, ou as permissões do ficheiro podem estar a impedir o acesso.</li> </ul>">
+<!ENTITY fileAccessDenied.longDesc "
+<ul>
+  <li>Este pode ter sido removido, movido ou as permissões do ficheiro podem estar a impedir o acesso.</li>
+</ul>">
 
 <!ENTITY generic.title "Oops.">
 <!ENTITY generic.longDesc "<p>O &brandShortName; não conseguiu carregar a página por alguma razão.</p>">

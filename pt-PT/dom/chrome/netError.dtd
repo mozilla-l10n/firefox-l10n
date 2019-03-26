@@ -20,7 +20,7 @@
 <!ENTITY fileNotFound.longDesc "<ul><li>Pode o item ter sido renomeado, removido, ou movido?</li><li>Existe algum erro ortográfico, de capitalização, ou outro erro tipográfico no endereço?</li><li>Tem permissões de acesso suficientes para o item solicitado?</li></ul>">
 
 <!ENTITY fileAccessDenied.title "O acesso ao ficheiro foi negado">
-<!ENTITY fileAccessDenied.longDesc "<ul> <li>Pode ter sido removido, movido, ou as permissões do ficheiro podem estar a impedir o acesso.</li> </ul>">
+<!ENTITY fileAccessDenied.longDesc "<ul><li>Este pode ter sido removido, movido, ou as permissões do ficheiro podem estar a impedir o acesso.</li></ul>">
 
 <!ENTITY generic.title "Não é possível concluir o pedido">
 <!ENTITY generic.longDesc "<p>Informação adicional sobre este problema ou erro está atualmente indisponível.</p>">

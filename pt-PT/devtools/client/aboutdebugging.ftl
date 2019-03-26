@@ -109,6 +109,14 @@ about-debugging-network-locations-host-input-label = Servidor
 # Text of a button displayed next to existing network locations in the Connect page.
 # Clicking on it removes the network location from the list.
 about-debugging-network-locations-remove-button = Remover
+# Text used as error message if the format of the input value was invalid in the network locations form of the Setup page.
+# Variables:
+#   $host-value (string) - The input value submitted by the user in the network locations form
+about-debugging-network-location-form-invalid = Servidor inválido “{ $host-value }”. O formato esperado é “servidor:númerodeporta”.
+# Text used as error message if the input value was already registered in the network locations form of the Setup page.
+# Variables:
+#   $host-value (string) - The input value submitted by the user in the network locations form
+about-debugging-network-location-form-duplicate = O servidor “{ $host-value }” já está registado
 
 # Runtime Page strings
 
