@@ -27,6 +27,6 @@
 <!ENTITY accountProxySettings.change.label     "เปลี่ยน…">
 <!ENTITY accountProxySettings.change.accessKey "ป">
 
-<!ENTITY accountSummaryTitle.label   "ข้อมูลสรุป">
-<!ENTITY accountSummaryInfo.label    "ข้อมูลสรุปที่คุณป้อนจะแสดงอยู่ด้านล่าง โปรดตรวจสอบก่อนสร้างบัญชี">
+<!ENTITY accountSummaryTitle.label   "บทสรุป">
+<!ENTITY accountSummaryInfo.label    "แสดงผลบทสรุปของข้อมูลที่คุณป้อนด้านล่าง โปรดตรวจสอบก่อนสร้างบัญชี">
 <!ENTITY accountSummary.connectNow.label "เชื่อมต่อบัญชีนี้เดี๋ยวนี้">
