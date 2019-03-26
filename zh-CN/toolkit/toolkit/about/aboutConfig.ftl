@@ -10,7 +10,7 @@ config-window =
 # This text should be attention grabbing and playful
 config-about-warning-title =
     .value = 这可能使质量保证失效！
-config-about-warning-text = 修改这些进阶设置可能对本应用程序的稳定性、安全性以及性能造成不良影响。请仅在您十分清楚的情况下继续操作。
+config-about-warning-text = 修改这些高级设置可能对本应用程序的稳定性、安全性以及性能造成不良影响。请仅在您十分清楚的情况下继续操作。
 config-about-warning-button =
     .label = 我了解此风险！
 config-about-warning-checkbox =

@@ -9,8 +9,8 @@
 <!ENTITY retry.label "重试">
 <!ENTITY returnToPreviousPage.label "后退">
 <!ENTITY returnToPreviousPage1.label "返回上一页（推荐）">
-<!ENTITY advanced.label "进阶信息">
-<!ENTITY advanced2.label "进阶信息…">
+<!ENTITY advanced.label "高级">
+<!ENTITY advanced2.label "高级…">
 <!ENTITY moreInformation.label "更多信息">
 <!ENTITY viewCertificate.label "查看证书">
 
@@ -166,7 +166,7 @@ was trying to connect. -->
 <!ENTITY sslv3Used.title "无法安全地连接">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
-<!ENTITY sslv3Used.longDesc2 "进阶信息：SSL_ERROR_UNSUPPORTED_VERSION">
+<!ENTITY sslv3Used.longDesc2 "高级信息: SSL_ERROR_UNSUPPORTED_VERSION">
 
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
