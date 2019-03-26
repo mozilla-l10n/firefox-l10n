@@ -185,13 +185,13 @@
 <!ENTITY calendar.context.attendance.dontsend.accesskey         "ม">
 
 <!ENTITY calendar.context.attendance.occ.accepted.accesskey     "ย">
-<!ENTITY calendar.context.attendance.occ.accepted.label         "ยอมรับ">
+<!ENTITY calendar.context.attendance.occ.accepted.label         "ยอมรับแล้ว">
 <!ENTITY calendar.context.attendance.occ.tentative.accesskey    "อ">
-<!ENTITY calendar.context.attendance.occ.tentative.label        "ยอมรับอย่างไม่แน่นอน">
+<!ENTITY calendar.context.attendance.occ.tentative.label        "ยอมรับอย่างไม่แน่นอนแล้ว">
 <!ENTITY calendar.context.attendance.occ.declined.accesskey     "ป">
-<!ENTITY calendar.context.attendance.occ.declined.label         "ปฏิเสธ">
+<!ENTITY calendar.context.attendance.occ.declined.label         "ปฏิเสธแล้ว">
 <!ENTITY calendar.context.attendance.occ.delegated.accesskey    "ม">
-<!ENTITY calendar.context.attendance.occ.delegated.label        "มอบหมาย">
+<!ENTITY calendar.context.attendance.occ.delegated.label        "มอบหมายแล้ว">
 <!ENTITY calendar.context.attendance.occ.needsaction.accesskey  "ย">
 <!ENTITY calendar.context.attendance.occ.needsaction.label      "ยังต้องการการกระทำ">
 <!ENTITY calendar.context.attendance.occ.inprogress.accesskey   "ด">
@@ -200,13 +200,13 @@
 <!ENTITY calendar.context.attendance.occ.completed.label        "เสร็จสมบูรณ์">
 
 <!ENTITY calendar.context.attendance.all.accepted.accesskey     "ย">
-<!ENTITY calendar.context.attendance.all.accepted.label         "ยอมรับ">
+<!ENTITY calendar.context.attendance.all.accepted.label         "ยอมรับแล้ว">
 <!ENTITY calendar.context.attendance.all.tentative.accesskey    "อ">
-<!ENTITY calendar.context.attendance.all.tentative.label        "ยอมรับอย่างไม่แน่นอน">
+<!ENTITY calendar.context.attendance.all.tentative.label        "ยอมรับอย่างไม่แน่นอนแล้ว">
 <!ENTITY calendar.context.attendance.all.declined.accesskey     "ป">
-<!ENTITY calendar.context.attendance.all.declined.label         "ปฏิเสธ">
+<!ENTITY calendar.context.attendance.all.declined.label         "ปฏิเสธแล้ว">
 <!ENTITY calendar.context.attendance.all.delegated.accesskey    "ม">
-<!ENTITY calendar.context.attendance.all.delegated.label        "มอบหมาย">
+<!ENTITY calendar.context.attendance.all.delegated.label        "มอบหมายแล้ว">
 <!ENTITY calendar.context.attendance.all.needsaction.accesskey  "ย">
 <!ENTITY calendar.context.attendance.all.needsaction.label      "ยังต้องการการกระทำ">
 <!ENTITY calendar.context.attendance.all.inprogress.accesskey   "ด">
