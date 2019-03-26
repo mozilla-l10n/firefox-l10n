@@ -162,6 +162,17 @@ about-debugging-runtime-version-too-old = El tiempo de ejecución conectado tien
 # backward compatible changes broke the debugger in those scenarios (Bug 1528219).
 # { $runtimeVersion } is the version of the remote runtime (for instance "67.0a1")
 about-debugging-runtime-version-too-old-67-debugger = Es posible que el panel del depurador no funcione con el tiempo de ejecución conectado. Utilice Firefox { $runtimeVersion } si necesita usar el depurador con este tiempo de ejecución.
+# This string is displayed in the runtime page if the remote runtime version is too recent.
+# "Troubleshooting" link points to https://developer.mozilla.org/en-US/docs/Tools/WebIDE/Troubleshooting
+# { $runtimeID } is the build ID of the remote runtime (for instance "20181231", format is yyyyMMdd)
+# { $localID } is the build ID of the current Firefox instance (same format)
+# { $runtimeVersion } is the version of the remote runtime (for instance "67.0a1")
+# { $localVersion } is the version of your current runtime (same format)
+about-debugging-runtime-version-too-recent = El tiempo de ejecución conectado es más reciente ({ $runtimeVersion }, buildID { $runtimeID }) que su { -brand-shorter-name } ({ $localVersion }, buildID { $localID }). Esta es una configuración no compatible y puede hacer que DevTools falle. Por favor actualice Firefox. <a> Solución de problemas </a>
+# Displayed for runtime info in runtime pages.
+# { $name } is brand name such as "Firefox Nightly"
+# { $version } is version such as "64.0a1"
+about-debugging-runtime-name = { $name } ({ $version })
 # Text of a button displayed in Runtime pages for remote runtimes.
 # Clicking on the button will close the connection to the runtime.
 about-debugging-runtime-disconnect-button = Desconectar
