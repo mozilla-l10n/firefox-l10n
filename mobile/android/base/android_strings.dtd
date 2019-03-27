@@ -63,6 +63,11 @@
 <!ENTITY  crash_restart_label "Käynnistä &brandShortName; uudestaan">
 
 <!ENTITY url_bar_default_text2 "Kirjoita haku tai osoite">
+
+<!-- Localization note: this text will be displayed in the Search Widget -->
+<!ENTITY search_widget_default_text "Hae verkosta">
+<!ENTITY search_widget_default_cropped_text "Hae">
+
 <!-- Localization note (url_bar_qrcode_text2) : This text will be
      heard by non-visual users when the focus is on the QR Code
      icon in the url bar. -->
@@ -335,6 +340,9 @@
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
 <!ENTITY tab_queue_prompt_settings_button "Siirry asetuksiin">
+<!-- Localization note (tab_queue_notification_prompt): This is the text of the default notification
+shown from Android O while a tab is being queued.-->
+<!ENTITY tab_queue_notification_prompt "Lisätään uusi välilehti jonoon&#8230;">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -393,7 +401,6 @@
 <!ENTITY pref_private_data_searchHistory "Hakuhistoria">
 <!ENTITY pref_private_data_formdata2 "Lomakehistoria">
 <!ENTITY pref_private_data_cookies2 "Evästeet ja aktiiviset kirjautumiset">
-<!ENTITY pref_private_data_passwords2 "Tallennetut kirjautumistiedot">
 <!ENTITY pref_private_data_cache "Väliaikaistiedostot">
 <!ENTITY pref_private_data_offlineApps "Verkkosivustojen yhteydettömän tilan tiedot">
 <!ENTITY pref_private_data_siteSettings2 "Sivustoasetukset">
