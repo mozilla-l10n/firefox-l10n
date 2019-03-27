@@ -108,7 +108,6 @@ These items have the same accesskey but will never be visible at the same time. 
 <!ENTITY  hiddenTabs.label                   "숨겨진 탭">
 
 <!ENTITY  listAllTabs.label      "탭 전체 목록">
-
 <!-- LOCALIZATION NOTE (allTabsMenu.searchTabs.label): "Search" is a verb, as
 in "Search through tabs". -->
 <!ENTITY  allTabsMenu.searchTabs.label       "탭 검색">
@@ -216,6 +215,28 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenExit.label "원래 화면으로 복구">
 <!ENTITY fullScreenExit.accesskey "F">
 
+ <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
+     for the Firefox Account toolbar signin menu screen. -->
+<!ENTITY fxa.signin.callout.label "Firefox와 함께 하세요">
+<!ENTITY fxa.signin.description.label "즐겨찾기와 방문기록, 비밀번호, 다른 설정을 모든 기기에서 사용해 보세요.">
+<!ENTITY fxa.signin.button.label "&syncBrand.shortName.label; 켜기…">
+
+<!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
+     for the Firefox Account toolbar unverified menu screen. -->
+<!ENTITY fxa.unverified.callout.label "이메일을 확인하세요">
+<!ENTITY fxa.unverified.description.label "동기화하기 전에 계정을 확인해야 합니다.">
+<!ENTITY fxa.unverified.button.label "&syncBrand.shortName.label; 설정 열기…">
+
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbart menu screen. The `Signed in as` text is
+     followed by the user's email. -->
+<!ENTITY fxa.menu.signedInAs.label "로그인 됨">
+<!ENTITY fxa.menu.manageAccount.label "계정 관리…">
+<!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label; 설정…">
+<!ENTITY fxa.menu.connectAnotherDevice.label "&syncedTabs.sidebar.connectAnotherDevice;">
+<!ENTITY fxa.menu.connectAnotherDevice2.label "다른 기기에 연결…">
+<!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
+
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring fullscreen.
@@ -232,6 +253,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY exitDOMFullscreenMac.button "전체 화면 종료(esc)">
 <!ENTITY leaveDOMFullScreen.label "전체 화면 종료">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
+
+<!-- LOCALIZATION NOTE (pictureInPicture.label, pictureInPicture.accesskey):
+     these two strings are used when right-clicking on a video in the
+     content area when the Picture-in-Picture feature is enabled. -->
+<!ENTITY pictureInPicture.label "화면 속 화면">
+<!ENTITY pictureInPicture.accesskey "u">
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
@@ -410,6 +437,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "환경 설정">
 <!ENTITY preferencesCmdUnix.accesskey     "n">
+
+<!ENTITY logins.label                           "로그인과 비밀번호">
 
 <!ENTITY clearRecentHistory.label               "사용 기록 삭제">
 
@@ -882,7 +911,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "이 사이트를 특별한 권한으로 승인하지 않았습니다.">
 <!ENTITY identity.permissionsReloadHint "이 페이지를 다시 읽어들여야 바뀐 점이 올라올 때도 있습니다.">
 <!ENTITY identity.permissionsPreferences.tooltip "권한 설정 열기">
-
 <!ENTITY identity.contentBlockingPreferences.tooltip "콘텐츠 차단 설정 열기">
 
 
@@ -934,6 +962,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncSignIn.label             "&syncBrand.shortName.label;에 로그인…">
 <!ENTITY syncSignIn.accesskey         "Y">
 <!ENTITY syncSyncNowItem.label        "동기화하기">
+<!ENTITY syncSyncNowItemSyncing.label "동기화 중…">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "&syncBrand.shortName.label;에 다시 연결…">
 <!ENTITY syncReAuthItem.accesskey     "R">
@@ -1136,8 +1165,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "<image class='addon-toolbar-icon'/> 메뉴에서 <image class='addon-addon-icon'/> 아이콘을 눌러서 부가 기능을 관리하세요.">
-<!ENTITY addonPostInstall.incognito.label "이 확장 기능이 사생활 보호 창에서 실행되도록 허용합니다.">
-<!ENTITY addonPostInstall.incognito.accesskey "A">
+<!ENTITY addonPostInstall.incognito.checkbox.label "이 확장 기능이 사생활 보호 창에서 실행되도록 허용합니다">
+<!ENTITY addonPostInstall.incognito.checkbox.accesskey "A">
 
 <!ENTITY addonPrivateBrowsing.header2.label "사생활 보호 창 관련 확장기능 변경 사항">
 <!ENTITY addonPrivateBrowsing.body2.label "&brandShorterName;에 추가되는 모든 새 확장 기능은 사용자가 설정에서 허용하지 않는 한 사생활 보호 모드에서 작동하지 않습니다.">
