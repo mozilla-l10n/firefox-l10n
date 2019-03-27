@@ -4,8 +4,8 @@ dictionary of dict_uk project https://github.com/brown-uk/dict_uk
 
 xpi package authors:
 	Yaroslav Krytsun <slavko7@gmail.com>, 2006
-	Andriy Rysin <arysin@gmail.com>, 2007 — 2017
-This is Ukrainian spelling dictionary for myspell & hunspell version 4.2.6.1 webext
+	Andriy Rysin <arysin@gmail.com>, 2007 — 2019
+This is Ukrainian spelling dictionary for myspell & hunspell version 4.4.2 webext
 
 Copyright (C) 1999
 	Volodymyr Yakovchuk
@@ -28,14 +28,9 @@ Copyright (C) 2005
 Copyright (C) 2009
 	Andriy Rysin
 
-Copyright (C) 2017
+Copyright (C) 2017 - 2019
 	Andriy Rysin
 	Vasyl Starko
-	"БрУК" team https://r2u.org.ua/corpus
-
-Copyright (C) 2018
-	Andriy Rysin
-	Vasyl Starko
-	"БрУК" team https://r2u.org.ua/corpus
+	BrUK team https://r2u.org.ua/corpus
 
 This dictionary is licensed under MPL (Mozilla Public License) 1.1 license.
