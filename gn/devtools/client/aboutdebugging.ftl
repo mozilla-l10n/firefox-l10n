@@ -146,6 +146,24 @@ about-debugging-runtime-processes =
 # Label of the button opening the performance profiler panel in runtime pages for remote
 # runtimes.
 about-debugging-runtime-profile-button = Runtime mba'ete
+# This string is displayed in the runtime page if the current configuration of the
+# target runtime is incompatible with service workers. "Learn more" points to MDN.
+# https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
+about-debugging-runtime-service-workers-not-compatible = Pe kundahára ñemboheko ndojokupytýi Service Workers ndive. <a>Eikuaave</a>
+# Dedicated message for a backward compatibility issue that occurs when connecting:
+# - from Fx 67 to 66 or to 65
+# - from Fx 68 to 66
+# Those are normally in range for DevTools compatibility policy, but specific non
+# backward compatible changes broke the debugger in those scenarios (Bug 1528219).
+# { $runtimeVersion } is the version of the remote runtime (for instance "67.0a1")
+about-debugging-runtime-version-too-old-67-debugger = Ikatuhína pe mopotĩha rupa ndoikói aravo eike jave. Eipuru Firefox { $runtimeVersion } eipuruséramo mopotĩha ko aravo eike javegua.
+# This string is displayed in the runtime page if the remote runtime version is too recent.
+# "Troubleshooting" link points to https://developer.mozilla.org/en-US/docs/Tools/WebIDE/Troubleshooting
+# { $runtimeID } is the build ID of the remote runtime (for instance "20181231", format is yyyyMMdd)
+# { $localID } is the build ID of the current Firefox instance (same format)
+# { $runtimeVersion } is the version of the remote runtime (for instance "67.0a1")
+# { $localVersion } is the version of your current runtime (same format)
+about-debugging-runtime-version-too-recent = Pe aravo eike javegua ohasa ramóva ({ $runtimeVersion }, buildID { $runtimeID }) ko { -brand-shorter-name } ({ $localVersion }, buildID { $localID }) rehegua. Kóva ha’e ñemboheko ndojokupytýiva ha ikatúva ombojavy DevTools. Ikatúpa embohekopyahu Firefox. <a>Apañuãi ñemoĩporã</a>
 # Displayed for runtime info in runtime pages.
 # { $name } is brand name such as "Firefox Nightly"
 # { $version } is version such as "64.0a1"
