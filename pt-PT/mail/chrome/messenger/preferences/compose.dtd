@@ -18,8 +18,6 @@
 <!ENTITY htmlComposeHeader.label              "HTML">
 <!ENTITY font.label                           "Tipo de letra:">
 <!ENTITY font.accesskey                       "l">
-<!ENTITY size.label                           "Tamanho:">
-<!ENTITY size.accesskey                       "h">
 <!ENTITY fontSize.label                       "Tamanho:">
 <!ENTITY fontSize.accesskey                   "z">
 <!ENTITY useReaderDefaults.label              "Utilizar as cores predefinidas do leitor">
@@ -39,7 +37,7 @@
 <!ENTITY spellCheckInline1.accesskey          "e">
 <!ENTITY languagePopup.label                  "Idioma:">
 <!ENTITY languagePopup.accessKey              "I">
-<!ENTITY downloadDictionaries.label           "Descarregar mais dicionários">
+<!ENTITY downloadDictionaries.label           "Transferir mais dicionários">
 
 <!ENTITY warnOnSendAccelKey.label             "Confirmar quando utilizar atalhos de teclado para enviar mensagem">
 <!ENTITY warnOnSendAccelKey.accesskey         "C">
