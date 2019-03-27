@@ -147,6 +147,35 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = استخدم المبدئي
 security-no-visits = لا
+# This string is used to display the number of times
+# the user has visited the website prior
+# Variables:
+#   $visits (number) - The number of previous visits
+security-visits-number =
+    { $visits ->
+        [0] لا
+        [zero] لا
+        [one] نعم، مرّة واحدة
+        [two] نعم، مرّتان
+        [few] نعم، { $visits } مرّات
+        [many] نعم، { $visits } مرّة
+       *[other] نعم، { $visits } مرّة
+    }
+# This string is used to display the type and number
+# of frames of a animated image
+# Variables:
+#   $type (string) - The type of a animated image
+#   $frames (number) - The number of frames in an animated image
+media-animated-image-type =
+    .value =
+        { $frames ->
+            [zero] صورة { $type } (متحرّكة، لا إطارات)
+            [one] صورة { $type } (متحرّكة، إطار واحد)
+            [two] صورة { $type } (متحرّكة، إطاران)
+            [few] صورة { $type } (متحرّكة، { $frames } إطارات)
+            [many] صورة { $type } (متحرّكة، { $frames } إطارًا)
+           *[other] صورة { $type } (متحرّكة، { $frames } إطار)
+        }
 # This string is used to display the type of
 # an image
 # Variables:

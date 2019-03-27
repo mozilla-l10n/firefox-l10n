@@ -108,7 +108,6 @@ These items have the same accesskey but will never be visible at the same time. 
 <!ENTITY  hiddenTabs.label                   "الألسنة المخفية">
 
 <!ENTITY  listAllTabs.label      "اسرد كل الألسنة">
-
 <!-- LOCALIZATION NOTE (allTabsMenu.searchTabs.label): "Search" is a verb, as
 in "Search through tabs". -->
 <!ENTITY  allTabsMenu.searchTabs.label       "ابحث في الألسنة">
@@ -215,6 +214,26 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenExit.label "اخرج من وضع ملء الشاشة">
 <!ENTITY fullScreenExit.accesskey "و">
 
+ <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
+     for the Firefox Account toolbar signin menu screen. -->
+<!ENTITY fxa.signin.callout.label "خذ معك فَيَرفُكس أينما ذهبت">
+<!ENTITY fxa.signin.description.label "تشارك العلامات، تاريخ التّصفّح، كلمات السّر وباقي الإعدادات على جميع أجهزتك.">
+<!ENTITY fxa.signin.button.label "شغّل &syncBrand.shortName.label;…">
+
+<!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
+     for the Firefox Account toolbar unverified menu screen. -->
+<!ENTITY fxa.unverified.callout.label "طالِع بريدك الإلكتروني">
+<!ENTITY fxa.unverified.description.label "عليك تأكيد حسابك قبل أن تزامن معلوماتك.">
+<!ENTITY fxa.unverified.button.label "افتح إعدادات &syncBrand.shortName.label;…">
+
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbart menu screen. The `Signed in as` text is
+     followed by the user's email. -->
+<!ENTITY fxa.menu.signedInAs.label "ولِجت باسم">
+<!ENTITY fxa.menu.manageAccount.label "أدِر الحساب…">
+<!ENTITY fxa.menu.syncSettings.label "إعدادات &syncBrand.shortName.label;…">
+<!ENTITY fxa.menu.connectAnotherDevice2.label "صِلْ جهازا آخر…">
+
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring fullscreen.
@@ -231,6 +250,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY exitDOMFullscreenMac.button "غادر ملء الشاشة (esc)">
 <!ENTITY leaveDOMFullScreen.label "غادر ملء الشاشة">
 <!ENTITY leaveDOMFullScreen.accesskey "م">
+
+<!-- LOCALIZATION NOTE (pictureInPicture.label, pictureInPicture.accesskey):
+     these two strings are used when right-clicking on a video in the
+     content area when the Picture-in-Picture feature is enabled. -->
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
@@ -409,6 +432,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmd2.accesskey     "خ">
 <!ENTITY preferencesCmdUnix.label       "التفضيلات">
 <!ENTITY preferencesCmdUnix.accesskey     "ف">
+
+<!ENTITY logins.label                           "جلسات الولوج وكلمات السر">
 
 <!ENTITY clearRecentHistory.label               "امسح التأريخ الحالي…">
 
@@ -881,7 +906,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "لم تمنح هذا الموقع أي صلاحيات خاصة.">
 <!ENTITY identity.permissionsReloadHint "قد تحتاج إعادة تحميل الصفحة لتطبيق التغييرات.">
 <!ENTITY identity.permissionsPreferences.tooltip "افتح تفضيلات التصاريح">
-
 <!ENTITY identity.contentBlockingPreferences.tooltip "افتح تفضيلات حجب المحتوى">
 
 
@@ -933,6 +957,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncSignIn.label             "لِج إلى &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "ل">
 <!ENTITY syncSyncNowItem.label        "زامِن الآن">
+<!ENTITY syncSyncNowItemSyncing.label "يُزامن…">
 <!ENTITY syncSyncNowItem.accesskey    "ز">
 <!ENTITY syncReAuthItem.label         "أعِد الاتصال مع &syncBrand.shortName.label;…">
 <!ENTITY syncReAuthItem.accesskey     "ع">
@@ -1131,8 +1156,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "أدِر إضافاتك بنقر <image class='addon-addon-icon'/> في قائمة <image class='addon-toolbar-icon'/>.">
-<!ENTITY addonPostInstall.incognito.label "اسمح لهذا الامتداد بأن يعمل في النوافذ الخاصة.">
+<!ENTITY addonPostInstall.incognito.checkbox.label "اسمح لهذا الامتداد بأن يعمل في النوافذ الخاصة">
+<!ENTITY addonPostInstall.incognito.checkbox.accesskey "س">
 
+<!ENTITY addonPrivateBrowsing.body2.label "لن تعمل أية امتدادات تضيفها إلى &brandShorterName; في النوافذ الخاصة ما لم تسمح لها هنا في هذا القسم.">
 <!ENTITY addonPrivateBrowsing.learnMore.label "اطّلع على طريقة إدارة إعدادات الامتدادات.">
 <!ENTITY addonPrivateBrowsing.okButton.label "حسنًا، فهمت">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "ح">
