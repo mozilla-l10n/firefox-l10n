@@ -253,5 +253,6 @@ go-back-button =
 remove-addon-button = 삭제
 disable-addon-button = 비활성화
 enable-addon-button = 활성화
+expand-addon-button = 옵션 더보기
 addons-enabled-heading = 활성화 됨
 addons-disabled-heading = 비활성화 됨
