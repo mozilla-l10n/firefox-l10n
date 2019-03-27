@@ -148,8 +148,8 @@ extensions-view-recent-updates =
     .name = Tuoreet päivitykset
     .tooltiptext = { extensions-view-recent-updates.name }
 extensions-view-available-updates =
-    .name = Saatavilla olevat päivitykset
-    .tooltiptext = { extensions-view-available-updates.name }
+    .name = Päivitykset
+    .tooltiptext = Saatavilla olevat päivitykset
 
 ## These are global warnings
 
