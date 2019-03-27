@@ -58,9 +58,34 @@ about-debugging-network-locations-remove-button = 제거
 # Variables:
 #   $host-value (string) - The input value submitted by the user in the network locations form
 about-debugging-network-location-form-invalid = 유효하지 않은 호스트 “{ $host-value }” 입니다. 유효한 형식은 “호스트이름:포트번호” 입니다.
+# Text used as error message if the input value was already registered in the network locations form of the Setup page.
+# Variables:
+#   $host-value (string) - The input value submitted by the user in the network locations form
+about-debugging-network-location-form-duplicate = “{ $host-value }” 호스트는 이미 등록되었습니다.
 
 # Runtime Page strings
 
+# Title of the extensions category.
+about-debugging-runtime-extensions =
+    .name = 확장 기능
+# Title of the tabs category.
+about-debugging-runtime-tabs =
+    .name = 탭
+# Title of the service workers category.
+about-debugging-runtime-service-workers =
+    .name = 서비스 워커
+# Title of the shared workers category.
+about-debugging-runtime-shared-workers =
+    .name = 공유된 워커
+# Title of the other workers category.
+about-debugging-runtime-other-workers =
+    .name = 다른 워커
+# Title of the processes category.
+about-debugging-runtime-processes =
+    .name = 프로세스
+# Label of the button opening the performance profiler panel in runtime pages for remote
+# runtimes.
+about-debugging-runtime-profile-button = 프로필 런타임
 
 # Debug Targets strings
 
