@@ -21,6 +21,7 @@ about-config-pref-delete = احذف
 ## Labels for the type selection radio buttons shown when adding preferences.
 
 about-config-pref-add-type-boolean = قيمة منطقية
+about-config-pref-add-type-number = عدد
 about-config-pref-add-type-string = نص
 
 ## Preferences with a non-default value are differentiated visually, and at the

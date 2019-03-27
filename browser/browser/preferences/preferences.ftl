@@ -684,7 +684,12 @@ content-blocking-all-windows-trackers = المتعقّبات المعروفة ف
 content-blocking-all-third-party-cookies = كل الكعكات من الأطراف الثالثة
 content-blocking-warning-title = كُن على علم!
 content-blocking-warning-desc = حجب الكعكات والمتعقّبات قد يتسبّب بعطب بعض المواقع. من السهل تعطيل الحجب في المواقع التي تثق بها.
+content-blocking-warning-description = يمكن أن تعطب بعض المواقع إن حُجب المحتوى. يمكنك بسهولة إلغاء أي نوع حجب للمواقع التي تثق بها.
 content-blocking-learn-how = اطّلع على الطريقة
+content-blocking-reload-description = عليك إعادة تحميل الألسنة لتأخذ هذه التغييرات مفعولها.
+content-blocking-reload-tabs-button =
+    .label = أعِد تحميل كل الألسنة
+    .accesskey = ع
 content-blocking-trackers-label =
     .label = المتعقّبات
     .accesskey = ق
@@ -698,6 +703,8 @@ content-blocking-tracking-protection-change-block-list = غيّر قائمة ا�
 content-blocking-cookies-label =
     .label = الكعكات
     .accesskey = ك
+content-blocking-expand-section =
+    .tooltiptext = معلومات أكثر
 
 ## Privacy Section - Tracking
 
@@ -728,23 +735,12 @@ permissions-notification-link = اطّلع على المزيد
 permissions-notification-pause =
     .label = ألبِث التنبيهات حتى يُعاد تشغيل { -brand-short-name }
     .accesskey = ث
-permissions-block-autoplay-media =
-    .label = امنع المواقع من تشغيل الوسائط التي تحتوي صوتا تلقائيا
-    .accesskey = م
-permissions-block-autoplay-media-menu = عند فتحي مواقع تُشغّل الصوت تلقائيا
 permissions-block-autoplay-media2 =
     .label = امنع المواقع من تشغيل الصوت تلقائيا
     .accesskey = م
 permissions-block-autoplay-media-exceptions =
     .label = الاستثناءات…
     .accesskey = س
-autoplay-option-ask =
-    .label = اسألني دائما
-autoplay-option-allow =
-    .label = اسمح بالتشغيل التلقائي
-autoplay-option-dont =
-    .label = امنع التشغيل التلقائي
-permissions-autoplay-link = اطّلع على المزيد
 permissions-block-popups =
     .label = احجب النوافذ المنبثقة
     .accesskey = ذ
@@ -780,10 +776,6 @@ addon-recommendations-link = اطّلع على المزيد
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = الإبلاغ عن البيانات معطّل في إعدادات البناء
-collection-browser-errors =
-    .label = اسمح بأن يُرسل { -brand-short-name } تقارير بأخطاء المتصفح (بما في ذلك رسائل الأخطاء) إلى { -vendor-short-name }.
-    .accesskey = خ
-collection-browser-errors-link = اطّلع على المزيد
 collection-backlogged-crash-reports =
     .label = اسمح بأن يُرسل { -brand-short-name } بلاغات الانهيار المعلقة نيابة عنك
     .accesskey = ع
