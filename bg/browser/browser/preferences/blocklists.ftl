@@ -5,7 +5,7 @@
 blocklist-window =
     .title = Списъци за блокиране
     .style = width: 50em
-blocklist-desc = Може да изберете кой списък да използва { -brand-short-name }, за да блокира елементи от страниците, които следят вашето поведение в Мрежата.
+blocklist-description = Изберете списък, който { -brand-short-name } ще използва да спира проследяващите елементи на страниците. Списъците са предоставени от <a data-l10n-name="disconnect-link" title="Disconnect">Disconnect</a>.
 blocklist-close-key =
     .key = w
 blocklist-treehead-list =
@@ -24,7 +24,7 @@ blocklist-button-ok =
 #   $listName {string, "Standard (Recommended)."} - List name.
 #   $description {string, "This list does a pretty good job."} - Description of the list.
 blocklist-item-list-template = { $listName } { $description }
-blocklist-item-moz-std-name = Основна защита от Disconnect.me (препоръчвано).
-blocklist-item-moz-std-desc = С цел страниците да работят нормално позволява някои проследявания.
-blocklist-item-moz-full-name = Строга защита от Disconnect.me.
-blocklist-item-moz-full-desc = Спира известните проследявания. Някои страници може да не работят нормално.
+blocklist-item-moz-std-listName = Списък за блокиране ниво 1 (препоръчителен).
+blocklist-item-moz-std-description = Позволява някои проследявания, така че по-малко страници да бъдат счупени.
+blocklist-item-moz-full-listName = Списък за блокиране ниво 2.
+blocklist-item-moz-full-description = Спира всички проследявания. Някои страници или съдържание може да не зареди изцяло.

@@ -3,12 +3,19 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 cfr-doorhanger-extension-heading = Препоръчано разширение
+cfr-doorhanger-pintab-heading = Опитайте: закачане на раздел
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Защо го виждам?
 cfr-doorhanger-extension-cancel-button = Не сега
     .accesskey = н
 cfr-doorhanger-extension-ok-button = Добавяне
     .accesskey = д
+cfr-doorhanger-pintab-ok-button = Закачане на раздел
+    .accesskey = з
+cfr-doorhanger-extension-manage-settings-button = Управление на настройките за препоръки
+    .accesskey = н
+cfr-doorhanger-extension-never-show-recommendation = Не ми показвайте тази препоръка
+    .accesskey = н
 cfr-doorhanger-extension-learn-more-link = Научете повече
 # This string is used on a new line below the add-on name
 # Variables:
@@ -37,3 +44,12 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } потребител
        *[other] { $total } потребителя
     }
+cfr-doorhanger-pintab-description = Получете лесен достъп до най-посещаваните от вас страници. Запазвайте отворените в раздел страници (дори след рестарт).
+
+## These messages are steps on how to use the feature and are shown together.
+
+cfr-doorhanger-pintab-step1 = <b>Щракнете с десен бутон</b> върху раздела, който искате да закачите.
+cfr-doorhanger-pintab-step2 = Изберете <b>Закачане на раздела</b> от  менюто.
+cfr-doorhanger-pintab-step3 = Ако страницата се обнови ще видите синя точка на закачения раздел.
+cfr-doorhanger-pintab-animation-pause = Пауза
+cfr-doorhanger-pintab-animation-resume = Продължаване
