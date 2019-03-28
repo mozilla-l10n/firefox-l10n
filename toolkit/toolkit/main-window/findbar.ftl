@@ -11,9 +11,13 @@ findbar-previous =
     .tooltiptext = Намиране на предишно съвпадение на фразата
 findbar-find-button-close =
     .tooltiptext = Затваряне на лентата за търсене
-findbar-highlight-all =
+findbar-highlight-all2 =
     .label = Открояване на всички
-    .accesskey = в
+    .accesskey =
+        { PLATFORM() ->
+            [macos] в
+           *[other] в
+        }
     .tooltiptext = Открояване на всички съвпадения на фразата
 findbar-case-sensitive =
     .label = Съвпадение на регистъра

@@ -31,3 +31,11 @@ onboarding-fxa-text = Регистрирайте { -fxaccount-brand-name } и с
 
 ## Message strings belonging to the Return to AMO flow
 
+return-to-amo-sub-header = Страхотно е че имате { -brand-short-name }
+# <icon></icon> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-header = Сега нека инсталираме <icon></icon><b>{ $addon-name }.</b>
+return-to-amo-extension-button = Добавяне на разширението
+return-to-amo-get-started-button = Започнете работа с { -brand-short-name }

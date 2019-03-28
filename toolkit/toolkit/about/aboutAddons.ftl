@@ -88,6 +88,14 @@ detail-update-automatic =
 detail-update-manual =
     .label = Изключено
     .tooltiptext = Без автоматично инсталиране на обновявания
+# Used as a description for the option to allow or block an add-on in private windows.
+detail-private-browsing-label = Работи в поверителни прозорци
+detail-private-browsing-on =
+    .label = Разрешаване
+    .tooltiptext = Включване при поверително разглеждане
+detail-private-browsing-off =
+    .label = Забраняване
+    .tooltiptext = Изключване при поверително разглеждане
 detail-home =
     .label = Страница
 detail-home-value =
@@ -207,3 +215,9 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Инсталиране на обновявания
     .tooltiptext = Инсталиране на наличните обновявания от този списък
+
+## Extension shortcut management
+
+
+## Add-on actions
+
