@@ -2,18 +2,18 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY pane.title                   "การรับการส่งคืน">
-<!ENTITY useGlobalPrefs.label         "ใช้ค่ากำหนดการรับการส่งคืนกลางสำหรับบัญชีนี้">
+<!ENTITY pane.title                   "การแจ้งเตือนการเปิดอ่าน">
+<!ENTITY useGlobalPrefs.label         "ใช้ค่ากำหนดการแจ้งเตือนการเปิดอ่านกลางสำหรับบัญชีนี้">
 <!ENTITY globalReceipts.label         "ค่ากำหนดส่วนกลาง…">
-<!ENTITY useCustomPrefs.label         "ปรับแต่งการรับการส่งคืนสำหรับบัญชีนี้">
-<!ENTITY requestReceipt.label         "เมื่อส่งข้อความ ให้ขอการรับการส่งคืนเสมอ">
+<!ENTITY useCustomPrefs.label         "ปรับแต่งการแจ้งเตือนการเปิดอ่านสำหรับบัญชีนี้">
+<!ENTITY requestReceipt.label         "เมื่อส่งข้อความ ให้ขอการแจ้งเตือนการเปิดอ่านเสมอ">
 <!ENTITY receiptArrive.label          "เมื่อจะรับ:">
 <!ENTITY leaveIt.label                "ทิ้งไว้ในกล่องขาเข้าของฉัน">
 <!-- LOCALIZATION NOTE moveToSent.label Translate: 'Sent' according to Netscape glossary -->
 <!ENTITY moveToSent.label             "ย้ายไปไว้ในโฟลเดอร์ &quot;ที่ส่งแล้ว&quot; ของฉัน">
-<!ENTITY requestMDN.label             "เมื่อฉันได้รับคำขอให้ส่งการรับการส่งคืน:">
-<!ENTITY returnSome.label             "อนุญาตการรับการส่งคืนสำหรับบางข้อความ">
-<!ENTITY never.label                  "ไม่ต้องส่งการรับการส่งคืน">
+<!ENTITY requestMDN.label             "เมื่อฉันได้รับคำขอให้ส่งการแจ้งเตือนการเปิดอ่าน:">
+<!ENTITY returnSome.label             "อนุญาตการแจ้งเตือนการเปิดอ่านสำหรับบางข้อความ">
+<!ENTITY never.label                  "ไม่ต้องส่งการแจ้งเตือนการเปิดอ่าน">
 <!ENTITY notInToCc.label              "หากฉันไม่ได้อยู่ใน ถึง หรือ สำเนา ของข้อความ:">
 <!ENTITY outsideDomain.label          "หากผู้ส่งอยู่นอกโดเมนของฉัน:">
 <!ENTITY otherCases.label             "ในกรณีอื่น ๆ ทั้งหมด:">

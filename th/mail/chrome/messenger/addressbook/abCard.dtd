@@ -105,12 +105,12 @@
 <!ENTITY XMPP.label                     "Jabber ID:">
 <!ENTITY IRC.label                      "ชื่อเล่น IRC:">
 
-<!ENTITY Photo.tab                      "รูปภาพ">
-<!ENTITY GenericPhoto.label             "รูปภาพทั่วไป">
+<!ENTITY Photo.tab                      "รูปถ่าย">
+<!ENTITY GenericPhoto.label             "รูปถ่ายทั่วไป">
 <!ENTITY DefaultPhoto.label             "ค่าเริ่มต้น">
 <!ENTITY PhotoFile.label                "ในคอมพิวเตอร์เครื่องนี้">
 <!ENTITY BrowsePhoto.label              "เรียกดู">
 <!ENTITY PhotoURL.label                 "บนเว็บ">
-<!ENTITY PhotoURL.placeholder           "วางหรือพิมพ์ที่อยู่เว็บของรูปภาพ">
+<!ENTITY PhotoURL.placeholder           "วางหรือพิมพ์ที่อยู่เว็บของรูปถ่าย">
 <!ENTITY UpdatePhoto.label              "อัปเดต">
-<!ENTITY PhotoDropTarget.label          "ลากรูปภาพใหม่มาที่นี่">
+<!ENTITY PhotoDropTarget.label          "ลากรูปถ่ายใหม่มาที่นี่">
