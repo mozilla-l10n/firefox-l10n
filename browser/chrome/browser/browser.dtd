@@ -130,6 +130,8 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.accesskey "Ш">
 <!ENTITY printCmd.commandkey "p">
 
+<!ENTITY importFromAnotherBrowserCmd.label "Увези из другог прегледача…">
+<!ENTITY importFromAnotherBrowserCmd.accesskey "У">
 
 <!ENTITY taskManagerCmd.label "Управник задатака">
 
@@ -215,6 +217,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
  <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
      for the Firefox Account toolbar signin menu screen. -->
+<!ENTITY fxa.signin.callout.label "Понесите Firefox са собом">
 
 <!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
      for the Firefox Account toolbar unverified menu screen. -->
@@ -222,6 +225,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbart menu screen. The `Signed in as` text is
      followed by the user's email. -->
+<!ENTITY fxa.menu.signedInAs.label "Пријављени као">
+<!ENTITY fxa.menu.manageAccount.label "Управљај налогом…">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -239,6 +244,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY exitDOMFullscreenMac.button "Изађи из приказа преко целог екрана (esc)">
 <!ENTITY leaveDOMFullScreen.label "Обустави приказ преко целог екрана">
 <!ENTITY leaveDOMFullScreen.accesskey "к">
+
+<!-- LOCALIZATION NOTE (pictureInPicture.label, pictureInPicture.accesskey):
+     these two strings are used when right-clicking on a video in the
+     content area when the Picture-in-Picture feature is enabled. -->
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
@@ -418,6 +427,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.label       "Поставке">
 <!ENTITY preferencesCmdUnix.accesskey     "П">
 
+<!ENTITY logins.label                           "Пријаве и лозинке">
 
 <!ENTITY clearRecentHistory.label               "Обриши историјат…">
 
