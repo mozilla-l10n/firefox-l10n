@@ -25,7 +25,7 @@
 
 <!ENTITY optionsGroup.label  "ตัวเลือก">
 
-<!ENTITY printBG.label       "พิมพ์พื้นหลัง (สีและรูปภาพ)">
+<!ENTITY printBG.label       "พิมพ์พื้นหลัง (สีและภาพ)">
 <!ENTITY printBG.accesskey   "พ">
 
 <!ENTITY advanced.tab        "ขอบกระดาษและส่วนหัว/ส่วนท้าย">
