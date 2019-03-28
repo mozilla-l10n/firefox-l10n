@@ -27,6 +27,8 @@ about-debugging-sidebar-usb-enabled = USB irmed
 about-debugging-sidebar-usb-disabled = USB insa
 # Connection status (connected) for runtime items in the sidebar
 aboutdebugging-sidebar-runtime-connection-status-connected = Iqqen
+# Text displayed in the about:debugging sidebar when no device was found.
+about-debugging-sidebar-no-devices = Ulac ibenkan i yellan
 # Text displayed in buttons found in sidebar items representing remote runtimes.
 # Clicking on the button will attempt to connect to the runtime.
 about-debugging-sidebar-item-connect-button = Qqen
