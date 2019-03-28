@@ -9,4 +9,7 @@
 
 title = Важни новини
 heading = Промени в профила на { -brand-short-name }
+changed-title = Какви са промените?
+options-title = Какви възможностите имам?
+resources = Ресурси:
 sync-learn = Научете повече
