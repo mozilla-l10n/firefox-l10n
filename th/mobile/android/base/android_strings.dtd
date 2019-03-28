@@ -226,7 +226,7 @@
 <!ENTITY pref_category_home_panels "แผง">
 <!ENTITY pref_category_home_add_ons "ส่วนเสริม">
 <!ENTITY pref_home_updates2 "การอัปเดตเนื้อหา">
-<!ENTITY pref_home_updates_enabled "ถูกเปิดใช้งาน">
+<!ENTITY pref_home_updates_enabled "เปิดใช้งานอยู่">
 <!ENTITY pref_home_updates_wifi "เฉพาะผ่าน Wi-Fi">
 <!ENTITY pref_category_home_homepage "หน้าแรก">
 <!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
@@ -260,9 +260,9 @@
 <!ENTITY pref_header_vendor "&vendorShortName;">
 
 <!ENTITY pref_cookies_menu "คุกกี้">
-<!ENTITY pref_cookies_accept_all "ถูกเปิดใช้งาน">
-<!ENTITY pref_cookies_not_accept_foreign "ถูกเปิดใช้งาน ยกเว้นจากบุคคลที่สาม">
-<!ENTITY pref_cookies_disabled "ถูกปิดใช้งาน">
+<!ENTITY pref_cookies_accept_all "เปิดใช้งานอยู่">
+<!ENTITY pref_cookies_not_accept_foreign "เปิดใช้งานอยู่ ยกเว้นจากบุคคลที่สาม">
+<!ENTITY pref_cookies_disabled "ปิดใช้งานอยู่">
 
 <!-- Localization note (pref_category_data_saver): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
@@ -283,9 +283,9 @@
 <!ENTITY pref_donottrack_title "ไม่ติดตาม">
 <!ENTITY pref_donottrack_summary "&brandShortName; จะบอกไซต์ว่าคุณไม่ต้องการถูกติดตาม">
 
-<!ENTITY pref_tracking_protection_enabled "ถูกเปิดใช้งาน">
-<!ENTITY pref_tracking_protection_enabled_pb "ถูกเปิดใช้งานในการท่องเว็บแบบส่วนตัว">
-<!ENTITY pref_tracking_protection_disabled "ถูกปิดใช้งาน">
+<!ENTITY pref_tracking_protection_enabled "เปิดใช้งานอยู่">
+<!ENTITY pref_tracking_protection_enabled_pb "เปิดใช้งานอยู่ในการท่องเว็บแบบส่วนตัว">
+<!ENTITY pref_tracking_protection_disabled "ปิดใช้งานอยู่">
 
 <!ENTITY pref_whats_new_notification "มีอะไรใหม่ใน &brandShortName;">
 <!ENTITY pref_whats_new_notification_summary "เรียนรู้เกี่ยวกับคุณลักษณะใหม่หลังจากการอัปเดต">
@@ -690,8 +690,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- Tracking content notifications in site identity popup -->
 <!ENTITY doorhanger_tracking_title2 "การป้องกันการติดตาม">
-<!ENTITY doorhanger_tracking_state_enabled "ถูกเปิดใช้งาน">
-<!ENTITY doorhanger_tracking_state_disabled "ถูกปิดใช้งาน">
+<!ENTITY doorhanger_tracking_state_enabled "เปิดใช้งานอยู่">
+<!ENTITY doorhanger_tracking_state_disabled "ปิดใช้งานอยู่">
 <!ENTITY doorhanger_tracking_message_enabled1 "ความพยายามในการติดตามพฤติกรรมออนไลน์ของคุณถูกปิดกั้น">
 <!ENTITY doorhanger_tracking_message_disabled2 "หน้านี้มีองค์ประกอบที่อาจติดตามการท่องเว็บของคุณ">
 
