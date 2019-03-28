@@ -218,6 +218,10 @@ extensions-updates-update-selected =
 
 ## Extension shortcut management
 
+shortcuts-input =
+    .placeholder = Изберете комбинация
+shortcuts-invalid = Недействителна комбинация
+shortcuts-letter = Въведете буква
 
 ## Add-on actions
 
