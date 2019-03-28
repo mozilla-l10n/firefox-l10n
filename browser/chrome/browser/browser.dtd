@@ -108,7 +108,6 @@ These items have the same accesskey but will never be visible at the same time. 
 <!ENTITY  hiddenTabs.label                   "לשוניות מוסתרות">
 
 <!ENTITY  listAllTabs.label      "רשימת כל הלשוניות">
-
 <!-- LOCALIZATION NOTE (allTabsMenu.searchTabs.label): "Search" is a verb, as
 in "Search through tabs". -->
 <!ENTITY  allTabsMenu.searchTabs.label       "חיפוש לשוניות">
@@ -130,6 +129,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.label "הדפסה…">
 <!ENTITY printCmd.accesskey "ד">
 <!ENTITY printCmd.commandkey "p">
+
 
 <!ENTITY taskManagerCmd.label "מנהל משימות">
 
@@ -213,6 +213,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenExit.label "צא ממצב מסך מלא">
 <!ENTITY fullScreenExit.accesskey "צ">
 
+ <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
+     for the Firefox Account toolbar signin menu screen. -->
+
+<!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
+     for the Firefox Account toolbar unverified menu screen. -->
+
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbart menu screen. The `Signed in as` text is
+     followed by the user's email. -->
+
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring fullscreen.
@@ -229,6 +239,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY exitDOMFullscreenMac.button "יציאה ממסך מלא (Esc)">
 <!ENTITY leaveDOMFullScreen.label "יציאה ממסך מלא">
 <!ENTITY leaveDOMFullScreen.accesskey "י">
+
+<!-- LOCALIZATION NOTE (pictureInPicture.label, pictureInPicture.accesskey):
+     these two strings are used when right-clicking on a video in the
+     content area when the Picture-in-Picture feature is enabled. -->
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
@@ -407,6 +421,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmd2.accesskey     "א">
 <!ENTITY preferencesCmdUnix.label       "העדפות">
 <!ENTITY preferencesCmdUnix.accesskey     "ד">
+
 
 <!ENTITY clearRecentHistory.label               "ניקוי היסטוריה אחרונה…">
 
@@ -879,7 +894,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "לא סופקו לאתר זה הרשאות מיוחדות.">
 <!ENTITY identity.permissionsReloadHint "יתכן שיהיה עליך לרענן את העמוד כדי שהשינויים ייכנסו לתוקף.">
 <!ENTITY identity.permissionsPreferences.tooltip "פתיחת העדפות הרשאות">
-
 <!ENTITY identity.contentBlockingPreferences.tooltip "פתיחת העדפות לחסימת תוכן">
 
 
@@ -996,6 +1010,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "עוגיות">
 <!ENTITY contentBlocking.cookiesView.label "עוגיות ונתוני אתרים">
 
+
+
 <!ENTITY contentBlocking.openBreakageReportView2.label "דיווח על בעיה">
 <!ENTITY contentBlocking.breakageReportView.label "דיווח על בעיות">
 <!ENTITY contentBlocking.breakageReportView2.description "חסימת תוכן עשויה לגרום לתקלות במגוון אתרים. עצם הדיווח מצדך, מסייע בשיפור &brandShortName; לטובת הכלל. (פעולה זו תשלח כתובת לרבות מידע על הגדרות הדפדפן שלך ל‏־Mozilla.)">
@@ -1015,7 +1031,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      center while looking at a site with trackers in PRIVATE browsing mode. -->
 <!ENTITY trackingProtection.unblockPrivate5.label "השבתת החסימה באופן זמני">
 <!ENTITY trackingProtection.unblockPrivate5.accesskey "ש">
-<!ENTITY trackingProtection.block6.label "השבתת החסימה באתר זה">
+<!ENTITY trackingProtection.block6.label "הפעלת החסימה באתר זה">
 <!ENTITY trackingProtection.block6.accesskey "ש">
 <!ENTITY trackingProtection.reload2.label "טעינה מחדש של העמוד">
 <!ENTITY trackingProtection.reload2.accesskey "ט">
@@ -1128,8 +1144,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "ניתן לנהל את התוספות שלך ע״י לחיצה על <image class='addon-addon-icon'/> שבתפריט <image class='addon-toolbar-icon'/>.">
 
-<!ENTITY addonPrivateBrowsing.header.label "הרחבות בחלונות פרטיים">
-<!ENTITY addonPrivateBrowsing.body.label "הרחבות אינן מורשות לפעול כברירת מחדל בחלונות פרטיים. הן לא יעבדו בזמן גלישה פרטית, ולא תהיה להן גישה לפעילויות המקוונות שלך. באפשרותך לאפשר לכל הרחבה לפעול בחלונות פרטיים על־ידי ניהול ההגדרות שלך.">
 <!ENTITY addonPrivateBrowsing.okButton.label "בסדר, הבנתי">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "ב">
 <!ENTITY addonPrivateBrowsing.manageButton.label "ניהול הרחבות">
