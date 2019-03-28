@@ -5,7 +5,7 @@
 <!ENTITY rights.locale-direction "ltr">
 <!ENTITY rights.title            "เกี่ยวกับสิทธิของคุณ">
 <!ENTITY rights.intro-header     "เกี่ยวกับสิทธิของคุณ">
-<!ENTITY rights.intro "&brandFullName; เป็นซอฟต์แวร์ฟรีและโอเพนซอร์ส สร้างขึ้นโดยชุมชนของคนนับพันจากทั่วโลก มีบางสิ่งที่คุณควรทราบ:">
+<!ENTITY rights.intro "&brandFullName; เป็นซอฟต์แวร์ฟรีและเปิดต้นฉบับ สร้างขึ้นโดยชุมชนของคนนับพันจากทั่วโลก มีบางสิ่งที่คุณควรทราบ:">
 
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is
