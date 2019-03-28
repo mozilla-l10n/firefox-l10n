@@ -13,7 +13,7 @@ update-updateButton =
     .accesskey = R
 update-checkingForUpdates = Cercante actualisationes…
 update-downloading = <img data-l10n-name="icon"/>Discarga de actualisation — <label data-l10n-name="download-status"/>
-update-applying = Application de actualisation…
+update-applying = Applicante le actualisation…
 update-failed = Le actualisation ha fallite. <label data-l10n-name="failed-link">Discargar le ultime version</label>
 update-failed-main = Le actualisation ha fallite. <a data-l10n-name="failed-link-main">Discargar le ultime version</a>
 update-adminDisabled = Actualisationes inactivate per le administrator de tu systema
@@ -30,8 +30,6 @@ helpus = Desira tu adjutar? <label data-l10n-name="helpus-donateLink">Face un do
 bottomLinks-license = Informationes de licentia
 bottomLinks-rights = Derectos del usator
 bottomLinks-privacy = Politica de confidentialitate
-aboutDialog-architecture-sixtyFourBit = 64 bits
-aboutDialog-architecture-thirtyTwoBit = 32 bits
 # Example of resulting string: 66.0.1 (64-bit)
 # Variables:
 #   $version (String): version of Firefox, e.g. 66.0.1
