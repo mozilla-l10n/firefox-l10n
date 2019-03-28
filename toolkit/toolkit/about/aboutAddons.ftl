@@ -90,6 +90,10 @@ detail-update-manual =
     .tooltiptext = Non installare automaticamente gli aggiornamenti
 detail-private-browsing-label = Funzionamento in finestre anonime
 detail-private-browsing-description2 = Se viene garantito il permesso, l’estensione potrà accedere alle tue attività online nelle finestre anonime. <label data-l10n-name="detail-private-browsing-learn-more">Ulteriori informazioni</label>
+detail-private-disallowed-label = Disattivata in finestre anonime
+detail-private-disallowed-description = Questa estensione non funziona in navigazione anonima. <label data-l10n-name="detail-private-browsing-learn-more">Ulteriori informazioni</label>
+detail-private-required-label = Richiede accesso alle finestre anonime
+detail-private-required-description = Questa estensione ha accesso alle tue attività online nelle finestre anonime. <label data-l10n-name="detail-private-browsing-learn-more">Ulteriori informazioni</label>
 detail-private-browsing-on =
     .label = Consenti
     .tooltiptext = Attiva in Navigazione anonima
