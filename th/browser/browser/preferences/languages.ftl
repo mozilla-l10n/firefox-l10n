@@ -50,6 +50,6 @@ browser-languages-downloading =
 browser-languages-select-language =
     .label = เลือกภาษาที่จะเพิ่ม…
     .placeholder = เลือกภาษาที่จะเพิ่ม…
-browser-languages-installed-label = ภาษาที่ติดตั้งไว้
+browser-languages-installed-label = ภาษาที่ติดตั้ง
 browser-languages-available-label = ภาษาที่มี
 browser-languages-error = { -brand-short-name } ไม่สามารถอัปเดตภาษาของคุณได้ในขณะนี้ ตรวจสอบว่าคุณเชื่อมต่อกับอินเทอร์เน็ตแล้วหรือลองอีกครั้ง
