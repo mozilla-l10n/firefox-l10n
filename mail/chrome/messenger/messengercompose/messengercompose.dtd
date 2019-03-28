@@ -120,7 +120,7 @@
 <!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCard.label "แนบบัตรส่วนบุคคล (vCard)">
 
-<!ENTITY returnReceiptMenu.label "การรับการส่งคืน">
+<!ENTITY returnReceiptMenu.label "การแจ้งเตือนการเปิดอ่าน">
 <!ENTITY autoFormatCmd.label "ตรวจพบอัตโนมัติ">
 <!ENTITY plainTextFormatCmd.label "ข้อความธรรมดาเท่านั้น">
 <!ENTITY htmlFormatCmd.label "Rich Text (HTML) เท่านั้น">
