@@ -12,6 +12,7 @@
 <!ENTITY window.title "Embojuruja peteĩ Firefox rembiapokue itujámava">
 <!ENTITY window.style "width: 490px;">
 
+<!ENTITY window.sync "Eipurúramo Firefox rembiapokue itujavéva ikatu ombyai techaukaha ha kundaha rembiasakue ñongatupyre Firefox mba’ete pegua. Emo’ã hag̃ua umi marandu, emoheñóiva’erã mba’ete pyahu ko ñemohendapyre &brandShortName; peg̃uarã. Ikatu eike tapia &syncBrand.fxAccount.label; ndive emoñondive hag̃ua techaukaha ha kundaha rembiasakue mba’etekuéra apytépe.">
 
 <!ENTITY window.create "Emoheñói mba'ete pyahu">
 <!ENTITY window.quit-win "Ñesẽ">
