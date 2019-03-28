@@ -239,7 +239,7 @@
 <!ENTITY event.attachments.popup.removeAll.accesskey      "อ" >
 <!ENTITY event.attachments.popup.attachPage.label         "แนบหน้าเว็บ…" >
 <!ENTITY event.attachments.popup.attachPage.accesskey     "น" >
-<!ENTITY event.url.label                                  "ลิงก์ที่เกี่ยวข้อง" >
+<!ENTITY event.url.label                                  "ลิงก์ที่เกี่ยวข้อง:" >
 <!ENTITY event.priority2.label                            "ความสำคัญ:">
 
 <!ENTITY event.reminder.none.label                        "ไม่มีการเตือนความจำ " >
