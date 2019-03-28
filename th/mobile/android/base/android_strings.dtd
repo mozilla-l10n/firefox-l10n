@@ -50,7 +50,7 @@
 <!ENTITY  tab_offline_version "กำลังแสดงรุ่นออฟไลน์">
 
 <!ENTITY  crash_reporter_title "ตัวรายงานข้อขัดข้อง &brandShortName;">
-<!ENTITY  crash_message2 "&brandShortName; เกิดปัญหาและขัดข้อง แท็บของคุณจะถูกแสดงรายการในหน้าเริ่มต้นของ &brandShortName; เมื่อคุณเริ่มการทำงานใหม่">
+<!ENTITY  crash_message2 "&brandShortName; เกิดปัญหาและขัดข้อง แท็บของคุณควรแสดงรายการในหน้าเริ่มต้นของ &brandShortName; เมื่อคุณเริ่มการทำงานใหม่">
 <!ENTITY  crash_send_report_message3 "แจ้ง &vendorShortName; เกี่ยวกับข้อขัดข้องนี้เพื่อให้พวกเขาสามารถแก้ไขปัญหาได้">
 <!ENTITY  crash_include_url2 "รวมที่อยู่ของหน้าที่ฉันเข้าชมอยู่">
 <!ENTITY  crash_sorry "เราต้องขออภัย">
@@ -274,14 +274,14 @@
 <!ENTITY pref_tap_to_load_images_title2 "แสดงภาพ">
 <!ENTITY pref_tap_to_load_images_enabled "เสมอ">
 <!ENTITY pref_tap_to_load_images_data "เฉพาะผ่าน Wi-Fi">
-<!ENTITY pref_tap_to_load_images_disabled2 "ถูกปิดกั้น">
+<!ENTITY pref_tap_to_load_images_disabled2 "ปิดกั้นแล้ว">
 
 <!ENTITY pref_show_web_fonts "แสดงแบบอักษรเว็บ">
 <!ENTITY pref_show_web_fonts_summary2 "ดาวน์โหลดแบบอักษรระยะไกลเมื่อโหลดหน้า">
 
 <!ENTITY pref_tracking_protection_title2 "การป้องกันการติดตาม">
 <!ENTITY pref_donottrack_title "ไม่ติดตาม">
-<!ENTITY pref_donottrack_summary "&brandShortName; จะบอกไซต์ว่าคุณไม่ต้องการถูกติดตาม">
+<!ENTITY pref_donottrack_summary "&brandShortName; จะบอกไซต์ว่าไม่ต้องการให้ติดตามคุณ">
 
 <!ENTITY pref_tracking_protection_enabled "เปิดใช้งานอยู่">
 <!ENTITY pref_tracking_protection_enabled_pb "เปิดใช้งานอยู่ในการท่องเว็บแบบส่วนตัว">
@@ -301,7 +301,7 @@
 <!ENTITY pref_feature_tips_notification_enabling_path "&pref_category_privacy_short; > &pref_category_datareporting; > &datareporting_fhr_title;">
 <!-- Localization note (pref_feature_tips_notification_enabling_hint):
      Describe the action the user should do to enable this preference. -->
-<!ENTITY pref_feature_tips_notification_enabling_hint2 "(เพื่อเปิดใช้งานตัวเลือกนี้ &pref_feature_tips_notification_enabling_path; ต้องถูกเปิดใช้งานอยู่แล้ว)">
+<!ENTITY pref_feature_tips_notification_enabling_hint2 "(เพื่อเปิดใช้งานตัวเลือกนี้ ต้องเปิดใช้งาน &pref_feature_tips_notification_enabling_path; อยู่แล้ว)">
 
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
@@ -692,7 +692,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY doorhanger_tracking_title2 "การป้องกันการติดตาม">
 <!ENTITY doorhanger_tracking_state_enabled "เปิดใช้งานอยู่">
 <!ENTITY doorhanger_tracking_state_disabled "ปิดใช้งานอยู่">
-<!ENTITY doorhanger_tracking_message_enabled1 "ความพยายามในการติดตามพฤติกรรมออนไลน์ของคุณถูกปิดกั้น">
+<!ENTITY doorhanger_tracking_message_enabled1 "ปิดกั้นความพยายามในการติดตามพฤติกรรมออนไลน์ของคุณแล้ว">
 <!ENTITY doorhanger_tracking_message_disabled2 "หน้านี้มีองค์ประกอบที่อาจติดตามการท่องเว็บของคุณ">
 
 <!-- Common mixed and tracking content strings in site identity popup -->
@@ -755,7 +755,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_browsing_notification_text "แตะเพื่อออก">
 
 <!ENTITY exit_guest_session_title "&brandShortName; จะเริ่มการทำงานใหม่">
-<!ENTITY exit_guest_session_text "ข้อมูลการท่องเว็บจากวาระนี้จะถูกลบ">
+<!ENTITY exit_guest_session_text "จะลบข้อมูลการท่องเว็บจากวาระนี้">
 
 <!-- Miscellaneous -->
 <!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
@@ -829,7 +829,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
 <!ENTITY bookmarks_support "Firefox: การสนับสนุน">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
-<!ENTITY bookmarks_restricted_support2 "ความช่วยเหลือและการสนับสนุนของ Firefox สำหรับโปรไฟล์ที่ถูกจำกัดในแท็บเล็ต Android">
+<!ENTITY bookmarks_restricted_support2 "ความช่วยเหลือและการสนับสนุนของ Firefox สำหรับโปรไฟล์ที่จำกัดในแท็บเล็ต Android">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
 <!ENTITY bookmarks_restricted_webmaker "เรียนรู้เว็บ: Mozilla Webmaker">
 
@@ -881,7 +881,7 @@ is simply hidden from the Activity Stream panel. -->
 
 <!ENTITY private_tab_panel_title "การท่องเว็บแบบส่วนตัว + การป้องกันการติดตาม">
 <!ENTITY private_tab_panel_description "&brandShortName; ปิดกั้นบางส่วนของหน้าที่อาจติดตามกิจกรรมการท่องเว็บของคุณ">
-<!ENTITY private_tab_panel_description2 "เราจะไม่จดจำประวัติใด ๆ แต่ไฟล์ที่ดาวน์โหลดและที่คั่นหน้าใหม่จะยังคงถูกบันทึกไว้ในอุปกรณ์ของคุณ">
+<!ENTITY private_tab_panel_description2 "เราจะไม่จดจำประวัติใด ๆ แต่จะยังคงบันทึกไฟล์ที่ดาวน์โหลดและที่คั่นหน้าใหม่ไว้ในอุปกรณ์ของคุณ">
 <!ENTITY private_tab_learn_more "ต้องการเรียนรู้เพิ่มเติม?">
 
 <!ENTITY fullscreen_warning "เข้าสู่ภาพเต็มหน้าจอแล้ว">
