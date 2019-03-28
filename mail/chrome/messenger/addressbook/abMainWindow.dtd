@@ -49,7 +49,7 @@
 <!ENTITY selectAllCmd.label                             "เลือกทั้งหมด">
 <!ENTITY selectAllCmd.key                               "A">
 <!ENTITY searchAddressesCmd.key                         "f">
-<!ENTITY swapFirstNameLastNameCmd.label                 "สลับชื่อ/นามสกุล">
+<!ENTITY swapFirstNameLastNameCmd.label                 "สลับชื่อจริง/นามสกุล">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY propertiesMenu.label                           "คุณสมบัติ">
@@ -71,7 +71,7 @@
 <!ENTITY menu_ShowNameAs.label                          "แสดงชื่อเป็น">
 <!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
 because displayed names don't have the comma in between. -->
-<!ENTITY firstLastCmd2.label                            "ชื่อ นามสกุล">
+<!ENTITY firstLastCmd2.label                            "ชื่อจริง นามสกุล">
 <!ENTITY lastFirstCmd.label                             "นามสกุล ชื่อ">
 <!ENTITY displayNameCmd.label                           "ชื่อที่แสดงผล">
 <!ENTITY sortMenu.label                                 "เรียงตาม">
