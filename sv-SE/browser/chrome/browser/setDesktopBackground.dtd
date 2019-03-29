@@ -8,7 +8,12 @@
 <!ENTITY stretch.label              "Dra ut">
 <!ENTITY fill.label                 "Fyll">
 <!ENTITY fit.label                  "Anpassa">
-<!ENTITY preview.label              "Förhandsgranskning">
+<!-- LOCALIZATION NOTE (span.label): This refers to the wallpaper "spanning"
+                       multiple monitors when the user has more than one. Only
+                       some of the entire image will be on each monitor.
+                       This should ideally match the wording in Windows' own
+                       Desktop Background settings page. -->
+<!ENTITY span.label                 "Sträck över">
 <!ENTITY color.label                "Färg:">
 <!ENTITY setDesktopBackground.title "Ange skrivbordsbakgrund">
 <!ENTITY openDesktopPrefs.label     "Öppna skrivbordsinställningarna">
