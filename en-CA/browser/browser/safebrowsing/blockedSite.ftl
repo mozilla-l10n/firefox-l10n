@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 safeb-blocked-phishing-page-title = Deceptive site ahead
+safeb-blocked-malware-page-title = Visiting this website may harm your computer
 safeb-blocked-unwanted-page-title = The site ahead may contain harmful programs
 safeb-blocked-harmful-page-title = The site ahead may contain malware
 safeb-blocked-phishing-page-short-desc = { -brand-short-name } blocked this page because it may trick you into doing something dangerous like installing software or revealing personal information like passwords or credit cards.
@@ -24,3 +25,6 @@ safeb-blocked-unwanted-page-learn-more = Learn more about harmful and unwanted s
 safeb-blocked-harmful-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> has been <a data-l10n-name='error_desc_link'>reported as containing a potentially harmful application</a>. You can <a data-l10n-name='ignore_warning_link'>ignore the risk</a> and go to this unsafe site.
 safeb-blocked-harmful-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> has been <a data-l10n-name='error_desc_link'>reported as containing a potentially harmful application</a>.
 safeb-blocked-harmful-page-learn-more = Learn more about { -brand-short-name }’s Phishing and Malware Protection at <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
+safeb-palm-notdeceptive =
+    .label = This isn’t a deceptive site…
+    .accesskey = d
