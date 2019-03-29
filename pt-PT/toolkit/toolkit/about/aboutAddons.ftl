@@ -99,6 +99,7 @@ detail-private-disallowed-label = Não permitido em janelas privadas
 detail-private-disallowed-description = Esta extensão não é executada durante a navegação privada. <label data-l10n-name="detail-private-browsing-learn-more">Saber mais</label>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Requer acesso a janelas privadas
+detail-private-required-description = Esta extensão tem acesso às suas atividades online enquanto durante a navegação privada. <<label data-l10n-name="detail-private-browsing-learn-more">Saber mais</label>
 detail-private-browsing-on =
     .label = Permitir
     .tooltiptext = Ativar em navegação privada
