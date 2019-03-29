@@ -23,7 +23,7 @@
 <!ENTITY newevent.status.confirmed.label          "ยืนยันแล้ว" >
 <!ENTITY newevent.status.confirmed.accesskey      "ย" >
 <!ENTITY newevent.status.needsaction.label        "ต้องการการกระทำ" >
-<!ENTITY newevent.status.inprogress.label         "กำลังดำเนินอยู่" >
+<!ENTITY newevent.status.inprogress.label         "อยู่ระหว่างดำเนินการ" >
 <!ENTITY newevent.status.completed.label          "เสร็จสมบูรณ์เมื่อ" >
 
 <!-- The following entity is for New Task dialog only -->
