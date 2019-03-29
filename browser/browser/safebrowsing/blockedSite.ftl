@@ -24,3 +24,6 @@ safeb-blocked-unwanted-page-learn-more = Więcej informacji o szkodliwym i nie
 safeb-blocked-harmful-page-error-desc-override = Strona „<span data-l10n-name='sitename'>{ $sitename }</span>” została zgłoszona jako strona <a data-l10n-name='error_desc_link'>zawierająca potencjalnie szkodliwe oprogramowanie</a>. Możesz <a data-l10n-name='ignore_warning_link'>zignorować ryzyko</a> i przejść do tej niebezpiecznej strony.
 safeb-blocked-harmful-page-error-desc-no-override = Strona „<span data-l10n-name='sitename'>{ $sitename }</span>” została zgłoszona jako strona <a data-l10n-name='error_desc_link'>zawierająca potencjalnie szkodliwe oprogramowanie</a>.
 safeb-blocked-harmful-page-learn-more = Więcej informacji o ochronie przed złośliwym oprogramowaniem i próbami oszustwa można znaleźć w witrynie <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
+safeb-palm-notdeceptive =
+    .label = To nie jest oszustwo…
+    .accesskey = n
