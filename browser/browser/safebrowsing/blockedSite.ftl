@@ -13,6 +13,7 @@ safeb-blocked-harmful-page-short-desc = { -brand-short-name } ha blocau esta pac
 safeb-palm-advisory-desc = Consello de <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
 safeb-palm-accept-label = Ir enta zaga
 safeb-palm-see-details-label = Veyer los detalles
+safeb-blocked-phishing-page-error-desc-override = S'ha reportau que <span data-l10n-name='sitename'>{ $sitename }</span> ye un <a data-l10n-name='error_desc_link'>web enganyosos</a>. Puetz <a data-l10n-name='report_detection'>reportar un problema de detección</a> u <a data-l10n-name='ignore_warning_link'>ignorar lo risgo</a> y ir ta este puesto inseguro.
 safeb-blocked-phishing-page-error-desc-no-override = S'ha reportau que <span data-l10n-name='sitename'>{ $sitename }</span> ye un <a data-l10n-name='error_desc_link'>web enganyosos</a>. Puetz <a data-l10n-name='report_detection'>reportar un problema de detección</a>.
 safeb-blocked-phishing-page-learn-more = Aprende mas sobre puestos enganyosos y phising en <a data-l10n-name='learn_more_link'>www.antiphishing.org</a>. Aprende mas sobre la protección contra Phising y Malware de { -brand-short-name }en <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 safeb-blocked-malware-page-error-desc-override = Ha estau reportau que <span data-l10n-name='sitename'>{ $sitename }</span> contiene <a data-l10n-name='error_desc_link'> software malicioso</a>. Puetz <a data-l10n-name='report_detection'>reportar un problema de detección</a> u <a data-l10n-name='ignore_warning_link'>ignorar lo risgo</a> y ir ta este puesto inseguro.
