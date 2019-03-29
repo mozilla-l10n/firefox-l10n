@@ -78,7 +78,7 @@
   <li>โปรดติดต่อเจ้าของเว็บไซต์เพื่อแจ้งพวกเขาให้ทราบถึงปัญหานี้</li> 
 </ul>">
 
-<!ENTITY netReset.title "การเชื่อมต่อถูกตัด">
+<!ENTITY netReset.title "ตัดการเชื่อมต่อแล้ว">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
 <!ENTITY netTimeout.title "การเชื่อมต่อหมดเวลา">

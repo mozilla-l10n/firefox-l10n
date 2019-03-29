@@ -129,7 +129,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY Department.label                               "แผนก">
 <!ENTITY JobTitle.label                                 "ตำแหน่ง">
 <!ENTITY CellularNumber.label                           "มือถือ">
-<!ENTITY PagerNumber.label                              "เพจเจอร์">
+<!ENTITY PagerNumber.label                              "วิทยุติดตามตัว">
 <!ENTITY FaxNumber.label                                "โทรสาร">
 <!ENTITY HomePhone.label                                "โทรศัพท์บ้าน">
 <!ENTITY WorkPhone.label                                "โทรศัพท์ที่ทำงาน">
