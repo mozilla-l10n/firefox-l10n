@@ -14,7 +14,7 @@
 <!ENTITY newPref.stringPlaceholder     "ป้อนสตริง">
 <!ENTITY newPref.numberPlaceholder     "ป้อนตัวเลข">
 
-<!ENTITY newPref.toggleButton          "สลับค่า">
+<!ENTITY newPref.toggleButton          "เปิด/ปิด">
 <!ENTITY newPref.cancelButton          "ยกเลิก">
 
 <!ENTITY contextMenu.copyPrefName      "คัดลอกชื่อ">
