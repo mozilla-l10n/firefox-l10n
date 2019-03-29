@@ -93,6 +93,12 @@ detail-update-manual =
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Executar em janelas privadas
 detail-private-browsing-description2 = Quando permitido, a extensão irá ter acesso às suas atividades online durante a navegação privada. <label data-l10n-name="detail-private-browsing-learn-more">Saber mais</label>
+# Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
+# cannot be overriden by the user.
+detail-private-disallowed-label = Não permitido em janelas privadas
+detail-private-disallowed-description = Esta extensão não é executada durante a navegação privada. <label data-l10n-name="detail-private-browsing-learn-more">Saber mais</label>
+# Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
+detail-private-required-label = Requer acesso a janelas privadas
 detail-private-browsing-on =
     .label = Permitir
     .tooltiptext = Ativar em navegação privada
