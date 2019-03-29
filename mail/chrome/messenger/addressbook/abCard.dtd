@@ -113,4 +113,5 @@
 <!ENTITY PhotoURL.label                 "บนเว็บ">
 <!ENTITY PhotoURL.placeholder           "วางหรือพิมพ์ที่อยู่เว็บของรูปถ่าย">
 <!ENTITY UpdatePhoto.label              "อัปเดต">
+<!ENTITY UpdatePhoto.accesskey          "อ">
 <!ENTITY PhotoDropTarget.label          "ลากรูปถ่ายใหม่มาที่นี่">
