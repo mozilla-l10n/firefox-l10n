@@ -91,6 +91,13 @@ detail-update-manual =
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Gizli pencerede çalışabilir
 detail-private-browsing-description2 = Bu izni verdiğinizde eklenti, gizli gezinti sırasında yaptıklarınızı görebilecektir. <label data-l10n-name="detail-private-browsing-learn-more">Daha fazla bilgi alın</label>
+# Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
+# cannot be overriden by the user.
+detail-private-disallowed-label = Gizli pencerelerde izin verilmiyor
+detail-private-disallowed-description = Gizli gezinti sırasında bu eklenti çalışmaz. <label data-l10n-name="detail-private-browsing-learn-more">Daha fazla bilgi alın</label>
+# Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
+detail-private-required-label = Gizli pencerelere erişmesi gerekiyor
+detail-private-required-description = Bu eklenti, gizli gezinti sırasında yaptıklarınıza erişebilir. <label data-l10n-name="detail-private-browsing-learn-more">Daha fazla bilgi alın</label>
 detail-private-browsing-on =
     .label = İzin ver
     .tooltiptext = Gizli gezintide izin ver
