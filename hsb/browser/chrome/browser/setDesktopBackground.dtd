@@ -8,7 +8,12 @@
 <!ENTITY stretch.label              "Rozćahnyć">
 <!ENTITY fill.label                 "Pjelnić">
 <!ENTITY fit.label                  "Přiměrić">
-<!ENTITY preview.label              "Přehlad">
+<!-- LOCALIZATION NOTE (span.label): This refers to the wallpaper "spanning"
+                       multiple monitors when the user has more than one. Only
+                       some of the entire image will be on each monitor.
+                       This should ideally match the wording in Windows' own
+                       Desktop Background settings page. -->
+<!ENTITY span.label                 "Rozćahnyć">
 <!ENTITY color.label                "Barba:">
 <!ENTITY setDesktopBackground.title "Pozadk desktopa nastajić">
 <!ENTITY openDesktopPrefs.label     "Nastajenja desktopa wočinić">

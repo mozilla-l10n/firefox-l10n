@@ -91,6 +91,13 @@ detail-update-manual =
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = W priwatnych woknach wuwjesć
 detail-private-browsing-description2 = Jeli maće prawo, ma rozšěrjenje přistup na waše aktiwity online w priwatnym modusu. <label data-l10n-name="detail-private-browsing-learn-more">Dalše informacije</label>
+# Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
+# cannot be overriden by the user.
+detail-private-disallowed-label = W priwatnych woknach njedowoleny
+detail-private-disallowed-description = Tute rozšěrjenje w priwatnym modusu njefunguje. <label data-l10n-name="detail-private-browsing-learn-more">Dalše informacije</label>
+# Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
+detail-private-required-label = Wužaduje sej přistup na priwatne wokna
+detail-private-required-description = Tute rozšěrjenje ma přistup na aktiwity online w priwatnym modusu. <label data-l10n-name="detail-private-browsing-learn-more">Dalše informacije</label>
 detail-private-browsing-on =
     .label = Dowolić
     .tooltiptext = W priwatnym modusu zmóžnić
