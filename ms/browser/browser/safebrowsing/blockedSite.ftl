@@ -25,3 +25,6 @@ safeb-blocked-unwanted-page-learn-more = Ketahui lebih lanjut perihal perisian b
 safeb-blocked-harmful-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> telah dilaporkan <a data-l10n-name='error_desc_link'>mengandungi aplikasi yang berbahaya.</a> Anda boleh <a data-l10n-name='ignore_warning_link'>abaikan risiko ini</a> dan terus melayari laman yang tidak selamat ini.
 safeb-blocked-harmful-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> telah dilaporkan <a data-l10n-name='error_desc_link'>mengandungi aplikasi yang berbahaya</a>.
 safeb-blocked-harmful-page-learn-more = Ketahui lebih lanjut perihal Perlindungan Phishing dan Perisian Hasad { -brand-short-name } di <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
+safeb-palm-notdeceptive =
+    .label = Ini bukan laman mengelirukan…
+    .accesskey = m
