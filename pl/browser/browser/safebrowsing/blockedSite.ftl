@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+safeb-blocked-phishing-page-title = Podejrzana strona
 safeb-blocked-malware-page-title = Odwiedzenie tej strony może być szkodliwe
 safeb-blocked-unwanted-page-title = Strona może zawierać szkodliwe oprogramowanie
 safeb-blocked-harmful-page-title = Złośliwe oprogramowanie za rogiem!
