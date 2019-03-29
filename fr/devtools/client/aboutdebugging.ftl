@@ -13,6 +13,9 @@ about-debugging-page-title-setup-page = Débogage - Configuration
 
 # Sidebar strings
 
+# Sidebar heading for selecting the currently running instance of Firefox
+about-debugging-sidebar-this-firefox =
+    .name = { about-debugging-this-firefox-runtime-name }
 # Sidebar heading for connecting to some remote source
 about-debugging-sidebar-setup =
     .name = Configuration
@@ -33,10 +36,6 @@ about-debugging-sidebar-item-connect-button = Connecter
 # Temporary text displayed in sidebar items representing remote runtimes after
 # successfully connecting to them. Temporary UI, do not localize.
 about-debugging-sidebar-item-connected-label = Connecté
-# Text displayed in sidebar items for remote devices where a compatible runtime (eg
-# Firefox) has not been detected yet. Typically, Android phones connected via USB with
-# USB debugging enabled, but where Firefox is not started.
-about-debugging-sidebar-runtime-item-waiting-for-runtime = En attente de l’environnement d’exécution…
 # Title for runtime sidebar items that are related to a specific device (USB, WiFi).
 about-debugging-sidebar-runtime-item-name =
     .title = { $displayName } ({ $deviceName })
