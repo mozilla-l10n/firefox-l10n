@@ -8,6 +8,7 @@ safeb-blocked-unwanted-page-title = Aqueste site pòt conténer de programas dan
 safeb-blocked-harmful-page-title = Aqueste site pòt conténer de logicials malvolents
 safeb-blocked-phishing-page-short-desc = { -brand-short-name } a blocat aqueste pagina perque poiriá vos menar a realizar d’accions perilhossas coma installar un logicial o donar d’informacions personalas coma vòstres senhals o vòstre numerò de carta bancària.
 safeb-blocked-malware-page-short-desc = { -brand-short-name } a blocat aquesta pagina, perque poiriá ensajar d’installar un logicial malvolent capable de raubar o suprimir de donadas personalas sus vòstre ordinator.
+safeb-blocked-unwanted-page-short-desc = { -brand-short-name } a blocat aquesta pagina perque poiriá vos far installar de programas capables de nòser vòstra experiéncia de navegacion(per exemple en cambiar vòstra pagina d’acuèlh o n’ajustar de publicitat suls sites que visitatz).
 safeb-blocked-harmful-page-short-desc = { -brand-short-name } a blocat aquesta pagina qu'auriá pogut installar d'aplicacions dangierosas capablas de raubar o suprimir vòstras donadas (per exemple, fotografias, senhals, messatges e cartas de crèdit).
 safeb-palm-advisory-desc = Avís emés per <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
 safeb-palm-accept-label = Retorn
