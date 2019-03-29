@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 safeb-blocked-malware-page-title = এই ওয়েবসাইটটিতে প্রবেশ করলে আপনার কম্পিউটারের ক্ষতি হতে পারে
+safeb-blocked-unwanted-page-title = এই সাইটে সামনের দিকে ক্ষতিকারক প্রোগ্রাম থাকতে পারে
 safeb-palm-accept-label = ফিরে যান
 safeb-palm-see-details-label = বিস্তারিত দেখুন
 safeb-palm-notdeceptive =
