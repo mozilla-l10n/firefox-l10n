@@ -8,7 +8,12 @@
 <!ENTITY stretch.label              "Astenn">
 <!ENTITY fill.label                 "Leuniañ">
 <!ENTITY fit.label                  "Kenglotañ">
-<!ENTITY preview.label              "Alberz">
+<!-- LOCALIZATION NOTE (span.label): This refers to the wallpaper "spanning"
+                       multiple monitors when the user has more than one. Only
+                       some of the entire image will be on each monitor.
+                       This should ideally match the wording in Windows' own
+                       Desktop Background settings page. -->
+<!ENTITY span.label                 "Led">
 <!ENTITY color.label                "Liv :">
 <!ENTITY setDesktopBackground.title "Kempenn drekleur ar burev">
 <!ENTITY openDesktopPrefs.label     "Digeriñ ma gwellvezioù evit ar burev ">
