@@ -74,6 +74,10 @@ about-debugging-setup-usb-status-updating = กำลังอัปเดต…
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-dev-menu = เปิดใช้งานเมนูนักพัฒนาในอุปกรณ์ Android ของคุณ <a>เรียนรู้วิธี</a>
 # USB section step by step guide
+about-debugging-setup-usb-step-enable-debug = เปิดใช้งานการดีบั๊ก USB ในเมนูนักพัฒนา Android <a>เรียนรู้วิธี</a>
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug-firefox = เปิดใช้งานการดีบั๊ก USB ใน Firefox ในอุปกรณ์ Android <a>เรียนรู้วิธี</a>
+# USB section step by step guide
 about-debugging-setup-usb-step-plug-device = เชื่อมต่ออุปกรณ์ Android กับคอมพิวเตอร์ของคุณ
 # Network section of the Setup page
 about-debugging-setup-network =
@@ -155,3 +159,7 @@ about-debugging-extension-uuid =
 # displaying the location of the temporary extension.
 about-debugging-extension-location =
     .label = ตำแหน่งที่ตั้ง
+# Text displayed for extensions in "runtime" pages, before displaying the extension's ID.
+# For instance "geckoprofiler@mozilla.com" or "{ed26ddcb-5611-4512-a89a-51b8db81cfb2}".
+about-debugging-extension-id =
+    .label = ID ส่วนขยาย
