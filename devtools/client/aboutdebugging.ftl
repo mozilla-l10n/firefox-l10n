@@ -112,6 +112,10 @@ about-debugging-network-locations-host-input-label = Gép
 # Text of a button displayed next to existing network locations in the Connect page.
 # Clicking on it removes the network location from the list.
 about-debugging-network-locations-remove-button = Eltávolítás
+# Text used as error message if the input value was already registered in the network locations form of the Setup page.
+# Variables:
+#   $host-value (string) - The input value submitted by the user in the network locations form
+about-debugging-network-location-form-duplicate = A „{ $host-value }” gazdagép már regisztrálva van
 
 # Runtime Page strings
 
