@@ -4,6 +4,7 @@
 
 safeb-blocked-phishing-page-title = الموقع القادم مخادع
 safeb-blocked-malware-page-title = قد تؤذي زيارة هذا الموقع حاسوبك
+safeb-blocked-unwanted-page-title = قد يحتوي هذا الموقع برنامج ضارة
 safeb-blocked-harmful-page-title = قد يحتوي هذا الموقع برمجيات خبيثة
 safeb-blocked-phishing-page-short-desc = حجب { -brand-short-name } هذه الصفحة لأنها قد تحاول خداعك لفعل شيء خطير مثل تنصيب برمجيات أو كشف معلوماتك الشخصية مثل كلمات السر أو بطاقات الائتمان.
 safeb-blocked-malware-page-short-desc = حجب { -brand-short-name } هذه الصفحة لأنها قد تحاول تنصيب برمجيات خبيثة قد تسرق معلوماتك الشخصية على الحاسوب أو تحذفها.
