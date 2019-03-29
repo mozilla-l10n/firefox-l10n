@@ -2,6 +2,5 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  settingsChangePreferences.label  "Có thể thiết lập dùng cửa sổ Tùy chỉnh của &brandShortName;, trong thẻ Phần đính kèm.">
-<!ENTITY  settingsChangeOptions.label      "Có thể thiết lập dùng cửa sổ Tùy chọn của &brandShortName;, trong thẻ Phần đính kèm.">
-
+<!ENTITY  settingsChangePreferences.label  "Có thể thay đổi cài đặt bằng cách sử dụng thẻ đính kèm trong tùy chỉnh &brandShortName;">
+<!ENTITY  settingsChangeOptions.label      "Có thể thay đổi cài đặt bằng cách sử dụng thẻ đính kèm trong tùy chọn &brandShortName;">
