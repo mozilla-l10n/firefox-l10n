@@ -13,6 +13,7 @@ safeb-blocked-harmful-page-short-desc = { -brand-short-name } đã chặn trang 
 safeb-palm-advisory-desc = Tư vấn được cung cấp bởi <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
 safeb-palm-accept-label = Quay lại
 safeb-palm-see-details-label = Xem chi tiết
+safeb-blocked-phishing-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> đã bị <a data-l10n-name='error_desc_link'> báo cáo là trang web lừa đảo</a>. Bạn có thể <a data-l10n-name='report_detection'>báo cáo một vấn đề phát hiện</a> hoặc <a data-l10n-name='ignore_warning_link'>bỏ qua rủi ro</a> và truy cập trang không an toàn này.
 safeb-blocked-phishing-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> đã bị <a data-l10n-name='error_desc_link'>báo cáo là trang web lừa đảo</a>. Bạn có thể <a data-l10n-name='report_detection'>báo cáo một vấn đề phát hiện</a>.
 safeb-blocked-phishing-page-learn-more = Tìm hiểu thêm về các trang lừa đảo và giả mạo tại <a data-l10n-name='learn_more_link'>www.antiphishing.org</a>. Tìm hiểu thêm về chống lừa đảo và phần mềm độc hại của { -brand-short-name } tại <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 safeb-blocked-malware-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> đã <a data-l10n-name='error_desc_link'>báo cáo là có chứa phần mềm độc hại</a>. Bạn có thể <a data-l10n-name='report_detection'>báo cáo một vấn đề phát hiện</a> hoặc <a data-l10n-name='ignore_warning_link'>bỏ qua nguy cơ</a> và đi đến trang web không an toàn này.
