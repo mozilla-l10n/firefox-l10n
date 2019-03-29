@@ -91,6 +91,13 @@ detail-update-manual =
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Futtatás privát ablakokban
 detail-private-browsing-description2 = Ha engedélyezve van, akkor a kiegészítő privát böngészésben is hozzá fog férni az online tevékenységéhez. <label data-l10n-name="detail-private-browsing-learn-more">Tudjon meg többet</label>
+# Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
+# cannot be overriden by the user.
+detail-private-disallowed-label = Privát ablakokban nem engedélyezett
+detail-private-disallowed-description = Ez a kiegészítő nem fut privát böngészéskor. <label data-l10n-name="detail-private-browsing-learn-more">További információk</label>
+# Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
+detail-private-required-label = Hozzáférés szükséges a privát ablakokhoz
+detail-private-required-description = Ez a kiegészítő hozzáfér az online tevékenységéhez privát böngészés közben. <label data-l10n-name="detail-private-browsing-learn-more">További információ</label>
 detail-private-browsing-on =
     .label = Engedélyezés
     .tooltiptext = Engedélyezés privát böngészésben
