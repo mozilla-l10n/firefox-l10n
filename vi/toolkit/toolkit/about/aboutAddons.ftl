@@ -91,6 +91,13 @@ detail-update-manual =
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Chạy trong cửa sổ riêng tư
 detail-private-browsing-description2 = Khi được cho phép, tiện ích mở rộng sẽ có quyền truy cập vào các hoạt động trực tuyến của bạn trong khi duyệt web riêng tư. <label data-l10n-name="detail-private-browsing-learn-more">Tìm hiểu thêm</label>
+# Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
+# cannot be overriden by the user.
+detail-private-disallowed-label = Không được phép trong cửa sổ riêng tư
+detail-private-disallowed-description = Tiện ích mở rộng này không chạy trong khi duyệt web riêng tư. <label data-l10n-name="detail-private-browsing-learn-more">Tìm hiểu thêm</label>
+# Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
+detail-private-required-label = Yêu cầu quyền truy cập vào cửa sổ riêng tư
+detail-private-required-description = Tiện ích mở rộng này có quyền truy cập vào các hoạt động trực tuyến của bạn trong khi duyệt web riêng tư. <label data-l10n-name="detail-private-browsing-learn-more">Tìm hiểu thêm</label>
 detail-private-browsing-on =
     .label = Cho phép
     .tooltiptext = Kích hoạt trong duyệt web riêng tư
