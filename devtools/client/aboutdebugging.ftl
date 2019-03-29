@@ -42,10 +42,10 @@ about-debugging-sidebar-item-connect-button = Zwjazać
 # Temporary text displayed in sidebar items representing remote runtimes after
 # successfully connecting to them. Temporary UI, do not localize.
 about-debugging-sidebar-item-connected-label = Zwjazany
-# Text displayed in sidebar items for remote devices where a compatible runtime (eg
+# Text displayed in sidebar items for remote devices where a compatible browser (eg
 # Firefox) has not been detected yet. Typically, Android phones connected via USB with
 # USB debugging enabled, but where Firefox is not started.
-about-debugging-sidebar-runtime-item-waiting-for-runtime = Čaka so na běžny čas…
+about-debugging-sidebar-runtime-item-waiting-for-browser = Čaka so na wobhladowak…
 # Title for runtime sidebar items that are related to a specific device (USB, WiFi).
 about-debugging-sidebar-runtime-item-name =
     .title = { $displayName } ({ $deviceName })
@@ -53,6 +53,13 @@ about-debugging-sidebar-runtime-item-name =
 # locations).
 about-debugging-sidebar-runtime-item-name-no-device =
     .title = { $displayName }
+# Text to show in the footer of the sidebar that links to a help page
+# (currently: https://developer.mozilla.org/docs/Tools/about:debugging)
+about-debugging-sidebar-support = Pomoc za pytanje zmylkow
+# Text to show as the ALT attribute of a help icon that accompanies the help about
+# debugging link in the footer of the sidebar
+about-debugging-sidebar-support-icon =
+    .alt = Symbol pomocy
 # Text displayed in a sidebar button to refresh the list of USB devices. Clicking on it
 # will attempt to update the list of devices displayed in the sidebar.
 about-debugging-refresh-usb-devices-button = Graty aktualizować
@@ -239,5 +246,5 @@ about-debugging-worker-push-service =
 # remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-main-process-name = Hłowny proces
 # Displayed as description for the Main Process debug target in the Processes category.
-# Only for remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
-about-debugging-main-process-description = Hłowny proces za cilowy běžny čas
+# Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
+about-debugging-main-process-description2 = Hłowny proces za cilowy wobhladowak
