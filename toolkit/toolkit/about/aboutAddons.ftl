@@ -91,6 +91,13 @@ detail-update-manual =
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Kör i privata fönster
 detail-private-browsing-description2 = När det är tillåtet kommer tillägget att ha tillgång till dina onlineaktiviteter medan du surfar. <label data-l10n-name="detail-private-browsing-learn-more">Läs mer</label>
+# Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
+# cannot be overriden by the user.
+detail-private-disallowed-label = Ej tillåtet i privata fönster
+detail-private-disallowed-description = Detta tillägg kan inte köras under privat surfning. <label data-l10n-name="detail-private-browsing-learn-more">Läs mer</label>
+# Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
+detail-private-required-label = Kräver åtkomst till privata fönster
+detail-private-required-description = Detta tillägg har tillgång till dina onlineaktiviteter medan du surfar. <label data-l10n-name="detail-private-browsing-learn-more">Läs mer</label>
 detail-private-browsing-on =
     .label = Tillåt
     .tooltiptext = Aktivera i privat surfning
