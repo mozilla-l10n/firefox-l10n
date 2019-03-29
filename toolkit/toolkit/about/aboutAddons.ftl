@@ -99,6 +99,9 @@ detail-private-browsing-description2 = 若允許執行，擴充套件可在隱�
 # cannot be overriden by the user.
 detail-private-disallowed-label = 不允許於隱私視窗使用
 detail-private-disallowed-description = 此擴充套件無法於隱私瀏覽模式中運作。<label data-l10n-name="detail-private-browsing-learn-more">了解更多資訊</label>
+# Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
+detail-private-required-label = 自動於隱私瀏覽視窗運作
+detail-private-required-description = 此擴充套件可存取您在隱私瀏覽模式當中的線上行為。<label data-l10n-name="detail-private-browsing-learn-more">了解更多資訊</label>
 detail-private-browsing-on =
     .label = 允許
     .tooltiptext = 在隱私瀏覽模式中啟用
