@@ -24,3 +24,6 @@ safeb-blocked-unwanted-page-error-desc-no-override = Stránka <span data-l10n-na
 safeb-blocked-harmful-page-error-desc-override = Stránka <span data-l10n-name='sitename'>{ $sitename }</span> byla <a data-l10n-name='error_desc_link'>nahlášena jako stránka s potenciálně škodlivou aplikací</a>. Můžete se rozhodnout <a data-l10n-name='ignore_warning_link'>ignorovat riziko</a> a pokračovat na tuto nebezpečnou stránku.
 safeb-blocked-harmful-page-error-desc-no-override = Stránka <span data-l10n-name='sitename'>{ $sitename }</span> byla <a data-l10n-name='error_desc_link'>nahlášena jako stránka s potenciálně škodlivou aplikací</a>.
 safeb-blocked-harmful-page-learn-more = Zjistěte více ochraně proti phishingu a malwaru v aplikaci { -brand-short-name } na <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
+safeb-palm-notdeceptive =
+    .label = Tato stránka není klamavá…
+    .accesskey = l
