@@ -24,10 +24,7 @@ safeb-blocked-unwanted-page-error-desc-no-override = Par lapu <span data-l10n-na
 safeb-blocked-unwanted-page-learn-more = Uzziniet vairāk par kaitīgas un nevēlamas programmatūras <a data-l10n-name='learn_more_link'>aizsardzību</a>. { -brand-short-name } aizsardzību no kaitnieciskās programmatūras <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 safeb-blocked-harmful-page-error-desc-override = Par lapu <span data-l10n-name='sitename'>{ $sitename }</span> ir saņemti <a data-l10n-name='error_desc_link'>ziņojumi, ka tajā ir kaitīga programmatūra</a>. Jūs varat <a data-l10n-name='ignore_warning_link'>ignorēt šo brīdinājumu</a> un iet uz nedrošo lapu.
 safeb-blocked-harmful-page-error-desc-no-override = Par lapu <span data-l10n-name='sitename'>{ $sitename }</span> ir saņemti <a data-l10n-name='error_desc_link'>ziņojumi, ka tajā ir kaitīga programmatūra</a>.
-safeb-blocked-harmful-page-learn-more =
-    Uzziniet vairāk par { -brand-short-name } bīstamās programmatūras aizsardzību <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
-    
-    { "" }
+safeb-blocked-harmful-page-learn-more = Uzziniet vairāk par { -brand-short-name } bīstamās programmatūras aizsardzību <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 safeb-palm-notdeceptive =
     .label = Šī nav maldinoša lapa…
     .accesskey = d
