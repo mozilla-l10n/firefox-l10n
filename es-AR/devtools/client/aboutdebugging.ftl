@@ -42,10 +42,10 @@ about-debugging-sidebar-item-connect-button = Conectar
 # Temporary text displayed in sidebar items representing remote runtimes after
 # successfully connecting to them. Temporary UI, do not localize.
 about-debugging-sidebar-item-connected-label = Conectado
-# Text displayed in sidebar items for remote devices where a compatible runtime (eg
+# Text displayed in sidebar items for remote devices where a compatible browser (eg
 # Firefox) has not been detected yet. Typically, Android phones connected via USB with
 # USB debugging enabled, but where Firefox is not started.
-about-debugging-sidebar-runtime-item-waiting-for-runtime = Esperando el tiempo de ejecución...
+about-debugging-sidebar-runtime-item-waiting-for-browser = Esperando al navegador...
 # Title for runtime sidebar items that are related to a specific device (USB, WiFi).
 about-debugging-sidebar-runtime-item-name =
     .title = { $displayName } ( { $deviceName } )
@@ -53,6 +53,13 @@ about-debugging-sidebar-runtime-item-name =
 # locations).
 about-debugging-sidebar-runtime-item-name-no-device =
     .title = { $displayName }
+# Text to show in the footer of the sidebar that links to a help page
+# (currently: https://developer.mozilla.org/docs/Tools/about:debugging)
+about-debugging-sidebar-support = Soporte de depuración
+# Text to show as the ALT attribute of a help icon that accompanies the help about
+# debugging link in the footer of the sidebar
+about-debugging-sidebar-support-icon =
+    .alt = Icono de ayuda
 # Text displayed in a sidebar button to refresh the list of USB devices. Clicking on it
 # will attempt to update the list of devices displayed in the sidebar.
 about-debugging-refresh-usb-devices-button = Actualizar dispositivos
@@ -150,25 +157,25 @@ about-debugging-runtime-profile-button = Perfil del tiempo de ejecución
 # target runtime is incompatible with service workers. "Learn more" points to MDN.
 # https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
 about-debugging-runtime-service-workers-not-compatible = La configuración del navegador no es compatible con Service Workers. <a>Conocer más</a>
-# This string is displayed in the runtime page if the remote runtime version is too old.
+# This string is displayed in the runtime page if the remote browser version is too old.
 # "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/WebIDE/Troubleshooting
-# { $runtimeVersion } is the version of the remote runtime (for instance "67.0a1")
+# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 # { $minVersion } is the minimum version that is compatible with the current Firefox instance (same format)
-about-debugging-runtime-version-too-old = El tiempo de ejecución conectado tiene una versión antigua ({ $runtimeVersion }). La mínima versión compatible es ({ $minVersion }). Esta es una configuración incompatible y puede causar la falla de DevTools. Por favor actualice el tiempo de ejecución conectado. <a>Resolución de problemas</a>
+about-debugging-browser-version-too-old = El tiempo de ejecución conectado tiene una versión antigua ({ $runtimeVersion }). La mínima versión compatible es ({ $minVersion }). Esta es una configuración incompatible y puede causar la falla de DevTools. Por favor actualice el tiempo de ejecución conectado. <a>Resolución de problemas</a>
 # Dedicated message for a backward compatibility issue that occurs when connecting:
 # - from Fx 67 to 66 or to 65
 # - from Fx 68 to 66
 # Those are normally in range for DevTools compatibility policy, but specific non
 # backward compatible changes broke the debugger in those scenarios (Bug 1528219).
-# { $runtimeVersion } is the version of the remote runtime (for instance "67.0a1")
-about-debugging-runtime-version-too-old-67-debugger = Es posible que el panel del depurador no funcione con el tiempo de ejecución conectado. Utilice Firefox { $runtimeVersion } si necesita usar el depurador con este tiempo de ejecución.
-# This string is displayed in the runtime page if the remote runtime version is too recent.
+# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
+about-debugging-browser-version-too-old-67-debugger = Es posible que el panel del depurador no funcione con el tiempo de ejecución conectado. Utilice Firefox { $runtimeVersion }{ $runtimeVersion } si necesita usar el depurador con este navegador.
+# This string is displayed in the runtime page if the remote browser version is too recent.
 # "Troubleshooting" link points to https://developer.mozilla.org/en-US/docs/Tools/WebIDE/Troubleshooting
-# { $runtimeID } is the build ID of the remote runtime (for instance "20181231", format is yyyyMMdd)
+# { $runtimeID } is the build ID of the remote browser (for instance "20181231", format is yyyyMMdd)
 # { $localID } is the build ID of the current Firefox instance (same format)
-# { $runtimeVersion } is the version of the remote runtime (for instance "67.0a1")
-# { $localVersion } is the version of your current runtime (same format)
-about-debugging-runtime-version-too-recent = El tiempo de ejecución conectado es más reciente ({ $runtimeVersion }, buildID { $runtimeID }) que su { -brand-shorter-name } ({ $localVersion }, buildID { $localID }). Esta es una configuración no compatible y puede hacer que DevTools falle. Por favor actualice Firefox. <a> Solución de problemas </a>
+# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
+# { $localVersion } is the version of your current browser (same format)
+about-debugging-browser-version-too-recent = El tiempo de ejecución conectado es más reciente ({ $runtimeVersion }, buildID { $runtimeID }) que su { -brand-shorter-name } ({ $localVersion }, buildID { $localID }). Esta es una configuración no compatible y puede hacer que DevTools falle. Por favor actualice Firefox. <a> Solución de problemas </a>
 # Displayed for runtime info in runtime pages.
 # { $name } is brand name such as "Firefox Nightly"
 # { $version } is version such as "64.0a1"
@@ -272,5 +279,5 @@ about-debugging-worker-push-service =
 # remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-main-process-name = Proceso principal
 # Displayed as description for the Main Process debug target in the Processes category.
-# Only for remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
-about-debugging-main-process-description = Proceso principal para el tiempo de ejecución establecido
+# Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
+about-debugging-main-process-description2 = Proceso principal para el navegador de destino.
