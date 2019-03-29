@@ -42,10 +42,6 @@ about-debugging-sidebar-item-connect-button = Bağlan
 # Temporary text displayed in sidebar items representing remote runtimes after
 # successfully connecting to them. Temporary UI, do not localize.
 about-debugging-sidebar-item-connected-label = Bağlı
-# Text displayed in sidebar items for remote devices where a compatible runtime (eg
-# Firefox) has not been detected yet. Typically, Android phones connected via USB with
-# USB debugging enabled, but where Firefox is not started.
-about-debugging-sidebar-runtime-item-waiting-for-runtime = Çalışma zamanı bekleniyor…
 # Title for runtime sidebar items that are related to a specific device (USB, WiFi).
 about-debugging-sidebar-runtime-item-name =
     .title = { $displayName } ({ $deviceName })
@@ -68,10 +64,20 @@ about-debugging-setup-intro = Cihazınızla uzaktan hata ayıklamak istediğiniz
 about-debugging-setup-link-android-devices = Desteklenen Android cihazların listesini göster
 # USB section of the Setup page
 about-debugging-setup-usb-title = USB
+# Text of the button displayed in the USB section of the setup page when USB debugging is disabled.
+# Clicking on it will download components needed to debug USB Devices remotely.
+about-debugging-setup-usb-enable-button = USB cihazlarını etkinleştir
+# Text of the button displayed in the USB section of the setup page when USB debugging is enabled.
+about-debugging-setup-usb-disable-button = USB cihazlarını devre dışı bırak
 # Text of the button displayed in the USB section of the setup page while USB debugging
 # components are downloaded and installed.
 about-debugging-setup-usb-updating-button = Güncelleniyor…
+# USB section of the Setup page (USB status)
+about-debugging-setup-usb-status-enabled = Etkin
+about-debugging-setup-usb-status-disabled = Devre dışı
 about-debugging-setup-usb-status-updating = Güncelleniyor…
+# USB section step by step guide
+about-debugging-setup-usb-step-plug-device = Android cihazını bilgisayarınıza bağlayın.
 # Network section of the Setup page
 about-debugging-setup-network =
     .title = Ağ konumu
@@ -111,5 +117,9 @@ about-debugging-tmp-extension-reload-button = Tazele
 # Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
 # Clicking on the button will uninstall the extension and remove it from the page.
 about-debugging-tmp-extension-remove-button = Kaldır
+# Text displayed for extensions (temporary extensions only) in "runtime" pages, before
+# displaying the location of the temporary extension.
+about-debugging-extension-location =
+    .label = Konum
 # This string is displayed as a label of the button that starts a service worker.
 about-debugging-worker-action-start = Başlat
