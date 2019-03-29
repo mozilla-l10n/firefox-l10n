@@ -4,6 +4,7 @@
 
 safeb-blocked-malware-page-title = এই ওয়েবসাইটটিতে প্রবেশ করলে আপনার কম্পিউটারের ক্ষতি হতে পারে
 safeb-blocked-unwanted-page-title = এই সাইটে সামনের দিকে ক্ষতিকারক প্রোগ্রাম থাকতে পারে
+safeb-blocked-malware-page-short-desc = { -brand-short-name } এই পাতাটিকে অবরুদ্ধ করেছে কারণ এটি আপনার কম্পিউটারে ব্যক্তিগত তথ্য চুরি বা মুছতে পারে এমন দূষিত সফ্টওয়্যার ইনস্টল করার চেষ্টা করতে পারে।
 safeb-blocked-unwanted-page-short-desc = { -brand-short-name } পাতাটি ব্লক করছে কারণ এটি আপনার ব্রাউজিং অভিজ্ঞতাকে ক্ষতিগ্রস্ত করে এমন প্রোগ্রাম ইনস্টল করতে সহায়তা করে (উদাহরণস্বরূপ, আপনার নীড়পাতা পরিবর্তন করে বা আপনার দেখা সাইটে অতিরিক্ত বিজ্ঞাপন দেখায়)।
 safeb-palm-advisory-desc = উপদেষ্টা <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>।
 safeb-palm-accept-label = ফিরে যান
