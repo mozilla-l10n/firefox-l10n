@@ -16,7 +16,7 @@
 
 
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly builds. It is only shown in this version. -->
-<!ENTITY warningDesc.version        "&brandShortName; đang được thử nghiệm và có thể không ổn định.">
+<!ENTITY warningDesc.version        "&brandShortName; thiết kế để thử nghiệm và có thể không ổn định.">
 <!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly builds automatically send Telemetry data back to Mozilla. It is only shown in this version. "It" refers to brandShortName. -->
 <!ENTITY warningDesc.telemetryDesc  "Thông tin về việc sử dụng, về hiệu suất, phần cứng và các tùy chỉnh sẽ được tự động gửi tới &vendorShortName; để giúp &brandShortName; hoàn thiện hơn.">
 
@@ -97,11 +97,10 @@
      is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
      the "em dash" (long dash).
      example: Downloading update — 111 KB of 13 MB -->
-<!ENTITY update.downloading.start   "Đang tải cập nhật — ">
+<!ENTITY update.downloading.start   "Đang tải bản cập nhật — ">
 <!ENTITY update.downloading.end     "">
 
-<!ENTITY update.applying            "Đang áp dụng cập nhật…">
-
+<!ENTITY update.applying            "Đang áp dụng bản cập nhật…">
 <!ENTITY update.restarting          "Đang khởi động lại…">
 
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
