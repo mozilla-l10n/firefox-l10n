@@ -7,6 +7,7 @@ safeb-blocked-malware-page-title = การเยี่ยมชมเว็บ
 safeb-blocked-unwanted-page-title = ไซต์ข้างหน้าอาจมีโปรแกรมที่เป็นอันตราย
 safeb-blocked-harmful-page-title = ไซต์ข้างหน้าอาจมีมัลแวร์
 safeb-blocked-malware-page-short-desc = { -brand-short-name } ได้ปิดกั้นหน้านี้เนื่องจากหน้าอาจพยายามติดตั้งซอฟต์แวร์ที่ประสงค์ร้ายที่อาจขโมยหรือลบข้อมูลส่วนบุคคลในคอมพิวเตอร์ของคุณ
+safeb-blocked-unwanted-page-short-desc = { -brand-short-name } ได้ปิดกั้นหน้านี้เนื่องจากหน้าอาจพยายามหลอกลวงคุณให้ติดตั้งโปรแกรมที่เป็นอันตรายต่อประสบการณ์การท่องเว็บของคุณ (ตัวอย่างเช่น โดยการเปลี่ยนหน้าแรกของคุณหรือแสดงโฆษณาพิเศษในหน้าที่คุณเยี่ยมชม)
 safeb-palm-advisory-desc = คำแนะนำโดย <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>
 safeb-palm-accept-label = ย้อนกลับ
 safeb-palm-see-details-label = ดูรายละเอียด
