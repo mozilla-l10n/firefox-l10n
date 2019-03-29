@@ -42,10 +42,10 @@ about-debugging-sidebar-item-connect-button = 連線
 # Temporary text displayed in sidebar items representing remote runtimes after
 # successfully connecting to them. Temporary UI, do not localize.
 about-debugging-sidebar-item-connected-label = 已連線
-# Text displayed in sidebar items for remote devices where a compatible runtime (eg
+# Text displayed in sidebar items for remote devices where a compatible browser (eg
 # Firefox) has not been detected yet. Typically, Android phones connected via USB with
 # USB debugging enabled, but where Firefox is not started.
-about-debugging-sidebar-runtime-item-waiting-for-runtime = 正在等待 Runtime 連線…
+about-debugging-sidebar-runtime-item-waiting-for-browser = 正在等待瀏覽器連線…
 # Title for runtime sidebar items that are related to a specific device (USB, WiFi).
 about-debugging-sidebar-runtime-item-name =
     .title = { $displayName }（{ $deviceName }）
@@ -53,6 +53,13 @@ about-debugging-sidebar-runtime-item-name =
 # locations).
 about-debugging-sidebar-runtime-item-name-no-device =
     .title = { $displayName }
+# Text to show in the footer of the sidebar that links to a help page
+# (currently: https://developer.mozilla.org/docs/Tools/about:debugging)
+about-debugging-sidebar-support = 除錯器技術支援
+# Text to show as the ALT attribute of a help icon that accompanies the help about
+# debugging link in the footer of the sidebar
+about-debugging-sidebar-support-icon =
+    .alt = 輔助說明圖示
 # Text displayed in a sidebar button to refresh the list of USB devices. Clicking on it
 # will attempt to update the list of devices displayed in the sidebar.
 about-debugging-refresh-usb-devices-button = 重新整理裝置
@@ -150,25 +157,6 @@ about-debugging-runtime-profile-button = 對 Runtime 進行 Profile
 # target runtime is incompatible with service workers. "Learn more" points to MDN.
 # https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
 about-debugging-runtime-service-workers-not-compatible = 您瀏覽器的設定與 Service Worker 不相容。<a>了解更多資訊</a>
-# This string is displayed in the runtime page if the remote runtime version is too old.
-# "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/WebIDE/Troubleshooting
-# { $runtimeVersion } is the version of the remote runtime (for instance "67.0a1")
-# { $minVersion } is the minimum version that is compatible with the current Firefox instance (same format)
-about-debugging-runtime-version-too-old = 連結的 Runtime 使用的是舊版（{ $runtimeVersion }）。目前支援的最小版本為（{ $minVersion }）。不支援這種設定，可能會造成開發者工具發生錯誤，請更新連線的 Runtime。<a>點此進行疑難排解</a>
-# Dedicated message for a backward compatibility issue that occurs when connecting:
-# - from Fx 67 to 66 or to 65
-# - from Fx 68 to 66
-# Those are normally in range for DevTools compatibility policy, but specific non
-# backward compatible changes broke the debugger in those scenarios (Bug 1528219).
-# { $runtimeVersion } is the version of the remote runtime (for instance "67.0a1")
-about-debugging-runtime-version-too-old-67-debugger = 除錯器面板可能與連結的 Runtime 不相容。若需要對此 Runtime 除錯請改用 Firefox { $runtimeVersion }。
-# This string is displayed in the runtime page if the remote runtime version is too recent.
-# "Troubleshooting" link points to https://developer.mozilla.org/en-US/docs/Tools/WebIDE/Troubleshooting
-# { $runtimeID } is the build ID of the remote runtime (for instance "20181231", format is yyyyMMdd)
-# { $localID } is the build ID of the current Firefox instance (same format)
-# { $runtimeVersion } is the version of the remote runtime (for instance "67.0a1")
-# { $localVersion } is the version of your current runtime (same format)
-about-debugging-runtime-version-too-recent = 連結的 Runtime（版本 { $runtimeVersion }、buildID { $runtimeID }）比您的 { -brand-shorter-name }（{ $localVersion }、buildID { $localID }）還新。不支援這種設定，可能會造成開發者工具發生錯誤，請更新 Firefox。<a>點此進行疑難排解</a>
 # Displayed for runtime info in runtime pages.
 # { $name } is brand name such as "Firefox Nightly"
 # { $version } is version such as "64.0a1"
@@ -271,6 +259,3 @@ about-debugging-worker-push-service =
 # Displayed as name for the Main Process debug target in the Processes category. Only for
 # remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-main-process-name = 主要 Process
-# Displayed as description for the Main Process debug target in the Processes category.
-# Only for remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
-about-debugging-main-process-description = 目標 Runtime 的主要 Process
