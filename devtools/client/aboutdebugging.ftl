@@ -36,9 +36,43 @@ aboutdebugging-sidebar-runtime-connection-status-connected = I lidhur
 aboutdebugging-sidebar-runtime-connection-status-disconnected = I shkëputur
 # Text displayed in the about:debugging sidebar when no device was found.
 about-debugging-sidebar-no-devices = S’u pikasën pajisje
+# Text displayed in buttons found in sidebar items representing remote runtimes.
+# Clicking on the button will attempt to connect to the runtime.
+about-debugging-sidebar-item-connect-button = Lidhu
+# Temporary text displayed in sidebar items representing remote runtimes after
+# successfully connecting to them. Temporary UI, do not localize.
+about-debugging-sidebar-item-connected-label = I lidhur
+# Text displayed in sidebar items for remote devices where a compatible browser (eg
+# Firefox) has not been detected yet. Typically, Android phones connected via USB with
+# USB debugging enabled, but where Firefox is not started.
+about-debugging-sidebar-runtime-item-waiting-for-browser = Po pritet për shfletues…
+# Title for runtime sidebar items that are related to a specific device (USB, WiFi).
+about-debugging-sidebar-runtime-item-name =
+    .title = { $displayName } ({ $deviceName })
+# Title for runtime sidebar items where we cannot get device information (network
+# locations).
+about-debugging-sidebar-runtime-item-name-no-device =
+    .title = { $displayName }
+# Text to show in the footer of the sidebar that links to a help page
+# (currently: https://developer.mozilla.org/docs/Tools/about:debugging)
+about-debugging-sidebar-support = Mbulim Për Diagnostikime
+# Text to show as the ALT attribute of a help icon that accompanies the help about
+# debugging link in the footer of the sidebar
+about-debugging-sidebar-support-icon =
+    .alt = Ikonë ndihme
+# Text displayed in a sidebar button to refresh the list of USB devices. Clicking on it
+# will attempt to update the list of devices displayed in the sidebar.
+about-debugging-refresh-usb-devices-button = Rifresko pajisjet
 
 # Setup Page strings
 
+# Title of the Setup page.
+about-debugging-setup-title = Rregullim
+# Introduction text in the Setup page to explain how to configure remote debugging.
+about-debugging-setup-intro = Formësoni metodë lidhjeje që doni për diagnostikim të largët të pajisjes tuaj.
+# Link displayed in the Setup page that leads to MDN page with list of supported devices.
+# Temporarily leads to https://support.mozilla.org/en-US/kb/will-firefox-work-my-mobile-device#w_android-devices
+about-debugging-setup-link-android-devices = Shihni listë pajisjesh Android të mbuluara
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
 about-debugging-setup-this-firefox = Përdorni <a>{ about-debugging-this-firefox-runtime-name }</a> që të diagnostikoni skeda, zgjerime dhe <em>service workers</em> në këtë version të { -brand-shorter-name }.
 # Title of the heading Connect section of the Setup page.
@@ -59,6 +93,14 @@ about-debugging-setup-usb-updating-button = Po përditësohet…
 about-debugging-setup-usb-status-enabled = E aktivizuar
 about-debugging-setup-usb-status-disabled = E çaktivizuar
 about-debugging-setup-usb-status-updating = Po përditësohet…
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-dev-menu = Aktivizoni menunë Zhvillues te pajisja juaj Android. <a>Mësoni se si</a>
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug = Aktivizoni menunë Diagnostikim USB te menuja Zhvillues në Android. <a>Mësoni se si</a>
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug-firefox = Aktivizoni menunë Diagnostikim USB në Firefox te pajisje Android. <a>Mësoni se si</a>
+# USB section step by step guide
+about-debugging-setup-usb-step-plug-device = Lidheni pajisjen Android me kompjuterin tuaj.
 # Network section of the Setup page
 about-debugging-setup-network =
     .title = Vendndodhje Në Rrjet
@@ -108,6 +150,31 @@ about-debugging-runtime-other-workers =
 # Title of the processes category.
 about-debugging-runtime-processes =
     .name = Procese
+# This string is displayed in the runtime page if the current configuration of the
+# target runtime is incompatible with service workers. "Learn more" points to MDN.
+# https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
+about-debugging-runtime-service-workers-not-compatible = Formësimi i shfletuesit tuaj s’është i përputhshëm me Service Workers. <a>Mësoni më tepër</a>
+# This string is displayed in the runtime page if the remote browser version is too old.
+# "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/WebIDE/Troubleshooting
+# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
+# { $minVersion } is the minimum version that is compatible with the current Firefox instance (same format)
+about-debugging-browser-version-too-old =
+    Shfletuesi i lidhur ka një version të vjetër ({ $runtimeVersion }). Versioni minimum që mbulohet është ({ $minVersion }). Ky është formësim i pambuluar dhe mund të bëjë që DevTools të mos funksionojnë. Ju lutemi, përditësoni shfletuesin.
+    <a>Diagnostikim</a>
+# Dedicated message for a backward compatibility issue that occurs when connecting:
+# - from Fx 67 to 66 or to 65
+# - from Fx 68 to 66
+# Those are normally in range for DevTools compatibility policy, but specific non
+# backward compatible changes broke the debugger in those scenarios (Bug 1528219).
+# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
+about-debugging-browser-version-too-old-67-debugger = Paneli i diagnostikuesit mund të mos funksionojë me shfletuesin e lidhur. Ju lutemi, përdorni Firefox { $runtimeVersion }, nëse doni të përdoret Diagnostikuesi me këtë shfletues.
+# This string is displayed in the runtime page if the remote browser version is too recent.
+# "Troubleshooting" link points to https://developer.mozilla.org/en-US/docs/Tools/WebIDE/Troubleshooting
+# { $runtimeID } is the build ID of the remote browser (for instance "20181231", format is yyyyMMdd)
+# { $localID } is the build ID of the current Firefox instance (same format)
+# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
+# { $localVersion } is the version of your current browser (same format)
+about-debugging-browser-version-too-recent = Shfletuesi i lidhur është më i freskët ({ $runtimeVersion }, buildID { $runtimeID }) se sa i juaji { -brand-shorter-name } ({ $localVersion }, buildID { $localID }). Ky është një rast që nuk mbulohet dhe mund të bëjë që DevTools të dështojnë. Ju lutemi, përditësoni Firefox-in. <a>Diagnostikim</a>
 # Text of a button displayed in Runtime pages for remote runtimes.
 # Clicking on the button will close the connection to the runtime.
 about-debugging-runtime-disconnect-button = Shkëputu
@@ -143,6 +210,13 @@ about-debugging-tmp-extension-reload-button = Ringarkoje
 # Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
 # Clicking on the button will uninstall the extension and remove it from the page.
 about-debugging-tmp-extension-remove-button = Hiqe
+# Message displayed in the file picker that opens to select a temporary extension to load
+# (triggered by the button using "about-debugging-tmp-extension-install-button")
+# manifest.json .xpi and .zip should not be localized.
+# Note: this message is only displayed in Windows and Linux platforms.
+about-debugging-tmp-extension-install-message = Përzgjidhni kartelë manifest.json ose arkiv .xpi/.zip
+# This string is displayed as a message about the add-on having a temporaryID.
+about-debugging-tmp-extension-temporary-id = Ky WebExtension ka një ID të përkohshme. <a>Mësoni më tepër</a>
 # Text displayed for extensions in "runtime" pages, before displaying a link the extension's
 # manifest URL.
 about-debugging-extension-manifest-url =
@@ -188,3 +262,6 @@ about-debugging-worker-push-service =
 # Displayed as name for the Main Process debug target in the Processes category. Only for
 # remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-main-process-name = Procesi Kryesor
+# Displayed as description for the Main Process debug target in the Processes category.
+# Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
+about-debugging-main-process-description2 = Proces Kryesor për shfletuesin e synuar
