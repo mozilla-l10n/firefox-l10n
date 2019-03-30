@@ -8,7 +8,12 @@
 <!ENTITY stretch.label              "Estyn">
 <!ENTITY fill.label                 "Llanw">
 <!ENTITY fit.label                  "Ffitio">
-<!ENTITY preview.label              "Rhagolwg">
+<!-- LOCALIZATION NOTE (span.label): This refers to the wallpaper "spanning"
+                       multiple monitors when the user has more than one. Only
+                       some of the entire image will be on each monitor.
+                       This should ideally match the wording in Windows' own
+                       Desktop Background settings page. -->
+<!ENTITY span.label                 "Ymestyn">
 <!ENTITY color.label                "Lliw:">
 <!ENTITY setDesktopBackground.title "Gosod Cefndir Bwrdd Gwaith">
 <!ENTITY openDesktopPrefs.label     "Dewisiadau'r Bwrdd Gwaith Agored">

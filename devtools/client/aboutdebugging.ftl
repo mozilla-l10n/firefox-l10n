@@ -42,10 +42,10 @@ about-debugging-sidebar-item-connect-button = Cysylltu
 # Temporary text displayed in sidebar items representing remote runtimes after
 # successfully connecting to them. Temporary UI, do not localize.
 about-debugging-sidebar-item-connected-label = Wedi cysylltu
-# Text displayed in sidebar items for remote devices where a compatible runtime (eg
+# Text displayed in sidebar items for remote devices where a compatible browser (eg
 # Firefox) has not been detected yet. Typically, Android phones connected via USB with
 # USB debugging enabled, but where Firefox is not started.
-about-debugging-sidebar-runtime-item-waiting-for-runtime = Aros am yr amser rhedeg…
+about-debugging-sidebar-runtime-item-waiting-for-browser = Aros am borwr...
 # Title for runtime sidebar items that are related to a specific device (USB, WiFi).
 about-debugging-sidebar-runtime-item-name =
     .title = { $displayName } ({ $deviceName })
@@ -53,6 +53,13 @@ about-debugging-sidebar-runtime-item-name =
 # locations).
 about-debugging-sidebar-runtime-item-name-no-device =
     .title = { $displayName }
+# Text to show in the footer of the sidebar that links to a help page
+# (currently: https://developer.mozilla.org/docs/Tools/about:debugging)
+about-debugging-sidebar-support = Cefnogaeth dadfygio
+# Text to show as the ALT attribute of a help icon that accompanies the help about
+# debugging link in the footer of the sidebar
+about-debugging-sidebar-support-icon =
+    .alt = Eicon Cymorth
 # Text displayed in a sidebar button to refresh the list of USB devices. Clicking on it
 # will attempt to update the list of devices displayed in the sidebar.
 about-debugging-refresh-usb-devices-button = Adnewyddu dyfeisiau
@@ -150,25 +157,25 @@ about-debugging-runtime-profile-button = Proffilio'r Amser Rhedeg
 # target runtime is incompatible with service workers. "Learn more" points to MDN.
 # https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
 about-debugging-runtime-service-workers-not-compatible = Nid yw ffurfweddiad eich porwr yn cydweddu â Service Workers. <a>Dysgu rhagor</a>
-# This string is displayed in the runtime page if the remote runtime version is too old.
+# This string is displayed in the runtime page if the remote browser version is too old.
 # "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/WebIDE/Troubleshooting
-# { $runtimeVersion } is the version of the remote runtime (for instance "67.0a1")
+# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 # { $minVersion } is the minimum version that is compatible with the current Firefox instance (same format)
-about-debugging-runtime-version-too-old = Mae gan yr amser rhedeg cysylltiedig hen fersiwn ({ $runtimeVersion }). Y fersiwn hynaf sy'n cael ei gynnal yw ({ $minVersion }). Mae hwn yn osodiad sydd ddim yn cael ei gynnal a gall achosi i DevTools fethu. Diweddarwch yr amser rhedeg cysylltiedig. <a>Datrys problemau</a>
+about-debugging-browser-version-too-old = Mae gan y porwr cysylltiedig hen fersiwn ({ $runtimeVersion }). Y fersiwn lleiaf sy'n cael ei gynnal yw ({ $minVersion }). Mae hwn yn osodiad sydd dim yn cael ei gynnal a gall achosi i DevTools fethu. Diweddarwch y porwr cysylltiedig. <a>Datrys problemau</a>
 # Dedicated message for a backward compatibility issue that occurs when connecting:
 # - from Fx 67 to 66 or to 65
 # - from Fx 68 to 66
 # Those are normally in range for DevTools compatibility policy, but specific non
 # backward compatible changes broke the debugger in those scenarios (Bug 1528219).
-# { $runtimeVersion } is the version of the remote runtime (for instance "67.0a1")
-about-debugging-runtime-version-too-old-67-debugger = Efallai na fydd panel y Dafygiwr yn gweithio gyda'r amser rhedeg cysylltiedig. Defnyddiwch Firefox { $runtimeVersion } os oes angen i chi ddefnyddio'r Dadfygiwr gyda'r amser rhedeg hwn.
-# This string is displayed in the runtime page if the remote runtime version is too recent.
+# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
+about-debugging-browser-version-too-old-67-debugger = Efallai na fydd panel y Dafygiwr yn gweithio gyda'r porwr cysylltiedig. Defnyddiwch Firefox { $runtimeVersion } os oes angen i chi ddefnyddio'r Dadfygiwr gyda'r porwr hwn.
+# This string is displayed in the runtime page if the remote browser version is too recent.
 # "Troubleshooting" link points to https://developer.mozilla.org/en-US/docs/Tools/WebIDE/Troubleshooting
-# { $runtimeID } is the build ID of the remote runtime (for instance "20181231", format is yyyyMMdd)
+# { $runtimeID } is the build ID of the remote browser (for instance "20181231", format is yyyyMMdd)
 # { $localID } is the build ID of the current Firefox instance (same format)
-# { $runtimeVersion } is the version of the remote runtime (for instance "67.0a1")
-# { $localVersion } is the version of your current runtime (same format)
-about-debugging-runtime-version-too-recent = Mae'r amser rhedeg cysylltiedig yn fwy diweddar ( { $runtimeVersion }, buildID { $runtimeID }) na'ch { -brand-shorter-name } ({ $localVersion }, BuildID{ $localID }). Mae hwn yn osodiad heb gefnogaeth ac fe all beri i DevTools fethu. Diweddarwch Firefox. <a>Datrys Problemau</a>
+# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
+# { $localVersion } is the version of your current browser (same format)
+about-debugging-browser-version-too-recent = Mae'r porwr cysylltiedig yn fwy diweddar ( { $runtimeVersion }, buildID { $runtimeID }) na'ch { -brand-shorter-name } ({ $localVersion }, BuildID{ $localID }). Mae hwn yn osodiad heb gefnogaeth ac fe all beri i DevTools fethu. Diweddarwch Firefox. <a>Datrys Problemau</a>
 # Displayed for runtime info in runtime pages.
 # { $name } is brand name such as "Firefox Nightly"
 # { $version } is version such as "64.0a1"
@@ -272,5 +279,5 @@ about-debugging-worker-push-service =
 # remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-main-process-name = Prif Broses
 # Displayed as description for the Main Process debug target in the Processes category.
-# Only for remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
-about-debugging-main-process-description = Prif Broses ar gyfer yr amser rhedeg targed
+# Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
+about-debugging-main-process-description2 = Prif Broses y porwr targed
