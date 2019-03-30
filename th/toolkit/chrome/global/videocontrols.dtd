@@ -5,7 +5,7 @@
 <!ENTITY playButton.playLabel "เล่น">
 <!ENTITY playButton.pauseLabel "หยุดชั่วคราว">
 <!ENTITY muteButton.muteLabel "ปิดเสียง">
-<!ENTITY muteButton.unmuteLabel "เปิดเสียง">
+<!ENTITY muteButton.unmuteLabel "เลิกปิดเสียง">
 <!ENTITY fullscreenButton.enterfullscreenlabel "เต็มหน้าจอ">
 <!ENTITY fullscreenButton.exitfullscreenlabel "ออกจากภาพเต็มหน้าจอ">
 <!ENTITY castingButton.castingLabel "ฉายขึ้นหน้าจอ">
@@ -17,7 +17,7 @@
 <!ENTITY stats.media "สื่อ">
 <!ENTITY stats.size "ขนาด">
 <!ENTITY stats.activity "กิจกรรม">
-<!ENTITY stats.activityPaused "ถูกหยุดชั่วคราว">
+<!ENTITY stats.activityPaused "หยุดชั่วคราวอยู่">
 <!ENTITY stats.activityPlaying "กำลังเล่น">
 <!ENTITY stats.activityEnded "จบแล้ว">
 <!ENTITY stats.activitySeeking "(กำลังค้นหา)">
