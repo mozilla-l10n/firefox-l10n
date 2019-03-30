@@ -436,6 +436,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.label       "Parapëlqime">
 <!ENTITY preferencesCmdUnix.accesskey     "a">
 
+<!ENTITY logins.label                           "Kredenciale Hyrjesh dhe Fjalëkalime">
 
 <!ENTITY clearRecentHistory.label               "Pastroni Historikun Së Fundi…">
 
@@ -959,6 +960,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncSignIn.label             "Hyni Te &syncBrand.shortName.label;-u…">
 <!ENTITY syncSignIn.accesskey         "H">
 <!ENTITY syncSyncNowItem.label        "Njëkohësohu Tani">
+<!ENTITY syncSyncNowItemSyncing.label "Po njëkohësohet…">
 <!ENTITY syncSyncNowItem.accesskey    "N">
 <!ENTITY syncReAuthItem.label         "Rilidhuni me &syncBrand.shortName.label;-un…">
 <!ENTITY syncReAuthItem.accesskey     "R">
@@ -1161,6 +1163,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Administroni shtesat tuaj duke klikuar <image class='addon-addon-icon'/> te menuja <image class='addon-toolbar-icon'/>.">
+<!ENTITY addonPostInstall.incognito.checkbox.label "Lejoje këtë zgjerim të xhirojë në Dritare Private">
+<!ENTITY addonPostInstall.incognito.checkbox.accesskey "L">
 
 <!ENTITY addonPrivateBrowsing.header2.label "Ndryshim te zgjerime në Dritare Private">
 <!ENTITY addonPrivateBrowsing.body2.label "Çfarëdo zgjerimesh të reja që shtoni te &brandShorterName; s’do të funksionojë në Dritare Private, veç në e lejofshi ju këtë te rregullimet.">

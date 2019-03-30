@@ -90,7 +90,14 @@ detail-update-manual =
     .tooltiptext = Mos i instaloni vetvetiu përditësimet
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Xhiroje në Dritare Private
-detail-private-browsing-description = Zgjerimi do të funksionojë në Dritare Private, dhe do të mundet të hyjë në veprimtaritë tuaja internetore. <label data-l10n-name="detail-private-browsing-learn-more">Mësoni më tepër</label>
+detail-private-browsing-description2 = Po u lejua, zgjerimi do të mund të hyjë në veprimtaritë tuaja <em>online</em> gjatë shfletimit privat. <label data-l10n-name="detail-private-browsing-learn-more">Mësoni më tepër</label>
+# Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
+# cannot be overriden by the user.
+detail-private-disallowed-label = Nuk Lejohet në Dritare Private
+detail-private-disallowed-description = Ky zgjerim nuk punon nën shfletim privat. <label data-l10n-name="detail-private-browsing-learn-more">Mësoni më tepër</label>
+# Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
+detail-private-required-label = Lyp Hyrje në Dritare Private
+detail-private-required-description = Ky zgjerim ka hyrje te veprimtaritë tuaja <em>online</em> gjatë shfletimi privat. <label data-l10n-name="detail-private-browsing-learn-more">Mësoni më tepër</label>
 detail-private-browsing-on =
     .label = Lejoje
     .tooltiptext = Aktivizojeni te Shfletimi Privat
@@ -253,5 +260,6 @@ go-back-button =
 remove-addon-button = Hiqe
 disable-addon-button = Çaktivizoje
 enable-addon-button = Aktivizoje
+expand-addon-button = Më tepër Mundësi
 addons-enabled-heading = I aktivizuar
 addons-disabled-heading = I çaktivizuar
