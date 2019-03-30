@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "მოგესალმებით">
-<!ENTITY firstrun_urlbar_message2 "გმადლობთ, &brandShortName;-ის არჩევისთვის">
+<!ENTITY firstrun_urlbar_message2 "გმადლობთ, რომ აირჩიეთ &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext2 "თანამედროვე ბრაუზერი მობილურისთვის Mozilla-სგან, თავისუფალი და გახსნილი ინტერნეტის მხარდამჭერი, არამომგებიანი კომპანიისგან.">
 <!ENTITY firstrun_panel_title_privacy "პირადულობა">
 <!ENTITY firstrun_privacy_message "იმოგზაურეთ ინტერნეტში მეთვალყურეების გარეშე">
@@ -316,7 +316,7 @@
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
 <!ENTITY custom_tabs_menu_item_open_in "&formatS;-ში გახსნა">
-<!ENTITY custom_tabs_menu_footer "უზრუნველყოფილია &brandShortName;-ის მიერ">
+<!ENTITY custom_tabs_menu_footer "უზრუნველმყოფია &brandShortName;">
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 <!ENTITY custom_tabs_hint_url_copy "URL-ს ასლი აღებულია">
 
@@ -356,7 +356,7 @@ shown from Android O while a tab is being queued.-->
 
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
-<!ENTITY tab_queue_notification_settings "\&quot;რამდენიმე ბმულის გასახსნელად\&quot;, დართეთ &brandShortName;-ს \&apos;სხვა აპების გადაფარვის ნება">
+<!ENTITY tab_queue_notification_settings "„რამდენიმე ბმულის გასახსნელად“ დართეთ &brandShortName;-ს „სხვა აპების გადაფარვის ნება“">
 
 <!ENTITY pref_char_encoding "სიმბოლოთა კოდირება">
 <!ENTITY pref_char_encoding_on "მენიუში ჩვენება">
