@@ -4,7 +4,7 @@
 
 <!ENTITY window.title "ตัวกรองข้อความ">
 <!ENTITY nameColumn.label "ชื่อตัวกรอง">
-<!ENTITY activeColumn.label "เปิดใช้งาน">
+<!ENTITY activeColumn.label "เปิดใช้งานอยู่">
 <!ENTITY newButton.label "ใหม่…">
 <!ENTITY newButton.accesskey "ห">
 <!ENTITY newButton.popupCopy.label "คัดลอก…">

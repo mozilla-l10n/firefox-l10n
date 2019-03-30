@@ -11,7 +11,7 @@
 <!ENTITY SelectSize.accesskey "ส">
 <!ENTITY SelectMultiple.label "การเลือกหลายรายการ">
 <!ENTITY SelectMultiple.accesskey "ห">
-<!ENTITY SelectDisabled.label "ปิดใช้งาน">
+<!ENTITY SelectDisabled.label "ปิดใช้งานอยู่">
 <!ENTITY SelectDisabled.accesskey "ป">
 <!ENTITY SelectTabIndex.label "ดัชนีแท็บ:">
 <!ENTITY SelectTabIndex.accesskey "ด">

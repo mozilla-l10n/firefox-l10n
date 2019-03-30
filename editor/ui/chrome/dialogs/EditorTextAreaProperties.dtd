@@ -10,7 +10,7 @@
 <!ENTITY TextAreaRows.label "แถว:">
 <!ENTITY TextAreaCols.label "คอลัมน์:">
 <!ENTITY TextAreaReadOnly.label "อ่านอย่างเดียว">
-<!ENTITY TextAreaDisabled.label "ปิดใช้งาน">
+<!ENTITY TextAreaDisabled.label "ปิดใช้งานอยู่">
 <!ENTITY TextAreaTabIndex.label "ดัชนีแท็บ:">
 <!ENTITY TextAreaAccessKey.label "ปุ่มลัดแป้นพิมพ์:">
 <!ENTITY InitialText.label "ข้อความตั้งต้น:">
