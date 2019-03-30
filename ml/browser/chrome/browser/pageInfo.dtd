@@ -44,24 +44,9 @@
 <!ENTITY  mediaSaveAs2.accesskey "e">
 <!ENTITY  mediaPreview          "മീഡിയ പ്രിവ്യൂ ">
 
-<!ENTITY  feedTab               "ഫീഡുകള്‍">
-<!ENTITY  feedTab.accesskey     "F">
-<!ENTITY  feedSubscribe         "അംഗത്വം നേടുക">
-<!ENTITY  feedSubscribe.accesskey "u">
-
 <!ENTITY  permTab               "ആനുകൂല്യങ്ങള്‍">
 <!ENTITY  permTab.accesskey     "P">
-<!ENTITY  permUseDefault        "സ്വതവേയുള്ളതു് ഉപയോഗിക്കുക">
-<!ENTITY  permAskAlways         "എല്ലായ്പ്പോഴും ചോദിക്കുക">
-<!ENTITY  permAllow             "അനുവദിക്കുക">
-<!ENTITY  permAllowSession      "ഈ സെഷനു് വേണ്ടി അനുവദിക്കുക">
-<!ENTITY  permHide              "മറയ്ക്കുക">
-<!ENTITY  permBlock             "തടയുക">
 <!ENTITY  permissionsFor        "ആനുകൂല്യങ്ങള്‍:">
-<!ENTITY  permPlugins           "പ്ലഗിനുകള്‍ സജീവമാക്കുക">
-
-<!ENTITY  permClearStorage           "സംഭരണം വെടിപ്പാക്കുക">
-<!ENTITY  permClearStorage.accesskey "C">
 
 <!ENTITY  securityTab           "സുരക്ഷ">
 <!ENTITY  securityTab.accesskey "S">
@@ -78,9 +63,9 @@
 
 <!ENTITY  securityView.privacy.header                   "സ്വകാര്യതയും നാള്‍വഴിയും">
 <!ENTITY  securityView.privacy.history                  "ഇതിനു് മുമ്പു് ഈ വെബ് സൈറ്റ് സന്ദര്‍ശിച്ചിട്ടുണ്ടോ?">
-<!ENTITY  securityView.privacy.cookies                  "ഈ വെബ്സൈറ്റ് വിവരങ്ങള്‍ (കുക്കികള്‍) കമ്പ്യൂട്ടറില്‍ സൂക്ഷിക്കുന്നുണ്ടോ?">
-<!ENTITY  securityView.privacy.viewCookies              "കുക്കികള്‍ കാണുക">
-<!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
+<!ENTITY  securityView.privacy.siteData                 "ഈ വെബ്സൈറ്റ് എന്റെ കമ്പ്യൂട്ടറിൽ വിവരങ്ങൾ സൂക്ഷിക്കുന്നുണ്ടോ?">
+<!ENTITY  securityView.privacy.clearSiteData            "കുക്കികളും സൈറ്റ് ഡാറ്റയും മായ്ക്കുക">
+<!ENTITY  securityView.privacy.clearSiteData.accessKey  "C">
 <!ENTITY  securityView.privacy.passwords                "ഈ വെബ് സൈറ്റിനു് വേണ്ടി രഹസ്യവാക്കുകള്‍ സൂക്ഷിച്ചിട്ടുണ്ടോ?">
 <!ENTITY  securityView.privacy.viewPasswords            "കമ്പ്യൂട്ടറില്‍ സൂക്ഷിച്ചിട്ടുള്ള രഹസ്യവാക്കുകള്‍ കാണുക">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
