@@ -50,10 +50,10 @@ about-debugging-sidebar-item-connect-button = Verbinden
 # successfully connecting to them. Temporary UI, do not localize.
 about-debugging-sidebar-item-connected-label = Verbonden
 
-# Text displayed in sidebar items for remote devices where a compatible runtime (eg
+# Text displayed in sidebar items for remote devices where a compatible browser (eg
 # Firefox) has not been detected yet. Typically, Android phones connected via USB with
 # USB debugging enabled, but where Firefox is not started.
-about-debugging-sidebar-runtime-item-waiting-for-runtime = Wachten op runtime…
+about-debugging-sidebar-runtime-item-waiting-for-browser = Wachten op browser…
 
 # Title for runtime sidebar items that are related to a specific device (USB, WiFi).
 about-debugging-sidebar-runtime-item-name =
@@ -193,27 +193,27 @@ about-debugging-runtime-profile-button = Profielruntime
 # https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
 about-debugging-runtime-service-workers-not-compatible = Uw browserconfiguratie is niet compatibel met Service Workers. <a>Meer info</a>
 
-# This string is displayed in the runtime page if the remote runtime version is too old.
+# This string is displayed in the runtime page if the remote browser version is too old.
 # "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/WebIDE/Troubleshooting
-# { $runtimeVersion } is the version of the remote runtime (for instance "67.0a1")
+# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 # { $minVersion } is the minimum version that is compatible with the current Firefox instance (same format)
-about-debugging-runtime-version-too-old = De verbonden runtime heeft een oude versie ({ $runtimeVersion }). De minimaal ondersteunde versie is ({ $minVersion }). Deze configuratie wordt niet ondersteund en kan ervoor zorgen dat DevTools niet goed werkt. Werk de verbonden runtime bij. <a>Probleemoplossing</a>
+about-debugging-browser-version-too-old = De verbonden browser heeft een oude versie ({ $runtimeVersion }). De minimaal ondersteunde versie is ({ $minVersion }). Deze configuratie wordt niet ondersteund en kan ervoor zorgen dat DevTools niet goed werkt. Werk de verbonden browser bij. <a>Probleemoplossing</a>
 
 # Dedicated message for a backward compatibility issue that occurs when connecting:
 # - from Fx 67 to 66 or to 65
 # - from Fx 68 to 66
 # Those are normally in range for DevTools compatibility policy, but specific non
 # backward compatible changes broke the debugger in those scenarios (Bug 1528219).
-# { $runtimeVersion } is the version of the remote runtime (for instance "67.0a1")
-about-debugging-runtime-version-too-old-67-debugger = Het Debugger-paneel werkt mogelijk niet met de verbonden runtime. Gebruik Firefox { $runtimeVersion } als u de Debugger met deze runtime moet gebruiken.
+# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
+about-debugging-browser-version-too-old-67-debugger = Het Debugger-paneel werkt mogelijk niet met de verbonden browser. Gebruik Firefox { $runtimeVersion } als u de Debugger met deze browser moet gebruiken.
 
-# This string is displayed in the runtime page if the remote runtime version is too recent.
+# This string is displayed in the runtime page if the remote browser version is too recent.
 # "Troubleshooting" link points to https://developer.mozilla.org/en-US/docs/Tools/WebIDE/Troubleshooting
-# { $runtimeID } is the build ID of the remote runtime (for instance "20181231", format is yyyyMMdd)
+# { $runtimeID } is the build ID of the remote browser (for instance "20181231", format is yyyyMMdd)
 # { $localID } is the build ID of the current Firefox instance (same format)
-# { $runtimeVersion } is the version of the remote runtime (for instance "67.0a1")
-# { $localVersion } is the version of your current runtime (same format)
-about-debugging-runtime-version-too-recent = De verbonden runtime is recenter ({ $runtimeVersion }, buildID { $runtimeID }) dan uw { -brand-shorter-name } ({ $localVersion }, buildID { $localID }). Deze configuratie wordt niet ondersteund en kan ervoor zorgen dat DevTools niet goed werkt. Werk Firefox bij. <a>Probleemoplossing</a>
+# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
+# { $localVersion } is the version of your current browser (same format)
+about-debugging-browser-version-too-recent = De verbonden browser is recenter ({ $runtimeVersion }, buildID { $runtimeID }) dan uw { -brand-shorter-name } ({ $localVersion }, buildID { $localID }). Deze configuratie wordt niet ondersteund en kan ervoor zorgen dat DevTools niet goed werkt. Werk Firefox bij. <a>Probleemoplossing</a>
 
 # Displayed for runtime info in runtime pages.
 # { $name } is brand name such as "Firefox Nightly"
@@ -347,5 +347,5 @@ about-debugging-worker-push-service =
 about-debugging-main-process-name = Hoofdproces
 
 # Displayed as description for the Main Process debug target in the Processes category.
-# Only for remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
-about-debugging-main-process-description = Hoofdproces voor de doelruntime
+# Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
+about-debugging-main-process-description2 = Hoofdproces voor de doelbrowser
