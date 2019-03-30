@@ -3,12 +3,17 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY position.label             "Pozicion:">
-<!ENTITY tile.label                 "Pllaka">
+<!ENTITY tile.label                 "Kuadrat">
 <!ENTITY center.label               "Qendër">
 <!ENTITY stretch.label              "Tendosur">
 <!ENTITY fill.label                 "Mbushe">
 <!ENTITY fit.label                  "Sa e Nxë">
-<!ENTITY preview.label              "Paraparje">
+<!-- LOCALIZATION NOTE (span.label): This refers to the wallpaper "spanning"
+                       multiple monitors when the user has more than one. Only
+                       some of the entire image will be on each monitor.
+                       This should ideally match the wording in Windows' own
+                       Desktop Background settings page. -->
+<!ENTITY span.label                 "Me Shtrirje">
 <!ENTITY color.label                "Ngjyrë:">
 <!ENTITY setDesktopBackground.title "Rregulloni Sfond Desktopi">
 <!ENTITY openDesktopPrefs.label     "Hap Parapëlqime për Desktopin">
