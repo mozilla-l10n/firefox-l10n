@@ -9,5 +9,5 @@
 <!ENTITY aboutAccounts.noConnection.title "ไม่มีการเชื่อมต่ออินเทอร์เน็ต">
 <!ENTITY aboutAccounts.retry.label "ลองอีกครั้ง">
 
-<!ENTITY aboutAccounts.restrictedError.title "ถูกจำกัด">
+<!ENTITY aboutAccounts.restrictedError.title "จำกัดแล้ว">
 <!ENTITY aboutAccounts.restrictedError.description "คุณไม่สามารถจัดการบัญชี Firefox จากโปรไฟล์นี้">
