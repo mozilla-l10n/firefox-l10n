@@ -108,7 +108,6 @@ These items have the same accesskey but will never be visible at the same time. 
 <!ENTITY  hiddenTabs.label                   "Skeda të Fshehura">
 
 <!ENTITY  listAllTabs.label      "Paraqiti krejt skedat">
-
 <!-- LOCALIZATION NOTE (allTabsMenu.searchTabs.label): "Search" is a verb, as
 in "Search through tabs". -->
 <!ENTITY  allTabsMenu.searchTabs.label       "Kërko Në Skeda">
@@ -130,6 +129,9 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.label "Shtypni…">
 <!ENTITY printCmd.accesskey "y">
 <!ENTITY printCmd.commandkey "p">
+
+<!ENTITY importFromAnotherBrowserCmd.label "Importoni prej Tjetër Shfletuesi…">
+<!ENTITY importFromAnotherBrowserCmd.accesskey "I">
 
 <!ENTITY taskManagerCmd.label "Përgjegjës Punësh">
 
@@ -213,6 +215,28 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenExit.label "Dilni nga Sa Krejt Ekrani">
 <!ENTITY fullScreenExit.accesskey "D">
 
+ <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
+     for the Firefox Account toolbar signin menu screen. -->
+<!ENTITY fxa.signin.callout.label "Merreni Firefox-in me Vete">
+<!ENTITY fxa.signin.description.label "Merrni në krejt pajisjet tuaja faqerojtësit, historikun, fjalëkalimet dhe të tjera rregullime tuajat.">
+<!ENTITY fxa.signin.button.label "Aktivizoni &syncBrand.shortName.label;…">
+
+<!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
+     for the Firefox Account toolbar unverified menu screen. -->
+<!ENTITY fxa.unverified.callout.label "Shihni Email-et Tuaja">
+<!ENTITY fxa.unverified.description.label "Do t’ju duhet të verifikoni llogarinë tuaj, përpara se të bëni njëkohësim.">
+<!ENTITY fxa.unverified.button.label "Hapni Rregullime të &syncBrand.shortName.label;…">
+
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbart menu screen. The `Signed in as` text is
+     followed by the user's email. -->
+<!ENTITY fxa.menu.signedInAs.label "I futur si">
+<!ENTITY fxa.menu.manageAccount.label "Administroni Llogari…">
+<!ENTITY fxa.menu.syncSettings.label "Rregullime të &syncBrand.shortName.label;…">
+<!ENTITY fxa.menu.connectAnotherDevice.label "&syncedTabs.sidebar.connectAnotherDevice;">
+<!ENTITY fxa.menu.connectAnotherDevice2.label "Lidhni Një Tjetër Pajisje…">
+<!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
+
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring fullscreen.
@@ -229,6 +253,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY exitDOMFullscreenMac.button "Dilni Nga Sa Krejt Ekrani (esc)">
 <!ENTITY leaveDOMFullScreen.label "Dilni nga Sa Krejt Ekrani">
 <!ENTITY leaveDOMFullScreen.accesskey "D">
+
+<!-- LOCALIZATION NOTE (pictureInPicture.label, pictureInPicture.accesskey):
+     these two strings are used when right-clicking on a video in the
+     content area when the Picture-in-Picture feature is enabled. -->
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
@@ -407,6 +435,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmd2.accesskey     "M">
 <!ENTITY preferencesCmdUnix.label       "Parapëlqime">
 <!ENTITY preferencesCmdUnix.accesskey     "a">
+
 
 <!ENTITY clearRecentHistory.label               "Pastroni Historikun Së Fundi…">
 
@@ -879,7 +908,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "S&apos;i keni dhënë këtij sajti ndonjë leje speciale.">
 <!ENTITY identity.permissionsReloadHint "Mund t&apos;ju duhet të ringarkoni faqen që të hyjnë në fuqi ndryshimet.">
 <!ENTITY identity.permissionsPreferences.tooltip "Hap Parapëlqime Lejesh">
-
 <!ENTITY identity.contentBlockingPreferences.tooltip "Hap Parapëlqimet për Bllokim Lënde">
 
 
@@ -1133,8 +1161,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Administroni shtesat tuaj duke klikuar <image class='addon-addon-icon'/> te menuja <image class='addon-toolbar-icon'/>.">
-<!ENTITY addonPostInstall.incognito.label "Lejoje këtë zgjerim të xhirojë në Dritare Private.">
-<!ENTITY addonPostInstall.incognito.accesskey "L">
 
 <!ENTITY addonPrivateBrowsing.header2.label "Ndryshim te zgjerime në Dritare Private">
 <!ENTITY addonPrivateBrowsing.body2.label "Çfarëdo zgjerimesh të reja që shtoni te &brandShorterName; s’do të funksionojë në Dritare Private, veç në e lejofshi ju këtë te rregullimet.">
