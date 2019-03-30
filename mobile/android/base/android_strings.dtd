@@ -377,7 +377,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_use_system_font_size "Usar o tamanho da fonte do sistema">
 <!ENTITY pref_use_system_font_size_summary "Redimensionar o conteúdo de acordo com o tamanho da fonte do sistema">
 
-<!ENTITY pref_media_autoplay_enabled "Permitir reprodução automática">
+<!ENTITY pref_media_autoplay_enabled "Permissão de reprodução automática">
 <!ENTITY pref_media_autoplay_allow "Permitir reprodução automática">
 <!ENTITY pref_media_autoplay_block "Bloquear reprodução automática">
 <!ENTITY pref_zoom_force_enabled "Sempre ativar o zoom">
