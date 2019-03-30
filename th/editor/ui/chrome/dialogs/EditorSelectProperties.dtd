@@ -19,7 +19,7 @@
 <!ENTITY OptGroup.label "กลุ่มตัวเลือก">
 <!ENTITY OptGroupLabel.label "ป้ายชื่อ:">
 <!ENTITY OptGroupLabel.accesskey "ย">
-<!ENTITY OptGroupDisabled.label "ปิดใช้งาน">
+<!ENTITY OptGroupDisabled.label "ปิดใช้งานอยู่">
 <!ENTITY OptGroupDisabled.accesskey "ป">
 
 <!ENTITY Option.label "ตัวเลือก">

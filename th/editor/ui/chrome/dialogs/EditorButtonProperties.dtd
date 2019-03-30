@@ -18,7 +18,7 @@
 <!ENTITY ButtonValue.accesskey "ค">
 <!ENTITY tabIndex.label "ดัชนีแท็บ:">
 <!ENTITY tabIndex.accesskey "ด">
-<!ENTITY ButtonDisabled.label "ถูกปิดใช้งาน">
+<!ENTITY ButtonDisabled.label "ปิดใช้งานอยู่">
 <!ENTITY ButtonDisabled.accesskey "ป">
 <!ENTITY AccessKey.label "ปุ่มลัดแป้นพิมพ์:">
 <!ENTITY AccessKey.accesskey "ล">
