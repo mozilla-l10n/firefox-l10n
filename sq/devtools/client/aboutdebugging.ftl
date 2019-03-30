@@ -150,6 +150,9 @@ about-debugging-runtime-other-workers =
 # Title of the processes category.
 about-debugging-runtime-processes =
     .name = Procese
+# Label of the button opening the performance profiler panel in runtime pages for remote
+# runtimes.
+about-debugging-runtime-profile-button = Runtime Profili
 # This string is displayed in the runtime page if the current configuration of the
 # target runtime is incompatible with service workers. "Learn more" points to MDN.
 # https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
@@ -175,9 +178,19 @@ about-debugging-browser-version-too-old-67-debugger = Paneli i diagnostikuesit m
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 # { $localVersion } is the version of your current browser (same format)
 about-debugging-browser-version-too-recent = Shfletuesi i lidhur është më i freskët ({ $runtimeVersion }, buildID { $runtimeID }) se sa i juaji { -brand-shorter-name } ({ $localVersion }, buildID { $localID }). Ky është një rast që nuk mbulohet dhe mund të bëjë që DevTools të dështojnë. Ju lutemi, përditësoni Firefox-in. <a>Diagnostikim</a>
+# Displayed for runtime info in runtime pages.
+# { $name } is brand name such as "Firefox Nightly"
+# { $version } is version such as "64.0a1"
+about-debugging-runtime-name = { $name } ({ $version })
 # Text of a button displayed in Runtime pages for remote runtimes.
 # Clicking on the button will close the connection to the runtime.
 about-debugging-runtime-disconnect-button = Shkëputu
+# Text of the connection prompt button displayed in Runtime pages, when the preference
+# "devtools.debugger.prompt-connection" is false on the target runtime.
+about-debugging-connection-prompt-enable-button = Aktivizo kërkesë lidhjeje
+# Text of the connection prompt button displayed in Runtime pages, when the preference
+# "devtools.debugger.prompt-connection" is true on the target runtime.
+about-debugging-connection-prompt-disable-button = Çaktivizo kërkesë lidhjeje
 # Title of a modal dialog displayed on remote runtime pages after clicking on the Profile Runtime button.
 about-debugging-profiler-dialog-title = Profilizues Suksesshmërie
 # Label of a checkbox displayed in the runtime page for "This Firefox".
@@ -255,6 +268,11 @@ about-debugging-worker-fetch-not-listening =
 about-debugging-worker-status-running = Në xhirim
 # Displayed for service workers in runtime pages that are registered but stopped.
 about-debugging-worker-status-stopped = I ndalur
+# Displayed for service workers in runtime pages that are registering.
+about-debugging-worker-status-registering = Po regjistrojnë
+# Displayed for service workers in runtime pages, to label the scope of a worker
+about-debugging-worker-scope =
+    .label = Fokus
 # Displayed for service workers in runtime pages, to label the push service endpoint (url)
 # of a worker
 about-debugging-worker-push-service =
