@@ -735,7 +735,7 @@ items are mutually exclusive. -->
 items are mutually exclusive. -->
 <!ENTITY mediaMute.label             "ปิดเสียง">
 <!ENTITY mediaMute.accesskey         "ส">
-<!ENTITY mediaUnmute.label           "เปิดเสียง">
+<!ENTITY mediaUnmute.label           "เลิกปิดเสียง">
 <!ENTITY mediaUnmute.accesskey       "ส">
 <!ENTITY mediaPlaybackRate2.label     "ความเร็วในการเล่น">
 <!ENTITY mediaPlaybackRate2.accesskey "ร">
