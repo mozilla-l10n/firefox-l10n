@@ -46,8 +46,12 @@ cfr-doorhanger-extension-total-users =
         [few] { $total } корисника
        *[other] { $total } корисника
     }
+cfr-doorhanger-pintab-description = Имајте брз приступ сајтовима које најчешће користите. Оставите сајтове отвореним у језичку (чак и након поновног покретања).
 
 ## These messages are steps on how to use the feature and are shown together.
 
+cfr-doorhanger-pintab-step1 = Кликните <b>десним кликом</b> на језичак који желите закачити.
+cfr-doorhanger-pintab-step2 = Изаберите <b>„Закачи језичак“</b> опцију из менија.
+cfr-doorhanger-pintab-step3 = Уколико има новости на сајту, видећете плаву тачку на вашем закаченом језичку.
 cfr-doorhanger-pintab-animation-pause = Заустави
 cfr-doorhanger-pintab-animation-resume = Настави
