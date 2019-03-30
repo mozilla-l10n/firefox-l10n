@@ -193,7 +193,7 @@
 <!ENTITY pref_category_privacy_short "პირადულობა">
 <!ENTITY pref_category_privacy_summary4 "თვალთვალი, ანგარიშები, მონაცემთა შერჩევა">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
-<!ENTITY pref_category_vendor_summary2 "&brandShortName;-ის შესახებ, ხ.დ.კ. უკუკავშირი">
+<!ENTITY pref_category_vendor_summary2 "&brandShortName; – შესახებ, ხ.დ.კ. უკუკავშირი">
 <!ENTITY pref_category_datareporting "მონაცემთა შერჩევა">
 <!ENTITY pref_category_logins "ანგარიშები">
 <!ENTITY pref_learn_more "იხილეთ ვრცლად">
@@ -287,7 +287,7 @@
 <!ENTITY pref_tracking_protection_enabled_pb "ჩართულია პირად დათვალიერებაში">
 <!ENTITY pref_tracking_protection_disabled "გამორთულია">
 
-<!ENTITY pref_whats_new_notification "რა არის ახალი &brandShortName;-ში">
+<!ENTITY pref_whats_new_notification "&brandShortName; – სიახლეები">
 <!ENTITY pref_whats_new_notification_summary "გაეცანით ახალ შესაძლებლობებს, განახლების შემდეგ">
 
 <!-- Localization note (pref_feature_tips_notification): Title of a new toggleable setting in Settings-Notifications screen.
@@ -295,7 +295,7 @@
 <!ENTITY pref_feature_tips_notification "პროდუქტისა და შესაძლებლობების შესახებ">
 <!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
      Similar to the already existing "pref_whats_new_notification_summary"-->
-<!ENTITY pref_feature_tips_notification_summary "იხილეთ ვრცლად, &brandShortName;-ისა და &vendorShortName;-ის სხვა პროდუქტების გამოყენების შესახებ">
+<!ENTITY pref_feature_tips_notification_summary "იხილეთ ვრცლად, როგორ გამოიყენება &brandShortName; და &vendorShortName;-ის სხვა პროდუქტები">
 <!-- Localization note (pref_feature_tips_notification_enabling_path):
      Nothing to translate. Simple concatenation of already localized strings. Result is used below. -->
 <!ENTITY pref_feature_tips_notification_enabling_path "&pref_category_privacy_short; > &pref_category_datareporting; > &datareporting_fhr_title;">
