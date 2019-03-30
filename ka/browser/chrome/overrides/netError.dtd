@@ -154,12 +154,12 @@
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "<span class='hostname'/>-ის მფლობელს ვებსაიტი არასწორად აქვს გამართული.  თქვენი ინფორმაციის მოპარვისგან დაცვის მიზნით, &brandShortName; ამ საიტს არ დაუკავშირდება.">
-<!ENTITY certerror.introPara2 "&brandShortName;-მა აღმოაჩინა მოსალოდნელი საფრთხე და შეწყვიტა <span class='hostname'/> გვერდის ჩატვირთვა. თუ ამ საიტს ეწვევით, შემტევებს შეეძლებათ თქვენი მონაცემების ხელყოფა, როგორიცაა პაროლები, ელფოსტის მისამართები ან საკრედიტო ბარათის ინფორმაცია.">
-<!ENTITY certerror.sts.introPara "&brandShortName;-მა აღმოაჩინა მოსალოდნელი საფრთხე და შეწყვიტა <span class='hostname'/> გვერდის ჩატვირთვა, ვინაიდან საიტი საჭიროებს უსაფრთხო კავშირს.">
+<!ENTITY certerror.introPara2 "&brandShortName; აღმოჩენილი მოსალოდნელი საფრთხის გამო, აღარ ჩატვირთავს <span class='hostname'/> გვერდს. თუ ამ საიტს ეწვევით, შემტევებს შეეძლებათ თქვენი მონაცემების ხელყოფა, როგორიცაა პაროლები, ელფოსტის მისამართები ან საკრედიტო ბარათის ინფორმაცია.">
+<!ENTITY certerror.sts.introPara "&brandShortName; აღმოჩენილი მოსალოდნელი საფრთხის გამო, აღარ ჩატვირთავს <span class='hostname'/> გვერდს, ვინაიდან საიტი საჭიროებს დაცულ კავშირს.">
 
-<!ENTITY certerror.expiredCert.introPara "&brandShortName;-მა აღმოაჩინა ხარვეზი და შეწყვიტა <span class='hostname'/> გვერდის ჩატვირთვა. საიტი ან გაუმართავია, ან თქვენი კომპიუტერის საათია გასასწორებელი.">
-<!ENTITY certerror.expiredCert.secondPara2 "როგორც ჩანს, საიტის სერტიფიკატი ვადაგასულია, რაც ხელს უშლის &brandShortName;-ს უსაფრთხო კავშირის დამყარებაში. თუ ამ საიტს ეწვევით, შემტევებმა შეიძლება სცადონ თქვენი მონაცემების ხელყოფა, მათ შორის პაროლების, ელფოსტისა და საკრედიტო ბარათის ინფორმაციის.">
-<!ENTITY certerror.expiredCert.sts.secondPara "როგორც ჩანს, საიტის სერტიფიკატი ვადაგასულია, რაც ხელს უშლის &brandShortName;-ს უსაფრთხო კავშირის დამყარებაში.">
+<!ENTITY certerror.expiredCert.introPara "&brandShortName; აღმოჩენილი ხარვეზის გამო, აღარ ჩატვირთავს <span class='hostname'/> გვერდს. საიტი ან გაუმართავია, ან თქვენი კომპიუტერის საათია გასასწორებელი.">
+<!ENTITY certerror.expiredCert.secondPara2 "როგორც ჩანს, საიტის სერტიფიკატი ვადაგასულია, რის გამოც &brandShortName; ვერ ახერხებს უსაფრთხო კავშირის დამყარებას. თუ ამ საიტს ეწვევით, შემტევებმა შეიძლება სცადონ თქვენი მონაცემების ხელყოფა, როგორიცაა პაროლები, ელფოსტის მისამართები და საკრედიტო ბარათის ინფორმაცია.">
+<!ENTITY certerror.expiredCert.sts.secondPara "როგორც ჩანს, საიტის სერტიფიკატი ვადაგასულია, რის გამოც &brandShortName; ვერ ახერხებს უსაფრთხო კავშირის დამყარებას.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "რისი გაკეთება შეგიძლიათ?">
 
@@ -189,7 +189,7 @@ was trying to connect. -->
 ">
 
 <!ENTITY cspBlocked.title "შეზღუდულია, შიგთავსის უსაფრთხოების დებულების შესაბამისად.">
-<!ENTITY cspBlocked.longDesc "<p>&brandShortName;-მა შეზღუდა გვერდის ჩატვირთვა, რადგან შეიცავს შიგთავსს, რომელიც მიუღებელია უსაფრთხოების დებულების შესაბამისად.</p>">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; ზღუდავს ამ გვერდს, ვინაიდან შეიცავს შიგთავსს, რომელიც მიუღებელია უსაფრთხოების დებულების შესაბამისად.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "დაზიანებული შიგთავსის შეცდომა">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>გვერდის ჩვენება, რომლის ნახვასაც ცდილობთ, ვერ ხერხდება, მონაცემთა გადაცემისას აღმოჩენილი შეცდომის გამო.</p><ul><li>გთხოვთ, დაუკავშირდეთ საიტის მფლობელებს და აცნობოთ, ამ ხარვეზის შესახებ.</li></ul>">
@@ -232,7 +232,7 @@ Strict Transport Security (HSTS) შეერთებას, რომ &brandSh
 
 <!ENTITY blockedByPolicy.title "გვერდი შეზღუდულია">
 
-<!ENTITY certerror.mitm.title "პროგრამა არ აძლევს &brandShortName;-ს, საიტთან უსაფრთხოდ დაკავშირების საშუალებას">
+<!ENTITY certerror.mitm.title "პროგრამის მიერ შეზღუდვის გამო, &brandShortName; ვერ ახერხებს საიტთან უსაფრთხოდ დაკავშირებას">
 <!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> წესით უსაფრთხო საიტი უნდა იყოს, თუმცა დაცული კავშირის დამყარება ვერ ხერხდება. ამას გამომწვევია <span class='mitm-name'/>, რომელიც ან თქვენი კომპიუტერის პროგრამაა, ან თქვენი ქსელის.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "თუ თქვენს ანტივირუსს გააჩნია დაშიფრული კავშირების შემოწმების შესაძლებლობა (უმეტესად აღნიშნავენ დასახელებით „web scanning“ ან „https scanning“), შეგიძლია მისი გამორთვა სცადოთ. თუ ეს არ უშველის, სცადეთ ანტივირუსის სრულად ამოშლა და ხელახლა დაყენება.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "თუ დაწესებულების ქსელით სარგებლობთ, დაუკავშირდით ქსელის მართვის განყოფილებას.">
@@ -240,7 +240,7 @@ Strict Transport Security (HSTS) შეერთებას, რომ &brandSh
 <!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "თუ არ გეცნობათ <span class='mitm-name'/>, მაშინ შეიძლება თავდასხმას ჰქონდეს ადგილი და ვერ შეძლებთ საიტთან წვდომას.">
 
 <!ENTITY clockSkewError.title "საათი თქვენს კომპიუტერზე არეულია">
-<!ENTITY clockSkewError.longDesc "თქვენი კომპიუტერი მიიჩნევს, რომ არის <span id='wrongSystemTime_systemDate1'/>, რაც არ აძლევს საშუალებას &brandShortName;-ს უსაფრთხოდ დაუკავშირდეს საიტს. იმისთვის რომ მოინახულოთ <span class='hostname'></span>, გაასწორეთ თქვენი კომპიუტერის სისტემის პარამეტრებიდან დრო, თარიღი და სასაათე სარტყელი, შემდეგ კი ხელახლა გახსენით <span class='hostname'></span>.">
+<!ENTITY clockSkewError.longDesc "თქვენი კომპიუტერი მიიჩნევს, რომ არის <span id='wrongSystemTime_systemDate1'/>, რის გამოც &brandShortName; ვერ ახერხებს უსაფრთხოდ დაუკავშირდეს საიტს. იმისთვის რომ მოინახულოთ <span class='hostname'></span>, გაასწორეთ თქვენი კომპიუტერის სისტემის პარამეტრებიდან დრო, თარიღი და სასაათე სარტყელი, შემდეგ კი ხელახლა გახსენით <span class='hostname'></span>.">
 
 <!ENTITY prefReset.longDesc "შესაძლოა ამის მიზეზს, თქვენ მიერ მითითებული, ქსელის უსაფრთხოების პარამეტრები წარმოადგენდეს. გსურთ ნაგულისხმევი პარამეტრების აღდგენა?">
 <!ENTITY prefReset.label "ნაგულისხმევი პარამეტრების აღდგენა">
