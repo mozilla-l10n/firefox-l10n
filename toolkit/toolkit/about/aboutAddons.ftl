@@ -91,6 +91,11 @@ detail-update-manual =
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Køyr i privat vindauge
 detail-private-browsing-description2 = Viss du tillèt det, vil utvidinga ha tilgang til aktivitetane dine medan du brukar privat nettlesing. <label data-l10n-name="detail-private-browsing-learn-more">Les meir</label>
+# Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
+# cannot be overriden by the user.
+detail-private-disallowed-label = Ikkje tillate i private vindauge
+# Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
+detail-private-required-label = Krev tilgang til private vindauge
 detail-private-browsing-on =
     .label = Tillat
     .tooltiptext = Tillat i privat nettlesing
