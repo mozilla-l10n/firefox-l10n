@@ -131,6 +131,15 @@ detail-private-browsing-label = Uitvoeren in privévensters
 
 detail-private-browsing-description2 = Wanneer toegestaan, heeft de extensie toegang tot uw online-activiteiten tijdens privénavigatie. <label data-l10n-name="detail-private-browsing-learn-more">Meer info</label>
 
+# Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
+# cannot be overriden by the user.
+detail-private-disallowed-label = Niet toegestaan in privévensters
+detail-private-disallowed-description = Deze extensie werkt niet tijdens privénavigatie. <label data-l10n-name="detail-private-browsing-learn-more">Meer info</label>
+
+# Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
+detail-private-required-label = Vereist toegang tot privévensters
+detail-private-required-description = Deze extensie heeft toegang tot uw online-activiteiten tijdens privénavigatie. <label data-l10n-name="detail-private-browsing-learn-more">Meer info</label>
+
 detail-private-browsing-on =
     .label = Toestaan
     .tooltiptext = Inschakelen in privénavigatie
@@ -331,7 +340,6 @@ go-back-button =
 remove-addon-button = Verwijderen
 disable-addon-button = Uitschakelen
 enable-addon-button = Inschakelen
-
 expand-addon-button = Meer opties
 
 addons-enabled-heading = Ingeschakeld
