@@ -62,4 +62,4 @@
 
 <!ENTITY safeb.blocked.harmfulPage.errorDesc.noOverride "<span id='harmful_sitename'/> მიჩნეულია <a id='error_desc_link'>საზიანო პროგრამების გამავრცელებლად</a>.">
 
-<!ENTITY safeb.blocked.harmfulPage.learnMore "იხილეთ ვრცლად, &brandShortName;-ის ყალბი და სახიფათო გვერდებისგან დაცვის შესახებ საიტზე <a id='firefox_support'>support.mozilla.org</a>.">
+<!ENTITY safeb.blocked.harmfulPage.learnMore "იხილეთ ვრცლად, როგორ იცავს &brandShortName; ყალბი და სახიფათო გვერდებისგან ბმულზე <a id='firefox_support'>support.mozilla.org</a>.">
