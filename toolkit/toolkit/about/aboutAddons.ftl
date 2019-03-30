@@ -96,6 +96,13 @@ detail-update-manual =
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = პირად ფანჯრებში გაშვება
 detail-private-browsing-description2 = დაშვების შემთხვევაში, გაფართოებას წვდომა ექნება თქვენს მოქმედებებზე პირად ფანჯრებში. <label data-l10n-name="detail-private-browsing-learn-more">იხილეთ ვრცლად</label>
+# Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
+# cannot be overriden by the user.
+detail-private-disallowed-label = არაა დაშვებული პირად ფანჯრებში
+detail-private-disallowed-description = ეს გაფართოება არ გაეშვება პირადი თვალიერებისას. <label data-l10n-name="detail-private-browsing-learn-more">ვრცლად</label>
+# Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
+detail-private-required-label = საჭიროებს პირად ფანჯრებთან წვდომას
+detail-private-required-description = ამ გაფართოებას ექნება წვდომა თქვენს მოქმედებებზე ინტერნეტში, პირადი თვალიერებისას. <label data-l10n-name="detail-private-browsing-learn-more">ვრცლად</label>
 detail-private-browsing-on =
     .label = დაშვება
     .tooltiptext = ჩართვა პირადი თვალიერებისას
