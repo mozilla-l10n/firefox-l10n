@@ -73,10 +73,14 @@ about-debugging-setup-intro = Cihazınızla uzaktan hata ayıklamak istediğiniz
 # Link displayed in the Setup page that leads to MDN page with list of supported devices.
 # Temporarily leads to https://support.mozilla.org/en-US/kb/will-firefox-work-my-mobile-device#w_android-devices
 about-debugging-setup-link-android-devices = Desteklenen Android cihazların listesini göster
+# Explanatory text in the Setup page about what the 'This Firefox' page is for
+about-debugging-setup-this-firefox = Bu { -brand-shorter-name } sürümünde sekmelerde, eklentilerde ve service worker’larda hata ayıklamak için <a>{ about-debugging-this-firefox-runtime-name }</a> bölümünü kullanabilirsiniz.
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = Cihaz bağlayın
 # USB section of the Setup page
 about-debugging-setup-usb-title = USB
+# Explanatory text displayed in the Setup page when USB debugging is disabled
+about-debugging-setup-usb-disabled = Bunu etkinleştirdiğinizde gerekli Android USB hata ayıklama bileşenlerini indirilip { -brand-shorter-name } tarayıcınıza eklenecektir.
 # Text of the button displayed in the USB section of the setup page when USB debugging is disabled.
 # Clicking on it will download components needed to debug USB Devices remotely.
 about-debugging-setup-usb-enable-button = USB cihazlarını etkinleştir
@@ -90,6 +94,12 @@ about-debugging-setup-usb-status-enabled = Etkin
 about-debugging-setup-usb-status-disabled = Devre dışı
 about-debugging-setup-usb-status-updating = Güncelleniyor…
 # USB section step by step guide
+about-debugging-setup-usb-step-enable-dev-menu = Android cihazınızda Geliştirici menüsünü etkinleştirin. <a>Nasıl yapıldığını öğrenin</a>
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug = Android Geliştirici menüsünde USB hata ayıklamayı etkinleştirin. <a>Nasıl yapıldığını öğrenin</a>
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug-firefox = Android cihazınızdaki Firefox’ta USB hata ayıklamayı etkinleştirin. <a>Nasıl yapıldığını öğrenin</a>
+# USB section step by step guide
 about-debugging-setup-usb-step-plug-device = Android cihazını bilgisayarınıza bağlayın.
 # Network section of the Setup page
 about-debugging-setup-network =
@@ -99,9 +109,21 @@ about-debugging-setup-network =
 about-debugging-network-locations-add-button = Ekle
 # Text to display when there are no locations to show.
 about-debugging-network-locations-empty-text = Henüz hiçbir ağ konumu eklenmedi.
+# Text of the label for the text input that allows users to add new network locations in
+# the Connect page. A host is a hostname and a port separated by a colon, as suggested by
+# the input's placeholder "localhost:6080".
+about-debugging-network-locations-host-input-label = Ana makine
 # Text of a button displayed next to existing network locations in the Connect page.
 # Clicking on it removes the network location from the list.
 about-debugging-network-locations-remove-button = Kaldır
+# Text used as error message if the format of the input value was invalid in the network locations form of the Setup page.
+# Variables:
+#   $host-value (string) - The input value submitted by the user in the network locations form
+about-debugging-network-location-form-invalid = “{ $host-value }” ana makinesi geçersiz. “hostadı:portnumarası” biçiminde olmalıdır.
+# Text used as error message if the input value was already registered in the network locations form of the Setup page.
+# Variables:
+#   $host-value (string) - The input value submitted by the user in the network locations form
+about-debugging-network-location-form-duplicate = “{ $host-value }” ana makinesi zaten kayıtlı
 
 # Runtime Page strings
 
@@ -142,6 +164,10 @@ about-debugging-runtime-name = { $name } ({ $version })
 # Text of a button displayed in Runtime pages for remote runtimes.
 # Clicking on the button will close the connection to the runtime.
 about-debugging-runtime-disconnect-button = Bağlantıyı kes
+# Clicking on the header of a debug target category will expand or collapse the debug
+# target items in the category. This text is used as ’title’ attribute of the header,
+# to describe this feature.
+about-debugging-collapse-expand-debug-targets = Daralt / genişlet
 
 # Debug Targets strings
 
@@ -195,6 +221,14 @@ about-debugging-worker-action-push = Push
 about-debugging-worker-action-start = Başlat
 # This string is displayed as a label of the button that unregisters a service worker.
 about-debugging-worker-action-unregister = Kaydı sil
+# Displayed for service workers in runtime pages that listen to Fetch events.
+about-debugging-worker-fetch-listening =
+    .label = Getir
+    .value = fetch olayları dinleniyor
+# Displayed for service workers in runtime pages that do not listen to Fetch events.
+about-debugging-worker-fetch-not-listening =
+    .label = Getir
+    .value = fetch olayları dinlenmiyor
 # Displayed for service workers in runtime pages that are currently running (service
 # worker instance is active).
 about-debugging-worker-status-running = Çalışıyor
