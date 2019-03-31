@@ -13,5 +13,5 @@
 <!ENTITY blocklist.accept.label      "เริ่มการทำงาน &brandShortName; ใหม่">
 <!ENTITY blocklist.accept.accesskey  "ร">
 
-<!ENTITY blocklist.blocked.label     "ถูกปิดกั้น">
+<!ENTITY blocklist.blocked.label     "ปิดกั้นแล้ว">
 <!ENTITY blocklist.checkbox.label    "ปิดใช้งาน">
