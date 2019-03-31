@@ -36,6 +36,10 @@ about-debugging-sidebar-item-connect-button = Connecter
 # Temporary text displayed in sidebar items representing remote runtimes after
 # successfully connecting to them. Temporary UI, do not localize.
 about-debugging-sidebar-item-connected-label = Connecté
+# Text displayed in sidebar items for remote devices where a compatible browser (eg
+# Firefox) has not been detected yet. Typically, Android phones connected via USB with
+# USB debugging enabled, but where Firefox is not started.
+about-debugging-sidebar-runtime-item-waiting-for-browser = En attente du navigateur…
 # Title for runtime sidebar items that are related to a specific device (USB, WiFi).
 about-debugging-sidebar-runtime-item-name =
     .title = { $displayName } ({ $deviceName })
@@ -97,6 +101,11 @@ about-debugging-network-locations-remove-button = Supprimer
 
 # Runtime Page strings
 
+# Below are the titles for the various categories of debug targets that can be found
+# on "runtime" pages of about:debugging.
+# Title of the temporary extensions category (only available for "This Firefox" runtime).
+about-debugging-runtime-temporary-extensions =
+    .name = Extensions temporaires
 # Title of the extensions category.
 about-debugging-runtime-extensions =
     .name = Extensions
@@ -119,3 +128,17 @@ about-debugging-tmp-extension-reload-button = Actualiser
 # Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
 # Clicking on the button will uninstall the extension and remove it from the page.
 about-debugging-tmp-extension-remove-button = Supprimer
+# Text displayed for extensions (temporary extensions only) in "runtime" pages, before
+# displaying the location of the temporary extension.
+about-debugging-extension-location =
+    .label = Emplacement
+# Text displayed for extensions in "runtime" pages, before displaying the extension's ID.
+# For instance "geckoprofiler@mozilla.com" or "{ed26ddcb-5611-4512-a89a-51b8db81cfb2}".
+about-debugging-extension-id =
+    .label = Identifiant de l’extension
+# Displayed as name for the Main Process debug target in the Processes category. Only for
+# remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
+about-debugging-main-process-name = Processus principal
+# Displayed as description for the Main Process debug target in the Processes category.
+# Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
+about-debugging-main-process-description2 = Processus principal pour le navigateur cible
