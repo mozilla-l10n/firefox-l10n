@@ -91,6 +91,13 @@ detail-update-manual =
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Leisti privačiojo naršymo languose
 detail-private-browsing-description2 = Jums leidus, šis priedas turės prieigą prie jūsų veiklos internete, kai naršote privačiai. <label data-l10n-name="detail-private-browsing-learn-more">Sužinokite daugiau</label>
+# Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
+# cannot be overriden by the user.
+detail-private-disallowed-label = Neleidžiama privačiojo naršymo languose
+detail-private-disallowed-description = Šis priedas neveikia privačiojo naršymo languose. <label data-l10n-name="detail-private-browsing-learn-more">Sužinokite daugiau</label>
+# Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
+detail-private-required-label = Reikalinga prieiga prie privačiojo naršymo langų
+detail-private-required-description = Šis priedas turi prieigą prie jūsų veiksmų naršant privačiai. <label data-l10n-name="detail-private-browsing-learn-more">Sužinokite daugiau</label>
 detail-private-browsing-on =
     .label = Leisti
     .tooltiptext = Įjungti privačiajame naršyme
