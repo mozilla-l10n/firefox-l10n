@@ -29,7 +29,7 @@
 <!ENTITY OptionValue.accesskey "ค">
 <!ENTITY OptionSelected.label "เลือกตั้งแต่เริ่มต้น">
 <!ENTITY OptionSelected.accesskey "เ">
-<!ENTITY OptionDisabled.label "ปิดใช้งาน">
+<!ENTITY OptionDisabled.label "ปิดใช้งานอยู่">
 <!ENTITY OptionDisabled.accesskey "ป">
 
 <!ENTITY TextHeader.label "ข้อความ">

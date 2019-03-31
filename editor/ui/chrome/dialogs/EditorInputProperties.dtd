@@ -33,7 +33,7 @@
 <!ENTITY InputSelected.accesskey "ล">
 <!ENTITY InputReadOnly.label "อ่านอย่างเดียว">
 <!ENTITY InputReadOnly.accesskey "อ">
-<!ENTITY InputDisabled.label "ปิดใช้งาน">
+<!ENTITY InputDisabled.label "ปิดใช้งานอยู่">
 <!ENTITY InputDisabled.accesskey "ป">
 <!ENTITY tabIndex.label "ดัชนีแท็บ:">
 <!ENTITY tabIndex.accesskey "ด">
