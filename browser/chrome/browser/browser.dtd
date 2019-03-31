@@ -219,13 +219,23 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      for the Firefox Account toolbar signin menu screen. -->
 <!ENTITY fxa.signin.callout.label "Lleva Firefox contigo">
 <!ENTITY fxa.signin.description.label "Ten tus marcadores, historial, contraseñas y otros ajustes en todos tus dispositivos.">
+<!ENTITY fxa.signin.button.label "Activar &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
      for the Firefox Account toolbar unverified menu screen. -->
+<!ENTITY fxa.unverified.callout.label "Revisa tu correo">
+<!ENTITY fxa.unverified.description.label "Deberás verificar tu cuenta antes de poder usar sync.">
+<!ENTITY fxa.unverified.button.label "Abrir ajustes de &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbart menu screen. The `Signed in as` text is
      followed by the user's email. -->
+<!ENTITY fxa.menu.signedInAs.label "Conectado como">
+<!ENTITY fxa.menu.manageAccount.label "Administrar cuenta…">
+<!ENTITY fxa.menu.syncSettings.label "Ajustes de &syncBrand.shortName.label;…">
+<!ENTITY fxa.menu.connectAnotherDevice.label "&syncedTabs.sidebar.connectAnotherDevice;">
+<!ENTITY fxa.menu.connectAnotherDevice2.label "Conectar otro dispositivo…">
+<!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -247,6 +257,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (pictureInPicture.label, pictureInPicture.accesskey):
      these two strings are used when right-clicking on a video in the
      content area when the Picture-in-Picture feature is enabled. -->
+<!ENTITY pictureInPicture.label "Picture-in-Picture">
+<!ENTITY pictureInPicture.accesskey "u">
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
@@ -426,6 +438,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.label       "Preferencias">
 <!ENTITY preferencesCmdUnix.accesskey     "n">
 
+<!ENTITY logins.label                           "Conexiones y contraseñas">
 
 <!ENTITY clearRecentHistory.label               "Limpiar el historial reciente…">
 
@@ -949,6 +962,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncSignIn.label             "Conectarse a &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "Y">
 <!ENTITY syncSyncNowItem.label        "Sincronizar ahora">
+<!ENTITY syncSyncNowItemSyncing.label "Sincronizando…">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "Reconectar a &syncBrand.shortName.label;…">
 <!ENTITY syncReAuthItem.accesskey     "R">
@@ -1151,6 +1165,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Gestiona tus complementos haciendo clic en <image class='addon-addon-icon'/> en el menú <image class='addon-toolbar-icon'/>.">
+<!ENTITY addonPostInstall.incognito.checkbox.label "Permitir a esta extensión ejecutarse en ventanas privadas">
+<!ENTITY addonPostInstall.incognito.checkbox.accesskey "A">
 
 <!ENTITY addonPrivateBrowsing.header2.label "Cambios a las extensiones en ventanas privadas">
 <!ENTITY addonPrivateBrowsing.body2.label "Cualquier extensión nueva que añadas a &brandShorterName; no funcionará en ventanas privadas salvo que lo permitas en los ajustes.">
