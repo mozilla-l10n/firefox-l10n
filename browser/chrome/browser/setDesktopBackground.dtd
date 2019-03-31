@@ -8,7 +8,12 @@
 <!ENTITY stretch.label              "Ferlingje">
 <!ENTITY fill.label                 "Utfolje">
 <!ENTITY fit.label                  "Passend meitsje">
-<!ENTITY preview.label              "Foarbyld">
+<!-- LOCALIZATION NOTE (span.label): This refers to the wallpaper "spanning"
+                       multiple monitors when the user has more than one. Only
+                       some of the entire image will be on each monitor.
+                       This should ideally match the wording in Windows' own
+                       Desktop Background settings page. -->
+<!ENTITY span.label                 "Utwreidzje">
 <!ENTITY color.label                "Kleur:">
 <!ENTITY setDesktopBackground.title "Eftergrûn ynstelle">
 <!ENTITY openDesktopPrefs.label     "Búroblêdfoarkarren iepenje">
