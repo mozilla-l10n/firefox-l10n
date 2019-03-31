@@ -204,7 +204,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignIn.label "Войти в Синхронизацию">
 <!ENTITY fxaSignedIn.tooltip "Открыть настройки Синхронизации">
 <!ENTITY fxaSignInError.label "Снова подсоединиться к Синхронизации">
-<!ENTITY fxaUnverified.label "Подтвердить свой аккаунт">
+<!ENTITY fxaUnverified.label "Подтвердите свой аккаунт">
 
 
 <!ENTITY fullScreenMinimize.tooltip "Свернуть">
