@@ -8,6 +8,8 @@
 
 # Page Title strings
 
+# Page title (ie tab title) for the Setup page
+about-debugging-page-title-setup-page = Отладка - Настройка
 # Page title (ie tab title) for the Runtime page
 # { $selectedRuntimeId } is the id of the current runtime, such as "this-firefox", "localhost:6080", ...
 about-debugging-page-title-runtime-page = Отладка - Runtime / { $selectedRuntimeId }
@@ -20,17 +22,30 @@ about-debugging-this-firefox-runtime-name = Этот { -brand-shorter-name }
 # Sidebar heading for selecting the currently running instance of Firefox
 about-debugging-sidebar-this-firefox =
     .name = { about-debugging-this-firefox-runtime-name }
+# Sidebar heading for connecting to some remote source
+about-debugging-sidebar-setup =
+    .name = Настройка
 # Text displayed in the about:debugging sidebar when USB devices discovery is enabled.
 about-debugging-sidebar-usb-enabled = USB включён
 # Text displayed in the about:debugging sidebar when USB devices discovery is disabled
 # (for instance because the mandatory ADB extension is not installed).
 about-debugging-sidebar-usb-disabled = USB отключён
+# Connection status (connected) for runtime items in the sidebar
+aboutdebugging-sidebar-runtime-connection-status-connected = Подключено
+# Connection status (disconnected) for runtime items in the sidebar
+aboutdebugging-sidebar-runtime-connection-status-disconnected = Отключено
 # Text displayed in the about:debugging sidebar when no device was found.
 about-debugging-sidebar-no-devices = Устройства не обнаружены
-# Text displayed in sidebar items for remote devices where a compatible runtime (eg
+# Text displayed in buttons found in sidebar items representing remote runtimes.
+# Clicking on the button will attempt to connect to the runtime.
+about-debugging-sidebar-item-connect-button = Подключить
+# Temporary text displayed in sidebar items representing remote runtimes after
+# successfully connecting to them. Temporary UI, do not localize.
+about-debugging-sidebar-item-connected-label = Подключено
+# Text displayed in sidebar items for remote devices where a compatible browser (eg
 # Firefox) has not been detected yet. Typically, Android phones connected via USB with
 # USB debugging enabled, but where Firefox is not started.
-about-debugging-sidebar-runtime-item-waiting-for-runtime = Ожидание runtime…
+about-debugging-sidebar-runtime-item-waiting-for-browser = Ожидание браузера…
 # Title for runtime sidebar items that are related to a specific device (USB, WiFi).
 about-debugging-sidebar-runtime-item-name =
     .title = { $displayName } ({ $deviceName })
@@ -38,12 +53,21 @@ about-debugging-sidebar-runtime-item-name =
 # locations).
 about-debugging-sidebar-runtime-item-name-no-device =
     .title = { $displayName }
+# Text to show in the footer of the sidebar that links to a help page
+# (currently: https://developer.mozilla.org/docs/Tools/about:debugging)
+about-debugging-sidebar-support = Помощь по отладке
+# Text to show as the ALT attribute of a help icon that accompanies the help about
+# debugging link in the footer of the sidebar
+about-debugging-sidebar-support-icon =
+    .alt = Значок помощи
 # Text displayed in a sidebar button to refresh the list of USB devices. Clicking on it
 # will attempt to update the list of devices displayed in the sidebar.
 about-debugging-refresh-usb-devices-button = Обновить список устройств
 
 # Setup Page strings
 
+# Title of the Setup page.
+about-debugging-setup-title = Настройка
 # Introduction text in the Setup page to explain how to configure remote debugging.
 about-debugging-setup-intro = Выберите метод подключения, с помощью которого вы хотите удалённо отлаживать ваше устройство.
 # Link displayed in the Setup page that leads to MDN page with list of supported devices.
@@ -77,9 +101,14 @@ about-debugging-setup-usb-step-enable-debug = Включите отладку п
 about-debugging-setup-usb-step-enable-debug-firefox = Включите отладку по USB в Firefox на вашем Android-устройстве. <a>Узнайте как</a>
 # USB section step by step guide
 about-debugging-setup-usb-step-plug-device = Подключите Android-устройство к вашему компьютеру.
+# Network section of the Setup page
+about-debugging-setup-network =
+    .title = Сетевое расположение
 # Text of a button displayed after the network locations "Host" input.
 # Clicking on it will add the new network location to the list.
 about-debugging-network-locations-add-button = Добавить
+# Text to display when there are no locations to show.
+about-debugging-network-locations-empty-text = Сетевые расположения пока не добавлены.
 # Text of the label for the text input that allows users to add new network locations in
 # the Connect page. A host is a hostname and a port separated by a colon, as suggested by
 # the input's placeholder "localhost:6080".
@@ -87,6 +116,14 @@ about-debugging-network-locations-host-input-label = Хост
 # Text of a button displayed next to existing network locations in the Connect page.
 # Clicking on it removes the network location from the list.
 about-debugging-network-locations-remove-button = Удалить
+# Text used as error message if the format of the input value was invalid in the network locations form of the Setup page.
+# Variables:
+#   $host-value (string) - The input value submitted by the user in the network locations form
+about-debugging-network-location-form-invalid = Неверный формат хоста «{ $host-value }». Правильный формат: «имя хоста: номер порта».
+# Text used as error message if the input value was already registered in the network locations form of the Setup page.
+# Variables:
+#   $host-value (string) - The input value submitted by the user in the network locations form
+about-debugging-network-location-form-duplicate = Хост «{ $host-value }» уже зарегистрирован
 
 # Runtime Page strings
 
@@ -120,25 +157,25 @@ about-debugging-runtime-profile-button = Профиль Runtime
 # target runtime is incompatible with service workers. "Learn more" points to MDN.
 # https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
 about-debugging-runtime-service-workers-not-compatible = Конфигурация вашего браузера не совместима с Service Workers. <a>Узнайте больше</a>
-# This string is displayed in the runtime page if the remote runtime version is too old.
+# This string is displayed in the runtime page if the remote browser version is too old.
 # "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/WebIDE/Troubleshooting
-# { $runtimeVersion } is the version of the remote runtime (for instance "67.0a1")
+# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 # { $minVersion } is the minimum version that is compatible with the current Firefox instance (same format)
-about-debugging-runtime-version-too-old = Подключенный runtime имеет старую версию ({ $runtimeVersion }). Минимальная поддерживаемая версия — ({ $minVersion }). Эта конфигурация не поддерживается и может привести к сбою в работе Инструментов разработчика. Пожалуйста, обновите подключённый runtime. <a>Решение проблем</a>
+about-debugging-browser-version-too-old = Подключённый браузер имеет старую версию ({ $runtimeVersion }). Минимальная поддерживаемая версия — ({ $minVersion }). Эта конфигурация не поддерживается и может привести к сбою в работе Инструментов разработчика. Пожалуйста, обновите подключённый браузер. <a>Решение проблем</a>
 # Dedicated message for a backward compatibility issue that occurs when connecting:
 # - from Fx 67 to 66 or to 65
 # - from Fx 68 to 66
 # Those are normally in range for DevTools compatibility policy, but specific non
 # backward compatible changes broke the debugger in those scenarios (Bug 1528219).
-# { $runtimeVersion } is the version of the remote runtime (for instance "67.0a1")
-about-debugging-runtime-version-too-old-67-debugger = Панель отладчика может не работать с подключённым runtime. Пожалуйста, используйте Firefox { $runtimeVersion }, если вам необходимо использовать отладчик с этим runtime.
-# This string is displayed in the runtime page if the remote runtime version is too recent.
+# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
+about-debugging-browser-version-too-old-67-debugger = Панель отладчика может не работать с подключённым браузером. Пожалуйста, используйте Firefox { $runtimeVersion }, если вам необходимо использовать отладчик с этим браузером.
+# This string is displayed in the runtime page if the remote browser version is too recent.
 # "Troubleshooting" link points to https://developer.mozilla.org/en-US/docs/Tools/WebIDE/Troubleshooting
-# { $runtimeID } is the build ID of the remote runtime (for instance "20181231", format is yyyyMMdd)
+# { $runtimeID } is the build ID of the remote browser (for instance "20181231", format is yyyyMMdd)
 # { $localID } is the build ID of the current Firefox instance (same format)
-# { $runtimeVersion } is the version of the remote runtime (for instance "67.0a1")
-# { $localVersion } is the version of your current runtime (same format)
-about-debugging-runtime-version-too-recent = Подключённый runtime новее ({ $runtimeVersion }, buildID { $runtimeID }), чем ваш { -brand-shorter-name } ({ $localVersion }, buildID { $localID }). Данная конфигурация не поддерживается и может привести к неработоспособности Инструментов разработчика. Пожалуйста, обновите Firefox. <a>Решение проблем</a>
+# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
+# { $localVersion } is the version of your current browser (same format)
+about-debugging-browser-version-too-recent = Подключённый браузер имеет более новый ({ $runtimeVersion }, buildID { $runtimeID }), чем ваш { -brand-shorter-name } ({ $localVersion }, buildID { $localID }). Эта конфигурация не поддерживается и может привести к сбою в работе Инструментов разработчика. Пожалуйста, обновите Firefox. <a>Решение проблем</a>
 # Displayed for runtime info in runtime pages.
 # { $name } is brand name such as "Firefox Nightly"
 # { $version } is version such as "64.0a1"
@@ -242,5 +279,5 @@ about-debugging-worker-push-service =
 # remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-main-process-name = Главный процесс
 # Displayed as description for the Main Process debug target in the Processes category.
-# Only for remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
-about-debugging-main-process-description = Главный процесс для целевого runtime
+# Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
+about-debugging-main-process-description2 = Главный процесс целевого браузера
