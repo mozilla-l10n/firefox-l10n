@@ -144,7 +144,7 @@
     ให้แน่ใจว่า &brandShortName; ได้รับอนุญาตให้เข้าถึงเว็บ</li>
 </ul>">
 
-<!ENTITY cspBlocked.title "ถูกปิดกั้นโดยนโยบายความปลอดภัยของเนื้อหา">
+<!ENTITY cspBlocked.title "ปิดกั้นแล้วโดยนโยบายความปลอดภัยของเนื้อหา">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; ได้ป้องกันหน้านี้จากการโหลดในลักษณะนี้เนื่องจากหน้ามีนโยบายความปลอดภัยของเนื้อหาที่ไม่อนุญาต</p>">
 
 <!ENTITY corruptedContentErrorv2.title "ข้อผิดพลาดเนื้อหาเสียหาย">
