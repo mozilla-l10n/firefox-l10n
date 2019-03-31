@@ -42,10 +42,10 @@ about-debugging-sidebar-item-connect-button = Prisijungti
 # Temporary text displayed in sidebar items representing remote runtimes after
 # successfully connecting to them. Temporary UI, do not localize.
 about-debugging-sidebar-item-connected-label = Prisijungta
-# Text displayed in sidebar items for remote devices where a compatible runtime (eg
+# Text displayed in sidebar items for remote devices where a compatible browser (eg
 # Firefox) has not been detected yet. Typically, Android phones connected via USB with
 # USB debugging enabled, but where Firefox is not started.
-about-debugging-sidebar-runtime-item-waiting-for-runtime = Laukiama įrenginio darinio…
+about-debugging-sidebar-runtime-item-waiting-for-browser = Laukiama naršyklės…
 # Title for runtime sidebar items that are related to a specific device (USB, WiFi).
 about-debugging-sidebar-runtime-item-name =
     .title = { $displayName } ({ $deviceName })
@@ -53,6 +53,13 @@ about-debugging-sidebar-runtime-item-name =
 # locations).
 about-debugging-sidebar-runtime-item-name-no-device =
     .title = { $displayName }
+# Text to show in the footer of the sidebar that links to a help page
+# (currently: https://developer.mozilla.org/docs/Tools/about:debugging)
+about-debugging-sidebar-support = Derinimo palaikymas
+# Text to show as the ALT attribute of a help icon that accompanies the help about
+# debugging link in the footer of the sidebar
+about-debugging-sidebar-support-icon =
+    .alt = Pagalbos piktograma
 # Text displayed in a sidebar button to refresh the list of USB devices. Clicking on it
 # will attempt to update the list of devices displayed in the sidebar.
 about-debugging-refresh-usb-devices-button = Atnaujinti įrenginius
@@ -109,6 +116,14 @@ about-debugging-network-locations-host-input-label = Serveris
 # Text of a button displayed next to existing network locations in the Connect page.
 # Clicking on it removes the network location from the list.
 about-debugging-network-locations-remove-button = Pašalinti
+# Text used as error message if the format of the input value was invalid in the network locations form of the Setup page.
+# Variables:
+#   $host-value (string) - The input value submitted by the user in the network locations form
+about-debugging-network-location-form-invalid = Neteisingas serverio adresas „{ $host-value }“. Tinkamas formatas yra „serverioadresas:prievadonumeris“.
+# Text used as error message if the input value was already registered in the network locations form of the Setup page.
+# Variables:
+#   $host-value (string) - The input value submitted by the user in the network locations form
+about-debugging-network-location-form-duplicate = Serverio adresas „{ $host-value }“ jau yra užregistruotas
 
 # Runtime Page strings
 
@@ -142,25 +157,25 @@ about-debugging-runtime-profile-button = Profilio įrenginio darinys
 # target runtime is incompatible with service workers. "Learn more" points to MDN.
 # https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
 about-debugging-runtime-service-workers-not-compatible = Jūsų naršyklės nuostatos yra nesuderinamos su aptarnavimo scenarijais. <a>Sužinokite daugiau</a>
-# This string is displayed in the runtime page if the remote runtime version is too old.
+# This string is displayed in the runtime page if the remote browser version is too old.
 # "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/WebIDE/Troubleshooting
-# { $runtimeVersion } is the version of the remote runtime (for instance "67.0a1")
+# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 # { $minVersion } is the minimum version that is compatible with the current Firefox instance (same format)
-about-debugging-runtime-version-too-old = Prijungto įrenginio darinio laida ({ $runtimeVersion }) yra senesnė negu minimali palaikoma ({ $minVersion }). Tokia konfigūracija nėra palaikoma ir gali sukelti saityno kūrėjo priemonių sutrikimus. Atnaujinkite susieto įrenginio darinį. <a>Problemų sprendimas</a>
+about-debugging-browser-version-too-old = Prijungto įrenginio darinio laida ({ $runtimeVersion }) yra senesnė negu minimali palaikoma ({ $minVersion }). Tokia konfigūracija nėra palaikoma ir gali sukelti saityno kūrėjo priemonių sutrikimus. Atnaujinkite susieto įrenginio darinį. <a>Problemų sprendimas</a>
 # Dedicated message for a backward compatibility issue that occurs when connecting:
 # - from Fx 67 to 66 or to 65
 # - from Fx 68 to 66
 # Those are normally in range for DevTools compatibility policy, but specific non
 # backward compatible changes broke the debugger in those scenarios (Bug 1528219).
-# { $runtimeVersion } is the version of the remote runtime (for instance "67.0a1")
-about-debugging-runtime-version-too-old-67-debugger = Derintuvės polangis gali neveikti su prijungto įrenginio dariniu. Naudokite „Firefox“ { $runtimeVersion }, jeigu norite naudoti derintuvę su šiuo įrenginio dariniu.
-# This string is displayed in the runtime page if the remote runtime version is too recent.
+# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
+about-debugging-browser-version-too-old-67-debugger = Derintuvės polangis gali neveikti su prijungto įrenginio dariniu. Naudokite „Firefox“ %S, jeigu turite naudoti derintuvę su šiuo įrenginio dariniu.
+# This string is displayed in the runtime page if the remote browser version is too recent.
 # "Troubleshooting" link points to https://developer.mozilla.org/en-US/docs/Tools/WebIDE/Troubleshooting
-# { $runtimeID } is the build ID of the remote runtime (for instance "20181231", format is yyyyMMdd)
+# { $runtimeID } is the build ID of the remote browser (for instance "20181231", format is yyyyMMdd)
 # { $localID } is the build ID of the current Firefox instance (same format)
-# { $runtimeVersion } is the version of the remote runtime (for instance "67.0a1")
-# { $localVersion } is the version of your current runtime (same format)
-about-debugging-runtime-version-too-recent = Prijungto įrenginio darinio laida yra naujesnė ({ $runtimeVersion }, buildID { $runtimeID }) negu jūsų „{ -brand-shorter-name }“ ({ $localVersion }, buildID { $localID }). Tokia konfigūracija nėra palaikoma ir gali sukelti saityno kūrėjo priemonių sutrikimus. <a>Problemų sprendimas</a>
+# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
+# { $localVersion } is the version of your current browser (same format)
+about-debugging-browser-version-too-recent = Prijungto įrenginio darinio laida yra naujesnė ({ $runtimeVersion }, buildID { $runtimeID }) negu jūsų „{ -brand-shorter-name }“ ({ $localVersion }, buildID { $localID }). Tokia konfigūracija nėra palaikoma ir gali sukelti saityno kūrėjo priemonių sutrikimus. <a>Problemų sprendimas</a>
 # Displayed for runtime info in runtime pages.
 # { $name } is brand name such as "Firefox Nightly"
 # { $version } is version such as "64.0a1"
@@ -263,6 +278,3 @@ about-debugging-worker-push-service =
 # Displayed as name for the Main Process debug target in the Processes category. Only for
 # remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-main-process-name = Pagrindinis procesas
-# Displayed as description for the Main Process debug target in the Processes category.
-# Only for remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
-about-debugging-main-process-description = Pagrindinis derinamo įrenginio darinio procesas
