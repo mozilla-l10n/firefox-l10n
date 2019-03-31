@@ -215,6 +215,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenExit.label "Salir del modo de pantalla completa">
 <!ENTITY fullScreenExit.accesskey "S">
 
+ <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
+     for the Firefox Account toolbar signin menu screen. -->
+<!ENTITY fxa.signin.callout.label "Lleva Firefox contigo">
+<!ENTITY fxa.signin.description.label "Ten tus marcadores, historial, contraseñas y otros ajustes en todos tus dispositivos.">
+
+<!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
+     for the Firefox Account toolbar unverified menu screen. -->
+
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbart menu screen. The `Signed in as` text is
+     followed by the user's email. -->
+
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring fullscreen.
@@ -231,6 +243,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY exitDOMFullscreenMac.button "Salir de pantalla completa (esc)">
 <!ENTITY leaveDOMFullScreen.label "Salir de pantalla completa">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
+
+<!-- LOCALIZATION NOTE (pictureInPicture.label, pictureInPicture.accesskey):
+     these two strings are used when right-clicking on a video in the
+     content area when the Picture-in-Picture feature is enabled. -->
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
@@ -409,6 +425,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "Preferencias">
 <!ENTITY preferencesCmdUnix.accesskey     "n">
+
 
 <!ENTITY clearRecentHistory.label               "Limpiar el historial reciente…">
 
@@ -1134,8 +1151,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Gestiona tus complementos haciendo clic en <image class='addon-addon-icon'/> en el menú <image class='addon-toolbar-icon'/>.">
-<!ENTITY addonPostInstall.incognito.label "Permitir a esta extensión ejecutarse en ventanas privadas.">
-<!ENTITY addonPostInstall.incognito.accesskey "A">
 
 <!ENTITY addonPrivateBrowsing.header2.label "Cambios a las extensiones en ventanas privadas">
 <!ENTITY addonPrivateBrowsing.body2.label "Cualquier extensión nueva que añadas a &brandShorterName; no funcionará en ventanas privadas salvo que lo permitas en los ajustes.">
