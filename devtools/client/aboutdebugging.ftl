@@ -212,9 +212,9 @@ about-debugging-debug-target-list-empty = Jeszcze nic nie ma.
 about-debugging-debug-target-inspect-button = Zbadaj
 # Text of a button displayed in the "This Firefox" page, in the Temporary Extension
 # section. Clicking on the button will open a file picker to load a temporary extension
-about-debugging-tmp-extension-install-button = Wczytaj dodatek tymczasowy…
+about-debugging-tmp-extension-install-button = Tymczasowo wczytaj dodatek…
 # Text displayed when trying to install a temporary extension in the "This Firefox" page.
-about-debugging-tmp-extension-install-error = Wystąpił błąd podczas instalacji dodatku tymczasowego.
+about-debugging-tmp-extension-install-error = Wystąpił błąd podczas tymczasowej instalacji dodatku.
 # Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
 # Clicking on the button will reload the extension.
 about-debugging-tmp-extension-reload-button = Wczytaj ponownie
@@ -227,7 +227,7 @@ about-debugging-tmp-extension-remove-button = Usuń
 # Note: this message is only displayed in Windows and Linux platforms.
 about-debugging-tmp-extension-install-message = Wybierz plik manifest.json lub archiwum .xpi/.zip
 # This string is displayed as a message about the add-on having a temporaryID.
-about-debugging-tmp-extension-temporary-id = To rozszerzenie WebExtension ma tymczasowy identyfikator. <a>Więcej informacji</a>.
+about-debugging-tmp-extension-temporary-id = To rozszerzenie WebExtension ma identyfikator tymczasowy. <a>Więcej informacji</a>.
 # Text displayed for extensions in "runtime" pages, before displaying a link the extension's
 # manifest URL.
 about-debugging-extension-manifest-url =
@@ -248,4 +248,36 @@ about-debugging-extension-id =
 # to a service worker.
 # Notes, this relates to the "Push" API, which is normally not localized so it is
 # probably better to not localize it.
-about-debugging-worker-action-push = Wyślij (push)
+about-debugging-worker-action-push = Wyślij push
+# This string is displayed as a label of the button that starts a service worker.
+about-debugging-worker-action-start = Uruchom
+# This string is displayed as a label of the button that unregisters a service worker.
+about-debugging-worker-action-unregister = Wyrejestruj
+# Displayed for service workers in runtime pages that listen to Fetch events.
+about-debugging-worker-fetch-listening =
+    .label = Fetch
+    .value = Obserwuje zdarzenia Fetch
+# Displayed for service workers in runtime pages that do not listen to Fetch events.
+about-debugging-worker-fetch-not-listening =
+    .label = Fetch
+    .value = Nie obserwuje zdarzeń Fetch
+# Displayed for service workers in runtime pages that are currently running (service
+# worker instance is active).
+about-debugging-worker-status-running = Uruchomiony
+# Displayed for service workers in runtime pages that are registered but stopped.
+about-debugging-worker-status-stopped = Zatrzymany
+# Displayed for service workers in runtime pages that are registering.
+about-debugging-worker-status-registering = Rejestrowanie
+# Displayed for service workers in runtime pages, to label the scope of a worker
+about-debugging-worker-scope =
+    .label = Zakres
+# Displayed for service workers in runtime pages, to label the push service endpoint (url)
+# of a worker
+about-debugging-worker-push-service =
+    .label = Usługa push
+# Displayed as name for the Main Process debug target in the Processes category. Only for
+# remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
+about-debugging-main-process-name = Główny proces
+# Displayed as description for the Main Process debug target in the Processes category.
+# Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
+about-debugging-main-process-description2 = Główny proces dla przeglądarki docelowej
