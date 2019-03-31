@@ -10,7 +10,6 @@
 <!ENTITY returnToPreviousPage.label "Retornar">
 <!ENTITY returnToPreviousPage1.label "Retroceder (Recommendate)">
 <!ENTITY advanced.label "Avantiate">
-<!ENTITY continue2.label "Plus…">
 <!ENTITY advanced2.label "Avantiate…">
 <!ENTITY moreInformation.label "Plus de informationes">
 <!ENTITY viewCertificate.label "Vider le certificato">
@@ -150,10 +149,10 @@
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Le proprietarios de <span class='hostname'/> ha configurate lor sito web incorrectemente. Pro proteger tu informationes de esser robate,  &brandShortName; non se ha connectite a iste sito web.">
-<!ENTITY certerror.introPara2 "&brandShortName; disvelate un potential attacco al securitate e ha interrumpite le connexion a <span class='hostname'/>. Si tu visita iste sito, le attaccantes poterea provar a robar informationes como tu contrasignos, emails o detalios del carta de credito.">
-<!ENTITY certerror.sts.introPara "&brandShortName; disvelava un menacia potential de securitate e interrumpeva le connexion a <span class='hostname'/> pois que iste sito web require un connexion secur.">
+<!ENTITY certerror.introPara2 "&brandShortName; ha detegite un potential menacia de securitate e non ha continuate a <span class='hostname'/>. Si tu visita iste sito, attaccantes poterea tentar robar informationes como tu contrasignos, adresses de e-mail o detalios de carta de credito.">
+<!ENTITY certerror.sts.introPara "&brandShortName; ha detegite un menacia potential de securitate e non ha continuate a <span class='hostname'/> pois que iste sito web require un connexion secur.">
 
-<!ENTITY certerror.expiredCert.introPara "&brandShortName; disvelava un problema e interrumpeva le connexion a <span class='hostname'/>. Le sito web o es mal configurate o le horologio de tu computator es definite a un tempore errate.">
+<!ENTITY certerror.expiredCert.introPara "&brandShortName; ha detegite un problema e non ha continuate a <span class='hostname'/>. Le sito web o es mal configurate o le horologio de tu computator es definite a un tempore errate.">
 <!ENTITY certerror.expiredCert.secondPara2 "Il pare que le certificato del sito es expirate, isto impedi a &brandShortName; de connecter se in modo secur. Si tu visita iste sito, alicuno pote attaccar e tentar de robar informationes como tu contrasignos, emails, o detalios de cartas de credito.">
 <!ENTITY certerror.expiredCert.sts.secondPara "Il pare que le certificato del sito es expirate, isto impedi a &brandShortName; de connecter se in modo secur.">
 
@@ -240,4 +239,4 @@ certificato non es possibile.">
 <!ENTITY prefReset.label "Restaurar le parametros predefinite">
 
 <!ENTITY networkProtocolError.title "Error de protocollo de rete">
-<!ENTITY networkProtocolError.longDesc "<p>Le pagina que tu tenta de vider non pote esser monstrate perque esseva disvelate un error in le protocollo de rete </p><ul><li>Per favor contacta le proprietarios del sito web.</li></ul>">
+<!ENTITY networkProtocolError.longDesc "<p>Le pagina que tu tenta vider non pote esser monstrate perque esseva detegite un error in le protocollo de rete.</p><ul><li>Per favor contacta le proprietarios del sito web.</li></ul>">

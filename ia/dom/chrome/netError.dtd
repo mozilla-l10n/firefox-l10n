@@ -107,4 +107,4 @@
 <!ENTITY blockedByPolicy.title "Pagina bloccate">
 
 <!ENTITY networkProtocolError.title "Error de protocollo de rete">
-<!ENTITY networkProtocolError.longDesc "<p>Le pagina que tu tentava de vider non pote esser monstrate perque un error in le protocollo de rete esseva disvelate.</p><ul><li>Per favor contacta le proprietarios del sito web pro les informar de iste problema.</li></ul>">
+<!ENTITY networkProtocolError.longDesc "<p>Le pagina que tu tenta vider non pote esser monstrate perque un error in le protocollo de rete esseva detegite.</p><ul><li>Per favor contacta le proprietarios del sito web pro informar les de iste problema.</li></ul>">
