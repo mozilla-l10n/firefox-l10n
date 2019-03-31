@@ -33,4 +33,7 @@ synced-tabs-context-copy =
 synced-tabs-context-open-all-in-tabs =
     .label = Åbn alle i faneblade
     .accesskey = a
+synced-tabs-context-manage-devices =
+    .label = Håndter enheder…
+    .accesskey = H
 fxa-sign-in = Log ind på { -sync-brand-short-name }
