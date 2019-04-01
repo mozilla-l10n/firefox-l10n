@@ -33,4 +33,7 @@ synced-tabs-context-copy =
 synced-tabs-context-open-all-in-tabs =
     .label = Адкрыць усе ў картках
     .accesskey = Ў
+synced-tabs-context-manage-devices =
+    .label = Кіраваць прыладамі...
+    .accesskey = В
 fxa-sign-in = Увайсці ў { -sync-brand-short-name }
