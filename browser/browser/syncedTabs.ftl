@@ -5,11 +5,15 @@
 synced-tabs-sidebar-title = ਸਿੰਕ ਕੀਤੀਆਂ ਟੈਬਾਂ
 synced-tabs-sidebar-noclients-subtitle = ਹੋਰ ਡਿਵਾਈਸਾਂ ਤੋਂ ਹੋਰ ਟੈਬਾਂ ਨੂੰ ਇੱਥੇ ਵੇਖਣਾ ਚਾਹੁੰਦੇ ਹੋ?
 synced-tabs-sidebar-notsignedin = ਆਪਣੇ ਹੋਰ ਡਿਵਾਈਸਾਂ ਤੋਂ ਟੈਬਾਂ ਦੀ ਸੂਚੀ ਦੇਖਣ ਲਈ ਸਾਇਨ ਇਨ ਕਰੋ।
+synced-tabs-sidebar-unverified = ਤੁਹਾਡੇ ਖਾਤੇ ਨੂੰ ਤਸਦੀਕ ਕਰਨ ਦੀ ਲੋੜ ਹੈ।
 synced-tabs-sidebar-notabs = ਕੋਈ ਖੁੱਲ੍ਹੀ ਟੈਬ ਨਹੀਂ
 synced-tabs-sidebar-openprefs =
     { -sync-brand-short-name } 
     ਪਸੰਦ ਨੂੰ ਖੋਲ੍ਹੋ
 synced-tabs-sidebar-tabsnotsyncing = ਆਪਣੇ ਹੋਰ ਡਿਵਾਈਸਾਂ ਤੋਂ ਟੈਬਾਂ ਦੀ ਸੂਚੀ ਨੂੰ ਵੇਖਣ ਲਈ ਟੈਬ ਸਿੰਕ ਨੂੰ ਚਾਲੂ ਕਰੋ।
+synced-tabs-sidebar-connect-another-device = ਹੋਰ ਡਿਵਾਈਸ ਨਾਲ ਕਨੈਕਟ ਕਰੋ
+synced-tabs-sidebar-search =
+    .placeholder = ਸਿੰਕ ਕੀਤੀਆਂ ਟੈਬਾਂ ਨੂੰ ਖੋਜੋ
 synced-tabs-context-open =
     .label = ਖੋਲ੍ਹੋ
     .accesskey = O
@@ -31,4 +35,7 @@ synced-tabs-context-copy =
 synced-tabs-context-open-all-in-tabs =
     .label = ਸਾਰਿਆਂ ਨੂੰ ਟੈਬਾਂ 'ਚ ਖੋਲ੍ਹੋ
     .accesskey = O
+synced-tabs-context-manage-devices =
+    .label = …ਡਿਵਾਈਸਾਂ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋ
+    .accesskey = D
 fxa-sign-in = { -sync-brand-short-name } ਵਿੱਚ ਸਾਇਨ ਇਨ
