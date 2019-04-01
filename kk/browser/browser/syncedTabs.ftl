@@ -5,9 +5,13 @@
 synced-tabs-sidebar-title = Синхрондалған беттер
 synced-tabs-sidebar-noclients-subtitle = Басқа құрылғыларыңыздан беттерді осында көргіңіз келе ме?
 synced-tabs-sidebar-notsignedin = Басқа құрылғыларыңыздан беттер тізімдерін қарау үшін кіріңіз.
+synced-tabs-sidebar-unverified = Тіркелгіңіз расталуы тиіс.
 synced-tabs-sidebar-notabs = Ашық беттер жоқ
 synced-tabs-sidebar-openprefs = { -sync-brand-short-name } баптауларын ашу
 synced-tabs-sidebar-tabsnotsyncing = Басқа құрылғыларыңыздан беттер тізімдерін қарау үшін беттерді синхрондауды іске қосыңыз.
+synced-tabs-sidebar-connect-another-device = Басқа құрылғыны байланыстыру
+synced-tabs-sidebar-search =
+    .placeholder = Синхрондалған беттерден іздеу
 synced-tabs-context-open =
     .label = Ашу
     .accesskey = А
