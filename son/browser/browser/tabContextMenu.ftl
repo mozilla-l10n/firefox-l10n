@@ -5,3 +5,6 @@
 unpin-tab =
     .label = Nor loku bukandi
     .accesskey = b
+move-to-new-window =
+    .label = Ganandi zanfun taagaa ra
+    .accesskey = z
