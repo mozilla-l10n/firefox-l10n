@@ -5,6 +5,9 @@
 reload-tab =
     .label = တပ်ဗ်ကို ပြန်ဖွင့်ရန်
     .accesskey = R
+duplicate-tab =
+    .label = တပ်ဗ်ကို ပွားရန်
+    .accesskey = D
 close-tabs-to-the-end =
     .label = ညာဘက်ရှိတပ်ဗ်များကို ပိတ်ရန်
     .accesskey = i
