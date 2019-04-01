@@ -2,12 +2,18 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+reload-tab =
+    .label = Actualiser l’onglet
+    .accesskey = A
 select-all-tabs =
     .label = Sélectionner tous les onglets
     .accesskey = S
 close-tabs-to-the-end =
     .label = Fermer les onglets situés à droite
     .accesskey = m
+close-other-tabs =
+    .label = Fermer les autres onglets
+    .accesskey = t
 reload-tabs =
     .label = Actualiser les onglets
     .accesskey = R
@@ -29,6 +35,12 @@ move-to-end =
 move-to-new-window =
     .label = Déplacer vers une nouvelle fenêtre
     .accesskey = n
+undo-close-tab =
+    .label = Annuler la fermeture de l’onglet
+    .accesskey = e
+close-tab =
+    .label = Fermer l’onglet
+    .accesskey = F
 close-tabs =
     .label = Fermer les onglets
     .accesskey = S
