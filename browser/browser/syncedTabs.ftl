@@ -3,11 +3,27 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 synced-tabs-sidebar-title = Pestañas sincronizadas
+synced-tabs-sidebar-noclients-subtitle = ¿Quieres ver las pestañas de tus otros dispositivos aquí?
 synced-tabs-sidebar-notsignedin = Inicia sesión para ver una lista de pestañas de tus otros dispositivos.
 synced-tabs-sidebar-notabs = No hay pestañas abiertas
 synced-tabs-sidebar-openprefs = Abriendo preferencias de { -sync-brand-short-name }
 synced-tabs-sidebar-tabsnotsyncing = Activa la sincronización de pestañas para ver una lista de pestañas desde tus otros dispositivos.
+synced-tabs-context-open =
+    .label = Abrir
+    .accesskey = O
+synced-tabs-context-open-in-new-tab =
+    .label = Abrir en una nueva pestaña
+    .accesskey = w
+synced-tabs-context-open-in-new-window =
+    .label = Abrir en una nueva ventana
+    .accesskey = N
+synced-tabs-context-open-in-new-private-window =
+    .label = Abrir en una nueva ventana privada
+    .accesskey = P
 synced-tabs-context-bookmark-single-tab =
     .label = Agregar esta pestaña a marcadores…
     .accesskey = A
+synced-tabs-context-copy =
+    .label = Copiar
+    .accesskey = C
 fxa-sign-in = Iniciar sesión con { -sync-brand-short-name }
