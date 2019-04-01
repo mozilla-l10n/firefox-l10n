@@ -17,3 +17,6 @@ unpin-tab =
 move-to-new-window =
     .label = Pumunta sa Bagong Window
     .accesskey = W
+undo-close-tab =
+    .label = Buksang Muli ang Isinarang Tab
+    .accesskey = U
