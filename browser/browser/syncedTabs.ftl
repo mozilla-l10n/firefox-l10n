@@ -5,9 +5,11 @@
 synced-tabs-sidebar-title = File sincronizate
 synced-tabs-sidebar-noclients-subtitle = Vrei să vezi filele de pe celelalte dispozitive aici?
 synced-tabs-sidebar-notsignedin = Autentifică-te pentru a vedea o listă de file de pe celelalte dispozitive.
+synced-tabs-sidebar-unverified = Contul tău trebuie verificat.
 synced-tabs-sidebar-notabs = Nicio filă deschisă
 synced-tabs-sidebar-openprefs = Deschide preferințele pentru { -sync-brand-short-name }
 synced-tabs-sidebar-tabsnotsyncing = Pornește sincronizarea filelor pentru a vedea o listă cu file de pe celelalte dispozitive.
+synced-tabs-sidebar-connect-another-device = Conectează alt dispozitiv
 synced-tabs-sidebar-search =
     .placeholder = Caută în filele sincronizate
 synced-tabs-context-open =
