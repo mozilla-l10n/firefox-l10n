@@ -5,3 +5,6 @@
 synced-tabs-context-open-in-new-window =
     .label = Buksan ang Link sa Bagong Window
     .accesskey = n
+synced-tabs-context-open-in-new-private-window =
+    .label = Buksan sa Bagong Private Window
+    .accesskey = P
