@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 synced-tabs-sidebar-title = Onglets sincronizats
+synced-tabs-sidebar-notabs = Pas cap d’onglet dobèrt
 synced-tabs-sidebar-openprefs = Dobrir las preferénciias del { -sync-brand-short-name }
 synced-tabs-context-open-in-new-window =
     .label = Dobrir lo ligam dins una fenèstra novèla
