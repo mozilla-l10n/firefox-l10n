@@ -1,0 +1,29 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+synced-tabs-sidebar-title = 已同步的分頁
+synced-tabs-sidebar-noclients-subtitle = 想在這裡看到您其他裝置上開啟的分頁嗎？
+synced-tabs-sidebar-notsignedin = 登入以檢視您其他裝置中的分頁清單。
+synced-tabs-sidebar-notabs = 無已開啟的分頁
+synced-tabs-sidebar-openprefs = 開啟 { -sync-brand-short-name } 偏好設定
+synced-tabs-sidebar-tabsnotsyncing = 開啟分頁同步功能以檢視您其他裝置中的分頁清單。
+synced-tabs-context-open =
+    .label = 開啟
+    .accesskey = O
+synced-tabs-context-open-in-new-tab =
+    .label = 用新分頁開啟
+    .accesskey = w
+synced-tabs-context-open-in-new-window =
+    .label = 用新視窗開啟
+    .accesskey = N
+synced-tabs-context-open-in-new-private-window =
+    .label = 用新隱私視窗開啟
+    .accesskey = P
+synced-tabs-context-bookmark-single-tab =
+    .label = 將此分頁加入書籤…
+    .accesskey = B
+synced-tabs-context-copy =
+    .label = 複製
+    .accesskey = C
+fxa-sign-in = 登入至 { -sync-brand-short-name }
