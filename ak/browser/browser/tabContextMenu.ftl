@@ -5,6 +5,12 @@
 reload-tab =
     .label = San Lood Tab Yi
     .accesskey = S
+pin-tab =
+    .label = Tim tab
+    .accesskey = T
+unpin-tab =
+    .label = Yi tab ntim
+    .accesskey = b
 close-tab =
     .label = To Tab No Mu
     .accesskey = o
