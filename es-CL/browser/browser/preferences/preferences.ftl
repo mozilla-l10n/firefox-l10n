@@ -684,6 +684,7 @@ content-blocking-warning-title = ¡Atención!
 content-blocking-warning-desc = Bloquear cookies y rastreadores puede hacer que algunos sitios fallen. Es fácil desactivar el bloqueo para los sitios en los que confías.
 content-blocking-warning-description = Bloquear el contenido puede hacer que algunos sitios dejen de funcionar. Es fácil desactivar el bloqueo para los sitios de confianza.
 content-blocking-learn-how = Aprender cómo
+content-blocking-reload-description = Tendrás que recargar tus pestañas para aplicar estos cambios.
 content-blocking-reload-tabs-button =
     .label = Recargar todas las pestañas
     .accesskey = R
