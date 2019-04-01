@@ -5,6 +5,9 @@
 reload-tab =
     .label = Adkargañ an ivinell
     .accesskey = A
+duplicate-tab =
+    .label = Eilañ an ivinell
+    .accesskey = E
 close-tabs-to-the-end =
     .label = Serriñ an ivinelloù war an tu dehou
     .accesskey = i
