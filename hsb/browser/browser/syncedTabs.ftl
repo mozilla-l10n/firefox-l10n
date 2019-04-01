@@ -5,9 +5,13 @@
 synced-tabs-sidebar-title = Synchronizowane rajtarki
 synced-tabs-sidebar-noclients-subtitle = Chceće tu swoje rajtarki z druhich gratow widźeć?
 synced-tabs-sidebar-notsignedin = Přizjewće so, zo byšće sej lisćinu rajtarkow ze swojich druhich gratow wobhladał.
+synced-tabs-sidebar-unverified = Waše konto dyrbi so wobkrućić.
 synced-tabs-sidebar-notabs = Žane wočinjene rajtarki
 synced-tabs-sidebar-openprefs = Nastajenja { -sync-brand-short-name } wočinić
 synced-tabs-sidebar-tabsnotsyncing = Synchronizowanje rajtarkow zapinać, zo by so lisćina rajtarkow z wašich druhich gratow pokazała.
+synced-tabs-sidebar-connect-another-device = Druhi grat zwjazać
+synced-tabs-sidebar-search =
+    .placeholder = Synchronizowane rajtarki pytać
 synced-tabs-context-open =
     .label = Wočinić
     .accesskey = W
