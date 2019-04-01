@@ -5,9 +5,13 @@
 synced-tabs-sidebar-title = संकलित टैब्स
 synced-tabs-sidebar-noclients-subtitle = यहाँ अन्य डिवाइस से अपना टैब देखना चाहते हैं?
 synced-tabs-sidebar-notsignedin = टैब्स की सूची देखने के लिए अपने दूसरे उपकरणों से साइन इन करें.
+synced-tabs-sidebar-unverified = आपके खाते की पृष्टि करने की आवश्यकता है.
 synced-tabs-sidebar-notabs = कोई खुला टैब नहीं
 synced-tabs-sidebar-openprefs = खोलें { -sync-brand-short-name } वरीयताएँ
 synced-tabs-sidebar-tabsnotsyncing = टैब्स की सूची देखने हेतु अपने दुसरे उपकरणों से साइन इन करें.
+synced-tabs-sidebar-connect-another-device = अन्य उपकरण जोड़ें
+synced-tabs-sidebar-search =
+    .placeholder = सिंक किये हुए टैबों को खोजें
 synced-tabs-context-open =
     .label = खोलें
     .accesskey = O
