@@ -5,6 +5,9 @@
 reload-tab =
     .label = Tendayke myenyhẽjey
     .accesskey = R
+duplicate-tab =
+    .label = Embojoyvy Tendayke
+    .accesskey = D
 close-tabs-to-the-end =
     .label = Tendayke mboty akatúa gotyo
     .accesskey = i
