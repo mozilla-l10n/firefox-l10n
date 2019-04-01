@@ -29,3 +29,4 @@ synced-tabs-context-copy =
 synced-tabs-context-open-all-in-tabs =
     .label = ಎಲ್ಲವನ್ನೂ ಟ್ಯಾಬ್‌ಗಳಲ್ಲಿ ತೆರೆ
     .accesskey = O
+fxa-sign-in = { -sync-brand-short-name } ಗೆ ಸೈನ್-ಇನ್ ಆಗು
