@@ -5,6 +5,9 @@
 reload-tab =
     .label = टैब फेर लोड करू
     .accesskey = R
+duplicate-tab =
+    .label = नकल टैब
+    .accesskey = D
 close-tabs-to-the-end =
     .label = दहिना तरफ टैब बन्न करू
     .accesskey = i
