@@ -5,9 +5,13 @@
 synced-tabs-sidebar-title = Ximon taq ruwi'
 synced-tabs-sidebar-noclients-subtitle = ¿La nawajo' ye'atz'ët wawe' ri taq ruwi' ch'aqa' chik taq okisaxel?
 synced-tabs-sidebar-notsignedin = Tatikirisaj molojri'ïl richin nitz'et jun kicholb'al taq kiwi' juley chik taq awokisaxel.
+synced-tabs-sidebar-unverified = K'atzinel nijikib'äx ri rub'i' ataqoya'l.
 synced-tabs-sidebar-notabs = Majun ruwi' ejaqon
 synced-tabs-sidebar-openprefs = Tajin yejaq ri taq rajowab'al { -sync-brand-short-name }
 synced-tabs-sidebar-tabsnotsyncing = Tatzija' ri kiximoj taq ruwi' richin natz'ët kicholajem taq ruwi' pa ch'aqa' chik taq okisaxel.
+synced-tabs-sidebar-connect-another-device = Tokisäx Jun Chik Okisaxel
+synced-tabs-sidebar-search =
+    .placeholder = Kekanöx ri taq ruwi' eximon
 synced-tabs-context-open =
     .label = Tijaq
     .accesskey = a
