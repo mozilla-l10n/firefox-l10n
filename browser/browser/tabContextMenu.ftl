@@ -2,6 +2,21 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+reload-tab =
+    .label = ટૅબને પુન:લોડ કરો
+    .accesskey = R
+duplicate-tab =
+    .label = નકલી ટેબ
+    .accesskey = D
+close-tabs-to-the-end =
+    .label = જમણેથી ટૅબ્સ બંધ કરો
+    .accesskey = i
+close-other-tabs =
+    .label = બીજા ટૅબ્સને બંધ કરો
+    .accesskey = o
+pin-tab =
+    .label = ટૅબને જોડો
+    .accesskey = P
 unpin-tab =
     .label = ટૅબ છોડો
     .accesskey = b
