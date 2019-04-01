@@ -5,6 +5,9 @@
 reload-tab =
     .label = Endurnýja flipa
     .accesskey = r
+duplicate-tab =
+    .label = Afrita flipa
+    .accesskey = A
 close-tabs-to-the-end =
     .label = Loka flipum til hægri
     .accesskey = i
