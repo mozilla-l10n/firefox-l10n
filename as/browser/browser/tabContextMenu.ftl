@@ -5,6 +5,9 @@
 reload-tab =
     .label = টেব পুনৰ ল'ড কৰক
     .accesskey = R
+close-tabs-to-the-end =
+    .label = সোঁফালৰ টেবসমূহক বন্ধ কৰক
+    .accesskey = i
 pin-tab =
     .label = টেব পিন কৰক
     .accesskey = P
