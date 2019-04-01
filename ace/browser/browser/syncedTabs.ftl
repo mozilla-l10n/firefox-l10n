@@ -9,4 +9,7 @@ synced-tabs-context-open =
 synced-tabs-context-open-in-new-tab =
     .label = Peuhah lam Tab Barô
     .accesskey = w
+synced-tabs-context-copy =
+    .label = Salèn
+    .accesskey = C
 fxa-sign-in = Tamöng u { -sync-brand-short-name }
