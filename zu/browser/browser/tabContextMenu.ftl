@@ -1,0 +1,13 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+reload-tab =
+    .label = Layisha Isigqebhe Futhi
+    .accesskey = L
+move-to-new-window =
+    .label = Hambisa kuwindi elisha
+    .accesskey = k
+close-tab =
+    .label = Vala Isigqebhe
+    .accesskey = V
