@@ -5,6 +5,15 @@
 reload-tab =
     .label = Pakia tena Kichupo
     .accesskey = P
+close-tabs-to-the-end =
+    .label = Funga Vichupo upande wa Kulia
+    .accesskey = i
+pin-tab =
+    .label = Pini Kichupo
+    .accesskey = P
+unpin-tab =
+    .label = Banua Kichupo
+    .accesskey = c
 move-to-new-window =
     .label = Hamisha kwa Dirisha Mpya
     .accesskey = M
