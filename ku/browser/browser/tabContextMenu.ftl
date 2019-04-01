@@ -5,6 +5,15 @@
 reload-tab =
     .label = Hilpekînê ji nû ve bar bike
     .accesskey = n
+close-tabs-to-the-end =
+    .label = Hilpekînên hêla rastê bigire
+    .accesskey = a
+pin-tab =
+    .label = Hilpekînê sabît bike
+    .accesskey = H
+unpin-tab =
+    .label = Hilpekînê nesabît bike
+    .accesskey = i
 move-to-new-window =
     .label = Biguheze pencereyeke din
     .accesskey = B
