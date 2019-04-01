@@ -5,9 +5,13 @@
 synced-tabs-sidebar-title = Сінхранізаваныя карткі
 synced-tabs-sidebar-noclients-subtitle = Хочаце пабачыць вашы карткі з іншых прылад тут?
 synced-tabs-sidebar-notsignedin = Увайдзіце, каб бачыць спіс картак з вашых астатніх прылад.
+synced-tabs-sidebar-unverified = Ваш уліковы запіс патрабуе пацвярджэння.
 synced-tabs-sidebar-notabs = Няма адкрытых картак
 synced-tabs-sidebar-openprefs = Адкрыць { -sync-brand-short-name } Налады
 synced-tabs-sidebar-tabsnotsyncing = Уключыце сінхранізацыю картак, каб бачыць спіс картак з вашых іншых прылад.
+synced-tabs-sidebar-connect-another-device = Злучыць іншую прыладу
+synced-tabs-sidebar-search =
+    .placeholder = Шукаць у сінхранізаваных картках
 synced-tabs-context-open =
     .label = Адкрыць
     .accesskey = Ў
