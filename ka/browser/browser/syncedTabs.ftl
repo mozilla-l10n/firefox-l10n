@@ -2,11 +2,16 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+synced-tabs-sidebar-title = დასინქრონებული ჩანართები
 synced-tabs-sidebar-noclients-subtitle = გსურთ სხვა მოწყობილობების ჩანართების აქ ნახვა?
 synced-tabs-sidebar-notsignedin = შედით თქვენი სხვა მოწყობილობებიდან ჩანართების სიის სანახავად.
+synced-tabs-sidebar-unverified = თქვენი ანგარიში საჭიროებს დამოწმებას.
 synced-tabs-sidebar-notabs = გახსნილი ჩანართები არაა
 synced-tabs-sidebar-openprefs = { -sync-brand-short-name } მითითებების გახსნა
 synced-tabs-sidebar-tabsnotsyncing = ჩართეთ ჩანართების სინქრონიზაცია თქვენი სხვა მოწყობილობებიდან ჩანართების სიის სანახავად.
+synced-tabs-sidebar-connect-another-device = სხვა მოწყობილობის დაკავშირება
+synced-tabs-sidebar-search =
+    .placeholder = დასინქრონებული ჩანართების მოძიება
 synced-tabs-context-open =
     .label = გახსნა
     .accesskey = გ
@@ -19,3 +24,13 @@ synced-tabs-context-open-in-new-window =
 synced-tabs-context-open-in-new-private-window =
     .label = გახსნა ახალ პირად ფანჯარაში
     .accesskey = პ
+synced-tabs-context-bookmark-single-tab =
+    .label = ჩანართის ჩანიშვნა…
+    .accesskey = ჩ
+synced-tabs-context-open-all-in-tabs =
+    .label = ყველას ჩანართებში გახსნა
+    .accesskey = ყ
+synced-tabs-context-manage-devices =
+    .label = მოწყობილობების მართვა…
+    .accesskey = მ
+fxa-sign-in = { -sync-brand-short-name } – შესვლა
