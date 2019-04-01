@@ -4,4 +4,7 @@
 
 synced-tabs-sidebar-title = Pestañas sincronizadas
 synced-tabs-sidebar-notabs = No hay pestañas abiertas
+synced-tabs-context-bookmark-single-tab =
+    .label = Guardar esta pestaña en marcadores…
+    .accesskey = B
 fxa-sign-in = Conectarse a { -sync-brand-short-name }
