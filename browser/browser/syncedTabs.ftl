@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+synced-tabs-sidebar-title = Lapelas sincronizadas
 synced-tabs-sidebar-noclients-subtitle = Quere ver aquí as lapelas dos outros dispositivos?
 synced-tabs-sidebar-notsignedin = Acceda para ver unha lista de lapelas dos outros dispositivos.
 synced-tabs-sidebar-unverified = Necesita comprobar a súa conta.
