@@ -14,7 +14,7 @@ sync-disconnect-remove-other-data = Çərəzlər, keş, oflayn sayt məlumatlar�
 sync-disconnect-disconnecting = Bağlantı kəsilir…
 sync-disconnect-cancel =
     .label = Ləğv et
-    .accesskey = C
+    .accesskey = L
 
 ## Disconnect confirm Button
 ##
