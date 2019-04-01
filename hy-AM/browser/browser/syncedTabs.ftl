@@ -5,9 +5,13 @@
 synced-tabs-sidebar-title = Համաժամեցված ներդիրներ
 synced-tabs-sidebar-noclients-subtitle = Ցանկանու՞մ եք տեսնել ձեր այլ սարքերի ներդիրները:
 synced-tabs-sidebar-notsignedin = Մուտք գործե՛ք՝ տեսնելու Ձեր այլ սարքերից ավելացրած ներդիրների ցանկը։
+synced-tabs-sidebar-unverified = Ձեր հաշիվը պետք է ստուգվի:
 synced-tabs-sidebar-notabs = Չկան բաց ներդիրներ
 synced-tabs-sidebar-openprefs = Բացել { -sync-brand-short-name }-ի կարգավորումները
 synced-tabs-sidebar-tabsnotsyncing = Միացրեք ներդիրների համաժամեցումը՝ տեսնելու Ձեր այլ սարքերից ավելացրած ներդիրների ցանկը։
+synced-tabs-sidebar-connect-another-device = Կապակցվել այլ սարքի
+synced-tabs-sidebar-search =
+    .placeholder = Որոնել համաժամեցված ներդիրներ
 synced-tabs-context-open =
     .label = Բացել
     .accesskey = Բ
