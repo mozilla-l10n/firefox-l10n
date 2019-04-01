@@ -4,9 +4,13 @@
 
 synced-tabs-sidebar-title = Onglets sincronizats
 synced-tabs-sidebar-notsignedin = Connectaz-vos per afichar la lista dels onglets dels vòstres autres periferics.
+synced-tabs-sidebar-unverified = Vos cal verificar vòstre compte.
 synced-tabs-sidebar-notabs = Pas cap d’onglet dobèrt
 synced-tabs-sidebar-openprefs = Dobrir las preferénciias del { -sync-brand-short-name }
 synced-tabs-sidebar-tabsnotsyncing = Activatz la sincronizacion dels onglets per afichar la lista dels onglets dels vòstres autres periferics.
+synced-tabs-sidebar-connect-another-device = Connectar un autre periferic
+synced-tabs-sidebar-search =
+    .placeholder = Cercar dins los onglets sincronizats
 synced-tabs-context-open =
     .label = Dobrir
     .accesskey = D
