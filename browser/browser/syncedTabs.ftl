@@ -2,8 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+synced-tabs-sidebar-title = Feuggi scincronizæ
 synced-tabs-sidebar-noclients-subtitle = Comme pòsso amiâ in sta sescion i feuggi da atri dipoxitivi?
 synced-tabs-sidebar-notsignedin = Acedi pe amiâ un elenco di feuggi averti inti atri dispoxitivi.
+synced-tabs-sidebar-unverified = O teu conto o deve ese verificou.
 synced-tabs-sidebar-notabs = Nisciun feuggio averto
 synced-tabs-sidebar-openprefs = Arvi e inpostaçioin de { -sync-brand-short-name }
 synced-tabs-sidebar-tabsnotsyncing = Ativa a scincronizaçioin di feuggi pe vedde i feuggi che son inti atri dispoxitivi.
@@ -31,4 +33,7 @@ synced-tabs-context-copy =
 synced-tabs-context-open-all-in-tabs =
     .label = Arvi tutti i feuggi
     .accesskey = A
+synced-tabs-context-manage-devices =
+    .label = Gestisci dispoxitivi…
+    .accesskey = D
 fxa-sign-in = Acedi a { -sync-brand-short-name }
