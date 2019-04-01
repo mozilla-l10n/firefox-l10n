@@ -5,6 +5,12 @@
 duplicate-tab =
     .label = Sleg iccer
     .accesskey = N
+close-tabs-to-the-end =
+    .label = Mdel accaren n uyeffus
+    .accesskey = M
+close-other-tabs =
+    .label = Mdel accaren-nniḍen
+    .accesskey = M
 pin-tab =
     .label = Rzi iccer-a
     .accesskey = Q
