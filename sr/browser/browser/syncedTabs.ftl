@@ -26,4 +26,7 @@ synced-tabs-context-bookmark-single-tab =
 synced-tabs-context-copy =
     .label = Копирај
     .accesskey = К
+synced-tabs-context-open-all-in-tabs =
+    .label = Отвори све у језичцима
+    .accesskey = ч
 fxa-sign-in = Пријави се на { -sync-brand-short-name }
