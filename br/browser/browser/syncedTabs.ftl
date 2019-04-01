@@ -5,9 +5,13 @@
 synced-tabs-sidebar-title = Ivinelloù goubredet
 synced-tabs-sidebar-noclients-subtitle = Fellout a ra deoc'h gwelout ivinelloù ho trevnadoù all amañ?
 synced-tabs-sidebar-notsignedin = Kennaskit da welet ur roll ivinelloù eus ho trevnadoù all
+synced-tabs-sidebar-unverified = Ret eo gwiriekaat ho kont.
 synced-tabs-sidebar-notabs = Ivinell digor ebet
 synced-tabs-sidebar-openprefs = Digeriñ gwellvezioù { -sync-brand-short-name }
 synced-tabs-sidebar-tabsnotsyncing = Gweredekait goubredañ an ivinelloù evit gwelout ur roll ivinelloù eus ho trevnadoù all.
+synced-tabs-sidebar-connect-another-device = Kennaskañ un trevnad all
+synced-tabs-sidebar-search =
+    .placeholder = Klask en ivinelloù goubredet
 synced-tabs-context-open =
     .label = Digeriñ
     .accesskey = D
