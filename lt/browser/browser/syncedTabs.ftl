@@ -3,8 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 synced-tabs-sidebar-title = Sinchronizuotos kortelės
+synced-tabs-sidebar-noclients-subtitle = Norite čia matyti savo korteles iš kitų įrenginių?
+synced-tabs-sidebar-notsignedin = Prisijunkite, norėdami peržiūrėti kituose įrenginiuose esančias korteles.
+synced-tabs-sidebar-unverified = Jūsų paskyra turi būti patvirtinta.
+synced-tabs-sidebar-notabs = Nėra atvirų kortelių
 synced-tabs-sidebar-openprefs = Atverti „{ -sync-brand-short-name }“ nuostatas
 synced-tabs-sidebar-tabsnotsyncing = Įjunkite kortelių sinchronizavimą, norėdami peržiūrėti kituose įrenginiuose esančias korteles.
+synced-tabs-sidebar-connect-another-device = Susieti kitą įrenginį
+synced-tabs-sidebar-search =
+    .placeholder = Ieškoti tarp sinchronizuotų kortelių
 synced-tabs-context-open =
     .label = Atverti
     .accesskey = A
