@@ -5,6 +5,9 @@
 reload-tab =
     .label = I-reload ang Tab
     .accesskey = R
+select-all-tabs =
+    .label = Piliin Lahat ng Tab
+    .accesskey = S
 duplicate-tab =
     .label = Doblehin ang Tab
     .accesskey = D
