@@ -5,6 +5,9 @@
 reload-tab =
     .label = Ανανέωση καρτέλας
     .accesskey = Α
+duplicate-tab =
+    .label = Αντιγραφή καρτέλας
+    .accesskey = Α
 close-tabs-to-the-end =
     .label = Κλείσιμο καρτελών στα δεξιά
     .accesskey = ξ
