@@ -91,6 +91,13 @@ detail-update-manual =
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = 在隐私窗口中运行
 detail-private-browsing-description2 = 允许后，扩展可在隐私浏览中获知您的在线活动。<label data-l10n-name="detail-private-browsing-learn-more">详细了解</label>
+# Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
+# cannot be overriden by the user.
+detail-private-disallowed-label = 不支持隐私窗口
+detail-private-disallowed-description = 此扩展不支持在隐私浏览窗口中运行。<label data-l10n-name="detail-private-browsing-learn-more">详细了解</label>
+# Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
+detail-private-required-label = 要求介入隐私窗口
+detail-private-required-description = 此扩展有权访问您在隐私浏览窗口中的活动情况。<label data-l10n-name="detail-private-browsing-learn-more">详细了解</label>
 detail-private-browsing-on =
     .label = 允许
     .tooltiptext = 在隐私浏览中启用
