@@ -33,4 +33,7 @@ synced-tabs-context-copy =
 synced-tabs-context-open-all-in-tabs =
     .label = Mở toàn bộ trong các thẻ mới
     .accesskey = O
+synced-tabs-context-manage-devices =
+    .label = Quản lý các thiết bị…
+    .accesskey = D
 fxa-sign-in = Đăng nhập vào { -sync-brand-short-name }
