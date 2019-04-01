@@ -5,6 +5,9 @@
 reload-tab =
     .label = ट्याब पुनः लोड गर्नुहोस्
     .accesskey = R
+duplicate-tab =
+    .label = नक्कली ट्याब
+    .accesskey = D
 close-tabs-to-the-end =
     .label = दाँयातिरका ट्याबहरू बन्द गर्नुहोस्
     .accesskey = i
