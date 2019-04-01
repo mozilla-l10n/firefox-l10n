@@ -31,4 +31,7 @@ synced-tabs-context-copy =
 synced-tabs-context-open-all-in-tabs =
     .label = Abrir todo en pestañas
     .accesskey = o
+synced-tabs-context-manage-devices =
+    .label = Administre dispositivos...
+    .accesskey = D
 fxa-sign-in = Ingresar a { -sync-brand-short-name }
