@@ -44,10 +44,12 @@ app-basics-memory-use = Daj nikó nichrá ma
 app-basics-performance = Performance
 app-basics-service-workers = Nej sa ma sa' Service Workers
 app-basics-profiles = Sa a'min rayi'i'
+app-basics-launcher-process-status = Hìaj 'iaj yugui da' ga'nïn
 app-basics-multi-process-support = Ga'i ventana 'iaj sun
 app-basics-process-count = Sa ma riña Web
 app-basics-enterprise-policies = Nuguan' nikaj nej emprêsa
-app-basics-key-google = Si da'nga' Google
+app-basics-location-service-key-google = Da'nga' nikaj sa narì' Google
+app-basics-safebrowsing-key-google = Da'nga narì' si'iaj Google
 app-basics-key-mozilla = Mozilla Location Service Key
 app-basics-safe-mode = Hua ran yi'í man
 show-dir-label =
@@ -173,6 +175,8 @@ hardware-h264 = Hardware H264 Decoding
 main-thread-no-omtc = sa ña'anj, doj OMTC
 yes = Ga'ue
 no = Si ga'ue
+unknown = Sê sa ni'în' huin
+virtual-monitor-disp = Si pantayê monitor birtual
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
@@ -180,6 +184,8 @@ no = Si ga'ue
 
 found = Nari' raj
 missing = Ña guchi'
+gpu-process-pid = GPUProcessPid
+gpu-process = GPUProcess
 gpu-description = Daj huaj
 gpu-vendor-id = ID de Vendor
 gpu-device-id = ID nikaj ñu'unj aga' na
@@ -212,11 +218,14 @@ d3d9video-crash-buard = D3D11 Sa Ni'io'
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Nayi'i' Ne'ña an Doj
 gpu-process-kill-button = Ganahuij 'iaj sun GPU
+gpu-device-reset = Nagi'iaj aga' nan
 gpu-device-reset-button = Ganayi'ì ñun aga' dan
 uses-tiling = Garasun Tiling
 content-uses-tiling = Garasun Tiling (Sa nika)
 off-main-thread-paint-enabled = Hua habilitado ne'e tàj ñaan
 off-main-thread-paint-worker-count = Nitaj ne' rà guendâ pinturâ Konde
+low-end-machine = Ûta naj 'iaj sun aga' nan
+target-frame-rate = Dàj hìo 'iaj sun aga' nan
 audio-backend = Sa guni' Backend
 max-audio-channels = Kanal Max
 channel-layout = Nej kanal nihia' doj ruhuât hua
@@ -234,6 +243,11 @@ effective-content-sandbox-level = Dukuán hue’ê doj nun proceso contenido
 sandbox-proc-type-content = sa ma
 sandbox-proc-type-file = sa nikaj archîbo
 sandbox-proc-type-media-plugin = plugin 'iaj sun nga sa ni'io'
+sandbox-proc-type-data-decoder = Sa 'iaj dekodifikandô nej dâto
+launcher-process-status-0 = Ngà 'iaj sunj
+launcher-process-status-1 = Gire'ej ni nitaj si ni'ñan
+launcher-process-status-2 = Gire'ej niñan man
+launcher-process-status-unknown = Nuni'in nuin saj
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
