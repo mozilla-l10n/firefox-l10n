@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 synced-tabs-sidebar-title = Onglets sincronizats
+synced-tabs-sidebar-noclients-subtitle = Volètz afichar los onglets dels vòstres autres periferics aquí ?
 synced-tabs-sidebar-notsignedin = Connectaz-vos per afichar la lista dels onglets dels vòstres autres periferics.
 synced-tabs-sidebar-unverified = Vos cal verificar vòstre compte.
 synced-tabs-sidebar-notabs = Pas cap d’onglet dobèrt
@@ -20,6 +21,9 @@ synced-tabs-context-open-in-new-tab =
 synced-tabs-context-open-in-new-window =
     .label = Dobrir lo ligam dins una fenèstra novèla
     .accesskey = o
+synced-tabs-context-open-in-new-private-window =
+    .label = Dobrir lo ligam dins una fenèstra de navegacion privada
+    .accesskey = n
 synced-tabs-context-bookmark-single-tab =
     .label = Apondre aqueste pagina als marcapaginas…
     .accesskey = m
