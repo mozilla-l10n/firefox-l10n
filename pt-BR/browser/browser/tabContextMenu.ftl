@@ -5,6 +5,9 @@
 reload-tab =
     .label = Recarregar aba
     .accesskey = R
+close-tabs-to-the-end =
+    .label = Fechar abas à direita
+    .accesskey = i
 close-other-tabs =
     .label = Fechar as outras abas
     .accesskey = o
