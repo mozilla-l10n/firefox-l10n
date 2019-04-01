@@ -5,9 +5,11 @@
 synced-tabs-sidebar-title = زبانه‌های همگام شده
 synced-tabs-sidebar-noclients-subtitle = مایلید زبانه‌های خود را از سایر دستگاه‌ها اینجا ببینید؟
 synced-tabs-sidebar-notsignedin = برای نمایش فهرست زبانه‌ها از دستگاه‌های دیگر وارد شوید.
+synced-tabs-sidebar-unverified = حساب‌کاربری شما باید تایید شود.
 synced-tabs-sidebar-notabs = بدون زبانهٔ باز
 synced-tabs-sidebar-openprefs = باز کردن ترجیحات { -sync-brand-short-name }
 synced-tabs-sidebar-tabsnotsyncing = همگام‌سازی زبانه‌ها را برای نمایش فهرست زبانه‌ها در دستگاه‌های دیگر خود روشن کنید.
+synced-tabs-sidebar-connect-another-device = اتصال به دستگاه دیگر
 synced-tabs-context-open =
     .label = باز کردن‌
     .accesskey = ب
