@@ -5,6 +5,12 @@
 reload-tab =
     .label = Layisha Isigqebhe Futhi
     .accesskey = L
+pin-tab =
+    .label = Phina ithebhu
+    .accesskey = P
+unpin-tab =
+    .label = Khipha ithebhu
+    .accesskey = b
 move-to-new-window =
     .label = Hambisa kuwindi elisha
     .accesskey = k
