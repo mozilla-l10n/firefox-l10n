@@ -3,23 +3,23 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 reload-tab =
-    .label = टैब लादे दोहड़ा (R)
+    .label = टैब लादे दोहड़ा
     .accesskey = R
 close-tabs-to-the-end =
-    .label = जोजोम सेत् टैब को बोनदोय में (i){ " " }
+    .label = जोजोम सेत् टैब को बोनदोय में
     .accesskey = i
 close-other-tabs =
-    .label = (एटाक् टैब को बोनदोय में (o) .
+    .label = (एटाक् टैब को बोनदोय में.
     .accesskey = o
 pin-tab =
-    .label = टैब पिन मे (P)
+    .label = टैब पिन मे
     .accesskey = P
 unpin-tab =
-    .label = टैब खोन पिन ओचोग(b)
+    .label = टैब खोन पिन ओचोग
     .accesskey = b
 move-to-new-window =
-    .label = नावा विंडो रे चालाव(W){ " " }
+    .label = नावा विंडो रे चालाव
     .accesskey = W
 close-tab =
-    .label = { "  " }टैव बोनदोय मे (C)
+    .label = टैव बोनदोय मे
     .accesskey = C
