@@ -5,6 +5,9 @@
 reload-tab =
     .label = Layisha Isigqebhe Futhi
     .accesskey = L
+close-tabs-to-the-end =
+    .label = Vala amaThebhu Kwesokuhla
+    .accesskey = s
 pin-tab =
     .label = Phina ithebhu
     .accesskey = P
