@@ -5,6 +5,9 @@
 reload-tab =
     .label = Phinda ulayishe ithebhu
     .accesskey = P
+close-tabs-to-the-end =
+    .label = Vala iithebhu ngaseKunene
+    .accesskey = n
 pin-tab =
     .label = Qhobosha iithebhu
     .accesskey = Q
