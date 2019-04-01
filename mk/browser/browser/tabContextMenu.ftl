@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+reload-tab =
+    .label = Превчитај јазиче
+    .accesskey = р
 close-tabs-to-the-end =
     .label = Затвори јазичиња на десно
     .accesskey = З
