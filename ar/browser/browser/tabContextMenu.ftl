@@ -5,6 +5,9 @@
 reload-tab =
     .label = أعِد تحميل اللسان
     .accesskey = ح
+close-tabs-to-the-end =
+    .label = أغلق الألسنة على اليسار
+    .accesskey = س
 close-other-tabs =
     .label = أغلق الألسنة الأخرى
     .accesskey = خ
