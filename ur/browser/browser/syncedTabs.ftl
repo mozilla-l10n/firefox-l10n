@@ -5,10 +5,14 @@
 synced-tabs-sidebar-title = ہمہ وقت ساز ٹیب
 synced-tabs-sidebar-noclients-subtitle = اپنے ٹیب کو دوسرے آلات سے یہاں سے دیکھنا پسند کریں گے؟
 synced-tabs-sidebar-notsignedin = ٹیبیں کی فہرست دیکھنیں کے لئے اپنے دیگر آلات سے سائن ان کریں۔
+synced-tabs-sidebar-unverified = آپ کے اکائونٹ کو توژیک کاری کی ظرورت ہے۔
 synced-tabs-sidebar-notabs = کوئی کھلے ٹیب نہیں
 synced-tabs-sidebar-openprefs = { -sync-brand-short-name } ترجیحات کھولیں
 synced-tabs-sidebar-tabsnotsyncing = اپنے دیگر آلات پر ٹیب کی فہرست دیکھنے کے لئے ٹیب ہم سازی آن کر دیں۔
 synced-tabs-sidebar-connect-another-device = اہک اور آلہ جوڑیں
 synced-tabs-sidebar-search =
     .placeholder = ہمہ وقت ساز ٹیبز تلاش کریں
+synced-tabs-context-manage-devices =
+    .label = آلات کا انتظام کریں…
+    .accesskey = D
 fxa-sign-in = { -sync-brand-short-name } سائن ان کریں
