@@ -5,9 +5,11 @@
 synced-tabs-sidebar-title = 동기화한 탭
 synced-tabs-sidebar-noclients-subtitle = 다른 기기에서도 여기에서 열린 탭을 사용하시겠습니까?
 synced-tabs-sidebar-notsignedin = 다른 기기의 탭 목록을 보기 위해서 로그인 하세요.
+synced-tabs-sidebar-unverified = 계정 확인이 필요합니다.
 synced-tabs-sidebar-notabs = 열린 탭이 없음
 synced-tabs-sidebar-openprefs = { -sync-brand-short-name } 설정 열기
 synced-tabs-sidebar-tabsnotsyncing = 다른 기기의 탭 목록을 보려면 탭 동기화를 켜십시오.
+synced-tabs-sidebar-connect-another-device = 다른 기기 연결
 synced-tabs-sidebar-search =
     .placeholder = 동기화된 탭 검색
 synced-tabs-context-open =
