@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+reload-tab =
+    .label = Laadi kaart uuesti
+    .accesskey = i
 select-all-tabs =
     .label = Vali kõik kaardid
     .accesskey = k
@@ -11,9 +14,21 @@ duplicate-tab =
 duplicate-tabs =
     .label = Klooni kaart
     .accesskey = o
+close-tabs-to-the-end =
+    .label = Sulge paremale jäävad kaardid
+    .accesskey = u
+close-other-tabs =
+    .label = Sulge teised kaardid
+    .accesskey = t
 reload-tabs =
     .label = Laadi kaardid uuesti
     .accesskey = L
+pin-tab =
+    .label = Tee püsikaardiks
+    .accesskey = e
+unpin-tab =
+    .label = Tee tavakaardiks
+    .accesskey = d
 pin-selected-tabs =
     .label = Tee püsikaartideks
     .accesskey = p
@@ -35,6 +50,15 @@ move-to-start =
 move-to-end =
     .label = Liiguta lõppu
     .accesskey = p
+move-to-new-window =
+    .label = Liiguta uude aknasse
+    .accesskey = k
+undo-close-tab =
+    .label = Võta kaardi sulgemine tagasi
+    .accesskey = g
+close-tab =
+    .label = Sulge kaart
+    .accesskey = S
 close-tabs =
     .label = Sulge kaardid
     .accesskey = S
