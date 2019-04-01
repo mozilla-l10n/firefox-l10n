@@ -20,3 +20,6 @@ move-to-new-window =
 undo-close-tab =
     .label = Buksang Muli ang Isinarang Tab
     .accesskey = U
+close-tab =
+    .label = Isara ang Tab
+    .accesskey = c
