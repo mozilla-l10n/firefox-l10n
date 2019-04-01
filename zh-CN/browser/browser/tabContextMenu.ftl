@@ -5,6 +5,9 @@
 reload-tab =
     .label = 重新载入标签页
     .accesskey = R
+duplicate-tab =
+    .label = 克隆标签页
+    .accesskey = D
 close-tabs-to-the-end =
     .label = 关闭右侧标签页
     .accesskey = i
