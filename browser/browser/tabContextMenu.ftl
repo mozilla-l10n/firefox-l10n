@@ -5,6 +5,9 @@
 reload-tab =
     .label = Hesɗitin Tabbere
     .accesskey = H
+duplicate-tab =
+    .label = Tummbito Tabbere
+    .accesskey = T
 close-tabs-to-the-end =
     .label = Uddu tabbe to bannge Ñaamo
     .accesskey = a
