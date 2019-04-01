@@ -5,6 +5,9 @@
 reload-tab =
     .label = Recarega feuggio
     .accesskey = R
+close-tabs-to-the-end =
+    .label = Særa i feuggi a drita
+    .accesskey = d
 close-other-tabs =
     .label = Særa atri feuggi
     .accesskey = S
