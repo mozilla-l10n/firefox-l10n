@@ -5,9 +5,13 @@
 synced-tabs-sidebar-title = Pestanyas sincronizadas
 synced-tabs-sidebar-noclients-subtitle = Quiere veyer aquí las pestanyas d'os atros dispositivos?
 synced-tabs-sidebar-notsignedin = Iniciar la sesión pa veyer una lista d'as pestanyas d'os atros dispositivos.
+synced-tabs-sidebar-unverified = Fa falta verificar lo tuyo conto.
 synced-tabs-sidebar-notabs = No i hai garra pestanya ubierta
 synced-tabs-sidebar-openprefs = Ubrir las preferencias d'o { -sync-brand-short-name }
 synced-tabs-sidebar-tabsnotsyncing = Activar la sincronización de pestanyas pa veyer una lista de pestanyas dende los atros dispositivos.
+synced-tabs-sidebar-connect-another-device = Connectar belatro dispositivo
+synced-tabs-sidebar-search =
+    .placeholder = Mirar pestanyas sincronizadas
 synced-tabs-context-open =
     .label = Ubrir
     .accesskey = U
