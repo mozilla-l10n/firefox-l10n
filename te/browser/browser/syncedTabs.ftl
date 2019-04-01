@@ -36,3 +36,4 @@ synced-tabs-context-open-all-in-tabs =
 synced-tabs-context-manage-devices =
     .label = పరికరాలను నిర్వహించండి…
     .accesskey = D
+fxa-sign-in = { -sync-brand-short-name } లోకి ప్రవేశించండి
