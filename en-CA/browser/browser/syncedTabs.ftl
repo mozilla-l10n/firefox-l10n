@@ -8,6 +8,7 @@ synced-tabs-sidebar-notsignedin = Sign in to view a list of tabs from your other
 synced-tabs-sidebar-unverified = Your account needs to be verified.
 synced-tabs-sidebar-notabs = No open tabs
 synced-tabs-sidebar-openprefs = Open { -sync-brand-short-name } Preferences
+synced-tabs-sidebar-tabsnotsyncing = Turn on tab synchronization to view a list of tabs from your other devices.
 synced-tabs-sidebar-connect-another-device = Connect Another Device
 synced-tabs-context-open =
     .label = Open
