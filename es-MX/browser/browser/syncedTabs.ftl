@@ -7,4 +7,7 @@ synced-tabs-sidebar-notsignedin = Inicia sesión para ver una lista de pestañas
 synced-tabs-sidebar-notabs = No hay pestañas abiertas
 synced-tabs-sidebar-openprefs = Abriendo preferencias de { -sync-brand-short-name }
 synced-tabs-sidebar-tabsnotsyncing = Activa la sincronización de pestañas para ver una lista de pestañas desde tus otros dispositivos.
+synced-tabs-context-bookmark-single-tab =
+    .label = Agregar esta pestaña a marcadores…
+    .accesskey = A
 fxa-sign-in = Iniciar sesión con { -sync-brand-short-name }
