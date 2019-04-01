@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+close-other-tabs =
+    .label = Tampar los autres onglets
+    .accesskey = t
 move-to-new-window =
     .label = Desplaçar cap a una fenèstra novèla
     .accesskey = n
