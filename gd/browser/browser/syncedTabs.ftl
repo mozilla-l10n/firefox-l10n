@@ -5,9 +5,13 @@
 synced-tabs-sidebar-title = Tabaichean sioncronaichte
 synced-tabs-sidebar-noclients-subtitle = A bheil thu airson na tabaichean a tha agad air uidheaman eile fhaicinn an-seo?
 synced-tabs-sidebar-notsignedin = Clàraich a-steach airson liosta de thabaichean a tha agad air uidheaman eile.
+synced-tabs-sidebar-unverified = Tha an cunntas agad feumach air dearbhadh.
 synced-tabs-sidebar-notabs = Chan eil taba fosgailte
 synced-tabs-sidebar-openprefs = Fosgail roghainnean { -sync-brand-short-name }
 synced-tabs-sidebar-tabsnotsyncing = Cuir air sioncronachadh nan tabaichean airson cothrom fhaighinn air na tabaichean agad o uidheaman eile.
+synced-tabs-sidebar-connect-another-device = Ceangail uidheam eile ris
+synced-tabs-sidebar-search =
+    .placeholder = Lorg am measg nan tabaichean sioncronaichte
 synced-tabs-context-open =
     .label = Fosgail
     .accesskey = o
