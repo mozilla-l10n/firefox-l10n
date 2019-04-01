@@ -5,6 +5,15 @@
 reload-tab =
     .label = Herlaai oortjie
     .accesskey = H
+close-tabs-to-the-end =
+    .label = Sluit oortjies wat regs lê
+    .accesskey = e
+pin-tab =
+    .label = Sluit oortjie vas
+    .accesskey = S
+unpin-tab =
+    .label = Trek oortjie los
+    .accesskey = t
 move-to-new-window =
     .label = Skuif na nuwe venster
     .accesskey = v
