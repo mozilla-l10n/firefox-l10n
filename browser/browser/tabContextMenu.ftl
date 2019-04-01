@@ -5,6 +5,9 @@
 reload-tab =
     .label = Reîncarcă fila
     .accesskey = R
+duplicate-tab =
+    .label = Duplică fila
+    .accesskey = D
 close-tabs-to-the-end =
     .label = Închide filele de la dreapta
     .accesskey = i
