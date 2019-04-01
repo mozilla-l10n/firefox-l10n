@@ -5,6 +5,9 @@
 reload-tab =
     .label = Osvježi karticu
     .accesskey = v
+duplicate-tab =
+    .label = Dupliciraj karticu
+    .accesskey = D
 close-tabs-to-the-end =
     .label = Zatvori kartice na desno
     .accesskey = i
