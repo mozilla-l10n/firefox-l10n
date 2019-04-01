@@ -31,4 +31,7 @@ synced-tabs-context-copy =
 synced-tabs-context-open-all-in-tabs =
     .label = Agor Popeth mewn Tabiau
     .accesskey = A
+synced-tabs-context-manage-devices =
+    .label = Rheoli Dyfeisiadau…
+    .accesskey = D
 fxa-sign-in = Mewngofnodi i { -sync-brand-short-name }
