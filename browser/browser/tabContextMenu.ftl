@@ -23,3 +23,6 @@ move-to-new-window =
 undo-close-tab =
     .label = টেব বন্ধ কৰা বাতিল কৰক
     .accesskey = U
+close-tab =
+    .label = টেব বন্ধ কৰক
+    .accesskey = C
