@@ -5,6 +5,9 @@
 reload-tab =
     .label = Recargar pestaña
     .accesskey = r
+duplicate-tab =
+    .label = Duplicar pestaña
+    .accesskey = D
 close-tabs-to-the-end =
     .label = Cerrar pestañas hacia la derecha
     .accesskey = i
