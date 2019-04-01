@@ -23,3 +23,6 @@ move-to-new-window =
 undo-close-tab =
     .label = टॅब बंद करणे पूर्ववत् करा
     .accesskey = U
+close-tab =
+    .label = टॅब बंद करा
+    .accesskey = C
