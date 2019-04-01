@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 synced-tabs-sidebar-title = Karty z innych urządzeń
+synced-tabs-sidebar-noclients-subtitle = Czy wyświetlić tutaj listę kart otwartych na innych urządzeniach?
 synced-tabs-sidebar-notsignedin = Zaloguj się, aby wyświetlić listę kart z innych urządzeń.
 synced-tabs-sidebar-unverified = Konto musi zostać zweryfikowane.
 synced-tabs-sidebar-notabs = Brak otwartych kart
@@ -20,6 +21,9 @@ synced-tabs-context-open-in-new-tab =
 synced-tabs-context-open-in-new-window =
     .label = Otwórz w nowym oknie
     .accesskey = e
+synced-tabs-context-open-in-new-private-window =
+    .label = Otwórz w nowym oknie prywatnym
+    .accesskey = z
 synced-tabs-context-bookmark-single-tab =
     .label = Dodaj zakładkę do tej karty…
     .accesskey = D
