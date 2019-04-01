@@ -2,4 +2,4 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-fxa-sign-in = &sync Brand.shortName.label;रे साइन  रे.
+fxa-sign-in = { -sync-brand-short-name }रे साइन  रे.
