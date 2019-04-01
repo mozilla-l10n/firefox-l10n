@@ -5,6 +5,9 @@
 reload-tab =
     .label = Obnovi tab
     .accesskey = O
+duplicate-tab =
+    .label = Dupliciraj tab
+    .accesskey = D
 close-tabs-to-the-end =
     .label = Zatvori tabove na desno
     .accesskey = i
