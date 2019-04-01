@@ -4,8 +4,6 @@
 
 do-not-track-description = Ուղարկել կայքերին “Չհետագծել“ ազդանշանը, որ դուք չեք ցանկանում հետագծվել
 do-not-track-learn-more = Իմանալ ավելին
-do-not-track-option-default =
-    .label = Միայն Հետագծման պաշտպանությունը օգտագործելիս
 do-not-track-option-always =
     .label = Միշտ
 pref-page =
@@ -51,6 +49,7 @@ pane-sync-title = Firefox-ի Հաշիվ
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = { -brand-short-name }-ի աջակցում
+addons-button-label = Ընդլայնումներ և Ոճեր
 focus-search =
     .key = f
 close-button =
@@ -81,15 +80,15 @@ extension-controlled-homepage-override = <img data-l10n-name="icon"/> { $name } 
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
 extension-controlled-new-tab-url = <img data-l10n-name="icon"/> { $name } ընդլայնումը ղեկավարում է ձեր նոր ներդիր էջը:
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlled-web-notifications = <img data-l10n-name="icon"/>{ $name } ընդլայնումը կառավարում է այս կարգավորումը:
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
 extension-controlled-default-search = <img data-l10n-name="icon"/> { $name } ընդլայնումը կայել է ձեր հիմնական որոնիչը:
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = Ընդլայնում, <img data-l10n-name="icon"/> { $name }-ը, պահանջում է Պարունակի ներդիրներ:
-# This string is shown to notify the user that their tracking protection preferences
-# are being controlled by an extension.
-extension-controlled-websites-tracking-protection-mode = Ընդլայնում, <img data-l10n-name="icon"/> { $name }, կառավարում է հետագծման պաշտպանությունը:
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = <img data-l10n-name="icon"/> { $name } ընդլայնումը ղեկավարում է, թե ինչպես { -brand-short-name }-ը կապակցվի համացանցին:
@@ -131,6 +130,8 @@ set-as-my-default-browser =
 startup-restore-previous-session =
     .label = Վերականգնել նախորդ աշխատաշրջանը
     .accesskey = s
+startup-restore-warn-on-quit =
+    .label = Զգուշացնել ինձ դիտարկիչը փակելիս:
 disable-extension =
     .label = Անջատել ընդլայնումը
 tabs-group-header = Ներդիրներ
@@ -501,6 +502,8 @@ sync-device-name-save =
     .accesskey = պ
 sync-mobilepromo-single = Կապակցել այլ սարքի
 sync-mobilepromo-multi = Կառավարել սարքերը
+sync-manage-devices = Կառավարել սարքերը
+sync-fxa-begin-pairing = Կցել սարք
 sync-tos-link = Ծառայության պայմանները
 sync-fxa-privacy-notice = Գաղտնիության Դրույթները
 
@@ -510,7 +513,6 @@ privacy-header = Դիտարկիչի գաղտնիություն
 
 ## Privacy Section - Forms
 
-forms-header = Ձևեր և գաղտնաբառեր
 forms-ask-to-save-logins =
     .label = Հարցնել և պահպանել մուտքագրումները և գաղտնաբառրը կայքերի համար
     .accesskey = r
@@ -552,6 +554,9 @@ history-dontremember-description = { -brand-short-name }ը կօգտագործի 
 history-private-browsing-permanent =
     .label = Միշտ օգտագործել Գաղտնի Դիտարկումը
     .accesskey = Գ
+history-remember-browser-option =
+    .label = Հիշել դիտարկումները և ներբեռնումների պատմությունը
+    .accesskey = b
 history-remember-search-option =
     .label = Հիշել որոնման և ձևերի պատմությունը
     .accesskey = ձ
@@ -574,21 +579,14 @@ sitedata-total-size-calculating = Հաշվում է կայքի տվյալներ�
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Ձեր cookie-ները, կայքի տվյալները և շտեմը այժմ զբաղեցնում են { $value } { $unit } տեղ:
 sitedata-learn-more = Իմանալ ավելին
-sitedata-keep-until = Պահել մինչև՝
-    .accesskey = u
-sitedata-keep-until-expire =
-    .label = Դրանք սպառվել են
-sitedata-keep-until-closed =
-    .label = { -brand-short-name }-ը փակ է
+sitedata-option-block-trackers =
+    .label = Երրորդ կողմի հետագծիչներ
 sitedata-clear =
     .label = Մաքրել տվյալները…
     .accesskey = l
 sitedata-settings =
     .label = Կառավարել տվյալները…
     .accesskey = M
-sitedata-cookies-exceptions =
-    .label = Բացառություններ…
-    .accesskey = Բ
 
 ## Privacy Section - Address Bar
 
@@ -607,27 +605,19 @@ addressbar-suggestions-settings = Փոխել որոնիչների նախապատ
 
 ## Privacy Section - Content Blocking
 
+content-blocking-learn-more = Իմանալ ավելին
+content-blocking-learn-how = Սովորել, թե ինչպես
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+content-blocking-fingerprinters-label =
+    .label = Մատնահետքեր
+    .accesskey = F
 
 ## Privacy Section - Tracking
 
-tracking-header = Հետագծման պաշտպանություն
-tracking-desc = Հետագծման պաշտպանությունը արգելափակում է առցանց հետագծումները, որոնք հավաքում են դիտարկումների ձեր տվյալները տարբեր կայքերում: <a data-l10n-name="learn-more">Իմանալ ավելին ՀԵտագծման պաշտպանության և ձեր գաղտնիության մասին</a>
-tracking-mode-label = Օգտագործեք Հետագծման պաշտպանությունը՝ արգելափակելու հայտնի հետագծումները
-tracking-mode-always =
-    .label = Միշտ
-    .accesskey = շ
-tracking-mode-private =
-    .label = Միայն գաղտնի պատուհաններում
-    .accesskey = ա
-tracking-mode-never =
-    .label = Երբեք
-    .accesskey = Ե
-tracking-exceptions =
-    .label = Բացառություններ…
-    .accesskey = ա
-tracking-change-block-list =
-    .label = Փոխել Արգելացուցակը...
-    .accesskey = C
+tracking-manage-exceptions =
+    .label = Կառավարել ընդլայնումները...
+    .accesskey = x
 
 ## Privacy Section - Permissions
 
@@ -684,10 +674,6 @@ collection-studies-link = Դիտել { -brand-short-name }-ի հետազոտու
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Տվյալների զեկուցումը անջատված է կազմաձևի այս կառուցման համար
-collection-browser-errors =
-    .label = Թույլատրել { -brand-short-name }-ին ուղարկել դիտարկիչի սխալի զեկույցներ (այդ թվում՝ սխալի հաղորդագրությունները) { -vendor-short-name }-ին
-    .accesskey = b
-collection-browser-errors-link = Իմանալ ավելին
 collection-backlogged-crash-reports =
     .label = Թույլատրե՞լ { -brand-short-name }-ին ուղարկել հետին վթարի զեկուցներ առանց հարցնելու:
     .accesskey = c

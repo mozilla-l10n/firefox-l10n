@@ -8,8 +8,10 @@
 ### given Firefox channel". These terms are not synonymous.
 
 title = Կարևոր նորություններ
+heading = Փոփոխություններ ձեր { -brand-short-name } պրոֆիլում:
 changed-title = Ի՞նչն է փոխվել:
 resources = Ռեսուրսներ.
+sync-header = Մուտք գործեք կամ ստեղծեք { -fxaccount-brand-name }
 sync-label = Մուտքագրեք ձեր էլ. փոստը
 sync-input =
     .placeholder = Էլ. փոստ
