@@ -5,6 +5,9 @@
 reload-tab =
     .label = Превчитај јазиче
     .accesskey = р
+duplicate-tab =
+    .label = Дуплирај јазиче
+    .accesskey = Д
 close-tabs-to-the-end =
     .label = Затвори јазичиња на десно
     .accesskey = З
@@ -23,3 +26,6 @@ move-to-new-window =
 undo-close-tab =
     .label = Врати го затвореното јазиче
     .accesskey = В
+close-tab =
+    .label = Затвори јазиче
+    .accesskey = З
