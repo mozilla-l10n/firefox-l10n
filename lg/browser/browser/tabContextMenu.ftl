@@ -5,6 +5,9 @@
 reload-tab =
     .label = Ddamu otikke Awaddirira
     .accesskey = D
+unpin-tab =
+    .label = Taggululako Tabu
+    .accesskey = b
 move-to-new-window =
     .label = Teeka mu Ddirisa ppya
     .accesskey = D
