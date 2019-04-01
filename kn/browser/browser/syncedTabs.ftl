@@ -5,9 +5,11 @@
 synced-tabs-sidebar-title = ಸಿಂಕ್ ಮಾಡಿದ ಟ್ಯಾಬ್‌ಗಳು
 synced-tabs-sidebar-noclients-subtitle = ಇತರೆ ಸಾಧನಗಳಲ್ಲಿನ ನಿಮ್ಮ ಟ್ಯಾಬ್‌ಗಳನ್ನು ಇಲ್ಲಿ ನೋಡಬೇಕೆ?
 synced-tabs-sidebar-notsignedin = ನಿಮ್ಮ ಇತರೆ ಸಾಧನಗಳಲ್ಲಿನ ಟ್ಯಾಬ್‌ಗಳ ಪಟ್ಟಿಯನ್ನು ನೋಡಲು ಸೈನ್‌ ಇನ್ ಮಾಡಿ.
+synced-tabs-sidebar-unverified = ನಿಮ್ಮ ಖಾತೆಯನ್ನು ಪರಿಶೀಲಿಸಬೇಕಾಗಿದೆ.
 synced-tabs-sidebar-notabs = ಯಾವುದೆ ತೆರೆದ ಟ್ಯಾಬ್‌ಗಳಿಲ್ಲ
 synced-tabs-sidebar-openprefs = { -sync-brand-short-name } ಆದ್ಯತೆಗಳು ಅನ್ನು ತೆರೆ
 synced-tabs-sidebar-tabsnotsyncing = ನಿಮ್ಮ ಇತರೆ ಸಾಧನಗಳಿಂದ ಟ್ಯಾಬ್‌ಗಳ ಪಟ್ಟಿಯನ್ನು ನೋಡಲು ಟ್ಯಾಬ್‌ ಸಿಂಕ್ ಮಾಡುವಿಕೆಯನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ.
+synced-tabs-sidebar-connect-another-device = ಮತ್ತೊಂದು ಸಾಧನಕ್ಕೆ ಸಂಪರ್ಕವನ್ನು ಸಾಧಿಸು
 synced-tabs-sidebar-search =
     .placeholder = ಸಿಂಕ್ ಮಾಡಲಾದ ಹಾಳೆಗಳನ್ನು ಹುಡುಕಿ
 synced-tabs-context-open =
