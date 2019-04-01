@@ -12,4 +12,7 @@ synced-tabs-context-open-in-new-private-window =
 synced-tabs-context-copy =
     .label = Nɣel
     .accesskey = N
+synced-tabs-context-manage-devices =
+    .label = Sefrek ibenkan…
+    .accesskey = D
 fxa-sign-in = Qqen ɣer { -sync-brand-short-name }
