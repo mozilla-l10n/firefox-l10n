@@ -3,7 +3,29 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 synced-tabs-sidebar-title = Synkroniserte faner
+synced-tabs-sidebar-noclients-subtitle = Vil du se faner fra de andre enhetene dine her?
 synced-tabs-sidebar-notsignedin = Logg inn for å vise en liste over faner fra andre enheter.
 synced-tabs-sidebar-notabs = Ingen åpne faner
 synced-tabs-sidebar-tabsnotsyncing = Skru på fane-synkronisering for å vise en liste over faner fra dine andre enheter.
+synced-tabs-context-open =
+    .label = Åpne
+    .accesskey = p
+synced-tabs-context-open-in-new-tab =
+    .label = Åpne i ny fane
+    .accesskey = f
+synced-tabs-context-open-in-new-window =
+    .label = Åpne lenke i nytt vindu
+    .accesskey = Å
+synced-tabs-context-open-in-new-private-window =
+    .label = Åpne lenke i nytt privat vindu
+    .accesskey = p
+synced-tabs-context-bookmark-single-tab =
+    .label = Bokmerk denne fanen …
+    .accesskey = B
+synced-tabs-context-copy =
+    .label = Kopier
+    .accesskey = K
+synced-tabs-context-open-all-in-tabs =
+    .label = Åpne alle i faner
+    .accesskey = p
 fxa-sign-in = Logg inn på { -sync-brand-short-name }
