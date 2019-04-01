@@ -5,6 +5,9 @@
 reload-tab =
     .label = Recarega feuggio
     .accesskey = R
+duplicate-tab =
+    .label = Duplica Feuggio
+    .accesskey = D
 close-tabs-to-the-end =
     .label = Særa i feuggi a drita
     .accesskey = d
