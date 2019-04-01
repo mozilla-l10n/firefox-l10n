@@ -5,9 +5,13 @@
 synced-tabs-sidebar-title = Synchronizěrowane rejtarki
 synced-tabs-sidebar-noclients-subtitle = Cośo how swóje rejtarki z drugich rědow wiźeś?
 synced-tabs-sidebar-notsignedin = Pśizjawśo se, aby se lisćinu rejtarkow ze swójich drugich rědow woglědał.
+synced-tabs-sidebar-unverified = Wašo konto musy se wobkšuśiś.
 synced-tabs-sidebar-notabs = Žedne wócynjone rejtarki
 synced-tabs-sidebar-openprefs = Nastajenja { -sync-brand-short-name } wócyniś
 synced-tabs-sidebar-tabsnotsyncing = Synchronizěrowanje rejtarkow zašaltowaś, aby se lisćina rejtarkow z drugich rědow pokazała.
+synced-tabs-sidebar-connect-another-device = Drugi rěd zwězaś
+synced-tabs-sidebar-search =
+    .placeholder = Synchronizěrowane rejtarki pytaś
 synced-tabs-context-open =
     .label = Wócyniś
     .accesskey = W
