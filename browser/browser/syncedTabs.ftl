@@ -3,8 +3,16 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 synced-tabs-sidebar-title = Onglets sincronizats
+synced-tabs-sidebar-notsignedin = Connectaz-vos per afichar la lista dels onglets dels vòstres autres periferics.
 synced-tabs-sidebar-notabs = Pas cap d’onglet dobèrt
 synced-tabs-sidebar-openprefs = Dobrir las preferénciias del { -sync-brand-short-name }
+synced-tabs-sidebar-tabsnotsyncing = Activatz la sincronizacion dels onglets per afichar la lista dels onglets dels vòstres autres periferics.
+synced-tabs-context-open =
+    .label = Dobrir
+    .accesskey = D
+synced-tabs-context-open-in-new-tab =
+    .label = Dobrir dins un onglet novèl
+    .accesskey = n
 synced-tabs-context-open-in-new-window =
     .label = Dobrir lo ligam dins una fenèstra novèla
     .accesskey = o
@@ -14,4 +22,10 @@ synced-tabs-context-bookmark-single-tab =
 synced-tabs-context-copy =
     .label = Copiar
     .accesskey = C
+synced-tabs-context-open-all-in-tabs =
+    .label = Tot dobrir dins d'onglets
+    .accesskey = D
+synced-tabs-context-manage-devices =
+    .label = Gerir los periferics…
+    .accesskey = D
 fxa-sign-in = Se connectar a { -sync-brand-short-name }
