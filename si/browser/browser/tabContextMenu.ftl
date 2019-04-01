@@ -5,6 +5,9 @@
 reload-tab =
     .label = ටැබ් ප්‍රතිපූරණය කරන්න
     .accesskey = R
+duplicate-tab =
+    .label = ටැබ පිටපතක්
+    .accesskey = D
 close-tabs-to-the-end =
     .label = දකුණට ඇති ටැබ වසන්න
     .accesskey = i
