@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+reload-tab =
+    .label = Smiren iccer
+    .accesskey = M
 select-all-tabs =
     .label = Fren akk accaren
     .accesskey = M
@@ -41,6 +44,9 @@ move-to-new-window =
 undo-close-tab =
     .label = Sefsex amdal n yiccer.
     .accesskey = S
+close-tab =
+    .label = Mdel iccer
+    .accesskey = M
 close-tabs =
     .label = Mdel Iccaren
     .accesskey = M
