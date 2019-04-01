@@ -5,6 +5,9 @@
 reload-tab =
     .label = टैब फिर लोड करें
     .accesskey = R
+duplicate-tab =
+    .label = दोहरे टैब
+    .accesskey = D
 close-tabs-to-the-end =
     .label = दाहिने तरफ टैब बंद करें
     .accesskey = i
