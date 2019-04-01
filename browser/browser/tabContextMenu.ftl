@@ -5,6 +5,9 @@
 reload-tab =
     .label = टॅब पुन्हा लोड करा
     .accesskey = R
+duplicate-tab =
+    .label = प्रतिरूप टॅब
+    .accesskey = D
 close-tabs-to-the-end =
     .label = उजवीकडच्या टॅब्स बंद करा
     .accesskey = i
