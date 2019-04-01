@@ -5,8 +5,17 @@
 select-all-tabs =
     .label = Sélectionner tous les onglets
     .accesskey = S
+close-tabs-to-the-end =
+    .label = Fermer les onglets situés à droite
+    .accesskey = m
 reload-tabs =
     .label = Actualiser les onglets
+    .accesskey = R
+pin-tab =
+    .label = Épingler cet onglet
+    .accesskey = P
+unpin-tab =
+    .label = Désépingler cet onglet
     .accesskey = R
 bookmark-tab =
     .label = Ajouter l’onglet aux marque-pages
