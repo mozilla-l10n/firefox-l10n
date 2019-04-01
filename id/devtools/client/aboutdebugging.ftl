@@ -42,6 +42,10 @@ about-debugging-sidebar-item-connect-button = Sambungkan
 # Temporary text displayed in sidebar items representing remote runtimes after
 # successfully connecting to them. Temporary UI, do not localize.
 about-debugging-sidebar-item-connected-label = Tersambung
+# Text displayed in sidebar items for remote devices where a compatible browser (eg
+# Firefox) has not been detected yet. Typically, Android phones connected via USB with
+# USB debugging enabled, but where Firefox is not started.
+about-debugging-sidebar-runtime-item-waiting-for-browser = Menunggu peramban…
 # Title for runtime sidebar items that are related to a specific device (USB, WiFi).
 about-debugging-sidebar-runtime-item-name =
     .title = { $displayName } ({ $deviceName })
@@ -49,6 +53,9 @@ about-debugging-sidebar-runtime-item-name =
 # locations).
 about-debugging-sidebar-runtime-item-name-no-device =
     .title = { $displayName }
+# Text to show in the footer of the sidebar that links to a help page
+# (currently: https://developer.mozilla.org/docs/Tools/about:debugging)
+about-debugging-sidebar-support = Dukungan Pengawakutuan
 # Text displayed in a sidebar button to refresh the list of USB devices. Clicking on it
 # will attempt to update the list of devices displayed in the sidebar.
 about-debugging-refresh-usb-devices-button = Segarkan peranti
@@ -146,6 +153,16 @@ about-debugging-extension-debug-setting-label = Aktifkan pengawakutuan ekstensi.
 
 # Debug Targets strings
 
+# Displayed in the categories of "runtime" pages that don't have any debug target to
+# show. Debug targets depend on the category (extensions, tabs, workers...).
+about-debugging-debug-target-list-empty = Belum ada.
+# Text of a button displayed next to debug targets of "runtime" pages. Clicking on this
+# button will open a DevTools toolbox that will allow inspecting the target.
+# A target can be an addon, a tab, a worker...
+about-debugging-debug-target-inspect-button = Inspeksi
+# Text of a button displayed in the "This Firefox" page, in the Temporary Extension
+# section. Clicking on the button will open a file picker to load a temporary extension
+about-debugging-tmp-extension-install-button = Muat Pengaya Sementara…
 # Text displayed when trying to install a temporary extension in the "This Firefox" page.
 about-debugging-tmp-extension-install-error = Terjadi kesalahan pada saat pemasangan pengaya sementara.
 # Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
