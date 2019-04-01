@@ -7,4 +7,7 @@ synced-tabs-sidebar-notsignedin = Prihlásením sa zobrazíte zoznam kariet z va
 synced-tabs-sidebar-notabs = Žiadne otvorené karty
 synced-tabs-sidebar-openprefs = Otvoriť nastavenia služby { -sync-brand-short-name }
 synced-tabs-sidebar-tabsnotsyncing = Zapnutím synchronizácie kariet zobrazíte zoznam kariet z vašich ostatných zariadení.
+synced-tabs-context-bookmark-single-tab =
+    .label = Pridať túto kartu medzi záložky…
+    .accesskey = z
 fxa-sign-in = Prihlásiť sa k službe { -sync-brand-short-name }
