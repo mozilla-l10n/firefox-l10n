@@ -3,6 +3,16 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 url-classifier-title = Nuguan' sa nagui URL
+url-classifier-search-title = Nanà'uì'
+url-classifier-search-result-title = Sa nari'ij
+url-classifier-search-result-uri = URI: { $uri }
+url-classifier-search-result-list = Si listâ nej mêsa: { $list }
+url-classifier-search-input = URL
+url-classifier-search-error-invalid-url = Se URL huin
+url-classifier-search-error-no-features = Nitaj nej sa nana'uî't 'na'
+url-classifier-search-btn = Gayi'ì nana'uì't
+url-classifier-search-features = Dàj hua man
+url-classifier-search-listType = Yi'nïn' listâ
 url-classifier-provider-title = Sa du'uèj e
 url-classifier-provider = Sa du'uèj e
 url-classifier-provider-last-update-time = Diû rukù nahuin nakà man

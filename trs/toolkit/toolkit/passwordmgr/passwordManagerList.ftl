@@ -71,3 +71,5 @@ remove-all-shown =
 remove-all-passwords-prompt = ¿ Hua hià ruat dure' daran' da'nga huii vè'ej?
 remove-all-passwords-title = Dure' daran' da'nga huii
 no-master-password-prompt = ¿ Hua hiá ruat digan nej da'nga huii vè'ej?
+auto-fill-logins-and-passwords =
+    .label = Nagi'iaj man'an man riña ayi'ì sesiûn ni da'nga' huìi
