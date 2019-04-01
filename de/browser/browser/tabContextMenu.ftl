@@ -2,12 +2,27 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+reload-tab =
+    .label = Tab neu laden
+    .accesskey = d
 duplicate-tab =
     .label = Tab klonen
     .accesskey = k
 duplicate-tabs =
     .label = Tabs klonen
     .accesskey = k
+close-tabs-to-the-end =
+    .label = Rechte Tabs schließen
+    .accesskey = R
+close-other-tabs =
+    .label = Andere Tabs schließen
+    .accesskey = A
+pin-tab =
+    .label = Tab anheften
+    .accesskey = h
+unpin-tab =
+    .label = Tab ablösen
+    .accesskey = b
 pin-selected-tabs =
     .label = Tabs anheften
     .accesskey = h
@@ -26,3 +41,12 @@ move-to-start =
 move-to-end =
     .label = An Ende verschieben
     .accesskey = E
+move-to-new-window =
+    .label = In neues Fenster verschieben
+    .accesskey = n
+undo-close-tab =
+    .label = Geschlossenen Tab wiederherstellen
+    .accesskey = G
+close-tab =
+    .label = Tab schließen
+    .accesskey = c
