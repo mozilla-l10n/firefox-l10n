@@ -5,6 +5,9 @@
 reload-tab =
     .label = Reŝargi langeton
     .accesskey = R
+duplicate-tab =
+    .label = Duobligi langeton
+    .accesskey = D
 duplicate-tabs =
     .label = Duobligi langetojn
     .accesskey = D
