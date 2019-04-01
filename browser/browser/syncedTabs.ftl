@@ -1,0 +1,29 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+synced-tabs-sidebar-title = संकलित टैब्स
+synced-tabs-sidebar-noclients-subtitle = यहाँ अन्य डिवाइस से अपना टैब देखना चाहते हैं?
+synced-tabs-sidebar-notsignedin = टैब्स की सूची देखने के लिए अपने दूसरे उपकरणों से साइन इन करें.
+synced-tabs-sidebar-notabs = कोई खुला टैब नहीं
+synced-tabs-sidebar-openprefs = खोलें { -sync-brand-short-name } वरीयताएँ
+synced-tabs-sidebar-tabsnotsyncing = टैब्स की सूची देखने हेतु अपने दुसरे उपकरणों से साइन इन करें.
+synced-tabs-context-open =
+    .label = खोलें
+    .accesskey = O
+synced-tabs-context-open-in-new-tab =
+    .label = नए टैब में खोलें
+    .accesskey = w
+synced-tabs-context-open-in-new-window =
+    .label = नए विंडो में खोलें
+    .accesskey = N
+synced-tabs-context-open-in-new-private-window =
+    .label = नए और निजी विंडो में खोलें
+    .accesskey = P
+synced-tabs-context-open-all-in-tabs =
+    .label = सभी टैब में खोलें
+    .accesskey = O
+synced-tabs-context-manage-devices =
+    .label = उपकरणों का प्रबंधन करें…
+    .accesskey = D
+fxa-sign-in = { -sync-brand-short-name } में साइन इन करें
