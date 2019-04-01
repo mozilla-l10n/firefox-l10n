@@ -5,6 +5,12 @@
 reload-tab =
     .label = ටැබ් ප්‍රතිපූරණය කරන්න
     .accesskey = R
+unpin-tab =
+    .label = ටැබ ගලවන්න
+    .accesskey = b
 move-to-new-window =
     .label = නව කවුළුවකට යන්න
     .accesskey = W
+close-tab =
+    .label = ටැබය වසන්න
+    .accesskey = C
