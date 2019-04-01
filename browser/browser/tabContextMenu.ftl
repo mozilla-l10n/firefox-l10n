@@ -5,6 +5,9 @@
 reload-tab =
     .label = टैब फेर लोड करू
     .accesskey = R
+pin-tab =
+    .label = टैब पिन करें (P)
+    .accesskey = P
 unpin-tab =
     .label = टैबक पिन निकालू
     .accesskey = b
