@@ -5,9 +5,11 @@
 synced-tabs-sidebar-title = সিঙ্ককৃত ট্যাব
 synced-tabs-sidebar-noclients-subtitle = আপনি কি আপনার অন্যান্য ডিভাইসের ট্যাবসমূহ এখানে দেখতে চান?
 synced-tabs-sidebar-notsignedin = আপনার অন্যান্য ডিভাইসের ট্যাবের তালিকা দেখতে সাইন ইন করুন।
+synced-tabs-sidebar-unverified = আপনার অ্যাকাউন্ট যাচাই করা প্রয়োজন।
 synced-tabs-sidebar-notabs = কোন ট্যাব খোলা নেই
 synced-tabs-sidebar-openprefs = পছন্দসমূহ { -sync-brand-short-name } খুলুন
 synced-tabs-sidebar-tabsnotsyncing = আপনার অন্যান্য ডিভাইসের ট্যাবের তালিকা দেখতে, ট্যাব সিংক বৈশিষ্ট্যটি চালু করে দিন।
+synced-tabs-sidebar-connect-another-device = অন্য ডিভাইস সংযুক্ত করুন
 synced-tabs-sidebar-search =
     .placeholder = সিঙ্ক ট্যাবের খোঁজ করুন
 synced-tabs-context-open =
