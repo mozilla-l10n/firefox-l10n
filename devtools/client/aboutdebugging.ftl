@@ -93,6 +93,8 @@ about-debugging-setup-usb-updating-button = Actualizando…
 about-debugging-setup-usb-status-enabled = Habilitado
 about-debugging-setup-usb-status-disabled = Deshabilitado
 about-debugging-setup-usb-status-updating = Actualizando…
+# USB section step by step guide
+about-debugging-setup-usb-step-plug-device = Conecta el dispositivo Android a tu computador.
 # Network section of the Setup page
 about-debugging-setup-network =
     .title = Ubicación de red
@@ -143,6 +145,13 @@ about-debugging-runtime-name = { $name } ({ $version })
 # Text of a button displayed in Runtime pages for remote runtimes.
 # Clicking on the button will close the connection to the runtime.
 about-debugging-runtime-disconnect-button = Desconectar
+# Title of a modal dialog displayed on remote runtime pages after clicking on the Profile Runtime button.
+about-debugging-profiler-dialog-title = Perfilador de rendimiento
+# Label of a checkbox displayed in the runtime page for "This Firefox".
+# This checkbox will toggle preferences that enable local addon debugging.
+# The "Learn more" link points to MDN.
+# https://developer.mozilla.org/docs/Tools/about:debugging#Enabling_add-on_debugging
+about-debugging-extension-debug-setting-label = Habilitar la depuración de extensiones. <a>Aprender más</a>
 # Clicking on the header of a debug target category will expand or collapse the debug
 # target items in the category. This text is used as ’title’ attribute of the header,
 # to describe this feature.
@@ -200,6 +209,14 @@ about-debugging-worker-action-push = Push
 about-debugging-worker-action-start = Iniciar
 # This string is displayed as a label of the button that unregisters a service worker.
 about-debugging-worker-action-unregister = Desregistrar
+# Displayed for service workers in runtime pages that listen to Fetch events.
+about-debugging-worker-fetch-listening =
+    .label = Obtener
+    .value = Escuchando por eventos fetch
+# Displayed for service workers in runtime pages that do not listen to Fetch events.
+about-debugging-worker-fetch-not-listening =
+    .label = Obtener
+    .value = No escuchando por eventos fetch
 # Displayed for service workers in runtime pages that are currently running (service
 # worker instance is active).
 about-debugging-worker-status-running = Ejecutándose
@@ -217,3 +234,6 @@ about-debugging-worker-push-service =
 # Displayed as name for the Main Process debug target in the Processes category. Only for
 # remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-main-process-name = Proceso principal
+# Displayed as description for the Main Process debug target in the Processes category.
+# Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
+about-debugging-main-process-description2 = Proceso principal para el navegador de destino
