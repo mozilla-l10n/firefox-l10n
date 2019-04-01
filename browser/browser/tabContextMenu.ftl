@@ -5,6 +5,12 @@
 reload-tab =
     .label = Hlahlela thepo gape
     .accesskey = H
+pin-tab =
+    .label = Gomaretša thepo
+    .accesskey = G
+unpin-tab =
+    .label = Gomaretšolla thepo
+    .accesskey = a
 move-to-new-window =
     .label = Šuthela go lefasetere le leswa
     .accesskey = w
