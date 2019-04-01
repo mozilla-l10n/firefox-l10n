@@ -29,4 +29,7 @@ synced-tabs-context-copy =
 synced-tabs-context-open-all-in-tabs =
     .label = Buka Semua di Tab
     .accesskey = S
+synced-tabs-context-manage-devices =
+    .label = Kelola Perangkat…
+    .accesskey = D
 fxa-sign-in = Masuk ke { -sync-brand-short-name }
