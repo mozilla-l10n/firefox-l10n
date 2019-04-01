@@ -227,7 +227,7 @@ translate-exceptions =
     .label = Unntak…
     .accesskey = n
 check-user-spelling =
-    .label = Kontroller staving medan du skriv
+    .label = Kontroller stavinga mi når eg tastar
     .accesskey = K
 
 ## General Section - Files and Applications
