@@ -5,9 +5,13 @@
 synced-tabs-sidebar-title = Dirica matino ma kiribo
 synced-tabs-sidebar-noclients-subtitle = Imito neno dirica matino ni ki i nyonyo mukene kany?
 synced-tabs-sidebar-notsignedin = Dony iyie me neno nying dirica matino ki i nyonyo ni mukene.
+synced-tabs-sidebar-unverified = Myero ki mok ada pa akaunt mamegi.
 synced-tabs-sidebar-notabs = Dirica matino pe ayaba
 synced-tabs-sidebar-openprefs = Yab ter me { -sync-brand-short-name }
 synced-tabs-sidebar-tabsnotsyncing = Cak ribo dirica matidi me neno nying dirica matino ki i nyonyo ni mukene.
+synced-tabs-sidebar-connect-another-device = Kub Nyonyo Mukene
+synced-tabs-sidebar-search =
+    .placeholder = Yeny dirica matino ma ki ribo
 synced-tabs-context-open =
     .label = Yab
     .accesskey = Y
