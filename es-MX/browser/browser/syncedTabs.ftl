@@ -28,4 +28,7 @@ synced-tabs-context-bookmark-single-tab =
 synced-tabs-context-copy =
     .label = Copiar
     .accesskey = C
+synced-tabs-context-open-all-in-tabs =
+    .label = Abrir Todo en Pestañas
+    .accesskey = A
 fxa-sign-in = Iniciar sesión con { -sync-brand-short-name }
