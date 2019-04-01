@@ -5,6 +5,12 @@
 reload-tab =
     .label = Кыбытыгы саҥарт
     .accesskey = К
+close-tabs-to-the-end =
+    .label = Уҥа кыбытыктары сап
+    .accesskey = а
+pin-tab =
+    .label = Кыбытыгы туттар
+    .accesskey = К
 unpin-tab =
     .label = Кыбытыгы өһүл
     .accesskey = ы
