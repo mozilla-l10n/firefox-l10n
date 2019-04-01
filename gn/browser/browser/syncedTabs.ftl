@@ -5,9 +5,13 @@
 synced-tabs-sidebar-title = Tendayke ñembojuehepyre
 synced-tabs-sidebar-noclients-subtitle = Ehechasépa tendaykekuéra ambue mba'e'okaguáva ko'ápe
 synced-tabs-sidebar-notsignedin = Eike ehecha tendayke rysýi ambue mba'e'okapeguáva.
+synced-tabs-sidebar-unverified = Tekotevẽ oñemboaje ne mba'ete.
 synced-tabs-sidebar-notabs = Ndaipóri tendayke ijurujáva
 synced-tabs-sidebar-openprefs = Eike { -sync-brand-short-name } oguerohoryvévape
 synced-tabs-sidebar-tabsnotsyncing = Eike ehecha tendayke rysýi ambue mba'e'okapeguáva.
+synced-tabs-sidebar-connect-another-device = Embojoaju Ambue Mba'e'oka
+synced-tabs-sidebar-search =
+    .placeholder = Tendayke mbojuehepyre reka
 synced-tabs-context-open =
     .label = Ijurujáva
     .accesskey = O
