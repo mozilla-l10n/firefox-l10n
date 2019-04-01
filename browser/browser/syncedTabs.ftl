@@ -5,9 +5,11 @@
 synced-tabs-sidebar-title = Synchronizované panely
 synced-tabs-sidebar-noclients-subtitle = Chcete zde vidět vaše panely z ostatních zařízení?
 synced-tabs-sidebar-notsignedin = Pro zobrazení seznamu panelů z vašich ostatních zařízení se prosím přihlaste.
+synced-tabs-sidebar-unverified = Je potřeba ověřit váš účet.
 synced-tabs-sidebar-notabs = Žádné otevřené panely
 synced-tabs-sidebar-openprefs = Otevřít předvolby služby { -sync-brand-short-name }
 synced-tabs-sidebar-tabsnotsyncing = Zapněte synchronizaci panelů pro zobrazení seznamu panelů z vašich ostatních zařízení.
+synced-tabs-sidebar-connect-another-device = Připojit další zařízení
 synced-tabs-sidebar-search =
     .placeholder = Hledat v synchronizovaných panelech
 synced-tabs-context-open =
