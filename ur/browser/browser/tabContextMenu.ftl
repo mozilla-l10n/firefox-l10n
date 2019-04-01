@@ -5,3 +5,9 @@
 reload-tab =
     .label = ٹیب پھر لوڈ کریں
     .accesskey = R
+duplicate-tab =
+    .label = دوهرا ٹیب
+    .accesskey = D
+reopen-in-container =
+    .label = کنٹینر میں پھر کھولیں
+    .accesskey = e
