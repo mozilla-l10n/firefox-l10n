@@ -5,6 +5,9 @@
 reload-tab =
     .label = टैब फेर लोड करू
     .accesskey = R
+unpin-tab =
+    .label = टैबक पिन निकालू
+    .accesskey = b
 move-to-new-window =
     .label = नव विंडो मे घसकाउ
     .accesskey = W
