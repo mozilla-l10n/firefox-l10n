@@ -5,6 +5,12 @@
 reload-tab =
     .label = Обнови језичак
     .accesskey = О
+close-tabs-to-the-end =
+    .label = Затвори језичке удесно
+    .accesskey = д
+pin-tab =
+    .label = Закачи језичак
+    .accesskey = а
 move-to-new-window =
     .label = Премести у нови прозор
     .accesskey = н
