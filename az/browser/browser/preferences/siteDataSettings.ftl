@@ -21,10 +21,10 @@ site-data-column-last-used =
     .label = Son istifadə edilmə
 site-data-remove-selected =
     .label = Seçiləni Sil
-    .accesskey = r
+    .accesskey = S
 site-data-button-cancel =
     .label = Ləğv et
-    .accesskey = C
+    .accesskey = L
 site-data-button-save =
     .label = Dəyişiklikləri Yadda Saxla
     .accesskey = a
@@ -35,15 +35,13 @@ site-usage-pattern = { $value } { $unit }
 site-usage-persistent = { site-usage-pattern } (Daimi)
 site-data-remove-all =
     .label = Hamısını sil
-    .accesskey = e
+    .accesskey = m
 site-data-remove-shown =
     .label = Göstərilənlərin Hamısını Sil
-    .accesskey = e
+    .accesskey = G
 
 ## Removing
 
-site-data-removing-window =
-    .title = { site-data-removing-header }
 site-data-removing-dialog =
     .title = { site-data-removing-header }
     .buttonlabelaccept = Sil

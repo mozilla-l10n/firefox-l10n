@@ -64,6 +64,8 @@ but will never be visible at the same time. -->
 These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  bookmarkSelectedTabs.accesskey     "k">
 
+<!-- Tab context menu -->
+
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
@@ -108,7 +110,6 @@ These items have the same accesskey but will never be visible at the same time. 
 <!ENTITY  hiddenTabs.label                   "Gizli Vərəqlər">
 
 <!ENTITY  listAllTabs.label      "Bütün vərəqləri siyahıla">
-
 <!-- LOCALIZATION NOTE (allTabsMenu.searchTabs.label): "Search" is a verb, as
 in "Search through tabs". -->
 <!ENTITY  allTabsMenu.searchTabs.label       "Vərəqlərdə Axtar">
@@ -216,6 +217,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenExit.label "Tam ekran rejimdən çıx">
 <!ENTITY fullScreenExit.accesskey "e">
 
+ <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
+     for the Firefox Account toolbar signin menu screen. -->
+
+<!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
+     for the Firefox Account toolbar unverified menu screen. -->
+
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbart menu screen. The `Signed in as` text is
+     followed by the user's email. -->
+
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring fullscreen.
@@ -232,6 +243,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY exitDOMFullscreenMac.button "Tam erkandan çıx (esc)">
 <!ENTITY leaveDOMFullScreen.label "Tam ekrandan çıx">
 <!ENTITY leaveDOMFullScreen.accesskey "e">
+
+<!-- LOCALIZATION NOTE (pictureInPicture.label, pictureInPicture.accesskey):
+     these two strings are used when right-clicking on a video in the
+     content area when the Picture-in-Picture feature is enabled. -->
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
@@ -259,7 +274,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksToolbarChevron.tooltip "Daha çox əlfəcin göstər">
 
 <!ENTITY backCmd.label                "Geri">
-<!ENTITY backCmd.accesskey            "B">
+<!ENTITY backCmd.accesskey            "G">
 <!ENTITY backButton.tooltip           "Əvvəlki səhifəyə qayıt">
 <!ENTITY forwardCmd.label             "İrəli">
 <!ENTITY forwardCmd.accesskey         "F">
@@ -410,6 +425,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmd2.accesskey     "S">
 <!ENTITY preferencesCmdUnix.label       "Seçimlər">
 <!ENTITY preferencesCmdUnix.accesskey     "i">
+
 
 <!ENTITY clearRecentHistory.label               "Son Tarixçəni Təmizlə…">
 
@@ -882,7 +898,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "Bu sayta heç bir xüsusi icazə verməmisiniz.">
 <!ENTITY identity.permissionsReloadHint "Dəyişikliklərin işləməsi üçün səhifəni yeniləyin.">
 <!ENTITY identity.permissionsPreferences.tooltip "İcazələr Nizamlamalarını aç">
-
 <!ENTITY identity.contentBlockingPreferences.tooltip "Məzmun Əngəlləmə nizamlamalarını aç">
 
 
@@ -1136,13 +1151,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Əlavələrinizi <image class='addon-toolbar-icon'/> menyusundan <image class='addon-addon-icon'/> klikləyərək idarə edin.">
-<!ENTITY addonPostInstall.incognito.label "Bu uzantıya Məxfi Pəncərələrdə işləməyə icazə ver.">
-<!ENTITY addonPostInstall.incognito.accesskey "A">
 
 <!ENTITY addonPrivateBrowsing.header2.label "Məxfi Pəncərələrdəki uzantılar dəyişdirilir">
 <!ENTITY addonPrivateBrowsing.body2.label "&brandShorterName; səyyahına əlavə etdiyiniz yeni uzantılar bu tənzimləmədə icazə vermənizə qədər Məxfi Pəncərələrdə işləməyəcəklər.">
 <!ENTITY addonPrivateBrowsing.learnMore.label "Uzantı tənzimləmələrini necə idarə edəcəyinizi öyrənin.">
 <!ENTITY addonPrivateBrowsing.okButton.label "Tamam, başa düşdüm">
-<!ENTITY addonPrivateBrowsing.okButton.accesskey "O">
+<!ENTITY addonPrivateBrowsing.okButton.accesskey "T">
 <!ENTITY addonPrivateBrowsing.manageButton.label "Uzantıları idarə et">
 <!ENTITY addonPrivateBrowsing.manageButton.accesskey "M">
