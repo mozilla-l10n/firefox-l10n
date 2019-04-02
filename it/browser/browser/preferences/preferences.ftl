@@ -775,7 +775,7 @@ collection-studies =
 collection-studies-link = Visualizza studi di { -brand-short-name }
 
 addon-recommendations =
-    .label = Consenti a { -brand-short-name } di visualizzare consigli personalizzati relativi alle estensioni
+    .label = Consenti a { -brand-short-name } di visualizzare suggerimenti personalizzati relativi alle estensioni
 addon-recommendations-link = Ulteriori informazioni
 
 # This message is displayed above disabled data sharing options in developer builds
