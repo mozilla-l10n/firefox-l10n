@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  typeColumn.label            "ชนิดเนื้อหา">
+<!ENTITY  typeColumn.accesskey        "ช">
 
 <!ENTITY  actionColumn2.label         "การกระทำ">
 <!ENTITY  actionColumn2.accesskey     "ก">
@@ -13,6 +15,8 @@
 
 <!ENTITY saveTo.label                 "บันทึกไฟล์ไปยัง">
 <!ENTITY saveTo.accesskey             "บ">
+<!ENTITY alwaysAsk.label              "ถามฉันเสมอว่าจะบันทึกไฟล์ที่ไหน">
+<!ENTITY alwaysAsk.accesskey          "ถ">
 <!ENTITY chooseFolderWin.label        "เรียกดู…">
 <!ENTITY chooseFolderWin.accesskey    "ร">
 <!ENTITY chooseFolderMac.label        "เลือก…">
