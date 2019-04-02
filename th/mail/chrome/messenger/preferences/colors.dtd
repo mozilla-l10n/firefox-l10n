@@ -6,8 +6,11 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
+<!ENTITY  overridePageColors.label        "เขียนทับสีที่ระบุโดยเนื้อหาด้วยที่ฉันเลือกไว้ด้านบน:">
+<!ENTITY  overridePageColors.accesskey    "ข">
 
 <!ENTITY  overridePageColors.always.label "เสมอ">
+<!ENTITY  overridePageColors.auto.label   "เฉพาะกับชุดตกแต่งความคมชัดสูงเท่านั้น">
 <!ENTITY  overridePageColors.never.label  "ไม่เลย">
 
 <!ENTITY  color                           "ข้อความและพื้นหลัง">
@@ -21,3 +24,7 @@
 <!ENTITY  underlineLinks.label            "ขีดเส้นใต้ลิงก์">
 <!ENTITY  underlineLinks.accesskey        "ด">
 <!ENTITY  links                           "สีลิงก์">
+<!ENTITY  linkColor.label                 "ลิงก์ที่ยังไม่เคยเยี่ยมชม:">
+<!ENTITY  linkColor.accesskey             "ย">
+<!ENTITY  visitedLinkColor.label          "ลิงก์ที่เยี่ยมชมแล้ว:">
+<!ENTITY  visitedLinkColor.accesskey      "ล">
