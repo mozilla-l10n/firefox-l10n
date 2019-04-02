@@ -146,6 +146,7 @@ legacy-warning-show-legacy = Ni'iaj nej extensiûn hua nika hia
 legacy-extensions =
     .value = Nej extensiûn hua nikaa
 legacy-extensions-description = Nitaj si digahuin nej extensiûn nan ngà nej chrej { -brand-short-name } huaa yi'ì dan giyichin' nej man. <label data-l10n-name="legacy-learn-more">Gini'in doj rayi'î nuguan' hua ngà nadunô' 'ngo komplemênto</label>
+private-browsing-description2 = { -brand-short-name } nadunaj dàj 'iaj sun nej ekstensiûn riña aché nun huìt. Ahuin man'an ekstensiûn nutà't riña { -brand-short-name } ni gay'ì man'an gi'iaj sun riña Windows huìi. Nda doj si ga'nïnt riña configurasiûn, sani ekstensiûn nan ni si gi'iaj sunj riña aché nun huìt ni si gini'in sa 'iát. Nan huin nagi'iaj ñûnj dadin' ruhuâ ñûnj sisi nda hue'ê ga gache nunt. <label data-l10n-name="private-browsing-learn-more"> Gahuin chrun doj dàj gi'iaj sunt ngà ekstensiûn nan</label>
 extensions-view-discover =
     .name = Nadunïnj nej komplemênto
     .tooltiptext = { extensions-view-discover.name }
@@ -226,6 +227,20 @@ extensions-updates-update-selected =
 
 ## Extension shortcut management
 
+manage-extensions-shortcuts =
+    .label = Ni'iaj dàj nagi'iát riña ekstensiûn
+    .accesskey = S
+shortcuts-empty-message = nitaj a'ngô sa ga'ue nagi'iô' riña ekstensiûn nan.
+shortcuts-no-addons = Nitaj ngà' si 'ngo ekstensiûn 'iaj sun 'iát.
+shortcuts-no-commands = Nitaj a'ngô nùhuin si hua riña nej ekstensiûn nan:
+shortcuts-input =
+    .placeholder = Gachrun a'ngò chrej e
+shortcuts-browserAction = Dugi'iaj sun ekstensiûn
+shortcuts-pageAction = Dugi'iaj sun si sun pâjina
+shortcuts-sidebarAction = Dukuán nun nitïn gu'nàj Toggle
+shortcuts-modifier-mac = Na'nïnj Ctrl, Alt, asi ⌘
+shortcuts-modifier-other = Na'nïnj Ctrl asi Alt
+shortcuts-invalid = Nu narì't nachrun man
 
 ## Add-on actions
 
