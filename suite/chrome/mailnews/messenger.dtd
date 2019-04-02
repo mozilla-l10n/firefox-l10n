@@ -58,9 +58,9 @@
 <!ENTITY renameFolder.label "საქაღალდის გადარქმევა…">
 <!ENTITY renameFolder.accesskey "ღ">
 <!ENTITY compactFolders.label "საქაღალდეების შეკუმშვა">
-<!ENTITY compactFolders.accesskey		"კ">
+<!ENTITY compactFolders.accesskey "კ">
 <!ENTITY emptyTrashCmd.label "ურნის გასუფთავება">
-<!ENTITY emptyTrashCmd.accesskey		"უ">
+<!ENTITY emptyTrashCmd.accesskey "უ">
 <!ENTITY offlineMenu.label "კავშირგარეშე რეჟიმი">
 <!ENTITY offlineMenu.accesskey "ი">
 <!ENTITY synchronizeOfflineCmd.label "ჩამოტვირთვა/სინქრონიზება…">
@@ -284,23 +284,23 @@
 <!ENTITY newNewMsgCmd.accesskey "წ">
 <!ENTITY replyMsgCmd.label "პასუხი">
 <!ENTITY replyMsgCmd.accesskey "პ">
-<!ENTITY replyMsgCmd.key	"r">
+<!ENTITY replyMsgCmd.key "r">
 <!ENTITY replyListCmd.label "პასუხი რამდენიმეს">
 <!ENTITY replyListCmd.accesskey "რ">
 <!ENTITY replyNewsgroupCmd.label "პასუხი ჯგუფს">
-<!ENTITY replyNewsgroupCmd.accesskey	"ჯ">
+<!ENTITY replyNewsgroupCmd.accesskey "ჯ">
 <!ENTITY replySenderCmd.label "პასუხი მხოლოდ გამომგზავნს">
 <!ENTITY replySenderCmd.accesskey "ხ">
 <!ENTITY replyToAllMsgCmd.label "პასუხი ყველას">
-<!ENTITY replyToAllMsgCmd.accesskey	"ყ">
-<!ENTITY replyToAllMsgCmd.key	"r">
+<!ENTITY replyToAllMsgCmd.accesskey "ყ">
+<!ENTITY replyToAllMsgCmd.key "r">
 <!ENTITY replyToSenderAndNewsgroupCmd.label "პასუხი გამომგზავნს და ჯგუფს">
 <!ENTITY replyToSenderAndNewsgroupCmd.accesskey "პ">
 <!ENTITY replyToAllRecipientsCmd.label "პასუხი ყველა მიმღებს">
 <!ENTITY replyToAllRecipientsCmd.accesskey "მ">
 <!ENTITY forwardMsgCmd.label "გადაგზავნა">
 <!ENTITY forwardMsgCmd.accesskey "დ">
-<!ENTITY forwardMsgCmd.key	"l">
+<!ENTITY forwardMsgCmd.key "l">
 <!ENTITY forwardAsMenu.label "გადაგზავნა, როგორც">
 <!ENTITY forwardAsMenu.accesskey "რ">
 <!ENTITY forwardAsInline.label "წერლიშივე">
@@ -441,7 +441,7 @@
 <!ENTITY undeleteButton.tooltip "მონიშნული წერილის აღდგენა">
 <!ENTITY markButton.tooltip "წერილების მონიშვნა">
 <!ENTITY stopButton.tooltip "მიმდინარე გაგზავნის შეჩერება">
-<!ENTITY throbber.tooltip "გადასვლა &vendorShortName;-ს საწყის გვერდზე">
+<!ENTITY throbber.tooltip "&vendorShortName; – საწყის გვერდზე გადასვლა">
 <!ENTITY junkButton.tooltip "შერჩეული წერილების ჯართად მონიშვნა">
 <!ENTITY notJunkButton.tooltip "შერჩეული წერილების გამოსადეგად ჩათვლა">
 
