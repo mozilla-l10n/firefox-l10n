@@ -7,6 +7,7 @@
 <!ENTITY searchHeading.accesskey     "ค">
 <!ENTITY searchSubfolders.label      "ค้นหาโฟลเดอร์ย่อย">
 <!ENTITY searchSubfolders.accesskey  "น">
+<!ENTITY searchOnServer.label        "เรียกใช้การค้นหาบนเซิร์ฟเวอร์">
 <!ENTITY resetButton.label           "ล้าง">
 <!ENTITY resetButton.accesskey       "ล">
 <!ENTITY openButton.label            "เปิด">
@@ -32,8 +33,10 @@
 <!ENTITY composeButton.accesskey     "ข">
 <!ENTITY deleteCardButton.label      "ลบ">
 <!ENTITY deleteCardButton.accesskey  "ล">
+<!ENTITY abSearchDialogTitle.label   "การค้นหาสมุดรายชื่อขั้นสูง">
 
 <!-- Thread Pane -->
+<!ENTITY threadColumn.label "หัวข้อ">
 <!ENTITY fromColumn.label "จาก">
 <!ENTITY recipientColumn.label "ผู้รับ">
 <!ENTITY dateColumn.label "วันที่">
