@@ -120,12 +120,16 @@
 </ul>">
 
 <!ENTITY certerror.longpagetitle1 "A teu conescion a no l'é segua">
+
 <!ENTITY certerror.longpagetitle2 "Atençion: gh'é 'n reizego de seguessa potensiâ">
 <!ENTITY certerror.sts.longpagetitle  "Conescion fermâ: reizego potensiâ de seguessa">
 <!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "O propietaio de <span class='hostname'/> o l'à configurou o seu scito mâ.  Pe protezze e teu informaçioin da l'ese aröbæ, &brandShortName; o no s'é conesso a sto scito.">
+<!-- Localization note (certerror.introPara2) - The text content of the span tag
+will be replaced at runtime with the name of the server to which the user
+was trying to connect. -->
 
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "E aloa cöse ti peu fâ?">
@@ -155,6 +159,7 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Azonzi 'na eceçion…">
+
 <!ENTITY securityOverride.exceptionButton1Label "Acetta o reizego e vanni avanti">
 
 <!ENTITY errorReporting.automatic2 "Segnala eroî comme sto chi pe agiutâ Mozilla a identificâ e blocâ sciti danozi">
@@ -175,7 +180,9 @@ was trying to connect. -->
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p> &brandShortName; o no se conette a <span id='wrongSystemTimeWithoutReference_URL'/> perché o releuio do computer o l'à l'oa sbaliâ e questo o l'inpedisce 'na conescion segua.</p> <p>O teu computer o segna e <span id='wrongSystemTimeWithoutReference_systemDate'/>. Pe risolve sto problema, cangia l'oa e a dæta in mòddo che segian giuste.</p>">
 
 <!ENTITY certerror.pagetitle1  "Conescion no segua">
+
 <!ENTITY certerror.pagetitle2  "Atençion: gh'é 'n reizego de seguessa potensiâ">
+<!ENTITY certerror.sts.pagetitle  "Conescion fermâ: reizego potensiâ de seguessa">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Sto scito o deuvia HTTP Strict Transport Security (HSTS) pe specificâ che &brandShortName; o peu conetise solo in mòddo seguo. Coscì no se peu azonze na eceçion pe sto certificato.">
 <!ENTITY certerror.copyToClipboard.label "Còpia testo inti aponti">
 

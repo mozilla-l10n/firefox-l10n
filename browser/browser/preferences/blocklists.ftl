@@ -5,6 +5,7 @@
 blocklist-window =
     .title = Elenchi de blòcco
     .style = width: 55em
+blocklist-description = Çerni a lista da dêuviâ in { -brand-short-name } pe blocâ i elementi che tracian in linia. E liste son fornie da <a data-l10n-name="disconnect-link" title="Disconnect">Disconnect</a>.
 blocklist-close-key =
     .key = w
 blocklist-treehead-list =
