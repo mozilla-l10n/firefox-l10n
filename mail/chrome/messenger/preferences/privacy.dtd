@@ -13,4 +13,16 @@
 <!-- Web Content -->
 <!ENTITY captionWebContent.label "เนื้อหาเว็บ">
 
+<!ENTITY acceptCookies.label "ยอมรับคุกกี้จากไซต์">
+<!ENTITY acceptThirdParty.pre.label "ยอมรับคุกกี้จากบุคคลที่สาม:">
+<!ENTITY acceptThirdParty.always.label "เสมอ">
+<!ENTITY acceptThirdParty.never.label "ไม่เลย">
+<!ENTITY acceptThirdParty.visited.label "จากที่เยี่ยมชม">
+<!ENTITY keepUntil.label "เก็บจนกระทั่ง:">
+<!ENTITY expire.label "คุกกี้หมดอายุ">
+<!ENTITY close.label "ฉันปิด &brandShortName;">
+<!ENTITY askEachTime.label "ถามฉันทุกครั้ง">
+<!ENTITY cookieExceptions.label "ข้อยกเว้น…">
+<!ENTITY showCookies.label "แสดงคุกกี้…">
 
+<!ENTITY doNotTrackInfo.label "เรียนรู้เพิ่มเติมเกี่ยวกับไม่ติดตาม">
