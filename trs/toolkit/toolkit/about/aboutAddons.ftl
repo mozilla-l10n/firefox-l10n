@@ -241,6 +241,21 @@ shortcuts-sidebarAction = Dukuán nun nitïn gu'nàj Toggle
 shortcuts-modifier-mac = Na'nïnj Ctrl, Alt, asi ⌘
 shortcuts-modifier-other = Na'nïnj Ctrl asi Alt
 shortcuts-invalid = Nu narì't nachrun man
+shortcuts-letter = Gachrun 'ngo lêchra
+shortcuts-system = Si ga'ue durêe't 'ngo akseso direkto { -brand-short-name }
+shortcuts-card-expand-button =
+    { $numberToShow ->
+       *[other] Digân { $numberToShow } Doj
+    }
+shortcuts-card-collapse-button = Nadigân Dòj
+go-back-button =
+    .tooltiptext = Nanikàj rukù
 
 ## Add-on actions
 
+remove-addon-button = Guxūn
+disable-addon-button = Dunikïn'
+enable-addon-button = Dugi'iaj sun' man
+expand-addon-button = Doj sa ga'ue nagi'át
+addons-enabled-heading = Ngà 'iaj sunj
+addons-disabled-heading = Nitaj si huáj
