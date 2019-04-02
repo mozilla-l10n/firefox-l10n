@@ -12,7 +12,7 @@
 <!-- LOCALIZATION NOTE (newContact.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newContact.accesskey                           "კ">
 <!ENTITY newListCmd.label                               "დაგზავნის სია…">
-<!-- LOCALIZATION NOTE (newListCmd.accesskey) : DONT_TRANSLATE -->  
+<!-- LOCALIZATION NOTE (newListCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newListCmd.accesskey                           "ს">  
 <!ENTITY newAddressBookCmd.label                        "წიგნაკი…"> 
 <!ENTITY newAddressBookCmd.accesskey                    "წ">  
@@ -40,7 +40,7 @@
 <!ENTITY swapFirstNameLastNameCmd.label                 "სახელის/გვარის ადგილების გაცვლა">
 <!ENTITY swapFirstNameLastNameCmd.accesskey             "ც">  
 <!ENTITY propertiesCmd.label                            "პარამეტრები…">
-<!-- LOCALIZATION NOTE (propertiesCmd.accesskey) : DONT_TRANSLATE -->  
+<!-- LOCALIZATION NOTE (propertiesCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY propertiesCmd.accesskey                        "პ">  
 <!ENTITY propertiesCmd.key                              "i">  
 
@@ -68,7 +68,7 @@
 <!ENTITY exportCmd.label                                "გატანა…">
 <!ENTITY exportCmd.accesskey                            "ტ">
 
-<!-- Toolbar and Popup items -->  
+<!-- Toolbar and Popup items -->
 <!ENTITY newContactButton.label                         "ახალი პირი">
 <!ENTITY newContactButton.accesskey                     "ა">
 <!ENTITY newlistButton.label                            "ახალი სია">  
@@ -92,7 +92,7 @@
 <!ENTITY newmsgButton.tooltip                           "ელფოსტის გაგზავნა"> 
 <!ENTITY newIM.tooltip                                  "მყისი გზავნილი ან გასუბრება"> 
 <!ENTITY deleteItemButton.tooltip                       "შერჩეული ელემენტის წაშლა">
-<!ENTITY throbber.tooltip                               "გადასვლა &vendorShortName; ტავფურცელზე">
+<!ENTITY throbber.tooltip                               "&vendorShortName; – საწყის გვერდზე გადასვლა">
 <!ENTITY advancedButton.tooltip                         "მისამართის დეტალური ძიება">
 
 <!-- Dir Tree header -->
@@ -112,7 +112,7 @@
 <!ENTITY mapItButton.label                              "რუკაზე ასახვა">
 <!ENTITY mapIt.tooltip                                  "ამ მისამართის ინტერნეტ რუკის ჩვენება">
 
-<!-- Status Bar -->  
+<!-- Status Bar -->
 <!ENTITY statusText.label                               "">
 
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
