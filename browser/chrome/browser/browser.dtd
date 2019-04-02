@@ -97,7 +97,7 @@ These two items have the same accesskey but will never be visible at the same ti
 <!ENTITY  moveToEnd.accesskey                "E">
 <!ENTITY  moveToNewWindow.label              "移动到新窗口">
 <!ENTITY  moveToNewWindow.accesskey          "W">
-<!ENTITY  reopenInContainer.label            "使用身份标签页打开">
+<!ENTITY  reopenInContainer.label            "用身份标签页打开">
 <!ENTITY  reopenInContainer.accesskey        "e">
 <!ENTITY  bookmarkTab.label                  "为标签页添加书签">
 <!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
