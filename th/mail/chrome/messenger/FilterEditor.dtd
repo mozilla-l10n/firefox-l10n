@@ -37,7 +37,7 @@
 <!ENTITY markMessageUnread.label "ทำเครื่องหมายว่ายังไม่ได้อ่าน">
 <!ENTITY markMessageStarred.label "เพิ่มดาว">
 <!ENTITY setPriority.label "ตั้งค่าลำดับความสำคัญเป็น">
-<!ENTITY addTag.label "แท็กข้อความ">
+<!ENTITY addTag.label "ติดป้ายกำกับข้อความ">
 <!ENTITY setJunkScore.label "ตั้งค่าสถานะขยะเป็น">
 <!ENTITY deleteMessage.label "ลบข้อความ">
 <!ENTITY deleteFromPOP.label "ลบจากเซิร์ฟเวอร์ POP">

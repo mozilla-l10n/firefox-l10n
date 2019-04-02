@@ -7,7 +7,7 @@
 <!ENTITY globalReceipts.label         "ค่ากำหนดส่วนกลาง…">
 <!ENTITY useCustomPrefs.label         "ปรับแต่งการแจ้งเตือนการเปิดอ่านสำหรับบัญชีนี้">
 <!ENTITY requestReceipt.label         "เมื่อส่งข้อความ ให้ขอการแจ้งเตือนการเปิดอ่านเสมอ">
-<!ENTITY receiptArrive.label          "เมื่อจะรับ:">
+<!ENTITY receiptArrive.label          "เมื่อการแจ้งเตือนมาถึง:">
 <!ENTITY leaveIt.label                "ทิ้งไว้ในกล่องขาเข้าของฉัน">
 <!-- LOCALIZATION NOTE moveToSent.label Translate: 'Sent' according to Netscape glossary -->
 <!ENTITY moveToSent.label             "ย้ายไปไว้ในโฟลเดอร์ &quot;ที่ส่งแล้ว&quot; ของฉัน">
