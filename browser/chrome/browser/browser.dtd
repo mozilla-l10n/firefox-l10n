@@ -59,10 +59,12 @@ same accesskey but will never be visible at the same time. -->
 but will never be visible at the same time. -->
 <!ENTITY  reloadTabs.label                   "重新载入标签页">
 <!ENTITY  reloadTabs.accesskey               "R">
-<!ENTITY  bookmarkSelectedTabs.label         "给标签页加上书签…">
+<!ENTITY  bookmarkSelectedTabs.label         "为标签页添加书签…">
 <!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  bookmarkSelectedTabs.accesskey     "k">
+
+<!-- Tab context menu -->
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
