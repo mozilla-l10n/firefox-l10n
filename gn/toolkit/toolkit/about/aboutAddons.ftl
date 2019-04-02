@@ -94,6 +94,9 @@ detail-private-browsing-description2 = Oñemoneĩ vove, pe jepysokue ikatu oike 
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overriden by the user.
 detail-private-disallowed-label = Noñemoneĩri ovetã ñemíme
+detail-private-disallowed-description = Ko jepysokue nomba’apói eikundaha ñemigua jave. <label data-l10n-name="detail-private-browsing-learn-more">Eikuaave</label>
+# Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
+detail-private-required-label = Oikotevẽ ovetã ñemíme jeike
 detail-private-browsing-on =
     .label = Moneĩ
     .tooltiptext = Embojuruja kundaha ñemíme

@@ -157,6 +157,13 @@ about-debugging-runtime-profile-button = Runtime mba'ete
 # target runtime is incompatible with service workers. "Learn more" points to MDN.
 # https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
 about-debugging-runtime-service-workers-not-compatible = Pe kundahára ñemboheko ndojokupytýi Service Workers ndive. <a>Eikuaave</a>
+# Dedicated message for a backward compatibility issue that occurs when connecting:
+# - from Fx 67 to 66 or to 65
+# - from Fx 68 to 66
+# Those are normally in range for DevTools compatibility policy, but specific non
+# backward compatible changes broke the debugger in those scenarios (Bug 1528219).
+# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
+about-debugging-browser-version-too-old-67-debugger = Ikatuhína pe mopotĩha rupa ndoikói aravo eike jave. Eipuru Firefox { $runtimeVersion } eipuruséramo mopotĩha ko kundaha ndive.
 # Displayed for runtime info in runtime pages.
 # { $name } is brand name such as "Firefox Nightly"
 # { $version } is version such as "64.0a1"
