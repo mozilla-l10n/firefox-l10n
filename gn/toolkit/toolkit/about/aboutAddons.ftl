@@ -97,6 +97,7 @@ detail-private-disallowed-label = Noñemoneĩri ovetã ñemíme
 detail-private-disallowed-description = Ko jepysokue nomba’apói eikundaha ñemigua jave. <label data-l10n-name="detail-private-browsing-learn-more">Eikuaave</label>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Oikotevẽ ovetã ñemíme jeike
+detail-private-required-description = Ko jepysokue oikekuaa neremboapópe eike javegua eikundaha ñemigua jave. <label data-l10n-name="detail-private-browsing-learn-more">Eikuaave</label>
 detail-private-browsing-on =
     .label = Moneĩ
     .tooltiptext = Embojuruja kundaha ñemíme
