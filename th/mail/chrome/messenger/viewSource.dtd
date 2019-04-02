@@ -17,6 +17,10 @@
 <!ENTITY savePageCmd.label "บันทึกหน้าเป็น…">
 <!ENTITY savePageCmd.accesskey "บ">
 <!ENTITY savePageCmd.commandkey "S">
+<!ENTITY pageSetupCmd.label "ตั้งค่าหน้ากระดาษ…">
+<!ENTITY printPreviewCmd.label "ตัวอย่างก่อนพิมพ์">
+<!ENTITY printCmd.label "พิมพ์…">
+<!ENTITY closeCmd.label "ปิด">
 
 <!-- LOCALIZATION NOTE :
 textEnlarge.commandkey3, textReduce.commandkey2 and
@@ -25,7 +29,22 @@ If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
 
+<!ENTITY goToLineCmd.label "ไปยังบรรทัดที่…">
 
+<!ENTITY viewMenu.label           "มุมมอง">
+<!ENTITY reloadCmd.label "โหลดใหม่">
+<!ENTITY menu_wrapLongLines.title "ปัดบรรทัดล้น">
+<!ENTITY menu_highlightSyntax.label "การเน้นสีไวยากรณ์">
+<!ENTITY menu_textSize.label "ขนาดตัวอักษร">
+<!ENTITY menu_textEnlarge.label "เพิ่ม">
+<!ENTITY menu_textReduce.label "ลด">
+<!ENTITY menu_textReset.label "ปกติ">
 
+<!ENTITY findOnCmd.label     "ค้นหาในหน้านี้…">
+<!ENTITY findAgainCmd.label  "ค้นหาอีกครั้ง">
 
+<!ENTITY backCmd.label "ย้อนกลับ">
+<!ENTITY forwardCmd.label "เดินหน้า">
 
+<!ENTITY copyLinkCmd.label "คัดลอกตำแหน่งที่ตั้งลิงก์">
+<!ENTITY copyEmailCmd.label "คัดลอกที่อยู่อีเมล">
