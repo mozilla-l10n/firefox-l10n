@@ -88,6 +88,9 @@ detail-update-automatic =
 detail-update-manual =
     .label = Duna'àj
     .tooltiptext = Si dunajt nagi'iaj nakà ma'an man
+# Used as a description for the option to allow or block an add-on in private windows.
+detail-private-browsing-label = Na'nïn riña Windows huìi
+detail-private-browsing-description2 = Sisi ga'ue ga'nïn, extensiûn nan ni ga'ue ni'ia sa 'iát ngà aché nun huìt. <label data-l10n-name="detail-private-browsing-learn-more">Gahuin chrun doj</label>
 detail-home =
     .label = Ñanj ayi'ìj
 detail-home-value =
@@ -207,3 +210,9 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Ga'nïnj nej sa nakà doj
     .tooltiptext = Ga'nïn nej sa ga'ue nahuin nakà nu riña lsita nan
+
+## Extension shortcut management
+
+
+## Add-on actions
+
