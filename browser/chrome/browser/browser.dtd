@@ -64,6 +64,8 @@ but will never be visible at the same time. -->
 These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  bookmarkSelectedTabs.accesskey     "ж">
 
+<!-- Tab context menu -->
+
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
@@ -218,6 +220,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
  <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
      for the Firefox Account toolbar signin menu screen. -->
 <!ENTITY fxa.signin.callout.label "Понесите Firefox са собом">
+<!ENTITY fxa.signin.description.label "Добавите ваше забелешке, историјат, лозинке и друге ствари на све ваше уређаје.">
+<!ENTITY fxa.signin.button.label "Укључи &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
      for the Firefox Account toolbar unverified menu screen. -->
