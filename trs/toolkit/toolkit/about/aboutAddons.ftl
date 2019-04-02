@@ -91,6 +91,19 @@ detail-update-manual =
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Na'nïn riña Windows huìi
 detail-private-browsing-description2 = Sisi ga'ue ga'nïn, extensiûn nan ni ga'ue ni'ia sa 'iát ngà aché nun huìt. <label data-l10n-name="detail-private-browsing-learn-more">Gahuin chrun doj</label>
+# Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
+# cannot be overriden by the user.
+detail-private-disallowed-label = Si ga'ue riña Windows huìi
+detail-private-disallowed-description = Nga aché nunt riña Windows huìi ni nitaj si 'iaj sun ekstensiûn nan. <label data-l10n-name="detail-private-browsing-learn-more">Gahuin Chrun doj</label>
+# Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
+detail-private-required-label = Da'ui na'nïn riña Windows huìi
+detail-private-required-description = Ga'ue ni'iaj ekstensiûn nan sa' 'iát nga aché nun huìt. <label data-l10n-name="detail-private-browsing-learn-more">Gahuin Chrun Doj</label>
+detail-private-browsing-on =
+    .label = Ga'nïn
+    .tooltiptext = Nachrun riña aché nun huìt
+detail-private-browsing-off =
+    .label = Si ga'ninjt
+    .tooltiptext = Guxun man riña aché nun huìt
 detail-home =
     .label = Ñanj ayi'ìj
 detail-home-value =
