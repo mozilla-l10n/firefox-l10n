@@ -8,5 +8,9 @@
 <!ENTITY name.accesskey             "ช">
 <!ENTITY description.label          "สร้างเป็นโฟลเดอร์ย่อยของ:">
 <!ENTITY description.accesskey      "ส">
+<!ENTITY folderRestriction1.label   "เซิร์ฟเวอร์นี้จำกัดโฟลเดอร์ไว้เพียงสองชนิดพิเศษ">
+<!ENTITY folderRestriction2.label   "อนุญาตให้โฟลเดอร์ใหม่ของคุณมี:">
+<!ENTITY foldersOnly.label          "โฟลเดอร์เท่านั้น">
+<!ENTITY messagesOnly.label         "ข้อความเท่านั้น">
 <!ENTITY accept.label               "สร้างโฟลเดอร์">
 <!ENTITY accept.accesskey           "ร">
