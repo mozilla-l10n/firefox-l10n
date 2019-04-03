@@ -5,7 +5,7 @@
 addons-window =
     .title = Gerenciador de extensões
 search-header =
-    .placeholder = Pesquisar addons.mozilla.org
+    .placeholder = Pesquisar em addons.mozilla.org
     .searchbuttonlabel = Pesquisar
 search-header-shortcut =
     .key = f
