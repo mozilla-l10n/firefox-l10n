@@ -8,9 +8,27 @@
 
 <!ENTITY dialogCompose.title                 "การเขียน">
 
+<!ENTITY forwardMsg.label                     "ส่งต่อข้อความ:">
+<!ENTITY forwardMsg.accesskey                 "ส">
+<!ENTITY inline.label                         "แบบอินไลน์">
+<!ENTITY asAttachment.label                   "เป็นไฟล์แนบ">
+<!ENTITY addExtension.label                   "เติมนามสกุลให้กับชื่อไฟล์">
+<!ENTITY addExtension.accesskey               "ต">
+
+<!ENTITY htmlComposeHeader.label              "HTML">
+<!ENTITY font.label                           "แบบอักษร:">
+<!ENTITY fontSize.label                       "ขนาด:">
+<!ENTITY useReaderDefaults.label              "ใช้สีเริ่มต้นของตัวอ่าน">
+<!ENTITY fontColor.label                      "สีข้อความ:">
+<!ENTITY bgColor.label                        "สีพื้นหลัง:">
+<!ENTITY restoreHTMLDefaults.label            "เรียกคืนค่าเริ่มต้น">
+
+<!ENTITY languagePopup.label                  "ภาษา:">
+<!ENTITY downloadDictionaries.label           "ดาวน์โหลดพจนานุกรมเพิ่มเติม">
 
 
-
-
+<!ENTITY directories.label                     "เซิร์ฟเวอร์ไดเรกทอรี:">
+<!ENTITY directoriesNone.label                 "ไม่มี">
+<!ENTITY editDirectories.label                 "แก้ไขไดเรกทอรี…">
 
 
