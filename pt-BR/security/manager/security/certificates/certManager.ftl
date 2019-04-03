@@ -209,9 +209,9 @@ not-present =
 cert-verified = Este certificado foi verificado para estes usos:
 # Add usage
 verify-ssl-client =
-    .value = Certificado para cliente SSL
+    .value = Certificado SSL do cliente
 verify-ssl-server =
-    .value = Certificado para servidor SSL
+    .value = Certificado SSL do servidor
 verify-ssl-ca =
     .value = Autoridade certificadora de SSL
 verify-email-signer =
