@@ -47,6 +47,13 @@ about-debugging-sidebar-runtime-item-name =
 # locations).
 about-debugging-sidebar-runtime-item-name-no-device =
     .title = { $displayName }
+# Text to show in the footer of the sidebar that links to a help page
+# (currently: https://developer.mozilla.org/docs/Tools/about:debugging)
+about-debugging-sidebar-support = Assistance au débogage
+# Text to show as the ALT attribute of a help icon that accompanies the help about
+# debugging link in the footer of the sidebar
+about-debugging-sidebar-support-icon =
+    .alt = Icône d’aide
 # Text displayed in a sidebar button to refresh the list of USB devices. Clicking on it
 # will attempt to update the list of devices displayed in the sidebar.
 about-debugging-refresh-usb-devices-button = Actualiser les appareils
@@ -57,6 +64,9 @@ about-debugging-refresh-usb-devices-button = Actualiser les appareils
 about-debugging-setup-title = Configuration
 # Introduction text in the Setup page to explain how to configure remote debugging.
 about-debugging-setup-intro = Configurez la méthode de connexion avec laquelle vous souhaitez déboguer à distance votre appareil.
+# Link displayed in the Setup page that leads to MDN page with list of supported devices.
+# Temporarily leads to https://support.mozilla.org/en-US/kb/will-firefox-work-my-mobile-device#w_android-devices
+about-debugging-setup-link-android-devices = Liste des appareils Android pris en charge
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = Connecter un appareil
 # USB section of the Setup page
@@ -98,6 +108,14 @@ about-debugging-network-locations-host-input-label = Hôte
 # Text of a button displayed next to existing network locations in the Connect page.
 # Clicking on it removes the network location from the list.
 about-debugging-network-locations-remove-button = Supprimer
+# Text used as error message if the format of the input value was invalid in the network locations form of the Setup page.
+# Variables:
+#   $host-value (string) - The input value submitted by the user in the network locations form
+about-debugging-network-location-form-invalid = Hôte « { $host-value } » non valide. Le format attendu est « nomHôte:NuméroDePort ».
+# Text used as error message if the input value was already registered in the network locations form of the Setup page.
+# Variables:
+#   $host-value (string) - The input value submitted by the user in the network locations form
+about-debugging-network-location-form-duplicate = L’hôte « { $host-value } » est déjà enregistré
 
 # Runtime Page strings
 
@@ -112,9 +130,23 @@ about-debugging-runtime-extensions =
 # Title of the tabs category.
 about-debugging-runtime-tabs =
     .name = Onglets
+# Title of the service workers category.
+about-debugging-runtime-service-workers =
+    .name = Service workers
+# Title of the shared workers category.
+about-debugging-runtime-shared-workers =
+    .name = Workers partagés
+# Title of the other workers category.
+about-debugging-runtime-other-workers =
+    .name = Autres workers
 # Title of the processes category.
 about-debugging-runtime-processes =
     .name = Processus
+# This string is displayed in the runtime page if the remote browser version is too old.
+# "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/WebIDE/Troubleshooting
+# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
+# { $minVersion } is the minimum version that is compatible with the current Firefox instance (same format)
+about-debugging-browser-version-too-old = Le navigateur connecté dispose d’une ancienne version ({ $runtimeVersion }). La version minimale prise en charge est ({ $minVersion }). Il s’agit d’une configuration non prise en charge qui peut entraîner des problèmes avec les outils de développement. Veuillez mettre à jour le navigateur connecté. <a>Diagnostic de connexion</a>
 # Text of a button displayed in Runtime pages for remote runtimes.
 # Clicking on the button will close the connection to the runtime.
 about-debugging-runtime-disconnect-button = Se déconnecter
@@ -129,9 +161,16 @@ about-debugging-connection-prompt-disable-button = Désactiver l’invite de con
 # The "Learn more" link points to MDN.
 # https://developer.mozilla.org/docs/Tools/about:debugging#Enabling_add-on_debugging
 about-debugging-extension-debug-setting-label = Activer le débogage des extensions. <a>En savoir plus</a>
+# Clicking on the header of a debug target category will expand or collapse the debug
+# target items in the category. This text is used as ’title’ attribute of the header,
+# to describe this feature.
+about-debugging-collapse-expand-debug-targets = Réduire/Agrandir
 
 # Debug Targets strings
 
+# Displayed in the categories of "runtime" pages that don't have any debug target to
+# show. Debug targets depend on the category (extensions, tabs, workers...).
+about-debugging-debug-target-list-empty = Rien pour le moment.
 # Text of a button displayed next to debug targets of "runtime" pages. Clicking on this
 # button will open a DevTools toolbox that will allow inspecting the target.
 # A target can be an addon, a tab, a worker...
@@ -147,6 +186,11 @@ about-debugging-tmp-extension-reload-button = Actualiser
 # Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
 # Clicking on the button will uninstall the extension and remove it from the page.
 about-debugging-tmp-extension-remove-button = Supprimer
+# Message displayed in the file picker that opens to select a temporary extension to load
+# (triggered by the button using "about-debugging-tmp-extension-install-button")
+# manifest.json .xpi and .zip should not be localized.
+# Note: this message is only displayed in Windows and Linux platforms.
+about-debugging-tmp-extension-install-message = Sélectionnez un fichier manifest.json ou une archive .xpi/.zip
 # Text displayed for extensions (temporary extensions only) in "runtime" pages, before
 # displaying the location of the temporary extension.
 about-debugging-extension-location =
@@ -155,6 +199,15 @@ about-debugging-extension-location =
 # For instance "geckoprofiler@mozilla.com" or "{ed26ddcb-5611-4512-a89a-51b8db81cfb2}".
 about-debugging-extension-id =
     .label = Identifiant de l’extension
+# This string is displayed as a label of the button that pushes a test payload
+# to a service worker.
+# Notes, this relates to the "Push" API, which is normally not localized so it is
+# probably better to not localize it.
+about-debugging-worker-action-push = Push
+# This string is displayed as a label of the button that starts a service worker.
+about-debugging-worker-action-start = Démarrer
+# This string is displayed as a label of the button that unregisters a service worker.
+about-debugging-worker-action-unregister = Désinscrire
 # Displayed as name for the Main Process debug target in the Processes category. Only for
 # remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-main-process-name = Processus principal
