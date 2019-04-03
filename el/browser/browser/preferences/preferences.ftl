@@ -526,6 +526,7 @@ sync-device-name-save =
     .accesskey = θ
 sync-mobilepromo-single = Σύνδεση άλλης συσκευής
 sync-mobilepromo-multi = Διαχείριση συσκευών
+sync-connect-another-device = Σύνδεση άλλης συσκευής
 sync-manage-devices = Διαχείριση συσκευών
 sync-fxa-begin-pairing = Σύζευξη συσκευής
 sync-tos-link = Όροι υπηρεσίας
@@ -690,6 +691,8 @@ content-blocking-tracking-protection-change-block-list = Αλλαγή λίστα
 content-blocking-cookies-label =
     .label = Cookies
     .accesskey = C
+content-blocking-expand-section =
+    .tooltiptext = Περισσότερες πληροφορίες
 
 ## Privacy Section - Tracking
 
