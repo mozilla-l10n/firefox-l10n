@@ -4,4 +4,5 @@
 
 <!ENTITY offlineDialog.title "การตั้งค่าออฟไลน์">
 
+<!ENTITY checkAutoDetect.label "ติดตามสถานะออนไลน์ที่ตรวจพบโดยอัตโนมัติ">
 
