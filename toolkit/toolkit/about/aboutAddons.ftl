@@ -31,7 +31,7 @@ preferences =
        *[other] Preferências do { -brand-short-name }
     }
 tools-menu =
-    .tooltiptext = Ferramentas para todos os complementos
+    .tooltiptext = Ferramentas para todas as extensões
 show-unsigned-extensions-button =
     .label = Algumas extensões não puderam ser verificadas
 show-all-extensions-button =
@@ -75,8 +75,8 @@ discover-description =
     funcionalidades ou estilos extras. Experimente um painel que otimiza seu tempo, um notificador sobre o clima ou um tema para tornar seu { -brand-short-name }
     único.
 discover-footer =
-    Quando estiver conectado à internet, este painel apresentará alguns
-      dos melhores e mais populares complementos para você experimentar.
+    Quando estiver conectado à internet, este painel apresenta algumas
+    das melhores e mais populares extensões para você experimentar.
 detail-version =
     .label = Versão
 detail-last-updated =
@@ -145,7 +145,7 @@ disabled-unsigned-heading =
     .value = Algumas extensões foram desativadas
 disabled-unsigned-description = As seguintes extensões não foram verificadas para uso no { -brand-short-name }. Você pode <label data-l10n-name="find-addons">procurar substitutos</label> ou solicitar que o desenvolvedor peça a sua verificação.
 disabled-unsigned-learn-more = Saiba mais sobre nossos esforços para ajudar a manter os usuários seguros.
-disabled-unsigned-devinfo = Os desenvolvedores interessados que seus complementos sejam verificados, devem ler o nosso <label data-l10n-name="learn-more">manual</label>.
+disabled-unsigned-devinfo = Desenvolvedores interessados em ter suas extensões verificadas devem ler nosso <label data-l10n-name="learn-more">manual</label>.
 plugin-deprecation-description = Faltando alguma coisa? Alguns plugins não são mais suportados pelo { -brand-short-name }. <label data-l10n-name="learn-more">Saiba mais.</label>
 legacy-warning-show-legacy = Mostrar extensões legadas
 legacy-extensions =
@@ -181,7 +181,7 @@ extensions-warning-check-compatibility-enable =
     .label = Ativar
     .tooltiptext = Ativar verificação de compatibilidade de extensões
 extensions-warning-update-security-label =
-    .value = A verificação de segurança da conexão está desativada. Atualizações de complementos podem comprometer seu computador.
+    .value = A verificação de segurança de atualizações de extensões está desativada. Atualizações de extensões podem comprometer seu computador.
 extensions-warning-update-security-container =
     .tooltiptext = { extensions-warning-update-security-label.value }
 extensions-warning-update-security-enable =
