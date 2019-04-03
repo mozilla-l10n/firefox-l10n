@@ -9,10 +9,10 @@
 # Page Title strings
 
 # Page title (ie tab title) for the Setup page
-about-debugging-page-title-setup-page = Pengawakutuan - Penataan
+about-debugging-page-title-setup-page = Debugging - Penyiapan
 # Page title (ie tab title) for the Runtime page
 # { $selectedRuntimeId } is the id of the current runtime, such as "this-firefox", "localhost:6080", ...
-about-debugging-page-title-runtime-page = Pengawakutuan - Runtime / { $selectedRuntimeId }
+about-debugging-page-title-runtime-page = Debugging - Runtime / { $selectedRuntimeId }
 
 # Sidebar strings
 
@@ -55,7 +55,7 @@ about-debugging-sidebar-runtime-item-name-no-device =
     .title = { $displayName }
 # Text to show in the footer of the sidebar that links to a help page
 # (currently: https://developer.mozilla.org/docs/Tools/about:debugging)
-about-debugging-sidebar-support = Dukungan Pengawakutuan
+about-debugging-sidebar-support = Dukungan Debugging
 # Text displayed in a sidebar button to refresh the list of USB devices. Clicking on it
 # will attempt to update the list of devices displayed in the sidebar.
 about-debugging-refresh-usb-devices-button = Segarkan peranti
@@ -65,18 +65,18 @@ about-debugging-refresh-usb-devices-button = Segarkan peranti
 # Title of the Setup page.
 about-debugging-setup-title = Penataan
 # Introduction text in the Setup page to explain how to configure remote debugging.
-about-debugging-setup-intro = Konfigurasikan metode koneksi yang ingin Anda gunakan untuk mengawakutu perangkat Anda dari jarak jauh.
+about-debugging-setup-intro = Konfigurasikan metode koneksi yang ingin Anda gunakan untuk proses debugging perangkat Anda dari jarak jauh.
 # Link displayed in the Setup page that leads to MDN page with list of supported devices.
 # Temporarily leads to https://support.mozilla.org/en-US/kb/will-firefox-work-my-mobile-device#w_android-devices
 about-debugging-setup-link-android-devices = Lihat daftar peranti Android yang didukung
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
-about-debugging-setup-this-firefox = Gunakan <a>{ about-debugging-this-firefox-runtime-name }</a> untuk mengawakutu tab, ekstensi, dan service worker di versi { -brand-shorter-name } ini.
+about-debugging-setup-this-firefox = Gunakan <a>{ about-debugging-this-firefox-runtime-name }</a> untuk debugging tab, ekstensi, dan service worker di versi { -brand-shorter-name } ini.
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = Sambungkan Peranti
 # USB section of the Setup page
 about-debugging-setup-usb-title = USB
 # Explanatory text displayed in the Setup page when USB debugging is disabled
-about-debugging-setup-usb-disabled = Mengaktifkan ini akan mengunduh dan menambahkan komponen pengawakutuan USB Android yang diperlukan ke { -brand-shorter-name }.
+about-debugging-setup-usb-disabled = Mengaktifkan ini akan mengunduh dan menambahkan komponen debugging USB Android yang diperlukan ke { -brand-shorter-name }.
 # Text of the button displayed in the USB section of the setup page when USB debugging is disabled.
 # Clicking on it will download components needed to debug USB Devices remotely.
 about-debugging-setup-usb-enable-button = Aktifkan Peranti USB
@@ -92,9 +92,9 @@ about-debugging-setup-usb-status-updating = Memutakhirkan…
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-dev-menu = Aktifkan menu Pengembang di peranti Android Anda. <a>Pelajari caranya</a>
 # USB section step by step guide
-about-debugging-setup-usb-step-enable-debug = Aktifkan Pengawakutuan USB di Menu Pengembang Android. <a>Pelajari caranya</a>
+about-debugging-setup-usb-step-enable-debug = Aktifkan Debugging USB di Menu Pengembang Android. <a>Pelajari caranya</a>
 # USB section step by step guide
-about-debugging-setup-usb-step-enable-debug-firefox = Aktifkan Pengawakutuan USB di Firefox pada peranti Android. <a>Pelajari caranya</a>
+about-debugging-setup-usb-step-enable-debug-firefox = Aktifkan Debugging USB di Firefox pada peranti Android. <a>Pelajari caranya</a>
 # USB section step by step guide
 about-debugging-setup-usb-step-plug-device = Sambungkan peranti Android ke komputer Anda.
 # Network section of the Setup page
@@ -149,7 +149,7 @@ about-debugging-runtime-disconnect-button = Putuskan
 # This checkbox will toggle preferences that enable local addon debugging.
 # The "Learn more" link points to MDN.
 # https://developer.mozilla.org/docs/Tools/about:debugging#Enabling_add-on_debugging
-about-debugging-extension-debug-setting-label = Aktifkan pengawakutuan ekstensi. <a>Pelajari lebih lanjut</a>
+about-debugging-extension-debug-setting-label = Aktifkan debugging ekstensi. <a>Pelajari lebih lanjut</a>
 
 # Debug Targets strings
 
