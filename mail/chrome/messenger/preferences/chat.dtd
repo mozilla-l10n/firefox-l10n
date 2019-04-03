@@ -31,4 +31,34 @@ sentence. -->
 <!ENTITY  completeNotification.label          "พร้อมชื่อผู้ส่งและตัวอย่างข้อความ">
 <!ENTITY  buddyInfoOnly.label                 "พร้อมชื่อผู้ส่งเท่านั้น">
 <!ENTITY  dummyNotification.label             "โดยไม่มีข้อมูลใด ๆ">
+<!ENTITY  getAttention.label                  "กะพริบรายการแถบงาน">
+<!ENTITY  getAttention.accesskey              "ก">
+<!ENTITY  getAttentionMac.label               "ทำให้ไอคอน Dock เคลื่อนไหว">
+<!ENTITY  getAttentionMac.accesskey           "ท">
+<!ENTITY  chatSound.accesskey                 "เ">
+<!ENTITY  chatSound.label                     "เล่นเสียง">
+<!ENTITY  play.label                          "เล่น">
+<!ENTITY  play.accesskey                      "น">
+<!ENTITY  systemSound.label                   "เสียงระบบเริ่มต้นสำหรับจดหมายใหม่">
+<!ENTITY  systemSound.accesskey               "ย">
+<!ENTITY  customsound.label                   "ใช้ไฟล์เสียงดังต่อไปนี้">
+<!ENTITY  customsound.accesskey               "ช">
+<!ENTITY  browse.label                        "เรียกดู…">
+<!ENTITY  browse.accesskey                    "ร">
 
+<!ENTITY messageStyleTab.title             "ลักษณะข้อความ">
+<!ENTITY messageStylePreview.label         "ตัวอย่าง:">
+<!ENTITY messageStyleTheme.label           "ชุดตกแต่ง:">
+<!ENTITY messageStyleTheme.accesskey       "ด">
+<!ENTITY messageStyleThunderbirdTheme.label "Thunderbird">
+<!ENTITY messageStyleBubblesTheme.label    "ฟองอากาศ">
+<!ENTITY messageStyleDarkTheme.label       "มืด">
+<!ENTITY messageStylePaperSheetsTheme.label "แผ่นกระดาษ">
+<!ENTITY messageStyleSimpleTheme.label     "ธรรมดา">
+<!ENTITY messageStyleDefaultTheme.label    "ค่าเริ่มต้น">
+<!ENTITY messageStyleVariant.label         "รูปแบบอื่น:">
+<!ENTITY messageStyleVariant.accesskey     "ป">
+<!ENTITY messageStyleShowHeader.label      "แสดงส่วนหัว">
+<!ENTITY messageStyleShowHeader.accesskey  "ง">
+<!ENTITY messageStyleNoPreview.title       "ไม่มีตัวอย่างที่ใช้งานได้">
+<!ENTITY messageStyleNoPreview.description "ชุดตกแต่งนี้ไม่ถูกต้องหรือไม่สามารถใช้งานได้ในขณะนี้ (ปิดใช้งานส่วนเสริม, โหมดปลอดภัย, …)">
