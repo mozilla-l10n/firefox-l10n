@@ -6,10 +6,10 @@ aboutDialog-title =
     .title = { -brand-full-name } کے متعلق
 releaseNotes-link = نیا کیا ہے
 update-checkForUpdatesButton =
-    .label = تازہ کاریوں کے لیے پڑتال کریں
+    .label = اپڈیٹ دیکھیں
     .accesskey = C
 update-updateButton =
-    .label = { -brand-shorter-name } کی تازہ کاری کرنے کے لیئے دوبارہ شروع کریں
+    .label = { -brand-shorter-name } اپڈیٹ دوبارہ شروع کریں
     .accesskey = R
 update-checkingForUpdates = تازہ کاریوں کے لیے پڑتال کر رہا ہے…
 update-downloading = <img data-l10n-name="icon"/>تازہ کاری ڈاؤن لوڈ کر رہا ہے—<label data-l10n-name="download-status"/>
@@ -30,8 +30,6 @@ helpus = مدد کرنا چاہیں گے؟ <label data-l10n-name="helpus-donateL
 bottomLinks-license = لائسنس کرنے کی معلومات
 bottomLinks-rights = صارف کے حقوق
 bottomLinks-privacy = رازداری پالیسی
-aboutDialog-architecture-sixtyFourBit = 64-بٹ
-aboutDialog-architecture-thirtyTwoBit = 32-بٹ
 # Example of resulting string: 66.0.1 (64-bit)
 # Variables:
 #   $version (String): version of Firefox, e.g. 66.0.1
