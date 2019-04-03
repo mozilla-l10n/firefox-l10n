@@ -16,6 +16,7 @@ aboutdebugging-sidebar-runtime-connection-status-disconnected = Disconnesso
 about-debugging-sidebar-no-devices = Nessun dispositivo rilevato
 about-debugging-sidebar-item-connect-button = Connetti
 about-debugging-sidebar-item-connect-button-connecting = Connessione in corso…
+about-debugging-sidebar-item-connect-button-connection-failed = Connessione non riuscita
 about-debugging-sidebar-item-connected-label = Connesso
 about-debugging-sidebar-runtime-item-waiting-for-browser = In attesa del browser…
 about-debugging-sidebar-runtime-item-name =
