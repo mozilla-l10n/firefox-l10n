@@ -32,6 +32,8 @@
      The tooltip to display when hovering over the button on the tab bar that
      toggles the visibility of the quick filter bar.
      -->
+<!ENTITY quickFilterBar.toggleBarVisibility.button.tooltip
+         "เปิด/ปิดแถบตัวกรองแบบรวดเร็ว">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.sticky.tooltip):
      The tooltip to display when the user hovers over the sticky button
@@ -40,32 +42,44 @@
      folders or opens new tabs.  (When inactive, only the state of the text
      filters are propagated between folder changes and when opening new tabs.)
      -->
+<!ENTITY quickFilterBar.sticky.tooltip
+         "นำตัวกรองไปใช้เมื่อสลับโฟลเดอร์เสมอ">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.unread.label):
      The label for the filter button that causes us to filter results to only
      include unread messages.
      -->
+<!ENTITY quickFilterBar.unread.label
+         "ยังไม่ได้อ่าน">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.unread.tooltip):
      The tooltip for the filter button that causes us to filter results to only
      include unread messages.
      -->
+<!ENTITY quickFilterBar.unread.tooltip
+         "แสดงเฉพาะข้อความที่ยังไม่ได้อ่าน">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.starred.label):
      The label for the filter button that causes us to filter results to only
      include messages that have been starred/flagged.
      -->
+<!ENTITY quickFilterBar.starred.label
+         "ที่ติดดาว">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.starred.tooltip):
      The tooltip for the filter button that causes us to filter results to only
      include messages that have been starred/flagged.
      -->
+<!ENTITY quickFilterBar.starred.tooltip
+         "แสดงเฉพาะข้อความที่ติดดาว">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.inaddrbook.label):
      The label for the filter button that causes us to filter results to only
      include messages from contacts in one of the user's non-remote address
      books.
      -->
+<!ENTITY quickFilterBar.inaddrbook.label
+         "ผู้ติดต่อ">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.inaddrbook.tooltip):
      The tooltip for the filter button that causes us to filter results to only
