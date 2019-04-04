@@ -157,6 +157,11 @@ about-debugging-runtime-profile-button = Runtime mba'ete
 # target runtime is incompatible with service workers. "Learn more" points to MDN.
 # https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
 about-debugging-runtime-service-workers-not-compatible = Pe kundahára ñemboheko ndojokupytýi Service Workers ndive. <a>Eikuaave</a>
+# This string is displayed in the runtime page if the remote browser version is too old.
+# "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/WebIDE/Troubleshooting
+# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
+# { $minVersion } is the minimum version that is compatible with the current Firefox instance (same format)
+about-debugging-browser-version-too-old = Aravo tembiaporã joajupyre oguereko itujáva ({ $runtimeVersion }). Ojokutyvéva ha’e ({ $minVersion }). Kóva ha'e peteĩ ñemboheko ndojokupytýiva ha ikatu ombyai DevTools rembiapo. Okatúpiko hembohekopyahu aravo tembiaporã joajupyre ndive. <a>Apañuãi ñemoĩporã</a>
 # Dedicated message for a backward compatibility issue that occurs when connecting:
 # - from Fx 67 to 66 or to 65
 # - from Fx 68 to 66
@@ -164,6 +169,13 @@ about-debugging-runtime-service-workers-not-compatible = Pe kundahára ñembohek
 # backward compatible changes broke the debugger in those scenarios (Bug 1528219).
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 about-debugging-browser-version-too-old-67-debugger = Ikatuhína pe mopotĩha rupa ndoikói aravo eike jave. Eipuru Firefox { $runtimeVersion } eipuruséramo mopotĩha ko kundaha ndive.
+# This string is displayed in the runtime page if the remote browser version is too recent.
+# "Troubleshooting" link points to https://developer.mozilla.org/en-US/docs/Tools/WebIDE/Troubleshooting
+# { $runtimeID } is the build ID of the remote browser (for instance "20181231", format is yyyyMMdd)
+# { $localID } is the build ID of the current Firefox instance (same format)
+# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
+# { $localVersion } is the version of your current browser (same format)
+about-debugging-browser-version-too-recent = Pe aravo eike javegua ohasa ramóva ({ $runtimeVersion }, buildID { $runtimeID }) ko { -brand-shorter-name } ({ $localVersion }, buildID { $localID }) rehegua. Kóva ha’e ñemboheko ndojokupytýiva ha ikatúva ombojavy DevTools. Ikatúpa embohekopyahu Firefox. <a>Apañuãi ñemoĩporã</a>
 # Displayed for runtime info in runtime pages.
 # { $name } is brand name such as "Firefox Nightly"
 # { $version } is version such as "64.0a1"
