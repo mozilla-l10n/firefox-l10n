@@ -28,8 +28,8 @@
 <!ENTITY imapLong.label                  "IMAP (foraj mesaĝujoj)">
 <!ENTITY pop3Long.label                  "POP3 (retpoŝto loke en via komputilo)">
 
-<!ENTITY incoming.label                  "Enira servilo:">
-<!ENTITY outgoing.label                  "Elira servilo:">
+<!ENTITY incoming.label                  "Eniga servilo:">
+<!ENTITY outgoing.label                  "Eliga servilo:">
 <!ENTITY username.label                  "Salutnomo:">
 <!ENTITY hostname.label                  "Servila nomo">
 <!ENTITY port.label                      "Pordo">
