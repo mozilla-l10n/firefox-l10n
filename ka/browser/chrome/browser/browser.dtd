@@ -204,7 +204,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY toggleReaderMode.win.keycode "VK_F9">
 
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label; – შესვლა">
-<!ENTITY fxaSignedIn.tooltip "სინქრონიზაციის პარამეტრების გახსნა">
+<!ENTITY fxaSignedIn.tooltip "გახსენით &syncBrand.shortName.label; – პარამეტრები">
 <!ENTITY fxaSignInError.label "&syncBrand.shortName.label; – ხელახლა დაკავშირება">
 <!ENTITY fxaUnverified.label "თქვენი ანგარიშის დადასტურება">
 
