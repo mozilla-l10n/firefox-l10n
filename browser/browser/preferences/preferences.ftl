@@ -343,7 +343,7 @@ browsing-cfr-recommendations-learn-more = იხილეთ ვრცლად
 ## General Section - Proxy
 
 network-settings-title = ქსელის პარამეტრები
-network-proxy-connection-description = { -brand-short-name }-ის ინტერნეტთან წვდომის პარამეტრების გამართვა.
+network-proxy-connection-description = მიუთითეთ, როგორ დაუკავშირდეს { -brand-short-name } ინტერნეტს.
 network-proxy-connection-learn-more = ვრცლად
 network-proxy-connection-settings =
     .label = პარამეტრები…
@@ -408,7 +408,7 @@ search-show-suggestions-url-bar-option =
 # (appearing before).
 search-show-suggestions-above-history-option =
     .label = ძიების შემოთავაზებების, მონახულებული გვერდების ისტორიაზე წინ გამოჩენა, მისამართების ველის შედეგებში
-search-suggestions-cant-show = მისამართების ველში ძიების შემოთავაზებები არ გამოჩნდება, ვინაიდან { -brand-short-name }-ს მითითებული აქვს, რომ ისტორია არასდროს დაიმახსოვროს.
+search-suggestions-cant-show = მისამართების ველში ძიების შემოთავაზებები არ გამოჩნდება, ვინაიდან მითითებული გაქვთ, რომ { -brand-short-name } არასოდეს დაიმახსოვრებს ისტორიას.
 search-one-click-header = ერთწკაპიანი საძიებო სისტემები
 search-one-click-desc = მიუთითეთ სათადარიგო საძიებო სისტემები, რომლებიც გამოჩნდება მისამართებისა და ძიების ველების ქვემოთ, საძებნი ფრაზის აკრეფისას.
 search-choose-engine-column =
@@ -591,7 +591,7 @@ history-remember-search-option =
     .label = ძიებისა და ველების ისტორიის დამახსოვრება
     .accesskey = ვ
 history-clear-on-close-option =
-    .label = ისტორიის გასუფთავება { -brand-short-name }-ის დახურვისას
+    .label = ისტორიის გასუფთავება, როცა { -brand-short-name } დაიხურება
     .accesskey = ფ
 history-clear-on-close-settings =
     .label = პარამეტრები…
@@ -610,7 +610,7 @@ sitedata-total-size-calculating = საიტის მონაცემებ
 sitedata-total-size = თქვენ მიერ შენახული ფუნთუშები, საიტის მონაცემები და კეში, ამჟამად დისკზე იკავებს { $value } { $unit } მოცულობას.
 sitedata-learn-more = ვრცლად
 sitedata-delete-on-close =
-    .label = ფუნთუშებისა და საიტის მონაცემების წაშლა { -brand-short-name }-ის დახურვისას
+    .label = ფუნთუშებისა და საიტის მონაცემების წაშლა, როცა { -brand-short-name } დაიხურება
     .accesskey = ხ
 sitedata-delete-on-close-private-browsing = პირადი თვალიერების მუდმივ რეჟიმში, ფუნთუშები და საიტის მონაცემები ყოველთვის გასუფთავდება, როცა { -brand-short-name } დაიხურება.
 sitedata-allow-cookies-option =
