@@ -155,6 +155,10 @@ about-debugging-runtime-processes =
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 # { $minVersion } is the minimum version that is compatible with the current Firefox instance (same format)
 about-debugging-browser-version-too-old = Le navigateur connecté dispose d’une ancienne version ({ $runtimeVersion }). La version minimale prise en charge est ({ $minVersion }). Il s’agit d’une configuration non prise en charge qui peut entraîner des problèmes avec les outils de développement. Veuillez mettre à jour le navigateur connecté. <a>Diagnostic de connexion</a>
+# Displayed for runtime info in runtime pages.
+# { $name } is brand name such as "Firefox Nightly"
+# { $version } is version such as "64.0a1"
+about-debugging-runtime-name = { $name } ({ $version })
 # Text of a button displayed in Runtime pages for remote runtimes.
 # Clicking on the button will close the connection to the runtime.
 about-debugging-runtime-disconnect-button = Se déconnecter
