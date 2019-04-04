@@ -272,7 +272,7 @@ update-application-version = ვერსია { $version } <a data-l10n-name="
 update-history =
     .label = განახლებების ისტორიის ჩვენება…
     .accesskey = ი
-update-application-allow-description = ნების დართვა { -brand-short-name }-ისთვის
+update-application-allow-description = ნებართვა, რომ { -brand-short-name }
 update-application-auto =
     .label = თავად დააყენოს განახლებები (სასურველია)
     .accesskey = თ
