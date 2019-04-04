@@ -10,6 +10,8 @@ about-config-warning-button = Ik aanvaard het risico
 
 about-config-title = about:config
 
+about-config2-title = Geavanceerde configuraties
+
 about-config-search-input =
     .placeholder = Zoeken
 about-config-show-all = Alles tonen
