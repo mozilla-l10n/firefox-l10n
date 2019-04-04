@@ -146,7 +146,7 @@ disabled-unsigned-heading =
 disabled-unsigned-description = ეს დამატებები არაა დამოწმებული { -brand-short-name }-ში გამოსაყენებლად. თქვენ შეგიძლიათ <label data-l10n-name="find-addons">მონახოთ შემცვლელები</label> ან სთხოვოთ შემქმნელს მათი დამოწმება.
 disabled-unsigned-learn-more = შეიტყვეთ მეტი ჩვენი ძალისხმევის შესახებ, ინტერნეტში თქვენი უსაფრთხოების დაცვისთვის.
 disabled-unsigned-devinfo = შემმუშავებლებს, რომელთაც თავიანთი დამატებების დამოწმება სურთ, შეუძლიათ განაგრძონ ჩვენი <label data-l10n-name="learn-more">სახელმძღვანელოს კითხვა</label>.
-plugin-deprecation-description = რამეს ვერ პოულობთ? ზოგიერთი მოდული აღარაა მხარდაჭერილი { -brand-short-name }-ში. <label data-l10n-name="learn-more">იხილეთ ვრცლად.</label>
+plugin-deprecation-description = რამეს ვერ პოულობთ? { -brand-short-name } აღარ იძლევა ზოგიერთი მოდულის გამოყენების შესაძლებლობას. <label data-l10n-name="learn-more">იხილეთ ვრცლად.</label>
 legacy-warning-show-legacy = მოძველებული გაფართოებების ჩვენება
 legacy-extensions =
     .value = მოძველებული გაფართოებები
