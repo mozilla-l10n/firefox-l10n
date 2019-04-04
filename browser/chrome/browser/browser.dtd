@@ -64,6 +64,8 @@ but will never be visible at the same time. -->
 These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  bookmarkSelectedTabs.accesskey     "k">
 
+<!-- Tab context menu -->
+
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
@@ -253,6 +255,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY exitDOMFullscreenMac.button "Ukončiť režim celej obrazovky (esc)">
 <!ENTITY leaveDOMFullScreen.label "Ukončiť režim celej obrazovky">
 <!ENTITY leaveDOMFullScreen.accesskey "U">
+
+<!-- LOCALIZATION NOTE (pictureInPicture.label, pictureInPicture.accesskey):
+     these two strings are used when right-clicking on a video in the
+     content area when the Picture-in-Picture feature is enabled. -->
+<!ENTITY pictureInPicture.label "Obraz v obraze">
+<!ENTITY pictureInPicture.accesskey "v">
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
@@ -956,6 +964,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncSignIn.label             "Prihlásiť sa do služby &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "r">
 <!ENTITY syncSyncNowItem.label        "Synchronizovať teraz">
+<!ENTITY syncSyncNowItemSyncing.label "Synchronizuje sa…">
 <!ENTITY syncSyncNowItem.accesskey    "N">
 <!ENTITY syncReAuthItem.label         "Znova pripojiť k &syncBrand.shortName.label;…">
 <!ENTITY syncReAuthItem.accesskey     "Z">
@@ -1158,6 +1167,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Spravujte svoje doplnky kliknutím na <image class='addon-addon-icon'/> v ponuke <image class='addon-toolbar-icon'/>.">
+<!ENTITY addonPostInstall.incognito.checkbox.label "Povoliť toto rozšírenie v súkromných oknách">
+<!ENTITY addonPostInstall.incognito.checkbox.accesskey "P">
 
 <!ENTITY addonPrivateBrowsing.header2.label "Zmena fungovania rozšírení v súkromných oknách">
 <!ENTITY addonPrivateBrowsing.body2.label "Novo nainštalované rozšírenia budú v súkromných oknách aplikácie &brandShorterName; vypnuté, až dokým ich nezapnete v možnostiach.">
