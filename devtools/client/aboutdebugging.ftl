@@ -25,7 +25,7 @@ aboutdebugging-sidebar-runtime-connection-status-disconnected = Odpojeno
 about-debugging-sidebar-item-connect-button = Připojit
 # Temporary text displayed in sidebar items representing remote runtimes after
 # successfully connecting to them. Temporary UI, do not localize.
-about-debugging-sidebar-item-connected-label = Odpojit
+about-debugging-sidebar-item-connected-label = Připojeno
 # Text displayed in sidebar items for remote devices where a compatible browser (eg
 # Firefox) has not been detected yet. Typically, Android phones connected via USB with
 # USB debugging enabled, but where Firefox is not started.
