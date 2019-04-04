@@ -58,13 +58,17 @@
 <!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "ปฏิเสธทั้งหมด">
 <!ENTITY lightning.imipbar.btnDeclineCounter.label                          "ปฏิเสธ">
 <!ENTITY lightning.imipbar.btnDelete.label                                  "ลบ">
+<!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "ลบออกจากปฏิทิน">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "รายละเอียด…">
 <!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "แสดงรายละเอียดเหตุการณ์">
 <!ENTITY lightning.imipbar.btnMore.label                                    "เพิ่มเติม">
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "คลิกเพื่อแสดงตัวเลือกเพิ่มเติม">
+<!ENTITY lightning.imipbar.btnSaveCopy.label                                "บันทึกสำเนา">
 <!ENTITY lightning.imipbar.btnUpdate.label                                  "อัปเดต">
 <!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "อัปเดตเหตุการณ์ในปฏิทิน">
 
+<!ENTITY lightning.imipbar.btnSend.label                                    "ส่งการตอบสนองตอนนี้">
+<!ENTITY lightning.imipbar.btnDontSend.label                                "ไม่ส่งการตอบสนอง">
 
 <!-- Lightning specific keybindings -->
 
@@ -76,4 +80,6 @@
 <!ENTITY todaypane.showMinimonth.accesskey "ส">
 <!ENTITY todaypane.showMiniday.label "แสดงวันขนาดเล็ก">
 <!ENTITY todaypane.showMiniday.accesskey  "ส">
+<!ENTITY todaypane.showTodayPane.label "แสดงบานหน้าต่างวันนี้">
+<!ENTITY todaypane.showTodayPane.accesskey "ส">
 <!ENTITY todaypane.statusButton.label "บานหน้าต่างวันนี้">
