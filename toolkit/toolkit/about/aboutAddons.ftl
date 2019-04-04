@@ -326,6 +326,11 @@ shortcuts-invalid = Ongeldige combinatie
 shortcuts-letter = Typ een letter
 shortcuts-system = Kan geen bestaande { -brand-short-name }-sneltoets gebruiken
 
+# String displayed when a keyboard shortcut is already used by another add-on
+# Variables:
+#   $addon (string) - Name of the add-on
+shortcuts-exists = Al in gebruik door { $addon }
+
 shortcuts-card-expand-button =
     { $numberToShow ->
         *[other] Nog { $numberToShow } tonen
