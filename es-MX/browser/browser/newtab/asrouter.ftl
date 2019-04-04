@@ -44,8 +44,12 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } usuario
        *[other] { $total } usuarios
     }
+cfr-doorhanger-pintab-description = Accede fácilmente a tus sitios más visitados. Mantén los sitios abiertos en una pestaña (incluso cuando reinicies).
 
 ## These messages are steps on how to use the feature and are shown together.
 
+cfr-doorhanger-pintab-step1 = <b>Haz clic con el botón derecho</b> en la pestaña que quieres fijar.
+cfr-doorhanger-pintab-step2 = Selecciona <b>Fijar pestaña</b> en el menú.
+cfr-doorhanger-pintab-step3 = Si el sitio tiene una actualización, verás un punto azul en tu pestaña fijada.
 cfr-doorhanger-pintab-animation-pause = Pausar
 cfr-doorhanger-pintab-animation-resume = Continuar
