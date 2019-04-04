@@ -249,6 +249,7 @@ shortcuts-modifier-other = Includi Ctrl o Alt
 shortcuts-invalid = Combinazione non valida
 shortcuts-letter = Inserisci una lettera
 shortcuts-system = Non è possibile sostituire una scorciatoia da tastiera di { -brand-short-name }
+shortcuts-exists = Già utilizzata da { $addon }
 shortcuts-card-expand-button = Visualizza altre { $numberToShow }
 shortcuts-card-collapse-button = Mostra meno scorciatoie
 go-back-button =
