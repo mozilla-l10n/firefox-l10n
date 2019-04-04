@@ -10,7 +10,6 @@
 <!ENTITY fullscreenButton.exitfullscreenlabel "Sortie du mode plein écran">
 <!ENTITY castingButton.castingLabel "Diffuser sur l’écran">
 <!ENTITY closedCaption.off "Désactivés">
-
 <!-- LOCALIZATION NOTE (volumeScrubber.label): This label is exposed to
      accessibility software to clarify what the slider is for. -->
 <!ENTITY volumeScrubber.label "Curseur de volume">
@@ -34,6 +33,8 @@
 <!ENTITY error.srcNotSupported "Le format vidéo ou le type MIME n’est pas géré.">
 <!ENTITY error.noSource2 "Aucune vidéo dont le format ou le type MIME est géré n’a été trouvée.">
 <!ENTITY error.generic "La lecture de la vidéo a été interrompue à cause d’une erreur inconnue.">
+
+<!ENTITY status.pictureInPicture "Cette vidéo est en cours de lecture en mode incrustation.">
 
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at

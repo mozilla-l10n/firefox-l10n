@@ -10,6 +10,9 @@
 
 # Page title (ie tab title) for the Setup page
 about-debugging-page-title-setup-page = Débogage - Configuration
+# Page title (ie tab title) for the Runtime page
+# { $selectedRuntimeId } is the id of the current runtime, such as "this-firefox", "localhost:6080", ...
+about-debugging-page-title-runtime-page = Débogage - Exécution / { $selectedRuntimeId }
 
 # Sidebar strings
 
@@ -208,6 +211,11 @@ about-debugging-worker-action-push = Push
 about-debugging-worker-action-start = Démarrer
 # This string is displayed as a label of the button that unregisters a service worker.
 about-debugging-worker-action-unregister = Désinscrire
+# Displayed for service workers in runtime pages that are currently running (service
+# worker instance is active).
+about-debugging-worker-status-running = Exécution
+# Displayed for service workers in runtime pages that are registered but stopped.
+about-debugging-worker-status-stopped = Arrêté
 # Displayed as name for the Main Process debug target in the Processes category. Only for
 # remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-main-process-name = Processus principal
