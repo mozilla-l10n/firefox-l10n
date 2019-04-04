@@ -9,7 +9,7 @@ update-checkForUpdatesButton =
     .label = Провери да ли постоје ажурирања
     .accesskey = П
 update-updateButton =
-    .label = Рестартуј да се { -brand-shorter-name } ажурира
+    .label = Поново покрени да се { -brand-shorter-name } ажурира
     .accesskey = к
 update-checkingForUpdates = Провера надоградњи…
 update-downloading = <img data-l10n-name="icon"/>Преузимам надоградњу — <label data-l10n-name="download-status"/>
@@ -30,8 +30,6 @@ helpus = Желите да помогнете? <label data-l10n-name="helpus-don
 bottomLinks-license = Информације о лиценцирању
 bottomLinks-rights = Права крајњег корисника
 bottomLinks-privacy = Полиса приватности
-aboutDialog-architecture-sixtyFourBit = 64-bit
-aboutDialog-architecture-thirtyTwoBit = 32-bit
 # Example of resulting string: 66.0.1 (64-bit)
 # Variables:
 #   $version (String): version of Firefox, e.g. 66.0.1
