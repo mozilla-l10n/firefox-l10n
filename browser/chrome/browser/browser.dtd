@@ -132,6 +132,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.accesskey "I">
 <!ENTITY printCmd.commandkey "p">
 
+<!ENTITY importFromAnotherBrowserCmd.accesskey "I">
 
 <!ENTITY taskManagerCmd.label "Administrador de tareas">
 
@@ -231,7 +232,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Ingresado como">
 <!ENTITY fxa.menu.manageAccount.label "Administrar cuenta…">
+<!ENTITY fxa.menu.connectAnotherDevice.label "&syncedTabs.sidebar.connectAnotherDevice;">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Conectar otro dispositivo…">
+<!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -254,6 +257,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      these two strings are used when right-clicking on a video in the
      content area when the Picture-in-Picture feature is enabled. -->
 <!ENTITY pictureInPicture.label "Picture-in-Picture">
+<!ENTITY pictureInPicture.accesskey "u">
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
@@ -906,6 +910,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "No tienes permitido en este sitio web ningún permiso especial.">
 <!ENTITY identity.permissionsReloadHint "Puede que tengas que recargar la página para que se apliquen los cambios.">
 <!ENTITY identity.permissionsPreferences.tooltip "Abrir preferencias de permisos">
+<!ENTITY identity.contentBlockingPreferences.tooltip "Abrir preferencias de bloqueo de contenido">
 
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -1157,7 +1162,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Administra tus complementos haciendo clic <image class='addon-addon-icon'/> en el <image class='addon-toolbar-icon'/> menú.">
+<!ENTITY addonPostInstall.incognito.checkbox.accesskey "A">
 
 <!ENTITY addonPrivateBrowsing.okButton.label "Listo, entendido">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "O">
 <!ENTITY addonPrivateBrowsing.manageButton.label "Administrar extensiones">
+<!ENTITY addonPrivateBrowsing.manageButton.accesskey "M">
