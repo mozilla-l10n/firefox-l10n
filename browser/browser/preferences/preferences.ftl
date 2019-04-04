@@ -571,8 +571,8 @@ history-header = ისტორია
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label = { -brand-short-name } ბრაუზერი
-    .accesskey = ბ
+history-remember-label = { -brand-short-name }
+    .accesskey = o
 history-remember-option-all =
     .label = დაიმახსოვრებს ისტორიას
 history-remember-option-never =
@@ -767,7 +767,7 @@ permissions-a11y-privacy-link = იხილეთ ვრცლად
 
 ## Privacy Section - Data Collection
 
-collection-header = { -brand-short-name } მონაცემთა აღრიცხვა და გამოყენება
+collection-header = { -brand-short-name } – მონაცემთა აღრიცხვა და გამოყენება
 collection-description = ჩვენ ვცდილობთ მოგცეთ არჩევანის უფლება და აღვრიცხოთ მხოლოდ ის მონაცემები, რომლებიც დაგვეხმარება, გავაუმჯობესოთ { -brand-short-name }. ჩვენ ყოველთვის დაგეკითხებით, პირადი ინფორმაციის მიღებამდე.
 collection-privacy-notice = პირადი მონაცემების დაცვის განაცხადი
 collection-health-report =
