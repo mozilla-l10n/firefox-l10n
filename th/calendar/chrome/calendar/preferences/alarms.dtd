@@ -17,6 +17,7 @@
 <!ENTITY pref.calendar.alarms.sound.play.accessKey "ล">
 <!ENTITY pref.showalarmbox "แสดงกล่องโต้ตอบการเตือนความจำ">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "ส">
+<!ENTITY pref.calendar.alarms.defaults.label "ค่าเริ่มต้นการเตือนความจำ">
 <!ENTITY pref.alarm.on "เปิด">
 <!ENTITY pref.alarm.off "ปิด">
 
