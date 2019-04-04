@@ -99,7 +99,7 @@ extension-controlled-privacy-containers = <img data-l10n-name="icon"/> { $name }
 extension-controlled-websites-content-blocking-all-trackers = გაფართოება <img data-l10n-name="icon"/> { $name } მართავს ამ პარამეტრებს.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
-extension-controlled-proxy-config = { -brand-short-name }-ის ინტერნეტთან კავშირის პარამეტრებს განსაზღვრავს <img data-l10n-name="icon"/> { $name } გაფართოება.
+extension-controlled-proxy-config = პარამეტრებს, რომლითც { -brand-short-name } უკავშირდება ინტერნეტს, განსაზღვრავს <img data-l10n-name="icon"/> { $name } გაფართოება.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -124,7 +124,7 @@ startup-header = ჩართვისას
 # { -brand-short-name } will be 'Firefox Developer Edition',
 # since this setting is only exposed in Firefox Developer Edition
 separate-profile-mode =
-    .label = { -brand-short-name }-ის და Firefox-ის ერთად გაშვების ნების დართვა
+    .label = ნებართვა, რომ { -brand-short-name } და Firefox გაეშვას ერთდროულად
 use-firefox-sync = რჩევა: ეს სხვადასხვა პროფილებს იყენებს. მათ შორის მონაცემების გასაზიარებლად { -sync-brand-short-name } გამოიყენეთ.
 get-started-not-logged-in = { -sync-brand-short-name }-ში შესვლა…
 get-started-configured = { -sync-brand-short-name }-პარამეტრების გახსნა
@@ -308,7 +308,7 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = შიგთავსის პროცესების შეზღუდვა
     .accesskey = ზ
 performance-limit-content-process-enabled-desc = შიგთავსის დამატებით პროცესებს, ბევრი ჩანართით სარგებლობისას, შეუძლია წარმადობის გაუმჯობესება, მაგრამ ასევე გამოიყენებს მეტ მეხსიერებას.
-performance-limit-content-process-blocked-desc = შიგთავსის პროცესების რაოდენობის შეცვლა, მხოლოდ მრავალპროცესიან { -brand-short-name }-შია შესაძლებელი. <a data-l10n-name="learn-more">შეიტყვეთ, თუ როგორ უნდა შემოწმდეს ჩართულია თუ არა მრავალპროცესიანობა</a>
+performance-limit-content-process-blocked-desc = შიგთავსის პროცესების რაოდენობის შეცვლის შესაძლებლობას, მხოლოდ მრავალპროცესიანი { -brand-short-name } იძლევა. <a data-l10n-name="learn-more">იხილეთ, თუ როგორ უნდა შემოწმდეს ჩართულია თუ არა მრავალპროცესიანობა</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
