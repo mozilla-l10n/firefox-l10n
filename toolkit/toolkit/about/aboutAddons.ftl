@@ -38,7 +38,7 @@ show-all-extensions-button =
     .label = Mostrar todas as extensões
 debug-addons =
     .label = Depurar extensões
-    .accesskey = B
+    .accesskey = x
 cmd-show-details =
     .label = Mostrar mais informações
     .accesskey = E
@@ -211,10 +211,10 @@ extensions-updates-update-addons-automatically =
 ## extensions-updates-update-addons-automatically.label menu item).
 
 extensions-updates-reset-updates-to-automatic =
-    .label = Definir atualização automática para todos
+    .label = Definir atualização automática de tudo
     .accesskey = D
 extensions-updates-reset-updates-to-manual =
-    .label = Definir atualização manual para todos
+    .label = Definir atualização manual de tudo
     .accesskey = D
 
 ## Status messages displayed when updating add-ons
