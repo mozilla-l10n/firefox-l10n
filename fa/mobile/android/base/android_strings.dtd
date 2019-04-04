@@ -63,6 +63,12 @@
 <!ENTITY  crash_restart_label "راه‌اندازی مجدد &brandShortName;">
 
 <!ENTITY url_bar_default_text2 "جستجو کنید یا آدرسی را وارد کنید">
+
+<!-- Localization note: this text will be displayed in the Search Widget -->
+<!ENTITY search_widget_default_text "جست در جو اینترنت">
+<!ENTITY search_widget_default_cropped_text "جست‌ و جو">
+<!ENTITY search_widget_logo_description "جست وجو در اینترنت به وسیله &brandShortName;">
+
 <!-- Localization note (url_bar_qrcode_text2) : This text will be
      heard by non-visual users when the focus is on the QR Code
      icon in the url bar. -->
@@ -335,6 +341,9 @@
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
 <!ENTITY tab_queue_prompt_settings_button "برو به تنظیمات">
+<!-- Localization note (tab_queue_notification_prompt): This is the text of the default notification
+shown from Android O while a tab is being queued.-->
+<!ENTITY tab_queue_notification_prompt "اضافه کردن یک زبانه جدید به صف&#8230;">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -393,7 +402,6 @@
 <!ENTITY pref_private_data_searchHistory "تاریخچهٔ جست‌وجو">
 <!ENTITY pref_private_data_formdata2 "تاریخچهٔ فرم‌ها">
 <!ENTITY pref_private_data_cookies2 "کوکی‌ها و ورودهای فعال">
-<!ENTITY pref_private_data_passwords2 "ورودهای ذخیره شده">
 <!ENTITY pref_private_data_cache "حافظهٔ نهان">
 <!ENTITY pref_private_data_offlineApps "اطلاعات آفلاین وب‌سایت‌ها">
 <!ENTITY pref_private_data_siteSettings2 "تنظیمات سایت‌ها">
