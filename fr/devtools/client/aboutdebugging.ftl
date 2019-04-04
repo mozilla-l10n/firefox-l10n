@@ -73,6 +73,8 @@ about-debugging-setup-intro = Configurez la méthode de connexion avec laquelle 
 # Link displayed in the Setup page that leads to MDN page with list of supported devices.
 # Temporarily leads to https://support.mozilla.org/en-US/kb/will-firefox-work-my-mobile-device#w_android-devices
 about-debugging-setup-link-android-devices = Liste des appareils Android pris en charge
+# Explanatory text in the Setup page about what the 'This Firefox' page is for
+about-debugging-setup-this-firefox = Utilisez <a>{ about-debugging-this-firefox-runtime-name }</a> pour déboguer des onglets, extensions et service workers sur cette version de { -brand-shorter-name }.
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = Connecter un appareil
 # USB section of the Setup page
