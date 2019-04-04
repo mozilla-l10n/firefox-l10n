@@ -7,7 +7,7 @@
 <!ENTITY replaceDialog.title "პოვნა და შეცვლა">
 <!ENTITY findField.label "რას ვეძებთ:">
 <!ENTITY findField.accesskey "n">
-<!ENTITY replaceField.label "რით ვცვლით:">
+<!ENTITY replaceField.label "ჩანაცვლება:">
 <!ENTITY replaceField.accesskey "e">
 <!ENTITY caseSensitiveCheckbox.label "რეგისტრის გათვალისწინებით">
 <!ENTITY caseSensitiveCheckbox.accesskey "c">
