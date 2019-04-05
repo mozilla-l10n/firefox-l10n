@@ -247,6 +247,10 @@ shortcuts-modifier-other = Strg abo Alt zapřijeć
 shortcuts-invalid = Njepłaćiwa kombinacija
 shortcuts-letter = Zapodajće pismik
 shortcuts-system = Tastowa skrótšenka { -brand-short-name } njeda so přepisać
+# String displayed when a keyboard shortcut is already used by another add-on
+# Variables:
+#   $addon (string) - Name of the add-on
+shortcuts-exists = Wužiwa so hižo přez { $addon }
 shortcuts-card-expand-button =
     { $numberToShow ->
         [one] { $numberToShow } dalši pokazać
