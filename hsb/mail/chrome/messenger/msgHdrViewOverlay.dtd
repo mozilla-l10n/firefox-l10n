@@ -70,12 +70,12 @@
 <!ENTITY viewSourceMenuItem1.accesskey "t">
 <!ENTITY otherActionsPrint1.label "Ćišćeć…">
 <!ENTITY otherActionsPrint1.accesskey "i">
-<!-- Attachment bar context menu items -->
 
+<!-- Attachment bar context menu items -->
 <!ENTITY startExpandedCmd.label    "Wokno přiwěškow spočatnje pokazać">
 <!ENTITY startExpandedCmd.accesskey    "W">
-<!-- Attachment context menu items -->
 
+<!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label    "Wočinić">
 <!ENTITY openAttachmentCmd.accesskey    "W">
 <!ENTITY saveAsAttachmentCmd.label    "Składować jako…">
@@ -94,8 +94,13 @@
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "h">
 
 <!ENTITY openAttachment.tooltip "Připowěsnjenu dataju wočinić">
-<!-- Attachment toolbar items -->
 
+<!ENTITY detachedAttachmentFolder.show.label        "Wobsahowacy rjadowak wočinić">
+<!ENTITY detachedAttachmentFolder.show.accesskey    "s">
+<!ENTITY detachedAttachmentFolder.showMac.label     "W Finder pokazać">
+<!ENTITY detachedAttachmentFolder.showMac.accesskey "F">
+
+<!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label       "Składować">
 <!ENTITY saveAttachmentButton1.tooltip     "Připowěsnjenu dataju składować">
 <!ENTITY saveAllAttachmentsButton1.label   "Wšě składować">
