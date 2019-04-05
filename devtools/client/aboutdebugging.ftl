@@ -113,6 +113,11 @@ about-debugging-network-locations-remove-button = Remover
 
 # Runtime Page strings
 
+# Below are the titles for the various categories of debug targets that can be found
+# on "runtime" pages of about:debugging.
+# Title of the temporary extensions category (only available for "This Firefox" runtime).
+about-debugging-runtime-temporary-extensions =
+    .name = Extensiones temporales
 # Title of the extensions category.
 about-debugging-runtime-extensions =
     .name = Extensiones
