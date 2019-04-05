@@ -39,13 +39,20 @@ about-debugging-sidebar-no-devices = Không có thiết bị nào được phát
 # Text displayed in buttons found in sidebar items representing remote runtimes.
 # Clicking on the button will attempt to connect to the runtime.
 about-debugging-sidebar-item-connect-button = Kết nối
+# Text displayed in buttons found in sidebar items when the runtime is connecting.
+about-debugging-sidebar-item-connect-button-connecting = Đang kết nối…
+# Text displayed in buttons found in sidebar items when the connection failed.
+about-debugging-sidebar-item-connect-button-connection-failed = Kết nối thất bại
+# Text displayed in connection warning on sidebar item of the runtime when connecting to
+# the runtime is taking too much time.
+about-debugging-sidebar-item-connect-button-connection-not-responding = Kết nối đang chờ xử lý, kiểm tra tin nhắn trên trình duyệt đích
 # Temporary text displayed in sidebar items representing remote runtimes after
 # successfully connecting to them. Temporary UI, do not localize.
 about-debugging-sidebar-item-connected-label = Đã kết nối
-# Text displayed in sidebar items for remote devices where a compatible runtime (eg
+# Text displayed in sidebar items for remote devices where a compatible browser (eg
 # Firefox) has not been detected yet. Typically, Android phones connected via USB with
 # USB debugging enabled, but where Firefox is not started.
-about-debugging-sidebar-runtime-item-waiting-for-runtime = Đang chờ runtime...
+about-debugging-sidebar-runtime-item-waiting-for-browser = Đang chờ trình duyệt...
 # Title for runtime sidebar items that are related to a specific device (USB, WiFi).
 about-debugging-sidebar-runtime-item-name =
     .title = { $displayName } ({ $deviceName })
@@ -53,6 +60,13 @@ about-debugging-sidebar-runtime-item-name =
 # locations).
 about-debugging-sidebar-runtime-item-name-no-device =
     .title = { $displayName }
+# Text to show in the footer of the sidebar that links to a help page
+# (currently: https://developer.mozilla.org/docs/Tools/about:debugging)
+about-debugging-sidebar-support = Hỗ trợ gỡ lỗi
+# Text to show as the ALT attribute of a help icon that accompanies the help about
+# debugging link in the footer of the sidebar
+about-debugging-sidebar-support-icon =
+    .alt = Biểu tượng trợ giúp
 # Text displayed in a sidebar button to refresh the list of USB devices. Clicking on it
 # will attempt to update the list of devices displayed in the sidebar.
 about-debugging-refresh-usb-devices-button = Làm mới thiết bị
@@ -109,6 +123,14 @@ about-debugging-network-locations-host-input-label = Máy chủ
 # Text of a button displayed next to existing network locations in the Connect page.
 # Clicking on it removes the network location from the list.
 about-debugging-network-locations-remove-button = Xóa
+# Text used as error message if the format of the input value was invalid in the network locations form of the Setup page.
+# Variables:
+#   $host-value (string) - The input value submitted by the user in the network locations form
+about-debugging-network-location-form-invalid = Máy chủ lưu trữ không hợp lệ khác "{ $host-value }". Định dạng dự kiến là tên máy chủ lưu trữ: portnumber.
+# Text used as error message if the input value was already registered in the network locations form of the Setup page.
+# Variables:
+#   $host-value (string) - The input value submitted by the user in the network locations form
+about-debugging-network-location-form-duplicate = Máy chủ lưu trữ "{ $host-value }" đã được đăng ký
 
 # Runtime Page strings
 
@@ -142,25 +164,6 @@ about-debugging-runtime-profile-button = Hồ sơ runtime
 # target runtime is incompatible with service workers. "Learn more" points to MDN.
 # https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
 about-debugging-runtime-service-workers-not-compatible = Cấu hình trình duyệt của bạn không tương thích với Service Workers. <a>Tìm hiểu thêm</a>
-# This string is displayed in the runtime page if the remote runtime version is too old.
-# "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/WebIDE/Troubleshooting
-# { $runtimeVersion } is the version of the remote runtime (for instance "67.0a1")
-# { $minVersion } is the minimum version that is compatible with the current Firefox instance (same format)
-about-debugging-runtime-version-too-old = Runtime được kết nối có phiên bản cũ ({ $runtimeVersion }). Phiên bản được hỗ trợ tối thiểu là ({ $minVersion }). Đây là một thiết lập không được hỗ trợ và có thể khiến DevTools bị lỗi. Vui lòng cập nhật runtime được kết nối. <a>Khắc phục sự cố</a>
-# Dedicated message for a backward compatibility issue that occurs when connecting:
-# - from Fx 67 to 66 or to 65
-# - from Fx 68 to 66
-# Those are normally in range for DevTools compatibility policy, but specific non
-# backward compatible changes broke the debugger in those scenarios (Bug 1528219).
-# { $runtimeVersion } is the version of the remote runtime (for instance "67.0a1")
-about-debugging-runtime-version-too-old-67-debugger = Bảng trình gỡ lỗi có thể không hoạt động với runtime được kết nối. Vui lòng sử dụng Firefox { $runtimeVersion } nếu bạn cần sử dụng trình gỡ lỗi với runtime này.
-# This string is displayed in the runtime page if the remote runtime version is too recent.
-# "Troubleshooting" link points to https://developer.mozilla.org/en-US/docs/Tools/WebIDE/Troubleshooting
-# { $runtimeID } is the build ID of the remote runtime (for instance "20181231", format is yyyyMMdd)
-# { $localID } is the build ID of the current Firefox instance (same format)
-# { $runtimeVersion } is the version of the remote runtime (for instance "67.0a1")
-# { $localVersion } is the version of your current runtime (same format)
-about-debugging-runtime-version-too-recent = Runtime được kết nối gần đây ({ $runtimeVersion }, ID bản dựng { $runtimeID }) so với { -brand-shorter-name } ({ $localVersion }, ID bản dựng { $localID }). Đây là một thiết lập không được hỗ trợ và có thể khiến DevTools bị lỗi. Vui lòng cập nhật Firefox. <a>Khắc phục sự cố</a>
 # Displayed for runtime info in runtime pages.
 # { $name } is brand name such as "Firefox Nightly"
 # { $version } is version such as "64.0a1"
@@ -264,5 +267,5 @@ about-debugging-worker-push-service =
 # remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-main-process-name = Tiến trình chính
 # Displayed as description for the Main Process debug target in the Processes category.
-# Only for remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
-about-debugging-main-process-description = Tiến trình chính cho runtime đích
+# Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
+about-debugging-main-process-description2 = Quy trình chính cho trình duyệt đích
