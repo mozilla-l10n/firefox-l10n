@@ -243,6 +243,10 @@ shortcuts-modifier-other = Enkorfañ Ctrl pe Alt
 shortcuts-invalid = Kenaozadur didalvoudek
 shortcuts-letter = Biziatait ul lizherenn
 shortcuts-system = N'haller ket flastrañ ur verradenn { -brand-short-name }
+# String displayed when a keyboard shortcut is already used by another add-on
+# Variables:
+#   $addon (string) - Name of the add-on
+shortcuts-exists = Arveret gant { $addon } endeo
 shortcuts-card-expand-button =
     { $numberToShow ->
         [one] Diskouez { $numberToShow } ouzhpenn
