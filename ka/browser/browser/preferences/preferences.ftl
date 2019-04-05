@@ -776,7 +776,7 @@ collection-health-report =
 collection-health-report-link = იხილეთ ვრცლად
 collection-studies =
     .label = ნებართვა, რომ { -brand-short-name } შეძლებს კვლევების დაყენებასა და გაშვებას
-collection-studies-link = იხილეთ { -brand-short-name } კვლევები
+collection-studies-link = იხილეთ { -brand-short-name } – კვლევები
 addon-recommendations =
     .label = ნებართვა, რომ { -brand-short-name } შეძლებს მორგებული გაფართოებების შემოთავაზებას
 addon-recommendations-link = ვრცლად
@@ -784,7 +784,7 @@ addon-recommendations-link = ვრცლად
 # or builds with no Telemetry support available.
 collection-health-report-disabled = მოხსენებები გამორთულია ანაწყობის ამ კონფიგურაციისთვის
 collection-backlogged-crash-reports =
-    .label = ნებართვა, რომ { -brand-short-name } შეძლებს, გადააგზავნოს დაგროვილი უეცარი გათიშვების შეტყობინებები თქვენი სახელით
+    .label = ნებართვა, რომ { -brand-short-name } შეძლებს, გადააგზავნოს უეცარი გათიშვების დაგროვილი შეტყობინებები თქვენი სახელით
     .accesskey = დ
 collection-backlogged-crash-reports-link = ვრცლად
 
