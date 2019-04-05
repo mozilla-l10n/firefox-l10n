@@ -8,6 +8,7 @@ about-config-warning-text = การเปลี่ยนการตั้ง�
 about-config-warning-checkbox = ได้โปรดกวนฉันอีกที!
 about-config-warning-button = ฉันยอมรับความเสี่ยง
 about-config-title = about:config
+about-config2-title = การกำหนดค่าขั้นสูง
 about-config-search-input =
     .placeholder = ค้นหา
 about-config-show-all = แสดงทั้งหมด
