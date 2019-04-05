@@ -8,7 +8,12 @@
 <!ENTITY stretch.label              "Расцягнуць">
 <!ENTITY fill.label                 "Запоўніць">
 <!ENTITY fit.label                  "Уціснуць">
-<!ENTITY preview.label              "Перадпрагляд">
+<!-- LOCALIZATION NOTE (span.label): This refers to the wallpaper "spanning"
+                       multiple monitors when the user has more than one. Only
+                       some of the entire image will be on each monitor.
+                       This should ideally match the wording in Windows' own
+                       Desktop Background settings page. -->
+<!ENTITY span.label                 "Разгарнуць">
 <!ENTITY color.label                "Колер:">
 <!ENTITY setDesktopBackground.title "Усталяваць фон працоўнага стала">
 <!ENTITY openDesktopPrefs.label     "Адчыніць налады працоўнага стала">
