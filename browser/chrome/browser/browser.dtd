@@ -64,6 +64,8 @@ but will never be visible at the same time. -->
 These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  bookmarkSelectedTabs.accesskey     "k">
 
+<!-- Tab context menu -->
+
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
@@ -108,7 +110,6 @@ These items have the same accesskey but will never be visible at the same time. 
 <!ENTITY  hiddenTabs.label                   "লুকাইত ট্যাব">
 
 <!ENTITY  listAllTabs.label      "সব ট্যাবের তালিকা">
-
 <!-- LOCALIZATION NOTE (allTabsMenu.searchTabs.label): "Search" is a verb, as
 in "Search through tabs". -->
 <!ENTITY  allTabsMenu.searchTabs.label       "অনুসন্ধান ট্যাব">
@@ -130,6 +131,9 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.label "মুদ্রণ…">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "p">
+
+<!ENTITY importFromAnotherBrowserCmd.label "অন্য ব্রাউজার থেকে আমদানি করুন…">
+<!ENTITY importFromAnotherBrowserCmd.accesskey "I">
 
 <!ENTITY taskManagerCmd.label "কাজ ব্যবস্থাপক">
 
@@ -213,6 +217,20 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenExit.label "পূর্ণ পর্দাজুড়ে প্রদর্শন মোড থেকে প্রস্থান">
 <!ENTITY fullScreenExit.accesskey "F">
 
+ <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
+     for the Firefox Account toolbar signin menu screen. -->
+<!ENTITY fxa.signin.callout.label "Firefox কে আপনার সাথে নিন">
+
+<!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
+     for the Firefox Account toolbar unverified menu screen. -->
+
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbart menu screen. The `Signed in as` text is
+     followed by the user's email. -->
+<!ENTITY fxa.menu.signedInAs.label "সাইন ইন করা আছে">
+<!ENTITY fxa.menu.manageAccount.label "অ্যাকাউন্ট ব্যবস্থাপনা…">
+<!ENTITY fxa.menu.connectAnotherDevice2.label "অন্য ডিভাইস সংযুক্ত করুন…">
+
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring fullscreen.
@@ -229,6 +247,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY exitDOMFullscreenMac.button "পূর্ণ পর্দা বন্ধ করুন (esc)">
 <!ENTITY leaveDOMFullScreen.label "পূর্ণ পর্দাজুড়ে প্রদর্শন মোড হতে প্রস্থান">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
+
+<!-- LOCALIZATION NOTE (pictureInPicture.label, pictureInPicture.accesskey):
+     these two strings are used when right-clicking on a video in the
+     content area when the Picture-in-Picture feature is enabled. -->
+<!ENTITY pictureInPicture.label "ছবির মধ্যে ছবি">
+<!ENTITY pictureInPicture.accesskey "u">
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
@@ -407,6 +431,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "পছন্দসমূহ">
 <!ENTITY preferencesCmdUnix.accesskey     "n">
+
+<!ENTITY logins.label                           "লগইন এবং পাসওয়ার্ড">
 
 <!ENTITY clearRecentHistory.label               "সাম্প্রতিক ইতিহাস অপসারণ…">
 
@@ -881,7 +907,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsPreferences.tooltip "অনুমতির পছন্দ খুলুন">
 
 
-
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "ব্রাউজার ট্যাব">
@@ -930,6 +955,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncSignIn.label             "&syncBrand.shortName.label; এ সাইন ইন করুন…">
 <!ENTITY syncSignIn.accesskey         "Y">
 <!ENTITY syncSyncNowItem.label        "এখন সিঙ্ক">
+<!ENTITY syncSyncNowItemSyncing.label "সিঙ্ক করা হচ্ছে…">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "&syncBrand.shortName.label;... এ পুনরায় সংযুক্ত হউন">
 <!ENTITY syncReAuthItem.accesskey     "R">
@@ -1132,8 +1158,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "আপনার অ্যাড-অন পরিচালনা করতে <image class='addon-addon-icon'/> মেনুতে <image class='addon-toolbar-icon'/> ক্লিক করুন।">
+<!ENTITY addonPostInstall.incognito.checkbox.accesskey "A">
 
-<!ENTITY addonPrivateBrowsing.header.label "ব্যক্তিগত উইন্ডোতে এক্সটেনশন">
+<!ENTITY addonPrivateBrowsing.header2.label "এক্সটেনশনটিকে ব্যক্তিগত উইন্ডোতে তে পরিবর্তন করুন">
+<!ENTITY addonPrivateBrowsing.learnMore.label "কিভাবে এক্সটেনশন সেটিংস করতে হয় জানুন">
 <!ENTITY addonPrivateBrowsing.okButton.label "ঠিকাছে, বুঝতে পেরেছি">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "O">
 <!ENTITY addonPrivateBrowsing.manageButton.label "এক্সটেনশন ব্যবস্থাপনা">

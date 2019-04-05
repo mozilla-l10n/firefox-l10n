@@ -47,5 +47,6 @@ cfr-doorhanger-extension-total-users =
 
 ## These messages are steps on how to use the feature and are shown together.
 
+cfr-doorhanger-pintab-step2 = মেনু থেকে <b>পিন ট্যাব</b> নির্বাচন করুন।
 cfr-doorhanger-pintab-animation-pause = বিরতি
 cfr-doorhanger-pintab-animation-resume = পুনরায় শুরু
