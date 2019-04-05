@@ -96,7 +96,9 @@
 <!ENTITY openAttachment.tooltip "Odpri pripeto datoteko">
 
 <!ENTITY detachedAttachmentFolder.show.label        "Odpri vsebujočo mapo">
+<!ENTITY detachedAttachmentFolder.show.accesskey    "v">
 <!ENTITY detachedAttachmentFolder.showMac.label     "Prikaži v Finderju">
+<!ENTITY detachedAttachmentFolder.showMac.accesskey "F">
 
 <!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label       "Shrani">
