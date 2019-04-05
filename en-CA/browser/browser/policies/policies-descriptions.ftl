@@ -64,6 +64,7 @@ policy-OverrideFirstRunPage = Override the first run page. Set this policy to bl
 policy-OverridePostUpdatePage = Override the post-update “What’s New” page. Set this policy to blank if you want to disable the post-update page.
 policy-Permissions = Configure permissions for camera, microphone, location and notifications.
 policy-PopupBlocking = Allow certain websites to display popups by default.
+policy-Preferences = Set and lock the value for a subset of preferences.
 policy-Proxy = Configure proxy settings.
 policy-RequestedLocales = Set the list of requested locales for the application in order of preference.
 policy-SanitizeOnShutdown = Clear all navigation data on shutdown.
