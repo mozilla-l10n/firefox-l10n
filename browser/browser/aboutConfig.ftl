@@ -8,6 +8,7 @@ about-config-warning-text = Gaž toś te rozšyrjone nastajenja změnijośo, mó
 about-config-warning-checkbox = Wobuz mě zasej pšosym!
 about-config-warning-button = Akceptěrujom riziko
 about-config-title = about:config
+about-config2-title = Rozšyrjone konfiguracije
 about-config-search-input =
     .placeholder = Pytaś
 about-config-show-all = Wšykne pokazaś
