@@ -97,6 +97,7 @@
 <!ENTITY certerror.longpagetitle1 "আপনার সংযোগ নিরাপদ নয়">
 
 <!ENTITY certerror.longpagetitle2 "সতর্কতা: সামনে সম্ভাব্য নিরাপত্তা ঝুঁকি রয়েছে">
+<!ENTITY certerror.sts.longpagetitle  "সংযুক্ত হয়নি: সম্ভাব্য নিরাপত্তা সমস্যা">
 <!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
@@ -152,6 +153,7 @@ was trying to connect. -->
 <!ENTITY certerror.pagetitle1  "অনিরাপদ সংযোগ">
 
 <!ENTITY certerror.pagetitle2  "সতর্কতা: সামনে সম্ভাব্য নিরাপত্তা ঝুঁকি রয়েছে">
+<!ENTITY certerror.sts.pagetitle  "সংযুক্ত হয়নি: সম্ভাব্য নিরাপত্তা সমস্যা">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "সাইটটি HTTP ব্যবহার করে পরিবহনে সর্বোচ্চ নিরাপত্তা (HSTS) নিশ্চিত করে যে &brandShortName; এর সাথে শুধুমাত্র সুরক্ষিত সংযোগ করবে। যার ফলে, এই সার্টিফিকেট এর জন্যে একটি ব্যতিক্রম যোগ করা যাবেনা।">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> এর HTTP স্ট্রিক্ট ট্রান্সপোর্ট সিকিউরিটি (এইচএসটিএস) নামে একটি নিরাপত্তা নীতি রয়েছে, যার মানে হল যে &brandShortName; শুধুমাত্র নিরাপদভাবে সংযোগ করতে পারবে। আপনি এই সাইট দেখার জন্য কোন ব্যতিক্রম যোগ করতে পারবেন না।">
 <!ENTITY certerror.copyToClipboard.label "লেখা ক্লিপবোর্ডে অনুলিপি করুন।">
@@ -163,6 +165,7 @@ was trying to connect. -->
 
 <!ENTITY blockedByPolicy.title "ব্লক করা পাতা">
 
+<!ENTITY certerror.mitm.title "নিরাপদে এই সাইটে সংযোগ প্রদানে সফ্টওয়্যার &brandShortName; কে বাঁধা দিচ্ছে">
 
 <!ENTITY clockSkewError.title "আপনার কম্পিউটারের ঘড়ি ভুল">
 <!ENTITY clockSkewError.longDesc "আপনার কম্পিউটার মনে করে এটি <span id='wrongSystemTime_systemDate1'/>, যা &brandShortName; কে নিরাপদভাবে সংযুক্ত হওয়া থেকে বিরত রাখছে। <span class='hostname'></span> এ ভিজিট করতে হলে, আপনার সিস্টেম সেটিংসে গিয়ে আপনার কম্পিউটারের ঘড়ির বর্তমান তারিখ, সময় এবং সময় অঞ্চল আপডেট করুন এবং তারপর <span class='hostname'></span> রিফ্রেশ করুন।">

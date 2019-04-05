@@ -49,5 +49,6 @@ cfr-doorhanger-extension-total-users =
 
 cfr-doorhanger-pintab-step1 = ট্যাব পিন করতে ট্যাবে<b> ডান ক্লিক  </ b> করুন।
 cfr-doorhanger-pintab-step2 = মেনু থেকে <b>পিন ট্যাব</b> নির্বাচন করুন।
+cfr-doorhanger-pintab-step3 = যদি সাইটে হালনাগাদ থাকে তবে আপনি আপনার পিনকৃত ট্যাবে একটি নীল বিন্দু দেখতে পাবেন।
 cfr-doorhanger-pintab-animation-pause = বিরতি
 cfr-doorhanger-pintab-animation-resume = পুনরায় শুরু
