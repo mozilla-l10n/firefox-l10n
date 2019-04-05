@@ -64,6 +64,7 @@ policy-OverrideFirstRunPage = Åsidosätt sidan som visas första gången. Sätt
 policy-OverridePostUpdatePage = Åsidosätt sidan "Vad är nytt" efter uppdateringar. Sätt denna policy till blankt om du vill inaktivera sidan efter uppdateringar.
 policy-Permissions = Ställ in behörigheter för kamera, mikrofon, plats och notifieringar.
 policy-PopupBlocking = Tillåt vissa webbplatser att visa popup-fönster som standard.
+policy-Preferences = Ställ in och lås värdet för en delmängd av inställningar.
 policy-Proxy = Ange inställningar för proxy.
 policy-RequestedLocales = Ange listan över begärda språk för programmet efter ordning i inställningar.
 policy-SanitizeOnShutdown = Rensa all navigeringsdata vid avstängning.
