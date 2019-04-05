@@ -8,6 +8,7 @@ about-config-warning-text = 修改这些高级设置可能对本应用程序的�
 about-config-warning-checkbox = 下次仍显示此警告
 about-config-warning-button = 我会小心的
 about-config-title = about:config
+about-config2-title = 高级配置
 about-config-search-input =
     .placeholder = 搜索
 about-config-show-all = 显示全部
