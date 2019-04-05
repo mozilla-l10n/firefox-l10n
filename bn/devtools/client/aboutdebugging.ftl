@@ -193,6 +193,10 @@ about-debugging-worker-action-unregister = অনিবন্ধিত
 about-debugging-worker-fetch-listening =
     .label = ফেচ
     .value = ফেচ ইভেন্ট এর জন্য শোনা হচ্ছে
+# Displayed for service workers in runtime pages that do not listen to Fetch events.
+about-debugging-worker-fetch-not-listening =
+    .label = ফেচ
+    .value = ফেচ ইভেন্ট এর জন্য শোনা হচ্ছেনা
 # Displayed for service workers in runtime pages that are currently running (service
 # worker instance is active).
 about-debugging-worker-status-running = চলমান
@@ -200,6 +204,10 @@ about-debugging-worker-status-running = চলমান
 about-debugging-worker-status-stopped = বন্ধ করা হয়েছে
 # Displayed for service workers in runtime pages that are registering.
 about-debugging-worker-status-registering = রেজিস্টার করা হচ্ছে
+# Displayed for service workers in runtime pages, to label the push service endpoint (url)
+# of a worker
+about-debugging-worker-push-service =
+    .label = পুশ সার্ভিস
 # Displayed as name for the Main Process debug target in the Processes category. Only for
 # remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-main-process-name = প্রধান প্রক্রিয়া
