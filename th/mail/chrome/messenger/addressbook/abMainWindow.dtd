@@ -79,6 +79,7 @@ because displayed names don't have the comma in between. -->
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label                                "เครื่องมือ">
 <!ENTITY messengerCmd.label                             "จดหมายและกลุ่มข่าว">
+<!ENTITY messengerCmd.commandkey                        "1">
 <!ENTITY addressBookCmd.label                           "สมุดรายชื่อ">
 <!ENTITY addressBookCmd.key                             "B">
 <!ENTITY searchAddressesCmd.label                       "ค้นหาที่อยู่…">

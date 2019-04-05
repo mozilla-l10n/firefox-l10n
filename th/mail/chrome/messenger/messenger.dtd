@@ -28,11 +28,14 @@
 <!ENTITY newIMAccountCmd.label "บัญชีแชท…">
 <!ENTITY newFeedAccountCmd.label "บัญชีฟีด…">
 <!ENTITY newIMContactCmd.label "ผู้ติดต่อแชท…">
+<!ENTITY  newMessageCmd2.key "N">
+<!ENTITY  newMessageCmd.key "M">
 <!ENTITY  newMessageCmd.label "ข้อความ">
 <!ENTITY  newContactCmd.label "ผู้ติดต่อของสมุดรายชื่อ…">
 <!ENTITY openMessageFileCmd.label "เปิดข้อความที่บันทึกไว้…">
 <!ENTITY saveAsMenu.label "บันทึกเป็น">
 <!ENTITY saveAsFileCmd.label "ไฟล์">
+<!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "แม่แบบ">
 <!ENTITY getNewMsgForCmd.label "รับข้อความใหม่สำหรับ">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "บัญชีทั้งหมด">
@@ -52,6 +55,7 @@
 <!ENTITY downloadSelectedCmd.label "รับข้อความที่เลือก">
 <!ENTITY downloadStarredCmd.label "รับข้อความที่ติดดาว">
 <!ENTITY printCmd.label "พิมพ์…">
+<!ENTITY printCmd.key "p">
 <!ENTITY printPreviewCmd.label "ตัวอย่างก่อนพิมพ์">
 <!ENTITY printSetupCmd.label "ตั้งค่าหน้ากระดาษ…">
 
@@ -65,6 +69,7 @@
 <!ENTITY selectMenu.label "เลือก">
 <!ENTITY all.label "ทั้งหมด">
 <!ENTITY selectThreadCmd.label "หัวข้อ">
+<!ENTITY selectThreadCmd.key "a">
 <!ENTITY selectFlaggedCmd.label "ข้อความที่ติดดาว">
 <!ENTITY menuFavoriteFolder.label "โฟลเดอร์โปรด">
 <!ENTITY folderPropsCmd2.label "คุณสมบัติ">
@@ -155,31 +160,44 @@
 <!ENTITY viewAttachmentsInlineCmd.label "แสดงไฟล์แนบแบบอินไลน์">
 
 <!ENTITY pageSourceCmd.label "ซอร์สข้อความ">
+<!ENTITY pageSourceCmd.key "u">
+<!ENTITY getNewMessagesCmd.key "y">
+<!ENTITY getAllNewMessagesCmd.key "Y">
 
 <!-- Search Menu -->
 <!ENTITY findMenu.label "ค้นหา">
 <!ENTITY findCmd.label "ค้นหาในข้อความนี้…">
+<!ENTITY findCmd.key "f">
 <!ENTITY findAgainCmd.label "ค้นหาอีกครั้ง">
+<!ENTITY findAgainCmd.key "g">
 <!ENTITY findAgainCmd.key2 "VK_F3">
+<!ENTITY findPrevCmd.key "g">
 <!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY searchMailCmd.label "ค้นหาข้อความ…">
+<!ENTITY searchMailCmd.key "f">
 <!ENTITY searchAddressesCmd.label "ค้นหาที่อยู่…">
 
 <!-- Go Menu -->
 <!ENTITY goMenu.label "ไป">
 <!ENTITY nextMenu.label "ถัดไป">
 <!ENTITY nextMsgCmd.label "ข้อความ">
+<!ENTITY nextMsgCmd.key "f">
 <!ENTITY nextUnreadMsgCmd.label "ข้อความที่ยังไม่ได้อ่าน">
+<!ENTITY nextUnreadMsgCmd.key "n">
 <!ENTITY nextStarredMsgCmd.label "ข้อความที่ติดดาว">
 <!ENTITY nextUnreadThread.label "หัวข้อที่ยังไม่ได้อ่าน">
+<!ENTITY nextUnreadThread.key "t">
 <!ENTITY prevMenu.label "ก่อนหน้า">
 <!ENTITY prevMsgCmd.label "ข้อความ">
+<!ENTITY prevMsgCmd.key "b">
 <!ENTITY prevUnreadMsgCmd.label "ข้อความที่ยังไม่ได้อ่าน">
+<!ENTITY prevUnreadMsgCmd.key "p">
 <!ENTITY goForwardCmd.label "เดินหน้า">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY goBackCmd.label "ย้อนกลับ">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "แชท">
+<!ENTITY goChatCmd2.key "H">
 <!ENTITY prevStarredMsgCmd.label "ข้อความที่ติดดาว">
 <!ENTITY folderMenu.label "โฟลเดอร์">
 <!ENTITY goRecentlyClosedTabs.label "แท็บที่เพิ่งปิด">
@@ -190,17 +208,23 @@
 <!ENTITY newMsgCmd.label "ข้อความใหม่">
 <!ENTITY newNewMsgCmd.label "ข้อความ">
 <!ENTITY archiveMsgCmd.label "เก็บถาวร">
+<!ENTITY archiveMsgCmd.key "a">
 <!ENTITY cancelNewsMsgCmd.label "ยกเลิกข้อความ">
 <!ENTITY replyMsgCmd.label "ตอบกลับ">
+<!ENTITY replyMsgCmd.key "r">
 <!ENTITY replySenderCmd.label "ตอบกลับถึงผู้ส่งเท่านั้น">
 <!ENTITY replyNewsgroupCmd2.label "ติดตามถึงกลุ่มข่าว">
 <!ENTITY replyToAllMsgCmd.label "ตอบกลับถึงทั้งหมด">
+<!ENTITY replyToAllMsgCmd.key "r">
 <!ENTITY replyToListMsgCmd.label "ตอบกลับถึงรายการ">
+<!ENTITY replyToListMsgCmd.key "l">
 <!ENTITY forwardMsgCmd.label "ส่งต่อ">
+<!ENTITY forwardMsgCmd.key "l">
 <!ENTITY forwardAsMenu.label "ส่งต่อเป็น">
 <!ENTITY forwardAsInline.label "อินไลน์">
 <!ENTITY forwardAsAttachmentCmd.label "ไฟล์แนบ">
 <!ENTITY editAsNewMsgCmd.label "แก้ไขเป็นข้อความใหม่">
+<!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY editDraftMsgCmd.label "แก้ไขข้อความฉบับร่าง">
 <!ENTITY editTemplateMsgCmd.label "แก้ไขแม่แบบ">
 <!ENTITY newMsgFromTemplateCmd.label "ข้อความใหม่จากแม่แบบ">
@@ -211,9 +235,13 @@
 <!ENTITY copyMessageLocation.label "คัดลอกตำแหน่งที่ตั้งข้อความ">
 <!ENTITY copyMsgToMenu.label "คัดลอกไปยัง">
 <!ENTITY moveToFolderAgain.label "ย้ายอีกครั้ง">
+<!ENTITY moveToFolderAgainCmd.key "m">
 <!ENTITY killThreadMenu.label "เพิกเฉยหัวข้อ">
+<!ENTITY killThreadMenu.key "k">
 <!ENTITY killSubthreadMenu.label "เพิกเฉยหัวข้อย่อย">
+<!ENTITY killSubthreadMenu.key "k">
 <!ENTITY watchThreadMenu.label "เฝ้าดูหัวข้อ">
+<!ENTITY watchThreadMenu.key "w">
 <!ENTITY tagMenu.label "ป้ายกำกับ">
 <!ENTITY tagCmd0.key "0">
 <!ENTITY tagCmd1.key "1">
@@ -226,17 +254,26 @@
 <!ENTITY tagCmd8.key "8">
 <!ENTITY tagCmd9.key "9">
 <!ENTITY markMenu.label "ทำเครื่องหมาย">
+<!ENTITY toggleReadCmd.key "m">
 <!ENTITY markAsReadCmd.label "ว่าอ่านแล้ว">
 <!ENTITY markAsUnreadCmd.label "ว่ายังไม่ได้อ่าน">
 <!ENTITY markThreadAsReadCmd.label "หัวข้อว่าอ่านแล้ว">
+<!ENTITY markThreadAsReadCmd.key "r">
 <!ENTITY markReadByDateCmd.label "ว่าอ่านแล้วตามวันที่…">
+<!ENTITY markReadByDateCmd.key "c">
 <!ENTITY markAllReadCmd.label "ทั้งหมดว่าอ่านแล้ว">
+<!ENTITY markAllReadCmd.key "c">
 <!ENTITY markStarredCmd.label "เพิ่มดาว">
+<!ENTITY markStarredCmd.key "S">
 <!ENTITY markAsJunkCmd.label "ว่าเป็นขยะ">
+<!ENTITY markAsJunkCmd.key "j">
 <!ENTITY markAsNotJunkCmd.label "ว่าไม่เป็นขยะ">
+<!ENTITY markAsNotJunkCmd.key "j">
 <!ENTITY recalculateJunkScoreCmd.label "เรียกใช้การควบคุมจดหมายขยะ">
 <!ENTITY openMessageWindowCmd.label "เปิดข้อความ">
+<!ENTITY openMessageWindowCmd.key "o">
 <!ENTITY openInConversationCmd.label "เปิดในการสนทนา">
+<!ENTITY openInConversationCmd.key "o">
 <!ENTITY openAttachmentListCmd.label "ไฟล์แนบ">
 <!ENTITY openFeedMessage1.label "เมื่อเปิดข้อความฟีด">
 <!ENTITY openFeedWebPage.label "เปิดเป็นหน้าเว็บ">
@@ -250,6 +287,7 @@
 <!ENTITY tasksMenu.label "เครื่องมือ">
 <!ENTITY messengerCmd.label "จดหมายและกลุ่มข่าว">
 <!ENTITY addressBookCmd.label "สมุดรายชื่อ">
+<!ENTITY addressBookCmd.key "B">
 <!ENTITY addons.label "ส่วนเสริม">
 <!ENTITY addonPrefs.label "ตัวเลือกส่วนเสริม">
 <!ENTITY addonPrefsUnix.label "ค่ากำหนดส่วนเสริม">
@@ -262,6 +300,7 @@
 <!ENTITY imStatus.showAccounts       "แสดงบัญชี…">
 <!ENTITY joinChatCmd.label "เข้าร่วมแชท…">
 <!ENTITY savedFiles.label "ไฟล์ที่บันทึกไว้">
+<!ENTITY savedFiles.key "j">
 <!ENTITY filtersCmd2.label "ตัวกรองข้อความ">
 <!ENTITY filtersApply.label "เรียกใช้ตัวกรองกับโฟลเดอร์">
 <!ENTITY filtersApplyToSelection.label "เรียกใช้ตัวกรองกับข้อความที่เลือก">
@@ -279,9 +318,11 @@
 <!-- Developer Tools Submenu -->
 <!ENTITY devtoolsMenu.label "เครื่องมือนักพัฒนา">
 <!ENTITY devToolboxCmd.label "กล่องเครื่องมือนักพัฒนา">
+<!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY debugAddonsCmd.label "ดีบั๊กส่วนเสริม">
 <!ENTITY tabsDebugCmd.label "ตัวดีบั๊กเฟรมเนื้อหา">
 <!ENTITY errorConsoleCmd.label "คอนโซลข้อผิดพลาด">
+<!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY scratchpadCmd.label "กระดานทดลอง">
 
 <!--LOCALIZATION NOTE (scratchpadCmd.keycode):
@@ -570,6 +611,7 @@
      This is actually the key used for the global message search box; we have
      not changed
   -->
+<!ENTITY quickSearchCmd.key "k">
 <!-- LOCALIZATION NOTE (search.label.base1):
      This is the base of the empty text for the global search box. We replace
      #1 with the contents of the appropriate search.keyLabel.* value for the
@@ -626,6 +668,7 @@
 
 <!-- Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.label "ย่อ">
+<!ENTITY minimizeWindow.key "m">
 <!ENTITY bringAllToFront.label "นำทั้งหมดมาข้างหน้า">
 <!ENTITY zoomWindow.label "ซูม">
 
@@ -635,8 +678,10 @@
 <!ENTITY preferencesCmdMac.modifiers    "accel">
 <!ENTITY servicesMenuMac.label          "บริการ">
 <!ENTITY hideThisAppCmdMac.label        "ซ่อน &brandShortName;">
+<!ENTITY hideThisAppCmdMac.commandkey   "H">
 <!ENTITY hideThisAppCmdMac.modifiers    "accel">
 <!ENTITY hideOtherAppsCmdMac.label      "ซ่อนอื่น ๆ">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 <!ENTITY showAllAppsCmdMac.label        "แสดงทั้งหมด">
 

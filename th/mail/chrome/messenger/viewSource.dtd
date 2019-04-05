@@ -20,7 +20,9 @@
 <!ENTITY pageSetupCmd.label "ตั้งค่าหน้ากระดาษ…">
 <!ENTITY printPreviewCmd.label "ตัวอย่างก่อนพิมพ์">
 <!ENTITY printCmd.label "พิมพ์…">
+<!ENTITY printCmd.commandkey "P">
 <!ENTITY closeCmd.label "ปิด">
+<!ENTITY closeCmd.commandkey "W">
 
 <!-- LOCALIZATION NOTE :
 textEnlarge.commandkey3, textReduce.commandkey2 and
@@ -28,11 +30,20 @@ textReset.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
+<!ENTITY textEnlarge.commandkey "+">
+<!ENTITY textEnlarge.commandkey2 "=">
+<!ENTITY textEnlarge.commandkey3 "">
+<!ENTITY textReduce.commandkey "-">
+<!ENTITY textReduce.commandkey2 "">
+<!ENTITY textReset.commandkey "0">
+<!ENTITY textReset.commandkey2 "">
 
 <!ENTITY goToLineCmd.label "ไปยังบรรทัดที่…">
+<!ENTITY goToLineCmd.commandkey "l">
 
 <!ENTITY viewMenu.label           "มุมมอง">
 <!ENTITY reloadCmd.label "โหลดใหม่">
+<!ENTITY reloadCmd.commandkey "r">
 <!ENTITY menu_wrapLongLines.title "ปัดบรรทัดล้น">
 <!ENTITY menu_highlightSyntax.label "การเน้นสีไวยากรณ์">
 <!ENTITY menu_textSize.label "ขนาดตัวอักษร">
@@ -41,10 +52,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY menu_textReset.label "ปกติ">
 
 <!ENTITY findOnCmd.label     "ค้นหาในหน้านี้…">
+<!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "ค้นหาอีกครั้ง">
+<!ENTITY findAgainCmd.commandkey "g">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+<!ENTITY findSelectionCmd.commandkey "e">
 
 <!ENTITY backCmd.label "ย้อนกลับ">
 <!ENTITY forwardCmd.label "เดินหน้า">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.commandKey "]">
 
 <!ENTITY copyLinkCmd.label "คัดลอกตำแหน่งที่ตั้งลิงก์">
 <!ENTITY copyEmailCmd.label "คัดลอกที่อยู่อีเมล">
