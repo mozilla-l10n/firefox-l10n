@@ -245,6 +245,10 @@ shortcuts-modifier-other = 包括 Ctrl 或 Alt
 shortcuts-invalid = 组合无效
 shortcuts-letter = 输入一个字母
 shortcuts-system = 不可覆盖 { -brand-short-name } 的快捷键
+# String displayed when a keyboard shortcut is already used by another add-on
+# Variables:
+#   $addon (string) - Name of the add-on
+shortcuts-exists = 已被 { $addon } 占用
 shortcuts-card-expand-button =
     { $numberToShow ->
        *[other] 显示另外 { $numberToShow } 个
