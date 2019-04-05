@@ -10,7 +10,7 @@
 <!ENTITY returnToPreviousPage.label "পিছনে ফিরে যাও">
 <!ENTITY returnToPreviousPage1.label "পেছনে যান (সুপারিশকৃত)">
 <!ENTITY advanced.label "উচ্চপর্যায়">
-<!ENTITY continue2.label "আরও…">
+<!ENTITY advanced2.label "উন্নত…">
 <!ENTITY moreInformation.label "অধিক তথ্য">
 <!ENTITY viewCertificate.label "সার্টিফিকেট প্রদর্শন">
 
@@ -95,11 +95,15 @@
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>প্রাপ্ত তথ্যের যথার্থতা পরীক্ষা করা সম্ভব না হওয়ার ফলে প্রদর্শনের জন্য চিহ্নিত পাতা প্রদর্শন করা সম্ভব হয়নি।</li> <li>অনুগ্রহ করে এই সমস্যা সম্পর্কে ওয়েব-সাইট নির্মাতাদের সূচিত করুন।</li> </ul>">
 
 <!ENTITY certerror.longpagetitle1 "আপনার সংযোগ নিরাপদ নয়">
+
 <!ENTITY certerror.longpagetitle2 "সতর্কতা: সামনে সম্ভাব্য নিরাপত্তা ঝুঁকি রয়েছে">
 <!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "<span class='hostname'/> এর মালিক তাদের ওয়েবসাইটটি ত্রুটিপূর্ণভাবে কনফিগার করেছেন।  আপনার তথ্যকে চুরি হয়ে যাওয়া থেকে বাঁচানোর জন্য &brandShortName; ওয়েবসাইটটির সাথে যুক্ত করা হয়নি।">
+<!-- Localization note (certerror.introPara2) - The text content of the span tag
+will be replaced at runtime with the name of the server to which the user
+was trying to connect. -->
 
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "এ ব্যাপারে আপনি কি করতে পারেন?">
@@ -125,6 +129,7 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "ব্যতিক্রম যোগ…">
+
 <!ENTITY securityOverride.exceptionButton1Label "ঝুঁকি নিন এবং চালিয়ে যান">
 
 <!ENTITY errorReporting.automatic2 "মজিলাকে এই ধরনের প্রতিবেদন দিয়ে ক্ষরিকারক সাইট চিহ্নিত এবং অবরুদ্ধ করতে সাহায্য করুন।">
@@ -145,6 +150,7 @@ was trying to connect. -->
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p> &brandShortName; আপনার <span id='wrongSystemTimeWithoutReference_URL'/> সাথে সংযোগ স্থাপন করেনি। কারণ আপনার কম্পিউটারের ঘড়ি ভুল সময় প্রদর্শন করছে, যা নিরাপদ সংযোগ স্থাপনের অন্তরায়।</p><p>আপনার কম্পিউটার <span id='wrongSystemTimeWithoutReference_systemDate'/> সেট করা রয়েছে। এই সমস্যা দূর করতে, আপনার তারিখ ও সময়ের সেটিং সঠিক করুন।</p>">
 
 <!ENTITY certerror.pagetitle1  "অনিরাপদ সংযোগ">
+
 <!ENTITY certerror.pagetitle2  "সতর্কতা: সামনে সম্ভাব্য নিরাপত্তা ঝুঁকি রয়েছে">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "সাইটটি HTTP ব্যবহার করে পরিবহনে সর্বোচ্চ নিরাপত্তা (HSTS) নিশ্চিত করে যে &brandShortName; এর সাথে শুধুমাত্র সুরক্ষিত সংযোগ করবে। যার ফলে, এই সার্টিফিকেট এর জন্যে একটি ব্যতিক্রম যোগ করা যাবেনা।">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> এর HTTP স্ট্রিক্ট ট্রান্সপোর্ট সিকিউরিটি (এইচএসটিএস) নামে একটি নিরাপত্তা নীতি রয়েছে, যার মানে হল যে &brandShortName; শুধুমাত্র নিরাপদভাবে সংযোগ করতে পারবে। আপনি এই সাইট দেখার জন্য কোন ব্যতিক্রম যোগ করতে পারবেন না।">

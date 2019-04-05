@@ -133,6 +133,12 @@ about-debugging-runtime-name = { $name } ({ $version })
 # Text of a button displayed in Runtime pages for remote runtimes.
 # Clicking on the button will close the connection to the runtime.
 about-debugging-runtime-disconnect-button = বিচ্ছিন্ন
+# Text of the connection prompt button displayed in Runtime pages, when the preference
+# "devtools.debugger.prompt-connection" is false on the target runtime.
+about-debugging-connection-prompt-enable-button = দ্রুত সংযোগ সক্রিয় করুন
+# Text of the connection prompt button displayed in Runtime pages, when the preference
+# "devtools.debugger.prompt-connection" is true on the target runtime.
+about-debugging-connection-prompt-disable-button = দ্রুত সংযোগ নিষ্ক্রিয় করুন
 # Title of a modal dialog displayed on remote runtime pages after clicking on the Profile Runtime button.
 about-debugging-profiler-dialog-title = কার্যকারিতা প্রোফাইলার
 # Clicking on the header of a debug target category will expand or collapse the debug
@@ -145,6 +151,13 @@ about-debugging-collapse-expand-debug-targets = সংকুচিত / প্�
 # Displayed in the categories of "runtime" pages that don't have any debug target to
 # show. Debug targets depend on the category (extensions, tabs, workers...).
 about-debugging-debug-target-list-empty = এখনো কিছু না।
+# Text of a button displayed next to debug targets of "runtime" pages. Clicking on this
+# button will open a DevTools toolbox that will allow inspecting the target.
+# A target can be an addon, a tab, a worker...
+about-debugging-debug-target-inspect-button = পরীক্ষা
+# Text of a button displayed in the "This Firefox" page, in the Temporary Extension
+# section. Clicking on the button will open a file picker to load a temporary extension
+about-debugging-tmp-extension-install-button = অস্থায়ী অ্যাড-অন লোড করুন…
 # Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
 # Clicking on the button will reload the extension.
 about-debugging-tmp-extension-reload-button = পুনরায় লোড
@@ -176,6 +189,10 @@ about-debugging-worker-action-push = পুশ করুন
 about-debugging-worker-action-start = শুরু
 # This string is displayed as a label of the button that unregisters a service worker.
 about-debugging-worker-action-unregister = অনিবন্ধিত
+# Displayed for service workers in runtime pages that listen to Fetch events.
+about-debugging-worker-fetch-listening =
+    .label = ফেচ
+    .value = ফেচ ইভেন্ট এর জন্য শোনা হচ্ছে
 # Displayed for service workers in runtime pages that are currently running (service
 # worker instance is active).
 about-debugging-worker-status-running = চলমান
