@@ -571,15 +571,15 @@ history-header = ისტორია
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label = { -brand-short-name }
-    .accesskey = o
+history-remember-label = { -brand-short-name } მონაცემებს
+    .accesskey = მ
 history-remember-option-all =
-    .label = დაიმახსოვრებს ისტორიას
+    .label = ყოველთვის დაიმახსოვრებს
 history-remember-option-never =
-    .label = არასოდეს დაიმახსოვრებს ისტორიას
+    .label = არასოდეს დაიმახსოვრებს
 history-remember-option-custom =
-    .label = ისარგებლებს მონიშნული მითითებებით
-history-remember-description = { -brand-short-name } დაიმახსოვრებს მონახულებული გვერდების, ჩამოტვირთვების, შევსებული ველებისა და ძიების ისტორიას.
+    .label = მონიშნული მითითებებით განკარგავს
+history-remember-description = { -brand-short-name } შეინახავს მონახულებული გვერდების, ჩამოტვირთვების, შევსებული ველებისა და ძიების ისტორიას.
 history-dontremember-description = { -brand-short-name } ისარგებლებს პირადი ფანჯრის პარამეტრებით და არ შეინახავს თქვენ მიერ მონახულებული საიტების ისტორიას.
 history-private-browsing-permanent =
     .label = ყოველთვის პირადი დათვალიერების გამოყენება
