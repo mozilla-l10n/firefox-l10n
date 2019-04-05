@@ -8,6 +8,7 @@ about-config-warning-text = Mekaus evit stabilder, diogelroez ha digonusted an a
 about-config-warning-checkbox = Hegasit ac'hanon adarre, mar plij!
 about-config-warning-button = Kemer a ran ar riskl
 about-config-title = about:config
+about-config2-title = Kefluniadurioù araoket
 about-config-search-input =
     .placeholder = Klask
 about-config-show-all = Diskouez an holl
