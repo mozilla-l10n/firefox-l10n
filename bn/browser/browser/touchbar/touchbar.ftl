@@ -13,6 +13,7 @@ find = খুঁজুন
 new-tab = নতুন ট্যাব
 add-bookmark = বুকমার্ক যোগ করুন
 open-bookmarks-sidebar = বুকমার্ক সাইডবার খুলুন
+reader-view = রিডার ভিউ
 # Meant to match the string displayed in an empty URL bar.
 open-location = অনুসন্ধান করুন বা ঠিকানা লিখুন
 share = শেয়ার করুন

@@ -1164,6 +1164,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "আপনার অ্যাড-অন পরিচালনা করতে <image class='addon-addon-icon'/> মেনুতে <image class='addon-toolbar-icon'/> ক্লিক করুন।">
+<!ENTITY addonPostInstall.incognito.checkbox.label "এই এক্সটেনশনটিকে ব্যক্তিগত উইন্ডো তে চালানোর অনুমতি দিন">
 <!ENTITY addonPostInstall.incognito.checkbox.accesskey "A">
 
 <!ENTITY addonPrivateBrowsing.header2.label "এক্সটেনশনটিকে ব্যক্তিগত উইন্ডোতে তে পরিবর্তন করুন">
