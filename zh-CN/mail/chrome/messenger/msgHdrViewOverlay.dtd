@@ -95,6 +95,10 @@
 
 <!ENTITY openAttachment.tooltip "打开附件">
 
+<!ENTITY detachedAttachmentFolder.show.label        "打开所在文件夹">
+<!ENTITY detachedAttachmentFolder.show.accesskey    "F">
+<!ENTITY detachedAttachmentFolder.showMac.accesskey "F">
+
 <!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label       "保存">
 <!ENTITY saveAttachmentButton1.tooltip     "保存附件">
