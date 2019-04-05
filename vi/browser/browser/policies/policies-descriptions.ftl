@@ -64,6 +64,7 @@ policy-OverrideFirstRunPage = Ghi đè trang chạy đầu tiên. Bỏ trống c
 policy-OverridePostUpdatePage = Ghi đè lên trang cập nhật "Có gì mới". Bỏ trống chính sách này nếu bạn muốn tắt trang cập nhật sau.
 policy-Permissions = Cấu hình quyền truy cập cho máy ảnh, micrô, vị trí và thông báo.
 policy-PopupBlocking = Cho phép các trang web nhất định hiển thị cửa sổ bật lên theo mặc định.
+policy-Preferences = Đặt và khóa giá trị cho một tập hợp con ưu tiên.
 policy-Proxy = Cài đặt cấu hình proxy.
 policy-RequestedLocales = Đặt danh sách các ngôn ngữ được yêu cầu cho ứng dụng theo thứ tự ưu tiên.
 policy-SanitizeOnShutdown = Xóa tất cả dữ liệu điều hướng khi tắt máy.
