@@ -111,6 +111,8 @@ policy-Permissions = Toestemmingen voor camera, microfoon, locatie en notificati
 
 policy-PopupBlocking = Toestaan dat bepaalde websites standaard pop-ups weergeven.
 
+policy-Preferences = De waarde voor een subset van voorkeuren instellen en vergrendelen.
+
 policy-Proxy = Proxyinstellingen configureren.
 
 policy-RequestedLocales = De lijst van gevraagde locales voor de toepassing instellen, op volgorde van voorkeur.
