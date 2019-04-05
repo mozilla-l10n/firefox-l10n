@@ -94,6 +94,12 @@ about-debugging-setup-usb-status-enabled = Habilitado
 about-debugging-setup-usb-status-disabled = Deshabilitado
 about-debugging-setup-usb-status-updating = Actualizando…
 # USB section step by step guide
+about-debugging-setup-usb-step-enable-dev-menu = Activa el menú de desarrollador en tu dispositivo Android. <a>Aprender cómo</a>
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug = Activa la depuración USB en el menú de desarrollador de Android. <a>Aprender cómo</a>
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug-firefox = Activa la depuración USB en Firefox en el dispositivo Android. <a>Aprender cómo</a>
+# USB section step by step guide
 about-debugging-setup-usb-step-plug-device = Conecta el dispositivo Android a tu computador.
 # Network section of the Setup page
 about-debugging-setup-network =
@@ -110,6 +116,14 @@ about-debugging-network-locations-host-input-label = Servidor
 # Text of a button displayed next to existing network locations in the Connect page.
 # Clicking on it removes the network location from the list.
 about-debugging-network-locations-remove-button = Remover
+# Text used as error message if the format of the input value was invalid in the network locations form of the Setup page.
+# Variables:
+#   $host-value (string) - The input value submitted by the user in the network locations form
+about-debugging-network-location-form-invalid = Servidor inválido "{ $host-value }". El formato esperado es "nombredelservidor:númerodepuerto".
+# Text used as error message if the input value was already registered in the network locations form of the Setup page.
+# Variables:
+#   $host-value (string) - The input value submitted by the user in the network locations form
+about-debugging-network-location-form-duplicate = El servidor “{ $host-value }” ya está registrado
 
 # Runtime Page strings
 
@@ -150,6 +164,12 @@ about-debugging-runtime-name = { $name } ({ $version })
 # Text of a button displayed in Runtime pages for remote runtimes.
 # Clicking on the button will close the connection to the runtime.
 about-debugging-runtime-disconnect-button = Desconectar
+# Text of the connection prompt button displayed in Runtime pages, when the preference
+# "devtools.debugger.prompt-connection" is false on the target runtime.
+about-debugging-connection-prompt-enable-button = Activar solicitud de conexión
+# Text of the connection prompt button displayed in Runtime pages, when the preference
+# "devtools.debugger.prompt-connection" is true on the target runtime.
+about-debugging-connection-prompt-disable-button = Desactivar solicitud de conexión
 # Title of a modal dialog displayed on remote runtime pages after clicking on the Profile Runtime button.
 about-debugging-profiler-dialog-title = Perfilador de rendimiento
 # Label of a checkbox displayed in the runtime page for "This Firefox".
