@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 head-title = เกี่ยวกับเครื่องมือนักพัฒนา
+enable-title = เปิดใช้งานเครื่องมือนักพัฒนา Firefox
 enable-inspect-element-title = เปิดใช้งานเครื่องมือนักพัฒนา Firefox เพื่อใช้การตรวจสอบองค์ประกอบ
 enable-learn-more-link = เรียนรู้เพิ่มเติมเกี่ยวกับเครื่องมือนักพัฒนา
 enable-enable-button = เปิดใช้งานเครื่องมือนักพัฒนา
@@ -21,3 +22,4 @@ features-storage-title = ที่เก็บข้อมูล
 features-responsive-title = โหมดการออกแบบเชิงตอบสนอง
 features-performance-title = ประสิทธิภาพ
 features-memory-title = หน่วยความจำ
+newsletter-error-unknown = เกิดข้อผิดพลาดที่ไม่คาดคิด

@@ -218,6 +218,30 @@ extensions-updates-update-selected =
 
 ## Extension shortcut management
 
+manage-extensions-shortcuts =
+    .label = จัดการทางลัดส่วนขยาย
+    .accesskey = จ
+shortcuts-empty-message = ไม่มีทางลัดสำหรับส่วนขยายนี้
+shortcuts-no-addons = คุณไม่ได้เปิดใช้งานส่วนขยายใด ๆ
+shortcuts-no-commands = ส่วนขยายดังต่อไปนี้ไม่มีทางลัด:
+shortcuts-input =
+    .placeholder = พิมพ์ทางลัด
+shortcuts-browserAction = เปิดใช้งานส่วนขยาย
+shortcuts-pageAction = เปิดใช้งานการกระทำหน้า
+shortcuts-sidebarAction = เปิด/ปิดแถบข้าง
+shortcuts-card-expand-button =
+    { $numberToShow ->
+       *[other] แสดงเพิ่มเติมอีก { $numberToShow }
+    }
+shortcuts-card-collapse-button = แสดงน้อยลง
+go-back-button =
+    .tooltiptext = ย้อนกลับ
 
 ## Add-on actions
 
+remove-addon-button = เอาออก
+disable-addon-button = ปิดใช้งาน
+enable-addon-button = เปิดใช้งาน
+expand-addon-button = ตัวเลือกเพิ่มเติม
+addons-enabled-heading = เปิดใช้งานอยู่
+addons-disabled-heading = ปิดใช้งานอยู่

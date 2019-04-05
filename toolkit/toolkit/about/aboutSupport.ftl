@@ -171,6 +171,7 @@ can-sandbox-media = Media Plugin Sandboxing
 sandbox-proc-type-content = เนื้อหา
 sandbox-proc-type-file = เนื้อหาไฟล์
 sandbox-proc-type-media-plugin = ปลั๊กอินสื่อ
+launcher-process-status-unknown = ไม่ทราบสถานะ
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
