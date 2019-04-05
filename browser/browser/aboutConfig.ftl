@@ -8,6 +8,7 @@ about-config-warning-text = Thay đổi những thiết lập nâng cao này có
 about-config-warning-checkbox = Nhắc tôi một lần nữa!
 about-config-warning-button = Tôi chấp nhận rủi ro
 about-config-title = about:config
+about-config2-title = Cấu hình nâng cao
 about-config-search-input =
     .placeholder = Tìm kiếm
 about-config-show-all = Hiển thị tất cả

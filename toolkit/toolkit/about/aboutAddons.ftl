@@ -248,6 +248,10 @@ shortcuts-modifier-other = Bao gồm Ctrl hoặc Alt
 shortcuts-invalid = Kết hợp không hợp lệ
 shortcuts-letter = Nhập một kí tự
 shortcuts-system = Không thể ghi đè một phím tắt { -brand-short-name }
+# String displayed when a keyboard shortcut is already used by another add-on
+# Variables:
+#   $addon (string) - Name of the add-on
+shortcuts-exists = Đã được sử dụng bởi { $addon }
 shortcuts-card-expand-button =
     { $numberToShow ->
        *[other] Hiển thị { $numberToShow } khác
