@@ -2,6 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+url-classifier-search-title = ค้นหา
+url-classifier-search-result-title = ผลลัพธ์
+url-classifier-search-result-uri = URI: { $uri }
+url-classifier-search-result-list = รายการตาราง: { $list }
+url-classifier-search-input = URL
+url-classifier-search-error-invalid-url = URL ไม่ถูกต้อง
+url-classifier-search-features = คุณลักษณะ
 url-classifier-provider-title = ผู้ให้บริการ
 url-classifier-provider = ผู้ให้บริการ
 url-classifier-provider-last-update-time = เวลาที่อัปเดตล่าสุด
