@@ -88,6 +88,12 @@ detail-update-automatic =
 detail-update-manual =
     .label = বন্ধ
     .tooltiptext = স্বয়ংক্রিয়ভাবে হালনাগাদ ইনস্টল করা হবে না
+detail-private-browsing-on =
+    .label = অনুমতি দিন
+    .tooltiptext = ব্যক্তিগত ব্রাউজিং সক্রিয় করুন
+detail-private-browsing-off =
+    .label = অনুমতি দিবেন না
+    .tooltiptext = ব্যক্তিগত ব্রাউজিং নিষ্ক্রিয় করুন
 detail-home =
     .label = নীড়পাতা
 detail-home-value =
@@ -210,6 +216,14 @@ extensions-updates-update-selected =
 
 ## Extension shortcut management
 
+manage-extensions-shortcuts =
+    .label = এক্সটেনশন এর শর্টকাট পরিচালনা করুন
+    .accesskey = S
+shortcuts-input =
+    .placeholder = একটি শর্টকাট টাইপ করুন
+shortcuts-browserAction = এক্সটেনশন সক্রিয় করুন
+shortcuts-letter = একটি চিঠি লিখুন
+shortcuts-card-collapse-button = কম দেখাও
 go-back-button =
     .tooltiptext = ফিরে যাও
 
@@ -218,5 +232,6 @@ go-back-button =
 remove-addon-button = অপসারণ
 disable-addon-button = নিষ্ক্রিয়
 enable-addon-button = সক্রিয়
+expand-addon-button = আরও অপশন
 addons-enabled-heading = সক্রিয় হয়েছে
 addons-disabled-heading = নিষ্ক্রিয় হয়েছে

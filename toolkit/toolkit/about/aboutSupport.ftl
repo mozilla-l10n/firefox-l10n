@@ -47,7 +47,6 @@ app-basics-profiles = প্রোফাইল
 app-basics-multi-process-support = মাল্টিপ্রসেস উইন্ডো
 app-basics-process-count = ওয়েবের কনটেন্ট প্রসেস
 app-basics-enterprise-policies = এন্ট্রারপ্রাইজ নীতিগুলি
-app-basics-key-google = Google Key
 app-basics-key-mozilla = Mozilla লোকেশন সার্ভিস Key
 app-basics-safe-mode = সেফ মোড
 show-dir-label =
@@ -181,6 +180,8 @@ unknown = অজানা
 
 found = পাওয়া গেছে
 missing = নিখোঁজ
+gpu-process-pid = GPUProcessPid
+gpu-process = GPUProcess
 gpu-description = বিবরণ
 gpu-vendor-id = ভেন্ডর ID
 gpu-device-id = ডিভাইস ID
@@ -213,6 +214,7 @@ d3d9video-crash-buard = D3D9 ভিডিও ডিকোডার
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = পুনরায় শুরু করার সময় রিসেট করুন
 gpu-process-kill-button = GPU প্রক্রিয়া বন্ধ করুন
+gpu-device-reset = ডিভাইস রিসেট
 gpu-device-reset-button = ট্রিগার ডিভাইস রিসেট
 uses-tiling = Tiling ব্যবহার করে
 off-main-thread-paint-enabled = অফ মেইন থ্রেড পেইন্টিং সক্রিয়
@@ -234,6 +236,7 @@ effective-content-sandbox-level = ইফেক্টিভ কন্টেন্
 sandbox-proc-type-content = কন্টেন্ট
 sandbox-proc-type-file = ফাইল কনটেন্ট
 sandbox-proc-type-media-plugin = মিডিয়া প্লাগইন
+launcher-process-status-0 = সক্রিয় হয়েছে
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
