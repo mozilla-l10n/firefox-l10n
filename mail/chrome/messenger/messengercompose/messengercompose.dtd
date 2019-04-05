@@ -51,21 +51,28 @@
 <!ENTITY printSetupCmd.label "ตั้งค่าหน้ากระดาษ…">
 <!ENTITY printPreviewCmd.label "ตัวอย่างก่อนพิมพ์">
 <!ENTITY printCmd.label "พิมพ์…">
+<!ENTITY printCmd.key "P">
 
 <!-- Edit Menu -->
 <!ENTITY editMenu.label "แก้ไข">
 <!ENTITY undoCmd.label "เลิกทำ">
+<!ENTITY undoCmd.key "Z">
 <!ENTITY redoCmd.label "ทำซ้ำ">
+<!ENTITY redoCmd.key "Y">
 <!ENTITY cutCmd.label "ตัด">
 <!ENTITY cutCmd.key "X">
 <!ENTITY copyCmd.label "คัดลอก">
 <!ENTITY copyCmd.key "C">
 <!ENTITY pasteCmd.label "วาง">
 <!ENTITY pasteCmd.key "V">
+<!ENTITY pasteNoFormattingCmd.key "V">
+<!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY deleteCmd.label "ลบ">
 <!ENTITY editRewrapCmd.label "ตัดบรรทัดใหม่">
+<!ENTITY editRewrapCmd.key "R">
 <!ENTITY renameAttachmentCmd.label "เปลี่ยนชื่อไฟล์แนบ…">
 <!ENTITY reorderAttachmentsCmd.label "จัดลำดับไฟล์แนบใหม่…">
+<!ENTITY reorderAttachmentsCmd.key "x">
 <!ENTITY toggleAttachmentPaneCmd.label "บานหน้าต่างไฟล์แนบ">
 <!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.accesskey):
      For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
@@ -74,12 +81,19 @@
      As Mac does not have access keys, this key defines a Mac-only, cross-l10n
      shortcut key (Ctrl+M). Typically, this key should not be translated unless
      otherwise required by specific needs of the localization. -->
+<!ENTITY toggleAttachmentPaneCmd.key "m">
 <!ENTITY selectAllCmd.label "เลือกทั้งหมด">
+<!ENTITY selectAllCmd.key "A">
 <!ENTITY findBarCmd.label "ค้นหา…">
+<!ENTITY findBarCmd.key "F">
 <!ENTITY findReplaceCmd.label "ค้นหาแล้วแทนที่…">
+<!ENTITY findReplaceCmd.key "H">
 <!ENTITY findAgainCmd.label "ค้นหาอีกครั้ง">
+<!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.label "ค้นหาก่อนหน้า">
+<!ENTITY findPrevCmd.key "G">
+<!ENTITY findPrevCmd.key2 "VK_F3">
 
 <!-- Reorder Attachment Panel -->
 <!ENTITY reorderAttachmentsPanel.label "จัดลำดับไฟล์แนบใหม่">
@@ -95,6 +109,7 @@
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.SortSelection.AZ.label):
      Please ensure that this translation matches
      sortAttachmentsPanelBtn.SortSelection.ZA.label, except for the sort direction. -->
+<!ENTITY sortAttachmentsPanelBtn.key "y">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label "มุมมอง">
@@ -113,6 +128,7 @@
 <!-- Options Menu -->
 <!ENTITY optionsMenu.label "ตัวเลือก">
 <!ENTITY checkSpellingCmd2.label "ตรวจสอบการสะกดคำ…">
+<!ENTITY checkSpellingCmd2.key "p">
 <!ENTITY checkSpellingCmd2.key2 "VK_F7">
 <!ENTITY enableInlineSpellChecker.label "ตรวจสอบการสะกดคำเมื่อคุณพิมพ์">
 <!ENTITY quoteCmd.label "อ้างอิงข้อความ">
@@ -142,11 +158,13 @@
 <!ENTITY messengerCmd.label "จดหมายและกลุ่มข่าว">
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "สมุดรายชื่อ">
+<!ENTITY addressBookCmd.key "B">
 <!ENTITY accountManagerCmd2.label "การตั้งค่าบัญชี">
 <!ENTITY preferencesCmd2.label "ตัวเลือก">
 <!ENTITY preferencesCmdUnix.label "ค่ากำหนด">
 
 <!--  Mac OS X Window Menu -->
+<!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "ย่อ">
 <!ENTITY bringAllToFront.label "นำทั้งหมดมาข้างหน้า">
 <!ENTITY zoomWindow.label "ซูม">
