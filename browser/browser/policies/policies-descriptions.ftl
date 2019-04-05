@@ -64,6 +64,7 @@ policy-OverrideFirstRunPage = Diystyru y dudalen rhediad gyntaf. Gosod y polisi 
 policy-OverridePostUpdatePage = Diystyru'r dudalen ôl ddiweddaru "Beth sy'n Newydd". Gosodwch y polisi hwn i gwag os hoffech chi analluogi'r dudalen ôl ddiweddaru.
 policy-Permissions = Ffurfweddu caniatâd ar gyfer camera, meicroffon, lleoliad a hysbysiadau.
 policy-PopupBlocking = Caniatáu rhai gwefannau i ddangos llamlenni drwy ragosodiad.
+policy-Preferences = Gosod a chloi gwerth is-set o ddewisiadau.
 policy-Proxy = Ffurfweddu gosodiadau eilydd
 policy-RequestedLocales = Gosodwch y rhestr o locales gofynnol ar gyfer y rhaglen yn ôl eich trefn dewis.
 policy-SanitizeOnShutdown = Clirio'r holl ddata llywio wrth adael
