@@ -64,6 +64,7 @@ policy-OverrideFirstRunPage = Sobrepor a página de primeira execução. Defina 
 policy-OverridePostUpdatePage = Sobrepor a página "Novidades" pós-atualização. Defina esta política para blank se pretende desativar a página pós-atualização.
 policy-Permissions = Configurar permissões para a câmara, microfone, localização e notificações.
 policy-PopupBlocking = Permitir certos websites de mostrar popups por predefinição.
+policy-Preferences = Definir e bloquear o valor para um subconjunto de preferências.
 policy-Proxy = Configurar definições proxy.
 policy-RequestedLocales = Definir a lista de idiomas solicitados para a aplicação por ordem de preferência.
 policy-SanitizeOnShutdown = Limpar todos os dados de navegação ao desligar.
