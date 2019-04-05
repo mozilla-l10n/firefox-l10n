@@ -248,6 +248,10 @@ shortcuts-modifier-other = Uwzględnij Ctrl lub Alt
 shortcuts-invalid = Nieprawidłowe połączenie
 shortcuts-letter = Wpisz literę
 shortcuts-system = Nie można zastąpić skrótu przeglądarki { -brand-short-name }
+# String displayed when a keyboard shortcut is already used by another add-on
+# Variables:
+#   $addon (string) - Name of the add-on
+shortcuts-exists = Jest już używany przez dodatek { $addon }
 shortcuts-card-expand-button =
     { $numberToShow ->
         [one] { $numberToShow } więcej

@@ -64,6 +64,7 @@ policy-OverrideFirstRunPage = Zastąpienie strony pierwszego uruchomienia. Ustaw
 policy-OverridePostUpdatePage = Zastąpienie strony „Co nowego” wyświetlanej po aktualizacji. Ustawienie tej zasady na pustą wyłączy stronę wyświetlaną po aktualizacji.
 policy-Permissions = Konfiguracja uprawnień kamery, mikrofonu, położenia i powiadomień.
 policy-PopupBlocking = Domyślne zezwalanie pewnym witrynom na otwieranie wyskakujących okien.
+policy-Preferences = Ustawienie i zablokowanie wartości dla podzbioru preferencji.
 policy-Proxy = Konfiguracja ustawień proxy.
 policy-RequestedLocales = Ustawienie listy żądanych języków dla programu w preferowanej kolejności.
 policy-SanitizeOnShutdown = Usuwanie wszystkich danych nawigacji podczas wyłączania.
