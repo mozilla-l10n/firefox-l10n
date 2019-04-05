@@ -220,16 +220,22 @@ These should match what Safari and other Apple applications use on OS X Lion. --
  <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
      for the Firefox Account toolbar signin menu screen. -->
 <!ENTITY fxa.signin.callout.label "Firefox কে আপনার সাথে নিন">
+<!ENTITY fxa.signin.button.label "&syncBrand.shortName.label; চালু করুন…">
 
 <!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
      for the Firefox Account toolbar unverified menu screen. -->
+<!ENTITY fxa.unverified.callout.label "আপনার ইমেইল দেখুন">
+<!ENTITY fxa.unverified.button.label "&syncBrand.shortName.label; সেটিংস খুলুন…">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbart menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "সাইন ইন করা আছে">
 <!ENTITY fxa.menu.manageAccount.label "অ্যাকাউন্ট ব্যবস্থাপনা…">
+<!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label; সেটিংস…">
+<!ENTITY fxa.menu.connectAnotherDevice.label "&syncedTabs.sidebar.connectAnotherDevice;">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "অন্য ডিভাইস সংযুক্ত করুন…">
+<!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
