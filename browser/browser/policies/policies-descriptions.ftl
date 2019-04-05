@@ -64,6 +64,7 @@ policy-OverrideFirstRunPage = Anular la página de la primera ejecución. Establ
 policy-OverridePostUpdatePage = Anular la página "Novedades" posterior a la actualización. Establecer esta política en blanco si quiere deshabilitar la página posterior a la actualización.
 policy-Permissions = Configurar permisos para cámara, micrófono, ubicación y notificaciones.
 policy-PopupBlocking = Permitir que ciertos sitios web muestren ventanas emergentes de manera predeterminada.
+policy-Preferences = Establezca y bloquee el valor para un subconjunto de preferencias.
 policy-Proxy = Configurar el servidor proxy.
 policy-RequestedLocales = Establezca la lista de localizaciones solicitadas para la aplicación ordenadas por preferencia.
 policy-SanitizeOnShutdown = Borrar todos los datos de navegación al apagar.
