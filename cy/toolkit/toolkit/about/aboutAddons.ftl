@@ -245,6 +245,10 @@ shortcuts-modifier-other = Cynnwys Ctrl neu Alt
 shortcuts-invalid = Cyfuniad annilys
 shortcuts-letter = Teipiwch lythyr
 shortcuts-system = Methu anwybyddu llwybr byr { -brand-short-name }
+# String displayed when a keyboard shortcut is already used by another add-on
+# Variables:
+#   $addon (string) - Name of the add-on
+shortcuts-exists = Ar waith eisoes gan { $addon }
 shortcuts-card-expand-button =
     { $numberToShow ->
         [zero] Dangos { $numberToShow } yn Rhagor

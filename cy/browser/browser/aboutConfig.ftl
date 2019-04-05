@@ -8,6 +8,7 @@ about-config-warning-text = Gall newid y gosodiadau uwch hyn wneud niwed i sefyd
 about-config-warning-checkbox = Blinwch fi eto, os gwelwch chi'n dda!
 about-config-warning-button = Rwy'n derbyn y perygl
 about-config-title = about:config
+about-config2-title = Ffurfweddiadau Uwch
 about-config-search-input =
     .placeholder = Chwilio
 about-config-show-all = Dangos Popeth
