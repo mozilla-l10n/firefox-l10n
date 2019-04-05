@@ -70,12 +70,12 @@
 <!ENTITY viewSourceMenuItem1.accesskey "d">
 <!ENTITY otherActionsPrint1.label "Śišćaś…">
 <!ENTITY otherActionsPrint1.accesskey "i">
-<!-- Attachment bar context menu items -->
 
+<!-- Attachment bar context menu items -->
 <!ENTITY startExpandedCmd.label    "Wokno pśidankow zachopnje pokazaś">
 <!ENTITY startExpandedCmd.accesskey    "W">
-<!-- Attachment context menu items -->
 
+<!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label    "Wócyniś">
 <!ENTITY openAttachmentCmd.accesskey    "c">
 <!ENTITY saveAsAttachmentCmd.label    "Składowaś ako…">
@@ -94,8 +94,13 @@
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "l">
 
 <!ENTITY openAttachment.tooltip "Pśipowjesonu dataju wócyniś">
-<!-- Attachment toolbar items -->
 
+<!ENTITY detachedAttachmentFolder.show.label        "Wopśimujucy zarědnik wócyniś">
+<!ENTITY detachedAttachmentFolder.show.accesskey    "m">
+<!ENTITY detachedAttachmentFolder.showMac.label     "W Finder pokazaś">
+<!ENTITY detachedAttachmentFolder.showMac.accesskey "F">
+
+<!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label       "Składowaś">
 <!ENTITY saveAttachmentButton1.tooltip     "Pśipowjesonu dataju składowaś">
 <!ENTITY saveAllAttachmentsButton1.label   "Wšykne składowaś">
