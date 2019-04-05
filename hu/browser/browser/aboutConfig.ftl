@@ -8,6 +8,7 @@ about-config-warning-text = Ezen speciális beállítások megváltoztatása ká
 about-config-warning-checkbox = Emlékeztessen továbbra is
 about-config-warning-button = Elfogadom a kockázatot
 about-config-title = about:config
+about-config2-title = Speciális beállítások
 about-config-search-input =
     .placeholder = Keresés
 about-config-show-all = Összes megjelenítése
