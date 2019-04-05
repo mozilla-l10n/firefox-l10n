@@ -248,6 +248,10 @@ shortcuts-modifier-other = Ctrl veya Alt kullanmalısınız
 shortcuts-invalid = Geçersiz kombinasyon
 shortcuts-letter = Bir harf yazın
 shortcuts-system = { -brand-short-name } kısayollarını değiştiremezsiniz
+# String displayed when a keyboard shortcut is already used by another add-on
+# Variables:
+#   $addon (string) - Name of the add-on
+shortcuts-exists = { $addon } tarafından zaten kullanılıyor
 shortcuts-card-expand-button =
     { $numberToShow ->
         [one] { $numberToShow } tane daha göster

@@ -8,6 +8,7 @@ about-config-warning-text = Bu gelişmiş ayarları değiştirmek bu uygulamanı
 about-config-warning-checkbox = Bu uyarıyı göstermeye devam et.
 about-config-warning-button = Riski kabul ediyorum
 about-config-title = about:config
+about-config2-title = Gelişmiş Yapılandırmalar
 about-config-search-input =
     .placeholder = Arama
 about-config-show-all = Tümünü göster
