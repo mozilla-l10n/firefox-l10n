@@ -22,7 +22,7 @@ about-config-pref-delete = Șterge
 
 about-config-pref-add-type-boolean = Boolean
 about-config-pref-add-type-number = Număr
-about-config-pref-add-type-string = Şir
+about-config-pref-add-type-string = Șir
 
 ## Preferences with a non-default value are differentiated visually, and at the
 ## same time the state is made accessible to screen readers using an aria-label
