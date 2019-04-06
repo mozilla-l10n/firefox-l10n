@@ -70,12 +70,12 @@
 <!ENTITY viewSourceMenuItem1.accesskey "v">
 <!ENTITY otherActionsPrint1.label "Ispis…">
 <!ENTITY otherActionsPrint1.accesskey "p">
-<!-- Attachment bar context menu items -->
 
+<!-- Attachment bar context menu items -->
 <!ENTITY startExpandedCmd.label    "Prvo prikaži okno privitka">
 <!ENTITY startExpandedCmd.accesskey    "o">
-<!-- Attachment context menu items -->
 
+<!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label    "Otvori">
 <!ENTITY openAttachmentCmd.accesskey    "O">
 <!ENTITY saveAsAttachmentCmd.label    "Spremi kao…">
@@ -94,8 +94,13 @@
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "i">
 
 <!ENTITY openAttachment.tooltip "Otvori priloženu datoteku">
-<!-- Attachment toolbar items -->
 
+<!ENTITY detachedAttachmentFolder.show.label        "Otvori sadržajnu mapu">
+<!ENTITY detachedAttachmentFolder.show.accesskey    "O">
+<!ENTITY detachedAttachmentFolder.showMac.label     "Prikaži u Finderu">
+<!ENTITY detachedAttachmentFolder.showMac.accesskey "F">
+
+<!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label       "Spremi">
 <!ENTITY saveAttachmentButton1.tooltip     "Spremi priloženu datoteku">
 <!ENTITY saveAllAttachmentsButton1.label   "Spremi sve">
