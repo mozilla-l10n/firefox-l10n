@@ -90,7 +90,7 @@ detail-update-manual =
     .tooltiptext = Nu instala actualizările automat
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Execută în ferestre private
-detail-private-browsing-description = Extensia va funcționa în ferestre private și va avea acces la activitatea ta online.<label data-l10n-name="detail-private-browsing-learn-more">Află mai multe</label>
+detail-private-browsing-description2 = Când are permisiunea, extensia va avea acces la activitățile tale online în timp ce navighezi privat. <label data-l10n-name="detail-private-browsing-learn-more">Află mai multe</label>
 detail-private-browsing-on =
     .label = Permite
     .tooltiptext = Activează în navigarea privată
@@ -139,7 +139,6 @@ legacy-warning-show-legacy = Afișează extensiile obsolete
 legacy-extensions =
     .value = Extensii obsolete
 legacy-extensions-description = Aceste extensii nu îndeplinesc standardele actuale ale { -brand-short-name } astfel încât au fost dezactivate. <label data-l10n-name="legacy-learn-more">Află despre schimbările aduse suplimentelor</label>
-private-browsing-description = Extensiile sunt blocate implicit în ferestrele private. Înseamnă că nu vor funcționa în navigarea privată și nu vor avea atunci acces la activitățile tale online. Pentru a permite rularea unei extensii în ferestre private, selectează cartela extensiei de mai jos și modifică setarea. <label data-l10n-name="private-browsing-learn-more">Află mai multe.</label>
 extensions-view-discover =
     .name = Descarcă suplimente
     .tooltiptext = { extensions-view-discover.name }
