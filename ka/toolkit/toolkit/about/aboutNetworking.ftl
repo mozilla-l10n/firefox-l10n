@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title = ქსელის შესახებ
-warning = ეს მეტად საცდელია. უფროსების ნებართვის გარეშე, არ გამოიყენოთ.
+warning = ეს მეტად საცდელია. ნუ გამოიყენებთ უფროსების დაუკითხავად.
 show-next-time-checkbox = გაფრთხილების ჩვენება ყოველ ჯერზე
 ok = გასაგებია
 http = HTTP
