@@ -189,8 +189,8 @@ media-animated-image-type =
     .value =
         { $frames ->
             [one] imagine { $type } (animată, { $frames } cadru)
-            [few] imagini { $type } (animate, { $frames } cadre)
-           *[other] imagini { $type } (animate, { $frames } de cadre)
+            [few] imagine { $type } (animată, { $frames } cadre)
+           *[other] imagine { $type } (animată, { $frames } de cadre)
         }
 # This string is used to display the type of
 # an image

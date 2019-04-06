@@ -34,7 +34,7 @@ welcome-back-page-title = Succes!
 welcome-back-page-info = { -brand-short-name } este pregătit de funcționare.
 welcome-back-restore-button =
     .label = Să începem!
-    .accesskey = S
+    .accesskey = L
 welcome-back-restore-all-label = Restaurează toate ferestrele și filele
 welcome-back-restore-some-label = Restaurează numai pe cele care le dorești
-welcome-back-page-info-link = Suplimentele și personalizările au fost eliminate, iar setările browserului au fost retaurate la cele implicite. Dacă aceasta nu ți-a rezolvat problema, <a data-l10n-name="link-more">află mai multe despre ce poți face.</a>
+welcome-back-page-info-link = Suplimentele și personalizările au fost eliminate, iar setările browserului au fost restaurate la cele implicite. Dacă acest lucru nu ți-a rezolvat problema, <a data-l10n-name="link-more">află mai multe despre ce poți face.</a>
