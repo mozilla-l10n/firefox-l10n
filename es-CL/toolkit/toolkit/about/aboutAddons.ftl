@@ -243,6 +243,10 @@ shortcuts-modifier-other = Incluye Ctrl o Alt
 shortcuts-invalid = Combinación inválida
 shortcuts-letter = Escribe una letra
 shortcuts-system = No se puede sobrescribir un atajo de { -brand-short-name }
+# String displayed when a keyboard shortcut is already used by another add-on
+# Variables:
+#   $addon (string) - Name of the add-on
+shortcuts-exists = Ya en uso por { $addon }
 shortcuts-card-expand-button =
     { $numberToShow ->
         [one] Mostrar { $numberToShow } más
