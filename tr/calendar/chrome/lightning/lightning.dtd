@@ -47,6 +47,8 @@
      lightning.calendarproperties.forceEmailScheduling.tooltiptext2)
      - tooltiptext1 is used in the calendar wizard when setting a new caldav calendar
      - tooltiptext2 is used in the calendar properties dialog for caldav calendars -->
+<!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext1     "Zamanlamayı takvim sunucusu yapıyorsa, şimdilik yalnızca takvim özellikleri iletişim kutusunda bu takvimi kurduktan sonra bu seçeneği etkinleştirebilirsiniz.">
+<!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext2     "Bu seçenek, zamanlamayı takvim sunucusu yönetiyorsa kullanılabilir. Bunu etkinleştirdiğinizde, zamanlamayı sunucuya bırakmak yerine standart e-posta tabanlı zamanlama yapılacaktır.">
 
 <!-- iMIP Bar (meeting support) -->
 <!ENTITY lightning.imipbar.btnAccept.label                                  "Kabul et">
