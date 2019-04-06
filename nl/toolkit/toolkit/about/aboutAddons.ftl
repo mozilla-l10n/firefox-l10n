@@ -111,6 +111,10 @@ detail-last-updated =
 
 detail-contributions-description = De ontwikkelaar van deze add-on vraagt uw steun voor verdere ontwikkeling door middel van een kleine bijdrage.
 
+detail-contributions-button = Bijdragen
+    .title = Bijdragen aan de ontwikkeling van deze add-on
+    .accesskey = B
+
 detail-update-type =
     .value = Automatische updates
 
@@ -349,3 +353,23 @@ expand-addon-button = Meer opties
 
 addons-enabled-heading = Ingeschakeld
 addons-disabled-heading = Uitgeschakeld
+
+addon-detail-author-label = Schrijver
+addon-detail-version-label = Versie
+addon-detail-last-updated-label = Laatst bijgewerkt
+addon-detail-homepage-label = Startpagina
+addon-detail-rating-label = Waardering
+
+# This string is used to show that an add-on is disabled.
+# Variables:
+#   $name (string) - The name of the add-on
+addon-name-disabled = { $name } (uitgeschakeld)
+
+# The number of reviews that an add-on has received on AMO.
+# Variables:
+#   $numberOfReviews (number) - The number of reviews received
+addon-detail-reviews-link =
+    { $numberOfReviews ->
+        [one] { $numberOfReviews } beoordeling
+       *[other] { $numberOfReviews } beoordelingen
+    }
