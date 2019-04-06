@@ -13,7 +13,10 @@
 <!ENTITY pref.dateformat.short "สั้น"  >
 
 <!ENTITY pref.timezones.caption "เขตเวลา">
+<!ENTITY pref.timezones.label "เลือกเมืองที่ใกล้ที่สุดในเขตเวลาของคุณ:">
+<!ENTITY pref.timezones.accesskey "ล">
 
+<!ENTITY pref.defaults.label "ค่าเริ่มต้นสำหรับรายการใหม่">
 <!ENTITY pref.events.label "เหตุการณ์">
 <!ENTITY pref.tasks.label "งาน">
 
@@ -21,6 +24,8 @@
 <!ENTITY pref.default_event_length.accesskey "ค">
 
 <!ENTITY pref.default_task_none.label "ไม่มี">
+<!ENTITY pref.default_task_start_of_day.label "เริ่มต้นของวัน">
+<!ENTITY pref.default_task_end_of_day.label "สิ้นสุดของวัน">
 <!ENTITY pref.default_task_tomorrow.label "พรุ่งนี้">
 <!ENTITY pref.default_task_next_week.label "สัปดาห์ถัดไป">
 
