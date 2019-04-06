@@ -77,6 +77,9 @@ detail-version =
 detail-last-updated =
     .label = Ultimo aggiornamento
 detail-contributions-description = Lo sviluppatore di questo componente aggiuntivo chiede agli utenti una piccola donazione per contribuire al suo sviluppo.
+detail-contributions-button = Contribuisci
+    .title = Contribuisci allo sviluppo di questo componente aggiuntivo
+    .accesskey = C
 detail-update-type =
     .value = Aggiornamento automatico
 detail-update-default =
@@ -263,3 +266,15 @@ expand-addon-button = Altre opzioni
 
 addons-enabled-heading = Attivo
 addons-disabled-heading = Disattivato
+
+addon-detail-author-label = Autore
+addon-detail-version-label = Versione
+addon-detail-last-updated-label = Ultimo aggiornamento
+addon-detail-homepage-label = Sito web
+addon-detail-rating-label = Voto
+addon-name-disabled = { $name } (disattivato)
+addon-detail-reviews-link =
+    { $numberOfReviews ->
+        [one] { $numberOfReviews } recensione
+       *[other] { $numberOfReviews } recensioni
+}
