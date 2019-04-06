@@ -32,5 +32,5 @@
 <!ENTITY pref.defalarmlen4todos.label "Görevden önce anımsatıcının ayarlanacağı varsayılan süre:">
 <!ENTITY pref.defalarmlen4todos.accesskey "n">
 
-<!ENTITY pref.defaultsnoozelength.label "Varsayılan uyuma süresi:" >
+<!ENTITY pref.defaultsnoozelength.label "Varsayılan erteleme süresi:" >
 <!ENTITY pref.defaultsnoozelength.accesskey "V">
