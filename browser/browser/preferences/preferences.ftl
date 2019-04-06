@@ -851,14 +851,21 @@ content-blocking-setting-custom =
   .accesskey = A
 
 content-blocking-standard-description = Blokkeert alleen bekende trackers in privévensters.
+
 content-blocking-standard-desc = Gebalanceerd voor bescherming en prestaties. Staat bepaalde trackers toe, zodat websites goed werken.
 content-blocking-strict-desc = Blokkeert alle trackers die { -brand-short-name } detecteert. Kan ervoor zorgen dat bepaalde websites niet goed werken.
+content-blocking-strict-description = Strengere bescherming, kan ervoor zorgen dat bepaalde websites niet goed werken.
 content-blocking-custom-desc = Kies wat er wordt geblokkeerd.
 
 content-blocking-private-trackers = Bekende trackers alleen in privévensters
 content-blocking-third-party-cookies = Tracking-cookies van derden
+content-blocking-all-cookies = Alle cookies
+content-blocking-unvisited-cookies = Cookies van niet-bezochte websites
 content-blocking-all-windows-trackers = Bekende trackers in alle vensters
 content-blocking-all-third-party-cookies = Alle cookies van derden
+
+content-blocking-cryptominers = Cryptominers
+content-blocking-fingerprinters = Fingerprinters
 
 content-blocking-warning-title = Let op!
 content-blocking-warning-desc = Het blokkeren van cookies en trackers kan ervoor zorgen dat bepaalde websites niet goed werken. Blokkering kan eenvoudig worden uitgeschakeld voor websites die u vertrouwt.
