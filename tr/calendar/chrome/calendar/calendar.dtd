@@ -325,8 +325,8 @@
 <!ENTITY calendar.alarm.location.label              "Konum:" >
 <!ENTITY calendar.alarm.details.label               "Ayrıntılar…" >
 
-<!ENTITY calendar.alarm.snoozefor.label             "Askıya al" >
-<!ENTITY calendar.alarm.snoozeallfor.label          "Tümünü askıya al" >
+<!ENTITY calendar.alarm.snoozefor.label             "Ertele" >
+<!ENTITY calendar.alarm.snoozeallfor.label          "Tümünü ertele" >
 <!ENTITY calendar.alarm.title.label                 "Takvim anımsatıcıları" >
 <!ENTITY calendar.alarm.dismiss.label               "Görmezden gel" >
 <!ENTITY calendar.alarm.dismissall.label            "Tümünü görmezden gel" >
