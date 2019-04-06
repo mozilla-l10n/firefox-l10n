@@ -8,6 +8,7 @@ about-config-warning-text = Asnifel n ismenyifen-agi zemren ad sexṣeren arkad,
 about-config-warning-checkbox = Mmekti-yi-d tikkelt-nniḍen.
 about-config-warning-button = Gziɣ uguren!
 about-config-title = ɣef:tawila
+about-config2-title = Tawila leqqayen
 about-config-search-input =
     .placeholder = Nadi
 about-config-show-all = Sken akk

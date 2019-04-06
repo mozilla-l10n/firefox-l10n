@@ -32,9 +32,15 @@ about-debugging-sidebar-no-devices = Ulac ibenkan i yellan
 # Text displayed in buttons found in sidebar items representing remote runtimes.
 # Clicking on the button will attempt to connect to the runtime.
 about-debugging-sidebar-item-connect-button = Qqen
+# Text displayed in buttons found in sidebar items when the runtime is connecting.
+about-debugging-sidebar-item-connect-button-connecting = Tuqqna…
 # Temporary text displayed in sidebar items representing remote runtimes after
 # successfully connecting to them. Temporary UI, do not localize.
 about-debugging-sidebar-item-connected-label = Iqqen
+# Text displayed in sidebar items for remote devices where a compatible browser (eg
+# Firefox) has not been detected yet. Typically, Android phones connected via USB with
+# USB debugging enabled, but where Firefox is not started.
+about-debugging-sidebar-runtime-item-waiting-for-browser = Ittṛaǧu iminig...
 # Title for runtime sidebar items that are related to a specific device (USB, WiFi).
 about-debugging-sidebar-runtime-item-name =
     .title = { $displayName }{ $deviceName }
