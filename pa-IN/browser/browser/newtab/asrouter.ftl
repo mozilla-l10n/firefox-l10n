@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 cfr-doorhanger-extension-heading = ਸਿਫ਼ਾਰਸ਼ ਕੀਤੀ ਇਕਸਟੈਨਸ਼ਨ
+cfr-doorhanger-pintab-heading = ਇਹ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ: ਪਿੰਨ ਟੈਬ
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = ਮੈਂ ਇਹ ਕਿਓ ਵੇਖ ਰਿਹਾ/ਰਹੀ ਹਾਂ
 cfr-doorhanger-extension-cancel-button = ਹੁਣ ਨਹੀਂ
