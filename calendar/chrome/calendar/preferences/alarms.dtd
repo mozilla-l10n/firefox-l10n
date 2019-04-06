@@ -18,6 +18,12 @@
 <!ENTITY pref.showalarmbox "แสดงกล่องโต้ตอบการเตือนความจำ">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "ส">
 <!ENTITY pref.calendar.alarms.defaults.label "ค่าเริ่มต้นการเตือนความจำ">
+<!ENTITY pref.defalarm4events.label "การตั้งค่าการเตือนความจำเริ่มต้นสำหรับเหตุการณ์:">
+<!ENTITY pref.defalarm4events.accesskey "ก">
+<!ENTITY pref.defalarm4todos.label "การตั้งค่าการเตือนความจำเริ่มต้นสำหรับงาน:">
+<!ENTITY pref.defalarm4todos.accesskey "ร">
 <!ENTITY pref.alarm.on "เปิด">
 <!ENTITY pref.alarm.off "ปิด">
 
+<!ENTITY pref.defaultsnoozelength.label "ความยาวการเลื่อนเริ่มต้น:" >
+<!ENTITY pref.defaultsnoozelength.accesskey "ค">
