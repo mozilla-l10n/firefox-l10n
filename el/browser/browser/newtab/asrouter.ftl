@@ -9,6 +9,8 @@ cfr-doorhanger-extension-cancel-button = Όχι τώρα
     .accesskey = χ
 cfr-doorhanger-extension-ok-button = Προσθήκη τώρα
     .accesskey = σ
+cfr-doorhanger-pintab-ok-button = Καρφίτσωμα καρτέλας
+    .accesskey = Κ
 cfr-doorhanger-extension-manage-settings-button = Διαχείριση ρυθμίσεων προτάσεων
     .accesskey = Δ
 cfr-doorhanger-extension-never-show-recommendation = Να μην εμφανίζεται αυτή η πρόταση
@@ -44,5 +46,6 @@ cfr-doorhanger-extension-total-users =
 
 ## These messages are steps on how to use the feature and are shown together.
 
+cfr-doorhanger-pintab-step1 = <b>Κάντε δεξί κλικ</b> στην καρτέλα που θέλετε να καρφιτσώσετε.
 cfr-doorhanger-pintab-animation-pause = Παύση
 cfr-doorhanger-pintab-animation-resume = Συνέχιση
