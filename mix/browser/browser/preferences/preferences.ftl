@@ -230,6 +230,7 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Chika vaà
     .accesskey = g
+sync-mobilepromo-single = Chita'an inka kaa ndusu
 
 ## Privacy Section
 
@@ -329,3 +330,10 @@ security-enable-safe-browsing-link = Skua'a kuakaa
 
 ## The following strings are used in the Download section of settings
 
+desktop-folder-name = Escritorio
+downloads-folder-name = Snuù
+choose-download-folder-title = Katsi karpeta nu chikau ña Snuú:
+# Variables:
+#   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
+save-files-to-cloud-storage =
+    .label = Chika va'a tutu nu { $service-name }
