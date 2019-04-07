@@ -16,11 +16,11 @@
      deliberate for formatting around the embedded links. -->
 <!ENTITY rights.intro-point1a "&brandShortName; 是依照 ">
 <!ENTITY rights.intro-point1b "Mozilla 公眾授權條款">
-<!ENTITY rights.intro-point1c " 中的條件所提供給您的。這表示您可以使用、複製，或散布 &brandShortName; 給其他人。歡迎您自行修改 &brandShortName; 的原始碼以滿足您的需求；Mozilla 公眾授權條款也同時賦予您散佈修改版本的權利。">
+<!ENTITY rights.intro-point1c "中的條件所提供給您的。這表示您可以使用、複製，或散布 &brandShortName; 給其他人。歡迎您自行修改 &brandShortName; 的原始碼以滿足您的需求；Mozilla 公眾授權條款也同時賦予您散佈修改版本的權利。">
 
-<!ENTITY rights.intro-point2-a "您並未被授權使用 Mozilla 基金會或任何相關部門的商標，包含但不限於 Firefox 的名稱或圖示。您可以在 ">
+<!ENTITY rights.intro-point2-a "您並未被授權使用 Mozilla 基金會或任何相關部門的商標，包含但不限於 Firefox 的名稱或圖示。您可以在">
 <!ENTITY rights.intro-point2-b "這裡">
-<!ENTITY rights.intro-point2-c " 找到更多關於商標的使用條款。">
+<!ENTITY rights.intro-point2-c "找到更多關於商標的使用條款。">
 
 <!-- point 2.5 text for official branded builds -->
 <!ENTITY rights.intro-point2.5 "&brandShortName; 當中的一些功能，像是程式錯誤回報員，將會讓您可以選擇是否要送出回饋給 &vendorShortName;。在送出回饋時，您必須授權 &vendorShortName; 使用您所送出的回饋內容以改善其產品、發布回饋內容於其網站，並散佈這些使用者回饋。">
@@ -34,9 +34,9 @@
 <!ENTITY rights.intro-point3-unbranded "適用此產品的隱私權保護政策應在此處列出。">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights2.intro-point4a "一些 &brandShortName; 的功能將會用到以網頁為基礎的資訊服務，然而我們無法保證這些資料完全正確。您可以在 ">
+<!ENTITY rights2.intro-point4a "一些 &brandShortName; 的功能將會用到以網頁為基礎的資訊服務，然而我們無法保證這些資料完全正確。您可以在">
 <!ENTITY rights.intro-point4b "服務聲明條款">
-<!ENTITY rights.intro-point4c " 找到更多資訊，包括如何停用這些服務的說明。">
+<!ENTITY rights.intro-point4c "找到更多資訊，包括如何停用這些服務的說明。">
 
 <!-- point 4 text for unbranded builds -->
 <!ENTITY rights.intro-point4a-unbranded "若此產品包含任何網站資訊服務，適用的服務條款應寫在">
