@@ -97,6 +97,7 @@
 
 <!ENTITY detachedAttachmentFolder.show.label        "打开所在文件夹">
 <!ENTITY detachedAttachmentFolder.show.accesskey    "F">
+<!ENTITY detachedAttachmentFolder.showMac.label     "在“访达”中显示">
 <!ENTITY detachedAttachmentFolder.showMac.accesskey "F">
 
 <!-- Attachment toolbar items -->
