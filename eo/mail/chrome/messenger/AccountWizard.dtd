@@ -72,12 +72,12 @@
 
 <!ENTITY outgoingTitle.label "Detaloj de elira servilo">
 <!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
-<!ENTITY outgoingServer.description "Enter the name of your outgoing server (SMTP) (for example, &quot;smtp.example.net&quot;).">
-<!ENTITY outgoingServer.label "Outgoing Server:">
-<!ENTITY outgoingServer.accesskey "S">
-<!ENTITY outgoingUsername.description "Enter the outgoing user name given to you by your email provider (this is typically the same as your incoming user name).">
-<!ENTITY outgoingUsername.label "Outgoing User Name:">
-<!ENTITY outgoingUsername.accesskey "U">
+<!ENTITY outgoingServer.description "Entajpu nomon de servilo de elira poŝto (SMTP) (ekzemple: “smtp.example.net”).">
+<!ENTITY outgoingServer.label "Elira servilo:">
+<!ENTITY outgoingServer.accesskey "s">
+<!ENTITY outgoingUsername.description "Entajpu salutnomon por elira poŝto liveritan de via retpoŝt‑provizanto (kutime la sama kiel salutnomo por enira poŝto).">
+<!ENTITY outgoingUsername.label "Salutnomo (elira poŝto):">
+<!ENTITY outgoingUsername.accesskey "n">
 
 <!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
      haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
