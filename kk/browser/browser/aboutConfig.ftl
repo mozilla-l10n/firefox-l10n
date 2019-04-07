@@ -8,6 +8,7 @@ about-config-warning-text = Осы баптауларды өзгерту тұр�
 about-config-warning-checkbox = Маған бұл туралы келесіде ескерту!
 about-config-warning-button = Осыны қабылдаймын!
 about-config-title = about:config
+about-config2-title = Кеңейтілген баптаулар
 about-config-search-input =
     .placeholder = Іздеу
 about-config-show-all = Барлығын көрсету
