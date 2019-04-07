@@ -4,8 +4,6 @@
 
 do-not-track-description = Syutēt lopom “Do Not Track” signalu, kab paziņōt, ka nagribi byut izsakōts
 do-not-track-learn-more = Uzzynojit vairuok
-do-not-track-option-default =
-    .label = Tagad izmontojūt izsekuošonys aizsardzeibu
 do-not-track-option-always =
     .label = Vīnmār
 pref-page =
@@ -87,9 +85,6 @@ extension-controlled-default-search = Paplašinojums <img data-l10n-name="icon"/
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = Paplašinojumam <img data-l10n-name="icon"/> { $name } vajag skreines cilnes.
-# This string is shown to notify the user that their tracking protection preferences
-# are being controlled by an extension.
-extension-controlled-websites-tracking-protection-mode = Paplašinojums <img data-l10n-name="icon"/> { $name }, kontrolej izsekōšonys aizsardzeibu.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = Paplašinojums <img data-l10n-name="icon"/> { $name }, kontrolej { -brand-short-name } pīslāguma veidu škārsteiklam.
@@ -118,7 +113,7 @@ startup-header = Palaišona
 # since this setting is only exposed in Firefox Developer Edition
 separate-profile-mode =
     .label = Ļaut { -brand-short-name } i Firefox dorbuotīs vīnlaiceigi
-use-firefox-sync = Padūms: Pi itō izmontoj atseviškus profilus. Izmontoj sinhronizaceji, kab apsamaineitu ar datim itū profilu storpā.
+use-firefox-sync = Padūms: Izmontoj atseviškus profilus. Izmontoj { -sync-brand-short-name }, kab apsamaineitu ar datim itū profilu storpā.
 get-started-not-logged-in = Pīraksteitīs { -sync-brand-short-name }…
 get-started-configured = Attaiseit { -sync-brand-short-name } īstatiejumus
 always-check-default =
@@ -517,7 +512,6 @@ privacy-header = Puorlūka privatums
 
 ## Privacy Section - Forms
 
-forms-header = Formys i paroles
 forms-ask-to-save-logins =
     .label = Vaicōt, kab saglobōt lopu pīzasaciešonas informaceji
     .accesskey = i
@@ -584,12 +578,6 @@ sitedata-total-size-calculating = Aprieķina lopys datu un cache izmāru…
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Tovys saglobōtōs seikdatnes un kešatmiņa itymā strāčī aizjem { $value } { $unit } vītys.
 sitedata-learn-more = Uzzynojit vairuok
-sitedata-keep-until = Globoj leidz
-    .accesskey = l
-sitedata-keep-until-expire =
-    .label = Beidzās tū dereigums
-sitedata-keep-until-closed =
-    .label = { -brand-short-name } ir aiztaiseits
 sitedata-allow-cookies-option =
     .label = Pījimt seikdatnes un lopu datus
     .accesskey = P
@@ -600,21 +588,12 @@ sitedata-disallow-cookies-option =
 # The list items are the strings named sitedata-block-*-option*.
 sitedata-block-desc = Nūbloķietō tips
     .accesskey = N
-sitedata-block-trackers-option-recommended =
-    .label = Trešū pušu pādziņi (īsaceits)
-sitedata-block-trackers-option =
-    .label = Trešū pušu pādziņi
-sitedata-block-unvisited-option =
-    .label = Seikdatnes nu naapmaklātom lopom
 sitedata-clear =
     .label = Dzēst datus…
     .accesskey = z
 sitedata-settings =
     .label = Porvaļdēt datus…
     .accesskey = P
-sitedata-cookies-exceptions =
-    .label = Izjāmumi…
-    .accesskey = I
 
 ## Privacy Section - Address Bar
 
@@ -634,41 +613,10 @@ addressbar-suggestions-settings = Izmainit mekleituoju īstatiejumus
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Satura bloķiešona
-content-blocking-desc = Bloķej trešū pušu saturu, taidu kai reklamas voi kods, kuri var palānynōt lopu īlōdi un izsekōt tevi internetā. Īstoti sovus īstatiejumus, kab drūšeoba harmonietu ar ōtrdarbeibu.
 content-blocking-learn-more = Vaira
-content-blocking-restore-defaults =
-    .label = Atjaunōt iz nūkluseitū
-    .accesskey = A
-content-blocking-toggle-on =
-    .tooltiptext = Izslēgt satura bloķiešonu
-content-blocking-toggle-off =
-    .tooltiptext = Īslēgt satura bloķiešonu
-content-blocking-toggle-label-on = Īsl.
-    .accesskey = Ī
-content-blocking-toggle-label-off = Izsl.
-    .accesskey = I
-content-blocking-category-label = Izavielej, kū bloķēt
 
 ## Privacy Section - Tracking
 
-tracking-header = Izsekuošonys aizsardzeiba
-tracking-desc = Izsekošonys aizsardzeiba sytās pret sekōtōjim kas vysaidōs lopōs vōc informaciji par tovu uzvedeibu internetā. <a data-l10n-name="learn-more">Vaira par izsekōšonys aizsardzeibu un tovu privātumu</a>
-tracking-mode-label = Izmontōt izsekošonys aizsardzeibu, kab bloķeitu zynomūs izsekōtōjus
-tracking-mode-always =
-    .label = Vīnmār
-    .accesskey = m
-tracking-mode-private =
-    .label = Only in private windows
-    .accesskey = l
-tracking-mode-never =
-    .label = Nikod
-    .accesskey = N
-tracking-exceptions =
-    .label = Izjāmumi…
-    .accesskey = I
-tracking-change-block-list =
-    .label = Change Block List…
-    .accesskey = C
 
 ## Privacy Section - Permissions
 
@@ -693,20 +641,9 @@ permissions-notification-link = Uzzynojit vairuok
 permissions-notification-pause =
     .label = Narōdēt paziņojumus cikam { -brand-short-name } porzastartēs
     .accesskey = p
-permissions-block-autoplay-media =
-    .label = Naļaut lopom automatiski atskaņōt saturu
-    .accesskey = N
-permissions-block-autoplay-media-menu = Lopom, kuras automatiski atskaņoj skaņu
 permissions-block-autoplay-media-exceptions =
     .label = Izjāmumi...
     .accesskey = I
-autoplay-option-ask =
-    .label = Vysod prasēt
-autoplay-option-allow =
-    .label = Atļaut automatisku atskaņōšonu
-autoplay-option-dont =
-    .label = Aizlīgt automatisku atskaņōšonu
-permissions-autoplay-link = Vaira
 permissions-block-popups =
     .label = Blokeit jaunūs lūgus
     .accesskey = B
@@ -739,10 +676,6 @@ collection-studies-link = Apsavērt { -brand-short-name } pietejumus
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Data reporting is disabled for this build configuration
-collection-browser-errors =
-    .label = Atļaut { -brand-short-name } syuteit porlyuka klaidu atskaites (ari klaidu ziņojumus) { -vendor-short-name }
-    .accesskey = b
-collection-browser-errors-link = Vaira
 collection-backlogged-crash-reports =
     .label = Ļaut { -brand-short-name } tovā vōrdā syuteit sakrōtūs avarejis ziņojumus
     .accesskey = t
