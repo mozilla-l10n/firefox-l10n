@@ -17,3 +17,4 @@ sync-label = Īvodi sova e-posta adresi
 sync-input =
     .placeholder = E-posts
 sync-button = Iz prīšku
+sync-learn = Vaira

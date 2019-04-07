@@ -7,13 +7,8 @@ about-policies-title = Korporativō politika
 active-policies-tab = Aktiva
 errors-tab = Klaidys
 documentation-tab = Dokumentaceja
+no-specified-policies-message = Korporativōs politikas ir aktivas, bet nivīna politika nav īslāgta.
+inactive-message = Korporativōs politikas nav aktivas.
 policy-name = Politikas nūsaukums
 policy-value = Politikas vierteiba
 policy-errors = Politikas klaidys
-# 'gpo-machine-only' policies are related to the Group Policy features
-# on Windows. Please use the same terminology that is used on Windows
-# to describe Group Policy.
-# These policies can only be set at the computer-level settings, while
-# the other policies can also be set at the user-level.
-gpo-machine-only =
-    .title = Izmontojūt grupu politikas, itū politiku var īstatēt viņ datora leimenī.

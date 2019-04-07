@@ -3,11 +3,14 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 cfr-doorhanger-extension-heading = Īsaceitais paplašinojums
+cfr-doorhanger-pintab-heading = Paraugi itū: Daspraust cilni
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Par kū es itū radzu
 cfr-doorhanger-extension-cancel-button = Na tagad
     .accesskey = N
 cfr-doorhanger-extension-ok-button = Davīnōt
+    .accesskey = D
+cfr-doorhanger-pintab-ok-button = Daspraust itū cilni
     .accesskey = D
 cfr-doorhanger-extension-manage-settings-button = Porvaļdēt īsacejumu īstatejumus
     .accesskey = P
@@ -43,3 +46,11 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } lītōtōji
        *[other] { $total } lītōtōju
     }
+
+## These messages are steps on how to use the feature and are shown together.
+
+cfr-doorhanger-pintab-step1 = <b>Lobais peles klikšķis</b> uz cilnes, kuru tu gribi daspraust.
+cfr-doorhanger-pintab-step2 = Izavielej <b>daspraust cilni</b> nu izvielnes.
+cfr-doorhanger-pintab-step3 = Ja škārslopā ir bejuši jaunumi, tu īraudziesi zylu punktu uz daspraustōs cilnes.
+cfr-doorhanger-pintab-animation-pause = Pauze
+cfr-doorhanger-pintab-animation-resume = Turpynōt
