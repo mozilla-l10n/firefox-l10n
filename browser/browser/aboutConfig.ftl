@@ -8,6 +8,7 @@ about-config-warning-text = 更改進階設定可能會影響本程式的穩定�
 about-config-warning-checkbox = 請繼續吵我，謝謝！
 about-config-warning-button = 我發誓，我一定會小心的！
 about-config-title = about:config
+about-config2-title = 進階設定
 about-config-search-input =
     .placeholder = 搜尋
 about-config-show-all = 顯示全部
