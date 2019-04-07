@@ -18,6 +18,7 @@
 <!ENTITY accountTypeNews.label "Novaĵgrupa konto">
 <!ENTITY accountTypeNews.accesskey "g">
 <!-- LOCALIZATION NOTE(accountTypeMovemail.label): do not translate 'Movemail' -->
+<!ENTITY accountTypeMovemail.label "Retkesto UNIX (Movemail)">
 
 <!-- Entities for Identity page -->
 
