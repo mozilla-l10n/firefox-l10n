@@ -252,7 +252,11 @@ shortcuts-modifier-mac = გამოყენებული იყოს Ctrl,
 shortcuts-modifier-other = გამოყენებული იყოს Ctrl ან Alt
 shortcuts-invalid = არასწორი შერჩევა
 shortcuts-letter = აკრიფეთ ასონიშანი
-shortcuts-system = ვერ გადაეწერება { -brand-short-name }-ის სწრაფ ღილაკს
+shortcuts-system = ვერ გადაეწერება სწრაფ ღილაკს, რომელსაც { -brand-short-name } იყენებს
+# String displayed when a keyboard shortcut is already used by another add-on
+# Variables:
+#   $addon (string) - Name of the add-on
+shortcuts-exists = უკვე იყენებს { $addon }
 shortcuts-card-expand-button =
     { $numberToShow ->
        *[other] გამოჩნდეს { $numberToShow } კიდევ

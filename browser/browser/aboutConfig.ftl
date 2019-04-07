@@ -8,6 +8,7 @@ about-config-warning-text = ამ დამატებითი პარა�
 about-config-warning-checkbox = გაფრთხილება, ყოველ ჯერზე!
 about-config-warning-button = ვაცნობიერებ საფრთხეებს!
 about-config-title = about:config
+about-config2-title = დამატებით გამართვა
 about-config-search-input =
     .placeholder = ძიება
 about-config-show-all = ყველას ჩვენება
