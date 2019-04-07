@@ -6,7 +6,7 @@
 <!ENTITY dataChoicesTab.label    "მონაცემთა შერჩევა">
 <!ENTITY itemUpdate.label        "განახლება">
 <!ENTITY itemNetworking.label    "ქსელი და ადგილი დისკზე">
-<!ENTITY itemCertificates.label  "სერთიფიკატები">
+<!ENTITY itemCertificates.label  "სერტიფიკატები">
 
 <!-- General Settings -->
 <!ENTITY enableGlodaSearch.label       "გლობალური ძიებისა და გზავნილთა ინდექსაციის ჩართვა">
@@ -110,7 +110,7 @@
 <!ENTITY clearCacheNow.accesskey         "C">
 
 <!-- Certificates -->
-<!ENTITY certSelection.description       "როცა სერვერი ჩემს პირად სერთიფიკატს ითხოვს:">
+<!ENTITY certSelection.description       "როცა სერვერი ჩემს პირად სერტიფიკატს ითხოვს:">
 <!ENTITY certs.auto                      "ავტომატური შერჩევა">
 <!ENTITY certs.auto.accesskey            "m">
 <!ENTITY certs.ask                       "შეკითხვა ყოველ ჯერზე">
