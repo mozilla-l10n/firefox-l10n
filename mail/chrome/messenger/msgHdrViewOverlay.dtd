@@ -70,12 +70,12 @@
 <!ENTITY viewSourceMenuItem1.accesskey "а">
 <!ENTITY otherActionsPrint1.label "Баспаға шығару…">
 <!ENTITY otherActionsPrint1.accesskey "п">
-<!-- Attachment bar context menu items -->
 
+<!-- Attachment bar context menu items -->
 <!ENTITY startExpandedCmd.label    "Басынан бастап салыным панелін көрсету">
 <!ENTITY startExpandedCmd.accesskey    "с">
-<!-- Attachment context menu items -->
 
+<!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label    "Ашу">
 <!ENTITY openAttachmentCmd.accesskey    "А">
 <!ENTITY saveAsAttachmentCmd.label    "Қалайша сақтау…">
@@ -94,8 +94,13 @@
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "ш">
 
 <!ENTITY openAttachment.tooltip "Тіркелген файлды ашу">
-<!-- Attachment toolbar items -->
 
+<!ENTITY detachedAttachmentFolder.show.label        "Орналасқан бумасын ашу">
+<!ENTITY detachedAttachmentFolder.show.accesskey    "б">
+<!ENTITY detachedAttachmentFolder.showMac.label     "Finder ішінен көрсету">
+<!ENTITY detachedAttachmentFolder.showMac.accesskey "к">
+
+<!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label       "Сақтау">
 <!ENTITY saveAttachmentButton1.tooltip     "Тіркелген файлды сақтау">
 <!ENTITY saveAllAttachmentsButton1.label   "Барлығын сақтау">
