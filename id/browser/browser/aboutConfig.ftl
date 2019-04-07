@@ -8,6 +8,7 @@ about-config-warning-text = Mengubah nilai bawaan pada pengaturan canggih ini da
 about-config-warning-checkbox = Tanya lagi nanti!
 about-config-warning-button = Saya terima risikonya
 about-config-title = about:config
+about-config2-title = Konfigurasi Lanjutan
 about-config-search-input =
     .placeholder = Cari
 about-config-show-all = Tampilkan Semua

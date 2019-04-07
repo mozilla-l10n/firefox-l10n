@@ -39,6 +39,10 @@ about-debugging-sidebar-no-devices = Tidak ada perangkat yang ditemukan
 # Text displayed in buttons found in sidebar items representing remote runtimes.
 # Clicking on the button will attempt to connect to the runtime.
 about-debugging-sidebar-item-connect-button = Sambungkan
+# Text displayed in buttons found in sidebar items when the runtime is connecting.
+about-debugging-sidebar-item-connect-button-connecting = Menyambungkan…
+# Text displayed in buttons found in sidebar items when the connection failed.
+about-debugging-sidebar-item-connect-button-connection-failed = Sambungan gagal
 # Temporary text displayed in sidebar items representing remote runtimes after
 # successfully connecting to them. Temporary UI, do not localize.
 about-debugging-sidebar-item-connected-label = Tersambung
@@ -56,6 +60,10 @@ about-debugging-sidebar-runtime-item-name-no-device =
 # Text to show in the footer of the sidebar that links to a help page
 # (currently: https://developer.mozilla.org/docs/Tools/about:debugging)
 about-debugging-sidebar-support = Dukungan Debugging
+# Text to show as the ALT attribute of a help icon that accompanies the help about
+# debugging link in the footer of the sidebar
+about-debugging-sidebar-support-icon =
+    .alt = Ikon bantuan
 # Text displayed in a sidebar button to refresh the list of USB devices. Clicking on it
 # will attempt to update the list of devices displayed in the sidebar.
 about-debugging-refresh-usb-devices-button = Segarkan peranti
@@ -213,6 +221,10 @@ about-debugging-worker-status-registering = Mendaftarkan
 # Displayed for service workers in runtime pages, to label the scope of a worker
 about-debugging-worker-scope =
     .label = Lingkup
+# Displayed for service workers in runtime pages, to label the push service endpoint (url)
+# of a worker
+about-debugging-worker-push-service =
+    .label = Layanan Push
 # Displayed as name for the Main Process debug target in the Processes category. Only for
 # remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-main-process-name = Proses Utama
