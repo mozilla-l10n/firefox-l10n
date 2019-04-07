@@ -64,6 +64,7 @@ policy-OverrideFirstRunPage = Surscriver la pagina che vegn mussada suenter avai
 policy-OverridePostUpdatePage = Surscriver la pagina «What's New» che vegn mussada suenter actualisaziuns. Definir questa directiva cun ina valur vida per impedir che la pagina vegnia mussada.
 policy-Permissions = Configurar permissiuns per camera, microfon, posiziun e notificaziuns.
 policy-PopupBlocking = Permetter a tschertas websites da mussar popups sco standard.
+policy-Preferences = Definescha e fixescha la valur per ina subgruppa da preferenzas.
 policy-Proxy = Configurar ils parameters dal proxy.
 policy-RequestedLocales = Definescha, en la successiun da preferenza, la glista da las linguas («locales») dumandadas da l'applicaziun.
 policy-SanitizeOnShutdown = Stizzar tut las datas da navigaziun cun terminar.

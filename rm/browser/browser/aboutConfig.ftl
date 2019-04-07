@@ -8,6 +8,7 @@ about-config-warning-text = La modificaziun da quests parameters avanzads po cum
 about-config-warning-checkbox = Puspè dumandar la proxima giada, grazia.
 about-config-warning-button = Jau accept il ristg
 about-config-title = about:config
+about-config2-title = Configuraziuns avanzadas
 about-config-search-input =
     .placeholder = Tschertgar
 about-config-show-all = Mussar tut
