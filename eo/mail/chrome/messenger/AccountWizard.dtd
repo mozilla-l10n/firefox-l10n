@@ -99,22 +99,22 @@
      these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp3.suffix3, if required grammatically.
 -->
-<!ENTITY haveSmtp3.prefix "Your outgoing (SMTP) server, &quot;">
-<!ENTITY haveSmtp3.suffix3 "&quot;, is identical to your incoming server, your incoming user name will be used to access it.">
+<!ENTITY haveSmtp3.prefix "La servilo de elira retpoŝto (SMTP): “">
+<!ENTITY haveSmtp3.suffix3 "”, estas la sama kiel la servilo enira retpoŝto. La antaŭe enmetita salutnomo ankaŭ estos uzita por elira retpoŝto.">
 
 <!-- Entities for Account name page -->
 
-<!ENTITY accnameTitle.label "Account Name">
+<!ENTITY accnameTitle.label "Nomo de konto">
 <!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
-<!ENTITY accnameDesc.label "Enter the name by which you would like to refer to this account (for example, &quot;Work Account&quot;, &quot;Home Account&quot; or &quot;News Account&quot;).">
-<!ENTITY accnameLabel.label "Account Name:">
-<!ENTITY accnameLabel.accesskey "A">
+<!ENTITY accnameDesc.label "Entajpu nomon por priskribi tiun ĉi konton (ekzemple: “laboreja konto”, “persona konto” aŭ “novaĵgrupa konto”).">
+<!ENTITY accnameLabel.label "Nomo de konto:">
+<!ENTITY accnameLabel.accesskey "k">
 
 <!-- Entities for Done (Congratulations) page -->
 
-<!ENTITY completionTitle.label "Congratulations!">
-<!ENTITY completionText.label "Please verify that the information below is correct.">
-<!ENTITY serverTypePrefix.label "Incoming Server Type:">
+<!ENTITY completionTitle.label "Sukcese agordita!">
+<!ENTITY completionText.label "Bonvolu verigi ĉu la informoj sube estas seneraraj.">
+<!ENTITY serverTypePrefix.label "Tipo de enira retpoŝta servilo:">
 <!ENTITY serverNamePrefix.label "Incoming Server Name:">
 <!ENTITY smtpServerNamePrefix.label "Outgoing Server Name (SMTP):">
 <!ENTITY newsServerNamePrefix.label "News Server Name (NNTP):">
