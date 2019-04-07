@@ -64,6 +64,7 @@ policy-OverrideFirstRunPage = Pakeisti pirmo paleidimo puslapį. Padarykite ši�
 policy-OverridePostUpdatePage = Pakeisti po atnaujinimų rodomą puslapį „Kas naujo“. Padarykite šią strategiją „blank“, norėdami išjungti po atnaujinimų rodomą puslapį.
 policy-Permissions = Konfigūruoti kameros, mikrofono, buvimo vietos nustatymo ir pranešimų leidimus.
 policy-PopupBlocking = Leisti kai kurioms svetainėms pagal numatymą rodyti iškylančiuosius langus.
+policy-Preferences = Nustatykite ir užfiksuokite nuostatų rinkinio reikšmę.
 policy-Proxy = Konfigūruoti įgaliotųjų serverių nuostatas.
 policy-RequestedLocales = Nustatyti programos prašomų kalbų sąrašo pageidavimo tvarką.
 policy-SanitizeOnShutdown = Išvalyti visus naršymo duomenis išjungiant.

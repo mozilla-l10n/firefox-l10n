@@ -248,6 +248,10 @@ shortcuts-modifier-other = Įtraukti Ctrl arba Alt
 shortcuts-invalid = Netinkama kombinacija
 shortcuts-letter = Surinkite raidę
 shortcuts-system = Negalima naudoti „{ -brand-short-name }“ sparčiųjų klavišų
+# String displayed when a keyboard shortcut is already used by another add-on
+# Variables:
+#   $addon (string) - Name of the add-on
+shortcuts-exists = Jau naudoja priedas „{ $addon }“
 shortcuts-card-expand-button =
     { $numberToShow ->
         [one] Rodyti dar { $numberToShow }

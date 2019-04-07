@@ -8,6 +8,7 @@ about-config-warning-text = Šių ekspertinių nustatymų keitimas gali pakenkti
 about-config-warning-checkbox = Suerzinkite mane ir vėl, prašau!
 about-config-warning-button = Sutinku su rizika
 about-config-title = about:config
+about-config2-title = Papildoma sąranka
 about-config-search-input =
     .placeholder = Ieškoti
 about-config-show-all = Rodyti viską
