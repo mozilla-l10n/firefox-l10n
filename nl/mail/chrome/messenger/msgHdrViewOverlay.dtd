@@ -95,6 +95,11 @@
 
 <!ENTITY openAttachment.tooltip "Het gekoppelde bestand openen">
 
+<!ENTITY detachedAttachmentFolder.show.label        "Bevattende map openen">
+<!ENTITY detachedAttachmentFolder.show.accesskey    "m">
+<!ENTITY detachedAttachmentFolder.showMac.label     "Tonen in Finder">
+<!ENTITY detachedAttachmentFolder.showMac.accesskey "F">
+
 <!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label       "Opslaan">
 <!ENTITY saveAttachmentButton1.tooltip     "Bijlage opslaan">
