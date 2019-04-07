@@ -24,20 +24,20 @@
 <!-- Entities for Identity page -->
 
 <!ENTITY identityTitle.label "Identigo">
-<!ENTITY identityDesc.label "Each account has an identity, which is the information that identifies you to others when they receive your messages.">
+<!ENTITY identityDesc.label "Ĉiu konto havas sian identigon, kiu ebligas al ricevantoj de mesaĝoj identigi vin kiel sendinton.">
 
 <!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
-<!ENTITY fullnameDesc.label "Enter the name you would like to appear in the &quot;From&quot; field of your outgoing messages">
+<!ENTITY fullnameDesc.label "Entajpu nomon, kiu estos montrata en la kampo “de” por viaj eliraj mesaĝoj">
 <!-- LOCALIZATION NOTE (fullnameExample.label) : use following directions for below line
   1, do not translate two of "&quot;"
   2, Use localized full name instead of "John Smith"
 -->
-<!ENTITY fullnameExample.label "(for example, &quot;John Smith&quot;).">
-<!ENTITY fullnameLabel.label "Your Name:">
-<!ENTITY fullnameLabel.accesskey "Y">
+<!ENTITY fullnameExample.label "(ekzemple: “Johano Smith”).">
+<!ENTITY fullnameLabel.label "Via nomo:">
+<!ENTITY fullnameLabel.accesskey "n">
 
-<!ENTITY emailLabel.label "Email Address:">
-<!ENTITY emailLabel.accesskey "E">
+<!ENTITY emailLabel.label "Retpoŝta adreso:">
+<!ENTITY emailLabel.accesskey "R">
 
 <!-- Entities for Incoming Server page -->
 
