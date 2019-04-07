@@ -4,22 +4,22 @@
 
 <!-- extracted from AccountManager.xul -->
 
-<!ENTITY accountManagerTitle.label "Account Settings">
+<!ENTITY accountManagerTitle.label "Agordoj de kontoj">
 
-<!ENTITY accountActionsButton.label "Account Actions">
+<!ENTITY accountActionsButton.label "Agoj">
 <!ENTITY accountActionsButton.accesskey "A">
-<!ENTITY addMailAccountButton.label "Add Mail Account…">
-<!ENTITY addMailAccountButton.accesskey "A">
-<!ENTITY addIMAccountButton.label "Add Chat Account…">
-<!ENTITY addIMAccountButton.accesskey "C">
-<!ENTITY addFeedAccountButton.label "Add Feed Account…">
-<!ENTITY addFeedAccountButton.accesskey "F">
-<!ENTITY addOtherAccountButton.label "Add Other Account…">
-<!ENTITY addOtherAccountButton.accesskey "O">
-<!ENTITY setDefaultButton.label "Set as Default">
-<!ENTITY setDefaultButton.accesskey "D">
-<!ENTITY removeButton.label "Remove Account">
-<!ENTITY removeButton.accesskey "R">
+<!ENTITY addMailAccountButton.label "Aldoni konton de retpoŝto…">
+<!ENTITY addMailAccountButton.accesskey "r">
+<!ENTITY addIMAccountButton.label "Aldoni konton de babilejo…">
+<!ENTITY addIMAccountButton.accesskey "b">
+<!ENTITY addFeedAccountButton.label "Aldoni konton de novaĵoj…">
+<!ENTITY addFeedAccountButton.accesskey "n">
+<!ENTITY addOtherAccountButton.label "Aldoni alian konton…">
+<!ENTITY addOtherAccountButton.accesskey "a">
+<!ENTITY setDefaultButton.label "Elekti kiel ĉefan">
+<!ENTITY setDefaultButton.accesskey "E">
+<!ENTITY removeButton.label "Forigi konton">
+<!ENTITY removeButton.accesskey "F">
 
 <!-- AccountManager.xul -->
 <!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account

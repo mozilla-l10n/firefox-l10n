@@ -4,19 +4,20 @@
 
 <!-- Entities for AccountWizard -->
 
-<!ENTITY windowTitle.label "Account Wizard">
+<!ENTITY windowTitle.label "Kont‑kreilo">
 <!ENTITY accountWizard.size "width: 40em; height: 38em;">
 
 <!-- Entities for Account Type page -->
 
-<!ENTITY accountSetupInfo2.label "In order to receive messages, you first need to set up an account.">
-<!ENTITY accountTypeTitle.label "New Account Setup">
-<!ENTITY accountTypeDesc2.label "This Wizard will collect the information necessary to set up an account. If you do not know the information requested, please contact your System Administrator or Internet Service Provider.">
-<!ENTITY accountTypeDirections.label "Select the type of account you would like to set up:">
+<!ENTITY accountSetupInfo2.label "Por ricevi mesaĝojn, vi unue devas agordi konton.">
+<!ENTITY accountTypeTitle.label "Krei novan konton">
+<!ENTITY accountTypeDesc2.label "Tiu ĉi asistanto kolektos informojn necesajn por agordi konton. Se vi ne scios la petitajn informojn, kontaktu vian sisteman administranton aŭ retkonekt‑provizanton.">
+<!ENTITY accountTypeDirections.label "Elektu specon de konto, kiun vi volus agordi:">
 <!ENTITY accountTypeMail.label "Email account">
 <!ENTITY accountTypeMail.accesskey "m">
 <!ENTITY accountTypeNews.label "Newsgroup account">
 <!ENTITY accountTypeNews.accesskey "w">
+<!-- LOCALIZATION NOTE(accountTypeMovemail.label): do not translate 'Movemail' -->
 
 <!-- Entities for Identity page -->
 
