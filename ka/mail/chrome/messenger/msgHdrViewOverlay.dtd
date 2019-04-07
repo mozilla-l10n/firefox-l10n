@@ -95,6 +95,11 @@
 
 <!ENTITY openAttachment.tooltip "დართული ფაილის გახსნა">
 
+<!ENTITY detachedAttachmentFolder.show.label        "შემცველი საქაღალდის გახსნა">
+<!ENTITY detachedAttachmentFolder.show.accesskey    "ქ">
+<!ENTITY detachedAttachmentFolder.showMac.label     "Finder-ში ჩვენება">
+<!ENTITY detachedAttachmentFolder.showMac.accesskey "F">
+
 <!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label       "შენახვა">
 <!ENTITY saveAttachmentButton1.tooltip     "დართული ფაილის შენახვა">
