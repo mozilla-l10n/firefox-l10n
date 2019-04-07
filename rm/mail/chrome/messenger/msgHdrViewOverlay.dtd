@@ -95,6 +95,11 @@
 
 <!ENTITY openAttachment.tooltip "Avrir la datoteca agiuntada">
 
+<!ENTITY detachedAttachmentFolder.show.label        "Mussar l'ordinatur da destinaziun">
+<!ENTITY detachedAttachmentFolder.show.accesskey    "o">
+<!ENTITY detachedAttachmentFolder.showMac.label     "Mussar en il finder">
+<!ENTITY detachedAttachmentFolder.showMac.accesskey "F">
+
 <!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label       "Memorisar">
 <!ENTITY saveAttachmentButton1.tooltip     "Memorisar la datoteca agiuntada">
