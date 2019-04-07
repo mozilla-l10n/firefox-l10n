@@ -148,16 +148,20 @@
 ">
 
 <!ENTITY certerror.longpagetitle1 "კავშირი დაუცველია">
-<!ENTITY certerror.longpagetitle2 "ფრთხილად: საფრთხის შემცველია">
+
+<!ENTITY certerror.longpagetitle2 "ფრთხილად: სახიფათოა">
 <!ENTITY certerror.sts.longpagetitle  "ვერ დაუკავშირდა: სავარაუდოდ უსაფრთხოების ხარვეზის გამო">
 <!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "<span class='hostname'/>-ის მფლობელს ვებსაიტი არასწორად აქვს გამართული.  თქვენი ინფორმაციის მოპარვისგან დაცვის მიზნით, &brandShortName; ამ საიტს არ დაუკავშირდება.">
-<!ENTITY certerror.introPara2 "&brandShortName; აღმოჩენილი მოსალოდნელი საფრთხის გამო, აღარ ჩატვირთავს <span class='hostname'/> გვერდს. თუ ამ საიტს ეწვევით, შემტევებს შეეძლებათ თქვენი მონაცემების ხელყოფა, როგორიცაა პაროლები, ელფოსტის მისამართები ან საკრედიტო ბარათის ინფორმაცია.">
-<!ENTITY certerror.sts.introPara "&brandShortName; აღმოჩენილი მოსალოდნელი საფრთხის გამო, აღარ ჩატვირთავს <span class='hostname'/> გვერდს, ვინაიდან საიტი საჭიროებს დაცულ კავშირს.">
+<!-- Localization note (certerror.introPara2) - The text content of the span tag
+will be replaced at runtime with the name of the server to which the user
+was trying to connect. -->
+<!ENTITY certerror.introPara2 "&brandShortName;, აღმოჩენილი მოსალოდნელი საფრთხის გამო, აღარ ჩატვირთავს <span class='hostname'/> გვერდს. თუ ამ საიტს ეწვევით, შემტევებს შეეძლებათ თქვენი მონაცემების ხელყოფა, როგორიცაა პაროლები, ელფოსტის მისამართები ან საკრედიტო ბარათის ინფორმაცია.">
+<!ENTITY certerror.sts.introPara "&brandShortName;, აღმოჩენილი მოსალოდნელი საფრთხის გამო, აღარ ჩატვირთავს <span class='hostname'/> გვერდს, ვინაიდან საიტი საჭიროებს დაცულ კავშირს.">
 
-<!ENTITY certerror.expiredCert.introPara "&brandShortName; აღმოჩენილი ხარვეზის გამო, აღარ ჩატვირთავს <span class='hostname'/> გვერდს. საიტი ან გაუმართავია, ან თქვენი კომპიუტერის საათია გასასწორებელი.">
+<!ENTITY certerror.expiredCert.introPara "&brandShortName;, აღმოჩენილი ხარვეზის გამო, აღარ ჩატვირთავს <span class='hostname'/> გვერდს. საიტი ან გაუმართავია, ან თქვენი კომპიუტერის საათია გასასწორებელი.">
 <!ENTITY certerror.expiredCert.secondPara2 "როგორც ჩანს, საიტის სერტიფიკატი ვადაგასულია, რის გამოც &brandShortName; ვერ ახერხებს უსაფრთხო კავშირის დამყარებას. თუ ამ საიტს ეწვევით, შემტევებმა შეიძლება სცადონ თქვენი მონაცემების ხელყოფა, როგორიცაა პაროლები, ელფოსტის მისამართები და საკრედიტო ბარათის ინფორმაცია.">
 <!ENTITY certerror.expiredCert.sts.secondPara "როგორც ჩანს, საიტის სერტიფიკატი ვადაგასულია, რის გამოც &brandShortName; ვერ ახერხებს უსაფრთხო კავშირის დამყარებას.">
 
@@ -196,9 +200,10 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "გამონაკლისის დამატება…">
+
 <!ENTITY securityOverride.exceptionButton1Label "საფრთხის გაცნობიერება და გაგრძელება">
 
-<!ENTITY errorReporting.automatic2 "მოახსენეთ Mozilla-ს მსგავსი შეცდომების შესახებ, რომ დაეხმაროთ მავნე საიტების აღმოჩენასა და მათ შეზღუდვაში">
+<!ENTITY errorReporting.automatic2 "აცნობეთ Mozilla-ს მსგავსი შეცდომების შესახებ, რომ დაეხმაროთ მავნე საიტების აღმოჩენასა და მათ შეზღუდვაში">
 <!ENTITY errorReporting.learnMore "ვრცლად…">
 
 <!ENTITY remoteXUL.title "დისტანციური XUL">
@@ -216,7 +221,8 @@ was trying to connect. -->
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; ვერ უკავშირდება <span id='wrongSystemTimeWithoutReference_URL'/> -ს, რადგან როგორც ჩანს, თქვენი კომპიუტერის საათი არასწორ დროს აჩვენებს, რაც ხელს უშლის უსაფრთხოდ დაკავშირებას.</p> <p>თქვენს კომპიუტერზე არის <span id='wrongSystemTimeWithoutReference_systemDate'/>. ხარვეზის აღმოსაფხვრელად, გაასწორეთ სისტემის დრო და თარიღი.</p>">
 
 <!ENTITY certerror.pagetitle1  "დაუცველი კავშირი">
-<!ENTITY certerror.pagetitle2  "ფრთხილად: საფრთხის შემცველია">
+
+<!ENTITY certerror.pagetitle2  "ფრთხილად: სახიფათოა">
 <!ENTITY certerror.sts.pagetitle  "ვერ დაუკავშირდა: სავარაუდოდ უსაფრთხოების ხარვეზის გამო">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "ეს საიტი იყენებს HTTP
 Strict Transport Security (HSTS) შეერთებას, რომ &brandShortName; მხოლოდ დაცულად
