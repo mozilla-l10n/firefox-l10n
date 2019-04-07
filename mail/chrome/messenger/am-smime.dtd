@@ -4,7 +4,7 @@
 
 <!ENTITY securityTitle.label "უსაფრთხოება">
 <!ENTITY securityTab.label "უსაფრთხოება">
-<!ENTITY securityHeading.label "ხელმოწერილი ან დაშიფრული წერილების გასაგზავნად და მისაღებად უნდა მიეთითოს ორივე, ციფრული ხელმოწერისა და დაშიფვრის სერთიფიკატი.">
+<!ENTITY securityHeading.label "ხელმოწერილი ან დაშიფრული წერილების გასაგზავნად და მისაღებად უნდა მიეთითოს ორივე, ციფრული ხელმოწერისა და დაშიფვრის სერტიფიკატი.">
 <!ENTITY encryptionGroupTitle.label "დაშიფვრა">
 <!ENTITY encryptionChoiceLabel.label "დაშიფვრის ძირითადი პარამეტრები წერილების გაგზავნისას:">
 <!ENTITY neverEncrypt.label "არასოდეს (დაუშიფრავად)">
@@ -25,7 +25,7 @@
 <!ENTITY signMessage.accesskey "D">
 <!ENTITY signingCert.message "ამ სერტიფიკატის გასაგზავნი წერილების ხელმოსაწერად გამოყენება:">
 
-<!ENTITY certificates.label "სერთიფიკატები">
+<!ENTITY certificates.label "სერტიფიკატები">
 <!ENTITY manageCerts2.label "სერტიფიკატების მართვა">
 <!ENTITY manageCerts2.accesskey "მ">
 <!ENTITY manageDevices.label "უსაფრთხოების მოწყობილობები">

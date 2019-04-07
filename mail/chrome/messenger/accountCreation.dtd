@@ -18,7 +18,6 @@
 <!ENTITY password.text                   "სურვილისამებრ, გამოიყენება მხოლოდ სახელის ამოსაცნობად">
 <!ENTITY rememberPassword.label          "პაროლის დამახსოვრება">
 <!ENTITY rememberPassword.accesskey      "m">
-
 <!ENTITY usernameEx.label                "თქვენი შესვლის მონაცემები:">
 <!ENTITY usernameEx.accesskey            "შ">
 <!-- LOCALIZATION NOTE(usernameEx.placeholder): YOURDOMAIN refers to the Windows domain in ActiveDirectory. yourusername refers to the user's account name in Windows. -->
@@ -98,5 +97,5 @@
 <!ENTITY insecureServer.tooltip.details  "დეტალებისთვის დაწკაპეთ წრე.">
 
 <!ENTITY insecureUnencrypted.description "ელფოსტა გაიგზავნება როგორც ტექსტი და მისი წაკითხვა სხვა პირების მიერ შესაძლებელია. &brandShortName; პროგრამა საშუალებას მოგცემთ ისარგებლოთ ელფოსტის ამ ანგარიშით, მაგრამ მკაცრად რეკომენდებულია სთხოვოთ თქვენი ელფოსტის პროვაიდერს გამართოს სერვერი უსაფრთხო კავშირით მუშაობის შესაძლებლობით.">
-<!ENTITY insecureSelfSigned.description  "სერვერი იყენებს სერთიფიკატს, რომლის ნდობაც არ შეიძლება.  ამგვარად, დარწმუნებული ვერ ვიქნებით, რომ ვიღაც არ აკონტროლებს კავშირს &brandShortName; პროგრამასა და თქვენს სერვერს შორის. &brandShortName; პროგრამა საშუალებას მოგცემთ ისარგებლოთ ელფოსტის ამ ანგარიშით, მაგრამ მკაცრად რეკომენდებულია სთხოვოთ თქვენი ელფოსტის პროვაიდერს ისარგებლოს სანდო სერთიფიკატით.">
+<!ENTITY insecureSelfSigned.description  "სერვერი იყენებს სერტიფიკატს, რომლის ნდობაც არ შეიძლება.  ამგვარად, დარწმუნებული ვერ ვიქნებით, რომ ვიღაც არ აკონტროლებს კავშირს &brandShortName; პროგრამასა და თქვენს სერვერს შორის. &brandShortName; პროგრამა საშუალებას მოგცემთ ისარგებლოთ ელფოსტის ამ ანგარიშით, მაგრამ მკაცრად რეკომენდებულია სთხოვოთ თქვენი ელფოსტის პროვაიდერს ისარგებლოს სანდო სერტიფიკატით.">
 <!ENTITY secureServer.description        "გილოცავთ! ეს სერვერი უსაფრთხოა.">
