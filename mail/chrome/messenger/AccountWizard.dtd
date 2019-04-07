@@ -19,10 +19,11 @@
 <!ENTITY accountTypeNews.accesskey "g">
 <!-- LOCALIZATION NOTE(accountTypeMovemail.label): do not translate 'Movemail' -->
 <!ENTITY accountTypeMovemail.label "Retkesto UNIX (Movemail)">
+<!ENTITY accountTypeMovemail.accesskey "U">
 
 <!-- Entities for Identity page -->
 
-<!ENTITY identityTitle.label "Identity">
+<!ENTITY identityTitle.label "Identigo">
 <!ENTITY identityDesc.label "Each account has an identity, which is the information that identifies you to others when they receive your messages.">
 
 <!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
