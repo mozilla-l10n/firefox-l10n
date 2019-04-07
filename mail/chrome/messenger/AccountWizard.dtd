@@ -115,11 +115,11 @@
 <!ENTITY completionTitle.label "Sukcese agordita!">
 <!ENTITY completionText.label "Bonvolu verigi ĉu la informoj sube estas seneraraj.">
 <!ENTITY serverTypePrefix.label "Tipo de enira retpoŝta servilo:">
-<!ENTITY serverNamePrefix.label "Incoming Server Name:">
-<!ENTITY smtpServerNamePrefix.label "Outgoing Server Name (SMTP):">
-<!ENTITY newsServerNamePrefix.label "News Server Name (NNTP):">
-<!ENTITY downloadOnLogin.label "Download messages now">
-<!ENTITY downloadOnLogin.accesskey "D">
+<!ENTITY serverNamePrefix.label "Nomo de enira servilo:">
+<!ENTITY smtpServerNamePrefix.label "Nomo de elira servilo (SMTP):">
+<!ENTITY newsServerNamePrefix.label "Nomo de novaĵgrupa servilo (NNTP):">
+<!ENTITY downloadOnLogin.label "Elŝuti retleterojn nun">
+<!ENTITY downloadOnLogin.accesskey "E">
 <!ENTITY deferStorageDesc.label "Uncheck this checkbox to store mail for this account in its own directory. That will make this account appear as a top-level account. Otherwise, it will be part of the Local Folders Global Inbox account.">
 <!ENTITY deferStorage.label "Use Global Inbox (store mail in Local Folders)">
 <!ENTITY deferStorage.accesskey "G">
