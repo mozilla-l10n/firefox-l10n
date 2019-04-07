@@ -37,7 +37,7 @@
 <!ENTITY passwords.label "პაროლები">
 <!ENTITY masterpass.label "მთავარი პაროლები">
 <!ENTITY ssltls.label "SSL/TLS">
-<!ENTITY certs.label "სერთიფიკატები">
+<!ENTITY certs.label "სერტიფიკატები">
 
 <!ENTITY sync.label "სინქრონიზაცია">
 

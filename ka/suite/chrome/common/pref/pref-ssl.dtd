@@ -5,7 +5,7 @@
 <!ENTITY SSLTLSProtocolVersions.caption     "SSL/TLS ოქმის ვერსიები">
 <!ENTITY SSLTLSWarnings.caption             "SSL/TLS გაფრთხილებები">
 <!ENTITY SSLMixedContent.caption            "შერეული მონაცემები">
-<!ENTITY SSLClientAuthMethod.caption        "კლიენტის სერთიფიკატის შერჩევა">
+<!ENTITY SSLClientAuthMethod.caption        "კლიენტის სერტიფიკატის შერჩევა">
 
 <!ENTITY pref.ssltls.title                  "გადაცემის უსაფრთხო შრე (SSL/TLS)">
 <!ENTITY limit.description                  "შეგიძლიათ შეზღუდოთ დაშიფრული უსაფრთხო კავშირის რეჟიმები. შეარჩიეთ ერთერთი ვერსია ან ვერსიების უწყვეტი შუალედი.">
