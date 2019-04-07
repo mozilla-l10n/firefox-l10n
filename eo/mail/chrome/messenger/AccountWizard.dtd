@@ -41,36 +41,36 @@
 
 <!-- Entities for Incoming Server page -->
 
-<!ENTITY incomingTitle.label "Incoming Server Information">
-<!ENTITY incomingServerTypeDesc.label "Select the type of incoming server you are using.">
+<!ENTITY incomingTitle.label "Detaloj de enira servilo">
+<!ENTITY incomingServerTypeDesc.label "Elektu tipon de servilo de enira poŝto.">
 <!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
 <!ENTITY imapType.label "IMAP">
 <!ENTITY imapType.accesskey "I">
 <!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
-<!ENTITY leaveMsgsOnSrvr.label "Leave messages on server">
-<!ENTITY leaveMsgsOnSrvr.accesskey "L">
-<!ENTITY portNum.label "Port:">
+<!ENTITY leaveMsgsOnSrvr.label "Restigi mesaĝojn en servilo">
+<!ENTITY leaveMsgsOnSrvr.accesskey "R">
+<!ENTITY portNum.label "Pordo:">
 <!ENTITY portNum.accesskey "o">
-<!ENTITY defaultPortLabel.label "Default:">
+<!ENTITY defaultPortLabel.label "Norma:">
 <!ENTITY defaultPortValue.label "">
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
-<!ENTITY incomingServer.description "Enter the name of your incoming server (for example, &quot;mail.example.net&quot;).">
-<!ENTITY incomingServer.label "Incoming Server:">
-<!ENTITY incomingServer.accesskey "S">
+<!ENTITY incomingServer.description "Entajpu nomon de servilo de enira poŝto (ekzemple: “mail.example.net”).">
+<!ENTITY incomingServer.label "Enira servilo:">
+<!ENTITY incomingServer.accesskey "s">
 <!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
-<!ENTITY incomingUsername.description "Enter the incoming user name given to you by your email provider (for example, &quot;jsmith&quot;).">
-<!ENTITY incomingUsername.label "User Name:">
-<!ENTITY incomingUsername.accesskey "U">
+<!ENTITY incomingUsername.description "Entajpu salutnomon por enira poŝto liveritan de via retpoŝt‑provizanto (ekzemple: “jsmith”).">
+<!ENTITY incomingUsername.label "Salutnomo:">
+<!ENTITY incomingUsername.accesskey "n">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
-<!ENTITY newsServerNameDesc.label "Enter the name of your news server (NNTP) (for example, &quot;news.example.net&quot;).">
-<!ENTITY newsServerLabel.label "Newsgroup Server:">
-<!ENTITY newsServerLabel.accesskey "S">
+<!ENTITY newsServerNameDesc.label "Entajpu nomon de via novaĵgrupa servilo (NNTP) (ekzemple: “news.example.net”).">
+<!ENTITY newsServerLabel.label "Novaĵgrupa servilo:">
+<!ENTITY newsServerLabel.accesskey "s">
 
 <!-- Entities for Outgoing Server page -->
 
-<!ENTITY outgoingTitle.label "Outgoing Server Information">
+<!ENTITY outgoingTitle.label "Detaloj de elira servilo">
 <!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
 <!ENTITY outgoingServer.description "Enter the name of your outgoing server (SMTP) (for example, &quot;smtp.example.net&quot;).">
 <!ENTITY outgoingServer.label "Outgoing Server:">
