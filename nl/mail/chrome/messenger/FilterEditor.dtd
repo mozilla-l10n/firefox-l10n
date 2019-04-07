@@ -62,5 +62,5 @@
      are truncated in the widgets.
   -->
 <!-- Flex Attribute: https://developer.mozilla.org/docs/XUL/Attribute/flex -->
-<!ENTITY filterActionTypeFlexValue "1">
+<!ENTITY filterActionTypeFlexValue "50">
 <!ENTITY filterActionTargetFlexValue "4">
