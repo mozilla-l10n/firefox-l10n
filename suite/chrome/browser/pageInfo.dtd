@@ -100,7 +100,7 @@
 <!ENTITY  securityTab           "უსაფრთხოება">
 <!ENTITY  securityTab.accesskey "S">
 <!ENTITY  securityHeader        "უსაფრთხოების მონაცემები ამ გვერდისთვის">
-<!ENTITY  securityView.certView "სერთიფიკატის ჩვენება">
+<!ENTITY  securityView.certView "სერტიფიკატის ჩვენება">
 <!ENTITY  securityView.accesskey "V">
 <!ENTITY  securityView.unknown   "უცნობია">
 

@@ -4,6 +4,6 @@
 
 <!--LOCALIZATION NOTE shown while obtaining certificates from a directory -->
 
-<!ENTITY title.label "სერთიფიკატების გადმოწერა">
-<!ENTITY info.message "ძიება მიმღებთა სერთიფიკატების დასტაში.  გარკვეული დრო დასჭირდება.">
+<!ENTITY title.label "სერტიფიკატების გადმოწერა">
+<!ENTITY info.message "ძიება მიმღებთა სერტიფიკატების დასტაში.  გარკვეული დრო დასჭირდება.">
 <!ENTITY stop.label "ძიების დასრულება">

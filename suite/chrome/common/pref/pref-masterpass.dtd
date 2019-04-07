@@ -5,7 +5,7 @@
 <!ENTITY  pref.masterpass.title                  "მთავარი პაროლები">
 
 <!ENTITY  changepassword.caption                 "მთავარი პაროლის შეცვლა">
-<!ENTITY  changepassword.text                    "თქვენი მთავარი პაროლი იცავს ისეთ მონაცემებს, როგორიცაა პაროლები და სერთიფიკატები.">
+<!ENTITY  changepassword.text                    "თქვენი მთავარი პაროლი იცავს ისეთ მონაცემებს, როგორიცაა პაროლები და სერტიფიკატები.">
 <!ENTITY  changepassword.button                  "პაროლის შეცვლა…">
 <!ENTITY  changepassword.accesskey               "C">
 
