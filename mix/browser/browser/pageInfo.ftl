@@ -64,13 +64,23 @@ help-button =
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
 security-site-data-no = No
+image-size-unknown = Desconocido
+not-set-verified-by = No especificado
 media-img = Tutu ndatava
 media-bg-img = Sata
+media-border-img = Borde
+media-list-img = Viñeta
+media-cursor = Cursor
+media-object = Objeto
+media-embed = Tutu
 media-link = Ícono
+media-input = Entrada
 media-video = Vídeo
 media-audio = Ndusu
 saved-passwords-yes = Va'a
 saved-passwords-no = No
+no-page-title =
+    .value = Koo sivi página:
 security-no-visits = No
 # This string is used to display the number of meta tags
 # in the General Tab
