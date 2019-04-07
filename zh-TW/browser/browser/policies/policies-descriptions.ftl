@@ -64,6 +64,7 @@ policy-OverrideFirstRunPage = 覆蓋首次執行頁面。若您想停用首次�
 policy-OverridePostUpdatePage = 覆蓋更新後會開啟的「有什麼新鮮事」頁面。若您想停用此頁面，請將原則設為空白。
 policy-Permissions = 設定攝影機、麥克風、地理位置、通知等權限。
 policy-PopupBlocking = 允許某些網站預設可顯示彈出視窗。
+policy-Preferences = 鎖定部分偏好設定的內容。
 policy-Proxy = 設定代理伺服器選項。
 policy-RequestedLocales = 為應用程式設定使用的語系清單順序。
 policy-SanitizeOnShutdown = 關閉瀏覽器時清除所有瀏覽資料。
