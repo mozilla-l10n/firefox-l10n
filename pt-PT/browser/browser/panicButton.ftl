@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 panic-button-open-new-window = Abrir uma nova janela
+panic-button-undo-warning = Esta ação não pode ser anulada.
 panic-button-forget-button =
     .label = Esquecer!
 
