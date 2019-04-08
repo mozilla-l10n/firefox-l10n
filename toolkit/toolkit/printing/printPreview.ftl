@@ -2,6 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+printpreview-simplify-page-checkbox-enabled =
+    .label = { printpreview-simplify-page-checkbox.label }
+    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
+    .tooltiptext = Промените распоред ради лакшег читања
+printpreview-close =
+    .label = Затвори
+    .accesskey = З
 printpreview-portrait =
     .label = Усправно
     .accesskey = У
@@ -11,6 +18,8 @@ printpreview-landscape =
 printpreview-scale =
     .value = Размера:
     .accesskey = Р
+printpreview-shrink-to-fit =
+    .label = Уклопи на страницу
 printpreview-custom =
     .label = Прилагоди…
 printpreview-print =
@@ -20,6 +29,12 @@ printpreview-of =
     .value = од
 printpreview-custom-prompt =
     .value = Прилагоди размеру…
+printpreview-page-setup =
+    .label = Подеси страницу…
+    .accesskey = П
+printpreview-page =
+    .value = Страница:
+    .accesskey = С
 
 ## Variables
 ## $percent (integer) - menuitem percent label
