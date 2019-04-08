@@ -24,11 +24,18 @@ printpreview-scale =
     .accesskey = s
 printpreview-shrink-to-fit =
     .label = Adaptar a la pagina
+printpreview-custom =
+    .label = Personalizar…
 printpreview-print =
     .label = Imprimir…
     .accesskey = p
 printpreview-of =
     .value = sus
+printpreview-custom-prompt =
+    .value = Personalizar l'escala…
+printpreview-page-setup =
+    .label = Mesa en pagina…
+    .accesskey = i
 printpreview-page =
     .value = Pagina :
     .accesskey = a
@@ -37,9 +44,15 @@ printpreview-page =
 ## $percent (integer) - menuitem percent label
 ## $arrow (String) - UTF-8 arrow character for navigation buttons
 
+printpreview-homearrow =
+    .label = { $arrow }
+    .tooltiptext = Primièra pagina
 printpreview-previousarrow =
     .label = { $arrow }
     .tooltiptext = Pagina precedenta
 printpreview-nextarrow =
     .label = { $arrow }
     .tooltiptext = Pagina seguenta
+printpreview-endarrow =
+    .label = { $arrow }
+    .tooltiptext = Darrièra pagina
