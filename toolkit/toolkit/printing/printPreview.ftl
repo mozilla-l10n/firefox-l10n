@@ -2,6 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+printpreview-simplify-page-checkbox =
+    .label = Symleiddio Tudalen
+    .accesskey = S
+    .tooltiptext = Nid oes modd symleiddio'r dudalen yn awtomatig
+printpreview-simplify-page-checkbox-enabled =
+    .label = { printpreview-simplify-page-checkbox.label }
+    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
+    .tooltiptext = Newid cynllun ar gyfer darllen haws
 printpreview-close =
     .label = Cau
     .accesskey = C
