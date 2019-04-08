@@ -11,6 +11,13 @@ panic-button-forget-button =
 ## panic-main-timeframe-desc. For example: "Forget the last: Five minutes".
 ## Please ensure that this remains the case in the translation.
 
+panic-main-timeframe-desc = Ferjit:
+panic-button-5min =
+    .label = Lêste fiif minuten
+panic-button-2hr =
+    .label = Lêste twa oeren
+panic-button-day =
+    .label = Lêste 24 oeren
 
 ## These strings are combined to form a complete sentence starting with
 ## panic-button-action-desc. For example: "Proceeding will: Delete Recent Cookies".
