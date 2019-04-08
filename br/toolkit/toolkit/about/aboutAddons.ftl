@@ -77,6 +77,9 @@ detail-version =
 detail-last-updated =
     .label = Hizivadur diwezhañ
 detail-contributions-description = Goulenn a ra paotr an diorren ma vefe skoazellet diorrenadur an askouezh-mañ ganeoc'h dre ur berzhadenn-arc'hant vihan.
+detail-contributions-button = Kemer perzh
+    .title = Kemer perzh e diorren an enlugellad
+    .accesskey = K
 detail-update-type =
     .value = Hizivadurioù emgefreek
 detail-update-default =
@@ -267,3 +270,23 @@ enable-addon-button = Gweredekaat
 expand-addon-button = Dibarzhioù ouzhpenn
 addons-enabled-heading = Gweredekaet
 addons-disabled-heading = Diweredekaet
+addon-detail-author-label = Aozer
+addon-detail-version-label = Handelv
+addon-detail-last-updated-label = Hizivaet da ziwezhañ
+addon-detail-homepage-label = Pennbajenn
+addon-detail-rating-label = Notenn
+# This string is used to show that an add-on is disabled.
+# Variables:
+#   $name (string) - The name of the add-on
+addon-name-disabled = { $name } (diweredekaet)
+# The number of reviews that an add-on has received on AMO.
+# Variables:
+#   $numberOfReviews (number) - The number of reviews received
+addon-detail-reviews-link =
+    { $numberOfReviews ->
+        [one] { $numberOfReviews } ali
+        [two] { $numberOfReviews } ali
+        [few] { $numberOfReviews } ali
+        [many] { $numberOfReviews } a alioù
+       *[other] { $numberOfReviews } ali
+    }
