@@ -13,6 +13,8 @@ printpreview-shrink-to-fit =
 printpreview-print =
     .label = Yazdır…
     .accesskey = Y
+printpreview-custom-prompt =
+    .value = Özel ölçek…
 
 ## Variables
 ## $percent (integer) - menuitem percent label
