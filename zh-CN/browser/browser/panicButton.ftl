@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+panic-button-open-new-window = 新建一个干净的窗口
 panic-button-undo-warning = 此操作无法撤销。
 panic-button-forget-button =
     .label = 抹去吧！
