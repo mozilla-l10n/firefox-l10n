@@ -2,18 +2,43 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+printpreview-simplify-page-checkbox =
+    .label = Απλοποίηση σελίδας
+    .accesskey = π
+    .tooltiptext = Δεν είναι δυνατή η αυτόματη απλοποίηση της σελίδας
 printpreview-simplify-page-checkbox-enabled =
     .label = { printpreview-simplify-page-checkbox.label }
     .accesskey = { printpreview-simplify-page-checkbox.accesskey }
     .tooltiptext = Αλλαγή διάταξης για ευκολότερη ανάγνωση
+printpreview-close =
+    .label = Κλείσιμο
+    .accesskey = Κ
+printpreview-portrait =
+    .label = Κατακόρυφα
+    .accesskey = α
+printpreview-landscape =
+    .label = Οριζόντια
+    .accesskey = Ο
+printpreview-scale =
+    .value = Κλίμακα:
+    .accesskey = Κ
 printpreview-shrink-to-fit =
     .label = Αυτόματη προσαρμογή
 printpreview-custom =
     .label = Προσαρμογή...
+printpreview-print =
+    .label = Εκτύπωση…
+    .accesskey = Ε
 printpreview-of =
     .value = από
 printpreview-custom-prompt =
     .value = Προσαρμοσμένη κλίμακα...
+printpreview-page-setup =
+    .label = Διαμόρφωση σελίδας…
+    .accesskey = δ
+printpreview-page =
+    .value = Σελίδα:
+    .accesskey = ε
 
 ## Variables
 ## $percent (integer) - menuitem percent label
