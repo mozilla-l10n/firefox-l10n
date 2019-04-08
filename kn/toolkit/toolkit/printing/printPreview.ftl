@@ -1,0 +1,39 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+printpreview-close =
+    .label = ಮುಚ್ಚು
+    .accesskey = C
+printpreview-portrait =
+    .label = ಭಾವಚಿತ್ರ
+    .accesskey = o
+printpreview-landscape =
+    .label = ಪ್ರಕೃತಿ ಚಿತ್ರ
+    .accesskey = L
+printpreview-scale =
+    .value = ಅಳತೆ:
+    .accesskey = S
+printpreview-shrink-to-fit =
+    .label = ಹೊಂದಿಕೊಳ್ಳುವಂತೆ ಕುಗ್ಗಿಸು
+printpreview-print =
+    .label = ಮುದ್ರಿಸು...
+    .accesskey = P
+printpreview-of =
+    .value = ನಲ್ಲಿ
+printpreview-custom-prompt =
+    .value = ಅಳತೆ ಸೂಚಿಸು...
+printpreview-page =
+    .value = ಪುಟ:
+    .accesskey = a
+
+## Variables
+## $percent (integer) - menuitem percent label
+## $arrow (String) - UTF-8 arrow character for navigation buttons
+
+printpreview-homearrow =
+    .label = { $arrow }
+    .tooltiptext = ಮೊದಲ ಪುಟ
+printpreview-endarrow =
+    .label = { $arrow }
+    .tooltiptext = ಕೊನೆಯ ಪುಟ
