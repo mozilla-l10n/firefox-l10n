@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+panic-button-undo-warning = ఈ చర్యను రద్దు చేయడం సాధ్యం కాదు.
 panic-button-forget-button =
     .label = మర్చిపో!
 
@@ -9,6 +10,7 @@ panic-button-forget-button =
 ## panic-main-timeframe-desc. For example: "Forget the last: Five minutes".
 ## Please ensure that this remains the case in the translation.
 
+panic-main-timeframe-desc = గతాన్ని మరిచిపో:
 panic-button-5min =
     .label = ఐదు నిమిషాలు
 panic-button-2hr =
