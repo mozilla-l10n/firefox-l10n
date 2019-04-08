@@ -2,6 +2,35 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+printpreview-close =
+    .label = બંધ કરો
+    .accesskey = C
+printpreview-portrait =
+    .label = ઊભું
+    .accesskey = o
+printpreview-landscape =
+    .label = આડું
+    .accesskey = L
+printpreview-scale =
+    .value = માપ:
+    .accesskey = S
+printpreview-shrink-to-fit =
+    .label = ગોઠવવા માટે નાનું કરો
+printpreview-custom =
+    .label = પોતાનું...
+printpreview-print =
+    .label = છાપો...
+    .accesskey = P
+printpreview-of =
+    .value = નાં
+printpreview-custom-prompt =
+    .value = પોતાની રીતે નાનું કરો...
+printpreview-page-setup =
+    .label = પાનાની ગોઠવણી...
+    .accesskey = u
+printpreview-page =
+    .value = પાનું:
+    .accesskey = a
 
 ## Variables
 ## $percent (integer) - menuitem percent label
