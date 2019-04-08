@@ -82,6 +82,9 @@ detail-version =
 detail-last-updated =
     .label = Ultima actualisaziun
 detail-contributions-description = Il sviluppader da quest supplement ta dumonda da sustegnair il svilup dal supplement cun ina pitschna contribuziun finanziala.
+detail-contributions-button = Contribuir
+    .title = Contribuir al svilup da quest supplement
+    .accesskey = C
 detail-update-type =
     .value = Actualisaziuns automaticas
 detail-update-default =
@@ -274,3 +277,20 @@ enable-addon-button = Activar
 expand-addon-button = Ulteriuras opziuns
 addons-enabled-heading = Activà
 addons-disabled-heading = Deactivà
+addon-detail-author-label = Autur(a)
+addon-detail-version-label = Versiun
+addon-detail-last-updated-label = Ultima actualisaziun
+addon-detail-homepage-label = Pagina d'internet
+addon-detail-rating-label = Valitaziun
+# This string is used to show that an add-on is disabled.
+# Variables:
+#   $name (string) - The name of the add-on
+addon-name-disabled = { $name } (deactivà)
+# The number of reviews that an add-on has received on AMO.
+# Variables:
+#   $numberOfReviews (number) - The number of reviews received
+addon-detail-reviews-link =
+    { $numberOfReviews ->
+        [one] { $numberOfReviews } valitaziun
+       *[other] { $numberOfReviews } valitaziuns
+    }
