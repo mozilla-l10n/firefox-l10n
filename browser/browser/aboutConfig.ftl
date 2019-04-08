@@ -8,6 +8,7 @@ about-config-warning-text = It wizigjen fan dizze wiidweidige foarkarren kin ske
 about-config-warning-checkbox = Bliuw my yrritearje!
 about-config-warning-button = Ik oanfurdigje it risiko
 about-config-title = about:config
+about-config2-title = Avansearre konfiguraasjes
 about-config-search-input =
     .placeholder = Sykje
 about-config-show-all = Alles toane
