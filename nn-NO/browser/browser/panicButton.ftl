@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+panic-button-open-new-window = Opne eit nytt, friskt vindauge
 panic-button-undo-warning = Denne handlinga kan ikkje angrast.
 panic-button-forget-button =
     .label = Gløym!
@@ -25,3 +26,6 @@ panic-button-day =
 ## words "Cookies", "History", "Tabs" and "Windows". The translation should do the same.
 
 panic-button-action-desc = Om du held fram vil:
+panic-button-delete-cookies = Siste <strong>infokapslar</strong> slettast
+panic-button-delete-history = Nyleg <strong>historikk</strong> slettast
+panic-button-delete-tabs-and-windows = Lat att alle <strong>faner</strong> og <strong>vindauge</strong>
