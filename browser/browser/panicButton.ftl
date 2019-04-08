@@ -24,3 +24,7 @@ panic-button-day =
 ## Note also that some strings include <strong> tags for emphasis on the
 ## words "Cookies", "History", "Tabs" and "Windows". The translation should do the same.
 
+panic-button-action-desc = Se continuar, irá:
+panic-button-delete-cookies = Apagar <strong>cookies</strong> recentes
+panic-button-delete-history = Apagar <strong>histórico</strong> recente
+panic-button-delete-tabs-and-windows = Fechar todos os <strong>separadores</strong> e <strong>janelas</strong>
