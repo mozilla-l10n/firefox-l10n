@@ -2,6 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+printpreview-simplify-page-checkbox =
+    .label = გვერდის გამარტივება
+    .accesskey = ტ
+    .tooltiptext = ამ გვერდის ავტომატურად გამარტივება შეუძლებელია
+printpreview-simplify-page-checkbox-enabled =
+    .label = { printpreview-simplify-page-checkbox.label }
+    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
+    .tooltiptext = შეცვალეთ განლაგება გამარტივებული კითხვისთვის
 printpreview-close =
     .label = დახურვა
     .accesskey = დ
@@ -14,6 +22,8 @@ printpreview-landscape =
 printpreview-scale =
     .value = ზომის ცვლილება:
     .accesskey = მ
+printpreview-shrink-to-fit =
+    .label = გვერდზე მორგება
 printpreview-custom =
     .label = მითითებული…
 printpreview-print =
