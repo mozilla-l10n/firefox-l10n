@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 panic-button-open-new-window = Abrir una nueva ventana en blanco
+panic-button-undo-warning = Esta acción no puede revertirse.
 panic-button-forget-button =
     .label = ¡Olvidar!
 
@@ -25,3 +26,6 @@ panic-button-day =
 ## words "Cookies", "History", "Tabs" and "Windows". The translation should do the same.
 
 panic-button-action-desc = Proceder implicará:
+panic-button-delete-cookies = Borrar las <strong>cookies</strong> recientes
+panic-button-delete-history = Borrar el <strong>historial</strong> reciente
+panic-button-delete-tabs-and-windows = Cerrar todas las <strong>pestañas</strong> y <strong>ventanas</strong>
