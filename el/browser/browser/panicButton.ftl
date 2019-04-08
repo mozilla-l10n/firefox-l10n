@@ -22,3 +22,6 @@ panic-button-day =
 ## Note also that some strings include <strong> tags for emphasis on the
 ## words "Cookies", "History", "Tabs" and "Windows". The translation should do the same.
 
+panic-button-delete-cookies = Θα διαγραφούν τα πρόσφατα <strong>cookies</strong>
+panic-button-delete-history = Θα διαγραφεί το πρόσφατο <strong>ιστορικό</strong>
+panic-button-delete-tabs-and-windows = Θα κλείσουν όλες οι <strong>καρτέλες</strong> και τα <strong>παράθυρα</strong>
