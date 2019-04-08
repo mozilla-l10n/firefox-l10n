@@ -8,6 +8,7 @@ about-config-warning-text = Cambiar iste parametros avantiate pote esser nocive 
 about-config-warning-checkbox = Memora me postea, per favor!
 about-config-warning-button = Io accepta le risco!
 about-config-title = about:config
+about-config2-title = Configurationes avantiate
 about-config-search-input =
     .placeholder = Cercar
 about-config-show-all = Monstrar toto
