@@ -16,11 +16,17 @@ printpreview-scale =
     .accesskey = S
 printpreview-custom =
     .label = ఇష్టానుసారం...
+printpreview-page =
+    .value = పేజీ:
+    .accesskey = a
 
 ## Variables
 ## $percent (integer) - menuitem percent label
 ## $arrow (String) - UTF-8 arrow character for navigation buttons
 
+printpreview-nextarrow =
+    .label = { $arrow }
+    .tooltiptext = తరువాతి పేజీ
 printpreview-endarrow =
     .label = { $arrow }
     .tooltiptext = చివరి పేజీ
