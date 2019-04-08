@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 panic-button-open-new-window = Otevřete nové prázdné okno
+panic-button-undo-warning = Tuto akci nelze vzít zpět.
 panic-button-forget-button =
     .label = Zapomenout!
 
@@ -25,5 +26,6 @@ panic-button-day =
 ## words "Cookies", "History", "Tabs" and "Windows". The translation should do the same.
 
 panic-button-action-desc = Pokračováním:
+panic-button-delete-cookies = Smažete nedávno vytvořené <strong>cookies</strong>
 panic-button-delete-history = Smažete nedávno vytvořenou <strong>historii</strong>
 panic-button-delete-tabs-and-windows = Zavřete všechny <strong>panely</strong> a <strong>okna</strong>
