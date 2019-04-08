@@ -11,7 +11,7 @@ panic-button-forget-button =
 ## panic-main-timeframe-desc. For example: "Forget the last: Five minutes".
 ## Please ensure that this remains the case in the translation.
 
-panic-main-timeframe-desc = Soñ:{ " " }
+panic-main-timeframe-desc = Soñ:
 panic-button-5min =
     .label = Beş daqqanı unut
 panic-button-2hr =
