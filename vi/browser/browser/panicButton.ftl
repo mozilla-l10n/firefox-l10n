@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 panic-button-open-new-window = Mở một cửa sổ mới
+panic-button-undo-warning = Thao tác này không thể hoàn tác được.
 panic-button-forget-button =
     .label = Xóa!
 
@@ -25,5 +26,6 @@ panic-button-day =
 ## words "Cookies", "History", "Tabs" and "Windows". The translation should do the same.
 
 panic-button-action-desc = Nếu tiếp tục, chương trình sẽ:
+panic-button-delete-cookies = Xóa những <strong>Cookie</strong> gần đây
 panic-button-delete-history = Xóa <strong>lịch sử</strong> gần đây
 panic-button-delete-tabs-and-windows = Đóng tất cả các <strong>thẻ</strong> và <strong>cửa sổ</strong>
