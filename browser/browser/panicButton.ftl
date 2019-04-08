@@ -27,3 +27,4 @@ panic-button-day =
 panic-button-action-desc = Ако продължите ще бъдат:
 panic-button-delete-cookies = Изтрити скорошните <strong>бисквитки</strong>
 panic-button-delete-history = Изтрита скорошната <strong>история</strong>
+panic-button-delete-tabs-and-windows = Затворени всички <strong>раздели</strong> и <strong>прозорци</strong>
