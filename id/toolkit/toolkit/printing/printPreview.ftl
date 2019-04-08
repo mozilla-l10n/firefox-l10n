@@ -2,6 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+printpreview-simplify-page-checkbox =
+    .label = Sederhanakan Halaman
+    .accesskey = s
+    .tooltiptext = Halaman ini tidak dapat disederhanakan secara otomatis
+printpreview-simplify-page-checkbox-enabled =
+    .label = { printpreview-simplify-page-checkbox.label }
+    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
+    .tooltiptext = Ubah tata letak agar mudah dibaca
 printpreview-close =
     .label = Tutup
     .accesskey = T
@@ -23,6 +31,8 @@ printpreview-print =
     .accesskey = C
 printpreview-of =
     .value = dari
+printpreview-custom-prompt =
+    .value = Skala Tersuai…
 printpreview-page-setup =
     .label = Tata Laman…
     .accesskey = L
