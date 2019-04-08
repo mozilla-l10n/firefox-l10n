@@ -24,6 +24,7 @@ features-title = { -brand-short-name }-funksjonar
 features-name = Namn
 features-version = Versjon
 features-id = ID
+processes-type = Type
 app-basics-title = Programinfo
 app-basics-name = Namn
 app-basics-version = Versjon

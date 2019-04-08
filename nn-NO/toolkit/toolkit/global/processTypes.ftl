@@ -9,6 +9,9 @@ process-type-privileged = Priviligert innhald
 process-type-extension = Utviding
 # process used to open file:// URLs
 process-type-file = Lokal fil
+# process used to isolate webpages that requested special
+# permission to allocate large amounts of memory
+process-type-weblargeallocation = Stor tilldeling
 # process used to communicate with the GPU for
 # graphics acceleration
 process-type-gpu = GPU
