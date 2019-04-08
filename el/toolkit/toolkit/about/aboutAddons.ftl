@@ -82,6 +82,9 @@ detail-version =
 detail-last-updated =
     .label = Τελευταία ενημέρωση
 detail-contributions-description = Ο προγραμματιστής αυτού του προσθέτου σας ζητάει να βοηθήσετε να συνεχίζει την ανάπτυξη του με μια μικρή συνεισφορά.
+detail-contributions-button = Συνεισφορά
+    .title = Συνεισφορά στην ανάπτυξη αυτού του προσθέτου
+    .accesskey = Σ
 detail-update-type =
     .value = Αυτόματες ενημερώσεις
 detail-update-default =
@@ -93,6 +96,8 @@ detail-update-automatic =
 detail-update-manual =
     .label = Όχι
     .tooltiptext = Να μην γίνεται αυτόματη εγκατάσταση ενημερώσεων
+# Used as a description for the option to allow or block an add-on in private windows.
+detail-private-browsing-label = Εκτέλεση σε ιδιωτικά παράθυρα
 detail-home =
     .label = Αρχική σελίδα
 detail-home-value =
@@ -228,6 +233,15 @@ shortcuts-modifier-mac = Συμπεριλάβετε Ctrl, Alt, ή ⌘
 shortcuts-modifier-other = Συμπεριλάβετε Ctrl ή Alt
 shortcuts-invalid = Άκυρος συνδυασμός
 shortcuts-letter = Πληκτρολογήστε ένα γράμμα
+# String displayed when a keyboard shortcut is already used by another add-on
+# Variables:
+#   $addon (string) - Name of the add-on
+shortcuts-exists = Χρησιμοποιείται ήδη από το { $addon }
+shortcuts-card-expand-button =
+    { $numberToShow ->
+        [one] Εμφάνιση { $numberToShow } περισσότερου
+       *[other] Εμφάνιση { $numberToShow } περισσότερων
+    }
 shortcuts-card-collapse-button = Εμφάνιση λιγότερων
 go-back-button =
     .tooltiptext = Επιστροφή
@@ -240,3 +254,19 @@ enable-addon-button = Ενεργοποίηση
 expand-addon-button = Περισσότερες επιλογές
 addons-enabled-heading = Ενεργό
 addons-disabled-heading = Ανενεργό
+addon-detail-author-label = Δημιουργός
+addon-detail-version-label = Έκδοση
+addon-detail-homepage-label = Αρχική σελίδα
+addon-detail-rating-label = Βαθμολογία
+# This string is used to show that an add-on is disabled.
+# Variables:
+#   $name (string) - The name of the add-on
+addon-name-disabled = { $name } (ανενεργό)
+# The number of reviews that an add-on has received on AMO.
+# Variables:
+#   $numberOfReviews (number) - The number of reviews received
+addon-detail-reviews-link =
+    { $numberOfReviews ->
+        [one] { $numberOfReviews } κριτική
+       *[other] { $numberOfReviews } κριτικές
+    }

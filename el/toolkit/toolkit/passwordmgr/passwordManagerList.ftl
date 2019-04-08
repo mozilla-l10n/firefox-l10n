@@ -71,3 +71,5 @@ remove-all-shown =
 remove-all-passwords-prompt = Θέλετε σίγουρα να αφαιρέσετε όλους τους κωδικούς πρόσβασης;
 remove-all-passwords-title = Αφαίρεση όλων των κωδικών πρόσβασης
 no-master-password-prompt = Σίγουρα επιθυμείτε να εμφανίσετε τους κωδικούς σας;
+auto-fill-logins-and-passwords =
+    .label = Αυτόματη συμπλήρωση συνδέσεων και κωδικών πρόσβασης
