@@ -77,6 +77,9 @@ detail-version =
 detail-last-updated =
     .label = 上次更新
 detail-contributions-description = 此附加组件的开发者希望通过您的小额捐款，帮助支持其持续开发。
+detail-contributions-button = 贡献
+    .title = 参与开发此附加组件
+    .accesskey = C
 detail-update-type =
     .value = 自动更新
 detail-update-default =
@@ -265,3 +268,19 @@ enable-addon-button = 启用
 expand-addon-button = 更多选项
 addons-enabled-heading = 已启用
 addons-disabled-heading = 已禁用
+addon-detail-author-label = 作者
+addon-detail-version-label = 版本
+addon-detail-last-updated-label = 上次更新
+addon-detail-homepage-label = 主页
+addon-detail-rating-label = 评分
+# This string is used to show that an add-on is disabled.
+# Variables:
+#   $name (string) - The name of the add-on
+addon-name-disabled = { $name }（已禁用）
+# The number of reviews that an add-on has received on AMO.
+# Variables:
+#   $numberOfReviews (number) - The number of reviews received
+addon-detail-reviews-link =
+    { $numberOfReviews ->
+       *[other] { $numberOfReviews } 则评价
+    }
