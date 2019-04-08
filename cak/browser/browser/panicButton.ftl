@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 panic-button-open-new-window = Tijaq jun k'ak'a' tzuwäch
+panic-button-undo-warning = Man tikirel ta xtitzolïx re samaj re'.
 panic-button-forget-button =
     .label = ¡Tamestaj!
 
@@ -26,3 +27,5 @@ panic-button-day =
 
 panic-button-action-desc = Toq nib'an:
 panic-button-delete-cookies = Xeyuj el ri k'ak'a' taq <strong>Kokis</strong>
+panic-button-delete-history = Yeyuj el ri k'ak'a' <strong>natab'äl</strong>
+panic-button-delete-tabs-and-windows = Yetz'apïx ri taq <strong>Taq ruwi'</strong> chuqa' <strong>Taq tzuwäch</strong>
