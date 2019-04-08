@@ -2,6 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+printpreview-simplify-page-checkbox =
+    .label = ページを単純化
+    .accesskey = i
+    .tooltiptext = このページは自動的に単純化できません
+printpreview-simplify-page-checkbox-enabled =
+    .label = { printpreview-simplify-page-checkbox.label }
+    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
+    .tooltiptext = 読みやすいレイアウトに変更します
 printpreview-close =
     .label = 閉じる
     .accesskey = C
@@ -37,6 +45,12 @@ printpreview-page =
 printpreview-homearrow =
     .label = { $arrow }
     .tooltiptext = 最初のページを表示します
+printpreview-previousarrow =
+    .label = { $arrow }
+    .tooltiptext = 前のページを表示します
+printpreview-nextarrow =
+    .label = { $arrow }
+    .tooltiptext = 次のページを表示します
 printpreview-endarrow =
     .label = { $arrow }
     .tooltiptext = 最後のページを表示します
