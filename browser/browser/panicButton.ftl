@@ -4,6 +4,8 @@
 
 panic-button-open-new-window = เปิดหน้าต่างว่างใหม่
 panic-button-undo-warning = การกระทำนี้ไม่สามารถเลิกทำได้
+panic-button-forget-button =
+    .label = ลืม!
 
 ## These strings are combined to form a complete sentence starting with
 ## panic-main-timeframe-desc. For example: "Forget the last: Five minutes".
@@ -23,3 +25,7 @@ panic-button-day =
 ## Note also that some strings include <strong> tags for emphasis on the
 ## words "Cookies", "History", "Tabs" and "Windows". The translation should do the same.
 
+panic-button-action-desc = การดำเนินการต่อจะ:
+panic-button-delete-cookies = ลบ<strong>คุกกี้</strong>ล่าสุด
+panic-button-delete-history = ลบ<strong>ประวัติ</strong>ล่าสุด
+panic-button-delete-tabs-and-windows = ปิด<strong>แท็บ</strong>และ<strong>หน้าต่าง</strong>ทั้งหมด
