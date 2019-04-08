@@ -28,6 +28,9 @@ printpreview-custom-prompt =
 printpreview-page-setup =
     .label = पृष्ठाची मांडणी…
     .accesskey = u
+printpreview-page =
+    .value = पृष्ठ:
+    .accesskey = a
 
 ## Variables
 ## $percent (integer) - menuitem percent label
