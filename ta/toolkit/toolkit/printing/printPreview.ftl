@@ -2,6 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+printpreview-simplify-page-checkbox =
+    .label = பக்கத்தை எளிமையாக்கு
+    .accesskey = i
+    .tooltiptext = இப்பக்கதை தானாக எளிதாக்க முடியாது
+printpreview-simplify-page-checkbox-enabled =
+    .label = { printpreview-simplify-page-checkbox.label }
+    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
+    .tooltiptext = எளிதான வாசிப்பிற்கு அமைப்பை மாற்றவும்
 printpreview-close =
     .label = மூடு
     .accesskey = C
@@ -21,6 +29,8 @@ printpreview-custom =
 printpreview-print =
     .label = அச்சிடு…
     .accesskey = P
+printpreview-of =
+    .value = உடைய
 printpreview-custom-prompt =
     .value = தனிப்பயன் அளவு மாற்றம்...
 printpreview-page-setup =
