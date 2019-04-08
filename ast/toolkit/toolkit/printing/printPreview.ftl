@@ -5,6 +5,12 @@
 printpreview-close =
     .label = Zarrar
     .accesskey = Z
+printpreview-portrait =
+    .label = Vertical
+    .accesskey = V
+printpreview-landscape =
+    .label = Horizontal
+    .accesskey = H
 printpreview-shrink-to-fit =
     .label = Axustar a la páxina
 printpreview-of =
@@ -16,3 +22,6 @@ printpreview-custom-prompt =
 ## $percent (integer) - menuitem percent label
 ## $arrow (String) - UTF-8 arrow character for navigation buttons
 
+printpreview-nextarrow =
+    .label = { $arrow }
+    .tooltiptext = Páxina siguiente
