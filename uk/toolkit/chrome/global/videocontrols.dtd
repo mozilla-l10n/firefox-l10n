@@ -10,7 +10,6 @@
 <!ENTITY fullscreenButton.exitfullscreenlabel "Вийти з повного екрану">
 <!ENTITY castingButton.castingLabel "Вивести на екран">
 <!ENTITY closedCaption.off "Вимкнено">
-
 <!-- LOCALIZATION NOTE (volumeScrubber.label): This label is exposed to
      accessibility software to clarify what the slider is for. -->
 <!ENTITY volumeScrubber.label "Регулятор гучності">
@@ -34,6 +33,8 @@
 <!ENTITY error.srcNotSupported "Відеоформат або тип MIME не підтримується.">
 <!ENTITY error.noSource2 "Не знайдено відео у підтримуваному форматі та типі MIME.">
 <!ENTITY error.generic "Відтворення відео зупинено через невідому помилку.">
+
+<!ENTITY status.pictureInPicture 'Це відео відтворюється в режимі "Зображення в зображенні".'>
 
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
