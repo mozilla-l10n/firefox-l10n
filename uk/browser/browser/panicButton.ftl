@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 panic-button-open-new-window = Відкрито нове чисте вікно
+panic-button-undo-warning = Цю дію неможливо скасувати.
 panic-button-forget-button =
     .label = Забути!
 
