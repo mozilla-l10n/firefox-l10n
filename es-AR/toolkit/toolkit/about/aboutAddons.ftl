@@ -82,6 +82,9 @@ detail-version =
 detail-last-updated =
     .label = Última actualización
 detail-contributions-description = El programador de este complemento pide que lo ayuden a soportar su desarrollo continuo mediante una pequeña contribución.
+detail-contributions-button = Contribuir
+    .title = Contribuir con el desarrollo de este complemento
+    .accesskey = C
 detail-update-type =
     .value = Actualización automática
 detail-update-default =
@@ -273,3 +276,20 @@ enable-addon-button = Habilitar
 expand-addon-button = Más opciones
 addons-enabled-heading = Habilitado
 addons-disabled-heading = Deshabilitado
+addon-detail-author-label = Autor
+addon-detail-version-label = Versión
+addon-detail-last-updated-label = Última actualización
+addon-detail-homepage-label = Página de inicio
+addon-detail-rating-label = Clasificación
+# This string is used to show that an add-on is disabled.
+# Variables:
+#   $name (string) - The name of the add-on
+addon-name-disabled = { $name } (deshabilitado)
+# The number of reviews that an add-on has received on AMO.
+# Variables:
+#   $numberOfReviews (number) - The number of reviews received
+addon-detail-reviews-link =
+    { $numberOfReviews ->
+        [one] { $numberOfReviews } revisión
+       *[other] { $numberOfReviews } revisiones
+    }
