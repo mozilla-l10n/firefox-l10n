@@ -95,6 +95,11 @@
 
 <!ENTITY openAttachment.tooltip "Bylagebestân iepenje">
 
+<!ENTITY detachedAttachmentFolder.show.label        "Byhearrende map iepenje">
+<!ENTITY detachedAttachmentFolder.show.accesskey    "B">
+<!ENTITY detachedAttachmentFolder.showMac.label     "Toane yn Finder">
+<!ENTITY detachedAttachmentFolder.showMac.accesskey "T">
+
 <!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label       "Bewarje">
 <!ENTITY saveAttachmentButton1.tooltip     "Bylage bewarje">
