@@ -2,6 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+printpreview-simplify-page-checkbox =
+    .label = Simplificar páxina
+    .accesskey = i
+    .tooltiptext = Esta páxina non se pode simplificar automaticamente
+printpreview-simplify-page-checkbox-enabled =
+    .label = { printpreview-simplify-page-checkbox.label }
+    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
+    .tooltiptext = Cambiar o deseño para facilitar a lectura
 printpreview-close =
     .label = Pechar
     .accesskey = P
@@ -25,6 +33,9 @@ printpreview-of =
     .value = de
 printpreview-custom-prompt =
     .value = Personalizar escala…
+printpreview-page-setup =
+    .label = Configuración da páxina…
+    .accesskey = u
 printpreview-page =
     .value = Páxina:
     .accesskey = x
@@ -36,6 +47,12 @@ printpreview-page =
 printpreview-homearrow =
     .label = { $arrow }
     .tooltiptext = Primeira páxina
+printpreview-previousarrow =
+    .label = { $arrow }
+    .tooltiptext = Páxina anterior
+printpreview-nextarrow =
+    .label = { $arrow }
+    .tooltiptext = Seguinte páxina
 printpreview-endarrow =
     .label = { $arrow }
     .tooltiptext = Última páxina
