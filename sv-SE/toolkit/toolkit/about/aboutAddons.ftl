@@ -77,6 +77,9 @@ detail-version =
 detail-last-updated =
     .label = Senast uppdaterad
 detail-contributions-description = Skaparen av det här tillägget ber dig om ett litet bidrag för att stödja den fortsatta utvecklingen.
+detail-contributions-button = Bidra
+    .title = Bidra till utvecklingen av detta tillägg
+    .accesskey = B
 detail-update-type =
     .value = Automatiska uppdateringar
 detail-update-default =
@@ -264,3 +267,20 @@ enable-addon-button = Aktivera
 expand-addon-button = Fler alternativ
 addons-enabled-heading = Aktiverad
 addons-disabled-heading = Inaktiverad
+addon-detail-author-label = Utvecklare
+addon-detail-version-label = Version
+addon-detail-last-updated-label = Senast uppdaterad
+addon-detail-homepage-label = Hemsida
+addon-detail-rating-label = Betyg
+# This string is used to show that an add-on is disabled.
+# Variables:
+#   $name (string) - The name of the add-on
+addon-name-disabled = { $name } (inaktiverad)
+# The number of reviews that an add-on has received on AMO.
+# Variables:
+#   $numberOfReviews (number) - The number of reviews received
+addon-detail-reviews-link =
+    { $numberOfReviews ->
+        [one] { $numberOfReviews } recension
+       *[other] { $numberOfReviews } recensioner
+    }
