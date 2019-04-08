@@ -10,6 +10,12 @@
 printpreview-homearrow =
     .label = { $arrow }
     .tooltiptext = પ્રથમ પાનું
+printpreview-previousarrow =
+    .label = { $arrow }
+    .tooltiptext = પહેલાનું પાનું
+printpreview-nextarrow =
+    .label = { $arrow }
+    .tooltiptext = આગળનું પાનું
 printpreview-endarrow =
     .label = { $arrow }
     .tooltiptext = અંતિમ પાનું
