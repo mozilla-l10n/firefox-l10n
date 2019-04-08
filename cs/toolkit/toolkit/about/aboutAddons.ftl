@@ -77,6 +77,9 @@ detail-version =
 detail-last-updated =
     .label = Poslední aktualizace
 detail-contributions-description = Vývojář tohoto doplňku vás žádá o malý příspěvek, kterým pomůžete podpořit další vývoj.
+detail-contributions-button = Přispět
+    .title = Přispějte a pomozte s vývojem tohoto rozšíření
+    .accesskey = P
 detail-update-type =
     .value = Automatické aktualizace
 detail-update-default =
@@ -245,6 +248,10 @@ shortcuts-modifier-other = Zahrnout Ctrl nebo Alt
 shortcuts-invalid = Neplatná kombinace kláves
 shortcuts-letter = Napište písmeno
 shortcuts-system = Nelze přepsat zkratku aplikace { -brand-short-name }
+# String displayed when a keyboard shortcut is already used by another add-on
+# Variables:
+#   $addon (string) - Name of the add-on
+shortcuts-exists = Tuto zkratku už používá { $addon }
 shortcuts-card-expand-button =
     { $numberToShow ->
         [one] Zobrazit další
@@ -263,3 +270,21 @@ enable-addon-button = Povolit
 expand-addon-button = Více možností
 addons-enabled-heading = Povoleno
 addons-disabled-heading = Zakázáno
+addon-detail-author-label = Autor
+addon-detail-version-label = Verze
+addon-detail-last-updated-label = Poslední aktualizace
+addon-detail-homepage-label = Domovská stránka
+addon-detail-rating-label = Hodnocení
+# This string is used to show that an add-on is disabled.
+# Variables:
+#   $name (string) - The name of the add-on
+addon-name-disabled = { $name } (zakázáno)
+# The number of reviews that an add-on has received on AMO.
+# Variables:
+#   $numberOfReviews (number) - The number of reviews received
+addon-detail-reviews-link =
+    { $numberOfReviews ->
+        [one] { $numberOfReviews } recenze
+        [few] { $numberOfReviews } recenze
+       *[other] { $numberOfReviews } recenzí
+    }
