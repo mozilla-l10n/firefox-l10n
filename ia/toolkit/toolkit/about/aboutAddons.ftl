@@ -82,6 +82,9 @@ detail-version =
 detail-last-updated =
     .label = Ultime actualisation
 detail-contributions-description = Le developpator de iste additivo demanda que tu le adjuta assecurar su developpamento continue faciente un parve contribution.
+detail-contributions-button = Collaborar
+    .title = Collabora al disveloppamento de iste additivo.
+    .accesskey = C
 detail-update-type =
     .value = Actualisationes automatic
 detail-update-default =
@@ -96,6 +99,11 @@ detail-update-manual =
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Aperir in un fenestra private
 detail-private-browsing-description2 = Quando consentite, le extension habera accesso a tu activitates online durante le navigation anonyme. <label data-l10n-name="detail-private-browsing-learn-more">Saper plus</label>
+# Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
+# cannot be overriden by the user.
+detail-private-disallowed-label = Non consentite in Fenestras anonyme
+# Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
+detail-private-required-label = Require accesso a Fenestras anonyme
 detail-private-browsing-on =
     .label = Consentir
     .tooltiptext = Activar in navigation anonime
@@ -241,6 +249,10 @@ shortcuts-modifier-other = Include Ctrl o Alt
 shortcuts-invalid = Combination non valide
 shortcuts-letter = Scribe un littera
 shortcuts-system = Impossibile supplantar un via breve de { -brand-short-name }
+# String displayed when a keyboard shortcut is already used by another add-on
+# Variables:
+#   $addon (string) - Name of the add-on
+shortcuts-exists = Jam in uso pro { $addon }
 shortcuts-card-expand-button =
     { $numberToShow ->
         [one] Mostrar altere { $numberToShow }
@@ -258,3 +270,20 @@ enable-addon-button = Activar
 expand-addon-button = Altere optiones
 addons-enabled-heading = Activate
 addons-disabled-heading = Disactivate
+addon-detail-author-label = Autor
+addon-detail-version-label = Version
+addon-detail-last-updated-label = Ultime actualisation
+addon-detail-homepage-label = Pagina initial
+addon-detail-rating-label = Valutation
+# This string is used to show that an add-on is disabled.
+# Variables:
+#   $name (string) - The name of the add-on
+addon-name-disabled = { $name } (disactivate)
+# The number of reviews that an add-on has received on AMO.
+# Variables:
+#   $numberOfReviews (number) - The number of reviews received
+addon-detail-reviews-link =
+    { $numberOfReviews ->
+        [one] { $numberOfReviews } revision
+       *[other] { $numberOfReviews } revisiones
+    }
