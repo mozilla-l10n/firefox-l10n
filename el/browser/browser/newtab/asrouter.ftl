@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 cfr-doorhanger-extension-heading = Προτεινόμενη επέκταση
+cfr-doorhanger-pintab-heading = Δοκιμάστε αυτό: Καρφίτσωμα καρτέλας
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Γιατί το βλέπω αυτό
 cfr-doorhanger-extension-cancel-button = Όχι τώρα
