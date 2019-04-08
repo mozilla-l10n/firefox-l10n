@@ -2,6 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+printpreview-simplify-page-checkbox =
+    .label = Sinplifikatu orria
+    .accesskey = i
+    .tooltiptext = Ezin da orri hau automatikoki sinplifikatu
+printpreview-simplify-page-checkbox-enabled =
+    .label = { printpreview-simplify-page-checkbox.label }
+    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
+    .tooltiptext = Aldatu diseinua errazago irakur dadin
 printpreview-close =
     .label = Itxi
     .accesskey = I
