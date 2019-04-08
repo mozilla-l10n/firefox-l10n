@@ -17,7 +17,7 @@ panic-button-5min =
 panic-button-2hr =
     .label = दोन वरां
 panic-button-day =
-    .label = 24 वरां{ " " }
+    .label = 24 वरां
 
 ## These strings are combined to form a complete sentence starting with
 ## panic-button-action-desc. For example: "Proceeding will: Delete Recent Cookies".
