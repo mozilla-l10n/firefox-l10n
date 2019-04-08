@@ -2,11 +2,49 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+printpreview-close =
+    .label = Затвори
+    .accesskey = З
+printpreview-portrait =
+    .label = Портрет
+    .accesskey = о
+printpreview-landscape =
+    .label = Пејсаж
+    .accesskey = П
+printpreview-scale =
+    .value = Големина:
+    .accesskey = Г
+printpreview-shrink-to-fit =
+    .label = На цел лист
+printpreview-custom =
+    .label = Сопствено…
+printpreview-print =
+    .label = Печати…
+    .accesskey = П
+printpreview-of =
+    .value = од
+printpreview-custom-prompt =
+    .value = Сопствена големина…
+printpreview-page-setup =
+    .label = Поставување на страницата…
+    .accesskey = у
+printpreview-page =
+    .value = Страница:
+    .accesskey = а
 
 ## Variables
 ## $percent (integer) - menuitem percent label
 ## $arrow (String) - UTF-8 arrow character for navigation buttons
 
+printpreview-homearrow =
+    .label = { $arrow }
+    .tooltiptext = Прва страница
 printpreview-previousarrow =
     .label = { $arrow }
     .tooltiptext = Претходна страница
+printpreview-nextarrow =
+    .label = { $arrow }
+    .tooltiptext = Следна страница
+printpreview-endarrow =
+    .label = { $arrow }
+    .tooltiptext = Последна страница
