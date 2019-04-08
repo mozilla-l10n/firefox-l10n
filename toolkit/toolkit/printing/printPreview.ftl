@@ -2,6 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+printpreview-simplify-page-checkbox =
+    .label = ਸਫ਼ੇ ਨੂੰ ਆਮ ਬਣਾਓ
+    .accesskey = i
+    .tooltiptext = ਇਸ ਸਫ਼ੇ ਨੂੰ ਆਪਣੇ-ਆਪ ਸੌਖਾ ਨਹੀਂ ਬਣਾਇਆ ਜਾ ਸਕਦਾ ਹੈ
+printpreview-simplify-page-checkbox-enabled =
+    .label = { printpreview-simplify-page-checkbox.label }
+    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
+    .tooltiptext = ਸੌਖੀ ਤਰ੍ਹਾਂ ਪੜ੍ਹਨ ਲਈ ਢਾਂਚੇ ਨੂੰ ਬਦਲੋ
 printpreview-close =
     .label = ਬੰਦ ਕਰੋ
     .accesskey = C
@@ -25,8 +33,26 @@ printpreview-of =
     .value = ਦਾ
 printpreview-custom-prompt =
     .value = ਕਸਟਮ ਸਕੇਲ...
+printpreview-page-setup =
+    .label = …ਸਫ਼ਾ ਸੈੱਟਅੱਪ
+    .accesskey = u
+printpreview-page =
+    .value = ਸਫ਼ਾ:
+    .accesskey = a
 
 ## Variables
 ## $percent (integer) - menuitem percent label
 ## $arrow (String) - UTF-8 arrow character for navigation buttons
 
+printpreview-homearrow =
+    .label = { $arrow }
+    .tooltiptext = ਪਹਿਲਾਂ ਸਫ਼ਾ
+printpreview-previousarrow =
+    .label = { $arrow }
+    .tooltiptext = ਸਫ਼ਾ ਪਿੱਛੇ
+printpreview-nextarrow =
+    .label = { $arrow }
+    .tooltiptext = ਸਫ਼ਾ ਅੱਗੇ
+printpreview-endarrow =
+    .label = { $arrow }
+    .tooltiptext = ਆਖਰੀ ਸਫ਼ਾ
