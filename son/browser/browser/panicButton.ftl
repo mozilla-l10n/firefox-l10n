@@ -27,5 +27,5 @@ panic-button-day =
 
 panic-button-action-desc = Koyjineyan ga:
 panic-button-delete-cookies = <strong>Aleewa</strong> korawey tuusu
-panic-button-delete-history = { " " }<strong>Taariki</strong> koraa tuusu
+panic-button-delete-history = <strong>Taariki</strong> koraa tuusu
 panic-button-delete-tabs-and-windows = <strong>Kanjey</strong> nda <strong>Zanfuney</strong> kul tuusu
