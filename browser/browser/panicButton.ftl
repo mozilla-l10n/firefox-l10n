@@ -26,5 +26,6 @@ panic-button-day =
 ## words "Cookies", "History", "Tabs" and "Windows". The translation should do the same.
 
 panic-button-action-desc = Շարունակելիս՝
+panic-button-delete-cookies = Ջնջել վերջին <strong>Cookie-ները</strong>
 panic-button-delete-history = Ջնջել վերջին <strong>Պատմությունը</strong>
 panic-button-delete-tabs-and-windows = Փակել բոլոր <strong>Ներդիրները</strong> և<strong>Պատուհանները</strong>
