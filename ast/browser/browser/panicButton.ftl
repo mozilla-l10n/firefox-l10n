@@ -27,4 +27,5 @@ panic-button-day =
 
 panic-button-action-desc = Si sigues,
 panic-button-delete-cookies = van desaniciase les <strong>cookies</strong> recientes
+panic-button-delete-history = va desaniciase <strong>l'historial</strong> recién
 panic-button-delete-tabs-and-windows = van zarrase toles <strong>llingüetes</strong> y <strong>ventanes</strong>
