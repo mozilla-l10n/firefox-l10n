@@ -3,11 +3,14 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 panic-button-undo-warning = 此操作无法撤销。
+panic-button-forget-button =
+    .label = 抹去吧！
 
 ## These strings are combined to form a complete sentence starting with
 ## panic-main-timeframe-desc. For example: "Forget the last: Five minutes".
 ## Please ensure that this remains the case in the translation.
 
+panic-main-timeframe-desc = 抹去最近：
 panic-button-5min =
     .label = 5 分钟
 panic-button-2hr =
