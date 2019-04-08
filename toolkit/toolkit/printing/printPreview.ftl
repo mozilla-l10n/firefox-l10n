@@ -2,6 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+printpreview-simplify-page-checkbox =
+    .label = पृष्ठ सुलभ करा
+    .accesskey = i
+    .tooltiptext = हे पृष्ठ आपोआप सुलभ होऊ शकत नाही
+printpreview-simplify-page-checkbox-enabled =
+    .label = { printpreview-simplify-page-checkbox.label }
+    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
+    .tooltiptext = सोप्या वाचनासाठी मांडणी बदला
 printpreview-close =
     .label = बंद करा
     .accesskey = C
@@ -36,3 +44,15 @@ printpreview-page =
 ## $percent (integer) - menuitem percent label
 ## $arrow (String) - UTF-8 arrow character for navigation buttons
 
+printpreview-homearrow =
+    .label = { $arrow }
+    .tooltiptext = पहिले पृष्ठ
+printpreview-previousarrow =
+    .label = { $arrow }
+    .tooltiptext = मागील पृष्ठ
+printpreview-nextarrow =
+    .label = { $arrow }
+    .tooltiptext = पुढील पृष्ठ
+printpreview-endarrow =
+    .label = { $arrow }
+    .tooltiptext = शेवटचे पृष्ठ
