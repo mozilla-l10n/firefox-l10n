@@ -2,6 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+panic-button-open-new-window = Yeni bir temiz pencere açılacak
+panic-button-undo-warning = Bu işlem geri alınamaz.
+panic-button-forget-button =
+    .label = Unut!
 
 ## These strings are combined to form a complete sentence starting with
 ## panic-main-timeframe-desc. For example: "Forget the last: Five minutes".
@@ -21,3 +25,7 @@ panic-button-day =
 ## Note also that some strings include <strong> tags for emphasis on the
 ## words "Cookies", "History", "Tabs" and "Windows". The translation should do the same.
 
+panic-button-action-desc = Devam ederseniz…
+panic-button-delete-cookies = En son <strong>çerezler</strong> silinecek
+panic-button-delete-history = Yakın <strong>geçmişiniz</strong> silinecek
+panic-button-delete-tabs-and-windows = Tüm <strong>sekme</strong> ve <strong>pencereler</strong> kapatılacak
