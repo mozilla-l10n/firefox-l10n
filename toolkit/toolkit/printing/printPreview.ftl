@@ -5,6 +5,9 @@
 printpreview-portrait =
     .label = Ståande
     .accesskey = S
+printpreview-scale =
+    .value = Skaler:
+    .accesskey = k
 printpreview-custom =
     .label = Eigendefinert …
 printpreview-of =
