@@ -5,10 +5,16 @@
 printpreview-close =
     .label = Cau
     .accesskey = C
+printpreview-portrait =
+    .label = Portread
+    .accesskey = o
 printpreview-shrink-to-fit =
     .label = Lleihau i'r Maint
 printpreview-of =
     .value = o
+printpreview-page =
+    .value = Tudalen:
+    .accesskey = a
 
 ## Variables
 ## $percent (integer) - menuitem percent label
