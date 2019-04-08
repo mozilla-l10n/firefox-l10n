@@ -3,33 +3,33 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 printpreview-close =
-    .label = बोंद मे (C)
+    .label = बोंद मे
     .accesskey = C
 printpreview-portrait =
-    .label = निजेराक् चिता़र (o)
+    .label = निजेराक् चिता़र
     .accesskey = o
 printpreview-landscape =
-    .label = ञेल ञामाक् (L)
+    .label = ञेल ञामाक्
     .accesskey = L
 printpreview-scale =
-    .value = नापाक्:(S)
+    .value = नापाक्:
     .accesskey = S
 printpreview-shrink-to-fit =
     .label = खाप ला़गित् ओता
 printpreview-custom =
-    .label = { " " }कुसियाक् तेयार …
+    .label = कुसियाक् तेयार …
 printpreview-print =
-    .label = छापा… (P)
+    .label = छापा…
     .accesskey = P
 printpreview-of =
     .value = रेयाक्
 printpreview-custom-prompt =
     .value = कुसियाक् तेयार नाप
 printpreview-page-setup =
-    .label = साहटा  साजाव... (u)
+    .label = साहटा  साजाव...
     .accesskey = u
 printpreview-page =
-    .value = साहटा (a):
+    .value = साहटा:
     .accesskey = a
 
 ## Variables
