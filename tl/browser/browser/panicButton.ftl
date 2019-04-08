@@ -15,7 +15,7 @@ panic-main-timeframe-desc = Kalimutan ang huli:
 panic-button-5min =
     .label = Limang minuto
 panic-button-2hr =
-    .label = Dalawang oras{ " " }
+    .label = Dalawang oras
 panic-button-day =
     .label = 24 na oras
 
