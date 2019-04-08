@@ -43,6 +43,9 @@ about-debugging-sidebar-item-connect-button = 连接
 about-debugging-sidebar-item-connect-button-connecting = 正在连接...
 # Text displayed in buttons found in sidebar items when the connection failed.
 about-debugging-sidebar-item-connect-button-connection-failed = 连接失败
+# Text displayed in connection warning on sidebar item of the runtime when connecting to
+# the runtime is taking too much time.
+about-debugging-sidebar-item-connect-button-connection-not-responding = 连接仍处于挂起状态，请检查目标浏览器上的消息
 # Temporary text displayed in sidebar items representing remote runtimes after
 # successfully connecting to them. Temporary UI, do not localize.
 about-debugging-sidebar-item-connected-label = 已连接
