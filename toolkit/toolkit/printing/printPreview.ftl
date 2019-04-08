@@ -2,6 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+printpreview-simplify-page-checkbox =
+    .label = Forenkla sida
+    .accesskey = F
+    .tooltiptext = Denne sida kan ikkje automatisk forenklast
+printpreview-simplify-page-checkbox-enabled =
+    .label = { printpreview-simplify-page-checkbox.label }
+    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
+    .tooltiptext = Endra utsjånad for lettare lesing
 printpreview-portrait =
     .label = Ståande
     .accesskey = S
@@ -10,10 +18,16 @@ printpreview-scale =
     .accesskey = k
 printpreview-custom =
     .label = Eigendefinert …
+printpreview-print =
+    .label = Skriv ut…
+    .accesskey = u
 printpreview-of =
     .value = av
 printpreview-custom-prompt =
     .value = Eigendefinert skala …
+printpreview-page-setup =
+    .label = Utskriftsformat…
+    .accesskey = m
 printpreview-page =
     .value = Side:
     .accesskey = d
