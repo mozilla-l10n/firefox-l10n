@@ -681,6 +681,7 @@ content-blocking-setting-custom =
 content-blocking-standard-description = Blokuje jenož znate přesćěhowaki w priwatnych woknach.
 content-blocking-standard-desc = Wurunany za škit a wukon. Dowoluje někotre přesćěhowaki, zo bychu websydła porjadnje fungowali.
 content-blocking-strict-desc = Blokuje wšě přesćěhowaki, kotrež { -brand-short-name } namaka. Tohodla njemóhli někotre websydła korektnje fungować.
+content-blocking-strict-description = Sylniši škit, móže zawinować, zo někotre sydła hižo njefunguja.
 content-blocking-custom-desc = Wubjerće, štož chceće blokować.
 content-blocking-private-trackers = Znate přeścěhowaki jenož w priwatnych woknach
 content-blocking-third-party-cookies = Slědowace placki třećich
