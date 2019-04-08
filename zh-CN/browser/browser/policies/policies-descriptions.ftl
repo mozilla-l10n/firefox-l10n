@@ -64,6 +64,7 @@ policy-OverrideFirstRunPage = 覆盖首次运行页面。如果您想禁用首�
 policy-OverridePostUpdatePage = 覆盖更新后的“新版变化”页面。如果您想禁用更新后页面，将此策略设为空白。
 policy-Permissions = 配置摄像头、麦克风、位置和通知的权限。
 policy-PopupBlocking = 默认允许特定网站显示弹出式窗口。
+policy-Preferences = 设置并锁定若干首选项的值。
 policy-Proxy = 配置代理设置
 policy-RequestedLocales = 设置应用程序表明语言区域偏好的语言区域请求列表。
 policy-SanitizeOnShutdown = 关闭浏览器时清除所有浏览数据。
