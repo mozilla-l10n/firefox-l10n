@@ -2,6 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+printpreview-simplify-page-checkbox =
+    .label = ساده‌سازی صفحه
+    .accesskey = س
+    .tooltiptext = این صفحه نمی‌تواند به صورت خودکار ساده‌سازی شود
+printpreview-simplify-page-checkbox-enabled =
+    .label = { printpreview-simplify-page-checkbox.label }
+    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
+    .tooltiptext = تغییر چیدمان برای خواندن آسان‌تر
 printpreview-close =
     .label = بستن
     .accesskey = ب
