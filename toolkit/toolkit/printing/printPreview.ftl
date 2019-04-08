@@ -2,6 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+printpreview-simplify-page-checkbox =
+    .label = పేజీని సులభతరం చేయి
+    .accesskey = i
+    .tooltiptext = ఈ పేజీ స్వయంచాలకంగా సరళీకృత సాధ్యం కాదు
+printpreview-simplify-page-checkbox-enabled =
+    .label = { printpreview-simplify-page-checkbox.label }
+    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
+    .tooltiptext = సులభంగా పఠనం కోసం మూలాలను మార్చండి
 printpreview-close =
     .label = మూయి
     .accesskey = C
@@ -14,8 +22,15 @@ printpreview-landscape =
 printpreview-scale =
     .value = స్కేల్:
     .accesskey = S
+printpreview-shrink-to-fit =
+    .label = ఇముడునట్లు కుచింపచేయి
 printpreview-custom =
     .label = ఇష్టానుసారం...
+printpreview-custom-prompt =
+    .value = ఇష్టానుసారమైన స్కేలు...
+printpreview-page-setup =
+    .label = పేజీ అమరిక...
+    .accesskey = u
 printpreview-page =
     .value = పేజీ:
     .accesskey = a
@@ -24,6 +39,12 @@ printpreview-page =
 ## $percent (integer) - menuitem percent label
 ## $arrow (String) - UTF-8 arrow character for navigation buttons
 
+printpreview-homearrow =
+    .label = { $arrow }
+    .tooltiptext = మొదటి పేజీ
+printpreview-previousarrow =
+    .label = { $arrow }
+    .tooltiptext = మునుపటి పేజీ
 printpreview-nextarrow =
     .label = { $arrow }
     .tooltiptext = తరువాతి పేజీ
