@@ -27,5 +27,5 @@ panic-button-day =
 
 panic-button-action-desc = آگے چلنے سے:
 panic-button-delete-cookies = حالیہ <strong>کوکیاں</strong> حذف کریں
-panic-button-delete-history = حالیہ <strong>تاریخ</strong> حذف کریں{ " " }
+panic-button-delete-history = حالیہ <strong>تاریخ</strong> حذف کریں
 panic-button-delete-tabs-and-windows = تمام <strong>ٹیب</strong> اور <strong>دریچے</strong> بند کر دیں
