@@ -25,7 +25,7 @@ panic-button-day =
 ## Note also that some strings include <strong> tags for emphasis on the
 ## words "Cookies", "History", "Tabs" and "Windows". The translation should do the same.
 
-panic-button-action-desc = המשך יוביל{ " " }
+panic-button-action-desc = המשך יוביל
 panic-button-delete-cookies = למחיקת <strong>עוגיות</strong> אחרונות
 panic-button-delete-history = למחיקת <strong>היסטוריה</strong> אחרונה
 panic-button-delete-tabs-and-windows = לסגירת כל <strong>הלשוניות</strong> ו<strong>החלונות</strong>
