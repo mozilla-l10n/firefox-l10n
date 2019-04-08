@@ -10,6 +10,12 @@
 printpreview-homearrow =
     .label = { $arrow }
     .tooltiptext = პირველი გვერდი
+printpreview-previousarrow =
+    .label = { $arrow }
+    .tooltiptext = წინა გვერდი
+printpreview-nextarrow =
+    .label = { $arrow }
+    .tooltiptext = შემდეგი გვერდი
 printpreview-endarrow =
     .label = { $arrow }
     .tooltiptext = ბოლო გვერდი
