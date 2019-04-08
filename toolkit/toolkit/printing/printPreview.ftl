@@ -2,6 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+printpreview-simplify-page-checkbox =
+    .label = Supaprastinti tinklalapį
+    .accesskey = u
+    .tooltiptext = Šio tinklalapio automatiškai supaprastinti negalima
+printpreview-simplify-page-checkbox-enabled =
+    .label = { printpreview-simplify-page-checkbox.label }
+    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
+    .tooltiptext = Pakeisti išdėstymą patogesniam skaitymui
 printpreview-close =
     .label = Užverti
     .accesskey = U
@@ -36,3 +44,15 @@ printpreview-page =
 ## $percent (integer) - menuitem percent label
 ## $arrow (String) - UTF-8 arrow character for navigation buttons
 
+printpreview-homearrow =
+    .label = { $arrow }
+    .tooltiptext = Pirmas puslapis
+printpreview-previousarrow =
+    .label = { $arrow }
+    .tooltiptext = Ankstesnis puslapis
+printpreview-nextarrow =
+    .label = { $arrow }
+    .tooltiptext = Kitas puslapis
+printpreview-endarrow =
+    .label = { $arrow }
+    .tooltiptext = Paskutinis puslapis
