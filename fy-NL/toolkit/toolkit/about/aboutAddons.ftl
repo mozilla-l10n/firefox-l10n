@@ -82,6 +82,9 @@ detail-version =
 detail-last-updated =
     .label = Lêst bywurke
 detail-contributions-description = De ûnwikkeler fan dizze add-on freget om stipe foar de trochgeande ûntwikkeling troch it meitsjen fan in lytse bydrage.
+detail-contributions-button = Bydrage
+    .title = Bydrage oan de ûntwikkeling fan dizze add-on
+    .accesskey = B
 detail-update-type =
     .value = Automatyske fernijingen
 detail-update-default =
@@ -253,6 +256,10 @@ shortcuts-modifier-other = Druk ek op Ctrl of Alt
 shortcuts-invalid = Unjildige kombinaasje
 shortcuts-letter = Typ in letter
 shortcuts-system = Kin gjin besteande { -brand-short-name }-fluchtoets brûke
+# String displayed when a keyboard shortcut is already used by another add-on
+# Variables:
+#   $addon (string) - Name of the add-on
+shortcuts-exists = Al yn gebrûk troch { $addon }
 shortcuts-card-expand-button =
     { $numberToShow ->
        *[other] Noch { $numberToShow } toane
@@ -269,3 +276,20 @@ enable-addon-button = Ynskeakelje
 expand-addon-button = Mear opsjes
 addons-enabled-heading = Ynskeakele
 addons-disabled-heading = Utskeakele
+addon-detail-author-label = Skriuwer
+addon-detail-version-label = Ferzje
+addon-detail-last-updated-label = Lêst bywurke
+addon-detail-homepage-label = Startside
+addon-detail-rating-label = Wurdearring
+# This string is used to show that an add-on is disabled.
+# Variables:
+#   $name (string) - The name of the add-on
+addon-name-disabled = { $name } (útskeakele)
+# The number of reviews that an add-on has received on AMO.
+# Variables:
+#   $numberOfReviews (number) - The number of reviews received
+addon-detail-reviews-link =
+    { $numberOfReviews ->
+        [one] { $numberOfReviews } beoardieling
+       *[other] { $numberOfReviews } beoardielingen
+    }
