@@ -679,6 +679,7 @@ content-blocking-custom-desc = Elige que blocar.
 content-blocking-private-trackers = Traciatores note solo in fenestras private
 content-blocking-third-party-cookies = Cookies traciator de tertie partes
 content-blocking-all-cookies = Tote le cookies
+content-blocking-unvisited-cookies = Cookie ab sitos web non visitate
 content-blocking-all-windows-trackers = Traciatores note in tote le fenestras
 content-blocking-all-third-party-cookies = Tote le cookies de tertie partes
 content-blocking-cryptominers = Crypto-minatores
