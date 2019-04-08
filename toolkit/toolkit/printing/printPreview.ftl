@@ -2,9 +2,20 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+printpreview-simplify-page-checkbox =
+    .label = Oldal egyszerűsítése
+    .accesskey = e
+    .tooltiptext = Ez az oldal nem egyszerűsíthető automatikusan
+printpreview-simplify-page-checkbox-enabled =
+    .label = { printpreview-simplify-page-checkbox.label }
+    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
+    .tooltiptext = Elrendezés módosítása az egyszerűbb olvasáshoz
 printpreview-close =
     .label = Bezárás
     .accesskey = B
+printpreview-portrait =
+    .label = Álló
+    .accesskey = l
 printpreview-landscape =
     .label = Fekvő
     .accesskey = F
