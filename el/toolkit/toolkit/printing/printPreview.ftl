@@ -10,6 +10,12 @@
 printpreview-homearrow =
     .label = { $arrow }
     .tooltiptext = Πρώτη σελίδα
+printpreview-previousarrow =
+    .label = { $arrow }
+    .tooltiptext = Προηγούμενη σελίδα
+printpreview-nextarrow =
+    .label = { $arrow }
+    .tooltiptext = Επόμενη σελίδα
 printpreview-endarrow =
     .label = { $arrow }
     .tooltiptext = Τελευταία σελίδα
