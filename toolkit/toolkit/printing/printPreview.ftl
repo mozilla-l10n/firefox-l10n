@@ -2,6 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+printpreview-simplify-page-checkbox =
+    .label = Бетті ыңғайлату
+    .accesskey = ы
+    .tooltiptext = Бұл бетті автоматты түрде ыңғайлату мүмкін емес
+printpreview-simplify-page-checkbox-enabled =
+    .label = { printpreview-simplify-page-checkbox.label }
+    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
+    .tooltiptext = Жайманы оқуды оңайлату мақсатында өзгерту
 printpreview-close =
     .label = Жабу
     .accesskey = Ж
@@ -16,8 +24,18 @@ printpreview-scale =
     .accesskey = М
 printpreview-shrink-to-fit =
     .label = Парақ енімен тең қылу
+printpreview-custom =
+    .label = Баптау…
+printpreview-print =
+    .label = Баспаға шығару…
+    .accesskey = с
 printpreview-of =
     .value = барлығы
+printpreview-custom-prompt =
+    .value = Масштабты баптау…
+printpreview-page-setup =
+    .label = Парақ баптаулары…
+    .accesskey = П
 printpreview-page =
     .value = Парақ:
     .accesskey = р
