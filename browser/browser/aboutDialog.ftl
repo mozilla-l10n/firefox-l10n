@@ -17,7 +17,7 @@ update-applying = Instalowanie aktualizacji…
 update-failed = Aktualizacja się nie powiodła. <label data-l10n-name="failed-link">Pobierz najnowszą wersję</label>.
 update-failed-main = Aktualizacja się nie powiodła. <a data-l10n-name="failed-link-main">Pobierz najnowszą wersję</a>.
 update-adminDisabled = Aktualizacje zablokowane przez administratora.
-update-noUpdatesFound = Program { -brand-short-name } jest aktualny.
+update-noUpdatesFound = { -brand-short-name } jest aktualny.
 update-otherInstanceHandlingUpdates = Inna instancja właśnie aktualizuje program { -brand-short-name }.
 update-manual = Aktualizacje dostępne na <label data-l10n-name="manual-link"/>.
 update-unsupported = Dalsze aktualizacje na tym systemie nie są możliwe. <label data-l10n-name="unsupported-link">Więcej informacji</label>.
@@ -30,8 +30,6 @@ helpus = Chcesz pomóc? <label data-l10n-name="helpus-donateLink">Przekaż datek
 bottomLinks-license = Informacje licencyjne
 bottomLinks-rights = Prawa użytkownika
 bottomLinks-privacy = Zasady ochrony prywatności
-aboutDialog-architecture-sixtyFourBit = 64 bity
-aboutDialog-architecture-thirtyTwoBit = 32 bity
 # Example of resulting string: 66.0.1 (64-bit)
 # Variables:
 #   $version (String): version of Firefox, e.g. 66.0.1
