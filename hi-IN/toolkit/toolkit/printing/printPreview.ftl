@@ -10,6 +10,12 @@
 printpreview-homearrow =
     .label = { $arrow }
     .tooltiptext = पहला पन्ना
+printpreview-previousarrow =
+    .label = { $arrow }
+    .tooltiptext = पिछला पृष्ठ
+printpreview-nextarrow =
+    .label = { $arrow }
+    .tooltiptext = अगला पृष्ठ
 printpreview-endarrow =
     .label = { $arrow }
     .tooltiptext = अंतिम पन्ना
