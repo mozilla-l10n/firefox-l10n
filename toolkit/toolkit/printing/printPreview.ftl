@@ -22,6 +22,15 @@ printpreview-page =
 ## $percent (integer) - menuitem percent label
 ## $arrow (String) - UTF-8 arrow character for navigation buttons
 
+printpreview-homearrow =
+    .label = { $arrow }
+    .tooltiptext = Fyrste side
+printpreview-previousarrow =
+    .label = { $arrow }
+    .tooltiptext = Førre side
+printpreview-nextarrow =
+    .label = { $arrow }
+    .tooltiptext = Neste side
 printpreview-endarrow =
     .label = { $arrow }
     .tooltiptext = Siste side
