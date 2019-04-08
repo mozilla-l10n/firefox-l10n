@@ -36,3 +36,15 @@ printpreview-page =
 ## $percent (integer) - menuitem percent label
 ## $arrow (String) - UTF-8 arrow character for navigation buttons
 
+printpreview-homearrow =
+    .label = { $arrow }
+    .tooltiptext = Pierwsza strona
+printpreview-previousarrow =
+    .label = { $arrow }
+    .tooltiptext = Poprzednia strona
+printpreview-nextarrow =
+    .label = { $arrow }
+    .tooltiptext = Następna strona
+printpreview-endarrow =
+    .label = { $arrow }
+    .tooltiptext = Ostatnia strona
