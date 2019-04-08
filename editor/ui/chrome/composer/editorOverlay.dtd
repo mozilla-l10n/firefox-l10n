@@ -262,7 +262,7 @@
 <!ENTITY outdentToolbarCmd.tooltip "เยื้องข้อความออก (ย้ายไปทางซ้าย)">
 <!ENTITY indentToolbarCmd.tooltip "เยื้องข้อความเข้า (ย้ายไปทางขวา)">
 <!ENTITY AlignPopupButton.tooltip "เลือกการจัดข้อความชิดแนว">
-<!ENTITY InsertPopupButton.tooltip "แทรกลิงก์ จุดยึด ภาพ เส้นแนวนอน หรือตาราง">
+<!ENTITY InsertPopupButton.tooltip "แทรกลิงก์, จุดยึด, ภาพ, เส้นแนวนอน, หรือตาราง">
 <!ENTITY alignLeftButton.tooltip "จัดข้อความชิดขอบซ้าย">
 <!ENTITY alignCenterButton.tooltip "จัดข้อความอยู่กึ่งกลาง">
 <!ENTITY alignRightButton.tooltip "จัดข้อความชิดขอบขวา">
