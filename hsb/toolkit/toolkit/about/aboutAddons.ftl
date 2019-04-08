@@ -77,6 +77,9 @@ detail-version =
 detail-last-updated =
     .label = Posledni raz zaktualizowany
 detail-contributions-description = Wuwiwar tutoho přidatka prosy, zo byšće pomhał, jeho stajne wuwiće podpěrać, darujo mały přinošk.
+detail-contributions-button = Přinošować
+    .title = K wuwiwanju tutoho přidatka přinošować
+    .accesskey = P
 detail-update-type =
     .value = Awtomatiske aktualizacije
 detail-update-default =
@@ -270,3 +273,22 @@ enable-addon-button = Zmóžnić
 expand-addon-button = Dalše nastajenja
 addons-enabled-heading = Zmóžnjene
 addons-disabled-heading = Znjemóžnjene
+addon-detail-author-label = Awtor
+addon-detail-version-label = Wersija
+addon-detail-last-updated-label = Posledni raz zaktualizowany
+addon-detail-homepage-label = Startowa strona
+addon-detail-rating-label = Pohódnoćenje
+# This string is used to show that an add-on is disabled.
+# Variables:
+#   $name (string) - The name of the add-on
+addon-name-disabled = { $name } (znjemóžnjeny)
+# The number of reviews that an add-on has received on AMO.
+# Variables:
+#   $numberOfReviews (number) - The number of reviews received
+addon-detail-reviews-link =
+    { $numberOfReviews ->
+        [one] { $numberOfReviews } pohódnoćenje
+        [two] { $numberOfReviews } pohódnoćeni
+        [few] { $numberOfReviews } pohódnoćenja
+       *[other] { $numberOfReviews } pohódnoćenjow
+    }
