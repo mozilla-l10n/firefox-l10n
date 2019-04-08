@@ -2,6 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+printpreview-simplify-page-checkbox =
+    .label = Simplifier la page
+    .accesskey = i
+    .tooltiptext = Cette page ne peut pas être automatiquement simplifiée
+printpreview-simplify-page-checkbox-enabled =
+    .label = { printpreview-simplify-page-checkbox.label }
+    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
+    .tooltiptext = Modifier la mise en page pour faciliter la lecture
 printpreview-close =
     .label = Fermer
     .accesskey = F
@@ -39,6 +47,9 @@ printpreview-page =
 printpreview-homearrow =
     .label = { $arrow }
     .tooltiptext = Première page
+printpreview-nextarrow =
+    .label = { $arrow }
+    .tooltiptext = Page suivante
 printpreview-endarrow =
     .label = { $arrow }
     .tooltiptext = Dernière page
