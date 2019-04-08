@@ -2,6 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+printpreview-simplify-page-checkbox =
+    .label = Simpligh an Leathanach
+    .accesskey = i
+    .tooltiptext = Ní féidir an leathanach seo a shimpliú go huathoibríoch
+printpreview-simplify-page-checkbox-enabled =
+    .label = { printpreview-simplify-page-checkbox.label }
+    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
+    .tooltiptext = Athraigh an leagan amach le léamh an leathanaigh a éascú
 printpreview-close =
     .label = Dún
     .accesskey = D
