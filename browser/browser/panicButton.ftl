@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+panic-button-undo-warning = 此操作无法撤销。
 
 ## These strings are combined to form a complete sentence starting with
 ## panic-main-timeframe-desc. For example: "Forget the last: Five minutes".
@@ -21,3 +22,6 @@ panic-button-day =
 ## words "Cookies", "History", "Tabs" and "Windows". The translation should do the same.
 
 panic-button-action-desc = 这将：
+panic-button-delete-cookies = 删除近期的 <strong>Cookie</strong>
+panic-button-delete-history = 删除近期的<strong>历史记录</strong>
+panic-button-delete-tabs-and-windows = 关闭所有的<strong>标签页</strong>和<strong>窗口</strong>
