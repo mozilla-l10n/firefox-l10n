@@ -2,6 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+printpreview-simplify-page-checkbox-enabled =
+    .label = { printpreview-simplify-page-checkbox.label }
+    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
+    .tooltiptext = Wizigje layout om makliker te lêzen
 printpreview-close =
     .label = Slute
     .accesskey = S
@@ -16,8 +20,18 @@ printpreview-scale =
     .accesskey = k
 printpreview-shrink-to-fit =
     .label = Ferlytsje oant papierformaat
+printpreview-custom =
+    .label = Oanpast…
+printpreview-print =
+    .label = Ofdrukke…
+    .accesskey = O
 printpreview-of =
     .value = fan
+printpreview-custom-prompt =
+    .value = Oanpaste skaal…
+printpreview-page-setup =
+    .label = Side-ynstellingen…
+    .accesskey = y
 printpreview-page =
     .value = Side:
     .accesskey = d
