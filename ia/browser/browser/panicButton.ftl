@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+panic-button-open-new-window = Un nove fenestra vacue essera aperite
 panic-button-undo-warning = Iste action es irreversibile.
 panic-button-forget-button =
     .label = Oblidar!
@@ -24,3 +25,7 @@ panic-button-day =
 ## Note also that some strings include <strong> tags for emphasis on the
 ## words "Cookies", "History", "Tabs" and "Windows". The translation should do the same.
 
+panic-button-action-desc = Si tu continua:
+panic-button-delete-cookies = Le <strong>cookies</strong> recente essera delite
+panic-button-delete-history = Le <strong>chronologia</strong> recente essera delite
+panic-button-delete-tabs-and-windows = Tote le <strong>schedas</strong> e <strong>fenestras</strong> essera claudite
