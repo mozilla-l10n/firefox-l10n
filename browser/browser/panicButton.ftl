@@ -4,6 +4,8 @@
 
 panic-button-open-new-window = otvoríte nové prázdne okno
 panic-button-undo-warning = Akciu nie je možné vrátiť späť.
+panic-button-forget-button =
+    .label = Zabudnúť!
 
 ## These strings are combined to form a complete sentence starting with
 ## panic-main-timeframe-desc. For example: "Forget the last: Five minutes".
