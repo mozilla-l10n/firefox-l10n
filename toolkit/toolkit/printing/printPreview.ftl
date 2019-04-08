@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 printpreview-close =
-    .label = बन्न  करू{ " " }
+    .label = बन्न  करू
     .accesskey = C
 printpreview-portrait =
     .label = व्यक्तिचित्र
