@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+panic-button-open-new-window = కొత్త ఖాళీ విండోను తెరువు
 panic-button-undo-warning = ఈ చర్యను రద్దు చేయడం సాధ్యం కాదు.
 panic-button-forget-button =
     .label = మర్చిపో!
@@ -25,3 +26,6 @@ panic-button-day =
 ## words "Cookies", "History", "Tabs" and "Windows". The translation should do the same.
 
 panic-button-action-desc = కొనసాగితే జరిగేవి:
+panic-button-delete-cookies = ఇటీవలి <strong>కుకీలు</strong> తొలగించు
+panic-button-delete-history = ఇటీవలి <strong>చరిత్ర</strong>ను తొలగించు
+panic-button-delete-tabs-and-windows = అన్ని <strong>ట్యాబులనూ</strong> <strong>విండోలనూ</strong> మూసివేయి
