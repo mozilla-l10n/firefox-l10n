@@ -223,12 +223,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
      for the Firefox Account toolbar unverified menu screen. -->
+<!ENTITY fxa.unverified.callout.label "Ελέγξτε το email σας">
+<!ENTITY fxa.unverified.button.label "Άνοιγμα ρυθμίσεων &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbart menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.manageAccount.label "Διαχείριση λογαριασμού…">
 <!ENTITY fxa.menu.syncSettings.label "Ρυθμίσεις &syncBrand.shortName.label;…">
+<!ENTITY fxa.menu.connectAnotherDevice.label "&syncedTabs.sidebar.connectAnotherDevice;">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Σύνδεση άλλης συσκευής…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
@@ -433,6 +436,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.label       "Προτιμήσεις">
 <!ENTITY preferencesCmdUnix.accesskey     "μ">
 
+<!ENTITY logins.label                           "Συνδέσεις και κωδικοί πρόσβασης">
 
 <!ENTITY clearRecentHistory.label               "Εκκαθάριση πρόσφατου ιστορικού…">
 
@@ -905,6 +909,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "Δεν έχετε χορηγήσει ειδικές άδειες στη σελίδα.">
 <!ENTITY identity.permissionsReloadHint "Ίσως χρειαστεί να φορτώσετε εκ νέου τη σελίδα για εφαρμογή των αλλαγών.">
 <!ENTITY identity.permissionsPreferences.tooltip "Άνοιγμα προτιμήσεων δικαιωμάτων">
+<!ENTITY identity.contentBlockingPreferences.tooltip "Άνοιγμα προτιμήσεων φραγής περιεχομένου">
 
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -1154,7 +1159,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Διαχειριστείτε τα πρόσθετά σας κάνοντας κλικ στο <image class='addon-addon-icon'/>, στο μενού <image class='addon-toolbar-icon'/>.">
+<!ENTITY addonPostInstall.incognito.checkbox.label "Να επιτρέπεται η εκτέλεση αυτής της επέκτασης σε ιδιωτικά παράθυρα">
+<!ENTITY addonPostInstall.incognito.checkbox.accesskey "Ν">
 
+<!ENTITY addonPrivateBrowsing.header2.label "Αλλαγή σε επεκτάσεις ιδιωτικών παραθύρων">
 <!ENTITY addonPrivateBrowsing.okButton.label "Εντάξει, το 'πιασα">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "Ε">
 <!ENTITY addonPrivateBrowsing.manageButton.label "Διαχείριση επεκτάσεων">
