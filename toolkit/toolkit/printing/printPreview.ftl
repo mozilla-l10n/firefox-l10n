@@ -2,6 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+printpreview-simplify-page-checkbox =
+    .label = Պարզեցնել էջը
+    .accesskey = ա
+    .tooltiptext = Այս էջը չի կարող ինքնաբար պարզեցվել
+printpreview-simplify-page-checkbox-enabled =
+    .label = { printpreview-simplify-page-checkbox.label }
+    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
+    .tooltiptext = Փոխել դասավորությունը՝ դյուրին ընթերցման համար
 printpreview-close =
     .label = Փակել
     .accesskey = Փ
