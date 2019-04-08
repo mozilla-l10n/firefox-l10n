@@ -15,7 +15,7 @@ panic-main-timeframe-desc = ਭੁੱਲ ਜਾਓ ਆਖਰੀ:
 panic-button-5min =
     .label = ਪੰਜ ਮਿੰਟ
 panic-button-2hr =
-    .label = ਦੋ{ " " }
+    .label = ਦੋ
 panic-button-day =
     .label = 24 ਘੰਟੇ
 
