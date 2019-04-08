@@ -2,6 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+printpreview-simplify-page-checkbox-enabled =
+    .label = { printpreview-simplify-page-checkbox.label }
+    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
+    .tooltiptext = Змяніць макет для зручнасці чытання
 printpreview-portrait =
     .label = Кніжная
     .accesskey = К
@@ -18,6 +22,8 @@ printpreview-custom =
 printpreview-print =
     .label = Друкаваць…
     .accesskey = Д
+printpreview-of =
+    .value = з
 printpreview-custom-prompt =
     .value = Выбарачнае павялічэнне…
 printpreview-page-setup =
