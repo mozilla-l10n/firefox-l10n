@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+panic-button-open-new-window = ရှင်းလင်းသည့် ဝင်းဒိုးအသစ်တစ်ခုကို ဖွင့်ပါ
 panic-button-undo-warning = ဒီလုပ်ဆောင်ချက်ကို ပြန်ဖြေလို့ မရနိုင်ဘူး။
 panic-button-forget-button =
     .label = မေ့ဖျောက်ပါ။
@@ -27,3 +28,4 @@ panic-button-day =
 panic-button-action-desc = ဆက်လက် ဆောင်ရွက်ပါမည်။
 panic-button-delete-cookies = မကြာသေးမီ အသုံးပြုထားသည့် <strong>ကွက်ကီးများ</strong>ကို ဖျက်ရန်
 panic-button-delete-history = မကြာသေးမီက <strong>မှတ်တမ်း</strong>ကို ဖျက်ရန်
+panic-button-delete-tabs-and-windows = <strong>တပ်ဗ်များ</strong> နှင့် <strong>ဝင်းဒိုးများ</strong>အားလုံးကို ပိတ်ပါ
