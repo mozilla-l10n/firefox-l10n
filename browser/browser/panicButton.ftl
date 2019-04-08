@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 panic-button-open-new-window = Avaa uuden puhtaan ikkunan
+panic-button-undo-warning = Tätä toimintoa ei voi perua.
 panic-button-forget-button =
     .label = Unohda!
 
