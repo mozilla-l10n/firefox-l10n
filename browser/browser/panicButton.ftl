@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 panic-button-open-new-window = Se deschide o nouă fereastră goală
+panic-button-undo-warning = Această acțiune este ireversibilă.
 panic-button-forget-button =
     .label = Uită!
 
