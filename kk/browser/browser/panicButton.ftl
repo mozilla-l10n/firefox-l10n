@@ -26,5 +26,6 @@ panic-button-day =
 ## words "Cookies", "History", "Tabs" and "Windows". The translation should do the same.
 
 panic-button-action-desc = Жалғастыру нәтижесінде:
+panic-button-delete-cookies = Соңғы <strong>Cookies файлдарын</strong> өшіру
 panic-button-delete-history = Соңғы <strong>тарихты</strong> өшіру
 panic-button-delete-tabs-and-windows = Барлық <strong>беттер</strong> және <strong>терезелерді</strong> жабу
