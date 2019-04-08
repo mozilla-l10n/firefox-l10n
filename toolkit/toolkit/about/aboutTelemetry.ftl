@@ -37,7 +37,7 @@ about-telemetry-captured-stacks-section = Stakke
 about-telemetry-late-writes-section = Sene skrivninger
 about-telemetry-raw-payload-section = Råt payload
 about-telemetry-raw = Rå JSON
-about-telemetry-full-sql-warning = Bemærk: Langsom SQL-debugging er aktiveret. Hele SQL-strenge vil måske være vist nedenfor, men de bliver ikke sendt til Telemetry.{ " " }
+about-telemetry-full-sql-warning = Bemærk: Langsom SQL-debugging er aktiveret. Hele SQL-strenge vil måske være vist nedenfor, men de bliver ikke sendt til Telemetry.
 about-telemetry-fetch-stack-symbols = Hent navne for funktioner for stakke
 about-telemetry-hide-stack-symbols = Vis rå data fra stakke
 # Selects the correct release version
