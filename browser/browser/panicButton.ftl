@@ -11,6 +11,7 @@ panic-button-forget-button =
 ## panic-main-timeframe-desc. For example: "Forget the last: Five minutes".
 ## Please ensure that this remains the case in the translation.
 
+panic-main-timeframe-desc = Escafar :
 panic-button-5min =
     .label = Las cinc darrièras minutas
 panic-button-2hr =
@@ -24,6 +25,7 @@ panic-button-day =
 ## Note also that some strings include <strong> tags for emphasis on the
 ## words "Cookies", "History", "Tabs" and "Windows". The translation should do the same.
 
+panic-button-action-desc = Se contunhatz, anatz :
 panic-button-delete-cookies = Suprimir los <strong>Cookies</strong> recents
 panic-button-delete-history = Suprimir l'<strong>Istoric</strong> recent
 panic-button-delete-tabs-and-windows = Tampar totes los <strong>onglets</strong> e totas las <strong>fenèstras</strong>
