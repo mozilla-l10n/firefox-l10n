@@ -5,12 +5,46 @@
 printpreview-close =
     .label = Særa
     .accesskey = S
+printpreview-portrait =
+    .label = Drito
+    .accesskey = o
+printpreview-landscape =
+    .label = Desteizo
+    .accesskey = D
+printpreview-scale =
+    .value = Scaa:
+    .accesskey = S
+printpreview-shrink-to-fit =
+    .label = Riduxi pe adatâ
 printpreview-custom =
     .label = Personalizza…
+printpreview-print =
+    .label = Stanpa…
+    .accesskey = p
 printpreview-of =
     .value = de
+printpreview-custom-prompt =
+    .value = Scaa personale…
+printpreview-page-setup =
+    .label = Inpòsta pagina…
+    .accesskey = I
+printpreview-page =
+    .value = Pagina:
+    .accesskey = P
 
 ## Variables
 ## $percent (integer) - menuitem percent label
 ## $arrow (String) - UTF-8 arrow character for navigation buttons
 
+printpreview-homearrow =
+    .label = { $arrow }
+    .tooltiptext = Primma pagina
+printpreview-previousarrow =
+    .label = { $arrow }
+    .tooltiptext = Pagina precedente
+printpreview-nextarrow =
+    .label = { $arrow }
+    .tooltiptext = Pròscima pagina
+printpreview-endarrow =
+    .label = { $arrow }
+    .tooltiptext = Urtima pagina
