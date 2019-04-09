@@ -77,6 +77,9 @@ detail-version =
 detail-last-updated =
     .label = Utoljára frissítve
 detail-contributions-description = A kiegészítő fejlesztője azt kéri, hogy egy csekély összeggel támogassa a további fejlesztést.
+detail-contributions-button = Közreműködés
+    .title = Közreműködés ezen kiegészítő fejlesztésében
+    .accesskey = K
 detail-update-type =
     .value = Automatikus frissítések
 detail-update-default =
@@ -269,3 +272,20 @@ enable-addon-button = Engedélyezés
 expand-addon-button = További beállítások
 addons-enabled-heading = Engedélyezve
 addons-disabled-heading = Tiltva
+addon-detail-author-label = Szerző
+addon-detail-version-label = Verzió
+addon-detail-last-updated-label = Utoljára frissítve
+addon-detail-homepage-label = Honlap
+addon-detail-rating-label = Értékelés
+# This string is used to show that an add-on is disabled.
+# Variables:
+#   $name (string) - The name of the add-on
+addon-name-disabled = { $name } (letiltva)
+# The number of reviews that an add-on has received on AMO.
+# Variables:
+#   $numberOfReviews (number) - The number of reviews received
+addon-detail-reviews-link =
+    { $numberOfReviews ->
+        [one] { $numberOfReviews } értékelés
+       *[other] { $numberOfReviews } értékelés
+    }
