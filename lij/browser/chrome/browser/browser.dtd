@@ -1096,7 +1096,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "Atre informaçioin un sce DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
-<!ENTITY updateAvailable.message "Agiorna &brandShorterName; pe avei o megio da velocitæ e da privacy.">
+<!ENTITY updateAvailable.message "Agiorna &brandShorterName; pe-o megio da velocitæ e da privacy.">
 <!ENTITY updateAvailable.whatsnew.label "Amia cöse gh'é de neuvo.">
 <!ENTITY updateAvailable.header.message "Gh'é 'n neuvo agiornamento de &brandShorterName;.">
 <!ENTITY updateAvailable.acceptButton.label "Scarega Agiornamento">
