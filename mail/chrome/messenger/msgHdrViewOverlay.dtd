@@ -95,6 +95,11 @@
 
 <!ENTITY openAttachment.tooltip "Ireki erantsitako fitxategia">
 
+<!ENTITY detachedAttachmentFolder.show.label        "Ireki dagoen karpeta">
+<!ENTITY detachedAttachmentFolder.show.accesskey    "k">
+<!ENTITY detachedAttachmentFolder.showMac.label     "Erakutsi Finder-en">
+<!ENTITY detachedAttachmentFolder.showMac.accesskey "F">
+
 <!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label       "Gorde">
 <!ENTITY saveAttachmentButton1.tooltip     "Gorde erantsitako fitxategia">
