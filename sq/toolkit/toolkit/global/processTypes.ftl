@@ -3,3 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 process-type-web = Lëndë Web
+# process used to run privileged pages,
+# such as about:home
+process-type-privileged = Lëndë e Privilegjuar
+process-type-extension = Zgjerim
+# process used to open file:// URLs
+process-type-file = Kartelë Vendore
+# process used to communicate with the GPU for
+# graphics acceleration
+process-type-gpu = GPU
