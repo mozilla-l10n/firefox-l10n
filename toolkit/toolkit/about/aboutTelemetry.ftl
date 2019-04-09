@@ -56,6 +56,16 @@ about-telemetry-upload-type =
         [enabled] ingeschakeld
        *[disabled] uitgeschakeld
     }
+# Example Output: 1 sample, average = 0, sum = 0
+# Variables:
+#   $sampleCount (Integer): amount of histogram samples
+#   $prettyAverage (Integer): average of histogram samples
+#   $sum (Integer): sum of histogram samples
+about-telemetry-histogram-stats = 
+    { $sampleCount ->
+        [one] { $sampleCount } monster, gemiddelde = { $prettyAverage }, som = { $sum }
+       *[other] { $sampleCount } monsters, gemiddelde = { $prettyAverage }, som = { $sum }
+    }
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference
 about-telemetry-page-subtitle = Deze pagina toont de gegevens over prestaties, hardware, gebruik en aanpassingen die door Telemetry zijn verzameld. Deze gegevens worden naar { $telemetryServerOwner } verzonden om { -brand-full-name } te helpen verbeteren.
