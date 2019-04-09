@@ -100,9 +100,66 @@ about-debugging-setup-usb-updating-button = Оновлення…
 about-debugging-setup-usb-status-enabled = Увімкнено
 about-debugging-setup-usb-status-disabled = Вимкнено
 about-debugging-setup-usb-status-updating = Оновлення…
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-dev-menu = Увімкніть меню розробника на вашому пристрої Android. <a>Дізнайтеся як</a>
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug = Увімкніть зневадження через USB в меню розробника Android. <a>Дізнайтеся як</a>
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug-firefox = Увімкніть зневадження через USB в Firefox на пристрої Android. <a>Дізнайтеся як</a>
+# USB section step by step guide
+about-debugging-setup-usb-step-plug-device = Під'єднайте пристрій Android до комп'ютера.
+# Network section of the Setup page
+about-debugging-setup-network =
+    .title = Мережеве розташування
+# Text of a button displayed after the network locations "Host" input.
+# Clicking on it will add the new network location to the list.
+about-debugging-network-locations-add-button = Додати
+# Text to display when there are no locations to show.
+about-debugging-network-locations-empty-text = Поки що не додано мережевих розташувань.
+# Text of the label for the text input that allows users to add new network locations in
+# the Connect page. A host is a hostname and a port separated by a colon, as suggested by
+# the input's placeholder "localhost:6080".
+about-debugging-network-locations-host-input-label = Вузол
+# Text of a button displayed next to existing network locations in the Connect page.
+# Clicking on it removes the network location from the list.
+about-debugging-network-locations-remove-button = Вилучити
+# Text used as error message if the format of the input value was invalid in the network locations form of the Setup page.
+# Variables:
+#   $host-value (string) - The input value submitted by the user in the network locations form
+about-debugging-network-location-form-invalid = Неправильний вузол “{ $host-value }”. Правильний формат “hostname:portnumber”.
+# Text used as error message if the input value was already registered in the network locations form of the Setup page.
+# Variables:
+#   $host-value (string) - The input value submitted by the user in the network locations form
+about-debugging-network-location-form-duplicate = Вузол “{ $host-value }” вже зареєстрований
 
 # Runtime Page strings
 
+# Below are the titles for the various categories of debug targets that can be found
+# on "runtime" pages of about:debugging.
+# Title of the temporary extensions category (only available for "This Firefox" runtime).
+about-debugging-runtime-temporary-extensions =
+    .name = Тимчасові розширення
+# Title of the extensions category.
+about-debugging-runtime-extensions =
+    .name = Розширення
+# Title of the tabs category.
+about-debugging-runtime-tabs =
+    .name = Вкладки
+# Title of the service workers category.
+about-debugging-runtime-service-workers =
+    .name = Service Workers
+# Title of the shared workers category.
+about-debugging-runtime-shared-workers =
+    .name = Shared Workers
+# Title of the other workers category.
+about-debugging-runtime-other-workers =
+    .name = Інші Workers
+# Title of the processes category.
+about-debugging-runtime-processes =
+    .name = Процеси
+# Label of the button opening the performance profiler panel in runtime pages for remote
+# runtimes.
+about-debugging-runtime-profile-button = Профіль Runtime
 
 # Debug Targets strings
 
