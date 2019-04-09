@@ -261,3 +261,4 @@ enable-addon-button = Уключыць
 expand-addon-button = Дадатковыя параметры
 addons-enabled-heading = Уключана
 addons-disabled-heading = Выключана
+addon-detail-author-label = Аўтар
