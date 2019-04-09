@@ -77,6 +77,9 @@ detail-version =
 detail-last-updated =
     .label = Cập nhật lần cuối
 detail-contributions-description = Nhà phát triển tiện ích này đề nghị bạn hỗ trợ một khoản tài chính nhỏ cho việc phát triển.
+detail-contributions-button = Đóng góp
+    .title = Đóng góp cho sự phát triển của tiện ích mở rộng này
+    .accesskey = C
 detail-update-type =
     .value = Cập nhật tự động
 detail-update-default =
@@ -267,4 +270,20 @@ disable-addon-button = Tắt
 enable-addon-button = Bật
 expand-addon-button = Tùy chọn khác
 addons-enabled-heading = Đã bật
-addons-disabled-heading = Đã tắt
+addons-disabled-heading = Đã vô hiệu hóa
+addon-detail-author-label = Tác giả
+addon-detail-version-label = Phiên bản
+addon-detail-last-updated-label = Cập nhật cuối
+addon-detail-homepage-label = Trang chủ
+addon-detail-rating-label = Xêp hạng
+# This string is used to show that an add-on is disabled.
+# Variables:
+#   $name (string) - The name of the add-on
+addon-name-disabled = { $name } (đã vô hiệu hóa)
+# The number of reviews that an add-on has received on AMO.
+# Variables:
+#   $numberOfReviews (number) - The number of reviews received
+addon-detail-reviews-link =
+    { $numberOfReviews ->
+       *[other] { $numberOfReviews } đánh giá
+    }
