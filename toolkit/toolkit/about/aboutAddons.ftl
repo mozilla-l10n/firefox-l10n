@@ -77,6 +77,9 @@ detail-version =
 detail-last-updated =
     .label = Slědny raz zaktualizěrowany
 detail-contributions-description = Wuwijaŕ toś togo dodanka pšosy, aby wy pomagał, jogo stawne wuwiśe pódpěraś, z tym až pósćiwaśo mały pśinosk.
+detail-contributions-button = Pśinosowaś
+    .title = K wuwijanjeju toś togo dodanka pśinosowaś
+    .accesskey = P
 detail-update-type =
     .value = Awtomatiske aktualizacije
 detail-update-default =
@@ -270,3 +273,22 @@ enable-addon-button = Zmóžniś
 expand-addon-button = Dalšne nastajenja
 addons-enabled-heading = Zmóžnjone
 addons-disabled-heading = Znjemóžnjone
+addon-detail-author-label = Awtor
+addon-detail-version-label = Wersija
+addon-detail-last-updated-label = Slědny raz zaktualizěrowany
+addon-detail-homepage-label = Startowy bok
+addon-detail-rating-label = Pógódnośenje
+# This string is used to show that an add-on is disabled.
+# Variables:
+#   $name (string) - The name of the add-on
+addon-name-disabled = { $name } (znjemóžnjony)
+# The number of reviews that an add-on has received on AMO.
+# Variables:
+#   $numberOfReviews (number) - The number of reviews received
+addon-detail-reviews-link =
+    { $numberOfReviews ->
+        [one] { $numberOfReviews } pógódnośenje
+        [two] { $numberOfReviews } pógódnośeni
+        [few] { $numberOfReviews } pógódnośenja
+       *[other] { $numberOfReviews } pógódnośenjow
+    }
