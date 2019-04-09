@@ -749,12 +749,18 @@ content-blocking-setting-custom =
 content-blocking-standard-description = Blokerer kun kendte sporings-tjenester i private vinduer
 content-blocking-standard-desc = Balanceret mellem beskyttelse og ydelse. Tillader nogle sporings-tjenester for at websteder kan fungere ordentligt.
 content-blocking-strict-desc = Blokerer alle sporings-tjenester, som { -brand-short-name } opdager. Kan forhindre nogle websteder i at fungere.
+content-blocking-strict-description = Bedre bedskyttelse, men kan forhindre nogle websteder i at fungere.
 content-blocking-custom-desc = Vælg selv, hvad der skal blokeres.
 
 content-blocking-private-trackers = Kendte sporings-tjenester kun i private vinduer
 content-blocking-third-party-cookies = Sporings-cookies fra tredjepart
+content-blocking-all-cookies = Alle cookies
+content-blocking-unvisited-cookies = Cookies fra ikke-besøgte websteder
 content-blocking-all-windows-trackers = Kendte sporings-tjenester i alle vinduer
 content-blocking-all-third-party-cookies = Alle tredjeparts-cookies
+
+content-blocking-cryptominers = Cryptominers
+content-blocking-fingerprinters = Fingerprinters
 
 content-blocking-warning-title = Vigtigt!
 content-blocking-warning-desc = Nogen websteder kan holde op med at fungere, når du blokerer cookies og sporings-tjenester. Det er nemt at slå blokering fra for websteder, du stoler på.

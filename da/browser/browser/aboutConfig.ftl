@@ -10,6 +10,8 @@ about-config-warning-button = Jeg ved, hvad jeg laver
 
 about-config-title = about:config
 
+about-config2-title = Avancerede indstillinger
+
 about-config-search-input =
     .placeholder = Søg
 about-config-show-all = Vis alle

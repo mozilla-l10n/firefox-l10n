@@ -116,6 +116,8 @@ policy-Permissions = Indstil tilladelser for kamera, mikrofon, position og beske
 
 policy-PopupBlocking = Tillad bestemte websteder at vise pop op-vinduer som standard.
 
+policy-Preferences = Indstil og lås værdien for en undergruppe af indstillingerne.
+
 policy-Proxy = Opsæt proxy-indstillinger.
 
 policy-RequestedLocales = Vælg rækkefølgen af sprog, der skal anvendes i programmet.
