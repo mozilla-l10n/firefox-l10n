@@ -75,6 +75,31 @@ about-debugging-refresh-usb-devices-button = Оновити список при�
 
 # Title of the Setup page.
 about-debugging-setup-title = Налаштування
+# Introduction text in the Setup page to explain how to configure remote debugging.
+about-debugging-setup-intro = Налаштуйте метод з'єднання, за допомогою якого ви бажаєте виконати віддалене зневадження свого пристрою.
+# Link displayed in the Setup page that leads to MDN page with list of supported devices.
+# Temporarily leads to https://support.mozilla.org/en-US/kb/will-firefox-work-my-mobile-device#w_android-devices
+about-debugging-setup-link-android-devices = Переглянути список підтримуваних пристроїв Android
+# Explanatory text in the Setup page about what the 'This Firefox' page is for
+about-debugging-setup-this-firefox = Використовуйте <a>{ about-debugging-this-firefox-runtime-name }</a> для зневадження вкладок, розширень та service workers в цій версії { -brand-shorter-name }.
+# Title of the heading Connect section of the Setup page.
+about-debugging-setup-connect-heading = Під'єднати пристрій
+# USB section of the Setup page
+about-debugging-setup-usb-title = USB
+# Explanatory text displayed in the Setup page when USB debugging is disabled
+about-debugging-setup-usb-disabled = Увімкнення цієї функції завантажить і додасть необхідні компоненти зневадження Android USB до { -brand-shorter-name }.
+# Text of the button displayed in the USB section of the setup page when USB debugging is disabled.
+# Clicking on it will download components needed to debug USB Devices remotely.
+about-debugging-setup-usb-enable-button = Увімкнути пристрої USB
+# Text of the button displayed in the USB section of the setup page when USB debugging is enabled.
+about-debugging-setup-usb-disable-button = Вимкнути пристрої USB
+# Text of the button displayed in the USB section of the setup page while USB debugging
+# components are downloaded and installed.
+about-debugging-setup-usb-updating-button = Оновлення…
+# USB section of the Setup page (USB status)
+about-debugging-setup-usb-status-enabled = Увімкнено
+about-debugging-setup-usb-status-disabled = Вимкнено
+about-debugging-setup-usb-status-updating = Оновлення…
 
 # Runtime Page strings
 
