@@ -4,9 +4,10 @@
 
 page-title = Teknisk information
 page-subtitle =
-    Denne side indeholder teknisk information som måske kan være brugbar når du forsøger
-    at løse et problem. Hvis du leder efter svar på ofte spurgte spørgsmål vedrørende
-    { -brand-short-name }, kan du besøge vores <a data-l10n-name="support-link">supportwebsted</a>.
+    Denne side indeholder teknisk information som måske kan være brugbar når du forsøger 
+    at løse et problem. Hvis du leder efter svar på ofte spurgte spørgsmål om { -brand-short-name }, 
+    kan du besøge vores <a data-l10n-name="support-link">supportwebsted</a>
+
 crashes-title = Fejlrapporter
 crashes-id = Rapport-ID
 crashes-send-date = Sendt
@@ -27,6 +28,9 @@ features-title = { -brand-short-name }-funktioner
 features-name = Navn
 features-version = Version
 features-id = ID
+processes-title = Fjern-processer
+processes-type = Type
+processes-count = Antal
 app-basics-title = Programinfo
 app-basics-name = Navn
 app-basics-version = Version
@@ -50,6 +54,7 @@ app-basics-profiles = Profiler
 app-basics-launcher-process-status = Launcher Process
 app-basics-multi-process-support = Multiproces-vinduer
 app-basics-process-count = Webindholds-processer
+app-basics-remote-processes-count = Fjern-processer
 app-basics-enterprise-policies = Virksomheds-politikker
 app-basics-location-service-key-google = Google Location Service-nøgle
 app-basics-safebrowsing-key-google = Google Safebrowsing-nøgle
