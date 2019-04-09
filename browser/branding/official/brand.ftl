@@ -15,6 +15,9 @@
 
 -brand-short-name = Firefox
 -vendor-short-name = Mozilla
+# This brand name can be used in messages where the product name needs to
+# remain unchanged across different versions (Nightly, Beta, etc.).
+-brand-product-name = Firefox
 -brand-full-name = Mozilla Firefox
 -brand-shorter-name = Firefox
 trademarkInfo = Firefox og de forskellige Firefox-logoer er varemærker tilhørende Mozilla Foundation.
