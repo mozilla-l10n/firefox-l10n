@@ -29,6 +29,8 @@ general-mode =
     .value = Modo de renderizado:
 general-size =
     .value = Kua
+general-modified =
+    .value = Sama
 general-meta-name =
     .label = Sivìi
 general-meta-content =
@@ -46,6 +48,8 @@ media-size =
     .label = Kua
 media-count =
     .label = Kuenta
+media-dimension =
+    .value = Kuaa:
 media-save-as =
     .label = Chika vaá Tana...
     .accesskey = c
@@ -63,6 +67,7 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-cookies-only = Vaá,  cookies
 security-site-data-no = No
 image-size-unknown = Desconocido
 not-set-verified-by = No especificado

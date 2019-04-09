@@ -36,6 +36,10 @@ permissions-capabilities-block =
     .label = Kasi
 permissions-capabilities-prompt =
     .label = Sa'ansa ndakatu'un
+permissions-capabilities-listitem-allow =
+    .value = A vaa
+permissions-capabilities-listitem-block =
+    .value = Kasi
 
 ## Invalid Hostname Dialog
 

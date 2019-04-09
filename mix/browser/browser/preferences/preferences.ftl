@@ -280,6 +280,9 @@ addressbar-locbar-openpage-option =
 
 ## Privacy Section - Content Blocking
 
+content-blocking-setting-custom =
+    .label = Nixi kunu
+    .accesskey = N
 
 ## Privacy Section - Tracking
 
