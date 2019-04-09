@@ -10,3 +10,4 @@
 title = Nuguan' ña'an doj
 heading = Naduna daj ga { -brand-short-name }
 changed-title = ¿Nujhuin si nadunat naj?
+resources = Nej sa rajsun'
