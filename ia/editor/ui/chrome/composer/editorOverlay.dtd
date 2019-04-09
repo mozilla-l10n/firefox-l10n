@@ -34,9 +34,17 @@
 <!ENTITY fontTimes.accesskey "T">
 
 <!-- Font Size SubMenu -->
- <!-- < is above this key on many keyboards -->
- <!-- > is above this key on many keyboards -->
+<!ENTITY decreaseFontSize.label "Plus micre">
+<!ENTITY decreaseFontSize.accesskey "m">
+<!ENTITY decrementFontSize.key "&lt;">
+<!ENTITY decrementFontSize.key2 ","> <!-- < is above this key on many keyboards -->
+<!ENTITY increaseFontSize.label "Plus grande">
+<!ENTITY increaseFontSize.accesskey "g">
+<!ENTITY incrementFontSize.key "&gt;">
+<!ENTITY incrementFontSize.key2 "."> <!-- > is above this key on many keyboards -->
 
+<!ENTITY fontSizeMenu.label "Dimension">
+<!ENTITY fontSizeMenu.accesskey "s">
 <!ENTITY size-largeCmd.label "Grande">
 <!ENTITY size-largeCmd.accesskey "G">
 
@@ -97,8 +105,15 @@
 <!ENTITY advancedPropertiesCmd.accesskey "v">
 
 <!-- Align menu items -->
+<!ENTITY alignLeft.label "Sinistra">
+<!ENTITY alignLeft.accesskey "S">
+<!ENTITY alignLeft.tooltip "Alinear a sinistra">
+<!ENTITY alignCenter.label "Centro">
+<!ENTITY alignCenter.accesskey "C">
+<!ENTITY alignCenter.tooltip "Alinear al centro">
 <!ENTITY alignRight.label "Dextera">
 <!ENTITY alignRight.accesskey "D">
+<!ENTITY alignRight.tooltip "Alinear a dextra">
 
 <!-- Layer toolbar items -->
 
@@ -136,6 +151,8 @@
 -->
 
 <!-- Toolbar-only items -->
+<!ENTITY menuBar.tooltip "Barra de menu">
+<!ENTITY cutToolbarCmd.tooltip "Taliar">
 <!ENTITY copyToolbarCmd.tooltip "Copiar">
 <!ENTITY pasteToolbarCmd.tooltip "Collar">
 <!ENTITY printToolbarCmd.label "Imprimer">
