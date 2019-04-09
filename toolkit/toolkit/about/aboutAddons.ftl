@@ -269,3 +269,11 @@ enable-addon-button = Etkinleştir
 expand-addon-button = Diğer seçenekler
 addons-enabled-heading = Etkin
 addons-disabled-heading = Devre dışı
+addon-detail-version-label = Sürüm
+addon-detail-last-updated-label = Son güncelleme
+addon-detail-homepage-label = Web sitesi
+addon-detail-rating-label = Puan
+# This string is used to show that an add-on is disabled.
+# Variables:
+#   $name (string) - The name of the add-on
+addon-name-disabled = { $name } (devre dışı)
