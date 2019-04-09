@@ -95,6 +95,11 @@
 
 <!ENTITY openAttachment.tooltip "Hapni kartelën e bashkëngjitur">
 
+<!ENTITY detachedAttachmentFolder.show.label        "Hap Dosjen Përkatëse">
+<!ENTITY detachedAttachmentFolder.show.accesskey    "H">
+<!ENTITY detachedAttachmentFolder.showMac.label     "Shfaqe Në Finder">
+<!ENTITY detachedAttachmentFolder.showMac.accesskey "F">
+
 <!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label       "Ruaje">
 <!ENTITY saveAttachmentButton1.tooltip     "Ruajeni kartelën e bashkëngjitur">
