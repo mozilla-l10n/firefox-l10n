@@ -51,7 +51,7 @@ profiles-delete-profile-failed-title = Erreur
 profiles-delete-profile-failed-message = Une erreur s’est produite lors de la tentative de suppression de ce profil.
 profiles-opendir =
     { PLATFORM() ->
-        [macos] Ouvrir dans le Finder
+        [macos] Afficher dans le Finder
         [windows] Ouvrir le dossier
        *[other] Ouvrir le répertoire
     }
