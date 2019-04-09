@@ -38,6 +38,8 @@ site-usage-persistent = { site-usage-pattern } (Kalıcı)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 site-storage-usage =
     .value = { $value } { $unit }
+site-storage-persistent =
+    .value = { site-storage-usage.value } (Kalıcı)
 site-data-remove-all =
     .label = Hepsini sil
     .accesskey = e

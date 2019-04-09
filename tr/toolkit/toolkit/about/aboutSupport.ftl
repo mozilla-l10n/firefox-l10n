@@ -24,6 +24,7 @@ features-title = { -brand-short-name } özellikleri
 features-name = Adı
 features-version = Sürüm
 features-id = Kimlik
+processes-type = Tür
 app-basics-title = Uygulama temelleri
 app-basics-name = Adı
 app-basics-version = Sürüm
