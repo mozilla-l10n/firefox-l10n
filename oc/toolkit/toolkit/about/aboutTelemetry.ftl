@@ -15,3 +15,4 @@ about-telemetry-slow-sql-statement = Requèsta
 about-telemetry-late-writes-title = Escritura tardièra n°{ $lateWriteCount }
 about-telemetry-stack-title = Pila :
 about-telemetry-memory-map-title = Cartografia memòria :
+about-telemetry-error-fetching-symbols = Una error s'es produita al moment de la recuperacion dels simbòls. Verificatz que sètz connectat a Internet e ensajatz tornarmai.
