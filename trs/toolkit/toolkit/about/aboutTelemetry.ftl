@@ -24,3 +24,66 @@ about-telemetry-show-in-Firefox-json-viewer = Na'nín riña JSON ni'io'
 about-telemetry-home-section = Riñan gayi'ij
 about-telemetry-general-data-section = Datos nikó
 about-telemetry-environment-data-section = Ganikaj du'ua datos
+about-telemetry-session-info-section = Nuguan' a'min rayi'î nan
+about-telemetry-scalar-section = Gisì'
+about-telemetry-keyed-scalar-section = Gisij huì'
+about-telemetry-histograms-section = Istogrâma
+about-telemetry-keyed-histogram-section = istogramâ arán riñaan
+about-telemetry-events-section = Sùun
+about-telemetry-simple-measurements-section = Sa dodò' riñuun
+about-telemetry-slow-sql-section = Sa 'iaj naj SQL
+about-telemetry-addon-details-section = Daj hua sa nuto'
+about-telemetry-captured-stacks-section = Sa nahui Ñadu'ua
+about-telemetry-late-writes-section = Sa gachrûn rùn'
+about-telemetry-raw-payload-section = Sa nachra ma'an
+about-telemetry-raw = JSON nitaj si 'iaj sun
+about-telemetry-full-sql-warning = NI'IAJ: sa nagi'iaj niñun SQL 'iaj sun. Ga'ue ni'iaj da'ua gê sa 'na SQL sani ni ga'an riña Telemetry.
+about-telemetry-fetch-stack-symbols = Nana'ui' si yugui sa 'iaj sun nga sa niko'
+about-telemetry-hide-stack-symbols = Digân nej datos hua ni' gachin gi'iaj sun
+# Selects the correct release version
+# Variables:
+#   $channel (String): represents the corresponding release data string
+about-telemetry-data-type =
+    { $channel ->
+        [release] Nuguan' nagi'iaj hìo
+       *[prerelease] Nuguan' hìaj nagi'iaj hìo
+    }
+# Selects the correct upload string
+# Variables:
+#   $uploadcase (String): represents a corresponding upload string
+about-telemetry-upload-type =
+    { $uploadcase ->
+        [enabled] huaj
+       *[disabled] nitaj si huáj
+    }
+# Example Output: 1 sample, average = 0, sum = 0
+# Variables:
+#   $sampleCount (Integer): amount of histogram samples
+#   $prettyAverage (Integer): average of histogram samples
+#   $sum (Integer): sum of histogram samples
+about-telemetry-histogram-stats =
+    { $sampleCount ->
+        [one] { $sampleCount } dàj hua, antaj nìko huaj = { $prettyAverage }, da' huaj = { $sum }
+       *[other] { $sampleCount } dàj hua, antaj nìko huaj = { $prettyAverage }, da' huaj = { $sum }
+    }
+# Variables:
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+about-telemetry-page-subtitle = Página na nariki nuguan an daj 'iaj sun, hardware, nuin saj raj sun' sa nara'ui' huin Telemetry. Nuguan' na ni ga'an riña { $telemetryServerOwner } da' rugujñu'un nahuin hue'e { -brand-full-name }.
+about-telemetry-settings-explanation = Nana'ui' nuguàn' telemetría { about-telemetry-data-type } ni kârga hua <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a>.
+# Variables:
+#   $name (String): ping name, e.g. “saved-session”
+#   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
+about-telemetry-ping-details = Da' nuguan' nan' chre' nahuin "<a data-l10n-name="ping-link">pings</a>". Akuan' nïn nan ni'iajt { $name }, { $timestamp } ping.
+about-telemetry-ping-details-current = Da' dodò' nuguan nan' chre' nahuin "<a data-l10n-name="ping-link">pings</a>". Ping hua akuan' nïn huin sa ni'iajt nan.
+# string used as a placeholder for the search field
+# More info about it can be found here:
+# https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
+# Variables:
+#   $selectedTitle (String): the section name from the structure of the ping.
+about-telemetry-filter-placeholder =
+    .placeholder = Narì't riña { $selectedTitle }
+about-telemetry-filter-all-placeholder =
+    .placeholder = Narì' riña daran' seksiûn
+# Variables:
+#   $searchTerms (String): the searched terms
+about-telemetry-results-for-search = Sa nari'ij guendâ "{ $searchTerms }"
