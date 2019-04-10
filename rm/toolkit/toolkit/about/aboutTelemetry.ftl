@@ -19,6 +19,7 @@ about-telemetry-more-information = Tschertgas ti ulteriuras infurmaziuns?
 about-telemetry-firefox-data-doc = La <a data-l10n-name="data-doc-link">Documentaziun datas da Firefox</a> cuntegna manuals davart la lavur cun noss utensils da datas.
 about-telemetry-telemetry-client-doc = La <a data-l10n-name="client-doc-link">documentaziun client da telemetria da Firefox</a> includa definiziuns per concepts, documentaziuns dad API e referenzas a datas.
 about-telemetry-telemetry-dashboard = Las <a data-l10n-name="dashboard-link">panelas da telemetria</a> ta permettan da visualisar las datas che Mozilla retschaiva via telemetria.
+about-telemetry-telemetry-probe-dictionary = Il <a data-l10n-name="probe-dictionary-link">dicziunari da provas</a> cuntegna detagls e descripziuns per las provas rimnadas via telemetria.
 about-telemetry-show-in-Firefox-json-viewer = Avrir en il visualisader da JSON
 about-telemetry-home-section = Pagina da partenza
 about-telemetry-general-data-section = Datas generalas
