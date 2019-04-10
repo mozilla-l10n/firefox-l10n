@@ -61,6 +61,7 @@ about-telemetry-telemetry-dashboard =
     { "" }
     Οι <a data-l10n-name="dashboard-link">πίνακες τηλεμετρίας</a> σάς επιτρέπουν να βλέπετε τα δεδομένα που λαμβάνει η Mozilla μέσω της τηλεμετρίας.
     { "" }
+about-telemetry-telemetry-probe-dictionary = Το <a data-l10n-name="probe-dictionary-link">λεξικό ερευνών</a> παρέχει λεπτομέρειες και περιγραφές για τις έρευνες που συλλέχθηκαν από την Τηλεμετρία.
 about-telemetry-show-in-Firefox-json-viewer =
     { "" }
     Άνοιγμα στην προβολή JSON
