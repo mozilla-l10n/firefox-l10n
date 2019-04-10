@@ -19,6 +19,7 @@ about-telemetry-more-information = Looking for more information?
 about-telemetry-firefox-data-doc = The <a data-l10n-name="data-doc-link">Firefox Data Documentation</a> contains guides about how to work with our data tools.
 about-telemetry-telemetry-client-doc = The <a data-l10n-name="client-doc-link">Firefox Telemetry client documentation</a> includes definitions for concepts, API documentation and data references.
 about-telemetry-telemetry-dashboard = The <a data-l10n-name="dashboard-link">Telemetry dashboards</a> allow you to visualise the data Mozilla receives via Telemetry.
+about-telemetry-telemetry-probe-dictionary = The <a data-l10n-name="probe-dictionary-link">Probe Dictionary</a> provides details and descriptions for the probes collected by Telemetry.
 about-telemetry-show-in-Firefox-json-viewer = Open in the JSON viewer
 about-telemetry-home-section = Home
 about-telemetry-general-data-section = General Data
@@ -39,9 +40,26 @@ about-telemetry-raw = Raw JSON
 about-telemetry-full-sql-warning = NOTE: Slow SQL debugging is enabled. Full SQL strings may be displayed below but they will not be submitted to Telemetry.
 about-telemetry-fetch-stack-symbols = Fetch function names for stacks
 about-telemetry-hide-stack-symbols = Show raw stack data
+# Selects the correct release version
+# Variables:
+#   $channel (String): represents the corresponding release data string
+about-telemetry-data-type =
+    { $channel ->
+        [release] release data
+       *[prerelease] pre-release data
+    }
+# Selects the correct upload string
+# Variables:
+#   $uploadcase (String): represents a corresponding upload string
+about-telemetry-upload-type =
+    { $uploadcase ->
+        [enabled] enabled
+       *[disabled] disabled
+    }
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = This page shows the information about performance, hardware, usage and customisations collected by Telemetry. This information is submitted to { $telemetryServerOwner } to help improve { -brand-full-name }.
+about-telemetry-settings-explanation = Telemetry is collecting { about-telemetry-data-type } and upload is <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a>.
 # Variables:
 #   $name (String): ping name, e.g. “saved-session”
 #   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
