@@ -235,3 +235,9 @@ disable-addon-button = Deshabilitar
 enable-addon-button = Habilitar
 addons-enabled-heading = Habilitado
 addons-disabled-heading = Deshabilitado
+addon-detail-author-label = Autor
+addon-detail-version-label = Versión
+# This string is used to show that an add-on is disabled.
+# Variables:
+#   $name (string) - The name of the add-on
+addon-name-disabled = { $name } (deshabilitado)
