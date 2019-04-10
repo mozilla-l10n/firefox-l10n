@@ -13,6 +13,7 @@ about-telemetry-general-data-section =   সাধারণ ডাটা
 about-telemetry-environment-data-section = পরিবেশ তথ্য
 about-telemetry-session-info-section = সেশন সংক্রান্ত তথ্য
 about-telemetry-scalar-section = স্কেলারস
+about-telemetry-keyed-scalar-section = Keyed Scalars
 about-telemetry-histograms-section = স্তম্ভচিত্র
 about-telemetry-keyed-histogram-section =   উদ্দীপিত হিস্টোগ্রামসমূহ
 about-telemetry-simple-measurements-section = সরল মাপ
