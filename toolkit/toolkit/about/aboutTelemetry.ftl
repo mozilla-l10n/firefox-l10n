@@ -8,12 +8,25 @@ about-telemetry-full-sql-warning =   NOTE ನಿಧಾನಗತಿ SQL ದೋ�
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = ಈ ಪುಟವು, ಟೆಲಿಮೆಟ್ರಿಯಿಂದ ಸಂಗ್ರಹಿಸಲಾದ ಕಾರ್ಯನಿರ್ವಹಣೆ, ಯಂತ್ರಾಂಶ, ಬಳಕೆ, ಮತ್ತು ಅಗತ್ಯಾನುಗುಣಗೊಳಿಕೆಯ ಕುರಿತಾದ ಮಾಹಿತಿಯನ್ನು ಹೊಂದಿರುತ್ತದೆ. { -brand-full-name } ಅನ್ನು ಸುಧಾರಿಸಲು ಈ ಮಾಹಿತಿಯನ್ನು { $telemetryServerOwner } ಗೆ ಸಲ್ಲಿಸಲಾಗಿದೆ.
+# used in the “Ping Type” select
+about-telemetry-telemetry-ping-type-all = ಎಲ್ಲ
+# button label to copy the histogram
+about-telemetry-histogram-copy = ಪ್ರತಿ ಮಾಡು
 # these strings are used in the “Slow SQL Statements” section
 about-telemetry-slow-sql-main = ಮುಖ್ಯ ತ್ರೆಡ್‌ಗಳಲ್ಲಿ ನಿಧಾನವಾದ SQL ಹೇಳಿಕೆಗಳು
 about-telemetry-slow-sql-other = ಹೆಲ್ಪರ್ ತ್ರೆಡ್‌ಗಳಲ್ಲಿ ನಿಧಾನವಾದ SQL ಹೇಳಿಕೆಗಳು
 about-telemetry-slow-sql-hits = ಭೇಟಿಗಳು
 about-telemetry-slow-sql-average = ಸರಾಸರಿ ಸಮಯ (ms)
 about-telemetry-slow-sql-statement = ಹೇಳಿಕೆ
+# these strings are used in the “Add-on Details” section
+about-telemetry-addon-table-id = ಆಡ್-ಆನ್ ID
+about-telemetry-addon-table-details = ವಿವರಗಳು
+# Variables:
+#   $addonProvider (String): the name of an Add-on Provider (e.g. “XPI”, “Plugin”)
+about-telemetry-addon-provider = { $addonProvider } ಪೂರೈಕೆಗಾರ
+about-telemetry-keys-header = ಗುಣ
+about-telemetry-names-header = ಹೆಸರು
+about-telemetry-values-header = ಮೌಲ್ಯ
 # Variables:
 #   $lateWriteCount (Integer): the number of the late writes
 about-telemetry-late-writes-title = ತಡವಾದ ಬರೆಯುವಿಕೆ #{ $lateWriteCount }
