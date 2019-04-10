@@ -2,11 +2,23 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+about-telemetry-ping-data-source = ကွန်ယက်စာတို(ပင်းန်) ဒေတာရင်းမြစ်။
+about-telemetry-show-current-ping-data = လက်ရှိ ပင်းန် ဒေတာ
+about-telemetry-show-archived-ping-data = သိမ်းထားသည့် ပင်းန် ဒေတာ
+about-telemetry-show-subsession-data = အချိန်ခွဲသိမ်း ဒေတာကို ပြပါ
+about-telemetry-choose-ping = ပင်းန်ကို ရွေးရန်။
+about-telemetry-archive-ping-header = ပင်းန်
 about-telemetry-page-title = Telemetry Data
+about-telemetry-general-data-section = အထွေထွေ အချက်အလက်
+about-telemetry-environment-data-section = Environment Data
+about-telemetry-session-info-section = အသုံးပြုမှုကာလအချက်အလက်
 about-telemetry-histograms-section = Histograms
+about-telemetry-keyed-histogram-section = ကီးများဖြင့် ဇယားကွက်
 about-telemetry-simple-measurements-section = ရိုးရှင်းသော တိုင်းတာချက်များ
 about-telemetry-slow-sql-section = Slow SQL Statements
+about-telemetry-addon-details-section = Add-on Details
 about-telemetry-late-writes-section = နောက်ကျသောရေးသားချက်
+about-telemetry-raw = JSON အကြမ်းထည်
 about-telemetry-full-sql-warning = NOTE: Slow SQL debugging is enabled. Full SQL strings may be displayed below but they will not be submitted to Telemetry.
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
@@ -19,8 +31,14 @@ about-telemetry-slow-sql-other = Slow SQL Statements on Helper Threads
 about-telemetry-slow-sql-hits = Hits
 about-telemetry-slow-sql-average = ပျှမ်းမျှအချိန် (ms)
 about-telemetry-slow-sql-statement = ထုတ်ပြန်ချက်
+# these strings are used in the “Add-on Details” section
+about-telemetry-addon-table-id = အတ်အွန် အိုင်ဒီ
 about-telemetry-addon-table-details = အသေးစိတ်များ
+# Variables:
+#   $addonProvider (String): the name of an Add-on Provider (e.g. “XPI”, “Plugin”)
+about-telemetry-addon-provider = { $addonProvider } Provider
 about-telemetry-keys-header = ဂုဏ်သတ္တိများ
+about-telemetry-values-header = တန်ဖိုး
 # Variables:
 #   $lateWriteCount (Integer): the number of the late writes
 about-telemetry-late-writes-title = Late Write #{ $lateWriteCount }
