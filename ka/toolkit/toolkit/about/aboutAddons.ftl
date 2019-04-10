@@ -82,6 +82,9 @@ detail-version =
 detail-last-updated =
     .label = ბოლო განახლება
 detail-contributions-description = ამ დამატების შემქმნელი, პროგრამის მომავალი განვითარებისთვის, გთხოვთ მხარდაჭერას, მცირეოდენი შემოწირულობის სახით.
+detail-contributions-button = შემოწირულობა
+    .title = დამატების შემუშავებისთვის შემოწირულობის გაღება
+    .accesskey = წ
 detail-update-type =
     .value = თვითგანახლებები
 detail-update-default =
@@ -273,3 +276,20 @@ enable-addon-button = ჩართვა
 expand-addon-button = დამატებითი პარამეტრები
 addons-enabled-heading = ჩართულია
 addons-disabled-heading = ამორთულია
+addon-detail-author-label = შემქმნელი
+addon-detail-version-label = ვერსია
+addon-detail-last-updated-label = ბოლო განახლება
+addon-detail-homepage-label = მთავარი გვერდი
+addon-detail-rating-label = შეფასება
+# This string is used to show that an add-on is disabled.
+# Variables:
+#   $name (string) - The name of the add-on
+addon-name-disabled = { $name } (გამორთული)
+# The number of reviews that an add-on has received on AMO.
+# Variables:
+#   $numberOfReviews (number) - The number of reviews received
+addon-detail-reviews-link =
+    { $numberOfReviews ->
+        [one] { $numberOfReviews } მიმოხილვა
+       *[other] { $numberOfReviews } მიმოხილვა
+    }
