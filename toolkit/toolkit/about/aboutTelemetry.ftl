@@ -7,6 +7,7 @@ about-telemetry-show-current-ping-data = პინგის მიმდინ�
 about-telemetry-show-archived-ping-data = პინგის დაარქივებული მონაცემები
 about-telemetry-show-subsession-data = ქვესეანსის მონაცემების ჩვენება
 about-telemetry-choose-ping = პინგის არჩევა:
+about-telemetry-archive-ping-type = კავშირის დამოწმების სახეობა
 about-telemetry-archive-ping-header = პინგი
 about-telemetry-option-group-today = დღეს
 about-telemetry-option-group-yesterday = გუშინ
@@ -18,6 +19,7 @@ about-telemetry-more-information = მეტ ინფორმაციას �
 about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Firefox მონაცემთა დოკუმენტაცია</a> შეიცავს მითითებებს, მონაცემთა ხელსაწყოებთან მუშაობის შესახებ.
 about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Firefox ტელემეტრიის კლიენტის დოკუმენტაცია</a> შეიცავს განმარტებებს, კონცეფციას, API დოკუმენტაციასა და მითითებებს, მონაცემების შესახებ.
 about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">ტელემეტრიის გვერდი</a>, Mozilla-ს მიერ აღრიცხული მონაცემების ვიზუალურად წარმოდგენის საშუალებას იძლევა.
+about-telemetry-telemetry-probe-dictionary = <a data-l10n-name="probe-dictionary-link">კვლევის ლექსიკონში</a> მოცემულია დაწვრილებითი ინფორმაცია და აღწერილობა ტელემეტრიით ჩატარებული კვლევების.
 about-telemetry-show-in-Firefox-json-viewer = JSON მნახველში გახსნა
 about-telemetry-home-section = მთავარი
 about-telemetry-general-data-section = ზოგადი მონაცემები
@@ -83,10 +85,16 @@ about-telemetry-no-search-results = ვწუხვართ! შედეგე
 # Variables:
 #   $searchTerms (String): the searched terms
 about-telemetry-no-search-results-all = ვწუხვართ! არცერთ განყოფილებაში არ მოიძებნა შედეგები ფრაზისთვის “{ $searchTerms }”
+# This message is displayed when a section is empty.
+# Variables:
+#   $sectionName (String): is replaced by the section name.
+about-telemetry-no-data-to-display = ვწუხვართ! მონაცემები „{ $sectionName }“ განყოფილებაში, ამჟამად არაა ხელმისაწვდომი
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-ping-sidebar = მიმდინარე პინგი
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = ყველა
+# button label to copy the histogram
+about-telemetry-histogram-copy = ასლი
 # these strings are used in the “Slow SQL Statements” section
 about-telemetry-slow-sql-main = ნელი SQL ბრძანებები მთავარ ნაკადში
 about-telemetry-slow-sql-other = ნელი SQL ბრძანებები დამხმარე ნაკადებში
