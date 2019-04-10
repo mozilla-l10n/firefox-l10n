@@ -53,9 +53,14 @@ about-debugging-sidebar-runtime-item-name-no-device =
 # debugging link in the footer of the sidebar
 about-debugging-sidebar-support-icon =
     .alt = ไอคอนช่วยเหลือ
+# Text displayed in a sidebar button to refresh the list of USB devices. Clicking on it
+# will attempt to update the list of devices displayed in the sidebar.
+about-debugging-refresh-usb-devices-button = เรียกอุปกรณ์ใหม่
 
 # Setup Page strings
 
+# Title of the Setup page.
+about-debugging-setup-title = ตั้งค่า
 # Link displayed in the Setup page that leads to MDN page with list of supported devices.
 # Temporarily leads to https://support.mozilla.org/en-US/kb/will-firefox-work-my-mobile-device#w_android-devices
 about-debugging-setup-link-android-devices = ดูรายการอุปกรณ์ Android ที่รองรับ
