@@ -64,6 +64,8 @@ but will never be visible at the same time. -->
 These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  bookmarkSelectedTabs.accesskey     "i">
 
+<!-- Tab context menu -->
+
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
@@ -130,6 +132,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.accesskey "o">
 <!ENTITY printCmd.commandkey "p">
 
+<!ENTITY importFromAnotherBrowserCmd.label "Tuo toisesta selaimesta…">
 
 <!ENTITY taskManagerCmd.label "Tehtävienhallinta">
 
@@ -213,6 +216,24 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenExit.label "Poistu kokoruututilasta">
 <!ENTITY fullScreenExit.accesskey "o">
 
+ <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
+     for the Firefox Account toolbar signin menu screen. -->
+<!ENTITY fxa.signin.callout.label "Ota Firefox mukaasi">
+<!ENTITY fxa.signin.description.label "Kirjanmerkkisi, selaushistoriasi, salasanasi ja muut asetukset kaikilla laitteillasi.">
+
+<!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
+     for the Firefox Account toolbar unverified menu screen. -->
+<!ENTITY fxa.unverified.callout.label "Tarkista sähköpostisi">
+<!ENTITY fxa.unverified.button.label "Avaa &syncBrand.shortName.label;-asetukset…">
+
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbart menu screen. The `Signed in as` text is
+     followed by the user's email. -->
+<!ENTITY fxa.menu.manageAccount.label "Hallitse tiliä…">
+<!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label;-asetukset…">
+<!ENTITY fxa.menu.connectAnotherDevice.label "&syncedTabs.sidebar.connectAnotherDevice;">
+<!ENTITY fxa.menu.connectAnotherDevice2.label "Yhdistä toiseen laitteeseen…">
+
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring fullscreen.
@@ -229,6 +250,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY exitDOMFullscreenMac.button "Poistu kokoruututilasta (esc)">
 <!ENTITY leaveDOMFullScreen.label "Poistu kokoruututilasta">
 <!ENTITY leaveDOMFullScreen.accesskey "P">
+
+<!-- LOCALIZATION NOTE (pictureInPicture.label, pictureInPicture.accesskey):
+     these two strings are used when right-clicking on a video in the
+     content area when the Picture-in-Picture feature is enabled. -->
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
@@ -407,6 +432,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmd2.accesskey     "A">
 <!ENTITY preferencesCmdUnix.label       "Asetukset">
 <!ENTITY preferencesCmdUnix.accesskey     "A">
+
 
 <!ENTITY clearRecentHistory.label               "Poista historiatietoja…">
 
@@ -930,6 +956,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncSignIn.label             "Kirjaudu &syncBrand.shortName.label;-palveluun…">
 <!ENTITY syncSignIn.accesskey         "K">
 <!ENTITY syncSyncNowItem.label        "Synkronoi">
+<!ENTITY syncSyncNowItemSyncing.label "Synkronoidaan…">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "Palauta yhteys &syncBrand.shortName.label;-palveluun…">
 <!ENTITY syncReAuthItem.accesskey     "P">
@@ -1128,7 +1155,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Voit hallita lisäosia avaamalla <image class='addon-toolbar-icon'/>-valikon ja napsauttamalla <image class='addon-addon-icon'/>-kuvaketta.">
-<!ENTITY addonPostInstall.incognito.label "Salli tämän laajennuksen käyttö yksityisissä ikkunoissa.">
+<!ENTITY addonPostInstall.incognito.checkbox.label "Salli tämän laajennuksen toiminta yksityisissä ikkunoissa">
 
 <!ENTITY addonPrivateBrowsing.body2.label "Yksikään &brandShorterName;iin lisäämäsi uusi laajennus ei toimi yksityisissä ikkunoissa, ellet salli toimintaa asetuksista.">
 <!ENTITY addonPrivateBrowsing.learnMore.label "Lue lisää kuinka hallita laajennusten asetuksia.">

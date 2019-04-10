@@ -8,6 +8,7 @@ about-config-warning-text = Tällä sivulla olevien asetusten muuttamisella voi 
 about-config-warning-checkbox = Häiritse myös ensi kerralla
 about-config-warning-button = Otan riskin
 about-config-title = about:config
+about-config2-title = Lisäasetukset
 about-config-search-input =
     .placeholder = Haku
 about-config-show-all = Näytä kaikki
