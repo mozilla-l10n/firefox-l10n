@@ -108,6 +108,22 @@ about-telemetry-hide-stack-symbols =
     { "" }
       Afficher les données brutes des piles
     { "" }
+# Selects the correct release version
+# Variables:
+#   $channel (String): represents the corresponding release data string
+about-telemetry-data-type =
+    { $channel ->
+        [release] données de la version stable
+       *[prerelease] données de préversion
+    }
+# Selects the correct upload string
+# Variables:
+#   $uploadcase (String): represents a corresponding upload string
+about-telemetry-upload-type =
+    { $uploadcase ->
+        [enabled] activée
+       *[disabled] désactivée
+    }
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = Cette page affiche les informations collectées par télémétrie concernant les performances, les caractéristiques matérielles, l’utilisation des fonctionnalités et la personnalisation du navigateur. Ces informations sont envoyées à { $telemetryServerOwner } pour aider à l’amélioration de { -brand-full-name }.
