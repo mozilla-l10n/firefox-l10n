@@ -4,6 +4,7 @@
 
 about-telemetry-general-data-section = Основни данни
 about-telemetry-environment-data-section = Данни за обкръжението
+about-telemetry-scalar-section = Скалари
 about-telemetry-histograms-section = Хистограми
 about-telemetry-keyed-histogram-section = Небалансирани хистограми
 about-telemetry-simple-measurements-section = Прости измервания
