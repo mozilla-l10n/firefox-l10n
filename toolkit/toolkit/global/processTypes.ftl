@@ -9,6 +9,9 @@ process-type-privileged = Lëndë e Privilegjuar
 process-type-extension = Zgjerim
 # process used to open file:// URLs
 process-type-file = Kartelë Vendore
+# process used to isolate webpages that requested special
+# permission to allocate large amounts of memory
+process-type-weblargeallocation = Dhënie e Madhe
 # process used to communicate with the GPU for
 # graphics acceleration
 process-type-gpu = GPU
