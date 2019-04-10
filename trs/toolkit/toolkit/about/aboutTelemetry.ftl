@@ -87,3 +87,54 @@ about-telemetry-filter-all-placeholder =
 # Variables:
 #   $searchTerms (String): the searched terms
 about-telemetry-results-for-search = Sa nari'ij guendâ "{ $searchTerms }"
+# More info about it can be found here: https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
+# Variables:
+#   $sectionName (String): the section name from the structure of the ping.
+#   $currentSearchText (String): the current text in the search input
+about-telemetry-no-search-results = Si ga'man ruhuât! Nitaj nùnj nari'ij riña { $sectionName } guendâ "{ $currentSearchText }"
+# Variables:
+#   $searchTerms (String): the searched terms
+about-telemetry-no-search-results-all = Si ga'man ruhuât. Nu nari'ij à'ngo nuguan' hiuj nan guendâ “{ $searchTerms }”
+# This message is displayed when a section is empty.
+# Variables:
+#   $sectionName (String): is replaced by the section name.
+about-telemetry-no-data-to-display = Si ga'man ruhuât. Akuan' nïn nitaj nuguan'an guendâ “{ $sectionName }”
+# used as a tooltip for the “current” ping title in the sidebar
+about-telemetry-current-ping-sidebar = ping nasinùnj un
+# used in the “Ping Type” select
+about-telemetry-telemetry-ping-type-all = daran'anj
+# button label to copy the histogram
+about-telemetry-histogram-copy = Guxun' ni nachrun' a'ngô hiuj u
+# these strings are used in the “Slow SQL Statements” section
+about-telemetry-slow-sql-main = Naj 'iaj sun SQL ña'an doj
+about-telemetry-slow-sql-other = Naj 'iaj sun SQL sa ruguñu'unj
+about-telemetry-slow-sql-hits = Hua hue'ej
+about-telemetry-slow-sql-average = Avg. Diu (ms)
+about-telemetry-slow-sql-statement = Sa girant
+# these strings are used in the “Add-on Details” section
+about-telemetry-addon-table-id = ID sa nuto'
+about-telemetry-addon-table-details = A'ngô nej sa nika
+# Variables:
+#   $addonProvider (String): the name of an Add-on Provider (e.g. “XPI”, “Plugin”)
+about-telemetry-addon-provider = { $addonProvider } Sa ri rasuun
+about-telemetry-keys-header = Sa nikaj ñu'un ma
+about-telemetry-names-header = Si yugui
+about-telemetry-values-header = Dàj du'ue man
+# Variables:
+#   $stackKey (String): the string key for this stack
+#   $capturedStacksCount (Integer):  the number of times this stack was captured
+about-telemetry-captured-stacks-title = { $stackKey } (Dàj nari ñadu'ua: { $capturedStacksCount })
+# Variables:
+#   $lateWriteCount (Integer): the number of the late writes
+about-telemetry-late-writes-title = Sa gachrûn ràan #{ $lateWriteCount }
+about-telemetry-stack-title = Nagi'iaj chre'
+about-telemetry-memory-map-title = Riña nun sa' ma:
+about-telemetry-error-fetching-symbols = Gire' ma nga gayi'ij nana'uij da'nga a. Ni'iaj si hua internet ni garahuet si ga'ue.
+about-telemetry-time-stamp-header = sa 'iaj sun nga diu
+about-telemetry-category-header = da' yi'ni'in
+about-telemetry-method-header = daj ganiko'
+about-telemetry-object-header = rasuun
+about-telemetry-extra-header = sa tàj a
+about-telemetry-origin-section = Telemetriâ gurugui' sinïin
+about-telemetry-origin-origin = danè' gahuij
+about-telemetry-origin-count = Guânda
