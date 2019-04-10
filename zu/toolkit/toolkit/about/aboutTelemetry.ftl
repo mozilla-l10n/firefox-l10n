@@ -11,12 +11,15 @@ about-telemetry-full-sql-warning = QAPHELA: Ukususwa kwamaphutha kwe-Slow SQL ku
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = Leli khasi libonisa ulwazi mayelana nokusebenza, ingxenyekazi, ukusebenza nokwenza ngezifiso okuqoqwe i-Telemetry. Lolu lwazi luthunyelwe ku-{ $telemetryServerOwner } ukusisa ukuthuthukisa i-{ -brand-full-name }.
+# button label to copy the histogram
+about-telemetry-histogram-copy = Kopisha
 # these strings are used in the “Slow SQL Statements” section
 about-telemetry-slow-sql-main = Izitatimende ze-Slow SQL ku-Main Thread
 about-telemetry-slow-sql-other = Izitatimende ze-SQL ezingasheshi kuma-Helper Thread
 about-telemetry-slow-sql-hits = Ukushaya
 about-telemetry-slow-sql-average = Isikhathi esimaphakathi (ms)
 about-telemetry-slow-sql-statement = Isitatimende
+about-telemetry-addon-table-details = Imininingwane
 about-telemetry-keys-header = Impahla
 # Variables:
 #   $lateWriteCount (Integer): the number of the late writes
