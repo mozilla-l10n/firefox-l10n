@@ -19,6 +19,7 @@ about-telemetry-more-information = Tettnadiḍ ugar n telγut?
 about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Tisemlit n isefka Firefox</a> tegber imniren γef amek ad nseqdec s ifecka n isefka.
 about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Tisemlit n umsaγ tilisγelt</a>tegber tabadut yef tiktiwin, API tisemlit akked isefka ittwamlen.
 about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">Tafelwit n tilisγelt</a> ad k-tsireg akken ad twaliḍ isefka ittwaznen i Mozilla s ttawil n tilispyelt.
+about-telemetry-show-in-Firefox-json-viewer = Ldi deg umeskan JSON
 about-telemetry-home-section = Agejdan
 about-telemetry-general-data-section = Isefka imatuten
 about-telemetry-environment-data-section = Isefka n twennaṭ
@@ -32,6 +33,7 @@ about-telemetry-simple-measurements-section = Iktazalen iḥerfiyen
 about-telemetry-slow-sql-section = Tuţriwin SQL tiẓayanin
 about-telemetry-addon-details-section = Aglam leqqayen n izegrar
 about-telemetry-captured-stacks-section = Tinebdanin ittwaṭfen
+about-telemetry-raw-payload-section = Taɛekkemt tarewwayt
 about-telemetry-raw = Izirig JSON
 about-telemetry-full-sql-warning = Tazmilt: Aseɣti n tuttriwin SQL ẓẓayen yermed. Tuttriwin SQL yemden zemrent ad d-waseknent daw-a, acukan ur zmirent ara ad ttwaznent s tilisɣelt.
 about-telemetry-fetch-stack-symbols = Awi-d ismawen n twuriwin i tnebdanin
