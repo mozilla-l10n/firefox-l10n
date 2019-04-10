@@ -2,6 +2,19 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+about-telemetry-ping-data-source = Fonte de dados do ping:
+about-telemetry-show-current-ping-data = Dados do ping atual
+about-telemetry-show-archived-ping-data = Dados de ping arquivados
+about-telemetry-show-subsession-data = Mostrar dados da subseção
+about-telemetry-choose-ping = Escolha o ping:
+about-telemetry-archive-ping-type = Tipo de ping
+about-telemetry-archive-ping-header = Ping
+about-telemetry-option-group-today = Hoje
+about-telemetry-option-group-yesterday = Ontem
+about-telemetry-option-group-older = Mais Antigo
+about-telemetry-previous-ping = <<
+about-telemetry-next-ping = >>
+about-telemetry-home-section = Início
 # Variables:
 #   $name (String): ping name, e.g. “saved-session”
 #   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
