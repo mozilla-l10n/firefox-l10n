@@ -65,6 +65,15 @@ about-telemetry-results-for-search = “{ $searchTerms }” എന്നതി�
 #   $sectionName (String): the section name from the structure of the ping.
 #   $currentSearchText (String): the current text in the search input
 about-telemetry-no-search-results = ക്ഷമിക്കണം! “{ $currentSearchText }” എന്നതിനായി { $sectionName } ൽ ഫലങ്ങൾ ഒന്നുമില്ല
+# Variables:
+#   $searchTerms (String): the searched terms
+about-telemetry-no-search-results-all = ക്ഷമിക്കണം! “{ $searchTerms }” നു വേണ്ടി യാതൊരു വിഭാഗങ്ങളിലും ഫലങ്ങളൊന്നുമില്ല
+# This message is displayed when a section is empty.
+# Variables:
+#   $sectionName (String): is replaced by the section name.
+about-telemetry-no-data-to-display = ക്ഷമിക്കണം! “{ $sectionName }” ൽ നിലവിൽ ഡാറ്റയൊന്നും ലഭ്യമല്ല
+# used in the “Ping Type” select
+about-telemetry-telemetry-ping-type-all = എല്ലാം
 # button label to copy the histogram
 about-telemetry-histogram-copy = പകര്‍ത്തുക
 # these strings are used in the “Slow SQL Statements” section
@@ -80,6 +89,8 @@ about-telemetry-addon-table-details = വിശദാംശങ്ങള്‍
 #   $addonProvider (String): the name of an Add-on Provider (e.g. “XPI”, “Plugin”)
 about-telemetry-addon-provider = { $addonProvider } പ്രൊവൈഡര്‍
 about-telemetry-keys-header = വിശേഷത
+about-telemetry-names-header = പേര്
+about-telemetry-values-header = മൂല്യം
 # Variables:
 #   $lateWriteCount (Integer): the number of the late writes
 about-telemetry-late-writes-title = Late Write #{ $lateWriteCount }
