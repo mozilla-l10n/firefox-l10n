@@ -56,6 +56,15 @@ about-telemetry-upload-type =
         [enabled] 已启用
        *[disabled] 已禁用
     }
+# Example Output: 1 sample, average = 0, sum = 0
+# Variables:
+#   $sampleCount (Integer): amount of histogram samples
+#   $prettyAverage (Integer): average of histogram samples
+#   $sum (Integer): sum of histogram samples
+about-telemetry-histogram-stats =
+    { $sampleCount ->
+       *[other] { $sampleCount } 个样本，平均 = { $prettyAverage }，合计 = { $sum }
+    }
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = 本页显示“遥测”收集的有关性能、硬件、使用和定制情况的信息，这些信息被提交到 { $telemetryServerOwner } 以帮助改进 { -brand-full-name }。
@@ -125,3 +134,9 @@ about-telemetry-category-header = 分类
 about-telemetry-method-header = 方法
 about-telemetry-object-header = 对象
 about-telemetry-extra-header = 额外
+about-telemetry-origin-section = 原点遥测
+about-telemetry-origin-origin = 原点
+about-telemetry-origin-count = 数量
+# Variables:
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link">Firefox 原点遥测</a>会在数据发送之前对其进行编码，以便 { $telemetryServerOwner } 对数据进行计数，但不会知道是否有任何给定的{ -brand-product-name } 参与了该计数。（<a data-l10n-name="prio-blog-link">了解详情</a>）
