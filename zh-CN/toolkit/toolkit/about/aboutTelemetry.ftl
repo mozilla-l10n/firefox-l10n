@@ -16,3 +16,4 @@ about-telemetry-slow-sql-statement = 语句
 about-telemetry-late-writes-title = 延迟写入 #{ $lateWriteCount }
 about-telemetry-stack-title = 堆栈:
 about-telemetry-memory-map-title = 内存映射:
+about-telemetry-error-fetching-symbols = 获取符号信息时发生错误。请检查您是否连接到了互联网后再试。
