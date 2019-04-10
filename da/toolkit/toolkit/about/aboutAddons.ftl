@@ -90,7 +90,7 @@ detail-last-updated =
 detail-contributions-description = Udvikleren af denne tilføjelse forespøger om du vil hjælpe dens videre udvikling ved at bidrage med en lille donation.
 
 detail-contributions-button = Bidrag
-    .title = Bidrag til udviklingen af denne udvidelse
+    .title = Bidrag til udviklingen af denne tilføjelse
     .accesskey = B
 
 detail-update-type =
@@ -312,7 +312,7 @@ addon-detail-author-label = Udvikler
 addon-detail-version-label = Version
 addon-detail-last-updated-label = Senest opdateret
 addon-detail-homepage-label = Websted
-addon-detail-rating-label = Vurdering
+addon-detail-rating-label = Bedømmelse
 
 # This string is used to show that an add-on is disabled.
 # Variables:
