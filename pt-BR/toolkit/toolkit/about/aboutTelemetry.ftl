@@ -7,6 +7,8 @@
 #   $sectionName (String): the section name from the structure of the ping.
 #   $currentSearchText (String): the current text in the search input
 about-telemetry-no-search-results = Desculpe! Não há resultados em { $sectionName } para “{ $currentSearchText }”
+# used in the “Ping Type” select
+about-telemetry-telemetry-ping-type-all = todos
 # these strings are used in the “Slow SQL Statements” section
 about-telemetry-slow-sql-main = Instruções SQL lentas na thread principal
 about-telemetry-slow-sql-other = Instruções SQL lentas em threads auxiliares
