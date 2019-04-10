@@ -31,6 +31,7 @@ about-telemetry-captured-stacks-section = { "  " }Piles capturades
 about-telemetry-late-writes-section = { "  " }Escriptures tardanes
 about-telemetry-raw = JSON sense processar
 about-telemetry-full-sql-warning = { "  " }NOTA: la depuració de SQL lenta està habilitada. Es poden mostrar les cadenes SQL completes a sota però no s'enviaran per a la telemesura.
+about-telemetry-fetch-stack-symbols = Obtén els noms de les funcions per a les piles
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = Aquesta pàgina conté la informació del rendiment, ús i personalitzacions recopilada per a la telemesura. Aquesta informació s'envia a { $telemetryServerOwner } per ajudar a millorar { -brand-full-name }.
