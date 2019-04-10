@@ -28,6 +28,7 @@ about-telemetry-telemetry-client-doc =
 about-telemetry-telemetry-dashboard =
     { "" }
     Ri <a data-l10n-name="dashboard-link">Telemetry dashboards</a> nuya' q'ij chawe ye'atz'ët ri taq tzij yeruk'ül ri Mozilla ruma Telemetry.
+about-telemetry-telemetry-probe-dictionary = Ri <a data-l10n-name="probe-dictionary-link">Probe Dictionary</a> nuya' b'anikil chuqa' taq kitzijoxkil ojqanela' emolon ruma ri Telemetry.
 about-telemetry-show-in-Firefox-json-viewer = Tijaq pa JSON tz'etonel
 about-telemetry-home-section = Tikirib'äl
 about-telemetry-general-data-section = Chijun taq Tzij
