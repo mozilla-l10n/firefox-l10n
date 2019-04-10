@@ -71,6 +71,8 @@ about-telemetry-ping-details-current = 每组信息都将集合在“<a data-l10
 #   $selectedTitle (String): the section name from the structure of the ping.
 about-telemetry-filter-placeholder =
     .placeholder = 在 { $selectedTitle } 中查找
+about-telemetry-filter-all-placeholder =
+    .placeholder = 在所有版块中查找
 # Variables:
 #   $searchTerms (String): the searched terms
 about-telemetry-results-for-search = “{ $searchTerms }“的搜索结果
@@ -79,6 +81,9 @@ about-telemetry-results-for-search = “{ $searchTerms }“的搜索结果
 #   $sectionName (String): the section name from the structure of the ping.
 #   $currentSearchText (String): the current text in the search input
 about-telemetry-no-search-results = 很抱歉，没有在 { $sectionName } 中找到有关“{ $currentSearchText }”的选项
+# Variables:
+#   $searchTerms (String): the searched terms
+about-telemetry-no-search-results-all = 很抱歉，所有版块中都没有找到“{ $searchTerms }”
 # This message is displayed when a section is empty.
 # Variables:
 #   $sectionName (String): is replaced by the section name.
