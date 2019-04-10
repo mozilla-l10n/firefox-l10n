@@ -2,7 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+about-telemetry-ping-data-source = Ping-gegevensboarne:
 about-telemetry-general-data-section = Algemiene gegevens
+about-telemetry-environment-data-section = Omjouwingsgegevens
 about-telemetry-slow-sql-section = Trage SQL Statements
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
