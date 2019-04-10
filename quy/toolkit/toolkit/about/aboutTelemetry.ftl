@@ -24,7 +24,7 @@ about-telemetry-full-sql-warning = Willakuy:wiqchusqa SQL nisqa allillamanta kic
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = Kay qatiqatirapiqa qawarichinmi kallpapakusqanta,  hardware nisqa ruwayta hinaspa uqarisqa kikinchayninta Telemetry.nisqawan.kay willakuyqa { $telemetryServerOwner } nisqamanmi apachikunan { -brand-full-name }.nisqa aswan allin kananpaq.
 # button label to copy the histogram
-about-telemetry-histogram-copy = Ima kaq tiqray{ " " }
+about-telemetry-histogram-copy = Ima kaq tiqray
 # these strings are used in the “Slow SQL Statements” section
 about-telemetry-slow-sql-main = SQL nisqapi allillanmanta kikin qaytu tukupay
 about-telemetry-slow-sql-other = SQL nisqpi allillamanta kikin yanapay qaytu tukupay
@@ -36,7 +36,7 @@ about-telemetry-addon-table-id = ID nisqaq huntapaynin
 about-telemetry-addon-table-details = Allchapaykuna
 # Variables:
 #   $addonProvider (String): the name of an Add-on Provider (e.g. “XPI”, “Plugin”)
-about-telemetry-addon-provider = { " " }{ $addonProvider } nisqa taqinchaq
+about-telemetry-addon-provider = { $addonProvider } nisqa taqinchaq
 about-telemetry-keys-header = Kikinpa kaqnin
 # Variables:
 #   $lateWriteCount (Integer): the number of the late writes
