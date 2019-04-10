@@ -24,7 +24,7 @@ about-telemetry-page-subtitle = ई पृष्ठ प्रदर्शन, �
 # button label to copy the histogram
 about-telemetry-histogram-copy = कापी करू
 # these strings are used in the “Slow SQL Statements” section
-about-telemetry-slow-sql-main = { " " }धीमा sql निवेदन मुख्य क्रम पर{ " " }
+about-telemetry-slow-sql-main = धीमा sql निवेदन मुख्य क्रम पर
 about-telemetry-slow-sql-other = धीमा sql निवेदन सहायक क्रम पर
 about-telemetry-slow-sql-hits = हिट्स
 about-telemetry-slow-sql-average = औसत समय (ms)
