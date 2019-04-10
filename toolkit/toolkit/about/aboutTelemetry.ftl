@@ -5,17 +5,26 @@
 about-telemetry-page-title = ទិន្នន័យ Telemetry
 about-telemetry-histograms-section =    គំនូស​តាង​ជា​របារ
 about-telemetry-simple-measurements-section =    រង្វាស់​​សាមញ្ញ
+about-telemetry-addon-details-section = សេចក្ដី​លម្អិត​កម្មវិធី​បន្ថែម
 about-telemetry-late-writes-section = សរសេរ​យឺត
 about-telemetry-full-sql-warning =    ចំណាំ ៖ ការ​បំបាត់​កំហុស SQL ត្រូវ​បាន​បើក ។ ឃ្លា SQL ពេញ​លេញ​អាច​ត្រូវ​បាន​បង្ហាញ​ខាងក្រោម ប៉ុន្តែ​វា​នឹង​មិន​ត្រូវ​បាន​ដាក់​ស្នើ​ចំពោះ Telemetry ឡើយ ។
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = ទំព័រ​នេះ​បង្ហាញ​ព័ត៌មាន​អំពី​ដំណើរការ ផ្នែក​រឹង ការ​ប្រើប្រាស់ និង​ការ​កំណត់​ផ្ទាល់ខ្លួន​ដែល​បាន​ប្រមូល​ដោយ​ទូរមាត្រ​វិធី ។ ព័ត៌មាន​នេះ​ត្រូវ​បាន​ដាក់​ស្នើ​ទៅ { $telemetryServerOwner } ដើម្បី​ធ្វើឲ្យ { -brand-full-name } ប្រសើរ​ឡើង ។
+# button label to copy the histogram
+about-telemetry-histogram-copy = ​ចម្លង
 # these strings are used in the “Slow SQL Statements” section
 about-telemetry-slow-sql-main = របាយការណ៍ SQL នៅ​​លើ​ឃ្លា​ចម្បង
 about-telemetry-slow-sql-other = របាយការណ៍ SQL នៅ​​​លើ​ឃ្លា​ជំនួយ
 about-telemetry-slow-sql-hits = ការ​រក​ឃើញ
 about-telemetry-slow-sql-average = ពេលវេលា​មធ្យម (មិល្លីវិនាទី)
 about-telemetry-slow-sql-statement = របាយការណ៍
+# these strings are used in the “Add-on Details” section
+about-telemetry-addon-table-id = លេខ​សម្គាល់​កម្មវិធី​បន្ថែម
+about-telemetry-addon-table-details = សេចក្ដី​លម្អិត
+# Variables:
+#   $addonProvider (String): the name of an Add-on Provider (e.g. “XPI”, “Plugin”)
+about-telemetry-addon-provider = ក្រុមហ៊ុន​ផ្ដល់ { $addonProvider }
 about-telemetry-keys-header = លក្ខណសម្បត្តិ
 # Variables:
 #   $lateWriteCount (Integer): the number of the late writes
