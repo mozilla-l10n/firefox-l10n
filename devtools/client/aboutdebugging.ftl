@@ -24,7 +24,7 @@ about-debugging-sidebar-this-firefox =
     .name = { about-debugging-this-firefox-runtime-name }
 # Sidebar heading for connecting to some remote source
 about-debugging-sidebar-setup =
-    .name = Penataan
+    .name = Penyiapan
 # Text displayed in the about:debugging sidebar when USB devices discovery is enabled.
 about-debugging-sidebar-usb-enabled = USB diaktifkan
 # Text displayed in the about:debugging sidebar when USB devices discovery is disabled
@@ -71,7 +71,7 @@ about-debugging-refresh-usb-devices-button = Segarkan peranti
 # Setup Page strings
 
 # Title of the Setup page.
-about-debugging-setup-title = Penataan
+about-debugging-setup-title = Penyiapan
 # Introduction text in the Setup page to explain how to configure remote debugging.
 about-debugging-setup-intro = Konfigurasikan metode koneksi yang ingin Anda gunakan untuk proses debugging perangkat Anda dari jarak jauh.
 # Link displayed in the Setup page that leads to MDN page with list of supported devices.
@@ -116,7 +116,7 @@ about-debugging-network-locations-empty-text = Belum ada lokasi jaringan yang di
 # Text of the label for the text input that allows users to add new network locations in
 # the Connect page. A host is a hostname and a port separated by a colon, as suggested by
 # the input's placeholder "localhost:6080".
-about-debugging-network-locations-host-input-label = Inang
+about-debugging-network-locations-host-input-label = Host
 # Text of a button displayed next to existing network locations in the Connect page.
 # Clicking on it removes the network location from the list.
 about-debugging-network-locations-remove-button = Hapus
@@ -206,7 +206,7 @@ about-debugging-extension-id =
 # to a service worker.
 # Notes, this relates to the "Push" API, which is normally not localized so it is
 # probably better to not localize it.
-about-debugging-worker-action-push = Dorong
+about-debugging-worker-action-push = Push
 # This string is displayed as a label of the button that starts a service worker.
 about-debugging-worker-action-start = Mulai
 # This string is displayed as a label of the button that unregisters a service worker.
