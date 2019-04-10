@@ -33,11 +33,15 @@ about-telemetry-simple-measurements-section = Mesiraziuns simplas
 about-telemetry-slow-sql-section = Statements da SQL plauns
 about-telemetry-addon-details-section = Detagls dal supplement
 about-telemetry-captured-stacks-section = Stacks Registrads
+about-telemetry-late-writes-section = Inscripziuns retardadas
 about-telemetry-raw-payload-section = Cuntegn betg elavurà
 about-telemetry-raw = JSON brut
 about-telemetry-full-sql-warning = REMARTGA: Il debugging da SQL plaun è activà. Eventualmain vegnan entirs strings da SQL mussads sutvart. Quels na vegnan dentant betg tramess a Telemetry.
 about-telemetry-fetch-stack-symbols = Retschaiver ils nums da funcziuns per ils stacks
 about-telemetry-hide-stack-symbols = Mussar las datas bruttas dal stack
+# Variables:
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+about-telemetry-page-subtitle = Questa pagina mussa datas davart la prestaziun, la hardware, l'utilisaziun ed la persunalisaziun rimnadas da la telemetria. Questa infurmaziun vegn tramessa a { $telemetryServerOwner } per meglierar { -brand-full-name }.
 # Variables:
 #   $searchTerms (String): the searched terms
 about-telemetry-no-search-results-all = Perstgisa! Nagins resultats per «{ $searchTerms }» en tut las secziuns.
@@ -57,6 +61,9 @@ about-telemetry-slow-sql-statement = Statement
 #   $stackKey (String): the string key for this stack
 #   $capturedStacksCount (Integer):  the number of times this stack was captured
 about-telemetry-captured-stacks-title = { $stackKey } (dumber da captures: { $capturedStacksCount })
+# Variables:
+#   $lateWriteCount (Integer): the number of the late writes
+about-telemetry-late-writes-title = Inscripziun retardada #{ $lateWriteCount }
 about-telemetry-stack-title = Stack:
 about-telemetry-memory-map-title = Diagram da la memoria:
 about-telemetry-error-fetching-symbols = Ina errur è capitada cun retschaiver ils simbols. Controllescha che ti es connectà cun l'internet ed emprova anc ina giada.
