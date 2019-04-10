@@ -2,6 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+about-telemetry-histograms-section = { "  " }હિસ્ટોગ્રામ
+about-telemetry-simple-measurements-section = { "  " }સાદા માપન
+about-telemetry-addon-details-section = { "  " }ઍડ-ઑન વિગતો
+about-telemetry-late-writes-section = { "  " }અંતમાં લખે છે
+about-telemetry-full-sql-warning = { "  " }નોંધ: ધીમુ SQL ડિબગીંગ સક્રિય થયેલ છે. સંપૂર્ણ SQL શબ્દમાળાઓ એ નીચે દર્શાવી શકાય છે પરંતુ તેઓ ટેલીમેટ્રીમાં સમાવશે નહિં.
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = This page shows the information about performance, hardware, usage and customizations collected by Telemetry. This information is submitted to { $telemetryServerOwner } to help improve { -brand-full-name }.
