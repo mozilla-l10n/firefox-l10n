@@ -2,7 +2,34 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+about-telemetry-ping-data-source = Ping izvora podataka:
+about-telemetry-show-current-ping-data = Trenutni ping podaci
+about-telemetry-show-archived-ping-data = Arhivirani ping podaci
+about-telemetry-show-subsession-data = Prikaži podatke podsesije
+about-telemetry-choose-ping = Odaberi ping:
+about-telemetry-archive-ping-type = Vrsta pinga
+about-telemetry-archive-ping-header = Ping
+about-telemetry-option-group-today = Danas
+about-telemetry-option-group-yesterday = Jučer
+about-telemetry-option-group-older = Starije
+about-telemetry-previous-ping = <<
+about-telemetry-next-ping = >>
 about-telemetry-page-title = Telemetrija
+about-telemetry-show-in-Firefox-json-viewer = Otvori u JSON pregledniku
+about-telemetry-home-section = Početna stranica
+about-telemetry-general-data-section =   Opći podaci
+about-telemetry-environment-data-section = { "  " }Podaci okruženja
+about-telemetry-session-info-section = { "  " }Informacije o sesiji
+about-telemetry-scalar-section = { "  " }skalari
+about-telemetry-keyed-scalar-section = { "  " }skalari s ključem
+about-telemetry-histograms-section = { "  " }Histogrami
+about-telemetry-keyed-histogram-section =   Histogrami s ključem
+about-telemetry-events-section = { "  " }događaji
+about-telemetry-simple-measurements-section = { "  " }Jednostavna mjerenja
+about-telemetry-slow-sql-section = { "  " }Spori SQL upiti
+about-telemetry-addon-details-section = { "  " }Detalji dodatka
+about-telemetry-captured-stacks-section = { "  " }uhvaćeni stogovi
+about-telemetry-late-writes-section = { "  " }Zakašnjela zapisivanja
 about-telemetry-raw = Neobrađeni JSON
 about-telemetry-full-sql-warning = { "  " }NAPOMENA: Detaljno praćenje sporih SQL upita je uključeno. Potpuni SQL upiti mogu biti prikazani ispod, međutim oni neće biti poslali Telemetriji.
 about-telemetry-fetch-stack-symbols = { "  " }Prikupi imena funkcija za stogove
