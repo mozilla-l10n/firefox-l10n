@@ -6,6 +6,7 @@ about-config-warning-text = La modification de ces préférences avancées peut 
 about-config-warning-checkbox = Me le rappeler la prochaine fois
 about-config-warning-button = Je prends le risque
 about-config-title = about:config
+about-config2-title = Configurations avancées
 about-config-search-input =
     .placeholder = Rechercher
 about-config-show-all = Tout afficher

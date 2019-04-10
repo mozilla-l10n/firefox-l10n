@@ -64,6 +64,7 @@ policy-OverrideFirstRunPage = Contrôle la page de premier démarrage. Laissez c
 policy-OverridePostUpdatePage = Contrôle la page « Nouveautés » après une mise à jour. Laissez cette règle vide pour désactiver la page après mise à jour.
 policy-Permissions = Configure les permissions pour la caméra, le microphone, la localisation et les notifications.
 policy-PopupBlocking = Autorise certains sites web à afficher des popups par défaut.
+policy-Preferences = Définit et verrouille la valeur d’un sous-ensemble de préférences.
 policy-Proxy = Configure les paramètres du proxy.
 policy-RequestedLocales = Définit la liste des locales demandées par l’application, dans l’ordre de préférence.
 policy-SanitizeOnShutdown = Supprime toutes les données de navigation à la fermeture.
