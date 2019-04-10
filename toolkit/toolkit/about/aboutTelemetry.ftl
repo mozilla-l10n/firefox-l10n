@@ -27,3 +27,7 @@ about-telemetry-late-writes-title = Sen skrivning #{ $lateWriteCount }
 about-telemetry-stack-title = Stack:
 about-telemetry-memory-map-title = Minneskarta:
 about-telemetry-error-fetching-symbols = Ett fel uppstod vid hämtning av symboler. Kontrollera att du är ansluten till internet och försök igen.
+about-telemetry-category-header = kategori
+about-telemetry-method-header = metod
+about-telemetry-object-header = objekt
+about-telemetry-extra-header = extra
