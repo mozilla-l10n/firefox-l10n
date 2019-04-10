@@ -95,7 +95,7 @@ about-telemetry-telemetry-ping-type-all = सभी
 # button label to copy the histogram
 about-telemetry-histogram-copy = नक़ल करें
 # these strings are used in the “Slow SQL Statements” section
-about-telemetry-slow-sql-main = { " " }धीरे sql निवेदन मुख्य क्रम पर{ " " }
+about-telemetry-slow-sql-main = }धीरे sql निवेदन मुख्य क्रम पर
 about-telemetry-slow-sql-other = धीरे sql निवेदन सहायक क्रम पर
 about-telemetry-slow-sql-hits = हिट्स
 about-telemetry-slow-sql-average = औसत समय (मिलीसेकंड)
@@ -118,7 +118,7 @@ about-telemetry-captured-stacks-title = { $stackKey } (कैप्चर सं
 about-telemetry-late-writes-title = विलंब लेखन #{ $lateWriteCount }
 about-telemetry-stack-title = ढेरी
 about-telemetry-memory-map-title = स्मृति मानचित्र
-about-telemetry-error-fetching-symbols = { " " }एक त्रुटि हुई प्रतीक पाने वक्त . जाँचें जुडे हुए है इन्टरनेट से और फिर से कोशिश करे.
+about-telemetry-error-fetching-symbols = एक त्रुटि हुई प्रतीक पाने वक्त . जाँचें जुडे हुए है इन्टरनेट से और फिर से कोशिश करे.
 about-telemetry-time-stamp-header = समय-चिह्न
 about-telemetry-category-header = श्रेणी
 about-telemetry-method-header = विधि
