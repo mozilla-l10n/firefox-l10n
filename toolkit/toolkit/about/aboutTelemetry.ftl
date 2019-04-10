@@ -42,6 +42,21 @@ about-telemetry-filter-placeholder =
     .placeholder = { $selectedTitle } এ খুঁজুন
 about-telemetry-filter-all-placeholder =
     .placeholder = সব বিভাগে খুঁজুন
+# Variables:
+#   $searchTerms (String): the searched terms
+about-telemetry-results-for-search = "{ $searchTerms }" এর ফলাফল
+# More info about it can be found here: https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
+# Variables:
+#   $sectionName (String): the section name from the structure of the ping.
+#   $currentSearchText (String): the current text in the search input
+about-telemetry-no-search-results = দুঃখিত! "{ $currentSearchText }" এর জন্য { $sectionName } এ কোন ফলাফল নেই
+# Variables:
+#   $searchTerms (String): the searched terms
+about-telemetry-no-search-results-all = দুঃখিত! "{ $searchTerms }" এর জন্য কোনও বিভাগে কোন ফলাফল নেই
+# This message is displayed when a section is empty.
+# Variables:
+#   $sectionName (String): is replaced by the section name.
+about-telemetry-no-data-to-display = দুঃখিত! বর্তমানে "{ $sectionName }" এ কোন ডেটা উপলব্ধ নেই
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-ping-sidebar = বর্তমান পিং
 # used in the “Ping Type” select
