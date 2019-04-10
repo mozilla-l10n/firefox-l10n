@@ -8,7 +8,7 @@ about-telemetry-choose-ping = Nɨzede ping:
 about-telemetry-archive-ping-header = Ping
 about-telemetry-page-title = Ráanɨaɨ Telemetry
 about-telemetry-general-data-section = Nána ráanɨaɨ
-about-telemetry-environment-data-section = { " " }Íyano ráanɨaɨ
+about-telemetry-environment-data-section = Íyano ráanɨaɨ
 about-telemetry-session-info-section = Ráfue bíe taɨnia
 about-telemetry-raw = JSON fɨnoñega
 # button label to copy the histogram
