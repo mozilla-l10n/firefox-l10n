@@ -21,7 +21,7 @@ about-telemetry-slow-sql-main = मुखेल थ्रेडार ल्ह�
 about-telemetry-slow-sql-other = मदत थ्रेडार ल्हव SQL स्टेटमेंट्स
 about-telemetry-slow-sql-hits = हिट्स
 about-telemetry-slow-sql-average = सरासर वेळ (ms)
-about-telemetry-slow-sql-statement = स्टेटमेंट{ "  " }
+about-telemetry-slow-sql-statement = स्टेटमेंट
 # these strings are used in the “Add-on Details” section
 about-telemetry-addon-table-id = अॅड-ऑन ID
 about-telemetry-addon-table-details = विवरण
