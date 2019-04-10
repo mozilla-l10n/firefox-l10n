@@ -54,7 +54,7 @@ about-debugging-sidebar-item-connect-button-connection-failed = Forbindelse misl
 
 # Text displayed in connection warning on sidebar item of the runtime when connecting to
 # the runtime is taking too much time.
-about-debugging-sidebar-item-connect-button-connection-not-responding = Forbindelsen venter stadig på at blive oprettet. Undersøg beskeder i mål-browseren
+about-debugging-sidebar-item-connect-button-connection-not-responding = Forbindelsen venter stadig på at blive oprettet. Kontrollér eventuelle meddelelser i mål-browseren
 
 # Temporary text displayed in sidebar items representing remote runtimes after
 # successfully connecting to them. Temporary UI, do not localize.
@@ -132,13 +132,13 @@ about-debugging-setup-usb-status-disabled = Deaktiveret
 about-debugging-setup-usb-status-updating = Opdaterer…
 
 # USB section step by step guide
-about-debugging-setup-usb-step-enable-dev-menu = Aktiver udvikler-menuen på din Android-enhed <a>Læs mere</a>
+about-debugging-setup-usb-step-enable-dev-menu = Aktiver udvikler-menuen på din Android-enhed. <a>Læs mere</a>
 
 # USB section step by step guide
-about-debugging-setup-usb-step-enable-debug = Aktiver USB-debugging i udvikler-menuen på Android-enheden <a>Læs mere</a>
+about-debugging-setup-usb-step-enable-debug = Aktiver USB-debugging i udvikler-menuen på Android-enheden. <a>Læs mere</a>
 
 # USB section step by step guide
-about-debugging-setup-usb-step-enable-debug-firefox = Aktiver USB-debugging i Firefox pøå Android-enheden <a>Læs mere</a>
+about-debugging-setup-usb-step-enable-debug-firefox = Aktiver USB-debugging i Firefox på Android-enheden. <a>Læs mere</a>
 
 # USB section step by step guide
 about-debugging-setup-usb-step-plug-device = Opret forbindelse til Android-enheden på din computer.
@@ -206,7 +206,7 @@ about-debugging-runtime-profile-button = Profilér runtime
 # This string is displayed in the runtime page if the current configuration of the
 # target runtime is incompatible with service workers. "Learn more" points to MDN.
 # https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
-about-debugging-runtime-service-workers-not-compatible = Din browser-opsætning er ikke kompatibel med service-workers <a>Læs mere</a>
+about-debugging-runtime-service-workers-not-compatible = Din browser-opsætning er ikke kompatibel med service-workers. <a>Læs mere</a>
 
 # This string is displayed in the runtime page if the remote runtime version is too old.
 # "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/WebIDE/Troubleshooting
