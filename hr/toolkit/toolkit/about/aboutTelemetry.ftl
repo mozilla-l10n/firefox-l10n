@@ -37,17 +37,56 @@ about-telemetry-hide-stack-symbols = Prikaži sirove podatke stogova
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = Ova stranica prikazuje informacije o perfomansama, hardveru, korištenju i podešenjima prikupljenim od Telemetrije. Ovi podaci se šalju u { $telemetryServerOwner } kako bi pomogli u unapređenju { -brand-full-name }.
+# Variables:
+#   $name (String): ping name, e.g. “saved-session”
+#   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
+about-telemetry-ping-details = Svaki dio informacije je poslan u paketu s “<a data-l10n-name="ping-link">pingovi</a>”. Gledate na { $name }, { $timestamp } ping.
 about-telemetry-ping-details-current = Svaki dio informacije je poslan u paketu s “<a data-l10n-name="ping-link">pingovi</a>“. Gledate na trenutno ping.
+# string used as a placeholder for the search field
+# More info about it can be found here:
+# https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
+# Variables:
+#   $selectedTitle (String): the section name from the structure of the ping.
+about-telemetry-filter-placeholder =
+    .placeholder = Pronađi u { $selectedTitle }
+about-telemetry-filter-all-placeholder =
+    .placeholder = Pronađi u svim odjeljcima
+# Variables:
+#   $searchTerms (String): the searched terms
+about-telemetry-results-for-search = Rezultati za “{ $searchTerms }”
+# More info about it can be found here: https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
+# Variables:
+#   $sectionName (String): the section name from the structure of the ping.
+#   $currentSearchText (String): the current text in the search input
+about-telemetry-no-search-results = Nema rezultata u { $sectionName } za “{ $currentSearchText }”
+# Variables:
+#   $searchTerms (String): the searched terms
+about-telemetry-no-search-results-all = Nema rezultata u bilo kojem odjeljku za “{ $searchTerms }”
+# This message is displayed when a section is empty.
+# Variables:
+#   $sectionName (String): is replaced by the section name.
+about-telemetry-no-data-to-display = “{ $sectionName }” trenutno nema dostupnih podataka
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-ping-sidebar = trenutni ping
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = svi
+# button label to copy the histogram
+about-telemetry-histogram-copy = Kopiraj
 # these strings are used in the “Slow SQL Statements” section
 about-telemetry-slow-sql-main = Spori SQL upiti na glavnoj niti
 about-telemetry-slow-sql-other = Spori SQL upiti na pomoćnim nitima
 about-telemetry-slow-sql-hits = Pogoci
 about-telemetry-slow-sql-average = Pros. vrijeme (ms)
 about-telemetry-slow-sql-statement = Upit
+# these strings are used in the “Add-on Details” section
+about-telemetry-addon-table-id = ID dodatka
+about-telemetry-addon-table-details = Detalji
+# Variables:
+#   $addonProvider (String): the name of an Add-on Provider (e.g. “XPI”, “Plugin”)
+about-telemetry-addon-provider = { $addonProvider } pružatelj usluge
+about-telemetry-keys-header = Svojstvo
+about-telemetry-names-header = Naziv
+about-telemetry-values-header = Vrijednost
 # Variables:
 #   $stackKey (String): the string key for this stack
 #   $capturedStacksCount (Integer):  the number of times this stack was captured
