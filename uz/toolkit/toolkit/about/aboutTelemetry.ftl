@@ -2,12 +2,24 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+about-telemetry-ping-data-source = Ping ma’lumotlar markazi:
+about-telemetry-show-current-ping-data = Joriy ping ma’lumotlari
+about-telemetry-show-archived-ping-data = Arxivlangan ping ma’lumotlari
+about-telemetry-show-subsession-data = Quyi seans ma’lumotlarini ko‘rsatish
+about-telemetry-choose-ping = Ping’ni tanlash:
+about-telemetry-archive-ping-header = Ping
 about-telemetry-page-title = Telemetiya ma`lumotlari
+about-telemetry-general-data-section =   Umumiy ma’lumot
+about-telemetry-environment-data-section = Muhit ma’lumotlari
+about-telemetry-session-info-section = Tizim ma’lumoti
+about-telemetry-scalar-section = Skalyarlar
 about-telemetry-histograms-section = Gistogrammalar
+about-telemetry-keyed-histogram-section =   Kalitlangan gistogrammarl
 about-telemetry-simple-measurements-section = Oddiy oʻlchamlar
 about-telemetry-slow-sql-section = Sekin SQL ma`lumotlari
 about-telemetry-addon-details-section = Qoʻchimcha dastur ma`lumotlari
 about-telemetry-late-writes-section = Soʻnggi yozuvlar
+about-telemetry-raw = JSON qatori
 about-telemetry-full-sql-warning = NOTE: Sekin SQL nosozlikni hal qilish - yoqilgan. Toʻliq SQL qatorlari pastda ko‘rsatilishi mumkin, ammo ular telemetriyaga joʻnatilmaydi.
 # button label to copy the histogram
 about-telemetry-histogram-copy = Nusxa olish
