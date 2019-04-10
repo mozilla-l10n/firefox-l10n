@@ -9,6 +9,9 @@ about-telemetry-slow-sql-other = Slow SQL Statements on Helper Threads
 about-telemetry-slow-sql-hits = Hits
 about-telemetry-slow-sql-average = Avg. Time (ms)
 about-telemetry-slow-sql-statement = Statement
+# Variables:
+#   $lateWriteCount (Integer): the number of the late writes
+about-telemetry-late-writes-title = Gec Yazı #{ $lateWriteCount }
 about-telemetry-stack-title = Stack:
 about-telemetry-memory-map-title = Memory map:
 about-telemetry-error-fetching-symbols = An error occurred while fetching symbols. Check that you are connected to the Internet and try again.
