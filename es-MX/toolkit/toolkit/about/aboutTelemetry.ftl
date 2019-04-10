@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+about-telemetry-ping-data-source = Origen de los datos de ping:
+about-telemetry-general-data-section =   Datos generales
+about-telemetry-environment-data-section = Entorno de Datos
 about-telemetry-slow-sql-section = Sentencias SQL lentas
 about-telemetry-late-writes-section = Escrituras demoradas
 about-telemetry-full-sql-warning = NOTA: la depuración SQL lenta está activada. Pueden motrarse cadenas completas de SQL pero no se enviarán a Telemetry.
