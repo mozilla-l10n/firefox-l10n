@@ -2,7 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+about-telemetry-ping-data-source = പിങ് ഡാറ്റയുടെ ശ്രോതസ്സ്
+about-telemetry-show-current-ping-data = ഇപ്പോഴത്തെ പിങ് ഡാറ്റ
+about-telemetry-show-archived-ping-data = ശേഖരിച്ചുവെക്കപ്പെട്ട പിങ് ഡാറ്റ
+about-telemetry-show-subsession-data = സബ്മിഷൻ ഡാറ്റ കാണിക്കുക
+about-telemetry-choose-ping = പിങ് തിരഞ്ഞെടുക്കുക:
+about-telemetry-archive-ping-header = പിങ്
 about-telemetry-histograms-section = ഹിസ്റ്റോഗ്രാം
+about-telemetry-keyed-histogram-section =   കീഡ് ഹിസ്റ്റോഗ്രാമുകൾ
 about-telemetry-simple-measurements-section = ലളിതമായ അളവുകള്‍
 about-telemetry-addon-details-section = ആഡ്-ഓണ്‍ വിവരങ്ങള്‍
 about-telemetry-late-writes-section = ലേറ്റ് റൈറ്റുകള്‍
