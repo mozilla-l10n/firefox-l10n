@@ -10,6 +10,21 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
+policy-3rdparty = Īstota politikas, ar kaidom WebExtensions var pīzaslēgt ar chrome.storage.managed.
+policy-AppUpdateURL = Īstota dalāgōtu atjaunōšonys adresi.
+policy-Authentication = Īstota integrātu autentifikaceji lopom, kas tū atbolsta.
+policy-BlockAboutAddons = Bloķej pīkļivi papyldynojumu porvaļdnīkam (about:addons).
+policy-BlockAboutConfig = Bloķej pīkļivi lopai about:config.
+policy-BlockAboutProfiles = Bloķej pīkļivi lopai about:profiles.
+policy-BlockAboutSupport = Bloķej pīkļivi lopai about:support.
+policy-Bookmarks = Taisa grōmotzeimes grōmotzeimu reikjūslā, grōmotzeimu izvēlnē voi kaidā mapē itymōs vītōs.
+policy-CaptivePortal = Īstota voi atslādz portvieriejportala atbolstu.
+policy-CertificatesDescription = Pīvīnoj sertifikatus voi izmontoj ībyuvietūs sertifikatus.
+policy-Cookies = Atļaun voi aizlīdz lopom īstatēt seikdatnes.
+policy-DisableAppUpdate = Aizlīdz porlyuka atjauninōšonu.
+policy-DisableBuiltinPDFViewer = Atslādz PDF.js, { -brand-short-name } ībyuvietū PDF skatietōji.
+policy-DisableDeveloperTools = Bloķej pīeji izstrōdōtōju reikim.
+policy-DisableFeedbackCommands = Atslādz komandas, kas var aizsyutēt atsauksmes nu Paleidzeibas izvēlnes (Syutēt atsauksmi un Ziņōt par krōpnīku lopu).
 policy-DisableTelemetry = Atslādz telemetriju.
 policy-DisplayBookmarksToolbar = Pec nūklusejuma rōda grōmotzeimu jūslu.
 policy-DisplayMenuBar = Pec nūklusejuma rōda izvielņu jūslu.
