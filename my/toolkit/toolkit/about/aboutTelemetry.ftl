@@ -16,11 +16,14 @@ about-telemetry-scalar-section =
       
       Scalars
       
+about-telemetry-keyed-scalar-section = Keyed Scalars
 about-telemetry-histograms-section = Histograms
 about-telemetry-keyed-histogram-section = ကီးများဖြင့် ဇယားကွက်
+about-telemetry-events-section = Events
 about-telemetry-simple-measurements-section = ရိုးရှင်းသော တိုင်းတာချက်များ
 about-telemetry-slow-sql-section = Slow SQL Statements
 about-telemetry-addon-details-section = Add-on Details
+about-telemetry-captured-stacks-section = Captured Stacks
 about-telemetry-late-writes-section = နောက်ကျသောရေးသားချက်
 about-telemetry-raw = JSON အကြမ်းထည်
 about-telemetry-full-sql-warning = NOTE: Slow SQL debugging is enabled. Full SQL strings may be displayed below but they will not be submitted to Telemetry.
@@ -56,3 +59,8 @@ about-telemetry-late-writes-title = Late Write #{ $lateWriteCount }
 about-telemetry-stack-title = Stack:
 about-telemetry-memory-map-title = Memory map:
 about-telemetry-error-fetching-symbols = သင်္ကေတများအားရယူနေစဉ် ပြတ်တောက်သွားသှ်။ အင်တာနက်သို့ချိတ်ဆက်မှူအား စစ်ဆေးကြည့်ပါရန်။
+about-telemetry-time-stamp-header = timestamp
+about-telemetry-category-header = ကဏ္ဍ
+about-telemetry-method-header = နည်းလမ်း
+about-telemetry-object-header = အရာ
+about-telemetry-extra-header = အပို
