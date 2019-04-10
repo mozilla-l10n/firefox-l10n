@@ -56,6 +56,20 @@ about-telemetry-upload-type =
         [enabled] galluogwyd
        *[disabled] analluogwyd
     }
+# Example Output: 1 sample, average = 0, sum = 0
+# Variables:
+#   $sampleCount (Integer): amount of histogram samples
+#   $prettyAverage (Integer): average of histogram samples
+#   $sum (Integer): sum of histogram samples
+about-telemetry-histogram-stats =
+    { $sampleCount ->
+        [zero] { $sampleCount } sampl, cyfartaledd= { $prettyAverage }, swm = { $sum }
+        [one] { $sampleCount } sampl, cyfartaledd= { $prettyAverage }, swm = { $sum }
+        [two] { $sampleCount } sampl, cyfartaledd= { $prettyAverage }, swm = { $sum }
+        [few] { $sampleCount } sampl, cyfartaledd= { $prettyAverage }, swm = { $sum }
+        [many] { $sampleCount } sampl, cyfartaledd= { $prettyAverage }, swm = { $sum }
+       *[other] { $sampleCount } sampl, cyfartaledd= { $prettyAverage }, swm = { $sum }
+    }
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = Mae'r dudalen hon yn dangos gwybodaeth am berfformiad, caledwedd, defnydd a chyfaddasiadau a gasglwyd gan y Delemetreg. Mae'r wybodaeth yn cael ei gyflwyno i { $telemetryServerOwner } er mwyn gwella { -brand-full-name }.
@@ -125,3 +139,9 @@ about-telemetry-category-header = categori
 about-telemetry-method-header = dull
 about-telemetry-object-header = gwrthrych
 about-telemetry-extra-header = ychwanegol
+about-telemetry-origin-section = Telemetreg y Tarddiad
+about-telemetry-origin-origin = tarddiad
+about-telemetry-origin-count = cyfrif
+# Variables:
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+about-telemetry-origins-explanation = Mae <a data-l10n-name="origin-doc-link">Firefox Origin Telemetry</a> yn amgodio data cyn iddo gael ei anfon fel bod { $telemetryServerOwner } yn gallu cyfrif pethau, ond heb wybod a yw { -brand-product-name } wedi cyfrannu i'r cyfrif hwnnw. (<a data-l10n-name="prio-blog-link">Dysgu rhagor</a>)
