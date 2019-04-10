@@ -6,16 +6,62 @@ about-telemetry-show-current-ping-data =
     { "" }
     נתוני הפינג הנוכחיים
     { "" }
+about-telemetry-choose-ping =
+    { "" }
+    בחירת פינג:
+    { "" }
+about-telemetry-archive-ping-header =
+    { "" }
+    פינג
+    { "" }
+about-telemetry-option-group-today =
+    { "" }
+    היום
+    { "" }
+about-telemetry-option-group-yesterday =
+    { "" }
+    אתמול
+    { "" }
+about-telemetry-option-group-older =
+    { "" }
+    ישן יותר
+    { "" }
 about-telemetry-previous-ping = <<
 about-telemetry-next-ping = >>
+about-telemetry-page-title = נתוני Telemetry
+about-telemetry-more-information = בחיפוש אחר מידע נוסף?
 about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">תיעוד הנתונים של Firefox</a> מכיל מדריכים על אופן העבודה עם כלי הנתונים שלנו.
 about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">תיעוד הלקוח של Firefox Telemetry</a> כולל הגדרות לשיטות, תיעוד API והפניות למידע.
+about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">לוחות הבקרה של Telemetry</a> מאפשרים לך לראות באופן חזותי את הנתונים ש־Mozilla מקבלת דרך Telemetry.
+about-telemetry-show-in-Firefox-json-viewer = פתיחה במציג ה־JSON
+about-telemetry-home-section = בית
+about-telemetry-general-data-section = { "  " }מידע כללי
+about-telemetry-environment-data-section =
+    { "" }
+      נתונים סביבתיים
+    { "" }
+about-telemetry-session-info-section =
+    { "" }
+      פרטי הפעלה
+    { "" }
+about-telemetry-histograms-section = { "  " }היסטוגרמות
+about-telemetry-keyed-histogram-section = { "  " }היסטוגרמות ממופתחות
+about-telemetry-events-section =
+    { "" }
+      אירועים
+    { "" }
+about-telemetry-simple-measurements-section = { "  " }מדדים פשוטים
+about-telemetry-slow-sql-section = { "  " }משפטי SQL איטיים
+about-telemetry-addon-details-section = { "  " }פרטי תוספת
+about-telemetry-captured-stacks-section = מחסניות שנלכדו
+about-telemetry-late-writes-section = { "  " }כתיבה מאוחרת
 about-telemetry-raw-payload-section = מטען גולמי
 about-telemetry-raw =
     { "" }
     JSON גולמי
     { "" }
 about-telemetry-full-sql-warning = { "  " }הערה: ניפוי שגיאות עבור משפטי SQL איטיים פעילה. מחרוזות SQL מלאות אמנם יוצגו, אבל הן לא תישלחנה אל Telemetry.
+about-telemetry-hide-stack-symbols = הצגת נתוני מחסנית גולמיים
 # Selects the correct release version
 # Variables:
 #   $channel (String): represents the corresponding release data string
@@ -35,6 +81,13 @@ about-telemetry-upload-type =
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = עמוד זה מציג מידע על ביצועים, חומרה, שימוש והתאמות אישיות כפי שנאספו על ידי Telemetry. מידע זה נשלח אל { $telemetryServerOwner } כדי לסייע בשיפור { -brand-full-name }.
+# string used as a placeholder for the search field
+# More info about it can be found here:
+# https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
+# Variables:
+#   $selectedTitle (String): the section name from the structure of the ping.
+about-telemetry-filter-placeholder =
+    .placeholder = חיפוש תחת { $selectedTitle }
 about-telemetry-filter-all-placeholder =
     .placeholder = חיפוש בכל הסעיפים
 # Variables:
@@ -54,12 +107,23 @@ about-telemetry-no-search-results-all = מצטערים! אין תוצאות בכ
 about-telemetry-no-data-to-display = מצטערים! כרגע אין נתונים זמינים ב־“{ $sectionName }”
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = הכל
+# button label to copy the histogram
+about-telemetry-histogram-copy = העתקה
 # these strings are used in the “Slow SQL Statements” section
 about-telemetry-slow-sql-main = פקודות SQL אטיות בתהליכון הראשי
 about-telemetry-slow-sql-other = פקודות SQL אטיות בתהליכוני העזר
 about-telemetry-slow-sql-hits = תוצאות
 about-telemetry-slow-sql-average = זמן ממוצע (מ״ש)
 about-telemetry-slow-sql-statement = פקודה
+# these strings are used in the “Add-on Details” section
+about-telemetry-addon-table-id = מזהה תוספת
+about-telemetry-addon-table-details = פרטים
+# Variables:
+#   $addonProvider (String): the name of an Add-on Provider (e.g. “XPI”, “Plugin”)
+about-telemetry-addon-provider = ספק { $addonProvider }
+about-telemetry-keys-header = מאפיין
+about-telemetry-names-header = שם
+about-telemetry-values-header = ערך
 # Variables:
 #   $stackKey (String): the string key for this stack
 #   $capturedStacksCount (Integer):  the number of times this stack was captured
