@@ -2,6 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+about-telemetry-ping-data-source = పింగ్ డేటా మూలం :
+about-telemetry-show-current-ping-data = ప్రస్తుత పింగ్ డేటా
+about-telemetry-show-subsession-data = ఉప సెషన్ డేటా చూపించు
+about-telemetry-choose-ping = పింగ్ ఎంచుకోండి:
 about-telemetry-keyed-scalar-section = Keyed Scalars
 about-telemetry-events-section = చర్యలు
 about-telemetry-addon-details-section = పొడిగింత వివరాలు
