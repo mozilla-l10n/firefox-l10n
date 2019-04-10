@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+about-telemetry-slow-sql-section = Trege SQL-uttrykk
+about-telemetry-late-writes-section = Sein skriving
+about-telemetry-full-sql-warning = MERK: Treg SQL-feilsøking er påslått. Fullstendige SQL-uttrykk kan visast nedanfor, men dei vert ikkje sendt inn til Telemetry.
 # these strings are used in the “Slow SQL Statements” section
 about-telemetry-slow-sql-main = Trege SQL-uttrykk på hovudtråden
 about-telemetry-slow-sql-other = Trege SQL-uttrykk på hjelpetrådar
@@ -14,3 +17,4 @@ about-telemetry-late-writes-title = Sein skriving #{ $lateWriteCount }
 about-telemetry-stack-title = Stakk:
 about-telemetry-memory-map-title = Minnekart:
 about-telemetry-error-fetching-symbols = Ein feil oppstod ved henting av symbol. Kontroller at du er tilkopla Internett, og prøv igjen.
+about-telemetry-time-stamp-header = tidsstempel
