@@ -2,6 +2,16 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+about-telemetry-ping-data-source = Ping datakälla:
+about-telemetry-show-current-ping-data = Aktuell ping-data
+about-telemetry-show-archived-ping-data = Arkiverad ping-data
+about-telemetry-show-subsession-data = Visa undersessionsdata
+about-telemetry-choose-ping = Välj ping:
+about-telemetry-general-data-section = Allmän data
+about-telemetry-environment-data-section = Miljödata
+about-telemetry-slow-sql-section = Långsamma SQL-satser
+about-telemetry-late-writes-section = Sena skrivningar
+about-telemetry-full-sql-warning = OBS: Långsam SQL-avlusning är aktiverad. Fullständiga SQL-strängar kan visas nedan men de kommer inte att skickas in av Telemetri.
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = Den här sidan visar information om prestanda, hårdvara, användning och anpassningar insamlad av telemetri. Den här informationen skickas till { $telemetryServerOwner } för att hjälpa till att förbättra { -brand-full-name }.
