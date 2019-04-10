@@ -39,6 +39,14 @@ about-telemetry-raw = कच्चा JSON
 about-telemetry-full-sql-warning = NOTE: ढिलो SQL त्रुटि सच्याउन सक्षम पारिएको छ। पूर्ण SQL स्ट्रिङहरू तल प्रदर्शित हुन सक्छ तर तिनीहरू टेलीमेटरीमा पेश गरिने छैन।
 about-telemetry-fetch-stack-symbols = स्ट्याकहरूको लागि प्रकार्य नाम ल्याउनुहोस्
 about-telemetry-hide-stack-symbols = कच्चा स्ट्याक डाटा देखाउनुहोस्
+# Selects the correct release version
+# Variables:
+#   $channel (String): represents the corresponding release data string
+about-telemetry-data-type =
+    { $channel ->
+        [release] जारी डेटा
+       *[prerelease] पूर्व-जारी डेटा
+    }
 # Selects the correct upload string
 # Variables:
 #   $uploadcase (String): represents a corresponding upload string
@@ -50,6 +58,7 @@ about-telemetry-upload-type =
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = यो पेज टेलीमेटरी सङ्कलन प्रदर्शन, हार्डवेयर, उपयोग र अनुकुल गर्न बारेमा जानकारी देखाउँछ। यो जानकारी { -brand-full-name } सुधार्न { $telemetryServerOwner } पेश छ।
+about-telemetry-settings-explanation = टेलिमेट्री { about-telemetry-data-type } सङ्कलन गरिरहेको छ र अपलोड <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a> छ।
 # Variables:
 #   $name (String): ping name, e.g. “saved-session”
 #   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
