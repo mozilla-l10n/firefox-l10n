@@ -56,6 +56,16 @@ about-telemetry-upload-type =
         [enabled] attivo
        *[disabled] disattivato
     }
+# Example Output: 1 sample, average = 0, sum = 0
+# Variables:
+#   $sampleCount (Integer): amount of histogram samples
+#   $prettyAverage (Integer): average of histogram samples
+#   $sum (Integer): sum of histogram samples
+about-telemetry-histogram-stats =
+    { $sampleCount ->
+        [one] { $sampleCount } campione, media = { $prettyAverage }, totale = { $sum }
+       *[other] { $sampleCount } campioni, media = { $prettyAverage }, totale = { $sum }
+    }
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = In questa pagina sono disponibili i dati relativi alle prestazioni e all’utilizzo delle caratteristiche raccolti dalla telemetria. Queste informazioni vengono inviate a { $telemetryServerOwner } in forma anonima per migliorare { -brand-full-name }.
