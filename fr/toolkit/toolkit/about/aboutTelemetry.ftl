@@ -60,6 +60,11 @@ about-telemetry-filter-all-placeholder =
 # Variables:
 #   $searchTerms (String): the searched terms
 about-telemetry-results-for-search = Résultats pour « { $searchTerms } »
+# More info about it can be found here: https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
+# Variables:
+#   $sectionName (String): the section name from the structure of the ping.
+#   $currentSearchText (String): the current text in the search input
+about-telemetry-no-search-results = Désolé, il n’y a aucun résultat dans { $sectionName } pour « { $currentSearchText } ».
 # Variables:
 #   $searchTerms (String): the searched terms
 about-telemetry-no-search-results-all = Désolé, il n’y a aucun résultat pour « { $searchTerms } » dans les différentes sections
