@@ -15,6 +15,15 @@ about-telemetry-option-group-older = Mais Antigo
 about-telemetry-previous-ping = <<
 about-telemetry-next-ping = >>
 about-telemetry-home-section = Início
+# Selects the correct release version
+# Variables:
+#   $channel (String): represents the corresponding release data string
+about-telemetry-data-type =
+    { $channel ->
+        [release] informações de lançamento
+       *[prerelease] informações de pré-lançamento
+    }
+about-telemetry-settings-explanation = A telemetria está coletando { about-telemetry-data-type } e o envio está <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a>.
 # Variables:
 #   $name (String): ping name, e.g. “saved-session”
 #   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
