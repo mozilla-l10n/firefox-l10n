@@ -35,6 +35,7 @@ about-telemetry-late-writes-section = Penulisan Di Akhir
 about-telemetry-raw-payload-section = Muatan Mentah
 about-telemetry-raw = JSON Mentah
 about-telemetry-full-sql-warning = Catatan: Proses debug SQL diaktifkan. String SQL lengkap mungkin ditampilkan di bawah tetapi tidak akan dikirim ke server Telemetri.
+about-telemetry-fetch-stack-symbols = Ambil nama fungsi untuk stack
 about-telemetry-hide-stack-symbols = Tampilkan tumpukan data mentah
 # Selects the correct release version
 # Variables:
