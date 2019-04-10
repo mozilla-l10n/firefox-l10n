@@ -56,6 +56,16 @@ about-telemetry-upload-type =
         [enabled] engedélyezett
        *[disabled] tiltott
     }
+# Example Output: 1 sample, average = 0, sum = 0
+# Variables:
+#   $sampleCount (Integer): amount of histogram samples
+#   $prettyAverage (Integer): average of histogram samples
+#   $sum (Integer): sum of histogram samples
+about-telemetry-histogram-stats =
+    { $sampleCount ->
+        [one] { $sampleCount } minta, átlag = { $prettyAverage }, összeg = { $sum }
+       *[other] { $sampleCount } minta, átlag = { $prettyAverage }, összeg = { $sum }
+    }
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = Ez az oldal megjeleníti a telemetria által gyűjtött teljesítmény-, hardver-, és funkcióhasználati adatokat és testreszabásokat. Ezek az információk a { $telemetryServerOwner }nak a { -brand-full-name } tökéletesítése érdekében kerülnek elküldésre.
@@ -125,3 +135,6 @@ about-telemetry-category-header = kategória
 about-telemetry-method-header = metódus
 about-telemetry-object-header = objektum
 about-telemetry-extra-header = extra
+about-telemetry-origin-section = Eredettel kapcsolatos telemetria
+about-telemetry-origin-origin = eredet
+about-telemetry-origin-count = darabszám
