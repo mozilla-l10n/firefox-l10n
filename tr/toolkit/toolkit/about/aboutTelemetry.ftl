@@ -40,9 +40,26 @@ about-telemetry-raw = Ham JSON
 about-telemetry-full-sql-warning =    NOT: Yavaş SQL hata ayıklaması etkin durumda. Tam SQL dizgileri aşağıdaki gösterilebilir ama Telemetri'ye gönderilmezler. 
 about-telemetry-fetch-stack-symbols = Yığınların fonksiyon adlarını topla
 about-telemetry-hide-stack-symbols = Ham yığın verilerini göster
+# Selects the correct release version
+# Variables:
+#   $channel (String): represents the corresponding release data string
+about-telemetry-data-type =
+    { $channel ->
+        [release] yayın verilerini
+       *[prerelease] yayın öncesi verileri
+    }
+# Selects the correct upload string
+# Variables:
+#   $uploadcase (String): represents a corresponding upload string
+about-telemetry-upload-type =
+    { $uploadcase ->
+        [enabled] açık
+       *[disabled] kapalı
+    }
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = Bu sayfa; Telemetri tarafından toplanan performans, donanım, kullanım ve özelleştirme bilgilerini gösterir. Bu bilgiler { -brand-full-name } tarayıcısının gelişimine yardımcı olmaları için { $telemetryServerOwner } sunucularına gönderilir.
+about-telemetry-settings-explanation = Telemetry { about-telemetry-data-type } topluyor ve veri gönderimi <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a>.
 # Variables:
 #   $name (String): ping name, e.g. “saved-session”
 #   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
