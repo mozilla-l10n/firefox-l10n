@@ -26,6 +26,7 @@ about-telemetry-telemetry-client-doc =
 about-telemetry-telemetry-dashboard =
     { "" }
     Mae <a data-l10n-name="dashboard-link">byrddau gwaith Telemetreg</a> yn caniatáu i chi weld y data mae Mozilla yn ei dderbyn drwy'r Delemetreg.
+about-telemetry-telemetry-probe-dictionary = Mae'r <a data-l10n-name="probe-dictionary-link">Geiriadur Archwilio</a> yn darparu manylion a disgrifiadau ar gyfer y chwilio gasglwyd gan Delemetreg.
 about-telemetry-show-in-Firefox-json-viewer = Agor yn y darllenydd JSON
 about-telemetry-home-section = Cartref
 about-telemetry-general-data-section = { "  " }Data Cyffredinol
