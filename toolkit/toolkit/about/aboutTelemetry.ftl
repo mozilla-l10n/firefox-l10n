@@ -40,9 +40,26 @@ about-telemetry-raw = Nyers JSON
 about-telemetry-full-sql-warning = { "  " }MEGJEGYZÉS: A lassú SQL hibakeresés be van kapcsolva. Alább megjelenhetnek teljes SQL karakterláncok, de ezek nem kerülnek elküldésre a telemetriának.
 about-telemetry-fetch-stack-symbols = { "  " }Függvénynevek lekérése a vermekhez
 about-telemetry-hide-stack-symbols = { "  " }Nyers veremadatok megjelenítése
+# Selects the correct release version
+# Variables:
+#   $channel (String): represents the corresponding release data string
+about-telemetry-data-type =
+    { $channel ->
+        [release] kiadási adatokat
+       *[prerelease] kiadás előtti adatokat
+    }
+# Selects the correct upload string
+# Variables:
+#   $uploadcase (String): represents a corresponding upload string
+about-telemetry-upload-type =
+    { $uploadcase ->
+        [enabled] engedélyezett
+       *[disabled] tiltott
+    }
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = Ez az oldal megjeleníti a telemetria által gyűjtött teljesítmény-, hardver-, és funkcióhasználati adatokat és testreszabásokat. Ezek az információk a { $telemetryServerOwner }nak a { -brand-full-name } tökéletesítése érdekében kerülnek elküldésre.
+about-telemetry-settings-explanation = A telemetria { about-telemetry-data-type } gyűjt, és a feltöltés <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a>.
 # Variables:
 #   $name (String): ping name, e.g. “saved-session”
 #   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
