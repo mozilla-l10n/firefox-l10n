@@ -21,6 +21,9 @@ about-telemetry-addon-details-section = Qoʻchimcha dastur ma`lumotlari
 about-telemetry-late-writes-section = Soʻnggi yozuvlar
 about-telemetry-raw = JSON qatori
 about-telemetry-full-sql-warning = NOTE: Sekin SQL nosozlikni hal qilish - yoqilgan. Toʻliq SQL qatorlari pastda ko‘rsatilishi mumkin, ammo ular telemetriyaga joʻnatilmaydi.
+# Variables:
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+about-telemetry-page-subtitle = Ushbu sahifa telemetriya tomonidan yigʻilgan moslash va foydalanish, qurilma, ishlash tezligi haqidagi ma`lumotlarni koʻrsatadi. Ushbu ma`lumot  { $telemetryServerOwner }ga { -brand-full-name }ni yaxshilashda yordam berish uchun joʻnatildi.
 # button label to copy the histogram
 about-telemetry-histogram-copy = Nusxa olish
 # these strings are used in the “Slow SQL Statements” section
