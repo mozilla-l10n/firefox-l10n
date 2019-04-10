@@ -56,6 +56,9 @@ about-telemetry-upload-type =
         [enabled] i aktivizuar
        *[disabled] i çaktivizuar
     }
+# Variables:
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+about-telemetry-page-subtitle = Në këtë faqe shfaqen të dhënat e grumbulluara nga Telemetry-a rreth funksionimit, hardware-it, përdorimit dhe përshtatjeve. Këto të dhëna i parashtrohen { $telemetryServerOwner }-it për të ndihmuar në përmirësimin e { -brand-full-name }.
 about-telemetry-settings-explanation = Telemetry-a po grumbullon { about-telemetry-data-type } dhe ngarkimi është <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a>.
 # Variables:
 #   $name (String): ping name, e.g. “saved-session”
