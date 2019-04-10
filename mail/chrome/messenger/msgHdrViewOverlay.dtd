@@ -95,7 +95,7 @@
 
 <!ENTITY openAttachment.tooltip "Het gekoppelde bestand openen">
 
-<!ENTITY detachedAttachmentFolder.show.label        "Bevattende map openen">
+<!ENTITY detachedAttachmentFolder.show.label        "Bijbehorende map openen">
 <!ENTITY detachedAttachmentFolder.show.accesskey    "m">
 <!ENTITY detachedAttachmentFolder.showMac.label     "Tonen in Finder">
 <!ENTITY detachedAttachmentFolder.showMac.accesskey "F">
