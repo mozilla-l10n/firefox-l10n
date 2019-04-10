@@ -41,6 +41,13 @@ about-debugging-sidebar-item-connected-label = Conectado
 # Firefox) has not been detected yet. Typically, Android phones connected via USB with
 # USB debugging enabled, but where Firefox is not started.
 about-debugging-sidebar-runtime-item-waiting-for-browser = Esperando al navegador…
+# Title for runtime sidebar items that are related to a specific device (USB, WiFi).
+about-debugging-sidebar-runtime-item-name =
+    .title = { $displayName }{ $deviceName }
+# Title for runtime sidebar items where we cannot get device information (network
+# locations).
+about-debugging-sidebar-runtime-item-name-no-device =
+    .title = { $displayName }
 # Text to show as the ALT attribute of a help icon that accompanies the help about
 # debugging link in the footer of the sidebar
 about-debugging-sidebar-support-icon =
@@ -69,6 +76,9 @@ about-debugging-setup-usb-updating-button = Actualizando...
 about-debugging-setup-usb-status-enabled = Habilitado
 about-debugging-setup-usb-status-disabled = Deshabilitado
 about-debugging-setup-usb-status-updating = Actualizando...
+# Network section of the Setup page
+about-debugging-setup-network =
+    .title = Ubicación de la red
 # Text of a button displayed after the network locations "Host" input.
 # Clicking on it will add the new network location to the list.
 about-debugging-network-locations-add-button = Agregar
@@ -105,6 +115,10 @@ about-debugging-runtime-other-workers =
 # Title of the processes category.
 about-debugging-runtime-processes =
     .name = Procesos
+# Displayed for runtime info in runtime pages.
+# { $name } is brand name such as "Firefox Nightly"
+# { $version } is version such as "64.0a1"
+about-debugging-runtime-name = { $name } ({ $version })
 # Text of a button displayed in Runtime pages for remote runtimes.
 # Clicking on the button will close the connection to the runtime.
 about-debugging-runtime-disconnect-button = Desconectar
@@ -132,3 +146,6 @@ about-debugging-extension-location =
 about-debugging-worker-action-push = Push
 # This string is displayed as a label of the button that starts a service worker.
 about-debugging-worker-action-start = Iniciar
+# Displayed as name for the Main Process debug target in the Processes category. Only for
+# remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
+about-debugging-main-process-name = Proceso principal
