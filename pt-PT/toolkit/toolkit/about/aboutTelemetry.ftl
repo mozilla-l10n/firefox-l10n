@@ -3,4 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-telemetry-slow-sql-average = Tempo médio (ms)
+about-telemetry-slow-sql-statement = Instrução
+# Variables:
+#   $lateWriteCount (Integer): the number of the late writes
+about-telemetry-late-writes-title = Escrita atrasada #{ $lateWriteCount }
 about-telemetry-memory-map-title = Mapa de memória:
