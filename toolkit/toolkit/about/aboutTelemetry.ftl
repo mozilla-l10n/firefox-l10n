@@ -135,3 +135,7 @@ about-telemetry-category-header = Categoria
 about-telemetry-method-header = Metodo
 about-telemetry-object-header = Oggetto
 about-telemetry-extra-header = Altro
+about-telemetry-origin-section = Telemetria “Origin”
+about-telemetry-origin-origin = origine
+about-telemetry-origin-count = totale
+about-telemetry-origins-explanation = La <a data-l10n-name="origin-doc-link">telemetria “Origin” in Firefox</a> codifica i dati prima dell’invio. In questo modo { $telemetryServerOwner } può effettuare conteggi, ma non può determinare se una specifica istanza di { -brand-product-name } abbia contribuito o meno a quel totale. <a data-l10n-name="prio-blog-link">Ulteriori informazioni</a>.
