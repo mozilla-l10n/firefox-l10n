@@ -56,6 +56,17 @@ about-telemetry-upload-type =
         [enabled] włączone
        *[disabled] wyłączone
     }
+# Example Output: 1 sample, average = 0, sum = 0
+# Variables:
+#   $sampleCount (Integer): amount of histogram samples
+#   $prettyAverage (Integer): average of histogram samples
+#   $sum (Integer): sum of histogram samples
+about-telemetry-histogram-stats =
+    { $sampleCount ->
+        [one] { $sampleCount } próbka, średnia = { $prettyAverage }, suma = { $sum }
+        [few] { $sampleCount } próbki, średnia = { $prettyAverage }, suma = { $sum }
+       *[many] { $sampleCount } próbek, średnia = { $prettyAverage }, suma = { $sum }
+    }
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = Na tej stronie wyświetlane są zebrane informacje o wydajności, charakterystyce sprzętu, wykorzystaniu funkcji i modyfikacjach programu. Informacje te są wysyłane do organizacji { $telemetryServerOwner } w celu ulepszenia programu { -brand-full-name }.
@@ -125,3 +136,9 @@ about-telemetry-category-header = Kategoria
 about-telemetry-method-header = Metoda
 about-telemetry-object-header = Obiekt
 about-telemetry-extra-header = Ekstra
+about-telemetry-origin-section = Telemetria pochodzenia
+about-telemetry-origin-origin = pochodzenie
+about-telemetry-origin-count = liczba
+# Variables:
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link">Telemetria pochodzenia Firefoksa</a> szyfruje dane przed wysłaniem tak, że { $telemetryServerOwner } może policzyć rzeczy, ale nie wie, czy dany { -brand-product-name } dołożył się do tej liczby (<a data-l10n-name="prio-blog-link">Więcej informacji</a>).
