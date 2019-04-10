@@ -41,6 +41,13 @@ about-telemetry-upload-type =
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = یہ صفحہ کارکردگی، ہارڈ ہئر اور تخصیص کاری کی معلومات دکھا رہا ہے جو کہ ٹیلیمیٹری سے جمع کیا گیا ہے۔ یہ معلومات { -brand-full-name } بہتر کرنے کے لیے { $telemetryServerOwner } میں جمع کی گئ ہے۔
+# string used as a placeholder for the search field
+# More info about it can be found here:
+# https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
+# Variables:
+#   $selectedTitle (String): the section name from the structure of the ping.
+about-telemetry-filter-placeholder =
+    .placeholder = { $selectedTitle } میں تلاش کریں
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = تمام
 # button label to copy the histogram
