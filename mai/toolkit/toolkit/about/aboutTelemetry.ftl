@@ -2,8 +2,17 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+about-telemetry-ping-data-source = पिंग आँकड़ा स्रोत:
+about-telemetry-show-current-ping-data = वर्तमान पिंग डेटा
+about-telemetry-show-archived-ping-data = आर्काइव पिंग डेटा
+about-telemetry-show-subsession-data = उपसत्र डेटा देखाबू
+about-telemetry-choose-ping = पिंग चुनू:
+about-telemetry-archive-ping-header = पिंग
 about-telemetry-page-title = दूरमापी आंकड़ा
+about-telemetry-general-data-section =         सामान्य आंकड़ा
+about-telemetry-environment-data-section = वातावरण डाटा
 about-telemetry-histograms-section = आयत छवि
+about-telemetry-keyed-histogram-section = बंद हिस्टोग्राम
 about-telemetry-simple-measurements-section = साधारण माप
 about-telemetry-slow-sql-section = धीमा sql निवेदन
 about-telemetry-addon-details-section =   सहयुक्तिक विवरण
