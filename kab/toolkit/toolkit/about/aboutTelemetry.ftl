@@ -33,6 +33,7 @@ about-telemetry-simple-measurements-section = Iktazalen iḥerfiyen
 about-telemetry-slow-sql-section = Tuţriwin SQL tiẓayanin
 about-telemetry-addon-details-section = Aglam leqqayen n izegrar
 about-telemetry-captured-stacks-section = Tinebdanin ittwaṭfen
+about-telemetry-late-writes-section = Tira tineggura
 about-telemetry-raw-payload-section = Taɛekkemt tarewwayt
 about-telemetry-raw = Izirig JSON
 about-telemetry-full-sql-warning = Tazmilt: Aseɣti n tuttriwin SQL ẓẓayen yermed. Tuttriwin SQL yemden zemrent ad d-waseknent daw-a, acukan ur zmirent ara ad ttwaznent s tilisɣelt.
@@ -70,6 +71,8 @@ about-telemetry-ping-details-current = Yal aḥric seg iḥricen n telγut ad it
 #   $selectedTitle (String): the section name from the structure of the ping.
 about-telemetry-filter-placeholder =
     .placeholder = Af di { $selectedTitle }
+about-telemetry-filter-all-placeholder =
+    .placeholder = Af deg akk tgezmiwin
 # Variables:
 #   $searchTerms (String): the searched terms
 about-telemetry-results-for-search = Igemmaḍ i “{ $searchTerms }”
