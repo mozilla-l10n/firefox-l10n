@@ -77,6 +77,9 @@ detail-version =
 detail-last-updated =
     .label = Sa nagi'iaj nakà rukù nïn't
 detail-contributions-description = Dugui' narirà complementô nan ni achín ni'iaj si da' rugûñu'unjt doj san'anj si da' gi'iaj sun si guendâ nahuin hue'ej doj.
+detail-contributions-button = Rugûñu'unj
+    .title = rugûñu'unj da' ganahuij sa nata' nan
+    .accesskey = C
 detail-update-type =
     .value = Nej sa nagi'iaj nakà ma'an ma'an
 detail-update-default =
@@ -243,6 +246,10 @@ shortcuts-modifier-other = Na'nïnj Ctrl asi Alt
 shortcuts-invalid = Nu narì't nachrun man
 shortcuts-letter = Gachrun 'ngo lêchra
 shortcuts-system = Si ga'ue durêe't 'ngo akseso direkto { -brand-short-name }
+# String displayed when a keyboard shortcut is already used by another add-on
+# Variables:
+#   $addon (string) - Name of the add-on
+shortcuts-exists = Nga arajsun sa gu'nàj { $addon }
 shortcuts-card-expand-button =
     { $numberToShow ->
        *[other] Digân { $numberToShow } Doj
@@ -259,3 +266,20 @@ enable-addon-button = Dugi'iaj sun' man
 expand-addon-button = Doj sa ga'ue nagi'át
 addons-enabled-heading = Ngà 'iaj sunj
 addons-disabled-heading = Nitaj si huáj
+addon-detail-author-label = Sí girirà:
+addon-detail-version-label = Bersiûn
+addon-detail-last-updated-label = Sa nagi'iaj nakà rukù nïn't
+addon-detail-homepage-label = Ñanj ayi'ì'
+addon-detail-rating-label = Antaj nikò guìi araj sun man
+# This string is used to show that an add-on is disabled.
+# Variables:
+#   $name (string) - The name of the add-on
+addon-name-disabled = { $name } (nitaj si 'iaj sunj)
+# The number of reviews that an add-on has received on AMO.
+# Variables:
+#   $numberOfReviews (number) - The number of reviews received
+addon-detail-reviews-link =
+    { $numberOfReviews ->
+        [one] { $numberOfReviews } sa natsij
+       *[other] { $numberOfReviews } nej sa natsij
+    }
