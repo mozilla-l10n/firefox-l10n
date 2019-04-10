@@ -6,6 +6,10 @@ about-telemetry-ping-data-source = Origen de los datos de ping:
 about-telemetry-general-data-section =   Datos generales
 about-telemetry-environment-data-section = { "  " }Entorno de Datos
 about-telemetry-slow-sql-section = { "  " }Sentencias SQL lentas
+about-telemetry-captured-stacks-section =
+    { "" }
+      
+      Pilas capturadas
 about-telemetry-late-writes-section = { "  " }Escrituras demoradas
 about-telemetry-full-sql-warning = { "  " }NOTA: la depuración SQL lenta está activada. Pueden motrarse cadenas completas de SQL pero no se enviarán a Telemetry.
 # Variables:
@@ -23,3 +27,8 @@ about-telemetry-late-writes-title = Escritura demorada #{ $lateWriteCount }
 about-telemetry-stack-title = Pila:
 about-telemetry-memory-map-title = Mapa de memoria:
 about-telemetry-error-fetching-symbols = Ha sucedido un error al recuperar los símbolos. Compruebe que está conectado a Internet y vuelva a intentarlo.
+about-telemetry-time-stamp-header = timestamp
+about-telemetry-category-header = categoría
+about-telemetry-method-header = método
+about-telemetry-object-header = objeto
+about-telemetry-extra-header = extra
