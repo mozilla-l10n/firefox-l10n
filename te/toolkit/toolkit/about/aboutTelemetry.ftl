@@ -6,9 +6,17 @@ about-telemetry-ping-data-source = పింగ్ డేటా మూలం :
 about-telemetry-show-current-ping-data = ప్రస్తుత పింగ్ డేటా
 about-telemetry-show-subsession-data = ఉప సెషన్ డేటా చూపించు
 about-telemetry-choose-ping = పింగ్ ఎంచుకోండి:
+about-telemetry-general-data-section = సాధారణ దత్తాంశం
+about-telemetry-environment-data-section = పర్యావరణ దత్తాంశం
+about-telemetry-scalar-section = స్కేలార్ లు
 about-telemetry-keyed-scalar-section = Keyed Scalars
+about-telemetry-histograms-section = హిస్టోగ్రామ్స్
+about-telemetry-keyed-histogram-section = కీ ఇవ్వబడిన హిస్టోగ్రాములు
 about-telemetry-events-section = చర్యలు
+about-telemetry-simple-measurements-section = మాదిరి కొలతలు
 about-telemetry-addon-details-section = పొడిగింత వివరాలు
+about-telemetry-late-writes-section = లేట్ వ్రైట్స్
+about-telemetry-full-sql-warning = గమనిక: నిదానమైన SQL డీబగ్గింగ్ చేతనమైంది. పూర్తి SQL స్ట్రింగ్స్ కిందన ప్రదర్శించవచ్చు అయితే అవి టెలీమెట్రీకు సమర్పించబడవు.
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = ఈ పేజీ టెలీమెట్రీచే సేకరించబడిన పనితనం, హార్డువేర్, వినియోగం మరియు మలచుకొనే విధానం గురించిన సమాచారం చూపును. ఈ సమాచారం { $telemetryServerOwner } సమర్పించబడింది { -brand-full-name } మెరుగుదలలో సహాయం కొరకు.
