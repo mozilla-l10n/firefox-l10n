@@ -30,6 +30,20 @@ about-telemetry-full-sql-warning = નોંધ: ધીમુ SQL ડિબગ�
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = This page shows the information about performance, hardware, usage and customizations collected by Telemetry. This information is submitted to { $telemetryServerOwner } to help improve { -brand-full-name }.
+# string used as a placeholder for the search field
+# More info about it can be found here:
+# https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
+# Variables:
+#   $selectedTitle (String): the section name from the structure of the ping.
+about-telemetry-filter-placeholder =
+    .placeholder = { $selectedTitle } માં શોધો
+about-telemetry-filter-all-placeholder =
+    .placeholder = બધા વિભાગોમાં શોધો
+# Variables:
+#   $searchTerms (String): the searched terms
+about-telemetry-results-for-search = “{ $searchTerms }” માટે પરિણામો
+# used in the “Ping Type” select
+about-telemetry-telemetry-ping-type-all = બધા
 # button label to copy the histogram
 about-telemetry-histogram-copy = નકલ
 # these strings are used in the “Slow SQL Statements” section
@@ -45,10 +59,20 @@ about-telemetry-addon-table-details = વિગતો
 #   $addonProvider (String): the name of an Add-on Provider (e.g. “XPI”, “Plugin”)
 about-telemetry-addon-provider = { $addonProvider } પ્રોવાઇડર
 about-telemetry-keys-header = ગુણધર્મ
+about-telemetry-names-header = નામ
 about-telemetry-values-header = કિંમત
+# Variables:
+#   $stackKey (String): the string key for this stack
+#   $capturedStacksCount (Integer):  the number of times this stack was captured
+about-telemetry-captured-stacks-title = { $stackKey } (કેપ્ચર ગણના: { $capturedStacksCount })
 # Variables:
 #   $lateWriteCount (Integer): the number of the late writes
 about-telemetry-late-writes-title = #{ $lateWriteCount } ને અંતમાં લખે છે
 about-telemetry-stack-title = સ્ટેક:
 about-telemetry-memory-map-title = મેમરી નક્ષો:
 about-telemetry-error-fetching-symbols = ભૂલ ઉદ્ભવી જ્યારે સંકેતને લાવી રહ્યા હોય. ચકાસો કે તમે ઇન્ટરનેટમાં જોડાયેલ છે અને ફરી પ્રયત્ન કરો.
+about-telemetry-time-stamp-header = ટાઇમસ્ટેમ્પ
+about-telemetry-category-header = શ્રેણી
+about-telemetry-method-header = પદ્ધતિ
+about-telemetry-object-header = ઑબ્જેક્ટ
+about-telemetry-extra-header = વધારાની
