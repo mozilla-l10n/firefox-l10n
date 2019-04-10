@@ -16,6 +16,8 @@ about-telemetry-previous-ping = <<
 about-telemetry-next-ping = >>
 about-telemetry-page-title = Dæti telemetria
 about-telemetry-more-information = Ti veu âtre informaçioin?
+about-telemetry-firefox-data-doc = A <a data-l10n-name="data-doc-link">Documentaçion Dæti de Firefox</a> a contegne guidde in sce comme travagiâ co-i nòstri strumenti dati.
+about-telemetry-telemetry-client-doc = A <a data-l10n-name="client-doc-link">Documentaçion da Telemetria Dæti de Firefox</a> a contegne documenti definiçioin, API e referense di dati.
 about-telemetry-telemetry-dashboard = A <a data-l10n-name="dashboard-link">Lavagna da telemetria</a> a permette de vedde i dati che Mozilla a riçeive via Telemetria.
 about-telemetry-show-in-Firefox-json-viewer = Arvi into vizoalizatô JSON
 about-telemetry-home-section = Pagina prinçipâ
@@ -37,6 +39,14 @@ about-telemetry-raw = JSON sgreuzzo
 about-telemetry-full-sql-warning = ATENÇION: o contròllo de istruçioin SQL lente o l'é ativo. Porieiva ese mostrou de stringhe SQL conplete ma queste informaçioin no saian trasmisse da-a telemetria.
 about-telemetry-fetch-stack-symbols = Repiggia i nommi de fonçioin pe stack
 about-telemetry-hide-stack-symbols = Fanni vedde stack dæti sgreuzzi
+# Selects the correct release version
+# Variables:
+#   $channel (String): represents the corresponding release data string
+about-telemetry-data-type =
+    { $channel ->
+        [release] dæta publicaçion
+       *[prerelease] data pre-release
+    }
 # Selects the correct upload string
 # Variables:
 #   $uploadcase (String): represents a corresponding upload string
