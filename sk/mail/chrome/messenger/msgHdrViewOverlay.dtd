@@ -95,6 +95,11 @@
 
 <!ENTITY openAttachment.tooltip "Otvoriť priložený súbor">
 
+<!ENTITY detachedAttachmentFolder.show.label        "Otvoriť priečinok so súborom">
+<!ENTITY detachedAttachmentFolder.show.accesskey    "p">
+<!ENTITY detachedAttachmentFolder.showMac.label     "Zobraziť vo Finderi">
+<!ENTITY detachedAttachmentFolder.showMac.accesskey "F">
+
 <!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label       "Uložiť">
 <!ENTITY saveAttachmentButton1.tooltip     "Uložiť priložený súbor">
