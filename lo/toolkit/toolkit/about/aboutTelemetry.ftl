@@ -81,6 +81,9 @@ about-telemetry-results-for-search = ຜົນລັບສຳລັບ “{ $sea
 #   $sectionName (String): the section name from the structure of the ping.
 #   $currentSearchText (String): the current text in the search input
 about-telemetry-no-search-results = ຂໍອະໄພ! ບໍ່ມີຜົນລັບໃນ { $sectionName } ສຳລັບ “{ $currentSearchText }”
+# Variables:
+#   $searchTerms (String): the searched terms
+about-telemetry-no-search-results-all = ຂໍອະໄພ! ບໍ່ມີຜົນລັບໃນທຸກບ່ອນສຳລັບ “{ $searchTerms }”
 # This message is displayed when a section is empty.
 # Variables:
 #   $sectionName (String): is replaced by the section name.
