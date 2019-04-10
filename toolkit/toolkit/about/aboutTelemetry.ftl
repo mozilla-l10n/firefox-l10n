@@ -19,15 +19,56 @@ about-telemetry-addon-details-section = పొడిగింత వివరా
 about-telemetry-late-writes-section = లేట్ వ్రైట్స్
 about-telemetry-raw-payload-section = ముడి పేలోడు
 about-telemetry-full-sql-warning = గమనిక: నిదానమైన SQL డీబగ్గింగ్ చేతనమైంది. పూర్తి SQL స్ట్రింగ్స్ కిందన ప్రదర్శించవచ్చు అయితే అవి టెలీమెట్రీకు సమర్పించబడవు.
+about-telemetry-fetch-stack-symbols = స్టాక్స్ కొరకు ఫంక్షన్ పేర్లను వెతికితెమ్ము
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = ఈ పేజీ టెలీమెట్రీచే సేకరించబడిన పనితనం, హార్డువేర్, వినియోగం మరియు మలచుకొనే విధానం గురించిన సమాచారం చూపును. ఈ సమాచారం { $telemetryServerOwner } సమర్పించబడింది { -brand-full-name } మెరుగుదలలో సహాయం కొరకు.
+# string used as a placeholder for the search field
+# More info about it can be found here:
+# https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
+# Variables:
+#   $selectedTitle (String): the section name from the structure of the ping.
+about-telemetry-filter-placeholder =
+    .placeholder = { $selectedTitle } లో కనుగొనండి
+about-telemetry-filter-all-placeholder =
+    .placeholder = అన్ని విభాగాలలో కనుగొనండి
+# More info about it can be found here: https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
+# Variables:
+#   $sectionName (String): the section name from the structure of the ping.
+#   $currentSearchText (String): the current text in the search input
+about-telemetry-no-search-results = క్షమించాలి! { $sectionName }లో “{ $currentSearchText }” కోసం ఫలితాలు లేవు
+# Variables:
+#   $searchTerms (String): the searched terms
+about-telemetry-no-search-results-all = క్షమించాలి! “{ $searchTerms }” కు ఏ విభాగాలలో ఫలితాలు లేవు
+# This message is displayed when a section is empty.
+# Variables:
+#   $sectionName (String): is replaced by the section name.
+about-telemetry-no-data-to-display = క్షమించాలి! “{ $sectionName }” లో ప్రస్తుతం ఏ సమాచారం అందుబాటులో లేదు
+# used as a tooltip for the “current” ping title in the sidebar
+about-telemetry-current-ping-sidebar = ప్రస్తుత పింగ్
+# used in the “Ping Type” select
+about-telemetry-telemetry-ping-type-all = అన్నీ
+# button label to copy the histogram
+about-telemetry-histogram-copy = కాపీ చేయి
 # these strings are used in the “Slow SQL Statements” section
 about-telemetry-slow-sql-main = ముఖ్య త్రెడ్ పైన నిదానమైన SQL వాక్యాలు
 about-telemetry-slow-sql-other = సహాయక త్రెడ్లపై నిదానమైన SQL వాక్యాలు
 about-telemetry-slow-sql-hits = హిట్లు
 about-telemetry-slow-sql-average = సగటు సమయం (ms)
 about-telemetry-slow-sql-statement = వాక్యము
+# these strings are used in the “Add-on Details” section
+about-telemetry-addon-table-id = పొడిగింత ఐడి
+about-telemetry-addon-table-details = వివరాలు
+# Variables:
+#   $addonProvider (String): the name of an Add-on Provider (e.g. “XPI”, “Plugin”)
+about-telemetry-addon-provider = { $addonProvider } ఉత్పాదకి
+about-telemetry-keys-header = లక్షణం
+about-telemetry-names-header = పేరు
+about-telemetry-values-header = విలువ
+# Variables:
+#   $stackKey (String): the string key for this stack
+#   $capturedStacksCount (Integer):  the number of times this stack was captured
+about-telemetry-captured-stacks-title = { $stackKey } (సంగ్రహణ సంఖ్య: { $capturedStacksCount })
 # Variables:
 #   $lateWriteCount (Integer): the number of the late writes
 about-telemetry-late-writes-title = లేట్ వ్రైట్ #{ $lateWriteCount }
