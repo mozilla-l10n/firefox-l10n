@@ -18,6 +18,9 @@ about-telemetry-slow-sql-hits = Hits
 about-telemetry-slow-sql-average = Avg. Time (ms)
 about-telemetry-slow-sql-statement = Statement
 about-telemetry-keys-header = Property
+# Variables:
+#   $lateWriteCount (Integer): the number of the late writes
+about-telemetry-late-writes-title = Late Write #{ $lateWriteCount }
 about-telemetry-stack-title = Stack:
 about-telemetry-memory-map-title = Memory map:
 about-telemetry-error-fetching-symbols = An error occurred while fetching symbols. Check that you are connected to the Internet and try again.
