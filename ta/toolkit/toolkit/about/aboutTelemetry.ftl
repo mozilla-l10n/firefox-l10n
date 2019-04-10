@@ -10,6 +10,10 @@ about-telemetry-hide-stack-symbols = அடுக்கின் பதனிட
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = இந்தப் பக்கமானது, டெலிமெட்ரியின் மூலம் சேகரிக்கப்பட்ட செயல்திறன், வன்பொருள், பயன்பாடு மற்றும் தனிப்பயனாக்கங்கள் குறித்த தகவல்களைக் காண்பிக்கும். { -brand-full-name } ஐ மேம்படுத்துவதற்கு உதவியாக இந்த தகவல் { $telemetryServerOwner } க்கு சமர்ப்பிக்கப்படும்.
+# Variables:
+#   $name (String): ping name, e.g. “saved-session”
+#   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
+about-telemetry-ping-details = ஒவ்வொரு துண்டு தகவலும் “<a data-l10n-name="ping-link">பிங்குகள்</a>” பொட்டலத்தில் அனுப்பப்பட்டது. நீங்கள் பார்ப்பது { $name }, { $timestamp } பிங் ஆகும்.
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
@@ -17,8 +21,25 @@ about-telemetry-page-subtitle = இந்தப் பக்கமானது, 
 #   $selectedTitle (String): the section name from the structure of the ping.
 about-telemetry-filter-placeholder =
     .placeholder = { $selectedTitle } விவரத்தில் கண்டுபிடி
+# used in the “Ping Type” select
+about-telemetry-telemetry-ping-type-all = அனைத்தும்
+# button label to copy the histogram
+about-telemetry-histogram-copy = நகலெடு
+# these strings are used in the “Slow SQL Statements” section
+about-telemetry-slow-sql-main = பிரதான தொடரிழைகளில் மெதுவான SQL கூற்றுகள்
+about-telemetry-slow-sql-other = உதவி தொடரிழைகளில் மெதுவான SQL கூற்றுகள்
+about-telemetry-slow-sql-hits = சொடுக்கங்கள்
 about-telemetry-slow-sql-average = சராசரி நேரம் (ms)
 about-telemetry-slow-sql-statement = கூற்று
+# these strings are used in the “Add-on Details” section
+about-telemetry-addon-table-id = கூடுதல் இணைப்பின் அடையாள எண்
+about-telemetry-addon-table-details = விவரங்கள்
+# Variables:
+#   $addonProvider (String): the name of an Add-on Provider (e.g. “XPI”, “Plugin”)
+about-telemetry-addon-provider = { $addonProvider } வழங்குநர்
+about-telemetry-keys-header = பண்பு
+about-telemetry-names-header = பெயர்
+about-telemetry-values-header = மதிப்பு
 # Variables:
 #   $stackKey (String): the string key for this stack
 #   $capturedStacksCount (Integer):  the number of times this stack was captured
