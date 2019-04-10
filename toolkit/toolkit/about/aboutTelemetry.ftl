@@ -39,9 +39,48 @@ about-telemetry-raw = JSON brut
 about-telemetry-full-sql-warning = REMARTGA: Il debugging da SQL plaun è activà. Eventualmain vegnan entirs strings da SQL mussads sutvart. Quels na vegnan dentant betg tramess a Telemetry.
 about-telemetry-fetch-stack-symbols = Retschaiver ils nums da funcziuns per ils stacks
 about-telemetry-hide-stack-symbols = Mussar las datas bruttas dal stack
+# Selects the correct release version
+# Variables:
+#   $channel (String): represents the corresponding release data string
+about-telemetry-data-type =
+    { $channel ->
+        [release] datas da la versiun stabla
+       *[prerelease] datas da la preversiun
+    }
+# Selects the correct upload string
+# Variables:
+#   $uploadcase (String): represents a corresponding upload string
+about-telemetry-upload-type =
+    { $uploadcase ->
+        [enabled] activada
+       *[disabled] deactivada
+    }
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = Questa pagina mussa datas davart la prestaziun, la hardware, l'utilisaziun ed la persunalisaziun rimnadas da la telemetria. Questa infurmaziun vegn tramessa a { $telemetryServerOwner } per meglierar { -brand-full-name }.
+about-telemetry-settings-explanation = La telemetria rimna las { about-telemetry-data-type } e la transmissiun è <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a>.
+# Variables:
+#   $name (String): ping name, e.g. “saved-session”
+#   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
+about-telemetry-ping-details = Mintga infurmaziun vegn tramessa pachetada en «<a data-l10n-name="ping-link">pings</a>». Ti vesas il ping { $name }, { $timestamp }.
+about-telemetry-ping-details-current = Mintga infurmaziun vegn tramessa pachetada en «<a data-l10n-name="ping-link">pings</a>». Ti vesas il ping actual.
+# string used as a placeholder for the search field
+# More info about it can be found here:
+# https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
+# Variables:
+#   $selectedTitle (String): the section name from the structure of the ping.
+about-telemetry-filter-placeholder =
+    .placeholder = Tschertgar en { $selectedTitle }
+about-telemetry-filter-all-placeholder =
+    .placeholder = Tschertgar en tuttas secziuns
+# Variables:
+#   $searchTerms (String): the searched terms
+about-telemetry-results-for-search = Resultats per «{ $searchTerms }»
+# More info about it can be found here: https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
+# Variables:
+#   $sectionName (String): the section name from the structure of the ping.
+#   $currentSearchText (String): the current text in the search input
+about-telemetry-no-search-results = Perstgisa! I na dat nagins resultats en { $sectionName } per «{ $currentSearchText }»
 # Variables:
 #   $searchTerms (String): the searched terms
 about-telemetry-no-search-results-all = Perstgisa! Nagins resultats per «{ $searchTerms }» en tut las secziuns.
@@ -49,14 +88,27 @@ about-telemetry-no-search-results-all = Perstgisa! Nagins resultats per «{ $sea
 # Variables:
 #   $sectionName (String): is replaced by the section name.
 about-telemetry-no-data-to-display = Perstgisa! Naginas datas n'èn disponiblas en «{ $sectionName }»
+# used as a tooltip for the “current” ping title in the sidebar
+about-telemetry-current-ping-sidebar = ping actual
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = tut
+# button label to copy the histogram
+about-telemetry-histogram-copy = Copiar
 # these strings are used in the “Slow SQL Statements” section
 about-telemetry-slow-sql-main = Statements da SQL plauns en il thread principal
 about-telemetry-slow-sql-other = Statements da SQL plauns en threads che assistan
 about-telemetry-slow-sql-hits = Frequenza
 about-telemetry-slow-sql-average = Temp en media (ms)
 about-telemetry-slow-sql-statement = Statement
+# these strings are used in the “Add-on Details” section
+about-telemetry-addon-table-id = ID dal supplement
+about-telemetry-addon-table-details = Detagls
+# Variables:
+#   $addonProvider (String): the name of an Add-on Provider (e.g. “XPI”, “Plugin”)
+about-telemetry-addon-provider = Purschider { $addonProvider }
+about-telemetry-keys-header = Caracteristica
+about-telemetry-names-header = Num
+about-telemetry-values-header = Valur
 # Variables:
 #   $stackKey (String): the string key for this stack
 #   $capturedStacksCount (Integer):  the number of times this stack was captured
