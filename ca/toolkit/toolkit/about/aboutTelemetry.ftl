@@ -5,10 +5,13 @@
 about-telemetry-histograms-section = Histogrames
 about-telemetry-simple-measurements-section = Mesures senzilles
 about-telemetry-addon-details-section = Detalls del complement
+about-telemetry-late-writes-section = Escriptures tardanes
 about-telemetry-full-sql-warning = NOTA: la depuració de SQL lenta està habilitada. Es poden mostrar les cadenes SQL completes a sota però no s'enviaran per a la telemesura.
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = Aquesta pàgina conté la informació del rendiment, ús i personalitzacions recopilada per a la telemesura. Aquesta informació s'envia a { $telemetryServerOwner } per ajudar a millorar { -brand-full-name }.
+# button label to copy the histogram
+about-telemetry-histogram-copy = Copia
 # these strings are used in the “Slow SQL Statements” section
 about-telemetry-slow-sql-main = Sentències SQL lentes en el fil principal
 about-telemetry-slow-sql-other = Sentències SQL lentes en fils auxiliars
@@ -22,6 +25,9 @@ about-telemetry-addon-table-details = Detalls
 #   $addonProvider (String): the name of an Add-on Provider (e.g. “XPI”, “Plugin”)
 about-telemetry-addon-provider = Proveïdor { $addonProvider }
 about-telemetry-keys-header = Propietat
+# Variables:
+#   $lateWriteCount (Integer): the number of the late writes
+about-telemetry-late-writes-title = Escriptura tardana #{ $lateWriteCount }
 about-telemetry-stack-title = Pila:
 about-telemetry-memory-map-title = Mapa de memòria:
 about-telemetry-error-fetching-symbols = S'ha produït un error mentre es recollien els símbols. Comproveu que esteu connectat a Internet i torneu-ho a provar.
