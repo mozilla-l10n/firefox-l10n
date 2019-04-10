@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+about-telemetry-ping-data-source = ದತ್ತಾಂಶ ಮೂಲವನ್ನು ಪಿಂಗ್ ಮಾಡಿ:
+about-telemetry-raw = ಸಂಸ್ಕರಿಸದ JSON
 about-telemetry-full-sql-warning =   NOTE ನಿಧಾನಗತಿ SQL ದೋಷನಿದಾನವನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ. ಸಂಪೂರ್ಣ SQL ವಾಕ್ಯಾಂಶಗಳನ್ನು ಈ ಕೆಳಗೆ ತೋರಿಸಲಾಗುವ ಸಾಧ್ಯತೆ ಇದೆ ಆದರೆ ಅವುಗಳನ್ನು ಟೆಲಿಮೆಟ್ರಿಗೆ ಸಲ್ಲಿಸಲಾಗುವುದಿಲ್ಲ.
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
