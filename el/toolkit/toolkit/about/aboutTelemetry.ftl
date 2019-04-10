@@ -138,9 +138,26 @@ about-telemetry-hide-stack-symbols =
     { "" }
       Εμφάνιση ακατέργαστων δεδομένων στοίβας
     { "" }
+# Selects the correct release version
+# Variables:
+#   $channel (String): represents the corresponding release data string
+about-telemetry-data-type =
+    { $channel ->
+        [release] δεδομένα έκδοσης
+       *[prerelease] δεδομένα προ-έκδοσης
+    }
+# Selects the correct upload string
+# Variables:
+#   $uploadcase (String): represents a corresponding upload string
+about-telemetry-upload-type =
+    { $uploadcase ->
+        [enabled] ενεργή
+       *[disabled] ανενεργή
+    }
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = Αυτή η σελίδα εμφανίζει τα δεδομένα συμπεριφοράς και χρήσης των λειτουργιών που συλλέγονται από την Τηλεμετρία. Αυτές οι πληροφορίες υποβάλλονται ανώνυμα στο { $telemetryServerOwner } και μας βοηθούν να βελτιώσουμε τον { -brand-full-name }.
+about-telemetry-settings-explanation = Η τηλεμετρία συλλέγει { about-telemetry-data-type } και η μεταφόρτωση είναι <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a>.
 # Variables:
 #   $name (String): ping name, e.g. “saved-session”
 #   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
@@ -163,6 +180,13 @@ about-telemetry-results-for-search = Αποτελέσματα για “{ $searc
 #   $sectionName (String): the section name from the structure of the ping.
 #   $currentSearchText (String): the current text in the search input
 about-telemetry-no-search-results = Συγγνώμη! Δεν υπάρχουν αποτελέσματα στην ενότητα “{ $sectionName }” για “{ $currentSearchText }”
+# Variables:
+#   $searchTerms (String): the searched terms
+about-telemetry-no-search-results-all = Λυπούμαστε! Δεν υπάρχουν αποτελέσματα σε κανένα τμήμα για “{ $searchTerms }”
+# This message is displayed when a section is empty.
+# Variables:
+#   $sectionName (String): is replaced by the section name.
+about-telemetry-no-data-to-display = Λυπούμαστε! Δεν υπάρχουν διαθέσιμα δεδομένα στο “{ $sectionName }”
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-ping-sidebar = τρέχον ping
 # used in the “Ping Type” select
