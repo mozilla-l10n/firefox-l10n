@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+about-telemetry-ping-data-source = Font de donadas de ping :
 about-telemetry-show-current-ping-data = Donadas actualas ping
 about-telemetry-show-archived-ping-data = Donadas ping archivadas
 about-telemetry-show-subsession-data = Afichar las donadas de substitucion
@@ -54,6 +55,9 @@ about-telemetry-upload-type =
         [enabled] activada
        *[disabled] desactivada
     }
+# Variables:
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+about-telemetry-page-subtitle = Aquesta pagina aficha las informacions collectadas per telemetria a prepaus de las performàncias, las caracteristicas materialas, l'utilizacion de las foncionalitats e la personalizacion del navegador. Aquelas informacions son mandadas a { $telemetryServerOwner } per ajudar al melhorament de { -brand-full-name }.
 about-telemetry-settings-explanation = La telemetria reculhís las { about-telemetry-data-type } e transmission es <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a>.
 # Variables:
 #   $name (String): ping name, e.g. “saved-session”
