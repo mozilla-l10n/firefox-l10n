@@ -124,6 +124,8 @@ about-telemetry-no-search-results-all = ¡Lo sentimos! No se encontraron resulta
 about-telemetry-no-data-to-display = ¡Lo sentimos! No hay datos disponibles en este momento en “{ $sectionName }”
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-ping-sidebar = ping actual
+# used in the “Ping Type” select
+about-telemetry-telemetry-ping-type-all = todo
 # button label to copy the histogram
 about-telemetry-histogram-copy = Copiar
 # these strings are used in the “Slow SQL Statements” section
