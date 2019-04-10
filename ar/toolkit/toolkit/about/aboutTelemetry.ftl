@@ -3,21 +3,62 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-telemetry-ping-data-source = مصدر بيانات الطرْق:
+about-telemetry-show-current-ping-data = بيانات الطرْق الحالية
+about-telemetry-show-archived-ping-data = بيانات الطرْق المحفوظة
+about-telemetry-show-subsession-data = اعرض بيانات الإرسال
+about-telemetry-choose-ping = اختر الطرْق:
+about-telemetry-archive-ping-type = نوع الطرْق
+about-telemetry-archive-ping-header = طرْق
+about-telemetry-option-group-today = اليوم
+about-telemetry-option-group-yesterday = أمس
+about-telemetry-option-group-older = أقدم
+about-telemetry-previous-ping = >>
+about-telemetry-next-ping = <<
+about-telemetry-page-title = البيانات المُؤقتة
+about-telemetry-more-information = هل تبحث عن معلومات إضافية؟
 about-telemetry-show-in-Firefox-json-viewer =
     { "" }
     افتح في عارض JSON
     { "" }
+about-telemetry-home-section = البداية
 about-telemetry-general-data-section = { "  " }بيانات عامة
 about-telemetry-environment-data-section = { "  " }بيانات البيئة
+about-telemetry-session-info-section = { "  " }معلومات الجلسة
+about-telemetry-scalar-section = { "  " }الكميات القياسية
+about-telemetry-keyed-scalar-section = { "  " }الكميات القياسية المفتاحية
+about-telemetry-histograms-section = { "  " }رسوم بيانية
+about-telemetry-keyed-histogram-section = { "  " }رسوم بيانية مفتاحية
+about-telemetry-events-section = { "  " }الأحداث
+about-telemetry-simple-measurements-section = { "  " }قياسات بسيطة
 about-telemetry-slow-sql-section = { "  " }استعلامات SQL بطيئة
+about-telemetry-addon-details-section = { "  " }تفاصيل الإضافة
 about-telemetry-captured-stacks-section = { "  " }المكدسات المُلتقطة
 about-telemetry-late-writes-section = { "  " }كتابات متأخرّة
+about-telemetry-raw-payload-section = الحمولة الخام
+about-telemetry-raw = JSON خام
 about-telemetry-full-sql-warning = { "  " }ملاحظة: تنقيح SQL البطيء مُفعّل. قد تظهر نصوص SQL كاملة أدناه، لكن لن تُرسل إلى تليمتري.
 about-telemetry-fetch-stack-symbols = { "  " }اجلب أسماء الدوال للمكدّسات
 about-telemetry-hide-stack-symbols = { "  " }اعرض بيانات المكدس الخام
+# Selects the correct release version
+# Variables:
+#   $channel (String): represents the corresponding release data string
+about-telemetry-data-type =
+    { $channel ->
+        [release] بيانات الإصدار
+       *[prerelease] بيانات الإصدار الأولي
+    }
+# Selects the correct upload string
+# Variables:
+#   $uploadcase (String): represents a corresponding upload string
+about-telemetry-upload-type =
+    { $uploadcase ->
+        [enabled] مفعّل
+       *[disabled] معطّل
+    }
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = تظهر هذه الصفحة معلومات عن الأداء، و العتاد، و الاستخدام، و التخصيصات التي جمعتها أداة تليمتري. تُرسل هذه المعلومات إلى { $telemetryServerOwner } للمساعدة في تحسين { -brand-full-name }.
+about-telemetry-settings-explanation = يجمع تيليمتري { about-telemetry-data-type } و الرفع <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a>.
 # Variables:
 #   $name (String): ping name, e.g. “saved-session”
 #   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
@@ -30,6 +71,8 @@ about-telemetry-ping-details-current = كل معلومة ترسل مدمجة م�
 #   $selectedTitle (String): the section name from the structure of the ping.
 about-telemetry-filter-placeholder =
     .placeholder = ابحث في { $selectedTitle }
+about-telemetry-filter-all-placeholder =
+    .placeholder = ابحث في كل الأقسام
 # Variables:
 #   $searchTerms (String): the searched terms
 about-telemetry-results-for-search = نتائج ”{ $searchTerms }“
