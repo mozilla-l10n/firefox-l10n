@@ -942,7 +942,7 @@ permissions-notification-pause =
     .accesskey = N
 
 permissions-block-autoplay-media2 =
-    .label = Automatisch afspelen van geluid door websites bokkeren
+    .label = Automatisch afspelen van geluid door websites blokkeren
     .accesskey = s
 
 permissions-block-autoplay-media-exceptions =
