@@ -2,7 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+about-telemetry-previous-ping = <<
+about-telemetry-next-ping = >>
+about-telemetry-page-title = Данні телеметрії
 about-telemetry-show-in-Firefox-json-viewer = Відкрити в засобі перегляду JSON
+about-telemetry-home-section = Домівка
+about-telemetry-raw = Необроблений JSON
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = Ця сторінка показує інформацію про швидкодію, апаратне забезпечення, використання та налаштування, зібрану за допомогою телеметрії. Ця інформація відправляється до { $telemetryServerOwner }, щоб покращити { -brand-full-name }.
