@@ -3,3 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-telemetry-simple-measurements-section = Nat yu yomb
+# button label to copy the histogram
+about-telemetry-histogram-copy = Duppi
+about-telemetry-addon-table-details = Benn bennal yi
