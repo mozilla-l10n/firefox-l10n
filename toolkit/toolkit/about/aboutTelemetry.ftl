@@ -14,7 +14,32 @@ about-telemetry-option-group-yesterday = Ontem
 about-telemetry-option-group-older = Mais Antigo
 about-telemetry-previous-ping = <<
 about-telemetry-next-ping = >>
+about-telemetry-page-title = Dados de Telemetria
+about-telemetry-more-information = Procurando mais informações?
+about-telemetry-firefox-data-doc = A <a data-l10n-name="data-doc-link">Documentação de dados do Firefox</a> contém guias sobre como trabalhar com nossas ferramentas de dados.
+about-telemetry-telemetry-client-doc = A <a data-l10n-name="client-doc-link">documentação do cliente de telemetria do Firefox</a> inclui definições de conceitos, documentação da API e referências de dados.
+about-telemetry-telemetry-dashboard = Os <a data-l10n-name="dashboard-link">painéis de Telemetria</a> permitem visualizar os dados que a Mozilla recebe via Telemetria.
+about-telemetry-telemetry-probe-dictionary = O <a data-l10n-name="probe-dictionary-link">Dicionário de Sondagens</a> fornece detalhes e descrições das sondagens coletadas pela Telemetria.
+about-telemetry-show-in-Firefox-json-viewer = Abrir no visualizador de JSON
 about-telemetry-home-section = Início
+about-telemetry-general-data-section = Dados gerais
+about-telemetry-environment-data-section = Dados do ambiente
+about-telemetry-session-info-section = Informações da sessão
+about-telemetry-scalar-section = Escalares
+about-telemetry-keyed-scalar-section = Escalares nomeados
+about-telemetry-histograms-section = Histogramas
+about-telemetry-keyed-histogram-section = Histogramas nomeados
+about-telemetry-events-section = Eventos
+about-telemetry-simple-measurements-section = Medições simples
+about-telemetry-slow-sql-section = Instruções SQL lentas
+about-telemetry-addon-details-section = Detalhes de extensões
+about-telemetry-captured-stacks-section = Pilhas capturadas
+about-telemetry-late-writes-section = Escritas atrasadas
+about-telemetry-raw-payload-section = Carga útil bruta
+about-telemetry-raw = JSON bruto
+about-telemetry-full-sql-warning = NOTA: está ativada a depuração de SQL lento. Strings SQL completas podem ser exibidas abaixo, mas não serão enviadas para telemetria.
+about-telemetry-fetch-stack-symbols = Coletar nomes de funções para pilhas
+about-telemetry-hide-stack-symbols = Exibir dados brutos da pilha
 # Selects the correct release version
 # Variables:
 #   $channel (String): represents the corresponding release data string
@@ -23,12 +48,32 @@ about-telemetry-data-type =
         [release] informações de lançamento
        *[prerelease] informações de pré-lançamento
     }
+# Selects the correct upload string
+# Variables:
+#   $uploadcase (String): represents a corresponding upload string
+about-telemetry-upload-type =
+    { $uploadcase ->
+        [enabled] ativado
+       *[disabled] desativado
+    }
+# Variables:
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+about-telemetry-page-subtitle = Esta página mostra as informações de desempenho, hardware, uso e personalização coletadas pela Telemetria. Essas informações são enviadas para a { $telemetryServerOwner } para ajudar a melhorar o { -brand-full-name }.
 about-telemetry-settings-explanation = A telemetria está coletando { about-telemetry-data-type } e o envio está <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a>.
 # Variables:
 #   $name (String): ping name, e.g. “saved-session”
 #   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = Cada pedaço de informação é empacotado e enviado dentro de um “<a data-l10n-name="ping-link">pings</a>”. Você está olhando para o ping { $name }, { $timestamp }.
 about-telemetry-ping-details-current = Cada pedaço de informação é empacotado e enviado dentro de um “<a data-l10n-name="ping-link">pings</a>“. Você está olhando para o ping atual.
+# string used as a placeholder for the search field
+# More info about it can be found here:
+# https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
+# Variables:
+#   $selectedTitle (String): the section name from the structure of the ping.
+about-telemetry-filter-placeholder =
+    .placeholder = Procurar em { $selectedTitle }
+about-telemetry-filter-all-placeholder =
+    .placeholder = Procurar em todas as seções
 # Variables:
 #   $searchTerms (String): the searched terms
 about-telemetry-results-for-search = Resultados para “{ $searchTerms }”
@@ -40,6 +85,10 @@ about-telemetry-no-search-results = Desculpe! Não há resultados em { $sectionN
 # Variables:
 #   $searchTerms (String): the searched terms
 about-telemetry-no-search-results-all = Desculpe! Não há resultados em nenhuma seção para “{ $searchTerms }”
+# This message is displayed when a section is empty.
+# Variables:
+#   $sectionName (String): is replaced by the section name.
+about-telemetry-no-data-to-display = Desculpe! No momento não há nenhum dado disponível em “{ $sectionName }”
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-ping-sidebar = ping atual
 # used in the “Ping Type” select
@@ -70,6 +119,7 @@ about-telemetry-captured-stacks-title = { $stackKey } (contagem de captura:: { $
 about-telemetry-late-writes-title = Escrita atrasada #{ $lateWriteCount }
 about-telemetry-stack-title = Pilha:
 about-telemetry-memory-map-title = Mapa da memória:
+about-telemetry-error-fetching-symbols = Ocorreu um erro ao carregar símbolos. Verifique se você está conectado à internet e tente novamente.
 about-telemetry-time-stamp-header = timestamp
 about-telemetry-category-header = categoria
 about-telemetry-method-header = método
