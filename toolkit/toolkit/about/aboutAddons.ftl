@@ -112,14 +112,14 @@ detail-private-browsing-description2 = Udvidelsen har adgang til dine aktivitete
 
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overriden by the user.
-detail-private-disallowed-label = Ikke tilladt i private vinduer
-detail-private-disallowed-description = Denne udvidelse virker under privat browsing. <label data-l10n-name="detail-private-browsing-learn-more">Læs mere</label>
+detail-private-disallowed-label = Virker ikke i privat browsing
+detail-private-disallowed-description = Denne udvidelse virker ikke under privat browsing. <label data-l10n-name="detail-private-browsing-learn-more">Læs mere</label>
 
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
-detail-private-required-label = Kræver adgang til private vinduer
+detail-private-required-label = Har altid adgang til private vinduer
 detail-private-required-description = Denne udvidelse har adgang til din aktivitet på nettet, når du anvender privat browsing.<label data-l10n-name="detail-private-browsing-learn-more">Læs mere</label>
 
-detail-private-browsing-description = Udvidelsen vil fungere i private vinduer og dermed have adgang til dine aktiviteter på nettet. <label data-l10n-name="detail-private-browsing-learn-more">Læs mere</label>
+detail-private-browsing-description = Udvidelsen vil fungere, når du bruger privat browsing og har dermed adgang til dine aktiviteter på nettet. <label data-l10n-name="detail-private-browsing-learn-more">Læs mere</label>
 
 detail-private-browsing-on =
     .label = Tillad
