@@ -12,6 +12,8 @@ about-telemetry-archive-ping-header = Ping
 about-telemetry-option-group-today = Hari ini
 about-telemetry-option-group-yesterday = Kemarin
 about-telemetry-option-group-older = Lawas
+about-telemetry-previous-ping = <<
+about-telemetry-next-ping = >>
 about-telemetry-page-title = Data Telemetri
 about-telemetry-more-information = Butuh informasi lebih lanjut?
 about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Firefox Data Documentation</a> berisi panduan tentang bagaimana bekerja dengan alat data kami.
@@ -69,6 +71,8 @@ about-telemetry-ping-details-current = Setiap potongan informasi dikirim tertutu
 #   $selectedTitle (String): the section name from the structure of the ping.
 about-telemetry-filter-placeholder =
     .placeholder = Temukan di { $selectedTitle }
+about-telemetry-filter-all-placeholder =
+    .placeholder = Temukan di semua bagian
 # Variables:
 #   $searchTerms (String): the searched terms
 about-telemetry-results-for-search = Hasil untuk “{ $searchTerms }”
@@ -77,6 +81,13 @@ about-telemetry-results-for-search = Hasil untuk “{ $searchTerms }”
 #   $sectionName (String): the section name from the structure of the ping.
 #   $currentSearchText (String): the current text in the search input
 about-telemetry-no-search-results = Maaf! Tidak ada hasil di { $sectionName } untuk “{ $currentSearchText }”
+# Variables:
+#   $searchTerms (String): the searched terms
+about-telemetry-no-search-results-all = Maaf! Tidak ada hasil di bagian mana pun untuk “{ $searchTerms }”
+# This message is displayed when a section is empty.
+# Variables:
+#   $sectionName (String): is replaced by the section name.
+about-telemetry-no-data-to-display = Maaf! Tidak ada data yang tersedia di “{ $sectionName }”
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-ping-sidebar = ping saat ini
 # used in the “Ping Type” select
