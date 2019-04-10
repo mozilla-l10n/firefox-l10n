@@ -19,6 +19,7 @@ about-telemetry-more-information = વધુ માહિતી જોઈએ છ
 about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Firefox ડેટા દસ્તાવેજીકરણ</a> માં અમારા ડેટા સાધનો સાથે કેવી રીતે કામ કરવું તે વિશેની માર્ગદર્શિકાઓ છે.
 about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Firefox ટેલિમેટ્રી ક્લાયંટ દસ્તાવેજીકરણ</a> વિભાવનાઓ, API દસ્તાવેજીકરણ અને ડેટા સંદર્ભો માટેની વ્યાખ્યાઓનો સમાવેશ કરે છે.
 about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">ટેલીમેટ્રી ડેશબોર્ડ્સ</a> તમને Mozilla ડેટા મારફતે વિઝ્યુઅલાઈઝ કરવા માટે પરવાનગી આપે છે જે ટેલીમેટ્રી મારફતે મેળવે છે.
+about-telemetry-telemetry-probe-dictionary = <a data-l10n-name="probe-dictionary-link">Probe Dictionary</a> એ ટેલિમેટ્રી દ્વારા એકત્રિત કરેલી ચકાસણીઓ માટેની વિગતો અને વર્ણનો પ્રદાન કરે છે.
 about-telemetry-show-in-Firefox-json-viewer = JSON દર્શકમાં ખોલો
 about-telemetry-home-section = મુખ્ય પાનું
 about-telemetry-general-data-section = સામાન્ય ડેટા
