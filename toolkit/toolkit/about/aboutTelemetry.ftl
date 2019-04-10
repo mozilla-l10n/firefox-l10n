@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+about-telemetry-slow-sql-section = { "  " }Паказ чыннікаў SQL
+about-telemetry-late-writes-section = { "  " }Апошнія запісы
+about-telemetry-full-sql-warning = { "  " }УВАГА: дазволена марудная наладка SQL. Поўныя радкі SQL могуць адлюстроўвацца ніжэй, але яны не будуць падавацца тэлеметрыі.
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = Гэтая старонка паказвае звесткі пра працавыніковасць, начынне, выкарыстанне і ўладкаванні, назбіраныя тэлеметрыяй. Гэтыя звесткі дасылаюцца { $telemetryServerOwner } дзеля ўдасканалення { -brand-full-name }.
