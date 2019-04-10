@@ -56,6 +56,18 @@ about-telemetry-upload-type =
         [enabled] zmóžnjone
        *[disabled] znjemóžnjone
     }
+# Example Output: 1 sample, average = 0, sum = 0
+# Variables:
+#   $sampleCount (Integer): amount of histogram samples
+#   $prettyAverage (Integer): average of histogram samples
+#   $sum (Integer): sum of histogram samples
+about-telemetry-histogram-stats =
+    { $sampleCount ->
+        [one] { $sampleCount } pśikład, pśerězk = { $prettyAverage }, suma = { $sum }
+        [two] { $sampleCount } pśikłada, pśerězk = { $prettyAverage }, suma = { $sum }
+        [few] { $sampleCount } pśikłady, pśerězk = { $prettyAverage }, suma = { $sum }
+       *[other] { $sampleCount } pśikładow, pśerězk = { $prettyAverage }, suma = { $sum }
+    }
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = Toś ten bok pokazujo informacije wó wugbaśu, hardware, wužyśu a pśiměrjenjach zběrane pśez telemetriju. Toś te informacije budu se do { $telemetryServerOwner } słaś, ab pomagali, { -brand-full-name } pólěpšyś.
@@ -125,3 +137,9 @@ about-telemetry-category-header = kategorija
 about-telemetry-method-header = metoda
 about-telemetry-object-header = objekt
 about-telemetry-extra-header = wósebny
+about-telemetry-origin-section = Telemetrija Origin
+about-telemetry-origin-origin = póchad
+about-telemetry-origin-count = licba
+# Variables:
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link">Telemetrija Origin Firefox</a> daty koděrujo, nježli až se pósćelu, aby { $telemetryServerOwner } mógał wěcy licyś, ale njewě, lěc daty { -brand-product-name } jo k licbje pśinosował. (<a data-l10n-name="prio-blog-link">dalšne informacije</a>)
