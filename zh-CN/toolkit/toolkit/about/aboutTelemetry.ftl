@@ -2,18 +2,51 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+about-telemetry-ping-data-source = Ping 数据源：
+about-telemetry-show-current-ping-data = 当前的 ping 数据
+about-telemetry-show-archived-ping-data = 存档的 ping 数据
+about-telemetry-show-subsession-data = 显示提交数据
+about-telemetry-choose-ping = 选择 ping：
+about-telemetry-archive-ping-type = Ping 类型
+about-telemetry-archive-ping-header = Ping
+about-telemetry-option-group-today = 今天
+about-telemetry-option-group-yesterday = 昨天
+about-telemetry-option-group-older = 更早
+about-telemetry-previous-ping = <<
+about-telemetry-next-ping = >>
+about-telemetry-page-title = 遥测数据
 about-telemetry-more-information = 寻找更多信息？
+about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Firefox 数据文档</a> 介绍了使用我们的数据工具的方式。
 about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Firefox 遥测客户端文档</a> 包括概念、API 文档以及数据引用的定义。
+about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">遥测面板</a> 直观显示了 Mozilla 通过遥测收到的数据。
+about-telemetry-show-in-Firefox-json-viewer = 在 JSON 查看器中打开
+about-telemetry-home-section = 主页
 about-telemetry-general-data-section = 常规数据
 about-telemetry-environment-data-section = 环境数据
+about-telemetry-session-info-section = 会话信息
 about-telemetry-scalar-section = 标量
+about-telemetry-keyed-scalar-section = 键索标量
 about-telemetry-histograms-section = 直方图
+about-telemetry-keyed-histogram-section = 键索直方图
 about-telemetry-events-section = 事件
 about-telemetry-simple-measurements-section = 简单测量
+about-telemetry-slow-sql-section = 慢 SQL 语句
 about-telemetry-addon-details-section = 附加组件详情
+about-telemetry-captured-stacks-section = 捕获的堆栈
 about-telemetry-late-writes-section = 延迟写入
+about-telemetry-raw-payload-section = 原始载荷
+about-telemetry-raw = 原始 JSON
+about-telemetry-full-sql-warning = 注意：针对慢 SQL 的排错已启用。完整的 SQL 字符串可能会在下面显示，但不会通过遥测提交。
 about-telemetry-fetch-stack-symbols = 从堆栈获取函数名称
 about-telemetry-hide-stack-symbols = 显示原始堆栈数据
+# Selects the correct release version
+# Variables:
+#   $channel (String): represents the corresponding release data string
+about-telemetry-data-type =
+    { $channel ->
+        [release] 正式版的数据
+       *[prerelease] 预先发行版的数据
+    }
 # Selects the correct upload string
 # Variables:
 #   $uploadcase (String): represents a corresponding upload string
@@ -25,6 +58,12 @@ about-telemetry-upload-type =
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = 本页显示“遥测”收集的有关性能、硬件、使用和定制情况的信息，这些信息被提交到 { $telemetryServerOwner } 以帮助改进 { -brand-full-name }。
+about-telemetry-settings-explanation = 遥测正在收集{ about-telemetry-data-type }，并且<a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a>上传。
+# Variables:
+#   $name (String): ping name, e.g. “saved-session”
+#   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
+about-telemetry-ping-details = 每组信息都将集合在“<a data-l10n-name="ping-link">ping</a>”中送出。您正在查看 { $name }, { $timestamp } 的 ping。
+about-telemetry-ping-details-current = 每组信息都将集合在“<a data-l10n-name="ping-link">ping</a>”中送出。您正在查看 当前 的 ping。
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
@@ -32,6 +71,9 @@ about-telemetry-page-subtitle = 本页显示“遥测”收集的有关性能、
 #   $selectedTitle (String): the section name from the structure of the ping.
 about-telemetry-filter-placeholder =
     .placeholder = 在 { $selectedTitle } 中查找
+# Variables:
+#   $searchTerms (String): the searched terms
+about-telemetry-results-for-search = “{ $searchTerms }“的搜索结果
 # More info about it can be found here: https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
 # Variables:
 #   $sectionName (String): the section name from the structure of the ping.
@@ -47,6 +89,9 @@ about-telemetry-current-ping-sidebar = 当前的 ping
 about-telemetry-telemetry-ping-type-all = 所有
 # button label to copy the histogram
 about-telemetry-histogram-copy = 复制
+# these strings are used in the “Slow SQL Statements” section
+about-telemetry-slow-sql-main = 主线程上慢的 SQL 语句
+about-telemetry-slow-sql-other = 辅助线程上慢的 SQL 语句
 about-telemetry-slow-sql-hits = 命中
 about-telemetry-slow-sql-average = 平均时间 (ms)
 about-telemetry-slow-sql-statement = 语句
