@@ -17,6 +17,7 @@ about-telemetry-slow-sql-other = SQL ceeyayna hãayaney faaba šilley ra
 about-telemetry-slow-sql-hits = Kabukaw
 about-telemetry-slow-sql-average = Gam waati (ms)
 about-telemetry-slow-sql-statement = Hãayan
+about-telemetry-addon-table-details = Šilbayhayey
 about-telemetry-keys-header = Mayray
 # Variables:
 #   $lateWriteCount (Integer): the number of the late writes
