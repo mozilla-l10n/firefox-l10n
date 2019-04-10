@@ -19,6 +19,7 @@ about-telemetry-more-information = Etsitkö lisätietoa?
 about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Firefox Data Documentation</a> sisältää englanniksi oppaita datatyökalujen käytöstä.
 about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Firefox Telemetry client documentation</a> sisältää englanniksi käsitteiden määritelmät, API-dokumentaation ja dataviittaukset.
 about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">Kaukomittaustietojen kojelautojen</a> avulla voi visualisoida dataa, jota Mozilla vastaanottaa kaukomittauksen avulla.
+about-telemetry-telemetry-probe-dictionary = <a data-l10n-name="probe-dictionary-link">Anturihakemisto</a> sisältää kaukomitattavien anturien tiedot ja kuvaukset.
 about-telemetry-show-in-Firefox-json-viewer = Avaa JSON-katselimessa
 about-telemetry-home-section = Etusivu
 about-telemetry-general-data-section = Yleistiedot
