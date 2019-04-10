@@ -7,6 +7,7 @@ about-telemetry-slow-sql-main = ਮੁੱਖ ਥਰਿਡ ਵਿੱਚ ਹੌਲ
 about-telemetry-slow-sql-other = ਹੈਲਪਰ ਥਰਿਡ ਵਿੱਚ ਹੌਲੀ SQL ਸਟੇਟਮੈਂਟ
 about-telemetry-slow-sql-hits = ਹਿਟ
 about-telemetry-slow-sql-average = ਔਸਤ ਸਮਾਂ (ms)
+about-telemetry-slow-sql-statement = ਸਟੇਟਮੈਂਟ
 # Variables:
 #   $lateWriteCount (Integer): the number of the late writes
 about-telemetry-late-writes-title = ਲੇਟ ਲਿਖਣਾ #{ $lateWriteCount }
