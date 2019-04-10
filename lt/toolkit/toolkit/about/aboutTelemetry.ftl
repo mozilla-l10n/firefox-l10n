@@ -37,6 +37,7 @@ about-telemetry-captured-stacks-section = Įrašyti dėklai
 about-telemetry-late-writes-section = Vėlavę įrašymai
 about-telemetry-raw-payload-section = Neapdorotas turinys
 about-telemetry-raw = Pirminis JSON
+about-telemetry-full-sql-warning = PASTABA: Įjungtas lėtų SQL sakinių derinimas. Žemiau gali būti rodomi pilni SQL sakiniai, tačiau jie nebus pateikiami telemetrijai.
 about-telemetry-fetch-stack-symbols = Rinkti funkcijų vardus dėklams
 about-telemetry-hide-stack-symbols = Rodyti neapdorotus dėklų duomenis
 # Selects the correct release version
