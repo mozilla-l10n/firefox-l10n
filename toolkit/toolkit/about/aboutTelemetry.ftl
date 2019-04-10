@@ -56,6 +56,16 @@ about-telemetry-upload-type =
         [enabled] მიმდინარეობს
        *[disabled] შეჩერებულია
     }
+# Example Output: 1 sample, average = 0, sum = 0
+# Variables:
+#   $sampleCount (Integer): amount of histogram samples
+#   $prettyAverage (Integer): average of histogram samples
+#   $sum (Integer): sum of histogram samples
+about-telemetry-histogram-stats =
+    { $sampleCount ->
+        [one] { $sampleCount } სინჯი, საშუალო = { $prettyAverage }, ჯამი = { $sum }
+       *[other] { $sampleCount } სინჯი, საშუალო = { $prettyAverage }, ჯამი = { $sum }
+    }
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = ამ გვერდზე ნაჩვენებია ტელემეტრიის მიერ შეგროვებული ინფორმაცია წარმადობის, აპარატურის, პროგრამის გამოყენებისა და შერჩეული პარამეტრების შესახებ, რომელიც იგზავნება { $telemetryServerOwner }-ში, { -brand-full-name }-ის გასაუმჯობესებლად.
@@ -125,3 +135,9 @@ about-telemetry-category-header = კატეგორია
 about-telemetry-method-header = მეთოდი
 about-telemetry-object-header = ობიექტი
 about-telemetry-extra-header = დამატებით
+about-telemetry-origin-section = Origin-ტელემეტრია
+about-telemetry-origin-origin = წარმომავლობა
+about-telemetry-origin-count = რაოდენობა
+# Variables:
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link">Firefox Origin-ტელემეტრია</a> შიფრავს მონაცემებს გადაგზავნამდე, შესაბამისად { $telemetryServerOwner } შეძლებს გაზომვებს, თუმცა არ ეცოდინება რომელი { -brand-product-name } აწვდის საჭირო მონაცემებს. (<a data-l10n-name="prio-blog-link">ვრცლად</a>)
