@@ -59,6 +59,11 @@ about-telemetry-upload-type =
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = Ang pahinang ito ay nagpapakita ng impormasyon tungkol sa pagganap, hardware, paggamit at mga pagpapasadya na nakolekta sa pamamagitan Telemetry. Ang impormasyon na ito ay isinumite sa { $telemetryServerOwner } upang makatulong na mapabuti { -brand-full-name }.
 about-telemetry-settings-explanation = Ang telemetry ay nangongolekta ng { about-telemetry-data-type } at ang upload ay si <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a>.
+# Variables:
+#   $name (String): ping name, e.g. “saved-session”
+#   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
+about-telemetry-ping-details = Bawat piraso ng impormasyon ay pinadala na nakabungkos sa “<a data-l10n-name="ping-link">pings</a>”. Ikaw ay nakatingin sa { $name }, { $timestamp } na ping.
+about-telemetry-ping-details-current = Bawat piraso ng impormasyon ay pinadala na nakabungkos sa “<a data-l10n-name="ping-link">pings</a>“. Ikaw ay nakatingin sa kasalukuyan na ping.
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
