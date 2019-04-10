@@ -17,6 +17,7 @@ about-telemetry-next-ping = >>
 about-telemetry-page-title = টেলিমেট্রি ডাটা
 about-telemetry-more-information = আরও তথ্যে খুঁজছেন?
 about-telemetry-show-in-Firefox-json-viewer = JSON ভিউয়ারে খুলুন
+about-telemetry-home-section = নীড়
 about-telemetry-general-data-section = সাধারণ তথ্য
 about-telemetry-environment-data-section = পরিবেশ ডেটা
 about-telemetry-session-info-section = সিস্টেম সংক্রান্ত তথ্য
@@ -30,9 +31,35 @@ about-telemetry-slow-sql-section = ধীর গতির এসকিউএল 
 about-telemetry-addon-details-section = অ্যাড-অনের বিস্তারিত
 about-telemetry-captured-stacks-section = বন্দী স্ট্যাক
 about-telemetry-late-writes-section = বিলম্বিত লেখনী
+about-telemetry-raw-payload-section = অপরিশোধিত পেলোড
 about-telemetry-raw = পরিশোধিত JSON
 about-telemetry-full-sql-warning = নোট: ধীর গতির SQL ডিবাগিং সক্রিয় করা হয়েছে।সম্পূর্ণ SQL স্ট্রিং নীচে প্রদর্শিত হতে পারে কিন্তু তাদের টেলিমেট্রিতে উপস্থাপন করা হবে না।
 about-telemetry-fetch-stack-symbols = স্ট্যাকের জন্য ফাংশনের নামসমূহ আনো
+about-telemetry-hide-stack-symbols = অপরিশোধিত স্ট্যাক ডাটা দেখাও
+# Selects the correct release version
+# Variables:
+#   $channel (String): represents the corresponding release data string
+about-telemetry-data-type =
+    { $channel ->
+        [release] রিলিজ ডাটা
+       *[prerelease] প্রি-রিলিজ ডাটা
+    }
+# Selects the correct upload string
+# Variables:
+#   $uploadcase (String): represents a corresponding upload string
+about-telemetry-upload-type =
+    { $uploadcase ->
+        [enabled] সক্রিয়
+       *[disabled] নিষ্ক্রিয়
+    }
+# Variables:
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+about-telemetry-page-subtitle = এই পাতাটি টেলিমেট্রি কতৃক সংগৃহীত কার্যকারিতা,ব্যবহার,স্বনির্বাচনসমূহের তথ্য প্রদর্শন করে। এই তথ্য { $telemetryServerOwner } এর নিকট { -brand-full-name } এর উন্নতিতে সাহায্যের জন্য উপস্থাপিত হয়েছে।
+# Variables:
+#   $name (String): ping name, e.g. “saved-session”
+#   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
+about-telemetry-ping-details = তথ্যের প্রতিটি অংশ “<a data-l10n-name="ping-link">পিংস</a>” এ বান্ডেল করে পাঠানো হয়েছে। আপনি { $name }, { $timestamp } এ পিং করে দেখছেন।
+about-telemetry-ping-details-current = তথ্যের প্রতিটি অংশ “<a data-l10n-name="ping-link">পিংস</a>” এ বান্ডেল করে পাঠানো হয়েছে। আপনি বর্তমান এ পিং করে দেখছেন।
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
@@ -61,6 +88,8 @@ about-telemetry-no-data-to-display = দুঃখিত! বর্তমান�
 about-telemetry-current-ping-sidebar = বর্তমান পিং
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = সব
+# button label to copy the histogram
+about-telemetry-histogram-copy = অনুলিপি
 # these strings are used in the “Slow SQL Statements” section
 about-telemetry-slow-sql-main = ধীর গতির প্রধান থ্রেডে SQLস্টেটমেন্ট
 about-telemetry-slow-sql-other = ধীর গতির সহায়ক থ্রেডে SQL স্টেটমেন্ট
@@ -76,6 +105,10 @@ about-telemetry-addon-provider = { $addonProvider } প্রোভাইডা�
 about-telemetry-keys-header = বৈশিষ্ট্য
 about-telemetry-names-header = নাম
 about-telemetry-values-header = মান
+# Variables:
+#   $stackKey (String): the string key for this stack
+#   $capturedStacksCount (Integer):  the number of times this stack was captured
+about-telemetry-captured-stacks-title = { $stackKey } (ক্যাপচার গনণা: { $capturedStacksCount })
 # Variables:
 #   $lateWriteCount (Integer): the number of the late writes
 about-telemetry-late-writes-title = #{ $lateWriteCount } দেরিতে লেখা
