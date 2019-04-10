@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+about-telemetry-ping-data-source = Zdroj údajov pre ping:
 about-telemetry-raw = Dáta JSON v nespracovanom tvare
 about-telemetry-full-sql-warning = Poznámka: Je zapnuté ladenie pomalých výrazov SQL. Nižšie môžu byť zobrazené celé výrazy SQL, avšak tieto nebudú odosielané pomocou telemetrie.
 # Variables:
