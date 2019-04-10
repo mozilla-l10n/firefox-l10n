@@ -102,6 +102,8 @@ about-telemetry-raw =
     Neformátovaný JSON
     { "" }
 about-telemetry-full-sql-warning = Poznámka: Ladění pomalých dotazů SQL je zapnuto. Ve výpisu se mohou objevit úplné dotazy SQL, které ale nejsou odesílány.
+about-telemetry-fetch-stack-symbols = Získat názvy funkcí ze zásobníků
+about-telemetry-hide-stack-symbols = Zobrazit surová data zásobníku
 # Selects the correct release version
 # Variables:
 #   $channel (String): represents the corresponding release data string
@@ -172,6 +174,10 @@ about-telemetry-addon-provider = Poskytovatel ({ $addonProvider })
 about-telemetry-keys-header = Vlastnost
 about-telemetry-names-header = Název
 about-telemetry-values-header = Hodnota
+# Variables:
+#   $stackKey (String): the string key for this stack
+#   $capturedStacksCount (Integer):  the number of times this stack was captured
+about-telemetry-captured-stacks-title = { $stackKey } (počet zachycení: { $capturedStacksCount })
 # Variables:
 #   $lateWriteCount (Integer): the number of the late writes
 about-telemetry-late-writes-title = Zpožděné zápisy: #{ $lateWriteCount }
