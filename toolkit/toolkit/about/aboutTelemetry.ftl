@@ -21,6 +21,7 @@ about-telemetry-telemetry-probe-dictionary = <a data-l10n-name="probe-dictionary
 about-telemetry-show-in-Firefox-json-viewer = Otwórz w przeglądarce JSON-a
 about-telemetry-home-section = Start
 about-telemetry-general-data-section = Ogólne
+about-telemetry-environment-data-section = Dane środowiska
 about-telemetry-session-info-section = Informacje o sesji
 about-telemetry-scalar-section = Skalary
 about-telemetry-keyed-scalar-section = Keyed scalars
