@@ -2,6 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+about-telemetry-ping-data-source = පින්ග් දත්ත මූලය:
+about-telemetry-show-current-ping-data = වත්මන් පින්ග් දත්ත
+about-telemetry-show-archived-ping-data = සංරක්ශිත පින්ග් දත්ත
+about-telemetry-raw = දළ JSON
 about-telemetry-full-sql-warning =     NOTE: මන්දගාමි SQL නිරාකරණය සක්‍රීයයි. සම්පූර්ණ SQL යෙදීම් පහතින් දැක්වෙනු ඇති නමුත් ඒවා දූරමිතියට පළ නොකෙරේ.
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
