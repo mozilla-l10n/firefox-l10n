@@ -64,6 +64,7 @@ policy-OverrideFirstRunPage = Nastaví vlastnú stránku pri prvom spustení. Ak
 policy-OverridePostUpdatePage = Nastaví vlastnú stránku po aktualizácii aplikácie. Ak nechcete po aktualizácii zobrazovať žiadnu stránku, nastavte toto pravidlo ako prázdne.
 policy-Permissions = Nastaví povolenia pre kameru, mikrofón, polohu a upozornenia.
 policy-PopupBlocking = Povolí určitým webovým stránkam zobrazovať v predvolenom nastavení vyskakovacie okná.
+policy-Preferences = Nastaví a uzamkne hodnotu pre podmnožinu predvolieb.
 policy-Proxy = Nakonfiguruje nastavenia proxy.
 policy-RequestedLocales = Nastaví zoznam požadovaných jazykov aplikácie, v poradí podľa nastavenej priority.
 policy-SanitizeOnShutdown = Vymaže všetky údaje o prehliadaní v priebehu vypnutia.

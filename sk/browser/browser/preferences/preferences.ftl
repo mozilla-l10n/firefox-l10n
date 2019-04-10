@@ -681,6 +681,7 @@ content-blocking-strict-desc = Blokuje všetky sledovacie prvky, ktoré { -brand
 content-blocking-custom-desc = Vyberte si, čo chcete blokovať.
 content-blocking-private-trackers = Známe sledovacie prvky sú blokované v režime Súkromné prehliadanie
 content-blocking-third-party-cookies = Blokované sú sledovacie cookies tretích strán
+content-blocking-unvisited-cookies = Cookies z nenavštívených stránok
 content-blocking-all-windows-trackers = Známe sledovacie prvky sú blokované vždy
 content-blocking-all-third-party-cookies = Blokované sú všetky cookies tretích strán
 content-blocking-warning-title = Pozor!

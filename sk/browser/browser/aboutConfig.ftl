@@ -8,6 +8,7 @@ about-config-warning-text = Zmena týchto pokročilých nastavení môže nepria
 about-config-warning-checkbox = Upozorniť ma aj nabudúce
 about-config-warning-button = Rozumiem riziku
 about-config-title = about:config
+about-config2-title = Pokročilé nastavenia
 about-config-search-input =
     .placeholder = Hľadať
 about-config-show-all = Zobraziť všetko
