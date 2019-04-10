@@ -77,6 +77,18 @@ about-telemetry-filter-all-placeholder =
 # Variables:
 #   $searchTerms (String): the searched terms
 about-telemetry-results-for-search = Resultados para “{ $searchTerms }”
+# More info about it can be found here: https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
+# Variables:
+#   $sectionName (String): the section name from the structure of the ping.
+#   $currentSearchText (String): the current text in the search input
+about-telemetry-no-search-results = Lamentamos! Não há resultados em { $sectionName } para “{ $currentSearchText }”
+# Variables:
+#   $searchTerms (String): the searched terms
+about-telemetry-no-search-results-all = Lamentamos! Não existem resultados em nenhumas das secções para “{ $searchTerms }”
+# This message is displayed when a section is empty.
+# Variables:
+#   $sectionName (String): is replaced by the section name.
+about-telemetry-no-data-to-display = Lamentamos! Não existem dados disponíveis em “{ $sectionName }” atualmente
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-ping-sidebar = ping atual
 # used in the “Ping Type” select
