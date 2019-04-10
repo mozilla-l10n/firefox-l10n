@@ -2,15 +2,64 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+about-telemetry-ping-data-source = Джерело даних пінгу:
+about-telemetry-show-current-ping-data = Дані поточного пінгу
+about-telemetry-show-archived-ping-data = Дані архівованого пінгу
+about-telemetry-show-subsession-data = Показувати дані підсеансу
+about-telemetry-choose-ping = Оберіть пінг:
+about-telemetry-archive-ping-type = Тип пінгу
+about-telemetry-archive-ping-header = Пінг
+about-telemetry-option-group-today = Сьогодні
+about-telemetry-option-group-yesterday = Вчора
+about-telemetry-option-group-older = Раніше
 about-telemetry-previous-ping = <<
 about-telemetry-next-ping = >>
 about-telemetry-page-title = Данні телеметрії
+about-telemetry-more-information = Шукаєте додаткову інформацію?
+about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Документація даних Firefox</a> містить настанови про те, як працювати з нашими інструментами даних.
+about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Документація клієнта телеметрії Firefox</a> містить визначення для концептів, документацію API та посилання на дані.
+about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">Панелі огляду телеметрії</a> дозволяють вам візуалізувати дані, які Mozilla отримує через телеметрію.
+about-telemetry-telemetry-probe-dictionary = <a data-l10n-name="probe-dictionary-link">Словник вимірювань</a> містить подробиці та описи вимірювань, що збираються Телеметрією.
 about-telemetry-show-in-Firefox-json-viewer = Відкрити в засобі перегляду JSON
 about-telemetry-home-section = Домівка
+about-telemetry-general-data-section = Загальні дані
+about-telemetry-environment-data-section = Дані оточення
+about-telemetry-session-info-section = Інформація про сеанс
+about-telemetry-scalar-section = Величини
+about-telemetry-keyed-scalar-section = Ключові величини
+about-telemetry-histograms-section = Гістограми
+about-telemetry-keyed-histogram-section = Гістограми з ключами
+about-telemetry-events-section = Події
+about-telemetry-simple-measurements-section = Прості вимірювання
+about-telemetry-slow-sql-section = Повільні SQL-запити
+about-telemetry-addon-details-section = Подробиці про додатки
+about-telemetry-captured-stacks-section = Захоплені стеки
+about-telemetry-late-writes-section = Пізні записи
+about-telemetry-raw-payload-section = Необроблене навантаження
 about-telemetry-raw = Необроблений JSON
+about-telemetry-full-sql-warning = ПРИМІТКА: Увімкнено повільний режим зневадження SQL. Внизу можуть бути показані повні рядки SQL, але в телеметрію вони відправлені не будуть.
+about-telemetry-fetch-stack-symbols = Отримати назви функцій для стеків
+about-telemetry-hide-stack-symbols = Показати необроблені дані стеку
+# Selects the correct release version
+# Variables:
+#   $channel (String): represents the corresponding release data string
+about-telemetry-data-type =
+    { $channel ->
+        [release] дані про випуск
+       *[prerelease] дані про попередній випуск
+    }
+# Selects the correct upload string
+# Variables:
+#   $uploadcase (String): represents a corresponding upload string
+about-telemetry-upload-type =
+    { $uploadcase ->
+        [enabled] увімкнено
+       *[disabled] вимкнено
+    }
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = Ця сторінка показує інформацію про швидкодію, апаратне забезпечення, використання та налаштування, зібрану за допомогою телеметрії. Ця інформація відправляється до { $telemetryServerOwner }, щоб покращити { -brand-full-name }.
+about-telemetry-settings-explanation = Телеметрія збирає { about-telemetry-data-type } і вивантаження <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a>
 # Variables:
 #   $name (String): ping name, e.g. “saved-session”
 #   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
@@ -33,6 +82,13 @@ about-telemetry-results-for-search = Результати для “{ $searchTer
 #   $sectionName (String): the section name from the structure of the ping.
 #   $currentSearchText (String): the current text in the search input
 about-telemetry-no-search-results = Вибачте! В { $sectionName } немає результатів для “{ $currentSearchText }”
+# Variables:
+#   $searchTerms (String): the searched terms
+about-telemetry-no-search-results-all = Вибачте! Для “{ $searchTerms }” немає результатів у жодному з розділів
+# This message is displayed when a section is empty.
+# Variables:
+#   $sectionName (String): is replaced by the section name.
+about-telemetry-no-data-to-display = Вибачте! В “{ $sectionName }” наразі немає доступних даних
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-ping-sidebar = поточний пінг
 # used in the “Ping Type” select
@@ -63,6 +119,7 @@ about-telemetry-captured-stacks-title = { $stackKey } (кількість зах
 about-telemetry-late-writes-title = Пізній запис #{ $lateWriteCount }
 about-telemetry-stack-title = Стек:
 about-telemetry-memory-map-title = Карта пам’яті:
+about-telemetry-error-fetching-symbols = При отриманні символів сталася помилка. Перевірте підключення до Інтернету і спробуйте знову.
 about-telemetry-time-stamp-header = позначка часу
 about-telemetry-category-header = категорія
 about-telemetry-method-header = спосіб
