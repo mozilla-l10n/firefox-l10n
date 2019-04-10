@@ -52,6 +52,7 @@ policy-HardwareAcceleration = Se “false”, disattiva l’accelerazione hardwa
 policy-Homepage = Imposta la pagina iniziale ed eventualmente impedisci modifiche all’opzione.
 policy-InstallAddonsPermission = Consenti a determinati siti web di installare componenti aggiuntivi.
 policy-NetworkPrediction = Attiva o disattiva “network prediction” (prelettura DNS).
+policy-NewTabPage = Attiva o disattiva la pagina Nuova scheda.
 policy-NoDefaultBookmarks = Disattiva la creazione dei segnalibri predefiniti di { -brand-short-name } e dei segnalibri intelligenti (“Più visitati”, “Etichette recenti”). Nota: questo criterio ha effetto solo se utilizzato prima della prima apertura del profilo.
 policy-OfferToSaveLogins = Gestisci la richiesta in { -brand-short-name } di salvare credenziali di accesso. Entrambi i valori “true” e “false” sono validi.
 policy-OverrideFirstRunPage = Sostituisci la pagina visualizzata alla prima esecuzione. Impostare questo criterio con un valore vuoto per disattivarne la visualizzazione.
