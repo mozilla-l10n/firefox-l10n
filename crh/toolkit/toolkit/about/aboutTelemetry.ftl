@@ -19,6 +19,7 @@ about-telemetry-more-information = Daa çoq malümat içün baqasız?
 about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Firefox Veriler Tavsiqi</a> veriler aletlerimiz içün nasıl çalışılğanı aqqında rehberlerni ihtiva ete.
 about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Firefox Telemetri müşteri tavsiqi</a> qavramlar içün tariflerni, API (UPA) tavsiqini ve veriler sıltavlarını ihtiva ete.
 about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">Telemetri köstergiç panelleri</a> Mozilla'nıñ Telemetri arqalı alğanı verilerni körselleştirmeñizge imkân bere.
+about-telemetry-telemetry-probe-dictionary = <a data-l10n-name="probe-dictionary-link">Sonda Luğatı</a> Telemetri’niñ toplağanı sondalar içün tafsilât ve tasvirlerni temin eter.
 about-telemetry-show-in-Firefox-json-viewer = JSON seyrettiricisinde aç
 about-telemetry-home-section = Ev
 about-telemetry-general-data-section = Umumiy Veriler
