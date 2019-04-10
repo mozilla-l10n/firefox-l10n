@@ -265,7 +265,7 @@
 <!ENTITY bccAddr.label "Bcc:">
 <!ENTITY replyAddr.label "Antwoord-naar:">
 <!ENTITY newsgroupsAddr.label "Nieuwsgroep:">
-<!ENTITY followupAddr.label "Reacties-naar:">
+<!ENTITY followupAddr.label "Opvolgen-aan:">
 <!ENTITY subject.label "Onderwerp:">
 <!ENTITY subject.accesskey "n">
 <!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should

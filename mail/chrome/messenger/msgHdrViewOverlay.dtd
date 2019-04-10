@@ -7,19 +7,19 @@
 <!ENTITY senderField4.label "Afzender">
 <!ENTITY author.label "Auteur">
 <!ENTITY organizationField4.label "Organisatie">
-<!ENTITY replyToField4.label "Antwoord-naar">
+<!ENTITY replyToField4.label "Antwoord naar">
 
 <!ENTITY subjectField4.label "Onderwerp">
 <!ENTITY ccField4.label "Cc">
 <!ENTITY bccField4.label "Bcc">
 <!ENTITY newsgroupsField4.label "Nieuwsgroepen">
-<!ENTITY followupToField4.label "Reacties-naar">
+<!ENTITY followupToField4.label "Opvolgen aan">
 <!ENTITY tagsHdr4.label "Labels">
 <!ENTITY dateField4.label "Datum">
 <!ENTITY userAgentField4.label "Useragent">
 <!ENTITY referencesField4.label "Referenties">
 <!ENTITY messageIdField4.label "Bericht-ID">
-<!ENTITY inReplyToField4.label "In-antwoord-op">
+<!ENTITY inReplyToField4.label "In antwoord op">
 <!ENTITY originalWebsite4.label "Website">
 
 <!ENTITY hdrArchiveButton1.label "Archiveren">
