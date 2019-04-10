@@ -8,6 +8,7 @@ about-config-warning-text = Ndryshimi i këtyre rregullimeve të thelluara mund 
 about-config-warning-checkbox = Bezdismëni prapë, ju lutem!
 about-config-warning-button = E pranoj rrezikun
 about-config-title = about:config
+about-config2-title = Formësime të Thelluara
 about-config-search-input =
     .placeholder = Kërkoni
 about-config-show-all = Shfaqi Krejt
