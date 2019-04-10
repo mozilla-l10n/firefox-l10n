@@ -56,6 +56,15 @@ about-telemetry-upload-type =
         [enabled] 開啟
        *[disabled] 關閉
     }
+# Example Output: 1 sample, average = 0, sum = 0
+# Variables:
+#   $sampleCount (Integer): amount of histogram samples
+#   $prettyAverage (Integer): average of histogram samples
+#   $sum (Integer): sum of histogram samples
+about-telemetry-histogram-stats =
+    { $sampleCount ->
+       *[other] { $sampleCount } 個樣本、平均 = { $prettyAverage }、加總 = { $sum }
+    }
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = 此頁面顯示 Telemetry 所收集到效能、硬體設定、使用程度、以及自訂選項的相關資訊。此資訊將會傳送到 { $telemetryServerOwner } 以幫助改善 { -brand-full-name }。
@@ -125,3 +134,9 @@ about-telemetry-category-header = 分類
 about-telemetry-method-header = 方法
 about-telemetry-object-header = 物件
 about-telemetry-extra-header = 更多
+about-telemetry-origin-section = Origin Telemetry
+about-telemetry-origin-origin = 來源
+about-telemetry-origin-count = 數量
+# Variables:
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link">Firefox Origin Telemetry</a> 會在送出資料前為資料編碼，這樣 { $telemetryServerOwner } 才可以計數，但不知道是由哪一套 { -brand-product-name } 所送出的資料。（<a data-l10n-name="prio-blog-link">了解更多資訊</a>）
