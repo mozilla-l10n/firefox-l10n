@@ -5,14 +5,35 @@
 about-telemetry-ping-data-source = Sumber data ping:
 about-telemetry-show-current-ping-data = Data ping saat ini
 about-telemetry-show-archived-ping-data = Data ping arsip
+about-telemetry-show-subsession-data = Tampilkan data subsesi
+about-telemetry-choose-ping = Pilih ping:
+about-telemetry-archive-ping-type = Jenis Ping
+about-telemetry-archive-ping-header = Ping
+about-telemetry-option-group-today = Hari ini
+about-telemetry-option-group-yesterday = Kemarin
+about-telemetry-option-group-older = Lawas
+about-telemetry-page-title = Data Telemetri
+about-telemetry-more-information = Butuh informasi lebih lanjut?
+about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Firefox Data Documentation</a> berisi panduan tentang bagaimana bekerja dengan alat data kami.
+about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Dokumentasi klien Firefox Telemetry</a> termasuk definisi untuk konsep, dokumentasi API, dan referensi data.
+about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">Dasbor Telemetry</a> mengizinkan Anda memvisualkan data yang diterima Mozilla via Telemetry.
+about-telemetry-show-in-Firefox-json-viewer = Buka di penampil JSON
+about-telemetry-home-section = Beranda
 about-telemetry-general-data-section =    Data Umum
 about-telemetry-environment-data-section = Data Lingkungan
+about-telemetry-session-info-section = Informasi Sistem
+about-telemetry-scalar-section = Skalar
 about-telemetry-histograms-section = Histogram
 about-telemetry-keyed-histogram-section =   Histogram Berdasar Kunci
 about-telemetry-simple-measurements-section = Pengukuran Sederhana
+about-telemetry-slow-sql-section = Pernyataan SQL Lambat
 about-telemetry-addon-details-section = Detail Pengaya
+about-telemetry-captured-stacks-section = Stack Terekam
 about-telemetry-late-writes-section = Penulisan Di Akhir
+about-telemetry-raw-payload-section = Muatan Mentah
+about-telemetry-raw = JSON Mentah
 about-telemetry-full-sql-warning = Catatan: Proses debug SQL diaktifkan. String SQL lengkap mungkin ditampilkan di bawah tetapi tidak akan dikirim ke server Telemetri.
+about-telemetry-hide-stack-symbols = Tampilkan tumpukan data mentah
 # Selects the correct release version
 # Variables:
 #   $channel (String): represents the corresponding release data string
@@ -32,15 +53,56 @@ about-telemetry-upload-type =
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = Laman ini berisi informasi tentang kinerja, perangkat keras, penggunaan, dan pengubahsuaian yang dikumpulkan oleh Telemetri. Informasi ini dikirimkan ke { $telemetryServerOwner } untuk membantu menyempurnakan { -brand-full-name }.
+about-telemetry-settings-explanation = Telemetry mengumpulkan { about-telemetry-data-type } dan mengunggah <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a>.
+# Variables:
+#   $name (String): ping name, e.g. “saved-session”
+#   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
+about-telemetry-ping-details = Setiap potongan informasi dikirim tertutup ke “<a data-l10n-name="ping-link">ping</a>”. Anda sedang melihat ping { $name }, { $timestamp }.
+about-telemetry-ping-details-current = Setiap potongan informasi dikirim tertutup ke “<a data-l10n-name="ping-link">ping</a>“. Anda sedang melihat ping saat ini.
+# string used as a placeholder for the search field
+# More info about it can be found here:
+# https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
+# Variables:
+#   $selectedTitle (String): the section name from the structure of the ping.
+about-telemetry-filter-placeholder =
+    .placeholder = Temukan di { $selectedTitle }
+# Variables:
+#   $searchTerms (String): the searched terms
+about-telemetry-results-for-search = Hasil untuk “{ $searchTerms }”
+# More info about it can be found here: https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
+# Variables:
+#   $sectionName (String): the section name from the structure of the ping.
+#   $currentSearchText (String): the current text in the search input
+about-telemetry-no-search-results = Maaf! Tidak ada hasil di { $sectionName } untuk “{ $currentSearchText }”
+# used as a tooltip for the “current” ping title in the sidebar
+about-telemetry-current-ping-sidebar = ping saat ini
+# used in the “Ping Type” select
+about-telemetry-telemetry-ping-type-all = semua
+# button label to copy the histogram
+about-telemetry-histogram-copy = Salin
 # these strings are used in the “Slow SQL Statements” section
 about-telemetry-slow-sql-main = Pernyataan SQL Lambat pada Thread Utama
 about-telemetry-slow-sql-other = Pernyataan SQL Lambat pada Thread Pembantu
 about-telemetry-slow-sql-hits = Hit
 about-telemetry-slow-sql-average = Rata-rata Waktu (md)
 about-telemetry-slow-sql-statement = Pernyataan
+# these strings are used in the “Add-on Details” section
+about-telemetry-addon-table-id = ID Pengaya
+about-telemetry-addon-table-details = Detail
+# Variables:
+#   $addonProvider (String): the name of an Add-on Provider (e.g. “XPI”, “Plugin”)
+about-telemetry-addon-provider = Penyedia { $addonProvider }
+about-telemetry-keys-header = Properti
+about-telemetry-names-header = Nama
+about-telemetry-values-header = Nilai
 # Variables:
 #   $lateWriteCount (Integer): the number of the late writes
 about-telemetry-late-writes-title = Penulisan Saat Akhir #{ $lateWriteCount }
 about-telemetry-stack-title = Stack
 about-telemetry-memory-map-title = Peta memori:
 about-telemetry-error-fetching-symbols = Galat terjadi saat mengambil simbol. Periksa apakah sedang tersambung ke Internet, lalu coba lagi.
+about-telemetry-time-stamp-header = tanda waktu
+about-telemetry-category-header = kategori
+about-telemetry-method-header = metode
+about-telemetry-object-header = objek
+about-telemetry-extra-header = ekstra
