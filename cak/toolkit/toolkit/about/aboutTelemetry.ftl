@@ -19,6 +19,7 @@ about-telemetry-more-information = ¿La nakanoj ch'aqa' chik etamab'äl?
 about-telemetry-firefox-data-doc = Ri <a data-l10n-name="data-doc-link">Firefox Tzij Wujunïk</a> k'o taq rucholajem samaj chupam, akuchi' nusik'ij rub'eyal yeqasamajij ri kisamajib'al qatzij.
 about-telemetry-telemetry-client-doc = Ri <a data-l10n-name="client-doc-link">Firefox Telemetry winäq wujib'äl</a> k'o taq kitzijol tzij chupam, API wujib'äl chuqa' ketal taq tzij.
 about-telemetry-telemetry-dashboard = Ri <a data-l10n-name="dashboard-link">Telemetry dashboards</a> nuya' q'ij chawe ye'atz'ët ri taq tzij yeruk'ül ri Mozilla ruma Telemetry.
+about-telemetry-telemetry-probe-dictionary = Ri <a data-l10n-name="probe-dictionary-link">Probe Dictionary</a> nuya' b'anikil chuqa' taq kitzijoxkil ojqanela' emolon ruma ri Telemetry.
 about-telemetry-show-in-Firefox-json-viewer = Tijaq pa JSON tz'etonel
 about-telemetry-home-section = Tikirib'äl
 about-telemetry-general-data-section = Chijun taq Tzij
