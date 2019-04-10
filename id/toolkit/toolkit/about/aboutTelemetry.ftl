@@ -2,8 +2,16 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+about-telemetry-ping-data-source = Sumber data ping:
+about-telemetry-show-current-ping-data = Data ping saat ini
+about-telemetry-show-archived-ping-data = Data ping arsip
+about-telemetry-general-data-section =    Data Umum
+about-telemetry-environment-data-section = Data Lingkungan
 about-telemetry-histograms-section = Histogram
+about-telemetry-keyed-histogram-section =   Histogram Berdasar Kunci
 about-telemetry-simple-measurements-section = Pengukuran Sederhana
+about-telemetry-addon-details-section = Detail Pengaya
+about-telemetry-late-writes-section = Penulisan Di Akhir
 about-telemetry-full-sql-warning = Catatan: Proses debug SQL diaktifkan. String SQL lengkap mungkin ditampilkan di bawah tetapi tidak akan dikirim ke server Telemetri.
 # Selects the correct release version
 # Variables:
