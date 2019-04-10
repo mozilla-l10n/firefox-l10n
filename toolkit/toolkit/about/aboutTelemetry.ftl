@@ -125,3 +125,4 @@ about-telemetry-category-header = categoria
 about-telemetry-method-header = método
 about-telemetry-object-header = objeto
 about-telemetry-extra-header = extra
+about-telemetry-origin-origin = origem
