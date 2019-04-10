@@ -12,7 +12,11 @@ about-telemetry-archive-ping-header = पिंग
 about-telemetry-option-group-today = आज
 about-telemetry-option-group-yesterday = काल
 about-telemetry-option-group-older = जुने
+about-telemetry-previous-ping = <<
+about-telemetry-next-ping = >>
 about-telemetry-page-title = Telemetry माहिती
+about-telemetry-more-information = अधिक माहिती शोधत आहात?
+about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Firefox डेटा डॉक्युमेंटेशन</a> मध्ये डेटा टूल्ससह कार्य कसे करावे त्याविषयी मार्गदर्शिका आहेत.
 about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Firefox Telemetry क्लायंट दस्तऐवजीकरण</a> मध्ये संकल्पना, API दस्तऐवजीकरण आणि डेटा संदर्भांची परिभाषा समाविष्ट आहे.
 about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">Telemetry डॅशबोर्ड</a> आपल्याला Mozilla ला Telemetry द्वारे प्राप्त डेटाची कल्पना करण्यास अनुमती देतात.
 about-telemetry-show-in-Firefox-json-viewer = JSON दर्शकामध्ये उघडा
@@ -35,6 +39,22 @@ about-telemetry-raw = मूळ JSON
 about-telemetry-full-sql-warning = टीप: हळू SQL डीबगिंग सुरू आहे. पूर्ण SQL स्ट्रींग्स दाखवणे शक्य आहे परंतु ते Telemetryकडे सुपूर्द होणार नाही.
 about-telemetry-fetch-stack-symbols = स्टॅक्सकरिता फंक्शन नावे घ्या
 about-telemetry-hide-stack-symbols = स्टॅक मधील कच्ची माहिती दाखवा
+# Selects the correct release version
+# Variables:
+#   $channel (String): represents the corresponding release data string
+about-telemetry-data-type =
+    { $channel ->
+        [release] प्रकाशन मजकूर
+       *[prerelease] प्रकाशनपूर्व मजकूर
+    }
+# Selects the correct upload string
+# Variables:
+#   $uploadcase (String): represents a corresponding upload string
+about-telemetry-upload-type =
+    { $uploadcase ->
+        [enabled] सक्षम केलेले
+       *[disabled] असमर्थ केलेले
+    }
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = हे पृष्ठ Telemetry द्वारा एकत्रीत केलेली कामगिरी, हार्डवेअर, वापर, आणि स्वपसंतीकरणाबद्दल माहिती पुरवते. { $telemetryServerOwner } कडे ही माहिती सुपूर्द केली जाते, { -brand-full-name } ला सुधारण्यासाठी.
