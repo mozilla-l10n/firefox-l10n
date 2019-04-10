@@ -35,6 +35,7 @@ about-telemetry-raw-payload-section = ముడి పేలోడు
 about-telemetry-raw = ముడి JSON
 about-telemetry-full-sql-warning = గమనిక: నిదానమైన SQL డీబగ్గింగ్ చేతనమైంది. పూర్తి SQL స్ట్రింగ్స్ కిందన ప్రదర్శించవచ్చు అయితే అవి టెలీమెట్రీకు సమర్పించబడవు.
 about-telemetry-fetch-stack-symbols = స్టాక్స్ కొరకు ఫంక్షన్ పేర్లను వెతికితెమ్ము
+about-telemetry-hide-stack-symbols = ముడి స్టాక్ డేటాను చూపించు
 # Selects the correct upload string
 # Variables:
 #   $uploadcase (String): represents a corresponding upload string
