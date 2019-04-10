@@ -13,3 +13,5 @@ about-telemetry-late-writes-title = Ghi trễ #{ $lateWriteCount } lần
 about-telemetry-stack-title = Ngăn xếp:
 about-telemetry-memory-map-title = Bản đồ bộ nhớ:
 about-telemetry-error-fetching-symbols = Xuất hiện một lỗi khi nạp các ký hiệu. Kiểm tra lại kết nối Internet và thử lại.
+about-telemetry-method-header = phương thức
+about-telemetry-object-header = đối tượng
