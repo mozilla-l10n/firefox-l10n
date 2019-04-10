@@ -2,31 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-about-telemetry-ping-data-source =
-    { "" }
-    Orixe dos datos de ping:
-    { "" }
-about-telemetry-show-current-ping-data =
-    { "" }
-    Datos actuais de ping
-    { "" }
-about-telemetry-show-archived-ping-data =
-    { "" }
-    Datos arquivados de ping
-    { "" }
-about-telemetry-show-subsession-data =
-    { "" }
-    Amosar datos de subsesión
-    { "" }
-about-telemetry-choose-ping =
-    { "" }
-    Escolla ping:
-    { "" }
+about-telemetry-ping-data-source = Orixe dos datos de ping:
+about-telemetry-show-current-ping-data = Datos actuais de ping
+about-telemetry-show-archived-ping-data = Datos arquivados de ping
+about-telemetry-show-subsession-data = Amosar datos de subsesión
+about-telemetry-choose-ping = Escolla ping:
 about-telemetry-archive-ping-type = Tipo de ping
-about-telemetry-archive-ping-header =
-    { "" }
-    Ping
-    { "" }
+about-telemetry-archive-ping-header = Ping
 about-telemetry-option-group-today = Hoxe
 about-telemetry-option-group-yesterday = Onte
 about-telemetry-option-group-older = Máis antigo
@@ -40,49 +22,22 @@ about-telemetry-telemetry-dashboard = Os <a data-l10n-name="dashboard-link">tabo
 about-telemetry-telemetry-probe-dictionary = O <a data-l10n-name="probe-dictionary-link">dicionario de proba</a> fornece información e descricións de mostras recollidas por telemetría.
 about-telemetry-show-in-Firefox-json-viewer = Abrir no visor JSON
 about-telemetry-home-section = Inicio
-about-telemetry-general-data-section =
-    { "" }
-      Datos xerais
-    { "" }
-about-telemetry-environment-data-section =
-    { "" }
-      Datos do entorno
-    { "" }
+about-telemetry-general-data-section = Datos xerais
+about-telemetry-environment-data-section = Datos do entorno
 about-telemetry-session-info-section = Información da sesión
 about-telemetry-scalar-section = Escalares
 about-telemetry-keyed-scalar-section = Escalares con lendas
-about-telemetry-histograms-section =
-    { "" }
-      Histogramas
-    { "" }
-about-telemetry-keyed-histogram-section =
-    { "" }
-      Histogramas con lendas
-    { "" }
+about-telemetry-histograms-section = Histogramas
+about-telemetry-keyed-histogram-section = Histogramas con lendas
 about-telemetry-events-section = Eventos
-about-telemetry-simple-measurements-section =
-    { "" }
-      Medidas simples
-    { "" }
-about-telemetry-slow-sql-section =
-    { "" }
-      Sentenzas SQL lentas
-    { "" }
-about-telemetry-addon-details-section =
-    { "" }
-      Detalles do complemento
-    { "" }
+about-telemetry-simple-measurements-section = Medidas simples
+about-telemetry-slow-sql-section = Sentenzas SQL lentas
+about-telemetry-addon-details-section = Detalles do complemento
 about-telemetry-captured-stacks-section = Pilas capturadas
-about-telemetry-late-writes-section =
-    { "" }
-      Escritura atrasada
-    { "" }
+about-telemetry-late-writes-section = Escritura atrasada
 about-telemetry-raw-payload-section = Contido sen procesar
 about-telemetry-raw = JSOn sen procesar
-about-telemetry-full-sql-warning =
-    { "" }
-      NOTA: A depuración SQL lenta está activada. Poden amosarse cadeas completas de SQL pero non se enviarán a telemetría.
-    { "" }
+about-telemetry-full-sql-warning = NOTA: A depuración SQL lenta está activada. Poden amosarse cadeas completas de SQL pero non se enviarán a telemetría.
 about-telemetry-fetch-stack-symbols = Obter os nomes das funcións para as pilas
 about-telemetry-hide-stack-symbols = Amosar os datos da pila sen procesalos
 # Selects the correct release version
