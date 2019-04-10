@@ -77,6 +77,9 @@ detail-version =
 detail-last-updated =
     .label = Diweddarwyd Diwethaf
 detail-contributions-description = Mae datblygwr yr ychwanegyn yn gofyn eich bod yn cynorthwyo i gefnogi datblygiad drwy wneud cyfraniad bychan.
+detail-contributions-button = Cyfrannu
+    .title = Cyfrannwch i ddatblygiad yr ategyn hwn
+    .accesskey = C
 detail-update-type =
     .value = Diweddariadau Awtomatig
 detail-update-default =
@@ -270,3 +273,24 @@ enable-addon-button = Galluogi
 expand-addon-button = Rhagor o Opsiynau
 addons-enabled-heading = Galluogwyd
 addons-disabled-heading = Analluogwyd
+addon-detail-author-label = Awdur
+addon-detail-version-label = Fersiwn
+addon-detail-last-updated-label = Diweddarwyd Diwethaf
+addon-detail-homepage-label = Tudalen Cartref
+addon-detail-rating-label = Graddio
+# This string is used to show that an add-on is disabled.
+# Variables:
+#   $name (string) - The name of the add-on
+addon-name-disabled = { $name } (analluogwyd)
+# The number of reviews that an add-on has received on AMO.
+# Variables:
+#   $numberOfReviews (number) - The number of reviews received
+addon-detail-reviews-link =
+    { $numberOfReviews ->
+        [zero] { $numberOfReviews } adolygiad
+        [one] { $numberOfReviews } adolygiad
+        [two] { $numberOfReviews } adolygiad
+        [few] { $numberOfReviews } adolygiad
+        [many] { $numberOfReviews } adolygiad
+       *[other] { $numberOfReviews } adolygiad
+    }
