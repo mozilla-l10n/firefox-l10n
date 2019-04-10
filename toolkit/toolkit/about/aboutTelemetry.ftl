@@ -19,6 +19,7 @@ about-telemetry-more-information = Ertu að leita að meiri upplýsingum?
 about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Firefox gagna skjölun</a> inniheldur leiðbeiningar um hvernig á að vinna með gagnatólunum okkar.
 about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Firefox Telemetry client skjölunin</a> inniheldur skilgreiningar á hugtökum, API skjölun og gagna vísunum.
 about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">Fjarmælinga skjáborðið</a> sýnir þér hvaða gögn Mozilla tekur á móti í gegnum fjarmælingar.
+about-telemetry-telemetry-probe-dictionary = <a data-l10n-name="probe-dictionary-link">Rannsóknaorðasafnið</a> útvegar smáatriði og lýsingar um rannsóknarsafn úr fjarmælingum.
 about-telemetry-show-in-Firefox-json-viewer = Opna í JSON skoðara
 about-telemetry-home-section = Heim
 about-telemetry-general-data-section = Almenn gögn
