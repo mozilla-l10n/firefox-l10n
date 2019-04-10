@@ -99,6 +99,10 @@ about-telemetry-keys-header = Properti
 about-telemetry-names-header = Nama
 about-telemetry-values-header = Nilai
 # Variables:
+#   $stackKey (String): the string key for this stack
+#   $capturedStacksCount (Integer):  the number of times this stack was captured
+about-telemetry-captured-stacks-title = { $stackKey } (hitungan terekam: { $capturedStacksCount } )
+# Variables:
 #   $lateWriteCount (Integer): the number of the late writes
 about-telemetry-late-writes-title = Penulisan Saat Akhir #{ $lateWriteCount }
 about-telemetry-stack-title = Stack
