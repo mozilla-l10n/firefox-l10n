@@ -77,6 +77,9 @@ detail-version =
 detail-last-updated =
     .label = 최종 수정일
 detail-contributions-description = 이 부가 기능 개발자에게 작은 도움을 통해 개발이 지속될 수 있도록 지원할 수 있습니다.
+detail-contributions-button = 공헌하기
+    .title = 이 부가기능의 개발에 기여합니다
+    .accesskey = C
 detail-update-type =
     .value = 자동 업데이트
 detail-update-default =
@@ -247,6 +250,10 @@ shortcuts-modifier-other = Ctrl 또는 Alt 포함
 shortcuts-invalid = 잘못된 조합
 shortcuts-letter = 문자 입력
 shortcuts-system = { -brand-short-name } 단축키를 재정의 할 수 없음
+# String displayed when a keyboard shortcut is already used by another add-on
+# Variables:
+#   $addon (string) - Name of the add-on
+shortcuts-exists = 이미 { $addon }에서 사용 중입니다.
 shortcuts-card-expand-button =
     { $numberToShow ->
        *[other] { $numberToShow }개 더 보기
@@ -263,3 +270,19 @@ enable-addon-button = 활성화
 expand-addon-button = 옵션 더보기
 addons-enabled-heading = 활성화 됨
 addons-disabled-heading = 비활성화 됨
+addon-detail-author-label = 제작자
+addon-detail-version-label = 버전
+addon-detail-last-updated-label = 최종 수정일
+addon-detail-homepage-label = 홈페이지
+addon-detail-rating-label = 평가
+# This string is used to show that an add-on is disabled.
+# Variables:
+#   $name (string) - The name of the add-on
+addon-name-disabled = { $name } (사용 안 함)
+# The number of reviews that an add-on has received on AMO.
+# Variables:
+#   $numberOfReviews (number) - The number of reviews received
+addon-detail-reviews-link =
+    { $numberOfReviews ->
+       *[other] { $numberOfReviews }개의 리뷰
+    }
