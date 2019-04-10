@@ -56,6 +56,19 @@ about-telemetry-upload-type =
         [enabled] gweredekaet
        *[disabled] diweredekaet
     }
+# Example Output: 1 sample, average = 0, sum = 0
+# Variables:
+#   $sampleCount (Integer): amount of histogram samples
+#   $prettyAverage (Integer): average of histogram samples
+#   $sum (Integer): sum of histogram samples
+about-telemetry-histogram-stats =
+    { $sampleCount ->
+        [one] { $sampleCount } standilhon, keidenn = { $prettyAverage }, sammad = { $sum }
+        [two] { $sampleCount } standilhon, keidenn = { $prettyAverage }, sammad = { $sum }
+        [few] { $sampleCount } standilhon, keidenn = { $prettyAverage }, sammad = { $sum }
+        [many] { $sampleCount } a standilhonoù, keidenn = { $prettyAverage }, sammad = { $sum }
+       *[other] { $sampleCount } standilhon, keidenn = { $prettyAverage }, sammad = { $sum }
+    }
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = Ar bajenn-mañ a ziskouez ar roadennoù a-fet digonusted, periant, arver ha personelaat dastumet gant Telemetry. Kaset eo an titouroù-mañ da { $telemetryServerOwner } evit skoazellañ gwellaat { -brand-full-name }.
