@@ -50,6 +50,10 @@ about-telemetry-keys-header = Властивість
 about-telemetry-names-header = Назва
 about-telemetry-values-header = Значення
 # Variables:
+#   $stackKey (String): the string key for this stack
+#   $capturedStacksCount (Integer):  the number of times this stack was captured
+about-telemetry-captured-stacks-title = { $stackKey } (кількість захоплених: { $capturedStacksCount })
+# Variables:
 #   $lateWriteCount (Integer): the number of the late writes
 about-telemetry-late-writes-title = Пізній запис #{ $lateWriteCount }
 about-telemetry-stack-title = Стек:
