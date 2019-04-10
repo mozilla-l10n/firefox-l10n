@@ -39,9 +39,40 @@ about-telemetry-raw = Hrátt JSON
 about-telemetry-full-sql-warning = ATHUGIÐ: Hægvirk SQL aflúsun er virk. Heildar SQL strengir gætu birst hér fyrir neðan en þeir verða ekki sendir á fjarmælingu.
 about-telemetry-fetch-stack-symbols = Ná í nöfn falla fyrir stafla
 about-telemetry-hide-stack-symbols = Sýna hrá staflagögn
+# Selects the correct release version
+# Variables:
+#   $channel (String): represents the corresponding release data string
+about-telemetry-data-type =
+    { $channel ->
+        [release] sleppa gögnum
+       *[prerelease] for-gögn
+    }
+# Selects the correct upload string
+# Variables:
+#   $uploadcase (String): represents a corresponding upload string
+about-telemetry-upload-type =
+    { $uploadcase ->
+        [enabled] virkt
+       *[disabled] óvirkt
+    }
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = Þessi síða sýnir upplýsingar um afköst, vélbúnað, notkun og sérsnið sem er safnað af fjarmælingu. Þessar upplýsingar eru sendar til { $telemetryServerOwner } til að hjálpa við að betrumbæta { -brand-full-name }.
+about-telemetry-settings-explanation = Fjarmælingar eru að safna { about-telemetry-data-type } og hlaða inn á <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a>.
+# Variables:
+#   $name (String): ping name, e.g. “saved-session”
+#   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
+about-telemetry-ping-details = Hvert eintak af upplýsingum er sent samsett til “<a data-l10n-name="ping-link">pings</a>”. Þú ert að athuga { $name }, { $timestamp } ping.
+about-telemetry-ping-details-current = Hvert eintak af upplýsingum er sent samsett til “<a data-l10n-name="ping-link">pings</a>”. Þú ert að athuga núverandi ping.
+# string used as a placeholder for the search field
+# More info about it can be found here:
+# https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
+# Variables:
+#   $selectedTitle (String): the section name from the structure of the ping.
+about-telemetry-filter-placeholder =
+    .placeholder = Leita í { $selectedTitle }
+about-telemetry-filter-all-placeholder =
+    .placeholder = Leita í öllum svæðum
 # Variables:
 #   $searchTerms (String): the searched terms
 about-telemetry-results-for-search = Niðurstöður fyrir “{ $searchTerms }”
@@ -50,14 +81,34 @@ about-telemetry-results-for-search = Niðurstöður fyrir “{ $searchTerms }”
 #   $sectionName (String): the section name from the structure of the ping.
 #   $currentSearchText (String): the current text in the search input
 about-telemetry-no-search-results = Því miður! Engar niðurstöður eru í { $sectionName } fyrir “{ $currentSearchText }”
+# Variables:
+#   $searchTerms (String): the searched terms
+about-telemetry-no-search-results-all = Því miður! Engar niðurstöður eru í neinu svæði fyrir “{ $searchTerms }”
+# This message is displayed when a section is empty.
+# Variables:
+#   $sectionName (String): is replaced by the section name.
+about-telemetry-no-data-to-display = Því miður! Engin gögn eru tiltæk í “{ $sectionName }”
+# used as a tooltip for the “current” ping title in the sidebar
+about-telemetry-current-ping-sidebar = núverandi ping
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = allt
+# button label to copy the histogram
+about-telemetry-histogram-copy = Afrita
 # these strings are used in the “Slow SQL Statements” section
 about-telemetry-slow-sql-main = Hægar SQL skipanir á aðalþræði
 about-telemetry-slow-sql-other = Hægar SQL skipanir á hjálparþráðum
 about-telemetry-slow-sql-hits = Notkun
 about-telemetry-slow-sql-average = Meðaltími (ms)
 about-telemetry-slow-sql-statement = Setning
+# these strings are used in the “Add-on Details” section
+about-telemetry-addon-table-id = Viðbótar ID
+about-telemetry-addon-table-details = Nánar
+# Variables:
+#   $addonProvider (String): the name of an Add-on Provider (e.g. “XPI”, “Plugin”)
+about-telemetry-addon-provider = { $addonProvider } þjónustuaðili
+about-telemetry-keys-header = Eiginleiki
+about-telemetry-names-header = Nafn
+about-telemetry-values-header = Gildi
 # Variables:
 #   $stackKey (String): the string key for this stack
 #   $capturedStacksCount (Integer):  the number of times this stack was captured
