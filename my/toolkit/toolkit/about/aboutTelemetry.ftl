@@ -12,6 +12,10 @@ about-telemetry-page-title = Telemetry Data
 about-telemetry-general-data-section = အထွေထွေ အချက်အလက်
 about-telemetry-environment-data-section = Environment Data
 about-telemetry-session-info-section = အသုံးပြုမှုကာလအချက်အလက်
+about-telemetry-scalar-section =
+      
+      Scalars
+      
 about-telemetry-histograms-section = Histograms
 about-telemetry-keyed-histogram-section = ကီးများဖြင့် ဇယားကွက်
 about-telemetry-simple-measurements-section = ရိုးရှင်းသော တိုင်းတာချက်များ
@@ -20,6 +24,8 @@ about-telemetry-addon-details-section = Add-on Details
 about-telemetry-late-writes-section = နောက်ကျသောရေးသားချက်
 about-telemetry-raw = JSON အကြမ်းထည်
 about-telemetry-full-sql-warning = NOTE: Slow SQL debugging is enabled. Full SQL strings may be displayed below but they will not be submitted to Telemetry.
+about-telemetry-fetch-stack-symbols = အကန့်များထဲမှ လုပ်ဆောင်ချက်အမည်များအာ:ဆွဲထုတ်ပါ
+about-telemetry-hide-stack-symbols = မူရင်းမှတ်သားချက်များအားပြပါ
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = This page shows the information about performance, hardware, usage and customizations collected by Telemetry. This information is submitted to { $telemetryServerOwner } to help improve { -brand-full-name }.
@@ -38,7 +44,12 @@ about-telemetry-addon-table-details = အသေးစိတ်များ
 #   $addonProvider (String): the name of an Add-on Provider (e.g. “XPI”, “Plugin”)
 about-telemetry-addon-provider = { $addonProvider } Provider
 about-telemetry-keys-header = ဂုဏ်သတ္တိများ
+about-telemetry-names-header = အမည်
 about-telemetry-values-header = တန်ဖိုး
+# Variables:
+#   $stackKey (String): the string key for this stack
+#   $capturedStacksCount (Integer):  the number of times this stack was captured
+about-telemetry-captured-stacks-title = { $stackKey } (မှတ်သားချက်များ- { $capturedStacksCount })
 # Variables:
 #   $lateWriteCount (Integer): the number of the late writes
 about-telemetry-late-writes-title = Late Write #{ $lateWriteCount }
