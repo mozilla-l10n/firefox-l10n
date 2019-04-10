@@ -5,9 +5,12 @@
 about-telemetry-page-title = Sonraí Telemetry
 about-telemetry-general-data-section = { "  " }Sonraí Ginearálta
 about-telemetry-histograms-section = { "  " }Histeagraim
+about-telemetry-keyed-histogram-section = { " " }Histeagraim Eochraithe
 about-telemetry-simple-measurements-section = { "  " }Tomhais Shimplí
 about-telemetry-slow-sql-section = { "  " }Ráitis Mhalla SQL
 about-telemetry-addon-details-section = { "  " }Mionsonraí an Bhreiseáin
+about-telemetry-late-writes-section = { " " }Scríobh Déanach
+about-telemetry-full-sql-warning = { " " }Nod: Tá dífhabhtú mall SQL ar siúl. D'fhéadfadh go mbeadh teaghráin iomlána SQL á dtaispeáint thíos, ach ní sheolfar chuig Telemetry iad.
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = Taispeánann an leathanach seo faisnéis maidir le feidhmíocht, crua-earraí, úsáid, agus saincheapadh a bhailigh Telemetry. Seoltar an fhaisnéis seo chuig { $telemetryServerOwner } chun cabhrú linn { -brand-full-name } a fheabhsú.
