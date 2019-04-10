@@ -2,10 +2,18 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+about-telemetry-ping-data-source = পিং তথ্যের উৎস:
+about-telemetry-show-current-ping-data = বর্তমান পিং তথ্য
+about-telemetry-show-archived-ping-data = আর্কাইভ পিং তথ্য
+about-telemetry-general-data-section = { "   " }সাধারণ তথ্য
+about-telemetry-environment-data-section = { "   " }পরিবেশ ডেটা
 about-telemetry-slow-sql-section = { "  " }ধীর গতির এসকিউএল বিবৃতি
 about-telemetry-addon-details-section = { "  " }অ্যাড-অনের বিস্তারিত
 about-telemetry-late-writes-section = { "  " }বিলম্বিত লেখনী
 about-telemetry-full-sql-warning = { "  " }নোট: ধীর গতির SQL ডিবাগিং সক্রিয় করা হয়েছে।সম্পূর্ণ SQL স্ট্রিং নীচে প্রদর্শিত হতে পারে কিন্তু তাদের টেলিমেট্রিতে উপস্থাপন করা হবে না।
+about-telemetry-fetch-stack-symbols = { "  " }স্ট্যাকের জন্য ফাংশনের নামসমূহ আনো
+# used in the “Ping Type” select
+about-telemetry-telemetry-ping-type-all = সব
 # these strings are used in the “Slow SQL Statements” section
 about-telemetry-slow-sql-main = ধীর গতির প্রধান থ্রেডে SQLস্টেটমেন্ট
 about-telemetry-slow-sql-other = ধীর গতির সহায়ক থ্রেডে SQL স্টেটমেন্ট
@@ -18,3 +26,8 @@ about-telemetry-late-writes-title = #{ $lateWriteCount } দেরিতে ল�
 about-telemetry-stack-title = স্তূপ:
 about-telemetry-memory-map-title = মেমরি ম্যাপ:
 about-telemetry-error-fetching-symbols = যখন প্রতীক আনা হয় তখন একটি ত্রুটি হয়েছে।পরীক্ষা করুন যে আপনি ইন্টারনেটের সাথে যুক্ত এবং আবার চেষ্টা করুন।
+about-telemetry-time-stamp-header = টাইমস্ট্যাম্প
+about-telemetry-category-header = বিষয়শ্রেণী
+about-telemetry-method-header = পদ্ধতি
+about-telemetry-object-header = অবজেক্ট
+about-telemetry-extra-header = অতিরিক্ত
