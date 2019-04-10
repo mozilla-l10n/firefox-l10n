@@ -15,6 +15,8 @@ about-telemetry-option-group-older = Starsze
 about-telemetry-previous-ping = <<
 about-telemetry-next-ping = >>
 about-telemetry-page-title = Dane telemetrii
+about-telemetry-more-information = Szukasz dalszych informacji?
+about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Firefox Data Documentation</a> zawiera przewodniki o tym, jak pracować z naszymi narzędziami danych
 about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Dokumentacja klienta telemetrii programu Firefox</a> zawiera definicje konceptów, dokumentację API i odniesienia do danych
 about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">Dashboardy telemetrii</a> pozwalają wizualizować dane, jakie Mozilla otrzymuje poprzez telemetrię
 about-telemetry-telemetry-probe-dictionary = <a data-l10n-name="probe-dictionary-link">Probe Dictionary</a> dostarcza szczegółów i opisów danych zbieranych na potrzeby telemetrii.
