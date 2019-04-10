@@ -7,19 +7,42 @@ about-telemetry-show-current-ping-data = ప్రస్తుత పింగ�
 about-telemetry-show-archived-ping-data = భద్రపరచిన పింగ్ డేటా
 about-telemetry-show-subsession-data = ఉప సెషన్ డేటా చూపించు
 about-telemetry-choose-ping = పింగ్ ఎంచుకోండి:
+about-telemetry-archive-ping-type = పింగ్ రకం
+about-telemetry-archive-ping-header = పింగ్
+about-telemetry-option-group-today = నేడు
+about-telemetry-option-group-yesterday = నిన్న
+about-telemetry-option-group-older = పాతవి
+about-telemetry-previous-ping = <<
+about-telemetry-next-ping = >>
+about-telemetry-page-title = టెలీమెట్రీ సమాచారం
+about-telemetry-more-information = మరింత సమాచారం కోసం చూస్తున్నారా?
+about-telemetry-show-in-Firefox-json-viewer = JSON వ్యూయర్లో తెరవండి
+about-telemetry-home-section = ముంగిలి
 about-telemetry-general-data-section = సాధారణ దత్తాంశం
 about-telemetry-environment-data-section = పర్యావరణ దత్తాంశం
+about-telemetry-session-info-section = సెషేన్ యొక్క సమాచారం
 about-telemetry-scalar-section = స్కేలార్ లు
 about-telemetry-keyed-scalar-section = Keyed Scalars
 about-telemetry-histograms-section = హిస్టోగ్రామ్స్
 about-telemetry-keyed-histogram-section = కీ ఇవ్వబడిన హిస్టోగ్రాములు
 about-telemetry-events-section = చర్యలు
 about-telemetry-simple-measurements-section = మాదిరి కొలతలు
+about-telemetry-slow-sql-section = నిదానమైన SQL వాక్యాలు
 about-telemetry-addon-details-section = పొడిగింత వివరాలు
+about-telemetry-captured-stacks-section = పట్టుబడిన స్టాక్స్
 about-telemetry-late-writes-section = లేట్ వ్రైట్స్
 about-telemetry-raw-payload-section = ముడి పేలోడు
+about-telemetry-raw = ముడి JSON
 about-telemetry-full-sql-warning = గమనిక: నిదానమైన SQL డీబగ్గింగ్ చేతనమైంది. పూర్తి SQL స్ట్రింగ్స్ కిందన ప్రదర్శించవచ్చు అయితే అవి టెలీమెట్రీకు సమర్పించబడవు.
 about-telemetry-fetch-stack-symbols = స్టాక్స్ కొరకు ఫంక్షన్ పేర్లను వెతికితెమ్ము
+# Selects the correct upload string
+# Variables:
+#   $uploadcase (String): represents a corresponding upload string
+about-telemetry-upload-type =
+    { $uploadcase ->
+        [enabled] చేతనమైనది
+       *[disabled] అచేతనమైనది
+    }
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = ఈ పేజీ టెలీమెట్రీచే సేకరించబడిన పనితనం, హార్డువేర్, వినియోగం మరియు మలచుకొనే విధానం గురించిన సమాచారం చూపును. ఈ సమాచారం { $telemetryServerOwner } సమర్పించబడింది { -brand-full-name } మెరుగుదలలో సహాయం కొరకు.
@@ -32,6 +55,9 @@ about-telemetry-filter-placeholder =
     .placeholder = { $selectedTitle } లో కనుగొనండి
 about-telemetry-filter-all-placeholder =
     .placeholder = అన్ని విభాగాలలో కనుగొనండి
+# Variables:
+#   $searchTerms (String): the searched terms
+about-telemetry-results-for-search = “{ $searchTerms }” కోసం ఫలితాలు
 # More info about it can be found here: https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
 # Variables:
 #   $sectionName (String): the section name from the structure of the ping.
