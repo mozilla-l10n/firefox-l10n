@@ -10,6 +10,7 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
+policy-3rdparty = Caktoni rregulla të cilat WebExtensions mund t’i shohin përmes chrome.storage.managed.
 policy-AppUpdateURL = Caktoni URL vetjake përditësimi aplikacioni.
 policy-Authentication = Formësoni mirëfilltësim të integruar për sajte që e mbulojnë atë.
 policy-BlockAboutAddons = Bllokoni hyrje te Përgjegjësi i Shtesave (about:addons).
@@ -17,6 +18,7 @@ policy-BlockAboutConfig = Bllokoni hyrje te faqja about:config.
 policy-BlockAboutProfiles = Bllokoni hyrje te faqja about:profiles.
 policy-BlockAboutSupport = Bllokoni hyrje te faqja about:support.
 policy-Bookmarks = Krijoni faqerojtës te paneli Faqerojtës, menuja Faqerojtës, ose te një dosje e caktuar brenda tyre.
+policy-CaptivePortal = Aktivizoni ose çaktivizoni mbulim për <em>captive portal</em>.
 policy-CertificatesDescription = Shtoni dëshmi ose përdorni dëshmi të brendshme të programit.
 policy-Cookies = Lejoni ose jo që sajte të depozitojnë <em>cookies</em>.
 policy-DisableAppUpdate = Pengoje shfletuesin të përditësohet.
@@ -55,12 +57,14 @@ policy-HardwareAcceleration = Nëse false, çaktivizohet përshpejtimi përmes h
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Caktoni faqen hyrëse, dhe kyçeni në daçi.
 policy-InstallAddonsPermission = Lejojuni disa sajteve të caktuar të instalojnë shtesa.
+policy-NetworkPrediction = Aktivizoni ose çaktivizoni parashikim rrjeti (<em>DNS prefetching</em>).
 policy-NoDefaultBookmarks = Çaktivizoni krijimin e faqerojtësve parazgjedhje të paketuar me { -brand-short-name }-in, dhe Faqerojtës të Mençur (Më të Vizituarit, Etiketa Së Fundi). Shënim: ky rregull ka efekt vetëm nëse përdoret përpara xhirimit për herë të parë nën profilin përkatës.
 policy-OfferToSaveLogins = Bëjeni të detyrueshëm rregullimin për lejimin e { -brand-short-name }-it të ofrojë të mbajë mend kredenciale hyrjesh dhe fjalëkalime. Pranohet që të dyja vlerat, <em>true</em> dhe <em>false</em>.
 policy-OverrideFirstRunPage = Anashkaloni faqen e xhirimit për herë të parë. Lëreni të zbrazët, nëse doni të çaktivizohet faqja e xhirimit për herë të parë.
 policy-OverridePostUpdatePage = Anashkaloni faqen “Ç’ka të Re” që shfaqet pas përditësimesh. Lëreni të zbrazët, nëse doni të çaktivizohet faqja pas-përditësim.
 policy-Permissions = Formësoni lejet për kamerën, mikrofonin, vendndodhjen dhe njoftimet.
 policy-PopupBlocking = Lejojuni, si parazgjedhje, disa sajteve të shfaqin flluska.
+policy-Preferences = Caktoni dhe kyçni vlerën për një nëngrup parapëlqimesh.
 policy-Proxy = Formësoni rregullime ndërmjetësi
 policy-RequestedLocales = Caktoni për aplikacionin listën e gjuhëve të kërkuara, renditur sipas parapëlqimit.
 policy-SanitizeOnShutdown = Gjatë fikjes, pastroni krejt të dhënat e lëvizjeve.

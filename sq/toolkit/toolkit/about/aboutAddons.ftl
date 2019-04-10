@@ -77,6 +77,9 @@ detail-version =
 detail-last-updated =
     .label = Përditësuar Së Fundi Më
 detail-contributions-description = Zhvilluesi i kësaj shtese do të dëshironte që përmes një kontributi të vogël të ndihmonit zhvillimin e saj në vazhdimësi.
+detail-contributions-button = Kontribuoni
+    .title = Kontribuoni në zhvillimin e kësaj shtese
+    .accesskey = K
 detail-update-type =
     .value = Përditësime të Vetvetishme
 detail-update-default =
@@ -246,6 +249,10 @@ shortcuts-modifier-other = Përfshi Ctrl ose Alt
 shortcuts-invalid = Kombinim i pavlefshëm
 shortcuts-letter = Shtypni një shkronjë
 shortcuts-system = S’anashkalohet dot shkurtore { -brand-short-name }
+# String displayed when a keyboard shortcut is already used by another add-on
+# Variables:
+#   $addon (string) - Name of the add-on
+shortcuts-exists = Përdorur tashmë nga { $addon }
 shortcuts-card-expand-button =
     { $numberToShow ->
         [one] Shfaq { $numberToShow } Më Tepër
@@ -268,3 +275,15 @@ addon-detail-version-label = Version
 addon-detail-last-updated-label = Përditësuar Së Fundi
 addon-detail-homepage-label = Kreu
 addon-detail-rating-label = Vlerësim
+# This string is used to show that an add-on is disabled.
+# Variables:
+#   $name (string) - The name of the add-on
+addon-name-disabled = { $name } (e çaktivizuar)
+# The number of reviews that an add-on has received on AMO.
+# Variables:
+#   $numberOfReviews (number) - The number of reviews received
+addon-detail-reviews-link =
+    { $numberOfReviews ->
+        [one] { $numberOfReviews } shqyrtim
+       *[other] { $numberOfReviews } shqyrtime
+    }
