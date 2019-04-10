@@ -3,22 +3,39 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-telemetry-ping-data-source = Извор података пинга:
+about-telemetry-show-current-ping-data = Подаци тренутног пинга
+about-telemetry-show-archived-ping-data = Архивирани подаци пинга
+about-telemetry-show-subsession-data = Прикажи податке сесије
+about-telemetry-choose-ping = Изабери пинг:
+about-telemetry-archive-ping-type = Врста пинга
+about-telemetry-archive-ping-header = Пинг
+about-telemetry-option-group-today = Данас
+about-telemetry-option-group-yesterday = Јуче
+about-telemetry-option-group-older = Старије
+about-telemetry-previous-ping = <<
+about-telemetry-next-ping = >>
+about-telemetry-page-title = Подаци телеметрије
 about-telemetry-more-information = Тражите више података?
 about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Firefox документација података</a> садржи водиче о томе како радити са нашим алатима за податке.
 about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Firefox документација телеметрије клијента</a> укључује дефиниције концепта, API документацију и референце података.
 about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">Командна табла телеметрије</a> вам дозвољава да визуелно прикажете податке које Mozilla прима путем телеметрије.
 about-telemetry-show-in-Firefox-json-viewer = Отвори у JSON приказивачу
+about-telemetry-home-section = Почетна
 about-telemetry-general-data-section = Општи подаци
 about-telemetry-environment-data-section = Подаци о окружењу
+about-telemetry-session-info-section = Информације о сесији
 about-telemetry-scalar-section = Скалари
 about-telemetry-keyed-scalar-section = Кључни скалари
 about-telemetry-histograms-section = Хистограми
 about-telemetry-keyed-histogram-section = Кључни хистограми
 about-telemetry-events-section = Догађаји
 about-telemetry-simple-measurements-section = Једноставна мерења
+about-telemetry-slow-sql-section = Прикажи SQL упите
 about-telemetry-addon-details-section = Детаљи о додатку
+about-telemetry-captured-stacks-section = Ухваћени стекови
 about-telemetry-late-writes-section = Касна писања
 about-telemetry-raw-payload-section = Raw Payload
+about-telemetry-raw = Необрађен JSON
 about-telemetry-full-sql-warning = Напона: Споро SQL решавање је укључено. SQL стрингови ће можда бити приказани испод али не могу бити послати телеметрији.
 about-telemetry-fetch-stack-symbols = Имена Fetch функција за стекове
 about-telemetry-hide-stack-symbols = Прикажи стек податке
@@ -46,6 +63,7 @@ about-telemetry-settings-explanation = Телеметрија сакупља { a
 #   $name (String): ping name, e.g. “saved-session”
 #   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = Сваки део информације је послат у комплету у “<a data-l10n-name="ping-link">пингове</a>”. Ви гледате у { $name }, { $timestamp } пинг.
+about-telemetry-ping-details-current = Сваки део информације је послат у комплету у “<a data-l10n-name="ping-link">пингове</a>”. Ви гледате у тренутно пинг.
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
@@ -55,6 +73,9 @@ about-telemetry-filter-placeholder =
     .placeholder = Нађите у { $selectedTitle }
 about-telemetry-filter-all-placeholder =
     .placeholder = Пронађи све секције
+# Variables:
+#   $searchTerms (String): the searched terms
+about-telemetry-results-for-search = Резултати за “{ $searchTerms }”
 # More info about it can be found here: https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
 # Variables:
 #   $sectionName (String): the section name from the structure of the ping.
