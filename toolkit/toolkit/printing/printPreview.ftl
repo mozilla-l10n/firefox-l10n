@@ -45,7 +45,7 @@ printpreview-page =
 ## $arrow (String) - UTF-8 arrow character for navigation buttons
 
 printpreview-percentage-value =
-    .label = { $percent }&nbsp;%
+    .label = { $percent } %
 printpreview-homearrow =
     .label = { $arrow }
     .tooltiptext = Prěnja strona
