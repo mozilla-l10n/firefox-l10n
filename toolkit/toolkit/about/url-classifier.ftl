@@ -5,6 +5,8 @@
 url-classifier-title = Upplýsingar um URL flokkara
 url-classifier-search-title = Leita
 url-classifier-search-result-title = Niðurstöður
+url-classifier-search-result-uri = URI: { $uri }
+url-classifier-search-result-list = Listi yfir töflur: { $list }
 url-classifier-search-input = Slóð
 url-classifier-search-error-invalid-url = Ógild slóð (URL)
 url-classifier-search-error-no-features = Engir eiginleikar valdir
