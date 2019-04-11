@@ -93,6 +93,7 @@ detail-update-manual =
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Exécution dans les fenêtres privées
 detail-private-browsing-description2 = Si autorisée, l’extension aura accès à vos activités en ligne pendant la navigation privée. <label data-l10n-name="detail-private-browsing-learn-more">En savoir plus</label>
+detail-private-required-description = Cette extension a accès à vos activités en ligne pendant la navigation privée. <label data-l10n-name="detail-private-browsing-learn-more">En savoir plus</label>
 detail-private-browsing-on =
     .label = Autoriser
     .tooltiptext = Autoriser en navigation privée
@@ -243,6 +244,10 @@ shortcuts-modifier-other = Inclure Ctrl ou Alt
 shortcuts-invalid = Combinaison invalide
 shortcuts-letter = Saisissez une lettre
 shortcuts-system = Impossible de remplacer un raccourci { -brand-short-name }
+# String displayed when a keyboard shortcut is already used by another add-on
+# Variables:
+#   $addon (string) - Name of the add-on
+shortcuts-exists = Déjà utilisé par { $addon }
 shortcuts-card-expand-button =
     { $numberToShow ->
         [one] En montrer { $numberToShow } de plus
@@ -257,5 +262,6 @@ go-back-button =
 remove-addon-button = Supprimer
 disable-addon-button = Désactiver
 enable-addon-button = Activer
+expand-addon-button = Plus d’options
 addons-enabled-heading = Activé
 addons-disabled-heading = Désactivé
