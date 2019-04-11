@@ -8,6 +8,7 @@ about-config-warning-text = 이 고급 설정을 변경하면 이 프로그램�
 about-config-warning-checkbox = 다음에 이 경고 계속 표시하기
 about-config-warning-button = 위험을 감수하겠습니다!
 about-config-title = about:config
+about-config2-title = 고급 설정
 about-config-search-input =
     .placeholder = 검색
 about-config-show-all = 모두 보기
