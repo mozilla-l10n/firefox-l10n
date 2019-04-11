@@ -65,6 +65,7 @@ policy-RequestedLocales = Configura, in ordine di preferenza, l’elenco delle l
 policy-SanitizeOnShutdown = Elimina tutti i dati di navigazione alla chiusura.
 policy-SearchBar = Imposta l’indirizzo predefinito nella barra di ricerca. L’utente potra comunque modificarlo.
 policy-SearchEngines = Configura le impostazioni relative ai motori di ricerca. Questo criterio è disponibile solo nella versione Extended Support Release (ESR).
+policy-SearchSuggestEnabled = Attiva o disattiva suggerimenti di ricerca.
 policy-SecurityDevices = Installa moduli PKCS #11.
 policy-SSLVersionMax = Imposta la versione massima di SSL.
 policy-SSLVersionMin = Imposta la versione minima di SSL.
