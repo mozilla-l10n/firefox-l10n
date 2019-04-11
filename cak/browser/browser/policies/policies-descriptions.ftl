@@ -64,6 +64,7 @@ policy-OverrideFirstRunPage = Tiyuj ri nab'ey ruxaq rub'anikil. Tiya' pa säq re
 policy-OverridePostUpdatePage = Nayüj ri ruxaq "K'ak'a' taq tzijol" chi rij ri k'exoj. Tiya' pa säq re na'ojil re' we nawajo' nachüp re ruxaq chi rij ri k'exoj.
 policy-Permissions = Tib'an kinuk'ulem ya'oj taq q'ij kichin elesäy wachib'äl, q'asäy ch'ab'äl, k'ojlib'äl chuqa' taq rutzijol.
 policy-PopupBlocking = Tiya' q'ij chi jujun taq ajk'amaya'l ruxaq kekik'utu' elenel taq tzuwäch achi'el e k'o wi.
+policy-Preferences = Tajikib'a' chuqa' taq'ata' ri rejqalem jun rachmolaj ajowanïk.
 policy-Proxy = Tib'an runuk'ulem ri proxi.
 policy-RequestedLocales = Tijikib'äx rucholajem k'utun taq rutzalq'omanem chokoy, cholajin chi ajowanïk.
 policy-SanitizeOnShutdown = Keyuj ronojel ri taq rutzij okem pa k'amaya'l toq nichup.

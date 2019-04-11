@@ -8,6 +8,7 @@ about-config-warning-text = Nik'ex re q'axinäq nuk'ulem re' rik'in jub'a' xtutz
 about-config-warning-checkbox = ¡Tiya' chik pe rutzijol k'ayewal chwe, tib'ana' utzil!
 about-config-warning-button = Yinok chuwäch ri k'ayewal
 about-config-title = about:config
+about-config2-title = Q'axinäq taq Nuk'ulem
 about-config-search-input =
     .placeholder = Tikanöx
 about-config-show-all = Tik'ut Ronojel
