@@ -41,7 +41,7 @@
 <!ENTITY compactFolders.label "Compact Folders">
 <!ENTITY compactFolders.accesskey "F">
 <!ENTITY emptyTrashCmd.label "خالی کردن زباله‌">
-<!ENTITY emptyTrashCmd.accesskey "y">
+<!ENTITY emptyTrashCmd.accesskey "ب">
 <!ENTITY offlineMenu.label "Offline">
 <!ENTITY offlineMenu.accesskey "l">
 <!ENTITY offlineGoOfflineCmd.label "کار منفصل">
@@ -471,7 +471,7 @@
 <!ENTITY folderContextCompact.label "Compact">
 <!ENTITY folderContextCompact.accesskey "C">
 <!ENTITY folderContextEmptyTrash.label "خالی کردن زباله">
-<!ENTITY folderContextEmptyTrash.accesskey "y">
+<!ENTITY folderContextEmptyTrash.accesskey "ب">
 <!ENTITY folderContextEmptyJunk.label "Empty Junk">
 <!ENTITY folderContextEmptyJunk.accesskey "J">
 <!ENTITY folderContextSendUnsentMessages.label "Send Unsent Messages">
