@@ -678,6 +678,7 @@ content-blocking-setting-custom =
 content-blocking-standard-description = Blochează numai elementele de urmărire cunoscute în ferestrele private.
 content-blocking-standard-desc = Echilibrată pentru protecție și performanță. Permite unele elemente de urmărire pentru ca site-urile web să funcționeze corespunzător.
 content-blocking-strict-desc = Blochează toate elementele de urmărire pe care le depistează { -brand-short-name }. Poate produce disfuncționalități pe unele site-uri.
+content-blocking-strict-description = Protecție mai puternică, poate împiedica funcționarea unor site-uri.
 content-blocking-custom-desc = Alege ce să blochezi.
 content-blocking-private-trackers = Elemente de urmărire cunoscute numai în ferestre private
 content-blocking-third-party-cookies = Cookie-uri de urmărire de la terți
