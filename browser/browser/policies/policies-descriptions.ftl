@@ -125,6 +125,8 @@ policy-SearchBar = De standaardlocatie van de zoekbalk instellen. De gebruiker m
 
 policy-SearchEngines = Instellingen voor zoekmachines configureren. Deze beleidsregel is alleen beschikbaar in de Extended Support Release (ESR)-versie.
 
+policy-SearchSuggestEnabled = Zoeksuggesties inschakelen of uitschakelen.
+
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = PKCS #11-modules installeren.
 
