@@ -64,6 +64,7 @@ policy-OverrideFirstRunPage = 처음 시작 페이지 설정을 재정의 합니
 policy-OverridePostUpdatePage = "새기능" 업데이트 후 페이지를 재정의 합니다. 업데이트 후 페이지를 비활성화 하려면 이 정책을 빈칸으로 설정하세요.
 policy-Permissions = 카메라나 마이크, 위치, 알림 권한을 설정합니다.
 policy-PopupBlocking = 기본으로 특정 웹사이트가 팝업을 보여주도록 허용합니다.
+policy-Preferences = 설정의 하위 집합에 대한 값을 설정하고 잠급니다.
 policy-Proxy = 프록시 설정을 구성합니다.
 policy-RequestedLocales = 어플리케이션의 요청된 로케일의 목록을 설정 순서로 설정합니다.
 policy-SanitizeOnShutdown = 종료시 모든 네비게이션 데이터를 삭제합니다.
