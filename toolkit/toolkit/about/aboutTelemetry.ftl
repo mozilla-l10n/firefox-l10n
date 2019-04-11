@@ -125,3 +125,4 @@ about-telemetry-category-header = kategori
 about-telemetry-method-header = yöntem
 about-telemetry-object-header = nesne
 about-telemetry-extra-header = ekstra
+about-telemetry-origin-count = sayaç
