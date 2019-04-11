@@ -56,6 +56,16 @@ about-telemetry-upload-type =
         [enabled] aktiverad
        *[disabled] inaktiverad
     }
+# Example Output: 1 sample, average = 0, sum = 0
+# Variables:
+#   $sampleCount (Integer): amount of histogram samples
+#   $prettyAverage (Integer): average of histogram samples
+#   $sum (Integer): sum of histogram samples
+about-telemetry-histogram-stats =
+    { $sampleCount ->
+        [one] { $sampleCount } prov, medel = { $prettyAverage }, summa = { $sum }
+       *[other] { $sampleCount } prover, medel = { $prettyAverage }, summa = { $sum }
+    }
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = Den här sidan visar information om prestanda, hårdvara, användning och anpassningar insamlad av telemetri. Den här informationen skickas till { $telemetryServerOwner } för att hjälpa till att förbättra { -brand-full-name }.
@@ -125,3 +135,4 @@ about-telemetry-category-header = kategori
 about-telemetry-method-header = metod
 about-telemetry-object-header = objekt
 about-telemetry-extra-header = extra
+about-telemetry-origin-count = antal
