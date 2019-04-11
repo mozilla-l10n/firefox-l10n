@@ -440,6 +440,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.label       "Taq Ajowanel">
 <!ENTITY preferencesCmdUnix.accesskey     "o">
 
+<!ENTITY logins.label                           "Kitikirisaxik molojri'ïl chuqa' Ewan taq Tzij">
 
 <!ENTITY clearRecentHistory.label               "Tiyuj ri k'ak'a' natab'äl…">
 
