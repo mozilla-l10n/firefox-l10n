@@ -41,6 +41,8 @@ about-debugging-sidebar-no-devices = Majun okisab'äl xe'ilitäj
 about-debugging-sidebar-item-connect-button = Tokisäx
 # Text displayed in buttons found in sidebar items when the runtime is connecting.
 about-debugging-sidebar-item-connect-button-connecting = Nok…
+# Text displayed in buttons found in sidebar items when the connection failed.
+about-debugging-sidebar-item-connect-button-connection-failed = Xsach ri okem
 # Temporary text displayed in sidebar items representing remote runtimes after
 # successfully connecting to them. Temporary UI, do not localize.
 about-debugging-sidebar-item-connected-label = Xokisäx
