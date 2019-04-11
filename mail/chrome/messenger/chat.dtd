@@ -4,33 +4,11 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!ENTITY aliasCmd.label                "تغییر نام">
 <!ENTITY aliasCmd.accesskey            "ت">
 
 
-
-
-
-
-
-
+<!ENTITY joinChatButton.label          "پیوستن به گپ">
 
 <!ENTITY status.offline            "Offline">
-
 
