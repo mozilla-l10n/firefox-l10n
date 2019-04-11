@@ -8,7 +8,12 @@
 <!ENTITY stretch.label              "Tiyuq">
 <!ENTITY fill.label                 "Tinojisäx">
 <!ENTITY fit.label                  "Tinuk'">
-<!ENTITY preview.label              "Nab'ey tzub'al">
+<!-- LOCALIZATION NOTE (span.label): This refers to the wallpaper "spanning"
+                       multiple monitors when the user has more than one. Only
+                       some of the entire image will be on each monitor.
+                       This should ideally match the wording in Windows' own
+                       Desktop Background settings page. -->
+<!ENTITY span.label                 "Tirik'">
 <!ENTITY color.label                "B'onil:">
 <!ENTITY setDesktopBackground.title "Ticha' richin rupam ch'atal">
 <!ENTITY openDesktopPrefs.label     "Kejaq ri taq rajowab'al kematz'ib'ab'äl">

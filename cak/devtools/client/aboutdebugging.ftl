@@ -8,6 +8,11 @@
 
 # Page Title strings
 
+# Page title (ie tab title) for the Setup page
+about-debugging-page-title-setup-page = Chojmirisaxïk - Nuk'ulem
+# Page title (ie tab title) for the Runtime page
+# { $selectedRuntimeId } is the id of the current runtime, such as "this-firefox", "localhost:6080", ...
+about-debugging-page-title-runtime-page = Chojmirisaxïk - Ruq'ijul samaj / { $selectedRuntimeId }
 
 # Sidebar strings
 
@@ -29,9 +34,13 @@ about-debugging-sidebar-usb-disabled = Chupun USB
 aboutdebugging-sidebar-runtime-connection-status-connected = Xokisäx
 # Connection status (disconnected) for runtime items in the sidebar
 aboutdebugging-sidebar-runtime-connection-status-disconnected = Xchup
+# Text displayed in the about:debugging sidebar when no device was found.
+about-debugging-sidebar-no-devices = Majun okisab'äl xe'ilitäj
 # Text displayed in buttons found in sidebar items representing remote runtimes.
 # Clicking on the button will attempt to connect to the runtime.
 about-debugging-sidebar-item-connect-button = Tokisäx
+# Text displayed in buttons found in sidebar items when the runtime is connecting.
+about-debugging-sidebar-item-connect-button-connecting = Nok…
 # Temporary text displayed in sidebar items representing remote runtimes after
 # successfully connecting to them. Temporary UI, do not localize.
 about-debugging-sidebar-item-connected-label = Xokisäx
