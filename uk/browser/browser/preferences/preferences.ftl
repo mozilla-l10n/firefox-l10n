@@ -574,8 +574,8 @@ history-header = Історія відвідувань
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label = { -brand-short-name } буде
-    .accesskey = б
+history-remember-label = Поведінка { -brand-short-name }
+    .accesskey = П
 history-remember-option-all =
     .label = Пам’ятати історію
 history-remember-option-never =
