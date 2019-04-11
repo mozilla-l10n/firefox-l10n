@@ -8,6 +8,7 @@ about-config-warning-text = Ef átt er við þessar stillingar getur það haft 
 about-config-warning-checkbox = Pirra mig aftur, takk!
 about-config-warning-button = Ég samþykki áhættuna
 about-config-title = about:config
+about-config2-title = Ítarlegar stillingar
 about-config-search-input =
     .placeholder = Leita
 about-config-show-all = Sýna allt
