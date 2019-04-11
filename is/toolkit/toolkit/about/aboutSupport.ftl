@@ -24,6 +24,9 @@ features-title = { -brand-short-name } eiginleikar
 features-name = Nafn
 features-version = Útgáfa
 features-id = Auðkenni
+processes-title = Fjarvinnslur
+processes-type = Tegund
+processes-count = Fjöldi
 app-basics-title = Grunnupplýsingar forrits
 app-basics-name = Nafn
 app-basics-version = Útgáfa
@@ -44,10 +47,13 @@ app-basics-memory-use = Notað minni
 app-basics-performance = Afköst
 app-basics-service-workers = Skráðir Service Workers
 app-basics-profiles = Notendur
+app-basics-launcher-process-status = Ræsiferli
 app-basics-multi-process-support = Margþráða gluggi
 app-basics-process-count = Ferlar vefinnihalds
+app-basics-remote-processes-count = Fjarvinnslur
 app-basics-enterprise-policies = Stefna fyrirtækisins
-app-basics-key-google = Google lykill
+app-basics-location-service-key-google = Google staðsetningarlykill
+app-basics-safebrowsing-key-google = Google lykill fyrir örugga vöfrun
 app-basics-key-mozilla = Mozilla Location Service lykill
 app-basics-safe-mode = Öryggishamur
 show-dir-label =
@@ -174,6 +180,7 @@ main-thread-no-omtc = aðalþráður, ekkert OMTC
 yes = Já
 no = Nei
 unknown = Óþekkt
+virtual-monitor-disp = Sýndarskjár
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
@@ -181,6 +188,8 @@ unknown = Óþekkt
 
 found = Fannst
 missing = Vantar
+gpu-process-pid = GPUVinnslaPid
+gpu-process = GPUVinnsla
 gpu-description = Lýsing
 gpu-vendor-id = Auðkenni framleiðanda
 gpu-device-id = Auðkenni tækis
@@ -213,6 +222,7 @@ d3d9video-crash-buard = D3D9 Vídeó afkóðari
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Endurstilla í næstu endurræsingu
 gpu-process-kill-button = Stöðva GPU ferli
+gpu-device-reset = Endurstilla tæki
 gpu-device-reset-button = Endurstilla tæki
 uses-tiling = Notar flísar
 content-uses-tiling = Notar flísar (innihald)
@@ -235,7 +245,9 @@ effective-content-sandbox-level = Effective Content Process Sandbox Level
 sandbox-proc-type-content = innihald
 sandbox-proc-type-file = innihald skráar
 sandbox-proc-type-media-plugin = miðils tengiforrit
+sandbox-proc-type-data-decoder = gagnaafkóðari
 launcher-process-status-0 = Virkt
+launcher-process-status-1 = Óvirkt vegna óhapps
 launcher-process-status-unknown = Óþekkt staða
 # Variables
 # $remoteWindows (integer) - Number of remote windows
