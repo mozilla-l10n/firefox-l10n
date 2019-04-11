@@ -675,6 +675,7 @@ content-blocking-setting-custom =
 content-blocking-standard-description = Le traciatores cognoscite es blocate solmente in le fenestras private.
 content-blocking-standard-desc = Equilibrio perfecte inter protection e rendimento. Permitte alcun traciatores a fin que le sitos web functiona correctemente.
 content-blocking-strict-desc = Bloca tote le traciatores que { -brand-short-name } detecta. Pote impedir alcun sitos de functionar.
+content-blocking-strict-description = Un protection plus forte pote facer errar in alcun sitos.
 content-blocking-custom-desc = Elige que blocar.
 content-blocking-private-trackers = Traciatores note solo in fenestras private
 content-blocking-third-party-cookies = Cookies traciator de tertie partes

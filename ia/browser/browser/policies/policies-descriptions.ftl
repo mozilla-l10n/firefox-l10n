@@ -64,6 +64,7 @@ policy-OverrideFirstRunPage = Supplantar le pagina del lanceamento initial.
 policy-OverridePostUpdatePage = Supplantar le pagina de “Novas” post-actualisation. Defini iste criterio a blanc si tu desira disactivar le pagina de post-actualisation.
 policy-Permissions = Configurar le permissos de camera, microphono, position e notificationes.
 policy-PopupBlocking = Consentir a certe sitos web de monstrar de ordinario messages emergente.
+policy-Preferences = Defini e bloca le valor de un sub-ensemble de preferentias.
 policy-Proxy = Configurar le parametros del servitor proxy.
 policy-RequestedLocales = Defini le lista del localisationes desirate pro le applicationes in ordine de tu preferentias.
 policy-SanitizeOnShutdown = Clarar tote le datos de navigation al clausura.
