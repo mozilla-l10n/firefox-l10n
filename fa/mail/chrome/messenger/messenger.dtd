@@ -40,7 +40,7 @@
 <!ENTITY renameFolder.key "VK_F2">
 <!ENTITY compactFolders.label "Compact Folders">
 <!ENTITY compactFolders.accesskey "F">
-<!ENTITY emptyTrashCmd.label "Empty Trash">
+<!ENTITY emptyTrashCmd.label "خالی کردن زباله‌">
 <!ENTITY emptyTrashCmd.accesskey "y">
 <!ENTITY offlineMenu.label "Offline">
 <!ENTITY offlineMenu.accesskey "l">
@@ -470,7 +470,7 @@
 <!ENTITY folderContextRemove.accesskey "ح">
 <!ENTITY folderContextCompact.label "Compact">
 <!ENTITY folderContextCompact.accesskey "C">
-<!ENTITY folderContextEmptyTrash.label "Empty Trash">
+<!ENTITY folderContextEmptyTrash.label "خالی کردن زباله">
 <!ENTITY folderContextEmptyTrash.accesskey "y">
 <!ENTITY folderContextEmptyJunk.label "Empty Junk">
 <!ENTITY folderContextEmptyJunk.accesskey "J">
@@ -558,11 +558,6 @@
 <!ENTITY contextPrintPreview.label "پیش‌نمای چاپ">
 <!ENTITY contextPrintPreview.accesskey "پ">
 
-<!-- Thread Pane Column Picker -->
-<!-- LOCALIZATION NOTE (columnPicker.resetToInbox.label):
-     This option in the thread pane column picker causes us to reset the
-     customizations for the thread pane columns in this folder to their default.
-  -->
 <!-- LOCALIZATION NOTE (columnPicker.applyTo.label):
      This option in the thread pane column picker pops up a sub-menu containing
      the "columnPicker.applyToFolder.label" and
@@ -599,7 +594,6 @@
      "File here" option for the move to/copy to widget.
   -->
 
-
 <!-- Media (video/audio) controls -->
 <!ENTITY contextPlay.label "پخش">
 <!ENTITY contextPlay.accesskey "پ">
@@ -613,7 +607,7 @@
   -->
 <!ENTITY quickSearchCmd.key "k">
 <!-- LOCALIZATION NOTE (search.label.base1):
-      This is the base of the empty text for the global search box. We replace
+     This is the base of the empty text for the global search box. We replace
      #1 with the contents of the appropriate search.keyLabel.* value for the
      platform.
      The goal is to convey to the user that typing in the box will allow them
