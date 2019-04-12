@@ -5,4 +5,28 @@
 <!ENTITY offlineDialog.title "การตั้งค่าออฟไลน์">
 
 <!ENTITY checkAutoDetect.label "ติดตามสถานะออนไลน์ที่ตรวจพบโดยอัตโนมัติ">
+<!ENTITY checkAutoDetect.accesskey "ต">
+<!ENTITY titleStartUp "สถานะที่กำหนดเองเมื่อเริ่มการทำงาน:">
+<!ENTITY radioRememberPrevState.label "จดจำสถานะออนไลน์ก่อนหน้า">
+<!ENTITY radioRememberPrevState.accesskey "จ">
+<!ENTITY radioAskState.label "ถามฉันสำหรับสถานะออนไลน์">
+<!ENTITY radioAskState.accesskey "ม">
+<!ENTITY radioAlwaysOnlineState.label "ออนไลน์">
+<!ENTITY radioAlwaysOnlineState.accesskey "น">
+<!ENTITY radioAlwaysOffline.label "ออฟไลน์">
+<!ENTITY radioAlwaysOffline.accesskey "ฟ">
 
+<!ENTITY textGoingOnline "ส่งข้อความที่ยังไม่ได้ส่งขณะทำงานแบบออนไลน์หรือไม่?">
+<!ENTITY radioAutoSend.label "ใช่">
+<!ENTITY radioAutoSend.accesskey "ช">
+<!ENTITY radioNotSend.label "ไม่">
+<!ENTITY radioNotSend.accesskey "ม">
+<!ENTITY radioAskUnsent.label "ถามฉัน">
+<!ENTITY radioAskUnsent.accesskey "ถ">
+<!ENTITY textGoingOffline "ดาวน์โหลดข้อความสำหรับใช้งานออฟไลน์เมื่อทำงานแบบออฟไลน์หรือไม่?">
+<!ENTITY radioAutoDownload.label "ใช่">
+<!ENTITY radioAutoDownload.accesskey "ใ">
+<!ENTITY radioNotDownload.label "ไม่">
+<!ENTITY radioNotDownload.accesskey "ไ">
+<!ENTITY radioAskDownload.label "ถามฉัน">
+<!ENTITY radioAskDownload.accesskey "า">

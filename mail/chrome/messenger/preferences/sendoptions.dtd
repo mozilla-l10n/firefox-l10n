@@ -5,4 +5,20 @@
 <!ENTITY dialog.title                 "ตัวเลือกการส่ง">
 <!ENTITY sendMail.title               "รูปแบบข้อความ">
 
+<!ENTITY HTMLTab.label                "โดเมน HTML">
+<!ENTITY HTMLTab.accesskey            "โ">
+<!ENTITY PlainTextTab.label           "โดเมนข้อความธรรมดา">
+<!ENTITY PlainTextTab.accesskey       "ข">
+<!ENTITY AddHtmlDomain.label          "เพิ่ม…">
+<!ENTITY AddHtmlDomain.accesskey      "พ">
+<!ENTITY AddPlainText.label           "เพิ่ม…">
+<!ENTITY AddPlainText.accesskey       "พ">
+<!ENTITY DeleteHtmlDomain.label       "ลบ">
+<!ENTITY DeleteHtmlDomain.accesskey   "ล">
+<!ENTITY DeletePlainText.label        "ลบ">
+<!ENTITY DeletePlainText.accesskey    "ล">
 
+<!ENTITY add.htmltitle                "เพิ่มชื่อโดเมน HTML">
+<!ENTITY add.htmldomain               "ชื่อโดเมน HTML:">
+<!ENTITY add.plaintexttitle           "เพิ่มชื่อโดเมนข้อความธรรมดา">
+<!ENTITY add.plaintextdomain          "ชื่อโดเมนข้อความธรรมดา:">
