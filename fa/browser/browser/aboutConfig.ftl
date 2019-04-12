@@ -8,6 +8,7 @@ about-config-warning-text = تغییر این تنظیماتِ پیشرفته، 
 about-config-warning-checkbox = دوباره من را آزار دهید، لطفاً!
 about-config-warning-button = خطر را می‌پذیرم
 about-config-title = about:config
+about-config2-title = پیکربندی‌های پیشرفته
 about-config-search-input =
     .placeholder = جستجو
 about-config-show-all = نمایش همه
