@@ -4,6 +4,7 @@
 
 customize-mode-restore-defaults =
     .label = முன்னிருப்பை மீட்டமைக்கவும்
+customize-mode-menu-and-toolbars-header = உங்கள் விருப்பமான உருப்படிகளை கருவிப்பட்டை அல்லது நிரம்பல் பட்டிக்கு இழுக்கவும்.
 customize-mode-uidensity =
     .label = அடர்த்தி
 customize-mode-done =
