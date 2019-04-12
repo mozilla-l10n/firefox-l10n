@@ -4,4 +4,6 @@
 
 label-disable = ปิดใช้งาน
 label-enable = เปิดใช้งาน
+label-more-information = ข้อมูลเพิ่มเติม: Bug { $bug }
+text-disabled-in-about-config = คุณลักษณะนี้ได้ถูกปิดใช้งานใน about:config
 text-title = about:compat
