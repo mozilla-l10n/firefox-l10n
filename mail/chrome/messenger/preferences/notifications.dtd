@@ -12,3 +12,5 @@ is displayed at the end of the line. The translations of the
 totalOpenTimeBefore.label and totalOpenTimeEnd.label parts don't have to mean
 the exact same thing as in English; please try instead to translate the whole
 sentence. -->
+<!ENTITY  totalOpenTimeBefore.label       "แสดงการแจ้งเตือนจดหมายใหม่เป็นเวลา">
+<!ENTITY  totalOpenTimeEnd.label          "วินาที">
