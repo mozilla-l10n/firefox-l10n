@@ -5,6 +5,7 @@
 customize-mode-restore-defaults =
     .label = મૂળભૂતને પુન:સંગ્રહો
 customize-mode-menu-and-toolbars-header = તમારી મનપસંદ વસ્તુઓ ટૂલબાર અથવા ઓવરફ્લો મેનૂમાં ખેંચો.
+customize-mode-overflow-list-title = ઓવરફ્લો મેનૂ
 customize-mode-uidensity =
     .label = ઘનતા
 customize-mode-done =
