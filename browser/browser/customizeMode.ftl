@@ -4,15 +4,22 @@
 
 customize-mode-restore-defaults =
     .label = Restaurar los valores predeterminados
+customize-mode-menu-and-toolbars-header = Arrastra tus elementos favoritos a la barra de herramientas o al menú flotante.
+customize-mode-overflow-list-title = Menú de desbordamiento
 customize-mode-lwthemes-menu-manage =
     .label = Administrar
     .accesskey = M
 customize-mode-titlebar =
     .label = Barra de título
+customize-mode-extra-drag-space =
+    .label = Espacio de arrastre
 customize-mode-lwthemes =
     .label = Temas
+customize-mode-overflow-list-description = Arrastra y suelta los objetos aquí para mantenerlos dentro del alcance pero fuera de la barra de herramientas…
 customize-mode-lwthemes-menu-get-more =
     .label = Obtener más temas
     .accesskey = G
+customize-mode-undo-cmd =
+    .label = Deshacer
 customize-mode-lwthemes-my-themes =
     .value = Mis temas
