@@ -58,6 +58,7 @@ policy-HardwareAcceleration = Ha hamis, akkor kikapcsolja a hardveres gyorsítá
 policy-Homepage = A kezdőlap beállítása, és választható módon, annak zárolása.
 policy-InstallAddonsPermission = Bizonyos weboldalak telepíthetnek kiegészítőket.
 policy-NetworkPrediction = Hálózati előrejelzés engedélyezése vagy letiltása (DNS előhívás).
+policy-NewTabPage = Az Új lap oldal engedélyezése vagy letiltása.
 policy-NoDefaultBookmarks = A { -brand-short-name }szal szállított alapértelmezett könyvjelzők és okos könyvjelzők (Legtöbbet látogatott, Friss címkék) létrehozásának letiltása. Megjegyzés: ez a házirend csak a profil első futtatása előtt van érvényben.
 policy-OfferToSaveLogins = A beállítás erőltetése, miszerint a { -brand-short-name } felajánlja a mentett bejelentkezések és jelszavak megjegyzését. Mind az igaz, mind a hamis érték elfogadott.
 policy-OverrideFirstRunPage = Az első indítás oldal felülbírálása. Állítsa üres értékre ezt a házirendet, ha le akarja tiltani a az első indítás oldalt.
@@ -70,6 +71,7 @@ policy-RequestedLocales = Adja meg a kért területi beállításokat az alkalma
 policy-SanitizeOnShutdown = Összes navigációs adat törlése leállításkor.
 policy-SearchBar = A keresősáv alapértelmezett helyének megadása. A felhasználó továbbra is testreszabhatja.
 policy-SearchEngines = Keresőszolgáltatások beállításainak konfigurálása. Ez a házirend csak a kibővített támogatású kiadásban (ESR) érhető el.
+policy-SearchSuggestEnabled = A keresési javaslatok engedélyezése vagy letiltása.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = PKCS #11 modulok telepítése.
 policy-SSLVersionMax = A legmagasabb SSL verzió beállítása.
