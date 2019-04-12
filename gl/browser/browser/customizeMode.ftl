@@ -21,5 +21,7 @@ customize-mode-overflow-list-description = Arrastre e solte elementos aquí para
 customize-mode-lwthemes-menu-get-more =
     .label = Obter máis temas
     .accesskey = b
+customize-mode-undo-cmd =
+    .label = Desfacer
 customize-mode-lwthemes-my-themes =
     .value = Os meus temas
