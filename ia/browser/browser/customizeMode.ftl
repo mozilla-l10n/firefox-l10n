@@ -4,6 +4,7 @@
 
 customize-mode-restore-defaults =
     .label = Restaurar predefinitiones
+customize-mode-menu-and-toolbars-header = Trahe tu elementos favorite e depone los in le barra de instrumentos o in le menu disbordante.
 customize-mode-overflow-list-title = Menu disbordante
 customize-mode-uidensity =
     .label = Densitate
