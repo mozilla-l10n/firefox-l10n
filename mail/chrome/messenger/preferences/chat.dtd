@@ -15,6 +15,9 @@ sentence. -->
 
 
 
+<!ENTITY  chatNotifications.label             "وقتی پیام‌هایی که مستقیم برای شما هستند میرسند:">
+<!ENTITY  desktopChatNotifications.label      "نمایش یک اعلان:">
+<!ENTITY  chatSound.label                     "پخش یک صدا">
 <!ENTITY  play.label                          "پخش">
 <!ENTITY  play.accesskey                      "پ">
 <!ENTITY  systemSound.label                   "صدای پیش فرض سیستم برای نامه جدید">

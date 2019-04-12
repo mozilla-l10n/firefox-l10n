@@ -4,37 +4,11 @@
 
 <!ENTITY itemJunk.label          "Junk">
 
-
-
 <!-- Junk Mail Controls -->
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <!-- Phishing Detector -->
 
-
-
-
 <!-- Passwords -->
-
-
-
-
-
-
+<!ENTITY savedPasswords.intro           "&brandShortName; می‌تواند گذرواژه‌ها را برای همهٔ حسابهای شما به خاطر بیاورد.">
 
 <!-- Anti Virus -->
-
-
-
