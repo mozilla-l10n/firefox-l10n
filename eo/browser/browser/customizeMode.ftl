@@ -4,9 +4,13 @@
 
 customize-mode-restore-defaults =
     .label = Reuzi normajn valorojn
+customize-mode-done =
+    .label = Farita
 customize-mode-lwthemes-menu-manage =
     .label = Administri
     .accesskey = A
+customize-mode-toolbars =
+    .label = Ilarstrioj
 customize-mode-titlebar =
     .label = Titolstrio
 customize-mode-lwthemes =
