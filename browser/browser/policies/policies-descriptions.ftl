@@ -58,6 +58,7 @@ policy-HardwareAcceleration = Om inaktiv, stäng av hårdvaruacceleration.
 policy-Homepage = Ställ in och eventuellt lås startsidan.
 policy-InstallAddonsPermission = Tillåt vissa webbplatser att installera tillägg.
 policy-NetworkPrediction = Aktivera eller inaktivera nätverksprediktning (DNS-prefetch).
+policy-NewTabPage = Aktivera eller inaktivera ny flik sidan.
 policy-NoDefaultBookmarks = Inaktivera skapandet av standardbokmärken som levereras med { -brand-short-name } och smarta bokmärken (Mest besökta, Senast använda etiketter). OBS: denna policy fungerar bara om den är inställd innan profilen används för första gången.
 policy-OfferToSaveLogins = Påtvinga inställningen att tillåta { -brand-short-name } att kunna komma ihåg sparade inloggningar och lösenord. Både värdena sant och falskt accepteras.
 policy-OverrideFirstRunPage = Åsidosätt sidan som visas första gången. Sätt denna policy till blankt om du vill inaktivera sidan som visas första gången.
@@ -70,6 +71,7 @@ policy-RequestedLocales = Ange listan över begärda språk för programmet efte
 policy-SanitizeOnShutdown = Rensa all navigeringsdata vid avstängning.
 policy-SearchBar = Ange standardplacering av sökfältet. Användaren kan fortfarande flytta det.
 policy-SearchEngines = Ange sökmotorinställningar. Denna policy finns bara på Extended Support Release (ESR)-versionen.
+policy-SearchSuggestEnabled = Aktivera eller inaktivera sökförslag.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Installera PKCS #11-moduler.
 policy-SSLVersionMax = Ange den maximala SSL-versionen.
