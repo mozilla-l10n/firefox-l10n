@@ -4,6 +4,8 @@
 
 customize-mode-restore-defaults =
     .label = استعد الإعدادات المبدئية
+customize-mode-menu-and-toolbars-header = اسحب العناصر المفضلة لديك إلى شريط الأدوات أو قائمة الزيادة.
+customize-mode-overflow-list-title = قائمة الزيادة
 customize-mode-uidensity =
     .label = الكثافة
 customize-mode-done =
@@ -21,8 +23,11 @@ customize-mode-uidensity-menu-touch =
     .tooltiptext = لمس
 customize-mode-uidensity-auto-touch-mode-checkbox =
     .label = استخدم كثافة اللمس لنمط اللوح
+customize-mode-extra-drag-space =
+    .label = مساحة للسحب
 customize-mode-lwthemes =
     .label = السِمات
+customize-mode-overflow-list-description = اسحب وأسقِط العناصر هنا لتبقيها قريبة منك ولكن خارج شريط الأدوات…
 customize-mode-uidensity-menu-normal =
     .label = عادية
     .accesskey = ع
