@@ -4,6 +4,7 @@
 
 customize-mode-restore-defaults =
     .label = મૂળભૂતને પુન:સંગ્રહો
+customize-mode-menu-and-toolbars-header = તમારી મનપસંદ વસ્તુઓ ટૂલબાર અથવા ઓવરફ્લો મેનૂમાં ખેંચો.
 customize-mode-uidensity =
     .label = ઘનતા
 customize-mode-done =
@@ -35,5 +36,7 @@ customize-mode-uidensity-menu-compact =
 customize-mode-lwthemes-menu-get-more =
     .label = વધુ વિષય મેળવો
     .accesskey = G
+customize-mode-undo-cmd =
+    .label = રદ કરો
 customize-mode-lwthemes-my-themes =
     .value = મારી વિષયવસ્તુઓ
