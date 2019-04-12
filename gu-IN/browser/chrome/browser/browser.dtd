@@ -64,6 +64,8 @@ but will never be visible at the same time. -->
 These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  bookmarkSelectedTabs.accesskey     "k">
 
+<!-- Tab context menu -->
+
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
@@ -108,7 +110,6 @@ These items have the same accesskey but will never be visible at the same time. 
 <!ENTITY  hiddenTabs.label                   "છુપાયેલા ટૅબ્સ">
 
 <!ENTITY  listAllTabs.label      "બધા ટૅબ્સની યાદી કરો">
-
 <!-- LOCALIZATION NOTE (allTabsMenu.searchTabs.label): "Search" is a verb, as
 in "Search through tabs". -->
 <!ENTITY  allTabsMenu.searchTabs.label       "ટૅબ્સ શોધો">
@@ -130,6 +131,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.label "છાપો...">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "p">
+
 
 <!ENTITY taskManagerCmd.label "કાર્ય વ્યવસ્થાપક">
 
@@ -213,6 +215,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenExit.label "સંપૂર્ણ સ્ક્રીન સ્થિતિમાંથી બહાર નીકળો">
 <!ENTITY fullScreenExit.accesskey "F">
 
+ <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
+     for the Firefox Account toolbar signin menu screen. -->
+
+<!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
+     for the Firefox Account toolbar unverified menu screen. -->
+<!ENTITY fxa.unverified.callout.label "તમારા ઇમેઇલ તપાસો">
+
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbart menu screen. The `Signed in as` text is
+     followed by the user's email. -->
+
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring fullscreen.
@@ -229,6 +242,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY exitDOMFullscreenMac.button "પૂર્ણ સ્ક્રીનથી બહાર નીકળો (esc)">
 <!ENTITY leaveDOMFullScreen.label "પૂર્ણ સ્ક્રીનમાંથી બહાર નીકળો">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
+
+<!-- LOCALIZATION NOTE (pictureInPicture.label, pictureInPicture.accesskey):
+     these two strings are used when right-clicking on a video in the
+     content area when the Picture-in-Picture feature is enabled. -->
+<!ENTITY pictureInPicture.accesskey "u">
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
@@ -407,6 +425,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "પસંદગીઓ">
 <!ENTITY preferencesCmdUnix.accesskey     "n">
+
 
 <!ENTITY clearRecentHistory.label               "તાજેતરનાં ઇતિહાસને સાફ કરો…">
 
@@ -879,7 +898,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "તમે આ સાઇટને કોઈ વિશેષ મંજૂરીઓ આપ્યા નથી.">
 <!ENTITY identity.permissionsReloadHint "ફેરફારો લાગુ કરવા માટે તમને પૃષ્ઠને ફરીથી લોડ કરવાની જરૂર પડી શકે છે.">
 <!ENTITY identity.permissionsPreferences.tooltip "ઓપન પરવાનગીઓ પસંદગીઓ">
-
 <!ENTITY identity.contentBlockingPreferences.tooltip "સામગ્રી અવરોધની પસંદગીઓ ખોલો">
 
 
@@ -931,6 +949,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncSignIn.label             "&syncBrand.shortName.label; માં પ્રવેશો…">
 <!ENTITY syncSignIn.accesskey         "Y">
 <!ENTITY syncSyncNowItem.label        "હમણાં સમન્વયિત કરો">
+<!ENTITY syncSyncNowItemSyncing.label "સમન્વયન કરી રહ્યું છે…">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "&syncBrand.shortName.label; માં પુન:જોડાવો…">
 <!ENTITY syncReAuthItem.accesskey     "R">
@@ -1133,10 +1152,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "<image class='addon-addon-icon'/> મેનૂમાં <image class='addon-toolbar-icon'/> ક્લિક કરીને તમારા ઍડ-ઑનને સંચાલિત કરો.">
-<!ENTITY addonPostInstall.incognito.label "ખાનગી વિંડોઝમાં આ એક્સ્ટેંશનને ચલાવવાની મંજૂરી આપો.">
-<!ENTITY addonPostInstall.incognito.accesskey "A">
+<!ENTITY addonPostInstall.incognito.checkbox.accesskey "A">
 
 <!ENTITY addonPrivateBrowsing.header2.label "ખાનગી વિંડોઝમાં એક્સ્ટેન્શન્સ બદલો">
+<!ENTITY addonPrivateBrowsing.body2.label "તમે કોઈ પણ નવા એક્સ્ટેન્શન્સને &brandShorterName; માં ઉમેરો છો તે ખાનગી વિંડોઝમાં કાર્ય કરશે નહીં સિવાય કે તમે આ સેટિંગ્સમાં મંજૂરી આપો.">
 <!ENTITY addonPrivateBrowsing.okButton.label "ઠીક છે, સમજાઇ ગયું">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "O">
 <!ENTITY addonPrivateBrowsing.manageButton.label "એક્સ્ટેંશન્સનો વહીવટ કરો">
