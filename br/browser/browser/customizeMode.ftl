@@ -40,6 +40,6 @@ customize-mode-lwthemes-menu-get-more =
     .label = Kaout muioc'h a neuzioù
     .accesskey = L
 customize-mode-undo-cmd =
-    .label = Dizober{ " " }
+    .label = Dizober
 customize-mode-lwthemes-my-themes =
     .value = Ma neuzioù
