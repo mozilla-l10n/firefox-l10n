@@ -4,6 +4,8 @@
 
 customize-mode-restore-defaults =
     .label = Alapértelmezett értékek visszaállítása
+customize-mode-menu-and-toolbars-header = Húzza a kedvenc elemeit az eszköztárba vagy a túlcsordulási menübe.
+customize-mode-overflow-list-title = Túlcsorduló menü
 customize-mode-uidensity =
     .label = Sűrűség
 customize-mode-done =
@@ -21,8 +23,11 @@ customize-mode-uidensity-menu-touch =
     .tooltiptext = Érintés
 customize-mode-uidensity-auto-touch-mode-checkbox =
     .label = Érintés használata a táblagép módhoz
+customize-mode-extra-drag-space =
+    .label = Húzási terület
 customize-mode-lwthemes =
     .label = Témák
+customize-mode-overflow-list-description = Fogjon és vigyen ide elemeket, hogy az eszköztártól távol, de mégis kéznél legyenek…
 customize-mode-uidensity-menu-normal =
     .label = Normál
     .accesskey = N
