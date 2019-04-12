@@ -4,6 +4,7 @@
 
 customize-mode-restore-defaults =
     .label = Configuration par défaut
+customize-mode-menu-and-toolbars-header = Déplacez vos outils favoris vers la barre d’outils ou le menu qui la prolonge.
 customize-mode-overflow-list-title = Menu prolongeant la barre d’outils
 customize-mode-uidensity =
     .label = Densité
@@ -26,6 +27,7 @@ customize-mode-extra-drag-space =
     .label = Espace pour saisir la fenêtre
 customize-mode-lwthemes =
     .label = Thèmes
+customize-mode-overflow-list-description = Faites glisser et déposer les éléments ici pour les garder à portée de main, mais hors de votre barre d’outils…
 customize-mode-uidensity-menu-normal =
     .label = Normale
     .accesskey = N
