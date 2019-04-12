@@ -2,11 +2,17 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+customize-mode-restore-defaults =
+    .label = Restaurar padrão
+customize-mode-menu-and-toolbars-header = Arraste seus itens favoritos para sua barra de ferramentas ou ao menu.
 customize-mode-overflow-list-title = Menu expandido
 customize-mode-uidensity =
     .label = Densidade
 customize-mode-done =
     .label = Concluído
+customize-mode-lwthemes-menu-manage =
+    .label = Gerenciar
+    .accesskey = G
 customize-mode-toolbars =
     .label = Barras de ferramentas
 customize-mode-titlebar =
@@ -28,6 +34,9 @@ customize-mode-uidensity-menu-compact =
     .label = Compacto
     .accesskey = C
     .tooltiptext = Compacto
+customize-mode-lwthemes-menu-get-more =
+    .label = Obter mais temas
+    .accesskey = b
 customize-mode-undo-cmd =
     .label = Desfazer
 customize-mode-lwthemes-my-themes =
