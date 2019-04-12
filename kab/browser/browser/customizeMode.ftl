@@ -4,6 +4,7 @@
 
 customize-mode-restore-defaults =
     .label = Err-d tawila tamezwert
+customize-mode-overflow-list-title = Umuɣ n usiɣzef n ufeggag n ifecka
 customize-mode-uidensity =
     .label = Taneẓẓi
 customize-mode-done =
@@ -13,6 +14,8 @@ customize-mode-lwthemes-menu-manage =
     .accesskey = M
 customize-mode-titlebar =
     .label = Afeggag n uzwel
+customize-mode-extra-drag-space =
+    .label = Zuɣer tallunt
 customize-mode-lwthemes =
     .label = Isental
 customize-mode-overflow-list-description = Zuɣer sakin sers iferdisen dagi akken ad ten-teǧǧeḍ ɣef afus, acu kan beṛṛa n ufeggag-ik n ifecka…
