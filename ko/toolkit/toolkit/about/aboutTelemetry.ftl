@@ -56,6 +56,15 @@ about-telemetry-upload-type =
         [enabled] 활성화됨
        *[disabled] 비활성화됨
     }
+# Example Output: 1 sample, average = 0, sum = 0
+# Variables:
+#   $sampleCount (Integer): amount of histogram samples
+#   $prettyAverage (Integer): average of histogram samples
+#   $sum (Integer): sum of histogram samples
+about-telemetry-histogram-stats =
+    { $sampleCount ->
+       *[other] { $sampleCount } 샘플, 평균 = { $prettyAverage }, 합계 = { $sum }
+    }
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = 이 페이지는 텔레메트리에 의해서 수집된 성능, 하드웨어, 사용 상황, 맞춤 기능에 대한 정보를 표시합니다. 이 정보는 { -brand-full-name }의 개선을 위해 { $telemetryServerOwner }에 송신됩니다.
