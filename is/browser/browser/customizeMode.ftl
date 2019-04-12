@@ -4,6 +4,7 @@
 
 customize-mode-restore-defaults =
     .label = Endurstilla sjálfgefin gildi
+customize-mode-menu-and-toolbars-header = Dragðu upphálds hlutina yfir á slánna eða yfirflæðisvalmynd.
 customize-mode-uidensity =
     .label = Þéttleiki
 customize-mode-done =
@@ -21,6 +22,8 @@ customize-mode-uidensity-menu-touch =
     .tooltiptext = Snertiskjár
 customize-mode-uidensity-auto-touch-mode-checkbox =
     .label = Nota snertiskjá fyrir spjaldtölvu
+customize-mode-extra-drag-space =
+    .label = Draga svæði
 customize-mode-lwthemes =
     .label = Þema
 customize-mode-uidensity-menu-normal =
