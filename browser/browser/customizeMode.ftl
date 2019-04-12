@@ -27,6 +27,7 @@ customize-mode-extra-drag-space =
     .label = இடத்தை இழு
 customize-mode-lwthemes =
     .label = கருப்பொருள்கள்
+customize-mode-overflow-list-description = கருவிப்பெட்டிக்கு வெளியே ஆனால் கைக்கெட்டும் தூரத்தில் உருப்படிகளை வைக்க இழுத்து இங்கே போடவும்…
 customize-mode-uidensity-menu-normal =
     .label = சாதாரணம்
     .accesskey = N
