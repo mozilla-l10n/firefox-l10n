@@ -4,6 +4,9 @@
 
 customize-mode-restore-defaults =
     .label = Ponastavi privzeto
+customize-mode-overflow-list-title = Dodatni meni
+customize-mode-done =
+    .label = Končaj
 customize-mode-lwthemes-menu-manage =
     .label = Upravljaj
     .accesskey = U
@@ -11,6 +14,7 @@ customize-mode-extra-drag-space =
     .label = Prostor za vlečenje
 customize-mode-lwthemes =
     .label = Teme
+customize-mode-overflow-list-description = Sem povlecite predmete, ki jih želite imeti na dosegu, vendar izven orodne vrstice …
 customize-mode-lwthemes-menu-get-more =
     .label = Več tem
     .accesskey = V
