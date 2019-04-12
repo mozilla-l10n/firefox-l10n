@@ -5,6 +5,7 @@
 customize-mode-restore-defaults =
     .label = ডিফল্ট মান পুনরায় স্থাপন করুন
 customize-mode-menu-and-toolbars-header = আপনার পছন্দের জিনিসসমূহ টুলবার অথবা ওভারফ্লো মেনুতে ড্রাগ করুন।
+customize-mode-overflow-list-title = মেনু ওভারফ্লো
 customize-mode-uidensity =
     .label = ঘনত্ব
 customize-mode-done =
@@ -22,6 +23,8 @@ customize-mode-uidensity-menu-touch =
     .tooltiptext = স্পর্শ
 customize-mode-uidensity-auto-touch-mode-checkbox =
     .label = ট্যাবলেট মোডের জন্য স্পর্শ ব্যবহার করুন
+customize-mode-extra-drag-space =
+    .label = স্পেস ড্রাগ করুন
 customize-mode-lwthemes =
     .label = থিম
 customize-mode-overflow-list-description = হাতের নাগালে কিন্তু আপনার টুলবারের বাইরে রাখতে আইটেমগুলো এখানে ড্র্যাগ করুন ও ছেড়ে দিন…
