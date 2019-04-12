@@ -2,7 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+customize-mode-restore-defaults =
+    .label = Atjaunōt nūkluseitū
 customize-mode-menu-and-toolbars-header = Drag your favorite items into the toolbar or overflow menu.
+customize-mode-overflow-list-title = Paldušō izviele
 customize-mode-uidensity =
     .label = Density
 customize-mode-done =
@@ -24,6 +27,7 @@ customize-mode-extra-drag-space =
     .label = Drag Space
 customize-mode-lwthemes =
     .label = Temys
+customize-mode-overflow-list-description = Porvītoj elements uz šani, kab jī byutu pa rūkai, bet na instrumentu paneļī…
 customize-mode-uidensity-menu-normal =
     .label = Normals
     .accesskey = N
