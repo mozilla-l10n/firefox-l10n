@@ -4,6 +4,8 @@
 
 customize-mode-restore-defaults =
     .label = Berrezarri lehenetsiak
+customize-mode-menu-and-toolbars-header = Arrastatu zure elementu gogokoenak tresna-barrara edo gainezkatzearen menura.
+customize-mode-overflow-list-title = Gainezkatzearen menua
 customize-mode-uidensity =
     .label = Dentsitatea
 customize-mode-done =
@@ -21,8 +23,11 @@ customize-mode-uidensity-menu-touch =
     .tooltiptext = Ukipenezkoa
 customize-mode-uidensity-auto-touch-mode-checkbox =
     .label = Erabili ukipenezkoa tabletaren modurako
+customize-mode-extra-drag-space =
+    .label = Arrastatu zuriunea
 customize-mode-lwthemes =
     .label = Itxurak
+customize-mode-overflow-list-description = Elementuak eskura izan baina tresna-barratik kanpo mantentzeko, arrasta eta jaregin itzazu hona…
 customize-mode-uidensity-menu-normal =
     .label = Arrunta
     .accesskey = A
