@@ -202,7 +202,7 @@ about-debugging-profiler-dialog-title = Perfilador de desempenho
 # This checkbox will toggle preferences that enable local addon debugging.
 # The "Learn more" link points to MDN.
 # https://developer.mozilla.org/docs/Tools/about:debugging#Enabling_add-on_debugging
-about-debugging-extension-debug-setting-label = Ative a depuração de extensões. <a>Saber mais</a>
+about-debugging-extension-debug-setting-label = Ativar a depuração de extensões. <a>Saber mais</a>
 # Clicking on the header of a debug target category will expand or collapse the debug
 # target items in the category. This text is used as ’title’ attribute of the header,
 # to describe this feature.
