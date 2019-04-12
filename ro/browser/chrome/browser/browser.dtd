@@ -872,7 +872,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Pagina este stocată pe calculator.">
 <!ENTITY identity.connectionVerified2 "Ești conectat în mod securizat la acest site, deținut de:">
 <!ENTITY identity.connectionInternal "Aceasta este o pagină securizată &brandShortName;.">
-<!ENTITY identity.extensionPage "Pagina a fost încărcată de la o extensie.">
+<!ENTITY identity.extensionPage "Această pagină a fost încărcată de la o extensie.">
 <!ENTITY identity.insecureLoginForms2 "Datele de autentificare introduse pe această pagină ar putea fi compromise.">
 
 <!-- Strings for connection state warnings. -->

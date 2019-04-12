@@ -13,7 +13,7 @@
 ### best documentation on web development on the web.
 
 # Header for the list of Service Workers displayed in the application panel for the current page.
-serviceworker-list-header = Service workeri
+serviceworker-list-header = Scripturi Service Worker
 # Text displayed next to the list of Service Workers to encourage users to check out
 # about:debugging to see all registered Service Workers.
 serviceworker-list-aboutdebugging = Deschide <a>about:debugging</a> pentru service workeri din alte domenii
