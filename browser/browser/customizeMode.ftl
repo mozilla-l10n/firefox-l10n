@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 customize-mode-menu-and-toolbars-header = Kéo mục yêu thích của bạn vào thanh công cụ hoặc bảng chọn.
+customize-mode-overflow-list-title = Bảng chọn
 customize-mode-uidensity =
     .label = Mật độ
 customize-mode-toolbars =
@@ -15,6 +16,7 @@ customize-mode-uidensity-menu-touch =
     .tooltiptext = Chạm
 customize-mode-extra-drag-space =
     .label = Kéo khoảng trắng
+customize-mode-overflow-list-description = Kéo và thả các mục vào đây để dễ sử dụng chúng và nó sẽ nằm ngoài thanh công cụ của bạn…
 customize-mode-uidensity-menu-normal =
     .label = Bình thường
     .accesskey = N
