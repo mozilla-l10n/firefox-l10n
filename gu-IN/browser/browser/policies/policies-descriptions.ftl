@@ -10,6 +10,7 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
+policy-3rdparty = નીતિઓ સેટ કરો કે જે વેબ એક્સ્ટેન્શન્સ chrome.storage.managed દ્વારા ઍક્સેસ કરી શકે છે.
 policy-AppUpdateURL = કસ્ટમ એપ્લિકેશન અપડેટ URL સેટ કરો.
 policy-Authentication = વેબસાઇટ્સને આધાર આપનાર સંકલિત પ્રમાણીકરણને ગોઠવો.
 policy-BlockAboutAddons = ઍડ-ઑન્સ વ્યવસ્થાપકનાં ઍક્સેસને અવરોધિત કરો (વિશે: ઍડઑન્સ).
@@ -57,6 +58,7 @@ policy-HardwareAcceleration = જો ખોટા હોય, તો હાર્
 policy-Homepage = મુખ્યપૃષ્ઠને સેટ કરો અને વૈકલ્પિક રીતે લૉક કરો.
 policy-InstallAddonsPermission = અમુક વેબસાઇટ્સને ઍડ-ઑન્સ ઇન્સ્ટોલ કરવાની મંજૂરી આપો.
 policy-NetworkPrediction = નેટવર્ક પૂર્વાનુમાન સક્ષમ કરો અથવા અક્ષમ કરો (DNS પ્રીફેચિંગ).
+policy-NewTabPage = નવું ટૅબ પૃષ્ઠ સક્ષમ અથવા અક્ષમ કરો.
 policy-NoDefaultBookmarks = { -brand-short-name }સાથે જોડાયેલાં મૂળભૂત બુકમાર્ક્સનાં સર્જનને , અને સ્માર્ટ બુકમાર્ક્સ (સૌથી વધુ જોવાયેલ, તાજેતરના ટૅગ્સ)ને નિષ્ક્રિય કરો. નોંધ: આ નીતિ માત્ર ત્યારે અસરકારક છે જ્યારે પ્રોફાઇલના પ્રથમ વપરાશ પહેલા ઉપયોગમાં લેવાય છે.
 policy-OfferToSaveLogins = { -brand-short-name } ને સાચવેલા લોગ- ઇન્સ અને પાસવર્ડ્સ યાદ રાખવા માટેની મંજૂરી આપવા માટે સેટિંગને લાગુ કરો. બંને સાચા અને ખોટા મૂલ્યો સ્વીકારવામાં આવે છે.
 policy-OverrideFirstRunPage = પ્રથમ વપરાશ પૃષ્ઠને ઓવરરાઇડ કરો. જો તમે પ્રથમ વપરાશ પૃષ્ઠને નિષ્ક્રિય કરવા માંગો છો, તો આ નીતિને ખાલી રાખવી.
