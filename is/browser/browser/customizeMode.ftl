@@ -5,6 +5,7 @@
 customize-mode-restore-defaults =
     .label = Endurstilla sjálfgefin gildi
 customize-mode-menu-and-toolbars-header = Dragðu upphálds hlutina yfir á slánna eða yfirflæðisvalmynd.
+customize-mode-overflow-list-title = Yfirflæðisvalmynd
 customize-mode-uidensity =
     .label = Þéttleiki
 customize-mode-done =
@@ -26,6 +27,7 @@ customize-mode-extra-drag-space =
     .label = Draga svæði
 customize-mode-lwthemes =
     .label = Þema
+customize-mode-overflow-list-description = Dragðu og slepptu hlutum hérna til að hafa þau við hendina en ekki á verkfæraslánni…
 customize-mode-uidensity-menu-normal =
     .label = Venjulegt
     .accesskey = n
