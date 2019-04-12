@@ -39,5 +39,7 @@ customize-mode-uidensity-menu-compact =
 customize-mode-lwthemes-menu-get-more =
     .label = Pobierz więcej
     .accesskey = P
+customize-mode-undo-cmd =
+    .label = Cofnij
 customize-mode-lwthemes-my-themes =
     .value = Zainstalowane motywy
