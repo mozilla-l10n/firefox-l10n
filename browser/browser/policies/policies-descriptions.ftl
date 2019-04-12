@@ -58,6 +58,7 @@ policy-HardwareAcceleration = Caso definido como "false", desativar a aceleraç�
 policy-Homepage = Definir a página inicial e, opcionalmente, impedir que seja alterada.
 policy-InstallAddonsPermission = Permitir que determinados sites instalem extensões.
 policy-NetworkPrediction = Ativar ou desativar predição de rede (carregamento antecipado de DNS).
+policy-NewTabPage = Ativar ou desativar a página de nova aba.
 policy-NoDefaultBookmarks = Desativar a criação de favoritos padrões empacotados com o { -brand-short-name }, além dos favoritos inteligente (mais visitados e etiquetas recentes). Nota: esta política somente é efetiva se usada antes da primeira execução do perfil.
 policy-OfferToSaveLogins = Impor as configurações para permitir que o { -brand-short-name } ofereça lembrar logins e senhas salvas. Tanto "true" como "false" são valores aceitos.
 policy-OverrideFirstRunPage = Substituir a página de primeira execução. Defina esta política como vazio se quiser desativar a página de primeira execução.
@@ -70,6 +71,7 @@ policy-RequestedLocales = Definir a lista de idiomas solicitados para a aplicaç
 policy-SanitizeOnShutdown = Limpar todos os dados de navegação ao desligar.
 policy-SearchBar = Definir a localização padrão da barra de pesquisa. O usuário ainda pode personalizar tal localização.
 policy-SearchEngines = Definir as configurações do mecanismo de pesquisa. Esta política está disponível somente na versão Extended Support Release (ESR).
+policy-SearchSuggestEnabled = Ativar ou desativar sugestões de pesquisa.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Instalar módulos PKCS #11.
 policy-SSLVersionMax = Definir a versão SSL máxima.
