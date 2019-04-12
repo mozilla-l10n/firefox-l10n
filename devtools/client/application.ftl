@@ -18,7 +18,7 @@ serviceworker-list-header = Scripturi Service Worker
 # about:debugging to see all registered Service Workers.
 serviceworker-list-aboutdebugging = Deschide <a>about:debugging</a> pentru scripturile Service Worker de pe alte domenii
 # Text for the button to unregister a Service Worker. Displayed for active Service Workers.
-serviceworker-worker-unregister = Anulează înregistrarea
+serviceworker-worker-unregister = Dezînregistrează
 # Text for the debug link displayed for an already started Service Worker. Clicking on the
 # link opens a new devtools toolbox for this service worker. The title attribute is only
 # displayed when the link is disabled.
