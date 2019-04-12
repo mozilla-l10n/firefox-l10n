@@ -324,8 +324,8 @@ browsing-cfr-recommendations =
     .label = แนะนำส่วนขยายขณะที่คุณท่องเว็บ
     .accesskey = น
 browsing-cfr-features =
-    .label = แนะนำคุณสมบัติในขณะที่คุณเรียกดู
-    .accesskey = f
+    .label = แนะนำคุณลักษณะขณะที่คุณท่องเว็บ
+    .accesskey = น
 browsing-cfr-recommendations-learn-more = เรียนรู้เพิ่มเติม
 
 ## General Section - Proxy
