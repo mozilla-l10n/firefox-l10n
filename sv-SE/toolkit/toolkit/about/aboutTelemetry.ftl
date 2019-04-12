@@ -138,3 +138,6 @@ about-telemetry-extra-header = extra
 about-telemetry-origin-section = Origin-telemetri
 about-telemetry-origin-origin = ursprung
 about-telemetry-origin-count = antal
+# Variables:
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link">Firefox origin-telemetri</a> kodar data innan den skickas så att { $telemetryServerOwner } inte kan räkna saker, men vet inte om någon given { -brand-product-name } bidrog till det antalet. (<a data-l10n-name="prio-blog-link">läs mer</a>)
