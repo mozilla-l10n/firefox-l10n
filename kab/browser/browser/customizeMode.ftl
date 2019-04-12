@@ -15,6 +15,7 @@ customize-mode-titlebar =
     .label = Afeggag n uzwel
 customize-mode-lwthemes =
     .label = Isental
+customize-mode-overflow-list-description = Zuɣer sakin sers iferdisen dagi akken ad ten-teǧǧeḍ ɣef afus, acu kan beṛṛa n ufeggag-ik n ifecka…
 customize-mode-uidensity-menu-normal =
     .label = Amagnu
     .accesskey = N
