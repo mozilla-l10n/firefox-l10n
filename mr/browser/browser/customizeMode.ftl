@@ -27,6 +27,7 @@ customize-mode-extra-drag-space =
     .label = जागा द्या
 customize-mode-lwthemes =
     .label = थीम्स
+customize-mode-overflow-list-description = आपल्या साधनपट्टीच्या पोहोचतायेण्यासारखे परंतु बाहेर ठेवण्यासाठी आयटम येथे ड्रॅग आणि ड्रॉप करा…
 customize-mode-uidensity-menu-normal =
     .label = सामान्य
     .accesskey = N
