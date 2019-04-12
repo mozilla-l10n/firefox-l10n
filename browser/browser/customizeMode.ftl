@@ -4,6 +4,7 @@
 
 customize-mode-restore-defaults =
     .label = Vrati zadano
+customize-mode-menu-and-toolbars-header = Povucite svoje omiljene stavke u alatnu traku ili dodatni izbornik.
 customize-mode-uidensity =
     .label = Gustoća
 customize-mode-done =
@@ -21,6 +22,8 @@ customize-mode-uidensity-menu-touch =
     .tooltiptext = Za dodir
 customize-mode-uidensity-auto-touch-mode-checkbox =
     .label = Koristi Za dodir u tablet načinu
+customize-mode-extra-drag-space =
+    .label = Prostor za povući
 customize-mode-lwthemes =
     .label = Teme
 customize-mode-uidensity-menu-normal =
