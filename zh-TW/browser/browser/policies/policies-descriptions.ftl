@@ -58,6 +58,7 @@ policy-HardwareAcceleration = 若停用，就會關閉硬體加速。
 policy-Homepage = 設定或鎖定首頁。
 policy-InstallAddonsPermission = 允許某些網站安裝附加元件。
 policy-NetworkPrediction = 開啟或關閉網路預測（DNS 預讀）功能。
+policy-NewTabPage = 啟用或停用「新分頁」頁面。
 policy-NoDefaultBookmarks = 停止建立 { -brand-short-name } 內建的預設書籤及智慧書籤（最常造訪、最近新增的標籤）。註: 此原則僅在設定檔首次啟動前設定才有效。
 policy-OfferToSaveLogins = 強制允許 { -brand-short-name } 提供記住登入資訊與密碼的設定。true 與 false 設定都接受。
 policy-OverrideFirstRunPage = 覆蓋首次執行頁面。若您想停用首次執行頁面，請將原則設為空白。
@@ -70,6 +71,7 @@ policy-RequestedLocales = 為應用程式設定使用的語系清單順序。
 policy-SanitizeOnShutdown = 關閉瀏覽器時清除所有瀏覽資料。
 policy-SearchBar = 設定搜尋列的預設位置，使用者仍然可以自訂。
 policy-SearchEngines = 調整搜尋引擎設定。此原則僅對 Extended Support Release（ESR）版本有效。
+policy-SearchSuggestEnabled = 啟用或停用搜尋建議。
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = 安裝 PKCS #11 模組。
 policy-SSLVersionMax = 設定最大 SSL 版本。
