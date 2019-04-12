@@ -8,6 +8,7 @@ about-config-warning-text = આ અદ્યતન સેટિંગ્સન�
 about-config-warning-checkbox = ફરીથી મને હેરાન કરો, કૃપા કરીને!
 about-config-warning-button = હું જોખમ સ્વીકારું છું
 about-config-title = about:config
+about-config2-title = અદ્યતન રૂપરેખાંકન
 about-config-search-input =
     .placeholder = શોધો
 about-config-show-all = બધું બતાવો
