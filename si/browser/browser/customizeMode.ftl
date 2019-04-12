@@ -39,5 +39,7 @@ customize-mode-uidensity-menu-compact =
 customize-mode-lwthemes-menu-get-more =
     .label = තවත් තේමා ලබාගන්න
     .accesskey = G
+customize-mode-undo-cmd =
+    .label = අවලංගු
 customize-mode-lwthemes-my-themes =
     .value = මගේ තේමාවන්
