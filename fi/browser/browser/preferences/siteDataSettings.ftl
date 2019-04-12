@@ -37,13 +37,11 @@ site-data-remove-all =
     .label = Poista kaikki
     .accesskey = s
 site-data-remove-shown =
-    .label = Poista kaikki valitut
-    .accesskey = s
+    .label = Poista kaikki näkyvät
+    .accesskey = n
 
 ## Removing
 
-site-data-removing-window =
-    .title = { site-data-removing-header }
 site-data-removing-dialog =
     .title = { site-data-removing-header }
     .buttonlabelaccept = Poista
