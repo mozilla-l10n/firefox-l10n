@@ -23,3 +23,5 @@ customize-mode-uidensity-menu-compact =
     .label = Làm gọn
     .accesskey = C
     .tooltiptext = Làm gọn
+customize-mode-undo-cmd =
+    .label = Hoàn tác
