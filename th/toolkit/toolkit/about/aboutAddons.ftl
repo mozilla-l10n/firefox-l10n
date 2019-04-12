@@ -229,6 +229,10 @@ shortcuts-input =
 shortcuts-browserAction = เปิดใช้งานส่วนขยาย
 shortcuts-pageAction = เปิดใช้งานการกระทำหน้า
 shortcuts-sidebarAction = เปิด/ปิดแถบข้าง
+# String displayed when a keyboard shortcut is already used by another add-on
+# Variables:
+#   $addon (string) - Name of the add-on
+shortcuts-exists = มีการใช้งานอยู่แล้วโดย { $addon }
 shortcuts-card-expand-button =
     { $numberToShow ->
        *[other] แสดงเพิ่มเติมอีก { $numberToShow }
