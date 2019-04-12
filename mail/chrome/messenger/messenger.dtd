@@ -406,6 +406,8 @@
 <!ENTITY compactButton.tooltip "เอาข้อความที่ถูกลบออกจากโฟลเดอร์ที่เลือก">
 <!ENTITY appmenuButton1.tooltip "แสดงเมนู &brandShortName;">
 
+<!ENTITY addonsButton.tooltip "จัดการส่วนเสริมของคุณ">
+
 <!-- Toolbar Button Popup -->
 <!ENTITY buttonMenuForwardAsInline.label "ส่งต่อแบบอินไลน์">
 <!ENTITY buttonMenuForwardAsAttachment.label "ส่งต่อเป็นไฟล์แนบ">
