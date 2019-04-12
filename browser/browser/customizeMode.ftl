@@ -5,6 +5,7 @@
 customize-mode-restore-defaults =
     .label = Repiggia predefinii
 customize-mode-menu-and-toolbars-header = Mescia i teu elementi preferii inta bara de scianco ò into menû extra.
+customize-mode-overflow-list-title = Menû de straripo
 customize-mode-uidensity =
     .label = Densitæ
 customize-mode-done =
@@ -12,6 +13,8 @@ customize-mode-done =
 customize-mode-lwthemes-menu-manage =
     .label = Gestisci
     .accesskey = G
+customize-mode-toolbars =
+    .label = Bare di atressi
 customize-mode-titlebar =
     .label = Bara do titolo
 customize-mode-uidensity-menu-touch =
