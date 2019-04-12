@@ -2,11 +2,33 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+customize-mode-restore-defaults =
+    .label = Restaurar predefinições
+customize-mode-uidensity =
+    .label = Densidade
 customize-mode-lwthemes-menu-manage =
     .label = Gerir
     .accesskey = G
+customize-mode-toolbars =
+    .label = Barras de ferramentas
 customize-mode-titlebar =
     .label = Barra de título
+customize-mode-uidensity-menu-touch =
+    .label = Toque
+    .accesskey = T
+    .tooltiptext = Toque
+customize-mode-uidensity-auto-touch-mode-checkbox =
+    .label = Utilizar Toque para modo tablet
+customize-mode-lwthemes =
+    .label = Temas
+customize-mode-uidensity-menu-normal =
+    .label = Normal
+    .accesskey = N
+    .tooltiptext = &Normal
+customize-mode-uidensity-menu-compact =
+    .label = Compacta
+    .accesskey = C
+    .tooltiptext = Compacta
 customize-mode-lwthemes-menu-get-more =
     .label = Obter mais temas
     .accesskey = O
