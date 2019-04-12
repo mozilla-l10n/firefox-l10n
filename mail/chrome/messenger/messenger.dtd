@@ -606,6 +606,8 @@
 <!ENTITY compactButton.tooltip "從指定資料夾移除已刪郵件">
 <!ENTITY appmenuButton1.tooltip "顯示 &brandShortName; 選單">
 
+<!ENTITY addonsButton.tooltip "管理您的附加元件">
+
 <!-- Toolbar Button Popup -->
 <!ENTITY buttonMenuForwardAsInline.label "行內轉寄">
 <!ENTITY buttonMenuForwardAsAttachment.label "以附件轉寄">
@@ -813,12 +815,6 @@
 <!ENTITY contextPrintPreview.label "預覽列印">
 <!ENTITY contextPrintPreview.accesskey "v">
 
-<!-- Thread Pane Column Picker -->
-<!-- LOCALIZATION NOTE (columnPicker.resetToInbox.label):
-     This option in the thread pane column picker causes us to reset the
-     customizations for the thread pane columns in this folder to their default.
-  -->
-<!ENTITY columnPicker.resetToInbox.label "重設欄位">
 <!-- LOCALIZATION NOTE (columnPicker.applyTo.label):
      This option in the thread pane column picker pops up a sub-menu containing
      the "columnPicker.applyToFolder.label" and
@@ -858,7 +854,6 @@
      "File here" option for the move to/copy to widget.
   -->
 <!ENTITY columnPicker.thisFolder.label "這個資料夾">
-
 
 <!-- Media (video/audio) controls -->
 <!ENTITY contextPlay.label "播放">
