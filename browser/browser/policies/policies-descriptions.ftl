@@ -65,11 +65,13 @@ policy-OverrideFirstRunPage = પ્રથમ વપરાશ પૃષ્ઠન
 policy-OverridePostUpdatePage = પોસ્ટ-અપડેટ "નવું શું છે" પૃષ્ઠ ઓવરરાઇડ કરો. જો તમે પોસ્ટ-અપડેટ પૃષ્ઠને નિષ્ક્રિય કરવા માંગો છો, તો આ નીતિ ખાલી રાખો.
 policy-Permissions = કેમેરા, માઇક્રોફોન, સ્થાન અને સૂચનાઓ માટે પરવાનગીઓ ગોઠવો.
 policy-PopupBlocking = કેટલીક ચોક્કસ વેબસાઇટ્સને પોપઅપ્સ મૂળભૂત રીતે બતાવવાની પરવાનગી આપો.
+policy-Preferences = પસંદગીઓના સબસેટ માટે મૂલ્ય સેટ કરો અને લૉક કરો.
 policy-Proxy = પ્રોક્સી સેટિંગ્સ ગોઠવો.
 policy-RequestedLocales = પસંદગીના સ્થાનોની પસંદગીને પ્રાધાન્યતા માટે સૂચિબદ્ધ કરો.
 policy-SanitizeOnShutdown = બંધ કરતી વખતે બધી શોધ માહિતી સાફ કરો.
 policy-SearchBar = શોધ પટ્ટીનું મૂળભૂત સ્થાન સેટ કરો. વપરાશકર્તાને હજુ તેને કસ્ટમાઇઝ કરવાની મંજૂરી છે.
 policy-SearchEngines = શોધ એન્જિન સેટિંગ્સ ગોઠવો. આ નીતિ વિસ્તૃત સપોર્ટ રીલીઝ (ESR) આવૃત્તિ પર જ ઉપલબ્ધ છે.
+policy-SearchSuggestEnabled = શોધ સૂચનોને સક્ષમ અથવા અક્ષમ કરો.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = PKCS # 11 મોડ્યુલ્સ ઇન્સ્ટોલ કરો.
 policy-SSLVersionMax = મહત્તમ SSL સંસ્કરણ સેટ કરો.
