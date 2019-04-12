@@ -36,6 +36,6 @@ push-end-point-waiting = <strong>Punct terminal de transferuri push:</strong> { 
 push-end-point-result = <strong>Punct terminal de transferuri push:</strong> { $name }
 # This term is used as a button label (verb, not noun).
 update-button = Actualizare
-unregister-button = Anulează înregistrarea
-unregister-error = Nu s-a reușit anularea înregistrării pentru acest Service Worker.
+unregister-button = Dezînregistrează
+unregister-error = Nu s-a reușit dezînregistrarea acestui Service Worker.
 waiting = Așteptare…
