@@ -5,6 +5,7 @@
 customize-mode-restore-defaults =
     .label = Vrati zadano
 customize-mode-menu-and-toolbars-header = Povucite svoje omiljene stavke u alatnu traku ili dodatni izbornik.
+customize-mode-overflow-list-title = Dodatni meni
 customize-mode-uidensity =
     .label = Gustoća
 customize-mode-done =
@@ -26,6 +27,7 @@ customize-mode-extra-drag-space =
     .label = Prostor za povući
 customize-mode-lwthemes =
     .label = Teme
+customize-mode-overflow-list-description = Ovdje dovucite stavke kako bi vam bile blizu ali izvan vaše alatne trake…
 customize-mode-uidensity-menu-normal =
     .label = Normalna
     .accesskey = N
