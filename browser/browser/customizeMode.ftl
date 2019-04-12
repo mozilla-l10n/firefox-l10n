@@ -4,6 +4,8 @@
 
 customize-mode-restore-defaults =
     .label = Standard wobnowić
+customize-mode-menu-and-toolbars-header = Ćehńće swoje najlubše zapiski do symboloweje lajsty abo přeběžkoweho menija.
+customize-mode-overflow-list-title = Přeběžkowy meni
 customize-mode-uidensity =
     .label = Hustosć
 customize-mode-done =
@@ -21,8 +23,11 @@ customize-mode-uidensity-menu-touch =
     .tooltiptext = Dótknjenje
 customize-mode-uidensity-auto-touch-mode-checkbox =
     .label = Dótknjenje za tabletowy modus wužiwać
+customize-mode-extra-drag-space =
+    .label = Ćehnity rum
 customize-mode-lwthemes =
     .label = Drasty
+customize-mode-overflow-list-description = Přesuńće zapiski sem, zo byšće je w dosahu, ale zwonka wašeje symboloweje lajsty dźeržał…
 customize-mode-uidensity-menu-normal =
     .label = Normalny
     .accesskey = N
