@@ -39,5 +39,7 @@ customize-mode-uidensity-menu-compact =
 customize-mode-lwthemes-menu-get-more =
     .label = Weitere Themes herunterladen
     .accesskey = W
+customize-mode-undo-cmd =
+    .label = Rückgängig
 customize-mode-lwthemes-my-themes =
     .value = Installiert
