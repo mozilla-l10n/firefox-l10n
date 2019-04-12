@@ -3,47 +3,26 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label       "عمومی">
-
 <!ENTITY itemUpdate.label        "به‌هنگام‌سازی">
 <!ENTITY itemNetworking.label    "Network &amp; Disk Space">
 <!ENTITY itemCertificates.label  "گواهی‌ها">
-<!-- General Settings -->
 
+<!-- General Settings -->
 <!ENTITY enableGlodaSearch.label       "Enable Global Search and Indexer">
 <!ENTITY enableGlodaSearch.accesskey   "I">
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY storeType.label               "نوع ذخیرهٔ پیام‌ها برای حسابهای جدید:">
 
 
 <!ENTITY alwaysCheckDefault.label      "Always check to see if &brandShortName; is the default mail client on startup">
 <!ENTITY alwaysCheckDefault.accesskey  "l">
-
-
-
-
 <!ENTITY configEditDesc.label          "Advanced Configuration">
 <!ENTITY configEdit.label              "Config Editor…">
 <!ENTITY configEdit.accesskey          "g">
 <!ENTITY returnReceiptsInfo.label      "Determine how &brandShortName; handles return receipts">
 <!ENTITY showReturnReceipts.label      "Return Receipts…">
 <!ENTITY showReturnReceipts.accesskey  "R">
+
 <!-- Data Choices -->
-
-
-
-
-
-
-
 
 
 <!-- Update -->
@@ -61,15 +40,7 @@
 
 
 
-
-
-
-
-
-
-
 <!-- Networking and Disk Space -->
-
 <!ENTITY showSettings.label            "تنظیمات…">
 <!ENTITY showSettings.accesskey        "ت">
 <!ENTITY proxiesConfigure.label        "چگونگی اتصال &brandShortName; به اینترنت را پیکربندی کنید">
@@ -81,30 +52,19 @@
 
 <!ENTITY Diskspace                       "Disk Space">
 
-
-
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
   line in preferences as follows:
 
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
-
 <!ENTITY useCacheBefore.label            "استفاده تا حداکثر">
 <!ENTITY useCacheBefore.accesskey        "ا">
 <!ENTITY useCacheAfter.label             "مگابایت از فضای دیسک برای حافظهٔ نهان.">
-
-
 <!ENTITY clearCacheNow.label             "هم‌اکنون پاک شود">
 <!ENTITY clearCacheNow.accesskey         "ه">
+
 <!-- Certificates -->
-
-
-
-
-
-
-
 
 <!ENTITY viewSecurityDevices.label "دستگاه‌های امنیتی">
 <!ENTITY viewSecurityDevices.accesskey "د">

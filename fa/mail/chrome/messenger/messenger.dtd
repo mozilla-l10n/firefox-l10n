@@ -15,6 +15,8 @@
      -->
 <!ENTITY newVirtualFolderCmd.label "Saved Search…">
 <!ENTITY newVirtualFolderCmd.accesskey "S">
+<!ENTITY newOtherAccountsCmd.label "سایر حسابها…">
+<!ENTITY newOtherAccountsCmd.accesskey "س">
 <!ENTITY openMessageFileCmd.label "Open Saved Message…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY saveAsMenu.label "ذخیره به نام">
@@ -23,9 +25,9 @@
 <!ENTITY saveAsFileCmd.accesskey "پ">
 <!ENTITY saveAsTemplateCmd.label "Template">
 <!ENTITY saveAsTemplateCmd.accesskey "T">
-<!ENTITY getNewMsgForCmd.label "Get New Messages for">
+<!ENTITY getNewMsgForCmd.label "دریافت پیام‌های جدید برای">
 <!ENTITY getNewMsgForCmd.accesskey "w">
-<!ENTITY getAllNewMsgCmdPopupMenu.label "All Accounts">
+<!ENTITY getAllNewMsgCmdPopupMenu.label "همهٔ حسابها">
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "A">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Current Account">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "C">
@@ -211,6 +213,8 @@
 
 <!ENTITY pageSourceCmd.label "Message Source">
 <!ENTITY pageSourceCmd.accesskey "o">
+<!ENTITY getNewMessagesCmd.key "ب">
+<!ENTITY getAllNewMessagesCmd.key "ب">
 
 <!-- Search Menu -->
 <!ENTITY findMenu.label "پیدا کردن">
@@ -362,6 +366,9 @@
 <!ENTITY addons.accesskey "ا">
 <!ENTITY activitymanager.label "Activity Manager">
 <!ENTITY activitymanager.accesskey "a">
+<!ENTITY imAccountsStatus.label "وضعیت گفت‌وگو">
+<!ENTITY imAccountsStatus.accesskey "گ">
+<!ENTITY imStatus.showAccounts       "نمایش حسابها…">
 <!ENTITY filtersApply.label "Run Filters on Folder">
 <!ENTITY filtersApply.accesskey "R">
 <!ENTITY filtersApplyToSelection.label "Run Filters on Selected Messages">
@@ -392,6 +399,7 @@
     This should be the text printed on the key defined in the previous string. -->
 
 <!-- Mail Toolbar -->
+<!ENTITY getMsgButton1.label "دریافت پیام‌ها">
 <!ENTITY newMsgButton.label "Write">
 <!ENTITY replyButton.label "پاسخ دادن">
 <!ENTITY replyAllButton.label "Reply All">
@@ -418,8 +426,8 @@
 
 <!-- Mail Toolbar Tooltips-->
 <!ENTITY advancedButton.tooltip "Advanced message search">
-<!ENTITY getMsgButton.tooltip "Get new messages">
-<!ENTITY getAllNewMsgCmd.label "Get All New Messages">
+<!ENTITY getMsgButton.tooltip "دریافت پیام‌های جدید">
+<!ENTITY getAllNewMsgCmd.label "دریافت همهٔ پیام‌های جدید">
 <!ENTITY getAllNewMsgCmd.accesskey "G">
 <!ENTITY newMsgButton.tooltip "Create a new message">
 <!ENTITY replyButton.tooltip "Reply to the message">
@@ -441,6 +449,7 @@
 <!ENTITY tagButton.tooltip "Tag messages">
 <!ENTITY compactButton.tooltip "Remove deleted messages from selected folder">
 
+
 <!-- Toolbar Button Popup -->
 
 <!-- Remote Content Button Popup -->
@@ -459,7 +468,7 @@
 
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Get Messages">
-<!ENTITY folderContextGetMessages.accesskey "G">
+<!ENTITY folderContextGetMessages.accesskey "د">
 <!ENTITY folderContextOpenNewTab.label "باز کردن در زبانهٔ جدید">
 <!ENTITY folderContextOpenNewTab.accesskey "ب">
 <!ENTITY folderContextNew.label "New Subfolder…">
@@ -615,6 +624,7 @@
      to get to the box faster. If the global indexer is disabled, the search
      box will be collapsed and the user will never see this message.
   -->
+<!ENTITY search.label.base1 "جستجوی #1">
 <!-- LOCALIZATION NOTE (search.keyLabel.nonmac):
      The description of the key-binding to get into the global search box on
      windows and linux (which use the control key). We use the key defined in
