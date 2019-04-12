@@ -4,6 +4,8 @@
 
 customize-mode-restore-defaults =
     .label = Artir Goowaaɗe
+customize-mode-menu-and-toolbars-header = Daas geɗe maa katojinaaɗe to palal kuutorɗe toh walla dosol beelowel.
+customize-mode-overflow-list-title = Dosol Beelewol
 customize-mode-uidensity =
     .label = Cukkeendi
 customize-mode-done =
@@ -21,6 +23,8 @@ customize-mode-uidensity-menu-touch =
     .tooltiptext = Mem
 customize-mode-uidensity-auto-touch-mode-checkbox =
     .label = Huutoro Mem wonande mod Alluwel
+customize-mode-extra-drag-space =
+    .label = Boowal Daasol
 customize-mode-lwthemes =
     .label = Ciŋkooje
 customize-mode-overflow-list-description = Daas njoɗɗinaa geɗe ngam ɓadinde ɗum'en tawa ngonaani e palal kuutorɗe maa…
