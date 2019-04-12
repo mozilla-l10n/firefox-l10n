@@ -4,6 +4,8 @@
 
 customize-mode-restore-defaults =
     .label = डिफ़ॉल्ट बहाल करें
+customize-mode-uidensity =
+    .label = घनत्व
 customize-mode-done =
     .label = संपन्न
 customize-mode-lwthemes-menu-manage =
@@ -15,6 +17,10 @@ customize-mode-titlebar =
     .label = शीर्षक पट्टी
 customize-mode-lwthemes =
     .label = प्रसंग
+customize-mode-uidensity-menu-normal =
+    .label = सामान्य
+    .accesskey = N
+    .tooltiptext = सामान्य
 customize-mode-lwthemes-menu-get-more =
     .label = नए प्रसंग प्राप्त करें
     .accesskey = G
