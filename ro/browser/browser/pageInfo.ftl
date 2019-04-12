@@ -113,8 +113,8 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
-security-site-data-cookies = Da, cookie-uri și { $value } { $unit } de date pentru site
-security-site-data-only = Da, { $value } { $unit } de date pentru site
+security-site-data-cookies = Da, cookie-uri și { $value } { $unit } de date pentru site-uri
+security-site-data-only = Da, { $value } { $unit } de date pentru site-uri
 security-site-data-cookies-only = Da, cookie-uri
 security-site-data-no = Nu
 image-size-unknown = Necunoscut
