@@ -4,6 +4,7 @@
 
 customize-mode-restore-defaults =
     .label = Ke'atzolij ri taq wachinel e k'o wi
+customize-mode-menu-and-toolbars-header = Ke'aqirirej ri jeb'ël taq awachinaq pa ri kikajtz'ik samajib'äl o chi rij ri k'utsamaj.
 customize-mode-uidensity =
     .label = Alalel
 customize-mode-lwthemes-menu-manage =
@@ -32,5 +33,7 @@ customize-mode-uidensity-menu-compact =
 customize-mode-lwthemes-menu-get-more =
     .label = Ke'ilitäj ch'aqa' chik taq wachinel
     .accesskey = K
+customize-mode-undo-cmd =
+    .label = Titzolïx
 customize-mode-lwthemes-my-themes =
     .value = Taq nuwachinel
