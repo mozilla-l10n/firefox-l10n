@@ -34,5 +34,7 @@ customize-mode-uidensity-menu-compact =
 customize-mode-lwthemes-menu-get-more =
     .label = আরও থিম পান
     .accesskey = G
+customize-mode-undo-cmd =
+    .label = পূর্বাবস্থায় ফেরানো U
 customize-mode-lwthemes-my-themes =
     .value = আমার থিমগুলি
