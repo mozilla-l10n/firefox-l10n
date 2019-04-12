@@ -77,6 +77,9 @@ detail-version =
 detail-last-updated =
     .label = Ñembohekopyahu ramovéva
 detail-contributions-description = Ko moimbaha mboguatahára ojerure eipytyvõ okueve hag̃ua mboguatahápe ejapóvo peteĩ michĩmíva mba'eme'ẽ.
+detail-contributions-button = Ñepytyvõ
+    .title = Eipytyvõ ko moimbaha okakuaa hag̃ua
+    .accesskey = Ñ
 detail-update-type =
     .value = Ñembohekopyahu ijeheguíva
 detail-update-default =
@@ -264,3 +267,12 @@ enable-addon-button = Mbojuruja
 expand-addon-button = Jeporavorãve
 addons-enabled-heading = Mbojurujapyre
 addons-disabled-heading = Pe'apyre
+addon-detail-author-label = Apohára
+addon-detail-version-label = Peteĩchagua
+addon-detail-last-updated-label = Mbohekopyahu paha
+addon-detail-homepage-label = Kuatiarogue ñepyrũha
+addon-detail-rating-label = Jeporavopy
+# This string is used to show that an add-on is disabled.
+# Variables:
+#   $name (string) - The name of the add-on
+addon-name-disabled = { $name } (jepe'apyre)
