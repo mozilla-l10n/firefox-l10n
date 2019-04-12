@@ -4,6 +4,7 @@
 
 customize-mode-restore-defaults =
     .label = ស្ដារ​លំនាំ​ដើម
+customize-mode-overflow-list-title = ម៉ឺនុយ Overflow
 customize-mode-uidensity =
     .label = ដង់ស៊ីតេ
 customize-mode-done =
@@ -23,6 +24,7 @@ customize-mode-uidensity-auto-touch-mode-checkbox =
     .label = ប្រើ​ការ​ប៉ះ​សម្រាប់​របៀប​ថេប្លេត
 customize-mode-lwthemes =
     .label = រូបរាង
+customize-mode-overflow-list-description = អូស​ទម្លាក់​ធាតុ​នៅ​ត្រង់​នេះ ដើម្បីឲ្យពួកគេអាចចូលប្រើបាន ប៉ុន្តែ​មិន​នៅ​ក្នុង​របារឧបករណ៍របស់អ្នកទេ…
 customize-mode-uidensity-menu-normal =
     .label = ធម្មតា
     .accesskey = N
