@@ -606,6 +606,8 @@
 <!ENTITY compactButton.tooltip "Eliminar definitivamain ils messadis stizzads da l'ordinatur tschernì">
 <!ENTITY appmenuButton1.tooltip "Mussar il menu da &brandShortName;">
 
+<!ENTITY addonsButton.tooltip "Administrar ils supplements">
+
 <!-- Toolbar Button Popup -->
 <!ENTITY buttonMenuForwardAsInline.label "Trametter vinavant integrà">
 <!ENTITY buttonMenuForwardAsAttachment.label "Trametter vinavant sco agiunta">
@@ -813,12 +815,6 @@
 <!ENTITY contextPrintPreview.label "Prevista da stampa">
 <!ENTITY contextPrintPreview.accesskey "t">
 
-<!-- Thread Pane Column Picker -->
-<!-- LOCALIZATION NOTE (columnPicker.resetToInbox.label):
-     This option in the thread pane column picker causes us to reset the
-     customizations for the thread pane columns in this folder to their default.
-  -->
-<!ENTITY columnPicker.resetToInbox.label "Restaurar las colonnas da standard">
 <!-- LOCALIZATION NOTE (columnPicker.applyTo.label):
      This option in the thread pane column picker pops up a sub-menu containing
      the "columnPicker.applyToFolder.label" and
@@ -858,7 +854,6 @@
      "File here" option for the move to/copy to widget.
   -->
 <!ENTITY columnPicker.thisFolder.label "Quest ordinatur">
-
 
 <!-- Media (video/audio) controls -->
 <!ENTITY contextPlay.label "Fa ir">
