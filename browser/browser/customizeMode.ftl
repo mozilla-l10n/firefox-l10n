@@ -5,6 +5,7 @@
 customize-mode-restore-defaults =
     .label = Återställ standard
 customize-mode-menu-and-toolbars-header = Dra dina favoritobjekt till verktygsfältet eller spillmenyn.
+customize-mode-overflow-list-title = Spillmeny
 customize-mode-uidensity =
     .label = Täthet
 customize-mode-done =
@@ -26,6 +27,7 @@ customize-mode-extra-drag-space =
     .label = Extra utrymme
 customize-mode-lwthemes =
     .label = Teman
+customize-mode-overflow-list-description = Dra och släpp objekt här för att hålla dem inom räckhåll men utanför verktygsfältet…
 customize-mode-uidensity-menu-normal =
     .label = Normal
     .accesskey = N
