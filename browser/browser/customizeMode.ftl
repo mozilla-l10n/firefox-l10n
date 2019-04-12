@@ -39,5 +39,7 @@ customize-mode-uidensity-menu-compact =
 customize-mode-lwthemes-menu-get-more =
     .label = Conseguir más temas
     .accesskey = C
+customize-mode-undo-cmd =
+    .label = Deshacer
 customize-mode-lwthemes-my-themes =
     .value = Mis temas
