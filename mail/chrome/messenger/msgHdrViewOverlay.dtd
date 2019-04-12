@@ -37,6 +37,8 @@
 <!ENTITY openAttachmentCmd.accesskey    "ب">
 <!ENTITY saveAsAttachmentCmd.label    "ذخیره به نام…">
 <!ENTITY saveAsAttachmentCmd.accesskey    "ذ">
+<!ENTITY detachAttachmentCmd.label    "جدا کردن پیوست…">
+<!ENTITY detachAttachmentCmd.accesskey    "ج">
 <!ENTITY saveAllAttachmentsCmd.label    "Save All…">
 <!ENTITY saveAllAttachmentsCmd.accesskey    "S">
 <!ENTITY detachAllAttachmentsCmd.label    "Detach All…">
