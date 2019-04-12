@@ -58,6 +58,7 @@ policy-HardwareAcceleration = If false, turn off hardware acceleration.
 policy-Homepage = Set and optionally lock the homepage.
 policy-InstallAddonsPermission = Allow certain websites to install add-ons.
 policy-NetworkPrediction = Enable or disable network prediction (DNS prefetching).
+policy-NewTabPage = Enable or disable the New Tab page.
 policy-NoDefaultBookmarks = Disable creation of the default bookmarks bundled with { -brand-short-name }, and the Smart Bookmarks (Most Visited, Recent Tags). Note: this policy is only effective if used before the first run of the profile.
 policy-OfferToSaveLogins = Enforce the setting to allow { -brand-short-name } to offer to remember saved logins and passwords. Both true and false values are accepted.
 policy-OverrideFirstRunPage = Override the first run page. Set this policy to blank if you want to disable the first run page.
@@ -70,6 +71,7 @@ policy-RequestedLocales = Set the list of requested locales for the application 
 policy-SanitizeOnShutdown = Clear all navigation data on shutdown.
 policy-SearchBar = Set the default location of the search bar. The user is still allowed to customize it.
 policy-SearchEngines = Configure search engine settings. This policy is only available on the Extended Support Release (ESR) version.
+policy-SearchSuggestEnabled = Enable or disable search suggestions.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Install PKCS #11 modules.
 policy-SSLVersionMax = Set the maximum SSL version.
