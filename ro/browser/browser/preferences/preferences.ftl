@@ -367,7 +367,7 @@ home-restore-defaults =
 # "Firefox" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
-    .label = Pagina de start Firefox (Implicit)
+    .label = Pagină de start Firefox (Implicit)
 home-mode-choice-custom =
     .label = URL-uri personalizate…
 home-mode-choice-blank =
