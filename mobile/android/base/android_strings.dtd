@@ -63,6 +63,12 @@
 <!ENTITY  crash_restart_label "Repornește &brandShortName;">
 
 <!ENTITY url_bar_default_text2 "Caută sau introdu adresa">
+
+<!-- Localization note: this text will be displayed in the Search Widget -->
+<!ENTITY search_widget_default_text "Caută pe web">
+<!ENTITY search_widget_default_cropped_text "Caută">
+<!ENTITY search_widget_logo_description "Caută pe web cu &brandShortName;">
+
 <!-- Localization note (url_bar_qrcode_text2) : This text will be
      heard by non-visual users when the focus is on the QR Code
      icon in the url bar. -->
@@ -335,6 +341,9 @@
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
 <!ENTITY tab_queue_prompt_settings_button "Mergi la Setări">
+<!-- Localization note (tab_queue_notification_prompt): This is the text of the default notification
+shown from Android O while a tab is being queued.-->
+<!ENTITY tab_queue_notification_prompt "Se adaugă noua filă în coadă&#8230;">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -393,7 +402,6 @@
 <!ENTITY pref_private_data_searchHistory "Istoricul căutărilor">
 <!ENTITY pref_private_data_formdata2 "Istoricul formularelor">
 <!ENTITY pref_private_data_cookies2 "Cookie-urile și autentificările active">
-<!ENTITY pref_private_data_passwords2 "Autentificările salvate">
 <!ENTITY pref_private_data_cache "Cache-ul">
 <!ENTITY pref_private_data_offlineApps "Datele offline ale site-urilor web">
 <!ENTITY pref_private_data_siteSettings2 "Setările site-urilor">
