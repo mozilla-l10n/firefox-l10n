@@ -40,6 +40,6 @@ customize-mode-lwthemes-menu-get-more =
     .label = Նոր ձևավորումներ
     .accesskey = G
 customize-mode-undo-cmd =
-    .label = Հետարկել{ " " }
+    .label = Հետարկել
 customize-mode-lwthemes-my-themes =
     .value = Իմ ձևավորումները
