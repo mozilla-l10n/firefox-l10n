@@ -5,6 +5,7 @@
 customize-mode-restore-defaults =
     .label = Ibalik sa Dati
 customize-mode-menu-and-toolbars-header = I-drag ang iyong mga paboritong item sa toolbar o overflow menu.
+customize-mode-overflow-list-title = I-overflow Menu
 customize-mode-uidensity =
     .label = Density
 customize-mode-done =
@@ -26,6 +27,7 @@ customize-mode-extra-drag-space =
     .label = I-drag ang Space
 customize-mode-lwthemes =
     .label = Mga Tema
+customize-mode-overflow-list-description = I-drag at i-drop ang mga item dito upang panatilihin ang mga ito sa loob ng maabot ngunit sa labas ng iyong toolbar...
 customize-mode-uidensity-menu-normal =
     .label = Normal
     .accesskey = N
