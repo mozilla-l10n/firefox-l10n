@@ -58,6 +58,7 @@ policy-HardwareAcceleration = M'eo lakaet da Gaou e vo diweredekaet herrekadur a
 policy-Homepage = Arventennañ ar bennbajenn. Gallout a rit ivez prennañ anezhi.
 policy-InstallAddonsPermission = Aotren lec'hiennoù 'zo da staliañ askouezhioù.
 policy-NetworkPrediction = (Di)weredekaat an diougan rouedad (rakkerc'hat DNS)
+policy-NewTabPage = (Di)weredekaat ar bajenn ivinell nevez.
 policy-NoDefaultBookmarks = Diweredekaat krouidigezh ar sinedoù dre ziouer roet gant { -brand-short-name }, hag ar sinedoù speredek (Gweladennet ar muiañ, ivinelloù nevesañ). Evezh: ar reolenn-mañ a zo efedus ar wech kentañ vez loc'het Firefox hepken.
 policy-OfferToSaveLogins = Rediañ an arventenn evit aotren { -brand-short-name } da ginnig enrollañ an titouroù kennaskañ. Ar gwerzhioù Gwir ha Gaou a zo asantet.
 policy-OverrideFirstRunPage = Merañ ar bajenn loc'hadur kentañ. Laoskit ar reolenn-mañ goullo ma fell deoc'h diweredekaat ar bajenn loc'hadur kentañ.
@@ -70,6 +71,7 @@ policy-RequestedLocales = Merañ roll ar yezhoù goulennet gant an arload, en ur
 policy-SanitizeOnShutdown = Skarzhañ an holl roadennoù merdeiñ pa vez serret.
 policy-SearchBar = Despizañ al lec'hiadur dre ziouer er varrenn glask. AN arveriad a c'hallo kemmañ anezhañ.
 policy-SearchEngines = Kefluniañ arventennoù al lusker enklask. Ar reolenn-mañ a c'hall bezañ lakaet en handelv skor astennet (ESR).
+policy-SearchSuggestEnabled = (Di)weredekaat an alioù klask.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Staliañ ar molladoù PKCS #11.
 policy-SSLVersionMax = Arventennañ an handelv SSL uhelañ.
