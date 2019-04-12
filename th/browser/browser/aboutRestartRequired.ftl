@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-restart-required-title = ต้องเริ่มการทำงานใหม่
+restart-required-title = จำเป็นต้องเริ่มการทำงานใหม่
 restart-required-header = ขออภัย เราจำเป็นต้องทำสิ่งเล็ก ๆ อีกเพียงหนึ่งอย่างเพื่อดำเนินการต่อ
 restart-required-intro = เราเพิ่งติดตั้งการอัปเดตในเบื้องหลัง คลิก เริ่มการทำงาน { -brand-short-name } ใหม่เพื่อให้การอัปเดตเสร็จสมบูรณ์
 restart-required-intro-brand = { -brand-short-name } เพิ่งได้รับการอัปเดตในเบื้องหลัง คลิก เริ่มการทำงาน { -brand-short-name } ใหม่เพื่อดำเนินการอัปเดตให้เสร็จสมบูรณ์
