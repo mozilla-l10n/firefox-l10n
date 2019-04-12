@@ -4,6 +4,7 @@
 
 customize-mode-restore-defaults =
     .label = पूर्वनिर्धारित पूर्वस्थितीत आणा
+customize-mode-menu-and-toolbars-header = आपले आवडते आयटम ओढून साधनपट्टीत किंवा ओव्हरफ्लो मेनूमध्ये टाका.
 customize-mode-overflow-list-title = ओव्हरफ्लो मेनू
 customize-mode-uidensity =
     .label = घनता
