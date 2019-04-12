@@ -4,6 +4,7 @@
 
 customize-mode-restore-defaults =
     .label = पूर्वनिर्धारित पूर्वस्थितीत आणा
+customize-mode-overflow-list-title = ओव्हरफ्लो मेनू
 customize-mode-uidensity =
     .label = घनता
 customize-mode-done =
@@ -21,6 +22,8 @@ customize-mode-uidensity-menu-touch =
     .tooltiptext = स्पर्श
 customize-mode-uidensity-auto-touch-mode-checkbox =
     .label = टॅबलेट मोड मध्ये स्पर्श वापरा
+customize-mode-extra-drag-space =
+    .label = जागा द्या
 customize-mode-lwthemes =
     .label = थीम्स
 customize-mode-uidensity-menu-normal =
@@ -34,5 +37,7 @@ customize-mode-uidensity-menu-compact =
 customize-mode-lwthemes-menu-get-more =
     .label = अधिक थिम्स मिळवा
     .accesskey = G
+customize-mode-undo-cmd =
+    .label = पूर्ववत् करा
 customize-mode-lwthemes-my-themes =
     .value = माझ्या थीम्स
