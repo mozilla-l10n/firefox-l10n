@@ -6,3 +6,7 @@ customize-mode-titlebar =
     .label = სათაურის ზოლი
 customize-mode-lwthemes =
     .label = თემები
+customize-mode-uidensity-menu-normal =
+    .label = ჩვეულებრივი
+    .accesskey = ჩ
+    .tooltiptext = ჩვეულებრივი
