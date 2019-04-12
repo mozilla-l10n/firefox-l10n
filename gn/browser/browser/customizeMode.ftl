@@ -4,6 +4,8 @@
 
 customize-mode-restore-defaults =
     .label = Ijypykuépe mbojevy
+customize-mode-menu-and-toolbars-header = Embotyryry temimoĩ reguerohoryvéva tembipuru rendápe ýrõ porãvorãvevýipe.
+customize-mode-overflow-list-title = Menu Ojeipysóva
 customize-mode-uidensity =
     .label = Tuicháva
 customize-mode-done =
@@ -21,8 +23,11 @@ customize-mode-uidensity-menu-touch =
     .tooltiptext = Jepoko
 customize-mode-uidensity-auto-touch-mode-checkbox =
     .label = Eipuru jepoko tableta rekópe g̃uarã
+customize-mode-extra-drag-space =
+    .label = Tyryry Pa'ũ
 customize-mode-lwthemes =
     .label = Mbojeguaha
+customize-mode-overflow-list-description = Rembotyry ha repoíramo ápe temimoĩ reguerekóta umíva ne'aguĩ katu noimemo'ãi tembipuru rendápe…
 customize-mode-uidensity-menu-normal =
     .label = Ha'etéva
     .accesskey = H
