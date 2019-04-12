@@ -4,3 +4,4 @@
 
 label-disable = ปิดใช้งาน
 label-enable = เปิดใช้งาน
+text-title = about:compat
