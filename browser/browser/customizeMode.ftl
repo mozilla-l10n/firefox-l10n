@@ -4,6 +4,8 @@
 
 customize-mode-restore-defaults =
     .label = डिफ़ॉल्ट बहाल करें
+customize-mode-menu-and-toolbars-header = अपने पसंदीदा चीज़ों को टूलबार या अतिप्रवाह मेनू में खींचें.
+customize-mode-overflow-list-title = अतिप्रवाह मेनू
 customize-mode-uidensity =
     .label = घनत्व
 customize-mode-done =
@@ -15,8 +17,11 @@ customize-mode-toolbars =
     .label = औज़ारपट्टी
 customize-mode-titlebar =
     .label = शीर्षक पट्टी
+customize-mode-extra-drag-space =
+    .label = खींचने की जगह
 customize-mode-lwthemes =
     .label = प्रसंग
+customize-mode-overflow-list-description = वस्तुओं को उन्हें पहुँच के भीतर लेकिन अपने टूलबार से बाहर रखने के लिए यहाँ खींचें और छोड़ें…
 customize-mode-uidensity-menu-normal =
     .label = सामान्य
     .accesskey = N
