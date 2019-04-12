@@ -10,6 +10,7 @@
 <!ENTITY paneGeneral.title        "عمومی">
 <!ENTITY paneDisplay.title        "Display">
 <!ENTITY paneComposition.title    "Composition">
+<!ENTITY paneChat.title           "گفت‌وگو">
 <!ENTITY paneAttachments.title    "Attachments">
 <!ENTITY panePrivacy.title        "خصوصی">
 <!ENTITY paneSecurity.title       "امنیت">

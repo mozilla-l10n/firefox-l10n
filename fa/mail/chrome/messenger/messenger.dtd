@@ -17,6 +17,8 @@
 <!ENTITY newVirtualFolderCmd.accesskey "S">
 <!ENTITY newOtherAccountsCmd.label "سایر حسابها…">
 <!ENTITY newOtherAccountsCmd.accesskey "س">
+<!ENTITY newIMAccountCmd.label "حساب گفت‌وگو…">
+<!ENTITY newIMContactCmd.label "مخاطب گفت‌وگو…">
 <!ENTITY openMessageFileCmd.label "Open Saved Message…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY saveAsMenu.label "ذخیره به نام">
@@ -262,6 +264,8 @@
 <!ENTITY goBackCmd.label "عقب">
 <!ENTITY goBackCmd.accesskey "ع">
 <!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goChatCmd.label "گفت‌وگو">
+<!ENTITY goChatCmd.accesskey "گ">
 <!ENTITY prevStarredMsgCmd.label "Starred Message">
 <!ENTITY prevStarredMsgCmd.accesskey "S">
 <!ENTITY startPageCmd.label "Mail Start Page">
@@ -417,6 +421,7 @@
 <!ENTITY junkButton.label "Junk">
 <!ENTITY notJunkButton.label "Not Junk">
 <!ENTITY addressBookButton.label "Address Book">
+<!ENTITY chatButton.label "گفت‌وگو">
 <!ENTITY glodaSearch.title "Global Search">
 <!ENTITY searchItem.title "Quick Search">
 <!ENTITY mailViewsToolbarItem.title "Mail Views">
@@ -446,6 +451,7 @@
 <!ENTITY junkButton.tooltip "Mark the selected messages as junk">
 <!ENTITY notJunkButton.tooltip "Mark the selected messages as not junk">
 <!ENTITY addressBookButton.tooltip "Go to the address book">
+<!ENTITY chatButton.tooltip "نمایش سربرگ گفت‌وگو">
 <!ENTITY tagButton.tooltip "Tag messages">
 <!ENTITY compactButton.tooltip "Remove deleted messages from selected folder">
 
