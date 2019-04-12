@@ -4,25 +4,10 @@
 
 
 
-
-
 <!ENTITY accountUsernameTitle.label   "نام‌کاربری">
-
 
 <!ENTITY accountPasswordTitle.label   "گذرواژه">
 
 
-
-
-
-
-
-
-
-
-
-
-
 <!ENTITY accountSummaryTitle.label   "خلاصه">
-
-
+<!ENTITY accountSummary.connectNow.label "حالا این حساب را وصل کن.">

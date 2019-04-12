@@ -2,21 +2,18 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+
 <!ENTITY  prefWindow.titleWin     "گزینه‌ها">
 <!ENTITY  prefWindow.titleGNOME   "ترجیحات &brandShortName;">
 <!ENTITY  prefWindow.titleMAC     "ترجیحات">
-<!ENTITY  prefWindow.styleWindows "width: 44em; min-height: 38.5em;">
-
-<!ENTITY  prefWindow.styleGNOME   "width: 42em; min-height: 38em;">
 
 <!ENTITY paneGeneral.title        "عمومی">
 <!ENTITY paneDisplay.title        "Display">
 <!ENTITY paneComposition.title    "Composition">
-
 <!ENTITY paneAttachments.title    "Attachments">
 <!ENTITY panePrivacy.title        "خصوصی">
 <!ENTITY paneSecurity.title       "امنیت">
 <!ENTITY paneAdvanced.title       "پیشرفته">
-<!ENTITY paneAccount.title        "Accounts">
+<!ENTITY paneAccount.title        "حسابها">
 
 

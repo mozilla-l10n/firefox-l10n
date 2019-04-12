@@ -41,6 +41,7 @@
 <!ENTITY helpus.getInvolvedLink     "همکاری با ما">
 <!ENTITY helpus.end                 "">
 
+<!ENTITY releaseNotes.link          "امکانات جدید">
 
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 <!ENTITY bottomLinks.license        "اطلاعات مجوز">
@@ -96,6 +97,7 @@
 <!ENTITY update.downloading.end     "">
 
 <!ENTITY update.applying            "در حال اعمال به‌‌روزرسانی…">
+<!ENTITY update.restarting          "در حال راه اندازی دوباره…">
 
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.
