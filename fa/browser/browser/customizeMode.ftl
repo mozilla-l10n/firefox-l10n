@@ -4,6 +4,8 @@
 
 customize-mode-restore-defaults =
     .label = بازگرداندن پیش‌فرض‌ها
+customize-mode-menu-and-toolbars-header = موارد محبوب خود را به داخل نوار ابزار بکشید یا به منو اضافه کنید.
+customize-mode-overflow-list-title = سرریز فهرست
 customize-mode-uidensity =
     .label = تراکم
 customize-mode-done =
@@ -21,8 +23,11 @@ customize-mode-uidensity-menu-touch =
     .tooltiptext = لمس
 customize-mode-uidensity-auto-touch-mode-checkbox =
     .label = استفاده از لمس برای حالت تبلت
+customize-mode-extra-drag-space =
+    .label = کشیدن فضا
 customize-mode-lwthemes =
     .label = تم و زمینه ها
+customize-mode-overflow-list-description = کشیدن و رها‌کردن موارد به این قسمت برای نگه‌ داشتن‌ همه آن ها در کنار هم و دسترسی از طریق نوارابزار…
 customize-mode-uidensity-menu-normal =
     .label = عادی
     .accesskey = ع
