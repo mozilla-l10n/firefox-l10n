@@ -327,7 +327,7 @@
 
 <!ENTITY calendar.alarm.snoozefor.label             "Amână cu" >
 <!ENTITY calendar.alarm.snoozeallfor.label          "Amână toate cu" >
-<!ENTITY calendar.alarm.title.label                 "Memento-uri calendar" >
+<!ENTITY calendar.alarm.title.label                 "Mementouri pentru calendar" >
 <!ENTITY calendar.alarm.dismiss.label               "Respinge" >
 <!ENTITY calendar.alarm.dismissall.label            "Respinge tot" >
 
@@ -361,7 +361,7 @@
 <!ENTITY calendarproperties.refreshInterval.manual.label   "Manual">
 <!ENTITY calendarproperties.name.label                     "Denumire:">
 <!ENTITY calendarproperties.readonly.label                 "Numai cu drept de citire">
-<!ENTITY calendarproperties.firealarms.label               "Afișează memento-urile">
+<!ENTITY calendarproperties.firealarms.label               "Afișează mementourile">
 <!ENTITY calendarproperties.cache3.label                   "Suport offline">
 <!ENTITY calendarproperties.enabled.label                  "Activează acest calendar">
 <!ENTITY calendarproperties.forceDisabled.label            "Nu s-a găsit furnizorul pentru acest calendar. Se întâmplă dacă ai dezactivat sau ai dezinstalat anumite suplimente.">
