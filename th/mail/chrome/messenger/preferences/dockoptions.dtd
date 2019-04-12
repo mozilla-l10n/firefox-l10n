@@ -5,3 +5,9 @@
 <!ENTITY dockOptionsDialog.title               "ตัวเลือกไอคอนแอป">
 <!ENTITY window.macWidth                       "35em">
 
+<!ENTITY bounceSystemDockIcon.label            "ทำให้ไอคอนแอปเคลื่อนไหวเมื่อมีข้อความใหม่มาถึง">
+<!ENTITY bounceSystemDockIcon.accesskey        "ท">
+<!ENTITY newMessagesCountDock.label            "จำนวนข้อความใหม่">
+<!ENTITY newMessagesCountDock.accesskey        "ม">
+<!ENTITY showAllUnreadMessagesCount.label      "จำนวนข้อความที่ยังไม่ได้อ่าน">
+<!ENTITY showAllUnreadMessagesCount.accesskey  "ย">
