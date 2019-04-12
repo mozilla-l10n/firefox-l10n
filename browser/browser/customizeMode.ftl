@@ -34,5 +34,7 @@ customize-mode-uidensity-menu-compact =
 customize-mode-lwthemes-menu-get-more =
     .label = Fumana Neminye Imixholo
     .accesskey = G
+customize-mode-undo-cmd =
+    .label = Lungisa okwenzileyo
 customize-mode-lwthemes-my-themes =
     .value = Imixholo yam
