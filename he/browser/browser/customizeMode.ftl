@@ -4,6 +4,7 @@
 
 customize-mode-restore-defaults =
     .label = שחזור לבררות מחדל
+customize-mode-menu-and-toolbars-header = ניתן לגרור את הפריטים המועדפים עליך לתוך סרגל הכלים או לתפריט הצף.
 customize-mode-overflow-list-title = התפריט הצף
 customize-mode-uidensity =
     .label = צפיפות
@@ -38,5 +39,7 @@ customize-mode-uidensity-menu-compact =
 customize-mode-lwthemes-menu-get-more =
     .label = קבלת ערכות נושא נוספות
     .accesskey = ק
+customize-mode-undo-cmd =
+    .label = ביטול
 customize-mode-lwthemes-my-themes =
     .value = ערכות הנושא שלי
