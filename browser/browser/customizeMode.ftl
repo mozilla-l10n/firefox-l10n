@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+customize-mode-overflow-list-title = Menu expandido
 customize-mode-uidensity =
     .label = Densidade
 customize-mode-done =
@@ -16,6 +17,7 @@ customize-mode-uidensity-menu-touch =
     .tooltiptext = Toque
 customize-mode-lwthemes =
     .label = Temas
+customize-mode-overflow-list-description = Arraste e solte itens aqui para mantê-los ao alcance, mas fora da sua barra de ferramentas…
 customize-mode-uidensity-menu-normal =
     .label = Normal
     .accesskey = N
