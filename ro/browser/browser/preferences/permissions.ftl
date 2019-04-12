@@ -46,8 +46,6 @@ permissions-capabilities-listitem-allow =
     .value = Permite
 permissions-capabilities-listitem-block =
     .value = Blochează
-permissions-capabilities-listitem-allow-first-party =
-    .value = Permite numai prima parte
 permissions-capabilities-listitem-allow-session =
     .value = Permite pentru sesiune
 
@@ -58,10 +56,6 @@ permissions-invalid-uri-label = Te rugăm să introduci un nume de gazdă valid
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-tracking-protection-window =
-    .title = Excepții - Protecție împotriva urmăririi
-    .style = { permissions-window.style }
-permissions-exceptions-tracking-protection-desc = Ai dezactivat protecția împotriva urmăririi pe aceste site-uri web.
 permissions-exceptions-content-blocking-window =
     .title = Excepții - Blocare de conținut
     .style = { permissions-window.style }
@@ -84,9 +78,9 @@ permissions-exceptions-popup-desc = Poți specifica ce site-uri web au permisiun
 ## Exceptions - Saved Logins
 
 permissions-exceptions-saved-logins-window =
-    .title = Excepții - Autentificări salvate
+    .title = Excepții - Date de autentificare salvate
     .style = { permissions-window.style }
-permissions-exceptions-saved-logins-desc = Nu vor fi salvate autentificările pentru următoarele site-uri web
+permissions-exceptions-saved-logins-desc = Nu vor fi salvate date de autentificare pentru următoarele site-uri web
 
 ## Exceptions - Add-ons
 

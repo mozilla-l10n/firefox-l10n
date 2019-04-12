@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 saved-logins =
-    .title = Autentificări salvate
+    .title = Date de autentificare salvate
 window-close =
     .key = w
 focus-search-shortcut =
