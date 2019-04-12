@@ -4,6 +4,7 @@
 
 customize-mode-restore-defaults =
     .label = Restablir l'òrdre inicial
+customize-mode-menu-and-toolbars-header = Lisatz vòstres elements favorits cap al la barra d'aisinas o al menú demai.
 customize-mode-uidensity =
     .label = Densitat
 customize-mode-done =
@@ -23,6 +24,10 @@ customize-mode-uidensity-auto-touch-mode-checkbox =
     .label = Utilizatz lo tactil pel mòde tauleta
 customize-mode-lwthemes =
     .label = Tèmas
+customize-mode-uidensity-menu-normal =
+    .label = Normala
+    .accesskey = N
+    .tooltiptext = Normala
 customize-mode-uidensity-menu-compact =
     .label = Compacte
     .accesskey = C
