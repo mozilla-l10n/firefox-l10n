@@ -43,7 +43,7 @@ policy-DisableSystemAddonUpdate = Împiedică browserul să instaleze și să ac
 policy-DisableTelemetry = Dezactivează telemetria.
 policy-DisplayBookmarksToolbar = Afișează implicit bara de marcaje.
 policy-DisplayMenuBar = Afișează implicit bara de meniu.
-policy-DNSOverHTTPS = Configurează DNS peste HTTPS.
+policy-DNSOverHTTPS = Configurează DNS prin HTTPS.
 policy-DontCheckDefaultBrowser = Dezactivează verificarea de browser implicit la pornire.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Activează sau dezactivează blocarea conținutului și, opțional, blochează opțiunea.
