@@ -4,3 +4,13 @@
 
 customize-mode-restore-defaults =
     .label = Återställ standard
+customize-mode-lwthemes-menu-manage =
+    .label = Hantera
+    .accesskey = M
+customize-mode-lwthemes =
+    .label = Teman
+customize-mode-lwthemes-menu-get-more =
+    .label = Hämta mer teman
+    .accesskey = G
+customize-mode-lwthemes-my-themes =
+    .value = Mina teman
