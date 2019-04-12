@@ -16,3 +16,5 @@
 <!ENTITY InitialText.label "ข้อความตั้งต้น:">
 
 <!ENTITY TextAreaWrap.label "โหมดการตัด:">
+<!ENTITY WrapDefault.value "ค่าเริ่มต้น">
+<!ENTITY WrapOff.value "ปิด">

@@ -180,6 +180,8 @@
 <!ENTITY printButton.label "พิมพ์">
 
 <!-- Mail Toolbar Tooltips -->
+<!ENTITY attachButton.tooltip2 "เพิ่มไฟล์แนบ">
+<!ENTITY saveButton.tooltip "บันทึกข้อความนี้">
 <!ENTITY cutButton.tooltip              "ตัด">
 <!ENTITY copyButton.tooltip             "คัดลอก">
 <!ENTITY pasteButton.tooltip            "วาง">
