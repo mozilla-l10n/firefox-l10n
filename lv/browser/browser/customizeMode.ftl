@@ -4,5 +4,15 @@
 
 customize-mode-restore-defaults =
     .label = Atjaunot noklusēto
+customize-mode-lwthemes-menu-manage =
+    .label = Pārvaldīt
+    .accesskey = P
 customize-mode-titlebar =
     .label = Virsraksta josla
+customize-mode-lwthemes =
+    .label = Tēmas
+customize-mode-lwthemes-menu-get-more =
+    .label = Iegūt jaunas tēmas
+    .accesskey = I
+customize-mode-lwthemes-my-themes =
+    .value = Manas tēmas
