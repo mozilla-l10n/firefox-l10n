@@ -49,5 +49,7 @@ cfr-doorhanger-pintab-description = તમારી સૌથી વધુ ઉ�
 ## These messages are steps on how to use the feature and are shown together.
 
 cfr-doorhanger-pintab-step1 = તમે જે ટૅબને પિન કરવા માંગો છો તેના પર <b>જમણી ક્લિક કરો.</b>
+cfr-doorhanger-pintab-step2 = મેનૂમાંથી <b>પિન ટૅબ</ b> પસંદ કરો.
+cfr-doorhanger-pintab-step3 = જો સાઇટમાં એક અપડેટ હોય તો તમને તમારા પિન કરેલા ટેબ પર વાદળી બિંદુ દેખાશે.
 cfr-doorhanger-pintab-animation-pause = અટકાવો
 cfr-doorhanger-pintab-animation-resume = ફરી શરૂ કરો
