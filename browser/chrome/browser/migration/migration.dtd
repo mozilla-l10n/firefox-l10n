@@ -45,6 +45,6 @@
 <!ENTITY selectProfile.label            "Aşağıdaki profiller buradan içe aktarılabilir:">
 
 <!ENTITY done.title                     "İçe aktarma tamamlandı">
-<!ENTITY done.label                     "Aşağıdaki öğeler başarılı şekilde içe aktarıldı:">
+<!ENTITY done.label                     "Aşağıdaki öğeler başarıyla içe aktarıldı:">
 
 <!ENTITY closeSourceBrowser.label       "Devam etmeden önce lütfen seçtiğiniz tarayıcının kapalı olduğundan emin olun.">
