@@ -6,3 +6,7 @@ customize-mode-restore-defaults =
     .label = Restaura els valors per defecte
 customize-mode-titlebar =
     .label = Barra de títol
+customize-mode-lwthemes =
+    .label = Temes
+customize-mode-lwthemes-my-themes =
+    .value = Els meus temes
