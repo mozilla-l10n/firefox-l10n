@@ -8,6 +8,7 @@ about-config-warning-text = Schimbarea acestor setări avansate poate fi dăună
 about-config-warning-checkbox = Irită-mă din nou, te rog!
 about-config-warning-button = Accept riscul
 about-config-title = about:config
+about-config2-title = Configurații avansate
 about-config-search-input =
     .placeholder = Caută
 about-config-show-all = Afișează tot
