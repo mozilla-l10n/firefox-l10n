@@ -5,9 +5,9 @@
 
 ### The term "Service Workers" and "Workers" should not be translated
 
-about-service-workers-title = Despre Service Workeri
-about-service-workers-main-title = Service workeri înregistrați
-about-service-workers-warning-not-enabled = Service workerii nu sunt activați.
+about-service-workers-title = Despre scripturile Service Worker
+about-service-workers-main-title = Scripturi Service Worker înregistrate
+about-service-workers-warning-not-enabled = Scripturile Service Worker nu sunt activate.
 about-service-workers-warning-no-service-workers = Niciun service worker înregistrat.
 # The original title of service workers' information
 #
