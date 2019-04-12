@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+customize-mode-restore-defaults =
+    .label = Varsayılanları geri yükle
 customize-mode-menu-and-toolbars-header = Sevdiğiniz öğeleri araç çubuğuna veya adres çubuğu menüsüne sürükleyin.
 customize-mode-overflow-list-title = Taşma menüsü
 customize-mode-uidensity =
@@ -10,6 +12,8 @@ customize-mode-done =
     .label = Tamam
 customize-mode-toolbars =
     .label = Araç çubukları
+customize-mode-titlebar =
+    .label = Başlık çubuğu
 customize-mode-uidensity-menu-touch =
     .label = Dokunmatik
     .accesskey = D
