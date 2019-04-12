@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+customize-mode-restore-defaults =
+    .label = Khôi phục về mặc định
 customize-mode-menu-and-toolbars-header = Kéo mục yêu thích của bạn vào thanh công cụ hoặc bảng chọn.
 customize-mode-overflow-list-title = Bảng chọn
 customize-mode-uidensity =
@@ -19,6 +21,8 @@ customize-mode-uidensity-menu-touch =
     .label = Chạm
     .accesskey = T
     .tooltiptext = Chạm
+customize-mode-uidensity-auto-touch-mode-checkbox =
+    .label = Sử dụng cảm ứng cho chế độ máy tính bảng
 customize-mode-extra-drag-space =
     .label = Kéo khoảng trắng
 customize-mode-lwthemes =
