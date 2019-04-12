@@ -4,6 +4,8 @@
 
 customize-mode-restore-defaults =
     .label = Err-d tawila tamezwert
+customize-mode-uidensity =
+    .label = Taneẓẓi
 customize-mode-lwthemes-menu-manage =
     .label = Sefrek
     .accesskey = M
