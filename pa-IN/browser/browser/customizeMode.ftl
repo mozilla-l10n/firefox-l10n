@@ -27,6 +27,7 @@ customize-mode-extra-drag-space =
     .label = ਥਾਂ ਨੂੰ ਖਿੱਚੋ
 customize-mode-lwthemes =
     .label = ਥੀਮ
+customize-mode-overflow-list-description = ਉਹਨਾਂ ਨੂੰ ਪਹੁੰਚ ਵਿੱਚ ਰੱਖੋ ਪਰ ਉਹਨਾਂ ਨੂੰ ਆਪਣੇ ਟੂਲਬਾਰ ਵਿੱਚੋਂ ਬਾਹਰ ਰੱਖਣ ਲਈ ਉਹਨਾਂ ਨੂੰ ਖਿੱਚੋ ਅਤੇ ਸੁੱਟੋ…
 customize-mode-uidensity-menu-normal =
     .label = ਸਧਾਰਨ
     .accesskey = N
