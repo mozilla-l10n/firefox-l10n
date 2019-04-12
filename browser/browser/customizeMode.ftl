@@ -39,5 +39,7 @@ customize-mode-uidensity-menu-compact =
 customize-mode-lwthemes-menu-get-more =
     .label = Земете повеќе теми
     .accesskey = Н
+customize-mode-undo-cmd =
+    .label = Врати
 customize-mode-lwthemes-my-themes =
     .value = Мои теми
