@@ -58,6 +58,7 @@ policy-HardwareAcceleration = 若为 false，将会关闭硬件加速。
 policy-Homepage = 设置主页，可选择锁定。
 policy-InstallAddonsPermission = 允许特定网站安装附加组件。
 policy-NetworkPrediction = 启用或禁用网络预测（DNS 预读取）功能。
+policy-NewTabPage = 启用或禁用新标签页。
 policy-NoDefaultBookmarks = 禁止创建 { -brand-short-name } 捆绑的默认书签以及智能书签（最常访问、最近使用的标签）。注意：此策略仅在配置文件首次运行时生效。
 policy-OfferToSaveLogins = 强制启用或禁用 { -brand-short-name } 的登录账号与密码保存功能。接受 true 或 false。
 policy-OverrideFirstRunPage = 覆盖首次运行页面。如果您想禁用首次运行页面，将此策略设为空白。
@@ -70,6 +71,7 @@ policy-RequestedLocales = 设置应用程序表明语言区域偏好的语言区
 policy-SanitizeOnShutdown = 关闭浏览器时清除所有浏览数据。
 policy-SearchBar = 设置搜索栏的默认位置，用户仍可自定义。
 policy-SearchEngines = 配置搜索引擎设置。此策略仅适用于延长支持版（ESR）。
+policy-SearchSuggestEnabled = 启用或禁用搜索建议。
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = 安装 PKCS #11 模块。
 policy-SSLVersionMax = 设置最高 SSL 版本。
