@@ -5,6 +5,7 @@
 customize-mode-restore-defaults =
     .label = ডিফল্ট মান পুনরায় স্থাপন করা হবে
 customize-mode-menu-and-toolbars-header = টুলবার বা ওভারফ্লো মেনুতে আপনার প্রিয় আইটেমগুলি টেনে আনুন।
+customize-mode-overflow-list-title = ওভারফ্লো মেনুতে যোগ করুন
 customize-mode-uidensity =
     .label = ঘনত্ব
 customize-mode-done =
@@ -26,6 +27,7 @@ customize-mode-extra-drag-space =
     .label = টানার জায়গা
 customize-mode-lwthemes =
     .label = থিমসমূহ
+customize-mode-overflow-list-description = হাতের নাগালে কিন্তু আপনার টুলবারের বাইরে রাখতে আইটেমগুলিকে এখানে ড্র্যাগ করে ছেড়ে দিন…
 customize-mode-uidensity-menu-normal =
     .label = স্বাভাবিক
     .accesskey = N
