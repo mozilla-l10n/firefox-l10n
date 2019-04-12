@@ -34,4 +34,4 @@
 <!ENTITY fillUsernameMenu.label       "Completează utilizatorul">
 <!ENTITY fillUsernameMenu.accesskey   "r">
 <!ENTITY noLoginSuggestions.label     "(nicio sugestie de autentificare)">
-<!ENTITY viewSavedLogins.label        "Vezi autentificările salvate">
+<!ENTITY viewSavedLogins.label        "Vezi datele de autentificare salvate">
