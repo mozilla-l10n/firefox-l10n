@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 saved-logins =
-    .title = 로그인 저장
+    .title = 저장된 로그인
 window-close =
     .key = w
 focus-search-shortcut =
@@ -46,7 +46,7 @@ column-heading-time-password-changed =
 column-heading-times-used =
     .label = 사용된 횟수
 remove =
-    .label = 제거
+    .label = 삭제
     .accesskey = R
 import =
     .label = 가져오기…
@@ -68,7 +68,7 @@ remove-all =
 remove-all-shown =
     .label = 보이는 것 모두 삭제
     .accesskey = A
-remove-all-passwords-prompt = 비밀번호를 모두 제거하시겠습니까?
+remove-all-passwords-prompt = 비밀번호를 모두 삭제하시겠습니까?
 remove-all-passwords-title = 모든 비밀번호 삭제
 no-master-password-prompt = 정말로 비밀번호를 보이게 하시겠습니까?
 auto-fill-logins-and-passwords =

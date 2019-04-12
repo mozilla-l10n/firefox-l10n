@@ -64,6 +64,8 @@ but will never be visible at the same time. -->
 These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  bookmarkSelectedTabs.accesskey     "k">
 
+<!-- Tab context menu -->
+
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
@@ -170,7 +172,7 @@ same accesskey but will never be visible at the same time. -->
 <!ENTITY toolbarContextMenu.undoCloseTab.label "닫은 탭 다시 열기">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "U">
 
-<!ENTITY pageSourceCmd.label "소스 보기">
+<!ENTITY pageSourceCmd.label "페이지 소스">
 <!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.commandkey "u">
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
@@ -376,7 +378,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY toolsMenu.label              "도구">
 <!ENTITY toolsMenu.accesskey          "T">
 
-<!ENTITY keywordfield.label           "검색 항목에 키워드 지정…">
+<!ENTITY keywordfield.label           "이 검색의 키워드 추가…">
 <!ENTITY keywordfield.accesskey       "K">
 
 <!ENTITY downloads.label              "다운로드">
@@ -530,7 +532,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
     secondary commands. -->
-<!ENTITY moreMenu.label "더보기">
+<!ENTITY moreMenu.label "다른 도구">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "검색어나 주소 입력">
@@ -635,7 +637,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.accesskey     "R">
 <!ENTITY viewPartialSourceForSelectionCmd.label "선택한 소스 보기">
 <!ENTITY viewPartialSourceCmd.accesskey "e">
-<!ENTITY viewPageSourceCmd.label      "페이지 소스">
+<!ENTITY viewPageSourceCmd.label      "페이지 소스 보기">
 <!ENTITY viewPageSourceCmd.accesskey  "V">
 <!ENTITY viewFrameSourceCmd.label     "프레임 소스">
 <!ENTITY viewFrameSourceCmd.accesskey "V">
@@ -737,7 +739,7 @@ items are mutually exclusive. -->
 items are mutually exclusive. -->
 <!ENTITY mediaMute.label             "음소거">
 <!ENTITY mediaMute.accesskey         "M">
-<!ENTITY mediaUnmute.label           "소리켜기">
+<!ENTITY mediaUnmute.label           "음소거 해제">
 <!ENTITY mediaUnmute.accesskey       "m">
 <!ENTITY mediaPlaybackRate2.label     "재생 속도">
 <!ENTITY mediaPlaybackRate2.accesskey "d">
@@ -1100,7 +1102,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY updateAvailable.message "가장 빠르고 안전한 &brandShorterName;로 업데이트하십시오.">
 <!ENTITY updateAvailable.whatsnew.label "새 기능 살펴보기.">
-<!ENTITY updateAvailable.header.message "&brandShorterName; 에 새 업데이트가 있습니다.">
+<!ENTITY updateAvailable.header.message "새 &brandShorterName; 업데이트가 있습니다.">
 <!ENTITY updateAvailable.acceptButton.label "업데이트 내려받기">
 <!ENTITY updateAvailable.acceptButton.accesskey "D">
 <!ENTITY updateAvailable.cancelButton.label "바로 안함">
