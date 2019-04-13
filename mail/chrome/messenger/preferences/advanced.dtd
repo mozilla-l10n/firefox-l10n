@@ -9,10 +9,16 @@
 <!ENTITY itemCertificates.label  "ใบรับรอง">
 
 <!-- General Settings -->
+<!ENTITY enableGlodaSearch.label       "เปิดใช้งานการค้นหาส่วนกลางและตัวทำดัชนี">
+<!ENTITY enableGlodaSearch.accesskey   "ป">
 <!ENTITY dateTimeFormatting.label      "การจัดรูปแบบวันที่และเวลา">
 <!ENTITY languageSelector.label        "ภาษา">
 <!ENTITY allowHWAccel.label            "ใช้การเร่งความเร็วด้วยฮาร์ดแวร์เมื่อพร้อมใช้งาน">
 <!ENTITY allowHWAccel.accesskey        "ช">
+<!ENTITY storeType.label               "ชนิดการเก็บข้อความสำหรับบัญชีใหม่:">
+<!ENTITY storeType.accesskey           "น">
+<!ENTITY mboxStore2.label              "ไฟล์ต่อโฟลเดอร์ (mbox)">
+<!ENTITY maildirStore.label            "ไฟล์ต่อข้อความ (maildir)">
 
 <!ENTITY scrolling.label               "การเลื่อน">
 <!ENTITY useAutoScroll.label           "ใช้การเลื่อนอัตโนมัติ">
@@ -21,6 +27,8 @@
 <!ENTITY useSmoothScrolling.accesskey  "ก">
 
 <!ENTITY systemIntegration.label       "การผนวกรวมระบบ">
+<!ENTITY alwaysCheckDefault.label      "ตรวจสอบเสมอว่า &brandShortName; เป็นไคลเอนต์จดหมายเริ่มต้นหรือไม่เมื่อเริ่มต้น">
+<!ENTITY alwaysCheckDefault.accesskey  "ต">
 <!ENTITY searchIntegration.label       "อนุญาตให้ &searchIntegration.engineName; ค้นหาข้อความ">
 <!ENTITY searchIntegration.accesskey   "อ">
 <!ENTITY checkDefaultsNow.label        "ตรวจสอบตอนนี้…">
@@ -53,6 +61,7 @@
   if required by your language.
  -->
 <!ENTITY updateApp.version.pre           "รุ่น ">
+
 
 
 <!-- Networking and Disk Space -->
