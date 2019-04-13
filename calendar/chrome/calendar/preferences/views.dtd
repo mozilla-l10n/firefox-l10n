@@ -16,6 +16,8 @@
 <!ENTITY pref.calendar.view-minimonth.showweeknumber.label "แสดงหมายเลขสัปดาห์ในมุมมองและเดือนขนาดเล็ก">
 <!ENTITY pref.calendar.view-minimonth.showweeknumber.accesskey "ส">
 
+<!ENTITY pref.calendar.view.visiblehours.label "แสดง:">
+<!ENTITY pref.calendar.view.visiblehours.accesskey "ส">
 
 <!ENTITY pref.numberofweeks.0 "ไม่มี">
 <!ENTITY pref.numberofweeks.1 "1 สัปดาห์">
