@@ -29,9 +29,14 @@
 <!ENTITY languagePopup.label                  "ภาษา:">
 <!ENTITY downloadDictionaries.label           "ดาวน์โหลดพจนานุกรมเพิ่มเติม">
 
+<!ENTITY autoSave.label                       "บันทึกอัตโนมัติทุก ๆ">
+<!ENTITY autoSaveEnd.label                    "นาที">
 
+<!ENTITY addressingTitle.label                 "การเติมที่อยู่อัตโนมัติ">
 <!ENTITY directories.label                     "เซิร์ฟเวอร์ไดเรกทอรี:">
 <!ENTITY directoriesNone.label                 "ไม่มี">
 <!ENTITY editDirectories.label                 "แก้ไขไดเรกทอรี…">
 
+<!ENTITY sendOptions.label                     "ตัวเลือกการส่ง…">
 
+<!ENTITY attachmentReminderOptions.label       "คำสำคัญ…">
