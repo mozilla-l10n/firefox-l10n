@@ -4,6 +4,8 @@
 
 <!ENTITY window.title "ยินดีต้อนรับสู่ &brandShortName;">
 <!ENTITY header2.label "คุณต้องการที่อยู่อีเมลใหม่หรือไม่?">
+<!ENTITY error.line1 "ขออภัย เราไม่พบที่อยู่อีเมลที่แนะนำ">
+<!ENTITY error.line2 "คุณสามารถลองค้นหาชื่อเล่นหรือคำอื่น ๆ เพื่อค้นหาอีเมลเพิ่มเติมได้">
 
 <!-- LOCALIZATION NOTE(error.suggest.before, error.suggest.middle, error.suggest.after):
      error.suggest.before, error.suggest.middle, and error.suggest.after all go into
@@ -13,8 +15,19 @@
 <!-- LOCALIZATION NOTE(success.title.before, success.title.after):
      success.title.before and success.title.after all go into one line, wrapping
      around the name that the user has typed in to the search input. -->
+<!ENTITY success.title.before "สวัสดี ">
+<!ENTITY success.title.after " ที่อยู่อีเมลดังต่อไปนี้มีให้คุณใช้งานได้:">
+<!ENTITY existing.header "มีที่อยู่ที่คุณต้องการใช้อยู่แล้วหรือไม่?">
+<!ENTITY tinyheader.title "มีที่อยู่หรือไม่?">
+<!ENTITY tinyheader.existing "ข้ามสิ่งนี้และใช้อีเมลที่มีอยู่ของฉัน">
+<!ENTITY content.close "ฉันคิดว่าฉันจะกำหนดค่าบัญชีของฉันในภายหลัง">
 <!ENTITY successful.title "ขอแสดงความยินดี!">
+<!ENTITY successful.successMessage "คุณได้ตั้งค่าบัญชีของคุณเรียบร้อยแล้ว">
+<!ENTITY successful.write "เขียนอีเมล">
+<!ENTITY successful.write.desc "แจ้งให้เพื่อนและครอบครัวของคุณทราบเกี่ยวกับที่อยู่ใหม่ของคุณ<br/>นั่นคงเป็นเหตุผลที่คุณมีบัญชีใหม่นี้ใช่ไหมล่ะ?">
+<!ENTITY successful.customize "ปรับแต่ง &brandShortName; ด้วยส่วนเสริมเจ๋ง ๆ">
 <!ENTITY successful.close "ปิดหน้าต่างนี้">
+<!ENTITY input.namePlaceholder "ชื่อ, หรือชื่อเล่นของคุณ">
 <!ENTITY input.search "ค้นหา">
 <!ENTITY search_engine.title "ปรับแต่งเครื่องมือค้นหาของคุณ">
 <!ENTITY search_engine.button "เสร็จสิ้น">
