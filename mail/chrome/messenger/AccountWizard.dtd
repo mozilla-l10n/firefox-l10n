@@ -112,7 +112,7 @@
 
 <!-- Entities for Done (Congratulations) page -->
 
-<!ENTITY completionTitle.label "ยินดีด้วย!">
+<!ENTITY completionTitle.label "ขอแสดงความยินดี!">
 <!ENTITY completionText.label "โปรดยืนยันว่าข้อมูลด้านล่างถูกต้อง">
 <!ENTITY serverTypePrefix.label "ชนิดเซิร์ฟเวอร์ขาเข้า:">
 <!ENTITY serverNamePrefix.label "ชื่อเซิร์ฟเวอร์ขาเข้า:">
