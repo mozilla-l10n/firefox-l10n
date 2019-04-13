@@ -36,14 +36,18 @@
 <!ENTITY configEditDesc.label          "การกำหนดค่าขั้นสูง">
 <!ENTITY configEdit.label              "ตัวแก้ไขการกำหนดค่า…">
 <!ENTITY configEdit.accesskey          "ว">
+<!ENTITY returnReceiptsInfo.label      "กำหนดวิธีที่ &brandShortName; จัดการการแจ้งเตือนการเปิดอ่าน">
+<!ENTITY showReturnReceipts.label      "การแจ้งเตือนการเปิดอ่าน…">
 
 <!-- Data Choices -->
 <!ENTITY telemetrySection.label          "การวัดและส่งข้อมูลทางไกล">
+<!ENTITY telemetryDesc.label             "แบ่งปันข้อมูลประสิทธิภาพ, การใช้งาน, ฮาร์ดแวร์ และการปรับแต่งเกี่ยวกับไคลเอนต์อีเมลของคุณกับ &vendorShortName; เพื่อช่วยเราทำ &brandShortName; ให้ดีขึ้น">
 <!ENTITY enableTelemetry.label           "เปิดใช้งานการวัดและส่งข้อมูลทางไกล">
 <!ENTITY enableTelemetry.accesskey       "ป">
 <!ENTITY telemetryLearnMore.label        "เรียนรู้เพิ่มเติม">
 
 <!ENTITY crashReporterSection.label      "ตัวรายงานข้อขัดข้อง">
+<!ENTITY crashReporterDesc.label         "&brandShortName; ส่งรายงานข้อขัดข้องเพื่อช่วยให้ &vendorShortName; สร้างไคลเอนต์อีเมลของคุณให้เสถียรและปลอดภัยยิ่งขึ้น">
 <!ENTITY enableCrashReporter.label       "เปิดใช้งานตัวรายงานข้อขัดข้อง">
 <!ENTITY enableCrashReporter.accesskey   "ด">
 <!ENTITY crashReporterLearnMore.label    "เรียนรู้เพิ่มเติม">
@@ -61,13 +65,23 @@
   if required by your language.
  -->
 <!ENTITY updateApp.version.pre           "รุ่น ">
+<!ENTITY updateApp.version.post          "">
+<!ENTITY updateAppAllow.description      "อนุญาตให้ &brandShortName;">
+<!ENTITY updateAuto.label                "ติดตั้งการอัปเดตโดยอัตโนมัติ (แนะนำ: ช่วยเพิ่มความปลอดภัย)">
+<!ENTITY updateCheck.label               "ตรวจสอบการอัปเดต แต่ให้ฉันเลือกว่าจะติดตั้งหรือไม่">
+<!ENTITY updateHistory.label             "แสดงประวัติการอัปเดต">
 
+<!ENTITY useService.label                "ใช้บริการเบื้องหลังเพื่อติดตั้งการอัปเดต">
 
 
 <!-- Networking and Disk Space -->
+<!ENTITY showSettings.label            "การตั้งค่า…">
+<!ENTITY proxiesConfigure.label        "กำหนดค่าวิธีที่ &brandShortName; เชื่อมต่อกับอินเทอร์เน็ต">
 <!ENTITY connectionsInfo.caption       "การเชื่อมต่อ">
 <!ENTITY offlineInfo.caption           "ออฟไลน์">
+<!ENTITY showOffline.label             "ออฟไลน์…">
 
+<!ENTITY Diskspace                       "เนื้อที่ดิสก์">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
@@ -78,3 +92,5 @@
 
 <!-- Certificates -->
 
+<!ENTITY manageCertificates.label "จัดการใบรับรอง">
+<!ENTITY viewSecurityDevices.label "อุปกรณ์ความปลอดภัย">
