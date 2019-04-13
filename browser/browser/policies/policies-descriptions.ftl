@@ -70,6 +70,7 @@ policy-RequestedLocales = Définit la liste des locales demandées par l’appli
 policy-SanitizeOnShutdown = Supprime toutes les données de navigation à la fermeture.
 policy-SearchBar = Définit l’emplacement par défaut de la barre de recherche. L’utilisateur garde la possibilité de la personnaliser.
 policy-SearchEngines = Configure les paramètres du moteur de recherche. Cette propriété n’est disponible que sur la version Extended Support Release (ESR).
+policy-SearchSuggestEnabled = Permet d’activer ou de désactiver les suggestions de recherche.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Permet d’installer des modules PKCS #11.
 policy-SSLVersionMax = Définit la version maximale de SSL à utiliser.
