@@ -240,6 +240,9 @@ about-debugging-worker-action-unregister = Désinscrire
 about-debugging-worker-status-running = Exécution
 # Displayed for service workers in runtime pages that are registered but stopped.
 about-debugging-worker-status-stopped = Arrêté
+# Displayed for service workers in runtime pages, to label the scope of a worker
+about-debugging-worker-scope =
+    .label = Portée
 # Displayed for service workers in runtime pages, to label the push service endpoint (url)
 # of a worker
 about-debugging-worker-push-service =

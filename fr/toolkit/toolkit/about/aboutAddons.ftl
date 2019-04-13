@@ -79,6 +79,9 @@ detail-version =
 detail-last-updated =
     .label = Dernière mise à jour
 detail-contributions-description = Le développeur de ce module demande que vous l’aidiez à assurer la poursuite de son développement en lui versant une petite contribution.
+detail-contributions-button = Participer
+    .title = Participer au développement de ce module complémentaire
+    .accesskey = P
 detail-update-type =
     .value = Mises à jour automatiques
 detail-update-default =
@@ -93,6 +96,12 @@ detail-update-manual =
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Exécution dans les fenêtres privées
 detail-private-browsing-description2 = Si autorisée, l’extension aura accès à vos activités en ligne pendant la navigation privée. <label data-l10n-name="detail-private-browsing-learn-more">En savoir plus</label>
+# Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
+# cannot be overriden by the user.
+detail-private-disallowed-label = Non autorisé dans les fenêtres privées
+detail-private-disallowed-description = Cette extension ne s’exécute pas en navigation privée. <label data-l10n-name="detail-private-browsing-learn-more">En savoir plus</label>
+# Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
+detail-private-required-label = Nécessite un accès aux fenêtres privées
 detail-private-required-description = Cette extension a accès à vos activités en ligne pendant la navigation privée. <label data-l10n-name="detail-private-browsing-learn-more">En savoir plus</label>
 detail-private-browsing-on =
     .label = Autoriser
