@@ -63,8 +63,8 @@ about-telemetry-upload-type =
 #   $sum (Integer): sum of histogram samples
 about-telemetry-histogram-stats = 
     { $sampleCount ->
-        [one] { $sampleCount } sample, gennemsnit = { $prettyAverage }, sum = { $sum }
-       *[other] { $sampleCount } samples, gennemsnit = { $prettyAverage }, sum = { $sum }
+        [one] { $sampleCount } prøve, gennemsnit = { $prettyAverage }, sum = { $sum }
+       *[other] { $sampleCount } prøver, gennemsnit = { $prettyAverage }, sum = { $sum }
     }
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
@@ -140,4 +140,4 @@ about-telemetry-origin-origin = origin
 about-telemetry-origin-count = antal
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
-about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link">Firefox Origin Telemetry</a> krypterer data, før det bliver sendt. Det betyder, at { $telemetryServerOwner } kan tælle ting, men ikke vide, om en given installation af { -brand-product-name } bidrog til det samlede antal (<a data-l10n-name="prio-blog-link">læs mere</a>)
+about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link">Firefox Origin Telemetry</a> koder data, før de bliver sendt. Det betyder, at { $telemetryServerOwner } kan tælle ting, men ikke vide, om en given installation af { -brand-product-name } bidrog til det samlede antal. <a data-l10n-name="prio-blog-link">Læs mere</a>
