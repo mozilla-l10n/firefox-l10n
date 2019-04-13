@@ -6,6 +6,7 @@
 
 <!ENTITY generalInfo.label                       "ข้อมูลทั่วไป">
 <!ENTITY folderCharsetFallback2.label            "รหัสอักขระตัวทางเลือก:">
+<!ENTITY folderRebuildSummaryFileTip2.label      "สร้างดัชนีไฟล์ข้อมูลสรุปใหม่">
 <!ENTITY folderRebuildSummaryFile2.label         "ซ่อมแซมโฟลเดอร์">
 
 <!ENTITY retention.label "นโยบายการเก็บข้อมูล">
@@ -35,7 +36,15 @@
 <!ENTITY folderSharingTab.label                  "การแบ่งปัน">
 <!ENTITY privileges.button.label                 "สิทธิ์…">
 <!ENTITY permissionsDesc.label                   "คุณมีสิทธิอนุญาตดังต่อไปนี้:">
+<!ENTITY folderType.label                        "ชนิดโฟลเดอร์:">
 
+<!ENTITY folderQuotaTab.label                    "โควตา">
+<!ENTITY folderQuotaUsage.label                  "การใช้งาน:">
+<!ENTITY folderQuotaStatus.label                 "สถานะ:">
 
+<!ENTITY numberOfMessages.label                  "จำนวนข้อความ:">
 <!-- LOCALIZATION NOTE: When the number of messages can't be determined, this string is displayed as the number -->
+<!ENTITY numberUnknown.label                     "ไม่ทราบ">
+<!ENTITY sizeOnDisk.label                        "ขนาดบนดิสก์:">
 <!-- LOCALIZATION NOTE: When the size can't be determined, this string is displayed as the size -->
+<!ENTITY sizeUnknown.label                       "ไม่ทราบ">

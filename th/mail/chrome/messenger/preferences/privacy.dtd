@@ -9,20 +9,30 @@
 <!ENTITY acceptRemoteContent.accesskey "อ">
 <!ENTITY remoteContentExceptions.label "ข้อยกเว้น…">
 <!ENTITY remoteContentExceptions.accesskey "ข">
+<!ENTITY acceptRemoteContentInfo.label "เรียนรู้เพิ่มเติมเกี่ยวกับปัญหาความเป็นส่วนตัวของเนื้อหาระยะไกล">
 
 <!-- Web Content -->
 <!ENTITY captionWebContent.label "เนื้อหาเว็บ">
 
+<!ENTITY keepHistory.label "จดจำเว็บไซต์และลิงก์ที่ฉันเคยเยี่ยมชม">
+<!ENTITY keepHistory.accesskey "จ">
 <!ENTITY acceptCookies.label "ยอมรับคุกกี้จากไซต์">
+<!ENTITY acceptCookies.accesskey "ย">
 <!ENTITY acceptThirdParty.pre.label "ยอมรับคุกกี้จากบุคคลที่สาม:">
+<!ENTITY acceptThirdParty.pre.accesskey "ม">
 <!ENTITY acceptThirdParty.always.label "เสมอ">
 <!ENTITY acceptThirdParty.never.label "ไม่เลย">
 <!ENTITY acceptThirdParty.visited.label "จากที่เยี่ยมชม">
 <!ENTITY keepUntil.label "เก็บจนกระทั่ง:">
+<!ENTITY keepUntil.accesskey "ก">
 <!ENTITY expire.label "คุกกี้หมดอายุ">
 <!ENTITY close.label "ฉันปิด &brandShortName;">
 <!ENTITY askEachTime.label "ถามฉันทุกครั้ง">
 <!ENTITY cookieExceptions.label "ข้อยกเว้น…">
+<!ENTITY cookieExceptions.accesskey "เ">
 <!ENTITY showCookies.label "แสดงคุกกี้…">
+<!ENTITY showCookies.accesskey "ส">
 
+<!ENTITY dntTrackingNotOkay.label2 "บอกไซต์ว่าฉันไม่ต้องการถูกติดตาม">
+<!ENTITY dntTrackingNotOkay.accesskey "บ">
 <!ENTITY doNotTrackInfo.label "เรียนรู้เพิ่มเติมเกี่ยวกับไม่ติดตาม">
