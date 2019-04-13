@@ -63,6 +63,8 @@
 <!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "แสดงรายละเอียดเหตุการณ์">
 <!ENTITY lightning.imipbar.btnMore.label                                    "เพิ่มเติม">
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "คลิกเพื่อแสดงตัวเลือกเพิ่มเติม">
+<!ENTITY lightning.imipbar.btnReconfirm2.label                              "ยืนยันใหม่">
+<!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "ส่งการยืนยันใหม่ไปยังผู้จัด">
 <!ENTITY lightning.imipbar.btnSaveCopy.label                                "บันทึกสำเนา">
 <!ENTITY lightning.imipbar.btnTentative.label                               "ไม่แน่นอน">
 <!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "ยอมรับคำเชิญเหตุการณ์อย่างไม่แน่นอน">
