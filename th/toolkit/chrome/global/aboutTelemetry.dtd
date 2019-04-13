@@ -14,13 +14,12 @@
 <!ENTITY aboutTelemetry.pageTitle "ข้อมูลการวัดและส่งข้อมูลทางไกล">
 <!ENTITY aboutTelemetry.moreInformations "กำลังมองหาข้อมูลเพิ่มเติม?">
 
-
 <!ENTITY aboutTelemetry.showInFirefoxJsonViewer "เปิดในตัวดู JSON">
 
 <!ENTITY aboutTelemetry.homeSection "หน้าแรก">
 <!ENTITY aboutTelemetry.generalDataSection "  ข้อมูลทั่วไป">
 <!ENTITY aboutTelemetry.environmentDataSection "  ข้อมูลสภาพแวดล้อม">
-<!ENTITY aboutTelemetry.sessionInfoSection "  ข้อมูลวาระ">
+<!ENTITY aboutTelemetry.sessionInfoSection "ข้อมูลวาระ">
 <!ENTITY aboutTelemetry.histogramsSection "  ฮิสโทแกรม">
 <!ENTITY aboutTelemetry.keyedHistogramsSection "  Keyed Histograms">
 <!ENTITY aboutTelemetry.eventsSection "เหตุการณ์">

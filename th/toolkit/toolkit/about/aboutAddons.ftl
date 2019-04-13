@@ -91,6 +91,9 @@ detail-update-manual =
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = เรียกใช้ในหน้าต่างส่วนตัว
 detail-private-browsing-description2 = เมื่ออนุญาตแล้ว ส่วนขยายจะสามารถเข้าถึงกิจกรรมออนไลน์ของคุณขณะท่องเว็บแบบส่วนตัวได้ <label data-l10n-name="detail-private-browsing-learn-more">เรียนรู้เพิ่มเติม</label>
+# Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
+# cannot be overriden by the user.
+detail-private-disallowed-label = ไม่อนุญาตในหน้าต่างส่วนตัว
 detail-private-browsing-on =
     .label = อนุญาต
     .tooltiptext = เปิดใช้งานในการท่องเว็บแบบส่วนตัว
