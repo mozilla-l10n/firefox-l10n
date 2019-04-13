@@ -8,6 +8,7 @@
 <!ENTITY searchSubfolders.label      "ค้นหาโฟลเดอร์ย่อย">
 <!ENTITY searchSubfolders.accesskey  "น">
 <!ENTITY searchOnServer.label        "เรียกใช้การค้นหาบนเซิร์ฟเวอร์">
+<!ENTITY searchOnServer.accesskey    "ร">
 <!ENTITY resetButton.label           "ล้าง">
 <!ENTITY resetButton.accesskey       "ล">
 <!ENTITY openButton.label            "เปิด">
@@ -39,11 +40,27 @@
 <!ENTITY threadColumn.label "หัวข้อ">
 <!ENTITY fromColumn.label "จาก">
 <!ENTITY recipientColumn.label "ผู้รับ">
+<!ENTITY correspondentColumn.label "ผู้สื่อสาร">
+<!ENTITY subjectColumn.label "หัวเรื่อง">
 <!ENTITY dateColumn.label "วันที่">
 <!ENTITY priorityColumn.label "ความสำคัญ">
 <!ENTITY tagsColumn.label "ป้ายกำกับ">
 <!ENTITY accountColumn.label "บัญชี">
 <!ENTITY statusColumn.label "สถานะ">
 <!ENTITY sizeColumn.label "ขนาด">
+<!ENTITY junkStatusColumn.label "สถานะขยะ">
+<!ENTITY unreadColumn.label "ยังไม่ได้อ่าน">
+<!ENTITY totalColumn.label "รวมทั้งหมด">
+<!ENTITY readColumn.label "อ่านแล้ว">
+<!ENTITY receivedColumn.label "วันที่ได้รับ">
+<!ENTITY starredColumn.label "ติดดาวแล้ว">
+<!ENTITY locationColumn.label "ตำแหน่งที่ตั้ง">
+<!ENTITY idColumn.label "เรียงตามวันที่ได้รับ">
 
 <!-- Thread Pane Tooltips -->
+<!ENTITY columnChooser2.tooltip "เลือกคอลัมน์ที่จะแสดง">
+<!ENTITY threadColumn2.tooltip "แสดงหัวข้อช้อความ">
+<!ENTITY fromColumn2.tooltip "เรียงตามผู้ส่ง">
+<!ENTITY recipientColumn2.tooltip "เรียงตามผู้รับ">
+<!ENTITY correspondentColumn2.tooltip "เรียงตามผู้สื่อสาร">
+<!ENTITY subjectColumn2.tooltip "เรียงตามหัวเรื่อง">
