@@ -8,6 +8,7 @@
 <!ENTITY folderCharsetFallback2.label            "รหัสอักขระตัวทางเลือก:">
 <!ENTITY folderRebuildSummaryFileTip2.label      "สร้างดัชนีไฟล์ข้อมูลสรุปใหม่">
 <!ENTITY folderRebuildSummaryFile2.label         "ซ่อมแซมโฟลเดอร์">
+<!ENTITY folderIncludeInGlobalSearch.label       "รวมข้อความในโฟลเดอร์นี้ในผลการค้นหาส่วนกลาง">
 
 <!ENTITY retention.label "นโยบายการเก็บข้อมูล">
 <!ENTITY retentionUseAccount.label  "ใช้การตั้งค่าบัญชีของฉัน">
