@@ -58,6 +58,7 @@ policy-HardwareAcceleration = Os gau, diffodd cyflymu caledwedd.
 policy-Homepage = Gosod ac o ddewis cloi'r dudalen cartref.
 policy-InstallAddonsPermission = Caniatáu i rai gwefannau i osod ychwanegion
 policy-NetworkPrediction = Galluogi neu analluoga rhagfynegiad rhwydwaith (rhagosod ymlaen DNS).
+policy-NewTabPage = Galluogi neu analluogi tudalen Tab Newydd.
 policy-NoDefaultBookmarks = Analluogi creu nodau tudalen rhagosodedig wedi eu pecynnu gyda { -brand-short-name }, a'r Nodau Tudalen Clyfar (Ymwelwyd Amlaf, Tagiau Diweddar). Sylw: mae'r polisi hwn ddim ond yn effeithiol os yw'n cael ei ddefnyddio cyn rhedeg y proffil y tro cyntaf.
 policy-OfferToSaveLogins = Gorfodi'r gosodiad i ganiatáu i { -brand-short-name } gynnig cofio mewngofnodion a chyfrineiriau wedi eu cadw. Mae gwerthoedd gwir a gau'n cael eu derbyn.
 policy-OverrideFirstRunPage = Diystyru y dudalen rhediad gyntaf. Gosod y polisi hwn i gwag os ydych am analluogi'r dudalen rhediad cyntaf.
@@ -70,6 +71,7 @@ policy-RequestedLocales = Gosodwch y rhestr o locales gofynnol ar gyfer y rhagle
 policy-SanitizeOnShutdown = Clirio'r holl ddata llywio wrth adael
 policy-SearchBar = Gosod y lleoliad ragosodedig y bar chwilio. Mae'r defnyddiwr dal yn cael ei gyfaddasu.
 policy-SearchEngines = Ffurfweddu gosodiadau peiriannau chwilio. Dim ond yn y fersiwn Extended Support Release (ESR) ma'r polisi hwn ar gael.
+policy-SearchSuggestEnabled = Galluogi neu analluogi awgrymiadau chwilio.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Gosod modiwlau PKCS #11.
 policy-SSLVersionMax = Gosodwch y fersiwn SSL uchaf.
