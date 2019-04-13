@@ -27,7 +27,7 @@ footer-message = Cerca tu plus que justo Utensiles de disveloppamento? Controla 
 footer-learn-more-link = Saper plus
 features-learn-more = Saper plus
 features-inspector-title = Inspector
-features-inspector-desc = Inspice e optimisa le codification pro producer dispositiones de pagina perfecte al pixel. <a data-l10n-name="learn-more">{ features-learn-more }</a>
+features-inspector-desc = Inspecta e optimisa le codice pro construer dispositiones de pagina perfecte al pixel. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-console-title = Consola
 features-console-desc = Attrappa errores in le CSS, de JavaScript, de securitate e in rete. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-debugger-title = Depurator
