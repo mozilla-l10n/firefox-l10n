@@ -145,12 +145,16 @@ Personal Security Manager.</li>
 ">
 
 <!ENTITY certerror.longpagetitle1 "Vaše připojení není zabezpečené">
+
 <!ENTITY certerror.longpagetitle2 "Varování: možné bezpečnostní riziko">
 <!ENTITY certerror.sts.longpagetitle  "Nepřipojeno: Možný bezpečnostní problém">
 <!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Majitel serveru <span class='hostname'/> nakonfiguroval své webové stránky nesprávně. Abychom chránili vaše informace před odcizením, &brandShortName; se k této webové stránce nepřipojil.">
+<!-- Localization note (certerror.introPara2) - The text content of the span tag
+will be replaced at runtime with the name of the server to which the user
+was trying to connect. -->
 <!ENTITY certerror.introPara2 "Aplikace &brandShortName; zjistila možné ohrožení bezpečnosti a stránku na serveru <span class='hostname'/> nenačetla. Pokud se přesto rozhodnete stránku navštívit, útočníci se mohou pokusit zcizit vaše údaje jako např. hesla, e-mailové adresy nebo údaje o platební kartě.">
 <!ENTITY certerror.sts.introPara "Aplikace &brandShortName; zjistila možné ohrožení bezpečnosti a stránku na serveru <span class='hostname'/> nenačetla, protože tato stránka vyžaduje zabezpečené spojení.">
 
@@ -193,6 +197,7 @@ za chvíli.</li>
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Přidat výjimku…">
+
 <!ENTITY securityOverride.exceptionButton1Label "Beru na vědomí a chci pokračovat">
 
 <!ENTITY errorReporting.automatic2 "Hlásit chyby jako je tato a pomoci tak organizaci Mozilla identifikovat a blokovat škodlivé stránky">
@@ -213,6 +218,7 @@ za chvíli.</li>
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; se nemůže připojit k adrese <span id='wrongSystemTimeWithoutReference_URL'/>, protože čas na vašem počítači je zřejmě špatně nastavený a tak brání bezpečnému spojení.</p> <p>Čas na vašem počítači je nastaven na <span id='wrongSystemTimeWithoutReference_systemDate'/>. Opravte prosím nastavení data a času na vašem počítači.</p>">
 
 <!ENTITY certerror.pagetitle1  "Nezabezpečené spojení">
+
 <!ENTITY certerror.pagetitle2  "Varování: možné bezpečnostní riziko">
 <!ENTITY certerror.sts.pagetitle  "Nepřipojeno: Možný bezpečnostní problém">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Tento server používá HTTP
@@ -235,8 +241,8 @@ pouze zabezpečeně. Z tohoto důvodu není možné přidat pro tento certifiká
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "Pokud <span class='mitm-name'/> neznáte, může jít i o útok a neměli byste pokračovat v pokusech o připojení k této stránce.">
 <!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "Pokud <span class='mitm-name'/> neznáte, může jít i o útok a bohužel nelze udělat nic, abyste se k této stránce mohli bezpečně připojit.">
 
-<!ENTITY clockSkewError.title "Datum a čas ve vašem počítači nejsou správně">
-<!ENTITY clockSkewError.longDesc "Čas ve vašem počítači je nastaven na <span id='wrongSystemTime_systemDate1'/>, což brání aplikaci &brandShortName; v bezpečném spojení. Abyste mohli stránku <span class='hostname'></span> načíst, zkontrolujte nastavení data, času a časové zóny v systémovém nastavení vašeho počítače a stránku <span class='hostname'></span> obnovte.">
+<!ENTITY clockSkewError.title "Hodiny ve vašem počítači jsou špatně nastavené">
+<!ENTITY clockSkewError.longDesc "Čas ve vašem počítači je nesprávně nastaven na <span id='wrongSystemTime_systemDate1'/>, což brání aplikaci &brandShortName; v navázání zabezpečeného spojení. Abyste mohli stránku na serveru <span class='hostname'></span> navštívit, nastavte v systémových hodinách správné datum, čas a časové pásmo a obnovte tuto stránku.">
 
 <!ENTITY prefReset.longDesc "Zdá se, že příčinou může být vaše nastavení zabezpečení. Chcete obnovit výchozí nastavení?">
 <!ENTITY prefReset.label "Obnovit výchozí nastavení">
