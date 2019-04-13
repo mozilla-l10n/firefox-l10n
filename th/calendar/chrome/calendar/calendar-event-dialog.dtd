@@ -420,3 +420,4 @@
 <!ENTITY summary.dialog.decline.tooltiptext     "ปฏิเสธคำเชิญ">
 <!ENTITY summary.dialog.dontsend.label          "ไม่ส่งการตอบสนอง">
 <!ENTITY summary.dialog.send.label              "ส่งการตอบสนองตอนนี้">
+<!ENTITY summary.dialog.send.tooltiptext        "ส่งการตอบสนองไปยังผู้จัดแล้วปิดหน้าต่าง">
