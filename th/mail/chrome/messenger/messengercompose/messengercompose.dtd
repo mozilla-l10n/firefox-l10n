@@ -180,6 +180,8 @@
 <!ENTITY printButton.label "พิมพ์">
 
 <!-- Mail Toolbar Tooltips -->
+<!ENTITY sendButton.tooltip "ส่งข้อความนี้ตอนนี้">
+<!ENTITY sendlaterButton.tooltip "ส่งข้อความนี้ในภายหลัง">
 <!ENTITY attachButton.tooltip2 "เพิ่มไฟล์แนบ">
 <!ENTITY saveButton.tooltip "บันทึกข้อความนี้">
 <!ENTITY cutButton.tooltip              "ตัด">
