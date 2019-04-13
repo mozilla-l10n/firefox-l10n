@@ -58,6 +58,7 @@ policy-HardwareAcceleration = Ak je nastavená hodnota false, vypne hardvérové
 policy-Homepage = Nastaví a v prípade potreby uzamkne domovskú stránku.
 policy-InstallAddonsPermission = Povolí určitým webovým stránkam inštalovať doplnky.
 policy-NetworkPrediction = Povolí alebo zakáže prednačítavanie DNS (prefetching).
+policy-NewTabPage = Povolí alebo zakáže stránku novej karty.
 policy-NoDefaultBookmarks = Vypne vytváranie predvolených záložiek a chytrých záložiek aplikácie { -brand-short-name } (Najnavštevovanejšie, Naposledy použité značky). Poznámka: toto pravidlo možno efektívne využiť len vtedy, ak bude nastavené pred prvým spustením.
 policy-OfferToSaveLogins = Nastaví pravidlo na uloženie prihlasovacích údajov v aplikácii { -brand-short-name }. Je možné použiť hodnoty true aj false.
 policy-OverrideFirstRunPage = Nastaví vlastnú stránku pri prvom spustení. Ak nechcete pri prvom spustení zobrazovať žiadnu stránku, nastavte toto pravidlo ako prázdne.
@@ -70,6 +71,7 @@ policy-RequestedLocales = Nastaví zoznam požadovaných jazykov aplikácie, v p
 policy-SanitizeOnShutdown = Vymaže všetky údaje o prehliadaní v priebehu vypnutia.
 policy-SearchBar = Nastaví predvolené umiestnenie vyhľadávacieho poľa. Používateľ ho môže premiestniť.
 policy-SearchEngines = Nakonfiguruje nastavenie vyhľadávacích modulov. Toto pravidlo je dostupné len vo verzii s rozšírenou podporou (ESR).
+policy-SearchSuggestEnabled = Povolí alebo zakáže návrhy vyhľadávania.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Nainštaluje moduly PKCS #11.
 policy-SSLVersionMax = Nastaví maximálnu verziu SSL.
