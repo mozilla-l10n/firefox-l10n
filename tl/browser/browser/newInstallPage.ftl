@@ -8,6 +8,7 @@
 ### given Firefox channel". These terms are not synonymous.
 
 title = Mahalagang Balita
+options-title = Ano ang pagpipilian?
 sync-label = Ilagay ang iyong email
 sync-input =
     .placeholder = Email

@@ -596,9 +596,17 @@ addressbar-suggestions-settings = Baguhin ang mga kagustuhan para sa mga suhesti
 ## Privacy Section - Content Blocking
 
 content-blocking-learn-more = Alamin pa
+# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+content-blocking-setting-standard =
+    .label = Standard
+    .accesskey = d
 content-blocking-setting-strict =
     .label = Istrikto
     .accesskey = I
+content-blocking-setting-custom =
+    .label = Custom
+    .accesskey = C
 content-blocking-strict-desc = Blocks all trackers { -brand-short-name } detects. May cause some sites to break.
 content-blocking-cookies-label =
     .label = Mga Cookie
