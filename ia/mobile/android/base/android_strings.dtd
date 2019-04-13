@@ -482,7 +482,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY share_image_failed "Incapace a compartir iste imagine">
 <!ENTITY save_as_pdf "Salvar como PDF">
 <!ENTITY print "Imprimer">
-<!ENTITY view_page_source "Vider le codification fonte del pagina">
+<!ENTITY view_page_source "Vider le codice fonte del pagina">
 <!ENTITY find_in_page "Trovar in le pagina">
 <!ENTITY desktop_mode "Requestar le version scriptorio del sito">
 <!ENTITY page "Pagina">
