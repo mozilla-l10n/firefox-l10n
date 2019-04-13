@@ -104,7 +104,7 @@ policy-InstallAddonsPermission = Tillad bestemte websteder at installere tilføj
 
 policy-NetworkPrediction = Slå network prediction (DNS prefetching) til eller fra.
 
-policy-NewTabPage = Slå siden Nyt faneblade til eller fra.
+policy-NewTabPage = Slå siden Nyt faneblad til eller fra.
 
 policy-NoDefaultBookmarks = Deaktiver oprettelse af standard-bogmærker, der følger med { -brand-short-name }, samt de smarte bogmærker (Mest besøgte, Seneste mærkater). NB: Denne politik virker kun, hvis den aktiveres før profilen anvendes første gang.
 
