@@ -32,6 +32,7 @@
 <!ENTITY DisplayName.label              "การแสดงผล:">
 <!ENTITY DisplayName.accesskey          "ก">
 <!ENTITY preferDisplayName.label        "แสดงชื่อเหนือส่วนหัวของข้อความเสมอ">
+<!ENTITY preferDisplayName.accesskey    "ส">
 <!ENTITY NickName.label                 "ชื่อเล่น:">
 <!ENTITY NickName.accesskey             "อ">
 
@@ -40,6 +41,7 @@
 <!ENTITY SecondEmail.label              "อีเมลเพิ่มเติม:">
 <!ENTITY SecondEmail.accesskey          "ล">
 <!ENTITY PreferMailFormat.label         "ต้องการที่จะรับข้อความในรูปแบบ:">
+<!ENTITY PreferMailFormat.accesskey     "ต">
 <!ENTITY PlainText.label                "ข้อความธรรมดา">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "ไม่ทราบ">
