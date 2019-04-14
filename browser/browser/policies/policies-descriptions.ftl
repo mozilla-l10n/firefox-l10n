@@ -58,6 +58,7 @@ policy-HardwareAcceleration = Si faux, désactive l’accélération matérielle
 policy-Homepage = Définit la page d’accueil et propose de la verrouiller.
 policy-InstallAddonsPermission = Autorise certains sites web à installer des extensions.
 policy-NetworkPrediction = Permet ou interdit la prédiction réseau (prélecture DNS).
+policy-NewTabPage = Active ou désactive la page de nouvel onglet
 policy-NoDefaultBookmarks = Désactive la création des marque-pages par défaut fournis avec { -brand-short-name } ainsi que les marque-pages intelligents (sites les plus visités, sites récents). Note : cette politique ne fonctionne que si elle est activée avant le premier lancement du profil.
 policy-OfferToSaveLogins = Applique les paramètres qui permettent à { -brand-short-name } de se souvenir des identifiants et des mots de passe enregistrés. Les valeurs true et false sont toutes deux acceptées.
 policy-OverrideFirstRunPage = Contrôle la page de premier démarrage. Laissez cette règle vide pour désactiver la page de premier démarrage.
