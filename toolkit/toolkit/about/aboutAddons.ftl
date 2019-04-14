@@ -257,3 +257,5 @@ enable-addon-button = Aktifkan
 expand-addon-button = Opsi Lainnya
 addons-enabled-heading = Diaktifkan
 addons-disabled-heading = Dinonaktifkan
+addon-detail-version-label = Versi
+addon-detail-homepage-label = Beranda
