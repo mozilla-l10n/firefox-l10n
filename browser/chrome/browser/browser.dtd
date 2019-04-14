@@ -1171,7 +1171,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addonPostInstall.incognito.checkbox.accesskey "A">
 
 <!ENTITY addonPrivateBrowsing.header2.label "Changement pour les extensions en fenêtres de navigation privée.">
-<!ENTITY addonPrivateBrowsing.body2.label "Les nouvelles extensions que vous ajouterez à &brandShorterName; ne fonctionneront pas dans des fenêtres de navigation privée à moins d’autoriser explicitement leur exécution dans les paramètres.">
+<!ENTITY addonPrivateBrowsing.body2.label "Les nouvelles extensions que vous ajouterez à &brandShorterName; ne fonctionneront pas dans les fenêtres de navigation privée à moins d’autoriser explicitement leur exécution dans les paramètres.">
 <!ENTITY addonPrivateBrowsing.learnMore.label "Apprenez comment gérer les paramètres des extensions.">
 <!ENTITY addonPrivateBrowsing.okButton.label "J’ai compris">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "a">
