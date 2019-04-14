@@ -28,3 +28,14 @@ onboarding-ghostery-text = Dèan brabhsadh nas luaithe, nas tapaidhe no nas sàb
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Sioncronaich
 onboarding-fxa-text = Clàraich airson { -fxaccount-brand-name } agus sioncronaich na comharran-lìn, faclan-faire is tabaichean fosgailte o àite sam bith far an cleachd thu { -brand-short-name }.
+
+## Message strings belonging to the Return to AMO flow
+
+return-to-amo-sub-header = Glan taghta, tha { -brand-short-name } agad
+# <icon></icon> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-header = Faigheamaid <icon></icon><b>{ $addon-name }</b> dhut a-nis.
+return-to-amo-extension-button = Cuir an leudachan ris
+return-to-amo-get-started-button = Dèan toiseach-tòiseachaidh le { -brand-short-name }

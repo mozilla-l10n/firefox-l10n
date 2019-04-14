@@ -3,12 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 cfr-doorhanger-extension-heading = Leudachan a mholamaid
+cfr-doorhanger-pintab-heading = Feuch seo: Prìnich an taba
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Carson a tha mi a’ faicinn seo?
 cfr-doorhanger-extension-cancel-button = Chan ann an-dràsta
     .accesskey = d
 cfr-doorhanger-extension-ok-button = Cuir ris an-dràsta
     .accesskey = C
+cfr-doorhanger-pintab-ok-button = Prìnich an taba seo
+    .accesskey = P
 cfr-doorhanger-extension-manage-settings-button = Stiùirich roghainnean nam molaidhean
     .accesskey = m
 cfr-doorhanger-extension-never-show-recommendation = Na seall am moladh seo dhomh
@@ -45,3 +48,12 @@ cfr-doorhanger-extension-total-users =
         [few] { $total } cleachdaichean
        *[other] { $total } cleachdaiche
     }
+cfr-doorhanger-pintab-description = Faigh cothrom luath air na làraichean a chleachdas tu gu tric. Cùm làraichean fosgailte ’nan tabaichean (fiù ma nì thu ath-thòiseachadh).
+
+## These messages are steps on how to use the feature and are shown together.
+
+cfr-doorhanger-pintab-step1 = <b>Dèan briogadh deas</b> air an taba a tha thu airson prìneachadh.
+cfr-doorhanger-pintab-step2 = Tagh <b>Prìnich an taba</b> on chlàr-taice.
+cfr-doorhanger-pintab-step3 = Ma thig ùrachadh air an làrach, chì thu dotag ghorm air an taba phrìnichte agad.
+cfr-doorhanger-pintab-animation-pause = Cuir ’na stad
+cfr-doorhanger-pintab-animation-resume = Lean air
