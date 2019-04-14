@@ -97,8 +97,10 @@ detail-private-browsing-description2 = Viss du tillèt det, vil utvidinga ha til
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overriden by the user.
 detail-private-disallowed-label = Ikkje tillate i private vindauge
+detail-private-disallowed-description = Denne utvidinga fungerer ikkje med privat surfning. <label data-l10n-name="detail-private-browsing-learn-more">Les meir</label>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Krev tilgang til private vindauge
+detail-private-required-description = Denne udvidinga har tilgang til aktiviteten din på nettet når du brukar privat nettlesing.<label data-l10n-name="detail-private-browsing-learn-more">Les meir</label>
 detail-private-browsing-on =
     .label = Tillat
     .tooltiptext = Tillat i privat nettlesing
