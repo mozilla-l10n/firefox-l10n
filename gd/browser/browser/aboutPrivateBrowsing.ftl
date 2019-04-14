@@ -25,3 +25,4 @@ about-private-browsing =
 about-private-browsing-not-private = Chan eil thu ann an uinneag phrìobhaideach an-dràsta fhèin.
 content-blocking-title = Bacadh susbaint
 content-blocking-description = Cleachdaidh cuid a làraichean-lìn tracaichean a chumas sùil air do ghnìomhachd air feadh an eadar-lìn. Ann an uinneagan prìobhaideach, bacaidh an gleus bacadh susbaint aig { -brand-short-name } tracaichean gu fèin-obrachail a chruinnicheas fiosrachadh mun bhrabhsadh a nì thu.
+about-private-browsing-info-description = Falamhaichidh { -brand-short-name } eachdraidh nan lorg is a’ bhrabhsaidh agad nuair a dh’fhàgas tu an aplacaid no nuair a dhùineas tu gach taba agus uinneag ann am brabhsadh prìobhaideach. Fhad ’s nach cuir seo am falach cò thusa mu choinneamh làraichean-lìn no solaraiche nan seirbheisean-lìn agad, cumaidh e na nì thu air loidhne am falach o dhaoine eile a chleachdas an coimpiutair seo.
