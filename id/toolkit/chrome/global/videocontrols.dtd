@@ -10,7 +10,6 @@
 <!ENTITY fullscreenButton.exitfullscreenlabel "Keluar dari Layar Penuh">
 <!ENTITY castingButton.castingLabel "Proyeksikan ke Layar">
 <!ENTITY closedCaption.off "Mati">
-
 <!-- LOCALIZATION NOTE (volumeScrubber.label): This label is exposed to
      accessibility software to clarify what the slider is for. -->
 <!ENTITY volumeScrubber.label "Pengatur volume">
@@ -34,6 +33,8 @@
 <!ENTITY error.srcNotSupported "Format atau jenis MIME video tidak dudukung.">
 <!ENTITY error.noSource2 "Tidak ditemukan video dalam format atau jenis MIME yang didukung.">
 <!ENTITY error.generic "Pemutaran video dibatalkan karena galat tidak dikenal.">
+
+<!ENTITY status.pictureInPicture "Video ini diputar dalam mode Gambar-dalam-Gambar.">
 
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
