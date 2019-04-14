@@ -56,6 +56,16 @@ about-telemetry-upload-type =
         [enabled] habilitada
        *[disabled] deshabilitada
     }
+# Example Output: 1 sample, average = 0, sum = 0
+# Variables:
+#   $sampleCount (Integer): amount of histogram samples
+#   $prettyAverage (Integer): average of histogram samples
+#   $sum (Integer): sum of histogram samples
+about-telemetry-histogram-stats =
+    { $sampleCount ->
+        [one] { $sampleCount } muestra, media = { $prettyAverage }, suma = { $sum }
+       *[other] { $sampleCount } muestras, media = { $prettyAverage }, suma = { $sum }
+    }
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = Esta página muestra la información de rendimiento, hardware, uso y personalizaciones recopilada por Telemetry. Esta información se envía a { $telemetryServerOwner } para ayudar a mejorar { -brand-full-name }.
@@ -125,3 +135,6 @@ about-telemetry-category-header = categoría
 about-telemetry-method-header = método
 about-telemetry-object-header = objeto
 about-telemetry-extra-header = extra
+about-telemetry-origin-section = Telemetry de origen
+about-telemetry-origin-origin = origen
+about-telemetry-origin-count = número
