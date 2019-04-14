@@ -58,6 +58,7 @@ policy-HardwareAcceleration = Jei „false“, išjungti aparatinį spartinimą.
 policy-Homepage = Nustatyti ir papildomai užrakinti pradžios tinklalapį.
 policy-InstallAddonsPermission = Leisti kai kurioms svetainėms diegti priedus.
 policy-NetworkPrediction = Įjungti arba išjungti tinklo nuspėjimą (parengtinis DNS įkėlimas).
+policy-NewTabPage = Įjungti arba išjungti naujos kortelės puslapį.
 policy-NoDefaultBookmarks = Išjungti numatytųjų adresyno įrašų, kurie ateina su „{ -brand-short-name }“, kūrimą, bei išmanųjį adresyną („Lankomiausi“, „Paskiausiai naudotos gairės“). Pastaba: šis nuostatas veikia tik jeigu yra panaudojamas prieš pirmąjį profilio paleidimą.
 policy-OfferToSaveLogins = Taikyti nuostatą, skirtą leisti „{ -brand-short-name }“ siūlyti įsiminti įrašytus prisijungimus ir slaptažodžius. Priimamos „true“ ir „false“ reikšmės.
 policy-OverrideFirstRunPage = Pakeisti pirmo paleidimo puslapį. Padarykite šią strategiją „blank“, norėdami išjungti pirmojo paleidimo puslapį.
@@ -70,6 +71,7 @@ policy-RequestedLocales = Nustatyti programos prašomų kalbų sąrašo pageidav
 policy-SanitizeOnShutdown = Išvalyti visus naršymo duomenis išjungiant.
 policy-SearchBar = Parinkti numatytąją paieškos lauko vietą. Naudotojui vis tiek leidžiama ją keisti.
 policy-SearchEngines = Konfigūruoti ieškyklių nuostatas. Ši strategija galima tik prailginto palaikymo laidos (ESR) versijoje.
+policy-SearchSuggestEnabled = Įjungti arba išjungti paieškos žodžių siūlymus.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Diegti PKCS #11 modulius.
 policy-SSLVersionMax = Nustatyti didžiausią SSL versiją.
