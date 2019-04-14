@@ -34,8 +34,8 @@
 <!ENTITY customPrompt.title   "사용자 지정 크기">
 <!ENTITY simplifyPage.label   "페이지 간소화">
 <!ENTITY simplifyPage.accesskey "i">
-<!ENTITY simplifyPage.enabled.tooltip  "쉽게 읽을 수 있다록 레이아웃 변경">
-<!ENTITY simplifyPage.disabled.tooltip "이 페이지는 자동으로 간소화될 수 없음">
+<!ENTITY simplifyPage.enabled.tooltip  "읽기 쉽게 레이아웃 변경">
+<!ENTITY simplifyPage.disabled.tooltip "이 페이지는 자동으로 단순화 될 수 없습니다">
 
 <!ENTITY homearrow.tooltip    "첫 페이지">
 <!ENTITY endarrow.tooltip     "마지막 페이지">
