@@ -158,6 +158,18 @@ about-debugging-runtime-profile-button = Profilowy běžny cas
 # target runtime is incompatible with service workers. "Learn more" points to MDN.
 # https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
 about-debugging-runtime-service-workers-not-compatible = Konfiguracija wašogo wobglědowaka njejo kompatibelna ze service workers. <a>Dalšne informacije</a>
+# This string is displayed in the runtime page if the remote browser version is too old.
+# "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/WebIDE/Troubleshooting
+# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
+# { $minVersion } is the minimum version that is compatible with the current Firefox instance (same format)
+about-debugging-browser-version-too-old = Zwězany wobglědowak ma staru wersiju ({ $runtimeVersion }). Pódpěrana minimalna wersija jo ({ $minVersion }). To jo njepódpěrana konfiguracija a móžo zawinowaś, až wuwijarske rědy njefunkcioněruju. Pšosym aktualizěrujśo zwězany wobglědowak. <a>Rozwězanje problemow</a>
+# Dedicated message for a backward compatibility issue that occurs when connecting:
+# - from Fx 67 to 66 or to 65
+# - from Fx 68 to 66
+# Those are normally in range for DevTools compatibility policy, but specific non
+# backward compatible changes broke the debugger in those scenarios (Bug 1528219).
+# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
+about-debugging-browser-version-too-old-67-debugger = Pólo pytanja zmólkow snaź ze zwězanym wobglědowakom njefunkcioněrujo. Pšosym wužywajśo Firefox { $runtimeVersion }, jolic musyśo pytanje zmólkow z toś tym wobglědowakom wužywaś.
 # Displayed for runtime info in runtime pages.
 # { $name } is brand name such as "Firefox Nightly"
 # { $version } is version such as "64.0a1"
@@ -165,6 +177,14 @@ about-debugging-runtime-name = { $name } ({ $version })
 # Text of a button displayed in Runtime pages for remote runtimes.
 # Clicking on the button will close the connection to the runtime.
 about-debugging-runtime-disconnect-button = Zwisk źěliś
+# Text of the connection prompt button displayed in Runtime pages, when the preference
+# "devtools.debugger.prompt-connection" is false on the target runtime.
+about-debugging-connection-prompt-enable-button = Zwiskowe napominanje zmóžniś
+# Text of the connection prompt button displayed in Runtime pages, when the preference
+# "devtools.debugger.prompt-connection" is true on the target runtime.
+about-debugging-connection-prompt-disable-button = Zwiskowe napominanje znjemóžniś
+# Title of a modal dialog displayed on remote runtime pages after clicking on the Profile Runtime button.
+about-debugging-profiler-dialog-title = Wugbaśowy profilěrowak
 # Label of a checkbox displayed in the runtime page for "This Firefox".
 # This checkbox will toggle preferences that enable local addon debugging.
 # The "Learn more" link points to MDN.
