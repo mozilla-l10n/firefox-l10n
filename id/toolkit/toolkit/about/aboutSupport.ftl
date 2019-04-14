@@ -24,6 +24,7 @@ features-title = Fitur { -brand-short-name }
 features-name = Nama
 features-version = Versi
 features-id = ID
+processes-type = Tipe
 app-basics-title = Informasi Dasar Aplikasi
 app-basics-name = Nama
 app-basics-version = Versi
