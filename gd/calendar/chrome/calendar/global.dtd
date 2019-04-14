@@ -4,10 +4,10 @@
 
 <!ENTITY time.midnight "Meadhan-oidhche" >
 <!ENTITY time.noon "Meadhan-latha" >
+
 <!-- Day Names -->
 <!-- LOCALIZATION NOTE : Accesskeys for day.1.Ddd to day.7.Ddd are currently
      only used in Preferences > Views > Workweek groupbox -->
-
 <!ENTITY day.1.Ddd "DiD" >
 <!ENTITY day.1.Ddd.accesskey "D">
 <!ENTITY day.2.Ddd "DiL" >
@@ -46,6 +46,8 @@
 
 <!ENTITY onemonthbackward.tooltip "Mìos air ais" >
 <!ENTITY onemonthforward.tooltip "Mìos air adhart" >
+<!ENTITY oneyearbackward.tooltip "Bliadhna air ais" >
+<!ENTITY oneyearforward.tooltip "Bliadhna air adhart" >
 <!ENTITY showToday.tooltip "Rach gun latha an-diugh">
 <!ENTITY onedayforward.tooltip "Latha air adhart">
 <!ENTITY onedaybackward.tooltip "Latha air ais">
