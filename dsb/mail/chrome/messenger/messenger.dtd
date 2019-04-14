@@ -606,6 +606,8 @@
 <!ENTITY compactButton.tooltip "Wulašowane powěsći z wubranego zarědnika wótpóraś">
 <!ENTITY appmenuButton1.tooltip "Meni &brandShortName; zwobrazniś">
 
+<!ENTITY addonsButton.tooltip "Zastojśo swóje dodanki">
+
 <!-- Toolbar Button Popup -->
 <!ENTITY buttonMenuForwardAsInline.label "Zasajźonu dalej pósrědnis">
 <!ENTITY buttonMenuForwardAsAttachment.label "Ako pśidank dalej pósrědniś">
@@ -813,12 +815,6 @@
 <!ENTITY contextPrintPreview.label "Śišćarski pśeglěd">
 <!ENTITY contextPrintPreview.accesskey "e">
 
-<!-- Thread Pane Column Picker -->
-<!-- LOCALIZATION NOTE (columnPicker.resetToInbox.label):
-     This option in the thread pane column picker causes us to reset the
-     customizations for the thread pane columns in this folder to their default.
-  -->
-<!ENTITY columnPicker.resetToInbox.label "Słupy na standard slědk stajiś">
 <!-- LOCALIZATION NOTE (columnPicker.applyTo.label):
      This option in the thread pane column picker pops up a sub-menu containing
      the "columnPicker.applyToFolder.label" and
@@ -858,7 +854,6 @@
      "File here" option for the move to/copy to widget.
   -->
 <!ENTITY columnPicker.thisFolder.label "Toś ten zarědnik">
-
 
 <!-- Media (video/audio) controls -->
 <!ENTITY contextPlay.label "Wótgraś">
