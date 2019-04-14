@@ -58,6 +58,7 @@ policy-HardwareAcceleration = Jeli njewěrno, hardwarowe pospěšenje znjemóžn
 policy-Homepage = Startowu stronu nastajić a na přeće zawrěć.
 policy-InstallAddonsPermission = Wěstym websydłam dowolić, přidatki instalować.
 policy-NetworkPrediction = Syćowe předzačitanje (DNS-předzačitanje) zmóžnić abo znjemóžnić.
+policy-NewTabPage = Stronu noweho rajtarka zmóžnić abo znjemóžnić.
 policy-NoDefaultBookmarks = Wutworjenje standardnych zapołožkow { -brand-short-name } znjemóžnić, a inteligentnych zapołožkow (najhusćišo wopytane, tuchwilne znački). Kedźbu: Tute prawidło so jenož wuskutkuje, hdyž jo před prěnim startom profila wužiwaće.
 policy-OfferToSaveLogins = Nastajenje wunuzować, kotrež { -brand-short-name } zmóžnja, sej składowane přizjewjenja a hesła spomjatkować. True kaž tež false so akceptujetej.
 policy-OverrideFirstRunPage = Stronu přepisać, kotraž so při prěnim starće jewi. Stajće tute prawidło na prózdne, jeli chceće tutu stronu znjemóžnić.
@@ -70,6 +71,7 @@ policy-RequestedLocales = Podajće lisćinu požadanych rěčow za nałoženje w
 policy-SanitizeOnShutdown = Nawigaciske daty při skónčenju zhašeć.
 policy-SearchBar = Standardne městno pytanskeho pola nastajić. Wužiwar móže jo hišće přiměrić.
 policy-SearchEngines = Nastajenja pytawow konfigurować. Tute prawidło je jenož za wersiju Extended Support Release (ESR) k dispoziciji.
+policy-SearchSuggestEnabled = Pytanske namjety zmóžnić abo znjemóžnić.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Module PKCS #11 instalować.
 policy-SSLVersionMax = Nastajće maksimalnu SSL-wersiju.
