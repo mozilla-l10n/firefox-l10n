@@ -77,6 +77,9 @@ detail-version =
 detail-last-updated =
     .label = Paskiausiai atnaujintas
 detail-contributions-description = Šio priedo autorius prašo paremti tolesnį jo kūrimą nedideliu finansiniu įnašu.
+detail-contributions-button = Prisidėkite
+    .title = Prisidėkite prie šio priedo plėtojimo
+    .accesskey = P
 detail-update-type =
     .value = Naujinti automatiškai
 detail-update-default =
@@ -270,3 +273,21 @@ enable-addon-button = Įjungti
 expand-addon-button = Daugiau veiksmų
 addons-enabled-heading = Įjungta
 addons-disabled-heading = Išjungta
+addon-detail-author-label = Autorius
+addon-detail-version-label = Laida
+addon-detail-last-updated-label = Paskiausiai atnaujintas
+addon-detail-homepage-label = Svetainė
+addon-detail-rating-label = Įvertinimas
+# This string is used to show that an add-on is disabled.
+# Variables:
+#   $name (string) - The name of the add-on
+addon-name-disabled = { $name } (išjungtas)
+# The number of reviews that an add-on has received on AMO.
+# Variables:
+#   $numberOfReviews (number) - The number of reviews received
+addon-detail-reviews-link =
+    { $numberOfReviews ->
+        [one] { $numberOfReviews } atsiliepimas
+        [few] { $numberOfReviews } atsiliepimai
+       *[other] { $numberOfReviews } atsiliepimų
+    }
