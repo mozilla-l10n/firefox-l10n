@@ -26,6 +26,7 @@ features-version = Versjon
 features-id = ID
 processes-title = Fjernprosessar
 processes-type = Type
+processes-count = Mengde
 app-basics-title = Programinfo
 app-basics-name = Namn
 app-basics-version = Versjon
