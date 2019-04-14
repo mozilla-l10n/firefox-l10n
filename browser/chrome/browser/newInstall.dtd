@@ -12,4 +12,4 @@
 <!ENTITY sync "მონაცემების დასინქრონებისთვის, რომლებიც შენახულია Firefox-ის ამ დაყენებულ ვერსიაში &brandShortName;, შედით თქვენს &syncBrand.fxAccount.label;-ანგარიშზე.">
 <!ENTITY continue-button "გაგრძელება">
 
-<!ENTITY mainText "ამ დაყენებულ ვერსიას &brandShortName; გააჩნია ახალი პროფილი. იგი არ იზიარებს სანიშნებს, პაროლებსა და მომხმარებლის სხვა პარამეტრებს Firefox-ის დანარჩენ დაყენებულ ვერსიებთან (როგორიცაა Firefox, Firefox ESR, Firefox Beta, Firefox Developer Edition და Firefox Nightly) ამ კომპიუტერზე.">
+<!ENTITY mainText "ეს &brandShortName; ახალი პროფილითაა. იგი არ იზიარებს სანიშნებს, პაროლებსა და მომხმარებლის სხვა პარამეტრებს Firefox-ის დანარჩენ დაყენებულ ვერსიებთან (როგორიცაა Firefox, Firefox ESR, Firefox Beta, Firefox Developer Edition და Firefox Nightly) ამ კომპიუტერზე.">
