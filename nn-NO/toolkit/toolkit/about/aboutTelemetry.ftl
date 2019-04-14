@@ -56,6 +56,16 @@ about-telemetry-upload-type =
         [enabled] slått på
        *[disabled] slått av
     }
+# Example Output: 1 sample, average = 0, sum = 0
+# Variables:
+#   $sampleCount (Integer): amount of histogram samples
+#   $prettyAverage (Integer): average of histogram samples
+#   $sum (Integer): sum of histogram samples
+about-telemetry-histogram-stats =
+    { $sampleCount ->
+        [one] { $sampleCount } utval, gjennomsnitt = { $prettyAverage }, sum = { $sum }
+       *[other] { $sampleCount } utval, gjennomsnitt = { $prettyAverage }, sum = { $sum }
+    }
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = Denne sida viser info om yting, maskinvare, bruksmønster og utvidingar som er innsamla av Telemetri. Denne infoen vert sendt til { $telemetryServerOwner } for å hjelpe til med å forbetre { -brand-full-name }.
@@ -125,3 +135,6 @@ about-telemetry-category-header = kategori
 about-telemetry-method-header = metode
 about-telemetry-object-header = objekt
 about-telemetry-extra-header = ekstra
+about-telemetry-origin-section = Opphavs-telemetri
+about-telemetry-origin-origin = opphav
+about-telemetry-origin-count = mengde
