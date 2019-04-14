@@ -56,6 +56,17 @@ about-telemetry-upload-type =
         [enabled] įjungtas
        *[disabled] išjungtas
     }
+# Example Output: 1 sample, average = 0, sum = 0
+# Variables:
+#   $sampleCount (Integer): amount of histogram samples
+#   $prettyAverage (Integer): average of histogram samples
+#   $sum (Integer): sum of histogram samples
+about-telemetry-histogram-stats =
+    { $sampleCount ->
+        [one] { $sampleCount } ėminys, vidurkis = { $prettyAverage }, suma = { $sum }
+        [few] { $sampleCount } ėminiai, vidurkis = { $prettyAverage }, suma = { $sum }
+       *[other] { $sampleCount } ėminių, vidurkis = { $prettyAverage }, suma = { $sum }
+    }
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = Šiame tinklalapyje rasite telemetrijai sukauptus duomenis apie kompiuterio aparatinę įrangą, programos našumą, tinklinimą ir naudojamas fukcijas. Ši informacija programos „{ -brand-full-name }“ tobulinimo tikslais siunčiama į „{ $telemetryServerOwner }“.
@@ -125,3 +136,9 @@ about-telemetry-category-header = kategorija
 about-telemetry-method-header = metodas
 about-telemetry-object-header = objektas
 about-telemetry-extra-header = papildomai
+about-telemetry-origin-section = „Origin“ telemetrija
+about-telemetry-origin-origin = kilmė
+about-telemetry-origin-count = kiekis
+# Variables:
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+about-telemetry-origins-explanation = Prieš persiųsdama duomenis, <a data-l10n-name="origin-doc-link">„Firefox Origin Telemetry“</a>  juos užšifruoja taip, kad „{ $telemetryServerOwner }“ galėtų suskaičiuoti dalykus, tačiau nežinotų ar kuris nors konkretus { -brand-product-name } patenka į tą kiekį. (<a data-l10n-name="prio-blog-link">sužinoti daugiau</a>)
