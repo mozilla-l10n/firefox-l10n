@@ -55,7 +55,7 @@ policy-ExtensionUpdate = Activer ou désactiver la mise à jour automatique des 
 policy-FlashPlugin = Autorise ou non l’utilisation du plugin Flash.
 policy-HardwareAcceleration = Si faux, désactive l’accélération matérielle.
 # “lock” means that the user won’t be able to change this setting
-policy-Homepage = Définit la page d’accueil et propose de la verrouiller.
+policy-Homepage = Définit la page d’accueil et permet de la verrouiller.
 policy-InstallAddonsPermission = Autorise certains sites web à installer des extensions.
 policy-NetworkPrediction = Permet ou interdit la prédiction réseau (prélecture DNS).
 policy-NewTabPage = Active ou désactive la page de nouvel onglet
