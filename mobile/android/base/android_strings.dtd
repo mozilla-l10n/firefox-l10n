@@ -356,7 +356,7 @@ shown from Android O while a tab is being queued.-->
 
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
-<!ENTITY tab_queue_notification_settings "เพื่อ \&quot;เปิดหลายลิงก์\&quot; โปรดเปิดใช้งานการอนุญาต \&apos;วาดทับแอปอื่นๆ\&apos; สำหรับ &brandShortName;">
+<!ENTITY tab_queue_notification_settings "เพื่อ \&quot;เปิดหลายลิงก์\&quot; โปรดเปิดใช้งานสิทธิอนุญาต \&apos;วาดทับแอปอื่นๆ\&apos; สำหรับ &brandShortName;">
 
 <!ENTITY pref_char_encoding "รหัสอักขระ">
 <!ENTITY pref_char_encoding_on "แสดงเมนู">
@@ -740,7 +740,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
-<!ENTITY updater_permission_text "เพื่อดาวน์โหลดไฟล์และการอัปเดต อนุญาตให้ &brandShortName; เข้าถึงที่เก็บข้อมูล">
+<!ENTITY updater_permission_text "เพื่อดาวน์โหลดไฟล์และการอัปเดต อนุญาตสิทธิอนุญาตให้ &brandShortName; เข้าถึงที่เก็บข้อมูล">
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
 <!ENTITY updater_permission_allow "อนุญาต">
 
