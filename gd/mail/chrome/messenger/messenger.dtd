@@ -440,9 +440,6 @@
 <!ENTITY openMessageWindowCmd.label "Fosgail an teachdaireachd">
 <!ENTITY openMessageWindowCmd.accesskey "o">
 <!ENTITY openMessageWindowCmd.key "o">
-<!ENTITY openConversationCmd.label "Fosgail ann an còmhradh">
-<!ENTITY openConversationCmd.accesskey "s">
-<!ENTITY openConversationCmd.key "o">
 <!ENTITY openInConversationCmd.label "Fosgail ann an còmhradh">
 <!ENTITY openInConversationCmd.accesskey "s">
 <!ENTITY openInConversationCmd.key "o">
@@ -608,6 +605,8 @@
 <!ENTITY tagButton.tooltip "Cuir taga ris na teachdaireachdan">
 <!ENTITY compactButton.tooltip "Thoir air falbh na teachdaireachdan a chaidh an sguabadh às on phasgan a thagh thu">
 <!ENTITY appmenuButton1.tooltip "Seall clàr-taice &brandShortName;">
+
+<!ENTITY addonsButton.tooltip "Stiùirich na tuilleadain agad">
 
 <!-- Toolbar Button Popup -->
 <!ENTITY buttonMenuForwardAsInline.label "Sìn air adhart am broinn na loidhne">
@@ -795,6 +794,8 @@
 <!ENTITY contextMoveMsgMenu.accesskey "G">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "O chionn ghoirid">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "r">
+<!ENTITY contextMoveCopyMsgFavoritesMenu.label "Annsachdan">
+<!ENTITY contextMoveCopyMsgFavoritesMenu.accesskey "F">
 <!ENTITY contextCopyMsgMenu.label "Cuir lethbhreac gu">
 <!ENTITY contextCopyMsgMenu.accesskey "C">
 <!ENTITY contextKillThreadMenu.label "Leig seachad an snàithlean">
@@ -814,12 +815,6 @@
 <!ENTITY contextPrintPreview.label "Ro-shealladh clò-bhualaidh">
 <!ENTITY contextPrintPreview.accesskey "R">
 
-<!-- Thread Pane Column Picker -->
-<!-- LOCALIZATION NOTE (columnPicker.resetToInbox.label):
-     This option in the thread pane column picker causes us to reset the
-     customizations for the thread pane columns in this folder to their default.
-  -->
-<!ENTITY columnPicker.resetToInbox.label "Aisig roghainnean bunaiteach nan colbhan">
 <!-- LOCALIZATION NOTE (columnPicker.applyTo.label):
      This option in the thread pane column picker pops up a sub-menu containing
      the "columnPicker.applyToFolder.label" and
@@ -859,7 +854,6 @@
      "File here" option for the move to/copy to widget.
   -->
 <!ENTITY columnPicker.thisFolder.label "Am pasgan seo">
-
 
 <!-- Media (video/audio) controls -->
 <!ENTITY contextPlay.label "Cluich">
