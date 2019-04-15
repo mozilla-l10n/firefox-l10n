@@ -626,7 +626,7 @@ sitedata-settings =
     .label = จัดการข้อมูล…
     .accesskey = จ
 sitedata-cookies-permissions =
-    .label = จัดการการอนุญาต…
+    .label = จัดการสิทธิอนุญาต…
     .accesskey = ด
 
 ## Privacy Section - Address Bar
@@ -714,7 +714,7 @@ tracking-manage-exceptions =
 
 ## Privacy Section - Permissions
 
-permissions-header = การอนุญาต
+permissions-header = สิทธิอนุญาต
 permissions-location = ตำแหน่งที่ตั้ง
 permissions-location-settings =
     .label = การตั้งค่า…
