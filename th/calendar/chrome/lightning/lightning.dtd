@@ -57,6 +57,7 @@
 <!ENTITY lightning.imipbar.btnDecline2.tooltiptext                          "ปฏิเสธคำเชิญเหตุการณ์">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "ปฏิเสธทั้งหมด">
 <!ENTITY lightning.imipbar.btnDeclineCounter.label                          "ปฏิเสธ">
+<!ENTITY lightning.imipbar.btnDeclineCounter.tooltiptext                    "ปฏิเสธการโต้แย้ง">
 <!ENTITY lightning.imipbar.btnDelete.label                                  "ลบ">
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "ลบออกจากปฏิทิน">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "รายละเอียด…">
