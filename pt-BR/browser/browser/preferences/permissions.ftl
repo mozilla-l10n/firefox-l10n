@@ -46,8 +46,6 @@ permissions-capabilities-listitem-allow =
     .value = Permitir
 permissions-capabilities-listitem-block =
     .value = Bloquear
-permissions-capabilities-listitem-allow-first-party =
-    .value = Só permitir cookies pertencentes ao site atual
 permissions-capabilities-listitem-allow-session =
     .value = Permitir nesta sessão
 
@@ -82,7 +80,7 @@ permissions-exceptions-popup-desc = Você pode especificar quais sites têm perm
 permissions-exceptions-saved-logins-window =
     .title = Exceções - Contas de acesso salvas
     .style = { permissions-window.style }
-permissions-exceptions-saved-logins-desc = As contas de acesso para os seguintes sites não serão salvas
+permissions-exceptions-saved-logins-desc = As contas de acesso dos seguintes sites não serão salvas
 
 ## Exceptions - Add-ons
 
