@@ -628,7 +628,7 @@ sitedata-option-block-trackers =
 sitedata-option-block-unvisited =
     .label = Cookies de sitos web non visitate
 sitedata-option-block-all-third-party =
-    .label = Tote le cookies de terties (pote impedir alcun sitos web de functionar)
+    .label = Tote le cookies de tertios (pote impedir alcun sitos web de functionar)
 sitedata-option-block-all =
     .label = Tote le cookies (impedira alcun sitos web de functionar)
 sitedata-clear =
@@ -659,7 +659,7 @@ addressbar-suggestions-settings = Cambiar le preferentias pro le suggestiones de
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Blocage de contento
-content-blocking-description = Blocca le contento de terties que te tracia per le web. Controlla quanto de tu activitate in linea es immagazinate e condividite inter le sitos web.
+content-blocking-description = Bloca le contento de tertios que te tracia per le web. Controla quanto de tu activitate in linea es immagazinate e condividite inter le sitos web.
 content-blocking-learn-more = Saper plus
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
