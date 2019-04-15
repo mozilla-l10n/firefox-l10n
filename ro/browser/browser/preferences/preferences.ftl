@@ -850,7 +850,7 @@ space-alert-over-5gb-message =
     }
 space-alert-under-5gb-ok-button =
     .label = Ok, am înțeles
-    .accesskey = k
+    .accesskey = K
 space-alert-under-5gb-message = { -brand-short-name } rămâne fără spațiu pe disc. Este posibil ca conținutul site-ului web să nu fie afișat corespunzător. Vizitează „Află mai multe” pentru a optimiza utilizarea discului în vederea unei mai bune experiențe de navigare.
 
 ## The following strings are used in the Download section of settings

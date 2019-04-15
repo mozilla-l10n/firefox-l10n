@@ -1163,14 +1163,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE: (addonPostInstallMessage.label):
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
-<!ENTITY addonPostInstallMessage.label "Gestionează suplimentele dând clic pe <image class='addon-addon-icon'/> în meniul <image class='addon-toolbar-icon'/>.">
+<!ENTITY addonPostInstallMessage.label "Gestionează suplimentele dând clic pe <image class='addon-addon-icon'/> în meniu <image class='addon-toolbar-icon'/>.">
 <!ENTITY addonPostInstall.incognito.checkbox.label "Permite acestei extensii să ruleze în ferestre private">
 <!ENTITY addonPostInstall.incognito.checkbox.accesskey "A">
 
 <!ENTITY addonPrivateBrowsing.header2.label "Modificare pentru extensii în ferestre private">
 <!ENTITY addonPrivateBrowsing.body2.label "Orice extensii noi pe care le adaugi în &brandShorterName; nu vor funcționa în ferestrele private dacă nu le permiți să o facă din setări.">
 <!ENTITY addonPrivateBrowsing.learnMore.label "Află cum să gestionezi setările pentru extensii">
-<!ENTITY addonPrivateBrowsing.okButton.label "OK, am înțeles">
+<!ENTITY addonPrivateBrowsing.okButton.label "Ok, am înțeles">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "O">
 <!ENTITY addonPrivateBrowsing.manageButton.label "Gestionează extensiile">
 <!ENTITY addonPrivateBrowsing.manageButton.accesskey "M">
