@@ -17,15 +17,15 @@
 <!ENTITY aboutTelemetry.showInFirefoxJsonViewer "เปิดในตัวดู JSON">
 
 <!ENTITY aboutTelemetry.homeSection "หน้าแรก">
-<!ENTITY aboutTelemetry.generalDataSection "  ข้อมูลทั่วไป">
-<!ENTITY aboutTelemetry.environmentDataSection "  ข้อมูลสภาพแวดล้อม">
+<!ENTITY aboutTelemetry.generalDataSection "ข้อมูลทั่วไป">
+<!ENTITY aboutTelemetry.environmentDataSection "ข้อมูลสภาพแวดล้อม">
 <!ENTITY aboutTelemetry.sessionInfoSection "ข้อมูลวาระ">
 <!ENTITY aboutTelemetry.histogramsSection "  ฮิสโทแกรม">
 <!ENTITY aboutTelemetry.keyedHistogramsSection "  Keyed Histograms">
 <!ENTITY aboutTelemetry.eventsSection "เหตุการณ์">
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  ค่าที่วัดได้อย่างง่าย">
 <!ENTITY aboutTelemetry.slowSqlSection "คำสั่ง SQL ที่ช้า">
-<!ENTITY aboutTelemetry.addonDetailsSection "  รายละเอียดของส่วนเสริม">
+<!ENTITY aboutTelemetry.addonDetailsSection "รายละเอียดส่วนเสริม">
 <!ENTITY aboutTelemetry.lateWritesSection "  การเขียนทีหลัง">
 <!ENTITY aboutTelemetry.rawPayloadSection "ส่วนข้อมูลดิบ">
 <!ENTITY aboutTelemetry.raw "JSON ดิบ">
