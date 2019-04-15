@@ -36,10 +36,7 @@
 </ul>">
 
 <!ENTITY fileAccessDenied.title "การเข้าถึงไฟล์ถูกปฏิเสธ">
-<!ENTITY fileAccessDenied.longDesc "
-<ul> 
-  <li>ไฟล์อาจถูกเอาออก ย้าย หรือการอนุญาตของไฟล์อาจป้องกันการเข้าถึง</li> 
-</ul>">
+<!ENTITY fileAccessDenied.longDesc "<ul> <li>ไฟล์อาจถูกเอาออก ย้าย หรือสิทธิอนุญาตของไฟล์อาจป้องกันการเข้าถึง</li> </ul>">
 
 <!ENTITY generic.title "อุปส์">
 <!ENTITY generic.longDesc "
