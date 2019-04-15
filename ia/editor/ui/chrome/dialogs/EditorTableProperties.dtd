@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY tableWindow.title                "Proprietates del tabella">
 <!ENTITY applyButton.label                "Applicar">
 <!ENTITY applyButton.accesskey            "A">
 <!ENTITY closeButton.label                "Clauder">
@@ -13,6 +14,8 @@
 <!ENTITY tableColumns.accessKey           "C">
 <!ENTITY tableHeight.label                "Altor:">
 <!ENTITY tableHeight.accessKey            "t">
+<!ENTITY tableWidth.label                 "Largessa:">
+<!ENTITY tableWidth.accessKey             "L">
 <!ENTITY tableBorderWidth.label           "Bordo:">
 <!ENTITY tableBorderWidth.accessKey       "B">
 

@@ -12,25 +12,40 @@
 <!-- Toolbar-only items -->
 
 <!-- File menu items -->
+<!ENTITY sendPageCmd.label "Inviar pagina…">
+<!ENTITY sendPageCmd.accesskey "v">
 
 <!-- View menu items -->
+<!ENTITY compositionToolbarCmd.label "Barra de instrumentos de composition">
+<!ENTITY compositionToolbarCmd.accesskey "C">
+<!ENTITY formattingToolbarCmd.label "Barra de instrumentos de formato">
+<!ENTITY formattingToolbarCmd.accesskey "F">
+<!ENTITY editmodeToolbarCmd.label "Barra de instrumentos de modo redaction">
+<!ENTITY editmodeToolbarCmd.accesskey "R">
 
 <!-- Format menu items -->
 <!ENTITY formatMenu.label "Formato">
 <!ENTITY formatMenu.accesskey "o">
 
 <!-- Tools menu items -->
+<!ENTITY validateCmd.label "Validar HTML">
+<!ENTITY validateCmd.accesskey "V">
 
 <!-- Display Mode toolbar and View menu items -->
 <!ENTITY NormalModeTab.label "Normal">
 <!ENTITY NormalMode.label "Modo de redaction Normal">
 <!ENTITY NormalMode.accesskey "N">
+<!ENTITY AllTagsModeTab.label "Tags HTML">
+<!ENTITY AllTagsMode.label "Tags HTML">
+<!ENTITY AllTagsMode.accesskey "a">
 <!-- LOCALIZATION NOTE: (HTMLSourceModeTab.dir, HTMLSourceModeTab.label)
      Do NOT translate text for 'HTMLSourceModeTab.dir', use latin "ltr" if
      you want the <html> image to left of the 'HTMLSourceModeTab.label' text,
      or use latin "rtl" if you want this image to the right of text. You do
      not need to include HTML in the label 'HTMLSourceModeTab.label' -->
 <!ENTITY HTMLSourceModeTab.label "Fonte">
+<!ENTITY HTMLSourceMode.label "Fonte HTML">
+<!ENTITY HTMLSourceMode.accesskey "H">
 <!ENTITY PreviewModeTab.label "Vista preliminar">
 <!ENTITY PreviewMode.label "Vista preliminar">
 <!ENTITY PreviewMode.accesskey "P">

@@ -7,6 +7,8 @@
 <!-- File menu items -->
 
 <!-- Edit menu items -->
+<!ENTITY pasteNoFormatting.label "Collar sin formato">
+<!ENTITY pasteNoFormatting.accesskey "n">
 <!ENTITY pasteAs.label "Collar como">
 <!ENTITY pasteAs.accesskey "o">
 <!ENTITY findBarCmd.label "Trovar…">
@@ -18,6 +20,8 @@
 <!ENTITY insertLinkCmd2.accesskey "L">
 <!ENTITY insertImageCmd.label "Imagine…">
 <!ENTITY insertImageCmd.accesskey "I">
+<!ENTITY insertHLineCmd.label "Linea horizontal">
+<!ENTITY insertHLineCmd.accesskey "o">
 <!ENTITY insertTableCmd.label "Tabella…">
 <!ENTITY insertTableCmd.accesskey "T">
 <!ENTITY insertHTMLCmd.label "HTML…">
@@ -26,6 +30,8 @@
 <!ENTITY insertMathCmd.accesskey "M">
 
 <!-- Used just in context popup. -->
+<!ENTITY createLinkCmd.label "Crear ligamine…">
+<!ENTITY createLinkCmd.accesskey "g">
 
 <!-- Font Face SubMenu -->
 <!ENTITY fontfaceMenu.label "Typo de character">
