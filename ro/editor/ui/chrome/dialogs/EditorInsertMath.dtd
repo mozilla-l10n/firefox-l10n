@@ -5,7 +5,7 @@
 <!-- Window title -->
 <!ENTITY windowTitle.label "Inserează o expresie matematică">
 
-<!ENTITY sourceEditField.label "Introdu cod-sursă LaTeX:">
+<!ENTITY sourceEditField.label "Introdu codul sursă LaTeX:">
 
 <!ENTITY options.label "Opțiuni">
 <!ENTITY optionInline.label "Mod în linie">
