@@ -5,7 +5,7 @@
 process-type-web = เนื้อหาเว็บ
 # process used to run privileged pages,
 # such as about:home
-process-type-privileged = เนื้อหาที่ได้รับสิทธิ์
+process-type-privileged = เนื้อหาที่มีสิทธิ
 process-type-extension = ส่วนขยาย
 # process used to open file:// URLs
 process-type-file = ไฟล์ในเครื่อง
