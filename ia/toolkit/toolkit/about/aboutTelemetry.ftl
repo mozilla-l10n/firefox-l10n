@@ -56,6 +56,16 @@ about-telemetry-upload-type =
         [enabled] active
        *[disabled] inactive
     }
+# Example Output: 1 sample, average = 0, sum = 0
+# Variables:
+#   $sampleCount (Integer): amount of histogram samples
+#   $prettyAverage (Integer): average of histogram samples
+#   $sum (Integer): sum of histogram samples
+about-telemetry-histogram-stats =
+    { $sampleCount ->
+        [one] { $sampleCount } specimen, media = { $prettyAverage }, total = { $sum }
+       *[other] { $sampleCount } specimens, media = { $prettyAverage }, total = { $sum }
+    }
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = Iste pagina monstra le information sur rendimento, hardware, uso e personalisationes colligite per telemetria. Iste information es submittite a { $telemetryServerOwner } pro adjutar a meliorar { -brand-full-name }.
@@ -128,3 +138,6 @@ about-telemetry-extra-header = extra
 about-telemetry-origin-section = Telemetria “Origin”
 about-telemetry-origin-origin = origine
 about-telemetry-origin-count = conto
+# Variables:
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+about-telemetry-origins-explanation = Le <a data-l10n-name="origin-doc-link">Telemetria Origin de Firefox</a> codifica datos ante que illos es inviate, assi que { $telemetryServerOwner } pote contar le cosas, ma non sape si o non ulle date { -brand-product-name } collabora a ille conto. (<a data-l10n-name="prio-blog-link">saper plus</a>)
