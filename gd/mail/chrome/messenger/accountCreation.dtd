@@ -18,6 +18,12 @@
 <!ENTITY password.text                   "Roghainneil, cha dèid a chleachdadh ach a chum dearbhadh an ainm-chleachdaiche">
 <!ENTITY rememberPassword.label          "Cum am facal-faire an cuimhne">
 <!ENTITY rememberPassword.accesskey      "m">
+<!ENTITY usernameEx.label                "An clàradh a-steach agad:">
+<!ENTITY usernameEx.accesskey            "l">
+<!-- LOCALIZATION NOTE(usernameEx.placeholder): YOURDOMAIN refers to the Windows domain in ActiveDirectory. yourusername refers to the user's account name in Windows. -->
+<!ENTITY usernameEx.placeholder          "AN_ÀRAINN_AGAD\an_t-ainm-cleachdaiche_agad">
+<!-- LOCALIZATION NOTE(usernameEx.text): Domain refers to the Windows domain in ActiveDirectory. We mean the user's login in Windows at the local corporate network. -->
+<!ENTITY usernameEx.text                 "Clàradh a-steach àrainn">
 
 <!ENTITY imapLong.label                  "IMAP (pasgain chèin)">
 <!ENTITY pop3Long.label                  "POP 3 (cum teachdaireachdan air a' choimpiutair agad)">
@@ -30,7 +36,9 @@
 <!ENTITY ssl.label                       "SSL">
 <!ENTITY auth.label                      "Dearbhachadh">
 <!ENTITY imap.label                      "IMAP">
-<!ENTITY pop3.label                       "POP3">
+<!ENTITY pop3.label                      "POP3">
+<!-- LOCALIZATION NOTE(exchange.label): Do not translate Exchange, it is a product name. -->
+<!ENTITY exchange.label                  "Exchange">
 <!ENTITY smtp.label                      "SMTP">
 <!ENTITY autodetect.label                "Fèin-mhothaich">
 <!-- LOCALIZATION NOTE(noEncryption.label): Neither SSL/TLS nor STARTTLS.
@@ -38,6 +46,9 @@
 <!ENTITY noEncryption.label              "Chan eil gin">
 <!ENTITY starttls.label                  "STARTTLS">
 <!ENTITY sslTls.label                    "SSL/TLS">
+
+<!-- LOCALIZATION NOTE(exchange-hostname.label): Do not translate Exchange, it is a product name. -->
+<!ENTITY exchange-hostname.label         "Am frithealaiche Exchange:">
 
 <!ENTITY advancedSetup.label             "Rèiteachadh adhartach">
 <!ENTITY advancedSetup.accesskey         "a">
