@@ -44,9 +44,9 @@
 <!ENTITY  mediaSaveAs2.accesskey "บ">
 <!ENTITY  mediaPreview          "ตัวอย่างสื่อ:">
 
-<!ENTITY  permTab               "การอนุญาต">
+<!ENTITY  permTab               "สิทธิอนุญาต">
 <!ENTITY  permTab.accesskey     "ก">
-<!ENTITY  permissionsFor        "การอนุญาตสำหรับ:">
+<!ENTITY  permissionsFor        "สิทธิอนุญาตสำหรับ:">
 
 <!ENTITY  securityTab           "ความปลอดภัย">
 <!ENTITY  securityTab.accesskey "ค">
