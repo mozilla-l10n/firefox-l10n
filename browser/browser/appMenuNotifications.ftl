@@ -25,3 +25,4 @@ appmenu-update-restart =
     .secondarybuttonlabel = अभी नहीं
     .secondarybuttonaccesskey = N
 appmenu-update-restart-message = शीघ्र पुनरारंभ करने के बाद { -brand-shorter-name } आपके उन सभी खुले टैब और विंडो को पुनर्स्थापित करेगा जो निजी ब्राउज़िंग मोड में नहीं हैं.
+appmenu-addon-post-install-message = अपने ऐड-ऑन को प्रबंधित करें <image data-l10n-name='addon-install-icon'></image> मेनू में <image data-l10n-name='addon-menu-icon'></image> क्लिक कर.
