@@ -25,3 +25,4 @@ appmenu-update-restart =
     .secondarybuttonlabel = Hindi ngayon
     .secondarybuttonaccesskey = N
 appmenu-update-restart-message = Matapos ang isang mabilis na pag-restart, { -brand-shorter-name } ibabalik ang lahat ng iyong mga bukas na tab at window na wala sa pribadong Pagba-browse mode.
+appmenu-addon-post-install-message = Pindutin ang <image data-l10n-name='addon-install-icon'></image> upang i-manage ang iyong mga add-on sa menu ng <image data-l10n-name='addon-menu-icon'></image>.
