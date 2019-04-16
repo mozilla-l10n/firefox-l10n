@@ -24,3 +24,4 @@ appmenu-update-restart =
     .buttonaccesskey = R
     .secondarybuttonlabel = இப்போது வேண்டாம்
     .secondarybuttonaccesskey = N
+appmenu-addon-post-install-message = <image data-l10n-name='addon-menu-icon'></image> மெனுவில் <image data-l10n-name='addon-install-icon'></image> என்பதைச் சொடுக்குவதின் மூலம் உங்கள் மேற்சேர்க்கைகளை நிர்வகியுங்கள்.
