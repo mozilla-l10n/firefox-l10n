@@ -2,7 +2,28 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+appmenu-update-available =
+    .label = En ny { -brand-shorter-name }-opdatering er tilgængelig.
+    .buttonlabel = Hent opdatering
+    .buttonaccesskey = H
+    .secondarybuttonlabel = Ikke nu
+    .secondarybuttonaccesskey = N
 appmenu-update-available-message = Opdater { -brand-shorter-name } til den seneste og mest sikre version.
+appmenu-update-manual =
+    .label = { -brand-shorter-name } kan ikke opdatere til den seneste version.
+    .buttonlabel = Hent { -brand-shorter-name }
+    .buttonaccesskey = H
+    .secondarybuttonlabel = Ikke nu
+    .secondarybuttonaccesskey = N
+appmenu-update-manual-message = Hent en frisk kopi af { -brand-shorter-name } og vi vil hjælpe dig med at installere den.
+appmenu-update-whats-new =
+    .value = Se nyhederne.
+appmenu-update-restart =
+    .label = Genstart for at opdatere { -brand-shorter-name }.
+    .buttonlabel = Genstart og gendan
+    .buttonaccesskey = G
+    .secondarybuttonlabel = Ikke nu
+    .secondarybuttonaccesskey = N
 appmenu-update-restart-message = Efter en hurtig genstart vil { -brand-shorter-name } gendanne alle dine åbne faneblade og vinduer, der ikke er åbnet i privat browsing-tilstand.
 appmenu-addon-private-browsing-installed =
     .buttonlabel = Ok, forstået
