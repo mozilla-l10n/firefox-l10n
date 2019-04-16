@@ -10,6 +10,7 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
+policy-3rdparty = Ορίστε πολιτικές που μπορούν να προσπελάσουν τα WebExtensions μέσω του chrome.storage.managed.
 policy-AppUpdateURL = Ορισμός προσαρμοσμένου URL ενημέρωσης εφαρμογής.
 policy-Authentication = Ρύθμιση ενσωματωμένης πιστοποίησης για ιστοσελίδες που την υποστηρίζουν.
 policy-BlockAboutAddons = Φραγή πρόσβασης στη Διαχείριση προσθέτων (about:addons).
@@ -49,22 +50,27 @@ policy-EnableTrackingProtection = Ενεργοποίηση ή απενεργοπ
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
 policy-Extensions = Εγκατάσταση, απεγκατάσταση ή κλείδωμα επεκτάσεων. Η επιλογή εγκατάστασης λαμβάνει τα URLs ή τις διαδρομές ως παραμέτρους. Οι επιλογές απεγκατάστασης και κλειδώματος λαμβάνουν IDs επεκτάσεων.
+policy-ExtensionUpdate = Ενεργοποίηση ή απενεργοποίηση αυτόματων ενημερώσεων επεκτάσεων.
 policy-FlashPlugin = Αποδοχή ή απόρριψη χρήσης του αρθρώματος Flash.
 policy-HardwareAcceleration = Αν είναι ψευδές, απενεργοποίηση επιτάχυνσης υλικού.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Ορισμός και προαιρετικό κλείδωμα της αρχικής σελίδας.
 policy-InstallAddonsPermission = Αποδοχή εγκατάστασης προσθέτων από ορισμένες ιστοσελίδες.
+policy-NetworkPrediction = Ενεργοποίηση ή απενεργοποίηση πρόβλεψης δικτύου (προφόρτωση DNS).
+policy-NewTabPage = Ενεργοποίηση ή απενεργοποίηση της σελίδας νέας καρτέλας.
 policy-NoDefaultBookmarks = Απενεργοποίηση δημιουργίας των προεπιλεγμένων σελιδοδεικτών που έρχονται με το { -brand-short-name }, καθώς και των "έξυπνων" σελιδοδεικτών (Συχνές επισκέψεις, Πρόσφατες ετικέτες). Σημείωση: η πολιτική υλοποιείται μόνο αν χρησιμοποιηθεί πριν την πρώτη εκτέλεση του προφίλ.
 policy-OfferToSaveLogins = Εξαναγκασμός της ρύθμισης για να επιτρέπεται στο { -brand-short-name } η πρόταση για απομνημόνευση αποθηκευμένων συνδέσεων και κωδικών πρόσβασης. Αποδεκτές η τιμή "αληθές" και η τιμή "ψευδές".
 policy-OverrideFirstRunPage = Παράκαμψη της σελίδας πρώτης εκτέλεσης. Αφήστε αυτή την πολιτική κενή αν θέλετε να απενεργοποιήσετε τη σελίδα πρώτης εκτέλεσης.
 policy-OverridePostUpdatePage = Παράκαμψη της σελίδας "Τι νέο υπάρχει" μετά την ενημέρωση. Αφήστε αυτή την πολιτική κενή αν θέλετε να απενεργοποιήσετε τη σελίδα μετά την ενημέρωση.
 policy-Permissions = Ρύθμιση δικαιωμάτων για κάμερα, μικρόφωνο, τοποθεσία και ειδοποιήσεις.
 policy-PopupBlocking = Αποδοχή αναδυόμενων από ορισμένες ιστοσελίδες, από προεπιλογή.
+policy-Preferences = Ορίστε και κλειδώστε την τιμή ενός υποσυνόλου προτιμήσεων.
 policy-Proxy = Προσαρμογή ρυθμίσεων μεσολάβησης.
 policy-RequestedLocales = Ορίστε τη λίστα απαιτούμενων γλωσσών για την εφαρμογή σε σειρά προτίμησης.
 policy-SanitizeOnShutdown = Εκκαθάριση όλων των δεδομένων πλοήγησης κατά τον τερματισμό λειτουργίας.
 policy-SearchBar = Ορίστε την προεπιλεγμένη τοποθεσία της γραμμής αναζήτησης. Ο χρήστης θα μπορεί να την προσαρμόσει.
 policy-SearchEngines = Διαμόρφωση ρυθμίσεων μηχανής αναζήτησης. Αυτή η πολιτική είναι διαθέσιμη μόνο στην έκδοση εκτεταμένης υποστήριξης (ESR).
+policy-SearchSuggestEnabled = Ενεργοποίηση ή απενεργοποίηση προτάσεων αναζήτησης.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Εγκατάσταση προσθέτων PKCS #11.
 policy-SSLVersionMax = Ορίστε τη μέγιστη έκδοση SSL.
