@@ -24,3 +24,4 @@ appmenu-update-restart =
     .buttonaccesskey = M
     .secondarybuttonlabel = Ani ko'ág̃a
     .secondarybuttonaccesskey = A
+appmenu-update-restart-message = Pya'e remoñepyrũjey rire, { -brand-shorter-name } omoĩmbajeýta tendayke ha ovetã rehecháva'ekue ha ndaha'éiva Kundahañemimegua.
