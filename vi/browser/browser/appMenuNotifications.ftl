@@ -24,6 +24,7 @@ appmenu-update-restart =
     .secondarybuttonlabel = Không phải bây giờ
     .secondarybuttonaccesskey = N
 appmenu-update-restart-message = Sau khi khởi động lại, { -brand-shorter-name } sẽ khôi phục toàn bộ những thẻ đang mở và cửa sổ của bạn mà không ở chế độ duyệt web riêng tư.
+appmenu-addon-post-install-message = Quản lý tiện ích của bạn bằng cách nhấp vào <image data-l10n-name='addon-install-icon'></image> trong trình đơn <image data-l10n-name='addon-menu-icon'></image>.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Cho phép tiện ích mở rộng này chạy trong cửa sổ riêng tư
     .accesskey = A
