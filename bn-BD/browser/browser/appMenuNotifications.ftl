@@ -15,6 +15,7 @@ appmenu-update-manual =
     .buttonaccesskey = D
     .secondarybuttonlabel = এখন নয়
     .secondarybuttonaccesskey = N
+appmenu-update-manual-message = একটি ফ্রেশ { -brand-shorter-name } কপি ডাউনলোড করুন এবং আমরা সেটি ইনস্টল করতে সহায়তা করব।
 appmenu-update-whats-new =
     .value = দেখুন নতুন কি আছে।
 appmenu-update-restart =
@@ -27,3 +28,4 @@ appmenu-update-restart-message = দ্রুত পুনরাম্ভের 
 appmenu-addon-private-browsing-installed =
     .buttonlabel = ঠিকাছে, বুঝতে পেরেছি
     .buttonaccesskey = O
+appmenu-addon-post-install-message = আপনার অ্যাড-অন পরিচালনা করতে <image data-l10n-name='addon-install-icon'></image> মেনুতে <image data-l10n-name='addon-menu-icon'></image> ক্লিক করুন।
