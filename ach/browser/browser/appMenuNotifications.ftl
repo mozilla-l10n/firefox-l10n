@@ -24,3 +24,5 @@ appmenu-update-restart =
     .buttonaccesskey = N
     .secondarybuttonlabel = Pe kombedi
     .secondarybuttonaccesskey = P
+appmenu-update-restart-message = Inge nwoyo cako oyoto, { -brand-shorter-name } bi dwoko dirica matino ki dirica mamegi ma tye ayaba ento pe tye i kit me Yeny me Mung.
+appmenu-addon-post-install-message = Lo med-ikome mamegi ki diino <image data-l10n-name='addon-install-icon'></image> ii jami ayera me <image data-l10n-name='addon-menu-icon'></image>.
