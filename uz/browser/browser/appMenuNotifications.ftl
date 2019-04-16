@@ -25,3 +25,4 @@ appmenu-update-restart =
     .secondarybuttonlabel = Hozir emas
     .secondarybuttonaccesskey = H
 appmenu-update-restart-message = Tezkor qayta ishga tushirishdan keyin { -brand-shorter-name } barcha ochiq qolgan oyna va ichki oynalarni tiklaydi. Faqatgina maxfiy ko‘rish rejimidagi oynalarni tiklay olmaydi.
+appmenu-addon-post-install-message = Qo‘shimcha dasturlarni <image data-l10n-name='addon-menu-icon'></image> menyusidagi <image data-l10n-name='addon-install-icon'></image> ustiga bosib, boshqarish mumkin.
