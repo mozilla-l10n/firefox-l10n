@@ -25,4 +25,8 @@ appmenu-update-restart =
     .secondarybuttonlabel = Не сада
     .secondarybuttonaccesskey = Н
 appmenu-update-restart-message = Након рестартовања, { -brand-shorter-name } ће обновити све ваше отворене језичке и прозоре који нису у приватном режиму.
+appmenu-addon-private-browsing-installed =
+    .buttonlabel = У реду, разумем
+    .buttonaccesskey = У
 appmenu-addon-post-install-message = Управљајте вашим додацима кликом на <image data-l10n-name='addon-install-icon'></image> у <image data-l10n-name='addon-menu-icon'></image> менију.
+appmenu-addon-private-browsing-message = Све нове екстензије које додате у { -brand-shorter-name } неће радити у приватним прозорима осим ако то не дозволите у подешавањима екстензије.
