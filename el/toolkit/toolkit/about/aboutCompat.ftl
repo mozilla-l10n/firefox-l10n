@@ -4,4 +4,6 @@
 
 label-disable = Απενεργοποίηση
 label-enable = Ενεργοποίηση
+label-interventions = Παρεμβάσεις
+label-more-information = Περισσότερες πληροφορίες: Σφάλμα { $bug }
 text-title = about:compat

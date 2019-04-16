@@ -50,10 +50,13 @@ app-basics-memory-use = Χρήση μνήμης
 app-basics-performance = Επιδόσεις
 app-basics-service-workers = Εγγεγραμμένα Service Workers
 app-basics-profiles = Προφίλ
+app-basics-launcher-process-status = Διαδικασία προγράμματος εκκίνησης
 app-basics-multi-process-support = Παράθυρα πολυδιεργασιών
 app-basics-process-count = Διεργασίες διαδικτυακού περιεχομένου
 app-basics-remote-processes-count = Απομακρυσμένες διεργασίες
 app-basics-enterprise-policies = Πολιτικές επιχειρήσεων
+app-basics-location-service-key-google = Κλειδί υπηρεσίας τοποθεσίας Google
+app-basics-safebrowsing-key-google = Κλειδί ασφαλούς περιήγησης Google
 app-basics-key-mozilla = Κλειδί υπηρεσίας τοποθεσίας Mozilla
 app-basics-safe-mode = Ασφαλής λειτουργία
 show-dir-label =
@@ -245,7 +248,9 @@ effective-content-sandbox-level = Αποτελεσματικό επίπεδο ε
 sandbox-proc-type-content = περιεχόμενο
 sandbox-proc-type-file = περιεχόμενο αρχείου
 sandbox-proc-type-media-plugin = άρθρωμα πολυμέσων
+sandbox-proc-type-data-decoder = αποκωδικοποιητής δεδομένων
 launcher-process-status-0 = Ενεργό
+launcher-process-status-1 = Ανενεργό λόγω αποτυχίας
 launcher-process-status-unknown = Άγνωστη κατάσταση
 # Variables
 # $remoteWindows (integer) - Number of remote windows

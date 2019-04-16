@@ -56,6 +56,16 @@ about-telemetry-upload-type =
         [enabled] ενεργή
        *[disabled] ανενεργή
     }
+# Example Output: 1 sample, average = 0, sum = 0
+# Variables:
+#   $sampleCount (Integer): amount of histogram samples
+#   $prettyAverage (Integer): average of histogram samples
+#   $sum (Integer): sum of histogram samples
+about-telemetry-histogram-stats =
+    { $sampleCount ->
+        [one] { $sampleCount } δείγμα, μέσος όρος = { $prettyAverage }, σύνολο = { $sum }
+       *[other] { $sampleCount } δείγματα, μέσος όρος = { $prettyAverage }, σύνολο = { $sum }
+    }
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = Αυτή η σελίδα εμφανίζει τα δεδομένα συμπεριφοράς και χρήσης των λειτουργιών που συλλέγονται από την Τηλεμετρία. Αυτές οι πληροφορίες υποβάλλονται ανώνυμα στο { $telemetryServerOwner } και μας βοηθούν να βελτιώσουμε τον { -brand-full-name }.
@@ -125,3 +135,9 @@ about-telemetry-category-header = κατηγορία
 about-telemetry-method-header = μέθοδος
 about-telemetry-object-header = αντικείμενο
 about-telemetry-extra-header = επιπλέον
+about-telemetry-origin-section = Origin Telemetry
+about-telemetry-origin-origin = προέλευση
+about-telemetry-origin-count = μέτρηση
+# Variables:
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+about-telemetry-origins-explanation = Το <a data-l10n-name="origin-doc-link">Firefox Origin Telemetry</a> κωδικοποιεί τα δεδομένα πριν αποσταλούν έτσι, ώστε η { $telemetryServerOwner } να μπορέσει να μετρήσει πράγματα, αλλά δεν θα γνωρίζει αν συνεισέφερε το παρόν { -brand-product-name } σε αυτή τη μέτρηση. (<a data-l10n-name="prio-blog-link">Μάθετε περισσότερα</a>)
