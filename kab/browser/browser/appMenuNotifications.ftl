@@ -4,3 +4,4 @@
 
 appmenu-update-whats-new =
     .value = Wali amaynut.
+appmenu-addon-post-install-message = Sefrek izegrar inek s usebbed γef <image data-l10n-name='addon-install-icon'></image> deg umuγ <image data-l10n-name='addon-menu-icon'></image>.
