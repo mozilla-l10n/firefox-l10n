@@ -25,3 +25,4 @@ appmenu-update-restart =
     .secondarybuttonlabel = ਹੁਣੇ ਨਹੀਂ
     .secondarybuttonaccesskey = N
 appmenu-update-restart-message = ਤੁਰੰਤ ਮੁੜ-ਚਾਲੂ ਕਰਨ ਦੇ ਬਾਅਦ { -brand-shorter-name } ਤੁਹਾਡੀਆਂ ਖੁੱਲੀਆਂ ਟੈਬਾਂ ਅਤੇ ਵਿੰਡੋ, ਜੋ ਕਿ ਤੁਸੀਂ ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਮੋਡ 'ਚ ਨਹੀਂ ਹਨ, ਨੂੰ ਬਹਾਲ ਕਰੇਗਾ।
+appmenu-addon-post-install-message = <image data-l10n-name='addon-install-icon'></image> ਮੇਨੂ ਵਿੱਚ <image data-l10n-name='addon-menu-icon'></image> ਤੇ ਕਲਿੱਕ ਕਰਕੇ ਆਪਣੇ ਐਡਆਨ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋੋ।
