@@ -29,3 +29,13 @@ appmenu-addon-private-browsing-installed =
     .buttonlabel = ঠিকাছে, বুঝতে পেরেছি
     .buttonaccesskey = O
 appmenu-addon-post-install-message = আপনার অ্যাড-অন পরিচালনা করতে <image data-l10n-name='addon-install-icon'></image> মেনুতে <image data-l10n-name='addon-menu-icon'></image> ক্লিক করুন।
+appmenu-addon-post-install-incognito-checkbox =
+    .label = এই এক্সটেনশনটিকে ব্যক্তিগত উইন্ডো তে চালানোর অনুমতি দিন
+    .accesskey = A
+appmenu-addon-private-browsing =
+    .label = এক্সটেনশনটিকে ব্যক্তিগত উইন্ডোতে তে পরিবর্তন করুন
+    .buttonlabel = এক্সটেনশন ব্যবস্থাপনা
+    .buttonaccesskey = M
+    .secondarybuttonlabel = ঠিকাছে, বুঝতে পেরেছি
+    .secondarybuttonaccesskey = O
+appmenu-addon-private-browsing-learn-more = কিভাবে এক্সটেনশন সেটিংস করতে হয় জানুন
