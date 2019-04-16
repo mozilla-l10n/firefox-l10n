@@ -25,3 +25,4 @@ appmenu-update-restart =
     .secondarybuttonlabel = Ոչ հիմա
     .secondarybuttonaccesskey = Ո
 appmenu-update-restart-message = Արագ վերամեկնարկից հետո { -brand-shorter-name }-ը կվերականգնի բոլոր բաց ներդիրները և պատուհանները, որոնք Գաղտնի Դիտարկման կերպում չեն:
+appmenu-addon-post-install-message = Կառավարեք ձեր հավելումները սեղմելով <image data-l10n-name='addon-install-icon'></image><image data-l10n-name='addon-menu-icon'></image>ցանկին:
