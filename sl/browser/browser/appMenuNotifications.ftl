@@ -25,4 +25,15 @@ appmenu-update-restart =
     .secondarybuttonlabel = Ne zdaj
     .secondarybuttonaccesskey = N
 appmenu-update-restart-message = Po hitrem ponovnem zagonu bo { -brand-shorter-name } obnovil vse vaše odprte zavihke in okna, razen tistih v zasebnem brskanju.
+appmenu-addon-private-browsing-installed =
+    .buttonlabel = Razumem
+    .buttonaccesskey = z
 appmenu-addon-post-install-message = Upravljajte dodatke s klikom na <image data-l10n-name='addon-install-icon'></image> v meniju <image data-l10n-name='addon-menu-icon'></image>.
+appmenu-addon-private-browsing =
+    .label = Sprememba delovanja razširitev v zasebnih oknih
+    .buttonlabel = Upravljaj razširitve
+    .buttonaccesskey = U
+    .secondarybuttonlabel = Razumem
+    .secondarybuttonaccesskey = z
+appmenu-addon-private-browsing-message = Nove razširitve, ki jih boste dodali v { -brand-shorter-name }, ne bodo delovale v zasebnih oknih, razen če to dovolite v možnostih.
+appmenu-addon-private-browsing-learn-more = Več o upravljanju možnosti razširitev.
