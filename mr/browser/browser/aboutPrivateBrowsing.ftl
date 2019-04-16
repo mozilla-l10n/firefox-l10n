@@ -9,6 +9,7 @@ privatebrowsingpage-open-private-window-label = एक खाजगी पटल
 about-private-browsing-info-notsaved = आपण एका खाजगी विंडोत, ब्राऊझ करताना, { -brand-short-name } <strong>साठवू नका</strong>:
 about-private-browsing-search-placeholder = वेबवर शोधा
 about-private-browsing-info-bookmarks = वाचनखूणा
+about-private-browsing-info-title = आपण एका खाजगी पटलामध्ये आहात
 about-private-browsing-info-searches = शोध
 about-private-browsing-info-downloads = डाउनलोड्स
 private-browsing-title = खाजगी ब्राउझिंग

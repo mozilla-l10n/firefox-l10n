@@ -8,6 +8,7 @@ about-config-warning-text = प्रगत सेटिंग्जमधील
 about-config-warning-checkbox = कृपया मला पुन्हा त्रास द्या!
 about-config-warning-button = मी ही जोखीम पत्करतो
 about-config-title = about:config
+about-config2-title = प्रगत संरचना
 about-config-search-input =
     .placeholder = शोधा
 about-config-show-all = सर्व दर्शवा

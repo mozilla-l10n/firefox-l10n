@@ -29,3 +29,4 @@ appmenu-addon-private-browsing-installed =
     .buttonlabel = ठीक आहे, समजले
     .buttonaccesskey = O
 appmenu-addon-post-install-message = <image data-l10n-name='addon-menu-icon'></image> या मेनूत <image data-l10n-name='addon-install-icon'></image> वर क्लिक करून ऍड-ऑन व्यवस्थापित करा.
+appmenu-addon-private-browsing-learn-more = विस्तार सेटिंग्ज कशी व्यवस्थापित करावी ते जाणून घ्या
