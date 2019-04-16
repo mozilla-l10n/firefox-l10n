@@ -12,13 +12,14 @@
 <!ENTITY pref.calendar.alarms.playsound.accessKey "Z">
 <!ENTITY pref.calendar.alarms.sound.useDefault.label "Standardny zuk wužywaś">
 <!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "d">
+<!ENTITY pref.calendar.alarms.sound.useCustom.label "Slědujucu zukowu dataju wužywaś">
+<!ENTITY pref.calendar.alarms.sound.useCustom.accessKey "S">
 <!ENTITY pref.calendar.alarms.sound.browse.label "Pśepytaś…">
 <!ENTITY pref.calendar.alarms.sound.browse.accessKey "P">
 <!ENTITY pref.calendar.alarms.sound.play.label "Wótgraś">
 <!ENTITY pref.calendar.alarms.sound.play.accessKey "W">
 <!ENTITY pref.showalarmbox "Dopomnjeśowy dialog pokazaś">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "m">
-<!ENTITY pref.missedalarms "Pśepasone dopomnjeśa pokazaś">
 <!ENTITY pref.missedalarms2 "Zapasone dopomnjeśa za pópisujobne kalendarje pokazaś">
 <!ENTITY pref.calendar.alarms.missedAlarms.accessKey "s">
 <!ENTITY pref.calendar.alarms.defaults.label "Standardne gódnoty za dopomnjeśa">
