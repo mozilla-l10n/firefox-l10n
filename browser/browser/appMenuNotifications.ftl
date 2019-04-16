@@ -24,3 +24,4 @@ appmenu-update-restart =
     .buttonaccesskey = ر
     .secondarybuttonlabel = اکنون نه
     .secondarybuttonaccesskey = ا
+appmenu-update-restart-message = بعد ازیک راه اندازی مجدد،‌{ -brand-shorter-name } تمامی زبانه‌ها و پنجره‌های باز شما را بازآوری می‌زند به جز مواردی که در حالت مرور خصوصی بوده‌اند.
