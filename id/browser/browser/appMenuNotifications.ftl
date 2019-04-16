@@ -18,5 +18,13 @@ appmenu-update-manual =
 appmenu-update-manual-message = Unduh salinan segar dari { -brand-shorter-name } dan kami akan membantu Anda untuk memasangnya.
 appmenu-update-whats-new =
     .value = Lihat yang baru.
+appmenu-update-restart =
+    .label = Mulai ulang untuk memutakhirkan { -brand-shorter-name }.
+    .buttonlabel = Mulai Ulang dan Kembalikan
+    .buttonaccesskey = K
+    .secondarybuttonlabel = Jangan Sekarang
+    .secondarybuttonaccesskey = N
+appmenu-update-restart-message = Setelah mulai ulang cepat, { -brand-shorter-name } akan mengembalikan semua tab dan jendela terbuka Anda yang tidak berada di mode Penjelajahan Pribadi.
+appmenu-addon-post-install-message = Kelola pengaya Anda dengan mengeklik <image data-l10n-name='addon-install-icon'></image>di<image data-l10n-name='addon-menu-icon'></image> menu.
 appmenu-addon-private-browsing-message = Semua ekstensi baru yang Anda tambahkan ke { -brand-shorter-name } tidak akan berjalan di Jendela Pribadi kecuali Anda mengizinkannya di peraturan.
 appmenu-addon-private-browsing-learn-more = Pelajari cara mengelola pengaturan ekstensi.
