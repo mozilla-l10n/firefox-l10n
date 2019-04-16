@@ -2,12 +2,20 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+appmenu-update-available =
+    .label = Nowa wersja programu { -brand-shorter-name } jest dostępna.
+    .buttonlabel = Pobierz aktualizację
+    .buttonaccesskey = P
+    .secondarybuttonlabel = Nie teraz
+    .secondarybuttonaccesskey = N
+appmenu-update-available-message = Uaktualnij program { -brand-shorter-name } dla szybkości i bezpieczeństwa.
 appmenu-update-manual =
     .label = { -brand-shorter-name } nie może zostać uaktualniony do najnowszej wersji.
     .buttonlabel = Pobierz program
     .buttonaccesskey = P
     .secondarybuttonlabel = Nie teraz
     .secondarybuttonaccesskey = N
+appmenu-update-manual-message = Pobierz świeżą kopię programu { -brand-shorter-name }, a my pomożemy ją zainstalować.
 appmenu-update-whats-new =
     .value = Sprawdź, co nowego.
 appmenu-update-restart =
