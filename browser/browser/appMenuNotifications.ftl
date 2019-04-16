@@ -15,6 +15,7 @@ appmenu-update-manual =
     .buttonaccesskey = D
     .secondarybuttonlabel = Agora não
     .secondarybuttonaccesskey = n
+appmenu-update-manual-message = Transfira uma nova cópia do { -brand-shorter-name } e iremos ajudar-lhe a instalá-lo.
 appmenu-update-whats-new =
     .value = Veja as novidades.
 appmenu-update-restart =
