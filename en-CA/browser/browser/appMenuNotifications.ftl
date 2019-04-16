@@ -25,3 +25,4 @@ appmenu-update-restart =
     .secondarybuttonlabel = Not Now
     .secondarybuttonaccesskey = N
 appmenu-update-restart-message = After a quick restart, { -brand-shorter-name } will restore all your open tabs and windows that are not in Private Browsing mode.
+appmenu-addon-post-install-message = Manage your add-ons by clicking <image data-l10n-name='addon-install-icon'></image> in the <image data-l10n-name='addon-menu-icon'></image> menu.
