@@ -24,4 +24,5 @@ appmenu-update-restart =
     .buttonaccesskey = R
     .secondarybuttonlabel = Pas ara
     .secondarybuttonaccesskey = N
+appmenu-update-restart-message = Aprèp una pichoneta reaviada, { -brand-shorter-name } restablirà totes vòstres onglets dobèrts que son pas en navegacion privada.
 appmenu-addon-post-install-message = Gerir los moduls en clicar <image data-l10n-name='addon-install-icon'></image> lo <image data-l10n-name='addon-menu-icon'></image> menú.
