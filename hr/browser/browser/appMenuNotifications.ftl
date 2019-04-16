@@ -28,6 +28,7 @@ appmenu-update-restart-message = Nakon brzog ponovnog pokretanja, { -brand-short
 appmenu-addon-private-browsing-installed =
     .buttonlabel = U redu, razumijem
     .buttonaccesskey = U
+appmenu-addon-post-install-message = Upravljajte svojim dodacima klikom na <image data-l10n-name='addon-install-icon'></image> u <image data-l10n-name='addon-menu-icon'></image> izborniku.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Dopusti ovom dodatku da radi u privatnom prozoru
     .accesskey = a
