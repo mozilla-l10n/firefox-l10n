@@ -15,6 +15,7 @@ appmenu-update-manual =
     .buttonaccesskey = D
     .secondarybuttonlabel = Không phải bây giờ
     .secondarybuttonaccesskey = N
+appmenu-update-manual-message = Tải xuống bản sao của { -brand-shorter-name } và chúng tôi sẽ giúp bạn cài đặt nó.
 appmenu-update-whats-new =
     .value = Xem có gì mới.
 appmenu-update-restart =
