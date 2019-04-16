@@ -25,6 +25,15 @@ appmenu-update-restart =
     .secondarybuttonlabel = Jangan Sekarang
     .secondarybuttonaccesskey = N
 appmenu-update-restart-message = Setelah mulai ulang cepat, { -brand-shorter-name } akan mengembalikan semua tab dan jendela terbuka Anda yang tidak berada di mode Penjelajahan Pribadi.
+appmenu-addon-private-browsing-installed =
+    .buttonlabel = Oke, paham
+    .buttonaccesskey = O
 appmenu-addon-post-install-message = Kelola pengaya Anda dengan mengeklik <image data-l10n-name='addon-install-icon'></image>di<image data-l10n-name='addon-menu-icon'></image> menu.
+appmenu-addon-private-browsing =
+    .label = Ubah ke ekstensi pada Jendela Pribadi
+    .buttonlabel = Kelola Ekstensi
+    .buttonaccesskey = M
+    .secondarybuttonlabel = Oke, paham
+    .secondarybuttonaccesskey = O
 appmenu-addon-private-browsing-message = Semua ekstensi baru yang Anda tambahkan ke { -brand-shorter-name } tidak akan berjalan di Jendela Pribadi kecuali Anda mengizinkannya di peraturan.
 appmenu-addon-private-browsing-learn-more = Pelajari cara mengelola pengaturan ekstensi.
