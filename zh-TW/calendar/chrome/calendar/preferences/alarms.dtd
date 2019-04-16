@@ -12,13 +12,14 @@
 <!ENTITY pref.calendar.alarms.playsound.accessKey "s">
 <!ENTITY pref.calendar.alarms.sound.useDefault.label "使用預設音效">
 <!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "d">
+<!ENTITY pref.calendar.alarms.sound.useCustom.label "使用下列音效檔案">
+<!ENTITY pref.calendar.alarms.sound.useCustom.accessKey "U">
 <!ENTITY pref.calendar.alarms.sound.browse.label "瀏覽…">
 <!ENTITY pref.calendar.alarms.sound.browse.accessKey "B">
 <!ENTITY pref.calendar.alarms.sound.play.label "播放">
 <!ENTITY pref.calendar.alarms.sound.play.accessKey "P">
 <!ENTITY pref.showalarmbox "顯示鬧鈴訊息">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "x">
-<!ENTITY pref.missedalarms "列出過期的鬧鈴">
 <!ENTITY pref.missedalarms2 "為可寫入的行事曆顯示錯過的提醒">
 <!ENTITY pref.calendar.alarms.missedAlarms.accessKey "m">
 <!ENTITY pref.calendar.alarms.defaults.label "鬧鈴預設值">
