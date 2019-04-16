@@ -13,7 +13,7 @@
 <!ENTITY pref.calendar.alarms.sound.useDefault.label "Använd standardljudet">
 <!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "A">
 <!ENTITY pref.calendar.alarms.sound.useCustom.label "Använd följande ljudfil">
-<!ENTITY pref.calendar.alarms.sound.useCustom.accessKey "U">
+<!ENTITY pref.calendar.alarms.sound.useCustom.accessKey "f">
 <!ENTITY pref.calendar.alarms.sound.browse.label "Bläddra…">
 <!ENTITY pref.calendar.alarms.sound.browse.accessKey "B">
 <!ENTITY pref.calendar.alarms.sound.play.label "Spela upp">
