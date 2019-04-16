@@ -25,3 +25,4 @@ appmenu-update-restart =
     .secondarybuttonlabel = Ani ko'ág̃a
     .secondarybuttonaccesskey = A
 appmenu-update-restart-message = Pya'e remoñepyrũjey rire, { -brand-shorter-name } omoĩmbajeýta tendayke ha ovetã rehecháva'ekue ha ndaha'éiva Kundahañemimegua.
+appmenu-addon-post-install-message = Eñangareko ne rembipuru'i eikutúvo <image data-l10n-name='addon-install-icon'></image> poravorã <image data-l10n-name='addon-menu-icon'></image> pegua.
