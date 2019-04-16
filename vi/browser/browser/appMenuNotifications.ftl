@@ -8,6 +8,7 @@ appmenu-update-available =
     .buttonaccesskey = D
     .secondarybuttonlabel = Không phải bây giờ
     .secondarybuttonaccesskey = N
+appmenu-update-available-message = Cập nhật { -brand-shorter-name } bản mới nhất để cải thiện tốc độ và bảo mật.
 appmenu-update-manual =
     .label = { -brand-shorter-name } không thể cập nhật lên phiên bản mới nhất.
     .buttonlabel = Tải { -brand-shorter-name }
