@@ -25,3 +25,4 @@ appmenu-update-restart =
     .secondarybuttonlabel = Ne zdaj
     .secondarybuttonaccesskey = N
 appmenu-update-restart-message = Po hitrem ponovnem zagonu bo { -brand-shorter-name } obnovil vse vaše odprte zavihke in okna, razen tistih v zasebnem brskanju.
+appmenu-addon-post-install-message = Upravljajte dodatke s klikom na <image data-l10n-name='addon-install-icon'></image> v meniju <image data-l10n-name='addon-menu-icon'></image>.
