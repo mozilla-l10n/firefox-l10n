@@ -24,3 +24,16 @@ appmenu-update-restart =
     .buttonaccesskey = B
     .secondarybuttonlabel = Une honetan ez
     .secondarybuttonaccesskey = z
+appmenu-update-restart-message = Berrabiarazi ondoren, nabigatze pribatuan ez dauden irekitako fitxa eta leiho guztiak berreskuratuko ditu { -brand-shorter-name }(e)k.
+appmenu-addon-private-browsing-installed =
+    .buttonlabel = Ados, ulertuta
+    .buttonaccesskey = u
+appmenu-addon-post-install-message = Kudeatu zure gehigarriak <image data-l10n-name='addon-menu-icon'></image> menuko <image data-l10n-name='addon-install-icon'></image> ikonoan klik eginez.
+appmenu-addon-private-browsing =
+    .label = Aldatu leiho pribatuetako hedapenetara
+    .buttonlabel = Kudeatu hedapenak
+    .buttonaccesskey = K
+    .secondarybuttonlabel = Ados, ulertuta
+    .secondarybuttonaccesskey = u
+appmenu-addon-private-browsing-message = Ezarpenetan baimendu ezean, { -brand-shorter-name }(e)ra gehitutako hedapen berriak ez dira leiho pribatuetan ibiliko.
+appmenu-addon-private-browsing-learn-more = Ikasi nola kudeatu hedapenen ezarpenak.
