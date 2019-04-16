@@ -24,3 +24,4 @@ appmenu-update-restart =
     .buttonaccesskey = R
     .secondarybuttonlabel = កុំ​ទាន់​អាល
     .secondarybuttonaccesskey = N
+appmenu-update-restart-message = បន្ទាប់ពីចាប់ផ្តើមឡើងវិញ { -brand-shorter-name } នឹងស្តារផ្ទាំង ដែលបើកទាំងអស់របស់អ្នក ដែលមិននៅក្នុង​មុខងារ​រុករក​ឯកជន។
