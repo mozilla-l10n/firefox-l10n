@@ -679,6 +679,22 @@ content-blocking-setting-custom =
     .label = Gnàthaichte
     .accesskey = G
 content-blocking-standard-description = Cha bhac seo ach tracaichean as aithne dhuinn ann an uinneagan prìobhaideach.
+content-blocking-standard-desc = Cothromachadh eadar dìon is dèanadas. Ceadaichidh seo cuid a thracaichean airson ’s gun obraich làraichean-lìn mar bu chòir.
+content-blocking-strict-desc = Bacaidh seo gach tracaiche a mhothaicheas { -brand-short-name } dhaibh. Dh’fhaoidte gum bris seo cuid a làraichean.
+content-blocking-strict-description = Dìon nas làidire, dh’fhaoidte gum bris seo cuid a làraichean.
+content-blocking-custom-desc = Tagh na thèid a bhacadh.
+content-blocking-private-trackers = Tracaichean as aithne dhuinn ann an uinneagan prìobhaideach a-mhàin
+content-blocking-third-party-cookies = Briosgaidean tracaidh le treas-phàrtaidhean
+content-blocking-all-cookies = Gach briosgaid
+content-blocking-unvisited-cookies = Briosgaidean o làraichean air nach deach tadhal
+content-blocking-all-windows-trackers = Tracaichean as aithne dhuinn anns gach uinneag
+content-blocking-all-third-party-cookies = Gach briosgaid le treas-phàrtaidh
+content-blocking-cryptominers = Criopto-mhèinneadairean
+content-blocking-fingerprinters = Lorgaichean-meur
+content-blocking-warning-title = An aire!
+content-blocking-warning-desc = Ma bhacas tu briosgaidean is tracaichean, dh’fhaoidte gum bris seo cuid a làraichean-lìn. Tha e furasta a chur à comas airson làraichean sa bheil earbsa agad.
+content-blocking-warning-description = Ma bhacas tu susbaint, dh’fhaoidte gum bris seo cuid a làraichean-lìn. Tha e furasta a chur à comas airson làraichean sa bheil earbsa agad.
+content-blocking-learn-how = Barrachd fiosrachaidh
 content-blocking-tracking-protection-change-block-list = Atharraich an liosta bacaidh
 
 ## Privacy Section - Tracking
