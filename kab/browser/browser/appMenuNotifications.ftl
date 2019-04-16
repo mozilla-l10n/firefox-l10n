@@ -25,5 +25,14 @@ appmenu-update-restart =
     .secondarybuttonlabel = Mačči tura
     .secondarybuttonaccesskey = T
 appmenu-update-restart-message = Seld askar arurad, { -brand-shorter-name } ad d-yerr akk accaren yeldin akked yisfayluyen ur nelli ara deg uskar n tunigin tusligt.
+appmenu-addon-private-browsing-installed =
+    .buttonlabel = Ih, awi-t-id
+    .buttonaccesskey = O
 appmenu-addon-post-install-message = Sefrek izegrar inek s usebbed γef <image data-l10n-name='addon-install-icon'></image> deg umuγ <image data-l10n-name='addon-menu-icon'></image>.
+appmenu-addon-private-browsing =
+    .label = Asnifel i yisiɣzaf def isfuyla usligen
+    .buttonlabel = Sefrek isiɣzaf
+    .buttonaccesskey = M
+    .secondarybuttonlabel = Ih, awi-t-id
+    .secondarybuttonaccesskey = O
 appmenu-addon-private-browsing-learn-more = Issin amek ara tesferkeḍ iɣewwaṛen n yisiɣzaf
