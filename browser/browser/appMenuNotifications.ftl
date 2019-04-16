@@ -29,3 +29,14 @@ appmenu-addon-private-browsing-installed =
     .buttonlabel = ตกลง เข้าใจแล้ว
     .buttonaccesskey = ต
 appmenu-addon-post-install-message = จัดการส่วนเสริมของคุณโดยคลิก <image data-l10n-name='addon-install-icon'></image> ใน <image data-l10n-name='addon-menu-icon'></image> เมนู
+appmenu-addon-post-install-incognito-checkbox =
+    .label = อนุญาตให้ส่วนขยายนี้ทำงานในหน้าต่างส่วนตัว
+    .accesskey = อ
+appmenu-addon-private-browsing =
+    .label = การเปลี่ยนแปลงกับส่วนขยายในหน้าต่างส่วนตัว
+    .buttonlabel = จัดการส่วนขยาย
+    .buttonaccesskey = จ
+    .secondarybuttonlabel = ตกลง เข้าใจแล้ว
+    .secondarybuttonaccesskey = ต
+appmenu-addon-private-browsing-message = ส่วนขยายใหม่ใด ๆ ที่คุณเพิ่มไปยัง { -brand-shorter-name } จะไม่ทำงานในหน้าต่างส่วนตัวนอกจากคุณจะอนุญาตสิ่งนี้ในการตั้งค่า
+appmenu-addon-private-browsing-learn-more = เรียนรู้วิธีการจัดการการตั้งค่าส่วนขยาย
