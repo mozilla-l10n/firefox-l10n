@@ -2,7 +2,19 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+appmenu-update-available =
+    .label = Yeni { -brand-shorter-name } yeniləməsi mövcuddur.
+    .buttonlabel = Yeniləməni Endir
+    .buttonaccesskey = D
+    .secondarybuttonlabel = Başqa Vaxt
+    .secondarybuttonaccesskey = N
 appmenu-update-available-message = Sürət və məxfilikdə son yeniliklər üçün { -brand-shorter-name } səyyahınızı yeniləyin.
+appmenu-update-manual =
+    .label = { -brand-shorter-name } son versiyaya yenilənə bilmir.
+    .buttonlabel = { -brand-shorter-name } Endir
+    .buttonaccesskey = D
+    .secondarybuttonlabel = Başqa Vaxt
+    .secondarybuttonaccesskey = N
 appmenu-update-manual-message = { -brand-shorter-name } səyyahının yeni nüsxəsini endir və biz sizə onu qurmağa kömək edəcik.
 appmenu-update-whats-new =
     .value = Yeniliklərə baxın.
