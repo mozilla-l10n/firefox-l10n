@@ -95,6 +95,11 @@
 
 <!ENTITY openAttachment.tooltip "Відкрити вкладений файл">
 
+<!ENTITY detachedAttachmentFolder.show.label        "Відкрити теку з файлом">
+<!ENTITY detachedAttachmentFolder.show.accesskey    "В">
+<!ENTITY detachedAttachmentFolder.showMac.label     "Показати у Finder">
+<!ENTITY detachedAttachmentFolder.showMac.accesskey "F">
+
 <!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label       "Зберегти">
 <!ENTITY saveAttachmentButton1.tooltip     "Зберегти вкладений файл">
