@@ -24,6 +24,7 @@ appmenu-update-restart =
     .buttonaccesskey = R
     .secondarybuttonlabel = Ne nun
     .secondarybuttonaccesskey = N
+appmenu-update-restart-message = Post rapida restarto { -brand-shorter-name } restarigos ĉiujn viajn malfermitajn langetojn kaj fenestrojn, kiuj ne estas en reĝimo de privata retumo.
 appmenu-addon-post-install-message = Administru viajn aldonaĵojn per alklako de <image data-l10n-name='addon-install-icon'></image> en la menuo <image data-l10n-name='addon-menu-icon'></image>.
 appmenu-addon-private-browsing-message = Neniu nova etendaĵo aldonita al { -brand-shorter-name } funkcios en privataj fenestroj, krom se vi tion permesas en la agordoj.
 appmenu-addon-private-browsing-learn-more = Pli da informo pri administro de agordoj de etendaĵoj.
