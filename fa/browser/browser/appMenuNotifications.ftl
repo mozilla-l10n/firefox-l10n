@@ -25,3 +25,7 @@ appmenu-update-restart =
     .secondarybuttonlabel = اکنون نه
     .secondarybuttonaccesskey = ا
 appmenu-update-restart-message = بعد ازیک راه اندازی مجدد،‌{ -brand-shorter-name } تمامی زبانه‌ها و پنجره‌های باز شما را بازآوری می‌زند به جز مواردی که در حالت مرور خصوصی بوده‌اند.
+appmenu-addon-private-browsing-installed =
+    .buttonlabel = باشه، فهمیدم
+    .buttonaccesskey = O
+appmenu-addon-post-install-message = با کلیک بر روی <image data-l10n-name='addon-install-icon'></image> در منو <image data-l10n-name='addon-menu-icon'></image> افزونه‌های خود را مدیریت کنید.
