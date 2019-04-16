@@ -58,6 +58,7 @@ policy-HardwareAcceleration = False 값이면 하드웨어 가속 기능을 끕�
 policy-Homepage = 홈페이지를 설정하고 선택적으로 잠급니다.
 policy-InstallAddonsPermission = 특정 웹사이트가 부가 기능을 설치할 수 있게 허용합니다.
 policy-NetworkPrediction = 네트워크 예측(DNS 프리페칭)을 사용 또는 사용하지 않게 합니다.
+policy-NewTabPage = 새 탭 페이지를 활성화하거나 비활성화합니다.
 policy-NoDefaultBookmarks = { -brand-short-name } 기본 북마크 번들과 스마트 북마크(자주 방문, 최근 태그)가 생성되지 않게 합니다. 참고: 이 정책은 프로필을 처음으로 실행하기 전에만 효과적입니다.
 policy-OfferToSaveLogins = { -brand-short-name }가 로그인과 비밀번호 기억을 제공하도록 허용하는 설정을 강제합니다. True와 false 값을 사용할 수 있습니다.
 policy-OverrideFirstRunPage = 처음 시작 페이지 설정을 재정의 합니다. 처음 시작 페이지를 비활성화 하려면 이 정책을 빈칸으로 설정하세요.
@@ -70,6 +71,7 @@ policy-RequestedLocales = 어플리케이션의 요청된 로케일의 목록을
 policy-SanitizeOnShutdown = 종료시 모든 네비게이션 데이터를 삭제합니다.
 policy-SearchBar = 검색 바의 기본 위치를 설정합니다. 사용자가 다시 재설정 할 수 있습니다.
 policy-SearchEngines = 검색 엔진 설정을 구성합니다. 이 정책은 확장 지원 버전(ESR)에서만 가능합니다.
+policy-SearchSuggestEnabled = 추천 검색어를 활성화하거나 비활성화합니다.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = PKCS #11 모듈을 설치합니다.
 policy-SSLVersionMax = 최대 SSL 버전을 설정합니다.
