@@ -25,4 +25,7 @@ appmenu-update-restart =
     .secondarybuttonlabel = હમણાં નહિં
     .secondarybuttonaccesskey = N
 appmenu-update-restart-message = ઝડપી પુનઃપ્રારંભ પછી, { -brand-shorter-name } તમારા બધા ખુલ્લા ટેબ્સ અને વિંડોઝને પુનઃસ્થાપિત કરશે જે ખાનગી બ્રાઉઝિંગ મોડમાં નથી.
+appmenu-addon-private-browsing-installed =
+    .buttonlabel = ઠીક છે, સમજાઇ ગયું
+    .buttonaccesskey = O
 appmenu-addon-post-install-message = <image data-l10n-name='addon-install-icon'></image> મેનૂમાં <image data-l10n-name='addon-menu-icon'></image> ક્લિક કરીને તમારા ઍડ-ઑનને સંચાલિત કરો.
