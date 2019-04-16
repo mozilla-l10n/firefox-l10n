@@ -23,6 +23,7 @@ appmenu-update-restart =
     .buttonaccesskey = R
     .secondarybuttonlabel = এখন নয়
     .secondarybuttonaccesskey = N
+appmenu-update-restart-message = দ্রুত পুনরাম্ভের পরে, { -brand-shorter-name } আপনার সমস্ত খোলা ট্যাব এবং উইন্ডোগুলি পুনরুদ্ধার করবে যা ব্যক্তিগত ব্রাউজিং মোডে নয়।
 appmenu-addon-private-browsing-installed =
     .buttonlabel = ঠিকাছে, বুঝতে পেরেছি
     .buttonaccesskey = O
