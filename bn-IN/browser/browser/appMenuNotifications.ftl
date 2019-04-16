@@ -24,4 +24,5 @@ appmenu-update-restart =
     .buttonaccesskey = R
     .secondarybuttonlabel = এই মুহূর্তে নয়
     .secondarybuttonaccesskey = N
+appmenu-update-restart-message = দ্রুত পুনর্সূচনার পরে, { -brand-shorter-name } আপনার সমস্ত খোলা ট্যাব এবং উইন্ডোগুলি পুনরুদ্ধার করবে যা ব্যক্তিগত ব্রাউজিং মোডে ছিল না।
 appmenu-addon-post-install-message = আপনার অ্যাড-অন পরিচালনা করতে <image data-l10n-name='addon-install-icon'></image> মেনুতে <image data-l10n-name='addon-menu-icon'></image> ক্লিক করুন।
