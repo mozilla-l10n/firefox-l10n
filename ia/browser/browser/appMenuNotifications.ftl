@@ -1,0 +1,27 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+appmenu-update-available =
+    .label = Un nove actualisation de { -brand-shorter-name } es disponibile.
+    .buttonlabel = Discargar actualisation
+    .buttonaccesskey = D
+    .secondarybuttonlabel = Non ora
+    .secondarybuttonaccesskey = N
+appmenu-update-available-message = Actualisa tu { -brand-shorter-name } pro le plus recente rapiditate e confidentialitate.
+appmenu-update-manual =
+    .label = { -brand-shorter-name } non pote actualisar al ultime version.
+    .buttonlabel = Discargar { -brand-shorter-name }
+    .buttonaccesskey = D
+    .secondarybuttonlabel = Non ora
+    .secondarybuttonaccesskey = N
+appmenu-update-manual-message = Discarga un nove copia de { -brand-shorter-name } e nos te adjutara a installar lo.
+appmenu-update-whats-new =
+    .value = Vider le novas.
+appmenu-update-restart =
+    .label = Reinitiar pro actualisar { -brand-shorter-name }.
+    .buttonlabel = Reinitiar e Restaurar
+    .buttonaccesskey = R
+    .secondarybuttonlabel = Non ora
+    .secondarybuttonaccesskey = N
+appmenu-update-restart-message = Post reinitiar rapidemente, { -brand-shorter-name } restaurara tote tu schedas e fenestras aperite que non esseva in modo de navigation private.
