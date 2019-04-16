@@ -18,4 +18,11 @@ appmenu-update-manual =
 appmenu-update-manual-message = Download a fresh copy of { -brand-shorter-name } and we’ll help you to install it.
 appmenu-update-whats-new =
     .value = See what’s new.
+appmenu-update-restart =
+    .label = Puorstarteit { -brand-shorter-name }, kab atjaunynuotu.
+    .buttonlabel = Porstarteit i atjaunōt
+    .buttonaccesskey = r
+    .secondarybuttonlabel = Na tagad
+    .secondarybuttonaccesskey = N
 appmenu-update-restart-message = After a quick restart, { -brand-shorter-name } will restore all your open tabs and windows that are not in Private Browsing mode.
+appmenu-addon-post-install-message = Prvoldi sovus paplašinojumus damīdzūt <image data-l10n-name='addon-install-icon'></image> <image data-l10n-name='addon-menu-icon'></image> izvieļnī.
