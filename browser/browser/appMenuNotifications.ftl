@@ -24,3 +24,4 @@ appmenu-update-restart =
     .buttonaccesskey = R
     .secondarybuttonlabel = अभी नहीं
     .secondarybuttonaccesskey = N
+appmenu-update-restart-message = शीघ्र पुनरारंभ करने के बाद { -brand-shorter-name } आपके उन सभी खुले टैब और विंडो को पुनर्स्थापित करेगा जो निजी ब्राउज़िंग मोड में नहीं हैं.
