@@ -23,3 +23,6 @@ appmenu-update-restart =
     .buttonaccesskey = R
     .secondarybuttonlabel = এখন নয়
     .secondarybuttonaccesskey = N
+appmenu-addon-private-browsing-installed =
+    .buttonlabel = ঠিকাছে, বুঝতে পেরেছি
+    .buttonaccesskey = O
