@@ -127,6 +127,10 @@ about-debugging-network-locations-remove-button = Tiyuj
 # Variables:
 #   $host-value (string) - The input value submitted by the user in the network locations form
 about-debugging-network-location-form-invalid = Man okel ta ri ruk'u'x samaj “{ $host-value }”. Ri rub'anikil oyob'en ja ri “hostname:portnumber”.
+# Text used as error message if the input value was already registered in the network locations form of the Setup page.
+# Variables:
+#   $host-value (string) - The input value submitted by the user in the network locations form
+about-debugging-network-location-form-duplicate = Ri ruk'u'x samaj “{ $host-value }” tz'ib'an chik rub'i'
 
 # Runtime Page strings
 
@@ -150,6 +154,28 @@ about-debugging-runtime-shared-workers =
 # Title of the other workers category.
 about-debugging-runtime-other-workers =
     .name = Ch'aqa' chik Samajela'
+# Title of the processes category.
+about-debugging-runtime-processes =
+    .name = Taq tajin
+# Label of the button opening the performance profiler panel in runtime pages for remote
+# runtimes.
+about-debugging-runtime-profile-button = Ruwäch Ruq'ijul samaj
+# This string is displayed in the runtime page if the current configuration of the
+# target runtime is incompatible with service workers. "Learn more" points to MDN.
+# https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
+about-debugging-runtime-service-workers-not-compatible = Ri runuk'ulem awokik'amaya'l man nuk'äm ta ri' rik'in ri Service Workers. <a>Tetamäx rub'eyal</a>
+# This string is displayed in the runtime page if the remote browser version is too old.
+# "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/WebIDE/Troubleshooting
+# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
+# { $minVersion } is the minimum version that is compatible with the current Firefox instance (same format)
+about-debugging-browser-version-too-old = Ri ruq'ijul samaj okisan ojer rub'anikil ({ $runtimeVersion }). Ri ko'öl ruwäch nuk'äm ri' ja ri ({ $minVersion }). Rere' jun man nuk'äm ta ri' chi nuk'ulem ri nitikïr nub'än chi nisach ri DevTools. Tak'exa' ri ruq'ijul samaj okisan. <a>Kisolik taq k'ayewal</a>
+# Dedicated message for a backward compatibility issue that occurs when connecting:
+# - from Fx 67 to 66 or to 65
+# - from Fx 68 to 66
+# Those are normally in range for DevTools compatibility policy, but specific non
+# backward compatible changes broke the debugger in those scenarios (Bug 1528219).
+# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
+about-debugging-browser-version-too-old-67-debugger = Rik'in jub'a' man nisamäj ta ri ruchojmirisanel pas rik'in ri okik'amaya'l okisan. Tawokisaj Firefox { $runtimeVersion } we nawajo' nawokisaj ri chojmirisanel rik'in re okik'amaya'l re'.
 # Text of a button displayed in Runtime pages for remote runtimes.
 # Clicking on the button will close the connection to the runtime.
 about-debugging-runtime-disconnect-button = Tichup
