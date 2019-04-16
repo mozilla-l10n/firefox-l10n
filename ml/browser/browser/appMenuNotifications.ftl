@@ -2,7 +2,19 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+appmenu-update-available =
+    .label = പുതിയ { -brand-shorter-name } പുതുക്കല്‍ ലഭ്യമാണ്.
+    .buttonlabel = പുതുക്കല്‍ ഡൗൺലോഡു
+    .buttonaccesskey = D
+    .secondarybuttonlabel = ഇപ്പോൾ വേണ്ട
+    .secondarybuttonaccesskey = N
 appmenu-update-available-message = മികച്ച വേഗതയ്ക്കും സ്വകാര്യതക്കും നിങ്ങളുടെ { -brand-shorter-name } അപ്ഡേറ്റ് ചെയ്യുക.
+appmenu-update-manual =
+    .label = { -brand-shorter-name } നു പുതിയ പതിപ്പിലേക്ക് പുതുക്കാന്‍ പറ്റില്ല.
+    .buttonlabel = { -brand-shorter-name } ഡൌൺലോഡ് ചെയ്യുക
+    .buttonaccesskey = D
+    .secondarybuttonlabel = ഇപ്പോൾ വേണ്ട
+    .secondarybuttonaccesskey = N
 appmenu-update-manual-message = { -brand-shorter-name } ന്റെ പുതിയ പകർപ്പ് ഡൌൺലോഡ് ചെയ്യുക. അത് ഇൻസ്റ്റാൾ ചെയ്യാൻ ഞങ്ങൾ നിങ്ങളെ സഹായിക്കാം.
 appmenu-update-whats-new =
     .value = പുതിയതായി എന്താണ് ഉള്ളതെന്ന് കാണുക.
