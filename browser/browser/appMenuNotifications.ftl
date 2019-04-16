@@ -2,11 +2,26 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+appmenu-update-available =
+    .label = Даступна новая версія { -brand-shorter-name }.
+    .buttonlabel = Сцягнуць абнаўленне
+    .buttonaccesskey = С
+    .secondarybuttonlabel = Не цяпер
+    .secondarybuttonaccesskey = Н
 appmenu-update-manual =
     .label = { -brand-shorter-name } не можа абнавіцца да апошняй версіі.
     .buttonlabel = Сцягнуць { -brand-shorter-name }
     .buttonaccesskey = С
     .secondarybuttonlabel = Не цяпер
+    .secondarybuttonaccesskey = Н
+appmenu-update-manual-message = Сцягніце новую версію { -brand-shorter-name } і мы дапаможам вам яе ўсталяваць.
+appmenu-update-whats-new =
+    .value = Што новага.
+appmenu-update-restart =
+    .label = Перазапуск для абнаўлення { -brand-shorter-name }.
+    .buttonlabel = Перазапусціць і аднавіць
+    .buttonaccesskey = К
+    .secondarybuttonlabel = Не зараз
     .secondarybuttonaccesskey = Н
 appmenu-addon-private-browsing-installed =
     .buttonlabel = Добра, зразумела
