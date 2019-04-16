@@ -86,6 +86,8 @@ about-debugging-setup-this-firefox = Wužiwajće <a>{ about-debugging-this-firef
 about-debugging-setup-connect-heading = Z gratom zwjazać
 # USB section of the Setup page
 about-debugging-setup-usb-title = USB
+# Explanatory text displayed in the Setup page when USB debugging is disabled
+about-debugging-setup-usb-disabled = Hdyž so to zmóžnja, so trěbne komponenty za pytanje zmylkow USB Android sćehnu a so { -brand-shorter-name } přidadźa.
 # Text of the button displayed in the USB section of the setup page when USB debugging is disabled.
 # Clicking on it will download components needed to debug USB Devices remotely.
 about-debugging-setup-usb-enable-button = USB-graty zmóžnić
@@ -100,6 +102,10 @@ about-debugging-setup-usb-status-disabled = Znjemóžnjeny
 about-debugging-setup-usb-status-updating = Aktualizuje so…
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-dev-menu = Zmóžńće meni wuwiwarjow na swojim graće Android. <a>Zhońće kak</a>
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug = Zmóžńće pytanje zmylkow USB w meniju wuwiarja Android. <a>Zhońće kak</a>
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug-firefox = Zmóžńće pytanje zmylkow w Firefox na graće Android. <a>Zhońće kak</a>
 # USB section step by step guide
 about-debugging-setup-usb-step-plug-device = Zwjazajće grat Android ze swojim ličakom.
 # Network section of the Setup page
@@ -170,6 +176,13 @@ about-debugging-browser-version-too-old = Zwjazany wobhladowak ma staru wersiju 
 # backward compatible changes broke the debugger in those scenarios (Bug 1528219).
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 about-debugging-browser-version-too-old-67-debugger = Polo pytanja zmylkow snano ze zwjazanym wobhladowakom njefunguje. Prošu wužiwajće Firefox { $runtimeVersion }, jeli dyrbiće pytanje zmylkow z tutym wobhladowakom.
+# This string is displayed in the runtime page if the remote browser version is too recent.
+# "Troubleshooting" link points to https://developer.mozilla.org/en-US/docs/Tools/WebIDE/Troubleshooting
+# { $runtimeID } is the build ID of the remote browser (for instance "20181231", format is yyyyMMdd)
+# { $localID } is the build ID of the current Firefox instance (same format)
+# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
+# { $localVersion } is the version of your current browser (same format)
+about-debugging-browser-version-too-recent = Zwjazany wobhladowak je aktualniši ({ $runtimeVersion }, buildID { $runtimeID }) hač waš { -brand-shorter-name } ({ $localVersion }, buildID { $localID }). To je njepodpěrana konfiguracija a móže zawinować, zo wuwiwarske nastroje njefunguja. Prošu aktualizujće Firefox. <a>Rozrisanje problemow</a>
 # Displayed for runtime info in runtime pages.
 # { $name } is brand name such as "Firefox Nightly"
 # { $version } is version such as "64.0a1"
