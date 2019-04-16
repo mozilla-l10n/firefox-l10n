@@ -11,3 +11,4 @@
 <!ENTITY window.style "width: 490px">
 <!ENTITY continue-button "Συνέχεια">
 
+<!ENTITY mainText "Αυτή η εγκατάσταση του &brandShortName; έχει ένα νέο προφίλ. Δεν μοιράζεται σελιδοδείκτες, κωδικούς πρόσβασης και προτιμήσεις χρήστη με άλλες εγκαταστάσεις του Firefox (συμπεριλαμβανομένων των Firefox, Firefox ESR, Firefox Beta, Firefox Developer Edition και Firefox Nightly) σε αυτό τον υπολογιστή.">

@@ -677,9 +677,11 @@ content-blocking-all-cookies = Όλα τα cookies
 content-blocking-all-windows-trackers = Γνωστοί ιχνηλάτες σε όλα τα ιδιωτικά παράθυρα
 content-blocking-all-third-party-cookies = Όλα τα cookies τρίτων
 content-blocking-cryptominers = Εξορύκτες κρυπτονομισμάτων
+content-blocking-fingerprinters = Ανιχνευτές αποτυπωμάτων
 content-blocking-warning-title = Προσοχή!
 content-blocking-warning-desc = Η φραγή των cookies και των ιχνηλατών μπορεί να προκαλέσει δυσλειτουργία σε ορισμένες ιστοσελίδες. Μπορείτε εύκολα να απενεργοποιήσετε τη φραγή σε ιστοσελίδες που εμπιστεύεστε.
 content-blocking-learn-how = Μάθετε πώς
+content-blocking-reload-description = Θα πρέπει να φορτώσετε ξανά τις καρτέλες σας για εφαρμογή των αλλαγών αυτών.
 content-blocking-reload-tabs-button =
     .label = Ανανέωση όλων των καρτελών
     .accesskey = Α
@@ -698,6 +700,15 @@ content-blocking-cookies-label =
     .accesskey = C
 content-blocking-expand-section =
     .tooltiptext = Περισσότερες πληροφορίες
+# Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
+content-blocking-cryptominers-label =
+    .label = Εξορύκτες κρυπτονομισμάτων
+    .accesskey = ξ
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+content-blocking-fingerprinters-label =
+    .label = Ανιχνευτές αποτυπωμάτων
+    .accesskey = Α
 
 ## Privacy Section - Tracking
 
