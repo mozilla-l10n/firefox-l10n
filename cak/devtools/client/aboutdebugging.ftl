@@ -196,6 +196,17 @@ about-debugging-connection-prompt-enable-button = Titzij ri tz'etöy okem
 # Text of the connection prompt button displayed in Runtime pages, when the preference
 # "devtools.debugger.prompt-connection" is true on the target runtime.
 about-debugging-connection-prompt-disable-button = Tichup ri tz'etöy okem
+# Title of a modal dialog displayed on remote runtime pages after clicking on the Profile Runtime button.
+about-debugging-profiler-dialog-title = Ruwäch Rub'eyal Nisamäj
+# Label of a checkbox displayed in the runtime page for "This Firefox".
+# This checkbox will toggle preferences that enable local addon debugging.
+# The "Learn more" link points to MDN.
+# https://developer.mozilla.org/docs/Tools/about:debugging#Enabling_add-on_debugging
+about-debugging-extension-debug-setting-label = Titzij ri kichojmirisanem taq k'amal. <a>Tetamäx ch'aqa' chik</a>
+# Clicking on the header of a debug target category will expand or collapse the debug
+# target items in the category. This text is used as ’title’ attribute of the header,
+# to describe this feature.
+about-debugging-collapse-expand-debug-targets = Tich'utinirisáx / Tirik'
 
 # Debug Targets strings
 
@@ -209,12 +220,21 @@ about-debugging-debug-target-inspect-button = Tinik'öx
 # Text of a button displayed in the "This Firefox" page, in the Temporary Extension
 # section. Clicking on the button will open a file picker to load a temporary extension
 about-debugging-tmp-extension-install-button = Tisamajib'ëx Jumej Tz'aqat…
+# Text displayed when trying to install a temporary extension in the "This Firefox" page.
+about-debugging-tmp-extension-install-error = Xwachin jun sachoj toq niyak ri jumej tz'aqat.
 # Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
 # Clicking on the button will reload the extension.
 about-debugging-tmp-extension-reload-button = Tisamajib'ëx chik
 # Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
 # Clicking on the button will uninstall the extension and remove it from the page.
 about-debugging-tmp-extension-remove-button = Tiyuj
+# Message displayed in the file picker that opens to select a temporary extension to load
+# (triggered by the button using "about-debugging-tmp-extension-install-button")
+# manifest.json .xpi and .zip should not be localized.
+# Note: this message is only displayed in Windows and Linux platforms.
+about-debugging-tmp-extension-install-message = Ticha' ri manifest.json yakb'äl o ri .xpi / .zip yakb'äl
+# This string is displayed as a message about the add-on having a temporaryID.
+about-debugging-tmp-extension-temporary-id = Re WebExtension k'o jun jumej rub'anikil. <a>Tetamäx ch'aqa' chik</a>
 # Text displayed for extensions in "runtime" pages, before displaying a link the extension's
 # manifest URL.
 about-debugging-extension-manifest-url =
