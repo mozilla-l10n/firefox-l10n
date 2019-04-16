@@ -606,6 +606,8 @@
 <!ENTITY compactButton.tooltip "Fjern slettede meddelelser fra valgte mappe">
 <!ENTITY appmenuButton1.tooltip "Vis &brandShortName;-menuen">
 
+<!ENTITY addonsButton.tooltip "Håndter dine tilføjelser">
+
 <!-- Toolbar Button Popup -->
 <!ENTITY buttonMenuForwardAsInline.label "Videresend som en del af meddelelsen">
 <!ENTITY buttonMenuForwardAsAttachment.label "Videresend som vedhæftet fil">
@@ -813,13 +815,6 @@
 <!ENTITY contextPrintPreview.label "Vis udskrift">
 <!ENTITY contextPrintPreview.accesskey "d">
 
-<!-- Thread Pane Column Picker -->
-<!-- LOCALIZATION NOTE (columnPicker.resetToInbox.label):
-     This option in the thread pane column picker causes us to reset the
-     customizations for the thread pane columns in this folder to their default.
-  -->
-<!ENTITY columnPicker.resetToInbox.label "Nulstil kolonner til standard">
-
 <!-- LOCALIZATION NOTE (columnPicker.applyTo.label):
      This option in the thread pane column picker pops up a sub-menu containing
      the "columnPicker.applyToFolder.label" and
@@ -859,7 +854,6 @@
      "File here" option for the move to/copy to widget.
   -->
 <!ENTITY columnPicker.thisFolder.label "Denne mappe">
-
 
 <!-- Media (video/audio) controls -->
 <!ENTITY contextPlay.label "Afspil">

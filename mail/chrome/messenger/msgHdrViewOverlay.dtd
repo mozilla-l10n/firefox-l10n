@@ -95,14 +95,16 @@
 
 <!ENTITY openAttachment.tooltip "Åbn den vedhæftede fil">
 
+<!ENTITY detachedAttachmentFolder.showMac.label     "Vis i Finder">
+
 <!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label       "Gem">
 <!ENTITY saveAttachmentButton1.tooltip     "Gem den vedhæftede fil">
 <!ENTITY saveAllAttachmentsButton1.label   "Gem alle">
 <!ENTITY saveAllAttachmentsButton1.tooltip "Gem alle vedhæftede filer">
 
-<!ENTITY copyLinkCmd.label "Kopier linkadresse">
-<!ENTITY copyLinkCmd.accesskey "K">
+<!ENTITY copyLinkCmd.label        "Kopier linkadresse">
+<!ENTITY copyLinkCmd.accesskey    "K">
 
 <!ENTITY CopyMessageId.label "Kopier meddelelse-ID">
 <!ENTITY CopyMessageId.accesskey "K">
