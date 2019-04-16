@@ -260,6 +260,14 @@ about-debugging-worker-action-push = Tinim
 about-debugging-worker-action-start = Titikirisäx
 # This string is displayed as a label of the button that unregisters a service worker.
 about-debugging-worker-action-unregister = Tiyuj ri tz'ib'axïk
+# Displayed for service workers in runtime pages that listen to Fetch events.
+about-debugging-worker-fetch-listening =
+    .label = Fetch
+    .value = Nak'axäx richin yekanöx taq molojri'ïl
+# Displayed for service workers in runtime pages that do not listen to Fetch events.
+about-debugging-worker-fetch-not-listening =
+    .label = Fetch
+    .value = Man ke'ak'axäx fetch taq molojri'ïl
 # Displayed for service workers in runtime pages that are currently running (service
 # worker instance is active).
 about-debugging-worker-status-running = Rub'anik
@@ -277,3 +285,6 @@ about-debugging-worker-push-service =
 # Displayed as name for the Main Process debug target in the Processes category. Only for
 # remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-main-process-name = Nimaläj Tajin
+# Displayed as description for the Main Process debug target in the Processes category.
+# Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
+about-debugging-main-process-description2 = Nïm Tajin richin ri okik'amaya'l napon wi.
