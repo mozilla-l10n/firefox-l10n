@@ -24,3 +24,4 @@ appmenu-update-restart =
     .buttonaccesskey = r
     .secondarybuttonlabel = Ekki núna
     .secondarybuttonaccesskey = n
+appmenu-update-restart-message = Eftir endurræsingu, mun { -brand-shorter-name } endurheimta alla opna flipa og glugga sem eru ekki í huliðsham.
