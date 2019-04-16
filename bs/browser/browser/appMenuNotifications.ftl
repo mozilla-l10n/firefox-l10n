@@ -25,3 +25,4 @@ appmenu-update-restart =
     .secondarybuttonlabel = Ne sada
     .secondarybuttonaccesskey = N
 appmenu-update-restart-message = Nakon brzog restarta, { -brand-shorter-name } će vratiti sve vaše otvorene tabove i prozore koji nisu u Privatnom režimu rada.
+appmenu-addon-post-install-message = Upravljajte vašim add-onima klikom na <image data-l10n-name='addon-install-icon'></image> u <image data-l10n-name='addon-menu-icon'></image> meniju.
