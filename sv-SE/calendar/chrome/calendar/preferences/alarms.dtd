@@ -12,13 +12,14 @@
 <!ENTITY pref.calendar.alarms.playsound.accessKey "S">
 <!ENTITY pref.calendar.alarms.sound.useDefault.label "Använd standardljudet">
 <!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "A">
+<!ENTITY pref.calendar.alarms.sound.useCustom.label "Använd följande ljudfil">
+<!ENTITY pref.calendar.alarms.sound.useCustom.accessKey "U">
 <!ENTITY pref.calendar.alarms.sound.browse.label "Bläddra…">
 <!ENTITY pref.calendar.alarms.sound.browse.accessKey "B">
 <!ENTITY pref.calendar.alarms.sound.play.label "Spela upp">
 <!ENTITY pref.calendar.alarms.sound.play.accessKey "S">
 <!ENTITY pref.showalarmbox "Visa påminnelse">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "V">
-<!ENTITY pref.missedalarms "Visa missade påminnelser">
 <!ENTITY pref.missedalarms2 "Visa missade påminnelser för skrivbara kalendrar">
 <!ENTITY pref.calendar.alarms.missedAlarms.accessKey "m">
 <!ENTITY pref.calendar.alarms.defaults.label "Påminnelseinställningar">
