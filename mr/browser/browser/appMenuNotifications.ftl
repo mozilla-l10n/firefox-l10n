@@ -24,3 +24,4 @@ appmenu-update-restart =
     .buttonaccesskey = R
     .secondarybuttonlabel = आत्ता नाही
     .secondarybuttonaccesskey = N
+appmenu-update-restart-message = द्रुत पुनःसुरु केल्यानंतर, { -brand-shorter-name } आपल्या सर्व उघडे टॅब आणि पटल जे खाजगी ब्राउझिंग स्थितीमध्ये नसतील, ते पुनर्संचयित करेल.
