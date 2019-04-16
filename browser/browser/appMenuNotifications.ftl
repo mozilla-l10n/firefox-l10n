@@ -24,3 +24,5 @@ appmenu-update-restart =
     .buttonaccesskey = R
     .secondarybuttonlabel = Ara no
     .secondarybuttonaccesskey = n
+appmenu-update-restart-message = Després d'un reinici ràpid, el { -brand-shorter-name } restaurarà totes les pestanyes i obertes i les finestres que no estiguin en mode de navegació privada.
+appmenu-addon-post-install-message = Gestioneu els vostres complements fent clic a <image data-l10n-name='addon-install-icon'></image> al menú <image data-l10n-name='addon-menu-icon'></image>.
