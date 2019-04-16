@@ -606,6 +606,8 @@
 <!ENTITY compactButton.tooltip "Lemel ar c'hemennadennoù dilamet diouzh an teuliad diuzet">
 <!ENTITY appmenuButton1.tooltip "Diskouez al lañser &brandShortName;">
 
+<!ENTITY addonsButton.tooltip "Merañ hoc'h askouezhioù">
+
 <!-- Toolbar Button Popup -->
 <!ENTITY buttonMenuForwardAsInline.label "Treuzkas evel testenn enkorfet">
 <!ENTITY buttonMenuForwardAsAttachment.label "Treuzkas evel kenstagadur">
@@ -813,12 +815,6 @@
 <!ENTITY contextPrintPreview.label "Alberz moullañ">
 <!ENTITY contextPrintPreview.accesskey "u">
 
-<!-- Thread Pane Column Picker -->
-<!-- LOCALIZATION NOTE (columnPicker.resetToInbox.label):
-     This option in the thread pane column picker causes us to reset the
-     customizations for the thread pane columns in this folder to their default.
-  -->
-<!ENTITY columnPicker.resetToInbox.label "Adderaouekaat ar bannoù dre ziouer">
 <!-- LOCALIZATION NOTE (columnPicker.applyTo.label):
      This option in the thread pane column picker pops up a sub-menu containing
      the "columnPicker.applyToFolder.label" and
@@ -858,7 +854,6 @@
      "File here" option for the move to/copy to widget.
   -->
 <!ENTITY columnPicker.thisFolder.label "An teuliad-mañ">
-
 
 <!-- Media (video/audio) controls -->
 <!ENTITY contextPlay.label "Lenn">

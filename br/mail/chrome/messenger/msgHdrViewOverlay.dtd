@@ -70,12 +70,12 @@
 <!ENTITY viewSourceMenuItem1.accesskey "G">
 <!ENTITY otherActionsPrint1.label "Moullañ…">
 <!ENTITY otherActionsPrint1.accesskey "M">
-<!-- Attachment bar context menu items -->
 
+<!-- Attachment bar context menu items -->
 <!ENTITY startExpandedCmd.label    "Diskouez penel ar c'henstagadurioù dre ziouer">
 <!ENTITY startExpandedCmd.accesskey    "i">
-<!-- Attachment context menu items -->
 
+<!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label    "Digeriñ">
 <!ENTITY openAttachmentCmd.accesskey    "D">
 <!ENTITY saveAsAttachmentCmd.label    "Enrollañ evel…">
@@ -94,8 +94,13 @@
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "m">
 
 <!ENTITY openAttachment.tooltip "Digeriñ ar restr stag">
-<!-- Attachment toolbar items -->
 
+<!ENTITY detachedAttachmentFolder.show.label        "Digeriñ an teuliad a endalc'h ar restr">
+<!ENTITY detachedAttachmentFolder.show.accesskey    "D">
+<!ENTITY detachedAttachmentFolder.showMac.label     "Diskouez e-barzh Finder">
+<!ENTITY detachedAttachmentFolder.showMac.accesskey "D">
+
+<!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label       "Enrollañ">
 <!ENTITY saveAttachmentButton1.tooltip     "Enrollañ ar restr stag">
 <!ENTITY saveAllAttachmentsButton1.label   "Enrollañ pep tra">
