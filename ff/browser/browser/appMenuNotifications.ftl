@@ -24,3 +24,4 @@ appmenu-update-restart =
     .buttonaccesskey = H
     .secondarybuttonlabel = Wonaa Jooni
     .secondarybuttonaccesskey = W
+appmenu-update-restart-message = Ɓaawo kurtinal jaawngal, { -brand-shorter-name } maa artir tabbe maa e kenotɗe udditiiɗe fof ɗe ngonaa e mbayka Peeragol cuuringol.
