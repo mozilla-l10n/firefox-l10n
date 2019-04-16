@@ -12,6 +12,8 @@
 <!ENTITY pref.calendar.alarms.playsound.accessKey "t">
 <!ENTITY pref.calendar.alarms.sound.useDefault.label "Utilisar il tun da standard">
 <!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "s">
+<!ENTITY pref.calendar.alarms.sound.useCustom.label "Utilisar la suandanta datoteca da tun">
+<!ENTITY pref.calendar.alarms.sound.useCustom.accessKey "U">
 <!ENTITY pref.calendar.alarms.sound.browse.label "Navigar…">
 <!ENTITY pref.calendar.alarms.sound.browse.accessKey "N">
 <!ENTITY pref.calendar.alarms.sound.play.label "Far ir">
