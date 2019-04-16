@@ -13,7 +13,7 @@
 <!ENTITY ccField.label "Cc: ">
 <!ENTITY bccField.label "Bcc: ">
 <!ENTITY newsgroupsField.label "Grupos de notícias: ">
-<!ENTITY followupToField.label "Reencaminhar para: ">
+<!ENTITY followupToField.label "Reencaminhar-Para: ">
 
 <!ENTITY tagsHdr.label "Etiquetas: ">
 <!ENTITY dateField.label "Data: ">
