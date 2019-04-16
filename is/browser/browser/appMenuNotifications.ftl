@@ -25,3 +25,4 @@ appmenu-update-restart =
     .secondarybuttonlabel = Ekki núna
     .secondarybuttonaccesskey = n
 appmenu-update-restart-message = Eftir endurræsingu, mun { -brand-shorter-name } endurheimta alla opna flipa og glugga sem eru ekki í huliðsham.
+appmenu-addon-post-install-message = Sýslaðu með viðbætur með því að smella á <image data-l10n-name='addon-install-icon'></image> í <image data-l10n-name='addon-menu-icon'></image> valmyndinni.
