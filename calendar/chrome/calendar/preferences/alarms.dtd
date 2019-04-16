@@ -12,13 +12,14 @@
 <!ENTITY pref.calendar.alarms.playsound.accessKey "s">
 <!ENTITY pref.calendar.alarms.sound.useDefault.label "Utilizar som pré-definido">
 <!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "d">
+<!ENTITY pref.calendar.alarms.sound.useCustom.label "Utilizar o seguinte ficheiro de som">
+<!ENTITY pref.calendar.alarms.sound.useCustom.accessKey "U">
 <!ENTITY pref.calendar.alarms.sound.browse.label "Escolher…">
 <!ENTITY pref.calendar.alarms.sound.browse.accessKey "E">
 <!ENTITY pref.calendar.alarms.sound.play.label "Reproduzir">
 <!ENTITY pref.calendar.alarms.sound.play.accessKey "p">
 <!ENTITY pref.showalarmbox "Mostrar uma caixa de alarme">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "M">
-<!ENTITY pref.missedalarms "Mostrar alarmes perdidos">
 <!ENTITY pref.missedalarms2 "Mostrar lembretes falhados para calendários editáveis">
 <!ENTITY pref.calendar.alarms.missedAlarms.accessKey "p">
 <!ENTITY pref.calendar.alarms.defaults.label "Predefinições dos lembretes">
