@@ -67,6 +67,7 @@
  -->
 <!ENTITY updateApp.version.pre           "Tionndadh ">
 <!ENTITY updateApp.version.post          "">
+<!ENTITY updateAppAllow.description      "Thoir cead dha &brandShortName;">
 <!ENTITY updateAuto.label                "Stàlaich na h-ùrachaidhean gu fèin-obrachail (mholamaid seo airson tèarainteachd na b’ fhearr)">
 <!ENTITY updateAuto.accesskey            "S">
 <!ENTITY updateCheck.label               "Thoir sùil ach a bheil ùrachadh ann ach cuiridh mi fhìn romham a bheil mi airson an stàladh">
@@ -76,6 +77,8 @@
 
 <!ENTITY useService.label                "Cleachd seirbheis a stàlaicheas ùrachaidhean sa chùlaibh">
 <!ENTITY useService.accesskey            "b">
+
+<!ENTITY updateCrossUserSettingWarning.description "Bidh buaidh aig an roghainn seo air gach cunntas Windows agus pròifil &brandShortName; a chleachdas an stàladh seo de &brandShortName;.">
 
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Roghainnean…">

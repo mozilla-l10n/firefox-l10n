@@ -70,12 +70,12 @@
 <!ENTITY viewSourceMenuItem1.accesskey "m">
 <!ENTITY otherActionsPrint1.label "Clò-bhuail…">
 <!ENTITY otherActionsPrint1.accesskey "C">
-<!-- Attachment bar context menu items -->
 
+<!-- Attachment bar context menu items -->
 <!ENTITY startExpandedCmd.label    "Seall leòsan a' cheanglachain an toiseach">
 <!ENTITY startExpandedCmd.accesskey    "S">
-<!-- Attachment context menu items -->
 
+<!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label    "Fosgail">
 <!ENTITY openAttachmentCmd.accesskey    "o">
 <!ENTITY saveAsAttachmentCmd.label    "Sàbhail mar…">
@@ -94,8 +94,13 @@
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "e">
 
 <!ENTITY openAttachment.tooltip "Fosgail am faidhle a tha ris">
-<!-- Attachment toolbar items -->
 
+<!ENTITY detachedAttachmentFolder.show.label        "Fosgail am pasgan far a bheil e">
+<!ENTITY detachedAttachmentFolder.show.accesskey    "F">
+<!ENTITY detachedAttachmentFolder.showMac.label     "Seall san lorgair">
+<!ENTITY detachedAttachmentFolder.showMac.accesskey "F">
+
+<!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label       "Sàbhail">
 <!ENTITY saveAttachmentButton1.tooltip     "Sàbhail am faidhle a tha ris">
 <!ENTITY saveAllAttachmentsButton1.label   "Sàbhail a h-uile">
