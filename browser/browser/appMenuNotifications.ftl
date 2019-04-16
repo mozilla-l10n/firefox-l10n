@@ -18,4 +18,14 @@ appmenu-update-manual =
 appmenu-update-manual-message = נא להוריד עותק חדש של { -brand-shorter-name } ואנו נסייע לך בהתקנה.
 appmenu-update-whats-new =
     .value = מידע נוסף על החידושים בגרסה זו.
+appmenu-update-restart =
+    .label = יש להפעיל מחדש כדי לעדכן את { -brand-shorter-name }.
+    .buttonlabel = הפעלה מחדש ושחזור
+    .buttonaccesskey = פ
+    .secondarybuttonlabel = לא כעת
+    .secondarybuttonaccesskey = ל
+appmenu-update-restart-message = לאחר הפעלה מחדש, { -brand-shorter-name } ישחזר את כל הלשוניות והחלונות הפתוחים שאינם במצב גלישה פרטית.
+appmenu-addon-private-browsing-installed =
+    .buttonlabel = בסדר, הבנתי
+    .buttonaccesskey = ב
 appmenu-addon-post-install-message = ניתן לנהל את התוספות שלך ע״י לחיצה על <image data-l10n-name='addon-install-icon'></image> שבתפריט <image data-l10n-name='addon-menu-icon'></image>.
