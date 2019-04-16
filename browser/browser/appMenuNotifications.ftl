@@ -24,4 +24,5 @@ appmenu-update-restart =
     .buttonaccesskey = R
     .secondarybuttonlabel = இப்போது வேண்டாம்
     .secondarybuttonaccesskey = N
+appmenu-update-restart-message = விரைவு மீட்துவக்கத்திற்கு பிறகு, அந்தரங்க உலாவலில் அல்லாத திறந்திருந்த கீற்றுகள் சாளரங்கள் மீட்டமைக்கப்படும்.
 appmenu-addon-post-install-message = <image data-l10n-name='addon-menu-icon'></image> மெனுவில் <image data-l10n-name='addon-install-icon'></image> என்பதைச் சொடுக்குவதின் மூலம் உங்கள் மேற்சேர்க்கைகளை நிர்வகியுங்கள்.
