@@ -8,6 +8,7 @@ appmenu-update-available =
     .buttonaccesskey = С
     .secondarybuttonlabel = Не цяпер
     .secondarybuttonaccesskey = Н
+appmenu-update-available-message = Абнавіце { -brand-shorter-name } для павышэння хуткадзейнасці і прыватнасці.
 appmenu-update-manual =
     .label = { -brand-shorter-name } не можа абнавіцца да апошняй версіі.
     .buttonlabel = Сцягнуць { -brand-shorter-name }
