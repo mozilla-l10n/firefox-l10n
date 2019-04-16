@@ -12,13 +12,14 @@
 <!ENTITY pref.calendar.alarms.playsound.accessKey "Z">
 <!ENTITY pref.calendar.alarms.sound.useDefault.label "Standardny zynk wužiwać">
 <!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "S">
+<!ENTITY pref.calendar.alarms.sound.useCustom.label "Slědowacu zynkowu dataju wužiwać">
+<!ENTITY pref.calendar.alarms.sound.useCustom.accessKey "S">
 <!ENTITY pref.calendar.alarms.sound.browse.label "Přepytać…">
 <!ENTITY pref.calendar.alarms.sound.browse.accessKey "P">
 <!ENTITY pref.calendar.alarms.sound.play.label "Wothrać">
 <!ENTITY pref.calendar.alarms.sound.play.accessKey "h">
 <!ENTITY pref.showalarmbox "Dopomnjenski dialog pokazać">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "m">
-<!ENTITY pref.missedalarms "Skomdźene dopomnjeća pokazać">
 <!ENTITY pref.missedalarms2 "Zapasene dopomnjeća za popisujomne protyki pokazać">
 <!ENTITY pref.calendar.alarms.missedAlarms.accessKey "k">
 <!ENTITY pref.calendar.alarms.defaults.label "Standardne hódnoty za dopomnjeća">
