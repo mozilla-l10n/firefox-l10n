@@ -2,6 +2,20 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+appmenu-update-available =
+    .label = Pemutakhiran { -brand-shorter-name } terkini telah tersedia.
+    .buttonlabel = Unduh Pemutakhiran
+    .buttonaccesskey = D
+    .secondarybuttonlabel = Jangan Sekarang
+    .secondarybuttonaccesskey = N
+appmenu-update-available-message = Perbarui { -brand-shorter-name } Anda untuk mendapat yang terkini dalam kecepatan dan privasi.
+appmenu-update-manual =
+    .label = { -brand-shorter-name } tidak dapat diperbarui ke versi terkini.
+    .buttonlabel = Unduh { -brand-shorter-name }
+    .buttonaccesskey = D
+    .secondarybuttonlabel = Jangan Sekarang
+    .secondarybuttonaccesskey = N
+appmenu-update-manual-message = Unduh salinan segar dari { -brand-shorter-name } dan kami akan membantu Anda untuk memasangnya.
 appmenu-update-whats-new =
     .value = Lihat yang baru.
 appmenu-addon-private-browsing-message = Semua ekstensi baru yang Anda tambahkan ke { -brand-shorter-name } tidak akan berjalan di Jendela Pribadi kecuali Anda mengizinkannya di peraturan.
