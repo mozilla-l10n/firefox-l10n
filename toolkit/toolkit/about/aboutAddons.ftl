@@ -259,3 +259,10 @@ addons-enabled-heading = Diaktifkan
 addons-disabled-heading = Dinonaktifkan
 addon-detail-version-label = Versi
 addon-detail-homepage-label = Beranda
+# The number of reviews that an add-on has received on AMO.
+# Variables:
+#   $numberOfReviews (number) - The number of reviews received
+addon-detail-reviews-link =
+    { $numberOfReviews ->
+       *[other] { $numberOfReviews } ulasan
+    }

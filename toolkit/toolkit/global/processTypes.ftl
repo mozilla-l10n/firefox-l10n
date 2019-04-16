@@ -6,3 +6,6 @@ process-type-web = Konten Web
 process-type-extension = Ekstensi
 # process used to open file:// URLs
 process-type-file = Berkas Lokal
+# process used to communicate with the GPU for
+# graphics acceleration
+process-type-gpu = GPU
