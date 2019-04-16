@@ -25,3 +25,4 @@ appmenu-update-restart =
     .secondarybuttonlabel = Wonaa Jooni
     .secondarybuttonaccesskey = W
 appmenu-update-restart-message = Ɓaawo kurtinal jaawngal, { -brand-shorter-name } maa artir tabbe maa e kenotɗe udditiiɗe fof ɗe ngonaa e mbayka Peeragol cuuringol.
+appmenu-addon-post-install-message = Yiil ɓeyditte maa e dobaade <image data-l10n-name='addon-install-icon'></image> nder dosol <image data-l10n-name='addon-menu-icon'></image> ngol.
