@@ -25,3 +25,4 @@ appmenu-update-restart =
     .secondarybuttonlabel = Betg ussa
     .secondarybuttonaccesskey = B
 appmenu-update-restart-message = Suenter reaviar restaurescha { -brand-shorter-name } tut tes tabs e tias fanestras avertas che n'èn betg en il modus privat.
+appmenu-addon-post-install-message = Administrescha tes supplements cun cliccar sin <image data-l10n-name='addon-install-icon'></image> en il menu <image data-l10n-name='addon-menu-icon'></image>.
