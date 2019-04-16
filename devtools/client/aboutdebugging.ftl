@@ -8,6 +8,8 @@
 
 # Page Title strings
 
+# Page title (ie tab title) for the Setup page
+about-debugging-page-title-setup-page = Ladenie - nastavenie
 # Page title (ie tab title) for the Runtime page
 # { $selectedRuntimeId } is the id of the current runtime, such as "this-firefox", "localhost:6080", ...
 about-debugging-page-title-runtime-page = Ladenie - Runtime / { $selectedRuntimeId }
@@ -20,6 +22,14 @@ about-debugging-this-firefox-runtime-name = Tento { -brand-shorter-name }
 # Sidebar heading for selecting the currently running instance of Firefox
 about-debugging-sidebar-this-firefox =
     .name = { about-debugging-this-firefox-runtime-name }
+# Sidebar heading for connecting to some remote source
+about-debugging-sidebar-setup =
+    .name = Nastavenie
+# Text displayed in the about:debugging sidebar when USB devices discovery is enabled.
+about-debugging-sidebar-usb-enabled = USB je povolené
+# Text displayed in the about:debugging sidebar when USB devices discovery is disabled
+# (for instance because the mandatory ADB extension is not installed).
+about-debugging-sidebar-usb-disabled = USB je zakázané
 # Connection status (connected) for runtime items in the sidebar
 aboutdebugging-sidebar-runtime-connection-status-connected = Pripojené
 # Connection status (disconnected) for runtime items in the sidebar
@@ -29,6 +39,13 @@ about-debugging-sidebar-no-devices = Nenašli sa žiadne zariadenia
 # Text displayed in buttons found in sidebar items representing remote runtimes.
 # Clicking on the button will attempt to connect to the runtime.
 about-debugging-sidebar-item-connect-button = Pripojiť
+# Text displayed in buttons found in sidebar items when the runtime is connecting.
+about-debugging-sidebar-item-connect-button-connecting = Pripája sa…
+# Text displayed in buttons found in sidebar items when the connection failed.
+about-debugging-sidebar-item-connect-button-connection-failed = Pripojenie zlyhalo
+# Text displayed in connection warning on sidebar item of the runtime when connecting to
+# the runtime is taking too much time.
+about-debugging-sidebar-item-connect-button-connection-not-responding = Pripájanie stále prebieha, skontrolujte upozornenia v cieľovom prehliadači
 # Temporary text displayed in sidebar items representing remote runtimes after
 # successfully connecting to them. Temporary UI, do not localize.
 about-debugging-sidebar-item-connected-label = Pripojené
@@ -43,30 +60,67 @@ about-debugging-sidebar-runtime-item-name =
 # locations).
 about-debugging-sidebar-runtime-item-name-no-device =
     .title = { $displayName }
+# Text to show in the footer of the sidebar that links to a help page
+# (currently: https://developer.mozilla.org/docs/Tools/about:debugging)
+about-debugging-sidebar-support = Pomocník ladenia
 # Text to show as the ALT attribute of a help icon that accompanies the help about
 # debugging link in the footer of the sidebar
 about-debugging-sidebar-support-icon =
     .alt = Ikona pomocníka
+# Text displayed in a sidebar button to refresh the list of USB devices. Clicking on it
+# will attempt to update the list of devices displayed in the sidebar.
+about-debugging-refresh-usb-devices-button = Obnoviť zariadenia
 
 # Setup Page strings
 
+# Title of the Setup page.
+about-debugging-setup-title = Nastavenie
+# Introduction text in the Setup page to explain how to configure remote debugging.
+about-debugging-setup-intro = Nastavte si spôsob, pomocou ktorého chcete ladiť svoje zariadenie.
 # Link displayed in the Setup page that leads to MDN page with list of supported devices.
 # Temporarily leads to https://support.mozilla.org/en-US/kb/will-firefox-work-my-mobile-device#w_android-devices
 about-debugging-setup-link-android-devices = Zobraziť zoznam podporovaných zariadení s Androidom
+# Explanatory text in the Setup page about what the 'This Firefox' page is for
+about-debugging-setup-this-firefox = Použite <a>{ about-debugging-this-firefox-runtime-name }</a> na ladenie kariet, rozšírení a service workers v tejto verzii { -brand-shorter-name }.
+# Title of the heading Connect section of the Setup page.
+about-debugging-setup-connect-heading = Pripojenie zariadenia
 # USB section of the Setup page
 about-debugging-setup-usb-title = USB
+# Explanatory text displayed in the Setup page when USB debugging is disabled
+about-debugging-setup-usb-disabled = Aktivácia tejto možnosti spustí preberanie vyžadovaných komponentov na ladenie pomocou Android USB do prehliadača { -brand-shorter-name }.
+# Text of the button displayed in the USB section of the setup page when USB debugging is disabled.
+# Clicking on it will download components needed to debug USB Devices remotely.
+about-debugging-setup-usb-enable-button = Povoliť USB zariadenia
+# Text of the button displayed in the USB section of the setup page when USB debugging is enabled.
+about-debugging-setup-usb-disable-button = Zakázať USB zariadenia
 # Text of the button displayed in the USB section of the setup page while USB debugging
 # components are downloaded and installed.
 about-debugging-setup-usb-updating-button = Aktualizuje sa…
+# USB section of the Setup page (USB status)
+about-debugging-setup-usb-status-enabled = Povolené
+about-debugging-setup-usb-status-disabled = Zakázané
 about-debugging-setup-usb-status-updating = Aktualizuje sa…
 # USB section step by step guide
 about-debugging-setup-usb-step-plug-device = Pripojte zariadenie s Androidom k svojmu počítaču.
+# Network section of the Setup page
+about-debugging-setup-network =
+    .title = Umiestnenie v sieti
 # Text of a button displayed after the network locations "Host" input.
 # Clicking on it will add the new network location to the list.
 about-debugging-network-locations-add-button = Pridať
+# Text to display when there are no locations to show.
+about-debugging-network-locations-empty-text = Nebolo pridané žiadne umiestnenie v sieti.
+# Text of the label for the text input that allows users to add new network locations in
+# the Connect page. A host is a hostname and a port separated by a colon, as suggested by
+# the input's placeholder "localhost:6080".
+about-debugging-network-locations-host-input-label = Server
 # Text of a button displayed next to existing network locations in the Connect page.
 # Clicking on it removes the network location from the list.
 about-debugging-network-locations-remove-button = Odstrániť
+# Text used as error message if the input value was already registered in the network locations form of the Setup page.
+# Variables:
+#   $host-value (string) - The input value submitted by the user in the network locations form
+about-debugging-network-location-form-duplicate = Server „{ $host-value }“ je už zaregistrovaný
 
 # Runtime Page strings
 
@@ -81,9 +135,25 @@ about-debugging-runtime-extensions =
 # Title of the tabs category.
 about-debugging-runtime-tabs =
     .name = Karty
+# Title of the service workers category.
+about-debugging-runtime-service-workers =
+    .name = Service Workers
+# Title of the shared workers category.
+about-debugging-runtime-shared-workers =
+    .name = Shared Workers
+# Title of the other workers category.
+about-debugging-runtime-other-workers =
+    .name = Other Workers
 # Title of the processes category.
 about-debugging-runtime-processes =
     .name = Procesy
+# Label of the button opening the performance profiler panel in runtime pages for remote
+# runtimes.
+about-debugging-runtime-profile-button = Runtime profilu
+# This string is displayed in the runtime page if the current configuration of the
+# target runtime is incompatible with service workers. "Learn more" points to MDN.
+# https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
+about-debugging-runtime-service-workers-not-compatible = Konfigurácia vášho prehliadača nie je kompatibilná so službou Service Workers. <a>Ďalšie informácie</a>
 # Displayed for runtime info in runtime pages.
 # { $name } is brand name such as "Firefox Nightly"
 # { $version } is version such as "64.0a1"
@@ -98,6 +168,9 @@ about-debugging-collapse-expand-debug-targets = Zbaliť/rozbaliť
 
 # Debug Targets strings
 
+# Displayed in the categories of "runtime" pages that don't have any debug target to
+# show. Debug targets depend on the category (extensions, tabs, workers...).
+about-debugging-debug-target-list-empty = Zatiaľ žiadne.
 # Text of a button displayed next to debug targets of "runtime" pages. Clicking on this
 # button will open a DevTools toolbox that will allow inspecting the target.
 # A target can be an addon, a tab, a worker...
@@ -105,6 +178,8 @@ about-debugging-debug-target-inspect-button = Preskúmať
 # Text of a button displayed in the "This Firefox" page, in the Temporary Extension
 # section. Clicking on the button will open a file picker to load a temporary extension
 about-debugging-tmp-extension-install-button = Načítať dočasný doplnok…
+# Text displayed when trying to install a temporary extension in the "This Firefox" page.
+about-debugging-tmp-extension-install-error = Pri inštalácii dočasného doplnku došlo k chybe.
 # Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
 # Clicking on the button will reload the extension.
 about-debugging-tmp-extension-reload-button = Obnoviť
@@ -116,6 +191,8 @@ about-debugging-tmp-extension-remove-button = Odstrániť
 # manifest.json .xpi and .zip should not be localized.
 # Note: this message is only displayed in Windows and Linux platforms.
 about-debugging-tmp-extension-install-message = Vyberte súbor manifest.json alebo archív .xpi/.zip
+# This string is displayed as a message about the add-on having a temporaryID.
+about-debugging-tmp-extension-temporary-id = Toto rozšírenie typu WebExtension má dočasné ID. <a>Ďalšie informácie</a>
 # Text displayed for extensions in "runtime" pages, before displaying a link the extension's
 # manifest URL.
 about-debugging-extension-manifest-url =
@@ -141,6 +218,11 @@ about-debugging-worker-action-push = Push
 about-debugging-worker-action-start = Spustiť
 # This string is displayed as a label of the button that unregisters a service worker.
 about-debugging-worker-action-unregister = Odregistrovať
+# Displayed for service workers in runtime pages that are currently running (service
+# worker instance is active).
+about-debugging-worker-status-running = Spustené
+# Displayed for service workers in runtime pages that are registered but stopped.
+about-debugging-worker-status-stopped = Zastavené
 # Displayed for service workers in runtime pages that are registering.
 about-debugging-worker-status-registering = Registruje sa
 # Displayed for service workers in runtime pages, to label the scope of a worker
@@ -153,3 +235,6 @@ about-debugging-worker-push-service =
 # Displayed as name for the Main Process debug target in the Processes category. Only for
 # remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-main-process-name = Hlavný proces
+# Displayed as description for the Main Process debug target in the Processes category.
+# Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
+about-debugging-main-process-description2 = Hlavný proces pre cieľový prehliadač
