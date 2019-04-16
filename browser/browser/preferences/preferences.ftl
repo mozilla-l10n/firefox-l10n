@@ -676,6 +676,7 @@ content-blocking-third-party-cookies = Cookies καταγραφής τρίτων
 content-blocking-all-cookies = Όλα τα cookies
 content-blocking-all-windows-trackers = Γνωστοί ιχνηλάτες σε όλα τα ιδιωτικά παράθυρα
 content-blocking-all-third-party-cookies = Όλα τα cookies τρίτων
+content-blocking-cryptominers = Εξορύκτες κρυπτονομισμάτων
 content-blocking-warning-title = Προσοχή!
 content-blocking-warning-desc = Η φραγή των cookies και των ιχνηλατών μπορεί να προκαλέσει δυσλειτουργία σε ορισμένες ιστοσελίδες. Μπορείτε εύκολα να απενεργοποιήσετε τη φραγή σε ιστοσελίδες που εμπιστεύεστε.
 content-blocking-learn-how = Μάθετε πώς

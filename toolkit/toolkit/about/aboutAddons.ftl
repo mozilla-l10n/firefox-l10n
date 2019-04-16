@@ -98,6 +98,19 @@ detail-update-manual =
     .tooltiptext = Να μην γίνεται αυτόματη εγκατάσταση ενημερώσεων
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Εκτέλεση σε ιδιωτικά παράθυρα
+# Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
+# cannot be overriden by the user.
+detail-private-disallowed-label = Δεν επιτρέπεται στα ιδιωτικά παράθυρα
+detail-private-disallowed-description = Αυτή η επέκταση δεν εκτελείται κατά την ιδιωτική περιήγηση. <label data-l10n-name="detail-private-browsing-learn-more">Μάθετε περισσότερα</label>
+# Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
+detail-private-required-label = Απαιτεί πρόσβαση στα ιδιωτικά παράθυρα
+detail-private-required-description = Αυτή η επέκταση έχει πρόσβαση στις διαδικτυακές σας δραστηριότητες κατά την ιδιωτική περιήγηση. <label data-l10n-name="detail-private-browsing-learn-more">Μάθετε περισσότερα</label>
+detail-private-browsing-on =
+    .label = Αποδοχή
+    .tooltiptext = Ενεργοποίηση στην ιδιωτική περιήγηση
+detail-private-browsing-off =
+    .label = Απόρριψη
+    .tooltiptext = Απενεργοποίηση στην ιδιωτική περιήγηση
 detail-home =
     .label = Αρχική σελίδα
 detail-home-value =
@@ -225,14 +238,17 @@ manage-extensions-shortcuts =
     .accesskey = σ
 shortcuts-empty-message = Δεν υπάρχουν συντομεύσεις για αυτή την επέκταση.
 shortcuts-no-addons = Δεν έχετε ενεργοποιήσει καμία επέκταση.
+shortcuts-no-commands = Οι εξής επεκτάσεις δεν έχουν συντομεύσεις:
 shortcuts-input =
     .placeholder = Πληκτρολογήστε μια συντόμευση
 shortcuts-browserAction = Ενεργοποίηση επέκτασης
 shortcuts-pageAction = Ενεργοποίηση ενέργειας σελίδας
+shortcuts-sidebarAction = (Απ)ενεργοποίηση πλευρικής γραμμής
 shortcuts-modifier-mac = Συμπεριλάβετε Ctrl, Alt, ή ⌘
 shortcuts-modifier-other = Συμπεριλάβετε Ctrl ή Alt
 shortcuts-invalid = Άκυρος συνδυασμός
 shortcuts-letter = Πληκτρολογήστε ένα γράμμα
+shortcuts-system = Αδυναμία αντικατάστασης συντόμευσης του { -brand-short-name }
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
@@ -256,6 +272,7 @@ addons-enabled-heading = Ενεργό
 addons-disabled-heading = Ανενεργό
 addon-detail-author-label = Δημιουργός
 addon-detail-version-label = Έκδοση
+addon-detail-last-updated-label = Τελευταία ενημέρωση
 addon-detail-homepage-label = Αρχική σελίδα
 addon-detail-rating-label = Βαθμολογία
 # This string is used to show that an add-on is disabled.

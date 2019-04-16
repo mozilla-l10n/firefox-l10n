@@ -219,16 +219,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
  <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
      for the Firefox Account toolbar signin menu screen. -->
+<!ENTITY fxa.signin.callout.label "Πάρτε το Firefox μαζί σας">
 <!ENTITY fxa.signin.button.label "Ενεργοποίηση &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
      for the Firefox Account toolbar unverified menu screen. -->
 <!ENTITY fxa.unverified.callout.label "Ελέγξτε το email σας">
+<!ENTITY fxa.unverified.description.label "Θα πρέπει να επαληθεύσετε το λογαριασμό σας πριν μπορέσετε να κάνετε συγχρονισμό.">
 <!ENTITY fxa.unverified.button.label "Άνοιγμα ρυθμίσεων &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbart menu screen. The `Signed in as` text is
      followed by the user's email. -->
+<!ENTITY fxa.menu.signedInAs.label "Σε σύνδεση ως">
 <!ENTITY fxa.menu.manageAccount.label "Διαχείριση λογαριασμού…">
 <!ENTITY fxa.menu.syncSettings.label "Ρυθμίσεις &syncBrand.shortName.label;…">
 <!ENTITY fxa.menu.connectAnotherDevice.label "&syncedTabs.sidebar.connectAnotherDevice;">
@@ -1026,7 +1029,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Cookies">
 <!ENTITY contentBlocking.cookiesView.label "Cookies και δεδομένα ιστοσελίδων">
 
+<!ENTITY contentBlocking.cryptominers.label "Εξορύκτες κρυπτονομισμάτων">
+<!ENTITY contentBlocking.cryptominersView.label "Εξορύκτες κρυπτονομισμάτων">
 
+<!ENTITY contentBlocking.fingerprinters.label "Ανιχνευτές αποτυπωμάτων">
+<!ENTITY contentBlocking.fingerprintersView.label "Ανιχνευτές αποτυπωμάτων">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Αναφορά προβλήματος">
 <!ENTITY contentBlocking.breakageReportView.label "Αναφορά προβλημάτων">
