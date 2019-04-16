@@ -29,3 +29,10 @@ appmenu-addon-private-browsing-installed =
     .buttonlabel = ઠીક છે, સમજાઇ ગયું
     .buttonaccesskey = O
 appmenu-addon-post-install-message = <image data-l10n-name='addon-install-icon'></image> મેનૂમાં <image data-l10n-name='addon-menu-icon'></image> ક્લિક કરીને તમારા ઍડ-ઑનને સંચાલિત કરો.
+appmenu-addon-private-browsing =
+    .label = ખાનગી વિંડોઝમાં એક્સ્ટેન્શન્સ બદલો
+    .buttonlabel = એક્સ્ટેંશન્સનો વહીવટ કરો
+    .buttonaccesskey = M
+    .secondarybuttonlabel = ઠીક છે, સમજાઇ ગયું
+    .secondarybuttonaccesskey = O
+appmenu-addon-private-browsing-message = તમે કોઈ પણ નવા એક્સ્ટેન્શન્સને { -brand-shorter-name } માં ઉમેરો છો તે ખાનગી વિંડોઝમાં કાર્ય કરશે નહીં સિવાય કે તમે આ સેટિંગ્સમાં મંજૂરી આપો.
