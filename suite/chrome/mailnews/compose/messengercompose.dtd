@@ -7,7 +7,13 @@
 
 <!ENTITY fromAddr.label "Från:">
 <!ENTITY fromAddr.accesskey "å">
-<!ENTITY subject.label  "Ämne:">
+<!ENTITY toAddr.label "Till:">
+<!ENTITY ccAddr.label "Kopia:">
+<!ENTITY bccAddr.label "Dold kopia:">
+<!ENTITY replyAddr.label "Svara till:">
+<!ENTITY newsgroupsAddr.label "Diskussionsgrupp:">
+<!ENTITY followupAddr.label "Uppföljning till:">
+<!ENTITY subject.label "Ämne:">
 <!ENTITY subject.accesskey "Ä">
 <!ENTITY attachments.label "Bilagor:">
 <!ENTITY attachments.accesskey "B">
@@ -114,12 +120,12 @@
 <!-- We already inherit &menuBar.tooltip and &mailToolbar.tooltip from messenger.dtd -->
 <!ENTITY addressBar.tooltip "Adressfält">
 <!ENTITY formatToolbar.tooltip "Formateringsverktyg">
-<!ENTITY sendButton.tooltip "Skicka meddelandet nu">
+<!ENTITY sendButton.tooltip "Skicka meddelandet nu"> 
 <!ENTITY sendlaterButton.tooltip "Skicka meddelandet senare"> 
-<!ENTITY addressButton.tooltip "Välj en mottagare ur en adressbok">
-<!ENTITY attachButton.tooltip "Bifoga en fil till meddelandet">
-<!ENTITY saveButton.tooltip "Spara det här meddelandet">
-<!ENTITY stopButton.tooltip "Avbryt den aktuella överföringen">
+<!ENTITY addressButton.tooltip "Välj en mottagare ur en adressbok"> 
+<!ENTITY attachButton.tooltip "Bifoga en fil till meddelandet"> 
+<!ENTITY saveButton.tooltip "Spara det här meddelandet"> 
+<!ENTITY stopButton.tooltip "Avbryt den aktuella överföringen"> 
 
 <!-- context menu items -->
 <!ENTITY openAttachment.label "Öppna">
