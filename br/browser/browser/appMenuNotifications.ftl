@@ -24,3 +24,4 @@ appmenu-update-restart =
     .buttonaccesskey = A
     .secondarybuttonlabel = Diwezhatoc'h
     .secondarybuttonaccesskey = D
+appmenu-update-restart-message = Goude un adloc'hadur prim e vo atoret gant { -brand-shorter-name } ho holl ivinelloù ha prenestroù na oa ket e mod merdeiñ prevez.
