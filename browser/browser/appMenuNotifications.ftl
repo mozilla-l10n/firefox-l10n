@@ -24,3 +24,4 @@ appmenu-update-restart =
     .buttonaccesskey = Վ
     .secondarybuttonlabel = Ոչ հիմա
     .secondarybuttonaccesskey = Ո
+appmenu-update-restart-message = Արագ վերամեկնարկից հետո { -brand-shorter-name }-ը կվերականգնի բոլոր բաց ներդիրները և պատուհանները, որոնք Գաղտնի Դիտարկման կերպում չեն:
