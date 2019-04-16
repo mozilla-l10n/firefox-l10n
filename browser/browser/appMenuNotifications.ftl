@@ -26,3 +26,4 @@ appmenu-update-restart =
     .secondarybuttonaccesskey = E
 appmenu-update-restart-message = Nopean uudelleenkäynnistyksen jälkeen { -brand-shorter-name } palauttaa kaikki välilehdet ja ikkunat, jotka eivät olleet yksityisen selauksen tilassa.
 appmenu-addon-post-install-message = Voit hallita lisäosia avaamalla <image data-l10n-name='addon-menu-icon'></image>-valikon ja napsauttamalla <image data-l10n-name='addon-install-icon'></image>-kuvaketta.
+appmenu-addon-private-browsing-message = Yksikään { -brand-shorter-name }iin lisäämäsi uusi laajennus ei toimi yksityisissä ikkunoissa, ellet salli toimintaa asetuksista.
