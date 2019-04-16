@@ -28,7 +28,7 @@
 <!ENTITY printBG.label       "Imprimir cores e imagens do plano de fundo">
 <!ENTITY printBG.accesskey   "I">
 
-<!ENTITY advanced.tab        "Margens">
+<!ENTITY advanced.tab        "Margens e cabeçalho/rodapé">
 
 <!ENTITY marginGroup.label   "Margens (em #1)">
 <!ENTITY marginUnits.inches  "polegadas">
