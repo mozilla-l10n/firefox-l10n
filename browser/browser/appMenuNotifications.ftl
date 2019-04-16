@@ -25,4 +25,17 @@ appmenu-update-restart =
     .secondarybuttonlabel = Not Now
     .secondarybuttonaccesskey = N
 appmenu-update-restart-message = After a quick restart, { -brand-shorter-name } will restore all your open tabs and windows that are not in Private Browsing mode.
+appmenu-addon-private-browsing-installed =
+    .buttonlabel = Okay, Got It
+    .buttonaccesskey = O
 appmenu-addon-post-install-message = Manage your add-ons by clicking <image data-l10n-name='addon-install-icon'></image> in the <image data-l10n-name='addon-menu-icon'></image> menu.
+appmenu-addon-post-install-incognito-checkbox =
+    .label = Allow this extension to run in Private Windows
+    .accesskey = A
+appmenu-addon-private-browsing =
+    .label = Change to extensions in Private Windows
+    .buttonlabel = Manage Extensions
+    .buttonaccesskey = M
+    .secondarybuttonlabel = Okay, Got It
+    .secondarybuttonaccesskey = O
+appmenu-addon-private-browsing-message = Any new extensions you add to { -brand-shorter-name } won’t work in Private Windows unless you allow this in the settings.
