@@ -24,3 +24,4 @@ appmenu-update-restart =
     .buttonaccesskey = A
     .secondarybuttonlabel = Chan ann an-dràsta
     .secondarybuttonaccesskey = n
+appmenu-update-restart-message = Nì { -brand-shorter-name } ath-thòiseachadh is tillidh e gach taba is uinneag a bha fosgailte agad agus nach robh sa mhodh phrìobhaideach.
