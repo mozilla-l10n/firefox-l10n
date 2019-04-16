@@ -176,9 +176,26 @@ about-debugging-browser-version-too-old = Ri ruq'ijul samaj okisan ojer rub'anik
 # backward compatible changes broke the debugger in those scenarios (Bug 1528219).
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 about-debugging-browser-version-too-old-67-debugger = Rik'in jub'a' man nisamäj ta ri ruchojmirisanel pas rik'in ri okik'amaya'l okisan. Tawokisaj Firefox { $runtimeVersion } we nawajo' nawokisaj ri chojmirisanel rik'in re okik'amaya'l re'.
+# This string is displayed in the runtime page if the remote browser version is too recent.
+# "Troubleshooting" link points to https://developer.mozilla.org/en-US/docs/Tools/WebIDE/Troubleshooting
+# { $runtimeID } is the build ID of the remote browser (for instance "20181231", format is yyyyMMdd)
+# { $localID } is the build ID of the current Firefox instance (same format)
+# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
+# { $localVersion } is the version of your current browser (same format)
+about-debugging-browser-version-too-recent = Ri ruq'ijul samaj okisan yalan k'ak'a' ({ $runtimeVersion }, buildID { $runtimeID }) chuwäch ri { -brand-shorter-name } ({ $localVersion }, buildID { $localID }). Re re' jun man k'amonel ta chi nuk'ulem ri nitikïr nub'än chi nisach ri DevTools. Tak'exa' ri Firefox. <a>Kisolik taq k'ayewal</a>
+# Displayed for runtime info in runtime pages.
+# { $name } is brand name such as "Firefox Nightly"
+# { $version } is version such as "64.0a1"
+about-debugging-runtime-name = { $name } ({ $version })
 # Text of a button displayed in Runtime pages for remote runtimes.
 # Clicking on the button will close the connection to the runtime.
 about-debugging-runtime-disconnect-button = Tichup
+# Text of the connection prompt button displayed in Runtime pages, when the preference
+# "devtools.debugger.prompt-connection" is false on the target runtime.
+about-debugging-connection-prompt-enable-button = Titzij ri tz'etöy okem
+# Text of the connection prompt button displayed in Runtime pages, when the preference
+# "devtools.debugger.prompt-connection" is true on the target runtime.
+about-debugging-connection-prompt-disable-button = Tichup ri tz'etöy okem
 
 # Debug Targets strings
 
