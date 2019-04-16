@@ -95,6 +95,8 @@
 
 <!ENTITY openAttachment.tooltip "Åbn den vedhæftede fil">
 
+<!ENTITY detachedAttachmentFolder.show.label        "Åbn hentningsmappe">
+<!ENTITY detachedAttachmentFolder.show.accesskey    "H">
 <!ENTITY detachedAttachmentFolder.showMac.label     "Vis i Finder">
 
 <!-- Attachment toolbar items -->
