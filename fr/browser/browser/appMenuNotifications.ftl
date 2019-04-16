@@ -18,3 +18,15 @@ appmenu-update-manual =
 appmenu-update-manual-message = Téléchargez à nouveau { -brand-shorter-name } et nous pourrons vous guider pour l’installer.
 appmenu-update-whats-new =
     .value = Découvrez les nouveautés.
+appmenu-update-restart =
+    .label = Redémarrez pour mettre à jour { -brand-shorter-name }.
+    .buttonlabel = Redémarrer et restaurer
+    .buttonaccesskey = R
+    .secondarybuttonlabel = Plus tard
+    .secondarybuttonaccesskey = P
+appmenu-update-restart-message = Après un rapide redémarrage, { -brand-shorter-name } restaurera l’ensemble de vos onglets et fenêtres qui n’étaient pas en mode de navigation privée.
+appmenu-addon-post-install-message = Gérez vos modules en cliquant sur <image data-l10n-name='addon-install-icon'></image> dans le menu <image data-l10n-name='addon-menu-icon'></image>.
+appmenu-addon-post-install-incognito-checkbox =
+    .label = Autoriser cette extension à s’exécuter dans une fenêtre de navigation privée
+    .accesskey = A
+appmenu-addon-private-browsing-message = Les nouvelles extensions que vous ajouterez à { -brand-shorter-name } ne fonctionneront pas dans les fenêtres de navigation privée à moins d’autoriser explicitement leur exécution dans les paramètres.
