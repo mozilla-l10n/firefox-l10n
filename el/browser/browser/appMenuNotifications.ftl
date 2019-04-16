@@ -25,4 +25,17 @@ appmenu-update-restart =
     .secondarybuttonlabel = Όχι τώρα
     .secondarybuttonaccesskey = Ό
 appmenu-update-restart-message = Μετά από μια γρήγορη επανεκκίνηση, το { -brand-shorter-name } θα ανακτήσει όλες τις ανοικτές καρτέλες και τα παράθυρα, που δεν είναι στη λειτουργία ιδιωτικής περιήγησης.
+appmenu-addon-private-browsing-installed =
+    .buttonlabel = Εντάξει, το 'πιασα
+    .buttonaccesskey = Ε
 appmenu-addon-post-install-message = Διαχειριστείτε τα πρόσθετά σας κάνοντας κλικ στο <image data-l10n-name='addon-install-icon'></image>, στο μενού <image data-l10n-name='addon-menu-icon'></image>.
+appmenu-addon-post-install-incognito-checkbox =
+    .label = Να επιτρέπεται η εκτέλεση αυτής της επέκτασης σε ιδιωτικά παράθυρα
+    .accesskey = Ν
+appmenu-addon-private-browsing =
+    .label = Αλλαγή σε επεκτάσεις ιδιωτικών παραθύρων
+    .buttonlabel = Διαχείριση επεκτάσεων
+    .buttonaccesskey = Δ
+    .secondarybuttonlabel = Εντάξει, το 'πιασα
+    .secondarybuttonaccesskey = Ε
+appmenu-addon-private-browsing-learn-more = Μάθετε πώς να διαχειρίζεστε τις ρυθμίσεις επεκτάσεων
