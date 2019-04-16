@@ -1,0 +1,26 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+appmenu-update-available =
+    .label = नवीन आणि अद्ययावत { -brand-shorter-name } उपलब्ध आहे
+    .buttonlabel = अद्यायावत डाऊनलोड करा
+    .buttonaccesskey = D
+    .secondarybuttonlabel = आत्ता नाही
+    .secondarybuttonaccesskey = N
+appmenu-update-available-message = नवीनतम वेग आणि गोपनीयतेसाठी आपले { -brand-shorter-name } अद्ययावत करा.
+appmenu-update-manual =
+    .label = { -brand-shorter-name } नवीन आवृत्तीला अद्ययावत होऊ शकत नाही
+    .buttonlabel = { -brand-shorter-name } डाऊनलोड करा
+    .buttonaccesskey = D
+    .secondarybuttonlabel = आत्ता नाही
+    .secondarybuttonaccesskey = N
+appmenu-update-manual-message = { -brand-shorter-name } ची नवी प्रत डाउनलोड करा, आम्ही तुम्हाला ती प्रस्थापित करण्यास मदत करू.
+appmenu-update-whats-new =
+    .value = नवीन काय आहे ते पहा
+appmenu-update-restart =
+    .label = { -brand-shorter-name } अद्ययावत करण्यासाठी बंद करून पुन्हा सुरु करा.
+    .buttonlabel = पुन्हा सुरु करा व पूर्वस्थितीत आणा
+    .buttonaccesskey = R
+    .secondarybuttonlabel = आत्ता नाही
+    .secondarybuttonaccesskey = N
