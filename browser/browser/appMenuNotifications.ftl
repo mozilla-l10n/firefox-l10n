@@ -11,3 +11,4 @@ appmenu-update-manual =
     .secondarybuttonaccesskey = n
 appmenu-update-whats-new =
     .value = Veja o que há de novo.
+appmenu-addon-post-install-message = Gerencie suas extensões clicando no ícone <image data-l10n-name='addon-install-icon'></image> no menu <image data-l10n-name='addon-menu-icon'></image>.
