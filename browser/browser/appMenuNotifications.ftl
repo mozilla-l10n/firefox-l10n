@@ -24,6 +24,7 @@ appmenu-update-restart =
     .buttonaccesskey = R
     .secondarybuttonlabel = Ahora no
     .secondarybuttonaccesskey = N
+appmenu-update-restart-message = Después de un reinicio rápido, { -brand-shorter-name } restaurará todas las pestañas y ventanas abiertas que no estén en modo de Navegación Privada.
 appmenu-addon-private-browsing-installed =
     .buttonlabel = Listo, entendido
     .buttonaccesskey = O
