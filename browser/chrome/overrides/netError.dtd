@@ -10,8 +10,7 @@
 <!ENTITY returnToPreviousPage.label "వెనక్కి వెళ్ళు">
 <!ENTITY returnToPreviousPage1.label "వెనక్కి వెళ్ళు (సిఫారసుచేయబడింది)">
 <!ENTITY advanced.label "ఉన్నతం">
-
-<!ENTITY continue2.label "మరిన్ని…">
+<!ENTITY advanced2.label "ఉన్నతం…">
 <!ENTITY moreInformation.label "మరింత సమాచారం">
 
 <!-- Specific error messages -->
@@ -128,11 +127,14 @@
 ">
 
 <!ENTITY certerror.longpagetitle1 "మీ అనుసంధానం సురక్షితమైనది కాదు">
+
 <!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "<span class='hostname'/> యజమాని వారి వెబ్‌సైటును సరిగా స్వరూపించలేదు.  మీ సమాచారం దొంగిలించబడకుండా రక్షించడానికి, &brandShortName; ఈ వెబ్‌సైటుకి అనుసంధానించలేదు.">
-
+<!-- Localization note (certerror.introPara2) - The text content of the span tag
+will be replaced at runtime with the name of the server to which the user
+was trying to connect. -->
 
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "దీని గురించి మీరు ఏం చేయవచ్చు?">
@@ -176,6 +178,7 @@ was trying to connect. -->
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; అనేది <span id='wrongSystemTimeWithoutReference_URL'/> కి కనెక్ట్ కాలేదు ఎందుకంటే మీ కంప్యూటర్ యొక్క గడియారం తప్పు సమయాన్ని సూచిస్తున్నది మరియు ఇది ఒక సురక్షిత కనెక్షన్ ను నివారిస్తున్నది.</p> <p>మీ కంప్యూటరు <span id='wrongSystemTimeWithoutReference_systemDate'/> కి అమర్చి ఉన్నది. ఈ సమస్యను పరిష్కరించడానికి, సరైన సమయంతో సరిపోలే విధంగా మీ తేదీ మరియు సమయమును మార్చండి.</p>">
 
 <!ENTITY certerror.pagetitle1  "అరక్షిత అనుసంధానం">
+
 <!ENTITY certerror.pagetitle2  "హెచ్చరిక: సంభావ్య భద్రతా అపాయం ముందుంది">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "&brandShortName; సురక్షితంగా మాత్రమే అనుసంధానం కావాలని చెప్పడానికి HTTP కఠినమైన రవాణా సెక్యూరిటీ (HSTS)ని ఈ సైటు వాడుతూంది. ఫలితంగా, ఈ సర్టిఫికెటుకి మినహాయింపును చేర్చడం సాధ్యం కాదు.">
 <!ENTITY certerror.copyToClipboard.label "పాఠ్యాన్ని క్లిప్‌బోర్డుకి కాపీచేయి">
@@ -187,7 +190,9 @@ was trying to connect. -->
 
 <!ENTITY blockedByPolicy.title "నిరోధించిన పేజీ">
 
+
 <!ENTITY clockSkewError.title "మీ కంప్యూటర్ గడియారం తప్పు">
 
 <!ENTITY prefReset.longDesc "ఇది మీ నెట్‌వర్కు భద్రతా అమరికల వల్ల అయివుండవచ్చనిపిస్తోంది. అప్రమేత అమరికలను పునరుద్ధరించమంటారా?">
 <!ENTITY prefReset.label "అప్రమేయ అమరికలను పునరుద్ధరించు">
+

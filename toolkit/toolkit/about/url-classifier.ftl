@@ -4,6 +4,7 @@
 
 url-classifier-title = URL Classifier సమాచారం
 url-classifier-search-result-title = ఫలితాలు
+url-classifier-search-listType = జాబితా రకం
 url-classifier-provider-title = సమర్పకులు
 url-classifier-provider = ప్రొవైడర్
 url-classifier-provider-last-update-time = చివరిగా నవీకరించిన సమయం
