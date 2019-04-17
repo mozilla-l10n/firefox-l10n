@@ -12,13 +12,14 @@
 <!ENTITY pref.calendar.alarms.playsound.accessKey "с">
 <!ENTITY pref.calendar.alarms.sound.useDefault.label "Бастапқы дыбысты қолдану">
 <!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "п">
+<!ENTITY pref.calendar.alarms.sound.useCustom.label "Келесі дыбыс файлын қолдану">
+<!ENTITY pref.calendar.alarms.sound.useCustom.accessKey "ы">
 <!ENTITY pref.calendar.alarms.sound.browse.label "Қарап шығу…">
 <!ENTITY pref.calendar.alarms.sound.browse.accessKey "ш">
 <!ENTITY pref.calendar.alarms.sound.play.label "Ойнау">
 <!ENTITY pref.calendar.alarms.sound.play.accessKey "О">
 <!ENTITY pref.showalarmbox "Еске салу сұхбатын көрсету">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "с">
-<!ENTITY pref.missedalarms "Өткізілген еске салуларды көрсету">
 <!ENTITY pref.missedalarms2 "Жазу үшін қолжетерлік күнтізбелер үшін қалып қойған хабарламаларды көрсету">
 <!ENTITY pref.calendar.alarms.missedAlarms.accessKey "з">
 <!ENTITY pref.calendar.alarms.defaults.label "Еске салудың бастапқы баптаулары">
