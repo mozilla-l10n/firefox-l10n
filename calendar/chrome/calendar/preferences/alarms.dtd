@@ -12,13 +12,14 @@
 <!ENTITY pref.calendar.alarms.playsound.accessKey "з">
 <!ENTITY pref.calendar.alarms.sound.useDefault.label "Використовувати типовий звук">
 <!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "т">
+<!ENTITY pref.calendar.alarms.sound.useCustom.label "Використовувати такий звуковий файл">
+<!ENTITY pref.calendar.alarms.sound.useCustom.accessKey "з">
 <!ENTITY pref.calendar.alarms.sound.browse.label "Вибрати…">
 <!ENTITY pref.calendar.alarms.sound.browse.accessKey "В">
 <!ENTITY pref.calendar.alarms.sound.play.label "Прослухати">
 <!ENTITY pref.calendar.alarms.sound.play.accessKey "л">
 <!ENTITY pref.showalarmbox "Показати вікно сповіщення">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "к">
-<!ENTITY pref.missedalarms "Показувати пропущені сповіщення">
 <!ENTITY pref.missedalarms2 "Показати пропущені нагадування для календарів з дозволом на запис">
 <!ENTITY pref.calendar.alarms.missedAlarms.accessKey "а">
 <!ENTITY pref.calendar.alarms.defaults.label "Типові значення для сповіщень">
