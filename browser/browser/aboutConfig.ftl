@@ -27,3 +27,5 @@ about-config-pref-add-type-string = పదబంధం
 
 about-config-pref-accessible-value-default =
     .aria-label = { $value } (అప్రమేయం)
+about-config-pref-accessible-value-custom =
+    .aria-label = { $value } (అభిమతం)
