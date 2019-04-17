@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
+about-config-warning-title = ਇਹ ਹੈ ਡਰੈਗਨ!
 about-config-warning-checkbox = ਮੈਨੂੰ ਫਿਰ ਪਰੇਸ਼ਾਨ ਕਰੋ, ਕਿਰਪਾ ਕਰਕੇ!
 about-config-warning-button = ਮੈਂ ਖ਼ਤਰੇ ਨੂੰ ਮਨਜ਼ੂਰ ਕਰਦਾ/ਕਰਦੀ ਹਾਂ
 about-config-title = about:config
