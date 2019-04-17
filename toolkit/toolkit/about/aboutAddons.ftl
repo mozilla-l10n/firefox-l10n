@@ -150,9 +150,6 @@ legacy-extensions =
     .value = Extensiones heredadas
 legacy-extensions-description = Estas extensiones no cumplen con los estándares actuales de { -brand-short-name } por lo que han sido desactivadas. <label data-l10n-name="legacy-learn-more">Aprender más sobre los cambios a los complementos</label>
 private-browsing-description2 = { -brand-short-name } está cambiando cómo las extensiones funcionan en la navegación privada. Cualquier extensión nueva que añadas a { -brand-short-name } no será ejecutada por defecto en ventanas privadas. Salvo que la permitas en los ajustes, la extensión no funcionará durante la navegación privada y no tendrá acceso a tus actividades en línea realizadas allí. Hemos realizado este cambio para mantener privada tu navegación privada. <label data-l10n-name="private-browsing-learn-more">Aprende cómo gestionar los ajustes de extensiones.</label>
-extensions-view-discover =
-    .name = Obtener nuevos
-    .tooltiptext = Obtener complementos
 extensions-view-recent-updates =
     .name = Actualizaciones recientes
     .tooltiptext = { extensions-view-recent-updates.name }
