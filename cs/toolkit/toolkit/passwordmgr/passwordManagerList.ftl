@@ -72,4 +72,4 @@ remove-all-passwords-prompt = Opravdu chcete odstranit všechna hesla?
 remove-all-passwords-title = Odstranit všechna hesla
 no-master-password-prompt = Opravdu chcete zobrazit svá hesla?
 auto-fill-logins-and-passwords =
-    .label = Automaticky vyplňovat přihlašovací údaje a hesla
+    .label = Automaticky vyplňovat přihlašovací údaje
