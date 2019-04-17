@@ -678,6 +678,7 @@ content-blocking-strict-desc = { -brand-short-name } анықтайтын бар
 content-blocking-custom-desc = Нені бұғаттауды таңдаңыз
 content-blocking-private-trackers = Жекелік терезелерінде барлық белгілі трекерлер
 content-blocking-third-party-cookies = Үшінші жақты бақылайтын cookies
+content-blocking-all-cookies = Барлық cookie файлдары
 content-blocking-all-windows-trackers = Барлық терезелердегі белгілі трекерлер
 content-blocking-all-third-party-cookies = Барлық үшінші жақты cookies
 content-blocking-warning-title = Ескерту!
