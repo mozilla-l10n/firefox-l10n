@@ -4,6 +4,7 @@
 
 # An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
 about-config-warning-title = ਇਹ ਹੈ ਡਰੈਗਨ!
+about-config-warning-text = ਇਹਨਾਂ ਤਕਨੀਕੀ ਸੈਟਿੰਗਾਂ ਨੂੰ ਬਦਲਣਾ ਇਸ ਐਪਲੀਕੇਸ਼ਨ ਦੀ ਸਥਿਰਤਾ, ਸੁਰੱਖਿਆ ਅਤੇ ਕਾਰਗੁਜ਼ਾਰੀ ਲਈ ਨੁਕਸਾਨਦੇਹ ਹੋ ਸਕਦਾ ਹੈ। ਤੁਹਾਨੂੰ ਸਿਰਫ ਤਾਂ ਹੀ ਜਾਰੀ ਰਹਿਣਾ ਚਾਹੀਦਾ ਹੈ ਜੇ ਤੁਸੀਂ ਯਕੀਨੀ ਹੋ ਕਿ ਤੁਸੀਂ ਕੀ ਕਰ ਰਹੇ ਹੋ।
 about-config-warning-checkbox = ਮੈਨੂੰ ਫਿਰ ਪਰੇਸ਼ਾਨ ਕਰੋ, ਕਿਰਪਾ ਕਰਕੇ!
 about-config-warning-button = ਮੈਂ ਖ਼ਤਰੇ ਨੂੰ ਮਨਜ਼ੂਰ ਕਰਦਾ/ਕਰਦੀ ਹਾਂ
 about-config-title = about:config
@@ -20,6 +21,7 @@ about-config-pref-delete = ਹਟਾਓ
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
+about-config-pref-add-type-boolean = ਬੂਲੀਅਨ
 about-config-pref-add-type-number = ਨੰਬਰ
 about-config-pref-add-type-string = ਸਤਰ
 

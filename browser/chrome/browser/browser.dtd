@@ -64,6 +64,8 @@ but will never be visible at the same time. -->
 These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  bookmarkSelectedTabs.accesskey     "B">
 
+<!-- Tab context menu -->
+
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
@@ -108,7 +110,6 @@ These items have the same accesskey but will never be visible at the same time. 
 <!ENTITY  hiddenTabs.label                   "ਟੈਬਾਂ ਲੁਕਾਓ">
 
 <!ENTITY  listAllTabs.label      "ਸਭ ਟੈਬਾਂ ਦੀ ਲਿਸਟ">
-
 <!-- LOCALIZATION NOTE (allTabsMenu.searchTabs.label): "Search" is a verb, as
 in "Search through tabs". -->
 <!ENTITY  allTabsMenu.searchTabs.label       "ਟੈਬਾਂ ਲੱਭੋ">
@@ -130,6 +131,9 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.label "…ਪਰਿੰਟ ਕਰੋ">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "p">
+
+<!ENTITY importFromAnotherBrowserCmd.label "…ਹੋਰ ਬਰਾਊਜ਼ਰ ਤੋਂ ਬਰਾਮਦ ਕਰੋ">
+<!ENTITY importFromAnotherBrowserCmd.accesskey "I">
 
 <!ENTITY taskManagerCmd.label "ਟਾਸਕ ਮੈਨੇਜਰ">
 
@@ -213,6 +217,27 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenExit.label "ਪੂਰੀ ਸਕਰੀਨ ਮੋਡ ਬੰਦ ਕਰੋ">
 <!ENTITY fullScreenExit.accesskey "F">
 
+ <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
+     for the Firefox Account toolbar signin menu screen. -->
+<!ENTITY fxa.signin.callout.label "ਫਾਇਰਫਾਕਸ ਆਪਣੇ ਨਾਲ ਲੈ ਜਾਓ">
+<!ENTITY fxa.signin.button.label "&syncBrand.shortName.label; ਚਾਲੂ ਕਰੋ…">
+
+<!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
+     for the Firefox Account toolbar unverified menu screen. -->
+<!ENTITY fxa.unverified.callout.label "ਆਪਣੀ ਈਮੇਲ ਦੀ ਜਾਂਚ ਕਰੋ">
+<!ENTITY fxa.unverified.description.label "ਸਿੰਕ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਤੁਹਾਨੂੰ ਆਪਣੇ ਖਾਤੇ ਨੂੰ ਤਸਦੀਕ ਕਰਨ ਦੀ ਲੋੜ ਹੋਵੇਗੀ।">
+<!ENTITY fxa.unverified.button.label "&syncBrand.shortName.label; ਸੈਟਿੰਗਾਂ ਨੂੰ ਖੋਲ੍ਹੋ…">
+
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbart menu screen. The `Signed in as` text is
+     followed by the user's email. -->
+<!ENTITY fxa.menu.signedInAs.label "ਇਸ ਵਜੋਂ ਸਾਈਨ-ਇਨ ਕੀਤਾ">
+<!ENTITY fxa.menu.manageAccount.label "…ਖਾਤੇ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋ">
+<!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label; ਸੈਟਿੰਗਾਂ…">
+<!ENTITY fxa.menu.connectAnotherDevice.label "&syncedTabs.sidebar.connectAnotherDevice;">
+<!ENTITY fxa.menu.connectAnotherDevice2.label "…ਹੋਰ ਡਿਵਾਈਸ ਨਾਲ ਕਨੈਕਟ ਕਰੋ">
+<!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
+
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring fullscreen.
@@ -229,6 +254,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY exitDOMFullscreenMac.button "ਪੂਰੀ ਸਕਰੀਨ ਤੋਂ ਬਾਹਰ ਜਾਓ (esc)">
 <!ENTITY leaveDOMFullScreen.label "ਪੂਰੀ ਸਕਰੀਨ ਬੰਦ ਕਰੋ">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
+
+<!-- LOCALIZATION NOTE (pictureInPicture.label, pictureInPicture.accesskey):
+     these two strings are used when right-clicking on a video in the
+     content area when the Picture-in-Picture feature is enabled. -->
+<!ENTITY pictureInPicture.label "ਤਸਵੀਰ-ਚ-ਤਸਵੀਰ">
+<!ENTITY pictureInPicture.accesskey "u">
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
@@ -404,6 +435,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "ਮੇਰੀ ਪਸੰਦ">
 <!ENTITY preferencesCmdUnix.accesskey     "n">
+
 
 <!ENTITY clearRecentHistory.label               "…ਤਾਜ਼ਾ ਅਤੀਤ ਨੂੰ ਸਾਫ਼ ਕਰੋ">
 
@@ -632,6 +664,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
+<!ENTITY pocketButton.tooltiptext     "ਪਾਕੇਟ ਵਿੱਚ ਸੰਭਾਲੋ">
+<!ENTITY saveToPocketCmd.label        "ਸਫ਼ੇ ਨੂੰ ਪਾਕੇਟ ਵਿੱਚ ਸੰਭਾਲੋ">
+<!ENTITY saveToPocketCmd.accesskey    "k">
+<!ENTITY saveLinkToPocketCmd.label    "ਲਿੰਕ ਨੂੰ ਪਾਕੇਟ 'ਚ ਸੰਭਾਲੋ">
+<!ENTITY saveLinkToPocketCmd.accesskey "o">
+<!ENTITY pocketMenuitem.label         "ਪਾਕੇਟ ਲਿਸਟ ਵੇਖੋ">
 
 <!ENTITY emailPageCmd.label           "…ਲਿੰਕ ਨੂੰ ਈਮੇਲ ਕਰੋ">
 <!ENTITY emailPageCmd.accesskey       "E">
@@ -870,7 +908,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "ਤੁਸੀਂ ਇਸ ਸਾਈਟ ਲਈ ਕੋਈ ਖਾਸ ਇਜਾਜ਼ਤਾਂ ਨਹੀਂ ਦਿੱਤੀਆਂ ਹਨ।">
 <!ENTITY identity.permissionsReloadHint "ਤਬਦੀਲੀਆਂ ਲਾਗੂ ਕਰਨ ਵਾਸਤੇ ਤੁਹਾਨੂੰ ਸਫ਼ੇ ਨੂੰ ਮੁੜ-ਲੋਡ ਕਰਨ ਦੀ ਲੋੜ ਹੋ ਸਕਦੀ ਹੈ।">
 <!ENTITY identity.permissionsPreferences.tooltip "ਇਜਾਜਤ ਪਸੰਦਾਂ ਖੋਲ੍ਹੋ">
-
+<!ENTITY identity.contentBlockingPreferences.tooltip "ਸਮੱਗਰੀ ਪਾਬੰਦੀ ਪਸੰਦਾਂ ਨੂੰ ਖੋਲ੍ਹੋ">
 
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -922,6 +960,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncSignIn.label             "&syncBrand.shortName.label; ਵਿੱਚ ਸਾਈਨ ਇਨ ਕਰੋ…">
 <!ENTITY syncSignIn.accesskey         "Y">
 <!ENTITY syncSyncNowItem.label        "ਹੁਣੇ ਸਿੰਕ ਕਰੋ">
+<!ENTITY syncSyncNowItemSyncing.label "…ਸਿੰਕ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "…&syncBrand.shortName.label; ਨਾਲ ਮੁੜ-ਕੁਨੈਕਟ ਕਰੋ">
 <!ENTITY syncReAuthItem.accesskey     "R">
@@ -984,7 +1023,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackersView.label "ਟਰੈਕਰ">
 <!ENTITY contentBlocking.trackersView.strictInfo.label "ਸਾਰੇ ਟਰੈਕਰਾਂ ‘ਤੇ ਪਾਬੰਦੀ ਲਗਾਉਣ ਲਈ, ਸਮਗਰੀ ਨੂੰ “ਸਖ਼ਤ” ਵਲੋਂ ਨਿਯਤ ਕਰੋ।">
 
+<!ENTITY contentBlocking.cookies.label "ਕੂਕੀਜ਼">
 <!ENTITY contentBlocking.cookiesView.label "ਕੂਕੀਜ਼ ਅਤੇ ਸਾਈਟ ਡਾਟਾ">
+
+
+<!ENTITY contentBlocking.fingerprinters.label "ਫਿੰਗਰਪਰਿੰਟਰ">
+<!ENTITY contentBlocking.fingerprintersView.label "ਫਿੰਗਰਪਰਿੰਟਰ">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "ਸਮੱਸਿਆ ਦੀ ਰਿਪੋਰਟ ਕਰੋ">
 <!ENTITY contentBlocking.breakageReportView.label "ਸਮੱਸਿਆਵਾਂ ਦੀ ਰਿਪੋਰਟ ਕਰੋ">
@@ -1056,6 +1100,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.acceptButton.accesskey "D">
 <!ENTITY updateAvailable.cancelButton.label "ਹੁਣੇ ਨਹੀਂ">
 <!ENTITY updateAvailable.cancelButton.accesskey "N">
+
 <!ENTITY updateAvailable.panelUI.label "&brandShorterName; ਅੱਪਡੇਟ ਡਾਊਨਲੋਡ ਕਰੋ">
 
 <!ENTITY updateManual.message "&brandShorterName; ਦੀ ਨਵੀਂ ਕਾਪੀ ਡਾਊਨਲੋਡ ਕਰੋ ਅਤੇ ਅਸੀਂ ਇਸ ਨੂੰ ਇੰਸਟਾਲ ਕਰਨ ਲਈ ਤੁਹਾਡੀ ਮਦਦ ਕਰਾਂਗੇ।">
@@ -1116,3 +1161,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "<image class='addon-addon-icon'/> ਮੇਨੂ ਵਿੱਚ <image class='addon-toolbar-icon'/> ਤੇ ਕਲਿੱਕ ਕਰਕੇ ਆਪਣੇ ਐਡਆਨ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋੋ।">
+<!ENTITY addonPostInstall.incognito.checkbox.accesskey "A">
+
+<!ENTITY addonPrivateBrowsing.okButton.label "ਠੀਕ ਹੈ, ਸਮਝ ਗਏ">
+<!ENTITY addonPrivateBrowsing.okButton.accesskey "O">
+<!ENTITY addonPrivateBrowsing.manageButton.label "ਇਕਸਟੈਨਸ਼ਨਾਂ ਦਾ ਇੰਤਜ਼ਾਮ">
+<!ENTITY addonPrivateBrowsing.manageButton.accesskey "M">

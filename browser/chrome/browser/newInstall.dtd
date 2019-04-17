@@ -8,5 +8,6 @@
 -->
 
 <!ENTITY window.title "ਅਹਿਮ ਖ਼ਬਰਾਂ">
+<!ENTITY window.style "width: 490px">
 <!ENTITY continue-button "ਜਾਰੀ ਰੱਖੋ">
 

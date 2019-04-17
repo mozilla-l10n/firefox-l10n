@@ -45,6 +45,9 @@ category-privacy =
 pane-sync-title = ਫਾਇਰਫਾਕਸ ਖਾਤਾ
 category-sync =
     .tooltiptext = { pane-sync-title }
+pane-sync-title2 = { -sync-brand-short-name }
+category-sync2 =
+    .tooltiptext = { pane-sync-title2 }
 help-button-label = { -brand-short-name } ਸਮਰਥਨ
 addons-button-label = ਇਕਸਟੈਨਸ਼ਨਾਂ ਤੇ ਥੀਮ
 focus-search =
@@ -309,6 +312,9 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = ਜਿਵੇਂ ਤੁਸੀਂ ਲਿਖਣਾ ਸ਼ੁਰੂ ਕਰਦੇ ਹੋ ਤਾਂ ਨਾਲ ਨਾਲ ਖੋਜੋ
     .accesskey = x
+browsing-cfr-recommendations =
+    .label = ਬਰਾਊਜ਼ ਕਰਨ ਲਈ ਸਿਫਾਰਸ਼ੀ ਇਕਟੈਨਸ਼ਨਾਂ
+    .accesskey = R
 browsing-cfr-recommendations-learn-more = ਹੋਰ ਜਾਣੋ
 
 ## General Section - Proxy
@@ -501,6 +507,9 @@ sync-device-name-save =
     .accesskey = v
 sync-mobilepromo-single = ਹੋਰ ਡਿਵਾਈਸ ਨਾਲ ਕਨੈਕਟ ਕਰੋ
 sync-mobilepromo-multi = ਡਿਵਾਈਸਾਂ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋ
+sync-connect-another-device = ਹੋਰ ਡਿਵਾਈਸ ਨਾਲ ਕਨੈਕਟ ਕਰੋ
+sync-manage-devices = ਡਿਵਾਈਸਾਂ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋ
+sync-fxa-begin-pairing = ਡਿਵਾਈਸ ਨਾਲ ਜੋੜਾ ਬਣਾਓ
 sync-tos-link = ਸੇਵਾ ਦੀਆਂ ਸ਼ਰਤਾਂ
 sync-fxa-privacy-notice = ਪਰਦੇਦਾਰੀ ਬਾਰੇ ਸੂਚਨਾ
 
@@ -590,6 +599,10 @@ sitedata-disallow-cookies-option =
 # The list items are the strings named sitedata-block-*-option*.
 sitedata-block-desc = ਪਾਬੰਦੀ ਲਗਾਈ ਕਿਸਮ
     .accesskey = T
+sitedata-option-block-trackers =
+    .label = ਤੀਜੀ-ਧਿਰ ਟਰੈਕਰ
+sitedata-option-block-unvisited =
+    .label = ਅਣਪਛਾਤੀਆਂ ਵੈਬਸਾਈਟਾਂ ਤੋਂ ਕੂਕੀਜ਼
 sitedata-clear =
     .label = …ਡਾਟੇ ਨੂੰ ਸਾਫ਼ ਕਰੋ
     .accesskey = l
@@ -631,8 +644,19 @@ content-blocking-setting-custom =
     .label = ਚੁਣਿੰਦਾ
     .accesskey = c
 content-blocking-standard-description = ਸਿਰਫ਼ ਨਿੱਜੀ ਵਿੰਡੋ ਵਿੱਚ ਪਛਾਣੇ ਹੋਏ ਟਰੈਕਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਉ।
+content-blocking-strict-description = ਹੋਰ ਵੱਧ ਸੁਰੱਖਿਆ, ਪਰ ਹੋਰ ਸਕਦਾ ਹੈ ਕਿ ਕੁਝ ਸਾਈਟਾਂ ਕੰਮ ਨਾ ਕਰਨ।
 content-blocking-custom-desc = ਚੁਣੋ ਕਿ ਕਿਸ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਉਣੀ ਹੈ।
+content-blocking-private-trackers = ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਵਿੱਚ ਕੇਵਲ ਜਾਣ-ਪਛਾਣੇ ਟਰੈਕਰ ਹੀ
+content-blocking-all-cookies = ਸਾਰੇ ਕੂਕੀਜ਼
+content-blocking-unvisited-cookies = ਨਾ-ਖੋਲ੍ਹੀਆਂ ਸਾਈਟਾਂ ਤੋਂ ਕੂਕੀਜ਼
+content-blocking-all-windows-trackers = ਸਾਰੀਆਂ ਵਿੰਡੋਆਂ ਵਿੱਚ ਜਾਣ-ਪਛਾਣੇ ਟਰੈਕਰ
+content-blocking-all-third-party-cookies = ਸਾਰੇ ਤੀਜੀ-ਧਿਰ ਕੂਕੀਜ਼
+content-blocking-fingerprinters = ਫਿੰਗਰਪਰਿੰਟਰ
+content-blocking-warning-title = ਧਿਆਨ ਰੱਖੋ!
 content-blocking-learn-how = ਸਿੱਖੋ ਕਿ ਕਿਵੇਂ
+content-blocking-reload-tabs-button =
+    .label = ਸਾਰੀਆਂ ਟੈਬਾਂ ਮੁੜ-ਲੋਡ ਕਰੋ
+    .accesskey = R
 content-blocking-trackers-label =
     .label = ਟਰੈਕਰ
     .accesskey = T
@@ -646,6 +670,13 @@ content-blocking-tracking-protection-change-block-list = ਪਾਬੰਦੀ ਸ�
 content-blocking-cookies-label =
     .label = ਕੂਕੀਜ਼
     .accesskey = C
+content-blocking-expand-section =
+    .tooltiptext = ਹੋਰ ਜਾਣਕਾਰੀ
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+content-blocking-fingerprinters-label =
+    .label = ਫਿੰਗਰਪਰਿੰਟਰ
+    .accesskey = F
 
 ## Privacy Section - Tracking
 
@@ -676,20 +707,9 @@ permissions-notification-link = ਹੋਰ ਜਾਣੋ
 permissions-notification-pause =
     .label = { -brand-short-name } ਮੁੜ-ਚਾਲੂ ਹੋਣ ਤੱਕ ਸੂਚਨਾਵਾਂ ਨੂੰ ਰੋਕੋ
     .accesskey = n
-permissions-block-autoplay-media =
-    .label = ਵੈੱਬਸਾਈਟਾਂ ਆਵਾਜ਼ ਵਾਲੇ ਮੀਡਿਏ ਨੂੰ ਆਪਣੇ ਆਪ ਚਲਾਉਣ 'ਤੇ ਪਾਬੰਦੀ ਲਗਾਓ
-    .accesskey = B
-permissions-block-autoplay-media-menu = ਵੈੱਬਸਾਈਟਾਂ, ਜੋ ਕਿ ਆਪਣੇ-ਆਪ ਆਵਾਜ਼ ਚਲਾਉਂਦੀਆਂ ਹਨ, ਲਈ
 permissions-block-autoplay-media-exceptions =
     .label = ਛੋਟਾਂ…
     .accesskey = E
-autoplay-option-ask =
-    .label = ਹਮੇਸ਼ਾਂ ਪੁੱਛੋ
-autoplay-option-allow =
-    .label = ਆਪੇ-ਚਲਾਉਣ ਦੀ ਆਗਿਆ
-autoplay-option-dont =
-    .label = ਆਪਣੇ-ਆਪ ਨਾ ਚਲਾਓ
-permissions-autoplay-link = ਹੋਰ ਜਾਣੋ
 permissions-block-popups =
     .label = ਪੋਪਅੱਪ ਵਿੰਡੋ 'ਤੇ ਪਾਬੰਦੀ ਲਗਾਓ
     .accesskey = B
@@ -722,7 +742,6 @@ addon-recommendations-link = ਹੋਰ ਜਾਣੋ
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = ਇਸ ਬਿਲਡ ਸੰਰਚਨਾ ਲਈ ਡਾਟਾ ਰਿਪੋਰਟ ਕਰਨਾ ਅਸਮਰੱਥ ਹੈ
-collection-browser-errors-link = ਹੋਰ ਜਾਣੋ
 collection-backlogged-crash-reports =
     .label = { -brand-short-name } ਨੂੰ ਤੁਹਾਡੇ ਤੌਰ 'ਤੇ ਬੈਕ-ਲਾਗ ਕਰੈਸ਼ ਰਿਪੋਰਟਾਂ ਭੇਜਣ ਦੀ ਇਜਾਜ਼ਤ ਦਿਓ
     .accesskey = c

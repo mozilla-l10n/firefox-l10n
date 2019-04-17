@@ -70,3 +70,9 @@ connection-proxy-socks-remote-dns =
 connection-dns-over-https =
     .label = HTTPS ‘ਤੇ DNS ਸਮਰੱਥ ਕਰੋ
     .accesskey = b
+# Variables:
+#   $url (String) - URL for the DNS over HTTPS provider
+connection-dns-over-https-url-default =
+    .label = ਮੂਲ ਵਰਤੋਂ ({ $url })
+    .accesskey = U
+    .tooltiptext = HTTPS ਉੱਤੇ DNS ਲੱਭਣ ਲਈ ਮੂਲ URL ਵਰਤੋਂ

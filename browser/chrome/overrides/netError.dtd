@@ -10,7 +10,7 @@
 <!ENTITY returnToPreviousPage.label "ਪਿੱਛੇ ਜਾਓ">
 <!ENTITY returnToPreviousPage1.label "ਪਿੱਛੇ ਜਾਓ (ਸਿਫਾਰਸ਼ੀ)">
 <!ENTITY advanced.label "ਤਕਨੀਕੀ">
-<!ENTITY continue2.label "…ਹੋਰ">
+<!ENTITY advanced2.label "…ਤਕਨੀਕੀ">
 <!ENTITY moreInformation.label "ਹੋਰ ਜਾਣਕਾਰੀ">
 <!ENTITY viewCertificate.label "ਸਰਟੀਫਿਕੇਟ ਨੂੰ ਵੇਖੋ">
 
@@ -146,12 +146,16 @@
 ">
 
 <!ENTITY certerror.longpagetitle1 "ਤੁਹਾਡਾ ਕਨੈਕਸ਼ਨ ਸੁਰੱਖਿਅਤ ਨਹੀਂ ਹੈ">
+
 <!ENTITY certerror.longpagetitle2 "ਚੇਤਾਵਨੀ: ਅੱਗੇ ਸੰਭਾਵਿਤ ਸੁਰੱਖਿਆ ਖ਼ਤਰਾ ਹੈ">
 <!ENTITY certerror.sts.longpagetitle  "ਕਨੈਕਟ ਨਹੀਂ ਹੈ: ਸੰਭਾਵਿਤ ਸੁਰੱਖਿਆ ਮਸਲਾ">
 <!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "<span class='hostname'/> ਦੇ ਮਾਲਕ ਨੇ ਆਪਣੀ ਵੈੱਬਸਾਈਟ ਨੂੰ ਗਲਤ ਢੰਗ ਨਾਲ ਸੰਰਚਿਤ ਕੀਤਾ ਹੈ। ਤੁਹਾਡੀ ਜਾਣਕਾਰੀ ਨੂੰ ਚੋਰੀ ਹੋਣ ਤੋਂ ਰੋਕਣ ਲਈ &brandShortName; ਇਸ ਵੈੱਬਸਾਈਟ ਨਾਲ ਕਨੈਕਟ ਨਹੀਂ ਹੈ।">
+<!-- Localization note (certerror.introPara2) - The text content of the span tag
+will be replaced at runtime with the name of the server to which the user
+was trying to connect. -->
 
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "ਇਸ ਬਾਰੇ ਤੁਸੀਂ ਕੀ ਕਰ ਸਕਦੇ ਹੋ?">
@@ -176,6 +180,7 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "ਛੋਟ ਸ਼ਾਮਲ">
+
 <!ENTITY securityOverride.exceptionButton1Label "ਖ਼ਤਰੇ ਨੂੰ ਮੰਨੋ ਤੇ ਜਾਰੀ ਰੱਖੋ">
 
 <!ENTITY errorReporting.automatic2 "ਇੰਜ ਦੀਆਂ ਸਮੱਸਿਆਵਾਂ ਦੀ ਜਾਣਕਾਰੀ ਦੇਣ ਨਾਲ Mozilla ਖ਼ਤਰਨਾਕ ਸਾਈਟਾਂ ਦੀ ਪਛਾਣ ਕਰਦਾ ਅਤੇ ਉਹਨਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਉਂਦਾ ਹੈ।">
@@ -194,6 +199,7 @@ was trying to connect. -->
      tags will be injected with actual values, please leave them unchanged. -->
 
 <!ENTITY certerror.pagetitle1  "ਅਸੁਰੱਖਿਅਤ ਕਨੈਕਸ਼ਨ">
+
 <!ENTITY certerror.pagetitle2  "ਚੇਤਾਵਨੀ: ਅੱਗੇ ਸੰਭਾਵਿਤ ਸੁਰੱਖਿਆ ਖ਼ਤਰਾ ਹੈ">
 <!ENTITY certerror.sts.pagetitle  "ਕਨੈਕਟ ਨਹੀਂ ਹੈ: ਸੰਭਾਵਿਤ ਸੁਰੱਖਿਆ ਮਸਲਾ">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "ਇਹ ਸਾਈਟ HTTP
