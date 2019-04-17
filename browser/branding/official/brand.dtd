@@ -8,6 +8,6 @@
 <!-- LOCALIZATION NOTE (brandProductName):
    This brand name can be used in messages where the product name needs to
    remain unchanged across different versions (Nightly, Beta, etc.). -->
-<!ENTITY  brandProductName      "ഫയർഫോക്സ്">
+<!ENTITY  brandProductName      "Firefox">
 <!ENTITY  vendorShortName       "Mozilla">
 <!ENTITY  trademarkInfo.part1   "ഫയര്‍ഫോക്സും ഫയര്‍ഫോക്സ് ലോഗോകളും മോസില്ലാ ഫൌണ്ടേഷന്റെ ട്രേഡ്മാർക്കുകൾ ആണ്.">
