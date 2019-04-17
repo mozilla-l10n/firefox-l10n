@@ -11,6 +11,7 @@
 <!-- General Settings -->
 <!ENTITY enableGlodaSearch.label       "Aktifkan Sistem Pencarian Global dan Pengindeksan Pesan">
 <!ENTITY enableGlodaSearch.accesskey   "i">
+<!ENTITY dateTimeFormatting.label      "Format Waktu dan Tanggal">
 <!ENTITY languageSelector.label        "Bahasa">
 
 
@@ -29,7 +30,9 @@
 
 <!-- Data Choices -->
 <!ENTITY telemetrySection.label          "Telemetri">
+<!ENTITY telemetryLearnMore.label        "Pelajari Lebih Lanjut">
 
+<!ENTITY crashReporterLearnMore.label    "Pelajari Lebih Lanjut">
 
 <!-- Update -->
 <!-- LOCALIZATION NOTE (updateApp.label):
@@ -44,7 +47,9 @@
   if required by your language.
  -->
 <!ENTITY updateApp.version.pre           "Versi ">
+<!ENTITY updateApp.version.post          "">
 <!ENTITY updateHistory.label             "Tampilkan Riwayat Pemutakhiran">
+
 
 
 <!-- Networking and Disk Space -->
