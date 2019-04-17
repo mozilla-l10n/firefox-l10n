@@ -56,6 +56,16 @@ about-telemetry-upload-type =
         [enabled] ijurujáma
        *[disabled] jejokopyre
     }
+# Example Output: 1 sample, average = 0, sum = 0
+# Variables:
+#   $sampleCount (Integer): amount of histogram samples
+#   $prettyAverage (Integer): average of histogram samples
+#   $sum (Integer): sum of histogram samples
+about-telemetry-histogram-stats =
+    { $sampleCount ->
+        [one] { $sampleCount } techaukarã, mombyte = { $prettyAverage }, mboheta ={ $sum }
+       *[other] { $sampleCount } techaukarã, mombyte = { $prettyAverage }, mboheta ={ $sum }
+    }
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = Ko kuatiarogue ohechauka marandu tembiapokue rehegua, hardware, jeporu ha ñemomba'etee ombyatyva'ekue Telemetry. Ko marandu oñemondo { $telemetryServerOwner }-pe oipytyvõ { -brand-full-name }-pe oiko porãve hag̃ua.
@@ -125,3 +135,5 @@ about-telemetry-category-header = mba'éichagua
 about-telemetry-method-header = tapereko
 about-telemetry-object-header = g̃uahẽseha
 about-telemetry-extra-header = mbohetapy
+about-telemetry-origin-origin = Ñepyrũha
+about-telemetry-origin-count = papa
