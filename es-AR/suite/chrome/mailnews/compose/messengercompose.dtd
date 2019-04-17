@@ -7,7 +7,13 @@
 
 <!ENTITY fromAddr.label "De:">
 <!ENTITY fromAddr.accesskey "D">
-<!ENTITY subject.label  "Asunto:">
+<!ENTITY toAddr.label "Para:">
+<!ENTITY ccAddr.label "Cc:">
+<!ENTITY bccAddr.label "Cco:">
+<!ENTITY replyAddr.label "Responder a:">
+<!ENTITY newsgroupsAddr.label "Grupo de noticias:">
+<!ENTITY followupAddr.label "Reenviar a:">
+<!ENTITY subject.label "Asunto:">
 <!ENTITY subject.accesskey "s">
 <!ENTITY attachments.label "Adjuntos:">
 <!ENTITY attachments.accesskey "A">
@@ -121,6 +127,7 @@
 <!ENTITY saveButton.tooltip "Guardar este mensaje"> 
 <!ENTITY stopButton.tooltip "Detener la transferencia actual"> 
 
+<!-- context menu items -->
 <!ENTITY openAttachment.label "Abrir">
 <!ENTITY openAttachment.accesskey "A">
 <!ENTITY renameAttachment.label "Renombrar…">
