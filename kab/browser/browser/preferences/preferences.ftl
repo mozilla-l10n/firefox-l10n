@@ -673,6 +673,7 @@ content-blocking-strict-desc = Isewḥal akk ineḍfaren id-yettaf { -brand-shor
 content-blocking-custom-desc = Fren ayen ara tesweḥleḍ.
 content-blocking-private-trackers = Ineḍfaren yettwasnen deg usfaylu uslig kan
 content-blocking-third-party-cookies = Inagan n tuqna n uḍfar n tɣawsiwin tis kraḍ
+content-blocking-all-cookies = Inagan n tuqqna meṛṛa
 content-blocking-all-windows-trackers = Ineḍfaren yettwasnen deg akk isfuyla
 content-blocking-all-third-party-cookies = Akk inagan n tuqqna n wis kraḍ
 content-blocking-warning-title = Aqeṛṛu d afella!
