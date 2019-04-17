@@ -8,3 +8,7 @@ back = వెనుకకు
 home = ముంగిలి
 fullscreen = నిండు తెర
 new-tab = కొత్త ట్యాబు
+# Meant to match the string displayed in an empty URL bar.
+open-location = వెతకండి లేదా చిరునామా ఇవ్వండి
+share = పంచుకోండి
+close-window = విండోను మూసివేయి

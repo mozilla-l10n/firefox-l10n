@@ -9,6 +9,7 @@
 
 title = ముఖ్యమైన వార్తలు
 changed-title = ఏమి మారింది?
+options-title = నా ఎంపికలు ఏమిటి?
 resources = వనరులు:
 sync-label = మీ ఈమెయిలును ఇవ్వండి
 sync-input =
