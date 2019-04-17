@@ -21,8 +21,6 @@
 <!-- Tab context menu -->
 <!ENTITY  reloadTab.label                    "Ath-luchdaich an taba">
 <!ENTITY  reloadTab.accesskey                "A">
-<!ENTITY  reloadAllTabs.label                "Ath-luchdaich gach taba">
-<!ENTITY  reloadAllTabs.accesskey            "A">
 <!ENTITY  selectAllTabs.label                "Tagh gach taba">
 <!ENTITY  selectAllTabs.accesskey            "S">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
@@ -31,8 +29,6 @@ a tab (i.e. it is a verb, not adjective). -->
 <!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  duplicateTab.accesskey             "D">
-<!ENTITY  closeTabOptions.label              "Dùin roghainnean nan tabaichean">
-<!ENTITY  closeTabOptions.accesskey          "O">
 <!-- LOCALIZATION NOTE (duplicateTabs.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
 <!ENTITY  duplicateTabs.label                "Dùblaich an taba">
@@ -47,9 +43,6 @@ left instead of right. -->
 <!ENTITY  closeOtherTabs.label               "Dùin na tabaichean eile">
 <!ENTITY  closeOtherTabs.accesskey           "D">
 
-<!ENTITY  closeSelectedTabs.label            "Dùin na tabaichean a thagh thu">
-<!ENTITY  closeSelectedTabs.accesskey        "S">
-
 <!ENTITY  closeTabs.label                    "Dùin na tabaichean">
 <!ENTITY  closeTabs.accesskey                "S">
 <!ENTITY  pinSelectedTabs.label              "Prìnich na tabaichean">
@@ -62,10 +55,6 @@ same accesskey but will never be visible at the same time. -->
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinSelectedTabs.accesskey        "p">
-<!-- Reload Tab and Reload Selected Tabs have the same accesskey
-but will never be visible at the same time. -->
-<!ENTITY  reloadSelectedTabs.label           "Ath-luchdaich na tabaichean a thagh thu">
-<!ENTITY  reloadSelectedTabs.accesskey       "R">
 <!-- LOCALIZATION NOTE(reloadTab.label, reloadTabs.label): have the same accesskey
 but will never be visible at the same time. -->
 <!ENTITY  reloadTabs.label                   "Ath-luchdaich na tabaichean">
@@ -74,6 +63,8 @@ but will never be visible at the same time. -->
 <!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  bookmarkSelectedTabs.accesskey     "B">
+
+<!-- Tab context menu -->
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -90,8 +81,6 @@ same accesskey but will never be visible at the same time. -->
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinTab.accesskey                 "b">
-<!ENTITY  sendTabToDevice.label              "Cuir an taba gu na h-uidheaman">
-<!ENTITY  sendTabToDevice.accesskey          "d">
 <!ENTITY  sendPageToDevice.label             "Cuir an taba gun uidheam">
 <!ENTITY  sendPageToDevice.accesskey         "d">
 <!ENTITY  sendLinkToDevice.label             "Cuir an ceangal gun uidheam">
@@ -110,8 +99,6 @@ These two items have the same accesskey but will never be visible at the same ti
 <!ENTITY  moveToNewWindow.accesskey          "G">
 <!ENTITY  reopenInContainer.label            "Ath-fhosgail san t-soitheach">
 <!ENTITY  reopenInContainer.accesskey        "e">
-<!ENTITY  bookmarkAllTabs.label              "Dèan comharra-lìn de gach taba…">
-<!ENTITY  bookmarkAllTabs.accesskey          "t">
 <!ENTITY  bookmarkTab.label                  "Dèan comharra-lìn dhen taba">
 <!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
@@ -123,6 +110,9 @@ These items have the same accesskey but will never be visible at the same time. 
 <!ENTITY  hiddenTabs.label                   "Tabaichean falaichte">
 
 <!ENTITY  listAllTabs.label      "Liostaich gach taba">
+<!-- LOCALIZATION NOTE (allTabsMenu.searchTabs.label): "Search" is a verb, as
+in "Search through tabs". -->
+<!ENTITY  allTabsMenu.searchTabs.label       "Lorg sna tabaichean">
 
 <!ENTITY tabCmd.label "Taba ùr">
 <!ENTITY tabCmd.accesskey "T">
@@ -142,6 +132,9 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.accesskey "C">
 <!ENTITY printCmd.commandkey "p">
 
+<!ENTITY importFromAnotherBrowserCmd.label "Ion-phortaich o bhrabhsair eile…">
+<!ENTITY importFromAnotherBrowserCmd.accesskey "I">
+
 <!ENTITY taskManagerCmd.label "Manaidsear nan saothair">
 
 <!ENTITY goOfflineCmd.label "Obraich far loidhne">
@@ -153,11 +146,6 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.label "Bàr nan comharra-lìn">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "Rudan air bàr nan comharra-lìn">
-
-<!ENTITY toolbarContextMenu.reloadAllTabs.label "Ath-luchdaich gach taba">
-<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "A">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Dèan comharra-lìn de gach taba…">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "t">
 
 <!ENTITY toolbarContextMenu.reloadSelectedTab.label "Ath-luchdaich an taba a thagh thu">
 <!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
@@ -229,6 +217,28 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenExit.label "Fàg modh na làn-sgrìn">
 <!ENTITY fullScreenExit.accesskey "l">
 
+ <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
+     for the Firefox Account toolbar signin menu screen. -->
+<!ENTITY fxa.signin.callout.label "Thoir Firefox leat">
+<!ENTITY fxa.signin.description.label "Faigh na comharran-lìn, an eachdraidh, na faclan-faire ’s roghainnean eile air na h-uidheaman air fad agad.">
+<!ENTITY fxa.signin.button.label "Cuir air &syncBrand.shortName.label;…">
+
+<!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
+     for the Firefox Account toolbar unverified menu screen. -->
+<!ENTITY fxa.unverified.callout.label "Thoir sùil air a’ phost-d">
+<!ENTITY fxa.unverified.description.label "Feumaidh tu an cunntas agad a dhearbhadh mus urrainn dhut sioncronachadh a dhèanamh.">
+<!ENTITY fxa.unverified.button.label "Fosgail roghainnean &syncBrand.shortName.label;…">
+
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbart menu screen. The `Signed in as` text is
+     followed by the user's email. -->
+<!ENTITY fxa.menu.signedInAs.label "Chlàraich thu a-steach mar">
+<!ENTITY fxa.menu.manageAccount.label "Stiùirich an cunntas…">
+<!ENTITY fxa.menu.syncSettings.label "Roghainnean &syncBrand.shortName.label;…">
+<!ENTITY fxa.menu.connectAnotherDevice.label "&syncedTabs.sidebar.connectAnotherDevice;">
+<!ENTITY fxa.menu.connectAnotherDevice2.label "Ceangail uidheam eile ris…">
+<!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
+
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring fullscreen.
@@ -245,6 +255,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY exitDOMFullscreenMac.button "Fàg an làn-sgrìn (esc)">
 <!ENTITY leaveDOMFullScreen.label "Fàg an làn-sgrìn">
 <!ENTITY leaveDOMFullScreen.accesskey "F">
+
+<!-- LOCALIZATION NOTE (pictureInPicture.label, pictureInPicture.accesskey):
+     these two strings are used when right-clicking on a video in the
+     content area when the Picture-in-Picture feature is enabled. -->
+<!ENTITY pictureInPicture.label "Dealbh am broinn deilbh">
+<!ENTITY pictureInPicture.accesskey "u">
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
@@ -263,9 +279,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "Cruthaich comharra-lìn dhan duilleag seo">
 <!ENTITY editThisBookmarkCmd.label "Deasaich an comharra-lìn seo">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-
-<!ENTITY subscribeToPageMenupopup.label "Fo-sgrìobh gun duilleag seo">
-<!ENTITY subscribeToPageMenuitem.label "Fo-sgrìobh gun duilleag seo…">
 
 <!ENTITY addCurPagesCmd.label "Dèan comharra-lìn de gach taba…">
 <!ENTITY showAllBookmarks2.label "Seall a h-uile comharra-lìn">
@@ -305,6 +318,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Stòr dàta san stòras bhuan">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Tha am brabhsair fo smachd cèin">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Fosgail panail an dearbhaidh-lìn">
+<!ENTITY urlbar.storageAccessAnchor.tooltip               "Fosgail panail ceadan na gnìomhachd brabhsaidh">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Stiùirich co-roinneadh a’ chamara ’s/no a’ mhicreofoin agad leis an làrach">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Stiùirich co-roinneadh a’ mhicreofoin agad leis an làrach">
@@ -381,10 +395,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Leasaichear-lìn">
 <!ENTITY webDeveloperMenu.accesskey   "L">
 
-<!ENTITY devtoolsRecordExecution.label "Clàraich an gnìomhachadh">
-<!ENTITY devtoolsSaveRecording.label "Sàbhail an clàradh">
-<!ENTITY devtoolsReplayExecution.label "Ath-chluich an gnìomhachadh">
-
 <!ENTITY inspectContextMenu.label     "Sgrùd an eileamaid">
 <!ENTITY inspectContextMenu.accesskey "Q">
 
@@ -429,6 +439,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmd2.accesskey     "o">
 <!ENTITY preferencesCmdUnix.label       "Roghainnean">
 <!ENTITY preferencesCmdUnix.accesskey     "n">
+
+<!ENTITY logins.label                           "Clàraidhean a-steach is faclan-faire">
 
 <!ENTITY clearRecentHistory.label               "Glan an eachdraidh faisg ort…">
 
@@ -514,7 +526,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "A">
 <!ENTITY customizeMenu.manageExtension.label "Stiùirich an leudachan">
 <!ENTITY customizeMenu.manageExtension.accesskey "E">
-
 <!ENTITY customizeMenu.removeExtension.label "Thoir an leudachan air falbh">
 <!ENTITY customizeMenu.removeExtension.accesskey "v">
 
@@ -655,6 +666,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.label      "Cruthaich comharra-lìn dhan fhrèam seo">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 <!ENTITY pageAction.copyLink.label    "Dèan lethbhreac dhen cheangal">
+
+<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
+  "Pocket" is a brand name. -->
+<!ENTITY pocketButton.tooltiptext     "Sàbhail ann am Pocket">
+<!ENTITY saveToPocketCmd.label        "Sàbhail an duilleag ann am Pocket">
+<!ENTITY saveToPocketCmd.accesskey    "k">
+<!ENTITY saveLinkToPocketCmd.label    "Sàbhail an ceangal ann am Pocket">
+<!ENTITY saveLinkToPocketCmd.accesskey "o">
+<!ENTITY pocketMenuitem.label         "Seall liosta Pocket">
+
 <!ENTITY emailPageCmd.label           "Cuir an dealbh air a' phost-d…">
 <!ENTITY emailPageCmd.accesskey       "C">
 <!ENTITY savePageCmd.label            "Sàbhail an duilleag mar…">
@@ -892,6 +913,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "Cha dug thu cead sònraichte sam bith dhan làrach seo.">
 <!ENTITY identity.permissionsReloadHint "Dh’fhaoidte gum bi agad ris an duilleag ath-luchdadh mus bi na h-atharraichean an sàs.">
 <!ENTITY identity.permissionsPreferences.tooltip "Fosgail roghainnean nan ceadan">
+<!ENTITY identity.contentBlockingPreferences.tooltip "Fosgail roghainnean bacadh na susbaint">
+
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -941,6 +964,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncSignIn.label             "Clàraich a-steach gu &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "Y">
 <!ENTITY syncSyncNowItem.label        "Sioncronaich an-dràsta">
+<!ENTITY syncSyncNowItemSyncing.label "’Ga shioncronachadh…">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "Ath-cheangail ri &syncBrand.shortName.label;…">
 <!ENTITY syncReAuthItem.accesskey     "r">
@@ -994,65 +1018,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.title "Bacadh susbaint">
 <!ENTITY contentBlocking.detected "Mhothaich sinn gu bheil susbaint air an làrach seo as urrainn dhuinn bacadh.">
 <!ENTITY contentBlocking.notDetected "Chan eil susbaint as urrainn dhuinn bacadh air an duilleag seo.">
-<!ENTITY contentBlocking.disabled.label "À comas">
-<!ENTITY contentBlocking.disabled.tooltip "Chuir thu bacadh susbaint à comas.">
-<!ENTITY contentBlocking.exception.tooltip "Chuir thu bacadh susbaint à comas air an làrach seo.">
 
-<!ENTITY contentBlocking.fastBlock.label "Tracaichean a tha slaodach ’gan luchdadh">
-<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
-     This label signals that this type of content blocking is turned
-     ON and is successfully blocking malicious/slow content, so this is
-     a positive thing. It forms the end of the (imaginary) sentence
-     "Slow-Loading Trackers [are] Blocked"-->
-<!ENTITY contentBlocking.fastBlock.blocked.label "Bacte">
-<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocking.label):
-     This label signals that this type of content blocking is turned
-     ON, so this is a positive thing. It forms the verb in (imaginary) sentence
-     "Firefox is blocking Slow-Loading Trackers"-->
-<!ENTITY contentBlocking.fastBlock.blocking.label "’Gam bacadh">
-<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
-     This is displayed as a link to preferences, where the user can add
-     this specific type of content blocking. When this text is shown
-     the type of content blocking is currently not enabled. -->
-<!ENTITY contentBlocking.fastBlock.add.label "Cuir bacadh ris…">
-
-<!ENTITY contentBlocking.trackingProtection2.label "Gach tracaiche ris am mothaich sinn">
 <!ENTITY contentBlocking.trackingProtection3.label "Tracaichean">
-<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
-     This label signals that this type of content blocking is turned
-     ON and is successfully blocking tracker content, so this is
-     a positive thing. It forms the end of the (imaginary) sentence
-     "Trackers [are] Blocked"-->
-<!ENTITY contentBlocking.trackingProtection.blocked.label "Bacte">
-<!-- LOCALIZATION NOTE (contentBlocking.tranckingProtection.blocking.label):
-     This label signals that this type of content blocking is turned
-     ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
-     "Firefox is blocking Trackers"-->
-<!ENTITY contentBlocking.trackingProtection.blocking.label "’Gam bacadh">
-<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
-     This is displayed as a link to preferences, where the user can add
-     this specific type of content blocking. When this text is shown
-     the type of content blocking is currently not enabled. -->
-<!ENTITY contentBlocking.trackingProtection.add.label "Cuir bacadh ris…">
 
-<!ENTITY contentBlocking.3rdPartyCookies.label "Briosgaidean threas-phàrtaidhean">
-<!ENTITY contentBlocking.3rdPartyCookies.trackers.label "Briosgaidean tracaidh">
-<!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.blocked.label):
-     This label signals that this type of content blocking is turned
-     ON and is successfully blocking third-party cookies, so this is
-     a positive thing. It forms the end of the (imaginary) sentence
-     "Third-Party Cookies [are] Blocked"-->
-<!ENTITY contentBlocking.3rdPartyCookies.blocked.label "Bacte">
-<!-- LOCALIZATION NOTE (contentBlocking.tranckingProtection.blocking.label):
-     This label signals that this type of content blocking is turned
-     ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
-     "Firefox is blocking Third-Party Cookies"-->
-<!ENTITY contentBlocking.3rdPartyCookies.blocking.label "’Gam bacadh">
-<!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.add.label):
-     This is displayed as a link to preferences, where the user can add
-     this specific type of content blocking. When this text is shown
-     the type of content blocking is currently not enabled. -->
-<!ENTITY contentBlocking.3rdPartyCookies.add.label "Cuir bacadh ris…">
+<!ENTITY contentBlocking.manageSettings.label "Stiùirich bacadh susbaint">
+<!ENTITY contentBlocking.manageSettings.accesskey "M">
+
+<!ENTITY contentBlocking.trackersView.label "Tracaichean">
+<!ENTITY contentBlocking.trackersView.strictInfo.label "Airson gach tracaiche a bhacadh, tagh “Teann” airson bacadh susbaint.">
+
+<!ENTITY contentBlocking.cookies.label "Briosgaidean">
+<!ENTITY contentBlocking.cookiesView.label "Briosgaidean is dàta làraichean">
+
+<!ENTITY contentBlocking.cryptominers.label "Criopto-mhèinneadairean">
+<!ENTITY contentBlocking.cryptominersView.label "Criopto-mhèinneadairean">
+
+<!ENTITY contentBlocking.fingerprinters.label "Lorgaichean-meur">
+<!ENTITY contentBlocking.fingerprintersView.label "Lorgaichean-meur">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Dèan aithris air duilgheadas">
 <!ENTITY contentBlocking.breakageReportView.label "Dèan aithris air duilgheadasan">
@@ -1062,22 +1044,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Dè na duilgheadasan a bha agad? (Roghainneil)">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Cuir an aithisg">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Sguir dheth">
-
-<!ENTITY trackingProtection.title "Dìon o thracadh">
-<!ENTITY trackingProtection.tooltip "Fosgail roghainnean an dìon o thracadh">
-
-<!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock4.label "Cuir à comas bacadh air an làrach seo">
-<!ENTITY trackingProtection.unblock4.accesskey "D">
-<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate4.label "Cuir am bacadh à comas rè seal">
-<!ENTITY trackingProtection.unblockPrivate4.accesskey "D">
-<!ENTITY trackingProtection.block5.label "Cuir an comas bacadh air an làrach seo">
-<!ENTITY trackingProtection.block5.accesskey "E">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
@@ -1096,11 +1062,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pluginNotification.showAll.label "Seall na h-uile">
 <!ENTITY pluginNotification.showAll.accesskey "S">
-
-<!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
-<!ENTITY pluginActivateNow.label "Ceadaich an-dràsta">
-<!ENTITY pluginActivateAlways.label "Ceadaich is cuimhnich">
-<!ENTITY pluginBlockNow.label "Bac am plugan">
 
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
      width of the plugin popup notification that can appear if a plugin has been
@@ -1146,6 +1107,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.acceptButton.accesskey "d">
 <!ENTITY updateAvailable.cancelButton.label "Chan ann an-dràsta">
 <!ENTITY updateAvailable.cancelButton.accesskey "n">
+
 <!ENTITY updateAvailable.panelUI.label "Luchdaich a-nuas ùrachadh &brandShorterName;">
 
 <!ENTITY updateManual.message "Luchdaich a-nuas lethbhreac ùr de &brandShorterName; agus cuidichidh sinn thu ’ga stàladh.">
@@ -1187,11 +1149,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "Gnìomhan na duilleige">
 <!ENTITY pageAction.addToUrlbar.label "Cuir ri bàr an t-seòlaidh">
 <!ENTITY pageAction.removeFromUrlbar.label "Thoir air falbh o bhàr an t-seòlaidh">
-<!ENTITY pageAction.allowInUrlbar.label "Seall ann am bàr an t-seòlaidh">
-<!ENTITY pageAction.disallowInUrlbar.label "Na seall ann am bàr an t-seòlaidh">
 <!ENTITY pageAction.manageExtension.label "Stiùirich an leudachan...">
-
-<!ENTITY pageAction.sendTabToDevice.label "Cuir an taba gu uidheam">
 
 <!ENTITY sendToDevice.syncNotReady.label "A’ sioncronachadh nan uidheam...">
 
@@ -1210,3 +1168,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Gus na tuilleadain agad a stiùireadh, briog air <image class='addon-addon-icon'/> sa chlàr-taice <image class='addon-toolbar-icon'/>.">
+<!ENTITY addonPostInstall.incognito.checkbox.label "Leig leis an leudachan seo ruith ann an uinneagan prìobhaideach">
+<!ENTITY addonPostInstall.incognito.checkbox.accesskey "A">
+
+<!ENTITY addonPrivateBrowsing.header2.label "Atharraich gu leudachain ann an uinneagan prìobhaideach">
+<!ENTITY addonPrivateBrowsing.body2.label "Chan obraich leudachan ùr sam bith a chuireas tu ri &brandShorterName; ann an uinneagan prìobhaideach ach ma cheadaicheas tu seo sna roghainnean.">
+<!ENTITY addonPrivateBrowsing.learnMore.label "Fiosraich mar a stiùiricheas tu roghainnean nan leudachan">
+<!ENTITY addonPrivateBrowsing.okButton.label "Ceart, tha mi agaibh">
+<!ENTITY addonPrivateBrowsing.okButton.accesskey "O">
+<!ENTITY addonPrivateBrowsing.manageButton.label "Stiùirich na leudachain">
+<!ENTITY addonPrivateBrowsing.manageButton.accesskey "M">
