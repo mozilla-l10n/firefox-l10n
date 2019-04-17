@@ -4,8 +4,6 @@
 
 do-not-track-description = నన్ను వెంబడించవద్దని ఆశిస్తున్నానని వెబ్‌సైట్లకు తెలిసేలా “ట్రాక్ చెయ్యవద్దు” అనే సూచనను పంపించు
 do-not-track-learn-more = ఇంకా తెలుసుకోండి
-do-not-track-option-default =
-    .label = ట్రాకింగ్ సంరక్షణ వాడుతున్నప్పుడు మాత్రమే
 do-not-track-option-always =
     .label = ఎల్లప్పుడూ
 pref-page =
@@ -559,12 +557,6 @@ history-clear-button =
 sitedata-header = కుకీలు, సైటు డేటా
 sitedata-total-size-calculating = సైటు దత్తాంశం, కాషెల పరిమాణాన్ని లెక్కిస్తున్నాం…
 sitedata-learn-more = మరింత తెలుసుకోండి
-sitedata-keep-until = ఇంత వరకు ఉంచు
-    .accesskey = u
-sitedata-keep-until-expire =
-    .label = అవి కాలం చెల్లేంతవరకు
-sitedata-keep-until-closed =
-    .label = { -brand-short-name } మూసివేయబడింది
 sitedata-allow-cookies-option =
     .label = కుకీలను, సైటు డేటాను అంగీకరించు
     .accesskey = A
@@ -575,12 +567,6 @@ sitedata-disallow-cookies-option =
 # The list items are the strings named sitedata-block-*-option*.
 sitedata-block-desc = నిరోధించిన రకం
     .accesskey = T
-sitedata-block-trackers-option-recommended =
-    .label = మూడవ పక్ష ట్రాకర్లు (సిఫారసు చేయబడింది)
-sitedata-block-trackers-option =
-    .label = మూడవ పక్ష ట్రాకర్లు
-sitedata-block-unvisited-option =
-    .label = చూడని వెబ్‌సైట్ల కుకీలు
 sitedata-option-block-trackers =
     .label = మూడవ-పక్ష ట్రాకర్లు
 sitedata-option-block-unvisited =
@@ -591,9 +577,6 @@ sitedata-clear =
 sitedata-settings =
     .label = డేటాని నిర్వహించండి…
     .accesskey = M
-sitedata-cookies-exceptions =
-    .label = మినహాయింపులు…
-    .accesskey = E
 
 ## Privacy Section - Address Bar
 
@@ -614,30 +597,6 @@ addressbar-suggestions-settings = సెర్చింజను సూచనల
 
 content-blocking-header = విషయ నిరోధం
 content-blocking-learn-more = ఇంకా తెలుసుకోండి
-content-blocking-restore-defaults =
-    .label = అప్రమేయాలను పునరుద్ధరించు
-    .accesskey = R
-content-blocking-toggle-on =
-    .tooltiptext = విషయ నిరోధాన్ని ఆఫ్ చెయ్యండి
-content-blocking-toggle-off =
-    .tooltiptext = విషయ నిరోధాన్ని ఆన్ చెయ్యండి
-content-blocking-toggle-label-on = ఆన్
-    .accesskey = O
-content-blocking-toggle-label-off = ఆఫ్
-    .accesskey = O
-content-blocking-category-label = వేటిని నిరోధించాలో ఎంచుకోండి
-content-blocking-tracking-protection-trackers-label =
-    .label = ట్రాకర్లు
-    .accesskey = T
-content-blocking-tracking-protection-all-detected-trackers-label =
-    .label = గుర్తించబడిన ట్రాక్టర్లన్నీ
-    .accesskey = T
-content-blocking-tracking-protection-option-always =
-    .label = ఎల్లప్పుడూ
-    .accesskey = A
-content-blocking-tracking-protection-option-private =
-    .label = అంతరంగిక కిటికీలలో మాత్రమే
-    .accesskey = p
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 content-blocking-setting-standard =
@@ -666,41 +625,14 @@ content-blocking-option-private =
     .label = అంతరంగిక కిటికీలలో మాత్రమే
     .accesskey = p
 content-blocking-tracking-protection-change-block-list = నిరోధపు జాబితాను మార్చు
-content-blocking-third-party-cookies-label =
-    .label = మూడవ-పక్ష కుకీలు
-    .accesskey = C
-content-blocking-change-cookie-settings =
-    .label = కుకీ అమరికలు మార్చండి
-    .accesskey = S
-content-blocking-reject-trackers-block-trackers-option-recommended =
-    .label = ట్రాకర్లు (సిఫార్సు చేయబడింది)
-    .accesskey = k
-content-blocking-reject-trackers-block-trackers-option =
-    .label = ట్రాకర్లు
-    .accesskey = k
 content-blocking-cookies-label =
     .label = కుకీలు
     .accesskey = C
+content-blocking-expand-section =
+    .tooltiptext = మరింత సమాచారం
 
 ## Privacy Section - Tracking
 
-tracking-header = ట్రాకింగ్ సంరక్షణ
-tracking-mode-label = తెలిసిన ట్రాకర్లను నిరోధించడానికి ట్రాకింగ్ రక్షణని ఉపయోగించండి
-tracking-mode-always =
-    .label = ఎల్లప్పుడూ
-    .accesskey = y
-tracking-mode-private =
-    .label = కేవలం ఆంతరంగిక విండోలో మాత్రమే
-    .accesskey = l
-tracking-mode-never =
-    .label = ఎప్పటికీ కాదు
-    .accesskey = n
-tracking-exceptions =
-    .label = మినహాయింపులు…
-    .accesskey = x
-tracking-change-block-list =
-    .label = నిషేధిత జాబితాను మార్చు…
-    .accesskey = C
 tracking-manage-exceptions =
     .label = మినహాయింపులను నిర్వహించండి…
     .accesskey = x
@@ -728,9 +660,6 @@ permissions-notification-link = ఇంకా తెలుసుకోండి
 permissions-block-autoplay-media-exceptions =
     .label = మినహాయింపులు…
     .accesskey = E
-autoplay-option-ask =
-    .label = ఎల్లప్పుడూ అడుగు
-permissions-autoplay-link = ఇంకా తెలుసుకోండి
 permissions-block-popups =
     .label = పాప్-అప్ విండోలను నిరోధించు
     .accesskey = B
@@ -758,10 +687,6 @@ addon-recommendations-link = ఇంకా తెలుసుకోండి
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = ఈ బిల్డ్ కాన్ఫిగరేషన్ కోసం డేటా రిపోర్టింగ్ నిలిపివేయబడింది
-collection-browser-errors =
-    .label = విహారిణి లోప నివేదికలను (లోపాల సందేశాలతో సహా) { -vendor-short-name }‌కి పంపించుటకు { -brand-short-name }‌ని అనుమతించు
-    .accesskey = b
-collection-browser-errors-link = ఇంకా తెలుసుకోండి
 collection-backlogged-crash-reports =
     .label = మిగిలిపోయిన క్రాష్ నివేదికలకు నా తరపున పంపించడానికి { -brand-short-name }‌ని అనుమతించు
     .accesskey = c
