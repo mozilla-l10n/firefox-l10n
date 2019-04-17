@@ -695,10 +695,40 @@ content-blocking-warning-title = An aire!
 content-blocking-warning-desc = Ma bhacas tu briosgaidean is tracaichean, dh’fhaoidte gum bris seo cuid a làraichean-lìn. Tha e furasta a chur à comas airson làraichean sa bheil earbsa agad.
 content-blocking-warning-description = Ma bhacas tu susbaint, dh’fhaoidte gum bris seo cuid a làraichean-lìn. Tha e furasta a chur à comas airson làraichean sa bheil earbsa agad.
 content-blocking-learn-how = Barrachd fiosrachaidh
+content-blocking-reload-description = Feumaidh tu na tabaichean agad ath-luchdadh mus bi na h-atharraichean seo an sàs.
+content-blocking-reload-tabs-button =
+    .label = Ath-luchdaich gach taba
+    .accesskey = A
+content-blocking-trackers-label =
+    .label = Tracaichean
+    .accesskey = T
+content-blocking-tracking-protection-option-all-windows =
+    .label = Anns gach uinneag
+    .accesskey = A
+content-blocking-option-private =
+    .label = Ann an uinneagan prìobhaideach a-mhàin
+    .accesskey = p
 content-blocking-tracking-protection-change-block-list = Atharraich an liosta bacaidh
+content-blocking-cookies-label =
+    .label = Briosgaidean
+    .accesskey = o
+content-blocking-expand-section =
+    .tooltiptext = Barrachd fiosrachaidh
+# Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
+content-blocking-cryptominers-label =
+    .label = Criopto-mhèinneadairean
+    .accesskey = m
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+content-blocking-fingerprinters-label =
+    .label = Lorgaichean-meur
+    .accesskey = L
 
 ## Privacy Section - Tracking
 
+tracking-manage-exceptions =
+    .label = Stiùirich na h-eisgeachdan…
+    .accesskey = h
 
 ## Privacy Section - Permissions
 
@@ -723,6 +753,9 @@ permissions-notification-link = Barrachd fiosrachaidh
 permissions-notification-pause =
     .label = Cuir am brath ’na stad gus an ath-thòisich { -brand-short-name }
     .accesskey = n
+permissions-block-autoplay-media2 =
+    .label = Bac làraichean-lìn o bhith a’ cluich fuaim gu fèin-obrachail
+    .accesskey = B
 permissions-block-autoplay-media-exceptions =
     .label = Eisgeachdan...
     .accesskey = E
@@ -755,6 +788,9 @@ collection-health-report-link = Barrachd fiosrachaidh
 collection-studies =
     .label = Leig le { -brand-short-name } obair-rannsachaidh a stàladh is a ruith
 collection-studies-link = Seall obair-rannsachaidh { -brand-short-name }
+addon-recommendations =
+    .label = Thoir cead dha { -brand-short-name } molaidhean pearsantaichte airson leudachain a dhèanamh
+addon-recommendations-link = Barrachd fiosrachaidh
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Tha aithriseadh dàta à comas airson rèiteachadh a’ bhuild seo

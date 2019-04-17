@@ -7,7 +7,6 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "p">
 
 <!ENTITY privateBrowsing.title                           "Brabhsadh prìobhaideach">
-<!ENTITY privateBrowsing.title.tracking                  "Brabhsadh prìobhaideach le dìon o thracadh">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Nuair a nì thu brabhsadh ann an uinneag phrìobhaideach, ">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "cha sàbhail Firefox">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
@@ -28,9 +27,17 @@
 <!ENTITY aboutPrivateBrowsing.learnMore3.title           "bhrabhsadh prìobhaideach">
 <!ENTITY aboutPrivateBrowsing.learnMore3.after           ".">
 
-<!ENTITY trackingProtection.title                        "Dìon o thracadh">
-<!ENTITY trackingProtection.description2                 "Cleachdaidh cuid a làraichean-lìn tracaichean a chumas sùil air na nì thu air an eadar-lìon. Ma chleachdas tu an dìon o thracadh, bacaidh Firefox mòran thracaichean a chruinneachadh dàta mun ghiùlan bhrabhsaidh agad.">
 <!ENTITY trackingProtection.startTour1                   "Seo mar a dh’obraicheas e">
 
 <!ENTITY contentBlocking.title                           "Bacadh susbaint">
 <!ENTITY contentBlocking.description                     "Cleachdaidh cuid a làraichean-lìn tracaichean a chumas sùil air do ghnìomhachd air feadh an eadar-lìn. Ann an uinneagan prìobhaideach, bacaidh an gleus bacadh susbaint aig Firefox tracaichean gu fèin-obrachail a chruinnicheas fiosrachadh mun bhrabhsadh a nì thu.">
+
+<!-- Strings for new Private Browsing with Search -->
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.search.placeholder): This is the placeholder
+                       text for the search box.   -->
+<!ENTITY aboutPrivateBrowsing.search.placeholder         "Lorg air an lìon">
+<!ENTITY aboutPrivateBrowsing.info.title                 "Tha thu ann an uinneag phrìobhaideach">
+<!ENTITY aboutPrivateBrowsing.info.description           "Falamhaichidh &brandShortName; eachdraidh nan lorg is a’ bhrabhsaidh agad nuair a dh’fhàgas tu an aplacaid no nuair a dhùineas tu gach taba agus uinneag ann am brabhsadh prìobhaideach. Fhad ’s nach cuir seo am falach cò thusa mu choinneamh làraichean-lìn no solaraiche nan seirbheisean-lìn agad, cumaidh e na nì thu air loidhne am falach o dhaoine eile a chleachdas an coimpiutair seo.">
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article
+                       about private browsing myths.   -->
+<!ENTITY aboutPrivateBrowsing.info.myths                 "Faoin-sgeulan cumanta mun bhrabhsadh phrìobhaideach">
