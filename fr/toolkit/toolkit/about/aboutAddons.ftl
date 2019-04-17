@@ -274,3 +274,7 @@ enable-addon-button = Activer
 expand-addon-button = Plus d’options
 addons-enabled-heading = Activé
 addons-disabled-heading = Désactivé
+# This string is used to show that an add-on is disabled.
+# Variables:
+#   $name (string) - The name of the add-on
+addon-name-disabled = { $name } (désactivé)
