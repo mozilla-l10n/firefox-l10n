@@ -8,6 +8,7 @@ privatebrowsingpage-open-private-window-label = ఆంతరంగిక వి�
     .accesskey = P
 about-private-browsing-info-notsaved = మీరు అంతరంగిక విండోలో విహరించేప్పుడు, { -brand-short-name } <strong>వీటిని భద్రపరచదు</strong>:
 about-private-browsing-info-bookmarks = ఇష్టాంశాలు
+about-private-browsing-info-title = మీరు అంతరంగిక విండోలో ఉన్నారు
 about-private-browsing-info-searches = శోధనలు
 about-private-browsing-info-downloads = దింపుకోళ్ళు
 private-browsing-title = అంతరంగిక విహరణ
