@@ -10,6 +10,7 @@
 title = ముఖ్యమైన వార్తలు
 changed-title = ఏమి మారింది?
 resources = వనరులు:
+sync-label = మీ ఈమెయిలును ఇవ్వండి
 sync-input =
     .placeholder = ఈమెయిలు
 sync-button = కొనసాగించు
