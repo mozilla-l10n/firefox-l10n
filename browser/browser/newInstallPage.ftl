@@ -11,6 +11,7 @@ title = പ്രധാന വാർത്തകൾ
 heading = നിങ്ങളുടെ { -brand-short-name } പ്രൊഫൈലിലെ മാറ്റങ്ങൾ
 changed-title = എന്തൊക്കെയാണ് മാറിയത്?
 options-title = എന്റെ ഐച്ഛികങ്ങൾ എന്തെല്ലാമാണ്?
+resources = വിഭവങ്ങൾ:
 sync-label = നിങ്ങളുടെ ഇമെയിൽ നൽകുക
 sync-input =
     .placeholder = ഇമെയിൽ
