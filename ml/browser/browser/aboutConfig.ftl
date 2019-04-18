@@ -7,6 +7,7 @@ about-config-warning-title = ജാഗ്രതൈ!!
 about-config-warning-text = ഈ സവിശേഷക്രമീകരണങ്ങൾ മാറ്റുന്നത് ഈ ആപ്ലിക്കേഷന്റെ സ്ഥിരത, സുരക്ഷ, പ്രകടനം എന്നിവയ്ക്ക് ദോഷകരമായേക്കും. ചെയ്യുന്നതെന്തെന്ന് ഉറപ്പുണ്ടെങ്കിൽ മാത്രം തുടരുക.
 about-config-warning-checkbox = ദയവായി ഇതേ കാര്യം വീണ്ടും ഓർമ്മിപ്പിക്കുക!
 about-config-warning-button = ഞാൻ അപകടസാദ്ധ്യത മനസ്സിലാക്കുന്നു
+about-config-title = about: config
 about-config2-title = വിപുലമായ കോൺഫിഗറേഷനുകൾ
 about-config-search-input =
     .placeholder = തെരയുക
@@ -22,6 +23,7 @@ about-config-pref-delete = ഇല്ലാതാക്കുക
 
 about-config-pref-add-type-boolean = ബൂലിയൻ
 about-config-pref-add-type-number = സംഖ്യ
+about-config-pref-add-type-string = വാക്യം
 
 ## Preferences with a non-default value are differentiated visually, and at the
 ## same time the state is made accessible to screen readers using an aria-label
