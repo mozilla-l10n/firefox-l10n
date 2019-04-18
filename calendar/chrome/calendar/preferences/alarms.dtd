@@ -12,13 +12,14 @@
 <!ENTITY pref.calendar.alarms.playsound.accessKey "p">
 <!ENTITY pref.calendar.alarms.sound.useDefault.label "Standertlûd brûke">
 <!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "S">
+<!ENTITY pref.calendar.alarms.sound.useCustom.label "Brûk it folgjende lûdsbestân">
+<!ENTITY pref.calendar.alarms.sound.useCustom.accessKey "B">
 <!ENTITY pref.calendar.alarms.sound.browse.label "Blêdzje…">
 <!ENTITY pref.calendar.alarms.sound.browse.accessKey "B">
 <!ENTITY pref.calendar.alarms.sound.play.label "Ofspylje">
 <!ENTITY pref.calendar.alarms.sound.play.accessKey "O">
 <!ENTITY pref.showalarmbox "In alarmfinster toane">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "t">
-<!ENTITY pref.missedalarms "Miste alarmen toane">
 <!ENTITY pref.missedalarms2 "Miste omtinkens foar beskriuwbere aginda’s toane">
 <!ENTITY pref.calendar.alarms.missedAlarms.accessKey "M">
 <!ENTITY pref.calendar.alarms.defaults.label "Standert alarmynstellingen">
