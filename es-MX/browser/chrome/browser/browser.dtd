@@ -233,6 +233,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Ingresado como">
 <!ENTITY fxa.menu.manageAccount.label "Administrar cuenta…">
+<!ENTITY fxa.menu.syncSettings.label "Configuración de &syncBrand.shortName.label;…">
 <!ENTITY fxa.menu.connectAnotherDevice.label "&syncedTabs.sidebar.connectAnotherDevice;">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Conectar otro dispositivo…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
@@ -1103,6 +1104,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.acceptButton.accesskey "D">
 <!ENTITY updateAvailable.cancelButton.label "Ahora no">
 <!ENTITY updateAvailable.cancelButton.accesskey "N">
+
 <!ENTITY updateAvailable.panelUI.label "Descargar actualización &brandShorterName;">
 
 <!ENTITY updateManual.message "Descarga una nueva copia de la actualización &brandShorterName;.">
@@ -1163,6 +1165,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Administra tus complementos haciendo clic <image class='addon-addon-icon'/> en el <image class='addon-toolbar-icon'/> menú.">
+<!ENTITY addonPostInstall.incognito.checkbox.label "Permitir que esta extensión se ejecute en ventanas privadas">
 <!ENTITY addonPostInstall.incognito.checkbox.accesskey "A">
 
 <!ENTITY addonPrivateBrowsing.header2.label "Cambiar a extensiones en ventanas privadas">
