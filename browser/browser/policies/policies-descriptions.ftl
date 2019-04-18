@@ -58,6 +58,7 @@ policy-HardwareAcceleration = Wannear false, hardwarefersnelling útskeakelje.
 policy-Homepage = De startside ynstelle en opsjoneel beskoattelje.
 policy-InstallAddonsPermission = Tastean dat bepaalde websites add-ons ynstallearje.
 policy-NetworkPrediction = ‘Network prediction’ (DNS prefetching) ynskeakelje of útskeakelje.
+policy-NewTabPage = De nije-ljepblêdside ynskeakelje of útskeakelje.
 policy-NoDefaultBookmarks = Oanmeitsjen fan de standertblêdwizers dy't mei { -brand-short-name } mei levere wurde útskeakelje, krekt as de Tûke blêdwizers (Meast besocht, Resinte labels). Noat: dizze beliedsregel is allinnich fan krêft by gebrûk derfan eardat it profyl foar it earst útfierd wurdt.
 policy-OfferToSaveLogins = De ynstelling foar it tastean dat { -brand-short-name } mei oanbiede bewarre oanmeldingen en wachtwurden te ûnthâlde ôftwinge. Sawol de wearde true as false wurdt akseptearre.
 policy-OverrideFirstRunPage = De side dy't foar it earst iepene wurdt ferfange. Stel dizze beliedsregel yn op leech as jo de oanbelangjende side útskeakelje wolle.
@@ -70,6 +71,7 @@ policy-RequestedLocales = De list fan frege locales foar de tapassing ynstelle, 
 policy-SanitizeOnShutdown = Alle navigaasjegegevens wiskje by ôfsluten.
 policy-SearchBar = De standertlokaasje fan de sykbalke ynstelle. De brûker mei dizze noch hieltyd oanpasse.
 policy-SearchEngines = Ynstellingen foar sykmasinen konfigurearje. Dizze beliedsregel is allinnich beskikber yn de Extended Support Release (ESR)-ferzje.
+policy-SearchSuggestEnabled = Syksuggestjes ynskeakelje of útskeakelje.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = PKCS #11-modules ynstallearje.
 policy-SSLVersionMax = De maksimale SSL-ferzje ynstelle.
