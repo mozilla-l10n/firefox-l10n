@@ -32,6 +32,7 @@
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to https://www.thunderbird.net/get-involved/. -->
 <!ENTITY helpus.end                 "">
 
+<!ENTITY releaseNotes.link          "Catatan rilis">
 
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 <!ENTITY bottomLinks.license        "Informasi Lisensi">
