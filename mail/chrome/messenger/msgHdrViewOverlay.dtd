@@ -87,7 +87,7 @@
 <!ENTITY openAllAttachmentsCmd.label    "Åbn alle…">
 <!ENTITY openAllAttachmentsCmd.accesskey    "l">
 <!ENTITY saveAllAttachmentsCmd.label    "Gem alle…">
-<!ENTITY saveAllAttachmentsCmd.accesskey    "a">
+<!ENTITY saveAllAttachmentsCmd.accesskey    "G">
 <!ENTITY detachAllAttachmentsCmd.label    "Afhæft alle…">
 <!ENTITY detachAllAttachmentsCmd.accesskey    "A">
 <!ENTITY deleteAllAttachmentsCmd.label    "Slet alle…">
