@@ -12,6 +12,8 @@
 <!ENTITY pref.calendar.alarms.playsound.accessKey "S">
 <!ENTITY pref.calendar.alarms.sound.useDefault.label "Varsayılan ses dosyasını kullan">
 <!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "d">
+<!ENTITY pref.calendar.alarms.sound.useCustom.label "Aşağıdaki ses dosyasını kullan">
+<!ENTITY pref.calendar.alarms.sound.useCustom.accessKey "s">
 <!ENTITY pref.calendar.alarms.sound.browse.label "Gözat…">
 <!ENTITY pref.calendar.alarms.sound.browse.accessKey "z">
 <!ENTITY pref.calendar.alarms.sound.play.label "Çal">
