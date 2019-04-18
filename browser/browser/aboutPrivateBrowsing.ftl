@@ -24,3 +24,4 @@ about-private-browsing =
     .title = वेबवर शोधा
 about-private-browsing-not-private = आपण सध्या खाजगी पटलात नाही.
 content-blocking-title = मजकूर अवरोधन
+content-blocking-description = काही वेबसाइट ट्रॅकर वापरतात जे इंटरनेटवर आपल्या क्रियाकलापांवर लक्ष ठेवू शकतात. खाजगी पटलामध्ये, { -brand-short-name } मजकूर अवरोधित करणे स्वयंचलितपणे अनेक ट्रॅकर अवरोधित करते जे आपल्या ब्राउझिंग वर्तनाबद्दल माहिती गोळा करू शकतात.
