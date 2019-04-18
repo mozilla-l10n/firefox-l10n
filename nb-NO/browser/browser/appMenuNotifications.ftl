@@ -29,6 +29,9 @@ appmenu-addon-private-browsing-installed =
     .buttonlabel = Ok, jeg forstår
     .buttonaccesskey = O
 appmenu-addon-post-install-message = Administrer utvidelsene dine ved å klikke på <image data-l10n-name='addon-install-icon'></image> i menyen <image data-l10n-name='addon-menu-icon'></image>.
+appmenu-addon-post-install-incognito-checkbox =
+    .label = Tillat at denne utvidelsen kjøres i private vindu
+    .accesskey = a
 appmenu-addon-private-browsing =
     .label = Endring av hvordan utvidelser virker i private vindu
     .buttonlabel = Behandle utvidelser
