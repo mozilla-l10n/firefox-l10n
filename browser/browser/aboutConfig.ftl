@@ -8,6 +8,7 @@ about-config-warning-text = Dersom du endrer disse avanserte innstillingene kan 
 about-config-warning-checkbox = Irriter meg igjen, takk!
 about-config-warning-button = Jeg aksepterer risikoen
 about-config-title = about:config
+about-config2-title = Avanserte innstillinger
 about-config-search-input =
     .placeholder = Søk
 about-config-show-all = Vis alt
