@@ -3,8 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY systemIntegration.title  "Integrasi dengan Sistem">
-
-
+<!ENTITY acceptIntegration.label  "Setel menjadi baku">
 <!ENTITY cancelIntegration2.label  "Batal">
 <!ENTITY defaultClient.intro  "Gunakan &brandShortName; sebagai program klien untuk:">
 
