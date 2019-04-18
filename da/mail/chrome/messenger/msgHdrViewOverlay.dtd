@@ -89,7 +89,7 @@
 <!ENTITY saveAllAttachmentsCmd.label    "Gem alle…">
 <!ENTITY saveAllAttachmentsCmd.accesskey    "a">
 <!ENTITY detachAllAttachmentsCmd.label    "Afhæft alle…">
-<!ENTITY detachAllAttachmentsCmd.accesskey    "f">
+<!ENTITY detachAllAttachmentsCmd.accesskey    "A">
 <!ENTITY deleteAllAttachmentsCmd.label    "Slet alle…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "t">
 
@@ -98,6 +98,7 @@
 <!ENTITY detachedAttachmentFolder.show.label        "Åbn hentningsmappe">
 <!ENTITY detachedAttachmentFolder.show.accesskey    "H">
 <!ENTITY detachedAttachmentFolder.showMac.label     "Vis i Finder">
+<!ENTITY detachedAttachmentFolder.showMac.accesskey "F">
 
 <!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label       "Gem">
