@@ -297,6 +297,7 @@ home-new-windows-tabs-header = പുതിയ ടാബുകളും ജാ�
 
 ## Home Section - Home Page Customization
 
+home-homepage-mode-label = ഹോംപേജും പുതിയ വിൻഡോകളും
 home-newtabs-mode-label = പുതിയ ടാബുകൾ
 home-restore-defaults =
     .label = സ്വതവേയുള്ളവ പുനഃസ്ഥാപിക്കുക
@@ -441,6 +442,7 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = സംരക്ഷിക്കുക
     .accesskey = v
+sync-fxa-begin-pairing = ഒരു ഉപകരണം ജോഡിയാക്കുക
 sync-tos-link = സേവന നിബന്ധനകള്‍
 sync-fxa-privacy-notice = സ്വകാര്യ പോളിസി
 
@@ -450,6 +452,7 @@ privacy-header = ബ്രൗസർ സ്വകാര്യത
 
 ## Privacy Section - Forms
 
+logins-header = ഉപയോക്തൃനാമങ്ങളും രഹസ്യവാക്കുകളും
 forms-exceptions =
     .label = ഒഴിവാക്കേണ്ടവ…
     .accesskey = x
@@ -496,6 +499,9 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = സജ്ജീകരണങ്ങള്‍ …
     .accesskey = t
+history-clear-button =
+    .label = നാള്‍വഴി മായ്ക്കൂ...
+    .accesskey = s
 
 ## Privacy Section - Site Data
 
@@ -595,6 +601,7 @@ collection-health-report =
     .label = { -brand-short-name }ലേക്കുള്ള സാങ്കേതിക, ഇന്ററാക്ഷൻ ഡാറ്റ അയയ്ക്കാൻ { -vendor-short-name } നെ അനുവദിക്കുക
     .accesskey = r
 collection-health-report-link = കൂടുതല്‍ അറിയുക
+addon-recommendations-link = കൂടുതല്‍ അറിയുക
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = ഈ ബിൽഡ് കോൺഫിഗറേഷനായി ഡാറ്റ റിപ്പോർട്ടുചെയ്യൽ പ്രവർത്തനരഹിതമാക്കി
