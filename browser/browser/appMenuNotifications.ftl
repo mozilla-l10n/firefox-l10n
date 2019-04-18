@@ -32,4 +32,11 @@ appmenu-addon-post-install-message = <image data-l10n-name='addon-menu-icon'></i
 appmenu-addon-post-install-incognito-checkbox =
     .label = या विस्तारास खाजगी पटलामध्ये चालविण्याची परवानगी द्या
     .accesskey = A
+appmenu-addon-private-browsing =
+    .label = खाजगी पटलामध्ये विस्तारांकडे बदला
+    .buttonlabel = विस्तार व्यवस्थापित करा
+    .buttonaccesskey = M
+    .secondarybuttonlabel = ठीक, समजले
+    .secondarybuttonaccesskey = O
+appmenu-addon-private-browsing-message = आपण { -brand-shorter-name } मध्ये जोडलेले कोणतेही नवीन विस्तार खाजगी पटलामध्ये कार्य करणार नाहीत जोपर्यंत आपण सेटिंग मध्ये यास अनुमती देत नाही.
 appmenu-addon-private-browsing-learn-more = विस्तार सेटिंग्ज कशी व्यवस्थापित करावी ते जाणून घ्या

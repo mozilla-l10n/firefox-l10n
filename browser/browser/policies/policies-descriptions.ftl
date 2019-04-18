@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-AppUpdateURL = सानुकूल अॅप अद्यतन URL सेट करा.
+policy-Authentication = समर्थन करणाऱ्या वेबसाइट्ससाठी समाकलित प्रमाणीकरण कॉन्फिगर करा.
 policy-BlockAboutAddons = अॅड-ऑन व्यवस्थापक (about:addons) वर प्रवेश अवरोधित करा.
 policy-BlockAboutConfig = about:config पृष्ठावर प्रवेश अवरोधित करा.
 policy-BlockAboutProfiles = about:profiles पृष्ठावर प्रवेश अवरोधित करा.
