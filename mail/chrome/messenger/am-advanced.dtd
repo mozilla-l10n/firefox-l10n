@@ -15,7 +15,7 @@
 <!ENTITY smtpListEdit.accesskey "U">
 <!ENTITY smtpListDelete.label "Hapus">
 <!ENTITY smtpListDelete.accesskey "H">
-<!ENTITY smtpListSetDefault.label "Atur menjadi Default">
+<!ENTITY smtpListSetDefault.label "Setel Baku">
 <!ENTITY smtpListSetDefault.accesskey "d">
 
 <!ENTITY serverDetails.label "Detail peladen yang dipilih:">
