@@ -216,7 +216,7 @@
 <!ENTITY event.to.label                                   "Bitiş:" >
 <!ENTITY event.to.accesskey                               "t">
 <!ENTITY task.to.label                                    "Bitiş tarihi:" >
-<!ENTITY task.to.accesskey                                "S">
+<!ENTITY task.to.accesskey                                "i">
 <!ENTITY task.status.label                                "Durum:" >
 <!ENTITY task.status.accesskey                            "D">
 <!ENTITY event.repeat.label                               "Tekrarla:" >
