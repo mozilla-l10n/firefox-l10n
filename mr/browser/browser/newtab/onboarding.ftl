@@ -22,6 +22,7 @@ onboarding-private-browsing-text = स्वतः ब्राउझ करा.
 onboarding-screenshots-title = स्क्रीनशॉटस्
 onboarding-screenshots-text = स्क्रीनशॉट्स घ्या, जतन करा आणि शेअर करा — { -brand-short-name } न सोडता. ब्राउझ करता पूर्ण पृष्ठ किंवा एखादा भाग पकडा व वेब वर सोयीस्कर रित्या पाहण्यासाठी किंवा शेअर करण्यासाठी जतन करा.
 onboarding-addons-title = ॲड-ऑन्स
+onboarding-addons-text = आपल्यासाठी कठोर परिश्रम करा{ -brand-short-name } आणखी वैशिष्ट्ये जोडा. किंमतींची तुलना करा, हवामान तपासा किंवा आपली व्यक्तिमत्त्व सानुकूल थीमसह व्यक्त करा.
 onboarding-ghostery-title = Ghostery
 onboarding-ghostery-text = Ghostery सारख्या विस्तारांसह वेगवान, चाणाक्ष किंवा सुरक्षित ब्राउझ करा, जे आपल्याला त्रासदायक जाहिराती अवरोधित करू देतात.
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
