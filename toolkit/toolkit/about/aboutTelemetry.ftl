@@ -56,6 +56,16 @@ about-telemetry-upload-type =
         [enabled] ynskeakele
        *[disabled] útskeakele
     }
+# Example Output: 1 sample, average = 0, sum = 0
+# Variables:
+#   $sampleCount (Integer): amount of histogram samples
+#   $prettyAverage (Integer): average of histogram samples
+#   $sum (Integer): sum of histogram samples
+about-telemetry-histogram-stats =
+    { $sampleCount ->
+        [one] { $sampleCount } foarbyld, gemiddelde = { $prettyAverage }, som = { $sum }
+       *[other] { $sampleCount } foarbylden, gemiddelde = { $prettyAverage }, som = { $sum }
+    }
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = Dizze side toant de ynformaasje oer prestaasje, hardware, gebrûk en oanpassingen sammele troch Telemetry. Dizze ynformaasje wurdt ferstjoerd nei { $telemetryServerOwner } om { -brand-full-name } te ferbetterjen.
@@ -125,3 +135,9 @@ about-telemetry-category-header = kategory
 about-telemetry-method-header = metoade
 about-telemetry-object-header = objekt
 about-telemetry-extra-header = ekstra
+about-telemetry-origin-section = Origin-telemetry
+about-telemetry-origin-origin = oarsprong
+about-telemetry-origin-count = oantal
+# Variables:
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link">Origin-telemetry yn Firefox</a> kodearret gegevens eardat se ferstjoerd wurde, sadat { $telemetryServerOwner } dingen telle kin, mar net witte kin of in bepaalde { -brand-product-name } wol of net oan dat oantal bydroegen hat. (<a data-l10n-name="prio-blog-link">mear ynfo</a>)
