@@ -23,8 +23,10 @@ onboarding-screenshots-title = സ്ക്രീൻഷോട്ടുകൾ
 onboarding-screenshots-text = { -brand-short-name } വിട്ടുപോകാതെ തന്നെ സ്ക്രീൻഷോട്ടുകൾ എടുക്കുക, സംരക്ഷിക്കുക പങ്കിടുക. നിങ്ങൾ ബ്രൗസുചെയ്യുമ്പോൾ ഒരു പ്രദേശമോ മുഴുവൻ പേജുമോ ചിത്രീകരിക്കുക. ശേഷം എളുപ്പത്തിൽ ലഭ്യമാക്കുന്നതിനും പങ്കിടലിനും വെബിൽ സംരക്ഷിക്കുക.
 onboarding-addons-title = ആഡ്-ഓണുകൾ
 onboarding-addons-text = { -brand-short-name } കൂടുതൽ മികവോടെ നിങ്ങൾക്കായി പ്രവർത്തിക്കാൻ ഒട്ടനേകം സവിശേഷതകൾ ചേർക്കുക. വിലകൾ താരതമ്യം ചെയ്യുക, കാലാവസ്ഥ പരിശോധിക്കുക അല്ലെങ്കിൽ ഇഷ്ടപ്പെട്ട കെട്ടും മട്ടും ഉപയോഗിച്ച് നിങ്ങളുടെ സ്വഭാവം പ്രകടിപ്പിക്കുക.
+onboarding-ghostery-title = ഗോസ്റ്ററി
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = സമന്വയം
 
 ## Message strings belonging to the Return to AMO flow
 
+return-to-amo-extension-button = വിപുലീകരണം ചേർക്കുക

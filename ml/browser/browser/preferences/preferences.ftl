@@ -4,8 +4,6 @@
 
 do-not-track-description = “ട്രാക്ക് ചെയ്യരുത്” എന്ന സിഗ്നൽ വെബ്സൈറ്റുകൾക്ക് അയയ്ക്കുക
 do-not-track-learn-more = കൂടുതലറിവ് നേടുക
-do-not-track-option-default =
-    .label = ട്രാക്കിംഗ് പ്രൊട്ടക്ഷൻ ഉപയോഗിക്കുമ്പോൾ മാത്രം
 do-not-track-option-always =
     .label = എപ്പോഴും
 pref-page =
@@ -32,6 +30,7 @@ search-input-box =
 pane-general-title = സാധാരണ
 category-general =
     .tooltiptext = { pane-general-title }
+pane-home-title = പൂമുഖം
 pane-search-title = തെരയുക
 category-search =
     .tooltiptext = { pane-search-title }
@@ -43,6 +42,7 @@ pane-sync-title = ഫയര്‍ഫോക്സ് അക്കൌണ്ട്
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = { -brand-short-name } പിന്തുണ
+addons-button-label = വിപുലീകരണങ്ങളും തീമുകളും
 focus-search =
     .key = f
 close-button =
@@ -54,6 +54,7 @@ feature-enable-requires-restart = ഈ വിശേഷത പ്രവര്‍�
 feature-disable-requires-restart = ഈ വിശേഷത പ്രവര്‍ത്തന രഹിതമാക്കുന്നതിനു് { -brand-short-name } വീണ്ടും ആരംഭിയ്ക്കേണ്ടതുണ്ടു്.
 should-restart-title = { -brand-short-name } വീണ്ടും ആരംഭിക്കുക
 should-restart-ok = ഇപ്പോൾ { -brand-short-name } പുനരാരംഭിക്കുക
+cancel-no-restart-button = റദ്ദാക്കുക
 restart-later = പിന്നീട് പുനരാരംഭിക്കുക
 
 ## Extension Control Notifications
@@ -98,6 +99,9 @@ is-not-default = { -brand-short-name } അല്ല ഇപ്പോള്‍ സ
 set-as-my-default-browser =
     .label = ഡിഫള്‍ട്ടാക്കുക…
     .accesskey = D
+startup-restore-previous-session =
+    .label = മുമ്പുള്ള സെഷന്‍ വീണ്ടെടുക്കുക
+    .accesskey = s
 disable-extension =
     .label = എക്സ്റ്റന്‍ഷന്‍ ഡിസേബിള്‍ ചെയ്യുക
 tabs-group-header = റ്റാബുകള്‍
@@ -165,6 +169,7 @@ choose-language-description = താളുകള്‍ക്കുള്ള ഭ�
 choose-button =
     .label = തെരഞ്ഞെടുക്കുക…
     .accesskey = o
+confirm-browser-language-change-button = പ്രയോഗിക്കുക, പുനരാരംഭിക്കുക
 translate-web-pages =
     .label = വെബിലുള്ളവ തര്‍ജ്ജമ ചെയ്യുക
     .accesskey = ത
@@ -236,6 +241,7 @@ update-application-use-service =
 update-enable-search-update =
     .label = സെര്‍ച്ച് എഞ്ചിനുകള്‍ സ്വമേധയാ പുതക്കുക
     .accesskey = e
+update-pref-write-failure-title = എഴുത്ത് പരാജയം
 
 ## General Section - Performance
 
@@ -275,9 +281,11 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = ടൈപ്പ് ചെയ്യാന്‍ ആരംഭിക്കുമ്പോള്‍ തന്നെ വാക്കുകള്‍ക്കായി തിരയുക
     .accesskey = x
+browsing-cfr-recommendations-learn-more = കൂടുതല്‍ അറിയുക
 
 ## General Section - Proxy
 
+network-settings-title = നെറ്റ്വർക്ക് ക്രമീകരണങ്ങൾ
 network-proxy-connection-learn-more = കൂടുതലറിയുക
 network-proxy-connection-settings =
     .label = ക്രമീകരണങ്ങള്‍
@@ -290,8 +298,15 @@ home-new-windows-tabs-header = പുതിയ ടാബുകളും ജാ�
 ## Home Section - Home Page Customization
 
 home-newtabs-mode-label = പുതിയ ടാബുകൾ
+home-restore-defaults =
+    .label = സ്വതവേയുള്ളവ പുനഃസ്ഥാപിക്കുക
+    .accesskey = R
+home-mode-choice-custom =
+    .label = ഇഷ്ടാനുസൃത URL കൾ ...
 home-mode-choice-blank =
     .label = ശൂന്യമായ താൾ
+home-homepage-custom-url =
+    .placeholder = യുആര്‍എല്ലായി ഒട്ടിക്കുക...
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -387,6 +402,12 @@ sync-manage-account = അക്കൗണ്ട് കൈകാര്യം ച�
     .accesskey = o
 sync-signedin-unverified = { $email } ഉറപ്പാക്കിയിട്ടില്ല.
 sync-signedin-login-failure = വീണ്ടും കണക്ട് ചെയ്യുന്നതിന് പ്രവേശിയ്ക്കുക { $email }
+sync-resend-verification =
+    .label = പരിശോധന വീണ്ടും അയയ്ക്കുക
+    .accesskey = d
+sync-remove-account =
+    .label = അക്കൗണ്ട് നീക്കംചെയ്യുക
+    .accesskey = R
 sync-sign-in =
     .label = പ്രവേശിക്കുക
     .accesskey = g
@@ -398,6 +419,14 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = നാള്‍വഴി
     .accesskey = r
+sync-engine-tabs =
+    .label = ടാബുകള്‍ തുറക്കുക
+    .tooltiptext = എല്ലാ സിങ്ക് ചെയ്ത ഉപകരണങ്ങളിലും തുറന്നിട്ടുള്ള ടാബുകളുടെ പട്ടിക
+    .accesskey = t
+sync-engine-logins =
+    .label = പ്രവേശനങ്ങള്‍
+    .tooltiptext = നിങ്ങള്‍ സൂക്ഷിച്ചുവച്ച ഉപയോക്തൃനാമങ്ങളും രഹസ്യവാക്കുകളും
+    .accesskey = L
 sync-engine-creditcards =
     .label = ക്രഡിറ്റ് കാർഡുകൾ
     .tooltiptext = പേര്, നമ്പർ, കാലാവധി
@@ -421,7 +450,6 @@ privacy-header = ബ്രൗസർ സ്വകാര്യത
 
 ## Privacy Section - Forms
 
-forms-header = ഫോമുകള്‍ & പാസ്വേഡുകള്‍
 forms-exceptions =
     .label = ഒഴിവാക്കേണ്ടവ…
     .accesskey = x
@@ -473,17 +501,12 @@ history-clear-on-close-settings =
 
 sitedata-header = കുക്കികളും സൈറ്റ് ഡാറ്റയും
 sitedata-learn-more = കൂടുതല്‍ അറിയുക
-sitedata-keep-until = വരെ സൂക്ഷിക്കുക
-    .accesskey = u
 sitedata-clear =
     .label = ഡാറ്റ വെടിപ്പാക്കുക
     .accesskey = I
 sitedata-settings =
     .label = ഡാറ്റ ക്രമീകരിക്കുക
     .accesskey = M
-sitedata-cookies-exceptions =
-    .label = വിട്ടുവീഴ്ചകള്‍
-    .accesskey = E
 
 ## Privacy Section - Address Bar
 
@@ -504,30 +527,24 @@ addressbar-suggestions-settings = സെര്‍ച്ച് എഞ്ചിൻ
 
 content-blocking-header = ഉള്ളടക്കങ്ങൾ തടയുക
 content-blocking-learn-more = കൂടുതല്‍ അറിയുക
-content-blocking-toggle-label-on = ഓണാക്കുക
-    .accesskey = O
-content-blocking-toggle-label-off = ഓഫാക്കുക
-    .accesskey = O
-content-blocking-category-label = എന്തൊക്കെ തടയണമെന്ന് തിരഞ്ഞെടുക്കുക
+content-blocking-setting-strict =
+    .label = കണിശമായി
+    .accesskey = r
+content-blocking-setting-custom =
+    .label = യഥേഷ്ടം
+    .accesskey = C
+content-blocking-all-cookies = എല്ലാ കുക്കികളും
+content-blocking-cryptominers = ക്രിപ്റ്റോമൈനേഴ്സ്
+content-blocking-fingerprinters = വിരലടയാളങ്ങൾ
+content-blocking-learn-how = എങ്ങനെയെന്ന് അറിയുക
+content-blocking-cookies-label =
+    .label = കുക്കികള്‍
+    .accesskey = C
+content-blocking-expand-section =
+    .tooltiptext = കൂടുതല്‍ വിവരങ്ങള്‍
 
 ## Privacy Section - Tracking
 
-tracking-header = ട്രാക്കിംഗ് പ്രൊട്ടക്ഷൻ
-tracking-mode-always =
-    .label = എപ്പോഴും
-    .accesskey = ഴ
-tracking-mode-private =
-    .label = സ്വകാര്യ ജാലകങ്ങളില്‍ മാത്രം
-    .accesskey = ത
-tracking-mode-never =
-    .label = ഒരിക്കലുമില്ല
-    .accesskey = ഒ
-tracking-exceptions =
-    .label = വിട്ടുവീഴ്ചകള്‍…
-    .accesskey = ക
-tracking-change-block-list =
-    .label = ബ്ലോക്ക് ലിസ്റ്റില്‍ മാറ്റം വരുത്തുക...
-    .accesskey = C
 
 ## Privacy Section - Permissions
 
@@ -552,8 +569,6 @@ permissions-notification-link = കൂടുതലറിയുക
 permissions-notification-pause =
     .label = { -brand-short-name } റീസ്റ്റാര്‍ട്ട് ചയ്യുന്ന വരെ അറിയിപ്പുകൾ താൽക്കാലികമായി നിർത്തുക
     .accesskey = n
-autoplay-option-ask =
-    .label = എപ്പോഴും ചോദിക്കുക
 permissions-block-popups =
     .label = പോപ്പപ്‌ ജാലകങ്ങള്‍ തടയുക
     .accesskey = B
@@ -583,7 +598,6 @@ collection-health-report-link = കൂടുതല്‍ അറിയുക
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = ഈ ബിൽഡ് കോൺഫിഗറേഷനായി ഡാറ്റ റിപ്പോർട്ടുചെയ്യൽ പ്രവർത്തനരഹിതമാക്കി
-collection-browser-errors-link = കൂടുതല്‍ അറിയുക
 collection-backlogged-crash-reports-link = കൂടുതല്‍ അറിയുക
 
 ## Privacy Section - Security

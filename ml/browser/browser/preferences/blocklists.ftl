@@ -5,7 +5,6 @@
 blocklist-window =
     .title = തടയല്‍ പട്ടികകൾ
     .style = width: 55em
-blocklist-desc = { -brand-short-name } ഏത് പട്ടിക  താങ്കളുടെ ബ്രൗസിംഗ് കർമങ്ങളെ നിരീക്ഷിക്കുന്ന വെബ് എലമെന്റുകൾ തടയാനായി  ഉപയോഗിക്കുമെന്ന് താങ്കൾക്ക് തീരുമാനിക്കാം.
 blocklist-close-key =
     .key = w
 blocklist-treehead-list =
@@ -24,7 +23,4 @@ blocklist-button-ok =
 #   $listName {string, "Standard (Recommended)."} - List name.
 #   $description {string, "This list does a pretty good job."} - Description of the list.
 blocklist-item-list-template = { $listName } { $description }
-blocklist-item-moz-std-name = Disconnect.me അടിസ്ഥാന സംരക്ഷണം (ശുപാര്‍ശ ചെയ്യുന്നു)
-blocklist-item-moz-std-desc = വെബ്‍സൈറ്റുകള്‍ നന്നായി പ്രവര്‍ത്തിക്കാന്‍ ചില ട്രാക്കറുകളെ അനുവദിക്കുക.
-blocklist-item-moz-full-name = Disconnect.me കർശന സംരക്ഷണം.
-blocklist-item-moz-full-desc = അറിയാവുന്ന ട്രാക്കറുകളെ തടയുന്നു. ചില വെബ്സൈറ്റുകൾ ശരിയായി പ്രവർത്തിച്ചേക്കില്ല.
+blocklist-item-moz-full-listName = ലെവൽ 2 ബ്ലോക്ക് ലിസ്റ്റ്.
