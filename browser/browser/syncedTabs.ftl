@@ -8,6 +8,7 @@ synced-tabs-sidebar-notsignedin = മറ്റു ഉപകരണങ്ങളി
 synced-tabs-sidebar-notabs = ടാബൊന്നും തുറന്നിരിക്കുന്നില്ല
 synced-tabs-sidebar-openprefs = { -sync-brand-short-name } മുന്‍ഗണനകള്‍ തുറക്കുക
 synced-tabs-sidebar-tabsnotsyncing = മറ്റുള്ള ഉപകരണങ്ങളില്‍ നിന്നുള്ള ടാബുകള്‍ കാണുവാന്‍ ടാബ് സിന്‍ക് ഓണാക്കൂ
+synced-tabs-sidebar-connect-another-device = മറ്റൊരു ഉപകരണം കണക്റ്റുചെയ്യുക
 synced-tabs-sidebar-search =
     .placeholder = സമന്വയിപ്പിച്ച ടാബുകൾ തിരയുക
 synced-tabs-context-open =
