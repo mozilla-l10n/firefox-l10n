@@ -173,6 +173,7 @@ was trying to connect. -->
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "Ma tha gleus aig a’ bhathar-bhog agad an aghaidh bhìorasan a nì sganadh air ceanglaichean crioptaichte (rud ris an canar “sganadh-lìn” no “sganadh https” gu tric), ’s urrainn dhut a chur à comas. Mur an obraich sin, feuch is thoir air falbh am bathar-bog an aghaidh bhìorasan agus stàlaich às ùr e.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "Ma tha thu air lìonra corporra, iarr taic air roinn an TF agad.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "Mur eil thu eòlach air <span class='mitm-name'/>, dh’fhaoidte gur e ionnsaigh a tha seo agus cha bu chòir dhut leantainn air adhart dhan làrach.">
+<!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "Mur eil thu eòlach air <span class='mitm-name'/>, dh’fhaoidte gur e ionnsaigh a tha seo agus chan eil dad ann as urrainn dhut dèanamh airson an làrach inntrigeadh.">
 
 <!ENTITY clockSkewError.title "Tha cleoc a’ choimpiutair agad cearr">
 <!ENTITY clockSkewError.longDesc "Tha an coimpiutair agad dhen bheachd gu bheil e <span id='wrongSystemTime_systemDate1'/> agus chan urrainn dha &brandShortName; ceangal tèarainte a dhèanamh ri linn sin. Airson tadhal air <span class='hostname'></span>, ùraich cleoc a’ choimpiutair agad ann an roghainnean an t-siostaom is dèan cinnteach gu bheil an t-àm, ceann-là agus roinn-tìde cheart ann is ath-nuadhaich <span class='hostname'></span> an uairsin.">
