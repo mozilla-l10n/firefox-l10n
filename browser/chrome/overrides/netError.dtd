@@ -10,9 +10,8 @@
 <!ENTITY returnToPreviousPage.label "Air ais">
 <!ENTITY returnToPreviousPage1.label "Air ais (Mholamaid seo)">
 <!ENTITY advanced.label "Adhartach">
-<!ENTITY continue2.label "Barrachd…">
+<!ENTITY advanced2.label "Adhartach…">
 <!ENTITY moreInformation.label "Barrachd fiosrachaidh">
-
 <!ENTITY viewCertificate.label "Seall an teisteanas">
 
 <!-- Specific error messages -->
@@ -93,16 +92,17 @@
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Cha ghabh an duilleag a bha thu airson faicinn a shealltainn a chionn 's nach do ghabh fìrinneachd an dàta a fhuaradh a dhearbhadh.</li> <li>Leig fios gu na daoine aig a bheil an làrach mun duilgheadas seo.</li> </ul>">
 
 <!ENTITY certerror.longpagetitle1 "Chan eil an ceangal agad tèarainte">
+
 <!ENTITY certerror.longpagetitle2 "Rabhadh: Tha rud romhad a dh’fhaodadh a bhith ’na chunnart tèarainteachd">
 <!ENTITY certerror.sts.longpagetitle  "Cha deach ceangal a dhèanamh: Rud a dh’fhaodadh a bhith ’na chunnart tèarainteachd">
 <!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Chaidh an làrach <span class='hostname'/> a dhroch-rèiteachadh. Cha do rinn &brandShortName; ceangal ris an làrach seo air eagal ’s gun rachadh dàta a ghoid ort.">
+<!-- Localization note (certerror.introPara2) - The text content of the span tag
+will be replaced at runtime with the name of the server to which the user
+was trying to connect. -->
 <!ENTITY certerror.introPara2 "Mhothaich &brandShortName; do rud a dh’fhaodadh a bhith ’na chunnart tèarainteachd is cha do thadhail e air <span class='hostname'/>. Ma thadhlas tu air an làrach seo, dh’fhaoidte gun urrainn do dhaoine fiosrachadh mar fhaclan-faire, puist-d no cairtean-creideis a ghoid ort.">
-
-<!ENTITY certerror.expiredCert.secondPara "Mar is trice, tachraidh seo ma tha an t-àm cearr aig cleoc a’ choimpiutair agad agus chan urrainn dha &brandShortName; ceangal tèarainte a dhèanamh ri linn sin.">
-
 <!ENTITY certerror.sts.introPara "Mhothaich &brandShortName; dha rud a dh’fhaodadh a bhith ’na chunnart tèarainteachd agus cha do thadhail e air <span class='hostname'/> a chionn ’s gu bheil an làrach-lìn seo feumach air ceangal tèarainte.">
 
 <!ENTITY certerror.expiredCert.introPara "Mhothaich &brandShortName; dha rud a dh’fhaodadh a bhith ’na chunnart tèarainteachd agus cha do thadhail e air <span class='hostname'/>. Tha an làrach-lìn air a dhroch-rèiteachadh no tha an t-àm cearr aig cleoc a’ choimpiutair agad.">
@@ -133,6 +133,7 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Cuir eisgeachd ris…">
+
 <!ENTITY securityOverride.exceptionButton1Label "Tuigidh mi an cunnart, air adhart leam">
 
 <!ENTITY errorReporting.automatic2 "Nach cuir thu aithisg mu mhearachdan d’ a leithid dha Mozilla ach an urrainn dhuinn làraichean droch-rùnach mar seo a bhacadh?">
@@ -153,6 +154,7 @@ was trying to connect. -->
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p>Cha b’ urrainn dha &brandShortName; ceangal ri <span id='wrongSystemTimeWithoutReference_URL'/> a chionn ’s gu bheil an cleoc agad a’ sealltainn an ama chearr agus cha ghabh ceangal tèarainte a stèidheachadh ri linn sin.</p> <p>Tha an coimpiutair agad dhen bheachd gu bheil e <span id='wrongSystemTimeWithoutReference_systemDate'/>. Cuir ceart an t-àm is an ceann-là gus an duilgheadas seo a chàradh.</p>">
 
 <!ENTITY certerror.pagetitle1  "Ceangal nach eil tèarainte">
+
 <!ENTITY certerror.pagetitle2  "Rabhadh: Tha rud romhad a dh’fhaodadh a bhith ’na chunnart tèarainteachd">
 <!ENTITY certerror.sts.pagetitle  "Cha deach ceangal a dhèanamh: Rud a dh’fhaodadh a bhith ’na chunnart tèarainteachd">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Tha an làrach seo a’ cleachdadh HTTP Strict Transport Security (HSTS) gus a chur an cèill nach urrainn dha &brandShortName; ceangal ris ach gu tèarainte. Ri linn sin, chan urrainnear eisgeachd a chur ris airson an teisteanais seo.">
@@ -165,6 +167,12 @@ was trying to connect. -->
 <!ENTITY inadequateSecurityError.longDesc "<p>Tha <span class='hostname'></span> a’ cleachdadh seann-teicneolas tèarainteachd a tha so-leònte. Cha bhiodh e doirbh do chuideigin dàta a leigeil ris a bha tèarainte ’nad bheachd. Bidh aig rianaire na làraich am frithealaiche a chàradh mus urrainn dhut tadhal air an làrach.</p><p>Còd na mearachd: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Duilleag bhacte">
+
+<!ENTITY certerror.mitm.title "Tha bathar-bog ann a tha a’ cumail &brandShortName; o bhith a’ dèanamh ceangal tèarainte ris an làrach seo">
+<!ENTITY certerror.mitm.longDesc "’S mathaid gur e làrach shàbhailte a tha ann an <span class='hostname'></span> ach cha b’ urrainn dhuinn ceangal tèarainte a dhèanamh. ’S e <span class='mitm-name'/> a tha ag adhbharachadh seo, bathar-bog air a’ choimpiutair agad no air an lìonra agad.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "Ma tha gleus aig a’ bhathar-bhog agad an aghaidh bhìorasan a nì sganadh air ceanglaichean crioptaichte (rud ris an canar “sganadh-lìn” no “sganadh https” gu tric), ’s urrainn dhut a chur à comas. Mur an obraich sin, feuch is thoir air falbh am bathar-bog an aghaidh bhìorasan agus stàlaich às ùr e.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "Ma tha thu air lìonra corporra, iarr taic air roinn an TF agad.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "Mur eil thu eòlach air <span class='mitm-name'/>, dh’fhaoidte gur e ionnsaigh a tha seo agus cha bu chòir dhut leantainn air adhart dhan làrach.">
 
 <!ENTITY clockSkewError.title "Tha cleoc a’ choimpiutair agad cearr">
 <!ENTITY clockSkewError.longDesc "Tha an coimpiutair agad dhen bheachd gu bheil e <span id='wrongSystemTime_systemDate1'/> agus chan urrainn dha &brandShortName; ceangal tèarainte a dhèanamh ri linn sin. Airson tadhal air <span class='hostname'></span>, ùraich cleoc a’ choimpiutair agad ann an roghainnean an t-siostaom is dèan cinnteach gu bheil an t-àm, ceann-là agus roinn-tìde cheart ann is ath-nuadhaich <span class='hostname'></span> an uairsin.">

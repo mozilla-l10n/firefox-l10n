@@ -8,7 +8,12 @@
 <!ENTITY stretch.label              "Sìn">
 <!ENTITY fill.label                 "Lìon">
 <!ENTITY fit.label                  "Co-fhreagair">
-<!ENTITY preview.label              "Ro-sheall">
+<!-- LOCALIZATION NOTE (span.label): This refers to the wallpaper "spanning"
+                       multiple monitors when the user has more than one. Only
+                       some of the entire image will be on each monitor.
+                       This should ideally match the wording in Windows' own
+                       Desktop Background settings page. -->
+<!ENTITY span.label                 "Ruigheachd">
 <!ENTITY color.label                "Dath:">
 <!ENTITY setDesktopBackground.title "Suidhich cùlaibh an deasg">
 <!ENTITY openDesktopPrefs.label     "Fosgail roghainnean an deasg">
