@@ -44,9 +44,6 @@
 <!ENTITY  mediaSaveAs2.accesskey "l">
 <!ENTITY  mediaPreview          "Median esikatselu:">
 
-<!ENTITY  feedTab               "Syötteet">
-<!ENTITY  feedTab.accesskey     "S">
-
 <!ENTITY  permTab               "Oikeudet">
 <!ENTITY  permTab.accesskey     "O">
 <!ENTITY  permissionsFor        "Oikeudet sivustolle:">
@@ -60,15 +57,12 @@
 
 <!ENTITY  securityView.identity.header   "Sivuston identiteetti">
 <!ENTITY  securityView.identity.owner    "Omistaja:">
-<!ENTITY  securityView.identity.domain   "WWW-sivusto:">
+<!ENTITY  securityView.identity.domain   "Sivusto:">
 <!ENTITY  securityView.identity.verifier "Varmentaja:">
 <!ENTITY  securityView.identity.validity "Vanhenee:">
 
 <!ENTITY  securityView.privacy.header                   "Tietosuoja ja sivuhistoria">
 <!ENTITY  securityView.privacy.history                  "Onko sivustolla käyty ennen tätä päivää?">
-<!ENTITY  securityView.privacy.cookies                  "Tallentaako sivusto tietoja (evästeitä) tietokoneelle?">
-<!ENTITY  securityView.privacy.viewCookies              "Näytä evästeet">
-<!ENTITY  securityView.privacy.viewCookies.accessKey    "e">
 <!ENTITY  securityView.privacy.siteData                 "Tallentaako tämä sivusto tietoja koneelleni?">
 <!ENTITY  securityView.privacy.clearSiteData            "Tyhjennä evästeet ja sivustotiedot">
 <!ENTITY  securityView.privacy.clearSiteData.accessKey  "e">
