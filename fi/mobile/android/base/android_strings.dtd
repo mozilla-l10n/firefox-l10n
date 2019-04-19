@@ -65,8 +65,8 @@
 <!ENTITY url_bar_default_text2 "Kirjoita haku tai osoite">
 
 <!-- Localization note: this text will be displayed in the Search Widget -->
-<!ENTITY search_widget_default_text "Hae verkosta">
-<!ENTITY search_widget_default_cropped_text "Hae">
+<!ENTITY search_widget_default_text "Verkkohaku">
+<!ENTITY search_widget_default_cropped_text "Haku">
 
 <!-- Localization note (url_bar_qrcode_text2) : This text will be
      heard by non-visual users when the focus is on the QR Code
