@@ -46,6 +46,8 @@ about-debugging-sidebar-item-connect-button-connection-failed = Zwisk je so nimo
 # Text displayed in connection warning on sidebar item of the runtime when connecting to
 # the runtime is taking too much time.
 about-debugging-sidebar-item-connect-button-connection-not-responding = Zwisk je hišće wustejacy, přepruwujće za powěsćemi w cilowym wobhladowaku
+# Text displayed as connection error in sidebar item when the connection has timed out.
+about-debugging-sidebar-item-connect-button-connection-timeout = Čas zwiska překročeny
 # Temporary text displayed in sidebar items representing remote runtimes after
 # successfully connecting to them. Temporary UI, do not localize.
 about-debugging-sidebar-item-connected-label = Zwjazany

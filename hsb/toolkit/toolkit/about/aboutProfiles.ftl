@@ -8,6 +8,9 @@ profiles-create = Nowy profil załožić
 profiles-restart-title = Znowa startować
 profiles-restart-in-safe-mode = Ze znjemóžnjenymi přidatkami startować…
 profiles-restart-normal = Normalnje znowa startować…
+profiles-flush-fail-title = Změny njejsu so składowali
+profiles-flush-conflict = { profiles-conflict }
+profiles-flush-restart-button = { -brand-short-name } znowa startować
 # Variables:
 #   $name (String) - Name of the profile
 profiles-name = Profil: { $name }
