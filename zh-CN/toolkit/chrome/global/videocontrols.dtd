@@ -14,6 +14,10 @@
      accessibility software to clarify what the slider is for. -->
 <!ENTITY volumeScrubber.label "音量滑块">
 
+<!-- LOCALIZATION NOTE (pictureInPicture.label): This string is used as part of
+the Picture-in-Picture video toggle button when the mouse is hovering it. -->
+<!ENTITY pictureInPicture.label "画中画">
+
 <!ENTITY stats.media "媒体">
 <!ENTITY stats.size "大小">
 <!ENTITY stats.activity "活动">
