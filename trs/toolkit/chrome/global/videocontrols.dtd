@@ -16,6 +16,7 @@
 
 <!-- LOCALIZATION NOTE (pictureInPicture.label): This string is used as part of
 the Picture-in-Picture video toggle button when the mouse is hovering it. -->
+<!ENTITY pictureInPicture.label "Picture-in-Picture">
 
 <!ENTITY stats.media "Sa ni'io'">
 <!ENTITY stats.size "Dàj yachìj man">

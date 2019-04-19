@@ -8,6 +8,11 @@ profiles-create = Giri 'ngo perfîl nakàa
 profiles-restart-title = Nayi'ì ñû
 profiles-restart-in-safe-mode = Nayi'ì ñû ngà nej komplementô ngà ga'nèjt...
 profiles-restart-normal = Nayi'ì chre...
+profiles-conflict = A'ngô ñadu'ua { -brand-product-name } nadunâ sa hua riña perfîl. Da'uìt dunayi'ìt { -brand-short-name } asìj gàchin nadunat sa màn riñanj.
+profiles-flush-fail-title = Nu nañù sà' sa nadunât
+profiles-flush-conflict = { profiles-conflict }
+profiles-flush-failed = Hua 'ngo sa gire' ni na'ue ga'nïn na'nïnj sà't sa nadunât.
+profiles-flush-restart-button = Nayi'ì nakà { -brand-short-name }
 # Variables:
 #   $name (String) - Name of the profile
 profiles-name = perfîl: { $name }
