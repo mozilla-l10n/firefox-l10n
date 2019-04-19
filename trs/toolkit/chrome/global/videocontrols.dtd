@@ -10,10 +10,12 @@
 <!ENTITY fullscreenButton.exitfullscreenlabel "Nagi'iaj lij riña aga' sikà' ràa">
 <!ENTITY castingButton.castingLabel "Duguachîn' riña aga' sikà' ràa ané">
 <!ENTITY closedCaption.off "Duna'àj">
-
 <!-- LOCALIZATION NOTE (volumeScrubber.label): This label is exposed to
      accessibility software to clarify what the slider is for. -->
 <!ENTITY volumeScrubber.label "Sa natsij nanèj">
+
+<!-- LOCALIZATION NOTE (pictureInPicture.label): This string is used as part of
+the Picture-in-Picture video toggle button when the mouse is hovering it. -->
 
 <!ENTITY stats.media "Sa ni'io'">
 <!ENTITY stats.size "Dàj yachìj man">
@@ -34,6 +36,8 @@
 <!ENTITY error.srcNotSupported "Formâto bideô MIME nitaj si aran' ngà aga' nan.">
 <!ENTITY error.noSource2 "Nu nari'ij ngà si 'ngo bideô nikaj aran' nga MIME.">
 <!ENTITY error.generic "Ganikïn' sa ahui bidêo dadin' hua sa a'ui' yi'ì.">
+
+<!ENTITY status.pictureInPicture "Nahui bideô nan riña modô Picture-in-Picture.">
 
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at

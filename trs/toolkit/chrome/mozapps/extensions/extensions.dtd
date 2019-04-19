@@ -1,111 +1,12 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!ENTITY addons.windowTitle                   "Sa dugumîn nej extensiûn">
-
-<!ENTITY search.placeholder2                  "Nana'uì' riña addons.mozilla.org">
-
-<!ENTITY search.placeholder3                  "Nana'uì' addons.mozilla.org">
-<!ENTITY search.buttonlabel                   "Nana'uì'">
-<!-- LOCALIZATION NOTE (search.commandkey):
-     The search command key should match findOnCmd.commandkey from browser.dtd -->
-<!ENTITY search.commandkey                    "f">
-
-<!ENTITY loading.label                        "Hìaj ayi'ij...">
-<!ENTITY listEmpty.installed.label            "Nitaj ngà' si 'ngo komplementô hua dananj nu 'iaj sun 'iát">
-<!ENTITY listEmpty.availableUpdates.label     "Nu nari'ìj nej sa nahui nakàa">
-<!ENTITY listEmpty.recentUpdates.label        "Ngà si 'ngo komplemento nu nahuin nakàa ra'ñanj">
-<!ENTITY listEmpty.findUpdates.label          "Nana'uì' nej sanagi'iaj nakàa">
-<!ENTITY listEmpty.button.label               "Gahuin chrūn doj rayi’î nej komplemênto">
-<!ENTITY installAddonFromFile.label           "Ga'nïnj Komplemênto asij riña archibô…">
-<!ENTITY installAddonFromFile.accesskey       "I">
-<!ENTITY toolsMenu.tooltip                    "Rasuun gini'ñanj daran' nej komplemênto">
-
-<!ENTITY getThemes.description                "¿Nagi'iaj ninïnt dàj ga si nabegadôt ruhuâ raj?">
-<!ENTITY getThemes.learnMore                  "Nagui siganïnj daran' chre nej tema huaa.">
-
-
-<!ENTITY showUnsignedExtensions.button.label  "Nu ga'ue nana'in da'aj nej extensiôn">
-<!ENTITY showAllExtensions.button.label       "Ni'iaj daran' extensiôn">
-<!ENTITY debugAddons.label                    "Nej komplemênto nagi'iaj depurandô">
-<!ENTITY debugAddons.accesskey                "B">
-
-<!-- global warnings -->
-<!ENTITY warning.safemode.label                    "Giyichin' hue'ê daran' nej komplemênto.">
-<!ENTITY warning.checkcompatibility.label          "Nej sa natsij nej komplemênto nitaj si 'iaj sun. Ga'ue ginu komplemênto nitaj si ara' ngà aga' nan.">
-<!ENTITY warning.checkcompatibility.enable.label   "Dugi'iaj sun' man">
-<!ENTITY warning.checkcompatibility.enable.tooltip "Nachrun sa natsij si aran' nej komplemênto ngà nej aga' nan">
-<!ENTITY warning.updatesecurity.label              "Giyichin' sa natsij si hua nïn 'iaj sun nej komplemênto. Ga'ue ni nahuin nakà 'ngo sa nu garan' ruhuât.">
-<!ENTITY warning.updatesecurity.enable.label       "Dugi'iaj sun' man">
-<!ENTITY warning.updatesecurity.enable.tooltip     "Nachrun sa dugumîn si hua hue'ê nej sa nahuin nakà riña aga' nan">
-
-<!-- categories / views -->
-<!ENTITY view.discover.label                  "Nadunïnj nej komplemênto">
-<!ENTITY view.recentUpdates.label             "Nej sa hìaj nahuin nakà">
-<!ENTITY view.availableUpdates.label          "Nej sa ga'ue nahuin nakà">
-
-<!ENTITY helpButton.label                      "Sa ga'ue natà' doj riña sopôrte">
-<!ENTITY preferencesWin.label                  "&brandShortName; Doj sa huaa">
-<!ENTITY preferencesUnix.label                 "&brandShortName; Sa nihià' ruhuât foj">
-
-<!-- addon updates -->
-<!ENTITY updates.checkForUpdates.label        "Nana'uì' sa Nahuin nakà doj">
-<!ENTITY updates.checkForUpdates.accesskey    "C">
-<!ENTITY updates.viewUpdates.label            "Ni'iaj nej sa hìaj nahuin nakà">
-<!ENTITY updates.viewUpdates.accesskey        "V">
-<!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
-     is a checkbox that toggles the default global behavior for add-on update
-     checking. -->
-<!ENTITY updates.updateAddonsAutomatically.label     "Dunaj nahuin nakà ma'an nej komplemênto">
-<!ENTITY updates.updateAddonsAutomatically.accesskey "A">
-<!-- LOCALIZATION NOTE (updates.resetUpdatesToAutomatic.label, updates.resetUpdatesToManual.label):
-     Specific addons can have custom update checking behaviors ("Manually",
-     "Automatically", "Use default global behavior"). These menu items reset the
-     update checking behavior for all add-ons to the default global behavior
-     (which itself is either "Automatically" or "Manually", controlled by the
-     updates.updateAddonsAutomatically.label menu item). -->
-<!ENTITY updates.resetUpdatesToAutomatic.label       "Na'nïnj ñû daran' nej komplemênto da' ga'ue nahuin nakà ma'an nej man">
-<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "R">
-<!ENTITY updates.resetUpdatesToManual.label          "Na'nïnj ñû daran' nej komplemênto da' ga'ue nagi'iaj nakà nej man">
-<!ENTITY updates.resetUpdatesToManual.accesskey      "R">
-<!ENTITY updates.updating.label               "Sa nagi'iaj nakà nej komplemênto">
-<!ENTITY updates.installed.label              "Ngà nahuin nakà nej si komplementôt.">
-<!ENTITY updates.downloaded.label             "Ngà nahuij nanïnj nej si komplementôt.">
-<!ENTITY updates.restart.label                "Dunayi'ì nakà si aga't da' ga'ue nanu sa ga'nïnt">
-<!ENTITY updates.noneFound.label              "Nu nari'ìj nej sa nahuin nakàa">
-<!ENTITY updates.manualUpdatesFound.label     "Ni'iaj nej sa ga'ue nahuin nakà">
-<!ENTITY updates.updateSelected.label         "Ga'nïnj nej sa nakà doj">
-<!ENTITY updates.updateSelected.tooltip       "Ga'nïn nej sa ga'ue nahuin nakà nu riña lsita nan">
 
 <!-- addon actions -->
-<!ENTITY cmd.showDetails.label                "Ni'iaj doj nuguan' a'min rayi'î nan">
-<!ENTITY cmd.showDetails.accesskey            "S">
-<!ENTITY cmd.findUpdates.label                "Nana'uì' nej sa ga'ue nahuin nakà">
-<!ENTITY cmd.findUpdates.accesskey            "F">
-<!ENTITY cmd.preferencesWin.label             "Sa huā gi'iát">
-<!ENTITY cmd.preferencesWin.accesskey         "O">
-<!ENTITY cmd.preferencesUnix.label            "Sa arajsunt doj">
-<!ENTITY cmd.preferencesUnix.accesskey        "P">
-
-
-
-
-
-
-
-
-
 <!ENTITY cmd.enableAddon.label                "Dugi'iaj sun' ma">
 <!ENTITY cmd.enableAddon.accesskey            "E">
 <!ENTITY cmd.disableAddon.label               "Dunikïn'">
 <!ENTITY cmd.disableAddon.accesskey           "D">
-<!ENTITY cmd.enableTheme.label                "Garasun têma">
-<!ENTITY cmd.enableTheme.accesskey            "W">
-<!ENTITY cmd.disableTheme.label               "Ga'nïn' ruhuâ si garasunt têma">
-<!ENTITY cmd.disableTheme.accesskey           "W">
-
-
-
 
 <!ENTITY cmd.askToActivate.label              "Gachinj ni'iaj dugi'iaj sunt man">
 <!ENTITY cmd.askToActivate.tooltip            "Gachin ni'iaj garasunt komplementô nan daran' diû">
@@ -114,9 +15,6 @@
 <!ENTITY cmd.neverActivate.label              "Nitaj aman dugi'iaj sunt man">
 <!ENTITY cmd.neverActivate.tooltip            "Nitaj aman garasunt komplementô nan">
 <!ENTITY cmd.stateMenu.tooltip                "Naduna nga ayi'ì komplementô nan íaj sunj">
-<!ENTITY cmd.installAddon.label               "Ga'nìn'">
-<!ENTITY cmd.installAddon.accesskey           "I">
-
 
 <!ENTITY cmd.uninstallAddon.label             "Guxūn">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
@@ -124,12 +22,6 @@
 <!ENTITY cmd.showPreferencesWin.tooltip       "Naduna nej sa nikaj komplementô nan">
 <!ENTITY cmd.showPreferencesUnix.label        "Sa arajsunt doj">
 <!ENTITY cmd.showPreferencesUnix.tooltip      "Naduna nej sa garan' ruhuât riña komplementô nan">
-<!ENTITY cmd.contribute.label                 "Rugûñu'unj">
-<!ENTITY cmd.contribute.accesskey             "C">
-<!ENTITY cmd.contribute.tooltip               "Rugûñu'unj da' nahuin hue'ê doj komplementô nan">
-
-
-
 
 <!ENTITY cmd.showReleaseNotes.label           "Gini'iaj nuguan' hua rayi'î versiôn nan">
 <!ENTITY cmd.showReleaseNotes.tooltip         "Gini'iaj nuguan' hua rayi'î versiôn nahuin nakà nan">
@@ -137,54 +29,8 @@
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Gachri huì nuguan' hua rayi'î versiôn nahuin nakà nan">
 <!ENTITY cmd.findReplacement.label            "Nana'uì' 'ngo sa ga'ue natu riña nan">
 
-<!-- discovery view -->
-<!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
-     Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
-<!ENTITY discover.title                       "¿Nuhuìn si huin nej komplemênto rà'aj?">
-<!ENTITY discover.description2                "Nej komplemênto huin nej aplikasiûn ruguñu'unj da' nagi'iát &brandShortName; ngà 'ngo sa hua hue'ê doj asi 'ngo sa ruhuât nutà't. Yakaj da'nga' ngà 'ngo barra da' dugumînt si diût, 'ngo sa nata' na'anj dàj ga diû, asi 'ngo sa ruhuât nadunat &brandShortName; dàj garan' ruhuâ ma'ânt.">
-<!ENTITY discover.footer                      "Ngà atujt riña internet ni, ginun nej komplemênto araj sun doj guìi ni sa hua hue'ê doj riña panel nan da' garasunt si ruhuât.">
-
-<!-- detail view -->
-<!ENTITY detail.version.label                 "Versión">
-<!ENTITY detail.lastupdated.label             "Sa nagi'iaj nakà rukù nïn't">
-<!ENTITY detail.creator.label                 "Desarroyadô">
-<!ENTITY detail.homepage.label                "Riña ayi'ì'">
-
-<!ENTITY detail.contributions.description     "Dugui' narirà complementô nan ni achín ni'iaj si da' rugûñu'unjt doj san'anj si da' gi'iaj sun si guendâ nahuin hue'ej doj.">
-
-<!ENTITY detail.updateType                    "Nej sa nagi'iaj nakà ma'an ma'an">
-<!ENTITY detail.updateDefault.label           "Sa gà' 'na' niñaan">
-<!ENTITY detail.updateDefault.tooltip         "Dunaj nagi'iaj nakà ma'an ma'an sisi ngà daj huaj 'naj">
-<!ENTITY detail.updateAutomatic.label         "Nachrun">
-<!ENTITY detail.updateAutomatic.tooltip       "Dunaj nagi'iaj nakà ma'an man">
-<!ENTITY detail.updateManual.label            "Duna'àj">
-<!ENTITY detail.updateManual.tooltip          "Si dunajt nagi'iaj nakà ma'an man">
-<!ENTITY detail.home                          "Ñanj ayi'ìj">
-<!ENTITY detail.repository                    "Perfil taj ma'an">
-<!ENTITY detail.size                          "Dàj yachìj man">
-
-<!ENTITY detail.checkForUpdates.label         "Nana'uì' sa Nahuin nakà doj">
-<!ENTITY detail.checkForUpdates.accesskey     "F">
-<!ENTITY detail.checkForUpdates.tooltip       "Nana'uì' sa' ga'ue nahuin nakà riña komplementô nan">
-<!ENTITY detail.showPreferencesWin.label      "Sa huā gi'iát">
-<!ENTITY detail.showPreferencesWin.accesskey  "O">
-<!ENTITY detail.showPreferencesWin.tooltip    "Naduna nej sa nikaj komplementô nan">
-<!ENTITY detail.showPreferencesUnix.label     "Sa arajsunt doj">
-<!ENTITY detail.showPreferencesUnix.accesskey "P">
-<!ENTITY detail.showPreferencesUnix.tooltip   "Naduna nej sa garan' ruhuât riña komplementô nan">
-
-
-<!-- ratings -->
-<!ENTITY rating2.label                        "Antaj nikò guìi araj sun man">
-
-
 <!-- download/install progress -->
-<!ENTITY progress.pause.tooltip               "Duyichin' akuan'">
-
 <!ENTITY progress.cancel.tooltip              "Dure'">
-
-<!ENTITY addon.homepage                       "Ñanj ayi'ì'">
-
 
 <!ENTITY addon.details.label                  "Doj">
 <!ENTITY addon.details.tooltip                "Gini'iaj doj sa hua rayi'î komplementô nan">
@@ -193,6 +39,7 @@
      to the add-on name for extensions that are not webextensions, which
      will stop working in Firefox 57. -->
 <!ENTITY addon.legacy.label                   "LEGACY">
+<!ENTITY addon.privateBrowsing.label          "ALLOWED RIÑA PRIVATE WINDOWS">
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
      "<Addon name> <1.0> (disabled)" -->
@@ -206,7 +53,6 @@
 <!ENTITY addon.undoAction.tooltip             "Nadure' sa gi'iát nan">
 <!ENTITY addon.undoRemove.label               "Nadurê'">
 <!ENTITY addon.undoRemove.tooltip             "Dunaj ginun komplemênto na gi'iaj sunj">
-<!ENTITY addon.restartNow.label               "Dunayi'ì nakà akuan' nïn">
 
 <!ENTITY addon.install.label                  "Ga'nïnj">
 <!ENTITY addon.install.tooltip                "Ga'nïnj komplementô nan">
@@ -221,34 +67,5 @@
 
 <!ENTITY addon.createdBy.label                "Guendâ ">
 
-<!ENTITY eula.title                           "Chrej da'ui dugui' garasun nan ganikò' si">
-<!ENTITY eula.width                           "560px">
-<!ENTITY eula.height                          "400px">
-<!ENTITY eula.accept                          "Araj yinaj ni ga'nïn man…">
-
 <!ENTITY settings.path.button.label           "Natsij ni'iajt…">
-
 <!ENTITY setting.learnmore "Gahuin chrūn doj…">
-
-<!ENTITY disabledUnsigned.heading "Hua da'aj nej komplemênto ni giyichin' nej man">
-<!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
-     These entities form a sentence, with
-     disabledUnsigned.description.findAddonsLink being a link to an external site. -->
-<!ENTITY disabledUnsigned.description.start "Nej komplementô nan ni nu gachin man da' natsij &brandShortName;. Ga'ue gi'iát ">
-<!ENTITY disabledUnsigned.description.findAddonsLink "narì' sa ga'ue natu riña nan">
-<!ENTITY disabledUnsigned.description.end " asi gachinj ni'iaj riña desarroyadô da' natsij man.">
-<!ENTITY disabledUnsigned.learnMore "Gini'in doj rayi'î sun 'iaj ñûnj da' a'ue aché nu hue'êt riña aga' nan.">
-<!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
-     These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
-     being a link to an external site. -->
-<!ENTITY disabledUnsigned.devInfo.start "Nej desarroyadô ruhuâ natsij nej si komplementô ni ga'ue gahiaat nej ">
-<!ENTITY disabledUnsigned.devInfo.linkToManual "nachrun ra'a">
-<!ENTITY disabledUnsigned.devInfo.end ".">
-
-<!ENTITY pluginDeprecation.description "Hua sa nanu ruhuâ raj? Hua da'aj nej plugîn ni nitaj si aran'anj ngà &brandShortName;.">
-<!ENTITY pluginDeprecation.learnMore "Gahuin chrun doj">
-
-<!ENTITY legacyWarning.showLegacy "Ni'iaj nej extensiûn hua nika hia">
-<!ENTITY legacyExtensions.title "Nej extensiûn hua nikaa">
-<!ENTITY legacyExtensions.description "Nitaj si digahuin nej extensiûn nan ngà nej chrej &brandShortName; huaa yi'ì dan giyichin' nej man.">
-<!ENTITY legacyExtensions.learnMore "Gini'in doj rayi'î nuguan' hua ngà nadunô' 'ngo komplemênto">
