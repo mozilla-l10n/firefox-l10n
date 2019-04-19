@@ -274,7 +274,16 @@ enable-addon-button = Activer
 expand-addon-button = Plus d’options
 addons-enabled-heading = Activé
 addons-disabled-heading = Désactivé
+addon-detail-rating-label = Appréciation
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
 addon-name-disabled = { $name } (désactivé)
+# The number of reviews that an add-on has received on AMO.
+# Variables:
+#   $numberOfReviews (number) - The number of reviews received
+addon-detail-reviews-link =
+    { $numberOfReviews ->
+        [one] { $numberOfReviews } critique
+       *[other] { $numberOfReviews } critiques
+    }
