@@ -8,6 +8,11 @@ profiles-create = Cruthaich pròifil ùr
 profiles-restart-title = Ath-thòisich
 profiles-restart-in-safe-mode = Ath-thòisich leis na tuilleadan à comas…
 profiles-restart-normal = Ath-thòisich air an dòigh àbhaisteach…
+profiles-conflict = Rinn lethbhreac eile de { -brand-product-name } atharraichean air pròifilean. Feumaidh tu { -brand-short-name } ath-thòiseachadh mus atharraich thu dad eile.
+profiles-flush-fail-title = Cha deach na h-atharraichean a shàbhaladh
+profiles-flush-conflict = { profiles-conflict }
+profiles-flush-failed = Thachair mearachd ris nach robh dùil agus cha deach na h-atharraichean agad a shàbhaladh ri linn sin.
+profiles-flush-restart-button = Ath-thòisich { -brand-short-name }
 # Variables:
 #   $name (String) - Name of the profile
 profiles-name = Pròifil: { $name }
@@ -26,6 +31,8 @@ profiles-rename = Thoir ainm ùr air
 profiles-remove = Thoir air falbh
 profiles-set-as-default = Suidhich mar a’ phròifil bhunaiteach
 profiles-launch-profile = Cuir gu dol a’ phròifil ann am brabhsair ùr
+profiles-cannot-set-as-default-title = Cha ghabh bun-roghainn a shuidheachadh
+profiles-cannot-set-as-default-message = Cha ghabh a’ phròifil bhunaiteach atharrachadh airson { -brand-short-name }.
 profiles-yes = tha
 profiles-no = chan eil
 profiles-rename-profile-title = Thoir ainm ùr air a’ phròifil

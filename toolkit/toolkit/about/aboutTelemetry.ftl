@@ -56,6 +56,18 @@ about-telemetry-upload-type =
         [enabled] an comas
        *[disabled] à comas
     }
+# Example Output: 1 sample, average = 0, sum = 0
+# Variables:
+#   $sampleCount (Integer): amount of histogram samples
+#   $prettyAverage (Integer): average of histogram samples
+#   $sum (Integer): sum of histogram samples
+about-telemetry-histogram-stats =
+    { $sampleCount ->
+        [one] { $sampleCount } sample, average = { $prettyAverage }, sum = { $sum }
+        [two] { $sampleCount } sample, average = { $prettyAverage }, sum = { $sum }
+        [few] { $sampleCount } sample, average = { $prettyAverage }, sum = { $sum }
+       *[other] { $sampleCount } sample, average = { $prettyAverage }, sum = { $sum }
+    }
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = Tha an duilleag seo a' sealltainn dhut fiosrachadh air dèanadas, bathar-cruaidh, cleachdadh is gnàthachadh a tha gleus an telemeatraidh a' cruinneachadh. Thèid an dàta seo a chur gu { $telemetryServerOwner } a chum leasachadh { -brand-full-name }.
@@ -125,3 +137,9 @@ about-telemetry-category-header = roinn
 about-telemetry-method-header = dòigh
 about-telemetry-object-header = oibseact
 about-telemetry-extra-header = extra
+about-telemetry-origin-section = Origin Telemetry
+about-telemetry-origin-origin = origin
+about-telemetry-origin-count = count
+# Variables:
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link">Firefox Origin Telemetry</a> encodes data before it is sent so that { $telemetryServerOwner } can count things, but not know whether or not any given { -brand-product-name } contributed to that count. (<a data-l10n-name="prio-blog-link">learn more</a>)

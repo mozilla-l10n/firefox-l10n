@@ -71,3 +71,5 @@ remove-all-shown =
 remove-all-passwords-prompt = A bheil thu airson gach facal-faire a thoirt air falbh?
 remove-all-passwords-title = Thoir air falbh a h-uile facal-faire
 no-master-password-prompt = A bheil thu cinnteach gu bheil thu airson na faclan-faire agad a shealltainn?
+auto-fill-logins-and-passwords =
+    .label = Autofill logins and passwords

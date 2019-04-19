@@ -24,6 +24,9 @@ features-title = Gleusan { -brand-short-name }
 features-name = Ainm
 features-version = Tionndadh
 features-id = ID
+processes-title = Pròiseasan cèin
+processes-type = Seòrsa
+processes-count = Cunntas
 app-basics-title = Bun-tùs na h-aplacaid
 app-basics-name = Ainm
 app-basics-version = Tionndadh
@@ -44,10 +47,13 @@ app-basics-memory-use = Cleachdadh na cuimhne
 app-basics-performance = Dèanadas
 app-basics-service-workers = Obraichean seirbheise clàraichte
 app-basics-profiles = Pròifilean
+app-basics-launcher-process-status = Pròiseas an lòinseir
 app-basics-multi-process-support = Uinneagan ioma-phròiseasaidh
 app-basics-process-count = Pròiseasan susbaint-lìn
+app-basics-remote-processes-count = Pròiseasan cèin
 app-basics-enterprise-policies = Poileasaidhean Enterprise
-app-basics-key-google = Google Key
+app-basics-location-service-key-google = Google Location Service Key
+app-basics-safebrowsing-key-google = Google Safebrowsing Key
 app-basics-key-mozilla = Iuchair seirbheis nan ionad aig Mozilla
 app-basics-safe-mode = Am modh tèarainte
 show-dir-label =
@@ -183,6 +189,8 @@ hardware-h264 = Dì-chòdachadh bathar-cruaidh H264
 main-thread-no-omtc = main thread, gun OMTC
 yes = Tha
 no = Chan eil
+unknown = Neo-aithnichte
+virtual-monitor-disp = Virtual Monitor Display
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
@@ -190,6 +198,8 @@ no = Chan eil
 
 found = Chaidh a lorg
 missing = A dhìth
+gpu-process-pid = GPUProcessPid
+gpu-process = GPUProcess
 gpu-description = Tuairisgeul
 gpu-vendor-id = ID an reiceadair
 gpu-device-id = ID an uidheim
@@ -222,11 +232,14 @@ d3d9video-crash-buard = D3D9 Video Decoder
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Ath-shuidhich aig an ath ath-thòiseachadh
 gpu-process-kill-button = Cuir crìoch air pròiseas an GPU
+gpu-device-reset = Ath-shuidheachadh an uidheim
 gpu-device-reset-button = Cuir gu dol ath-shuidheachadh an uidheim
 uses-tiling = Uses Tiling
 content-uses-tiling = Cleachd leacachadh (Susbaint)
 off-main-thread-paint-enabled = Off Main Thread Painting Enabled
 off-main-thread-paint-worker-count = Off Main Thread Painting Worker Count
+low-end-machine = Detected less performant machine
+target-frame-rate = Target Frame Rate
 audio-backend = Audio Backend
 max-audio-channels = Seanailean air a’ char as motha
 channel-layout = Co-dhealbhadh nan seanail as fhearr dhut
@@ -244,6 +257,11 @@ effective-content-sandbox-level = Effective Content Process Sandbox Level
 sandbox-proc-type-content = susbaint
 sandbox-proc-type-file = susbaint faidhle
 sandbox-proc-type-media-plugin = plugan mheadhanan
+sandbox-proc-type-data-decoder = data decoder
+launcher-process-status-0 = Enabled
+launcher-process-status-1 = Disabled due to failure
+launcher-process-status-2 = Disabled forcibly
+launcher-process-status-unknown = Unknown status
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
