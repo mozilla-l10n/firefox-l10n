@@ -10,7 +10,17 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
+policy-AppUpdateURL = தனிப்பயன் பயன்பாட்டுக்கான புதுப்பிப்பு URL ஐ அமையுங்கள்.
+policy-Authentication = ஆதரிக்கும் வலைத்தளங்களில் ஒருங்கிணைந்த அங்கீகாரத்தைக் கட்டமை.
+policy-BlockAboutAddons = மேற்சேர்க்கைகள் நிர்வாகிக்கான (about:addons) அணுகலைத் தடு.
+policy-BlockAboutConfig = about:config பக்கத்திற்கான அணுகலைத் தடு.
+policy-BlockAboutProfiles = about:profiles பக்கத்திற்கான அணுகலைத் தடு.
+policy-BlockAboutSupport = about:support பக்கத்திற்கான அணுகலைத் தடு.
+policy-CaptivePortal = வசப்பட்ட வலைவாயில்களுக்கான ஆதரவை இயக்கு அல்லது முடக்கு.
 policy-CertificatesDescription = சான்றிதழ்களைச் சேர் அல்லது உள்ளமைந்த சான்றிதழ்களைப் பயன்படுத்து.
+policy-Cookies = நினைவிகளை அமைப்பதற்கு வலைத்தளங்களை அனுமதி அல்லது நிராகரி.
+policy-DisableAppUpdate = உலாவியைப் புதுப்பித்துக்கொள்வதிலிருந்து தடு.
+policy-DisableBuiltinPDFViewer = PDF.js, உள்ளமைந்த PDF படிப்பானை { -brand-short-name } உலாவியில் செயல்நீக்கு.
 policy-DisableDeveloperTools = உருவாக்குநர் கருவிகளுக்கான அணுகலைத் தடு.
 policy-DisableFormHistory = தேடல் மற்றும் படிவ வரலாற்றை நினைவில் கொள்ளாதே.
 policy-DNSOverHTTPS = HTTPS வழியாக DNS ஐ கட்டமைக்கவும்.
