@@ -666,6 +666,7 @@ addressbar-suggestions-settings = Atharraich na roghainnean a thaobh mholaidhean
 
 content-blocking-header = Bacadh susbaint
 content-blocking-description = Bac susbaint threas-phàrtaidhean a thracaicheas tu air feadh an lìn. Cùm smachd air na thèid a stòradh is a cho-roinneadh dhe do ghnìomhachd air loidhne eadar làraichean-lìn.
+content-blocking-section-description = Dìon do phrìobhaideachd fhad ’s a bhios tu a’ brabhsadh. Bac susbaint neo-fhaicsinneach a thracaicheas na làraichean air an tadhail thu agus a chruthaicheas pròifil dhìot. Ma bhacas tu cuid dhen t-susbaint seo, dh’fhaoidte gun luchdaich duilleagan nas luaithe.
 content-blocking-learn-more = Barrachd fiosrachaidh
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
