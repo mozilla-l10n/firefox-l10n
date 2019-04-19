@@ -77,6 +77,9 @@ detail-version =
 detail-last-updated =
     .label = Ùrachadh mu dheireadh
 detail-contributions-description = Dh'iarr leasaichear an tuilleadain seo gun cuir thu taic ri shìor-leasachadh tro thabhartas beag.
+detail-contributions-button = Gabh pàirt ann
+    .title = Cuir taic ri leasachadh an leudachain seo
+    .accesskey = C
 detail-update-type =
     .value = Ùrachaidhean fèin-obrachail
 detail-update-default =
@@ -88,6 +91,15 @@ detail-update-automatic =
 detail-update-manual =
     .label = Dheth
     .tooltiptext = Na stàlaich ùrachaidhean gu fèin-obrachail
+# Used as a description for the option to allow or block an add-on in private windows.
+detail-private-browsing-label = Ruith ann an uinneagan prìobhaideach
+detail-private-browsing-description2 = Ma cheadaicheas tu seo, bidh cothrom aig an leudachan seo air do ghnìomhachd air loidhne fhad ’s a nì thu brabhsadh prìobhaideach. <label data-l10n-name="detail-private-browsing-learn-more">Barrachd fiosrachaidh</label>
+# Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
+# cannot be overriden by the user.
+detail-private-disallowed-label = Chan eil seo ceadaichte ann an uinneagan prìobhaideach
+detail-private-disallowed-description = Cha ruith an leudachan seo fhad ’s a nì thu brabhsadh prìobhaideach. <label data-l10n-name="detail-private-browsing-learn-more">Barrachd fiosrachaidh</label>
+# Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
+detail-private-required-label = Feumaidh seo inntrigeadh do dh’uinneagan prìobhaideach
 detail-home =
     .label = Duilleag-dhachaigh
 detail-home-value =
@@ -207,3 +219,9 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Stàlaich na h-ùrachaidhean
     .tooltiptext = Stàlaich na h-ùrachaidhean san liosta seo a tha ri am faighinn
+
+## Extension shortcut management
+
+
+## Add-on actions
+
