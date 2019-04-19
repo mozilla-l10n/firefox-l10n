@@ -93,8 +93,11 @@ detail-update-manual =
     .label = Izključeno
     .tooltiptext = Posodobitev ne nameščaj samodejno
 # Used as a description for the option to allow or block an add-on in private windows.
-detail-private-browsing-label = Zaženi v zasebnih oknih
-detail-private-browsing-description = Razširitev bo delovala v zasebnih oknih in bo imela dostop do vaše spletne aktivnosti. <label data-l10n-name="detail-private-browsing-learn-more">Več o tem</label>
+detail-private-browsing-label = Delovanje v zasebnih oknih
+detail-private-browsing-description2 = Če je dovoljeno, bo imela razširitev dostop do vaše spletne dejavnosti v zasebnem brskanju. <label data-l10n-name="detail-private-browsing-learn-more">Več o tem</label>
+# Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
+detail-private-required-label = Zahteva dostop do zasebnih oken
+detail-private-required-description = Ta razširitev ima dostop do vaše spletne dejavnosti v zasebnem brskanju. <label data-l10n-name="detail-private-browsing-learn-more">Več o tem</label>
 detail-private-browsing-on =
     .label = Dovoli
     .tooltiptext = Omogoči v zasebnem brskanju
@@ -239,6 +242,10 @@ shortcuts-modifier-other = Vključi Ctrl ali Alt
 shortcuts-invalid = Neveljavna kombinacija
 shortcuts-letter = Vnesite črko
 shortcuts-system = Bližnjice { -brand-short-name }a ni mogoče preglasiti
+# String displayed when a keyboard shortcut is already used by another add-on
+# Variables:
+#   $addon (string) - Name of the add-on
+shortcuts-exists = Že uporablja { $addon }
 shortcuts-card-expand-button =
     { $numberToShow ->
         [one] Prikaži še { $numberToShow }
@@ -255,5 +262,25 @@ go-back-button =
 remove-addon-button = Odstrani
 disable-addon-button = Onemogoči
 enable-addon-button = Omogoči
+expand-addon-button = Več možnosti
 addons-enabled-heading = Omogočeno
 addons-disabled-heading = Onemogočeno
+addon-detail-author-label = Avtor
+addon-detail-version-label = Različica
+addon-detail-last-updated-label = Zadnja posodobitev
+addon-detail-homepage-label = Domača stran
+addon-detail-rating-label = Ocena
+# This string is used to show that an add-on is disabled.
+# Variables:
+#   $name (string) - The name of the add-on
+addon-name-disabled = { $name } (onemogočeno)
+# The number of reviews that an add-on has received on AMO.
+# Variables:
+#   $numberOfReviews (number) - The number of reviews received
+addon-detail-reviews-link =
+    { $numberOfReviews ->
+        [one] { $numberOfReviews } ocena
+        [two] { $numberOfReviews } oceni
+        [few] { $numberOfReviews } ocene
+       *[other] { $numberOfReviews } ocen
+    }
