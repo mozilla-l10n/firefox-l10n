@@ -8,6 +8,9 @@ profiles-create = Lag ein ny profil
 profiles-restart-title = Start på nytt
 profiles-restart-in-safe-mode = Start på nytt med utvidingar avslått…
 profiles-restart-normal = Start på nytt vanleg…
+profiles-flush-fail-title = Endringar ikkje lagra
+profiles-flush-conflict = { profiles-conflict }
+profiles-flush-restart-button = Start { -brand-short-name } på nytt
 # Variables:
 #   $name (String) - Name of the profile
 profiles-name = Profil: { $name }
