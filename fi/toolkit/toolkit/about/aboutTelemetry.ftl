@@ -37,7 +37,7 @@ about-telemetry-captured-stacks-section = Kaapatut pinot
 about-telemetry-late-writes-section = Myöhästyneet kirjoitukset
 about-telemetry-raw-payload-section = Raakatiedot
 about-telemetry-raw = Muotoilematon JSON
-about-telemetry-full-sql-warning = Huom.: Hidas SQL-virheenetsintä on päällä. Täydelliset SQL-lausekkeet saattavat näkyä alla, mutta niitä ei lähetetä mittaustietona.
+about-telemetry-full-sql-warning = Huom.: Hitaan SQL:n virheenetsintä on käytössä. Täydelliset SQL-lausekkeet saattavat näkyä alla, mutta niitä ei lähetetä mittaustietona.
 about-telemetry-fetch-stack-symbols = Nouda funktioiden nimet pinoihin
 about-telemetry-hide-stack-symbols = Näytä muotoilematon pinodata
 # Selects the correct release version
