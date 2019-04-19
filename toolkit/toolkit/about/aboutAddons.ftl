@@ -99,7 +99,14 @@ detail-private-browsing-description2 = Ma cheadaicheas tu seo, bidh cothrom aig 
 detail-private-disallowed-label = Chan eil seo ceadaichte ann an uinneagan prìobhaideach
 detail-private-disallowed-description = Cha ruith an leudachan seo fhad ’s a nì thu brabhsadh prìobhaideach. <label data-l10n-name="detail-private-browsing-learn-more">Barrachd fiosrachaidh</label>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
-detail-private-required-label = Feumaidh seo inntrigeadh do dh’uinneagan prìobhaideach
+detail-private-required-label = Feumaidh seo cothrom air uinneagan prìobhaideach
+detail-private-required-description = Tha cothrom aig an leudachan seo air do ghnìomhachd air loidhne fhad ’s a nì thu brabhsadh prìobhaideach. <label data-l10n-name="detail-private-browsing-learn-more">Barrachd fiosrachaidh</label>
+detail-private-browsing-on =
+    .label = Ceadaich
+    .tooltiptext = Cuir an comas ann am brabhsadh prìobhaideach
+detail-private-browsing-off =
+    .label = Na ceadaich
+    .tooltiptext = Cuir à comas ann am brabhsadh prìobhaideach
 detail-home =
     .label = Duilleag-dhachaigh
 detail-home-value =
@@ -142,6 +149,9 @@ legacy-warning-show-legacy = Seall leudachain dhìleabach
 legacy-extensions =
     .value = Leudachain dhìleabach
 legacy-extensions-description = Chan eil na leudachain seo a’ coileanadh stannardan { -brand-short-name } agus chaidh an cur às comas ri linn sin. <label data-l10n-name="legacy-learn-more">Fiosraich na tha ùr a thaobh leudachan</label>
+private-browsing-description2 =
+    Tha { -brand-short-name } ag atharrachadh mar a dh’obraicheas leudachain ann am brabhsadh prìobhaideach. Cha ruith leudachan ùr sam bith a chuireas tu ri { -brand-short-name } ann an uinneagan prìobhaideach. Chan obraich an leudachan ann am brabhsadh prìobhaideach gus an ceadaich thu e sna roghainnean agus cha bhi cothrom aige air do ghnìomhachd air loidhne . Rinn sinn seo gus am brabhsadh prìobhaideach a chumail prìobhaideach.
+    <label data-l10n-name="private-browsing-learn-more">Mar a stiùiricheas tu roghainnean nan leudachan</label>
 extensions-view-discover =
     .name = Faigh tuilleadain
     .tooltiptext = { extensions-view-discover.name }
@@ -222,6 +232,61 @@ extensions-updates-update-selected =
 
 ## Extension shortcut management
 
+manage-extensions-shortcuts =
+    .label = Stiùirich ath-ghoiridean an leudachain
+    .accesskey = S
+shortcuts-empty-message = Chan eil ath-ghoirid aig an leudachan seo.
+shortcuts-no-addons = Chan eil leudachan sam bith an comas agad.
+shortcuts-no-commands = Chan eil ath-ghoirid aig na leudachain a leanas:
+shortcuts-input =
+    .placeholder = Cuir a-steach ath-ghoirid
+shortcuts-browserAction = Cuir an leudachan an gnìomh
+shortcuts-pageAction = Cuir gnìomh na duilleige an gnìomh
+shortcuts-sidebarAction = Toglaich am bàr-taoibh
+shortcuts-modifier-mac = Gabh a-staigh Ctrl, Alt no ⌘
+shortcuts-modifier-other = Gabh a-staigh Ctrl no Alt
+shortcuts-invalid = Combanaid mhì-dhligheach
+shortcuts-letter = Sgrìobh litir
+shortcuts-system = Cha ghabh ath-ghoirid { -brand-short-name } a thar-àithneadh
+# String displayed when a keyboard shortcut is already used by another add-on
+# Variables:
+#   $addon (string) - Name of the add-on
+shortcuts-exists = ’Ga chleachdadh le { $addon } mu thràth
+shortcuts-card-expand-button =
+    { $numberToShow ->
+        [one] Seall { $numberToShow } a bharrachd
+        [two] Seall { $numberToShow } a bharrachd
+        [few] Seall { $numberToShow } a bharrachd
+       *[other] Seall { $numberToShow } a bharrachd
+    }
+shortcuts-card-collapse-button = Seall nas lugha
+go-back-button =
+    .tooltiptext = Air ais
 
 ## Add-on actions
 
+remove-addon-button = Thoir air falbh
+disable-addon-button = Cuir à comas
+enable-addon-button = Cuir an comas
+expand-addon-button = Barrachd roghainnean
+addons-enabled-heading = An comas
+addons-disabled-heading = À comas
+addon-detail-author-label = Ùghdar
+addon-detail-version-label = Tionndadh
+addon-detail-last-updated-label = Ùrachadh mu dheireadh
+addon-detail-homepage-label = Duilleag-dhachaigh
+addon-detail-rating-label = Rangachadh
+# This string is used to show that an add-on is disabled.
+# Variables:
+#   $name (string) - The name of the add-on
+addon-name-disabled = { $name } (à comas)
+# The number of reviews that an add-on has received on AMO.
+# Variables:
+#   $numberOfReviews (number) - The number of reviews received
+addon-detail-reviews-link =
+    { $numberOfReviews ->
+        [one] { $numberOfReviews } lèirmheas
+        [two] { $numberOfReviews } lèirmheas
+        [few] { $numberOfReviews } lèirmheasan
+       *[other] { $numberOfReviews } lèirmheas
+    }
