@@ -18,6 +18,7 @@ about-debugging-sidebar-item-connect-button = Connetti
 about-debugging-sidebar-item-connect-button-connecting = Connessione in corso…
 about-debugging-sidebar-item-connect-button-connection-failed = Connessione non riuscita
 about-debugging-sidebar-item-connect-button-connection-not-responding = Connessione ancora in sospeso, verificare la presenza di messaggi nel browser obiettivo
+about-debugging-sidebar-item-connect-button-connection-timeout = Connessione fuori tempo massimo
 about-debugging-sidebar-item-connected-label = Connesso
 about-debugging-sidebar-runtime-item-waiting-for-browser = In attesa del browser…
 about-debugging-sidebar-runtime-item-unplugged = Disconnesso
