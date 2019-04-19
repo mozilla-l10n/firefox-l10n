@@ -55,3 +55,8 @@ profiles-opendir =
         [windows] Apri cartella
        *[other] Apri percorso
     }
+profiles-conflict = Un’altra copia di { -brand-product-name } ha effettuato modifiche ai profili. È necessario riavviare { -brand-short-name } per fare ulteriori modifiche.
+profiles-flush-fail-title = Modifiche non salvate
+profiles-flush-conflict = { profiles-conflict }
+profiles-flush-failed = Un errore imprevisto ha impedito il salvataggio delle modifiche.
+profiles-flush-restart-button = Riavvia { -brand-short-name }
