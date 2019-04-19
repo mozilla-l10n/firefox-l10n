@@ -43,6 +43,9 @@ about-debugging-sidebar-item-connect-button = Sambungkan
 about-debugging-sidebar-item-connect-button-connecting = Menyambungkan…
 # Text displayed in buttons found in sidebar items when the connection failed.
 about-debugging-sidebar-item-connect-button-connection-failed = Sambungan gagal
+# Text displayed in connection warning on sidebar item of the runtime when connecting to
+# the runtime is taking too much time.
+about-debugging-sidebar-item-connect-button-connection-not-responding = Sambungan masih tertunda, memeriksa pesan pada target peramban
 # Temporary text displayed in sidebar items representing remote runtimes after
 # successfully connecting to them. Temporary UI, do not localize.
 about-debugging-sidebar-item-connected-label = Tersambung

@@ -46,22 +46,16 @@ permissions-capabilities-listitem-allow =
     .value = Izinkan
 permissions-capabilities-listitem-block =
     .value = Blokir
-permissions-capabilities-listitem-allow-first-party =
-    .value = Izinkan hanya dari pihak pertama
 permissions-capabilities-listitem-allow-session =
     .value = Izinkan untuk Sesi ini
 
 ## Invalid Hostname Dialog
 
 permissions-invalid-uri-title = Nama host yang Anda masukkan salah
-permissions-invalid-uri-label = Mohon masukkan nama host yang valid
+permissions-invalid-uri-label = Mohon masukkan nama hos yang valid
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-tracking-protection-window =
-    .title = Pengecualian - Perlindungan Pelacakan
-    .style = { permissions-window.style }
-permissions-exceptions-tracking-protection-desc = Anda telah menonaktifkan Perlindungan Pelacakan di situs web ini.
 permissions-exceptions-content-blocking-window =
     .title = Pengecualian - Pemblokiran Konten
     .style = { permissions-window.style }
