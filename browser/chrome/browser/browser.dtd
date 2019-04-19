@@ -64,6 +64,8 @@ but will never be visible at the same time. -->
 These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  bookmarkSelectedTabs.accesskey     "m">
 
+<!-- Tab context menu -->
+
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
@@ -108,7 +110,6 @@ These items have the same accesskey but will never be visible at the same time. 
 <!ENTITY  hiddenTabs.label                   "Skriti zavihki">
 
 <!ENTITY  listAllTabs.label      "Seznam vseh zavihkov">
-
 <!-- LOCALIZATION NOTE (allTabsMenu.searchTabs.label): "Search" is a verb, as
 in "Search through tabs". -->
 <!ENTITY  allTabsMenu.searchTabs.label       "Išči zavihke">
@@ -216,6 +217,26 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenExit.label "Izhod iz celozaslonskega načina">
 <!ENTITY fullScreenExit.accesskey "C">
 
+ <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
+     for the Firefox Account toolbar signin menu screen. -->
+<!ENTITY fxa.signin.callout.label "Vzemite Firefox s seboj">
+<!ENTITY fxa.signin.description.label "Imejte dostop do svojih zaznamkov, zgodovine, gesel in drugih podatkov z vseh svojih naprav.">
+<!ENTITY fxa.signin.button.label "Vklopi &syncBrand.shortName.label; …">
+
+<!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
+     for the Firefox Account toolbar unverified menu screen. -->
+<!ENTITY fxa.unverified.callout.label "Preverite svojo e-pošto">
+<!ENTITY fxa.unverified.description.label "Pred začetkom sinhronizacije boste morali potrditi svoj račun.">
+<!ENTITY fxa.unverified.button.label "Odpri nastavitve &syncBrand.shortName.label;a …">
+
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbart menu screen. The `Signed in as` text is
+     followed by the user's email. -->
+<!ENTITY fxa.menu.manageAccount.label "Upravljanje računa …">
+<!ENTITY fxa.menu.syncSettings.label "Nastavitve &syncBrand.shortName.label;a …">
+<!ENTITY fxa.menu.connectAnotherDevice.label "&syncedTabs.sidebar.connectAnotherDevice;">
+<!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
+
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring fullscreen.
@@ -232,6 +253,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY exitDOMFullscreenMac.button "Izhod iz celozaslonskega načina (Esc)">
 <!ENTITY leaveDOMFullScreen.label "Izhod iz celozaslonskega načina">
 <!ENTITY leaveDOMFullScreen.accesskey "j">
+
+<!-- LOCALIZATION NOTE (pictureInPicture.label, pictureInPicture.accesskey):
+     these two strings are used when right-clicking on a video in the
+     content area when the Picture-in-Picture feature is enabled. -->
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
@@ -410,6 +435,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmd2.accesskey     "M">
 <!ENTITY preferencesCmdUnix.label       "Nastavitve">
 <!ENTITY preferencesCmdUnix.accesskey     "n">
+
+<!ENTITY logins.label                           "Prijave in gesla">
 
 <!ENTITY clearRecentHistory.label               "Počisti nedavno zgodovino …">
 
@@ -882,7 +909,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "Tej strani niste dodelili posebnih dovoljenj.">
 <!ENTITY identity.permissionsReloadHint "Za uveljavitev sprememb boste morda morali ponovno naložiti stran.">
 <!ENTITY identity.permissionsPreferences.tooltip "Odpri nastavitve dovoljenj">
-
 <!ENTITY identity.contentBlockingPreferences.tooltip "Odpri nastavitve zavračanja vsebine">
 
 
@@ -934,6 +960,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncSignIn.label             "Prijava v &syncBrand.shortName.label; …">
 <!ENTITY syncSignIn.accesskey         "n">
 <!ENTITY syncSyncNowItem.label        "Sinhroniziraj">
+<!ENTITY syncSyncNowItemSyncing.label "Sinhroniziranje …">
 <!ENTITY syncSyncNowItem.accesskey    "n">
 <!ENTITY syncReAuthItem.label         "Ponovno poveži s &syncBrand.shortName.label;om …">
 <!ENTITY syncReAuthItem.accesskey     "P">
@@ -1074,6 +1101,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.acceptButton.accesskey "P">
 <!ENTITY updateAvailable.cancelButton.label "Ne zdaj">
 <!ENTITY updateAvailable.cancelButton.accesskey "N">
+
 <!ENTITY updateAvailable.panelUI.label "Prenesi posodobitev za &brandShorterName;">
 
 <!ENTITY updateManual.message "Prenesite svežo kopijo &brandShorterName;a, mi pa vam jo bomo pomagali namestiti.">
@@ -1134,8 +1162,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Upravljajte dodatke s klikom na <image class='addon-addon-icon'/> v meniju <image class='addon-toolbar-icon'/>.">
-<!ENTITY addonPostInstall.incognito.label "Dovoli, da se ta razširitev izvaja v zasebnih oknih.">
-<!ENTITY addonPostInstall.incognito.accesskey "z">
 
 <!ENTITY addonPrivateBrowsing.header2.label "Sprememba delovanja razširitev v zasebnih oknih">
 <!ENTITY addonPrivateBrowsing.body2.label "Nove razširitve, ki jih boste dodali v &brandShorterName;, ne bodo delovale v zasebnih oknih, razen če to dovolite v možnostih.">
