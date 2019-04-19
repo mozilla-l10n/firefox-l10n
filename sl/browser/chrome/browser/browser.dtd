@@ -1162,6 +1162,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Upravljajte dodatke s klikom na <image class='addon-addon-icon'/> v meniju <image class='addon-toolbar-icon'/>.">
+<!ENTITY addonPostInstall.incognito.checkbox.label "Dovoli, da se ta razširitev izvaja v zasebnih oknih">
+<!ENTITY addonPostInstall.incognito.checkbox.accesskey "D">
 
 <!ENTITY addonPrivateBrowsing.header2.label "Sprememba delovanja razširitev v zasebnih oknih">
 <!ENTITY addonPrivateBrowsing.body2.label "Nove razširitve, ki jih boste dodali v &brandShorterName;, ne bodo delovale v zasebnih oknih, razen če to dovolite v možnostih.">
