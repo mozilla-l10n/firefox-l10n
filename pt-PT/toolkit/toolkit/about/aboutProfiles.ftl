@@ -8,8 +8,10 @@ profiles-create = Criar um novo perfil
 profiles-restart-title = Reiniciar
 profiles-restart-in-safe-mode = Reiniciar com os extras desativados…
 profiles-restart-normal = Reiniciar normalmente…
+profiles-conflict = Outra cópia do { -brand-product-name } fez alterações nos perfis. Deve reiniciar o { -brand-short-name } antes de fazer mais alterações.
 profiles-flush-fail-title = Alterações não guardadas
 profiles-flush-conflict = { profiles-conflict }
+profiles-flush-failed = Um erro inesperado impediu as suas alterações de serem guardadas.
 profiles-flush-restart-button = Reiniciar o { -brand-short-name }
 # Variables:
 #   $name (String) - Name of the profile
