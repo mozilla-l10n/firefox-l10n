@@ -10,6 +10,7 @@ about-performance-title = Manaidsear nan saothair
 column-name = Ainm
 column-type = Seòrsa
 column-energy-impact = Buaidh air caitheamh dealain
+column-memory = Cuimhne
 
 ## Special values for the Name column
 
@@ -37,6 +38,15 @@ type-other = Eile
 energy-impact-high = Àrd ({ $value })
 energy-impact-medium = Meadhanach ({ $value })
 energy-impact-low = Ìseal ({ $value })
+
+## Values for the Memory column
+##
+## Variables:
+##   $value (Number) - How much memory is used
+
+size-KB = { $value } KB
+size-MB = { $value } MB
+size-GB = { $value } GB
 
 ## Tooltips for the action buttons
 
