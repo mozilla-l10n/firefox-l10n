@@ -8,8 +8,10 @@ profiles-create = Nowy profil załožić
 profiles-restart-title = Znowa startować
 profiles-restart-in-safe-mode = Ze znjemóžnjenymi přidatkami startować…
 profiles-restart-normal = Normalnje znowa startować…
+profiles-conflict = Druha kopija { -brand-product-name } je změny na wašich profilach přewjedła. Dyrbiće { -brand-short-name } znowa startować, prjedy hač dalše změny přewjedźeće.
 profiles-flush-fail-title = Změny njejsu so składowali
 profiles-flush-conflict = { profiles-conflict }
+profiles-flush-failed = Njewočakowany zmylk je składowanju wašich změnow zadźěwał.
 profiles-flush-restart-button = { -brand-short-name } znowa startować
 # Variables:
 #   $name (String) - Name of the profile
