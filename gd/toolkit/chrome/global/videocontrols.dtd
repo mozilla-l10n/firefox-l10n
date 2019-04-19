@@ -10,10 +10,13 @@
 <!ENTITY fullscreenButton.exitfullscreenlabel "Fàg an làn-sgrìn">
 <!ENTITY castingButton.castingLabel "Tilg air an sgrìn">
 <!ENTITY closedCaption.off "Dheth">
-
 <!-- LOCALIZATION NOTE (volumeScrubber.label): This label is exposed to
      accessibility software to clarify what the slider is for. -->
 <!ENTITY volumeScrubber.label "Sleamhnachan na fuaime">
+
+<!-- LOCALIZATION NOTE (pictureInPicture.label): This string is used as part of
+the Picture-in-Picture video toggle button when the mouse is hovering it. -->
+<!ENTITY pictureInPicture.label "Dealbh am broinn deilbh">
 
 <!ENTITY stats.media "Meadhanan">
 <!ENTITY stats.size "Meud">
@@ -34,6 +37,8 @@
 <!ENTITY error.srcNotSupported "Chan eil taic ann ri fòrmat a' video no an seòrsa MIME.">
 <!ENTITY error.noSource2 "Cha deach video a lorg aig a bheil fòrmat no seòrsa MIME a tha taic ris.">
 <!ENTITY error.generic "Sguireadh de chluich a' video air sgàth mearachd neo-aithnichte.">
+
+<!ENTITY status.pictureInPicture "Tha a’ video seo a’ cluich sa mhodh dealbh am broinn deilbh.">
 
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
