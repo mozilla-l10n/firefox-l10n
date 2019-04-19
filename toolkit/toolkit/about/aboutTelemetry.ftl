@@ -125,3 +125,6 @@ about-telemetry-category-header = catégorie
 about-telemetry-method-header = méthode
 about-telemetry-object-header = objet
 about-telemetry-extra-header = en supplément
+# Variables:
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link">Firefox Origin Telemetry</a> encode les données avant de les envoyer de façon à ce que { $telemetryServerOwner } puisse compter différentes choses, mais ne puisse pas savoir si oui ou non tel { -brand-product-name } donné a contribué à ce comptage. <a data-l10n-name="prio-blog-link">En savoir plus</a>
