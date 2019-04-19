@@ -32,3 +32,4 @@
 <!ENTITY positionAndDuration.nameFormat "#1<span> / #2</span>">
 <!ENTITY closedCaption.off "Disattivati">
 <!ENTITY volumeScrubber.label "Dispositivo di scorrimento volume">
+<!ENTITY pictureInPicture.label "Picture-in-Picture">
