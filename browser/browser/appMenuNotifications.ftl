@@ -30,7 +30,7 @@ appmenu-addon-private-browsing-installed =
     .buttonaccesskey = O
 appmenu-addon-post-install-message = 請點擊 <image data-l10n-name='addon-menu-icon'></image> 選單中的 <image data-l10n-name='addon-install-icon'></image> 來管理附加元件。
 appmenu-addon-post-install-incognito-checkbox =
-    .label = 允許此擴充套件於瀏覽視窗中執行
+    .label = 允許此擴充套件於隱私瀏覽視窗中執行
     .accesskey = A
 appmenu-addon-private-browsing =
     .label = 於隱私視窗中對擴充套件行為的變更
