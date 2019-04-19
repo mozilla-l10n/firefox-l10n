@@ -660,6 +660,7 @@ addressbar-suggestions-settings = Modifica le impostazioni relative ai suggerime
 
 content-blocking-header = Blocco contenuti
 content-blocking-description = Blocca i contenuti di terze parti che ti seguono attraverso il Web. Controlla quanto della tua attività online viene archiviato e condiviso tra siti web.
+content-blocking-section-description = Proteggi la tua privacy durante la navigazione. Blocca contenuti invisibili in grado di tracciare i siti che visiti e creare un profilo con le tue informazioni. Il blocco di alcuni di questi contenuti potrebbe velocizzare il caricamento delle pagine.
 content-blocking-learn-more = Ulteriori informazioni
 content-blocking-setting-standard =
     .label = Normale
