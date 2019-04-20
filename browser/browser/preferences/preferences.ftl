@@ -663,6 +663,7 @@ addressbar-suggestions-settings = Zmień ustawienia podpowiedzi dostarczanych pr
 
 content-blocking-header = Blokowanie treści
 content-blocking-description = Blokowanie elementów zewnętrznych witryn, które śledzą aktywność użytkowników sieci. Zdecyduj, jak wiele informacji o aktywności ma być przechowywane i współdzielone przez witryny.
+content-blocking-section-description = Chroń swoją prywatność podczas przeglądania. Blokuj niewidoczne elementy, które śledzą odwiedzane witryny i Cię profilują. Zablokowanie niektórych treści może przyspieszyć wczytywanie stron.
 content-blocking-learn-more = Więcej informacji
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".

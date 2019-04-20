@@ -14,10 +14,14 @@
      accessibility software to clarify what the slider is for. -->
 <!ENTITY volumeScrubber.label "Suwak regulacji głośności">
 
+<!-- LOCALIZATION NOTE (pictureInPicture.label): This string is used as part of
+the Picture-in-Picture video toggle button when the mouse is hovering it. -->
+<!ENTITY pictureInPicture.label "Obraz w obrazie">
+
 <!ENTITY stats.media "Media">
 <!ENTITY stats.size "Rozmiar">
 <!ENTITY stats.activity "Bieżący stan">
-<!ENTITY stats.activityPaused "Wstrzymanie">
+<!ENTITY stats.activityPaused "Wstrzymano">
 <!ENTITY stats.activityPlaying "Odtwarzanie">
 <!ENTITY stats.activityEnded "Zakończono">
 <!ENTITY stats.activitySeeking "(przewijanie)">
