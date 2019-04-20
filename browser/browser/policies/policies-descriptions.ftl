@@ -10,6 +10,7 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
+policy-3rdparty = הגדרת מדיניות שהרחבות WebExtensions יכולות לגשת אליהן באמצעות chrome.storage.managed.
 policy-AppUpdateURL = הגדרת כתובת מותאמת אישית לעדכון היישום.
 policy-Authentication = הגדרת אימות משולב לאתרים שתומכים בזה.
 policy-BlockAboutAddons = חסימת הגישה למנהל התוספות (about:addons).
@@ -17,6 +18,7 @@ policy-BlockAboutConfig = חסימת הגישה לעמוד about:config.
 policy-BlockAboutProfiles = חסימת הגישה לעמוד about:profiles.
 policy-BlockAboutSupport = חסימת הגישה לעמוד about:support.
 policy-Bookmarks = יצירת סימניות בסרגל הסימניות, תפריט הסימניות או בתיקייה מסוימת בתוכם.
+policy-CaptivePortal = הפעלה או השבתה של תמיכה ב־Captive Portal.
 policy-CertificatesDescription = הוספת אישורים או שימוש באישורים מובנים.
 policy-Cookies = לאשר או לסרב להגדרת עוגיות מאתרים.
 policy-DisableAppUpdate = מניעת עדכון הדפדפן.

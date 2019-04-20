@@ -9,6 +9,8 @@ cfr-doorhanger-extension-cancel-button = לא עכשיו
     .accesskey = ע
 cfr-doorhanger-extension-ok-button = הוספה כעת
     .accesskey = ס
+cfr-doorhanger-pintab-ok-button = נעיצת לשונית זו
+    .accesskey = נ
 cfr-doorhanger-extension-manage-settings-button = ניהול הגדרות המלצות
     .accesskey = ג
 cfr-doorhanger-extension-never-show-recommendation = לא להציג לי המלצה זו
@@ -41,3 +43,12 @@ cfr-doorhanger-extension-total-users =
         [one] משתמש אחד
        *[other] { $total } משתמשים
     }
+cfr-doorhanger-pintab-description = קבלת גישה פשוטה לאתרים שהכי משמשים אותך. להשאיר אתרים פתוחים בלשונית (אפילו לאחר הפעלה מחדש).
+
+## These messages are steps on how to use the feature and are shown together.
+
+cfr-doorhanger-pintab-step1 = יש ללחוץ עם <b>הכפתור הימני</b> על הלשונית שברצונך לנעוץ.
+cfr-doorhanger-pintab-step2 = יש לבחור ב<b>נעיצת לשונית</b> מהתפריט.
+cfr-doorhanger-pintab-step3 = אם לאתר זה יהיה עדכון, תופיע נקודה כחולה על הלשונית הנעוצה שלך.
+cfr-doorhanger-pintab-animation-pause = השהיה
+cfr-doorhanger-pintab-animation-resume = המשך
