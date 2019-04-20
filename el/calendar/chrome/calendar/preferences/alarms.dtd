@@ -12,13 +12,14 @@
 <!ENTITY pref.calendar.alarms.playsound.accessKey "χ">
 <!ENTITY pref.calendar.alarms.sound.useDefault.label "Χρήση προεπιλεγμένου ήχου">
 <!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "λ">
+<!ENTITY pref.calendar.alarms.sound.useCustom.label "Χρήση του ακόλουθου αρχείου ήχου">
+<!ENTITY pref.calendar.alarms.sound.useCustom.accessKey "Χ">
 <!ENTITY pref.calendar.alarms.sound.browse.label "Εξερεύνηση…">
 <!ENTITY pref.calendar.alarms.sound.browse.accessKey "ξ">
 <!ENTITY pref.calendar.alarms.sound.play.label "Αναπαραγωγή">
 <!ENTITY pref.calendar.alarms.sound.play.accessKey "π">
 <!ENTITY pref.showalarmbox "Εμφάνιση του παραθύρου διαλόγου υπενθύμισης">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "θ">
-<!ENTITY pref.missedalarms "Εμφάνιση υπενθυμίσεων που σας διέφυγαν">
 <!ENTITY pref.missedalarms2 "Εμφάνιση χαμένων υπενθυμίσεων για εγγράψιμα ημερολόγια">
 <!ENTITY pref.calendar.alarms.missedAlarms.accessKey "φ">
 <!ENTITY pref.calendar.alarms.defaults.label "Προεπιλογές υπενθύμισης">
