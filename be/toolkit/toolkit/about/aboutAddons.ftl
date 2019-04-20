@@ -79,6 +79,9 @@ detail-version =
 detail-last-updated =
     .label = Апошняе абнаўленне
 detail-contributions-description = Распрацоўца гэтага дадатка просіць падтрымаць яго распрацоўку невялікім ахвяраваннем.
+detail-contributions-button = Зрабіць унёсак
+    .title = Зрабіць унёсак у распрацоўку гэтага дадатку
+    .accesskey = с
 detail-update-type =
     .value = Аўтаматычныя абнаўленні
 detail-update-default =
@@ -93,6 +96,13 @@ detail-update-manual =
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Задзейнічаць у прыватных вокнах
 detail-private-browsing-description2 = Калі дазволена, пашырэнне будзе мець доступ да вашай актыўнасці ў інтэрнэце ў час прыватнага аглядання. <label data-l10n-name="detail-private-browsing-learn-more">Падрабязней</label>
+# Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
+# cannot be overriden by the user.
+detail-private-disallowed-label = Не дазволена ў прыватных вокнах
+detail-private-disallowed-description = Гэта пашырэнне не працуе ў час прыватнага аглядання. <label data-l10n-name="detail-private-browsing-learn-more">Падрабязней</label>
+# Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
+detail-private-required-label = Патрабуе доступ да прыватных акон
+detail-private-required-description = Гэта пашырэнне мае доступ да вашай дзейнасці ў сеціве ў час прыватнага аглядання. <label data-l10n-name="detail-private-browsing-learn-more">Падрабязней</label>
 detail-private-browsing-on =
     .label = Дазволіць
     .tooltiptext = Уключаць у рэжыме прыватнага аглядання
@@ -243,6 +253,10 @@ shortcuts-modifier-other = Улучыце Ctrl або Alt
 shortcuts-invalid = Недапушчальная камбінацыя
 shortcuts-letter = Увядзіце літару
 shortcuts-system = Нельга перавызначыць спалучэнне клавіш { -brand-short-name }
+# String displayed when a keyboard shortcut is already used by another add-on
+# Variables:
+#   $addon (string) - Name of the add-on
+shortcuts-exists = Ужо выкарыстоўваецца дадаткам { $addon }
 shortcuts-card-expand-button =
     { $numberToShow ->
         [one] Паказаць яшчэ { $numberToShow }
@@ -262,3 +276,20 @@ expand-addon-button = Дадатковыя параметры
 addons-enabled-heading = Уключана
 addons-disabled-heading = Выключана
 addon-detail-author-label = Аўтар
+addon-detail-version-label = Версія
+addon-detail-last-updated-label = Апошняе абнаўленне
+addon-detail-homepage-label = Хатняя старонка
+addon-detail-rating-label = Ацэнка
+# This string is used to show that an add-on is disabled.
+# Variables:
+#   $name (string) - The name of the add-on
+addon-name-disabled = { $name } (адключана)
+# The number of reviews that an add-on has received on AMO.
+# Variables:
+#   $numberOfReviews (number) - The number of reviews received
+addon-detail-reviews-link =
+    { $numberOfReviews ->
+        [one] { $numberOfReviews } водгук
+        [few] { $numberOfReviews } водгукі
+       *[many] { $numberOfReviews } водгукаў
+    }
