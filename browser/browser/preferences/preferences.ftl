@@ -660,6 +660,7 @@ addressbar-suggestions-settings = საძიებო სისტემის
 
 content-blocking-header = შიგთავსის შეზღუდვა
 content-blocking-description = შეზღუდეთ მესამე მხარის შიგთავსი, რომელიც მთელ ინტერნეტში გადევნებთ თვალს. თავად განსაზღვრეთ, თქვენი მოქმედებების რა ნაწილი შეიძლება იყოს შენახული ან გაზიარებული საიტებს შორის.
+content-blocking-section-description = დაიცავით პირადი მონაცემები საიტების მონახულებისას. შეზღუდეთ გვერდებზე ფარული ნაწილები, რომლებიც თვალს ადევნებს და აღრიცხავს ყველა საიტს, რომელსაც ეწვევით. ზოგიერთი მათგანის შეზღუდვა, აგრეთვე ასწრაფებს გვერდების ჩატვირთვასაც.
 content-blocking-learn-more = იხილეთ ვრცლად
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
