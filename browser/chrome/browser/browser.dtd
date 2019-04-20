@@ -258,6 +258,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (pictureInPicture.label, pictureInPicture.accesskey):
      these two strings are used when right-clicking on a video in the
      content area when the Picture-in-Picture feature is enabled. -->
+<!ENTITY pictureInPicture.accesskey "u">
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
@@ -485,7 +486,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.showAll.tooltip "Afișează toate filele de pe acest dispozitiv">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
-<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Pornește sincronizarea filelor pentru a vedea o listă cu file de pe celelalte dispozitive.">
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Activează sincronizarea filelor pentru a vedea o listă cu file de pe celelalte dispozitive.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.subtitle): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
@@ -929,7 +930,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Deschide preferințele pentru &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
-<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Pornește sincronizarea filelor pentru a vedea o listă cu file de pe celelalte dispozitive.">
+<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Activează sincronizarea filelor pentru a vedea o listă cu file de pe celelalte dispozitive.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Caută în filele sincronizate">
 <!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Conectează alt dispozitiv">
 
@@ -1104,6 +1105,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.acceptButton.accesskey "D">
 <!ENTITY updateAvailable.cancelButton.label "Nu acum">
 <!ENTITY updateAvailable.cancelButton.accesskey "N">
+
 <!ENTITY updateAvailable.panelUI.label "Descarcă actualizarea pentru &brandShorterName;">
 
 <!ENTITY updateManual.message "Descarcă o nouă copie de &brandShorterName; și noi te vom ajuta la instalarea acesteia.">
