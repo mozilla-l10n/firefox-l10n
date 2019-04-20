@@ -82,6 +82,9 @@ detail-version =
 detail-last-updated =
     .label = Last Updated
 detail-contributions-description = The developer of this add-on asks that you help support its continued development by making a small contribution.
+detail-contributions-button = Contribute
+    .title = Contribute to the development of this add-on
+    .accesskey = C
 detail-update-type =
     .value = Automatic Updates
 detail-update-default =
@@ -253,6 +256,10 @@ shortcuts-modifier-other = Include Ctrl or Alt
 shortcuts-invalid = Invalid combination
 shortcuts-letter = Type a letter
 shortcuts-system = Can’t override a { -brand-short-name } shortcut
+# String displayed when a keyboard shortcut is already used by another add-on
+# Variables:
+#   $addon (string) - Name of the add-on
+shortcuts-exists = Already in use by { $addon }
 shortcuts-card-expand-button =
     { $numberToShow ->
        *[other] Show { $numberToShow } More
@@ -269,3 +276,20 @@ enable-addon-button = Enable
 expand-addon-button = More Options
 addons-enabled-heading = Enabled
 addons-disabled-heading = Disabled
+addon-detail-author-label = Author
+addon-detail-version-label = Version
+addon-detail-last-updated-label = Last Updated
+addon-detail-homepage-label = Homepage
+addon-detail-rating-label = Rating
+# This string is used to show that an add-on is disabled.
+# Variables:
+#   $name (string) - The name of the add-on
+addon-name-disabled = { $name } (disabled)
+# The number of reviews that an add-on has received on AMO.
+# Variables:
+#   $numberOfReviews (number) - The number of reviews received
+addon-detail-reviews-link =
+    { $numberOfReviews ->
+        [one] { $numberOfReviews } review
+       *[other] { $numberOfReviews } reviews
+    }

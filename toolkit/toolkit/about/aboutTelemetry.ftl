@@ -56,6 +56,16 @@ about-telemetry-upload-type =
         [enabled] enabled
        *[disabled] disabled
     }
+# Example Output: 1 sample, average = 0, sum = 0
+# Variables:
+#   $sampleCount (Integer): amount of histogram samples
+#   $prettyAverage (Integer): average of histogram samples
+#   $sum (Integer): sum of histogram samples
+about-telemetry-histogram-stats =
+    { $sampleCount ->
+        [one] { $sampleCount } sample, average = { $prettyAverage }, sum = { $sum }
+       *[other] { $sampleCount } samples, average = { $prettyAverage }, sum = { $sum }
+    }
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = This page shows the information about performance, hardware, usage and customisations collected by Telemetry. This information is submitted to { $telemetryServerOwner } to help improve { -brand-full-name }.
@@ -125,3 +135,9 @@ about-telemetry-category-header = category
 about-telemetry-method-header = method
 about-telemetry-object-header = object
 about-telemetry-extra-header = extra
+about-telemetry-origin-section = Origin Telemetry
+about-telemetry-origin-origin = origin
+about-telemetry-origin-count = count
+# Variables:
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link">Firefox Origin Telemetry</a> encodes data before it is sent so that { $telemetryServerOwner } can count things, but not know whether or not any given { -brand-product-name } contributed to that count. (<a data-l10n-name="prio-blog-link">learn more</a>)
