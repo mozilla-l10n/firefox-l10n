@@ -8,6 +8,11 @@ profiles-create = Tạo hồ sơ mới
 profiles-restart-title = Khởi động lại
 profiles-restart-in-safe-mode = Khởi động lại và vô hiệu hóa các Tiện ích…
 profiles-restart-normal = Khởi động lại bình thường…
+profiles-conflict = Một bản sao khác của { -brand-product-name } đã thực hiện các thay đổi đối với hồ sơ. Bạn phải khởi động lại { -brand-short-name } trước khi thực hiện nhiều thay đổi.
+profiles-flush-fail-title = Các thay đổi chưa được lưu
+profiles-flush-conflict = { profiles-conflict }
+profiles-flush-failed = Một lỗi không mong muốn đã khiến các thay đổi của bạn không được lưu.
+profiles-flush-restart-button = Khởi động lại { -brand-short-name }
 # Variables:
 #   $name (String) - Name of the profile
 profiles-name = Hồ sơ: { $name }
