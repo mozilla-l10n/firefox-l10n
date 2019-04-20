@@ -29,3 +29,13 @@ appmenu-addon-private-browsing-installed =
     .buttonlabel = בסדר, הבנתי
     .buttonaccesskey = ב
 appmenu-addon-post-install-message = ניתן לנהל את התוספות שלך ע״י לחיצה על <image data-l10n-name='addon-install-icon'></image> שבתפריט <image data-l10n-name='addon-menu-icon'></image>.
+appmenu-addon-post-install-incognito-checkbox =
+    .label = לאפשר להרחבה זו לפעול בחלונות פרטיים
+    .accesskey = ל
+appmenu-addon-private-browsing =
+    .label = שינוי להרחבות בחלונות פרטיים
+    .buttonlabel = ניהול הרחבות
+    .buttonaccesskey = נ
+    .secondarybuttonlabel = בסדר, הבנתי
+    .secondarybuttonaccesskey = ב
+appmenu-addon-private-browsing-learn-more = מידע נוסף על ניהול הגדרות הרחבות
