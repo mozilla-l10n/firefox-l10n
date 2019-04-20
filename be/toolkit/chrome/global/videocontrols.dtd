@@ -14,6 +14,10 @@
      accessibility software to clarify what the slider is for. -->
 <!ENTITY volumeScrubber.label "Рэгулятар гучнасці">
 
+<!-- LOCALIZATION NOTE (pictureInPicture.label): This string is used as part of
+the Picture-in-Picture video toggle button when the mouse is hovering it. -->
+<!ENTITY pictureInPicture.label "Выява ў выяве">
+
 <!ENTITY stats.media "Медыя">
 <!ENTITY stats.size "Памер">
 <!ENTITY stats.activity "Дзейнасць">
