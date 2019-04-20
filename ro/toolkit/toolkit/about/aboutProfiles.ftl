@@ -8,6 +8,9 @@ profiles-create = Creează un profil nou
 profiles-restart-title = Repornire
 profiles-restart-in-safe-mode = Repornește cu suplimentele dezactivate…
 profiles-restart-normal = Repornește normal…
+profiles-flush-fail-title = Schimbări nesalvate
+profiles-flush-conflict = { profiles-conflict }
+profiles-flush-restart-button = Repornește { -brand-short-name }
 # Variables:
 #   $name (String) - Name of the profile
 profiles-name = Profil: { $name }

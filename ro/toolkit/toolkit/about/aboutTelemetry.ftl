@@ -56,6 +56,17 @@ about-telemetry-upload-type =
         [enabled] activată
        *[disabled] dezactivată
     }
+# Example Output: 1 sample, average = 0, sum = 0
+# Variables:
+#   $sampleCount (Integer): amount of histogram samples
+#   $prettyAverage (Integer): average of histogram samples
+#   $sum (Integer): sum of histogram samples
+about-telemetry-histogram-stats =
+    { $sampleCount ->
+        [one] { $sampleCount } mostră, media = { $prettyAverage }, suma = { $sum }
+        [few] { $sampleCount } mostre, media = { $prettyAverage }, suma = { $sum }
+       *[other] { $sampleCount } de mostre, media = { $prettyAverage }, suma = { $sum }
+    }
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = Această pagină arată informațiile colectate prin telemetrie despre performanță, hardware, utilizare și personalizări. Aceste informații sunt trimise la { $telemetryServerOwner } pentru a ajuta la îmbunătățirea { -brand-full-name }.

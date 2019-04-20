@@ -14,6 +14,10 @@
      accessibility software to clarify what the slider is for. -->
 <!ENTITY volumeScrubber.label "Glisor de volum">
 
+<!-- LOCALIZATION NOTE (pictureInPicture.label): This string is used as part of
+the Picture-in-Picture video toggle button when the mouse is hovering it. -->
+<!ENTITY pictureInPicture.label "Picture-in-Picture">
+
 <!ENTITY stats.media "Multimedia">
 <!ENTITY stats.size "Mărime">
 <!ENTITY stats.activity "Activitate">
@@ -33,6 +37,7 @@
 <!ENTITY error.srcNotSupported "Formatul videoclipului sau tipul MIME nu este suportat.">
 <!ENTITY error.noSource2 "Nu s-a găsit niciun videoclip cu format sau tip MIME suportat.">
 <!ENTITY error.generic "Redarea videoclipului a fost abandonată datorită unei erori necunoscute.">
+
 
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at

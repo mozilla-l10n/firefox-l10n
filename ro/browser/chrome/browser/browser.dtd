@@ -258,6 +258,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (pictureInPicture.label, pictureInPicture.accesskey):
      these two strings are used when right-clicking on a video in the
      content area when the Picture-in-Picture feature is enabled. -->
+<!ENTITY pictureInPicture.label "Picture-in-Picture">
 <!ENTITY pictureInPicture.accesskey "u">
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,

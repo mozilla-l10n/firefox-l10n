@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 cfr-doorhanger-extension-heading = Extensie recomandată
+cfr-doorhanger-pintab-heading = Încearcă asta: Fixează fila
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = De ce văd asta
 cfr-doorhanger-extension-cancel-button = Nu acum
@@ -48,5 +49,7 @@ cfr-doorhanger-extension-total-users =
 
 ## These messages are steps on how to use the feature and are shown together.
 
+cfr-doorhanger-pintab-step1 = <b>Clic dreapta</b> pe fila pe care dorești să o fixezi.
+cfr-doorhanger-pintab-step2 = Selectează <b>Fixează fila</b> din meniu.
 cfr-doorhanger-pintab-animation-pause = Pauză
 cfr-doorhanger-pintab-animation-resume = Continuă

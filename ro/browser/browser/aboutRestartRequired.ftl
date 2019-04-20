@@ -7,5 +7,6 @@ restart-required-header = Ne pare rău. Trebuie doar să facem un mic lucru pent
 restart-required-intro =
     Tocmai am instalat o actualizare în fundal. Clic pe Repornește { -brand-short-name } pentru a
     finaliza aplicarea acesteia.
+restart-required-intro-brand = { -brand-short-name } tocmai a fost actualizat în fundal. Clic pe Repornește { -brand-short-name } pentru a finaliza actualizarea.
 restart-required-description = Îți vom restaura toate paginile, ferestrele și filele după aceea, astfel încât să îți poți relua rapid treburile.
 restart-button-label = Repornește { -brand-short-name }
