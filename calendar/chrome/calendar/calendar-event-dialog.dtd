@@ -412,6 +412,7 @@
 
 <!-- Summary dialog -->
 <!ENTITY summary.dialog.saveclose.label         "บันทึกแล้วปิด">
+<!ENTITY summary.dialog.saveclose.tooltiptext   "บันทึกการเปลี่ยนแปลงแล้วปิดหน้าต่างโดยไม่เปลี่ยนสถานะการเข้าร่วมและส่งการตอบสนอง">
 <!ENTITY summary.dialog.accept.label            "ยอมรับ">
 <!ENTITY summary.dialog.accept.tooltiptext      "ยอมรับคำเชิญ">
 <!ENTITY summary.dialog.tentative.label         "ไม่แน่นอน">
