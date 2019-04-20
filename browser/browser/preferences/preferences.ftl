@@ -668,6 +668,7 @@ content-blocking-standard-desc = সুরক্ষা এবং সমন্ব
 content-blocking-custom-desc = নির্বাচন করুন কি ব্লক করবেন
 content-blocking-private-trackers = পরিচিত ট্র্যাকার শুধুমাত্র ব্যক্তিগত উইন্ডো তে
 content-blocking-third-party-cookies = তৃতীয় পক্ষের ট্র্যাকিং কুকি
+content-blocking-all-cookies = সব কুকি
 content-blocking-all-windows-trackers = সব উইন্ডোতে পরিচিত ট্র্যাকার
 content-blocking-all-third-party-cookies = সকল তৃতীয়-পক্ষের কুকিগুলো
 content-blocking-warning-title = সাধুবাদ জানাই!
