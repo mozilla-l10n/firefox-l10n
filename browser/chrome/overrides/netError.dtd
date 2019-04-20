@@ -154,11 +154,11 @@
 <!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
-<!ENTITY certerror.introPara "<span class='hostname'/>-ის მფლობელს ვებსაიტი არასწორად აქვს გამართული.  თქვენი ინფორმაციის მოპარვისგან დაცვის მიზნით, &brandShortName; ამ საიტს არ დაუკავშირდება.">
+<!ENTITY certerror.introPara "მფლობელს საიტი მისამართზე <span class='hostname'/> არასწორად აქვს გამართული.  თქვენი მონაცემების მოპარვისგან დასაცავად, &brandShortName; ამ ვებგვერდს არ დაუკავშირდება.">
 <!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
-<!ENTITY certerror.introPara2 "&brandShortName;, აღმოჩენილი მოსალოდნელი საფრთხის გამო, აღარ ჩატვირთავს <span class='hostname'/> გვერდს. თუ ამ საიტს ეწვევით, შემტევებს შეეძლებათ ხელყონ თქვენი მონაცემები, როგორიცაა პაროლები, ელფოსტის მისამართები ან საკრედიტო ბარათის ინფორმაცია.">
+<!ENTITY certerror.introPara2 "&brandShortName;, აღმოჩენილი მოსალოდნელი საფრთხის გამო, აღარ ჩატვირთავს <span class='hostname'/> გვერდს. თუ ამ საიტს ეწვევით, შემტევებს შეეძლებათ ხელყონ თქვენი მონაცემები, როგორიცაა პაროლები, ელფოსტის მისამართები ან საკრედიტო ბარათის ნომრები.">
 <!ENTITY certerror.sts.introPara "&brandShortName;, აღმოჩენილი მოსალოდნელი საფრთხის გამო, აღარ ჩატვირთავს <span class='hostname'/> გვერდს, ვინაიდან საიტი საჭიროებს დაცულ კავშირს.">
 
 <!ENTITY certerror.expiredCert.introPara "&brandShortName;, აღმოჩენილი ხარვეზის გამო, აღარ ჩატვირთავს <span class='hostname'/> გვერდს. საიტი ან გაუმართავია, ან თქვენი კომპიუტერის საათია გასასწორებელი.">
