@@ -10,10 +10,13 @@
 <!ENTITY fullscreenButton.exitfullscreenlabel "Έξοδος από την πλήρη οθόνη">
 <!ENTITY castingButton.castingLabel "Μετάδοση σε οθόνη">
 <!ENTITY closedCaption.off "Ανενεργό">
-
 <!-- LOCALIZATION NOTE (volumeScrubber.label): This label is exposed to
      accessibility software to clarify what the slider is for. -->
 <!ENTITY volumeScrubber.label "Ρυθμιστικό έντασης">
+
+<!-- LOCALIZATION NOTE (pictureInPicture.label): This string is used as part of
+the Picture-in-Picture video toggle button when the mouse is hovering it. -->
+<!ENTITY pictureInPicture.label "Εικόνα εντός εικόνας">
 
 <!ENTITY stats.media "Πολυμέσα">
 <!ENTITY stats.size "Μέγεθος">
@@ -34,6 +37,8 @@
 <!ENTITY error.srcNotSupported "Η μορφή του βίντεο ή ο τύπος MIME δεν υποστηρίζονται.">
 <!ENTITY error.noSource2 "Δεν βρέθηκε βίντεο με υποστηριζόμενη μορφή και τύπο MIME.">
 <!ENTITY error.generic "Η αναπαραγωγή του βίντεο εγκαταλείφθηκε λόγω άγνωστου σφάλματος.">
+
+<!ENTITY status.pictureInPicture 'Αυτό το βίντεο αναπαράγεται σε λειτουργία "εικόνα εντός εικόνας".'>
 
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at

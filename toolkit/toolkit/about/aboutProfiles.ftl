@@ -8,6 +8,9 @@ profiles-create = Δημιουργία νέου προφίλ
 profiles-restart-title = Επανεκκίνηση
 profiles-restart-in-safe-mode = Επανεκκίνηση με τα πρόσθετα απενεργοποιημένα…
 profiles-restart-normal = Κανονική επανεκκίνηση…
+profiles-flush-fail-title = Μη αποθηκευμένες αλλαγές
+profiles-flush-conflict = { profiles-conflict }
+profiles-flush-restart-button = Επανεκκίνηση του { -brand-short-name }
 # Variables:
 #   $name (String) - Name of the profile
 profiles-name = Προφίλ: { $name }

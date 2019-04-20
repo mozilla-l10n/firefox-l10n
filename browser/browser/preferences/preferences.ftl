@@ -334,6 +334,9 @@ browsing-search-on-start-typing =
 browsing-cfr-recommendations =
     .label = Πρόταση επεκτάσεων κατά την περιήγησή σας
     .accesskey = Π
+browsing-cfr-features =
+    .label = Πρόταση λειτουργιών όσο περιηγείστε
+    .accesskey = ρ
 browsing-cfr-recommendations-learn-more = Μάθετε περισσότερα
 
 ## General Section - Proxy
