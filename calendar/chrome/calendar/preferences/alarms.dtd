@@ -12,13 +12,14 @@
 <!ENTITY pref.calendar.alarms.playsound.accessKey "ს">
 <!ENTITY pref.calendar.alarms.sound.useDefault.label "ნაგულისხმები სიგნალის გამოყენება">
 <!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "ნ">
+<!ENTITY pref.calendar.alarms.sound.useCustom.label "მოცემული ხმოვანი ფაილის გამოყენება">
+<!ENTITY pref.calendar.alarms.sound.useCustom.accessKey "გ">
 <!ENTITY pref.calendar.alarms.sound.browse.label "ამორჩევა…">
 <!ENTITY pref.calendar.alarms.sound.browse.accessKey "ჩ">
 <!ENTITY pref.calendar.alarms.sound.play.label "დაკვრა">
 <!ENTITY pref.calendar.alarms.sound.play.accessKey "დ">
 <!ENTITY pref.showalarmbox "შეხსენების დაფის ჩვენება">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "შ">
-<!ENTITY pref.missedalarms "გამოტოვებული შეხსენებების ჩვენება">
 <!ENTITY pref.missedalarms2 "გამოტოვებული შეხსენებების ჩვენება, ჩასაწერ კალენდრებზე">
 <!ENTITY pref.calendar.alarms.missedAlarms.accessKey "გ">
 <!ENTITY pref.calendar.alarms.defaults.label "ნაგულისხმები პარამეტრები">
