@@ -648,6 +648,7 @@ addressbar-suggestions-settings = 修改搜尋建議偏好設定
 
 content-blocking-header = 內容封鎖
 content-blocking-description = 封鎖會在網路上追蹤您的第三方內容。控制您要讓不同網站儲存並分享多少線上行為。
+content-blocking-section-description = 在上網時保護您的隱私。封鎖會在不同網站間追蹤您上網，並對使用者進行分類的隱藏內容。封鎖這類內容也可能讓網頁更快載入。
 content-blocking-learn-more = 了解更多
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
