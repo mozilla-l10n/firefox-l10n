@@ -12,8 +12,9 @@
 # and kept in English.
 -sync-brand-name =
     { $case ->
-       *[nominative] Синхронизация Firefox
+        [nominative] Синхронизация Firefox
         [genitive] Синхронизации Firefox
+       *[accusative] Синхронизацию Firefox
     }
 # “Account” can be localized, “Firefox” must be treated as a brand,
 # and kept in English.
