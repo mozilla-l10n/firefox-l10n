@@ -229,6 +229,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbart menu screen. The `Signed in as` text is
      followed by the user's email. -->
+<!ENTITY fxa.menu.signedInAs.label "Kirjautuneena tilillä">
 <!ENTITY fxa.menu.manageAccount.label "Hallitse tiliä…">
 <!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label;-asetukset…">
 <!ENTITY fxa.menu.connectAnotherDevice.label "&syncedTabs.sidebar.connectAnotherDevice;">
@@ -1095,6 +1096,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.acceptButton.accesskey "L">
 <!ENTITY updateAvailable.cancelButton.label "Ei nyt">
 <!ENTITY updateAvailable.cancelButton.accesskey "E">
+
 <!ENTITY updateAvailable.panelUI.label "Lataa &brandShorterName;-päivitys">
 
 <!ENTITY updateManual.message "Lataa uusi &brandShorterName;-kopio, niin autamme sen asentamisessa.">
