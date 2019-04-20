@@ -64,6 +64,8 @@ but will never be visible at the same time. -->
 These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  bookmarkSelectedTabs.accesskey     "נ">
 
+<!-- Tab context menu -->
+
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
@@ -222,6 +224,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbart menu screen. The `Signed in as` text is
      followed by the user's email. -->
+<!ENTITY fxa.menu.manageAccount.label "ניהול חשבון…">
+<!ENTITY fxa.menu.connectAnotherDevice2.label "חיבור התקן נוסף…">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -243,6 +247,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (pictureInPicture.label, pictureInPicture.accesskey):
      these two strings are used when right-clicking on a video in the
      content area when the Picture-in-Picture feature is enabled. -->
+<!ENTITY pictureInPicture.label "תמונה בתוך תמונה">
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
@@ -945,6 +950,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncSignIn.label             "התחברות אל &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "ה">
 <!ENTITY syncSyncNowItem.label        "סנכרון כעת">
+<!ENTITY syncSyncNowItemSyncing.label "בתהליך סנכרון…">
 <!ENTITY syncSyncNowItem.accesskey    "ס">
 <!ENTITY syncReAuthItem.label         "התחברות מחדש אל &syncBrand.shortName.label;…">
 <!ENTITY syncReAuthItem.accesskey     "מ">
@@ -1083,6 +1089,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.acceptButton.accesskey "ה">
 <!ENTITY updateAvailable.cancelButton.label "לא כעת">
 <!ENTITY updateAvailable.cancelButton.accesskey "ל">
+
 <!ENTITY updateAvailable.panelUI.label "הורדת עדכון &brandShorterName;">
 
 <!ENTITY updateManual.message "נא להוריד עותק חדש של &brandShorterName; ואנו נסייע לך בהתקנה.">

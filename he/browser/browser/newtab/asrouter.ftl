@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 cfr-doorhanger-extension-heading = הרחבה מומלצת
+cfr-doorhanger-pintab-heading = התנסות בתכונה: נעיצת לשונית
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = למה אני רואה את זה
 cfr-doorhanger-extension-cancel-button = לא עכשיו
