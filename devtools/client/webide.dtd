@@ -38,9 +38,8 @@
 <!ENTITY runtimeMenu_showDetails_accesskey "E">
 <!ENTITY runtimeMenu_showDevicePrefs_label "Preferințe dispozitiv">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
-<!ENTITY runtimeMenu_showSettings_label "Setări dispozitiv">
+<!ENTITY runtimeMenu_showSettings_label "Setări pentru dispozitiv">
 <!ENTITY runtimeMenu_showSettings_accesskey "s">
-
 <!ENTITY runtimeMenu_showPerformancePanel_label "Performanță">
 <!ENTITY runtimeMenu_showPerformancePanel_accesskey "p">
 
@@ -77,7 +76,6 @@
 <!ENTITY runtimePanel_usb "Dispozitive USB">
 <!ENTITY runtimePanel_wifi "Dispozitive Wi-Fi">
 <!ENTITY runtimePanel_other "Altele">
-<!ENTITY runtimePanel_noadbhelper "Instalare ADB Helper">
 <!ENTITY runtimePanel_nousbdevice "Nu îți vezi dispozitivul?">
 <!ENTITY runtimePanel_refreshDevices_label "Reîmprospătează dispozitivele">
 
@@ -120,12 +118,6 @@
 
 <!-- Runtime Details -->
 <!ENTITY runtimedetails_title "Informații despre mediul de execuție">
-<!ENTITY runtimedetails_adbIsRoot "ADB este root: ">
-<!ENTITY runtimedetails_summonADBRoot "dispozitiv-rădăcină">
-<!ENTITY runtimedetails_ADBRootWarning "(necesită bootloader deblocat)">
-<!ENTITY runtimedetails_unrestrictedPrivileges "Privilegii DevTools nerestricționate: ">
-<!ENTITY runtimedetails_requestPrivileges "solicită privilegii superioare">
-<!ENTITY runtimedetails_privilegesWarning "(Va reinițializa dispozitivul. Necesită privilegii root.)">
 
 <!-- Device Preferences and Settings -->
 <!ENTITY device_typeboolean "Boolean">
@@ -142,7 +134,7 @@
 <!ENTITY devicepreference_addnew "Adaugă preferință nouă">
 
 <!-- Device Settings -->
-<!ENTITY devicesetting_title "Setări dispozitiv">
+<!ENTITY devicesetting_title "Setări pentru dispozitiv">
 <!ENTITY devicesetting_search "Setări de căutare">
 <!ENTITY devicesetting_newname "Nume setare nouă">
 <!ENTITY devicesetting_newtext "Valoarea setării">

@@ -77,6 +77,9 @@ detail-version =
 detail-last-updated =
     .label = Ultima actualizare
 detail-contributions-description = Dezvoltatorul acestei extensii îți cere sprijinul pentru continuarea perfecționării acesteia printr-o mică donație.
+detail-contributions-button = Contribuie
+    .title = Contrbuie la dezvoltarea acestui supliment
+    .accesskey = C
 detail-update-type =
     .value = Actualizări automate
 detail-update-default =
@@ -91,6 +94,9 @@ detail-update-manual =
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Execută în ferestre private
 detail-private-browsing-description2 = Când are permisiunea, extensia va avea acces la activitățile tale online în timp ce navighezi privat. <label data-l10n-name="detail-private-browsing-learn-more">Află mai multe</label>
+# Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
+# cannot be overriden by the user.
+detail-private-disallowed-label = Nepermis în ferestre private
 detail-private-browsing-on =
     .label = Permite
     .tooltiptext = Activează în navigarea privată
@@ -253,5 +259,24 @@ go-back-button =
 remove-addon-button = Elimină
 disable-addon-button = Dezactivează
 enable-addon-button = Activează
+expand-addon-button = Mai multe opțiuni
 addons-enabled-heading = Activat
 addons-disabled-heading = Dezactivat
+addon-detail-author-label = Autor
+addon-detail-version-label = Versiune
+addon-detail-last-updated-label = Ultima actualizare
+addon-detail-homepage-label = Pagină de start
+addon-detail-rating-label = Evaluare
+# This string is used to show that an add-on is disabled.
+# Variables:
+#   $name (string) - The name of the add-on
+addon-name-disabled = { $name } (dezactivat)
+# The number of reviews that an add-on has received on AMO.
+# Variables:
+#   $numberOfReviews (number) - The number of reviews received
+addon-detail-reviews-link =
+    { $numberOfReviews ->
+        [one] { $numberOfReviews } recenzie
+        [few] { $numberOfReviews } recenzii
+       *[other] { $numberOfReviews } de recenzii
+    }
