@@ -14,6 +14,10 @@
      accessibility software to clarify what the slider is for. -->
 <!ENTITY volumeScrubber.label "Thanh điều khiển âm lượng">
 
+<!-- LOCALIZATION NOTE (pictureInPicture.label): This string is used as part of
+the Picture-in-Picture video toggle button when the mouse is hovering it. -->
+<!ENTITY pictureInPicture.label "Hình trong hình">
+
 <!ENTITY stats.media "Đa phương tiện">
 <!ENTITY stats.size "Dung lượng">
 <!ENTITY stats.activity "Hoạt động">
