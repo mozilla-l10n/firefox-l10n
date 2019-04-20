@@ -7,7 +7,13 @@
 
 <!ENTITY fromAddr.label "From:">
 <!ENTITY fromAddr.accesskey "r">
-<!ENTITY subject.label  "Subject:">
+<!ENTITY toAddr.label "To:">
+<!ENTITY ccAddr.label "Cc:">
+<!ENTITY bccAddr.label "Bcc:">
+<!ENTITY replyAddr.label "Reply-To:">
+<!ENTITY newsgroupsAddr.label "Newsgroup:">
+<!ENTITY followupAddr.label "Followup-To:">
+<!ENTITY subject.label "Subject:">
 <!ENTITY subject.accesskey "S">
 <!ENTITY attachments.label "Attachments:">
 <!ENTITY attachments.accesskey "c">
@@ -44,7 +50,7 @@
 <!-- Edit menu items -->
 <!ENTITY editRewrapCmd.label "Rewrap">
 <!ENTITY editRewrapCmd.key "R">
-<!ENTITY editRewrapCmd.accesskey "w">
+<!ENTITY editRewrapCmd.accesskey  "w">
 <!ENTITY accountManagerCmd.label "Mail &amp; Newsgroups Account Settings…">
 <!ENTITY accountManagerCmd.accesskey "m">
 
@@ -87,7 +93,7 @@
 <!ENTITY dsnMenu.accesskey "N">
 
 <!ENTITY outputFormatMenu.label "Format">
-<!ENTITY outputFormatMenu.accesskey "F">
+<!ENTITY outputFormatMenu.accesskey  "F">
 <!ENTITY autoFormatCmd.label "Auto-Detect">
 <!ENTITY autoFormatCmd.accesskey "A">
 <!ENTITY plainTextFormatCmd.label "Plain Text Only">
@@ -114,12 +120,12 @@
 <!-- We already inherit &menuBar.tooltip and &mailToolbar.tooltip from messenger.dtd -->
 <!ENTITY addressBar.tooltip "Address Bar">
 <!ENTITY formatToolbar.tooltip "Formatting Toolbar">
-<!ENTITY sendButton.tooltip "Send this message now">
-<!ENTITY sendlaterButton.tooltip "Send this message later">
-<!ENTITY addressButton.tooltip "Select a recipient from an Address Book">
-<!ENTITY attachButton.tooltip "Include an attachment">
-<!ENTITY saveButton.tooltip "Save this message">
-<!ENTITY stopButton.tooltip "Stop the current transfer">
+<!ENTITY sendButton.tooltip "Send this message now"> 
+<!ENTITY sendlaterButton.tooltip "Send this message later"> 
+<!ENTITY addressButton.tooltip "Select a recipient from an Address Book"> 
+<!ENTITY attachButton.tooltip "Include an attachment"> 
+<!ENTITY saveButton.tooltip "Save this message"> 
+<!ENTITY stopButton.tooltip "Stop the current transfer"> 
 
 <!-- context menu items -->
 <!ENTITY openAttachment.label "Open">
