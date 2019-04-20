@@ -8,6 +8,11 @@ profiles-create = 建立新設定檔
 profiles-restart-title = 重新啟動
 profiles-restart-in-safe-mode = 重新啟動但停用附加元件…
 profiles-restart-normal = 正常重新啟動…
+profiles-conflict = 有另一套 { -brand-product-name } 對設定檔做了異動。您必須重新啟動 { -brand-short-name } 才能再做變動。
+profiles-flush-fail-title = 未儲存變更
+profiles-flush-conflict = { profiles-conflict }
+profiles-flush-failed = 發生未預期的錯誤，無法儲存變更。
+profiles-flush-restart-button = 重開 { -brand-short-name }
 # Variables:
 #   $name (String) - Name of the profile
 profiles-name = 設定檔: { $name }
