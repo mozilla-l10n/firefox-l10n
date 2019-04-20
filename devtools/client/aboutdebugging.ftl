@@ -46,6 +46,8 @@ about-debugging-sidebar-item-connect-button-connection-failed = Zwisk njejo se r
 # Text displayed in connection warning on sidebar item of the runtime when connecting to
 # the runtime is taking too much time.
 about-debugging-sidebar-item-connect-button-connection-not-responding = Zwisk hyšći njejo nawězany, pśespytajśo za powěsćami w celowem wobglědowaku
+# Text displayed as connection error in sidebar item when the connection has timed out.
+about-debugging-sidebar-item-connect-button-connection-timeout = Cas zwiska pśekšocony
 # Temporary text displayed in sidebar items representing remote runtimes after
 # successfully connecting to them. Temporary UI, do not localize.
 about-debugging-sidebar-item-connected-label = Zwězany
@@ -53,6 +55,9 @@ about-debugging-sidebar-item-connected-label = Zwězany
 # Firefox) has not been detected yet. Typically, Android phones connected via USB with
 # USB debugging enabled, but where Firefox is not started.
 about-debugging-sidebar-runtime-item-waiting-for-browser = Caka se na wobglědowak…
+# Text displayed in sidebar items for remote devices that have been disconnected from the
+# computer.
+about-debugging-sidebar-runtime-item-unplugged = Źělone
 # Title for runtime sidebar items that are related to a specific device (USB, WiFi).
 about-debugging-sidebar-runtime-item-name =
     .title = { $displayName } ({ $deviceName })
@@ -86,6 +91,8 @@ about-debugging-setup-this-firefox = Wužywajśo <a>{ about-debugging-this-firef
 about-debugging-setup-connect-heading = Z rědom zwězaś
 # USB section of the Setup page
 about-debugging-setup-usb-title = USB
+# Explanatory text displayed in the Setup page when USB debugging is disabled
+about-debugging-setup-usb-disabled = Gaž se to zmóžnja, se trěbne komponenty za pytanje zmólkow USB Android ześěgnu a se { -brand-shorter-name } pśidaju.
 # Text of the button displayed in the USB section of the setup page when USB debugging is disabled.
 # Clicking on it will download components needed to debug USB Devices remotely.
 about-debugging-setup-usb-enable-button = USB-rědy zmóžniś
@@ -100,6 +107,10 @@ about-debugging-setup-usb-status-disabled = Znjemóžnjony
 about-debugging-setup-usb-status-updating = Aktualizěrujo se…
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-dev-menu = Zmóžniśo meni wuwijarjow na swójom rěźe Android. <a>Zgóńśo kak</a>
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug = Zmóžniśo pytanje zmólkow USB w meniju wuwijarja Android. <a>Zgóńśo kak</a>
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug-firefox = Zmóžniśo pytanje zmólkow w Firefox na rěźe Android. <a>Zgóńśo kak</a>
 # USB section step by step guide
 about-debugging-setup-usb-step-plug-device = Zwězajśo rěd Android ze swójim licadłom.
 # Network section of the Setup page
