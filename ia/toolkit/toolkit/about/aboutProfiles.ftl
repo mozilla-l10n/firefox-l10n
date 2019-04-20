@@ -8,6 +8,7 @@ profiles-create = Crear un nove profilo
 profiles-restart-title = Reinitiar
 profiles-restart-in-safe-mode = Reinitiar con le additivos inactive…
 profiles-restart-normal = Reinitiar normalmente…
+profiles-flush-conflict = { profiles-conflict }
 # Variables:
 #   $name (String) - Name of the profile
 profiles-name = Profilo: { $name }
