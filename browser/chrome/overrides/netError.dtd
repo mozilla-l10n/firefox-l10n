@@ -154,14 +154,14 @@
 <!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
-<!ENTITY certerror.introPara "მფლობელს საიტი მისამართზე <span class='hostname'/> არასწორად აქვს გამართული.  თქვენი მონაცემების მოპარვისგან დასაცავად, &brandShortName; ამ ვებგვერდს არ დაუკავშირდება.">
+<!ENTITY certerror.introPara "მფლობელს საიტი ბმულით <span class='hostname'/> არასწორად აქვს გამართული.  თქვენი მონაცემების მოპარვისგან დასაცავად, &brandShortName; ამ ვებგვერდს არ დაუკავშირდება.">
 <!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara2 "&brandShortName;, აღმოჩენილი მოსალოდნელი საფრთხის გამო, აღარ ჩატვირთავს <span class='hostname'/> გვერდს. თუ ამ საიტს ეწვევით, შემტევებს შეეძლებათ ხელყონ თქვენი მონაცემები, როგორიცაა პაროლები, ელფოსტის მისამართები ან საკრედიტო ბარათის ნომრები.">
-<!ENTITY certerror.sts.introPara "&brandShortName;, აღმოჩენილი მოსალოდნელი საფრთხის გამო, აღარ ჩატვირთავს <span class='hostname'/> გვერდს, ვინაიდან საიტი საჭიროებს დაცულ კავშირს.">
+<!ENTITY certerror.sts.introPara "&brandShortName;, აღმოჩენილი მოსალოდნელი საფრთხის გამო, აღარ ჩატვირთავს გვერდს ბმულიდან <span class='hostname'/>, ვინაიდან საიტი საჭიროებს დაცულ კავშირს.">
 
-<!ENTITY certerror.expiredCert.introPara "&brandShortName;, აღმოჩენილი ხარვეზის გამო, აღარ ჩატვირთავს <span class='hostname'/> გვერდს. საიტი ან გაუმართავია, ან თქვენი კომპიუტერის საათია გასასწორებელი.">
+<!ENTITY certerror.expiredCert.introPara "&brandShortName;, აღმოჩენილი ხარვეზის გამო, აღარ ჩატვირთავს გვერდს ბმულიდან <span class='hostname'/>. საიტი ან გაუმართავია, ან თქვენი კომპიუტერის საათია გასასწორებელი.">
 <!ENTITY certerror.expiredCert.secondPara2 "როგორც ჩანს, საიტის სერტიფიკატი ვადაგასულია, რის გამოც &brandShortName; ვერ ახერხებს უსაფრთხო კავშირის დამყარებას. თუ ამ საიტს ეწვევით, შემტევებმა შეიძლება ხელყონ თქვენი მონაცემები, როგორიცაა პაროლები, ელფოსტის მისამართები და საკრედიტო ბარათის ინფორმაცია.">
 <!ENTITY certerror.expiredCert.sts.secondPara "როგორც ჩანს, საიტის სერტიფიკატი ვადაგასულია, რის გამოც &brandShortName; ვერ ახერხებს უსაფრთხო კავშირის დამყარებას.">
 
