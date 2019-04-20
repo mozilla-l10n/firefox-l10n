@@ -10,7 +10,7 @@ profiles-restart-in-safe-mode = 重新打开并禁用附加组件…
 profiles-restart-normal = 正常重新打开…
 profiles-flush-fail-title = 更改未保存
 profiles-flush-conflict = { profiles-conflict }
-profiles-flush-failed = 意外错误导致您的更改无法保存。
+profiles-flush-failed = 发生意外错误，无法保存更改。
 profiles-flush-restart-button = 重新打开 { -brand-short-name }
 # Variables:
 #   $name (String) - Name of the profile
