@@ -251,6 +251,7 @@ sandbox-proc-type-media-plugin = άρθρωμα πολυμέσων
 sandbox-proc-type-data-decoder = αποκωδικοποιητής δεδομένων
 launcher-process-status-0 = Ενεργό
 launcher-process-status-1 = Ανενεργό λόγω αποτυχίας
+launcher-process-status-2 = Ανενεργό εξαναγκαστικά
 launcher-process-status-unknown = Άγνωστη κατάσταση
 # Variables
 # $remoteWindows (integer) - Number of remote windows
