@@ -7,7 +7,13 @@
 
 <!ENTITY fromAddr.label "ვისგან:">
 <!ENTITY fromAddr.accesskey "r">
-<!ENTITY subject.label  "თემა:">
+<!ENTITY toAddr.label "ვის:">
+<!ENTITY ccAddr.label "ასლი:">
+<!ENTITY bccAddr.label "ფარული ასლი:">
+<!ENTITY replyAddr.label "პასუხი:">
+<!ENTITY newsgroupsAddr.label "ჯგუფი:">
+<!ENTITY followupAddr.label "კრება:">
+<!ENTITY subject.label "თემა:">
 <!ENTITY subject.accesskey "S">
 <!ENTITY attachments.label "დანართები:">
 <!ENTITY attachments.accesskey "c">
