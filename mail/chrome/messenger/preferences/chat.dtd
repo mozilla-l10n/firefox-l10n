@@ -40,7 +40,7 @@ sentence. -->
 <!ENTITY  play.label                          "Afspil">
 <!ENTITY  play.accesskey                      "A">
 <!ENTITY  systemSound.label                   "Standard systemlyd ved modtagelse af ny mail">
-<!ENTITY  systemSound.accesskey               "S">
+<!ENTITY  systemSound.accesskey               "y">
 <!ENTITY  customsound.label                   "Brug denne lydfil">
 <!ENTITY  customsound.accesskey               "B">
 <!ENTITY  browse.label                        "Gennemse…">
