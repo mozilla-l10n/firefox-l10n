@@ -6,20 +6,12 @@
 <!ENTITY aboutTelemetry.showCurrentPingData "Şu anki ping verisi">
 <!ENTITY aboutTelemetry.showArchivedPingData "Arşivlenmiş ping verisi">
 <!ENTITY aboutTelemetry.showSubsessionData "Alt oturum verilerini göster">
-<!ENTITY aboutTelemetry.choosePing "Ping'i seçin:">
-<!ENTITY aboutTelemetry.archivePingType "
-Ping türü
-">
+<!ENTITY aboutTelemetry.choosePing "Ping’i seçin:">
+<!ENTITY aboutTelemetry.archivePingType "Ping türü">
 <!ENTITY aboutTelemetry.archivePingHeader "Ping">
-<!ENTITY aboutTelemetry.optionGroupToday "
-Bugün
-">
-<!ENTITY aboutTelemetry.optionGroupYesterday "
-Dün
-">
-<!ENTITY aboutTelemetry.optionGroupOlder "
-Daha eski
-">
+<!ENTITY aboutTelemetry.optionGroupToday "Bugün">
+<!ENTITY aboutTelemetry.optionGroupYesterday "Dün">
+<!ENTITY aboutTelemetry.optionGroupOlder "Daha eski">
 <!-- LOCALIZATION NOTE(aboutTelemetry.previousPing, aboutTelemetry.nextPing):
 	These strings are displayed when selecting Archived pings, and they’re
 	used to move to the next or previous ping. -->
@@ -29,37 +21,29 @@ Daha eski
 <!ENTITY aboutTelemetry.pageTitle "Telemetri Verileri">
 <!ENTITY aboutTelemetry.moreInformations "Daha fazla bilgi almak mı istiyorsunuz?">
 <!ENTITY aboutTelemetry.firefoxDataDoc "<a>Firefox Veri Belgeleri</a>, veri araçlarlarımızla nasıl çalışabileceğinize dair rehberleri içerir.">
-<!ENTITY aboutTelemetry.telemetryClientDoc "<a>Firefox Telemetri istemcisi belgeleri</a> kavram tanımlarını, API belgeleribi ve veri referanslarını içerir.">
-<!ENTITY aboutTelemetry.telemetryDashboard "<a>Telemetri panoları</a> Mozilla'nın Telemetri aracılığıyla aldığı verileri görselleştirmenize olanak tanır.">
-
+<!ENTITY aboutTelemetry.telemetryClientDoc "<a>Firefox Telemetri istemcisi belgeleri</a> kavram tanımlarını, API belgelerini ve veri referanslarını içerir.">
+<!ENTITY aboutTelemetry.telemetryDashboard "<a>Telemetri panoları</a> Mozilla’nın Telemetri aracılığıyla aldığı verileri görselleştirmenize olanak tanır.">
 <!ENTITY aboutTelemetry.telemetryProbeDictionary "<a>Sonda sözlüğü</a> Telemetri’nin topladığı sondalarla ilgili ayrıntıları ve açıklamaları içerir.">
 
-<!ENTITY aboutTelemetry.showInFirefoxJsonViewer "
-JSON görüntüleyicide aç
-">
+<!ENTITY aboutTelemetry.showInFirefoxJsonViewer "JSON görüntüleyicide aç">
 
 <!ENTITY aboutTelemetry.homeSection "Ana Sayfa">
-<!ENTITY aboutTelemetry.generalDataSection "  Genel Veriler">
-<!ENTITY aboutTelemetry.environmentDataSection "  Ortam Verileri">
-<!ENTITY aboutTelemetry.sessionInfoSection "   Oturum Bilgisi">
-<!ENTITY aboutTelemetry.scalarsSection "  Değişkenler">
-<!ENTITY aboutTelemetry.keyedScalarsSection "  Anahtarlı Skalerler">
-<!ENTITY aboutTelemetry.histogramsSection "   Histogramlar ">
-<!ENTITY aboutTelemetry.keyedHistogramsSection "  Anahtarlı Histogramlar">
-<!ENTITY aboutTelemetry.eventsSection "
-  Olaylar">
-<!ENTITY aboutTelemetry.simpleMeasurementsSection "   Basit Ölçümler ">
-<!ENTITY aboutTelemetry.slowSqlSection "   Yavaş SQL Deyimleri ">
+<!ENTITY aboutTelemetry.generalDataSection "Genel Veriler">
+<!ENTITY aboutTelemetry.environmentDataSection "Ortam Verileri">
+<!ENTITY aboutTelemetry.sessionInfoSection "Oturum Bilgisi">
+<!ENTITY aboutTelemetry.scalarsSection "Skalerler">
+<!ENTITY aboutTelemetry.keyedScalarsSection "Anahtarlı Skalerler">
+<!ENTITY aboutTelemetry.histogramsSection "Histogramlar">
+<!ENTITY aboutTelemetry.keyedHistogramsSection "Anahtarlı Histogramlar">
+<!ENTITY aboutTelemetry.eventsSection "Olaylar">
+<!ENTITY aboutTelemetry.simpleMeasurementsSection "Basit Ölçümler">
+<!ENTITY aboutTelemetry.slowSqlSection "Yavaş SQL İfadeleri">
 <!ENTITY aboutTelemetry.addonDetailsSection "Eklenti Ayrıntıları">
-<!ENTITY aboutTelemetry.capturedStacksSection "
-  Yakalanan Yığınlar">
-<!ENTITY aboutTelemetry.lateWritesSection "   Geç Yazmalar ">
-<!ENTITY aboutTelemetry.rawPayloadSection "
-Ham yük
-">
+<!ENTITY aboutTelemetry.capturedStacksSection "Yakalanan Yığınlar">
+<!ENTITY aboutTelemetry.lateWritesSection "Geç Yazmalar">
+<!ENTITY aboutTelemetry.rawPayloadSection "Ham yük">
 <!ENTITY aboutTelemetry.raw "Ham JSON">
 
-<!ENTITY aboutTelemetry.fullSqlWarning "   NOT: Yavaş SQL hata ayıklaması etkin durumda. Tam SQL dizgileri aşağıdaki gösterilebilir ama Telemetri'ye gönderilmezler. ">
+<!ENTITY aboutTelemetry.fullSqlWarning "NOT: Yavaş SQL hata ayıklaması etkin durumda. Tam SQL dizgileri aşağıdaki gösterilebilir ama Telemetri’ye gönderilmezler.">
 <!ENTITY aboutTelemetry.fetchStackSymbols "Yığınların fonksiyon adlarını topla">
-<!ENTITY aboutTelemetry.hideStackSymbols "
-  Ham yığın verilerini göster">
+<!ENTITY aboutTelemetry.hideStackSymbols "Ham yığın verilerini göster">

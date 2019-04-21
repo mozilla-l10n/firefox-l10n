@@ -9,6 +9,7 @@ profiles-restart-title = Yeniden başlat
 profiles-restart-in-safe-mode = Eklentileri devre dışı bırakıp yeniden başlat…
 profiles-restart-normal = Normal şekilde yeniden başlat…
 profiles-flush-fail-title = Değişiklikler kaydedilmedi
+profiles-flush-restart-button = { -brand-short-name } tarayıcısını yeniden başlat
 # Variables:
 #   $name (String) - Name of the profile
 profiles-name = Profil: { $name }
