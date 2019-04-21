@@ -18,8 +18,8 @@
 <!ENTITY password.text                   "Nepovinné, pouze pro ověření uživatelského jména">
 <!ENTITY rememberPassword.label          "Pamatovat si heslo">
 <!ENTITY rememberPassword.accesskey      "P">
-
 <!ENTITY usernameEx.label                "Vaše přihlašovací jméno:">
+<!ENTITY usernameEx.accesskey            "J">
 <!-- LOCALIZATION NOTE(usernameEx.placeholder): YOURDOMAIN refers to the Windows domain in ActiveDirectory. yourusername refers to the user's account name in Windows. -->
 <!ENTITY usernameEx.placeholder          "VAŠEDOMÉNA\vašeuživatelskéjméno">
 <!-- LOCALIZATION NOTE(usernameEx.text): Domain refers to the Windows domain in ActiveDirectory. We mean the user's login in Windows at the local corporate network. -->
