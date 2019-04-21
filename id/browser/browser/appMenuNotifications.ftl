@@ -29,6 +29,9 @@ appmenu-addon-private-browsing-installed =
     .buttonlabel = Oke, paham
     .buttonaccesskey = O
 appmenu-addon-post-install-message = Kelola pengaya Anda dengan mengeklik <image data-l10n-name='addon-install-icon'></image>di<image data-l10n-name='addon-menu-icon'></image> menu.
+appmenu-addon-post-install-incognito-checkbox =
+    .label = Izinkan ekstensi ini untuk berjalan di Jendela Pribadi
+    .accesskey = I
 appmenu-addon-private-browsing =
     .label = Ubah ke ekstensi pada Jendela Pribadi
     .buttonlabel = Kelola Ekstensi
