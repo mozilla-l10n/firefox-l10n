@@ -206,7 +206,7 @@ cert-viewer-title =
 not-present =
     .value = <Não faz parte do certificado>
 # Cert verification
-cert-verified = Este certificado foi verificado para estes usos:
+cert-verified = Este certificado foi homologado para os seguintes usos:
 # Add usage
 verify-ssl-client =
     .value = Certificado SSL do cliente
