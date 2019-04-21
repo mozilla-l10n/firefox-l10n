@@ -3,30 +3,30 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY messengerStartPage.label         "&brandShortName; startside">
-<!ENTITY enableStartPage.label "Vis startsiden i meddelelsesområdet, når &brandShortName; starter">
-<!ENTITY enableStartPage.accesskey "V">
-<!ENTITY location.label "Startside:">
+<!ENTITY enableStartPage.label            "Vis startsiden i meddelelsesområdet, når &brandShortName; starter">
+<!ENTITY enableStartPage.accesskey        "V">
+<!ENTITY location.label                   "Startside:">
 <!ENTITY location1.accesskey               "S">
-<!ENTITY useDefault.label "Gendan standard">
-<!ENTITY useDefault.accesskey "G">
+<!ENTITY useDefault.label                 "Gendan standard">
+<!ENTITY useDefault.accesskey             "G">
 
 <!ENTITY changeDockIconOptions.label      "Skift indstillinger for app-ikon">
 <!ENTITY dockOptions.label                "Indstillinger for app-ikon…">
 <!ENTITY dockOptions.accesskey            "I">
 
-<!ENTITY newMessagesArrive.label "Når der kommer nye meddelelser:">
-<!ENTITY playSound.label "Afspil en lyd">
-<!ENTITY playSound1.accesskey              "d">
+<!ENTITY newMessagesArrive.label          "Når der kommer nye meddelelser:">
+<!ENTITY playSound.label                  "Afspil en lyd">
+<!ENTITY playSound1.accesskey             "d">
 <!ENTITY playSoundMac.label               "Afspil den følgende lydfil:">
 <!ENTITY playSoundMac.accesskey           "n">
-<!ENTITY showAnimatedAlert.label "Vis en pop op-meddelelse">
-<!ENTITY showAnimatedAlert.accesskey "p">
+<!ENTITY showAnimatedAlert.label          "Vis en pop op-meddelelse">
+<!ENTITY showAnimatedAlert.accesskey      "p">
 <!ENTITY notificationAlertSettings2.label "Meddelelser og standardlyden kan deaktiveres på meddelelsessiden i systemindstillingerne.">
 <!ENTITY customizeMailAlert.label         "Tilpas…">
 <!ENTITY customizeMailAlert.accesskey     "T">
 
 <!ENTITY showTrayIcon.label               "Vis ikon i systembakken">
-<!ENTITY showTrayIcon.accesskey           "V">
+<!ENTITY showTrayIcon.accesskey           "k">
 
 <!ENTITY play.label                       "Afspil">
 <!ENTITY play.accesskey                   "A">

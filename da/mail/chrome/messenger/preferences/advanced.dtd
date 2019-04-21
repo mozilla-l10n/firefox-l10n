@@ -71,7 +71,7 @@
 <!ENTITY updateAuto.label                "Installere opdateringer automatisk (anbefalet, forbedrer sikkerheden)">
 <!ENTITY updateAuto.accesskey            "I">
 <!ENTITY updateCheck.label               "Søge efter opdateringer, men lade mig vælge om de skal installeres">
-<!ENTITY updateCheck.accesskey           "S">
+<!ENTITY updateCheck.accesskey           "ø">
 <!ENTITY updateHistory.label             "Vis opdateringshistorik">
 <!ENTITY updateHistory.accesskey         "V">
 
