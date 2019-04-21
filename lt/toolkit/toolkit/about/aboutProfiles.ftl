@@ -8,6 +8,11 @@ profiles-create = Kurti naują profilį
 profiles-restart-title = Perleisti
 profiles-restart-in-safe-mode = Perleisti išjungus priedus…
 profiles-restart-normal = Perleisti įprastai…
+profiles-conflict = Kita „{ -brand-product-name }“ kopija atliko pakeitimus profiliams. Turite paleisti „{ -brand-short-name }“ iš naujo, kad atliktumėte daugiau pakeitimų.
+profiles-flush-fail-title = Pakeitimai neįrašyti
+profiles-flush-conflict = { profiles-conflict }
+profiles-flush-failed = Netikėta klaida neleido įrašyti jūsų pakeitimų.
+profiles-flush-restart-button = Perleisti „{ -brand-short-name }“
 # Variables:
 #   $name (String) - Name of the profile
 profiles-name = Profilis: { $name }
