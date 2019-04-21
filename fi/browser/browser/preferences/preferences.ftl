@@ -678,12 +678,17 @@ content-blocking-strict-desc = Estää kaikki { -brand-short-name }in havaitsema
 content-blocking-custom-desc = Valitse, mitä estetään.
 content-blocking-private-trackers = Tunnetut seuraimet vain yksityisissä ikkunoissa
 content-blocking-third-party-cookies = Kolmannen osapuolen seurainevästeet
+content-blocking-all-cookies = Kaikki evästeet
 content-blocking-all-windows-trackers = Tunnetut seuraimet kaikissa ikkunoissa
 content-blocking-all-third-party-cookies = Kaikki kolmannen osapuolen evästeet
 content-blocking-warning-title = Huomio!
 content-blocking-warning-desc = Evästeiden ja seuraimien estäminen voi aiheuttaa joidenkin sivustojen toimimattomuutta. Esto on helppo poistaa sivustoilta, joihin luotat.
 content-blocking-warning-description = Sisällön estäminen voi aiheuttaa joidenkin sivustojen rikkoutumisen. Voit helposti poistaa eston luottamiltasi sivustoilta.
 content-blocking-learn-how = Lue miten
+content-blocking-reload-description = Kaikki välilehdet tarvitsee päivittää, jotta muutokset tulevat voimaan.
+content-blocking-reload-tabs-button =
+    .label = Päivitä kaikki välilehdet
+    .accesskey = P
 content-blocking-trackers-label =
     .label = Seuraimet
     .accesskey = S
@@ -697,6 +702,8 @@ content-blocking-tracking-protection-change-block-list = Muuta estolistaa
 content-blocking-cookies-label =
     .label = Evästeet
     .accesskey = E
+content-blocking-expand-section =
+    .tooltiptext = Lisätietoja
 
 ## Privacy Section - Tracking
 
