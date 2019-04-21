@@ -31,4 +31,4 @@
 <!ENTITY  dnsOverHttpsUrlDefault.label     "ใช้ค่าเริ่มต้น">
 <!ENTITY  dnsOverHttpsUrlDefault.tooltip   "ใช้ URL เริ่มต้นสำหรับการแปลงที่อยู่ DNS ผ่าน HTTPS">
 <!ENTITY  dnsOverHttpsUrlCustom.label      "กำหนดเอง">
-<!ENTITY  dnsOverHttpsUrlCustom.tooltip    "ป้อน URL ที่ต้องการสำหรับการแปลงที่อยู่ DNS ผ่าน HTTPS">
+<!ENTITY  dnsOverHttpsUrlCustom.tooltip    "ป้อน URL ที่คุณต้องการสำหรับแปลงที่อยู่ DNS ผ่าน HTTPS">
