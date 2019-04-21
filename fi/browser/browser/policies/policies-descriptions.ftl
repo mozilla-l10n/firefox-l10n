@@ -68,6 +68,7 @@ policy-RequestedLocales = Aseta pyydetyt sovelluksen kielet suosituimmuusjärjes
 policy-SanitizeOnShutdown = Poista kaikki selailutiedot suljettaessa selain.
 policy-SearchBar = Aseta hakupalkin oletussijainti. Käyttäjä voi silti vaihtaa sitä.
 policy-SearchEngines = Aseta hakukoneasetukset. Tämä käytäntö on käytettävissä vain Extended Support Release (ESR) -versiossa.
+policy-SearchSuggestEnabled = Ota käyttöön tai poista käytöstä hakuehdotukset.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Asenna PKCS #11 -moduulit.
 policy-SSLVersionMax = Aseta SSL:n enimmäisversio.

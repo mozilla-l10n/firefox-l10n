@@ -5,5 +5,6 @@
 restart-required-title = Uudelleenkäynnistys vaaditaan
 restart-required-header = Pahoittelut. Pitää tehdä vielä yksi pieni juttu, että päästään jatkamaan.
 restart-required-intro = Asensimme juuri päivityksen taustalla. Viimeistele päivityksen asennus napsauttamalla Käynnistä { -brand-short-name } uudelleen.
+restart-required-intro-brand = { -brand-short-name } on päivitetty taustalla. Napsauta ”Käynnistä { -brand-short-name } uudelleen” viimeistelläksesi päivityksen.
 restart-required-description = Palautamme kaikki sivut, ikkunat ja välilehdet, jotta voit jatkaa siitä mihin jäit.
 restart-button-label = Käynnistä { -brand-short-name } uudelleen

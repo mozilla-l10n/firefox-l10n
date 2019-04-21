@@ -3,12 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 cfr-doorhanger-extension-heading = Suositeltu laajennus
+cfr-doorhanger-pintab-heading = Kokeile tätä: Kiinnitä välilehti
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Miksi näen tämän
 cfr-doorhanger-extension-cancel-button = Ei nyt
     .accesskey = E
 cfr-doorhanger-extension-ok-button = Lisää nyt
     .accesskey = L
+cfr-doorhanger-pintab-ok-button = Kiinnitä tämä välilehti
+    .accesskey = ä
 cfr-doorhanger-extension-manage-settings-button = Hallitse suositteluasetuksia
     .accesskey = H
 cfr-doorhanger-extension-never-show-recommendation = Älä näytä tätä suositusta minulle
@@ -41,3 +44,12 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } käyttäjä
        *[other] { $total } käyttäjää
     }
+cfr-doorhanger-pintab-description = Nopea pääsy suosikkisivustoillesi. Pidä sivustot avoinna välilehdissä jopa uudelleenkäynnistysten välillä.
+
+## These messages are steps on how to use the feature and are shown together.
+
+cfr-doorhanger-pintab-step1 = <b>Napsauta hiiren oikealla</b> välilehteä, jonka haluat kiinnittää.
+cfr-doorhanger-pintab-step2 = Valitse <b>Kiinnitä välilehti</b> valikosta.
+cfr-doorhanger-pintab-step3 = Jos sivustolla on tapahtunut päivitys, näet sinisen pisteen kiinnitetyssä välilehdessä.
+cfr-doorhanger-pintab-animation-pause = Tauko
+cfr-doorhanger-pintab-animation-resume = Jatka
