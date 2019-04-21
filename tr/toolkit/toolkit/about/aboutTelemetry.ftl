@@ -56,6 +56,16 @@ about-telemetry-upload-type =
         [enabled] açık
        *[disabled] kapalı
     }
+# Example Output: 1 sample, average = 0, sum = 0
+# Variables:
+#   $sampleCount (Integer): amount of histogram samples
+#   $prettyAverage (Integer): average of histogram samples
+#   $sum (Integer): sum of histogram samples
+about-telemetry-histogram-stats =
+    { $sampleCount ->
+        [one] { $sampleCount } örnek, ortalama = { $prettyAverage }, toplam = { $sum }
+       *[other] { $sampleCount } örnek, ortalama = { $prettyAverage }, toplam = { $sum }
+    }
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = Bu sayfa; Telemetri tarafından toplanan performans, donanım, kullanım ve özelleştirme bilgilerini gösterir. Bu bilgiler { -brand-full-name } tarayıcısının gelişimine yardımcı olmaları için { $telemetryServerOwner } sunucularına gönderilir.

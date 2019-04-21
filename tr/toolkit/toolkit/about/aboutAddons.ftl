@@ -277,3 +277,11 @@ addon-detail-rating-label = Puan
 # Variables:
 #   $name (string) - The name of the add-on
 addon-name-disabled = { $name } (devre dışı)
+# The number of reviews that an add-on has received on AMO.
+# Variables:
+#   $numberOfReviews (number) - The number of reviews received
+addon-detail-reviews-link =
+    { $numberOfReviews ->
+        [one] { $numberOfReviews } inceleme
+       *[other] { $numberOfReviews } inceleme
+    }
