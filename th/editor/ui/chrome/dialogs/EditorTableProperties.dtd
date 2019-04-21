@@ -68,7 +68,7 @@
 <!-- Used in both Table and Cell panels  -->
 <!ENTITY size.label                       "ขนาด">
 <!ENTITY pixels.label                     "พิกเซล">
-<!ENTITY backgroundColor.label            "สีของพื้นหลัง:">
+<!ENTITY backgroundColor.label            "สีพื้นหลัง:">
 <!ENTITY backgroundColor.accessKey        "พ">
 <!ENTITY AlignLeft.label                  "ซ้าย">
 <!ENTITY AlignCenter.label                "กึ่งกลาง">

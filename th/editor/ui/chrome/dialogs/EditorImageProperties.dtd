@@ -69,7 +69,7 @@
 <!ENTITY showImageLinkBorder.accessKey "แ">
 <!ENTITY LinkAdvancedEditButton.label "เชื่อมโยงการแก้ไขขั้นสูง…">
 <!ENTITY LinkAdvancedEditButton.accessKey "ช">
-<!ENTITY LinkAdvancedEditButton.tooltip "เพิ่มหรือเปลี่ยนแปลงแอตทริบิวต์ HTML แอตทริบิวต์สไตล์ และ JavaScript">
+<!ENTITY LinkAdvancedEditButton.tooltip "เพิ่มหรือเปลี่ยนแปลงแอตทริบิวต์ HTML, แอตทริบิวต์ลักษณะ และ JavaScript">
 
 <!-- These tabs are currently used in the image input dialog -->
 <!ENTITY imageInputTab.label "แบบฟอร์ม">

@@ -4,7 +4,7 @@
 
 <!ENTITY AdvancedEditButton.label "การแก้ไขขั้นสูง…">
 <!ENTITY AdvancedEditButton.accessKey "ก">
-<!ENTITY AdvancedEditButton.tooltip "เพิ่มหรือแก้ไขแอตทริบิวต์ HTML แอตทริบิวต์ของสไตล์ และ JavaScript">
+<!ENTITY AdvancedEditButton.tooltip "เพิ่มหรือเปลี่ยนแปลงแอตทริบิวต์ HTML, แอตทริบิวต์ลักษณะ และ JavaScript">
 <!ENTITY chooseFileButton.label "เลือกไฟล์...">
 <!ENTITY chooseFileButton.accessKey "ล">
 <!ENTITY chooseFileLinkButton.label "เลือกไฟล์...">
