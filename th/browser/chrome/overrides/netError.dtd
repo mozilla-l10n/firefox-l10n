@@ -38,7 +38,7 @@
 <!ENTITY fileNotFound.longDesc "<ul> <li>ตรวจสอบชื่อไฟล์สำหรับตัวพิมพ์ใหญ่เล็กหรือข้อผิดพลาดการพิมพ์อื่น ๆ</li> <li>ตรวจสอบเพื่อดูหากไฟล์ถูกย้าย เปลี่ยนชื่อ หรือลบ</li> </ul>">
 
 <!ENTITY fileAccessDenied.title "การเข้าถึงไฟล์ถูกปฏิเสธ">
-<!ENTITY fileAccessDenied.longDesc "<ul> <li>ไฟล์อาจถูกเอาออก ย้าย หรือการอนุญาตของไฟล์อาจป้องกันการเข้าถึง</li> </ul>">
+<!ENTITY fileAccessDenied.longDesc "<ul> <li>ไฟล์อาจถูกเอาออก ย้าย หรือสิทธิอนุญาตของไฟล์อาจป้องกันการเข้าถึง</li> </ul>">
 
 <!ENTITY generic.title "อุปส์">
 <!ENTITY generic.longDesc "<p>&brandShortName; ไม่สามารถโหลดหน้านี้ได้ด้วยเหตุผลบางอย่าง</p>">
@@ -94,12 +94,16 @@
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>ไม่สามารถแสดงหน้าที่คุณกำลังพยายามจะดูเนื่องจากไม่สามารถยืนยันความถูกต้องของข้อมูลที่ได้รับ</li> <li>โปรดติดต่อเจ้าของเว็บไซต์เพื่อแจ้งพวกเขาให้ทราบถึงปัญหานี้</li> </ul>">
 
 <!ENTITY certerror.longpagetitle1 "การเชื่อมต่อของคุณไม่ปลอดภัย">
+
 <!ENTITY certerror.longpagetitle2 "คำเตือน: ความเสี่ยงด้านความปลอดภัยที่อาจเกิดขึ้นข้างหน้า">
 <!ENTITY certerror.sts.longpagetitle  "ไม่ได้เชื่อมต่อ: ปัญหาความปลอดภัยที่อาจเกิดขึ้น">
 <!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "เจ้าของ <span class='hostname'/> ได้กำหนดค่าเว็บไซต์ของพวกเขาไม่เหมาะสม  เพื่อปกป้องข้อมูลของคุณจากการถูกขโมย &brandShortName; จึงไม่ได้เชื่อมต่อไปยังเว็บไซต์นี้">
+<!-- Localization note (certerror.introPara2) - The text content of the span tag
+will be replaced at runtime with the name of the server to which the user
+was trying to connect. -->
 <!ENTITY certerror.introPara2 "&brandShortName; ตรวจพบภัยคุกคามด้านความปลอดภัยที่อาจเกิดขึ้นและไม่ได้ดำเนินการต่อไปยัง <span class='hostname'/> ถ้าคุณเยี่ยมชมไซต์นี้ ผู้โจมตีอาจพยายามล้วงข้อมูล เช่น รหัสผ่าน อีเมล หรือรายละเอียดบัตรเครดิตของคุณ">
 <!ENTITY certerror.sts.introPara "&brandShortName; ตรวจพบภัยคุกคามด้านความปลอดภัยที่อาจเกิดขึ้นและไม่ได้ดำเนินการต่อไปยัง <span class='hostname'/> เนื่องจากเว็บไซต์นี้ต้องการการเชื่อมต่อที่ปลอดภัย">
 
@@ -133,6 +137,7 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "เพิ่มข้อยกเว้น…">
+
 <!ENTITY securityOverride.exceptionButton1Label "ยอมรับความเสี่ยงและดำเนินการต่อ">
 
 <!ENTITY errorReporting.automatic2 "รายงานข้อผิดพลาดเช่นนี้เพื่อช่วย Mozilla ระบุและปิดกั้นไซต์ที่ประสงค์ร้าย">
@@ -153,6 +158,7 @@ was trying to connect. -->
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; ไม่ได้เชื่อมต่อไปที่ <span id='wrongSystemTimeWithoutReference_URL'/> เนื่องจากนาฬิกาคอมพิวเตอร์ของคุณแสดงเวลาผิดและสิ่งนี้เป็นการยับยั้งการเชื่อมต่อที่ปลอดภัย</p> <p>คอมพิวเตอร์ของคุณได้มีการตั้งค่าเวลาเป็น <span id='wrongSystemTimeWithoutReference_systemDate'/> ในการแก้ไขปัญหานี้ ให้เปลี่ยนการตั้งค่าวันที่และเวลาในเครื่องของคุณให้ตรงกับความเป็นจริง</p>">
 
 <!ENTITY certerror.pagetitle1  "การเชื่อมต่อไม่ปลอดภัย">
+
 <!ENTITY certerror.pagetitle2  "คำเตือน: ความเสี่ยงด้านความปลอดภัยที่อาจเกิดขึ้นข้างหน้า">
 <!ENTITY certerror.sts.pagetitle  "ไม่ได้เชื่อมต่อ: ปัญหาความปลอดภัยที่อาจเกิดขึ้น">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "ไซต์นี้ใช้ HTTP Strict Transport Security (HSTS) เพื่อระบุให้ &brandShortName; เชื่อมต่อไปยังไซต์อย่างปลอดภัยเท่านั้น ผลที่ตามมาคือไม่สามารถเพิ่มข้อยกเว้นสำหรับใบรับรองนี้ได้">
