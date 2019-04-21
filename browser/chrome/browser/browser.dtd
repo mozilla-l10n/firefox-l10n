@@ -133,6 +133,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.commandkey "p">
 
 <!ENTITY importFromAnotherBrowserCmd.label "Tuo toisesta selaimesta…">
+<!ENTITY importFromAnotherBrowserCmd.accesskey "T">
 
 <!ENTITY taskManagerCmd.label "Tehtävienhallinta">
 
@@ -220,6 +221,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      for the Firefox Account toolbar signin menu screen. -->
 <!ENTITY fxa.signin.callout.label "Ota Firefox mukaasi">
 <!ENTITY fxa.signin.description.label "Kirjanmerkkisi, selaushistoriasi, salasanasi ja muut asetukset kaikilla laitteillasi.">
+<!ENTITY fxa.signin.button.label "Ota &syncBrand.shortName.label; käyttöön…">
 
 <!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
      for the Firefox Account toolbar unverified menu screen. -->
@@ -234,6 +236,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label;-asetukset…">
 <!ENTITY fxa.menu.connectAnotherDevice.label "&syncedTabs.sidebar.connectAnotherDevice;">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Yhdistä toiseen laitteeseen…">
+<!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -1161,6 +1164,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Voit hallita lisäosia avaamalla <image class='addon-toolbar-icon'/>-valikon ja napsauttamalla <image class='addon-addon-icon'/>-kuvaketta.">
 <!ENTITY addonPostInstall.incognito.checkbox.label "Salli tämän laajennuksen toiminta yksityisissä ikkunoissa">
+<!ENTITY addonPostInstall.incognito.checkbox.accesskey "S">
 
 <!ENTITY addonPrivateBrowsing.body2.label "Yksikään &brandShorterName;iin lisäämäsi uusi laajennus ei toimi yksityisissä ikkunoissa, ellet salli toimintaa asetuksista.">
 <!ENTITY addonPrivateBrowsing.learnMore.label "Lue lisää kuinka hallita laajennusten asetuksia.">
