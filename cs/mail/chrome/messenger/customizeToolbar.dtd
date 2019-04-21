@@ -13,5 +13,6 @@
 <!ENTITY useSmallIcons.label      "Použít malé ikony">
 <!ENTITY restoreDefaultSet.label  "Obnovit výchozí sadu">
 <!ENTITY addNewToolbar.label      "Přidat novou lištu">
+<!ENTITY showTitlebar.label       "Zobrazit záhlaví okna">
 <!ENTITY saveChanges.label        "Hotovo">
 <!ENTITY undoChanges.label        "Zrušit změny">
