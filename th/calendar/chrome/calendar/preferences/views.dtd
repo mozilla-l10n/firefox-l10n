@@ -19,6 +19,10 @@
 <!ENTITY pref.calendar.view.visiblehours.label "แสดง:">
 <!ENTITY pref.calendar.view.visiblehours.accesskey "ส">
 
+<!ENTITY pref.numberofweeks.label "จำนวนสัปดาห์ที่จะแสดง (รวมถึงสัปดาห์ก่อนหน้า):">
+<!ENTITY pref.numberofweeks.accesskey "จ">
+<!ENTITY pref.numberofpreviousweeks.label "สัปดาห์ก่อนหน้าที่จะแสดง:">
+<!ENTITY pref.numberofpreviousweeks.accesskey "ส">
 <!ENTITY pref.numberofweeks.0 "ไม่มี">
 <!ENTITY pref.numberofweeks.1 "1 สัปดาห์">
 <!ENTITY pref.numberofweeks.2 "2 สัปดาห์">
