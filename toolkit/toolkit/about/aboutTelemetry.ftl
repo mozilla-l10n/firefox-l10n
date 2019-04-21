@@ -22,22 +22,22 @@ about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">Telemet
 about-telemetry-telemetry-probe-dictionary = <a data-l10n-name="probe-dictionary-link">Sonda sözlüğü</a> Telemetri’nin topladığı sondalarla ilgili ayrıntıları ve açıklamaları içerir.
 about-telemetry-show-in-Firefox-json-viewer = JSON görüntüleyicide aç
 about-telemetry-home-section = Ana Sayfa
-about-telemetry-general-data-section =   Genel Veriler
+about-telemetry-general-data-section = Genel Veriler
 about-telemetry-environment-data-section = Ortam Verileri
-about-telemetry-session-info-section =    Oturum Bilgisi
+about-telemetry-session-info-section = Oturum Bilgisi
 about-telemetry-scalar-section = Değişkenler
 about-telemetry-keyed-scalar-section = Anahtarlı Skalerler
-about-telemetry-histograms-section =    Histogramlar 
-about-telemetry-keyed-histogram-section =   Anahtarlı Histogramlar
+about-telemetry-histograms-section = Histogramlar
+about-telemetry-keyed-histogram-section = Anahtarlı Histogramlar
 about-telemetry-events-section = Olaylar
-about-telemetry-simple-measurements-section =    Basit Ölçümler 
-about-telemetry-slow-sql-section =    Yavaş SQL Deyimleri 
+about-telemetry-simple-measurements-section = Basit Ölçümler
+about-telemetry-slow-sql-section = Yavaş SQL Deyimleri
 about-telemetry-addon-details-section = Eklenti Ayrıntıları
 about-telemetry-captured-stacks-section = Yakalanan Yığınlar
-about-telemetry-late-writes-section =    Geç Yazmalar 
+about-telemetry-late-writes-section = Geç Yazmalar
 about-telemetry-raw-payload-section = Ham yük
 about-telemetry-raw = Ham JSON
-about-telemetry-full-sql-warning =    NOT: Yavaş SQL hata ayıklaması etkin durumda. Tam SQL dizgileri aşağıdaki gösterilebilir ama Telemetri'ye gönderilmezler. 
+about-telemetry-full-sql-warning = NOT: Yavaş SQL hata ayıklaması etkin durumda. Tam SQL dizgileri aşağıdaki gösterilebilir ama Telemetri'ye gönderilmezler.
 about-telemetry-fetch-stack-symbols = Yığınların fonksiyon adlarını topla
 about-telemetry-hide-stack-symbols = Ham yığın verilerini göster
 # Selects the correct release version
@@ -69,7 +69,7 @@ about-telemetry-histogram-stats =
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = Bu sayfa; Telemetri tarafından toplanan performans, donanım, kullanım ve özelleştirme bilgilerini gösterir. Bu bilgiler { -brand-full-name } tarayıcısının gelişimine yardımcı olmaları için { $telemetryServerOwner } sunucularına gönderilir.
-about-telemetry-settings-explanation = Telemetry { about-telemetry-data-type } topluyor ve veri gönderimi <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a>.
+about-telemetry-settings-explanation = Telemetri { about-telemetry-data-type } topluyor ve veri gönderimi <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a>.
 # Variables:
 #   $name (String): ping name, e.g. “saved-session”
 #   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
@@ -135,4 +135,9 @@ about-telemetry-category-header = kategori
 about-telemetry-method-header = yöntem
 about-telemetry-object-header = nesne
 about-telemetry-extra-header = ekstra
+about-telemetry-origin-section = Köken Telemetrisi
+about-telemetry-origin-origin = köken
 about-telemetry-origin-count = sayaç
+# Variables:
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link">Firefox Köken Telemetrisi</a> verileri göndermeden öne şifreler. Böylece { $telemetryServerOwner } bazı şeyleri sayabilir ama hangi { -brand-product-name } tarayıcılarının bu sayıma dahil olduğunu bilemez. (<a data-l10n-name="prio-blog-link">Daha fazla bilgi alın</a>)
