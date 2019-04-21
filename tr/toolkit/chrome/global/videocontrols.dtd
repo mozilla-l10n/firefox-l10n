@@ -16,7 +16,7 @@
 
 <!-- LOCALIZATION NOTE (pictureInPicture.label): This string is used as part of
 the Picture-in-Picture video toggle button when the mouse is hovering it. -->
-<!ENTITY pictureInPicture.label "Resim içinde resim">
+<!ENTITY pictureInPicture.label "Görüntü içinde görüntü">
 
 <!ENTITY stats.media "Ortam">
 <!ENTITY stats.size "Boyut">
