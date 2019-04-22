@@ -125,3 +125,5 @@ about-telemetry-category-header = ruwäch
 about-telemetry-method-header = b'eyal
 about-telemetry-object-header = wachinäq
 about-telemetry-extra-header = rutz'aqat
+about-telemetry-origin-origin = ruxe'el
+about-telemetry-origin-count = tajiläx

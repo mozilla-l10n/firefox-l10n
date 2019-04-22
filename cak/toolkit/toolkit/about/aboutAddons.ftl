@@ -91,6 +91,9 @@ detail-update-manual =
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Kesamajïx pa Ichinan Tzuwäch
 detail-private-browsing-description2 = Toq xtiya' q'ij, ri k'amal xtok pa ri asamaj pa k'amab'ey toq yatok pa ichinan okem. <label data-l10n-name="detail-private-browsing-learn-more">Tawetamaj ch'aqa' chik</label>
+# Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
+# cannot be overriden by the user.
+detail-private-disallowed-label = Man ya'on ta q'ij pan Ichinan Tzuwäch
 detail-private-browsing-on =
     .label = Tiya' q'ij
     .tooltiptext = Titz'ij pa Ichinan Okem pa K'amaya'l
@@ -258,3 +261,8 @@ enable-addon-button = Titzij
 expand-addon-button = Ch'aqa' chik taq Cha'oj
 addons-enabled-heading = Tzijon
 addons-disabled-heading = Chupun
+addon-detail-author-label = B'anel
+addon-detail-version-label = Ruwäch
+addon-detail-last-updated-label = Ruk'isib'äl K'exoj
+addon-detail-homepage-label = Ruxaq tikirib'äl
+addon-detail-rating-label = Kejqalem

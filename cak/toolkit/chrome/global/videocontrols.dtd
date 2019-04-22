@@ -10,10 +10,13 @@
 <!ENTITY fullscreenButton.exitfullscreenlabel "Tel pa chijun ruwa kematz'ib'">
 <!ENTITY castingButton.castingLabel "Titaq el pa ruwäch">
 <!ENTITY closedCaption.off "Chupül">
-
 <!-- LOCALIZATION NOTE (volumeScrubber.label): This label is exposed to
      accessibility software to clarify what the slider is for. -->
 <!ENTITY volumeScrubber.label "Pajonel ch'ab'äl">
+
+<!-- LOCALIZATION NOTE (pictureInPicture.label): This string is used as part of
+the Picture-in-Picture video toggle button when the mouse is hovering it. -->
+<!ENTITY pictureInPicture.label "Picture-in-Picture">
 
 <!ENTITY stats.media "K'ïy k'oxom">
 <!ENTITY stats.size "Nimilem">
@@ -34,6 +37,7 @@
 <!ENTITY error.srcNotSupported "Ri rub'anikil o ruwäch">
 <!ENTITY error.noSource2 "Majun silowachib'äl xelitäj, ri nikixïm ki' pa MIME rub'anikil chuqa' ruwäch.">
 <!ENTITY error.generic "Xpa'e' ri rutzijik silowachib'äl ruma jun sachoj ri man etaman ta.">
+
 
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
