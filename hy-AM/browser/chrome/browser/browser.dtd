@@ -21,12 +21,16 @@
 <!-- Tab context menu -->
 <!ENTITY  reloadTab.label                    "Կրկին բեռնել ներդիրը">
 <!ENTITY  reloadTab.accesskey                "Կ">
-<!ENTITY  reloadAllTabs.label                "Կրկին բեռնել բոլոր ներդիրները">
-<!ENTITY  reloadAllTabs.accesskey            "բ">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
 <!ENTITY  duplicateTab.label                 "Կրկնօրինակել ներդիրը">
+<!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
+These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  duplicateTab.accesskey             "D">
+<!-- LOCALIZATION NOTE (duplicateTabs.label): This is a command to duplicate
+a tab (i.e. it is a verb, not adjective). -->
+<!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
+These items have the same accesskey but will never be visible at the same time. -->
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -35,7 +39,6 @@ left instead of right. -->
 <!ENTITY  closeOtherTabs.label               "Փակել մյուս ներդիրները">
 <!ENTITY  closeOtherTabs.accesskey           "կ">
 
-
 <!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
@@ -43,12 +46,12 @@ same accesskey but will never be visible at the same time. -->
 <!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
-<!-- Reload Tab and Reload Selected Tabs have the same accesskey
-but will never be visible at the same time. -->
 <!-- LOCALIZATION NOTE(reloadTab.label, reloadTabs.label): have the same accesskey
 but will never be visible at the same time. -->
 <!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
+
+<!-- Tab context menu -->
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -65,8 +68,6 @@ same accesskey but will never be visible at the same time. -->
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinTab.accesskey                 "դ">
-<!ENTITY  sendTabToDevice.label              "Ուղարկել ներդիրը սարքին">
-<!ENTITY  sendTabToDevice.accesskey          "ս">
 <!ENTITY  sendPageToDevice.label             "Ուղարկել էջը սարքին">
 <!ENTITY  sendPageToDevice.accesskey         "ս">
 <!ENTITY  sendLinkToDevice.label             "Ուղարկել հղումը սարքին">
@@ -75,8 +76,6 @@ same accesskey but will never be visible at the same time. -->
 These two items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  moveToNewWindow.label              "Տեղափոխել Նոր Պատուհան">
 <!ENTITY  moveToNewWindow.accesskey          "Պ">
-<!ENTITY  bookmarkAllTabs.label              "Էջանշել բոլոր ներդիրները...">
-<!ENTITY  bookmarkAllTabs.accesskey          "ն">
 <!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  undoCloseTab.label                 "Հետարկել փակված ներդիրը">
@@ -86,6 +85,8 @@ These items have the same accesskey but will never be visible at the same time. 
 <!ENTITY  hiddenTabs.label                   "Թաքնված ներդիրներ">
 
 <!ENTITY  listAllTabs.label      "Ցուցադրել բոլոր էջերը">
+<!-- LOCALIZATION NOTE (allTabsMenu.searchTabs.label): "Search" is a verb, as
+in "Search through tabs". -->
 
 <!ENTITY tabCmd.label "Նոր Ներդիր">
 <!ENTITY tabCmd.accesskey "Ն">
@@ -106,6 +107,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.commandkey "p">
 
 
+
 <!ENTITY goOfflineCmd.label "Աշխատել անցանց ">
 <!ENTITY goOfflineCmd.accesskey "տ">
 
@@ -115,11 +117,6 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.label "Էջանիշերի Վահանակ">
 <!ENTITY personalbarCmd.accesskey "Է">
 <!ENTITY bookmarksToolbarItem.label "Էջանիշերի Վահանակի տարրերը">
-
-<!ENTITY toolbarContextMenu.reloadAllTabs.label "Կրկին բեռնել բոլոր ներդիրները">
-<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "բ">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Էջանշել բոլոր ներդիրները...">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "ն">
 
 <!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
 toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
@@ -181,6 +178,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenExit.label "Դուրս գալ Լիաէկրան վիճակից">
 <!ENTITY fullScreenExit.accesskey "Լ">
 
+ <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
+     for the Firefox Account toolbar signin menu screen. -->
+
+<!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
+     for the Firefox Account toolbar unverified menu screen. -->
+
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbart menu screen. The `Signed in as` text is
+     followed by the user's email. -->
+
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring fullscreen.
@@ -197,6 +204,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY exitDOMFullscreenMac.button "Դուրս գալ Լիաէկրանից (esc)">
 <!ENTITY leaveDOMFullScreen.label "Դուրս գալ Լիաէկրան վիճակից">
 <!ENTITY leaveDOMFullScreen.accesskey "Լ">
+
+<!-- LOCALIZATION NOTE (pictureInPicture.label, pictureInPicture.accesskey):
+     these two strings are used when right-clicking on a video in the
+     content area when the Picture-in-Picture feature is enabled. -->
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
@@ -215,9 +226,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "Էջանշել Այս Էջը">
 <!ENTITY editThisBookmarkCmd.label "Խմբագրել այս էջանիշը">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-
-<!ENTITY subscribeToPageMenupopup.label "Բաժանորդագրվել այս էջին">
-<!ENTITY subscribeToPageMenuitem.label "Բաժանորդագրվել Այս Էջին…">
 
 <!ENTITY addCurPagesCmd.label "Էջանշել Բոլոր Ներդիրները…">
 <!ENTITY showAllBookmarks2.label "Ցուցադրել բոլոր էջանիշերը">
@@ -330,7 +338,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Վեբ ծրագրավորող">
 <!ENTITY webDeveloperMenu.accesskey   "Վ">
 
-
 <!ENTITY inspectContextMenu.label     "Զննել տարրը">
 <!ENTITY inspectContextMenu.accesskey "Q">
 
@@ -373,6 +380,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmd2.accesskey     "Կ">
 <!ENTITY preferencesCmdUnix.label       "Նախըտրանքներ">
 <!ENTITY preferencesCmdUnix.accesskey     "ր">
+
 
 <!ENTITY clearRecentHistory.label               "Մաքրել Վերջին Պատմությունը...">
 
@@ -454,7 +462,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "Հ">
 <!ENTITY customizeMenu.addMoreItems.label "Ավելացնել այլ տարրեր...">
 <!ENTITY customizeMenu.addMoreItems.accesskey "Ա">
-
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -593,6 +600,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.label      "Էջանշել Այս շրջանակը">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "շ">
 <!ENTITY pageAction.copyLink.label    "Պատճենել հղումը">
+
+<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
+  "Pocket" is a brand name. -->
+
 <!ENTITY emailPageCmd.label           "Հղումը ուղարկել էլ. փոստով...">
 <!ENTITY emailPageCmd.accesskey       "Հ">
 <!ENTITY savePageCmd.label            "Պահպանել Էջը որպես…">
@@ -825,6 +836,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "Դուք չեք արտոնել այս կայքին որևէ հատուկ թույլտվություն:">
 <!ENTITY identity.permissionsReloadHint "Անհրաժեշտ կլինի թարմացնել էջը, որ կիրառվեն փոփոխությունները։">
 
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Դիտարկիչի ներդիրներ">
@@ -924,65 +936,22 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.allWindowsShared.message "Էկրանի բոլոր տեսանելի պատուհանները կտարածվեն:">
 
 
-<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
-     This label signals that this type of content blocking is turned
-     ON and is successfully blocking malicious/slow content, so this is
-     a positive thing. It forms the end of the (imaginary) sentence
-     "Slow-Loading Trackers [are] Blocked"-->
-<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocking.label):
-     This label signals that this type of content blocking is turned
-     ON, so this is a positive thing. It forms the verb in (imaginary) sentence
-     "Firefox is blocking Slow-Loading Trackers"-->
-<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
-     This is displayed as a link to preferences, where the user can add
-     this specific type of content blocking. When this text is shown
-     the type of content blocking is currently not enabled. -->
-
-<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
-     This label signals that this type of content blocking is turned
-     ON and is successfully blocking tracker content, so this is
-     a positive thing. It forms the end of the (imaginary) sentence
-     "Trackers [are] Blocked"-->
-<!-- LOCALIZATION NOTE (contentBlocking.tranckingProtection.blocking.label):
-     This label signals that this type of content blocking is turned
-     ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
-     "Firefox is blocking Trackers"-->
-<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
-     This is displayed as a link to preferences, where the user can add
-     this specific type of content blocking. When this text is shown
-     the type of content blocking is currently not enabled. -->
-
-<!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.blocked.label):
-     This label signals that this type of content blocking is turned
-     ON and is successfully blocking third-party cookies, so this is
-     a positive thing. It forms the end of the (imaginary) sentence
-     "Third-Party Cookies [are] Blocked"-->
-<!-- LOCALIZATION NOTE (contentBlocking.tranckingProtection.blocking.label):
-     This label signals that this type of content blocking is turned
-     ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
-     "Firefox is blocking Third-Party Cookies"-->
-<!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.add.label):
-     This is displayed as a link to preferences, where the user can add
-     this specific type of content blocking. When this text is shown
-     the type of content blocking is currently not enabled. -->
 
 
-<!ENTITY trackingProtection.title "Հետագծման պաշտպանություն">
 
-<!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
+
+
+
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate6.label, trackingProtection.unblockPrivate6.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
 
 <!ENTITY pluginNotification.showAll.label "Ցուցադրել բոլորը">
 <!ENTITY pluginNotification.showAll.accesskey "Ց">
-
-<!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
-<!ENTITY pluginActivateNow.label "Թույլատրել">
-<!ENTITY pluginActivateAlways.label "Թույլատրել և Հիշել">
-<!ENTITY pluginBlockNow.label "Արգելել բաղադրիչը">
 
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
      width of the plugin popup notification that can appear if a plugin has been
@@ -1028,6 +997,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.acceptButton.accesskey "Ն">
 <!ENTITY updateAvailable.cancelButton.label "Ոչ հիմա">
 <!ENTITY updateAvailable.cancelButton.accesskey "Ո">
+
 <!ENTITY updateAvailable.panelUI.label "Ներբեռնել &brandShorterName;-ի թարմացումը">
 
 <!ENTITY updateManual.message "Ներբեռնեք &brandShorterName;-ի նոր տարբերակը և մենք կօգնենք Ձեզ տեղադրել այն:">
@@ -1058,11 +1028,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "Էջի գործույթները">
 <!ENTITY pageAction.addToUrlbar.label "Ավելացնել Հասցեագոտում">
 <!ENTITY pageAction.removeFromUrlbar.label "ՀԵռացնել Հասցեագոտուց">
-<!ENTITY pageAction.allowInUrlbar.label "Ցուցմադրել Հասցեի գոտում">
-<!ENTITY pageAction.disallowInUrlbar.label "Չցուցադրել ՀԱսցեի գոտում">
 <!ENTITY pageAction.manageExtension.label "Կառավարել ընդլայնումը...">
-
-<!ENTITY pageAction.sendTabToDevice.label "Ուղարկել ներդիրը Սարքում">
 
 <!ENTITY sendToDevice.syncNotReady.label "Սարքերի համաժամեցում...">
 
@@ -1079,3 +1045,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Կառավարեք ձեր հավելումները սեղմելով <image class='addon-addon-icon'/><image class='addon-toolbar-icon'/>ցանկին:">
+

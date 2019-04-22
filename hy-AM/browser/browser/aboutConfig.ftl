@@ -6,6 +6,7 @@
 about-config-warning-title = Այստեղ զգույշ եղեք:
 about-config-warning-button = Ես ընդունում եմ վտանգը:
 about-config-title = about:config
+about-config2-title = Ընդլայնված կազմաձևեր
 about-config-search-input =
     .placeholder = Որոնում
 about-config-show-all = Ցուցադրել բոլորը
