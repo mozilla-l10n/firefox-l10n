@@ -14,6 +14,7 @@ about-private-browsing-info-searches = որոնումները
 about-private-browsing-info-downloads = ներբեռնումները
 private-browsing-title = Գաղտնի Դիտարկում
 about-private-browsing-info-saved = { -brand-short-name }-ը <strong>կպահի</strong> ձեր
+about-private-browsing-info-myths = Տարածված առասպելներ գաղտնի դիտարկման մասին
 about-private-browsing-info-clipboard = պատճենված տեքստ
 about-private-browsing-info-temporary-files = ժամանակավոր ֆայլերը
 about-private-browsing-info-cookies = cookie-ները
