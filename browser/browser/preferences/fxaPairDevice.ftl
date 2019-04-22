@@ -5,5 +5,7 @@
 fxa-pair-device-dialog =
     .title = Σύνδεση άλλης συσκευής
     .style = width: 26em; min-height: 35em;
+fxa-qrcode-heading-phase1 = 1. Αν δεν το έχετε κάνει ήδη, εγκαταστήστε το <a data-l10n-name="connect-another-device">Firefox στην κινητή σας συσκευή</a>.
+fxa-qrcode-heading-phase2 = 2. Έπειτα, συνδεθείτε στο { -sync-brand-short-name }, ή στο Android, σαρώστε τον κωδικό σύζευξης από τις ρυθμίσεις του { -sync-brand-short-name }.
 fxa-qrcode-error-title = Ανεπιτυχής σύζευξη.
 fxa-qrcode-error-body = Δοκιμάστε ξανά.

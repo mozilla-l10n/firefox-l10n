@@ -282,6 +282,7 @@ update-application-check-choose =
 update-application-manual =
     .label = Να μην γίνεται ποτέ έλεγχος για ενημερώσεις (δεν προτείνεται)
     .accesskey = Ν
+update-application-warning-cross-user-setting = Αυτή η ρύθμιση θα εφαρμοστεί σε όλους τους λογαριασμούς των Windows και τα προφίλ του { -brand-short-name } που χρησιμοποιούν αυτή την εγκατάσταση του { -brand-short-name }.
 update-application-use-service =
     .label = Χρήση μιας υπηρεσίας παρασκηνίου για την εγκατάσταση ενημερώσεων
     .accesskey = υ
@@ -611,6 +612,7 @@ sitedata-learn-more = Μάθετε περισσότερα
 sitedata-delete-on-close =
     .label = Διαγραφή cookies και δεδομένων ιστοσελίδων όταν κλείνει το { -brand-short-name }
     .accesskey = c
+sitedata-delete-on-close-private-browsing = Στη λειτουργία μόνιμης ιδιωτικής περιήγησης, τα cookies και τα δεδομένα ιστοσελίδων θα διαγράφονται πάντα όταν κλείνει το { -brand-short-name }.
 sitedata-allow-cookies-option =
     .label = Αποδοχή cookies και δεδομένων ιστοσελίδων
     .accesskey = Α
@@ -658,6 +660,7 @@ addressbar-suggestions-settings = Αλλαγή προτιμήσεων για τ�
 
 content-blocking-header = Φραγή περιεχομένου
 content-blocking-description = Αποκλείστε περιεχόμενο τρίτων που σάς παρακολουθεί στο διαδίκτυο. Ελέγξτε πόση διαδικτυακή δραστηριότητα αποθηκεύεται και κοινοποιείται στις ιστοσελίδες.
+content-blocking-section-description = Προστατέψτε το απόρρητό σας ενώ περιηγείστε. Αποκλείστε το αόρατο περιεχόμενο που καταγράφει τις ιστοσελίδες που επισκέπτεστε και δημιουργεί ένα προφίλ για εσάς. Η φραγή μέρους του περιεχομένου αυτού μπορεί να επιταχύνει τη φόρτωση σελίδων.
 content-blocking-learn-more = Μάθετε περισσότερα
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
@@ -673,6 +676,7 @@ content-blocking-setting-custom =
 content-blocking-standard-description = Αποκλείει μόνο γνωστούς ιχνηλάτες στα ιδιωτικά παράθυρα.
 content-blocking-standard-desc = Ισορροπία ανάμεσα σε προστασία και επιδόσεις. Επιτρέπει ορισμένους ιχνηλάτες για τη σωστή λειτουργία των ιστοσελίδων.
 content-blocking-strict-desc = Αποκλείει όλους τους ιχνηλάτες που ανιχνεύει το { -brand-short-name }. Ορισμένες ιστοσελίδες ενδέχεται να δυσλειτουργούν.
+content-blocking-strict-description = Ισχυρότερη προστασία, πιθανή δυσλειτουργία ορισμένων ιστοσελίδων.
 content-blocking-custom-desc = Επιλέξτε τι θα αποκλείεται.
 content-blocking-private-trackers = Γνωστοί ιχνηλάτες μόνο σε ιδιωτικά παράθυρα
 content-blocking-third-party-cookies = Cookies καταγραφής τρίτων
