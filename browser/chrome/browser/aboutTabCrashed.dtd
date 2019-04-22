@@ -21,12 +21,12 @@
 <!ENTITY tabCrashed.multiple.offerHelpMessage2 "Trieu «&tabCrashed.restoreTab;» o «&tabCrashed.restoreAll;» per tornar a carregar les pàgines.">
 <!ENTITY tabCrashed.requestHelp "Voleu ajudar-nos?">
 <!ENTITY tabCrashed.requestHelpMessage "Els informes de fallada ens ajuden a diagnosticar problemes i a millorar el &brandShortName;.">
-<!ENTITY tabCrashed.requestReport "Informa d'aquesta pestanya">
+<!ENTITY tabCrashed.requestReport "Informeu sobre aquesta pestanya">
 <!ENTITY tabCrashed.sendReport3 "Envia un informe de fallada automàtic per ajudar a corregir errors com aquest.">
 <!ENTITY tabCrashed.commentPlaceholder2 "Comentaris opcionals (els comentaris són visibles públicament)">
-<!ENTITY tabCrashed.includeURL3 "Inclou els URL dels llocs que estàveu visitant quan el &brandShortName; ha fallat.">
+<!ENTITY tabCrashed.includeURL3 "Inclou els URL dels llocs que s'estaven visitant quan el &brandShortName; ha fallat.">
 <!ENTITY tabCrashed.emailPlaceholder "Introduïu la vostra adreça electrònica aquí">
 <!ENTITY tabCrashed.emailMe "Envia'm un missatge de correu quan hi hagi més informació disponible">
 <!ENTITY tabCrashed.reportSent "Ja s'ha enviat l'informe de fallada. Gràcies per ajudar a millorar el &brandShortName;.">
-<!ENTITY tabCrashed.requestAutoSubmit2 "Informa de les pestanyes en segon pla">
+<!ENTITY tabCrashed.requestAutoSubmit2 "Informeu sobre les pestanyes en segon pla">
 <!ENTITY tabCrashed.autoSubmit3 "Actualitza les preferències per tal que s'enviïn informes automàticament en produir-se una fallada del &brandShortName;.">
