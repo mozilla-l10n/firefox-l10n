@@ -8,6 +8,11 @@ profiles-create = Створити новий профіль
 profiles-restart-title = Перезапустити
 profiles-restart-in-safe-mode = Перезапустити з вимкненими додатками…
 profiles-restart-normal = Перезапустити в звичайному режимі…
+profiles-conflict = Інша копія { -brand-product-name } зробила зміни в профілях. Необхідно перезапустити { -brand-short-name }, щоб виконувати інші зміни.
+profiles-flush-fail-title = Зміни не збережено
+profiles-flush-conflict = { profiles-conflict }
+profiles-flush-failed = Неочікувана помилка не дозволила зберегти ваші зміни.
+profiles-flush-restart-button = Перезапустити { -brand-short-name }
 # Variables:
 #   $name (String) - Name of the profile
 profiles-name = Профіль: { $name }
