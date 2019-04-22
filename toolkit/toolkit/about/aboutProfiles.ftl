@@ -8,6 +8,11 @@ profiles-create = Skapa en ny profil
 profiles-restart-title = Starta om
 profiles-restart-in-safe-mode = Starta om utan tillägg…
 profiles-restart-normal = Starta om normalt…
+profiles-conflict = En annan kopia av { -brand-product-name } har gjort ändringar i profiler. Du måste starta om { -brand-short-name } innan du gör fler ändringar.
+profiles-flush-fail-title = Ändringar som inte sparats
+profiles-flush-conflict = { profiles-conflict }
+profiles-flush-failed = Ett oväntat fel har förhindrat att dina ändringar sparas.
+profiles-flush-restart-button = Starta om { -brand-short-name }
 # Variables:
 #   $name (String) - Name of the profile
 profiles-name = Profil: { $name }
