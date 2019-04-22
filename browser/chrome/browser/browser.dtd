@@ -64,6 +64,8 @@ but will never be visible at the same time. -->
 These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  bookmarkSelectedTabs.accesskey     "A">
 
+<!-- Tab context menu -->
+
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
@@ -215,6 +217,28 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenExit.label "Eliri el plenekrana reĝimo">
 <!ENTITY fullScreenExit.accesskey "P">
 
+ <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
+     for the Firefox Account toolbar signin menu screen. -->
+<!ENTITY fxa.signin.callout.label "Portu Firefox kun vi">
+<!ENTITY fxa.signin.description.label "Ricevu viajn legosignojn, historion, pasvortojn kaj aliajn agordojn en ĉiuj viaj aparatoj.">
+<!ENTITY fxa.signin.button.label "Ŝalti &syncBrand.shortName.label;n…">
+
+<!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
+     for the Firefox Account toolbar unverified menu screen. -->
+<!ENTITY fxa.unverified.callout.label "Kontrolu vian retpoŝton">
+<!ENTITY fxa.unverified.description.label "Vi devos konfirmi vian konton antaŭ ol vi povos speguli.">
+<!ENTITY fxa.unverified.button.label "Malfermi agordojn de &syncBrand.shortName.label;…">
+
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbart menu screen. The `Signed in as` text is
+     followed by the user's email. -->
+<!ENTITY fxa.menu.signedInAs.label "Seanco komencita kiel">
+<!ENTITY fxa.menu.manageAccount.label "Administri konton…">
+<!ENTITY fxa.menu.syncSettings.label "Agordoj de &syncBrand.shortName.label;…">
+<!ENTITY fxa.menu.connectAnotherDevice.label "&syncedTabs.sidebar.connectAnotherDevice;">
+<!ENTITY fxa.menu.connectAnotherDevice2.label "Konekti alian aparaton…">
+<!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
+
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring fullscreen.
@@ -231,6 +255,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY exitDOMFullscreenMac.button "Eliri el plenekrana reĝimo (esk)">
 <!ENTITY leaveDOMFullScreen.label "Eliri el ekranplena reĝimo">
 <!ENTITY leaveDOMFullScreen.accesskey "e">
+
+<!-- LOCALIZATION NOTE (pictureInPicture.label, pictureInPicture.accesskey):
+     these two strings are used when right-clicking on a video in the
+     content area when the Picture-in-Picture feature is enabled. -->
+<!ENTITY pictureInPicture.label "Bildo en bildo">
+<!ENTITY pictureInPicture.accesskey "b">
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
@@ -409,6 +439,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "Preferoj">
 <!ENTITY preferencesCmdUnix.accesskey     "P">
+
+<!ENTITY logins.label                           "Akreditiloj kaj pasvortoj">
 
 <!ENTITY clearRecentHistory.label               "Forigi ĵusan historion…">
 
@@ -932,6 +964,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncSignIn.label             "Komenci seancon en &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "K">
 <!ENTITY syncSyncNowItem.label        "Speguli nun">
+<!ENTITY syncSyncNowItemSyncing.label "Spegulado…">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "Rekonekti al &syncBrand.shortName.label;…">
 <!ENTITY syncReAuthItem.accesskey     "R">
@@ -1074,6 +1107,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.acceptButton.accesskey "E">
 <!ENTITY updateAvailable.cancelButton.label "Nun ne">
 <!ENTITY updateAvailable.cancelButton.accesskey "N">
+
 <!ENTITY updateAvailable.panelUI.label "Elŝuti ĝisdatigon por &brandShorterName;">
 
 <!ENTITY updateManual.message "Denove elŝutu &brandShorterName; kaj ni helpos vin instali ĝin.">
@@ -1134,8 +1168,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Administru viajn aldonaĵojn per alklako de <image class='addon-addon-icon'/> en la menuo <image class='addon-toolbar-icon'/>.">
-<!ENTITY addonPostInstall.incognito.label "Permesi al tiu ĉi etendaĵo funkcii en privataj fenestroj.">
-<!ENTITY addonPostInstall.incognito.accesskey "P">
+<!ENTITY addonPostInstall.incognito.checkbox.label "Permesi al tiu ĉi etendaĵo funkcii en privataj fenestroj">
+<!ENTITY addonPostInstall.incognito.checkbox.accesskey "P">
 
 <!ENTITY addonPrivateBrowsing.header2.label "Ŝanĝoj de etendaĵoj en privataj fenestroj">
 <!ENTITY addonPrivateBrowsing.body2.label "Neniu nova etendaĵo aldonita al &brandShorterName; funkcios en privataj fenestroj, krom se vi tion permesas en la agordoj.">
