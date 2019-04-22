@@ -38,4 +38,5 @@ appmenu-addon-private-browsing =
     .buttonaccesskey = Δ
     .secondarybuttonlabel = Εντάξει, το 'πιασα
     .secondarybuttonaccesskey = Ε
+appmenu-addon-private-browsing-message = Τυχόν νέες επεκτάσεις που προσθέτετε στο { -brand-shorter-name } δεν θα λειτουργούν στα ιδιωτικά παράθυρα, εκτός κι αν το επιτρέψετε στις ρυθμίσεις.
 appmenu-addon-private-browsing-learn-more = Μάθετε πώς να διαχειρίζεστε τις ρυθμίσεις επεκτάσεων
