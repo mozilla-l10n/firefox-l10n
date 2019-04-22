@@ -8,6 +8,11 @@ profiles-create = Стварыць новы профіль
 profiles-restart-title = Перазапусціць
 profiles-restart-in-safe-mode = Перазапусціць з адключанымі дадаткамі...
 profiles-restart-normal = Перазапусціць у звычайным рэжыме...
+profiles-conflict = Іншы асобнік { -brand-product-name } унёс змены ў профіль. Неабходна перазапусціць { -brand-short-name } перш чым рабіць больш змяненняў.
+profiles-flush-fail-title = Змены не захаваны
+profiles-flush-conflict = { profiles-conflict }
+profiles-flush-failed = Нечаканая памылка не дазволіла захаваць вашы змяненні.
+profiles-flush-restart-button = Перазапусціць { -brand-short-name }
 # Variables:
 #   $name (String) - Name of the profile
 profiles-name = Профіль: { $name }
