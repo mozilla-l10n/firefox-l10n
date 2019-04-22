@@ -46,6 +46,8 @@ about-debugging-sidebar-item-connect-button-connection-failed = Échec de la con
 # Text displayed in connection warning on sidebar item of the runtime when connecting to
 # the runtime is taking too much time.
 about-debugging-sidebar-item-connect-button-connection-not-responding = Connexion encore en attente, vérifiez les messages sur le navigateur cible
+# Text displayed as connection error in sidebar item when the connection has timed out.
+about-debugging-sidebar-item-connect-button-connection-timeout = Délai de connexion dépassé
 # Temporary text displayed in sidebar items representing remote runtimes after
 # successfully connecting to them. Temporary UI, do not localize.
 about-debugging-sidebar-item-connected-label = Connecté
