@@ -124,6 +124,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "p">
 
+<!ENTITY importFromAnotherBrowserCmd.accesskey "I">
 
 
 <!ENTITY goOfflineCmd.label "ఆఫ్‌లైన్‌లో పనిచేయి">
@@ -986,6 +987,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "కుకీలు">
 <!ENTITY contentBlocking.cookiesView.label "కుకీలు, సైటు డేటా">
 
+<!ENTITY contentBlocking.cryptominers.label "క్రిప్టోమైనర్లు">
+<!ENTITY contentBlocking.cryptominersView.label "క్రిప్టోమైనర్లు">
 
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "ఒక సమస్యను నివేదించండి">

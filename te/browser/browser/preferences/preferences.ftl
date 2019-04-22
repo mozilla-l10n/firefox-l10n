@@ -489,6 +489,7 @@ sync-device-name-save =
     .accesskey = v
 sync-mobilepromo-single = మరొక పరికరాన్ని అనుసంధానించండి
 sync-mobilepromo-multi = పరికరాల నిర్వహణ
+sync-manage-devices = పరికరాల నిర్వహణ
 sync-tos-link = సేవా నిబంధనలు
 sync-fxa-privacy-notice = గోప్యతా నోటీసు
 
@@ -617,6 +618,7 @@ content-blocking-third-party-cookies = మూడవ-పక్ష ట్రాక
 content-blocking-all-cookies = అన్ని కుకీలు
 content-blocking-all-windows-trackers = తెలిసిన ట్రాకర్లు, అన్ని కిటికీల్లోనూ
 content-blocking-all-third-party-cookies = మూడవ-పక్ష కుకీలన్నీ
+content-blocking-cryptominers = క్రిప్టోమైనర్లు
 content-blocking-warning-title = గమనిక!
 content-blocking-learn-how = ఎలానో తెలుసుకోండి
 content-blocking-trackers-label =
@@ -634,6 +636,10 @@ content-blocking-cookies-label =
     .accesskey = C
 content-blocking-expand-section =
     .tooltiptext = మరింత సమాచారం
+# Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
+content-blocking-cryptominers-label =
+    .label = క్రిప్టోమైనర్లు
+    .accesskey = y
 
 ## Privacy Section - Tracking
 
