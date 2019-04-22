@@ -660,6 +660,7 @@ addressbar-suggestions-settings = Ŝanĝi preferojn pri serĉilaj sugestoj
 
 content-blocking-header = Blokado de enhavo
 content-blocking-description = Bloku nerektan enhavon, kiu spuras vin tra la reto. Regu kiom multe de via retuma informo estas konservita kaj dividita inter retejoj.
+content-blocking-section-description = Protektu vian privatecon dum vi retumas. Bloku nevideblan enhavon, kiu registras la retejojn, kiujn vi vizitas por konstrui profilon pri vi. Bloki parton de tiu enhavo povas rapidigi la ŝargadon de paĝoj.
 content-blocking-learn-more = Pli da informo
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
@@ -675,11 +676,16 @@ content-blocking-setting-custom =
 content-blocking-standard-description = Bloki nur konatajn spurilojn en privataj fenestroj.
 content-blocking-standard-desc = Ekvilibro inter protekto kaj efikeco. Kelkaj spuriloj estas permesataj, por ke retejoj funkciu bone.
 content-blocking-strict-desc = Ĉiuj spuriloj trovitaj de { -brand-short-name } estos blokitaj. Tio povas misfunkciigi kelkajn retejojn.
+content-blocking-strict-description = Pli severa protekto, kiu povus misfunkciigi kelkajn retejojn.
 content-blocking-custom-desc = Elektu kion bloki.
 content-blocking-private-trackers = Konataj spuriloj nur en fenestroj de privata retumo.
 content-blocking-third-party-cookies = Spurantaj nerektaj kuketoj
+content-blocking-all-cookies = Ĉiuj kuketoj
+content-blocking-unvisited-cookies = Kuketoj el ne vizititaj retejoj
 content-blocking-all-windows-trackers = Konataj spuriloj en ĉiuj fenestroj
 content-blocking-all-third-party-cookies = Ĉiuj nerektaj kuketoj
+content-blocking-cryptominers = Miniloj de ĉifromono
+content-blocking-fingerprinters = Identigiloj de ciferecaj spuroj
 content-blocking-warning-title = Atentu!
 content-blocking-warning-desc = La blokado de kuketoj kaj spuriloj povas misfunkciigi kelkajn retejojn. Estas facile malaktivigi la blokadon por tiuj retejoj, kiujn vi fidas.
 content-blocking-warning-description = La blokado de enhavo povas misfunkciigi kelkajn retejojn. Estas facile malaktivigi la blokadon por retejoj, kiujn vi fidas.
