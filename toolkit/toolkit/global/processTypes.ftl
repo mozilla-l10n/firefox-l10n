@@ -9,6 +9,9 @@ process-type-privileged = Contenido privilegiado
 process-type-extension = Extensión
 # process used to open file:// URLs
 process-type-file = Archivo local
+# process used to isolate webpages that requested special
+# permission to allocate large amounts of memory
+process-type-weblargeallocation = Asignación de grandes dimensiones
 # process used to communicate with the GPU for
 # graphics acceleration
 process-type-gpu = GPU
