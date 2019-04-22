@@ -14,6 +14,10 @@
      accessibility software to clarify what the slider is for. -->
 <!ENTITY volumeScrubber.label "Ovládání hlasitosti">
 
+<!-- LOCALIZATION NOTE (pictureInPicture.label): This string is used as part of
+the Picture-in-Picture video toggle button when the mouse is hovering it. -->
+<!ENTITY pictureInPicture.label "Obraz v obraze">
+
 <!ENTITY stats.media "Média">
 <!ENTITY stats.size "Velikost">
 <!ENTITY stats.activity "Aktivita">

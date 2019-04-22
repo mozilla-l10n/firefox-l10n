@@ -667,6 +667,7 @@ addressbar-suggestions-settings = Nastavit našeptávání vyhledávače
 
 content-blocking-header = Blokování obsahu
 content-blocking-description = Blokuje obsah třetích stran, který vás na webu sleduje. Sami určete, jak velká část z vašich aktivit na internetu se bude ukládat a sdílet mezi stránkami.
+content-blocking-section-description = Chraňte své soukromí při prohlížení internetu. Zablokujte neviditelný obsah, který vás sleduje na navštívených stránkách a vytváří profil vašeho chování. Blokování takového obsahu navíc může zrychlit načítání stránek.
 content-blocking-learn-more = Zjistit více
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
