@@ -10,6 +10,7 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
+policy-3rdparty = Aseta käytäntöjä, joita WebExtensionit voivat käyttää chrome.storage.managed-objektin kautta.
 policy-AppUpdateURL = Aseta oma sovelluksen päivittämisen URL-osoite.
 policy-Authentication = Määritä sisäänrakennettu tunnistautuminen sivustoille, jotka tukevat sitä.
 policy-BlockAboutAddons = Estä pääsy lisäosien hallintaan (about:addons).
@@ -64,6 +65,7 @@ policy-OverrideFirstRunPage = Korvaa ensimmäisen käynnistyskerran sivu. Aseta 
 policy-OverridePostUpdatePage = Korvaa päivityksen jälkeinen ”Mitä uutta” -sivu. Aseta tämä käytäntö tyhjäksi, jos haluat poistaa päivityksen jälkeisen sivun käytöstä.
 policy-Permissions = Aseta kameran, mikrofonin, sijainnin ja ilmoitusten käyttöoikeuksien asetukset.
 policy-PopupBlocking = Salli tiettyjen sivustojen näyttää ponnahdusikkunoita oletusarvoisesti.
+policy-Preferences = Aseta ja lukitse arvo asetusten osajoukolle.
 policy-Proxy = Määritä välityspalvelimen asetukset.
 policy-RequestedLocales = Aseta pyydetyt sovelluksen kielet suosituimmuusjärjestyksessä.
 policy-SanitizeOnShutdown = Poista kaikki selailutiedot suljettaessa selain.

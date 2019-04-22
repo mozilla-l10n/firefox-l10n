@@ -1166,7 +1166,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addonPostInstall.incognito.checkbox.label "Salli tämän laajennuksen toiminta yksityisissä ikkunoissa">
 <!ENTITY addonPostInstall.incognito.checkbox.accesskey "S">
 
+<!ENTITY addonPrivateBrowsing.header2.label "Muutos laajennusten toimintaan yksityisissä ikkunoissa">
 <!ENTITY addonPrivateBrowsing.body2.label "Yksikään &brandShorterName;iin lisäämäsi uusi laajennus ei toimi yksityisissä ikkunoissa, ellet salli toimintaa asetuksista.">
 <!ENTITY addonPrivateBrowsing.learnMore.label "Lue lisää kuinka hallita laajennusten asetuksia.">
 <!ENTITY addonPrivateBrowsing.okButton.label "Selvä">
+<!ENTITY addonPrivateBrowsing.okButton.accesskey "S">
 <!ENTITY addonPrivateBrowsing.manageButton.label "Hallitse laajennuksia">
+<!ENTITY addonPrivateBrowsing.manageButton.accesskey "H">
