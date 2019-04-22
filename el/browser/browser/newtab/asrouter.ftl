@@ -44,6 +44,7 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } χρήστης
        *[other] { $total } χρήστες
     }
+cfr-doorhanger-pintab-description = Αποκτήστε εύκολη πρόσβαση σε ιστοσελίδες συχνής χρήσης. Διατηρήστε τις ιστοσελίδες ανοικτές σε μια καρτέλα (ακόμη κι όταν κάνετε επανεκκίνηση).
 
 ## These messages are steps on how to use the feature and are shown together.
 

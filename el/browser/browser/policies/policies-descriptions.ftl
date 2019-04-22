@@ -18,6 +18,7 @@ policy-BlockAboutConfig = Φραγή πρόσβασης στη σελίδα abou
 policy-BlockAboutProfiles = Φραγή πρόσβασης στη σελίδα about:profiles.
 policy-BlockAboutSupport = Φραγή πρόσβασης στη σελίδα about:support.
 policy-Bookmarks = Δημιουργία σελιδοδεικτών στη γραμμή σελιδοδεικτών, στο μενού σελιδοδεικτών ή σε ένα συγκεκριμένο φάκελο μέσα τους.
+policy-CaptivePortal = Ενεργοποίηση ή απενεργοποίηση υποστήριξης captive portal.
 policy-CertificatesDescription = Προσθήκη πιστοποιητικών ή χρήση ενσωματωμένων πιστοποιητικών.
 policy-Cookies = Αποδοχή ή άρνηση αιτημάτων αποθήκευσης cookies.
 policy-DisableAppUpdate = Αποτροπή ενημέρωσης προγράμματος περιήγησης.
@@ -75,5 +76,6 @@ policy-SearchSuggestEnabled = Ενεργοποίηση ή απενεργοποί
 policy-SecurityDevices = Εγκατάσταση προσθέτων PKCS #11.
 policy-SSLVersionMax = Ορίστε τη μέγιστη έκδοση SSL.
 policy-SSLVersionMin = Ορίστε την ελάχιστη έκδοση SSL.
+policy-SupportMenu = Προσθήκη προσαρμοσμένου στοιχείου μενού υποστήριξης στο μενού βοήθειας.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Αποκλεισμός επίσκεψης σε ιστοσελίδας. Δείτε την τεκμηρίωση για περισσότερες λεπτομέρειες στο format.
