@@ -8,6 +8,7 @@ about-config-warning-text = Cangiâ ste inpostaçioin avansæ peu ese peigoso pe
 about-config-warning-checkbox = Ronpime torna, pe piaxei!
 about-config-warning-button = Acetto o reizego
 about-config-title = about:config
+about-config2-title = Configuraçioin avansæ
 about-config-search-input =
     .placeholder = Çerca
 about-config-show-all = Fanni vedde tutto
