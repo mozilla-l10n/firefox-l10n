@@ -78,6 +78,7 @@
 <!ENTITY useService.label                "K instalaci aktualizací použít službu na pozadí">
 <!ENTITY useService.accesskey            "s">
 
+<!ENTITY updateCrossUserSettingWarning.description "Toto nastavení se uplatní pro všechny účty systému Windows a profily aplikace &brandShortName; používající tuto instalaci aplikace &brandShortName;.">
 
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Nastavení…">

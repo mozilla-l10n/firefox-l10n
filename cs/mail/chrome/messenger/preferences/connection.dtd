@@ -46,7 +46,10 @@
 <!ENTITY  socksRemoteDNS.label          "Použít proxy server pro DNS při použití SOCKS v5">
 <!ENTITY  socksRemoteDNS.accesskey      "d">
 <!ENTITY  dnsOverHttps.label            "Zapnout DNS přes HTTPS">
+<!ENTITY  dnsOverHttps.accesskey        "p">
 <!ENTITY  dnsOverHttpsUrlDefault.label     "Použít výchozí">
+<!ENTITY  dnsOverHttpsUrlDefault.accesskey "P">
 <!ENTITY  dnsOverHttpsUrlDefault.tooltip   "Použít výchozí URL pro DNS přes HTTPS">
 <!ENTITY  dnsOverHttpsUrlCustom.label      "Vlastní">
+<!ENTITY  dnsOverHttpsUrlCustom.accesskey  "t">
 <!ENTITY  dnsOverHttpsUrlCustom.tooltip    "Vložte svou preferovanou URL pro DNS přes HTTPS">
