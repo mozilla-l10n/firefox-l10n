@@ -8,8 +8,10 @@ profiles-create = Lag ein ny profil
 profiles-restart-title = Start på nytt
 profiles-restart-in-safe-mode = Start på nytt med utvidingar avslått…
 profiles-restart-normal = Start på nytt vanleg…
+profiles-conflict = Eit anna eksemplar av programmet { -brand-product-name } har gjort endringar i profilane. Du må starte { -brand-short-name } på nytt før du kan gjere fleire endringar.
 profiles-flush-fail-title = Endringar ikkje lagra
 profiles-flush-conflict = { profiles-conflict }
+profiles-flush-failed = Ein uventa feil hindra endringane dine i å bli lagra.
 profiles-flush-restart-button = Start { -brand-short-name } på nytt
 # Variables:
 #   $name (String) - Name of the profile
