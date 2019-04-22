@@ -8,6 +8,11 @@ profiles-create = Vytvořit nový profil
 profiles-restart-title = Restartovat
 profiles-restart-in-safe-mode = Restartovat se zakázanými doplňky…
 profiles-restart-normal = Restartovat obvyklým způsobem…
+profiles-conflict = Další kopie aplikace { -brand-product-name } změnila tento profil. Před provedením dalších změn aplikaci { -brand-short-name } restartujte.
+profiles-flush-fail-title = Změny nebyly uloženy
+profiles-flush-conflict = { profiles-conflict }
+profiles-flush-failed = Kvůli neočekávané chybě se nepodařilo vaše změny uložit.
+profiles-flush-restart-button = Restartovat aplikaci { -brand-short-name }
 # Variables:
 #   $name (String) - Name of the profile
 profiles-name = Profil: { $name }
