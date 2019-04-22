@@ -92,7 +92,7 @@ detail-update-manual =
     .label = Pois käytöstä
     .tooltiptext = Älä asenna päivityksiä automaattisesti
 # Used as a description for the option to allow or block an add-on in private windows.
-detail-private-browsing-label = Suorita yksityisissä ikkunoissa
+detail-private-browsing-label = Suoritus yksityisissä ikkunoissa
 detail-private-browsing-description2 = Kun sallittu, tällä laajennuksella on pääsy verkossa tekemiisi asioihin yksityisissä ikkunoissa. <label data-l10n-name="detail-private-browsing-learn-more">Lue lisää</label>
 detail-private-browsing-on =
     .label = Salli
@@ -257,3 +257,9 @@ addons-enabled-heading = Käytössä
 addons-disabled-heading = Ei käytössä
 addon-detail-author-label = Tekijä
 addon-detail-version-label = Versio
+addon-detail-last-updated-label = Päivitetty viimeksi
+addon-detail-homepage-label = Kotisivu
+# This string is used to show that an add-on is disabled.
+# Variables:
+#   $name (string) - The name of the add-on
+addon-name-disabled = { $name } (ei käytössä)

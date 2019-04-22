@@ -30,8 +30,8 @@ appmenu-addon-private-browsing-installed =
     .buttonaccesskey = S
 appmenu-addon-post-install-message = Voit hallita lisäosia avaamalla <image data-l10n-name='addon-menu-icon'></image>-valikon ja napsauttamalla <image data-l10n-name='addon-install-icon'></image>-kuvaketta.
 appmenu-addon-post-install-incognito-checkbox =
-    .label = Salli tämän laajennuksen suorittaminen yksityisissä ikkunoissa
-    .accesskey = S
+    .label = Salli laajennuksen suoritus yksityisissä ikkunoissa
+    .accesskey = a
 appmenu-addon-private-browsing =
     .label = Muutos laajennusten toimintaan yksityisissä ikkunoissa
     .buttonlabel = Hallitse laajennuksia
