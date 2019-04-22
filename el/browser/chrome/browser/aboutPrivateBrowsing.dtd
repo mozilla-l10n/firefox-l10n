@@ -37,6 +37,7 @@
                        text for the search box.   -->
 <!ENTITY aboutPrivateBrowsing.search.placeholder         "Αναζήτηση στο διαδίκτυο">
 <!ENTITY aboutPrivateBrowsing.info.title                 "Βρίσκεστε σε ένα ιδιωτικό παράθυρο">
+<!ENTITY aboutPrivateBrowsing.info.description           "Το &brandShortName; διαγράφει το ιστορικό αναζήτησης και περιήγησής σας όταν κλείνετε την εφαρμογή ή όλα τα παράθυρα και τις καρτέλες ιδιωτικής περιήγησης. Αν και δεν έχετε πλήρη ανωνυμία στις ιστοσελίδες ή τον πάροχο υπηρεσίας διαδικτύου, μπορείτε να διατηρείτε τις δραστηριότητές σας ιδιωτικές από τους άλλους χρήστες αυτού του υπολογιστή πιο εύκολα.">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article
                        about private browsing myths.   -->
 <!ENTITY aboutPrivateBrowsing.info.myths                 "Κοινοί μύθοι για την ιδιωτική περιήγηση">

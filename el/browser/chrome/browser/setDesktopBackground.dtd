@@ -8,7 +8,12 @@
 <!ENTITY stretch.label              "Τέντωμα">
 <!ENTITY fill.label                 "Γέμισμα">
 <!ENTITY fit.label                  "Προσαρμογή">
-<!ENTITY preview.label              "Προεπισκόπηση">
+<!-- LOCALIZATION NOTE (span.label): This refers to the wallpaper "spanning"
+                       multiple monitors when the user has more than one. Only
+                       some of the entire image will be on each monitor.
+                       This should ideally match the wording in Windows' own
+                       Desktop Background settings page. -->
+<!ENTITY span.label                 "Διάστημα">
 <!ENTITY color.label                "Χρώμα:">
 <!ENTITY setDesktopBackground.title "Ορισμός ταπετσαρίας επιφάνειας εργασίας">
 <!ENTITY openDesktopPrefs.label     "Άνοιγμα προτιμήσεων επιφάνειας εργασίας">
