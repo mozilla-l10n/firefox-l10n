@@ -660,6 +660,7 @@ addressbar-suggestions-settings = Іздеу жүйесінің ұсыныста
 
 content-blocking-header = Құраманы бұғаттау
 content-blocking-description = Интернетте сізді бақылайтын үшінші жақты құраманы бұғаттау. Желілік белсенділігіңіздің қай бөлігі сақталатынын және веб-сайттармен бөлісетінін басқарыңыз.
+content-blocking-section-description = Шолу кезінде жекелігіңізді қорғаңыз. Сіз шолатын сайттарды бақылайтын және сіздің профиліңізді жасайтын көрінбейтін құраманы бұғаттаңыз. Бұл құраманың кейбіреуін бұғаттау беттердің жылдамдау жүктелуіне әкеп соғуы мүмкін.
 content-blocking-learn-more = Көбірек білу
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
@@ -675,12 +676,16 @@ content-blocking-setting-custom =
 content-blocking-standard-description = Жекелік терезелерінде тек белгілі трекерлерді бұғаттайды.
 content-blocking-standard-desc = Қорғаныс және өнімділік үшін теңдестірілген. Веб-сайттар дұрыс жұмыс істеу мақсатында кейбір трекерлерді рұқсат етеді.
 content-blocking-strict-desc = { -brand-short-name } анықтайтын барлық трекерлерді бұғаттау. Кейбір сайттар жұмысы бұзылуы мүмкін.
+content-blocking-strict-description = Қатаң қорғаныс, кейбір сайттардың бұзылуына әкеп соғуы мүмкін.
 content-blocking-custom-desc = Нені бұғаттауды таңдаңыз
 content-blocking-private-trackers = Жекелік терезелерінде барлық белгілі трекерлер
 content-blocking-third-party-cookies = Үшінші жақты бақылайтын cookies
 content-blocking-all-cookies = Барлық cookie файлдары
+content-blocking-unvisited-cookies = Қаралмаған сайттардың cookies файлдары
 content-blocking-all-windows-trackers = Барлық терезелердегі белгілі трекерлер
 content-blocking-all-third-party-cookies = Барлық үшінші жақты cookies
+content-blocking-cryptominers = Криптомайнерлер
+content-blocking-fingerprinters = Баспаны жинаушылар
 content-blocking-warning-title = Ескерту!
 content-blocking-warning-desc = Cookies файлдарын және трекерлерді бұғаттау кейбір веб-сайттар жұмысын бұзуы мүмкін. Өзіңіз сенетін сайттар үшін бұғаттауды сөндіру оңай.
 content-blocking-warning-description = Құраманы бұғаттау кейбір веб-сайттар жұмысын бұзуы мүмкін. Сенімді сайттар үшін бұғаттауды өшіру оңай.

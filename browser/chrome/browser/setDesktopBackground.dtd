@@ -8,7 +8,12 @@
 <!ENTITY stretch.label              "Созу">
 <!ENTITY fill.label                 "Толтыру">
 <!ENTITY fit.label                  "Сыйдыру">
-<!ENTITY preview.label              "Алдын-ала қарап шығу">
+<!-- LOCALIZATION NOTE (span.label): This refers to the wallpaper "spanning"
+                       multiple monitors when the user has more than one. Only
+                       some of the entire image will be on each monitor.
+                       This should ideally match the wording in Windows' own
+                       Desktop Background settings page. -->
+<!ENTITY span.label                 "Созылуы">
 <!ENTITY color.label                "Түсі:">
 <!ENTITY setDesktopBackground.title "Жұмыс үстелінің суреті ретінде орнату">
 <!ENTITY openDesktopPrefs.label     "Жұмыс үстелінің баптауларын ашу">
