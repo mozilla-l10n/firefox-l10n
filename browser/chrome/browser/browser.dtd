@@ -220,6 +220,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
  <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
      for the Firefox Account toolbar signin menu screen. -->
 <!ENTITY fxa.signin.callout.label "Πάρτε το Firefox μαζί σας">
+<!ENTITY fxa.signin.description.label "Κρατήστε τους σελιδοδείκτες, το ιστορικό, τους κωδικούς πρόσβασης και άλλες ρυθμίσεις σας σε όλες τις συσκευές σας.">
 <!ENTITY fxa.signin.button.label "Ενεργοποίηση &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
@@ -394,7 +395,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Εργαλεία προγραμματιστή">
 <!ENTITY webDeveloperMenu.accesskey   "Π">
 
-<!ENTITY inspectContextMenu.label     "Έλεγχος αντικειμένου">
+<!ENTITY inspectContextMenu.label     "Επιθεώρηση στοιχείου">
 <!ENTITY inspectContextMenu.accesskey "υ">
 
 <!ENTITY inspectA11YContextMenu.label     "Επιθεώρηση ιδιοτήτων προσβασιμότητας">
@@ -1106,6 +1107,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.acceptButton.accesskey "Λ">
 <!ENTITY updateAvailable.cancelButton.label "Όχι τώρα">
 <!ENTITY updateAvailable.cancelButton.accesskey "Ό">
+
 <!ENTITY updateAvailable.panelUI.label "Λήψη ενημέρωσης για το &brandShorterName;">
 
 <!ENTITY updateManual.message "Κάντε λήψη μιας φρέσκιας έκδοσης του &brandShorterName; και θα σάς βοηθήσουμε να την εγκαταστήσετε.">
