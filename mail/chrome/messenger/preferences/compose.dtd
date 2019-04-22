@@ -19,7 +19,9 @@
 <!ENTITY font.label                           "Písmo:">
 <!ENTITY font.accesskey                       "m">
 <!ENTITY fontSize.label                       "Velikost:">
+<!ENTITY fontSize.accesskey                   "s">
 <!ENTITY useReaderDefaults.label              "Použít výchozí barvy čtečky">
+<!ENTITY useReaderDefaults.accesskey          "d">
 <!ENTITY fontColor.label                      "Text:">
 <!ENTITY fontColor.accesskey                  "T">
 <!ENTITY bgColor.label                        "Barva pozadí:">

@@ -441,6 +441,8 @@
 <!ENTITY openMessageWindowCmd.accesskey "t">
 <!ENTITY openMessageWindowCmd.key "o">
 <!ENTITY openInConversationCmd.label "Otevřít v konverzaci">
+<!ENTITY openInConversationCmd.accesskey "c">
+<!ENTITY openInConversationCmd.key "o">
 <!ENTITY openAttachmentListCmd.label "Přílohy">
 <!ENTITY openAttachmentListCmd.accesskey "h">
 <!ENTITY openFeedMessage1.label "Při otvírání zprávy z kanálu">
@@ -603,6 +605,8 @@
 <!ENTITY tagButton.tooltip "Přidá štítek">
 <!ENTITY compactButton.tooltip "Ze zvolené složky odstraní smazané zprávy">
 <!ENTITY appmenuButton1.tooltip "Zobrazí nabídku aplikace &brandShortName;">
+
+<!ENTITY addonsButton.tooltip "Spravujte své doplňky">
 
 <!-- Toolbar Button Popup -->
 <!ENTITY buttonMenuForwardAsInline.label "Přeposlat jako vložené">
@@ -791,6 +795,7 @@
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Poslední">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "P">
 <!ENTITY contextMoveCopyMsgFavoritesMenu.label "Oblíbené">
+<!ENTITY contextMoveCopyMsgFavoritesMenu.accesskey "O">
 <!ENTITY contextCopyMsgMenu.label "Kopírovat do">
 <!ENTITY contextCopyMsgMenu.accesskey "K">
 <!ENTITY contextKillThreadMenu.label "Ignorovat vlákno">
@@ -809,13 +814,6 @@
 <!ENTITY contextPrint.accesskey "T">
 <!ENTITY contextPrintPreview.label "Náhled tisku">
 <!ENTITY contextPrintPreview.accesskey "h">
-
-<!-- Thread Pane Column Picker -->
-<!-- LOCALIZATION NOTE (columnPicker.resetToInbox.label):
-     This option in the thread pane column picker causes us to reset the
-     customizations for the thread pane columns in this folder to their default.
-  -->
-<!ENTITY columnPicker.resetToInbox.label "Obnovit výchozí sloupce">
 
 <!-- LOCALIZATION NOTE (columnPicker.applyTo.label):
      This option in the thread pane column picker pops up a sub-menu containing
@@ -856,7 +854,6 @@
      "File here" option for the move to/copy to widget.
   -->
 <!ENTITY columnPicker.thisFolder.label "Tato složka">
-
 
 <!-- Media (video/audio) controls -->
 <!ENTITY contextPlay.label "Přehrát">
