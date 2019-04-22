@@ -660,6 +660,7 @@ addressbar-suggestions-settings = Kek'ex ri taq kajowab'al ri taq kichilab'enik 
 
 content-blocking-header = Ruq'atik Rupam
 content-blocking-description = Taq'ata' rupam kichin aj rox winäq yatkojqaj pa ajk'amaya'l. Tachajij jarupe' ri asamaj pa k'amab'ey yeyak chuqa' yekomonïx chi kikojol ajk'amaya'l taq ruxaq.
+content-blocking-section-description = Tachajij ri awichinanem toq yatok pa k'amaya'l. Ke'aq'ata' rupam yekikanoj ri ruxaq e'atz'eton chuqa' yerunük' taq ruwäch b'i'aj. Yeq'at taq rupam nitikïr nub'än chi yesamäj anin ri taq ruxaq.
 content-blocking-learn-more = Tetamäx Ch'aqa' Chik
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
