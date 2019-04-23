@@ -77,6 +77,9 @@ detail-version =
 detail-last-updated =
     .label = Ruk'isib'äl k'exoj
 detail-contributions-description = Ri runuk'unel re tz'aqat re', nuk'utuj chawe chi tato' rik'in rub'anik, rik'in naya' jun ko'öl ato'ik.
+detail-contributions-button = Kato'on
+    .title = Kato'on richin nib'an re chokoy re'
+    .accesskey = K
 detail-update-type =
     .value = K'exoj pa kiyonil
 detail-update-default =
@@ -94,6 +97,7 @@ detail-private-browsing-description2 = Toq xtiya' q'ij, ri k'amal xtok pa ri asa
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overriden by the user.
 detail-private-disallowed-label = Man ya'on ta q'ij pan Ichinan Tzuwäch
+detail-private-disallowed-description = Man nisamäj ta pa ichinan okem pa k'amaya'l re k'amal re'. <label data-l10n-name="detail-private-browsing-learn-more">Tetamäx ch'aqa' chik</label>
 detail-private-browsing-on =
     .label = Tiya' q'ij
     .tooltiptext = Titz'ij pa Ichinan Okem pa K'amaya'l

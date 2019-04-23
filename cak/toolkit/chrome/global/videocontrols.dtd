@@ -38,6 +38,7 @@ the Picture-in-Picture video toggle button when the mouse is hovering it. -->
 <!ENTITY error.noSource2 "Majun silowachib'äl xelitäj, ri nikixïm ki' pa MIME rub'anikil chuqa' ruwäch.">
 <!ENTITY error.generic "Xpa'e' ri rutzijik silowachib'äl ruma jun sachoj ri man etaman ta.">
 
+<!ENTITY status.pictureInPicture "Re silowäch re' nitzij rik'in Picture-in-Picture rub'anikil.">
 
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
