@@ -47,3 +47,5 @@
 <!ENTITY pref.systemcolors.accesskey "c">
 
 <!ENTITY pref.eventsandtasks.label "Eventos e activitates" >
+<!ENTITY pref.editInTab.label "Rediger eventos e activitates in un scheda in vice que in un fenestra de dialogo." >
+<!ENTITY pref.editInTab.accesskey "g">

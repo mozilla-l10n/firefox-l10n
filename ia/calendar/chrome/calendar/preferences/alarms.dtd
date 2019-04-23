@@ -12,6 +12,8 @@
 <!ENTITY pref.calendar.alarms.playsound.accessKey "s">
 <!ENTITY pref.calendar.alarms.sound.useDefault.label "Usar sono predefinite">
 <!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "d">
+<!ENTITY pref.calendar.alarms.sound.useCustom.label "Utilisar le file sonor sequente">
+<!ENTITY pref.calendar.alarms.sound.useCustom.accessKey "U">
 <!ENTITY pref.calendar.alarms.sound.browse.label "Navigar…">
 <!ENTITY pref.calendar.alarms.sound.browse.accessKey "N">
 <!ENTITY pref.calendar.alarms.sound.play.label "Reproducer">
