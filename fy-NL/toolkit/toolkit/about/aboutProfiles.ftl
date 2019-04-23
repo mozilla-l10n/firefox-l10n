@@ -8,6 +8,10 @@ profiles-create = In nij profyl oanmeitsje
 profiles-restart-title = Opnij starte
 profiles-restart-in-safe-mode = Opnij starte mei útskeakele add-ons…
 profiles-restart-normal = Normaal starte…
+profiles-flush-fail-title = Wizigingen net bewarre
+profiles-flush-conflict = { profiles-conflict }
+profiles-flush-failed = Troch in ûnferwachte flater binne jo wizigingen net bewarre.
+profiles-flush-restart-button = { -brand-short-name } opnij starte
 # Variables:
 #   $name (String) - Name of the profile
 profiles-name = Profyl: { $name }
