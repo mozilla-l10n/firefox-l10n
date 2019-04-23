@@ -80,10 +80,19 @@ about-debugging-refresh-usb-devices-button = Ανανέωση συσκευών
 
 # Title of the Setup page.
 about-debugging-setup-title = Ρύθμιση
+# Introduction text in the Setup page to explain how to configure remote debugging.
+about-debugging-setup-intro = Ρυθμίστε τη μέθοδο σύνδεσης με την οποία επιθυμείτε να αποσφαλματώσετε απομακρυσμένα τη συσκευή σας.
+# Link displayed in the Setup page that leads to MDN page with list of supported devices.
+# Temporarily leads to https://support.mozilla.org/en-US/kb/will-firefox-work-my-mobile-device#w_android-devices
+about-debugging-setup-link-android-devices = Προβολή λίστας υποστηριζόμενων συσκευών Android
+# Explanatory text in the Setup page about what the 'This Firefox' page is for
+about-debugging-setup-this-firefox = Χρησιμοποιήστε το <a>{ about-debugging-this-firefox-runtime-name }</a> για αποσφαλμάτωση καρτελών, επεκτάσεων και service workers σε αυτή την έκδοση του { -brand-shorter-name }.
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = Σύνδεση συσκευής
 # USB section of the Setup page
 about-debugging-setup-usb-title = USB
+# Explanatory text displayed in the Setup page when USB debugging is disabled
+about-debugging-setup-usb-disabled = Η ενεργοποίηση αυτού θα κάνει λήψη και προσθήκη των απαιτούμενων στοιχείων αποσφαλμάτωσης Android USB στο { -brand-shorter-name }.
 # Text of the button displayed in the USB section of the setup page when USB debugging is disabled.
 # Clicking on it will download components needed to debug USB Devices remotely.
 about-debugging-setup-usb-enable-button = Ενεργοποίηση συσκευών USB
@@ -96,12 +105,22 @@ about-debugging-setup-usb-updating-button = Ενημέρωση…
 about-debugging-setup-usb-status-enabled = Ενεργό
 about-debugging-setup-usb-status-disabled = Ανενεργό
 about-debugging-setup-usb-status-updating = Ενημέρωση…
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-dev-menu = Ενεργοποιήστε το μενού προγραμματιστών στη συσκευή Android σας. <a> Μάθετε πώς</a>
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug = Ενεργοποιήστε την αποσφαλμάτωση USB στο μενού προγραμματιστών Android. <a> Μάθετε πώς</a>
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug-firefox = Ενεργοποιήστε την αποσφαλμάτωση USB στο Firefox στη συσκευή Android. <a> Μάθετε πώς</a>
+# USB section step by step guide
+about-debugging-setup-usb-step-plug-device = Συνδέστε τη συσκευή Android στον υπολογιστή σας.
 # Network section of the Setup page
 about-debugging-setup-network =
     .title = Τοποθεσία δικτύου
 # Text of a button displayed after the network locations "Host" input.
 # Clicking on it will add the new network location to the list.
 about-debugging-network-locations-add-button = Προσθήκη
+# Text to display when there are no locations to show.
+about-debugging-network-locations-empty-text = Δεν έχουν προστεθεί τοποθεσίες δικτύου ακόμη.
 # Text of the label for the text input that allows users to add new network locations in
 # the Connect page. A host is a hostname and a port separated by a colon, as suggested by
 # the input's placeholder "localhost:6080".
@@ -109,6 +128,14 @@ about-debugging-network-locations-host-input-label = Όνομα host
 # Text of a button displayed next to existing network locations in the Connect page.
 # Clicking on it removes the network location from the list.
 about-debugging-network-locations-remove-button = Αφαίρεση
+# Text used as error message if the format of the input value was invalid in the network locations form of the Setup page.
+# Variables:
+#   $host-value (string) - The input value submitted by the user in the network locations form
+about-debugging-network-location-form-invalid = Άκυρο host “{ $host-value }”. Η αναμενόμενη μορφή είναι “hostname:portnumber”.
+# Text used as error message if the input value was already registered in the network locations form of the Setup page.
+# Variables:
+#   $host-value (string) - The input value submitted by the user in the network locations form
+about-debugging-network-location-form-duplicate = Το host “{ $host-value }” έχει ήδη εγγραφεί
 
 # Runtime Page strings
 
@@ -135,6 +162,32 @@ about-debugging-runtime-other-workers =
 # Title of the processes category.
 about-debugging-runtime-processes =
     .name = Διεργασίες
+# Label of the button opening the performance profiler panel in runtime pages for remote
+# runtimes.
+about-debugging-runtime-profile-button = Περιβάλλον εκτέλεσης προφίλ
+# This string is displayed in the runtime page if the current configuration of the
+# target runtime is incompatible with service workers. "Learn more" points to MDN.
+# https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
+about-debugging-runtime-service-workers-not-compatible = Οι ρυθμίσεις του προγράμματος περιήγησής σας δεν είναι συμβατές με τα service workers. <a>Μάθετε περισσότερα</a>
+# This string is displayed in the runtime page if the remote browser version is too old.
+# "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/WebIDE/Troubleshooting
+# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
+# { $minVersion } is the minimum version that is compatible with the current Firefox instance (same format)
+about-debugging-browser-version-too-old = Το συνδεδεμένο πρόγραμμα περιήγησης έχει παλιά έκδοση ({ $runtimeVersion }). Η ελάχιστη υποστηριζόμενη έκδοση είναι ({ $minVersion }).  Πρόκειται για μη υποστηριζόμενη ρύθμιση και ενδέχεται να προκαλέσει αποτυχία του DevTools. Παρακαλούμε ενημερώστε το συνδεδεμένο πρόγραμμα περιήγησης. <a>Αντιμετώπιση προβλημάτων</a>
+# Dedicated message for a backward compatibility issue that occurs when connecting:
+# - from Fx 67 to 66 or to 65
+# - from Fx 68 to 66
+# Those are normally in range for DevTools compatibility policy, but specific non
+# backward compatible changes broke the debugger in those scenarios (Bug 1528219).
+# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
+about-debugging-browser-version-too-old-67-debugger = Η καρτέλα "Αποσφαλμάτωση" ενδέχεται να μην λειτουργεί με το συνδεδεμένο πρόγραμμα περιήγησης. Παρακαλούμε χρησιμοποιήστε το Firefox { $runtimeVersion } αν πρέπει να χρησιμοποιήσετε την αποσφαλμάτωση με αυτό το πρόγραμμα περιήγησης.
+# This string is displayed in the runtime page if the remote browser version is too recent.
+# "Troubleshooting" link points to https://developer.mozilla.org/en-US/docs/Tools/WebIDE/Troubleshooting
+# { $runtimeID } is the build ID of the remote browser (for instance "20181231", format is yyyyMMdd)
+# { $localID } is the build ID of the current Firefox instance (same format)
+# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
+# { $localVersion } is the version of your current browser (same format)
+about-debugging-browser-version-too-recent = Το συνδεδεμένο πρόγραμμα περιήγησης είναι πιο πρόσφατο ({ $runtimeVersion }, buildID { $runtimeID }) από το { -brand-shorter-name } ({ $localVersion }, buildID { $localID }) σας. Πρόκειται για μη υποστηριζόμενη ρύθμιση και ενδέχεται να προκαλέσει αποτυχία του DevTools. Παρακαλούμε ενημερώστε το Firefox. <a>Αντιμετώπιση προβλημάτων</a>
 # Displayed for runtime info in runtime pages.
 # { $name } is brand name such as "Firefox Nightly"
 # { $version } is version such as "64.0a1"
@@ -148,6 +201,8 @@ about-debugging-connection-prompt-enable-button = Ενεργοποίηση πρ�
 # Text of the connection prompt button displayed in Runtime pages, when the preference
 # "devtools.debugger.prompt-connection" is true on the target runtime.
 about-debugging-connection-prompt-disable-button = Απενεργοποίηση προτροπής σύνδεσης
+# Title of a modal dialog displayed on remote runtime pages after clicking on the Profile Runtime button.
+about-debugging-profiler-dialog-title = Profiler επιδόσεων
 # Label of a checkbox displayed in the runtime page for "This Firefox".
 # This checkbox will toggle preferences that enable local addon debugging.
 # The "Learn more" link points to MDN.
