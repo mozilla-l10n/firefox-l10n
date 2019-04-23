@@ -204,7 +204,7 @@ cert-with-serial =
 cert-viewer-title =
     .title = Trình xem chứng chỉ: “{ $certName }”
 not-present =
-    .value = <Không thuộc Chứng chỉ>
+    .value = <Không là một phần của chứng chỉ>
 # Cert verification
 cert-verified = Chứng chỉ này đã được xác minh cho những mục đích sau:
 # Add usage

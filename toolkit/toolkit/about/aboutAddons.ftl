@@ -57,10 +57,10 @@ cmd-preferences =
            *[other] P
         }
 cmd-enable-theme =
-    .label = Sử dụng giao diện
+    .label = Sử dụng chủ đề
     .accesskey = W
 cmd-disable-theme =
-    .label = Dừng sử dụng giao diện
+    .label = Dừng sử dụng chủ đề
     .accesskey = W
 cmd-install-addon =
     .label = Cài đặt
@@ -70,7 +70,7 @@ cmd-contribute =
     .accesskey = C
     .tooltiptext = Đóng góp vào sự phát triển của tiện ích này
 discover-title = Tiện ích là gì?
-discover-description = Tiện ích là những ứng dụng cho phép bạn cá nhân hóa { -brand-short-name } bằng kiểu dáng hoặc chức năng phụ. Hãy thử một thanh lề tiết kiệm thời gian, một trình báo thời tiết, hoặc một giao diện để biến { -brand-short-name } thành của riêng bạn.
+discover-description = Tiện ích là những ứng dụng cho phép bạn cá nhân hóa { -brand-short-name } bằng kiểu dáng hoặc chức năng phụ. Hãy thử một thanh lề tiết kiệm thời gian, một trình báo thời tiết, hoặc một chủ đề để biến { -brand-short-name } thành của riêng bạn.
 discover-footer = Khi bạn kết nối mạng, bảng này sẽ giới thiệu một số tiện ích tốt nhất và thông dụng nhất để bạn thử.
 detail-version =
     .label = Phiên bản
