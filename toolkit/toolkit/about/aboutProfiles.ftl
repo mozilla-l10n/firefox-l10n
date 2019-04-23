@@ -8,6 +8,10 @@ profiles-create = Жаңа профильді жасау
 profiles-restart-title = Қайта қосу
 profiles-restart-in-safe-mode = Сөндірілген қосымшалармен қайта қосу…
 profiles-restart-normal = Қалыпты қайта қосу…
+profiles-flush-fail-title = Өзгерістер сақталмады
+profiles-flush-conflict = { profiles-conflict }
+profiles-flush-failed = Күтпеген қате өзгерістерді сақтауға жол бермеді.
+profiles-flush-restart-button = { -brand-short-name } қайта іске қосу
 # Variables:
 #   $name (String) - Name of the profile
 profiles-name = Профиль: { $name }
