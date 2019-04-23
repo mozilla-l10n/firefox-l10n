@@ -9,6 +9,9 @@ process-type-privileged = Ayrıcalıklı içerik
 process-type-extension = Eklenti
 # process used to open file:// URLs
 process-type-file = Yerel dosya
+# process used to isolate webpages that requested special
+# permission to allocate large amounts of memory
+process-type-weblargeallocation = Büyük tahsis
 # process used to communicate with the GPU for
 # graphics acceleration
 process-type-gpu = GPU
