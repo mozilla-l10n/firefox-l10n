@@ -8,7 +8,10 @@ profiles-create = Yeni profil oluştur
 profiles-restart-title = Yeniden başlat
 profiles-restart-in-safe-mode = Eklentileri devre dışı bırakıp yeniden başlat…
 profiles-restart-normal = Normal şekilde yeniden başlat…
+profiles-conflict = Başka bir { -brand-product-name } kopyası profillerde değişiklik yaptı. Daha fazla değişiklik yapmadan önce { -brand-short-name } tarayıcınızı yeniden başlatmalısınız.
 profiles-flush-fail-title = Değişiklikler kaydedilmedi
+profiles-flush-conflict = { profiles-conflict }
+profiles-flush-failed = Beklenmeyen bir hata nedeniyle değişiklikleriniz kaydedilemedi.
 profiles-flush-restart-button = { -brand-short-name } tarayıcısını yeniden başlat
 # Variables:
 #   $name (String) - Name of the profile
