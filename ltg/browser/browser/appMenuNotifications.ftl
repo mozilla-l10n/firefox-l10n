@@ -25,4 +25,16 @@ appmenu-update-restart =
     .secondarybuttonlabel = Na tagad
     .secondarybuttonaccesskey = N
 appmenu-update-restart-message = After a quick restart, { -brand-shorter-name } will restore all your open tabs and windows that are not in Private Browsing mode.
+appmenu-addon-private-browsing-installed =
+    .buttonlabel = Skaidrs, saprotu
+    .buttonaccesskey = S
 appmenu-addon-post-install-message = Prvoldi sovus paplašinojumus damīdzūt <image data-l10n-name='addon-install-icon'></image> <image data-l10n-name='addon-menu-icon'></image> izvieļnī.
+appmenu-addon-post-install-incognito-checkbox =
+    .label = Atļaut itam paplašinojumam pasaist privatūs lūgus
+    .accesskey = A
+appmenu-addon-private-browsing =
+    .label = Izmaiņas paplašinojumim privatajūs lūgūs
+    .buttonlabel = Porvaļdēt paplašinojumus
+    .buttonaccesskey = P
+    .secondarybuttonlabel = Skaidrs, saprotu
+    .secondarybuttonaccesskey = S
