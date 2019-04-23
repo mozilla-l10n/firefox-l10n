@@ -45,7 +45,7 @@ about-debugging-sidebar-item-connect-button-connecting = Menyambungkan…
 about-debugging-sidebar-item-connect-button-connection-failed = Sambungan gagal
 # Text displayed in connection warning on sidebar item of the runtime when connecting to
 # the runtime is taking too much time.
-about-debugging-sidebar-item-connect-button-connection-not-responding = Sambungan masih tertunda, memeriksa pesan pada target peramban
+about-debugging-sidebar-item-connect-button-connection-not-responding = Sambungan masih tertunda, periksa pesan pada target peramban
 # Text displayed as connection error in sidebar item when the connection has timed out.
 about-debugging-sidebar-item-connect-button-connection-timeout = Tenggang waktu sambungan habis
 # Temporary text displayed in sidebar items representing remote runtimes after
@@ -157,7 +157,7 @@ about-debugging-runtime-profile-button = Runtime Profil
 # This string is displayed in the runtime page if the current configuration of the
 # target runtime is incompatible with service workers. "Learn more" points to MDN.
 # https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
-about-debugging-runtime-service-workers-not-compatible = Konfigurasi peramban Anda tidak kompatibel dengan Service Worker.<a>Pelajari lebih lanjut</a>
+about-debugging-runtime-service-workers-not-compatible = Konfigurasi peramban Anda tidak kompatibel dengan Service Worker. <a>Pelajari lebih lanjut</a>
 # Displayed for runtime info in runtime pages.
 # { $name } is brand name such as "Firefox Nightly"
 # { $version } is version such as "64.0a1"

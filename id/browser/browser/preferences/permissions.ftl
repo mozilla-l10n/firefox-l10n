@@ -52,7 +52,7 @@ permissions-capabilities-listitem-allow-session =
 ## Invalid Hostname Dialog
 
 permissions-invalid-uri-title = Nama host yang Anda masukkan salah
-permissions-invalid-uri-label = Mohon masukkan nama hos yang valid
+permissions-invalid-uri-label = Mohon masukkan nama host yang valid
 
 ## Exceptions - Tracking Protection
 
