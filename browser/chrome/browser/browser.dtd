@@ -260,6 +260,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      these two strings are used when right-clicking on a video in the
      content area when the Picture-in-Picture feature is enabled. -->
 <!ENTITY pictureInPicture.label "Gambar-di-dalam-gambar">
+<!ENTITY pictureInPicture.accesskey "u">
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
@@ -1106,6 +1107,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.acceptButton.accesskey "D">
 <!ENTITY updateAvailable.cancelButton.label "Jangan Sekarang">
 <!ENTITY updateAvailable.cancelButton.accesskey "N">
+
 <!ENTITY updateAvailable.panelUI.label "Unduh pemutakhiran &brandShorterName;">
 
 <!ENTITY updateManual.message "Unduh salinan segar dari &brandShorterName; dan kami akan membantu Anda untuk memasangnya.">
@@ -1167,6 +1169,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Kelola pengaya Anda dengan mengeklik <image class='addon-addon-icon'/>di<image class='addon-toolbar-icon'/> menu.">
 <!ENTITY addonPostInstall.incognito.checkbox.label "Izinkan ekstensi ini untuk berjalan di Jendela Pribadi">
+<!ENTITY addonPostInstall.incognito.checkbox.accesskey "A">
 
 <!ENTITY addonPrivateBrowsing.header2.label "Ubah ke ekstensi pada Jendela Pribadi">
 <!ENTITY addonPrivateBrowsing.body2.label "Semua ekstensi baru yang Anda tambahkan ke &brandShorterName; tidak akan berjalan di Jendela Pribadi kecuali Anda mengizinkannya di peraturan.">
