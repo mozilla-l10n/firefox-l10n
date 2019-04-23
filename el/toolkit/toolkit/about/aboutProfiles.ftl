@@ -8,8 +8,10 @@ profiles-create = Δημιουργία νέου προφίλ
 profiles-restart-title = Επανεκκίνηση
 profiles-restart-in-safe-mode = Επανεκκίνηση με τα πρόσθετα απενεργοποιημένα…
 profiles-restart-normal = Κανονική επανεκκίνηση…
+profiles-conflict = Ένα άλλο αντίγραφο του { -brand-product-name } έχει κάνει αλλαγές στα προφίλ. Πρέπει να επανεκκινήσετε το { -brand-short-name } πριν κάνετε περισσότερες αλλαγές.
 profiles-flush-fail-title = Μη αποθηκευμένες αλλαγές
 profiles-flush-conflict = { profiles-conflict }
+profiles-flush-failed = Ένα μη αναμενόμενο σφάλμα εμπόδισε την αποθήκευση των αλλαγών σας.
 profiles-flush-restart-button = Επανεκκίνηση του { -brand-short-name }
 # Variables:
 #   $name (String) - Name of the profile
@@ -29,6 +31,8 @@ profiles-rename = Μετονομασία
 profiles-remove = Αφαίρεση
 profiles-set-as-default = Ορισμός ως προεπιλεγμένο προφίλ
 profiles-launch-profile = Εκκίνηση προφίλ σε νέο πρόγραμμα περιήγησης
+profiles-cannot-set-as-default-title = Αδυναμία ορισμού προεπιλογής
+profiles-cannot-set-as-default-message = Το προεπιλεγμένο προφίλ δεν μπορεί να αλλάξει για το { -brand-short-name }.
 profiles-yes = ναι
 profiles-no = όχι
 profiles-rename-profile-title = Μετονομασία προφίλ

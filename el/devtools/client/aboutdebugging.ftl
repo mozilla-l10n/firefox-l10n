@@ -10,6 +10,9 @@
 
 # Page title (ie tab title) for the Setup page
 about-debugging-page-title-setup-page = Αποσφαλμάτωση - Ρύθμιση
+# Page title (ie tab title) for the Runtime page
+# { $selectedRuntimeId } is the id of the current runtime, such as "this-firefox", "localhost:6080", ...
+about-debugging-page-title-runtime-page = Αποσφαλμάτωση - Εκτέλεση/{ $selectedRuntimeId }
 
 # Sidebar strings
 
@@ -43,6 +46,8 @@ about-debugging-sidebar-item-connect-button-connection-failed = Αποτυχία
 # Text displayed in connection warning on sidebar item of the runtime when connecting to
 # the runtime is taking too much time.
 about-debugging-sidebar-item-connect-button-connection-not-responding = Η σύνδεση εκκρεμεί ακόμη, ελέγξτε για μηνύματα στο πρόγραμμα περιήγησης προορισμού
+# Text displayed as connection error in sidebar item when the connection has timed out.
+about-debugging-sidebar-item-connect-button-connection-timeout = Το χρονικό όριο σύνδεσης έληξε
 # Temporary text displayed in sidebar items representing remote runtimes after
 # successfully connecting to them. Temporary UI, do not localize.
 about-debugging-sidebar-item-connected-label = Συνδέθηκε
@@ -50,6 +55,9 @@ about-debugging-sidebar-item-connected-label = Συνδέθηκε
 # Firefox) has not been detected yet. Typically, Android phones connected via USB with
 # USB debugging enabled, but where Firefox is not started.
 about-debugging-sidebar-runtime-item-waiting-for-browser = Αναμονή για το πρόγραμμα περιήγησης…
+# Text displayed in sidebar items for remote devices that have been disconnected from the
+# computer.
+about-debugging-sidebar-runtime-item-unplugged = Αποσυνδέθηκε
 # Title for runtime sidebar items that are related to a specific device (USB, WiFi).
 about-debugging-sidebar-runtime-item-name =
     .title = { $displayName } ({ $deviceName })
@@ -140,6 +148,11 @@ about-debugging-connection-prompt-enable-button = Ενεργοποίηση πρ�
 # Text of the connection prompt button displayed in Runtime pages, when the preference
 # "devtools.debugger.prompt-connection" is true on the target runtime.
 about-debugging-connection-prompt-disable-button = Απενεργοποίηση προτροπής σύνδεσης
+# Label of a checkbox displayed in the runtime page for "This Firefox".
+# This checkbox will toggle preferences that enable local addon debugging.
+# The "Learn more" link points to MDN.
+# https://developer.mozilla.org/docs/Tools/about:debugging#Enabling_add-on_debugging
+about-debugging-extension-debug-setting-label = Ενεργοποίηση αποσφαλμάτωσης επέκτασης. <a>Μάθετε περισσότερα</a>
 # Clicking on the header of a debug target category will expand or collapse the debug
 # target items in the category. This text is used as ’title’ attribute of the header,
 # to describe this feature.
@@ -157,12 +170,21 @@ about-debugging-debug-target-inspect-button = Επιθεώρηση
 # Text of a button displayed in the "This Firefox" page, in the Temporary Extension
 # section. Clicking on the button will open a file picker to load a temporary extension
 about-debugging-tmp-extension-install-button = Φόρτωση προσωρινού προσθέτου…
+# Text displayed when trying to install a temporary extension in the "This Firefox" page.
+about-debugging-tmp-extension-install-error = Προέκυψε σφάλμα κατά την εγκατάσταση προσωρινού προσθέτου.
 # Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
 # Clicking on the button will reload the extension.
 about-debugging-tmp-extension-reload-button = Ανανέωση
 # Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
 # Clicking on the button will uninstall the extension and remove it from the page.
 about-debugging-tmp-extension-remove-button = Αφαίρεση
+# Message displayed in the file picker that opens to select a temporary extension to load
+# (triggered by the button using "about-debugging-tmp-extension-install-button")
+# manifest.json .xpi and .zip should not be localized.
+# Note: this message is only displayed in Windows and Linux platforms.
+about-debugging-tmp-extension-install-message = Επιλέξτε αρχείο manifest.json ή συμπιεσμένο αρχείο .xpi/.zip
+# This string is displayed as a message about the add-on having a temporaryID.
+about-debugging-tmp-extension-temporary-id = Αυτό το WebExtension έχει προσωρινό ID. <a>Μάθετε περισσότερα</a>
 # Text displayed for extensions in "runtime" pages, before displaying a link the extension's
 # manifest URL.
 about-debugging-extension-manifest-url =
@@ -188,6 +210,14 @@ about-debugging-worker-action-push = Push
 about-debugging-worker-action-start = Έναρξη
 # This string is displayed as a label of the button that unregisters a service worker.
 about-debugging-worker-action-unregister = Κατάργηση εγγραφής
+# Displayed for service workers in runtime pages that listen to Fetch events.
+about-debugging-worker-fetch-listening =
+    .label = Λήψη
+    .value = Ακρόαση για γεγονότα λήψης
+# Displayed for service workers in runtime pages that do not listen to Fetch events.
+about-debugging-worker-fetch-not-listening =
+    .label = Λήψη
+    .value = Χωρίς ακρόαση για γεγονότα λήψης
 # Displayed for service workers in runtime pages that are currently running (service
 # worker instance is active).
 about-debugging-worker-status-running = Εκτελείται

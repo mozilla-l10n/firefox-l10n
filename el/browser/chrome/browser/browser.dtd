@@ -1172,6 +1172,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addonPostInstall.incognito.checkbox.accesskey "Ν">
 
 <!ENTITY addonPrivateBrowsing.header2.label "Αλλαγή σε επεκτάσεις ιδιωτικών παραθύρων">
+<!ENTITY addonPrivateBrowsing.body2.label "Τυχόν νέες επεκτάσεις που προσθέτετε στο &brandShorterName; δεν θα λειτουργούν στα ιδιωτικά παράθυρα, εκτός κι αν το επιτρέψετε στις ρυθμίσεις.">
 <!ENTITY addonPrivateBrowsing.learnMore.label "Μάθετε πώς να διαχειρίζεστε τις ρυθμίσεις επεκτάσεων">
 <!ENTITY addonPrivateBrowsing.okButton.label "Εντάξει, το 'πιασα">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "Ε">
