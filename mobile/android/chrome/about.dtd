@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY aboutPage.title                        "Thông tin về &brandShortName;">
-<!ENTITY aboutPage.warningVersion               "&brandShortName; đang được thử nghiệm và có thể không ổn định.">
+<!ENTITY aboutPage.warningVersion               "&brandShortName; thiết kế để thử nghiệm và có thể không ổn định.">
 <!ENTITY aboutPage.checkForUpdates.link         "Kiểm tra cập nhật »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Đang tìm các cập nhật…">
 <!ENTITY aboutPage.checkForUpdates.none         "Không có cập nhật">
