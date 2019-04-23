@@ -56,6 +56,16 @@ about-telemetry-upload-type =
         [enabled] tzijon
        *[disabled] chupun
     }
+# Example Output: 1 sample, average = 0, sum = 0
+# Variables:
+#   $sampleCount (Integer): amount of histogram samples
+#   $prettyAverage (Integer): average of histogram samples
+#   $sum (Integer): sum of histogram samples
+about-telemetry-histogram-stats =
+    { $sampleCount ->
+        [one] { $sampleCount } tz'etb'äl, rukojol = { $prettyAverage }, tunuj = { $sum }
+       *[other] { $sampleCount } taq tz'etb'äl, rukojol = { $prettyAverage }, tunuj = { $sum }
+    }
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = Re ruxaq k'amaya'l re' nuk'utub'ej taq etamab'äl pa ruwi' ri rub'eyal nisamäj, ch'akulakem, rokisaxik chuqa' taq richinaxik emolon ruma ri Telemetry. Re etamab'äl re' nitaq pa { $telemetryServerOwner } richin nuto' rutzil ri { -brand-full-name }.
@@ -125,5 +135,9 @@ about-telemetry-category-header = ruwäch
 about-telemetry-method-header = b'eyal
 about-telemetry-object-header = wachinäq
 about-telemetry-extra-header = rutz'aqat
+about-telemetry-origin-section = Ruxe'el Telemetri
 about-telemetry-origin-origin = ruxe'el
 about-telemetry-origin-count = tajiläx
+# Variables:
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link">Firefox Origin Telemetri</a> ke'awewaj kisik'ixik taq tzij chuwäch yetaq richin chi ri { $telemetryServerOwner } nitikïr yerajilaj taq wachinäq, po man etaman ta we k'o jun { -brand-product-name } ri xto'on pa ri ajilanem ri'. (<a data-l10n-name="prio-blog-link">Tetamäx ch'aqa' chik</a>)

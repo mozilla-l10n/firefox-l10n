@@ -98,6 +98,9 @@ detail-private-browsing-description2 = Toq xtiya' q'ij, ri k'amal xtok pa ri asa
 # cannot be overriden by the user.
 detail-private-disallowed-label = Man ya'on ta q'ij pan Ichinan Tzuwäch
 detail-private-disallowed-description = Man nisamäj ta pa ichinan okem pa k'amaya'l re k'amal re'. <label data-l10n-name="detail-private-browsing-learn-more">Tetamäx ch'aqa' chik</label>
+# Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
+detail-private-required-label = Nrajo' Okem pa Ichinan Tzuwäch
+detail-private-required-description = Re k'amal re' nok pan taq asamaj richin k'amab'ey toq atokinäq pan ichinan okem pa k'amaya'l. <label data-l10n-name="detail-private-browsing-learn-more">Tetamäx ch'aqa' chik</label>
 detail-private-browsing-on =
     .label = Tiya' q'ij
     .tooltiptext = Titz'ij pa Ichinan Okem pa K'amaya'l
@@ -248,6 +251,10 @@ shortcuts-modifier-other = Titz'aqatisäx Ctrl o Alt
 shortcuts-invalid = Man okel ta ri tunuj
 shortcuts-letter = Tatz'ib'aj jun tz'ib'
 shortcuts-system = Man yatikïr ta nayüj jun { -brand-short-name } chojokem
+# String displayed when a keyboard shortcut is already used by another add-on
+# Variables:
+#   $addon (string) - Name of the add-on
+shortcuts-exists = Okisan chik ruma { $addon }
 shortcuts-card-expand-button =
     { $numberToShow ->
         [one] Tik'ut { $numberToShow } Ch'aqa' Chik
@@ -270,3 +277,15 @@ addon-detail-version-label = Ruwäch
 addon-detail-last-updated-label = Ruk'isib'äl K'exoj
 addon-detail-homepage-label = Ruxaq tikirib'äl
 addon-detail-rating-label = Kejqalem
+# This string is used to show that an add-on is disabled.
+# Variables:
+#   $name (string) - The name of the add-on
+addon-name-disabled = { $name } (chupun)
+# The number of reviews that an add-on has received on AMO.
+# Variables:
+#   $numberOfReviews (number) - The number of reviews received
+addon-detail-reviews-link =
+    { $numberOfReviews ->
+        [one] { $numberOfReviews } nik'oj
+       *[other] { $numberOfReviews } taq nik'oj
+    }

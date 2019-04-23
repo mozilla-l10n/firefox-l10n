@@ -8,6 +8,11 @@ profiles-create = Tinuk' jun k'ak'a' ruwäch b'i'aj
 profiles-restart-title = Titikirisäx chik
 profiles-restart-in-safe-mode = Titikirisäx chik kik'in ri chupül taq tz'aqat…
 profiles-restart-normal = Titikirisäx chik achi'el jantape'…
+profiles-conflict = Jun chik ruwachib'al { -brand-product-name } xerujäl ri taq ruwäch b'i'aj. K'o chi nitikirisäx chik { -brand-short-name } chuwäch ye'ab'äl ch'aqa' chik taq jaloj.
+profiles-flush-fail-title = Man eyakon ta ri taq jaloj
+profiles-flush-conflict = { profiles-conflict }
+profiles-flush-failed = Jun man oyob'en ta sachoj xub'än chi man xeyak ta ri taq jaloj.
+profiles-flush-restart-button = Titikirisäx chik { -brand-short-name }
 # Variables:
 #   $name (String) - Name of the profile
 profiles-name = Ruwäch b'i'aj: { $name }
