@@ -8,12 +8,23 @@
 
 # Page Title strings
 
+# Page title (ie tab title) for the Setup page
+about-debugging-page-title-setup-page = Адладка - Усталёўка
+# Page title (ie tab title) for the Runtime page
+# { $selectedRuntimeId } is the id of the current runtime, such as "this-firefox", "localhost:6080", ...
+about-debugging-page-title-runtime-page = Адладка - Асяроддзе / { $selectedRuntimeId }
 
 # Sidebar strings
 
+# Display name of the runtime for the currently running instance of Firefox. Used in the
+# Sidebar and in the Setup page.
+about-debugging-this-firefox-runtime-name = Гэта { -brand-shorter-name }
 # Sidebar heading for selecting the currently running instance of Firefox
 about-debugging-sidebar-this-firefox =
     .name = { about-debugging-this-firefox-runtime-name }
+# Sidebar heading for connecting to some remote source
+about-debugging-sidebar-setup =
+    .name = Усталяванне
 # Text displayed in the about:debugging sidebar when USB devices discovery is enabled.
 about-debugging-sidebar-usb-enabled = USB уключана
 # Text displayed in the about:debugging sidebar when USB devices discovery is disabled
@@ -52,6 +63,8 @@ about-debugging-refresh-usb-devices-button = Абнавіць спіс прыл�
 
 # Setup Page strings
 
+# Title of the Setup page.
+about-debugging-setup-title = Усталёўка
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = Падключыць прыладу
 # USB section of the Setup page
@@ -77,6 +90,26 @@ about-debugging-network-locations-add-button = Дадаць
 
 # Runtime Page strings
 
+# Below are the titles for the various categories of debug targets that can be found
+# on "runtime" pages of about:debugging.
+# Title of the temporary extensions category (only available for "This Firefox" runtime).
+about-debugging-runtime-temporary-extensions =
+    .name = Тымчасовыя пашырэнні
+# Title of the extensions category.
+about-debugging-runtime-extensions =
+    .name = Пашырэнні
+# Title of the tabs category.
+about-debugging-runtime-tabs =
+    .name = Карткі
+# Title of the service workers category.
+about-debugging-runtime-service-workers =
+    .name = Service Workers
+# Title of the shared workers category.
+about-debugging-runtime-shared-workers =
+    .name = Абагуленыя Workers
+# Title of the other workers category.
+about-debugging-runtime-other-workers =
+    .name = Іншыя Workers
 # Title of the processes category.
 about-debugging-runtime-processes =
     .name = Працэсы
@@ -87,6 +120,12 @@ about-debugging-runtime-name = { $name } ({ $version })
 # Text of a button displayed in Runtime pages for remote runtimes.
 # Clicking on the button will close the connection to the runtime.
 about-debugging-runtime-disconnect-button = Адлучыцца
+# Text of the connection prompt button displayed in Runtime pages, when the preference
+# "devtools.debugger.prompt-connection" is false on the target runtime.
+about-debugging-connection-prompt-enable-button = Уключыць запыт на падлучэнне
+# Text of the connection prompt button displayed in Runtime pages, when the preference
+# "devtools.debugger.prompt-connection" is true on the target runtime.
+about-debugging-connection-prompt-disable-button = Выключыць запыт на падключэнне
 
 # Debug Targets strings
 
