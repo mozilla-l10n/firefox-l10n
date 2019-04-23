@@ -856,7 +856,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY activity_stream_topsites "Các trang vào nhiều nhất">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
-<!ENTITY activity_stream_topstories "Khuyên dùng bởi &brandPocket;">
+<!ENTITY activity_stream_topstories "Được đề xuất bởi &brandPocket;">
 <!ENTITY activity_stream_highlights "Nổi bật">
 
 <!-- LOCALIZATION NOTE (activity_stream_link_more1): Link-like text displayed to take user to a website with more content from Pocket. -->
