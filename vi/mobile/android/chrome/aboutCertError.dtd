@@ -22,7 +22,7 @@ was trying to connect. -->
 <!ENTITY certerror.whatShouldIDo.content "Nếu bạn thường kết nối tới trang này mà không gặp vấn đề gì, lỗi này có thể là do ai đó đang cố gắng mạo danh trang này, và bạn không nên tiếp tục nữa.">
 <!ENTITY certerror.getMeOutOfHere.label "Đưa tôi ra khỏi đây!">
 
-<!ENTITY certerror.expert.heading "Tôi Hiểu Về Các Nguy Cơ">
+<!ENTITY certerror.expert.heading "Tôi hiểu các nguy cơ">
 <!ENTITY certerror.expert.content "Nếu bạn hiểu điều gì đang xảy ra, bạn có thể yêu cầu &brandShortName; tin tưởng định danh của trang này. <b>Cho dù bạn tin tưởng trang web này, lỗi này cũng vẫn có thể là do ai đó đang cố tác động tới kết nối của bạn.</b>">
 <!ENTITY certerror.expert.contentPara2 "Đừng thêm ngoại lệ trừ khi bạn biết lí do đúng đắn khiến trang này không dùng định danh đáng tin cậy.">
 <!ENTITY certerror.addTemporaryException.label "Truy cập trang">
