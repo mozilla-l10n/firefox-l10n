@@ -394,7 +394,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newPrivateWindow.label     "Bagong Private Window">
 <!ENTITY newPrivateWindow.accesskey "W">
 
-<!ENTITY editMenu.label         "i-Edit">
+<!ENTITY editMenu.label         "Edit">
 <!ENTITY editMenu.accesskey       "E">
 <!ENTITY undoCmd.label            "i-Undo">
 <!ENTITY undoCmd.key            "Z">
@@ -1066,6 +1066,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.acceptButton.accesskey "D">
 <!ENTITY updateAvailable.cancelButton.label "Wag muna">
 <!ENTITY updateAvailable.cancelButton.accesskey "N">
+
 <!ENTITY updateAvailable.panelUI.label "I-download ang &brandShorterName; na pagbabago">
 
 <!ENTITY updateManual.message "Mag-download ng bagong kopya ng &brandShorterName; at tutulungan ka namin i-install ito.">
