@@ -976,12 +976,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.titlebar "Thanh tiêu đề">
 <!ENTITY customizeMode.extraDragSpace "Kéo khoảng trắng">
 <!ENTITY customizeMode.toolbars2 "Thanh công cụ">
-<!ENTITY customizeMode.lwthemes "Giao diện">
-<!ENTITY customizeMode.lwthemes.myThemes "Giao diện của tôi">
+<!ENTITY customizeMode.lwthemes "Chủ đề">
+<!ENTITY customizeMode.lwthemes.myThemes "Chủ đề của tôi">
 <!ENTITY customizeMode.lwthemes.recommended "Khuyên dùng">
 <!ENTITY customizeMode.lwthemes.menuManage "Quản lý">
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
-<!ENTITY customizeMode.lwthemes.menuGetMore "Tải thêm các giao diện">
+<!ENTITY customizeMode.lwthemes.menuGetMore "Tải thêm các chủ đề">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
 <!ENTITY customizeMode.overflowList.title2 "Bảng chọn">
 <!ENTITY customizeMode.overflowList.description "Kéo và thả các mục vào đây để dễ sử dụng chúng và nó sẽ nằm ngoài thanh công cụ của bạn…">

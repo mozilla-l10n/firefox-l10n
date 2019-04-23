@@ -182,7 +182,7 @@ containers-remove-cancel-button = Không xóa ngăn chứa này
 
 ## General Section - Language & Appearance
 
-language-and-appearance-header = Ngôn ngữ và giao diện
+language-and-appearance-header = Ngôn ngữ và chủ đề
 fonts-and-colors-header = Phông & Màu sắc
 default-font = Phông mặc định
     .accesskey = D
