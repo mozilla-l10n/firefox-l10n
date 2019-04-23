@@ -8,6 +8,11 @@ profiles-create = Új profil létrehozása
 profiles-restart-title = Újraindítás
 profiles-restart-in-safe-mode = Újraindítás letiltott kiegészítőkkel…
 profiles-restart-normal = Normál újraindítás…
+profiles-conflict = A { -brand-product-name } másik példánya módosította a profilokat. A további változtatások előtt újra kell indítania a { -brand-short-name }ot.
+profiles-flush-fail-title = A módosítások nincsenek mentve
+profiles-flush-conflict = { profiles-conflict }
+profiles-flush-failed = Egy váratlan hiba megakadályozta a módosítások mentését.
+profiles-flush-restart-button = A { -brand-short-name } újraindítása
 # Variables:
 #   $name (String) - Name of the profile
 profiles-name = Profil: { $name }
