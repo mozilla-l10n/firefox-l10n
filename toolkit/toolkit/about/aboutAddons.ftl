@@ -94,6 +94,13 @@ detail-update-manual =
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Suoritus yksityisissä ikkunoissa
 detail-private-browsing-description2 = Kun sallittu, tällä laajennuksella on pääsy verkossa tekemiisi asioihin yksityisissä ikkunoissa. <label data-l10n-name="detail-private-browsing-learn-more">Lue lisää</label>
+# Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
+# cannot be overriden by the user.
+detail-private-disallowed-label = Ei sallittu yksityisissä ikkunoissa
+detail-private-disallowed-description = Tätä laajennusta ei suoriteta yksityisissä ikkunoissa. <label data-l10n-name="detail-private-browsing-learn-more">Lue lisää</label>
+# Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
+detail-private-required-label = Vaatii pääsyn yksityisiin ikkunoihin
+detail-private-required-description = Tällä laajennuksella on pääsy verkkotoimintaasi yksityisissä ikkunoissa. <label data-l10n-name="detail-private-browsing-learn-more">Lue lisää</label>
 detail-private-browsing-on =
     .label = Salli
     .tooltiptext = Ota käyttöön yksityisessä selauksessa
@@ -142,6 +149,9 @@ legacy-warning-show-legacy = Näytä perinteiset laajennukset
 legacy-extensions =
     .value = Perinteiset laajennukset
 legacy-extensions-description = Nämä laajennukset eivät täytä { -brand-short-name }in nykyisiä vaatimuksia, joten ne on poistettu käytöstä. <label data-l10n-name="legacy-learn-more">Lue lisää muutoksista lisäosiin</label>
+private-browsing-description2 =
+    { -brand-short-name }-laajennusten toiminta yksityisissä ikkunoissa muuttuu. Uutena { -brand-short-name }iin lisättyjä laajennuksia ei enää suoriteta oletuksena yksityisissä ikkunoissa. Jos et salli suorittamista asetuksista, laajennus ei toimi yksityisen selaamisen aikana eikä siten sinä aikana pääse käsiksi tekemisiisi verkossa. Olemme tehneet tämän muutoksen, jotta yksityinen selaus pysyy yksityisenä.
+    <label data-l10n-name="private-browsing-learn-more">Lue lisää kuinka hallita laajennusten asetuksia</label>
 extensions-view-discover =
     .name = Lataa lisäosia
     .tooltiptext = { extensions-view-discover.name }
@@ -238,6 +248,10 @@ shortcuts-modifier-other = Paina Ctrl- tai Alt-näppäintä
 shortcuts-invalid = Virheellinen yhdistelmä
 shortcuts-letter = Kirjoita kirjain
 shortcuts-system = { -brand-short-name }-pikanäppäintä ei voi korvata
+# String displayed when a keyboard shortcut is already used by another add-on
+# Variables:
+#   $addon (string) - Name of the add-on
+shortcuts-exists = { $addon } käyttää tätä jo
 shortcuts-card-expand-button =
     { $numberToShow ->
         [one] Näytä { $numberToShow } lisää
