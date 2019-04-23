@@ -98,6 +98,7 @@ detail-update-manual =
     .tooltiptext = Να μην γίνεται αυτόματη εγκατάσταση ενημερώσεων
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Εκτέλεση σε ιδιωτικά παράθυρα
+detail-private-browsing-description2 = Αν της επιτραπεί, αυτή η επέκταση θα έχει πρόσβαση στις διαδικτυακές σας δραστηριότητες κατά την ιδιωτική περιήγηση. <label data-l10n-name="detail-private-browsing-learn-more">Μάθετε περισσότερα</label>
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overriden by the user.
 detail-private-disallowed-label = Δεν επιτρέπεται στα ιδιωτικά παράθυρα
@@ -153,6 +154,11 @@ legacy-warning-show-legacy = Εμφάνιση επεκτάσεων παλαιο�
 legacy-extensions =
     .value = Επεκτάσεις παλαιού τύπου
 legacy-extensions-description = Αυτές οι επεκτάσεις δεν πληρούν τα τρέχοντα κριτήρια του { -brand-short-name }, επομένως έχουν απενεργοποιηθεί. <label data-l10n-name="legacy-learn-more">Μάθετε σχετικά με τις αλλαγές στα πρόσθετα</label>
+private-browsing-description2 =
+    Το { -brand-short-name } αλλάζει τον τρόπο λειτουργίας των επεκτάσεων στην ιδιωτική περιήγηση. Τυχόν νέες επεκτάσεις που προσθέτετε στο
+    { -brand-short-name } δεν θα εκτελούνται από προεπιλογή στα ιδιωτικά παράθυρα. Αν δεν το επιτρέψετε στις ρυθμίσεις, η
+    επέκταση δεν θα λειτουργεί κατά την ιδιωτική περιήγηση και δεν θα έχει πρόσβαση στις διαδικτυακές σας δραστηριότητες εκεί. Έχουμε κάνει αυτή την αλλαγή για να παραμείνει η ιδιωτική σας περιήγηση ιδιωτική.
+    <label data-l10n-name="private-browsing-learn-more">Μάθετε πώς να διαχειριστείτε τις ρυθμίσεις επεκτάσεων</label>
 extensions-view-discover =
     .name = Λήψη προσθέτων
     .tooltiptext = { extensions-view-discover.name }
