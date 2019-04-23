@@ -249,5 +249,22 @@ go-back-button =
 remove-addon-button = Өшіру
 disable-addon-button = Сөндіру
 enable-addon-button = Іске қосу
+expand-addon-button = Көбірек опциялар
 addons-enabled-heading = Іске қосулы
 addons-disabled-heading = Сөндірілген
+addon-detail-author-label = Авторы
+addon-detail-version-label = Нұсқасы
+addon-detail-last-updated-label = Соңғы жаңартылған
+addon-detail-homepage-label = Үй парағы
+addon-detail-rating-label = Рейтингі
+# This string is used to show that an add-on is disabled.
+# Variables:
+#   $name (string) - The name of the add-on
+addon-name-disabled = { $name } (сөндірілген)
+# The number of reviews that an add-on has received on AMO.
+# Variables:
+#   $numberOfReviews (number) - The number of reviews received
+addon-detail-reviews-link =
+    { $numberOfReviews ->
+       *[other] { $numberOfReviews } пікір
+    }
