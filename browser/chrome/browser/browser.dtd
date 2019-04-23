@@ -64,6 +64,8 @@ but will never be visible at the same time. -->
 These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  bookmarkSelectedTabs.accesskey     "л">
 
+<!-- Tab context menu -->
+
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
@@ -358,7 +360,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBookmarksSidebar2.label        "Паказаць бакавую панэль закладак">
 <!ENTITY hideBookmarksSidebar.label         "Схаваць бакавую панэль закладак">
 <!ENTITY viewBookmarksToolbar.label         "Паказаць паліцу закладак">
-<!ENTITY hideBookmarksToolbar.label         "Схаваць бакавую панэль закладак">
+<!ENTITY hideBookmarksToolbar.label         "Схаваць паліцу закладак">
 <!ENTITY searchBookmarks.label              "Шукаць у закладках">
 <!ENTITY bookmarkingTools.label             "Прылады закладак">
 <!ENTITY addBookmarksMenu.label             "Дадаць меню закладак на паліцу прылад">
@@ -1105,6 +1107,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.acceptButton.accesskey "С">
 <!ENTITY updateAvailable.cancelButton.label "Не цяпер">
 <!ENTITY updateAvailable.cancelButton.accesskey "Н">
+
 <!ENTITY updateAvailable.panelUI.label "Сцягнуць абнаўленне &brandShorterName;">
 
 <!ENTITY updateManual.message "Сцягніце новую версію &brandShorterName; і мы дапаможам вам яе ўсталяваць.">
