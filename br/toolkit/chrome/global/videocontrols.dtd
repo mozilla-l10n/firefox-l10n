@@ -14,6 +14,10 @@
      accessibility software to clarify what the slider is for. -->
 <!ENTITY volumeScrubber.label "Riklell ampled">
 
+<!-- LOCALIZATION NOTE (pictureInPicture.label): This string is used as part of
+the Picture-in-Picture video toggle button when the mouse is hovering it. -->
+<!ENTITY pictureInPicture.label "Skeudenn-ouzh-skeudenn">
+
 <!ENTITY stats.media "Media">
 <!ENTITY stats.size "Ment">
 <!ENTITY stats.activity "Oberiantiz">

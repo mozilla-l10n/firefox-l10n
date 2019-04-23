@@ -669,6 +669,7 @@ addressbar-suggestions-settings = Kemmañ ar gwellvezioù evit ar c'hinnigoù lu
 
 content-blocking-header = Stankañ endalc'hadoù
 content-blocking-description = Stankañ endalc'hadoù an tredeoù a heuilh ac'hanoc'h etrezek ar web. Reoliañ kementad ho obererezh enlinenn a zo kadavet ha rannet etre al lec'hiennoù.
+content-blocking-section-description = Gwarezit ho puhez prevez pa verdeit. Stankit an endalc'hadoù diwelus a heuilh al lec'hiennoù a weladennit hag a sav un aelad diwar ho penn. Stankañ ul lodenn eus an endalc'had-mañ a c'hall lakaat ar pajennoù da gargañ buanoc'h.
 content-blocking-learn-more = Gouzout hiroc'h
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
