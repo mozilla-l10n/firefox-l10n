@@ -3,10 +3,8 @@
 # file, You can obtain one at http://mozilla-org/MPL/2-0/-
 
 crash-reports-title = Poročila o sesutjih
-clear-all-reports-label = Odstrani vsa poročila
 delete-button-label = Izbriši vse
 delete-confirm-title = Ali ste prepričani?
-delete-confirm-description = S tem boste izbrisali vsa poročila, česar ni mogoče razveljaviti.
 delete-unsubmitted-description = S tem boste izbrisali vsa neposlana poročila o sesutjih, česar ni mogoče razveljaviti.
 delete-submitted-description = S tem boste izbrisali seznam poslanih poročil o sesutjih, ne pa poslanih podatkov. Tega ni mogoče razveljaviti.
 crashes-unsubmitted-label = Neposlana poročila o sesutjih
@@ -18,6 +16,6 @@ submit-crash-button-label = Pošlji
 submit-crash-button-failure-label = Neuspešno
 crashes-submitted-label = Poslana poročila o sesutjih
 date-submitted-heading = Datum pošiljanja
-view-crash-button-label = Pogled
+view-crash-button-label = Prikaži
 no-reports-label = Nobeno poročilo o sesutju ni bilo poslano.
 no-config-label = Ta program ni bil nastavljen za prikaz poročil o sesutjih. Nastaviti je potrebno <code>breakpad.reportURL</code>.
