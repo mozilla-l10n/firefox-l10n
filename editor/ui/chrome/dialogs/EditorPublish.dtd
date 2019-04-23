@@ -59,7 +59,7 @@
 <!ENTITY username.tooltip             "სახელი, რომელსაც იყენებთ ISP-ზე ან მასპინძელ სერვერზე შესასვლელად">
 <!ENTITY password.label               "პაროლი:">
 <!ENTITY password.accesskey           "w">
-<!ENTITY password.tooltip             "თქვენს სახელთან ასოცირებული პაროლი">
+<!ENTITY password.tooltip             "თქვენს მომხმარებლის სახელთან დაკავშირებული პაროლი">
 <!ENTITY savePassword.label           "პაროლის ჩაწერა">
 <!ENTITY savePassword.accesskey       "S">
 <!ENTITY savePassword.tooltip         "პაროლის უსაფრთხო შენახვა პაროლების მმართველის საშუალებით">
