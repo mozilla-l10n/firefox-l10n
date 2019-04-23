@@ -139,3 +139,6 @@ about-telemetry-extra-header = экстра
 about-telemetry-origin-section = Телеметрия источников
 about-telemetry-origin-origin = источник
 about-telemetry-origin-count = количество
+# Variables:
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link">Телеметрия источников Firefox</a> кодирует данные перед отправкой, поэтому { $telemetryServerOwner } может посчитать вещи, не узнав, внёс ли какой-либо { -brand-product-name } вклад для этого. (<a data-l10n-name="prio-blog-link">узнать больше</a>)
