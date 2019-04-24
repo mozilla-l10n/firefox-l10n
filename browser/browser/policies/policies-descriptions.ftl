@@ -69,6 +69,7 @@ policy-Preferences = Đặt và khóa giá trị cho một tập hợp con ưu t
 policy-Proxy = Cài đặt cấu hình proxy.
 policy-RequestedLocales = Đặt danh sách các ngôn ngữ được yêu cầu cho ứng dụng theo thứ tự ưu tiên.
 policy-SanitizeOnShutdown = Xóa tất cả dữ liệu điều hướng khi tắt máy.
+policy-SanitizeOnShutdown2 = Xóa dữ liệu điều hướng khi tắt máy.
 policy-SearchBar = Đặt thanh tìm kiếm ở vị trí mặc định. Người dùng vẫn được phép tùy chỉnh nó.
 policy-SearchEngines = Cấu hình cài đặt công cụ tìm kiếm. Chính sách này chỉ có sẵn trên phiên bản phát hành hỗ trợ mở rộng (ESR).
 policy-SearchSuggestEnabled = Kích hoạt hoặc vô hiệu hóa các đề xuất tìm kiếm.
