@@ -94,6 +94,13 @@ detail-update-manual =
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Jalankan di Jendela Pribadi
 detail-private-browsing-description2 = Jika diizinkan, ekstensi akan memiliki akses ke aktivitas daring Anda saat menjelajah secara pribadi. <label data-l10n-name="detail-private-browsing-learn-more">Pelajari lebih lanjut </label>
+# Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
+# cannot be overriden by the user.
+detail-private-disallowed-label = Tidak Diizinkan di Jendela Pribadi
+detail-private-disallowed-description = Ekstensi ini tidak berjalan saat penjelajahan pribadi. <label data-l10n-name="detail-private-browsing-learn-more">Pelajari lebih lanjut</label>
+# Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
+detail-private-required-label = Membutuhkan Akses ke Jendela Pribadi
+detail-private-required-description = Ekstensi ini memiliki akses ke aktivitas daring Anda saat menjelajah pribadi. <label data-l10n-name="detail-private-browsing-learn-more">Pelajari lebih lanjut</label>
 detail-private-browsing-on =
     .label = Izinkan
     .tooltiptext = Aktifkan di Penjelajahan Pribadi
@@ -244,6 +251,10 @@ shortcuts-modifier-other = Sertakan Ctrl atau Alt
 shortcuts-invalid = Kombinasi tidak valid
 shortcuts-letter = Ketikkan huruf
 shortcuts-system = Tidak bisa menimpa pintasan { -brand-short-name }
+# String displayed when a keyboard shortcut is already used by another add-on
+# Variables:
+#   $addon (string) - Name of the add-on
+shortcuts-exists = Sudah digunakan oleh { $addon }
 shortcuts-card-expand-button =
     { $numberToShow ->
        *[other] Tampilkan { $numberToShow } Lainnya
@@ -260,8 +271,15 @@ enable-addon-button = Aktifkan
 expand-addon-button = Opsi Lainnya
 addons-enabled-heading = Diaktifkan
 addons-disabled-heading = Dinonaktifkan
+addon-detail-author-label = Penyusun
 addon-detail-version-label = Versi
+addon-detail-last-updated-label = Terakhir Diperbarui
 addon-detail-homepage-label = Beranda
+addon-detail-rating-label = Peringkat
+# This string is used to show that an add-on is disabled.
+# Variables:
+#   $name (string) - The name of the add-on
+addon-name-disabled = { $name } (dinonaktifkan)
 # The number of reviews that an add-on has received on AMO.
 # Variables:
 #   $numberOfReviews (number) - The number of reviews received
