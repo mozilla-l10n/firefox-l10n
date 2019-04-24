@@ -3,11 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutPrivateBrowsing.notPrivate                 "Tu non es actualmente in un fenestra private.">
-<!ENTITY privatebrowsingpage.openPrivateWindow.label     "Aperir un fenestra private">
+<!ENTITY privatebrowsingpage.openPrivateWindow.label     "Aperir un Fenestra private">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
 
 <!ENTITY privateBrowsing.title                           "Navigation private">
-<!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Quando tu naviga in un fenestra private, Firefox ">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Quando tu naviga in un Fenestra private, Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "non salvar lo">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
 <!ENTITY aboutPrivateBrowsing.info.visited               "paginas visitate">
