@@ -69,6 +69,7 @@ policy-Preferences = Defini e bloca le valor de un sub-ensemble de preferentias.
 policy-Proxy = Configurar le parametros del servitor proxy.
 policy-RequestedLocales = Defini le lista del localisationes desirate pro le applicationes in ordine de tu preferentias.
 policy-SanitizeOnShutdown = Clarar tote le datos de navigation al clausura.
+policy-SanitizeOnShutdown2 = Clarar datos de navigation al clausura.
 policy-SearchBar = Definir le localisation predefinite del barra de recerca. Le usator pote ancora lo personalisar.
 policy-SearchEngines = Configurar le parametros del motores de recerca. Iste criterio es solmente disponibile sur le version con supporto extendite (Extended Support Release - ESR).
 policy-SearchSuggestEnabled = Activar o disactivar suggestiones de recerca.
