@@ -69,6 +69,7 @@ policy-Preferences = Set and lock the value for a subset of preferences.
 policy-Proxy = Configure proxy settings.
 policy-RequestedLocales = Set the list of requested locales for the application in order of preference.
 policy-SanitizeOnShutdown = Clear all navigation data on shutdown.
+policy-SanitizeOnShutdown2 = Clear navigation data on shutdown.
 policy-SearchBar = Set the default location of the search bar. The user is still allowed to customize it.
 policy-SearchEngines = Configure search engine settings. This policy is only available on the Extended Support Release (ESR) version.
 policy-SearchSuggestEnabled = Enable or disable search suggestions.
