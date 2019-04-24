@@ -69,6 +69,7 @@ policy-Preferences = Nastavení a uzamčení hodnoty pro podmnožinu předvoleb.
 policy-Proxy = Nastavení proxy.
 policy-RequestedLocales = Nastavení seznamu požadovaných jazyků pro zobrazení aplikace, v pořadí podle preference.
 policy-SanitizeOnShutdown = Vymazání všech dat o prohlížení během vypnutí.
+policy-SanitizeOnShutdown2 = Vymazání dat o prohlížení během vypnutí.
 policy-SearchBar = Nastavení výchozího umístění vyhledávacího pole. Uživatel ho může přemístit.
 policy-SearchEngines = Nastavení vyhledávačů. Toto pravidlo je dostupné jen pro verzi s rozšířenou podporou (ESR).
 policy-SearchSuggestEnabled = Povolení nebo zákaz našeptávače pro vyhledávání.
