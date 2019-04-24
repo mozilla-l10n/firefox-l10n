@@ -10,4 +10,5 @@ about-private-browsing-info-bookmarks = marcadores
 about-private-browsing-info-searches = Nduku
 about-private-browsing-info-downloads = snuù
 private-browsing-title = Nduku seé
+about-private-browsing-info-clipboard = Ndatava tutu
 about-private-browsing-info-cookies = cookies
