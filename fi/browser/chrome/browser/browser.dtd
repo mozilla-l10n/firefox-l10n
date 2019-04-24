@@ -1030,7 +1030,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Evästeet">
 <!ENTITY contentBlocking.cookiesView.label "Evästeet ja sivustotiedot">
 
+<!ENTITY contentBlocking.cryptominers.label "Kryptolouhijat">
+<!ENTITY contentBlocking.cryptominersView.label "Kryptolouhijat">
 
+<!ENTITY contentBlocking.fingerprinters.label "Yksilöimet">
+<!ENTITY contentBlocking.fingerprintersView.label "Yksilöimet">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Ilmoita ongelmasta">
 <!ENTITY contentBlocking.breakageReportView.label "Ilmoita ongelmista">

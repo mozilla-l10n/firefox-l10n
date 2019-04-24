@@ -682,6 +682,8 @@ content-blocking-third-party-cookies = Kolmannen osapuolen seurainevästeet
 content-blocking-all-cookies = Kaikki evästeet
 content-blocking-all-windows-trackers = Tunnetut seuraimet kaikissa ikkunoissa
 content-blocking-all-third-party-cookies = Kaikki kolmannen osapuolen evästeet
+content-blocking-cryptominers = Kryptolouhijat
+content-blocking-fingerprinters = Yksilöimet
 content-blocking-warning-title = Huomio!
 content-blocking-warning-desc = Evästeiden ja seuraimien estäminen voi aiheuttaa joidenkin sivustojen toimimattomuutta. Esto on helppo poistaa sivustoilta, joihin luotat.
 content-blocking-warning-description = Sisällön estäminen voi aiheuttaa joidenkin sivustojen rikkoutumisen. Voit helposti poistaa eston luottamiltasi sivustoilta.
@@ -705,6 +707,15 @@ content-blocking-cookies-label =
     .accesskey = E
 content-blocking-expand-section =
     .tooltiptext = Lisätietoja
+# Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
+content-blocking-cryptominers-label =
+    .label = Kryptolouhijat
+    .accesskey = y
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+content-blocking-fingerprinters-label =
+    .label = Yksilöimet
+    .accesskey = m
 
 ## Privacy Section - Tracking
 
