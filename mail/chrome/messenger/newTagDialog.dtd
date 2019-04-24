@@ -3,7 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- New Tag Dialog -->
-<!ENTITY newTagDialog.title      "Tạo Nhãn Mới">
-<!ENTITY name.label              "Tên Nhãn:">
+<!ENTITY newTagDialog1.title     "Nhãn mới">
+<!ENTITY name.label              "Tên nhãn:">
 <!ENTITY name.accesskey          "T">
-
