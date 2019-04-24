@@ -207,51 +207,51 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY pref_search_hint2 "TU\&apos;UN: chika´a nchi ña niku nu lista kunu ndatukuku katavi nu ndatukuku &formatI; icono">
+<!ENTITY pref_search_hint2 "TU\&apos;UN: Chika nchi ña niku nu lista kunu ndukuku cha katavi &formatI; ikono.">
 <!ENTITY pref_category_advanced "Nchichi">
 <!-- Localization note (pref_category_advanced_summary3): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
-<!ENTITY pref_category_advanced_summary3 "Nta ku\&apos;unchee pestañas, kuachu\&apos;un luxo\&apos;o datos, nu nda saú">
+<!ENTITY pref_category_advanced_summary3 "Kunchee xikua, kuachu\&apos;un luxo\&apos;o datos, nu ndasaú">
 <!ENTITY pref_category_notifications "Tu\&apos;un">
 <!ENTITY pref_category_notifications_summary2 "Función tsaà, cha nixi kuachu\&apos;un ña">
-<!ENTITY pref_developer_remotedebugging_usb "Nta sa vaà tsi USB">
-<!ENTITY pref_developer_remotedebugging_wifi "Nta sa vaà tsi Wi-Fi">
-<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Ña nta sa vaà tsi Wi-Fi tsini ñuù koo ña kavi QR">
-<!ENTITY pref_remember_signons2 "Kunau kitsau">
-<!ENTITY pref_manage_logins "Nda ntuku nu ki tsa\&apos;u">
+<!ENTITY pref_developer_remotedebugging_usb "Ndasa vaà tsi USB">
+<!ENTITY pref_developer_remotedebugging_wifi "Ndasa vaà tsi Wi-Fi">
+<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Ndasa vaà tsi Wi-Fi tsini ñuù koo ña kavi QR.">
+<!ENTITY pref_remember_signons2 "Chika vaa kuentaku">
+<!ENTITY pref_manage_logins "Chika vaa kuentaku">
 
 <!ENTITY pref_category_home "Kitsàa">
-<!ENTITY pref_category_home_summary "Za\&apos;a nishi kunu koo pagina ki tsa\&apos;u">
+<!ENTITY pref_category_home_summary "Sa\&apos;a nixi kunu koo pagina kitsau">
 <!ENTITY pref_category_home_panels "Panel">
 <!ENTITY pref_category_home_add_ons "Add-ons">
-<!ENTITY pref_home_updates2 "Ntu tsaá contenido">
-<!ENTITY pref_home_updates_enabled "Ni ki tsaa">
+<!ENTITY pref_home_updates2 "Ndutsaá kontenido">
+<!ENTITY pref_home_updates_enabled "Niki tsaa">
 <!ENTITY pref_home_updates_wifi "Tsi Wi-Fi">
-<!ENTITY pref_category_home_homepage "Pagina nu ki tsa\&apos;u">
+<!ENTITY pref_category_home_homepage "Pagina nu kitsau">
 <!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
      home page will be use in every new tab. -->
-<!ENTITY home_homepage_every_new_tab "Kuu chikau pestaña tsaa">
-<!ENTITY home_homepage_title "Chàa paguina nu kitsau  ">
+<!ENTITY home_homepage_every_new_tab "Kuu chikau xikua tsaa">
+<!ENTITY home_homepage_title "Chàa página nu kitsau">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, they will use the built-in default Firefox homepage (about:home). -->
-<!ENTITY home_homepage_radio_default "&brandShortName; Ki\&apos;tsa">
+<!ENTITY home_homepage_radio_default "&brandShortName; Kitsa">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, a text field will appear below the radio button and allow the
      user to insert an address of their choice. -->
-<!ENTITY home_homepage_radio_user_address "Nishi kunu">
+<!ENTITY home_homepage_radio_user_address "Nixi kunu">
 <!-- Localization note (home_homepage_hint_user_address): The user will see a series of
      radio buttons to choose the homepage they'd like to start on. When they click a
      particular radio button, a text field will appear below the radio button and allow the
      user to insert an address of their choice. This string is the hint text to that
      text field. -->
-<!ENTITY home_homepage_hint_user_address "Chàa dirección a ñaá kunu nta ndukuku">
+<!ENTITY home_homepage_hint_user_address "Chàa dirección a ñaá kunu ndukuku">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_general "General">
-<!ENTITY pref_header_search "Nta nduku">
+<!ENTITY pref_header_search "Ndunku">
 <!ENTITY pref_header_privacy_short "Ña meu ">
 <!ENTITY pref_header_accessibility "Accesibilidad">
 <!ENTITY pref_header_notifications "Tu\&apos;un">
@@ -260,21 +260,21 @@
 <!ENTITY pref_header_vendor "&vendorShortName;">
 
 <!ENTITY pref_cookies_menu "Cookies">
-<!ENTITY pref_cookies_accept_all "Ni ki tsaa">
+<!ENTITY pref_cookies_accept_all "Nikitsaa">
 <!ENTITY pref_cookies_not_accept_foreign "Ni ki tsai, kòo na si\&apos;in">
-<!ENTITY pref_cookies_disabled "Nta xitaá">
+<!ENTITY pref_cookies_disabled "Xitaá">
 
 <!-- Localization note (pref_category_data_saver): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
 <!ENTITY pref_category_data_saver "Chikaa vaà tutù">
 <!ENTITY pref_category_media "Media">
-<!ENTITY pref_category_developer_tools "Herramienta ña nta sama">
+<!ENTITY pref_category_developer_tools "Nu sama tutu">
 
 <!ENTITY pref_tap_to_load_images_title2 "Snaá ña ntatava\&apos;na">
 <!ENTITY pref_tap_to_load_images_enabled "Ntikiì">
 <!ENTITY pref_tap_to_load_images_data "Tsi Wi-Fi">
-<!ENTITY pref_tap_to_load_images_disabled2 "Nta\&apos;kasi">
+<!ENTITY pref_tap_to_load_images_disabled2 "Ndakasi">
 
 <!ENTITY pref_show_web_fonts "Snaá nixi kaa tutu yoo">
 <!ENTITY pref_show_web_fonts_summary2 "Snuù letra inka tsio ta ki\&apos;tsàa in página">
@@ -283,9 +283,9 @@
 <!ENTITY pref_donottrack_title "Makuu ndatukuku">
 <!ENTITY pref_donottrack_summary "&brandShortName; ndakania nu kue sitio ña maku ndatukuna yoo">
 
-<!ENTITY pref_tracking_protection_enabled "Ni ki tsaa">
+<!ENTITY pref_tracking_protection_enabled "Nikitsaa">
 <!ENTITY pref_tracking_protection_enabled_pb "Ki tsaa nu maku kuncheè naà nchi sau">
-<!ENTITY pref_tracking_protection_disabled "Nta xitaá">
+<!ENTITY pref_tracking_protection_disabled "Nda xitaá">
 
 <!ENTITY pref_whats_new_notification "Nchii yee ña tsa\&apos;a &brandShortName;">
 <!ENTITY pref_whats_new_notification_summary "Kunchee nixi kuachu\&apos;un ña ta ntsinu ntu tsai">
@@ -320,11 +320,11 @@
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 <!ENTITY custom_tabs_hint_url_copy "Ntatava URL">
 
-<!ENTITY pref_pwa "Aplicacione web kanu">
+<!ENTITY pref_pwa "Aplicacion web kanu">
 <!ENTITY pref_pwa_summary "A kunu ña aplicaciones webntasami nu kitsau">
 
 <!ENTITY tracking_protection_prompt_title "Vichi tsi ña chikaà vaà seguimiento">
-<!ENTITY tracking_protection_prompt_text "Nta Kasia seguimiento, koo ña kuñu inuù">
+<!ENTITY tracking_protection_prompt_text "Kasia seguimiento, koo ña kuñu inuù.">
 <!ENTITY tracking_protection_prompt_tip_text "Kunchee nixi nta samu privacidad  ">
 <!ENTITY tracking_protection_prompt_action_button "Tsa naa ña">
 
@@ -336,11 +336,11 @@
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
 <!ENTITY tab_queue_prompt_permit_drawing_over_apps "Activar Ña kuu ntakayuu nu inka aplicacion">
-<!ENTITY tab_queue_prompt_positive_action_button "Activar">
+<!ENTITY tab_queue_prompt_positive_action_button "Ndatuun">
 <!ENTITY tab_queue_prompt_negative_action_button "Makuù michumi">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
-<!ENTITY tab_queue_prompt_settings_button "A ku\&apos;un nu Nda samana ntii">
+<!ENTITY tab_queue_prompt_settings_button "A ku\&apos;un nu Ndasamana ntii">
 <!-- Localization note (tab_queue_notification_prompt): This is the text of the default notification
 shown from Android O while a tab is being queued.-->
 <!ENTITY tab_queue_notification_prompt "Chikai xikua tsaá nu cola&#8230;">
@@ -380,43 +380,43 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_media_autoplay_enabled "A kunu kitsai mitu\&apos;in">
 <!ENTITY pref_media_autoplay_allow "A kunu kitsai mituin">
 <!ENTITY pref_media_autoplay_block "Kasi ña kitsa mituin">
-<!ENTITY pref_zoom_force_enabled "Ki\&apos;tsa tsi ñanda saa kanu">
-<!ENTITY pref_zoom_force_enabled_summary "ndasama nishi chau tava na ku kuncheu nti\&apos;i página">
-<!ENTITY pref_voice_input "nu kivii ntusu">
-<!ENTITY pref_voice_input_summary2 "A kunu koo nu kau\&apos;un nu barra ña dirección">
+<!ENTITY pref_zoom_force_enabled "Kitsa tana kai">
+<!ENTITY pref_zoom_force_enabled_summary "Ndasama nixi chau takua na ku kuncheu nti\&apos;i página">
+<!ENTITY pref_voice_input "Nu kivii ndusu">
+<!ENTITY pref_voice_input_summary2 "A kunu koo nu ka\&apos;un nu barra ña dirección">
 <!ENTITY pref_qrcode_enabled "Ña kavii código QR">
 <!ENTITY pref_qrcode_enabled_summary2 "A kunu escáner QR nu barra URL">
 
 <!ENTITY pref_use_master_password "kuachuùn contraseña maestra">
-<!ENTITY pref_sync_default_title "Cuenta Firefox">
+<!ENTITY pref_sync_default_title "Kuenta Firefox">
 <!ENTITY pref_sync2 "kivii">
 <!ENTITY pref_sync_summary2 "Chita\&apos;an pestañas, marcadores,ki\&apos;tsaa sesión, ña niya\&apos;a">
 <!ENTITY pref_search_suggestions "Snaa nixi ndatukuku">
 <!ENTITY pref_history_search_suggestions "Snaa ñanda nduku sata">
 <!ENTITY pref_import_options "Ña n\&apos;dasama ta ku nkivu">
-<!ENTITY pref_import_android_summary "nta\&apos;kiin marcadores tsi ña niya\&apos;a nu navegador nativo">
+<!ENTITY pref_import_android_summary "Ndakiin markadores tsi ña niya\&apos;a nu navegador nativo">
 <!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
      the Clear Private Data  dialog and refers to currently open tabs. -->
 <!ENTITY pref_private_data_openTabs "Kuna pestañas">
-<!ENTITY pref_private_data_history2 "Nda duku ña niya\&apos;a">
-<!ENTITY pref_private_data_searchHistory "Nda ntuku ña niya\&apos;a">
-<!ENTITY pref_private_data_formdata2 "formulario ña niya\&apos;a">
-<!ENTITY pref_private_data_cookies2 "Cookies tsi logins vaa">
+<!ENTITY pref_private_data_history2 "Ndaduku ña niya\&apos;a">
+<!ENTITY pref_private_data_searchHistory "Ndantuku ña niya\&apos;a">
+<!ENTITY pref_private_data_formdata2 "Formulario ña niya\&apos;a">
+<!ENTITY pref_private_data_cookies2 "Cookies tsi ñu nikitasu">
 <!ENTITY pref_private_data_cache "Caché">
 <!ENTITY pref_private_data_offlineApps "Tutù ña sitios web koò conexión">
-<!ENTITY pref_private_data_siteSettings2 "nda sama sitio">
+<!ENTITY pref_private_data_siteSettings2 "Ndasama sitio">
 <!ENTITY pref_private_data_downloadFiles2 "Snuù">
-<!ENTITY pref_private_data_syncedTabs "Pestañas sincronizadas">
+<!ENTITY pref_private_data_syncedTabs "Xikua nuna">
 
-<!ENTITY pref_default_browser "Saa navegador shinaa">
-<!ENTITY pref_default_browser_mozilla_support_tablet "kuncheè  Mozilla Support">
-<!ENTITY pref_about_firefox "nta´saa &brandShortName;">
+<!ENTITY pref_default_browser "Saa navegador xinaa">
+<!ENTITY pref_default_browser_mozilla_support_tablet "Kuncheè Mozilla Support">
+<!ENTITY pref_about_firefox "Tsaa &brandShortName;">
 <!ENTITY pref_vendor_faqs "FAQs">
 <!ENTITY pref_vendor_feedback "Chachu\&apos;un tu\&apos;un">
 
-<!ENTITY pref_dialog_set_default "Chikaà ña xina">
+<!ENTITY pref_dialog_set_default "Chikai xina">
 <!ENTITY pref_dialog_default "Tsa sa\&apos;an kaá">
-<!ENTITY pref_dialog_remove "Shitaá">
+<!ENTITY pref_dialog_remove "Xitaá">
 <!ENTITY pref_dialog_activitystream_header_content "Kuaka tu\&apos;un">
 <!ENTITY pref_dialog_activitystream_recentBookmarks "Marka tsa\&apos;a">
 <!ENTITY pref_dialog_activitystream_visited "Saa ntsinuña">
@@ -426,14 +426,14 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_panels_show "Show">
 <!ENTITY pref_panels_hide "Chikasèe">
 <!ENTITY pref_panels_reorder "Ndasama nixi kai">
-<!ENTITY pref_panels_move_up "Ka\&apos;anta kuchi">
-<!ENTITY pref_panels_move_down "Ka\&apos;anta ninu">
+<!ENTITY pref_panels_move_up "Kanta kuchi">
+<!ENTITY pref_panels_move_down "Kanta ninu">
 
 <!ENTITY datareporting_notification_title "&brandShortName; stats &amp; tutu">
-<!ENTITY datareporting_notification_action "ki\&apos;in ña kunu kuncheé na">
+<!ENTITY datareporting_notification_action "Katsi ña kunu stuchaku">
 <!-- Used in datareporting_notification_ticket_text, but unused in strings.xml. -->
-<!ENTITY datareporting_notification_action_long "ki\&apos;in tu\&apos;tu kunu kuncheé na">
-<!ENTITY datareporting_notification_summary "Tava vaà na koo, &brandShortName; chi\&apos;chuùn tu\&apos;un nu&vendorShortName;.">
+<!ENTITY datareporting_notification_action_long "Katsi tu\&apos;tu kunu kuncheé na">
+<!ENTITY datareporting_notification_summary "Takua vaà na koo, &brandShortName; chichuùn tu\&apos;un nu&vendorShortName;.">
 <!-- When this item is removed, also remove datareporting_notification_action_long:
      it is unused in strings.xml. -->
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
@@ -444,7 +444,7 @@ shown from Android O while a tab is being queued.-->
      en-US/chrome/browser/preferences/advanced.dtd (healthReportSection.label,
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
-<!ENTITY datareporting_fhr_title "&brandShortName; tu\&apos;un ña nixi kaá">
+<!ENTITY datareporting_fhr_title "&brandShortName; Tu\&apos;un ña nixi kaá">
 <!ENTITY datareporting_fhr_summary2 "Chachu\&apos;un tutu nu &vendorShortName; tsaá nixi kaa navegador cha chi\&apos;nchii kutuninu nixi sachu\&apos;un navegador">
 <!ENTITY datareporting_telemetry_title "Telemetría">
 <!ENTITY datareporting_telemetry_summary "Chachu\&apos;un nixi sachuin, ña sai, hardware tsi tutu ña navegador tsi &vendorShortName; Tava chi\&apos;ncheu na saa &brandShortName; va\&apos;a ña">
@@ -462,7 +462,7 @@ shown from Android O while a tab is being queued.-->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload3 "ntu tsaá mitu\&apos;in">
+<!ENTITY pref_update_autodownload3 "Saá mitu\&apos;in">
 <!ENTITY pref_update_autodownload_wifi "tsi Wi-Fi">
 <!ENTITY pref_update_autodownload_never "Mikí">
 <!ENTITY pref_update_autodownload_always "Ntikiì">
@@ -473,17 +473,17 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY quit "Xita">
 
 <!ENTITY addons "Add-ons">
-<!ENTITY logins "ki\&apos;tsa">
-<!ENTITY downloads "Dnúu">
-<!ENTITY char_encoding "Codif. caracteres">
+<!ENTITY logins "Kitsa">
+<!ENTITY downloads "Snúu">
+<!ENTITY char_encoding "Codif. Karacteres">
 
-<!ENTITY share "Kuniñuù">
-<!ENTITY share_title "Compartir por">
-<!ENTITY share_image_failed "Maku sa compartirku tutu ndatava">
+<!ENTITY share "Kuni ñuù">
+<!ENTITY share_title "Stucha tsi">
+<!ENTITY share_image_failed "Maku stuchaku tutu ndatavana yoo">
 <!ENTITY save_as_pdf "Chikavaá tana PDF ">
-<!ENTITY print "Nta tavaa">
+<!ENTITY print "Ndatavaa">
 <!ENTITY view_page_source "Kunchee tutu página">
-<!ENTITY find_in_page "Ndaduku yo\&apos;o">
+<!ENTITY find_in_page "Ndaduku yoo">
 <!ENTITY desktop_mode "Kaka sitio nu escritorio">
 <!ENTITY page "Página">
 <!ENTITY tools "Herramientas">
