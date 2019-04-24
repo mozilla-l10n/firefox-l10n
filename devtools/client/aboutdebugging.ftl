@@ -115,3 +115,5 @@ about-debugging-worker-push-service =
   .label = Servizio push
 about-debugging-main-process-name = Processo principale
 about-debugging-main-process-description2 = Processo principale per il browser obiettivo
+about-debugging-message-close-icon =
+  .alt = Chiudi messaggio
