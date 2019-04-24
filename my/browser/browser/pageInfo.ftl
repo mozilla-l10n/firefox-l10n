@@ -94,6 +94,7 @@ security-view-identity-validity =
 security-view-privacy =
     .value = ကိုယ်ရေးကာကွယ်မှုနှင့် မှတ်တမ်း
 security-view-privacy-history-value = ဒီဝဘ်ဆိုက်ကို အရင်က ရောက်ဖူးပါသလား။
+security-view-privacy-sitedata-value = ဤဆိုက်သည် ကျွန်ုပ်ကွန်ပျူတာပေါ်တွင်အချက်အလက်များသိမ်းဆည်းနေပါသလား။
 security-view-privacy-clearsitedata =
     .label = ကွတ်ကီးများနှင့် ဝဘ်ဆိုက် အချက်အလက်အားလုံးကို ရှင်းလင်းပါ
     .accesskey = C

@@ -4,8 +4,6 @@
 
 do-not-track-description = ၀က်ဆိုက်များအား "နောက်ခံမလိုက်"  အချက်ပြပြီး သင့်အား နောက်လိုက် စုံစမ်း ခြင်း ရပ်တန့် ရန် ပြောပါ
 do-not-track-learn-more = ဆက်လက် လေ့လာပါ
-do-not-track-option-default =
-    .label = နောက်ခံမလိုက်ရန် သုံးနေ ချိန် အတွင်းသာ
 do-not-track-option-always =
     .label = အမြဲတမ်း
 pref-page =
@@ -88,9 +86,6 @@ extension-controlled-default-search = ပေါင်းထည့်ဆော့
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = ပေါင်းထည့်ဆော့ဖ်ဝဲ <img data-l10n-name="icon"/>{ $name } သည် ကွန်တန်နာတပ်ဗ်ကို လိုအပ်သည်။
-# This string is shown to notify the user that their tracking protection preferences
-# are being controlled by an extension.
-extension-controlled-websites-tracking-protection-mode = ပေါင်းထည့်ဆော့ဖ်ဝဲ <img data-l10n-name="icon"/>{ $name } သည် ခြေရာခံကာကွယ်မှုကို ထိန်းချုပ်နေသည်။
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = ပေါင်းထည့်ဆော့ဖ်ဝဲ <img data-l10n-name="icon"/>{ $name } သည် { -brand-short-name } ၏ အင်တာနက်ချိတ်ဆက်ပုံကို ထိန်းချုပ်နေသည်။
@@ -499,6 +494,9 @@ sync-device-name-save =
     .accesskey = v
 sync-mobilepromo-single = အခြားကိရိယာကို ချိတ်ဆက်ရန်
 sync-mobilepromo-multi = ကိရိယာများကို စီမံရန်
+sync-connect-another-device = အခြားကိရိယာကို ချိတ်ပါ။
+sync-manage-devices = ကိရိယာများကို စီမံပါ။
+sync-fxa-begin-pairing = ကိရိယာတစ်ခု တွဲဖက်ပါ။
 sync-tos-link = အသုံးပြုချိန်တွင်လိုက်နာရမည့်အချက်များ
 sync-fxa-privacy-notice = ကိုယ်ရေးကာကွယ်မှု သတိပေးချက်
 
@@ -508,7 +506,6 @@ privacy-header = ဘရောင်ဇာ ကိုယ်ရေးကာကွ�
 
 ## Privacy Section - Forms
 
-forms-header = ဖောင်များ & စကားဝှက်များ
 logins-header = အကောင့်ဝင်ရောက်မှုနှင့်စကားဝှက်များ
 forms-ask-to-save-logins =
     .label = ဆိုက်များအတွက် ဝင်ရောက်မှုများနှင့် စကားဝှက်များကို မှတ်ရန် မေးပါ
@@ -572,31 +569,18 @@ history-clear-button =
 sitedata-header = ကွတ်ကီးနှင့် ဆိုက်အချက်အလက်များ
 sitedata-total-size-calculating = ဆိုက်အချက်အလက်နှင့် ယာယီအချက်အလက် cache သုံးစွဲမှုပမာဏကို တွက်ချက်နေသည်...
 sitedata-learn-more = ပိုမိုလေ့လာရန်
-sitedata-keep-until = ထိုအချိန်ထိ သိမ်းထားပါ
-    .accesskey = u
-sitedata-keep-until-expire =
-    .label = သက်တမ်းစေ့လျှင်
-sitedata-keep-until-closed =
-    .label = { -brand-short-name } ကို ပိတ်သည်
 sitedata-allow-cookies-option =
     .label = ကွတ်ကီးများနှင့် ဆိုက်အချက်အလက်ကို လက်ခံရန်
     .accesskey = A
 sitedata-disallow-cookies-option =
     .label = ကွတ်ကီးများနှင့် ဆိုက်အချက်အလက်ကို မသိမ်းရန်
     .accesskey = B
-sitedata-block-trackers-option-recommended =
-    .label = third-party ခြေရာခံ (အကြံပြုထားသည်)
-sitedata-block-trackers-option =
-    .label = third-party ခြေရာခံ
 sitedata-clear =
     .label = အချက်အလက်ကို ရှင်းပါ...
     .accesskey = l
 sitedata-settings =
     .label = အချက်အလက်ကို စီမံပါ...
     .accesskey = M
-sitedata-cookies-exceptions =
-    .label = ခြွင်းချက်များ…
-    .accesskey = E
 
 ## Privacy Section - Address Bar
 
@@ -617,49 +601,43 @@ addressbar-suggestions-settings = ရှာဖွေရေးယန္တရာ�
 
 content-blocking-header = စာမျက်နှာတွင် ပါဝင်သည်များကို တားဆီးခြင်း
 content-blocking-learn-more = ပိုမိုလေ့လာရန်
-content-blocking-restore-defaults =
-    .label = စံပုံစံများ ပြန်လည်သိမ်းပါ
-    .accesskey = R
-content-blocking-toggle-label-on = ဖွင့်
-    .accesskey = O
-content-blocking-toggle-label-off = ပိတ်
-    .accesskey = O
-content-blocking-tracking-protection-option-always =
-    .label = အမြဲ
+content-blocking-setting-strict =
+    .label = တားမြစ်ရန်
+    .accesskey = r
+content-blocking-custom-desc = ပိတ်ပင်မည့်အရာကို ရွေးပါ။
+content-blocking-private-trackers = ဝင်းဒိုးအားလုံးတွင်ထင်ရှားခြေရာခံမှုများ
+content-blocking-third-party-cookies = သက်ဗ်ပါတီခြေရာခံနေသောကွတ်ကီးများ
+content-blocking-all-cookies = ကွတ်ကီးအားလုံး
+content-blocking-unvisited-cookies = မလည်ပတ်သောဆိုက်များမှ ကွတ်ကီးများ
+content-blocking-all-windows-trackers = ဝင်းဒိုးအားလုံးတွင် ထင်ရှားခြေရာခံမှုများ
+content-blocking-all-third-party-cookies = သက်ဗ်ပါတီ ကွတ်ကီးများအားလုံး
+content-blocking-cryptominers = Cryptominers
+content-blocking-fingerprinters = လက်ဗွေများ
+content-blocking-warning-title = ကြိုတင်အသိပေးသည်!
+content-blocking-learn-how = ဆောင်ရွက်ပုံကို လေ့လာရန်
+content-blocking-trackers-label =
+    .label = ခြေရာခံမှုများ
+    .accesskey = T
+content-blocking-tracking-protection-option-all-windows =
+    .label = ဝင်းဒိုးအားလုံးတွင်
     .accesskey = A
-content-blocking-tracking-protection-option-private =
-    .label = သီးသန့်ကြည့်ရှုမှုသာလျှင်
+content-blocking-option-private =
+    .label = ကိုယ်ပိုင်ဝင်းဒိုးတွင်သာလျှင်
     .accesskey = p
 content-blocking-tracking-protection-change-block-list = ပိတ်ထားသည့်စာရင်းကို ပြောင်းရန်
-content-blocking-third-party-cookies-label =
-    .label = အခြား ကွတ်ကီးများ
+content-blocking-cookies-label =
+    .label = ကွတ်ကီးများ
     .accesskey = C
-content-blocking-reject-trackers-block-trackers-option-recommended =
-    .label = ခြေရာခံသူများ (အကြံပေးချက်)
-    .accesskey = k
-content-blocking-reject-trackers-block-trackers-option =
-    .label = ခြေရာခံသူများ
-    .accesskey = k
+content-blocking-expand-section =
+    .tooltiptext = ပိုမို အချက်အလက်
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+content-blocking-fingerprinters-label =
+    .label = လက်ဗွေရာများ
+    .accesskey = F
 
 ## Privacy Section - Tracking
 
-tracking-header = ခြေရာခံ ကာကွယ်မှု
-tracking-mode-label = ခြေရာခံသူများကို တားဆီးရန် ခြေရာခံကာကွယ်မှုအသုံးပြုပါ
-tracking-mode-always =
-    .label = အမြဲတမ်း
-    .accesskey = y
-tracking-mode-private =
-    .label = သီးသန့်ဝင်းဒိုးများတွင်သာလျှင်
-    .accesskey = l
-tracking-mode-never =
-    .label = ဘယ်တော့မှ
-    .accesskey = n
-tracking-exceptions =
-    .label = ခြွင်းချက်များ…
-    .accesskey = x
-tracking-change-block-list =
-    .label = ပိတ်ပင်ထားသည့်စာရင်းကိုပြင်ရန်
-    .accesskey = C
 
 ## Privacy Section - Permissions
 
@@ -687,13 +665,6 @@ permissions-notification-pause =
 permissions-block-autoplay-media-exceptions =
     .label = ခြွင်းချက်များ
     .accesskey = E
-autoplay-option-ask =
-    .label = အမြဲမေးပါ
-autoplay-option-allow =
-    .label = အလိုအလျောက်ပြသမှု ဖွင့်ပါ
-autoplay-option-dont =
-    .label = အလိုအလျောက်ပြသမှု ပိတ်ပါ
-permissions-autoplay-link = ပိုမိုလေ့လာရန်
 permissions-block-popups =
     .label = ပေါ့အပ်ဝင်းဒိုးများကို မဖွင့်ပါနှင့်
     .accesskey = B
@@ -716,13 +687,10 @@ collection-health-report =
     .label = { -vendor-short-name } သို့နည်းပညာဆိုင်ရာချက်လက်များပို့ရန်{ -brand-short-name } ကို ခွင့်ပြုပါ
     .accesskey = r
 collection-health-report-link = ပိုမိုလေ့လာရန်
+addon-recommendations-link = ပိုမိုလေ့လာရန်
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = တည်ဆောက်မှုဆိုင်ရာ ယခုအပြင်အဆင်အတွက် အချက်အလက်အစီရင်ခံခြင်းကို ပိတ်ထားသည်
-collection-browser-errors =
-    .label = { -vendor-short-name } သို့ပျက်စီးမှုအစီရင်ခံစာမျးပို့ရန်{ -brand-short-name } ကို ခွင့်ပြုပါ
-    .accesskey = b
-collection-browser-errors-link = ပိုမိုလေ့လာရန်
 collection-backlogged-crash-reports =
     .label = မတင်ပို့ရသေးသော ပျက်စီးမှုအစီရင်ခံစာများကို ကိုယ်စားပေးပို့ရန် { -brand-short-name } ကို ခွင့်ပေးပါ။
     .accesskey = c

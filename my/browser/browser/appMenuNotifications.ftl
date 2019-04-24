@@ -25,4 +25,7 @@ appmenu-update-restart =
     .secondarybuttonlabel = ယခု မဆောင်ရွက်သေးပါ
     .secondarybuttonaccesskey = N
 appmenu-update-restart-message = အမြန်ပြန်လည်စတင်ခြင်း ဆောင်ရွက်ပြီးပါက { -brand-shorter-name } သည် သီးသန့်ကြည့်ရှုခြင်းပုံစံဖြင့် အသုံးမပြုခဲ့သော တပ်ဗ်များနှင့် ဝင်းဒိုးများကို ပြန်ဖွင့်ပေးပါမည်။
+appmenu-addon-private-browsing-installed =
+    .buttonlabel = ကောင်းပြီ၊ ရပါပြီ။
+    .buttonaccesskey = O
 appmenu-addon-post-install-message = <image data-l10n-name='addon-menu-icon'></image> စာရင်းထဲရှိ <image data-l10n-name='addon-install-icon'></image> ကို နှိပ်ပြီး အတ်အွန်များကို စီမံပါ။
