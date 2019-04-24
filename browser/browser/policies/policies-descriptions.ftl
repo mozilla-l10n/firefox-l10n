@@ -69,6 +69,7 @@ policy-Preferences = Ställ in och lås värdet för en delmängd av inställnin
 policy-Proxy = Ange inställningar för proxy.
 policy-RequestedLocales = Ange listan över begärda språk för programmet efter ordning i inställningar.
 policy-SanitizeOnShutdown = Rensa all navigeringsdata vid avstängning.
+policy-SanitizeOnShutdown2 = Rensa navigeringsdata vid avstängning.
 policy-SearchBar = Ange standardplacering av sökfältet. Användaren kan fortfarande flytta det.
 policy-SearchEngines = Ange sökmotorinställningar. Denna policy finns bara på Extended Support Release (ESR)-versionen.
 policy-SearchSuggestEnabled = Aktivera eller inaktivera sökförslag.
