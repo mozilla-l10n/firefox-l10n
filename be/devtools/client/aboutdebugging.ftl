@@ -43,6 +43,21 @@ about-debugging-sidebar-item-connect-button = Злучыцца
 about-debugging-sidebar-item-connect-button-connecting = Злучэнне…
 # Text displayed in buttons found in sidebar items when the connection failed.
 about-debugging-sidebar-item-connect-button-connection-failed = Не ўдалося злучыцца
+# Text displayed in connection warning on sidebar item of the runtime when connecting to
+# the runtime is taking too much time.
+about-debugging-sidebar-item-connect-button-connection-not-responding = Злучэнне ўсё яшчэ чакаецца, праверце паведамленні ў мэтавым браўзеры
+# Text displayed as connection error in sidebar item when the connection has timed out.
+about-debugging-sidebar-item-connect-button-connection-timeout = Час чакання злучэння выйшаў
+# Temporary text displayed in sidebar items representing remote runtimes after
+# successfully connecting to them. Temporary UI, do not localize.
+about-debugging-sidebar-item-connected-label = Злучана
+# Text displayed in sidebar items for remote devices where a compatible browser (eg
+# Firefox) has not been detected yet. Typically, Android phones connected via USB with
+# USB debugging enabled, but where Firefox is not started.
+about-debugging-sidebar-runtime-item-waiting-for-browser = Чаканне браўзера…
+# Text displayed in sidebar items for remote devices that have been disconnected from the
+# computer.
+about-debugging-sidebar-runtime-item-unplugged = Адключана
 # Title for runtime sidebar items that are related to a specific device (USB, WiFi).
 about-debugging-sidebar-runtime-item-name =
     .title = { $displayName } ({ $deviceName })
@@ -65,6 +80,9 @@ about-debugging-refresh-usb-devices-button = Абнавіць спіс прыл�
 
 # Title of the Setup page.
 about-debugging-setup-title = Усталёўка
+# Link displayed in the Setup page that leads to MDN page with list of supported devices.
+# Temporarily leads to https://support.mozilla.org/en-US/kb/will-firefox-work-my-mobile-device#w_android-devices
+about-debugging-setup-link-android-devices = Паглядзець спіс падтрыманых Android-прылад
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = Падключыць прыладу
 # USB section of the Setup page
@@ -81,6 +99,8 @@ about-debugging-setup-usb-updating-button = Абнаўленне…
 about-debugging-setup-usb-status-enabled = Уключана
 about-debugging-setup-usb-status-disabled = Выключана
 about-debugging-setup-usb-status-updating = Абнаўленне…
+# USB section step by step guide
+about-debugging-setup-usb-step-plug-device = Падключыце Android-прыладу да камп'ютара.
 # Network section of the Setup page
 about-debugging-setup-network =
     .title = Сеткавае месцазнаходжанне
