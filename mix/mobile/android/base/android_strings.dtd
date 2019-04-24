@@ -19,10 +19,10 @@
 <!ENTITY firstrun_data_subtext2 "Ma chiakà vaii ñaá tutu ndatavana tava luxoo sachuin ta inkau nu sitio web  ">
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message2 "Kitsaa nu nikintùu.">
-<!ENTITY firstrun_sync_subtext2 "Kuachu\&apos;un Sync taba ntaneu marcadore, tu\&apos;un seé cha ntoo ña nchikavau nu &brandShortName; nu ntii kaa ndusu\&apos;ku.">
-<!ENTITY firstrun_signin_message "Chita\&apos;n, ki\&apos;tsaà">
+<!ENTITY firstrun_sync_subtext2 "Kuachu\&apos;un Sync takua ntaneu marcador, tu\&apos;un seé cha ntoo ña nchikavau nu &brandShortName; nu ntii kaa ndusu\&apos;ku.">
+<!ENTITY firstrun_signin_message "Chita\&apos;an, kitsaà">
 <!ENTITY firstrun_signin_button "Kivi nuú Sync">
-<!ENTITY  onboard_start_button_browser "ki\&apos;tsaà nda ntuku">
+<!ENTITY  onboard_start_button_browser "Kitsaà Nduku">
 <!ENTITY firstrun_button_notnow "Makuu vichi">
 <!ENTITY firstrun_button_next "Núu">
 
@@ -31,36 +31,36 @@
 <!ENTITY firstrun_readerview_title "Tu\&apos;un">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
 <!ENTITY firstrun_readerview_message "Stoò ña vaa">
-<!ENTITY firstrun_readerview_subtext "Kuachu\&apos;un vista lector tava va\&apos;a na kuu kavu \u2014 tatu koo conexiòn.">
+<!ENTITY firstrun_readerview_subtext "Kuachu\&apos;un vista lector takua va\&apos;a na kuu kavu \u2014 tatu koo conexiòn.">
 
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "Meu">
 <!ENTITY firstrun_account_message "A kunu &brandShortName; nuu inka dispositivo?">
 
-<!ENTITY  onboard_start_restricted1 "N\&apos;da samà seguridad ni control tsi versión yoò &brandShortName;">
+<!ENTITY  onboard_start_restricted1 "Samà seguridad ni control tsi versión yoò &brandShortName;.">
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
-<!ENTITY  bookmarks_title "chika marca">
+<!ENTITY  bookmarks_title "Chika marca">
 <!ENTITY  history_title "Ña niya\&apos;a">
 
-<!ENTITY  switch_to_tab "nda sama ">
+<!ENTITY  switch_to_tab "Sama xikua">
 
 <!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
-<!ENTITY  tab_offline_version "Sna\&apos;i versión cha koo coneciòn">
+<!ENTITY  tab_offline_version "Sna\&apos;i versión cha koo conexiòn">
 
-<!ENTITY  crash_reporter_title "&brandShortName; Informe ña va\&apos;a">
-<!ENTITY  crash_message2 "&brandShortName; Ntsio ña vaa cha ntasia . pestaña ku  tsini ñuu ku \&apos;n kai nu Página niki tsau  &brandShortName; ta sa reiniciar ku">
-<!ENTITY  crash_send_report_message3 "kavii &vendorShortName;  tsaa sa\&apos;n tava na ntu vai\&apos;i">
-<!ENTITY  crash_include_url2 "a kunu nda\&apos;chiku paguina nu n\&apos;tsikau">
+<!ENTITY  crash_reporter_title "&brandShortName; Tu\&apos;un ña va\&apos;a">
+<!ENTITY  crash_message2 "&brandShortName; Ntsio ña vaa cha ntsasia. Pestaña ku tsini ñuu kunkai nu Página nikitsau &brandShortName; Ta ku nkitsau.">
+<!ENTITY  crash_send_report_message3 "Katu\&apos;un nu &vendorShortName; takua na ntuvai\&apos;i">
+<!ENTITY  crash_include_url2 "A kunu ndachikù paguina nu nkitsau">
 <!ENTITY  crash_sorry "Kunchatu">
-<!ENTITY  crash_comment "chika\&apos;a in comenterio (ña cu ncutu kui)">
-<!ENTITY  crash_allow_contact2 "a kunu&vendorShortName;  ku kau´n tsi tsa ña ni kuu">
+<!ENTITY  crash_comment "Chaa iin tu\&apos;un (ntii\&apos;na ku kunchi\&apos;i)">
+<!ENTITY  crash_allow_contact2 "A kunu&vendorShortName; katu\&apos;una tsa tutu yoo">
 <!ENTITY  crash_email "Korreo ku">
 <!ENTITY  crash_closing_alert "Keta ma chichu\&apos;un tutu ña va\&apos;a">
 <!ENTITY  sending_crash_report "Chachu\&apos;un tutu ña va\&apos;a\u2026">
 <!ENTITY  crash_close_label "Kasi">
-<!ENTITY  crash_restart_label "Ndu tsaa &brandShortName;">
+<!ENTITY  crash_restart_label "Ndutsaa &brandShortName;">
 
 <!ENTITY url_bar_default_text2 "Nda tuku a chika direccion">
 
@@ -72,7 +72,7 @@
 <!-- Localization note (url_bar_qrcode_text2) : This text will be
      heard by non-visual users when the focus is on the QR Code
      icon in the url bar. -->
-<!ENTITY url_bar_qrcode_text2 "Kuachu\&apos;un ña kavi QR tava ndukuku a chau iin dirección">
+<!ENTITY url_bar_qrcode_text2 "Kuachu\&apos;un ña kavi QR takua ndukuku a chau iin dirección">
 <!-- Localization note (url_bar_mic_text2) : This text will be
      heard by non-visual users when the focus is on the Microphone
      icon in the url bar. -->
