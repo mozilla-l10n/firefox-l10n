@@ -487,11 +487,11 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY desktop_mode "Kaka sitio nu escritorio">
 <!ENTITY page "Página">
 <!ENTITY tools "Herramientas">
-<!ENTITY new_tab "Pestaña tsàa">
-<!ENTITY new_private_tab "Ntu tsàa pestaña meu">
-<!ENTITY close_all_tabs "ndakasi ntìi pestaña">
-<!ENTITY close_private_tabs "ndakasi pestaña meu ">
-<!ENTITY tabs_normal "Pestañas">
+<!ENTITY new_tab "Xikua tsàa">
+<!ENTITY new_private_tab "Ndutsàa xikua meu">
+<!ENTITY close_all_tabs "Ndakasi ntìi xikua">
+<!ENTITY close_private_tabs "Ndakasi xikua meu">
+<!ENTITY tabs_normal "Xikua">
 <!ENTITY tabs_private "Ña meu ">
 <!ENTITY set_image_fail "Makuu chikau tutu ndatava">
 <!ENTITY set_image_path_fail "Makuu chika\&apos;vau tutu ndatava">
@@ -499,33 +499,33 @@ shown from Android O while a tab is being queued.-->
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-<!ENTITY find_text "Ndaduku yo\&apos;o">
-<!ENTITY find_prev "satáa">
-<!ENTITY find_next "núu">
+<!ENTITY find_text "Ndaduku yoo">
+<!ENTITY find_prev "Satáa">
+<!ENTITY find_next "Núu">
 <!ENTITY find_close "Kasi">
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-<!ENTITY media_sending_to "Chi\&apos;chuùn nu dispositivo">
+<!ENTITY media_sending_to "Chichuùn nu kaa ndusuku">
 <!ENTITY media_play "Play">
 <!ENTITY media_pause "Kunchatu">
-<!ENTITY media_stop "Tsi kui\&apos;n">
+<!ENTITY media_stop "Tsikuin">
 
-<!ENTITY contextmenu_open_new_tab "kunàa nu pestaña tsàa">
-<!ENTITY contextmenu_open_private_tab "Kunàa nu pestaña Ña meu ">
-<!ENTITY contextmenu_remove "Shitaá">
+<!ENTITY contextmenu_open_new_tab "Kunàa nu xikua tsàa">
+<!ENTITY contextmenu_open_private_tab "Kunàa nu xikua Ña meu">
+<!ENTITY contextmenu_remove "Xitaá">
 <!ENTITY contextmenu_add_page_shortcut "Chika página xina">
-<!ENTITY contextmenu_set_as_homepage "Chàa paguina nu kunu kitsau">
-<!ENTITY contextmenu_share "Nta Stucha">
-<!ENTITY contextmenu_pasteandgo "Chistìin &amp; kitsàa">
+<!ENTITY contextmenu_set_as_homepage "Chàa página nu kunu kitsau">
+<!ENTITY contextmenu_share "Stucha">
+<!ENTITY contextmenu_pasteandgo "Chistìin &amp; Kitsàa">
 <!ENTITY contextmenu_paste "Chistìin">
-<!ENTITY contextmenu_copyurl "Copiar dirección">
-<!ENTITY contextmenu_edit_bookmark "Nda sama">
+<!ENTITY contextmenu_copyurl "Ndatava dirección">
+<!ENTITY contextmenu_edit_bookmark "Sama">
 <!ENTITY contextmenu_subscribe "Nta chaà siviku nu página">
 <!ENTITY contextmenu_site_settings "Ndasama sitio">
-<!ENTITY contextmenu_top_sites_edit "Nda sama">
+<!ENTITY contextmenu_top_sites_edit "Sama">
 <!ENTITY contextmenu_top_sites_pin "Pin sitio">
-<!ENTITY contextmenu_top_sites_unpin "Nta xita sitio">
+<!ENTITY contextmenu_top_sites_unpin "Xita sitio">
 <!-- Localization note (contextmenu_pin_to_top_sites, contextmenu_unpin_from_top_sites): These strings are used to
      pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
      just "Pin Site" or "Unpin Site" would mean. -->
@@ -546,7 +546,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY doorhanger_login_edit_username_hint "Sivìi">
 <!ENTITY doorhanger_login_edit_password_hint "Tu\&apos;un seè">
 <!ENTITY doorhanger_login_edit_toggle "Snaà tu\&apos;un seè">
-<!ENTITY doorhanger_login_select_message "A ntatabu tu\&apos;un seè ña &formatS;?">
+<!ENTITY doorhanger_login_select_message "A ndatavu tu\&apos;un seè ña &formatS;?">
 <!ENTITY doorhanger_login_select_toast_copy "Tu\&apos;un seè nataba nu portapapel">
 <!ENTITY doorhanger_login_select_action_text "Chikaa inka nu kitsau">
 <!ENTITY doorhanger_login_select_title "Ntataba tu\&apos;un seè nu">
@@ -570,7 +570,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY page_removed "Stoo páguina">
 <!ENTITY folder_removed "Ntoo tutu">
 
-<!ENTITY bookmark_edit_title "Ndasama marcador">
+<!ENTITY bookmark_edit_title "Ndasama markador">
 <!ENTITY bookmark_edit_folder_title "Ndasama nu chicavau tutu">
 <!ENTITY bookmark_edit_name "Sivìi">
 <!ENTITY bookmark_edit_location "Nchi inkau">
@@ -587,14 +587,14 @@ shown from Android O while a tab is being queued.-->
      They are not visible in the UI. -->
 <!ENTITY page_action_dropmarker_description "Nchií ña sau">
 
-<!ENTITY masterpassword_create_title "Saà tu\&apos;un seè shina ">
-<!ENTITY masterpassword_remove_title "Stoo tu\&apos;un seè shina ">
+<!ENTITY masterpassword_create_title "Saà tu\&apos;un seè xina">
+<!ENTITY masterpassword_remove_title "Stoo tu\&apos;un seè xina">
 <!ENTITY masterpassword_password "Tu\&apos;un seè">
 <!ENTITY masterpassword_confirm "A vaá tu\&apos;un seè">
 
 <!ENTITY button_ok "Vaá">
 <!ENTITY button_cancel "Kunchatu">
-<!ENTITY button_yes "Va\&apos;a">
+<!ENTITY button_yes "Vaá">
 <!ENTITY button_no "No">
 <!ENTITY button_clear_data "Stòo tutù">
 <!ENTITY button_set "Ntakiì">
@@ -604,24 +604,24 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY home_top_sites_title "Sitio ña ta\&apos;an inu ">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
-<!ENTITY home_top_sites_add "chika´a sitio">
+<!ENTITY home_top_sites_add "Chika sitio">
 
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
-<!ENTITY home_title "&brandShortName; Ki\&apos;tsa">
+<!ENTITY home_title "&brandShortName; Kitsa">
 <!ENTITY home_history_title "Historial">
 <!ENTITY home_synced_devices_smartfolder "Ntachita\&apos;an dispositivo">
 <!ENTITY home_synced_devices_number "&formatD; dispositivo">
 <!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
 <!ENTITY home_synced_devices_one "1 dispositivo">
-<!ENTITY home_history_back_to2 "Nta nchiko sata">
+<!ENTITY home_history_back_to2 "Nchiko sata">
 <!ENTITY home_clear_history_button "Stòo ña nta ndukuku sata">
 <!ENTITY home_clear_history_confirm "A ntaa ña Stuu ña nta ndukuku sata?">
-<!ENTITY home_bookmarks_empty "Marcador chikavau yo\&apos;o nta tui.">
-<!ENTITY home_closed_tabs_title2 "Saa nuu ntasia">
+<!ENTITY home_bookmarks_empty "Marcador nchikavau ndtui yoo.">
+<!ENTITY home_closed_tabs_title2 "Saa nuu ntsasu">
 <!ENTITY home_last_tabs_empty "Pestaña tsaa yo\&apos;o ntatui">
-<!ENTITY home_restore_all "Nta nchiko ntii">
-<!ENTITY home_closed_tabs_number "&formatD; pestañas">
+<!ENTITY home_restore_all "Nchiko ntii">
+<!ENTITY home_closed_tabs_number "&formatD; xikua">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
 <!ENTITY home_closed_tabs_one "1 pestaña">
 <!ENTITY home_most_recent_empty "Kue sitio web nu saa nikivu yo\&apos;o ntatui.">
@@ -641,29 +641,29 @@ shown from Android O while a tab is being queued.-->
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY home_remote_tabs_many_hidden_devices "&formatD;Dispositivo inka seé">
+<!ENTITY home_remote_tabs_many_hidden_devices "&formatD; kaa ndusu inka seé">
 <!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
      title of a dialog; we expect more than one device. -->
-<!ENTITY home_remote_tabs_hidden_devices_title "Dispositivo inka seé">
+<!ENTITY home_remote_tabs_hidden_devices_title "Kaa ndusu inka seé">
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
-<!ENTITY home_remote_tabs_unhide_selected_devices "Sna\&apos;a dispositivo ña ni katsi\&apos;ku">
+<!ENTITY home_remote_tabs_unhide_selected_devices "Snaa kaa ndusu ña ni katsiku">
 
 <!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
     a site is pinned or unpinned. -->
 <!ENTITY home_pinned_site "Página váa">
-<!ENTITY home_unpinned_site "Página vá\&apos;a">
+<!ENTITY home_unpinned_site "Página váa">
 
-<!ENTITY remote_tabs_panel_moved_title "¿Nchii inka pestaña?">
-<!ENTITY remote_tabs_panel_moved_desc "Nchachu\&apos;un kue pestaña nu inka dispositivo nu ku kivu ta tsunaku in pestaña tsaa.">
-<!ENTITY remote_tabs_panel_moved_link "Kunayuu nu inka panel tsaa.">
+<!ENTITY remote_tabs_panel_moved_title "¿Nchii inka xikua?">
+<!ENTITY remote_tabs_panel_moved_desc "Nchachu\&apos;un kue xikua nu inka kaa ndusu nu ku kivu ta tsunaku in xikua tsaa.">
+<!ENTITY remote_tabs_panel_moved_link "Kuna nu inka panel tsaa.">
 
-<!ENTITY pin_site_dialog_hint "Chaa in tu\&apos;un ña kunu nda ntuku">
+<!ENTITY pin_site_dialog_hint "Chaa in tu\&apos;un ña kunu ndukuku">
 
-<!ENTITY filepicker_title "Ki´in tutu">
-<!ENTITY filepicker_audio_title "Ki\&apos; in a chika vàa ntusu">
-<!ENTITY filepicker_image_title "Ki\&apos; in a ntatavàa">
-<!ENTITY filepicker_video_title "Ki\&apos; in a ntatavàa video">
+<!ENTITY filepicker_title "Katsi tutu">
+<!ENTITY filepicker_audio_title "Katsi a chika vàa ntusu">
+<!ENTITY filepicker_image_title "Katsi a ntatavàa">
+<!ENTITY filepicker_video_title "Katsi a ntatavàa video">
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Ni kitaun tsi">
@@ -678,7 +678,7 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity_connection_secure "Mani\&apos;ku Chitai\&apos;ña">
+<!ENTITY identity_connection_secure "Maku Chitai\&apos;ña">
 <!ENTITY identity_connection_insecure "Mani\&apos;ku Chitai\&apos;ña">
 <!ENTITY identity_connection_chromeui "Ña vaà ku &brandShortName;pagina">
 
@@ -689,7 +689,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixed_content_protection_disabled1 "Koo ña nchaa-yo tava ">
 
 <!-- Tracking content notifications in site identity popup -->
-<!ENTITY doorhanger_tracking_title2 "Chikava\&apos;a ña sau">
+<!ENTITY doorhanger_tracking_title2 "Chikavaa ña sau">
 <!ENTITY doorhanger_tracking_state_enabled "Vaiì">
 <!ENTITY doorhanger_tracking_state_disabled "Ma kuu">
 <!ENTITY doorhanger_tracking_message_enabled1 "Nkuu kuncheu ña sau tsa ntasia.">
@@ -698,16 +698,16 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Common mixed and tracking content strings in site identity popup -->
 <!ENTITY learn_more "Skua\&apos;a kuakaa">
 <!ENTITY enable_protection "Ki tsaa ña nchaa-yo">
-<!ENTITY disable_protection "nta shita ña ncha-yo">
+<!ENTITY disable_protection "Xita ña ncha\&apos;yo">
 
-<!ENTITY private_data_success "Stoi tutù ña meu ">
+<!ENTITY private_data_success "Stoi tutù ña meu">
 <!ENTITY private_data_fail "Yee tutù ña makùu stòi">
 
-<!ENTITY bookmarkhistory_button_import "Nda\&apos;kiin">
-<!ENTITY bookmarkhistory_import_both "Ntaki\&apos;in macador tsi ña ni ya\&apos;a nu Android">
-<!ENTITY bookmarkhistory_import_bookmarks "Ntaki\&apos;an macador inka nu Android">
-<!ENTITY bookmarkhistory_import_history "Ntaki\&apos;an ña ni ya\&apos;a inka nu Android">
-<!ENTITY bookmarkhistory_import_wait "Sàa ña mani kunchatu…">
+<!ENTITY bookmarkhistory_button_import "Ndakiin">
+<!ENTITY bookmarkhistory_import_both "Ntakiin makador tsi ña ni ya\&apos;a nu Android">
+<!ENTITY bookmarkhistory_import_bookmarks "Ndakian makador nu Android">
+<!ENTITY bookmarkhistory_import_history "Ndakian ña ni ya\&apos;a inka nu Android">
+<!ENTITY bookmarkhistory_import_wait "Sàa ñamani kunchatu…">
 
 <!ENTITY suggestions_prompt3 "¿A kunu kuncheu ña kuu ndadunkuku?">
 <!--  Localization note (search_bar_item_desc): When the user clicks the url bar
@@ -752,7 +752,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY new_guest_session_title "&brandShortName; ntaki tsaà vichi">
 <!ENTITY new_guest_session_text2 "Nivi niku ku kuachuiña cha ma ku kunchei tutuku (tu\&apos;un see, ña ntsinu yata, ni ñaa nchikavau).\n\nTa nxinu sai tutuña ku ntoi cha ku kitsa meu.">
 <!ENTITY guest_browsing_notification_title "Maku ndanduku">
-<!ENTITY guest_browsing_notification_text "Katavi tava keu">
+<!ENTITY guest_browsing_notification_text "Katavi takua keu">
 
 <!ENTITY exit_guest_session_title "&brandShortName; vichi ku ntakitsai">
 <!ENTITY exit_guest_session_text "Kue tutu ña ndandukuku ku ntoi.">
@@ -767,7 +767,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
-<!ENTITY actionbar_menu "Nda duku">
+<!ENTITY actionbar_menu "Menu">
 <!ENTITY actionbar_done "Ntsinu">
 
 <!-- Voice search in the awesome bar -->

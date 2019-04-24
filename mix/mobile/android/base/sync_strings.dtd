@@ -19,7 +19,7 @@
 <!-- Configure Engines -->
 <!ENTITY sync.configure.engines.title.passwords2 'Ki\&apos;tsa'>
 <!ENTITY sync.configure.engines.title.history 'Ña niya\&apos;a'>
-<!ENTITY sync.configure.engines.title.tabs 'Pestañas'>
+<!ENTITY sync.configure.engines.title.tabs 'Xikua'>
 
 <!-- Localization note (sync.default.client.name): Default string of the "Device
      name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
@@ -29,13 +29,13 @@
 <!ENTITY sync.default.client.name '&formatS1; a &formatS2;'>
 
 <!-- Bookmark folder strings -->
-<!ENTITY bookmarks.folder.menu.label 'Nda duku marcadores'>
+<!ENTITY bookmarks.folder.menu.label 'Nda duku markadores'>
 <!ENTITY bookmarks.folder.places.label ''>
-<!ENTITY bookmarks.folder.tags.label 'Pestañas'>
+<!ENTITY bookmarks.folder.tags.label 'Xikua'>
 <!ENTITY bookmarks.folder.toolbar.label 'Barra de herramientas'>
-<!ENTITY bookmarks.folder.other.label 'Inka marcador'>
-<!ENTITY bookmarks.folder.desktop.label 'Marcadores nu sachu`n'>
-<!ENTITY bookmarks.folder.mobile.label 'Marcador ña telefono'>
+<!ENTITY bookmarks.folder.other.label 'Inka markador'>
+<!ENTITY bookmarks.folder.desktop.label 'Markadore nu sachuun'>
+<!ENTITY bookmarks.folder.mobile.label 'Markador telefono'>
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label 'Fijada'>
 
@@ -44,7 +44,7 @@
 <!-- Localization note: these are shown in screens after the user has
      created or signed in to an account, and take the user back to
      Firefox. -->
-<!ENTITY fxaccount_back_to_browsing 'Nda nchiko sata nu nda ndukuku'>
+<!ENTITY fxaccount_back_to_browsing 'Nchiko sata nu ndukuku'>
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync 'Kukueni nu &syncBrand.shortName.label;'>
 <!ENTITY fxaccount_getting_started_description2 'kitsaa tava na kuu chitaun pestañas, marcaddores contraseñas tsi inka kue ñaa.'>
