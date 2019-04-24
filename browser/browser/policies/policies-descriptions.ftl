@@ -69,6 +69,7 @@ policy-Preferences = Tetapkan dan kunci nilai untuk subset preferensi.
 policy-Proxy = Atur setelan proxy.
 policy-RequestedLocales = Atur daftar kode pelokalan yang diminta untuk aplikasi sesuai urutan.
 policy-SanitizeOnShutdown = Bersihkan semua data navigasi saat mematikan sistem.
+policy-SanitizeOnShutdown2 = Bersihkan data navigasi saat dimatikan
 policy-SearchBar = Setel lokasi bawaan untuk bilah pencarian. Pengguna masih diizinkan untuk mengubahsuainya.
 policy-SearchEngines = Konfigurasikan setelan mesin pencari. Kebijakan ini hanya tersedia dalam versi Extended Support Release (ESR).
 policy-SearchSuggestEnabled = Aktifkan atau nonaktifkan saran pencarian.
