@@ -409,7 +409,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.label        "Nove fenestra">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
-<!ENTITY newPrivateWindow.label     "Nove fenestra private">
+<!ENTITY newPrivateWindow.label     "Nove Fenestra private">
 <!ENTITY newPrivateWindow.accesskey "p">
 
 <!ENTITY editMenu.label         "Edition">
@@ -620,7 +620,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInTab.accesskey   "s">
 <!ENTITY openLinkCmd.label            "Aperir le ligamine in un nove fenestra">
 <!ENTITY openLinkCmd.accesskey        "f">
-<!ENTITY openLinkInPrivateWindowCmd.label "Aperir le ligamine in un nove fenestra private">
+<!ENTITY openLinkInPrivateWindowCmd.label "Aperir le ligamine in un nove Fenestra private">
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "P">
 <!ENTITY openLinkCmdInCurrent.label     "Aperir le ligamine">
 <!ENTITY openLinkCmdInCurrent.accesskey "A">
@@ -946,7 +946,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.openInNewTab.accesskey           "s">
 <!ENTITY syncedTabs.context.openInNewWindow.label            "Aperir in un nove fenestra">
 <!ENTITY syncedTabs.context.openInNewWindow.accesskey        "N">
-<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Aperir in un nove fenestra private">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Aperir in un nove Fenestra private">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "P">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Adder un marcapaginas sur iste scheda…">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "m">
@@ -1107,6 +1107,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.acceptButton.accesskey "D">
 <!ENTITY updateAvailable.cancelButton.label "Non ora">
 <!ENTITY updateAvailable.cancelButton.accesskey "N">
+
 <!ENTITY updateAvailable.panelUI.label "Discargar actualisation de &brandShorterName;">
 
 <!ENTITY updateManual.message "Discarga un nove copia de &brandShorterName; e nos te adjutara a installar lo.">
@@ -1118,7 +1119,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "N">
 <!ENTITY updateManual.panelUI.label "Discargar un nove copia de &brandShorterName;">
 
-<!ENTITY updateRestart.message2 "Post reinitiar rapidemente, &brandShorterName; restaurara tote tu schedas e fenestras aperite que non esseva in modo de navigation private.">
+<!ENTITY updateRestart.message2 "Post reinitiar rapidemente, &brandShorterName; restaurara tote tu schedas e fenestras aperte que non esseva in modo Navigation private.">
 <!ENTITY updateRestart.header.message2 "Reinitiar pro actualisar &brandShorterName;.">
 <!ENTITY updateRestart.acceptButton.label "Reinitiar e Restaurar">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
@@ -1167,11 +1168,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Gere tu additivos per cliccar <image class='addon-addon-icon'/> in le <image class='addon-toolbar-icon'/> menu.">
-<!ENTITY addonPostInstall.incognito.checkbox.label "Consentir a iste extension de fluer in fenestras anonyme">
+<!ENTITY addonPostInstall.incognito.checkbox.label "Consentir a iste extension de fluer in Fenestras private">
 <!ENTITY addonPostInstall.incognito.checkbox.accesskey "A">
 
-<!ENTITY addonPrivateBrowsing.header2.label "Cambios al extensiones in fenestra private">
-<!ENTITY addonPrivateBrowsing.body2.label "Ulle nove extensiones que tu adde a &brandShorterName; non functiona in Fenestras anonyme a minus que tu lo consentir in le parametros.">
+<!ENTITY addonPrivateBrowsing.header2.label "Cambios al extensiones in Fenestras private">
+<!ENTITY addonPrivateBrowsing.body2.label "Ulle nove extensiones que tu adde a &brandShorterName; non functiona in Fenestras private, a minus que tu lo consenti in le parametros.">
 <!ENTITY addonPrivateBrowsing.learnMore.label "Discoperi como gerer le parametros del extension.">
 <!ENTITY addonPrivateBrowsing.okButton.label "OK, io lo comprende">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "O">

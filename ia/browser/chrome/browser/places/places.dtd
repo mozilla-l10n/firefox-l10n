@@ -48,7 +48,7 @@
 <!ENTITY cmd.open.accesskey              "A">
 <!ENTITY cmd.open_window.label           "Aperir in un nove fenestra">
 <!ENTITY cmd.open_window.accesskey       "f">
-<!ENTITY cmd.open_private_window.label     "Aperir in un nove fenestra private">
+<!ENTITY cmd.open_private_window.label     "Aperir in un nove Fenestra private">
 <!ENTITY cmd.open_private_window.accesskey "p">
 <!ENTITY cmd.open_tab.label              "Aperir in un nove scheda">
 <!ENTITY cmd.open_tab.accesskey          "s">
@@ -70,18 +70,11 @@
 <!ENTITY cmd.new_separator.label           "Nove separator">
 <!ENTITY cmd.new_separator.accesskey       "S">
 
-<!ENTITY cmd.reloadLivebookmark.label      "Recargar marcapaginas dynamic">
-<!ENTITY cmd.reloadLivebookmark.accesskey  "R">
-
-<!ENTITY cmd.moveBookmarks.label                  "Mover…">
-<!ENTITY cmd.moveBookmarks.accesskey              "M">
-
 <!ENTITY col.name.label          "Nomine">
 <!ENTITY col.tags.label          "Etiquettas">
 <!ENTITY col.url.label           "Adresse">
 <!ENTITY col.mostrecentvisit.label "Visita plus recente">
 <!ENTITY col.visitcount.label    "Quantitate de visitas">
-<!ENTITY col.description.label   "Description">
 <!ENTITY col.dateadded.label     "Addite">
 <!ENTITY col.lastmodified.label  "Ultime modification">
 
@@ -98,10 +91,6 @@
 
 <!ENTITY forwardButton.tooltip  "Avantiar">
 
-<!ENTITY detailsPane.more.label "Plus">
-<!ENTITY detailsPane.more.accesskey "s">
-<!ENTITY detailsPane.less.label "Minus">
-<!ENTITY detailsPane.less.accesskey "s">
 <!ENTITY detailsPane.selectAnItemText.description "Selige un elemento pro vider e modificar su proprietates">
 
 <!ENTITY view.label               "Vider">

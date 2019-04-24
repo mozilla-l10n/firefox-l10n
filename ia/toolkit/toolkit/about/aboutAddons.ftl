@@ -97,14 +97,14 @@ detail-update-manual =
     .label = Inactive
     .tooltiptext = Non installar automaticamente le actualisationes
 # Used as a description for the option to allow or block an add-on in private windows.
-detail-private-browsing-label = Aperir in un fenestra private
+detail-private-browsing-label = Aperir in Fenestra private
 detail-private-browsing-description2 = Quando consentite, le extension habera accesso a tu activitates online durante le navigation anonyme. <label data-l10n-name="detail-private-browsing-learn-more">Saper plus</label>
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overriden by the user.
-detail-private-disallowed-label = Non consentite in Fenestras anonyme
+detail-private-disallowed-label = Fenestras private non consentite
 detail-private-disallowed-description = Iste extension non flue durante le navigation anonyme. <label data-l10n-name="detail-private-browsing-learn-more">Saper plus</label>.
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
-detail-private-required-label = Require accesso a Fenestras anonyme
+detail-private-required-label = Require accesso a Fenestras private
 detail-private-required-description = Iste extension ha accesso a tu activitates online durante le navigation anonyme. <label data-l10n-name="detail-private-browsing-learn-more">Saper plus</label>.
 detail-private-browsing-on =
     .label = Consentir
@@ -154,7 +154,7 @@ legacy-warning-show-legacy = Monstrar le extensiones obsolete
 legacy-extensions =
     .value = Extensiones obsolete
 legacy-extensions-description = Iste extensiones non satisface le standards actual de { -brand-short-name } e ha essite disactivate. <label data-l10n-name="legacy-learn-more">Saper lo que cambiava al additivos</label>
-private-browsing-description2 = { -brand-short-name } es cambiar como le extensiones functiona in navigation anonyme. Cata nove extension que tu adde a { -brand-short-name } non fluera de ordinario in le Fenestras anonyme. A minus que tu lo consenti in le parametros, le extension non functiona durante le navigation anonyme, e non habera accesso a tu activitates online illac. Nos ha facite iste cambio pro mantener private tu navigation anonyme. <label data-l10n-name="private-browsing-learn-more">Apprende a gerer le parametros del extension.</label>
+private-browsing-description2 = { -brand-short-name } es cambiar como le extensiones functiona in Navigation private. Cata nove extension que tu adde a { -brand-short-name } non fluera de ordinario in le Fenestras private. A minus que tu lo consenti in le parametros, le extension non functiona in Navigation private e illac non habera accesso a tu activitates online. Nos ha facite iste cambio pro mantener private tu navigation anonyme. <label data-l10n-name="private-browsing-learn-more">Apprende a gerer le parametros del extension.</label>
 extensions-view-discover =
     .name = Obtener additivos
     .tooltiptext = { extensions-view-discover.name }

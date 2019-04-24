@@ -30,13 +30,13 @@
 <!ENTITY trackingProtection.startTour1                   "Vider como functiona">
 
 <!ENTITY contentBlocking.title                           "Blocada de contentos">
-<!ENTITY contentBlocking.description                     "Alcun sitos web usa traciatores que pote controlar tu activitate trans internet. In le fenestras private Firefox Content Blocking bloca automaticamente plure traciatores que pote coliger informationes re tu comportamento in navigation.">
+<!ENTITY contentBlocking.description                     "Alcun sitos web usa traciatores que pote controlar tu activitate trans internet. In le Fenestras private, Firefox Content Blocking bloca automaticamente plure traciatores que pote colliger informationes re tu comportamento in navigation.">
 
 <!-- Strings for new Private Browsing with Search -->
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.search.placeholder): This is the placeholder
                        text for the search box.   -->
 <!ENTITY aboutPrivateBrowsing.search.placeholder         "Cercar in le Web">
-<!ENTITY aboutPrivateBrowsing.info.title                 "Tu es in un fenestra private">
+<!ENTITY aboutPrivateBrowsing.info.title                 "Tu es in un Fenestra private">
 <!ENTITY aboutPrivateBrowsing.info.description           "&brandShortName; cancella tu chronologia de navigation e de recerca quando tu quita le application o claude tote le schedas e fenestras de navigation private. Ben que isto non te rende anonyme al sitos web o a tu providitor de servicio internet, illo rende plus facile mantener private lo que tu face online, salvo que pro illes qui usa iste computator.">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article
                        about private browsing myths.   -->
