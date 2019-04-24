@@ -69,6 +69,7 @@ policy-Preferences = Hódnotu za podsadźbu nastajenjow stajić a zawrěć
 policy-Proxy = Nastajenja proksy konfigurować.
 policy-RequestedLocales = Podajće lisćinu požadanych rěčow za nałoženje w preferowanym porjedźe.
 policy-SanitizeOnShutdown = Nawigaciske daty při skónčenju zhašeć.
+policy-SanitizeOnShutdown2 = Nawigaciske daty při kónčenju zhašeć.
 policy-SearchBar = Standardne městno pytanskeho pola nastajić. Wužiwar móže jo hišće přiměrić.
 policy-SearchEngines = Nastajenja pytawow konfigurować. Tute prawidło je jenož za wersiju Extended Support Release (ESR) k dispoziciji.
 policy-SearchSuggestEnabled = Pytanske namjety zmóžnić abo znjemóžnić.
