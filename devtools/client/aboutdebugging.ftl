@@ -18,7 +18,7 @@ about-debugging-page-title-runtime-page = Адладка - Асяроддзе / 
 
 # Display name of the runtime for the currently running instance of Firefox. Used in the
 # Sidebar and in the Setup page.
-about-debugging-this-firefox-runtime-name = Гэта { -brand-shorter-name }
+about-debugging-this-firefox-runtime-name = Гэты { -brand-shorter-name }
 # Sidebar heading for selecting the currently running instance of Firefox
 about-debugging-sidebar-this-firefox =
     .name = { about-debugging-this-firefox-runtime-name }
@@ -107,6 +107,8 @@ about-debugging-setup-network =
 # Text of a button displayed after the network locations "Host" input.
 # Clicking on it will add the new network location to the list.
 about-debugging-network-locations-add-button = Дадаць
+# Text to display when there are no locations to show.
+about-debugging-network-locations-empty-text = Ніводнага сеткавага месцазнаходжання пакуль не дададзена.
 
 # Runtime Page strings
 
@@ -148,6 +150,10 @@ about-debugging-connection-prompt-enable-button = Уключыць запыт н
 about-debugging-connection-prompt-disable-button = Выключыць запыт на падключэнне
 # Title of a modal dialog displayed on remote runtime pages after clicking on the Profile Runtime button.
 about-debugging-profiler-dialog-title = Прафайлер хуткадзейнасці
+# Clicking on the header of a debug target category will expand or collapse the debug
+# target items in the category. This text is used as ’title’ attribute of the header,
+# to describe this feature.
+about-debugging-collapse-expand-debug-targets = Згарнуць / разгарнуць
 
 # Debug Targets strings
 
@@ -158,6 +164,9 @@ about-debugging-debug-target-list-empty = Пакуль нічога.
 # button will open a DevTools toolbox that will allow inspecting the target.
 # A target can be an addon, a tab, a worker...
 about-debugging-debug-target-inspect-button = Даследаваць
+# Text of a button displayed in the "This Firefox" page, in the Temporary Extension
+# section. Clicking on the button will open a file picker to load a temporary extension
+about-debugging-tmp-extension-install-button = Загрузіць часовы дадатак…
 # Text displayed for extensions in "runtime" pages, before displaying a link the extension's
 # manifest URL.
 about-debugging-extension-manifest-url =
@@ -166,6 +175,10 @@ about-debugging-extension-manifest-url =
 # UUIDs look like b293e463-481e-5148-a487-5aaf7a130429
 about-debugging-extension-uuid =
     .label = Унутраны UUID
+# Text displayed for extensions (temporary extensions only) in "runtime" pages, before
+# displaying the location of the temporary extension.
+about-debugging-extension-location =
+    .label = Месцазнаходжанне
 # Text displayed for extensions in "runtime" pages, before displaying the extension's ID.
 # For instance "geckoprofiler@mozilla.com" or "{ed26ddcb-5611-4512-a89a-51b8db81cfb2}".
 about-debugging-extension-id =
@@ -174,3 +187,11 @@ about-debugging-extension-id =
 about-debugging-worker-action-start = Запусціць
 # This string is displayed as a label of the button that unregisters a service worker.
 about-debugging-worker-action-unregister = Разрэгістраваць
+# Displayed for service workers in runtime pages that are registered but stopped.
+about-debugging-worker-status-stopped = Спынена
+# Displayed for service workers in runtime pages, to label the scope of a worker
+about-debugging-worker-scope =
+    .label = Абсяг
+# Displayed as name for the Main Process debug target in the Processes category. Only for
+# remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
+about-debugging-main-process-name = Галоўны працэс
