@@ -274,6 +274,10 @@ enable-addon-button = Activer
 expand-addon-button = Plus d’options
 addons-enabled-heading = Activé
 addons-disabled-heading = Désactivé
+addon-detail-author-label = Auteur
+addon-detail-version-label = Version
+addon-detail-last-updated-label = Dernière mise à jour
+addon-detail-homepage-label = Page d’accueil
 addon-detail-rating-label = Appréciation
 # This string is used to show that an add-on is disabled.
 # Variables:
