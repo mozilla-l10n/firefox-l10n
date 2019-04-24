@@ -56,6 +56,15 @@ about-telemetry-upload-type =
         [enabled] aktif
        *[disabled] nonaktif
     }
+# Example Output: 1 sample, average = 0, sum = 0
+# Variables:
+#   $sampleCount (Integer): amount of histogram samples
+#   $prettyAverage (Integer): average of histogram samples
+#   $sum (Integer): sum of histogram samples
+about-telemetry-histogram-stats =
+    { $sampleCount ->
+       *[other] { $sampleCount } sampel, rata-rata = { $prettyAverage }, jumlah = { $sum }
+    }
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = Laman ini berisi informasi tentang kinerja, perangkat keras, penggunaan, dan pengubahsuaian yang dikumpulkan oleh Telemetri. Informasi ini dikirimkan ke { $telemetryServerOwner } untuk membantu menyempurnakan { -brand-full-name }.
@@ -125,3 +134,9 @@ about-telemetry-category-header = kategori
 about-telemetry-method-header = metode
 about-telemetry-object-header = objek
 about-telemetry-extra-header = ekstra
+about-telemetry-origin-section = Sumber Telemetri
+about-telemetry-origin-origin = sumber
+about-telemetry-origin-count = jumlah
+# Variables:
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link">Firefox Origin Telemetry</a> mengenkode data sebelum dikirim agar { $telemetryServerOwner } bisa menghitung, tetapi tidak bisa mengetahui apakah { -brand-product-name } yang disediakan telah atau tidak berkontribusi atas perhitungan. (<a data-l10n-name="prio-blog-link">pelajari lebih lanjut</a>)
