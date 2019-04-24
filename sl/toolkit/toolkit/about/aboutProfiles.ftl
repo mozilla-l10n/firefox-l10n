@@ -8,6 +8,8 @@ profiles-create = Ustvari nov profil
 profiles-restart-title = Ponovno zaženi
 profiles-restart-in-safe-mode = Ponovno zaženi z onemogočenimi dodatki …
 profiles-restart-normal = Običajen ponovni zagon …
+profiles-flush-conflict = { profiles-conflict }
+profiles-flush-restart-button = Ponovno zaženi { -brand-short-name }
 # Variables:
 #   $name (String) - Name of the profile
 profiles-name = Profil: { $name }
