@@ -8,6 +8,11 @@ profiles-create = Creu Proffil Newydd
 profiles-restart-title = Ailgychwyn
 profiles-restart-in-safe-mode = Ailgychwyn gydag Ychwanegion wedi eu Hanablu…
 profiles-restart-normal = Ailgychwyn fel arfer…
+profiles-conflict = Mae copi arall o { -brand-product-name } wedi gwneud newidiadau i broffiliau. Rhaid ailgychwyn { -brand-short-name } cyn gwneud mwy o newidiadau.
+profiles-flush-fail-title = Heb gadw'r newidiadau
+profiles-flush-conflict = { profiles-conflict }
+profiles-flush-failed = Mae gwall annisgwyl wedi atal eich newidiadau rhag cael eu cadw.
+profiles-flush-restart-button = Ailgychwyn { -brand-short-name }
 # Variables:
 #   $name (String) - Name of the profile
 profiles-name = Proffil: { $name }
