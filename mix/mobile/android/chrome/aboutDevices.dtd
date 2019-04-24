@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutDevices.title              "Kaa">
-<!ENTITY aboutDevices.header             "Kaa meu">
+<!ENTITY aboutDevices.title              "Kaa ndusu">
+<!ENTITY aboutDevices.header             "Kaa ndusu meu">
 <!ENTITY aboutDevices.refresh            "Nta tsàa">
 <!ENTITY aboutDevices.addDeviceHeader    "Chika´a iin kaa ndusu">
 <!ENTITY aboutDevices.roku               "Roku">

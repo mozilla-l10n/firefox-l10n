@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY aboutPage.title                        "Tsa’á &brandShortName;">
 <!ENTITY aboutPage.warningVersion               "&brandShortName; ña prueba kui cha ku sa ntasia.">
-<!ENTITY aboutPage.checkForUpdates.link         "Nda nduku ña tsaá">
-<!ENTITY aboutPage.checkForUpdates.checking     "Nda nduki ña tsaá">
+<!ENTITY aboutPage.checkForUpdates.link         "Nduku ña tsaá»">
+<!ENTITY aboutPage.checkForUpdates.checking     "Nduki ña tsaá…">
 <!ENTITY aboutPage.checkForUpdates.none         "Koò ña ntu tsaá">
 <!ENTITY aboutPage.checkForUpdates.available2   "Snuì ña tsaá">
 <!ENTITY aboutPage.checkForUpdates.downloading  "Snuì ña tsaá...">
@@ -12,10 +12,10 @@
 <!ENTITY aboutPage.faq.label                    "FAQ">
 <!ENTITY aboutPage.support.label                "Soporte">
 <!ENTITY aboutPage.privacyPolicy.label          "Política de privacidad">
-<!ENTITY aboutPage.rights.label                 "Kavi derechos ku">
-<!ENTITY aboutPage.relNotes.label               "Tu'un ña nchaa'na">
+<!ENTITY aboutPage.rights.label                 "Kavi derechos">
+<!ENTITY aboutPage.relNotes.label               "Tu'un ña nchana">
 <!ENTITY aboutPage.credits.label                "Créditos">
 <!ENTITY aboutPage.license.label                "Tu'un licencia">
 
 <!-- LOCALIZATION NOTE (aboutPage.logoTrademark): The message is explicitly about the word "Firefox" being trademarked, that's why we use it, instead of brandShortName. -->
-<!ENTITY aboutPage.logoTrademark                "Firefox tsi logotipo ña Firefox kui marca registrada ña Fundación Mozilla.">
+<!ENTITY aboutPage.logoTrademark                "Firefox tsi logotipo ña Firefox kui marka registrada ña Fundación Mozilla.">

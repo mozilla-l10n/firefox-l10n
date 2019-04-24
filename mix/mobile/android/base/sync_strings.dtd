@@ -47,14 +47,14 @@
 <!ENTITY fxaccount_back_to_browsing 'Nchiko sata nu ndukuku'>
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync 'Kukueni nu &syncBrand.shortName.label;'>
-<!ENTITY fxaccount_getting_started_description2 'kitsaa tava na kuu chitaun pestañas, marcaddores contraseñas tsi inka kue ñaa.'>
-<!ENTITY fxaccount_getting_started_get_started 'Ki\&apos;tsaà'>
+<!ENTITY fxaccount_getting_started_description2 'Kitsaa tava na kuu chitaun xikua, markadores, tu\&apos;un see tsi inka kue ñaa.'>
+<!ENTITY fxaccount_getting_started_get_started 'Kitsaà'>
 <!ENTITY fxaccount_getting_started_old_firefox 'Chachu\&apos;un version yata ña &syncBrand.shortName.label;?'>
 
 <!ENTITY fxaccount_status_auth_server 'Servidor ña cuenta'>
 <!ENTITY fxaccount_status_sync_now 'Sync michumi'>
 <!ENTITY fxaccount_status_syncing2 'Sincronizando…'>
-<!ENTITY fxaccount_status_device_name 'sivìi dispositivo'>
+<!ENTITY fxaccount_status_device_name 'Sivìi kaa ndusu'>
 <!ENTITY fxaccount_status_sync_server 'Servidor de Sync'>
 <!ENTITY fxaccount_status_needs_verification2 'Tsini ñuu kunchekue cuenta.Katavi tava na chichu\&apos;inña nu correo nchau ta niki\&apos;tsau.'>
 <!ENTITY fxaccount_status_needs_credentials 'Kue ku kitsai. Katavi tava Ki\&apos;tsau.'>
@@ -63,10 +63,10 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; nta sai\&apos;ña, mani\&apos;ku chitain\&apos;ña, Katavi “Auto-sync data” menu nda sama Android &gt;Cuentas.'>
 <!ENTITY fxaccount_status_needs_finish_migrating 'Katavi tava kuu kitsau nuu kuenta staa Firefox.'>
 <!ENTITY fxaccount_status_choose_what 'Katsi ña kunu chita\&apos;un'>
-<!ENTITY fxaccount_status_bookmarks 'Marcadores'>
-<!ENTITY fxaccount_status_history 'ña niya\&apos;a'>
-<!ENTITY fxaccount_status_passwords2 'ki\&apos;tsa'>
-<!ENTITY fxaccount_status_tabs 'Kuna pestañas'>
+<!ENTITY fxaccount_status_bookmarks 'Markadores'>
+<!ENTITY fxaccount_status_history 'Ña niya\&apos;a'>
+<!ENTITY fxaccount_status_passwords2 'Kitsa'>
+<!ENTITY fxaccount_status_tabs 'Kuna xikua'>
 <!ENTITY fxaccount_status_additional_settings 'Sama ña kunu'>
 <!ENTITY fxaccount_pref_sync_use_metered2 'Chita\&apos;an tsi Wi-Fi'>
 <!-- Localization note: Only affects background syncing, user initiated
@@ -85,12 +85,12 @@
 <!ENTITY fxaccount_remove_account_dialog_message2 'Tutu ña ncheu ma ntoy ku ku\&apos;nkai nu dispositivo yoo, cha maku chitai\&apos;ña tsi Kuenta\&apos;ku.'>
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_remove_account_toast2 'Cuenta Firefox &formatS; Ntsinu.'>
+<!ENTITY fxaccount_remove_account_toast2 'Kuenta Firefox &formatS; Ntsinu.'>
 <!-- Localization note (fxaccount_remove_account_dialog_action_confirm): This is the label for the
  confirm button in the dialog that shows up when disconnecting from sync. -->
 <!ENTITY fxaccount_remove_account_dialog_action_confirm 'Keè'>
 
-<!ENTITY fxaccount_enable_debug_mode 'Ki\&apos;tsa tana modo nta sa vaà'>
+<!ENTITY fxaccount_enable_debug_mode 'Kitsa tana modo nta sa vaà'>
 
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
