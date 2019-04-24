@@ -35,5 +35,6 @@
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.search.placeholder): This is the placeholder
                        text for the search box.   -->
 <!ENTITY aboutPrivateBrowsing.search.placeholder         "ဝဘ်တွင် ရှာဖွေပါ">
+<!ENTITY aboutPrivateBrowsing.info.title                 "သင် ကိုယ်ပိုင်ဝင်းဒိုးတွင် ရှိနေသည်။">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article
                        about private browsing myths.   -->

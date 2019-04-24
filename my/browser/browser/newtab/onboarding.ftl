@@ -26,6 +26,7 @@ onboarding-ghostery-title = Ghostery
 onboarding-ghostery-text = Ghostery  လို extension အသုံးပြုပြီးတော့ လျှင်မြန်၊ ဖျက်လက် လုံခြုံစိတ်ချစွာရှာဖွေပါ၊ Ghostery ကစိတ်ပျက်စရာကြော်ငြာတွေကိုတားစီးပေးပါတယ်။
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = ထပ်တူပြုရန်
+onboarding-fxa-text = { -fxaccount-brand-name } အတွက် အကောင့်အသစ်ဖွင့်ပြီး { -brand-short-name } သုံးမည့်နေရာတိုင်းတွင် သင့်စာမှတ်များ၊စာဝှက်များကို အသုံးချပြီးလျှင် တက်ဗ်များကို ဖွင့်ပါ
 
 ## Message strings belonging to the Return to AMO flow
 

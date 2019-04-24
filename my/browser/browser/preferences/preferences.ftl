@@ -617,6 +617,9 @@ content-blocking-cryptominers = Cryptominers
 content-blocking-fingerprinters = လက်ဗွေများ
 content-blocking-warning-title = ကြိုတင်အသိပေးသည်!
 content-blocking-learn-how = ဆောင်ရွက်ပုံကို လေ့လာရန်
+content-blocking-reload-tabs-button =
+    .label = တပ်ဗ်အားလုံးကို ပြန်ဖွင့်ရန်
+    .accesskey = R
 content-blocking-trackers-label =
     .label = ခြေရာခံမှုများ
     .accesskey = T
@@ -640,6 +643,9 @@ content-blocking-fingerprinters-label =
 
 ## Privacy Section - Tracking
 
+tracking-manage-exceptions =
+    .label = ချွင်းချက်များကို စီမံပါ
+    .accesskey = x
 
 ## Privacy Section - Permissions
 
@@ -689,6 +695,9 @@ collection-health-report =
     .label = { -vendor-short-name } သို့နည်းပညာဆိုင်ရာချက်လက်များပို့ရန်{ -brand-short-name } ကို ခွင့်ပြုပါ
     .accesskey = r
 collection-health-report-link = ပိုမိုလေ့လာရန်
+collection-studies =
+    .label = { -brand-short-name } ကို ထည့်သွင်းခြင်းနှင့် လေ့လာမှုလုပ်ရန် ခွင့်ပြုပါ
+collection-studies-link = { -brand-short-name }လေ့လာမှု ကြည့်ရန်
 addon-recommendations-link = ပိုမိုလေ့လာရန်
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.

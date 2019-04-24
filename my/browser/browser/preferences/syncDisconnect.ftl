@@ -5,6 +5,7 @@
 sync-disconnect-dialog =
     .title = { -sync-brand-short-name }ချိတ်ဆက်မှုဖြုတ်မလား
     .style = width: 36em; min-height: 35em;
+sync-disconnect-heading = ဤကွန်ပျူတာပေါ်မှာ browser ဒေတာကိုဖယ်ရှားချင်ပါသလား။ မဟုတ်လျှင် သင့်အကောင့်ထဲမှာ သင့်ရဲ့ { -sync-brand-name } နှင့် ဆိုင်တဲ့ အချက်အလက်များ ဆက်ရှိနေပါလိမ့်မယ်။
 sync-disconnect-remove-sync-caption = { -sync-brand-name } အချက်အလက်များကို ဖျက်ပါ
 sync-disconnect-remove-sync-data = စာမှတ်များ၊ရှာဖွေမှုမှတ်တမ်းများ၊စကားဝှက်များ၊ စသည်ဖြင့်။
 sync-disconnect-remove-other-caption = အခြားကိုယ်ရေးကိုယ်တာဒေတာများကို ပယ်ဖျက်ပါ

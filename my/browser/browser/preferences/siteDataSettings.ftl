@@ -31,6 +31,14 @@ site-data-button-save =
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 site-usage-pattern = { $value } { $unit }
+site-usage-persistent = { site-usage-pattern }
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+site-storage-usage =
+    .value = { $value }{ $unit }
+site-storage-persistent =
+    .value = { site-storage-usage.value }
 site-data-remove-all =
     .label = အားလုံးကို ဖယ်ရှားရန်
     .accesskey = e
@@ -44,3 +52,5 @@ site-data-removing-dialog =
     .title = { site-data-removing-header }
     .buttonlabelaccept = ဖယ်ရှားပါ
 site-data-removing-header = ကွတ်ကီးနှင့် ဆိုက်အချက်အလက်များကို ဖယ်ရှားခြင်း
+site-data-removing-desc = ကွတ်ကီးနှင့်ဆိုက်ချက်လက်များဖယ်ရှားခြင်းသည် သင့်ကို ဆိုက်မှ ထွက်ခွာစေမည်။ သင်ပြောင်းလဲမှုလုပ်မှာ သေချာပါသလား။
+site-data-removing-table = အောက်ပါဆိုက်များအတွက် ကွတ်ကီးနှင့် ဆိုက်ချက်လက်များကို ဖယ်ရှားပါ
