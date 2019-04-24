@@ -10,10 +10,13 @@
 <!ENTITY fullscreenButton.exitfullscreenlabel "Ffeɣ seg uskar n ugdil ačuran">
 <!ENTITY castingButton.castingLabel "Snewzi ɣef ugdil">
 <!ENTITY closedCaption.off "Yensa">
-
 <!-- LOCALIZATION NOTE (volumeScrubber.label): This label is exposed to
      accessibility software to clarify what the slider is for. -->
 <!ENTITY volumeScrubber.label "Tigri n ubleɣ">
+
+<!-- LOCALIZATION NOTE (pictureInPicture.label): This string is used as part of
+the Picture-in-Picture video toggle button when the mouse is hovering it. -->
+<!ENTITY pictureInPicture.label "Tugna-deg-tugna">
 
 <!ENTITY stats.media "Allal n teywalt">
 <!ENTITY stats.size "Teɣzi">
@@ -34,6 +37,7 @@
 <!ENTITY error.srcNotSupported "Amasal tvidyutt neɣ tawsit MIME ur ţusefraken ara.">
 <!ENTITY error.noSource2 "Ulac tavidyutt yettwafen anda tawsit MIME tettusefrak.">
 <!ENTITY error.generic "Urar n tvidyutt yeḥbes acku tella tuccḍa tarussint.">
+
 
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
